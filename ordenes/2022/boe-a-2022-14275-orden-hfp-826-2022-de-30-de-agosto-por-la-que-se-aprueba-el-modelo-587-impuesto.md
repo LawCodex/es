@@ -542,78 +542,73 @@ Proveedor o destinatario (10): Este campo debe cumplimentarse con el NIF, NIF IV
 
 ## ANEXO VII — Contabilidad. Régimen fiscal
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Artículo 5 Ley 16/2013</th>
-<th class="cabeza_tabla">Código</th>
+<th colspan="2">Artículo 5 Ley 16/2013</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Sujeción.</td>
-<td class="cuerpo_tabla_izq"> Sujeto y no exento.</td>
-<td class="cuerpo_tabla_centro">a</td>
+<td>Sujeción.</td>
+<td> Sujeto y no exento.</td>
+<td>a</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">No sujeción siete 1a.</td>
-<td class="cuerpo_tabla_izq">PCA igual o inferior a 150.</td>
-<td class="cuerpo_tabla_centro">b</td>
+<td>No sujeción siete 1a.</td>
+<td>PCA igual o inferior a 150.</td>
+<td>b</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">No sujeción siete 1b.</td>
-<td class="cuerpo_tabla_izq">Envío fuera de territorio de aplicación del impuesto por fabricante.</td>
-<td class="cuerpo_tabla_centro">c</td>
+<td>No sujeción siete 1b.</td>
+<td>Envío fuera de territorio de aplicación del impuesto por fabricante.</td>
+<td>c</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">No sujeción siete 1c.</td>
-<td class="cuerpo_tabla_izq">Envío fuera de territorio de aplicación del impuesto por almacenista.</td>
-<td class="cuerpo_tabla_centro">d</td>
+<td>No sujeción siete 1c.</td>
+<td>Envío fuera de territorio de aplicación del impuesto por almacenista.</td>
+<td>d</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención ocho 1a.</td>
-<td class="cuerpo_tabla_izq">Transformación química.</td>
-<td class="cuerpo_tabla_centro">e</td>
+<td>Exención ocho 1a.</td>
+<td>Transformación química.</td>
+<td>e</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención ocho 1b.</td>
-<td class="cuerpo_tabla_izq">Destrucción.</td>
-<td class="cuerpo_tabla_centro">f</td>
+<td>Exención ocho 1b.</td>
+<td>Destrucción.</td>
+<td>f</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención ocho 1c.</td>
-<td class="cuerpo_tabla_izq">Equipos militares.</td>
-<td class="cuerpo_tabla_centro">g</td>
+<td>Exención ocho 1c.</td>
+<td>Equipos militares.</td>
+<td>g</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención ocho 1d.</td>
-<td class="cuerpo_tabla_izq">Envío fuera de territorio de aplicación del impuesto por adquirente intracomunitario.</td>
-<td class="cuerpo_tabla_centro">h</td>
+<td>Exención ocho 1d.</td>
+<td>Envío fuera de territorio de aplicación del impuesto por adquirente intracomunitario.</td>
+<td>h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención ocho 1d.</td>
-<td class="cuerpo_tabla_izq">Navegación internacional.</td>
-<td class="cuerpo_tabla_centro">i</td>
+<td>Exención ocho 1d.</td>
+<td>Navegación internacional.</td>
+<td>i</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Régimen nueve 4.</td>
-<td class="cuerpo_tabla_izq">Diferimiento en el devengo.</td>
-<td class="cuerpo_tabla_centro">j</td>
+<td>Régimen nueve 4.</td>
+<td>Diferimiento en el devengo.</td>
+<td>j</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención diecinueve.</td>
-<td class="cuerpo_tabla_izq">Sistemas eléctricos.</td>
-<td class="cuerpo_tabla_centro">k</td>
+<td>Exención diecinueve.</td>
+<td>Sistemas eléctricos.</td>
+<td>k</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exención veinte.</td>
-<td class="cuerpo_tabla_izq">Ingredientes farmacéuticos.</td>
-<td class="cuerpo_tabla_centro">l</td>
+<td>Exención veinte.</td>
+<td>Ingredientes farmacéuticos.</td>
+<td>l</td>
 </tr>
 </tbody>
 </table>

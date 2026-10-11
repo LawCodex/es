@@ -310,201 +310,201 @@ Madrid, 23 de octubre de 2015.–El Ministro de Industria, Energía y Turismo, J
 
 1.1 Parámetros retributivos de las instalaciones tipo de referencia con autorización de explotación definitiva en los años 2015 y 2016.
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecn.</p>
+<p>Tecn.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva</p>
+<p>Año de Autorización de Explotación Definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida Útil regulatoria (años)</p>
+<p>Vida Útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la Inversión Inicial (€/MW)</p>
+<p>Valor estándar de la Inversión Inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de Explotación primer año (€/MWh)</p>
+<p>Costes de Explotación primer año (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes</p>
-<p class="cabeza_tabla">de biomasa primer año (€/t)</p>
+<p>Costes</p>
+<p>de biomasa primer año (€/t)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Horas de funcionamiento máximo para la percepción de Ro (h)</p>
+<p>Horas de funcionamiento máximo para la percepción de Ro (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionam. mínimo Nhmin Anual (h)</p>
+<p>N.º Horas equivalentes de funcionam. mínimo Nhmin Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionam. Uf Anual (h)</p>
+<p>Umbral de funcionam. Uf Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución</p>
-<p class="cabeza_tabla">a la Inversión Rinv (€/MW) 2015-2016</p>
+<p>Retribución</p>
+<p>a la Inversión Rinv (€/MW) 2015-2016</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Operación (primer año) (***) Ro (€/MWh)</p>
+<p>Retribución a la Operación (primer año) (***) Ro (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Biomasa</p>
+<p>Biomasa</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">ITR-0101</p>
+<p>ITR-0101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.335.000</p>
+<p>3.335.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.500</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,39</p>
+<p>42,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47,07</p>
+<p>47,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.500</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">299.264</p>
+<p>299.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50,858</p>
+<p>50,858</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.335.000</p>
+<p>3.335.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.500</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,76</p>
+<p>42,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47,54</p>
+<p>47,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.500</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">299.264</p>
+<p>299.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51,575</p>
+<p>51,575</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Eólica</p>
+<p>Eólica</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">ITR-0102</p>
+<p>ITR-0102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>1.200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.800</p>
+<p>2.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24,95</p>
+<p>24,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.400</p>
+<p>1.400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.243</p>
+<p>63.243</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>1.200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.800</p>
+<p>2.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24,96</p>
+<p>24,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.400</p>
+<p>1.400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.275</p>
+<p>63.275</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -516,339 +516,339 @@ Nota: Los anteriores parámetros retributivos están sujetos a las revisiones y 
 
 1.2 Parámetros retributivos provisionales de las instalaciones tipo de referencia con autorización de explotación definitiva en los años 2017, 2018, 2019 y 2020.
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecn.</p>
+<p>Tecn.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva</p>
+<p>Año de Autorización de Explotación Definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida Útil regulatoria (años)</p>
+<p>Vida Útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la Inversión Inicial (€/MW)</p>
+<p>Valor estándar de la Inversión Inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionam. (h)</p>
+<p>Número de horas equivalentes de funcionam. (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de Explotación primer año (€/MWh)</p>
+<p>Costes de Explotación primer año (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de biomasa primer año (€/t)</p>
+<p>Costes de biomasa primer año (€/t)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Horas de funcionam. máximo para la percepción de Ro (h)</p>
+<p>Horas de funcionam. máximo para la percepción de Ro (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionam. mínimo Nhmin Anual (h)</p>
+<p>N.º Horas equivalentes de funcionam. mínimo Nhmin Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionam. Uf Anual (h)</p>
+<p>Umbral de funcionam. Uf Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Inversión Rinv (€/MW) 2017-2020</p>
+<p>Retribución a la Inversión Rinv (€/MW) 2017-2020</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Operación (primer año) (***) Ro (€/MWh)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">Biomasa</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0101</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.335.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">299.264</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50,376</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.335.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">299.264</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">51,337</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.335.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48,98</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">299.264</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52,308</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2020</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.335.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">44,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,47</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">299.264</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">53,292</p>
+<p>Retribución a la Operación (primer año) (***) Ro (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Eólica</p>
+<p>Biomasa</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0102</p>
+<p>ITR-0101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>3.335.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.800</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,29</p>
+<p>43,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>48,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.400</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.384</p>
+<p>299.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.800</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.400</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">840</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">64.010</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>50,376</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>3.335.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.800</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,71</p>
+<p>43,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>48,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.400</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64.643</p>
+<p>299.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>51,337</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2020</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>3.335.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.800</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,93</p>
+<p>43,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>48,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>6.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.400</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65.282</p>
+<p>299.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>52,308</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>3.335.000</p>
+</td>
+<td>
+<p>6.500</p>
+</td>
+<td>
+<p>44,34</p>
+</td>
+<td>
+<p>49,47</p>
+</td>
+<td>
+<p>6.500</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>299.264</p>
+</td>
+<td>
+<p>53,292</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Eólica</p>
+</td>
+<td rowspan="4">
+<p>ITR-0102</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.200.000</p>
+</td>
+<td>
+<p>2.800</p>
+</td>
+<td>
+<p>25,29</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>63.384</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2018</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.200.000</p>
+</td>
+<td>
+<p>2.800</p>
+</td>
+<td>
+<p>25,50</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>64.010</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.200.000</p>
+</td>
+<td>
+<p>2.800</p>
+</td>
+<td>
+<p>25,71</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>64.643</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.200.000</p>
+</td>
+<td>
+<p>2.800</p>
+</td>
+<td>
+<p>25,93</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1.400</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>65.282</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -925,97 +925,97 @@ En ningún caso el valor de la Retribución a la inversión será negativo. Si d
 
 3.1 Coeficientes m<sub>IT,a</sub> de las instalaciones tipo con autorización de explotación definitiva en los años 2015 y 2016.
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de Identificación</p>
-<p class="cabeza_tabla">de la Instalación Tipo de Referencia</p>
+<p>Código</p>
+<p>de Identificación</p>
+<p>de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año</p>
-<p class="cabeza_tabla">de Autorización de Explotación Definitiva «a»</p>
+<p>Año</p>
+<p>de Autorización de Explotación Definitiva «a»</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo (Art. 2 Real Decreto 413/2014)</p>
+<p>Grupo (Art. 2 Real Decreto 413/2014)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo</p>
+<p>Código de Identificación de la Instalación Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">m<sub>IT,a</sub></p>
+<p>m<sub>IT,a</sub></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Biomasa</p>
+<p>Biomasa</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">ITR-0101</p>
+<p>ITR-0101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6 / b.8</p>
+<p>b.6 / b.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04001</p>
+<p>IT-04001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">299.264</p>
+<p>299.264</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6 / b.8</p>
+<p>b.6 / b.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04002</p>
+<p>IT-04002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">299.264</p>
+<p>299.264</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Eólica</p>
+<p>Eólica</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">ITR-0102</p>
+<p>ITR-0102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04007</p>
+<p>IT-04007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117.737</p>
+<p>117.737</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04008</p>
+<p>IT-04008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117.737</p>
+<p>117.737</p>
 </td>
 </tr>
 </tbody>
@@ -1025,150 +1025,150 @@ Los parámetros retributivos de la instalación tipo se calcularán a partir de 
 
 3.2 Coeficientes m<sub>IT,a</sub> provisionales para las instalaciones tipo con autorización de explotación definitiva en los años 2017, 2018, 2019 y 2020.
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva «a»</p>
+<p>Año de Autorización de Explotación Definitiva «a»</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo (Art. 2 Real Decreto 413/2014)</p>
+<p>Grupo (Art. 2 Real Decreto 413/2014)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo</p>
+<p>Código de Identificación de la Instalación Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">m<sub>IT,a</sub></p>
+<p>m<sub>IT,a</sub></p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Biomasa</p>
+<p>Biomasa</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0101</p>
+<p>ITR-0101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6 / b.8</p>
+<p>b.6 / b.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04003</p>
+<p>IT-04003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">299.264</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">b.6 / b.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04004</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">299.264</p>
+<p>299.264</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6 / b.8</p>
+<p>b.6 / b.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04005</p>
+<p>IT-04004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">299.264</p>
+<p>299.264</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2020</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6 / b.8</p>
+<p>b.6 / b.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04006</p>
+<p>IT-04005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">299.264</p>
+<p>299.264</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>b.6 / b.8</p>
+</td>
+<td>
+<p>IT-04006</p>
+</td>
+<td>
+<p>299.264</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Eólica</p>
+<p>Eólica</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0102</p>
+<p>ITR-0102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04009</p>
+<p>IT-04009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117.737</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">b.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04010</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">117.737</p>
+<p>117.737</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04011</p>
+<p>IT-04010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117.737</p>
+<p>117.737</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2020</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04012</p>
+<p>IT-04011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117.737</p>
+<p>117.737</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>b.2</p>
+</td>
+<td>
+<p>IT-04012</p>
+</td>
+<td>
+<p>117.737</p>
 </td>
 </tr>
 </tbody>

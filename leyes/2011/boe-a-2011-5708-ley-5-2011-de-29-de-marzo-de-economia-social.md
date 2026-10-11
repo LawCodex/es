@@ -242,22 +242,6 @@ La planificación de las actividades de fomento y desarrollo de la economía soc
 
 Las cooperativas y sociedades laborales que incorporen personas trabajadoras desempleadas como personas socias trabajadoras o de trabajo podrán beneficiarse de bonificaciones en las cuotas empresariales de la Seguridad Social, en los términos y las cuantías que legalmente se establezcan.
 
-> Téngase en cuenta que esta última actualización establecida por la disposición final 3.1 Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de septiembre de 2023 según determina su disposición final 13.
-
-> Redacción anterior:
-
-> "Artículo 9. Incentivos a la incorporación de trabajadores a entidades de la economía social.
-
-> 1\. Se incorporan las siguientes bonificaciones aplicables a las entidades de la economía social:
-
-> a) Bonificaciones en las cuotas empresariales de la Seguridad Social durante tres años, cuya cuantía será de 137,5 euros/mes (1.650 euros/año) durante el primer año, y de 66,67 euros/mes (800 euros/año) durante los dos años restantes, aplicable a las cooperativas y sociedades laborales que incorporen trabajadores desempleados como socios trabajadores o de trabajo, y que sean menores de 30 años, o menores de 35 años que tengan reconocido un grado de discapacidad igual o superior al 33 por ciento. Si la incorporación se realiza con mayores de 30 años, la bonificación será de 66,67 euros/mes (800 euros/año) durante los tres años. En el caso de cooperativas, las bonificaciones se aplicarán cuando estas hayan optado por un Régimen de Seguridad Social propio de trabajadores por cuenta ajena, en los términos de la disposición adicional cuarta del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
-
-> b) Bonificaciones en las cuotas de la Seguridad Social aplicables a las empresas de inserción en los supuestos de contratos de trabajo suscritos con personas en situación de exclusión social incluidas en el artículo 2 de la Ley 44/2007, de 13 de diciembre, para la regulación del régimen de las empresas de inserción, de 70,83 euros/mes (850 euros/año) durante toda la vigencia del contrato, o durante tres años en caso de contratación indefinida, o bien de 137,50 euros/mes (1.650 euros/año) durante toda la vigencia del contrato o durante tres años, en caso de contratación indefinida, para el caso de menores de 30 años, o menores de 35 años que tengan reconocido un grado de discapacidad igual o superior al 33 por ciento. Estas bonificaciones no serán compatibles con las previstas en el artículo 16.3.a) de la Ley 44/2007, de 13 de diciembre.
-
-> 2\. En relación al apartado 1.a), se aplicará lo establecido en la sección I del capítulo I de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, salvo lo establecido en su artículo 6.2.
-
-> En lo no previsto en el apartado 1.b), se aplicará lo establecido en la sección I del título I de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, en cuanto a los requisitos que han de cumplir los beneficiarios, las exclusiones en la aplicación de las bonificaciones, cuantía máxima, incompatibilidades o reintegro de beneficios."
-
 > Se modifica, con efectos desde el 1 de septiembre de 2023, por la disposición final 3.1 Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
 > Se modifica por el art. 3.2 de la Ley 31/2015, de 9 de septiembre. [Ref. BOE-A-2015-9735](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9735).
@@ -275,20 +259,6 @@ Quienes capitalicen la prestación por desempleo, también podrán destinar la m
 Se abonará como pago único la cuantía de la prestación, calculada en días completos, de la que deducirá el importe relativo al interés legal del dinero.
 
 En los supuestos en los que se prevé la capitalización sin estar en situación legal de desempleo, la solicitud de la prestación y de la capitalización será simultánea y la fecha de esta se asimilará, a efectos de reconocimiento y cálculo de la prestación, a la fecha de la situación legal de desempleo.
-
-> Téngase en cuenta que esta última actualización del apartado 1.1ª, establecida por la disposición final 3.2 Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de septiembre de 2023 según determina su disposición final 13.
-
-> Redacción anterior:
-
-> "1.ª La entidad gestora podría abonar el valor actual del importe de la prestación por desempleo de nivel contributivo, a los beneficiarios de prestaciones cuando pretendan incorporarse, de forma estable, como socios trabajadores o de trabajo en cooperativas o en sociedades laborales, aunque hayan mantenido un vínculo contractual previo con dichas sociedades, independientemente de su duración o constituirlas.
-
-> En estos supuestos, el abono de la prestación se realizará de una sola vez por el importe que corresponda a las aportaciones al capital, incluyendo la cuota de ingreso, en el caso de las cooperativas, o al de la adquisición de acciones o participaciones del capital social en una sociedad laboral en lo necesario para acceder a la condición de socio.
-
-> Quienes capitalicen la prestación por desempleo, también podrán destinar la misma a los gastos de constitución y puesta en funcionamiento de una entidad, así como al pago de las tasas y el precio de servicios específicos de asesoramiento, formación e información relacionados con la actividad a emprender.
-
-> Se abonará como pago único la cuantía de la prestación, calculada en días completos, de la que deducirá el importe relativo al interés legal del dinero.
-
-> No obstante, si no se obtiene la prestación por su importe total, el importe restante se podrá obtener conforme a lo establecido en la regla 2.ª siguiente."
 
 2.ª La entidad gestora podrá abonar mensualmente el importe de la prestación por desempleo de nivel contributivo para subvencionar la cotización del trabajador a la Seguridad Social, y en este supuesto:
 
@@ -331,20 +301,6 @@ b) El abono se realizará mensualmente por la entidad gestora al trabajador, pre
 ## Artículo 11. Bonificaciones de cuotas de Seguridad Social para las personas socias trabajadoras o socias de trabajo de las sociedades cooperativas, en período de descanso por nacimiento, adopción, guarda con fines de adopción, acogimiento, riesgo durante el embarazo o riesgo durante la lactancia natural.
 
 A la cotización de las personas socias trabajadoras o socias de trabajo de las sociedades cooperativas, sustituidos durante los períodos de descanso por nacimiento, y cuidado del o de la menor, ejercicio corresponsable en el cuidado del menor o de la menor lactante, riesgo durante el embarazo o riesgo durante la lactancia natural, mediante los contratos de sustitución bonificados, celebrados con personas desempleadas, les será de aplicación las bonificaciones que legalmente se establezcan.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 3.3 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de septiembre de 2023 según determina su disposición final 13.
-
-> Redacción anterior:
-
-> **"Artículo 11. Bonificaciones de cuotas de Seguridad Social para los socios trabajadores o socios de trabajo de las sociedades cooperativas, en período de descanso por maternidad, adopción, acogimiento, riesgo durante el embarazo, riesgo durante la lactancia natural o suspensión por paternidad.**
-
-> A la cotización de los socios trabajadores o socios de trabajo de las sociedades cooperativas, sustituidos durante los períodos de descanso por maternidad, adopción, acogimiento, paternidad, riesgo durante el embarazo o riesgo durante la lactancia natural, mediante los contratos de interinidad bonificados, celebrados con desempleados a que se refiere el Real Decreto-Ley 11/1998, de 4 de septiembre, les será de aplicación:
-
-> a) Una bonificación del 100 por cien en las cuotas empresariales de la Seguridad Social, incluidas las de accidentes de trabajo y enfermedades profesionales y en las aportaciones empresariales de las cuotas de recaudación conjunta para el caso de los socios encuadrados en un régimen de Seguridad Social propio de trabajadores por cuenta ajena.
-
-> b) Una bonificación del 100 por cien de la cuota que resulte de aplicar sobre la base mínima o fija que corresponda el tipo de cotización establecido como obligatorio para trabajadores incluidos en un régimen de Seguridad Social propio de trabajadores autónomos.
-
-> Solo será de aplicación esta bonificación mientras coincidan en el tiempo la suspensión de actividad por dichas causas y el contrato de interinidad del sustituto y, en todo caso, con el límite máximo del periodo de suspensión."
 
 > Se modifica por la disposición final 3.3 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 

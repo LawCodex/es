@@ -164,28 +164,6 @@ Se garantizará especialmente que las declaraciones o interrogatorios de las par
 
 Cuando sean víctimas de violencia de género, de violencia sexual, de trata de seres humanos o cuando sean víctimas menores de edad o con discapacidad. Todas ellas podrán intervenir desde los lugares donde se encuentren recibiendo oficialmente asistencia, atención, asesoramiento o protección, o desde cualquier otro lugar, siempre que dispongan de medios suficientes para asegurar su identidad y las adecuadas condiciones de la intervención.
 
-> Téngase en cuenta que este artículo, modificado por el art. 23.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> **"Artículo 4. Derechos de las víctimas y de las personas perjudicadas.**
-
-> El Ministerio Fiscal y el Juez de Menores velarán en todo momento por la protección de los derechos de las víctimas y de las personas perjudicadas por las infracciones cometidas por las personas menores de edad.
-
-> De manera inmediata se les instruirá de las medidas de asistencia a las víctimas que prevé la legislación vigente, debiendo el Letrado de la Administración de Justicia derivar a la víctima de violencia a la Oficina de Atención a la Víctima competente.
-
-> Las víctimas y las personas perjudicadas tendrán derecho a personarse y ser parte en el expediente que se incoe al efecto, para lo cual el Letrado de la Administración de Justicia les informará en los términos previstos en los artículos 109 y 110 de la Ley de Enjuiciamiento Criminal, instruyéndoles de su derecho a nombrar dirección letrada o instar su nombramiento de oficio en caso de ser titulares del derecho a la asistencia jurídica gratuita. Asimismo, les informará de que, de no personarse en el expediente y no hacer renuncia ni reserva de acciones civiles, el Ministerio Fiscal las ejercitará si correspondiere.
-
-> Quienes se personaren podrán desde entonces tomar conocimiento de lo actuado e instar la práctica de diligencias y cuanto a su derecho convenga. Sin perjuicio de lo anterior, el Letrado de la Administración de Justicia deberá comunicar a las víctimas y a las personas perjudicadas, se hayan o no personado, todas aquellas resoluciones que se adopten tanto por el Ministerio Fiscal como por el Juez de Menores, que puedan afectar a sus intereses.
-
-> En especial, cuando el Ministerio Fiscal, en aplicación de lo dispuesto en el artículo 18 de esta Ley, desista de la incoación del expediente deberá inmediatamente ponerlo en conocimiento de las víctimas y las personas perjudicadas haciéndoles saber su derecho a ejercitar las acciones civiles que les asisten ante la jurisdicción civil.
-
-> Del mismo modo, el Letrado de la Administración de Justicia notificará por escrito la sentencia que se dicte a las víctimas y las personas perjudicadas por la infracción penal, aunque no se hayan mostrado parte en el expediente.
-
-> Cuando la víctima lo sea de un delito de violencia de género, tiene derecho a que le sean notificadas por escrito, mediante testimonio íntegro, las medidas cautelares de protección adoptadas. Asimismo, tales medidas cautelares serán comunicadas a las administraciones públicas competentes para la adopción de medidas de protección, sean estas de seguridad o de asistencia social, jurídica, sanitaria, psicológica o de cualquier otra índole.
-
-> La víctima de un delito violento tiene derecho a ser informada permanentemente de la situación procesal del presunto agresor. En particular, en el caso de una medida, cautelar o definitiva, de internamiento, la víctima será informada en todo momento de los permisos y salidas del centro del presunto agresor, salvo en aquellos casos en los que manifieste su deseo de no recibir notificaciones."
-
 > Se modifica, con efectos desde el 3 de abril de 2025, por el art. 23.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por la disposición final 11.1 de la Ley Orgánica 8/2021, de 4 de junio. [Ref. BOE-A-2021-9347](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9347)
@@ -505,8 +483,6 @@ f) La asistencia de los servicios del equipo técnico adscrito al Juzgado de Men
 a) Cuando exista riesgo de imposibilidad de concurrir al juicio oral.
 
 b) Cuando se trate de una persona especialmente vulnerable. En todo caso, tendrá esa consideración toda persona menor de catorce años o persona con discapacidad necesitada de especial protección.
-
-> Téngase en cuenta que este apartado 4, añadido por el art. 23.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 > Se añade el apartado 4, con efectos desde el 3 de abril de 2025, por el art. 23.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -1075,8 +1051,6 @@ Cuando los Jueces de Menores aplicaren alguna de las medidas terapéuticas a las
 ##### Disposición adicional tercera. Creación del Registro Central de Menores.
 
 En el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes se llevará un Registro Central de sentencias, medidas cautelares, requisitorias y rebeldías dictadas o acordadas en todos los procesos tramitados con arreglo a la presente ley orgánica. El acceso a los datos de este Registro se ajustará a lo establecido en la normativa que regule el Sistema de registros administrativos de apoyo a la Administración de Justicia y el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos, y en la legislación aplicable en materia de protección de datos personales.
-
-> Téngase en cuenta que el Registro Central de Menores previsto en esta disposición, entrará en funcionamiento el 8 de noviembre de 2025, según establece la disposición transitoria única de la Ley Orgánica 4/2024, de 18 de octubre. [Ref. BOE-A-2024-21414](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21414)
 
 > Se modifica por la disposición final 1 de la Ley Orgánica 4/2024, de 18 de octubre. [Ref. BOE-A-2024-21414](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21414)
 

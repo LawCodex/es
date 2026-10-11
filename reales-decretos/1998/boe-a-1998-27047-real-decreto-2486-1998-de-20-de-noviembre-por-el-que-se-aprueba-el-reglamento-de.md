@@ -958,22 +958,22 @@ La provisión incluirá las participaciones en beneficios y extornos que se haya
 
 a) El número de siniestros pendientes de declaración N se calculará mediante la igualdad:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">N <sub>t</sub> =</p>
+<p>N <sub>t</sub> =</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N <sub>t–1</sub> + N <sub>t–2</sub> + N <sub>t–3</sub></p>
+<p>N <sub>t–1</sub> + N <sub>t–2</sub> + N <sub>t–3</sub></p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">× P <sub>t</sub></p>
+<p>× P <sub>t</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">P <sub>t–1</sub> + P <sub>t–2</sub> + P <sub>t–3</sub></p>
+<p>P <sub>t–1</sub> + P <sub>t–2</sub> + P <sub>t–3</sub></p>
 </td>
 </tr>
 </tbody>
@@ -983,22 +983,22 @@ siendo t el ejercicio que se cierra, t-1, t-2 y t-3 los tres ejercicios inmediat
 
 b) El coste medio C de los siniestros pendientes de declaración se determinará mediante la igualdad
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">C <sub>t</sub> =</p>
+<p>C <sub>t</sub> =</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C <sub>t–1</sub> + C <sub>t–2</sub> + C <sub>t–3</sub></p>
+<p>C <sub>t–1</sub> + C <sub>t–2</sub> + C <sub>t–3</sub></p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">× Q <sub>t</sub></p>
+<p>× Q <sub>t</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Q <sub>t–1</sub> + Q <sub>t–2</sub> + Q <sub>t–3</sub></p>
+<p>Q <sub>t–1</sub> + Q <sub>t–2</sub> + Q <sub>t–3</sub></p>
 </td>
 </tr>
 </tbody>

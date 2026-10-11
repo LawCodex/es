@@ -9807,111 +9807,106 @@ Prueba asociada: «Orientación».
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Ciclo inicial</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101.Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">• Profesores/as Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>• Profesores/as Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>
 <em>Ciclo final</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C201. Bases del aprendizaje deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C202. Bases del entrenamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204.Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C204.Organización y legislación deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -9923,132 +9918,127 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Ciclo inicial</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-MOSE102 Conducción en senderos.</p>
-<p class="cuerpo_tabla_izq">MED-MOSE103 Medio físico y humano de la baja montaña.</p>
-<p class="cuerpo_tabla_izq">MED-MOSE105 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-MOSE102 Conducción en senderos.</p>
+<p>MED-MOSE103 Medio físico y humano de la baja montaña.</p>
+<p>MED-MOSE105 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Alta Montaña.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Escalada.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en Barrancos.</p>
+<td>
+<p>Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Alta Montaña.</p>
+<p>• Técnico Deportivo Superior en Escalada.</p>
+<p>• Técnico Deportivo en Barrancos.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-MOSE104 Tiempo libre.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>• Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td rowspan="2">MED-MOSE104 Tiempo libre.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>• Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td>
 <em>Ciclos finales</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-MOME202 Escuela de senderismo.</p>
-<p class="cuerpo_tabla_izq">MED-MOME203 Perfeccionamiento técnico en media montaña estival.</p>
-<p class="cuerpo_tabla_izq">MED-MOME204 Guiado y orientación en media montaña.</p>
+<td rowspan="2">
+<p>MED-MOME202 Escuela de senderismo.</p>
+<p>MED-MOME203 Perfeccionamiento técnico en media montaña estival.</p>
+<p>MED-MOME204 Guiado y orientación en media montaña.</p>
 </td>
-<td class="cuerpo_tabla_izq">• Educación Física con el título de Técnico Deportivo Superior en Alta Montaña o de Técnico Deportivo Superior en Escalada.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-MOBA205 Formación técnica en barrancos.</p>
-<p class="cuerpo_tabla_izq">MED-MOBA206 Seguridad y gestión del riesgo.</p>
-<p class="cuerpo_tabla_izq">MED-MOBA207 Guiado en barrancos y vías ferratas equipadas.</p>
-<p class="cuerpo_tabla_izq">MED-MOBA208 Formación práctica.</p>
-</td>
-<td class="cuerpo_tabla_izq">• Educación Física con el título de Técnico Deportivo en Barrancos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>• Educación Física con el título de Técnico Deportivo Superior en Alta Montaña o de Técnico Deportivo Superior en Escalada.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>• Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-MORO210 Perfeccionamiento técnico en escalada.</p>
-<p class="cuerpo_tabla_izq">MED-MORO211 Técnica gestual en escalada.</p>
-<p class="cuerpo_tabla_izq">MED-MORO212 Guiado en escalada.</p>
-<p class="cuerpo_tabla_izq">MED-MORO213 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-MOBA205 Formación técnica en barrancos.</p>
+<p>MED-MOBA206 Seguridad y gestión del riesgo.</p>
+<p>MED-MOBA207 Guiado en barrancos y vías ferratas equipadas.</p>
+<p>MED-MOBA208 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">• Educación Física con el título de Técnico Deportivo Superior en Alta Montaña o de Técnico Deportivo Superior en Escalada.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-MOME215 Perfeccionamiento técnico en terreno nevado tipo nórdico.</p>
-<p class="cuerpo_tabla_izq">MED-MOME216 Guiado en terreno nevado tipo nórdico y grandes travesías.</p>
-<p class="cuerpo_tabla_izq">MED-MOME217 Formación práctica.</p>
-</td>
-<td class="cuerpo_tabla_izq">• Educación Física con el título de Técnico Deportivo Superior en Alta Montaña.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>• Educación Física con el título de Técnico Deportivo en Barrancos.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">• Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>• Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>MED-MORO210 Perfeccionamiento técnico en escalada.</p>
+<p>MED-MORO211 Técnica gestual en escalada.</p>
+<p>MED-MORO212 Guiado en escalada.</p>
+<p>MED-MORO213 Formación práctica.</p>
+</td>
+<td>• Educación Física con el título de Técnico Deportivo Superior en Alta Montaña o de Técnico Deportivo Superior en Escalada.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>• Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>MED-MOME215 Perfeccionamiento técnico en terreno nevado tipo nórdico.</p>
+<p>MED-MOME216 Guiado en terreno nevado tipo nórdico y grandes travesías.</p>
+<p>MED-MOME217 Formación práctica.</p>
+</td>
+<td>• Educación Física con el título de Técnico Deportivo Superior en Alta Montaña.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>• Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -10075,165 +10065,157 @@ La Federación Española de Deportes de Montaña y Escalada emitirá la correspo
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
 
-<table class="tabla_ancha" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque común: ciclo inicial y final</p>
+<p>Módulos del bloque común: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo comunes de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo comunes de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">• Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C101. Bases del comportamiento deportivo.</td>
+<td>
+<p>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>• Licenciado o Graduado en Psicología.</p>
+<p>• Maestro especialista en Educación Física.</p>
+<p>• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Medicina.</p>
-<p class="cuerpo_tabla_izq">• Diplomado o Graduado en Enfermería.</p>
-<p class="cuerpo_tabla_izq">• Diplomado o Graduado en Fisioterapia.</p>
+<td>MED-C102. Primeros auxilios.</td>
+<td>
+<p>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>• Licenciado o Graduado en Medicina.</p>
+<p>• Diplomado o Graduado en Enfermería.</p>
+<p>• Diplomado o Graduado en Fisioterapia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">• Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya la mención en Educación Física.</p>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>
+<p>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>• Maestro especialista en Educación Física.</p>
+<p>• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya la mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C104. Organización deportiva.</td>
+<td>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo final</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">• Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C201. Bases del aprendizaje deportivo.</td>
+<td>
+<p>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>• Licenciado o Graduado en Psicología.</p>
+<p>• Maestro especialista en Educación Física.</p>
+<p>• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C202. Bases del entrenamiento deportivo.</td>
+<td>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204. Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Derecho.</p>
+<td>MED-C204. Organización y legislación deportiva.</td>
+<td>
+<p>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>• Licenciado o Graduado en Derecho.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">• Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya la mención en Educación Física.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>
+<p>• Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>• Maestro especialista en Educación Física.</p>
+<p>• Título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya la mención en Educación Física.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque específico: ciclo inicial y final</p>
+<p>Módulos del bloque específico: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo específico de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-MOSE102 Conducción en senderos.</p>
-<p class="cuerpo_tabla_izq">MED-MOSE103 Medio físico y humano de la baja montaña.</p>
-<p class="cuerpo_tabla_izq">MED-MOSE104 Tiempo libre.</p>
-<p class="cuerpo_tabla_izq">MED-MOSE105 Formación práctica.</p>
+<td>
+<p>MED-MOSE102 Conducción en senderos.</p>
+<p>MED-MOSE103 Medio físico y humano de la baja montaña.</p>
+<p>MED-MOSE104 Tiempo libre.</p>
+<p>MED-MOSE105 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Alta Montaña.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Escalada.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo en Barrancos.</p>
+<td>
+<p>• Técnico Deportivo Superior en Alta Montaña.</p>
+<p>• Técnico Deportivo Superior en Escalada.</p>
+<p>• Técnico Deportivo en Barrancos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Ciclo final</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-MOBA205 Formación técnica en barrancos.</p>
-<p class="cuerpo_tabla_izq">MED-MOBA206 Seguridad y gestión del riesgo.</p>
-<p class="cuerpo_tabla_izq">MED-MOBA207 Guiado en barrancos y vías ferratas equipadas.</p>
-<p class="cuerpo_tabla_izq">MED-MOBA208 Formación práctica.</p>
+<td>
+<p>MED-MOBA205 Formación técnica en barrancos.</p>
+<p>MED-MOBA206 Seguridad y gestión del riesgo.</p>
+<p>MED-MOBA207 Guiado en barrancos y vías ferratas equipadas.</p>
+<p>MED-MOBA208 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">• Técnico Deportivo en Barrancos.</td>
+<td>• Técnico Deportivo en Barrancos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-MORO210 Perfeccionamiento técnico en escalada.</p>
-<p class="cuerpo_tabla_izq">MED-MORO211 Técnica gestual en escalada.</p>
-<p class="cuerpo_tabla_izq">MED-MORO212 Guiado en escalada.</p>
-<p class="cuerpo_tabla_izq">MED-MORO213 Formación práctica.</p>
+<td>
+<p>MED-MORO210 Perfeccionamiento técnico en escalada.</p>
+<p>MED-MORO211 Técnica gestual en escalada.</p>
+<p>MED-MORO212 Guiado en escalada.</p>
+<p>MED-MORO213 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Alta Montaña.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Escalada.</p>
+<td>
+<p>• Técnico Deportivo Superior en Alta Montaña.</p>
+<p>• Técnico Deportivo Superior en Escalada.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-MOME202 Escuela de senderismo.</p>
-<p class="cuerpo_tabla_izq">MED-MOME203 Perfeccionamiento técnico en media montaña estival.</p>
-<p class="cuerpo_tabla_izq">MED-MOME 204 Guiado y orientación en media montaña.</p>
-<p class="cuerpo_tabla_izq">MED-MOME215 Perfeccionamiento técnico en terreno nevado tipo nórdico.</p>
-<p class="cuerpo_tabla_izq">MED-MOME216 Guiado en terreno nevado tipo nórdico y grandes travesías.</p>
-<p class="cuerpo_tabla_izq">MED-MOME217 Formación práctica.</p>
+<td>
+<p>MED-MOME202 Escuela de senderismo.</p>
+<p>MED-MOME203 Perfeccionamiento técnico en media montaña estival.</p>
+<p>MED-MOME 204 Guiado y orientación en media montaña.</p>
+<p>MED-MOME215 Perfeccionamiento técnico en terreno nevado tipo nórdico.</p>
+<p>MED-MOME216 Guiado en terreno nevado tipo nórdico y grandes travesías.</p>
+<p>MED-MOME217 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Alta Montaña.</td>
+<td>• Técnico Deportivo Superior en Alta Montaña.</td>
 </tr>
 </tbody>
 </table>

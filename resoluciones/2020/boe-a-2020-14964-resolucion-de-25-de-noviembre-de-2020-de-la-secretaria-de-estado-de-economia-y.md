@@ -82,126 +82,117 @@ Préstamos elegibles y análisis de riesgos
 
 Remuneración, plazos de formalización y de vencimiento máximo del aval
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_12">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Remuneración del aval.</p>
+<p>Remuneración del aval.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– La remuneración de los avales concedidos a préstamos hasta 1,5 millones de euros acumulados por empresa, hasta 120.000 si la empresa pertenece al sector de la pesca o acuicultura, o 100.000 si la empresa pertenece al sector de producción primaria de productos agrícolas, será de 20 puntos básicos sobre el saldo del importe total avalado.</p>
-<p class="cuerpo_tabla_izq">– Para el resto de operaciones, la remuneración de los avales será la contenida en la siguiente tabla, y se aplicará durante toda la vida del aval sobre el saldo del importe avalado:</p>
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_10">
-</colgroup>
+<p>– La remuneración de los avales concedidos a préstamos hasta 1,5 millones de euros acumulados por empresa, hasta 120.000 si la empresa pertenece al sector de la pesca o acuicultura, o 100.000 si la empresa pertenece al sector de producción primaria de productos agrícolas, será de 20 puntos básicos sobre el saldo del importe total avalado.</p>
+<p>– Para el resto de operaciones, la remuneración de los avales será la contenida en la siguiente tabla, y se aplicará durante toda la vida del aval sobre el saldo del importe avalado:</p>
+<table>
 <thead>
-<tr class="row_column_11">
+<tr>
 <td> </td>
 <td>
-<p class="cabeza_tabla">
+<p>
 <strong>Pymes cobertura has</strong>
 <strong>ta 80 %</strong>
 </p>
 </td>
 <td>
-<p class="cabeza_tabla">
+<p>
 <strong>Grandes empresas cobertura hasta 70 %</strong>
 </p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Avales con vencimiento hasta 1 año.</p>
+<p>Avales con vencimiento hasta 1 año.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20 pb</p>
+<p>20 pb</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30 pb</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">Avales con vencimiento superior a 1 año y hasta 3 años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30 pb</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60 pb</p>
+<p>30 pb</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Avales con vencimiento superior a 3 años y hasta 5 años.</p>
+<p>Avales con vencimiento superior a 1 año y hasta 3 años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80 pb</p>
+<p>30 pb</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120 pb</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">Avales con vencimiento superior a 5 años y hasta 6 años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80 pb</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">125 pb</p>
+<p>60 pb</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Avales con vencimiento superior a 6 años y hasta 7 años.</p>
+<p>Avales con vencimiento superior a 3 años y hasta 5 años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">169 pb</p>
+<p>80 pb</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">260 pb</p>
+<p>120 pb</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Avales con vencimiento superior a 7 años y hasta 8 años.</p>
+<p>Avales con vencimiento superior a 5 años y hasta 6 años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">188 pb</p>
+<p>80 pb</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">285 pb</p>
+<p>125 pb</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Avales con vencimiento superior a 6 años y hasta 7 años.</p>
+</td>
+<td>
+<p>169 pb</p>
+</td>
+<td>
+<p>260 pb</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Avales con vencimiento superior a 7 años y hasta 8 años.</p>
+</td>
+<td>
+<p>188 pb</p>
+</td>
+<td>
+<p>285 pb</p>
 </td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plazo de solicitud de los avales.</p>
+<p>Plazo de solicitud de los avales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Los avales podrán solicitarse al ICO hasta el 1 de junio de 2021.</p>
+<p>Los avales podrán solicitarse al ICO hasta el 1 de junio de 2021.</p>
 </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plazo de vencimiento máximo del aval.</p>
+<p>Plazo de vencimiento máximo del aval.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El plazo del aval emitido coincidirá con el plazo de la operación hasta un máximo de 8 años.</p>
+<p>El plazo del aval emitido coincidirá con el plazo de la operación hasta un máximo de 8 años.</p>
 </td>
 </tr>
 </tbody>

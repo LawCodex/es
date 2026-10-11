@@ -1544,12 +1544,6 @@ Son infracciones graves:
 
 20\. El uso indebido o falta utilización de las denominaciones reservadas a las profesiones reguladas del deporte y la actividad física.
 
-> Téngase en cuenta que esta modificación del apartado 3, y los apartados 17 a 20 añadidos por la disposición final 1 de la Ley 2/2022, de 22 de julio. [Ref. BOE-A-2022-13726](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13726), entra en vigor el 26 de enero de 2023, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "3. La no suscripción de los seguros obligatorios previstos en esta ley."
-
 > Se modifica el apartado 3 y se añaden los apartados 17 a 20, con efectos desde el 26 de enero de 2023, por la disposición final 1 de la Ley 2/2022, de 22 de julio. [Ref. BOE-A-2022-13726](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13726)
 
 > Se modifica por el art. 25 de la Ley 21/2017, de 28 de diciembre. [Ref. BOE-A-2018-1871](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1871)

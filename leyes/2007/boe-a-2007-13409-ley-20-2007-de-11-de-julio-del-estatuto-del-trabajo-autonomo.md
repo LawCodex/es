@@ -162,16 +162,6 @@ La disposición final sexta establece una «vacatio legis» de tres meses, plazo
 
 También será de aplicación esta ley a los trabajos, realizados de forma habitual, por familiares de las personas definidas en el párrafo anterior que no tengan la condición de trabajadores por cuenta ajena, conforme a lo establecido en el artículo 1.3.e) del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre.
 
-> Téngase en cuenta que esta última actualización del apartado 1, por el art. 3.1, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior*:**
-
-> "1. La presente Ley será de aplicación a las personas físicas que realicen de forma habitual, personal, directa, por cuenta propia y fuera del ámbito de dirección y organización de otra persona, una actividad económica o profesional a título lucrativo, den o no ocupación a trabajadores por cuenta ajena. Esta actividad autónoma o por cuenta propia podrá realizarse a tiempo completo o a tiempo parcial.
-
-> También será de aplicación esta Ley a los trabajos, realizados de forma habitual, por familiares de las personas definidas en el párrafo anterior que no tengan la condición de trabajadores por cuenta ajena, conforme a lo establecido en el artículo 1.3.e) del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo".
-
-> *Téngase en cuenta que se aplaza la entrada en vigor de lo previsto en el primer párrafo del apartado 1, en la redacción dada por la Ley 27/2011, de 1 de agosto. [Ref. BOE-A-2011-13242](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13242), en todo lo relativo a los trabajadores por cuenta propia que ejerzan su actividad a tiempo parcial, según establece la disposición adicional 105 de la Ley 22/2021, de 28 de diciembre. [Ref. BOE-A-2021-21653](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653)
-
 2\. Se declaran expresamente comprendidos en el ámbito de aplicación de esta Ley, siempre que cumplan los requisitos a los que se refiere el apartado anterior:
 
 a) Los socios industriales de sociedades regulares colectivas y de sociedades comanditarias.
@@ -648,16 +638,6 @@ A los efectos de estar representados en el Consejo del Trabajo Autónomo Estatal
 
 La afiliación al sistema de la Seguridad Social es obligatoria para los trabajadores autónomos o por cuenta propia, y única para su vida profesional, sin perjuicio de las altas y bajas en los distintos regímenes que integran el sistema de Seguridad Social, así como de las demás variaciones que puedan producirse con posterioridad a la afiliación.
 
-> Téngase en cuenta que esta última actualización por el art. 3.2, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior*:**
-
-> "La afiliación al sistema de la Seguridad Social es obligatoria para los trabajadores autónomos o por cuenta propia, y única para su vida profesional, sin perjuicio de las altas y bajas en los distintos regímenes que integran el sistema de Seguridad Social, así como de las demás variaciones que puedan producirse con posterioridad a la afiliación.
-
-> Los trabajadores por cuenta propia que ejerzan su actividad a tiempo parcial estarán incluidos, en los supuestos y conforme a las condiciones reglamentariamente establecidas, en el Régimen de la Seguridad Social de Trabajadores Autónomos".
-
-> *Téngase en cuenta que se aplaza la entrada en vigor de lo previsto en el segundo párrafo, en la redacción dada por la Ley 27/2011, de 1 de agosto. [Ref. BOE-A-2011-13242](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13242), en todo lo relativo a los trabajadores por cuenta propia que ejerzan su actividad a tiempo parcial, según establece la disposición adicional 105 de la Ley 22/2021, de 28 de diciembre. [Ref. BOE-A-2021-21653](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653)
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.2, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se aplaza la entrada en vigor de lo previsto en el segundo párrafo, en todo lo relativo a los trabajadores por cuenta propia que ejerzan su actividad a tiempo parcial, según establece la disposición adicional 105 de la Ley 22/2021, de 28 de diciembre. [Ref. BOE-A-2021-21653](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653)
@@ -677,20 +657,6 @@ La afiliación al sistema de la Seguridad Social es obligatoria para los trabaja
 1\. La cotización es obligatoria en el Régimen Especial de Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos en los términos previstos en el artículo 18 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, y demás disposiciones de desarrollo.
 
 2\. La ley podrá establecer beneficios en la cotización para determinados colectivos de trabajadores autónomos en atención a sus características personales o a las características profesionales de la actividad ejercida.
-
-> Téngase en cuenta que esta última actualización por el art. 3.3, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior*:**
-
-> "1. La cotización es obligatoria en el Régimen Especial de Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos en los términos previstos en el artículo 15 del texto refundido de la Ley General de la Seguridad Social aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y demás disposiciones de desarrollo.
-
-> 2\. La Ley podrá establecer bases de cotización diferenciadas para los trabajadores autónomos económicamente dependientes.
-
-> 3\. La Ley podrá establecer reducciones o bonificaciones en las bases de cotización o en las cuotas de Seguridad Social para determinados colectivos de trabajadores autónomos en atención a sus características personales o a las características profesionales de la actividad ejercida.
-
-> 4\. Considerando los principios de contributividad, solidaridad y sostenibilidad financiera, la ley podrá establecer un sistema de cotización a tiempo parcial para los trabajadores autónomos, para determinadas actividades o colectivos y durante determinados periodos de su vida laboral.".
-
-> *Téngase en cuenta que se aplaza la entrada en vigor de lo previsto en el apartado 4, en la redacción dada por la Ley 27/2011, de 1 de agosto. [Ref. BOE-A-2011-13242](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13242), en todo lo relativo a los trabajadores por cuenta propia que ejerzan su actividad a tiempo parcial, según establece la disposición adicional 105 de la Ley 22/2021, de 28 de diciembre. [Ref. BOE-A-2021-21653](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653)
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.3, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -802,20 +768,6 @@ En el caso de que el trabajador lleve menos de doce meses de alta continuada en 
 
 A efectos del cálculo de esta bonificación, la base media a la que se refiere este apartado se calculara con las bases de cotización, provisionales o definitivas, existentes en el momento de la aplicación inicial de la bonificación, sin que la cuantía de la bonificación sea objeto de modificación como consecuencia de la regularización de las bases de cotización provisionales a la que se refiere el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social.
 
-> Téngase en cuenta que esta última actualización del apartado 1, por el art. 3.4, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior:**
-
-> "1. Los trabajadores incluidos en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos tendrán derecho, por un plazo de hasta doce meses, a una bonificación del 100 por cien de la cuota de autónomos por contingencias comunes, que resulte de aplicar a la base media que tuviera el trabajador en los doce meses anteriores a la fecha en la que se acoja a esta medida, el tipo mínimo de cotización vigente en cada momento establecido en el citado Régimen Especial en los siguientes supuestos:
-
-> a) Por cuidado de menores de doce años que tengan a su cargo.
-
-> b) Por tener a su cargo un familiar, por consanguinidad o afinidad hasta el segundo grado inclusive, en situación de dependencia, debidamente acreditada.
-
-> c) Por tener a su cargo un familiar, por consanguinidad o afinidad hasta el segundo grado inclusive, con parálisis cerebral, enfermedad mental o discapacidad intelectual con un grado de discapacidad reconocido igual o superior al 33 por ciento o una discapacidad física o sensorial con un grado de discapacidad reconocido igual o superior al 65 por ciento, cuando dicha discapacidad esté debidamente acreditada, siempre que dicho familiar no desempeñe una actividad retribuida.
-
-> En el caso de que el trabajador lleve menos de 12 meses de alta en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, la base media de cotización se calculará desde la fecha de alta".
-
 2\. La aplicación de la bonificación recogida en el apartado anterior estará condicionada a la permanencia en alta en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos y a la contratación de un trabajador, a tiempo completo o parcial, que deberá mantenerse durante todo el periodo de su disfrute. En todo caso, la duración del contrato deberá ser, al menos, de 3 meses desde la fecha de inicio del disfrute de la bonificación.
 
 Dicho trabajador contratado será ocupado en la actividad profesional que da lugar al alta en el Sistema de Seguridad Social del trabajador autónomo.
@@ -858,54 +810,6 @@ En todo caso, el trabajador autónomo que se beneficie de la bonificación previ
 
 **(Derogado).**
 
-> Téngase en cuenta que la derogación del presente artículo, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior:**
-
-> "La cotización a la Seguridad Social de los trabajadores por cuenta propia o autónomos que causen alta inicial o que no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta, en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, se efectuará de la siguiente forma:
-
-> 1\. En el caso de que se opte por cotizar por la base mínima que corresponda, podrán beneficiarse de una reducción en la cotización por contingencias comunes durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, que consistirá en una cuota única mensual de 60 euros, que comprenderá tanto las contingencias comunes como las contingencias profesionales, quedando estos trabajadores excepcionados de cotizar por cese de actividad y por formación profesional. De esa cuota de 60 euros, 51,50 euros corresponden a contingencias comunes y 8,50 euros a contingencias profesionales.
-
-> 2\. Alternativamente, aquellos trabajadores por cuenta propia o autónomos que, cumpliendo los requisitos previstos en el apartado anterior, optasen por una base de cotización superior a la mínima que corresponda, podrán aplicarse durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, una reducción del 80 por ciento sobre la cotización por contingencias comunes, siendo la cuota a reducir la resultante de aplicar a la base mínima de cotización que corresponda el tipo mínimo de cotización vigente por contingencias comunes.
-
-> Con posterioridad al periodo inicial de 12 meses previsto en los dos apartados anteriores, y con independencia de la base de cotización elegida, los trabajadores por cuenta propia que disfruten de la medida prevista en este artículo podrán aplicarse las siguientes reducciones y bonificaciones sobre la cuota por contingencias comunes, siendo la cuota a reducir o bonificar la resultante de aplicar a la base mínima de cotización que corresponda el tipo de cotización vigente en cada momento por contingencias comunes, por un periodo máximo de hasta 12 meses, hasta completar un periodo máximo de 24 meses tras la fecha de efectos del alta, según la siguiente escala:
-
-> a) Una reducción equivalente al 50 por ciento de la cuota durante los 6 meses siguientes al período inicial previsto en los dos primeros párrafos de este apartado.
-
-> b) Una reducción equivalente al 30 por ciento de la cuota durante los 3 meses siguientes al período señalado en la letra a).
-
-> c) Una bonificación equivalente al 30 por ciento de la cuota durante los 3 meses siguientes al período señalado en la letra b).
-
-> 3\. En los supuestos que el trabajador por cuenta propia o autónomo resida y desarrolle su actividad en un municipio en cuyo padrón municipal actualizado al inicio de la actividad consten menos de 5.000 habitantes, finalizado el periodo inicial de 12 meses de aplicación de los beneficios en la cotización establecidos en los apartados anteriores, tendrá derecho durante los 12 meses siguientes a estos mismos incentivos. En estos casos no serán de aplicación las reducciones y bonificaciones para los 12 meses posteriores al periodo inicial contempladas en el apartado 2.
-
-> Para beneficiarse de estas medidas durante los 12 meses siguientes al periodo inicial, el trabajador por cuenta propia o autónomo, deberá:
-
-> 1.º Estar empadronado en un municipio de menos de 5.000 habitantes, según los datos oficiales del padrón en vigor en el momento del alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que causa el derecho al incentivo contemplado en este artículo.
-
-> 2.º Estar dado de alta en el Censo de Obligados Tributarios de la Agencia Estatal de Administración Tributaria o de las Haciendas Forales, correspondiendo el lugar de desarrollo de la actividad declarada a un municipio cuyo padrón municipal sea inferior a 5.000 habitantes.
-
-> 3.º Mantener el alta en la actividad autónoma o por cuenta propia en el antedicho municipio en los dos años siguientes al alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que causa el derecho al incentivo contemplado en este artículo; así como permanecer empadronado en el mismo municipio en los cuatro años siguientes a dicha alta.
-
-> La Tesorería General de la Seguridad Social realizará el control de esta reducción para lo cual el Instituto Nacional de Estadística y las Administraciones Tributarias antes citadas deberán poner a disposición de este Servicio Común los medios y la información necesarios que permitan comprobar el cumplimiento de los requisitos exigidos para beneficiarse de esta reducción.
-
-> En caso de no cumplir dichos requisitos, el trabajador por cuenta propia o autónomo deberá reintegrar la totalidad de las cantidades dejadas de ingresar por la aplicación del incentivo, a partir del día primero del mes siguiente en que quede acreditado tal incumplimiento.
-
-> 4\. En el supuesto de que los trabajadores por cuenta propia sean menores de 30 años, o menores de 35 años en el caso de mujeres, y causen alta inicial o no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta, en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, podrán aplicarse, además de los beneficios en la cotización previstos en los apartados anteriores, una bonificación adicional equivalente al 30 por ciento, sobre la cuota por contingencias comunes, en los 12 meses siguientes a la finalización del periodo máximo de disfrute de los mismos, siendo la cuota a bonificar la resultante de aplicar a la base mínima de cotización que corresponda el tipo de cotización por contingencias comunes vigente en cada momento. En este supuesto la duración máxima del disfrute de los beneficios en la cotización será de 36 meses.
-
-> 5\. El período de baja en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, exigido en los apartados anteriores para tener derecho a los beneficios en la cotización en ellos previstos en caso de reemprender una actividad por cuenta propia, será de 3 años cuando los trabajadores autónomos hubieran disfrutado de dichos beneficios en su anterior período de alta en el citado régimen especial.
-
-> 6\. En el supuesto de que la fecha de efectos de las altas a que se refieren los apartados 1 a 4 no coincidiera con el día primero del respectivo mes natural, el beneficio correspondiente a dicho mes se aplicará de forma proporcional al número de días de alta en el mismo.
-
-> 7\. Lo dispuesto en los apartados anteriores será también de aplicación, cuando cumplan los requisitos en ellos establecidos, a los trabajadores por cuenta propia que queden incluidos en el grupo primero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar y a los socios de sociedades laborales y a los socios trabajadores de cooperativas de trabajo asociado que queden encuadrados en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, dentro del grupo primero de cotización.
-
-> 8\. Lo previsto en el presente artículo resultará de aplicación aun cuando los beneficiarios de esta medida, una vez iniciada su actividad, empleen a trabajadores por cuenta ajena.
-
-> 9\. Las bonificaciones de cuotas previstas en este artículo se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal y las reducciones de cuotas se soportarán por el presupuesto de ingresos de la Seguridad Social y por las Mutuas Colaboradoras con la Seguridad Social, respectivamente.
-
-> 10\. Los beneficios en las cotizaciones previstos en este artículo consistirán en una bonificación en el supuesto de trabajadores por cuenta propia o autónomos inscritos en el Sistema Nacional de Garantía Juvenil que cumplan con los requisitos establecidos en el artículo 105 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, aplicándose dicha bonificación en los mismos términos que los incentivos previstos en los apartados 1 a 3 y teniendo derecho asimismo a la bonificación adicional contemplada en el apartado 4.
-
-> 11\. Finalizado el periodo máximo de disfrute de los beneficios de cotización contemplados en este artículo, procederá la cotización por todas las contingencias protegidas a partir del día primero del mes siguiente al que se produzca esa finalización".
-
 > Se deroga, con efectos de 1 de enero de 2023, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Téngase en cuenta, para la aplicación transitoria de los beneficios en la cotización establecidos en este artículo, la disposición transitoria tercera del citado Real Decreto-ley.
@@ -930,52 +834,6 @@ En todo caso, el trabajador autónomo que se beneficie de la bonificación previ
 
 **(Derogado).**
 
-> Téngase en cuenta que la derogación del presente artículo, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior:**
-
-> "La cotización a la Seguridad Social de los trabajadores por cuenta propia agrarios incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que causen alta inicial o que no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta en dicho Sistema Especial, se efectuará de la siguiente forma:
-
-> 1\. En el caso de que se opte por cotizar por la base mínima que corresponda, podrán beneficiarse de una reducción en la cotización por contingencias comunes durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, que consistirá en una cuota única mensual de 50 euros, correspondiente a contingencias comunes, quedando estos trabajadores excepcionados de cotizar por cese de actividad y formación profesional.
-
-> 2\. Alternativamente, aquellos trabajadores por cuenta propia agrarios que, cumpliendo los requisitos previstos en el apartado anterior, optasen por una base de cotización superior a la mínima que corresponda, podrán aplicarse durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, una reducción del 80 por ciento sobre la cotización por contingencias comunes, siendo la cuota a reducir la resultante de aplicar a la base mínima de cotización que corresponda el tipo mínimo de cotización vigente por contingencias comunes.
-
-> Con posterioridad al periodo inicial de 12 meses previsto en los dos apartados anteriores, y con independencia de la base de cotización elegida, los trabajadores por cuenta propia agrarios que disfruten de la medida prevista en este artículo podrán aplicarse las siguientes reducciones y bonificaciones sobre la cuota por contingencias comunes, siendo la cuota a reducir o bonificar la resultante de aplicar a la base mínima de cotización que corresponda el tipo de cotización vigente en cada momento por contingencias comunes, por un periodo máximo de hasta 12 meses, hasta completar un periodo máximo de 24 meses tras la fecha de efectos del alta, según la siguiente escala:
-
-> a) Una reducción equivalente al 50 por ciento de la cuota durante los 6 meses siguientes al período inicial previsto en los dos primeros párrafos de este apartado.
-
-> b) Una reducción equivalente al 30 por ciento de la cuota durante los 3 meses siguientes al período señalado en la letra a).
-
-> c) Una bonificación equivalente al 30 por ciento de la cuota durante los 3 meses siguientes al período señalado en la letra b).
-
-> 3\. En los supuestos que el trabajador por cuenta propia agrario resida y desarrolle su actividad en un municipio en cuyo padrón municipal actualizado al inicio de la actividad consten menos de 5.000 habitantes, finalizado el periodo inicial de 12 meses de aplicación de los beneficios en la cotización establecidos en los apartados anteriores, tendrá derecho durante los 12 meses siguientes a estos mismos incentivos. En estos casos no serán de aplicación las reducciones y bonificaciones para los 12 meses posteriores al periodo inicial contempladas en el apartado 2.
-
-> Para beneficiarse de estas medidas durante los 12 meses siguientes al periodo inicial, el trabajador por cuenta propia agrario, deberá:
-
-> 1.º) Estar empadronado en un municipio de menos de 5.000 habitantes, según los datos oficiales del padrón en vigor en el momento del alta en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que causa el derecho al incentivo contemplado en este artículo.
-
-> 2.º) Estar dado de alta en el Censo de Obligados Tributarios de la Agencia Estatal de Administración Tributaria o de las Haciendas Forales, correspondiendo el lugar de desarrollo de la actividad declarada a un municipio cuyo padrón municipal sea inferior a 5.000 habitantes.
-
-> 3.º) Mantener el alta en la actividad autónoma o por cuenta propia en el antedicho municipio en los dos años siguientes al alta en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que causa el derecho al incentivo contemplado en este artículo; así como permanecer empadronado en el mismo municipio en los cuatro años siguientes a dicha alta.
-
-> La Tesorería General de la Seguridad Social realizará el control de esta reducción para lo cual el Instituto Nacional de Estadística y las Administraciones Tributarias antes citadas deberán poner a disposición de este Servicio Común los medios y la información necesarios que permitan comprobar el cumplimiento de los requisitos exigidos para beneficiarse de esta reducción.
-
-> En caso de no cumplir dichos requisitos, el trabajador por cuenta propia agrario deberá reintegrar la totalidad de las cantidades dejadas de ingresar por la aplicación del incentivo, a partir del día primero del mes siguiente en que quede acreditado tal incumplimiento.
-
-> 4\. En el supuesto de que los trabajadores por cuenta propia agrarios sean menores de 30 años, o menores de 35 años en el caso de mujeres, y causen alta inicial o no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta, en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios, podrán aplicarse, además de los beneficios en la cotización previstos en los apartados anteriores, una bonificación adicional equivalente al 30 por ciento, sobre la cuota por contingencias comunes, en los 12 meses siguientes a la finalización del periodo máximo de disfrute de los mismos, siendo la cuota a bonificar la resultante de aplicar a la base mínima de cotización que corresponda el tipo de cotización por contingencias comunes vigente en cada momento. En este supuesto la duración máxima del disfrute de los beneficios en la cotización será de 36 meses.
-
-> 5\. El período de baja en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios exigido en los apartados anteriores para tener derecho a los beneficios en la cotización en ellos previstos en caso de reemprender una actividad por cuenta propia, será de 3 años cuando los trabajadores autónomos hubieran disfrutado de dichos beneficios en su anterior período de alta en el citado régimen especial.
-
-> 6\. En el supuesto de que la fecha de efectos de las altas a que se refieren los apartados 1 a 4 no coincidiera con el día primero del respectivo mes natural, el beneficio correspondiente a dicho mes se aplicará de forma proporcional al número de días de alta en el mismo.
-
-> 7\. Lo previsto en el presente artículo resultará de aplicación aun cuando los beneficiarios de esta medida, una vez iniciada su actividad, empleen a trabajadores por cuenta ajena, dentro de los límites previstos en el artículo 324 del texto refundido de la Ley General de la Seguridad Social.
-
-> 8\. Las bonificaciones de cuotas previstas en este artículo se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal y las reducciones de cuotas se soportarán por el presupuesto de ingresos de la Seguridad Social y por las Mutuas Colaboradoras con la Seguridad Social, respectivamente.
-
-> 9\. Los beneficios en las cotizaciones previstos en este artículo consistirán en una bonificación en el supuesto de trabajadores por cuenta propia o autónomos inscritos en el Sistema Nacional de Garantía Juvenil que cumplan con los requisitos establecidos en el artículo 105 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, aplicándose dicha bonificación en los mismos términos que los incentivos previstos en los apartados 1 a 3 y teniendo derecho asimismo a la bonificación adicional contemplada en el apartado 4.
-
-> 10\. Finalizado el periodo máximo de disfrute de los beneficios de cotización contemplados en este artículo, procederá la cotización por todas las contingencias protegidas a partir del día primero del mes siguiente al que se produzca esa finalización".
-
 > Se deroga, con efectos de 1 de enero de 2023, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Téngase en cuenta, para la aplicación transitoria de los beneficios en la cotización establecidos en este artículo, la disposición transitoria tercera del citado Real Decreto-ley.
@@ -985,48 +843,6 @@ En todo caso, el trabajador autónomo que se beneficie de la bonificación previ
 ##### Artículo 32. Beneficios en la cotización a la Seguridad Social para las personas con discapacidad, inicial o sobrevenida, víctimas de violencia de género y víctimas del terrorismo que se establezcan como trabajadores por cuenta propia.
 
 **(Derogado).**
-
-> Téngase en cuenta que la derogación del presente artículo, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior:**
-
-> "La cotización a la Seguridad Social de los trabajadores por cuenta propia o autónomos con un grado de discapacidad igual o superior al 33 por ciento, víctimas de violencia de género y las víctimas de terrorismo que causen alta inicial o que no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta, en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, se efectuará de la siguiente forma:
-
-> 1\. En el caso de que se opte por cotizar por la base mínima que corresponda, podrán beneficiarse de una reducción sobre la cotización por contingencias comunes durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, que consistirá en una cuota única mensual de 60 euros, que comprenderá tanto las contingencias comunes como las contingencias profesionales, quedando estos trabajadores excepcionados de cotizar por cese de actividad y por formación profesional. De esa cuota de 60 euros, 51,50 euros corresponden a contingencias comunes y 8,50 euros a contingencias profesionales.
-
-> 2\. Alternativamente, aquellos trabajadores por cuenta propia o autónomos que, cumpliendo los requisitos previstos en el apartado anterior, optasen por una base de cotización superior a la mínima que corresponda, podrán aplicarse durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, una reducción del 80 por ciento sobre la cuota por contingencias comunes, siendo la cuota a reducir la resultante de aplicar a la base mínima de cotización que corresponda el tipo de cotización por contingencias comunes vigente en cada momento.
-
-> Con posterioridad al periodo inicial de 12 meses previsto en los dos apartados anteriores, y con independencia de la base de cotización elegida, los trabajadores por cuenta propia que disfruten de la medida prevista en este artículo podrán aplicarse una bonificación sobre la cuota por contingencias comunes, siendo la cuota a bonificar la resultante de aplicar a la base mínima de cotización que corresponda el 50 por ciento del resultado de aplicar a la base mínima de cotización que corresponda el tipo de cotización por contingencias comunes vigente en cada momento, por un periodo máximo de hasta 48 meses, hasta completar un periodo máximo de 5 años tras la fecha de efectos del alta.
-
-> 3\. En los supuestos que el trabajador por cuenta propia o autónomo resida y desarrolle su actividad en un municipio en cuyo padrón municipal actualizado al inicio de la actividad consten menos de 5.000 habitantes, finalizado el periodo inicial de 12 meses de aplicación de los beneficios en la cotización establecidos en los apartados anteriores, tendrá derecho durante los 12 meses siguientes a estos mismos incentivos. En estos casos la aplicación de la bonificación por el 50 por ciento, prevista en el apartado anterior, se aplicará una vez transcurridos los 24 meses iniciales, durante un periodo máximo de hasta 36 meses, hasta completar un periodo máximo de 5 años desde la fecha de efectos del alta.
-
-> Para beneficiarse de estas medidas durante los 12 meses siguientes al periodo inicial, el trabajador por cuenta propia o autónomo, deberá:
-
-> 1.º Estar empadronado en un municipio de menos de 5.000 habitantes, según los datos oficiales del padrón en vigor en el momento del alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que causa el derecho al incentivo contemplado en este artículo.
-
-> 2.º Estar dado de alta en el Censo de Obligados Tributarios de la Agencia Estatal de Administración Tributaria o de las Haciendas Forales, correspondiendo el lugar de desarrollo de la actividad declarada a un municipio cuyo padrón municipal sea inferior a 5.000 habitantes.
-
-> 3.º Mantener el alta en la actividad autónoma o por cuenta propia en el antedicho municipio en los dos años siguientes al alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que causa el derecho al incentivo contemplado en este artículo; así como permanecer empadronado en el mismo municipio en los cuatro años siguientes a dicha alta.
-
-> La Tesorería General de la Seguridad Social realizará el control de esta reducción para lo cual el Instituto Nacional de Estadística y las Administraciones Tributarias antes citadas deberán poner a disposición de este Servicio Común los medios y la información necesarios que permitan comprobar el cumplimiento de los requisitos exigidos para beneficiarse de esta reducción.
-
-> En caso de no cumplir dichos requisitos, el trabajador por cuenta propia o autónomo deberá reintegrar la totalidad de las cantidades dejadas de ingresar por la aplicación del incentivo, a partir del día primero del mes siguiente en que quede acreditado tal incumplimiento.
-
-> 4\. El período de baja en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, exigido en los apartados anteriores para tener derecho a los beneficios en la cotización en ellos previstos en caso de reemprender una actividad por cuenta propia, será de 3 años cuando los trabajadores autónomos hubieran disfrutado de dichos beneficios en su anterior período de alta en el citado régimen especial.
-
-> 5\. En el supuesto de que la fecha de efectos de las altas a que se refieren los apartados 1 a 3 no coincidiera con el día primero del respectivo mes natural, el beneficio correspondiente a dicho mes se aplicará de forma proporcional al número de días de alta en el mismo.
-
-> 6\. Lo dispuesto en los apartados anteriores será también de aplicación, cuando cumplan los requisitos en ellos establecidos, a los trabajadores por cuenta propia que queden incluidos en el grupo primero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar y a los socios de sociedades laborales y a los socios trabajadores de cooperativas de trabajo asociado que queden encuadrados en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, dentro del grupo primero de cotización.
-
-> 7\. Lo previsto en el presente artículo resultará de aplicación aun cuando los beneficiarios de esta medida, una vez iniciada su actividad, empleen a trabajadores por cuenta ajena.
-
-> 8\. Las bonificaciones de cuotas previstas en este artículo se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal y las reducciones de cuotas se soportarán por el presupuesto de ingresos de la Seguridad Social y por las Mutuas Colaboradoras con la Seguridad Social, respectivamente.
-
-> 9\. Finalizado el periodo máximo de disfrute de los beneficios de cotización contemplados en este artículo, procederá la cotización por todas las contingencias protegidas a partir del día primero del mes siguiente al que se produzca esa finalización.
-
-> 10\. Lo dispuesto en este artículo será también de aplicación, a opción de los interesados, en los supuestos de trabajadores autónomos que estando de alta en este régimen especial les sobrevenga una discapacidad en un grado igual o superior al 33 por ciento.
-
-> En tal caso, la aplicación de las medidas previstas en este artículo se producirán a partir del día primero del mes siguiente al que tal elección se realice".
 
 > Se deroga, con efectos de 1 de enero de 2023, por disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1047,46 +863,6 @@ En todo caso, el trabajador autónomo que se beneficie de la bonificación previ
 ##### Artículo 32 bis. Beneficios en la cotización a la Seguridad Social para las personas con discapacidad, inicial o sobrevenida, víctimas de violencia de género y víctimas del terrorismo que se establezcan como trabajadores por cuenta propia incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios.
 
 **(Derogado).**
-
-> Téngase en cuenta que la derogación del presente artículo, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior:**
-
-> "La cotización a la Seguridad Social de los trabajadores por cuenta propia agrarios incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios con un grado de discapacidad igual o superior al 33 por ciento, víctimas de violencia de género y las víctimas de terrorismo, que causen alta inicial o que no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta en dicho Sistema Especial, se efectuará de la siguiente forma:
-
-> 1\. En el caso de que se opte por cotizar por la base mínima que corresponda, podrán beneficiarse de una reducción en la cotización por contingencias comunes durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, que consistirá en una cuota única mensual de 50 euros, correspondiente a contingencias comunes, quedando estos trabajadores excepcionados de cotizar por cese de actividad y formación profesional.
-
-> 2\. Alternativamente, aquellos trabajadores por cuenta propia agrarios que, cumpliendo los requisitos previstos en el apartado anterior, optasen por una base de cotización superior a la mínima que corresponda, podrán aplicarse durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, una reducción del 80 por ciento sobre la cotización por contingencias comunes, siendo la cuota a reducir la resultante de aplicar a la base mínima de cotización que corresponda el tipo mínimo de cotización vigente por contingencias comunes.
-
-> Con posterioridad al periodo inicial de 12 meses previsto en los dos apartados anteriores, y con independencia de la base de cotización elegida, los trabajadores por cuenta propia que disfruten de la medida prevista en este artículo podrán aplicarse una bonificación sobre la cuota por contingencias comunes, siendo la cuota a bonificar la resultante de aplicar a la base mínima de cotización que corresponda el 50 por ciento del resultado de aplicar a la base mínima de cotización que corresponda el tipo de cotización por contingencias comunes vigente en cada momento, por un periodo máximo de hasta 48 meses, hasta completar un periodo máximo de 5 años tras la fecha de efectos del alta.
-
-> 3\. En los supuestos que el trabajador por cuenta propia agrario resida y desarrolle su actividad en un municipio en cuyo padrón municipal actualizado al inicio de la actividad consten menos de 5.000 habitantes, finalizado el periodo inicial de 12 meses de aplicación de los beneficios en la cotización establecidos en los apartados anteriores, tendrá derecho durante los 12 meses siguientes a estos mismos incentivos. En estos casos, la aplicación de la bonificación por el 50 por ciento, prevista en el apartado anterior, se aplicará una vez transcurridos los 24 meses iniciales, durante un periodo máximo de hasta 36 meses, hasta completar un periodo máximo de 5 años desde la fecha de efectos del alta.
-
-> Para beneficiarse de estas medidas durante los 12 meses siguientes al periodo inicial, el trabajador por cuenta propia agrario, deberá:
-
-> 1.º) Estar empadronado en un municipio de menos de 5.000 habitantes, según los datos oficiales del padrón en vigor en el momento del alta en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que causa el derecho al incentivo contemplado en este artículo.
-
-> 2.º) Estar dado de alta en el Censo de Obligados Tributarios de la Agencia Estatal de Administración Tributaria o de las Haciendas Forales, correspondiendo el lugar de desarrollo de la actividad declarada a un municipio cuyo padrón municipal sea inferior a 5.000 habitantes.
-
-> 3.º) Mantener el alta en la actividad autónoma o por cuenta propia en el antedicho municipio en los dos años siguientes al alta en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que causa el derecho al incentivo contemplado en este artículo; así como permanecer empadronado en el mismo municipio en los cuatro años siguientes a dicha alta.
-
-> La Tesorería General de la Seguridad Social realizará el control de esta reducción para lo cual el Instituto Nacional de Estadística y las Administraciones Tributarias antes citadas deberán poner a disposición de este Servicio Común los medios y la información necesarios que permitan comprobar el cumplimiento de los requisitos exigidos para beneficiarse de esta reducción.
-
-> En caso de no cumplir dichos requisitos, el trabajador por cuenta propia agrario deberá reintegrar la totalidad de las cantidades dejadas de ingresar por la aplicación del incentivo, a partir del día primero del mes siguiente en que quede acreditado tal incumplimiento.
-
-> 4\. El período de baja en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios exigido en los apartados anteriores para tener derecho a los beneficios en la cotización en ellos previstos en caso de reemprender una actividad por cuenta propia, será de 3 años cuando los trabajadores autónomos agrarios hubieran disfrutado de dichos beneficios en su anterior período de alta en el citado sistema especial.
-
-> 5\. En el supuesto de que la fecha de efectos de las altas a que se refieren los apartados 1 a 4 no coincidiera con el día primero del respectivo mes natural, el beneficio correspondiente a dicho mes se aplicará de forma proporcional al número de días de alta en el mismo.
-
-> 6\. Lo previsto en el presente artículo resultará de aplicación aun cuando los beneficiarios de esta medida, una vez iniciada su actividad, empleen a trabajadores por cuenta ajena, dentro de los límites previstos en el artículo 324 del texto refundido de la Ley General de la Seguridad Social.
-
-> 7\. Las bonificaciones de cuotas previstas en este artículo se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal y las reducciones de cuotas se soportarán por el presupuesto de ingresos de la Seguridad Social y por las Mutuas Colaboradoras con la Seguridad Social, respectivamente.
-
-> 8\. Finalizado el periodo máximo de disfrute de los beneficios de cotización contemplados en este artículo, procederá la cotización por todas las contingencias protegidas a partir del día primero del mes siguiente al que se produzca esa finalización.
-
-> 9\. Lo dispuesto en este artículo será también de aplicación, a opción de los interesados, en los supuestos de trabajadores autónomos a los que, estando de alta en este régimen especial, les sobrevenga una discapacidad en un grado igual o superior al 33 por ciento.
-
-> En tal caso, la aplicación de las medidas previstas en este artículo se producirán a partir del día primero del mes siguiente al que tal elección se realice".
 
 > Se deroga, con efectos de 1 de enero de 2023, por la disposición derogatoria única.a), del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1162,12 +938,6 @@ Los efectos económicos del abono del derecho solicitado se producirán a partir
 
 El cónyuge, la pareja de hecho y los familiares de trabajadores autónomos por consanguinidad o afinidad hasta el segundo grado inclusive y, en su caso, por adopción, que se incorporen al Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o, como trabajadores por cuenta propia, en el Régimen Especial de los Trabajadores del Mar, siempre y cuando no hubieran estado dados de alta en los mismos en los cinco años inmediatamente anteriores y colaboren con aquellos mediante la realización de trabajos en la actividad de que se trate, tendrán derecho a una bonificación, durante los veinticuatro meses siguientes a la fecha de efectos del alta, equivalente al 50 por ciento durante los primeros dieciocho meses y al 25 por ciento durante los seis meses siguientes, de la cuota por contingencias comunes correspondiente a la base mínima de cotización del tramo 1 de la tabla general de bases, conforme a lo previsto en la regla 1.ª del artículo 308.1.a) del texto refundido de la Ley General de la Seguridad Social.
 
-> Téngase en cuenta que esta última actualización del párrafo primero, establecida por el art. 3.5 del Real Decreto-ley 13/2022, de 26 de julio, [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5.
-
-> **Redacción anterior:**
-
-> "El cónyuge, pareja de hecho y familiares de trabajadores autónomos por consanguinidad o afinidad hasta el segundo grado inclusive y, en su caso, por adopción, que se incorporen al Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, siempre y cuando no hubieran estado dados de alta en el mismo en los 5 años inmediatamente anteriores y colaboren con ellos mediante la realización de trabajos en la actividad de que se trate, incluyendo a los de los trabajadores por cuenta propia del Régimen Especial de los Trabajadores del Mar, a partir de la entrada en vigor de esta ley, tendrán derecho a una bonificación durante los 24 meses siguientes a la fecha de efectos del alta, equivalente al 50 por ciento durante los primeros 18 meses y al 25 por ciento durante los 6 meses siguientes, de la cuota que resulte de aplicar sobre la base mínima el tipo correspondiente de cotización vigente en cada momento en el Régimen Especial, o Sistema Especial en su caso, de trabajo por cuenta propia que corresponda".
-
 A efectos de lo establecido en el párrafo anterior, se considerará pareja de hecho la constituida, con análoga relación de afectividad a la conyugal, por quienes, no hallándose impedidos para contraer matrimonio, no tengan vínculo matrimonial con otra persona y acrediten, mediante el correspondiente certificado de empadronamiento, una convivencia estable y notoria y con una duración ininterrumpida no inferior a cinco años. La existencia de pareja de hecho se acreditará mediante certificación de la inscripción en alguno de los registros específicos existentes en las comunidades autónomas o ayuntamientos del lugar de residencia o mediante documento público en el que conste la constitución de dicha pareja.
 
 > Se modifica, con efectos de 1 de enero de 2023, el párrafo primero por el art. 3.5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
@@ -1198,18 +968,6 @@ Los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuent
 
 2\. La bonificación regulada en este artículo, siempre que se cumplan las condiciones en él establecidas, será también aplicable al cónyuge del titular de una explotación agraria que se constituya en titular de la misma en régimen de titularidad compartida, salvo que ya viniera disfrutando de la bonificación conforme a lo previsto en el apartado 1, en cuyo caso seguirá percibiendo esta hasta su extinción.
 
-> Téngase en cuenta que esta última actualización por el art. 3.7, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
-
-> **Redacción anterior:**
-
-> "Artículo 37. Reducción de cuotas a favor de determinados familiares del titular de la explotación agraria.
-
-> 1\. En el supuesto de personas incorporadas a la actividad agraria que queden incluidas en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos a través del Sistema Especial para Trabajadores por Cuenta Propia Agrarios, que tengan cincuenta o menos años de edad en el momento de dicha incorporación y sean cónyuges o descendientes del titular de la explotación agraria, siempre que este se encuentre dado de alta en los citados Régimen y Sistema Especial, se aplicará, sobre la cotización por contingencias comunes de cobertura obligatoria, una reducción equivalente al 30 por ciento de la cuota que resulte de aplicar a la base mínima de cotización que corresponda, el tipo del 18,75 por ciento.
-
-> La reducción de cuotas establecida en el párrafo anterior tendrá una duración de cinco años computados desde la fecha de efectos de la obligación de cotizar y será incompatible con la reducción y bonificación para los nuevos trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos prevista en los artículos 31 y 32 de la presente ley.
-
-> 2\. La reducción a la que se refiere este artículo, siempre que se cumplan las condiciones en él establecidas, será igualmente de aplicación al cónyuge del titular de una explotación agraria que se constituya en titular de la misma en régimen de titularidad compartida, salvo que viniera disfrutando de la reducción prevista en el apartado 1, en cuyo caso se seguirá percibiendo la misma hasta su extinción".
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.7, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se añade por el art. 1.8 de la Ley 31/2015, de 9 de septiembre. [Ref. BOE-A-2015-9735](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9735).
@@ -1223,20 +981,6 @@ Los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los
 En el caso de que el trabajador lleve menos de 12 meses de alta continuada en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, la base media de cotización se calculará desde la última fecha de alta, siendo el resultado de multiplicar por 30 la cuantía resultante de dividir la suma de las bases de cotización entre el número de días de alta del período de alta continuada.
 
 A efectos del cálculo de esta bonificación, la base media a la que se refiere este artículo se calculara con las bases de cotización, provisionales o definitivas, existentes en el momento de la aplicación inicial de la bonificación, sin que la cuantía de la bonificación sea objeto de modificación como consecuencia de la regularización de las bases de cotización provisionales a la que se refiere el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social.
-
-> Téngase en cuenta que esta última actualización establecida por la disposición final 2.2 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de septiembre de 2023, según determina su disposición final 13.
-
-> **Redacción anterior:**
-
-> "**Artículo 38. Bonificación de cuotas para trabajadores autónomos durante el descanso por nacimiento, adopción, guarda con fines de adopción, acogimiento, riesgo durante el embarazo o riesgo durante la lactancia natural.**
-
-> Los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o, como trabajadores por cuenta propia, en el grupo primero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar tendrán derecho, durante los períodos de descanso por nacimiento, adopción, guarda con fines de adopción, acogimiento, riesgo durante el embarazo o riesgo durante la lactancia natural, a una bonificación del 100 por cien de la cuota por contingencias comunes resultante de aplicar a la base media que tuviera el trabajador en los doce meses anteriores a la fecha en la que inicie esta bonificación, el tipo de cotización para contingencias comunes vigente en cada momento, excluido el correspondiente a la incapacidad temporal derivada de dichas contingencias.
-
-> En el caso de que el trabajador lleve menos de 12 meses de alta continuada en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, la base media de cotización se calculará desde la última fecha de alta, siendo el resultado de multiplicar por 30 la cuantía resultante de dividir la suma de las bases de cotización entre el número de días de alta del período de alta continuada.
-
-> A efectos del cálculo de esta bonificación, la base media a la que se refiere este artículo se calculara con las bases de cotización, provisionales o definitivas, existentes en el momento de la aplicación inicial de la bonificación, sin que la cuantía de la bonificación sea objeto de modificación como consecuencia de la regularización de las bases de cotización provisionales a la que se refiere el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social.
-
-> Esta bonificación será compatible con la establecida en el Real Decreto-ley 11/1998, de 4 de septiembre."
 
 > Se modifica, con efectos de 1 de septiembre de 2023, por la disposición final 2.2 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
@@ -1260,16 +1004,6 @@ En el caso de que la trabajadora lleve menos de 12 meses de alta continuada en e
 
 A efectos del cálculo de esta bonificación, la base media a la que se refiere este artículo se calculará con las bases de cotización, provisionales o definitivas, existentes en el momento de la aplicación inicial de la bonificación, sin que la cuantía de la bonificación sea objeto de modificación como consecuencia de la regularización de las bases de cotización provisionales a la que se refiere el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 3.9 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), y en la redacción dada a este por la disposición final 10.7 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925), entra en vigor el 1 de enero de 2023, según determina la disposición final 5 de aquella y la disposición final 17.2.d) de esta última.
-
-> **Redacción anterior:**
-
-> "Artículo 38 bis. Bonificación a las trabajadoras autónomas que se reincorporen al trabajo en determinados supuestos.
-
-> Las trabajadoras incluidas en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o como trabajadoras por cuenta propia en el grupo primero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, que, habiendo cesado su actividad por nacimiento de hijo o hija, adopción, guarda con fines de adopción, acogimiento y tutela, en los términos legalmente establecidos, vuelvan a realizar una actividad por cuenta propia dentro de los dos años inmediatamente siguientes a la fecha efectiva del cese, tendrán derecho a una bonificación en virtud de la cual su cuota por contingencias comunes y contingencias profesionales quedará fijada en la cuantía de 60 euros mensuales durante los 12 meses inmediatamente siguientes a la fecha de su reincorporación al trabajo, siempre que opten por cotizar por la base mínima establecida con carácter general en el régimen especial que corresponda por razón de la actividad por cuenta propia.
-
-> Aquellas trabajadoras por cuenta propia o autónomas que, cumpliendo con los requisitos anteriores, optasen por una base de cotización superior a la mínima indicada en el párrafo anterior, podrán aplicarse durante el período antes indicado una bonificación del 80 por ciento sobre la cotización por contingencias comunes, siendo la cuota a bonificar la resultante de aplicar a la base mínima de cotización que corresponda el tipo de cotización por contingencias comunes vigente en cada momento".
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.9 del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.7 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.9, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
@@ -1289,8 +1023,6 @@ La cotización a la Seguridad Social de los trabajadores por cuenta propia o aut
 1\. Con carácter general, se aplicará una cuota reducida por contingencias comunes y profesionales, a contar desde la fecha de efectos del alta y durante los doce meses naturales completos siguientes, quedando los trabajadores excepcionados de cotizar por cese de actividad y por formación profesional.
 
 La cuantía anual de la cuota reducida se establecerá en la respectiva Ley de Presupuestos Generales del Estado y su distribución entre las referidas contingencias se determinará reglamentariamente.
-
-> Téngase en cuenta que durante el periodo comprendido entre los años 2023 y 2025 la cuantía de la cuota reducida será de 80 euros mensuales, según establece la disposición transitoria 5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 2\. Transcurrido el período indicado en el apartado anterior, podrá también aplicarse una cuota reducida durante los siguientes doce meses naturales completos, respecto a aquellos trabajadores por cuenta propia cuyos rendimientos económicos netos anuales, en los términos del artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social, sean inferiores al salario mínimo interprofesional anual que corresponda a este período.
 
@@ -1322,13 +1054,9 @@ Si en el año o años que abarque el segundo período, los rendimientos económi
 
 10\. Cuando los trabajadores por cuenta propia o autónomos a que se refiere este artículo tengan un grado de discapacidad igual o superior al 33 por ciento, o sean víctimas de violencia de género o víctimas de terrorismo, los periodos de aplicación de la cuota reducida a que se refieren los apartados 1 y 2 serán, respectivamente, de 24 meses naturales completos y de 36 meses naturales completos.
 
-> Téngase en cuenta que durante el periodo comprendido entre los años 2023 y 2025 la cuantía de la cuota reducida, según lo previsto en el apartado 10, será de 80 euros mensuales hasta la finalización de los primeros veinticuatro meses naturales completos, y de 160 euros a partir del mes vigesimoquinto, según establece la disposición transitoria 5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), en la redacción dada a esta por la disposición final 10.10 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925).
-
 11\. Las reducciones en la cotización previstas en este artículo no resultarán aplicables a los familiares de trabajadores autónomos por consanguinidad o afinidad hasta el segundo grado inclusive y, en su caso, por adopción, que se incorporen al Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o, como trabajadores por cuenta propia, al grupo primero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, ni a los miembros de institutos de vida consagrada de la Iglesia Católica incluidos en el primero de dichos regímenes.
 
 12\. Las reducciones de cuotas previstas en este artículo se financiarán con cargo a las aportaciones del Estado a los presupuestos de la Seguridad Social destinadas a financiar reducciones en la cotización.
-
-> Téngase en cuenta que este artículo añadido por el art. 3.10 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), y en la redacción dada a este por la disposición final 10.8 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925), entra en vigor el 1 de enero de 2023, según determina la disposición final 5 de aquella y la disposición final 17.2.d) de esta última.
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 3.10 del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.8 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 
@@ -1343,8 +1071,6 @@ Los trabajadores autónomos que sean beneficiarios de la prestación para el cui
 En el caso de que el trabajador lleve menos de doce meses de alta continuada en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, la base media de cotización se calculará desde la última fecha de alta, siendo el resultado de multiplicar por 30 la cuantía resultante de dividir la suma de las bases de cotización entre el número de días de alta del período de alta continuada.
 
 A efectos del cálculo de esta bonificación, la base media a la que se refiere este apartado se calculara con las bases de cotización, provisionales o definitivas, existentes en el momento de la aplicación inicial de la bonificación, sin que la cuantía de la bonificación sea objeto de modificación como consecuencia de la regularización de las bases de cotización provisionales a la que se refiere el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social.
-
-> Téngase en cuenta que esta última actualización, por la que se añade el art. 38 quater, por el art. 3.11, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entrará en vigor el 1 de enero de 2023, según establece su disposición final 5
 
 > Se añade por el art. 3.11, del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 

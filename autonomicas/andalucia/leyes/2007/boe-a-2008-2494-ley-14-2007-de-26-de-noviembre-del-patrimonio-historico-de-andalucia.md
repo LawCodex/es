@@ -532,16 +532,6 @@ En estos casos, la persona o entidad promotora de la misma, incluirá preceptiva
 
 En caso de informe favorable éste se considerará a todos los efectos como la autorización a que se refiere el artículo 33.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 107.6 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030), entra en vigor el 16 de marzo de 2024, según establece su disposición final 11.6.
-
-> Redacción anterior:
-
-> "1. El titular de una actividad sometida a algunos de los instrumentos de prevención y control ambiental, que contengan la evaluación de impacto ambiental de la misma de acuerdo con la normativa vigente en esta materia, incluirá preceptivamente en el estudio o documentación de análisis ambiental que deba presentar ante la Consejería competente en materia de medio ambiente las determinaciones contempladas en la resolución emitida por la Consejería competente en materia de patrimonio histórico sobre los resultados de una actividad arqueológica sometida al régimen de autorizaciones previsto en el artículo 52 de esta ley, que identifique y valore la afección al patrimonio histórico, o en su caso, certificación acreditativa de la innecesariedad de tal actividad según lo dispuesto en el artículo 59 de esta ley, expedida por la Consejería competente en materia de patrimonio histórico.
-
-> 2\. La Consejería competente en materia de medio ambiente recabará informe vinculante de la Consejería competente en materia de patrimonio histórico sobre la afección al Patrimonio Histórico de la actividad proyectada e incluirá, en las correspondientes resoluciones y pronunciamientos, las determinaciones resultantes del informe emitido, que se considerará a todos los efectos como la autorización a que se refiere el artículo 33.
-
-> 3\. El plazo de emisión del informe será de treinta días y en caso de no ser emitido en este plazo se entenderá favorable. No obstante, cuando la actividad incida sobre inmuebles objeto de inscripción como Bien de Interés Cultural o su entorno, el plazo será de tres meses y de no ser emitido en este plazo se entenderá desfavorable."
-
 > Se modifica por el art. 107.6 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
 
 > Esta modificación entra en vigor el 16 de marzo de 2024, según establece la disposición final 11.6 del citado Decreto-ley
@@ -757,34 +747,6 @@ f) Reproducción y estudio directo de arte rupestre, el conjunto de trabajos de 
 El modelo normalizado de dicha declaración responsable se establecerá mediante orden de la Consejería competente en materia de patrimonio histórico, que también podría establecer las instrucciones que precise oportunas.
 
 4\. En el supuesto de actuaciones promovidas por la Consejería competente en materia de patrimonio histórico la autorización vendrá sustituida por el visado previo del proyecto a efectos de comprobar su idoneidad técnica y conceptual.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 107.8 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030), entra en vigor el 16 de marzo de 2024, según establece su disposición final 11.6.
-
-> Redacción anterior:
-
-> "1. Será necesaria la previa autorización de la Consejería competente en materia de patrimonio histórico para la realización de Proyectos Generales de Investigación Arqueológica y de las siguientes actividades arqueológicas en Andalucía: excavaciones y prospecciones arqueológicas, terrestres o subacuáticas, análisis de estructuras emergentes y la reproducción y estudio del arte rupestre.
-
-> La realización del control arqueológico de movimientos de tierra previsto en este artículo, estará sujeto, con carácter previo a su inicio, a declaración responsable en la que se realice una descripción de la actuación y en la que se manifieste que la dirección de la actividad arqueológica cumple con los requisitos legales y reglamentarios previstos. En ningún caso, esta declaración responsable eximirá de cumplir con las restantes obligaciones reglamentarias referidas al desarrollo de la actividad arqueológica y al pronunciamiento sobre los resultados de la misma por parte de la Consejería competente en materia de patrimonio histórico.
-
-> El modelo normalizado de dicha declaración responsable se establecerá mediante orden de la Consejería competente en materia de patrimonio histórico.
-
-> 2\. A los efectos de lo dispuesto en el apartado anterior se entiende por:
-
-> a) Proyecto General de Investigación Arqueológica, el programa o acción investigadora que, siguiendo el método científico, pretende recabar todo tipo de información y formular y corroborar hipótesis acerca de un determinado territorio o espacio en relación a su conocimiento arqueológico e histórico. Asimismo, podrán ser objeto de un Proyecto General de Investigación la conservación y puesta en valor de bienes susceptibles de ser estudiados con metodología arqueológica.
-
-> En ellos deberán contenerse las actividades arqueológicas que se realicen en su desarrollo, así como los criterios, metodología, los estudios complementarios o las actuaciones sobre los bienes objeto de investigación.
-
-> b) Excavación arqueológica, tanto terrestre como subacuática, la remoción de tierra y el análisis de estructuras realizados con metodología científica, destinada a descubrir e investigar toda clase de restos históricos o paleontológicos, así como los componentes geomorfológicos relacionados con ellos.
-
-> c) Prospección arqueológica, la exploración superficial y sistemática sin remoción de tierra realizada con metodología científica, tanto terrestre como subacuática, dirigida al estudio, investigación o detección de vestigios arqueológicos o paleontológicos. También tendrá la consideración de prospección arqueológica el uso de instrumentos y técnicas que permitan detectar objetos y estructuras por debajo del nivel del suelo, tales como teledetección, métodos geofísicos en sus distintos tipos, detectores de metales, etc.
-
-> d) Control arqueológico de movimientos de tierra, el seguimiento de las remociones de terreno realizadas de forma mecánica o manual, con objeto de comprobar la existencia de restos arqueológicos o paleontológicos y permitir su documentación y la recogida y recuperación de bienes muebles. Tendrán la consideración de control arqueológico de movimientos de tierra las inspecciones de los trabajos de dragados de fondos subacuáticos.
-
-> e) Análisis de estructuras emergentes, la documentación de las estructuras o elementos arquitectónicos y unidades de estratificación que forman o han formado parte de un inmueble. Dicha actividad podrá completarse, en su caso, mediante el control arqueológico de la ejecución de las obras de conservación, restauración o rehabilitación.
-
-> f) Reproducción y estudio directo de arte rupestre, el conjunto de trabajos de campo orientados a la investigación y documentación gráfica de los motivos figurados y sus soportes.
-
-> 3\. En el supuesto de actuaciones promovidas por la Consejería competente en materia de patrimonio histórico la autorización vendrá sustituida por el visado previo del proyecto a efectos de comprobar su idoneidad técnica y conceptual."
 
 > Se modifica por el art. 107.8 del Decreto-ley 3/2024, de 6 de febrero. [Ref. BOJA-b-2024-90030](https://www.boe.es/buscar/doc.php?id=BOJA-b-2024-90030)
 

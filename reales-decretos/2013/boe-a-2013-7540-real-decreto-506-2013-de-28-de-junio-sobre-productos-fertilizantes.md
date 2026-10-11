@@ -970,88 +970,88 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 
 1.3.2 Mezclas de micronutrientes exclusivamente minerales.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo de los micronutrientes</p>
-<p class="cabeza_tabla">(porcentaje en masa del abono)</p>
+<p>Contenido mínimo de los micronutrientes</p>
+<p>(porcentaje en masa del abono)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mezcla sólida de micronutrientes minerales.</p>
+<p>Mezcla sólida de micronutrientes minerales.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla de dos o más micronutrientes, en forma mineral exclusivamente, de los tipos de abonos 1.3.1 y 1.4.5.1.</p>
+<p>Producto obtenido por mezcla de dos o más micronutrientes, en forma mineral exclusivamente, de los tipos de abonos 1.3.1 y 1.4.5.1.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Boro (B) 0,2</p>
-<p class="cuerpo_tabla_izq">Cobalto (Co) 0,02</p>
-<p class="cuerpo_tabla_izq">Cobre (Cu) 0,5</p>
-<p class="cuerpo_tabla_izq">Hierro(Fe) 2,0</p>
-<p class="cuerpo_tabla_izq">Manganeso (Mn) 0,5</p>
-<p class="cuerpo_tabla_izq">Molibdeno (Mo) 0,02</p>
-<p class="cuerpo_tabla_izq">Zinc (Zn) 0,5</p>
-<p class="cuerpo_tabla_izq">Expresados en forma soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono.</p>
-<p class="cuerpo_tabla_izq">– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
+<p>Boro (B) 0,2</p>
+<p>Cobalto (Co) 0,02</p>
+<p>Cobre (Cu) 0,5</p>
+<p>Hierro(Fe) 2,0</p>
+<p>Manganeso (Mn) 0,5</p>
+<p>Molibdeno (Mo) 0,02</p>
+<p>Zinc (Zn) 0,5</p>
+<p>Expresados en forma soluble en agua.</p>
+<p>– En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono.</p>
+<p>– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Nombre de los aniones minerales.</p>
+<p>Nombre de los aniones minerales.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua. Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total. Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua.</p>
+<p>– Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua. Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total. Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="tabla_ancha">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mezcla líquida de micronutrientes minerales.</p>
+<p>Mezcla líquida de micronutrientes minerales.</p>
 </td>
 </tr>
 </tbody>
@@ -1059,49 +1059,49 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 
 1.3.3 Mezcla de nutrientes quelados o complejados
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Contenido mínimo de los micronutrientes</p>
-<p class="cabeza_tabla">(porcentaje en masa del abono)</p>
+<p>Contenido mínimo de los micronutrientes</p>
+<p>(porcentaje en masa del abono)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 <tr>
@@ -1109,7 +1109,7 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 <td rowspan="2"> </td>
 <td rowspan="2"> </td>
 <th colspan="3">
-<p class="cabeza_tabla">Cuando el nutriente es presentado en forma</p>
+<p>Cuando el nutriente es presentado en forma</p>
 </th>
 <td rowspan="2"> </td>
 <td rowspan="2"> </td>
@@ -1117,217 +1117,207 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 <tr>
 <td> </td>
 <th>
-<p class="cabeza_tabla">Solo mineral</p>
-<p class="cabeza_tabla">(soluble en agua)</p>
+<p>Solo mineral</p>
+<p>(soluble en agua)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complejado</p>
+<p>Complejado</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Mezcla sólida de micronutrientes complejados.</p>
+<p>Mezcla sólida de micronutrientes complejados.</p>
 </td>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma complejada, sin presencia de micronutrientes quelados.</p>
+<p>Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma complejada, sin presencia de micronutrientes quelados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Boro (B).</p>
+<p>Boro (B).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
+<p>0,2</p>
 </td>
 <td> </td>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Nombre de los aniones minerales si existen y de los agentes complejantes.</p>
+<p>Nombre de los aniones minerales si existen y de los agentes complejantes.</p>
 </td>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes presentes solubles en agua.</p>
-<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes en forma complejada.</p>
+<p>– Porcentaje de cada uno de los micronutrientes presentes solubles en agua.</p>
+<p>– Porcentaje de cada uno de los micronutrientes en forma complejada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cobalto (Co).</p>
+<p>Cobalto (Co).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,02</p>
-</td>
-<td> </td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cobre (Cu).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hierro(Fe).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Manganeso (Mn).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Molibdeno (Mo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,02</p>
+<p>0,02</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Zinc (Zn) .</p>
+<p>Cobre (Cu).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1</p>
+<p>0,1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>Hierro(Fe).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mezcla líquida de micronutrientes complejados.</p>
+<p>2,0</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manganeso (Mn).</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Molibdeno (Mo).</p>
+</td>
+<td>
+<p>0,02</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Zinc (Zn) .</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>02</p>
+</td>
+<td>
+<p>Mezcla líquida de micronutrientes complejados.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">– En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono.</p>
-<p class="cuerpo_tabla_izq">– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
+<p>– En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono.</p>
+<p>– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º</th>
-<th class="cabeza_tabla">Denominación del tipo</th>
-<th class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</th>
-<th class="cabeza_tabla" colspan="3">Contenido mínimo de los micronutrientes (porcentaje en masa del abono)</th>
-<th class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido en nutrientes que debe</p>
-<p class="cabeza_tabla">declararse y garantizarse. Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<th>N.º</th>
+<th>Denominación del tipo</th>
+<th>Informaciones sobre la forma de obtención y los componentes esenciales</th>
+<th colspan="3">Contenido mínimo de los micronutrientes (porcentaje en masa del abono)</th>
+<th>Otras informaciones sobre la denominación del tipo o del etiquetado</th>
+<th>
+<p>Contenido en nutrientes que debe</p>
+<p>declararse y garantizarse. Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla" colspan="3">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="3">Cuando el nutriente es presentado en forma</th>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2"> </th>
+<th rowspan="2"> </th>
+<th rowspan="2"> </th>
+<th rowspan="2"> </th>
+<th colspan="3">Cuando el nutriente es presentado en forma</th>
+<th rowspan="2"> </th>
+<th rowspan="2"> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Solo mineral</p>
-<p class="cabeza_tabla">(soluble en agua)</p>
+<th> </th>
+<th>
+<p>Solo mineral</p>
+<p>(soluble en agua)</p>
 </th>
-<th class="cabeza_tabla">Quelado</th>
+<th>Quelado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">03</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Mezcla sólida de micronutrientes quelados.</td>
-<td class="cuerpo_tabla_izq" rowspan="8">Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma quelada, sin presencia de micronutrientes complejados.</td>
-<td class="cuerpo_tabla_izq">Boro (B).</td>
-<td class="cuerpo_tabla_coma">0,2</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_izq" rowspan="8">Nombre de los aniones minerales si existen y de los agentes quelantes autorizados.</td>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes presentes solubles en agua.</p>
-<p class="cuerpo_tabla_izq">– Porcentaje de cada uno de los micronutrientes en forma quelada.</p>
+<td rowspan="7">03</td>
+<td rowspan="7">Mezcla sólida de micronutrientes quelados.</td>
+<td rowspan="8">Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma quelada, sin presencia de micronutrientes complejados.</td>
+<td>Boro (B).</td>
+<td>0,2</td>
+<td> </td>
+<td rowspan="8">Nombre de los aniones minerales si existen y de los agentes quelantes autorizados.</td>
+<td rowspan="8">
+<p>– Porcentaje de cada uno de los micronutrientes presentes solubles en agua.</p>
+<p>– Porcentaje de cada uno de los micronutrientes en forma quelada.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobalto (Co).</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Cobalto (Co).</td>
+<td>0,02</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobre (Cu).</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Cobre (Cu).</td>
+<td>0,5</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hierro(Fe).</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">0,3</td>
+<td>Hierro(Fe).</td>
+<td>2,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manganeso (Mn).</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Manganeso (Mn).</td>
+<td>0,5</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Molibdeno (Mo).</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Molibdeno (Mo).</td>
+<td>0,02</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zinc (Zn).</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Zinc (Zn).</td>
+<td>0,5</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">04</td>
-<td class="cuerpo_tabla_izq">Mezcla líquida de micronutrientes quelados.</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">– En la mezcla sólida, la suma mínima de todos los</p>
-<p class="cuerpo_tabla_izq">micronutrientes: 5% de la masa del abono.</p>
-<p class="cuerpo_tabla_izq">– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
+<td>04</td>
+<td>Mezcla líquida de micronutrientes quelados.</td>
+<td colspan="3">
+<p>– En la mezcla sólida, la suma mínima de todos los</p>
+<p>micronutrientes: 5% de la masa del abono.</p>
+<p>– En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono.</p>
 </td>
 </tr>
 </tbody>
@@ -1417,673 +1407,595 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 
 **1.4.2 Abonos inorgánicos compuestos con elementos nutrientes primarios**
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.2.1 Abonos NPK</p>
+<p>1.4.2.1 Abonos NPK</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.1.1</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
-<td class="cuerpo_tabla_izq">Abonos NPK.</td>
+<td rowspan="3">1.4.2.1.1</td>
+<td>Denominación del tipo:</td>
+<td>Abonos NPK.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente o por mezcla sin incorporación de materia orgánica de origen animal o vegetal.</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente o por mezcla sin incorporación de materia orgánica de origen animal o vegetal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O.</p>
+<td>Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td>
+<p>– Total: 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);</p>
+<p>– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="7%">
-<col width="21%">
-<col width="6%">
-<col width="12%">
-<col width="37%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno cianamídico</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno cianamídico</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
-<p class="cuerpo_tabla_izq">(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
-<p class="cuerpo_tabla_izq">(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
-<p class="cuerpo_tabla_izq">(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
-<p class="cuerpo_tabla_izq">(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
-<p class="cuerpo_tabla_izq">(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
-<p class="cuerpo_tabla_izq">(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<p>(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
+<p>(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
+<p>(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p>(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p>(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
+<p>(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
 </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (5) alcanza al menos el 1 % en masa, el contenido en esa forma de nitrógeno deberá declararse y garantizarse</p>
-<p class="cuerpo_tabla_izq">(3) Si supera el 28 %, véase anexo I (CFP 1(C)(I)(a)(i-ii)(A)) y Anexo IV parte I-2 del Reglamento (UE) 2019/1009</p>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2) a (5) alcanza al menos el 1 % en masa, el contenido en esa forma de nitrógeno deberá declararse y garantizarse</p>
+<p>(3) Si supera el 28 %, véase anexo I (CFP 1(C)(I)(a)(i-ii)(A)) y Anexo IV parte I-2 del Reglamento (UE) 2019/1009</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1. Un abono NPK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado y fosfato roca deberá garantizarse de conformidad con la solubilidad (1), (2) o (3):</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2);</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declará la solubilidad (3) con la obligación de indicar el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %. Para este tipo 1, la muestra para la determinación de las solubilidades (2) y (3) será de l g. 2 (a) Un abono NPK que contenga fosfato roca o fosfato roca parcialmente solubilizado no deberá contener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se garantizará de acuerdo con la solubilidad (1), (3) y (4).</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)].</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en citrato amónico neutro [solubilidad (3)].</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<td>
+<p>1. Un abono NPK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado y fosfato roca deberá garantizarse de conformidad con la solubilidad (1), (2) o (3):</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2);</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declará la solubilidad (3) con la obligación de indicar el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %. Para este tipo 1, la muestra para la determinación de las solubilidades (2) y (3) será de l g. 2 (a) Un abono NPK que contenga fosfato roca o fosfato roca parcialmente solubilizado no deberá contener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se garantizará de acuerdo con la solubilidad (1), (3) y (4).</p>
+<p>Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p>– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)].</p>
+<p>– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en citrato amónico neutro [solubilidad (3)].</p>
+<p>– contener al menos un 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1. Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">2. La indicación «Pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
-<p class="cuerpo_tabla_izq">3. Se permitirá declarar el contenido en cloruro</p>
+<td>
+<p>1. Óxido de potasio soluble en agua</p>
+<p>2. La indicación «Pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p>3. Se permitirá declarar el contenido en cloruro</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Granulometría de los componentes fosfatados básicos</p>
-<p class="cuerpo_tabla_izq">Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato roca parcialmente solubilizado: paso de, por lo menos, el 90 % a través</p>
-<p class="cuerpo_tabla_izq">de un tamiz de 0,160 de abertura de malla</p>
+<td colspan="3">
+<p>Granulometría de los componentes fosfatados básicos</p>
+<p>Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
+<p>Fosfato roca parcialmente solubilizado: paso de, por lo menos, el 90 % a través</p>
+<p>de un tamiz de 0,160 de abertura de malla</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NPK con fosfato roca» o «Abono NPK con fosfato roca parcialmente solubilizado». Para este tipo 2(a), la muestra de análisis para la determinación de la solubilidad (3) será de 3 g.</p>
-<p class="cuerpo_tabla_izq">2 (b) Un abono NPK que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
-<p class="cuerpo_tabla_izq">Se garantizará de acuerdo con las solubilidades (1) y (7), aplicándose esta última una vez deducida la solubilidad en agua.</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NPK con fosfato aluminocálcico».</p>
-<p class="cuerpo_tabla_izq">3. Cuando se trate de abono NPK que sólo contenga uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato aluminocálcico o fosfato roca blando, el componente fosfatado deberá indicarse a continuación de la denominación del tipo de abono.</p>
-<p class="cuerpo_tabla_izq">La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato calcinado: solubilidad (5)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato aluminocálcico: solubilidad (7)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
+<td> </td>
+<td>
+<p>Este tipo de abono deberá comercializarse bajo la denominación «Abono NPK con fosfato roca» o «Abono NPK con fosfato roca parcialmente solubilizado». Para este tipo 2(a), la muestra de análisis para la determinación de la solubilidad (3) será de 3 g.</p>
+<p>2 (b) Un abono NPK que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
+<p>Se garantizará de acuerdo con las solubilidades (1) y (7), aplicándose esta última una vez deducida la solubilidad en agua.</p>
+<p>Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p>– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
+<p>Este tipo de abono deberá comercializarse bajo la denominación «Abono NPK con fosfato aluminocálcico».</p>
+<p>3. Cuando se trate de abono NPK que sólo contenga uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato aluminocálcico o fosfato roca blando, el componente fosfatado deberá indicarse a continuación de la denominación del tipo de abono.</p>
+<p>La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
+<p>– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
+<p>– para los abonos a base de fosfato calcinado: solubilidad (5)</p>
+<p>– para los abonos a base de fosfato aluminocálcico: solubilidad (7)</p>
+<p>– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.2.1. Abonos NPK (cont.)</p>
+<p>1.4.2.1. Abonos NPK (cont.)</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.1.2</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
-<td class="cuerpo_tabla_izq">Abono NPK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído, según los casos</td>
+<td rowspan="3">1.4.2.1.2</td>
+<td>Denominación del tipo:</td>
+<td>Abono NPK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído, según los casos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N. Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5),</p>
-<p class="cuerpo_tabla_izq">(6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
-<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub>,</p>
-<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O.</p>
+<td>Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td>
+<p>– Total: 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N. Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5),</p>
+<p>(6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
+<p>– 5 % P<sub>2</sub>O<sub>5</sub>,</p>
+<p>– 5 % K<sub>2</sub>O.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de la crotonilidendiurea</p>
-<p class="cuerpo_tabla_izq">(6) Nitrógeno de la isobutilidendiurea</p>
-<p class="cuerpo_tabla_izq">(7) Nitrógeno de la urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
-<p class="cuerpo_tabla_izq">(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de la crotonilidendiurea</p>
+<p>(6) Nitrógeno de la isobutilidendiurea</p>
+<p>(7) Nitrógeno de la urea formaldehído</p>
+<p>(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
+<p>(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
 </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (4) alcanza, al menos, el 1 % en masa, deberá garantizarse</p>
-<p class="cuerpo_tabla_izq">(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno (7) deberá garantizarse en forma de nitrógeno (8) y (9)</p>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2) a (4) alcanza, al menos, el 1 % en masa, deberá garantizarse</p>
+<p>(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno (7) deberá garantizarse en forma de nitrógeno (8) y (9)</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Este abono NPK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado, ni fosfato roca blando deberá garantizarse de acuerdo con la solubilidad (1), (2) o (3):</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2)</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad (3), indicando obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)]</p>
-<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %</p>
-<p class="cuerpo_tabla_izq">La muestra para la determinación de la solubilidad (2) y (3) será de 1 g</p>
+<td>
+<p>Este abono NPK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado, ni fosfato roca blando deberá garantizarse de acuerdo con la solubilidad (1), (2) o (3):</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2)</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad (3), indicando obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)]</p>
+<p>El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %</p>
+<p>La muestra para la determinación de la solubilidad (2) y (3) será de 1 g</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
-<p class="cuerpo_tabla_izq">(3) Podrá declararse el contenido en cloruro</p>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p>(3) Podrá declararse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.2.2 Abonos NP</p>
+<p>1.4.2.2 Abonos NP</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">
-<p class="cuerpo_tabla_centro">1.4.2.2.1</p>
+<td rowspan="3">
+<p>1.4.2.2.1</p>
 </td>
-<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
-<td class="cuerpo_tabla_izq">Abonos NP.</td>
+<td>Denominación del tipo:</td>
+<td>Abonos NP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal.</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 % (N + P<sub>2</sub>O<sub>5</sub>);</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub>.</p>
+<td>Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td>
+<p>– Total: 18 % (N + P<sub>2</sub>O<sub>5</sub>);</p>
+<p>– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="27%">
-<col width="6%">
-<col width="17%">
-<col width="34%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno cianamídico</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno cianamídico</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
-<p class="cuerpo_tabla_izq">(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
-<p class="cuerpo_tabla_izq">(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
-<p class="cuerpo_tabla_izq">(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % al menos del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
-<p class="cuerpo_tabla_izq">(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
-<p class="cuerpo_tabla_izq">(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
-<p class="cuerpo_tabla_izq">(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<p>(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
+<p>(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
+<p>(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % al menos del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p>(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p>(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
+<p>(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (5) alcanza al menos el 1 % en peso, el contenido en esa forma de nitrógeno deberá declararse y garantizarse</p>
+<td> </td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2) a (5) alcanza al menos el 1 % en peso, el contenido en esa forma de nitrógeno deberá declararse y garantizarse</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1. Deberá garantizarse un abono NP sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado ni fosfato roca, de conformidad con la solubilidad (1), (2) o (3):</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2),</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad</p>
-<p class="cuerpo_tabla_izq">(3) con la obligación de indicar el P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %.</p>
-<p class="cuerpo_tabla_izq">Para este tipo 1, la muestra de análisis para la determinación de la solubilidad será de 1 g.</p>
-<p class="cuerpo_tabla_izq">2 (a) Un abono NP que contenga fosfato roca o fosfato roca parcialmente solubilizado no deberá tener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se garantizará de acuerdo con las solubilidades (1), (3) y (4)</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)]</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en el citrato amónico neutro [solubilidad (3)]</p>
-<p class="cuerpo_tabla_izq">– contener al menos 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NP con fosfato roca» o</p>
-<p class="cuerpo_tabla_izq">«Abono NP con fosfato roca parcialmente solubilizado».</p>
-<p class="cuerpo_tabla_izq">La muestra para la determinación de la solubilidad (3) en este tipo de abono será de 3 g.</p>
+<td>
+<p>1. Deberá garantizarse un abono NP sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado ni fosfato roca, de conformidad con la solubilidad (1), (2) o (3):</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2),</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad</p>
+<p>(3) con la obligación de indicar el P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %.</p>
+<p>Para este tipo 1, la muestra de análisis para la determinación de la solubilidad será de 1 g.</p>
+<p>2 (a) Un abono NP que contenga fosfato roca o fosfato roca parcialmente solubilizado no deberá tener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se garantizará de acuerdo con las solubilidades (1), (3) y (4)</p>
+<p>Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p>– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)]</p>
+<p>– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en el citrato amónico neutro [solubilidad (3)]</p>
+<p>– contener al menos 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>Este tipo de abono deberá comercializarse bajo la denominación «Abono NP con fosfato roca» o</p>
+<p>«Abono NP con fosfato roca parcialmente solubilizado».</p>
+<p>La muestra para la determinación de la solubilidad (3) en este tipo de abono será de 3 g.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Granulometría de los componentes fosfatados básicos:</p>
-<p class="cuerpo_tabla_izq">Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato roca parcialmente solubilizado paso de, por lo menos, el 90 % a través de un tamiz de 0,160 de abertura de malla</p>
+<td colspan="3">
+<p>Granulometría de los componentes fosfatados básicos:</p>
+<p>Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
+<p>Fosfato roca parcialmente solubilizado paso de, por lo menos, el 90 % a través de un tamiz de 0,160 de abertura de malla</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">2 (b) Un abono NP que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
-<p class="cuerpo_tabla_izq">Se garantizará de acuerdo con la solubilidad (1) y (7), aplicándose esta última, una vez deducido la solubilidad en agua.</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
-<p class="cuerpo_tabla_izq">– contener al menos 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)]</p>
-<p class="cuerpo_tabla_izq">– contener al menos 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono NP con fosfato aluminocálcico».</p>
-<p class="cuerpo_tabla_izq">3. Cuando se trate de abonos NP que sólo contengan uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato calcinado, fosfato aluminocálcico, o fosfato roca blando, el componente fosfatado deberá indicarse a continuación del tipo de abono.</p>
-<p class="cuerpo_tabla_izq">La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato calcinado: solubilidad (5)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato aluminocálcico: solubilidad (7)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
+<td> </td>
+<td>
+<p>2 (b) Un abono NP que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
+<p>Se garantizará de acuerdo con la solubilidad (1) y (7), aplicándose esta última, una vez deducido la solubilidad en agua.</p>
+<p>Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p>– contener al menos 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)]</p>
+<p>– contener al menos 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
+<p>Este tipo de abono deberá comercializarse bajo la denominación «Abono NP con fosfato aluminocálcico».</p>
+<p>3. Cuando se trate de abonos NP que sólo contengan uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato calcinado, fosfato aluminocálcico, o fosfato roca blando, el componente fosfatado deberá indicarse a continuación del tipo de abono.</p>
+<p>La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
+<p>– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
+<p>– para los abonos a base de fosfato calcinado: solubilidad (5)</p>
+<p>– para los abonos a base de fosfato aluminocálcico: solubilidad (7)</p>
+<p>– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.2.2 Abonos NP (cont.)</p>
+<p>1.4.2.2 Abonos NP (cont.)</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">
-<p class="cuerpo_tabla_centro">1.4.2.2.2</p>
+<td rowspan="3">
+<p>1.4.2.2.2</p>
 </td>
-<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
-<td class="cuerpo_tabla_izq">Abono NPK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído, según los casos</td>
+<td>Denominación del tipo:</td>
+<td>Abono NPK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído, según los casos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 % (N + P<sub>2</sub>O<sub>5</sub>);</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N. Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5),</p>
-<p class="cuerpo_tabla_izq">(6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
-<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub>,</p>
+<td>Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td>
+<p>– Total: 18 % (N + P<sub>2</sub>O<sub>5</sub>);</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N. Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5),</p>
+<p>(6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
+<p>– 5 % P<sub>2</sub>O<sub>5</sub>,</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de la crotonilidendiurea</p>
-<p class="cuerpo_tabla_izq">(6) Nitrógeno de la isobutilidendiurea</p>
-<p class="cuerpo_tabla_izq">(7) Nitrógeno de la urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
-<p class="cuerpo_tabla_izq">(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de la crotonilidendiurea</p>
+<p>(6) Nitrógeno de la isobutilidendiurea</p>
+<p>(7) Nitrógeno de la urea formaldehído</p>
+<p>(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
+<p>(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a (4) alcanza, al menos, el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno (7) deberá declararse en forma de nitrógeno (8) y (9)</p>
+<td> </td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2) a (4) alcanza, al menos, el 1 % en masa, deberá declararse</p>
+<p>(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno (7) deberá declararse en forma de nitrógeno (8) y (9)</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Este abono NP sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado, ni fosfato roca blando deberá declararse de acuerdo con la solubilidad (1), (2) o (3):</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2)</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad (3), indicando obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %</p>
-<p class="cuerpo_tabla_izq">La muestra para la determinación de las solubilidades (2) y (3) será de 1 g.</p>
+<td>
+<p>Este abono NP sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado, ni fosfato roca blando deberá declararse de acuerdo con la solubilidad (1), (2) o (3):</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará únicamente la solubilidad (2)</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance el 2 %, se declarará la solubilidad (3), indicando obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %</p>
+<p>La muestra para la determinación de las solubilidades (2) y (3) será de 1 g.</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.2.3 Abonos NK</p>
+<p>1.4.2.3 Abonos NK</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.3.1.</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
-<td class="cuerpo_tabla_izq">Abonos NK.</td>
+<td rowspan="3">1.4.2.3.1.</td>
+<td>Denominación del tipo:</td>
+<td>Abonos NK.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 % (N + K<sub>2</sub>O);</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % K<sub>2</sub>O.</p>
+<td>Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td>
+<p>– Total: 18 % (N + K<sub>2</sub>O);</p>
+<p>– Para cada uno de los elementos nutrientes: 3 % N, 5 % K<sub>2</sub>O.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno cianamídico</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno cianamídico</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si una de las formas de nitrógeno de (2) a (5) alcanza al menos el 1 % en masa, el contenido en esa forma de nitrógeno deberá declararse</p>
+<td> </td>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si una de las formas de nitrógeno de (2) a (5) alcanza al menos el 1 % en masa, el contenido en esa forma de nitrógeno deberá declararse</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
-<p class="cuerpo_tabla_izq">(3) El contenido en cloruro podrá declararse</p>
+<td> </td>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p>(3) El contenido en cloruro podrá declararse</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.2.3 Abonos NK (cont.)</p>
+<p>1.4.2.3 Abonos NK (cont.)</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.2.3.2</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo:</td>
-<td class="cuerpo_tabla_izq">Abono NK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído según los casos</td>
+<td rowspan="3">1.4.2.3.2</td>
+<td>Denominación del tipo:</td>
+<td>Abono NK que contiene crotonilidendiurea, isobutilidendiurea o urea formaldehído según los casos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente, que contiene crotonilidendiurea, isobutilidendiurea o urea folmaldehído, sin adición de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 % (N + K<sub>2</sub>O);</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N</p>
-<p class="cuerpo_tabla_izq">Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5), (6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
-<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O.</p>
+<td>Contenidos mínimos en elementos nutrientes (porcentaje en masa):</td>
+<td>
+<p>– Total: 18 % (N + K<sub>2</sub>O);</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N</p>
+<p>Al menos ¼ del contenido de nitrógeno total declarado debe proceder de la forma de nitrógeno (5), (6) o (7). Al menos <sup>3</sup>/<sub>5</sub> del contenido de nitrógeno (7) declarado deben ser solubles en agua caliente</p>
+<p>– 5 % K<sub>2</sub>O.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de la crotonilidendiurea</p>
-<p class="cuerpo_tabla_izq">(6) Nitrógeno de la isobutilidendiurea</p>
-<p class="cuerpo_tabla_izq">(7) Nitrógeno de la urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
-<p class="cuerpo_tabla_izq">(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de la crotonilidendiurea</p>
+<p>(6) Nitrógeno de la isobutilidendiurea</p>
+<p>(7) Nitrógeno de la urea formaldehído</p>
+<p>(8) Nitrógeno de la urea formaldehído soluble únicamente en agua caliente</p>
+<p>(9) Nitrógeno de la urea formaldehído soluble en agua fría</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2) a</p>
-<p class="cuerpo_tabla_izq">(4) alcanza, al menos, el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno</p>
-<p class="cuerpo_tabla_izq">(7) deberá declararse en forma de nitrógeno (8) y (9)</p>
+<td> </td>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2) a</p>
+<p>(4) alcanza, al menos, el 1 % en masa, deberá declararse</p>
+<p>(3) Una de las formas de nitrógeno (5) a (7) (según los casos). La forma de nitrógeno</p>
+<p>(7) deberá declararse en forma de nitrógeno (8) y (9)</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación</p>
-<p class="cuerpo_tabla_izq">«pobre en cloruro» equivaldrá a un contenido máximo de 2 %</p>
-<p class="cuerpo_tabla_izq">Cl</p>
-<p class="cuerpo_tabla_izq">(3) Podrá declararse el contenido en cloruro</p>
+<td> </td>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación</p>
+<p>«pobre en cloruro» equivaldrá a un contenido máximo de 2 %</p>
+<p>Cl</p>
+<p>(3) Podrá declararse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
@@ -2094,102 +2006,94 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 | Información sobre la forma de obtención: | Producto obtenido químicamente o por mezcla, sin incorporación de materia orgánica de origen animal o vegetal. |
 | Contenido mínimo en elementos fertilizantes (porcentaje en masa): | – Total: 18 % (P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O);<br>– Para cada uno de los elementos nutrientes: 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O. |
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="26%">
-<col width="10%">
-<col width="5%">
-<col width="37%">
-<col width="19%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
-<p class="cabeza_tabla">Granulometría</p>
+<th colspan="3">
+<p>Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se especifica en las columnas 4, 5 y 6</p>
+<p>Granulometría</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
-<p class="cuerpo_tabla_izq">(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
-<p class="cuerpo_tabla_izq">(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
-<p class="cuerpo_tabla_izq">(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
-<p class="cuerpo_tabla_izq">(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
-<p class="cuerpo_tabla_izq">(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
-<p class="cuerpo_tabla_izq">(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
+<td> </td>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<p>(4) P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales</p>
+<p>(5) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Petermann)</p>
+<p>(6 a) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p>(6 b) P<sub>2</sub>O<sub>5</sub> soluble en ácido cítrico al 2 %</p>
+<p>(7) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 75 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico alcalino (Joulie)</p>
+<p>(8) P<sub>2</sub>O<sub>5</sub> soluble en ácidos minerales, siendo el 55 % como mínimo del contenido declarado en P<sub>2</sub>O<sub>5</sub> soluble en ácido fórmico al 2 %</p>
 </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1. Un abono PK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado y fosfato roca, deberá declararse de conformidad con la solubilidad (1), (2) o (3):</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará solamente la solubilidad (2);</p>
-<p class="cuerpo_tabla_izq">– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble</p>
-<p class="cuerpo_tabla_izq">en agua alcance el 2 %, se declarará la solubilidad (3) con la obligación de indicar el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %.</p>
-<p class="cuerpo_tabla_izq">Para este tipo 1, la muestra de análisis para la determinación de la solubilidad (2) y (3) será de 1 g.</p>
-<p class="cuerpo_tabla_izq">2 (a) Un abono PK que contenga fosfato roca parcialmente solubilizado no deberá tener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se declarará de acuerdo con las solubilidades (1), (3) y (4)</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)]</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en el citrato amónico neutro [solubilidad (3)]</p>
-<p class="cuerpo_tabla_izq">– contener al menos un 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono PK con fosfato roca» o «Abono PK con fosfato roca parcialmente solubilizado». La muestra para la determinación de la solubilidad será de 3 g.</p>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td> </td>
+<td>
+<p>1. Un abono PK sin escorias Thomas, fosfato calcinado, fosfato aluminocálcico, fosfato roca parcialmente solubilizado y fosfato roca, deberá declararse de conformidad con la solubilidad (1), (2) o (3):</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble en agua no alcance el 2 %, se declarará solamente la solubilidad (2);</p>
+<p>– en el caso en que el P<sub>2</sub>O<sub>5</sub> soluble</p>
+<p>en agua alcance el 2 %, se declarará la solubilidad (3) con la obligación de indicar el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>El contenido de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales no deberá sobrepasar el 2 %.</p>
+<p>Para este tipo 1, la muestra de análisis para la determinación de la solubilidad (2) y (3) será de 1 g.</p>
+<p>2 (a) Un abono PK que contenga fosfato roca parcialmente solubilizado no deberá tener escorias Thomas, fosfato calcinado ni fosfato aluminocálcico. Se declarará de acuerdo con las solubilidades (1), (3) y (4)</p>
+<p>Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p>– contener al menos un 2 % de P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales [solubilidad (4)]</p>
+<p>– contener al menos un 5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua y en el citrato amónico neutro [solubilidad (3)]</p>
+<p>– contener al menos un 2,5 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>Este tipo de abono deberá comercializarse bajo la denominación «Abono PK con fosfato roca» o «Abono PK con fosfato roca parcialmente solubilizado». La muestra para la determinación de la solubilidad será de 3 g.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
-<p class="cuerpo_tabla_izq">(3) El contenido en cloruro podrá declararse</p>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» equivaldrá a un contenido máximo de 2 % Cl</p>
+<p>(3) El contenido en cloruro podrá declararse</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Granulometría de los componentes fosfatados básicos</p>
-<p class="cuerpo_tabla_izq">Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
-<p class="cuerpo_tabla_izq">Fosfato roca parcialmente solubilizado: paso de, por lo menos, el 90 % a través de un</p>
-<p class="cuerpo_tabla_izq">tamiz de 0,160 de abertura de malla</p>
+<td colspan="3">
+<p>Granulometría de los componentes fosfatados básicos</p>
+<p>Escorias Thomas: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato aluminocálcico: paso de, por lo menos, el 90 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato calcinado: paso de, por lo menos, el 75 % a través del tamiz de 0,160 mm de abertura de malla</p>
+<p>Fosfato roca blando: paso de, por lo menos, el 90 % a través de un tamiz de 0,063 mm de abertura de malla</p>
+<p>Fosfato roca parcialmente solubilizado: paso de, por lo menos, el 90 % a través de un</p>
+<p>tamiz de 0,160 de abertura de malla</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">2 (b) Un abono PK que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
-<p class="cuerpo_tabla_izq">Se declarará de acuerdo con las solubilidades (1) y (7), aplicándose esta última, una vez deducida la solubilidad en agua.</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá responder a las siguientes exigencias:</p>
-<p class="cuerpo_tabla_izq">– contener al menos 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
-<p class="cuerpo_tabla_izq">– contener al menos 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
-<p class="cuerpo_tabla_izq">Este tipo de abono deberá comercializarse bajo la denominación «Abono PK con fosfato aluminocálcico».</p>
-<p class="cuerpo_tabla_izq">3. Cuando se trate de abonos PK que sólo contengan uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato calcinado, fosfato aluminocálcico, o fosfato roca blando, el componente fosfatado deberá indicarse a continuación del tipo de abono.</p>
-<p class="cuerpo_tabla_izq">La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato disgregado: solubilidad (5)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base fosfato aluminocálcico: solubilidad (7)</p>
-<p class="cuerpo_tabla_izq">– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
+<td> </td>
+<td>
+<p>2 (b) Un abono PK que contenga fosfato aluminocálcico no deberá tener escorias Thomas, fosfato calcinado, fosfato roca parcialmente solubilizado ni fosfato roca.</p>
+<p>Se declarará de acuerdo con las solubilidades (1) y (7), aplicándose esta última, una vez deducida la solubilidad en agua.</p>
+<p>Este tipo de abono deberá responder a las siguientes exigencias:</p>
+<p>– contener al menos 2 % de P<sub>2</sub>O<sub>5</sub> soluble en agua [solubilidad (1)].</p>
+<p>– contener al menos 5 % de P<sub>2</sub>O<sub>5</sub> según la solubilidad (7).</p>
+<p>Este tipo de abono deberá comercializarse bajo la denominación «Abono PK con fosfato aluminocálcico».</p>
+<p>3. Cuando se trate de abonos PK que sólo contengan uno de los tipos de abonos fosfatados siguientes: escorias Thomas, fosfato calcinado, fosfato aluminocálcico, o fosfato roca blando, el componente fosfatado deberá indicarse a continuación del tipo de abono.</p>
+<p>La garantía de la solubilidad del P<sub>2</sub>O<sub>5</sub> deberá darse de la siguiente forma:</p>
+<p>– para los abonos a base de escorias Thomas: solubilidad (6a)</p>
+<p>– para los abonos a base de fosfato disgregado: solubilidad (5)</p>
+<p>– para los abonos a base fosfato aluminocálcico: solubilidad (7)</p>
+<p>– para los abonos a base de fosfato roca blando: solubilidad (8).</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2206,793 +2110,680 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 | 5 | Solución de abono nitrogenado con urea formaldehído | Producto obtenido químicamente o por disolución en agua de urea formaldehído y un abono nitrogenado de la lista A-1 del presente Reglamento, excluidos los productos 3(a), 3(b) y 5 | 18 % N expresado como nitrógeno total<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la urea formaldehído<br>Contenido máximo en biuret: (N ureico + N ureico formaldehído) x 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>– nitrógeno nítrico<br>– nitrógeno amoniacal<br>– nitrógeno ureico<br>Nitrógeno de la urea formaldehído |
 | 6 | Suspensión de abono nitrogenado con urea formaldehído | Producto obtenido químicamente o por suspensión en agua de urea formaldehído y un abono nitrogenado de la lista A-1 del presente Reglamento, excluidos los productos 3(a), 3(b) y 5 | 18 % N expresado como nitrógeno total<br>Al menos <sup>1</sup>/<sub>3</sub> del contenido de nitrógeno total declarado debe proceder de la urea formaldehído, del cual al menos <sup>3</sup>/<sub>5</sub> tienen que ser solubles en agua caliente<br>Contenido máximo en biuret: (N ureico + N ureico formaldehído) x 0,026 |  | Nitrógeno total<br>Para todas las formas cuyo contenido alcance el 1 %:<br>– nitrógeno nítrico<br>– nitrógeno amoniacal<br>– nitrógeno ureico<br>Nitrógeno de la urea formaldehído<br>Nitrógeno de la urea formaldehído soluble en agua fría<br>Nitrógeno de la urea formaldehído soluble únicamente en agua caliente |
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.3.2 Abonos líquidos compuestos</p>
+<p>1.4.3.2 Abonos líquidos compuestos</p>
 </caption>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.1</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Solución de abono NPK que contenga urea formaldehído</td>
+<td rowspan="3">1.4.3.2.1</td>
+<td>Denominación del tipo</td>
+<td>Solución de abono NPK que contenga urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total 15 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
-<p class="cuerpo_tabla_izq">– 3 % P<sub>2</sub>O<sub>5</sub></p>
-<p class="cuerpo_tabla_izq">– 3 % K<sub>2</sub>O</p>
-<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total 15 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p>– 3 % P<sub>2</sub>O<sub>5</sub></p>
+<p>– 3 % K<sub>2</sub>O</p>
+<p>Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nítrógeno nítrico</p>
+<p>(3) Nítrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de urea formaldehído</p>
 </td>
-<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td>P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Nitrógeno de urea formaldehído</p>
+<p>(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
-<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+<td>P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p>(3) Podrá indicarse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.2</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Suspensión de abono NPK que contenga urea formaldehído</td>
+<td rowspan="3">1.4.3.2.2</td>
+<td>Denominación del tipo</td>
+<td>Suspensión de abono NPK que contenga urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
-<p class="cuerpo_tabla_izq">Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
-<p class="cuerpo_tabla_izq">– 4 % P<sub>2</sub>O<sub>5</sub></p>
-<p class="cuerpo_tabla_izq">– 4 % K<sub>2</sub>O</p>
-<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total 20 % (N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p>Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
+<p>– 4 % P<sub>2</sub>O<sub>5</sub></p>
+<p>– 4 % K<sub>2</sub>O</p>
+<p>Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nítrógeno nítrico</p>
+<p>(3) Nítrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de urea formaldehído</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
 </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Nitrógeno de urea formaldehído</p>
+<p>(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
-<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
-<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<td>
+<p>Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p>(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p>(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
-<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p>(3) Podrá indicarse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.3</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Solución de abono NP que contenga urea formaldehído</td>
+<td rowspan="3">1.4.3.2.3</td>
+<td>Denominación del tipo</td>
+<td>Solución de abono NP que contenga urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total 18 % (N + P<sub>2</sub>O<sub>5</sub>)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
-<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub></p>
-<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total 18 % (N + P<sub>2</sub>O<sub>5</sub>)</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p>– 5 % P<sub>2</sub>O<sub>5</sub></p>
+<p>Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nítrógeno nítrico</p>
+<p>(3) Nítrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de urea formaldehído</p>
 </td>
-<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td>P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td> </td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Nitrógeno de urea formaldehído</p>
+<p>(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq">P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>P<sub>2</sub>O<sub>5</sub> soluble en agua</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.4</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Suspensión de abono NP</td>
+<td rowspan="3">1.4.3.2.4</td>
+<td>Denominación del tipo</td>
+<td>Suspensión de abono NP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 %, (N + P<sub>2</sub>O<sub>5</sub>)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub></p>
-<p class="cuerpo_tabla_izq">– Contenido máximo en biuret: N ureico × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total: 18 %, (N + P<sub>2</sub>O<sub>5</sub>)</p>
+<p>– Para cada uno de los elementos nutrientes: 3 % N, 5 % P<sub>2</sub>O<sub>5</sub></p>
+<p>– Contenido máximo en biuret: N ureico × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td> </td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
-<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
-<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<td>
+<p>Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p>(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p>(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.5</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Suspensión de abono NP que contenga urea formaldehído</td>
+<td rowspan="3">1.4.3.2.5</td>
+<td>Denominación del tipo</td>
+<td>Suspensión de abono NP que contenga urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total 18 % (N + P<sub>2</sub>O<sub>5</sub>)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
-<p class="cuerpo_tabla_izq">Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
-<p class="cuerpo_tabla_izq">– 5 % P<sub>2</sub>O<sub>5</sub></p>
-<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total 18 % (N + P<sub>2</sub>O<sub>5</sub>)</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p>Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
+<p>– 5 % P<sub>2</sub>O<sub>5</sub></p>
+<p>Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nítrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nítrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nítrógeno nítrico</p>
+<p>(3) Nítrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de urea formaldehído</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P2O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P3O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<p>(2) P2O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P3O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td> </td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Nitrógeno de urea formaldehído</p>
+<p>(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
-<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
-<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<td>
+<p>Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p>(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p>(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.6</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Solución de abono NK que contenga urea formaldehído</td>
+<td rowspan="3">1.4.3.2.6</td>
+<td>Denominación del tipo</td>
+<td>Solución de abono NK que contenga urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto obtenido químicamente y por disolución en agua en forma estable a la presión atmosférica, sin incorporación de materia orgánica de origen animal o vegetal y que contiene urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total 15 % (N + K<sub>2</sub>O)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
-<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O</p>
-<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total 15 % (N + K<sub>2</sub>O)</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p>– 5 % K<sub>2</sub>O</p>
+<p>Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nítrogeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nítrogeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nítrogeno nítrico</p>
+<p>(3) Nítrogeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de urea formaldehído</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldheído</p>
-<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td> </td>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Nitrógeno de urea formaldheído</p>
+<p>(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
-<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+<td> </td>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p>(3) Podrá indicarse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.7</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Suspensión de abono NK</td>
+<td rowspan="3">1.4.3.2.7</td>
+<td>Denominación del tipo</td>
+<td>Suspensión de abono NK</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 % (N + K<sub>2</sub>O)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 3 % N, 5 % K<sub>2</sub>O</p>
-<p class="cuerpo_tabla_izq">– Contenido máximo en biuret: N ureico × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total: 18 % (N + K<sub>2</sub>O)</p>
+<p>– Para cada uno de los elementos nutrientes: 3 % N, 5 % K<sub>2</sub>O</p>
+<p>– Contenido máximo en biuret: N ureico × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nitrógeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nitrógeno nítrico</p>
+<p>(3) Nitrógeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y (4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td> </td>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y (4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
-<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+<td> </td>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p>(3) Podrá indicarse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup> </colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.8</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Suspensión de abono NK que contenga urea formaldehído</td>
+<td rowspan="3">1.4.3.2.8</td>
+<td>Denominación del tipo</td>
+<td>Suspensión de abono NK que contenga urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal que contiene urea formaldehído</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal que contiene urea formaldehído</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total 18 % (N + K<sub>2</sub>O)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes:</p>
-<p class="cuerpo_tabla_izq">– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
-<p class="cuerpo_tabla_izq">Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
-<p class="cuerpo_tabla_izq">– 5 % K<sub>2</sub>O</p>
-<p class="cuerpo_tabla_izq">Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total 18 % (N + K<sub>2</sub>O)</p>
+<p>– Para cada uno de los elementos nutrientes:</p>
+<p>– 5 % N, como mínimo el 25 % del contenido declarado de nitrógeno total debe derivar de la forma de nitrógeno (5)</p>
+<p>Al menos 3/5 del contenido de nitrógeno (5) declarado debe ser soluble en agua caliente</p>
+<p>– 5 % K<sub>2</sub>O</p>
+<p>Contenido máximo en biuret: (N ureico + urea formaldehído N) × 0,026</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Nítrogeno nítrico</p>
-<p class="cuerpo_tabla_izq">(3) Nítrogeno amoniacal</p>
-<p class="cuerpo_tabla_izq">(4) Nitrógeno ureico</p>
-<p class="cuerpo_tabla_izq">(5) Nitrógeno de urea formaldehído</p>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Nítrogeno nítrico</p>
+<p>(3) Nítrogeno amoniacal</p>
+<p>(4) Nitrógeno ureico</p>
+<p>(5) Nitrógeno de urea formaldehído</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Nitrógeno total</p>
-<p class="cuerpo_tabla_izq">(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
-<p class="cuerpo_tabla_izq">(4) alcanza al menos el 1 % en masa, deberá declararse</p>
-<p class="cuerpo_tabla_izq">(3) Nitrógeno de urea formaldehído</p>
-<p class="cuerpo_tabla_izq">(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
+<td> </td>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td>
+<p>(1) Nitrógeno total</p>
+<p>(2) Si alguna de las formas de nitrógeno (2), (3) y</p>
+<p>(4) alcanza al menos el 1 % en masa, deberá declararse</p>
+<p>(3) Nitrógeno de urea formaldehído</p>
+<p>(4) Si el contenido en biuret es inferior al 0,2 %, podrá incluirse la indicación «pobre en biuret»</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
-<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+<td> </td>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p>(3) Podrá indicarse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">1.4.3.2.9</td>
-<td class="cuerpo_tabla_izq">Denominación del tipo</td>
-<td class="cuerpo_tabla_izq">Suspensión de abono PK</td>
+<td rowspan="3">1.4.3.2.9</td>
+<td>Denominación del tipo</td>
+<td>Suspensión de abono PK</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información sobre la forma de obtención:</td>
-<td class="cuerpo_tabla_izq">Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
+<td>Información sobre la forma de obtención:</td>
+<td>Producto en forma líquida, cuyos elementos nutrientes proceden de sustancias tanto disueltas como en suspensión en agua, sin incorporación de materia orgánica de origen animal o vegetal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Total: 18 % (P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
-<p class="cuerpo_tabla_izq">– Para cada uno de los elementos nutrientes: 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O</p>
+<td>Contenido mínimo en elementos nutrientes (porcentaje en masa) y otros requisitos:</td>
+<td>
+<p>– Total: 18 % (P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O)</p>
+<p>– Para cada uno de los elementos nutrientes: 5 % P<sub>2</sub>O<sub>5</sub>, 5 % K<sub>2</sub>O</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="20%">
-<col width="8%">
-<col width="8%">
-<col width="41%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
-<th class="cabeza_tabla" colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
+<th colspan="3">Formas, solubilidades y contenido en elementos nutrientes que deben declararse como se específica en las columnas 4, 5 y 6 – Granulometría</th>
+<th colspan="3">Información para la identificación de los abonos – Otros requisitos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
-<th class="cabeza_tabla">N</th>
-<th class="cabeza_tabla">P<sub>2</sub>O<sub>5</sub></th>
-<th class="cabeza_tabla">K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
+<th>N</th>
+<th>P<sub>2</sub>O<sub>5</sub></th>
+<th>K<sub>2</sub>O</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) P<sub>2</sub>O<sub>5</sub>-soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
-<p class="cuerpo_tabla_izq">(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
+<td> </td>
+<td>
+<p>(1) P<sub>2</sub>O<sub>5</sub>-soluble en agua</p>
+<p>(2) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro</p>
+<p>(3) P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua</p>
 </td>
-<td class="cuerpo_tabla_izq">K<sub>2</sub>O soluble en agua</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
-<p class="cuerpo_tabla_izq">(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
-<p class="cuerpo_tabla_izq">(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
+<td>K<sub>2</sub>O soluble en agua</td>
+<td> </td>
+<td>
+<p>Los abonos no pueden contener escorias Thomas ni fosfato de aluminio cálcico, ni fosfatos desagregados, fosfatos parcialmente solubilizados ni fosfatos roca</p>
+<p>(1) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua sea inferior al 2 %, se declarará solo la solubilidad (2)</p>
+<p>(2) Cuando el P<sub>2</sub>O<sub>5</sub> soluble en agua alcance al menos el 2 %, se declarará la solubilidad (3) indicándose obligatoriamente el contenido en P<sub>2</sub>O<sub>5</sub> soluble en agua</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(1) Óxido de potasio soluble en agua</p>
-<p class="cuerpo_tabla_izq">(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
-<p class="cuerpo_tabla_izq">(3) Podrá indicarse el contenido en cloruro</p>
+<td>
+<p>(1) Óxido de potasio soluble en agua</p>
+<p>(2) La indicación «pobre en cloruro» solo podrá incluirse cuando el contenido en Cl no exceda del 2 %</p>
+<p>(3) Podrá indicarse el contenido en cloruro</p>
 </td>
 </tr>
 </tbody>
@@ -3094,227 +2885,212 @@ Nota 3: Si un micronutriente está presente en forma quelada, habrá que indicar
 
 1.4.5.1.8 Mezclas sólidas o líquidas de abonos con micronutrientes
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º</th>
-<th class="cabeza_tabla">Denominación del tipo</th>
-<th class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</th>
-<th class="cabeza_tabla">Contenido mínimo de los micronutrientes (porcentaje en masa del abono)</th>
-<th class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido en nutrientes que debe</p>
-<p class="cabeza_tabla">declararse y garantizarse. Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<th>N.º</th>
+<th>Denominación del tipo</th>
+<th>Informaciones sobre la forma de obtención y los componentes esenciales</th>
+<th>Contenido mínimo de los micronutrientes (porcentaje en masa del abono)</th>
+<th>Otras informaciones sobre la denominación del tipo o del etiquetado</th>
+<th>
+<p>Contenido en nutrientes que debe</p>
+<p>declararse y garantizarse. Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">01</td>
-<td class="cuerpo_tabla_izq">Mezcla de micronutrientes.</td>
-<td class="cuerpo_tabla_izq">Producto obtenido mediante la mezcla de dos o más tipos de abono E.1 u obtenido por la disolución y/o la suspensión en agua de dos o más tipos de abono de los grupos 1.3 y 1.4.5.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1) 5 % del contenido total de una mezcla sólida, o</p>
-<p class="cuerpo_tabla_izq">2) 2 % del contenido total de una mezcla líquida Micronutrientes conforme a la siguiente tabla.</p>
-<p class="cuerpo_tabla_izq">Cuando el micronutriente está presente en forma:</p>
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<td>01</td>
+<td>Mezcla de micronutrientes.</td>
+<td>Producto obtenido mediante la mezcla de dos o más tipos de abono E.1 u obtenido por la disolución y/o la suspensión en agua de dos o más tipos de abono de los grupos 1.3 y 1.4.5.</td>
+<td>
+<p>1) 5 % del contenido total de una mezcla sólida, o</p>
+<p>2) 2 % del contenido total de una mezcla líquida Micronutrientes conforme a la siguiente tabla.</p>
+<p>Cuando el micronutriente está presente en forma:</p>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Micronutriente</p>
+<th>
+<p>Micronutriente</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Solo mineral</p>
+<th>
+<p>Solo mineral</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla"><span class="no_partir">Quelad</span>o/c<span class="no_partir">omplejado</span></p>
+<th>
+<p><span>Quelad</span>o/c<span>omplejado</span></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Boro (B).</td>
-<td class="cuerpo_tabla_coma">0,2</td>
-<td class="cuerpo_tabla_coma">0,2</td>
+<td>Boro (B).</td>
+<td>0,2</td>
+<td>0,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobalto (Co).</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma">0,02</td>
+<td>Cobalto (Co).</td>
+<td>0,02</td>
+<td>0,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobre (Cu).</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Cobre (Cu).</td>
+<td>0,5</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hierro (Fe).</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">0,3</td>
+<td>Hierro (Fe).</td>
+<td>2,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manganeso (Mn).</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Manganeso (Mn).</td>
+<td>0,5</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Molibdeno (Mo).</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma">_</td>
+<td>Molibdeno (Mo).</td>
+<td>0,02</td>
+<td>_</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zinc (Zn).</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Zinc (Zn).</td>
+<td>0,5</td>
+<td>0,1</td>
 </tr>
 </tbody>
 </table>
 </td>
-<td class="cuerpo_tabla_izq">Nombre de cada micronutriente y su símbolo químico, por orden alfabético de los símbolos químicos, seguidos de sus contra-iones inmediatamente después de la denominación de tipo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total.</p>
-<p class="cuerpo_tabla_izq">Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– Cuando un micronutriente esté ligado químicamente a una molécula orgánica, el contenido del micronutriente se declarará inmediatamente a continuación del contenido soluble en agua, en porcentaje en masa del producto, seguido por las expresiones «quelado por» o "complejado por" y el nombre de cada agente quelante o complejante tal y como figura en la letra E.3. El nombre de la molécula orgánica podrá ser substituido por su abreviatura. Debajo de las declaraciones obligatoria y facultativa, se añadirá la siguiente indicación: "Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis recomendadas".</p>
+<td>Nombre de cada micronutriente y su símbolo químico, por orden alfabético de los símbolos químicos, seguidos de sus contra-iones inmediatamente después de la denominación de tipo.</td>
+<td>
+<p>– Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua.</p>
+<p>– Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total.</p>
+<p>Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua.</p>
+<p>– Cuando un micronutriente esté ligado químicamente a una molécula orgánica, el contenido del micronutriente se declarará inmediatamente a continuación del contenido soluble en agua, en porcentaje en masa del producto, seguido por las expresiones «quelado por» o "complejado por" y el nombre de cada agente quelante o complejante tal y como figura en la letra E.3. El nombre de la molécula orgánica podrá ser substituido por su abreviatura. Debajo de las declaraciones obligatoria y facultativa, se añadirá la siguiente indicación: "Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis recomendadas".</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">1.4.5.2 Lista de agentes orgánicos autorizados quelantes para micronutrientes</p>
-<p class="parrafo_2">Las siguientes sustancias están autorizadas siempre que el correspondiente quelato del nutriente haya cumplido los requisitos de la Directiva 67/548/CEE del Consejo (1).(2)</p>
-<p class="parrafo">Ácidos o sales de sodio, potasio o amonio de:</p>
+<p>1.4.5.2 Lista de agentes orgánicos autorizados quelantes para micronutrientes</p>
+<p>Las siguientes sustancias están autorizadas siempre que el correspondiente quelato del nutriente haya cumplido los requisitos de la Directiva 67/548/CEE del Consejo (1).(2)</p>
+<p>Ácidos o sales de sodio, potasio o amonio de:</p>
 </caption>
-<colgroup>
-<col width="3%">
-<col width="43%">
-<col width="18%">
-<col width="18%">
-<col width="18%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.<sup>o</sup></th>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Denominación alternativa</th>
-<th class="cabeza_tabla">Fórmula química</th>
-<th class="cabeza_tabla">Número CAS del ácido (1)</th>
+<th>N.<sup>o</sup></th>
+<th>Denominación</th>
+<th>Denominación alternativa</th>
+<th>Fórmula química</th>
+<th>Número CAS del ácido (1)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiaminotetraacético</td>
-<td class="cuerpo_tabla_izq">EDTA</td>
-<td class="cuerpo_tabla_izq">C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">60-00-4</td>
+<td>1</td>
+<td>Ácido etilendiaminotetraacético</td>
+<td>EDTA</td>
+<td>C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N<sub>2</sub></td>
+<td>60-00-4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Ácido 2-hidroxietiletilendiaminotriacético</td>
-<td class="cuerpo_tabla_izq">HEEDTA</td>
-<td class="cuerpo_tabla_izq">C<sub>10</sub>H<sub>18</sub>O7N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">150-39-0</td>
+<td>2</td>
+<td>Ácido 2-hidroxietiletilendiaminotriacético</td>
+<td>HEEDTA</td>
+<td>C<sub>10</sub>H<sub>18</sub>O7N<sub>2</sub></td>
+<td>150-39-0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Ácido dietilentriaminopentaacético</td>
-<td class="cuerpo_tabla_izq">DTPA</td>
-<td class="cuerpo_tabla_izq">C<sub>14</sub>H<sub>23</sub>O<sub>10</sub>N3</td>
-<td class="cuerpo_tabla_izq">67-43-6</td>
+<td>3</td>
+<td>Ácido dietilentriaminopentaacético</td>
+<td>DTPA</td>
+<td>C<sub>14</sub>H<sub>23</sub>O<sub>10</sub>N3</td>
+<td>67-43-6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(orto-hidroxifenil)acético]</td>
-<td class="cuerpo_tabla_izq">[o,o] EDDHA</td>
-<td class="cuerpo_tabla_izq">C<sub>18</sub>H<sub>20</sub>O<sub>6</sub>N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">1170-02-1</td>
+<td>4</td>
+<td>Ácido etilendiamino-N,N’-di[(orto-hidroxifenil)acético]</td>
+<td>[o,o] EDDHA</td>
+<td>C<sub>18</sub>H<sub>20</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td>1170-02-1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N-[(orto-hidroxifenil)acético]-N’- [(para-hidroxifenil)acético]</td>
-<td class="cuerpo_tabla_izq">[o,p] EDDHA</td>
-<td class="cuerpo_tabla_izq">C<sub>18</sub>H<sub>20</sub>O<sub>6</sub>N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">475475-49-1</td>
+<td>5</td>
+<td>Ácido etilendiamino-N-[(orto-hidroxifenil)acético]-N’- [(para-hidroxifenil)acético]</td>
+<td>[o,p] EDDHA</td>
+<td>C<sub>18</sub>H<sub>20</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td>475475-49-1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(orto-hidroximetilfenil)acético]</td>
-<td class="cuerpo_tabla_izq">[o,o] EDDHMA</td>
-<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">641632-90-8</td>
+<td>6</td>
+<td>Ácido etilendiamino-N,N’-di[(orto-hidroximetilfenil)acético]</td>
+<td>[o,o] EDDHMA</td>
+<td>C<sub>20</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td>641632-90-8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N-[(orto-hidroximetilfenil)acético]-N’-[(para-hidroximetilfenil)acético]</td>
-<td class="cuerpo_tabla_izq">[o,p] EDDHMA</td>
-<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">641633-41-2</td>
+<td>7</td>
+<td>Ácido etilendiamino-N-[(orto-hidroximetilfenil)acético]-N’-[(para-hidroximetilfenil)acético]</td>
+<td>[o,p] EDDHMA</td>
+<td>C<sub>20</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub></td>
+<td>641633-41-2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(5-carboxi-2-hidroxifenil)acético]</td>
-<td class="cuerpo_tabla_izq">EDDCHA</td>
-<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>20</sub>O<sub>10</sub>N<sub>2</sub></td>
-<td class="cuerpo_tabla_izq">85120-53-2</td>
+<td>8</td>
+<td>Ácido etilendiamino-N,N’-di[(5-carboxi-2-hidroxifenil)acético]</td>
+<td>EDDCHA</td>
+<td>C<sub>20</sub>H<sub>20</sub>O<sub>10</sub>N<sub>2</sub></td>
+<td>85120-53-2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N’-di[(2-hidroxi-5-sulfofenil)acético] y sus productos de condensación</td>
-<td class="cuerpo_tabla_izq">EDDHSA</td>
-<td class="cuerpo_tabla_izq">C<sub>18</sub>H<sub>20</sub>O<sub>12</sub>N<sub>2</sub>S<sub>2</sub> + n*(C<sub>12</sub>H<sub>14</sub>O<sub>8</sub>N<sub>2</sub>S)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">57368-07-7 y</p>
-<p class="cuerpo_tabla_izq">642045-40-7</p>
+<td>9</td>
+<td>Ácido etilendiamino-N,N’-di[(2-hidroxi-5-sulfofenil)acético] y sus productos de condensación</td>
+<td>EDDHSA</td>
+<td>C<sub>18</sub>H<sub>20</sub>O<sub>12</sub>N<sub>2</sub>S<sub>2</sub> + n*(C<sub>12</sub>H<sub>14</sub>O<sub>8</sub>N<sub>2</sub>S)</td>
+<td>
+<p>57368-07-7 y</p>
+<p>642045-40-7</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Ácido iminodisuccínico</td>
-<td class="cuerpo_tabla_izq">IDHA</td>
-<td class="cuerpo_tabla_izq">C<sub>8</sub>H<sub>11</sub>O<sub>8</sub>N</td>
-<td class="cuerpo_tabla_izq">131669-35-7</td>
+<td>10</td>
+<td>Ácido iminodisuccínico</td>
+<td>IDHA</td>
+<td>C<sub>8</sub>H<sub>11</sub>O<sub>8</sub>N</td>
+<td>131669-35-7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Ácido etilendiamino-N,N'-di(2-hidroxibenzil) N,N'-diacético</td>
-<td class="cuerpo_tabla_izq">HBED</td>
-<td class="cuerpo_tabla_izq">C<sub>20</sub>H<sub>24</sub>N<sub>2</sub>O<sub>6</sub></td>
-<td class="cuerpo_tabla_izq">35998-29-9</td>
+<td>11</td>
+<td>Ácido etilendiamino-N,N'-di(2-hidroxibenzil) N,N'-diacético</td>
+<td>HBED</td>
+<td>C<sub>20</sub>H<sub>24</sub>N<sub>2</sub>O<sub>6</sub></td>
+<td>35998-29-9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Ácido [S,S]-etilendiaminodisuccínico</td>
-<td class="cuerpo_tabla_izq">[S,S]-EDDS</td>
-<td class="cuerpo_tabla_izq">C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N2</td>
-<td class="cuerpo_tabla_izq">20846-91-7</td>
+<td>12</td>
+<td>Ácido [S,S]-etilendiaminodisuccínico</td>
+<td>[S,S]-EDDS</td>
+<td>C<sub>10</sub>H<sub>16</sub>O<sub>8</sub>N2</td>
+<td>20846-91-7</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">(1) A título meramente informativo.</p>
-<p class="cita">(1) DO 196 de 16.8.1967, p. 1.</p>
-<p class="cita">(2) Los agentes quelantes se identificarán y cuantificarán conforme a las normas europeas que cubran los mencionados agentes.</p>
+<p>(1) A título meramente informativo.</p>
+<p>(1) DO 196 de 16.8.1967, p. 1.</p>
+<p>(2) Los agentes quelantes se identificarán y cuantificarán conforme a las normas europeas que cubran los mencionados agentes.</p>
 </td>
 </tr>
 </tfoot>
@@ -3326,107 +3102,107 @@ Nota. El uso de conservantes para evitar la contaminación microbiana en product
 
 2.1 Nitrogenados.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico nitrogenado de origen animal.</p>
+<p>Abono orgánico nitrogenado de origen animal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materia orgánica animal.</p>
+<p>Producto sólido obtenido por tratamiento, con o sin mezcla, de materia orgánica animal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 6%.</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 10.</p>
+<p>– N total: 6%.</p>
+<p>– C/N no mayor de 10.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Humedad mínima y máxima.</p>
+<p>Humedad mínima y máxima.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– C/N.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p>– N total y N orgánico.</p>
+<p>– C orgánico.</p>
+<p>– C/N.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales (si superan el 1%).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico nitrogenado de origen vegetal .</p>
+<p>Abono orgánico nitrogenado de origen vegetal .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materia orgánica vegetal.</p>
+<p>Producto sólido obtenido por tratamiento, con o sin mezcla, de materia orgánica vegetal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 2%</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 15.</p>
+<p>– N total: 2%</p>
+<p>– C/N no mayor de 15.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico nitrogenado de origen animal y vegetal.</p>
+<p>Abono orgánico nitrogenado de origen animal y vegetal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales y vegetales .</p>
+<p>Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales y vegetales .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 3%</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 12.</p>
+<p>– N total: 3%</p>
+<p>– C/N no mayor de 12.</p>
 </td>
 </tr>
 </tbody>
@@ -3441,98 +3217,98 @@ Nota. El uso de conservantes para evitar la contaminación microbiana en product
 
 2.3 NPK.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico NPK de origen animal.</p>
+<p>Abono orgánico NPK de origen animal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento de excrementos animales, –con o sin cama–, sin ácidos minerales.</p>
-<p class="cuerpo_tabla_izq">Se incluyen los restos de pescado compostado.</p>
+<p>Producto sólido obtenido por tratamiento de excrementos animales, –con o sin cama–, sin ácidos minerales.</p>
+<p>Se incluyen los restos de pescado compostado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 6%.</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 10.</p>
-<p class="cuerpo_tabla_izq">– Cada nutriente debe ser al menos un 1,5%.</p>
-<p class="cuerpo_tabla_izq">– El N orgánico debe ser al menos un 50% de N total, con un mínimo del 1%.</p>
-<p class="cuerpo_tabla_izq">– El N nítrico no debe exceder del 1,5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 6%.</p>
+<p>– C/N no mayor de 10.</p>
+<p>– Cada nutriente debe ser al menos un 1,5%.</p>
+<p>– El N orgánico debe ser al menos un 50% de N total, con un mínimo del 1%.</p>
+<p>– El N nítrico no debe exceder del 1,5%.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Humedad mínima y máxima.</p>
+<p>Humedad mínima y máxima.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>total.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– C/N.</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p>– N total y N orgánico.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>total.</p>
+<p>– K<sub>2</sub>O total.</p>
+<p>– C orgánico.</p>
+<p>– C/N.</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico NPK de origen animal y vegetal.</p>
+<p>Abono orgánico NPK de origen animal y vegetal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento de excrementos animales y/u otras materias orgánicas animales mezclados con materias orgánicas vegetales.</p>
+<p>Producto sólido obtenido por tratamiento de excrementos animales y/u otras materias orgánicas animales mezclados con materias orgánicas vegetales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 4%</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 15</p>
-<p class="cuerpo_tabla_izq">– Cada nutriente debe ser al menos un 1% .</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 4%</p>
+<p>– C/N no mayor de 15</p>
+<p>– Cada nutriente debe ser al menos un 1% .</p>
 </td>
 </tr>
 </tbody>
@@ -3540,97 +3316,97 @@ Nota. El uso de conservantes para evitar la contaminación microbiana en product
 
 2.4 NP.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico NP de origen animal.</p>
+<p>Abono orgánico NP de origen animal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales.</p>
+<p>Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> : 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 3 %.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> total: 4%.</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 6.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> : 8%.</p>
+<p>– N total: 3 %.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> total: 4%.</p>
+<p>– C/N no mayor de 6.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Humedad mínima y máxima.</p>
+<p>Humedad mínima y máxima.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>total.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– C/N.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total (si supera el 1%).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
+<p>– N total y N orgánico.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>total.</p>
+<p>– C orgánico.</p>
+<p>– C/N.</p>
+<p>– K<sub>2</sub>O total (si supera el 1%).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono orgánico NP de origen animal y vegetal.</p>
+<p>Abono orgánico NP de origen animal y vegetal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales y vegetales.</p>
+<p>Producto sólido obtenido por tratamiento, con o sin mezcla, de materias orgánicas animales y vegetales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> : 6%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> total: 3%.</p>
-<p class="cuerpo_tabla_izq">– C/N no mayor de 12.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> : 6%.</p>
+<p>– N total: 2 %.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> total: 3%.</p>
+<p>– C/N no mayor de 12.</p>
 </td>
 </tr>
 </tbody>
@@ -3657,158 +3433,158 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.1 Nitrogenados.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado.</p>
+<p>Abono órgano-mineral nitrogenado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 10%.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p>– N total: 10%.</p>
+<p>– N orgánico: 1%.</p>
+<p>– C orgánico: 8%.</p>
 </td>
 <td> </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales, (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+<p>– N total y N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– C orgánico.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales, (si superan el 1%).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado con turba.</p>
+<p>Abono órgano-mineral nitrogenado con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto sólido obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 10%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Turba 5%.</p>
+<p>– N total: 10%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Turba 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado con lignito o leonardita.</p>
+<p>Abono órgano-mineral nitrogenado con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+<p>Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 10%.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+<p>– N total: 10%.</p>
+<p>– N orgánico: 1%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Lignito o leonardita 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">04</p>
+<p>04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado líquido.</p>
+<p>Abono órgano-mineral nitrogenado líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 8%.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 5%.</p>
+<p>– N total: 8%.</p>
+<p>– N orgánico: 1%.</p>
+<p>– C orgánico: 5%.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– pH.</p>
+<p>– pH.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales, (si superan el 1%)</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+<p>– N total y N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– C orgánico.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> y K<sub>2</sub>O totales, (si superan el 1%)</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">05</p>
+<p>05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral nitrogenado líquido con turba.</p>
+<p>Abono órgano-mineral nitrogenado líquido con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin materias o abonos orgánicos.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total: 8%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 5%.</p>
-<p class="cuerpo_tabla_izq">– Turba 5%.</p>
+<p>– N total: 8%.</p>
+<p>– C orgánico: 5%.</p>
+<p>– Turba 5%.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– pH.</p>
+<p>– pH.</p>
 </td>
 </tr>
 </tbody>
@@ -3816,157 +3592,157 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.2 NPK sólidos.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">N.º</p>
+<th>
+<p>N.º</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Denominación del tipo</p>
+<th>
+<p>Denominación del tipo</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<th>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<th>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<th>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<th>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">1</p>
+<th>
+<p>1</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">2</p>
+<th>
+<p>2</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">3</p>
+<th>
+<p>3</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">4</p>
+<th>
+<p>4</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">5</p>
+<th>
+<p>5</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">6</p>
+<th>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK.</p>
+<p>Abono órgano-mineral NPK.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
 </td>
 <td> </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– N total.</p>
-<p class="cuerpo_tabla_izq">– N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+<p>– N total.</p>
+<p>– N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p>– K<sub>2</sub>O soluble en agua.</p>
+<p>– C orgánico.</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK con turba.</p>
+<p>Abono órgano-mineral NPK con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p>– N total: 2 %.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Turba: 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK con lignito o leonardita.</p>
+<p>Abono órgano-mineral NPK con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Lignito o leonardita 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">04</p>
+<p>04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK (con o sin turba) con fosfato roca.</p>
+<p>Abono órgano-mineral NPK (con o sin turba) con fosfato roca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales,incluyendo fosfato roca.</p>
+<p>Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales,incluyendo fosfato roca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1% (sin turba).</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua: 3%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– En los productos con turba 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 12%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1% (sin turba).</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua: 3%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– En los productos con turba 5%.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
+<p>En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
-<p class="cuerpo_tabla_izq">-– K<sub>2</sub>O soluble en agua.</p>
-<p class="cuerpo_tabla_izq">-– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– Contenido de turba si está presente.</p>
+<p>– N total y N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
+<p>-– K<sub>2</sub>O soluble en agua.</p>
+<p>-– C orgánico.</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– Contenido de turba si está presente.</p>
 </td>
 </tr>
 </tbody>
@@ -3974,104 +3750,104 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.3 NPK líquidos.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK líquido.</p>
+<p>Abono órgano-mineral NPK líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 4%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p>– K<sub>2</sub>O: 2%.</p>
+<p>– C orgánico: 4%.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– pH.</p>
+<p>– pH.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– N total.</p>
-<p class="cuerpo_tabla_izq">– N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, indicar su contenido.</p>
+<p>– N total.</p>
+<p>– N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p>– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p>– K<sub>2</sub>O soluble en agua.</p>
+<p>– C orgánico.</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NPK líquido con turba.</p>
+<p>Abono órgano-mineral NPK líquido con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
-<p class="cuerpo_tabla_izq">– Turba 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub> + K<sub>2</sub>O: 8%.</p>
+<p>– N total: 2%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p>– K<sub>2</sub>O: 2%.</p>
+<p>– C orgánico:4%.</p>
+<p>– Turba 5%.</p>
 </td>
 </tr>
 </tbody>
@@ -4079,153 +3855,153 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.4 NP sólidos
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NP.</p>
+<p>Abono órgano-mineral NP.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p>– C orgánico: 8%.</p>
 </td>
 <td> </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– N total.</p>
-<p class="cuerpo_tabla_izq">– N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total (si supera el 1 %).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+<p>– N total.</p>
+<p>– N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p>– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p>– C orgánico.</p>
+<p>– K<sub>2</sub>O total (si supera el 1 %).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NP con turba.</p>
+<p>Abono órgano-mineral NP con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Turba: 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NP con lignito o leonardita.</p>
+<p>Abono órgano-mineral NP con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+<p>Producto sólido obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Lignito o leonardita 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">04</p>
+<p>04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NP (con o sin turba) con fosfato roca.</p>
+<p>Abono órgano-mineral NP (con o sin turba) con fosfato roca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales, incluyendo fosfato roca.</p>
+<p>Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales, incluyendo fosfato roca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1% (sin turba).</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua: 3%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– En los productos con turba 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub>: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1% (sin turba).</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua: 3%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– En los productos con turba 5%.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
+<p>En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N total y N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
-<p class="cuerpo_tabla_izq">-– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– Contenido de turba si está presente.</p>
+<p>– N total y N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
+<p>-– C orgánico.</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– Contenido de turba si está presente.</p>
 </td>
 </tr>
 </tbody>
@@ -4233,102 +4009,102 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.5 NP líquidos
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NP líquido.</p>
+<p>Abono órgano-mineral NP líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 6%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub>: 6%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p>– C orgánico:4%.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– pH.</p>
+<p>– pH.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– N total.</p>
-<p class="cuerpo_tabla_izq">– N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O total (si supera el 1 %).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, indicar su contenido.</p>
+<p>– N total.</p>
+<p>– N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p>– En suspensión: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p>– C orgánico.</p>
+<p>– K<sub>2</sub>O total (si supera el 1 %).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NP líquido con turba.</p>
+<p>Abono órgano-mineral NP líquido con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + P<sub>2</sub>O<sub>5</sub>: 6%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 4%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– N + P<sub>2</sub>O<sub>5</sub>: 6%.</p>
+<p>– N total: 2 %.</p>
+<p>– P<sub>2</sub>O<sub>5</sub>: 2%.</p>
+<p>– C orgánico: 4%.</p>
+<p>– Turba: 5%.</p>
 </td>
 </tr>
 </tbody>
@@ -4336,119 +4112,119 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.6 NK sólidos.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NK.</p>
+<p>Abono órgano-mineral NK.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p>– N + K<sub>2</sub>O: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
 </td>
 <td> </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– N total.</p>
-<p class="cuerpo_tabla_izq">– N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub> soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> total (si supera el 1 %).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+<p>– N total.</p>
+<p>– N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– K<sub>2</sub>O<sub> </sub> soluble en agua.</p>
+<p>– C orgánico.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> total (si supera el 1 %).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NK con turba.</p>
+<p>Abono órgano-mineral NK con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– N + K<sub>2</sub>O: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Turba: 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NK con lignito o leonardita.</p>
+<p>Abono órgano-mineral NK con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+<p>– N + K<sub>2</sub>O: 8%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Lignito o leonardita 5%.</p>
 </td>
 <td> </td>
 </tr>
@@ -4457,101 +4233,101 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.7 NK líquidos.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NK líquido.</p>
+<p>Abono órgano-mineral NK líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O<sub> </sub>: 6%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– N orgánico: 1%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+<p>– N + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p>– N total: 2 %.</p>
+<p>– N orgánico: 1%.</p>
+<p>– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p>– C orgánico:4%.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– pH.</p>
+<p>– pH.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– N total.</p>
-<p class="cuerpo_tabla_izq">– N orgánico.</p>
-<p class="cuerpo_tabla_izq">– Otras formas de N (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub> soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua (si supera el 1%).</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, indicar su contenido.</p>
+<p>– N total.</p>
+<p>– N orgánico.</p>
+<p>– Otras formas de N (si superan el 1%).</p>
+<p>– K<sub>2</sub>O<sub> </sub> soluble en agua.</p>
+<p>– C orgánico.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua (si supera el 1%).</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– En los tipos con turba, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral NK líquido con turba.</p>
+<p>Abono órgano-mineral NK líquido con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– N + K<sub>2</sub>O<sub> </sub>: 6%.</p>
-<p class="cuerpo_tabla_izq">– N total: 2 %.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 4%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– N + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p>– N total: 2 %.</p>
+<p>– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p>– C orgánico: 4%.</p>
+<p>– Turba: 5%.</p>
 </td>
 </tr>
 </tbody>
@@ -4559,145 +4335,145 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.8 PK sólidos.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral PK.</p>
+<p>Abono órgano-mineral PK.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 3 %.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>: 3 %.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
 </td>
 <td> </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– N total (si supera el 1 %).</p>
-<p class="cuerpo_tabla_izq">– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p>– K<sub>2</sub>O soluble en agua.</p>
+<p>– C orgánico.</p>
+<p>– N total (si supera el 1 %).</p>
+<p>– En los tipos con turba, lignito o leonardita, indicar su contenido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral PK con turba.</p>
+<p>Abono órgano-mineral PK con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto obtenido por mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>: 3%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Turba: 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral PK con lignito o leonardita.</p>
+<p>Abono órgano-mineral PK con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
+<p>Producto obtenido por mezcla o combinación de materias o abonos orgánicos y abonos minerales, con lignito o leonardita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 3%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– Lignito o leonardita 5%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>: 3%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– Lignito o leonardita 5%.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">04</p>
+<p>04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral PK (con o sin turba) con fosfato roca.</p>
+<p>Abono órgano-mineral PK (con o sin turba) con fosfato roca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales, incluyendo fosfato roca.</p>
+<p>Producto obtenido por mezcla o combinación de abonos orgánicos u otras materias orgánicas, con o sin turba, con abonos minerales, incluyendo fosfato roca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua: 3%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O: 3%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico: 8%.</p>
-<p class="cuerpo_tabla_izq">– En los productos con turba 5%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>+ K<sub>2</sub>O: 8%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua: 3%.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales: 2%.</p>
+<p>– K<sub>2</sub>O: 3%.</p>
+<p>– C orgánico: 8%.</p>
+<p>– En los productos con turba 5%.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
+<p>En el caso de P<sub>2</sub>O<sub>5</sub>, tanto la denominación del tipo como el nombre comercial deberán hacer mención únicamente al P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico neutro y en agua.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
-<p class="cuerpo_tabla_izq">-– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– Ácidos húmicos (si superan el 1%).</p>
-<p class="cuerpo_tabla_izq">– Contenido de turba si está presente.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble en citrato amónico y neutro y en agua.</p>
+<p>– P<sub>2</sub>O<sub>5</sub> soluble únicamente en ácidos minerales.</p>
+<p>– K<sub>2</sub>O soluble en agua.</p>
+<p>-– C orgánico.</p>
+<p>– Ácidos húmicos (si superan el 1%).</p>
+<p>– Contenido de turba si está presente.</p>
 </td>
 </tr>
 </tbody>
@@ -4705,98 +4481,98 @@ Notas: 1. En todos los abonos órgano-minerales compuestos, ya sean ternarios o 
 
 3.9 PK líquidos.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo</p>
+<p>Denominación del tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</p>
+<p>Informaciones sobre la forma de obtención y los componentes esenciales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</p>
+<p>Otras informaciones sobre la denominación del tipo o del etiquetado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 <th>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral PK líquido.</p>
+<p>Abono órgano-mineral PK líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de materias o abonos orgánicos y abonos minerales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> + K<sub>2</sub>O<sub> </sub>: 6%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 2 %.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub> + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>: 2 %.</p>
+<p>– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p>– C orgánico:4%.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– pH.</p>
+<p>– pH.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O soluble en agua.</p>
-<p class="cuerpo_tabla_izq">– C orgánico.</p>
-<p class="cuerpo_tabla_izq">– N total (si supera el 1%).</p>
-<p class="cuerpo_tabla_izq">– Contenido en turba.</p>
+<p>– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en agua.</p>
+<p>– En solución: P<sub>2</sub>O<sub>5 </sub> soluble en citrato amónico neutro y en agua.</p>
+<p>– K<sub>2</sub>O soluble en agua.</p>
+<p>– C orgánico.</p>
+<p>– N total (si supera el 1%).</p>
+<p>– Contenido en turba.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abono órgano-mineral PK líquido con turba.</p>
+<p>Abono órgano-mineral PK líquido con turba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
+<p>Producto en solución o en suspensión procedente de una mezcla o combinación de turba y abonos minerales, con o sin otras materias o abonos orgánicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub> + K<sub>2</sub>O<sub> </sub>: 6%.</p>
-<p class="cuerpo_tabla_izq">– P<sub>2</sub>O<sub>5 </sub>: 2 %.</p>
-<p class="cuerpo_tabla_izq">– K<sub>2</sub>O<sub> </sub>: 2%.</p>
-<p class="cuerpo_tabla_izq">– C orgánico:4%.</p>
-<p class="cuerpo_tabla_izq">– Turba: 5%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub> + K<sub>2</sub>O<sub> </sub>: 6%.</p>
+<p>– P<sub>2</sub>O<sub>5 </sub>: 2 %.</p>
+<p>– K<sub>2</sub>O<sub> </sub>: 2%.</p>
+<p>– C orgánico:4%.</p>
+<p>– Turba: 5%.</p>
 </td>
 </tr>
 </tbody>
@@ -4858,108 +4634,108 @@ Podrán incluirse nuevos inhibidores de la nitrificación o de la ureasa en los 
 
 A. Inhibidores de la nitrificación.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación del tipo y composición del inhibidor de la nitrificación</p>
+<p>Denominación del tipo y composición del inhibidor de la nitrificación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa referido al nitrógeno amónico, ureico y cianamídico</p>
+<p>Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa referido al nitrógeno amónico, ureico y cianamídico</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de abonos para los que no puede utilizarse el inhibidor</p>
+<p>Tipos de abonos para los que no puede utilizarse el inhibidor</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción de los inhibidores de la nitrificación con los que las mezclas están autorizadas Datos sobres los porcentajes permitidos</p>
+<p>Descripción de los inhibidores de la nitrificación con los que las mezclas están autorizadas Datos sobres los porcentajes permitidos</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 <th>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Diciandiamida (DCD).</p>
+<p>Diciandiamida (DCD).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mínimo: 3%.</p>
+<p>Mínimo: 3%.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Máximo: 10%.</p>
+<p>Máximo: 10%.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3,4-dimetilpirazolfosfato (DMPP).</p>
+<p>3,4-dimetilpirazolfosfato (DMPP).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mínimo: 0,8%.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Máximo: 2%.</p>
+<p>Mínimo: 0,8%.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Diciandiamida (DCD)-Soluble.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mínimo: 0,15 %.</p>
-<p class="cuerpo_tabla_izq">Máximo: 0,8 %.</p>
+<p>Máximo: 2%.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">04</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mezcla isomérica de ácido 2-(3,4-dimetilpirazol-1-il)-succínico y ácido 2-(4,5-dimetilpirazol-1il)-succínico (DMPSA). CE No 940-877-5</p>
+<p>Diciandiamida (DCD)-Soluble.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mínimo 0,8 %.</p>
-<p class="cuerpo_tabla_izq">Máximo 1,6 %.</p>
+<p>Mínimo: 0,15 %.</p>
+<p>Máximo: 0,8 %.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>04</p>
+</td>
+<td>
+<p>Mezcla isomérica de ácido 2-(3,4-dimetilpirazol-1-il)-succínico y ácido 2-(4,5-dimetilpirazol-1il)-succínico (DMPSA). CE No 940-877-5</p>
+</td>
+<td>
+<p>Mínimo 0,8 %.</p>
+<p>Máximo 1,6 %.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -4978,91 +4754,84 @@ A. Inhibidores de la nitrificación.
 
 B. Inhibidores de la ureasa.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="43%">
-<col width="18%">
-<col width="18%">
-<col width="18%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.<sup>o</sup></th>
-<th class="cabeza_tabla">Denominación del tipo y composición del inhibidor de la ureasa</th>
-<th class="cabeza_tabla">Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa del nitrógeno total presente como nitrógeno ureico</th>
-<th class="cabeza_tabla">Tipos de abonos para los que no puede utilizarse el inhibidor</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Descripción de los inhibidores de la ureasa con los que las mezclas están autorizadas</p>
-<p class="cabeza_tabla">Datos sobre los porcentajes permitidos</p>
+<th>N.<sup>o</sup></th>
+<th>Denominación del tipo y composición del inhibidor de la ureasa</th>
+<th>Contenido mínimo y máximo de inhibidor expresado como porcentaje en masa del nitrógeno total presente como nitrógeno ureico</th>
+<th>Tipos de abonos para los que no puede utilizarse el inhibidor</th>
+<th>
+<p>Descripción de los inhibidores de la ureasa con los que las mezclas están autorizadas</p>
+<p>Datos sobre los porcentajes permitidos</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Monocarbamidadihidrógeno sulfato (MCDHS).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Mínimo: 1%.</p>
-<p class="cuerpo_tabla_izq">Máximo: 4%.</p>
+<td>1</td>
+<td>Monocarbamidadihidrógeno sulfato (MCDHS).</td>
+<td>
+<p>Mínimo: 1%.</p>
+<p>Máximo: 4%.</p>
 </td>
-<td class="cuerpo_tabla_izq">Cualquier abono distinto de: «abonos nitrogenados simples que tengan exclusivamente N ureico»</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Cualquier abono distinto de: «abonos nitrogenados simples que tengan exclusivamente N ureico»</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Triamida N-(n-butil) tiofosfórica (NBPT)</p>
-<p class="cuerpo_tabla_izq">N<sup>o</sup> ELINCS 435-740-7</p>
+<td>2</td>
+<td>
+<p>Triamida N-(n-butil) tiofosfórica (NBPT)</p>
+<p>N<sup>o</sup> ELINCS 435-740-7</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Mínimo 0,09</p>
-<p class="cuerpo_tabla_izq">Máximo 0,20</p>
+<td>
+<p>Mínimo 0,09</p>
+<p>Máximo 0,20</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">N-(2-nitrofenil) triamida de ácido fosfórico (2-NPT) N<sup>o</sup> EC (EINECS): 477- 690-9</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Mínimo 0,04</p>
-<p class="cuerpo_tabla_izq">Máximo 0,15</p>
+<td>3</td>
+<td>N-(2-nitrofenil) triamida de ácido fosfórico (2-NPT) N<sup>o</sup> EC (EINECS): 477- 690-9</td>
+<td>
+<p>Mínimo 0,04</p>
+<p>Máximo 0,15</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Mezcla de triamida N-butil- tiofosfórica (NBPT) y triamida N-propil-tiofosfórica (NPPT) (relación 3:1) (1)</p>
-<p class="cuerpo_tabla_izq">Mezcla de reacción:</p>
-<p class="cuerpo_tabla_izq">N.<sup>o</sup> EC 700-457-2</p>
-<p class="cuerpo_tabla_izq">Mezcla de NBPT/NPPT:</p>
-<p class="cuerpo_tabla_izq">NBPT: N.<sup>o</sup> ELINCS</p>
-<p class="cuerpo_tabla_izq">435-740-7</p>
-<p class="cuerpo_tabla_izq">NPPT: N.<sup>o</sup> CAS</p>
-<p class="cuerpo_tabla_izq">916809-14-8</p>
+<td>4</td>
+<td>
+<p>Mezcla de triamida N-butil- tiofosfórica (NBPT) y triamida N-propil-tiofosfórica (NPPT) (relación 3:1) (1)</p>
+<p>Mezcla de reacción:</p>
+<p>N.<sup>o</sup> EC 700-457-2</p>
+<p>Mezcla de NBPT/NPPT:</p>
+<p>NBPT: N.<sup>o</sup> ELINCS</p>
+<p>435-740-7</p>
+<p>NPPT: N.<sup>o</sup> CAS</p>
+<p>916809-14-8</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Mínimo: 0,02</p>
-<p class="cuerpo_tabla_izq">Máximo: 0,3</p>
+<td>
+<p>Mínimo: 0,02</p>
+<p>Máximo: 0,3</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">(1) Tolerancia en la parte de NPPT: 20 %.</p>
+<p>(1) Tolerancia en la parte de NPPT: 20 %.</p>
 </td>
 </tr>
 </tfoot>
@@ -5105,283 +4874,275 @@ B. Inhibidores de la ureasa.
 
 Grupo 5. Enmiendas calizas (cálcicas o magnésicas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="19%">
-<col width="20%">
-<col width="20%">
-<col width="19%">
-<col width="19%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Denominación del tipo</th>
-<th class="cabeza_tabla">Informaciones sobre la forma de obtención y los componentes esenciales</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido mínimo en nutrientes (porcentaje en masa)</p>
-<p class="cabeza_tabla">Información sobre la evaluación de los nutrientes</p>
-<p class="cabeza_tabla">Otros requisitos</p>
+<th> </th>
+<th>Denominación del tipo</th>
+<th>Informaciones sobre la forma de obtención y los componentes esenciales</th>
+<th>
+<p>Contenido mínimo en nutrientes (porcentaje en masa)</p>
+<p>Información sobre la evaluación de los nutrientes</p>
+<p>Otros requisitos</p>
 </th>
-<th class="cabeza_tabla">Otras informaciones sobre la denominación del tipo o del etiquetado</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Contenido en nutrientes que debe declararse y garantizarse.</p>
-<p class="cabeza_tabla">Formas y solubilidad de los nutrientes.</p>
-<p class="cabeza_tabla">Otros criterios</p>
+<th>Otras informaciones sobre la denominación del tipo o del etiquetado</th>
+<th>
+<p>Contenido en nutrientes que debe declararse y garantizarse.</p>
+<p>Formas y solubilidad de los nutrientes.</p>
+<p>Otros criterios</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">01</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Carbonato cálcico</p>
+<td>01</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Carbonato cálcico</p>
 </td>
-<td class="cuerpo_tabla_izq">Producto de origen natural conteniendo como componente esencial el carbonato cálcico</td>
-<td class="cuerpo_tabla_izq">– 35% de CaO en forma de carbonato cálcico</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Carbonato de cal</p>
-<p class="cuerpo_tabla_izq">– Piedra caliza</p>
+<td>Producto de origen natural conteniendo como componente esencial el carbonato cálcico</td>
+<td>– 35% de CaO en forma de carbonato cálcico</td>
+<td>
+<p>– Carbonato de cal</p>
+<p>– Piedra caliza</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">02</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Carbonato cálcico- magnésico</p>
-</td>
-<td class="cuerpo_tabla_izq">Producto de origen natural conteniendo como componente esencial el carbonato cálcico magnésico</td>
-<td class="cuerpo_tabla_izq">29% de CaO y 13% de MgO, ambos en forma de carbonato</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Dolomita</p>
-<p class="cuerpo_tabla_izq">– Dolomía</p>
-<p class="cuerpo_tabla_izq">– Caliza dolomítica</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">CaO total</p>
-<p class="cuerpo_tabla_izq">MgO total</p>
-<p class="cuerpo_tabla_izq">Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">Valor neutralizante</p>
+<td>
+<p>– CaO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Carbonato cálcico magnésico calcinado</p>
+<td>02</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Carbonato cálcico- magnésico</p>
 </td>
-<td class="cuerpo_tabla_izq">Producto obtenido por calcinación de carbonato cálcico magnésico, conteniendo como componentes esenciales CaO y MgO</td>
-<td class="cuerpo_tabla_izq">– 45% de CaO y 25% de MgO, ambos en forma de óxido</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Dolomita calcinada</p>
-<p class="cuerpo_tabla_izq">– Dolomía calcinada</p>
-<p class="cuerpo_tabla_izq">– Caliza dolomítica calcinada</p>
+<td>Producto de origen natural conteniendo como componente esencial el carbonato cálcico magnésico</td>
+<td>29% de CaO y 13% de MgO, ambos en forma de carbonato</td>
+<td>
+<p>– Dolomita</p>
+<p>– Dolomía</p>
+<p>– Caliza dolomítica</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">CaO total</p>
-<p class="cuerpo_tabla_izq">MgO total</p>
-<p class="cuerpo_tabla_izq">Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">Valor neutralizante</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Carbonato cálcico magnesico calcinado y apagado</p>
-</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por calcinación e hidratación de carbonato cálcico magnésico.</td>
-<td class="cuerpo_tabla_izq">45% de CaO y 15% de MgO, ambos en forma de hidróxido</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Dolomita calcinada y apagada</p>
-<p class="cuerpo_tabla_izq">– Dolomía calcinada y apagada</p>
-<p class="cuerpo_tabla_izq">– Caliza dolomítica calcinada y apagada</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">CaO total</p>
-<p class="cuerpo_tabla_izq">MgO total</p>
-<p class="cuerpo_tabla_izq">Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">Valor neutralizante</p>
+<td>
+<p>CaO total</p>
+<p>MgO total</p>
+<p>Clase granulométrica</p>
+<p>Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">05</td>
-<td class="cuerpo_tabla_izq">Enmienda caliza Cal viva</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por calcinación de roca caliza, conteniendo como componente esencial CaO</td>
-<td class="cuerpo_tabla_izq">– 77% de CaO en forma de óxido de calcio</td>
-<td class="cuerpo_tabla_izq">Podrán añadirse las denominaciones usuales en el comercio</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>03</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Carbonato cálcico magnésico calcinado</p>
+</td>
+<td>Producto obtenido por calcinación de carbonato cálcico magnésico, conteniendo como componentes esenciales CaO y MgO</td>
+<td>– 45% de CaO y 25% de MgO, ambos en forma de óxido</td>
+<td>
+<p>– Dolomita calcinada</p>
+<p>– Dolomía calcinada</p>
+<p>– Caliza dolomítica calcinada</p>
+</td>
+<td>
+<p>CaO total</p>
+<p>MgO total</p>
+<p>Clase granulométrica</p>
+<p>Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_izq">Enmienda caliza Cal apagada</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por hidratación de la cal viva</td>
-<td class="cuerpo_tabla_izq">– 56% de CaO en forma de hidróxido</td>
-<td class="cuerpo_tabla_izq">Hidróxido de calcio</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>04</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Carbonato cálcico magnesico calcinado y apagado</p>
+</td>
+<td>Producto obtenido por calcinación e hidratación de carbonato cálcico magnésico.</td>
+<td>45% de CaO y 15% de MgO, ambos en forma de hidróxido</td>
+<td>
+<p>– Dolomita calcinada y apagada</p>
+<p>– Dolomía calcinada y apagada</p>
+<p>– Caliza dolomítica calcinada y apagada</p>
+</td>
+<td>
+<p>CaO total</p>
+<p>MgO total</p>
+<p>Clase granulométrica</p>
+<p>Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">07</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Suspensión de cal</p>
-</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por suspensión acuosa de alguno de los tipos 05 y/o 06</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– 25% de CaO en forma de hidróxido</p>
-<p class="cuerpo_tabla_izq">– Contenido en cloruro menor del 2%</p>
-<p class="cuerpo_tabla_izq">– Contenido en óxido de sodio menor del 2%</p>
-</td>
-<td class="cuerpo_tabla_izq">Lechada de cal</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>05</td>
+<td>Enmienda caliza Cal viva</td>
+<td>Producto obtenido por calcinación de roca caliza, conteniendo como componente esencial CaO</td>
+<td>– 77% de CaO en forma de óxido de calcio</td>
+<td>Podrán añadirse las denominaciones usuales en el comercio</td>
+<td>
+<p>– CaO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">08</td>
-<td class="cuerpo_tabla_izq">Enmienda caliza Suspensión de cal y magnesio</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por suspensión acuosa de hidróxidos u óxidos de calcio (tipos 04 y/o 05) y de hidróxido de magnesio (tipo abono CE )</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– 25% de (MgO + CaO), con un mínimo del 5% para cada uno de ellos</p>
-<p class="cuerpo_tabla_izq">– Contenido en cloruro menor del 2%</p>
-<p class="cuerpo_tabla_izq">– Contenido en óxido de sodio menor del 2%</p>
-</td>
-<td class="cuerpo_tabla_izq">Lechada de cal y magnesio, lechada de dolomía calcinada o suspensión de dolomía</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– MgO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>06</td>
+<td>Enmienda caliza Cal apagada</td>
+<td>Producto obtenido por hidratación de la cal viva</td>
+<td>– 56% de CaO en forma de hidróxido</td>
+<td>Hidróxido de calcio</td>
+<td>
+<p>– CaO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">09</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Espuma de azucarería</p>
+<td>07</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Suspensión de cal</p>
 </td>
-<td class="cuerpo_tabla_izq">Producto obtenido en el proceso de fabricación de azúcar a partir de remolacha</td>
-<td class="cuerpo_tabla_izq">– 20% de (CaO + MgO)</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Humedad</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>Producto obtenido por suspensión acuosa de alguno de los tipos 05 y/o 06</td>
+<td>
+<p>– 25% de CaO en forma de hidróxido</p>
+<p>– Contenido en cloruro menor del 2%</p>
+<p>– Contenido en óxido de sodio menor del 2%</p>
 </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Enmienda caliza Margas</td>
-<td class="cuerpo_tabla_izq">Roca sedimentaria constituida esencialmente por mezcla de materiales calcáreos y arcillosos</td>
-<td class="cuerpo_tabla_izq">– 25% de CaO en forma de carbonato</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>Lechada de cal</td>
+<td>
+<p>– CaO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Enmienda caliza Carbonato magnésico</td>
-<td class="cuerpo_tabla_izq">Producto que contiene como componente esencial el carbonato magnésico</td>
-<td class="cuerpo_tabla_izq">– 40% de MgO en forma de carbonato</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– MgO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>08</td>
+<td>Enmienda caliza Suspensión de cal y magnesio</td>
+<td>Producto obtenido por suspensión acuosa de hidróxidos u óxidos de calcio (tipos 04 y/o 05) y de hidróxido de magnesio (tipo abono CE )</td>
+<td>
+<p>– 25% de (MgO + CaO), con un mínimo del 5% para cada uno de ellos</p>
+<p>– Contenido en cloruro menor del 2%</p>
+<p>– Contenido en óxido de sodio menor del 2%</p>
+</td>
+<td>Lechada de cal y magnesio, lechada de dolomía calcinada o suspensión de dolomía</td>
+<td>
+<p>– CaO total</p>
+<p>– MgO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Oxido de magnesio (magnesita)</p>
+<td>09</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Espuma de azucarería</p>
 </td>
-<td class="cuerpo_tabla_izq">Producto que contiene como componente esencial el óxido de magnesio</td>
-<td class="cuerpo_tabla_izq">– 20% de MgO en forma de óxido</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– MgO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Enmienda caliza Merl</td>
-<td class="cuerpo_tabla_izq">Producto que contiene como componente esencial algas marinas calcificadas</td>
-<td class="cuerpo_tabla_izq">– 42% de CaO y 2,5% de MgO, ambos en forma de carbonato</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– MgO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>Producto obtenido en el proceso de fabricación de azúcar a partir de remolacha</td>
+<td>– 20% de (CaO + MgO)</td>
+<td> </td>
+<td>
+<p>– CaO total</p>
+<p>– Humedad</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Enmienda caliza</p>
-<p class="cuerpo_tabla_izq">Enmienda cálcica mixta</p>
-</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por mezcla de enmiendas calizas contempladas en los tipos anteriores.</td>
-<td class="cuerpo_tabla_izq">– 25% de CaO</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>10</td>
+<td>Enmienda caliza Margas</td>
+<td>Roca sedimentaria constituida esencialmente por mezcla de materiales calcáreos y arcillosos</td>
+<td>– 25% de CaO en forma de carbonato</td>
+<td> </td>
+<td>
+<p>– CaO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Enmienda cálcico- magnésica mixta</td>
-<td class="cuerpo_tabla_izq">Producto obtenido por mezcla de enmiendas cálcicas y magnésicas contempladas en los tipos anteriores.</td>
-<td class="cuerpo_tabla_izq">– 25% de (CaO + MgO), con un mínimo del 5% para cada uno de ellos</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– CaO total</p>
-<p class="cuerpo_tabla_izq">– MgO total</p>
-<p class="cuerpo_tabla_izq">– Clase granulométrica</p>
-<p class="cuerpo_tabla_izq">– Valor neutralizante</p>
+<td>11</td>
+<td>Enmienda caliza Carbonato magnésico</td>
+<td>Producto que contiene como componente esencial el carbonato magnésico</td>
+<td>– 40% de MgO en forma de carbonato</td>
+<td> </td>
+<td>
+<p>– MgO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td>12</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Oxido de magnesio (magnesita)</p>
+</td>
+<td>Producto que contiene como componente esencial el óxido de magnesio</td>
+<td>– 20% de MgO en forma de óxido</td>
+<td> </td>
+<td>
+<p>– MgO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Enmienda caliza Merl</td>
+<td>Producto que contiene como componente esencial algas marinas calcificadas</td>
+<td>– 42% de CaO y 2,5% de MgO, ambos en forma de carbonato</td>
+<td> </td>
+<td>
+<p>– CaO total</p>
+<p>– MgO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td>14</td>
+<td>
+<p>Enmienda caliza</p>
+<p>Enmienda cálcica mixta</p>
+</td>
+<td>Producto obtenido por mezcla de enmiendas calizas contempladas en los tipos anteriores.</td>
+<td>– 25% de CaO</td>
+<td> </td>
+<td>
+<p>– CaO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Enmienda cálcico- magnésica mixta</td>
+<td>Producto obtenido por mezcla de enmiendas cálcicas y magnésicas contempladas en los tipos anteriores.</td>
+<td>– 25% de (CaO + MgO), con un mínimo del 5% para cada uno de ellos</td>
+<td> </td>
+<td>
+<p>– CaO total</p>
+<p>– MgO total</p>
+<p>– Clase granulométrica</p>
+<p>– Valor neutralizante</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">NOTA: Clasificación granulométrica.</p>
-<p class="cita">Polvo: al menos el 98% ha de pasar por el tamiz de 1 mm, y el 80% por el de 0,25 mm</p>
-<p class="cita">Molido: al menos el 80% ha de pasar por el tamiz de 5 mm</p>
-<p class="cita">Granulado: producto en polvo, granulado artificialmente. La granulometria específica del producto deberá ser dada por el fabricante, y, al menos el 98% deberá pasar por el tamiz de 5 mm, salvo en los productos 04, 06, 14 y 15 de este grupo, que podrá llegar hasta 7mm.</p>
+<p>NOTA: Clasificación granulométrica.</p>
+<p>Polvo: al menos el 98% ha de pasar por el tamiz de 1 mm, y el 80% por el de 0,25 mm</p>
+<p>Molido: al menos el 80% ha de pasar por el tamiz de 5 mm</p>
+<p>Granulado: producto en polvo, granulado artificialmente. La granulometria específica del producto deberá ser dada por el fabricante, y, al menos el 98% deberá pasar por el tamiz de 5 mm, salvo en los productos 04, 06, 14 y 15 de este grupo, que podrá llegar hasta 7mm.</p>
 </td>
 </tr>
 </tfoot>
@@ -6212,142 +5973,142 @@ Con carácter general, en los abonos orgánicos y las enmiendas orgánicas, el 9
 
 Los productos fertilizantes elaborados con materias primas de origen animal o vegetal no podrán superar el contenido de metales pesados indicado en el Cuadro siguiente, según sea su clase A, B o C:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">Metal pesado</p>
+<p>Metal pesado</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Límites de concentración</p>
-<p class="cabeza_tabla">Sólidos: mg/kg de materia seca</p>
+<p>Límites de concentración</p>
+<p>Sólidos: mg/kg de materia seca</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Líquidos: mg/kg</p>
+<p>Líquidos: mg/kg</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Clase A</p>
+<p>Clase A</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase B</p>
+<p>Clase B</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase C</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cadmio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
+<p>Clase C</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cobre</p>
+<p>Cadmio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70</p>
+<p>0,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">400</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Níquel</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100</p>
+<p>3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Plomo</p>
+<p>Cobre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Zinc</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>400</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mercurio</p>
+<p>Níquel</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,4</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,5</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cromo (total)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">300</p>
+<p>100</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cromo (VI) *</p>
+<p>Plomo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">No detectable según método oficial</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">No detectable según método oficial</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">No detectable según método oficial</p>
+<p>200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zinc</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mercurio</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cromo (total)</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cromo (VI) *</p>
+</td>
+<td>
+<p>No detectable según método oficial</p>
+</td>
+<td>
+<p>No detectable según método oficial</p>
+</td>
+<td>
+<p>No detectable según método oficial</p>
 </td>
 </tr>
 </table>
@@ -6435,333 +6196,327 @@ En los productos que contengan como materia prima subproductos o residuos proced
 | Determinación del impacto del producto mediante incubación del suelo | Enmiendas calizas. | UNE-EN 14984 |
 | Determinación del dióxido de carbono | Abonos sólidos y enmiendas calizas | UNE-EN 14397-1 |
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">2. Métodos de análisis de los productos fertilizantes orgánicos y órgano-minerales</p>
+> <p>2. Métodos de análisis de los productos fertilizantes orgánicos y órgano-minerales</p>
 > </caption>
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Tipo de determinación</th>
-> <th class="cabeza_tabla">Ámbito de aplicación/Producto fertilizante concernido</th>
-> <th class="cabeza_tabla">Normativa oficial española</th>
-> <th class="cabeza_tabla">Métodos o técnicas recomendados</th>
+> <th>Tipo de determinación</th>
+> <th>Ámbito de aplicación/Producto fertilizante concernido</th>
+> <th>Normativa oficial española</th>
+> <th>Métodos o técnicas recomendados</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Método de toma de muestras de fertilizantes sólidos orgánicos y afines.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Anexo III</p>
-> <p class="cuerpo_tabla_izq">Orden de 13 de mayo de 1982.</p>
+> <td>Método de toma de muestras de fertilizantes sólidos orgánicos y afines.</td>
+> <td> </td>
+> <td>
+> <p>Anexo III</p>
+> <p>Orden de 13 de mayo de 1982.</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Preparación de la muestra.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 2</p>
-> <p class="cuerpo_tabla_izq">Orden de 18 de julio de 1989 por la que se aprueban los métodos oficiales de análisis de fertilizantes</p>
-> <p class="cuerpo_tabla_izq">(BOE de 25 de julio de 1989).</p>
+> <td>Preparación de la muestra.</td>
+> <td> </td>
+> <td>
+> <p>Método 2</p>
+> <p>Orden de 18 de julio de 1989 por la que se aprueban los métodos oficiales de análisis de fertilizantes</p>
+> <p>(BOE de 25 de julio de 1989).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Humedad.</td>
-> <td class="cuerpo_tabla_izq">Fertilizantes sólidos y enmiendas calizas.</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Anexo VIII. Método 2</p>
-> <p class="cuerpo_tabla_izq">Orden 17 de septiembre de 1981</p>
-> <p class="cuerpo_tabla_izq">(BOE de 14 de octubre de 1981).</p>
+> <td>Humedad.</td>
+> <td>Fertilizantes sólidos y enmiendas calizas.</td>
+> <td>
+> <p>Anexo VIII. Método 2</p>
+> <p>Orden 17 de septiembre de 1981</p>
+> <p>(BOE de 14 de octubre de 1981).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Materia orgánica total por calcinación</p>
-> <p class="cuerpo_tabla_izq">Sobre muestra natural*.</p>
+> <td>
+> <p>Materia orgánica total por calcinación</p>
+> <p>Sobre muestra natural*.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Aplicable a abonos organominerales con el lavado previo con ácido clorhídrico. Abonos orgánicos y enmiendas orgánicas sin el lavado previo con ácido clorhídrico.</p>
-> <p class="cuerpo_tabla_izq">Los productos líquidos no se lavan.</p>
+> <td>
+> <p>Aplicable a abonos organominerales con el lavado previo con ácido clorhídrico. Abonos orgánicos y enmiendas orgánicas sin el lavado previo con ácido clorhídrico.</p>
+> <p>Los productos líquidos no se lavan.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 3(a)</p>
-> <p class="cuerpo_tabla_izq">Orden 1 de diciembre de 1981</p>
-> <p class="cuerpo_tabla_izq">(BOE de 20 de enero de 1982</p>
-> <p class="cuerpo_tabla_izq">Referencia: Norma U44-160)</p>
-> <p class="cuerpo_tabla_izq">AFNOR 1976.</p>
+> <td>
+> <p>Método 3(a)</p>
+> <p>Orden 1 de diciembre de 1981</p>
+> <p>(BOE de 20 de enero de 1982</p>
+> <p>Referencia: Norma U44-160)</p>
+> <p>AFNOR 1976.</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Extracto húmico total y ácidos húmicos.</p>
-> <p class="cuerpo_tabla_izq">Sobre muestra natural*.</p>
+> <td>
+> <p>Extracto húmico total y ácidos húmicos.</p>
+> <p>Sobre muestra natural*.</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 4</p>
-> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
-> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).*<sup>2</sup></p>
+> <td> </td>
+> <td>
+> <p>Método 4</p>
+> <p>R.D. 1110/1991</p>
+> <p>(BOE n.º 170 de 17 de julio de 1991).*<sup>2</sup></p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cenizas.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 5</p>
-> <p class="cuerpo_tabla_izq">Orden 17 de septiembre de 1981</p>
-> <p class="cuerpo_tabla_izq">(BOE de 14 de octubre de 1981).</p>
+> <td>Cenizas.</td>
+> <td> </td>
+> <td>
+> <p>Método 5</p>
+> <p>Orden 17 de septiembre de 1981</p>
+> <p>(BOE de 14 de octubre de 1981).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Carbono orgánico.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">Método materia orgánica total por calcinación/1,724.</td>
+> <td>Carbono orgánico.</td>
+> <td> </td>
+> <td> </td>
+> <td>Método materia orgánica total por calcinación/1,724.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">pH.</td>
-> <td class="cuerpo_tabla_izq">En los productos líquidos se aplicará el método oficial con la siguiente modificación: La medida del pH será directa, sin efectuar una dilución previa de la muestra.</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 6</p>
-> <p class="cuerpo_tabla_izq">Orden 1 de diciembre de 1981</p>
-> <p class="cuerpo_tabla_izq">(BOE de 20 de enero de 1982).</p>
+> <td>pH.</td>
+> <td>En los productos líquidos se aplicará el método oficial con la siguiente modificación: La medida del pH será directa, sin efectuar una dilución previa de la muestra.</td>
+> <td>
+> <p>Método 6</p>
+> <p>Orden 1 de diciembre de 1981</p>
+> <p>(BOE de 20 de enero de 1982).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Grado de finura.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 7</p>
-> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
-> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).</p>
+> <td>Grado de finura.</td>
+> <td> </td>
+> <td>
+> <p>Método 7</p>
+> <p>R.D. 1110/1991</p>
+> <p>(BOE n.º 170 de 17 de julio de 1991).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Nitrógeno total en abonos que contengan nitrógeno solamente en forma nítrica, amoniacal y ureica mediante dos métodos diferentes</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15750</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Nitrógeno total en abonos que contengan nitrógeno solamente en forma nítrica, amoniacal y ureica mediante dos métodos diferentes</td>
+> <td> </td>
+> <td>UNE-EN 15750</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Diferentes formas de nitrógeno presentes simultáneamente en los abonos que lo contienen en forma nítrica, amoniacal, ureica y cianamídica.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Diferentes formas de nitrógeno presentes simultáneamente en los abonos que lo contienen en forma nítrica, amoniacal, ureica y cianamídica.</td>
+> <td> </td>
+> <td>UNE-EN 15604.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Nitrógeno ureico (amídico).</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Nitrógeno ureico (amídico).</td>
+> <td> </td>
+> <td>UNE-EN 15604.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Nitrógeno nítrico.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Nitrógeno nítrico.</td>
+> <td> </td>
+> <td>UNE-EN 15604.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Nitrógeno amoniacal.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15604.</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Nitrógeno amoniacal.</td>
+> <td> </td>
+> <td>UNE-EN 15604.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Nitrógeno orgánico.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 12</p>
-> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
-> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991)</p>
-> <p class="cuerpo_tabla_izq">Referencia: AOAC.</p>
+> <td>Nitrógeno orgánico.</td>
+> <td> </td>
+> <td>
+> <p>Método 12</p>
+> <p>R.D. 1110/1991</p>
+> <p>(BOE n.º 170 de 17 de julio de 1991)</p>
+> <p>Referencia: AOAC.</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Extracción del fósforo total (soluble en ácidos minerales)</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15956</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Extracción del fósforo total (soluble en ácidos minerales)</td>
+> <td> </td>
+> <td>UNE-EN 15956</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Extracción del fósforo soluble en agua y en citrato amónico.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15957</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Extracción del fósforo soluble en agua y en citrato amónico.</td>
+> <td> </td>
+> <td>UNE-EN 15957</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Extracción del fósforo soluble en agua.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15958</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Extracción del fósforo soluble en agua.</td>
+> <td> </td>
+> <td>UNE-EN 15958</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Determinación del fósforo extraído</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15959</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Determinación del fósforo extraído</td>
+> <td> </td>
+> <td>UNE-EN 15959</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Potasio soluble en agua.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15477.</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Potasio soluble en agua.</td>
+> <td> </td>
+> <td>UNE-EN 15477.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Potasio total.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 17</p>
-> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
-> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).</p>
+> <td>Potasio total.</td>
+> <td> </td>
+> <td>
+> <p>Método 17</p>
+> <p>R.D. 1110/1991</p>
+> <p>(BOE n.º 170 de 17 de julio de 1991).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Extracción del calcio total, del magnesio total, del sodio total y del azufre total en forma de sulfato.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">.</td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15960.</td>
+> <td>Extracción del calcio total, del magnesio total, del sodio total y del azufre total en forma de sulfato.</td>
+> <td> </td>
+> <td>.</td>
+> <td>UNE-EN 15960.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Extracción del azufre total presente en diversas formas.</td>
-> <td class="cuerpo_tabla_izq">Abonos que contienen azufre en forma de elemental, tiosulfato, sulfito y sulfatos.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15925.</td>
+> <td>Extracción del azufre total presente en diversas formas.</td>
+> <td>Abonos que contienen azufre en forma de elemental, tiosulfato, sulfito y sulfatos.</td>
+> <td> </td>
+> <td>UNE-EN 15925.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Aminoácidos libres.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Método 18</p>
-> <p class="cuerpo_tabla_izq">R.D. 1110/1991</p>
-> <p class="cuerpo_tabla_izq">(BOE n.º 170 de 17 de julio de 1991).</p>
+> <td>Aminoácidos libres.</td>
+> <td> </td>
+> <td>
+> <p>Método 18</p>
+> <p>R.D. 1110/1991</p>
+> <p>(BOE n.º 170 de 17 de julio de 1991).</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Extracción de las formas solubles en agua del calcio, del magnesio, del sodio y del azufre presente en forma de sulfato.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 15961.</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Extracción de las formas solubles en agua del calcio, del magnesio, del sodio y del azufre presente en forma de sulfato.</td>
+> <td> </td>
+> <td>UNE-EN 15961.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Conductividad eléctrica.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13038.</td>
+> <td>Conductividad eléctrica.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13038.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Boro, Cobre, Hierro, Manganeso, Molibdeno y Zinc solubles en agua</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">UNE-EN 16962 (extracción)</p>
-> <p class="cuerpo_tabla_izq">UNE-EN 13650 ó ISO11885, (cuantificación)</p>
+> <td>Boro, Cobre, Hierro, Manganeso, Molibdeno y Zinc solubles en agua</td>
+> <td> </td>
+> <td> </td>
+> <td>
+> <p>UNE-EN 16962 (extracción)</p>
+> <p>UNE-EN 13650 ó ISO11885, (cuantificación)</p>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Boro, Cobre, Hierro, Manganeso, Molibdeno y Zinc totales.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13650, ó UNE-EN16964 (extracción) y UNE-EN 16965 y UNE-EN 19963 (cuantificación)</td>
+> <td>Boro, Cobre, Hierro, Manganeso, Molibdeno y Zinc totales.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13650, ó UNE-EN16964 (extracción) y UNE-EN 16965 y UNE-EN 19963 (cuantificación)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Calcio.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13650.</td>
+> <td>Calcio.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13650.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magnesio.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN-13650.</td>
+> <td>Magnesio.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN-13650.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Arsénico</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 16317</td>
+> <td>Arsénico</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 16317</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cadmio</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN-13650 ó UNE-EN16319</td>
+> <td>Cadmio</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN-13650 ó UNE-EN16319</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cromo.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13650 ó UNE-EN16319</td>
+> <td>Cromo.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13650 ó UNE-EN16319</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cromo hexavalente.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">ISO 17075/2.</td>
+> <td>Cromo hexavalente.</td>
+> <td> </td>
+> <td> </td>
+> <td>ISO 17075/2.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Mercurio.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13806 ó UNE-EN 16320</td>
+> <td>Mercurio.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13806 ó UNE-EN 16320</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Níquel.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13650 ó UNE-EN16319</td>
+> <td>Níquel.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13650 ó UNE-EN16319</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Plomo.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN 13650 ó UNE-EN16319</td>
+> <td>Plomo.</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN 13650 ó UNE-EN16319</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
+> <td>
 > <em>Escherichia coli.</em>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">ISO-7251.</td>
+> <td> </td>
+> <td> </td>
+> <td>ISO-7251.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
+> <td>
 > <em>Salmonella.</em>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">UNE-EN-ISO 6579</td>
+> <td> </td>
+> <td> </td>
+> <td>UNE-EN-ISO 6579</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenido en polifenoles expresados en Ac. cumárico.</td>
-> <td class="cuerpo_tabla_izq">Enmiendas orgánicas a base de alperujos.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">Kuwatsuka y Shindo.</td>
+> <td>Contenido en polifenoles expresados en Ac. cumárico.</td>
+> <td>Enmiendas orgánicas a base de alperujos.</td>
+> <td> </td>
+> <td>Kuwatsuka y Shindo.</td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="4">
-> <p class="cita">* Las determinaciones de Materia orgánica por calcinación (3a) y Extracto húmico total y Ácidos húmicos (4) se expresan sobre muestra natural, hay que modificar el método analítico no se desecando la muestra previamente.</p>
-> <p class="cita">*<sup>2</sup> En las determinaciones del extracto húmico y los ácidos húmicos se podrá aplicar una modificación del método indicado, realizando una cuantificación de la materia orgánica mediante espectrofotometría.</p>
+> <p>* Las determinaciones de Materia orgánica por calcinación (3a) y Extracto húmico total y Ácidos húmicos (4) se expresan sobre muestra natural, hay que modificar el método analítico no se desecando la muestra previamente.</p>
+> <p>*<sup>2</sup> En las determinaciones del extracto húmico y los ácidos húmicos se podrá aplicar una modificación del método indicado, realizando una cuantificación de la materia orgánica mediante espectrofotometría.</p>
 > </td>
 > </tr>
 > </tfoot>

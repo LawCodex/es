@@ -1,0 +1,3525 @@
+---
+title: "Decreto de 8 de febrero de 1946 por el que se aprueba la nueva redacción oficial de la Ley Hipotecaria"
+identifier: "BOE-A-1946-2453"
+eli: "https://www.boe.es/eli/es/d/1946/02/08/(1)"
+type: decree
+rank: "Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1946-02-08
+published: 1946-02-27
+in_force_from: 1946-03-20
+last_amended: 2025-01-03
+consolidated: 2026-01-07
+gazette: "Boletín Oficial del Estado núm. 58"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1946-2453"
+retrieved: 2026-10-11
+---
+
+# Decreto de 8 de febrero de 1946 por el que se aprueba la nueva redacción oficial de la Ley Hipotecaria
+
+Incluye la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+EXPOSICIÓN
+
+La Ley de treinta de diciembre de mil novecientos cuarenta y cuatro, que introduce considerables reformas en el derecho hipotecario, autoriza al Gobierno en su Disposición adicional segunda para publicar, en el plazo máximo de un año, una nueva redacción de la Ley Hipotecaria, cuya finalidad debe consistir en armonizar debidamente los textos legales vigentes, en abreviar el contenido de los asientos del Registro, sin mengua de los principios fundamentales del sistema, y en dar a los preceptos legales una más que adecuada ordenación sistemática y la necesaria unidad de estilo, sirviendo de base para todo ello, además de las disposiciones de la Ley Hipotecaria y la de su Reforma, las del Reglamento, la jurisprudencia del Tribunal Supremo y la doctrina de la Dirección General de los Registros y del Notariado.
+
+Tan difícil y delicada tarea ha sido acometida por el Ministro que suscribe desde el momento mismo en que se posesionó de su cargo, cuando iban ya transcurridos casi ocho de los doce meses del plazo concedido por las Cortes para la publicación de la nueva Ley.
+
+La Comisión designada al efecto en el Centro directivo correspondiente ha consagrado actividad sin tasa, en una labor constante, a dar cima, dentro del término legal, al arduo trabajo que le fue encomendado; y fruto de su celo es el texto refundido que por este Decreto se sanciona.
+
+Ateniéndose con fidelidad a las directrices señaladas por la Ley de mil novecientos cuarenta y cuatro, el nuevo texto se limita a dar cumplimiento a lo que ésta determina como normas inexcusables de su redacción.
+
+Se ha introducido, a tal fin, una nueva ordenación de los títulos de la Ley para darles más sistemática distribución, colocando en primer término todos los relativos a las materias sustantivas y dejando para el final los atinentes a la parte adjetiva y orgánica, reguladora de la Dirección General y del Cuerpo de Registradores. Y aunque el nuevo texto comprende menor número de artículos que el anterior, se ha procurado conservar la misma numeración a los más importantes y más frecuentemente citados en sentencias y resoluciones, no sólo por respeto, que podría pecar de excesivo, a una tradición, sino también por facilitar en lo futuro el conocimiento y aplicación de la doctrina jurisprudencial relativa a las materias reguladas por aquellos artículos.
+
+Han sido trasladados al nuevo texto algunos preceptos reglamentarios, de indudable jerarquía legislativa, tales como los referentes a la competencia por razón de circunscripción territorial de los Registros y a la salvaguardia judicial de sus asientos; y del mismo modo, numerosos artículos de la Ley, de simple contenido ordenancista o de detalle, han sido suprimidos para su incorporación al Reglamento, por considerarse que, si era lógica su inclusión en la Ley primitiva, cuando por vez primera se implantaba en España la institución del Registro, resultaba inconveniente mantenerlos ahora, dado su evidente carácter reglamentario.
+
+Asimismo, se ha procurado, en lo posible, unificar el estilo de las dos Leyes refundidas, mediante leves correcciones gramaticales y sustituciones de locuciones y vocablos arcaicos o en desuso en la actual nomenclatura jurídica; si bien para una labor minuciosa y acertada en tal sentido habría sido necesario contar con el tiempo suficiente para nuevas revisiones de la redacción del texto.
+
+En cuanto a la mayor brevedad de los asientos del Registro, aspiración expresada por el legislador en armonía con las exigencias modernas, que requieren la máxima sencillez y claridad en las fórmulas de inscripción, el nuevo texto simplifica no sólo la redacción de los asientos principales, en los que se refleja el historial del dominio y de los derechos reales sobre inmuebles, sino también la del asiento de presentación, cuya importancia es tan capital en nuestro sistema inmobiliario. La reducción al mínimo de los requisitos formales de todos los asientos, sin menoscabo de los principios esenciales del sistema, unida a la supresión de las menciones de derechos que pueden y deben ser objeto de inscripción especial, así como la eliminación de los derechos de naturaleza netamente personal u obligacional del ámbito inmunizante del Registro, han de contribuir poderosamente a la claridad de éste y a facilitar su publicidad, haciéndolo más asequible al directo conocimiento de los interesados.
+
+Se han incorporado a la nueva Ley en su integridad los preceptos de la de reforma de mil novecientos cuarenta y cuatro, casi literalmente o con pequeñas correcciones de estilo, y alguno de ellos con nueva ordenación sistemática. Ocioso sería tratar de explicar la profundidad y sustancia de las modificaciones e innovaciones que estos nuevos artículos introducen en el conjunto de la legislación hipotecaria, pues fueron explicadas y puestas de relieve en la magistral exposición de motivos de la referida Ley de mil novecientos cuarenta y cuatro.
+
+Haciendo uso de las facultades concedidas por el legislador al Ministerio de Justicia en orden a la organización territorial de los Registros y a la regulación del Estatuto Orgánico de los Registradores, se han incluido en el nuevo texto los preceptos indispensables para armonizarlos con las disposiciones vigentes y especialmente para llevar a la práctica el expreso mandato legislativo referente a la sustitución de las clases de los Registros por las categorías personales de los Registradores. Con el nuevo texto, que regula de modo definitivo estas materias, se agota y consume la autorización concedida por el legislador; y de este modo las nuevas normas que establecen el régimen orgánico de los funcionarios que sirven los Registros adquieren su tradicional rango legislativo.
+
+Cumpliendo, pues, dentro de los estrictos límites y plazo predeterminados el mandato de las Cortes, el Ministro que suscribe tiene el honor de someter a la aprobación del Jefe del Estado y de su Consejo de Ministros el adjunto proyecto de
+
+DECRETO
+
+A propuesta del Ministro de Justicia, de conformidad con el Consejo de Estado y previa deliberación del Consejo de Ministros
+
+DISPONGO:
+
+###### Artículo único.
+
+Se aprueba la nueva redacción oficial de la Ley Hipotecaria y se autoriza al Ministro de Justicia para que, en cumplimiento de lo ordenado por la segunda disposición adicional de la Ley de treinta de diciembre de mil novecientos cuarenta y cuatro, y en el artículo único de la Ley de treinta y uno de diciembre de mil novecientos cuarenta y cinco, publique el texto adjunto en el Boletin Oficial del Estado.
+
+Así lo dispongo por el presente Decreto, dado en Madrid a ocho de febrero de mil novecientos cuarenta y seis.
+
+FRANCISCO FRANCO
+
+El Ministro de Justicia,
+
+RAIMUNDO FERNÁNDEZ-CUESTA Y MERELO
+
+## LEY HIPOTECARIA
+
+### TÍTULO I — Del Registro de la Propiedad y de los títulos sujetos a inscripción
+
+###### Artículo 1.
+
+El Registro de la Propiedad tiene por objeto la inscripción o anotación de los actos y contratos relativos al dominio y demás derechos reales sobre bienes inmuebles.
+
+Las expresadas inscripciones o anotaciones se harán en el Registro en cuya circunscripción territorial radiquen los inmuebles.
+
+Los asientos del Registro practicados en los libros que se determinan en los artículos doscientos treinta y ocho y siguientes, en cuanto se refieran a los derechos inscribibles, están bajo la salvaguardia de los Tribunales y producen todos sus efectos mientras no se declare su inexactitud en los términos establecidos en esta Ley.
+
+> Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 2.
+
+En los Registros expresados en el artículo anterior se inscribirán:
+
+Primero. Los títulos traslativos o declarativos del dominio de los inmuebles o de los derechos reales impuestos sobre los mismos.
+
+Segundo. Los títulos en que se constituyan, reconozcan, transmitan, modifiquen o extingan derechos de usufructo, uso, habitación, enfiteusis, hipoteca, censos, servidumbres y otros cualesquiera reales.
+
+Tercero. Los actos y contratos en cuya virtud se adjudiquen a alguno bienes inmuebles o derechos reales, aunque sea con la obligación de transmitirlos a otro o de invertir su importe en objeto determinado.
+
+Cuarto. Las resoluciones judiciales en que se declaren la ausencia o el fallecimiento o afecten a la libre disposición de bienes de una persona, y las resoluciones a las que se refiere el párrafo segundo del artículo 755 de la Ley de Enjuiciamiento Civil. Las inscripciones de resoluciones judiciales sobre medidas de apoyo realizadas en virtud de este apartado se practicarán exclusivamente en el Libro sobre administración y disposición de bienes inmuebles.
+
+Quinto. Los contratos de arrendamiento de bienes inmuebles, y los subarriendos, cesiones y subrogaciones de los mismos.
+
+Sexto. Los títulos de adquisición de los bienes inmuebles y derechos reales que pertenezcan al Estado, o a las corporaciones civiles o eclesiásticas, con sujeción a lo establecido en las leyes o reglamentos.
+
+> Se modifica el apartado 4, con efectos desde el 3 de septiembre de 2021, por el art. 3.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+> Se modifica el apartado 5 por la disposición adicional 2.1 de la Ley 29/1994, de 24 de noviembre. [Ref. BOE-A-1994-26003](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-26003).
+
+> Se modifica el apartado 4 por el art. 5 de la Ley 6/1984, de 31 de marzo. [Ref. BOE-A-1984-7960](https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7960).
+
+###### Artículo 3.
+
+Para que puedan ser inscritos los títulos expresados en el artículo anterior, deberán estar consignados en escritura pública, ejecutoria, o documento auténtico expedido por autoridad judicial o por el Gobierno o sus agentes, en la forma que prescriban los reglamentos. También podrán ser inscritos los títulos expresados en el artículo anterior en virtud de testimonio del auto de homologación de un plan de reestructuración, del que resulte la inscripción a favor del deudor, de los acreedores o de las partes afectadas que lo hayan suscrito o a los que se les hayan extendido sus efectos.
+
+> Se modifica por la disposición final 2.1 de la Ley 16/2022, de 5 de septiembre. [Ref. BOE-A-2022-14580](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14580)
+
+###### Artículo 4.
+
+También se inscribirán en el Registro los títulos expresados en el artículo segundo, otorgados en país extranjero, que tengan fuerza en España con arreglo a las leyes, y las ejecutorias pronunciadas por Tribunales extranjeros a que deba darse cumplimiento en España, con arreglo a la Ley de Enjuiciamiento Civil.
+
+###### Artículo 5.
+
+Los títulos referentes al mero o simple hecho de poseer no serán inscribibles.
+
+### TÍTULO II — De la forma y efectos de la inscripción
+
+###### Artículo 6.
+
+La inscripción de los títulos en el Registro podrá pedirse indistintamente:
+
+a) Por el que adquiera el derecho.
+
+b) Por el que lo transmita.
+
+c) Por quien tenga interés en asegurar el derecho que se deba inscribir.
+
+d) Por quien tenga la representación de cualquiera de ellos.
+
+###### Artículo 7.
+
+La primera inscripción de cada finca en el Registro de la Propiedad será de dominio y se practicará con arreglo a los procedimientos regulados en el Título VI de esta Ley.
+
+El titular de cualquier derecho real impuesto sobre finca cuyo dueño no hubiere inscrito su dominio, podrá solicitar la inscripción de su derecho con sujeción a las normas prescritas en el Reglamento.
+
+###### Artículo 8.
+
+Cada finca tendrá desde que se inscriba por primera vez un número diferente y correlativo.
+
+Las inscripciones que se refieran a una misma finca tendrán otra numeración correlativa y especial.
+
+Se inscribirán como una sola finca bajo un mismo número:
+
+Primero.–El territorio, término redondo o lugar de cada foral en Galicia o Asturias, siempre que reconozcan un solo dueño directo o varios proindiviso, aunque esté dividido en suertes o porciones, dadas en dominio útil o foro a diferentes colonos, si su conjunto se halla comprendido dentro de los linderos de dicho término.
+
+Se estimará único el señorío directo para los efectos de la inscripción, aunque sean varios los que, a título de señores directos, cobren rentas o pensiones de un foral o lugar, siempre que la tierra aforada no se halle dividida entre ellos por el mismo concepto.
+
+Segundo.–Toda explotación agrícola, con o sin casa de labor, que forme una unidad orgánica, aunque esté constituida por predios no colindantes, y las explotaciones industriales que formen un cuerpo de bienes unidos o dependientes entre sí.
+
+Tercero.–Las fincas urbanas y edificios en general, aunque pertenezcan a diferentes dueños en dominio pleno o menos pleno.
+
+Cuarto.–Los edificios en régimen de propiedad por pisos cuya construcción esté concluida o, por lo menos, comenzada.
+
+En la inscripción se describirán, con las circunstancias prescritas por la Ley, además del inmueble en su conjunto, sus distintos pisos o locales susceptibles de aprovechamiento independiente, asignando a éstos un número correlativo, escrito en letra y la cuota de participación que a cada uno corresponde en relación con el inmueble. En la inscripción del solar o del edificio en conjunto se harán constar los pisos meramente proyectados.
+
+Se incluirán además aquellas reglas contenidas en el título y en los estatutos que configuren el contenido y ejercicio de esta propiedad.
+
+La inscripción se practicará a favor del dueño del inmueble constituyente del régimen o de los titulares de todos y cada uno de sus pisos o locales.
+
+Quinto.–Los pisos o locales de un edificio en régimen de propiedad horizontal, siempre que conste previamente en la inscripción del inmueble la constitución de dicho régimen.
+
+> Se modifica el apartado 3 y se añaden los apartados 4 y 5 por el art. 2 de la Ley 49/1960, de 21 de julio. [Ref. BOE-A-1960-10906](https://www.boe.es/buscar/doc.php?id=BOE-A-1960-10906).
+
+###### Artículo 9.
+
+El folio real de cada finca incorporará necesariamente el código registral único de aquélla. Los asientos del Registro contendrán la expresión de las circunstancias relativas al sujeto, objeto y contenido de los derechos inscribibles según resulten del título y los asientos del registro, previa calificación del Registrador. A tal fin, la inscripción contendrá las circunstancias siguientes:
+
+a) Descripción de la finca objeto de inscripción, con su situación física detallada, los datos relativos a su naturaleza, linderos, superficie y, tratándose de edificaciones, expresión del archivo registral del libro del edificio, salvo que por su antigüedad no les fuera exigible. Igualmente se incluirá la referencia catastral del inmueble o inmuebles que la integren y el hecho de estar o no la finca coordinada gráficamente con el Catastro en los términos del artículo 10.
+
+Cuando conste acreditada, se expresará por nota al margen la calificación urbanística, medioambiental o administrativa correspondiente, con expresión de la fecha a la que se refiera.
+
+b) Siempre que se inmatricule una finca, o se realicen operaciones de parcelación, reparcelación, concentración parcelaria, segregación, división, agrupación o agregación, expropiación forzosa o deslinde que determinen una reordenación de los terrenos, la representación gráfica georreferenciada de la finca que complete su descripción literaria, expresándose, si constaren debidamente acreditadas, las coordenadas georreferenciadas de sus vértices.
+
+Asimismo, dicha representación podrá incorporarse con carácter potestativo al tiempo de formalizarse cualquier acto inscribible, o como operación registral específica. En ambos casos se aplicarán los requisitos establecidos en el artículo 199.
+
+Para la incorporación de la representación gráfica de la finca al folio real, deberá aportarse junto con el título inscribible la certificación catastral descriptiva y gráfica de la finca, salvo que se trate de uno de los supuestos en los que la ley admita otra representación gráfica georreferenciada alternativa.
+
+En todo caso, la representación gráfica alternativa habrá de respetar la delimitación de la finca matriz o del perímetro del conjunto de las fincas aportadas que resulte de la cartografía catastral. Si la representación gráfica alternativa afectara a parte de parcelas catastrales, deberá precisar la delimitación de las partes afectadas y no afectadas, y el conjunto de ellas habrá de respetar la delimitación que conste en la cartografía catastral. Dicha representación gráfica deberá cumplir con los requisitos técnicos que permitan su incorporación al Catastro una vez practicada la operación registral.
+
+La representación gráfica aportada será objeto de incorporación al folio real de la finca, siempre que no se alberguen dudas por el Registrador sobre la correspondencia entre dicha representación y la finca inscrita, valorando la falta de coincidencia, siquiera parcial, con otra representación gráfica previamente incorporada, así como la posible invasión del dominio público.
+
+Se entenderá que existe correspondencia entre la representación gráfica aportada y la descripción literaria de la finca cuando ambos recintos se refieran básicamente a la misma porción del territorio y las diferencias de cabida, si las hubiera, no excedan del diez por ciento de la cabida inscrita y no impidan la perfecta identificación de la finca inscrita ni su correcta diferenciación respecto de los colindantes.
+
+Una vez inscrita la representación gráfica georreferenciada de la finca, su cabida será la resultante de dicha representación, rectificándose, si fuera preciso, la que previamente constare en la descripción literaria. El Registrador notificará el hecho de haberse practicado tal rectificación a los titulares de derechos inscritos, salvo que del título presentado o de los trámites del artículo 199 ya constare su notificación.
+
+A efectos de valorar la correspondencia de la representación gráfica aportada, en los supuestos de falta o insuficiencia de los documentos suministrados, el Registrador podrá utilizar, con carácter meramente auxiliar, otras representaciones gráficas disponibles, que le permitan averiguar las características topográficas de la finca y su línea poligonal de delimitación.
+
+Todos los Registradores dispondrán, como elemento auxiliar de calificación, de una única aplicación informática suministrada y diseñada por el Colegio de Registradores e integrada en su sistema informático único, bajo el principio de neutralidad tecnológica, para el tratamiento de representaciones gráficas, que permita relacionarlas con las descripciones de las fincas contenidas en el folio real, previniendo además la invasión del dominio público, así como la consulta de las limitaciones al dominio que puedan derivarse de la clasificación y calificación urbanística, medioambiental o administrativa correspondiente. Dicha aplicación y sus diferentes actualizaciones habrán de ser homologadas por la Dirección General de los Registros y del Notariado, para establecer el cumplimiento de los requisitos de protección y seguridad adecuados a la calidad de los datos.
+
+Los Registradores de la Propiedad no expedirán más publicidad gráfica que la que resulte de la representación gráfica catastral, sin que pueda ser objeto de tal publicidad la información gráfica contenida en la referida aplicación, en cuanto elemento auxiliar de calificación. Solo en los supuestos en los que la ley admita otra representación gráfica georreferenciada alternativa, ésta podrá ser objeto de publicidad registral hasta el momento en que el Registrador haga constar que la finca ha quedado coordinada gráficamente con el Catastro. Hasta entonces, se hará constar en esta publicidad el hecho de no haber sido validada la representación gráfica por el Catastro. Asimismo, podrá ser objeto de publicidad registral la información procedente de otras bases de datos, relativa a las fincas cuya representación gráfica catastral haya quedado o vaya a quedar incorporada al folio real.
+
+c) La naturaleza, extensión y condiciones, suspensivas o resolutorias, si las hubiere, del derecho que se inscriba, y su valor cuando constare en el título.
+
+d) El derecho sobre el cual se constituya el que sea objeto de la inscripción.
+
+e) La persona natural o jurídica a cuyo favor se haga la inscripción o, cuando sea el caso, el patrimonio separado a cuyo favor deba practicarse aquélla, cuando éste sea susceptible legalmente de ser titular de derechos u obligaciones. Los bienes inmuebles y derechos reales de las uniones temporales de empresas serán inscribibles en el Registro de la Propiedad siempre que se acredite, conforme al artículo 3, la composición de las mismas y el régimen de administración y disposición sobre tales bienes, practicándose la inscripción a favor de los socios o miembros que las integran con sujeción al régimen de administración y disposición antes referido. También podrán practicarse anotaciones preventivas de demanda y embargo a favor de las comunidades de propietarios en régimen de propiedad horizontal.
+
+En cualquier momento, el titular inscrito podrá instar directamente del Registrador que por nota marginal se hagan constar las circunstancias de un domicilio, dirección electrónica a efectos de recibir comunicaciones y notificaciones electrónicas y telemáticas relativas al derecho inscrito. Las comunicaciones a través de medios electrónicos y telemáticos serán válidas siempre que exista constancia de la transmisión y recepción, de sus fechas y del contenido íntegro de las comunicaciones, y se identifique de forma auténtica o fehaciente al remitente y al destinatario de las mismas.
+
+f) La persona de quien procedan inmediatamente los bienes o derechos que deban inscribirse.
+
+g) El título que se inscriba, su fecha, y el Tribunal, Juzgado, Notario o funcionario que lo autorice.
+
+h) La fecha de presentación del título en el Registro y la de la inscripción.
+
+i) El acta de inscripción y la firma del Registrador, que supondrá la conformidad del mismo al texto íntegro del asiento practicado.
+
+Lo dispuesto en este artículo se entiende sin perjuicio de lo especialmente regulado para determinadas inscripciones.
+
+> Se modifica por el art. 1.1 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Se añaden los párrafos segundo, tercero y cuarto de la regla 1 por la disposición adicional 28 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 10.
+
+1\. La base de representación gráfica de las fincas registrales será la cartografía catastral, que estará a disposición de los Registradores de la Propiedad.
+
+2\. En los casos de incorporación de la representación gráfica georreferenciada conforme a lo dispuesto en la letra b) del artículo 9, deberá aportarse, junto al título inscribible, certificación catastral descriptiva y gráfica de la finca, salvo que se trate de uno de los supuestos regulados en el apartado 3 de este artículo.
+
+El Registrador incorporará al folio real la representación gráfica catastral aportada siempre que se corresponda con la descripción literaria de la finca en la forma establecida en la letra b) del artículo anterior, haciendo constar expresamente en el asiento que en la fecha correspondiente la finca ha quedado coordinada gráficamente con el Catastro. Asimismo, el Registrador trasladará al Catastro el código registral de las fincas que hayan sido coordinadas.
+
+En el supuesto de que la correspondencia no haya quedado acreditada, el Registrador dará traslado de esta circunstancia al Catastro por medios telemáticos, motivando a través de un informe las causas que hayan impedido la coordinación, a efectos de que, en su caso, el Catastro incoe el procedimiento oportuno.
+
+3\. Únicamente podrá aportarse una representación gráfica georreferenciada complementaria o alternativa a la certificación catastral gráfica y descriptiva en los siguientes supuestos:
+
+a) Procedimientos de concordancia entre el Registro de la Propiedad y la realidad extrarregistral del Título VI de esta Ley en los que expresamente se admita una representación gráfica alternativa.
+
+b) Cuando el acto inscribible consista en una parcelación, reparcelación, segregación, división, agrupación, agregación o deslinde judicial, que determinen una reordenación de los terrenos.
+
+En los supuestos en los que se haya aportado una representación gráfica alternativa, el Registrador remitirá la información al Catastro, de acuerdo con su normativa reguladora, para que este practique, en su caso, la alteración que corresponda.
+
+De practicarse la alteración, la Dirección General del Catastro lo trasladará al Registro de la Propiedad, a efectos de que el Registrador haga constar las referencias catastrales correspondientes, así como la circunstancia de la coordinación, e incorpore al folio real la representación gráfica catastral.
+
+4\. En toda forma de publicidad registral habrá de expresarse, además de la referencia catastral que corresponda a la finca, si está o no coordinada gráficamente con el Catastro a una fecha determinada.
+
+5\. Alcanzada la coordinación gráfica con el Catastro e inscrita la representación gráfica de la finca en el Registro, se presumirá, con arreglo a lo dispuesto en el artículo 38, que la finca objeto de los derechos inscritos tiene la ubicación y delimitación geográfica expresada en la representación gráfica catastral que ha quedado incorporada al folio real.
+
+Esta presunción igualmente regirá cuando se hubiera incorporado al folio real una representación gráfica alternativa, en los supuestos en que dicha representación haya sido validada previamente por una autoridad pública, y hayan transcurrido seis meses desde la comunicación de la inscripción correspondiente al Catastro, sin que éste haya comunicado al Registro que existan impedimentos a su validación técnica.
+
+6\. Con el fin de asegurar el intercambio de información entre el Catastro y el Registro de la Propiedad, así como la interoperabilidad entre sus sistemas de información, mediante resolución conjunta de la Dirección General de los Registros y del Notariado y de la Dirección General del Catastro, se regularán:
+
+a) La forma, contenido, plazos y requisitos del suministro mutuo de información que sea relevante para el cumplimiento de las funciones respectivas.
+
+b) Las características y funcionalidades del sistema de intercambio de información, así como del servicio de identificación y representación gráfica de las fincas sobre la cartografía catastral.
+
+c) Los requisitos que deben cumplir la descripción técnica y la representación gráfica alternativa que se aporte al Registro de la Propiedad en los supuestos legalmente previstos.
+
+> Se modifica por el art. 1.2 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, a los efectos de la presunción del apartado 5, la disposición final 4 de la citada Ley.
+
+###### Artículo 11.
+
+En la inscripción de los contratos en que haya mediado precio o entrega de metálico, se hará constar el que resulte del título, así como la forma en que se hubiese hecho o convenido el pago, debiendo acreditarse los medios de pago utilizados, en la forma establecida en los artículos 21, 254 y 255 de esta Ley.
+
+La expresión del aplazamiento del pago no surtirá efectos en perjuicio de tercero, a menos que se garantice aquél con hipoteca o se dé a la falta de pago el carácter de condición resolutoria explícita. En ambos casos, si el precio aplazado se refiere a la transmisión de dos o más fincas, se determinará el correspondiente a cada una de ellas.
+
+Lo dispuesto en el párrafo precedente se aplicará a las permutas o adjudicaciones en pago cuando una de las partes tuviere que abonar a la otra alguna diferencia en dinero o en especie.
+
+> Se modifica por el art. 1.3 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+###### Artículo 12.
+
+En la inscripción del derecho real de hipoteca se expresará el importe del principal de la deuda y, en su caso, el de los intereses pactados, o, el importe máximo de la responsabilidad hipotecaria, identificando las obligaciones garantizadas, cualquiera que sea la naturaleza de éstas y su duración.
+
+Las cláusulas de vencimiento anticipado y demás cláusulas financieras de las obligaciones garantizadas por la hipoteca, cualquiera que sea la entidad acreedora, en caso de calificación registral favorable de las mismas y de las demás cláusulas de trascendencia real, se harán constar en el asiento en los términos que resulten de la escritura de formalización.
+
+> Se modifica, con efectos de 16 de junio de 2019, por la disposición final 1.1 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
+
+> Se modifica por el art. 11.1 de la Ley 41/2007, de 7 de diciembre. [Ref. BOE-A-2007-21086](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21086).
+
+###### Artículo 13.
+
+Los derechos reales limitativos, los de garantía y, en general, cualquier carga o limitación del dominio o de los derechos reales, para que surtan efectos contra terceros, deberán constar en la inscripción de la finca o derecho sobre que recaigan.
+
+Las servidumbres reales podrán también hacerse constar en la inscripción del predio dominante, como cualidad del mismo.
+
+###### Artículo 14.
+
+El título de la sucesión hereditaria, a los efectos del Registro, es el testamento, el contrato sucesorio, el acta de notoriedad para la declaración de herederos abintestato y la declaración administrativa de heredero abintestato a favor del Estado, así como, en su caso, el certificado sucesorio europeo al que se refiere el capítulo VI del Reglamento (UE) n.º 650/2012.
+
+Para inscribir bienes y adjudicaciones concretas deberán determinarse en escritura pública o por sentencia firme los bienes, o parte indivisa de los mismos que correspondan o se adjudiquen a cada titular o heredero, con la sola excepción de lo ordenado en el párrafo siguiente.
+
+Cuando se tratare de heredero único, y no exista ningún interesado con derecho a legítima, ni tampoco Comisario o persona autorizada para adjudicar la herencia, el título de la sucesión, acompañado de los documentos a que se refiere el artículo dieciséis de esta Ley, bastará para inscribir directamente a favor del heredero los bienes y derechos de que en el Registro era titular el causante.
+
+> Se modifica el párrafo primero por la disposición final 1 de la Ley 29/2015, de 30 de julio. [Ref. BOE-A-2015-8564](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8564).
+
+> Se modifica el párrafo primero por la disposición final 12.1 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
+
+> Se modifica el párrafo primero por la disposición final 1.1 de la Ley 10/1992, de 30 de abril. [Ref. BOE-A-1992-9548](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-9548).
+
+###### Artículo 15.
+
+Los derechos del legitimario de parte alícuota que no pueda promover el juicio de testamentaría por hallarse autorizado el heredero para pagar las legítimas en efectivo o en bienes no inmuebles, así como los de los legitimarios sujetos a la legislación especial catalana, se mencionarán en la inscripción de los bienes hereditarios.
+
+La asignación de bienes concretos para pago o su afección en garantía de las legítimas, se hará constar por nota marginal.
+
+Las referidas menciones se practicarán con los documentos en cuya virtud se inscriban los bienes a favor de los herederos, aunque en aquéllos no hayan tenido intervención los legitimarios.
+
+Las disposiciones de este artículo producirán efecto solamente respecto de los terceros protegidos por el artículo treinta y cuatro, no entre herederos y legitimarios, cuyas relaciones se regirán por las normas civiles aplicables a la herencia del causante.
+
+Contra dichos terceros los legitimarios no podrán ejercitar otras ni más acciones que las que se deriven de las menciones referidas, a tenor de las reglas que siguen:
+
+a) Durante los cinco primeros años de la fecha de la mención, quedarán solidariamente afectos al pago de la legítima todos los bienes de la herencia en la cuantía y forma que las leyes determinen, cualesquiera que sean las disposiciones del causante o los acuerdos del Comisario, Contador-Partidor o Albacea, con facultad de partir, heredero distributario, heredero de confianza, usufructuario con facultad de señalar y pagar legítimas u otras personas con análogas facultades, nombrados por el causante en acto de última voluntad contractual o testamentaria.
+
+Esta mención quedará sin efecto y se estará a lo dispuesto en los números segundo y tercero de la letra b) del presente artículo, si el legitimario hubiese aceptado bienes determinados o cantidad cierta para pago de dichas legítimas o concretado su garantía sobre uno o más inmuebles de la herencia.
+
+b) Transcurridos los cinco primeros años de su fecha, los efectos de la mención serán los siguientes:
+
+Primero. Cuando el causante, o por su designación las personas expresadas en el párrafo primero del apartado a), no hubieran fijado el importe de dichas legítimas, ni concretado su garantía sobre ciertos bienes inmuebles, ni asignado bienes determinados para el pago de las mismas, continuará surtiendo plenos efectos la mención solidaria expresada en la letra a) precedente, hasta cumplidos veinte años del fallecimiento del causante.
+
+Segundo. Cuando las mismas personas se hubieren limitado a asignar una cantidad cierta para pago de las legítimas, quedarán solidariamente sujetos a la efectividad de las mismas todos los bienes de la herencia, durante el plazo antes indicado. No obstante, si dentro de los cinco años siguientes a su constancia en el Registro de la Propiedad, los legitimarios no hubieren impugnado por insuficiente tal asignación, transcurrido que sea este plazo podrá cancelarse la mención solidaria expresada en el apartado a) siempre que justifique el heredero haber depositado suma bastante en un establecimiento bancario o Caja oficial, a las resultas del pago de las legítimas en la cantidad asignada y de sus intereses de cinco años al tipo legal.
+
+Tercero. Cuando las supradichas personas hubieren asignado bienes ciertos para el pago de las legítimas, o concretado la garantía de las mismas sobre bienes determinados, el legitimario solamente podrá hacer efectivos sus derechos sobre dichos bienes en la forma que disponga el correspondiente título sucesorio o acto particional.
+
+Cuarto. Cuando el causante hubiere desheredado a algún legitimario o manifestado en el título sucesorio que ciertas legítimas fueron totalmente satisfechas, se entenderá que los legitimarios aludidos aceptan respecto de terceros la desheredación o las manifestaciones del causante si durante el plazo determinado en el apartado a) de este artículo no impugnaren dicha disposición.
+
+Dentro de los plazos de vigencia de las menciones por derechos legitimarios, los herederos podrán, sin necesidad de autorización alguna, cancelar hipotecas, redimir censos, cobrar precios aplazados, retrovender y, en general, extinguir otros derechos análogos de cuantía determinada o determinable aritméticamente, que formen parte de la herencia, siempre que el importe así obtenido o la cantidad cierta o parte alícuota del mismo que conste en el Registro como responsabilidad especial por legítimas, afectante al derecho extinguido, se invierta en valores del Estado, que se depositarán, con intervención del Notario, en un establecimiento bancario o Caja oficial, a las resultas del pago de las legítimas.
+
+Los depósitos a que hacen referencia el párrafo anterior y el número segundo, letra b) de este artículo, podrán ser retirados por los herederos transcurridos veinte años, a contar desde el fallecimiento del causante, siempre que no hubieren sido aceptados o reclamados por los legitimarios dentro del plazo indicado.
+
+Las menciones reguladas en los números primero, segundo y tercero del apartado b, caducarán sin excepción cumplidos veinte años desde el fallecimiento del causante.
+
+Los bienes hereditarios se inscribirán sin mención alguna de derechos legitimarios, cuando la herencia tenga ingreso en el Registro después de transcurridos veinte años desde el fallecimiento del causante.
+
+###### Artículo 16.
+
+Los dueños de bienes inmuebles o derechos reales por testamento u otro título universal o singular, que no los señale y describa individualmente, podrán obtener su inscripción, presentando dicho título con el documento, en su caso, que pruebe haberles sido aquél transmitido y justificando con cualquier otro documento fehaciente que se hallan comprendidos en él los bienes que traten de inscribir.
+
+###### Artículo 17.
+
+Inscrito o anotado preventivamente en el Registro cualquier título traslativo o declarativo del dominio de los inmuebles o de los derechos reales impuestos sobre los mismos, no podrá inscribirse o anotarse ningún otro de igual o anterior fecha que se le oponga o sea incompatible, por el cual se transmita o grave la propiedad del mismo inmueble o derecho real.
+
+Si sólo se hubiera extendido el asiento de presentación, no podrá tampoco inscribirse o anotarse ningún otro título de la clase antes expresada durante el término de sesenta días, contados desde el siguiente al de la fecha del mismo asiento.
+
+###### Artículo 18.
+
+Los Registradores calificarán, bajo su responsabilidad, la legalidad de las formas extrínsecas de los documentos de toda clase, en cuya virtud se solicite la inscripción, así como la capacidad de los otorgantes y la validez de los actos dispositivos contenidos en las escrituras públicas, por lo que resulte de ellas y de los asientos del Registro.
+
+El plazo máximo para inscribir el documento será de quince días contados desde la fecha del asiento de presentación. El registrador en la nota a pie de título, si la calificación es positiva, o en la calificación negativa deberá expresar inexcusablemente la fecha de la inscripción y, en su caso, de la calificación negativa a los efectos del cómputo del plazo de quince días. Si el título hubiera sido retirado antes de la inscripción, tuviera defectos subsanables o existiera pendiente de inscripción un título presentado con anterioridad, el plazo de quince días se computará desde la fecha de la devolución del título, la subsanación o la inscripción del título previo, respectivamente. En estos casos, la vigencia del asiento de presentación se entenderá prorrogada hasta la terminación del plazo de inscripción. Por razones extraordinarias, debidamente acreditadas, la Dirección General de los Registros y del Notariado podrá, a solicitud del registrador competente formulada dentro de los dos primeros días de plazo de inscripción, ampliar hasta quince días más como máximo dicho plazo. Si la Dirección General no contesta en el plazo de dos días contados desde que tuviera entrada la solicitud, se entenderá que ésta ha sido desestimada. El registrador no podrá recurrir contra la decisión expresa o presunta que adopte la Dirección General.
+
+Si, transcurrido el plazo máximo señalado en el párrafo anterior, no hubiere tenido lugar la inscripción, el interesado podrá instar del registrador ante quien se presentó el título que la lleve a cabo en el término improrrogable de tres días o la aplicación del cuadro de sustituciones previsto en el artículo 275 bis de esta ley. Igualmente, si transcurrido el plazo de tres días el registrador no inscribe el título, el interesado podrá instar la aplicación del cuadro de sustituciones.
+
+La inscripción realizada fuera de plazo por el registrador titular producirá una reducción de aranceles de un treinta por ciento, sin perjuicio de la aplicación del régimen sancionador correspondiente. A los efectos del adecuado cumplimiento del plazo de inscripción, los registradores deberán remitir a la Dirección General de los Registros y del Notariado en los primeros veinte días de los meses de abril, julio, octubre y enero una estadística en formato electrónico que contenga el número de títulos presentados y fecha de inscripción de los mismos, así como el porcentaje de títulos inscritos fuera del plazo previsto en este artículo. La Dirección General de Registros y del Notariado concretará mediante Instrucción el formato electrónico y datos que deban remitir los registradores.
+
+Si un Registro de la Propiedad estuviese a cargo de dos o más registradores, se procurará, en lo posible, la uniformidad de los criterios de calificación. A tal efecto, llevarán el despacho de los documentos con arreglo al convenio de distribución de materias o sectores que acuerden. El convenio y sus modificaciones posteriores deberán ser sometidos a la aprobación de la Dirección General de los Registros y del Notariado.
+
+Siempre que el registrador a quien corresponda la calificación de un documento apreciare defectos que impidan practicar la operación solicitada, los pondrá en conocimiento del cotitular o cotitulares del mismo sector o del sector único. Antes del transcurso del plazo máximo establecido para la inscripción del documento les pasará la documentación, y el que entendiere que la operación es procedente la practicará bajo su responsabilidad antes de expirar dicho plazo.
+
+En la calificación negativa el registrador a quien corresponda deberá expresar que la misma se ha extendido con la conformidad de los cotitulares. Si falta dicha indicación, la calificación se entenderá incompleta, sin perjuicio de que los legitimados para ello ya puedan recurrirla, instar la intervención del sustituto, o pedir expresamente que se complete. No se tendrá en cuenta una calificación incompleta para interrumpir el plazo en que debe hacerse la calificación. Los cotitulares serán también responsables a todos los efectos de la calificación a la que prestan su conformidad.
+
+El registrador que calificare un documento conocerá de todas las incidencias que se produzcan hasta la terminación del procedimiento registral.
+
+> Se modifican los párrafos segundo a cuarto y se añaden los párrafos quinto a octavo por el art. 26.1 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se modifica el párrafo segundo por el art. 135.1 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se añaden los párrafos segundo, tercero y cuarto por el art. 100.1 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 19.
+
+Cuando el Registrador notare alguna falta en el título conforme al artículo anterior, la manifestará a los que pretendan la inscripción, para que, si quieren, recojan el documento y subsanen la falta durante la vigencia del asiento de presentación. Si no lo recogen o no subsanan la falta a satisfacción del Registrador, devolverá el documento para que puedan ejercitarse los recursos correspondientes, sin perjuicio de hacer la anotación preventiva que ordena el artículo cuarenta y dos en su número nueve, si se solicita expresamente.
+
+En el caso de no hacerse la anotación preventiva, el asiento de presentación del título continuará produciendo sus efectos durante los sesenta días antes expresados.
+
+###### Artículo 19 bis.
+
+Si la calificación es positiva, el registrador practicará los asientos registrales procedentes y expedirá certificación electrónica expresiva de ello, identificando los datos del asiento de presentación y título que lo haya motivado, las incidencias más relevantes del procedimiento registral iniciado con dicho asiento de presentación, y reseña de los concretos asientos practicados en los libros de inscripciones, insertando para cada finca el texto literal del acta de inscripción practicada. Asimismo, expedirá certificación electrónica en extracto y con información estructurada de la nueva situación registral vigente de cada finca resultante tras la práctica de los nuevos asientos.
+
+La calificación negativa, incluso cuando se trate de inscripción parcial en virtud de solicitud del interesado, deberá ser firmada por el registrador, y en ella habrán de constar las causas impeditivas, suspensivas o denegatorias y la motivación jurídica de las mismas, ordenada en hechos y fundamentos de derecho, con expresa indicación de los medios de impugnación, órgano ante el que debe recurrirse y plazo para interponerlo, sin perjuicio de que el interesado ejercite, en su caso, cualquier otro que entienda procedente.
+
+Si el registrador califica negativamente el título, sea total o parcialmente, dentro o fuera del plazo a que se refiere el artículo 18 de la ley, el interesado podrá recurrir ante la Dirección General de Seguridad Jurídica y Fe Pública o bien instar la aplicación del cuadro de sustituciones previsto en el artículo 275 bis de la ley.
+
+Los interesados tendrán el derecho a solicitar al registrador del cuadro de sustituciones la calificación de los títulos presentados, en los supuestos previstos en el párrafo anterior, conforme a las siguientes reglas:
+
+1.ª El interesado deberá ejercer su derecho en los quince días siguientes a la notificación de la calificación negativa, durante la vigencia del asiento de presentación, mediante la aportación al registrador sustituto del testimonio íntegro del título presentado y de la documentación complementaria.
+
+2.ª El registrador sustituto que asuma la inscripción del título lo comunicará al registrador sustituido, pudiendo con carácter previo y en orden a esta finalidad solicitar que se le aporte información registral completa, de no existir o ser insuficiente la remitida con el testimonio íntegro del título.
+
+El registrador sustituido hará constar dicha comunicación, en el mismo día de su recepción o el siguiente hábil, por asiento electrónico relacionado con el de presentación, indicando que se ha ejercido el derecho a solicitar la calificación de los títulos a un registrador de los incluidos en el cuadro de sustituciones, la identidad de éste y el Registro del que sea titular. A partir de la fecha de recepción de la comunicación referida, el registrador sustituido deberá suministrar al registrador sustituto información continuada relativa a cualquier nueva circunstancia registral que pudiera afectar a la práctica del asiento.
+
+3.ª Si el registrador sustituto calificara positivamente el título, en los diez días siguientes al de la fecha de la comunicación prevista en la regla anterior, ordenará al registrador sustituido que extienda el asiento solicitado, remitiéndole el texto comprensivo de los términos en que deba practicarse aquél, junto con el testimonio íntegro del título y documentación complementaria.
+
+En todo caso, en el asiento que se extienda, además de las circunstancias que procedan de conformidad con su naturaleza, deberá constar la identidad del registrador sustituto y el registro del que fuera titular.
+
+Extendido el asiento, el registrador sustituido lo comunicará al registrador sustituto, y devolverá el título al presentante con la certificación electrónica a que se refiere el párrafo primero de este artículo.
+
+4.ª Si el registrador sustituto asumiera la inscripción parcial del título se procederá del modo previsto en las reglas segunda y tercera. Dicha inscripción parcial sólo podrá practicarse si media consentimiento del presentante o del interesado.
+
+5.ª Si el registrador sustituto calificara negativamente el título, devolverá éste al interesado a los efectos de interposición del recurso frente a la calificación del registrador sustituido ante la Dirección General de Seguridad Jurídica y Fe Pública, el cual deberá ceñirse a los defectos señalados por el registrador sustituido con los que el registrador sustituto hubiera manifestado su conformidad.
+
+En la calificación el registrador sustituto se ajustará a los defectos señalados por el registrador sustituido y respecto de los que los interesados hubieran motivado su discrepancia en el escrito en el que soliciten su intervención, no pudiendo versar sobre ninguna otra pretensión basada en otros motivos o en documentos no presentados en tiempo y forma. Para fundar su decisión podrá pedir informe al Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, que lo evacuará a través de sus servicios de estudios, todo ello bajo responsabilidad del registrador y sin que pueda excederse del plazo de calificación.
+
+6.ª Practicado el asiento solicitado, corresponderá al registrador sustituto el cincuenta por ciento de los aranceles devengados y al registrador sustituido el cincuenta por ciento restante.
+
+Los derechos arancelarios se abonarán por el interesado a cada registrador en su parte correspondiente.
+
+7.ª Las comunicaciones que se deban practicar conforme a las reglas precedentes se realizarán por medios electrónicos que permitan tener constancia de su recepción.
+
+> Se modifica por el art. 36.1 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+> Se modifica el párrafo tercero por el art. 29 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se modifica la regla 5ª del párrafo cuarto por el art. 135.2 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se añade por el art. 100.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 20.
+
+Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito o anotado el derecho de la persona que otorgue o en cuyo nombre sean otorgados los actos referidos.
+
+En el caso de resultar inscrito aquel derecho a favor de persona distinta de la que otorgue la transmisión o gravamen, los Registradores denegarán la inscripción solicitada.
+
+Cuando no resultare inscrito a favor de persona alguna el expresado derecho y no se acredite fuere inscribible con arreglo al artículo doscientos cinco, los Registradores harán anotación preventiva a solicitud del interesado, la cual subsistirá durante el plazo que señala el artículo noventa y seis de esta Ley.
+
+No será necesaria la previa inscripción o anotación a favor de los mandatarios, representantes, liquidadores, albaceas y demás personas que con carácter temporal actúen como órganos de representación y dispongan de intereses ajenos en la forma permitida por las leyes.
+
+Tampoco será precisa dicha inscripción previa para inscribir los documentos otorgados por los herederos:
+
+Primero. Cuando ratifiquen contratos privados realizados por su causante, siempre que consten por escrito y firmados por éste.
+
+Segundo. Cuando vendieren o cedieren a un coheredero fincas adjudicadas proindiviso a los vendedores o cedentes, pero en la inscripción que se haga habrá de expresarse dicha previa adjudicación proindiviso con referencia al título en que así constare. Y
+
+Tercero. Cuando se trate de testimonios de decretos de adjudicación o escritura de venta verificada en nombre de los herederos del ejecutado en virtud de ejecución de sentencia, con tal que el inmueble o derecho real se halle inscrito a favor del causante.
+
+Cuando en una partición de herencia, verificada después del fallecimiento de algún heredero, se adjudiquen a los que lo fuesen de éste los bienes que a aquél correspondían, deberá practicarse la inscripción a favor de los adjudicatarios, pero haciéndose constar en ella las transmisiones realizadas.
+
+No podrá tomarse anotación de demanda, embargo o prohibición de disponer, ni cualquier otra prevista en la ley, si el titular registral es persona distinta de aquella contra la cual se ha dirigido el procedimiento. En los procedimientos criminales y en los de decomiso podrá tomarse anotación de embargo preventivo o de prohibición de disponer de los bienes, como medida cautelar, cuando a juicio del juez o tribunal existan indicios racionales de que el verdadero titular de los mismos es el encausado, haciéndolo constar así en el mandamiento.
+
+> Se modifica el párrafo 7 por la disposición final 1 de la Ley 41/2015, de 5 de octubre. [Ref. BOE-A-2015-10726](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10726).
+
+> Se modifica el punto 3º del párrafo quinto por el art. 3.1 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+> Se añade el último párrafo por la disposición final 3 de la Ley Orgánica 15/2003, de 25 de noviembre. [Ref. BOE-A-2003-21538](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21538).
+
+###### Artículo 21.
+
+1\. Los documentos relativos a contratos o actos que deban inscribirse expresarán, por lo menos, todas las circunstancias que necesariamente debe contener la inscripción y sean relativas a las personas de los otorgantes, a las fincas y a los derechos inscritos.
+
+2\. Las escrituras públicas relativas a actos o contratos por los que se declaren, constituyan, transmitan, graven, modifiquen o extingan a título oneroso el dominio y los demás derechos reales sobre bienes inmuebles, cuando la contraprestación consistiera, en todo o en parte, en dinero o signo que lo represente, deberán expresar, además de las circunstancias previstas en el apartado anterior, la identificación de los medios de pago empleados por las partes, en los términos previstos en el artículo 24 de la Ley del Notariado, de 28 de mayo de 1862.
+
+3\. En las escrituras de préstamo hipotecario sobre vivienda deberá constar el carácter, habitual o no, que pretenda atribuirse a la vivienda que se hipoteque. Se presumirá, salvo prueba en contrario, que en el momento de la ejecución judicial del inmueble es vivienda habitual si así se hiciera constar en la escritura de constitución.
+
+> Se añade el apartado 3 por el art. 3.1 de la Ley 1/2013, de 14 de mayo. [Ref. BOE-A-2013-5073](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5073).
+
+> Se modifica por el art. 7.1 de la Ley 36/2006, de 29 de noviembre. [Ref. BOE-A-2006-20843](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20843).
+
+###### Artículo 22.
+
+El Notario que cometiere alguna omisión que impida inscribir el acto o contrato, conforme a lo dispuesto en el artículo anterior, la subsanará extendiendo a su costa una nueva escritura, si fuere posible, e indemnizando, en su caso, a los interesados de los perjuicios que les ocasione su falta.
+
+###### Artículo 23.
+
+El cumplimiento de las condiciones suspensivas, resolutorias o rescisorias de los actos o contratos inscritos, se hará constar en el Registro, bien por medio de una nota marginal, si se consuma la adquisición del derecho, bien por una nueva inscripción a favor de quien corresponda, si la resolución o rescisión llega a verificarse.
+
+###### Artículo 24.
+
+Se considera como fecha de la inscripción para todos los efectos que ésta deba producir, la fecha del asiento de presentación que deberá constar en la inscripción misma.
+
+###### Artículo 25.
+
+Para determinar la preferencia entre dos o más inscripciones de igual fecha, relativas a una misma finca, se atenderá a la hora de la presentación en el Registro de los títulos respectivos.
+
+###### Artículo 26.
+
+Las prohibiciones de disponer o enajenar se harán constar en el Registro de la Propiedad y producirán efecto con arreglo a las siguientes normas:
+
+Primera. Las establecidas por la Ley que, sin expresa declaración judicial o administrativa, tengan plena eficacia jurídica, no necesitarán inscripción separada y especial y surtirán sus efectos como limitaciones legales del dominio.
+
+Segunda. Las que deban su origen inmediato a alguna resolución judicial o administrativa serán objeto de anotación preventiva.
+
+Tercera. Las impuestas por el testador o donante en actos o disposiciones de última voluntad, capitulaciones matrimoniales, donaciones y demás actos a título gratuito, serán inscribibles siempre que la legislación vigente reconozca su validez.
+
+###### Artículo 27.
+
+Las prohibiciones de disponer que tengan su origen en actos o contratos de los no comprendidos en el artículo anterior, no tendrán acceso al Registro, sin perjuicio de que mediante hipoteca o cualquier otra forma de garantía real se asegure su cumplimiento.
+
+###### **Artículo 28.**
+
+**(Suprimido).**
+
+> Se suprime, con efectos desde el 3 de septiembre de 2021, por el art. 3.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+###### Artículo 29.
+
+La fe pública del Registro no se extenderá a la mención de derechos susceptibles de inscripción separada y especial.
+
+###### Artículo 30.
+
+Las inscripciones de los títulos expresados en los artículos segundo y cuarto serán nulas si en ellas se omite o se expresa con inexactitud sustancial alguna de las circunstancias comprendidas en el artículo nueve, sin perjuicio de lo establecido en esta Ley sobre rectificación de errores.
+
+###### Artículo 31.
+
+La nulidad de las inscripciones de que trata el artículo precedente, no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al artículo treinta y cuatro.
+
+###### Artículo 32.
+
+Los títulos de dominio o de otros derechos reales sobre bienes inmuebles, que no estén debidamente inscritos o anotados en el Registro de la Propiedad, no perjudican a tercero.
+
+###### Artículo 33.
+
+La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+
+###### Artículo 34.
+
+El tercero que de buena fe adquiera a título oneroso algún derecho de persona que en el Registro aparezca con facultades para transmitirlo, será mantenido en su adquisición, una vez que haya inscrito su derecho, aunque después se anule o resuelva el del otorgante por virtud de causas que no consten en el mismo Registro.
+
+La buena fe del tercero se presume siempre mientras no se pruebe que conocía la inexactitud del Registro.
+
+Los adquirentes a título gratuito no gozarán de más protección registral que la que tuviere su causante o transferente.
+
+###### Artículo 35.
+
+A los efectos de la prescripción adquisitiva en favor del titular inscrito, será justo título la inscripción, y se presumirá que aquél ha poseído pública, pacífica, ininterrumpidamente y de buena fe durante el tiempo de vigencia del asiento y de los de sus antecesores de quienes traiga causa.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 36.
+
+Frente a titulares inscritos que tengan la condición de terceros con arreglo al artículo treinta y cuatro, sólo prevalecerá la prescripción adquisitiva consumada o la que pueda consumarse dentro del año siguiente a su adquisición, en los dos supuestos siguientes:
+
+a) Cuando se demuestre que el adquirente conoció o tuvo medios racionales y motivos suficientes para conocer, antes de perfeccionar su adquisición, que la finca o derecho estaba poseída de hecho y a título de dueño por persona distinta de su transmitente.
+
+b) Siempre que, no habiendo conocido ni podido conocer, según las normas anteriores, tal posesión de hecho al tiempo de la adquisición, el adquirente inscrito la consienta, expresa o tácitamente, durante todo el año siguiente a la adquisición. Cuando la prescripción afecte a una servidumbre negativa o no aparente, y ésta pueda adquirirse por prescripción, el plazo del año se contará desde que el titular pudo conocer su existencia en la forma prevenida en el apartado a), o, en su defecto, desde que se produjo un acto obstativo a la libertad del predio sirviente.
+
+La prescripción comenzada perjudicará igualmente al titular inscrito, si éste no la interrumpiere en la forma y plazo antes indicados, y sin perjuicio de que pueda también interrumpirla antes de su consumación total.
+
+En cuanto al que prescribe y al dueño del inmueble o derecho real que se esté prescribiendo y a sus sucesores que no tengan la consideración de terceros, se calificará el título y se contará el tiempo con arreglo a la legislación civil.
+
+Los derechos adquiridos a título oneroso y de buena fe que no lleven aneja la facultad de inmediato disfrute del derecho sobre el cual se hubieren constituido, no se extinguirán por usucapión de éste. Tampoco se extinguirán los que impliquen aquella facultad cuando el disfrute de los mismos no fuere incompatible con la posesión causa de la prescripción adquisitiva, o cuando, siéndolo, reúnan sus titulares las circunstancias y procedan en la forma y plazos que determina el párrafo b) de este artículo.
+
+La prescripción extintiva de derechos reales sobre cosa ajena, susceptibles de posesión o de protección posesoria, perjudicará siempre al titular según el Registro, aunque tenga la condición de tercero.
+
+###### Artículo 37.
+
+Las acciones rescisorias, revocatorias y resolutorias no se darán contra tercero que haya inscrito los títulos de sus respectivos derechos conforme a lo prevenido en esta Ley.
+
+Se exceptúan de la regla contenida en el párrafo anterior:
+
+Primero. Las acciones rescisorias y resolutorias que deban su origen a causas que consten explícitamente en el Registro.
+
+Segundo. Las de revocación de donaciones, en el caso de no cumplir el donatario condiciones inscritas en el Registro.
+
+Tercero. Las de retracto legal, en los casos y términos que las leyes establecen.
+
+Cuarto. Las acciones rescisorias de enajenaciones hechas en fraude de acreedores, las cuales perjudicarán a tercero:
+
+a) Cuando hubiese adquirido por título gratuito.
+
+b) Cuando, habiendo adquirido por título oneroso hubiese sido cómplice en el fraude. El simple conocimiento de haberse aplazado el pago del precio no implicará, por sí solo, complicidad en el fraude.
+
+En ambos casos no perjudicará a tercero la acción rescisoria que no se hubiere entablado dentro del plazo de cuatro años, contados desde el día de la enajenación fraudulenta.
+
+En el caso de que la acción resolutoria, revocatoria o rescisoria no se pueda dirigir contra tercero, conforme a lo dispuesto en el párrafo primero de este artículo, se podrán ejercitar entre las partes las acciones personales que correspondan.
+
+###### Artículo 38.
+
+A todos los efectos legales se presumirá que los derechos reales inscritos en el Registro existen y pertenecen a su titular en la forma determinada por el asiento respectivo. De igual modo se presumirá que quien tenga inscrito el dominio de los inmuebles o derechos reales tiene la posesión de los mismos.
+
+Como consecuencia de lo dispuesto anteriormente, no podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción correspondiente. La demanda de nulidad habrá de fundarse en las causas que taxativamente expresa esta Ley cuando haya de perjudicar a tercero.
+
+En caso de embargo preventivo, juicio ejecutivo o vía de apremio contra bienes inmuebles o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, productos o rentas en el instante en que conste en autos, por certificación del Registro de la Propiedad, que dichos bienes o derechos constan inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se sigue el procedimiento, a no ser que se hubiere dirigido contra ella la acción en concepto de heredera del que aparece como dueño en el Registro. Al acreedor ejecutante le quedará reservada su acción para perseguir en el mismo juicio ejecutivo otros bienes del deudor y para ventilar en el juicio correspondiente el derecho que creyere asistirle en cuanto a los bienes respecto de los cuales se suspende el procedimiento.
+
+Cuando se persigan bienes hipotecados que hayan pasado a ser propiedad de un tercer poseedor, se procederá con arreglo a lo dispuesto en los artículos ciento treinta y cuatro y concordantes de esta Ley.
+
+Las mismas reglas se observarán cuando, después de efectuada en el Registro alguna anotación preventiva de las establecidas en los números segundo y tercero del artículo cuarenta y dos, pasasen los bienes anotados a poder de un tercer poseedor.
+
+###### Artículo 39.
+
+Por inexactitud del Registro se entiende todo desacuerdo que en orden a los derechos inscribibles exista entre el Registro y la realidad jurídica extrarregistral.
+
+###### Artículo 40.
+
+La rectificación del Registro sólo podrá ser solicitada por el titular del dominio o derecho real que no esté inscrito, que lo esté erróneamente o que resulte lesionado por el asiento inexacto, y se practicará con arreglo a las siguientes normas:
+
+a) Cuando la inexactitud proviniere de no haber tenido acceso al Registro alguna relación jurídica inmobiliaria, la rectificación tendrá lugar: primero, por la toma de razón del título correspondiente, si hubiere lugar a ello; segundo, por la reanudación del tracto sucesivo, con arreglo a lo dispuesto en el Título VI de esta Ley, y tercero, por resolución judicial, ordenando la rectificación.
+
+b) Cuando la inexactitud debiera su origen a la extinción de algún derecho inscrito o anotado, la rectificación se hará mediante la correspondiente cancelación, efectuada conforme a lo dispuesto en el Título IV o en virtud del procedimiento de liberación que establece el Título VI.
+
+c) Cuando la inexactitud tuviere lugar por nulidad o error de algún asiento, se rectificará el Registro en la forma que determina el Título VII.
+
+d) Cuando la inexactitud procediere de falsedad, nulidad o defecto del título que hubiere motivado el asiento y, en general, de cualquier otra causa de las no especificadas anteriormente, la rectificación precisará el consentimiento del titular o, en su defecto, resolución judicial.
+
+En los casos en que haya de solicitarse judicialmente la rectificación, se dirigirá la demanda contra todos aquellos a quienes el asiento que se trate de rectificar conceda algún derecho, y se sustanciará por los trámites del juicio declarativo correspondiente. Si se deniega totalmente la acción de rectificación ejercitada, se impondrán las costas al actor; si sólo se deniega en parte, decidirá el Juez a su prudente arbitrio.
+
+La acción de rectificación será inseparable del dominio o derecho real de que se derive.
+
+En ningún caso la rectificación del Registro perjudicará los derechos adquiridos por tercero a título oneroso de buena fe durante la vigencia del asiento que se declare inexacto.
+
+###### Artículo 41.
+
+Las acciones reales procedentes de los derechos inscritos podrán ejercitarse a través del juicio verbal regulado en la Ley de Enjuiciamiento Civil, contra quienes, sin título inscrito, se opongan a aquellos derechos o perturben su ejercicio. Estas acciones, basadas en la legitimación registral que reconoce el artículo 38, exigirán siempre que por certificación del registrador se acredite la vigencia, sin contradicción alguna, del asiento correspondiente.
+
+> Se modifica por la disposición final 9.1 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323).
+
+### TÍTULO III — De las anotaciones preventivas
+
+###### Artículo 42.
+
+Podrán pedir anotación preventiva de sus respectivos derechos en el Registro correspondiente:
+
+Primero. El que demandare en juicio la propiedad de bienes inmuebles o la constitución, declaración, modificación o extinción de cualquier derecho real.
+
+Segundo. El que obtuviere a su favor mandamiento de embargo que se haya hecho efectivo en bienes inmuebles del deudor.
+
+Tercero. El que en cualquier juicio obtuviese sentencia ejecutoria condenando al demandado, la cual deba llevarse a efecto por los trámites establecidos en la Ley de Enjuiciamiento Civil.
+
+Cuarto. El que, demandando en juicio ordinario el cumplimiento de cualquiera obligación, obtuviere, con arreglo a las leyes, providencia ordenando el secuestro o prohibiendo la enajenación de bienes inmuebles.
+
+Quinto. El que instare ante el órgano judicial competente demanda de alguna de las resoluciones expresadas en el apartado cuarto del artículo 2, salvo las relativas a medidas de apoyo a personas con discapacidad.
+
+Sexto. Los herederos respecto de su derecho hereditario, cuando no se haga especial adjudicación entre ellos de bienes concretos, cuotas o partes indivisas de los mismos.
+
+Séptimo. El legatario que no tenga derecho, según las leyes, a promover el juicio de testamentaría.
+
+Octavo. El acreedor refaccionario, mientras duren las obras que sean objeto de la refacción.
+
+Noveno. El que presentare en el Registro algún título cuya inscripción no pueda hacerse por algún defecto subsanable, por imposibilidad del Registrador, o cuando este inicie de oficio el procedimiento de rectificación de errores que observe en algún asiento ya practicado en la forma que reglamentariamente se determine.
+
+Décimo. El que en cualquiera otro caso tuviese derecho a exigir anotación preventiva, conforme a lo dispuesto en ésta o en otra Ley.
+
+> Se modifica el apartado 5, con efectos desde el 3 de septiembre de 2021, por el art. 3.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+> Se modifica el apartado 9 por la disposición adicional 25 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 43.
+
+En el caso del número primero del artículo anterior, no podrá hacerse la anotación preventiva sino cuando se ordene por providencia judicial, dictada a instancia de parte legítima y en virtud de documento bastante al prudente arbitrio del juzgador.
+
+En el caso del número segundo del mismo artículo, cuando se trate de juicio ejecutivo, será obligatoria la anotación, según lo dispuesto en el artículo mil cuatrocientos cincuenta y tres de la Ley de Enjuiciamiento Civil.
+
+En el caso del número quinto del repetido artículo deberá hacerse también la anotación en virtud de providencia judicial, que podrá dictarse de oficio, cuando no hubiere interesados que la reclamen, siempre que el juzgador, a su prudente arbitrio, lo estime conveniente para asegurar el efecto de la sentencia que pueda recaer en el juicio.
+
+###### Artículo 44.
+
+El acreedor que obtenga anotación a su favor en los casos de los números segundo, tercero y cuarto del artículo cuarenta y dos, tendrá para el cobro de su crédito la preferencia establecida en el artículo mil novecientos veintitrés del Código Civil.
+
+###### Artículo 45.
+
+La adjudicación de bienes inmuebles de una herencia, concurso o quiebra, hecha o que se haga para pago de deudas reconocidas contra la misma universalidad de bienes no producirá garantía alguna de naturaleza real en favor de los respectivos acreedores, a no ser que en la misma adjudicación se hubiese estipulado expresamente.
+
+Los acreedores cuyos créditos consten en escritura pública o por sentencia firme podrán, sin embargo, obtener anotación preventiva de su derecho sobre las fincas que se hubieren adjudicado para pago de sus respectivos créditos, siempre que la soliciten dentro de los ciento ochenta días siguientes a la adjudicación, a no ser que conste en el Registro el pago de aquéllos.
+
+###### Artículo 46.
+
+El derecho hereditario, cuando no se haga especial adjudicación a los herederos de bienes concretos, cuotas o partes indivisas de los mismos, sólo podrá ser objeto de anotación preventiva. Esta anotación podrá ser solicitada por cualquiera de los que tengan derecho a la herencia o acrediten un interés legítimo en el derecho que se trate de anotar.
+
+Si la anotación fuere pedida por los herederos, legitimarios o personas que tengan derecho a promover el juicio de testamentaría, se hará mediante solicitud, acompañada de los documentos previstos en el artículo dieciséis. En los demás casos se practicará mediante providencia judicial, obtenida por los trámites establecidos en el artículo cincuenta y siete.
+
+El derecho hereditario anotado podrá transmitirse, gravarse y ser objeto de otra anotación.
+
+###### Artículo 47.
+
+El legatario de bienes inmuebles determinados o de créditos o pensiones consignados sobre ellos podrá pedir en cualquier tiempo anotación preventiva de su derecho.
+
+Esta anotación sólo podrá practicarse sobre los mismos bienes objeto del legado.
+
+###### Artículo 48.
+
+El legatario de género o cantidad podrá pedir la anotación preventiva de su valor, dentro de los ciento ochenta días siguientes a la muerte del testador, sobre cualesquiera bienes inmuebles de la herencia, bastantes para cubrirlo, siempre que no hubieren sido legados especialmente a otros.
+
+No será obstáculo para la anotación preventiva que otro legatario de género o cantidad haya obtenido otra anotación a su favor sobre los mismos bienes.
+
+###### Artículo 49.
+
+Si el heredero quisiere inscribir a su favor los bienes de la herencia o anotar su derecho hereditario dentro del expresado plazo de los ciento ochenta días, y no hubiere para ello impedimento legal, podrá hacerlo, con tal de que renuncien previamente y en escritura pública todos los legatarios a su derecho de anotación, o que en defecto de renuncia expresa se les notifique judicialmente, con treinta días de anticipación, la solicitud del heredero, a fin de que durante dicho término puedan hacer uso de aquel derecho.
+
+Si alguno de los legatarios no fuere persona cierta, el Juez o Tribunal mandará hacer la anotación preventiva de su legado, bien a instancia del mismo heredero o de otro interesado, bien de oficio.
+
+El heredero que solicitare la inscripción a su favor de los bienes de la herencia dentro de los referidos ciento ochenta días, podrá anotar preventivamente, desde luego, dicha solicitud.
+
+Esta anotación no se convertirá en inscripción definitiva hasta que los legatarios hayan obtenido o renunciado la anotación de sus legados o haya transcurrido el plazo de los ciento ochenta días.
+
+###### Artículo 50.
+
+El legatario que obtuviere anotación preventiva, será preferido a los acreedores del heredero que haya aceptado la herencia sin beneficio de inventario y a cualquiera otro que, con posterioridad a dicha anotación, adquiera algún derecho sobre los bienes anotados; pero entendiéndose que esta preferencia es solamente en cuanto al importe de dichos bienes.
+
+###### Artículo 51.
+
+La anotación preventiva dará preferencia, en cuanto al importe de los bienes anotados, a los legatarios que hayan hecho uso de su derecho dentro de los ciento ochenta días señalados en el artículo cuarenta y ocho, sobre los que no lo hicieren del suyo en el mismo término.
+
+Los que dentro de éste lo hayan realizado, no tendrán preferencia entre sí, sin perjuicio de la que corresponda al legatario de especie o a cualquiera otro, respecto de los demás, con arreglo a la legislación civil, tanto en ese caso como en el de no haber pedido su anotación.
+
+###### Artículo 52.
+
+El legatario que no lo fuere de especie y dejare transcurrir el plazo señalado en el artículo cuarenta y ocho sin hacer uso de su derecho, sólo podrá exigir después la anotación preventiva sobre los bienes de la herencia que subsistan en poder del heredero; pero no surtirá efecto contra el que antes haya adquirido o inscrito algún derecho sobre los bienes hereditarios.
+
+###### Artículo 53.
+
+El legatario que, transcurridos los ciento ochenta días, pidiese anotación sobre los bienes hereditarios que subsistan en poder del heredero, no obtendrá por ello preferencia alguna sobre los demás legatarios que omitan esta formalidad, ni logrará otra ventaja que la de ser antepuesto para el cobro de su legado a cualquier acreedor del heredero que con posterioridad adquiera algún derecho sobre los bienes anotados.
+
+###### Artículo 54.
+
+La anotación pedida fuera de término podrá hacerse sobre bienes anotados dentro de él a favor de otro legatario, siempre que subsistan en poder del heredero; pero el legatario que la obtuviere no cobrará su legado sino en cuanto alcanzare el importe de los bienes, después de satisfechos los que dentro del término hicieron su anotación.
+
+###### Artículo 55.
+
+La anotación preventiva de los legados y de los créditos refaccionarios no se decretará judicialmente sin audiencia previa y sumaria de los que puedan tener interés en contradecirla.
+
+###### Artículo 56.
+
+La anotación preventiva de legados podrá hacerse por convenio entre las partes o por mandato judicial, presentando al efecto en el Registro el título en que se funde el derecho del legatario.
+
+###### Artículo 57.
+
+Cuando hubiere de hacerse la anotación de legados o de derecho hereditario por mandato judicial, acudirá el interesado al Juez o Tribunal competente exponiendo su derecho, presentando los títulos en que se funde y señalando los bienes que pretenda anotar. El Juez o Tribunal, oyendo a los interesados en juicio verbal, dictará providencia, bien denegando la pretensión o bien accediendo a ella.
+
+En este último caso señalará los bienes que hayan de ser anotados y el Secretario judicial librará el correspondiente mandamiento al Registrador, con inserción literal de lo prevenido para que lo ejecute.
+
+> Se modifica el párrafo segundo por el art. 3.2 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+###### Artículo 58.
+
+Si pedida judicialmente la anotación por un legatario acudiere otro ejercitando igual derecho respecto a los mismos bienes, será también oído en el juicio.
+
+###### Artículo 59.
+
+El acreedor refaccionario podrá exigir anotación sobre la finca refaccionada por las cantidades que, de una vez o sucesivamente, anticipare, presentando el contrato por escrito que en cualquier forma legal haya celebrado con el deudor.
+
+Esta anotación surtirá, respecto al crédito refaccionario, todos los efectos de la hipoteca.
+
+###### Artículo 60.
+
+No será necesario que los títulos en cuya virtud se pida la anotación preventiva de créditos refaccionarios determinen fijamente la cantidad de dinero o efectos en que consistan los mismos créditos, y bastará que contengan los datos suficientes para liquidarlos al terminar las obras contratadas.
+
+###### Artículo 61.
+
+Si la finca que haya de ser objeto de la refacción estuviere sujeta a cargas o derechos reales inscritos, no se hará la anotación, sino bien en virtud de convenio unánime por escritura pública entre el propietario y las personas a cuyo favor estuvieren constituidas aquéllas sobre el objeto de la refacción misma y el valor de la finca antes de empezar las obras, o bien en virtud de providencia judicial, dictada en expediente instruido para hacer constar dicho valor, y con citación de todas las indicadas personas.
+
+###### Artículo 62.
+
+Si alguno de los que tuvieren a su favor las cargas o derechos reales expresados en el artículo anterior no fuere persona cierta, estuviere ausente, ignorándose su paradero, o negare su consentimiento, no podrá hacerse la anotación sino por providencia judicial.
+
+###### Artículo 63.
+
+El valor que en cualquier forma se diere a la finca que ha de ser refaccionada, antes de empezar las obras, se hará constar en la anotación del crédito.
+
+###### Artículo 64.
+
+Las personas a cuyo favor estuvieren constituidos derechos reales sobre la finca refaccionada, cuyo valor se haga constar en la forma prescrita en los artículos precedentes, conservarán su derecho de preferencia respecto al acreedor refaccionario, pero solamente por un valor igual al que se hubiere declarado a la misma finca.
+
+El acreedor refaccionario será considerado como hipotecario respecto a lo que exceda el valor de la finca al de las cargas o derechos reales anteriormente mencionados, y en todo caso, respecto a la diferencia entre el precio dado a la misma finca antes de las obras y el que alcanzare en su enajenación judicial.
+
+###### Artículo 65.
+
+Las faltas de los títulos sujetos a inscripción pueden ser subsanables o insubsanables.
+
+Si el título tuviere alguna falta subsanable, el Registrador suspenderá la inscripción y extenderá anotación preventiva cuando la solicite el que presentó el título.
+
+En el caso de contener alguna falta insubsanable se denegará la inscripción, sin poder hacerse la anotación preventiva.
+
+Para distinguir las faltas subsanables de las insubsanables y extender o no, en su consecuencia, la anotación preventiva a que se refiere este artículo, atenderá el Registrador tanto al contenido como a las formas y solemnidades del título y a los asientos del Registro con él relacionados.
+
+###### Artículo 66.
+
+Los interesados podrán reclamar contra el acuerdo de calificación del registrador, por el cual suspende o deniega el asiento solicitado. La reclamación podrá iniciarse ante la Dirección General de los Registros y del Notariado o bien directamente ante el Juzgado de Primera Instancia competente. Sin perjuicio de ello, podrán también acudir, si quieren, a los Tribunales de Justicia para ventilar y contender entre sí acerca de la validez o nulidad de los mismos títulos. En el caso de que se suspendiera la inscripción por faltas subsanables del título y no se solicitare la anotación preventiva, podrán los interesados subsanar las faltas en los sesenta días que duran los efectos del asiento de presentación. Si se extiende la anotación preventiva, podrá hacerse en el tiempo que ésta subsista, según el artículo 96 de esta Ley.
+
+Cuando se hubiere denegado la inscripción y el interesado, dentro de los sesenta días siguientes al de la fecha del asiento de presentación, propusiera demanda ante los Tribunales de Justicia para que se declare la validez del título, podrá pedirse anotación preventiva de la demanda, y la que se practique se retrotraerá a la fecha del asiento de presentación. Después de dicho término no surtirá efecto la anotación preventiva de la demanda, sino desde su fecha.
+
+En el caso de recurrir contra la calificación, todos los términos expresados en los dos párrafos anteriores quedarán en suspenso desde el día en que se interponga la demanda o el recurso hasta el de su resolución definitiva.
+
+> Se modifican los párrafos primero y tercero por el art. 31.1 y 2 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+###### Artículo 67.
+
+En el caso de hacerse la anotación por no poderse practicar la inscripción por falta de algún requisito subsanable, podrá exigir el interesado que el Registrador le dé copia de dicha anotación, autorizada con su firma, en la cual conste si hay o no pendientes de registro algunos otros títulos relativos al mismo inmueble y cuáles sean éstos, en su caso.
+
+###### Artículo 68.
+
+Las providencias decretando o denegando la anotación preventiva en los casos primero, quinto, sexto y séptimo del artículo cuarenta y dos serán apelables en un solo efecto.
+
+En el caso octavo del mismo artículo será apelable en ambos la providencia cuando se haya opuesto a la anotación el que tuviere a su favor algún derecho real anterior sobre el inmueble anotado.
+
+###### Artículo 69.
+
+El que pudiendo pedir la anotación preventiva de un derecho, dejase de hacerlo dentro de término señalado al efecto, no podrá después inscribirlo o anotarlo a su favor en perjuicio de tercero que haya inscrito el mismo derecho, adquiriéndolo de persona que aparezca en el Registro con facultad de transmitirlo.
+
+###### Artículo 70.
+
+Cuando la anotación preventiva de un derecho se convierta en inscripción definitiva del mismo, surtirá ésta sus efectos desde la fecha de la anotación.
+
+###### Artículo 71.
+
+Los bienes inmuebles o derechos reales anotados podrán ser enajenados o gravados, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+
+###### Artículo 72.
+
+Las anotaciones preventivas contendrán las circunstancias que se exigen para las inscripciones en cuanto resulten de los títulos o documentos presentados para exigir las mismas anotaciones.
+
+Las que deban su origen a providencia de embargo o secuestro expresarán la causa que haya dado lugar a ello, y el importe de la obligación que los hubiere originado.
+
+###### Artículo 73.
+
+Todo mandamiento judicial disponiendo hacer una anotación preventiva expresará las circunstancias que deba ésta contener, según lo prevenido en el artículo anterior, si resultasen de los títulos y documentos que se hayan tenido a la vista para dictar la providencia de anotación.
+
+Cuando la anotación deba comprender todos los bienes de una persona, como en los casos de incapacidad y otros análogos, el Registrador anotará todos los que se hallen inscritos a su favor.
+
+También podrán anotarse en este caso los bienes no inscritos, siempre que el Juez o el Tribunal lo ordene y se haga previamente su inscripción a favor de la persona gravada por dicha anotación.
+
+###### Artículo 74.
+
+Si los títulos o documentos en cuya virtud se pida judicial o extrajudicialmente, la anotación preventiva no contuvieren las circunstancias que ésta necesite para su validez, se consignarán dichas circunstancias por los interesados en el escrito en que, de común acuerdo, soliciten la anotación. No habiendo avenencia, el que solicite la anotación consignará en el escrito en que la pida dichas circunstancias, y, previa audiencia del otro interesado sobre su exactitud, el Juez o Tribunal decidirá lo que proceda.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 75.
+
+La anotación preventiva será nula cuando por ella no pueda venirse en conocimiento de la finca o derecho anotado, de la persona a quien afecte la anotación o de la fecha de ésta.
+
+### TÍTULO IV — De la extinción de las inscripciones y anotaciones preventivas
+
+###### Artículo 76.
+
+Las inscripciones no se extinguen, en cuanto a tercero, sino por su cancelación o por la inscripción de la transferencia del dominio o derecho real inscrito a favor de otra persona.
+
+###### Artículo 77.
+
+Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en inscripción.
+
+###### Artículo 78.
+
+La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
+
+###### Artículo 79.
+
+Podrá pedirse y deberá ordenarse, en su caso, la cancelación total de las inscripciones o anotaciones preventivas:
+
+Primero. Cuando se extinga por completo el inmueble objeto de las mismas.
+
+Segundo. Cuando se extinga también por completo el derecho inscrito o anotado.
+
+Tercero. Cuando se declare la nulidad del título en cuya virtud se hayan hecho.
+
+Cuarto. Cuando se declare su nulidad por falta de alguno de sus requisitos esenciales, conforme a lo dispuesto en esta Ley.
+
+###### Artículo 80.
+
+Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
+
+Primero. Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva.
+
+Segundo. Cuando se reduzca el derecho inscrito o anotado.
+
+###### Artículo 81.
+
+La ampliación de cualquier derecho inscrito será objeto de una nueva inscripción, en la cual se hará referencia a la del derecho ampliado.
+
+###### Artículo 82.
+
+Las inscripciones o anotaciones preventivas hechas en virtud de escritura pública no se cancelarán sino por sentencia contra la cual no se halle pendiente recurso de casación, o por otra escritura o documento auténtico en la cual preste su consentimiento para la cancelación la persona a cuyo favor se hubiere hecho la inscripción o anotación, o sus causahabientes o representantes legítimos. La cancelación de inscripciones o anotaciones preventivas a favor del deudor, de los acreedores o de las partes afectadas que resulte de un plan de reestructuración homologado respecto a quienes lo hubieran suscrito o a quienes se les hubieran extendido sus efectos se practicará por testimonio del auto de homologación de ese acuerdo.
+
+Podrán, no obstante, ser canceladas sin dichos requisitos cuando el derecho inscrito o anotado quede extinguido por declaración de la Ley o resulte así del mismo título en cuya virtud se practicó la inscripción o anotación preventiva.
+
+Si constituida la inscripción o anotación por escritura pública, procediere su cancelación y no consintiere en ella aquel a quien ésta perjudique, podrá el otro interesado exigirla en juicio ordinario.
+
+Lo dispuesto en el presente artículo se entiende sin perjuicio de las normas especiales que sobre determinadas cancelaciones se comprenden en esta Ley.
+
+A solicitud del titular registral de cualquier derecho sobre la finca afectada, podrá procederse a la cancelación de condiciones resolutorias en garantía del precio aplazado a que se refiere el artículo 11 de esta Ley y de hipotecas en garantía de cualquier clase de obligación, para las que no se hubiera pactado un plazo concreto de duración, cuando haya transcurrido el plazo señalado en la legislación civil aplicable para la prescripción de la acciones derivadas de dichas garantías o el más breve que a estos efectos se hubiera estipulado al tiempo de su constitución, contados desde el día en que la prestación cuyo cumplimiento se garantiza debió ser satisfecha en su totalidad según el Registro, siempre que dentro del año siguiente no resulte del mismo que han sido renovadas, interrumpida la prescripción o ejecutada debidamente la hipoteca.
+
+> Se modifica el párrafo primero por la disposición final 2.2 de la Ley 16/2022, de 5 de septiembre. [Ref. BOE-A-2022-14580](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14580)
+
+> Se añade el párrafo quinto por la disposición adicional 27 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 83.
+
+Las inscripciones o anotaciones hechas en virtud de mandamiento judicial no se cancelarán sino por providencia ejecutoria.
+
+Si los interesados convinieren válidamente en la cancelación, acudirán al Juez o al Tribunal competente por medio de un escrito, manifestándolo así, y después de ratificarse en su contenido, si no hubiere ni pudiere haber perjuicio para tercero, se dictará providencia ordenando la cancelación.
+
+También dictará el Juez o el Tribunal la misma providencia cuando sea procedente, aunque no consienta en la cancelación la persona en cuyo favor se hubiere hecho.
+
+###### Artículo 84.
+
+Será competente para ordenar la cancelación de una anotación preventiva o su conversión en inscripción definitiva el Juez o Tribunal que la haya mandado hacer o aquel a quien haya correspondido legalmente el conocimiento del negocio que dio lugar a ella.
+
+###### Artículo 85.
+
+La anotación preventiva se cancelará no sólo cuando se extinga el derecho anotado, sino también cuando en la escritura se convenga o en la providencia se disponga convertirla en inscripción definitiva.
+
+Si se hubiere hecho la anotación sin escritura pública y se tratase de cancelarla sin convertirla en inscripción definitiva, podrá hacerse también la cancelación mediante documentos de la misma especie que los que se hubieren presentado para hacer la anotación.
+
+###### Artículo 86.
+
+Las anotaciones preventivas, cualquiera que sea su origen, caducarán a los cuatro años de la fecha de la anotación misma, salvo aquellas que tengan señalado en la Ley un plazo más breve. No obstante, a instancia de los interesados o por mandato de las autoridades que las decretaron, podrán prorrogarse por un plazo de cuatro años más, siempre que el mandamiento ordenando la prórroga sea presentado antes de que caduque el asiento. La anotación prorrogada caducará a los cuatro años de la fecha de la anotación misma de prórroga. Podrán practicarse sucesivas ulteriores prórrogas en los mismos términos.
+
+La caducidad de las anotaciones preventivas se hará constar en el Registro a instancia del dueño del inmueble o derecho real afectado.
+
+> Se modifica por la disposición final 9.2 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323).
+
+###### Artículo 87.
+
+La anotación preventiva a favor del legatario que no lo sea de especie, caducará al año de su fecha.
+
+Si el legado no fuere exigible a los diez meses, se considerará subsistente la anotación hasta dos meses después de la fecha en que pueda exigirse.
+
+Si antes de extinguirse la anotación preventiva resultare ser insuficiente para la seguridad del legado, por razón de las cargas o condiciones especiales de los bienes sobre que recaiga, podrá pedir el legatario que se constituya otra sobre bienes diferentes, siempre que los haya en la herencia susceptibles de ser anotados.
+
+###### Artículo 88.
+
+El legatario de rentas o pensiones periódicas impuestas por el testador determinadamente a cargo de alguno de los herederos o de otros legatarios, sin declarar personal esta obligación, tendrá derecho, dentro del plazo señalado en el artículo anterior, a exigir que la anotación preventiva que oportunamente hubiere constituido de su derecho, se convierta en inscripción de hipoteca.
+
+###### Artículo 89.
+
+El heredero o legatario gravado con la pensión deberá constituir la hipoteca de que trata el artículo anterior sobre los mismos bienes objeto de la anotación, si se le adjudicaren, o sobre cualesquiera otros inmuebles de la herencia que se le adjudiquen.
+
+La elección corresponderá, en todo caso, a dicho heredero o legatario gravado, y el pensionista deberá admitir la hipoteca que aquél le ofrezca, siempre que sea bastante y la imponga sobre bienes procedentes de la herencia.
+
+###### Artículo 90.
+
+El pensionista que no hubiere obtenido anotación preventiva podrá exigir también en cualquier tiempo la constitución de hipoteca en garantía de su derecho sobre los bienes de la herencia que subsistan en poder del heredero o se hayan adjudicado al heredero o legatario gravado, con sujeción a lo dispuesto en el artículo anterior.
+
+La inscripción de la hipoteca, en este caso, no surtirá efecto sino desde su fecha.
+
+###### Artículo 91.
+
+El pensionista que hubiere obtenido anotación preventiva no podrá exigir que se le hipotequen bienes distintos de los anotados, si éstos fueran suficientes para asegurar el legado. Si no lo fueran, podrá exigir el complemento de su hipoteca sobre otros bienes de la herencia, pero con sujeción, en cuanto a estos últimos, a lo dispuesto en el segundo párrafo del artículo anterior.
+
+###### Artículo 92.
+
+La anotación a favor del acreedor refaccionario caducará a los sesenta días de concluida la obra objeto de la refacción.
+
+###### Artículo 93.
+
+El acreedor refaccionario podrá pedir la conversión de su anotación preventiva en inscripción de hipoteca, si al expirar el término señalado en el artículo anterior no estuviere aún pagado por completo de su crédito, por no haber vencido el plazo estipulado en el contrato.
+
+Si el plazo estuviere vencido, podrá el acreedor, o prorrogarlo mediante dicha conversión, o exigir el pago desde luego, para lo cual surtirá la anotación todos los efectos de la hipoteca.
+
+###### Artículo 94.
+
+Para convertir en inscripción de hipoteca la anotación de crédito refaccionario se liquidará éste, si no fuere líquido, y se otorgará escritura pública.
+
+###### Artículo 95.
+
+Las cuestiones que se susciten entre el acreedor y el deudor sobre la liquidación del crédito refaccionario o sobre la constitución de la hipoteca se decidirán en juicio ordinario. Mientras éste se sustancie y termine, subsistirá la anotación preventiva y producirá todos sus efectos.
+
+###### Artículo 96.
+
+La anotación preventiva por defectos subsanables del título caducará a los sesenta días de su fecha.
+
+Este plazo se podrá prorrogar hasta ciento ochenta días por justa causa y en virtud de providencia judicial.
+
+###### Artículo 97.
+
+Cancelado un asiento se presume extinguido el derecho a que dicho asiento se refiera.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 98.
+
+Los derechos personales no asegurados especialmente, las menciones de derechos susceptibles de inscripción especial y separada y los legados no legitimarios que no hayan sido anotados preventivamente dentro del plazo legal no tendrán la consideración de gravámenes a los efectos de esta Ley y serán cancelados por el Registrador a instancia de parte interesada.
+
+###### Artículo 99.
+
+Los Registradores calificarán, bajo su responsabilidad, la legalidad de los documentos en cuya virtud se soliciten las cancelaciones y la capacidad de los otorgantes, en los términos prevenidos para las inscripciones por los artículos dieciocho y concordantes de esta Ley.
+
+###### Artículo 100.
+
+Los Registradores calificarán también, bajo su responsabilidad, la competencia de los Jueces o Tribunales que ordenen las cancelaciones, cuando no firmare el despacho el mismo que hubiere decretado la inscripción o anotación preventiva.
+
+Si dudaren de la competencia del Juez o Tribunal darán cuenta al presidente de la Audiencia respectiva, el cual decidirá lo que estime procedente.
+
+###### Artículo 101.
+
+Cuando el Presidente de la Audiencia declare la competencia del Juez o Tribunal, el Registrador hará desde luego la cancelación.
+
+Si declara la incompetencia, el mismo Registrador comunicará esta decisión al interesado, devolviéndole el despacho.
+
+###### Artículo 102.
+
+Contra la decisión del Presidente podrá recurrirse, tanto por los Jueces y Tribunales como por los interesados, a la Audiencia, la cual, oyendo a las partes, determinará lo que estime justo.
+
+###### Artículo 103.
+
+La cancelación de toda inscripción o anotación preventiva contendrá necesariamente las siguientes circunstancias:
+
+Primera. La clase y fecha del documento en cuya virtud se haga la cancelación y el nombre del Notario que lo haya autorizado o el del Juez, Tribunal o Autoridad que lo hubiere expedido.
+
+Segunda. El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación.
+
+Tercera. La expresión de quedar cancelado total o parcialmente el asiento de que se trate.
+
+Cuarta. La parte del inmueble que haya desaparecido, o la parte del derecho que se extinga y la que subsista, cuando se trate de cancelación parcial.
+
+Quinta. La fecha de la presentación en el Registro del título en que se haya convenido o mandado la cancelación.
+
+Cuando la cancelación se practique en el caso del párrafo segundo del artículo ochenta y dos, se expresará la razón determinante de la extinción del derecho inscrito o anotado.
+
+Cuando se cancele una anotación preventiva en virtud de documento privado, cuyas firmas no se hallen legitimadas, la cancelación expresará la fe de conocimiento por el Registrador, de los que suscriban el documento o de los testigos, en su defecto.
+
+La omisión de cualquiera de estas circunstancias determinará la nulidad del asiento de cancelación.
+
+### TÍTULO IV BIS — De la conciliación
+
+> Se añade por la disposición final 12.2 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
+
+###### Artículo 103 bis.
+
+1\. Los Registradores serán competentes para conocer de los actos de conciliación sobre cualquier controversia inmobiliaria, urbanística y mercantil o que verse sobre hechos o actos inscribibles en el Registro de la Propiedad, Mercantil u otro registro público que sean de su competencia, siempre que no recaiga sobre materia indisponible, con la finalidad de alcanzar un acuerdo extrajudicial. La conciliación por estas controversias puede también celebrarse, a elección de los interesados, ante Notario o Secretario judicial.
+
+Las cuestiones previstas en la Ley Concursal no podrán conciliarse siguiendo este trámite.
+
+2\. Celebrado el acto de conciliación, el Registrador certificará la avenencia entre los interesados o, en su caso, que se intentó sin efecto o avenencia. La certificación estará dotada de eficacia ejecutiva en los términos del número 9.º del apartado 2 del artículo 517 de la Ley de Enjuiciamiento Civil. La ejecución se tramitará conforme a lo previsto para los títulos ejecutivos extrajudiciales.
+
+> Se modifica el apartado 2, con efectos de 3 de abril de 2025, por la disposición final 3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
+
+> Se añade por la disposición final 12.2 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
+
+### TÍTULO V — De las hipotecas
+
+#### Sección 1.ª De la hipoteca en general
+
+###### Artículo 104.
+
+La hipoteca sujeta directa e inmediatamente los bienes sobre que se impone, cualquiera que sea su poseedor, al cumplimiento de la obligación para cuya seguridad fue constituida.
+
+###### Artículo 105.
+
+La hipoteca podrá constituirse en garantía de toda clase de obligaciones y no alterará la responsabilidad personal ilimitada del deudor que establece el artículo mil novecientos once del Código Civil.
+
+###### Artículo 106.
+
+Podrán ser hipotecados:
+
+Primero. Los bienes inmuebles susceptibles de inscripción.
+
+Segundo. Los derechos reales enajenables, con arreglo a las leyes, impuestos sobre los mismos bienes.
+
+###### Artículo 107.
+
+Podrán también hipotecarse:
+
+Primero. El derecho de usufructo, pero quedando extinguida la hipoteca, cuando concluya el mismo usufructo por un hecho ajeno a la voluntad del usufructuario. Si concluyere por su voluntad, subsistirá la hipoteca hasta que se cumpla la obligación asegurada, o hasta que venza el tiempo en que el usufructo habría naturalmente concluido a no mediar el hecho que le puso fin.
+
+Segundo. La mera propiedad, en cuyo caso, si el usufructo se consolidare con ella en la persona del propietario, no sólo subsistirá la hipoteca, sino que se extenderá también al mismo usufructo, como no se haya pactado lo contrario.
+
+Tercero. Los bienes anteriormente hipotecados, aunque lo estén con el pacto de no volverlos a hipotecar.
+
+Cuarto. El derecho de hipoteca voluntaria, pero quedando pendiente la que se constituya sobre él, de la resolución del mismo derecho.
+
+Quinto. Los derechos de superficie, pastos, aguas, leñas y otros semejantes de naturaleza real.
+
+Sexto. Las concesiones administrativas de minas, ferrocarriles, canales, puentes y otras obras destinadas al servicio público, y los edificios o terrenos que, no estando directa y exclusivamente destinados al referido servicio, pertenezcan al dominio particular, si bien se hallen agregados a aquellas obras, quedando pendiente la hipoteca, en el primer caso, de la resolución del derecho del concesionario.
+
+Séptimo. Los bienes vendidos con pacto de retro o a carta de gracia, si el comprador o su causahabiente limita la hipoteca a la cantidad que deba recibir en caso de resolverse la venta, dándose conocimiento del contrato al vendedor, a fin de que si se retrajeren los bienes antes de cancelarse la hipoteca, no devuelva el precio sin conocimiento del acreedor, a no mediar para ello precepto judicial.
+
+Octavo. El derecho de retracto convencional, si bien el acreedor no podrá repetir contra los bienes hipotecados sin retraerlos previamente en nombre del deudor, en el tiempo en que éste tenga derecho y anticipando la cantidad que para ello fuere necesaria.
+
+Si el vendedor ejercita el derecho de retracto no sólo subsistirá la hipoteca, sino que ésta recaerá directamente sobre los bienes retraídos.
+
+Noveno. Los bienes litigiosos, si la demanda origen del pleito se ha anotado preventivamente, o si se hace constar en la inscripción que el acreedor tenía conocimiento del litigio, pero en cualquiera de los dos casos la hipoteca quedará pendiente de la resolución del pleito.
+
+Décimo. Los bienes sujetos a condiciones resolutorias expresas, quedando extinguida la hipoteca al resolverse el derecho del hipotecante.
+
+Undécimo. Los pisos o locales de un edificio en régimen de propiedad horizontal inscritos conforme a lo que determina el artículo octavo.
+
+Duodécimo. El derecho del rematante sobre los inmuebles subastados en un procedimiento judicial. Una vez satisfecho el precio del remate e inscrito el dominio en favor del rematante, la hipoteca subsistirá, recayendo directamente sobre los bienes adjudicados.
+
+> Se añade el apartado 12 por la disposición final 9.3 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323).
+
+> Se modifica el apartado 11 por el art. 2 de la Ley 49/1960, de 21 de julio. [Ref. BOE-A-1960-10906](https://www.boe.es/buscar/doc.php?id=BOE-A-1960-10906).
+
+###### Artículo 108.
+
+No se podrán hipotecar:
+
+Primero. Las servidumbres, a menos que se hipotequen juntamente con el predio dominante, y exceptuándose, en todo caso, la de aguas, la cual podrá ser hipotecada.
+
+Segundo. Los usufructos legales, excepto el concedido al cónyuge viudo por el Código Civil.
+
+Tercero. El uso y la habitación.
+
+###### Artículo 109.
+
+La hipoteca se extiende a las accesiones naturales, a las mejoras y al importe de las indemnizaciones concedidas o debidas al propietario por razón de los bienes hipotecados.
+
+###### Artículo 110.
+
+Conforme a lo dispuesto en el artículo anterior, se entenderán hipotecados juntamente con la finca, aunque no se mencionen en el contrato, siempre que correspondan al propietario:
+
+Primero. Las mejoras que consistan en nuevas plantaciones, obras de riego o desagüe, obras de reparación, seguridad, transformación, comodidad, adorno o elevación de los edificios y cualesquiera otras semejantes que no consistan en agregación de terrenos, excepto por accesión natural, o en nueva construcción de edificios donde antes no los hubiere.
+
+Segundo. Las indemnizaciones concedidas o debidas al propietario de los inmuebles hipotecados por razón de éstos, siempre que el siniestro o hecho que las motivare haya tenido lugar después de la constitución de la hipoteca y, asimismo, las procedentes de la expropiación de los inmuebles por causa de utilidad pública. Si cualquiera de estas indemnizaciones debiera hacerse efectiva antes del vencimiento de la obligación asegurada y quien haya de satisfacerlas hubiere sido notificado previamente de la existencia de la hipoteca, se depositará su importe en la forma que convengan los interesados o, en defecto de convenio, en la establecida por los artículos 1.176 y siguientes del Código Civil.
+
+###### Artículo 111.
+
+Salvo pacto expreso o disposición legal en contrario, la hipoteca, cualquiera que sea la naturaleza y forma de la obligación que garantice, no comprenderá:
+
+Primero. Los animales colocados o destinados en una finca dedicada a la explotación ganadera, industrial o de recreo.
+
+No cabe el pacto de extensión de la hipoteca a los animales de compañía.
+
+Primero bis. Los objetos muebles que se hallen colocados permanentemente en la finca hipotecada, bien para su adorno, comodidad o explotación, o bien para el servicio de alguna industria, a no ser que no puedan separarse sin quebranto de la materia o deterioro del objeto.
+
+Segundo. Los frutos, cualquiera que sea la situación en que se encuentren.
+
+Tercero. Las rentas vencidas y no satisfechas al tiempo de exigirse el cumplimiento de la obligación garantizada.
+
+> Se añade un nuevo apartado primero, pasando el actual apartado primero a ser primero bis, por el art. 2 de la Ley 17/2021, de 15 de diciembre de 2021. [Ref. BOE-A-2021-20727](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20727)
+
+###### Artículo 112.
+
+Cuando la finca hipotecada pasare a un tercer poseedor, no será extensiva la hipoteca a los muebles colocados permanentemente en los edificios, ni a las mejoras que no consistan en obras de reparación, seguridad o transformación, siempre que unos u otras se hayan costeado por el nuevo dueño, ni a los frutos pendientes y rentas vencidas que sean de la pertenencia del mismo.
+
+###### Artículo 113.
+
+El dueño de las accesiones o mejoras que no se entiendan hipotecadas, según lo dispuesto en el artículo anterior, podrá exigir su importe en todo caso o bien retener los objetos en que consistan, si esto último pudiere hacerse sin menoscabo del valor del resto de la finca.
+
+Si exigiere su importe no podrá detener el cumplimiento de la obligación principal bajo el pretexto de hacer efectivo su derecho, sino que habrá de cobrar lo que le corresponda con el precio de la misma finca cuando se enajene para pagar el crédito.
+
+Si las accesiones o mejoras no pudieran separarse sin menoscabo de la finca, el dueño de las mismas cobrará su importe, aunque la cantidad restante no alcance para cubrir el crédito hipotecario; mas si pudieran ser separadas sin dicho menoscabo y aquél hubiere optado, sin embargo, por no llevárselas, se enajenarán con separación del predio, y su precio, tan sólo, quedará a disposición de dicho dueño.
+
+###### Artículo 114.
+
+Salvo pacto en contrario, la hipoteca constituida a favor de un crédito que devengue interés no asegurará, con perjuicio de tercero, además del capital, sino los intereses de los dos últimos años transcurridos y la parte vencida de la anualidad corriente.
+
+En ningún caso podrá pactarse que la hipoteca asegure intereses por plazo superior a cinco años.
+
+En el caso de préstamo o crédito concluido por una persona física que esté garantizado mediante hipoteca sobre bienes inmuebles para uso residencial, el interés de demora será el interés remuneratorio más tres puntos porcentuales a lo largo del período en el que aquel resulte exigible. El interés de demora sólo podrá devengarse sobre el principal vencido y pendiente de pago y no podrá ser capitalizado en ningún caso, salvo en el supuesto previsto en el artículo 579.2.a) de la Ley de Enjuiciamiento Civil. Las reglas relativas al interés de demora contenidas en este párrafo no admitirán pacto en contrario.
+
+> Se modifica el párrafo tercero, con efectos de 16 de junio de 2019, por la disposición final 1.2 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
+
+> Se añade el tercer párrafo por el art. 3.2 de la Ley 1/2013, de 14 de mayo. [Ref. BOE-A-2013-5073](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5073).
+
+###### Artículo 115.
+
+Para asegurar los intereses vencidos y no satisfechos que no estuvieren garantizados conforme al artículo anterior el acreedor podrá exigir del deudor ampliación de la hipoteca sobre los mismos bienes hipotecados.
+
+Esta ampliación no perjudicará en ningún caso los derechos reales inscritos con anterioridad a ella.
+
+Si la finca hipotecada no perteneciera al deudor no podrá el acreedor exigir que se constituya sobre ella la referida ampliación, pero podrá ejercitar igual derecho respecto a cualesquiera otros bienes inmuebles del deudor que puedan ser hipotecados.
+
+###### Artículo 116.
+
+El acreedor por pensiones atrasadas de censo no podrá repetir contra la finca acensuada, con perjuicio de otro acreedor, hipotecario o censualista posterior, sino en los términos y con las restricciones establecidas en los artículos ciento catorce y párrafos primero y segundo del ciento quince; pero podrá exigir hipoteca en el caso y con las limitaciones que tiene derecho a hacerlo el acreedor hipotecario, cualquiera que sea el poseedor de la finca acensuada.
+
+###### Artículo 117.
+
+Cuando la finca hipotecada se deteriorare, disminuyendo de valor, por dolo, culpa o voluntad del dueño, podrá el acreedor hipotecario solicitar del Juez de Primera Instancia del partido en que esté situada la finca, que le admita justificación sobre estos hechos; y si de la que diere resultare su exactitud y fundado el temor de que sea insuficiente la hipoteca, se dictará providencia mandando al propietario hacer o no hacer lo que proceda para evitar o remediar el daño.
+
+Si después insistiere el propietario en el abuso, dictará el Juez nueva providencia poniendo el inmueble en administración judicial.
+
+En todos estos casos se seguirá el procedimiento establecido en los artículos setecientos veinte y siguientes de la Ley de Enjuiciamiento Civil.
+
+###### Artículo 118.
+
+En caso de venta de finca hipotecada, si el vendedor y el comprador hubieren pactado que el segundo se subrogará no sólo en las responsabilidades derivadas de la hipoteca, sino también en la obligación personal con ella garantizada, quedará el primero desligado de dicha obligación, si el acreedor prestare su consentimiento expreso o tácito.
+
+Si no se hubiere pactado la transmisión de la obligación garantizada, pero el comprador hubiere descontado su importe del precio de la venta, o lo hubiese retenido y al vencimiento de la obligación fuere ésta satisfecha por el deudor que vendió la finca, quedará subrogado éste en el lugar del acreedor hasta tanto que por el comprador se le reintegre el total importe retenido o descontado.
+
+###### Artículo 119.
+
+Cuando se hipotequen varias fincas a la vez por un solo crédito, se determinará la cantidad o parte de gravamen de que cada una deba responder.
+
+###### Artículo 120.
+
+Fijada en la inscripción la parte de crédito de que deba responder cada uno de los bienes hipotecados, no se podrá repetir contra ellos con perjuicio de tercero, sino por la cantidad a que respectivamente estén afectos y la que a la misma corresponda por razón de intereses, con arreglo a lo prescrito en los anteriores artículos.
+
+###### Artículo 121.
+
+Lo dispuesto en el artículo anterior se entenderá sin perjuicio de que, si la hipoteca no alcanzare a cubrir la totalidad del crédito, pueda el acreedor repetir por la diferencia contra las demás fincas hipotecadas que conserve el deudor en su poder; pero sin prelación, en cuanto a dicha diferencia, sobre los que, después de inscrita la hipoteca, hayan adquirido algún derecho real en las mismas fincas.
+
+###### Artículo 122.
+
+La hipoteca subsistirá íntegra, mientras no se cancele, sobre la totalidad de los bienes hipotecados, aunque se reduzca la obligación garantizada, y sobre cualquiera parte de los mismos bienes que se conserve, aunque la restante haya desaparecido; pero sin perjuicio de lo que se dispone en los dos siguientes artículos.
+
+###### Artículo 123.
+
+Si una finca hipotecada se dividiere en dos o más, no se distribuirá entre ellas el crédito hipotecario, sino cuando voluntariamente lo acordaren el acreedor y el deudor. No verificándose esta distribución, podrá repetir el acreedor por la totalidad de la suma asegurada contra cualquiera de las nuevas fincas en que se haya dividido la primera o contra todas a la vez.
+
+###### Artículo 124.
+
+Dividida la hipoteca constituida para la seguridad de un crédito entre varias fincas, y pagada la parte del mismo crédito con que estuviere gravada alguna de ellas, se podrá exigir por aquel a quien interese la cancelación parcial de la hipoteca en cuanto a la misma finca. Si la parte de crédito pagada se pudiere aplicar a la liberación de una o de otra de las fincas gravadas por no ser inferior al importe de la responsabilidad especial de cada una, el deudor elegirá la que haya de quedar libre.
+
+###### Artículo 125.
+
+Cuando sea una la finca hipotecada, o cuando siendo varias no se haya señalado la responsabilidad de cada una, por ocurrir el caso previsto en el artículo ciento veintitrés, no se podrá exigir la liberación de ninguna parte de los bienes hipotecados, cualquiera que sea la del crédito que el deudor haya satisfecho.
+
+###### Artículo 126.
+
+Cuando en juicio ejecutivo seguido conforme a las disposiciones de la Ley de Enjuiciamiento Civil se persiguieren bienes hipotecados, y éstos hubiesen pasado a poder de un tercer poseedor, podrá el acreedor reclamar de éste el pago de la parte de crédito asegurada con los que el mismo posee, si al vencimiento del plazo no lo verifica el deudor después de requerido judicialmente o por Notario.
+
+Requerido el tercer poseedor de uno de los dos modos expresados en el párrafo anterior, deberá verificar el pago del crédito con los intereses correspondientes, conforme a lo dispuesto en el artículo ciento catorce, o desamparar los bienes hipotecados.
+
+Si el tercer poseedor no paga ni desampara los bienes será responsable con los suyos propios, además de los hipotecados, de los intereses devengados desde el requerimiento y de las costas judiciales a que por su morosidad diere lugar. En el caso de que el tercer poseedor desampare los bienes hipotecados, se considerarán éstos en poder del deudor, a fin de que pueda dirigirse contra los mismos el procedimiento ejecutivo.
+
+###### Artículo 127.
+
+Lo dispuesto en el artículo anterior será igualmente aplicable al caso en que deje de pagarse una parte del capital del crédito o de los intereses, cuyo pago deba hacerse en plazos diferentes, si venciere alguno de ellos sin cumplir el deudor su obligación.
+
+Cuando para el pago de alguno de los plazos del capital o de los intereses fuere necesario enajenar la finca hipotecada y aún quedaran por vencer otros plazos de la obligación, se practicará lo dispuesto en el párrafo segundo del artículo ciento treinta y cinco. Si el comprador no quisiere la finca con la carga de la hipoteca que queda por satisfacer, se depositará su importe con los intereses que le correspondan, para que sea pagado el acreedor al vencimiento de los plazos pendientes.
+
+Se considerarán también como terceros poseedores, para los efectos del artículo ciento veintiséis, los designados en el párrafo segundo del ciento treinta y cuatro.
+
+Si hubiere más de un tercer poseedor por pertenecer a una persona la propiedad o el dominio directo y a otra el usufructo o el dominio útil, se entenderá con ambas el requerimiento.
+
+Al vencimiento del plazo para el pago de la deuda, el acreedor podrá pedir que se despache mandamiento de ejecución contra todos los bienes hipotecados, estén o no en poder de uno o varios terceros poseedores; pero éstos no podrán ser requeridos al pago, sino después de haberlo sido el deudor y no haberlo realizado.
+
+Cada uno de los terceros poseedores, si se opusiere, será considerado como parte en el procedimiento respecto de los bienes hipotecados que posea, y se entenderán siempre con el mismo y el deudor todas las diligencias relativas al embargo y venta de dichos bienes, debiendo el tercer poseedor otorgar la escritura de venta u otorgarse de oficio en su rebeldía.
+
+Será juez o tribunal competente para conocer del procedimiento el que lo fuera respecto del deudor. No se suspenderá en ningún caso el procedimiento ejecutivo por las reclamaciones de un tercero, si no estuvieren fundadas en un título anteriormente inscrito, ni por la muerte del deudor o del tercer poseedor. En caso de concurso regirá lo establecido en la Ley Concursal.
+
+> Se modifica el párrafo séptimo por la disposición final 7 de la Ley 22/2003, de 9 de julio. [Ref. BOE-A-2003-13813](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13813).
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 128.
+
+La acción hipotecaria prescribirá a los veinte años, contados desde que pueda ser ejercitada.
+
+###### Artículo 129.
+
+1\. La acción hipotecaria podrá ejercitarse:
+
+a) Directamente contra los bienes hipotecados sujetando su ejercicio a lo dispuesto en el Título IV del Libro III de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, con las especialidades que se establecen en su Capítulo V.
+
+b) O mediante la venta extrajudicial del bien hipotecado, conforme al artículo 1.858 del Código Civil, siempre que se hubiera pactado en la escritura de constitución de la hipoteca sólo para el caso de falta de pago del capital o de los intereses de la cantidad garantizada.
+
+2\. La venta extrajudicial se realizará ante Notario y se ajustará a los requisitos y formalidades siguientes:
+
+a) El valor en que los interesados tasen la finca para que sirva de tipo en la subasta no podrá ser distinto del que, en su caso, se haya fijado para el procedimiento de ejecución judicial directa, ni podrá en ningún caso ser inferior al valor señalado en la tasación que, en su caso, se hubiere realizado en virtud de lo previsto en la Ley 2/1981, de 25 de marzo, de regulación del mercado hipotecario.
+
+b) La estipulación en virtud de la cual los otorgantes pacten la sujeción al procedimiento de venta extrajudicial de la hipoteca deberá constar separadamente de las restantes estipulaciones de la escritura y deberá señalar expresamente el carácter, habitual o no, que pretenda atribuirse a la vivienda que se hipoteque. Se presumirá, salvo prueba en contrario, que en el momento de la venta extrajudicial el inmueble es vivienda habitual si así se hubiera hecho constar en la escritura de constitución.
+
+c) La venta extrajudicial sólo podrá aplicarse a las hipotecas constituidas en garantía de obligaciones cuya cuantía aparezca inicialmente determinada, de sus intereses ordinarios y de demora liquidados de conformidad con lo previsto en el título y con las limitaciones señaladas en el artículo 114.
+
+En el caso de que la cantidad prestada esté inicialmente determinada pero el contrato de préstamo garantizado prevea el reembolso progresivo del capital, a la solicitud de venta extrajudicial deberá acompañarse un documento en el que consten las amortizaciones realizadas y sus fechas, y el documento fehaciente que acredite haberse practicado la liquidación en la forma pactada por las partes en la escritura de constitución de hipoteca.
+
+En cualquier caso en que se hubieran pactado intereses variables, a la solicitud de venta extrajudicial, se deberá acompañar el documento fehaciente que acredite haberse practicado la liquidación en la forma pactada por las partes en la escritura de constitución de hipoteca.
+
+d) La venta se realizará mediante una sola subasta, de carácter electrónico, que tendrá lugar en el portal de subastas que a tal efecto dispondrá la Agencia Estatal Boletín Oficial del Estado. Los tipos en la subasta y sus condiciones serán, en todo caso, los determinados por la Ley de Enjuiciamiento Civil.
+
+e) En el Reglamento Hipotecario se determinará la forma y personas a las que deban realizarse las notificaciones, el procedimiento de subasta, las cantidades a consignar para tomar parte en la misma, causas de suspensión, la adjudicación y sus efectos sobre los titulares de derechos o cargas posteriores así como las personas que hayan de otorgar la escritura de venta y sus formas de representación.
+
+f) Cuando el Notario considerase que alguna de las cláusulas del préstamo hipotecario que constituya el fundamento de la venta extrajudicial o que hubiese determinado la cantidad exigible pudiera tener carácter abusivo, lo pondrá en conocimiento del deudor, del acreedor y en su caso, del avalista e hipotecante no deudor, a los efectos oportunos.
+
+En todo caso, el Notario suspenderá la venta extrajudicial cuando cualquiera de las partes acredite haber planteado ante el Juez que sea competente, conforme a lo establecido en el artículo 684 de la Ley de Enjuiciamiento Civil, el carácter abusivo de dichas cláusulas contractuales.
+
+La cuestión sobre dicho carácter abusivo se sustanciará por los trámites y con los efectos previstos para la causa de oposición regulada en el apartado 4 del artículo 695.1 de la Ley de Enjuiciamiento Civil.
+
+Una vez sustanciada la cuestión, y siempre que no se trate de una cláusula abusiva que constituya el fundamento de la venta o que hubiera determinado la cantidad exigible, el Notario podrá proseguir la venta extrajudicial a requerimiento del acreedor.
+
+g) Una vez concluido el procedimiento, el Notario expedirá certificación acreditativa del precio del remate y de la deuda pendiente por todos los conceptos, con distinción de la correspondiente a principal, a intereses remuneratorios, a intereses de demora y a costas, todo ello con aplicación de las reglas de imputación contenidas en el artículo 654.3 de la Ley de Enjuiciamiento Civil. Cualquier controversia sobre las cantidades pendientes determinadas por el Notario será dilucidada por las partes en juicio verbal.
+
+h) La Ley de Enjuiciamiento Civil tendrá carácter supletorio en todo aquello que no se regule en la Ley y en el Reglamento Hipotecario, y en todo caso será de aplicación lo dispuesto en el artículo 579.2 de la Ley de Enjuiciamiento Civil.
+
+> Se modifica el apartado 2.a), con efectos de 16 de junio de 2019, por la disposición final 1.3 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
+
+> Se modifican las letras a) y f) por la disposición final 3 de la Ley 19/2015, de 13 de julio. [Ref. BOE-A-2015-7851](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7851).
+
+> Se modifica por el art. 3.3 de la Ley 1/2013, de 14 de mayo. [Ref. BOE-A-2013-5073](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5073).
+
+> Se modifica por la disposición final 9.4 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323).
+
+###### Artículo 129 bis.
+
+Tratándose de un préstamo o crédito concluido por una persona física y que esté garantizado mediante hipoteca sobre bienes inmuebles para uso residencial o cuya finalidad sea adquirir o conservar derechos de propiedad sobre terrenos o inmuebles construidos o por construir para uso residencial, perderá el deudor el derecho al plazo y se producirá el vencimiento anticipado del contrato, pudiendo ejercitarse la acción hipotecaria, si concurren conjuntamente los siguientes requisitos:
+
+a) Que el prestatario se encuentre en mora en el pago de una parte del capital del préstamo o de los intereses.
+
+b) Que la cuantía de las cuotas vencidas y no satisfechas equivalgan al menos:
+
+i. Al tres por ciento de la cuantía del capital concedido, si la mora se produjera dentro de la primera mitad de la duración del préstamo. Se considerará cumplido este requisito cuando las cuotas vencidas y no satisfechas equivalgan al impago de doce plazos mensuales o un número de cuotas tal que suponga que el deudor ha incumplido su obligación por un plazo al menos equivalente a doce meses.
+
+ii. Al siete por ciento de la cuantía del capital concedido, si la mora se produjera dentro de la segunda mitad de la duración del préstamo. Se considerará cumplido este requisito cuando las cuotas vencidas y no satisfechas equivalgan al impago de quince plazos mensuales o un número de cuotas tal que suponga que el deudor ha incumplido su obligación por un plazo al menos equivalente a quince meses.
+
+c) Que el prestamista haya requerido el pago al prestatario concediéndole un plazo de al menos un mes para su cumplimiento y advirtiéndole de que, de no ser atendido, reclamará el reembolso total del préstamo.
+
+Las reglas contenidas en este apartado no admitirán pacto en contrario.
+
+> Se añade, con efectos de 16 de junio de 2019, por la disposición final 1.4 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
+
+###### Artículo 130.
+
+El procedimiento de ejecución directa contra los bienes hipotecados sólo podrá ejercitarse como realización de una hipoteca inscrita, sobre la base de aquellos extremos contenidos en el título que se hayan recogido en el asiento respectivo.
+
+> Se modifica por el art. 11.2 de la Ley 41/2007, de 7 de diciembre. [Ref. BOE-A-2007-21086](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21086).
+
+> Se modifica por la disposición final 9.5 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323).
+
+###### Artículo 131.
+
+Las anotaciones preventivas de demanda de nulidad de la propia hipoteca o cualesquiera otras que no se basen en alguno de los supuestos que puedan determinar la suspensión de la ejecución quedarán canceladas en virtud del mandamiento de cancelación a que se refiere el artículo 133, siempre que sean posteriores a la nota marginal de expedición de certificación de cargas. No se podrá inscribir la escritura de carta de pago de la hipoteca mientras no se haya cancelado previamente la citada nota marginal, mediante mandamiento judicial al efecto.
+
+> Se modifica por la disposición final 9.6 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323).
+
+> Se modifica la regla 1 por la disposición final 1.2 de la Ley 10/1992, de 30 de abril. [Ref. BOE-A-1992-9548](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-9548).
+
+> Se modifica por los arts. 1 a 8 de la Ley 19/1986, de 14 de mayo. [Ref. BOE-A-1986-12191](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-12191).
+
+> Téngase en cuenta la disposición adicional 1 en cuanto a la aplicación de los apartados 2 y 4 de la regla 3.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 209, de 1 de septiembre de 1986. [Ref. BOE-A-1986-23619](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-23619)
+
+###### Artículo 132.
+
+A los efectos de las inscripciones y cancelaciones a que den lugar los procedimientos de ejecución directa sobre los bienes hipotecados, la calificación del registrador se extenderá a los extremos siguientes:
+
+1.º Que se ha demandado y requerido de pago al deudor, hipotecante no deudor y terceros poseedores que tengan inscritos su derecho en el Registro en el momento de expedirse certificación de cargas en el procedimiento.
+
+2.º Que se ha notificado la existencia del procedimiento a los acreedores y terceros cuyo derecho ha sido anotado o inscrito con posterioridad a la hipoteca, a excepción de los que sean posteriores a la nota marginal de expedición de certificación de cargas, respecto de los cuales la nota marginal surtirá los efectos de la notificación.
+
+3.º Que lo entregado al acreedor en pago del principal del crédito, de los intereses devengados y de las costas causadas, no exceden del límite de la respectiva cobertura hipotecaria.
+
+4.º Que el valor de lo vendido o adjudicado fue igual o inferior al importe total del crédito del actor, o en caso de haberlo superado, que se consignó el exceso en establecimiento público destinado al efecto a disposición de los acreedores posteriores.
+
+> Se modifica por la disposición final 9.7 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323)
+
+> Redactado el párrafo penúltimo conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 133.
+
+El testimonio expedido por el Secretario judicial comprensivo del decreto de remate o adjudicación y del que resulte la consignación, en su caso, del precio, será título bastante para practicar la inscripción de la finca o derecho adjudicado a favor del rematante o adjudicatario, siempre que se acompañe el mandamiento de cancelación de cargas a que se refiere el artículo 674 de la Ley de Enjuiciamiento Civil.
+
+El mandamiento de cancelación de cargas y el testimonio del decreto de remate o adjudicación podrán constar en un solo documento en el que se consignará, en todo caso, el cumplimiento de los requisitos establecidos en el artículo anterior y las demás circunstancias que sean necesarias para practicar la inscripción y la cancelación.
+
+> Se modifica por el art. 3.3 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+> Se modifica por la disposición final 9.8 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323)
+
+###### Artículo 134.
+
+El testimonio del decreto de adjudicación y el mandamiento de cancelación de cargas, determinarán la inscripción de la finca o derecho a favor del adjudicatario y la cancelación de la hipoteca que motivó la ejecución, así como la de todas las cargas, gravámenes e inscripciones de terceros poseedores que sean posteriores a ellas, sin excepción, incluso las que se hubieran verificado con posterioridad a la nota marginal de expedición de certificación de cargas en el correspondiente procedimiento.
+
+Tan sólo subsistirán las declaraciones de obras nuevas y divisiones horizontales posteriores, cuando de la inscripción de la hipoteca resulte que ésta se extiende por ley o por pacto a las nuevas edificaciones.
+
+> Se modifica el párrafo primero por el art. 3.4 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+> Se modifica por la disposición final 9.9 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323)
+
+###### Artículo 135.
+
+El Registrador deberá comunicar al Juzgado o Tribunal ante quien se sustancie un procedimiento ejecutivo, incluso cuando recaiga directamente sobre bienes hipotecados, la extensión de ulteriores asientos que puedan afectar a la ejecución.
+
+> Se modifica por el art. 3.5 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+> Se modifica por la disposición final 9.10 de la Ley 1/2000, de 7 de enero. [Ref. BOE-A-2000-323](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323)
+
+###### Artículo 136.
+
+Las inscripciones y cancelaciones de las hipotecas se sujetarán a las reglas establecidas en los títulos segundo y cuarto para las inscripciones y cancelaciones en general, sin perjuicio de las especiales contenidas en este título.
+
+###### Artículo 137.
+
+Las hipotecas son voluntarias o legales.
+
+#### Sección 2.ª De las hipotecas voluntarias.
+
+###### Artículo 138.
+
+Son hipotecas voluntarias las convenidas entre partes o impuestas por disposición del dueño de los bienes sobre que se establezcan y sólo podrán constituirlas quienes tengan la libre disposición de aquéllos o, en caso de no tenerla, se hallen autorizados para ello con arreglo a las leyes.
+
+###### Artículo 139.
+
+Los que, con arreglo al artículo anterior, tienen la facultad de constituir hipotecas voluntarias, podrán hacerlo por sí o por medio de apoderado, con poder especial bastante.
+
+###### Artículo 140.
+
+No obstante lo dispuesto en el artículo ciento cinco, podrá válidamente pactarse en la escritura de constitución de la hipoteca voluntaria que la obligación garantizada se haga solamente efectiva sobre los bienes hipotecados.
+
+En este caso, la responsabilidad del deudor y la acción del acreedor, por virtud del préstamo hipotecario, quedarán limitadas al importe de los bienes hipotecados, y no alcanzarán a los demás bienes del patrimonio del deudor.
+
+Cuando la hipoteca así constituida afectase a dos o más fincas y el valor de alguna de ellas no cubriese la parte de crédito de que responda, podrá el acreedor repetir por la diferencia exclusivamente contra las demás fincas hipotecadas, en la forma y con las limitaciones establecidas en el artículo ciento veintiuno.
+
+###### Artículo 141.
+
+En las hipotecas voluntarias constituidas por acto unilateral del dueño de la finca hipotecada, la aceptación de la persona a cuyo favor se establecieron o inscribieron se hará constar en el Registro por nota marginal, cuyos efectos se retrotraerán a la fecha de la constitución de la misma.
+
+Si no constare la aceptación después de transcurridos dos meses, a contar desde el requerimiento que a dicho efecto se haya realizado, podrá cancelarse la hipoteca a petición del dueño de la finca, sin necesidad del consentimiento de la persona a cuyo favor se constituyó.
+
+###### Artículo 142.
+
+La hipoteca constituida para la seguridad de una obligación futura o sujeta a condiciones suspensivas inscritas, surtirá efecto, contra tercero, desde su inscripción, si la obligación llega a contraerse o la condición a cumplirse.
+
+Si la obligación asegurada estuviere sujeta a condición resolutoria inscrita, surtirá la hipoteca su efecto, en cuanto a tercero, hasta que se haga constar en el Registro el cumplimiento de la condición.
+
+###### Artículo 143.
+
+Cuando se contraiga la obligación futura o se cumpla la condición suspensiva, de que trata el párrafo primero del artículo anterior, podrán los interesados hacerlo constar así por medio de una nota al margen de la inscripción hipotecaria.
+
+###### Artículo 144.
+
+Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, como el pago, la compensación, la espera, el pacto o promesa de no pedir, la novación del contrato primitivo y la transacción o compromiso, no surtirá efecto contra tercero, como no se haga constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
+
+###### Artículo 145.
+
+Para que las hipotecas voluntarias queden válidamente establecidas, se requiere:
+
+Primero. Que se hayan constituido en escritura pública.
+
+Segundo. Que la escritura se haya inscrito en el Registro de la Propiedad.
+
+###### Artículo 146.
+
+El acreedor hipotecario podrá repetir contra los bienes hipotecados por el pago de los intereses vencidos, cualquiera que sea la época en que deba verificarse el reintegro del capital; mas si hubiere un tercero interesado en dichos bienes, a quien pueda perjudicar la repetición, no podrá exceder la cantidad que por ella se reclame de la garantizada con arreglo al artículo ciento catorce.
+
+###### Artículo 147.
+
+La parte de intereses que el acreedor no pueda exigir por la acción real hipotecaria podrá reclamarla del obligado por la personal, siendo considerado respecto a ella, en caso de concurso, como acreedor escriturario y salvo lo dispuesto en el artículo ciento cuarenta.
+
+###### Artículo 148.
+
+Cuando se redima un censo gravado con hipoteca, tendrá derecho el acreedor hipotecario a que el redimente, a su elección, le pague su crédito por completo con los intereses vencidos y por vencer, o le reconozca su misma hipoteca sobre la finca que estuvo gravada con el censo.
+
+En este último caso se hará una nueva inscripción de la hipoteca, la cual expresará claramente aquella circunstancia, y surtirá efecto desde la fecha de la inscripción anterior.
+
+###### Artículo 149.
+
+El crédito o préstamo garantizado con hipoteca podrá cederse en todo o en parte de conformidad con lo dispuesto en el artículo 1.526 del Código Civil. La cesión de la titularidad de la hipoteca que garantice un crédito o préstamo deberá hacerse en escritura pública e inscribirse en el Registro de la Propiedad.
+
+El deudor no quedará obligado por dicho contrato a más que lo estuviere por el suyo.
+
+El cesionario se subrogará en todos los derechos del cedente.
+
+> Se modifica el párrafo primero por el art. 11.3 de la Ley 41/2007, de 7 de diciembre. [Ref. BOE-A-2007-21086](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21086).
+
+###### Artículo 150.
+
+Cuando la hipoteca se hubiere constituido para garantizar obligaciones transferibles por endoso o títulos al portador, el derecho hipotecario se entenderá transferido, con la obligación o con el título sin necesidad de dar de ello conocimiento al deudor ni de hacerse constar la transferencia en el Registro.
+
+###### Artículo 151.
+
+Si en los casos en que deba hacerse, se omite dar conocimiento al deudor de la cesión del crédito hipotecario, será el cedente responsable de los perjuicios que pueda sufrir el cesionario por consecuencia de esta falta.
+
+###### Artículo 152.
+
+Los derechos o créditos asegurados con hipoteca legal no podrán cederse sino cuando haya llegado el caso de exigir su importe.
+
+###### Artículo 153.
+
+Podrá constituirse hipoteca en garantía de cuentas corrientes de crédito, determinándose en la escritura la cantidad máxima de que responda la finca y el plazo de duración, haciendo constar si éste es o no prorrogable, y, caso de serlo, la prórroga posible y los plazos de liquidación de la cuenta.
+
+Si al vencimiento del término fijado por los otorgantes o de la prórroga, en su caso, el acreedor no se hubiere reintegrado del saldo de la cuenta, podrá utilizar la acción hipotecaria para su cobro en la parte que no exceda de la cantidad asegurada con la hipoteca por el procedimiento establecido en los artículos 129 y siguientes. A la escritura y demás documentos designados en la regla 3.ª del artículo 131 deberá acompañar el que acredite el importe líquido de la cantidad adeudada.
+
+Para ello será necesaria la presentación del ejemplar que obre en poder del actor de la libreta que a continuación se dice.
+
+Para que pueda determinarse al tiempo de la reclamación la cantidad líquida a que asciende, los interesados llevarán una libreta de ejemplares duplicados: uno en poder del que adquiere la hipoteca y otro en el del que la otorga, en los cuales, al tiempo de todo cobro o entrega se hará constar, con aprobación y firma de ambos interesados, cada uno de los asientos de la cuenta corriente.
+
+No obstante, en las cuentas corrientes abiertas por los Bancos, Cajas de Ahorro y Sociedades de crédito debidamente autorizadas, podrá convenirse que, a los efectos de proceder ejecutivamente, el saldo puede acreditarse mediante una certificación de la Entidad acreedora. En este caso, para proceder a la ejecución se notificará, judicial o notarialmente, al deudor un extracto de la cuenta, pudiendo éste alegar en la misma forma, dentro de los ocho días siguientes, error o falsedad.
+
+Si el deudor opusiere error, el Juez competente para entender del procedimiento de ejecución, a petición de una de las partes, citará a éstas, dentro del término de ocho días, a una comparecencia, y, después de oírlas, admitirá los documentos que se presenten, y acordará, dentro de los tres días, lo que estime procedente. El auto que se dicte será apelable en un solo efecto, y el recurso se sustanciará por los trámites de apelación de los incidentes.
+
+Cuando se alegare falsedad y se incoe causa criminal, quedará interrumpido el procedimiento hasta que en dicha causa recaiga sentencia firme o auto de sobreseimiento libre o provisional.
+
+Opuesta por el deudor alguna de estas excepciones, no podrá aducirlas nuevamente en los juicios ejecutivos que, para hacer efectivo dicho saldo, puedan entablarse, sin perjuicio de que en su día ejercite cuantas acciones le competan en los procedimientos civiles o criminales correspondientes.
+
+###### Artículo 153 bis.
+
+También podrá constituirse hipoteca de máximo:
+
+a) a favor de las entidades financieras a las que se refiere el artículo 2 de la Ley 2/1981, de 25 de marzo, de regulación del mercado hipotecario, en garantía de una o diversas obligaciones, de cualquier clase, presentes y/o futuras, sin necesidad de pacto novatorio de las mismas,
+
+b) a favor de las administraciones públicas titulares de créditos tributarios o de la Seguridad Social, sin necesidad de pacto novatorio de los mismos.
+
+Será suficiente que se especifiquen en la escritura de constitución de la hipoteca y se hagan constar en la inscripción de la misma: su denominación y, si fuera preciso, la descripción general de los actos jurídicos básicos de los que deriven o puedan derivar en el futuro las obligaciones garantizadas; la cantidad máxima de que responde la finca; el plazo de duración de la hipoteca, y la forma de cálculo del saldo final líquido garantizado.
+
+Podrá pactarse en el título que la cantidad exigible en caso de ejecución sea la resultante de la liquidación efectuada por la entidad financiera acreedora en la forma convenida por las partes en la escritura.
+
+Al vencimiento pactado por los otorgantes, o al de cualquiera de sus prórrogas, la acción hipotecaria podrá ser ejercitada de conformidad con lo previsto en los artículos 129 y 153 de esta Ley y concordantes de la Ley de Enjuiciamiento Civil.
+
+> Se añade por el art. 11.4 de la Ley 41/2007, de 7 de diciembre. [Ref. BOE-A-2007-21086](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21086).
+
+###### Artículo 154.
+
+La constitución de hipotecas para garantizar títulos transmisibles por endoso o al portador, deberá hacerse por medio de escritura pública, que se inscribirá en el Registro o Registros de la Propiedad a que correspondan los bienes que se hipotequen, o en el del arranque o cabeza de la obra pública, cuando sea de esta clase la garantía hipotecaria, haciéndose en este caso breve referencia en los demás Registros por cuyo territorio atraviese aquélla, a continuación de las inscripciones de referencia de la de dominio, que deben constar en los mismos.
+
+En dicha escritura habrán de consignarse, además de las circunstancias propias de las de constitución de hipoteca, las relativas al número y valor de las obligaciones que se emitan y que garantice la hipoteca; la serie o series a que correspondan; la fecha o fechas de la emisión; el plazo y forma en que han de ser amortizadas; la autorización obtenida para emitirlas, en caso de ser ésta necesaria, y cualesquiera otras que sirvan para determinar las condiciones de dichos títulos, que habrán de ser talonarios; haciéndose constar expresamente, cuando sean al portador, que queda constituida la hipoteca a favor de los tenedores presentes o futuros de las obligaciones.
+
+En los títulos deberá hacerse asimismo constar la fecha y Notario autorizante de la escritura, y el número, folio, libro y fecha de su inscripción en los respectivos Registros de la Propiedad y en el Registro Mercantil, cuando así proceda, con arreglo a lo prevenido en el artículo veintiuno, número diez, del Código de Comercio.
+
+###### Artículo 155.
+
+El procedimiento para hacer efectiva la acción hipotecaria nacida de los títulos, tanto nominativos como al portador, será el establecido en los artículos ciento veintinueve y siguientes de esta Ley, cualquiera que fuere el importe de la cantidad reclamada. Con los títulos u obligaciones deberá acompañarse un certificado de inscripción de la hipoteca en el Registro de la Propiedad, y el requerimiento de pago al deudor o al tercer poseedor de la finca, si lo hubiere, habrá de hacerse en el domicilio de los mismos, aunque no residan en el lugar del juicio, o subsidiariamente a las personas que expresa el artículo 131 de esta Ley.
+
+En el caso de existir otros títulos con igual derecho que los que sean base de la ejecución, habrá de verificarse la subasta y la venta de las fincas objeto del procedimiento, dejando subsistentes las hipotecas correspondientes al valor total de dichos títulos, y entendiéndose que el rematante las acepta y se subroga en ellas, sin destinarse a su pago o extinción el precio del remate, en armonía con lo dispuesto en los artículos ciento treinta y uno y ciento treinta y cinco de esta Ley, y quedando derogado lo que sobre este particular se establece en el artículo mil quinientos diecisiete de la Ley de Enjuiciamiento Civil.
+
+Lo dispuesto en el presente artículo no es aplicable a las obligaciones emitidas por las Compañías de Ferrocarriles y demás Obras Públicas y por las de crédito territorial, las cuales continuarán rigiéndose por las disposiciones del Código de Comercio y demás referentes a las mismas.
+
+###### Artículo 156.
+
+La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso se efectuará presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto del otorgamiento los títulos endosables, o solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos, o bien previo ofrecimiento y consignación del importe de los títulos, hecha en los casos y con los requisitos prevenidos en los artículos mil ciento setenta y seis y siguientes del Código Civil.
+
+Las inscripciones de hipotecas constituidas con objeto de garantizar títulos al portador se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor toda la emisión de los títulos debidamente inutilizados.
+
+Asimismo procederá la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos emitidos y se asegurase el pago de los restantes, consignando su importe y el de los intereses que procedan en el establecimiento público destinado al efecto. La cancelación, en este caso, deberá acordarse por sentencia, previos dos llamamientos por edictos, publicados en el BOLETIN OFICIAL DEL ESTADO, y tiempo de dos meses cada llamamiento, a cuantos se consideren con derecho a oponerse a la cancelación.
+
+Podrán también cancelarse parcialmente dichas hipotecas presentando acta notarial de estar recogidas y en poder del deudor, debidamente inutilizadas, obligaciones por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichas obligaciones asciendan, por lo menos, a la décima parte del total de la emisión. En este caso, si son varias las fincas hipotecadas, podrán cancelarse completamente las inscripciones de hipoteca de una o varias fincas, cuya responsabilidad sea igual al valor de las obligaciones recogidas, o liberarse parcialmente todas ellas a prorrata, o en proporción a sus respectivas responsabilidades.
+
+También podrá cancelarse parcialmente la hipoteca cuando se presente acta notarial que acredite estar recogidas y en poder del deudor, debidamente inutilizadas, obligaciones equivalentes al total importe de la responsabilidad porque esté afecta a la hipoteca una finca determinada, aunque dichas obligaciones no asciendan a la décima parte del total de la emisión. En este caso sólo podrá cancelarse la inscripción de la hipoteca que grave la finca que se trate de liberar.
+
+Las hipotecas constituidas en garantía de títulos transmisibles por endoso o al portador podrán cancelarse totalmente si la Entidad emisora declara que no han sido puestos en circulación; justifica la declaración con una certificación de su contabilidad, expresiva de que no ha habido el ingreso en caja, correspondiente al valor de los mismos, y publica sendos anuncios en el «Boletín Oficial» de la provincia y en un diario, si lo hubiere, de la localidad en que radiquen las fincas y en donde esté domiciliada la entidad, notificando al público su propósito de solicitar la cancelación.
+
+Cuando en virtud de una Ley o como consecuencia de lo establecido en la escritura de emisión se hubieren constituido consorcios, asociaciones o sindicatos de obligacionistas con facultades de cancelar, procederá la cancelación si el acuerdo correspondiente hubiera sido aprobado por los tenedores que representaren las tres cuartas partes de los títulos en circulación.
+
+###### Artículo 157.
+
+Podrá constituirse hipoteca en garantía de rentas o prestaciones periódicas.
+
+En la inscripción se hará constar el acto o contrato por el cual se hubieran constituido las rentas o prestaciones y el plazo, modo y forma con que deban ser satisfechas.
+
+El acreedor de dichas rentas o prestaciones periódicas podrá ejecutar estas hipotecas utilizando el procedimiento sumario establecido en los artículos ciento veintinueve y siguientes de esta Ley. El que remate los bienes gravados con tal hipoteca los adquirirá con subsistencia de la misma y de la obligación de pago de la pensión o prestación hasta su vencimiento. Iguales efectos producirá la hipoteca en cuanto a tercero; pero respecto a las pensiones vencidas y no satisfechas, no perjudicarán a éste sino en los términos señalados en los artículos ciento catorce y párrafo primero y segundo del ciento quince de esta Ley.
+
+Salvo pacto en contrario, transcurridos seis meses desde la fecha en que, a tenor de lo consignado en el Registro, debiera haberse satisfecho la última pensión o prestación, el titular del inmueble podrá solicitar la cancelación de la hipoteca, siempre que no conste asiento alguno que indique haberse modificado el contrato o formulado reclamación contra el deudor sobre pago de dichas pensiones o prestaciones.
+
+#### Sección 3.ª De las hipotecas legales
+
+###### Artículo 158.
+
+Sólo serán hipotecas legales las admitidas expresamente por las leyes con tal carácter.
+
+Las personas a cuyo favor concede la Ley hipoteca legal no tendrán otro derecho que el de exigir la constitución de una hipoteca especial suficiente para la garantía de su derecho.
+
+###### Artículo 159.
+
+Para que las hipotecas legales queden válidamente establecidas se necesita la inscripción del título en cuya virtud se constituyan.
+
+###### Artículo 160.
+
+Las personas a cuyo favor reconoce la Ley hipoteca legal podrán exigir dicha hipoteca sobre cualesquiera bienes inmuebles o derechos reales de que pueda disponer el obligado a prestarla, en cualquier tiempo, aunque haya cesado la causa que le diere fundamento, como el matrimonio, la tutela, la patria potestad o la administración, siempre que esté pendiente de cumplimiento la obligación que se debiera haber asegurado.
+
+###### Artículo 161.
+
+La hipoteca legal, una vez constituida e inscrita, surte los mismos efectos que la voluntaria, sin más especialidades que las expresamente determinadas en esta Ley, cualquiera que sea la persona que deba ejercitar los derechos que la misma hipoteca confiera.
+
+###### Artículo 162.
+
+Si para la constitución de alguna hipoteca legal se ofrecieren diferentes bienes y no convinieren los interesados en la parte de responsabilidad que haya de pesar sobre cada uno, conforme a lo dispuesto en el artículo ciento diecinueve, decidirá el Juez o el Tribunal, previo dictamen de peritos.
+
+Del mismo modo, decidirá el Juez o el Tribunal las cuestiones que se susciten entre los interesados sobre la calificación de suficiencia de los bienes ofrecidos para la constitución de cualquiera hipoteca legal.
+
+###### Artículo 163.
+
+En cualquier tiempo en que llegaren a ser insuficientes las hipotecas legales inscritas podrán reclamar su ampliación o deberán pedirla los que, con arreglo a esta Ley, tengan respectivamente el derecho o la obligación de exigirlas y de calificar su suficiencia.
+
+###### Artículo 164.
+
+Las hipotecas legales inscritas subsistirán hasta que se extingan los derechos para cuya seguridad se hubieren constituido, y se cancelarán en los mismos términos que las voluntarias.
+
+###### Artículo 165.
+
+Para constituir o ampliar judicialmente y a instancia de parte cualquier hipoteca legal, se procederá con sujeción a las reglas siguientes:
+
+Primera. El que tenga derecho a exigirla presentará un escrito en el Juzgado o Tribunal del domicilio del obligado a prestarla, pidiendo que se constituya la hipoteca, fijando la cantidad por que deba constituirse y señalando los bienes que puedan ser gravados con ella, o, por lo menos, el Registro donde deban constar inscritos los que posea la misma persona obligada.
+
+Segunda. A este escrito acompañará precisamente el título o documentos que produzca el derecho de hipoteca legal, y si fuere posible, una certificación del Registrador en que consten todos los bienes hipotecables que posea el demandado.
+
+Tercera. El Juez o el Tribunal, en su vista, mandará comparecer a su presencia a todos los interesados en la constitución de la hipoteca, a fin de que se avengan, si fuere posible, en cuanto al modo de verificarla.
+
+Cuarta. Si se avinieren, mandará el Juez o el Tribunal constituir la hipoteca en los términos que se hayan convenido.
+
+Quinta. Si no se avinieren, ya sea en cuanto a la obligación de hipotecar o ya en cuanto a la cantidad que deba asegurarse o a la suficiencia de la hipoteca ofrecida, se hará traslado del escrito de demanda al demandado y seguirá el juicio los trámites establecidos para los incidentes en la Ley de Enjuiciamiento Civil.
+
+Sexta. Tratándose de hipoteca legal por razón de la fianza de tutores, la competencia para decretar la hipoteca legal y la tramitación de la misma corresponderá al Juzgado en el que se tramite el nombramiento de los tutores, conforme a lo dispuesto en el artículo 192, aplicándose lo dispuesto en las reglas anteriores en lo que no se opongan a dicho precepto.
+
+> Se modifica el párrafo primero y se añade el apartado sexto, con efectos desde el 3 de septiembre de 2021, por el art. 3.4 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+###### Artículo 166.
+
+En los casos en que el Juez o el Tribunal deba proceder de oficio para exigir la constitución de una hipoteca legal, dispondrá que el Registrador correspondiente le remita la certificación prevenida en la regla segunda del artículo anterior; en su vista, mandará comparecer al obligado a constituir la hipoteca, y con su audiencia y la del Ministerio Fiscal, seguirá después el juicio por los trámites que quedan prescritos.
+
+###### Artículo 167.
+
+Lo dispuesto en los dos anteriores artículos se entenderá sin perjuicio de las reglas establecidas sobre hipotecas por bienes reservables y sobre fianza de los tutores, y no será aplicable a la hipoteca legal a favor del Estado, de las provincias o de los pueblos sino cuando los Reglamentos administrativos no establecieren otro procedimiento para exigirla.
+
+###### Artículo 168.
+
+Tendrán derecho a exigir hipoteca legal:
+
+Primero. Las mujeres casadas sobre los bienes de sus maridos:
+
+a) Por las dotes que les hayan sido entregadas solemnemente bajo fe de Notario.
+
+b) Por los parafernales que con la solemnidad anteriormente dicha hayan entregado a sus maridos.
+
+c) Por las donaciones que los mismos maridos les hayan prometido dentro de los límites de la Ley.
+
+d) Por cualesquiera otros bienes que las mujeres hayan aportado al matrimonio y entregado a sus maridos con la misma solemnidad.
+
+Segundo. Los reservatarios sobre los bienes de los reservistas en los casos señalados por los artículos ochocientos once, novecientos sesenta y ocho y novecientos ochenta del Código Civil y en cualesquiera otros comprendidos en leyes o fueros especiales.
+
+Tercero. Los hijos sometidos a la patria potestad por los bienes de su propiedad usufructuados o administrados por el padre o madre que hubieran contraído segundo matrimonio, y sobre los bienes de los mismos padres.
+
+Cuarto. Los menores de edad sujetos a tutela sobre los bienes de los tutores, por razón de la responsabilidad en que pudieran incurrir, siempre que la autoridad judicial considere necesario que presten fianza y sin perjuicio de los casos en que se ofrezca otra garantía real o personal que sea suficiente a juicio de la autoridad judicial.
+
+Quinto. El Estado, las Provincias y los Pueblos, sobre los bienes de los que contraten con ellos o administren sus intereses, por las responsabilidades que contrajeron éstos, de conformidad con lo establecido en las leyes y reglamentos.
+
+Sexto. El Estado sobre los bienes de los contribuyentes en los casos establecidos en esta Ley, además de la preferencia que a su favor se reconoce en el artículo ciento noventa y cuatro; y
+
+Séptimo. Los aseguradores sobre los bienes de los asegurados, también en los casos establecidos en esta Ley, además de la preferencia que a su favor reconoce el artículo ciento noventa y seis.
+
+> Se modifica el apartado 4, con efectos desde el 3 de septiembre de 2021, por el art. 3.5 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+##### Subsección 1.ª De la hipoteca dotal
+
+###### Artículo 169.
+
+La mujer casada a cuyo favor reconoce esta Ley hipoteca legal tendrá derecho:
+
+Primero. A que el marido inscriba a nombre propio e hipoteque en favor de su mujer los bienes inmuebles y derechos reales que reciba como dote estimada u otros bastantes para asegurar la devolución de su importe.
+
+Segundo. A que se inscriban en el Registro, a nombre de la misma, si ya no lo estuvieren en calidad de dotales o parafernales, o por el concepto legal que les corresponda, todos los demás bienes inmuebles y derechos reales que el marido reciba como inestimados y deba devolver, en su caso.
+
+Tercero. A que el marido asegure, con hipoteca especial suficiente, todos los demás bienes no comprendidos en los párrafos anteriores y que se le entreguen por razón de matrimonio.
+
+###### Artículo 170.
+
+La dote confesada por el marido, cuya entrega no constare o constare sólo por documento privado, no surtirá más efecto que el de las obligaciones personales.
+
+No obstante, la mujer que tuviere a su favor dote confesada por el marido antes de la celebración del matrimonio o dentro del primer año de él, podrá exigir en cualquier tiempo que el mismo marido se la asegure con hipoteca, siempre que haga constar judicialmente la existencia de los bienes dotales o la de otros semejantes o equivalentes en el momento de deducir su reclamación.
+
+###### Artículo 171.
+
+Siempre que el Registrador inscriba bienes de dote estimada a favor del marido hará de oficio la inscripción hipotecaria a favor de la mujer, salvo que ésta hubiere renunciado a su derecho o que la hipoteca se hubiere constituido sobre bienes diferentes.
+
+Si el título presentado para la primera de dichas inscripciones no fuere suficiente para hacer la segunda, se suspenderán una y otra, tomando de ambas la anotación preventiva que proceda.
+
+###### Artículo 172.
+
+La hipoteca legal constituida por el marido a favor de la mujer garantizará la restitución de los bienes o derechos asegurados, sólo en los casos en que dicha restitución deba verificarse, conforme a las leyes y con las limitaciones que éstas determinan, y dejará de surtir efecto y podrá cancelarse siempre que por cualquiera causa legítima quede dispensado el marido de la obligación de restituir.
+
+###### Artículo 173.
+
+La cantidad que deba asegurarse por razón de dote estimada no excederá en ningún caso del importe de la estimación, y si se redujese el de la misma dote, por exceder de la cuantía que el derecho permite, se reducirá igualmente la hipoteca en la misma proporción, previa la cancelación parcial correspondiente.
+
+###### Artículo 174.
+
+Cuando se constituya dote inestimada en bienes no inmuebles, se apreciarán éstos con el único objeto de fijar la cantidad que deba asegurar la hipoteca, para el caso de que no subsistan los mismos bienes al tiempo de su restitución; mas sin que por ello pierda dicha dote su calidad de inestimada, si fuera calificada así en la escritura dotal.
+
+###### Artículo 175.
+
+La hipoteca para asegurar las donaciones por razón de matrimonio sólo tendrá lugar en el caso de que se ofrezcan por el marido como aumento de la dote. Si se ofrecieren sin este requisito, sólo producirán obligación personal, quedando al arbitrio del marido asegurarlas o no con hipoteca.
+
+###### Artículo 176.
+
+El marido no podrá ser obligado a constituir hipoteca por los bienes parafernales muebles de su mujer, sino cuando éstos le sean entregados para su administración por escritura pública y bajo la fe de Notario.
+
+Para constituir esta hipoteca se apreciarán los bienes o se fijará su valor por los que tienen la facultad de exigirla y de calificar su suficiencia.
+
+###### Artículo 177.
+
+Entiéndese por bienes aportados al matrimonio, para los efectos del párrafo último del número primero del artículo ciento sesenta y ocho, aquellos que bajo cualquier concepto, con arreglo a fueros o costumbres locales, traiga la mujer a la sociedad conyugal, siempre que se entreguen al marido, por escritura pública y bajo fe de Notario, para que los administre, bien sea con estimación que cause venta o bien con la obligación de conservarlos y devolverlos a la disolución del matrimonio.
+
+Cuando la entrega de los bienes de que trata el párrafo anterior constare solamente por confesión del marido, no podrá exigirse la constitución de la hipoteca dotal sino en los casos y términos prescritos en el artículo ciento setenta.
+
+###### Artículo 178.
+
+La constitución de hipoteca e inscripción de bienes de que trata el artículo ciento sesenta y nueve sólo podrá exigirse por la misma mujer, si estuviese casada y fuere mayor de edad.
+
+Si no hubiere contraído aún matrimonio, o habiéndolo contraído fuere menor, deberán ejercitar aquel derecho en su nombre y calificar la suficiencia de la hipoteca que se constituya, el padre, la madre o el que diere la dote o los bienes que se deban asegurar.
+
+###### Artículo 179.
+
+A falta de las personas mencionadas en el artículo anterior, y siendo menor la mujer, esté o no casada, deberán pedir que se hagan efectivos los mismos derechos el tutor, el protutor, el Consejo de familia o cualquiera de sus vocales, y si no lo pidieren, el Fiscal solicitará, de oficio o a instancia de cualquier persona, que se compela al marido a la constitución de la hipoteca.
+
+Los Jueces municipales y los comarcales tendrán también obligación de excitar el celo del Ministerio Fiscal, a fin de que cumpla lo preceptuado en el párrafo anterior.
+
+###### Artículo 180.
+
+Si el marido careciere de bienes con que constituir la hipoteca de que trata el número tercero del artículo ciento sesenta y nueve, quedará obligado a constituirla sobre los primeros inmuebles o derechos reales que adquiera, pero sin que esta obligación pueda perjudicar a tercero mientras que no se inscriba la hipoteca.
+
+###### Artículo 181.
+
+Cuando los bienes dotales consistan en rentas o pensiones perpetuas, si llegaren a enajenarse, se asegurará su devolución constituyendo hipoteca por el capital que las mismas rentas o pensiones representen, capitalizadas al interés legal.
+
+Si las pensiones a que se refiere el párrafo anterior fueren temporales y pudieren o debieren subsistir después de la disolución del matrimonio, se constituirá la hipoteca por la cantidad en que convengan los cónyuges, y, en defecto de convenio, por la que fije el Juez o Tribunal.
+
+###### Artículo 182.
+
+Las disposiciones de esta Ley sobre la hipoteca dotal no alteran ni modifican las contenidas en los artículos ochocientos ochenta, ochocientos ochenta y uno y novecientos nueve del Código de Comercio.
+
+###### Artículo 183.
+
+La mujer podrá exigir la subrogación de su hipoteca en otros bienes del marido en cualquier tiempo que lo crea conveniente, desde que haya consentido por escrito en la enajenación o gravamen de los inmuebles afectos a su dote o como condición previa para prestar dicho consentimiento.
+
+Si la mujer se hallare en el caso previsto en el artículo ciento setenta y ocho, podrán también ejercitar este derecho, en su nombre, las personas designadas en el mismo artículo y en el siguiente.
+
+##### Subsección 2.ª De la hipoteca por bienes reservables
+
+###### Artículo 184.
+
+El viudo o la viuda que por repetir matrimonio esté obligado a reservar determinados bienes deberá, con intervención judicial, hacer inventario de todos ellos, inscribirlos, si ya no lo estuvieren, y en todo caso hacer constar en el Registro la calidad de reservables de los inmuebles, tasar los muebles y asegurar con hipoteca especial suficiente las restituciones exigidas por el artículo novecientos setenta y ocho del Código Civil.
+
+Iguales obligaciones tendrán el cónyuge viudo en el caso del artículo novecientos ochenta del Código Civil y el reservista en el del artículo ochocientos once del mismo cuerpo legal, en cuanto les sean aplicables.
+
+###### Artículo 185.
+
+Cuando los reservatarios sean ciertos y mayores de edad, sólo ellos podrán exigir el cumplimiento de las obligaciones contenidas en el artículo anterior; si fueren menores o incapacitados, lo exigirán en su nombre las personas que deban representarlos legalmente. En uno y otro caso, la escritura pública otorgada entre el reservista y los reservatarios o sus representantes legales será título bastante para la inscripción o para hacer constar la calidad de reservables en el asiento correspondiente, según procediera.
+
+###### Artículo 186.
+
+El reservista también podrá, sin el concurso de los reservatarios o de sus representantes legales, hacer constar en el Registro la calidad de reservables de los inmuebles o constituir hipoteca especial suficiente para asegurar las restituciones exigidas por la Ley, acudiendo al Juez competente con sujeción a los trámites determinados en el Reglamento hipotecario.
+
+###### Artículo 187.
+
+Si transcurrieren ciento ochenta días desde que nazca la obligación de reservar sin haberse dado cumplimiento por el reservista a lo establecido en los artículos anteriores, los derechos reconocidos por éstos a favor de los reservatarios podrán ser exigidos por sus parientes, cualquiera que sea su grado, el albacea del cónyuge premuerto y, en su defecto, el Ministerio Fiscal. Si concurrieren con la misma pretensión dos o más de dichas personas, se dará preferencia a quien primero lo hubiere reclamado. La hipoteca en este caso se constituirá conforme al artículo ciento sesenta y cinco de esta Ley.
+
+###### Artículo 188.
+
+El Juez o Tribunal que intervenga en los casos a que se refieren los dos artículos anteriores cuidará, bajo su responsabilidad, de que se hagan los asientos correspondientes en el Registro.
+
+###### Artículo 189.
+
+Si el reservista no tuviere bienes que hipotecar, se instruirá también el expediente prevenido en el artículo ciento ochenta y seis, con el único fin de hacer constar la reserva y su cuantía.
+
+La providencia que en tal caso recaiga se limitará a declarar lo que proceda sobre estos puntos y la obligación del reservista de hipotecar los primeros inmuebles que adquiera.
+
+##### Subsección 3.ª De la hipoteca por los bienes de los que están bajo la patria potestad
+
+###### Artículo 190.
+
+Los hijos a cuyo favor reconoce el artículo ciento sesenta y ocho hipoteca legal tendrán derecho:
+
+Primero. A que los bienes inmuebles de su pertenencia se inscriban a su favor, si ya no lo estuvieren.
+
+Segundo. A que su padre o, en su caso, la madre, si tuvieren bienes hipotecables, aseguren con hipoteca los bienes que no sean inmuebles pertenecientes a los mismos hijos. Si los bienes inmuebles del padre o madre fueren insuficientes, se constituirá, sin embargo, sobre ellos la hipoteca, sin perjuicio de ampliarla a otros que adquieran después, en caso de que así se les exija.
+
+###### Artículo 191.
+
+Podrán pedir en nombre de los hijos que se hagan efectivos los derechos expresados en el artículo anterior:
+
+Primero. Las personas de quienes procedan los bienes.
+
+Segundo. Los herederos o albaceas de dichas personas.
+
+Tercero. Los ascendientes del menor.
+
+Cuarto. El Ministerio Fiscal en defecto de las personas antes expresadas.
+
+##### Subsección 4.ª De la hipoteca por razón de tutela
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 192.
+
+La fianza hipotecaria que deberán prestar los tutores, conforme al número cuarto del artículo 168, se decretará de oficio por la autoridad judicial o a instancia del Ministerio Fiscal o de cualquier pariente con interés legítimo, siempre que la autoridad judicial considere necesaria la prestación de la fianza y no se haya propuesto otra clase de garantía. En la resolución judicial se expresará la cuantía de la fianza y la obligación de aportar al Juzgado la escritura pública de hipoteca unilateral de máximo. Dicha escritura, junto con la aprobación judicial, se presentará en el Registro o Registros competentes por razón de la situación de los bienes hipotecados y será objeto de calificación e inscripción de acuerdo con los requisitos establecidos en esta ley.
+
+La hipoteca legal podrá cancelarse cuando la autoridad judicial lo decrete por haber aceptado la sustitución por otra garantía personal o real. Asimismo, se cancelará cuando hayan sido aprobadas las cuentas de la tutela de que se trate y, en todo caso, cuando hayan transcurrido tres años desde la rendición final de cuentas sin que conste en el Registro ninguna reclamación por razón de las mismas.
+
+> Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 3.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+##### Subsección 5.ª De otras hipotecas legales
+
+###### Artículo 193.
+
+La Autoridad a quien corresponda deberá exigir la constitución de hipotecas especiales sobre los bienes de los que manejen fondos públicos o contraten con el Estado, las provincias o los pueblos en todos los casos y en la forma que prescriban los reglamentos administrativos.
+
+###### Artículo 194.
+
+El Estado, las Provincias o los Pueblos tendrán preferencia sobre cualquier otro acreedor y sobre el tercer adquirente, aunque hayan inscrito sus derechos en el Registro, para el cobro de la anualidad corriente y de la última vencida y no satisfecha de las contribuciones o impuestos que graven a los bienes inmuebles.
+
+A los efectos del párrafo anterior, se entenderá por anualidad vencida la constituida por los cuatro trimestres del ejercicio económico anterior al corriente, sea cualquiera la fecha y periodicidad de la obligación fiscal de pago.
+
+Para tener igual preferencia por mayor suma que la correspondiente a dichas dos anualidades, podrán exigir el Estado, las Provincias o los Pueblos la constitución de una hipoteca especial, en la forma que determinen los Reglamentos administrativos. Esta hipoteca no surtirá efecto sino desde la fecha en que quede inscrita.
+
+###### Artículo 195.
+
+El asegurador de bienes inmuebles tendrá derecho a exigir una hipoteca especial sobre los bienes asegurados, cuyo dueño no haya satisfecho las primas del seguro de dos o más años, o de dos o más de los últimos dividendos pasivos, si el seguro fuere mutuo.
+
+###### Artículo 196.
+
+Mientras no se devenguen las primas de los dos años o los dos últimos dividendos, en su caso, tendrá el crédito del asegurador preferencia sobre los demás créditos.
+
+###### Artículo 197.
+
+Devengados y no satisfechos los dos dividendos o las dos anualidades de que tratan los dos artículos anteriores, deberá constituirse la hipoteca por toda la cantidad que se debiere, y la inscripción no surtirá efecto sino desde su fecha.
+
+### TÍTULO VI — De la concordancia entre el Registro y la realidad jurídica
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 198.
+
+La concordancia entre el Registro de la Propiedad y la realidad física y jurídica extrarregistral se podrá llevar a efecto mediante alguno de los siguientes procedimientos:
+
+1.º La inscripción de la representación gráfica georreferenciada de la finca y su coordinación con el Catastro.
+
+2.º El deslinde registral de la finca.
+
+3.º La rectificación de su descripción.
+
+4.º La inscripción de plantaciones, edificaciones, instalaciones y otras mejoras incorporadas a la finca.
+
+5.º La inmatriculación de fincas que no estén inscritas a favor de persona alguna.
+
+6.º Las operaciones registrales sobre bienes de las Administraciones Públicas, en virtud de certificación administrativa.
+
+7.º El expediente de reanudación del tracto sucesivo interrumpido.
+
+8° El procedimiento de subsanación de la doble o múltiple inmatriculación.
+
+9.º El expediente de liberación registral de cargas o gravámenes extinguidos por prescripción, caducidad o no uso.
+
+Los procedimientos contenidos en este Título podrán acumularse cuando su finalidad sea compatible y recaiga en el mismo funcionario la competencia para su tramitación, debiendo integrarse coetáneamente, si es posible, o sucesivamente en otro caso, la totalidad de los trámites exigidos para cada uno de ellos.
+
+La desestimación de la pretensión del promotor en cualquiera de los expedientes regulados en este Título no impedirá la incoación de un proceso jurisdiccional posterior con el mismo objeto que aquél.
+
+> Se modifica por el art. 1.4 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 199.
+
+1\. El titular registral del dominio o de cualquier derecho real sobre finca inscrita podrá completar la descripción literaria de la misma acreditando su ubicación y delimitación gráfica y, a través de ello, sus linderos y superficie, mediante la aportación de la correspondiente certificación catastral descriptiva y gráfica.
+
+El Registrador sólo incorporará al folio real la representación gráfica catastral tras ser notificada a los titulares registrales del dominio de la finca si no hubieran iniciado éstos el procedimiento, así como a los de las fincas registrales colindantes afectadas. La notificación se hará de forma personal. En el caso de que alguno de los interesados fuera desconocido, se ignore el lugar de la notificación o, tras dos intentos, no fuera efectiva la notificación, se hará mediante edicto insertado en el “Boletín Oficial del Estado”, sin perjuicio de utilizar, en todo caso, el sistema de alertas previsto en la regla séptima del artículo 203. Los así convocados o notificados podrán comparecer en el plazo de los veinte días siguientes ante el Registrador para alegar lo que a su derecho convenga. Cuando las fincas colindantes estén divididas en régimen de propiedad horizontal, la notificación se realizará al representante de la comunidad de propietarios. No será precisa la notificación a los titulares registrales de las fincas colindantes cuando se trate de pisos, locales u otros elementos situados en fincas divididas en régimen de propiedad horizontal.
+
+La certificación gráfica aportada, junto con el acto o negocio cuya inscripción se solicite, o como operación específica, será objeto de calificación registral conforme a lo dispuesto en el artículo 9.
+
+El Registrador denegará la inscripción de la identificación gráfica de la finca, si la misma coincidiera en todo o parte con otra base gráfica inscrita o con el dominio público, circunstancia que será comunicada a la Administración titular del inmueble afectado. En los demás casos, y la vista de las alegaciones efectuadas, el Registrador decidirá motivadamente según su prudente criterio, sin que la mera oposición de quien no haya acreditado ser titular registral de la finca o de cualquiera de las registrales colindantes determine necesariamente la denegación de la inscripción. La calificación negativa podrá ser recurrida conforme a las normas generales.
+
+Si la incorporación de la certificación catastral descriptiva y gráfica fuera denegada por la posible invasión de fincas colindantes inmatriculadas, el promotor podrá instar el deslinde conforme al artículo siguiente, salvo que los colindantes registrales afectados hayan prestado su consentimiento a la rectificación solicitada, bien en documento público, bien por comparecencia en el propio expediente y ratificación ante el Registrador, que dejará constancia documental de tal circunstancia, siempre que con ello no se encubran actos o negocios jurídicos no formalizados e inscritos debidamente.
+
+En caso de calificación positiva, la certificación catastral descriptiva y gráfica se incorporará al folio real y se hará constar expresamente que la finca ha quedado coordinada gráficamente con el Catastro, circunstancia que se notificará telemáticamente al mismo y se reflejará en la publicidad formal que de la misma se expida.
+
+2\. Cuando el titular manifieste expresamente que la descripción catastral no se corresponde con la realidad física de su finca, deberá aportar, además de la certificación catastral descriptiva y gráfica, una representación gráfica georreferenciada alternativa.
+
+El Registrador, una vez tramitado el procedimiento de acuerdo con el apartado anterior, en el que además se deberá notificar a los titulares catastrales colindantes afectados, incorporará la representación gráfica alternativa al folio real, y lo comunicará al Catastro a fin de que incorpore la rectificación que corresponda de acuerdo con lo dispuesto en el apartado 3 del artículo 18 del texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo.
+
+Practicada la alteración, el Catastro lo comunicará al Registrador, a efectos de que este haga constar la circunstancia de la coordinación e incorpore al folio real la nueva representación gráfica catastral de la finca.
+
+La representación gráfica alternativa solo podrá ser objeto de publicidad registral hasta el momento en que el Catastro notifique la práctica de la alteración catastral, y el Registrador haga constar que la finca ha quedado coordinada gráficamente con el Catastro.
+
+> Se modifica por el art. 1.5 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 200.
+
+El expediente de deslinde de fincas inscritas deberá tramitarse ante Notario hábil para actuar en el distrito notarial en donde radiquen las fincas o en cualquiera de los distritos notariales colindantes a dicho distrito. Si las fincas cuyo deslinde se pretende estuvieran ubicadas en territorio perteneciente a distintos distritos notariales, el expediente podrá tramitarse ante Notario hábil para actuar en el distrito notarial de cualquiera de ellas o en cualquiera de sus distritos colindantes.
+
+Se iniciará el expediente a instancia del titular registral del dominio, o de ser varios de cualquiera de ellos, o de cualquier derecho real mediante escrito en el que se harán constar las circunstancias tanto de la finca que se pretende deslindar, como las colindantes afectadas, así como los datos identificativos de los titulares de una y otras, incluidos los catastrales y su domicilio cuando fuese conocido por el promotor. Si el deslinde solicitado no se refiere a la totalidad del perímetro de la finca, se determinará la parte a que haya de contraerse.
+
+El promotor del deslinde deberá aportar, en todo caso, la certificación catastral descriptiva y gráfica de la finca objeto del expediente y de las colindantes afectadas, así como los documentos o justificantes que sirvan de fundamento a su pretensión. Además, en caso de que el promotor manifieste que la representación gráfica catastral no coincide con el deslinde solicitado, deberá aportar representación gráfica georreferenciada del mismo.
+
+El Notario comunicará el inicio del expediente a todos los interesados, quienes, en el plazo de quince días, podrán hacer las alegaciones y presentar las pruebas que estimen procedentes. El Notario dará traslado a dichos interesados de toda la documentación aportada y convocará a los mismos, en el plazo de otros treinta días, a una comparecencia, para buscar la avenencia entre ellos. También notificará el inicio del expediente al Registro de la Propiedad en el que se encuentren inscritas las fincas, al objeto de que se expida certificación de titularidad y cargas de las mismas y de sus colindantes afectadas, cuyos titulares habrán de ser notificados del expediente por el Notario, haciendo constar el Registrador por nota al margen de las fincas la expedición de dicha certificación, con indicación del Notario que tramite el expediente y su finalidad. La referida nota marginal se cancelará por caducidad trascurridos dos años desde su fecha.
+
+De lograrse el acuerdo, se hará constar el mismo en escritura pública, procediendo el Notario en la forma establecida en el párrafo segundo de la letra c) del apartado 2 del artículo 18 del texto refundido de la Ley del Catastro Inmobiliario. Lo mismo se hará si el acuerdo fuese parcial, respecto de alguno o algunos de los linderos. No habiendo acuerdo entre los interesados, el Notario dará por concluso el expediente.
+
+Si el Registrador, a la vista de las circunstancias concurrentes en el expediente y del contenido del historial de las fincas en el Registro, albergare dudas fundadas sobre la posibilidad de que el acuerdo de deslinde alcanzado encubriese un negocio traslativo u operaciones de modificación de entidad hipotecaria, procederá a suspender la inscripción solicitada motivando las razones en que funde tales dudas.
+
+Lo dispuesto en este artículo no resultará de aplicación a los inmuebles cuya titularidad corresponda a las Administraciones Públicas. En este caso, el deslinde se practicará conforme a su legislación específica.
+
+> Se modifica por el art. 1.6 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 201.
+
+1\. El expediente para rectificar la descripción, superficie o linderos de cualquier finca registral se tramitará siguiendo las reglas prevenidas en el artículo 203, con las siguientes particularidades:
+
+a) Podrá promoverlo el titular registral de la totalidad o de una cuota indivisa en el dominio, o de cualquier derecho real, mediante la aportación al Notario de la descripción registral de la finca y su descripción actualizada, asegurando bajo su responsabilidad que las diferencias entre ambas obedecen exclusivamente a errores descriptivos del Registro y no a la celebración de negocios traslativos o en general a cualquier modificación, no registrada, de la situación jurídica de la finca inscrita.
+
+b) Asimismo deberá el interesado expresar los datos de que disponga sobre la identidad y domicilio de los titulares del dominio y demás derechos reales sobre la propia finca y sobre las colindantes tanto registrales como catastrales, aportando, en todo caso, la certificación catastral descriptiva y gráfica de la finca o fincas objeto del expediente. Además, en caso de que el promotor manifieste que la representación gráfica catastral no coincide con la rectificación solicitada, deberá aportar representación gráfica georreferenciada de la misma.
+
+c) No será de aplicación al expediente regulado en el presente artículo lo dispuesto en el apartado c) de la regla segunda, los apartados d) y e) de la regla quinta y el último párrafo de la regla sexta del artículo 203. En cuanto a la regla tercera, el contenido de las certificaciones se entenderá limitado a la rectificación cuya inscripción se solicita.
+
+d) En el supuesto de que se haya aportado representación gráfica alternativa, el Notario procederá conforme a lo dispuesto en el párrafo segundo de la letra c) del apartado 2 del artículo 18 del texto refundido de la Ley del Catastro Inmobiliario.
+
+e) No podrá tramitarse el expediente regulado en los apartados anteriores para la rectificación descriptiva de edificaciones, fincas o elementos integrantes de cualquier edificio en régimen de división horizontal o fincas resultantes de expediente administrativo de reorganización de la propiedad, expropiación o deslinde. En tales casos, será necesaria la rectificación del título original o la previa tramitación del procedimiento administrativo correspondiente.
+
+Si el Registrador, a la vista de las circunstancias concurrentes en el expediente y del contenido del historial de las fincas en el Registro, albergare dudas fundadas sobre la posibilidad de que el expediente de rectificación de descripción registral encubriese un negocio traslativo u operaciones de modificación de entidad hipotecaria, procederá a suspender la inscripción solicitada motivando las razones en que funde tales dudas.
+
+2\. Podrá, no obstante, realizarse la rectificación de la descripción de cualquier finca, sin necesidad de tramitación de expediente, cuando se trate de alteración de su calificación o clasificación, destino, características físicas distintas de la superficie o los linderos, o los datos que permitan su adecuada localización o identificación, tales como el nombre por el que fuere conocida la finca o el número o denominación de la calle, lugar o sitio en que se encuentre, siempre que, en todos los casos, la modificación se acredite de modo suficiente, en la forma que se determine reglamentariamente.
+
+3\. Tampoco será necesario tramitar el expediente de rectificación para la constatación de diferencias de cabida de la finca inscrita, en los siguientes supuestos:
+
+a) Cuando las diferencias de cabida no excedan del diez por ciento de la inscrita y se acredite mediante certificación catastral descriptiva y gráfica, siempre que de los datos descriptivos respectivos se desprenda la plena coincidencia entre la parcela objeto del certificado y la finca inscrita.
+
+b) En los supuestos de rectificación de la superficie, cuando la diferencia alegada no exceda del cinco por ciento de la cabida que conste inscrita.
+
+En ambos casos será necesario que el Registrador, en resolución motivada, no albergue dudas sobre la realidad de la modificación solicitada, fundadas en la previa comprobación, con exactitud, de la cabida inscrita, en la reiteración de rectificaciones sobre la misma o en el hecho de proceder la finca de actos de modificación de entidades hipotecarias, como la segregación, la división o la agregación, en los que se haya determinado con exactitud su superficie. Realizada la operación registral, el Registrador la notificará a los titulares registrales de las fincas colindantes.
+
+> Se modifica por el art. 1.7 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+> Se modifican las reglas 3ª y 7ª por el art. 3.6 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+###### Artículo 202.
+
+Las nuevas plantaciones y la construcción de edificaciones o asentamiento de instalaciones, tanto fijas como removibles, de cualquier tipo, podrán inscribirse en el Registro por su descripción en los títulos referentes al inmueble, otorgados de acuerdo con la normativa aplicable para cada tipo de acto, en los que se describa la plantación, edificación, mejora o instalación. En todo caso, habrán de cumplirse todos los requisitos que hayan de ser objeto de calificación registral, según la legislación sectorial aplicable en cada caso.
+
+La porción de suelo ocupada por cualquier edificación, instalación o plantación habrá de estar identificada mediante sus coordenadas de referenciación geográfica.
+
+Salvo que por la antigüedad de la edificación no le fuera exigible, deberá aportarse para su archivo registral el libro del edificio, dejando constancia de ello en el folio real de la finca. En tal caso, cuando se trate de edificaciones en régimen de propiedad horizontal, se hará constar en el folio real de cada elemento independiente su respectiva representación gráfica, tomada del proyecto incorporado al libro.
+
+> Se modifica por el art. 1.8 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 203.
+
+1\. El expediente de dominio para la inmatriculación de fincas que no estén inscritas en el Registro de la Propiedad a favor de persona alguna se tramitará con sujeción a las siguientes reglas:
+
+Primera. El expediente deberá tramitarse ante Notario hábil para actuar en el distrito notarial donde radique la finca o en cualquiera de los distritos notariales colindantes a dicho distrito. Si la finca estuviera radicada en el territorio correspondiente a dos o más distritos notariales diferentes, podrá tramitarse el expediente ante un Notario de cualquiera de estos distritos o de sus respectivos colindantes. Podrá instruirse un solo expediente para varias fincas siempre que las mismas estén situadas en el territorio de un mismo Registro, aunque alguna de ellas esté situada parcialmente en un distrito hipotecario colindante, siempre que la mayor parte de su superficie radique en dicho Registro.
+
+Segunda. Se iniciará el procedimiento mediante solicitud por escrito del titular dominical de la finca, en la cual, junto a la descripción literaria de la finca, realizada en los términos prevenidos reglamentariamente, deberán hacerse constar los datos personales del promotor y su domicilio para la práctica de notificaciones, acompañándose además los siguientes documentos:
+
+a) Título de propiedad de la finca que se pretende inmatricular, que atribuya el dominio sobre la misma al promotor del expediente, junto con certificación catastral descriptiva y gráfica de la parcela o parcelas catastrales, que se correspondan con la descripción literaria y la delimitación gráfica de la finca cuya inmatriculación se solicita, con expresión de los titulares catastrales de dichas parcelas y sus colindantes, así como sus respectivos domicilios.
+
+b) Relación de los datos registrales, catastrales o de cualquier otro origen de los que disponga el promotor y sirvan para localizar las fincas registrales y parcelas catastrales colindantes. En particular, el nombre y domicilio de sus propietarios actuales, si fueran distintos de los recogidos en las certificaciones catastrales descriptivas y gráficas, así como los titulares de cargas o gravámenes sobre las mismas.
+
+c) Identificación de los derechos constituidos sobre la finca, expresando las cargas a que pueda hallarse afecta o las acciones con transcendencia real ejercitadas en relación con la misma, indicando los nombres de los titulares o actores, sus domicilios y cualesquiera otras circunstancias que ayuden a su correcta identificación, quienes serán requeridos para que, si les conviene, soliciten la inscripción o anotación omitida, presentando a tal fin los títulos necesarios en el Registro.
+
+d) Deberá identificarse también a los poseedores de la finca que se pretende inmatricular y al arrendatario de ella, si se trata de vivienda.
+
+Tercera. El Notario levantará acta a la que incorporará la documentación presentada, remitiendo copia de la misma al Registrador de la Propiedad competente solicitando la expedición de certificación acreditativa de que la finca no consta inscrita en el Registro y que, en su caso, practique anotación preventiva de la pretensión de inmatriculación.
+
+El Registrador, tras consultar su archivo, tanto literario como de representación gráfica en soporte papel o informático, expedirá en el plazo de quince días certificación acreditativa de la falta de inscripción de la finca, siempre que haya verificado que concurren las siguientes circunstancias:
+
+a) La correspondencia entre la descripción contenida en el título de propiedad aportado y la certificación catastral.
+
+b) La falta de previa inmatriculación de la finca a favor de persona alguna.
+
+c) La ausencia de dudas fundadas sobre la coincidencia total o parcial de la finca cuya inmatriculación se solicita con otra u otras que hubiesen sido previamente inmatriculadas.
+
+En caso contrario, procederá el Registrador a extender nota de denegación de la anotación solicitada, motivando suficientemente las causas de dicha negativa, a la que deberá acompañar, en su caso, certificación literal de la finca o fincas coincidentes, comunicándolo inmediatamente al Notario, con el fin de que proceda al archivo de las actuaciones.
+
+Del mismo modo, si el Registrador tuviera dudas fundadas sobre la coincidencia total o parcial de la finca cuya inmatriculación se pretende con otra u otras de dominio público que no estén inmatriculadas pero que aparezcan recogidas en la información territorial asociada, facilitada por las Administraciones Públicas, notificará tal circunstancia a la entidad u órgano competente, acompañando certificación catastral descriptiva y gráfica de la finca que se pretende inmatricular, con el fin de que, por dicha entidad, se remita el informe correspondiente dentro del plazo de un mes a contar desde el día siguiente a la recepción de la notificación. Si la Administración manifestase su oposición a la inmatriculación, o no remitiendo su informe dentro de plazo, el Registrador conservase dudas sobre la existencia de una posible invasión del dominio público, denegará la anotación solicitada, notificando su calificación al Notario para que proceda al archivo de las actuaciones, motivando suficientemente las causas de dicha negativa, junto con certificación o traslado de los datos procedentes de la información territorial utilizada y, en su caso, certificación literal de la finca o fincas que estime coincidentes.
+
+Cuarta. En otro caso, el Registrador practicará la anotación solicitada y remitirá al Notario, para unir al expediente, la certificación registral, acreditativa de la falta de inscripción de la finca y de coincidencia de la misma con otra u otras previamente inmatriculadas.
+
+La anotación, que solo se extenderá si del escrito inicial y sus documentos complementarios resultan todas las circunstancias exigidas, tendrá una vigencia de noventa días, pudiendo ser prorrogada a instancia del Notario o del promotor del expediente, hasta un máximo de ciento ochenta días de su fecha, si a juicio del Registrador existe causa que lo justifique.
+
+Quinta. Recibida la comunicación del Registro acreditativa de la extensión de la anotación, acompañada de la correspondiente certificación, el Notario notificará la pretensión de inmatriculación, en la forma prevenida reglamentariamente, a todos aquellos que, de la relación de titulares contenida en el escrito acompañado a la solicitud, resulten interesados como titulares de cargas, derechos o acciones que puedan gravar la finca que se pretende inmatricular, a aquel de quien procedan los bienes o sus causahabientes, si fuesen conocidos, al titular catastral y al poseedor de hecho de la finca, así como al Ayuntamiento en que esté situada la finca y a la Administración titular del dominio público que pudiera verse afectado, para que puedan comparecer en el expediente y hacer valer sus derechos. Asimismo, insertará un edicto comunicando la tramitación del acta para la inmatriculación en el “Boletín Oficial del Estado”, que lo publicará gratuitamente. Potestativamente el Notario, atendidas las circunstancias del caso, podrá ordenar la publicación del edicto en el tablón de anuncios del Ayuntamiento, también de forma gratuita. En la notificación se hará constar:
+
+a) El nombre y apellidos, domicilio, estado, profesión, número de documento o código de identidad del promotor y cualesquiera otros datos que puedan facilitar su identificación.
+
+b) Los bienes descritos tal como resultan de la certificación catastral de la parcela.
+
+c) La especie de derecho, carga o acción en que, según el promotor, pueda estar interesada la persona notificada.
+
+d) Los términos en que, sin merma de sus derechos, podrán inscribirse o anotarse los documentos públicos de que los mismos resulten.
+
+e) Apercibimiento sobre los perjuicios que, de la omisión de la inscripción o anotación, puedan derivarse.
+
+Asimismo, notificará la solicitud, con expresión literal de los extremos recogidos en las letras a) y b) y en la forma prevenida en esta Ley, a los propietarios de las fincas registrales y catastrales colindantes y a los titulares de derechos reales constituidos sobre ellas en los domicilios que consten en el Registro y, caso de ser distintos, en cualesquiera otros que resulten del expediente.
+
+Sexta. Cualquier interesado podrá hacer alegaciones ante el Notario y aportar pruebas escritas de su derecho durante el plazo de un mes.
+
+Si se formulase oposición por cualquiera de los interesados, con expresión de la causa en que se funde, el Notario dará por concluso el expediente y archivará las actuaciones, dando cuenta inmediata al Registrador. En ese caso, el promotor podrá entablar demanda en juicio declarativo contra todos los que se hubieran opuesto, ante el Juez de primera instancia correspondiente al lugar en que radique la finca. En otro caso, levantará el Notario acta accediendo a la pretensión del solicitante, en la que se recogerán las incidencias del expediente, los documentos aportados, así como la falta de oposición por parte de ninguno de los posibles interesados, y remitirá copia al Registrador para que practique, si procede, la inmatriculación solicitada.
+
+En caso de calificación positiva por el Registrador, éste procederá a extender la inscripción del derecho de dominio, cuyos efectos se retrotraerán a la fecha del asiento de presentación inicial del acta remitida por el Notario a que se refiere el párrafo anterior. Si se hubiere tomado anotación preventiva de haberse incoado el procedimiento, se convertirá en inscripción definitiva.
+
+La prioridad de las cargas o gravámenes, reconocidos o constituidos por el propietario o por la autoridad judicial o administrativa competente, cuyos títulos hayan sido aportados al expediente o se hayan presentado en el Registro antes de que la inmatriculación se practique y sean calificados favorablemente por el Registrador, se decidirá atendiendo a las normas sobre preferencia establecidas por la legislación civil y en la normativa específica que resultase aplicable en atención a la naturaleza del crédito y de la carga o gravamen y, en su defecto, a la fecha de los mismos títulos. Si fuesen incompatibles y no se manifestare por los interesados la preferencia, se tomará anotación preventiva de cada uno, hasta que por los Tribunales se decida a cuál de ellos ha de darse preferencia.
+
+Séptima. El Registrador ordenará la publicación de un edicto que refleje los datos de la finca o fincas que resulten del expediente, así como su titularidad y cargas. El edicto, notificando a todos los interesados y a las personas ignoradas a quienes pueda perjudicar el expediente, habrá de publicarse de forma gratuita en el “Boletín Oficial del Estado”. La publicación efectiva del edicto se hará constar por nota al margen de la inscripción del dominio de la finca inmatriculada. También se utilizará, a efectos meramente informativos, un servicio en línea, relacionado con la aplicación de representación gráfica a que se refiere el artículo 9, para crear alertas específicas sobre fincas que fueran afectadas por procedimientos de inmatriculación, deslinde o rectificación de cabida o linderos.
+
+Octava. Durante la vigencia del asiento de presentación, o de la anotación preventiva, no podrá iniciarse otro procedimiento de inmatriculación que afecte de forma total o parcial a la finca objeto del mismo.
+
+Fuera de los supuestos de oposición, frente a la denegación de la anotación preventiva o la inmatriculación por parte del Registrador podrán los interesados interponer los recursos previstos en esta Ley para la calificación negativa; quedando siempre a salvo la facultad de los interesados para acudir al procedimiento correspondiente, en defensa de su derecho al inmueble.
+
+En ambos casos, se aplicarán a la anotación preventiva las normas sobre prórroga y mantenimiento de la vigencia del asiento de presentación prevenidas para el caso de interposición de recurso frente a la calificación del Registrador.
+
+Fuera de tales casos, siempre que se entable juicio declarativo ordinario relativo al dominio o cualquier otro derecho inscribible, relativo a la misma finca, se dará inmediatamente por concluso el expediente.
+
+2\. El titular de un derecho real impuesto sobre fincas ajenas no inscritas podrá solicitar la inscripción de aquél con sujeción a las reglas siguientes:
+
+Primera. Presentará su título en el Registro de la Propiedad en cuyo distrito hipotecario se ubiquen la finca o fincas afectadas, solicitando que se tome anotación preventiva por falta de previa inscripción.
+
+Segunda. Practicada la anotación, el Registrador requerirá al dueño para que, en el término de veinte días a contar desde el requerimiento, inscriba su propiedad, bajo apercibimiento de que si no lo verificara o impugnara tal pretensión dentro de dicho término, podrá el anotante del derecho real solicitar la inscripción como establece la regla tercera.
+
+Si se ignorase el lugar para el requerimiento o tras dos intentos no fuera efectivo, se hará éste mediante un edicto inserto en el “Boletín Oficial del Estado”, contándose los veinte días desde esta inserción.
+
+Tercera. Transcurrido el plazo de veinte días, el anotante podrá pedir la inscripción del dominio. Si no tuviera los documentos necesarios, acudirá al Registrador para que, con citación del dueño, solicite del Notario, Juzgado o dependencia administrativa donde radiquen los archivos en que se encuentren, que expidan copia o testimonio de ellos y se le entreguen al anotante a dicho objeto. En defecto de documentos o cuando, siendo estos defectuosos, no opte por subsanarlos, podrá el interesado justificar el dominio del dueño en la forma que prescribe esta Ley.
+
+Cuarta. El Registrador inscribirá el dominio cuando se le pida, según las reglas anteriores, dejando archivado, en su caso, el documento en que conste el requerimiento, del cual dará las certificaciones que los interesados soliciten, y convertirá en inscripción definitiva la anotación del derecho real. Si la anotación hubiera caducado se inscribirá el derecho real, previa nueva presentación del título.
+
+Quinta. El Registrador dará por concluido el procedimiento siempre que con anterioridad a la práctica de dichos asientos se le acredite la interposición de demanda impugnando la pretensión del anotante, sin perjuicio de las medidas cautelares que puedan ser acordadas por el Juez o Tribunal.
+
+> Se modifica por el art. 1.9 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 204.
+
+Además del procedimiento prevenido en el artículo anterior y la posibilidad de inscripción de los títulos previstos en los artículos 205 y 206, podrá obtenerse también la inmatriculación de fincas en el Registro de la Propiedad en los siguientes supuestos:
+
+1.º Cuando se trate de fincas aportadas a expedientes de transformación o equidistribución urbanística y se pretenda la inmatriculación en virtud de los documentos en cuya virtud se proceda a la inscripción de las fincas de resultado.
+
+2.º Cuando se trate de fincas de reemplazo resultantes de expedientes de concentración parcelaria.
+
+3.º Cuando se trate de fincas que hubieran sido objeto de expropiación forzosa.
+
+4.º Cuando se trate de fincas de titularidad pública resultantes de procedimientos administrativos de deslinde.
+
+5.º En virtud de sentencia que expresamente ordene la inmatriculación, obtenida en procedimiento declarativo en que hayan sido demandados todos los que, de conformidad con lo establecido en el artículo 203, deban intervenir en el expediente, observándose las demás garantías prevenidas en dicho artículo.
+
+Cuando las nuevas fincas creadas en virtud de los procedimientos a que se refiere este precepto no hubieran sido incorporadas previamente al plano parcelario catastral con delimitación de las parcelas que hayan de corresponderles, el Registrador remitirá por medios electrónicos a la Dirección General del Catastro copia de la representación gráfica aportada para la inmatriculación el día siguiente al de su presentación en el Registro de la Propiedad. El Catastro devolverá al Registrador las referencias catastrales de las fincas objeto del acto de que se trate para su incorporación al asiento, y la representación gráfica catastral indicando, en su caso, si la finca ha de entenderse coordinada con la descripción gráfica catastral.
+
+Una vez practicada la inmatriculación, el Registrador expedirá el edicto a que se refiere la regla séptima del apartado 1 del artículo anterior.
+
+> Se modifica por el art. 1.10 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 205.
+
+Serán inscribibles, sin necesidad de la previa inscripción y siempre que no estuvieren inscritos los mismos derechos a favor de otra persona, los títulos públicos traslativos otorgados por personas que acrediten haber adquirido la propiedad de la finca al menos un año antes de dicho otorgamiento también mediante título público, siempre que exista identidad en la descripción de la finca contenida en ambos títulos a juicio del Registrador y, en todo caso, en la descripción contenida en el título inmatriculador y la certificación catastral descriptiva y gráfica que necesariamente debe ser aportada al efecto.
+
+El Registrador deberá verificar la falta de previa inscripción de la finca a favor de persona alguna y no habrá de tener dudas fundadas sobre la coincidencia total o parcial de la finca cuya inmatriculación se pretende con otra u otras que hubiesen sido previamente inmatriculadas.
+
+Si el Registrador tuviera dudas fundadas sobre la coincidencia total o parcial de la finca cuya inmatriculación se pretende con otra u otras de dominio público que no estén inmatriculadas pero que aparezcan recogidas en la información territorial asociada facilitada por las Administraciones Públicas, notificará tal circunstancia a la entidad u órgano competente, acompañando la certificación catastral descriptiva y gráfica de la finca que se pretende inmatricular con el fin de que, por dicha entidad, se remita el informe correspondiente, dentro del plazo de un mes a contar desde el día siguiente a la recepción de la notificación.
+
+Si la Administración manifestase su oposición a la inmatriculación o, no remitiendo su informe dentro de plazo, el Registrador conservase dudas sobre la existencia de una posible invasión del dominio público, denegará la inmatriculación pretendida.
+
+En caso de calificación positiva por el Registrador, éste procederá a extender la inscripción del derecho de dominio, notificará la inmatriculación realizada, en la forma prevenida reglamentariamente, al poseedor de hecho, a los titulares de cargas, derechos o acciones que puedan gravar la finca y fueran conocidos, a los propietarios de las fincas registrales y catastrales colindantes en los domicilios que consten en el Registro y, caso de ser distintos, en cualesquiera otros que resulten de los documentos aportados, así como al Ayuntamiento en que esté situada la finca. Asimismo ordenará la publicación del edicto y utilizará el servicio en línea para creación de alertas específicas a que refiere la regla séptima del apartado 1 del artículo 203.
+
+> Se modifica por el art. 1.11 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 206.
+
+1\. Las Administraciones Públicas y las entidades de Derecho público con personalidad jurídica propia vinculadas o dependientes de cualquiera de aquéllas podrán inmatricular los bienes de su titularidad, mediante la aportación de su título escrito de dominio, cuando dispongan de él, junto con certificación administrativa librada, previo informe favorable de sus servicios jurídicos, por el funcionario a cuyo cargo se encuentre la administración de los mismos, acreditativa del acto, negocio o modo de su adquisición y fecha del acuerdo del órgano competente para su inclusión en el inventario correspondiente o, caso de no existir, fecha del acuerdo de aprobación de la última actualización del inventario de la que resulte la inclusión del inmueble objeto de la certificación con indicación de la referencia o indicador que tenga asignado en el mismo, así como de su descripción, naturaleza patrimonial o demanial y su destino en el primer caso o su eventual afectación, adscripción o reserva, en el segundo.
+
+Asimismo, las entidades referidas deberán aportar certificación catastral descriptiva y gráfica de la parcela o parcelas catastrales, que se corresponda con la descripción literaria y la delimitación geográfica de la finca cuya inmatriculación se solicita en la forma establecida en la letra b) del artículo 9. Solo en caso de que la finca careciese de certificación catastral descriptiva y gráfica, podrá aportarse una representación gráfica georreferenciada alternativa, la cual deberá corresponderse con la descripción literaria realizada y respetar la delimitación de los colindantes catastrales y registrales. A la representación gráfica alternativa deberá acompañarse informe del Catastro.
+
+2\. En todo caso, será preciso que el Registrador compruebe la falta de previa inmatriculación de todo o parte del inmueble. Si advirtiera la existencia de fincas inscritas coincidentes en todo o en parte, denegará la inmatriculación solicitada, previa expedición de certificación de las referidas fincas, que remitirá al organismo interesado junto con la nota de calificación.
+
+3\. Practicada la inmatriculación, el Registrador expedirá el edicto a que se refiere la regla séptima del apartado 1 del artículo 203 con el mismo régimen en ella previsto, incluido el sistema de alertas.
+
+4\. Junto al procedimiento registral ordinario, cuando se trate de fincas propiedad de alguna de las entidades referidas en el apartado 1, podrá obtenerse la reanudación del tracto sucesivo interrumpido a través de certificación administrativa, expedida con los requisitos señalados en el presente artículo, que ponga fin al procedimiento regulado en el apartado 3 del artículo 37 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+5\. Además de ello, mediante certificación administrativa del acto en que así se disponga, podrán practicarse, en los bienes de titularidad de las Administraciones Públicas y de las entidades de Derecho público a que refiere el apartado 1 de este artículo, operaciones registrales de agrupación, división, agregación, segregación, declaración de obra nueva, división horizontal, constitución de conjuntos inmobiliarios, rectificación descriptiva o cancelación, siempre que tales actos no afecten a terceros que no hubieran sido citados en el expediente, se cumplan los requisitos establecidos por la legislación sectorial y se aporte la representación gráfica catastral de la finca o representación alternativa, en los términos previstos en el artículo 10.
+
+> Se modifica por el art. 1.12 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+> Se añade el párrafo segundo por el art. 144 de la Ley 13/1996, de 30 de diciembre. [Ref. BOE-A-1996-29117](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-29117).
+
+###### Artículo 207.
+
+Si la inmatriculación de la finca se hubiera practicado con arreglo a lo establecido en los números 1.°, 2.°, 3.° y 4.° del artículo 204, el artículo 205 y el artículo 206, los efectos protectores dispensados por el artículo 34 de esta Ley no se producirán hasta transcurridos dos años desde su fecha. Esta limitación se hará constar expresamente en el acta de inscripción, y en toda forma de publicidad registral durante la vigencia de dicha limitación.
+
+> Se modifica por el art. 1.13 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 208.
+
+La reanudación del tracto sucesivo interrumpido se realizará en expediente tramitado con arreglo a las siguientes reglas:
+
+Primera. No se entenderá producida la interrupción del tracto sucesivo cuando la persona a cuyo favor hubiera de practicarse la inscripción haya adquirido su derecho directamente del titular registral o sus herederos. En tal caso, la inscripción únicamente podrá practicarse mediante la presentación del documento en que se hubiera formalizado la adquisición, declaración o constitución del derecho, objeto de la inscripción solicitada.
+
+Segunda. La tramitación se acomodará a lo previsto en el artículo 203, con las siguientes especialidades:
+
+1.ª Se iniciará el expediente mediante escrito en el cual, junto a la descripción de la finca, se expresará la última inscripción de dominio y todas las demás que estuvieren vigentes, cualquiera que sea su clase, y al que deberán acompañarse los documentos prevenidos en la letra a) de la regla segunda del apartado 1 del referido artículo.
+
+2.ª Deberán aportarse por el interesado, junto con los documentos que acrediten su adquisición, aquellos otros de los que disponga que justifiquen la adquisición de los titulares intermedios de los que traiga causa y cualesquiera otros que considere oportuno para justificar su petición.
+
+3.ª Junto a los interesados referidos en la regla quinta del apartado 1 del artículo 203, deberá ser citado en todo caso quien aparezca, según la última inscripción vigente, como titular del dominio o derecho real cuyo tracto interrumpido se pretende reanudar o, si consta fallecimiento de este, sus herederos, debiendo acreditar el promotor tal extremo y la condición e identidad de éstos.
+
+4.ª Cuando la última inscripción de dominio o del derecho real cuyo tracto se pretenda reanudar tenga menos de treinta años de antigüedad, la citación al titular registral o sus herederos deberá realizarse de modo personal.
+
+La misma regla se observará si, a pesar de tener la inscripción más de treinta años de antigüedad, se hubiese practicado con posterioridad, dentro de dicho plazo, cualquier otro asiento relativo a cualquier título otorgado por el titular registral o sus herederos.
+
+Tercera. Si los citados comparecieran y así lo convinieran unánimemente en virtud de acta firmada por el Notario junto con todos los interesados, se extenderá la inscripción del título del solicitante, si fuera procedente.
+
+Cuarta. Si alguno de los citados no compareciese o, compareciendo, formulase oposición, el Notario dará por conclusas las actuaciones, dejando constancia de dicho extremo en el acta que ponga fin al expediente con expresión de la causa en que se funde. En ese caso, el promotor podrá entablar demanda en juicio declarativo contra todos los que no hubieran comparecido o se hubieran opuesto, ante el Juez de primera instancia correspondiente al lugar en que radique la finca.
+
+Quinta. No perjudicarán al titular de buena fe a cuyo favor hubieran sido practicadas las inscripciones resultantes del expediente a que se refiere este artículo, cualquiera que fuese la naturaleza del título en que se funde, los títulos de dominio o de otros derechos reales contradictorios con el del solicitante que no hubieran sido inscritos en el Registro con anterioridad.
+
+> Se modifica por el art. 1.14 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 209.
+
+1\. La subsanación de la doble o, en general, múltiple inmatriculación de una misma finca o parte de ella en folios registrales distintos tendrá lugar a través de expediente que se tramitará con sujeción a las reglas siguientes:
+
+Primera. Será competente para su tramitación y resolución el Registrador del distrito hipotecario en que radique la finca doblemente inmatriculada. Si la superficie de la finca se extendiese sobre territorio de dos o más Registros, la competencia vendrá determinada por el historial registral más antiguo, y si todos fueran de la misma fecha, corresponderá al Registrador del distrito donde se sitúe la mayor parte de la superficie de la finca.
+
+Segunda. El expediente se iniciará de oficio por el Registrador, o a instancia del titular registral de cualquier derecho inscrito en alguno de los diferentes historiales registrales coincidentes, en los cuales deberán hacerse constar, en los términos prevenidos reglamentariamente, los datos personales del solicitante y un domicilio para la práctica de notificaciones.
+
+Tercera. Si el Registrador, una vez realizadas las investigaciones pertinentes en su propio archivo, incluido el examen de las representaciones gráficas de que disponga, y recabados los datos pertinentes del Catastro Inmobiliario, apreciara la coincidencia de las fincas y, en consecuencia, la posibilidad de doble inmatriculación, total o parcial, notificará tal circunstancia a los titulares de los derechos inscritos en cada una de las fincas registrales o a sus causahabientes, si fueren conocidos, en la forma prevenida en esta Ley, dejando constancia de ello mediante nota al margen de la última inscripción de dominio extendida en el folio de cada uno de los historiales coincidentes.
+
+Cuarta. Cuando el dominio sobre la finca aparezca inscrito en los distintos folios registrales en favor de una misma persona, si los mismos estuviesen libres de cargas o fueran estas exactamente las mismas y estuviesen inscritas siguiendo el mismo orden, de modo que no puedan producirse perjuicios para terceros, la contradicción se salvará con el consentimiento de los interesados, practicando al final del historial registral más reciente un asiento de cierre o cancelación del mismo, haciendo referencia a este hecho, mediante la oportuna nota al margen en el historial más antiguo.
+
+Quinta. Si fueren distintos los titulares del dominio o de las cargas inscritas o siendo coincidentes no guardasen idéntico orden, el Registrador convocará a los interesados a fin de lograr el acuerdo que determine las titularidades que han de recaer sobre la finca y la prelación registral entre ellas.
+
+Sexta. Si todos comparecieran y unánimemente convinieran las rectificaciones que, a su juicio, hayan de realizarse, el Registrador, siempre que estimase legalmente procedentes las operaciones así convenidas, hará constar documentalmente el acuerdo, que firmará con los interesados, y procederá a cancelar el historial de la finca registral más moderna y, en su caso, rectificar la más antigua, en la forma acordada.
+
+Séptima. Si alguno de los interesados no compareciese o, compareciendo, formulase oposición en cualquier fase de la tramitación, el Registrador dará por concluido el expediente, dejando constancia documental de dicho extremo y también por nota al margen de la última inscripción de dominio practicada en cada uno de los folios reales coincidentes.
+
+En tal caso, el promotor del expediente podrá entablar demanda en juicio declarativo contra quienes no hubieran comparecido o hubiesen formulado oposición ante el Juez de primera instancia correspondiente al lugar en que radique la finca.
+
+Fuera de los supuestos de oposición, frente a la denegación de la constatación de la doble inmatriculación por parte del Registrador podrán los interesados interponer los recursos previstos en esta Ley para la calificación negativa; quedando siempre a salvo la facultad de los interesados para acudir al procedimiento correspondiente, en defensa de su derecho al inmueble.
+
+Octava. Las notas marginales de doble inmatriculación practicadas en los folios de las fincas afectadas caducarán a los seis meses de su fecha, salvo que dentro de dicho plazo se practique anotación preventiva, como consecuencia de la presentación en el Registro de la demanda interpuesta en el procedimiento judicial correspondiente.
+
+En todos los casos, se aplicarán al asiento de presentación y, en su caso, a la anotación preventiva practicada las normas sobre prórroga o mantenimiento de vigencia prevenidas para el caso de interposición de recurso frente a la calificación del Registrador.
+
+Novena. En todos los demás supuestos, siempre que se entable juicio declarativo ordinario relativo al dominio o cualquier otro derecho inscribible, relativo a la misma finca, se dará inmediatamente por concluso el expediente.
+
+2\. Lo dispuesto en este artículo se entenderá sin perjuicio de lo previsto en el apartado 4 del artículo 37 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, y demás disposiciones concordantes.
+
+> Se modifica por el art. 1.15 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+###### Artículo 210.
+
+1\. El titular registral de cualquier derecho que registralmente aparezca gravado con cargas o derechos que hayan quedado legalmente extinguidos por prescripción, caducidad o no uso podrá solicitar la cancelación registral de los mismos, a través de expediente de liberación de cargas y gravámenes, tramitado con sujeción a las siguientes reglas:
+
+Primera. Será competente para la tramitación y resolución del expediente el Registrador de la Propiedad del distrito en que radique la finca o la mayor parte de su superficie, en los casos en que la finca pertenezca a dos o más distritos.
+
+Segunda. El procedimiento se iniciará mediante solicitud del titular registral del derecho gravado o de cualquiera de ellos, si fueren varios, en el cual el solicitante identificará la finca y el derecho o gravamen cuya extinción se alega y sus titulares registrales, y declarará expresamente, bajo su responsabilidad, haber transcurrido el plazo de prescripción, caducidad o no uso prevenido en la ley para la extinción del mismo derecho, así como la falta de interrupción o suspensión de dicho plazo.
+
+Tercera. Presentado el escrito, el Registrador citará personalmente a los titulares registrales de las cargas cuya extinción se solicita o a sus causahabientes, si fueren conocidos, en la forma prevenida en esta Ley.
+
+Cuarta. En el plazo de quince días desde la notificación o, a falta de la misma, desde la publicación del edicto correspondiente en el “Boletín Oficial del Estado”, podrá comparecer el titular registral de la carga o gravamen, oponiéndose a la petición. Podrán igualmente formular oposición los causahabientes del titular registral, siempre que al tiempo de la misma presenten su título de adquisición, obteniendo la inscripción del mismo dentro del plazo de vigencia del asiento de presentación correspondiente.
+
+Si los citados comparecieran y consintieran las cancelaciones solicitadas, se practicarán las mismas, si fueran procedentes.
+
+Quinta. Si alguno de los interesados no compareciese o, compareciendo, formulase oposición en cualquier fase de la tramitación, dictará el Registrador resolución que ponga fin al expediente, dejando constancia documental de dicho extremo mediante acta, quedando a las partes reservada la acción que proceda, para que por los Tribunales se decida sobre la extinción y cancelación de la carga o gravamen en el procedimiento correspondiente.
+
+Sexta. Fuera de los supuestos de oposición, frente a la denegación de la solicitud del promotor por parte del Registrador, podrán los interesados interponer los recursos previstos en esta Ley para la calificación negativa.
+
+Se aplicarán, cualquiera que sea el procedimiento iniciado, las normas prevenidas en la Ley Hipotecaria para la prórroga del asiento de presentación.
+
+Séptima. En todos los demás supuestos, siempre que se entable juicio declarativo ordinario relativo al dominio o cualquier otro derecho inscribible, relativo a la misma finca, se dará inmediatamente por concluso el expediente.
+
+Octava. No obstante lo dispuesto en los apartados anteriores, podrán cancelarse directamente, a instancia de cualquier interesado y sin necesidad de tramitación del expediente, las inscripciones relativas a derechos de opción, retractos convencionales y cualesquiera otros derechos o facultades de configuración jurídica, cuando hayan transcurrido cinco años desde el día en que venció el término en que, según el Registro, pudieron ejercitarse, siempre que no conste anotación preventiva de demanda u otro asiento que indique haberse ejercitado el derecho, modificado el título o formulado reclamación judicial sobre su cumplimiento.
+
+Las inscripciones de hipotecas, condiciones resolutorias y cualesquiera otras formas de garantía con efectos reales, cuando no conste en el Registro la fecha en que debió producirse el pago íntegro de la obligación garantizada, podrán igualmente cancelarse a instancia de cualquier interesado cuando hayan transcurrido veinte años desde la fecha del último asiento en que conste la reclamación de la obligación garantizada o, en su defecto, cuarenta años desde el último asiento relativo a la titularidad de la propia garantía.
+
+Del mismo modo, a instancia de persona con interés legítimo, los asientos relativos a censos, foros y otros gravámenes de naturaleza análoga, establecidos por tiempo indefinido, podrán ser cancelados cuando hayan transcurrido sesenta años desde la extensión del último asiento relativo a los mismos.
+
+2\. Para la cancelación de un asiento relativo a una concesión administrativa inscrita registralmente, será suficiente con la presentación al Registro de la Propiedad de certificación expedida por la Administración Pública titular del inmueble en la que se acredite la extinción de dicha concesión.
+
+> Se modifica por el art. 1.16 de la Ley 13/2015, de 24 de junio. [Ref. BOE-A-2015-7046](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7046).
+
+> Téngase en cuenta, para los procedimientos iniciados bajo la anterior regulación, la disposición transitoria única de la citada Ley.
+
+> Se modifican las reglas 3ª y 7ª por el art. 3.7 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+> Se deroga la regla 2ª, en cuanto se oponga a lo dispuesto, por el art. 2 de la Ley 78/1961, de 23 de diciembre. [Ref. BOE-A-1961-23724](https://www.boe.es/buscar/doc.php?id=BOE-A-1961-23724).
+
+### TÍTULO VII — De la rectificación de los errores en los asientos
+
+###### Artículo 211.
+
+Los errores cometidos en los asientos del Registro a que se refiere el apartado c) del artículo cuarenta, podrán ser materiales o de concepto.
+
+###### Artículo 212.
+
+Se entenderá que se comete error material cuando sin intención conocida se escriban unas palabras por otras, se omita la expresión de alguna circunstancia formal de los asientos o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por ello el sentido general de la inscripción o asiento de que se trate, ni el de ninguno de sus conceptos.
+
+###### Artículo 213.
+
+Los Registradores podrán rectificar por sí, bajo su responsabilidad, los errores materiales cometidos:
+
+Primero. En los asientos de inscripción, anotación preventiva o cancelación, cuyos respectivos títulos se conserven en el Registro.
+
+Segundo. En los asientos de presentación, notas marginales e indicaciones de referencias, aunque los títulos no obren en la oficina del Registro, siempre que la inscripción principal respectiva baste para dar a conocer el error y sea posible rectificarlo por ella.
+
+###### Artículo 214.
+
+Los Registradores no podrán rectificar, sin la conformidad del interesado que posea el título inscrito, o sin una providencia judicial en su defecto, los errores materiales cometidos:
+
+Primero. En inscripciones, anotaciones preventivas o cancelaciones cuyos títulos no existan en el Registro.
+
+Segundo. Los asientos de presentación y notas, cuando dichos errores no puedan comprobarse por las inscripciones principales respectivas y no existan tampoco los títulos en la oficina del Registro.
+
+###### Artículo 215.
+
+Los errores materiales no podrán salvarse con enmiendas, tachas ni raspaduras, ni por otro medio que un asiento nuevo, en el cual se exprese y rectifique claramente el error cometido en el anterior, a no ser que el error se advierta antes de ser firmado el asiento y pueda subsanarse en éste con claridad mediante la oportuna confrontación.
+
+###### Artículo 216.
+
+Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su verdadero sentido.
+
+###### Artículo 217.
+
+Los errores de concepto cometidos en inscripciones, anotaciones o cancelaciones, o en otros asientos referentes a ellas, cuando no resulten claramente de las mismas, no se rectificarán sin el acuerdo unánime de todos los interesados y del Registrador, o una providencia judicial que lo ordene.
+
+Los mismos errores cometidos en asientos de presentación y notas, cuando la inscripción principal respectiva baste para darlos a conocer, podrá rectificarlos por sí el Registrador.
+
+###### Artículo 218.
+
+El Registrador, o cualquiera de los interesados en una inscripción, podrá oponerse a la rectificación que otro solicite por causa de error de concepto, siempre que a su juicio esté conforme el concepto que se suponga equivocado con el correspondiente en el título a que la inscripción se refiera.
+
+La cuestión que se suscite con este motivo se decidirá en juicio ordinario.
+
+###### Artículo 219.
+
+Los errores de concepto se rectificarán por medio de una nueva inscripción, la cual se hará mediante la presentación del mismo título ya inscrito, si el Registrador reconociere el error o el Juez o el Tribunal lo declarare; y en virtud de un título nuevo, si el error fuere producido por la redacción vaga, ambigua o inexacta del título primitivo, y las partes convinieren en ello, o lo declare así una sentencia judicial.
+
+###### Artículo 220.
+
+El concepto rectificado no surtirá efecto en ningún caso sino desde la fecha de la rectificación, sin perjuicio del derecho que puedan tener los terceros para reclamar contra la falsedad o nulidad del título a que se refiere el asiento que contenía el error de concepto o del mismo asiento.
+
+### TÍTULO VIII — De la publicidad de los Registros
+
+###### Artículo 221.
+
+Los Registros serán públicos para quienes tengan interés conocido en averiguar el estado de los bienes inmuebles o derechos reales inscritos.
+
+El interés se presumirá en toda autoridad, empleado o funcionario público que actúe por razón de su oficio o cargo.
+
+> Se añade el párrafo segundo por el art. 96.1 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+#### Sección 1.ª De la información registral
+
+> Se añade por la disposición adicional 2.1 de la Ley 7/1998, de 13 de abril. [Ref. BOE-A-1998-8789](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8789).
+
+###### Artículo 222.
+
+1\. Los Registradores pondrán de manifiesto los libros del Registro en la parte necesaria a las personas que, a su juicio, tengan interés en consultarlos, sin sacar los libros de la oficina, y con las precauciones convenientes para asegurar su conservación.
+
+2\. La manifestación, que debe realizar el Registrador, del contenido de los asientos registrales tendrá lugar por nota simple informativa o por certificación, mediante el tratamiento profesional de los mismos, de modo que sea efectiva la posibilidad de publicidad sin intermediación, asegurando, al mismo tiempo, la imposibilidad de su manipulación o televaciado.
+
+La publicidad registral se emitirá siempre en formato y soporte electrónico, sin perjuicio de su traslado a papel si fuera necesario. Las notas simples se garantizarán en cuanto a su origen e integridad con el sello electrónico del Registro y las certificaciones con el certificado electrónico cualificado de firma del registrador. En uno y otro caso estarán dotadas de un código electrónico de verificación.
+
+3\. En cada tipo de manifestación se hará constar su valor jurídico. La información continuada no alterará la naturaleza de la forma de manifestación elegida, según su respectivo valor jurídico.
+
+4\. La obligación del Registrador al tratamiento profesional de la publicidad formal implica que la misma se exprese con claridad y sencillez, sin perjuicio de los supuestos legalmente previstos de certificaciones literales a instancia de autoridad judicial o administrativa o de cualquier interesado.
+
+5\. La nota simple informativa tiene valor puramente informativo y no da fe del contenido de los asientos, sin perjuicio de la responsabilidad del registrador, por los daños ocasionados por los errores y omisiones padecidos en su expedición. Deberá reproducir, literal si así lo solicita el interesado, o en extracto en otro caso, el contenido de los asientos vigentes relativo a la finca objeto de manifestación, donde conste, al menos, la identificación de la misma, la identidad del titular o titulares de derechos inscritos sobre la misma y la extensión, naturaleza y limitaciones de éstos. Asimismo se harán constar, en todo caso, las prohibiciones o restricciones que afecten a los titulares o a los derechos inscritos.
+
+También podrá librarse nota simple relativa a determinados extremos solicitados por el interesado.
+
+6\. Los Registradores, al calificar el contenido de los asientos registrales, informarán y velarán por el cumplimiento de las normas aplicables sobre la protección de datos de carácter personal.
+
+7\. Los Registradores en el ejercicio profesional de su función pública deberán informar a cualquier persona que lo solicite en materias relacionadas con el Registro. La información versará sobre los medios registrales más adecuados para el logro de los fines lícitos que se propongan quienes la soliciten.
+
+8\. Los interesados podrán elegir libremente el Registrador a través del cual obtener la información registral relativa a cualquier finca, aunque no pertenezca a la demarcación de su Registro, siempre que deba expedirse mediante nota simple informativa o consista en información sobre el contenido del Índice General Informatizado de fincas y derechos. La llevanza por el Colegio de Registradores de la Propiedad y Mercantiles del citado Índice General no excluye la necesidad de que las solicitudes de información acerca de su contenido se realicen a través de un Registrador.
+
+Los Registradores, en el ejercicio de su función pública, estarán obligados a colaborar entre sí, así como con los Órganos jurisdiccionales, las Administraciones públicas y los Notarios.
+
+9\. Al objeto de dar cumplimiento a lo dispuesto en este artículo, se dispondrá de los instrumentos necesarios para proporcionar a todos ellos información por comunicación electrónica, y con el valor de nota simple informativa, sobre el contenido del Libro Diario, en su caso, del Libro de Entrada, del Libro de Inscripciones y del Libro sobre administración y disposición de bienes inmuebles, salvo en lo atinente a las resoluciones judiciales que establezcan medidas de apoyo a personas con discapacidad. En ningún supuesto, salvo en caso justificado de imposibilidad técnica para ser enviada electrónicamente, podrá remitirse información registral por fax.
+
+10\. La manifestación de los libros del Registro deberá hacerse, si así se solicita, por medios telemáticos. Dicha manifestación implica el acceso telemático al contenido de los libros del Registro. A tal efecto, si quien consulta es una autoridad, empleado o funcionario público que actúe por razón de su oficio y cargo, cuyo interés se presume en atención a su condición, el acceso se realizará sin necesidad de intermediación por parte del registrador. Dicha autoridad, empleado o funcionario público deberá identificarse con su firma electrónica reconocida o por cualquier otro medio tecnológico que en el futuro la sustituya. Cuando el consultante sea un empleado o funcionario público, responderán éstos de que la consulta se efectúa amparada en el cumplimiento estricto de las funciones que respectivamente les atribuye la legislación vigente. En todo caso, la autoridad, empleado o funcionario público no podrá acceder telemáticamente sin intermediación del registrador al Índice de Personas.
+
+11\. Reglamentariamente se concretará el proce­dimiento para autorizar la restricción del acceso a la información relativa a determinadas personas, comerciantes o fincas cuando ello venga impuesto por razón de la protección de la seguridad e integridad de las personas o los bienes.
+
+> Se modifican los apartados 2 y 9 por el art. 36.2 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+> Se modifica el apartado 9, con efectos desde el 3 de septiembre de 2021, por el art. 3.7 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+> Se modifican los apartados 5, 10 y 11 por los arts. 33 y 28.1 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se modifica el párrafo segundo del apartado 8, se añaden los apartados 9 a 11 y se deroga el párrafo segundo del apartado 2 por el art. 96.2 y 3 y la disposición derogatoria única.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Se modifica por la disposición adicional 2.1 de la Ley 7/1998, de 13 de abril. [Ref. BOE-A-1998-8789](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8789).
+
+###### Artículo 222 bis.
+
+1\. Las solicitudes de información se ajustarán a un modelo informático que tendrá los campos necesarios para identificar al solicitante, el interés que acredita, en su caso, la finca, los derechos, libros o asientos a que se contrae la información.
+
+La Dirección General de los Registros y del Notariado aprobará el modelo informático de consulta y los requisitos técnicos a los que deba sujetarse el mismo.
+
+2\. La identificación del solicitante se efectuará mediante los apellidos, nombre y número de identidad de las personas físicas y razón social o denominación de las personas jurídicas, número de su código de identificación y dirección de correo electrónico hábil a efectos de notificaciones. En todo caso, la solicitud deberá estar firmada con la firma electrónica reconocida del solicitante, de la persona jurídica o del representante de ésta.
+
+3\. El interés se expresará de forma sucinta en una casilla que advertirá de las limitaciones impuestas por el ordenamiento en relación al uso que puede darse a dicha información. No obstante, si el registrador entendiera que no ha quedado acreditado de modo suficiente dicho interés legítimo, podrá solicitar que se le complete éste. En todo caso, el registrador deberá notificar al solicitante en el plazo máximo de veinticuatro horas si autoriza o deniega el acceso, en este último caso de forma motivada.
+
+4\. La resolución sobre el acceso solicitado se notificará en el plazo máximo de un día hábil al solicitante y, caso de ser positiva, incorporará el código individual que permitirá el acceso a la página que reproduzca el contenido registral relativo a la finca solicitada. Este contenido registral, que se limitará a los asientos vigentes, se pondrá de manifiesto al interesado durante el plazo de veinticuatro horas desde la notificación accediendo al mismo.
+
+Si el registrador se negare injustificadamente a manifestar los libros del Registro, se estará a lo dispuesto en el artículo 228 de la Ley Hipotecaria.
+
+5\. Las fincas y derechos se identificarán a través de:
+
+a) Cualesquiera de sus titulares, haciendo constar el apellido, nombre y número del documento nacional de identidad o documento que permita identificar a las personas físicas y razón social o denominación de las personas jurídicas.
+
+b) Libro, asiento, tomo y folio registral.
+
+c) Referencia catastral, cuando constare en el Registro.
+
+Cuando la consulta se refiera a las fichas del Índice de Personas se harán constar solamente las circunstancias de la letra a) anterior. Lo mismo se observará respecto del Libro sobre administración y disposición de bienes inmuebles.
+
+6\. Las notificaciones a que se refiere este artículo entre el registrador y el solicitante se realizarán en la dirección de correo electrónico que designe éste y deberán contar con la firma electrónica reconocida del registrador.
+
+> Se modifica el último párrafo el apartado 5, con efectos desde el 3 de septiembre de 2021, por el art. 3.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+> Se añade por el art. 28.2 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+#### Sección 2.ª De las certificaciones
+
+> Se añade por la disposición adicional 2.2 de la Ley 7/1998, de 13 de abril. [Ref. BOE-A-1998-8789](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8789).
+
+###### Artículo 223.
+
+Los Registradores expedirán certificaciones:
+
+Primero. De los asientos de todas clases que existan en el Registro, relativos a bienes o a personas que los interesados señalen.
+
+Segundo. De asientos determinados que los mismos interesados designen, bien fijando concretamente los que sean, o bien refiriéndose a los que existan de una o más especies sobre ciertos bienes, o a cargo o en favor de personas señaladas.
+
+Tercero. De no existir asientos de ninguna especie, o de especie determinada, sobre ciertos bienes o a nombre de ciertas personas.
+
+###### Artículo 224.
+
+Las certificaciones expresadas en el artículo anterior podrán referirse, bien a un período fijo y señalado, bien a todo el transcurrido desde la primitiva instalación o reconstitución, en su caso, del Registro respectivo.
+
+###### Artículo 225.
+
+La libertad o gravamen de los bienes inmuebles o derechos reales sólo podrá acreditarse en perjuicio de tercero por certificación del Registro.
+
+###### Artículo 226.
+
+Cuando las certificaciones no fueren conformes con los asientos de su referencia, se estará a lo que de éstos resulte, salvo la acción del perjudicado por ellas, para exigir la indemnización correspondiente del Registrador que haya cometido la falta.
+
+###### Artículo 227.
+
+Los Registradores expedirán certificación a instancia de quien, a su juicio, tenga interés conocido en averiguar el estado del inmueble o derecho real de que se trate, o en virtud de mandamiento judicial.
+
+La instancia deberá hacerse por escrito y podrá presentarse en la oficina del Registro o remitirse por vía telemática.
+
+La certificación se expedirá, a elección del solicitante, en papel o en formato electrónico, en los términos que reglamentariamente se establezcan.
+
+> Se modifica por el art. 96.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 228.
+
+Si el registrador se niega a la manifestación de los libros del Registro o a expedir certificación de lo que en ellos conste, el interesado podrá recurrir la decisión de éste ante la Dirección General de los Registros y del Notariado, siendo de aplicación lo dispuesto en los artículos 327 y 328 de la Ley Hipotecaria en lo relativo a la legitimación para recurrir, plazo, lugar de presentación del recurso, formación del expediente y contenido del informe del registrador, plazo de resolución y revisión jurisdiccional de ésta.
+
+> Se modifica por el art. 30 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+###### Artículo 229.
+
+Las solicitudes de los interesados y los mandamientos de los Jueces, Tribunales o Secretarios judiciales en cuya virtud deban certificar los Registradores, expresarán con toda claridad:
+
+1.º La especie de certificación que con arreglo al artículo 223 se exija, y si ha de ser literal o en relación.
+
+2.º Los datos e indicaciones que, según la especie de dicha certificación, basten para dar a conocer al Registrador los bienes o personas de que se trate.
+
+3.º El período de tiempo a que la certificación deba contraerse.
+
+> Se modifica por el art. 3.8 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+###### Artículo 230.
+
+Las certificaciones se darán de los asientos de los libros de inscripciones.
+
+Cuando al tiempo de expedirlas existiere algún título pendiente de inscripción en el Registro, que debiera comprenderse en la certificación pedida, y cuando se trate de acreditar la libertad de alguna finca, o la no existencia de algún derecho, el Registrador certificará también de los correspondientes asientos del Diario.
+
+###### Artículo 231.
+
+Salvo lo dispuesto en el artículo anterior, los Registradores no certificarán de los asientos del Diario con sus notas, sino cuando el Juez, el Tribunal o el Secretario judicial lo mande o los interesados lo pidan expresamente.
+
+> Se modifica por el art. 3.9 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+###### Artículo 232.
+
+Las certificaciones se expedirán literales o en relación, según se mandaren dar o se pidieren.
+
+Las certificaciones literales comprenderán íntegramente los asientos a que se refieran.
+
+Las certificaciones en relación expresarán todas las circunstancias que los mismos asientos contuvieren, necesarias para su validez; las cargas que a la sazón pesen sobre el inmueble o derecho inscrito, según la inscripción relacionada, y cualquier otro punto que el interesado señale o juzgue importante el Registrador.
+
+###### Artículo 233.
+
+Los Registradores, previo examen de los libros, extenderán las certificaciones con relación únicamente a los bienes, personas y períodos designados en la solicitud o mandamiento, sin referir en ella más asientos ni circunstancias que los exigidos, salvo lo dispuesto en el párrafo segundo del artículo doscientos treinta y en el doscientos treinta y cuatro; pero sin omitir tampoco ninguno que pueda considerarse comprendido en los términos de dicho mandamiento o solicitud.
+
+###### Artículo 234.
+
+Cuando se pidiere o mandare dar certificación de una inscripción o anotación, y la que se señalare estuviera extinguida conforme a los artículos setenta y seis y setenta y siete, el Registrador insertará a continuación de ella, literalmente o en relación, el asiento que haya producido la extinción.
+
+###### Artículo 235.
+
+Cuando se pida certificación de los gravámenes de un inmueble y no aparezca del Registro ninguno vigente, impuesto en la época o por las personas designadas, lo expresará así el Registrador.
+
+Si resulta algún gravamen, lo insertará literal o en relación, conforme a lo prevenido en el artículo doscientos treinta y dos, expresándose a continuación que no aparece ningún otro subsistente.
+
+###### Artículo 236.
+
+Los Registradores expedirán las certificaciones que se les pidan, en el más breve término posible, pero sin que éste pueda exceder nunca del correspondiente a cuatro días por cada finca, cuyas inscripciones, libertad o gravámenes se trate de acreditar.
+
+###### Artículo 237.
+
+Transcurrido el término fijado en el artículo anterior, podrá el interesado utilizar el recurso que concede el artículo doscientos veintiocho.
+
+### TÍTULO IX — Del modo de llevar los Registros
+
+###### Artículo 238.
+
+1\. El Registro de la Propiedad se llevará bajo la técnica del folio real en formato y soporte electrónico, mediante un sistema informático registral.
+
+Se entenderá por sistema informático registral el conjunto de elementos informáticos, físicos y lógicos, situados en cada oficina registral, debidamente interconectados entre sí y con los servicios centrales del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, a través de la correspondiente red corporativa.
+
+Solo los asientos registrales, extendidos y firmados por el registrador competente y la publicidad registral expedida en la forma y con los medios previstos en esta ley y demás normas concordantes, tendrán los efectos previstos en esta ley.
+
+2\. El folio real en soporte electrónico de cada finca se creará con ocasión de su inmatriculación o primera inscripción, o bien con ocasión de la realización de cualquier operación registral sobre aquella, con excepción de asientos accesorios.
+
+En todo caso, el folio real en soporte electrónico incluirá necesariamente en el primer asiento que se realice la descripción actualizada de la finca y la relación de las titularidades, cargas y derechos vigentes que recaigan sobre aquella, con sus datos esenciales, que incluirán siempre las cantidades y conceptos garantizados por las cargas y las fechas de vencimiento, domicilio de notificación y tasación si constan.
+
+Todas las diligencias judiciales o extrajudiciales que exijan la visualización o cotejo de los asientos registrales se practicarán en la oficina del Registro.
+
+3\. Los asientos registrales de los libros de inscripciones constarán en soporte digital, firmado electrónicamente por el registrador. El asiento digital será firmado electrónicamente con su certificado con firma electrónica cualificada, haciendo constar, la identificación del registrador firmante, la fecha de su firma, la huella digital y otros elementos relacionados con dicha firma electrónica que permitan comprobar la trazabilidad e integridad del asiento practicado. Dicha huella digital deberá incluirse también en el asiento relacionado con el asiento de presentación a que se refiere el artículo 249 de esta ley. Sólo los asientos extendidos conforme a lo dispuesto en este artículo producirán los efectos que les atribuyen las leyes.
+
+4\. Los asientos registrales se visualizarán a través de la aplicación de gestión registral. Los asientos de inscripciones, anotaciones preventivas y cancelaciones de cada finca se visualizarán a continuación unos de otros, por su orden correlativo, y las notas marginales, al margen del asiento al que correspondan. La representación gráfica de las fincas será objeto de inscripción específica conforme a lo dispuesto en los artículos 9 y 10 de esta ley, y se visualizará igualmente a través de la aplicación de gestión registral, conforme a las reglas de publicidad previstas en los artículos 9 y 10 de esta ley. Mediante enlaces electrónicos se visualizarán los documentos y otros elementos que hubieran sido incorporados mediante inscripción o anotación al folio real. Los folios reales se visualizarán en tres columnas en las que, de izquierda a derecha figurarán: las notas marginales, el número de orden de la inscripción o anotación y las inscripciones y anotaciones propiamente dichas.
+
+5\. Los archivos digitalizados, los documentos y libros físicos anteriores a la implantación del folio real en formato electrónico forman parte del archivo del Registro y seguirán produciendo plenos efectos jurídicos.
+
+Harán fe los libros y asientos en soporte digital que lleven los registradores conforme a lo dispuesto en esta ley.
+
+> Se modifica por el art. 36.3 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+> Se modifica por el art. 28.3 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+###### Artículo 239.
+
+Los Registros aplicarán con carácter obligatorio un esquema de seguridad electrónica que se definirá con arreglo al modelo de oficina registral que se determine por el órgano correspondiente del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España y que se reflejará en una guía técnica que deberá ser elevada a la Dirección General de Seguridad Jurídica y Fe Pública para la aprobación por la misma. Se atenderá especialmente a garantizar la lectura y verificación de los asientos y documentos registrales en el tiempo, con los procesos necesarios para la actualización periódica de los sistemas, aplicaciones y datos, de forma que se asegure la permanencia de estos en el largo plazo, incluyendo cuando proceda el resellado electrónico de los documentos o técnicas similares que puedan desarrollarse.
+
+Los documentos registrales electrónicos tendrán el formato que determine el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, pero siempre dentro del catálogo de estándares que recoja en cada momento la correspondiente norma técnica de interoperabilidad. En todo caso elevará motivadamente a la Dirección General de Seguridad Jurídica y Fe Pública su propuesta al respecto del formato, para la aprobación por la misma.
+
+Tanto la base de datos de cada Registro como el archivo conformado por los asientos registrales, del que derivan los efectos previstos por las leyes y reglamentos debe radicar en la oficina registral, bajo la custodia del registrador. No obstante, los datos y asientos en soporte electrónico deberán replicarse de la forma más inmediata posible en al menos dos centros de proceso de datos seguros, distantes geográficamente entre sí, establecidos bajo la responsabilidad del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, a donde llegarán encriptados en origen mediante un certificado electrónico exclusivo de cada oficina registral a cargo del registrador titular del distrito hipotecario en cada momento, que será el único que podrá autorizar su desencriptado y uso. El protocolo técnico de replicación se establecerá por el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España previo informe favorable de la Dirección General de Seguridad Jurídica y Fe Pública y será idéntico y obligatorio para todos los Registros, debiendo prever los casos de división personal, accidentalidades, interinidades, cese fallecimiento o incapacidad del registrador titular.
+
+Los asientos electrónicos perdidos o deteriorados se restaurarán con su correspondiente copia de seguridad electrónica. En caso de que no fuera posible su restauración con dicha copia de seguridad electrónica, se restaurarán a partir de la información que resulte del título presentado.
+
+> Se modifica por el art. 36.4 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 240.
+
+Los registradores dispondrán de una sede electrónica general y única a nivel nacional cuya titularidad, desarrollo, gestión y administración corresponderá al Colegio de Registradores de la Propiedad Mercantiles y de Bienes Muebles de España, disponible para las personas a través de redes de comunicación y por medio de la cual puedan, en sus relaciones con los Registros, presentar, tramitar y acceder a toda la información y a los servicios registrales disponibles.
+
+Todas las comunicaciones, cualquiera que sea su forma y objeto, que como consecuencia de los diferentes procedimientos registrales hayan de realizar los registradores de la propiedad, mercantiles y de bienes muebles comprenderán certificación de los extremos que hayan de ser objeto de aquellas y se realizaran preferentemente por vía telemática.
+
+La publicación de actos y comunicaciones que, por disposición legal o reglamentaria deban efectuar los registradores en tablón de anuncios o edictos, se realizará a través de la sede electrónica del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España. Todo ello sin perjuicio de la remisión que haya de hacerse de los mismos a través de dicha sede al Boletín Oficial correspondiente cuando también esté prevista su publicación en el mismo.
+
+> Se modifica por el art. 36.5 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 241.
+
+1\. Las resoluciones registrales, las certificaciones registrales, diligencias de cierre del Diario y en general cualquier documento que deba ser firmado por el registrador, así como los asientos electrónicos, se firmarán con su firma electrónica cualificada.
+
+Cuando concurra causa técnica justificada que impida al registrador durante más de seis horas acceder al sistema informático podrán realizarse las operaciones registrales imprescindibles de forma manual y en soporte papel, que será llevado en el plazo más breve posible a soporte electrónico.
+
+2\. A los efectos de crear un repositorio electrónico con la información actualizada de las fincas, en el momento de la realización de una operación registral en la que se constituya, reconozca, transmita, modifique o extinga cualquier derecho real o, en general, cualquier otra alteración registral, se generará con los datos extraídos de la aplicación un documento electrónico con información estructurada que contendrá la descripción actualizada de la finca, la referencia catastral, indicación sobre si se ha inscrito la base gráfica de la finca y el carácter de finca coordinada con Catastro, cuando consten dichos datos, su titularidad y las cargas vivas que pesen sobre aquella. Este documento electrónico permitirá al registrador comprobar la coherencia de los datos obrantes en la aplicación con los asientos registrales antes de firmar el asiento correspondiente. El documento deberá ser firmado con el sello electrónico del Registro en el mismo momento de la firma electrónica del asiento por el registrador. Lo mismo ocurrirá cuando se emita alguna información en línea a la que se refieren los artículos 222.10 y 222 bis de esta ley o alguna información permanentemente actualizada a las que se refiere el artículo 667 de la Ley de Enjuiciamiento Civil. Los datos contenidos en el último de los documentos electrónicos generados de la finca, junto con los datos de entrada y presentación, servirán para la preparación de la información registral.
+
+3\. A salvo de lo dispuesto para los asientos de presentación, todos los asientos registrales comenzarán con el Código Registral Único de la finca, facilitado desde los servicios centrales del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España; el número o letra de orden de la inscripción o anotación y, si se tratase de notas marginales, la inscripción o anotación a la que correspondan. Al final del asiento figurará el nombre, apellidos y DNI del registrador firmante y la denominación del distrito del que sea titular, todo ello extraído del certificado de firma del registrador, así como el código electrónico de verificación del asiento y la huella digital del asiento firmado electrónicamente y su fecha, suministrada por los servidores de tiempo correspondientes.
+
+> Se modifica por el art. 36.6 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 242.
+
+En los folios reales de cada finca se practicarán las inscripciones, anotaciones preventivas, cancelaciones y notas de todos los títulos sujetos a inscripción, según los artículos segundo y cuarto.
+
+Los Registros dispondrán de una base de datos auxiliar para la gestión registral. Deberá asegurarse la correspondencia entre los datos de la base de datos auxiliar de los Registros y los asientos registrales. Para ello, sin perjuicio del contenido esencialmente literario del asiento, sus datos fundamentales solamente podrán incorporarse al asiento mediante su previa introducción en la base de datos y únicamente podrán corregirse modificando la base de datos y generando un nuevo asiento antes de su firma que sustituya al anterior. Firmado el asiento no podrá alterarse la base de datos sin rectificar el asiento, conforme a la legislación hipotecaria.
+
+El Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España determinará los campos de la base de datos que se consideren de cumplimentación obligatoria, conforme a un modelo semántico común a todos los Registros de la Propiedad e interoperable que deberá ser aprobado por la Dirección General de Seguridad Jurídica y Fe Pública. En todo caso se considerarán datos esenciales a los efectos de lo dispuesto en este artículo los relativos a los nombres, apellidos o denominaciones y documentos identificativos de los titulares registrales, el carácter y porcentaje de su titularidad, así como las responsabilidades por cantidades y plazos de las garantías dinerarias.
+
+> Se modifica por el art. 36.7 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 242 bis.
+
+1\. En el Libro sobre administración y disposición de bienes inmuebles a que se refiere el número cuarto del artículo 2 serán objeto de asiento las resoluciones dictadas en los expedientes de declaración de ausencia y fallecimiento, las de concurso establecidas en la legislación concursal, así como las demás resoluciones y medidas previstas en las leyes que afecten a la libre administración y disposición de los bienes de una persona. Podrán ser objeto de asiento también en este libro las resoluciones sobre personas con discapacidad a las que se refiere el artículo 755.2 de la Ley de Enjuiciamiento Civil.
+
+2\. El asiento en el Libro sobre administración y disposición de bienes inmuebles expresará las circunstancias contenidas en la resolución correspondiente. En el caso de las medidas de apoyo, el asiento únicamente expresará la existencia y el contenido de las medidas.
+
+3\. El Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España llevará a sus expensas y bajo la dependencia del Ministerio de Justicia un Índice Central Informatizado con la información remitida por los diferentes Registros relativa a los asientos practicados en el Libro sobre administración y disposición de bienes inmuebles, que estará relacionado electrónicamente con los datos correspondientes, si los hubiera, del actual fichero localizador de titularidades inscritas.
+
+> Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 3.9 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
+
+###### Artículo 243.
+
+El Registro de la Propiedad se llevará por fincas, abriendo un folio real en soporte electrónico particular a cada una de ellas. La calificación de los títulos referentes a una finca, la gestión, modificación y publicidad formal del contenido de dicho folio real se realizará por el registrador competente en cada caso, en función de la ubicación de la finca y la demarcación del Registro de la Propiedad correspondiente, conforme a las normas vigentes. Todas las inscripciones, anotaciones y cancelaciones posteriores relativas a la misma finca se practicarán a continuación en el folio real correspondiente a aquella.
+
+El folio real en soporte electrónico se encabezará con la denominación oficial del Registro que corresponda y la del ayuntamiento en cuyo término municipal se encuentre la finca. La Dirección General de Seguridad Jurídica y Fe Pública podrá acordar, por razones de conveniencia pública, que un término municipal se divida en dos o más secciones, en cuyo caso se incorporará también su ordinal.
+
+Se abrirá una sección para cada término municipal que en todo o en parte esté enclavado en el territorio de un Registro.
+
+> Se modifica por el art. 36.8 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 244.
+
+Cuando un título comprenda varios inmuebles o derechos reales que radiquen en un mismo término municipal, la primera inscripción que se verifique contendrá todas las circunstancias prescritas en el artículo noveno, y en las otras sólo se describirá la finca, si fuere necesario, o se determinará el derecho real objeto de cada una de ellas, y se expresarán la naturaleza del acto o contrato y los nombres del transferente y adquirente, refiriéndose en todo lo demás a aquella primera inscripción y citándose su código registral único.
+
+Si el título a que se refiere el párrafo anterior fuere de constitución de hipoteca, deberá expresarse, además de lo prescrito anteriormente, la parte de crédito de que responda cada una de las fincas o derechos y el valor que se les haya asignado para caso de subasta.
+
+> Se modifica por el art. 36.9 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 245.
+
+El procedimiento registral se iniciará mediante la presentación presencial o telemática en el Registro de la correspondiente solicitud, en la que figurará una dirección postal o electrónica a efectos de notificaciones y a la que se acompañará el documento que se trate de presentar. El modelo de solicitud de presentación será accesible, para los casos de presentación telemática, desde la Sede Electrónica del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, para ser cumplimentado y firmado electrónicamente. También podrá cumplimentarse la solicitud en la sede electrónica para ser impresa con un código de identificación que permita la carga automática en el momento de la presentación presencial de los datos ya introducidos, e igualmente podrá descargarse el modelo sin cumplimentar, para completarlo de forma manual. Los registradores sólo admitirán la presentación en soporte papel de documentos durante las horas de apertura al público del Registro. No obstante, podrán ejecutar fuera de ellas las demás operaciones de su cargo.
+
+Los documentos electrónicos presentados en el Registro y las copias digitalizadas de los documentos presentados en formato papel, se archivarán electrónicamente en el Registro a los efectos de su conservación y custodia en un solo legajo electrónico ordenado por número de entrada.
+
+> Se modifica por el art. 36.10 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 246.
+
+1\. El Libro Diario se llevará en formato y soporte electrónico. Los documentos ingresados en el Registro que puedan causar algún asiento serán presentados en el Diario electrónico mediante asientos de presentación.
+
+A cada asiento de presentación se le asignará un código único identificador que incluirá el año y el número de presentación correlativo que corresponda. El contador se iniciará cada 1 de enero.
+
+La prioridad registral de los títulos susceptibles de inscripción se determinará respecto de cada finca o derecho por el asiento de presentación en el que hará constar necesariamente: el momento en que éste se practique; el nombre y apellidos del presentante; el modo de ingreso, físico, telemático, o por correo, del título al que se refiere; el momento exacto de su recepción; la especie del título presentado, su fecha y autoridad o funcionario que lo expida; el derecho que se constituya, modifique, trasmita o extinga; la persona a cuyo favor se ha de practicar la inscripción, y la finca o fincas registrales a que se refiere. En caso de solicitud de constitución de hipoteca, se hará constar la responsabilidad por principal garantizada por cada finca.
+
+2\. Cuando se realice la presentación de un título que afecte a varias fincas, a todos los efectos legales, se entenderá que se trata de tantos asientos de presentación distintos como fincas registrales comprenda aquel. Por tanto, la suspensión de la calificación por existencia de asientos anteriores, la prórroga o el desistimiento se computará finca a finca.
+
+3\. Solo podrá denegarse el asiento de presentación del documento mediante causa motivada cuando el documento no sea título inscribible, resulte incompleto su contenido para extender el asiento o se refiriera a una finca para la que el Registro fuera manifiestamente incompetente. La denegación del asiento de presentación deberá notificarse en el mismo día. Contra la denegación del asiento de presentación cabrá recurso ante la Dirección General de Seguridad Jurídica y Fe Pública, que habrá de tener entrada en el Registro en el plazo de tres días hábiles desde la notificación de la denegación y deberá ser resuelto de forma expresa en los cinco días hábiles siguientes. La Dirección General notificará telemáticamente su resolución al Registro correspondiente en el mismo día en que se produzca.
+
+> Se modifica por el art. 36.11 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 247.
+
+La solicitud presencial de inscripción, acompañada de la documentación necesaria para ello, podrá presentarse en cualquier Registro de la Propiedad, Mercantil, o de Bienes Muebles.
+
+En caso de que la presentación se efectúe en Registro distinto del competente, el registrador, a instancia del interesado, en el más breve plazo posible y en todo caso dentro del mismo día, remitirá electrónicamente al Registro competente los datos precisos para extender el asiento de presentación que proceda.
+
+El registrador que reciba la comunicación del Registro de origen, previa calificación de su competencia y confirmación de la recepción extenderá el asiento de presentación solicitado, el cual caducará a los diez días, si no fueran presentados electrónica o presencialmente los documentos originales para la práctica del asiento. Si fueren varias las comunicaciones los asientos se practicarán por el orden de su recepción.
+
+> Se modifica por el art. 36.12 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 248.
+
+1\. Se entenderá como hora de presentación de los documentos ingresados en el Registro la que conste en el asiento de presentación. Los asientos de presentación se extenderán por el orden de recepción en el libro de entrada de los respectivos títulos en el Registro.
+
+El registrador extenderá el asiento de presentación de los títulos que reciba por correo postal certificado o servicios análogos de mensajería en el momento en que sean entregados; si se tratase de correo postal ordinario sin entrega acreditada, se extenderá al final del día, consignando en todo caso como presentante al remitente del documento.
+
+2\. Se expedirá al presentante un recibo para cada documento presentado, en el que se expresará la clase de título recibido, el día y hora de su presentación y, si procede, los datos registrales.
+
+Todas las actuaciones del presentante en relación con el asiento de presentación se entenderán suficientemente acreditadas a los efectos del procedimiento registral a través de su oportuno reflejo en el sistema informático y en el asiento relacionado con el de presentación correspondiente.
+
+> Se modifica por el art. 36.13 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+> Se modifica por el art. 28.4 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se añaden los párrafos tercero y cuarto por el art. 135.3 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se modifica por el art. 96.5 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 249.
+
+Todos los días no feriados, a la hora previamente señalada para cerrar el Registro, se cerrará el Diario por medio de una diligencia que extenderá y firmará electrónicamente el registrador inmediatamente después del último asiento que hubiere hecho. En ella se hará constar el número de asientos extendidos en el día, o la circunstancia, en su caso, de no haberse practicado ninguno.
+
+Cuando el registrador extienda el asiento que corresponda en el libro de inscripciones lo expresará en un asiento electrónico relacionado con el Libro Diario. Estos asientos se firmarán electrónicamente e incluirán necesariamente los datos específicos de cada inscripción, la huella digital y código electrónico de verificación de todas las inscripciones que hubiera causado el título.
+
+Las huellas digitales de los distintos asientos relacionados con los del Libro Diario se relacionarán en un sistema, diseñado y mantenido por el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, a los efectos de garantizar la imposibilidad de su alteración o manipulación.
+
+> Se modifica por el art. 36.14 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 250.
+
+1\. Extendido el asiento de presentación, y si el registrador no hubiera aún resuelto, el presentante o el interesado podrán retirar el título presentado en formato papel, previa firma de la solicitud de devolución, sin otra nota que la expresiva de haber sido presentado y la fecha y número de presentación, la cual podrá incorporarse mediante sellado o etiqueta automatizada. La firma o conformidad de presentantes e interesados podrá recibirse en todo caso mediante tabletas digitalizadoras de firma o huella, u otros dispositivos biométricos que aseguren su autenticidad.
+
+Respecto de los documentos presentados de forma electrónica, bastará para considerarlos igualmente retirados, si no hubieran sido despachados, la firma y remisión del formulario electrónico de solicitud de devolución que estará disponible en la sede electrónica del Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España.
+
+Presentado un título se presumirá la solicitud de inscripción de todo el documento salvo desistimiento o solicitud de inscripción parcial del interesado o su representante o de la autoridad presentante.
+
+No se prorrogarán los asientos de presentación de los documentos que se reintegren al Registro en los últimos quince días de su vigencia, sin que se aporten los medios de subsanación de los defectos indicados en el acuerdo de calificación, salvo interposición de recurso en tiempo y forma. Igualmente, no procederá la prórroga de los asientos de presentación de los documentos mientras se encuentren retirados, aunque se aportara durante la vigencia del asiento algún título o documento, incluso telemático, referente a los mismos, salvo que fuera aportado por quien retiró el título.
+
+2\. El desistimiento por el presentante o los interesados de su solicitud de inscripción, deberá formularse antes del efectivo despacho del título y podrá solicitarse en documento privado suscrito con firma electrónica; en documento público o en documento privado en soporte papel con firmas legitimadas notarialmente o ratificadas ante el registrador.
+
+El desistimiento no podrá admitirse cuando del mismo se derive la imposibilidad de despachar otro documento presentado salvo que la petición del desistimiento se refiera también a éste y se trate del mismo interesado o, siendo distinto, lo solicite también éste.
+
+Respecto de los documentos judiciales o administrativos solo procederá el desistimiento cuando se solicite por la autoridad judicial o el órgano competente que los hubiese ordenado y remitido.
+
+> Se modifica por el art. 36.15 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 251.
+
+1\. El contenido del Diario electrónico deberá ser actualizado en el menor plazo posible y siempre dentro del mismo día en que se presenten los títulos a inscripción, si dicha presentación se efectúa en horas de oficina. La actualización deberá realizarse con independencia del medio utilizado para la presentación de los títulos. El registrador deberá disponer de los medios materiales y personales necesarios para cumplir con la obligación de actualización.
+
+2\. Para cumplir con la obligación de actualización inmediata del contenido del Libro Diario, los registradores llevarán un Libro de Entrada electrónico donde se hará constar de modo inmediato el ingreso de los títulos o de cualquier otra comunicación o notificación dirigida al Registro, por el riguroso orden en que lo hubieran hecho, con la sola excepción de las peticiones de notas simples ordinarias.
+
+En caso de presentación electrónica, no podrá realizarse sin que el presentante determine la finca o fincas a las que afecte el título a presentar no siendo responsable el registrador de los perjuicios que se puedan causar por una defectuosa identificación de la finca. Si fuera una entrada complementaria de otra anterior, deberá especificar, también bajo la responsabilidad del presentante, el número de entrada o asiento de presentación que complementa.
+
+Cada entrada estará dotada de un código que estará formado por el año y el número correlativo que corresponda. El contador se iniciará cada 1 de enero.
+
+Se adoptarán las cautelas necesarias para que en ningún caso sea posible la manipulación o alteración del orden de presentación de los títulos o de los asientos ya practicados.
+
+El libro de entrada correspondiente a cada finca deberá ser accesible telemáticamente y de forma directa a los funcionarios y empleados a los que se les presume su interés en la consulta, de conformidad con lo dispuesto en el segundo párrafo del artículo 221 y mediante el acceso previsto en el artículo 222.10.
+
+> Se modifica por el art. 36.16 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 252.
+
+1\. Los títulos sujetos a inscripción en el Registro podrán presentarse en soporte papel o electrónico.
+
+Los documentos en soporte papel podrán ser aportados al Registro dentro de las horas de apertura al público de la oficina, acudiendo personalmente o remitiéndolos por correo postal o servicio de mensajería. Efectuada la presentación de cada documento se procederá a su digitalización y vinculación electrónica al correspondiente asiento de presentación y a las fincas en él contenidas y también cuando el documento deba incorporarse a un archivo electrónico o así se establezca reglamentariamente.
+
+En caso de presentación electrónica, el documento deberá presentarse en un formato de lenguaje natural legible por el ser humano y se acompañará o estará incluido en un fichero en formato estructurado con los datos esenciales de aquel a los efectos de su proceso electrónico, previa comprobación por el registrador. En todo caso el objeto de la calificación será el documento legible presentado siendo el fichero estructurado un elemento auxiliar, de forma que, si existiera discordancia entre ellos, prevalecerá aquel.
+
+2\. Si el título se hubiera presentado electrónicamente, se estará a las siguientes reglas:
+
+1.ª El sistema telemático de comunicación empleado deberá generar un acuse de recibo digital mediante un sistema de sellado temporal acreditativo del tiempo exacto con expresión de la unidad temporal precisa de ingreso del título en el Registro y el código registral único de las fincas objeto del asiento, en su caso.
+
+2.ª Si el título hubiera ingresado en horas de oficina, el registrador procederá en el mismo día a practicar el asiento de presentación correspondiente al título presentado atendiendo al orden de presentación. Si no fuera posible extender el asiento de presentación, se estará a lo dispuesto reglamentariamente. Si el título se presentara fuera de las horas de oficina, se deberá extender el asiento de presentación en el día hábil siguiente atendiendo, igualmente, al orden riguroso de presentación de aquél, de conformidad con el sellado temporal.
+
+3.ª El registrador notificará telemáticamente en el mismo día en que se hubiera extendido el asiento de presentación su práctica, así como, en su caso, la denegación de aquel. En este último supuesto se deberán motivar suficientemente las causas impeditivas, de conformidad con el apartado cuarto del artículo 258 de la Ley Hipotecaria.
+
+3\. Los documentos solamente podrán presentarse por telefax en caso justificado de imposibilidad técnica para ser presentados electrónicamente y se asentarán en el Diario de conformidad con la regla general a excepción de los que se reciban fuera de las horas de oficina que se asentarán en el día hábil siguiente, en el momento de la apertura del Diario y tras todos los presentados electrónicamente conforme a la regla 2.ª del apartado anterior, y atendiendo al orden riguroso de recepción por telefax.
+
+En caso de presentación por telefax el asiento de presentación caducará si en el plazo de diez días hábiles siguientes no se presenta en el Registro el título original o su copia autorizada, salvo que el documento presentado estuviera dotado de código electrónico de verificación y fuera posible comprobar su integridad y veracidad.
+
+> Se modifica por el art. 36.17 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Artículo 253.
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. En los supuestos de denegación o suspensión de la inscripción del derecho contenido en el título, después de la nota firmada por el Registrador, hará constar éste, si lo solicita el interesado en la práctica del asiento, en un apartado denominado "observaciones'', los medios de subsanación, rectificación o convalidación de las faltas o defectos subsanables e insubsanables de que adolezca la documentación presentada a efectos de obtener el asiento solicitado. En este supuesto, si la complejidad del caso lo aconseja, el interesado en la inscripción podrá solicitar dictamen vinculante o no vinculante, bajo la premisa, cuando sea vinculante, del mantenimiento de la situación jurídico registral y de la adecuación del medio subsanatorio al contenido de dicho dictamen. Todo ello sin perjuicio de la plena libertad del interesado para subsanar los defectos a través de los medios que estime más adecuados para la protección de su derecho.
+
+> Se derogan los apartados 1 y 2 por la disposición derogatoria única.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Se modifica por la disposición adicional 2.3 de la Ley 7/1998, de 13 de abril. [Ref. BOE-A-1998-8789](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8789).
+
+###### Artículo 254.
+
+1\. Ninguna inscripción se hará en el Registro de la Propiedad sin que se acredite previamente el pago de los impuestos establecidos o que se establecieren por las leyes, si los devengare el acto o contrato que se pretenda inscribir.
+
+2\. No se practicará ninguna inscripción en el Registro de la Propiedad de títulos relativos a actos o contratos por los que se adquieran, declaren, constituyan, transmitan, graven, modifiquen o extingan el dominio y los demás derechos reales sobre bienes inmuebles, o a cualesquiera otros con trascendencia tributaria, cuando no consten en aquellos todos los números de identificación fiscal de los comparecientes y, en su caso, de las personas o entidades en cuya representación actúen.
+
+3\. No se practicará ninguna inscripción en el Registro de la Propiedad de títulos relativos a actos o contratos por los que se declaren, constituyan, transmitan, graven, modifiquen o extingan a título oneroso el dominio y los demás derechos reales sobre bienes inmuebles, cuando la contraprestación consistiera, en todo o en parte, en dinero o signo que lo represente, si el fedatario público hubiere hecho constar en la Escritura la negativa de los comparecientes a identificar, en todo o en parte, los datos o documentos relativos a los medios de pago empleados.
+
+4\. Las escrituras a las que se refieren los números 2 y 3 anteriores se entenderán aquejadas de un defecto subsanable. La falta sólo se entenderá subsanada cuando se presente ante el Registro de la Propiedad una escritura en la que consten todos los números de identificación fiscal y en la que se identifiquen todos los medios de pago empleados.
+
+5\. El Registro de la Propiedad no practicará la inscripción correspondiente de ningún documento que contenga acto o contrato determinante de las obligaciones tributarias por el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, sin que se acredite previamente haber presentado la autoliquidación o, en su caso, la declaración, del impuesto, o la comunicación a que se refiere la letra b) del apartado 6 del artículo 110 del Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo, 2/2004, de 5 de marzo.
+
+> Se añade el apartado 5, con efectos de 1 de enero de 2013, por la disposición final 4 de la Ley 16/2012, de 27 de diciembre. [Ref. BOE-A-2012-15650](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15650).
+
+> Se modifica por el art. 7.2 de la Ley 36/2006, de 29 de noviembre. [Ref. BOE-A-2006-20843](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20843).
+
+###### Artículo 255.
+
+No obstante lo previsto en el artículo anterior, podrá extenderse el asiento de presentación antes de que se verifique el pago del impuesto; mas en tal caso se suspenderá la calificación y la inscripción u operación solicitada y se devolverá el título al que lo haya presentado, a fin de que se satisfaga dicho impuesto.
+
+Pagado éste, se extenderá la inscripción o asiento de que se trate y sus efectos se retrotraerán a la fecha del asiento de presentación, si se hubiere devuelto el título dentro del plazo de vigencia del mismo.
+
+Si se devolviere el título después de los sesenta días, deberá extenderse nuevo asiento de presentación, y los efectos de la inscripción u operación que se verifique se retrotraerán solamente a la fecha del nuevo asiento.
+
+En el caso de que por causa legítima debidamente justificada no se hubiere pagado el impuesto dentro de los sesenta días, se suspenderá dicho término hasta que se realice el pago, expresándose esta suspensión por nota marginal en el asiento de presentación, la cual se extenderá, siempre que al Registrador no le conste la certeza del hecho, en vista del oportuno documento acreditativo.
+
+En estos casos el asiento de presentación caducará a los ciento ochenta días de su fecha.
+
+###### Artículo 256.
+
+Las cartas de pago de los impuestos satisfechos por actos o contratos sujetos a inscripción se presentarán y quedarán archivadas en el Registro. El Registrador que no las conservare será responsable directamente de las cantidades que hayan dejado de satisfacerse a la Hacienda.
+
+###### Artículo 257.
+
+Para que en virtud de resolución judicial pueda hacerse cualquier asiento en el Registro, expedirá el Juez, Tribunal o Secretario judicial, por duplicado, el mandamiento correspondiente, excepto cuando se trate de ejecutorias.
+
+El Registrador devolverá uno de los ejemplares al mismo Juez, Tribunal o Secretario judicial que lo haya expedido o al interesado que lo haya presentado, con nota firmada expresiva de quedar cumplido en la forma que proceda; y conservará el otro en su oficina, extendiendo en él una nota rubricada igual a la que hubiere puesto en el ejemplar devuelto.
+
+Estos documentos se archivarán numerados por el orden de su presentación.
+
+> Se modifica por el art. 3.10 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+#### Información y protección al consumidor
+
+> Se añade por la disposición adicional 2.4 de la Ley 7/1998, de 13 de abril. [Ref. BOE-A-1998-8789](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8789).
+
+###### Artículo 258.
+
+1\. El Registrador, sin perjuicio de los servicios prestados a los consumidores por los centros de información creados por su colegio profesional, garantizará a cualquier persona interesada la información que le sea requerida, durante el horario habilitado al efecto, en orden a la inscripción de derechos sobre bienes inmuebles, los requisitos registrales, los recursos contra la calificación y la minuta de inscripción.
+
+2\. El registrador de la propiedad denegará la inscripción de aquellas cláusulas de los contratos que sean contrarias a normas imperativas o prohibitivas o hubieran sido declaradas nulas por abusivas por sentencia del Tribunal Supremo con valor de jurisprudencia o por sentencia firme inscrita en el Registro de Condiciones Generales de la Contratación.
+
+3\. Los interesados en una inscripción, anotación preventiva o cancelación, podrán exigir que antes de extenderse estos asientos en los libros se les dé conocimiento de su minuta.
+
+Si los interesados notaren en la minuta de inscripción realizada por el Registrador algún error u omisión, podrán pedir que se subsane, acudiendo al Juzgado de Primera Instancia en el caso de que el Registrador se negare a hacerlo.
+
+El Juez, en el término de seis días, resolverá lo que proceda sin forma de juicio, pero oyendo al Registrador.
+
+4\. El Registrador cuando, al calificar si el título entregado o remitido reúne los requisitos del artículo 249 de esta Ley, deniegue en su caso la práctica del asiento de presentación solicitado, pondrá nota al pie de dicho título con indicación de las omisiones advertidas y de los medios para subsanarlas, comunicándolo a quien lo entregó o remitió en el mismo día o en el siguiente hábil.
+
+5\. La calificación del Registrador, en orden a la práctica de la inscripción del derecho, acto o hecho jurídico, y del contenido de los asientos registrales, deberá ser global y unitaria.
+
+> Se modifica el apartado 2, con efectos de 16 de junio de 2019, por la disposición final 1.5 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
+
+> Se modifica por la disposición adicional 2.4 de la Ley 7/1998, de 13 de abril. [Ref. BOE-A-1998-8789](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8789).
+
+### TÍTULO X — De la Dirección e Inspección de los Registros
+
+###### Artículo 259.
+
+Los Registros de la Propiedad dependerán del Ministerio de Justicia. Todos los asuntos a ellos referentes están encomendados a la Dirección General de los Registros y del Notariado.
+
+###### Artículo 260.
+
+Corresponderá a la Dirección General de los Registros y del Notariado:
+
+Primero. Proponer directamente al Ministro de Justicia o adoptar por sí en los casos que determinen los preceptos legales o reglamentarios, las disposiciones necesarias para asegurar en los Registros de la Propiedad la observancia de esta Ley y de los Reglamentos que se dicten para su ejecución.
+
+Segundo. Instruir los expedientes que se formen para la provisión de los Registros vacantes, y para celebrar las oposiciones, en los casos en que fueren necesarias, como también los que tengan por objeto la separación de los funcionarios de la Dirección General o de los Registradores, proponiendo la resolución definitiva que en cada caso proceda con arreglo a las leyes.
+
+Tercero. Resolver los recursos gubernativos que se interpongan contra las calificaciones que de los títulos hagan los Registradores, y las dudas que se ofrezcan a dichos funcionarios acerca de la inteligencia y ejecución de esta Ley o de los Reglamentos, en cuanto no exijan disposiciones de carácter general que deban adoptarse por el Ministerio de Justicia.
+
+Cuarto. Formar y publicar los estados del movimiento de la propiedad y de los derechos reales sobre inmuebles, con arreglo a los datos que faciliten los Registradores.
+
+Quinto. Ejercer la inspección y vigilancia de todos los Registros de la Propiedad.
+
+Sexto. Corregir disciplinariamente a los Registradores por las faltas cometidas en el desempeño de su cargo y proponer al Ministro de Justicia la destitución, postergación o traslado de aquellos funcionarios cuando reglamentariamente proceda.
+
+Séptimo. Comunicar las órdenes que dicte en cualquier forma el Ministro de Justicia, relativas a los servicios encomendados a la Dirección General, y autorizar su publicación, cuando proceda, en los periódicos oficiales.
+
+Las demás atribuciones de la Dirección, su organización y régimen, se fijarán por el Reglamento.
+
+###### Artículo 261.
+
+El Cuerpo Facultativo que sirve la Dirección General, se compone del Subdirector y dos Oficiales Letrados, Jefes Superiores de Administración civil; un Oficial Letrado, Jefe de Administración de primera clase; otro Oficial Letrado, Jefe de Administración de segunda clase, y cuatro Auxiliares Letrados, Jefes de Negociado de primera clase, correspondientes a las cuatro Secciones que actualmente integran aquélla.
+
+###### Artículo 262.
+
+Las plazas del Cuerpo Facultativo en las vacantes que ocurran, se proveerán necesariamente por ascenso riguroso, y la última de los Auxiliares, en turno alterno, por oposición libre entre Licenciados en Derecho o por concurso de méritos en la forma que determine el Reglamento, entre Registradores de la Propiedad y Notarios con más de cinco años de servicios efectivos en sus cargos, quienes quedarán, si obtienen plaza, excedentes en el escalafón de origen, con los derechos inherentes al estado de excedencia.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 263.
+
+El personal del Cuerpo Facultativo que ingrese por oposición directa al mismo tiene, desde su ingreso en el Centro Directivo, la asimilación a Registrador de la Propiedad y Notario, la cual se podrá hacer efectiva en las siguientes condiciones:
+
+a) Haber prestado cinco años de servicios como Facultativo en la Dirección General.
+
+b) Solicitar vacante en concurso ordinario de Registros de la Propiedad o Notarías, sin reserva de turno, computándosele la antigüedad por la que tenga en el Cuerpo Facultativo.
+
+c) En los concursos notariales y en turno de clase se entenderá al Facultativo asimilado a Notario de primera cuando lleve quince años de servicios efectivos; de segunda, cuando lleve diez, y de tercera, cuando lleve menos de diez.
+
+El Notario o Registrador que ingrese en la Dirección, conservará los derechos que tuviera en el Escalafón de origen, pero no podrá reingresar en el mismo en tanto no haya prestado cinco años de servicios efectivos en aquélla, ni tampoco consolidará derechos en el Escalafón de la misma.
+
+El Notario, con relación al Cuerpo de Registradores, y el Registrador respecto al de Notarios, se considerarán en la misma situación que los que hayan ingresado en la Dirección por oposición directa.
+
+Los funcionarios que hicieren uso de su derecho de asimilación, quedarán excedentes en el Escalafón del Cuerpo Facultativo.
+
+###### Artículo 264.
+
+Los funcionarios del Cuerpo Facultativo de la Dirección podrán ser declarados, a su instancia, en situación de excedencia, por el plazo mínimo de un año, y durante ésta continuarán figurando en el escalafón correspondiente en concepto de excedentes voluntarios, sin derecho al percibo de haberes, pero ascendiendo en aquél como si prestaran servicio.
+
+Cuando soliciten volver al servicio activo de la Dirección ocuparán la primera vacante de su categoría que se produzca con posterioridad a la presentación de la solicitud de reingreso y, hasta tanto ocurra, podrán desempeñar provisionalmente cualquiera otra vacante.
+
+###### Artículo 265.
+
+Los expresados funcionarios Facultativos no podrán ser gubernativamente separados, sino por justa causa relativa al cumplimiento de los deberes de su destino, en virtud de expediente instruido por el Director y previa consulta del Consejo de Estado, debiendo ser oído el interesado, a fin de que por escrito formule sus descargos acerca del hecho que motive el expediente.
+
+En caso de suprimirse alguna de las plazas del mencionado Cuerpo Facultativo, quien la desempeñare tendrá derecho, mientras no pueda ocupar otra, a las dos terceras partes de sus haberes.
+
+###### Artículo 266.
+
+El Subdirector y los Oficiales que sean Jefes de Sección del Centro Directivo constituirán, reunidos bajo la presidencia del Director, la Junta Consultiva de la Dirección General.
+
+Dicha Junta emitirá dictamen necesariamente cuando se trate de adoptar o proponer alguna disposición de carácter general sobre los servicios encomendados a la Dirección, y será oída, asimismo, en la resolución de recursos gubernativos y consultas de solución dudosa, a propuesta del Jefe de la Sección, en los expedientes de ingreso y separación del personal facultativo, y siempre que el Director, además, lo considere conveniente.
+
+###### Artículo 267.
+
+La Dirección General ejercerá las funciones de inspección y vigilancia a que se refiere el número quinto del artículo doscientos sesenta, bien directamente, bien por medio de los Presidentes de las Audiencias territoriales, del Colegio Nacional de Registradores o de los mismos Registradores, cuando lo crea conveniente para el mejor servicio. La delegación comprenderá en cada caso las atribuciones al efecto necesarias.
+
+###### Artículo 268.
+
+La Dirección podrá acordar y practicar, directamente o mediante delegación, las visitas de inspección a los Registros que considere convenientes para conocer el estado en que se encuentren, bien generales a todo el Registro bien parciales a determinados libros o documentos del mismo.
+
+###### Artículo 269.
+
+Los Presidentes de las Audiencias serán inspectores permanentes de los Registros de su territorio y podrán ejercer las facultades que en tal concepto les corresponden, inmediatamente o por medio de otros Magistrados o Jueces de primera instancia de carrera.
+
+Anualmente remitirán dichos Presidentes a la Dirección General un parte circunstanciado del estado en que se hallaren los Registros sujetos a su inspección.
+
+###### Artículo 270.
+
+Los Registradores remitirán el día último de cada semestre al Presidente de la Audiencia de su territorio, una certificación duplicada en la que harán constar, bajo su responsabilidad, el estado de su Registro, con los datos y en la forma que determine el Reglamento.
+
+El Presidente de la Audiencia devolverá, luego de sellado, uno de los ejemplares de dicha certificación al Registrador, el cual lo archivará, a efecto de su comprobación en las visitas de inspección.
+
+###### Artículo 271.
+
+Si al practicarse la inspección se observare alguna falta de formalidad por parte de los Registradores en el modo de llevar los Registros o cualquiera infracción de la Ley o de los Reglamentos para su ejecución, el Inspector adoptará las disposiciones necesarias para corregirlas y, en su caso, sancionarlas con arreglo a la misma Ley. Del mismo modo procederá la Dirección General si la falta resultare comprobada por el contenido de la certificación semestral.
+
+Si la falta o infracción notada pudiere ser calificada de delito, pasarán el tanto de culpa al Juzgado competente.
+
+Siempre que la Dirección General suspenda a algún Registrador, nombrará otro que le reemplace interinamente, con sujeción a las normas reglamentarias sobre interinidades.
+
+###### Artículo 272.
+
+Las comisiones de servicio que se concedan a los Registradores o Notarios en la Dirección General, se conferirán únicamente para auxiliar los trabajos de carácter extraordinario que se encomienden a dicha Dirección General; pero por ningún concepto podrá exceder su número de tres Registradores y de tres Notarios los que a la vez desempeñen las expresadas comisiones.
+
+La duración de estas comisiones no podrá exceder de un año, que se podrá prorrogar, si mediare necesidad del servicio público, solamente por un plazo igual.
+
+###### Artículo 273.
+
+Los Registradores podrán consultar directamente con la Dirección General cualquiera duda que se les ofrezca sobre la inteligencia y ejecución de esta Ley o de su Reglamento, en cuanto verse sobre la organización o funcionamiento del Registro, y sin que en ningún caso puedan ser objeto de consulta las materias o cuestiones sujetas a su calificación.
+
+### TÍTULO XI — De la demarcación de los Registros y del nombramiento, cualidades y deberes de los Registradores
+
+###### Artículo 274.
+
+Cada Registro de la propiedad estará a cargo de un Registrador, salvo el caso de excepción a que se refiere el artículo doscientos setenta y cinco.
+
+Los Registradores de la Propiedad tienen el carácter de funcionarios públicos para todos los efectos legales y tendrán tratamiento de Señoría en los actos de oficio.
+
+###### Artículo 275.
+
+Subsistirán los Registros de la Propiedad en todas las poblaciones en que se hallen establecidos. No obstante, el Ministerio de Justicia, a propuesta de la Dirección General de los Registros y del Notariado, y con las formalidades reglamentarias, cuando así convenga al servicio público, atendido el volumen y movimiento de la titulación sobre bienes inmuebles y derechos reales, podrá, oyendo al Consejo de Estado, acordar el establecimiento de nuevos Registros de la Propiedad en determinadas localidades, así como la modificación o supresión de los existentes.
+
+Podrá asimismo la Dirección General proceder a la división personal de algún Registro, una vez acordada por el Ministro su división material y en tanto se lleve a cabo ésta, previo expediente y con arreglo al Reglamento. Esa división, que tendrá carácter provisional, se llevará a efecto, en todo caso, vacante el Registro, el cual se anunciará en concurso para su provisión con dos Registradores.
+
+Los Registros que en lo sucesivo se dividan funcionarán con un solo libro Diario, común para los que se establezcan como consecuencia de la división.
+
+Para alterar la circunscripción territorial que en la actualidad corresponde a cada Registro, fuera de los casos de los dos párrafos anteriores, deberá existir motivo de necesidad o conveniencia pública, que se hará constar en el expediente, y será oído el Consejo de Estado.
+
+###### Artículo 275 bis.
+
+La Dirección General de los Registros y del Notariado designará, en la forma que reglamentariamente se determine, un cuadro de sustituciones en virtud del cual uno o varios Registradores que sirvan en un Registro de la Propiedad puedan calificar y despachar documentos correspondientes a otros Registros.
+
+Dicho cuadro podrá incluir Registradores de la misma provincia o de provincias limítrofes sin que en ningún caso puedan tener estas sustituciones carácter recíproco.
+
+> Se añade por el art. 105 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 276.
+
+Cada Registrador tendrá la categoría personal que con arreglo a su número en el escalafón le corresponda.
+
+Tendrán categoría de primera clase los que ocupen uno de los ciento veinticinco primeros números del escalafón; de segunda, los comprendidos entre el ciento veintiséis y el doscientos cincuenta; de tercera, los comprendidos entre el doscientos cincuenta y uno y el trescientos setenta y cinco, y de cuarta, todos los posteriores.
+
+En el mes de enero de cada año, la Dirección General formará el Escalafón de los Registradores de la Propiedad por orden de antigüedad absoluta, computada a partir de la fecha del nombramiento, siempre que la toma de posesión haya tenido lugar dentro del término posesorio y desde la fecha de posesión en otro caso, con expresión del Registro que desempeñe cada uno y de la categoría personal que le corresponda. Al orden de este Escalafón se sujetarán todos los nombramientos que se hagan para la provisión de Registros vacantes.
+
+> Redactado el párrafo tercero conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+###### Artículo 277.
+
+El ingreso en el Cuerpo de Registradores se efectuará mediante oposición, ajustada al Reglamento redactado por la Dirección General. Los opositores aprobados constituirán el Cuerpo de Aspirantes y serán nombrados Registradores efectivos con arreglo a lo dispuesto en el párrafo tercero del artículo doscientos ochenta y cuatro.
+
+Cuando quedaren únicamente por colocar cinco Aspirantes, la Dirección convocará nueva oposición, a fin de cubrir cincuenta plazas, número máximo que por ningún concepto podrá ser ampliado.
+
+###### Artículo 278.
+
+El nombramiento de los Registradores se hará por el Ministerio de Justicia.
+
+###### Artículo 279.
+
+Para ser nombrado Registrador se requiere:
+
+Primero. Ser español, varón y mayor de veintitrés años de edad.
+
+Segundo. Ser Licenciado en Derecho.
+
+###### Artículo 280.
+
+No podrán ser Registradores:
+
+Primero. Los fallidos o concursados que no hayan obtenido rehabilitación.
+
+Segundo. Los deudores al Estado o a fondos públicos, como segundos contribuyentes, o por alcance de cuentas.
+
+Tercero. Los procesados criminalmente contra los que se haya dictado auto de prisión, mientras no haya quedado sin efecto.
+
+Cuarto. Los condenados a penas graves.
+
+###### Artículo 281.
+
+El cargo de Registrador es incompatible con el de Juez o Fiscal Municipal o Comarcal, Notario y, en general, con todo empleo o cargo público, en propiedad o por sustitución, esté o no retribuido con fondos del Estado, de la Provincia o del Municipio.
+
+###### Artículo 282.
+
+No se dará posesión de su cargo a los que sean nombrados Registradores, sin que presten previamente una fianza en la forma y cuantía que fijará el Reglamento.
+
+Si el nombrado Registrador no prestare dicha fianza, deberá depositar en algún Banco autorizado por la Ley la cuarta parte de los honorarios que devengue, hasta completar la suma de la garantía.
+
+###### Artículo 283.
+
+La fianza de los Registradores y el depósito, en su caso, quedarán afectos, mientras no se devuelvan, a las responsabilidades en que aquéllos incurran por razón de su cargo, con preferencia a cualesquiera otras obligaciones de los mismos Registradores.
+
+La fianza o el depósito, en su caso, no se devolverán a los Registradores hasta que hubieren cesado en el ejercicio de su cargo.
+
+###### Artículo 284.
+
+La provisión de los Registros vacantes se efectuará siempre por concurso de rigurosa antigüedad entre Registradores, apreciada aquélla con arreglo al Escalafón vigente al tiempo de resolverse el concurso.
+
+Los Registradores que hubieren sido corregidos disciplinariamente con privación de ascenso no podrán solicitar en dichos concursos durante el tiempo por el que se les haya impuesto la corrección.
+
+Los Registros que no fueren solicitados en el concurso por ningún Registrador se proveerán entre Aspirantes por el orden de numeración en que los haya colocado el Tribunal censor.
+
+###### Artículo 285.
+
+A los únicos efectos del cómputo de la antigüedad en los concursos para provisión de Registros, se entenderá que los Registradores que sirvan en las posesiones de Guinea y que lleven dos años completos de servicios efectivos en las mismas tendrán antigüedad de seis años de servicios prestados en cualquier Registro de la Península.
+
+###### Artículo 286.
+
+Los Registradores no podrán permutar sus destinos sino mediante justa causa, a juicio de la Dirección General y siempre que concurran las circunstancias siguientes:
+
+Primera. Que los Registradores tengan la misma categoría personal.
+
+Segunda. Que los productos de uno de los Registros a que la permuta se refiera no excedan a los del otro en una cuarta parte, según los datos estadísticos del último quinquenio.
+
+Tercera. Que ninguno de los permutantes haya cumplido la edad de sesenta y cuatro años.
+
+Si la permuta se concediere, no podrán los Registradores permutantes obtener otro Registro por concurso o por nueva permuta, ni ser declarados excedentes voluntarios, hasta dos años después de la aprobación de aquélla.
+
+###### Artículo 287.
+
+Los Registradores de la propiedad podrán ser declarados, a su instancia, excedentes por tiempo que no será nunca menor de un año. Cumplido este plazo, podrán volver al servicio activo, solicitando vacantes en concurso ordinario.
+
+No se dará curso a la solicitud de excedencia voluntaria cuando el interesado se halle sometido a expediente de remoción, traslación, corrección u otro análogo.
+
+Los Registradores que, por ser miembros de Cámaras legislativas, quedasen en situación de excedencia, permanecerán en la misma durante el tiempo que desempeñen dichos cargos, pudiendo quedar, a su instancia, reservado el Registro que desempeñaren para volver al mismo cuando se reintegren al servicio activo por haber cesado en la representación.
+
+###### Artículo 288.
+
+Los Registradores no podrán ausentarse del punto de su residencia oficial en los días no feriados y durante las horas de oficina sino en los casos siguientes:
+
+Primero. Cuando tuvieren que hacerlo con objeto de entregar los fondos recaudados por el impuesto de Derechos reales y transmisión de bienes o por otra justa causa, pero dando parte por medio de comunicación al Presidente de la Audiencia, así del día en que se ausenten como del motivo que a ello les obliga, y dejando al sustituto encargado del Registro. En estas ausencias no podrán invertir más que el tiempo que prudencialmente necesiten para cumplir aquel deber o para atender a la causa que las motiva, dando conocimiento al mismo Presidente de su regreso.
+
+Segundo. Cuando hayan obtenido licencia. La Dirección podrá concedérsela por el plazo máximo, en cada año, de dos meses, siempre que, a su juicio, medie justa causa. El Ministro podrá prorrogar este plazo por otro mes.
+
+Los Presidentes de las Audiencias darán cuenta inmediata a la Dirección de la fecha en que se ausenten y regresen los Registradores.
+
+###### Artículo 289.
+
+Los Registradores no podrán ser destituidos ni trasladados a otros Registros, contra su voluntad, sino por sentencia judicial o por el Ministro de Justicia, en virtud de expediente instruido por la Dirección, con audiencia del interesado y en vista de los informes que considere necesarios.
+
+Para que la destitución o traslación puedan decretarse por el Ministerio de Justicia, se deberá acreditar en el expediente alguna falta cometida por el Registrador en el ejercicio de su cargo o que le haga desmerecer en el concepto público, y será oído el Consejo de Estado.
+
+###### Artículo 290.
+
+El Registrador que cese en el desempeño de su cargo por reforma o supresión del Registro será considerado excedente forzoso y deberá solicitar inmediatamente otro Registro en los concursos que se celebren.
+
+Durante el tiempo que permanezca en dicha situación de excedencia, y como máximo seis meses, tendrá los derechos que la legislación de Clases Pasivas pueda reconocerle con arreglo a sus años de servicio activo y al sueldo regulador que, según su categoría personal, le correspondería en caso de jubilación, conforme al artículo siguiente.
+
+###### Artículo 291.
+
+Los Registradores podrán ser jubilados a su instancia, por imposibilidad física debidamente acreditada o por haber cumplido sesenta y cinco años de edad. Podrán serlo por la Administración en los casos previstos en la legislación general del Estado. La jubilación será forzosa para el Registrador que hubiere cumplido los setenta años.
+
+A efectos de su clasificación, se entenderá como sueldo regulador, solamente para la declaración del haber que hayan de disfrutar con arreglo a la legislación de Clases Pasivas, y a falta de otro mayor que pudiere corresponderles:
+
+a) Para los Registradores que al jubilarse tengan categoría personal de primera clase y ocupen uno de los doce primeros números del Escalafón, el sueldo de Magistrados de término; para los que ocupen del número trece al cincuenta, el de Magistrados de ascenso, y para los que ocupen del número cincuenta y uno al ciento veinticinco, el de Magistrados de entrada.
+
+b) Para los que tengan categoría personal de segunda clase, el sueldo de los Jueces de Primera Instancia de término.
+
+c) Para los que tengan categoría personal de tercera clase, el de los Jueces de Primera Instancia de ascenso.
+
+d) Y finalmente, para los que tengan categoría personal de cuarta clase, el de los Jueces de Primera Instancia de entrada.
+
+###### Artículo 292.
+
+Luego que los Registradores tomen posesión del cargo propondrán al Presidente de la Audiencia de su territorio el nombramiento de un sustituto que los reemplace en sus ausencias y enfermedades, pudiendo elegir para ello, bien a alguno de los Oficiales del mismo Registro, o bien a otra persona de su confianza.
+
+Si el Presidente de la Audiencia se conformare con la propuesta, expedirá desde luego el nombramiento al sustituto; si no se conformare por algún motivo grave, mandará al Registrador que le proponga otra persona.
+
+El sustituto desempeñará sus funciones bajo la responsabilidad del Registrador, y será removido siempre que éste lo solicite.
+
+###### Artículo 293.
+
+Los Registradores formarán al final de cada año y remitirán a la Dirección General estados comprensivos de las enajenaciones de inmuebles, de los derechos reales constituidos sobre los mismos, de las hipotecas y de los préstamos hechos durante el año, en la forma y con las circunstancias que determine el Reglamento.
+
+###### Artículo 294.
+
+Los Registradores percibirán los honorarios que se establezcan en su Arancel, que aprobará el Ministerio de Justicia, y costearán los gastos necesarios para el funcionamiento y conservación de los Registros.
+
+###### Artículo 295.
+
+Reglamentariamente se determinará la existencia, organización y medios económicos del Colegio Nacional de Registradores de la Propiedad, así como sus fines, principalmente mutualistas y de asociación.
+
+### TÍTULO XII — De la responsabilidad y del régimen disciplinario de los registradores
+
+> Se modifica por el art. 101.1 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 73, de 14 de marzo de 1946. [Ref. BOE-A-1946-3142](https://www.boe.es/buscar/doc.php?id=BOE-A-1946-3142)
+
+#### Sección 1.ª De la responsabilidad de los Registradores
+
+> Se añade por el art. 101.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Aunque el legislador se refiera al Título XIII, interpretamos, por su contenido, que la ubicación correcta es el Tit. XII.
+
+###### Artículo 296.
+
+Los Registradores responderán civilmente, en primer lugar, con sus fianzas, y en segundo, con sus demás bienes, de todos los daños y perjuicios que ocasionen:
+
+Primero. Por no asentar en el Diario, no inscribir o no anotar preventivamente en el término señalado en la Ley los títulos que se presenten al Registro.
+
+Segundo. Por error o inexactitud cometidos en inscripciones, cancelaciones, anotaciones preventivas o notas marginales.
+
+Tercero. Por no cancelar sin fundado motivo alguna inscripción o anotación, u omitir el asiento de alguna nota marginal, en el término correspondiente.
+
+Cuarto. Por cancelar alguna inscripción, anotación preventiva o nota marginal, sin el título y los requisitos que exige esta Ley.
+
+Quinto. Por error u omisión en las certificaciones de inscripción o de libertad de los inmuebles o derechos reales, o por no expedir dichas certificaciones en el término señalado en esta Ley.
+
+###### Artículo 297.
+
+Los errores, inexactitudes u omisiones expresadas en el artículo anterior no serán imputables al Registrador cuando tengan su origen en algún defecto del título inscrito y no sea de los que notoriamente deberían haber motivado la denegación o la suspensión de la inscripción, anotación o cancelación.
+
+###### Artículo 298.
+
+La rectificación de errores cometidos en asientos de cualquiera especie, y que no traigan su origen de otros cometidos en los respectivos títulos, no librará al Registrador de la responsabilidad en que pueda incurrir por los perjuicios que hayan ocasionado los mismos asientos antes de ser rectificados.
+
+###### Artículo 299.
+
+El Registrador será responsable con su fianza y con sus bienes de las indemnizaciones y multas a que pueda dar lugar la actuación de su sustituto en el Registro mientras esté a su cargo.
+
+###### Artículo 300.
+
+El que por error, malicia o negligencia del Registrador perdiere un derecho real o la acción para reclamarlo podrá exigir, desde luego, del mismo Registrador el importe de lo que hubiere perdido.
+
+El que por las mismas causas pierda sólo la hipoteca que asegure una obligación, podrá exigir que el Registrador, a su elección, le proporcione otra hipoteca igual a la perdida o deposite, desde luego, la cantidad asegurada para responder en su día de dicha obligación.
+
+###### Artículo 301.
+
+El que por error, malicia o negligencia del Registrador quede libre de alguna carga o limitación inscritas será responsable solidariamente con el mismo Registrador del pago de las indemnizaciones a que éste sea condenado por su falta.
+
+###### Artículo 302.
+
+Siempre que en el caso del artículo anterior indemnice el Registrador al perjudicado, podrá repetir la cantidad que por tal concepto pagare contra el que por su falta haya resultado favorecido.
+
+Cuando el perjudicado dirigiere su acción contra el favorecido por dicha falta, no podrá repetir contra el Registrador sino en el caso de que no llegue a obtener la indemnización reclamada o alguna parte de ella.
+
+###### Artículo 303.
+
+Toda demanda que se deduzca contra el Registrador para exigirle la responsabilidad se presentará y sustanciará ante el Juzgado o Tribunal a que corresponda el Registro en que se haya cometido la falta.
+
+###### Artículo 304.
+
+Cuando por sentencia ejecutoria se condene a un Registrador a la indemnización de daños y perjuicios, se publicarán edictos en el BOLETIN OFICIAL DEL ESTADO y en el de la provincia correspondiente, si hubieren de hacerse efectivas las responsabilidades con la fianza, por no satisfacer el condenado el importe de la indemnización.
+
+En virtud de este edicto podrán deducir sus respectivas demandas los que se crean perjudicados por otros actos del mismo Registrador, y si no lo hicieren en el término de noventa días se llevará a efecto la sentencia.
+
+###### Artículo 305.
+
+Si se dedujeren dentro del término de los noventa días algunas reclamaciones, continuará suspendida la ejecución de la sentencia hasta que recaiga sobre ellas resolución firme, a no ser que la fianza bastare notoriamente para cubrir el importe de dichas reclamaciones después de cumplida la ejecutoria.
+
+###### Artículo 306.
+
+Cuando la fianza no alcanzare a cubrir todas las reclamaciones que se declaren procedentes, se prorrateará su importe entre los que las hayan formulado.
+
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de la responsabilidad de los demás bienes del Registrador.
+
+###### Artículo 307.
+
+La Dirección General de los Registros y del Notariado suspenderá, desde luego, al Registrador condenado por ejecutoria a la indemnización de daños y perjuicios, si en el término de diez días no completare o repusiere su fianza o no asegurase a los reclamantes las resultas de los respectivos juicios.
+
+###### Artículo 308.
+
+El perjudicado por los actos de un Registrador que no deduzca su demanda en el término de los noventa días señalados en el artículo trescientos cuatro deberá ser indemnizado con lo que restare de la fianza o de los bienes del mismo Registrador y sin perjuicio de lo dispuesto en el artículo trescientos uno.
+
+###### Artículo 309.
+
+Si admitida la demanda de indemnización no pareciere bastante para asegurar su importe el de la fianza, deberá el Juez o Tribunal decretar, a instancia del actor, una anotación preventiva sobre los bienes del Registrador.
+
+###### Artículo 310.
+
+Cuando un Registrador fuere condenado a la vez a la indemnización de daños y perjuicios y al pago de multas se abonarán con preferencia los primeros.
+
+###### Artículo 311.
+
+La acción para pedir la indemnización de los daños y perjuicios causados por los actos de los Registradores prescribirá al año de ser conocidos los mismos perjuicios por el que pueda reclamarlos y no durará en ningún caso más tiempo que el señalado por el Código Civil para la prescripción de las acciones personales, contándose desde la fecha en que la falta haya sido cometida.
+
+###### Artículo 312.
+
+El Juez o Tribunal ante quien fuere demandado un Registrador para la indemnización de perjuicios causados por sus actos dará inmediatamente conocimiento de la demanda a la Dirección General de los Registros y del Notariado y, en su día, de la sentencia que recaiga.
+
+#### Sección 2.ª Del régimen disciplinario de los Registradores
+
+> Se añade por el art. 101.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Se interpreta que, por su contenido, la ubicación correcta es el Tit. XII.
+
+###### Artículo 313.
+
+El régimen disciplinario de los Registradores de la Propiedad, Mercantiles y de Bienes Muebles se regirá por lo establecido en los artículos siguientes y en las restantes normas de desarrollo. Supletoriamente, a falta de normas especiales, se aplicará lo dispuesto en las normas reguladoras del régimen disciplinario de los funcionarios civiles del Estado, excepto en lo referente a la tipificación de las infracciones.
+
+Se considerarán infracciones muy graves, graves o leves de los Registradores de la Propiedad, Mercantiles y de Bienes Muebles, las siguientes:
+
+A) Son infracciones muy graves:
+
+a) El abandono del servicio.
+
+b) Las conductas constitutivas de delito doloso relacionadas con la prestación de la fe pública registral que causen daño a la Administración o a los particulares declaradas en sentencia firme.
+
+c) Las conductas que hayan acarreado sanción administrativa, en resolución firme, por infracción grave de disposiciones en materia de prevención de blanqueo de capitales, tributaria, de mercado de valores u otras previstas en la legislación especial que resulte aplicable, siempre que dicha infracción esté directamente relacionada con el ejercicio de su profesión.
+
+d) La inscripción de títulos contrarios a lo dispuesto en las Leyes o sus Reglamentos o a sus formas y reglas esenciales, siempre que se deriven perjuicios graves para el presentante, para terceros o para la Administración y que no se trate de meras cuestiones interpretativas u opinables en Derecho.
+
+e) La reincidencia en la comisión de infracciones graves en el plazo de dos años siempre que hubieran sido sancionadas por resolución firme.
+
+f) El incumplimiento grave de las normas sobre incompatibilidades contenidas en la Ley 12/1995, de 11 de mayo, de incompatibilidades de los Miembros del Gobierno de la Nación y de los Altos Cargos de la Administración General del Estado, y en la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones públicas.
+
+g) La percepción de derechos arancelarios con infracción de las disposiciones por las que aquéllos se rijan.
+
+h) El retraso injustificado y generalizado en la inscripción de los títulos presentados. A estos efectos, se considera generalizado aquel retraso que afecta a un diez por ciento o más de los títulos atendiendo al número de los presentados trimestralmente.
+
+i) El incumplimiento de las obligaciones de custodia y uso de la firma electrónica avanzada del Registrador, así como la obligación de denunciar la pérdida, extravío o deterioro o situación que ponga en riesgo el secreto o la unicidad del dispositivo seguro de creación de firma electrónica.
+
+j) Asimismo, son infracciones muy graves las siguientes:
+
+1\. El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de la profesión.
+
+2\. Toda actuación profesional que suponga discriminación por razón de raza, sexo, religión, lengua opinión, lugar de nacimiento, vecindad o cualquier otra condición o circunstancia personal o social.
+
+3\. La violación de neutralidad o independencia políticas, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito así como la obstaculización al ejercicio de las libertades públicas y derechos sindicales.
+
+B) Son infracciones graves:
+
+a) Las conductas que hayan acarreado sanción administrativa, en resolución firme, por infracción de disposiciones en materia de prevención de blanqueo de capitales, tributaria, de mercado de valores, u otras previstas en la legislación especial que resulte aplicable, siempre que dicha infracción esté directamente relacionada con el ejercicio de su profesión y no constituyan faltas muy graves.
+
+b) La negativa injustificada a la prestación de funciones requeridas, así como la ausencia injustificada por más de dos días del lugar de su residencia, siempre que cause daño a tercero; en particular se considerará a los efectos de esta infracción de negativa injustificada a la prestación de funciones requeridas, la denegación injustificada del registrador a extender asiento de presentación, a inscribir, a expedir nota, a motivar sus actuaciones, en particular su calificación negativa, a notificar en los términos legal o reglamentariamente previstos, a practicar los asientos o a elevar el expediente en los plazos y forma establecidos.
+
+c) Las conductas que impidan prestar con imparcialidad, dedicación y objetividad las obligaciones de calificación que la vigente legislación atribuye a los Registradores de la Propiedad, Mercantiles y de Bienes Muebles o que pongan en peligro los deberes de honradez e independencia necesarios para el ejercicio público de su función.
+
+d) Los enfrentamientos graves y reiterados del Registrador con autoridades, interesados u otros Registradores, en el lugar, zona o distrito donde ejerza su función debida a actitudes no justificadas de aquél.
+
+e) El incumplimiento grave y reiterado de cualesquiera deberes impuestos por la legislación registral o por acuerdo corporativo vinculante así como el impago de los gastos colegiales acordados reglamentariamente.
+
+f) El incumplimiento reiterado de facilitar el acceso telemático a los datos del Registro
+
+g) El incumplimiento reiterado de la obligación de atención al público en las horas determinadas.
+
+h) La reincidencia por la comisión de infracciones leves en el plazo de dos años siempre que hubieran sido sancionadas por resolución firme.
+
+i) Asimismo, son infracciones graves las siguientes:
+
+1\. La falta de rendimiento que afecte al normal funcionamiento del servicio y no constituya falta muy grave.
+
+2\. La falta de obediencia debida al Colegio de Registradores de la Propiedad y Mercantiles.
+
+j) El incumplimiento reiterado de los plazos establecidos en el artículo 134 de la Ley 2/1995, de 13 de marzo, de Sociedades de Responsabilidad Limitada.
+
+j´) El retraso injustificado en la inscripción de los títulos presentados.
+
+k) El incumplimiento y la falta de obediencia a las Instrucciones y resoluciones de carácter vinculante de la Dirección General de los Registros y del Notariado, así como la falta de respeto o menosprecio a dicho Centro Directivo.
+
+C) Es infracción disciplinaria leve, si no procediere calificarla como grave o muy grave, el incumplimiento de los deberes y obligaciones impuestos por la legislación registral o, con base en ella, por resolución administrativa o acuerdo corporativo. Tratándose del incumplimiento de un acuerdo corporativo será necesario que el registrador previamente haya sido requerido para su observancia por el Colegio de Registradores de la Propiedad y Mercantiles de España.
+
+El requerimiento citará expresamente el precepto, dará un plazo para cumplirlo y apercibirá al Registrador de que, si no lo hace, podrá incurrir en infracción disciplinaria leve.
+
+Los miembros de los órganos de gobierno del Colegio de Registradores de la Propiedad y Mercantiles de España podrán ser sancionados por el Ministro de Justicia o por el Director general de los Registros y del Notariado, en los supuestos siguientes, que tendrán la consideración de infracción grave, salvo que fuere reiterada en el transcurso de su mandato, en cuyo caso será infracción muy grave:
+
+a) El incumplimiento grave o reiterado de sus deberes, siempre que suponga infracción de un precepto legal, reglamentario o corporativo.
+
+b) La negativa o resistencia a cumplir instrucciones, circulares, resoluciones o actos administrativos de obligado cumplimiento y las graves insuficiencias o deficiencias en su cumplimiento.
+
+c) El incumplimiento o cumplimiento defectuoso de acuerdos corporativos regularmente adoptados, si mediara dolo o negligencia grave.
+
+> Se modifica por el art. 32.1 a 4 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Téngase en cuenta que la letra j) del apartado B) ya estaba añadida por la Ley 7/2003, de 1 de abril.
+
+> Se añade la letra j) del apartado B) por la disposición adicional 11.1 de la Ley 7/2003, de 1 de abril. [Ref. BOE-A-2003-6586](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6586).
+
+> Se modifica por el art. 101.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 314.
+
+Las sanciones que pueden ser impuestas a los Registradores, sin perjuicio de lo previsto en la legislación registral en relación a la traba de su fianza, son las siguientes:
+
+a) Apercibimiento.
+
+b) Multa.
+
+c) Suspensión de los derechos de ausencia, licencia o traslación voluntaria hasta dos años.
+
+d) Postergación en la antigüedad en la carrera cien puestos.
+
+e) Traslación forzosa.
+
+f) Suspensión de funciones hasta cinco años.
+
+g) Separación del servicio.
+
+En la sanción de multa existirá una escala de tres tramos: menor, entre 600 y 3.000 euros; media, entre 3.001 y 12.000 euros y mayor entre 12.001 y 30.000 euros. En caso de reiteración podrá multiplicarse dicha cuantía hasta un máximo del cien por cien de la multa a pagar.
+
+Las infracciones muy graves se sancionarán con multa en el último tramo, traslación forzosa, suspensión de funciones y separación del servicio.
+
+Las infracciones graves con multa a partir del tramo medio de la escala, con suspensión de los derechos reglamentarios de ausencia, licencia o traslación voluntaria y con postergación.
+
+Las infracciones leves sólo podrán ser sancionadas con apercibimiento, con multa de tramo menor o con suspensión de los derechos reglamentarios de ausencia, licencia o traslación voluntaria.
+
+Las sanciones se graduarán atendiendo en cada caso concreto, esencialmente, a la trascendencia que para la prestación de la función registral tenga la infracción cometida, la existencia de intencionalidad o reiteración y la entidad de los perjuicios ocasionados.
+
+La imposición de una sanción por infracción grave o muy grave llevará aneja, como sanción accesoria, la privación de la aptitud para ser elegido miembro de los órganos de gobierno del Colegio Nacional de Registradores de la Propiedad y Mercantiles de España mientras no se haya obtenido rehabilitación.
+
+El Registrador separado del servicio causará baja en el escalafón y perderá todos sus derechos, excepto los derivados de la previsión, en los casos en que correspondan.
+
+> Se modifica por el art. 101.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 315.
+
+Son órganos competentes en la imposición de la sanción, el Colegio de Registradores de la Propiedad y Mercantiles de España, a través de la Junta de Gobierno o de las Juntas Territoriales o Autonómicas, la Dirección General de los Registros y del Notariado y el Ministro de Justicia.
+
+El Colegio de Registradores de la Propiedad y Mercantiles de España, a través de la Junta de Gobierno o de las Juntas Territoriales y Autonómicas, podrá imponer las sanciones de apercibimiento y multa en los tramos menor y medio.
+
+La Dirección General de los Registros y del Notariado será el órgano competente para imponer las sanciones no reservadas a la Juntas Territoriales y Autonómicas excepto la separación del servicio.
+
+La separación del servicio sólo podrá ser impuesta por el Ministro de Justicia.
+
+> Se modifica por el art. 101.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 316.
+
+Las infracciones prescribirán a los cuatro meses, en el caso de infracciones leves ; a los dos años las infracciones graves y a los cuatro años las infracciones muy graves computados desde su comisión.
+
+Los mismos plazos serán necesarios en los mismos supuestos, para la prescripción de las sanciones computados desde el día siguiente al que adquiera firmeza la resolución en que se impongan.
+
+La incoación de procedimiento penal no será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, mas no se dictará resolución en éste en tanto no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal.
+
+En todo caso, la declaración de hechos probados contenida en la resolución que pone término al procedimiento penal vinculará a la que se dicte en el expediente disciplinario, sin perjuicio de la distinta calificación jurídica que puedan merecer en una y otra vía.
+
+Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos cuando no hubiere identidad de fundamento jurídico y de bien jurídico protegido.
+
+> Se añade por el art. 101.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 317.
+
+A salvo las medidas cautelares que puedan adoptar los juzgados o tribunales competentes, las sanciones disciplinarias de apercibimiento y multa se ejecutarán cuando quede agotada la vía administrativa. Las sanciones de postergación, traslación, suspensión de funciones y separación de servicio, se ejecutarán cuando sean firmes.
+
+El Ministro de Justicia, en el supuesto de la separación del servicio, o el Director general de los Registros y del Notariado en los restantes casos, podrán suspender provisionalmente en el ejercicio de sus funciones a cualquier Registrador respecto del que se haya ordenado incoar procedimiento disciplinario por infracción muy grave o grave, si ello fuere necesario para asegurar la debida instrucción del expediente o para impedir que continúe el daño al interés público o de terceros. La resolución acordando la suspensión provisional, que agotará la vía administrativa, será recurrible independientemente.
+
+Los Registradores sancionados podrán obtener la cancelación en sus expedientes personales de las sanciones anotadas cuando haya transcurrido un año desde que ganó firmeza la orden, resolución o acuerdo sancionador si la falta fue leve, dos años si fue grave y cuatro años si fue muy grave, salvo si los efectos de la sanción se extendieren a plazos superiores, en cuyo caso será necesario el transcurso de éstos.
+
+> Se añade por el art. 101.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 318.
+
+No podrán imponerse sanciones por infracciones graves o muy graves sino en virtud del procedimiento ordinario que establezca el Reglamento Hipotecario. El plazo máximo para dictar y notificar la resolución será de nueve meses, ampliables por otros tres mediante acuerdo motivado del órgano que decidió la iniciación del procedimiento.
+
+La imposición de sanciones por infracción leve se hará en procedimiento abreviado que sólo requerirá la previa audiencia del inculpado. En estos casos, el plazo máximo para dictar y notificar la resolución será de tres meses.
+
+Transcurridos los expresados plazos máximos, el procedimiento quedará caducado, pero la caducidad no producirá por sí sola la prescripción de la infracción.
+
+> Se añade por el art. 101.4 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+### TÍTULO XIII — De los documentos no inscritos
+
+###### Artículo 319.
+
+Los Juzgados y Tribunales ordinarios y especiales, los Consejos y las Oficinas del Estado no admitirán ningún documento o escritura de que no se haya tomado razón en el Registro por los cuales se constituyan, reconozcan, transmitan, modifiquen o extingan derechos reales sujetos a inscripción, si el objeto de la presentación fuere hacer efectivo, en perjuicio de tercero, un derecho que debió ser inscrito. Si tales derechos hubieran tenido ya acceso al Registro, la inadmisión procederá, cualquiera que sea la persona contra quien se pretenda hacerlos valer ante los Tribunales, Consejos y Oficinas expresados.
+
+Se exceptúa de dicha prohibición la presentación de documentos o escrituras a los efectos fiscales o tributarios.
+
+En los expedientes de expropiación forzosa que se sigan contra el que tenga los bienes en concepto de poseedor no será necesario que éstos tengan tomada razón de dicha situación en el Registro.
+
+> Se añade por el art. 101.3 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Su anterior numeración era art. 313.
+
+###### Artículo 320.
+
+No obstante lo dispuesto en el artículo anterior, podrá admitirse el documento no inscrito y que debió serlo si el objeto de la presentación fuere únicamente corroborar otro título posterior inscrito o ejercitar la acción de rectificación del Registro.
+
+> Se añade por el art. 101.3 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Su anterior numeración era art. 314.
+
+###### Artículo 321.
+
+También podrá admitirse el documento expresado en el artículo anterior cuando se presente para pedir la declaración de nulidad y consiguiente cancelación de algún asiento que impida verificar la inscripción de aquel documento.
+
+> Se añade por el art. 101.3 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+> Su anterior numeración era art. 315.
+
+### TÍTULO XIV — Recursos contra la calificación
+
+> Se añade por el art. 102.1 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 322.
+
+La calificación negativa del documento o de concretas cláusulas del mismo deberá notificarse al presentante y al Notario autorizante del título presentado y, en su caso, a la autoridad judicial o al funcionario que lo haya expedido.
+
+Dicha notificación se efectuará de conformidad con lo previsto en los artículos 58 y 59 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. A tal efecto, será válida la notificación practicada por vía telemática si el interesado lo hubiere manifestado así al tiempo de la presentación del título y queda constancia fehaciente.
+
+Igualmente deberá notificarse la calificación negativa de cláusulas concretas cuando la calificación suspensiva o denegatoria no afecte a la totalidad del título, el cual podrá inscribirse parcialmente a solicitud del interesado. En este caso, podrán practicarse asientos posteriores, siempre que no impidan en su día la inscripción de las cláusulas suspendidas o denegadas en el caso de que se recurra la calificación y se estime la impugnación. Interpuesto el recurso, el registrador hará constar por nota al margen del asiento correspondiente, una relación sucinta pero suficiente del contenido de los pactos o cláusulas rechazadas.
+
+A tal fin, se entenderá que es domicilio hábil a efecto de notificaciones el designado por el presentante al tiempo de la presentación, salvo que en el título se haya consignado otro a tal efecto. Respecto del Notario autorizante o de la autoridad judicial o funcionario que lo expidió, la notificación se practicará en su despacho, sede o dependencia administrativa.
+
+> Se modifica el párrafo tercero por el art. 135.4 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 323.
+
+Si la calificación fuere negativa o el registrador denegare la práctica de la inscripción de los títulos no calificados en plazo, se entenderá prorrogado automáticamente el asiento de presentación por un plazo de sesenta días contados desde la fecha de la última notificación a que se refiere el artículo anterior. De esta fecha se dejará constancia por nota al margen del asiento de presentación.
+
+La duración de la prórroga y del plazo para interponer recurso gubernativo empezará a contar, en el caso de que se vuelva a presentar el título calificado durante la vigencia del asiento de presentación sin haberse subsanado los defectos en los términos resultantes de la nota de calificación, desde la notificación de ésta.
+
+Vigente el asiento de presentación, el interesado o el Notario autorizante del título y, en su caso, la autoridad judicial o el funcionario que lo hubiere expedido, podrán solicitar dentro del plazo de sesenta días a que se refiere el párrafo anterior que se practique la anotación preventiva prevista en el artículo 42.9 de la Ley Hipotecaria.
+
+> Se añade el párrafo segundo por el art. 135.5 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se interpreta que se reenumera el párrafo segundo como tercero.
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 324.
+
+Las calificaciones negativas del registrador podrán recurrirse potestativamente ante la Dirección General de los Registros y del Notariado en la forma y según los trámites previstos en los artículos siguientes, o ser impugnadas directamente ante los juzgados de la capital de la provincia a la que pertenezca el lugar en que esté situado el inmueble, siendo de aplicación las normas del juicio verbal y observándose, en la medida en que le sean aplicables, las disposiciones contenidas en el artículo 328 de esta Ley.
+
+Cuando el conocimiento del recurso esté atribuido por los Estatutos de Autonomía a los órganos jurisdiccionales radicados en la Comunidad Autónoma en que esté demarcado el Registro de la Propiedad, el recurso se interpondrá ante el órgano jurisdiccional competente. Si se hubiera interpuesto ante la mencionada Dirección General, ésta lo remitirá a dicho órgano.
+
+> Se modifica el párrafo primero por el art. 31.3 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 325.
+
+Estarán legitimados para interponer este recurso:
+
+a) La persona, natural o jurídica, a cuyo favor se hubiera de practicar la inscripción, quien tenga interés conocido en asegurar los efectos de ésta, como transferente o por otro concepto, y quien ostente notoriamente o acredite en forma auténtica la representación legal o voluntaria de unos y otros para tal objeto ; el defecto o falta de acreditación de la representación se podrá subsanar en el plazo que habrá de concederse para ello, no superior a diez días, salvo que las circunstancias del caso así lo requieran;
+
+b) el Notario autorizante o aquel en cuya sustitución se autorice el título, en todo caso;
+
+c) la autoridad judicial o funcionario competente de quien provenga la ejecutoria, mandamiento o el título presentado;
+
+d) el Ministerio Fiscal, cuando la calificación se refiera a documentos expedidos por los Jueces, Tribunales o Secretarios judiciales en el seno de los procesos civiles o penales en los que deba ser parte con arreglo a las leyes, todo ello sin perjuicio de la legitimación de quienes ostenten la condición de interesados conforme a lo dispuesto en este número.
+
+La subsanación de los defectos indicados por el Registrador en la calificación no impedirá a cualquiera de los legitimados, incluido el que subsanó, la interposición del recurso.
+
+> Se modifica la letra d) del párrafo primero por el art. 3.11 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493)
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 326.
+
+El recurso deberá recaer exclusivamente sobre las cuestiones que se relacionen directa e inmediatamente con la calificación del Registrador, rechazándose cualquier otra pretensión basada en otros motivos o en documentos no presentados en tiempo y forma.
+
+El plazo para la interposición será de un mes y se computará desde la fecha de la notificación de la calificación.
+
+El escrito del recurso deberá expresar, al menos:
+
+a) El órgano al que se dirige el recurso.
+
+b) El nombre y apellidos del recurrente y, en su caso, cargo y destino del mismo.
+
+c) La calificación que se recurre, con expresión del documento objeto de la misma y de los hechos y fundamentos de derecho.
+
+d) Lugar, fecha y firma del recurrente y, en su caso, identificación del medio y del lugar que se señale a efectos de notificaciones.
+
+e) En el supuesto de presentación en los términos previstos en el artículo 327 párrafo tercero de la presente ley, deberá constar el domicilio del Registro del que se recurre la calificación del registrador, a los efectos de que sea inmediatamente remitido por el órgano que lo ha recibido a dicho Registrador.
+
+El cómputo de los plazos a los que se refiere el presente capítulo se hará de acuerdo con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 327.
+
+El recurso, en el caso de que el recurrente opte por iniciarlo ante la Dirección General de los Registros y del Notariado, se presentará en el registro que calificó para dicho Centro Directivo, debiéndose acompañar a aquél el título objeto de la calificación, en original o por testimonio, y una copia de la calificación efectuada.
+
+Al recibir el recurso, el titular del Registro que calificó deberá expedir recibo acreditativo con expresión de la fecha de presentación del mismo o, en su caso, sellar la copia que le presente el recurrente, con idéntico contenido.
+
+Asimismo, podrá presentarse en los registros y oficinas previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, o en cualquier Registro de la Propiedad para que sea inmediatamente remitido al Registrador cuya calificación o negativa a practicar la inscripción se recurre. Al recibirse el recurso en este último, deberá procederse de conformidad con lo dispuesto en el párrafo anterior.
+
+A efectos de la prórroga del asiento de presentación se entenderá como fecha de interposición del recurso la de su entrada en el Registro de la Propiedad cuya calificación o negativa a practicar la inscripción se recurre.
+
+Si no hubiera recurrido el notario autorizante, autoridad judicial o funcionario que expidió el título, el registrador, en el plazo de cinco días, deberá trasladar a éstos el recurso para que, en los cinco días siguientes a contar desde su recepción realicen las alegaciones que consideren oportunas.
+
+El Registrador que realizó la calificación podrá, a la vista del recurso y, en su caso, de las alegaciones presentadas, rectificar la calificación en los cinco días siguientes a que hayan tenido entrada en el Registro los citados escritos, accediendo a su inscripción en todo o en parte, en los términos solicitados, debiendo comunicar su decisión al recurrente y, en su caso, al Notario, autoridad judicial o funcionario en los diez días siguientes a contar desde que realizara la inscripción.
+
+Si mantuviera la calificación formará expediente conteniendo el título calificado, la calificación efectuada, el recurso, su informe y, en su caso, las alegaciones del Notario, autoridad judicial o funcionario no recurrente, remitiéndolo, bajo su responsabilidad, a la Dirección General en el inexcusable plazo de cinco días contados desde el siguiente al que hubiera concluido el plazo indicado en el número anterior.
+
+La falta de emisión en plazo de los informes previstos en este precepto no impedirá la continuación del procedimiento hasta su resolución, sin perjuicio de la responsabilidad a que ello pudiera dar lugar.
+
+La Dirección General deberá resolver y notificar el recurso interpuesto en el plazo de tres meses, computados desde que el recurso tuvo su entrada en Registro de la Propiedad cuya calificación se recurre. Transcurrido este plazo sin que recaiga resolución se entenderá desestimado el recurso quedando expedita la vía jurisdiccional, sin perjuicio de la responsabilidad disciplinaria a que ello diere lugar.
+
+Publicada en el ''Boletín Oficial del Estado'' la resolución expresa por la que se estime el recurso, tendrá carácter vinculante para todos los registradores mientras no se anule por los Tribunales. La anulación de aquélla, una vez firme, será publicada del mismo modo.
+
+Habiéndose estimado el recurso, el registrador practicará la inscripción en los términos que resulten de la resolución. El plazo para practicar los asientos procedentes, si la resolución es estimatoria, o los pendientes, si es desestimatoria, empezará a contarse desde que hayan transcurrido dos meses desde su publicación en el "Boletín Oficial del Estado", a cuyo efecto, hasta que transcurra dicho plazo, seguirá vigente la prórroga del asiento de presentación. En caso de desestimación presunta por silencio administrativo, la prórroga del asiento de presentación vencerá cuando haya transcurrido un año, y un día hábil, desde la fecha de la interposición del recurso gubernativo. En todo caso será preciso que no conste al registrador interposición del recurso judicial a que se refiere el artículo siguiente.
+
+Si se hubieran inscrito los documentos calificados en virtud de subsanación de los defectos expresados en la calificación, la rectificación del asiento precisará el consentimiento del titular del derecho inscrito y surtirá sus efectos sin perjuicio de lo establecido en el artículo 34 de la Ley Hipotecaria.
+
+> Se modifican los párrafos primero, quinto y décimo por el art. 31.4, 5 y 6 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se modifica el penúltimo párrafo por el art. 135.6 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se modifica el párrafo quinto por la disposición adicional 14.1 de la Ley 53/2002, de 30 de diciembre. [Ref. BOE-A-2002-25412](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25412).
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 328.
+
+Las calificaciones negativas del registrador y en su caso, las resoluciones expresas y presuntas de la Dirección General de los Registros y del Notariado en materia del recurso contra la calificación de los registradores serán recurribles ante los órganos del orden jurisdiccional civil, siendo de aplicación las normas del juicio verbal.
+
+La demanda deberá interponerse dentro del plazo de dos meses, contados de la notificación de la calificación o, en su caso, de la resolución dictada por la Dirección General, o, tratándose de recursos desestimados por silencio administrativo, en el plazo de cinco meses y un día desde la fecha de interposición del recurso, ante los juzgados de la capital de la provincia a la que pertenezca el lugar en que esté situado el inmueble y, en su caso, los de Ceuta o Melilla.
+
+Están legitimados para la interposición de la misma los que lo estuvieren para recurrir ante la Dirección General de los Registros y del Notariado. A este fin, recibido el expediente, el Secretario judicial a la vista de cuantos aparezcan como interesados en el mismo, les emplazará para que puedan comparecer y personarse en los autos en el plazo de nueve días.
+
+Carecen de legitimación para recurrir la resolución de la Dirección General el Colegio de Registradores de la Propiedad y Mercantiles de España, el Consejo General del Notariado y los Colegios Notariales. El notario autorizante del título o su sucesor en el protocolo, así como el registrador de la propiedad, mercantil y de bienes muebles cuya calificación negativa hubiera sido revocada mediante resolución expresa de la Dirección General de los Registros y del Notariado podrán recurrir la resolución de ésta cuando la misma afecte a un derecho o interés del que sean titulares. El Juez que conozca del recurso interpuesto podrá exigir al recurrente la prestación de caución o fianza para evitar cualquier perjuicio al otorgante del acto o negocio jurídico que haya sido calificado negativamente.
+
+La Administración del Estado estará representada y defendida por el Abogado del Estado. No obstante, cuando se trate de la inscripción de derechos en los que la Administración ostente un interés directo, la demanda deberá dirigirse contra el Ministerio Fiscal.
+
+Lo establecido en este artículo se entiende sin perjuicio del derecho que asiste a los interesados a contender entre sí acerca de la eficacia o ineficacia del acto o negocio contenido en el título calificado o la de este mismo. El procedimiento judicial en ningún caso paralizará la resolución definitiva del recurso. Quien propusiera la demanda para que se declare la validez del título podrá pedir anotación preventiva de aquélla, y la que se practique se retrotraerá a la fecha del asiento de presentación ; después de dicho término no surtirá efecto la anotación preventiva de la demanda sino desde su fecha.
+
+> Se modifica el párrafo tercero por el art. 3.12 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493)
+
+> Se modifican los párrafos primero, segundo y cuarto y se deroga el párrafo sexto por el art. 31.7 a 9 y la disposición derogatoria 1.1 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se añade el penúltimo párrafo por el art. 135.7 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936).
+
+> Se añade el párrafo cuarto por la disposición adicional 14.2 de la Ley 53/2002, de 30 de diciembre. [Ref. BOE-A-2002-25412](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25412).
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Artículo 329.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria 1.2 de la Ley 24/2005, de 18 de noviembre. [Ref. BOE-A-2005-19005](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19005).
+
+> Se añade por el art. 102.2 de la Ley 24/2001, de 27 de diciembre. [Ref. BOE-A-2001-24965](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-24965).
+
+###### Disposición adicional primera. Adaptación e incorporación de los principios de la administración electrónica a los procedimientos y actuaciones previstos en la legislación hipotecaria y aplicación a los Registros Mercantiles y Registros de Bienes Muebles de los procedimientos electrónicos.
+
+1\. Los Registradores de la Propiedad y Mercantiles utilizarán las tecnologías de la información, garantizando la seguridad, la disponibilidad, el acceso, la integridad, la autenticidad, la interoperabilidad, la confidencialidad y la conservación de los datos, informaciones y servicios que gestionen en el ejercicio de sus competencias.
+
+2\. Las personas naturales y jurídicas tendrán en relación con la utilización de los medios electrónicos en la actividad registral, y en los términos previstos en esta ley, los siguientes derechos:
+
+a) A relacionarse directamente con el Registro de la Propiedad y con el Registro Mercantil y de Bienes Muebles por medios electrónicos y así podrán presentar documentos, obtener informaciones y certificaciones, realizar consultas, formular solicitudes, manifestar consentimientos, efectuar pagos, y recurrir los actos registrales de acuerdo con lo dispuesto en esta ley.
+
+b) A no aportar los datos y documentos que obren en otros registros jurídicos, pudiendo los Registradores, en interés y por cuenta de los interesados, utilizar medios electrónicos para recabar dicha información, la cual sólo podrá ser utilizada en el concreto ámbito del procedimiento registral para el que haya sido obtenida y con la finalidad a que legalmente responda tal procedimiento.
+
+Lo dispuesto en esta letra no afectará al propio título o documento inscribible, que deberá ser aportado al Registro en todo caso para su presentación e inicio del procedimiento registral.
+
+c) A la igualdad en el acceso electrónico a los servicios de los Registros de la Propiedad, Mercantiles y de Bienes Muebles.
+
+d) A conocer por medios electrónicos el estado de tramitación de los procedimientos registrales en los que sean interesados, salvo en los supuestos en que la normativa de aplicación establezca restricciones al acceso a la información sobre aquéllos.
+
+e) A obtener certificaciones electrónicas de los documentos que formen parte de procedimientos registrales en los que tengan la condición de interesado y a solicitar información por medios telemáticos de cuantas vicisitudes afecten a sus derechos inscritos.
+
+f) A la conservación en formato electrónico por los Registros de la Propiedad, Mercantiles y de Bienes Muebles de los documentos electrónicos que formen parte de un procedimiento registral, por el tiempo y en los términos que, de acuerdo con la normativa, señale la Dirección General de Seguridad Jurídica y Fe Pública.
+
+g) A la utilización de sistemas que resulten adecuados para garantizar la identificación de los interesados y, en su caso, la autenticidad, integridad, confidencialidad y no repudio de los documentos electrónicos suscritos o para cualquier trámite electrónico con cualquier Registro de la Propiedad, Mercantil o de Bienes Muebles, pudiendo las personas físicas utilizar en todo caso los sistemas de firma electrónica previstos en la legislación vigente.
+
+h) A la garantía de la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de los Registros, sin perjuicio de la publicidad registral en los términos previstos por la normativa vigente.
+
+i) A que se garantice la accesibilidad universal a la información y a los servicios registrales electrónicos en los términos establecidos por la normativa vigente en esta materia, con objeto de que todas las personas puedan ejercer sus derechos en igualdad de condiciones, incorporando las características necesarias para garantizar la accesibilidad de aquellos colectivos que lo requieran.
+
+3\. Las previsiones recogidas en los artículos 19 bis, 222.2 y 9, y 238 a 252 así como en esta disposición adicional se aplicarán igualmente a los Registros Mercantiles y a los Registros de Bienes Muebles, en cuanto sean adecuadas a la naturaleza de los citados registros.
+
+> Se añade por el art. 36.18 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Disposición adicional segunda.
+
+Los sistemas electrónicos registrales serán interoperables con los sistemas de la Administración de Justicia para el cumplimiento de las disposiciones previstas en las leyes procesales.
+
+> Se añade por el art. 36.19 de la Ley 11/2023, de 8 de mayo [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
+
+> Téngase en cuenta que esta actualización entra en vigor el 9 de mayo de 2024, según establece la disposición final 18.6 de la citada Ley.
+
+###### Disposición transitoria primera.
+
+Caducarán y no surtirán efecto alguno, siendo canceladas de oficio o a instancia de parte, aunque hubiesen sido relacionadas o referidas en títulos o inscripciones posteriores:
+
+A) Las menciones de cualquier clase que en primero de julio de mil novecientos cuarenta y cinco tuvieren quince o más años de fecha.
+
+Cuando las menciones de derechos susceptibles de inscripción especial y separada tengan menos de quince años de fecha y dentro del plazo de dos años, a contar desde el primero de enero de mil novecientos cuarenta y cinco, no hubieren sido inscritas o anotadas en la forma procedente, así como las de derechos personales que existan en los Registros de la Propiedad en la expresada fecha de primero de enero de mil novecientos cuarenta y cinco, caducarán y no surtirán efecto alguno, una vez transcurrido el citado plazo de dos años, pasado el cual deberán ser canceladas por los Registradores, de oficio o a instancia de parte.
+
+B) Las menciones de legítima o afecciones por derechos legitimarios que se refieran a sucesiones causadas con más de treinta años de antigüedad en primero de enero de mil novecientos cuarenta y cinco. Para las menciones de esta clase, de origen más reciente, el plazo de caducidad establecido en el artículo quince comenzará a contarse desde el primero de julio de mil novecientos cuarenta y cinco, sin que en ningún caso exceda de treinta años, contados desde la fecha de defunción del causante.
+
+###### Disposición transitoria segunda.
+
+Habrán incurrido en caducidad y, por tanto, se cancelarán a instancia de parte interesada, las anotaciones preventivas que en primero de julio de mil novecientos cuarenta y cinco cuenten quince años o más de fecha. Las anotaciones preventivas que en el mismo día tengan dos o más años y menos de quince de fecha podrán ser objeto de una prórroga cuadrienal única, dentro de los dos años siguientes, y, transcurrido este plazo o la prórroga en su caso, caducarán y serán canceladas a instancia de parte interesada. Las anotaciones preventivas de menos de dos años de fecha al entrar en vigor esta Ley se regirán por las prescripciones del artículo setenta y seis de la misma.
+
+###### Disposición transitoria tercera.
+
+Caducarán las inscripciones de hipoteca que en primero de enero de mil novecientos cuarenta y cinco cuenten con más de treinta años de antigüedad a partir de la fecha del vencimiento del crédito sin haber sufrido modificación, si dentro del plazo de dos años, contados desde el referido día primero de enero de mil novecientos cuarenta y cinco, no han sido novadas, interrumpida su prescripción o ejercitada debidamente la acción hipotecaria, y asimismo las que, constituidas con anterioridad a dicho día, vayan cumpliendo en lo sucesivo los treinta años de antigüedad, con las mismas condiciones y requisitos.
+
+###### Disposición transitoria cuarta.
+
+Surtirán todos los efectos determinados por la legislación anterior las inscripciones de posesión existentes en primero de enero de mil novecientos cuarenta y cinco o las que se practiquen en virtud de informaciones iniciadas antes de dicha fecha.
+
+###### Disposición transitoria quinta.
+
+Los procedimientos ejecutivos por razón de hipotecas iniciados con posterioridad a primero de enero de mil novecientos cuarenta y cinco, aunque se refieran a hipotecas inscritas con anterioridad a dicha fecha, se regirán por la presente Ley, incluso aquellos en los que se hubiere pactado cualquier procedimiento especial para la ejecución.
+
+En todo caso podrá utilizarse el procedimiento ejecutivo ordinario o el admitido por leyes especiales cuando proceda.
+
+Las resoluciones judiciales recaídas en los procedimientos ejecutivos por razón de hipotecas, incoados con anterioridad a la indicada fecha, serán inscribibles con arreglo a la legislación anterior.
+
+###### Disposición transitoria sexta.
+
+A los actuales funcionarios del Cuerpo Facultativo de la Dirección General de los Registros y del Notariado se les reconoce exclusivamente la asimilación a Notarios de primera con cinco años de antigüedad en la clase, a partir de la fecha en que cumplieron los quince años de servicios, conforme al Decreto de cinco de julio de mil novecientos cuarenta y cinco, e igualmente se les reconoce la asimilación a Registradores de la Propiedad con la antigüedad desde la toma de su posesión.
+
+###### Disposición transitoria séptima.
+
+La limitación de efectos de las inscripciones de herencia establecida en el artículo veintiocho sólo se computará en la forma establecida por el mismo en las inscripciones practicadas a partir del primero de julio de mil novecientos cuarenta y cinco. En las practicadas con anterioridad, dicha limitación se regirá por lo establecido en la legislación anterior.
+
+###### Disposición transitoria octava.
+
+Los Registradores que al publicarse esta Ley sirvan Registro que, conforme a la anterior clasificación de los mismos, sean de categoría superior a la personal que a aquéllos corresponda por su número en el Escalafón, la conservarán para todos los efectos, salvo los del turno de clase, después de treinta y uno de diciembre de mil novecientos cuarenta y seis.
+
+###### Disposición transitoria novena.
+
+Los concursos que para la provisión de Registros vacantes se convoquen hasta el treinta y uno de diciembre de mil novecientos cuarenta y seis, se regirán por las normas de la Ley Hipotecaria de dieciséis de diciembre de mil novecientos nueve y disposiciones posteriores complementarias.
+
+El cómputo de la antigüedad de los Registradores que sirvan en las posesiones del Golfo de Guinea y lleven dos años completos de servicios en las mismas, a que se refiere el artículo doscientos ochenta y cinco, no empezará a efectuarse hasta el primero de enero de mil novecientos cuarenta y siete.
+
+###### Disposición transitoria décima.
+
+En treinta y uno de diciembre de mil novecientos cuarenta y seis quedarán caducadas, sin excepción, todas las comisiones de servicio concedidas a los Registradores en la Dirección General de los Registros y del Notariado y en los demás Centros ministeriales, no pudiéndose en lo sucesivo ordenar nuevas comisiones de servicio sino en los términos y con las limitaciones taxativamente señalados por esta Ley.
+
+###### Disposición final derogatoria.
+
+Con la publicación de esta Ley quedan derogadas la Ley Hipotecaria de dieciséis de diciembre de mil novecientos nueve, salvo lo prescrito en el primer párrafo de la Disposición transitoria novena; la de Reforma de treinta de diciembre de mil novecientos cuarenta y cuatro; el Decreto del Ministerio de Justicia de veinticuatro de mayo de mil novecientos cuarenta y cinco, el de cinco de junio de igual año y la Orden de catorce del mismo mes, dictada para la ejecución de este último.
+
+> Información relacionada
+
+> Téngase en cuenta que a partir del 1 de octubre de 2015, todas las referencias a Secretarios judiciales deberán entenderse hechas a Letrados de la Administración de Justicia, según establece la disposición adicional primera de la Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167)

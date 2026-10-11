@@ -193,7 +193,27 @@ def table_to_md(tbl, base_url):
         if width == 0 or any(len(r) != width for r in grid):
             simple = False
     if not simple:
-        html = etree.tostring(tbl, encoding="unicode", method="html", with_tail=False)
+        import copy
+        t2 = copy.deepcopy(tbl)
+        t2.tail = None
+        for cg in t2.xpath(".//colgroup|.//col"):
+            cg.getparent().remove(cg)
+        for e in t2.iter():
+            if not isinstance(e.tag, str):
+                continue
+            for a in list(e.attrib):
+                if a in ("rowspan", "colspan") and e.get(a) != "1":
+                    continue
+                if e.tag == "img" and a in ("src", "alt"):
+                    continue
+                if e.tag == "a" and a == "href":
+                    continue
+                del e.attrib[a]
+            if e.tag == "img":
+                src = e.get("src") or ""
+                if src and not src.startswith("http"):
+                    e.set("src", "https://www.boe.es" + (src if src.startswith("/") else "/" + src))
+        html = etree.tostring(t2, encoding="unicode", method="html", with_tail=False)
         html = re.sub(r"\s*\n\s*", "\n", html).strip()
         return html
     lines = ["| " + " | ".join(grid[0]) + " |", "|" + "---|" * width]
@@ -256,6 +276,9 @@ def render_children(ctx, parent, quote=False):
         if not tag:
             continue
         cls = ch.get("class") or ""
+        cad = ch.get("caduca") or ""
+        if re.fullmatch(r"\d{8}", cad) and cad <= TODAY.strftime("%Y%m%d"):
+            continue  # element expired (shown on boe.es only until that date)
         if tag == "p":
             t = text_of(ch, ctx.base_url)
             rank = head_rank(cls) if not quote else None

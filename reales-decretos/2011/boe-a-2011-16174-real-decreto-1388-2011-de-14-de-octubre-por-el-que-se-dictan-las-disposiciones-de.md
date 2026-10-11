@@ -120,8 +120,6 @@ Se entenderá que entre los equipos a presión transportables quedan incluidos l
 
 25\. Modo de emergencia del mercado interior: modo de emergencia del mercado interior tal como se define en el artículo 3, número 3, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
 
-> Téngase en cuenta que los apartados 24 y 25 añadidos por el art. 3.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añaden los apartados 24 y 25 por el art. 3.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 > Estas modificaciones entran en vigor el 30 de mayo de 2026, según establece la disposición final 4 del citado Real Decreto.
@@ -470,8 +468,6 @@ d) que no se han cumplido los requisitos del RID y ADR y del presente real decre
 
 ## CAPÍTULO VI — Procedimientos de emergencia
 
-> Téngase en cuenta que este capítulo añadido por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 > Esta modificación entra en vigor el 30 de mayo de 2026, según establece la disposición final 4 del citado Real Decreto.
@@ -486,8 +482,6 @@ d) que no se han cumplido los requisitos del RID y ADR y del presente real decre
 
 4\. La aplicación del artículo 33 del presente artículo deberá ajustarse a lo dispuesto en los actos de ejecución que la Comisión adopte en virtud del apartado 4 del artículo 33 bis de la Directiva 2010/35/UE del Parlamento Europeo y del Consejo, de 16 de junio de 2010. Las autoridades competentes tomarán las disposiciones pertinentes para dar cumplimiento a las medidas de aplicación establecidas en dichos actos.
 
-> Téngase en cuenta que este artículo añadido por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 > Esta modificación entra en vigor el 30 de mayo de 2026, según establece la disposición final 4 del citado Real Decreto.
@@ -501,8 +495,6 @@ d) que no se han cumplido los requisitos del RID y ADR y del presente real decre
 3\. La priorización de las solicitudes de evaluación de la conformidad de los equipos a presión transportables con arreglo al apartado 2 no dará lugar a costes adicionales desproporcionados para los fabricantes que hayan presentado dichas solicitudes.
 
 4\. Los organismos notificados harán esfuerzos razonables por aumentar sus capacidades en materia de ensayo para los equipos a presión transportables a que se refiere el apartado 1 en relación con las cuales hayan sido notificados.
-
-> Téngase en cuenta que este artículo añadido por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
@@ -570,8 +562,6 @@ Las comunidades autónomas informarán inmediatamente de dichas medidas a la Com
 
 11\. Las autorizaciones concedidas de acuerdo con el apartado 1 o el reconocimiento de las autorizaciones concedidas en otros Estados miembros de acuerdo con el apartado 5 no afectará a la aplicación de los procedimientos de evaluación de la conformidad pertinentes establecidos en el artículo 12.
 
-> Téngase en cuenta que este artículo añadido por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 > Esta modificación entra en vigor el 30 de mayo de 2026, según establece la disposición final 4 del citado Real Decreto.
@@ -599,8 +589,6 @@ En el plazo máximo de cinco días hábiles desde la remisión de la solicitud a
 6\. Cuando la solicitud indicada en el apartado anterior requiera asistencia específica de una autoridad de vigilancia del mercado concreta, las solicitudes serán remitidas directamente a dicha comunidad autónoma informando de ello al Estado miembro solicitante.
 
 7\. Las solicitudes de asistencia entre las autoridades de vigilancia del mercado, así como el resto de comunicaciones a las que se refiere el presente artículo se realizarán por medios electrónicos.
-
-> Téngase en cuenta que este artículo añadido por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 3.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 

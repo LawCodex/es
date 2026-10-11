@@ -352,403 +352,403 @@ El primer registro, para cada Entidad Transmisora, será un registro de cabecera
 
 Los registros de detalle que sigan al registro de cabecera de Entidad de crédito tendrá la configuración:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">POSICIÓN</p>
+<p>POSICIÓN</p>
 </td>
 <td>
-<p class="cabeza_tabla">TIPO</p>
+<p>TIPO</p>
 </td>
 <td>
-<p class="cabeza_tabla">LONGITUD</p>
+<p>LONGITUD</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">DESCRIPCIÓN DEL CAMPO</p>
+<p>DESCRIPCIÓN DEL CAMPO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">INDICADOR DE REGISTRO DE DETALLE DE DILIGENCIA DE EMBARGO. CONTENIDO: ‘2’.</p>
+<p>INDICADOR DE REGISTRO DE DETALLE DE DILIGENCIA DE EMBARGO. CONTENIDO: ‘2’.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2 - 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ALF.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NIF/CI DEL DEUDOR.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11 - 50</p>
+<p>2 - 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">40</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NOMBRE/RAZON SOCIAL DEL DEUDOR.</p>
+<p>NIF/CI DEL DEUDOR.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">51 - 52</p>
+<p>11 - 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SIGLAS DE LA VIA PÚBLICA</p>
+<p>NOMBRE/RAZON SOCIAL DEL DEUDOR.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>51 - 52</p>
+</td>
+<td>
+<p>ALF.</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>SIGLAS DE LA VIA PÚBLICA</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">DATOS DEL DOMICILIO DEL DEUDOR.</p>
+<p>DATOS DEL DOMICILIO DEL DEUDOR.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">53 - 77</p>
+<p>53 - 77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NOMBRE DE LA VIA PÚBLICA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">78 - 82</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NÚMERO DEL PORTAL</p>
+<p>NOMBRE DE LA VIA PÚBLICA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">83 - 83</p>
+<p>78 - 82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LETRA DEL PORTAL</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">84 - 85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ALF.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ESCALERA</p>
+<p>NÚMERO DEL PORTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">86 - 87</p>
+<p>83 - 83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PISO</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">88 - 89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ALF.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PUERTA</p>
+<p>LETRA DEL PORTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90 - 101</p>
+<p>84 - 85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">12</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NOMBRE DEL MUNICIPIO</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">102 - 106</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CÓDIGO POSTAL</p>
+<p>ESCALERA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">107 - 119</p>
+<p>86 - 87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">13</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIA DE EMBARGO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PISO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">120 - 134</p>
+<p>88 - 89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUM.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">15</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>PUERTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">135 - 142</p>
+<p>90 - 101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUM.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECHA DE GENERACIÓN DE LA DILIGENCIA.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>NOMBRE DEL MUNICIPIO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">143 - 157</p>
+<p>102 - 106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">15</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>CÓDIGO POSTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">158 - 158</p>
+<p>107 - 119</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
+<p>NÚMERO DE DILIGENCIA DE EMBARGO.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">159 - 174</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">175 - 194</p>
+<p>120 - 134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 1.</p>
+<p>IMPORTE TOTAL A EMBARGAR.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">195 - 211</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">212 - 231</p>
+<p>135 - 142</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 2.</p>
+<p>FECHA DE GENERACIÓN DE LA DILIGENCIA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">232 - 248</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">249 - 268</p>
+<p>143 - 157</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 3.</p>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">269 - 500</p>
+<p>158 - 158</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">232</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>159 - 174</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>175 - 194</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>CÓDIGO DE CUENTA CLIENTE 1.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>195 - 211</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>212 - 231</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>CÓDIGO DE CUENTA CLIENTE 2.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>232 - 248</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>249 - 268</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>CÓDIGO DE CUENTA CLIENTE 3.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>269 - 500</p>
+</td>
+<td>
+<p>ALF.</p>
+</td>
+<td>
+<p>232</p>
+</td>
+<td>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -879,554 +879,554 @@ Cuando en la diligencia enviada a la Entidad se solicite el embargo de varias cu
 
 Los registros de detalle que sigan al registro de cabecera de Entidad de crédito tendrán el siguiente contenido:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">POSICIÓN</p>
+<p>POSICIÓN</p>
 </td>
 <td>
-<p class="cabeza_tabla">TIPO</p>
+<p>TIPO</p>
 </td>
 <td>
-<p class="cabeza_tabla">LONGITUD</p>
+<p>LONGITUD</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">DESCRIPCIÓN DEL CAMPO</p>
+<p>DESCRIPCIÓN DEL CAMPO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INDICADOR DE REGISTRO DE DETALLE DE TRABAS DE DILIGENCIA DE EMBARGO. CONTENIDO: ‘2’.</p>
+<p>INDICADOR DE REGISTRO DE DETALLE DE TRABAS DE DILIGENCIA DE EMBARGO. CONTENIDO: ‘2’.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2 - 10</p>
+<p>2 - 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">NIF/CI DEL DEUDOR.</p>
+<p>NIF/CI DEL DEUDOR.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11 - 50</p>
+<p>11 - 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">NOMBRE/RAZON SOCIAL DEL DEUDOR.</p>
+<p>NOMBRE/RAZON SOCIAL DEL DEUDOR.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">51 - 52</p>
+<p>51 - 52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SIGLAS DE LA VIA PÚBLICA</p>
+<p>SIGLAS DE LA VIA PÚBLICA</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">DATOS DEL DOMICILIO DEL DEUDOR.</p>
+<p>DATOS DEL DOMICILIO DEL DEUDOR.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">53 - 77</p>
+<p>53 - 77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NOMBRE DE LA VIA PÚBLICA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">78 - 82</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NÚMERO DEL PORTAL</p>
+<p>NOMBRE DE LA VIA PÚBLICA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">83 - 83</p>
+<p>78 - 82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LETRA DEL PORTAL</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">84 - 85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ALF.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ESCALERA</p>
+<p>NÚMERO DEL PORTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">86 - 87</p>
+<p>83 - 83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PISO</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">88 - 89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ALF.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PUERTA</p>
+<p>LETRA DEL PORTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90 - 101</p>
+<p>84 - 85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NOMBRE DEL MUNICIPIO</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">102 - 106</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">NUM.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CÓDIGO POSTAL</p>
+<p>ESCALERA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">107 - 119</p>
+<p>86 - 87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>2</p>
+</td>
+<td>
+<p>PISO</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>88 - 89</p>
+</td>
+<td>
+<p>ALF.</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>PUERTA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90 - 101</p>
+</td>
+<td>
+<p>ALF.</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>NOMBRE DEL MUNICIPIO</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>102 - 106</p>
+</td>
+<td>
+<p>NUM.</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>CÓDIGO POSTAL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>107 - 119</p>
+</td>
+<td>
+<p>ALF.</p>
+</td>
+<td>
+<p>13</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIA DE EMBARGO.</p>
+<p>NÚMERO DE DILIGENCIA DE EMBARGO.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">120 - 134</p>
+<p>120 - 134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR.</p>
+<p>IMPORTE TOTAL A EMBARGAR.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">135 - 142</p>
+<p>135 - 142</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">FECHA DE GENERACIÓN DE LA DILIGENCIA.</p>
+<p>FECHA DE GENERACIÓN DE LA DILIGENCIA.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">143 - 157</p>
+<p>143 - 157</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO.</p>
+<p>IMPORTE TOTAL TRABADO.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">158 - 158</p>
+<p>158 - 158</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">INDICADOR DE EXISTENCIA DE MAS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO. CONTENIDO: ‘0’ (NO EXISTEN MAS CUENTAS) O ‘1’ (EXISTEN MAS CUENTAS)</p>
+<p>INDICADOR DE EXISTENCIA DE MAS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO. CONTENIDO: ‘0’ (NO EXISTEN MAS CUENTAS) O ‘1’ (EXISTEN MAS CUENTAS)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">159 - 166</p>
+<p>159 - 166</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">FECHA DE LA TRABA O ACTUACION.</p>
+<p>FECHA DE LA TRABA O ACTUACION.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">167 - 174</p>
+<p>167 - 174</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">FECHA LIMITE DE INGRESO DEL IMPORTE TRABADO. SI NO HAY IMPORTE TRABADO SE RELLENARA CON CEROS.</p>
+<p>FECHA LIMITE DE INGRESO DEL IMPORTE TRABADO. SI NO HAY IMPORTE TRABADO SE RELLENARA CON CEROS.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">175 - 194</p>
+<p>175 - 194</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 1 (CCC1).</p>
+<p>CÓDIGO DE CUENTA CLIENTE 1 (CCC1).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">195 - 196</p>
+<p>195 - 196</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA EN CCC1.</p>
+<p>CÓDIGO DE RESULTADO DE TRABA EN CCC1.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">197 - 211</p>
+<p>197 - 211</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CCC1.</p>
+<p>IMPORTE TRABADO EN CCC1.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">212 - 231</p>
+<p>212 - 231</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 2 (CCC2).</p>
+<p>CÓDIGO DE CUENTA CLIENTE 2 (CCC2).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">232 - 233</p>
+<p>232 - 233</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA EN CCC2.</p>
+<p>CÓDIGO DE RESULTADO DE TRABA EN CCC2.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">234 - 248</p>
+<p>234 - 248</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CCC2.</p>
+<p>IMPORTE TRABADO EN CCC2.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">249 - 268</p>
+<p>249 - 268</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 3 (CCC3).</p>
+<p>CÓDIGO DE CUENTA CLIENTE 3 (CCC3).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">269 - 270</p>
+<p>269 - 270</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA EN CCC3.</p>
+<p>CÓDIGO DE RESULTADO DE TRABA EN CCC3.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">271 - 285</p>
+<p>271 - 285</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CCC3.</p>
+<p>IMPORTE TRABADO EN CCC3.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">286 - 305</p>
+<p>286 - 305</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 4 (CCC4).</p>
+<p>CÓDIGO DE CUENTA CLIENTE 4 (CCC4).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">306 - 307</p>
+<p>306 - 307</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA EN CCC4.</p>
+<p>CÓDIGO DE RESULTADO DE TRABA EN CCC4.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">308 - 322</p>
+<p>308 - 322</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CCC4.</p>
+<p>IMPORTE TRABADO EN CCC4.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">323 - 342</p>
+<p>323 - 342</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 5 (CCC5).</p>
+<p>CÓDIGO DE CUENTA CLIENTE 5 (CCC5).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">343 - 344</p>
+<p>343 - 344</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA EN CCC5.</p>
+<p>CÓDIGO DE RESULTADO DE TRABA EN CCC5.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">345 - 359</p>
+<p>345 - 359</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CCC5.</p>
+<p>IMPORTE TRABADO EN CCC5.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">360 - 379</p>
+<p>360 - 379</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE CUENTA CLIENTE 6 (CCC6).</p>
+<p>CÓDIGO DE CUENTA CLIENTE 6 (CCC6).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">380 - 381</p>
+<p>380 - 381</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA EN CCC6.</p>
+<p>CÓDIGO DE RESULTADO DE TRABA EN CCC6.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">382 - 396</p>
+<p>382 - 396</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NUM.</p>
+<p>NUM.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CCC6.</p>
+<p>IMPORTE TRABADO EN CCC6.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">397 - 400</p>
+<p>397 - 400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ALF.</p>
+<p>ALF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</p>
+<p>POSICIONES LIBRES DE CONTENIDO.</p>
 </td>
 </tr>
 </table>
@@ -1859,373 +1859,373 @@ Se incluye a continuación la descripción de cada campo del registro de tipo 9 
 
 5\. Relación de códigos de error en los resultados de la validación
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">ERRORES COMUNES A TODOS LOS TIPOS DE REGISTRO</p>
+<p>ERRORES COMUNES A TODOS LOS TIPOS DE REGISTRO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">601</p>
+<p>601</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Error de secuencia de registros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">602</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">DELEGACIÓN DE LA AGENCIA RECEPTORA DEL FICHERO distinta de 57.</p>
+<p>Error de secuencia de registros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">608</p>
+<p>602</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECHA DE COMIENZO DE CICLO incorrecta.</p>
+<p>DELEGACIÓN DE LA AGENCIA RECEPTORA DEL FICHERO distinta de 57.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>608</p>
+</td>
+<td>
+<p>FECHA DE COMIENZO DE CICLO incorrecta.</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">REGISTRO DE CABECERA DE ENTIDAD TRANSMISORA (TIPO 0)</p>
+<p>REGISTRO DE CABECERA DE ENTIDAD TRANSMISORA (TIPO 0)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">003</p>
+<p>003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA incorrecto.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE TRABAS errónea.</p>
+<p>CÓDIGO DE ENTIDAD TRANSMISORA incorrecto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">007</p>
+<p>006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">INDICADOR DE TIPO DE FICHERO distinto de ‘T’.</p>
+<p>FECHA DE CREACIÓN DEL FICHERO DE TRABAS errónea.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>007</p>
+</td>
+<td>
+<p>INDICADOR DE TIPO DE FICHERO distinto de ‘T’.</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">REGISTRO DE CABECERA DE ENTIDAD DE CRÉDITO (TIPO 1)</p>
+<p>REGISTRO DE CABECERA DE ENTIDAD DE CRÉDITO (TIPO 1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">103</p>
+<p>103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD DE CRÉDITO incorrecto.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">105</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NÚMERO DE ENVÍO inexistente.</p>
+<p>CÓDIGO DE ENTIDAD DE CRÉDITO incorrecto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">106</p>
+<p>105</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE TRABAS errónea.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">107</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">INDICADOR DE TIPO DE FICHERO distinto de ‘T’.</p>
+<p>NÚMERO DE ENVÍO inexistente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">110</p>
+<p>106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA no corresponde con la que comenzó el ciclo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">112</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de Entidad Transmisora.</p>
+<p>FECHA DE CREACIÓN DEL FICHERO DE TRABAS errónea.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">113</p>
+<p>107</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NÚMERO DE ENVÍO no numérico.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">114</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">INDICADOR DE MONEDA distinto de ‘E’.</p>
+<p>INDICADOR DE TIPO DE FICHERO distinto de ‘T’.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">115</p>
+<p>110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Envío para esta Entidad de crédito previamente aceptado en este ciclo</p>
+<p>CÓDIGO DE ENTIDAD TRANSMISORA no corresponde con la que comenzó el ciclo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>112</p>
+</td>
+<td>
+<p>CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de Entidad Transmisora.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>113</p>
+</td>
+<td>
+<p>NÚMERO DE ENVÍO no numérico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>114</p>
+</td>
+<td>
+<p>INDICADOR DE MONEDA distinto de ‘E’.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>115</p>
+</td>
+<td>
+<p>Envío para esta Entidad de crédito previamente aceptado en este ciclo</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">REGISTRO DE DETALLE (TIPO 2)</p>
+<p>REGISTRO DE DETALLE (TIPO 2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">202</p>
+<p>202</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NIF DEL DEUDOR no cumplimentado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">203</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NIF DEL DEUDOR incorrecto o distinto del incluido en la diligencia transmitida a la Entidad.</p>
+<p>NIF DEL DEUDOR no cumplimentado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">204</p>
+<p>203</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIA DE EMBARGO no cumplimentado o incorrecto.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">205</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIA DE EMBARGO inexistente en el fichero de diligencias transmitido a la Entidad.</p>
+<p>NIF DEL DEUDOR incorrecto o distinto del incluido en la diligencia transmitida a la Entidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">206</p>
+<p>204</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR distinto del que figuraba en la diligencia transmitida a la Entidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">207</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">FECHA DE GENERACIÓN DE LA DILIGENCIA incorrecta o distinta de la que figura en la diligencia transmitida a la Entidad.</p>
+<p>NÚMERO DE DILIGENCIA DE EMBARGO no cumplimentado o incorrecto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">208</p>
+<p>205</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO no numérico o superior al importe a embargar indicado en la diligencia transmitida a la Entidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">209</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO no coincide con la suma de los importes trabados en cada una de las cuentas incluidas en la diligencia.</p>
+<p>NÚMERO DE DILIGENCIA DE EMBARGO inexistente en el fichero de diligencias transmitido a la Entidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">210</p>
+<p>206</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO, igual a “1” cuando no se han cumplimentado las 6 cuentas posibles a aportar.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">211</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">FECHA DE TRABA O ACTUACIÓN no cumplimentada, incorrecta o menor que la fecha de generación de la diligencia.</p>
+<p>IMPORTE TOTAL A EMBARGAR distinto del que figuraba en la diligencia transmitida a la Entidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">212</p>
+<p>207</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECHA LÍMITE DE INGRESO DEL IMPORTE TRABADO incorrecta, menor que la fecha de traba, no cumplimentada (siendo distinto de cero el importe total trabado) o distinta de ceros (siendo cero el importe total trabado).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">213</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Error en CÓDIGO DE CUENTA CLIENTE (1-6): Se comprueba que se incluyen, sin alteraciones y en el mismo orden, las mismas cuentas que figuraban en el fichero de diligencias transmitido a la Entidad.</p>
-<p class="cuerpo_tabla_izq">Para las cuentas añadidas por la Entidad se comprueba que son correctas y corresponden con la misma Entidad de crédito y sucursal que figuraban en las cuentas originales. Las cuentas añadidas deben figurar a continuación de las cuentas que se incluían en el fichero de diligencias, sin dejar huecos entre ellas.</p>
+<p>FECHA DE GENERACIÓN DE LA DILIGENCIA incorrecta o distinta de la que figura en la diligencia transmitida a la Entidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">214</p>
+<p>208</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA (1-6) distinto de los valores admitidos (00 a 10).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">215</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">IMPORTE TRABADO EN CUENTA (1-6) no numérico o superior al IMPORTE TOTAL A EMBARGAR de la diligencia.</p>
+<p>IMPORTE TOTAL TRABADO no numérico o superior al importe a embargar indicado en la diligencia transmitida a la Entidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">216</p>
+<p>209</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA (1-6) incoherente con el IMPORTE TRABADO EN CUENTA (1-6). Este error se produce cuando:</p>
-<p class="cuerpo_tabla_izq">- El código de resultado (1-6) no es “01”, “04” o “07”, siendo mayor que 0 el importe trabado en la cuenta (1-6).</p>
-<p class="cuerpo_tabla_izq">- El código de resultado (1-6) es “01”, siendo nulo el importe trabado en la cuenta (1-6).</p>
+<p>IMPORTE TOTAL TRABADO no coincide con la suma de los importes trabados en cada una de las cuentas incluidas en la diligencia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">217</p>
+<p>210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Existen CÓDIGOS DE CUENTA CLIENTE duplicados.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">218</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR no numérico.</p>
+<p>INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO, igual a “1” cuando no se han cumplimentado las 6 cuentas posibles a aportar.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">219</p>
+<p>211</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO distinto de O ó 1.</p>
+<p>FECHA DE TRABA O ACTUACIÓN no cumplimentada, incorrecta o menor que la fecha de generación de la diligencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>212</p>
+</td>
+<td>
+<p>FECHA LÍMITE DE INGRESO DEL IMPORTE TRABADO incorrecta, menor que la fecha de traba, no cumplimentada (siendo distinto de cero el importe total trabado) o distinta de ceros (siendo cero el importe total trabado).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>213</p>
+</td>
+<td>
+<p>Error en CÓDIGO DE CUENTA CLIENTE (1-6): Se comprueba que se incluyen, sin alteraciones y en el mismo orden, las mismas cuentas que figuraban en el fichero de diligencias transmitido a la Entidad.</p>
+<p>Para las cuentas añadidas por la Entidad se comprueba que son correctas y corresponden con la misma Entidad de crédito y sucursal que figuraban en las cuentas originales. Las cuentas añadidas deben figurar a continuación de las cuentas que se incluían en el fichero de diligencias, sin dejar huecos entre ellas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>214</p>
+</td>
+<td>
+<p>CÓDIGO DE RESULTADO DE TRABA (1-6) distinto de los valores admitidos (00 a 10).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>215</p>
+</td>
+<td>
+<p>IMPORTE TRABADO EN CUENTA (1-6) no numérico o superior al IMPORTE TOTAL A EMBARGAR de la diligencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>216</p>
+</td>
+<td>
+<p>CÓDIGO DE RESULTADO DE TRABA (1-6) incoherente con el IMPORTE TRABADO EN CUENTA (1-6). Este error se produce cuando:</p>
+<p>- El código de resultado (1-6) no es “01”, “04” o “07”, siendo mayor que 0 el importe trabado en la cuenta (1-6).</p>
+<p>- El código de resultado (1-6) es “01”, siendo nulo el importe trabado en la cuenta (1-6).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>217</p>
+</td>
+<td>
+<p>Existen CÓDIGOS DE CUENTA CLIENTE duplicados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>218</p>
+</td>
+<td>
+<p>IMPORTE TOTAL A EMBARGAR no numérico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>219</p>
+</td>
+<td>
+<p>INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO distinto de O ó 1.</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">REGISTRO DE FIN DE ENTIDAD DE CRÉDITO (TIPO 3)</p>
+<p>REGISTRO DE FIN DE ENTIDAD DE CRÉDITO (TIPO 3)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">303</p>
+<p>303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD DE CRÉDITO distinto del que figura en el registro de cabecera de Entidad de crédito.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">304</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD DE CRÉDITO distinto al contenido en el fichero de diligencias transmitido a la Entidad o distinto del número de registros de detalle contenidos en el fichero de trabas devuelto por ésta.</p>
+<p>CÓDIGO DE ENTIDAD DE CRÉDITO distinto del que figura en el registro de cabecera de Entidad de crédito.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">305</p>
+<p>304</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR DE LAS DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD DE CRÉDITO distinto al contenido en el fichero de diligencias transmitido a la Entidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">306</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO POR LA ENTIDAD DE CRÉDITO descuadrado con importe total acumulado de los registros de detalle.</p>
+<p>NÚMERO DE DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD DE CRÉDITO distinto al contenido en el fichero de diligencias transmitido a la Entidad o distinto del número de registros de detalle contenidos en el fichero de trabas devuelto por ésta.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">308</p>
+<p>305</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA distinto del que figura en el registro de cabecera de Entidad de crédito.</p>
+<p>IMPORTE TOTAL A EMBARGAR DE LAS DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD DE CRÉDITO distinto al contenido en el fichero de diligencias transmitido a la Entidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>306</p>
+</td>
+<td>
+<p>IMPORTE TOTAL TRABADO POR LA ENTIDAD DE CRÉDITO descuadrado con importe total acumulado de los registros de detalle.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>308</p>
+</td>
+<td>
+<p>CÓDIGO DE ENTIDAD TRANSMISORA distinto del que figura en el registro de cabecera de Entidad de crédito.</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">REGISTRO DE FIN DE ENTIDAD TRANSMISORA (TIPO 8)</p>
+<p>REGISTRO DE FIN DE ENTIDAD TRANSMISORA (TIPO 8)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">804</p>
+<p>804</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de Entidad Transmisora.</p>
+<p>CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de Entidad Transmisora.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">805</p>
+<p>805</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE TRABAS distinta de la del registro de cabecera de Entidad Transmisora.</p>
+<p>FECHA DE CREACIÓN DEL FICHERO DE TRABAS distinta de la del registro de cabecera de Entidad Transmisora.</p>
 </td>
 </tr>
 </table>

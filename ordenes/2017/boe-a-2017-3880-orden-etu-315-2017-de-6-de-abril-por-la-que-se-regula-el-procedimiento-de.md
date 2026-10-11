@@ -374,335 +374,322 @@ Madrid, 6 de abril de 2017.–El Ministro de Energía, Turismo y Agenda Digital,
 
 1.1 Parámetros retributivos de las instalaciones tipo de referencia con autorización de explotación definitiva en los años 2017, 2018, 2019 que serán de aplicación en el semiperiodo regulatorio que se inicia el 1 de enero de 2017.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-<col class="row_column_5">
-<col class="row_column_6">
-<col class="row_column_3">
-<col class="row_column_5">
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cabeza_tabla">Tecnologías</p>
+<p>Tecnologías</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de identificación de la instalación tipo de referencia</p>
+<p>Código de identificación de la instalación tipo de referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la Inversión Inicial (€/MW)</p>
+<p>Valor estándar de la Inversión Inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de explotación primer año (€/MWh)</p>
+<p>Costes de explotación primer año (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º horas equivalentes de funcionamiento mínimo anual (Nhmín) (h)</p>
+<p>N.º horas equivalentes de funcionamiento mínimo anual (Nhmín) (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento anual (Uf) (h)</p>
+<p>Umbral de funcionamiento anual (Uf) (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Inversión 2017-2019 (€/MW) Rinv<sub>ITR_j,a</sub></p>
+<p>Retribución a la Inversión 2017-2019 (€/MW) Rinv<sub>ITR_j,a</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">Sobrecoste unitario máximo de la instalación tipo de referencia<sup>1</sup></p>
+<p>Sobrecoste unitario máximo de la instalación tipo de referencia<sup>1</sup></p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_11">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Eólica</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">ITR-0103</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20,52</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">47.684</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,89</p>
-</td>
-</tr>
-<tr class="row_column_12">
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20,57</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">46.578</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,53</p>
-</td>
-</tr>
-<tr class="row_column_12">
-<td>
-<p class="cuerpo_tabla_centro">2019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20,72</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-</tr>
-<tr class="row_column_12">
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Fotovoltaica</p>
+<p>Eólica</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">ITR-0104</p>
+<p>ITR-0103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>1.200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.367</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21,46</p>
+<p>20,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.367</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39.646</p>
+<p>47.684</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16,75</p>
+<p>15,89</p>
 </td>
 </tr>
-<tr class="row_column_12">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2018</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
+<p>1.200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.367</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21,49</p>
+<p>20,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.367</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38.480</p>
+<p>46.578</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16,26</p>
-</td>
-</tr>
-<tr class="row_column_12">
-<td>
-<p class="cuerpo_tabla_centro">2019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.367</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.367</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36.908</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,59</p>
+<p>15,53</p>
 </td>
 </tr>
-<tr class="row_column_12">
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1.200.000</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>20,72</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>45.056</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Resto de tecnologías distintas de eólica y fotovoltaica</p>
+<p>Fotovoltaica</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">ITR-0105</p>
+<p>ITR-0104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.000.000</p>
+<p>1.200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.000</p>
+<p>2.367</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39,55</p>
+<p>21,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.000</p>
+<p>2.367</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">148.875</p>
+<p>39.646</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29,78</p>
-</td>
-</tr>
-<tr class="row_column_12">
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.000.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">39,79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">147.655</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29,53</p>
+<p>16,75</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.000.000</p>
+<p>1.200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.000</p>
+<p>2.367</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40,12</p>
+<p>21,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.000</p>
+<p>2.367</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">145.636</p>
+<p>38.480</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29,13</p>
+<p>16,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1.200.000</p>
+</td>
+<td>
+<p>2.367</p>
+</td>
+<td>
+<p>21,63</p>
+</td>
+<td>
+<p>2.367</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>36.908</p>
+</td>
+<td>
+<p>15,59</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Resto de tecnologías distintas de eólica y fotovoltaica</p>
+</td>
+<td rowspan="3">
+<p>ITR-0105</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>2.000.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>39,55</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>148.875</p>
+</td>
+<td>
+<p>29,78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2018</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>2.000.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>39,79</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>147.655</p>
+</td>
+<td>
+<p>29,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>2.000.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>40,12</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>145.636</p>
+</td>
+<td>
+<p>29,13</p>
 </td>
 </tr>
 </tbody>
@@ -776,163 +763,155 @@ Exclusivamente a los efectos de la aplicación de la metodología del proceso de
 
 3.1 Coeficientes m<sub>IT_j,a</sub> de las instalaciones tipo con autorización de explotación definitiva en los años 2017, 2018 y 2019.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_18">
-<col class="row_column_19">
-<col class="row_column_20">
-<col class="row_column_21">
-<col class="row_column_22">
-<col class="row_column_23">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de identificación de la instalación tipo de referencia</p>
+<p>Código de identificación de la instalación tipo de referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo/subgrupo (art. 2 Real Decreto 413/2014)</p>
+<p>Grupo/subgrupo (art. 2 Real Decreto 413/2014)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva «a»</p>
+<p>Año de autorización de explotación definitiva «a»</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de identificación de la instalación tipo de la subasta convocada por el Real Decreto 359/2017, de 31 de marzo.</p>
+<p>Código de identificación de la instalación tipo de la subasta convocada por el Real Decreto 359/2017, de 31 de marzo.</p>
 </td>
 <td>
-<p class="cabeza_tabla">m<sub>ITR_j,a</sub></p>
+<p>m<sub>ITR_j,a</sub></p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Eólica</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0103</p>
+<p>Eólica</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>ITR-0103</p>
+</td>
+<td rowspan="3">
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04013</p>
+<p>IT-04013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2018</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04014</p>
+<p>IT-04014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04015</p>
+<p>IT-04015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Fotovoltaica</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0104</p>
+<p>Fotovoltaica</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115.786</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115.786</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">2019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115.786</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Resto de tecnologías distintas de eólica y fotovoltaica</p>
+<p>ITR-0104</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0105</p>
+<p>b.1.1</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>IT-04016</p>
+</td>
+<td>
+<p>115.786</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2018</p>
+</td>
+<td>
+<p>IT-04017</p>
+</td>
+<td>
+<p>115.786</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>IT-04018</p>
+</td>
+<td>
+<p>115.786</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Resto de tecnologías distintas de eólica y fotovoltaica</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.1.2, b.3, b.4.1, b.4.2, b.5.1, b.5.2, b.6,</p>
-<p class="cuerpo_tabla_centro">b.7.1, b.7.2, b.8.</p>
+<p>ITR-0105</p>
+</td>
+<td rowspan="3">
+<p>b.1.2, b.3, b.4.1, b.4.2, b.5.1, b.5.2, b.6,</p>
+<p>b.7.1, b.7.2, b.8.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04019</p>
+<p>IT-04019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">192.977</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04020</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">192.977</p>
+<p>192.977</p>
 </td>
 </tr>
-<tr class="row_column_24">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04021</p>
+<p>IT-04020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">192.977</p>
+<p>192.977</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>IT-04021</p>
+</td>
+<td>
+<p>192.977</p>
 </td>
 </tr>
 </tbody>
@@ -942,110 +921,110 @@ Los parámetros retributivos de la instalación tipo se calcularán a partir de 
 
 3.2. Coeficientes m<sub>IT</sub>_<sub>j,a</sub> de las instalaciones tipo con autorización de explotación definitiva en los años 2017, 2018 y 2019 y códigos de las instalaciones tipo correspondientes al cupo de potencia establecido en el Real Decreto 650/2017, de 16 de junio, por el que se establece un cupo de 3.000 MW de potencia instalada, de nuevas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables en el sistema eléctrico peninsular, al que se podrá otorgar el régimen retributivo específico.
 
-<table class="ning_n_estilo_de_tabla" summary="Tabla de formato">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo / Subgrupo (Art. 2 Real Decreto 413/2014)</p>
+<p>Grupo / Subgrupo (Art. 2 Real Decreto 413/2014)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva «a»</p>
+<p>Año de Autorización de Explotación Definitiva «a»</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo convocada por el Real Decreto 650/2017, de 16 de junio.</p>
+<p>Código de Identificación de la Instalación Tipo convocada por el Real Decreto 650/2017, de 16 de junio.</p>
 </th>
 <th>
-<p class="cabeza_tabla">m<sub>ITR_j,a</sub></p>
+<p>m<sub>ITR_j,a</sub></p>
 </th>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Eólica.</p>
+<p>Eólica.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0103</p>
+<p>ITR-0103</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04022</p>
+<p>IT-04022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2018</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04023</p>
+<p>IT-04023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04024</p>
+<p>IT-04024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Fotovoltaica.</p>
+<p>Fotovoltaica.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0104</p>
+<p>ITR-0104</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04025</p>
+<p>IT-04025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2018</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04026</p>
+<p>IT-04026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04027</p>
+<p>IT-04027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
 </tbody>

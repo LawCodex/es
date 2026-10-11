@@ -609,55 +609,49 @@ El cálculo de los peajes se efectuará basándose en los porcentajes reales y p
 
 En el cuadro siguiente figura un conjunto de factores de equivalencia indicativos.
 
-<table class="tabla">
-<colgroup>
-<col width="46%">
-<col width="18%">
-<col width="18%">
-<col width="18%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de vehículo<sup> (1)</sup></th>
-<th class="cabeza_tabla" colspan="3">Factores de equivalencia</th>
+<th rowspan="2">Clase de vehículo<sup> (1)</sup></th>
+<th colspan="3">Factores de equivalencia</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Reparaciones estructurales<sup>(2)</sup></th>
-<th class="cabeza_tabla">Inversiones</th>
-<th class="cabeza_tabla">Mantenimiento anual</th>
+<th>Reparaciones estructurales<sup>(2)</sup></th>
+<th>Inversiones</th>
+<th>Mantenimiento anual</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comprendidos entre 3,5 t y 7,5 t, clase 0.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Comprendidos entre 3,5 t y 7,5 t, clase 0.</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 7,5 t, clase I.</td>
-<td class="cuerpo_tabla_coma">1,96</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>&gt; 7,5 t, clase I.</td>
+<td>1,96</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 7,5 t, clase II.</td>
-<td class="cuerpo_tabla_coma">3,47</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>&gt; 7,5 t, clase II.</td>
+<td>3,47</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">&gt; 7,5 t, clase III.</td>
-<td class="cuerpo_tabla_coma">5,72</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>&gt; 7,5 t, clase III.</td>
+<td>5,72</td>
+<td>1</td>
+<td>1</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Para la determinación de la clase de vehículo, véase el anexo III.</p>
-<p class="cita"><sup>(2)</sup> Las clases de vehículos corresponden a cargas por eje de 5,5; 6,5; 7,5 y 8,5 toneladas, respectivamente.</p>
+<p><sup>(1)</sup> Para la determinación de la clase de vehículo, véase el anexo III.</p>
+<p><sup>(2)</sup> Las clases de vehículos corresponden a cargas por eje de 5,5; 6,5; 7,5 y 8,5 toneladas, respectivamente.</p>
 </td>
 </tr>
 </tfoot>
@@ -673,55 +667,48 @@ En el cuadro siguiente figura un conjunto de factores de equivalencia indicativo
 
 2\. Vehículos «EURO I»/«EURO II»
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de monóxido de carbono (CO)</p>
-<p class="cabeza_tabla">g/kWg</p>
+<th> </th>
+<th>
+<p>Masa de monóxido de carbono (CO)</p>
+<p>g/kWg</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de hidrocarburos (HC)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th>
+<p>Masa de hidrocarburos (HC)</p>
+<p>g/kWh</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de óxidos de nitrógeno (NOx)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th>
+<p>Masa de óxidos de nitrógeno (NOx)</p>
+<p>g/kWh</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de partículas (MP)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th>
+<p>Masa de partículas (MP)</p>
+<p>g/kWh</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo EURO I.</td>
-<td class="cuerpo_tabla_coma">4,9</td>
-<td class="cuerpo_tabla_coma">1,23</td>
-<td class="cuerpo_tabla_coma">9,0</td>
-<td class="cuerpo_tabla_coma">0,4<sup>(1)</sup></td>
+<td>Vehículo EURO I.</td>
+<td>4,9</td>
+<td>1,23</td>
+<td>9,0</td>
+<td>0,4<sup>(1)</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo EURO II.</td>
-<td class="cuerpo_tabla_coma">4,0</td>
-<td class="cuerpo_tabla_coma">1,1</td>
-<td class="cuerpo_tabla_coma">7,0</td>
-<td class="cuerpo_tabla_coma">0,15</td>
+<td>Vehículo EURO II.</td>
+<td>4,0</td>
+<td>1,1</td>
+<td>7,0</td>
+<td>0,15</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(1)</sup> En el caso de los motores de potencia inferior o igual a 85kW se aplicará un coeficiente de 1,7 al valor límite de las emisiones de partículas.</p>
+<p><sup>(1)</sup> En el caso de los motores de potencia inferior o igual a 85kW se aplicará un coeficiente de 1,7 al valor límite de las emisiones de partículas.</p>
 </td>
 </tr>
 </tfoot>
@@ -731,77 +718,69 @@ En el cuadro siguiente figura un conjunto de factores de equivalencia indicativo
 
 Las masas específicas de monóxido de carbono, hidrocarburos totales, óxidos de nitrógeno y partículas, determinadas mediante el ensayo ESC, y la opacidad de los humos, determinada mediante el ensayo ERL, no deberán superar los valores siguientes<sup>(1)</sup>.
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de monóxido de carbono (CO)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th> </th>
+<th>
+<p>Masa de monóxido de carbono (CO)</p>
+<p>g/kWh</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de hidrocarburos (HC)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th>
+<p>Masa de hidrocarburos (HC)</p>
+<p>g/kWh</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de óxidos</p>
-<p class="cabeza_tabla">de nitrógeno (NOx)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th>
+<p>Masa de óxidos</p>
+<p>de nitrógeno (NOx)</p>
+<p>g/kWh</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de partículas (MP)</p>
-<p class="cabeza_tabla">g/kWh</p>
+<th>
+<p>Masa de partículas (MP)</p>
+<p>g/kWh</p>
 </th>
-<th class="cabeza_tabla">Humos m-1</th>
+<th>Humos m-1</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo EURO III.</td>
-<td class="cuerpo_tabla_centro">2,1</td>
-<td class="cuerpo_tabla_centro">0,66</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">0,10<sup>(2)</sup></td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Vehículo EURO III.</td>
+<td>2,1</td>
+<td>0,66</td>
+<td>5</td>
+<td>0,10<sup>(2)</sup></td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo EURO IV.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">0,46</td>
-<td class="cuerpo_tabla_coma">3,5</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma">0,5</td>
+<td>Vehículo EURO IV.</td>
+<td>1,5</td>
+<td>0,46</td>
+<td>3,5</td>
+<td>0,02</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo EURO V.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">0,46</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma">0,5</td>
+<td>Vehículo EURO V.</td>
+<td>1,5</td>
+<td>0,46</td>
+<td>2</td>
+<td>0,02</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo VEM.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma">0,15</td>
+<td>Vehículo VEM.</td>
+<td>1,5</td>
+<td>0,25</td>
+<td>2</td>
+<td>0,02</td>
+<td>0,15</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita"><sup>(1)</sup> Un ciclo de ensayo se compone de una secuencia de puntos de ensayo en la que cada punto se define por una velocidad y un par que el motor debe respetar en modos estabilizados (ensayo ESC) o en condiciones de funcionamiento transitorias (ensayos ETC y ELR).</p>
-<p class="cita"><sup>(2)</sup> 0,13 para los motores cuya cilindrada unitaria sea inferior a 0,7 dm<sup>3</sup> y cuyo origen normal sea superior a 3.000 min<sup>-1</sup>.</p>
+<p><sup>(1)</sup> Un ciclo de ensayo se compone de una secuencia de puntos de ensayo en la que cada punto se define por una velocidad y un par que el motor debe respetar en modos estabilizados (ensayo ESC) o en condiciones de funcionamiento transitorias (ensayos ETC y ELR).</p>
+<p><sup>(2)</sup> 0,13 para los motores cuya cilindrada unitaria sea inferior a 0,7 dm<sup>3</sup> y cuyo origen normal sea superior a 3.000 min<sup>-1</sup>.</p>
 </td>
 </tr>
 </tfoot>
@@ -809,100 +788,89 @@ Las masas específicas de monóxido de carbono, hidrocarburos totales, óxidos d
 
 Límites de Emisiones EURO VI
 
-<table class="tabla">
-<colgroup>
-<col width="10%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="9%">
-<col width="11%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="8">Valores límite</th>
+<th rowspan="2"> </th>
+<th colspan="8">Valores límite</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">CO</p>
-<p class="cabeza_tabla">(mg/kWh)</p>
+<th>
+<p>CO</p>
+<p>(mg/kWh)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">HCT</p>
-<p class="cabeza_tabla">(mg/kWh)</p>
+<th>
+<p>HCT</p>
+<p>(mg/kWh)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">HCNM</p>
-<p class="cabeza_tabla">(mg/kWh)</p>
+<th>
+<p>HCNM</p>
+<p>(mg/kWh)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">CH4</p>
-<p class="cabeza_tabla">(mg/kWh)</p>
+<th>
+<p>CH4</p>
+<p>(mg/kWh)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">NOX<sup>(1)</sup></p>
-<p class="cabeza_tabla">(mg/kWh)</p>
+<th>
+<p>NOX<sup>(1)</sup></p>
+<p>(mg/kWh)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">NH3</p>
-<p class="cabeza_tabla">(ppm)</p>
+<th>
+<p>NH3</p>
+<p>(ppm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Masa de PM</p>
-<p class="cabeza_tabla">(mg/kWh)</p>
+<th>
+<p>Masa de PM</p>
+<p>(mg/kWh)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Número de partículas</p>
-<p class="cabeza_tabla">(#/kWh)</p>
+<th>
+<p>Número de partículas</p>
+<p>(#/kWh)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">WHSC (CI).</td>
-<td class="cuerpo_tabla_centro">1 500</td>
-<td class="cuerpo_tabla_centro">130</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">8,0 x 10<sup>11</sup></td>
+<td>WHSC (CI).</td>
+<td>1 500</td>
+<td>130</td>
+<td> </td>
+<td> </td>
+<td>400</td>
+<td>10</td>
+<td>10</td>
+<td>8,0 x 10<sup>11</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">WHSC (CI).</td>
-<td class="cuerpo_tabla_centro">4 000</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">460</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">6,0 x 10<sup>11</sup></td>
+<td>WHSC (CI).</td>
+<td>4 000</td>
+<td>160</td>
+<td> </td>
+<td> </td>
+<td>460</td>
+<td>10</td>
+<td>10</td>
+<td>6,0 x 10<sup>11</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">WHTC (PI).</td>
-<td class="cuerpo_tabla_centro">4 000</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">460</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">6,0 x 10<sup>11</sup></td>
+<td>WHTC (PI).</td>
+<td>4 000</td>
+<td> </td>
+<td>160</td>
+<td>500</td>
+<td>460</td>
+<td>10</td>
+<td>10</td>
+<td>6,0 x 10<sup>11</sup></td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="9">
-<p class="cita">Nota:</p>
-<p class="cita">PI = Encendido por chispa.</p>
-<p class="cita">CI = Encendido por compresión.</p>
-<p class="cita"><sup>(1)</sup> El nivel admisible del componente NO<sub>2</sub> en el valor límite de los NO<sub>x</sub> podrá definirse posteriormente.</p>
+<p>Nota:</p>
+<p>PI = Encendido por chispa.</p>
+<p>CI = Encendido por compresión.</p>
+<p><sup>(1)</sup> El nivel admisible del componente NO<sub>2</sub> en el valor límite de los NO<sub>x</sub> podrá definirse posteriormente.</p>
 </td>
 </tr>
 </tfoot>
@@ -916,173 +884,166 @@ Todos los vehículos a motor y conjuntos de vehículos de masa máxima autorizad
 
 Vehículos a motor
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Ejes motores con suspensión neumática o suspensión reconocida como equivalente<sup>(1)</sup></th>
-<th class="cabeza_tabla" colspan="2">Otros sistemas de suspensión de los ejes motores</th>
-<th class="cabeza_tabla" rowspan="3"> Clases de daños</th>
+<th colspan="2">Ejes motores con suspensión neumática o suspensión reconocida como equivalente<sup>(1)</sup></th>
+<th colspan="2">Otros sistemas de suspensión de los ejes motores</th>
+<th rowspan="3"> Clases de daños</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Número de ejes y masa máxima autorizada</p>
-<p class="cabeza_tabla">(en toneladas)</p>
+<th colspan="2">
+<p>Número de ejes y masa máxima autorizada</p>
+<p>(en toneladas)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Número de ejes y masa máxima autorizada</p>
-<p class="cabeza_tabla">(en toneladas)</p>
+<th colspan="2">
+<p>Número de ejes y masa máxima autorizada</p>
+<p>(en toneladas)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Igual o superior a</th>
-<th class="cabeza_tabla">Inferior a</th>
-<th class="cabeza_tabla">Igual o superior a</th>
-<th class="cabeza_tabla">Inferior a</th>
+<th>Igual o superior a</th>
+<th>Inferior a</th>
+<th>Igual o superior a</th>
+<th>Inferior a</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">Dos ejes</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="4">Dos ejes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_centro" rowspan="5">I</td>
+<td>7,5</td>
+<td>12</td>
+<td>7,5</td>
+<td>12</td>
+<td rowspan="5">I</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_coma">13</td>
+<td>12</td>
+<td>13</td>
+<td>12</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">14</td>
+<td>13</td>
+<td>14</td>
+<td>13</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>14</td>
+<td>15</td>
+<td>14</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">18</td>
+<td>15</td>
+<td>18</td>
+<td>15</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">Tres ejes</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="4">Tres ejes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_centro" rowspan="6"> </td>
+<td>15</td>
+<td>17</td>
+<td>15</td>
+<td>17</td>
+<td rowspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">19</td>
+<td>17</td>
+<td>19</td>
+<td>17</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_coma">21</td>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_coma">21</td>
+<td>19</td>
+<td>21</td>
+<td>19</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">21</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">21</td>
-<td class="cuerpo_tabla_coma">23</td>
+<td>21</td>
+<td>23</td>
+<td>21</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
+<td>23</td>
+<td>25</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_coma">26</td>
+<td>25</td>
+<td>26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_centro" rowspan="2">II</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td>23</td>
+<td>25</td>
+<td rowspan="2">II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_coma">26</td>
+<td>25</td>
+<td>26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">Cuatro ejes</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="4">Cuatro ejes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_centro" rowspan="3">I</td>
+<td>23</td>
+<td>25</td>
+<td>23</td>
+<td>25</td>
+<td rowspan="3">I</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_coma">27</td>
+<td>25</td>
+<td>27</td>
+<td>25</td>
+<td>27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>27</td>
+<td>29</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma" rowspan="3"> </td>
-<td class="cuerpo_tabla_coma" rowspan="3"> </td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_centro" rowspan="3">II</td>
+<td rowspan="3"> </td>
+<td rowspan="3"> </td>
+<td>27</td>
+<td>29</td>
+<td rowspan="3">II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_coma">31</td>
+<td>29</td>
+<td>31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">31</td>
-<td class="cuerpo_tabla_coma">32</td>
+<td>31</td>
+<td>32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_coma">31</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td>29</td>
+<td>31</td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">31</td>
-<td class="cuerpo_tabla_coma">32</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>31</td>
+<td>32</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
@@ -1094,305 +1055,298 @@ Vehículos a motor
 
 Conjunto de vehículos (vehículos articulados y trenes de carretera)
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Ejes motores con suspensión neumática o suspensión reconocida como equivalente</th>
-<th class="cabeza_tabla" colspan="2">Otros sistemas de suspensión de los ejes motores</th>
-<th class="cabeza_tabla" rowspan="3">Clase de daños</th>
+<th colspan="2">Ejes motores con suspensión neumática o suspensión reconocida como equivalente</th>
+<th colspan="2">Otros sistemas de suspensión de los ejes motores</th>
+<th rowspan="3">Clase de daños</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Número de ejes y masa máxima en carga técnicamente admisible</p>
-<p class="cabeza_tabla">(en toneladas)</p>
+<th colspan="2">
+<p>Número de ejes y masa máxima en carga técnicamente admisible</p>
+<p>(en toneladas)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Número de ejes y masa máxima en carga técnicamente admisible</p>
-<p class="cabeza_tabla">(en toneladas)</p>
+<th colspan="2">
+<p>Número de ejes y masa máxima en carga técnicamente admisible</p>
+<p>(en toneladas)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Igual o superior a</th>
-<th class="cabeza_tabla">Inferior a</th>
-<th class="cabeza_tabla">Igual o superior a</th>
-<th class="cabeza_tabla">Inferior a</th>
+<th>Igual o superior a</th>
+<th>Inferior a</th>
+<th>Igual o superior a</th>
+<th>Inferior a</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">2 + 1 ejes</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td colspan="4">2 + 1 ejes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7,5</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">7,5</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">I</td>
+<td>7,5</td>
+<td>12</td>
+<td>7,5</td>
+<td>12</td>
+<td>I</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>12</td>
+<td>14</td>
+<td>12</td>
+<td>14</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>14</td>
+<td>16</td>
+<td>14</td>
+<td>16</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>16</td>
+<td>18</td>
+<td>16</td>
+<td>18</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>18</td>
+<td>20</td>
+<td>18</td>
+<td>20</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>20</td>
+<td>22</td>
+<td>20</td>
+<td>22</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>22</td>
+<td>23</td>
+<td>22</td>
+<td>23</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>23</td>
+<td>25</td>
+<td>23</td>
+<td>25</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>25</td>
+<td>28</td>
+<td>25</td>
+<td>28</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">2 + 2 ejes</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td colspan="4">2 + 2 ejes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>23</td>
+<td>25</td>
+<td>23</td>
+<td>25</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>25</td>
+<td>26</td>
+<td>25</td>
+<td>26</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>26</td>
+<td>28</td>
+<td>26</td>
+<td>28</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>28</td>
+<td>29</td>
+<td>28</td>
+<td>29</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_coma">II</td>
+<td>29</td>
+<td>31</td>
+<td>29</td>
+<td>31</td>
+<td>II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>31</td>
+<td>33</td>
+<td>31</td>
+<td>33</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">III</td>
+<td>33</td>
+<td>36</td>
+<td>33</td>
+<td>36</td>
+<td>III</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>36</td>
+<td>38</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">2 + 3 ejes</td>
-<td class="cuerpo_tabla_coma">II</td>
+<td colspan="4">2 + 3 ejes</td>
+<td>II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>36</td>
+<td>38</td>
+<td>36</td>
+<td>38</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>38</td>
+<td>40</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_coma">III</td>
+<td> </td>
+<td> </td>
+<td>38</td>
+<td>40</td>
+<td>III</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">2 + 4 ejes</td>
-<td class="cuerpo_tabla_coma">II</td>
+<td colspan="4">2 + 4 ejes</td>
+<td>II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">36</p>
-<p class="cuerpo_tabla_centro">38</p>
+<td>
+<p>36</p>
+<p>38</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">38</p>
-<p class="cuerpo_tabla_centro">40</p>
+<td>
+<p>38</p>
+<p>40</p>
 </td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>36</td>
+<td>38</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_coma">III</td>
+<td> </td>
+<td> </td>
+<td>38</td>
+<td>40</td>
+<td>III</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">3 + 1 ejes</td>
-<td class="cuerpo_tabla_coma">II</td>
+<td colspan="4">3 + 1 ejes</td>
+<td>II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">30</p>
-<p class="cuerpo_tabla_centro">32</p>
+<td>
+<p>30</p>
+<p>32</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">32</p>
-<p class="cuerpo_tabla_centro">35</p>
+<td>
+<p>32</p>
+<p>35</p>
 </td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>30</td>
+<td>32</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_coma">III</td>
+<td> </td>
+<td> </td>
+<td>32</td>
+<td>35</td>
+<td>III</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">3 + 2 ejes</td>
-<td class="cuerpo_tabla_coma">II</td>
+<td colspan="4">3 + 2 ejes</td>
+<td>II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">36</p>
-<p class="cuerpo_tabla_centro">38</p>
+<td>
+<p>36</p>
+<p>38</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">38</p>
-<p class="cuerpo_tabla_centro">40</p>
+<td>
+<p>38</p>
+<p>40</p>
 </td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>36</td>
+<td>38</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">38</p>
-<p class="cuerpo_tabla_centro">40</p>
+<td> </td>
+<td> </td>
+<td>
+<p>38</p>
+<p>40</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">40</p>
-<p class="cuerpo_tabla_centro">44</p>
+<td>
+<p>40</p>
+<p>44</p>
 </td>
-<td class="cuerpo_tabla_coma">III</td>
+<td>III</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>40</td>
+<td>44</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">3 + 3 ejes</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td colspan="4">3 + 3 ejes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">36</p>
-<p class="cuerpo_tabla_centro">38</p>
+<td>
+<p>36</p>
+<p>38</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">38</p>
-<p class="cuerpo_tabla_centro">40</p>
+<td>
+<p>38</p>
+<p>40</p>
 </td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_coma">I</td>
+<td>36</td>
+<td>38</td>
+<td>I</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_coma">II</td>
+<td> </td>
+<td> </td>
+<td>38</td>
+<td>40</td>
+<td>II</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>40</td>
+<td>44</td>
+<td>40</td>
+<td>44</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1487,197 +1441,191 @@ Cuadro 1
 
 Valores de referencia de la tarifa de peaje por costes externos para vehículos pesados de transporte de mercancías
 
-<table class="tabla">
-<colgroup>
-<col width="32%">
-<col width="32%">
-<col width="18%">
-<col width="18%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase del vehículo</th>
-<th class="cabeza_tabla">Céntimo/vehículo-kilómetro</th>
-<th class="cabeza_tabla">Zonas suburbanas <sup>(1)</sup></th>
-<th class="cabeza_tabla">Zonas interurbanas <sup>(2)</sup></th>
+<th>Clase del vehículo</th>
+<th>Céntimo/vehículo-kilómetro</th>
+<th>Zonas suburbanas <sup>(1)</sup></th>
+<th>Zonas interurbanas <sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible inferior a 12 toneladas o de dos ejes.</td>
-<td class="cuerpo_tabla_izq">EURO 0.</td>
-<td class="cuerpo_tabla_coma">18,6</td>
-<td class="cuerpo_tabla_coma">9,9</td>
+<td rowspan="8">Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible inferior a 12 toneladas o de dos ejes.</td>
+<td>EURO 0.</td>
+<td>18,6</td>
+<td>9,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO I.</td>
-<td class="cuerpo_tabla_coma">12,6</td>
-<td class="cuerpo_tabla_coma">6,4</td>
+<td>EURO I.</td>
+<td>12,6</td>
+<td>6,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO II.</td>
-<td class="cuerpo_tabla_coma">12,5</td>
-<td class="cuerpo_tabla_coma">6,3</td>
+<td>EURO II.</td>
+<td>12,5</td>
+<td>6,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO III.</td>
-<td class="cuerpo_tabla_coma">9,6</td>
-<td class="cuerpo_tabla_coma">4,8</td>
+<td>EURO III.</td>
+<td>9,6</td>
+<td>4,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO IV.</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_coma">3,4</td>
+<td>EURO IV.</td>
+<td>7,3</td>
+<td>3,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO V.</td>
-<td class="cuerpo_tabla_coma">4,4</td>
-<td class="cuerpo_tabla_coma">1,8</td>
+<td>EURO V.</td>
+<td>4,4</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO VI.</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">0,5</td>
+<td>EURO VI.</td>
+<td>2,3</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">0,3</td>
+<td>Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
+<td>2,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible de entre 12 y 18 toneladas o de tres ejes.</td>
-<td class="cuerpo_tabla_izq">EURO 0.</td>
-<td class="cuerpo_tabla_coma">24,6</td>
-<td class="cuerpo_tabla_coma">13,7</td>
+<td rowspan="8">Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible de entre 12 y 18 toneladas o de tres ejes.</td>
+<td>EURO 0.</td>
+<td>24,6</td>
+<td>13,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO I.</td>
-<td class="cuerpo_tabla_coma">15,8</td>
-<td class="cuerpo_tabla_coma">8,4</td>
+<td>EURO I.</td>
+<td>15,8</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO II.</td>
-<td class="cuerpo_tabla_coma">15,8</td>
-<td class="cuerpo_tabla_coma">8,4</td>
+<td>EURO II.</td>
+<td>15,8</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO III.</td>
-<td class="cuerpo_tabla_coma">12,5</td>
-<td class="cuerpo_tabla_coma">6,6</td>
+<td>EURO III.</td>
+<td>12,5</td>
+<td>6,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO IV.</td>
-<td class="cuerpo_tabla_coma">9,2</td>
-<td class="cuerpo_tabla_coma">4,5</td>
+<td>EURO IV.</td>
+<td>9,2</td>
+<td>4,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO V.</td>
-<td class="cuerpo_tabla_coma">5,6</td>
-<td class="cuerpo_tabla_coma">2,7</td>
+<td>EURO V.</td>
+<td>5,6</td>
+<td>2,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO VI.</td>
-<td class="cuerpo_tabla_coma">2,8</td>
-<td class="cuerpo_tabla_coma">0,7</td>
+<td>EURO VI.</td>
+<td>2,8</td>
+<td>0,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">0,3</td>
+<td>Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
+<td>2,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible de entre 18 y 32 toneladas o de cuatro ejes.</p>
+<td rowspan="8">
+<p>Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible de entre 18 y 32 toneladas o de cuatro ejes.</p>
 </td>
-<td class="cuerpo_tabla_izq">EURO 0.</td>
-<td class="cuerpo_tabla_coma">27,8</td>
-<td class="cuerpo_tabla_coma">15,8</td>
+<td>EURO 0.</td>
+<td>27,8</td>
+<td>15,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO I.</td>
-<td class="cuerpo_tabla_coma">20,4</td>
-<td class="cuerpo_tabla_coma">11,3</td>
+<td>EURO I.</td>
+<td>20,4</td>
+<td>11,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO II.</td>
-<td class="cuerpo_tabla_coma">20,4</td>
-<td class="cuerpo_tabla_coma">11,2</td>
+<td>EURO II.</td>
+<td>20,4</td>
+<td>11,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO III.</td>
-<td class="cuerpo_tabla_coma">16,3</td>
-<td class="cuerpo_tabla_coma">8,9</td>
+<td>EURO III.</td>
+<td>16,3</td>
+<td>8,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO IV.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_coma">6,0</td>
+<td>EURO IV.</td>
+<td>11,8</td>
+<td>6,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO V.</td>
-<td class="cuerpo_tabla_coma">6,6</td>
-<td class="cuerpo_tabla_coma">3,4</td>
+<td>EURO V.</td>
+<td>6,6</td>
+<td>3,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO VI.</td>
-<td class="cuerpo_tabla_coma">3,1</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>EURO VI.</td>
+<td>3,1</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">0,3</td>
+<td>Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
+<td>2,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible superior a 32 toneladas o de cinco ejes o más.</p>
+<td rowspan="8">
+<p>Vehículos pesados de transporte de mercancías con una masa máxima en carga técnicamente admisible superior a 32 toneladas o de cinco ejes o más.</p>
 </td>
-<td class="cuerpo_tabla_izq">EURO 0.</td>
-<td class="cuerpo_tabla_coma">33,5</td>
-<td class="cuerpo_tabla_coma">19,4</td>
+<td>EURO 0.</td>
+<td>33,5</td>
+<td>19,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO I.</td>
-<td class="cuerpo_tabla_coma">25,0</td>
-<td class="cuerpo_tabla_coma">14,1</td>
+<td>EURO I.</td>
+<td>25,0</td>
+<td>14,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO II.</td>
-<td class="cuerpo_tabla_coma">24,9</td>
-<td class="cuerpo_tabla_coma">13,9</td>
+<td>EURO II.</td>
+<td>24,9</td>
+<td>13,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO III.</td>
-<td class="cuerpo_tabla_coma">20,1</td>
-<td class="cuerpo_tabla_coma">11,1</td>
+<td>EURO III.</td>
+<td>20,1</td>
+<td>11,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO IV.</td>
-<td class="cuerpo_tabla_coma">14,2</td>
-<td class="cuerpo_tabla_coma">7,5</td>
+<td>EURO IV.</td>
+<td>14,2</td>
+<td>7,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO V.</td>
-<td class="cuerpo_tabla_coma">7,6</td>
-<td class="cuerpo_tabla_coma">3,8</td>
+<td>EURO V.</td>
+<td>7,6</td>
+<td>3,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EURO VI.</td>
-<td class="cuerpo_tabla_coma">3,4</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>EURO VI.</td>
+<td>3,4</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
-<td class="cuerpo_tabla_coma">2,8</td>
-<td class="cuerpo_tabla_coma">0,3</td>
+<td>Menos contaminantes que EURO VI, incluidos los vehículos de emisión cero.</td>
+<td>2,8</td>
+<td>0,3</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Por «zonas suburbanas» se entiende zonas con una densidad de población de entre 150 y 900 habitantes/km<sup>2</sup> (densidad media de población de 300 habitantes/km<sup>2</sup>).</p>
-<p class="cita"><sup>(2)</sup> Por «zonas interurbanas» se entiende zonas con una densidad de población inferior a 150 habitantes/km<sup>2</sup>.</p>
-<p class="cita">Los valores del cuadro 1 podrán multiplicarse por un factor máximo de 2 en las zonas de montaña y en torno a las aglomeraciones en la medida en que lo justifiquen la menor dispersión, la pendiente de la carretera, la altitud o las inversiones térmicas. Si existen datos científicos que demuestren un factor de montaña o aglomeración mayor, este valor de referencia podrá aumentarse sobre la base de una justificación detallada.</p>
+<p><sup>(1)</sup> Por «zonas suburbanas» se entiende zonas con una densidad de población de entre 150 y 900 habitantes/km<sup>2</sup> (densidad media de población de 300 habitantes/km<sup>2</sup>).</p>
+<p><sup>(2)</sup> Por «zonas interurbanas» se entiende zonas con una densidad de población inferior a 150 habitantes/km<sup>2</sup>.</p>
+<p>Los valores del cuadro 1 podrán multiplicarse por un factor máximo de 2 en las zonas de montaña y en torno a las aglomeraciones en la medida en que lo justifiquen la menor dispersión, la pendiente de la carretera, la altitud o las inversiones térmicas. Si existen datos científicos que demuestren un factor de montaña o aglomeración mayor, este valor de referencia podrá aumentarse sobre la base de una justificación detallada.</p>
 </td>
 </tr>
 </tfoot>
@@ -1689,37 +1637,30 @@ El presente anexo establece el comportamiento en materia de emisiones de contami
 
 Criterios de comportamiento en materia de emisiones de contaminantes para los vehículos ligeros
 
-<table class="tabla">
-<colgroup>
-<col width="19%">
-<col width="21%">
-<col width="15%">
-<col width="29%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Peajes y tasas por utilización</th>
-<th class="cabeza_tabla">5-15 % inferior a la tarifa máxima</th>
-<th class="cabeza_tabla">15-25 % inferior a la tarifa máxima</th>
-<th class="cabeza_tabla">25-35 % inferior a la tarifa máxima</th>
-<th class="cabeza_tabla">Hasta el 75 % inferior a la tarifa<br> máxima</th>
+<th>Peajes y tasas por utilización</th>
+<th>5-15 % inferior a la tarifa máxima</th>
+<th>15-25 % inferior a la tarifa máxima</th>
+<th>25-35 % inferior a la tarifa máxima</th>
+<th>Hasta el 75 % inferior a la tarifa<br> máxima</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comportamiento en materia de emisiones.</td>
-<td class="cuerpo_tabla_izq">Euro-6d-temp-x (#)</td>
-<td class="cuerpo_tabla_izq">Euro-6d-x (#)</td>
-<td class="cuerpo_tabla_izq">Valores máximos declarados de valores de RDE para las emisiones de contaminantes (##) &lt; 80 % de los límites de emisiones aplicables.</td>
-<td class="cuerpo_tabla_izq">Vehículos de emisión cero.</td>
+<td>Comportamiento en materia de emisiones.</td>
+<td>Euro-6d-temp-x (#)</td>
+<td>Euro-6d-x (#)</td>
+<td>Valores máximos declarados de valores de RDE para las emisiones de contaminantes (##) &lt; 80 % de los límites de emisiones aplicables.</td>
+<td>Vehículos de emisión cero.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">(#) Donde x puede estar vacío o puede ser uno de los siguientes (EVAP, EVAP-ISC, ISC o ISC-FCM).</p>
-<p class="cita">(##) Para NO <sub>x</sub> y PN como se indica en el punto 48.2, del certificado de conformidad, en el apéndice del anexo VIII del Reglamento de Ejecución (UE) 2020/683 de la Comisión de 15 de abril de 2020, por el que se desarrolla el Reglamento (UE) 2018/858 del Parlamento Europeo y del Consejo en lo que concierne a los requisitos administrativos para la homologación y la vigilancia del mercado de los vehículos de motor y sus remolques y de los sistemas, los componentes y las unidades técnicas independientes destinados a dichos vehículos.</p>
+<p>(#) Donde x puede estar vacío o puede ser uno de los siguientes (EVAP, EVAP-ISC, ISC o ISC-FCM).</p>
+<p>(##) Para NO <sub>x</sub> y PN como se indica en el punto 48.2, del certificado de conformidad, en el apéndice del anexo VIII del Reglamento de Ejecución (UE) 2020/683 de la Comisión de 15 de abril de 2020, por el que se desarrolla el Reglamento (UE) 2018/858 del Parlamento Europeo y del Consejo en lo que concierne a los requisitos administrativos para la homologación y la vigilancia del mercado de los vehículos de motor y sus remolques y de los sistemas, los componentes y las unidades técnicas independientes destinados a dichos vehículos.</p>
 </td>
 </tr>
 </tfoot>

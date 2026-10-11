@@ -870,94 +870,88 @@ b) La persona física o jurídica, así como la entidad que, careciendo de perso
 
 La cuota tributaria viene determinada por la aplicación a la base imponible de los tipos de gravamen expresados en euros/día o fracción siguientes:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Tipo de alojamiento turístico</th>
-<th class="cabeza_tabla">Tarifa</th>
+<th colspan="3">Tipo de alojamiento turístico</th>
+<th>Tarifa</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="11">Establecimientos hoteleros.</td>
-<td class="cuerpo_tabla_izq" rowspan="10">Hoteles.</td>
-<td class="cuerpo_tabla_izq">5 estrellas superior.</td>
-<td class="cuerpo_tabla_centro">2,5 €</td>
+<td rowspan="11">Establecimientos hoteleros.</td>
+<td rowspan="10">Hoteles.</td>
+<td>5 estrellas superior.</td>
+<td>2,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5 estrellas.</td>
-<td class="cuerpo_tabla_centro">2,5 €</td>
+<td>5 estrellas.</td>
+<td>2,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 estrellas superior.</td>
-<td class="cuerpo_tabla_centro">2,5 €</td>
+<td>4 estrellas superior.</td>
+<td>2,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 estrellas.</td>
-<td class="cuerpo_tabla_centro">2 €</td>
+<td>4 estrellas.</td>
+<td>2 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3 estrellas superior.</td>
-<td class="cuerpo_tabla_centro">2 €</td>
+<td>3 estrellas superior.</td>
+<td>2 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3 estrellas.</td>
-<td class="cuerpo_tabla_centro">2 €</td>
+<td>3 estrellas.</td>
+<td>2 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 estrellas superior.</td>
-<td class="cuerpo_tabla_centro">2 €</td>
+<td>2 estrellas superior.</td>
+<td>2 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 estrellas.</td>
-<td class="cuerpo_tabla_centro">1,5 €</td>
+<td>2 estrellas.</td>
+<td>1,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 estrella superior.</td>
-<td class="cuerpo_tabla_centro">1,5 €</td>
+<td>1 estrella superior.</td>
+<td>1,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 estrella.</td>
-<td class="cuerpo_tabla_centro">1,5 €</td>
+<td>1 estrella.</td>
+<td>1,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensiones.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">1,5 €</td>
+<td>Pensiones.</td>
+<td> </td>
+<td>1,5 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Albergues.</td>
-<td class="cuerpo_tabla_centro">1 €</td>
+<td colspan="3">Albergues.</td>
+<td>1 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Campamentos de turismo.</td>
-<td class="cuerpo_tabla_centro">1 €</td>
+<td colspan="3">Campamentos de turismo.</td>
+<td>1 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de turismo rural.</td>
-<td class="cuerpo_tabla_centro">1 €</td>
+<td colspan="3">Establecimientos de turismo rural.</td>
+<td>1 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Apartamentos turísticos.</td>
-<td class="cuerpo_tabla_centro">1 €</td>
+<td colspan="3">Apartamentos turísticos.</td>
+<td>1 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Viviendas turísticas.</td>
-<td class="cuerpo_tabla_centro">1 €</td>
+<td colspan="3">Viviendas turísticas.</td>
+<td>1 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Viviendas de uso turístico.</td>
-<td class="cuerpo_tabla_centro">2 €</td>
+<td colspan="3">Viviendas de uso turístico.</td>
+<td>2 €</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Estancias en embarcaciones de crucero turístico.</td>
-<td class="cuerpo_tabla_centro">1,5 €</td>
+<td colspan="3">Estancias en embarcaciones de crucero turístico.</td>
+<td>1,5 €</td>
 </tr>
 </tbody>
 </table>

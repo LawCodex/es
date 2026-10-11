@@ -3685,130 +3685,125 @@ Los módulos del bloque común serán impartidos por quienes posean la especiali
 
 Los módulos del bloque específico serán impartidos por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de grado superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de grado superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI302: Planificación y programación del alto rendimiento en hípica.</td>
-<td class="cuerpo_tabla_izq">Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI302: Planificación y programación del alto rendimiento en hípica.</td>
+<td>Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI303: Preparación física del jinete o la amazona.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI303: Preparación física del jinete o la amazona.</td>
+<td>Educación Física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI304: Entrenamiento deportivo/condicional del caballo de ARD.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI304: Entrenamiento deportivo/condicional del caballo de ARD.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI305: Dirección y gestión de un centro ecuestre.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI305: Dirección y gestión de un centro ecuestre.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI306: Entrenamiento técnico-táctico en hípica.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI306: Entrenamiento técnico-táctico en hípica.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI307: Dirección técnica en competiciones hípicas de ARD.</td>
-<td class="cuerpo_tabla_izq">Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI307: Dirección técnica en competiciones hípicas de ARD.</td>
+<td>Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI308: Organización y gestión de competiciones hípicas de ARD.</td>
-<td class="cuerpo_tabla_izq">Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI308: Organización y gestión de competiciones hípicas de ARD.</td>
+<td>Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI309: Proyecto.</td>
-<td class="cuerpo_tabla_izq">Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-HIHI309: Proyecto.</td>
+<td>Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-HIHI310:Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-HIHI310:Formación práctica.</td>
+<td>Educación Física y con el título de Técnico Deportivo Superior en Hípica.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

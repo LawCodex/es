@@ -1,0 +1,279 @@
+---
+title: "Orden ETU/943/2017, de 6 de octubre, por la que se desarrolla el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica"
+identifier: "BOE-A-2017-11532"
+eli: "https://www.boe.es/eli/es/o/2017/10/06/etu943"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Energía, Turismo y Agenda Digital"
+date: 2017-10-06
+published: 2017-10-09
+in_force_from: 2017-10-10
+last_amended: 2022-10-19
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 243"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-11532"
+retrieved: 2026-10-11
+---
+
+# Orden ETU/943/2017, de 6 de octubre, por la que se desarrolla el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica
+
+Con fecha 23 de diciembre de 2016 se aprobó el Real Decreto-ley 7/2016, de 23 de diciembre, por el que se regula el mecanismo de financiación del coste del bono social y otras medidas de protección al consumidor vulnerable de energía eléctrica, cuya finalidad ha sido aumentar las medidas de protección de los consumidores vulnerables y establecer un nuevo mecanismo de financiación del bono social.
+
+La disposición final segunda del citado real decreto-ley instaba al Gobierno al desarrollo de lo dispuesto en su artículo 1 por el que se modifica la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, mediante real decreto.
+
+Atendiendo a lo anterior, ha sido aprobado el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica.
+
+En el referido real decreto se define la figura del consumidor vulnerable asociado a un determinado umbral de renta referenciado al Indicador Público de Renta de Efectos Múltiples (IPREM), que tiene en cuenta, en su caso, el número de miembros que compongan la unidad familiar, y que puede verse incrementado si se acreditan determinadas circunstancias especiales en las que pueda encontrarse el consumidor o uno de los miembros de la unidad familiar. Adicionalmente, se contemplan determinados colectivos con derecho a la percepción del bono social, con independencia de su nivel de renta.
+
+Asimismo, dentro de los consumidores vulnerables se establece un bono social de mayor cuantía para los consumidores vulnerables severos, definidos a partir de unos umbrales de renta más bajos que los umbrales generales y además, dentro de los consumidores vulnerables severos, se crea la nueva categoría de consumidores en riesgo de exclusión social, que serán aquellos que, cumpliendo los umbrales de renta previstos, por sus especiales características, estén siendo atendido por los servicios sociales de una administración autonómica o local en los términos previstos en el real decreto. Para tales consumidores, cuando el coste de su factura eléctrica sea cofinanciado por la Administración Pública correspondiente y por las matrices de los grupos de sociedades que desarrollen la actividad de comercialización de energía eléctrica, o las propias sociedades que así lo hagan si no forman parte de ningún grupo societario, el real decreto recoge la imposibilidad de que su suministro sea suspendido, en determinadas condiciones.
+
+Además de lo anterior, el mencionado real decreto establece el procedimiento para que el consumidor pueda solicitar el bono social y el comercializador de referencia (COR) compruebe el cumplimiento de los requisitos para ser consumidor vulnerable, lo que realizará a través de la correspondiente aplicación telemática disponible en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital.
+
+Se recogen así los aspectos relativos a la aplicación del bono social, las condiciones para su renovación y la obligación de que el consumidor comunique cualquier cambio en las condiciones que dan derecho a su percepción.
+
+El artículo 7 del real decreto habilita al Ministro de Energía, Turismo y Agenda Digital a detallar por orden, los términos en que los consumidores titulares de los puntos de suministro podrán solicitar la aplicación del bono social, y en particular, a establecer el modelo de solicitud de aplicación de bono social, la documentación acreditativa del cumplimiento de los requisitos, los criterios de cómputo del requisito de renta y los mecanismos con los que se comprobarán los requisitos establecidos en el real decreto para ser consumidor vulnerable y vulnerable severo y percibir el bono social.
+
+Asimismo, el real decreto otorga un plazo de seis meses desde la entrada en vigor de la presente orden para que los consumidores que a día de hoy perciben el bono social, sigan percibiéndolo en las mismas condiciones, sin perjuicio de que durante ese periodo puedan solicitar su renovación bajo las nuevas condiciones establecidas.
+
+De conformidad con el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el trámite de audiencia de esta orden ha sido evacuado mediante consulta a los representantes del Consejo Consultivo de Electricidad, de acuerdo a lo previsto en la disposición transitoria décima de la citada Ley 3/2013, de 4 de junio y, por otra parte, esta orden ha sido sometida a información pública, en el portal web del Ministerio de Energía, Turismo y Agenda Digital.
+
+De acuerdo con lo establecido en el artículo 5.2 a) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, lo dispuesto en la presente orden ha sido informado por la Comisión Nacional de los Mercados y la Competencia.
+
+Asimismo, de conformidad con lo dispuesto en los artículos 37 h) de la Ley Orgánica, de 13 de diciembre, de Protección de datos de Carácter Personal, y 5 b) del Estatuto de la Agencia, aprobado por Real Decreto 428/1993, de 26 de marzo, la presente orden ha sido informada por la Agencia Española de Protección de Datos.
+
+En su virtud, dispongo:
+
+## Artículo 1. Objeto.
+
+1\. El objeto de la presente orden es desarrollar el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica.
+
+2\. En particular, en la orden se regulan los aspectos siguientes:
+
+a) Los modelos de solicitud de aplicación del bono social.
+
+b) La documentación acreditativa del cumplimiento de los requisitos establecidos en el artículo 3 del real decreto que, en su caso, deba acompañar dicha solicitud.
+
+c) Los criterios de cómputo del requisito de renta.
+
+d) Los mecanismos con los que se comprobarán los requisitos establecidos en dicho real decreto para ser consumidor vulnerable y vulnerable severo y percibir el bono social.
+
+## Artículo 2. Solicitud del bono social y documentación acreditativa.
+
+1\. El modelo de solicitud del bono social al que hace referencia el artículo 7 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica se recoge en el apéndice I del anexo I. En el apéndice II se recoge el modelo de solicitud para la comprobación del bono social cuando el comercializador de referencia tenga que comprobar los requisitos a partir de declaraciones de renta y certificados de imputaciones.
+
+2\. La solicitud del bono social podrá realizarse a través de los siguientes medios, acompañada de la documentación acreditativa:
+
+a. Por teléfono, a través del número disponible en la página web del comercializador de referencia (COR). Este número será publicado también en la página web de la Comisión Nacional de los Mercados y la Competencia.
+
+En este caso, el consumidor deberá remitir la información justificativa posteriormente por alguno de los medios recogidos en este apartado.
+
+b. En las oficinas del COR, cuando éstas existan.
+
+c. Por fax o a través de la dirección de correo electrónico que comunique el COR en su página web y en su factura.
+
+d. Por correo postal en la dirección que comunique el COR en su página web y en su factura.
+
+e. A través de la página web del comercializador de referencia.
+
+3\. El formulario de solicitud deberá estar disponible en la página web del COR, así como en sus oficinas de atención presencial al consumidor, cuando éstas existan.
+
+4\. El COR deberá mantener actualizada la información relativa a los medios puestos a disposición para solicitar el bono social en su página web y en su factura, la dirección de correo electrónico, la dirección postal y el teléfono.
+
+La Comisión Nacional de los Mercados y la Competencia dispondrá también de dicha información actualizada.
+
+5\. El COR deberá hacer entrega al consumidor del documento que justifique la presentación de la solicitud, cuando ésta tenga lugar en sus oficinas presenciales.
+
+Asimismo, el COR deberá remitir correo electrónico de confirmación de la recepción de la solicitud cuando ésta se realice por correo electrónico.
+
+6\. Para el caso en que el solicitante forme parte de una unidad de convivencia, en la solicitud se identificarán los miembros que componen la unidad de convivencia, conforme a la definición dada en el artículo 3.2.a) del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, con expresión del NIF o NIE de cada uno de los miembros para los que dicho documento sea obligatorio y, en su caso, el NIF o NIE de los menores de 14 años de edad de la unidad de convivencia que dispongan de él.
+
+7\. La solicitud se acompañará de la documentación siguiente:
+
+– Fotocopia del NIF o NIE del titular del punto de suministro o, en su caso, de todos los miembros de la unidad de convivencia según lo dispuesto en el apartado 6.
+
+– Certificado de empadronamiento en vigor, individual o conjunto, del titular de punto de suministro o de todos los miembros de la unidad de convivencia. El certificado de empadronamiento tendrá que hacer referencia a la dirección del punto de suministro sobre el que se solicita el bono social.
+
+– En el caso de las unidades de convivencia, libro/s de familia y/o certificado/s de nacimiento y/o certificados/s de matrimonio expedido por el Registro Civil que acredite/n la relación de filiación y parentesco de las personas que conforman la unidad de convivencia. Asimismo, cuando corresponda, certificado que acredite la inscripción como pareja de hecho y/o resolución judicial o administrativa que acredite el acogimiento. En su caso, declaración responsable relativa al estado civil del solicitante, de conformidad con el modelo que figura como anexo III de esta Orden.
+
+– En el caso de familias numerosas, deberá aportarse copia del título de familia numerosa en vigor.
+
+– En caso de que aplique alguna de las circunstancias especiales que se recogen en los apartados a), b), c) y d) del artículo 3.3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, certificado o documento acreditativo expedido por los servicios sociales del órgano competente regulado en el artículo 3.
+
+> Se modifica el párrafo tercero del apartado 7 por la disposición final 5.1 del Real Decreto-ley 18/2022, de 18 de octubre. [Ref. BOE-A-2022-17040](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17040)
+
+> Se modifican los apartado 6 y 7 por la disposición final 24.1 del Real Decreto-ley 6/2022, de 29 de marzo. [Ref. BOE-A-2022-4972](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4972)
+
+> Se modifica el apartado 7 por la disposición final 3.1 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+## Artículo 3. Acreditación de las circunstancias especiales.
+
+1\. Para la acreditación de las circunstancias especiales que se recogen en los apartados a), b), c) y d) del artículo 3.3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, el solicitante podrá dirigirse a los servicios sociales del órgano competente o al órgano que designe la Comunidad Autónoma, para que éstos expidan el certificado u otro documento acreditativo de que cumple alguna de las circunstancias especiales a que hacen referencia los apartados a), b), c) y d) del citado artículo 3.3. Dicho documento no reflejará de manera expresa en cuál de las circunstancias concretas se encuentra el solicitante o alguno de los integrantes de la unidad de convivencia ni, en su caso, qué miembro concreto de la misma es el que se encuentra en tal circunstancia.
+
+El certificado o documento acreditativo emitido por los servicios sociales del órgano competente o el órgano que designe la Comunidad Autónoma podrá seguir el modelo del anexo II.
+
+2\. Para su expedición, el solicitante deberá aportar a los servicios sociales del órgano competente o al órgano que designe la Comunidad Autónoma la documentación siguiente:
+
+a) En caso de que el solicitante o alguno de los miembros de la unidad de convivencia tenga discapacidad reconocida igual o superior al 33 % se aportará certificado o resolución, expedido por el Instituto de Migraciones y Servicios Sociales (IMSERSO) o por el órgano competente de las Comunidades Autónomas, con el grado de discapacidad reconocido.
+
+b) En caso de que el solicitante o alguno de los miembros de la unidad de convivencia tenga la condición de víctima de violencia de género, se aportará uno de los documentos siguientes:
+
+− Sentencia definitiva y firme que condene a la persona agresora.
+
+− Resolución judicial por la que concluye el procedimiento penal de la que se deduzca que la persona solicitante ha sido víctima de violencia de género.
+
+− Orden de protección vigente, o Informe del Ministerio Fiscal que indique la existencia de indicios de que la persona solicitante es víctima de violencia de género hasta tanto se dicte la orden de protección.
+
+− Resolución judicial que hubiere acordado medidas cautelares penales, siempre que éstas estén en vigor.
+
+− Certificación o informe de los servicios sociales de la Administración Pública autonómica o local.
+
+− También quedará acreditada la condición de víctima de violencia de género mediante certificado emitido por una institución pública competente en el que conste que la persona interesada está siendo atendida dentro de un programa de atención a las víctimas, subvencionado por una Administración Pública concreta.
+
+c) En caso de que el solicitante o alguno de los miembros de la unidad de convivencia tenga la condición de víctima de terrorismo, se aportará resolución emitida conforme a la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo por el Ministerio del Interior.
+
+d) En caso de que el solicitante o alguno de los miembros de la unidad de convivencia se encuentre en situación de dependencia reconocida de grado II o III, reconocimiento de situación de dependencia por el órgano competente de la Comunidad Autónoma.
+
+3\. La acreditación de la circunstancia especial que se recoge en el artículo 3.3.e) del Real Decreto 897/2017, de 6 de octubre, se realizará a través del libro de familia o, en su caso, certificación de la hoja individual del Registro Civil correspondiente y el certificado de empadronamiento.
+
+4\. La concurrencia de las referidas circunstancias especiales debe acreditarse en el momento de la solicitud del bono social, y, salvo que la persona titular del punto de suministro comunique expresamente la pérdida de alguna de las condiciones, se entenderá que siguen resultando de aplicación en cada prórroga del bono social.
+
+> Se modifica por la disposición final 24.2 del Real Decreto-ley 6/2022, de 29 de marzo. [Ref. BOE-A-2022-4972](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4972)
+
+## Artículo 4. Cálculo de las rentas.
+
+1\. A los efectos de comprobación del requisito de renta previsto en el artículo 3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, se considerará la cuantía de la base imponible general y del ahorro, reguladas en los artículos 48 y 49, respectivamente, de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, relativa al último período impositivo del que tenga constancia la Agencia Estatal de la Administración Tributaria, o en el caso del País Vasco y Navarra, las Agencias Forales correspondientes, de acuerdo con la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas de cada territorio foral, todo ello, en el momento de la solicitud del bono social.
+
+A estos efectos, se sumarán, en su caso, las cuantías correspondientes a todos los miembros de la unidad familiar.
+
+2\. Si el solicitante o cualquiera de los integrantes de la unidad no hubieran presentado declaración por no estar obligados a ello conforme a la normativa aplicable, se partirá de los datos que consten en la Agencia correspondiente.
+
+A estos efectos se considerarán los rendimientos del trabajo, del capital o de actividades económicas y ganancias y pérdidas patrimoniales, de acuerdo con el concepto establecido para dichas rentas en la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas de cada territorio.
+
+3\. En aquellos casos en los que no conste en la Agencia correspondiente que el solicitante o cualquiera de los integrantes de la unidad familiar hubieran presentado declaración de la renta teniendo la obligación de hacerlo conforme a la normativa relativa al Impuesto sobre la Renta de las Personas Físicas en cada territorio, no se podrá proceder a la comprobación de los datos relativos a la renta y, en consecuencia, no podrá ser beneficiario del bono social. En estos casos el comercializador de referencia rechazará la solicitud así deducida e indicará expresamente en su comunicación al interesado este motivo de rechazo.
+
+## Artículo 5. Acceso del comercializador de referencia a la aplicación telemática para la comprobación de los requisitos establecidos para ser consumidor vulnerable.
+
+El acceso del COR a la aplicación del artículo 6, se realizará con certificado electrónico a través de la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital.
+
+## Artículo 6. Mecanismo de comprobación de los requisitos para ser consumidor vulnerable.
+
+1\. Una vez recibida la solicitud completa del consumidor acompañada de la documentación acreditativa según lo dispuesto en el artículo 2.7, el COR, en el plazo máximo de 5 días hábiles, introducirá en la aplicación telemática disponible en la sede electrónica del Ministerio para la Transición Ecológica y el Reto Demográfico, los datos correspondientes al consumidor y, en su caso, a los miembros de la unidad de convivencia declarados por el mismo.
+
+En el caso de que la solicitud fuera incompleta el comercializador en el plazo máximo de 15 días hábiles desde la recepción se dirigirá al consumidor indicándole la parte de solicitud incompleta o la documentación acreditativa que le faltase.
+
+Transcurrido este plazo de subsanación sin que se hubiera procedido a la misma, en el caso de que no exista un consentimiento expreso por parte del titular o, en su caso, de todos los miembros de la unidad de convivencia mayores de 14 años y con capacidad de obrar declarados por el solicitante, no se podrá tramitar dicha solicitud. En este caso se le pondrá de manifiesto al solicitante la inadmisión de su solicitud.
+
+Transcurrido este plazo de subsanación sin que se hubiera procedido a la misma, en el caso de que existan discrepancias entre la información declarada en la solicitud y los datos que figuran en el/los libro/s de familia y/o o certificado/s de nacimiento y/o certificados/s de matrimonio y/o certificado que acredite la inscripción como pareja de hecho y/o resolución judicial o administrativa que acredite el acogimiento aportado por el solicitante y en el certificado de empadronamiento, el COR rechazará la solicitud e indicará expresamente en su comunicación al interesado el motivo de dicho rechazo.
+
+Transcurrido este plazo de subsanación sin que se hubiera procedido a la misma, en el caso de que existan discrepancias entre la solicitud y la documentación acreditativa en el resto de casos, siempre que no impidan la aplicación del bono social aun en otras modalidades distintas o con otros umbrales de renta, el COR tramitará dicha solicitud poniéndole de manifiesto al solicitante la modalidad de bono social aplicada y el requisito no subsanado.
+
+En caso de que existan discrepancias tanto en la acreditación de los requisitos como en la aplicación del bono social, los consumidores podrán reclamar ante los servicios de consumo correspondientes, en los términos que establezca la normativa de defensa de los consumidores.
+
+2\. Para el caso de las familias numerosas, lo dispuesto en el apartado 1 se llevará a cabo solo en el caso de comprobación de los requisitos para ser vulnerable severo.
+
+3\. Asimismo, en el caso de que se haya declarado en la solicitud y, en su caso, aportado el certificado u otro documento válido que así lo acredite, que se cumple alguna de las circunstancias especiales que se determinan en el artículo 3.3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, el COR indicará este hecho en los espacios habilitados en la aplicación a tal efecto.
+
+4\. A través de la aplicación telemática implementada, en el plazo máximo de 5 días hábiles, el COR visualizará el resultado de las comprobaciones realizadas por la misma, tanto para la condición de consumidor vulnerable como para la de vulnerable severo, que se materializará en un campo que indique "CUMPLE LOS REQUISITOS PARA SER CONSIDERADO CONSUMIDOR VULNERABLE/VULNERABLE SEVERO» o «NO CUMPLE LOS REQUISITOS PARA SER CONSIDERADO CONSUMIDOR VULNERABLE/VULNERABLE SEVERO".
+
+La aplicación indicará, en su caso, la imposibilidad de realizar dicha comprobación. En este caso, el COR rechazará la solicitud e indicará expresamente en su comunicación al interesado el motivo de dicho rechazo devuelto por la aplicación.
+
+5\. Una vez comprobado por el COR que el consumidor cumple los requisitos para la aplicación del bono social, lo comunicará al interesado indicando la fecha a partir de la cual procederá a su aplicación.
+
+> Se modifican los apartados 1 y 4 por la disposición final 24.3 del Real Decreto-ley 6/2022, de 29 de marzo. [Ref. BOE-A-2022-4972](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4972)
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 100, de 27 de abril de 2022. [Ref. BOE-A-2022-6764](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6764)
+
+> Se modifica el apartado 2 por la disposición final 3.2 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+## Disposición adicional única. Utilización de la aplicación telemática.
+
+1\. La aplicación telemática que permita al COR comprobar que el solicitante del bono social cumple los requisitos recogidos en el artículo 3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica para ser considerado consumidor vulnerable, será de aplicación a partir de la fecha que se establezca por Resolución del Secretario de Estado de Energía, que se publicará en el «Boletín Oficial del Estado».
+
+2\. La resolución podrá determinar el ámbito geográfico en que vaya a ser utilizada.
+
+## Disposición transitoria primera. Comprobación de los requisitos de renta hasta la publicación de la aplicación telemática.
+
+1\. Hasta que la aplicación telemática referida en la disposición adicional única de la presente orden, resulte de aplicación, el COR comprobará el cumplimiento del requisito de renta mediante la comprobación de la declaración o declaraciones de cada uno de los miembros de la unidad familiar presentadas por el solicitante, relativas al último período impositivo con plazo de presentación vencido, en el momento de la solicitud, o en su defecto, del certificado de imputaciones expedido por la Agencia Estatal de la Administración Tributaria, o en el caso del País Vasco o Navarra, por el organismo correspondiente.
+
+Desde la entrada en vigor de la presente orden y hasta la fecha antedicha, las COR prestarán su colaboración al Ministerio de Energía, Turismo y Agenda Digital para identificar aquellos aspectos que sea necesario contemplar en la aplicación para asegurar su correcto funcionamiento.
+
+2\. En el caso de la presentación de la renta, el comercializador de referencia considerará la cuantía reflejada en la casilla relativa a la base imponible general y del ahorro, de las declaraciones de la renta que, en su caso, cubran a todos los miembros de la unidad familiar.
+
+En el caso de presentación del certificado de imputaciones o asimilado, éste deberá recoger los ingresos relativos a los rendimientos del trabajo, del capital o de actividades económicas y ganancias y pérdidas patrimoniales, de acuerdo con el concepto establecido para dichas rentas en el Impuesto sobre la Renta de las Personas Físicas.
+
+A estos efectos, el COR deberá comprobar que las declaraciones de la renta presentadas y los certificados de imputaciones cubren, en su caso, a todos los miembros de la unidad familiar, debiendo rechazar la solicitud en caso contrario.
+
+## Disposición transitoria segunda. Plazo para la introducción de datos en la aplicación telemática y para la visualización de las comprobaciones.
+
+1\. Durante los primeros tres meses desde la entrada en vigor de esta orden, el plazo máximo de 5 días hábiles al que hace referencia el artículo 6.1 para la introducción de los datos correspondientes al consumidor o a los miembros de la unidad familiar declarados por el titular por parte de la comercializadora de referencia en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital será de 10 días hábiles.
+
+2\. Durante los primeros tres meses desde la entrada en vigor de esta orden, el plazo máximo de 5 días hábiles a que hace referencia el artículo 6.4 para que el COR visualice el resultado de las comprobaciones realizadas en la aplicación telemática, será de 10 días hábiles.
+
+3\. El plazo de tres meses a que hacen referencia los apartados 1 y 2 podrá ser modificado por resolución del Secretario de Estado de Energía.
+
+## Disposición final primera. Título competencial.
+
+La presente orden se dicta al amparo de lo establecido en el artículo 149.1. 13.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético, respectivamente.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 6 de octubre de 2017.–El Ministro de Energía, Turismo y Agenda Digital, Álvaro Nadal Belda.
+
+## ANEXO I — Solicitud del bono social
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369743_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369743_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369743_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369743_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369743_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/76/4972_11369743_6.png)
+
+> Se sustituye por la disposición final 24.4 del Real Decreto-ley 6/2022, de 29 de marzo. [Ref. BOE-A-2022-4972](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4972)
+
+> Se modifica por el art. 4 del Real Decreto-Ley 15/2018, de 5 de octubre. [Ref. BOE-A-2018-13593](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-13593)
+
+> Téngase en cuenta, para las solicitudes de bono social completadas con posterioridad al 8 de octubre de 2018 y antes del 31 de diciembre de 2018, lo dispuesto en la disposición transitoria 1.
+
+> Se modifica por el art. único y el anexo de la Orden ETU/361/2018, de 6 de abril. [Ref. BOE-A-2018-4750](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4750)
+
+> Se modifican los apéndices 1 y 2 por la disposición final 3.3 y 4 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+## ANEXO II — Modelo de certificado o documento acreditativo de las circunstancias especiales para la solicitud del bono social
+
+Certificado [o documento acreditativo] de los servicios sociales del órgano competente o del órgano designado por la Comunidad Autónoma El [órgano competente, servicios sociales u órgano designado por la Comunidad Autónoma] de la [Municipio/Comunidad Autónoma] CERTIFICA [o ACREDITA], a los solos efectos de la aplicación del bono social en la factura eléctrica:
+
+– Que el titular del contrato o alguno de los miembros de su unidad familiar<sup>5</sup> se encuentra en una de las circunstancias especiales recogidas en el apartado 3 del artículo 3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica.
+
+<sup>5</sup> Se entiende por unidad familiar, a los solos efectos de la aplicación del bono social en la factura de energía eléctrica, la constituida conforme a lo dispuesto en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, cualquiera de las siguientes modalidades.
+
+1.ª La integrada por los cónyuges no separados legalmente y, si los hubiera:
+
+a) Los hijos menores, con excepción de los que, con el consentimiento de los padres, vivan independientes de éstos.
+
+b) Los hijos mayores de edad incapacitados judicialmente sujetos a patria potestad prorrogada o rehabilitada.
+
+2.ª En los casos de separación legal, o cuando no existiera vínculo matrimonial, la formada por el padre o la madre y todos los hijos que convivan con uno u otro y que reúnan los requisitos a que se refiere la regla 1.ª
+
+Nadie podrá formar parte de dos unidades familiares al mismo tiempo.
+
+– Que estas circunstancias especiales se han acreditado conforme al artículo 3 de la orden por la que se desarrolla el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica.
+
+Firma/sello
+
+Lugar y fecha
+
+## ANEXO III — Modelo de declaración responsable sobre el estado civil del solicitante
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/251/17040_12281332_2.png)
+
+> Se añade por la disposición final 5.2 del Real Decreto-ley 18/2022, de 18 de octubre. [Ref. BOE-A-2022-17040](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17040)

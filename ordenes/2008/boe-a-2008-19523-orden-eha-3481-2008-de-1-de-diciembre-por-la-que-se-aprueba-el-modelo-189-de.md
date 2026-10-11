@@ -304,672 +304,668 @@ B. Tipo de registro 2: Registro de declarado
 
 (Posiciones, naturaleza y descripción de los campos)
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Posiciones</th>
-<th class="cabeza_tabla">Naturaleza</th>
-<th class="cabeza_tabla">Descripción de los campos</th>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
+<td>1</td>
+<td>Numérico.</td>
 <td>
-<p class="cuerpo_tabla_izq"><strong>Tipo de registro</strong>.</p>
-<p class="cuerpo_tabla_izq">Constante «2».</p>
+<p><strong>Tipo de registro</strong>.</p>
+<p>Constante «2».</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2-4</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
+<td>2-4</td>
+<td>Numérico.</td>
 <td>
-<p class="cuerpo_tabla_izq"><strong>Modelo declaración</strong>.</p>
-<p class="cuerpo_tabla_izq">Constante «189».</p>
+<p><strong>Modelo declaración</strong>.</p>
+<p>Constante «189».</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5-8</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
+<td>5-8</td>
+<td>Numérico.</td>
 <td>
-<p class="cuerpo_tabla_izq"><strong>Ejercicio</strong>.</p>
-<p class="cuerpo_tabla_izq">Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+<p><strong>Ejercicio</strong>.</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9-17</td>
-<td class="cuerpo_tabla_izq">Alfanumérico.</td>
+<td>9-17</td>
+<td>Alfanumérico.</td>
 <td>
-<p class="cuerpo_tabla_izq"><strong>NIF del declarante</strong>.</p>
-<p class="cuerpo_tabla_izq">Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+<p><strong>NIF del declarante</strong>.</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18-26</td>
-<td class="cuerpo_tabla_izq">Alfanumérico.</td>
+<td>18-26</td>
+<td>Alfanumérico.</td>
 <td>
-<p class="cuerpo_tabla_izq"><strong>NIF del declarado</strong>.</p>
-<p class="cuerpo_tabla_izq">Si el declarado dispone de NIF asignado en España, se consignará:</p>
-<p class="cuerpo_tabla_izq">Si es una persona física se consignará el NIF del declarado de acuerdo con las reglas previstas en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, (BOE del 5 de septiembre).</p>
-<p class="cuerpo_tabla_izq">Si el declarado es una persona jurídica o una entidad en régimen de atribución de rentas (Comunidad de bienes, Sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
-<p class="cuerpo_tabla_izq">Para la identificación de los menores de 14 años en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal.</p>
-<p class="cuerpo_tabla_izq">Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda. Sólo se cumplimentará con los NIF asignados en España.</p>
+<p><strong>NIF del declarado</strong>.</p>
+<p>Si el declarado dispone de NIF asignado en España, se consignará:</p>
+<p>Si es una persona física se consignará el NIF del declarado de acuerdo con las reglas previstas en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, (BOE del 5 de septiembre).</p>
+<p>Si el declarado es una persona jurídica o una entidad en régimen de atribución de rentas (Comunidad de bienes, Sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
+<p>Para la identificación de los menores de 14 años en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda. Sólo se cumplimentará con los NIF asignados en España.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27-35</td>
-<td class="cuerpo_tabla_izq">Alfanumérico.</td>
+<td>27-35</td>
+<td>Alfanumérico.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>NIF del representante legal.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Si el declarado es menor de 14 años se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor). Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
-<p class="cuerpo_tabla_izq">En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+<p>Si el declarado es menor de 14 años se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor). Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36-75</td>
-<td class="cuerpo_tabla_izq">Alfanumérico.</td>
+<td>36-75</td>
+<td>Alfanumérico.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Apellidos y nombre, razón social o denominación del declarado.</strong>
 </p>
-<p class="cuerpo_tabla_izq">a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este mismo orden. Si el declarado es menor de 14 años, se consignarán en este campo los apellidos y nombre del menor de 14 años.</p>
-<p class="cuerpo_tabla_izq">b) Tratándose de personas jurídicas y entidades en régimen de atribución de rentas, se consignará la razón social o denominación completa de la entidad, sin anagramas.</p>
+<p>a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este mismo orden. Si el declarado es menor de 14 años, se consignarán en este campo los apellidos y nombre del menor de 14 años.</p>
+<p>b) Tratándose de personas jurídicas y entidades en régimen de atribución de rentas, se consignará la razón social o denominación completa de la entidad, sin anagramas.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">76-77</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
+<td>76-77</td>
+<td>Numérico.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Código provincia.</strong>
 </p>
-<p class="cuerpo_tabla_izq">En el caso de residentes o de no residentes que operen en territorio español mediante establecimiento permanente, se consignarán los dos dígitos numéricos que correspondan a la provincia o, en su caso, ciudad autónoma, del domicilio fiscal del declarado según la relación siguiente:</p>
-<table class="tabla">
+<p>En el caso de residentes o de no residentes que operen en territorio español mediante establecimiento permanente, se consignarán los dos dígitos numéricos que correspondan a la provincia o, en su caso, ciudad autónoma, del domicilio fiscal del declarado según la relación siguiente:</p>
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Álava</p>
+<p>Álava</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">León</p>
+<p>León</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Albacete</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lleida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alicante</p>
+<p>Albacete</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lugo</p>
+<p>Lleida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Almería</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Madrid</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Asturias</p>
+<p>Alicante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Málaga</p>
+<p>Lugo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ávila</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Melilla</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Badajoz</p>
+<p>Almería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">06</p>
+<p>04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Murcia</p>
+<p>Madrid</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Barcelona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Navarra</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Burgos</p>
+<p>Asturias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">09</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ourense</p>
+<p>Málaga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cáceres</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Palencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">34</p>
+<p>29</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cádiz</p>
+<p>Ávila</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palmas, Las</p>
+<p>Melilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cantabria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">39</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pontevedra</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Castellón</p>
+<p>Badajoz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rioja, La</p>
+<p>Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ceuta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">51</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Salamanca</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37</p>
+<p>30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad Real</p>
+<p>Barcelona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">S. C. Tenerife</p>
+<p>Navarra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Córdoba</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Segovia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>31</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Coruña, A</p>
+<p>Burgos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sevilla</p>
+<p>Ourense</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cuenca</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Soria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Girona</p>
+<p>Cáceres</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarragona</p>
+<p>Palencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Granada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Teruel</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">44</p>
+<p>34</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Guadalajara</p>
+<p>Cádiz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Toledo</p>
+<p>Palmas, Las</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Guipúzcoa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Valencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Huelva</p>
+<p>Cantabria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valladolid</p>
+<p>Pontevedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Huesca</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Vizcaya</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Illes Balears</p>
+<p>Castellón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">07</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zamora</p>
+<p>Rioja, La</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49</p>
+<p>26</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Jaén</p>
+<p>Ceuta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zaragoza</p>
+<p>Salamanca</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ciudad Real</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>S. C. Tenerife</p>
+</td>
+<td>
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Córdoba</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Segovia</p>
+</td>
+<td>
+<p>40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Coruña, A</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>Sevilla</p>
+</td>
+<td>
+<p>41</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cuenca</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Soria</p>
+</td>
+<td>
+<p>42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Girona</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>Tarragona</p>
+</td>
+<td>
+<p>43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Granada</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>Teruel</p>
+</td>
+<td>
+<p>44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guadalajara</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>Toledo</p>
+</td>
+<td>
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guipúzcoa</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>Valencia</p>
+</td>
+<td>
+<p>46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Huelva</p>
+</td>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>Valladolid</p>
+</td>
+<td>
+<p>47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Huesca</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>Vizcaya</p>
+</td>
+<td>
+<p>48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Illes Balears</p>
+</td>
+<td>
+<p>07</p>
+</td>
+<td>
+<p>Zamora</p>
+</td>
+<td>
+<p>49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jaén</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>Zaragoza</p>
+</td>
+<td>
+<p>50</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p class="cuerpo_tabla_izq">En el caso de no residentes que no operen en territorio español mediante establecimiento permanente, se consignará 99.</p>
+<p>En el caso de no residentes que no operen en territorio español mediante establecimiento permanente, se consignará 99.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">78-79</td>
-<td class="cuerpo_tabla_izq">Alfabético.</td>
+<td>78-79</td>
+<td>Alfabético.</td>
 <td>
-<p class="cuerpo_tabla_izq">CÓDIGO PAÍS</p>
-<p class="cuerpo_tabla_izq">En el caso de no residentes que operen en territorio español sin establecimiento permanente se consignarán el código que corresponda al país o territorio de residencia del declarado, de acuerdo con los códigos alfabéticos de países y territorios que figuran en la Orden EHA/3496/2011, de 15 de diciembre, en su Anexo II (BOE 26/12/2011).</p>
-<p class="cuerpo_tabla_izq">En el caso de residentes o de no residentes que operen en territorio español mediante establecimiento permanente, las posiciones 78 a 79 se consignarán a blancos.</p>
+<p>CÓDIGO PAÍS</p>
+<p>En el caso de no residentes que operen en territorio español sin establecimiento permanente se consignarán el código que corresponda al país o territorio de residencia del declarado, de acuerdo con los códigos alfabéticos de países y territorios que figuran en la Orden EHA/3496/2011, de 15 de diciembre, en su Anexo II (BOE 26/12/2011).</p>
+<p>En el caso de residentes o de no residentes que operen en territorio español mediante establecimiento permanente, las posiciones 78 a 79 se consignarán a blancos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">Alfabético.</td>
+<td>80</td>
+<td>Alfabético.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Clave de mercado.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se consignará una de las claves siguientes:</p>
-<p class="cuerpo_tabla_izq">
+<p>Se consignará una de las claves siguientes:</p>
+<p>
 <strong>Clave descripción.</strong>
 </p>
-<p class="cuerpo_tabla_izq">A Mercado secundario oficial de valores español.</p>
-<p class="cuerpo_tabla_izq">B Mercado secundario oficial de valores extranjeros (Unión Europea).</p>
-<p class="cuerpo_tabla_izq">C Otros Mercados nacionales.</p>
-<p class="cuerpo_tabla_izq">D Otros Mercados extranjeros.</p>
-<p class="cuerpo_tabla_izq">E Mercado secundario oficial de valores extranjeros (no UE).</p>
+<p>A Mercado secundario oficial de valores español.</p>
+<p>B Mercado secundario oficial de valores extranjeros (Unión Europea).</p>
+<p>C Otros Mercados nacionales.</p>
+<p>D Otros Mercados extranjeros.</p>
+<p>E Mercado secundario oficial de valores extranjeros (no UE).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">Alfabético.</td>
+<td>81</td>
+<td>Alfabético.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Clave de valor.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se consignará una de las claves siguientes:</p>
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p>Se consignará una de las claves siguientes:</p>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clave</th>
-<th class="cabeza_tabla">Descripción</th>
+<th>Clave</th>
+<th>Descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Acciones o participaciones en el capital o en los fondos propios de entidades jurídicas negociados en un mercado organizado.</td>
+<td>A</td>
+<td>Acciones o participaciones en el capital o en los fondos propios de entidades jurídicas negociados en un mercado organizado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Valores representativos de la cesión a terceros de capitales propios negociados en mercados organizados.</td>
+<td>B</td>
+<td>Valores representativos de la cesión a terceros de capitales propios negociados en mercados organizados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Acciones o participaciones en el capital social o fondo patrimonial de una institución de inversión colectiva.</td>
+<td>C</td>
+<td>Acciones o participaciones en el capital social o fondo patrimonial de una institución de inversión colectiva.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Seguros de Vida (limitados a los que tengan valor de rescate). Cuando las rentas temporales o vitalicias derivadas de seguros de vida o invalidez tengan valor de rescate a 31 de diciembre, este se hará constar en la Clave D.</td>
+<td>D</td>
+<td>Seguros de Vida (limitados a los que tengan valor de rescate). Cuando las rentas temporales o vitalicias derivadas de seguros de vida o invalidez tengan valor de rescate a 31 de diciembre, este se hará constar en la Clave D.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Renta temporal o vitalicia. Únicamente se hará constar el valor de capitalización a 31 de diciembre, calculado de acuerdo con lo dispuesto en el artículo 17 de la Ley 19/1991, del Impuesto sobre el Patrimonio, de las rentas temporales o vitalicias que no deriven de seguros de vida o invalidez (rentas temporales o vitalicias que tengan por causa la imposición de capitales a las que se refiere el artículo 25.3, letra b) de la Ley del IRPF).</td>
+<td>E</td>
+<td>Renta temporal o vitalicia. Únicamente se hará constar el valor de capitalización a 31 de diciembre, calculado de acuerdo con lo dispuesto en el artículo 17 de la Ley 19/1991, del Impuesto sobre el Patrimonio, de las rentas temporales o vitalicias que no deriven de seguros de vida o invalidez (rentas temporales o vitalicias que tengan por causa la imposición de capitales a las que se refiere el artículo 25.3, letra b) de la Ley del IRPF).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">F</td>
-<td class="cuerpo_tabla_izq">Seguros de Vida sin valor de rescate.</td>
+<td rowspan="3">F</td>
+<td>Seguros de Vida sin valor de rescate.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Se harán constar, asimismo, en esta clave las rentas temporales o vitalicias derivadas de seguros de vida o invalidez sin valor de rescate a 31 de diciembre.</td>
+<td>Se harán constar, asimismo, en esta clave las rentas temporales o vitalicias derivadas de seguros de vida o invalidez sin valor de rescate a 31 de diciembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Se excluyen los seguros temporales que incluyan únicamente prestaciones en caso de fallecimiento o invalidez u otras garantías complementarias de riesgo.</td>
+<td>Se excluyen los seguros temporales que incluyan únicamente prestaciones en caso de fallecimiento o invalidez u otras garantías complementarias de riesgo.</td>
 </tr>
 </tbody>
 </table>
-<p class="cuerpo_tabla_izq">No deberá suministrarse información relativa a los seguros de vida que cubran exclusivamente el riesgo de muerte (sin perjuicio de que puedan cubrir riesgos complementarios comprendidos en otros ramos distintos al de vida) y que no tengan valor de rescate.</p>
-<p class="cuerpo_tabla_izq">No deberá suministrarse información respecto de los planes de previsión asegurados, planes de previsión social empresarial, contratos de seguro colectivo que instrumenten compromisos por pensiones ni de los seguros privados de dependencia.</p>
+<p>No deberá suministrarse información relativa a los seguros de vida que cubran exclusivamente el riesgo de muerte (sin perjuicio de que puedan cubrir riesgos complementarios comprendidos en otros ramos distintos al de vida) y que no tengan valor de rescate.</p>
+<p>No deberá suministrarse información respecto de los planes de previsión asegurados, planes de previsión social empresarial, contratos de seguro colectivo que instrumenten compromisos por pensiones ni de los seguros privados de dependencia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">82</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
+<td>82</td>
+<td>Numérico.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Clave de identificación.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se consignará una de las claves siguientes:</p>
-<p class="cuerpo_tabla_izq">Clave descripción:</p>
-<p class="cuerpo_tabla_izq">1 Identificación por código ISIN (código de 12 posiciones).</p>
-<p class="cuerpo_tabla_izq">2 Valores extranjeros sin código ISIN.</p>
-<p class="cuerpo_tabla_izq">3 Identificación por NIF.</p>
-<p class="cuerpo_tabla_izq">Sólo se informará este campo cuando en el campo «Clave de Valor» (posición 81) se haya consignado «A», «B» o «C»</p>
+<p>Se consignará una de las claves siguientes:</p>
+<p>Clave descripción:</p>
+<p>1 Identificación por código ISIN (código de 12 posiciones).</p>
+<p>2 Valores extranjeros sin código ISIN.</p>
+<p>3 Identificación por NIF.</p>
+<p>Sólo se informará este campo cuando en el campo «Clave de Valor» (posición 81) se haya consignado «A», «B» o «C»</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">83-94</td>
-<td class="cuerpo_tabla_izq">Alfanumérico.</td>
+<td>83-94</td>
+<td>Alfanumérico.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Identificación de los valores.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se hará constar:</p>
-<p class="cuerpo_tabla_izq">1. El código ISIN, configurado de acuerdo a la Norma Técnica 1/1998, de 16 de diciembre, de la Comisión Nacional del Mercado de Valores y la Circular 6/1998, de 16 de Diciembre, de la Comisión Nacional del mercado de Valores (supuesto de Campo «Clave de identificación», posición 82, configurado con valor 1).</p>
-<p class="cuerpo_tabla_izq">2. Para valores extranjeros que tengan asignado ISIN se hará constar éste en todo caso. En los demás casos, se reflejará la clave «ZXX», siendo «XX» el código del país emisor de acuerdo con los códigos alfabéticos de países y territorios que figuran en la Orden EHA/3202/2008, de 31 de octubre, en su Anexo IV (BOE de 10 de noviembre de 2008), en el supuesto de campo «Clave de identificación», posición 82, configurado con valor 2.</p>
-<p class="cuerpo_tabla_izq">3. En defecto de código ISIN, se consignará el Número de Identificación Fiscal, otorgado por la Agencia Estatal de Administración Tributaria (supuesto de campo «Clave de identificación», posición 82, configurado con valor 3).</p>
-<p class="cuerpo_tabla_izq">Únicamente se informará este campo si en el campo «Clave de valor», posición 81, se ha consignado «A», «B» o «C».</p>
+<p>Se hará constar:</p>
+<p>1. El código ISIN, configurado de acuerdo a la Norma Técnica 1/1998, de 16 de diciembre, de la Comisión Nacional del Mercado de Valores y la Circular 6/1998, de 16 de Diciembre, de la Comisión Nacional del mercado de Valores (supuesto de Campo «Clave de identificación», posición 82, configurado con valor 1).</p>
+<p>2. Para valores extranjeros que tengan asignado ISIN se hará constar éste en todo caso. En los demás casos, se reflejará la clave «ZXX», siendo «XX» el código del país emisor de acuerdo con los códigos alfabéticos de países y territorios que figuran en la Orden EHA/3202/2008, de 31 de octubre, en su Anexo IV (BOE de 10 de noviembre de 2008), en el supuesto de campo «Clave de identificación», posición 82, configurado con valor 2.</p>
+<p>3. En defecto de código ISIN, se consignará el Número de Identificación Fiscal, otorgado por la Agencia Estatal de Administración Tributaria (supuesto de campo «Clave de identificación», posición 82, configurado con valor 3).</p>
+<p>Únicamente se informará este campo si en el campo «Clave de valor», posición 81, se ha consignado «A», «B» o «C».</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">95</td>
-<td class="cuerpo_tabla_izq">Alfabético.</td>
+<td>95</td>
+<td>Alfabético.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Clave de representación.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se consignará una de las claves siguientes:</p>
-<p class="cuerpo_tabla_izq">Clave descripción:</p>
-<p class="cuerpo_tabla_izq">A Valores representados mediante anotaciones en cuenta.</p>
-<p class="cuerpo_tabla_izq">B Valores no representados mediante anotaciones en cuenta.</p>
+<p>Se consignará una de las claves siguientes:</p>
+<p>Clave descripción:</p>
+<p>A Valores representados mediante anotaciones en cuenta.</p>
+<p>B Valores no representados mediante anotaciones en cuenta.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">96-107</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
+<td>96-107</td>
+<td>Numérico.</td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>BLANCOS.</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">108-123</td>
-<td class="cuerpo_tabla_izq">Alfanumérico.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">
+<td>108-123</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
 <strong>Valoración.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se hará constar el valor de los activos declarados en euros o su contravalor en los casos de operaciones en divisa, asimismo cuando existan múltiples partícipes asociados a la operación se consignará en cada uno, el valor imputable a cada uno de ellos en función del porcentaje de participación.</p>
-<p class="cuerpo_tabla_izq">En los supuestos en que se haya consignado una “A” o “B” en el campo “CLAVE DE VALOR”, posición 81, el valor de las acciones, participaciones o valores representativos de la cesión a terceros de capitales propios, se calculará conforme a lo dispuesto en el artículo 15 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.</p>
-<p class="cuerpo_tabla_izq">En los supuestos en que se haya consignado una “C” en el campo “CLAVE DE VALOR”, el valor liquidativo a 31 de diciembre se calculará de acuerdo a lo dispuesto en la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, y en su normativa de desarrollo.</p>
-<p class="cuerpo_tabla_izq">En los supuestos en que se haya consignado una “D” en el campo “CLAVE DE VALOR”, se hará constar el valor de rescate a 31 de diciembre.</p>
-<p class="cuerpo_tabla_izq">En los supuestos en que se haya consignado una “E” en el campo “CLAVE DE VALOR”, el valor de capitalización a 31 de diciembre, se calculará de acuerdo con lo dispuesto en el artículo 17 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.</p>
-<p class="cuerpo_tabla_izq">En los supuestos en que se haya consignado una “F” en el campo “CLAVE DE VALOR”, el valor de la provisión matemática a 31 de diciembre se calculará de acuerdo con lo dispuesto en el artículo 17 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.</p>
-<p class="cuerpo_tabla_izq">Este campo se subdivide en dos:</p>
-<p class="cuerpo_tabla_izq">108 SIGNO: campo alfabético, que se cumplimentará cuando el resultado de la valoración a que se acaba de hacer referencia sea menor que 0 (cero); en este caso se consignará una “N”.</p>
-<p class="cuerpo_tabla_izq">En cualquier otro caso el contenido del campo será un espacio.</p>
-<p class="cuerpo_tabla_izq">109-123 IMPORTE: Campo numérico de 15 posiciones. Se consignará el importe resultante de la valoración a que se ha hecho referencia más arriba.</p>
-<p class="cuerpo_tabla_izq">Los importes deben consignarse en EUROS. El importe no irá precedido de signo alguno (+/–), ni incluirá coma decimal.</p>
-<p class="cuerpo_tabla_izq">Este campo se subdivide en dos:</p>
-<p class="cuerpo_tabla_izq">109-121 Parte entera del importe, si no tiene contenido se consignará a ceros.</p>
-<p class="cuerpo_tabla_izq">122-123 Parte decimal del importe, si no tiene contenido se consignará a ceros.</p>
-<p class="cuerpo_tabla_izq">Asimismo, cuando existen múltiples declarados, se consignará, en cada uno, la valoración de cada uno de ellos en función del porcentaje de su participación.</p>
+<p>Se hará constar el valor de los activos declarados en euros o su contravalor en los casos de operaciones en divisa, asimismo cuando existan múltiples partícipes asociados a la operación se consignará en cada uno, el valor imputable a cada uno de ellos en función del porcentaje de participación.</p>
+<p>En los supuestos en que se haya consignado una “A” o “B” en el campo “CLAVE DE VALOR”, posición 81, el valor de las acciones, participaciones o valores representativos de la cesión a terceros de capitales propios, se calculará conforme a lo dispuesto en el artículo 15 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.</p>
+<p>En los supuestos en que se haya consignado una “C” en el campo “CLAVE DE VALOR”, el valor liquidativo a 31 de diciembre se calculará de acuerdo a lo dispuesto en la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, y en su normativa de desarrollo.</p>
+<p>En los supuestos en que se haya consignado una “D” en el campo “CLAVE DE VALOR”, se hará constar el valor de rescate a 31 de diciembre.</p>
+<p>En los supuestos en que se haya consignado una “E” en el campo “CLAVE DE VALOR”, el valor de capitalización a 31 de diciembre, se calculará de acuerdo con lo dispuesto en el artículo 17 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.</p>
+<p>En los supuestos en que se haya consignado una “F” en el campo “CLAVE DE VALOR”, el valor de la provisión matemática a 31 de diciembre se calculará de acuerdo con lo dispuesto en el artículo 17 de la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>108 SIGNO: campo alfabético, que se cumplimentará cuando el resultado de la valoración a que se acaba de hacer referencia sea menor que 0 (cero); en este caso se consignará una “N”.</p>
+<p>En cualquier otro caso el contenido del campo será un espacio.</p>
+<p>109-123 IMPORTE: Campo numérico de 15 posiciones. Se consignará el importe resultante de la valoración a que se ha hecho referencia más arriba.</p>
+<p>Los importes deben consignarse en EUROS. El importe no irá precedido de signo alguno (+/–), ni incluirá coma decimal.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>109-121 Parte entera del importe, si no tiene contenido se consignará a ceros.</p>
+<p>122-123 Parte decimal del importe, si no tiene contenido se consignará a ceros.</p>
+<p>Asimismo, cuando existen múltiples declarados, se consignará, en cada uno, la valoración de cada uno de ellos en función del porcentaje de su participación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">124-128</td>
+<td>124-128</td>
 <td>
-<p class="cuerpo_tabla_izq">Numérico.</p>
+<p>Numérico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Porcentaje de participación.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se consignará el porcentaje de titularidad de los valores, seguros o rentas. Se subdivide en dos campos:</p>
-<p class="cuerpo_tabla_izq">124-126 Parte entera del porcentaje; si no tiene contenido, se consignará a ceros.</p>
-<p class="cuerpo_tabla_izq">127-128 Parte decimal del porcentaje; Figurará la parte decimal del porcentaje; si no tiene contenido se consignará a ceros.</p>
+<p>Se consignará el porcentaje de titularidad de los valores, seguros o rentas. Se subdivide en dos campos:</p>
+<p>124-126 Parte entera del porcentaje; si no tiene contenido, se consignará a ceros.</p>
+<p>127-128 Parte decimal del porcentaje; Figurará la parte decimal del porcentaje; si no tiene contenido se consignará a ceros.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">129</td>
-<td class="cuerpo_tabla_izq">Alfabético.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">
+<td>129</td>
+<td>Alfabético.</td>
+<td>
+<p>
 <strong>Clave de titularidad.</strong>
 </p>
-<p class="cuerpo_tabla_izq">Se consignará una de las claves siguientes:</p>
-<p class="cuerpo_tabla_izq">T. Titular pleno propietario.</p>
-<p class="cuerpo_tabla_izq">N. Nudo propietario.</p>
+<p>Se consignará una de las claves siguientes:</p>
+<p>T. Titular pleno propietario.</p>
+<p>N. Nudo propietario.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">130-146</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NÚMERO DE VALORES</p>
-<p class="cuerpo_tabla_izq">Se consignará el número total de acciones o participaciones en el capital o en los fondos propios de entidades jurídicas negociadas en un mercado organizado, de valores representativos de la cesión a terceros de capitales propios negociados en mercados organizados o de acciones o participaciones en el capital social o fondo patrimonial de una institución de inversión colectiva, respecto de los que tenga un determinado porcentaje de participación del declarado.</p>
-<p class="cuerpo_tabla_izq">A estos efectos, cuando existan múltiples declarados, se consignará, en cada uno de ellos, el número de valores total sobre los que tenga un determinado porcentaje de participación.</p>
-<p class="cuerpo_tabla_izq">Solo se informará este campo cuando en el campo “CLAVE DE VALOR”, posición 81, se haya consignado “A”, “B” ó “C”.</p>
-<p class="cuerpo_tabla_izq">Se subdivide en dos campos:</p>
-<p class="cuerpo_tabla_izq">130-140 Parte entera de los valores. Si no tiene contenido, se configurará a ceros.</p>
-<p class="cuerpo_tabla_izq">141-146 Parte decimal de los valores. Si no tiene contenido, se configurará a ceros.</p>
+<td>130-146</td>
+<td>Numérico.</td>
+<td>
+<p>NÚMERO DE VALORES</p>
+<p>Se consignará el número total de acciones o participaciones en el capital o en los fondos propios de entidades jurídicas negociadas en un mercado organizado, de valores representativos de la cesión a terceros de capitales propios negociados en mercados organizados o de acciones o participaciones en el capital social o fondo patrimonial de una institución de inversión colectiva, respecto de los que tenga un determinado porcentaje de participación del declarado.</p>
+<p>A estos efectos, cuando existan múltiples declarados, se consignará, en cada uno de ellos, el número de valores total sobre los que tenga un determinado porcentaje de participación.</p>
+<p>Solo se informará este campo cuando en el campo “CLAVE DE VALOR”, posición 81, se haya consignado “A”, “B” ó “C”.</p>
+<p>Se subdivide en dos campos:</p>
+<p>130-140 Parte entera de los valores. Si no tiene contenido, se configurará a ceros.</p>
+<p>141-146 Parte decimal de los valores. Si no tiene contenido, se configurará a ceros.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">147-164</td>
-<td class="cuerpo_tabla_izq">Numérico.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NOMINAL UNITARIO DE LOS VALORES</p>
-<p class="cuerpo_tabla_izq">Cuando se consigne la clave “A” en el campo “CLAVE DE VALOR” (posición 81 del registro de tipo 2, registro de declarado), se consignará el NOMINAL unitario de las acciones o participaciones en el capital social o en los fondos propios de entidades jurídicas negociadas en mercados organizados correspondiente al declarado.</p>
-<p class="cuerpo_tabla_izq">Este campo se subdivide en dos:</p>
-<p class="cuerpo_tabla_izq">147-160 Parte entera del importe del nominal unitario de la operación.</p>
-<p class="cuerpo_tabla_izq">161-164 Parte decimal del importe del nominal unitario de la operación.</p>
+<td>147-164</td>
+<td>Numérico.</td>
+<td>
+<p>NOMINAL UNITARIO DE LOS VALORES</p>
+<p>Cuando se consigne la clave “A” en el campo “CLAVE DE VALOR” (posición 81 del registro de tipo 2, registro de declarado), se consignará el NOMINAL unitario de las acciones o participaciones en el capital social o en los fondos propios de entidades jurídicas negociadas en mercados organizados correspondiente al declarado.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>147-160 Parte entera del importe del nominal unitario de la operación.</p>
+<p>161-164 Parte decimal del importe del nominal unitario de la operación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">165-500</td>
-<td class="cuerpo_tabla_centro">------------</td>
-<td class="cuerpo_tabla_izq">BLANCOS.</td>
+<td>165-500</td>
+<td>------------</td>
+<td>BLANCOS.</td>
 </tr>
 </tbody>
 </table>

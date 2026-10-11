@@ -1587,38 +1587,33 @@ La base imponible está constituida por los ingresos netos, definidos como el im
 
 1\. La cuota íntegra se obtiene aplicando sobre la base imponible la tarifa señalada en el cuadro siguiente:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tramo de la base imponible comprendido entre (euros)</th>
-<th class="cabeza_tabla">Tipo de gravamen (porcentaje)</th>
+<th colspan="2">Tramo de la base imponible comprendido entre (euros)</th>
+<th>Tipo de gravamen (porcentaje)</th>
 </tr>
 </thead>
-<colgroup>
-<col width="5%">
-<col width="65%">
-<col width="30%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">0 € y 2.000.000,00 €.</td>
-<td class="cuerpo_tabla_centro">20%</td>
+<td>1</td>
+<td>0 € y 2.000.000,00 €.</td>
+<td>20%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">2.000.000,01 € y 4.000.000,00 €.</td>
-<td class="cuerpo_tabla_centro">30%</td>
+<td>2</td>
+<td>2.000.000,01 € y 4.000.000,00 €.</td>
+<td>30%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">4.000.000,01 € y 6.000.000,00 €.</td>
-<td class="cuerpo_tabla_centro">40%</td>
+<td>3</td>
+<td>4.000.000,01 € y 6.000.000,00 €.</td>
+<td>40%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Más de 6.000.000,00 €.</td>
-<td class="cuerpo_tabla_centro">50%</td>
+<td>4</td>
+<td>Más de 6.000.000,00 €.</td>
+<td>50%</td>
 </tr>
 </tbody>
 </table>
@@ -1691,55 +1686,50 @@ b) En los supuestos señalados en las letras *b* y *c* del apartado 2 anterior, 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro, en función de la clasificación de las máquinas o aparatos automáticos aptos para la realización de los juegos:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Clasificación de la máquina o aparato automático apto para la realización de los juegos</p>
+<th colspan="2">
+<p>Clasificación de la máquina o aparato automático apto para la realización de los juegos</p>
 </th>
-<th class="cabeza_tabla">Cuantía trimestral (euros)</th>
+<th>Cuantía trimestral (euros)</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col width="55%">
-<col width="45%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Tipo «B» (recreativas con premio).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td>Tipo «B» (recreativas con premio).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.1</td>
-<td class="cuerpo_tabla_izq">De una sola persona jugadora.</td>
-<td class="cuerpo_tabla_centro">900,00 €.</td>
+<td>1.1</td>
+<td>De una sola persona jugadora.</td>
+<td>900,00 €.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.2</td>
-<td class="cuerpo_tabla_izq">De una sola persona jugadora, que tengan limitada la apuesta máxima a 10 céntimos de euro y que no permitan la realización de partidas simultáneas.</td>
-<td class="cuerpo_tabla_centro">275,00 €.</td>
+<td>1.2</td>
+<td>De una sola persona jugadora, que tengan limitada la apuesta máxima a 10 céntimos de euro y que no permitan la realización de partidas simultáneas.</td>
+<td>275,00 €.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.3</td>
-<td class="cuerpo_tabla_izq">En las que puedan intervenir dos o más personas jugadoras, siempre que el juego de cada uno de ellos sea independiente del realizado por las demás.</td>
-<td class="cuerpo_tabla_centro">1.500,00 € + (10% cuota del apartado 1.1 x número de personas jugadoras)</td>
+<td>1.3</td>
+<td>En las que puedan intervenir dos o más personas jugadoras, siempre que el juego de cada uno de ellos sea independiente del realizado por las demás.</td>
+<td>1.500,00 € + (10% cuota del apartado 1.1 x número de personas jugadoras)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Tipo «C» (azar).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td>Tipo «C» (azar).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.1</td>
-<td class="cuerpo_tabla_izq">De una sola persona jugadora.</td>
-<td class="cuerpo_tabla_centro">1.295,00 €.</td>
+<td>2.1</td>
+<td>De una sola persona jugadora.</td>
+<td>1.295,00 €.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.2</td>
-<td class="cuerpo_tabla_izq">En las que puedan intervenir dos o más personas jugadoras, siempre que el juego de cada uno de ellos sea independiente del realizado por las demás.</td>
-<td class="cuerpo_tabla_centro">2.158,00 € + (10% cuota de una persona jugadora x número de personas jugadoras)</td>
+<td>2.2</td>
+<td>En las que puedan intervenir dos o más personas jugadoras, siempre que el juego de cada uno de ellos sea independiente del realizado por las demás.</td>
+<td>2.158,00 € + (10% cuota de una persona jugadora x número de personas jugadoras)</td>
 </tr>
 </tbody>
 </table>

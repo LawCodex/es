@@ -142,211 +142,194 @@ Dos. En los Estados de Ingresos de los Entes referidos en el número anterior se
 
 Tres. Para las transferencias internas entre los Entes referidos en el número uno de este artículo se conceden créditos por importe de 2.659.510.990 miles de pesetas, con el siguiente desglose por Entes:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Transferencias</p>
-<p class="cabeza_tabla">Según origen</p>
+<th rowspan="2">
+<p>Transferencias</p>
+<p>Según origen</p>
 </th>
-<th class="cabeza_tabla" colspan="8">Transferencias según destino</th>
+<th colspan="8">Transferencias según destino</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Estado</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">OO.AA</p>
-<p class="cabeza_tabla">‒</p>
-<p class="cabeza_tabla">AA.</p>
+<th>Estado</th>
+<th>
+<p>OO.AA</p>
+<p>‒</p>
+<p>AA.</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">OO.AA</p>
-<p class="cabeza_tabla">‒</p>
-<p class="cabeza_tabla">CC.</p>
+<th>
+<p>OO.AA</p>
+<p>‒</p>
+<p>CC.</p>
 </th>
-<th class="cabeza_tabla">Seguridad Social</th>
-<th class="cabeza_tabla">Consejo Seguridad Nuclear</th>
-<th class="cabeza_tabla">Consejo Administración del Patrimonio Nacional</th>
-<th class="cabeza_tabla">Instituto Español de Comercio Exterior</th>
-<th class="cabeza_tabla">Total</th>
+<th>Seguridad Social</th>
+<th>Consejo Seguridad Nuclear</th>
+<th>Consejo Administración del Patrimonio Nacional</th>
+<th>Instituto Español de Comercio Exterior</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Estado.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">732.933.783</td>
-<td class="cuerpo_tabla_der">139.022.287</td>
-<td class="cuerpo_tabla_der">1.367.014.401</td>
-<td class="cuerpo_tabla_der">55.000</td>
-<td class="cuerpo_tabla_der">6.389.000</td>
-<td class="cuerpo_tabla_der">15.749.000</td>
-<td class="cuerpo_tabla_der">2.261.213.471</td>
+<td>Estado.</td>
+<td> </td>
+<td>732.933.783</td>
+<td>139.022.287</td>
+<td>1.367.014.401</td>
+<td>55.000</td>
+<td>6.389.000</td>
+<td>15.749.000</td>
+<td>2.261.213.471</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OO.AA. Administrativos.</td>
-<td class="cuerpo_tabla_der">17.248.077</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">300.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">17.548.077</td>
+<td>OO.AA. Administrativos.</td>
+<td>17.248.077</td>
+<td> </td>
+<td> </td>
+<td>300.000</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>17.548.077</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OO.AA Comerciales, Industriales, Financieros o análogos.</td>
-<td class="cuerpo_tabla_der">206.525.255</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.825.222</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">219.350.477</td>
+<td>OO.AA Comerciales, Industriales, Financieros o análogos.</td>
+<td>206.525.255</td>
+<td> </td>
+<td>12.825.222</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>219.350.477</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Social.</td>
-<td class="cuerpo_tabla_der">60.067.101</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">101.331.864</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">161.398.965</td>
+<td>Seguridad Social.</td>
+<td>60.067.101</td>
+<td> </td>
+<td> </td>
+<td>101.331.864</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>161.398.965</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consejo de Seguridad Nuclear.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Consejo de Seguridad Nuclear.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consejo de Administración del Patrimonio Nacional.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Consejo de Administración del Patrimonio Nacional.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instituto Español de Comercio Exterior.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Instituto Español de Comercio Exterior.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_der">283.840.433</td>
-<td class="cuerpo_tabla_der">732.933.783</td>
-<td class="cuerpo_tabla_der">151.847.509</td>
-<td class="cuerpo_tabla_der">1.468.646.265</td>
-<td class="cuerpo_tabla_der">55.000</td>
-<td class="cuerpo_tabla_der">6.389.000</td>
-<td class="cuerpo_tabla_der">15.749.000</td>
-<td class="cuerpo_tabla_der">2.659.510.990</td>
+<td>Total.</td>
+<td>283.840.433</td>
+<td>732.933.783</td>
+<td>151.847.509</td>
+<td>1.468.646.265</td>
+<td>55.000</td>
+<td>6.389.000</td>
+<td>15.749.000</td>
+<td>2.659.510.990</td>
 </tr>
 </tbody>
 </table>
 
 Cuatro. Los créditos incluidos en los Programas y Transferencias entre subsectores de los Estados de Gastos aprobados en este artículo se distribuyen orgánica y económicamente, expresados en miles de pesetas, según se indica a continuación:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Entes</th>
-<th class="cabeza_tabla" colspan="3">Capítulos económicos</th>
+<th rowspan="2">Entes</th>
+<th colspan="3">Capítulos económicos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Capítulos I a VII</p>
-<p class="cabeza_tabla">Gastos no financieros</p>
+<th>
+<p>Capítulos I a VII</p>
+<p>Gastos no financieros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Capítulo VIII</p>
-<p class="cabeza_tabla">Activos financieros</p>
+<th>
+<p>Capítulo VIII</p>
+<p>Activos financieros</p>
 </th>
-<th class="cabeza_tabla">Total gastos</th>
+<th>Total gastos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Estado.</td>
-<td class="cuerpo_tabla_der">9.895.423.987</td>
-<td class="cuerpo_tabla_der">417.011.751</td>
-<td class="cuerpo_tabla_der">10.312.435.738</td>
+<td>Estado.</td>
+<td>9.895.423.987</td>
+<td>417.011.751</td>
+<td>10.312.435.738</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organismos Autónomos Administrativos.</td>
-<td class="cuerpo_tabla_der">1.666.765.406</td>
-<td class="cuerpo_tabla_der">52.146.660</td>
-<td class="cuerpo_tabla_der">1.718.912.066</td>
+<td>Organismos Autónomos Administrativos.</td>
+<td>1.666.765.406</td>
+<td>52.146.660</td>
+<td>1.718.912.066</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organismos Autónomos, Comerciales. Industriales. Financieros o análogos.</td>
-<td class="cuerpo_tabla_der">716.294.714</td>
-<td class="cuerpo_tabla_der">63.325 308</td>
-<td class="cuerpo_tabla_der">779.619.922</td>
+<td>Organismos Autónomos, Comerciales. Industriales. Financieros o análogos.</td>
+<td>716.294.714</td>
+<td>63.325 308</td>
+<td>779.619.922</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Social.</td>
-<td class="cuerpo_tabla_der">5.538 243.806</td>
-<td class="cuerpo_tabla_der">31.467.086</td>
-<td class="cuerpo_tabla_der">5.569.710.892</td>
+<td>Seguridad Social.</td>
+<td>5.538 243.806</td>
+<td>31.467.086</td>
+<td>5.569.710.892</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consejo de Seguridad Nuclear.</td>
-<td class="cuerpo_tabla_der">3.813.830</td>
-<td class="cuerpo_tabla_der">20.000</td>
-<td class="cuerpo_tabla_der">3.833.830</td>
+<td>Consejo de Seguridad Nuclear.</td>
+<td>3.813.830</td>
+<td>20.000</td>
+<td>3.833.830</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consejo de Administración del Patrimonio Nacional.</td>
-<td class="cuerpo_tabla_der">7.401.253</td>
-<td class="cuerpo_tabla_der">2.000</td>
-<td class="cuerpo_tabla_der">7.403.253</td>
+<td>Consejo de Administración del Patrimonio Nacional.</td>
+<td>7.401.253</td>
+<td>2.000</td>
+<td>7.403.253</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instituto Español de Comercio Exterior.</td>
-<td class="cuerpo_tabla_der">17.080.000</td>
-<td class="cuerpo_tabla_der">–</td>
-<td class="cuerpo_tabla_der">17.080.000</td>
+<td>Instituto Español de Comercio Exterior.</td>
+<td>17.080.000</td>
+<td>–</td>
+<td>17.080.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_der">17.845.022.996</td>
-<td class="cuerpo_tabla_der">563.972.705</td>
-<td class="cuerpo_tabla_der">18.408.995.701</td>
+<td>Total.</td>
+<td>17.845.022.996</td>
+<td>563.972.705</td>
+<td>18.408.995.701</td>
 </tr>
 </tbody>
 </table>
@@ -2562,46 +2545,46 @@ Uno. El apartado 1 del artículo 22 de la Ley 29/1987, de 18 de diciembre, del I
 
 «1. La cuota tributaria por este impuesto se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Patrimonio preexistente</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Millones de pesetas</p>
+<p>Patrimonio preexistente</p>
+<p>–</p>
+<p>Millones de pesetas</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Grupos del artículo 20</th>
+<th colspan="3">Grupos del artículo 20</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">I y II</th>
-<th class="cabeza_tabla">III</th>
-<th class="cabeza_tabla">IV</th>
+<th>I y II</th>
+<th>III</th>
+<th>IV</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">De 0 a 51,5.</td>
-<td class="cuerpo_tabla_centro">1,0000</td>
-<td class="cuerpo_tabla_centro">1,5882</td>
-<td class="cuerpo_tabla_centro">2,0000</td>
+<td>De 0 a 51,5.</td>
+<td>1,0000</td>
+<td>1,5882</td>
+<td>2,0000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 51,5 a 257,5.</td>
-<td class="cuerpo_tabla_centro">1,0500</td>
-<td class="cuerpo_tabla_centro">1,6676</td>
-<td class="cuerpo_tabla_centro">2,1000</td>
+<td>De más de 51,5 a 257,5.</td>
+<td>1,0500</td>
+<td>1,6676</td>
+<td>2,1000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 257,5 a 515.</td>
-<td class="cuerpo_tabla_centro">1,1000</td>
-<td class="cuerpo_tabla_centro">1,7471</td>
-<td class="cuerpo_tabla_centro">2,2000</td>
+<td>De más de 257,5 a 515.</td>
+<td>1,1000</td>
+<td>1,7471</td>
+<td>2,2000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 515.</td>
-<td class="cuerpo_tabla_centro">1,2000</td>
-<td class="cuerpo_tabla_centro">1,9059</td>
-<td class="cuerpo_tabla_centro">2,4000</td>
+<td>De más de 515.</td>
+<td>1,2000</td>
+<td>1,9059</td>
+<td>2,4000</td>
 </tr>
 </tbody>
 </table>
@@ -2928,393 +2911,387 @@ Cuatro. 1. De acuerdo con lo dispuesto en la disposición adicional novena, tres
 
 Valor de la Unidad de Reserva Radioeléctrica (U. R. R.) para los distintos servicios y frecuencias
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2">Frecuencia</th>
-<th class="cabeza_tabla" colspan="2">Pts/U.R.R</th>
+<th rowspan="2"> </th>
+<th rowspan="2">Frecuencia</th>
+<th colspan="2">Pts/U.R.R</th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Servicio</p>
-<p class="cabeza_tabla">de naturaleza</p>
-<p class="cabeza_tabla">privada</p>
+<p>Servicio</p>
+<p>de naturaleza</p>
+<p>privada</p>
 </th>
 <th>
-<p class="cabeza_tabla">Servicio</p>
-<p class="cabeza_tabla">de naturaleza</p>
-<p class="cabeza_tabla">pública</p>
+<p>Servicio</p>
+<p>de naturaleza</p>
+<p>pública</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Servicio fijo:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1. Servicio fijo:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1 Servicio fijo en frecuencias inferiores a 30 MHz.</p>
-<p class="cuerpo_tabla_izq">1.2 Servicio fijo en frecuencias 30 MHz ≤ F ≤ 470 MHz.</p>
+<p>1.1 Servicio fijo en frecuencias inferiores a 30 MHz.</p>
+<p>1.2 Servicio fijo en frecuencias 30 MHz ≤ F ≤ 470 MHz.</p>
 </td>
-<td class="cuerpo_tabla_izq">F &lt; 30 MHz.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>F &lt; 30 MHz.</td>
+<td>40</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">1.2.1 Servicio fijo punto a punto, con uno o varios vanos.</td>
-<td class="cuerpo_tabla_izq">30 MHz ≤ F ≤ 87,5 MHz.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-1</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-2</sup></td>
+<td rowspan="3">1.2.1 Servicio fijo punto a punto, con uno o varios vanos.</td>
+<td>30 MHz ≤ F ≤ 87,5 MHz.</td>
+<td>5. 10<sup>-1</sup></td>
+<td>5. 10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">146 MHz ≤ F ≤ 174 MHz.</td>
-<td class="cuerpo_tabla_centro">25. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">25. 10<sup>-3</sup></td>
+<td>146 MHz ≤ F ≤ 174 MHz.</td>
+<td>25. 10<sup>-2</sup></td>
+<td>25. 10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">223 MHz ≤ F≤ 470 MHz.</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td>223 MHz ≤ F≤ 470 MHz.</td>
+<td>10<sup>-1</sup></td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">1.2.2 Servicio fijo punto-multipunto.</td>
-<td class="cuerpo_tabla_izq">30 MHz ≤ F ≤ 87,5 MHz.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-1</sup></td>
+<td rowspan="3">1.2.2 Servicio fijo punto-multipunto.</td>
+<td>30 MHz ≤ F ≤ 87,5 MHz.</td>
+<td>5</td>
+<td>5. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">146 MHz ≤ F ≤ 174 MHz.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">7. 10<sup>-1</sup></td>
+<td>146 MHz ≤ F ≤ 174 MHz.</td>
+<td>7</td>
+<td>7. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">223 MHz ≤ F ≤ 470 MHz.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">8. 10<sup>-1</sup></td>
+<td>223 MHz ≤ F ≤ 470 MHz.</td>
+<td>8</td>
+<td>8. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3 Servicio fijo en frecuencias F ≥ 830 MHZ.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1.3 Servicio fijo en frecuencias F ≥ 830 MHZ.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">1.3.1 Servicio fijo punto a punto, con uno o varios vanos.</td>
-<td class="cuerpo_tabla_izq">830 MHz ≤ F ≤ 960 MHz.</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td rowspan="5">1.3.1 Servicio fijo punto a punto, con uno o varios vanos.</td>
+<td>830 MHz ≤ F ≤ 960 MHz.</td>
+<td>10<sup>-1</sup></td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.350 MHz ≤ F ≤ 2.700 MHz.</td>
-<td class="cuerpo_tabla_centro">35. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">35. 10<sup>-3</sup></td>
+<td>1.350 MHz ≤ F ≤ 2.700 MHz.</td>
+<td>35. 10<sup>-2</sup></td>
+<td>35. 10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.400 MHz ≤ F ≤ 8.500 MHz.</td>
-<td class="cuerpo_tabla_centro">85. 10<sup>-3</sup></td>
-<td class="cuerpo_tabla_centro">85. 10<sup>-4</sup></td>
+<td>3.400 MHz ≤ F ≤ 8.500 MHz.</td>
+<td>85. 10<sup>-3</sup></td>
+<td>85. 10<sup>-4</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10 GHz ≤ F ≤ 23,60 GHz.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
+<td>10 GHz ≤ F ≤ 23,60 GHz.</td>
+<td>1</td>
+<td>10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">23,60 GHz &lt; F.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4. 10<sup>-1</sup></td>
+<td>23,60 GHz &lt; F.</td>
+<td>4</td>
+<td>4. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">1.3.2 Servicio fijo punto-multipunto.</td>
-<td class="cuerpo_tabla_izq">830 MHz ≤ F ≤ 960 MHz.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-3</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-4</sup></td>
+<td rowspan="5">1.3.2 Servicio fijo punto-multipunto.</td>
+<td>830 MHz ≤ F ≤ 960 MHz.</td>
+<td>5. 10<sup>-3</sup></td>
+<td>5. 10<sup>-4</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.350 MHz ≤ F ≤ 2.700 MHz.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-3</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-4</sup></td>
+<td>1.350 MHz ≤ F ≤ 2.700 MHz.</td>
+<td>5. 10<sup>-3</sup></td>
+<td>5. 10<sup>-4</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.400 MHz ≤ F ≤ 8.500 MHz.</td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-3</sup></td>
+<td>3.400 MHz ≤ F ≤ 8.500 MHz.</td>
+<td>10<sup>-2</sup></td>
+<td>10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10 GHz ≤ F ≤ 23,60 GHz.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-3</sup></td>
+<td>10 GHz ≤ F ≤ 23,60 GHz.</td>
+<td>5. 10<sup>-2</sup></td>
+<td>5. 10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">23,60 GHz &lt; F.</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td>23,60 GHz &lt; F.</td>
+<td>10<sup>-1</sup></td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2. Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos, en frecuencias inferiores a 26 MHz.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">F &lt; 26 MHz.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro" rowspan="2">2. 10<sup>-3</sup></td>
+<td>2.1 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos, en frecuencias inferiores a 26 MHz.</td>
+<td rowspan="2">F &lt; 26 MHz.</td>
+<td rowspan="2">2. 10<sup>-2</sup></td>
+<td rowspan="2">2. 10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos, en frecuencias 26 MHz ≤ F ≤ 470 MHz.</td>
+<td>2.2 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos, en frecuencias 26 MHz ≤ F ≤ 470 MHz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">2.2.1 Servicios de telemando, telemedida, teleseñalización, o micrófono inalámbrico móviles, y servicio móvil terrestre autorizado sólo para uso en el interior de un recinto.</td>
-<td class="cuerpo_tabla_izq">26 MHz ≤ F ≤ 88 MHz.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="3">2.2.1 Servicios de telemando, telemedida, teleseñalización, o micrófono inalámbrico móviles, y servicio móvil terrestre autorizado sólo para uso en el interior de un recinto.</td>
+<td>26 MHz ≤ F ≤ 88 MHz.</td>
+<td>100</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">138 MHz ≤ F ≤ 174 MHz.</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>138 MHz ≤ F ≤ 174 MHz.</td>
+<td>150</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">223 MHz ≤ F ≤ 470 MHz.</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>223 MHz ≤ F ≤ 470 MHz.</td>
+<td>200</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">2.2.2 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos no contemplados en el 2.2.1.</td>
-<td class="cuerpo_tabla_izq">26 MHz ≤ F ≤ 88 MHz.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-1</sup></td>
+<td rowspan="3">2.2.2 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos no contemplados en el 2.2.1.</td>
+<td>26 MHz ≤ F ≤ 88 MHz.</td>
+<td>5</td>
+<td>5. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">138 MHz ≤ F ≤ 174 MHz.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">7. 10<sup>-1</sup></td>
+<td>138 MHz ≤ F ≤ 174 MHz.</td>
+<td>7</td>
+<td>7. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">223 MHz ≤ F ≤ 470 MHz.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">8. 10<sup>-1</sup></td>
+<td>223 MHz ≤ F ≤ 470 MHz.</td>
+<td>8</td>
+<td>8. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos, en frecuencia F ≥ 830 MHz.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.3 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos, en frecuencia F ≥ 830 MHz.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">2.3.1 Servicios de telemando, telemedida, teleseñalización o micrófono inalámbrico móviles, y servicio móvil terrestre autorizado sólo para uso en el interior de un recinto.</td>
-<td class="cuerpo_tabla_izq">830 MHz ≤ F ≤ 960 MHz.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="5">2.3.1 Servicios de telemando, telemedida, teleseñalización o micrófono inalámbrico móviles, y servicio móvil terrestre autorizado sólo para uso en el interior de un recinto.</td>
+<td>830 MHz ≤ F ≤ 960 MHz.</td>
+<td>100</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.350 MHz ≤ F ≤ 2.700 MHz.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-1</sup></td>
+<td>1.350 MHz ≤ F ≤ 2.700 MHz.</td>
+<td>5</td>
+<td>5. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.400 MHz ≤ F ≤ 8.500 MHz.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3.400 MHz ≤ F ≤ 8.500 MHz.</td>
+<td>10</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10 GHz ≤ F ≤ 23,60 GHz.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>10 GHz ≤ F ≤ 23,60 GHz.</td>
+<td>50</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">23,60 GHz &lt; F.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>23,60 GHz &lt; F.</td>
+<td>100</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">2.3.2 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos no contemplados en el 2.3.1.</td>
-<td class="cuerpo_tabla_izq">830 MHz ≤ F ≤ 960 MHz.</td>
-<td class="cuerpo_tabla_centro">10<sup>-3</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-4</sup></td>
+<td rowspan="5">2.3.2 Servicios móvil terrestre, de operaciones portuarias y de movimiento de barcos no contemplados en el 2.3.1.</td>
+<td>830 MHz ≤ F ≤ 960 MHz.</td>
+<td>10<sup>-3</sup></td>
+<td>10<sup>-4</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.350 MHz ≤ F ≤ 2.700 MHz.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-3</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-4</sup></td>
+<td>1.350 MHz ≤ F ≤ 2.700 MHz.</td>
+<td>5. 10<sup>-3</sup></td>
+<td>5. 10<sup>-4</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.400 MHz ≤ F ≤ 8.500 MHz.</td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-3</sup></td>
+<td>3.400 MHz ≤ F ≤ 8.500 MHz.</td>
+<td>10<sup>-2</sup></td>
+<td>10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10 GHz ≤ F ≤ 23,60 GHz.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-3</sup></td>
+<td>10 GHz ≤ F ≤ 23,60 GHz.</td>
+<td>5. 10<sup>-2</sup></td>
+<td>5. 10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">23,60 GHz &lt; F.</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td>23,60 GHz &lt; F.</td>
+<td>10<sup>-1</sup></td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Servicio móvil marítimo:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3. Servicio móvil marítimo:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 Servicio móvil marítimo en frecuencias inferiores a 3 MHz.</td>
-<td class="cuerpo_tabla_izq">F &lt; 3 MHz.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
+<td>3.1 Servicio móvil marítimo en frecuencias inferiores a 3 MHz.</td>
+<td>F &lt; 3 MHz.</td>
+<td>1</td>
+<td>10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2 Servicio móvil marítimo en frecuencias 3 MHz ≤ F ≤ 30 MHz.</td>
-<td class="cuerpo_tabla_izq">3 MHz ≤ F ≤ 30 MHz.</td>
-<td class="cuerpo_tabla_centro">1.000</td>
-<td class="cuerpo_tabla_centro">100</td>
+<td>3.2 Servicio móvil marítimo en frecuencias 3 MHz ≤ F ≤ 30 MHz.</td>
+<td>3 MHz ≤ F ≤ 30 MHz.</td>
+<td>1.000</td>
+<td>100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.3 Servicio móvil marítimo en ondas métricas.</td>
-<td class="cuerpo_tabla_izq">30 MHz &lt; F ≤ 300 MHz.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-1</sup></td>
+<td>3.3 Servicio móvil marítimo en ondas métricas.</td>
+<td>30 MHz &lt; F ≤ 300 MHz.</td>
+<td>5</td>
+<td>5. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Servicio móvil aeronáutico:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4. Servicio móvil aeronáutico:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1 Servicio móvil aeronáutico en frecuencias 3 MHz ≤ F ≤ 30 MHz.</td>
-<td class="cuerpo_tabla_izq">3 MHz ≤ F ≤ 30 MHz.</td>
-<td class="cuerpo_tabla_centro">800</td>
-<td class="cuerpo_tabla_centro">80</td>
+<td>4.1 Servicio móvil aeronáutico en frecuencias 3 MHz ≤ F ≤ 30 MHz.</td>
+<td>3 MHz ≤ F ≤ 30 MHz.</td>
+<td>800</td>
+<td>80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2 Servicio móvil aeronáutico en ondas métricas.</td>
-<td class="cuerpo_tabla_izq">30 MHz &lt; F ≤ 300 MHz.</td>
-<td class="cuerpo_tabla_centro">3. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">3. 10<sup>-3</sup></td>
+<td>4.2 Servicio móvil aeronáutico en ondas métricas.</td>
+<td>30 MHz &lt; F ≤ 300 MHz.</td>
+<td>3. 10<sup>-2</sup></td>
+<td>3. 10<sup>-3</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Servicio de radiodifusión:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5. Servicio de radiodifusión:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1 Radiodifusión sonora.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5.1 Radiodifusión sonora.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.1 Radiodifusión sonora en ondas kilométricas 30 KHz ≤ F ≤ 300 KHz.</td>
-<td class="cuerpo_tabla_izq">148,5 KHz ≤ F ≤ 283,5 KHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>5.1.1 Radiodifusión sonora en ondas kilométricas 30 KHz ≤ F ≤ 300 KHz.</td>
+<td>148,5 KHz ≤ F ≤ 283,5 KHz.</td>
+<td>–</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.2 Radiodifusión sonora en ondas hectométricas 300 KHz &lt; F ≤ 3.000 K.Hz.</td>
-<td class="cuerpo_tabla_izq">526,5 KHz ≤ F ≤ 1.606,5 KHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>5.1.2 Radiodifusión sonora en ondas hectométricas 300 KHz &lt; F ≤ 3.000 K.Hz.</td>
+<td>526,5 KHz ≤ F ≤ 1.606,5 KHz.</td>
+<td>–</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.3 Radiodifusión sonora en ondas decamétricas 3 MHz &lt; F ≤ 30 MHz.</td>
-<td class="cuerpo_tabla_izq">3 MHz &lt; F ≤ 30 MHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>5.1.3 Radiodifusión sonora en ondas decamétricas 3 MHz &lt; F ≤ 30 MHz.</td>
+<td>3 MHz &lt; F ≤ 30 MHz.</td>
+<td>–</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.4 Radiodifusión sonora en ondas métricas 30 MHz &lt; F ≤ 300 MHz.</td>
-<td class="cuerpo_tabla_izq">87,5 MHz ≤ F ≤ 108 MHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">2. 10<sup>-1</sup></td>
+<td>5.1.4 Radiodifusión sonora en ondas métricas 30 MHz &lt; F ≤ 300 MHz.</td>
+<td>87,5 MHz ≤ F ≤ 108 MHz.</td>
+<td>–</td>
+<td>2. 10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2 Televisión.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5.2 Televisión.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">5.2.1 Televisión en ondas métricas.</p>
-<p class="cuerpo_tabla_izq">5.2.2 Televisión en ondas decimétricas.</p>
+<p>5.2.1 Televisión en ondas métricas.</p>
+<p>5.2.2 Televisión en ondas decimétricas.</p>
 </td>
-<td class="cuerpo_tabla_izq">47 MHz ≤ F ≤ 68 MHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td>47 MHz ≤ F ≤ 68 MHz.</td>
+<td>–</td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">174 MHz ≤ F ≤ 223 MHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td>174 MHz ≤ F ≤ 223 MHz.</td>
+<td>–</td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">470 MHz ≤ F ≤ 830 MHz.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10<sup>-2</sup></td>
+<td>470 MHz ≤ F ≤ 830 MHz.</td>
+<td>–</td>
+<td>10<sup>-2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Servicios de radionavegación, radiodeterminación y radiolocalización:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6. Servicios de radionavegación, radiodeterminación y radiolocalización:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Radionavegación.</td>
-<td class="cuerpo_tabla_izq">En todas las frecuencias autorizadas para estos servicios.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10<sup>-1</sup></td>
+<td>Radionavegación.</td>
+<td>En todas las frecuencias autorizadas para estos servicios.</td>
+<td>1</td>
+<td>10<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Radiodeterminación.</td>
-<td class="cuerpo_tabla_izq">En todas las frecuencias autorizadas para estos servicios.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Radiodeterminación.</td>
+<td>En todas las frecuencias autorizadas para estos servicios.</td>
+<td>50</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Radiolocalización.</td>
-<td class="cuerpo_tabla_izq">En todas las frecuencias autorizadas para estos servicios.</td>
-<td class="cuerpo_tabla_centro">10<sup>-4</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-5</sup></td>
+<td>Radiolocalización.</td>
+<td>En todas las frecuencias autorizadas para estos servicios.</td>
+<td>10<sup>-4</sup></td>
+<td>10<sup>-5</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Servicio de aficionados.</td>
-<td class="cuerpo_tabla_izq">En todas las frecuencias autorizadas para este servicio.</td>
-<td class="cuerpo_tabla_centro">98. 10<sup>-3</sup></td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>7. Servicio de aficionados.</td>
+<td>En todas las frecuencias autorizadas para este servicio.</td>
+<td>98. 10<sup>-3</sup></td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Estaciones SERT-27.</td>
-<td class="cuerpo_tabla_izq">26,965 MHz ≤ F ≤ 27,405 MHz.</td>
-<td class="cuerpo_tabla_centro">22. 10<sup>-2</sup></td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>8. Estaciones SERT-27.</td>
+<td>26,965 MHz ≤ F ≤ 27,405 MHz.</td>
+<td>22. 10<sup>-2</sup></td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Servicios fijos por satélite, de investigación espacial y de operaciones espaciales.</td>
-<td class="cuerpo_tabla_izq">En todas las frecuencias autorizadas para estos servicios.</td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-5</sup></td>
-<td class="cuerpo_tabla_centro">5. 10<sup>-6</sup></td>
+<td>9. Servicios fijos por satélite, de investigación espacial y de operaciones espaciales.</td>
+<td>En todas las frecuencias autorizadas para estos servicios.</td>
+<td>5. 10<sup>-5</sup></td>
+<td>5. 10<sup>-6</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Servicio móvil por satélite.</td>
-<td class="cuerpo_tabla_izq">En todas las frecuencias autorizadas para este servicio.</td>
-<td class="cuerpo_tabla_centro">10<sup>-4</sup></td>
-<td class="cuerpo_tabla_centro">10<sup>-5</sup></td>
+<td>10. Servicio móvil por satélite.</td>
+<td>En todas las frecuencias autorizadas para este servicio.</td>
+<td>10<sup>-4</sup></td>
+<td>10<sup>-5</sup></td>
 </tr>
 </tbody>
 </table>
@@ -4411,1536 +4388,1530 @@ FELIPE GONZÁLEZ MÁRQUEZ
 
 ## ANEXO I — Distribución por Programas
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Programas</th>
-<th class="cabeza_tabla" colspan="3">Dotaciones</th>
+<th rowspan="2">Programas</th>
+<th colspan="3">Dotaciones</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Capítulos I a VIII</th>
-<th class="cabeza_tabla">Capítulo IX</th>
-<th class="cabeza_tabla">Total</th>
+<th>Capítulos I a VIII</th>
+<th>Capítulo IX</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Jefatura del Estado.</td>
-<td class="cuerpo_tabla_der">750.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">750.000</td>
+<td>Jefatura del Estado.</td>
+<td>750.000</td>
+<td> </td>
+<td>750.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actividad Legislativa.</td>
-<td class="cuerpo_tabla_der">11.495.861</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.495.861</td>
+<td>Actividad Legislativa.</td>
+<td>11.495.861</td>
+<td> </td>
+<td>11.495.861</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Control Externo del Sector Público.</td>
-<td class="cuerpo_tabla_der">2.594.314</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.594.314</td>
+<td>Control Externo del Sector Público.</td>
+<td>2.594.314</td>
+<td> </td>
+<td>2.594.314</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Control Constitucional.</td>
-<td class="cuerpo_tabla_der">1.042.403</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.042 403</td>
+<td>Control Constitucional.</td>
+<td>1.042.403</td>
+<td> </td>
+<td>1.042 403</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidencia del Gobierno.</td>
-<td class="cuerpo_tabla_der">2.121.329</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.121.329</td>
+<td>Presidencia del Gobierno.</td>
+<td>2.121.329</td>
+<td> </td>
+<td>2.121.329</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alto Asesoramiento del Estado.</td>
-<td class="cuerpo_tabla_der">517.813</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">517.813</td>
+<td>Alto Asesoramiento del Estado.</td>
+<td>517.813</td>
+<td> </td>
+<td>517.813</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relaciones con las Cortes Generales y Secretariado del Gobierno.</td>
-<td class="cuerpo_tabla_der">2.762.569</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.762.569</td>
+<td>Relaciones con las Cortes Generales y Secretariado del Gobierno.</td>
+<td>2.762.569</td>
+<td> </td>
+<td>2.762.569</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de la Administración General.</td>
-<td class="cuerpo_tabla_der">2.082.096</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.082.096</td>
+<td>Dirección y Servicios Generales de la Administración General.</td>
+<td>2.082.096</td>
+<td> </td>
+<td>2.082.096</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Organización de la Administración Pública.</td>
-<td class="cuerpo_tabla_der">2.904.079</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.904.079</td>
+<td>Dirección y Organización de la Administración Pública.</td>
+<td>2.904.079</td>
+<td> </td>
+<td>2.904.079</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal de la Administración General.</td>
-<td class="cuerpo_tabla_der">2.725.931</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.725.931</td>
+<td>Formación del Personal de la Administración General.</td>
+<td>2.725.931</td>
+<td> </td>
+<td>2.725.931</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo a la Gestión Administrativa de la Jefatura del Estado.</td>
-<td class="cuerpo_tabla_der">577.754</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">577.754</td>
+<td>Apoyo a la Gestión Administrativa de la Jefatura del Estado.</td>
+<td>577.754</td>
+<td> </td>
+<td>577.754</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cooperación con las Administraciones Territoriales.</td>
-<td class="cuerpo_tabla_der">174.289</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">174.289</td>
+<td>Cooperación con las Administraciones Territoriales.</td>
+<td>174.289</td>
+<td> </td>
+<td>174.289</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Régimen Jurídico de las Administraciones Territoriales.</td>
-<td class="cuerpo_tabla_der">187.851</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">187.851</td>
+<td>Régimen Jurídico de las Administraciones Territoriales.</td>
+<td>187.851</td>
+<td> </td>
+<td>187.851</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Análisis Económico de las Administraciones Territoriales.</td>
-<td class="cuerpo_tabla_der">156.733</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">156.733</td>
+<td>Análisis Económico de las Administraciones Territoriales.</td>
+<td>156.733</td>
+<td> </td>
+<td>156.733</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coordinación y Relaciones Financieras con Comunidades Autónomas.</td>
-<td class="cuerpo_tabla_der">323.008</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">323.008</td>
+<td>Coordinación y Relaciones Financieras con Comunidades Autónomas.</td>
+<td>323.008</td>
+<td> </td>
+<td>323.008</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coordinación y Relaciones Financieras con Corporaciones Locales.</td>
-<td class="cuerpo_tabla_der">324.992</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">324.992</td>
+<td>Coordinación y Relaciones Financieras con Corporaciones Locales.</td>
+<td>324.992</td>
+<td> </td>
+<td>324.992</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Infraestructura para situaciones de crisis y comunicaciones especiales.</td>
-<td class="cuerpo_tabla_der">683.935</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">683.935</td>
+<td>Infraestructura para situaciones de crisis y comunicaciones especiales.</td>
+<td>683.935</td>
+<td> </td>
+<td>683.935</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobertura informativa.</td>
-<td class="cuerpo_tabla_der">5.379.508</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.379.508</td>
+<td>Cobertura informativa.</td>
+<td>5.379.508</td>
+<td> </td>
+<td>5.379.508</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Boletín Oficial del Estado.</td>
-<td class="cuerpo_tabla_der">3.269.188</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.269.188</td>
+<td>Boletín Oficial del Estado.</td>
+<td>3.269.188</td>
+<td> </td>
+<td>3.269.188</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asesoramiento y Defensa de los Intereses del Estado.</td>
-<td class="cuerpo_tabla_der">1.825.114</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.825.114</td>
+<td>Asesoramiento y Defensa de los Intereses del Estado.</td>
+<td>1.825.114</td>
+<td> </td>
+<td>1.825.114</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios de Transportes de Ministerios.</td>
-<td class="cuerpo_tabla_der">9.236.431</td>
-<td class="cuerpo_tabla_der">1.510</td>
-<td class="cuerpo_tabla_der">9.237.941</td>
+<td>Servicios de Transportes de Ministerios.</td>
+<td>9.236.431</td>
+<td>1.510</td>
+<td>9.237.941</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Publicaciones.</td>
-<td class="cuerpo_tabla_der">2.040.233</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.040.233</td>
+<td>Publicaciones.</td>
+<td>2.040.233</td>
+<td> </td>
+<td>2.040.233</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Asuntos Exteriores.</td>
-<td class="cuerpo_tabla_der">5.733.097</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.733.097</td>
+<td>Dirección y Servicios Generales de Asuntos Exteriores.</td>
+<td>5.733.097</td>
+<td> </td>
+<td>5.733.097</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal de Relaciones Exteriores.</td>
-<td class="cuerpo_tabla_der">111.801</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">111.801</td>
+<td>Formación del Personal de Relaciones Exteriores.</td>
+<td>111.801</td>
+<td> </td>
+<td>111.801</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción Diplomática Bilateral.</td>
-<td class="cuerpo_tabla_der">15.597.526</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.597.526</td>
+<td>Acción Diplomática Bilateral.</td>
+<td>15.597.526</td>
+<td> </td>
+<td>15.597.526</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción Diplomática Multilateral.</td>
-<td class="cuerpo_tabla_der">10.520.545</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.520.545</td>
+<td>Acción Diplomática Multilateral.</td>
+<td>10.520.545</td>
+<td> </td>
+<td>10.520.545</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción Diplomática en las Comunidades Europeas.</td>
-<td class="cuerpo_tabla_der">2.074.847</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.074.847</td>
+<td>Acción Diplomática en las Comunidades Europeas.</td>
+<td>2.074.847</td>
+<td> </td>
+<td>2.074.847</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción Consular.</td>
-<td class="cuerpo_tabla_der">6.970.932</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.970.932</td>
+<td>Acción Consular.</td>
+<td>6.970.932</td>
+<td> </td>
+<td>6.970.932</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cooperación para el Desarrollo.</td>
-<td class="cuerpo_tabla_der">14.116.404</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.116.404</td>
+<td>Cooperación para el Desarrollo.</td>
+<td>14.116.404</td>
+<td> </td>
+<td>14.116.404</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cooperación Promoción y Difusión Cultural en el Exterior.</td>
-<td class="cuerpo_tabla_der">5.448.036</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.448.036</td>
+<td>Cooperación Promoción y Difusión Cultural en el Exterior.</td>
+<td>5.448.036</td>
+<td> </td>
+<td>5.448.036</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">V Centenario del Descubrimiento de América.</td>
-<td class="cuerpo_tabla_der">800.813</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">800.813</td>
+<td>V Centenario del Descubrimiento de América.</td>
+<td>800.813</td>
+<td> </td>
+<td>800.813</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exposición Universal Sevilla 1992.</td>
-<td class="cuerpo_tabla_der">7.427.394</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.427.394</td>
+<td>Exposición Universal Sevilla 1992.</td>
+<td>7.427.394</td>
+<td> </td>
+<td>7.427.394</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gobierno del Poder Judicial.</td>
-<td class="cuerpo_tabla_der">1.367.767</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.367.767</td>
+<td>Gobierno del Poder Judicial.</td>
+<td>1.367.767</td>
+<td> </td>
+<td>1.367.767</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Justicia.</td>
-<td class="cuerpo_tabla_der">4.130.253</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.130.253</td>
+<td>Dirección y Servicios Generales de Justicia.</td>
+<td>4.130.253</td>
+<td> </td>
+<td>4.130.253</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tribunales de Justicia.</td>
-<td class="cuerpo_tabla_der">87.973.923</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">87.973.923</td>
+<td>Tribunales de Justicia.</td>
+<td>87.973.923</td>
+<td> </td>
+<td>87.973.923</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Especiales de Apoyo a los Tribunales de Justicia.</td>
-<td class="cuerpo_tabla_der">833.113</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">833.113</td>
+<td>Servicios Especiales de Apoyo a los Tribunales de Justicia.</td>
+<td>833.113</td>
+<td> </td>
+<td>833.113</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal de la Administración de Justicia.</td>
-<td class="cuerpo_tabla_der">941.357</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">941.357</td>
+<td>Formación del Personal de la Administración de Justicia.</td>
+<td>941.357</td>
+<td> </td>
+<td>941.357</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Centros e Instituciones Penitenciarias.</td>
-<td class="cuerpo_tabla_der">43.227.332</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.227.332</td>
+<td>Centros e Instituciones Penitenciarias.</td>
+<td>43.227.332</td>
+<td> </td>
+<td>43.227.332</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajos Penitenciarios.</td>
-<td class="cuerpo_tabla_der">1.300.765</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.300.765</td>
+<td>Trabajos Penitenciarios.</td>
+<td>1.300.765</td>
+<td> </td>
+<td>1.300.765</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección Jurídica del Menor.</td>
-<td class="cuerpo_tabla_der">2.256.500</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.256.500</td>
+<td>Protección Jurídica del Menor.</td>
+<td>2.256.500</td>
+<td> </td>
+<td>2.256.500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Registros vinculados con la Fe Pública.</td>
-<td class="cuerpo_tabla_der">1.847.927</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.847.927</td>
+<td>Registros vinculados con la Fe Pública.</td>
+<td>1.847.927</td>
+<td> </td>
+<td>1.847.927</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Nuclear y Protección Radiológica.</td>
-<td class="cuerpo_tabla_der">3.833.830</td>
-<td class="cuerpo_tabla_der">230.000</td>
-<td class="cuerpo_tabla_der">4.063.830</td>
+<td>Seguridad Nuclear y Protección Radiológica.</td>
+<td>3.833.830</td>
+<td>230.000</td>
+<td>4.063.830</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración General del Organo Central.</td>
-<td class="cuerpo_tabla_der">28.670.551</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.670.551</td>
+<td>Administración General del Organo Central.</td>
+<td>28.670.551</td>
+<td> </td>
+<td>28.670.551</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración General del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">60.112.746</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">60.112.746</td>
+<td>Administración General del Ejército de Tierra.</td>
+<td>60.112.746</td>
+<td> </td>
+<td>60.112.746</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración General de la Armada.</td>
-<td class="cuerpo_tabla_der">22.984.568</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.984.568</td>
+<td>Administración General de la Armada.</td>
+<td>22.984.568</td>
+<td> </td>
+<td>22.984.568</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración General del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">18.276.146</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">18.276.146</td>
+<td>Administración General del Ejército del Aire.</td>
+<td>18.276.146</td>
+<td> </td>
+<td>18.276.146</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerzas Operativas del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">70.970.959</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">70.970.959</td>
+<td>Fuerzas Operativas del Ejército de Tierra.</td>
+<td>70.970.959</td>
+<td> </td>
+<td>70.970.959</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerzas Operativas de la Armada.</td>
-<td class="cuerpo_tabla_der">32.751.753</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">32.751.753</td>
+<td>Fuerzas Operativas de la Armada.</td>
+<td>32.751.753</td>
+<td> </td>
+<td>32.751.753</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerzas Operativas del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">28.072.121</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.072.121</td>
+<td>Fuerzas Operativas del Ejército del Aire.</td>
+<td>28.072.121</td>
+<td> </td>
+<td>28.072.121</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerzas en Reserva y Mutilados.</td>
-<td class="cuerpo_tabla_der">77.950.028</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">77.950.028</td>
+<td>Fuerzas en Reserva y Mutilados.</td>
+<td>77.950.028</td>
+<td> </td>
+<td>77.950.028</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potenciación y Modernización en el Organo Central.</td>
-<td class="cuerpo_tabla_der">22.340.956</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.340.956</td>
+<td>Potenciación y Modernización en el Organo Central.</td>
+<td>22.340.956</td>
+<td> </td>
+<td>22.340.956</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potenciación y Modernización del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">42.968.500</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">42.968.500</td>
+<td>Potenciación y Modernización del Ejército de Tierra.</td>
+<td>42.968.500</td>
+<td> </td>
+<td>42.968.500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potenciación y Modernización de la Armada.</td>
-<td class="cuerpo_tabla_der">47.238.032</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">47.238.032</td>
+<td>Potenciación y Modernización de la Armada.</td>
+<td>47.238.032</td>
+<td> </td>
+<td>47.238.032</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potenciación y Modernización del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">53.730.768</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">53.730.768</td>
+<td>Potenciación y Modernización del Ejército del Aire.</td>
+<td>53.730.768</td>
+<td> </td>
+<td>53.730.768</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Personal del Organo Central.</td>
-<td class="cuerpo_tabla_der">10.614.937</td>
-<td class="cuerpo_tabla_der">1.124.245</td>
-<td class="cuerpo_tabla_der">11.739.182</td>
+<td>Apoyo Logístico al Personal del Organo Central.</td>
+<td>10.614.937</td>
+<td>1.124.245</td>
+<td>11.739.182</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Personal del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">42.300.604</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">42.300.604</td>
+<td>Apoyo Logístico al Personal del Ejército de Tierra.</td>
+<td>42.300.604</td>
+<td> </td>
+<td>42.300.604</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Personal de la Armada.</td>
-<td class="cuerpo_tabla_der">10.900.331</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.900.331</td>
+<td>Apoyo Logístico al Personal de la Armada.</td>
+<td>10.900.331</td>
+<td> </td>
+<td>10.900.331</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Personal del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">8.321.375</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.321.375</td>
+<td>Apoyo Logístico al Personal del Ejército del Aire.</td>
+<td>8.321.375</td>
+<td> </td>
+<td>8.321.375</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Material del Organo Central.</td>
-<td class="cuerpo_tabla_der">15.973.071</td>
-<td class="cuerpo_tabla_der">320.000</td>
-<td class="cuerpo_tabla_der">16.293.071</td>
+<td>Apoyo Logístico al Material del Organo Central.</td>
+<td>15.973.071</td>
+<td>320.000</td>
+<td>16.293.071</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Material del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">35.289.585</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">35.289.585</td>
+<td>Apoyo Logístico al Material del Ejército de Tierra.</td>
+<td>35.289.585</td>
+<td> </td>
+<td>35.289.585</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Material de la Armada.</td>
-<td class="cuerpo_tabla_der">48.300.159</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">48.300.159</td>
+<td>Apoyo Logístico al Material de la Armada.</td>
+<td>48.300.159</td>
+<td> </td>
+<td>48.300.159</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo Logístico al Material del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">44.489.438</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">44.489.438</td>
+<td>Apoyo Logístico al Material del Ejército del Aire.</td>
+<td>44.489.438</td>
+<td> </td>
+<td>44.489.438</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal del Organo Central.</td>
-<td class="cuerpo_tabla_der">367.833</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">367.833</td>
+<td>Formación del Personal del Organo Central.</td>
+<td>367.833</td>
+<td> </td>
+<td>367.833</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">17.639.282</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">17.639.282</td>
+<td>Formación del Personal del Ejército de Tierra.</td>
+<td>17.639.282</td>
+<td> </td>
+<td>17.639.282</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal de la Armada.</td>
-<td class="cuerpo_tabla_der">10.618.666</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.618.666</td>
+<td>Formación del Personal de la Armada.</td>
+<td>10.618.666</td>
+<td> </td>
+<td>10.618.666</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">5.154.154</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.154.154</td>
+<td>Formación del Personal del Ejército del Aire.</td>
+<td>5.154.154</td>
+<td> </td>
+<td>5.154.154</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Seguridad y Protección Civil.</td>
-<td class="cuerpo_tabla_der">22.174.502</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.174.502</td>
+<td>Dirección y Servicios Generales de Seguridad y Protección Civil.</td>
+<td>22.174.502</td>
+<td> </td>
+<td>22.174.502</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación de Fuerzas y Cuerpos de Seguridad del Estado.</td>
-<td class="cuerpo_tabla_der">6.994.137</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.994.137</td>
+<td>Formación de Fuerzas y Cuerpos de Seguridad del Estado.</td>
+<td>6.994.137</td>
+<td> </td>
+<td>6.994.137</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Ciudadana.</td>
-<td class="cuerpo_tabla_der">292.078.126</td>
-<td class="cuerpo_tabla_der">97.000</td>
-<td class="cuerpo_tabla_der">292.175.126</td>
+<td>Seguridad Ciudadana.</td>
+<td>292.078.126</td>
+<td>97.000</td>
+<td>292.175.126</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Vial.</td>
-<td class="cuerpo_tabla_der">45.230.107</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">45.230.107</td>
+<td>Seguridad Vial.</td>
+<td>45.230.107</td>
+<td> </td>
+<td>45.230.107</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actuaciones policiales en materia de droga.</td>
-<td class="cuerpo_tabla_der">4.196.517</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.196.517</td>
+<td>Actuaciones policiales en materia de droga.</td>
+<td>4.196.517</td>
+<td> </td>
+<td>4.196.517</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerzas y Cuerpos en reserva.</td>
-<td class="cuerpo_tabla_der">29.917.059</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">29.917.059</td>
+<td>Fuerzas y Cuerpos en reserva.</td>
+<td>29.917.059</td>
+<td> </td>
+<td>29.917.059</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección Civil.</td>
-<td class="cuerpo_tabla_der">4.063.042</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.063.042</td>
+<td>Protección Civil.</td>
+<td>4.063.042</td>
+<td> </td>
+<td>4.063.042</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Seguridad Social y Protección Social.</td>
-<td class="cuerpo_tabla_der">149.155.825</td>
-<td class="cuerpo_tabla_der">93.700</td>
-<td class="cuerpo_tabla_der">149.249.525</td>
+<td>Dirección y Servicios Generales de Seguridad Social y Protección Social.</td>
+<td>149.155.825</td>
+<td>93.700</td>
+<td>149.249.525</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inspección y Control de Seguridad y Protección Social.</td>
-<td class="cuerpo_tabla_der">6.636.620</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.636.620</td>
+<td>Inspección y Control de Seguridad y Protección Social.</td>
+<td>6.636.620</td>
+<td> </td>
+<td>6.636.620</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestación a los desempleados.</td>
-<td class="cuerpo_tabla_der">922.598.433</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">922.598.433</td>
+<td>Prestación a los desempleados.</td>
+<td>922.598.433</td>
+<td> </td>
+<td>922.598.433</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensiones y Prestaciones asistenciales.</td>
-<td class="cuerpo_tabla_der">90.071.397</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">90.071.397</td>
+<td>Pensiones y Prestaciones asistenciales.</td>
+<td>90.071.397</td>
+<td> </td>
+<td>90.071.397</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestaciones de asistencia social.</td>
-<td class="cuerpo_tabla_der">7.619.728</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.619.728</td>
+<td>Prestaciones de asistencia social.</td>
+<td>7.619.728</td>
+<td> </td>
+<td>7.619.728</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensiones de guerra.</td>
-<td class="cuerpo_tabla_der">90.066.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">90.066.000</td>
+<td>Pensiones de guerra.</td>
+<td>90.066.000</td>
+<td> </td>
+<td>90.066.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción Social en favor de funcionarios.</td>
-<td class="cuerpo_tabla_der">1.578.750</td>
-<td class="cuerpo_tabla_der">227.100</td>
-<td class="cuerpo_tabla_der">1.805.850</td>
+<td>Acción Social en favor de funcionarios.</td>
+<td>1.578.750</td>
+<td>227.100</td>
+<td>1.805.850</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestación Social Sustitutoria de Objetores de Conciencia.</td>
-<td class="cuerpo_tabla_der">1.125.728</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.125.728</td>
+<td>Prestación Social Sustitutoria de Objetores de Conciencia.</td>
+<td>1.125.728</td>
+<td> </td>
+<td>1.125.728</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plan Nacional sobre Droga.</td>
-<td class="cuerpo_tabla_der">2.574.747</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.574.747</td>
+<td>Plan Nacional sobre Droga.</td>
+<td>2.574.747</td>
+<td> </td>
+<td>2.574.747</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción en favor de los emigrantes.</td>
-<td class="cuerpo_tabla_der">2.632.714</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.632.714</td>
+<td>Acción en favor de los emigrantes.</td>
+<td>2.632.714</td>
+<td> </td>
+<td>2.632.714</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Sociales de la Seguridad Social a Minusválidos.</td>
-<td class="cuerpo_tabla_der">43.867.526</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.867.526</td>
+<td>Servicios Sociales de la Seguridad Social a Minusválidos.</td>
+<td>43.867.526</td>
+<td> </td>
+<td>43.867.526</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Sociales de la Seguridad Social a la Tercera Edad.</td>
-<td class="cuerpo_tabla_der">24.034.720</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">24.034.720</td>
+<td>Servicios Sociales de la Seguridad Social a la Tercera Edad.</td>
+<td>24.034.720</td>
+<td> </td>
+<td>24.034.720</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros Servicios Sociales de la Seguridad Social.</td>
-<td class="cuerpo_tabla_der">12.533.550</td>
-<td class="cuerpo_tabla_der">49.222</td>
-<td class="cuerpo_tabla_der">12.582.772</td>
+<td>Otros Servicios Sociales de la Seguridad Social.</td>
+<td>12.533.550</td>
+<td>49.222</td>
+<td>12.582.772</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Sociales del Estado.</td>
-<td class="cuerpo_tabla_der">9.614.904</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.614.904</td>
+<td>Servicios Sociales del Estado.</td>
+<td>9.614.904</td>
+<td> </td>
+<td>9.614.904</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Sociales de la Seguridad Social gestionados por las Comunidades Autónomas.</td>
-<td class="cuerpo_tabla_der">32.072.262</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">32.072.262</td>
+<td>Servicios Sociales de la Seguridad Social gestionados por las Comunidades Autónomas.</td>
+<td>32.072.262</td>
+<td> </td>
+<td>32.072.262</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Sociales de la Seguridad Social.</td>
-<td class="cuerpo_tabla_der">7.599.663</td>
-<td class="cuerpo_tabla_der">612</td>
-<td class="cuerpo_tabla_der">7.600.275</td>
+<td>Servicios Sociales de la Seguridad Social.</td>
+<td>7.599.663</td>
+<td>612</td>
+<td>7.600.275</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensiones de Clases Pasivas.</td>
-<td class="cuerpo_tabla_der">390.190.911</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">390.190.911</td>
+<td>Pensiones de Clases Pasivas.</td>
+<td>390.190.911</td>
+<td> </td>
+<td>390.190.911</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de Pensiones de Clases Pasivas.</td>
-<td class="cuerpo_tabla_der">1.079.104</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.079.104</td>
+<td>Gestión de Pensiones de Clases Pasivas.</td>
+<td>1.079.104</td>
+<td> </td>
+<td>1.079.104</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mutualismo Administrativo.</td>
-<td class="cuerpo_tabla_der">126.300.562</td>
-<td class="cuerpo_tabla_der">3.024</td>
-<td class="cuerpo_tabla_der">126.303.586</td>
+<td>Mutualismo Administrativo.</td>
+<td>126.300.562</td>
+<td>3.024</td>
+<td>126.303.586</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensiones de la Seguridad Social.</td>
-<td class="cuerpo_tabla_der">3.271.977.101</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.271.977.101</td>
+<td>Pensiones de la Seguridad Social.</td>
+<td>3.271.977.101</td>
+<td> </td>
+<td>3.271.977.101</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social.</td>
-<td class="cuerpo_tabla_der">317.446.639</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">317.446.639</td>
+<td>Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social.</td>
+<td>317.446.639</td>
+<td> </td>
+<td>317.446.639</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de las prestaciones económicas de la Seguridad Social.</td>
-<td class="cuerpo_tabla_der">20.770.123</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.770.123</td>
+<td>Gestión de las prestaciones económicas de la Seguridad Social.</td>
+<td>20.770.123</td>
+<td> </td>
+<td>20.770.123</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración de las relaciones laborales y condiciones de trabajo.</td>
-<td class="cuerpo_tabla_der">10.624.369</td>
-<td class="cuerpo_tabla_der">25</td>
-<td class="cuerpo_tabla_der">10.624.394</td>
+<td>Administración de las relaciones laborales y condiciones de trabajo.</td>
+<td>10.624.369</td>
+<td>25</td>
+<td>10.624.394</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestaciones de Garantía Salarial.</td>
-<td class="cuerpo_tabla_der">85.975.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">85.975.000</td>
+<td>Prestaciones de Garantía Salarial.</td>
+<td>85.975.000</td>
+<td> </td>
+<td>85.975.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Becas y Ayudas a Estudiantes.</td>
-<td class="cuerpo_tabla_der">50.440.850</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50.440.850</td>
+<td>Becas y Ayudas a Estudiantes.</td>
+<td>50.440.850</td>
+<td> </td>
+<td>50.440.850</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios Complementarios de la enseñanza.</td>
-<td class="cuerpo_tabla_der">13.681.410</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.681.410</td>
+<td>Servicios Complementarios de la enseñanza.</td>
+<td>13.681.410</td>
+<td> </td>
+<td>13.681.410</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo a otras Actividades Escolares.</td>
-<td class="cuerpo_tabla_der">2.330.863</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.330.863</td>
+<td>Apoyo a otras Actividades Escolares.</td>
+<td>2.330.863</td>
+<td> </td>
+<td>2.330.863</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fomento del Empleo.</td>
-<td class="cuerpo_tabla_der">142.575.692</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">142.575.692</td>
+<td>Fomento del Empleo.</td>
+<td>142.575.692</td>
+<td> </td>
+<td>142.575.692</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actuaciones en el Mercado de Trabajo.</td>
-<td class="cuerpo_tabla_der">138.286.318</td>
-<td class="cuerpo_tabla_der">557</td>
-<td class="cuerpo_tabla_der">138.286.875</td>
+<td>Actuaciones en el Mercado de Trabajo.</td>
+<td>138.286.318</td>
+<td>557</td>
+<td>138.286.875</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Sanidad.</td>
-<td class="cuerpo_tabla_der">29.035.283</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">29.035.283</td>
+<td>Dirección y Servicios Generales de Sanidad.</td>
+<td>29.035.283</td>
+<td> </td>
+<td>29.035.283</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistencia Hospitalaria del Ejército de Tierra.</td>
-<td class="cuerpo_tabla_der">19.267.514</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">19.267.514</td>
+<td>Asistencia Hospitalaria del Ejército de Tierra.</td>
+<td>19.267.514</td>
+<td> </td>
+<td>19.267.514</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistencia Hospitalaria de la Armada.</td>
-<td class="cuerpo_tabla_der">5.944.985</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.944.985</td>
+<td>Asistencia Hospitalaria de la Armada.</td>
+<td>5.944.985</td>
+<td> </td>
+<td>5.944.985</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistencia Hospitalaria del Ejército del Aire.</td>
-<td class="cuerpo_tabla_der">3.148.081</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.148.081</td>
+<td>Asistencia Hospitalaria del Ejército del Aire.</td>
+<td>3.148.081</td>
+<td> </td>
+<td>3.148.081</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Coordinación de la Asistencia Sanitaria.</td>
-<td class="cuerpo_tabla_der">494.130</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">494.130</td>
+<td>Dirección y Coordinación de la Asistencia Sanitaria.</td>
+<td>494.130</td>
+<td> </td>
+<td>494.130</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acciones Sanitarias Especiales.</td>
-<td class="cuerpo_tabla_der">2.512.907</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.512.907</td>
+<td>Acciones Sanitarias Especiales.</td>
+<td>2.512.907</td>
+<td> </td>
+<td>2.512.907</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atención Primaria de Salud.</td>
-<td class="cuerpo_tabla_der">264.683.745</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">264.683.745</td>
+<td>Atención Primaria de Salud.</td>
+<td>264.683.745</td>
+<td> </td>
+<td>264.683.745</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atención especializada de Salud.</td>
-<td class="cuerpo_tabla_der">544.854.832</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">544.854.832</td>
+<td>Atención especializada de Salud.</td>
+<td>544.854.832</td>
+<td> </td>
+<td>544.854.832</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medicina Marítima.</td>
-<td class="cuerpo_tabla_der">1.089.589</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.089.589</td>
+<td>Medicina Marítima.</td>
+<td>1.089.589</td>
+<td> </td>
+<td>1.089.589</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistencia Sanitaria de la Seguridad Social gestionada por las Comunidades Autónomas.</td>
-<td class="cuerpo_tabla_der">703.299.687</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">703.299.687</td>
+<td>Asistencia Sanitaria de la Seguridad Social gestionada por las Comunidades Autónomas.</td>
+<td>703.299.687</td>
+<td> </td>
+<td>703.299.687</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Planificación Sanitaria.</td>
-<td class="cuerpo_tabla_der">833.061</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">833.061</td>
+<td>Planificación Sanitaria.</td>
+<td>833.061</td>
+<td> </td>
+<td>833.061</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Evaluación y Control de Medicamentos y Productos Sanitarios.</td>
-<td class="cuerpo_tabla_der">872.237</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">872.237</td>
+<td>Evaluación y Control de Medicamentos y Productos Sanitarios.</td>
+<td>872.237</td>
+<td> </td>
+<td>872.237</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sanidad Exterior.</td>
-<td class="cuerpo_tabla_der">1.073.513</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.073.513</td>
+<td>Sanidad Exterior.</td>
+<td>1.073.513</td>
+<td> </td>
+<td>1.073.513</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Higiene de los Alimentos y Sanidad Ambiental.</td>
-<td class="cuerpo_tabla_der">899.056</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">899.056</td>
+<td>Higiene de los Alimentos y Sanidad Ambiental.</td>
+<td>899.056</td>
+<td> </td>
+<td>899.056</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Suministro de Medicamentos y Productos Sanitarios por el Estado.</td>
-<td class="cuerpo_tabla_der">743.291</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">743.291</td>
+<td>Suministro de Medicamentos y Productos Sanitarios por el Estado.</td>
+<td>743.291</td>
+<td> </td>
+<td>743.291</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de la Educación.</td>
-<td class="cuerpo_tabla_der">15.220.578</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.220.578</td>
+<td>Dirección y Servicios Generales de la Educación.</td>
+<td>15.220.578</td>
+<td> </td>
+<td>15.220.578</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Perfeccionamiento del Profesorado de Educación.</td>
-<td class="cuerpo_tabla_der">5.667.116</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.667.116</td>
+<td>Perfeccionamiento del Profesorado de Educación.</td>
+<td>5.667.116</td>
+<td> </td>
+<td>5.667.116</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Educación Preescolar.</td>
-<td class="cuerpo_tabla_der">25.904.013</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">25.904.013</td>
+<td>Educación Preescolar.</td>
+<td>25.904.013</td>
+<td> </td>
+<td>25.904.013</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Educación General Básica.</td>
-<td class="cuerpo_tabla_der">302.356.554</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">302.356.554</td>
+<td>Educación General Básica.</td>
+<td>302.356.554</td>
+<td> </td>
+<td>302.356.554</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Medias.</td>
-<td class="cuerpo_tabla_der">188.351.133</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">188.301.133</td>
+<td>Enseñanzas Medias.</td>
+<td>188.351.133</td>
+<td> </td>
+<td>188.301.133</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Universitarias.</td>
-<td class="cuerpo_tabla_der">98.326.808</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">98.326.808</td>
+<td>Enseñanzas Universitarias.</td>
+<td>98.326.808</td>
+<td> </td>
+<td>98.326.808</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Educación Especial.</td>
-<td class="cuerpo_tabla_der">25.998.779</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">25.998.779</td>
+<td>Educación Especial.</td>
+<td>25.998.779</td>
+<td> </td>
+<td>25.998.779</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Artísticas.</td>
-<td class="cuerpo_tabla_der">7.877.978</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.877.978</td>
+<td>Enseñanzas Artísticas.</td>
+<td>7.877.978</td>
+<td> </td>
+<td>7.877.978</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Integradas.</td>
-<td class="cuerpo_tabla_der">7.332.099</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.332.099</td>
+<td>Enseñanzas Integradas.</td>
+<td>7.332.099</td>
+<td> </td>
+<td>7.332.099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación de personal en el ámbito organizativo industrial.</td>
-<td class="cuerpo_tabla_der">281.522</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">281.522</td>
+<td>Formación de personal en el ámbito organizativo industrial.</td>
+<td>281.522</td>
+<td> </td>
+<td>281.522</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Educación en el Exterior.</td>
-<td class="cuerpo_tabla_der">8.465.349</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.465.349</td>
+<td>Educación en el Exterior.</td>
+<td>8.465.349</td>
+<td> </td>
+<td>8.465.349</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Educación Compensatoria.</td>
-<td class="cuerpo_tabla_der">7.284.301</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.284.301</td>
+<td>Educación Compensatoria.</td>
+<td>7.284.301</td>
+<td> </td>
+<td>7.284.301</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Educación Permanente y a Distancia no Universitaria.</td>
-<td class="cuerpo_tabla_der">6.276.896</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.276.896</td>
+<td>Educación Permanente y a Distancia no Universitaria.</td>
+<td>6.276.896</td>
+<td> </td>
+<td>6.276.896</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Deportivas.</td>
-<td class="cuerpo_tabla_der">601.249</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">601.249</td>
+<td>Enseñanzas Deportivas.</td>
+<td>601.249</td>
+<td> </td>
+<td>601.249</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Náuticas y Aeronáuticas.</td>
-<td class="cuerpo_tabla_der">2.131.328</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.131.328</td>
+<td>Enseñanzas Náuticas y Aeronáuticas.</td>
+<td>2.131.328</td>
+<td> </td>
+<td>2.131.328</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enseñanzas Especiales.</td>
-<td class="cuerpo_tabla_der">12.524.172</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.524.172</td>
+<td>Enseñanzas Especiales.</td>
+<td>12.524.172</td>
+<td> </td>
+<td>12.524.172</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nuevas Tecnologías Aplicadas a la Educación.</td>
-<td class="cuerpo_tabla_der">2.358.758</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.358.758</td>
+<td>Nuevas Tecnologías Aplicadas a la Educación.</td>
+<td>2.358.758</td>
+<td> </td>
+<td>2.358.758</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción Administración ayudas para rehabilitación y acceso a vivienda.</td>
-<td class="cuerpo_tabla_der">73.519.073</td>
-<td class="cuerpo_tabla_der">1.986.297</td>
-<td class="cuerpo_tabla_der">75.505.370</td>
+<td>Promoción Administración ayudas para rehabilitación y acceso a vivienda.</td>
+<td>73.519.073</td>
+<td>1.986.297</td>
+<td>75.505.370</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordenación y Fomento de la Edificación.</td>
-<td class="cuerpo_tabla_der">2.120.355</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.120.355</td>
+<td>Ordenación y Fomento de la Edificación.</td>
+<td>2.120.355</td>
+<td> </td>
+<td>2.120.355</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fomento de las Actividades urbanísticas y territoriales.</td>
-<td class="cuerpo_tabla_der">378.517</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">378.517</td>
+<td>Fomento de las Actividades urbanísticas y territoriales.</td>
+<td>378.517</td>
+<td> </td>
+<td>378.517</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Infraestructura urbana, saneamiento y abastecimiento de agua.</td>
-<td class="cuerpo_tabla_der">14.073.035</td>
-<td class="cuerpo_tabla_der">428.225</td>
-<td class="cuerpo_tabla_der">14.501.260</td>
+<td>Infraestructura urbana, saneamiento y abastecimiento de agua.</td>
+<td>14.073.035</td>
+<td>428.225</td>
+<td>14.501.260</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Control y Fomento de la Calidad.</td>
-<td class="cuerpo_tabla_der">657.320</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">657.320</td>
+<td>Control y Fomento de la Calidad.</td>
+<td>657.320</td>
+<td> </td>
+<td>657.320</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección de los Derechos de los Consumidores.</td>
-<td class="cuerpo_tabla_der">1.054.489</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.054.489</td>
+<td>Protección de los Derechos de los Consumidores.</td>
+<td>1.054.489</td>
+<td> </td>
+<td>1.054.489</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección y Mejora del Medio Ambiente.</td>
-<td class="cuerpo_tabla_der">4.401.440</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.401.440</td>
+<td>Protección y Mejora del Medio Ambiente.</td>
+<td>4.401.440</td>
+<td> </td>
+<td>4.401.440</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Cultura.</td>
-<td class="cuerpo_tabla_der">4.245.548</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.245.548</td>
+<td>Dirección y Servicios Generales de Cultura.</td>
+<td>4.245.548</td>
+<td> </td>
+<td>4.245.548</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Archivos.</td>
-<td class="cuerpo_tabla_der">2.049.386</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.049.386</td>
+<td>Archivos.</td>
+<td>2.049.386</td>
+<td> </td>
+<td>2.049.386</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bibliotecas.</td>
-<td class="cuerpo_tabla_der">5.158.217</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.158.217</td>
+<td>Bibliotecas.</td>
+<td>5.158.217</td>
+<td> </td>
+<td>5.158.217</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Museos.</td>
-<td class="cuerpo_tabla_der">7.501.255</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.501.255</td>
+<td>Museos.</td>
+<td>7.501.255</td>
+<td> </td>
+<td>7.501.255</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Exposiciones.</td>
-<td class="cuerpo_tabla_der">618.691</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">618.691</td>
+<td>Exposiciones.</td>
+<td>618.691</td>
+<td> </td>
+<td>618.691</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción y Servicios a la Juventud.</td>
-<td class="cuerpo_tabla_der">2.358.536</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.358.536</td>
+<td>Promoción y Servicios a la Juventud.</td>
+<td>2.358.536</td>
+<td> </td>
+<td>2.358.536</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción de la Mujer.</td>
-<td class="cuerpo_tabla_der">1.410.478</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.410.478</td>
+<td>Promoción de la Mujer.</td>
+<td>1.410.478</td>
+<td> </td>
+<td>1.410.478</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción y Cooperación Cultural.</td>
-<td class="cuerpo_tabla_der">1.607.841</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.607.841</td>
+<td>Promoción y Cooperación Cultural.</td>
+<td>1.607.841</td>
+<td> </td>
+<td>1.607.841</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción del Libro y Publicaciones Culturales.</td>
-<td class="cuerpo_tabla_der">2.422.131</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.422.131</td>
+<td>Promoción del Libro y Publicaciones Culturales.</td>
+<td>2.422.131</td>
+<td> </td>
+<td>2.422.131</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Música.</td>
-<td class="cuerpo_tabla_der">7.860.244</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.860.244</td>
+<td>Música.</td>
+<td>7.860.244</td>
+<td> </td>
+<td>7.860.244</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teatro.</td>
-<td class="cuerpo_tabla_der">2.745.558</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.745.558</td>
+<td>Teatro.</td>
+<td>2.745.558</td>
+<td> </td>
+<td>2.745.558</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cinematografía.</td>
-<td class="cuerpo_tabla_der">4.786.926</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.786.926</td>
+<td>Cinematografía.</td>
+<td>4.786.926</td>
+<td> </td>
+<td>4.786.926</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fomento y Apoyo de las Actividades Deportivas.</td>
-<td class="cuerpo_tabla_der">12.757.923</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.757.923</td>
+<td>Fomento y Apoyo de las Actividades Deportivas.</td>
+<td>12.757.923</td>
+<td> </td>
+<td>12.757.923</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Olimpiada de Barcelona 1992.</td>
-<td class="cuerpo_tabla_der">12.038.648</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.038.648</td>
+<td>Olimpiada de Barcelona 1992.</td>
+<td>12.038.648</td>
+<td> </td>
+<td>12.038.648</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración del Patrimonio Histórico Nacional.</td>
-<td class="cuerpo_tabla_der">7.403.253</td>
-<td class="cuerpo_tabla_der">3.000</td>
-<td class="cuerpo_tabla_der">7.406.253</td>
+<td>Administración del Patrimonio Histórico Nacional.</td>
+<td>7.403.253</td>
+<td>3.000</td>
+<td>7.406.253</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conservación y Restauración de Bienes Culturales.</td>
-<td class="cuerpo_tabla_der">2.851.529</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.851.529</td>
+<td>Conservación y Restauración de Bienes Culturales.</td>
+<td>2.851.529</td>
+<td> </td>
+<td>2.851.529</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección del Patrimonio Histórico.</td>
-<td class="cuerpo_tabla_der">1.251.188</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.251.188</td>
+<td>Protección del Patrimonio Histórico.</td>
+<td>1.251.188</td>
+<td> </td>
+<td>1.251.188</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cooperación con las Confesiones Religiosas.</td>
-<td class="cuerpo_tabla_der">14.347.241</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.347.241</td>
+<td>Cooperación con las Confesiones Religiosas.</td>
+<td>14.347.241</td>
+<td> </td>
+<td>14.347.241</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elecciones y Partidos Políticos.</td>
-<td class="cuerpo_tabla_der">13.049.706</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.049.706</td>
+<td>Elecciones y Partidos Políticos.</td>
+<td>13.049.706</td>
+<td> </td>
+<td>13.049.706</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo a la Comunicación Social.</td>
-<td class="cuerpo_tabla_der">1.688.636</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.688.636</td>
+<td>Apoyo a la Comunicación Social.</td>
+<td>1.688.636</td>
+<td> </td>
+<td>1.688.636</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Obras Públicas.</td>
-<td class="cuerpo_tabla_der">9.570.050</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.570.050</td>
+<td>Dirección y Servicios Generales de Obras Públicas.</td>
+<td>9.570.050</td>
+<td> </td>
+<td>9.570.050</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales del Transporte.</td>
-<td class="cuerpo_tabla_der">9.637.085</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.637.085</td>
+<td>Dirección y Servicios Generales del Transporte.</td>
+<td>9.637.085</td>
+<td> </td>
+<td>9.637.085</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estudios y Servicios Asistencia Técnica Obras Públicas y Urbanismo.</td>
-<td class="cuerpo_tabla_der">4.248.782</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.248.782</td>
+<td>Estudios y Servicios Asistencia Técnica Obras Públicas y Urbanismo.</td>
+<td>4.248.782</td>
+<td> </td>
+<td>4.248.782</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión e Infraestructura de Recursos Hidráulicos.</td>
-<td class="cuerpo_tabla_der">94.867.468</td>
-<td class="cuerpo_tabla_der">57.140</td>
-<td class="cuerpo_tabla_der">94.924.608</td>
+<td>Gestión e Infraestructura de Recursos Hidráulicos.</td>
+<td>94.867.468</td>
+<td>57.140</td>
+<td>94.924.608</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Infraestructura del Transporte Ferroviario.</td>
-<td class="cuerpo_tabla_der">128.675.021</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">128.675.021</td>
+<td>Infraestructura del Transporte Ferroviario.</td>
+<td>128.675.021</td>
+<td> </td>
+<td>128.675.021</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones y Apoyo al Transporte Ferroviario.</td>
-<td class="cuerpo_tabla_der">211.069.653</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">211.069.653</td>
+<td>Subvenciones y Apoyo al Transporte Ferroviario.</td>
+<td>211.069.653</td>
+<td> </td>
+<td>211.069.653</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordenación e Inspección del Transporte Terrestre.</td>
-<td class="cuerpo_tabla_der">873.949</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">873.949</td>
+<td>Ordenación e Inspección del Transporte Terrestre.</td>
+<td>873.949</td>
+<td> </td>
+<td>873.949</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Creación de Infraestructura de Carreteras.</td>
-<td class="cuerpo_tabla_der">252.087.863</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">252.087.863</td>
+<td>Creación de Infraestructura de Carreteras.</td>
+<td>252.087.863</td>
+<td> </td>
+<td>252.087.863</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conservación y Explotación de Carreteras.</td>
-<td class="cuerpo_tabla_der">44.479.857</td>
-<td class="cuerpo_tabla_der">28.888</td>
-<td class="cuerpo_tabla_der">44.508.745</td>
+<td>Conservación y Explotación de Carreteras.</td>
+<td>44.479.857</td>
+<td>28.888</td>
+<td>44.508.745</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobertura del Seguro de Cambio de Autopistas.</td>
-<td class="cuerpo_tabla_der">14.944.517</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.944.517</td>
+<td>Cobertura del Seguro de Cambio de Autopistas.</td>
+<td>14.944.517</td>
+<td> </td>
+<td>14.944.517</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad del Tráfico Marítimo y Vigilancia Costera.</td>
-<td class="cuerpo_tabla_der">2.987.405</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.987.405</td>
+<td>Seguridad del Tráfico Marítimo y Vigilancia Costera.</td>
+<td>2.987.405</td>
+<td> </td>
+<td>2.987.405</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Infraestructura y Explotación Portuaria.</td>
-<td class="cuerpo_tabla_der">42.687.526</td>
-<td class="cuerpo_tabla_der">931.153</td>
-<td class="cuerpo_tabla_der">43.618.679</td>
+<td>Infraestructura y Explotación Portuaria.</td>
+<td>42.687.526</td>
+<td>931.153</td>
+<td>43.618.679</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actuación en la Costa y Señalización Marítima.</td>
-<td class="cuerpo_tabla_der">10.634.509</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.634.509</td>
+<td>Actuación en la Costa y Señalización Marítima.</td>
+<td>10.634.509</td>
+<td> </td>
+<td>10.634.509</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones y Apoyo al Transporte Marítimo.</td>
-<td class="cuerpo_tabla_der">8.990.280</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.990.280</td>
+<td>Subvenciones y Apoyo al Transporte Marítimo.</td>
+<td>8.990.280</td>
+<td> </td>
+<td>8.990.280</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Infraestructura de Aeropuertos.</td>
-<td class="cuerpo_tabla_der">11.965.992</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.965.992</td>
+<td>Infraestructura de Aeropuertos.</td>
+<td>11.965.992</td>
+<td> </td>
+<td>11.965.992</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explotación del Sistema de Circulación Aérea.</td>
-<td class="cuerpo_tabla_der">22.576.609</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.576.609</td>
+<td>Explotación del Sistema de Circulación Aérea.</td>
+<td>22.576.609</td>
+<td> </td>
+<td>22.576.609</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explotación de Aeropuertos.</td>
-<td class="cuerpo_tabla_der">27.314.351</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">27.314.351</td>
+<td>Explotación de Aeropuertos.</td>
+<td>27.314.351</td>
+<td> </td>
+<td>27.314.351</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones y Apoyo al Transporte Aéreo.</td>
-<td class="cuerpo_tabla_der">4.125.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.125.000</td>
+<td>Subvenciones y Apoyo al Transporte Aéreo.</td>
+<td>4.125.000</td>
+<td> </td>
+<td>4.125.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordenación y Explotación de los Servicios de Comunicación Postal y Telegráfica.</td>
-<td class="cuerpo_tabla_der">128.430.402</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">128.430.402</td>
+<td>Ordenación y Explotación de los Servicios de Comunicación Postal y Telegráfica.</td>
+<td>128.430.402</td>
+<td> </td>
+<td>128.430.402</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordenación de Telecomunicación, Gestión y Administración del Espectro Radioeléctrico.</td>
-<td class="cuerpo_tabla_der">5.703.729</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.703.729</td>
+<td>Ordenación de Telecomunicación, Gestión y Administración del Espectro Radioeléctrico.</td>
+<td>5.703.729</td>
+<td> </td>
+<td>5.703.729</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de la Infraestructura Agraria.</td>
-<td class="cuerpo_tabla_der">21.224.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.224.000</td>
+<td>Mejora de la Infraestructura Agraria.</td>
+<td>21.224.000</td>
+<td> </td>
+<td>21.224.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección y Mejora del Medio Natural.</td>
-<td class="cuerpo_tabla_der">20.566.200</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.566.200</td>
+<td>Protección y Mejora del Medio Natural.</td>
+<td>20.566.200</td>
+<td> </td>
+<td>20.566.200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación Científica.</td>
-<td class="cuerpo_tabla_der">40.529.169</td>
-<td class="cuerpo_tabla_der">177</td>
-<td class="cuerpo_tabla_der">40.529.346</td>
+<td>Investigación Científica.</td>
+<td>40.529.169</td>
+<td>177</td>
+<td>40.529.346</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Astronomía y Astrofísica.</td>
-<td class="cuerpo_tabla_der">814.945</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">814.945</td>
+<td>Astronomía y Astrofísica.</td>
+<td>814.945</td>
+<td> </td>
+<td>814.945</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación Técnica.</td>
-<td class="cuerpo_tabla_der">24.411.317</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">24.411.317</td>
+<td>Investigación Técnica.</td>
+<td>24.411.317</td>
+<td> </td>
+<td>24.411.317</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación y Estudios Sociológicos y Constitucionales.</td>
-<td class="cuerpo_tabla_der">1.133.099</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.133.099</td>
+<td>Investigación y Estudios Sociológicos y Constitucionales.</td>
+<td>1.133.099</td>
+<td> </td>
+<td>1.133.099</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación y Estudios de las Fuerzas Armadas.</td>
-<td class="cuerpo_tabla_der">49.715.108</td>
-<td class="cuerpo_tabla_der">250</td>
-<td class="cuerpo_tabla_der">49.715.358</td>
+<td>Investigación y Estudios de las Fuerzas Armadas.</td>
+<td>49.715.108</td>
+<td>250</td>
+<td>49.715.358</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación y Experimentación de Obras Públicas.</td>
-<td class="cuerpo_tabla_der">408.435</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">408.435</td>
+<td>Investigación y Experimentación de Obras Públicas.</td>
+<td>408.435</td>
+<td> </td>
+<td>408.435</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación y Desarrollo Tecnológico.</td>
-<td class="cuerpo_tabla_der">47.948.007</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">47.948.007</td>
+<td>Investigación y Desarrollo Tecnológico.</td>
+<td>47.948.007</td>
+<td> </td>
+<td>47.948.007</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación y Experimentación Agraria y Pesquera.</td>
-<td class="cuerpo_tabla_der">8.453.514</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.453.514</td>
+<td>Investigación y Experimentación Agraria y Pesquera.</td>
+<td>8.453.514</td>
+<td> </td>
+<td>8.453.514</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación Educativa.</td>
-<td class="cuerpo_tabla_der">409.271</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">409.271</td>
+<td>Investigación Educativa.</td>
+<td>409.271</td>
+<td> </td>
+<td>409.271</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación Sanitaria.</td>
-<td class="cuerpo_tabla_der">9.038.173</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.038.173</td>
+<td>Investigación Sanitaria.</td>
+<td>9.038.173</td>
+<td> </td>
+<td>9.038.173</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Investigación y Estudios Estadísticos y Económicos.</td>
-<td class="cuerpo_tabla_der">569.841</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">569.841</td>
+<td>Investigación y Estudios Estadísticos y Económicos.</td>
+<td>569.841</td>
+<td> </td>
+<td>569.841</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cartografía y Geofísica.</td>
-<td class="cuerpo_tabla_der">4.138.737</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.138.737</td>
+<td>Cartografía y Geofísica.</td>
+<td>4.138.737</td>
+<td> </td>
+<td>4.138.737</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Meteorología.</td>
-<td class="cuerpo_tabla_der">6.748.211</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.748.211</td>
+<td>Meteorología.</td>
+<td>6.748.211</td>
+<td> </td>
+<td>6.748.211</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elaboración y Difusión Estadística.</td>
-<td class="cuerpo_tabla_der">11.239.615</td>
-<td class="cuerpo_tabla_der">73</td>
-<td class="cuerpo_tabla_der">11.239.688</td>
+<td>Elaboración y Difusión Estadística.</td>
+<td>11.239.615</td>
+<td>73</td>
+<td>11.239.688</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Economía y Hacienda.</td>
-<td class="cuerpo_tabla_der">18.769.967</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">18.769.967</td>
+<td>Dirección y Servicios Generales de Economía y Hacienda.</td>
+<td>18.769.967</td>
+<td> </td>
+<td>18.769.967</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación del Personal de Economía y Hacienda.</td>
-<td class="cuerpo_tabla_der">1.589.389</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.589.389</td>
+<td>Formación del Personal de Economía y Hacienda.</td>
+<td>1.589.389</td>
+<td> </td>
+<td>1.589.389</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Previsión y Política Económica.</td>
-<td class="cuerpo_tabla_der">434.341</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">434.341</td>
+<td>Previsión y Política Económica.</td>
+<td>434.341</td>
+<td> </td>
+<td>434.341</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Planificación, Presupuestación y Política Fiscal.</td>
-<td class="cuerpo_tabla_der">4.472.217</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.472.217</td>
+<td>Planificación, Presupuestación y Política Fiscal.</td>
+<td>4.472.217</td>
+<td> </td>
+<td>4.472.217</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Control Interno y Contabilidad Pública.</td>
-<td class="cuerpo_tabla_der">8.065.246</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.065.246</td>
+<td>Control Interno y Contabilidad Pública.</td>
+<td>8.065.246</td>
+<td> </td>
+<td>8.065.246</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de la Deuda y de la Tesorería del Estado.</td>
-<td class="cuerpo_tabla_der">1.758.041</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.758.041</td>
+<td>Gestión de la Deuda y de la Tesorería del Estado.</td>
+<td>1.758.041</td>
+<td> </td>
+<td>1.758.041</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión del Patrimonio del Estado.</td>
-<td class="cuerpo_tabla_der">366.285.934</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">366.285.934</td>
+<td>Gestión del Patrimonio del Estado.</td>
+<td>366.285.934</td>
+<td> </td>
+<td>366.285.934</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión, Inspección y Recaudación de Tributos Internos.</td>
-<td class="cuerpo_tabla_der">44.996.548</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">44.996.548</td>
+<td>Gestión, Inspección y Recaudación de Tributos Internos.</td>
+<td>44.996.548</td>
+<td> </td>
+<td>44.996.548</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión e Inspección de Aduanas e Impuestos Especiales.</td>
-<td class="cuerpo_tabla_der">15.774.414</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.774.414</td>
+<td>Gestión e Inspección de Aduanas e Impuestos Especiales.</td>
+<td>15.774.414</td>
+<td> </td>
+<td>15.774.414</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de la Administración Territorial de la Hacienda Pública.</td>
-<td class="cuerpo_tabla_der">16.813.582</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.813.582</td>
+<td>Dirección y Servicios Generales de la Administración Territorial de la Hacienda Pública.</td>
+<td>16.813.582</td>
+<td> </td>
+<td>16.813.582</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de los catastros inmobiliarios, rústicos y urbanos.</td>
-<td class="cuerpo_tabla_der">28.927.735</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.927.735</td>
+<td>Gestión de los catastros inmobiliarios, rústicos y urbanos.</td>
+<td>28.927.735</td>
+<td> </td>
+<td>28.927.735</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de Loterías, Apuestas y Juegos de Azar.</td>
-<td class="cuerpo_tabla_der">9.512.819</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.512.819</td>
+<td>Gestión de Loterías, Apuestas y Juegos de Azar.</td>
+<td>9.512.819</td>
+<td> </td>
+<td>9.512.819</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción Comercial y Fomento a la Exportación.</td>
-<td class="cuerpo_tabla_der">24.441.574</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">24.441.574</td>
+<td>Promoción Comercial y Fomento a la Exportación.</td>
+<td>24.441.574</td>
+<td> </td>
+<td>24.441.574</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordenación del Comercio Exterior.</td>
-<td class="cuerpo_tabla_der">3.247.834</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.247.834</td>
+<td>Ordenación del Comercio Exterior.</td>
+<td>3.247.834</td>
+<td> </td>
+<td>3.247.834</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transacciones Corrientes e Inversiones Exteriores.</td>
-<td class="cuerpo_tabla_der">323.868</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">323.868</td>
+<td>Transacciones Corrientes e Inversiones Exteriores.</td>
+<td>323.868</td>
+<td> </td>
+<td>323.868</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación del Comercio Interior.</td>
-<td class="cuerpo_tabla_der">3.146.824</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.146.824</td>
+<td>Regulación del Comercio Interior.</td>
+<td>3.146.824</td>
+<td> </td>
+<td>3.146.824</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Defensa de la Competencia.</td>
-<td class="cuerpo_tabla_der">244.746</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">244.746</td>
+<td>Defensa de la Competencia.</td>
+<td>244.746</td>
+<td> </td>
+<td>244.746</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección Control y Gestión de Seguros.</td>
-<td class="cuerpo_tabla_der">125.978.276</td>
-<td class="cuerpo_tabla_der">9.800</td>
-<td class="cuerpo_tabla_der">125.988.076</td>
+<td>Dirección Control y Gestión de Seguros.</td>
+<td>125.978.276</td>
+<td>9.800</td>
+<td>125.988.076</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de la Caja Postal de Ahorros.</td>
-<td class="cuerpo_tabla_der">20.466.187</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.466.187</td>
+<td>Gestión de la Caja Postal de Ahorros.</td>
+<td>20.466.187</td>
+<td> </td>
+<td>20.466.187</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Financiación de Crédito Oficial.</td>
-<td class="cuerpo_tabla_der">1.000.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.000.000</td>
+<td>Financiación de Crédito Oficial.</td>
+<td>1.000.000</td>
+<td> </td>
+<td>1.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación de Mercados Financieros.</td>
-<td class="cuerpo_tabla_der">1.328.749</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.328.749</td>
+<td>Regulación de Mercados Financieros.</td>
+<td>1.328.749</td>
+<td> </td>
+<td>1.328.749</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Imprevistos y funciones no clasificadas.</td>
-<td class="cuerpo_tabla_der">83.593.140</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">83.593.140</td>
+<td>Imprevistos y funciones no clasificadas.</td>
+<td>83.593.140</td>
+<td> </td>
+<td>83.593.140</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Agricultura.</td>
-<td class="cuerpo_tabla_der">21.077.224</td>
-<td class="cuerpo_tabla_der">20.929.100</td>
-<td class="cuerpo_tabla_der">42.006.324</td>
+<td>Dirección y Servicios Generales de Agricultura.</td>
+<td>21.077.224</td>
+<td>20.929.100</td>
+<td>42.006.324</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organización en común de la producción comercial agraria y pesquera.</td>
-<td class="cuerpo_tabla_der">8.779.875</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.779.875</td>
+<td>Organización en común de la producción comercial agraria y pesquera.</td>
+<td>8.779.875</td>
+<td> </td>
+<td>8.779.875</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sanidad Vegetal y Animal.</td>
-<td class="cuerpo_tabla_der">10.747.507</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.747.507</td>
+<td>Sanidad Vegetal y Animal.</td>
+<td>10.747.507</td>
+<td> </td>
+<td>10.747.507</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de los sistemas de producción agraria y pesquera.</td>
-<td class="cuerpo_tabla_der">13.293.466</td>
-<td class="cuerpo_tabla_der">39.054</td>
-<td class="cuerpo_tabla_der">13.332.520</td>
+<td>Mejora de los sistemas de producción agraria y pesquera.</td>
+<td>13.293.466</td>
+<td>39.054</td>
+<td>13.332.520</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de la estructura productiva agraria y pesquera.</td>
-<td class="cuerpo_tabla_der">49.772.584</td>
-<td class="cuerpo_tabla_der">4.152.000</td>
-<td class="cuerpo_tabla_der">53.924.584</td>
+<td>Mejora de la estructura productiva agraria y pesquera.</td>
+<td>49.772.584</td>
+<td>4.152.000</td>
+<td>53.924.584</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comercialización. industrialización y ordenación alimentaria.</td>
-<td class="cuerpo_tabla_der">14.793.628</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.793.628</td>
+<td>Comercialización. industrialización y ordenación alimentaria.</td>
+<td>14.793.628</td>
+<td> </td>
+<td>14.793.628</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revisión de riesgos en los sectores agrarios y pesqueros.</td>
-<td class="cuerpo_tabla_der">8.827.500</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.827.500</td>
+<td>Revisión de riesgos en los sectores agrarios y pesqueros.</td>
+<td>8.827.500</td>
+<td> </td>
+<td>8.827.500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación de producciones y de mercados Agrario y Pesquero.</td>
-<td class="cuerpo_tabla_der">224.727.400</td>
-<td class="cuerpo_tabla_der">55.429.000</td>
-<td class="cuerpo_tabla_der">280.156.400</td>
+<td>Regulación de producciones y de mercados Agrario y Pesquero.</td>
+<td>224.727.400</td>
+<td>55.429.000</td>
+<td>280.156.400</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección y Servicios Generales de Industria.</td>
-<td class="cuerpo_tabla_der">6.616.927</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.616.927</td>
+<td>Dirección y Servicios Generales de Industria.</td>
+<td>6.616.927</td>
+<td> </td>
+<td>6.616.927</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Regulación y Protección de la Propiedad Industrial.</td>
-<td class="cuerpo_tabla_der">2.802.340</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.802.340</td>
+<td>Regulación y Protección de la Propiedad Industrial.</td>
+<td>2.802.340</td>
+<td> </td>
+<td>2.802.340</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Promoción de la Calidad Industrial.</td>
-<td class="cuerpo_tabla_der">2.000.623</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.000.623</td>
+<td>Promoción de la Calidad Industrial.</td>
+<td>2.000.623</td>
+<td> </td>
+<td>2.000.623</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Participación en Empresas.</td>
-<td class="cuerpo_tabla_der">40.000.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40.000.000</td>
+<td>Participación en Empresas.</td>
+<td>40.000.000</td>
+<td> </td>
+<td>40.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reconversión y Reindustrialización.</td>
-<td class="cuerpo_tabla_der">59.056.669</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">59.056.669</td>
+<td>Reconversión y Reindustrialización.</td>
+<td>59.056.669</td>
+<td> </td>
+<td>59.056.669</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desarrollo Cooperativo.</td>
-<td class="cuerpo_tabla_der">2.334.920</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.234.920</td>
+<td>Desarrollo Cooperativo.</td>
+<td>2.334.920</td>
+<td> </td>
+<td>2.234.920</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo a la pequeña y mediana empresa industrial.</td>
-<td class="cuerpo_tabla_der">2.731.939</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.731.939</td>
+<td>Apoyo a la pequeña y mediana empresa industrial.</td>
+<td>2.731.939</td>
+<td> </td>
+<td>2.731.939</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Incentivos regionales a la localización industrial.</td>
-<td class="cuerpo_tabla_der">12.214.114</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.214.114</td>
+<td>Incentivos regionales a la localización industrial.</td>
+<td>12.214.114</td>
+<td> </td>
+<td>12.214.114</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Normativa y desarrollo Energético.</td>
-<td class="cuerpo_tabla_der">13.704.324</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.704.324</td>
+<td>Normativa y desarrollo Energético.</td>
+<td>13.704.324</td>
+<td> </td>
+<td>13.704.324</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explotación Minera.</td>
-<td class="cuerpo_tabla_der">52.053.367</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">52.053.367</td>
+<td>Explotación Minera.</td>
+<td>52.053.367</td>
+<td> </td>
+<td>52.053.367</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coordinación y Promoción del Turismo.</td>
-<td class="cuerpo_tabla_der">11.044.348</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.044.348</td>
+<td>Coordinación y Promoción del Turismo.</td>
+<td>11.044.348</td>
+<td> </td>
+<td>11.044.348</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de los establecimientos turísticos estatales.</td>
-<td class="cuerpo_tabla_der">7.863.706</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.863.706</td>
+<td>Gestión de los establecimientos turísticos estatales.</td>
+<td>7.863.706</td>
+<td> </td>
+<td>7.863.706</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a las Comunidades Autónomas por coste de Servicios Asumidos.</td>
-<td class="cuerpo_tabla_der">120.072</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">120.072</td>
+<td>Transferencias a las Comunidades Autónomas por coste de Servicios Asumidos.</td>
+<td>120.072</td>
+<td> </td>
+<td>120.072</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a Comunidades Autónomas por participación en los Ingresos del Estado.</td>
-<td class="cuerpo_tabla_der">816.359.650</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">816.359.650</td>
+<td>Transferencias a Comunidades Autónomas por participación en los Ingresos del Estado.</td>
+<td>816.359.650</td>
+<td> </td>
+<td>816.359.650</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a Comunidades Autónomas por el F.C.I.</td>
-<td class="cuerpo_tabla_der">197.327.300</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">197.327.300</td>
+<td>Transferencias a Comunidades Autónomas por el F.C.I.</td>
+<td>197.327.300</td>
+<td> </td>
+<td>197.327.300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a Comunidades Autónomas.</td>
-<td class="cuerpo_tabla_der">128.100</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">128.100</td>
+<td>Transferencias a Comunidades Autónomas.</td>
+<td>128.100</td>
+<td> </td>
+<td>128.100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a las Comunidades Autónomas procedentes del FEDER.</td>
-<td class="cuerpo_tabla_der">10.742.700</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.742.700</td>
+<td>Transferencias a las Comunidades Autónomas procedentes del FEDER.</td>
+<td>10.742.700</td>
+<td> </td>
+<td>10.742.700</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a Corporaciones Locales por participación en Ingresos del Estado.</td>
-<td class="cuerpo_tabla_der">714.000.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">714.000.000</td>
+<td>Transferencias a Corporaciones Locales por participación en Ingresos del Estado.</td>
+<td>714.000.000</td>
+<td> </td>
+<td>714.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a Corporaciones Locales para Cooperación en Obras y Servicios.</td>
-<td class="cuerpo_tabla_der">25.077.509</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">25.077.509</td>
+<td>Transferencias a Corporaciones Locales para Cooperación en Obras y Servicios.</td>
+<td>25.077.509</td>
+<td> </td>
+<td>25.077.509</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a Corporaciones Locales.</td>
-<td class="cuerpo_tabla_der">7.570.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.570.000</td>
+<td>Transferencias a Corporaciones Locales.</td>
+<td>7.570.000</td>
+<td> </td>
+<td>7.570.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relaciones Financieras con las Comunidades Europeas.</td>
-<td class="cuerpo_tabla_der">200.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">200.000</td>
+<td>Relaciones Financieras con las Comunidades Europeas.</td>
+<td>200.000</td>
+<td> </td>
+<td>200.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transferencias a las Comunidades Europeas.</td>
-<td class="cuerpo_tabla_der">323.508.000</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">323.508.000</td>
+<td>Transferencias a las Comunidades Europeas.</td>
+<td>323.508.000</td>
+<td> </td>
+<td>323.508.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amortización y gastos financieros de la Deuda Pública Interior.</td>
-<td class="cuerpo_tabla_der">1.063.972.384</td>
-<td class="cuerpo_tabla_der">220.614.896</td>
-<td class="cuerpo_tabla_der">1.284.587.280</td>
+<td>Amortización y gastos financieros de la Deuda Pública Interior.</td>
+<td>1.063.972.384</td>
+<td>220.614.896</td>
+<td>1.284.587.280</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amortización y gastos financieros de la Deuda Pública Exterior.</td>
-<td class="cuerpo_tabla_der">55.738.551</td>
-<td class="cuerpo_tabla_der">87.623.454</td>
-<td class="cuerpo_tabla_der">143.362.005</td>
+<td>Amortización y gastos financieros de la Deuda Pública Exterior.</td>
+<td>55.738.551</td>
+<td>87.623.454</td>
+<td>143.362.005</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_der">15.749.484.711</td>
-<td class="cuerpo_tabla_der">394.379.502</td>
-<td class="cuerpo_tabla_der">16.143.864.213</td>
+<td>Total.</td>
+<td>15.749.484.711</td>
+<td>394.379.502</td>
+<td>16.143.864.213</td>
 </tr>
 </tbody>
 </table>
@@ -6155,127 +6126,121 @@ Créditos ampliables en el presupuesto de la Seguridad Social.
 
 ## ANEXO IV — Asunción de deuda del INI con efectos de 1 de enero de 1989
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Obligaciones y préstamos</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Fecha de Real Decreto o de contrato</p>
+<th>
+<p>Obligaciones y préstamos</p>
+<p>–</p>
+<p>Fecha de Real Decreto o de contrato</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Capital vivo en 1-1-89</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Miles de pesetas</p>
+<th>
+<p>Capital vivo en 1-1-89</p>
+<p>–</p>
+<p>Miles de pesetas</p>
 </th>
-<th class="cabeza_tabla">Interés</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Duración de la deuda</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Período de amortización</p>
+<th>Interés</th>
+<th>
+<p>Duración de la deuda</p>
+<p>–</p>
+<p>Período de amortización</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión INI-1971, 406.969 Títulos.</td>
-<td class="cuerpo_tabla_der">4.069.690</td>
-<td class="cuerpo_tabla_centro">7 por 100</td>
+<td>Emisión INI-1971, 406.969 Títulos.</td>
+<td>4.069.690</td>
+<td>7 por 100</td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 1995.</p>
-<p class="cuerpo_tabla_izq">Desde 1989 hasta 1995.</p>
+<p>Hasta 1995.</p>
+<p>Desde 1989 hasta 1995.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión INI-1972. Totalidad de la emisión. Decretos 799/1972 y 3418/1972, de 23 de marzo y 7 de diciembre.</td>
-<td class="cuerpo_tabla_der">371.640</td>
-<td class="cuerpo_tabla_centro">6,25 por 100</td>
+<td>Emisión INI-1972. Totalidad de la emisión. Decretos 799/1972 y 3418/1972, de 23 de marzo y 7 de diciembre.</td>
+<td>371.640</td>
+<td>6,25 por 100</td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 1991.</p>
-<p class="cuerpo_tabla_izq">Desde 1989 hasta 1991.</p>
+<p>Hasta 1991.</p>
+<p>Desde 1989 hasta 1991.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión INI-1984. Totalidad de la emisión. Real Decreto 2297/1984, de 26 de diciembre.</td>
-<td class="cuerpo_tabla_der">11.825.750</td>
-<td class="cuerpo_tabla_centro">13,5 por 100</td>
+<td>Emisión INI-1984. Totalidad de la emisión. Real Decreto 2297/1984, de 26 de diciembre.</td>
+<td>11.825.750</td>
+<td>13,5 por 100</td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 1995.</p>
-<p class="cuerpo_tabla_izq">Desde 1989 hasta 1995.</p>
+<p>Hasta 1995.</p>
+<p>Desde 1989 hasta 1995.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión de bonos INI-1986. Totalidad de la emisión. Real Decreto 1341/1986, de 28 de junio.</td>
-<td class="cuerpo_tabla_der">35.000.000</td>
-<td class="cuerpo_tabla_centro">Variable, según condiciones del Real Decreto de emisión</td>
+<td>Emisión de bonos INI-1986. Totalidad de la emisión. Real Decreto 1341/1986, de 28 de junio.</td>
+<td>35.000.000</td>
+<td>Variable, según condiciones del Real Decreto de emisión</td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 2001.</p>
-<p class="cuerpo_tabla_izq">Desde 1998 hasta 2001.</p>
+<p>Hasta 2001.</p>
+<p>Desde 1998 hasta 2001.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión de bonos INI-1987, noviembre 1986. Totalidad de la emisión. Real Decreto 2161/1986, de 17 de octubre.</td>
-<td class="cuerpo_tabla_der">15.000.000</td>
-<td class="cuerpo_tabla_centro">9,75 por 100</td>
-<td class="cuerpo_tabla_izq">En 1993, con opción de preamortización en 1989 y 1991.</td>
+<td>Emisión de bonos INI-1987, noviembre 1986. Totalidad de la emisión. Real Decreto 2161/1986, de 17 de octubre.</td>
+<td>15.000.000</td>
+<td>9,75 por 100</td>
+<td>En 1993, con opción de preamortización en 1989 y 1991.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emisión de bonos INI-1987. Totalidad de la emisión del Real Decreto 649/1987, de 24 de abril.</td>
-<td class="cuerpo_tabla_der">30.000.000</td>
-<td class="cuerpo_tabla_centro">13,125 por 100</td>
+<td>Emisión de bonos INI-1987. Totalidad de la emisión del Real Decreto 649/1987, de 24 de abril.</td>
+<td>30.000.000</td>
+<td>13,125 por 100</td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 1993.</p>
-<p class="cuerpo_tabla_izq">Desde 1991 hasta 1993.</p>
+<p>Hasta 1993.</p>
+<p>Desde 1991 hasta 1993.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Español de Crédito. Parte de préstamo de 17 de diciembre de 1986.</td>
-<td class="cuerpo_tabla_der">235.000</td>
-<td class="cuerpo_tabla_centro">0,25 s/MIBOR o preferencial</td>
+<td>Banco Español de Crédito. Parte de préstamo de 17 de diciembre de 1986.</td>
+<td>235.000</td>
+<td>0,25 s/MIBOR o preferencial</td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 1998.</p>
-<p class="cuerpo_tabla_izq">Desde 1995 hasta 1998.</p>
+<p>Hasta 1998.</p>
+<p>Desde 1995 hasta 1998.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caja de Ahorros Provincial de Guipúzcoa, préstamo de 15-12-87.</td>
-<td class="cuerpo_tabla_der">3.500.000</td>
+<td>Caja de Ahorros Provincial de Guipúzcoa, préstamo de 15-12-87.</td>
+<td>3.500.000</td>
 <td>
-<p class="cuerpo_tabla_centro">Tramo A: 1.750 M/P al 0,25 % s/MIBOR.</p>
-<p class="cuerpo_tabla_centro">Tramo B: 1.750 M/P al 0,25 % s/Tipo.</p>
-<p class="cuerpo_tabla_centro">Referencia de las Cajas de Ahorro</p>
+<p>Tramo A: 1.750 M/P al 0,25 % s/MIBOR.</p>
+<p>Tramo B: 1.750 M/P al 0,25 % s/Tipo.</p>
+<p>Referencia de las Cajas de Ahorro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 1997.</p>
-<p class="cuerpo_tabla_izq">Desde 1995 hasta 1997.</p>
+<p>Hasta 1997.</p>
+<p>Desde 1995 hasta 1997.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Herrero. Préstamo de 14 de diciembre de 1987.</td>
-<td class="cuerpo_tabla_der">5.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR o s/Preferencial con variedades según tramos</td>
-<td class="cuerpo_tabla_izq">Hasta 1995 en 1995.</td>
+<td>Banco Herrero. Préstamo de 14 de diciembre de 1987.</td>
+<td>5.000.000</td>
+<td>MIBOR o s/Preferencial con variedades según tramos</td>
+<td>Hasta 1995 en 1995.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">BNP España. Préstamo de 20 de mayo de 1988.</td>
-<td class="cuerpo_tabla_der" rowspan="2">5.000.000</td>
-<td class="cuerpo_tabla_centro">Tramo A: 2.000 M/P al 0,20 % s/MIBOR.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Hasta 1996 en 1996.</td>
+<td rowspan="2">BNP España. Préstamo de 20 de mayo de 1988.</td>
+<td rowspan="2">5.000.000</td>
+<td>Tramo A: 2.000 M/P al 0,20 % s/MIBOR.</td>
+<td rowspan="2">Hasta 1996 en 1996.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Tramo B: 3.000 M/P al 0,25 % s/MIBOR o preferencial.</td>
+<td>Tramo B: 3.000 M/P al 0,25 % s/MIBOR o preferencial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_der">110.002.080</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Total.</td>
+<td>110.002.080</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -6380,39 +6345,31 @@ Programa: 142-A. «Tribunales de Justicia».
 
 (En miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="30%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos</p>
-<p class="cabeza_tabla">en el período</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo de compromisos</p>
+<p>en el período</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
-<th class="cabeza_tabla">1992</th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">86.13.003.9001</td>
-<td class="cuerpo_tabla_izq">Nueva construcción de edificios para sede de órganos judiciales unipersonales.</td>
-<td class="cuerpo_tabla_centro">7.000.000</td>
-<td class="cuerpo_tabla_centro">8.000.000</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15.000.000</td>
+<td>86.13.003.9001</td>
+<td>Nueva construcción de edificios para sede de órganos judiciales unipersonales.</td>
+<td>7.000.000</td>
+<td>8.000.000</td>
+<td>–</td>
+<td>15.000.000</td>
 </tr>
 </tbody>
 </table>
@@ -6425,47 +6382,39 @@ Sección 17. Ministerio de Obras Públicas y Urbanismo.
 
 (En miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="30%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos</p>
-<p class="cabeza_tabla">en el período</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo de compromisos</p>
+<p>en el período</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
-<th class="cabeza_tabla">1992</th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">512-A</td>
-<td class="cuerpo_tabla_izq">Gestión e infraestructura de recursos hidráulicos.</td>
-<td class="cuerpo_tabla_centro">83.430.000</td>
-<td class="cuerpo_tabla_centro">90.659.000</td>
-<td class="cuerpo_tabla_centro">73.471.000</td>
-<td class="cuerpo_tabla_centro">247.560.000</td>
+<td>512-A</td>
+<td>Gestión e infraestructura de recursos hidráulicos.</td>
+<td>83.430.000</td>
+<td>90.659.000</td>
+<td>73.471.000</td>
+<td>247.560.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">513-D</td>
-<td class="cuerpo_tabla_izq">Creación de infraestructura de carreteras.</td>
-<td class="cuerpo_tabla_centro">290.352.600</td>
-<td class="cuerpo_tabla_centro">213.616.500</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">503.969.100</td>
+<td>513-D</td>
+<td>Creación de infraestructura de carreteras.</td>
+<td>290.352.600</td>
+<td>213.616.500</td>
+<td>–</td>
+<td>503.969.100</td>
 </tr>
 </tbody>
 </table>
@@ -6478,39 +6427,31 @@ Programa: 541-A. «Investigación científica».
 
 (En miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="30%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos</p>
-<p class="cabeza_tabla">en el período</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo de compromisos</p>
+<p>en el período</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
-<th class="cabeza_tabla">1992</th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">88.18.202.9300</td>
-<td class="cuerpo_tabla_izq">Construcción de un buque oceanográfico de carácter polar.</td>
-<td class="cuerpo_tabla_centro">3.901.500</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">3.901.500</td>
+<td>88.18.202.9300</td>
+<td>Construcción de un buque oceanográfico de carácter polar.</td>
+<td>3.901.500</td>
+<td>–</td>
+<td>–</td>
+<td>3.901.500</td>
 </tr>
 </tbody>
 </table>
@@ -6523,39 +6464,31 @@ Programa: 322-B. «Actuaciones en el mercado de trabajo».
 
 (En miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="30%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos</p>
-<p class="cabeza_tabla">en el período</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo de compromisos</p>
+<p>en el período</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
-<th class="cabeza_tabla">1992</th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">88.19.101.9009</td>
-<td class="cuerpo_tabla_izq">Superproyecto de equipamiento de sistemas informáticos y ofimáticos.</td>
-<td class="cuerpo_tabla_centro">846.600</td>
-<td class="cuerpo_tabla_centro">500.000</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">1.346.500</td>
+<td>88.19.101.9009</td>
+<td>Superproyecto de equipamiento de sistemas informáticos y ofimáticos.</td>
+<td>846.600</td>
+<td>500.000</td>
+<td>–</td>
+<td>1.346.500</td>
 </tr>
 </tbody>
 </table>
@@ -6568,47 +6501,39 @@ Sección 23. Ministerio de Transportes, Turismo y Comunicaciones.
 
 (En miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="30%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos</p>
-<p class="cabeza_tabla">en el período</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo de compromisos</p>
+<p>en el período</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
-<th class="cabeza_tabla">1992</th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">513-A</td>
-<td class="cuerpo_tabla_izq">Infraestructura del transporte ferroviario.</td>
-<td class="cuerpo_tabla_centro">58.000.000</td>
-<td class="cuerpo_tabla_centro">64.000.000</td>
-<td class="cuerpo_tabla_centro">64.000.000</td>
-<td class="cuerpo_tabla_der">186.000.000</td>
+<td>513-A</td>
+<td>Infraestructura del transporte ferroviario.</td>
+<td>58.000.000</td>
+<td>64.000.000</td>
+<td>64.000.000</td>
+<td>186.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">515-A</td>
-<td class="cuerpo_tabla_izq">Infraestructura de aeropuertos.</td>
-<td class="cuerpo_tabla_centro">11.000.000</td>
-<td class="cuerpo_tabla_centro">11.000.000</td>
-<td class="cuerpo_tabla_centro">11.000.000</td>
-<td class="cuerpo_tabla_der">33.000.000</td>
+<td>515-A</td>
+<td>Infraestructura de aeropuertos.</td>
+<td>11.000.000</td>
+<td>11.000.000</td>
+<td>11.000.000</td>
+<td>33.000.000</td>
 </tr>
 </tbody>
 </table>
@@ -6621,39 +6546,31 @@ Programa: 126-C. «Boletín oficial del Estado».
 
 (En miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="30%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos</p>
-<p class="cabeza_tabla">en el período</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo de compromisos</p>
+<p>en el período</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
-<th class="cabeza_tabla">1992</th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">88.25.201.0025</td>
-<td class="cuerpo_tabla_izq">Construcción de un edificio industrial para instalación del diario oficial.</td>
-<td class="cuerpo_tabla_centro">700.000</td>
-<td class="cuerpo_tabla_centro">300.000</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">1.000.000</td>
+<td>88.25.201.0025</td>
+<td>Construcción de un edificio industrial para instalación del diario oficial.</td>
+<td>700.000</td>
+<td>300.000</td>
+<td>–</td>
+<td>1.000.000</td>
 </tr>
 </tbody>
 </table>

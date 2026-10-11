@@ -789,71 +789,61 @@ I.3 Composición Subcomisiones Paritarias
 
 I.4 Composición Comisiones Paritarias de convenios colectivos de ámbitos específicos en la Administración General del Estado
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">N.º miembros</th>
-<th class="cabeza_tabla" colspan="6">Composición y distribución de miembros</th>
+<th colspan="2" rowspan="2">N.º miembros</th>
+<th colspan="6">Composición y distribución de miembros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">UGT</th>
-<th class="cabeza_tabla">CSIF</th>
-<th class="cabeza_tabla">CCOO</th>
-<th class="cabeza_tabla">USO</th>
-<th class="cabeza_tabla">SIAT</th>
-<th class="cabeza_tabla">CGT</th>
+<th>UGT</th>
+<th>CSIF</th>
+<th>CCOO</th>
+<th>USO</th>
+<th>SIAT</th>
+<th>CGT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">AEAT.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>AEAT.</td>
+<td>9</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PATRIMONIO.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>PATRIMONIO.</td>
+<td>4</td>
+<td>1</td>
+<td> </td>
+<td>1</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BOE.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>BOE.</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> TOTAL.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td> TOTAL.</td>
+<td>18</td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
@@ -1029,71 +1019,61 @@ Reparto créditos horarios
 
 IV.2.3 Datos para el cálculo Comisiones Paritarias de Convenios Colectivos de ámbitos específicos en la Administración General del Estado
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">N.º créditos horarios</th>
-<th class="cabeza_tabla" colspan="6">Distribución créditos horarios</th>
+<th colspan="2" rowspan="2">N.º créditos horarios</th>
+<th colspan="6">Distribución créditos horarios</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">UGT</th>
-<th class="cabeza_tabla">CSIF</th>
-<th class="cabeza_tabla">CCOO</th>
-<th class="cabeza_tabla">USO</th>
-<th class="cabeza_tabla">SIAT</th>
-<th class="cabeza_tabla">CGT</th>
+<th>UGT</th>
+<th>CSIF</th>
+<th>CCOO</th>
+<th>USO</th>
+<th>SIAT</th>
+<th>CGT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">AEAT.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>AEAT.</td>
+<td>9</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Patrimonio.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Patrimonio.</td>
+<td>4</td>
+<td>1</td>
+<td> </td>
+<td>1</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BOE.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>BOE.</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td> Total.</td>
+<td>18</td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>

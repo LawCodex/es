@@ -1424,168 +1424,162 @@ I.B ACTIVIDADES DEMOSTRATIVAS DIGITALIZACIÓN.
 
 II.B ACTIVIDADES DEMOSTRATIVAS NO DIGITALIZACIÓN.
 
-<table class="tabla_girada_condensada">
-<colgroup>
-<col width="44%">
-<col width="6%">
-<col width="44%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Criterios y descripción</th>
-<th class="cabeza_tabla">Puntuación máxima</th>
-<th class="cabeza_tabla">Aspectos a valorar</th>
-<th class="cabeza_tabla">Puntuación máxima aspectos</th>
+<th>Criterios y descripción</th>
+<th>Puntuación máxima</th>
+<th>Aspectos a valorar</th>
+<th>Puntuación máxima aspectos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">A1. Experiencia y enfoque.</p>
-<p class="cuerpo_tabla_izq">Experiencia en digitalización o en el ámbito sectorial correspondiente, y en temas transversales.</p>
-<p class="cuerpo_tabla_izq">Enfoque de la entidad o agrupación solicitante.</p>
+<td rowspan="2">
+<p>A1. Experiencia y enfoque.</p>
+<p>Experiencia en digitalización o en el ámbito sectorial correspondiente, y en temas transversales.</p>
+<p>Enfoque de la entidad o agrupación solicitante.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq">Incidencia y relevancia de las actividades desarrolladas en el ámbito de la sostenibilidad (ambiental, social y económica), digitalización, en el ámbito sectorial y en su consideración del género.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td rowspan="2">10</td>
+<td>Incidencia y relevancia de las actividades desarrolladas en el ámbito de la sostenibilidad (ambiental, social y económica), digitalización, en el ámbito sectorial y en su consideración del género.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Visión y objetivos de la entidad o agrupación solicitante en relación con la solicitud de ayuda.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Visión y objetivos de la entidad o agrupación solicitante en relación con la solicitud de ayuda.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">A2. Capacidad y estructura propia.</p>
-<p class="cuerpo_tabla_izq">Adecuación de medios materiales y recursos humanos a disposición del programa.</p>
+<td rowspan="4">
+<p>A2. Capacidad y estructura propia.</p>
+<p>Adecuación de medios materiales y recursos humanos a disposición del programa.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="4">10</td>
-<td class="cuerpo_tabla_izq">Proporcionalidad y multidisciplinariedad de los recursos humanos disponibles, desagregados por sexo, para ejecutar la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td rowspan="4">10</td>
+<td>Proporcionalidad y multidisciplinariedad de los recursos humanos disponibles, desagregados por sexo, para ejecutar la propuesta de actividades.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación curricular del personal docente a la oferta demostrativa/divulgativa incluida en la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Adecuación curricular del personal docente a la oferta demostrativa/divulgativa incluida en la propuesta de actividades.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presencia y proporcionalidad de mujeres y hombres en el equipo que ejecute la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Presencia y proporcionalidad de mujeres y hombres en el equipo que ejecute la propuesta de actividades.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de las instalaciones y/o medios disponibles para la realización de las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Adecuación de las instalaciones y/o medios disponibles para la realización de las actividades propuestas.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">B1. Idoneidad de la propuesta.</p>
-<p class="cuerpo_tabla_izq">Necesidad de la propuesta demostrativa/divulgativa.</p>
-<p class="cuerpo_tabla_izq">Adecuación de los objetivos y resultados previstos conforme a las necesidades del sector agroalimentario y forestal.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td rowspan="2">
+<p>B1. Idoneidad de la propuesta.</p>
+<p>Necesidad de la propuesta demostrativa/divulgativa.</p>
+<p>Adecuación de los objetivos y resultados previstos conforme a las necesidades del sector agroalimentario y forestal.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_izq">Relevancia y pertinencia de las necesidades detectadas (demostrativas/divulgativas) y adecuación de los objetivos y resultados previstos a las mismas en la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td rowspan="2">6</td>
+<td>Relevancia y pertinencia de las necesidades detectadas (demostrativas/divulgativas) y adecuación de los objetivos y resultados previstos a las mismas en la propuesta de actividades.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de los objetivos y resultados conforme a las necesidades del sector agroalimentario y forestal.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Adecuación de los objetivos y resultados conforme a las necesidades del sector agroalimentario y forestal.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">
-<p class="cuerpo_tabla_izq">B2. Descripción y planificación de las actividades.</p>
-<p class="cuerpo_tabla_izq">Evaluación de actividades y cronograma propuestos.</p>
-<p class="cuerpo_tabla_izq">Adecuación de la oferta de actividades a las potenciales destinatarias y destinatarios (especial consideración de la inclusión del enfoque de género, la atracción y retención de jóvenes y la cobertura a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.). Consideración de las explotaciones de titularidad compartida.</p>
-<p class="cuerpo_tabla_izq">Asimismo, se valorará el plan de promoción y captación de alumnado y el plan para el seguimiento y evaluación del programa.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td rowspan="10">
+<p>B2. Descripción y planificación de las actividades.</p>
+<p>Evaluación de actividades y cronograma propuestos.</p>
+<p>Adecuación de la oferta de actividades a las potenciales destinatarias y destinatarios (especial consideración de la inclusión del enfoque de género, la atracción y retención de jóvenes y la cobertura a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.). Consideración de las explotaciones de titularidad compartida.</p>
+<p>Asimismo, se valorará el plan de promoción y captación de alumnado y el plan para el seguimiento y evaluación del programa.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="10">45</td>
-<td class="cuerpo_tabla_izq">Claridad expositiva en la descripción y caracterización de la actividad.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="10">45</td>
+<td>Claridad expositiva en la descripción y caracterización de la actividad.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Congruencia de la propuesta: da respuesta a las necesidades y objetivos reflejados en B1.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Congruencia de la propuesta: da respuesta a las necesidades y objetivos reflejados en B1.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relevancia de la demostración/divulgación en el ámbito geográfico y sectorial en la que se aplicaría la misma.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Relevancia de la demostración/divulgación en el ámbito geográfico y sectorial en la que se aplicaría la misma.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de la oferta a las posibles destinatarias y destinatarios. Público objetivo.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Adecuación de la oferta a las posibles destinatarias y destinatarios. Público objetivo.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inclusión de perspectiva de AKIS.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Inclusión de perspectiva de AKIS.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inclusión de medidas para la retención y atracción de jóvenes. Emprendimiento.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Inclusión de medidas para la retención y atracción de jóvenes. Emprendimiento.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies. Favoreciendo su inscripción en las actividades.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies. Favoreciendo su inscripción en las actividades.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coherencia del cronograma de las actuaciones demostrativas/divulgativas con los objetivos previstos.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Coherencia del cronograma de las actuaciones demostrativas/divulgativas con los objetivos previstos.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del plan de divulgación de la acción demostrativa/divulgativa.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del plan de divulgación de la acción demostrativa/divulgativa.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad de la actividad. Se valora la calidad media de todas las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad de la actividad. Se valora la calidad media de todas las actividades propuestas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">B3. Empleo de TIC (I.A y I.B).</p>
-<p class="cuerpo_tabla_izq">ó.</p>
-<p class="cuerpo_tabla_izq">enfoque sectorial y relación con los objetivos específicos del PEPAC (II.A y II.B).</p>
-<p class="cuerpo_tabla_izq">Adecuación del uso de TICs a la oferta demostrativa/divulgativa para actividades de digitalización.</p>
-<p class="cuerpo_tabla_izq">ó.</p>
-<p class="cuerpo_tabla_izq">Adecuación de las necesidades del sector con los objetivos específicos del PEPAC para actividades fuera del ámbito de la digitalización.</p>
+<td>
+<p>B3. Empleo de TIC (I.A y I.B).</p>
+<p>ó.</p>
+<p>enfoque sectorial y relación con los objetivos específicos del PEPAC (II.A y II.B).</p>
+<p>Adecuación del uso de TICs a la oferta demostrativa/divulgativa para actividades de digitalización.</p>
+<p>ó.</p>
+<p>Adecuación de las necesidades del sector con los objetivos específicos del PEPAC para actividades fuera del ámbito de la digitalización.</p>
 </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Coherencia de la descripción del empleo de TIC con el programa demostrativo/divulgativo.</p>
-<p class="cuerpo_tabla_izq">ó.</p>
-<p class="cuerpo_tabla_izq">Coherencia del enfoque sectorial y los objetivos específicos del PEPAC. (1/3 de la nota recogerá la componente medioambiental de las propuestas).</p>
+<td>10</td>
+<td>
+<p>Coherencia de la descripción del empleo de TIC con el programa demostrativo/divulgativo.</p>
+<p>ó.</p>
+<p>Coherencia del enfoque sectorial y los objetivos específicos del PEPAC. (1/3 de la nota recogerá la componente medioambiental de las propuestas).</p>
 </td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">B4. Impacto previsto.</p>
-<p class="cuerpo_tabla_izq">Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la propuesta y fortalecimiento del ecosistema de innovación. Presencia de la innovación interactiva.</p>
-<p class="cuerpo_tabla_izq">Alcance geográfico.</p>
+<td rowspan="2">
+<p>B4. Impacto previsto.</p>
+<p>Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la propuesta y fortalecimiento del ecosistema de innovación. Presencia de la innovación interactiva.</p>
+<p>Alcance geográfico.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_izq">Apoyo al desarrollo empresarial, nuevos modelos de negocio potenciados, fortalecimiento del ecosistema de innovación. Presencia de la innovación interactiva.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td rowspan="2">4</td>
+<td>Apoyo al desarrollo empresarial, nuevos modelos de negocio potenciados, fortalecimiento del ecosistema de innovación. Presencia de la innovación interactiva.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcance territorial de las acciones demostrativas/divulgativas.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Alcance territorial de las acciones demostrativas/divulgativas.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">B5. Presupuesto.</p>
-<p class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto.</p>
-<p class="cuerpo_tabla_izq">Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
+<td rowspan="3">
+<p>B5. Presupuesto.</p>
+<p>Coherencia y adecuación del presupuesto.</p>
+<p>Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="3">15</td>
-<td class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="3">15</td>
+<td>Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad expositiva.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Claridad expositiva.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad en el desglose de gastos.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Claridad en el desglose de gastos.</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
@@ -1594,487 +1588,469 @@ I.C.1 FORMACIÓN PROFESIONALES DIGITALIZACIÓN.
 
 I.C.2 FORMACIÓN ASESORES DIGITALIZACIÓN.
 
-<table class="tabla_girada_condensada">
-<colgroup>
-<col width="44%">
-<col width="6%">
-<col width="44%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Criterios y descripción</th>
-<th class="cabeza_tabla">Puntuación máxima</th>
-<th class="cabeza_tabla">Aspectos a valorar</th>
-<th class="cabeza_tabla">Puntuación máxima aspectos</th>
+<th>Criterios y descripción</th>
+<th>Puntuación máxima</th>
+<th>Aspectos a valorar</th>
+<th>Puntuación máxima aspectos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">A1. Experiencia y enfoque.</p>
-<p class="cuerpo_tabla_izq">Experiencia en digitalización y temas transversales.</p>
-<p class="cuerpo_tabla_izq">Enfoque de la entidad o agrupación solicitante.</p>
+<td rowspan="2">
+<p>A1. Experiencia y enfoque.</p>
+<p>Experiencia en digitalización y temas transversales.</p>
+<p>Enfoque de la entidad o agrupación solicitante.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq">Incidencia y relevancia de las actividades desarrolladas en el ámbito de la sostenibilidad (ambiental, social y económica), digitalización y en su consideración del género.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td rowspan="2">10</td>
+<td>Incidencia y relevancia de las actividades desarrolladas en el ámbito de la sostenibilidad (ambiental, social y económica), digitalización y en su consideración del género.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Visión y objetivos de la entidad o agrupación solicitante en relación con la solicitud de ayuda.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Visión y objetivos de la entidad o agrupación solicitante en relación con la solicitud de ayuda.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">A2. Capacidad y estructura propia.</p>
-<p class="cuerpo_tabla_izq">Adecuación de medios materiales y recursos humanos a disposición del programa formativo.</p>
+<td rowspan="4">
+<p>A2. Capacidad y estructura propia.</p>
+<p>Adecuación de medios materiales y recursos humanos a disposición del programa formativo.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="4">10</td>
-<td class="cuerpo_tabla_izq">Proporcionalidad y multidisciplinariedad de los recursos humanos disponibles, desagregados por sexo, para ejecutar la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td rowspan="4">10</td>
+<td>Proporcionalidad y multidisciplinariedad de los recursos humanos disponibles, desagregados por sexo, para ejecutar la propuesta de actividades.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación curricular del personal docente a la oferta formativa incluida en la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Adecuación curricular del personal docente a la oferta formativa incluida en la propuesta de actividades.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presencia y proporcionalidad de mujeres y hombres en el equipo que ejecute la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Presencia y proporcionalidad de mujeres y hombres en el equipo que ejecute la propuesta de actividades.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de las instalaciones y medios disponibles para la realización de las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Adecuación de las instalaciones y medios disponibles para la realización de las actividades propuestas.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">B1. Idoneidad de la propuesta.</p>
-<p class="cuerpo_tabla_izq">Necesidad de la propuesta formativa.</p>
-<p class="cuerpo_tabla_izq">Adecuación de los objetivos y resultados previstos conforme a las necesidades del sector agroalimentario y forestal.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td rowspan="2">
+<p>B1. Idoneidad de la propuesta.</p>
+<p>Necesidad de la propuesta formativa.</p>
+<p>Adecuación de los objetivos y resultados previstos conforme a las necesidades del sector agroalimentario y forestal.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_izq">Relevancia y pertinencia de las necesidades formativas y adecuación de los objetivos y resultados previstos a las mismas en la propuesta de actividades.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td rowspan="2">6</td>
+<td>Relevancia y pertinencia de las necesidades formativas y adecuación de los objetivos y resultados previstos a las mismas en la propuesta de actividades.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de los objetivos y resultados previstos conforme a las necesidades del sector agroalimentario y forestal.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Adecuación de los objetivos y resultados previstos conforme a las necesidades del sector agroalimentario y forestal.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">
-<p class="cuerpo_tabla_izq">B2. Planificación y descripción de las actividades.</p>
-<p class="cuerpo_tabla_izq">Evaluación de actividades y cronograma propuestos.</p>
-<p class="cuerpo_tabla_izq">Adecuación de la oferta formativa a las potenciales destinatarias y destinatarios (especial consideración de la inclusión del enfoque de género, de AKIS, la atracción y retención de jóvenes y la cobertura a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.).</p>
-<p class="cuerpo_tabla_izq">Consideración de las explotaciones de titularidad compartida.</p>
-<p class="cuerpo_tabla_izq">Asimismo, se valorará el plan de promoción y captación de alumnos.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td rowspan="10">
+<p>B2. Planificación y descripción de las actividades.</p>
+<p>Evaluación de actividades y cronograma propuestos.</p>
+<p>Adecuación de la oferta formativa a las potenciales destinatarias y destinatarios (especial consideración de la inclusión del enfoque de género, de AKIS, la atracción y retención de jóvenes y la cobertura a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.).</p>
+<p>Consideración de las explotaciones de titularidad compartida.</p>
+<p>Asimismo, se valorará el plan de promoción y captación de alumnos.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="10">45</td>
-<td class="cuerpo_tabla_izq">Claridad expositiva en la descripción y caracterización de la actividad.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="10">45</td>
+<td>Claridad expositiva en la descripción y caracterización de la actividad.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Congruencia de la propuesta: da respuesta a las necesidades y objetivos reflejados en B1.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Congruencia de la propuesta: da respuesta a las necesidades y objetivos reflejados en B1.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relevancia de la formación en el ámbito geográfico y sectorial en la que se aplicaría la formación.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Relevancia de la formación en el ámbito geográfico y sectorial en la que se aplicaría la formación.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de la oferta a las posibles destinatarias y destinatarios.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Adecuación de la oferta a las posibles destinatarias y destinatarios.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inclusión de perspectiva de AKIS.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Inclusión de perspectiva de AKIS.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inclusión de medidas para la retención y atracción de jóvenes. Emprendimiento.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Inclusión de medidas para la retención y atracción de jóvenes. Emprendimiento.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies. Favorecer su inscripción en las actividades.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies. Favorecer su inscripción en las actividades.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coherencia del cronograma de los cursos con los objetivos previstos.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Coherencia del cronograma de los cursos con los objetivos previstos.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del plan de divulgación de los cursos.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del plan de divulgación de los cursos.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del curso. Se valora la calidad media de todos los cursos, ósea el curso unitario.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del curso. Se valora la calidad media de todos los cursos, ósea el curso unitario.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">B3. Empleo de TIC.</p>
-<p class="cuerpo_tabla_izq">Adecuación del uso de TICs a la oferta formativa.</p>
+<td>
+<p>B3. Empleo de TIC.</p>
+<p>Adecuación del uso de TICs a la oferta formativa.</p>
 </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Coherencia de la descripción del empleo de TIC con el programa formativo.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>10</td>
+<td>Coherencia de la descripción del empleo de TIC con el programa formativo.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">B4. Impacto previsto.</p>
-<p class="cuerpo_tabla_izq">Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la propuesta y fortalecimiento de ecosistema de innovación. Presencia de la innovación interactiva.</p>
-<p class="cuerpo_tabla_izq">Alcance geográfico.</p>
+<td rowspan="2">
+<p>B4. Impacto previsto.</p>
+<p>Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la propuesta y fortalecimiento de ecosistema de innovación. Presencia de la innovación interactiva.</p>
+<p>Alcance geográfico.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_izq">Apoyo al desarrollo empresarial, nuevos modelos de negocio potenciados, fortalecimiento del ecosistema de innovación. Presencia de la innovación interactiva.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td rowspan="2">4</td>
+<td>Apoyo al desarrollo empresarial, nuevos modelos de negocio potenciados, fortalecimiento del ecosistema de innovación. Presencia de la innovación interactiva.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcance territorial de las acciones formativas.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Alcance territorial de las acciones formativas.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">B5. Presupuesto.</p>
-<p class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto.</p>
-<p class="cuerpo_tabla_izq">Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
+<td rowspan="3">
+<p>B5. Presupuesto.</p>
+<p>Coherencia y adecuación del presupuesto.</p>
+<p>Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="3">15</td>
-<td class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="3">15</td>
+<td>Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad expositiva.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Claridad expositiva.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad en el desglose de gastos.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Claridad en el desglose de gastos.</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
 
 III. PRESTACIÓN DE SERVICIOS DE ASESORAMIENTO DE DIGITALIZACIÓN.
 
-<table class="tabla_girada_condensada">
-<colgroup>
-<col width="44%">
-<col width="6%">
-<col width="44%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Criterios y descripción</th>
-<th class="cabeza_tabla">Puntuación máxima</th>
-<th class="cabeza_tabla">Aspectos a valorar</th>
-<th class="cabeza_tabla">Puntuación máxima aspectos</th>
+<th>Criterios y descripción</th>
+<th>Puntuación máxima</th>
+<th>Aspectos a valorar</th>
+<th>Puntuación máxima aspectos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">A1. Experiencia y enfoque.</p>
-<p class="cuerpo_tabla_izq">Experiencia en digitalización y temas transversales.</p>
-<p class="cuerpo_tabla_izq">Enfoque de la entidad solicitante.</p>
+<td rowspan="2">
+<p>A1. Experiencia y enfoque.</p>
+<p>Experiencia en digitalización y temas transversales.</p>
+<p>Enfoque de la entidad solicitante.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq">Incidencia y relevancia de las actividades desarrolladas en el ámbito de la sostenibilidad (ambiental, social y económica), digitalización y en su consideración del género.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td rowspan="2">10</td>
+<td>Incidencia y relevancia de las actividades desarrolladas en el ámbito de la sostenibilidad (ambiental, social y económica), digitalización y en su consideración del género.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Visión y objetivos de la entidad solicitante en relación con la solicitud de ayuda.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Visión y objetivos de la entidad solicitante en relación con la solicitud de ayuda.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">A2. Capacidad y estructura propia.</p>
-<p class="cuerpo_tabla_izq">Adecuación de medios materiales y recursos humanos a disposición del programa.</p>
+<td rowspan="4">
+<p>A2. Capacidad y estructura propia.</p>
+<p>Adecuación de medios materiales y recursos humanos a disposición del programa.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="4">20</td>
-<td class="cuerpo_tabla_izq">Proporcionalidad y multidisciplinariedad de los recursos humanos disponibles, desagregados por sexo, para ejecutar los asesoramientos.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="4">20</td>
+<td>Proporcionalidad y multidisciplinariedad de los recursos humanos disponibles, desagregados por sexo, para ejecutar los asesoramientos.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación curricular del personal asesor al servicio de asesoramiento digital incluido en la Propuesta de Asesoramientos.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Adecuación curricular del personal asesor al servicio de asesoramiento digital incluido en la Propuesta de Asesoramientos.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presencia y proporcionalidad de mujeres y hombres en el equipo que ejecute la Propuesta de asesoramientos.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Presencia y proporcionalidad de mujeres y hombres en el equipo que ejecute la Propuesta de asesoramientos.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de las instalaciones y medios disponibles para la prestación del servicio de asesoramiento.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Adecuación de las instalaciones y medios disponibles para la prestación del servicio de asesoramiento.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">B1. Idoneidad de la propuesta.</p>
-<p class="cuerpo_tabla_izq">Necesidad del asesoramiento.</p>
-<p class="cuerpo_tabla_izq">Adecuación de los objetivos y resultados previstos a las necesidades del sector agroalimentario y forestal.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td>
+<p>B1. Idoneidad de la propuesta.</p>
+<p>Necesidad del asesoramiento.</p>
+<p>Adecuación de los objetivos y resultados previstos a las necesidades del sector agroalimentario y forestal.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Relevancia y pertinencia de las necesidades de asesoría identificadas y adecuación de los objetivos y resultados previstos a las mismas.</p>
-<p class="cuerpo_tabla_izq">Tipología de asesoramientos. Variedad, descripción y utilidad práctica.</p>
+<td>5</td>
+<td>
+<p>Relevancia y pertinencia de las necesidades de asesoría identificadas y adecuación de los objetivos y resultados previstos a las mismas.</p>
+<p>Tipología de asesoramientos. Variedad, descripción y utilidad práctica.</p>
 </td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">B2. Planificación y descripción de las actividades.</p>
-<p class="cuerpo_tabla_izq">Descripción de la cartera de servicios de asesoramiento.</p>
-<p class="cuerpo_tabla_izq">Adecuación de la oferta de asesoramiento a las posibles destinatarias y destinatarios del mismo (con especial consideración de la inclusión del enfoque de género, de AKIS, la atracción y retención de jóvenes y la cobertura a profesionales en zonas remotas, de alta montaña, e incluidas en figuras de protección de espacios y especies).</p>
-<p class="cuerpo_tabla_izq">Consideración de las explotaciones de titularidad compartida.</p>
-<p class="cuerpo_tabla_izq">Asimismo, se valorará el plan de promoción y captación de demandantes de asesoramiento y el asesoramiento individualizado.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td rowspan="6">
+<p>B2. Planificación y descripción de las actividades.</p>
+<p>Descripción de la cartera de servicios de asesoramiento.</p>
+<p>Adecuación de la oferta de asesoramiento a las posibles destinatarias y destinatarios del mismo (con especial consideración de la inclusión del enfoque de género, de AKIS, la atracción y retención de jóvenes y la cobertura a profesionales en zonas remotas, de alta montaña, e incluidas en figuras de protección de espacios y especies).</p>
+<p>Consideración de las explotaciones de titularidad compartida.</p>
+<p>Asimismo, se valorará el plan de promoción y captación de demandantes de asesoramiento y el asesoramiento individualizado.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="6">35</td>
-<td class="cuerpo_tabla_izq">Claridad expositiva en la descripción y caracterización del asesoramiento.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="6">35</td>
+<td>Claridad expositiva en la descripción y caracterización del asesoramiento.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Congruencia de la propuesta: da respuesta a las necesidades y objetivos reflejados en B1.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Congruencia de la propuesta: da respuesta a las necesidades y objetivos reflejados en B1.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relevancia del asesoramiento en el ámbito geográfico y sectorial en el que se aplicaría el asesoramiento.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Relevancia del asesoramiento en el ámbito geográfico y sectorial en el que se aplicaría el asesoramiento.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Destinatarios y destinatarias:</p>
-<p class="cuerpo_tabla_izq">Adecuación de la oferta a las posibles destinatarias y destinatarios del asesoramiento máx. 2 puntos.</p>
-<p class="cuerpo_tabla_izq">Inclusión de perspectiva de AKIS máx. 1,0 puntos.</p>
-<p class="cuerpo_tabla_izq">Inclusión de medidas para la retención y atracción de jóvenes máx. 1,0 puntos.</p>
-<p class="cuerpo_tabla_izq">Atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies. máx. 1,0 puntos.</p>
+<td>
+<p>Destinatarios y destinatarias:</p>
+<p>Adecuación de la oferta a las posibles destinatarias y destinatarios del asesoramiento máx. 2 puntos.</p>
+<p>Inclusión de perspectiva de AKIS máx. 1,0 puntos.</p>
+<p>Inclusión de medidas para la retención y atracción de jóvenes máx. 1,0 puntos.</p>
+<p>Atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies. máx. 1,0 puntos.</p>
 </td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del plan de divulgación del asesoramiento.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del plan de divulgación del asesoramiento.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del asesoramiento individualizado. Calidad de las visitas. Se valorará la calidad del asesoramiento medio, ósea el asesoramiento unitario.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del asesoramiento individualizado. Calidad de las visitas. Se valorará la calidad del asesoramiento medio, ósea el asesoramiento unitario.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">B3. Empleo de TIC.</p>
-<p class="cuerpo_tabla_izq">Adecuación del uso de TICs a la oferta de asesoramiento.</p>
+<td rowspan="2">
+<p>B3. Empleo de TIC.</p>
+<p>Adecuación del uso de TICs a la oferta de asesoramiento.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq">Coherencia de la descripción del empleo de TIC con la propuesta de asesoramiento.</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td rowspan="2">10</td>
+<td>Coherencia de la descripción del empleo de TIC con la propuesta de asesoramiento.</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Interoperabilidad con otras plataformas o redes de asesoramiento.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Interoperabilidad con otras plataformas o redes de asesoramiento.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">B4. Impacto previsto.</p>
-<p class="cuerpo_tabla_izq">Inclusión de la conectividad en la asesoría.</p>
-<p class="cuerpo_tabla_izq">Inclusión del fomento del uso de datos en la asesoría (interoperabilidad, datos abiertos, etc.).</p>
-<p class="cuerpo_tabla_izq">Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la digitalización y fortalecimiento de ecosistema de innovación. Presencia de innovación interactiva.</p>
-<p class="cuerpo_tabla_izq">Alcance geográfico.</p>
+<td rowspan="4">
+<p>B4. Impacto previsto.</p>
+<p>Inclusión de la conectividad en la asesoría.</p>
+<p>Inclusión del fomento del uso de datos en la asesoría (interoperabilidad, datos abiertos, etc.).</p>
+<p>Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la digitalización y fortalecimiento de ecosistema de innovación. Presencia de innovación interactiva.</p>
+<p>Alcance geográfico.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="4">5</td>
-<td class="cuerpo_tabla_izq">Inclusión de la resolución de problemas de conectividad en la asesoría.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td rowspan="4">5</td>
+<td>Inclusión de la resolución de problemas de conectividad en la asesoría.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inclusión del fomento de uso de datos en la asesoría (utilización de <em>Big Data,</em> datos interoperables, inteligencia artificial, etc.).</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Inclusión del fomento de uso de datos en la asesoría (utilización de <em>Big Data,</em> datos interoperables, inteligencia artificial, etc.).</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la digitalización y fortalecimiento de ecosistema de innovación. Presencia de innovación interactiva.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la digitalización y fortalecimiento de ecosistema de innovación. Presencia de innovación interactiva.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcance territorial de los servicios de asesoramiento prestados, se valorará positivamente las visitas presenciales.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Alcance territorial de los servicios de asesoramiento prestados, se valorará positivamente las visitas presenciales.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">B5. Presupuesto.</p>
-<p class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto.</p>
-<p class="cuerpo_tabla_izq">Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
+<td rowspan="3">
+<p>B5. Presupuesto.</p>
+<p>Coherencia y adecuación del presupuesto.</p>
+<p>Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="3">15</td>
-<td class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td rowspan="3">15</td>
+<td>Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad expositiva.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Claridad expositiva.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad en el desglose de gastos.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Claridad en el desglose de gastos.</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
 
 IV. CREACIÓN DE SERVICIOS DE ASESORAMIENTO DE DIGITALIZACIÓN.
 
-<table class="tabla_girada_condensada">
-<colgroup>
-<col width="44%">
-<col width="6%">
-<col width="44%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Subcriterio y descripción</th>
-<th class="cabeza_tabla">Puntuación máxima</th>
-<th class="cabeza_tabla">Aspectos a valorar</th>
-<th class="cabeza_tabla">Puntuación máxima aspectos</th>
+<th>Subcriterio y descripción</th>
+<th>Puntuación máxima</th>
+<th>Aspectos a valorar</th>
+<th>Puntuación máxima aspectos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">A1. Experiencia y enfoque.</p>
-<p class="cuerpo_tabla_izq">Experiencia en servicios de asesoramiento en diferentes ámbitos de la digitalización. Enfoque de la entidad solicitante.</p>
+<td rowspan="2">
+<p>A1. Experiencia y enfoque.</p>
+<p>Experiencia en servicios de asesoramiento en diferentes ámbitos de la digitalización. Enfoque de la entidad solicitante.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_izq">Experiencia en prestación de asesoramiento en digitalización.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td rowspan="2">7</td>
+<td>Experiencia en prestación de asesoramiento en digitalización.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Visión y objetivos de la entidad o agrupación solicitante en relación con la solicitud de ayuda.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Visión y objetivos de la entidad o agrupación solicitante en relación con la solicitud de ayuda.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">A2. Capacidad y estructura propia.</p>
-<p class="cuerpo_tabla_izq">Descripción de medios y recursos humanos, materiales (con especial mención a medios TIC) actuales a disposición del programa.</p>
-<p class="cuerpo_tabla_izq">Recursos económicos (establecidos como el ratio de patrimonio neto/activo no corriente).</p>
-<p class="cuerpo_tabla_izq">Alcance geográfico actual.</p>
+<td rowspan="4">
+<p>A2. Capacidad y estructura propia.</p>
+<p>Descripción de medios y recursos humanos, materiales (con especial mención a medios TIC) actuales a disposición del programa.</p>
+<p>Recursos económicos (establecidos como el ratio de patrimonio neto/activo no corriente).</p>
+<p>Alcance geográfico actual.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="4">13</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Recursos humanos:</p>
-<p class="cuerpo_tabla_izq">0-3 puntos. Proporcionalidad y multidisciplinariedad de los RRHH existentes, desagregados por sexo.</p>
-<p class="cuerpo_tabla_izq">0-3 puntos. Perfil curricular del personal existente.</p>
-<p class="cuerpo_tabla_izq">0-1 puntos. Presencia de mujeres y hombres en el equipo.</p>
+<td rowspan="4">13</td>
+<td>
+<p>Recursos humanos:</p>
+<p>0-3 puntos. Proporcionalidad y multidisciplinariedad de los RRHH existentes, desagregados por sexo.</p>
+<p>0-3 puntos. Perfil curricular del personal existente.</p>
+<p>0-1 puntos. Presencia de mujeres y hombres en el equipo.</p>
 </td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de las instalaciones y medios disponibles.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Adecuación de las instalaciones y medios disponibles.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Recursos económicos (establecidos como el ratio de patrimonio neto/activo no corriente):</p>
-<p class="cuerpo_tabla_izq">1,0 puntos ≥0,5 y &lt;0,7</p>
-<p class="cuerpo_tabla_izq">2 puntos ≥ 0,7</p>
+<td>
+<p>Recursos económicos (establecidos como el ratio de patrimonio neto/activo no corriente):</p>
+<p>1,0 puntos ≥0,5 y &lt;0,7</p>
+<p>2 puntos ≥ 0,7</p>
 </td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimensión geográfica del asesoramiento de las entidades prestadoras del servicio.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Dimensión geográfica del asesoramiento de las entidades prestadoras del servicio.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">B1. Idoneidad de la propuesta.</p>
-<p class="cuerpo_tabla_izq">Necesidad del establecimiento de asesoramiento en digitalización.</p>
-<p class="cuerpo_tabla_izq">Adecuación de los objetivos y resultados previstos a las necesidades del sector agroalimentario y forestal.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td>
+<p>B1. Idoneidad de la propuesta.</p>
+<p>Necesidad del establecimiento de asesoramiento en digitalización.</p>
+<p>Adecuación de los objetivos y resultados previstos a las necesidades del sector agroalimentario y forestal.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Relevancia y pertinencia de las necesidades, de establecimiento del servicio de asesoramiento en digitalización, identificadas y adecuación de los objetivos y resultados previstos a las mismas.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>4</td>
+<td>Relevancia y pertinencia de las necesidades, de establecimiento del servicio de asesoramiento en digitalización, identificadas y adecuación de los objetivos y resultados previstos a las mismas.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">B2. Planificación y descripción de las actividades.</p>
-<p class="cuerpo_tabla_izq">Desglose del plan de establecimiento.</p>
-<p class="cuerpo_tabla_izq">Considerando especialmente de la previsión de adquisición de medios y tecnología, la previsión de contratación y formación de personal, el establecimiento de hitos, cronograma y las acciones correctoras ante el desvío de los mismos.</p>
-<p class="cuerpo_tabla_izq">Asimismo, se valorará el plan de promoción y captación de personas asesoradas (enfoque de género, de AKIS, de jóvenes y de atracción de profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.) y el plan de asesoramientos y la calidad de los servicios de asesoramiento a prestar.</p>
-<p class="cuerpo_tabla_izq">Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
+<td rowspan="4">
+<p>B2. Planificación y descripción de las actividades.</p>
+<p>Desglose del plan de establecimiento.</p>
+<p>Considerando especialmente de la previsión de adquisición de medios y tecnología, la previsión de contratación y formación de personal, el establecimiento de hitos, cronograma y las acciones correctoras ante el desvío de los mismos.</p>
+<p>Asimismo, se valorará el plan de promoción y captación de personas asesoradas (enfoque de género, de AKIS, de jóvenes y de atracción de profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.) y el plan de asesoramientos y la calidad de los servicios de asesoramiento a prestar.</p>
+<p>Se tendrá en cuenta de manera transversal la componente medioambiental de las propuestas recibidas.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="4">45</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Descripción y caracterización del plan de establecimiento:</p>
-<p class="cuerpo_tabla_izq">0-10 puntos adecuación de la adquisición de medios y tecnología previstos.</p>
-<p class="cuerpo_tabla_izq">0-10 puntos adecuación de la previsión de contratación y formación de personal previstos.</p>
-<p class="cuerpo_tabla_izq">0-10 puntos adecuación del cronograma a los hitos y las acciones correctoras previstas ante el desvío de los mismos.</p>
+<td rowspan="4">45</td>
+<td>
+<p>Descripción y caracterización del plan de establecimiento:</p>
+<p>0-10 puntos adecuación de la adquisición de medios y tecnología previstos.</p>
+<p>0-10 puntos adecuación de la previsión de contratación y formación de personal previstos.</p>
+<p>0-10 puntos adecuación del cronograma a los hitos y las acciones correctoras previstas ante el desvío de los mismos.</p>
 </td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Perfil de las destinatarias y destinatarios.</p>
-<p class="cuerpo_tabla_izq">0-2 puntos adecuación de la oferta a las posibles destinatarias y destinatarios.</p>
-<p class="cuerpo_tabla_izq">1,0 puntos inclusión de perspectiva de AKIS.</p>
-<p class="cuerpo_tabla_izq">1,0 puntos inclusión de medidas para la retención y atracción de jóvenes.</p>
-<p class="cuerpo_tabla_izq">1,0 puntos atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.</p>
+<td>
+<p>Perfil de las destinatarias y destinatarios.</p>
+<p>0-2 puntos adecuación de la oferta a las posibles destinatarias y destinatarios.</p>
+<p>1,0 puntos inclusión de perspectiva de AKIS.</p>
+<p>1,0 puntos inclusión de medidas para la retención y atracción de jóvenes.</p>
+<p>1,0 puntos atención a profesionales en zonas remotas, de alta montaña e incluidas en figuras de protección de espacios y especies.</p>
 </td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del plan de promoción y captación de personas asesoradas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del plan de promoción y captación de personas asesoradas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calidad e idoneidad del plan de asesoramientos. Calidad de los servicios de asesoramiento a prestar.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Calidad e idoneidad del plan de asesoramientos. Calidad de los servicios de asesoramiento a prestar.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">B3. Empleo de TIC.</p>
-<p class="cuerpo_tabla_izq">Adecuación del uso de TICs al establecimiento e implantación del asesoramiento en digitalización.</p>
+<td rowspan="2">
+<p>B3. Empleo de TIC.</p>
+<p>Adecuación del uso de TICs al establecimiento e implantación del asesoramiento en digitalización.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq">Coherencia de la descripción del empleo de TIC con el plan de establecimiento previsto.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td rowspan="2">10</td>
+<td>Coherencia de la descripción del empleo de TIC con el plan de establecimiento previsto.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Interoperabilidad con otras plataformas o redes de asesoramiento</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Interoperabilidad con otras plataformas o redes de asesoramiento</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">B4. Impacto previsto.</p>
-<p class="cuerpo_tabla_izq">Sobre los usuarios finales (n.º de asesoramientos potenciales/persona asesora/año).</p>
-<p class="cuerpo_tabla_izq">Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la digitalización y fortalecimiento del ecosistema de innovación.</p>
-<p class="cuerpo_tabla_izq">Alcance geográfico previsto del establecimiento del servicio de asesoramiento en digitalización.</p>
+<td rowspan="3">
+<p>B4. Impacto previsto.</p>
+<p>Sobre los usuarios finales (n.º de asesoramientos potenciales/persona asesora/año).</p>
+<p>Impulso al desarrollo empresarial, los nuevos modelos de negocio a través de la digitalización y fortalecimiento del ecosistema de innovación.</p>
+<p>Alcance geográfico previsto del establecimiento del servicio de asesoramiento en digitalización.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="3">6</td>
-<td class="cuerpo_tabla_izq">Cuantificación y cualificación de los servicios de asesoramiento potenciales/persona asesora/año.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td rowspan="3">6</td>
+<td>Cuantificación y cualificación de los servicios de asesoramiento potenciales/persona asesora/año.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo al desarrollo empresarial y nuevos modelos de negocio potenciados, fortalecimiento del ecosistema de innovación. Innovación interactiva.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Apoyo al desarrollo empresarial y nuevos modelos de negocio potenciados, fortalecimiento del ecosistema de innovación. Innovación interactiva.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcance territorial en el que se establecerá el servicio de asesoramiento en digitalización.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Alcance territorial en el que se establecerá el servicio de asesoramiento en digitalización.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">B5. Presupuesto.</p>
-<p class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto.</p>
-<p class="cuerpo_tabla_izq">Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
+<td rowspan="3">
+<p>B5. Presupuesto.</p>
+<p>Coherencia y adecuación del presupuesto.</p>
+<p>Se valorará también la claridad expositiva y la claridad en el desglose de gastos.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="3">15</td>
-<td class="cuerpo_tabla_izq">Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td rowspan="3">15</td>
+<td>Coherencia y adecuación del presupuesto con las actividades propuestas.</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad expositiva.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Claridad expositiva.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Claridad en el desglose de gastos.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Claridad en el desglose de gastos.</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>

@@ -6754,43 +6754,38 @@ Seis. El apartado uno del artículo 46 queda redactado de la siguiente forma:
 
 > «1. Tarifa 4.3. Tasa por inscripción de ESI, de AEFN, de SGIIC, de SGEIC y de SGFT autorizadas en España en los correspondientes registros oficiales de la CNMV, así como de los actos relacionados con las citadas entidades, siempre y cuando deban ser inscritos en los registros oficiales de la CNMV. Se aplicarán las siguientes cuotas de cuantía fija:
 
-> <table class="tabla">
-> <colgroup>
-> <col width="15%">
-> <col width="15%">
-> <col width="70%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Tarifa</th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Cuota fija</p>
-> <p class="cabeza_tabla">–</p>
-> <p class="cabeza_tabla">Euros</p>
+> <th>Tarifa</th>
+> <th>
+> <p>Cuota fija</p>
+> <p>–</p>
+> <p>Euros</p>
 > </th>
-> <th class="cabeza_tabla">Tipo de inscripción</th>
+> <th>Tipo de inscripción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="6">Tarifa 4.3</td>
-> <td class="cuerpo_tabla_centro" rowspan="6">300,00</td>
-> <td class="cuerpo_tabla_izq">Inscripción en el registro.</td>
+> <td rowspan="6">Tarifa 4.3</td>
+> <td rowspan="6">300,00</td>
+> <td>Inscripción en el registro.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Inscripción de modificaciones de Estatutos, de programas de actividades y de operaciones societarias.</td>
+> <td>Inscripción de modificaciones de Estatutos, de programas de actividades y de operaciones societarias.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Inscripción de consejeros, administradores, directivos y asimilados.</td>
+> <td>Inscripción de consejeros, administradores, directivos y asimilados.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Inscripción de consejeros, administradores, directivos y asimilados de las entidades dominantes de ESI.</td>
+> <td>Inscripción de consejeros, administradores, directivos y asimilados de las entidades dominantes de ESI.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Inscripción de la entidad como encargada de la llevanza del registro de anotaciones en cuenta de emisores de valores.</td>
+> <td>Inscripción de la entidad como encargada de la llevanza del registro de anotaciones en cuenta de emisores de valores.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Inscripción de acuerdos de delegación.</td>
+> <td>Inscripción de acuerdos de delegación.</td>
 > </tr>
 > </tbody>
 > </table>

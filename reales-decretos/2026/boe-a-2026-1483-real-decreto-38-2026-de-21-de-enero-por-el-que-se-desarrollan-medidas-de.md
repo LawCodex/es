@@ -177,98 +177,82 @@ En el caso de desplazamiento sin el helicóptero por inoperatividad del mismo, o
 
 b) Descripción.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Brigada helitransportada tipo 1 - BRAVO 1</p>
+<p>Brigada helitransportada tipo 1 - BRAVO 1</p>
 </caption>
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="34%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º mínimo integrantes</th>
-<th class="cabeza_tabla">N.º mínimo mandos</th>
-<th class="cabeza_tabla">N.º mínimo total personal</th>
+<th>N.º mínimo integrantes</th>
+<th>N.º mínimo mandos</th>
+<th>N.º mínimo total personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>12</td>
+<td>1</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">N.º helicópteros</td>
+<td colspan="3">N.º helicópteros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">1 o 2</td>
+<td colspan="3">1 o 2</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Brigada helitransportada tipo 2 - BRAVO 2</p>
+<p>Brigada helitransportada tipo 2 - BRAVO 2</p>
 </caption>
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º mínimo integrantes</th>
-<th class="cabeza_tabla">N.º máximo integrantes</th>
-<th class="cabeza_tabla">N.º de mandos</th>
-<th class="cabeza_tabla">N.º máximo total personal</th>
+<th>N.º mínimo integrantes</th>
+<th>N.º máximo integrantes</th>
+<th>N.º de mandos</th>
+<th>N.º máximo total personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>7</td>
+<td>11</td>
+<td>1</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">N.º helicópteros</td>
+<td colspan="4">N.º helicópteros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">1 o 2</td>
+<td colspan="4">1 o 2</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Brigada helitransportada tipo 3 - BRAVO 3</p>
+<p>Brigada helitransportada tipo 3 - BRAVO 3</p>
 </caption>
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="34%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º máximo integrantes</th>
-<th class="cabeza_tabla">N.º mandos</th>
-<th class="cabeza_tabla">N.º máximo total personal</th>
+<th>N.º máximo integrantes</th>
+<th>N.º mandos</th>
+<th>N.º máximo total personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>6</td>
+<td>1</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">N.º helicópteros</td>
+<td colspan="3">N.º helicópteros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">1</td>
+<td colspan="3">1</td>
 </tr>
 </tbody>
 </table>
@@ -287,98 +271,82 @@ El número de personal y vehículos es variable dentro de la horquilla dada en l
 
 b) Descripción.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Brigada terrestre tipo 1 - ROMEO 1</p>
+<p>Brigada terrestre tipo 1 - ROMEO 1</p>
 </caption>
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="34%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º mínimo integrantes</th>
-<th class="cabeza_tabla">N.º mandos</th>
-<th class="cabeza_tabla">N.º mínimo total personal</th>
+<th>N.º mínimo integrantes</th>
+<th>N.º mandos</th>
+<th>N.º mínimo total personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>11</td>
+<td>1</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">N.º vehículos</td>
+<td colspan="3">N.º vehículos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">2 o más</td>
+<td colspan="3">2 o más</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Brigada terrestre tipo 2 - ROMEO 2</p>
+<p>Brigada terrestre tipo 2 - ROMEO 2</p>
 </caption>
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º mínimo integrantes</th>
-<th class="cabeza_tabla">N.º máximo integrantes</th>
-<th class="cabeza_tabla">N.º de mandos</th>
-<th class="cabeza_tabla">N.º máximo total personal</th>
+<th>N.º mínimo integrantes</th>
+<th>N.º máximo integrantes</th>
+<th>N.º de mandos</th>
+<th>N.º máximo total personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td>6</td>
+<td>10</td>
+<td>1</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">N.º vehículos</td>
+<td colspan="4">N.º vehículos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">1 a 3</td>
+<td colspan="4">1 a 3</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Brigada terrestre tipo 3 - ROMEO 3</p>
+<p>Brigada terrestre tipo 3 - ROMEO 3</p>
 </caption>
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="34%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º máximo integrantes</th>
-<th class="cabeza_tabla">N.º mandos</th>
-<th class="cabeza_tabla">N.º máximo total personal</th>
+<th>N.º máximo integrantes</th>
+<th>N.º mandos</th>
+<th>N.º máximo total personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>5</td>
+<td>1</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">N.º vehículos</td>
+<td colspan="3">N.º vehículos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">1 a 2</td>
+<td colspan="3">1 a 2</td>
 </tr>
 </tbody>
 </table>
@@ -775,147 +743,142 @@ b) A continuación, se identificará la Administración pública a la que perten
 
 2\. Tabla unificada de códigos para tipificar medios aéreos y terrestres
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Codificación tipo de medio terrestre</p>
+<p>Codificación tipo de medio terrestre</p>
 </caption>
-<colgroup>
-<col width="60%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de medio</th>
-<th class="cabeza_tabla">Letra/Símbolo</th>
-<th class="cabeza_tabla">Pronunciación</th>
+<th>Tipo de medio</th>
+<th>Letra/Símbolo</th>
+<th>Pronunciación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Brigada helitransportada tipo 1 (≥13 brigadistas –inc. mandos–, en 1-2 HT).</td>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">«Bravo-1».</td>
+<td>Brigada helitransportada tipo 1 (≥13 brigadistas –inc. mandos–, en 1-2 HT).</td>
+<td>B1</td>
+<td>«Bravo-1».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brigada helitransportada tipo 2 (8-12 brigadistas –inc. mandos–, en 1-2 HT).</td>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">«Bravo-2».</td>
+<td>Brigada helitransportada tipo 2 (8-12 brigadistas –inc. mandos–, en 1-2 HT).</td>
+<td>B2</td>
+<td>«Bravo-2».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brigada helitransportada tipo 3 (≤7 brigadistas –inc. mandos–, en 1 HT).</td>
-<td class="cuerpo_tabla_centro">B3</td>
-<td class="cuerpo_tabla_izq">«Bravo-3».</td>
+<td>Brigada helitransportada tipo 3 (≤7 brigadistas –inc. mandos–, en 1 HT).</td>
+<td>B3</td>
+<td>«Bravo-3».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brigada terrestre tipo 1 (≥12 componentes, inc. mandos, en 1-2 vehículos).</td>
-<td class="cuerpo_tabla_centro">R1</td>
-<td class="cuerpo_tabla_izq">«Romeo-1».</td>
+<td>Brigada terrestre tipo 1 (≥12 componentes, inc. mandos, en 1-2 vehículos).</td>
+<td>R1</td>
+<td>«Romeo-1».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brigada terrestre tipo 2 (7 a 11 componentes, inc. mandos, en 1-2 vehículos).</td>
-<td class="cuerpo_tabla_centro">R2</td>
-<td class="cuerpo_tabla_izq">«Romeo-2».</td>
+<td>Brigada terrestre tipo 2 (7 a 11 componentes, inc. mandos, en 1-2 vehículos).</td>
+<td>R2</td>
+<td>«Romeo-2».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brigada terrestre tipo 3 (≤6 componentes, inc. mandos, en 1-2 vehículos).</td>
-<td class="cuerpo_tabla_centro">R3</td>
-<td class="cuerpo_tabla_izq">«Romeo-3».</td>
+<td>Brigada terrestre tipo 3 (≤6 componentes, inc. mandos, en 1-2 vehículos).</td>
+<td>R3</td>
+<td>«Romeo-3».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dotación autobomba tipo 1 (≥5.000).</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">«Charlie-1».</td>
+<td>Dotación autobomba tipo 1 (≥5.000).</td>
+<td>C1</td>
+<td>«Charlie-1».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dotación autobomba tipo 2 (1.000 l – 5.000 l).</td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">«Charlie-2».</td>
+<td>Dotación autobomba tipo 2 (1.000 l – 5.000 l).</td>
+<td>C2</td>
+<td>«Charlie-2».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dotación autobomba tipo 3 (≤ 1.000 l).</td>
-<td class="cuerpo_tabla_centro">C3</td>
-<td class="cuerpo_tabla_izq">«Charlie-3».</td>
+<td>Dotación autobomba tipo 3 (≤ 1.000 l).</td>
+<td>C3</td>
+<td>«Charlie-3».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Maquinaria pesada.</td>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_izq">«Papa».</td>
+<td>Maquinaria pesada.</td>
+<td>P</td>
+<td>«Papa».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Unidad de apoyo en el PMA.</td>
-<td class="cuerpo_tabla_centro">U</td>
-<td class="cuerpo_tabla_izq">«Uniform».</td>
+<td>Unidad de apoyo en el PMA.</td>
+<td>U</td>
+<td>«Uniform».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>CODIFICACIÓN TIPO DE MEDIO AÉREO</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Helicóptero bombardero tipo 1 (&gt;3.000 l).</td>
-<td class="cuerpo_tabla_centro">K</td>
-<td class="cuerpo_tabla_izq">«Kilo».</td>
+<td>Helicóptero bombardero tipo 1 (&gt;3.000 l).</td>
+<td>K</td>
+<td>«Kilo».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Helicóptero bombardero tipo 2 (entre 1.000 y 3.000 l).</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq">«Mike».</td>
+<td>Helicóptero bombardero tipo 2 (entre 1.000 y 3.000 l).</td>
+<td>M</td>
+<td>«Mike».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Helicóptero bombardero tipo 3 (&lt; 1.000 l).</td>
-<td class="cuerpo_tabla_centro">L</td>
-<td class="cuerpo_tabla_izq">«Lima».</td>
+<td>Helicóptero bombardero tipo 3 (&lt; 1.000 l).</td>
+<td>L</td>
+<td>«Lima».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Avión anfibio tipo 1 (&gt; 3.500 l).</td>
-<td class="cuerpo_tabla_centro">FOCA</td>
-<td class="cuerpo_tabla_izq">«Foca».</td>
+<td>Avión anfibio tipo 1 (&gt; 3.500 l).</td>
+<td>FOCA</td>
+<td>«Foca».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Avión anfibio tipo 2 (≤3.500 l).</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">«Alfa».</td>
+<td>Avión anfibio tipo 2 (≤3.500 l).</td>
+<td>A</td>
+<td>«Alfa».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Avión carga en tierra (≤ 3.500 l).</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_izq">«Tango».</td>
+<td>Avión carga en tierra (≤ 3.500 l).</td>
+<td>T</td>
+<td>«Tango».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aeronave de coordinación tipo 1 (avión).</td>
-<td class="cuerpo_tabla_centro">ACO</td>
-<td class="cuerpo_tabla_izq">«ACO».</td>
+<td>Aeronave de coordinación tipo 1 (avión).</td>
+<td>ACO</td>
+<td>«ACO».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aeronave de coordinación tipo 2 (helicóptero).</td>
-<td class="cuerpo_tabla_centro">H</td>
-<td class="cuerpo_tabla_izq">«Hotel».</td>
+<td>Aeronave de coordinación tipo 2 (helicóptero).</td>
+<td>H</td>
+<td>«Hotel».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aeronave pilotada por control remoto (RPAS).</td>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_izq">«India».</td>
+<td>Aeronave pilotada por control remoto (RPAS).</td>
+<td>I</td>
+<td>«India».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>CODIFICACIÓN PUESTOS</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Director técnico de extinción.</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">«Delta».</td>
+<td>Director técnico de extinción.</td>
+<td>D</td>
+<td>«Delta».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jefe de sector.</td>
-<td class="cuerpo_tabla_centro">S</td>
-<td class="cuerpo_tabla_izq">«Sierra».</td>
+<td>Jefe de sector.</td>
+<td>S</td>
+<td>«Sierra».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Auxiliar de centro de recepción de medios.</td>
-<td class="cuerpo_tabla_centro">O</td>
-<td class="cuerpo_tabla_izq">«Oscar».</td>
+<td>Auxiliar de centro de recepción de medios.</td>
+<td>O</td>
+<td>«Oscar».</td>
 </tr>
 </tbody>
 </table>

@@ -454,8 +454,6 @@ El importe del complemento económico en ningún caso podrá superar la cuantía
 
 5\. El importe de las pensiones de clases pasivas se ajustará, en la forma que reglamentariamente se determine, a las normas que sobre limitación en el crecimiento y señalamiento inicial de pensiones, se determinen para cada año en la correspondiente Ley de Presupuestos Generales del Estado, salvo los supuestos contemplados en el número 2 del artículo 50. Si como consecuencia de ello su importe hubiera de minorarse, esta minoración no supondrá merma alguna de los otros efectos anejos al reconocimiento del derecho pasivo.
 
-> Téngase en cuenta que en 2022 la actualización de las pensiones se realizará de acuerdo con lo establecido en el título IV y disposiciones concordantes de la Ley 22/2021, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2022, no siendo de aplicación lo dispuesto en este artículo, según determina su disposición adicional cuadragésima quinta. [Ref. BOE-A-2021-21653](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653)
-
 > Se modifica por el art. 2.1 de la Ley 21/2021, de 28 de diciembre. [Ref. BOE-A-2021-21652](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21652)
 
 > Téngase en cuenta que en 2022 la actualización de las pensiones se realizará de acuerdo con lo establecido en el título IV y disposiciones concordantes de la Ley 22/2021, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2022, no siendo de aplicación lo dispuesto en este artículo, según determina su disposición adicional cuadragésima quinta. [Ref. BOE-A-2021-21653](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21653)
@@ -727,44 +725,6 @@ No podrá acogerse a esta compatibilidad el beneficiario de una pensión de jubi
 4\. El percibo de las pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
 
 No obstante, en los términos que reglamentariamente se determine, en los supuestos de pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad, cuando el interesado no esté incapacitado para toda profesión u oficio, se podrá compatibilizar el percibo de la pensión con el desempeño de dicha actividad siempre que sea distinta a la que venía realizando al servicio del Estado, así como con la percepción de la prestación o subsidio por desempleo generados a consecuencia de dicha actividad. En este caso, y mientras dure dicha situación, el importe de la pensión reconocida, se reducirá al 75 por ciento de la correspondiente cuantía, si se acreditan más de 20 años de servicios efectivos al Estado; o al 55 por ciento, si el interesado hubiera cubierto menos de 20 años de servicios al momento de su jubilación o retiro .
-
-> Téngase en cuenta que esta actualización de los apartados 2, 3 y 4, establecida por el art. 3 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Asimismo, con carácter general, el percibo de las pensiones de jubilación o retiro será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
-
-> Sin perjuicio de lo establecido en el párrafo anterior, el percibo de las pensiones de jubilación o retiro, en el supuesto contemplado en la letra a) del artículo 28.2 será compatible con el ejercicio de una actividad, por cuenta propia o ajena, que dé lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social, en los siguientes términos:
-
-> a) La edad de acceso a la pensión de jubilación o retiro debe ser, al menos, la establecida como edad de jubilación forzosa para el correspondiente colectivo de funcionarios públicos.
-
-> b) El porcentaje aplicable al haber regulador a efectos de determinar la cuantía de la pensión debe ser del cien por cien.
-
-> En caso de desempeñar una actividad compatible, la cuantía de la pensión será equivalente al cincuenta por ciento del importe resultante en el reconocimiento inicial, una vez aplicado, si procede, el límite máximo de pensión pública, o el que el pensionista esté percibiendo en la fecha de inicio de la actividad, excluido, en todo caso, el complemento por mínimos, que no se podrá percibir durante el tiempo en que se compatibilice pensión y actividad.
-
-> No obstante, si la actividad se realiza por cuenta propia y se acredita tener contratado, al menos, a un trabajador por cuenta ajena, la cuantía de la pensión compatible con el trabajo alcanzará al cien por ciento.
-
-> La pensión se revalorizará en su integridad, en los términos establecidos para las pensiones del Régimen de Clases Pasivas. No obstante, en tanto se desempeñe el trabajo compatible, el importe de la pensión más las revalorizaciones acumuladas se reducirá en un cincuenta por ciento. Esta reducción no será aplicable cuando la pensión de jubilación o retiro sea compatible con la actividad por cuenta propia y se acredite tener contratado al menos un trabajador por cuenta ajena o se trate de una actividad artística.
-
-> 3\. No será exigible el cien por ciento del haber regulador cuando el trabajo por cuenta ajena o por cuenta propia de las personas que realicen una actividad artística a las que se refiere el artículo 249 quater del texto refundido de Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
-
-> A efectos de la compatibilidad regulada en el párrafo anterior, se entiende por actividad artística, la realizada por las personas que desarrollan actividades artísticas, sean dramáticas, de doblaje, coreográfica, de variedades, musicales, canto, baile, de figuración, de especialistas, de dirección artística, de cine, de orquesta, de adaptación musical, de escena, de realización, de coreografía, de obra audiovisual, artista de circo, artista de marionetas, magia, guionistas, y, en todo caso, la desarrollada por cualquier persona cuya actividad sea reconocida como artista intérprete o ejecutante en el título I del libro segundo del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, o como artista, artista intérprete o ejecutante por los convenios colectivos que sean de aplicación en las artes escénicas, la actividad audiovisual y la musical, conforme al artículo 1. 2, párrafo 2.º del RD 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad.
-
-> De igual forma, se incluye dentro del ámbito de la compatibilidad el trabajo por cuenta ajena y la actividad por cuenta propia desempeñada por autores de obras literarias, artísticas o científicas, tal como se definen en el capítulo I del título II del libro primero del texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, se perciban o no derechos de propiedad intelectual por dicha actividad, incluidos los generados por su transmisión a terceros y con independencia de que por la misma actividad perciban otras remuneraciones conexas.
-
-> En estos supuestos, la cuantía de la pensión de jubilación o retiro de carácter forzoso será compatible al cien por ciento con esta actividad por cuenta ajena o por cuenta propia. En el caso de pensiones de jubilación o retiro de carácter voluntario, sus beneficiarios podrán acceder a esta compatibilidad a partir del momento en que cumplan la edad a la que se refiere la letra a) del apartado anterior.
-
-> El importe de la pensión de jubilación contributiva compatible con la actividad artística incluye el complemento para pensiones inferiores a la mínima y el complemento por maternidad o reducción de la brecha de género.
-
-> Los perceptores de jubilación forzosa que realicen una actividad artística causarán alta y cotizarán en los términos previstos en los artículos 153 ter y 310 bis del texto refundido de Ley General de la Seguridad Social.
-
-> El beneficiario tendrá la consideración de pensionista a todos los efectos.
-
-> No podrá acogerse a esta compatibilidad el beneficiario de una pensión de jubilación que, además de desarrollar la actividad o percibir los ingresos a que se refieren los párrafos anteriores, realice cualquier otro trabajo por cuenta ajena o por cuenta propia diferente a la actividad artística que dé lugar a su inclusión en el campo de aplicación del Régimen General o de alguno de los regímenes especiales de la Seguridad Social.
-
-> 4\. El percibo de las pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad será incompatible con el ejercicio de una actividad, por cuenta propia o ajena, que de lugar a la inclusión de su titular en cualquier régimen público de Seguridad Social.
-
-> No obstante, en los términos que reglamentariamente se determine, en los supuestos de pensiones de jubilación o retiro por incapacidad permanente para el servicio o inutilidad, cuando el interesado no esté incapacitado para toda profesión u oficio, se podrá compatibilizar el percibo de la pensión con el desempeño de dicha actividad siempre que sea distinta a la que venía realizando al servicio del Estado. En este caso, y mientras dure dicha situación, el importe de la pensión reconocida, se reducirá al 75 por ciento de la correspondiente cuantía, si se acreditan más de 20 años de servicios efectivos al Estado; o al 55 por ciento, si el interesado hubiera cubierto menos de 20 años de servicios al momento de su jubilación o retiro."
 
 5\. La percepción de las pensiones afectadas por las incompatibilidades señaladas en los apartados anteriores quedará en suspenso por meses completos, desde el día primero del mes siguiente al inicio de la actividad que determina la incompatibilidad hasta el último día del mes en que se finalice, sin que ello afecte a los incrementos que deban experimentar tales pensiones, conforme a lo dispuesto en el artículo 27 de este texto.
 

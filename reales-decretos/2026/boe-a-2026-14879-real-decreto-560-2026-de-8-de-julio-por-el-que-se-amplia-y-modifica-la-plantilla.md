@@ -381,5052 +381,5043 @@ FÉLIX BOLAÑOS GARCÍA
 
 ## ANEXO — Plantilla del Ministerio Fiscal
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="7%">
-<col width="8%">
-<col width="11%">
-<col width="26%">
-<col width="10%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación de la plaza</th>
-<th class="cabeza_tabla">Dotación</th>
-<th class="cabeza_tabla">Categoría</th>
-<th class="cabeza_tabla">Nombramiento</th>
-<th class="cabeza_tabla">Sede</th>
-<th class="cabeza_tabla">N.º de Decanos</th>
-<th class="cabeza_tabla">N.º de Coordinadores</th>
+<th>Denominación de la plaza</th>
+<th>Dotación</th>
+<th>Categoría</th>
+<th>Nombramiento</th>
+<th>Sede</th>
+<th>N.º de Decanos</th>
+<th>N.º de Coordinadores</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía General del Estado</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Inspección Fiscal</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe Inspector.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe Inspector.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal Inspector.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal Inspector.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inspector Fiscal.</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Inspector Fiscal.</td>
+<td>11</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Secretaría Técnica</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Unidad de Apoyo</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala contra la Violencia sobre la Mujer</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala contra los delitos relativos a la ordenación del territorio y la protección del patrimonio histórico, del medio ambiente e incendios forestales</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala de Menores</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala de Seguridad y Salud en el Trabajo</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala de Seguridad Vial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala de Trata de Personas y Extranjería</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala de Criminalidad Informática</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala de Cooperación Penal Internacional</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala para la Protección de Personas con Discapacidad y Mayores</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala contra los Delitos de Odio y Discriminación</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala en materia de Derechos Humanos y Memoria Democrática</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala Coordinador de Delitos Económicos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala Coordinador de Delitos contra la Administración Pública</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscal de Sala responsable de la Unidad de Protección de Datos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal de Sala.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal de Sala.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía del Tribunal Supremo</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Sala.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Sala.</td>
+<td>8</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">42</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>42</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía ante el Tribunal Constitucional</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía del Tribunal de Cuentas</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Audiencia Nacional</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>18</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía Especial Antidroga</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía Especial contra la Corrupción y la Criminalidad Organizada</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>1</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>27</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Andalucía</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Granada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Granada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Granada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Málaga</td>
+<td colspan="7">Sección Territorial de Málaga</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Málaga.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Sevilla</td>
+<td colspan="7">Sección Territorial de Sevilla</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Sevilla.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Granada</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Granada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Granada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">31</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Fiscal.</td>
+<td>31</td>
+<td>2</td>
+<td>RD</td>
+<td>Granada.</td>
+<td>2</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Granada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Baza</td>
+<td colspan="7">Sección Territorial de Baza</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Baza.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Baza.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Baza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Baza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Motril</td>
+<td colspan="7">Sección Territorial de Motril</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Motril.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Fiscal.</td>
+<td>9</td>
+<td>2</td>
+<td>RD</td>
+<td>Motril.</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Motril.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Motril.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Almería</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Almería.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Almería.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Almería.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Almería.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Almería.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">9</td>
+<td>Fiscal.</td>
+<td>29</td>
+<td>2</td>
+<td>RD</td>
+<td>Almería.</td>
+<td>1</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Almería.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Almería.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Huércal-Overa</td>
+<td colspan="7">Sección Territorial de Huércal-Overa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huércal-Overa.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Huércal-Overa.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Huércal-Overa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Huércal-Overa.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de El Ejido</td>
+<td colspan="7">Sección Territorial de El Ejido</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">El Ejido.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>El Ejido.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">El Ejido.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>El Ejido.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Cádiz</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cádiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cádiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">32</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">11</td>
+<td>Fiscal.</td>
+<td>32</td>
+<td>2</td>
+<td>RD</td>
+<td>Cádiz.</td>
+<td>3</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>11</td>
+<td>3</td>
+<td>OM</td>
+<td>Cádiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía de Área de Algeciras</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Algeciras.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Algeciras.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Algeciras.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>20</td>
+<td>2</td>
+<td>RD</td>
+<td>Algeciras.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Algeciras.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>6</td>
+<td>3</td>
+<td>OM</td>
+<td>Algeciras.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía de Área de Jerez de la Frontera</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Jerez de la Frontera.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>20</td>
+<td>2</td>
+<td>RD</td>
+<td>Jerez de la Frontera.</td>
+<td>1</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>6</td>
+<td>3</td>
+<td>OM</td>
+<td>Jerez de la Frontera.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía de Área de Ceuta</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ceuta.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ceuta.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ceuta.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Ceuta.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ceuta.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Ceuta.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Córdoba</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Córdoba.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Córdoba.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">9</td>
+<td>Fiscal.</td>
+<td>27</td>
+<td>2</td>
+<td>RD</td>
+<td>Córdoba.</td>
+<td>1</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Córdoba.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Lucena</td>
+<td colspan="7">Sección Territorial de Lucena</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lucena.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Lucena.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Lucena.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Lucena.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Huelva</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Huelva.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Huelva.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">22</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>22</td>
+<td>2</td>
+<td>RD</td>
+<td>Huelva.</td>
+<td>1</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>8</td>
+<td>3</td>
+<td>OM</td>
+<td>Huelva.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Jaén</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Jaén.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Jaén.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>18</td>
+<td>2</td>
+<td>RD</td>
+<td>Jaén.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Jaén.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Linares</td>
+<td colspan="7">Sección Territorial de Linares</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Linares.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Linares.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Linares.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Linares.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Úbeda</td>
+<td colspan="7">Sección Territorial de Úbeda</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Úbeda.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Úbeda.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Úbeda.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Úbeda.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Málaga</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Málaga.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Málaga.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">59</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>Fiscal.</td>
+<td>59</td>
+<td>2</td>
+<td>RD</td>
+<td>Málaga.</td>
+<td>5</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>8</td>
+<td>3</td>
+<td>OM</td>
+<td>Málaga.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía de Área de Marbella</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Marbella.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Marbella.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Marbella.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>17</td>
+<td>2</td>
+<td>RD</td>
+<td>Marbella.</td>
+<td> </td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Marbella.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Marbella.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía de Área de Melilla</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Melilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Melilla.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Melilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Melilla.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Melilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Melilla.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Torremolinos</td>
+<td colspan="7">Sección Territorial de Torremolinos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Torremolinos.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Torremolinos.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial Vélez-Málaga</td>
+<td colspan="7">Sección Territorial Vélez-Málaga</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vélez-Málaga.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Vélez-Málaga.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Fuengirola</td>
+<td colspan="7">Sección Territorial de Fuengirola</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Fuengirola.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Fuengirola.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Fuengirola.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Fuengirola.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Sevilla</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Sevilla.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Sevilla.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">65</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">21</td>
+<td>Fiscal.</td>
+<td>65</td>
+<td>2</td>
+<td>RD</td>
+<td>Sevilla.</td>
+<td>5</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>8</td>
+<td>3</td>
+<td>OM</td>
+<td>Sevilla.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial Lora del Río</td>
+<td colspan="7">Sección Territorial Lora del Río</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lora del Río.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Lora del Río.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Lora del Río.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Lora del Río.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Osuna</td>
+<td colspan="7">Sección Territorial de Osuna</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Osuna.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Osuna.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Osuna.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Osuna.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Dos Hermanas</td>
+<td colspan="7">Fiscalía de Área de Dos Hermanas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Dos Hermanas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>17</td>
+<td>2</td>
+<td>RD</td>
+<td>Dos Hermanas.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Dos Hermanas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Aragón</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zaragoza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zaragoza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zaragoza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Zaragoza</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zaragoza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zaragoza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">35</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Fiscal.</td>
+<td>35</td>
+<td>2</td>
+<td>RD</td>
+<td>Zaragoza.</td>
+<td>1</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Zaragoza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Calatayud</td>
+<td colspan="7">Sección Territorial de Calatayud</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Calatayud.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Calatayud.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Calatayud.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>0</td>
+<td>3</td>
+<td>OM</td>
+<td>Calatayud.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Huesca</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Huesca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Huesca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>9</td>
+<td>2</td>
+<td>RD</td>
+<td>Huesca.</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Huesca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Teruel</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Teruel.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Teruel.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Teruel.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Teruel.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Teruel.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Teruel.</td>
+<td> </td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Teruel.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Teruel.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Alcañiz</td>
+<td colspan="7">Sección Territorial de Alcañiz</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Alcañiz.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Alcañiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma del Principado de Asturias</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Oviedo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Oviedo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Oviedo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Oviedo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">24</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Oviedo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">11</td>
+<td>Fiscal.</td>
+<td>24</td>
+<td>2</td>
+<td>RD</td>
+<td>Oviedo.</td>
+<td>1</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Oviedo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Oviedo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Avilés</td>
+<td colspan="7">Sección Territorial de Avilés</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Avilés.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Avilés.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Avilés.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Avilés.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Gijón</td>
+<td colspan="7">Fiscalía de Área de Gijón</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Gijón.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Gijón.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Gijón.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>13</td>
+<td>2</td>
+<td>RD</td>
+<td>Gijón.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Gijón.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Gijón.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Langreo</td>
+<td colspan="7">Sección Territorial de Langreo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Langreo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Langreo.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Langreo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>0</td>
+<td>3</td>
+<td>OM</td>
+<td>Langreo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de las Illes Balears</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Palma de Mallorca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Palma de Mallorca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Palma de Mallorca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Palma de Mallorca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">45</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Palma de Mallorca.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">22</td>
+<td>Fiscal.</td>
+<td>45</td>
+<td>2</td>
+<td>RD</td>
+<td>Palma de Mallorca.</td>
+<td>2</td>
+<td>22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Palma de Mallorca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Palma de Mallorca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Manacor</td>
+<td colspan="7">Sección Territorial de Manacor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Manacor.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Manacor.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Manacor.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Manacor.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Eivissa</td>
+<td colspan="7">Fiscalía de Área de Eivissa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Eivissa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Eivissa.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Eivissa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Eivissa.</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Eivissa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Eivissa.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Maó</td>
+<td colspan="7">Sección Territorial de Maó</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Maó.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Maó.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Maó.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Maó.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Inca</td>
+<td colspan="7">Sección Territorial de Inca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Inca.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Inca.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Inca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Inca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Canarias</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Las Palmas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Las Palmas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Las Palmas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial Santa Cruz de Tenerife</td>
+<td colspan="7">Sección Territorial Santa Cruz de Tenerife</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santa Cruz de Tenerife.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Santa Cruz de Tenerife.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Las Palmas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Las Palmas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Las Palmas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">41</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">19</td>
+<td>Fiscal.</td>
+<td>41</td>
+<td>2</td>
+<td>RD</td>
+<td>Las Palmas.</td>
+<td>4</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Las Palmas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Las Palmas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Arrecife-Puerto del Rosario</td>
+<td colspan="7">Fiscalía de Área de Arrecife-Puerto del Rosario</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Arrecife-Puerto del Rosario.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Arrecife-Puerto del Rosario.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Arrecife-Puerto del Rosario.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>Arrecife-Puerto del Rosario.</td>
+<td> </td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Arrecife-Puerto del Rosario.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Arrecife-Puerto del Rosario.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de San Bartolomé de Tirajana</td>
+<td colspan="7">Sección Territorial de San Bartolomé de Tirajana</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">San Bartolomé de Tirajana.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>San Bartolomé de Tirajana.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">San Bartolomé de Tirajana.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>San Bartolomé de Tirajana.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Santa Cruz de Tenerife</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santa Cruz de Tenerife.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Santa Cruz de Tenerife.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santa Cruz de Tenerife.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Santa Cruz de Tenerife.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santa Cruz de Tenerife.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">12</td>
+<td>Fiscal.</td>
+<td>36</td>
+<td>2</td>
+<td>RD</td>
+<td>Santa Cruz de Tenerife.</td>
+<td>3</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Santa Cruz de Tenerife.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>13</td>
+<td>3</td>
+<td>OM</td>
+<td>Santa Cruz de Tenerife.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de La Palma</td>
+<td colspan="7">Sección Territorial de La Palma</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">La Palma.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>La Palma.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">La Palma.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>La Palma.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Arona</td>
+<td colspan="7">Sección Territorial de Arona</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Arona.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Arona.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Arona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Arona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Cantabria</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Santander.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Santander.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">9</td>
+<td>Fiscal.</td>
+<td>19</td>
+<td>2</td>
+<td>RD</td>
+<td>Santander.</td>
+<td>1</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Santander.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Laredo</td>
+<td colspan="7">Sección Territorial de Laredo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Laredo.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>0</td>
+<td>3</td>
+<td>OM</td>
+<td>Laredo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Torrelavega</td>
+<td colspan="7">Sección Territorial de Torrelavega</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Torrelavega.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Torrelavega.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Torrelavega.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Torrelavega.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Castilla-La Mancha.</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Albacete.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Albacete.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Albacete.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Albacete</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Albacete.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Albacete.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>Albacete.</td>
+<td> </td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Albacete.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Ciudad Real</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ciudad Real.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ciudad Real.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ciudad Real.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ciudad Real.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ciudad Real.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>Ciudad Real.</td>
+<td> </td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ciudad Real.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Ciudad Real.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Manzanares</td>
+<td colspan="7">Sección Territorial de Manzanares</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Manzanares.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Manzanares.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Manzanares.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Manzanares.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Cuenca</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cuenca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cuenca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Cuenca.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Cuenca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Guadalajara</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Guadalajara.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Guadalajara.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Guadalajara.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Guadalajara.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Guadalajara.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Guadalajara.</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Guadalajara.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Guadalajara.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Toledo</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Toledo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Toledo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Toledo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Toledo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Toledo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>18</td>
+<td>2</td>
+<td>RD</td>
+<td>Toledo.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Toledo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Toledo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Ocaña</td>
+<td colspan="7">Sección Territorial de Ocaña</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Ocaña.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Ocaña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Talavera de la Reina</td>
+<td colspan="7">Sección Territorial de Talavera de la Reina</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Talavera de la Reina.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Talavera de la Reina.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Castilla y León</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Burgos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Burgos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Burgos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Valladolid</td>
+<td colspan="7">Sección Territorial de Valladolid</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valladolid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Burgos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Burgos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Burgos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>17</td>
+<td>2</td>
+<td>RD</td>
+<td>Burgos.</td>
+<td> </td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Burgos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Ávila</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ávila.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ávila.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Ávila.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Ávila.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de León</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>León.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>León.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>15</td>
+<td>2</td>
+<td>RD</td>
+<td>León.</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>León.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Ponferrada</td>
+<td colspan="7">Fiscalía de Área de Ponferrada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ponferrada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ponferrada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ponferrada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Ponferrada.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ponferrada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Ponferrada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Palencia</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Palencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Palencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Palencia.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Palencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Salamanca</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Salamanca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Salamanca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Salamanca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Salamanca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Salamanca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>14</td>
+<td>2</td>
+<td>RD</td>
+<td>Salamanca.</td>
+<td> </td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Salamanca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Salamanca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Segovia</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Segovia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Segovia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Segovia.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Segovia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Soria</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Soria.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Soria.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Soria.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Soria.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Soria.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Soria.</td>
+<td> </td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Soria.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Soria.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Valladolid</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valladolid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valladolid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>23</td>
+<td>2</td>
+<td>RD</td>
+<td>Valladolid.</td>
+<td>1</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Valladolid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Zamora</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zamora.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zamora.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zamora.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Zamora.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zamora.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>Zamora.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Zamora.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Zamora.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Cataluña</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Barcelona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Barcelona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Barcelona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Barcelona</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Barcelona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Barcelona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">138</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">63</td>
+<td>Fiscal.</td>
+<td>138</td>
+<td>2</td>
+<td>RD</td>
+<td>Barcelona.</td>
+<td>8</td>
+<td>63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>8</td>
+<td>3</td>
+<td>OM</td>
+<td>Barcelona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Badalona</td>
+<td colspan="7">Sección Territorial de Badalona</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Badalona.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Badalona.</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Badalona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Badalona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Granollers-Mollet del Vallés</td>
+<td colspan="7">Fiscalía de Área de Granollers-Mollet del Vallés</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granollers-Mollet del Vallés.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Granollers-Mollet del Vallés.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Granollers-Mollet del Vallés.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>13</td>
+<td>2</td>
+<td>RD</td>
+<td>Granollers-Mollet del Vallés.</td>
+<td> </td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Granollers-Mollet del Vallés.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Granollers-Mollet del Vallés.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de L’ Hospitalet de Llobregat</td>
+<td colspan="7">Sección Territorial de L’ Hospitalet de Llobregat</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">L’ Hospitalet de Llobregat.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>L’ Hospitalet de Llobregat.</td>
+<td>1</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">L’ Hospitalet de Llobregat.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>L’ Hospitalet de Llobregat.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Manresa-Igualada-Vic</td>
+<td colspan="7">Fiscalía de Área de Manresa-Igualada-Vic</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Manresa-Igualada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Manresa-Igualada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Manresa-Igualada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>12</td>
+<td>2</td>
+<td>RD</td>
+<td>Manresa-Igualada.</td>
+<td> </td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Manresa-Igualada.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>6</td>
+<td>3</td>
+<td>OM</td>
+<td>Manresa-Igualada.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Sabadell</td>
+<td colspan="7">Fiscalía de Área de Sabadell</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sabadell.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Sabadell.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sabadell.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>15</td>
+<td>2</td>
+<td>RD</td>
+<td>Sabadell.</td>
+<td> </td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Sabadell.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>6</td>
+<td>3</td>
+<td>OM</td>
+<td>Sabadell.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Sant Feliú de Llobregat</td>
+<td colspan="7">Sección Territorial de Sant Feliú de Llobregat</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Sant Feliú de Llobregat.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Sant Feliú de Llobregat.</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Sant Feliú de Llobregat.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Sant Feliú de Llobregat.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Terrassa</td>
+<td colspan="7">Fiscalía de Área de Terrassa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Terrassa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Terrassa.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Terrassa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>13</td>
+<td>2</td>
+<td>RD</td>
+<td>Terrassa.</td>
+<td> </td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Terrassa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>6</td>
+<td>3</td>
+<td>OM</td>
+<td>Terrassa.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Vilanova i la Geltrú-Gavà-Vilafranca del Penedès</td>
+<td colspan="7">Fiscalía de Área de Vilanova i la Geltrú-Gavà-Vilafranca del Penedès</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vilanova i la Geltrú-Gavà-Vilafranca del Penedès.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Vilanova i la Geltrú-Gavà-Vilafranca del Penedès.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vilanova i la Geltrú-Gavà-Vilafranca del Penedès.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">9</td>
+<td>Fiscal.</td>
+<td>17</td>
+<td>2</td>
+<td>RD</td>
+<td>Vilanova i la Geltrú-Gavà-Vilafranca del Penedès.</td>
+<td> </td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Vilanova i la Geltrú-Gavà-Vilafranca del Penedès.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>7</td>
+<td>3</td>
+<td>OM</td>
+<td>Vilanova i la Geltrú-Gavà-Vilafranca del Penedès.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Santa Coloma de Gramanet</td>
+<td colspan="7">Sección Territorial de Santa Coloma de Gramanet</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santa Coloma de Gramanet.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Santa Coloma de Gramanet.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Santa Coloma de Gramanet.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Santa Coloma de Gramanet.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Mataró-Arenys de Mar</td>
+<td colspan="7">Fiscalía de Área de Mataró-Arenys de Mar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Mataró-Arenys de Mar.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Mataró-Arenys de Mar.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Mataró-Arenys de Mar.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>15</td>
+<td>2</td>
+<td>RD</td>
+<td>Mataró-Arenys de Mar.</td>
+<td> </td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Mataró-Arenys de Mar.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Mataró-Arenys de Mar.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de El Prat</td>
+<td colspan="7">Sección Territorial de El Prat</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">El Prat.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>El Prat.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">El Prat.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>El Prat.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Girona</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Girona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Girona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">24</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>24</td>
+<td>2</td>
+<td>RD</td>
+<td>Girona.</td>
+<td>2</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>8</td>
+<td>3</td>
+<td>OM</td>
+<td>Girona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Figueres</td>
+<td colspan="7">Sección Territorial de Figueres</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Figueres.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>8</td>
+<td>2</td>
+<td>RD</td>
+<td>Figueres.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Figueres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Figueres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Olot</td>
+<td colspan="7">Sección Territorial de Olot</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Olot.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Olot.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Olot.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Olot.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Blanes</td>
+<td colspan="7">Sección Territorial de Blanes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Blanes.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Blanes.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Blanes.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Blanes.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Lleida</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Lleida.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Lleida.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Fiscal.</td>
+<td>13</td>
+<td>2</td>
+<td>RD</td>
+<td>Lleida.</td>
+<td> </td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Lleida.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de La Seu d’ Urgell</td>
+<td colspan="7">Sección Territorial de La Seu d’ Urgell</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">La Seu d’ Urgell.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>La Seu d’ Urgell.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">La Seu d’ Urgell.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>La Seu d’ Urgell.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Tarragona</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Tarragona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Tarragona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Tarragona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Tarragona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">21</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Tarragona.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>21</td>
+<td>2</td>
+<td>RD</td>
+<td>Tarragona.</td>
+<td>2</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Tarragona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Tarragona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Reus</td>
+<td colspan="7">Sección Territorial de Reus</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Reus.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Reus.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Reus.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Reus.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Tortosa</td>
+<td colspan="7">Sección Territorial de Tortosa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Tortosa.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Tortosa.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Tortosa.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Tortosa.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Amposta</td>
+<td colspan="7">Sección Territorial de Amposta</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Amposta.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Amposta.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Amposta.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Amposta.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de El Vendrell</td>
+<td colspan="7">Sección Territorial de El Vendrell</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">El Vendrell.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>6</td>
+<td>2</td>
+<td>RD</td>
+<td>El Vendrell.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">El Vendrell.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>El Vendrell.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Extremadura</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cáceres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cáceres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cáceres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Cáceres</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cáceres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cáceres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>11</td>
+<td>2</td>
+<td>RD</td>
+<td>Cáceres.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Cáceres.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Plasencia</td>
+<td colspan="7">Sección Territorial de Plasencia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Plasencia.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Plasencia.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Plasencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Plasencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Badajoz</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Badajoz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Badajoz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Badajoz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Badajoz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Badajoz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>Badajoz.</td>
+<td> </td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Badajoz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Badajoz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Mérida</td>
+<td colspan="7">Fiscalía de Área de Mérida</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Mérida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Mérida.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Mérida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>8</td>
+<td>2</td>
+<td>RD</td>
+<td>Mérida.</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Mérida.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Mérida.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Zafra</td>
+<td colspan="7">Sección Territorial de Zafra</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Zafra.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>Zafra.</td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Zafra.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Zafra.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Villanueva de la Serena</td>
+<td colspan="7">Sección Territorial de Villanueva de la Serena</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Villanueva de la Serena.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Villanueva de la Serena.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Villanueva de la Serena.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Villanueva de la Serena.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de Galicia</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>A Coruña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>A Coruña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>2</td>
+<td>2</td>
+<td>RD</td>
+<td>A Coruña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de A Coruña</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>A Coruña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>A Coruña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">30</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">14</td>
+<td>Fiscal.</td>
+<td>30</td>
+<td>2</td>
+<td>RD</td>
+<td>A Coruña.</td>
+<td>2</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>A Coruña.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Santiago de Compostela</td>
+<td colspan="7">Fiscalía de Área de Santiago de Compostela</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santiago de Compostela.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Santiago de Compostela.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Santiago de Compostela.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>12</td>
+<td>2</td>
+<td>RD</td>
+<td>Santiago de Compostela.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Santiago de Compostela.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Santiago de Compostela.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Ferrol</td>
+<td colspan="7">Fiscalía de Área de Ferrol</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ferrol.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ferrol.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ferrol.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Ferrol.</td>
+<td> </td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ferrol.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Ferrol.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Lugo</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Lugo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Lugo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Lugo.</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Lugo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Mondoñedo</td>
+<td colspan="7">Sección Territorial de Mondoñedo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Mondoñedo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Mondoñedo.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Mondoñedo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Mondoñedo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Monforte de Lemos</td>
+<td colspan="7">Sección Territorial de Monforte de Lemos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Monforte de Lemos.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Monforte de Lemos.</td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Monforte de Lemos.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Monforte de Lemos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Ourense</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ourense.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Ourense.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>15</td>
+<td>2</td>
+<td>RD</td>
+<td>Ourense.</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Ourense.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Pontevedra</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Pontevedra.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Pontevedra.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">24</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>24</td>
+<td>2</td>
+<td>RD</td>
+<td>Pontevedra.</td>
+<td>2</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Pontevedra.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Vigo</td>
+<td colspan="7">Fiscalía de Área de Vigo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vigo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Vigo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">24</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vigo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>24</td>
+<td>2</td>
+<td>RD</td>
+<td>Vigo.</td>
+<td>1</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Vigo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Vigo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de La Rioja</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Logroño.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Logroño.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Logroño.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Logroño.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Logroño.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>10</td>
+<td>2</td>
+<td>RD</td>
+<td>Logroño.</td>
+<td> </td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Logroño.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Logroño.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad de Madrid</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Madrid</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">197</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_coma">88</td>
+<td>Fiscal.</td>
+<td>197</td>
+<td>2</td>
+<td>RD</td>
+<td>Madrid.</td>
+<td>14</td>
+<td>88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">22</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>22</td>
+<td>3</td>
+<td>OM</td>
+<td>Madrid.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Alcalá de Henares</td>
+<td colspan="7">Fiscalía de Área de Alcalá de Henares</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alcalá de Henares.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Alcalá de Henares.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">30</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alcalá de Henares.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">14</td>
+<td>Fiscal.</td>
+<td>30</td>
+<td>2</td>
+<td>RD</td>
+<td>Alcalá de Henares.</td>
+<td>1</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Alcalá de Henares.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>6</td>
+<td>3</td>
+<td>OM</td>
+<td>Alcalá de Henares.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Getafe-Leganés</td>
+<td colspan="7">Fiscalía de Área de Getafe-Leganés</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Getafe-Leganés.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Getafe-Leganés.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Getafe-Leganés.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">13</td>
+<td>Fiscal.</td>
+<td>27</td>
+<td>2</td>
+<td>RD</td>
+<td>Getafe-Leganés.</td>
+<td>1</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Getafe-Leganés.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Getafe-Leganés.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Móstoles</td>
+<td colspan="7">Fiscalía de Área de Móstoles</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Móstoles.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Móstoles.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Móstoles.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">13</td>
+<td>Fiscal.</td>
+<td>27</td>
+<td>2</td>
+<td>RD</td>
+<td>Móstoles.</td>
+<td>1</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Móstoles.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>7</td>
+<td>3</td>
+<td>OM</td>
+<td>Móstoles.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Collado-Villalba</td>
+<td colspan="7">Sección Territorial de Collado-Villalba</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Collado-Villalba.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>11</td>
+<td>2</td>
+<td>RD</td>
+<td>Collado-Villalba.</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Collado-Villalba.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Collado-Villalba.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Alcobendas</td>
+<td colspan="7">Sección Territorial de Alcobendas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alcobendas.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>16</td>
+<td>2</td>
+<td>RD</td>
+<td>Alcobendas.</td>
+<td>1</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Alcobendas.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Alcobendas.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Majadahonda-Pozuelo de Alarcón</td>
+<td colspan="7">Sección Territorial de Majadahonda-Pozuelo de Alarcón</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Majadahonda-Pozuelo de Alarcón.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Fiscal.</td>
+<td>9</td>
+<td>2</td>
+<td>RD</td>
+<td>Majadahonda-Pozuelo de Alarcón.</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Majadahonda-Pozuelo de Alarcón.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Majadahonda-Pozuelo de Alarcón.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma de la Región de Murcia</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Murcia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Murcia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">41</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">18</td>
+<td>Fiscal.</td>
+<td>41</td>
+<td>2</td>
+<td>RD</td>
+<td>Murcia.</td>
+<td>2</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Murcia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Cartagena</td>
+<td colspan="7">Fiscalía de Área de Cartagena</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cartagena.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Cartagena.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cartagena.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>13</td>
+<td>2</td>
+<td>RD</td>
+<td>Cartagena.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Cartagena.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Cartagena.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Lorca</td>
+<td colspan="7">Sección Territorial de Lorca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Lorca.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Fiscal.</td>
+<td>7</td>
+<td>2</td>
+<td>RD</td>
+<td>Lorca.</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Lorca.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Lorca.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Cieza</td>
+<td colspan="7">Sección Territorial de Cieza</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Cieza.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Cieza.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Cieza.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>1</td>
+<td>3</td>
+<td>OM</td>
+<td>Cieza.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Foral de Navarra</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Pamplona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Pamplona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Pamplona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Pamplona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Pamplona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>17</td>
+<td>2</td>
+<td>RD</td>
+<td>Pamplona.</td>
+<td> </td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Pamplona.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Pamplona.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Tudela</td>
+<td colspan="7">Sección Territorial de Tudela</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Tudela.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>4</td>
+<td>2</td>
+<td>RD</td>
+<td>Tudela.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Tudela.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>0</td>
+<td>3</td>
+<td>OM</td>
+<td>Tudela.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunitat Valenciana</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>3</td>
+<td>2</td>
+<td>RD</td>
+<td>Valencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Valencia</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Valencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">47</td>
+<td>Fiscal.</td>
+<td>106</td>
+<td>2</td>
+<td>RD</td>
+<td>Valencia.</td>
+<td>10</td>
+<td>47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>10</td>
+<td>3</td>
+<td>OM</td>
+<td>Valencia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Alzira</td>
+<td colspan="7">Fiscalía de Área de Alzira</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alzira.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Alzira.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alzira.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>Fiscal.</td>
+<td>15</td>
+<td>2</td>
+<td>RD</td>
+<td>Alzira.</td>
+<td> </td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Alzira.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Alzira.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Gandía</td>
+<td colspan="7">Sección Territorial de Gandía</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Gandía.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Fiscal.</td>
+<td>9</td>
+<td>2</td>
+<td>RD</td>
+<td>Gandía.</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Gandía.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Gandía.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Alicante</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alicante.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Alicante.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alicante.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Alicante.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">44</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alicante.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">14</td>
+<td>Fiscal.</td>
+<td>44</td>
+<td>2</td>
+<td>RD</td>
+<td>Alicante.</td>
+<td>5</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Alicante.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Alicante.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Alcoy</td>
+<td colspan="7">Sección Territorial de Alcoy</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Alcoy.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Alcoy.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Alcoy.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>2</td>
+<td>3</td>
+<td>OM</td>
+<td>Alcoy.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Benidorm-Denia</td>
+<td colspan="7">Fiscalía de Área de Benidorm-Denia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Benidorm-Denia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Benidorm-Denia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Benidorm-Denia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Fiscal.</td>
+<td>15</td>
+<td>2</td>
+<td>RD</td>
+<td>Benidorm-Denia.</td>
+<td> </td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Benidorm-Denia.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Benidorm-Denia.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Fiscalía de Área de Elche/Elx</td>
+<td colspan="7">Fiscalía de Área de Elche/Elx</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Área.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Elx-Orihuela.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe de Área.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Elx-Orihuela.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">22</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Elx-Orihuela.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>22</td>
+<td>2</td>
+<td>RD</td>
+<td>Elx-Orihuela.</td>
+<td>1</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Elx-Orihuela.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>7</td>
+<td>3</td>
+<td>OM</td>
+<td>Elx-Orihuela.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Torrevieja</td>
+<td colspan="7">Sección Territorial de Torrevieja</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Torrevieja.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>9</td>
+<td>2</td>
+<td>RD</td>
+<td>Torrevieja.</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Torrevieja.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Torrevieja.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Castellón</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Castellón de la Plana.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Castellón de la Plana.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Castellón de la Plana.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Castellón de la Plana.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Castellón de la Plana.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Fiscal.</td>
+<td>23</td>
+<td>2</td>
+<td>RD</td>
+<td>Castellón de la Plana.</td>
+<td>1</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Castellón de la Plana.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>5</td>
+<td>3</td>
+<td>OM</td>
+<td>Castellón de la Plana.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Vinaroz</td>
+<td colspan="7">Sección Territorial de Vinaroz</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vinaroz.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Fiscal.</td>
+<td>5</td>
+<td>2</td>
+<td>RD</td>
+<td>Vinaroz.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <strong>Fiscalía de la Comunidad Autónoma del País Vasco</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Superior.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Bilbao.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Bilbao.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Bilbao.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Bizkaia</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Bilbao.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Bilbao.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">18</td>
+<td>Fiscal.</td>
+<td>36</td>
+<td>2</td>
+<td>RD</td>
+<td>Bilbao.</td>
+<td>1</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>7</td>
+<td>3</td>
+<td>OM</td>
+<td>Bilbao.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">Sección Territorial de Barakaldo</td>
+<td colspan="7">Sección Territorial de Barakaldo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Barakaldo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Fiscal.</td>
+<td>8</td>
+<td>2</td>
+<td>RD</td>
+<td>Barakaldo.</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Barakaldo.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>3</td>
+<td>3</td>
+<td>OM</td>
+<td>Barakaldo.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Araba/Álava</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vitoria-Gasteiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Vitoria-Gasteiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vitoria-Gasteiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Vitoria-Gasteiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Vitoria-Gasteiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Fiscal.</td>
+<td>8</td>
+<td>2</td>
+<td>RD</td>
+<td>Vitoria-Gasteiz.</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Vitoria-Gasteiz.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>4</td>
+<td>3</td>
+<td>OM</td>
+<td>Vitoria-Gasteiz.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="7">
+<td colspan="7">
 <em>Fiscalía Provincial de Gipuzkoa</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Donostia-San Sebastián.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Fiscal Jefe.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Donostia-San Sebastián.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Donostia-San Sebastián.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Teniente Fiscal.</td>
+<td>1</td>
+<td>2</td>
+<td>RD</td>
+<td>Donostia-San Sebastián.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro">RD</td>
-<td class="cuerpo_tabla_izq">Donostia-San Sebastián.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Fiscal.</td>
+<td>18</td>
+<td>2</td>
+<td>RD</td>
+<td>Donostia-San Sebastián.</td>
+<td> </td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abogado Fiscal.</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro">OM</td>
-<td class="cuerpo_tabla_izq">Donostia-San Sebastián.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Abogado Fiscal.</td>
+<td>11</td>
+<td>3</td>
+<td>OM</td>
+<td>Donostia-San Sebastián.</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>

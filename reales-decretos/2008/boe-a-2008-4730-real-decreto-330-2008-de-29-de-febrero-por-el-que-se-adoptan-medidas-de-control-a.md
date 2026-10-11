@@ -202,705 +202,699 @@ MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
 
 ## ANEXO I — Productos de importación procedentes de terceros países sometidos a control de seguridad previo a su despacho aduanero (Códigos Nomenclatura Combinada)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="85%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">NC</th>
-<th class="cabeza_tabla">Denominación producto</th>
+<th>NC</th>
+<th>Denominación producto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 3213.90.00</td>
-<td class="cuerpo_tabla_izq">Los demás colores para la pintura artística, la enseñanza, la pintura de carteles, para matizar o para entretenimiento y colores similares, en pastillas, tubos, botes, frascos o en formas o envases similares: Pinturas de dedos.</td>
+<td>Ex 3213.90.00</td>
+<td>Los demás colores para la pintura artística, la enseñanza, la pintura de carteles, para matizar o para entretenimiento y colores similares, en pastillas, tubos, botes, frascos o en formas o envases similares: Pinturas de dedos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 3922.10.00.00</td>
-<td class="cuerpo_tabla_izq">Bañeras de bebé.</td>
+<td>Ex. 3922.10.00.00</td>
+<td>Bañeras de bebé.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3926.90.60</td>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de plástico y manufacturas de las demás materias de las partidas 3901 3914. Las demás. Pantallas y viseras de protección facial.</td>
+<td>3926.90.60</td>
+<td>Las demás manufacturas de plástico y manufacturas de las demás materias de las partidas 3901 3914. Las demás. Pantallas y viseras de protección facial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 3926.90.97</td>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de plástico y manufacturas de las demás materias de las partidas 3901 a 3914: Pantallas y viseras de protección facial, protectores auditivos (tapones pasivos y orejeras), arnés para primeros pasos y broches para chupetes.</td>
+<td>Ex. 3926.90.97</td>
+<td>Las demás manufacturas de plástico y manufacturas de las demás materias de las partidas 3901 a 3914: Pantallas y viseras de protección facial, protectores auditivos (tapones pasivos y orejeras), arnés para primeros pasos y broches para chupetes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 4203.29</td>
-<td class="cuerpo_tabla_izq">Guantes de motociclismo de cuero natural o cuero regenerado.</td>
+<td>Ex. 4203.29</td>
+<td>Guantes de motociclismo de cuero natural o cuero regenerado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4403.11</td>
-<td class="cuerpo_tabla_izq">Madera de coníferas en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, creosota u otros agentes de conservación.</td>
+<td>4403.11</td>
+<td>Madera de coníferas en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, creosota u otros agentes de conservación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4403.12</td>
-<td class="cuerpo_tabla_izq">Madera distinta de la de coníferas en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, creosota u otros agentes de conservación.</td>
+<td>4403.12</td>
+<td>Madera distinta de la de coníferas en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, creosota u otros agentes de conservación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4407</td>
-<td class="cuerpo_tabla_izq">Madera aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6mm.</td>
+<td>4407</td>
+<td>Madera aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6mm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 4409.10.18</td>
-<td class="cuerpo_tabla_izq">Suelos, frisos y entablados de madera de coníferas.</td>
+<td>Ex 4409.10.18</td>
+<td>Suelos, frisos y entablados de madera de coníferas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 4409.22.00</td>
-<td class="cuerpo_tabla_izq">Madera (incluidas las tablillas y frisos para parqués, sin ensamblar) perfilada longitudinalmente (con lengüetas, ranuras, rebajes, acanalados, biselados, con juntas en V, moldurados, redondeados o similares) en una o varias caras, cantos o extremos, incluso cepillada, lijada o unida por los extremos. Distinta de la de coníferas. De maderas tropicales: Suelos, frisos y entablados de maderas tropicales.</td>
+<td>Ex 4409.22.00</td>
+<td>Madera (incluidas las tablillas y frisos para parqués, sin ensamblar) perfilada longitudinalmente (con lengüetas, ranuras, rebajes, acanalados, biselados, con juntas en V, moldurados, redondeados o similares) en una o varias caras, cantos o extremos, incluso cepillada, lijada o unida por los extremos. Distinta de la de coníferas. De maderas tropicales: Suelos, frisos y entablados de maderas tropicales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4409.29.91</td>
-<td class="cuerpo_tabla_izq">Tablillas y frisos para parqués, sin ensamblar (excepto las de coníferas y las de bambú).</td>
+<td>4409.29.91</td>
+<td>Tablillas y frisos para parqués, sin ensamblar (excepto las de coníferas y las de bambú).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 4409.29.99</td>
-<td class="cuerpo_tabla_izq">Suelos, frisos y entablados, de madera, distinta de coníferas y bambú.</td>
+<td>Ex 4409.29.99</td>
+<td>Suelos, frisos y entablados, de madera, distinta de coníferas y bambú.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4410.11</td>
-<td class="cuerpo_tabla_izq">Tableros de partículas, de madera.</td>
+<td>4410.11</td>
+<td>Tableros de partículas, de madera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4410.12</td>
-<td class="cuerpo_tabla_izq">Tableros llamados «oriented strand board» (OSB), de madera.</td>
+<td>4410.12</td>
+<td>Tableros llamados «oriented strand board» (OSB), de madera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4410.90</td>
-<td class="cuerpo_tabla_izq">Los demás tableros de partículas, OSB, y similares, de otras materias leñosas incluso aglomeradas con resinas o demás aglutinantes orgánicos.</td>
+<td>4410.90</td>
+<td>Los demás tableros de partículas, OSB, y similares, de otras materias leñosas incluso aglomeradas con resinas o demás aglutinantes orgánicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4411</td>
-<td class="cuerpo_tabla_izq">Tableros de fibra de madera u otras materias leñosas, incluso aglomeradas con resinas o demás aglutinantes orgánicos.</td>
+<td>4411</td>
+<td>Tableros de fibra de madera u otras materias leñosas, incluso aglomeradas con resinas o demás aglutinantes orgánicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 4412</td>
-<td class="cuerpo_tabla_izq">Madera contrachapada, madera chapada y madera estratificada similar (excepto de bambú).</td>
+<td>Ex 4412</td>
+<td>Madera contrachapada, madera chapada y madera estratificada similar (excepto de bambú).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 4421.91.00</td>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de maderas: escaleras portátiles.</td>
+<td>Ex. 4421.91.00</td>
+<td>Las demás manufacturas de maderas: escaleras portátiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 4421.99</td>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de maderas: escaleras portátiles.</td>
+<td>Ex. 4421.99</td>
+<td>Las demás manufacturas de maderas: escaleras portátiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4418.74</td>
-<td class="cuerpo_tabla_izq">Los demás tableros ensamblados para revestimiento de suelo en mosaico, de madera.</td>
+<td>4418.74</td>
+<td>Los demás tableros ensamblados para revestimiento de suelo en mosaico, de madera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4418.75</td>
-<td class="cuerpo_tabla_izq">Los demás tableros ensamblados para revestimiento de suelo multicapas, de madera.</td>
+<td>4418.75</td>
+<td>Los demás tableros ensamblados para revestimiento de suelo multicapas, de madera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4418.79</td>
-<td class="cuerpo_tabla_izq">Los demás tableros ensamblados para revestimiento de suelo, de madera.</td>
+<td>4418.79</td>
+<td>Los demás tableros ensamblados para revestimiento de suelo, de madera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 5607.50.90</td>
-<td class="cuerpo_tabla_izq">Cordeles, cuerdas y cordajes, de las demás fibras sintéticas: Cuerdas y absorbedores de energía para protección de caídas en altura.</td>
+<td>Ex 5607.50.90</td>
+<td>Cordeles, cuerdas y cordajes, de las demás fibras sintéticas: Cuerdas y absorbedores de energía para protección de caídas en altura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 5609.00.00</td>
-<td class="cuerpo_tabla_izq">Artículos de hilados, tiras o formas similares de las partidas 5404 o 5405, cordeles, cuerdas o cordajes, no expresados ni comprendidos en otra parte: Cuerdas y absorbedores de energía para protección de caídas en altura.</td>
+<td>Ex 5609.00.00</td>
+<td>Artículos de hilados, tiras o formas similares de las partidas 5404 o 5405, cordeles, cuerdas o cordajes, no expresados ni comprendidos en otra parte: Cuerdas y absorbedores de energía para protección de caídas en altura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5703</td>
-<td class="cuerpo_tabla_izq">Alfombras y demás revestimientos para el suelo de material textil, con mechón insertado, incluso confeccionados.</td>
+<td>5703</td>
+<td>Alfombras y demás revestimientos para el suelo de material textil, con mechón insertado, incluso confeccionados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5704</td>
-<td class="cuerpo_tabla_izq">Alfombras y demás revestimientos para el suelo de fieltro (excepto los de mechón insertado y los flocados), incluso confeccionados.</td>
+<td>5704</td>
+<td>Alfombras y demás revestimientos para el suelo de fieltro (excepto los de mechón insertado y los flocados), incluso confeccionados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5802</td>
-<td class="cuerpo_tabla_izq">Tejidos con bucles del tipo toalla (excepto los productos de la partida 5806); superficies textiles con mechón insertado (excepto los productos de la partida 5703).</td>
+<td>5802</td>
+<td>Tejidos con bucles del tipo toalla (excepto los productos de la partida 5806); superficies textiles con mechón insertado (excepto los productos de la partida 5703).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5811</td>
-<td class="cuerpo_tabla_izq">Productos textiles acolchados en pieza.</td>
+<td>5811</td>
+<td>Productos textiles acolchados en pieza.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6101</td>
-<td class="cuerpo_tabla_izq">Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de punto, para niños (incluidos los disfraces infantiles).</td>
+<td>Ex. 6101</td>
+<td>Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de punto, para niños (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6102</td>
-<td class="cuerpo_tabla_izq">Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de punto, para niñas (incluidos los disfraces infantiles).</td>
+<td>Ex. 6102</td>
+<td>Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de punto, para niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6103</td>
-<td class="cuerpo_tabla_izq">Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para niños (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6103</td>
+<td>Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para niños (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para hombres o niños; Los que son de trabajo y; los que son equipos de protección individual tanto para uso profesional, como particular.</td>
+<td>Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para hombres o niños; Los que son de trabajo y; los que son equipos de protección individual tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6104</td>
-<td class="cuerpo_tabla_izq">Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para niñas (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6104</td>
+<td>Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para mujeres o niñas; Los que son de trabajo; y los que son equipos de protección individual tanto para uso profesional, como particular.</td>
+<td>Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para mujeres o niñas; Los que son de trabajo; y los que son equipos de protección individual tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6105</td>
-<td class="cuerpo_tabla_izq">Camisas de punto para niños (incluidos los disfraces infantiles).</td>
+<td>Ex. 6105</td>
+<td>Camisas de punto para niños (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6106</td>
-<td class="cuerpo_tabla_izq">Camisas, blusas y blusas camiseras, de punto, para niñas (incluidos los disfraces infantiles).</td>
+<td>Ex. 6106</td>
+<td>Camisas, blusas y blusas camiseras, de punto, para niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6107</td>
-<td class="cuerpo_tabla_izq">Calzoncillos, incluidos los largos y los slips, camisones, pijamas, albornoces de baño, batas de casa y artículos similares, de punto, para hombres o niños.</td>
+<td>6107</td>
+<td>Calzoncillos, incluidos los largos y los slips, camisones, pijamas, albornoces de baño, batas de casa y artículos similares, de punto, para hombres o niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6108</td>
-<td class="cuerpo_tabla_izq">Combinaciones, enaguas, bragas (bombachas, calzones), incluso las que no llegan hasta la cintura, camisones, pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, de punto, para mujeres o niñas.</td>
+<td>6108</td>
+<td>Combinaciones, enaguas, bragas (bombachas, calzones), incluso las que no llegan hasta la cintura, camisones, pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, de punto, para mujeres o niñas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6109</td>
-<td class="cuerpo_tabla_izq">T-Shirts y camisetas, de punto.</td>
+<td>6109</td>
+<td>T-Shirts y camisetas, de punto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6110</td>
-<td class="cuerpo_tabla_izq">Suéteres (jerseys), pulóveres, cardigan, chalecos y artículos similares, de punto, para niños y niñas (incluidos los disfraces infantiles).</td>
+<td>Ex. 6110</td>
+<td>Suéteres (jerseys), pulóveres, cardigan, chalecos y artículos similares, de punto, para niños y niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6110.30.91</td>
-<td class="cuerpo_tabla_izq">Chalecos de fibras sintéticas o artificiales, incluidos los de alta visibilidad, para hombres y niños.</td>
+<td>Ex. 6110.30.91</td>
+<td>Chalecos de fibras sintéticas o artificiales, incluidos los de alta visibilidad, para hombres y niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6110.30.99</td>
-<td class="cuerpo_tabla_izq">Chalecos de fibras sintéticas o artificiales, incluidos los de alta visibilidad, para mujeres y niñas.</td>
+<td>Ex. 6110.30.99</td>
+<td>Chalecos de fibras sintéticas o artificiales, incluidos los de alta visibilidad, para mujeres y niñas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6111</td>
-<td class="cuerpo_tabla_izq">Prendas y complementos (accesorios) de vestir, de punto, para bebés.</td>
+<td>6111</td>
+<td>Prendas y complementos (accesorios) de vestir, de punto, para bebés.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6112.11.00.00</td>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales). De algodón para niños y niñas.</td>
+<td>Ex. 6112.11.00.00</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales). De algodón para niños y niñas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6112.12.00.00</td>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales). De fibras sintéticas para niños y niñas.</td>
+<td>Ex. 6112.12.00.00</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales). De fibras sintéticas para niños y niñas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6112.19.00.00</td>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales). De las demás materias textiles para niños y niñas.</td>
+<td>Ex. 6112.19.00.00</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales). De las demás materias textiles para niños y niñas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6112.20.00.00</td>
-<td class="cuerpo_tabla_izq">Monos (overoles) y conjuntos de esquí.</td>
+<td>6112.20.00.00</td>
+<td>Monos (overoles) y conjuntos de esquí.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6112.31</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto, para hombres o niños, de fibras sintéticas.</td>
+<td>6112.31</td>
+<td>Bañadores de punto, para hombres o niños, de fibras sintéticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6112.39</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto, para hombres o niños, de las demás materias textiles.</td>
+<td>6112.39</td>
+<td>Bañadores de punto, para hombres o niños, de las demás materias textiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6112.41</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto, para mujeres o niñas, de fibras sintéticas.</td>
+<td>6112.41</td>
+<td>Bañadores de punto, para mujeres o niñas, de fibras sintéticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6112.49</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto, para mujeres o niñas, de las demás materias textiles.</td>
+<td>6112.49</td>
+<td>Bañadores de punto, para mujeres o niñas, de las demás materias textiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6113</td>
-<td class="cuerpo_tabla_izq">Prendas de vestir confeccionadas con tejidos de punto de las partidas 5903, 5906 o 5907. Las que son de trabajo; y las que son equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Ex. 6113</td>
+<td>Prendas de vestir confeccionadas con tejidos de punto de las partidas 5903, 5906 o 5907. Las que son de trabajo; y las que son equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 6114</td>
-<td class="cuerpo_tabla_izq">Las demás prendas de vestir, de punto. Las que son de trabajo; y las que son equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Ex. 6114</td>
+<td>Las demás prendas de vestir, de punto. Las que son de trabajo; y las que son equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6115</td>
-<td class="cuerpo_tabla_izq">Calzas, panty-medias, leotardos, medias, calcetines y demás artículos de calcetería, incluso de comprensión progresiva (por ejemplo: medias para varices), de punto.</td>
+<td>6115</td>
+<td>Calzas, panty-medias, leotardos, medias, calcetines y demás artículos de calcetería, incluso de comprensión progresiva (por ejemplo: medias para varices), de punto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6116</td>
-<td class="cuerpo_tabla_izq">Guantes, mitones y manoplas, de punto.</td>
+<td>6116</td>
+<td>Guantes, mitones y manoplas, de punto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6201</td>
-<td class="cuerpo_tabla_izq">Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6203, para niños.</td>
+<td rowspan="2">Ex. 6201</td>
+<td>Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6203, para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6203, para hombres o niños, excepto los artículos de la partida 6203; Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6203, para hombres o niños, excepto los artículos de la partida 6203; Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6202</td>
-<td class="cuerpo_tabla_izq">Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6204, para niñas.</td>
+<td rowspan="2">Ex. 6202</td>
+<td>Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6204, para niñas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6204, para hombres o niños, excepto los artículos de la partida 6203; Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para hombres o niños, excepto los artículos de la partida 6204, para hombres o niños, excepto los artículos de la partida 6203; Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6203</td>
-<td class="cuerpo_tabla_izq">Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para niños (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6203</td>
+<td>Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para niños (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para hombres o niños. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para hombres o niños. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6204</td>
-<td class="cuerpo_tabla_izq">Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para niñas (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6204</td>
+<td>Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para mujeres o niñas. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para mujeres o niñas. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex 6205</td>
-<td class="cuerpo_tabla_izq">Camisas para niños (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex 6205</td>
+<td>Camisas para niños (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camisas para hombres o niños. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Camisas para hombres o niños. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex 6206</td>
-<td class="cuerpo_tabla_izq">Camisas, blusas y blusas camiseras, para niñas (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex 6206</td>
+<td>Camisas, blusas y blusas camiseras, para niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camisas, blusas y blusas camiseras, para mujeres o niñas. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Camisas, blusas y blusas camiseras, para mujeres o niñas. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6207</td>
-<td class="cuerpo_tabla_izq">Camisetas, calzoncillos, incluidos los largos y los slips, camisones, pijamas, albornoces de baño, batas de casa y artículos similares, para hombres o niños (excepto los de punto).</td>
+<td>6207</td>
+<td>Camisetas, calzoncillos, incluidos los largos y los slips, camisones, pijamas, albornoces de baño, batas de casa y artículos similares, para hombres o niños (excepto los de punto).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6208</td>
-<td class="cuerpo_tabla_izq">Camisetas, combinaciones, enaguas, bragas (bombachas, calzones), incluso las que no llegan a la cintura, camisones, pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, para mujeres o niñas (excepto los de punto).</td>
+<td>6208</td>
+<td>Camisetas, combinaciones, enaguas, bragas (bombachas, calzones), incluso las que no llegan a la cintura, camisones, pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, para mujeres o niñas (excepto los de punto).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6209</td>
-<td class="cuerpo_tabla_izq">Prendas y complementos (accesorios), de vestir, para bebés (excepto los de punto).</td>
+<td>6209</td>
+<td>Prendas y complementos (accesorios), de vestir, para bebés (excepto los de punto).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6210.20.00</td>
-<td class="cuerpo_tabla_izq">Las demás prendas de vestir de los tipos citados en la partida 6201 para niños (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6210.20.00</td>
+<td>Las demás prendas de vestir de los tipos citados en la partida 6201 para niños (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Las demás prendas de vestir de los tipos citados en la partida 6201. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Las demás prendas de vestir de los tipos citados en la partida 6201. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6210.30.00</td>
-<td class="cuerpo_tabla_izq">Las demás prendas de vestir de los tipos citados en la partida 6201 para niñas (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6210.30.00</td>
+<td>Las demás prendas de vestir de los tipos citados en la partida 6201 para niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Las demás prendas de vestir de los tipos citados en la partida 6201. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Las demás prendas de vestir de los tipos citados en la partida 6201. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex. 6211</td>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales), monos (overoles) y conjuntos de esquí y bañadores; las demás prendas de vestir para niños y niñas (incluidos los disfraces infantiles).</td>
+<td rowspan="2">Ex. 6211</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales), monos (overoles) y conjuntos de esquí y bañadores; las demás prendas de vestir para niños y niñas (incluidos los disfraces infantiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales), monos (overoles) y conjuntos de esquí y bañadores; las demás prendas de vestir. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales), monos (overoles) y conjuntos de esquí y bañadores; las demás prendas de vestir. Los que son de trabajo; y los equipos de protección individual, tanto para uso profesional, como particular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6212.10</td>
-<td class="cuerpo_tabla_izq">Sostenes (corpiños).</td>
+<td>6212.10</td>
+<td>Sostenes (corpiños).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6212.20</td>
-<td class="cuerpo_tabla_izq">Fajas y fajas braga (fajas bombacha).</td>
+<td>6212.20</td>
+<td>Fajas y fajas braga (fajas bombacha).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6212.30</td>
-<td class="cuerpo_tabla_izq">Fajas sostén (fajas corpiño).</td>
+<td>6212.30</td>
+<td>Fajas sostén (fajas corpiño).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6216</td>
-<td class="cuerpo_tabla_izq">Guantes, mitones y manoplas (excepto los de punto).</td>
+<td>6216</td>
+<td>Guantes, mitones y manoplas (excepto los de punto).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6301.10.00.00</td>
-<td class="cuerpo_tabla_izq">Mantas eléctricas.</td>
+<td>6301.10.00.00</td>
+<td>Mantas eléctricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6302</td>
-<td class="cuerpo_tabla_izq">Ropa de cama, de mesa, de tocador o cocina.</td>
+<td>6302</td>
+<td>Ropa de cama, de mesa, de tocador o cocina.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 6307.20.00</td>
-<td class="cuerpo_tabla_izq">Cinturones y chalecos salvavidas: Arneses, cinturones y equipos anticaídas.</td>
+<td>Ex 6307.20.00</td>
+<td>Cinturones y chalecos salvavidas: Arneses, cinturones y equipos anticaídas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 6307.90</td>
-<td class="cuerpo_tabla_izq">Los demás artículos confeccionados: Mochilas portabebé.</td>
+<td>Ex 6307.90</td>
+<td>Los demás artículos confeccionados: Mochilas portabebé.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6307.90.93</td>
-<td class="cuerpo_tabla_izq">Mascarillas de protección facial.</td>
+<td>6307.90.93</td>
+<td>Mascarillas de protección facial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6401</td>
-<td class="cuerpo_tabla_izq">Calzado impermeable con suela y parte superior de caucho o plástico.</td>
+<td>6401</td>
+<td>Calzado impermeable con suela y parte superior de caucho o plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6402</td>
-<td class="cuerpo_tabla_izq">Los demás calzados con suela y parte superior de caucho o plástico.</td>
+<td>6402</td>
+<td>Los demás calzados con suela y parte superior de caucho o plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6403</td>
-<td class="cuerpo_tabla_izq">Calzado con suela de caucho, plástico, cuero natural o regenerado y parte superior de cuero natural.</td>
+<td>6403</td>
+<td>Calzado con suela de caucho, plástico, cuero natural o regenerado y parte superior de cuero natural.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6404</td>
-<td class="cuerpo_tabla_izq">Calzado con suela de caucho, plástico, cuero natural, artificial o regenerado y parte superior de materia textil.</td>
+<td>6404</td>
+<td>Calzado con suela de caucho, plástico, cuero natural, artificial o regenerado y parte superior de materia textil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6405</td>
-<td class="cuerpo_tabla_izq">Los demás calzados.</td>
+<td>6405</td>
+<td>Los demás calzados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6506.10</td>
-<td class="cuerpo_tabla_izq">Cascos de seguridad (incluidos los accesorios que se insertan en el casco de protección para ofrecer protección auditiva).</td>
+<td>6506.10</td>
+<td>Cascos de seguridad (incluidos los accesorios que se insertan en el casco de protección para ofrecer protección auditiva).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 7326.90.30.00</td>
-<td class="cuerpo_tabla_izq">Escaleras y escabeles: escaleras portátiles*.</td>
+<td>Ex. 7326.90.30.00</td>
+<td>Escaleras y escabeles: escaleras portátiles*.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex 7326.90.98</td>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de hierro o acero: Conectores de acero para trabajos en altura (EPIS).</td>
+<td rowspan="2">Ex 7326.90.98</td>
+<td>Las demás manufacturas de hierro o acero: Conectores de acero para trabajos en altura (EPIS).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de hierro o acero: Puertas y barreras de seguridad para niños.</td>
+<td>Las demás manufacturas de hierro o acero: Puertas y barreras de seguridad para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 7616.99.90</td>
-<td class="cuerpo_tabla_izq">Las demás manufacturas de aluminio: Mosquetones.</td>
+<td>Ex 7616.99.90</td>
+<td>Las demás manufacturas de aluminio: Mosquetones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8516.29.91.00</td>
-<td class="cuerpo_tabla_izq">Aparatos eléctricos para calefacción de espacios o suelos, Con ventilador incorporado (calefactores, soplador calefactor).</td>
+<td>Ex 8516.29.91.00</td>
+<td>Aparatos eléctricos para calefacción de espacios o suelos, Con ventilador incorporado (calefactores, soplador calefactor).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8516 29 99.00</td>
-<td class="cuerpo_tabla_izq">Aparatos eléctricos para calefacción de espacios o suelos, los demás. Calefactor radiante compuesto por una resistencia eléctrica.</td>
+<td>Ex 8516 29 99.00</td>
+<td>Aparatos eléctricos para calefacción de espacios o suelos, los demás. Calefactor radiante compuesto por una resistencia eléctrica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8536.20.10.90</td>
-<td class="cuerpo_tabla_izq">Interruptores automáticos magnetotérmicos e Interruptores diferenciales.</td>
+<td>Ex 8536.20.10.90</td>
+<td>Interruptores automáticos magnetotérmicos e Interruptores diferenciales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8536.50.80</td>
-<td class="cuerpo_tabla_izq">Interruptores, seccionadores y conmutadores para uso doméstico o usos análogos.</td>
+<td>Ex 8536.50.80</td>
+<td>Interruptores, seccionadores y conmutadores para uso doméstico o usos análogos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8536.61.10</td>
-<td class="cuerpo_tabla_izq">Portalámparas Edison, excepto los destinados a cierto tipo de aeronaves, para uso doméstico o usos análogos.</td>
+<td>Ex 8536.61.10</td>
+<td>Portalámparas Edison, excepto los destinados a cierto tipo de aeronaves, para uso doméstico o usos análogos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8536.69.90</td>
-<td class="cuerpo_tabla_izq">Clavijas y tomas de corriente (enchufes), excepto los destinados a ciertos tipos de aeronaves, para uso doméstico o usos análogos.</td>
+<td>Ex 8536.69.90</td>
+<td>Clavijas y tomas de corriente (enchufes), excepto los destinados a ciertos tipos de aeronaves, para uso doméstico o usos análogos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8536.90.10</td>
-<td class="cuerpo_tabla_izq">Conexiones y elementos de contacto para hilos y cables. Exclusivamente las regletas de conexión para uso doméstico o usos análogos.</td>
+<td>Ex 8536.90.10</td>
+<td>Conexiones y elementos de contacto para hilos y cables. Exclusivamente las regletas de conexión para uso doméstico o usos análogos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8544.42.90</td>
-<td class="cuerpo_tabla_izq">Los demás conductores eléctricos para una tensión inferior o igual a 1000 V, provistos de una clavija, un cable y una base de toma de corriente, para uso doméstico o usos análogos.</td>
+<td>Ex 8544.42.90</td>
+<td>Los demás conductores eléctricos para una tensión inferior o igual a 1000 V, provistos de una clavija, un cable y una base de toma de corriente, para uso doméstico o usos análogos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8715.00.10.00</td>
-<td class="cuerpo_tabla_izq">Coches, sillas y vehículos similares para transporte de niños.</td>
+<td>8715.00.10.00</td>
+<td>Coches, sillas y vehículos similares para transporte de niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.21.10.00</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue inferior o igual a 250 g, multirrotores, equipados con aparatos integrados permanentemente de la subpartida 8525 89 para la captura y grabación de imágenes fijas y de vídeo.</td>
+<td>8806.21.10.00</td>
+<td>Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue inferior o igual a 250 g, multirrotores, equipados con aparatos integrados permanentemente de la subpartida 8525 89 para la captura y grabación de imágenes fijas y de vídeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.21.90.10</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue inferior o igual a 250 g, las demás. Civiles.</td>
+<td>8806.21.90.10</td>
+<td>Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue inferior o igual a 250 g, las demás. Civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.22.10.00</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg, multirrotores, equipados con aparatos integrados permanentemente de la subpartida 8525 89 para la captura y grabación de imágenes fijas y de vídeo.</td>
+<td>8806.22.10.00</td>
+<td>Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg, multirrotores, equipados con aparatos integrados permanentemente de la subpartida 8525 89 para la captura y grabación de imágenes fijas y de vídeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.22.90.10</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg, las demás. Civiles.</td>
+<td>8806.22.90.10</td>
+<td>Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg, las demás. Civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.23.00.10</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue superior a 7 kg pero inferior o igual a 25 kg. Civiles.</td>
+<td>8806.23.00.10</td>
+<td>Aeronaves no tripuladas, las demás, únicamente diseñadas para ser teledirigidas, con un peso máximo de despegue superior a 7 kg pero inferior o igual a 25 kg. Civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.91.00.10</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, con un peso máximo de despegue inferior o igual a 250 g. Civiles.</td>
+<td>8806.91.00.10</td>
+<td>Aeronaves no tripuladas, las demás, con un peso máximo de despegue inferior o igual a 250 g. Civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.92.00.10</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg. Civiles.</td>
+<td>8806.92.00.10</td>
+<td>Aeronaves no tripuladas, con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg. Civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8806.93.00.10</td>
-<td class="cuerpo_tabla_izq">Aeronaves no tripuladas, las demás, con un peso máximo de despegue superior a 7 kg pero inferior o igual a 25 kg. Civiles.</td>
+<td>8806.93.00.10</td>
+<td>Aeronaves no tripuladas, las demás, con un peso máximo de despegue superior a 7 kg pero inferior o igual a 25 kg. Civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8807.10.00.10</td>
-<td class="cuerpo_tabla_izq">Partes de los aparatos de las partidas 8806 -hélices y rotores, y sus partes. Destinados a aeronaves civiles. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg.</td>
+<td>Ex 8807.10.00.10</td>
+<td>Partes de los aparatos de las partidas 8806 -hélices y rotores, y sus partes. Destinados a aeronaves civiles. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8807.10.00.20</td>
-<td class="cuerpo_tabla_izq">Partes de los aparatos de las partidas 8806 -hélices y rotores, y sus partes. Que se destinen a ser montados en aeronaves que sean beneficiarios de franquicia de derechos o que hayan sido construidos en la Comunidad. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg.</td>
+<td>Ex 8807.10.00.20</td>
+<td>Partes de los aparatos de las partidas 8806 -hélices y rotores, y sus partes. Que se destinen a ser montados en aeronaves que sean beneficiarios de franquicia de derechos o que hayan sido construidos en la Comunidad. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8807.30.00.10</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Partes de los aparatos de las partidas 8806. Las demás partes de aviones, helicópteros o aeronaves no tripuladas. Destinados a aeronaves civiles. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg:</p>
-<p class="cuerpo_tabla_izq">– Motores;</p>
-<p class="cuerpo_tabla_izq">– Sistemas de identificación a distancia;</p>
-<p class="cuerpo_tabla_izq">– Kits de accesorios de la clase C5;</p>
-<p class="cuerpo_tabla_izq">– Equipos para controlar aeronaves no tripuladas de forma remota.</p>
+<td>Ex 8807.30.00.10</td>
+<td>
+<p>Partes de los aparatos de las partidas 8806. Las demás partes de aviones, helicópteros o aeronaves no tripuladas. Destinados a aeronaves civiles. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg:</p>
+<p>– Motores;</p>
+<p>– Sistemas de identificación a distancia;</p>
+<p>– Kits de accesorios de la clase C5;</p>
+<p>– Equipos para controlar aeronaves no tripuladas de forma remota.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 8807.30.00.20</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Partes de los aparatos de las partidas 8806. Las demás partes de aviones, helicópteros o aeronaves no tripuladas. Que se destinen a ser montados en aeronaves que sean beneficiarios de franquicia de derechos o que hayan sido construidos en la Comunidad. Destinados a aeronaves civiles. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg:</p>
-<p class="cuerpo_tabla_izq">– Motores;</p>
-<p class="cuerpo_tabla_izq">– Sistemas de identificación a distancia;</p>
-<p class="cuerpo_tabla_izq">– Kits de accesorios de la clase C5;</p>
-<p class="cuerpo_tabla_izq">– Equipos para controlar aeronaves no tripuladas de forma remota.</p>
+<td>Ex 8807.30.00.20</td>
+<td>
+<p>Partes de los aparatos de las partidas 8806. Las demás partes de aviones, helicópteros o aeronaves no tripuladas. Que se destinen a ser montados en aeronaves que sean beneficiarios de franquicia de derechos o que hayan sido construidos en la Comunidad. Destinados a aeronaves civiles. Los de las aeronaves no tripuladas, diseñadas para ser teledirigidas, con un peso máximo de despegue de hasta 25 kg:</p>
+<p>– Motores;</p>
+<p>– Sistemas de identificación a distancia;</p>
+<p>– Kits de accesorios de la clase C5;</p>
+<p>– Equipos para controlar aeronaves no tripuladas de forma remota.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9004.10.91.00</td>
-<td class="cuerpo_tabla_izq">Gafas (anteojos) de sol con cristales de plástico</td>
+<td>9004.10.91.00</td>
+<td>Gafas (anteojos) de sol con cristales de plástico</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9004.10.99.00</td>
-<td class="cuerpo_tabla_izq">Las demás gafas de sol</td>
+<td>9004.10.99.00</td>
+<td>Las demás gafas de sol</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9004.90.10.00</td>
-<td class="cuerpo_tabla_izq">Gafas de protección con cristales de plástico y visores de protección.</td>
+<td>Ex 9004.90.10.00</td>
+<td>Gafas de protección con cristales de plástico y visores de protección.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9020.00.10</td>
-<td class="cuerpo_tabla_izq">Máscaras antigás.</td>
+<td>9020.00.10</td>
+<td>Máscaras antigás.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.31</td>
-<td class="cuerpo_tabla_izq">Asientos giratorios de madera de altura ajustable.</td>
+<td>9401.31</td>
+<td>Asientos giratorios de madera de altura ajustable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.39</td>
-<td class="cuerpo_tabla_izq">Los demás asientos giratorios de altura ajustable.</td>
+<td>9401.39</td>
+<td>Los demás asientos giratorios de altura ajustable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.41</td>
-<td class="cuerpo_tabla_izq">Asientos transformables en cama de madera, excepto el material de acampar o de jardín.</td>
+<td>9401.41</td>
+<td>Asientos transformables en cama de madera, excepto el material de acampar o de jardín.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.49</td>
-<td class="cuerpo_tabla_izq">Los demás asientos transformables en cama, excepto el material de acampar o de jardín.</td>
+<td>9401.49</td>
+<td>Los demás asientos transformables en cama, excepto el material de acampar o de jardín.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.61</td>
-<td class="cuerpo_tabla_izq">Los demás asientos, con armazón de madera, con relleno, incluidas tronas y sillas altas para niños.</td>
+<td>9401.61</td>
+<td>Los demás asientos, con armazón de madera, con relleno, incluidas tronas y sillas altas para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.69</td>
-<td class="cuerpo_tabla_izq">Los demás asientos, con armazón de madera, sin relleno, incluidas las tronas y las sillas altas para niños.</td>
+<td>9401.69</td>
+<td>Los demás asientos, con armazón de madera, sin relleno, incluidas las tronas y las sillas altas para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.71</td>
-<td class="cuerpo_tabla_izq">Los demás asientos con armazón de metal, con relleno, incluidas las tronas y sillas altas para niños.</td>
+<td>9401.71</td>
+<td>Los demás asientos con armazón de metal, con relleno, incluidas las tronas y sillas altas para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9401.79</td>
-<td class="cuerpo_tabla_izq">Los demás asientos con armazón de metal, sin relleno, incluidas las tronas y sillas altas para niños.</td>
+<td>9401.79</td>
+<td>Los demás asientos con armazón de metal, sin relleno, incluidas las tronas y sillas altas para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 9401.80</td>
-<td class="cuerpo_tabla_izq">Los demás asientos: tronas, sillas altas para niños y saltadores de bebé para puertas.</td>
+<td>Ex. 9401.80</td>
+<td>Los demás asientos: tronas, sillas altas para niños y saltadores de bebé para puertas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.10</td>
-<td class="cuerpo_tabla_izq">Muebles de metal de los tipos utilizados en las oficinas: Armarios, clasificadores, ficheros y mesas de trabajo.</td>
+<td>Ex 9403.10</td>
+<td>Muebles de metal de los tipos utilizados en las oficinas: Armarios, clasificadores, ficheros y mesas de trabajo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.20.20</td>
-<td class="cuerpo_tabla_izq">Camas abatibles y literas, camas de camping, cunas de viaje, de metal (excepto las destinadas a aeronaves civiles).</td>
+<td>Ex 9403.20.20</td>
+<td>Camas abatibles y literas, camas de camping, cunas de viaje, de metal (excepto las destinadas a aeronaves civiles).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.20.80</td>
-<td class="cuerpo_tabla_izq">Los demás muebles de metal: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
+<td>Ex 9403.20.80</td>
+<td>Los demás muebles de metal: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.30</td>
-<td class="cuerpo_tabla_izq">Muebles de madera de los tipos utilizados en las oficinas: Armarios, clasificadores, ficheros, y mesas de trabajo.</td>
+<td>Ex 9403.30</td>
+<td>Muebles de madera de los tipos utilizados en las oficinas: Armarios, clasificadores, ficheros, y mesas de trabajo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.50.00</td>
-<td class="cuerpo_tabla_izq">Muebles de madera de los tipos utilizados en los dormitorios: Cunas, moisés, cunas balancín, cambiadores para niños, literas y cómodas.</td>
+<td>Ex 9403.50.00</td>
+<td>Muebles de madera de los tipos utilizados en los dormitorios: Cunas, moisés, cunas balancín, cambiadores para niños, literas y cómodas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.60.90</td>
-<td class="cuerpo_tabla_izq">Torres de aprendizaje y parques infantiles.</td>
+<td>Ex 9403.60.90</td>
+<td>Torres de aprendizaje y parques infantiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9403.70.00</td>
-<td class="cuerpo_tabla_izq">Los demás muebles de plástico: Andador de bebé y escaleras portátiles.</td>
+<td>Ex 9403.70.00</td>
+<td>Los demás muebles de plástico: Andador de bebé y escaleras portátiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 9403.82</td>
-<td class="cuerpo_tabla_izq">Los demás muebles de bambú y sus partes: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
+<td>Ex. 9403.82</td>
+<td>Los demás muebles de bambú y sus partes: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 9403.83</td>
-<td class="cuerpo_tabla_izq">Los demás muebles de rotén (ratán) y sus partes: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
+<td>Ex. 9403.83</td>
+<td>Los demás muebles de rotén (ratán) y sus partes: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 9403.89</td>
-<td class="cuerpo_tabla_izq">Los demás muebles de otras materias y sus partes: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
+<td>Ex. 9403.89</td>
+<td>Los demás muebles de otras materias y sus partes: Cunas, moisés, cunas balancín y cambiadores para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9404.40.00</td>
-<td class="cuerpo_tabla_izq">Edredones de cuna, minicuna, capazo y maxicuna.</td>
+<td>Ex 9404.40.00</td>
+<td>Edredones de cuna, minicuna, capazo y maxicuna.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9405.31</td>
-<td class="cuerpo_tabla_izq">Guirnaldas diseñadas para ser utilizadas únicamente con fuentes luminosas de diodos emisores de luz (LED), de los tipos utilizados en árboles de Navidad.</td>
+<td>9405.31</td>
+<td>Guirnaldas diseñadas para ser utilizadas únicamente con fuentes luminosas de diodos emisores de luz (LED), de los tipos utilizados en árboles de Navidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9405.39</td>
-<td class="cuerpo_tabla_izq">Guirnaldas eléctricas de los tipos utilizados en árboles de Navidad.</td>
+<td>9405.39</td>
+<td>Guirnaldas eléctricas de los tipos utilizados en árboles de Navidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9405.41.31</td>
-<td class="cuerpo_tabla_izq">Las demás guirnaldas eléctricas fotovoltaicas de plástico.</td>
+<td>Ex 9405.41.31</td>
+<td>Las demás guirnaldas eléctricas fotovoltaicas de plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9405.41.39</td>
-<td class="cuerpo_tabla_izq">Las demás guirnaldas eléctricas fotovoltaicas que no sean de plástico.</td>
+<td>Ex 9405.41.39</td>
+<td>Las demás guirnaldas eléctricas fotovoltaicas que no sean de plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9405.42.31</td>
-<td class="cuerpo_tabla_izq">Las demás guirnaldas diseñadas para ser utilizadas únicamente con fuentes luminosas de diodos emisores de luz (LED), de plástico.</td>
+<td>Ex 9405.42.31</td>
+<td>Las demás guirnaldas diseñadas para ser utilizadas únicamente con fuentes luminosas de diodos emisores de luz (LED), de plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9405.42.39</td>
-<td class="cuerpo_tabla_izq">Las demás guirnaldas diseñadas para ser utilizadas únicamente con fuentes luminosas de diodos emisores de luz (LED), distintas de las de plástico.</td>
+<td>Ex 9405.42.39</td>
+<td>Las demás guirnaldas diseñadas para ser utilizadas únicamente con fuentes luminosas de diodos emisores de luz (LED), distintas de las de plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex. 9405.49.40</td>
-<td class="cuerpo_tabla_izq">Las demás guirnaldas eléctricas, distintas de las de LED y de las fotovoltaicas.</td>
+<td>Ex. 9405.49.40</td>
+<td>Las demás guirnaldas eléctricas, distintas de las de LED y de las fotovoltaicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.10</td>
-<td class="cuerpo_tabla_izq">Triciclos, patinetes, coches de pedal y juguetes similares con ruedas; coches y sillas de ruedas para muñecas o muñecos.</td>
+<td>9503.00.10</td>
+<td>Triciclos, patinetes, coches de pedal y juguetes similares con ruedas; coches y sillas de ruedas para muñecas o muñecos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.21.90</td>
-<td class="cuerpo_tabla_izq">Muñecas y muñecos, excepto artículos para coleccionistas adultos.</td>
+<td>Ex 9503.00.21.90</td>
+<td>Muñecas y muñecos, excepto artículos para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.29</td>
-<td class="cuerpo_tabla_izq">Partes y accesorios de muñecas y muñecos que representen solamente seres humanos.</td>
+<td>9503.00.29</td>
+<td>Partes y accesorios de muñecas y muñecos que representen solamente seres humanos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.30</td>
-<td class="cuerpo_tabla_izq">Trenes eléctricos, incluidos los carriles (rieles), señales y demás accesorios y modelos reducidos para ensamblar, incluso animados, excepto los modelos reducidos, construidos detalladamente a escala para coleccionistas adultos.</td>
+<td>Ex 9503.00.30</td>
+<td>Trenes eléctricos, incluidos los carriles (rieles), señales y demás accesorios y modelos reducidos para ensamblar, incluso animados, excepto los modelos reducidos, construidos detalladamente a escala para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.35</td>
-<td class="cuerpo_tabla_izq">Los demás juegos o surtidos y juguetes de construcción, de plástico.</td>
+<td>9503.00.35</td>
+<td>Los demás juegos o surtidos y juguetes de construcción, de plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.39</td>
-<td class="cuerpo_tabla_izq">Los demás juegos o surtidos y juguetes de construcción, de las demás materias.</td>
+<td>9503.00.39</td>
+<td>Los demás juegos o surtidos y juguetes de construcción, de las demás materias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.41</td>
-<td class="cuerpo_tabla_izq">Juguetes que representen animales o seres no humanos, rellenos.</td>
+<td>9503.00.41</td>
+<td>Juguetes que representen animales o seres no humanos, rellenos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.49</td>
-<td class="cuerpo_tabla_izq">Juguetes que representen animales o seres no humanos, los demás.</td>
+<td>9503.00.49</td>
+<td>Juguetes que representen animales o seres no humanos, los demás.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.55</td>
-<td class="cuerpo_tabla_izq">Instrumentos y aparatos musicales, de juguete.</td>
+<td>9503.00.55</td>
+<td>Instrumentos y aparatos musicales, de juguete.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.61</td>
-<td class="cuerpo_tabla_izq">Rompecabezas de madera, excepto los que superen 500 piezas o sin modelo, destinados a los especialistas.</td>
+<td>Ex 9503.00.61</td>
+<td>Rompecabezas de madera, excepto los que superen 500 piezas o sin modelo, destinados a los especialistas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.69</td>
-<td class="cuerpo_tabla_izq">Rompecabezas, los demás, excepto los que superen 500 piezas o sin modelo, destinados a los especialistas.</td>
+<td>Ex 9503.00.69</td>
+<td>Rompecabezas, los demás, excepto los que superen 500 piezas o sin modelo, destinados a los especialistas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9503.00.70</td>
-<td class="cuerpo_tabla_izq">Los demás juguetes presentados en juegos o surtidos o en panoplias.</td>
+<td>9503.00.70</td>
+<td>Los demás juguetes presentados en juegos o surtidos o en panoplias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.75.90</td>
-<td class="cuerpo_tabla_izq">Los demás juguetes y modelos, con motor, de plástico, excepto: los vehículos con motor de combustión, las máquinas de vapor de juguete y los construidos detalladamente a escala para coleccionistas adultos.</td>
+<td>Ex 9503.00.75.90</td>
+<td>Los demás juguetes y modelos, con motor, de plástico, excepto: los vehículos con motor de combustión, las máquinas de vapor de juguete y los construidos detalladamente a escala para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.79</td>
-<td class="cuerpo_tabla_izq">Los demás juguetes y modelos con motor, de las demás materias, excepto: los vehículos con motor de combustión, las máquinas de vapor de juguete y los construidos detalladamente a escala para coleccionistas adultos.</td>
+<td>Ex 9503.00.79</td>
+<td>Los demás juguetes y modelos con motor, de las demás materias, excepto: los vehículos con motor de combustión, las máquinas de vapor de juguete y los construidos detalladamente a escala para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.81</td>
-<td class="cuerpo_tabla_izq">Armas de juguete, excepto los modelos reducidos construidos detalladamente a escala para coleccionistas adultos, así como las hondas y tirachinas.</td>
+<td>Ex 9503.00.81</td>
+<td>Armas de juguete, excepto los modelos reducidos construidos detalladamente a escala para coleccionistas adultos, así como las hondas y tirachinas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.85</td>
-<td class="cuerpo_tabla_izq">Modelos en miniatura de metal, obtenidos por moldeo, excepto los construidos detalladamente a escala para coleccionistas adultos.</td>
+<td>Ex 9503.00.85</td>
+<td>Modelos en miniatura de metal, obtenidos por moldeo, excepto los construidos detalladamente a escala para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.95</td>
-<td class="cuerpo_tabla_izq">Los demás, de plástico, excepto los construidos detalladamente a escala para coleccionistas adultos.</td>
+<td>Ex 9503.00.95</td>
+<td>Los demás, de plástico, excepto los construidos detalladamente a escala para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9503.00.99</td>
-<td class="cuerpo_tabla_izq">Los demás, excepto los construidos detalladamente a escala para coleccionistas adultos.</td>
+<td>Ex 9503.00.99</td>
+<td>Los demás, excepto los construidos detalladamente a escala para coleccionistas adultos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ex 9506.70.30.00</td>
-<td class="cuerpo_tabla_izq">Patines de ruedas para niños.</td>
+<td>Ex 9506.70.30.00</td>
+<td>Patines de ruedas para niños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Ex 9506.99.90.00</td>
-<td class="cuerpo_tabla_izq">Piscinas hinchables infantiles.</td>
+<td rowspan="2">Ex 9506.99.90.00</td>
+<td>Piscinas hinchables infantiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protectores de espalda para motociclismo.</td>
+<td>Protectores de espalda para motociclismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9613.10</td>
-<td class="cuerpo_tabla_izq">Encendedores de gas no recargables, de bolsillo.</td>
+<td>9613.10</td>
+<td>Encendedores de gas no recargables, de bolsillo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9613.20</td>
-<td class="cuerpo_tabla_izq">Encendedores de gas recargables, de bolsillo.</td>
+<td>9613.20</td>
+<td>Encendedores de gas recargables, de bolsillo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9613.80</td>
-<td class="cuerpo_tabla_izq">Los demás encendedores y mecheros.</td>
+<td>9613.80</td>
+<td>Los demás encendedores y mecheros.</td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que esta última actualización que añade el intervalo de códigos y denominación producto: 9004.10.91.00 a 9613.80, ambos inclusive, por el art. único de la Orden PJC/161/2026, de 24 de febrero. [Ref. BOE-A-2026-5061](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5061), entra en vigor el 4 de abril de 2026, según establece su disposición final única.
 
 > Se modifica por el art. único de la Orden PJC/161/2026, de 24 de febrero. [Ref. BOE-A-2026-5061](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5061)
 
@@ -915,11 +909,5 @@ MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
 ## ANEXO II — Documento de control
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/287/19914_12473871_2.png)
-
-> Téngase en cuenta que esta actualización del documento de control establecida por la disposición final segunda del Real Decreto 993/2022, de 29 de noviembre, [Ref. BOE-A-2022-19914](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19914), entra en vigor el 16 de enero de 2023, según determina su disposición final 5.
-
-> Documento anterior:
-
-> ![imagen](https://www.boe.es/datos/imagenes/disp/2008/62/04730_001.png)
 
 > Se sustituye, con efectos de 16 de enero de 2023, por el modelo recogido en el anexo V del Real Decreto 993/2022, de 29 de noviembre, según establece su disposición final segunda. [Ref. BOE-A-2022-19914](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19914)

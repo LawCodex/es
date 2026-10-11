@@ -368,14 +368,6 @@ Importe neto del volumen de negocios: 13.600.000 euros.
 
 Número medio de empleados durante el ejercicio: 250 empleados.
 
-> Téngase en cuenta que la actualización de los importes de la letra c), establecida por el apartado primero de la Resolución de 17 de junio de 2022. [Ref. BOE-A-2022-11071](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-11071), empezará a tener efectos el 19 de octubre de 2022, según determina su apartado tercero.
-
-> Redacción anterior:
-
-> "Activo total del balance: 6.200.000 euros.
-
-> Importe neto del volumen de negocios: 12.800.000 euros."
-
 Si el tomador del seguro formara parte de un grupo de sociedades cuyas cuentas consolidadas se establezcan con arreglo a lo dispuesto en los artículos 42 a 49 del Código de Comercio, los criterios mencionados anteriormente se aplicarán sobre la base de las cuentas consolidadas.
 
 > Se actualizan los importes de la letra c), con efectos de 19 de octubre de 2022, por el apartado primero de la Resolución de 17 de junio de 2022. [Ref. BOE-A-2022-11071](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-11071)
@@ -1329,16 +1321,6 @@ b) 4.000.000 euros en el caso de las entidades aseguradoras que operen en el ram
 c) 3.900.000 euros cuando se trate de entidades reaseguradoras, excepto en el caso de las entidades reaseguradoras cautivas, para las que el capital mínimo obligatorio no será inferior a 1.300.000 euros;
 
 d) la suma de los importes fijados en las letras a) y b) cuando se trate de entidades aseguradoras que realicen simultáneamente actividades de seguro de vida y de seguros distintos del de vida.
-
-> Téngase en cuenta que la actualización de los importes de las letras a), b) y c) del apartado 3, establecida por el apartado segundo de la Resolución de 17 de junio de 2022, [Ref. BOE-A-2022-11071](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-11071), empezará a tener efectos el 19 de octubre de 2022, según determina su apartado tercero.
-
-> Redacción anterior:
-
-> "a) 2.500.000 euros cuando se trate de entidades aseguradoras que operen en ramos de seguro distintos del seguro de vida, incluidas las entidades aseguradoras cautivas, excepto cuando estén cubiertos todos o algunos de los riesgos de responsabilidad civil, crédito y caución [ramos 10 a 15 del anexo A).a) de esta Ley], en cuyo caso no será inferior a 3.700.000 euros;
-
-> b) 3.700.000 euros en el caso de las entidades aseguradoras que operen en el ramo de vida, incluidas las entidades aseguradoras cautivas;
-
-> c) 3.600.000 euros cuando se trate de entidades reaseguradoras, excepto en el caso de las entidades reaseguradoras cautivas, para las que el capital mínimo obligatorio no será inferior a 1.200.000 euros;"
 
 4\. Para las mutuas con régimen de derrama pasiva y las cooperativas, el importe mínimo absoluto del capital mínimo obligatorio será de tres cuartas partes del exigido para las restantes entidades.
 
@@ -4045,22 +4027,6 @@ Los fondos de pensiones de empleo o personales inscritos en el Registro Administ
 ##### Disposición final quinta. Modificación de la Ley 22/2003, de 9 de julio, Concursal.
 
 **(Derogada).**
-
-> Téngase en cuenta que esta disposición se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.t) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
-
-> Redacción anterior:
-
-> **"Disposición final quinta. Modificación de la Ley 22/2003, de 9 de julio, Concursal.**
-
-> Se modifica la Ley 22/2003, de 9 de julio, Concursal, en los siguientes términos:
-
-> Uno. Se añade un nuevo apartado al artículo 233.
-
-> «5. En el caso de entidades aseguradoras, el mediador designado deberá ser el Consorcio de Compensación de Seguros.*»*
-
-> Dos. En la disposición adicional segunda «Régimen especial aplicable a entidades de crédito, empresas de servicios de inversión y entidades aseguradoras», se da nueva redacción al apartado 2.h):
-
-> «h) Los títulos VI y VII de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras; y el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por el Real Decreto Legislativo 7/2004 de, 29 de octubre.*»"*
 
 > Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.t) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
 

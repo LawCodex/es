@@ -502,131 +502,126 @@ Presidente
 
 Red Regional Básica
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_25">
-<col class="row_column_26">
-<col class="row_column_27">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">Itinerario</p>
+<p>Itinerario</p>
 </td>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud (km)</p>
+<p>Longitud (km)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-111</p>
+<p>LR-111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">L.P. de Burgos a la N-124 en Haro, por Valgañón, Zorraquín, Ezcaray, Ojacastro, Santo Domingo de la Calzada, Castañares de Rioja, Variante Este de Casalarreina N-126 y Haro.</p>
+<p>L.P. de Burgos a la N-124 en Haro, por Valgañón, Zorraquín, Ezcaray, Ojacastro, Santo Domingo de la Calzada, Castañares de Rioja, Variante Este de Casalarreina N-126 y Haro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,60</p>
-</td>
-</tr>
-<tr class="row_column_29">
-<td>
-<p class="cuerpo_tabla_centro">LR-113</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De L.P. de Burgos a N-232 en Cenicero por Canales de la Sierra, Villavelayo, Mansilla, Tabladas, Anguiano, Bobadilla, Baños de Río Tobía, Mahave, Nájera y Variante de Uruñuela.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">74,79</p>
+<p>40,60</p>
 </td>
 </tr>
-<tr class="row_column_29">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-115</p>
+<p>LR-113</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De L.P. Soria a L.P. de Navarra por Enciso, Arnedillo, Santa Eulalia Somera, Santa Eulalia Bajera, Herce, Arnedo, Quel, Autol, Aldeanueva de Ebro, N-232 y límite de provincia de Navarra.</p>
+<p>De L.P. de Burgos a N-232 en Cenicero por Canales de la Sierra, Villavelayo, Mansilla, Tabladas, Anguiano, Bobadilla, Baños de Río Tobía, Mahave, Nájera y Variante de Uruñuela.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49,81</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-123</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-113 en Valverde a L.P. de Navarra por Cervera del Río Alhama, Grávalos, Variante de Arnedo y El Villar de Arnedo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">63,84</p>
+<p>74,79</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-131</p>
+<p>LR-115</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Del Puente de Piedra (al norte de Logroño) en la antigua N-111 a límite de provincia de Navarra en la NA-134 a su paso por La Rioja.</p>
+<p>De L.P. Soria a L.P. de Navarra por Enciso, Arnedillo, Santa Eulalia Somera, Santa Eulalia Bajera, Herce, Arnedo, Quel, Autol, Aldeanueva de Ebro, N-232 y límite de provincia de Navarra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,63</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-132</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De N-232 a Aeropuerto de Logroño-Agoncillo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,96</p>
+<p>49,81</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-134</p>
+<p>LR-123</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De LR-123 a L.P. de Navarra (San Adrián) por Calahorra y la Variante Oeste de Calahorra.</p>
+<p>De la N-113 en Valverde a L.P. de Navarra por Cervera del Río Alhama, Grávalos, Variante de Arnedo y El Villar de Arnedo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,71</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-136</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De N-120 (en el futuro A-12) a LR-113 por Variante Tricio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,45</p>
+<p>63,84</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-137</p>
+<p>LR-131</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De N-111 a N-232 en Fuenmayor por Entrena y Navarrete.</p>
+<p>Del Puente de Piedra (al norte de Logroño) en la antigua N-111 a límite de provincia de Navarra en la NA-134 a su paso por La Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,92</p>
+<p>6,63</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
+<td>
+<p>LR-132</p>
+</td>
+<td>
+<p>De N-232 a Aeropuerto de Logroño-Agoncillo.</p>
+</td>
+<td>
+<p>1,96</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-134</p>
+</td>
+<td>
+<p>De LR-123 a L.P. de Navarra (San Adrián) por Calahorra y la Variante Oeste de Calahorra.</p>
+</td>
+<td>
+<p>15,71</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-136</p>
+</td>
+<td>
+<p>De N-120 (en el futuro A-12) a LR-113 por Variante Tricio.</p>
+</td>
+<td>
+<p>3,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-137</p>
+</td>
+<td>
+<p>De N-111 a N-232 en Fuenmayor por Entrena y Navarrete.</p>
+</td>
+<td>
+<p>15,92</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total Red Regional Básica</p>
+<p>Total Red Regional Básica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">272,71</p>
+<p>272,71</p>
 </td>
 </tr>
 </tbody>
@@ -634,417 +629,412 @@ Red Regional Básica
 
 Red Comarcal
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_25">
-<col class="row_column_30">
-<col class="row_column_23">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">Itinerario</p>
+<p>Itinerario</p>
 </td>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud (km)</p>
+<p>Longitud (km)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-200</p>
+<p>LR-200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De LR-201 en Herramélluri a L.P. de Burgos por Leiva y Tormantos.</p>
+<p>De LR-201 en Herramélluri a L.P. de Burgos por Leiva y Tormantos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,50</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-201</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-120A en Santo Domingo de la Calzada a N-232A en Tirgo por Herramélluri, Cuzcurrita del Río Tirón y Tirgo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16,84</p>
+<p>6,50</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-202</p>
+<p>LR-201</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De LR-111 en Haro a N-232 por Anguciana.</p>
+<p>De la N-120A en Santo Domingo de la Calzada a N-232A en Tirgo por Herramélluri, Cuzcurrita del Río Tirón y Tirgo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,23</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-203</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-111 en Haro a la LR-111 en Santo Domingo por Zarratón, Cidamón, San Torcuato y Bañares.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18,01</p>
+<p>16,84</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-204</p>
+<p>LR-202</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120A en Santo Domingo de la Calzada a la LR-207 en Badarán por Cirueña y Villar de Torre.</p>
+<p>De LR-111 en Haro a N-232 por Anguciana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,71</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-205</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De LR-113 a LR-206 por Cárdenas, Badarán y Berceo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,42</p>
+<p>12,23</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-206</p>
+<p>LR-203</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De A-12 (Actual N-120) a San Millán por Azofra, Alesanco, Canillas, Cañas y Berceo.</p>
+<p>De la LR-111 en Haro a la LR-111 en Santo Domingo por Zarratón, Cidamón, San Torcuato y Bañares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,14</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-207</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 en Gimileo a la LR-113 en Baños de Río Tobía por Ollauri, Rodezno, Alesanco, Cordovín y Badarán.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">28,13</p>
+<p>18,01</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-208</p>
+<p>LR-204</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120A a N-232 por Hormilleja y San Asensio.</p>
+<p>De la N-120A en Santo Domingo de la Calzada a la LR-207 en Badarán por Cirueña y Villar de Torre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,66</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-209</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De N-232A en Tirgo a L.P. de Burgos por Sajazarra.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,89</p>
+<p>15,71</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-210</p>
+<p>LR-205</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a la N-232A (futura LR-124) por Briones y San Vicente de la Sonsierra.</p>
+<p>De LR-113 a LR-206 por Cárdenas, Badarán y Berceo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,23</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-211</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a L.P. de Álava (Elciego), por Variante de Cenicero.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,20</p>
+<p>10,42</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-212</p>
+<p>LR-206</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De LR-111 en Haro a L.P. de Álava (Labastida).</p>
+<p>De A-12 (Actual N-120) a San Millán por Azofra, Alesanco, Canillas, Cañas y Berceo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,28</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-232</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-111 en Villanueva de Cameros a LR-113 por Ortigosa y Brieva de Cameros</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>15,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-245</p>
+<p>LR-207</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De LR-250 en Jalón de Cameros a N-111 por Muro en Cameros y Almarza de Cameros.</p>
+<p>De la N-232 en Gimileo a la LR-113 en Baños de Río Tobía por Ollauri, Rodezno, Alesanco, Cordovín y Badarán.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19,40</p>
-</td>
-</tr>
-<tr class="row_column_29">
-<td>
-<p class="cuerpo_tabla_centro">LR-250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la Circunvalación Este de Logroño (LO-20) a N-111 por Variante de Villamediana de Iregua, Ribafrecha, Soto en Cameros, Terroba, San Román de Cameros, Jalón de Cameros, Cabezón de Cameros y Laguna de Cameros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">57,03</p>
+<p>28,13</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-251</p>
+<p>LR-208</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De N-232 en Fuenmayor a L.P. de Álava (Lapuebla de Labarca).</p>
+<p>De la N-120A a N-232 por Hormilleja y San Asensio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,72</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-252</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-111A a L.P. de Álava (Oyón).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,52</p>
+<p>11,66</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-253</p>
+<p>LR-209</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a LR-232 por El Rasillo.</p>
+<p>De N-232A en Tirgo a L.P. de Burgos por Sajazarra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-254</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-137 en Entrena a la LR-255 en Alberite por Lardero.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,40</p>
+<p>10,89</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-255</p>
+<p>LR-210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 en la variante de Villamediana de Iregua a la N-111 por Alberite y Albelda de Iregua.</p>
+<p>De la N-232 a la N-232A (futura LR-124) por Briones y San Vicente de la Sonsierra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,47</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-256</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-111 a la LR-255 en Albelda de Iregua.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,64</p>
+<p>5,23</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-259</p>
+<p>LR-211</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 en la Variante de Villamediana de Iregua a la LR-260 por Murillo de Río Leza, Galilea, Corera y El Redal.</p>
+<p>De la N-232 a L.P. de Álava (Elciego), por Variante de Cenicero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,79</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-260</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-259 (en Corera) a L.P. de Navarra (Lodosa) por Alcanadre.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,00</p>
+<p>3,20</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-261</p>
+<p>LR-212</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 en Agoncillo a la LR-476 (en el futuro a la LR-484) por Murillo de Río Leza, Ventas Blancas y Robres del Castillo.</p>
+<p>De LR-111 en Haro a L.P. de Álava (Labastida).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,89</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-280</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a la LR-123 por Pradejón.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,74</p>
+<p>1,28</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-281</p>
+<p>LR-232</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-115 en Quel a la LR-134.</p>
+<p>De la N-111 en Villanueva de Cameros a LR-113 por Ortigosa y Brieva de Cameros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,68</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-282</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-115 en Autol a la LR-134.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,20</p>
+<p>30,00</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-283</p>
+<p>LR-245</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a la LR-123 por Rincón de Olivedo, Igea y Cornago.</p>
+<p>De LR-250 en Jalón de Cameros a N-111 por Muro en Cameros y Almarza de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,97</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-284</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-123 en Cervera del Río Alhama a L.P de Soria por Aguilar del Río Alhama (San Felices).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,47</p>
+<p>19,40</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-285</p>
+<p>LR-250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 en Rincón de Soto a la LR-123 por Corella, Fitero y Ventas del Baño.</p>
+<p>De la Circunvalación Este de Logroño (LO-20) a N-111 por Variante de Villamediana de Iregua, Ribafrecha, Soto en Cameros, Terroba, San Román de Cameros, Jalón de Cameros, Cabezón de Cameros y Laguna de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,65</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-286</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-115 a la LR-283 por El Villar de Poyales y Navalsaz.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">19,21</p>
+<p>57,03</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-287</p>
+<p>LR-251</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232A en Alfaro a L.P. de Navarra (Corella).</p>
+<p>De N-232 en Fuenmayor a L.P. de Álava (Lapuebla de Labarca).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,22</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-288</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232A en Alfaro a la N-113 (Castejón).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,18</p>
+<p>3,72</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-289</p>
+<p>LR-252</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-285 en Ventas del Baño a la LR-287 en Alfaro.</p>
+<p>De la N-111A a L.P. de Álava (Oyón).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,08</p>
+<p>0,52</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
+<td>
+<p>LR-253</p>
+</td>
+<td>
+<p>De la N-111 a LR-232 por El Rasillo.</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-254</p>
+</td>
+<td>
+<p>De la LR-137 en Entrena a la LR-255 en Alberite por Lardero.</p>
+</td>
+<td>
+<p>10,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-255</p>
+</td>
+<td>
+<p>De la LR-250 en la variante de Villamediana de Iregua a la N-111 por Alberite y Albelda de Iregua.</p>
+</td>
+<td>
+<p>12,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-256</p>
+</td>
+<td>
+<p>De la N-111 a la LR-255 en Albelda de Iregua.</p>
+</td>
+<td>
+<p>1,64</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-259</p>
+</td>
+<td>
+<p>De la LR-250 en la Variante de Villamediana de Iregua a la LR-260 por Murillo de Río Leza, Galilea, Corera y El Redal.</p>
+</td>
+<td>
+<p>30,79</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-260</p>
+</td>
+<td>
+<p>De la LR-259 (en Corera) a L.P. de Navarra (Lodosa) por Alcanadre.</p>
+</td>
+<td>
+<p>13,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-261</p>
+</td>
+<td>
+<p>De la N-232 en Agoncillo a la LR-476 (en el futuro a la LR-484) por Murillo de Río Leza, Ventas Blancas y Robres del Castillo.</p>
+</td>
+<td>
+<p>24,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-280</p>
+</td>
+<td>
+<p>De la N-232 a la LR-123 por Pradejón.</p>
+</td>
+<td>
+<p>4,74</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-281</p>
+</td>
+<td>
+<p>De la LR-115 en Quel a la LR-134.</p>
+</td>
+<td>
+<p>3,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-282</p>
+</td>
+<td>
+<p>De la LR-115 en Autol a la LR-134.</p>
+</td>
+<td>
+<p>8,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-283</p>
+</td>
+<td>
+<p>De la LR-123 a la LR-123 por Rincón de Olivedo, Igea y Cornago.</p>
+</td>
+<td>
+<p>24,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-284</p>
+</td>
+<td>
+<p>De la LR-123 en Cervera del Río Alhama a L.P de Soria por Aguilar del Río Alhama (San Felices).</p>
+</td>
+<td>
+<p>11,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-285</p>
+</td>
+<td>
+<p>De la N-232 en Rincón de Soto a la LR-123 por Corella, Fitero y Ventas del Baño.</p>
+</td>
+<td>
+<p>10,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-286</p>
+</td>
+<td>
+<p>De la LR-115 a la LR-283 por El Villar de Poyales y Navalsaz.</p>
+</td>
+<td>
+<p>19,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-287</p>
+</td>
+<td>
+<p>De la N-232A en Alfaro a L.P. de Navarra (Corella).</p>
+</td>
+<td>
+<p>4,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-288</p>
+</td>
+<td>
+<p>De la N-232A en Alfaro a la N-113 (Castejón).</p>
+</td>
+<td>
+<p>5,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-289</p>
+</td>
+<td>
+<p>De la LR-285 en Ventas del Baño a la LR-287 en Alfaro.</p>
+</td>
+<td>
+<p>18,08</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total Red Comarcal</p>
+<p>Total Red Comarcal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">479,71</p>
+<p>479,71</p>
 </td>
 </tr>
 </tbody>
@@ -1052,527 +1042,522 @@ Red Comarcal
 
 Red Local
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_23">
-<col class="row_column_31">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">Itinerario</p>
+<p>Itinerario</p>
 </td>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud (km)</p>
+<p>Longitud (km)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-301</p>
+<p>LR-301</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-209 a LR-403 por Galbárruli.</p>
+<p>De la LR-209 a LR-403 por Galbárruli.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,86</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-302</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a LR-209 por Fonzaleche y Villaseca.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,72</p>
+<p>2,86</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-303</p>
+<p>LR-302</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-202 a LR-304 en Treviana.</p>
+<p>De la N-232 a LR-209 por Fonzaleche y Villaseca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,84</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-304</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-201 en Herramélluri a L.P. de Burgos por Treviana y Foncea.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">19,56</p>
+<p>5,72</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-305</p>
+<p>LR-303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-200 en Leiva a LR-304.</p>
+<p>De la LR-202 a LR-304 en Treviana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,54</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-306</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-111 en Haro a L.P. de Burgos por San Felices.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,70</p>
+<p>5,84</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-307</p>
+<p>LR-304</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a la LR-201 por Cuzcurrita del Río Tirón.</p>
+<p>De la LR-201 en Herramélluri a L.P. de Burgos por Treviana y Foncea.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-308</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De Quintana a la LR-111 por Grañón y Villalobar de Rioja.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,01</p>
+<p>19,56</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-309</p>
+<p>LR-305</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120 a la LR-111 por Hervías y Bañares.</p>
+<p>De la LR-200 en Leiva a LR-304.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,03</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-310</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232A en Casalarreina a LR-202 por Cihuri.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,16</p>
+<p>5,54</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-311</p>
+<p>LR-306</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232A (Travesía de Casalarreina) a la LR-207 por Zarratón.</p>
+<p>De la LR-111 en Haro a L.P. de Burgos por San Felices.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,39</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-312</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-304 a la LR-209.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,74</p>
+<p>8,70</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-313</p>
+<p>LR-307</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120 a la LR-207 en Ollauri por Hormilla y Altos de Valpierre.</p>
+<p>De la N-232 a la LR-201 por Cuzcurrita del Río Tirón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,09</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-314</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 en Briones a la LR-313.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,06</p>
+<p>2,00</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-315</p>
+<p>LR-308</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120 a la LR-313.</p>
+<p>De Quintana a la LR-111 por Grañón y Villalobar de Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,65</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-316</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De L.P. de Álava (Labastida) a Rivas de Tereso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,13</p>
+<p>13,01</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-317</p>
+<p>LR-309</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232A (futura LR-124) en San Vicente de la Sonsierra a L.P. de Álava (Peñacerrada) por Rivas de Tereso.</p>
+<p>De la N-120 a la LR-111 por Hervías y Bañares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,84</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-318</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a San Vicente de la Sonsierra (en el futuro a N-232A o LR-124) por Baños de Ebro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,86</p>
+<p>8,03</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-319</p>
+<p>LR-310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232A (futura LR-124) en Ábalos a la LR-318.</p>
+<p>De la N-232A en Casalarreina a LR-202 por Cihuri.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,05</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-320</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-203 en Cidamón a la LR-311.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,15</p>
+<p>3,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-321</p>
+<p>LR-311</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120A (Variante de Nájera) a la N-232 (Variante de Cenicero) por Huércanos.</p>
+<p>De la N-232A (Travesía de Casalarreina) a la LR-207 por Zarratón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,76</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-322</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-120A (Alto de San Antón) a LR-514 en Uruñuela por Huércanos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,00</p>
+<p>7,39</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-323</p>
+<p>LR-312</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-308 en Grañón a la N-120A por Morales y Corporales.</p>
+<p>De la LR-304 a la LR-209.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,12</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-325</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-111 en Santo Domingo de la Calzada a LR-204 por Gallinero de Rioja y Manzanares de Rioja.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,44</p>
+<p>4,74</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-326</p>
+<p>LR-313</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-204 a la LR-309 en Hervías.</p>
+<p>De la N-120 a la LR-207 en Ollauri por Hormilla y Altos de Valpierre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,96</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-327</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-204 a la LR-206 en Cañas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,07</p>
+<p>16,09</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-328</p>
+<p>LR-314</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a LR-208 (Antiguo trazado de la LR-208).</p>
+<p>De la N-232 en Briones a la LR-313.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,57</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-330</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-111 a la N-111 por Torrecilla en Cameros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,45</p>
+<p>5,06</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-331</p>
+<p>LR-315</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a la LR-206 en San Millán de la Cogolla por Villaverde de Rioja y San Andrés.</p>
+<p>De la N-120 a la LR-313.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,79</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-333</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-111 a la LR-113 por Villoslada de Cameros y las Viniegras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,93</p>
+<p>4,65</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-334</p>
+<p>LR-316</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 en Villavelayo a L.P. Burgos (Neila).</p>
+<p>De L.P. de Álava (Labastida) a Rivas de Tereso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,77</p>
-</td>
-</tr>
-<tr class="row_column_29">
-<td>
-<p class="cuerpo_tabla_centro">LR-340</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-120A a LR-330 en Torrecilla en Cameros por Alesón, Manjarrés, Santa Coloma y Castroviejo. (Pendiente de construcción tramo Castroviejo a Torrecilla).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22,07</p>
+<p>2,13</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-341</p>
+<p>LR-317</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120 a la LR-137 por Ventosa, Sotés, Hornos de Moncalvillo, Daroca, Sojuela y Sorzano.</p>
+<p>De la N-232A (futura LR-124) en San Vicente de la Sonsierra a L.P. de Álava (Peñacerrada) por Rivas de Tereso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,62</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-342</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-120 a la LR-341 en Sotés.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,73</p>
+<p>9,84</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-344</p>
+<p>LR-318</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a la LR-255 en Alberite por el Barrio de las Bodegas.</p>
+<p>De la N-232 a San Vicente de la Sonsierra (en el futuro a N-232A o LR-124) por Baños de Ebro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,01</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-345</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-250 a Clavijo por Alberite y La Unión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,86</p>
+<p>9,86</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-346</p>
+<p>LR-319</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 en Ribafrecha a la LR-261 (Ventas Blancas).</p>
+<p>De la N-232A (futura LR-124) en Ábalos a la LR-318.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,54</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-380</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-115 en Santa Eulalia Bajera a la LR-382 en Préjano.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,35</p>
+<p>5,05</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-381</p>
+<p>LR-320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De N-232A a la LR-123 por Tudelilla.</p>
+<p>De la LR-203 en Cidamón a la LR-311.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,40</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-382</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-115 a LR-583 en Arnedo por Préjano.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,18</p>
+<p>2,15</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-384</p>
+<p>LR-321</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a Aldeanueva de Ebro.</p>
+<p>De la N-120A (Variante de Nájera) a la N-232 (Variante de Cenicero) por Huércanos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,69</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-385</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-123 en Grávalos a la LR-289.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,58</p>
+<p>9,76</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-387</p>
+<p>LR-322</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a la LR-283 en Igea.</p>
+<p>De la N-120A (Alto de San Antón) a LR-514 en Uruñuela por Huércanos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,83</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">LR-390</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-284 en Aguilar del Río Alhama a L.P de Soria (Valdeprado) por Valdemadera y Navajún.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,90</p>
+<p>7,00</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-391</p>
+<p>LR-323</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-390 a L.P. de Soria (Cigudosa).</p>
+<p>De la LR-308 en Grañón a la N-120A por Morales y Corporales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>8,12</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
+<td>
+<p>LR-325</p>
+</td>
+<td>
+<p>De la LR-111 en Santo Domingo de la Calzada a LR-204 por Gallinero de Rioja y Manzanares de Rioja.</p>
+</td>
+<td>
+<p>8,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-326</p>
+</td>
+<td>
+<p>De la LR-204 a la LR-309 en Hervías.</p>
+</td>
+<td>
+<p>2,96</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-327</p>
+</td>
+<td>
+<p>De la LR-204 a la LR-206 en Cañas.</p>
+</td>
+<td>
+<p>3,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-328</p>
+</td>
+<td>
+<p>De la N-232 a LR-208 (Antiguo trazado de la LR-208).</p>
+</td>
+<td>
+<p>0,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-330</p>
+</td>
+<td>
+<p>De la N-111 a la N-111 por Torrecilla en Cameros.</p>
+</td>
+<td>
+<p>4,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-331</p>
+</td>
+<td>
+<p>De la LR-113 a la LR-206 en San Millán de la Cogolla por Villaverde de Rioja y San Andrés.</p>
+</td>
+<td>
+<p>11,79</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-333</p>
+</td>
+<td>
+<p>De la N-111 a la LR-113 por Villoslada de Cameros y las Viniegras.</p>
+</td>
+<td>
+<p>24,93</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-334</p>
+</td>
+<td>
+<p>De la LR-113 en Villavelayo a L.P. Burgos (Neila).</p>
+</td>
+<td>
+<p>7,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-340</p>
+</td>
+<td>
+<p>De la N-120A a LR-330 en Torrecilla en Cameros por Alesón, Manjarrés, Santa Coloma y Castroviejo. (Pendiente de construcción tramo Castroviejo a Torrecilla).</p>
+</td>
+<td>
+<p>22,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-341</p>
+</td>
+<td>
+<p>De la N-120 a la LR-137 por Ventosa, Sotés, Hornos de Moncalvillo, Daroca, Sojuela y Sorzano.</p>
+</td>
+<td>
+<p>17,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-342</p>
+</td>
+<td>
+<p>De la N-120 a la LR-341 en Sotés.</p>
+</td>
+<td>
+<p>2,73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-344</p>
+</td>
+<td>
+<p>De la LR-250 a la LR-255 en Alberite por el Barrio de las Bodegas.</p>
+</td>
+<td>
+<p>3,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-345</p>
+</td>
+<td>
+<p>De la LR-250 a Clavijo por Alberite y La Unión.</p>
+</td>
+<td>
+<p>9,86</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-346</p>
+</td>
+<td>
+<p>De la LR-250 en Ribafrecha a la LR-261 (Ventas Blancas).</p>
+</td>
+<td>
+<p>8,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-380</p>
+</td>
+<td>
+<p>De la LR-115 en Santa Eulalia Bajera a la LR-382 en Préjano.</p>
+</td>
+<td>
+<p>2,35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-381</p>
+</td>
+<td>
+<p>De N-232A a la LR-123 por Tudelilla.</p>
+</td>
+<td>
+<p>7,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-382</p>
+</td>
+<td>
+<p>De la LR-115 a LR-583 en Arnedo por Préjano.</p>
+</td>
+<td>
+<p>14,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-384</p>
+</td>
+<td>
+<p>De la N-232 a Aldeanueva de Ebro.</p>
+</td>
+<td>
+<p>2,69</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-385</p>
+</td>
+<td>
+<p>De la LR-123 en Grávalos a la LR-289.</p>
+</td>
+<td>
+<p>8,58</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-387</p>
+</td>
+<td>
+<p>De la LR-123 a la LR-283 en Igea.</p>
+</td>
+<td>
+<p>4,83</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-390</p>
+</td>
+<td>
+<p>De la LR-284 en Aguilar del Río Alhama a L.P de Soria (Valdeprado) por Valdemadera y Navajún.</p>
+</td>
+<td>
+<p>12,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-391</p>
+</td>
+<td>
+<p>De la LR-390 a L.P. de Soria (Cigudosa).</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total Red Local</p>
+<p>Total Red Local</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">352,00</p>
+<p>352,00</p>
 </td>
 </tr>
 </tbody>
@@ -1580,1011 +1565,1006 @@ Red Local
 
 Red Local-Accesos
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_23">
-<col class="row_column_32">
-<col class="row_column_33">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">Itinerario</p>
+<p>Itinerario</p>
 </td>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud (km)</p>
+<p>Longitud (km)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-401</p>
+<p>LR-401</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-306 en Haro a Villalba de Rioja.</p>
+<p>De la LR-306 en Haro a Villalba de Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,42</p>
+<p>4,42</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-403</p>
+<p>LR-403</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-209 a Castilseco.</p>
+<p>De la LR-209 a Castilseco.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,22</p>
+<p>1,22</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-404</p>
+<p>LR-404</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-209 a Cellorigo.</p>
+<p>De la LR-209 a Cellorigo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,02</p>
+<p>3,02</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-405</p>
+<p>LR-405</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-304 a San Millán de Yécora.</p>
+<p>De la LR-304 a San Millán de Yécora.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,90</p>
+<p>3,90</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-406</p>
+<p>LR-406</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-209 a Villaseca en la LR-302.</p>
+<p>De la LR-209 a Villaseca en la LR-302.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,94</p>
+<p>0,94</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-407</p>
+<p>LR-407</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-201 a Ochánduri.</p>
+<p>De la LR-201 a Ochánduri.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,31</p>
+<p>0,31</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-408</p>
+<p>LR-408</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-111 a Baños de Rioja.</p>
+<p>De la LR-111 a Baños de Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,23</p>
+<p>1,23</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-409</p>
+<p>LR-409</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-204 a la LR-204 por Ciriñuela.</p>
+<p>De la LR-204 a la LR-204 por Ciriñuela.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,59</p>
+<p>1,59</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-410</p>
+<p>LR-410</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De L.P. Burgos (Bascuñana) a Quintanar de Rioja.</p>
+<p>De L.P. Burgos (Bascuñana) a Quintanar de Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,14</p>
+<p>1,14</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-412</p>
+<p>LR-412</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-308 a LR-410 (Quintanar de Rioja) por Villarta.</p>
+<p>De la LR-308 a LR-410 (Quintanar de Rioja) por Villarta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,74</p>
+<p>4,74</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-413</p>
+<p>LR-413</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-111 a Pazuengos por Santurdejo.</p>
+<p>De la LR-111 a Pazuengos por Santurdejo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,81</p>
+<p>9,81</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-414</p>
+<p>LR-414</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-413 a Santurde de Rioja.</p>
+<p>De la LR-413 a Santurde de Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,74</p>
+<p>1,74</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-415</p>
+<p>LR-415</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-111 en Ezcaray a Posadas por Zaldierna y Azarrulla.</p>
+<p>De la LR-111 en Ezcaray a Posadas por Zaldierna y Azarrulla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,37</p>
+<p>10,37</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-416</p>
+<p>LR-416</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-415 a Valdezcaray.</p>
+<p>De la LR-415 a Valdezcaray.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,03</p>
+<p>13,03</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-417</p>
+<p>LR-417</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-415 a Urdanta.</p>
+<p>De la LR-415 a Urdanta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,71</p>
+<p>3,71</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-418</p>
+<p>LR-418</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-415 a San Antón.</p>
+<p>De la LR-415 a San Antón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,40</p>
+<p>0,40</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-419</p>
+<p>LR-419</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-206 en Alesanco a LR-206 por Torrecilla sobre Alesanco.</p>
+<p>De la LR-206 en Alesanco a LR-206 por Torrecilla sobre Alesanco.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,54</p>
+<p>1,54</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-420</p>
+<p>LR-420</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-204 a Villarejo.</p>
+<p>De la LR-204 a Villarejo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,62</p>
+<p>1,62</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-421</p>
+<p>LR-421</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-206 a Suso.</p>
+<p>De la LR-206 a Suso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,39</p>
+<p>1,39</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-422</p>
+<p>LR-422</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-206 a Lugar del Río.</p>
+<p>De la LR-206 a Lugar del Río.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,07</p>
+<p>3,07</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-423</p>
+<p>LR-423</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De N-120 a Hormilla en la LR-313.</p>
+<p>De N-120 a Hormilla en la LR-313.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,06</p>
+<p>1,06</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-424</p>
+<p>LR-424</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-124 a Peciña.</p>
+<p>De la LR-124 a Peciña.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-427</p>
+<p>LR-427</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120A (Alesón) a la LR-321 en Huércanos.</p>
+<p>De la N-120A (Alesón) a la LR-321 en Huércanos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,38</p>
+<p>2,38</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-428</p>
+<p>LR-428</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-207 a Casas Blancas (Cidamón).</p>
+<p>De la LR-207 a Casas Blancas (Cidamón).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,21</p>
+<p>1,21</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-429</p>
+<p>LR-429</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a Bezares (en el futuro a Santa Coloma) por Tricio y la variante de Arenzana de Arriba.</p>
+<p>De la LR-113 a Bezares (en el futuro a Santa Coloma) por Tricio y la variante de Arenzana de Arriba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,95</p>
+<p>6,95</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-430</p>
+<p>LR-430</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a la LR-136 por Arenzana de Abajo.</p>
+<p>De la LR-113 a la LR-136 por Arenzana de Abajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,77</p>
+<p>2,77</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-431</p>
+<p>LR-431</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a Camprovín.</p>
+<p>De la LR-113 a Camprovín.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,76</p>
+<p>4,76</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-432</p>
+<p>LR-432</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-331 a Tobía por Matute.</p>
+<p>De la LR-331 a Tobía por Matute.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,23</p>
+<p>4,23</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-433</p>
+<p>LR-433</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a Ledesma de la Cogolla.</p>
+<p>De la LR-113 a Ledesma de la Cogolla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,27</p>
+<p>4,27</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-434</p>
+<p>LR-434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a Pedroso.</p>
+<p>De la LR-113 a Pedroso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,84</p>
+<p>3,84</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-435</p>
+<p>LR-435</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a Valvanera.</p>
+<p>De la LR-113 a Valvanera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,88</p>
+<p>4,88</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-436</p>
+<p>LR-436</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-333 a Ventrosa.</p>
+<p>De la LR-333 a Ventrosa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,04</p>
+<p>3,04</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-437</p>
+<p>LR-437</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a L.P. de Burgos (Huerta de Arriba).</p>
+<p>De la LR-113 a L.P. de Burgos (Huerta de Arriba).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,49</p>
+<p>1,49</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-440</p>
+<p>LR-440</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-255 a Nalda.</p>
+<p>De la LR-255 a Nalda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,02</p>
+<p>1,02</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-441</p>
+<p>LR-441</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De Logroño a El Cortijo.</p>
+<p>De Logroño a El Cortijo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,52</p>
+<p>5,52</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-442</p>
+<p>LR-442</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-342 a LR-341 en Hornos de Moncalvillo.</p>
+<p>De la LR-342 a LR-341 en Hornos de Moncalvillo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,43</p>
+<p>2,43</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-443</p>
+<p>LR-443</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a Logroño (Actual LR-250).</p>
+<p>De la LR-250 a Logroño (Actual LR-250).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,40</p>
+<p>0,40</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-444</p>
+<p>LR-444</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-341 a la LR-137 por Medrano.</p>
+<p>De la LR-341 a la LR-137 por Medrano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,39</p>
+<p>2,39</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-445</p>
+<p>LR-445</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-341 en Sojuela a LR-137 en Entrena.</p>
+<p>De la LR-341 en Sojuela a LR-137 en Entrena.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,64</p>
+<p>2,64</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-446</p>
+<p>LR-446</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a Viguera.</p>
+<p>De la N-111 a Viguera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,54</p>
+<p>1,54</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-447</p>
+<p>LR-447</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a Nestares.</p>
+<p>De la N-111 a Nestares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,13</p>
+<p>2,13</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-448</p>
+<p>LR-448</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-333 a Lomos de Orio.</p>
+<p>De la LR-333 a Lomos de Orio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,51</p>
+<p>8,51</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-450</p>
+<p>LR-450</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-253 a Nieva de Cameros.</p>
+<p>De la LR-253 a Nieva de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,94</p>
+<p>0,94</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-451</p>
+<p>LR-451</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-253 a Montemediano.</p>
+<p>De la LR-253 a Montemediano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,17</p>
+<p>1,17</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-452</p>
+<p>LR-452</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-232 a Peñaloscintos.</p>
+<p>De la LR-232 a Peñaloscintos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-453</p>
+<p>LR-453</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-245 a Pinillos.</p>
+<p>De la LR-245 a Pinillos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,60</p>
+<p>3,60</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-454</p>
+<p>LR-454</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a Gallinero de Cameros.</p>
+<p>De la N-111 a Gallinero de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,02</p>
+<p>3,02</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-455</p>
+<p>LR-455</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a Aldeanueva de Cameros.</p>
+<p>De la N-111 a Aldeanueva de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,66</p>
+<p>3,66</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-456</p>
+<p>LR-456</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a Lumbreras (En el futuro a El Horcajo por Lumbreras).</p>
+<p>De la N-111 a Lumbreras (En el futuro a El Horcajo por Lumbreras).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,06</p>
+<p>1,06</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-457</p>
+<p>LR-457</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a San Andrés.</p>
+<p>De la LR-250 a San Andrés.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-458</p>
+<p>LR-458</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a Agoncillo.</p>
+<p>De la N-232 a Agoncillo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,32</p>
+<p>1,32</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-459</p>
+<p>LR-459</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a Arrúbal.</p>
+<p>De la N-232 a Arrúbal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,96</p>
+<p>1,96</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-460</p>
+<p>LR-460</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a Leza de Río Leza.</p>
+<p>De la LR-250 a Leza de Río Leza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
+<p>1,55</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-461</p>
+<p>LR-461</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a Luezas.</p>
+<p>De la LR-250 a Luezas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,23</p>
+<p>7,23</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-462</p>
+<p>LR-462</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a Trevijano.</p>
+<p>De la LR-250 a Trevijano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,01</p>
+<p>3,01</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-463</p>
+<p>LR-463</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-245 a Torre en Cameros.</p>
+<p>De la LR-245 a Torre en Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,49</p>
+<p>6,49</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-464</p>
+<p>LR-464</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-466 a Vadillos.</p>
+<p>De la LR-466 a Vadillos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,40</p>
+<p>4,40</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-465</p>
+<p>LR-465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-464 a Hornillos de Cameros (En el futuro a LR-261).</p>
+<p>De la LR-464 a Hornillos de Cameros (En el futuro a LR-261).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,87</p>
+<p>5,87</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-466</p>
+<p>LR-466</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a Ajamil de Cameros.</p>
+<p>De la LR-250 a Ajamil de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,99</p>
+<p>6,99</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-467</p>
+<p>LR-467</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-261 a San Bartolomé de Jubera.</p>
+<p>De la LR-261 a San Bartolomé de Jubera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,08</p>
+<p>1,08</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-468</p>
+<p>LR-468</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-261 en Ventas Blancas a Lagunilla de Jubera.</p>
+<p>De la LR-261 en Ventas Blancas a Lagunilla de Jubera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,47</p>
+<p>2,47</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-469</p>
+<p>LR-469</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-261 a Santa Engracia de Jubera.</p>
+<p>De la LR-261 a Santa Engracia de Jubera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,92</p>
+<p>0,92</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-470</p>
+<p>LR-470</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-261 a Jubera.</p>
+<p>De la LR-261 a Jubera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,34</p>
+<p>0,34</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-471</p>
+<p>LR-471</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-259 a Santa Lucía.</p>
+<p>De la LR-259 a Santa Lucía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,34</p>
+<p>4,34</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-472</p>
+<p>LR-472</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-259 en El Redal a La Villa de Ocón por Los Molinos de Ocón.</p>
+<p>De la LR-259 en El Redal a La Villa de Ocón por Los Molinos de Ocón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,80</p>
+<p>7,80</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-473</p>
+<p>LR-473</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-472 a Aldealobos.</p>
+<p>De la LR-472 a Aldealobos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,82</p>
+<p>0,82</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-474</p>
+<p>LR-474</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-472 a la LR-472 por Pipaona.</p>
+<p>De la LR-472 a la LR-472 por Pipaona.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,02</p>
+<p>1,02</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-475</p>
+<p>LR-475</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-472 a Las Ruedas de Ocón.</p>
+<p>De la LR-472 a Las Ruedas de Ocón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,45</p>
+<p>2,45</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-476</p>
+<p>LR-476</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-261 a San Vicente de Robres.</p>
+<p>De la LR-261 a San Vicente de Robres.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,65</p>
+<p>4,65</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-477</p>
+<p>LR-477</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-261 a Santa Marina.</p>
+<p>De la LR-261 a Santa Marina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,86</p>
+<p>10,86</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-478</p>
+<p>LR-478</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a San Román de Cameros.</p>
+<p>De la LR-250 a San Román de Cameros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-479</p>
+<p>LR-479</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a San Martín de Jubera.</p>
+<p>De la LR-250 a San Martín de Jubera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,50</p>
+<p>5,50</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-480</p>
+<p>LR-480</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-381 en Tudelilla a Carbonera.</p>
+<p>De la LR-381 en Tudelilla a Carbonera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,23</p>
+<p>6,23</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-481</p>
+<p>LR-481</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a la LR-381 en Tudelilla.</p>
+<p>De la LR-123 a la LR-381 en Tudelilla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,54</p>
+<p>1,54</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-482</p>
+<p>LR-482</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-134 en Calahorra a Murillo de Calahorra.</p>
+<p>De la LR-134 en Calahorra a Murillo de Calahorra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,06</p>
+<p>3,06</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-483</p>
+<p>LR-483</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a Bergasillas Somera por Bergasa y Bergasillas Bajera.</p>
+<p>De la LR-123 a Bergasillas Somera por Bergasa y Bergasillas Bajera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,76</p>
+<p>7,76</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-484</p>
+<p>LR-484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-115 a Zarzosa por Munilla.</p>
+<p>De la LR-115 a Zarzosa por Munilla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,20</p>
+<p>7,20</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-485</p>
+<p>LR-485</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-115 a Peroblasco.</p>
+<p>De la LR-115 a Peroblasco.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,52</p>
+<p>0,52</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-486</p>
+<p>LR-486</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-111 a Ribavellosa.</p>
+<p>De la N-111 a Ribavellosa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,08</p>
+<p>6,08</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-487</p>
+<p>LR-487</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a Muro de Aguas.</p>
+<p>De la LR-123 a Muro de Aguas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,12</p>
+<p>4,12</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-488</p>
+<p>LR-488</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a Villarroya.</p>
+<p>De la LR-123 a Villarroya.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-489</p>
+<p>LR-489</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-283 a Valdeperillo.</p>
+<p>De la LR-283 a Valdeperillo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,66</p>
+<p>1,66</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-490</p>
+<p>LR-490</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-286 a Poyales.</p>
+<p>De la LR-286 a Poyales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,56</p>
+<p>0,56</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-491</p>
+<p>LR-491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-284 a Inestrillas.</p>
+<p>De la LR-284 a Inestrillas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,36</p>
+<p>0,36</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-492</p>
+<p>LR-492</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a Valdegutur.</p>
+<p>De la LR-123 a Valdegutur.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,53</p>
+<p>2,53</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-493</p>
+<p>LR-493</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-284 a Gutur (En el futuro a L.P. de Soria en Débanos por Gutur).</p>
+<p>De la LR-284 a Gutur (En el futuro a L.P. de Soria en Débanos por Gutur).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,70</p>
+<p>7,70</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-494</p>
+<p>LR-494</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-471 a LR-472 - Santa Lucía - La Villa de Ocón.</p>
+<p>De la LR-471 a LR-472 - Santa Lucía - La Villa de Ocón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,52</p>
+<p>2,52</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-495</p>
+<p>LR-495</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a LR-115 por Rincón de Soto.</p>
+<p>De la N-232 a LR-115 por Rincón de Soto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,14</p>
+<p>3,14</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-496</p>
+<p>LR-496</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-284 (en Aguilar del Río Alhama) a la LR-493.</p>
+<p>De la LR-284 (en Aguilar del Río Alhama) a la LR-493.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,30</p>
+<p>1,30</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total Accesos</p>
+<p>Total Accesos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">295,15</p>
+<p>295,15</p>
 </td>
 </tr>
 </tbody>
@@ -2592,373 +2572,368 @@ Red Local-Accesos
 
 Red Local-Travesías
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_31">
-<col class="row_column_27">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">Itinerario</p>
+<p>Itinerario</p>
 </td>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud (km)</p>
+<p>Longitud (km)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-501</p>
+<p>LR-501</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-308 a Grañón.</p>
+<p>De la LR-308 a Grañón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,2</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-502</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-111 a Estación Castañares de Rioja.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
+<p>0,2</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-503</p>
+<p>LR-502</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232A en Casalarreina a LR-111 (Travesía).</p>
+<p>De la LR-111 a Estación Castañares de Rioja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,33</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-505</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a la N-232 (Travesía de Briones).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,96</p>
+<p>0,7</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-506</p>
+<p>LR-503</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-200 en Tormantos a puente sobre Río Tirón.</p>
+<p>De la N-232A en Casalarreina a LR-111 (Travesía).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,44</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-507</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a la Estación de San Asensio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,49</p>
+<p>1,33</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-509</p>
+<p>LR-505</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-514 en Uruñuela a Somalo.</p>
+<p>De la N-232 a la N-232 (Travesía de Briones).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-512</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la antigua N-232 a la LR-211 (Travesía de Cenicero).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,87</p>
+<p>1,96</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-514</p>
+<p>LR-506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-113 a la LR-113 (Travesía de Uruñuela).</p>
+<p>De la LR-200 en Tormantos a puente sobre Río Tirón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,89</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-515</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-208 a la LR-208 (Travesía de San Asensio).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,53</p>
+<p>0,44</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-539</p>
+<p>LR-507</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-444 en Medrano a Las Bodegas.</p>
+<p>De la N-232 a la Estación de San Asensio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,39</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-540</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LO-20 (este) al paso del Ferrocarril (Piqueras).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
+<p>0,49</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-541</p>
+<p>LR-509</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LO-20 (oeste) al paso del Ferrocarril (Av. de Burgos).</p>
+<p>De la LR-514 en Uruñuela a Somalo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,5</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-542</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De N-232 frente a la LR-137 a la LR-543 (Travesía de Fuenmayor).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,25</p>
+<p>1,55</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-543</p>
+<p>LR-512</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a la LR-251 (Travesía de Fuenmayor).</p>
+<p>De la antigua N-232 a la LR-211 (Travesía de Cenicero).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,6</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-544</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-120 a LR-137 (Travesía de Navarrete, Ramal Este).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,87</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-545</p>
+<p>LR-514</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-120 a LR-137 (Travesía de Navarrete, Ramal Oeste).</p>
+<p>De la LR-113 a la LR-113 (Travesía de Uruñuela).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,21</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-547</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-111 a Torrecilla en Cameros (barrio de Barruelo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,38</p>
+<p>1,89</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-548</p>
+<p>LR-515</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-245 a Muro de Cameros.</p>
+<p>De la LR-208 a la LR-208 (Travesía de San Asensio).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,3</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-549</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-466 a Rabanera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,56</p>
+<p>2,53</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-551</p>
+<p>LR-539</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-250 a la LR-250 (Travesía de Villamediana).</p>
+<p>De la LR-444 en Medrano a Las Bodegas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,42</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-552</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-250 (Variante de Villamediana) a la LR-551 (Travesía de Villamediana)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,58</p>
+<p>1,39</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-553</p>
+<p>LR-540</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-260 a Estación FF.CC. Alcanadre.</p>
+<p>De la LO-20 (este) al paso del Ferrocarril (Piqueras).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,62</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-583</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Travesía de Arnedo (antigua LR-123) entre la LR-115 y la LR-123 (glorieta variante)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>0,7</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-584</p>
+<p>LR-541</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Travesía de Arnedo (Antigua LR-115).</p>
+<p>De la LO-20 (oeste) al paso del Ferrocarril (Av. de Burgos).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,28</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-585</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-123 a la LR-584 (Travesía de Arnedo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,14</p>
+<p>1,5</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-586</p>
+<p>LR-542</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la N-232 a la LR-495 por Travesía de Rincón de Soto.</p>
+<p>De N-232 frente a la LR-137 a la LR-543 (Travesía de Fuenmayor).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,34</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-589</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la N-232 a LR-123 (Travesía de El Villar de Arnedo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,59</p>
+<p>0,25</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-590</p>
+<p>LR-543</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-390 a Navajún.</p>
+<p>De la N-232 a la LR-251 (Travesía de Fuenmayor).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,18</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">LR-593</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De la LR-123 a Baños de la Albotea.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,33</p>
+<p>0,6</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LR-594</p>
+<p>LR-544</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De la LR-123 a Cabretón.</p>
+<p>De la N-120 a LR-137 (Travesía de Navarrete, Ramal Este).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,65</p>
 </td>
 </tr>
-<tr class="row_column_11">
+<tr>
+<td>
+<p>LR-545</p>
+</td>
+<td>
+<p>De la N-120 a LR-137 (Travesía de Navarrete, Ramal Oeste).</p>
+</td>
+<td>
+<p>0,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-547</p>
+</td>
+<td>
+<p>De la N-111 a Torrecilla en Cameros (barrio de Barruelo).</p>
+</td>
+<td>
+<p>0,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-548</p>
+</td>
+<td>
+<p>De la LR-245 a Muro de Cameros.</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-549</p>
+</td>
+<td>
+<p>De la LR-466 a Rabanera.</p>
+</td>
+<td>
+<p>0,56</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-551</p>
+</td>
+<td>
+<p>De la LR-250 a la LR-250 (Travesía de Villamediana).</p>
+</td>
+<td>
+<p>1,42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-552</p>
+</td>
+<td>
+<p>De la LR-250 (Variante de Villamediana) a la LR-551 (Travesía de Villamediana)</p>
+</td>
+<td>
+<p>0,58</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-553</p>
+</td>
+<td>
+<p>De la LR-260 a Estación FF.CC. Alcanadre.</p>
+</td>
+<td>
+<p>0,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-583</p>
+</td>
+<td>
+<p>Travesía de Arnedo (antigua LR-123) entre la LR-115 y la LR-123 (glorieta variante)</p>
+</td>
+<td>
+<p>1,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-584</p>
+</td>
+<td>
+<p>Travesía de Arnedo (Antigua LR-115).</p>
+</td>
+<td>
+<p>2,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-585</p>
+</td>
+<td>
+<p>De la LR-123 a la LR-584 (Travesía de Arnedo).</p>
+</td>
+<td>
+<p>2,14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-586</p>
+</td>
+<td>
+<p>De la N-232 a la LR-495 por Travesía de Rincón de Soto.</p>
+</td>
+<td>
+<p>0,34</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-589</p>
+</td>
+<td>
+<p>De la N-232 a LR-123 (Travesía de El Villar de Arnedo).</p>
+</td>
+<td>
+<p>0,59</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-590</p>
+</td>
+<td>
+<p>De la LR-390 a Navajún.</p>
+</td>
+<td>
+<p>0,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-593</p>
+</td>
+<td>
+<p>De la LR-123 a Baños de la Albotea.</p>
+</td>
+<td>
+<p>0,33</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LR-594</p>
+</td>
+<td>
+<p>De la LR-123 a Cabretón.</p>
+</td>
+<td>
+<p>0,16</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total Travesías</p>
+<p>Total Travesías</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,89</p>
+<p>28,89</p>
 </td>
 </tr>
 </tbody>

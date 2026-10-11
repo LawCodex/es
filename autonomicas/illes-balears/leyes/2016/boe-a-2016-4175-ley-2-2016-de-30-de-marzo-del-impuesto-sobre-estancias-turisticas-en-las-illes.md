@@ -90,8 +90,6 @@ La presente ley tiene por objeto crear y regular los elementos esenciales del im
 
 2\. La recaudación de este impuesto tiene carácter finalista y queda afecta íntegramente al fondo para favorecer el turismo sostenible a que se refiere el artículo 19 de la presente ley.
 
-> Téngase en cuenta que se suspende para el ejercicio 2020 la aplicación del párrafo primero del apartado 2, según se establece en el art. 37 la Ley 2/2020, de 15 de octubre. [Ref. BOE-A-2020-14467](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14467)
-
 De acuerdo con ello, los recursos que genere no se computarán a los efectos de la dotación anual del fondo de convergencia al que se refiere el artículo 12 de la Ley 3/2014, de 17 de junio, del sistema de financiación definitivo de los consejos insulares.
 
 > Se suspende, para el ejercicio 2020, la aplicación del párrafo primero del apartado 2, según se establece en el art. 37 de la Ley 2/2020, de 15 de octubre. [Ref. BOE-A-2020-14467](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14467)

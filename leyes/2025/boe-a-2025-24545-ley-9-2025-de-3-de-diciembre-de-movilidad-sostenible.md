@@ -3401,67 +3401,63 @@ Para cada tipología de actuación se indica el importe total estimado mínimo s
 
 A efectos de la aplicación de esta ley y en el caso de que una actuación pudiera corresponder de manera inequívoca a varias tipologías, esta se asignará a la de menor importe total estimado de entre ellas.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipología de actuación</th>
-<th class="cabeza_tabla">Importe total estimado mínimo, sin IVA (M€)</th>
+<th>Tipología de actuación</th>
+<th>Importe total estimado mínimo, sin IVA (M€)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Actuaciones en carreteras del Estado</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nuevas carreteras o modificaciones sustanciales de las carreteras existentes (duplicaciones de calzada, aumentos de capacidad y acondicionamientos).</td>
-<td class="cuerpo_tabla_coma">30</td>
+<td>Nuevas carreteras o modificaciones sustanciales de las carreteras existentes (duplicaciones de calzada, aumentos de capacidad y acondicionamientos).</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nuevos enlaces o remodelación de nudos existentes.</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Nuevos enlaces o remodelación de nudos existentes.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otras actuaciones no incluidas en los apartados anteriores y no recogidas en las excepciones del artículo 53 de esta ley.</td>
-<td class="cuerpo_tabla_coma">30</td>
+<td>Otras actuaciones no incluidas en los apartados anteriores y no recogidas en las excepciones del artículo 53 de esta ley.</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Actuaciones en infraestructura ferroviaria del Estado</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nuevos tramos (incluyendo estaciones y terminales de mercancías).</td>
-<td class="cuerpo_tabla_coma">50</td>
+<td>Nuevos tramos (incluyendo estaciones y terminales de mercancías).</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Modificaciones de tramos (incluyendo estaciones y terminales de mercancías).</td>
-<td class="cuerpo_tabla_coma">50</td>
+<td>Modificaciones de tramos (incluyendo estaciones y terminales de mercancías).</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ampliaciones de capacidad de tramos.</td>
-<td class="cuerpo_tabla_coma">50</td>
+<td>Ampliaciones de capacidad de tramos.</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nuevas estaciones y nuevas terminales de mercancías.</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Nuevas estaciones y nuevas terminales de mercancías.</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora o reposición de estaciones o de terminales de mercancías.</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Mejora o reposición de estaciones o de terminales de mercancías.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Operaciones de integración del ferrocarril en ciudades.</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Operaciones de integración del ferrocarril en ciudades.</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otras actuaciones ferroviarias no incluidas en los apartados anteriores y no recogidas en las excepciones del artículo 53 de la ley.</td>
-<td class="cuerpo_tabla_coma">50</td>
+<td>Otras actuaciones ferroviarias no incluidas en los apartados anteriores y no recogidas en las excepciones del artículo 53 de la ley.</td>
+<td>50</td>
 </tr>
 </tbody>
 </table>

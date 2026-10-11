@@ -2284,254 +2284,254 @@ Las zonas dedicadas a jardines en su conjunto representarán, como mínimo, un 6
 
 **Módulos de reserva para dotaciones en suelo residencial**
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Unidades</p>
-<p class="cabeza_tabla">de viviendas</p>
+<p>Unidades</p>
+<p>de viviendas</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Sistema espacios libres de dominio</p>
-<p class="cabeza_tabla">y uso público</p>
+<p>Sistema espacios libres de dominio</p>
+<p>y uso público</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Centros docentes</p>
+<p>Centros docentes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Servicios de interés público y social</p>
+<p>Servicios de interés público y social</p>
 </td>
 <td>
-<p class="cabeza_tabla">Plazas de aparca-</p>
-<p class="cabeza_tabla">miento</p>
+<p>Plazas de aparca-</p>
+<p>miento</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Jardines</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> suelo/vivienda</p>
+<p>Jardines</p>
+<p>–</p>
+<p>m<sup>2</sup> suelo/vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">Áreas de juego y recreo de niños</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> suelo/vivienda</p>
+<p>Áreas de juego y recreo de niños</p>
+<p>–</p>
+<p>m<sup>2</sup> suelo/vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">Preescolar guardería</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> suelo/vivienda</p>
+<p>Preescolar guardería</p>
+<p>–</p>
+<p>m<sup>2</sup> suelo/vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">E.G.B.</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> suelo/vivienda</p>
+<p>E.G.B.</p>
+<p>–</p>
+<p>m<sup>2</sup> suelo/vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">B.U.P.</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> suelo/vivienda</p>
+<p>B.U.P.</p>
+<p>–</p>
+<p>m<sup>2</sup> suelo/vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">Parque deportivo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> suelo/vivienda</p>
+<p>Parque deportivo</p>
+<p>–</p>
+<p>m<sup>2</sup> suelo/vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">Equipamiento comercial</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> const./</p>
-<p class="cabeza_tabla">vivienda</p>
+<p>Equipamiento comercial</p>
+<p>–</p>
+<p>m<sup>2</sup> const./</p>
+<p>vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">Equipamiento social</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">m<sup>2</sup> const./vivienda</p>
+<p>Equipamiento social</p>
+<p>–</p>
+<p>m<sup>2</sup> const./vivienda</p>
 </td>
 <td>
-<p class="cabeza_tabla">Núm./100</p>
-<p class="cabeza_tabla">m<sup>2</sup> edifi-</p>
-<p class="cabeza_tabla">cación</p>
+<p>Núm./100</p>
+<p>m<sup>2</sup> edifi-</p>
+<p>cación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad elemental.</p>
+<p>Unidad elemental.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">_</p>
+<p>_</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá el uso concreto de las reservas para Centros docentes y para servicios de interés público y social.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Unidad básica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá los usos concretos de la reserva de interés público y social.</p>
+<p>El Plan Parcial propondrá el uso concreto de las reservas para Centros docentes y para servicios de interés público y social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad integrada.</p>
+<p>Unidad básica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá los usos concretos de la reserva de equipamiento social, distinguiendo, al menos, usos sanitarios y administrativos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Conjuntos entre 1.000 y 2.000 viv.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá los usos concretos de la reserva de equipamiento social, distinguiendo, al menos, usos sanitarios y administrativos.</p>
+<p>El Plan Parcial propondrá los usos concretos de la reserva de interés público y social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Conjuntos entre 2.000 y 5.000 viv.</p>
+<p>Unidad integrada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá los usos concretos de la reserva de equipamiento social, distinguiendo, al menos, usos religiosos, sanitarios, asistenciales, administrativos, culturales, recreativos y club de ancianos.</p>
+<p>El Plan Parcial propondrá los usos concretos de la reserva de equipamiento social, distinguiendo, al menos, usos sanitarios y administrativos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Conjuntos superiores a 5.000 viv.</p>
+<p>Conjuntos entre 1.000 y 2.000 viv.</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>El Plan Parcial propondrá los usos concretos de la reserva de equipamiento social, distinguiendo, al menos, usos sanitarios y administrativos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conjuntos entre 2.000 y 5.000 viv.</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>El Plan Parcial propondrá los usos concretos de la reserva de equipamiento social, distinguiendo, al menos, usos religiosos, sanitarios, asistenciales, administrativos, culturales, recreativos y club de ancianos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conjuntos superiores a 5.000 viv.</p>
 </td>
 <td colspan="9">
-<p class="cuerpo_tabla_izq">Se mantendrán como módulos mínimos de reserva de Plan Parcial los asignados a conjuntos comprendidos entre 2.000 y 5.000 viviendas. La reserva de dotaciones cuya necesidad sea generada por superarse en la ordenación del Plan Parcial la cifra de 5.000 viviendas, estará definida tanto en cuantía como en localización en el planeamiento de rango superior, teniendo en cuenta el carácter de equipamiento propio de este.</p>
+<p>Se mantendrán como módulos mínimos de reserva de Plan Parcial los asignados a conjuntos comprendidos entre 2.000 y 5.000 viviendas. La reserva de dotaciones cuya necesidad sea generada por superarse en la ordenación del Plan Parcial la cifra de 5.000 viviendas, estará definida tanto en cuantía como en localización en el planeamiento de rango superior, teniendo en cuenta el carácter de equipamiento propio de este.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2541,85 +2541,85 @@ Las zonas dedicadas a jardines en su conjunto representarán, como mínimo, un 6
 
 **Módulos mínimos de reservas para dotaciones en suelos destinados a usos terciarios**
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Situación</p>
+<p>Situación</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">Usos terciarios</p>
+<p>Usos terciarios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Uso residencial</p>
+<p>Uso residencial</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Sistema de espacios libres</p>
-<p class="cuerpo_tabla_centro">de dominio</p>
-<p class="cuerpo_tabla_centro">y uso público</p>
-<p class="cuerpo_tabla_centro">–</p>
-<p class="cuerpo_tabla_centro">Porcentaje</p>
+<p>Sistema de espacios libres</p>
+<p>de dominio</p>
+<p>y uso público</p>
+<p>–</p>
+<p>Porcentaje</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Servicio</p>
-<p class="cuerpo_tabla_centro">de interés público</p>
-<p class="cuerpo_tabla_centro">y social</p>
-<p class="cuerpo_tabla_centro">–</p>
-<p class="cuerpo_tabla_centro">Porcentaje</p>
+<p>Servicio</p>
+<p>de interés público</p>
+<p>y social</p>
+<p>–</p>
+<p>Porcentaje</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Plazas de aparcamiento</p>
-<p class="cuerpo_tabla_centro">–</p>
-<p class="cuerpo_tabla_centro">Núm./100</p>
-<p class="cuerpo_tabla_centro">m<sup>2</sup> edificación</p>
+<p>Plazas de aparcamiento</p>
+<p>–</p>
+<p>Núm./100</p>
+<p>m<sup>2</sup> edificación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Sistema de espacios libres de dominio y uso público, centros docentes, plazas de aparcamiento</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Primera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá los usos concretos de la reserva de servicios de interés público y social.</p>
+<p>Sistema de espacios libres de dominio y uso público, centros docentes, plazas de aparcamiento</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Segunda.</p>
+<p>Primera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Módulos del artículo 10 de este anexo.</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El Plan Parcial propondrá los usos concretos de la reserva de servicios de interés público y social, teniendo en cuenta las observaciones del cuadro del artículo 10 de este anexo.</p>
+<p>El Plan Parcial propondrá los usos concretos de la reserva de servicios de interés público y social.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Segunda.</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Módulos del artículo 10 de este anexo.</p>
+</td>
+<td>
+<p>El Plan Parcial propondrá los usos concretos de la reserva de servicios de interés público y social, teniendo en cuenta las observaciones del cuadro del artículo 10 de este anexo.</p>
 </td>
 </tr>
 </tbody>

@@ -360,94 +360,86 @@ El tipo de cotización será el 11,00 por ciento.
 
 1\. De conformidad con lo dispuesto en la disposición transitoria octava del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía, mediante la que se suspende lo establecido en la disposición transitoria decimosexta.1.a).4.º del texto refundido de la Ley General de la Seguridad Social, en tanto se aprueba la Ley de Presupuestos Generales del Estado para el año 2026, y tras la aprobación del Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026, desde el 1 de enero de 2026, las bases de cotización por contingencias comunes a este sistema especial serán las determinadas en la escala siguiente, en función de la retribución percibida por las y los empleados de hogar por cada relación laboral.
 
-<table class="tabla">
-<colgroup>
-<col width="15%">
-<col width="14%">
-<col width="19%">
-<col width="14%">
-<col width="19%">
-<col width="19%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tramo</th>
-<th class="cabeza_tabla" colspan="4">
-<p class="cabeza_tabla">Retribución mensual</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th>Tramo</th>
+<th colspan="4">
+<p>Retribución mensual</p>
+<p>–</p>
+<p>Euros/mes</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Base de cotización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th>
+<p>Base de cotización</p>
+<p>–</p>
+<p>Euros/mes</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.º</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">329,00</td>
-<td class="cuerpo_tabla_coma">306,00</td>
+<td>1.º</td>
+<td> </td>
+<td> </td>
+<td>Hasta</td>
+<td>329,00</td>
+<td>306,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">329,01</td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">510,00</td>
-<td class="cuerpo_tabla_coma">436,00</td>
+<td>2.º</td>
+<td>Desde</td>
+<td>329,01</td>
+<td>Hasta</td>
+<td>510,00</td>
+<td>436,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">510,01</td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">693,00</td>
-<td class="cuerpo_tabla_coma">602,00</td>
+<td>3.º</td>
+<td>Desde</td>
+<td>510,01</td>
+<td>Hasta</td>
+<td>693,00</td>
+<td>602,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">693,01</td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">877,00</td>
-<td class="cuerpo_tabla_coma">785,00</td>
+<td>4.º</td>
+<td>Desde</td>
+<td>693,01</td>
+<td>Hasta</td>
+<td>877,00</td>
+<td>785,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">877,01</td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">1.061,00</td>
-<td class="cuerpo_tabla_coma">970,00</td>
+<td>5.º</td>
+<td>Desde</td>
+<td>877,01</td>
+<td>Hasta</td>
+<td>1.061,00</td>
+<td>970,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">1.061,01</td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">1.242,00</td>
-<td class="cuerpo_tabla_coma">1.151,00</td>
+<td>6.º</td>
+<td>Desde</td>
+<td>1.061,01</td>
+<td>Hasta</td>
+<td>1.242,00</td>
+<td>1.151,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">1.242,01</td>
-<td class="cuerpo_tabla_centro">Hasta</td>
-<td class="cuerpo_tabla_coma">1.424,40</td>
-<td class="cuerpo_tabla_coma">1.424,40</td>
+<td>7.º</td>
+<td>Desde</td>
+<td>1.242,01</td>
+<td>Hasta</td>
+<td>1.424,40</td>
+<td>1.424,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.º</td>
-<td class="cuerpo_tabla_centro">Desde</td>
-<td class="cuerpo_tabla_coma">1.424,41</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro">Retribución mensual</td>
+<td>8.º</td>
+<td>Desde</td>
+<td>1.424,41</td>
+<td> </td>
+<td> </td>
+<td>Retribución mensual</td>
 </tr>
 </tbody>
 </table>
@@ -504,126 +496,119 @@ Desde el 1 de enero de 2026, con independencia de los rendimientos netos obtenid
 
 Durante el año 2026, la tabla general y la tabla reducida y las bases máximas y mínimas aplicables a los diferentes tramos de rendimientos netos serán las siguientes:
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="15%">
-<col width="25%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Tramos de rendimientos netos 2026</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th> </th>
+<th colspan="2">
+<p>Tramos de rendimientos netos 2026</p>
+<p>–</p>
+<p>Euros/mes</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Base mínima</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th>
+<p>Base mínima</p>
+<p>–</p>
+<p>Euros/mes</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Base máxima</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th>
+<p>Base máxima</p>
+<p>–</p>
+<p>Euros/mes</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Tabla reducida.</td>
-<td class="cuerpo_tabla_izq">Tramo 1</td>
-<td class="cuerpo_tabla_centro">≤ 670</td>
-<td class="cuerpo_tabla_coma">653,59</td>
-<td class="cuerpo_tabla_coma">718,94</td>
+<td rowspan="3">Tabla reducida.</td>
+<td>Tramo 1</td>
+<td>≤ 670</td>
+<td>653,59</td>
+<td>718,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 2</td>
-<td class="cuerpo_tabla_centro">&gt; 670 y ≤ 900</td>
-<td class="cuerpo_tabla_coma">718,95</td>
-<td class="cuerpo_tabla_coma">900,00</td>
+<td>Tramo 2</td>
+<td>&gt; 670 y ≤ 900</td>
+<td>718,95</td>
+<td>900,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 3</td>
-<td class="cuerpo_tabla_centro">&gt; 900 y &lt; 1.166,70</td>
-<td class="cuerpo_tabla_coma">849,67</td>
-<td class="cuerpo_tabla_coma">1.166,70</td>
+<td>Tramo 3</td>
+<td>&gt; 900 y &lt; 1.166,70</td>
+<td>849,67</td>
+<td>1.166,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">Tabla general.</td>
-<td class="cuerpo_tabla_izq">Tramo 1</td>
-<td class="cuerpo_tabla_centro">≥ 1.166,70 y ≤ 1.300</td>
-<td class="cuerpo_tabla_coma">950,98</td>
-<td class="cuerpo_tabla_coma">1.300,00</td>
+<td rowspan="12">Tabla general.</td>
+<td>Tramo 1</td>
+<td>≥ 1.166,70 y ≤ 1.300</td>
+<td>950,98</td>
+<td>1.300,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 2</td>
-<td class="cuerpo_tabla_centro">&gt; 1.300 y ≤ 1.500</td>
-<td class="cuerpo_tabla_coma">960,78</td>
-<td class="cuerpo_tabla_coma">1.500,00</td>
+<td>Tramo 2</td>
+<td>&gt; 1.300 y ≤ 1.500</td>
+<td>960,78</td>
+<td>1.500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 3</td>
-<td class="cuerpo_tabla_centro">&gt; 1.500 y ≤ 1.700</td>
-<td class="cuerpo_tabla_coma">960,78</td>
-<td class="cuerpo_tabla_coma">1.700,00</td>
+<td>Tramo 3</td>
+<td>&gt; 1.500 y ≤ 1.700</td>
+<td>960,78</td>
+<td>1.700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 4</td>
-<td class="cuerpo_tabla_centro">&gt; 1.700 y ≤ 1.850</td>
-<td class="cuerpo_tabla_coma">1.143,79</td>
-<td class="cuerpo_tabla_coma">1.850,00</td>
+<td>Tramo 4</td>
+<td>&gt; 1.700 y ≤ 1.850</td>
+<td>1.143,79</td>
+<td>1.850,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 5</td>
-<td class="cuerpo_tabla_centro">&gt; 1.850 y ≤ 2.030</td>
-<td class="cuerpo_tabla_coma">1.209,15</td>
-<td class="cuerpo_tabla_coma">2.030,00</td>
+<td>Tramo 5</td>
+<td>&gt; 1.850 y ≤ 2.030</td>
+<td>1.209,15</td>
+<td>2.030,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 6</td>
-<td class="cuerpo_tabla_centro">&gt; 2.030 y ≤ 2.330</td>
-<td class="cuerpo_tabla_coma">1.274,51</td>
-<td class="cuerpo_tabla_coma">2.330,00</td>
+<td>Tramo 6</td>
+<td>&gt; 2.030 y ≤ 2.330</td>
+<td>1.274,51</td>
+<td>2.330,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 7</td>
-<td class="cuerpo_tabla_centro">&gt; 2.330 y ≤ 2.760</td>
-<td class="cuerpo_tabla_coma">1.356,21</td>
-<td class="cuerpo_tabla_coma">2.760,00</td>
+<td>Tramo 7</td>
+<td>&gt; 2.330 y ≤ 2.760</td>
+<td>1.356,21</td>
+<td>2.760,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 8</td>
-<td class="cuerpo_tabla_centro">&gt; 2.760 y ≤ 3.190</td>
-<td class="cuerpo_tabla_coma">1.437,91</td>
-<td class="cuerpo_tabla_coma">3.190,00</td>
+<td>Tramo 8</td>
+<td>&gt; 2.760 y ≤ 3.190</td>
+<td>1.437,91</td>
+<td>3.190,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 9</td>
-<td class="cuerpo_tabla_centro">&gt; 3.190 y ≤ 3.620</td>
-<td class="cuerpo_tabla_coma">1.519,61</td>
-<td class="cuerpo_tabla_coma">3.620,00</td>
+<td>Tramo 9</td>
+<td>&gt; 3.190 y ≤ 3.620</td>
+<td>1.519,61</td>
+<td>3.620,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 10</td>
-<td class="cuerpo_tabla_centro">&gt; 3.620 y ≤ 4.050</td>
-<td class="cuerpo_tabla_coma">1.601,31</td>
-<td class="cuerpo_tabla_coma">4.050,00</td>
+<td>Tramo 10</td>
+<td>&gt; 3.620 y ≤ 4.050</td>
+<td>1.601,31</td>
+<td>4.050,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 11</td>
-<td class="cuerpo_tabla_centro">&gt; 4.050 y ≤ 6.000</td>
-<td class="cuerpo_tabla_coma">1.732,03</td>
-<td class="cuerpo_tabla_coma">5.101,20</td>
+<td>Tramo 11</td>
+<td>&gt; 4.050 y ≤ 6.000</td>
+<td>1.732,03</td>
+<td>5.101,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tramo 12</td>
-<td class="cuerpo_tabla_centro">&gt; 6.000</td>
-<td class="cuerpo_tabla_coma">1.928,10</td>
-<td class="cuerpo_tabla_coma">5.101,20</td>
+<td>Tramo 12</td>
+<td>&gt; 6.000</td>
+<td>1.928,10</td>
+<td>5.101,20</td>
 </tr>
 </tbody>
 </table>

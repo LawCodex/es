@@ -684,24 +684,6 @@ e) Cualquier otro suministro que tenga por finalidad el consumo de estos product
 
 En ningún caso, se permite el suministro entre distribuidores al por menor, ni el suministro de distribuidores al por menor a operadores al por mayor.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 47.3 del Real Decreto-ley 8/2023, de 27 de diciembre, [Ref. BOE-A-2023-26452](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26452), entra en vigor el 28 de marzo de 2024, según determina la disposición final 13 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. La actividad de distribución al por menor de productos petrolíferos comprenderá al menos una de las actividades siguientes:
-
-> a) El suministro de combustibles y carburantes a vehículos en instalaciones habilitadas al efecto.
-
-> b) El suministro a instalaciones fijas para consumo en la propia instalación.
-
-> c) El suministro de queroseno con destino a la aviación.
-
-> d) El suministro de combustibles a embarcaciones.
-
-> e) Cualquier otro suministro que tenga por finalidad el consumo de estos productos.
-
-> Siempre y cuando realicen alguna de las actividades anteriores los distribuidores podrán suministrar a otros distribuidores al por menor de productos petrolíferos. En este caso deberán inscribirse previamente en el registro de los impuestos especiales, con arreglo a lo dispuesto en el apartado 7 del artículo 18 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y a su normativa de desarrollo."
-
 2\. La actividad de distribución al por menor de carburante y combustibles petrolíferos podrá ser ejercida libremente por cualquier persona física o jurídica.
 
 Las instalaciones utilizadas para el ejercicio de esta actividad deberán cumplir con los actos de control preceptivos para cada tipo de instalación, de acuerdo con las instrucciones técnicas complementarias que establezcan las condiciones técnicas y de seguridad de dichas instalaciones, así como cumplir con el resto de la normativa vigente que en cada caso sea de aplicación, en especial la referente a metrología y metrotecnia y a protección de los consumidores y usuarios.

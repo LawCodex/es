@@ -56,8 +56,6 @@ Asimismo, podrán utilizarse aquellos otros métodos de análisis validados inte
 
 Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea o en Turquía, u originarias en un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y legalmente comercializadas, se consideran conformes con el presente real decreto. La aplicación de este real decreto está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.2 del Real Decreto 523/2020, de 19 de mayo. [Ref. BOE-A-2020-6513](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6513), entra en vigor el 22 de diciembre de 2020, según establece la disposición final única del citado real decreto.
-
 > Se añade, con efectos de 22 de diciembre de 2020, por el art. único.2 del Real Decreto 523/2020, de 19 de mayo. [Ref. BOE-A-2020-6513](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6513)
 
 > Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto a la comercialización de las existencias de productos anteriores a la entrada en vigor del mismo.
@@ -138,22 +136,6 @@ c) haberse sobrecalentado, o
 
 d) haberse obtenido eliminando materia orgánica o inorgánica ajena a la miel de manera tal que se genere una importante eliminación de polen.
 
-> Téngase en cuenta que la supresión de la letra f) del apartado 3.2.2 y la actualización del apartado 3.3, establecidas por el art. único.1 del Real Decreto 68/2025, de 4 de febrero, [Ref. BOE-A-2025-3184](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3184), entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "3.2.2 Según su elaboración o su presentación:
-
-> f) Miel filtrada: es la miel que se obtiene eliminando materia orgánica o inorgánica ajena a la miel de manera tal que se genere una importante eliminación de polen."
-
-> "3.3 Miel para uso industrial: Es la miel apropiada para usos industriales o para su utilización como ingrediente de otros productos alimenticios que se elaboran ulteriormente, que puede:
-
-> a) presentar un sabor o un olor extraños, o
-
-> b) haber comenzado a fermentar o haber fermentado, o
-
-> c) haberse sobrecalentado."
-
 4\. Características de la composición de la miel
 
 4.1 La miel está compuesta esencialmente de diferentes azúcares, sobre todo de fructosa y glucosa, así como de otras sustancias, como ácidos orgánicos, enzimas y partículas sólidas derivadas de su recolección.
@@ -165,12 +147,6 @@ El color de la miel puede tener desde un tono casi incoloro a un tono pardo oscu
 4.3 Con excepción de lo dispuesto en el apartado 3.3, relativo a miel para uso industrial, no debe tener un gusto o un olor extraños ni haber comenzado a fermentar, presentar un grado de acidez modificado artificialmente, ni haberse calentado de manera que las enzimas naturales se destruyan o resulten poco activas.
 
 4.4 Sin perjuicio de lo dispuesto en el apartado 3.3.d), no se podrá retirar de la miel el polen ni ningún otro de sus componentes específicos, excepto cuando resulte inevitable en el proceso de eliminación de materia orgánica o inorgánica ajena a ella.
-
-> Téngase en cuenta que esta actualización del apartado 4.4, establecida por el art. único.2 del Real Decreto 68/2025, de 4 de febrero, [Ref. BOE-A-2025-3184](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3184), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "4.4 Sin perjuicio de lo dispuesto en el apartado 3.2.2 f), relativo a la miel filtrada, no se podrá retirar de la miel el polen ni ningún otro de sus componentes específicos, excepto cuando resulte inevitable en el proceso de eliminación de materia orgánica o inorgánica ajena a ella."
 
 4.5 En el momento de su comercialización como tal o de su utilización en cualquier producto destinado al consumo humano, la miel debe responder a las características de composición siguientes:
 
@@ -263,30 +239,6 @@ En el caso de los envases que contengan menos de 30 gramos netos de miel, los no
 5.1.6 Los operadores deberán recoger dentro de su sistema de autocontrol las evidencias necesarias para demostrar ante las autoridades competentes los orígenes de las mieles empleadas en las mezclas, indicados en el apartado 5.1.4. Los registros de dichas evidencias deberán conservarse durante el tiempo indicado en el artículo 10.3 de la Ley 28/2015, de 30 de julio, para la defensa de la calidad alimentaria.
 
 5.2 En el caso de la miel para uso industrial, los contenedores para granel, los embalajes y la documentación comercial deberán indicar claramente la denominación completa, tal como se indica en el apartado 3.3, relativo a la miel para uso industrial.
-
-> Téngase en cuenta que esta actualización de los apartados 5.1.2, 5.1.4, 5.1.5 y 5.2, establecida por el art. único.3 del Real Decreto 68/2025, de 4 de febrero, [Ref. BOE-A-2025-3184](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3184), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "5.1.2 Las denominaciones a que hacen referencia el apartado 3.2, relativo a principales variedades de miel, y el apartado 3.3, relativo a miel de uso industrial, se reservarán a los productos que en ellos se definen y se deberán utilizar en el comercio para designarlos. Estas denominaciones se podrán sustituir por la mera denominación «miel», salvo en los casos de la miel filtrada, la miel en panal, la miel con trozos de panal o panal cortado en miel, y la miel para uso industrial.
-
-> No obstante,
-
-> a) En el caso de la miel para uso industrial, la expresión «únicamente para cocinar» aparecerá en la etiqueta en la proximidad inmediata de la denominación.
-
-> b) Dichas denominaciones, salvo en los casos de la miel filtrada y de la miel para uso industrial, podrán verse completadas con indicaciones que hagan referencia:
-
-> 1.º Al origen floral o vegetal, si el producto procede totalmente o en su mayor parte del origen indicado y si posee las características organolépticas, fisicoquímicas y microscópicas de dicho origen.
-
-> 2.º Al origen regional, territorial o topográfico, si el producto procede enteramente del origen indicado.
-
-> 3.º A criterios de calidad específicos."
-
-> "5.1.4 Deberán mencionarse en la etiqueta el país o los países de origen en los que la miel y, en su caso, sus mezclas hayan sido recolectadas."
-
-> "5.1.5 A efectos de lo dispuesto en la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, aprobada por Real Decreto 1334/1999, de 31 de julio, en particular, en sus artículos 15 y 17, las menciones que deberán indicarse con arreglo a lo dispuesto en el apartado 5.1.4 precedente se considerarán indicaciones obligatorias del etiquetado, de conformidad con lo dispuesto en el artículo 5 de dicha norma."
-
-> "5.2 En el caso de la miel filtrada y de la miel para uso industrial, los contenedores para granel, los embalajes y la documentación comercial deberán indicar claramente la denominación completa, tal como se indica, respectivamente, en los apartados 3.2.2.f), relativo a miel filtrada, así como en el apartado 3.3, relativo a miel para uso industrial."
 
 5.3 Dado que el polen es un componente natural específico de la miel, en los productos definidos en el apartado 3 no se considerará un ingrediente en el sentido del artículo 2, apartado 2, letra f), del Reglamento (UE) n.º 1169/2011 del Parlamento Europeo y del Consejo, de 25 de octubre de 2011, sobre la información alimentaria facilitada al consumidor y por el que se modifican los Reglamentos (CE) n.º 1924/2006 y (CE) n.º 1925/2006 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 87/250/CEE de la Comisión, la Directiva 90/496/CEE del Consejo, la Directiva 1999/10/CE de la Comisión, la Directiva 2000/13/CE del Parlamento Europeo y del Consejo, las Directivas 2002/67/CE y 2008/5/CE de la Comisión, y el Reglamento (CE) n.º 608/2004 de la Comisión.
 

@@ -172,8 +172,6 @@ d) Cargas familiares.
 
 e) Situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el artículo 17.
 
-> Téngase en cuenta que la letra e), añadida por el art. 5.1 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
 > Se añade la letra e) por el art. 5.1 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
 
 > Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
@@ -185,12 +183,6 @@ e) Situación especial de incapacidad temporal por donación de órganos o tejid
 a) Asistencia sanitaria.
 
 b) Subsidio por incapacidad temporal, incluida la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante prevista en el artículo 17, en el caso de funcionarios civiles.
-
-> Téngase en cuenta que esta actualización de la letra b) del apartado 1, establecida por el art. 5.2 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "b) Subsidio por incapacidad temporal, en el caso de funcionarios civiles."
 
 c) Prestaciones económicas y recuperadoras, en su caso, por inutilidad para el servicio, e indemnización por lesiones, mutilaciones o deformidades de carácter permanente no invalidantes.
 
@@ -270,12 +262,6 @@ Lo dispuesto en esta sección 1.ª ha de entenderse sin perjuicio de las funcion
 
 Se encontrarán en situación especial de incapacidad temporal los funcionarios civiles por donación de órganos o tejidos para su trasplante. Esta situación comprenderá tanto los días discontinuos como ininterrumpidos, en los que el donante reciba asistencia sanitaria y esté impedido para el servicio o la práctica como consecuencia de la preparación médica de la cirugía, como los transcurridos desde el día del ingreso hospitalario para la realización de esta preparación hasta que sea dado de alta por curación.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 5.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. Tendrán la consideración de estados o situaciones determinantes de incapacidad temporal para los funcionarios civiles los de enfermedad, accidente y los denominados períodos de observación en caso de enfermedad profesional."
-
 2\. Los permisos o licencias por parto, adopción y acogimiento establecidos en el apartado 3 del artículo 30 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, no tendrán la consideración de incapacidad temporal. Si al término del permiso por parto continuase la imposibilidad de incorporarse al trabajo, se iniciarán las licencias que dan lugar a la incapacidad temporal.
 
 > Se modifica el apartado 1 por el art. 5.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
@@ -285,12 +271,6 @@ Se encontrarán en situación especial de incapacidad temporal los funcionarios 
 ##### Artículo 18. Situación de incapacidad temporal.
 
 1\. Los funcionarios civiles incorporados a este régimen especial que, de conformidad con lo establecido en el artículo 69 de la Ley articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, hayan obtenido licencias por enfermedad, incluida la donación de órganos o tejidos para su trasplante, o accidente que impidan el normal desempeño de las funciones públicas, se encontrarán en la situación de incapacidad temporal.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 5.4 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. Los funcionarios civiles incorporados a este régimen especial que, de conformidad con lo establecido en el artículo 69 de la Ley articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, hayan obtenido licencias por enfermedad o accidente que impidan el normal desempeño de las funciones públicas, se encontrarán en la situación de incapacidad temporal."
 
 2\. Asimismo, se encontrarán en dicha situación los funcionarios indicados que hayan obtenido licencia a consecuencia de encontrarse en período de observación médica en caso de enfermedades profesionales.
 
@@ -337,8 +317,6 @@ b) El 75 por 100 de las retribuciones complementarias devengadas en el primer me
 c) En la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el artículo 17, el subsidio por incapacidad temporal a cargo del Instituto Social de las Fuerzas Armadas tendrá una cuantía igual al 100 por ciento de las retribuciones complementarias devengadas desde el tercer mes de licencia.
 
 Durante los tres primeros meses, el funcionario tendrá derecho al percibo de la totalidad de las retribuciones previstas en las Leyes y Reglamentos aplicables según su respectiva Carrera, Cuerpo y Escala, a cargo de los órganos de personal correspondiente.
-
-> Téngase en cuenta que la letra c), añadida al apartado 1 por el art. 5.5 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
 
 2\. La suma de las cantidades anteriores no podrá exceder del importe de las percepciones que el funcionario tuviera en el primer mes de licencia.
 

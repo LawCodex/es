@@ -5400,139 +5400,125 @@ c) El parque: es un espacio que siempre debe tener una superficie mínima de una
 
 d) Zonas verdes ambientales: son aquellas que no encajan en las categorías anteriores por no cumplir las condiciones de tamaño y forma establecidas o que, cumpliéndolas, presenten una topografía inadecuada para su uso. Podrán calificarse como zonas verdes, pero no computarán a efectos del cumplimiento de estándares urbanísticos.
 
-<table class="tabla">
-<colgroup>
-<col width="31%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="18%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Zonas verdes</th>
-<th class="cabeza_tabla" colspan="2">Condiciones mínimas</th>
-<th class="cabeza_tabla" colspan="2">Límites</th>
+<th rowspan="2">Zonas verdes</th>
+<th colspan="2">Condiciones mínimas</th>
+<th colspan="2">Límites</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Superficie mínima</th>
-<th class="cabeza_tabla">Círculo inscribible</th>
-<th class="cabeza_tabla">Porcentaje máximo</th>
-<th class="cabeza_tabla">Otras condiciones</th>
+<th>Superficie mínima</th>
+<th>Círculo inscribible</th>
+<th>Porcentaje máximo</th>
+<th>Otras condiciones</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tipos</th>
-<th class="cabeza_tabla">Suelo (m<sup>2</sup>)</th>
-<th class="cabeza_tabla">Diámetro (m)</th>
-<th class="cabeza_tabla">(por ciento)</th>
-<th class="cabeza_tabla">–</th>
+<th>Tipos</th>
+<th>Suelo (m<sup>2</sup>)</th>
+<th>Diámetro (m)</th>
+<th>(por ciento)</th>
+<th>–</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Área de juego.</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Área de juego.</td>
+<td>200</td>
+<td>12</td>
+<td>20</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jardín.</td>
-<td class="cuerpo_tabla_centro">1.000</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">
-<p class="cuerpo_tabla_centro">Ver 3.2.1.b) y c)</p>
-<p class="cuerpo_tabla_centro">– </p>
+<td>Jardín.</td>
+<td>1.000</td>
+<td>30</td>
+<td>–</td>
+<td rowspan="2">
+<p>Ver 3.2.1.b) y c)</p>
+<p>– </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parque.</td>
-<td class="cuerpo_tabla_centro">10.000</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Parque.</td>
+<td>10.000</td>
+<td>50</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zonas verdes ambientales.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zonas verdes ambientales.</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
 </tr>
 </tbody>
 </table>
 
 e) Zonas verdes preexistentes: son aquellas que mantienen o reproducen la topografía preexistente y, en el caso de desarrollos industriales computarán a efectos del cumplimiento de estándares urbanísticos, independientemente de su topografía.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Zonas verdes</p>
-<p class="cabeza_tabla">Tipos</p>
+<th rowspan="2">
+<p>Zonas verdes</p>
+<p>Tipos</p>
 </th>
-<th class="cabeza_tabla" colspan="2">Condiciones mínimas</th>
-<th class="cabeza_tabla" colspan="2">Límites</th>
+<th colspan="2">Condiciones mínimas</th>
+<th colspan="2">Límites</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="1">
-<p class="cabeza_tabla">Superficie mínima</p>
-<p class="cabeza_tabla">Suelo (m<sup>2</sup>)</p>
+<th>
+<p>Superficie mínima</p>
+<p>Suelo (m<sup>2</sup>)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Círculo inscribible</p>
-<p class="cabeza_tabla">Diámetro (m)</p>
+<th>
+<p>Círculo inscribible</p>
+<p>Diámetro (m)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Porcentaje máximo</p>
-<p class="cabeza_tabla">(%)</p>
+<th>
+<p>Porcentaje máximo</p>
+<p>(%)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Otras condiciones</p>
+<th>
+<p>Otras condiciones</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Área de juego.</td>
-<td class="cuerpo_tabla_coma">200</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>Área de juego.</td>
+<td>200</td>
+<td>12</td>
+<td>20</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jardín.</td>
-<td class="cuerpo_tabla_coma">1.000</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Ver 3.2.1.b) y c)</td>
+<td>Jardín.</td>
+<td>1.000</td>
+<td>30</td>
+<td>-</td>
+<td rowspan="2">Ver 3.2.1.b) y c)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parque.</td>
-<td class="cuerpo_tabla_coma">10.000</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>Parque.</td>
+<td>10.000</td>
+<td>50</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Z. verdes ambient.</td>
-<td class="cuerpo_tabla_coma">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>Z. verdes ambient.</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Z. verdes preexist.</td>
-<td class="cuerpo_tabla_coma">-</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>Z. verdes preexist.</td>
+<td>-</td>
+<td>30</td>
+<td>-</td>
+<td>-</td>
 </tr>
 </tbody>
 </table>
@@ -5571,27 +5557,22 @@ c) En todas las zonas de aparcamiento de vehículos ligeros situadas en vías p�
 
 4.1.3 En resumen, las reservas de suelo para sistemas generales de espacios libres y equipamientos son las siguientes:
 
-<table class="tabla">
-<colgroup>
-<col width="22%">
-<col width="39%">
-<col width="39%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistemas generales</th>
-<th class="cabeza_tabla" colspan="2">Estándares dotacionales</th>
+<th rowspan="2">Sistemas generales</th>
+<th colspan="2">Estándares dotacionales</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Espacios libres públicos</th>
-<th class="cabeza_tabla">Servicios generales y administrativos y equipamiento social</th>
+<th>Espacios libres públicos</th>
+<th>Servicios generales y administrativos y equipamiento social</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Reservas de suelo</td>
-<td class="cuerpo_tabla_centro">5 m<sup>2</sup> suelo/habitante</td>
-<td class="cuerpo_tabla_centro">5 m<sup>2</sup> suelo/habitante</td>
+<td>Reservas de suelo</td>
+<td>5 m<sup>2</sup> suelo/habitante</td>
+<td>5 m<sup>2</sup> suelo/habitante</td>
 </tr>
 </tbody>
 </table>
@@ -5614,63 +5595,53 @@ Si dentro del mismo ámbito el Planeamiento General admitiese usos globales alte
 
 4.2.3 Reservas de suelo para sistemas locales y aparcamientos en el uso residencial se resumen en la tabla adjunta; en todo caso, la superficie destinada a espacios libres no será inferior al 10 por ciento de la superficie del ámbito a ordenar:
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="35%">
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Actuaciones ≤ 100 viviendas</th>
-<th class="cabeza_tabla">Actuaciones &gt; 100 viviendas</th>
+<th> </th>
+<th>Actuaciones ≤ 100 viviendas</th>
+<th>Actuaciones &gt; 100 viviendas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Espacios libres.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">32 m<sup>2</sup> suelo/100 m<sup>2 </sup>techo</td>
-<td class="cuerpo_tabla_centro">20 m<sup>2</sup> suelo/100 m<sup>2</sup> techo</td>
+<td>Espacios libres.</td>
+<td rowspan="2">32 m<sup>2</sup> suelo/100 m<sup>2 </sup>techo</td>
+<td>20 m<sup>2</sup> suelo/100 m<sup>2</sup> techo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Equipamiento.</td>
-<td class="cuerpo_tabla_centro">12 m<sup>2</sup> suelo/100 m<sup>2</sup> techo</td>
+<td>Equipamiento.</td>
+<td>12 m<sup>2</sup> suelo/100 m<sup>2</sup> techo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Plazas de aparcamiento.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Públicas: 1,00 plazas/100 m<sup>2</sup> techo</td>
+<td rowspan="2">Plazas de aparcamiento.</td>
+<td colspan="2">Públicas: 1,00 plazas/100 m<sup>2</sup> techo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Privadas: 1,50 plazas/100 m<sup>2</sup> techo</td>
+<td colspan="2">Privadas: 1,50 plazas/100 m<sup>2</sup> techo</td>
 </tr>
 </tbody>
 </table>
 
 4.2.4 Reservas de suelo para sistemas locales y aparcamientos en el uso industrial se resumen en la tabla adjunta:
 
-<table class="tabla">
-<colgroup>
-<col width="29%">
-<col width="18%">
-<col width="53%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Espacios libres y equipamientos:</td>
-<td class="cuerpo_tabla_centro">10 por ciento superficie del ámbito a ordenar</td>
+<td colspan="2">Espacios libres y equipamientos:</td>
+<td>10 por ciento superficie del ámbito a ordenar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Plazas de aparcamiento:</td>
+<td rowspan="3">Plazas de aparcamiento:</td>
 <td rowspan="2">Turismos.</td>
-<td class="cuerpo_tabla_centro">Públicas: 0,50 plazas/100 m<sup>2 </sup>techo</td>
+<td>Públicas: 0,50 plazas/100 m<sup>2 </sup>techo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Privadas: 1 plaza/100 m<sup>2 </sup>techo</td>
+<td>Privadas: 1 plaza/100 m<sup>2 </sup>techo</td>
 </tr>
 <tr>
 <td>Pesados.</td>
-<td class="cuerpo_tabla_centro">Públicas: 0,05 plazas/100 m<sup>2 </sup>techo</td>
+<td>Públicas: 0,05 plazas/100 m<sup>2 </sup>techo</td>
 </tr>
 </tbody>
 </table>
@@ -5679,28 +5650,23 @@ Podrá aumentarse las plazas de aparcamientos públicos, al objeto de reducir la
 
 4.2.5 Reservas de suelo para sistemas locales y aparcamientos en el uso terciario se resumen en la tabla adjunta:
 
-<table class="tabla">
-<colgroup>
-<col width="29%">
-<col width="18%">
-<col width="53%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Espacios libres y equipamientos:</td>
-<td class="cuerpo_tabla_centro">10 por ciento superficie del ámbito a ordenar</td>
+<td colspan="2">Espacios libres y equipamientos:</td>
+<td>10 por ciento superficie del ámbito a ordenar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Plazas de aparcamiento:</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Turismos.</td>
-<td class="cuerpo_tabla_centro">Públicas: 0,50 plazas/100 m<sup>2</sup> techo</td>
+<td rowspan="3">Plazas de aparcamiento:</td>
+<td rowspan="2">Turismos.</td>
+<td>Públicas: 0,50 plazas/100 m<sup>2</sup> techo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Privadas: 2,5 plazas/100 m<sup>2</sup> techo</td>
+<td>Privadas: 2,5 plazas/100 m<sup>2</sup> techo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pesados.</td>
-<td class="cuerpo_tabla_centro">Públicas: 0,05 plazas/100 m<sup>2</sup> techo</td>
+<td>Pesados.</td>
+<td>Públicas: 0,05 plazas/100 m<sup>2</sup> techo</td>
 </tr>
 </tbody>
 </table>

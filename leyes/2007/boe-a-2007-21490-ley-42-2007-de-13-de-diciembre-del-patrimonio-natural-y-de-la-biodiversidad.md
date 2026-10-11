@@ -2012,348 +2012,348 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2008. [Ref. BOE-A-2008-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2323)
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">N.º CAS</p>
+<p>N.º CAS</p>
 </th>
 <th>
-<p class="cabeza_tabla">Parámetro</p>
+<p>Parámetro</p>
 </th>
 <th>
-<p class="cabeza_tabla">Objetivo de calidad en aguas µg/l (1)</p>
+<p>Objetivo de calidad en aguas µg/l (1)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Objetivo de calidad en sedimento y biota</p>
+<p>Objetivo de calidad en sedimento y biota</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Metales y Metaloides.</p>
+<p>Metales y Metaloides.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7440-38-2</p>
+<p>7440-38-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arsénico.</p>
+<p>Arsénico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S. (2)</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">7440-50-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cobre.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S. (2)</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">7440-02-0</p>
+<p>7440-50-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Niquel.</p>
+<p>Cobre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">7439-92-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Plomo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">7782-49-2</p>
+<p>7440-02-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Selenio.</p>
+<p>Niquel.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">18540-29-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cromo VI.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">7440-66-6</p>
+<p>7439-92-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zinc.</p>
+<p>Plomo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Biocidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1912-24-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Atrazina.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">122-34-9</p>
+<p>7782-49-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Simazina.</p>
+<p>Selenio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>10</p>
+</td>
+<td>
+<p>N.A.S.</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>18540-29-9</p>
+</td>
+<td>
+<p>Cromo VI.</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>N.A.S.</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>7440-66-6</p>
+</td>
+<td>
+<p>Zinc.</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>N.A.S.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biocidas.</p>
+</td>
+<td>
+<p>1912-24-9</p>
+</td>
+<td>
+<p>Atrazina.</p>
+</td>
+<td>
+<p>1</p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">5915-41-3</p>
+<p>122-34-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Terbutilazina.</p>
+<p>Simazina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">1582-09-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trifluralina.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>1</p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">115-29-7</p>
+<p>5915-41-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Endosulfan.</p>
+<p>Terbutilazina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,01</p>
+<p>1</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>1582-09-8</p>
+</td>
+<td>
+<p>Trifluralina.</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>115-29-7</p>
+</td>
+<td>
+<p>Endosulfan.</p>
+</td>
+<td>
+<p>0,01</p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">VOCs.</p>
+<p>VOCs.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">71-43-2<br>108-88-3<br>1330-20-7<br>100-41-4<br>71-55-6</p>
+<p>71-43-2<br>108-88-3<br>1330-20-7<br>100-41-4<br>71-55-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benceno.<br>Tolueno.<br>Xileno.<br>Etilbenceno.<br>1,1,1-Tricloroetano.</p>
+<p>Benceno.<br>Tolueno.<br>Xileno.<br>Etilbenceno.<br>1,1,1-Tricloroetano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30<br>50<br>30<br>30<br>100</p>
+<p>30<br>50<br>30<br>30<br>100</p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">36643-28-4</p>
+<p>36643-28-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tributilestaño (TBT).</p>
+<p>Tributilestaño (TBT).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,02</p>
+<p>0,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hidrocarburos aromáticos policíclicos (HPA).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">91-20-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Naftaleno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
-<td></td>
 <td>
-<p class="cuerpo_tabla_der">120-12-7</p>
+<p>Hidrocarburos aromáticos policíclicos (HPA).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Antraceno.</p>
+<p>91-20-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>Naftaleno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>5</p>
+</td>
+<td>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">206-44-0</p>
+<p>120-12-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fluoranteno.</p>
+<p>Antraceno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>0,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">50-32-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Benzo(a)pireno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">205-99-2</p>
+<p>206-44-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benzo(b)fluoranteno.</p>
+<p>Fluoranteno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>0,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">191-24-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Benzo(g,h,i)perileno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">207-08-9</p>
+<p>50-32-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benzo(k)fluoranteno.</p>
+<p>Benzo(a)pireno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>0,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">193-39-5</p>
+<p>205-99-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indeno(1,2,3-cd)pireno.</p>
+<p>Benzo(b)fluoranteno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>0,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.A.S.</p>
+<p>N.A.S.</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>191-24-2</p>
+</td>
+<td>
+<p>Benzo(g,h,i)perileno.</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>N.A.S.</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>207-08-9</p>
+</td>
+<td>
+<p>Benzo(k)fluoranteno.</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>N.A.S.</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>193-39-5</p>
+</td>
+<td>
+<p>Indeno(1,2,3-cd)pireno.</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>N.A.S.</p>
 </td>
 </tr>
 </tbody>
@@ -2367,90 +2367,52 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2008. [Ref. BOE-A-2008-2323](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2323)
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">N.º CAS</p>
+<p>N.º CAS</p>
 </th>
 <th>
-<p class="cabeza_tabla">Parámetro</p>
+<p>Parámetro</p>
 </th>
 <th>
-<p class="cabeza_tabla">Método (1)</p>
+<p>Método (1)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Límite cuantificación (2)</p>
+<p>Límite cuantificación (2)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Precisión</p>
+<p>Precisión</p>
 </th>
 <th>
-<p class="cabeza_tabla">Exactitud</p>
+<p>Exactitud</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Metales y metaloides.</p>
+<p>Metales y metaloides.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7440-38-2</p>
+<p>7440-38-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arsénico.</p>
+<p>Arsénico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción atómica.</p>
+<p>Espectrofotometría de absorción atómica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de plasma.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">7440-50-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cobre.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción atómica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
@@ -2458,75 +2420,37 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de plasma.</p>
+<p>Espectrofotometría de plasma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">7440-02-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Níquel.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción atómica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de plasma.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">7439-92-1</p>
+<p>7440-50-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plomo.</p>
+<p>Cobre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción atómica.</p>
+<p>Espectrofotometría de absorción atómica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
@@ -2534,96 +2458,37 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de plasma.</p>
+<p>Espectrofotometría de plasma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">7782-49-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Selenio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción atómica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de plasma.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">18540-29-9</p>
+<p>7440-02-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromo VI.</p>
+<p>Níquel.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción molecular.</p>
+<p>Espectrofotometría de absorción atómica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">7440-66-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Zinc.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción atómica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
@@ -2631,75 +2496,37 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de plasma.</p>
+<p>Espectrofotometría de plasma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Biociodas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1912-24-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Atrazina.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases</p>
-</td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">122-34-9</p>
+<p>7439-92-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Simazina.</p>
+<p>Plomo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Espectrofotometría de absorción atómica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
@@ -2707,221 +2534,356 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución.</p>
+<p>Espectrofotometría de plasma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">5915-41-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Terbutilazina.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">1582-09-8</p>
+<p>7782-49-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trifluralina.</p>
+<p>Selenio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Espectrofotometría de absorción atómica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Espectrofotometría de plasma.</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+<td>
+<p>10%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">115-29-7</p>
+<p>18540-29-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Endosulfan.</p>
+<p>Cromo VI.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Espectrofotometría de absorción molecular.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>10%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>7440-66-6</p>
+</td>
+<td>
+<p>Zinc.</p>
+</td>
+<td>
+<p>Espectrofotometría de absorción atómica.</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Espectrofotometría de plasma.</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+<td>
+<p>10%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biociodas.</p>
+</td>
+<td>
+<p>1912-24-9</p>
+</td>
+<td>
+<p>Atrazina.</p>
+</td>
+<td>
+<p>Cromatografía de gases</p>
+</td>
+<td></td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Cromatografía líquida de alta resolución.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>122-34-9</p>
+</td>
+<td>
+<p>Simazina.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Cromatografía líquida de alta resolución.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>5915-41-3</p>
+</td>
+<td>
+<p>Terbutilazina.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Cromatografía líquida de alta resolución.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>1582-09-8</p>
+</td>
+<td>
+<p>Trifluralina.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>115-29-7</p>
+</td>
+<td>
+<p>Endosulfan.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">VOCs</p>
+<p>VOCs</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">71-43-2<br>108-88-3<br>1330-20-7<br>100-41-4<br>71-55-6</p>
+<p>71-43-2<br>108-88-3<br>1330-20-7<br>100-41-4<br>71-55-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benceno<br>Tolueno<br>Xileno<br>Etilbenceno<br>1,1,1-Tricloroetano</p>
+<p>Benceno<br>Tolueno<br>Xileno<br>Etilbenceno<br>1,1,1-Tricloroetano</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases<br>Cromatografía de gases<br>Cromatografía de gases<br>Cromatografía de gases<br>Cromatografía de gases</p>
+<p>Cromatografía de gases<br>Cromatografía de gases<br>Cromatografía de gases<br>Cromatografía de gases<br>Cromatografía de gases</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%<br>25%<br>25%<br>25%<br>25%</p>
+<p>25%<br>25%<br>25%<br>25%<br>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%<br>25%<br>25%<br>25%<br>25%</p>
+<p>25%<br>25%<br>25%<br>25%<br>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%<br>25%<br>25%<br>25%<br>25%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">36643-28-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tributilestaño (TBT.)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%<br>25%<br>25%<br>25%<br>25%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrocarburos aromáticos policíclicos (HPA).</p>
+<p>36643-28-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91-20-3</p>
+<p>Tributilestaño (TBT.)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Naftaleno.</p>
+<p>Cromatografía de gases.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
-<td></td>
 <td>
-<p class="cuerpo_tabla_der">120-12-7</p>
+<p>Hidrocarburos aromáticos policíclicos (HPA).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Antraceno.</p>
+<p>91-20-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Naftaleno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>Cromatografía de gases.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">191-24-2</p>
+<p>120-12-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benzo (g,h,i)perileno.</p>
+<p>Antraceno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Cromatografía de gases.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
@@ -2929,75 +2891,37 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
+<p>Cromatografía líquida de alta resolución</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">50-32-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Benzo(a)pireno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">205-99-2</p>
+<p>191-24-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benzo(b)fluoranteno.</p>
+<p>Benzo (g,h,i)perileno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Cromatografía de gases.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
@@ -3005,75 +2929,37 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
+<p>Cromatografía líquida de alta resolución</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td>
-<p class="cuerpo_tabla_der">207-08-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Benzo(k)fluoranteno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">206-44-0</p>
+<p>50-32-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fluoranteno.</p>
+<p>Benzo(a)pireno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Cromatografía de gases.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
@@ -3081,37 +2967,75 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
+<p>Cromatografía líquida de alta resolución</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>205-99-2</p>
+</td>
+<td>
+<p>Benzo(b)fluoranteno.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Cromatografía líquida de alta resolución</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
 </td>
 </tr>
 <tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_der">193-39-5</p>
+<p>207-08-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indeno(1,2,3,c,d) pireno.</p>
+<p>Benzo(k)fluoranteno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía de gases.</p>
+<p>Cromatografía de gases.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 </tr>
 <tr>
@@ -3119,16 +3043,92 @@ Dos. Se añaden los Anexos I, II y III a la Ley 22/1988, de 28 de julio, de Cost
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_izq">Cromatografía líquida de alta resolución</p>
+<p>Cromatografía líquida de alta resolución</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25%</p>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>206-44-0</p>
+</td>
+<td>
+<p>Fluoranteno.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Cromatografía líquida de alta resolución</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p>193-39-5</p>
+</td>
+<td>
+<p>Indeno(1,2,3,c,d) pireno.</p>
+</td>
+<td>
+<p>Cromatografía de gases.</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>Cromatografía líquida de alta resolución</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
+</td>
+<td>
+<p>25%</p>
 </td>
 </tr>
 </tbody>

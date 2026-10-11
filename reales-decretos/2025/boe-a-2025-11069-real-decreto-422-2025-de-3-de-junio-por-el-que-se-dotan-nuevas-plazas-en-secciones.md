@@ -837,972 +837,964 @@ FÉLIX BOLAÑOS GARCÍA
 
 ## «ANEXO VI — Juzgados de Primera Instancia e Instrucción
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="18%">
-<col width="17%">
-<col width="10%">
-<col width="6%">
-<col width="19%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Provincia</th>
-<th class="cabeza_tabla">Partido Judicial Número</th>
-<th class="cabeza_tabla">Primera Instancia</th>
-<th class="cabeza_tabla">Instrucción</th>
-<th class="cabeza_tabla" colspan="2">Primera Instancia e Instrucción</th>
+<th>Provincia</th>
+<th>Partido Judicial Número</th>
+<th>Primera Instancia</th>
+<th>Instrucción</th>
+<th colspan="2">Primera Instancia e Instrucción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Comunidad Autónoma de Andalucía.</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Cádiz.</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>6</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>3</td>
+<td>5</td>
+<td>5</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>7</td>
+<td>8</td>
+<td>4</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>9</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>10</td>
+<td> </td>
+<td> </td>
+<td>5</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>11</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>13</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>14</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>15</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">19</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>19</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">13</p>
+<td>
+<p>13</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">38</p>
+<td>
+<p>38</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">70</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>70</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">448</p>
+<td> Total Comunidad Autónoma.</td>
+<td> </td>
+<td>
+<p>448</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Comunidad Autónoma de Cantabria.</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td>Cantabria.</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>7</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>3</td>
+<td>13</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">13</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>13</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">4</p>
+<td>
+<p>4</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">18</p>
+<td>
+<p>18</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">35</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>35</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">35</p>
+<td> Total Comunidad Autónoma.</td>
+<td> </td>
+<td>
+<p>35</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Comunitat Valenciana.</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castellón/Castelló.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Castellón/Castelló.</td>
+<td>1</td>
+<td>10</td>
+<td>5</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
+<td> </td>
+<td>6</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td>5</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">10</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>10</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">5</p>
+<td>
+<p>5</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">17</p>
+<td>
+<p>17</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">32</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>32</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">275</p>
+<td> Total Comunidad Autónoma.</td>
+<td> </td>
+<td>
+<p>275</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Comunidad Autónoma de Galicia.</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A Coruña.</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>2</td>
+<td>6</td>
+<td>3</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>3</td>
+<td>6</td>
+<td>3</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4</td>
+<td>16</td>
+<td>7</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>9</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>10</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>11</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>12</td>
+<td> </td>
+<td> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>13</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>14</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">28</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>28</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">13</p>
+<td>
+<p>13</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">22</p>
+<td>
+<p>22</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">63</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>63</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Pontevedra.</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>3</td>
+<td>16</td>
+<td>7</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4</td>
+<td>5</td>
+<td>3</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>9</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>10</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>11</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>12</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>13</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">21</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>21</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">10</p>
+<td>
+<p>10</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">29</p>
+<td>
+<p>29</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">60</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>60</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">165</p>
+<td> Total Comunidad Autónoma.</td>
+<td> </td>
+<td>
+<p>165</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Comunidad de Madrid.</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Madrid.</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>2</td>
+<td>6</td>
+<td>4</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>3</td>
+<td> </td>
+<td> </td>
+<td>8</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>4</td>
+<td>7</td>
+<td>5</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>5</td>
+<td>7</td>
+<td>4</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>6</td>
+<td>9</td>
+<td>5</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>7</td>
+<td> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>9</td>
+<td> </td>
+<td> </td>
+<td>8</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>10</td>
+<td> </td>
+<td> </td>
+<td>8</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">105</td>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>11</td>
+<td>105</td>
+<td>54</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>12</td>
+<td> </td>
+<td> </td>
+<td>8</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>13</td>
+<td> </td>
+<td> </td>
+<td>6</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>14</td>
+<td> </td>
+<td> </td>
+<td>10</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>15</td>
+<td> </td>
+<td> </td>
+<td>8</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>16</td>
+<td> </td>
+<td> </td>
+<td>7</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>17</td>
+<td> </td>
+<td> </td>
+<td>7</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>18</td>
+<td>7</td>
+<td>6</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>19</td>
+<td> </td>
+<td> </td>
+<td>6</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>20</td>
+<td> </td>
+<td> </td>
+<td>8</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>21</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">141</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>141</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">78</p>
+<td>
+<p>78</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">99</p>
+<td>
+<p>99</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">318</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>318</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">318</p>
+<td> Total Comunidad Autónoma.</td>
+<td> </td>
+<td>
+<p>318</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>
 <strong>Comunidad Autónoma del País Vasco.</strong>
 </em>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bizkaia.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Bizkaia.</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>2</td>
+<td>6</td>
+<td>3</td>
+<td> </td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>3</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>4</td>
+<td>17</td>
+<td>11</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Servidos por Magistrados.</td>
+<td> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
+<td>6</td>
+<td>Servidos por Magistrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">23</p>
+<td> Total.</td>
+<td> </td>
+<td>
+<p>23</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">14</p>
+<td>
+<p>14</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">16</p>
+<td>
+<p>16</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Provincial.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">53</p>
+<td> Total Provincial.</td>
+<td> </td>
+<td>
+<p>53</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">100</p>
+<td> Total Comunidad Autónoma.</td>
+<td> </td>
+<td>
+<p>100</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Nacional.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="fondo_oscuro">
-<p class="cuerpo_tabla_centro">2516</p>
+<td> Total Nacional.</td>
+<td> </td>
+<td>
+<p>2516</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">»</td>
+<td> </td>
+<td> </td>
+<td>»</td>
 </tr>
 </tbody>
 </table>

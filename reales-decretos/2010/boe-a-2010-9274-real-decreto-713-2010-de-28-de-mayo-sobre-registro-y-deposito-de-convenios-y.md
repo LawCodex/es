@@ -80,12 +80,6 @@ e) Los acuerdos de adhesión a convenios en vigor.
 
 f) Los planes de igualdad cuya elaboración resulte conforme a los artículos 45 y 46 de la Ley Orgánica 3/2007, de 22 de marzo.
 
-> Téngase en cuenta que esta última actualización de la letra f), establecida por la disposición final 1.2 del Real Decreto 901/2020, de 13 de octubre, [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "f) Los acuerdos sectoriales que establecen los términos y condiciones que han de seguir los planes de igualdad en las empresas, los acuerdos que aprueben planes de igualdad en las empresas afectadas por la negociación colectiva sectorial, así como los acuerdos que aprueben planes de igualdad derivados del convenio colectivo de empresa."
-
 g) Los acuerdos establecidos en empresas españolas de dimensión comunitaria o mundial cuando así se establezca en la normativa de aplicación.
 
 h) Cualquier otro acuerdo o laudo arbitral que tengan legalmente reconocida eficacia de convenio colectivo o que derive de lo establecido en un convenio colectivo.
@@ -172,48 +166,6 @@ El anexo 2.V debe ser cumplimentado por las comisiones negociadoras de los plane
 
 4\. Igualmente deberán ser cumplimentados por la autoridad laboral competente los datos estadísticos e identificativos previstos en los anexos 1 y 2 de este real decreto, correspondientes a las extensiones de convenios, previstas en el artículo 2.3.c) del mismo.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 1.3 del Real Decreto 901/2020, de 13 de octubre, [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. A fin de iniciar el trámite previsto en el artículo 90.2 del Estatuto de los Trabajadores, así como para proceder a la inscripción del resto de los acuerdos y actos inscribibles previstos en el artículo 2 de este real decreto, dentro del plazo de quince días a partir de la firma del convenio o acuerdo colectivo, de la fecha de comunicación de iniciativa de negociaciones o denuncia, la comisión negociadora o quien formule la solicitud, debidamente acreditada, deberá presentar través de medios electrónicos ante el Registro de la autoridad laboral competente la solicitud de inscripción correspondiente.
-
-> A estos efectos, serán solicitantes de la inscripción:
-
-> a) Convenio o acuerdo: la persona designada por la comisión negociadora.
-
-> b) Acuerdos de las comisiones paritarias: la persona designada por la comisión paritaria.
-
-> c) Los laudos arbitrales y los acuerdos de mediación: la persona designada por la comisión negociadora que haya acordado someterse a los mismos. No obstante, si éstos se han acordado en el seno de un sistema de mediación o arbitraje, el órgano de dirección del organismo correspondiente.
-
-> d) Acuerdos en conflictos colectivos o de fin de huelga: la persona designada por las partes en conflicto.
-
-> e) Comunicaciones del artículo 89.1 y las denuncias del artículo 86 del Estatuto de los Trabajadores: quien haya formulado la comunicación o denuncia.
-
-> f) En los casos de comunicaciones de sentencias: la parte legitimada conforme al texto refundido de la Ley de Procedimiento Laboral, aprobado por Real Decreto Legislativo 2/1995, de 7 de abril, que haya impugnado un convenio colectivo, o la parte legitimada conforme a dicha ley que haya interpuesto conflicto colectivo.
-
-> g) Las extensiones de los convenios: la parte que solicite la extensión.
-
-> 2\. En la solicitud de inscripción del convenio colectivo o en su caso, de los acuerdos señalados en el artículo 2.1 de este real decreto, se deberán facilitar todos aquellos datos relativos a las partes firmantes del acuerdo o acto para el que se solicita la inscripción y la fecha de la firma, así como, en su caso, los relativos a su ámbito personal, funcional, territorial y temporal y la actividad o actividades económicas cubiertas por los mismos, conforme se establece en el anexo 1 de este real decreto.
-
-> 3\. Asimismo, se deberán cumplimentar los datos estadísticos recogidos en los modelos oficiales que figuran en el anexo 2 de este real decreto, a efectos de elaboración de la estadística de convenios colectivos.
-
-> Anexo 2.I Hoja estadística de convenios colectivos de empresa
-
-> Anexo 2.II Hoja estadística de convenios colectivos de sector
-
-> Anexo 2.III Revisión por cláusula de «garantía salarial»
-
-> Anexo 2.IV Revisión salarial anual de los convenios plurianuales o de las prorrogas de convenios para los sucesivos años de vigencia.
-
-> Los anexos 2.I y 2.II deben ser cumplimentados obligatoriamente por las comisiones negociadoras a la firma del convenio. En los convenios plurianuales, se cumplimentarán los citados anexos con los datos acordados para la vigencia total del mismo y, respecto a los datos variables (aumento salarial, jornada, cláusula de garantía salarial, número de trabajadores afectados, etc.), exclusivamente los correspondientes al primer año de vigencia.
-
-> El anexo 2.III se cumplimentará exclusiva y obligatoriamente para notificar las revisiones salariales motivadas por la aplicación de la cláusula de «garantía salarial» cuando esta ha tenido efectos retroactivos sobre los salarios pactados y aplicados al principio de cada período.
-
-> El anexo 2.IV se cumplimentará exclusivamente para los sucesivos años de vigencia de los convenios plurianuales o de las prórrogas de los convenios. La cumplimentación es obligatoria, con los datos variables citados, tanto si se han acordado a la firma del convenio como si son objeto de negociación o concreción posterior mediante un acto expreso de la comisión a la que el convenio atribuye esta misión.
-
-> 4\. Igualmente deberán ser cumplimentados por la autoridad laboral competente los datos estadísticos e identificativos previstos en los anexos 1 y 2 de este real decreto, correspondientes a las extensiones de convenios, previstas en el artículo 2.3.c) del mismo."
-
 > Se modifica, con efectos de 14 de enero de 2021, por la disposición final 1.3 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214)
 
 > Se modifica el último párrafo del apartado 3 por la disposición final 3.2 del Real Decreto 1362/2012, de 27 de septiembre. [Ref. BOE-A-2012-12136](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-12136).
@@ -225,14 +177,6 @@ El anexo 2.V debe ser cumplimentado por las comisiones negociadoras de los plane
 a) Texto original del convenio, plan de igualdad, acuerdo o comunicación firmado por los componentes de la comisión negociadora o de la parte que formula la solicitud.
 
 b) Para la inscripción de los planes de igualdad y acuerdos a que se refiere el artículo 2.1.a), b), e) y f) de este real decreto deberán presentarse las actas de las distintas sesiones celebradas, incluyendo las referentes a las de constitución de la comisión negociadora y de firma del convenio y del plan de igualdad, con expresión de las partes que lo suscriban.
-
-> Téngase en cuenta que esta última actualización de las letras a) y b), establecida por la disposición final 1.4 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "a) Texto original del convenio, acuerdo o comunicación firmado por los componentes de la comisión negociadora o de la parte que formula la solicitud.
-
-> b) Para la inscripción de los acuerdos a que se refiere el artículo 2.1.a), b) y e) de este real decreto deberán presentarse las actas de las distintas sesiones celebradas, incluyendo las referentes a las de constitución de la comisión negociadora y de firma del convenio, con expresión de las partes que lo suscriban."
 
 2\. En el caso de las extensiones de convenios previstas en el artículo 2.3.c) de este real decreto, se requerirá a través de medios electrónicos la documentación prevista en el artículo 4 del Real Decreto 718/2005, de 20 de junio, por el que se aprueba el procedimiento de extensión de convenios colectivos.
 
@@ -282,14 +226,6 @@ Una vez que la autoridad laboral competente haya ordenado la inscripción y publ
 
 El código figurará como identificativo del convenio o acuerdo colectivo cuando se proceda a la publicación del convenio o acuerdo colectivo en el boletín oficial correspondiente.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 1.5 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Una vez que la autoridad laboral competente haya ordenado la inscripción y publicación del convenio o acuerdo colectivo le asignará un código conforme a lo establecido en el anexo 3 de este real decreto.
-
-> El código figurará como identificativo del convenio o acuerdo colectivo cuando se proceda a la publicación del convenio o acuerdo colectivo en el boletín oficial correspondiente."
-
 > Se modifica, con efectos de 14 de enero de 2021, por la disposición final 1.5 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214)
 
 ### Artículo 14. Sistemas de firma electrónica admitidos por el registro de convenios y acuerdos colectivos de trabajo.
@@ -314,12 +250,6 @@ b) El otorgamiento de apoderamiento o de representación suficiente y posterior 
 
 ## CAPÍTULO III — Base de datos central de convenios colectivos, acuerdos colectivos de trabajo y planes de igualdad
 
-> Téngase en cuenta que esta última actualización de la denominación del capítulo, establecida por la disposición final 1.6 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Base de datos central de convenios y acuerdos colectivos de trabajo"
-
 > Se modifica la denominación, con efectos de 14 de enero de 2021, por la disposición final 1.6 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214)
 
 ### Artículo 17. Base de datos central de convenios colectivos, acuerdos colectivos de trabajo y planes de igualdad.
@@ -329,18 +259,6 @@ b) El otorgamiento de apoderamiento o de representación suficiente y posterior 
 Igualmente deberán remitir por medios electrónicos, en el plazo de ocho días desde su publicación en los boletines oficiales correspondientes, los enlaces a dichos boletines en los que figure la publicación del texto de los convenios y acuerdos, planes de igualdad o cualquier otra comunicación objeto de publicación.
 
 Esta información integrará la base de datos central de convenios y acuerdos colectivos de trabajo y planes de igualdad, cuya gestión corresponde a la Dirección General de Trabajo del Ministerio de Trabajo y Economía Social.
-
-> Téngase en cuenta que esta última actualización del título y del apartado 1, establecida por la disposición final 1.7 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 17. Base de datos central de convenios y acuerdos colectivos de trabajo
-
-> 1\. Las autoridades laborales competentes en materia de convenios y acuerdos colectivos de trabajo, incluida la Administración General del Estado, deberán de remitir por medios electrónicos a la base de datos centralizada en el plazo de ocho días hábiles todo asiento electrónico practicado en sus respectivos registros, así como los datos estadísticos en aquellos casos en los que así sea necesario.
-
-> Igualmente deberán remitir por medios electrónicos, en el plazo de ocho días desde su publicación en los boletines oficiales correspondientes, los enlaces a dichos boletines en los que figure la publicación del texto de los convenios, acuerdos o cualquier otra comunicación objeto de publicación.
-
-> Esta información integrará la base de datos central de convenios y acuerdos colectivos de trabajo, cuya gestión corresponde a la Dirección General de Trabajo del Ministerio de Trabajo e Inmigración."
 
 2\. La aplicación de la base de datos central deberá permitir que pueda realizarse la consulta y darse acceso público a los datos incorporados a los mismos, con la salvedad de los referentes a la intimidad de las personas según lo determinado en el párrafo siguiente.
 
@@ -355,12 +273,6 @@ Mediante convenio de colaboración entre el Ministerio de Trabajo e Inmigración
 ### Disposición adicional segunda. Depósito de convenios y acuerdos de eficacia limitada y acuerdos de empresa.
 
 Cuando se solicite el depósito de convenios o acuerdos colectivos de eficacia limitada o acuerdos de empresa no incluidos en el artículo 2.1.h) de este real decreto en los registros de las autoridades laborales, deberá remitirse por medios electrónicos el texto del mismo, así como cumplimentar los datos estadísticos e identificativos que figuran en los anexos 1 y 2. Asimismo, se podrá solicitar el depósito de los acuerdos relativos a los protocolos de prevención y actuación ante situaciones de acoso sexual y por razón de sexo conforme a lo previsto en el artículo 48 de la Ley Orgánica 3/2007, de 22 de marzo, y en el presente real decreto.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 1.8 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Cuando se solicite el depósito de convenios o acuerdos colectivos de eficacia limitada o acuerdos de empresa no incluidos en el artículo 2.1.h) de este real decreto en los registros de las autoridades laborales, deberá remitirse por medios electrónicos el texto del mismo, así como cumplimentar los datos estadísticos e identificativos que figuran en los anexos 1 y 2. Asimismo, se podrá solicitar el depósito de los acuerdos que aprueben los planes de igualdad de empresa que carezcan de convenio colectivo propio que y no deriven de lo establecido en un convenio sectorial."
 
 > Se modifica, con efectos de 14 de enero de 2021, por la disposición final 1.8 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214)
 
@@ -397,8 +309,6 @@ d) Respecto de los instrumentos indicados en el apartado 1.d), la persona design
 ### Disposición adicional quinta. Referencias al registro y depósito de convenios y acuerdos colectivos.
 
 Todas las referencias que en el presente real decreto se hagan al registro y depósito de convenios y acuerdos colectivos de trabajo se entenderán hechas al registro y depósito de convenios colectivos, acuerdos colectivos de trabajo y planes de igualdad.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 1.9 del Real Decreto 901/2020, de 13 de octubre, [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según establece su disposición final 3.
 
 > Se añade, con efectos de 14 de enero de 2021, por la disposición final 1.9 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214)
 
@@ -479,29 +389,6 @@ I.4 Código Naturaleza
 17 Acuerdos de empresa para su depósito (D.A.2.ª).
 
 18 Planes de igualdad no acordados (artículo 2.1.f).
-
-> Téngase en cuenta que esta última actualización del apartado I.4, establecida por la disposición final 1.10 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "I.4 Naturaleza:
-
-> | Código | Naturaleza |
-> |---|---|
-> | 01 | Convenio colectivo. |
-> | 02 | Adhesión a convenio o acuerdo colectivo. |
-> | 03 | Laudo arbitral. |
-> | 04 | Acuerdo de mediación. |
-> | 05 | Acuerdo de fin de huelga. |
-> | 06 | Extensión de convenio. |
-> | 07 | Acuerdo Marco. |
-> | 08 | Acuerdo sectorial sobre materias concretas. |
-> | 09 | Acuerdos Interprofesionales. |
-> | 10 | Acuerdos en empresas españolas de dimensión comunitaria o mundial (artículo 2.1.g). |
-> | 11 | Acuerdos sobre planes de Igualdad (artículo 2.1.f). |
-> | 12 | Otros acuerdos inscribibles (artículo 2.1.h). |
-> | 16 | Convenio o Acuerdo de eficacia limitada (D.A.2.ª). |
-> | 17 | Acuerdos de empresa para su depósito (D.A.2.ª)." |
 
 I.4.1 Contenido:
 
@@ -709,60 +596,53 @@ Si marca grupo de empresa se le pedirá:
 
 1.8 Distribución de la plantilla. A la fecha de …...............…
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-<col class="row_column_5">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Sexo</p>
+<p>Sexo</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Número de personas trabajadoras por tipo de contrato</p>
+<p>Número de personas trabajadoras por tipo de contrato</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cabeza_tabla">Indefinido</p>
+<p>Indefinido</p>
 </td>
 <td>
-<p class="cabeza_tabla">Temporal</p>
+<p>Temporal</p>
 </td>
 <td>
-<p class="cabeza_tabla">De puesta a disposición en una empresa usuaria</p>
+<p>De puesta a disposición en una empresa usuaria</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Hombres.</p>
+<p>Hombres.</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres.</p>
+<p>Mujeres.</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Total.</p>
+<p>Total.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -772,60 +652,53 @@ Si marca grupo de empresa se le pedirá:
 </tbody>
 </table>
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_5">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Sexo</p>
+<p>Sexo</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Número de personas trabajadoras por puesto de trabajo</p>
+<p>Número de personas trabajadoras por puesto de trabajo</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cabeza_tabla">Órganos de dirección</p>
+<p>Órganos de dirección</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mandos intermedios</p>
+<p>Mandos intermedios</p>
 </td>
 <td>
-<p class="cabeza_tabla">Resto de la plantilla</p>
+<p>Resto de la plantilla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Hombres.</p>
+<p>Hombres.</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres.</p>
+<p>Mujeres.</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Total.</p>
+<p>Total.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -1177,8 +1050,6 @@ En caso afirmativo, estos indicadores son:
 6.7 ¿Se contempla un procedimiento específico para la revisión de las medidas, en función de los resultados de las evaluaciones, para facilitar el cumplimiento de los objetivos?
 
 6.8 ¿Se prevé la realización de informes de seguimiento?
-
-> Téngase en cuenta que este Anexo, añadido por la disposición final 1.11 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214), entra en vigor el 14 de enero de 2021, según establece su disposición final 3.
 
 > Se añade, con efectos de 14 de enero de 2021, por la disposición final 1.11 del Real Decreto 901/2020, de 13 de octubre. [Ref. BOE-A-2020-12214](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214)
 

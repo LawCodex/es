@@ -500,42 +500,6 @@ Para la obtención de ese justificante de pago será requisito imprescindible qu
 
 7.º La documentación que, en su caso, proceda adjuntar conforme al artículo 7, se enviará, junto con el ejemplar para la entidad colaboradora/Administración del documento de ingreso/devolución, en un sobre ordinario dirigido a la Oficina Nacional de Gestión Tributaria. En dicho sobre se hará constar el número de modelo de autoliquidación (modelo 210), así como la denominación y dirección del órgano antes citado.
 
-> Téngase en cuenta que esta actualización del artículo, establecida por la disposición final 1.3 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453), será aplicable a partir del 1 de junio de 2022, según determina su disposición final 3.b).
-
-> Redacción anterior:
-
-> "**Artículo 14. Procedimiento para la presentación, desde el extranjero, de autoliquidaciones 210 con resultado a ingresar sin certificado electrónico.**
-
-> En el caso de autoliquidaciones modelo 210 con resultado a ingresar, se podrá presentar la autoliquidación, e ingresar la deuda tributaria resultante mediante una transferencia realizada desde el extranjero, con arreglo al siguiente procedimiento:
-
-> a) En el portal de Internet www.agenciatributaria.es de la Agencia Estatal de Administración Tributaria se accederá al formulario ajustado al modelo 210, cumplimentándose a continuación el contenido que corresponda y procediéndose a imprimir dicho formulario y su documento de ingreso con su número de justificante.
-
-> Al cumplimentar el formulario, debe tenerse en cuenta lo siguiente:
-
-> 1.º Debe figurar como persona que realiza la autoliquidación el contribuyente.
-
-> 2.º Debe identificarse la entidad financiera en el extranjero y, en su caso, la cuenta bancaria, desde la que se va a efectuar la transferencia.
-
-> b) A continuación, se realizará el pago de la deuda tributaria resultante de la autoliquidación mediante una transferencia bancaria, en euros, por el importe de dicha deuda, desde una entidad financiera en el extranjero.
-
-> La transferencia irá dirigida a la cuenta bancaria abierta en el Banco de España que se indicará en la dirección electrónica de la Agencia Estatal de Administración Tributaria al cumplimentar el formulario.
-
-> Al realizar la transferencia será requisito imprescindible que se haga constar como «Beneficiario» de la misma el número de justificante del documento de ingreso, obtenido al imprimir la autoliquidación, seguido de la expresión «-AEAT».
-
-> (Beneficiario: 250NNNNNNNNNN-AEAT).
-
-> Asimismo, en el campo «Concepto» se incluirán los siguientes datos, concatenados sin espacios y por este orden (entre paréntesis se indica la longitud de cada uno de ellos; los numéricos se rellenarán con ceros a la izquierda en caso necesario):
-
-> NIF (9), Modelo (3), Ejercicio (2), Anagrama (4), Periodo (2).
-
-> Donde NIF son los 9 dígitos del Número de Identificación Fiscal que tenga el contribuyente asignado en España o bien, si no dispusiera del mismo al cumplimentar el formulario, del Código identificativo, que se le expedirá en ese momento y que será válido a los solos efectos del procedimiento de presentación del modelo. El NIF asignado en España o, en su defecto, el Código identificativo asignado, deberá utilizarse en futuras presentaciones. El Modelo será siempre 210. El Ejercicio serán las 2 últimas cifras del ejercicio fiscal. El Anagrama sólo se utilizará para personas físicas, para personas jurídicas se rellenará con la palabra «JURI». En las instrucciones que se obtengan mediante el servicio de impresión se indicará el contenido concreto del campo «Concepto».
-
-> (Ejemplo de Concepto: XXXXXXXXX21011JURI0A).
-
-> c) Una vez recibido el ingreso y los datos relativos a la transferencia, mediante el número de justificante se asociará con la autoliquidación correspondiente.
-
-> d) La documentación que, en su caso, proceda adjuntar conforme al artículo 7, se enviará, junto con el ejemplar para la entidad colaboradora/Administración del documento de ingreso/devolución, en un sobre ordinario dirigido a la Oficina Nacional de Gestión Tributaria. En dicho sobre se hará constar el número de modelo de autoliquidación (modelo 210), así como la denominación y dirección del órgano antes citado."
-
 > Se modifica, con efectos de 1 de junio de 2022, por la disposición final 1.3 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
 
 ## Artículo 15. Cuestiones relativas a rentas obtenidas por medio de establecimiento permanente.

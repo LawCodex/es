@@ -4436,36 +4436,32 @@ Espacios: Ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Pista polideportiva 44 × 22 mts. |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Espacio formativo</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th>Espacio formativo</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Entorno natural de espeleología.</p>
-<p class="cuerpo_tabla_izq">Espacio singular de características hasta clase V con curso hídrico activo, que podrá estar ubicado en un espacio natural fuera del centro de formación.</p>
+<td>
+<p>Entorno natural de espeleología.</p>
+<p>Espacio singular de características hasta clase V con curso hídrico activo, que podrá estar ubicado en un espacio natural fuera del centro de formación.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">MED-EPEP202: Escuela de espeleología.</p>
-<p class="cuerpo_tabla_izq">MED-EPEP203: Perfeccionamiento técnico de espeleología.</p>
-<p class="cuerpo_tabla_izq">MED-EPEP204: Preparación física del espeleólogo.</p>
-<p class="cuerpo_tabla_izq">MED-EPEP205: Diseño de itinerarios y organización de eventos de tecnificación.</p>
-<p class="cuerpo_tabla_izq">MED-EPEP206: Conducción y guiado por cavidades con curso hídrico activo.</p>
+<td rowspan="3">
+<p>MED-EPEP202: Escuela de espeleología.</p>
+<p>MED-EPEP203: Perfeccionamiento técnico de espeleología.</p>
+<p>MED-EPEP204: Preparación física del espeleólogo.</p>
+<p>MED-EPEP205: Diseño de itinerarios y organización de eventos de tecnificación.</p>
+<p>MED-EPEP206: Conducción y guiado por cavidades con curso hídrico activo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aula Taller.</td>
+<td>Aula Taller.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rocódromo o pared natural de 8 metros de altura y 5 metros de desarrollo horizontal como mínimo, que podrá estar ubicado fuera del centro de formación.</td>
+<td>Rocódromo o pared natural de 8 metros de altura y 5 metros de desarrollo horizontal como mínimo, que podrá estar ubicado fuera del centro de formación.</td>
 </tr>
 </tbody>
 </table>
@@ -4701,27 +4697,23 @@ Condiciones básicas de realización de la prueba de carácter específico: espa
 
 Espacios:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Aula de 60 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">30 alumnos.</td>
+<td>Aula de 60 m<sup>2</sup>.</td>
+<td>30 alumnos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aula de 40 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">20 alumnos.</td>
+<td>Aula de 40 m<sup>2</sup>.</td>
+<td>20 alumnos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Espacio natural o rocódromo:</p>
-<p class="cuerpo_tabla_izq">– Ladera con camino de por lo menos 50 m de longitud.</p>
-<p class="cuerpo_tabla_izq">– Ladera con pendiente herbosa de por lo menos 50 m de longitud.</p>
-<p class="cuerpo_tabla_izq">– Ladera con pedrera de por lo menos 50 m de longitud.</p>
-<p class="cuerpo_tabla_izq">– Pared de por lo menos 8 m de altura y 5 m de desarrollo horizontal.</p>
+<td colspan="2">
+<p>Espacio natural o rocódromo:</p>
+<p>– Ladera con camino de por lo menos 50 m de longitud.</p>
+<p>– Ladera con pendiente herbosa de por lo menos 50 m de longitud.</p>
+<p>– Ladera con pedrera de por lo menos 50 m de longitud.</p>
+<p>– Pared de por lo menos 8 m de altura y 5 m de desarrollo horizontal.</p>
 </td>
 </tr>
 </tbody>
@@ -4885,25 +4877,21 @@ Condiciones básicas de realización de la prueba de carácter específico: espa
 
 Espacios:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Aula de 60 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">30 alumnos.</td>
+<td>Aula de 60 m<sup>2</sup>.</td>
+<td>30 alumnos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aula de 40 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">20 alumnos.</td>
+<td>Aula de 40 m<sup>2</sup>.</td>
+<td>20 alumnos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Espacio natural o rocódromo:</p>
-<p class="cuerpo_tabla_izq">– Pared de por lo menos 8 m de altura y 5 m de desarrollo horizontal.</p>
-<p class="cuerpo_tabla_izq">– Espacio natural acuático.</p>
+<td colspan="2">
+<p>Espacio natural o rocódromo:</p>
+<p>– Pared de por lo menos 8 m de altura y 5 m de desarrollo horizontal.</p>
+<p>– Espacio natural acuático.</p>
 </td>
 </tr>
 </tbody>
@@ -4927,60 +4915,55 @@ Equipamientos y materiales:
 
 Serán impartidas por quienes posean la especialidad que a continuación se detallan:
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col width="35%">
-<col width="30%">
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td>MED-C101.Bases del comportamiento deportivo.</td>
+<td>Educación física</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación física</p>
+<p>Procesos sanitarios</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales</td>
-<td class="cuerpo_tabla_izq">● Profesores Técnicos de Formación Profesional</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105. Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td>Procedimientos sanitarios y asistenciales</td>
+<td>● Profesores Técnicos de Formación Profesional</td>
+</tr>
+<tr>
+<td>MED-C105. Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
+</td>
+</tr>
+<tr>
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación física</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 </tbody>
@@ -5000,174 +4983,164 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detallan:
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col width="35%">
-<col width="30%">
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP102: Conducción por itinerarios de iniciación en espeleología.</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP102: Conducción por itinerarios de iniciación en espeleología.</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP103: Materiales e instalaciones de espeleología.</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP103: Materiales e instalaciones de espeleología.</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP104: Metodología de la enseñanza de la espeleología.</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP104: Metodología de la enseñanza de la espeleología.</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP105: Organización de actividades y eventos</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP105: Organización de actividades y eventos</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP106: Formación práctica</td>
-<td class="cuerpo_tabla_izq">● Educación física</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP106: Formación práctica</td>
+<td>● Educación física</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col width="35%">
-<col width="30%">
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo final</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo final</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP202: Escuela de espeleología</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP202: Escuela de espeleología</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP203: Perfeccionamiento técnico de espeleología.</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesores de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP203: Perfeccionamiento técnico de espeleología.</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesores de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP204: Preparación física del espeleólogo.</td>
-<td class="cuerpo_tabla_izq">● Educación física</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesor de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP204: Preparación física del espeleólogo.</td>
+<td>● Educación física</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesor de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP205: Diseño de itinerarios y organización de eventos de tecnificación.</td>
-<td class="cuerpo_tabla_izq">● Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesor de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP205: Diseño de itinerarios y organización de eventos de tecnificación.</td>
+<td>● Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesor de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP206: Conducción y guiado por cavidades con curso hídrico activo.</td>
-<td class="cuerpo_tabla_izq">●Educación física con el título de Técnico Deportivo en Espeleología</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesor de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP206: Conducción y guiado por cavidades con curso hídrico activo.</td>
+<td>●Educación física con el título de Técnico Deportivo en Espeleología</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesor de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-EPEP207: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">● Educación física</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">● Profesor de Enseñanza Secundaria</p>
+<td rowspan="2">MED-EPEP207: Formación práctica.</td>
+<td>● Educación física</td>
+<td>
+<p>● Catedráticos de Enseñanza Secundaria</p>
+<p>● Profesor de Enseñanza Secundaria</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">● Profesor especialista</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>● Profesor especialista</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -5192,164 +5165,156 @@ La Federación Española de Espeleología emitirá la correspondiente certificac
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
 
-<table class="tabla_ancha" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque común: ciclo inicial y final</p>
+<p>Módulos del bloque común: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col width="45%">
-<col width="55%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo comunes de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo comunes de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">● Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C101. Bases del comportamiento deportivo.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Licenciado o Graduado en Psicología.</p>
+<p>● Maestro especialista en Educación Física.</p>
+<p>● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Medicina.</p>
-<p class="cuerpo_tabla_izq">● Diplomado o Graduado en Enfermería.</p>
-<p class="cuerpo_tabla_izq">● Diplomado o Graduado en Fisioterapia.</p>
+<td>MED-C102. Primeros auxilios.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Licenciado o Graduado en Medicina.</p>
+<p>● Diplomado o Graduado en Enfermería.</p>
+<p>● Diplomado o Graduado en Fisioterapia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105. Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C105. Actividad físico-deportiva para personas con discapacidad.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Maestro especialista en Educación Física.</p>
+<p>● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C104.Organización deportiva.</td>
+<td>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+<td colspan="2">Ciclo final</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">● Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C201. Bases del aprendizaje deportivo.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Licenciado o Graduado en Psicología.</p>
+<p>● Maestro especialista en Educación Física.</p>
+<p>● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C202. Bases del entrenamiento deportivo.</td>
+<td>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206. Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C206. Iniciación deportiva para personas con discapacidad.</td>
+<td>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204.Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Derecho.</p>
+<td>MED-C204.Organización y legislación deportiva.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Licenciado o Graduado en Derecho.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y Género.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C205. Deporte y Género.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Maestro especialista en Educación Física.</p>
+<p>● Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque específico: ciclo inicial y final</p>
+<p>Módulos del bloque específico: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col width="45%">
-<col width="55%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo específico de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP102: Conducción por itinerarios de iniciación en espeleología.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP102: Conducción por itinerarios de iniciación en espeleología.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP103: Materiales e instalaciones de espeleología.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP103: Materiales e instalaciones de espeleología.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP104: Metodología de la enseñanza de la espeleología.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP104: Metodología de la enseñanza de la espeleología.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP105: Organización de actividades y eventos.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP105: Organización de actividades y eventos.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP106: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</p>
+<td>MED-EPEP106: Formación práctica.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Técnico Deportivo en Espeleología</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+<td colspan="2">Ciclo final</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP202: Escuela de espeleología.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP202: Escuela de espeleología.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP203: Perfeccionamiento técnico de espeleología.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP203: Perfeccionamiento técnico de espeleología.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP204: Preparación física del espeleólogo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</p>
+<td>MED-EPEP204: Preparación física del espeleólogo.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Técnico Deportivo en Espeleología</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP205: Diseño de itinerarios y organización de eventos de tecnificación.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP205: Diseño de itinerarios y organización de eventos de tecnificación.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP206: Conducción y guiado por cavidades con curso hídrico activo.</td>
-<td class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</td>
+<td>MED-EPEP206: Conducción y guiado por cavidades con curso hídrico activo.</td>
+<td>● Técnico Deportivo en Espeleología</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EPEP207: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">● Técnico Deportivo en Espeleología</p>
+<td>MED-EPEP207: Formación práctica.</td>
+<td>
+<p>● Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>● Técnico Deportivo en Espeleología</p>
 </td>
 </tr>
 </tbody>

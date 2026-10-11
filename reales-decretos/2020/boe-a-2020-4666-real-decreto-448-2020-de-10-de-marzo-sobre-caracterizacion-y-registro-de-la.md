@@ -378,270 +378,266 @@ LUIS PLANAS PUCHADES
 
 ## ANEXO I — Clasificación general de los tractores agrícolas a efectos de su obligatoriedad de equipamiento con estructuras de protección homologadas
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupos y subgrupos de tractores</p>
+<p>Grupos y subgrupos de tractores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fechas iniciales de obligatoriedad</p>
+<p>Fechas iniciales de obligatoriedad</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>De ruedas</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Típicos:</p>
+<p>Típicos:</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1 Ligeros.</p>
+<p>1.1 Ligeros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1984.</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_izq">1.2 Medios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1980.</p>
+<p>11 de diciembre de 1984.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3 Pesados.</p>
+<p>1.2 Medios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1982.</p>
+<p>11 de diciembre de 1980.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
+<td>
+<p>1.3 Pesados.</p>
+</td>
+<td>
+<p>11 de diciembre de 1982.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Articulados (no estrechos):</p>
+<p>Articulados (no estrechos):</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1 Ligeros.</p>
+<p>2.1 Ligeros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1984.</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_izq">2.2 Medios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1980.</p>
+<p>11 de diciembre de 1984.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3 Pesados.</p>
+<p>2.2 Medios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1982.</p>
+<p>11 de diciembre de 1980.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
+<td>
+<p>2.3 Pesados.</p>
+</td>
+<td>
+<p>11 de diciembre de 1982.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Estrechos. Se incluyen en este grupo los de vía mínima del eje de ruedas motrices, inferior a 1.150 mm:</p>
+<p>Estrechos. Se incluyen en este grupo los de vía mínima del eje de ruedas motrices, inferior a 1.150 mm:</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3.1 Ligeros rígidos.</p>
+<p>3.1 Ligeros rígidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1992 para nuevos tipos.</p>
+<p>1 de julio de 1992 para nuevos tipos.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1993 para nuevas matriculaciones.</p>
+<p>1 de julio de 1993 para nuevas matriculaciones.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3.2 Medios rígidos.</p>
+<p>3.2 Medios rígidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1992 para nuevos tipos.</p>
+<p>1 de julio de 1992 para nuevos tipos.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1993 para nuevas matriculaciones.</p>
+<p>1 de julio de 1993 para nuevas matriculaciones.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3.4 Ligeros articulados.</p>
+<p>3.4 Ligeros articulados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1992 para nuevos tipos.</p>
+<p>1 de julio de 1992 para nuevos tipos.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1993 para nuevas matriculaciones.</p>
+<p>1 de julio de 1993 para nuevas matriculaciones.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3.5 Medios articulados.</p>
+<p>3.5 Medios articulados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1992 para nuevos tipos.</p>
+<p>1 de julio de 1992 para nuevos tipos.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1 de julio de 1993 para nuevas matriculaciones.</p>
+<p>1 de julio de 1993 para nuevas matriculaciones.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Forestales y arrastradores forestales:</p>
+<p>Forestales y arrastradores forestales:</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.0 Extraligeros.</p>
+<p>4.0 Extraligeros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 de enero de 2016 los de masa superior a 400 kg y ancho de vía inferior a 1.150 mm.</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_izq">4.1 Ligeros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1984.</p>
+<p>1 de enero de 2016 los de masa superior a 400 kg y ancho de vía inferior a 1.150 mm.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.2 Medios.</p>
+<p>4.1 Ligeros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1980.</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_izq">4.3 Pesados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1982.</p>
+<p>11 de diciembre de 1984.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
+<td>
+<p>4.2 Medios.</p>
+</td>
+<td>
+<p>11 de diciembre de 1980.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.3 Pesados.</p>
+</td>
+<td>
+<p>11 de diciembre de 1982.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Zancudos. Se incluyen en este grupo los de altura libre máxima superior a 1.000 mm:</p>
+<p>Zancudos. Se incluyen en este grupo los de altura libre máxima superior a 1.000 mm:</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.</p>
+<p>5.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin fecha determinada.</p>
+<p>Sin fecha determinada.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Portadores y otros de estructura especial no preclasificados.</p>
+<p>Portadores y otros de estructura especial no preclasificados.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">X. Incorporables a alguno de los subgrupos anteriores.</p>
+<p>X. Incorporables a alguno de los subgrupos anteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las de los subgrupos correspondientes.</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_izq">9. No incorporables.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Exentos de obligatoriedad.</p>
+<p>Las de los subgrupos correspondientes.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
+<td>
+<p>9. No incorporables.</p>
+</td>
+<td>
+<p>Exentos de obligatoriedad.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>De cadenas</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Típicos:</p>
+<p>Típicos:</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1 Ligeros.</p>
+<p>6.1 Ligeros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 de enero de 2011.</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_izq">6.2 Medios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1983.</p>
+<p>1 de enero de 2011.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.3 Pesados.</p>
+<p>6.2 Medios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">11 de diciembre de 1982.</p>
+<p>11 de diciembre de 1983.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
+<td>
+<p>6.3 Pesados.</p>
+</td>
+<td>
+<p>11 de diciembre de 1982.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">De pantanos y otros de estructura especial no preclasificados:</p>
+<p>De pantanos y otros de estructura especial no preclasificados:</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">X. Incorporables a alguno de los subgrupos anteriores.</p>
+<p>X. Incorporables a alguno de los subgrupos anteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las de los subgrupos correspondientes.</p>
+<p>Las de los subgrupos correspondientes.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9. No incorporables.</p>
+<p>9. No incorporables.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exentos de obligatoriedad.</p>
+<p>Exentos de obligatoriedad.</p>
 </td>
 </tr>
 </tbody>

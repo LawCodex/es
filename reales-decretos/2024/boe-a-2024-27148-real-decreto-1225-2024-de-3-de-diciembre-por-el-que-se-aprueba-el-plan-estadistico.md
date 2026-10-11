@@ -738,128 +738,124 @@ Sección 1.ª Por sector o tema
 | 9655 | Estadística de Fundaciones Sujetas al Protectorado Estatal. |
 | 9656 | Explotación Estadística del Bono Cultural Joven. |
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Sector o tema: Educación y formación</p>
+<p>Sector o tema: Educación y formación</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º de Plan</th>
-<th class="cabeza_tabla">Nombre de la operación estadística en el Plan Estadístico Nacional 2025-2028</th>
+<th>N.º de Plan</th>
+<th>Nombre de la operación estadística en el Plan Estadístico Nacional 2025-2028</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">9681</td>
-<td class="cuerpo_tabla_izq">Estadística de Bibliotecas Escolares.</td>
+<td>9681</td>
+<td>Estadística de Bibliotecas Escolares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9682</td>
-<td class="cuerpo_tabla_izq">Estadística de Personal de las Universidades.</td>
+<td>9682</td>
+<td>Estadística de Personal de las Universidades.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9683</td>
-<td class="cuerpo_tabla_izq">Estadística de Movilidad del Profesorado de Enseñanzas no Universitarias en Centros Públicos.</td>
+<td>9683</td>
+<td>Estadística de Movilidad del Profesorado de Enseñanzas no Universitarias en Centros Públicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9684</td>
-<td class="cuerpo_tabla_izq">Estadística de Gasto Público en Educación.</td>
+<td>9684</td>
+<td>Estadística de Gasto Público en Educación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9685</td>
-<td class="cuerpo_tabla_izq">Estadística de Financiación y Gastos de la Enseñanza Privada.</td>
+<td>9685</td>
+<td>Estadística de Financiación y Gastos de la Enseñanza Privada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9686</td>
-<td class="cuerpo_tabla_izq">Estadística de Financiación y Gasto de las Universidades Públicas Españolas.</td>
+<td>9686</td>
+<td>Estadística de Financiación y Gasto de las Universidades Públicas Españolas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9687</td>
-<td class="cuerpo_tabla_izq">Estadística de Becas y Ayudas al Estudio.</td>
+<td>9687</td>
+<td>Estadística de Becas y Ayudas al Estudio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9688</td>
-<td class="cuerpo_tabla_izq">Encuesta de Gasto de los Hogares en Educación.</td>
+<td>9688</td>
+<td>Encuesta de Gasto de los Hogares en Educación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9689</td>
-<td class="cuerpo_tabla_izq">Estadística de Universidades, Centros y Titulaciones.</td>
+<td>9689</td>
+<td>Estadística de Universidades, Centros y Titulaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9690</td>
-<td class="cuerpo_tabla_izq">Estadística de Enseñanzas no Universitarias (Centros, Matrícula, Graduados y Personal).</td>
+<td>9690</td>
+<td>Estadística de Enseñanzas no Universitarias (Centros, Matrícula, Graduados y Personal).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9691</td>
-<td class="cuerpo_tabla_izq">Estadística del Alumnado de Formación Profesional del Sistema Educativo.</td>
+<td>9691</td>
+<td>Estadística del Alumnado de Formación Profesional del Sistema Educativo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9692</td>
-<td class="cuerpo_tabla_izq">Estadística de las Pruebas de Acceso a la Universidad (PAU).</td>
+<td>9692</td>
+<td>Estadística de las Pruebas de Acceso a la Universidad (PAU).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9693</td>
-<td class="cuerpo_tabla_izq">Estadística de Estudiantes Universitarios.</td>
+<td>9693</td>
+<td>Estadística de Estudiantes Universitarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9694</td>
-<td class="cuerpo_tabla_izq">Estadística de Acción Educativa en el Exterior.</td>
+<td>9694</td>
+<td>Estadística de Acción Educativa en el Exterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9695</td>
-<td class="cuerpo_tabla_izq">Estadística de los Programas Educativos Europeos.</td>
+<td>9695</td>
+<td>Estadística de los Programas Educativos Europeos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9696</td>
-<td class="cuerpo_tabla_izq" colspan="2">Programa para la Evaluación Internacional de Competencias de la Población Adulta (PIAACProgramme for the International Assessment of Adult Competencies de la OCDE).</td>
+<td>9696</td>
+<td colspan="2">Programa para la Evaluación Internacional de Competencias de la Población Adulta (PIAACProgramme for the International Assessment of Adult Competencies de la OCDE).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9697</td>
-<td class="cuerpo_tabla_izq" colspan="2">Encuesta Comunitaria de Formación Profesional Continua.</td>
+<td>9697</td>
+<td colspan="2">Encuesta Comunitaria de Formación Profesional Continua.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9698</td>
-<td class="cuerpo_tabla_izq" colspan="2">Encuesta de Formación en el Trabajo y Formación Bonificada a las Empresas para sus Trabajadores.</td>
+<td>9698</td>
+<td colspan="2">Encuesta de Formación en el Trabajo y Formación Bonificada a las Empresas para sus Trabajadores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9699</td>
-<td class="cuerpo_tabla_izq" colspan="2">Estadística de Formación en el Trabajo y Formación Bonificada a las Empresas para sus Trabajadores.</td>
+<td>9699</td>
+<td colspan="2">Estadística de Formación en el Trabajo y Formación Bonificada a las Empresas para sus Trabajadores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9700</td>
-<td class="cuerpo_tabla_izq" colspan="2">Encuesta sobre la Participación de la Población Adulta en las Actividades de Aprendizaje.</td>
+<td>9700</td>
+<td colspan="2">Encuesta sobre la Participación de la Población Adulta en las Actividades de Aprendizaje.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9701</td>
-<td class="cuerpo_tabla_izq" colspan="2">Encuesta de Transición Educativa-Formativa e Inserción Laboral.</td>
+<td>9701</td>
+<td colspan="2">Encuesta de Transición Educativa-Formativa e Inserción Laboral.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9702</td>
-<td class="cuerpo_tabla_izq" colspan="2">Encuesta de Inserción Laboral de Titulados Universitarios.</td>
+<td>9702</td>
+<td colspan="2">Encuesta de Inserción Laboral de Titulados Universitarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9703</td>
-<td class="cuerpo_tabla_izq" colspan="2">Indicadores Universitarios.</td>
+<td>9703</td>
+<td colspan="2">Indicadores Universitarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9704</td>
-<td class="cuerpo_tabla_izq" colspan="2">Sistema Estatal de Indicadores de la Educación.</td>
+<td>9704</td>
+<td colspan="2">Sistema Estatal de Indicadores de la Educación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9705</td>
-<td class="cuerpo_tabla_izq" colspan="2">Indicadores Estadísticos de la Educación.</td>
+<td>9705</td>
+<td colspan="2">Indicadores Estadísticos de la Educación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9706</td>
-<td class="cuerpo_tabla_izq" colspan="2">Estadística Internacional de los Sistemas de Educación y Formación-Cuestionario UNESCO/OCDE/Eurostat.</td>
+<td>9706</td>
+<td colspan="2">Estadística Internacional de los Sistemas de Educación y Formación-Cuestionario UNESCO/OCDE/Eurostat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9707</td>
-<td class="cuerpo_tabla_izq" colspan="2">Estadística de los Grados A, B y C del Sistema de Formación Profesional.</td>
+<td>9707</td>
+<td colspan="2">Estadística de los Grados A, B y C del Sistema de Formación Profesional.</td>
 </tr>
 </tbody>
 </table>
@@ -1663,69 +1659,64 @@ SECRETARÍA DE ESTADO DE ENERGÍA
 
 Subdirección General de Hidrocarburos y Nuevos Combustibles
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="9%">
-<col width="11%">
-<col width="80%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º Plan</th>
-<th class="cabeza_tabla">N.º IOE</th>
-<th class="cabeza_tabla">Nombre de la operación estadística en el Plan Estadístico Nacional 2025-2028</th>
+<th>N.º Plan</th>
+<th>N.º IOE</th>
+<th>Nombre de la operación estadística en el Plan Estadístico Nacional 2025-2028</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">9133</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_izq">Estadística sobre el Mercado de Productos Petrolíferos</td>
+<td>9133</td>
+<td>–</td>
+<td>Estadística sobre el Mercado de Productos Petrolíferos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Formada por:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>Formada por:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">08013</td>
-<td class="cuerpo_tabla_izq">Estadística del Mercado de Productos Petrolíferos (Mensual)</td>
+<td> </td>
+<td>08013</td>
+<td>Estadística del Mercado de Productos Petrolíferos (Mensual)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">08014</td>
-<td class="cuerpo_tabla_izq">Estadística del Mercado de Productos Petrolíferos (Anual)</td>
+<td> </td>
+<td>08014</td>
+<td>Estadística del Mercado de Productos Petrolíferos (Anual)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9136</td>
-<td class="cuerpo_tabla_centro">08054</td>
-<td class="cuerpo_tabla_izq">Estadística sobre el Mercado de Gas Natural (Mensual)</td>
+<td>9136</td>
+<td>08054</td>
+<td>Estadística sobre el Mercado de Gas Natural (Mensual)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9392</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_izq">Información sobre Precios de Carburantes en Estaciones de Servicio</td>
+<td>9392</td>
+<td>–</td>
+<td>Información sobre Precios de Carburantes en Estaciones de Servicio</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Formada por:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td>Formada por:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">08051</td>
-<td class="cuerpo_tabla_izq">Información sobre Precios de Carburantes en Estaciones de Servicio (Mensual)</td>
+<td> </td>
+<td>08051</td>
+<td>Información sobre Precios de Carburantes en Estaciones de Servicio (Mensual)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">08052</td>
-<td class="cuerpo_tabla_izq" colspan="2">Información sobre Precios de Carburantes en Estaciones de Servicio (Anual)</td>
+<td> </td>
+<td>08052</td>
+<td colspan="2">Información sobre Precios de Carburantes en Estaciones de Servicio (Anual)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9393</td>
-<td class="cuerpo_tabla_centro">08055</td>
-<td class="cuerpo_tabla_izq">Estadística de Información sobre Precios de Importación de Crudo</td>
+<td>9393</td>
+<td>08055</td>
+<td>Estadística de Información sobre Precios de Importación de Crudo</td>
 </tr>
 </tbody>
 </table>
@@ -9146,282 +9137,272 @@ La suma de parciales puede no coincidir con el total debido a la repercusión de
 
 Estimación de los créditos presupuestarios necesarios para financiar las operaciones estadísticas en el cuatrienio 2025-2028 por capítulos presupuestarios (en miles de euros)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Organismos</th>
-<th class="cabeza_tabla" colspan="7">Años 2025-2028</th>
+<th rowspan="2">Organismos</th>
+<th colspan="7">Años 2025-2028</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Capítulo 1 (sin cot. soc. empleador)</th>
-<th class="cabeza_tabla">Capítulo 1 (cotiz. soc. empleador)</th>
-<th class="cabeza_tabla">Capítulo 2</th>
-<th class="cabeza_tabla">Capítulo 4</th>
-<th class="cabeza_tabla">Capítulo 6</th>
-<th class="cabeza_tabla">Capítulo 7</th>
-<th class="cabeza_tabla">Total</th>
+<th>Capítulo 1 (sin cot. soc. empleador)</th>
+<th>Capítulo 1 (cotiz. soc. empleador)</th>
+<th>Capítulo 2</th>
+<th>Capítulo 4</th>
+<th>Capítulo 6</th>
+<th>Capítulo 7</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.</td>
-<td class="cuerpo_tabla_coma">488,92</td>
-<td class="cuerpo_tabla_coma">111,60</td>
-<td class="cuerpo_tabla_coma">2.636,28</td>
-<td class="cuerpo_tabla_coma">132,00</td>
-<td class="cuerpo_tabla_coma">1.200,00</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">4.568,80</td>
+<td>Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.</td>
+<td>488,92</td>
+<td>111,60</td>
+<td>2.636,28</td>
+<td>132,00</td>
+<td>1.200,00</td>
+<td> </td>
+<td>4.568,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.</td>
-<td class="cuerpo_tabla_coma">2.275,70</td>
-<td class="cuerpo_tabla_coma">645,80</td>
-<td class="cuerpo_tabla_coma">4.774,39</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">7.695,89</td>
+<td>Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.</td>
+<td>2.275,70</td>
+<td>645,80</td>
+<td>4.774,39</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>7.695,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Defensa.</td>
-<td class="cuerpo_tabla_coma">493,86</td>
-<td class="cuerpo_tabla_coma">127,66</td>
-<td class="cuerpo_tabla_coma">32,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">653,52</td>
+<td>Ministerio de Defensa.</td>
+<td>493,86</td>
+<td>127,66</td>
+<td>32,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>653,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Hacienda.</td>
-<td class="cuerpo_tabla_coma">45.981,81</td>
-<td class="cuerpo_tabla_coma">12.019,37</td>
-<td class="cuerpo_tabla_coma">919,32</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">3.001,32</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">61.921,81</td>
+<td>Ministerio de Hacienda.</td>
+<td>45.981,81</td>
+<td>12.019,37</td>
+<td>919,32</td>
+<td>0,00</td>
+<td>3.001,32</td>
+<td>0,00</td>
+<td>61.921,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio del Interior.</td>
-<td class="cuerpo_tabla_coma">5.271,92</td>
-<td class="cuerpo_tabla_coma">1.087,33</td>
-<td class="cuerpo_tabla_coma">343,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">6.702,25</td>
+<td>Ministerio del Interior.</td>
+<td>5.271,92</td>
+<td>1.087,33</td>
+<td>343,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>6.702,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Transportes y Movilidad Sostenible.</td>
-<td class="cuerpo_tabla_coma">6.883,61</td>
-<td class="cuerpo_tabla_coma">1.444,45</td>
-<td class="cuerpo_tabla_coma">124,20</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">8.925,04</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">17.377,30</td>
+<td>Ministerio de Transportes y Movilidad Sostenible.</td>
+<td>6.883,61</td>
+<td>1.444,45</td>
+<td>124,20</td>
+<td>0,00</td>
+<td>8.925,04</td>
+<td>0,00</td>
+<td>17.377,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Educación, Formación Profesional y Deportes.</td>
-<td class="cuerpo_tabla_coma">3.829,88</td>
-<td class="cuerpo_tabla_coma">989,09</td>
-<td class="cuerpo_tabla_coma">917,00</td>
-<td class="cuerpo_tabla_coma">130,32</td>
-<td class="cuerpo_tabla_coma">420,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">6.286,29</td>
+<td>Ministerio de Educación, Formación Profesional y Deportes.</td>
+<td>3.829,88</td>
+<td>989,09</td>
+<td>917,00</td>
+<td>130,32</td>
+<td>420,00</td>
+<td>0,00</td>
+<td>6.286,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Trabajo y Economía Social.</td>
-<td class="cuerpo_tabla_coma">4.476,95</td>
-<td class="cuerpo_tabla_coma">1.113,95</td>
-<td class="cuerpo_tabla_coma">232,72</td>
-<td class="cuerpo_tabla_coma">332,92</td>
-<td class="cuerpo_tabla_coma">1.160,60</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">7.317,14</td>
+<td>Ministerio de Trabajo y Economía Social.</td>
+<td>4.476,95</td>
+<td>1.113,95</td>
+<td>232,72</td>
+<td>332,92</td>
+<td>1.160,60</td>
+<td>0,00</td>
+<td>7.317,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Industria y Turismo.</td>
-<td class="cuerpo_tabla_coma">1.840,45</td>
-<td class="cuerpo_tabla_coma">359,56</td>
-<td class="cuerpo_tabla_coma">18,30</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">132,48</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">2.350,79</td>
+<td>Ministerio de Industria y Turismo.</td>
+<td>1.840,45</td>
+<td>359,56</td>
+<td>18,30</td>
+<td>0,00</td>
+<td>132,48</td>
+<td>0,00</td>
+<td>2.350,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Agricultura, Pesca y Alimentación.</td>
-<td class="cuerpo_tabla_coma">4.253,87</td>
-<td class="cuerpo_tabla_coma">1.094,06</td>
-<td class="cuerpo_tabla_coma">14,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">36.966,39</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">42.328,32</td>
+<td>Ministerio de Agricultura, Pesca y Alimentación.</td>
+<td>4.253,87</td>
+<td>1.094,06</td>
+<td>14,00</td>
+<td>0,00</td>
+<td>36.966,39</td>
+<td>0,00</td>
+<td>42.328,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Política Territorial y Memoria Democrática.</td>
-<td class="cuerpo_tabla_coma">596,00</td>
-<td class="cuerpo_tabla_coma">126,16</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">722,16</td>
+<td>Ministerio de Política Territorial y Memoria Democrática.</td>
+<td>596,00</td>
+<td>126,16</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>722,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio para la Transición Ecológica y el Reto Demográfico.</td>
-<td class="cuerpo_tabla_coma">6.193,22</td>
-<td class="cuerpo_tabla_coma">1.469,22</td>
-<td class="cuerpo_tabla_coma">2.017,66</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">37.442,25</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">47.122,35</td>
+<td>Ministerio para la Transición Ecológica y el Reto Demográfico.</td>
+<td>6.193,22</td>
+<td>1.469,22</td>
+<td>2.017,66</td>
+<td>0,00</td>
+<td>37.442,25</td>
+<td>0,00</td>
+<td>47.122,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Vivienda y Agenda Urbana.</td>
-<td class="cuerpo_tabla_coma">587,10</td>
-<td class="cuerpo_tabla_coma">151,76</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">738,86</td>
+<td>Ministerio de Vivienda y Agenda Urbana.</td>
+<td>587,10</td>
+<td>151,76</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>738,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Cultura.</td>
-<td class="cuerpo_tabla_coma">1.637,32</td>
-<td class="cuerpo_tabla_coma">429,80</td>
-<td class="cuerpo_tabla_coma">1.600,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">3.667,12</td>
+<td>Ministerio de Cultura.</td>
+<td>1.637,32</td>
+<td>429,80</td>
+<td>1.600,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.667,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Economía, Comercio y Empresa.</td>
-<td class="cuerpo_tabla_coma">7.550,13</td>
-<td class="cuerpo_tabla_coma">1.444,15</td>
-<td class="cuerpo_tabla_coma">603,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">19,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">9.616,28</td>
+<td>Ministerio de Economía, Comercio y Empresa.</td>
+<td>7.550,13</td>
+<td>1.444,15</td>
+<td>603,00</td>
+<td>0,00</td>
+<td>19,00</td>
+<td>0,00</td>
+<td>9.616,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Sanidad.</td>
-<td class="cuerpo_tabla_coma">5.572,55</td>
-<td class="cuerpo_tabla_coma">1.412,86</td>
-<td class="cuerpo_tabla_coma">6.339,28</td>
-<td class="cuerpo_tabla_coma">5.099,92</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">18.424,61</td>
+<td>Ministerio de Sanidad.</td>
+<td>5.572,55</td>
+<td>1.412,86</td>
+<td>6.339,28</td>
+<td>5.099,92</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>18.424,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Derechos Sociales, Consumo y Agenda 2030.</td>
-<td class="cuerpo_tabla_coma">1.483,66</td>
-<td class="cuerpo_tabla_coma">338,28</td>
-<td class="cuerpo_tabla_coma">1.262,69</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">3.084,63</td>
+<td>Ministerio de Derechos Sociales, Consumo y Agenda 2030.</td>
+<td>1.483,66</td>
+<td>338,28</td>
+<td>1.262,69</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.084,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Ciencia, Innovación y Universidades.</td>
-<td class="cuerpo_tabla_coma">2.934,24</td>
-<td class="cuerpo_tabla_coma">539,76</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">3.474,00</td>
+<td>Ministerio de Ciencia, Innovación y Universidades.</td>
+<td>2.934,24</td>
+<td>539,76</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>3.474,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Igualdad.</td>
-<td class="cuerpo_tabla_coma">396,61</td>
-<td class="cuerpo_tabla_coma">118,31</td>
-<td class="cuerpo_tabla_coma">500,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">1.014,92</td>
+<td>Ministerio de Igualdad.</td>
+<td>396,61</td>
+<td>118,31</td>
+<td>500,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>1.014,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Inclusión, Seguridad Social y Migraciones.</td>
-<td class="cuerpo_tabla_coma">4.685,78</td>
-<td class="cuerpo_tabla_coma">1.031,39</td>
-<td class="cuerpo_tabla_coma">12,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">5.729,16</td>
+<td>Ministerio de Inclusión, Seguridad Social y Migraciones.</td>
+<td>4.685,78</td>
+<td>1.031,39</td>
+<td>12,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>5.729,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio para la Transformación Digital y de la Función Pública.</td>
-<td class="cuerpo_tabla_coma">458,00</td>
-<td class="cuerpo_tabla_coma">47,96</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">379,60</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">885,56</td>
+<td>Ministerio para la Transformación Digital y de la Función Pública.</td>
+<td>458,00</td>
+<td>47,96</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>379,60</td>
+<td>0,00</td>
+<td>885,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ministerio de Juventud e Infancia.</td>
-<td class="cuerpo_tabla_coma">393,40</td>
-<td class="cuerpo_tabla_coma">113,52</td>
-<td class="cuerpo_tabla_coma">320,20</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">827,12</td>
+<td>Ministerio de Juventud e Infancia.</td>
+<td>393,40</td>
+<td>113,52</td>
+<td>320,20</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>827,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consejo General del Poder Judicial.</td>
-<td class="cuerpo_tabla_coma">2.903,32</td>
-<td class="cuerpo_tabla_coma">40,33</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">1.261,17</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">4.204,82</td>
+<td>Consejo General del Poder Judicial.</td>
+<td>2.903,32</td>
+<td>40,33</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>1.261,17</td>
+<td>0,00</td>
+<td>4.204,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instituto Nacional de Estadística.</td>
-<td class="cuerpo_tabla_coma">278.615,28</td>
-<td class="cuerpo_tabla_coma">80.978,76</td>
-<td class="cuerpo_tabla_coma">3.489,58</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">40.800,13</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">403.883,75</td>
+<td>Instituto Nacional de Estadística.</td>
+<td>278.615,28</td>
+<td>80.978,76</td>
+<td>3.489,58</td>
+<td>0,00</td>
+<td>40.800,13</td>
+<td>0,00</td>
+<td>403.883,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_coma">389.803,59</td>
-<td class="cuerpo_tabla_coma">107.235,11</td>
-<td class="cuerpo_tabla_coma">26.155,62</td>
-<td class="cuerpo_tabla_coma">5.695,16</td>
-<td class="cuerpo_tabla_coma">131.707,98</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">660.597,45</td>
+<td> Total.</td>
+<td>389.803,59</td>
+<td>107.235,11</td>
+<td>26.155,62</td>
+<td>5.695,16</td>
+<td>131.707,98</td>
+<td>0,00</td>
+<td>660.597,45</td>
 </tr>
 </tbody>
 </table>

@@ -92,18 +92,6 @@ Las disposiciones de esta ley serán de aplicación general en todo tipo de proc
 
 En la aplicación de esta Ley deberán tomarse en consideración las necesidades específicas de las personas que se encuentren en situación de vulnerabilidad.
 
-> Téngase en cuenta que esta última actualización establecida por la disposición final 1.1 de la por Ley 3/2018, de 11 de junio. [Ref. BOE-A-2018-7831](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7831), entra en vigor el 1 de octubre de 2018, según determina su disposición final sexta:
-
-> Redacción aterior.
-
-> **"Artículo 1. Objeto de la Ley.**
-
-> La presente Ley tiene por objeto determinar el contenido y alcance del derecho a la asistencia jurídica gratuita al que se refiere el artículo 119 de la Constitución y regular el procedimiento para su reconocimiento y efectividad.
-
-> El servicio de asistencia jurídica gratuita será obligatorio en los términos previstos en esta ley. Los Colegios profesionales podrán organizar el servicio y dispensar al colegiado cuando existan razones que lo justifiquen.
-
-> Las disposiciones de esta ley serán de aplicación general en todo tipo de procesos judiciales, incluidos los recursos de amparo constitucional, la vía administrativa previa cuando así se establezca en la legislación específica, así como el asesoramiento previo al proceso contemplado en el apartado 1 del artículo 6."
-
 > Se añade el último párrafo, con efectos de 1 de octubre de 2018, por la disposición final 1.1 de la por Ley 3/2018, de 11 de junio. [Ref. BOE-A-2018-7831](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7831)
 
 > Se modifica por el art. único.1 de la Ley 2/2017, de 21 de junio. [Ref. BOE-A-2017-7106](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7106)
@@ -145,18 +133,6 @@ Este derecho asistirá también a los causahabientes en caso de fallecimiento de
 A los efectos de la concesión del beneficio de justicia gratuita, la condición de víctima se adquirirá cuando se formule denuncia o querella, o se inicie un procedimiento penal, por alguno de los delitos a que se refiere esta letra, y se mantendrá mientras permanezca en vigor el procedimiento penal o cuando, tras su finalización, se hubiere dictado sentencia condenatoria. El beneficio de justifica gratuita se perderá tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo o provisional por no resultar acreditados los hechos delictivos, sin la obligación de abonar el coste de las prestaciones disfrutadas gratuitamente hasta ese momento.
 
 En los distintos procesos que puedan iniciarse como consecuencia de la condición de víctima de los delitos a que se refiere esta letra y, en especial, en los de violencia de género, deberá ser el mismo abogado el que asista a aquella, siempre que con ello se garantice debidamente su derecho de defensa.
-
-> Téngase en cuenta que esta letra h), modificada por la disposición final 10.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de octubre de 2025 según establece su disposición final 38.3.
-
-> Redacción anterior:
-
-> "h) Con independencia de la existencia de recursos para litigar, se reconoce el derecho de asistencia jurídica gratuita, que se les prestará de inmediato, a las víctimas de violencia de género, de terrorismo y de trata de seres humanos en aquellos procesos que tengan vinculación, deriven o sean consecuencia de su condición de víctimas, así como a las personas menores de edad y las personas con discapacidad necesitadas de especial protección cuando sean víctimas de delitos de homicidio, de lesiones de los artículos 149 y 150, en el delito de maltrato habitual previsto en el artículo 173.2, en los delitos contra la libertad, en los delitos contra la libertad e indemnidad sexual y en los delitos de trata de seres humanos.
-
-> Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima, siempre que no fueran partícipes en los hechos.
-
-> A los efectos de la concesión del beneficio de justicia gratuita, la condición de víctima se adquirirá cuando se formule denuncia o querella, o se inicie un procedimiento penal, por alguno de los delitos a que se refiere esta letra, y se mantendrá mientras permanezca en vigor el procedimiento penal o cuando, tras su finalización, se hubiere dictado sentencia condenatoria. El beneficio de justifica gratuita se perderá tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo o provisional por no resultar acreditados los hechos delictivos, sin la obligación de abonar el coste de las prestaciones disfrutadas gratuitamente hasta ese momento.
-
-> En los distintos procesos que puedan iniciarse como consecuencia de la condición de víctima de los delitos a que se refiere esta letra y, en especial, en los de violencia de género, deberá ser el mismo abogado el que asista a aquella, siempre que con ello se garantice debidamente su derecho de defensa."
 
 i) Con independencia de la existencia de recursos para litigar, se reconoce el derecho de asistencia jurídica gratuita a quienes a causa de un accidente acrediten secuelas permanentes que les impidan totalmente la realización de las tareas de su ocupación laboral o profesional habitual y requieran la ayuda de otras personas para realizar las actividades más esenciales de la vida diaria, cuando el objeto del litigio sea la reclamación de indemnización por los daños personales y morales sufridos.
 
@@ -277,8 +253,6 @@ El Juez o Tribunal podrá acordar en resolución motivada que la asistencia peri
 10\. Los derechos arancelarios a que se refieren los apartados 8 y 9 no se percibirán cuando el interesado acredite ingresos por debajo del indicador público de renta de efectos múltiples.
 
 11\. La asistencia gratuita de profesional de la abogacía en cualquiera de los medios adecuados de solución de controversias permitidos por la ley que tenga por objeto dar cumplimiento al requisito de procedibilidad dispuesto en el artículo 5 de la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, cuando en el eventual proceso judicial la intervención de este profesional sea legalmente preceptiva o cuando, no siéndolo, la parte contraria actúe con él.
-
-> Téngase en cuenta que esta apartado 11, añadido por disposición final 10.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
 
 > Se añade el apartado 11, con efectos de 3 de abril de 2025, por la disposición final 10.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -482,8 +456,6 @@ El secretario judicial o el órgano administrativo comunicará dicha resolución
 
 5\. Las resoluciones que denieguen el derecho a la designación de nuevo profesional podrán ser impugnadas por el beneficiario de la asistencia jurídica gratuita, en los términos del artículo 20.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 1.3 de la por Ley 3/2018, de 11 de junio. [Ref. BOE-A-2018-7831](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7831), entra en vigor el 1 de octubre de 2018, según determina su disposición final sexta.
-
 > Se añade, con efectos de 1 de octubre de 2018, por la disposición final 2.3 de la Ley 3/2018, de 11 de junio. [Ref. BOE-A-2018-7831](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7831)
 
 ## CAPÍTULO III — Organización de los servicios de asistencia letrada, defensa y representación gratuitas
@@ -609,12 +581,6 @@ En el orden penal y respecto de los condenados no cabrá formular insostenibilid
 ##### Artículo 36. Condena en costas.
 
 1\. Si en la resolución que ponga fin al proceso hubiera pronunciamiento sobre costas, a favor de quien obtuvo el reconocimiento del derecho a la asistencia jurídica gratuita o de quien lo tuviera legalmente reconocido, deberá la parte contraria abonar las costas causadas en la defensa y representación de aquella, debiendo ser abonadas directamente a las personas profesionales que se hayan designado para su representación y dirección jurídica, quienes estarán legitimadas para instar su tasación y que estarán obligadas a devolver las cantidades eventualmente percibidas con cargo a fondos públicos por su intervención en el proceso. A tales efectos, se comunicará por la Oficina judicial a los colegios profesionales correspondientes dicha circunstancia.
-
-> Téngase en cuenta que este apartado 1, modificado por la disposición final 10.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Si en la resolución que ponga fin al proceso hubiera pronunciamiento sobre costas, a favor de quien obtuvo el reconocimiento del derecho a la asistencia jurídica gratuita o de quien lo tuviera legalmente reconocido, deberá la parte contraria abonar las costas causadas en la defensa y representación de aquélla."
 
 2\. Cuando en la resolución que ponga fin al proceso fuera condenado en costas quien hubiera obtenido el reconocimiento del derecho a la asistencia jurídica gratuita o quien lo tuviera legalmente reconocido, éste quedará obligado a pagar las causadas en su defensa y las de la parte contraria, si dentro de los tres años siguientes a la terminación del proceso viniere a mejor fortuna, quedando mientras tanto interrumpida la prescripción del artículo 1.967 del Código Civil. Se presume que ha venido a mejor fortuna cuando sus ingresos y recursos económicos por todos los conceptos superen el doble del módulo previsto en el artículo 3, o si se hubieran alterado sustancialmente las circunstancias y condiciones tenidas en cuenta para reconocer el derecho conforme a la presente Ley. Le corresponderá a la Comisión la declaración de si el beneficiario ha venido a mejor fortuna conforme a lo dispuesto en el artículo 19, pudiendo ser impugnada la resolución que dicte en la forma prevista en el artículo 20.
 

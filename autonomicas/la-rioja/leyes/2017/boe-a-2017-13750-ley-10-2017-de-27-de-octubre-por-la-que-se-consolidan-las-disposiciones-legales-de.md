@@ -288,42 +288,36 @@ En el caso de líneas eléctricas de evacuación de tensión igual o superior a 
 
 2\. En el caso de los parques eólicos, la cuota tributaria resultará de aplicar a la base imponible las siguientes tarifas por aerogenerador:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Potencia instalada por aerogenerador</th>
-<th class="cabeza_tabla" colspan="3">Número de aerogeneradores</th>
+<th rowspan="2">Potencia instalada por aerogenerador</th>
+<th colspan="3">Número de aerogeneradores</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">De 1 a 5</th>
-<th class="cabeza_tabla">De 6 a 10</th>
-<th class="cabeza_tabla">11 o más</th>
+<th>De 1 a 5</th>
+<th>De 6 a 10</th>
+<th>11 o más</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 1 MW (incluido).</td>
-<td class="cuerpo_tabla_coma">650 euros</td>
-<td class="cuerpo_tabla_coma">850 euros</td>
-<td class="cuerpo_tabla_coma">1.050 euros</td>
+<td>Hasta 1 MW (incluido).</td>
+<td>650 euros</td>
+<td>850 euros</td>
+<td>1.050 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desde 1 MW hasta 5 MW (incluido).</td>
-<td class="cuerpo_tabla_coma">800 euros</td>
-<td class="cuerpo_tabla_coma">1.000 euros</td>
-<td class="cuerpo_tabla_coma">1.200 euros</td>
+<td>Desde 1 MW hasta 5 MW (incluido).</td>
+<td>800 euros</td>
+<td>1.000 euros</td>
+<td>1.200 euros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desde 5 MW.</td>
-<td class="cuerpo_tabla_coma">950 euros</td>
-<td class="cuerpo_tabla_coma">1.150 euros</td>
-<td class="cuerpo_tabla_coma">1.350 euros</td>
+<td>Desde 5 MW.</td>
+<td>950 euros</td>
+<td>1.150 euros</td>
+<td>1.350 euros</td>
 </tr>
 </tbody>
 </table>

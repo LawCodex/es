@@ -4574,54 +4574,40 @@ Este importe podrá modificarse reglamentariamente.
 
 2\. Con efectos a partir del 1 de enero de 2023, se suprimen los dos primeros tramos de la tabla de porcentajes de retención sobre rendimientos del trabajo con carácter general, recogida en el artículo 71.Uno del Reglamento del Impuesto sobre la Renta de la Personas Físicas, aprobado Decreto Foral 174/1999, de 24 de mayo, pasando el primer tramo a ser el siguiente:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Rendimiento anual en euros</th>
-<th class="cabeza_tabla" colspan="11">Número de hijos y otros descendientes</th>
+<th>Rendimiento anual en euros</th>
+<th colspan="11">Número de hijos y otros descendientes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Más de 14.500</td>
-<td class="cuerpo_tabla_centro">Sin hijos</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">10 o más</td>
+<td rowspan="2">Más de 14.500</td>
+<td>Sin hijos</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10 o más</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">4,0</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
+<td>8,0</td>
+<td>6,0</td>
+<td>4,0</td>
+<td>2,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 </tbody>
 </table>

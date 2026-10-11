@@ -524,127 +524,122 @@ Estas barreras se dispondrán intercaladas entre el cultivo, siendo obligatoria 
 
 Cuadro n.º 1. Barreras a implantar en parcelas (unidades de explotación)
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cabeza_tabla">Pendiente media del terreno</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<p>Pendiente media del terreno</p>
+<p>–</p>
+<p>Porcentaje</p>
 </td>
 <td>
-<p class="cabeza_tabla">Separación máxima entre barreras</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">(m)</p>
+<p>Separación máxima entre barreras</p>
+<p>–</p>
+<p>(m)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Anchura mínima de las barreras</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">(m)</p>
+<p>Anchura mínima de las barreras</p>
+<p>–</p>
+<p>(m)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">Parcelas con una superficie menor o igual a 2 hectáreas</p>
+<p>Parcelas con una superficie menor o igual a 2 hectáreas</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 5</p>
+<p>&lt; 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">No se aplica</p>
+<p>No se aplica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">5-10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1-2</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">&gt; 10</p>
+<p>5-10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2-3</p>
+<p>1-2</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
+<td>
+<p>&gt; 10</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>2-3</p>
+</td>
+</tr>
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">Parcelas con una superficie superior a 2 hectáreas</p>
+<p>Parcelas con una superficie superior a 2 hectáreas</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 3</p>
+<p>&lt; 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400</p>
+<p>400</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">1-2</p>
+<p>1-2</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3-5</p>
+<p>3-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">6-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>200</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">8-10</p>
+<p>6-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>100</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">11-15</p>
+<p>8-10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11-15</p>
+</td>
+<td>
+<p>40</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2-3</p>
+<p>2-3</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">&gt; 15</p>
+<p>&gt; 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 </tr>
 </tbody>
@@ -674,503 +669,499 @@ Como norma general, los arbustos y árboles deberán de suponer al menos el 50% 
 
 Cuadro n.º 2. Listado de especies básicas con interés en el control de las escorrentías, captación de nutrientes y mejora de la biodiversidad
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_4">
-<col class="row_column_9">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">Nombre vulgar</p>
+<p>Nombre vulgar</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre científico</p>
+<p>Nombre científico</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Arbolado</p>
+<p>Arbolado</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Algarrobo</p>
+<p>Algarrobo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ceratonia siliqua.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Ciprés de Cartagena</p>
+<p>Ciprés de Cartagena</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Tetraclinis articulata.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cornicabra</p>
+<p>Cornicabra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Pistacia terebinthus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Granado</p>
+<p>Granado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Punica granatum.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Higuera</p>
+<p>Higuera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ficus carica.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Olivo</p>
+<p>Olivo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Olea europea.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Olmo</p>
+<p>Olmo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ulmus minor.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Palmera datilera</p>
+<p>Palmera datilera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Phoenix dactylifera.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pino carrasco</p>
+<p>Pino carrasco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Pinus halepensis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pino piñonero</p>
+<p>Pino piñonero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Pinus pinea.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Arbustos</p>
+<p>Arbustos</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Acebuche</p>
+<p>Acebuche</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Olea europaea var. sylvestris.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Adelfa; baladre</p>
+<p>Adelfa; baladre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nerium oleander.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Ajedrea; olivardilla</p>
+<p>Ajedrea; olivardilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Satureja obovata.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Aladierno</p>
+<p>Aladierno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Rhamnus alaternus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arto, Azufaifo</p>
+<p>Arto, Azufaifo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ziziphus lotus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arto negro</p>
+<p>Arto negro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Maytenus senegalensis </em>subsp. europea.</p>
+<p><em>Maytenus senegalensis </em>subsp. europea.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Bayón</p>
+<p>Bayón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Osyris lanceolata.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Boalaga</p>
+<p>Boalaga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Thymelaea hirsuta.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cambrón</p>
+<p>Cambrón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Lycium intrincatum.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cornical</p>
+<p>Cornical</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Periploca laevigata </em>subsp. angustifolia.</p>
+<p><em>Periploca laevigata </em>subsp. angustifolia.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Coscoja</p>
+<p>Coscoja</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Quercus coccifera.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Efedra</p>
+<p>Efedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ephedra fragilis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Enebro albar</p>
+<p>Enebro albar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Juniperus oxycedrus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Espino negro</p>
+<p>Espino negro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Rhamnus lycioides.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Espino negro</p>
+<p>Espino negro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Rhamnus oleoides </em>ssp. angustifolia.</p>
+<p><em>Rhamnus oleoides </em>ssp. angustifolia.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gurullos</p>
+<p>Gurullos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Anabasis hispanica.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Jara</p>
+<p>Jara</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cistus albidus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Lavanda; Espliego</p>
+<p>Lavanda; Espliego</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Lavandula spp.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Lentisco</p>
+<p>Lentisco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Pistacia lentiscus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Madroño</p>
+<p>Madroño</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Arbutus unedo.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Madreselva</p>
+<p>Madreselva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Lonicera implexa.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mejorana</p>
+<p>Mejorana</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Thymus mastichina.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mirto</p>
+<p>Mirto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Myrtus communis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Palmito</p>
+<p>Palmito</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Chamaerops humilis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Salsola</p>
+<p>Salsola</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Salsola vermiculata.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Retama</p>
+<p>Retama</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Retama sphaerocarpa.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Romero</p>
+<p>Romero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Rosmarinus officinalis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Salvia</p>
+<p>Salvia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Salvia officinalis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Santolina</p>
+<p>Santolina</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Santolina chamaecyparissus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Salao</p>
+<p>Salao</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Atriplex halinus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Taray</p>
+<p>Taray</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Tamarix canariensis </em>y<em> T. boveana.</em></p>
+<p><em>Tamarix canariensis </em>y<em> T. boveana.</em></p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Taray</p>
+<p>Taray</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Tamarix canariensis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Tomillo</p>
+<p>Tomillo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Thymus vulgaris </em>y<em> T. hyemalis.</em></p>
+<p><em>Thymus vulgaris </em>y<em> T. hyemalis.</em></p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Labiérnago</p>
+<p>Labiérnago</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Phillyrea angustifolia.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Planta herbácea</p>
+<p>Planta herbácea</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Albardín</p>
+<p>Albardín</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Lygeum spartum.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Esparraguera blanca</p>
+<p>Esparraguera blanca</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Asparagus albus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Esparto</p>
+<p>Esparto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Stipa tenacissima.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Hinojo</p>
+<p>Hinojo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Foeniculum vulgare.</em>
 </p>
 </td>
@@ -1180,148 +1171,144 @@ Cuadro n.º 2. Listado de especies básicas con interés en el control de las es
 
 Cuadro n.º 3. Listado de especies con interés en conservación de enemigos naturales
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_4">
-<col class="row_column_9">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">Nombre vulgar</p>
+<p>Nombre vulgar</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre científico</p>
+<p>Nombre científico</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Arbustos</p>
+<p>Arbustos</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Boalaga</p>
+<p>Boalaga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Thymelaea hirsuta.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Espino negro; Arto</p>
+<p>Espino negro; Arto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Rhamnus lycioides.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Lavanda</p>
+<p>Lavanda</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Lavandula dentata.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Lentisco</p>
+<p>Lentisco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Pistacia lentiscus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Romero</p>
+<p>Romero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Rosmarinus officinalis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Salvia</p>
+<p>Salvia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Salvia officinalis.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Tomillo</p>
+<p>Tomillo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Thymus vulgaris.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Manrrubio</p>
+<p>Manrrubio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ballota hirsuta.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Candelera (especies ibéricas)</p>
+<p>Candelera (especies ibéricas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Phlomis spp.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Santolina</p>
+<p>Santolina</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Santolina chamaecyparissus.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Planta herbácea</p>
+<p>Planta herbácea</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Chupamieles</p>
+<p>Chupamieles</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Echium spp.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Borraga</p>
+<p>Borraga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Borago officinalis.</em>
 </p>
 </td>
@@ -1505,358 +1492,353 @@ En el caso de plantones de especies leñosas las aportaciones de N mineral será
 
 Tabla 2. Dosis máximas de nitrógeno (kg N/t) <sup>1</sup>
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_14">
-<col class="row_column_15">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Cultivo <sup>2</sup></p>
+<p>Cultivo <sup>2</sup></p>
 </td>
 <td>
-<p class="cabeza_tabla">Coeficiente de extracción</p>
-<p class="cabeza_tabla">(kg N/t)</p>
+<p>Coeficiente de extracción</p>
+<p>(kg N/t)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">Hortalizas al aire libre.</p>
+<p>Hortalizas al aire libre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apio.</p>
+<p>Apio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,5-6,5</p>
+<p>3,5-6,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcachofa.</p>
+<p>Alcachofa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8-12</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Bróculi.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12-15</p>
+<p>8-12</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Coliflor.</p>
+<p>Bróculi.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8-12</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Lechuga.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5-4</p>
+<p>12-15</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Otras lechugas.</p>
+<p>Coliflor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3-5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Melón.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,5-5</p>
+<p>8-12</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Sandía.</p>
+<p>Lechuga.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,5-3</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Tomate.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5-4</p>
+<p>2,5-4</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pimiento.</p>
+<p>Otras lechugas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3-4,5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Cebolla.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2-3,5</p>
+<p>3-5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Berenjena.</p>
+<p>Melón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3-4,5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Acelga.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5-7</p>
+<p>3,5-5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Coles.</p>
+<p>Sandía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5-7</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Espinaca.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,5-6</p>
+<p>2,5-3</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Calabacín.</p>
+<p>Tomate.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4-5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Habas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,5-5</p>
+<p>2,5-4</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Hinojo.</p>
+<p>Pimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,5-3,5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Escarola.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4-5</p>
+<p>3-4,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Ajo.</p>
+<p>Cebolla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-7,5</p>
+<p>2-3,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>Berenjena.</p>
+</td>
+<td>
+<p>3-4,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Acelga.</p>
+</td>
+<td>
+<p>5-7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Coles.</p>
+</td>
+<td>
+<p>5-7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Espinaca.</p>
+</td>
+<td>
+<p>4,5-6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calabacín.</p>
+</td>
+<td>
+<p>4-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Habas.</p>
+</td>
+<td>
+<p>3,5-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hinojo.</p>
+</td>
+<td>
+<p>2,5-3,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escarola.</p>
+</td>
+<td>
+<p>4-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ajo.</p>
+</td>
+<td>
+<p>6-7,5</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Hortalizas invernadero.</p>
+<p>Hortalizas invernadero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tomate.</p>
+<p>Tomate.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,5-4</p>
+<p>2,5-4</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pimiento.</p>
+<p>Pimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3-4,5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Melón.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,5-5</p>
+<p>3-4,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Calabacín.</p>
+<p>Melón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4-5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Tubérculos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patata.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3-4,5</p>
+<p>3,5-5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Industriales.</p>
+<p>Calabacín.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pimiento pimentón.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5-7</p>
+<p>4-5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>Tubérculos.</p>
+</td>
+<td>
+<p>Patata.</p>
+</td>
+<td>
+<p>3-4,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Industriales.</p>
+</td>
+<td>
+<p>Pimiento pimentón.</p>
+</td>
+<td>
+<p>5-7</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Frutales de hueso.</p>
+<p>Frutales de hueso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albaricoquero.</p>
+<p>Albaricoquero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,5-5</p>
+<p>3,5-5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Ciruelo.</p>
+<p>Ciruelo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,5-5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Melocotonero.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3-4,5</p>
+<p>3,5-5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>Melocotonero.</p>
+</td>
+<td>
+<p>3-4,5</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Frutal pepita.</p>
+<p>Frutal pepita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3-4</p>
+<p>3-4</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Frutos secos (almendro) <sup>3</sup>.</p>
+<p>Frutos secos (almendro) <sup>3</sup>.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35-45</p>
+<p>35-45</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Cítricos.</p>
+<p>Cítricos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Limonero.</p>
+<p>Limonero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,8-6</p>
+<p>4,8-6</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Naranjo.</p>
+<p>Naranjo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,8-7</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Mandarino.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,8-7,5</p>
+<p>4,8-7</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>Mandarino.</p>
+</td>
+<td>
+<p>4,8-7,5</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Vid.</p>
+<p>Vid.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vinificación.</p>
+<p>Vinificación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7-8,5</p>
+<p>7-8,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mesa.</p>
+<p>Mesa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2-3,5</p>
+<p>2-3,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Olivar.</p>
+<p>Olivar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11-20</p>
+<p>11-20</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Cereal.</p>
+<p>Cereal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Maíz.</p>
+<p>Maíz.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22-27</p>
+<p>22-27</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Resto cereales.</p>
+<p>Resto cereales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20-40</p>
+<p>20-40</p>
 </td>
 </tr>
 </tbody>
@@ -1893,119 +1875,113 @@ Tabla 3. Factor de agotamiento de nitratos en función del Nmin<sub>i</sub> del 
 
 Tabla 4. Nitrógeno procedente de la nitrificación del humus del suelo
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_21">
-<col class="row_column_22">
-<col class="row_column_22">
-<col class="row_column_22">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Materia orgánica del suelo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<p>Materia orgánica del suelo</p>
+<p>–</p>
+<p>Porcentaje</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Nitrógeno anual disponible (kg N/ha)</p>
+<p>Nitrógeno anual disponible (kg N/ha)</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cabeza_tabla">Arenoso</p>
+<p>Arenoso</p>
 </td>
 <td>
-<p class="cabeza_tabla">Franco</p>
+<p>Franco</p>
 </td>
 <td>
-<p class="cabeza_tabla">Arcilloso</p>
+<p>Arcilloso</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10-15</p>
+<p>10-15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7-12</p>
+<p>7-12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5-10</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20-30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15-25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10-20</p>
+<p>5-10</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30-45</p>
+<p>20-30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22-37</p>
+<p>15-25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15-30</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">2,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40-60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30-50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20-40</p>
+<p>10-20</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55-80</p>
+<p>30-45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37-62</p>
+<p>22-37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25-50</p>
+<p>15-30</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3,0</p>
+<p>2,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75-90</p>
+<p>40-60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60-70</p>
+<p>30-50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30-60</p>
+<p>20-40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>55-80</p>
+</td>
+<td>
+<p>37-62</p>
+</td>
+<td>
+<p>25-50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3,0</p>
+</td>
+<td>
+<p>75-90</p>
+</td>
+<td>
+<p>60-70</p>
+</td>
+<td>
+<p>30-60</p>
 </td>
 </tr>
 </tbody>
@@ -2254,301 +2230,294 @@ No obstante, aquellas explotaciones extensivas o semiextensivas que en el proced
 
 Tabla 9. Producción de deyecciones ganaderas
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_39">
-<col class="row_column_40">
-<col class="row_column_41">
-<col class="row_column_35">
-<col class="row_column_42">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Actividad ganadera</p>
+<p>Actividad ganadera</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Edad/peso</p>
+<p>Edad/peso</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Producción de estiércol y/o purín</p>
+<p>Producción de estiércol y/o purín</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nitrógeno excretado</p>
+<p>Nitrógeno excretado</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cabeza_tabla">m<sup>3</sup> plaza/año</p>
+<p>m<sup>3</sup> plaza/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">t/año</p>
+<p>t/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">kg N</p>
-<p class="cabeza_tabla">plaza/año</p>
+<p>kg N</p>
+<p>plaza/año</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">Porcino</p>
+<p>Porcino</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cerda en ciclo cerrado <sup>1</sup>.</p>
+<p>Cerda en ciclo cerrado <sup>1</sup>.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17,75</p>
+<p>17,75</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">67,17</p>
+<p>67,17</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerda con lechones hasta destete (0-6 kg).</p>
+<p>Cerda con lechones hasta destete (0-6 kg).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,10</p>
+<p>5,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,28</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Cerda con lechones hasta 20 kg.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18,90</p>
+<p>15,28</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerda de reposición.</p>
+<p>Cerda con lechones hasta 20 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>6,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,5</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Lechones de 6 a 20 kg.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,41</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>18,90</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerdo de 20 a 50 kg.</p>
+<p>Cerda de reposición.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,80</p>
+<p>2,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,31</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Cerdo de 50 a 100 kg.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,05</p>
+<p>8,5</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cerdo de 20 a 100 kg.</p>
+<p>Lechones de 6 a 20 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,15</p>
+<p>0,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,25</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Verracos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,93</p>
+<p>1,8</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Vacuno leche</p>
+<p>Cerdo de 20 a 50 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vaca de ordeño.</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65,24</p>
+<p>6,31</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>Cerdo de 50 a 100 kg.</p>
+</td>
+<td>
+<p>2,50</p>
+</td>
+<td>
+<p>8,05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cerdo de 20 a 100 kg.</p>
+</td>
+<td>
+<p>2,15</p>
+</td>
+<td>
+<p>7,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Verracos.</p>
+</td>
+<td>
+<p>5,11</p>
+</td>
+<td>
+<p>15,93</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vacuno leche</p>
+</td>
+<td>
+<p>Vaca de ordeño.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>21,75</p>
+</td>
+<td>
+<p>65,24</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Terneros cebadero</p>
+<p>Terneros cebadero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ternero cebo &lt; 12 meses.</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,20</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Bovino cebo &gt; 12 meses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13,23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52,92</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">Gallinas puesta, pollos y pavos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por animal.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,78</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Caprino intensivo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cabras cubiertas sin partos.</p>
+<p>Ternero cebo &lt; 12 meses.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">1,46</p>
+<td>
+<p>4,20</p>
 </td>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">6</p>
+<td>
+<p>25,20</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cabras paridas y machos cabríos.</p>
+<p>Bovino cebo &gt; 12 meses.</p>
+</td>
+<td>
+<p>13,23</p>
+</td>
+<td>
+<p>52,92</p>
 </td>
 </tr>
-<tr class="row_column_7">
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Ovino intensivo</p>
+<tr>
+<td>
+<p>Gallinas puesta, pollos y pavos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cebadero de corderos.</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>Por animal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,94</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,76</p>
+<p>0,25</p>
+</td>
+<td>
+<p>0,78</p>
 </td>
 </tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">Ovejas cubiertas sin partos</p>
-<p class="cuerpo_tabla_izq">Ovejas paridas y moruecos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,50</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Equino</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Adultos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45,90</p>
-</td>
-</tr>
-<tr class="row_column_7">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Conejo</p>
+<p>Caprino intensivo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gazapos.</p>
+<p>Cabras cubiertas sin partos.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>1,46</p>
 </td>
-<td>
-<p class="cuerpo_tabla_centro">0,31</p>
+<td rowspan="2">
+<p>6</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Adultos.</p>
+<p>Cabras paridas y machos cabríos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Ovino intensivo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,61</p>
+<p>Cebadero de corderos.</p>
+</td>
+<td rowspan="2">
+<p>–</p>
+</td>
+<td>
+<p>0,94</p>
+</td>
+<td>
+<p>3,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ovejas cubiertas sin partos</p>
+<p>Ovejas paridas y moruecos.</p>
+</td>
+<td>
+<p>2,10</p>
+</td>
+<td>
+<p>8,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Equino</p>
+</td>
+<td>
+<p>Adultos.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>45,90</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Conejo</p>
+</td>
+<td>
+<p>Gazapos.</p>
+</td>
+<td rowspan="2">
+<p>–</p>
+</td>
+<td rowspan="2">
+<p>–</p>
+</td>
+<td>
+<p>0,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adultos.</p>
+</td>
+<td>
+<p>2,61</p>
 </td>
 </tr>
 </tbody>

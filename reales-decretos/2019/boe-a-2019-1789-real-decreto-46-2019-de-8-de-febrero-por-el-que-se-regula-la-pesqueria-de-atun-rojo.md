@@ -240,54 +240,50 @@ c) Ningún buque incluido en las listas del artículo 3.1 y que forme parte del 
 
 a) La cuota del apartado 1 a) 1.º se destinará a los buques y almadrabas incluidos en las listas a), b), c), d) y e) definidas en el artículo 3.1, representando la historicidad de las capturas el 60 % conforme al artículo 32.2 a) de la Ley 5/2023, de 17 de marzo, y el 40 % los criterios de las letras b), d) y e) de dicho artículo 32.2.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Distribución de la cuota entre las flotas de las listas a), b), c), d) y e)</p>
+<p>Distribución de la cuota entre las flotas de las listas a), b), c), d) y e)</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Flotas</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Porcentaje cuota inicial asignada para cada grupo respecto al 87,5954 %</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<th>Flotas</th>
+<th>
+<p>Porcentaje cuota inicial asignada para cada grupo respecto al 87,5954 %</p>
+<p>–</p>
+<p>Porcentaje</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Flota cebo vivo del Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_coma">21,77671</td>
+<td>Flota cebo vivo del Cantábrico y Noroeste.</td>
+<td>21,77671</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Flota del Estrecho.</td>
-<td class="cuerpo_tabla_coma">8,75583</td>
+<td>Flota del Estrecho.</td>
+<td>8,75583</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Flota de palangre y línea de mano.</td>
-<td class="cuerpo_tabla_coma">13,85004</td>
+<td>Flota de palangre y línea de mano.</td>
+<td>13,85004</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Flota cerco del Mediterráneo.</td>
-<td class="cuerpo_tabla_coma">28,37763</td>
+<td>Flota cerco del Mediterráneo.</td>
+<td>28,37763</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almadrabas.</td>
-<td class="cuerpo_tabla_coma">27,23979</td>
+<td>Almadrabas.</td>
+<td>27,23979</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total flotas a), b), c), d), e) artículo 3*.</td>
-<td class="cuerpo_tabla_coma">100</td>
+<td>Total flotas a), b), c), d), e) artículo 3*.</td>
+<td>100</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">* Se debe adicionar un 0,0228 % de la cuota del apartado a) para la almadraba de pequeños túnidos en el Mediterráneo, que no forma parte de la lista e) del artículo 3.</p>
+<p>* Se debe adicionar un 0,0228 % de la cuota del apartado a) para la almadraba de pequeños túnidos en el Mediterráneo, que no forma parte de la lista e) del artículo 3.</p>
 </td>
 </tr>
 </tfoot>
@@ -331,73 +327,69 @@ En el caso de la pesca fortuita, la persona titular de la Secretaría General de
 
 > a) El 87,1501 % de cuota española se destinará a los buques y almadrabas incluidos en los grupos a), b), c), d) y e) del censo específico de atún rojo del artículo 3, ponderándose los criterios consignados en el apartado 1 con la distribución del 60 % atendiendo a la historicidad de capturas conforme al artículo 27.3 a) de la Ley 3/2001, de 26 de marzo, y de los Reglamentos (CE) n.º 1380/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, y (UE) 2016/1627 del Parlamento Europeo y el Consejo de 14 de septiembre de 2016, y del 40 % para los criterios socioeconómicos y de dependencia de los apartados 3 c) y 4 de dicho artículo 27 y socioeconómicos de los meritados reglamentos de la Unión. A la lista de almadrabas se le adicionará, conforme el apartado 1 b), un 0,0231 % para la almadraba de túnidos menores del Mediterráneo.
 
-> <table class="tabla_b_sica">
-> <colgroup>
-> <col class="row_column_1">
-> <col class="row_column_2">
-> </colgroup>
+> <table>
 > <thead>
-> <tr class="row_column_3">
+> <tr>
 > <td colspan="2">
-> <p class="cabeza_tabla">Distribución de la cuota entre las flotas de las listas a), b), c), d) y e)</p>
+> <p>Distribución de la cuota entre las flotas de las listas a), b), c), d) y e)</p>
 > </td>
 > </tr>
-> <tr class="row_column_4">
+> <tr>
 > <td>
-> <p class="cabeza_tabla">Flotas</p>
+> <p>Flotas</p>
 > </td>
 > <td>
-> <p class="cabeza_tabla">Porcentaje cuota inicial asignada para cada grupo respecto al 87,1501 %</p>
+> <p>Porcentaje cuota inicial asignada para cada grupo respecto al 87,1501 %</p>
 > </td>
 > </tr>
 > </thead>
 > <tbody>
-> <tr class="row_column_5">
+> <tr>
 > <td>
-> <p class="cuerpo_tabla_izq">Flota cebo vivo del Cantábrico y Noroeste</p>
+> <p>Flota cebo vivo del Cantábrico y Noroeste</p>
 > </td>
 > <td>
-> <p class="cuerpo_tabla_der">22,2203</p>
-> </td>
-> </tr>
-> <tr class="row_column_6">
-> <td>
-> <p class="cuerpo_tabla_izq">Flota cañas y línea de mano del Estrecho</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">6,8993</p>
+> <p>22,2203</p>
 > </td>
 > </tr>
-> <tr class="row_column_6">
+> <tr>
 > <td>
-> <p class="cuerpo_tabla_izq">Flota de palangre y línea de mano</p>
+> <p>Flota cañas y línea de mano del Estrecho</p>
 > </td>
 > <td>
-> <p class="cuerpo_tabla_der">14,1313</p>
-> </td>
-> </tr>
-> <tr class="row_column_6">
-> <td>
-> <p class="cuerpo_tabla_izq">Flota cerco del Mediterráneo</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">28,9554</p>
+> <p>6,8993</p>
 > </td>
 > </tr>
-> <tr class="row_column_6">
+> <tr>
 > <td>
-> <p class="cuerpo_tabla_izq">Almadrabas</p>
+> <p>Flota de palangre y línea de mano</p>
 > </td>
 > <td>
-> <p class="cuerpo_tabla_der">27,7937</p>
+> <p>14,1313</p>
 > </td>
 > </tr>
-> <tr class="row_column_5">
+> <tr>
 > <td>
-> <p class="cuerpo_tabla_izq">Total flotas a), b), c), d), e) artículo 3</p>
+> <p>Flota cerco del Mediterráneo</p>
 > </td>
 > <td>
-> <p class="cuerpo_tabla_der">100</p>
+> <p>28,9554</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p>Almadrabas</p>
+> </td>
+> <td>
+> <p>27,7937</p>
+> </td>
+> </tr>
+> <tr>
+> <td>
+> <p>Total flotas a), b), c), d), e) artículo 3</p>
+> </td>
+> <td>
+> <p>100</p>
 > </td>
 > </tr>
 > </tbody>

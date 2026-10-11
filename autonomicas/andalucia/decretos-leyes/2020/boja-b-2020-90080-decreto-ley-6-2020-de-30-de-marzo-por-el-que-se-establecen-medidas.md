@@ -611,68 +611,63 @@ Quince. Se modifica el Anexo III que queda redactado como sigue:
 
 > BAREMO PARA LA ADJUDICACIÓN DE RECURSO POR MOTIVO DE EMERGENCIA SOCIAL POR CAUSAS DERIVADAS DEL COVID-19
 
-> <table class="tabla">
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Área</th>
-> <th class="cabeza_tabla">Situación</th>
-> <th class="cabeza_tabla">Puntuación</th>
+> <th>Área</th>
+> <th>Situación</th>
+> <th>Puntuación</th>
 > </tr>
 > </thead>
-> <colgroup>
-> <col width="20%">
-> <col width="60%">
-> <col width="20%">
-> </colgroup>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="8">Convivencia</td>
-> <td class="cuerpo_tabla_izq">Vive Sola.</td>
-> <td class="cuerpo_tabla_centro">7</td>
+> <td rowspan="8">Convivencia</td>
+> <td>Vive Sola.</td>
+> <td>7</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">La persona que le presta atención, es empleada pública de los servicios declarados esenciales de la Junta de Andalucía.</td>
-> <td class="cuerpo_tabla_centro" rowspan="7">9</td>
+> <td>La persona que le presta atención, es empleada pública de los servicios declarados esenciales de la Junta de Andalucía.</td>
+> <td rowspan="7">9</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Para el caso que el servicio esencial sea perteneciente a la Consejería de Salud y Familias (+3 puntos).</td>
+> <td>– Para el caso que el servicio esencial sea perteneciente a la Consejería de Salud y Familias (+3 puntos).</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Para el caso que el servicio esencial sea centro Hospitalario o Centro de Salud (+2 puntos).</td>
+> <td>– Para el caso que el servicio esencial sea centro Hospitalario o Centro de Salud (+2 puntos).</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Para el caso que el servicio esencial sea Salud Responde o línea 900 (+1 punto).</td>
+> <td>– Para el caso que el servicio esencial sea Salud Responde o línea 900 (+1 punto).</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Para el caso que el servicio esencial sea perteneciente a la Consejería de Igualdad, Políticas Sociales y Conciliación (+2 puntos).</td>
+> <td>– Para el caso que el servicio esencial sea perteneciente a la Consejería de Igualdad, Políticas Sociales y Conciliación (+2 puntos).</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Para el caso que el servicio esencial sea Centro Residencial para personas mayores o con discapacidad (+2 puntos).</td>
+> <td>– Para el caso que el servicio esencial sea Centro Residencial para personas mayores o con discapacidad (+2 puntos).</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Para el caso que el servicio esencial sea Servicio de Teleasistencia (+1 punto).</td>
+> <td>– Para el caso que el servicio esencial sea Servicio de Teleasistencia (+1 punto).</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Familia</td>
-> <td class="cuerpo_tabla_izq">No tiene hijas/os.</td>
-> <td class="cuerpo_tabla_centro">7</td>
+> <td rowspan="3">Familia</td>
+> <td>No tiene hijas/os.</td>
+> <td>7</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Tiene hijas/os pero tiene falta de auxilio por causas derivadas del COVID-19.</td>
-> <td class="cuerpo_tabla_centro">10</td>
+> <td>Tiene hijas/os pero tiene falta de auxilio por causas derivadas del COVID-19.</td>
+> <td>10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Su cuidador/a principal no puede atender a su cuidado de manera transitoria por causas derivadas del COVID-19.</td>
-> <td class="cuerpo_tabla_centro">9</td>
+> <td>Su cuidador/a principal no puede atender a su cuidado de manera transitoria por causas derivadas del COVID-19.</td>
+> <td>9</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Vivienda</td>
-> <td class="cuerpo_tabla_izq">No dispone de vivienda con carácter estable.</td>
-> <td class="cuerpo_tabla_centro">6</td>
+> <td rowspan="2">Vivienda</td>
+> <td>No dispone de vivienda con carácter estable.</td>
+> <td>6</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Zona rural aislada y necesita modificar su lugar residencia por causas derivadas del COVID-19.</td>
-> <td class="cuerpo_tabla_centro">9</td>
+> <td>Zona rural aislada y necesita modificar su lugar residencia por causas derivadas del COVID-19.</td>
+> <td>9</td>
 > </tr>
 > </tbody>
 > </table>

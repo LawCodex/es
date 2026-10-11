@@ -179,41 +179,37 @@ c) La descripción de la acción 7.27 queda redactada como sigue:
 
 Diez. En la tabla del anexo V se incluyen las filas siguientes:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_6">
-<col class="row_column_7">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_8">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">«Producto</p>
+<p>«Producto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe de ayuda (€/100 kg)</p>
+<p>Importe de ayuda (€/100 kg)</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cabeza_tabla">Distribución gratuita</p>
+<p>Distribución gratuita</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mora.</p>
+<p>Mora.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">260,04</p>
+<p>260,04</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Papaya.</p>
+<p>Papaya.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 32,38</p>
+<p> 32,38</p>
 </td>
 </tr>
 </tbody>
@@ -283,73 +279,67 @@ a) En la tabla 1 de la parte b) se incluyen las columnas siguientes y una nota a
 
 b) En la tabla 2 de la parte b) se incluyen las filas siguientes:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_13">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_8">
+<tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Compensación (€/ha)</p>
+<p>Compensación (€/ha)</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cabeza_tabla">Secano</p>
+<p>Secano</p>
 </td>
 <td>
-<p class="cabeza_tabla">Regadío aire libre</p>
+<p>Regadío aire libre</p>
 </td>
 <td>
-<p class="cabeza_tabla">Regadío protegido</p>
+<p>Regadío protegido</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Arándano.</p>
+<p>Arándano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16.010</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Frambuesa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16.373</p>
+<p>16.010</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mora.</p>
+<p>Frambuesa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15.920</p>
+<p>16.373</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mora.</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>15.920</p>
 </td>
 </tr>
 </tbody>
@@ -589,61 +579,45 @@ Quince. El anexo VI queda redactado como sigue:
 
 ## «ANEXO VI — Lista provisional de programas de promoción del vino en países terceros seleccionados por la comunidad autónoma
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_14">
-<col class="row_column_15">
-<col class="row_column_16">
-<col class="row_column_17">
-<col class="row_column_18">
-<col class="row_column_9">
-<col class="row_column_19">
-<col class="row_column_20">
-<col class="row_column_20">
-<col class="row_column_20">
-<col class="row_column_20">
-<col class="row_column_21">
-<col class="row_column_21">
-<col class="row_column_21">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_8">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Ejercicio FEAGA</p>
+<p>Ejercicio FEAGA</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º de programa</p>
+<p>N.º de programa</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Total puntos</p>
+<p>Total puntos</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">NIF</p>
+<p>NIF</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Tipo beneficiario</p>
+<p>Tipo beneficiario</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Presupuesto total ejercicio FEAGA XXX</p>
+<p>Presupuesto total ejercicio FEAGA XXX</p>
 </td>
 <td colspan="7">
-<p class="cabeza_tabla">Puntuación: Criterios priorización</p>
+<p>Puntuación: Criterios priorización</p>
 </td>
 </tr>
-<tr class="row_column_22">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">1. Proponente</p>
+<p>1. Proponente</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">2. Programa</p>
+<p>2. Programa</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_23">
+<tr>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -652,25 +626,25 @@ Quince. El anexo VI queda redactado como sigue:
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a</p>
+<p>a</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b</p>
+<p>b</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">c</p>
+<p>c</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">d</p>
+<p>d</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a</p>
+<p>a</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b</p>
+<p>b</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">c</p>
+<p>c</p>
 </td>
 </tr>
 </tbody>
@@ -694,39 +668,33 @@ Diecisiete. Se añade una nueva parte C al anexo XXIII:
 
 «Parte C) Estimación pagos pendientes
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_28">
-<col class="row_column_13">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_26">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Comunidad autónoma</p>
+<p>Comunidad autónoma</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Estimación pagos FEAGA año en curso</p>
+<p>Estimación pagos FEAGA año en curso</p>
 </td>
 <td>
-<p class="cabeza_tabla">Estimación pagos FEAGA año siguiente</p>
+<p>Estimación pagos FEAGA año siguiente</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cabeza_tabla">Convocatoria ‘‘X’’</p>
+<p>Convocatoria ‘‘X’’</p>
 </td>
 <td>
-<p class="cabeza_tabla">Convocatoria ‘‘Y’’</p>
+<p>Convocatoria ‘‘Y’’</p>
 </td>
 <td>
-<p class="cabeza_tabla">Convocatoria ‘‘Y’’»</p>
+<p>Convocatoria ‘‘Y’’»</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_23">
+<tr>
 <td>
 <p> </p>
 <p> </p>

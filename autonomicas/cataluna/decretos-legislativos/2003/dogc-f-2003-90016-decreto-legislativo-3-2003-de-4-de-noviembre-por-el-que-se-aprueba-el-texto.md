@@ -1569,8 +1569,6 @@ Para determinar la parte fija de la cuota, cuando el suministro se realice y fac
 
 5\. La determinación de la cuota en los usos agrícolas o ganaderos y en los usos industriales para producir energía eléctrica se rige por lo previsto en el artículo 74.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.4 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 1 de enero de 2026, según establece su disposición final 1.
-
 > Se añade por el art. 2.4 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Este artículo entra en vigor el 1 de enero de 2026, según establece la disposición final 1 de citado Decreto-ley
@@ -1623,78 +1621,6 @@ En particular, en los supuestos de captaciones para abastecimiento a terceros, l
 
 4\. En cualquier caso, la Administración puede imponer la instalación de dispositivos de control de caudal o de contaminación cuando haga falta para la planificación hidrológica y la consecución de objetivos de ahorro y de calidad del agua. En este caso, se deben establecer las medidas de fomento y las líneas de ayuda compensatorias.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.5 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 1 de enero de 2026, según establece su disposición final 1.
-
-> Redacción anterior:
-
-> "Artículo 67. Base imponible.
-
-> 1\. La base imponible está constituida, en general, por el volumen de agua utilizado o, si no se conoce, por el volumen de agua estimado, expresado, en cualquier caso, en metros cúbicos. En los casos de usos de agua para el abastecimiento a terceros, se entiende que el volumen de agua utilizado incluye el volumen de agua captado del medio, el entregado por terceros y el producido en instalaciones de tratamiento de agua marina.
-
-> 2\. Son mínimos de facturación, a los efectos del régimen economicofinanciero que establece esta Ley:
-
-> a) 6 metros cúbicos por usuario o usuaria y mes.
-
-> b) 3 metros cúbicos por plaza y mes para los establecimientos hoteleros.
-
-> c) 3 metros cúbicos por unidad de acampada y mes para los establecimientos de camping.
-
-> 3\. En los casos de contadores o sistemas de aforo colectivos, deben considerarse tantos mínimos de facturación como viviendas estén conectados al mismo, excepto los supuestos en que se trate de contadores colectivos de agua utilizada para el cumplimiento de criterios ambientales y de ecoeficiencia en los edificios.
-
-> 4\. En los supuestos de usos industriales de agua y asimilables vinculados con actividades económicas de carácter estacional, y siempre que el periodo de funcionamiento de la actividad sea inferior a siete meses al año, los mínimos de facturación tienen que fijarse de acuerdo con las fórmulas que se determinen por reglamento, y en función de cualquiera de las magnitudes siguientes:
-
-> a) Tipo de actividad, según la CCAE-93.
-
-> b) Número de plazas y de unidades de acampada, en el caso de establecimientos hoteleros y de campings.
-
-> c) Número de días de apertura anual, justificados documentalmente.
-
-> d) Consumo anual de agua, real o estimado.
-
-> 5\. La base imponible se determina:
-
-> a) En general, y con carácter preferente, por el sistema de estimación directa mediante contadores homologados u otros mecanismos de control. A tal efecto, los sujetos pasivos están obligados a instalar y mantener, a su cargo, un mecanismo de medición directo del volumen de agua efectivamente utilizada para cada tipo de uso, y a declarar las lecturas del mismo a la Agencia Catalana del Agua, según la forma y los plazos establecidos, para cada supuesto, por la presente ley y los reglamentos que la desarrollan. En caso de que en algún período de consumo el sujeto pasivo no declare, o declare fuera de plazo, las lecturas de los aparatos de medida, la base imponible se determina por ese período de acuerdo con una lectura calculada a partir de la media de consumo de los últimos cuatro períodos con declaraciones de consumos reales en los dos años inmediatamente anteriores, o en la media de un número inferior de períodos, si no se dispone de cuatro por razón de la fecha de inicio del uso del agua. En el supuesto de que el uso de agua lo realicen contribuyentes con una actividad estacional, podrá considerarse el volumen de agua declarado para determinar la estimación directa de la base imponible durante el mismo período del año anterior o, en su defecto, de dos años antes. La base determinada de este modo puede regularizarse a partir de las lecturas reales de los aparatos de medida que determinan los volúmenes de agua utilizados. Si los usuarios de agua para el abastecimiento a terceros no optan expresamente por el sistema de estimación directa o no presentan los datos exigidos para que se pueda aplicar, se entiende que renuncian expresamente al mismo en favor de la estimación objetiva, a excepción de los casos de usuarios que utilizan más de cien mil metros cúbicos de agua anuales, y de los que efectúan suministro de agua en alta, en que la base debe determinarse en cualquier caso por el sistema de estimación directa.
-
-> b) Por estimación objetiva, para contribuyentes determinados de forma genérica según el uso del agua que hacen y al volumen de captación, teniendo en cuenta las características y las circunstancias del aprovechamiento, y de acuerdo con las siguientes fórmulas de cálculo:
-
-> – Para cualquier tipo de uso y en caso de captaciones subterráneas que no tengan instalados dispositivos de medición directo de caudales de suministro, el consumo mensual se evalúa de acuerdo con la potencia nominal del grupo elevador mediante la siguiente fórmula:
-
-> Q = 37.500 × p/(h + 20)
-
-> En la que,
-
-> Q = es el consumo mensual facturable, expresado en metros cúbicos,
-
-> p = es la potencia nominal del grupo o de los grupos elevadores, expresada en kilovatios,
-
-> h = es la profundidad dinámica media del acuífero en la zona considerada, expresada en metros.
-
-> – En caso de suministro mediante contratos de aforo, en función del volumen contratado.
-
-> – En caso de establecimientos con suministro mixto, la base se determina por estimación objetiva, de acuerdo con las fórmulas anteriores, más el promedio de los volúmenes entregados o facturados por la entidad suministradora en el año anterior al de la opción por este sistema.
-
-> – En el caso de usos de agua para el abastecimiento a terceros, según la siguiente fórmula:
-
-> Volumen total utilizado = volumen de agua correspondiente a la facturación neta sin incluir los mínimos de facturación/0,7
-
-> c) Por estimación indirecta cuando la Administración no pueda determinar la base imponible mediante ninguno de los sistemas de estimación anteriores a causa de alguno de los siguientes hechos:
-
-> c.1) El incumplimiento de la obligación de instalar aparatos de medición establecida por la letra *a*.
-
-> c.2) La falta de presentación de declaraciones exigibles o la insuficiencia o falsedad de las presentadas.
-
-> c.3) La resistencia, la excusa o la negativa a la actuación inspectora.
-
-> c.4) El incumplimiento sustancial de las obligaciones contables.
-
-> 6\. **(Derogado)**.
-
-> 7\. Para la estimación indirecta de la base imponible, la Administración debe tener en cuenta las firmas, índices o módulos propios de cada actividad y, además, cualquier dato, circunstancia o antecedente del sujeto pasivo o de otros contribuyentes que pueda resultar indicativo del volumen de agua captada.
-
-> En particular, en los supuestos de captaciones para abastecimiento a terceros, la Agencia puede utilizar la fórmula concreta establecida para la determinación de la base en régimen de estimación objetiva o bien modificar los valores indicados en este régimen cuando de los datos y otros antecedentes de los que dispone se desprende que no se ajustan a la realidad.
-
-> 8\. En cualquier caso, la Administración puede imponer la instalación de dispositivos de control de caudal o de contaminación cuando haga falta para la planificación hidrológica y la consecución de objetivos de ahorro y de calidad del agua. En este caso, tienen que establecerse las medidas de fomento y las líneas de ayuda compensatorias."
-
 > Se modifica por el art. 2.5 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modficiación entra en vigor el 1 de enero de 2026, según establece la disposición final 1 del citado Decreto-ley
@@ -1733,133 +1659,133 @@ c) Consumo mensual superior a 18 metros cúbicos: 8.
 
 3\. Si el número de personas que viven en una vivienda es superior a tres, se aplican los tramos y coeficientes fijados en la siguiente tabla:
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Número personas por vivienda (n)</p>
+<p>Número personas por vivienda (n)</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Base imponible mensual (m<sup>3</sup>)</p>
+<p>Base imponible mensual (m<sup>3</sup>)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">01.01.2012</p>
+<p>01.01.2012</p>
 </th>
 <th>
-<p class="cabeza_tabla">1.<sup>er</sup> tramo</p>
+<p>1.<sup>er</sup> tramo</p>
 </th>
 <th>
-<p class="cabeza_tabla">2.º tramo</p>
+<p>2.º tramo</p>
 </th>
 <th>
-<p class="cabeza_tabla">3.<sup>er</sup> tramo</p>
+<p>3.<sup>er</sup> tramo</p>
 </th>
 <th>
-<p class="cabeza_tabla">4.º tramo</p>
+<p>4.º tramo</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 3 personas</p>
+<p>Hasta 3 personas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; = 9</p>
+<p>&lt; = 9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;9 &lt; = 15</p>
+<p>&gt;9 &lt; = 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;15 &lt; = 18</p>
+<p>&gt;15 &lt; = 18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;18</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4 personas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&lt; = 12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;12 &lt; = 20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;20 &lt; = 24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;24</p>
+<p>&gt;18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5 personas</p>
+<p>4 personas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; = 15</p>
+<p>&lt; = 12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;15 &lt; = 25</p>
+<p>&gt;12 &lt; = 20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;25 &lt; = 30</p>
+<p>&gt;20 &lt; = 24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6 personas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&lt; = 18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;18 &lt; = 30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;30 &lt; = 36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;36</p>
+<p>&gt;24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7 personas</p>
+<p>5 personas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; = 21</p>
+<p>&lt; = 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;21 &lt; = 35</p>
+<p>&gt;15 &lt; = 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;35 &lt; = 42</p>
+<p>&gt;25 &lt; = 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;42</p>
+<p>&gt;30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">n personas</p>
+<p>6 personas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; = 3n</p>
+<p>&lt; = 18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;3n &lt; = 5n</p>
+<p>&gt;18 &lt; = 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;5n &lt; = 6n</p>
+<p>&gt;30 &lt; = 36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;6n</p>
+<p>&gt;36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7 personas</p>
+</td>
+<td>
+<p>&lt; = 21</p>
+</td>
+<td>
+<p>&gt;21 &lt; = 35</p>
+</td>
+<td>
+<p>&gt;35 &lt; = 42</p>
+</td>
+<td>
+<p>&gt;42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>n personas</p>
+</td>
+<td>
+<p>&lt; = 3n</p>
+</td>
+<td>
+<p>&gt;3n &lt; = 5n</p>
+</td>
+<td>
+<p>&gt;5n &lt; = 6n</p>
+</td>
+<td>
+<p>&gt;6n</p>
 </td>
 </tr>
 </tbody>
@@ -2239,78 +2165,39 @@ Q = número de plazas por euro/plaza.
 
 Cuota expresada en euros = kWh producidos × euros/kWh, en función del tipo de establecimiento definido en el cuadro siguiente:
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de establecimiento</th>
-<th class="cabeza_tabla">Potencia</th>
-<th class="cabeza_tabla">Importe</th>
-<th class="cabeza_tabla">Unidad</th>
+<th>Tipo de establecimiento</th>
+<th>Potencia</th>
+<th>Importe</th>
+<th>Unidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupo 1</td>
-<td class="cuerpo_tabla_centro">&gt; = 50 MW</td>
-<td class="cuerpo_tabla_centro">0,00669</td>
-<td class="cuerpo_tabla_centro">euros/kWh</td>
+<td>Grupo 1</td>
+<td>&gt; = 50 MW</td>
+<td>0,00669</td>
+<td>euros/kWh</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grupo 2*</td>
-<td class="cuerpo_tabla_centro">&lt; 50 MW</td>
-<td class="cuerpo_tabla_centro">0,00044</td>
-<td class="cuerpo_tabla_centro">euros/kWh</td>
+<td>Grupo 2*</td>
+<td>&lt; 50 MW</td>
+<td>0,00044</td>
+<td>euros/kWh</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">* Siempre que la persona titular no haga en otros establecimientos actividades de producción con potencia superior a 50 MW. En este caso, se considera grupo 1.</p>
+<p>* Siempre que la persona titular no haga en otros establecimientos actividades de producción con potencia superior a 50 MW. En este caso, se considera grupo 1.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
 Para determinar la cuota, las centrales hidroeléctricas deben declarar la energía producida en el trimestre anterior, dentro de los veinte días naturales primeros de cada trimestre.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.13 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 1 de enero de 2026, según establece su disposición final 1.
-
-> Redacción anterior:
-
-> "Artículo 74. Cuota tributaria.
-
-> 1\. La cuota tributaria resulta de la aplicación a la base imponible del tipo de gravamen calculado según lo que determinan los artículos 69, 70, 71 o 72.
-
-> 2\. En particular, para los supuestos de usos agrícolas o ganaderos, no exentos de acuerdo con lo que establece el artículo 64.2.e), y en que el tipo específico no pueda calcularse según el sistema establecido por el artículo 72.1, la cuota tiene que fijarse de acuerdo con un sistema de determinación objetiva, basado en cualquiera de las siguientes magnitudes características de la actividad:
-
-> a) Capacidad productiva de la explotación, en número, volumen o peso.
-
-> b) Número y características de cabezas de ganado.
-
-> c) Extensión de la explotación agropecuaria, sistemas de depuración propios y sistemas de gestión de los productos fitosanitarios.
-
-> 3\. La determinación de la cuota del canon del agua aplicable a los usos ganaderos de agua, según el sistema de determinación objetiva a que hace referencia el apartado segundo de este artículo, se hace según la fórmula siguiente, desarrollada en el anexo 6 de esta Ley, y que se basa en datos relativos al tipo de explotación, de ganado y al número de plazas, que tienen que ser declaradas por el sujeto pasivo:
-
-> Q = número de plazas por euro/plaza.
-
-> 4\. En los casos de usos industriales de agua para la producción de energía eléctrica, las centrales hidroeléctricas pueden optar por acogerse, de manera voluntaria, a un sistema de determinación objetiva de la cuota basado en la potencia instalada en el establecimiento y en la energía producida, expresada en kilovatios hora, de acuerdo con la siguiente fórmula:
-
-> Q = kWh producidos × euros/kWh
-
-> | Tipo de establecimiento | Potencia | Importe | Unidad |
-> |---|---|---|---|
-> | Grupo 1. | > = 50 MW | 0,00608 | euros/kWh |
-> | Grupo 2*. | < 50 MW | 0,00040 | euros/kWh |
-
-> \* Siempre que el titular no realice en otros establecimientos actividades de producción con potencia superior a 50 MW. En este caso, se considera tipo 1.
-
-> Estos valores no incluyen el impuesto sobre el valor añadido."
 
 > Se modifica por el art. 2.13 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -2340,75 +2227,75 @@ Para determinar la cuota, las centrales hidroeléctricas deben declarar la energ
 
 Sin embargo, y solamente en caso de que las entidades suministradoras cumplan la totalidad de las obligaciones que respecto a la Agencia Catalana del Agua les impone la normativa vigente, así como los requerimientos que se deriven, puede aplicarse, sobre el importe total a ingresar por cada autoliquidación, un porcentaje de bonificación determinado en función del número de abonados totales de cada entidad suministradora, de acuerdo con la tabla y la fórmula siguientes:
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Tramos para calcular</p>
-<p class="cabeza_tabla">la bonificación</p>
+<p>Tramos para calcular</p>
+<p>la bonificación</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Escalado de porcentajes (%)</p>
+<p>Escalado de porcentajes (%)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Abonados desde</p>
+<p>Abonados desde</p>
 </th>
 <th>
-<p class="cabeza_tabla">Abonados hasta</p>
+<p>Abonados hasta</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">1.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">10.001</p>
+<p>1.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.000</p>
+<p>10.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,50</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">100.001</p>
+<p>10.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500.000</p>
+<p>100.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,20</p>
+<p>0,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>100.001</p>
+</td>
+<td>
+<p>500.000</p>
+</td>
+<td>
+<p>0,20</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Más de 500.000</p>
+<p>Más de 500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,10</p>
+<p>0,10</p>
 </td>
 </tr>
 </tbody>
@@ -2846,44 +2733,44 @@ A partir del 1 de enero de 2008, este coeficiente solo será aplicable a los suj
 
 9\. La cuota de la tarifa de utilización aplicable a los usos industriales y de riego agrícola y a los correspondientes a otras actividades económicas, salvo el abastecimiento de poblaciones, se afecta de los siguientes coeficientes de implantación, en los períodos que se indican:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Año</p>
+<p>Año</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Coeficiente aplicable según los usos</p>
+<p>Coeficiente aplicable según los usos</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Usos industriales y otras actividades económicas</p>
+<p>Usos industriales y otras actividades económicas</p>
 </th>
 <th>
-<p class="cabeza_tabla">Usos de riego agrícola</p>
+<p>Usos de riego agrícola</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2007</p>
+<p>2007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,50</p>
+<p>0,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2008</p>
+<p>2008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,00</p>
+<p>1,00</p>
 </td>
 </tr>
 </tbody>
@@ -2947,89 +2834,89 @@ Las concesiones o autorizaciones para la reutilización de aguas regeneradas que
 
 Con la finalidad de alcanzar una progresiva recuperación de costes del ciclo del agua y de incorporar la depreciación de los activos de la administración hidráulica de Cataluña en el coste de los servicios del ciclo del agua que presta, se establecen las vidas útiles y los coeficientes de amortización anuales que es preciso aplicar de acuerdo con las siguientes tipologías:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Tipología</p>
+<p>Tipología</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Vida útil máxima (años)</p>
+<p>Vida útil máxima (años)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Coeficiente de amortización anual</p>
-<p class="cabeza_tabla">Porcentaje anual</p>
+<p>Coeficiente de amortización anual</p>
+<p>Porcentaje anual</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Media % anual</p>
+<p>Media % anual</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Saneamiento de aguas residuales urbanas (PSARU)</p>
+<p>Saneamiento de aguas residuales urbanas (PSARU)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Post-tratamiento de lodos (Programa de lodos)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>4,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Abastecimiento de agua potable (PSAAC)</p>
+<p>Post-tratamiento de lodos (Programa de lodos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Embalses</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>4,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Protección del dominio público hidráulico (DPH)</p>
+<p>Abastecimiento de agua potable (PSAAC)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>2,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Riegos</p>
+<p>Embalses</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Protección del dominio público hidráulico (DPH)</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riegos</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>4,00</p>
 </td>
 </tr>
 </tbody>

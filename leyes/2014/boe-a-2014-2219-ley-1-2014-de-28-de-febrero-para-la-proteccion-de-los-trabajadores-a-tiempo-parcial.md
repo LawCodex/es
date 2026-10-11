@@ -650,30 +650,6 @@ El resultado de los procedimientos a que se refieren los párrafos anteriores qu
 
 **(Derogado).**
 
-> Téngase en cuenta que esta disposición se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.l) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
-
-> Redacción anterior:
-
-> "Se modifican los apartados 2 y 6 del artículo 64 de la Ley 22/2003, de 9 de julio, Concursal, con el siguiente texto:
-
-> «2. La administración concursal, el deudor o los trabajadores de la empresa concursada a través de sus representantes legales, podrán solicitar del juez del concurso la modificación sustancial de las condiciones de trabajo y la extinción o suspensión colectivas de los contratos de trabajo en que sea empleador el concursado.
-
-> La representación de los trabajadores en la tramitación del procedimiento corresponderá a los sujetos indicados en el artículo 41.4 del Estatuto de los Trabajadores, en el orden y condiciones señalados en el mismo. Transcurridos los plazos indicados en el referido artículo sin que los trabajadores hayan designado representantes, el juez podrá acordar la intervención de una comisión de un máximo de tres miembros, integrada por los sindicatos más representativos y los representativos del sector al que la empresa pertenezca.»
-
-> «6. Durante el período de consultas, los representantes de los trabajadores y la administración concursal deberán negociar de buena fe para la consecución de un acuerdo.
-
-> El acuerdo requerirá la conformidad de la mayoría de los representantes legales de los trabajadores o, en su caso, de la mayoría de los miembros de la comisión representativa de los trabajadores siempre que, en ambos casos, representen a la mayoría de los trabajadores del centro o centros de trabajo afectados.
-
-> El acuerdo suscrito por la administración concursal y los representantes de los trabajadores podrá ser acompañado con la solicitud, en cuyo caso, no será necesaria la apertura del período de consultas.
-
-> En el acuerdo se recogerá la identidad de los trabajadores afectados y se fijarán las indemnizaciones, que se ajustarán a lo establecido en la legislación laboral, salvo que, ponderando los intereses afectados por el concurso, se pacten de forma expresa otras superiores.
-
-> Al finalizar el plazo señalado o en el momento en que se consiga un acuerdo, la administración concursal y los representantes de los trabajadores comunicarán al juez del concurso el resultado del período de consultas.
-
-> Recibida dicha comunicación, el secretario judicial recabará un informe de la autoridad laboral sobre las medidas propuestas o el acuerdo alcanzado, que deberá ser emitido en el plazo de quince días, pudiendo ésta oír a la administración concursal y a los representantes de los trabajadores antes de su emisión.
-
-> Recibido el informe por el juez del concurso o transcurrido el plazo de emisión, seguirá el curso de las actuaciones. Si el informe es emitido fuera de plazo, podrá no obstante ser tenido en cuenta por el juez del concurso al adoptar la correspondiente resolución.»"
-
 > Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.l) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
 
 ### Artículo 11. Modificación de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social.
@@ -785,62 +761,62 @@ Cuatro. El anexo II de la Orden FOM/898/2005 queda redactado como sigue:
 
 ## «ANEXO II — Clasificación de las líneas ferroviarias
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de línea</p>
+<p>Tipo de línea</p>
 </td>
 <td>
-<p class="cabeza_tabla">Velocidad máxima de la línea</p>
+<p>Velocidad máxima de la línea</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A.1</p>
+<p>A.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Línea Madrid-Barcelona-frontera francesa (límite con la Sección Internacional entre Figueras-Perpignan administrada por TP Ferro).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">A.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Resto de líneas con V máx &gt; 250 km/h en al menos 2/3 de su recorrido.</p>
+<p>Línea Madrid-Barcelona-frontera francesa (límite con la Sección Internacional entre Figueras-Perpignan administrada por TP Ferro).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>A.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B.1</p>
+<p>Resto de líneas con V máx &gt; 250 km/h en al menos 2/3 de su recorrido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">250 km/h ≥ V max línea &gt; 200 km/h en al menos 2/3 de su recorrido.</p>
+<p>B.1</p>
+</td>
+<td>
+<p>250 km/h ≥ V max línea &gt; 200 km/h en al menos 2/3 de su recorrido.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C.1</p>
+<p>C.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Núcleos de cercanías.</p>
+<p>Núcleos de cercanías.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">C.2</p>
+<p>C.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Resto de líneas.</p>
+<p>Resto de líneas.</p>
 </td>
 </tr>
 </table>
@@ -851,72 +827,72 @@ a) El anexo III de la Orden FOM/898/2005 queda redactado como sigue:
 
 ## «ANEXO III — Características de los servicios y tipos de tren
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Viajeros.</p>
+<p>Viajeros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">VL1</p>
+<p>VL1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de larga distancia, excepto los designados como VL2, VL3 y VOT.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">VL2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de larga distancia en relaciones de ancho variable, siempre que al menos un 10 % de su recorrido total discurra por líneas de ancho ibérico.</p>
+<p>Servicios de larga distancia, excepto los designados como VL2, VL3 y VOT.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VL3</p>
+<p>VL2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de larga distancia en relaciones transversales largas: recorridos superiores a 700 km que no tengan origen, destino o parada intermedia en Madrid y sus ramas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">VCM</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Servicios urbanos o suburbanos: los que discurren íntegramente dentro de un núcleo de cercanías.</p>
-<p class="cuerpo_tabla_izq">– Servicios interurbanos: los que no siendo urbanos ni suburbanos tienen recorridos inferiores a 300 km. Se excluyen los trenes internacionales y las ramas de trenes de larga distancia.</p>
-<p class="cuerpo_tabla_izq">– Servicios declarados como obligaciones de servicio público.</p>
+<p>Servicios de larga distancia en relaciones de ancho variable, siempre que al menos un 10 % de su recorrido total discurra por líneas de ancho ibérico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VOT</p>
+<p>VL3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trenes y material de viajeros sin pasajeros, incluidas máquinas aisladas, movimiento de trenes en vacío, formación y pruebas.</p>
+<p>Servicios de larga distancia en relaciones transversales largas: recorridos superiores a 700 km que no tengan origen, destino o parada intermedia en Madrid y sus ramas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mercancías.</p>
+<p>VCM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">M</p>
+<p>– Servicios urbanos o suburbanos: los que discurren íntegramente dentro de un núcleo de cercanías.</p>
+<p>– Servicios interurbanos: los que no siendo urbanos ni suburbanos tienen recorridos inferiores a 300 km. Se excluyen los trenes internacionales y las ramas de trenes de larga distancia.</p>
+<p>– Servicios declarados como obligaciones de servicio público.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>VOT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todos los servicios de mercancías, incluidos los cargados, los vacíos, las máquinas aisladas y pruebas.</p>
+<p>Trenes y material de viajeros sin pasajeros, incluidas máquinas aisladas, movimiento de trenes en vacío, formación y pruebas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mercancías.</p>
+</td>
+<td>
+<p>M</p>
+</td>
+<td>
+<p>Todos los servicios de mercancías, incluidos los cargados, los vacíos, las máquinas aisladas y pruebas.</p>
 </td>
 </tr>
 </table>
@@ -1166,137 +1142,137 @@ Tarifa unitaria servicios de transito de aeródromo: Las cuantías correspondien
 
 2\. Pasajeros, PMRs y seguridad
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Aeropuerto</p>
+<p>Aeropuerto</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Cuantía pasajero</p>
+<p>Cuantía pasajero</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Cuantía de seguridad Aeroportuaria</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>Cuantía de seguridad Aeroportuaria</p>
+<p>–</p>
+<p>Euros</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Cuantía PMR</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>Cuantía PMR</p>
+<p>–</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">EEE</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>EEE</p>
+<p>–</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Internacional</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Madrid-Barajas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22,18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,61</p>
+<p>Internacional</p>
+<p>–</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Barcelona-El Prat.</p>
+<p>Madrid-Barajas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,58</p>
+<p>15,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17,84</p>
+<p>22,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,75</p>
+<p>3,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Alicante, Gran Canaria, Palma de Mallorca, Málaga-Costa del Sol y Tenerife Sur.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,61</p>
+<p>0,61</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bilbao, Fuerteventura, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia.</p>
+<p>Barcelona-El Prat.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,54</p>
+<p>14,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,32</p>
+<p>17,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,75</p>
+<p>3,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A Coruña, Almería, Asturias, FGL Granada-Jaén, Girona, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,61</p>
+<p>0,61</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, El Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos, S.A.</p>
+<p>Alicante, Gran Canaria, Palma de Mallorca, Málaga-Costa del Sol y Tenerife Sur.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,60</p>
+<p>6,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,90</p>
+<p>9,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,75</p>
+<p>3,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61</p>
+<p>0,61</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bilbao, Fuerteventura, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia.</p>
+</td>
+<td>
+<p>5,54</p>
+</td>
+<td>
+<p>8,32</p>
+</td>
+<td>
+<p>3,75</p>
+</td>
+<td>
+<p>0,61</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A Coruña, Almería, Asturias, FGL Granada-Jaén, Girona, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza.</p>
+</td>
+<td>
+<p>3,97</p>
+</td>
+<td>
+<p>5,96</p>
+</td>
+<td>
+<p>3,75</p>
+</td>
+<td>
+<p>0,61</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, El Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos, S.A.</p>
+</td>
+<td>
+<p>2,60</p>
+</td>
+<td>
+<p>3,90</p>
+</td>
+<td>
+<p>3,75</p>
+</td>
+<td>
+<p>0,61</p>
 </td>
 </tr>
 </table>
@@ -1340,24 +1316,24 @@ A partir del segundo día de estancia, el importe máximo de la contraprestació
 
 En los aeropuertos de A Coruña, Albacete, Algeciras, Almería, Asturias, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, FGL Granada-Jaén, Jerez, La Gomera, La Palma, León, Logroño, Melilla, Murcia-San Javier, Pamplona, Reus, Sabadell, Salamanca, San Sebastián, Santander, Son Bonet, Torrejón, Valladolid, Vigo, Vitoria, Zaragoza, y resto de aeropuertos gestionados por Aena Aeropuertos, S.A. las cuantías de la contraprestación de estacionamiento aplicable por día o fracción de tiempo de estacionamiento superior a tres horas, en función del peso máximo al despegue de la aeronave, serán las siguientes:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Aeronaves hasta 10 Tm</p>
+<p>Aeronaves hasta 10 Tm</p>
 </td>
 <td>
-<p class="cabeza_tabla">Aeronaves de más de 10 Tm</p>
+<p>Aeronaves de más de 10 Tm</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 2: 1,556027 euros por aeronave/día o fracción.</p>
+<p>Hasta 2: 1,556027 euros por aeronave/día o fracción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De 2 a 10: 7,778529 euros por aeronave/día o fracción.</p>
+<p>De 2 a 10: 7,778529 euros por aeronave/día o fracción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,898304 euros por Tm por día o fracción.</p>
+<p>0,898304 euros por Tm por día o fracción.</p>
 </td>
 </tr>
 </table>

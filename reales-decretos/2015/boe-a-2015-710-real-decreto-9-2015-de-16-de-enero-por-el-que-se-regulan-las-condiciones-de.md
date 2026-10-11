@@ -84,8 +84,6 @@ b) Explotación agrícola: el conjunto de unidades de producción administradas 
 
 5\. Los datos previstos en este artículo se proporcionarán por el agricultor a la autoridad competente de manera electrónica, de acuerdo con lo previsto en el Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el Registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola.
 
-> Téngase en cuenta que el apartado 5, añadido por la disposición final 1.1 del Real Decreto 1054/2022, de 27 de diciembre, [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054), produce efectos el 1 de julio de 2023, según establece la disposición final 8 del citado Real Decreto.
-
 > Se añade, con efectos de 1 de julio de 2023, el apartado 5 por la disposición final 1.1 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
 
 > Se modifica el apartado 1 por el art. único.1 del Real Decreto 578/2017, de 12 de junio. [Ref. BOE-A-2017-6948](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6948)

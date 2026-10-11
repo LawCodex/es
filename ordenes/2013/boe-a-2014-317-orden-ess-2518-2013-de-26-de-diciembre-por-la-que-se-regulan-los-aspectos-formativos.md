@@ -154,14 +154,6 @@ b) Modalidad a distancia/teleformación: Los costes hora/participante serán de 
 
 Estos módulos económicos se podrán actualizar por Resolución del titular de la Dirección General del Servicio Público de Empleo Estatal.
 
-> Téngase en cuenta que esta actualización de los módulos económicos del apartado 1, establecida por el apartado primero de la Resolución de 31 de marzo de 2026, [Ref. BOE-A-2026-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10031), produce efectos desde el 1 de junio de 2026, según determina su apartado tercero.
-
-> Redacción anterior:
-
-> "a) Modalidad presencial: Los costes hora/participante serán de 8 euros.
-
-> b) Modalidad a distancia/teleformación: Los costes hora/participante serán de 5 euros."
-
 2\. La cuantía máxima de las bonificaciones que podrá aplicarse la empresa para la financiación de los costes de formación señalados en el apartado anterior, será la que resulte de multiplicar el correspondiente módulo económico por un número de horas equivalente al 25 por ciento de la jornada durante el primer año del contrato, y el 15 por ciento de la jornada el segundo y tercer año.
 
 3\. Cuando el contrato para la formación y el aprendizaje se formalice con personas beneficiarias del Sistema Nacional de Garantía Juvenil la cuantía máxima de bonificaciones que podrá aplicarse la empresa para la financiación de los costes de formación será la que resulte de multiplicar el correspondiente módulo económico por un número de horas equivalente al 50 por ciento de la jornada durante el primer año del contrato, y del 25 por ciento de la jornada el segundo y tercer año. Estos porcentajes se tendrán en cuenta a efectos de lo previsto en el artículo 10.2 para el cálculo de las bonificaciones a aplicar por la empresa.

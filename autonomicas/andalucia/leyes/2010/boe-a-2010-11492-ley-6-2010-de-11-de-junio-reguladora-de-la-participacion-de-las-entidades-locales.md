@@ -1289,11831 +1289,11822 @@ Nota: El municipio de Villanueva de la Concepción se ha clasificado atendiendo 
 
 *Grupo 1. Municipios de menos de 5.000 habitantes*
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_15">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código INE</p>
+<p>Código INE</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Nombre del municipio</p>
+<p>Nombre del municipio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fondo de nivelación</p>
+<p>Fondo de nivelación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Población</p>
+<p>Población</p>
 </td>
 <td>
-<p class="cabeza_tabla">Superficie urbana</p>
+<p>Superficie urbana</p>
 </td>
 <td>
-<p class="cabeza_tabla">Dispersión</p>
+<p>Dispersión</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inverso cuota líquida IBI urbano estimada</p>
+<p>Inverso cuota líquida IBI urbano estimada</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cabeza_tabla">Unidades: Euros</p>
+<p>Unidades: Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Personas</p>
+<p>Unidades: Personas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Hectáreas</p>
+<p>Unidades: Hectáreas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Entidades singulares</p>
+<p>Unidades: Entidades singulares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: 100.000/€</p>
+<p>Unidades: 100.000/€</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04001</p>
+<p>04001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abla	</p>
+<p>Abla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.687,40</p>
+<p>144.687,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.503</p>
+<p>1.503</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">41,52</p>
+<p>41,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,772449</p>
+<p>0,772449</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04002</p>
+<p>04002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abrucena	</p>
+<p>Abrucena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.319,83</p>
+<p>143.319,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.366</p>
+<p>1.366</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,46</p>
+<p>16,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,159794</p>
+<p>1,159794</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04004</p>
+<p>04004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albánchez	</p>
+<p>Albánchez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.656,28</p>
+<p>127.656,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">726</p>
+<p>726</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,76</p>
+<p>17,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,311959</p>
+<p>3,311959</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04005</p>
+<p>04005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alboloduy	</p>
+<p>Alboloduy	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.071,95</p>
+<p>137.071,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">703</p>
+<p>703</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
+<p>6,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,495688</p>
+<p>4,495688</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04007</p>
+<p>04007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcolea	</p>
+<p>Alcolea	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.198,20</p>
+<p>110.198,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">927</p>
+<p>927</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,75</p>
+<p>12,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,749923</p>
+<p>2,749923</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04008</p>
+<p>04008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcóntar	</p>
+<p>Alcóntar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.188,51</p>
+<p>126.188,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">597</p>
+<p>597</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,73</p>
+<p>12,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,259704</p>
+<p>2,259704</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04009</p>
+<p>04009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcudia de Monteagud	</p>
+<p>Alcudia de Monteagud	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.666,71</p>
+<p>148.666,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148</p>
+<p>148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,00</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,593333</p>
+<p>21,593333</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04010</p>
+<p>04010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alhabia	</p>
+<p>Alhabia	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.674,14</p>
+<p>137.674,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">721</p>
+<p>721</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,13</p>
+<p>6,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,959263</p>
+<p>4,959263</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04011</p>
+<p>04011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alhama de Almería	</p>
+<p>Alhama de Almería	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157.717,92</p>
+<p>157.717,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.724</p>
+<p>3.724</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,29</p>
+<p>64,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,356946</p>
+<p>0,356946</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04012</p>
+<p>04012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alicún	</p>
+<p>Alicún	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.380,29</p>
+<p>118.380,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">261</p>
+<p>261</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,46</p>
+<p>2,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,613778</p>
+<p>12,613778</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04014</p>
+<p>04014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almócita	</p>
+<p>Almócita	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.952,96</p>
+<p>121.952,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163</p>
+<p>163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,38</p>
+<p>1,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,533387</p>
+<p>20,533387</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04015</p>
+<p>04015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alsodux	</p>
+<p>Alsodux	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.940,70</p>
+<p>118.940,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">173</p>
+<p>173</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,76</p>
+<p>1,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,484058</p>
+<p>22,484058</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04016</p>
+<p>04016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Antas	</p>
+<p>Antas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">134.137,12</p>
+<p>134.137,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.389</p>
+<p>3.389</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165,73</p>
+<p>165,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,254882</p>
+<p>0,254882</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04017</p>
+<p>04017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arboleas	</p>
+<p>Arboleas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">196.613,50</p>
+<p>196.613,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.301</p>
+<p>4.301</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52,35</p>
+<p>52,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,887602</p>
+<p>0,887602</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04018</p>
+<p>04018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Armuña de Almanzora	</p>
+<p>Armuña de Almanzora	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.254,87</p>
+<p>106.254,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">330</p>
+<p>330</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,52</p>
+<p>8,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,365877</p>
+<p>3,365877</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04019</p>
+<p>04019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bacares	</p>
+<p>Bacares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.604,10</p>
+<p>114.604,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">283</p>
+<p>283</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,61</p>
+<p>8,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,194325</p>
+<p>3,194325</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04020</p>
+<p>04020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bayárcal	</p>
+<p>Bayárcal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.726,92</p>
+<p>141.726,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">317</p>
+<p>317</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,57</p>
+<p>2,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,217637</p>
+<p>15,217637</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04021</p>
+<p>04021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bayarque	</p>
+<p>Bayarque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.857,78</p>
+<p>108.857,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244</p>
+<p>244</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,40</p>
+<p>6,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,416216</p>
+<p>4,416216</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04022</p>
+<p>04022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bédar	</p>
+<p>Bédar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.098,04</p>
+<p>123.098,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">976</p>
+<p>976</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205,64</p>
+<p>205,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,669218</p>
+<p>0,669218</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04023</p>
+<p>04023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beires	</p>
+<p>Beires	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.307,82</p>
+<p>110.307,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132</p>
+<p>132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,41</p>
+<p>2,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,890105</p>
+<p>14,890105</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04024</p>
+<p>04024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benahadux	</p>
+<p>Benahadux	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.573,72</p>
+<p>144.573,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.814</p>
+<p>3.814</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136,94</p>
+<p>136,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,194657</p>
+<p>0,194657</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04026</p>
+<p>04026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benitagla	</p>
+<p>Benitagla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.535,14</p>
+<p>113.535,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94</p>
+<p>94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,52</p>
+<p>3,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,801000</p>
+<p>27,801000</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04027</p>
+<p>04027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benizalón	</p>
+<p>Benizalón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.247,89</p>
+<p>141.247,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">293</p>
+<p>293</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,38</p>
+<p>6,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,110097</p>
+<p>11,110097</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04028</p>
+<p>04028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bentarique	</p>
+<p>Bentarique	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.620,63</p>
+<p>128.620,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">277</p>
+<p>277</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,71</p>
+<p>2,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,225917</p>
+<p>13,225917</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04030</p>
+<p>04030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canjáyar	</p>
+<p>Canjáyar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.343,31</p>
+<p>126.343,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.529</p>
+<p>1.529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,69</p>
+<p>28,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,338735</p>
+<p>1,338735</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04031</p>
+<p>04031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cantoria	</p>
+<p>Cantoria	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.762,70</p>
+<p>176.762,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.025</p>
+<p>4.025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144,21</p>
+<p>144,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,383638</p>
+<p>0,383638</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04033</p>
+<p>04033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castro de Filabres	</p>
+<p>Castro de Filabres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157.760,34</p>
+<p>157.760,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160</p>
+<p>160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,54</p>
+<p>2,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,311904</p>
+<p>21,311904</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04034</p>
+<p>04034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cóbdar	</p>
+<p>Cóbdar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.069,89</p>
+<p>119.069,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198</p>
+<p>198</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,47</p>
+<p>5,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,276394</p>
+<p>7,276394</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04036</p>
+<p>04036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chercos	</p>
+<p>Chercos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.104,30</p>
+<p>126.104,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">299</p>
+<p>299</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,50</p>
+<p>11,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,418385</p>
+<p>4,418385</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04037</p>
+<p>04037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chirivel	</p>
+<p>Chirivel	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.475,32</p>
+<p>140.475,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.839</p>
+<p>1.839</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82,67</p>
+<p>82,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,471352</p>
+<p>0,471352</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04038</p>
+<p>04038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dalías	</p>
+<p>Dalías	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.868,95</p>
+<p>131.868,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.934</p>
+<p>3.934</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,73</p>
+<p>99,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,309181</p>
+<p>0,309181</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04041</p>
+<p>04041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enix	</p>
+<p>Enix	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.469,27</p>
+<p>87.469,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">510</p>
+<p>510</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">58,98</p>
+<p>58,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,415427</p>
+<p>1,415427</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04043</p>
+<p>04043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Felix	</p>
+<p>Felix	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.618,29</p>
+<p>97.618,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">675</p>
+<p>675</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,23</p>
+<p>16,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,151842</p>
+<p>2,151842</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04044</p>
+<p>04044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fines	</p>
+<p>Fines	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.350,63</p>
+<p>120.350,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.220</p>
+<p>2.220</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">81,89</p>
+<p>81,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,506013</p>
+<p>0,506013</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04045</p>
+<p>04045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fiñana	</p>
+<p>Fiñana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154.394,36</p>
+<p>154.394,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.451</p>
+<p>2.451</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,98</p>
+<p>48,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,425391</p>
+<p>0,425391</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04046</p>
+<p>04046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fondón	</p>
+<p>Fondón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103.274,63</p>
+<p>103.274,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">985</p>
+<p>985</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,27</p>
+<p>38,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,834520</p>
+<p>0,834520</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04047</p>
+<p>04047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gádor	</p>
+<p>Gádor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.261,35</p>
+<p>144.261,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.190</p>
+<p>3.190</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,45</p>
+<p>39,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,571350</p>
+<p>0,571350</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04048</p>
+<p>04048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gallardos (Los)	</p>
+<p>Gallardos (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">162.315,25</p>
+<p>162.315,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.689</p>
+<p>3.689</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148,71</p>
+<p>148,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,453513</p>
+<p>0,453513</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04050</p>
+<p>04050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gérgal	</p>
+<p>Gérgal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.055,73</p>
+<p>132.055,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.126</p>
+<p>1.126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,68</p>
+<p>55,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,066669</p>
+<p>1,066669</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04051</p>
+<p>04051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huécija	</p>
+<p>Huécija	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.995,22</p>
+<p>124.995,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">530</p>
+<p>530</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,28</p>
+<p>6,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,697636</p>
+<p>4,697636</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04054</p>
+<p>04054</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Illar	</p>
+<p>Illar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.277,72</p>
+<p>118.277,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">429</p>
+<p>429</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,13</p>
+<p>7,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,737559</p>
+<p>5,737559</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04055</p>
+<p>04055</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instinción	</p>
+<p>Instinción	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.130,64</p>
+<p>117.130,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">502</p>
+<p>502</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,81</p>
+<p>11,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,302140</p>
+<p>4,302140</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04056</p>
+<p>04056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laroya	</p>
+<p>Laroya	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.979,41</p>
+<p>113.979,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142</p>
+<p>142</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,08</p>
+<p>4,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,803578</p>
+<p>7,803578</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04057</p>
+<p>04057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laujar de Andarax	</p>
+<p>Laujar de Andarax	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.541,70</p>
+<p>132.541,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.784</p>
+<p>1.784</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,31</p>
+<p>40,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,916501</p>
+<p>0,916501</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04058</p>
+<p>04058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Líjar	</p>
+<p>Líjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.054,26</p>
+<p>133.054,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">492</p>
+<p>492</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,42</p>
+<p>9,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,444513</p>
+<p>3,444513</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04059</p>
+<p>04059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lubrín	</p>
+<p>Lubrín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152.774,43</p>
+<p>152.774,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.784</p>
+<p>1.784</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,44</p>
+<p>21,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,921714</p>
+<p>1,921714</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04060</p>
+<p>04060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lucainena de las Torres	</p>
+<p>Lucainena de las Torres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.972,50</p>
+<p>121.972,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">696</p>
+<p>696</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,41</p>
+<p>12,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,701319</p>
+<p>4,701319</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04061</p>
+<p>04061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lúcar	</p>
+<p>Lúcar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.736,54</p>
+<p>118.736,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">883</p>
+<p>883</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,31</p>
+<p>22,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,188454</p>
+<p>1,188454</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04063</p>
+<p>04063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">María	</p>
+<p>María	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.293,86</p>
+<p>122.293,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.484</p>
+<p>1.484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,54</p>
+<p>48,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,843640</p>
+<p>0,843640</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04065</p>
+<p>04065</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nacimiento	</p>
+<p>Nacimiento	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.840,67</p>
+<p>124.840,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">465</p>
+<p>465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,09</p>
+<p>7,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,965257</p>
+<p>2,965257</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04067</p>
+<p>04067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ohanes	</p>
+<p>Ohanes	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.394,29</p>
+<p>137.394,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">784</p>
+<p>784</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,52</p>
+<p>8,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,066753</p>
+<p>4,066753</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04068</p>
+<p>04068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Olula de Castro	</p>
+<p>Olula de Castro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.789,08</p>
+<p>123.789,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">215</p>
+<p>215</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,60</p>
+<p>3,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,546454</p>
+<p>15,546454</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04070</p>
+<p>04070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Oria	</p>
+<p>Oria	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177.720,49</p>
+<p>177.720,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.920</p>
+<p>2.920</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,64</p>
+<p>55,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,686615</p>
+<p>0,686615</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04071</p>
+<p>04071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Padules	</p>
+<p>Padules	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.763,47</p>
+<p>115.763,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">513</p>
+<p>513</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,18</p>
+<p>7,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,452289</p>
+<p>4,452289</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04072</p>
+<p>04072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Partaloa	</p>
+<p>Partaloa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.218,97</p>
+<p>125.218,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">819</p>
+<p>819</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,97</p>
+<p>8,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,093593</p>
+<p>4,093593</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04073</p>
+<p>04073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Paterna del Río	</p>
+<p>Paterna del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.908,33</p>
+<p>108.908,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">475</p>
+<p>475</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,91</p>
+<p>5,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,730246</p>
+<p>3,730246</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04074</p>
+<p>04074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pechina	</p>
+<p>Pechina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.005,27</p>
+<p>139.005,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.614</p>
+<p>3.614</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,89</p>
+<p>42,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,392375</p>
+<p>0,392375</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04076</p>
+<p>04076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Purchena	</p>
+<p>Purchena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.610,00</p>
+<p>121.610,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.673</p>
+<p>1.673</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90,07</p>
+<p>90,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,588088</p>
+<p>0,588088</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04077</p>
+<p>04077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rágol	</p>
+<p>Rágol	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.804,18</p>
+<p>135.804,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">385</p>
+<p>385</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,23</p>
+<p>3,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,804330</p>
+<p>8,804330</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04078</p>
+<p>04078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rioja	</p>
+<p>Rioja	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.131,09</p>
+<p>128.131,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.418</p>
+<p>1.418</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,83</p>
+<p>42,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,764276</p>
+<p>0,764276</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04080</p>
+<p>04080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Cruz de Marchena	</p>
+<p>Santa Cruz de Marchena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.787,03</p>
+<p>135.787,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">240</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,86</p>
+<p>1,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,937144</p>
+<p>16,937144</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04081</p>
+<p>04081</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Fe de Mondújar	</p>
+<p>Santa Fe de Mondújar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.351,60</p>
+<p>113.351,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">511</p>
+<p>511</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
+<p>7,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,256329</p>
+<p>4,256329</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04082</p>
+<p>04082</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Senés	</p>
+<p>Senés	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.678,72</p>
+<p>137.678,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">348</p>
+<p>348</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,98</p>
+<p>6,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,417407</p>
+<p>9,417407</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04083</p>
+<p>04083</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Serón	</p>
+<p>Serón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.394,38</p>
+<p>151.394,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.409</p>
+<p>2.409</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">69,06</p>
+<p>69,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,538669</p>
+<p>0,538669</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04084</p>
+<p>04084</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sierro	</p>
+<p>Sierro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.694,61</p>
+<p>118.694,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">451</p>
+<p>451</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,31</p>
+<p>7,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,145723</p>
+<p>3,145723</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04085</p>
+<p>04085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Somontín	</p>
+<p>Somontín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.019,17</p>
+<p>120.019,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">542</p>
+<p>542</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,43</p>
+<p>17,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,630313</p>
+<p>1,630313</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04086</p>
+<p>04086</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sorbas	</p>
+<p>Sorbas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.399,12</p>
+<p>176.399,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.923</p>
+<p>2.923</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,64</p>
+<p>40,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,169142</p>
+<p>1,169142</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04087</p>
+<p>04087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suflí	</p>
+<p>Suflí	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.595,98</p>
+<p>107.595,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">288</p>
+<p>288</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,61</p>
+<p>4,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,519409</p>
+<p>4,519409</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04088</p>
+<p>04088</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tabernas	</p>
+<p>Tabernas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167.202,27</p>
+<p>167.202,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.632</p>
+<p>3.632</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">223,34</p>
+<p>223,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,323849</p>
+<p>0,323849</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04089</p>
+<p>04089</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Taberno	</p>
+<p>Taberno	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.590,94</p>
+<p>121.590,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.133</p>
+<p>1.133</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,83</p>
+<p>15,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,239474</p>
+<p>1,239474</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04090</p>
+<p>04090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tahal	</p>
+<p>Tahal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.820,71</p>
+<p>117.820,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">439</p>
+<p>439</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,10</p>
+<p>10,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,961009</p>
+<p>6,961009</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04091</p>
+<p>04091</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Terque	</p>
+<p>Terque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.689,90</p>
+<p>130.689,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">456</p>
+<p>456</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,21</p>
+<p>13,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,798265</p>
+<p>2,798265</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04092</p>
+<p>04092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tíjola	</p>
+<p>Tíjola	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">156.844,21</p>
+<p>156.844,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.961</p>
+<p>3.961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80,46</p>
+<p>80,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,279566</p>
+<p>0,279566</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04093</p>
+<p>04093</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turre	</p>
+<p>Turre	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.413,88</p>
+<p>140.413,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.453</p>
+<p>3.453</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177,99</p>
+<p>177,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,370009</p>
+<p>0,370009</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04094</p>
+<p>04094</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turrillas	</p>
+<p>Turrillas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.790,68</p>
+<p>139.790,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">235</p>
+<p>235</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,98</p>
+<p>2,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,360586</p>
+<p>15,360586</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04095</p>
+<p>04095</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Uleila del Campo	</p>
+<p>Uleila del Campo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.725,63</p>
+<p>138.725,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.005</p>
+<p>1.005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,25</p>
+<p>15,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,120077</p>
+<p>3,120077</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04096</p>
+<p>04096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Urrácal	</p>
+<p>Urrácal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.803,00</p>
+<p>113.803,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">368</p>
+<p>368</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,95</p>
+<p>6,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,539403</p>
+<p>3,539403</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04097</p>
+<p>04097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Velefique	</p>
+<p>Velefique	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.118,43</p>
+<p>117.118,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">320</p>
+<p>320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,26</p>
+<p>4,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,709921</p>
+<p>7,709921</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04098</p>
+<p>04098</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vélez-Blanco	</p>
+<p>Vélez-Blanco	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.346,91</p>
+<p>143.346,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.223</p>
+<p>2.223</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,43</p>
+<p>46,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,555865</p>
+<p>0,555865</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04101</p>
+<p>04101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viator	</p>
+<p>Viator	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.783,15</p>
+<p>151.783,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.689</p>
+<p>4.689</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">450,54</p>
+<p>450,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,139609</p>
+<p>0,139609</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04103</p>
+<p>04103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zurgena	</p>
+<p>Zurgena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.289,15</p>
+<p>142.289,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.986</p>
+<p>2.986</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56,93</p>
+<p>56,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,565033</p>
+<p>0,565033</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04901</p>
+<p>04901</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tres Villas (Las)	</p>
+<p>Tres Villas (Las)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.345,11</p>
+<p>132.345,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">690</p>
+<p>690</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,82</p>
+<p>12,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,498923</p>
+<p>2,498923</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11003</p>
+<p>11003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algar	</p>
+<p>Algar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.634,92</p>
+<p>141.634,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.564</p>
+<p>1.564</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,12</p>
+<p>16,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,459056</p>
+<p>1,459056</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11009</p>
+<p>11009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benaocaz	</p>
+<p>Benaocaz	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.011,85</p>
+<p>102.011,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">745</p>
+<p>745</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50,82</p>
+<p>50,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,843482</p>
+<p>0,843482</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11011</p>
+<p>11011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bosque (El)	</p>
+<p>Bosque (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.756,79</p>
+<p>123.756,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.058</p>
+<p>2.058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">77,03</p>
+<p>77,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,337789</p>
+<p>0,337789</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11013</p>
+<p>11013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castellar de la Frontera	</p>
+<p>Castellar de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.453,09</p>
+<p>139.453,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.109</p>
+<p>3.109</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">73,83</p>
+<p>73,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,533651</p>
+<p>0,533651</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11017</p>
+<p>11017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espera	</p>
+<p>Espera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">155.800,81</p>
+<p>155.800,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.005</p>
+<p>4.005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">73,19</p>
+<p>73,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,387122</p>
+<p>0,387122</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11018</p>
+<p>11018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gastor (El)	</p>
+<p>Gastor (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.419,98</p>
+<p>130.419,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.879</p>
+<p>1.879</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26,07</p>
+<p>26,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,871222</p>
+<p>0,871222</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11019</p>
+<p>11019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grazalema	</p>
+<p>Grazalema	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.476,46</p>
+<p>133.476,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.227</p>
+<p>2.227</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,00</p>
+<p>31,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,544738</p>
+<p>0,544738</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11034</p>
+<p>11034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Setenil de las Bodegas	</p>
+<p>Setenil de las Bodegas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">169.431,99</p>
+<p>169.431,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.994</p>
+<p>2.994</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">86,83</p>
+<p>86,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,743705</p>
+<p>0,743705</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11036</p>
+<p>11036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torre Alháquime	</p>
+<p>Torre Alháquime	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.008,46</p>
+<p>122.008,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">854</p>
+<p>854</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,19</p>
+<p>12,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,989300</p>
+<p>1,989300</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11040</p>
+<p>11040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villaluenga del Rosario	</p>
+<p>Villaluenga del Rosario	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.971,18</p>
+<p>107.971,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">475</p>
+<p>475</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,59</p>
+<p>6,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,781974</p>
+<p>1,781974</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11042</p>
+<p>11042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zahara	</p>
+<p>Zahara	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.437,88</p>
+<p>122.437,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.523</p>
+<p>1.523</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,37</p>
+<p>10,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,276959</p>
+<p>1,276959</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11902</p>
+<p>11902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San José del Valle	</p>
+<p>San José del Valle	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.254,06</p>
+<p>151.254,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.326</p>
+<p>4.326</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110,17</p>
+<p>110,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,243604</p>
+<p>0,243604</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14001</p>
+<p>14001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adamuz	</p>
+<p>Adamuz	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174.336,52</p>
+<p>174.336,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.472</p>
+<p>4.472</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">215,53</p>
+<p>215,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,334908</p>
+<p>0,334908</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14003</p>
+<p>14003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaracejos	</p>
+<p>Alcaracejos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.099,35</p>
+<p>120.099,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.524</p>
+<p>1.524</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,84</p>
+<p>40,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,075728</p>
+<p>1,075728</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14004</p>
+<p>14004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almedinilla	</p>
+<p>Almedinilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.076,56</p>
+<p>143.076,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.513</p>
+<p>2.513</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,78</p>
+<p>31,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,528415</p>
+<p>0,528415</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14006</p>
+<p>14006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Añora	</p>
+<p>Añora	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.100,88</p>
+<p>135.100,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.537</p>
+<p>1.537</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">44,61</p>
+<p>44,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,887821</p>
+<p>0,887821</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14008</p>
+<p>14008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Belalcázar	</p>
+<p>Belalcázar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">168.557,26</p>
+<p>168.557,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.529</p>
+<p>3.529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">68,33</p>
+<p>68,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,465605</p>
+<p>0,465605</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14009</p>
+<p>14009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Belmez	</p>
+<p>Belmez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163.872,51</p>
+<p>163.872,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.292</p>
+<p>3.292</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,88</p>
+<p>102,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,638434</p>
+<p>0,638434</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14011</p>
+<p>14011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Blázquez (Los)	</p>
+<p>Blázquez (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.431,33</p>
+<p>108.431,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">724</p>
+<p>724</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,72</p>
+<p>18,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,205140</p>
+<p>3,205140</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14014</p>
+<p>14014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cañete de las Torres	</p>
+<p>Cañete de las Torres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.334,87</p>
+<p>148.334,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.173</p>
+<p>3.173</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57,90</p>
+<p>57,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,443145</p>
+<p>0,443145</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14015</p>
+<p>14015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carcabuey	</p>
+<p>Carcabuey	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.821,30</p>
+<p>142.821,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.748</p>
+<p>2.748</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,30</p>
+<p>29,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,418055</p>
+<p>0,418055</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14016</p>
+<p>14016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cardeña	</p>
+<p>Cardeña	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.077,11</p>
+<p>127.077,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.721</p>
+<p>1.721</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,39</p>
+<p>40,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,803540</p>
+<p>0,803540</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14018</p>
+<p>14018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carpio (El)	</p>
+<p>Carpio (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157.848,45</p>
+<p>157.848,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.591</p>
+<p>4.591</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106,67</p>
+<p>106,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,306416</p>
+<p>0,306416</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14020</p>
+<p>14020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Conquista	</p>
+<p>Conquista	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.100,67</p>
+<p>115.100,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">479</p>
+<p>479</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,72</p>
+<p>13,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,523463</p>
+<p>2,523463</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14023</p>
+<p>14023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dos Torres	</p>
+<p>Dos Torres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.168,47</p>
+<p>141.168,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.566</p>
+<p>2.566</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54,07</p>
+<p>54,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,592973</p>
+<p>0,592973</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14024</p>
+<p>14024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Encinas Reales	</p>
+<p>Encinas Reales	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.666,46</p>
+<p>133.666,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.438</p>
+<p>2.438</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26,31</p>
+<p>26,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,815896</p>
+<p>0,815896</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14025</p>
+<p>14025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espejo	</p>
+<p>Espejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">158.345,59</p>
+<p>158.345,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.678</p>
+<p>3.678</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">43,43</p>
+<p>43,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,558073</p>
+<p>0,558073</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14026</p>
+<p>14026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espiel	</p>
+<p>Espiel	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136.298,31</p>
+<p>136.298,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.467</p>
+<p>2.467</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,79</p>
+<p>30,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,602713</p>
+<p>1,602713</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14028</p>
+<p>14028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuente la Lancha	</p>
+<p>Fuente la Lancha	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.531,61</p>
+<p>138.531,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">395</p>
+<p>395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,53</p>
+<p>7,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,980145</p>
+<p>7,980145</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14031</p>
+<p>14031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuente-Tójar	</p>
+<p>Fuente-Tójar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.896,70</p>
+<p>112.896,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">803</p>
+<p>803</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,57</p>
+<p>12,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,396382</p>
+<p>2,396382</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14032</p>
+<p>14032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granjuela (La)	</p>
+<p>Granjuela (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.900,05</p>
+<p>104.900,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">518</p>
+<p>518</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,43</p>
+<p>9,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,686768</p>
+<p>5,686768</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14033</p>
+<p>14033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guadalcázar	</p>
+<p>Guadalcázar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.012,06</p>
+<p>109.012,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.394</p>
+<p>1.394</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">77,76</p>
+<p>77,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,012624</p>
+<p>1,012624</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14034</p>
+<p>14034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guijo (El)	</p>
+<p>Guijo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.092,51</p>
+<p>113.092,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">408</p>
+<p>408</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,83</p>
+<p>12,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,214444</p>
+<p>4,214444</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14036</p>
+<p>14036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hornachuelos	</p>
+<p>Hornachuelos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">155.640,67</p>
+<p>155.640,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.652</p>
+<p>4.652</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">240,08</p>
+<p>240,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,158440</p>
+<p>0,158440</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14037</p>
+<p>14037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Iznájar	</p>
+<p>Iznájar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">183.506,92</p>
+<p>183.506,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.810</p>
+<p>4.810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,74</p>
+<p>51,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,363915</p>
+<p>0,363915</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14039</p>
+<p>14039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Luque	</p>
+<p>Luque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147.997,39</p>
+<p>147.997,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.279</p>
+<p>3.279</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">69,53</p>
+<p>69,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,406804</p>
+<p>0,406804</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14040</p>
+<p>14040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montalbán de Córdoba	</p>
+<p>Montalbán de Córdoba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160.272,44</p>
+<p>160.272,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.626</p>
+<p>4.626</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">85,23</p>
+<p>85,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,349403</p>
+<p>0,349403</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14041</p>
+<p>14041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montemayor	</p>
+<p>Montemayor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160.907,87</p>
+<p>160.907,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.067</p>
+<p>4.067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57,92</p>
+<p>57,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,512122</p>
+<p>0,512122</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14044</p>
+<p>14044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Monturque	</p>
+<p>Monturque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.498,88</p>
+<p>148.498,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.003</p>
+<p>2.003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,25</p>
+<p>42,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,796566</p>
+<p>0,796566</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14045</p>
+<p>14045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Moriles	</p>
+<p>Moriles	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160.843,51</p>
+<p>160.843,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.985</p>
+<p>3.985</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,33</p>
+<p>40,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,360365</p>
+<p>0,360365</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14047</p>
+<p>14047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obejo	</p>
+<p>Obejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.748,02</p>
+<p>128.748,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.824</p>
+<p>1.824</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54,28</p>
+<p>54,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,063705</p>
+<p>1,063705</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14048</p>
+<p>14048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palenciana	</p>
+<p>Palenciana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.627,41</p>
+<p>117.627,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.602</p>
+<p>1.602</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,03</p>
+<p>53,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,044131</p>
+<p>1,044131</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14050</p>
+<p>14050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pedro Abad	</p>
+<p>Pedro Abad	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.373,06</p>
+<p>145.373,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.944</p>
+<p>2.944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,84</p>
+<p>46,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,752132</p>
+<p>0,752132</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14051</p>
+<p>14051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pedroche	</p>
+<p>Pedroche	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.307,24</p>
+<p>131.307,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.689</p>
+<p>1.689</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,52</p>
+<p>30,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,442904</p>
+<p>1,442904</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14059</p>
+<p>14059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Sebastián de los Ballesteros. </p>
+<p>San Sebastián de los Ballesteros. </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.057,59</p>
+<p>116.057,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">841</p>
+<p>841</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,30</p>
+<p>21,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,353952</p>
+<p>1,353952</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14061</p>
+<p>14061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Eufemia	</p>
+<p>Santa Eufemia	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.524,36</p>
+<p>110.524,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>975</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,59</p>
+<p>24,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,255391</p>
+<p>1,255391</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14062</p>
+<p>14062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torrecampo	</p>
+<p>Torrecampo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.108,91</p>
+<p>139.108,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.313</p>
+<p>1.313</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,41</p>
+<p>36,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,893332</p>
+<p>0,893332</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14063</p>
+<p>14063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valenzuela	</p>
+<p>Valenzuela	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.046,49</p>
+<p>138.046,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.339</p>
+<p>1.339</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,59</p>
+<p>21,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,249635</p>
+<p>1,249635</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14064</p>
+<p>14064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valsequillo	</p>
+<p>Valsequillo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.583,12</p>
+<p>104.583,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">417</p>
+<p>417</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,21</p>
+<p>14,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,760662</p>
+<p>3,760662</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14065</p>
+<p>14065</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Victoria (La)	</p>
+<p>Victoria (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.920,54</p>
+<p>130.920,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.132</p>
+<p>2.132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,41</p>
+<p>53,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,574856</p>
+<p>0,574856</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14067</p>
+<p>14067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villafranca de Córdoba	</p>
+<p>Villafranca de Córdoba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152.186,70</p>
+<p>152.186,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.401</p>
+<p>4.401</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97,54</p>
+<p>97,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,313132</p>
+<p>0,313132</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14068</p>
+<p>14068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villaharta	</p>
+<p>Villaharta	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.862,24</p>
+<p>126.862,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">732</p>
+<p>732</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,27</p>
+<p>29,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,537704</p>
+<p>2,537704</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14070</p>
+<p>14070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Duque	</p>
+<p>Villanueva del Duque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146.822,48</p>
+<p>146.822,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.649</p>
+<p>1.649</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,70</p>
+<p>31,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,966692</p>
+<p>0,966692</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14071</p>
+<p>14071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Rey	</p>
+<p>Villanueva del Rey	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.064,98</p>
+<p>128.064,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.207</p>
+<p>1.207</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23,83</p>
+<p>23,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,671988</p>
+<p>1,671988</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14072</p>
+<p>14072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villaralto	</p>
+<p>Villaralto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.815,86</p>
+<p>120.815,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.343</p>
+<p>1.343</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26,35</p>
+<p>26,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,397610</p>
+<p>1,397610</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14073</p>
+<p>14073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villaviciosa de Córdoba	</p>
+<p>Villaviciosa de Córdoba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.092,98</p>
+<p>184.092,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.569</p>
+<p>3.569</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">78,29</p>
+<p>78,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,401322</p>
+<p>0,401322</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14074</p>
+<p>14074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viso (El)	</p>
+<p>Viso (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.031,08</p>
+<p>148.031,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.800</p>
+<p>2.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60,96</p>
+<p>60,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,473013</p>
+<p>0,473013</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14075</p>
+<p>14075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zuheros	</p>
+<p>Zuheros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.101,36</p>
+<p>143.101,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">793</p>
+<p>793</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,93</p>
+<p>15,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,500062</p>
+<p>1,500062</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18001</p>
+<p>18001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Agrón	</p>
+<p>Agrón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.864,06</p>
+<p>108.864,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">381</p>
+<p>381</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,71</p>
+<p>3,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,479105</p>
+<p>7,479105</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18002</p>
+<p>18002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alamedilla	</p>
+<p>Alamedilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.414,83</p>
+<p>122.414,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">757</p>
+<p>757</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,37</p>
+<p>10,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,007901</p>
+<p>3,007901</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18004</p>
+<p>18004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albondón	</p>
+<p>Albondón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.479,45</p>
+<p>140.479,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">921</p>
+<p>921</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,24</p>
+<p>15,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,772419</p>
+<p>4,772419</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18005</p>
+<p>18005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albuñán	</p>
+<p>Albuñán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.277,15</p>
+<p>106.277,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">435</p>
+<p>435</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26,37</p>
+<p>26,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,405999</p>
+<p>2,405999</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18007</p>
+<p>18007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albuñuelas	</p>
+<p>Albuñuelas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.570,81</p>
+<p>125.570,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.037</p>
+<p>1.037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19,28</p>
+<p>19,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,273253</p>
+<p>1,273253</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18010</p>
+<p>18010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aldeire	</p>
+<p>Aldeire	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.443,17</p>
+<p>101.443,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">701</p>
+<p>701</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">78,52</p>
+<p>78,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,110118</p>
+<p>1,110118</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18012</p>
+<p>18012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algarinejo	</p>
+<p>Algarinejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">188.035,68</p>
+<p>188.035,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.817</p>
+<p>3.817</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,58</p>
+<p>46,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,717166</p>
+<p>0,717166</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18015</p>
+<p>18015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alicún de Ortega	</p>
+<p>Alicún de Ortega	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.711,64</p>
+<p>126.711,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">539</p>
+<p>539</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,19</p>
+<p>10,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,555495</p>
+<p>3,555495</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18016</p>
+<p>18016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almegíjar	</p>
+<p>Almegíjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.554,87</p>
+<p>112.554,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">409</p>
+<p>409</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,39</p>
+<p>4,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,351429</p>
+<p>6,351429</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18018</p>
+<p>18018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquife	</p>
+<p>Alquife	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.264,59</p>
+<p>109.264,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">760</p>
+<p>760</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,81</p>
+<p>38,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,356095</p>
+<p>1,356095</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18020</p>
+<p>18020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arenas del Rey	</p>
+<p>Arenas del Rey	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.074,60</p>
+<p>132.074,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.111</p>
+<p>2.111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,50</p>
+<p>48,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,115151</p>
+<p>2,115151</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18024</p>
+<p>18024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beas de Granada	</p>
+<p>Beas de Granada	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.093,57</p>
+<p>119.093,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.085</p>
+<p>1.085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,85</p>
+<p>38,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,153029</p>
+<p>1,153029</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18025</p>
+<p>18025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beas de Guadix	</p>
+<p>Beas de Guadix	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.049,69</p>
+<p>114.049,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">376</p>
+<p>376</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,57</p>
+<p>5,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,510333</p>
+<p>7,510333</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18027</p>
+<p>18027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benalúa	</p>
+<p>Benalúa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">179.590,42</p>
+<p>179.590,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.351</p>
+<p>3.351</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,24</p>
+<p>62,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,491683</p>
+<p>0,491683</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18028</p>
+<p>18028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benalúa de las Villas	</p>
+<p>Benalúa de las Villas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.623,97</p>
+<p>128.623,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.461</p>
+<p>1.461</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,39</p>
+<p>17,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,294047</p>
+<p>1,294047</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18029</p>
+<p>18029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benamaurel	</p>
+<p>Benamaurel	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">149.634,57</p>
+<p>149.634,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.397</p>
+<p>2.397</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">285,48</p>
+<p>285,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,558281</p>
+<p>0,558281</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18030</p>
+<p>18030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bérchules	</p>
+<p>Bérchules	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.734,48</p>
+<p>115.734,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">836</p>
+<p>836</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,09</p>
+<p>9,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,580667</p>
+<p>2,580667</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18032</p>
+<p>18032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bubión	</p>
+<p>Bubión	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.460,99</p>
+<p>91.460,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">361</p>
+<p>361</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,93</p>
+<p>10,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,056155</p>
+<p>2,056155</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18033</p>
+<p>18033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Busquístar	</p>
+<p>Busquístar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.523,40</p>
+<p>109.523,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">317</p>
+<p>317</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,45</p>
+<p>3,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,151987</p>
+<p>7,151987</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18034</p>
+<p>18034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cacín	</p>
+<p>Cacín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.509,53</p>
+<p>113.509,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">626</p>
+<p>626</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,57</p>
+<p>16,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,927135</p>
+<p>2,927135</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18035</p>
+<p>18035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cádiar	</p>
+<p>Cádiar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.505,42</p>
+<p>126.505,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.642</p>
+<p>1.642</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,31</p>
+<p>36,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,989833</p>
+<p>0,989833</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18036</p>
+<p>18036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cájar	</p>
+<p>Cájar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.974,09</p>
+<p>123.974,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.437</p>
+<p>4.437</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118,65</p>
+<p>118,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,126509</p>
+<p>0,126509</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18037</p>
+<p>18037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calicasas	</p>
+<p>Calicasas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.294,98</p>
+<p>108.294,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">589</p>
+<p>589</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,91</p>
+<p>21,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,116645</p>
+<p>2,116645</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18038</p>
+<p>18038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Campotéjar	</p>
+<p>Campotéjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.205,75</p>
+<p>118.205,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.418</p>
+<p>1.418</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23,66</p>
+<p>23,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,105955</p>
+<p>1,105955</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18039</p>
+<p>18039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caniles	</p>
+<p>Caniles	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">185.117,90</p>
+<p>185.117,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.956</p>
+<p>4.956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,41</p>
+<p>129,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,391316</p>
+<p>0,391316</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18040</p>
+<p>18040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cáñar	</p>
+<p>Cáñar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.621,81</p>
+<p>114.621,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">422</p>
+<p>422</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,82</p>
+<p>2,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,291142</p>
+<p>7,291142</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18042</p>
+<p>18042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Capileira	</p>
+<p>Capileira	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.095,84</p>
+<p>99.095,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">559</p>
+<p>559</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,12</p>
+<p>9,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,081616</p>
+<p>2,081616</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18043</p>
+<p>18043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carataunas	</p>
+<p>Carataunas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.255,15</p>
+<p>121.255,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">197</p>
+<p>197</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,33</p>
+<p>1,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,716772</p>
+<p>16,716772</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18044</p>
+<p>18044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cástaras	</p>
+<p>Cástaras	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.762,99</p>
+<p>106.762,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">266</p>
+<p>266</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,98</p>
+<p>3,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,654990</p>
+<p>9,654990</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18045</p>
+<p>18045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castilléjar	</p>
+<p>Castilléjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.887,54</p>
+<p>132.887,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.624</p>
+<p>1.624</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,45</p>
+<p>42,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,751265</p>
+<p>1,751265</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18046</p>
+<p>18046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castril	</p>
+<p>Castril	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157.819,94</p>
+<p>157.819,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.523</p>
+<p>2.523</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,02</p>
+<p>64,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,960293</p>
+<p>0,960293</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18048</p>
+<p>18048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cijuela	</p>
+<p>Cijuela	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.525,75</p>
+<p>127.525,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.665</p>
+<p>2.665</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60,59</p>
+<p>60,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,288474</p>
+<p>0,288474</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18049</p>
+<p>18049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cogollos de Guadix	</p>
+<p>Cogollos de Guadix	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.637,13</p>
+<p>117.637,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">726</p>
+<p>726</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,49</p>
+<p>24,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,451170</p>
+<p>1,451170</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18050</p>
+<p>18050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cogollos de la Vega	</p>
+<p>Cogollos de la Vega	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.303,49</p>
+<p>131.303,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.099</p>
+<p>2.099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,35</p>
+<p>47,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,600556</p>
+<p>0,600556</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18051</p>
+<p>18051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colomera	</p>
+<p>Colomera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">134.394,42</p>
+<p>134.394,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.594</p>
+<p>1.594</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19,28</p>
+<p>19,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,798365</p>
+<p>1,798365</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18053</p>
+<p>18053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cortes de Baza	</p>
+<p>Cortes de Baza	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.792,67</p>
+<p>142.792,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.347</p>
+<p>2.347</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112,33</p>
+<p>112,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,507083</p>
+<p>0,507083</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18054</p>
+<p>18054</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cortes y Graena	</p>
+<p>Cortes y Graena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.031,91</p>
+<p>137.031,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.063</p>
+<p>1.063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,37</p>
+<p>32,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,254606</p>
+<p>2,254606</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18056</p>
+<p>18056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cúllar	</p>
+<p>Cúllar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">197.718,18</p>
+<p>197.718,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.832</p>
+<p>4.832</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137,81</p>
+<p>137,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,237785</p>
+<p>0,237785</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18059</p>
+<p>18059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chauchina	</p>
+<p>Chauchina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152.338,62</p>
+<p>152.338,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.707</p>
+<p>4.707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126,74</p>
+<p>126,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,217679</p>
+<p>0,217679</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18061</p>
+<p>18061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chimeneas	</p>
+<p>Chimeneas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.194,47</p>
+<p>120.194,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.499</p>
+<p>1.499</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,90</p>
+<p>40,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,964360</p>
+<p>0,964360</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18063</p>
+<p>18063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Darro	</p>
+<p>Darro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.240,46</p>
+<p>138.240,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.478</p>
+<p>1.478</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>32,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,388119</p>
+<p>1,388119</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18064</p>
+<p>18064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dehesas de Guadix	</p>
+<p>Dehesas de Guadix	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.788,65</p>
+<p>110.788,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">516</p>
+<p>516</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,82</p>
+<p>12,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,374085</p>
+<p>3,374085</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18066</p>
+<p>18066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deifontes	</p>
+<p>Deifontes	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.624,52</p>
+<p>139.624,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.522</p>
+<p>2.522</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">41,36</p>
+<p>41,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,656397</p>
+<p>0,656397</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18067</p>
+<p>18067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diezma	</p>
+<p>Diezma	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.981,78</p>
+<p>116.981,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">839</p>
+<p>839</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95,95</p>
+<p>95,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,041290</p>
+<p>1,041290</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18068</p>
+<p>18068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dílar	</p>
+<p>Dílar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.854,73</p>
+<p>107.854,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.680</p>
+<p>1.680</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126,87</p>
+<p>126,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,475551</p>
+<p>0,475551</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18069</p>
+<p>18069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dólar	</p>
+<p>Dólar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103.947,13</p>
+<p>103.947,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">610</p>
+<p>610</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19,80</p>
+<p>19,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,020585</p>
+<p>2,020585</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18070</p>
+<p>18070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dúdar	</p>
+<p>Dúdar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.760,16</p>
+<p>87.760,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">311</p>
+<p>311</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137,26</p>
+<p>137,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,399677</p>
+<p>1,399677</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18072</p>
+<p>18072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escúzar	</p>
+<p>Escúzar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.216,17</p>
+<p>112.216,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">833</p>
+<p>833</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">357,88</p>
+<p>357,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,442839</p>
+<p>0,442839</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18074</p>
+<p>18074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ferreira	</p>
+<p>Ferreira	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.311,57</p>
+<p>115.311,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">345</p>
+<p>345</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,13</p>
+<p>10,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,029991</p>
+<p>5,029991</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18076</p>
+<p>18076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fonelas	</p>
+<p>Fonelas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.416,65</p>
+<p>122.416,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.136</p>
+<p>1.136</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,05</p>
+<p>35,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,865510</p>
+<p>1,865510</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18078</p>
+<p>18078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Freila	</p>
+<p>Freila	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.696,58</p>
+<p>113.696,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.126</p>
+<p>1.126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,90</p>
+<p>32,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,307403</p>
+<p>1,307403</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18079</p>
+<p>18079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuente Vaqueros	</p>
+<p>Fuente Vaqueros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152.092,86</p>
+<p>152.092,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.327</p>
+<p>4.327</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142,55</p>
+<p>142,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,241100</p>
+<p>0,241100</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18082</p>
+<p>18082</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Galera	</p>
+<p>Galera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.352,70</p>
+<p>120.352,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.134</p>
+<p>1.134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,39</p>
+<p>27,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,568746</p>
+<p>1,568746</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18083</p>
+<p>18083</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gobernador	</p>
+<p>Gobernador	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.142,50</p>
+<p>107.142,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">307</p>
+<p>307</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,56</p>
+<p>6,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,923498</p>
+<p>6,923498</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18085</p>
+<p>18085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gor	</p>
+<p>Gor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.424,66</p>
+<p>119.424,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">940</p>
+<p>940</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,50</p>
+<p>46,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,023864</p>
+<p>1,023864</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18086</p>
+<p>18086</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gorafe	</p>
+<p>Gorafe	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.735,12</p>
+<p>123.735,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">501</p>
+<p>501</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,02</p>
+<p>11,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,332206</p>
+<p>3,332206</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18088</p>
+<p>18088</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guadahortuna	</p>
+<p>Guadahortuna	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.228,06</p>
+<p>142.228,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.112</p>
+<p>2.112</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,36</p>
+<p>47,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,715654</p>
+<p>0,715654</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18093</p>
+<p>18093</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gualchos	</p>
+<p>Gualchos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.912,36</p>
+<p>129.912,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.126</p>
+<p>4.126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,05</p>
+<p>51,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,243265</p>
+<p>0,243265</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18094</p>
+<p>18094</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Güéjar Sierra	</p>
+<p>Güéjar Sierra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.493,50</p>
+<p>126.493,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.002</p>
+<p>3.002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50,31</p>
+<p>50,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,450842</p>
+<p>0,450842</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18095</p>
+<p>18095</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Güevéjar	</p>
+<p>Güevéjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.186,34</p>
+<p>117.186,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.284</p>
+<p>2.284</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,55</p>
+<p>61,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,416449</p>
+<p>0,416449</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18096</p>
+<p>18096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huélago	</p>
+<p>Huélago	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.913,58</p>
+<p>119.913,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">416</p>
+<p>416</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,49</p>
+<p>11,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,079708</p>
+<p>5,079708</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18097</p>
+<p>18097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huéneja	</p>
+<p>Huéneja	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.132,25</p>
+<p>121.132,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.231</p>
+<p>1.231</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,49</p>
+<p>45,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,886726</p>
+<p>0,886726</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18099</p>
+<p>18099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huétor de Santillán	</p>
+<p>Huétor de Santillán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.913,60</p>
+<p>114.913,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.811</p>
+<p>1.811</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126,73</p>
+<p>126,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,406335</p>
+<p>0,406335</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18103</p>
+<p>18103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Itrabo	</p>
+<p>Itrabo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.173,18</p>
+<p>124.173,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.123</p>
+<p>1.123</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,57</p>
+<p>20,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,108681</p>
+<p>1,108681</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18107</p>
+<p>18107</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jayena	</p>
+<p>Jayena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.386,75</p>
+<p>120.386,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.213</p>
+<p>1.213</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,62</p>
+<p>16,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,341031</p>
+<p>1,341031</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18108</p>
+<p>18108</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jerez del Marquesado	</p>
+<p>Jerez del Marquesado	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.503,29</p>
+<p>114.503,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.090</p>
+<p>1.090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,43</p>
+<p>34,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,048513</p>
+<p>1,048513</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18109</p>
+<p>18109</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jete	</p>
+<p>Jete	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.892,89</p>
+<p>101.892,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">891</p>
+<p>891</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,35</p>
+<p>8,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,388119</p>
+<p>1,388119</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18111</p>
+<p>18111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jun	</p>
+<p>Jun	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.712,01</p>
+<p>119.712,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">183,09</p>
+<p>183,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,229409</p>
+<p>0,229409</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18112</p>
+<p>18112</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Juviles	</p>
+<p>Juviles	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.908,77</p>
+<p>99.908,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">173</p>
+<p>173</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,03</p>
+<p>4,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,649643</p>
+<p>10,649643</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18114</p>
+<p>18114</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calahorra (La)	</p>
+<p>Calahorra (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.183,48</p>
+<p>102.183,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">760</p>
+<p>760</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,39</p>
+<p>47,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,912364</p>
+<p>0,912364</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18115</p>
+<p>18115</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Láchar	</p>
+<p>Láchar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.338,25</p>
+<p>127.338,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.005</p>
+<p>3.005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">263,63</p>
+<p>263,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,219689</p>
+<p>0,219689</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18116</p>
+<p>18116</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lanjarón	</p>
+<p>Lanjarón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.268,94</p>
+<p>153.268,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.908</p>
+<p>3.908</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,99</p>
+<p>61,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,208695</p>
+<p>0,208695</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18117</p>
+<p>18117</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lanteira	</p>
+<p>Lanteira	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.019,53</p>
+<p>109.019,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">605</p>
+<p>605</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,24</p>
+<p>24,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,655065</p>
+<p>1,655065</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18119</p>
+<p>18119</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lecrín	</p>
+<p>Lecrín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.505,34</p>
+<p>137.505,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.327</p>
+<p>2.327</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,62</p>
+<p>62,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,655065</p>
+<p>1,655065</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18120</p>
+<p>18120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lentegí	</p>
+<p>Lentegí	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.270,51</p>
+<p>102.270,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">328</p>
+<p>328</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,01</p>
+<p>31,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,839187</p>
+<p>1,839187</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18121</p>
+<p>18121</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lobras	</p>
+<p>Lobras	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.756,15</p>
+<p>106.756,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125</p>
+<p>125</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,11</p>
+<p>3,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,179111</p>
+<p>15,179111</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18123</p>
+<p>18123</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lugros	</p>
+<p>Lugros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.850,98</p>
+<p>107.850,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">368</p>
+<p>368</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,52</p>
+<p>6,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,434647</p>
+<p>3,434647</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18124</p>
+<p>18124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lújar	</p>
+<p>Lújar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.830,77</p>
+<p>94.830,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">495</p>
+<p>495</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,57</p>
+<p>17,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,669505</p>
+<p>1,669505</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18126</p>
+<p>18126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Malahá (La)	</p>
+<p>Malahá (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.453,88</p>
+<p>127.453,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.764</p>
+<p>1.764</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,44</p>
+<p>38,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,636627</p>
+<p>0,636627</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18128</p>
+<p>18128</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marchal	</p>
+<p>Marchal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.697,97</p>
+<p>120.697,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">413</p>
+<p>413</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,08</p>
+<p>11,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,757761</p>
+<p>5,757761</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18132</p>
+<p>18132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Moclín	</p>
+<p>Moclín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">190.895,90</p>
+<p>190.895,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.319</p>
+<p>4.319</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153,16</p>
+<p>153,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,284293</p>
+<p>0,284293</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18133</p>
+<p>18133</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Molvízar	</p>
+<p>Molvízar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.245,91</p>
+<p>153.245,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.407</p>
+<p>3.407</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,88</p>
+<p>16,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,894754</p>
+<p>0,894754</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18136</p>
+<p>18136</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montejícar	</p>
+<p>Montejícar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166.081,52</p>
+<p>166.081,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.525</p>
+<p>2.525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,95</p>
+<p>31,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,332290</p>
+<p>1,332290</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18137</p>
+<p>18137</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montillana	</p>
+<p>Montillana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.737,74</p>
+<p>116.737,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.328</p>
+<p>1.328</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,08</p>
+<p>28,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,045649</p>
+<p>1,045649</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18138</p>
+<p>18138</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Moraleda de Zafayona	</p>
+<p>Moraleda de Zafayona	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.087,39</p>
+<p>140.087,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.186</p>
+<p>3.186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,93</p>
+<p>102,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,477407</p>
+<p>0,477407</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18141</p>
+<p>18141</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Murtas	</p>
+<p>Murtas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118.923,97</p>
+<p>118.923,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">710</p>
+<p>710</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,37</p>
+<p>12,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,275769</p>
+<p>3,275769</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18143</p>
+<p>18143</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nigüelas	</p>
+<p>Nigüelas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.065,39</p>
+<p>132.065,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.132</p>
+<p>1.132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,23</p>
+<p>63,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,016803</p>
+<p>1,016803</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18144</p>
+<p>18144</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nívar	</p>
+<p>Nívar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.476,26</p>
+<p>99.476,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">869</p>
+<p>869</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,54</p>
+<p>102,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,731992</p>
+<p>0,731992</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18146</p>
+<p>18146</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Orce	</p>
+<p>Orce	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.997,81</p>
+<p>126.997,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.357</p>
+<p>1.357</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,70</p>
+<p>32,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,388226</p>
+<p>1,388226</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18148</p>
+<p>18148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otívar	</p>
+<p>Otívar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.733,57</p>
+<p>110.733,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.145</p>
+<p>1.145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,06</p>
+<p>13,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,795333</p>
+<p>0,795333</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18151</p>
+<p>18151</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pampaneira	</p>
+<p>Pampaneira	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.810,95</p>
+<p>90.810,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">313</p>
+<p>313</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,71</p>
+<p>8,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,800879</p>
+<p>2,800879</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18152</p>
+<p>18152</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pedro Martínez	</p>
+<p>Pedro Martínez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.909,91</p>
+<p>121.909,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.144</p>
+<p>1.144</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,02</p>
+<p>34,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,986663</p>
+<p>1,986663</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18154</p>
+<p>18154</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peza (La)	</p>
+<p>Peza (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.601,47</p>
+<p>132.601,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.383</p>
+<p>1.383</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,82</p>
+<p>27,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,120631</p>
+<p>1,120631</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18157</p>
+<p>18157</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pinos Genil	</p>
+<p>Pinos Genil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.752,24</p>
+<p>110.752,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.249</p>
+<p>1.249</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57,73</p>
+<p>57,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,595762</p>
+<p>0,595762</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18159</p>
+<p>18159</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Píñar	</p>
+<p>Píñar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.612,69</p>
+<p>123.612,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.271</p>
+<p>1.271</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,79</p>
+<p>18,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,179216</p>
+<p>2,179216</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18161</p>
+<p>18161</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Polícar	</p>
+<p>Polícar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.771,03</p>
+<p>114.771,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">222</p>
+<p>222</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,53</p>
+<p>7,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,860713</p>
+<p>8,860713</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18162</p>
+<p>18162</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Polopos	</p>
+<p>Polopos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.846,88</p>
+<p>124.846,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.758</p>
+<p>1.758</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,78</p>
+<p>21,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,427586</p>
+<p>0,427586</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18163</p>
+<p>18163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pórtugos	</p>
+<p>Pórtugos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.225,48</p>
+<p>106.225,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">405</p>
+<p>405</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,16</p>
+<p>4,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,544529</p>
+<p>4,544529</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18164</p>
+<p>18164</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puebla de Don Fadrique	</p>
+<p>Puebla de Don Fadrique	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136.990,97</p>
+<p>136.990,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.516</p>
+<p>2.516</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,29</p>
+<p>64,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,860181</p>
+<p>0,860181</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18165</p>
+<p>18165</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pulianas	</p>
+<p>Pulianas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">149.484,52</p>
+<p>149.484,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.993</p>
+<p>4.993</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">225,95</p>
+<p>225,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,098813</p>
+<p>0,098813</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18167</p>
+<p>18167</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Purullena	</p>
+<p>Purullena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">149.126,13</p>
+<p>149.126,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.294</p>
+<p>2.294</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,35</p>
+<p>63,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,718455</p>
+<p>0,718455</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18168</p>
+<p>18168</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Quéntar	</p>
+<p>Quéntar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.876,71</p>
+<p>115.876,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.070</p>
+<p>1.070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,18</p>
+<p>38,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,045953</p>
+<p>1,045953</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18170</p>
+<p>18170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rubite	</p>
+<p>Rubite	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.105,65</p>
+<p>110.105,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">439</p>
+<p>439</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,27</p>
+<p>5,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,668553</p>
+<p>8,668553</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18171</p>
+<p>18171</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salar	</p>
+<p>Salar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.565,81</p>
+<p>140.565,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.860</p>
+<p>2.860</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,37</p>
+<p>62,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,365528</p>
+<p>0,365528</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18174</p>
+<p>18174</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Cruz del Comercio	</p>
+<p>Santa Cruz del Comercio	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.940,71</p>
+<p>102.940,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">549</p>
+<p>549</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,69</p>
+<p>14,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,736535</p>
+<p>2,736535</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18176</p>
+<p>18176</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Soportújar	</p>
+<p>Soportújar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.909,18</p>
+<p>106.909,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">245</p>
+<p>245</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,713228</p>
+<p>7,713228</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18177</p>
+<p>18177</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sorvilán	</p>
+<p>Sorvilán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.824,68</p>
+<p>119.824,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">656</p>
+<p>656</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,39</p>
+<p>14,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,311349</p>
+<p>3,311349</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18178</p>
+<p>18178</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torre-Cardela	</p>
+<p>Torre-Cardela	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.549,22</p>
+<p>125.549,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.001</p>
+<p>1.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,50</p>
+<p>18,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,155969</p>
+<p>2,155969</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18179</p>
+<p>18179</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torvizcón	</p>
+<p>Torvizcón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.978,33</p>
+<p>126.978,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">809</p>
+<p>809</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,30</p>
+<p>6,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,712538</p>
+<p>3,712538</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18180</p>
+<p>18180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trevélez	</p>
+<p>Trevélez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.585,30</p>
+<p>112.585,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">852</p>
+<p>852</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,25</p>
+<p>6,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,633179</p>
+<p>2,633179</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18181</p>
+<p>18181</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turón	</p>
+<p>Turón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.443,19</p>
+<p>110.443,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">319</p>
+<p>319</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,49</p>
+<p>5,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,223961</p>
+<p>6,223961</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18182</p>
+<p>18182</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ugíjar	</p>
+<p>Ugíjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.077,04</p>
+<p>141.077,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.613</p>
+<p>2.613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,79</p>
+<p>53,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,554580</p>
+<p>0,554580</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18183</p>
+<p>18183</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Válor	</p>
+<p>Válor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">105.461,14</p>
+<p>105.461,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">650</p>
+<p>650</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,51</p>
+<p>16,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,683569</p>
+<p>1,683569</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18184</p>
+<p>18184</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vélez de Benaudalla	</p>
+<p>Vélez de Benaudalla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">162.882,31</p>
+<p>162.882,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.980</p>
+<p>2.980</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,64</p>
+<p>61,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,454200</p>
+<p>0,454200</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18185</p>
+<p>18185</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ventas de Huelma	</p>
+<p>Ventas de Huelma	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.060,92</p>
+<p>102.060,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">724</p>
+<p>724</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,42</p>
+<p>16,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,862034</p>
+<p>1,862034</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18187</p>
+<p>18187</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de las Torres	</p>
+<p>Villanueva de las Torres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.877,81</p>
+<p>125.877,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">761</p>
+<p>761</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,19</p>
+<p>22,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,442924</p>
+<p>2,442924</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18188</p>
+<p>18188</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva Mesía	</p>
+<p>Villanueva Mesía	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.185,45</p>
+<p>120.185,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.158</p>
+<p>2.158</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,50</p>
+<p>38,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,427647</p>
+<p>0,427647</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18189</p>
+<p>18189</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Víznar	</p>
+<p>Víznar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.249,04</p>
+<p>95.249,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">850</p>
+<p>850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,19</p>
+<p>98,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,588184</p>
+<p>0,588184</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18192</p>
+<p>18192</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zafarraya	</p>
+<p>Zafarraya	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.116,59</p>
+<p>132.116,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.152</p>
+<p>2.152</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33,96</p>
+<p>33,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,842376</p>
+<p>0,842376</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18194</p>
+<p>18194</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zújar	</p>
+<p>Zújar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.620,58</p>
+<p>150.620,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.954</p>
+<p>2.954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122,08</p>
+<p>122,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,372986</p>
+<p>0,372986</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18901</p>
+<p>18901</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Taha (La)	</p>
+<p>Taha (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.761,04</p>
+<p>110.761,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">692</p>
+<p>692</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,83</p>
+<p>14,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,775817</p>
+<p>1,775817</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18902</p>
+<p>18902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valle (El)	</p>
+<p>Valle (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.492,20</p>
+<p>122.492,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.163</p>
+<p>1.163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,25</p>
+<p>39,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,256268</p>
+<p>1,256268</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18903</p>
+<p>18903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nevada	</p>
+<p>Nevada	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.652,76</p>
+<p>122.652,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.208</p>
+<p>1.208</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,93</p>
+<p>20,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,285814</p>
+<p>1,285814</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18904</p>
+<p>18904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alpujarra de la Sierra	</p>
+<p>Alpujarra de la Sierra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.310,79</p>
+<p>119.310,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.163</p>
+<p>1.163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,10</p>
+<p>16,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,613206</p>
+<p>1,613206</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18906</p>
+<p>18906</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guajares (Los)	</p>
+<p>Guajares (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.638,61</p>
+<p>127.638,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.318</p>
+<p>1.318</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,92</p>
+<p>14,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,900798</p>
+<p>1,900798</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18907</p>
+<p>18907</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valle del Zalabí	</p>
+<p>Valle del Zalabí	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.642,44</p>
+<p>138.642,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.325</p>
+<p>2.325</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,27</p>
+<p>61,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,511524</p>
+<p>0,511524</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18908</p>
+<p>18908</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villamena	</p>
+<p>Villamena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.506,04</p>
+<p>120.506,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.034</p>
+<p>1.034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,91</p>
+<p>25,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,152511</p>
+<p>1,152511</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18909</p>
+<p>18909</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Morelábor	</p>
+<p>Morelábor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.082,05</p>
+<p>113.082,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">808</p>
+<p>808</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,35</p>
+<p>20,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,132454</p>
+<p>2,132454</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18910</p>
+<p>18910</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pinar (El)	</p>
+<p>Pinar (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.859,75</p>
+<p>121.859,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.052</p>
+<p>1.052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,12</p>
+<p>22,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,761038</p>
+<p>1,761038</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18912</p>
+<p>18912</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuevas del Campo	</p>
+<p>Cuevas del Campo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.900,75</p>
+<p>128.900,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.131</p>
+<p>2.131</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113,45</p>
+<p>113,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,550877</p>
+<p>0,550877</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18913</p>
+<p>18913</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zagra	</p>
+<p>Zagra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.330,32</p>
+<p>126.330,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">998</p>
+<p>998</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,93</p>
+<p>13,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,745996</p>
+<p>1,745996</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21001</p>
+<p>21001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alájar	</p>
+<p>Alájar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.066,31</p>
+<p>114.066,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">802</p>
+<p>802</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,53</p>
+<p>17,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,855503</p>
+<p>1,855503</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21003</p>
+<p>21003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almendro (El)	</p>
+<p>Almendro (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.241,36</p>
+<p>99.241,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">860</p>
+<p>860</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">37,60</p>
+<p>37,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,125821</p>
+<p>1,125821</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21004</p>
+<p>21004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almonaster la Real	</p>
+<p>Almonaster la Real	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.502,94</p>
+<p>138.502,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.849</p>
+<p>1.849</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,13</p>
+<p>46,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,760464</p>
+<p>0,760464</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21006</p>
+<p>21006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alosno	</p>
+<p>Alosno	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">173.934,06</p>
+<p>173.934,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.424</p>
+<p>4.424</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122,42</p>
+<p>122,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,364905</p>
+<p>0,364905</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21008</p>
+<p>21008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aroche	</p>
+<p>Aroche	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165.211,80</p>
+<p>165.211,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.214</p>
+<p>3.214</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,45</p>
+<p>40,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,778837</p>
+<p>0,778837</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21009</p>
+<p>21009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arroyomolinos de León	</p>
+<p>Arroyomolinos de León	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.852,27</p>
+<p>119.852,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.056</p>
+<p>1.056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,10</p>
+<p>25,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,678698</p>
+<p>1,678698</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21011</p>
+<p>21011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beas	</p>
+<p>Beas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147.236,39</p>
+<p>147.236,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.320</p>
+<p>4.320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111,39</p>
+<p>111,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,251331</p>
+<p>0,251331</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21012</p>
+<p>21012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Berrocal	</p>
+<p>Berrocal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.548,69</p>
+<p>99.548,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">376</p>
+<p>376</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,93</p>
+<p>8,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,672012</p>
+<p>4,672012</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21015</p>
+<p>21015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cabezas Rubias	</p>
+<p>Cabezas Rubias	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.054,41</p>
+<p>114.054,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">851</p>
+<p>851</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,74</p>
+<p>14,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,273126</p>
+<p>2,273126</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21016</p>
+<p>21016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cala	</p>
+<p>Cala	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.415,09</p>
+<p>113.415,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.310</p>
+<p>1.310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,72</p>
+<p>39,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,911393</p>
+<p>0,911393</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21017</p>
+<p>21017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calañas	</p>
+<p>Calañas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">179.602,30</p>
+<p>179.602,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.337</p>
+<p>4.337</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,03</p>
+<p>61,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,401420</p>
+<p>0,401420</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21018</p>
+<p>21018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Campillo (El)	</p>
+<p>Campillo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.058,99</p>
+<p>126.058,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.258</p>
+<p>2.258</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,49</p>
+<p>29,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,925556</p>
+<p>0,925556</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21019</p>
+<p>21019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Campofrío	</p>
+<p>Campofrío	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.519,18</p>
+<p>110.519,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">818</p>
+<p>818</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,35</p>
+<p>17,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,998139</p>
+<p>1,998139</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21020</p>
+<p>21020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cañaveral de León	</p>
+<p>Cañaveral de León	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.487,37</p>
+<p>106.487,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">439</p>
+<p>439</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,20</p>
+<p>14,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,613348</p>
+<p>3,613348</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21022</p>
+<p>21022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castaño del Robledo	</p>
+<p>Castaño del Robledo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.396,03</p>
+<p>95.396,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">222</p>
+<p>222</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,93</p>
+<p>6,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,136278</p>
+<p>5,136278</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21023</p>
+<p>21023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cerro de Andévalo (El)	</p>
+<p>Cerro de Andévalo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.581,45</p>
+<p>145.581,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.503</p>
+<p>2.503</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,14</p>
+<p>31,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,609944</p>
+<p>0,609944</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21024</p>
+<p>21024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corteconcepción	</p>
+<p>Corteconcepción	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.149,05</p>
+<p>100.149,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">615</p>
+<p>615</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,81</p>
+<p>16,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,249812</p>
+<p>2,249812</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21026</p>
+<p>21026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cortelazor	</p>
+<p>Cortelazor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.217,30</p>
+<p>100.217,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">311</p>
+<p>311</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,08</p>
+<p>8,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,494705</p>
+<p>3,494705</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21027</p>
+<p>21027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cumbres de Enmedio	</p>
+<p>Cumbres de Enmedio	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.797,20</p>
+<p>91.797,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">58</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,64</p>
+<p>2,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,809155</p>
+<p>17,809155</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21028</p>
+<p>21028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cumbres de San Bartolomé	</p>
+<p>Cumbres de San Bartolomé	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.750,60</p>
+<p>102.750,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">465</p>
+<p>465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,64</p>
+<p>13,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,906325</p>
+<p>2,906325</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21029</p>
+<p>21029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cumbres Mayores	</p>
+<p>Cumbres Mayores	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.555,06</p>
+<p>127.555,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.993</p>
+<p>1.993</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,54</p>
+<p>36,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,477584</p>
+<p>0,477584</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21030</p>
+<p>21030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chucena	</p>
+<p>Chucena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.786,53</p>
+<p>129.786,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.097</p>
+<p>2.097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70,43</p>
+<p>70,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,556140</p>
+<p>0,556140</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21031</p>
+<p>21031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Encinasola	</p>
+<p>Encinasola	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.568,24</p>
+<p>122.568,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.584</p>
+<p>1.584</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,38</p>
+<p>34,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,881944</p>
+<p>0,881944</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21032</p>
+<p>21032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escacena del Campo	</p>
+<p>Escacena del Campo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.731,82</p>
+<p>122.731,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.145</p>
+<p>2.145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79,32</p>
+<p>79,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,481457</p>
+<p>0,481457</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21033</p>
+<p>21033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuenteheridos	</p>
+<p>Fuenteheridos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.360,95</p>
+<p>101.360,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">660</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,12</p>
+<p>20,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,363393</p>
+<p>1,363393</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21034</p>
+<p>21034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Galaroza	</p>
+<p>Galaroza	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.983,20</p>
+<p>119.983,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.617</p>
+<p>1.617</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,34</p>
+<p>28,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,746979</p>
+<p>0,746979</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21036</p>
+<p>21036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granada de Río-Tinto (La)	</p>
+<p>Granada de Río-Tinto (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103.637,09</p>
+<p>103.637,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">207</p>
+<p>207</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,70</p>
+<p>4,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,812958</p>
+<p>8,812958</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21037</p>
+<p>21037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granado (El)	</p>
+<p>Granado (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111.253,44</p>
+<p>111.253,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">598</p>
+<p>598</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,95</p>
+<p>7,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,422882</p>
+<p>3,422882</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21038</p>
+<p>21038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Higuera de la Sierra	</p>
+<p>Higuera de la Sierra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.607,67</p>
+<p>120.607,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.425</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,78</p>
+<p>40,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,912873</p>
+<p>0,912873</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21039</p>
+<p>21039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hinojales	</p>
+<p>Hinojales	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.593,18</p>
+<p>101.593,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">338</p>
+<p>338</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,97</p>
+<p>12,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,565361</p>
+<p>3,565361</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21040</p>
+<p>21040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hinojos	</p>
+<p>Hinojos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.944,56</p>
+<p>130.944,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.807</p>
+<p>3.807</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93,41</p>
+<p>93,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,365372</p>
+<p>0,365372</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21043</p>
+<p>21043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jabugo	</p>
+<p>Jabugo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.920,71</p>
+<p>131.920,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.403</p>
+<p>2.403</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,03</p>
+<p>53,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,406115</p>
+<p>0,406115</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21045</p>
+<p>21045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Linares de la Sierra	</p>
+<p>Linares de la Sierra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">105.894,40</p>
+<p>105.894,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">305</p>
+<p>305</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,18</p>
+<p>5,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,152463</p>
+<p>5,152463</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21046</p>
+<p>21046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lucena del Puerto	</p>
+<p>Lucena del Puerto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.841,95</p>
+<p>117.841,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.862</p>
+<p>2.862</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,98</p>
+<p>36,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,624818</p>
+<p>0,624818</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21047</p>
+<p>21047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Manzanilla	</p>
+<p>Manzanilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.908,27</p>
+<p>124.908,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.361</p>
+<p>2.361</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,85</p>
+<p>48,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,468760</p>
+<p>0,468760</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21048</p>
+<p>21048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marines (Los)	</p>
+<p>Marines (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.686,08</p>
+<p>101.686,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">349</p>
+<p>349</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,61</p>
+<p>9,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,634722</p>
+<p>2,634722</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21049</p>
+<p>21049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Minas de Riotinto	</p>
+<p>Minas de Riotinto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165.162,23</p>
+<p>165.162,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.263</p>
+<p>4.263</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,79</p>
+<p>132,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,298529</p>
+<p>0,298529</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21051</p>
+<p>21051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nava (La)	</p>
+<p>Nava (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.871,49</p>
+<p>99.871,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">330</p>
+<p>330</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,08</p>
+<p>7,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,158373</p>
+<p>5,158373</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21053</p>
+<p>21053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Niebla	</p>
+<p>Niebla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.539,37</p>
+<p>141.539,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.102</p>
+<p>4.102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103,48</p>
+<p>103,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,246475</p>
+<p>0,246475</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21056</p>
+<p>21056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Paterna del Campo	</p>
+<p>Paterna del Campo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.802,89</p>
+<p>142.802,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.764</p>
+<p>3.764</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">78,15</p>
+<p>78,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,312241</p>
+<p>0,312241</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21057</p>
+<p>21057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Paymogo	</p>
+<p>Paymogo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.043,46</p>
+<p>114.043,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.306</p>
+<p>1.306</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,89</p>
+<p>22,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,060381</p>
+<p>1,060381</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21058</p>
+<p>21058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puebla de Guzmán	</p>
+<p>Puebla de Guzmán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.050,22</p>
+<p>142.050,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.199</p>
+<p>3.199</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">43,57</p>
+<p>43,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,440777</p>
+<p>0,440777</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21059</p>
+<p>21059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puerto Moral	</p>
+<p>Puerto Moral	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.169,75</p>
+<p>94.169,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">273</p>
+<p>273</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,11</p>
+<p>3,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,693691</p>
+<p>8,693691</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21062</p>
+<p>21062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rosal de la Frontera	</p>
+<p>Rosal de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.782,57</p>
+<p>123.782,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.846</p>
+<p>1.846</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,78</p>
+<p>39,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,766556</p>
+<p>0,766556</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21063</p>
+<p>21063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Bartolomé de la Torre	</p>
+<p>San Bartolomé de la Torre	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.863,35</p>
+<p>133.863,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.446</p>
+<p>3.446</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">59,58</p>
+<p>59,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,378273</p>
+<p>0,378273</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21065</p>
+<p>21065</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sanlúcar de Guadiana	</p>
+<p>Sanlúcar de Guadiana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.242,02</p>
+<p>98.242,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">370</p>
+<p>370</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,21</p>
+<p>9,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,749082</p>
+<p>2,749082</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21066</p>
+<p>21066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Silvestre de Guzmán	</p>
+<p>San Silvestre de Guzmán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.477,57</p>
+<p>112.477,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">754</p>
+<p>754</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,16</p>
+<p>12,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,275427</p>
+<p>2,275427</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21067</p>
+<p>21067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Ana la Real	</p>
+<p>Santa Ana la Real	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.059,72</p>
+<p>108.059,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">519</p>
+<p>519</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,75</p>
+<p>10,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,282344</p>
+<p>3,282344</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21068</p>
+<p>21068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Bárbara de Casa	</p>
+<p>Santa Bárbara de Casa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.348,28</p>
+<p>113.348,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.188</p>
+<p>1.188</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,14</p>
+<p>24,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,068380</p>
+<p>1,068380</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21069</p>
+<p>21069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Olalla del Cala	</p>
+<p>Santa Olalla del Cala	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.648,17</p>
+<p>126.648,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.164</p>
+<p>2.164</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,11</p>
+<p>46,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,573335</p>
+<p>0,573335</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21071</p>
+<p>21071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valdelarco	</p>
+<p>Valdelarco	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.893,09</p>
+<p>100.893,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">240</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,36</p>
+<p>6,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,897154</p>
+<p>4,897154</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21073</p>
+<p>21073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villablanca	</p>
+<p>Villablanca	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.525,47</p>
+<p>123.525,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.732</p>
+<p>2.732</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,62</p>
+<p>28,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,560577</p>
+<p>0,560577</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21074</p>
+<p>21074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villalba del Alcor	</p>
+<p>Villalba del Alcor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.680,43</p>
+<p>143.680,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.527</p>
+<p>3.527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">81,84</p>
+<p>81,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,353204</p>
+<p>0,353204</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21075</p>
+<p>21075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de las Cruces	</p>
+<p>Villanueva de las Cruces	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.892,14</p>
+<p>106.892,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">421</p>
+<p>421</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,54</p>
+<p>7,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,147394</p>
+<p>4,147394</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21076</p>
+<p>21076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de los Castillejos	</p>
+<p>Villanueva de los Castillejos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.638,16</p>
+<p>126.638,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.783</p>
+<p>2.783</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94,79</p>
+<p>94,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,427647</p>
+<p>0,427647</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21077</p>
+<p>21077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villarrasa	</p>
+<p>Villarrasa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.569,82</p>
+<p>120.569,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.149</p>
+<p>2.149</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">43,71</p>
+<p>43,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,503393</p>
+<p>0,503393</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21078</p>
+<p>21078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zalamea la Real	</p>
+<p>Zalamea la Real	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160.078,65</p>
+<p>160.078,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.461</p>
+<p>3.461</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">73,21</p>
+<p>73,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,445991</p>
+<p>0,445991</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21079</p>
+<p>21079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zufre	</p>
+<p>Zufre	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.566,36</p>
+<p>102.566,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">973</p>
+<p>973</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,41</p>
+<p>20,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,699154</p>
+<p>1,699154</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23001</p>
+<p>23001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albánchez de Mágina	</p>
+<p>Albánchez de Mágina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.740,22</p>
+<p>129.740,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.264</p>
+<p>1.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,51</p>
+<p>20,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,430511</p>
+<p>1,430511</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23004</p>
+<p>23004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aldeaquemada	</p>
+<p>Aldeaquemada	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.120,45</p>
+<p>98.120,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">552</p>
+<p>552</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,74</p>
+<p>22,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,868999</p>
+<p>1,868999</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23007</p>
+<p>23007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arjonilla	</p>
+<p>Arjonilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.241,03</p>
+<p>148.241,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.876</p>
+<p>3.876</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">78,55</p>
+<p>78,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,274661</p>
+<p>0,274661</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23008</p>
+<p>23008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arquillos	</p>
+<p>Arquillos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.811,38</p>
+<p>132.811,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.937</p>
+<p>1.937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,80</p>
+<p>40,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,242642</p>
+<p>1,242642</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23011</p>
+<p>23011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Baños de la Encina	</p>
+<p>Baños de la Encina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.880,85</p>
+<p>135.880,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.713</p>
+<p>2.713</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,10</p>
+<p>45,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,520299</p>
+<p>0,520299</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23014</p>
+<p>23014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Begíjar	</p>
+<p>Begíjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.754,25</p>
+<p>140.754,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.148</p>
+<p>3.148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">71,22</p>
+<p>71,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,330460</p>
+<p>0,330460</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23015</p>
+<p>23015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bélmez de la Moraleda	</p>
+<p>Bélmez de la Moraleda	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.434,25</p>
+<p>142.434,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.868</p>
+<p>1.868</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,25</p>
+<p>31,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,156439</p>
+<p>1,156439</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23016</p>
+<p>23016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benatae	</p>
+<p>Benatae	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.545,90</p>
+<p>98.545,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">563</p>
+<p>563</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,72</p>
+<p>12,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,502192</p>
+<p>1,502192</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23017</p>
+<p>23017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cabra del Santo Cristo	</p>
+<p>Cabra del Santo Cristo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.496,81</p>
+<p>137.496,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.110</p>
+<p>2.110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,11</p>
+<p>38,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,649289</p>
+<p>0,649289</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23018</p>
+<p>23018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cambil	</p>
+<p>Cambil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.082,58</p>
+<p>151.082,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.967</p>
+<p>2.967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,19</p>
+<p>53,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,469065</p>
+<p>0,469065</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23019</p>
+<p>23019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Campillo de Arenas	</p>
+<p>Campillo de Arenas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.451,73</p>
+<p>127.451,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.977</p>
+<p>1.977</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56,16</p>
+<p>56,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,604735</p>
+<p>0,604735</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23020</p>
+<p>23020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canena	</p>
+<p>Canena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.119,91</p>
+<p>128.119,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.096</p>
+<p>2.096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50,91</p>
+<p>50,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,533287</p>
+<p>0,533287</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23021</p>
+<p>23021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carboneros	</p>
+<p>Carboneros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.366,81</p>
+<p>99.366,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">670</p>
+<p>670</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,25</p>
+<p>13,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,368301</p>
+<p>2,368301</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23025</p>
+<p>23025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castellar	</p>
+<p>Castellar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.126,32</p>
+<p>153.126,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.614</p>
+<p>3.614</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91,61</p>
+<p>91,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,288266</p>
+<p>0,288266</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23026</p>
+<p>23026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castillo de Locubín	</p>
+<p>Castillo de Locubín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199.068,48</p>
+<p>199.068,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.832</p>
+<p>4.832</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91,56</p>
+<p>91,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,253056</p>
+<p>0,253056</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23027</p>
+<p>23027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cazalilla	</p>
+<p>Cazalilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">105.013,32</p>
+<p>105.013,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,81</p>
+<p>29,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,470267</p>
+<p>1,470267</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23029</p>
+<p>23029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chiclana de Segura	</p>
+<p>Chiclana de Segura	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.825,07</p>
+<p>112.825,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.194</p>
+<p>1.194</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,52</p>
+<p>35,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,241356</p>
+<p>1,241356</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23030</p>
+<p>23030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chilluévar	</p>
+<p>Chilluévar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.913,32</p>
+<p>124.913,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.604</p>
+<p>1.604</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">41,91</p>
+<p>41,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,749437</p>
+<p>0,749437</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23031</p>
+<p>23031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escañuela	</p>
+<p>Escañuela	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.909,89</p>
+<p>126.909,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">958</p>
+<p>958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,40</p>
+<p>25,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,623251</p>
+<p>1,623251</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23032</p>
+<p>23032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espelúy	</p>
+<p>Espelúy	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.718,32</p>
+<p>108.718,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">759</p>
+<p>759</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,14</p>
+<p>25,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,734871</p>
+<p>2,734871</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23033</p>
+<p>23033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Frailes	</p>
+<p>Frailes	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157.759,43</p>
+<p>157.759,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.817</p>
+<p>1.817</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52,16</p>
+<p>52,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,810419</p>
+<p>0,810419</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23034</p>
+<p>23034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuensanta de Martos	</p>
+<p>Fuensanta de Martos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164.454,92</p>
+<p>164.454,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.300</p>
+<p>3.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54,32</p>
+<p>54,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,517961</p>
+<p>0,517961</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23035</p>
+<p>23035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuerte del Rey	</p>
+<p>Fuerte del Rey	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.222,02</p>
+<p>115.222,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.315</p>
+<p>1.315</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">44,88</p>
+<p>44,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,936885</p>
+<p>0,936885</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23037</p>
+<p>23037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Génave	</p>
+<p>Génave	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.965,14</p>
+<p>99.965,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">626</p>
+<p>626</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,56</p>
+<p>18,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,465953</p>
+<p>1,465953</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23038</p>
+<p>23038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guardia de Jaén (La)	</p>
+<p>Guardia de Jaén (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.332,58</p>
+<p>125.332,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.928</p>
+<p>3.928</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175,43</p>
+<p>175,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,192793</p>
+<p>0,192793</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23039</p>
+<p>23039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guarromán	</p>
+<p>Guarromán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.528,41</p>
+<p>133.528,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.927</p>
+<p>2.927</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">415,27</p>
+<p>415,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,369682</p>
+<p>0,369682</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23040</p>
+<p>23040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lahiguera	</p>
+<p>Lahiguera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.122,82</p>
+<p>121.122,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.892</p>
+<p>1.892</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,01</p>
+<p>62,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,725029</p>
+<p>0,725029</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23041</p>
+<p>23041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Higuera de Calatrava	</p>
+<p>Higuera de Calatrava	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.886,41</p>
+<p>102.886,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">661</p>
+<p>661</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,37</p>
+<p>20,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,881708</p>
+<p>1,881708</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23042</p>
+<p>23042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hinojares	</p>
+<p>Hinojares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.597,44</p>
+<p>125.597,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">425</p>
+<p>425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,79</p>
+<p>12,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,586101</p>
+<p>5,586101</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23043</p>
+<p>23043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hornos	</p>
+<p>Hornos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.539,57</p>
+<p>108.539,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">679</p>
+<p>679</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,27</p>
+<p>9,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,584003</p>
+<p>2,584003</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23045</p>
+<p>23045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huesa	</p>
+<p>Huesa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.165,62</p>
+<p>145.165,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.693</p>
+<p>2.693</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,07</p>
+<p>40,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,540190</p>
+<p>0,540190</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23046</p>
+<p>23046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ibros	</p>
+<p>Ibros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146.557,20</p>
+<p>146.557,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.160</p>
+<p>3.160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121,92</p>
+<p>121,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,409779</p>
+<p>0,409779</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23047</p>
+<p>23047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Iruela (La)	</p>
+<p>Iruela (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136.370,93</p>
+<p>136.370,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.985</p>
+<p>1.985</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,83</p>
+<p>63,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,674159</p>
+<p>0,674159</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23048</p>
+<p>23048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Iznatoraf	</p>
+<p>Iznatoraf	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.403,13</p>
+<p>116.403,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.126</p>
+<p>1.126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,22</p>
+<p>15,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,011998</p>
+<p>1,011998</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23049</p>
+<p>23049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jabalquinto	</p>
+<p>Jabalquinto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.718,07</p>
+<p>133.718,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.393</p>
+<p>2.393</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,25</p>
+<p>46,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,684915</p>
+<p>0,684915</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23051</p>
+<p>23051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jamilena	</p>
+<p>Jamilena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.800,01</p>
+<p>142.800,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.523</p>
+<p>3.523</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">69,29</p>
+<p>69,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,262660</p>
+<p>0,262660</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23052</p>
+<p>23052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jimena	</p>
+<p>Jimena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.850,42</p>
+<p>119.850,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.493</p>
+<p>1.493</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23,58</p>
+<p>23,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,130207</p>
+<p>1,130207</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23054</p>
+<p>23054</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Larva	</p>
+<p>Larva	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.928,87</p>
+<p>122.928,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">475</p>
+<p>475</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,47</p>
+<p>16,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,934218</p>
+<p>3,934218</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23056</p>
+<p>23056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lopera	</p>
+<p>Lopera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154.642,97</p>
+<p>154.642,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.028</p>
+<p>4.028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,46</p>
+<p>87,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,337156</p>
+<p>0,337156</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23057</p>
+<p>23057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lupión	</p>
+<p>Lupión	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.619,28</p>
+<p>117.619,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>975</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,05</p>
+<p>24,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,505839</p>
+<p>1,505839</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23062</p>
+<p>23062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montizón	</p>
+<p>Montizón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.835,43</p>
+<p>129.835,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.917</p>
+<p>1.917</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50,85</p>
+<p>50,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,660543</p>
+<p>0,660543</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23064</p>
+<p>23064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Noalejo	</p>
+<p>Noalejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">134.078,77</p>
+<p>134.078,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.069</p>
+<p>2.069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,27</p>
+<p>21,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,724912</p>
+<p>0,724912</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23065</p>
+<p>23065</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Orcera	</p>
+<p>Orcera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.399,11</p>
+<p>123.399,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.138</p>
+<p>2.138</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,60</p>
+<p>34,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,521884</p>
+<p>0,521884</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23067</p>
+<p>23067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pegalajar	</p>
+<p>Pegalajar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.961,92</p>
+<p>142.961,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.145</p>
+<p>3.145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,31</p>
+<p>51,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,473436</p>
+<p>0,473436</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23071</p>
+<p>23071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puente de Génave	</p>
+<p>Puente de Génave	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.864,24</p>
+<p>126.864,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.174</p>
+<p>2.174</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50,02</p>
+<p>50,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,485315</p>
+<p>0,485315</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23072</p>
+<p>23072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puerta de Segura (La)	</p>
+<p>Puerta de Segura (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.354,83</p>
+<p>135.354,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.631</p>
+<p>2.631</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,48</p>
+<p>51,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,327810</p>
+<p>0,327810</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23074</p>
+<p>23074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rus	</p>
+<p>Rus	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166.161,62</p>
+<p>166.161,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.817</p>
+<p>3.817</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,58</p>
+<p>64,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,372839</p>
+<p>0,372839</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23075</p>
+<p>23075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sabiote	</p>
+<p>Sabiote	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166.900,70</p>
+<p>166.900,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.247</p>
+<p>4.247</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,42</p>
+<p>63,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,288128</p>
+<p>0,288128</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23076</p>
+<p>23076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Elena	</p>
+<p>Santa Elena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.350,45</p>
+<p>112.350,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.003</p>
+<p>1.003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,31</p>
+<p>28,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,150374</p>
+<p>1,150374</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23077</p>
+<p>23077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santiago de Calatrava	</p>
+<p>Santiago de Calatrava	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.976,80</p>
+<p>113.976,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">867</p>
+<p>867</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,68</p>
+<p>17,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,958115</p>
+<p>1,958115</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23079</p>
+<p>23079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santisteban del Puerto	</p>
+<p>Santisteban del Puerto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">173.592,15</p>
+<p>173.592,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.918</p>
+<p>4.918</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101,88</p>
+<p>101,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,262136</p>
+<p>0,262136</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23080</p>
+<p>23080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santo Tomé	</p>
+<p>Santo Tomé	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.467,32</p>
+<p>138.467,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.429</p>
+<p>2.429</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">66,34</p>
+<p>66,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,551875</p>
+<p>0,551875</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23081</p>
+<p>23081</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Segura de la Sierra	</p>
+<p>Segura de la Sierra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.105,85</p>
+<p>129.105,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.986</p>
+<p>1.986</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">77,25</p>
+<p>77,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,422802</p>
+<p>0,422802</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23082</p>
+<p>23082</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Siles	</p>
+<p>Siles	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136.554,18</p>
+<p>136.554,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.465</p>
+<p>2.465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,43</p>
+<p>46,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,442752</p>
+<p>0,442752</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23084</p>
+<p>23084</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sorihuela del Guadalimar	</p>
+<p>Sorihuela del Guadalimar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.032,13</p>
+<p>116.032,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.270</p>
+<p>1.270</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,14</p>
+<p>40,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,850541</p>
+<p>0,850541</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23085</p>
+<p>23085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torreblascopedro	</p>
+<p>Torreblascopedro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.782,42</p>
+<p>140.782,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.812</p>
+<p>2.812</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,86</p>
+<p>63,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,455616</p>
+<p>0,455616</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23090</p>
+<p>23090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torres	</p>
+<p>Torres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.457,27</p>
+<p>126.457,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.645</p>
+<p>1.645</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,15</p>
+<p>45,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,611811</p>
+<p>0,611811</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23091</p>
+<p>23091</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torres de Albánchez	</p>
+<p>Torres de Albánchez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.296,55</p>
+<p>104.296,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">972</p>
+<p>972</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,71</p>
+<p>12,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,305031</p>
+<p>1,305031</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23093</p>
+<p>23093</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valdepeñas de Jaén	</p>
+<p>Valdepeñas de Jaén	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166.480,16</p>
+<p>166.480,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.222</p>
+<p>4.222</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,45</p>
+<p>47,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,348496</p>
+<p>0,348496</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23096</p>
+<p>23096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de la Reina	</p>
+<p>Villanueva de la Reina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.020,88</p>
+<p>145.020,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.423</p>
+<p>3.423</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,29</p>
+<p>117,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,340597</p>
+<p>0,340597</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23098</p>
+<p>23098</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villardompardo	</p>
+<p>Villardompardo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.870,71</p>
+<p>119.870,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.140</p>
+<p>1.140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,30</p>
+<p>29,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,160393</p>
+<p>1,160393</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23101</p>
+<p>23101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villarrodrigo	</p>
+<p>Villarrodrigo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.173,23</p>
+<p>102.173,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">496</p>
+<p>496</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,95</p>
+<p>10,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,612147</p>
+<p>2,612147</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23901</p>
+<p>23901</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cárcheles	</p>
+<p>Cárcheles	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.804,48</p>
+<p>122.804,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.491</p>
+<p>1.491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,76</p>
+<p>27,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,872574</p>
+<p>0,872574</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23902</p>
+<p>23902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bedmar y Garcíez	</p>
+<p>Bedmar y Garcíez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146.724,53</p>
+<p>146.724,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.137</p>
+<p>3.137</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,22</p>
+<p>84,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,404090</p>
+<p>0,404090</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23903</p>
+<p>23903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villatorres	</p>
+<p>Villatorres	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.787,45</p>
+<p>150.787,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.464</p>
+<p>4.464</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92,90</p>
+<p>92,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,306275</p>
+<p>0,306275</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23904</p>
+<p>23904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santiago-Pontones	</p>
+<p>Santiago-Pontones	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">196.363,96</p>
+<p>196.363,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.884</p>
+<p>3.884</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,10</p>
+<p>64,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,409938</p>
+<p>0,409938</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23905</p>
+<p>23905</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arroyo del Ojanco	</p>
+<p>Arroyo del Ojanco	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.913,18</p>
+<p>130.913,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.490</p>
+<p>2.490</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80,48</p>
+<p>80,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,489675</p>
+<p>0,489675</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29002</p>
+<p>29002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaucín	</p>
+<p>Alcaucín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.239,26</p>
+<p>121.239,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.469</p>
+<p>2.469</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">66,20</p>
+<p>66,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,346075</p>
+<p>0,346075</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29003</p>
+<p>29003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alfarnate	</p>
+<p>Alfarnate	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.164,71</p>
+<p>126.164,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.362</p>
+<p>1.362</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,41</p>
+<p>15,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,221296</p>
+<p>1,221296</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29004</p>
+<p>29004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alfarnatejo	</p>
+<p>Alfarnatejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.033,98</p>
+<p>115.033,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">516</p>
+<p>516</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,18</p>
+<p>98,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,346979</p>
+<p>2,346979</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29006</p>
+<p>29006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algatocín	</p>
+<p>Algatocín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.432,27</p>
+<p>144.432,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">929</p>
+<p>929</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,92</p>
+<p>5,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,145723</p>
+<p>3,145723</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29009</p>
+<p>29009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almáchar	</p>
+<p>Almáchar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.860,59</p>
+<p>143.860,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.896</p>
+<p>1.896</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,69</p>
+<p>15,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,088816</p>
+<p>1,088816</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29010</p>
+<p>29010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almargen	</p>
+<p>Almargen	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.349,55</p>
+<p>137.349,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.153</p>
+<p>2.153</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,45</p>
+<p>38,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,825520</p>
+<p>0,825520</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29011</p>
+<p>29011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almogía	</p>
+<p>Almogía	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">189.751,73</p>
+<p>189.751,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.316</p>
+<p>4.316</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163,28</p>
+<p>163,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,206707</p>
+<p>0,206707</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29013</p>
+<p>29013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alozaina	</p>
+<p>Alozaina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146.054,10</p>
+<p>146.054,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.238</p>
+<p>2.238</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,38</p>
+<p>35,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,597067</p>
+<p>0,597067</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29014</p>
+<p>29014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alpandeire	</p>
+<p>Alpandeire	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.659,82</p>
+<p>131.659,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">278</p>
+<p>278</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,14</p>
+<p>5,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,180538</p>
+<p>7,180538</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29016</p>
+<p>29016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Árchez	</p>
+<p>Árchez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.595,53</p>
+<p>113.595,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">437</p>
+<p>437</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,51</p>
+<p>2,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,821026</p>
+<p>4,821026</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29018</p>
+<p>29018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ardales	</p>
+<p>Ardales	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.276,17</p>
+<p>135.276,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.638</p>
+<p>2.638</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,38</p>
+<p>53,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,412287</p>
+<p>0,412287</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29019</p>
+<p>29019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arenas	</p>
+<p>Arenas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.625,65</p>
+<p>130.625,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.421</p>
+<p>1.421</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,96</p>
+<p>14,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,232425</p>
+<p>1,232425</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29020</p>
+<p>29020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arriate	</p>
+<p>Arriate	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175.691,99</p>
+<p>175.691,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.062</p>
+<p>4.062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">67,47</p>
+<p>67,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,265123</p>
+<p>0,265123</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29021</p>
+<p>29021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atajate	</p>
+<p>Atajate	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.449,93</p>
+<p>137.449,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146</p>
+<p>146</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,96</p>
+<p>1,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,933944</p>
+<p>18,933944</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29022</p>
+<p>29022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benadalid	</p>
+<p>Benadalid	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.734,69</p>
+<p>117.734,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">261</p>
+<p>261</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,47</p>
+<p>4,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,302469</p>
+<p>6,302469</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29023</p>
+<p>29023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benahavís	</p>
+<p>Benahavís	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.327,64</p>
+<p>106.327,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.844</p>
+<p>3.844</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.841,91</p>
+<p>4.841,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,011317</p>
+<p>0,011317</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29024</p>
+<p>29024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benalauría	</p>
+<p>Benalauría	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.467,02</p>
+<p>139.467,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">508</p>
+<p>508</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,83</p>
+<p>8,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,486717</p>
+<p>4,486717</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29026</p>
+<p>29026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benamargosa	</p>
+<p>Benamargosa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.329,84</p>
+<p>127.329,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.642</p>
+<p>1.642</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,90</p>
+<p>13,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,437140</p>
+<p>1,437140</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29027</p>
+<p>29027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benamocarra	</p>
+<p>Benamocarra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.773,13</p>
+<p>148.773,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.080</p>
+<p>3.080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,38</p>
+<p>46,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,519998</p>
+<p>0,519998</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29028</p>
+<p>29028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benaoján	</p>
+<p>Benaoján	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.861,34</p>
+<p>145.861,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.629</p>
+<p>1.629</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,82</p>
+<p>27,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,230838</p>
+<p>2,230838</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29029</p>
+<p>29029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benarrabá	</p>
+<p>Benarrabá	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.463,17</p>
+<p>125.463,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">570</p>
+<p>570</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,88</p>
+<p>9,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,540797</p>
+<p>3,540797</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29030</p>
+<p>29030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Borge (El)	</p>
+<p>Borge (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.683,10</p>
+<p>126.683,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.046</p>
+<p>1.046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,11</p>
+<p>12,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,096416</p>
+<p>2,096416</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29031</p>
+<p>29031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Burgo (El)	</p>
+<p>Burgo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.300,93</p>
+<p>142.300,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.027</p>
+<p>2.027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,60</p>
+<p>24,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,853852</p>
+<p>0,853852</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29033</p>
+<p>29033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canillas de Aceituno	</p>
+<p>Canillas de Aceituno	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159.349,99</p>
+<p>159.349,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.320</p>
+<p>2.320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,46</p>
+<p>16,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,019050</p>
+<p>1,019050</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29034</p>
+<p>29034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canillas de Albaida	</p>
+<p>Canillas de Albaida	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.058,32</p>
+<p>119.058,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">902</p>
+<p>902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,15</p>
+<p>10,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,128576</p>
+<p>1,128576</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29035</p>
+<p>29035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cañete la Real	</p>
+<p>Cañete la Real	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.448,33</p>
+<p>130.448,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.024</p>
+<p>2.024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,90</p>
+<p>38,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,772681</p>
+<p>0,772681</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29036</p>
+<p>29036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carratraca	</p>
+<p>Carratraca	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.809,48</p>
+<p>126.809,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">923</p>
+<p>923</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,12</p>
+<p>12,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,554645</p>
+<p>1,554645</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29037</p>
+<p>29037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cartajima	</p>
+<p>Cartajima	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.781,26</p>
+<p>112.781,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">242</p>
+<p>242</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,41</p>
+<p>5,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,651036</p>
+<p>5,651036</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29039</p>
+<p>29039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Casabermeja	</p>
+<p>Casabermeja	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">142.367,75</p>
+<p>142.367,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.509</p>
+<p>3.509</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116,78</p>
+<p>116,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,235707</p>
+<p>0,235707</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29040</p>
+<p>29040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Casarabonela	</p>
+<p>Casarabonela	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.704,81</p>
+<p>139.704,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.767</p>
+<p>2.767</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,85</p>
+<p>34,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,703369</p>
+<p>0,703369</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29041</p>
+<p>29041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Casares	</p>
+<p>Casares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.881,21</p>
+<p>150.881,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.797</p>
+<p>4.797</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">765,25</p>
+<p>765,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,042616</p>
+<p>0,042616</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29043</p>
+<p>29043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colmenar	</p>
+<p>Colmenar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.947,75</p>
+<p>141.947,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.625</p>
+<p>3.625</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">74,22</p>
+<p>74,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,410883</p>
+<p>0,410883</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29044</p>
+<p>29044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comares	</p>
+<p>Comares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.789,81</p>
+<p>140.789,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.570</p>
+<p>1.570</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,58</p>
+<p>13,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,657621</p>
+<p>0,657621</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29045</p>
+<p>29045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cómpeta	</p>
+<p>Cómpeta	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">155.664,00</p>
+<p>155.664,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.794</p>
+<p>3.794</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,86</p>
+<p>34,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,313094</p>
+<p>0,313094</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29046</p>
+<p>29046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cortes de la Frontera	</p>
+<p>Cortes de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175.936,30</p>
+<p>175.936,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.762</p>
+<p>3.762</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">81,19</p>
+<p>81,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,328588</p>
+<p>0,328588</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29047</p>
+<p>29047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuevas Bajas	</p>
+<p>Cuevas Bajas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.518,11</p>
+<p>115.518,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.463</p>
+<p>1.463</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,12</p>
+<p>29,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,893821</p>
+<p>0,893821</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29048</p>
+<p>29048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuevas del Becerro	</p>
+<p>Cuevas del Becerro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">187.839,16</p>
+<p>187.839,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.820</p>
+<p>1.820</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33,70</p>
+<p>33,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,605733</p>
+<p>0,605733</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29049</p>
+<p>29049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuevas de San Marcos	</p>
+<p>Cuevas de San Marcos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171.012,17</p>
+<p>171.012,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.142</p>
+<p>4.142</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,86</p>
+<p>47,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,455904</p>
+<p>0,455904</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29050</p>
+<p>29050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cútar	</p>
+<p>Cútar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.296,68</p>
+<p>107.296,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">655</p>
+<p>655</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,98</p>
+<p>6,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,967703</p>
+<p>2,967703</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29052</p>
+<p>29052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Faraján	</p>
+<p>Faraján	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.757,50</p>
+<p>120.757,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">296</p>
+<p>296</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,55</p>
+<p>2,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,126484</p>
+<p>7,126484</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29053</p>
+<p>29053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Frigiliana	</p>
+<p>Frigiliana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.709,23</p>
+<p>137.709,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.978</p>
+<p>2.978</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108,13</p>
+<p>108,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,162152</p>
+<p>0,162152</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29055</p>
+<p>29055</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuente de Piedra	</p>
+<p>Fuente de Piedra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.367,38</p>
+<p>123.367,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.582</p>
+<p>2.582</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">86,55</p>
+<p>86,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,518096</p>
+<p>0,518096</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29056</p>
+<p>29056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gaucín	</p>
+<p>Gaucín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.604,87</p>
+<p>124.604,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.983</p>
+<p>1.983</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">238,16</p>
+<p>238,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,567708</p>
+<p>0,567708</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29057</p>
+<p>29057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Genalguacil	</p>
+<p>Genalguacil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.499,76</p>
+<p>119.499,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">526</p>
+<p>526</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,81</p>
+<p>3,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,646740</p>
+<p>2,646740</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29058</p>
+<p>29058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guaro	</p>
+<p>Guaro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141.453,51</p>
+<p>141.453,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.230</p>
+<p>2.230</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,82</p>
+<p>30,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,461176</p>
+<p>0,461176</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29059</p>
+<p>29059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humilladero	</p>
+<p>Humilladero	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152.042,83</p>
+<p>152.042,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.215</p>
+<p>3.215</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,57</p>
+<p>117,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,317897</p>
+<p>0,317897</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29060</p>
+<p>29060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igualeja	</p>
+<p>Igualeja	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.059,56</p>
+<p>138.059,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">991</p>
+<p>991</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,59</p>
+<p>5,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,182389</p>
+<p>2,182389</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29061</p>
+<p>29061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Istán	</p>
+<p>Istán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.016,94</p>
+<p>108.016,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.386</p>
+<p>1.386</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121,53</p>
+<p>121,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,218762</p>
+<p>0,218762</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29062</p>
+<p>29062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Iznate	</p>
+<p>Iznate	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.652,72</p>
+<p>120.652,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">918</p>
+<p>918</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,87</p>
+<p>6,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,219805</p>
+<p>1,219805</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29063</p>
+<p>29063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jimera de Líbar	</p>
+<p>Jimera de Líbar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.131,08</p>
+<p>108.131,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">453</p>
+<p>453</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,95</p>
+<p>10,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,955027</p>
+<p>2,955027</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29064</p>
+<p>29064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jubrique	</p>
+<p>Jubrique	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.988,66</p>
+<p>121.988,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">803</p>
+<p>803</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,81</p>
+<p>5,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,265396</p>
+<p>2,265396</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29065</p>
+<p>29065</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Júzcar	</p>
+<p>Júzcar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.633,05</p>
+<p>128.633,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205</p>
+<p>205</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,13</p>
+<p>3,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,022858</p>
+<p>8,022858</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29066</p>
+<p>29066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Macharaviaya	</p>
+<p>Macharaviaya	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.073,38</p>
+<p>124.073,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">492</p>
+<p>492</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,78</p>
+<p>8,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,189901</p>
+<p>4,189901</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29071</p>
+<p>29071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Moclinejo	</p>
+<p>Moclinejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.465,74</p>
+<p>138.465,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.264</p>
+<p>1.264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,20</p>
+<p>18,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,337242</p>
+<p>1,337242</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29072</p>
+<p>29072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mollina	</p>
+<p>Mollina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">172.706,02</p>
+<p>172.706,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.963</p>
+<p>4.963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177,88</p>
+<p>177,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,196339</p>
+<p>0,196339</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29073</p>
+<p>29073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Monda	</p>
+<p>Monda	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.815,62</p>
+<p>128.815,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.342</p>
+<p>2.342</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,41</p>
+<p>46,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,326004</p>
+<p>0,326004</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29074</p>
+<p>29074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montejaque	</p>
+<p>Montejaque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.301,29</p>
+<p>140.301,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.004</p>
+<p>1.004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,32</p>
+<p>25,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,558012</p>
+<p>1,558012</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29076</p>
+<p>29076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ojén	</p>
+<p>Ojén	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.218,24</p>
+<p>112.218,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.668</p>
+<p>2.668</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">403,45</p>
+<p>403,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,080229</p>
+<p>0,080229</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29077</p>
+<p>29077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Parauta	</p>
+<p>Parauta	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.774,50</p>
+<p>106.774,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">242</p>
+<p>242</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,63</p>
+<p>3,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,042775</p>
+<p>7,042775</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29079</p>
+<p>29079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Periana	</p>
+<p>Periana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.944,10</p>
+<p>161.944,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.600</p>
+<p>3.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,98</p>
+<p>132,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,304719</p>
+<p>0,304719</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29081</p>
+<p>29081</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pujerra	</p>
+<p>Pujerra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137.260,89</p>
+<p>137.260,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">334</p>
+<p>334</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,85</p>
+<p>2,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,753124</p>
+<p>7,753124</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29083</p>
+<p>29083</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Riogordo	</p>
+<p>Riogordo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.113,75</p>
+<p>144.113,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.090</p>
+<p>3.090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,44</p>
+<p>62,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,490477</p>
+<p>0,490477</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29085</p>
+<p>29085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salares	</p>
+<p>Salares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.583,01</p>
+<p>112.583,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">210</p>
+<p>210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,19</p>
+<p>2,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,951922</p>
+<p>7,951922</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29086</p>
+<p>29086</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sayalonga	</p>
+<p>Sayalonga	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.274,89</p>
+<p>130.274,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.532</p>
+<p>1.532</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,78</p>
+<p>7,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,784626</p>
+<p>1,784626</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29087</p>
+<p>29087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sedella	</p>
+<p>Sedella	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.125,78</p>
+<p>107.125,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">694</p>
+<p>694</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,13</p>
+<p>10,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,181330</p>
+<p>2,181330</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29088</p>
+<p>29088</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sierra de Yeguas	</p>
+<p>Sierra de Yeguas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.884,18</p>
+<p>144.884,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.552</p>
+<p>3.552</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,18</p>
+<p>87,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,308381</p>
+<p>0,308381</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29089</p>
+<p>29089</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Teba	</p>
+<p>Teba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171.559,46</p>
+<p>171.559,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.253</p>
+<p>4.253</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">209,21</p>
+<p>209,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,367567</p>
+<p>0,367567</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29090</p>
+<p>29090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tolox	</p>
+<p>Tolox	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.585,24</p>
+<p>140.585,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.375</p>
+<p>2.375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,73</p>
+<p>27,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,530081</p>
+<p>0,530081</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29092</p>
+<p>29092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Totalán	</p>
+<p>Totalán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.371,47</p>
+<p>133.371,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">724</p>
+<p>724</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,92</p>
+<p>3,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,177252</p>
+<p>4,177252</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29093</p>
+<p>29093</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valle de Abdalajís	</p>
+<p>Valle de Abdalajís	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175.126,28</p>
+<p>175.126,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.908</p>
+<p>2.908</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,84</p>
+<p>16,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,096182</p>
+<p>1,096182</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29095</p>
+<p>29095</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de Algaidas	</p>
+<p>Villanueva de Algaidas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">182.249,65</p>
+<p>182.249,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.602</p>
+<p>4.602</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145,52</p>
+<p>145,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,364845</p>
+<p>0,364845</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29096</p>
+<p>29096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Rosario	</p>
+<p>Villanueva del Rosario	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.684,65</p>
+<p>161.684,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.613</p>
+<p>3.613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">278,38</p>
+<p>278,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,321092</p>
+<p>0,321092</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29098</p>
+<p>29098</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de Tapia	</p>
+<p>Villanueva de Tapia	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.117,96</p>
+<p>138.117,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.671</p>
+<p>1.671</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26,19</p>
+<p>26,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,594463</p>
+<p>0,594463</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29099</p>
+<p>29099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viñuela	</p>
+<p>Viñuela	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.625,46</p>
+<p>116.625,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.973</p>
+<p>1.973</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109,06</p>
+<p>109,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,266103</p>
+<p>0,266103</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29100</p>
+<p>29100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Yunquera	</p>
+<p>Yunquera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.078,40</p>
+<p>161.078,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.286</p>
+<p>3.286</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,15</p>
+<p>64,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,273924</p>
+<p>0,273924</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41001</p>
+<p>41001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aguadulce	</p>
+<p>Aguadulce	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.009,92</p>
+<p>125.009,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.124</p>
+<p>2.124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,93</p>
+<p>39,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,682809</p>
+<p>0,682809</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41002</p>
+<p>41002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alanís	</p>
+<p>Alanís	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.256,58</p>
+<p>128.256,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.891</p>
+<p>1.891</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34,94</p>
+<p>34,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,702106</p>
+<p>0,702106</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41003</p>
+<p>41003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albaida del Aljarafe	</p>
+<p>Albaida del Aljarafe	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136.670,46</p>
+<p>136.670,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.798</p>
+<p>2.798</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,74</p>
+<p>40,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,390289</p>
+<p>0,390289</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41006</p>
+<p>41006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcolea del Río	</p>
+<p>Alcolea del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.588,75</p>
+<p>144.588,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.370</p>
+<p>3.370</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,09</p>
+<p>48,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,529753</p>
+<p>0,529753</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41008</p>
+<p>41008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algámitas	</p>
+<p>Algámitas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.190,00</p>
+<p>124.190,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.341</p>
+<p>1.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,93</p>
+<p>14,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,136491</p>
+<p>1,136491</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41009</p>
+<p>41009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almadén de la Plata	</p>
+<p>Almadén de la Plata	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.680,40</p>
+<p>125.680,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.560</p>
+<p>1.560</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,76</p>
+<p>29,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,012112</p>
+<p>1,012112</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41012</p>
+<p>41012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aznalcázar	</p>
+<p>Aznalcázar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.191,56</p>
+<p>127.191,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.003</p>
+<p>4.003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,31</p>
+<p>129,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,215964</p>
+<p>0,215964</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41014</p>
+<p>41014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Badolatosa	</p>
+<p>Badolatosa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147.221,78</p>
+<p>147.221,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.228</p>
+<p>3.228</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,91</p>
+<p>39,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,568551</p>
+<p>0,568551</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41025</p>
+<p>41025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carrión de los Céspedes	</p>
+<p>Carrión de los Céspedes	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.048,04</p>
+<p>131.048,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.412</p>
+<p>2.412</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123,91</p>
+<p>123,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,350001</p>
+<p>0,350001</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41028</p>
+<p>41028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castilleja de Guzmán	</p>
+<p>Castilleja de Guzmán	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.600,45</p>
+<p>116.600,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.687</p>
+<p>2.687</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">37,86</p>
+<p>37,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,330709</p>
+<p>0,330709</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41030</p>
+<p>41030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castilleja del Campo	</p>
+<p>Castilleja del Campo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.423,25</p>
+<p>101.423,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">633</p>
+<p>633</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,42</p>
+<p>20,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,917004</p>
+<p>1,917004</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41031</p>
+<p>41031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castillo de las Guardas (El)	</p>
+<p>Castillo de las Guardas (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.592,67</p>
+<p>125.592,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.609</p>
+<p>1.609</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157,34</p>
+<p>157,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,335783</p>
+<p>0,335783</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41035</p>
+<p>41035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coripe	</p>
+<p>Coripe	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.997,25</p>
+<p>121.997,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.456</p>
+<p>1.456</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31,41</p>
+<p>31,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,853042</p>
+<p>0,853042</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41037</p>
+<p>41037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corrales (Los)	</p>
+<p>Corrales (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.201,80</p>
+<p>153.201,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.081</p>
+<p>4.081</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,19</p>
+<p>55,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,404290</p>
+<p>0,404290</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41043</p>
+<p>41043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Garrobo (El)	</p>
+<p>Garrobo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111.237,76</p>
+<p>111.237,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">786</p>
+<p>786</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60,36</p>
+<p>60,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,608877</p>
+<p>1,608877</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41046</p>
+<p>41046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gilena	</p>
+<p>Gilena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154.039,80</p>
+<p>154.039,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.948</p>
+<p>3.948</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106,68</p>
+<p>106,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,367649</p>
+<p>0,367649</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41048</p>
+<p>41048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guadalcanal	</p>
+<p>Guadalcanal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.335,17</p>
+<p>138.335,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.001</p>
+<p>3.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,76</p>
+<p>62,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,404499</p>
+<p>0,404499</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41051</p>
+<p>41051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huévar del Aljarafe	</p>
+<p>Huévar del Aljarafe	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124.925,29</p>
+<p>124.925,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.589</p>
+<p>2.589</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">170,67</p>
+<p>170,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,140094</p>
+<p>0,140094</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41052</p>
+<p>41052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lantejuela (La)	</p>
+<p>Lantejuela (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.746,48</p>
+<p>151.746,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.852</p>
+<p>3.852</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,72</p>
+<p>47,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,588030</p>
+<p>0,588030</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41054</p>
+<p>41054</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lora de Estepa	</p>
+<p>Lora de Estepa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106.927,90</p>
+<p>106.927,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">853</p>
+<p>853</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,83</p>
+<p>21,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,761383</p>
+<p>1,761383</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41056</p>
+<p>41056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Luisiana (La)	</p>
+<p>Luisiana (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159.960,09</p>
+<p>159.960,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.583</p>
+<p>4.583</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148,02</p>
+<p>148,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,268174</p>
+<p>0,268174</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41057</p>
+<p>41057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madroño (El)	</p>
+<p>Madroño (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.260,49</p>
+<p>104.260,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">347</p>
+<p>347</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,96</p>
+<p>7,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,507424</p>
+<p>5,507424</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41061</p>
+<p>41061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marinaleda	</p>
+<p>Marinaleda	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.951,11</p>
+<p>150.951,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.708</p>
+<p>2.708</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,70</p>
+<p>63,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,688059</p>
+<p>0,688059</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41062</p>
+<p>41062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Martín de la Jara	</p>
+<p>Martín de la Jara	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130.632,64</p>
+<p>130.632,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.758</p>
+<p>2.758</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">43,01</p>
+<p>43,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,560385</p>
+<p>0,560385</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41063</p>
+<p>41063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Molares (Los)	</p>
+<p>Molares (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.472,27</p>
+<p>129.472,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.042</p>
+<p>3.042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,54</p>
+<p>39,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,493098</p>
+<p>0,493098</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41066</p>
+<p>41066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navas de la Concepción (Las).</p>
+<p>Navas de la Concepción (Las).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.782,62</p>
+<p>123.782,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.778</p>
+<p>1.778</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,54</p>
+<p>46,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,774678</p>
+<p>0,774678</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41073</p>
+<p>41073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pedroso (El)	</p>
+<p>Pedroso (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.118,70</p>
+<p>128.118,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.272</p>
+<p>2.272</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,29</p>
+<p>39,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,449310</p>
+<p>0,449310</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41074</p>
+<p>41074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peñaflor	</p>
+<p>Peñaflor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.024,23</p>
+<p>143.024,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.764</p>
+<p>3.764</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80,19</p>
+<p>80,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,430616</p>
+<p>0,430616</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41076</p>
+<p>41076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pruna	</p>
+<p>Pruna	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">156.609,79</p>
+<p>156.609,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.955</p>
+<p>2.955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22,44</p>
+<p>22,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,785950</p>
+<p>0,785950</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41078</p>
+<p>41078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puebla de los Infantes (La)	</p>
+<p>Puebla de los Infantes (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.424,04</p>
+<p>148.424,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.299</p>
+<p>3.299</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">72,08</p>
+<p>72,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,339715</p>
+<p>0,339715</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41080</p>
+<p>41080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Real de la Jara (El)	</p>
+<p>Real de la Jara (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.342,20</p>
+<p>119.342,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.639</p>
+<p>1.639</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">43,34</p>
+<p>43,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,750438</p>
+<p>0,750438</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41082</p>
+<p>41082</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Roda de Andalucía (La)	</p>
+<p>Roda de Andalucía (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.132,80</p>
+<p>153.132,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.419</p>
+<p>4.419</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">216,20</p>
+<p>216,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,252407</p>
+<p>0,252407</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41083</p>
+<p>41083</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ronquillo (El)	</p>
+<p>Ronquillo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112.665,87</p>
+<p>112.665,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.425</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,36</p>
+<p>48,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,624340</p>
+<p>0,624340</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41084</p>
+<p>41084</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rubio (El)	</p>
+<p>Rubio (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">155.145,63</p>
+<p>155.145,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.569</p>
+<p>3.569</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">58,77</p>
+<p>58,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,559705</p>
+<p>0,559705</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41085</p>
+<p>41085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salteras	</p>
+<p>Salteras	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.823,76</p>
+<p>145.823,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.897</p>
+<p>4.897</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">267,57</p>
+<p>267,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,128310</p>
+<p>0,128310</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41088</p>
+<p>41088</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Nicolás del Puerto	</p>
+<p>San Nicolás del Puerto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.108,54</p>
+<p>116.108,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">681</p>
+<p>681</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,81</p>
+<p>24,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,289036</p>
+<p>2,289036</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41090</p>
+<p>41090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Saucejo (El)	</p>
+<p>Saucejo (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163.451,91</p>
+<p>163.451,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.457</p>
+<p>4.457</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111,53</p>
+<p>111,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,326619</p>
+<p>0,326619</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41097</p>
+<p>41097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villamanrique de la Condesa	</p>
+<p>Villamanrique de la Condesa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.757,97</p>
+<p>145.757,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.097</p>
+<p>4.097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112,78</p>
+<p>112,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,346235</p>
+<p>0,346235</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41100</p>
+<p>41100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de San Juan	</p>
+<p>Villanueva de San Juan	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128.041,03</p>
+<p>128.041,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.418</p>
+<p>1.418</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,46</p>
+<p>18,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,245827</p>
+<p>1,245827</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41901</p>
+<p>41901</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cañada Rosal	</p>
+<p>Cañada Rosal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143.409,30</p>
+<p>143.409,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.175</p>
+<p>3.175</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,17</p>
+<p>129,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,333579</p>
+<p>0,333579</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de la Concepción *.</p>
+<p>Villanueva de la Concepción *.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38.667,02</p>
+<p>38.667,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.352</p>
+<p>3.352</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">67,81</p>
+<p>67,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,257734</p>
+<p>0,257734</p>
 </td>
 </tr>
 </tbody>
@@ -13123,4220 +13114,4211 @@ Nota: El municipio de Villanueva de la Concepción se ha clasificado atendiendo 
 
 *Grupo 2. Municipios de 5.000 a 19.999 habitantes*
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_19">
-<col class="row_column_20">
-<col class="row_column_21">
-<col class="row_column_22">
-<col class="row_column_23">
-<col class="row_column_14">
-<col class="row_column_21">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código INE</p>
+<p>Código INE</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Nombre del municipio</p>
+<p>Nombre del municipio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fondo de nivelación</p>
+<p>Fondo de nivelación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Población</p>
+<p>Población</p>
 </td>
 <td>
-<p class="cabeza_tabla">Superficie urbana</p>
+<p>Superficie urbana</p>
 </td>
 <td>
-<p class="cabeza_tabla">Dispersión</p>
+<p>Dispersión</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inverso cuota líquida IBI urbano estimada</p>
+<p>Inverso cuota líquida IBI urbano estimada</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cabeza_tabla">Unidades: Euros</p>
+<p>Unidades: Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Personas</p>
+<p>Unidades: Personas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Hectáreas</p>
+<p>Unidades: Hectáreas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Entidades Singulares</p>
+<p>Unidades: Entidades Singulares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: 100.000/€</p>
+<p>Unidades: 100.000/€</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04006</p>
+<p>04006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albox	</p>
+<p>Albox	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">247.708,52</p>
+<p>247.708,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.427</p>
+<p>11.427</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">194,70</p>
+<p>194,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,100237</p>
+<p>0,100237</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04029</p>
+<p>04029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Berja	</p>
+<p>Berja	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">286.895,71</p>
+<p>286.895,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.001</p>
+<p>15.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">366,44</p>
+<p>366,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,051239</p>
+<p>0,051239</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04032</p>
+<p>04032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carboneras	</p>
+<p>Carboneras	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.266,46</p>
+<p>176.266,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.787</p>
+<p>7.787</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">218,62</p>
+<p>218,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,072204</p>
+<p>0,072204</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04035</p>
+<p>04035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuevas del Almanzora	</p>
+<p>Cuevas del Almanzora	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">283.383,48</p>
+<p>283.383,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.596</p>
+<p>12.596</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">734,22</p>
+<p>734,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">44</p>
+<p>44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,085934</p>
+<p>0,085934</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04049</p>
+<p>04049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Garrucha	</p>
+<p>Garrucha	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.263,20</p>
+<p>176.263,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.491</p>
+<p>8.491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219,04</p>
+<p>219,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,068441</p>
+<p>0,068441</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04052</p>
+<p>04052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huércal de Almería	</p>
+<p>Huércal de Almería	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">236.799,09</p>
+<p>236.799,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.990</p>
+<p>13.990</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">310,45</p>
+<p>310,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,038982</p>
+<p>0,038982</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04053</p>
+<p>04053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huércal-Overa	</p>
+<p>Huércal-Overa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">375.389,84</p>
+<p>375.389,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.834</p>
+<p>16.834</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">263,95</p>
+<p>263,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,072897</p>
+<p>0,072897</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04062</p>
+<p>04062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Macael	</p>
+<p>Macael	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154.098,85</p>
+<p>154.098,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.212</p>
+<p>6.212</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,48</p>
+<p>117,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,161173</p>
+<p>0,161173</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04064</p>
+<p>04064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mojácar	</p>
+<p>Mojácar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">168.020,94</p>
+<p>168.020,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.805</p>
+<p>6.805</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">614,79</p>
+<p>614,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,021933</p>
+<p>0,021933</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04069</p>
+<p>04069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Olula del Río	</p>
+<p>Olula del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">178.119,45</p>
+<p>178.119,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.704</p>
+<p>6.704</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,22</p>
+<p>102,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,128381</p>
+<p>0,128381</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04075</p>
+<p>04075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pulpí	</p>
+<p>Pulpí	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">206.658,73</p>
+<p>206.658,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.013</p>
+<p>8.013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.315,98</p>
+<p>1.315,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,055586</p>
+<p>0,055586</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04099</p>
+<p>04099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vélez-Rubio	</p>
+<p>Vélez-Rubio	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">203.305,88</p>
+<p>203.305,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.147</p>
+<p>7.147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111,23</p>
+<p>111,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,142127</p>
+<p>0,142127</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04100</p>
+<p>04100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vera	</p>
+<p>Vera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">228.371,52</p>
+<p>228.371,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.473</p>
+<p>13.473</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.223,17</p>
+<p>1.223,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,025404</p>
+<p>0,025404</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04903</p>
+<p>04903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mojonera (La)	</p>
+<p>Mojonera (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164.482,76</p>
+<p>164.482,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.102</p>
+<p>8.102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159,45</p>
+<p>159,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,103919</p>
+<p>0,103919</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11001</p>
+<p>11001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcalá de los Gazules	</p>
+<p>Alcalá de los Gazules	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">189.935,51</p>
+<p>189.935,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.660</p>
+<p>5.660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90,87</p>
+<p>90,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,225377</p>
+<p>0,225377</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11002</p>
+<p>11002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcalá del Valle	</p>
+<p>Alcalá del Valle	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.715,40</p>
+<p>176.715,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.363</p>
+<p>5.363</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33,06</p>
+<p>33,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,387635</p>
+<p>0,387635</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11005</p>
+<p>11005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algodonales	</p>
+<p>Algodonales	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">190.512,41</p>
+<p>190.512,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.734</p>
+<p>5.734</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92,18</p>
+<p>92,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,211337</p>
+<p>0,211337</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11010</p>
+<p>11010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bornos	</p>
+<p>Bornos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">222.668,08</p>
+<p>222.668,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.123</p>
+<p>8.123</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">81,71</p>
+<p>81,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,201369</p>
+<p>0,201369</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11016</p>
+<p>11016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chipiona	</p>
+<p>Chipiona	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">352.229,38</p>
+<p>352.229,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.447</p>
+<p>18.447</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">646,67</p>
+<p>646,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,017549</p>
+<p>0,017549</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11021</p>
+<p>11021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jimena de la Frontera	</p>
+<p>Jimena de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">238.398,67</p>
+<p>238.398,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.330</p>
+<p>10.330</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">256,06</p>
+<p>256,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,101935</p>
+<p>0,101935</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11023</p>
+<p>11023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Medina-Sidonia	</p>
+<p>Medina-Sidonia	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">274.414,26</p>
+<p>274.414,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.514</p>
+<p>11.514</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126,81</p>
+<p>126,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,113338</p>
+<p>0,113338</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11024</p>
+<p>11024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Olvera	</p>
+<p>Olvera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">233.318,31</p>
+<p>233.318,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.629</p>
+<p>8.629</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153,75</p>
+<p>153,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,109142</p>
+<p>0,109142</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11025</p>
+<p>11025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Paterna de Rivera	</p>
+<p>Paterna de Rivera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.198,66</p>
+<p>184.198,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.578</p>
+<p>5.578</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,74</p>
+<p>61,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,251553</p>
+<p>0,251553</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11026</p>
+<p>11026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prado del Rey	</p>
+<p>Prado del Rey	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">191.679,59</p>
+<p>191.679,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.995</p>
+<p>5.995</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52,89</p>
+<p>52,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,163824</p>
+<p>0,163824</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11029</p>
+<p>11029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puerto Serrano	</p>
+<p>Puerto Serrano	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">191.942,94</p>
+<p>191.942,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.092</p>
+<p>7.092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">74,28</p>
+<p>74,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,217289</p>
+<p>0,217289</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11035</p>
+<p>11035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarifa	</p>
+<p>Tarifa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">375.450,42</p>
+<p>375.450,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.736</p>
+<p>17.736</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">883,16</p>
+<p>883,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,036206</p>
+<p>0,036206</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11037</p>
+<p>11037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trebujena	</p>
+<p>Trebujena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200.011,95</p>
+<p>200.011,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.920</p>
+<p>6.920</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">66,77</p>
+<p>66,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,169216</p>
+<p>0,169216</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11038</p>
+<p>11038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ubrique	</p>
+<p>Ubrique	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">376.546,91</p>
+<p>376.546,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.071</p>
+<p>17.071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103,48</p>
+<p>103,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,062322</p>
+<p>0,062322</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11039</p>
+<p>11039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vejer de la Frontera	</p>
+<p>Vejer de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">318.384,91</p>
+<p>318.384,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.991</p>
+<p>12.991</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">367,27</p>
+<p>367,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,060499</p>
+<p>0,060499</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11041</p>
+<p>11041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villamartín	</p>
+<p>Villamartín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">249.508,11</p>
+<p>249.508,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.385</p>
+<p>12.385</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">236,34</p>
+<p>236,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,096425</p>
+<p>0,096425</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11901</p>
+<p>11901</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benalup-Casas Viejas	</p>
+<p>Benalup-Casas Viejas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">209.939,07</p>
+<p>209.939,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.139</p>
+<p>7.139</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163,97</p>
+<p>163,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,166856</p>
+<p>0,166856</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14002</p>
+<p>14002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aguilar de la Frontera	</p>
+<p>Aguilar de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">303.475,85</p>
+<p>303.475,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.692</p>
+<p>13.692</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">193,42</p>
+<p>193,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,107218</p>
+<p>0,107218</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14005</p>
+<p>14005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almodóvar del Río	</p>
+<p>Almodóvar del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">216.844,33</p>
+<p>216.844,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.746</p>
+<p>7.746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127,14</p>
+<p>127,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,269692</p>
+<p>0,269692</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14010</p>
+<p>14010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benamejí	</p>
+<p>Benamejí	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164.783,54</p>
+<p>164.783,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.122</p>
+<p>5.122</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">89,70</p>
+<p>89,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,191713</p>
+<p>0,191713</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14012</p>
+<p>14012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bujalance	</p>
+<p>Bujalance	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">236.232,15</p>
+<p>236.232,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.941</p>
+<p>7.941</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145,05</p>
+<p>145,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,174744</p>
+<p>0,174744</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14017</p>
+<p>14017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carlota (La)	</p>
+<p>Carlota (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">313.353,26</p>
+<p>313.353,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.827</p>
+<p>12.827</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">360,53</p>
+<p>360,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,074496</p>
+<p>0,074496</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14019</p>
+<p>14019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castro del Río	</p>
+<p>Castro del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">208.775,75</p>
+<p>208.775,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.064</p>
+<p>8.064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">83,11</p>
+<p>83,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,199094</p>
+<p>0,199094</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14022</p>
+<p>14022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Doña Mencía	</p>
+<p>Doña Mencía	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">196.729,74</p>
+<p>196.729,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.029</p>
+<p>5.029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,51</p>
+<p>55,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,299304</p>
+<p>0,299304</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14027</p>
+<p>14027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fernán-Núñez	</p>
+<p>Fernán-Núñez	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">236.385,71</p>
+<p>236.385,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.594</p>
+<p>9.594</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146,68</p>
+<p>146,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,139453</p>
+<p>0,139453</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14029</p>
+<p>14029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuente Obejuna	</p>
+<p>Fuente Obejuna	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">214.102,35</p>
+<p>214.102,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.309</p>
+<p>5.309</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157,90</p>
+<p>157,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,291634</p>
+<p>0,291634</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14030</p>
+<p>14030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuente Palmera	</p>
+<p>Fuente Palmera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">257.173,34</p>
+<p>257.173,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.727</p>
+<p>10.727</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153,61</p>
+<p>153,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,172330</p>
+<p>0,172330</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14035</p>
+<p>14035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hinojosa del Duque	</p>
+<p>Hinojosa del Duque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">233.172,07</p>
+<p>233.172,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.475</p>
+<p>7.475</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120,86</p>
+<p>120,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,287951</p>
+<p>0,287951</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14043</p>
+<p>14043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montoro	</p>
+<p>Montoro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">235.359,42</p>
+<p>235.359,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.895</p>
+<p>9.895</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160,32</p>
+<p>160,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,126460</p>
+<p>0,126460</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14046</p>
+<p>14046</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nueva Carteya	</p>
+<p>Nueva Carteya	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">204.465,86</p>
+<p>204.465,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.696</p>
+<p>5.696</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56,03</p>
+<p>56,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,295515</p>
+<p>0,295515</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14052</p>
+<p>14052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peñarroya-Pueblonuevo	</p>
+<p>Peñarroya-Pueblonuevo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.279,34</p>
+<p>290.279,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.863</p>
+<p>11.863</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">269,72</p>
+<p>269,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,119664</p>
+<p>0,119664</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14053</p>
+<p>14053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Posadas	</p>
+<p>Posadas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">195.802,50</p>
+<p>195.802,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.322</p>
+<p>7.322</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">395,72</p>
+<p>395,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,175551</p>
+<p>0,175551</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14054</p>
+<p>14054</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pozoblanco	</p>
+<p>Pozoblanco	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">330.625,60</p>
+<p>330.625,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.590</p>
+<p>17.590</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">347,23</p>
+<p>347,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,043003</p>
+<p>0,043003</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14057</p>
+<p>14057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rambla (La)	</p>
+<p>Rambla (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200.454,37</p>
+<p>200.454,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.564</p>
+<p>7.564</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171,73</p>
+<p>171,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,125385</p>
+<p>0,125385</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14058</p>
+<p>14058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rute	</p>
+<p>Rute	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">256.560,29</p>
+<p>256.560,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.452</p>
+<p>10.452</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115,33</p>
+<p>115,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,113427</p>
+<p>0,113427</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14060</p>
+<p>14060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santaella	</p>
+<p>Santaella	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">178.223,24</p>
+<p>178.223,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.050</p>
+<p>6.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">68,00</p>
+<p>68,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,261277</p>
+<p>0,261277</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14066</p>
+<p>14066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villa del Río	</p>
+<p>Villa del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">193.337,16</p>
+<p>193.337,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.411</p>
+<p>7.411</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82,84</p>
+<p>82,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,158978</p>
+<p>0,158978</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14069</p>
+<p>14069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva de Córdoba	</p>
+<p>Villanueva de Córdoba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">255.117,27</p>
+<p>255.117,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.729</p>
+<p>9.729</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171,19</p>
+<p>171,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,138877</p>
+<p>0,138877</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18003</p>
+<p>18003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albolote	</p>
+<p>Albolote	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">285.996,86</p>
+<p>285.996,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.879</p>
+<p>16.879</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">584,97</p>
+<p>584,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,027747</p>
+<p>0,027747</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18006</p>
+<p>18006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albuñol	</p>
+<p>Albuñol	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.364,89</p>
+<p>184.364,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.459</p>
+<p>6.459</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,94</p>
+<p>45,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,289195</p>
+<p>0,289195</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18011</p>
+<p>18011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alfacar	</p>
+<p>Alfacar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154.824,83</p>
+<p>154.824,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.401</p>
+<p>5.401</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163,37</p>
+<p>163,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,127516</p>
+<p>0,127516</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18013</p>
+<p>18013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alhama de Granada	</p>
+<p>Alhama de Granada	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">201.697,86</p>
+<p>201.697,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.035</p>
+<p>6.035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,93</p>
+<p>87,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,134648</p>
+<p>0,134648</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18014</p>
+<p>18014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alhendín	</p>
+<p>Alhendín	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147.897,05</p>
+<p>147.897,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.108</p>
+<p>6.108</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">311,21</p>
+<p>311,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,113801</p>
+<p>0,113801</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18022</p>
+<p>18022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atarfe	</p>
+<p>Atarfe	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">276.747,82</p>
+<p>276.747,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.803</p>
+<p>14.803</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">957,78</p>
+<p>957,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,050159</p>
+<p>0,050159</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18047</p>
+<p>18047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cenes de la Vega	</p>
+<p>Cenes de la Vega	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.266,24</p>
+<p>161.266,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.458</p>
+<p>6.458</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">96,13</p>
+<p>96,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,119115</p>
+<p>0,119115</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18057</p>
+<p>18057</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cúllar Vega	</p>
+<p>Cúllar Vega	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164.908,95</p>
+<p>164.908,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.503</p>
+<p>6.503</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159,17</p>
+<p>159,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,113970</p>
+<p>0,113970</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18062</p>
+<p>18062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Churriana de la Vega	</p>
+<p>Churriana de la Vega	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">197.520,69</p>
+<p>197.520,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.162</p>
+<p>11.162</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164,40</p>
+<p>164,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,080891</p>
+<p>0,080891</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18071</p>
+<p>18071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dúrcal	</p>
+<p>Dúrcal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">191.064,36</p>
+<p>191.064,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.152</p>
+<p>7.152</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,74</p>
+<p>132,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,107824</p>
+<p>0,107824</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18084</p>
+<p>18084</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gójar	</p>
+<p>Gójar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133.185,43</p>
+<p>133.185,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.096</p>
+<p>5.096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">183,85</p>
+<p>183,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,108596</p>
+<p>0,108596</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18098</p>
+<p>18098</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huéscar	</p>
+<p>Huéscar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">239.275,02</p>
+<p>239.275,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.226</p>
+<p>8.226</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153,34</p>
+<p>153,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,155734</p>
+<p>0,155734</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18100</p>
+<p>18100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huétor Tájar	</p>
+<p>Huétor Tájar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">206.402,66</p>
+<p>206.402,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.654</p>
+<p>9.654</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">185,08</p>
+<p>185,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,088814</p>
+<p>0,088814</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18101</p>
+<p>18101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huétor Vega	</p>
+<p>Huétor Vega	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">208.150,83</p>
+<p>208.150,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.103</p>
+<p>11.103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">192,83</p>
+<p>192,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,069859</p>
+<p>0,069859</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18102</p>
+<p>18102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Illora	</p>
+<p>Illora	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">251.838,15</p>
+<p>251.838,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.399</p>
+<p>10.399</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300,64</p>
+<p>300,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,094405</p>
+<p>0,094405</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18105</p>
+<p>18105</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Iznalloz	</p>
+<p>Iznalloz	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219.259,44</p>
+<p>219.259,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.150</p>
+<p>7.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109,67</p>
+<p>109,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,391489</p>
+<p>0,391489</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18134</p>
+<p>18134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Monachil	</p>
+<p>Monachil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163.180,85</p>
+<p>163.180,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.644</p>
+<p>6.644</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">274,89</p>
+<p>274,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,033200</p>
+<p>0,033200</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18135</p>
+<p>18135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montefrío	</p>
+<p>Montefrío	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">216.677,72</p>
+<p>216.677,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.357</p>
+<p>6.357</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,81</p>
+<p>102,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,257540</p>
+<p>0,257540</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18145</p>
+<p>18145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ogíjares	</p>
+<p>Ogíjares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224.795,21</p>
+<p>224.795,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.867</p>
+<p>12.867</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">362,27</p>
+<p>362,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,047734</p>
+<p>0,047734</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18147</p>
+<p>18147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Órgiva	</p>
+<p>Órgiva	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.431,38</p>
+<p>184.431,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.640</p>
+<p>5.640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">76,47</p>
+<p>76,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,275442</p>
+<p>0,275442</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18149</p>
+<p>18149</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otura	</p>
+<p>Otura	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.183,81</p>
+<p>151.183,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.135</p>
+<p>6.135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">450,89</p>
+<p>450,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,085687</p>
+<p>0,085687</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18150</p>
+<p>18150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Padul	</p>
+<p>Padul	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">186.559,99</p>
+<p>186.559,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.224</p>
+<p>8.224</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">330,52</p>
+<p>330,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,081391</p>
+<p>0,081391</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18153</p>
+<p>18153</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peligros	</p>
+<p>Peligros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">208.122,20</p>
+<p>208.122,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.848</p>
+<p>10.848</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">262,68</p>
+<p>262,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,054610</p>
+<p>0,054610</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18158</p>
+<p>18158</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pinos Puente	</p>
+<p>Pinos Puente	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">295.972,17</p>
+<p>295.972,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.551</p>
+<p>13.551</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">347,22</p>
+<p>347,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,100290</p>
+<p>0,100290</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18173</p>
+<p>18173</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salobreña	</p>
+<p>Salobreña	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">271.795,20</p>
+<p>271.795,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.684</p>
+<p>12.684</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">413,36</p>
+<p>413,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,040586</p>
+<p>0,040586</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18175</p>
+<p>18175</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Fe	</p>
+<p>Santa Fe	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">277.544,64</p>
+<p>277.544,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.107</p>
+<p>15.107</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">293,68</p>
+<p>293,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,057591</p>
+<p>0,057591</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18193</p>
+<p>18193</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zubia (La)	</p>
+<p>Zubia (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.333,96</p>
+<p>290.333,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.434</p>
+<p>17.434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">427,30</p>
+<p>427,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,047263</p>
+<p>0,047263</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18905</p>
+<p>18905</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gabias (Las)	</p>
+<p>Gabias (Las)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">237.135,63</p>
+<p>237.135,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.945</p>
+<p>14.945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">620,25</p>
+<p>620,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,046156</p>
+<p>0,046156</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18911</p>
+<p>18911</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vegas del Genil	</p>
+<p>Vegas del Genil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.324,07</p>
+<p>176.324,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.061</p>
+<p>8.061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">239,20</p>
+<p>239,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,144986</p>
+<p>0,144986</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21002</p>
+<p>21002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aljaraque	</p>
+<p>Aljaraque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">270.123,54</p>
+<p>270.123,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.194</p>
+<p>17.194</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">704,28</p>
+<p>704,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,053422</p>
+<p>0,053422</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21007</p>
+<p>21007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aracena	</p>
+<p>Aracena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">204.278,92</p>
+<p>204.278,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.468</p>
+<p>7.468</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">237,85</p>
+<p>237,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,089439</p>
+<p>0,089439</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21010</p>
+<p>21010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ayamonte	</p>
+<p>Ayamonte	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">343.594,94</p>
+<p>343.594,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.738</p>
+<p>19.738</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.093,73</p>
+<p>1.093,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,022413</p>
+<p>0,022413</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21013</p>
+<p>21013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bollullos Par del Condado	</p>
+<p>Bollullos Par del Condado	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">254.637,76</p>
+<p>254.637,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.906</p>
+<p>13.906</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">209,30</p>
+<p>209,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,068159</p>
+<p>0,068159</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21014</p>
+<p>21014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bonares	</p>
+<p>Bonares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">145.783,94</p>
+<p>145.783,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.762</p>
+<p>5.762</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106,24</p>
+<p>106,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,189169</p>
+<p>0,189169</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21021</p>
+<p>21021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cartaya	</p>
+<p>Cartaya	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">253.174,79</p>
+<p>253.174,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.424</p>
+<p>17.424</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">553,63</p>
+<p>553,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,035770</p>
+<p>0,035770</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21025</p>
+<p>21025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cortegana	</p>
+<p>Cortegana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.037,54</p>
+<p>176.037,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.026</p>
+<p>5.026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">76,39</p>
+<p>76,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,243804</p>
+<p>0,243804</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21035</p>
+<p>21035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gibraleón	</p>
+<p>Gibraleón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">243.857,48</p>
+<p>243.857,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.120</p>
+<p>12.120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">192,98</p>
+<p>192,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,073482</p>
+<p>0,073482</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21050</p>
+<p>21050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Moguer	</p>
+<p>Moguer	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.313,42</p>
+<p>290.313,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.032</p>
+<p>19.032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">296,37</p>
+<p>296,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,037861</p>
+<p>0,037861</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21052</p>
+<p>21052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nerva	</p>
+<p>Nerva	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">192.832,20</p>
+<p>192.832,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.994</p>
+<p>5.994</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116,81</p>
+<p>116,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,222969</p>
+<p>0,222969</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21054</p>
+<p>21054</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palma del Condado (La)	</p>
+<p>Palma del Condado (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">222.293,02</p>
+<p>222.293,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.340</p>
+<p>10.340</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">447,56</p>
+<p>447,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,073705</p>
+<p>0,073705</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21055</p>
+<p>21055</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palos de la Frontera	</p>
+<p>Palos de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">179.700,50</p>
+<p>179.700,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.964</p>
+<p>8.964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">870,53</p>
+<p>870,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,043777</p>
+<p>0,043777</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21060</p>
+<p>21060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Punta Umbría	</p>
+<p>Punta Umbría	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">255.388,38</p>
+<p>255.388,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.515</p>
+<p>14.515</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">317,60</p>
+<p>317,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,021872</p>
+<p>0,021872</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21061</p>
+<p>21061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rociana del Condado	</p>
+<p>Rociana del Condado	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166.235,81</p>
+<p>166.235,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.341</p>
+<p>7.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128,66</p>
+<p>128,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,148829</p>
+<p>0,148829</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21064</p>
+<p>21064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Juan del Puerto	</p>
+<p>San Juan del Puerto	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.762,99</p>
+<p>184.762,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.798</p>
+<p>7.798</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">172,24</p>
+<p>172,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,122744</p>
+<p>0,122744</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21070</p>
+<p>21070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trigueros	</p>
+<p>Trigueros	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">195.168,75</p>
+<p>195.168,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.477</p>
+<p>7.477</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137,62</p>
+<p>137,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,115044</p>
+<p>0,115044</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21072</p>
+<p>21072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valverde del Camino	</p>
+<p>Valverde del Camino	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">263.161,87</p>
+<p>263.161,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.665</p>
+<p>12.665</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">388,77</p>
+<p>388,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,067454</p>
+<p>0,067454</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23003</p>
+<p>23003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaudete	</p>
+<p>Alcaudete	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">301.983,78</p>
+<p>301.983,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.015</p>
+<p>11.015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">356,39</p>
+<p>356,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,104427</p>
+<p>0,104427</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23006</p>
+<p>23006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arjona	</p>
+<p>Arjona	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">170.498,54</p>
+<p>170.498,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.826</p>
+<p>5.826</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106,62</p>
+<p>106,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,196388</p>
+<p>0,196388</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23009</p>
+<p>23009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Baeza	</p>
+<p>Baeza	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">326.573,79</p>
+<p>326.573,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.197</p>
+<p>16.197</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">368,94</p>
+<p>368,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,044484</p>
+<p>0,044484</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23010</p>
+<p>23010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bailén	</p>
+<p>Bailén	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">354.024,57</p>
+<p>354.024,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.798</p>
+<p>18.798</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">294,88</p>
+<p>294,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,048819</p>
+<p>0,048819</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23012</p>
+<p>23012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beas de Segura	</p>
+<p>Beas de Segura	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">179.271,13</p>
+<p>179.271,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.586</p>
+<p>5.586</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108,27</p>
+<p>108,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,207910</p>
+<p>0,207910</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23024</p>
+<p>23024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carolina (La)	</p>
+<p>Carolina (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">327.859,87</p>
+<p>327.859,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.649</p>
+<p>15.649</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">342,42</p>
+<p>342,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,067837</p>
+<p>0,067837</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23028</p>
+<p>23028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cazorla	</p>
+<p>Cazorla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">223.099,97</p>
+<p>223.099,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.170</p>
+<p>8.170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122,05</p>
+<p>122,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,121262</p>
+<p>0,121262</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23044</p>
+<p>23044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huelma	</p>
+<p>Huelma	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">194.312,46</p>
+<p>194.312,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.233</p>
+<p>6.233</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131,34</p>
+<p>131,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,115920</p>
+<p>0,115920</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23053</p>
+<p>23053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jódar	</p>
+<p>Jódar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">245.583,80</p>
+<p>245.583,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.119</p>
+<p>12.119</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">178,15</p>
+<p>178,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,118482</p>
+<p>0,118482</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23058</p>
+<p>23058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mancha Real	</p>
+<p>Mancha Real	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">214.837,39</p>
+<p>214.837,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.754</p>
+<p>10.754</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">305,39</p>
+<p>305,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,071447</p>
+<p>0,071447</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23059</p>
+<p>23059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marmolejo	</p>
+<p>Marmolejo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">197.915,56</p>
+<p>197.915,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.600</p>
+<p>7.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133,91</p>
+<p>133,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,115106</p>
+<p>0,115106</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23061</p>
+<p>23061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mengíbar	</p>
+<p>Mengíbar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">203.466,98</p>
+<p>203.466,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.378</p>
+<p>9.378</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">212,03</p>
+<p>212,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,129604</p>
+<p>0,129604</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23063</p>
+<p>23063</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navas de San Juan	</p>
+<p>Navas de San Juan	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">183.112,28</p>
+<p>183.112,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.053</p>
+<p>5.053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">83,31</p>
+<p>83,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,275408</p>
+<p>0,275408</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23066</p>
+<p>23066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peal de Becerro	</p>
+<p>Peal de Becerro	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171.678,81</p>
+<p>171.678,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.551</p>
+<p>5.551</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125,38</p>
+<p>125,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,174715</p>
+<p>0,174715</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23069</p>
+<p>23069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Porcuna	</p>
+<p>Porcuna	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205.174,87</p>
+<p>205.174,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.939</p>
+<p>6.939</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112,89</p>
+<p>112,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,109349</p>
+<p>0,109349</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23070</p>
+<p>23070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pozo Alcón	</p>
+<p>Pozo Alcón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">189.336,30</p>
+<p>189.336,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.464</p>
+<p>5.464</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127,51</p>
+<p>127,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,180767</p>
+<p>0,180767</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23073</p>
+<p>23073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Quesada	</p>
+<p>Quesada	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">197.812,33</p>
+<p>197.812,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.944</p>
+<p>5.944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">69,98</p>
+<p>69,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,197178</p>
+<p>0,197178</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23086</p>
+<p>23086</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torre del Campo	</p>
+<p>Torre del Campo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">270.726,04</p>
+<p>270.726,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.565</p>
+<p>14.565</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,89</p>
+<p>202,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,055009</p>
+<p>0,055009</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23087</p>
+<p>23087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torredonjimeno	</p>
+<p>Torredonjimeno	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">276.305,35</p>
+<p>276.305,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.138</p>
+<p>14.138</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">187,17</p>
+<p>187,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,050233</p>
+<p>0,050233</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23088</p>
+<p>23088</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torreperogil	</p>
+<p>Torreperogil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">208.049,83</p>
+<p>208.049,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.367</p>
+<p>7.367</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159,92</p>
+<p>159,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,130586</p>
+<p>0,130586</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23094</p>
+<p>23094</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vilches	</p>
+<p>Vilches	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">172.520,44</p>
+<p>172.520,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.008</p>
+<p>5.008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,02</p>
+<p>150,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,224084</p>
+<p>0,224084</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23095</p>
+<p>23095</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villacarrillo	</p>
+<p>Villacarrillo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">266.346,59</p>
+<p>266.346,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.293</p>
+<p>11.293</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">217,52</p>
+<p>217,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,080193</p>
+<p>0,080193</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23097</p>
+<p>23097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Arzobispo	</p>
+<p>Villanueva del Arzobispo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">206.052,17</p>
+<p>206.052,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.673</p>
+<p>8.673</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198,98</p>
+<p>198,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,090224</p>
+<p>0,090224</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23099</p>
+<p>23099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villares (Los)	</p>
+<p>Villares (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167.129,43</p>
+<p>167.129,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.661</p>
+<p>5.661</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">249,12</p>
+<p>249,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,168912</p>
+<p>0,168912</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29001</p>
+<p>29001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alameda	</p>
+<p>Alameda	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181.467,59</p>
+<p>181.467,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.426</p>
+<p>5.426</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165,33</p>
+<p>165,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,159635</p>
+<p>0,159635</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29005</p>
+<p>29005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algarrobo	</p>
+<p>Algarrobo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180.684,01</p>
+<p>180.684,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.144</p>
+<p>6.144</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94,80</p>
+<p>94,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,092027</p>
+<p>0,092027</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29012</p>
+<p>29012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Álora	</p>
+<p>Álora	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">322.253,19</p>
+<p>322.253,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.436</p>
+<p>13.436</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">247,60</p>
+<p>247,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,089788</p>
+<p>0,089788</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29017</p>
+<p>29017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Archidona	</p>
+<p>Archidona	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">228.486,44</p>
+<p>228.486,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.868</p>
+<p>8.868</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">218,18</p>
+<p>218,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,087842</p>
+<p>0,087842</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29032</p>
+<p>29032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Campillos	</p>
+<p>Campillos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">194.449,20</p>
+<p>194.449,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.543</p>
+<p>8.543</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">213,82</p>
+<p>213,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,093514</p>
+<p>0,093514</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29068</p>
+<p>29068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Manilva	</p>
+<p>Manilva	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">236.549,96</p>
+<p>236.549,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.258</p>
+<p>13.258</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.209,00</p>
+<p>1.209,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,020867</p>
+<p>0,020867</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29080</p>
+<p>29080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pizarra	</p>
+<p>Pizarra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">204.494,95</p>
+<p>204.494,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.652</p>
+<p>8.652</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">377,24</p>
+<p>377,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,120302</p>
+<p>0,120302</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29091</p>
+<p>29091</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torrox	</p>
+<p>Torrox	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">343.515,31</p>
+<p>343.515,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.395</p>
+<p>16.395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">518,16</p>
+<p>518,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,024574</p>
+<p>0,024574</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29097</p>
+<p>29097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Trabuco	</p>
+<p>Villanueva del Trabuco	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">169.583,85</p>
+<p>169.583,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.385</p>
+<p>5.385</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103,37</p>
+<p>103,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,153735</p>
+<p>0,153735</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41005</p>
+<p>41005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcalá del Río	</p>
+<p>Alcalá del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">230.518,82</p>
+<p>230.518,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.479</p>
+<p>10.479</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141,93</p>
+<p>141,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,099620</p>
+<p>0,099620</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41007</p>
+<p>41007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Algaba (La)	</p>
+<p>Algaba (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">284.277,95</p>
+<p>284.277,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.642</p>
+<p>14.642</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,15</p>
+<p>87,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,077764</p>
+<p>0,077764</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41010</p>
+<p>41010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almensilla	</p>
+<p>Almensilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147.904,99</p>
+<p>147.904,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.438</p>
+<p>5.438</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219,81</p>
+<p>219,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,184103</p>
+<p>0,184103</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41011</p>
+<p>41011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arahal	</p>
+<p>Arahal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">390.548,33</p>
+<p>390.548,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.150</p>
+<p>19.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.880,08</p>
+<p>1.880,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,046876</p>
+<p>0,046876</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41013</p>
+<p>41013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aznalcóllar	</p>
+<p>Aznalcóllar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">162.997,98</p>
+<p>162.997,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.188</p>
+<p>6.188</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">207,96</p>
+<p>207,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,211492</p>
+<p>0,211492</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41015</p>
+<p>41015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benacazón	</p>
+<p>Benacazón	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164.790,66</p>
+<p>164.790,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.103</p>
+<p>6.103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,46</p>
+<p>87,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,156750</p>
+<p>0,156750</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41016</p>
+<p>41016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bollullos de la Mitación	</p>
+<p>Bollullos de la Mitación	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174.001,56</p>
+<p>174.001,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.334</p>
+<p>8.334</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">336,85</p>
+<p>336,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,058451</p>
+<p>0,058451</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41017</p>
+<p>41017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bormujos	</p>
+<p>Bormujos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">261.665,33</p>
+<p>261.665,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.670</p>
+<p>17.670</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">332,04</p>
+<p>332,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,034143</p>
+<p>0,034143</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41018</p>
+<p>41018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Brenes	</p>
+<p>Brenes	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">247.181,72</p>
+<p>247.181,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.245</p>
+<p>12.245</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">170,35</p>
+<p>170,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,079832</p>
+<p>0,079832</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41019</p>
+<p>41019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Burguillos	</p>
+<p>Burguillos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159.252,14</p>
+<p>159.252,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.335</p>
+<p>5.335</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111,70</p>
+<p>111,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,132435</p>
+<p>0,132435</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41020</p>
+<p>41020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cabezas de San Juan (Las)	</p>
+<p>Cabezas de San Juan (Las)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">318.434,11</p>
+<p>318.434,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.292</p>
+<p>16.292</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">343,85</p>
+<p>343,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,076892</p>
+<p>0,076892</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41022</p>
+<p>41022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Campana (La)	</p>
+<p>Campana (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163.871,72</p>
+<p>163.871,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.467</p>
+<p>5.467</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93,10</p>
+<p>93,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,245528</p>
+<p>0,245528</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41023</p>
+<p>41023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cantillana	</p>
+<p>Cantillana	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">240.299,94</p>
+<p>240.299,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.442</p>
+<p>10.442</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">112,31</p>
+<p>112,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,097265</p>
+<p>0,097265</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41026</p>
+<p>41026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Casariche	</p>
+<p>Casariche	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">178.720,84</p>
+<p>178.720,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.552</p>
+<p>5.552</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107,01</p>
+<p>107,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,257902</p>
+<p>0,257902</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41027</p>
+<p>41027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castilblanco de los Arroyos	</p>
+<p>Castilblanco de los Arroyos	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175.718,85</p>
+<p>175.718,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.028</p>
+<p>5.028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">313,29</p>
+<p>313,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,196435</p>
+<p>0,196435</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41029</p>
+<p>41029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castilleja de la Cuesta	</p>
+<p>Castilleja de la Cuesta	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">295.134,52</p>
+<p>295.134,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.075</p>
+<p>17.075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,23</p>
+<p>117,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,048698</p>
+<p>0,048698</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41032</p>
+<p>41032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cazalla de la Sierra	</p>
+<p>Cazalla de la Sierra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">171.964,13</p>
+<p>171.964,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.047</p>
+<p>5.047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103,82</p>
+<p>103,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,178634</p>
+<p>0,178634</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41033</p>
+<p>41033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Constantina	</p>
+<p>Constantina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">186.620,47</p>
+<p>186.620,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.612</p>
+<p>6.612</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124,44</p>
+<p>124,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,149639</p>
+<p>0,149639</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41036</p>
+<p>41036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coronil (El)	</p>
+<p>Coronil (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">158.193,69</p>
+<p>158.193,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.045</p>
+<p>5.045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">85,50</p>
+<p>85,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,221380</p>
+<p>0,221380</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41040</p>
+<p>41040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espartinas	</p>
+<p>Espartinas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">206.221,42</p>
+<p>206.221,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.838</p>
+<p>11.838</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">564,62</p>
+<p>564,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,043020</p>
+<p>0,043020</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41041</p>
+<p>41041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estepa	</p>
+<p>Estepa	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">273.944,58</p>
+<p>273.944,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.547</p>
+<p>12.547</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">193,87</p>
+<p>193,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,069836</p>
+<p>0,069836</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41042</p>
+<p>41042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuentes de Andalucía	</p>
+<p>Fuentes de Andalucía	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202.932,46</p>
+<p>202.932,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.360</p>
+<p>7.360</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">195,03</p>
+<p>195,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,166186</p>
+<p>0,166186</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41044</p>
+<p>41044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gelves	</p>
+<p>Gelves	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181.383,17</p>
+<p>181.383,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.828</p>
+<p>8.828</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">263,26</p>
+<p>263,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,080568</p>
+<p>0,080568</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41045</p>
+<p>41045</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerena	</p>
+<p>Gerena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175.005,56</p>
+<p>175.005,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.180</p>
+<p>6.180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144,42</p>
+<p>144,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,180553</p>
+<p>0,180553</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41047</p>
+<p>41047</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gines	</p>
+<p>Gines	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224.814,02</p>
+<p>224.814,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.651</p>
+<p>12.651</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184,75</p>
+<p>184,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,059757</p>
+<p>0,059757</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41049</p>
+<p>41049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guillena	</p>
+<p>Guillena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">220.714,40</p>
+<p>220.714,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.654</p>
+<p>10.654</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">563,45</p>
+<p>563,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,043872</p>
+<p>0,043872</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41050</p>
+<p>41050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Herrera	</p>
+<p>Herrera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">187.984,15</p>
+<p>187.984,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.521</p>
+<p>6.521</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161,36</p>
+<p>161,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,098593</p>
+<p>0,098593</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41055</p>
+<p>41055</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lora del Río	</p>
+<p>Lora del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">355.032,79</p>
+<p>355.032,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.327</p>
+<p>19.327</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">537,67</p>
+<p>537,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,059755</p>
+<p>0,059755</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41058</p>
+<p>41058</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mairena del Alcor	</p>
+<p>Mairena del Alcor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">386.697,75</p>
+<p>386.697,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.924</p>
+<p>19.924</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">448,86</p>
+<p>448,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,040893</p>
+<p>0,040893</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41060</p>
+<p>41060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marchena	</p>
+<p>Marchena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">340.995,96</p>
+<p>340.995,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.497</p>
+<p>19.497</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">340,56</p>
+<p>340,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,039592</p>
+<p>0,039592</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41064</p>
+<p>41064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montellano	</p>
+<p>Montellano	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">204.325,11</p>
+<p>204.325,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.085</p>
+<p>7.085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">78,44</p>
+<p>78,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,206214</p>
+<p>0,206214</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41067</p>
+<p>41067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Olivares	</p>
+<p>Olivares	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">203.927,48</p>
+<p>203.927,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.182</p>
+<p>9.182</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">105,97</p>
+<p>105,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,153254</p>
+<p>0,153254</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41068</p>
+<p>41068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Osuna	</p>
+<p>Osuna	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">325.014,80</p>
+<p>325.014,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17.813</p>
+<p>17.813</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">245,81</p>
+<p>245,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,045235</p>
+<p>0,045235</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41070</p>
+<p>41070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palomares del Río	</p>
+<p>Palomares del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">144.714,11</p>
+<p>144.714,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.411</p>
+<p>6.411</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">354,56</p>
+<p>354,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,090066</p>
+<p>0,090066</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41071</p>
+<p>41071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Paradas	</p>
+<p>Paradas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199.716,44</p>
+<p>199.716,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.036</p>
+<p>7.036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160,70</p>
+<p>160,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,134093</p>
+<p>0,134093</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41072</p>
+<p>41072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pedrera	</p>
+<p>Pedrera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">176.518,77</p>
+<p>176.518,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.240</p>
+<p>5.240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,00</p>
+<p>117,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,192525</p>
+<p>0,192525</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41075</p>
+<p>41075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pilas	</p>
+<p>Pilas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">237.506,99</p>
+<p>237.506,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.988</p>
+<p>12.988</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">246,80</p>
+<p>246,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,071084</p>
+<p>0,071084</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41077</p>
+<p>41077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puebla de Cazalla (La)	</p>
+<p>Puebla de Cazalla (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">265.546,15</p>
+<p>265.546,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.237</p>
+<p>11.237</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154,97</p>
+<p>154,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,079314</p>
+<p>0,079314</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41079</p>
+<p>41079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puebla del Río (La)	</p>
+<p>Puebla del Río (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">227.570,78</p>
+<p>227.570,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.951</p>
+<p>11.951</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">128,06</p>
+<p>128,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,091426</p>
+<p>0,091426</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41087</p>
+<p>41087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sanlúcar la Mayor	</p>
+<p>Sanlúcar la Mayor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">262.315,09</p>
+<p>262.315,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.485</p>
+<p>12.485</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">472,66</p>
+<p>472,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,063874</p>
+<p>0,063874</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41089</p>
+<p>41089</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santiponce	</p>
+<p>Santiponce	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">173.625,50</p>
+<p>173.625,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.948</p>
+<p>7.948</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">281,13</p>
+<p>281,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,117601</p>
+<p>0,117601</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41092</p>
+<p>41092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tocina	</p>
+<p>Tocina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205.152,37</p>
+<p>205.152,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.316</p>
+<p>9.316</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,65</p>
+<p>139,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,138693</p>
+<p>0,138693</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41094</p>
+<p>41094</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Umbrete	</p>
+<p>Umbrete	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163.231,96</p>
+<p>163.231,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.365</p>
+<p>7.365</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,75</p>
+<p>140,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,094444</p>
+<p>0,094444</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41096</p>
+<p>41096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valencina de la Concepción	</p>
+<p>Valencina de la Concepción	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177.130,43</p>
+<p>177.130,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.875</p>
+<p>7.875</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">228,20</p>
+<p>228,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,080302</p>
+<p>0,080302</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41098</p>
+<p>41098</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Ariscal	</p>
+<p>Villanueva del Ariscal	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167.697,78</p>
+<p>167.697,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.946</p>
+<p>5.946</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90,52</p>
+<p>90,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,147048</p>
+<p>0,147048</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41099</p>
+<p>41099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villanueva del Río y Minas	</p>
+<p>Villanueva del Río y Minas	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181.441,66</p>
+<p>181.441,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.286</p>
+<p>5.286</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126,01</p>
+<p>126,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,208703</p>
+<p>0,208703</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41101</p>
+<p>41101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Villaverde del Río	</p>
+<p>Villaverde del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">183.044,18</p>
+<p>183.044,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.178</p>
+<p>7.178</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109,56</p>
+<p>109,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,204384</p>
+<p>0,204384</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41102</p>
+<p>41102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viso del Alcor (El)	</p>
+<p>Viso del Alcor (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">342.882,15</p>
+<p>342.882,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.059</p>
+<p>18.059</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">315,53</p>
+<p>315,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,046439</p>
+<p>0,046439</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41902</p>
+<p>41902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Isla Mayor	</p>
+<p>Isla Mayor	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.331,52</p>
+<p>148.331,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.810</p>
+<p>5.810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">76,53</p>
+<p>76,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,231738</p>
+<p>0,231738</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41903</p>
+<p>41903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuervo de Sevilla (El)	</p>
+<p>Cuervo de Sevilla (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">218.926,02</p>
+<p>218.926,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.489</p>
+<p>8.489</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">170,46</p>
+<p>170,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,151205</p>
+<p>0,151205</p>
 </td>
 </tr>
 </tbody>
@@ -17344,1184 +17326,1175 @@ Nota: El municipio de Villanueva de la Concepción se ha clasificado atendiendo 
 
 *Grupo 3. Municipios de 20.000 a 49.999 habitantes*
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_24">
-<col class="row_column_20">
-<col class="row_column_25">
-<col class="row_column_22">
-<col class="row_column_22">
-<col class="row_column_15">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código INE</p>
+<p>Código INE</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Nombre del municipio</p>
+<p>Nombre del municipio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fondo de nivelación</p>
+<p>Fondo de nivelación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Población</p>
+<p>Población</p>
 </td>
 <td>
-<p class="cabeza_tabla">Superficie urbana</p>
+<p>Superficie urbana</p>
 </td>
 <td>
-<p class="cabeza_tabla">Dispersión</p>
+<p>Dispersión</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inverso cuota líquida IBI urbano estimada</p>
+<p>Inverso cuota líquida IBI urbano estimada</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cabeza_tabla">Unidades: Euros</p>
+<p>Unidades: Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Personas</p>
+<p>Unidades: Personas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Hectáreas</p>
+<p>Unidades: Hectáreas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Entidades Singulares</p>
+<p>Unidades: Entidades Singulares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: 100.000/€</p>
+<p>Unidades: 100.000/€</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04003</p>
+<p>04003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Adra	</p>
+<p>Adra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">425.404,18</p>
+<p>425.404,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23.880</p>
+<p>23.880</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">266,82</p>
+<p>266,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,034503</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">04066</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Níjar	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">509.738,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">26.126</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">677,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,031536</p>
+<p>0,034503</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04102</p>
+<p>04066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vícar	</p>
+<p>Níjar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">319.835,42</p>
+<p>509.738,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.515</p>
+<p>26.126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">362,04</p>
+<p>677,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,032026</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Arcos de la Frontera	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">594.405,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">31.017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">681,93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,036689</p>
+<p>0,031536</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11007</p>
+<p>04102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barbate	</p>
+<p>Vícar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">428.547,09</p>
+<p>319.835,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22.851</p>
+<p>21.515</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">257,36</p>
+<p>362,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,034813</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11008</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Barrios (Los)	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">361.228,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21.977</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">575,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,030110</p>
+<p>0,032026</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11014</p>
+<p>11006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Conil de la Frontera	</p>
+<p>Arcos de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">354.197,41</p>
+<p>594.405,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.752</p>
+<p>31.017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">644,36</p>
+<p>681,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,021857</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11028</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Puerto Real	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">630.706,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39.648</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">620,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,018009</p>
+<p>0,036689</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11030</p>
+<p>11007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rota	</p>
+<p>Barbate	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">494.894,32</p>
+<p>428.547,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27.918</p>
+<p>22.851</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.582,57</p>
+<p>257,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,013395</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11033</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">San Roque	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">476.962,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">28.653</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.554,73</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,013529</p>
+<p>0,034813</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14007</p>
+<p>11008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Baena	</p>
+<p>Barrios (Los)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">349.558,75</p>
+<p>361.228,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.260</p>
+<p>21.977</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">420,59</p>
+<p>575,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,034979</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">14013</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cabra	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">380.835,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21.288</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">288,76</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,035010</p>
+<p>0,030110</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14038</p>
+<p>11014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lucena	</p>
+<p>Conil de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">490.277,81</p>
+<p>354.197,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">41.698</p>
+<p>20.752</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.199,97</p>
+<p>644,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,014048</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">14042</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Montilla	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">444.603,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23.811</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">410,51</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,037818</p>
+<p>0,021857</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14049</p>
+<p>11028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palma del Río	</p>
+<p>Puerto Real	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">421.392,91</p>
+<p>630.706,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.440</p>
+<p>39.648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">275,04</p>
+<p>620,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,055671</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">14055</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Priego de Córdoba	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">546.025,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23.309</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">280,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,033489</p>
+<p>0,018009</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14056</p>
+<p>11030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puente Genil	</p>
+<p>Rota	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">568.308,36</p>
+<p>494.894,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29.503</p>
+<p>27.918</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">502,12</p>
+<p>1.582,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,035976</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">18017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almuñécar	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">474.254,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">27.544</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">623,72</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,015516</p>
+<p>0,013395</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18021</p>
+<p>11033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Armilla	</p>
+<p>San Roque	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">332.001,86</p>
+<p>476.962,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.882</p>
+<p>28.653</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">223,78</p>
+<p>2.554,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,033026</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">18023</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Baza	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">383.071,01</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23.287</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">237,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,050394</p>
+<p>0,013529</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18089</p>
+<p>14007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guadix	</p>
+<p>Baena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">416.854,31</p>
+<p>349.558,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.326</p>
+<p>21.260</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">447,90</p>
+<p>420,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,038508</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">18122</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Loja	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">458.615,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21.570</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">596,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,042594</p>
+<p>0,034979</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18127</p>
+<p>14013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Maracena	</p>
+<p>Cabra	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">333.145,90</p>
+<p>380.835,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.297</p>
+<p>21.288</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">256,51</p>
+<p>288,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,046490</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">21005</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almonte	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">363.320,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21.452</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.126,37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,015557</p>
+<p>0,035010</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21042</p>
+<p>14038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Isla Cristina	</p>
+<p>Lucena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">387.255,51</p>
+<p>490.277,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.982</p>
+<p>41.698</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">339,97</p>
+<p>1.199,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,023338</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">21044</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lepe	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">388.701,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25.041</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">656,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,017748</p>
+<p>0,014048</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23002</p>
+<p>14042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcalá la Real	</p>
+<p>Montilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">503.914,02</p>
+<p>444.603,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22.524</p>
+<p>23.811</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">506,10</p>
+<p>410,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,038902</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">23005</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Andújar	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">652.196,56</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">38.979</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">443,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,020774</p>
+<p>0,037818</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23060</p>
+<p>14049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Martos	</p>
+<p>Palma del Río	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">428.420,77</p>
+<p>421.392,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.520</p>
+<p>21.440</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">304,40</p>
+<p>275,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,032795</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">23092</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Úbeda	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">563.780,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">34.462</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">556,70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,021058</p>
+<p>0,055671</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29007</p>
+<p>14055</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alhaurín de la Torre	</p>
+<p>Priego de Córdoba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">507.097,57</p>
+<p>546.025,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33.567</p>
+<p>23.309</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.294,66</p>
+<p>280,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,016661</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29008</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alhaurín el Grande	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">427.370,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22.785</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">762,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,034421</p>
+<p>0,033489</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29015</p>
+<p>14056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Antequera *	</p>
+<p>Puente Genil	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">480.857,60</p>
+<p>568.308,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">41.685</p>
+<p>29.503</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">843,32</p>
+<p>502,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,017016</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29038</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cártama	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">351.584,74</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20.436</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">439,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,040506</p>
+<p>0,035976</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29042</p>
+<p>18017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coín	</p>
+<p>Almuñécar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">360.927,35</p>
+<p>474.254,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.484</p>
+<p>27.544</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">672,30</p>
+<p>623,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,032468</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29075</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nerja	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">388.975,39</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21.621</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">326,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,014078</p>
+<p>0,015516</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29082</p>
+<p>18021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rincón de la Victoria	</p>
+<p>Armilla	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">535.283,97</p>
+<p>332.001,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">37.145</p>
+<p>20.882</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.010,44</p>
+<p>223,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,013744</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29084</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ronda	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">463.002,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.532</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.208,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,021431</p>
+<p>0,033026</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41021</p>
+<p>18023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camas	</p>
+<p>Baza	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">416.096,26</p>
+<p>383.071,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25.780</p>
+<p>23.287</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">326,52</p>
+<p>237,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,029394</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41024</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carmona	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">433.788,07</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">27.950</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.466,92</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,027204</p>
+<p>0,050394</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41034</p>
+<p>18089</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coria del Río	</p>
+<p>Guadix	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">419.301,08</p>
+<p>416.854,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27.528</p>
+<p>20.326</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">476,53</p>
+<p>447,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,028856</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41039</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Écija	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">495.361,78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">40.143</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">524,04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,016426</p>
+<p>0,038508</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41053</p>
+<p>18122</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lebrija	</p>
+<p>Loja	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">417.404,26</p>
+<p>458.615,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26.046</p>
+<p>21.570</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">392,28</p>
+<p>596,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,041516</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41059</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mairena del Aljarafe	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">550.621,27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39.831</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">819,24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,015274</p>
+<p>0,042594</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41065</p>
+<p>18127</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Morón de la Frontera	</p>
+<p>Maracena	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">540.532,06</p>
+<p>333.145,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28.259</p>
+<p>20.297</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">516,80</p>
+<p>256,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,028969</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41069</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Palacios y Villafranca (Los)	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">571.232,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">382,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,032503</p>
+<p>0,046490</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41081</p>
+<p>21005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rinconada (La)	</p>
+<p>Almonte	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">604.404,71</p>
+<p>363.320,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.097</p>
+<p>21.452</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">910,97</p>
+<p>1.126,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,017230</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41086</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">San Juan de Aznalfarache	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">375.301,04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20.249</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,029734</p>
+<p>0,015557</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41093</p>
+<p>21042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tomares	</p>
+<p>Isla Cristina	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">312.841,28</p>
+<p>387.255,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.921</p>
+<p>20.982</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">372,82</p>
+<p>339,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,022122</p>
+<p>0,023338</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21044</p>
+</td>
+<td>
+<p>Lepe	</p>
+</td>
+<td>
+<p>388.701,21</p>
+</td>
+<td>
+<p>25.041</p>
+</td>
+<td>
+<p>656,34</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>0,017748</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23002</p>
+</td>
+<td>
+<p>Alcalá la Real	</p>
+</td>
+<td>
+<p>503.914,02</p>
+</td>
+<td>
+<p>22.524</p>
+</td>
+<td>
+<p>506,10</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>0,038902</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23005</p>
+</td>
+<td>
+<p>Andújar	</p>
+</td>
+<td>
+<p>652.196,56</p>
+</td>
+<td>
+<p>38.979</p>
+</td>
+<td>
+<p>443,14</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>0,020774</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23060</p>
+</td>
+<td>
+<p>Martos	</p>
+</td>
+<td>
+<p>428.420,77</p>
+</td>
+<td>
+<p>24.520</p>
+</td>
+<td>
+<p>304,40</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>0,032795</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23092</p>
+</td>
+<td>
+<p>Úbeda	</p>
+</td>
+<td>
+<p>563.780,69</p>
+</td>
+<td>
+<p>34.462</p>
+</td>
+<td>
+<p>556,70</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>0,021058</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29007</p>
+</td>
+<td>
+<p>Alhaurín de la Torre	</p>
+</td>
+<td>
+<p>507.097,57</p>
+</td>
+<td>
+<p>33.567</p>
+</td>
+<td>
+<p>1.294,66</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>0,016661</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29008</p>
+</td>
+<td>
+<p>Alhaurín el Grande	</p>
+</td>
+<td>
+<p>427.370,64</p>
+</td>
+<td>
+<p>22.785</p>
+</td>
+<td>
+<p>762,80</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,034421</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29015</p>
+</td>
+<td>
+<p>Antequera *	</p>
+</td>
+<td>
+<p>480.857,60</p>
+</td>
+<td>
+<p>41.685</p>
+</td>
+<td>
+<p>843,32</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>0,017016</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29038</p>
+</td>
+<td>
+<p>Cártama	</p>
+</td>
+<td>
+<p>351.584,74</p>
+</td>
+<td>
+<p>20.436</p>
+</td>
+<td>
+<p>439,48</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>0,040506</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29042</p>
+</td>
+<td>
+<p>Coín	</p>
+</td>
+<td>
+<p>360.927,35</p>
+</td>
+<td>
+<p>21.484</p>
+</td>
+<td>
+<p>672,30</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,032468</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29075</p>
+</td>
+<td>
+<p>Nerja	</p>
+</td>
+<td>
+<p>388.975,39</p>
+</td>
+<td>
+<p>21.621</p>
+</td>
+<td>
+<p>326,89</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,014078</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29082</p>
+</td>
+<td>
+<p>Rincón de la Victoria	</p>
+</td>
+<td>
+<p>535.283,97</p>
+</td>
+<td>
+<p>37.145</p>
+</td>
+<td>
+<p>1.010,44</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>0,013744</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29084</p>
+</td>
+<td>
+<p>Ronda	</p>
+</td>
+<td>
+<p>463.002,81</p>
+</td>
+<td>
+<p>36.532</p>
+</td>
+<td>
+<p>1.208,13</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>0,021431</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41021</p>
+</td>
+<td>
+<p>Camas	</p>
+</td>
+<td>
+<p>416.096,26</p>
+</td>
+<td>
+<p>25.780</p>
+</td>
+<td>
+<p>326,52</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,029394</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41024</p>
+</td>
+<td>
+<p>Carmona	</p>
+</td>
+<td>
+<p>433.788,07</p>
+</td>
+<td>
+<p>27.950</p>
+</td>
+<td>
+<p>1.466,92</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,027204</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41034</p>
+</td>
+<td>
+<p>Coria del Río	</p>
+</td>
+<td>
+<p>419.301,08</p>
+</td>
+<td>
+<p>27.528</p>
+</td>
+<td>
+<p>476,53</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>0,028856</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41039</p>
+</td>
+<td>
+<p>Écija	</p>
+</td>
+<td>
+<p>495.361,78</p>
+</td>
+<td>
+<p>40.143</p>
+</td>
+<td>
+<p>524,04</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>0,016426</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41053</p>
+</td>
+<td>
+<p>Lebrija	</p>
+</td>
+<td>
+<p>417.404,26</p>
+</td>
+<td>
+<p>26.046</p>
+</td>
+<td>
+<p>392,28</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,041516</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41059</p>
+</td>
+<td>
+<p>Mairena del Aljarafe	</p>
+</td>
+<td>
+<p>550.621,27</p>
+</td>
+<td>
+<p>39.831</p>
+</td>
+<td>
+<p>819,24</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,015274</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41065</p>
+</td>
+<td>
+<p>Morón de la Frontera	</p>
+</td>
+<td>
+<p>540.532,06</p>
+</td>
+<td>
+<p>28.259</p>
+</td>
+<td>
+<p>516,80</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,028969</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41069</p>
+</td>
+<td>
+<p>Palacios y Villafranca (Los)	</p>
+</td>
+<td>
+<p>571.232,02</p>
+</td>
+<td>
+<p>36.350</p>
+</td>
+<td>
+<p>382,89</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>0,032503</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41081</p>
+</td>
+<td>
+<p>Rinconada (La)	</p>
+</td>
+<td>
+<p>604.404,71</p>
+</td>
+<td>
+<p>35.097</p>
+</td>
+<td>
+<p>910,97</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>0,017230</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41086</p>
+</td>
+<td>
+<p>San Juan de Aznalfarache	</p>
+</td>
+<td>
+<p>375.301,04</p>
+</td>
+<td>
+<p>20.249</p>
+</td>
+<td>
+<p>200,97</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,029734</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41093</p>
+</td>
+<td>
+<p>Tomares	</p>
+</td>
+<td>
+<p>312.841,28</p>
+</td>
+<td>
+<p>21.921</p>
+</td>
+<td>
+<p>372,82</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,022122</p>
 </td>
 </tr>
 </tbody>
@@ -18531,724 +18504,715 @@ Nota: El municipio de Villanueva de la Concepción se ha clasificado atendiendo 
 
 *Grupo 4. Municipios de 50.000 habitantes o más*
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_24">
-<col class="row_column_11">
-<col class="row_column_26">
-<col class="row_column_13">
-<col class="row_column_22">
-<col class="row_column_15">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código INE</p>
+<p>Código INE</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Nombre del municipio</p>
+<p>Nombre del municipio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fondo de nivelación</p>
+<p>Fondo de nivelación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Población</p>
+<p>Población</p>
 </td>
 <td>
-<p class="cabeza_tabla">Superficie urbana</p>
+<p>Superficie urbana</p>
 </td>
 <td>
-<p class="cabeza_tabla">Dispersión</p>
+<p>Dispersión</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inverso cuota líquida IBI urbano estimada</p>
+<p>Inverso cuota líquida IBI urbano estimada</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cabeza_tabla">Unidades: Euros</p>
+<p>Unidades: Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Personas</p>
+<p>Unidades: Personas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Hectáreas</p>
+<p>Unidades: Hectáreas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: Entidades Singulares</p>
+<p>Unidades: Entidades Singulares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Unidades: 100.000/€</p>
+<p>Unidades: 100.000/€</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04013</p>
+<p>04013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almería	</p>
+<p>Almería	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.126.843,93</p>
+<p>1.126.843,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">187.521</p>
+<p>187.521</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.858,78</p>
+<p>1.858,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,002620</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">04079</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Roquetas de Mar	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">681.771,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">77.423</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.316,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,006766</p>
+<p>0,002620</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">04902</p>
+<p>04079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ejido (El)	</p>
+<p>Roquetas de Mar	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">703.738,38</p>
+<p>681.771,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.987</p>
+<p>77.423</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.049,42</p>
+<p>1.316,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,005731</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11004</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Algeciras	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">693.209,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">115.333</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.599,23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,006953</p>
+<p>0,006766</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11012</p>
+<p>04902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cádiz	</p>
+<p>Ejido (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">805.632,83</p>
+<p>703.738,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.200</p>
+<p>80.987</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">365,19</p>
+<p>2.049,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,004200</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Chiclana de la Frontera	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">832.507,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">76.171</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.043,18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,004977</p>
+<p>0,005731</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11020</p>
+<p>11004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jerez de la Frontera	</p>
+<p>Algeciras	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.239.478,32</p>
+<p>693.209,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205.364</p>
+<p>115.333</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.074,50</p>
+<p>1.599,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,002880</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11022</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Línea de la Concepción (La)	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">645.939,82</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">64.240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">652,19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,017126</p>
+<p>0,006953</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11027</p>
+<p>11012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puerto de Santa María (El)	</p>
+<p>Cádiz	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">528.006,33</p>
+<p>805.632,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">86.288</p>
+<p>127.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.949,19</p>
+<p>365,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,004658</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">11031</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">San Fernando	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">583.811,92</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">96.155</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">509,45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,009615</p>
+<p>0,004200</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11032</p>
+<p>11015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sanlúcar de Barrameda	</p>
+<p>Chiclana de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">778.025,43</p>
+<p>832.507,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64.434</p>
+<p>76.171</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">930,01</p>
+<p>5.043,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,013645</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">14021</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Córdoba	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.969.966,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">325.453</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.146,06</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,001723</p>
+<p>0,004977</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18087</p>
+<p>11020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granada	</p>
+<p>Jerez de la Frontera	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.453.829,44</p>
+<p>1.239.478,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">236.988</p>
+<p>205.364</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.818,28</p>
+<p>3.074,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,001555</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">18140</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Motril	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">685.976,92</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">59.163</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.161,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,006237</p>
+<p>0,002880</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21041</p>
+<p>11022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huelva	</p>
+<p>Línea de la Concepción (La)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">893.329,60</p>
+<p>645.939,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148.027</p>
+<p>64.240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">980,29</p>
+<p>652,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,005880</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">23050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Jaén	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">724.836,93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">116.417</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.577,23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,004092</p>
+<p>0,017126</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23055</p>
+<p>11027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Linares	</p>
+<p>Puerto de Santa María (El)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">670.181,81</p>
+<p>528.006,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.340</p>
+<p>86.288</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">907,59</p>
+<p>1.949,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,013333</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29025</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Benalmádena	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">546.610,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55.960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.261,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,006522</p>
+<p>0,004658</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29051</p>
+<p>11031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estepona	</p>
+<p>San Fernando	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">669.200,89</p>
+<p>583.811,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62.848</p>
+<p>96.155</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.523,74</p>
+<p>509,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,004034</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29054</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Fuengirola	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">638.657,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">68.646</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">746,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,003388</p>
+<p>0,009615</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29067</p>
+<p>11032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Málaga	</p>
+<p>Sanlúcar de Barrameda	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.333.883,63</p>
+<p>778.025,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">566.447</p>
+<p>64.434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.343,71</p>
+<p>930,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000952</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29069</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Marbella	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">765.740,72</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">130.549</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.381,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,001767</p>
+<p>0,013645</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29070</p>
+<p>14021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mijas	</p>
+<p>Córdoba	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">695.862,02</p>
+<p>1.969.966,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70.437</p>
+<p>325.453</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.363,89</p>
+<p>5.146,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,003059</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">29094</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Vélez-Málaga	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">862.970,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">72.842</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.465,62</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,005990</p>
+<p>0,001723</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29901</p>
+<p>18087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torremolinos	</p>
+<p>Granada	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">617.668,14</p>
+<p>1.453.829,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.077</p>
+<p>236.988</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">715,07</p>
+<p>1.818,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,005318</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41004</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcalá de Guadaíra	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">785.029,46</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">68.452</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.148,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,007209</p>
+<p>0,001555</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41038</p>
+<p>18140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dos Hermanas	</p>
+<p>Motril	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">707.067,85</p>
+<p>685.976,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.323</p>
+<p>59.163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.376,80</p>
+<p>1.161,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,003294</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_der">41091</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sevilla	</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.193.822,95</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">699.759</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.926,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,000845</p>
+<p>0,006237</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41095</p>
+<p>21041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Utrera	</p>
+<p>Huelva	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">668.108,98</p>
+<p>893.329,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50.098</p>
+<p>148.027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.171,11</p>
+<p>980,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,014459</p>
+<p>0,005880</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23050</p>
+</td>
+<td>
+<p>Jaén	</p>
+</td>
+<td>
+<p>724.836,93</p>
+</td>
+<td>
+<p>116.417</p>
+</td>
+<td>
+<p>1.577,23</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>0,004092</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23055</p>
+</td>
+<td>
+<p>Linares	</p>
+</td>
+<td>
+<p>670.181,81</p>
+</td>
+<td>
+<p>61.340</p>
+</td>
+<td>
+<p>907,59</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>0,013333</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29025</p>
+</td>
+<td>
+<p>Benalmádena	</p>
+</td>
+<td>
+<p>546.610,33</p>
+</td>
+<td>
+<p>55.960</p>
+</td>
+<td>
+<p>1.261,20</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,006522</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29051</p>
+</td>
+<td>
+<p>Estepona	</p>
+</td>
+<td>
+<p>669.200,89</p>
+</td>
+<td>
+<p>62.848</p>
+</td>
+<td>
+<p>2.523,74</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>0,004034</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29054</p>
+</td>
+<td>
+<p>Fuengirola	</p>
+</td>
+<td>
+<p>638.657,14</p>
+</td>
+<td>
+<p>68.646</p>
+</td>
+<td>
+<p>746,08</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,003388</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29067</p>
+</td>
+<td>
+<p>Málaga	</p>
+</td>
+<td>
+<p>3.333.883,63</p>
+</td>
+<td>
+<p>566.447</p>
+</td>
+<td>
+<p>5.343,71</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>0,000952</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29069</p>
+</td>
+<td>
+<p>Marbella	</p>
+</td>
+<td>
+<p>765.740,72</p>
+</td>
+<td>
+<p>130.549</p>
+</td>
+<td>
+<p>4.381,15</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>0,001767</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29070</p>
+</td>
+<td>
+<p>Mijas	</p>
+</td>
+<td>
+<p>695.862,02</p>
+</td>
+<td>
+<p>70.437</p>
+</td>
+<td>
+<p>4.363,89</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>0,003059</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29094</p>
+</td>
+<td>
+<p>Vélez-Málaga	</p>
+</td>
+<td>
+<p>862.970,33</p>
+</td>
+<td>
+<p>72.842</p>
+</td>
+<td>
+<p>1.465,62</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>0,005990</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29901</p>
+</td>
+<td>
+<p>Torremolinos	</p>
+</td>
+<td>
+<p>617.668,14</p>
+</td>
+<td>
+<p>63.077</p>
+</td>
+<td>
+<p>715,07</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,005318</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41004</p>
+</td>
+<td>
+<p>Alcalá de Guadaíra	</p>
+</td>
+<td>
+<p>785.029,46</p>
+</td>
+<td>
+<p>68.452</p>
+</td>
+<td>
+<p>2.148,85</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>0,007209</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41038</p>
+</td>
+<td>
+<p>Dos Hermanas	</p>
+</td>
+<td>
+<p>707.067,85</p>
+</td>
+<td>
+<p>120.323</p>
+</td>
+<td>
+<p>3.376,80</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>0,003294</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41091</p>
+</td>
+<td>
+<p>Sevilla	</p>
+</td>
+<td>
+<p>4.193.822,95</p>
+</td>
+<td>
+<p>699.759</p>
+</td>
+<td>
+<p>5.926,55</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,000845</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41095</p>
+</td>
+<td>
+<p>Utrera	</p>
+</td>
+<td>
+<p>668.108,98</p>
+</td>
+<td>
+<p>50.098</p>
+</td>
+<td>
+<p>1.171,11</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>0,014459</p>
 </td>
 </tr>
 </tbody>

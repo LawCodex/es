@@ -3213,2535 +3213,2529 @@ V20. Vendajes quirúrgicos.
 
 ## ANEXO IV.a — Especialidades farmacéuticas que cambian de aportación normal a reducida
 
-<table class="tabla">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="70%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">ATC</th>
-<th class="cabeza_tabla">N.º Reg.</th>
-<th class="cabeza_tabla">Código</th>
-<th class="cabeza_tabla">Denominación</th>
+<th>ATC</th>
+<th>N.º Reg.</th>
+<th>Código</th>
+<th>Denominación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A04AA</td>
-<td class="cuerpo_tabla_izq" colspan="3">ANTAGONISTAS DE RECEPTORES DE SEROTONINA (5HT-3).</td>
+<td>A04AA</td>
+<td colspan="3">ANTAGONISTAS DE RECEPTORES DE SEROTONINA (5HT-3).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60400</td>
-<td class="cuerpo_tabla_coma">690974</td>
-<td class="cuerpo_tabla_izq">FIXCA 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>60400</td>
+<td>690974</td>
+<td>FIXCA 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">690982</td>
-<td class="cuerpo_tabla_izq">FIXCA 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>690982</td>
+<td>FIXCA 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60401</td>
-<td class="cuerpo_tabla_coma">690958</td>
-<td class="cuerpo_tabla_izq">FIXCA 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>60401</td>
+<td>690958</td>
+<td>FIXCA 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">690966</td>
-<td class="cuerpo_tabla_izq">FIXCA 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>690966</td>
+<td>FIXCA 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59065</td>
-<td class="cuerpo_tabla_coma">688937</td>
-<td class="cuerpo_tabla_izq">HELMINE 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>59065</td>
+<td>688937</td>
+<td>HELMINE 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">795302</td>
-<td class="cuerpo_tabla_izq">HELMINE 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>795302</td>
+<td>HELMINE 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">702274</td>
-<td class="cuerpo_tabla_izq">HELMINE 4MG 6 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>702274</td>
+<td>HELMINE 4MG 6 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">688945</td>
-<td class="cuerpo_tabla_izq">HELMINE 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>688945</td>
+<td>HELMINE 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59066</td>
-<td class="cuerpo_tabla_coma">688911</td>
-<td class="cuerpo_tabla_izq">HELMINE 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>59066</td>
+<td>688911</td>
+<td>HELMINE 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">702399</td>
-<td class="cuerpo_tabla_izq">HELMINE 8MG 6 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>702399</td>
+<td>HELMINE 8MG 6 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">688929</td>
-<td class="cuerpo_tabla_izq">HELMINE 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>688929</td>
+<td>HELMINE 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60204</td>
-<td class="cuerpo_tabla_coma">694554</td>
-<td class="cuerpo_tabla_izq">KYTRIL 1 MG 10 COMPRIMIDOS.</td>
+<td> </td>
+<td>60204</td>
+<td>694554</td>
+<td>KYTRIL 1 MG 10 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59932</td>
-<td class="cuerpo_tabla_coma">726182</td>
-<td class="cuerpo_tabla_izq">NAVOBAN 5MG 5 CÁPSULAS.</td>
+<td> </td>
+<td>59932</td>
+<td>726182</td>
+<td>NAVOBAN 5MG 5 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60404</td>
-<td class="cuerpo_tabla_coma">690917</td>
-<td class="cuerpo_tabla_izq">YATROX 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>60404</td>
+<td>690917</td>
+<td>YATROX 4MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">690925</td>
-<td class="cuerpo_tabla_izq">YATROX 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>690925</td>
+<td>YATROX 4MG 6 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60405</td>
-<td class="cuerpo_tabla_coma">690891</td>
-<td class="cuerpo_tabla_izq">YATROX 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>60405</td>
+<td>690891</td>
+<td>YATROX 8MG 15 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">690909</td>
-<td class="cuerpo_tabla_izq">YATROX 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td> </td>
+<td>690909</td>
+<td>YATROX 8MG 6 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59069</td>
-<td class="cuerpo_tabla_coma">692038</td>
-<td class="cuerpo_tabla_izq">ZOFRAN 4MG 15 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td>59069</td>
+<td>692038</td>
+<td>ZOFRAN 4MG 15 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">692020</td>
-<td class="cuerpo_tabla_izq">ZOFRAN 4MG 6 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td> </td>
+<td>692020</td>
+<td>ZOFRAN 4MG 6 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59070</td>
-<td class="cuerpo_tabla_coma">692053</td>
-<td class="cuerpo_tabla_izq">ZOFRAN 8MG 15 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td>59070</td>
+<td>692053</td>
+<td>ZOFRAN 8MG 15 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">692046</td>
-<td class="cuerpo_tabla_izq">ZOFRAN 8MG 6 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td> </td>
+<td>692046</td>
+<td>ZOFRAN 8MG 6 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62944</td>
-<td class="cuerpo_tabla_coma">855288</td>
-<td class="cuerpo_tabla_izq">ZOFRAN ZYDIS 4MG/LIOFILIZAD 10 LIOFILIZADOS ORALES.</td>
+<td> </td>
+<td>62944</td>
+<td>855288</td>
+<td>ZOFRAN ZYDIS 4MG/LIOFILIZAD 10 LIOFILIZADOS ORALES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62945</td>
-<td class="cuerpo_tabla_coma">855296</td>
-<td class="cuerpo_tabla_izq">ZOFRAN ZYDIS 8MG/LIOFILIZAD 10 LIOFILIZADOS ORALES.</td>
+<td> </td>
+<td>62945</td>
+<td>855296</td>
+<td>ZOFRAN ZYDIS 8MG/LIOFILIZAD 10 LIOFILIZADOS ORALES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C08CA</td>
-<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DE LA DIHIDROPIRIDINA.</td>
+<td>C08CA</td>
+<td colspan="3">DERIVADOS DE LA DIHIDROPIRIDINA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56303</td>
-<td class="cuerpo_tabla_coma">960310</td>
-<td class="cuerpo_tabla_izq">DAGAN 20MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>56303</td>
+<td>960310</td>
+<td>DAGAN 20MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">973974</td>
-<td class="cuerpo_tabla_izq">DAGAN 20MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>973974</td>
+<td>DAGAN 20MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58272</td>
-<td class="cuerpo_tabla_coma">988436</td>
-<td class="cuerpo_tabla_izq">FLUSEMIDE 2% 30ML SOLUCIÓN.</td>
+<td> </td>
+<td>58272</td>
+<td>988436</td>
+<td>FLUSEMIDE 2% 30ML SOLUCIÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">988444</td>
-<td class="cuerpo_tabla_izq">FLUSEMIDE 2% 60ML SOLUCIÓN.</td>
+<td> </td>
+<td> </td>
+<td>988444</td>
+<td>FLUSEMIDE 2% 60ML SOLUCIÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56464</td>
-<td class="cuerpo_tabla_coma">962340</td>
-<td class="cuerpo_tabla_izq">FLUSEMIDE 20MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>56464</td>
+<td>962340</td>
+<td>FLUSEMIDE 20MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">973545</td>
-<td class="cuerpo_tabla_izq">FLUSEMIDE 20MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>973545</td>
+<td>FLUSEMIDE 20MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56481</td>
-<td class="cuerpo_tabla_coma">962589</td>
-<td class="cuerpo_tabla_izq">LECIBRAL 20MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>56481</td>
+<td>962589</td>
+<td>LECIBRAL 20MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">973834</td>
-<td class="cuerpo_tabla_izq">LECIBRAL 20MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>973834</td>
+<td>LECIBRAL 20MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56370</td>
-<td class="cuerpo_tabla_coma">961045</td>
-<td class="cuerpo_tabla_izq">LINCIL 20MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>56370</td>
+<td>961045</td>
+<td>LINCIL 20MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">972877</td>
-<td class="cuerpo_tabla_izq">LINCIL 20MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>972877</td>
+<td>LINCIL 20MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58311</td>
-<td class="cuerpo_tabla_coma">989079</td>
-<td class="cuerpo_tabla_izq">LINCIL 20MG/ML 30ML GOTAS.</td>
+<td> </td>
+<td>58311</td>
+<td>989079</td>
+<td>LINCIL 20MG/ML 30ML GOTAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58311</td>
-<td class="cuerpo_tabla_coma">989087</td>
-<td class="cuerpo_tabla_izq">LINCIL 20MG/ML 60ML GOTAS.</td>
+<td> </td>
+<td>58311</td>
+<td>989087</td>
+<td>LINCIL 20MG/ML 60ML GOTAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59130</td>
-<td class="cuerpo_tabla_coma">865758</td>
-<td class="cuerpo_tabla_izq">LINCIL 30MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>59130</td>
+<td>865758</td>
+<td>LINCIL 30MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">865766</td>
-<td class="cuerpo_tabla_izq">LINCIL 30MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>865766</td>
+<td>LINCIL 30MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">57823</td>
-<td class="cuerpo_tabla_coma">980359</td>
-<td class="cuerpo_tabla_izq">LUCENFAL 20MG 30 GRAGEAS.</td>
+<td> </td>
+<td>57823</td>
+<td>980359</td>
+<td>LUCENFAL 20MG 30 GRAGEAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">998633</td>
-<td class="cuerpo_tabla_izq">LUCENFAL 20MG 60 GRAGEAS.</td>
+<td> </td>
+<td> </td>
+<td>998633</td>
+<td>LUCENFAL 20MG 60 GRAGEAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58390</td>
-<td class="cuerpo_tabla_coma">990176</td>
-<td class="cuerpo_tabla_izq">NERDIPINA 2% 30ML SUSPENSIÓN.</td>
+<td> </td>
+<td>58390</td>
+<td>990176</td>
+<td>NERDIPINA 2% 30ML SUSPENSIÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">990184</td>
-<td class="cuerpo_tabla_izq">NERDIPINA 2% 60ML SUSPENSIÓN.</td>
+<td> </td>
+<td> </td>
+<td>990184</td>
+<td>NERDIPINA 2% 60ML SUSPENSIÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56321</td>
-<td class="cuerpo_tabla_coma">960500</td>
-<td class="cuerpo_tabla_izq">NERDIPINA 20MG 30 GRAGEAS.</td>
+<td> </td>
+<td>56321</td>
+<td>960500</td>
+<td>NERDIPINA 20MG 30 GRAGEAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">972869</td>
-<td class="cuerpo_tabla_izq">NERDIPINA 20MG 60 GRAGEAS.</td>
+<td> </td>
+<td> </td>
+<td>972869</td>
+<td>NERDIPINA 20MG 60 GRAGEAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58325</td>
-<td class="cuerpo_tabla_coma">989269</td>
-<td class="cuerpo_tabla_izq">NERDIPINA 30MG 30 CÁPSULAS.</td>
+<td> </td>
+<td>58325</td>
+<td>989269</td>
+<td>NERDIPINA 30MG 30 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">999003</td>
-<td class="cuerpo_tabla_izq">NERDIPINA 30MG 60 CÁPSULAS.</td>
+<td> </td>
+<td> </td>
+<td>999003</td>
+<td>NERDIPINA 30MG 60 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60976</td>
-<td class="cuerpo_tabla_coma">681197</td>
-<td class="cuerpo_tabla_izq">NERDIPINA RETARD 40MG 60 CÁPSULAS.</td>
+<td> </td>
+<td>60976</td>
+<td>681197</td>
+<td>NERDIPINA RETARD 40MG 60 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58447</td>
-<td class="cuerpo_tabla_coma">990879</td>
-<td class="cuerpo_tabla_izq">NICARDIPINO RATIOPHARM 20 20MG 30 COMP.</td>
+<td> </td>
+<td>58447</td>
+<td>990879</td>
+<td>NICARDIPINO RATIOPHARM 20 20MG 30 COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">742874</td>
-<td class="cuerpo_tabla_izq">NICARDIPINO RATIOPHARM 20 20MG 60 COMP.</td>
+<td> </td>
+<td> </td>
+<td>742874</td>
+<td>NICARDIPINO RATIOPHARM 20 20MG 60 COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">57614</td>
-<td class="cuerpo_tabla_coma">977645</td>
-<td class="cuerpo_tabla_izq">NICARDIPINO SEID 20MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>57614</td>
+<td>977645</td>
+<td>NICARDIPINO SEID 20MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56305</td>
-<td class="cuerpo_tabla_coma">960336</td>
-<td class="cuerpo_tabla_izq">VASONASE 20MG 30 GRAGEAS.</td>
+<td> </td>
+<td>56305</td>
+<td>960336</td>
+<td>VASONASE 20MG 30 GRAGEAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">972901</td>
-<td class="cuerpo_tabla_izq">VASONASE 20MG 60 GRAGEAS.</td>
+<td> </td>
+<td> </td>
+<td>972901</td>
+<td>VASONASE 20MG 60 GRAGEAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58445</td>
-<td class="cuerpo_tabla_coma">990853</td>
-<td class="cuerpo_tabla_izq">VASONASE 20MG 60ML SOLUCIÓN GOTAS.</td>
+<td> </td>
+<td>58445</td>
+<td>990853</td>
+<td>VASONASE 20MG 60ML SOLUCIÓN GOTAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58330</td>
-<td class="cuerpo_tabla_coma">992818</td>
-<td class="cuerpo_tabla_izq">VASONASE 30MG 60 CÁPSULAS.</td>
+<td> </td>
+<td>58330</td>
+<td>992818</td>
+<td>VASONASE 30MG 60 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60943</td>
-<td class="cuerpo_tabla_coma">681767</td>
-<td class="cuerpo_tabla_izq">VASONASE RETARD 40MG 60 CÁPSULAS LIB SOST.</td>
+<td> </td>
+<td>60943</td>
+<td>681767</td>
+<td>VASONASE RETARD 40MG 60 CÁPSULAS LIB SOST.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56472</td>
-<td class="cuerpo_tabla_coma">962480</td>
-<td class="cuerpo_tabla_izq">VATRASIN 20MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>56472</td>
+<td>962480</td>
+<td>VATRASIN 20MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">993113</td>
-<td class="cuerpo_tabla_izq">VATRASIN 20MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>993113</td>
+<td>VATRASIN 20MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C10AA</td>
-<td class="cuerpo_tabla_izq" colspan="3">INHIBIDORES DE LA HMG CoA REDUCTASA (únicamente en pacientes con hipercolesterolemia familiar heterocigota).</td>
+<td>C10AA</td>
+<td colspan="3">INHIBIDORES DE LA HMG CoA REDUCTASA (únicamente en pacientes con hipercolesterolemia familiar heterocigota).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64579</td>
-<td class="cuerpo_tabla_coma">825737</td>
-<td class="cuerpo_tabla_izq">ARUDEL 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64579</td>
+<td>825737</td>
+<td>ARUDEL 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64580</td>
-<td class="cuerpo_tabla_coma">832832</td>
-<td class="cuerpo_tabla_izq">ARUDEL 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64580</td>
+<td>832832</td>
+<td>ARUDEL 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64581</td>
-<td class="cuerpo_tabla_coma">825760</td>
-<td class="cuerpo_tabla_izq">ARUDEL 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64581</td>
+<td>825760</td>
+<td>ARUDEL 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63378 </td>
-<td class="cuerpo_tabla_coma">916106</td>
-<td class="cuerpo_tabla_izq">ATERKEY 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>63378 </td>
+<td>916106</td>
+<td>ATERKEY 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64986</td>
-<td class="cuerpo_tabla_coma">822205</td>
-<td class="cuerpo_tabla_izq">ATERKEY 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64986</td>
+<td>822205</td>
+<td>ATERKEY 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64652</td>
-<td class="cuerpo_tabla_coma">862938</td>
-<td class="cuerpo_tabla_izq">BELMALIP 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64652</td>
+<td>862938</td>
+<td>BELMALIP 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64653</td>
-<td class="cuerpo_tabla_coma">866046</td>
-<td class="cuerpo_tabla_izq">BELMALIP 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64653</td>
+<td>866046</td>
+<td>BELMALIP 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64654</td>
-<td class="cuerpo_tabla_coma">866061</td>
-<td class="cuerpo_tabla_izq">BELMALIP 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64654</td>
+<td>866061</td>
+<td>BELMALIP 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61334</td>
-<td class="cuerpo_tabla_coma">675538</td>
-<td class="cuerpo_tabla_izq">BRISTACOL 10MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td>61334</td>
+<td>675538</td>
+<td>BRISTACOL 10MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60162</td>
-<td class="cuerpo_tabla_coma">695171</td>
-<td class="cuerpo_tabla_izq">BRISTACOL 20 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>60162</td>
+<td>695171</td>
+<td>BRISTACOL 20 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">748384</td>
-<td class="cuerpo_tabla_izq">BRISTACOL 20MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td> </td>
+<td>748384</td>
+<td>BRISTACOL 20MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62374</td>
-<td class="cuerpo_tabla_coma">727396</td>
-<td class="cuerpo_tabla_izq">BRISTACOL 40MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td>62374</td>
+<td>727396</td>
+<td>BRISTACOL 40MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61716</td>
-<td class="cuerpo_tabla_coma">667881</td>
-<td class="cuerpo_tabla_izq">CARDYL 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61716</td>
+<td>667881</td>
+<td>CARDYL 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61716</td>
-<td class="cuerpo_tabla_coma">716886</td>
-<td class="cuerpo_tabla_izq">CARDYL 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61716</td>
+<td>716886</td>
+<td>CARDYL 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61717</td>
-<td class="cuerpo_tabla_coma">667873</td>
-<td class="cuerpo_tabla_izq">CARDYL 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61717</td>
+<td>667873</td>
+<td>CARDYL 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61718</td>
-<td class="cuerpo_tabla_coma">667865</td>
-<td class="cuerpo_tabla_izq">CARDYL 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61718</td>
+<td>667865</td>
+<td>CARDYL 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64571</td>
-<td class="cuerpo_tabla_coma">823997</td>
-<td class="cuerpo_tabla_izq">CARDYL 80MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64571</td>
+<td>823997</td>
+<td>CARDYL 80MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59181</td>
-<td class="cuerpo_tabla_coma">881011</td>
-<td class="cuerpo_tabla_izq">COLEMIN 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>59181</td>
+<td>881011</td>
+<td>COLEMIN 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59180</td>
-<td class="cuerpo_tabla_coma">881003</td>
-<td class="cuerpo_tabla_izq">COLEMIN 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>59180</td>
+<td>881003</td>
+<td>COLEMIN 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62329</td>
-<td class="cuerpo_tabla_coma">712042</td>
-<td class="cuerpo_tabla_izq">COLEMIN FORTE 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>62329</td>
+<td>712042</td>
+<td>COLEMIN FORTE 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63361</td>
-<td class="cuerpo_tabla_coma">911727</td>
-<td class="cuerpo_tabla_izq">COLESVIR 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>63361</td>
+<td>911727</td>
+<td>COLESVIR 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64034</td>
-<td class="cuerpo_tabla_coma">918847</td>
-<td class="cuerpo_tabla_izq">COLESVIR 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64034</td>
+<td>918847</td>
+<td>COLESVIR 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62793</td>
-<td class="cuerpo_tabla_coma">834416</td>
-<td class="cuerpo_tabla_izq">DIGARIL 20 MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>62793</td>
+<td>834416</td>
+<td>DIGARIL 20 MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62794</td>
-<td class="cuerpo_tabla_coma">834481</td>
-<td class="cuerpo_tabla_izq">DIGARIL 40 MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>62794</td>
+<td>834481</td>
+<td>DIGARIL 40 MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64692</td>
-<td class="cuerpo_tabla_coma">903971</td>
-<td class="cuerpo_tabla_izq">DIGARIL PROLIB 80MG 28 COMP DE LIBERAC PROLONGADA.</td>
+<td> </td>
+<td>64692</td>
+<td>903971</td>
+<td>DIGARIL PROLIB 80MG 28 COMP DE LIBERAC PROLONGADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64302</td>
-<td class="cuerpo_tabla_coma">989368</td>
-<td class="cuerpo_tabla_izq">GLUTASEY 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64302</td>
+<td>989368</td>
+<td>GLUTASEY 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64300</td>
-<td class="cuerpo_tabla_coma">988626</td>
-<td class="cuerpo_tabla_izq">GLUTASEY 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64300</td>
+<td>988626</td>
+<td>GLUTASEY 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64301</td>
-<td class="cuerpo_tabla_coma">989350</td>
-<td class="cuerpo_tabla_izq">GLUTASEY 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64301</td>
+<td>989350</td>
+<td>GLUTASEY 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64294</td>
-<td class="cuerpo_tabla_coma">972828</td>
-<td class="cuerpo_tabla_izq">HISTOP 10MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td>64294</td>
+<td>972828</td>
+<td>HISTOP 10MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64295</td>
-<td class="cuerpo_tabla_coma">973792</td>
-<td class="cuerpo_tabla_izq">HISTOP 20MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td>64295</td>
+<td>973792</td>
+<td>HISTOP 20MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64296</td>
-<td class="cuerpo_tabla_coma">973800</td>
-<td class="cuerpo_tabla_izq">HISTOP 40MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
+<td> </td>
+<td>64296</td>
+<td>973800</td>
+<td>HISTOP 40MG 28 COMPRIMIDOS CON CUBIERTA PELICULAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60821</td>
-<td class="cuerpo_tabla_coma">683839</td>
-<td class="cuerpo_tabla_izq">LESCOL 20 20MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>60821</td>
+<td>683839</td>
+<td>LESCOL 20 20MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60822</td>
-<td class="cuerpo_tabla_coma">683821</td>
-<td class="cuerpo_tabla_izq">LESCOL 40 40MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>60822</td>
+<td>683821</td>
+<td>LESCOL 40 40MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64648</td>
-<td class="cuerpo_tabla_coma">857078</td>
-<td class="cuerpo_tabla_izq">LESCOL PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
+<td> </td>
+<td>64648</td>
+<td>857078</td>
+<td>LESCOL PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59027</td>
-<td class="cuerpo_tabla_coma">685495</td>
-<td class="cuerpo_tabla_izq">LIPEMOL 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>59027</td>
+<td>685495</td>
+<td>LIPEMOL 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59028</td>
-<td class="cuerpo_tabla_coma">694646</td>
-<td class="cuerpo_tabla_izq">LIPEMOL 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>59028</td>
+<td>694646</td>
+<td>LIPEMOL 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62376</td>
-<td class="cuerpo_tabla_coma">727602</td>
-<td class="cuerpo_tabla_izq">LIPEMOL 40MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td>62376</td>
+<td>727602</td>
+<td>LIPEMOL 40MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59029</td>
-<td class="cuerpo_tabla_coma">685180</td>
-<td class="cuerpo_tabla_izq">LIPLAT 10 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>59029</td>
+<td>685180</td>
+<td>LIPLAT 10 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59030</td>
-<td class="cuerpo_tabla_coma">694596</td>
-<td class="cuerpo_tabla_izq">LIPLAT 20 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>59030</td>
+<td>694596</td>
+<td>LIPLAT 20 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62375</td>
-<td class="cuerpo_tabla_coma">727537</td>
-<td class="cuerpo_tabla_izq">LIPLAT 40 40MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td>62375</td>
+<td>727537</td>
+<td>LIPLAT 40 40MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64339</td>
-<td class="cuerpo_tabla_coma">773804</td>
-<td class="cuerpo_tabla_izq">LIPOCIDEN 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64339</td>
+<td>773804</td>
+<td>LIPOCIDEN 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64340</td>
-<td class="cuerpo_tabla_coma">773846</td>
-<td class="cuerpo_tabla_izq">LIPOCIDEN 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64340</td>
+<td>773846</td>
+<td>LIPOCIDEN 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64341</td>
-<td class="cuerpo_tabla_coma">773861</td>
-<td class="cuerpo_tabla_izq">LIPOCIDEN 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64341</td>
+<td>773861</td>
+<td>LIPOCIDEN 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58563</td>
-<td class="cuerpo_tabla_coma">992693</td>
-<td class="cuerpo_tabla_izq">LIPOFREN 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>58563</td>
+<td>992693</td>
+<td>LIPOFREN 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61592</td>
-<td class="cuerpo_tabla_coma">670323</td>
-<td class="cuerpo_tabla_izq">LIPOSCLER 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>61592</td>
+<td>670323</td>
+<td>LIPOSCLER 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63441</td>
-<td class="cuerpo_tabla_coma">935775</td>
-<td class="cuerpo_tabla_izq">LIPOSCLER 40MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td>63441</td>
+<td>935775</td>
+<td>LIPOSCLER 40MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63988</td>
-<td class="cuerpo_tabla_coma">877910</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA ALACAN 20MG 28 COMPRIMIDOS RANUR EFG.</td>
+<td> </td>
+<td>63988</td>
+<td>877910</td>
+<td>LOVASTATINA ALACAN 20MG 28 COMPRIMIDOS RANUR EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63987</td>
-<td class="cuerpo_tabla_coma">877696</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA ALACAN 40MG 28 COMPRIMIDOS RANURADO EFG.</td>
+<td> </td>
+<td>63987</td>
+<td>877696</td>
+<td>LOVASTATINA ALACAN 40MG 28 COMPRIMIDOS RANURADO EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64923</td>
-<td class="cuerpo_tabla_coma">789321</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA APHAR 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64923</td>
+<td>789321</td>
+<td>LOVASTATINA APHAR 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64922</td>
-<td class="cuerpo_tabla_coma">789297</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA APHAR 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64922</td>
+<td>789297</td>
+<td>LOVASTATINA APHAR 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63326</td>
-<td class="cuerpo_tabla_coma">901892</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA BEXAL 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63326</td>
+<td>901892</td>
+<td>LOVASTATINA BEXAL 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63327</td>
-<td class="cuerpo_tabla_coma">901900</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA BEXAL 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63327</td>
+<td>901900</td>
+<td>LOVASTATINA BEXAL 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63986</td>
-<td class="cuerpo_tabla_coma">728287</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63986</td>
+<td>728287</td>
+<td>LOVASTATINA CENTRUM 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">875385</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>875385</td>
+<td>LOVASTATINA CENTRUM 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63985</td>
-<td class="cuerpo_tabla_coma">728832</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63985</td>
+<td>728832</td>
+<td>LOVASTATINA CENTRUM 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">874636</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CENTRUM 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>874636</td>
+<td>LOVASTATINA CENTRUM 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63360</td>
-<td class="cuerpo_tabla_coma">911685</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CINFA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63360</td>
+<td>911685</td>
+<td>LOVASTATINA CINFA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63359</td>
-<td class="cuerpo_tabla_coma">816918</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CINFA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63359</td>
+<td>816918</td>
+<td>LOVASTATINA CINFA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">911677</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CINFA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>911677</td>
+<td>LOVASTATINA CINFA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64444</td>
-<td class="cuerpo_tabla_coma">714253</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA COMBINO PHARM 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64444</td>
+<td>714253</td>
+<td>LOVASTATINA COMBINO PHARM 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64445</td>
-<td class="cuerpo_tabla_coma">714295</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA COMBINO PHARM 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64445</td>
+<td>714295</td>
+<td>LOVASTATINA COMBINO PHARM 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64393</td>
-<td class="cuerpo_tabla_coma">703231</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CUVE 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64393</td>
+<td>703231</td>
+<td>LOVASTATINA CUVE 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64392</td>
-<td class="cuerpo_tabla_coma">703199</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA CUVE 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64392</td>
+<td>703199</td>
+<td>LOVASTATINA CUVE 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63765</td>
-<td class="cuerpo_tabla_coma">704569</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA GEMINIS 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63765</td>
+<td>704569</td>
+<td>LOVASTATINA GEMINIS 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">858282</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA GEMINIS 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>858282</td>
+<td>LOVASTATINA GEMINIS 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63766</td>
-<td class="cuerpo_tabla_coma">859223</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA GEMINIS 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63766</td>
+<td>859223</td>
+<td>LOVASTATINA GEMINIS 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63328</td>
-<td class="cuerpo_tabla_coma">901918</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA GRAPA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63328</td>
+<td>901918</td>
+<td>LOVASTATINA GRAPA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63905</td>
-<td class="cuerpo_tabla_coma">764787</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA GRAPA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63905</td>
+<td>764787</td>
+<td>LOVASTATINA GRAPA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63322</td>
-<td class="cuerpo_tabla_coma">715698</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA KERN 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63322</td>
+<td>715698</td>
+<td>LOVASTATINA KERN 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">901843</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA KERN 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>901843</td>
+<td>LOVASTATINA KERN 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63323</td>
-<td class="cuerpo_tabla_coma">715680</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA KERN 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63323</td>
+<td>715680</td>
+<td>LOVASTATINA KERN 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">901868</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA KERN 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>901868</td>
+<td>LOVASTATINA KERN 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63329</td>
-<td class="cuerpo_tabla_coma">901926</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LAREQ 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63329</td>
+<td>901926</td>
+<td>LOVASTATINA LAREQ 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63906</td>
-<td class="cuerpo_tabla_coma">764902</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LAREQ 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63906</td>
+<td>764902</td>
+<td>LOVASTATINA LAREQ 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63756</td>
-<td class="cuerpo_tabla_coma">851915</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LASA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63756</td>
+<td>851915</td>
+<td>LOVASTATINA LASA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">871954</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LASA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>871954</td>
+<td>LOVASTATINA LASA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63757</td>
-<td class="cuerpo_tabla_coma">853044</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63757</td>
+<td>853044</td>
+<td>LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">858498</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>858498</td>
+<td>LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">871970</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>871970</td>
+<td>LOVASTATINA LASA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63324</td>
-<td class="cuerpo_tabla_coma">901884</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA MABO 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63324</td>
+<td>901884</td>
+<td>LOVASTATINA MABO 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63325</td>
-<td class="cuerpo_tabla_coma">901454</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA MABO 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63325</td>
+<td>901454</td>
+<td>LOVASTATINA MABO 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63762</td>
-<td class="cuerpo_tabla_coma">856393</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA MERCK 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63762</td>
+<td>856393</td>
+<td>LOVASTATINA MERCK 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63761</td>
-<td class="cuerpo_tabla_coma">856385</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA MERCK 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63761</td>
+<td>856385</td>
+<td>LOVASTATINA MERCK 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64386</td>
-<td class="cuerpo_tabla_coma">702548</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA MIDY 20MG28C.</td>
+<td> </td>
+<td>64386</td>
+<td>702548</td>
+<td>LOVASTATINA MIDY 20MG28C.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64387</td>
-<td class="cuerpo_tabla_coma">702571</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA MIDY 40MG28C.</td>
+<td> </td>
+<td>64387</td>
+<td>702571</td>
+<td>LOVASTATINA MIDY 40MG28C.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64437</td>
-<td class="cuerpo_tabla_coma">713255</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA NORMON 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64437</td>
+<td>713255</td>
+<td>LOVASTATINA NORMON 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64438</td>
-<td class="cuerpo_tabla_coma">713271</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA NORMON 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64438</td>
+<td>713271</td>
+<td>LOVASTATINA NORMON 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63806</td>
-<td class="cuerpo_tabla_coma">877464</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA PLIVA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63806</td>
+<td>877464</td>
+<td>LOVASTATINA PLIVA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63805</td>
-<td class="cuerpo_tabla_coma">876490</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA PLIVA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63805</td>
+<td>876490</td>
+<td>LOVASTATINA PLIVA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64043</td>
-<td class="cuerpo_tabla_coma">947143</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA TAMARANG 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64043</td>
+<td>947143</td>
+<td>LOVASTATINA TAMARANG 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64044</td>
-<td class="cuerpo_tabla_coma">949537</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA TAMARANG 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64044</td>
+<td>949537</td>
+<td>LOVASTATINA TAMARANG 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64383</td>
-<td class="cuerpo_tabla_coma">842641</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 100COMP.</td>
+<td> </td>
+<td>64383</td>
+<td>842641</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 100COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">839811</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 10COMP.</td>
+<td> </td>
+<td> </td>
+<td>839811</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 10COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">842757</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 112COMP.</td>
+<td> </td>
+<td> </td>
+<td>842757</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 112COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">841205</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 20COMP.</td>
+<td> </td>
+<td> </td>
+<td>841205</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 20COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">702100</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 28COMP.</td>
+<td> </td>
+<td> </td>
+<td>702100</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">841502</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 30COMP.</td>
+<td> </td>
+<td> </td>
+<td>841502</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 30COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">841528</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 50COMP.</td>
+<td> </td>
+<td> </td>
+<td>841528</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 50COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">841692</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 60COMP.</td>
+<td> </td>
+<td> </td>
+<td>841692</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 60COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">841767</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 84COMP.</td>
+<td> </td>
+<td> </td>
+<td>841767</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 84COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">841858</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 20MG 98COMP.</td>
+<td> </td>
+<td> </td>
+<td>841858</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 20MG 98COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64382</td>
-<td class="cuerpo_tabla_coma">845297</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 100COMP.</td>
+<td> </td>
+<td>64382</td>
+<td>845297</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 100COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">843078</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 10COMP.</td>
+<td> </td>
+<td> </td>
+<td>843078</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 10COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64382</td>
-<td class="cuerpo_tabla_coma">845313</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 112COMP.</td>
+<td> </td>
+<td>64382</td>
+<td>845313</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 112COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">843219</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 20COMP.</td>
+<td> </td>
+<td> </td>
+<td>843219</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 20COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">701862</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 28COMP.</td>
+<td> </td>
+<td> </td>
+<td>701862</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">844464</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 30COMP.</td>
+<td> </td>
+<td> </td>
+<td>844464</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 30COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">844514</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 50COMP.</td>
+<td> </td>
+<td> </td>
+<td>844514</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 50COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">844548</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 60COMP.</td>
+<td> </td>
+<td> </td>
+<td>844548</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 60COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">844571</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 84COMP.</td>
+<td> </td>
+<td> </td>
+<td>844571</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 84COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">845180</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL ESPAÑA 40MG 98COMP.</td>
+<td> </td>
+<td> </td>
+<td>845180</td>
+<td>LOVASTATINA UNIVERSAL ESPAÑA 40MG 98COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64380</td>
-<td class="cuerpo_tabla_coma">701615</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL EUROPA 20MG 28COMP.</td>
+<td> </td>
+<td>64380</td>
+<td>701615</td>
+<td>LOVASTATINA UNIVERSAL EUROPA 20MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64381</td>
-<td class="cuerpo_tabla_coma">701623</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL EUROPA 40MG 28COMP.</td>
+<td> </td>
+<td>64381</td>
+<td>701623</td>
+<td>LOVASTATINA UNIVERSAL EUROPA 40MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64385</td>
-<td class="cuerpo_tabla_coma">702191</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL IBERICA 20MG 28COMP.</td>
+<td> </td>
+<td>64385</td>
+<td>702191</td>
+<td>LOVASTATINA UNIVERSAL IBERICA 20MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64384</td>
-<td class="cuerpo_tabla_coma">702183</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA UNIVERSAL IBERICA 40MG 28COMP.</td>
+<td> </td>
+<td>64384</td>
+<td>702183</td>
+<td>LOVASTATINA UNIVERSAL IBERICA 40MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63330</td>
-<td class="cuerpo_tabla_coma">901975</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA VIR 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63330</td>
+<td>901975</td>
+<td>LOVASTATINA VIR 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63907</td>
-<td class="cuerpo_tabla_coma">765347</td>
-<td class="cuerpo_tabla_izq">LOVASTATINA VIR 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>63907</td>
+<td>765347</td>
+<td>LOVASTATINA VIR 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61099</td>
-<td class="cuerpo_tabla_coma">679266</td>
-<td class="cuerpo_tabla_izq">LYMETEL 20 20MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>61099</td>
+<td>679266</td>
+<td>LYMETEL 20 20MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">746602</td>
-<td class="cuerpo_tabla_izq">LYMETEL 20 20MG 28 CÁPSULAS.</td>
+<td> </td>
+<td> </td>
+<td>746602</td>
+<td>LYMETEL 20 20MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61100</td>
-<td class="cuerpo_tabla_coma">679258</td>
-<td class="cuerpo_tabla_izq">LYMETEL 40 40MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>61100</td>
+<td>679258</td>
+<td>LYMETEL 40 40MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">746610</td>
-<td class="cuerpo_tabla_izq">LYMETEL 40 40MG 28 CÁPSULAS.</td>
+<td> </td>
+<td> </td>
+<td>746610</td>
+<td>LYMETEL 40 40MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64651</td>
-<td class="cuerpo_tabla_coma">862409</td>
-<td class="cuerpo_tabla_izq">LYMETEL PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
+<td> </td>
+<td>64651</td>
+<td>862409</td>
+<td>LYMETEL PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58517</td>
-<td class="cuerpo_tabla_coma">992156</td>
-<td class="cuerpo_tabla_izq">MEVACOR 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>58517</td>
+<td>992156</td>
+<td>MEVACOR 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">805002</td>
-<td class="cuerpo_tabla_izq">MEVACOR 20MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td> </td>
+<td>805002</td>
+<td>MEVACOR 20MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60281</td>
-<td class="cuerpo_tabla_coma">692871</td>
-<td class="cuerpo_tabla_izq">MEVACOR 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>60281</td>
+<td>692871</td>
+<td>MEVACOR 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">805010</td>
-<td class="cuerpo_tabla_izq">MEVACOR 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>805010</td>
+<td>MEVACOR 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63184</td>
-<td class="cuerpo_tabla_coma">817643</td>
-<td class="cuerpo_tabla_izq">MEVASTEROL 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>63184</td>
+<td>817643</td>
+<td>MEVASTEROL 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63184</td>
-<td class="cuerpo_tabla_coma">887869</td>
-<td class="cuerpo_tabla_izq">MEVASTEROL 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>63184</td>
+<td>887869</td>
+<td>MEVASTEROL 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64987</td>
-<td class="cuerpo_tabla_coma">822387</td>
-<td class="cuerpo_tabla_izq">MEVASTEROL 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64987</td>
+<td>822387</td>
+<td>MEVASTEROL 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58751</td>
-<td class="cuerpo_tabla_coma">995845</td>
-<td class="cuerpo_tabla_izq">NERGADAN 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>58751</td>
+<td>995845</td>
+<td>NERGADAN 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60345</td>
-<td class="cuerpo_tabla_coma">691964</td>
-<td class="cuerpo_tabla_izq">NERGADAN 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>60345</td>
+<td>691964</td>
+<td>NERGADAN 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59182</td>
-<td class="cuerpo_tabla_coma">881078</td>
-<td class="cuerpo_tabla_izq">PANTOK 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>59182</td>
+<td>881078</td>
+<td>PANTOK 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59183</td>
-<td class="cuerpo_tabla_coma">881086</td>
-<td class="cuerpo_tabla_izq">PANTOK 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>59183</td>
+<td>881086</td>
+<td>PANTOK 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62330</td>
-<td class="cuerpo_tabla_coma">712059</td>
-<td class="cuerpo_tabla_izq">PANTOK FORTE 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>62330</td>
+<td>712059</td>
+<td>PANTOK FORTE 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61092</td>
-<td class="cuerpo_tabla_coma">679340</td>
-<td class="cuerpo_tabla_izq">PRAREDUCT 10 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>61092</td>
+<td>679340</td>
+<td>PRAREDUCT 10 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61112</td>
-<td class="cuerpo_tabla_coma">679126</td>
-<td class="cuerpo_tabla_izq">PRAREDUCT 20 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>61112</td>
+<td>679126</td>
+<td>PRAREDUCT 20 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62688</td>
-<td class="cuerpo_tabla_coma">807131</td>
-<td class="cuerpo_tabla_izq">PRAREDUCT 40 40MG 28 COMPRIMIDOS RANURADOS.</td>
+<td> </td>
+<td>62688</td>
+<td>807131</td>
+<td>PRAREDUCT 40 40MG 28 COMPRIMIDOS RANURADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61742</td>
-<td class="cuerpo_tabla_coma">667477</td>
-<td class="cuerpo_tabla_izq">PREVENCOR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61742</td>
+<td>667477</td>
+<td>PREVENCOR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61742</td>
-<td class="cuerpo_tabla_coma">932822</td>
-<td class="cuerpo_tabla_izq">PREVENCOR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61742</td>
+<td>932822</td>
+<td>PREVENCOR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61743</td>
-<td class="cuerpo_tabla_coma">667469</td>
-<td class="cuerpo_tabla_izq">PREVENCOR 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61743</td>
+<td>667469</td>
+<td>PREVENCOR 20MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61744</td>
-<td class="cuerpo_tabla_coma">667451</td>
-<td class="cuerpo_tabla_izq">PREVENCOR 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61744</td>
+<td>667451</td>
+<td>PREVENCOR 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64642</td>
-<td class="cuerpo_tabla_coma">851154</td>
-<td class="cuerpo_tabla_izq">PREVENCOR 80MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>64642</td>
+<td>851154</td>
+<td>PREVENCOR 80MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65235</td>
-<td class="cuerpo_tabla_coma">750430</td>
-<td class="cuerpo_tabla_izq">PRINCESS PROLIB 80MG 28 COMPRIMIDOS LIBERA.</td>
+<td> </td>
+<td>65235</td>
+<td>750430</td>
+<td>PRINCESS PROLIB 80MG 28 COMPRIMIDOS LIBERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65210</td>
-<td class="cuerpo_tabla_coma">741082</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA ACOST 10MG 28 COMRIMIDOS.</td>
+<td> </td>
+<td>65210</td>
+<td>741082</td>
+<td>SIMVASTATINA ACOST 10MG 28 COMRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65208</td>
-<td class="cuerpo_tabla_coma">740811</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA ACOST 20MG 28 COMPRIMIDOS RECUB.</td>
+<td> </td>
+<td>65208</td>
+<td>740811</td>
+<td>SIMVASTATINA ACOST 20MG 28 COMPRIMIDOS RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65209</td>
-<td class="cuerpo_tabla_coma">741041</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA ACOST 40MG 28 COMPRMIDOS RECUB.</td>
+<td> </td>
+<td>65209</td>
+<td>741041</td>
+<td>SIMVASTATINA ACOST 40MG 28 COMPRMIDOS RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64183</td>
-<td class="cuerpo_tabla_coma">930792</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA ALTER 10MG 28 COMP RECUBEIRTOS EFG.</td>
+<td> </td>
+<td>64183</td>
+<td>930792</td>
+<td>SIMVASTATINA ALTER 10MG 28 COMP RECUBEIRTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64184</td>
-<td class="cuerpo_tabla_coma">987156</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA ALTER 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64184</td>
+<td>987156</td>
+<td>SIMVASTATINA ALTER 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64185</td>
-<td class="cuerpo_tabla_coma">926451</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA ALTER 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64185</td>
+<td>926451</td>
+<td>SIMVASTATINA ALTER 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64266</td>
-<td class="cuerpo_tabla_coma">926402</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA BAYVIT 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64266</td>
+<td>926402</td>
+<td>SIMVASTATINA BAYVIT 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64267</td>
-<td class="cuerpo_tabla_coma">972240</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA BAYVIT 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64267</td>
+<td>972240</td>
+<td>SIMVASTATINA BAYVIT 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64268</td>
-<td class="cuerpo_tabla_coma">975771</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA BAYVIT 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64268</td>
+<td>975771</td>
+<td>SIMVASTATINA BAYVIT 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64168</td>
-<td class="cuerpo_tabla_coma">968461</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA BEXAL 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64168</td>
+<td>968461</td>
+<td>SIMVASTATINA BEXAL 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64169</td>
-<td class="cuerpo_tabla_coma">990986</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA BEXAL 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64169</td>
+<td>990986</td>
+<td>SIMVASTATINA BEXAL 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64170</td>
-<td class="cuerpo_tabla_coma">936443</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA BEXAL 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64170</td>
+<td>936443</td>
+<td>SIMVASTATINA BEXAL 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64519</td>
-<td class="cuerpo_tabla_coma">737288</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA CINFA 10MG 28COMP RECUB.</td>
+<td> </td>
+<td>64519</td>
+<td>737288</td>
+<td>SIMVASTATINA CINFA 10MG 28COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64520</td>
-<td class="cuerpo_tabla_coma">737304</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA CINFA 20MG 28COMP RECUB.</td>
+<td> </td>
+<td>64520</td>
+<td>737304</td>
+<td>SIMVASTATINA CINFA 20MG 28COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64415</td>
-<td class="cuerpo_tabla_coma">708800</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA CINFA 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64415</td>
+<td>708800</td>
+<td>SIMVASTATINA CINFA 40MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64521</td>
-<td class="cuerpo_tabla_coma">737312</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA CINFAMED 10MG 28COMP RECUB.</td>
+<td> </td>
+<td>64521</td>
+<td>737312</td>
+<td>SIMVASTATINA CINFAMED 10MG 28COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64522</td>
-<td class="cuerpo_tabla_coma">737619</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA CINFAMED 20MG 28COMP RECUB.</td>
+<td> </td>
+<td>64522</td>
+<td>737619</td>
+<td>SIMVASTATINA CINFAMED 20MG 28COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64416</td>
-<td class="cuerpo_tabla_coma">708818</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA CINFAMED 40MG 28COMP RECUB.</td>
+<td> </td>
+<td>64416</td>
+<td>708818</td>
+<td>SIMVASTATINA CINFAMED 40MG 28COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64276</td>
-<td class="cuerpo_tabla_coma">919100</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64276</td>
+<td>919100</td>
+<td>SIMVASTATINA DAVUR 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">974691</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>974691</td>
+<td>SIMVASTATINA DAVUR 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64275</td>
-<td class="cuerpo_tabla_coma">917880</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64275</td>
+<td>917880</td>
+<td>SIMVASTATINA DAVUR 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">971069</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>971069</td>
+<td>SIMVASTATINA DAVUR 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64277</td>
-<td class="cuerpo_tabla_coma">917872</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64277</td>
+<td>917872</td>
+<td>SIMVASTATINA DAVUR 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">975789</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DAVUR 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td> </td>
+<td>975789</td>
+<td>SIMVASTATINA DAVUR 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65196</td>
-<td class="cuerpo_tabla_coma">736850</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DESGEN 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>65196</td>
+<td>736850</td>
+<td>SIMVASTATINA DESGEN 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65194</td>
-<td class="cuerpo_tabla_coma">736785</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DESGEN 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>65194</td>
+<td>736785</td>
+<td>SIMVASTATINA DESGEN 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65195</td>
-<td class="cuerpo_tabla_coma">736835</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA DESGEN 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>65195</td>
+<td>736835</td>
+<td>SIMVASTATINA DESGEN 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64488</td>
-<td class="cuerpo_tabla_coma">723445</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA EDIGEN 10MG 28COMPRIMIDOS.</td>
+<td> </td>
+<td>64488</td>
+<td>723445</td>
+<td>SIMVASTATINA EDIGEN 10MG 28COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64489</td>
-<td class="cuerpo_tabla_coma">723569</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA EDIGEN 20MG 28COMPRIMIDOS.</td>
+<td> </td>
+<td>64489</td>
+<td>723569</td>
+<td>SIMVASTATINA EDIGEN 20MG 28COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64490</td>
-<td class="cuerpo_tabla_coma">723668</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA EDIGEN 40MG 28COMP.</td>
+<td> </td>
+<td>64490</td>
+<td>723668</td>
+<td>SIMVASTATINA EDIGEN 40MG 28COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64174</td>
-<td class="cuerpo_tabla_coma">969113</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA FARMABION 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64174</td>
+<td>969113</td>
+<td>SIMVASTATINA FARMABION 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64175</td>
-<td class="cuerpo_tabla_coma">917815</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA FARMABION 20MG 28 COMP.</td>
+<td> </td>
+<td>64175</td>
+<td>917815</td>
+<td>SIMVASTATINA FARMABION 20MG 28 COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64176</td>
-<td class="cuerpo_tabla_coma">904474</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA FARMABION 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64176</td>
+<td>904474</td>
+<td>SIMVASTATINA FARMABION 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64177</td>
-<td class="cuerpo_tabla_coma">910927</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA GEMINIS 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64177</td>
+<td>910927</td>
+<td>SIMVASTATINA GEMINIS 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64178</td>
-<td class="cuerpo_tabla_coma">910935</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA GEMINIS 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64178</td>
+<td>910935</td>
+<td>SIMVASTATINA GEMINIS 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64179</td>
-<td class="cuerpo_tabla_coma">910943</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA GEMINIS 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64179</td>
+<td>910943</td>
+<td>SIMVASTATINA GEMINIS 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65191</td>
-<td class="cuerpo_tabla_coma">736330</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA GRAPA 10MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>65191</td>
+<td>736330</td>
+<td>SIMVASTATINA GRAPA 10MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65193</td>
-<td class="cuerpo_tabla_coma">736504</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA GRAPA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>65193</td>
+<td>736504</td>
+<td>SIMVASTATINA GRAPA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65192</td>
-<td class="cuerpo_tabla_coma">736496</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA GRAPA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>65192</td>
+<td>736496</td>
+<td>SIMVASTATINA GRAPA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65201</td>
-<td class="cuerpo_tabla_coma">739177</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA JUVENTUS 10MG 28 COMPRIMIDOS REC EFG.</td>
+<td> </td>
+<td>65201</td>
+<td>739177</td>
+<td>SIMVASTATINA JUVENTUS 10MG 28 COMPRIMIDOS REC EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65202</td>
-<td class="cuerpo_tabla_coma">739649</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA JUVENTUS 20MG 28 COMPRIMIDOS REC EFG.</td>
+<td> </td>
+<td>65202</td>
+<td>739649</td>
+<td>SIMVASTATINA JUVENTUS 20MG 28 COMPRIMIDOS REC EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65203</td>
-<td class="cuerpo_tabla_coma">739656</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA JUVENTUS 40MG 28 COMPRIMIDOS REC EFG.</td>
+<td> </td>
+<td>65203</td>
+<td>739656</td>
+<td>SIMVASTATINA JUVENTUS 40MG 28 COMPRIMIDOS REC EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64248</td>
-<td class="cuerpo_tabla_coma">916049</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64248</td>
+<td>916049</td>
+<td>SIMVASTATINA KERN 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">717371</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>717371</td>
+<td>SIMVASTATINA KERN 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64247</td>
-<td class="cuerpo_tabla_coma">716936</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64247</td>
+<td>716936</td>
+<td>SIMVASTATINA KERN 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">914184</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>914184</td>
+<td>SIMVASTATINA KERN 20MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64246</td>
-<td class="cuerpo_tabla_coma">716902</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64246</td>
+<td>716902</td>
+<td>SIMVASTATINA KERN 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">914101</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA KERN 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>914101</td>
+<td>SIMVASTATINA KERN 40MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64172</td>
-<td class="cuerpo_tabla_coma">984450</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MABO 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64172</td>
+<td>984450</td>
+<td>SIMVASTATINA MABO 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64171</td>
-<td class="cuerpo_tabla_coma">956060</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MABO 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64171</td>
+<td>956060</td>
+<td>SIMVASTATINA MABO 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64173</td>
-<td class="cuerpo_tabla_coma">984476</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MABO 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64173</td>
+<td>984476</td>
+<td>SIMVASTATINA MABO 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64180</td>
-<td class="cuerpo_tabla_coma">910950</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MERCK 10MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64180</td>
+<td>910950</td>
+<td>SIMVASTATINA MERCK 10MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64181</td>
-<td class="cuerpo_tabla_coma">910968</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MERCK 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64181</td>
+<td>910968</td>
+<td>SIMVASTATINA MERCK 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64182</td>
-<td class="cuerpo_tabla_coma">910976</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MERCK 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64182</td>
+<td>910976</td>
+<td>SIMVASTATINA MERCK 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65144</td>
-<td class="cuerpo_tabla_coma">712612</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MIDY 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>65144</td>
+<td>712612</td>
+<td>SIMVASTATINA MIDY 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65145</td>
-<td class="cuerpo_tabla_coma">713289</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MIDY 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>65145</td>
+<td>713289</td>
+<td>SIMVASTATINA MIDY 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65146</td>
-<td class="cuerpo_tabla_coma">713321</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA MIDY 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>65146</td>
+<td>713321</td>
+<td>SIMVASTATINA MIDY 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65200</td>
-<td class="cuerpo_tabla_coma">739151</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA NORMON 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>65200</td>
+<td>739151</td>
+<td>SIMVASTATINA NORMON 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65198</td>
-<td class="cuerpo_tabla_coma">738310</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA NORMON 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>65198</td>
+<td>738310</td>
+<td>SIMVASTATINA NORMON 20MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65199</td>
-<td class="cuerpo_tabla_coma">739060</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA NORMON 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>65199</td>
+<td>739060</td>
+<td>SIMVASTATINA NORMON 40MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65077</td>
-<td class="cuerpo_tabla_coma">868919</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA PLIVA 10MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>65077</td>
+<td>868919</td>
+<td>SIMVASTATINA PLIVA 10MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65078</td>
-<td class="cuerpo_tabla_coma">869057</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA PLIVA 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>65078</td>
+<td>869057</td>
+<td>SIMVASTATINA PLIVA 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65079</td>
-<td class="cuerpo_tabla_coma">869511</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA PLIVA 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>65079</td>
+<td>869511</td>
+<td>SIMVASTATINA PLIVA 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64237</td>
-<td class="cuerpo_tabla_coma">897447</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RATIOPHARM 10MG 28 COMP RECUB EFG.</td>
+<td> </td>
+<td>64237</td>
+<td>897447</td>
+<td>SIMVASTATINA RATIOPHARM 10MG 28 COMP RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64238</td>
-<td class="cuerpo_tabla_coma">897454</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RATIOPHARM 20MG 28 COMP RECUB EFG.</td>
+<td> </td>
+<td>64238</td>
+<td>897454</td>
+<td>SIMVASTATINA RATIOPHARM 20MG 28 COMP RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64239</td>
-<td class="cuerpo_tabla_coma">931568</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RATIOPHARM 40MG 28 COMP RECUB EFG.</td>
+<td> </td>
+<td>64239</td>
+<td>931568</td>
+<td>SIMVASTATINA RATIOPHARM 40MG 28 COMP RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64269</td>
-<td class="cuerpo_tabla_coma">998690</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 10MG 28 COMP RECUB EFG.</td>
+<td> </td>
+<td>64269</td>
+<td>998690</td>
+<td>SIMVASTATINA RIMAFAR 10MG 28 COMP RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">848143</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 10MG 28 COMPRIM RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>848143</td>
+<td>SIMVASTATINA RIMAFAR 10MG 28 COMPRIM RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64270</td>
-<td class="cuerpo_tabla_coma">687822</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 20MG 28 COMP RECUB EFG.</td>
+<td> </td>
+<td>64270</td>
+<td>687822</td>
+<td>SIMVASTATINA RIMAFAR 20MG 28 COMP RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">848234</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 20MG 28 COMPRIM RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>848234</td>
+<td>SIMVASTATINA RIMAFAR 20MG 28 COMPRIM RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64271</td>
-<td class="cuerpo_tabla_coma">896944</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 40MG 28 COMP RECUB EFG.</td>
+<td> </td>
+<td>64271</td>
+<td>896944</td>
+<td>SIMVASTATINA RIMAFAR 40MG 28 COMP RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">848283</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA RIMAFAR 40MG 28 COMPRIM RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>848283</td>
+<td>SIMVASTATINA RIMAFAR 40MG 28 COMPRIM RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64236</td>
-<td class="cuerpo_tabla_coma">885798</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SUMOL 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64236</td>
+<td>885798</td>
+<td>SIMVASTATINA SUMOL 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64234</td>
-<td class="cuerpo_tabla_coma">878637</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SUMOL 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64234</td>
+<td>878637</td>
+<td>SIMVASTATINA SUMOL 20MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64235</td>
-<td class="cuerpo_tabla_coma">878645</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SUMOL 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64235</td>
+<td>878645</td>
+<td>SIMVASTATINA SUMOL 40MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64278</td>
-<td class="cuerpo_tabla_coma">982942</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON 10MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64278</td>
+<td>982942</td>
+<td>SIMVASTATINA SYNTHON 10MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64279</td>
-<td class="cuerpo_tabla_coma">988527</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON 20MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64279</td>
+<td>988527</td>
+<td>SIMVASTATINA SYNTHON 20MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64280</td>
-<td class="cuerpo_tabla_coma">990226</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON 40MG 28 COMPRIMIDOS EFG.</td>
+<td> </td>
+<td>64280</td>
+<td>990226</td>
+<td>SIMVASTATINA SYNTHON 40MG 28 COMPRIMIDOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64281</td>
-<td class="cuerpo_tabla_coma">748046</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON HISPANIA 10MG 28 COMP.</td>
+<td> </td>
+<td>64281</td>
+<td>748046</td>
+<td>SIMVASTATINA SYNTHON HISPANIA 10MG 28 COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64282</td>
-<td class="cuerpo_tabla_coma">832485</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON HISPANIA 20MG 28 COMP.</td>
+<td> </td>
+<td>64282</td>
+<td>832485</td>
+<td>SIMVASTATINA SYNTHON HISPANIA 20MG 28 COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64283</td>
-<td class="cuerpo_tabla_coma">861740</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA SYNTHON HISPANIA 40MG 28 COMP.</td>
+<td> </td>
+<td>64283</td>
+<td>861740</td>
+<td>SIMVASTATINA SYNTHON HISPANIA 40MG 28 COMP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64250</td>
-<td class="cuerpo_tabla_coma">725564</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA TARBIS 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64250</td>
+<td>725564</td>
+<td>SIMVASTATINA TARBIS 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64249</td>
-<td class="cuerpo_tabla_coma">902569</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA TARBIS 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64249</td>
+<td>902569</td>
+<td>SIMVASTATINA TARBIS 20MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64251</td>
-<td class="cuerpo_tabla_coma">736587</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA TARBIS 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>64251</td>
+<td>736587</td>
+<td>SIMVASTATINA TARBIS 40MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64240</td>
-<td class="cuerpo_tabla_coma">962472</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UR 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64240</td>
+<td>962472</td>
+<td>SIMVASTATINA UR 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64241</td>
-<td class="cuerpo_tabla_coma">977595</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UR 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64241</td>
+<td>977595</td>
+<td>SIMVASTATINA UR 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64242</td>
-<td class="cuerpo_tabla_coma">884189</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UR 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64242</td>
+<td>884189</td>
+<td>SIMVASTATINA UR 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64320</td>
-<td class="cuerpo_tabla_coma">798033</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUB.</td>
+<td> </td>
+<td>64320</td>
+<td>798033</td>
+<td>SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">886382</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td> </td>
+<td>886382</td>
+<td>SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">769786</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+<td> </td>
+<td> </td>
+<td>769786</td>
+<td>SIMVASTATINA UXA 10MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64321</td>
-<td class="cuerpo_tabla_coma">798397</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUB.</td>
+<td> </td>
+<td>64321</td>
+<td>798397</td>
+<td>SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">769836</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+<td> </td>
+<td> </td>
+<td>769836</td>
+<td>SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">897231</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+<td> </td>
+<td> </td>
+<td>897231</td>
+<td>SIMVASTATINA UXA 20MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64322</td>
-<td class="cuerpo_tabla_coma">798645</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUB.</td>
+<td> </td>
+<td>64322</td>
+<td>798645</td>
+<td>SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">769844</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+<td> </td>
+<td> </td>
+<td>769844</td>
+<td>SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">897249</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
+<td> </td>
+<td> </td>
+<td>897249</td>
+<td>SIMVASTATINA UXA 40MG 28 COMPRIMIDOS RECUBIERT EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65107</td>
-<td class="cuerpo_tabla_coma">937961</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA VEGAL 10MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>65107</td>
+<td>937961</td>
+<td>SIMVASTATINA VEGAL 10MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65106</td>
-<td class="cuerpo_tabla_coma">937540</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA VEGAL 20MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>65106</td>
+<td>937540</td>
+<td>SIMVASTATINA VEGAL 20MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65105</td>
-<td class="cuerpo_tabla_coma">936849</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA VEGAL 40MG 28 COMPRIMIDOS RECUB EFG.</td>
+<td> </td>
+<td>65105</td>
+<td>936849</td>
+<td>SIMVASTATINA VEGAL 40MG 28 COMPRIMIDOS RECUB EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64272</td>
-<td class="cuerpo_tabla_coma">963769</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA VIR 10MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64272</td>
+<td>963769</td>
+<td>SIMVASTATINA VIR 10MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64273</td>
-<td class="cuerpo_tabla_coma">963777</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA VIR 20MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64273</td>
+<td>963777</td>
+<td>SIMVASTATINA VIR 20MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64274</td>
-<td class="cuerpo_tabla_coma">971051</td>
-<td class="cuerpo_tabla_izq">SIMVASTATINA VIR 40MG 28 COMP RECUBIERTOS EFG.</td>
+<td> </td>
+<td>64274</td>
+<td>971051</td>
+<td>SIMVASTATINA VIR 40MG 28 COMP RECUBIERTOS EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65086</td>
-<td class="cuerpo_tabla_coma">872325</td>
-<td class="cuerpo_tabla_izq">SIMVASTUR 10MG 28 COMP RECUB.</td>
+<td> </td>
+<td>65086</td>
+<td>872325</td>
+<td>SIMVASTUR 10MG 28 COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65088</td>
-<td class="cuerpo_tabla_coma">872424</td>
-<td class="cuerpo_tabla_izq">SIMVASTUR 20MG 28 COMP RECUB.</td>
+<td> </td>
+<td>65088</td>
+<td>872424</td>
+<td>SIMVASTUR 20MG 28 COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65087</td>
-<td class="cuerpo_tabla_coma">872416</td>
-<td class="cuerpo_tabla_izq">SIMVASTUR 40MG 28 COMP RECUB.</td>
+<td> </td>
+<td>65087</td>
+<td>872416</td>
+<td>SIMVASTUR 40MG 28 COMP RECUB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58757</td>
-<td class="cuerpo_tabla_coma">821314</td>
-<td class="cuerpo_tabla_izq">TAUCOR 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>58757</td>
+<td>821314</td>
+<td>TAUCOR 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">995902</td>
-<td class="cuerpo_tabla_izq">TAUCOR 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>995902</td>
+<td>TAUCOR 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60835</td>
-<td class="cuerpo_tabla_coma">683540</td>
-<td class="cuerpo_tabla_izq">TAUCOR 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>60835</td>
+<td>683540</td>
+<td>TAUCOR 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">821330</td>
-<td class="cuerpo_tabla_izq">TAUCOR 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>821330</td>
+<td>TAUCOR 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64297</td>
-<td class="cuerpo_tabla_coma">982827</td>
-<td class="cuerpo_tabla_izq">TEYLOR 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64297</td>
+<td>982827</td>
+<td>TEYLOR 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64298</td>
-<td class="cuerpo_tabla_coma">982835</td>
-<td class="cuerpo_tabla_izq">TEYLOR 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64298</td>
+<td>982835</td>
+<td>TEYLOR 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64299</td>
-<td class="cuerpo_tabla_coma">988600</td>
-<td class="cuerpo_tabla_izq">TEYLOR 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64299</td>
+<td>988600</td>
+<td>TEYLOR 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62883</td>
-<td class="cuerpo_tabla_coma">850602</td>
-<td class="cuerpo_tabla_izq">VADITON 20 20MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>62883</td>
+<td>850602</td>
+<td>VADITON 20 20MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62884</td>
-<td class="cuerpo_tabla_coma">850610</td>
-<td class="cuerpo_tabla_izq">VADITON 40 40MG 28 CÁPSULAS.</td>
+<td> </td>
+<td>62884</td>
+<td>850610</td>
+<td>VADITON 40 40MG 28 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64782</td>
-<td class="cuerpo_tabla_coma">745539</td>
-<td class="cuerpo_tabla_izq">VADITON PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
+<td> </td>
+<td>64782</td>
+<td>745539</td>
+<td>VADITON PROLIB 80MG 28 COMPRIMIDOS LIBERAC PROLONG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61654</td>
-<td class="cuerpo_tabla_coma">669077</td>
-<td class="cuerpo_tabla_izq">ZARATOR 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61654</td>
+<td>669077</td>
+<td>ZARATOR 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61654</td>
-<td class="cuerpo_tabla_coma">715334</td>
-<td class="cuerpo_tabla_izq">ZARATOR 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61654</td>
+<td>715334</td>
+<td>ZARATOR 10 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61655</td>
-<td class="cuerpo_tabla_coma">669069</td>
-<td class="cuerpo_tabla_izq">ZARATOR 20 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>61655</td>
+<td>669069</td>
+<td>ZARATOR 20 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61656</td>
-<td class="cuerpo_tabla_coma">669051</td>
-<td class="cuerpo_tabla_izq">ZARATOR 40 40MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>61656</td>
+<td>669051</td>
+<td>ZARATOR 40 40MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64529</td>
-<td class="cuerpo_tabla_coma">742098</td>
-<td class="cuerpo_tabla_izq">ZARATOR 80 80MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>64529</td>
+<td>742098</td>
+<td>ZARATOR 80 80MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58845</td>
-<td class="cuerpo_tabla_coma">997171</td>
-<td class="cuerpo_tabla_izq">ZOCOR 10MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>58845</td>
+<td>997171</td>
+<td>ZOCOR 10MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58846</td>
-<td class="cuerpo_tabla_coma">997189</td>
-<td class="cuerpo_tabla_izq">ZOCOR 20MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>58846</td>
+<td>997189</td>
+<td>ZOCOR 20MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61497</td>
-<td class="cuerpo_tabla_coma">672253</td>
-<td class="cuerpo_tabla_izq">ZOCOR FORTE 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61497</td>
+<td>672253</td>
+<td>ZOCOR FORTE 40MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D05AA</td>
-<td class="cuerpo_tabla_izq" colspan="3">ALQUITRANES.</td>
+<td>D05AA</td>
+<td colspan="3">ALQUITRANES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">53936</td>
-<td class="cuerpo_tabla_coma">811992</td>
-<td class="cuerpo_tabla_izq">PSORIASDIN 3.9% 100G GEL.</td>
+<td> </td>
+<td>53936</td>
+<td>811992</td>
+<td>PSORIASDIN 3.9% 100G GEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">24820</td>
-<td class="cuerpo_tabla_coma">954842</td>
-<td class="cuerpo_tabla_izq">QUINORTAR 60G CREMA.</td>
+<td> </td>
+<td>24820</td>
+<td>954842</td>
+<td>QUINORTAR 60G CREMA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D05AC</td>
-<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DEL ANTRACENO.</td>
+<td>D05AC</td>
+<td colspan="3">DERIVADOS DEL ANTRACENO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59001</td>
-<td class="cuerpo_tabla_coma">738294</td>
-<td class="cuerpo_tabla_izq">ANTHRANOL 0.4% 50G POMADA.</td>
+<td> </td>
+<td>59001</td>
+<td>738294</td>
+<td>ANTHRANOL 0.4% 50G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58998</td>
-<td class="cuerpo_tabla_coma">737817</td>
-<td class="cuerpo_tabla_izq">ANTHRANOL 2% 50G POMADA.</td>
+<td> </td>
+<td>58998</td>
+<td>737817</td>
+<td>ANTHRANOL 2% 50G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61998</td>
-<td class="cuerpo_tabla_coma">661702</td>
-<td class="cuerpo_tabla_izq">MICANOL 1% 50G CREMA.</td>
+<td> </td>
+<td>61998</td>
+<td>661702</td>
+<td>MICANOL 1% 50G CREMA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61999</td>
-<td class="cuerpo_tabla_coma">661694</td>
-<td class="cuerpo_tabla_izq">MICANOL 3% 50G CREMA.</td>
+<td> </td>
+<td>61999</td>
+<td>661694</td>
+<td>MICANOL 3% 50G CREMA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58889</td>
-<td class="cuerpo_tabla_coma">997866</td>
-<td class="cuerpo_tabla_izq">PSORANTRAL 0.1 % 50G POMADA.</td>
+<td> </td>
+<td>58889</td>
+<td>997866</td>
+<td>PSORANTRAL 0.1 % 50G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D05BA</td>
-<td class="cuerpo_tabla_izq" colspan="3">PSORALENOS PARA USO SISTÉMICO.</td>
+<td>D05BA</td>
+<td colspan="3">PSORALENOS PARA USO SISTÉMICO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">29008</td>
-<td class="cuerpo_tabla_coma">680090</td>
-<td class="cuerpo_tabla_izq">OXSORALEN 10MG 25 CÁPSULAS.</td>
+<td> </td>
+<td>29008</td>
+<td>680090</td>
+<td>OXSORALEN 10MG 25 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">49161</td>
-<td class="cuerpo_tabla_coma">796706</td>
-<td class="cuerpo_tabla_izq">NOVO MELADININA 5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>49161</td>
+<td>796706</td>
+<td>NOVO MELADININA 5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D05AX</td>
-<td class="cuerpo_tabla_izq" colspan="3">OTROS ANTIPSORIÁSICOS PARA USO TÓPICO.</td>
+<td>D05AX</td>
+<td colspan="3">OTROS ANTIPSORIÁSICOS PARA USO TÓPICO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62312</td>
-<td class="cuerpo_tabla_coma">706655</td>
-<td class="cuerpo_tabla_izq">BONALFA 0.0004% POMADA 30 G.</td>
+<td> </td>
+<td>62312</td>
+<td>706655</td>
+<td>BONALFA 0.0004% POMADA 30 G.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">706903</td>
-<td class="cuerpo_tabla_izq">BONALFA 0.0004% POMADA 50 G.</td>
+<td> </td>
+<td> </td>
+<td>706903</td>
+<td>BONALFA 0.0004% POMADA 50 G.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64543</td>
-<td class="cuerpo_tabla_coma">748970</td>
-<td class="cuerpo_tabla_izq">DAIVOBET 60G POMADA.</td>
+<td> </td>
+<td>64543</td>
+<td>748970</td>
+<td>DAIVOBET 60G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60944</td>
-<td class="cuerpo_tabla_coma">738260</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0,005% 100G CREMA.</td>
+<td> </td>
+<td>60944</td>
+<td>738260</td>
+<td>DAIVONEX 0,005% 100G CREMA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59770</td>
-<td class="cuerpo_tabla_coma">677518</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0,005% 100G POMADA.</td>
+<td> </td>
+<td>59770</td>
+<td>677518</td>
+<td>DAIVONEX 0,005% 100G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">738682</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0,005% 100G POMADA.</td>
+<td> </td>
+<td> </td>
+<td>738682</td>
+<td>DAIVONEX 0,005% 100G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60944</td>
-<td class="cuerpo_tabla_coma">681742</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 100G CREMA.</td>
+<td> </td>
+<td>60944</td>
+<td>681742</td>
+<td>DAIVONEX 0.005% 100G CREMA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59770</td>
-<td class="cuerpo_tabla_coma">806240</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 100G POMADA.</td>
+<td> </td>
+<td>59770</td>
+<td>806240</td>
+<td>DAIVONEX 0.005% 100G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60944</td>
-<td class="cuerpo_tabla_coma">681759</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 30G CREMA.</td>
+<td> </td>
+<td>60944</td>
+<td>681759</td>
+<td>DAIVONEX 0.005% 30G CREMA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">59770</td>
-<td class="cuerpo_tabla_coma">677500</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 30G POMADA.</td>
+<td> </td>
+<td>59770</td>
+<td>677500</td>
+<td>DAIVONEX 0.005% 30G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">806232</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% 30G POMADA.</td>
+<td> </td>
+<td> </td>
+<td>806232</td>
+<td>DAIVONEX 0.005% 30G POMADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61208</td>
-<td class="cuerpo_tabla_coma">677450</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% LOCIÓN 30 ML.</td>
+<td> </td>
+<td>61208</td>
+<td>677450</td>
+<td>DAIVONEX 0.005% LOCIÓN 30 ML.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">677443</td>
-<td class="cuerpo_tabla_izq">DAIVONEX 0.005% LOCIÓN 60 ML.</td>
+<td> </td>
+<td> </td>
+<td>677443</td>
+<td>DAIVONEX 0.005% LOCIÓN 60 ML.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61862</td>
-<td class="cuerpo_tabla_coma">664243</td>
-<td class="cuerpo_tabla_izq">ZORAC 0,05% 15G GEL.</td>
+<td> </td>
+<td>61862</td>
+<td>664243</td>
+<td>ZORAC 0,05% 15G GEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">664235</td>
-<td class="cuerpo_tabla_izq">ZORAC 0,05% 60G GEL.</td>
+<td> </td>
+<td> </td>
+<td>664235</td>
+<td>ZORAC 0,05% 60G GEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61861</td>
-<td class="cuerpo_tabla_coma">664268</td>
-<td class="cuerpo_tabla_izq">ZORAC 0,1% 15G GEL.</td>
+<td> </td>
+<td>61861</td>
+<td>664268</td>
+<td>ZORAC 0,1% 15G GEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">664250</td>
-<td class="cuerpo_tabla_izq">ZORAC 0,1% 60G GEL.</td>
+<td> </td>
+<td> </td>
+<td>664250</td>
+<td>ZORAC 0,1% 60G GEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D058A</td>
-<td class="cuerpo_tabla_izq" colspan="3">PSORALENOS PARA USO SISTÉMICO.</td>
+<td>D058A</td>
+<td colspan="3">PSORALENOS PARA USO SISTÉMICO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">49161</td>
-<td class="cuerpo_tabla_coma">796706</td>
-<td class="cuerpo_tabla_izq">NOVO MELADININA 5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>49161</td>
+<td>796706</td>
+<td>NOVO MELADININA 5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D0588</td>
-<td class="cuerpo_tabla_izq" colspan="3">RETINOIDES PARA EL TRATAMIENTO DE LA PSORIASIS.</td>
+<td>D0588</td>
+<td colspan="3">RETINOIDES PARA EL TRATAMIENTO DE LA PSORIASIS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60303</td>
-<td class="cuerpo_tabla_coma">692616</td>
-<td class="cuerpo_tabla_izq">NEOTIGASON 10MG 30 CÁPSULAS.</td>
+<td> </td>
+<td>60303</td>
+<td>692616</td>
+<td>NEOTIGASON 10MG 30 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60302</td>
-<td class="cuerpo_tabla_coma">692624</td>
-<td class="cuerpo_tabla_izq">NEOTIGASON 25MG 30 CÁPSULAS.</td>
+<td> </td>
+<td>60302</td>
+<td>692624</td>
+<td>NEOTIGASON 25MG 30 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D058X</td>
-<td class="cuerpo_tabla_izq" colspan="3">OTROS ANTIPSORIÁSICOS PARA USO SISTÉMICO.</td>
+<td>D058X</td>
+<td colspan="3">OTROS ANTIPSORIÁSICOS PARA USO SISTÉMICO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">54809</td>
-<td class="cuerpo_tabla_coma">936229</td>
-<td class="cuerpo_tabla_izq">ARMAYA 40MG 30 CÁPSULAS.</td>
+<td> </td>
+<td>54809</td>
+<td>936229</td>
+<td>ARMAYA 40MG 30 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">55756</td>
-<td class="cuerpo_tabla_coma">952192</td>
-<td class="cuerpo_tabla_izq">ARMAYA FUERTE 120MG 24 CÁPSULAS.</td>
+<td> </td>
+<td>55756</td>
+<td>952192</td>
+<td>ARMAYA FUERTE 120MG 24 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">724351</td>
-<td class="cuerpo_tabla_izq">ARMAYA FUERTE 120MG 96 CÁPSULAS.</td>
+<td> </td>
+<td> </td>
+<td>724351</td>
+<td>ARMAYA FUERTE 120MG 96 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">55757</td>
-<td class="cuerpo_tabla_coma">952200</td>
-<td class="cuerpo_tabla_izq">DIFUR 120MG 24 CÁPSULAS.</td>
+<td> </td>
+<td>55757</td>
+<td>952200</td>
+<td>DIFUR 120MG 24 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">762328</td>
-<td class="cuerpo_tabla_izq">DIFUR 120MG 96 CÁPSULAS.</td>
+<td> </td>
+<td> </td>
+<td>762328</td>
+<td>DIFUR 120MG 96 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">55958</td>
-<td class="cuerpo_tabla_coma">955344</td>
-<td class="cuerpo_tabla_izq">REGENDER 120MG 24 CÁPSULAS.</td>
+<td> </td>
+<td>55958</td>
+<td>955344</td>
+<td>REGENDER 120MG 24 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">724229</td>
-<td class="cuerpo_tabla_izq">REGENDER 120MG 96 CÁPSULAS.</td>
+<td> </td>
+<td> </td>
+<td>724229</td>
+<td>REGENDER 120MG 96 CÁPSULAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G03DC</td>
-<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DEL ESTRENO.</td>
+<td>G03DC</td>
+<td colspan="3">DERIVADOS DEL ESTRENO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60100</td>
-<td class="cuerpo_tabla_coma">696294</td>
-<td class="cuerpo_tabla_izq">BOLTIN 2.5MG 28 COMPRIMIDOS.</td>
+<td> </td>
+<td>60100</td>
+<td>696294</td>
+<td>BOLTIN 2.5MG 28 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N02AB</td>
-<td class="cuerpo_tabla_izq" colspan="3">DERIVADOS DE LA FENILPIPERIDINA.</td>
+<td>N02AB</td>
+<td colspan="3">DERIVADOS DE LA FENILPIPERIDINA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64056</td>
-<td class="cuerpo_tabla_coma">915371</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,2 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td>64056</td>
+<td>915371</td>
+<td>ACTIQ 0,2 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">711754</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,2 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td> </td>
+<td>711754</td>
+<td>ACTIQ 0,2 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64057</td>
-<td class="cuerpo_tabla_coma">900837</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,4 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td>64057</td>
+<td>900837</td>
+<td>ACTIQ 0,4 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">711374</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,4 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td> </td>
+<td>711374</td>
+<td>ACTIQ 0,4 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64058</td>
-<td class="cuerpo_tabla_coma">935411</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,6 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td>64058</td>
+<td>935411</td>
+<td>ACTIQ 0,6 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">711630</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,6 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td> </td>
+<td>711630</td>
+<td>ACTIQ 0,6 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64059</td>
-<td class="cuerpo_tabla_coma">935437</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,8 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td>64059</td>
+<td>935437</td>
+<td>ACTIQ 0,8 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">711531</td>
-<td class="cuerpo_tabla_izq">ACTIQ 0,8 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td> </td>
+<td>711531</td>
+<td>ACTIQ 0,8 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64060</td>
-<td class="cuerpo_tabla_coma">912485</td>
-<td class="cuerpo_tabla_izq">ACTIQ 1,2 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td>64060</td>
+<td>912485</td>
+<td>ACTIQ 1,2 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">711408</td>
-<td class="cuerpo_tabla_izq">ACTIQ 1,2 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td> </td>
+<td>711408</td>
+<td>ACTIQ 1,2 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">64061</td>
-<td class="cuerpo_tabla_coma">904359</td>
-<td class="cuerpo_tabla_izq">ACTIQ 1,6 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td>64061</td>
+<td>904359</td>
+<td>ACTIQ 1,6 MG 3 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">711721</td>
-<td class="cuerpo_tabla_izq">ACTIQ 1,6 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
+<td> </td>
+<td> </td>
+<td>711721</td>
+<td>ACTIQ 1,6 MG 15 COMPRIMIDOS CON APLICAD BUCOFARING.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61961</td>
-<td class="cuerpo_tabla_coma">662577</td>
-<td class="cuerpo_tabla_izq">DUROGESIC 100 10MG/PARCHE 5 PARCHES TRANSD.</td>
+<td> </td>
+<td>61961</td>
+<td>662577</td>
+<td>DUROGESIC 100 10MG/PARCHE 5 PARCHES TRANSD.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61959</td>
-<td class="cuerpo_tabla_coma">662593</td>
-<td class="cuerpo_tabla_izq">DUROGESIC 25 2,5MG/PARCHE 5 PARCHES TRANSD.</td>
+<td> </td>
+<td>61959</td>
+<td>662593</td>
+<td>DUROGESIC 25 2,5MG/PARCHE 5 PARCHES TRANSD.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61960</td>
-<td class="cuerpo_tabla_coma">662585</td>
-<td class="cuerpo_tabla_izq">DUROGESIC 50 5MG/PARCHE 5 PARCHES TRANSD.</td>
+<td> </td>
+<td>61960</td>
+<td>662585</td>
+<td>DUROGESIC 50 5MG/PARCHE 5 PARCHES TRANSD.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65032</td>
-<td class="cuerpo_tabla_coma">848119</td>
-<td class="cuerpo_tabla_izq">DUROGESIC 75 7.5MG/PARCHE 5 PARCHES TRANSD.</td>
+<td> </td>
+<td>65032</td>
+<td>848119</td>
+<td>DUROGESIC 75 7.5MG/PARCHE 5 PARCHES TRANSD.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N07BB</td>
-<td class="cuerpo_tabla_izq" colspan="3">FÁRMACOS CONTRA LA DEPENDENCIA DEL ALCOHOL.</td>
+<td>N07BB</td>
+<td colspan="3">FÁRMACOS CONTRA LA DEPENDENCIA DEL ALCOHOL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">912723</td>
-<td class="cuerpo_tabla_coma">651273</td>
-<td class="cuerpo_tabla_izq">ANTABUS 250MG 40 COMPRIMIDOS.</td>
+<td> </td>
+<td>912723</td>
+<td>651273</td>
+<td>ANTABUS 250MG 40 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">912723</td>
-<td class="cuerpo_tabla_coma">886176</td>
-<td class="cuerpo_tabla_izq">ANTABUS 250 MG 40 COMPRIMIDOS.</td>
+<td> </td>
+<td>912723</td>
+<td>886176</td>
+<td>ANTABUS 250 MG 40 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61201</td>
-<td class="cuerpo_tabla_coma">677732</td>
-<td class="cuerpo_tabla_izq">CAMPRAL 333MG 84 COMPRIMIDOS.</td>
+<td> </td>
+<td>61201</td>
+<td>677732</td>
+<td>CAMPRAL 333MG 84 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">49473</td>
-<td class="cuerpo_tabla_coma">735688</td>
-<td class="cuerpo_tabla_izq">COLME 6% 15ML SOLUCIÓN GOTAS.</td>
+<td> </td>
+<td>49473</td>
+<td>735688</td>
+<td>COLME 6% 15ML SOLUCIÓN GOTAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">735696</td>
-<td class="cuerpo_tabla_izq">COLME 6% 60ML SOLUCIÓN GOTAS.</td>
+<td> </td>
+<td> </td>
+<td>735696</td>
+<td>COLME 6% 60ML SOLUCIÓN GOTAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61694</td>
-<td class="cuerpo_tabla_coma">668368</td>
-<td class="cuerpo_tabla_izq">ZULEX 333MG 84 COMPRIMIDOS LAQUEADOS.</td>
+<td> </td>
+<td>61694</td>
+<td>668368</td>
+<td>ZULEX 333MG 84 COMPRIMIDOS LAQUEADOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R03DC</td>
-<td class="cuerpo_tabla_izq" colspan="3">ANTAGONISTAS DEL RECEPTOR DE LEUCOTRIENOS.</td>
+<td>R03DC</td>
+<td colspan="3">ANTAGONISTAS DEL RECEPTOR DE LEUCOTRIENOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62443</td>
-<td class="cuerpo_tabla_coma">749416</td>
-<td class="cuerpo_tabla_izq">ACCOLATE 20 20MG 60 COMPRIMIDOS RECUBIERT.</td>
+<td> </td>
+<td>62443</td>
+<td>749416</td>
+<td>ACCOLATE 20 20MG 60 COMPRIMIDOS RECUBIERT.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62704</td>
-<td class="cuerpo_tabla_coma">809590</td>
-<td class="cuerpo_tabla_izq">AERONIX 20MG 60 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>62704</td>
+<td>809590</td>
+<td>AERONIX 20MG 60 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">62705</td>
-<td class="cuerpo_tabla_coma">809715</td>
-<td class="cuerpo_tabla_izq">OLMORAN 20MG 60 COMPRIMIDOS.</td>
+<td> </td>
+<td>62705</td>
+<td>809715</td>
+<td>OLMORAN 20MG 60 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63673</td>
-<td class="cuerpo_tabla_coma">709394</td>
-<td class="cuerpo_tabla_izq">SINGULAIR 4MG 28 COMPRIMIDOS MASTICAB.</td>
+<td> </td>
+<td>63673</td>
+<td>709394</td>
+<td>SINGULAIR 4MG 28 COMPRIMIDOS MASTICAB.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">65429</td>
-<td class="cuerpo_tabla_coma">840645</td>
-<td class="cuerpo_tabla_izq">SINGULAIR 4MG GRANULADO 28 SOBRES.</td>
+<td> </td>
+<td>65429</td>
+<td>840645</td>
+<td>SINGULAIR 4MG GRANULADO 28 SOBRES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61980</td>
-<td class="cuerpo_tabla_coma">662056</td>
-<td class="cuerpo_tabla_izq">SINGULAIR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
+<td> </td>
+<td>61980</td>
+<td>662056</td>
+<td>SINGULAIR 10MG 28 COMPRIMIDOS RECUBIERTOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61979</td>
-<td class="cuerpo_tabla_coma">662064</td>
-<td class="cuerpo_tabla_izq">SINGULAIR 5MG PEDIATRIA 28 COMPRIMIDOS MASTICABLES.</td>
+<td> </td>
+<td>61979</td>
+<td>662064</td>
+<td>SINGULAIR 5MG PEDIATRIA 28 COMPRIMIDOS MASTICABLES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V03AF</td>
-<td class="cuerpo_tabla_izq" colspan="3">AGENTES DETOXIFICANTES PARA TRATAMIENTOS ANTINEOPLÁSICOS.</td>
+<td>V03AF</td>
+<td colspan="3">AGENTES DETOXIFICANTES PARA TRATAMIENTOS ANTINEOPLÁSICOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">42563</td>
-<td class="cuerpo_tabla_coma">699405</td>
-<td class="cuerpo_tabla_izq">CROMATONBIC FOLINICO 30 VIAL BEB 12ML+TAP.</td>
+<td> </td>
+<td>42563</td>
+<td>699405</td>
+<td>CROMATONBIC FOLINICO 30 VIAL BEB 12ML+TAP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60861</td>
-<td class="cuerpo_tabla_coma">683110</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 1.5MG 6 AMPOLLAS 1 ML.</td>
+<td> </td>
+<td>60861</td>
+<td>683110</td>
+<td>FOLAXIN 1.5MG 6 AMPOLLAS 1 ML.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63807</td>
-<td class="cuerpo_tabla_coma">879957</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 2,5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>63807</td>
+<td>879957</td>
+<td>FOLAXIN 2,5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63809</td>
-<td class="cuerpo_tabla_coma">880005</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 12, 5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>63809</td>
+<td>880005</td>
+<td>FOLAXIN 12, 5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60860</td>
-<td class="cuerpo_tabla_coma">683128</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 25MG 1 VIAL LIOFILIZADO.</td>
+<td> </td>
+<td>60860</td>
+<td>683128</td>
+<td>FOLAXIN 25MG 1 VIAL LIOFILIZADO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60862</td>
-<td class="cuerpo_tabla_coma">654996</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 7,5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>60862</td>
+<td>654996</td>
+<td>FOLAXIN 7,5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">683102</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 7.5MG 10 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>683102</td>
+<td>FOLAXIN 7.5MG 10 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">651745</td>
-<td class="cuerpo_tabla_izq">FOLAXIN 7.5MG 20 COMPRIMIDOS.</td>
+<td> </td>
+<td> </td>
+<td>651745</td>
+<td>FOLAXIN 7.5MG 20 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">57853</td>
-<td class="cuerpo_tabla_coma">980813</td>
-<td class="cuerpo_tabla_izq">FOLIDAN 50 50MG/VIAL 1 INYECTABLE.</td>
+<td> </td>
+<td>57853</td>
+<td>980813</td>
+<td>FOLIDAN 50 50MG/VIAL 1 INYECTABLE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">57882</td>
-<td class="cuerpo_tabla_coma">981183</td>
-<td class="cuerpo_tabla_izq">FOLIDAN 6MG 6 AMPOLLAS INYECTABLES.</td>
+<td> </td>
+<td>57882</td>
+<td>981183</td>
+<td>FOLIDAN 6MG 6 AMPOLLAS INYECTABLES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">63900</td>
-<td class="cuerpo_tabla_coma">753467</td>
-<td class="cuerpo_tabla_izq">FOLINATO CALCICO FERRER FARMA 10MG/ML 5AMP 5ML EFG.</td>
+<td> </td>
+<td>63900</td>
+<td>753467</td>
+<td>FOLINATO CALCICO FERRER FARMA 10MG/ML 5AMP 5ML EFG.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58995</td>
-<td class="cuerpo_tabla_coma">999573</td>
-<td class="cuerpo_tabla_izq">FOLINATO CALCICO WASSERMAN 3MG/AM 6 AM 1 ML.</td>
+<td> </td>
+<td>58995</td>
+<td>999573</td>
+<td>FOLINATO CALCICO WASSERMAN 3MG/AM 6 AM 1 ML.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61293</td>
-<td class="cuerpo_tabla_coma">676197</td>
-<td class="cuerpo_tabla_izq">ISOVORIN 12.5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>61293</td>
+<td>676197</td>
+<td>ISOVORIN 12.5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61290</td>
-<td class="cuerpo_tabla_coma">676221</td>
-<td class="cuerpo_tabla_izq">ISOVORIN 2,5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>61290</td>
+<td>676221</td>
+<td>ISOVORIN 2,5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60864</td>
-<td class="cuerpo_tabla_coma">683086</td>
-<td class="cuerpo_tabla_izq">ISOVORIN 25 MG 1 VIAL LIOF.</td>
+<td> </td>
+<td>60864</td>
+<td>683086</td>
+<td>ISOVORIN 25 MG 1 VIAL LIOF.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">60865</td>
-<td class="cuerpo_tabla_coma">683078</td>
-<td class="cuerpo_tabla_izq">ISOVORIN 50 MG 1 VIAL LIOF.</td>
+<td> </td>
+<td>60865</td>
+<td>683078</td>
+<td>ISOVORIN 50 MG 1 VIAL LIOF.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61291</td>
-<td class="cuerpo_tabla_coma">676213</td>
-<td class="cuerpo_tabla_izq">ISOVORIN 5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>61291</td>
+<td>676213</td>
+<td>ISOVORIN 5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">61292</td>
-<td class="cuerpo_tabla_coma">676205</td>
-<td class="cuerpo_tabla_izq">ISOVORIN 7.5MG 30 COMPRIMIDOS.</td>
+<td> </td>
+<td>61292</td>
+<td>676205</td>
+<td>ISOVORIN 7.5MG 30 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">56543</td>
-<td class="cuerpo_tabla_coma">963470</td>
-<td class="cuerpo_tabla_izq">LEDERFOLIN 15MG 10 COMPRIMIDOS.</td>
+<td> </td>
+<td>56543</td>
+<td>963470</td>
+<td>LEDERFOLIN 15MG 10 COMPRIMIDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">58778</td>
-<td class="cuerpo_tabla_coma">996165</td>
-<td class="cuerpo_tabla_izq">LEDERFOLIN 50MG 1 INYECTABLE 5ML.</td>
+<td> </td>
+<td>58778</td>
+<td>996165</td>
+<td>LEDERFOLIN 50MG 1 INYECTABLE 5ML.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">406978</td>
-<td class="cuerpo_tabla_coma">779355</td>
-<td class="cuerpo_tabla_izq">LEDERFOLIN 3MG 6 AMPOLLAS 1ML.</td>
+<td> </td>
+<td>406978</td>
+<td>779355</td>
+<td>LEDERFOLIN 3MG 6 AMPOLLAS 1ML.</td>
 </tr>
 </tbody>
 </table>
@@ -5750,37 +5744,31 @@ V20. Vendajes quirúrgicos.
 
 ## ANEXO IV.b — Especialidades farmacéuticas que cambian de aportación reducida a normal
 
-<table class="tabla">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="70%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">ATC</th>
-<th class="cabeza_tabla">N.° Reg.</th>
-<th class="cabeza_tabla">Código</th>
-<th class="cabeza_tabla">Denominación</th>
+<th>ATC</th>
+<th>N.° Reg.</th>
+<th>Código</th>
+<th>Denominación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">C01EB</td>
-<td class="cuerpo_tabla_izq" colspan="3">OTROS PREPARADOS PARA EL CORAZÓN.</td>
+<td>C01EB</td>
+<td colspan="3">OTROS PREPARADOS PARA EL CORAZÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">920960</td>
-<td class="cuerpo_tabla_coma">737494</td>
-<td class="cuerpo_tabla_izq">CRATAEGUTT 20ML SOLUCIÓN GOTAS.</td>
+<td> </td>
+<td>920960</td>
+<td>737494</td>
+<td>CRATAEGUTT 20ML SOLUCIÓN GOTAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">737502</td>
-<td class="cuerpo_tabla_izq">CRATAEGUTT 50ML SOLUCIÓN GOTAS.</td>
+<td> </td>
+<td> </td>
+<td>737502</td>
+<td>CRATAEGUTT 50ML SOLUCIÓN GOTAS.</td>
 </tr>
 </tbody>
 </table>
@@ -5789,31 +5777,25 @@ V20. Vendajes quirúrgicos.
 
 ## ANEXO IV.c — Especialidades farmacéuticas que pasan de excluidas a incluidas en financiación
 
-<table class="tabla">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="70%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">ATC</th>
-<th class="cabeza_tabla">N.° Reg.</th>
-<th class="cabeza_tabla">Código</th>
-<th class="cabeza_tabla">Denominación</th>
+<th>ATC</th>
+<th>N.° Reg.</th>
+<th>Código</th>
+<th>Denominación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A03BA</td>
-<td class="cuerpo_tabla_izq" colspan="3">ALCALOIDES DE LA BELLADONA, AMINAS TERCIARIAS.</td>
+<td>A03BA</td>
+<td colspan="3">ALCALOIDES DE LA BELLADONA, AMINAS TERCIARIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_coma">48373</td>
-<td class="cuerpo_tabla_coma">848507</td>
-<td class="cuerpo_tabla_izq">VORIGENO 0.3MG 12 COMPRIMIDOS.</td>
+<td> </td>
+<td>48373</td>
+<td>848507</td>
+<td>VORIGENO 0.3MG 12 COMPRIMIDOS.</td>
 </tr>
 </tbody>
 </table>

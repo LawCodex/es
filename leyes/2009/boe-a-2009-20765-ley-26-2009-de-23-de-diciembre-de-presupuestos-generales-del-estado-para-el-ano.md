@@ -330,112 +330,112 @@ Agrupación por políticas del presupuesto de gastos
 
 Dos. En los estados de ingresos de los Entes a que se refiere el apartado anterior, se recogen las estimaciones de los derechos económicos que se prevé liquidar durante el ejercicio presupuestario. La distribución de su importe consolidado, expresado en miles de euros, se recoge a continuación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Entes</p>
+<p>Entes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Capítulos económicos</p>
+<p>Capítulos económicos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Capítulos I a VII</p>
-<p class="cabeza_tabla">Ingresos no</p>
-<p class="cabeza_tabla">financieros</p>
+<p>Capítulos I a VII</p>
+<p>Ingresos no</p>
+<p>financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Capítulo VIII</p>
-<p class="cabeza_tabla">Activos</p>
-<p class="cabeza_tabla">financieros</p>
+<p>Capítulo VIII</p>
+<p>Activos</p>
+<p>financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total ingresos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120.878.416,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.191.915,82</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">124.070.331,90</p>
+<p>Total ingresos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.404.138,74</p>
+<p>120.878.416,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.653.100,97</p>
+<p>3.191.915,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">37.057.239,71</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">111.151.190,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.094.592,04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">112.245.782,19</p>
+<p>124.070.331,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agencias estatales</p>
+<p>Organismos autónomos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">183.126,85</p>
+<p>35.404.138,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250.433,63</p>
+<p>1.653.100,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">433.560,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">127.952,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">68.778,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">196.730,38</p>
+<p>37.057.239,71</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">267.744.824,07</p>
+<p>111.151.190,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.258.820,59</p>
+<p>1.094.592,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">274.003.644,66</p>
+<p>112.245.782,19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agencias estatales</p>
+</td>
+<td>
+<p>183.126,85</p>
+</td>
+<td>
+<p>250.433,63</p>
+</td>
+<td>
+<p>433.560,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismos del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>127.952,25</p>
+</td>
+<td>
+<p>68.778,13</p>
+</td>
+<td>
+<p>196.730,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>267.744.824,07</p>
+</td>
+<td>
+<p>6.258.820,59</p>
+</td>
+<td>
+<p>274.003.644,66</p>
 </td>
 </tr>
 </table>
@@ -444,286 +444,286 @@ Tres. Para las transferencias internas entre los Entes a que se refiere el apart
 
 Miles de euros
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Transferencias según origen</p>
+<p>Transferencias según origen</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Transferencias según destino</p>
+<p>Transferencias según destino</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Estado</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cabeza_tabla">Organismos Autónomos</p>
+<p>Organismos Autónomos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Seguridad</p>
-<p class="cabeza_tabla">Social</p>
+<p>Seguridad</p>
+<p>Social</p>
 </td>
 <td>
-<p class="cabeza_tabla">Agencias</p>
-<p class="cabeza_tabla">Estatales</p>
+<p>Agencias</p>
+<p>Estatales</p>
 </td>
 <td>
-<p class="cabeza_tabla">Organismos del Articulo 1.e) de la presente Ley</p>
+<p>Organismos del Articulo 1.e) de la presente Ley</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20.113.777,30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.336.884,79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.460.440,09</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.624.835,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">31.535.937,61</p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132.276,38</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">155.307,37</p>
+<p>20.113.777,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.336.884,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.618,80</p>
+<p>1.460.440,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1.624.835,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">299.202,55</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Agencias estatales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30.366,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">32.366,00</p>
+<p>31.535.937,61</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
+<p>Organismos autónomos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164.876,02</p>
+<p>132.276,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>155.307,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.039.751,06</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>11.618,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4.204.627,08</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>299.202,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Agencias estatales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">327.518,40</p>
+<p>30.366,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.271.084,67</p>
+<p>2.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.376.635,85</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.472.058,89</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.624.835,43</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">36.072.133,24</p>
+<p>32.366,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Seguridad Social</p>
+</td>
+<td>
+<p>164.876,02</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.039.751,06</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.204.627,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismos del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>327.518,40</p>
+</td>
+<td>
+<p>20.271.084,67</p>
+</td>
+<td>
+<p>12.376.635,85</p>
+</td>
+<td>
+<p>1.472.058,89</p>
+</td>
+<td>
+<p>1.624.835,43</p>
+</td>
+<td>
+<p>36.072.133,24</p>
 </td>
 </tr>
 </table>
 
 Cuatro. Los créditos incluidos en los programas y transferencias entre subsectores de los estados de gastos aprobados en este artículo, se distribuyen orgánica y económicamente, expresados en miles de euros, según se indica a continuación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Entes</p>
+<p>Entes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Capítulos económicos</p>
+<p>Capítulos económicos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Capítulos I a VII</p>
-<p class="cabeza_tabla">Gastos no</p>
-<p class="cabeza_tabla">financieros</p>
+<p>Capítulos I a VII</p>
+<p>Gastos no</p>
+<p>financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Capítulo VIII</p>
-<p class="cabeza_tabla">Activos</p>
-<p class="cabeza_tabla">financieros</p>
+<p>Capítulo VIII</p>
+<p>Activos</p>
+<p>financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
-<p class="cabeza_tabla">Gastos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">185.035.637,45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15.998.191,70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">201.033.829,15</p>
+<p>Total</p>
+<p>Gastos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">56.921.695,01</p>
+<p>185.035.637,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">456.106,03</p>
+<p>15.998.191,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">57.377.801,04</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">120.647.931,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3.980.273,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">124.628.205,17</p>
+<p>201.033.829,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agencias estatales</p>
+<p>Organismos autónomos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.905.334,94</p>
+<p>56.921.695,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.262,91</p>
+<p>456.106,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.906.597,85</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.819.829,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.735,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.821.565,81</p>
+<p>57.377.801,04</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">366.330.429,00</p>
+<p>120.647.931,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20.437.570,02</p>
+<p>3.980.273,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">386.767.999,02</p>
+<p>124.628.205,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agencias estatales</p>
+</td>
+<td>
+<p>1.905.334,94</p>
+</td>
+<td>
+<p>1.262,91</p>
+</td>
+<td>
+<p>1.906.597,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismos del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>1.819.829,91</p>
+</td>
+<td>
+<p>1.735,90</p>
+</td>
+<td>
+<p>1.821.565,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>366.330.429,00</p>
+</td>
+<td>
+<p>20.437.570,02</p>
+</td>
+<td>
+<p>386.767.999,02</p>
 </td>
 </tr>
 </table>
@@ -1750,321 +1750,321 @@ Para los restantes puestos del Cuerpo de Secretarios Judiciales, las retribucion
 
 b) El complemento general de puesto para los puestos adscritos a los funcionarios de los Cuerpos al servicio de la Administración de Justicia, a que se refiere el apartado Tres. A) 1.b) de este mismo artículo, de conformidad con lo previsto en el Real Decreto 1033/2007, de 20 de julio, queda establecido con efectos de 1 de enero a 31 de mayo de 2010 en las cuantías siguientes, referidas a doce mensualidades:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Subtipo</p>
+<p>Subtipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Euros</p>
+<p>Euros</p>
 </th>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Gestión Procesal y Administrativa y Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>Gestión Procesal y Administrativa y Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.192,44</p>
+<p>4.192,44</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.008,08</p>
+<p>5.008,08</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.860,16</p>
+<p>3.860,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.675,80</p>
+<p>4.675,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.694,08</p>
+<p>3.694,08</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.509,72</p>
+<p>4.509,72</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.527,88</p>
+<p>3.527,88</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">D</p>
+<p>D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.694,44</p>
-</td>
-</tr>
-<tr>
-<td rowspan="7">
-<p class="cuerpo_tabla_izq">Tramitación Procesal y Administrativa y Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.638,88</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.454,64</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.306,72</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.122,36</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.140,52</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.956,16</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IV</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.974,56</p>
+<p>3.694,44</p>
 </td>
 </tr>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Auxilio judicial.</p>
+<p>Tramitación Procesal y Administrativa y Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.858,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.674,04</p>
+<p>3.638,88</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.526,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.341,76</p>
+<p>4.454,64</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.359,92</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.175,68</p>
+<p>3.306,72</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.193,84</p>
+<p>4.122,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>3.140,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.956,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>2.974,56</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7">
+<p>Auxilio judicial.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>2.858,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.674,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>2.526,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.341,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>2.359,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.175,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>2.193,84</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Médicos Forenses y Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>Médicos Forenses y Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.798,20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">19.542,72</p>
+<p>19.798,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.287,24</p>
+<p>19.542,72</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala a extinguir de Gestión Procesal y Administrativa, procedentes del Cuerpo Secretarios de Juzgados Municipios de más de 7.000 habitantes.</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>19.287,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala a extinguir de Gestión Procesal y Administrativa, procedentes del Cuerpo Secretarios de Juzgados Municipios de más de 7.000 habitantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.353,56</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5.353,56</p>
 </td>
 </tr>
 </tbody>
@@ -2170,301 +2170,301 @@ Para los restantes puestos del Cuerpo de Secretarios Judiciales, las retribucion
 
 b) El complemento general de puesto para los puestos adscritos a los funcionarios de los Cuerpos al servicio de la Administración de Justicia, a que se refiere el apartado tres.B).1.b) de este mismo artículo, de conformidad con lo previsto en el Real Decreto 1033/2007, de 20 de julio, queda establecido con efectos de 1 de junio de 2010 en las cuantías siguientes, referidas a doce mensualidades:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Subtipo</p>
+<p>Subtipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Euros</p>
+<p>Euros</p>
 </th>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Gestión Procesal y Administrativa y Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>Gestión Procesal y Administrativa y Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.982,92</p>
+<p>3.982,92</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.757,76</p>
+<p>4.757,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.667,20</p>
+<p>3.667,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.442,04</p>
+<p>4.442,04</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.509,40</p>
+<p>3.509,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.284,24</p>
+<p>4.284,24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.351,60</p>
+<p>3.351,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">D</p>
+<p>D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.509,76</p>
-</td>
-</tr>
-<tr>
-<td rowspan="7">
-<p class="cuerpo_tabla_izq">Tramitación Procesal y Administrativa y Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.456,96</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.231,92</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.141,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.916,32</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.983,56</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.758,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IV</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.825,88</p>
+<p>3.509,76</p>
 </td>
 </tr>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Auxilio judicial.</p>
+<p>Tramitación Procesal y Administrativa y Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.715,48</p>
+<p>3.456,96</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.490,44</p>
+<p>4.231,92</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.399,76</p>
+<p>3.141,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.174,72</p>
+<p>3.916,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.241,96</p>
+<p>2.983,56</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.016,92</p>
+<p>3.758,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.084,16</p>
+<p>2.825,88</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7">
+<p>Auxilio judicial.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td colspan="2">
+<p>A</p>
+</td>
+<td>
+<p>2.715,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td colspan="2">
+<p>B</p>
+</td>
+<td>
+<p>3.490,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td colspan="2">
+<p>A</p>
+</td>
+<td>
+<p>2.399,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td colspan="2">
+<p>B</p>
+</td>
+<td>
+<p>3.174,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td colspan="2">
+<p>A</p>
+</td>
+<td>
+<p>2.241,96</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td colspan="2">
+<p>B</p>
+</td>
+<td>
+<p>3.016,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td colspan="2">
+<p>C</p>
+</td>
+<td>
+<p>2.084,16</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Médicos Forenses y Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>Médicos Forenses y Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td colspan="2" rowspan="3">
-<p class="cuerpo_tabla_centro">I <br>II <br>III</p>
+<p>I <br>II <br>III</p>
 </td>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_der">18.808,32</p>
+<p>18.808,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">18.565,68</p>
+<p>18.565,68</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">18.322,92</p>
+<p>18.322,92</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Escala a extinguir de Gestión Procesal y Administrativa, procedentes del Cuerpo Secretarios de Juzgados Municipios de más de 7.000 habitantes.</p>
+<p>Escala a extinguir de Gestión Procesal y Administrativa, procedentes del Cuerpo Secretarios de Juzgados Municipios de más de 7.000 habitantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.085,96</p>
+<p>5.085,96</p>
 </td>
 </tr>
 </tbody>
@@ -3035,76 +3035,76 @@ Tres. Durante el 2010 las cuantías mínimas de las pensiones de Clases Pasivas 
 
 Complementos para mínimos
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Importe</p>
+<p>Importe</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
+<p>Con cónyuge a cargo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cónyuge:</p>
-<p class="cabeza_tabla">unidad económica unipersonal</p>
+<p>Sin cónyuge:</p>
+<p>unidad económica unipersonal</p>
 </td>
 <td>
-<p class="cabeza_tabla">Con cónyuge no a cargo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Pensión de jubilación o retiro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">725,20 euros/mes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">587,80 euros/mes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">557,50 euros/mes.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.152,80 euros/año.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">8.229,20 euros/año.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7.805,00 euros/año.</p>
+<p>Con cónyuge no a cargo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Pensión de viudedad.</p>
+<p>Pensión de jubilación o retiro.</p>
 </td>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">587,80 euros/mes.</p>
+<td>
+<p>725,20 euros/mes.</p>
+</td>
+<td>
+<p>587,80 euros/mes.</p>
+</td>
+<td>
+<p>557,50 euros/mes.</p>
 </td>
 </tr>
 <tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">8.229,20 euros/año.</p>
+<td>
+<p>10.152,80 euros/año.</p>
+</td>
+<td>
+<p>8.229,20 euros/año.</p>
+</td>
+<td>
+<p>7.805,00 euros/año.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</p>
+<p>Pensión de viudedad.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">(572,8 euros/mes) / N</p>
+<p>587,80 euros/mes.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">(8.019,2 euros/año) / N</p>
+<p>8.229,20 euros/año.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</p>
+</td>
+<td colspan="3">
+<p>(572,8 euros/mes) / N</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>(8.019,2 euros/año) / N</p>
 </td>
 </tr>
 </table>
@@ -3139,242 +3139,242 @@ Cuatro. A los efectos previstos en el apartado Uno de este artículo, los pensio
 
 Cinco. Durante el año 2010, las cuantías mínimas de las pensiones del sistema de la Seguridad Social, en su modalidad contributiva, quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en las cuantías siguientes:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<p>Con cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cónyuge: Unidad económica unipersonal</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<p>Sin cónyuge: Unidad económica unipersonal</p>
+<p>–</p>
+<p>Euros/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">no a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Jubilación:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Con cónyuge</p>
+<p>no a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Jubilación:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.152,80</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.229,20</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.805,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.515,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7.697,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7.273,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Incapacidad Permanente:</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>10.152,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.229,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Gran invalidez</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.229,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12.343,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11.708,20</p>
+<p>7.805,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Absoluta</p>
+<p>Titular menor de sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.152,80</p>
+<p>9.515,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.229,20</p>
+<p>7.697,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.805,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10.152,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.229,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7.805,00</p>
+<p>7.273,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total: Titular con edad entre sesenta y sesenta y cuatro años</p>
+<p>Incapacidad Permanente:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.515,80</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.697,20</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.273,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total: Derivada de enfermedad común menor de sesenta años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.115,60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.115,60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">55 % base mínima cotización Régimen General.</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</p>
+<p>Gran invalidez</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.152,80</p>
+<p>15.229,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.229,20</p>
+<p>12.343,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.805,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Viudedad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>11.708,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con cargas familiares</p>
+<p>Absoluta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>10.152,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.515,80</p>
+<p>8.229,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65%.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.229,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7.805,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años</p>
+<p>Total: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>10.152,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.697,20</p>
+<p>8.229,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7.805,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con menos de sesenta años</p>
+<p>Total: Titular con edad entre sesenta y sesenta y cuatro años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>9.515,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.228,60</p>
+<p>7.697,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7.273,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total: Derivada de enfermedad común menor de sesenta años</p>
+</td>
+<td>
+<p>5.115,60</p>
+</td>
+<td>
+<p>5.115,60</p>
+</td>
+<td>
+<p>55 % base mínima cotización Régimen General.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</p>
+</td>
+<td>
+<p>10.152,80</p>
+</td>
+<td>
+<p>8.229,20</p>
+</td>
+<td>
+<p>7.805,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Viudedad:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con cargas familiares</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>9.515,80</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65%.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>8.229,20</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con edad entre sesenta y sesenta y cuatro años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>7.697,20</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con menos de sesenta años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6.228,60</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -4333,65 +4333,65 @@ A continuación se indican cuáles son los factores de ponderación de los disti
 
 Coeficiente C<sub>1</sub>: Mediante este parámetro se tiene en cuenta el grado de ocupación de las distintas bandas de frecuencia para un determinado servicio. A estos efectos se ha hecho una tabulación en márgenes de frecuencia cuyos extremos inferior y superior comprenden las bandas típicamente utilizadas en los respectivos servicios. También contempla este parámetro la zona geográfica de utilización, distinguiendo generalmente entre zonas de elevado interés y alta utilización, las cuales se asimilan a las grandes concentraciones urbanas, y zonas de bajo interés y escasa utilización como puedan ser los entornos rurales. Se parte de un valor unitario o de referencia para las bandas menos congestionadas y en las zonas geográficas de escasa utilización, subiendo el coste relativo hasta un máximo de dos por estos conceptos para las bandas de frecuencia más demandadas y en zonas de alto interés o utilización.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Concepto</p>
+<p>Concepto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Escala de valores</p>
+<p>Escala de valores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor de referencia</p>
+<p>Valor de referencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De aplicación en una o varias modalidades en cada servicio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Margen de valores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 a 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">–</p>
+<p>De aplicación en una o varias modalidades en cada servicio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Zona alta/baja utilización</p>
+<p>Margen de valores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+ 25 %</p>
+<p>1 a 2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona alta/baja utilización</p>
+</td>
+<td>
+<p>+ 25 %</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">De aplicación según criterios específicos por servicios y bandas de frecuencias en las modalidades y conceptos afectados.</p>
+<p>De aplicación según criterios específicos por servicios y bandas de frecuencias en las modalidades y conceptos afectados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Demanda de la banda</p>
+<p>Demanda de la banda</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta + 20 %</p>
+<p>Hasta + 20 %</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Concesiones y usuarios</p>
+<p>Concesiones y usuarios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta + 30 %</p>
+<p>Hasta + 30 %</p>
 </td>
 </tr>
 </table>
@@ -4406,57 +4406,57 @@ Coeficiente C<sub>2</sub>: Mediante este coeficiente se hace una distinción ent
 
 Coeficiente C<sub>3</sub>: Con el coeficiente C<sub>3</sub> se consideran las posibles modalidades de otorgamiento de la reserva de dominio público radioeléctrico de una determinada frecuencia o sub-banda de frecuencias, con carácter exclusivo o compartido con otros usuarios en una determinada zona geográfica. Estas posibilidades son de aplicación en el caso del servicio móvil. Para otros servicios la reserva de dominio público radioeléctrico ha de ser con carácter exclusivo por la naturaleza del mismo. Aquellas reservas solicitadas en bandas no adecuadas al servicio, en función de las tendencias de utilización y previsiones del Cuadro Nacional de Atribución de Frecuencias (CNAF), se penalizan con una tasa más elevada, con el fin de favorecer la tendencia hacia la armonización de las utilizaciones radioeléctricas, lo cual se refleja en la valoración de este coeficiente.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Concepto</p>
+<p>Concepto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Escala de valores</p>
+<p>Escala de valores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor de referencia</p>
+<p>Valor de referencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De aplicación en una o varias modalidades en cada servicio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Margen de valores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 a 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">–</p>
+<p>De aplicación en una o varias modalidades en cada servicio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Frecuencia exclusiva/compartida</p>
+<p>Margen de valores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta + 75 %</p>
+<p>1 a 2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frecuencia exclusiva/compartida</p>
+</td>
+<td>
+<p>Hasta + 75 %</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">De aplicación según criterios específicos por servicios y bandas de frecuencias en las modalidades y conceptos afectados.</p>
+<p>De aplicación según criterios específicos por servicios y bandas de frecuencias en las modalidades y conceptos afectados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Idoneidad de la banda de frecuencia</p>
+<p>Idoneidad de la banda de frecuencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta + 60 %</p>
+<p>Hasta + 60 %</p>
 </td>
 </tr>
 </table>
@@ -4475,73 +4475,73 @@ En radiodifusión, dadas las peculiaridades del servicio, se ha considerado un f
 
 Cuando la reserva de frecuencias se destine a la realización de emisiones de carácter experimental y sin contraprestación económica para el titular de la misma, ni otra finalidad que la investigación y desarrollo de nuevas tecnologías durante un período de tiempo limitado y definido, el valor del coeficiente C<sub>5</sub> en estos casos será el 15 % del valor general.
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Concepto</p>
+<p>Concepto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Escala de valores</p>
+<p>Escala de valores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor de referencia</p>
+<p>Valor de referencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De aplicación en una o varias modalidades en cada servicio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Margen de valores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt; 0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">–</p>
+<p>De aplicación en una o varias modalidades en cada servicio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Rentabilidad económica</p>
+<p>Margen de valores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta + 30 %</p>
+<p>&gt; 0</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rentabilidad económica</p>
+</td>
+<td>
+<p>Hasta + 30 %</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">De aplicación según criterios específicos por servicios y bandas de frecuencias en las modalidades y conceptos afectados.</p>
+<p>De aplicación según criterios específicos por servicios y bandas de frecuencias en las modalidades y conceptos afectados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Interés social servicio</p>
+<p>Interés social servicio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta - 20 %</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Población</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta + 100 %</p>
+<p>Hasta - 20 %</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Experiencias no comerciales</p>
+<p>Población</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">– 85 %</p>
+<p>Hasta + 100 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Experiencias no comerciales</p>
+</td>
+<td>
+<p>– 85 %</p>
 </td>
 </tr>
 </table>
@@ -4626,172 +4626,172 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta, es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4707</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1111</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5395</p>
+<p>0,4707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1112</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1113</p>
+<p>1111</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,5395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1114</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4590</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1115</p>
+<p>1112</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,4937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1116</p>
+<p>1113</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1115</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1116</p>
 </td>
 </tr>
 </table>
@@ -4802,172 +4802,172 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4707</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1121</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5395</p>
+<p>0,4707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1122</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1123</p>
+<p>1121</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,5395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1124</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4590</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1125</p>
+<p>1122</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,4937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1126</p>
+<p>1123</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1124</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1125</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1126</p>
 </td>
 </tr>
 </table>
@@ -4978,172 +4978,172 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4707</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1131</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5395</p>
+<p>0,4707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1132</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1133</p>
+<p>1131</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,5395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1134</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4590</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1135</p>
+<p>1132</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,4937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1136</p>
+<p>1133</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1134</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,65</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1135</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1136</p>
 </td>
 </tr>
 </table>
@@ -5154,172 +5154,172 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz; 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4707</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1141</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5395</p>
+<p>0,4707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1142</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1143</p>
+<p>1141</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,5395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1144</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4590</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1145</p>
+<p>1142</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,4937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1146</p>
+<p>1143</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1144</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,65</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1145</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1146</p>
 </td>
 </tr>
 </table>
@@ -5330,172 +5330,172 @@ En estos casos la superficie a considerar es la que figure en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4707</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1151</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5395</p>
+<p>0,4707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1152</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1153</p>
+<p>1151</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,5395</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1154</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4590</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1155</p>
+<p>1152</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4590</p>
+<p>0,4937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1156</p>
+<p>1153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1154</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>1,65</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1155</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4590</p>
+</td>
+<td>
+<p>1156</p>
 </td>
 </tr>
 </table>
@@ -5506,172 +5506,172 @@ En estos casos la superficie a considerar es la que figure en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1491</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1161</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1491</p>
+<p>0,1491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1162</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1491</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1163</p>
+<p>1161</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1491</p>
+<p>0,1491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1164</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1491</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1165</p>
+<p>1162</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1491</p>
+<p>0,1491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1166</p>
+<p>1163</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1491</p>
+</td>
+<td>
+<p>1164</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1491</p>
+</td>
+<td>
+<p>1165</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1491</p>
+</td>
+<td>
+<p>1166</p>
 </td>
 </tr>
 </table>
@@ -5682,172 +5682,172 @@ En estos casos la superficie a considerar es la que figure en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1491</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1171</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1491</p>
+<p>0,1491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1172</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1097</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1173</p>
+<p>1171</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1491</p>
+<p>0,1491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1174</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1491</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1175</p>
+<p>1172</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1491</p>
+<p>0,1097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1176</p>
+<p>1173</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1491</p>
+</td>
+<td>
+<p>1174</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1491</p>
+</td>
+<td>
+<p>1175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1491</p>
+</td>
+<td>
+<p>1176</p>
 </td>
 </tr>
 </table>
@@ -5860,103 +5860,103 @@ En redes de ámbito nacional se aplicará el valor de superficie correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz ó 25 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">F &lt; 50 MHz UN 34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">19,5147</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1181</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50 &lt; f &lt; 174 MHz</p>
+<p>F &lt; 50 MHz UN 34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3444</p>
+<p>19,5147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1182</p>
+<p>1181</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF UN 24</p>
+<p>50 &lt; f &lt; 174 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3444</p>
+<p>0,3444</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1183</p>
+<p>1182</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNAF UN 24</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,3444</p>
+</td>
+<td>
+<p>1183</p>
 </td>
 </tr>
 </table>
@@ -5969,149 +5969,149 @@ Para redes de mayor distancia de cobertura se aplicará la modalidad correspondi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (10, 12,5, 25 ó 200 kHz) en los casos que sea de aplicación por el número de frecuencias utilizadas. Si en virtud de las características técnicas de la emisión no es aplicable ninguna canalización entre las indicadas se tomará el ancho de banda de la denominación de la emisión o, en su defecto, se aplicará la totalidad de la correspondiente banda de frecuencias destinada en el CNAF para estas aplicaciones.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 50 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">19,5147</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1191</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50-174 MHz</p>
+<p>f &lt; 50 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,5147</p>
+<p>19,5147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1192</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">406-470 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">19,5147</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1193</p>
+<p>1191</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">862-870 MHz</p>
+<p>50-174 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,5147</p>
+<p>19,5147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1194</p>
+<p>1192</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 1.000 MHz</p>
+<p>406-470 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,5147</p>
+<p>19,5147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1195</p>
+<p>1193</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>862-870 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>19,5147</p>
+</td>
+<td>
+<p>1194</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 1.000 MHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>19,5147</p>
+</td>
+<td>
+<p>1195</p>
 </td>
 </tr>
 </table>
@@ -6126,172 +6126,172 @@ En estos casos, la superficie a considerar es la correspondiente a todo el terri
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,800 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1211</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,800 10<sup>-3</sup></p>
+<p>8,800 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1212</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,800 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1213</p>
+<p>1211</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,36</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,800 10<sup>-3</sup></p>
+<p>8,800 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1214</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,800 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1215</p>
+<p>1212</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,800 10<sup>-3</sup></p>
+<p>8,800 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1216</p>
+<p>1213</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,36</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>8,800 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1214</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>8,800 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1215</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>8,800 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1216</p>
 </td>
 </tr>
 </table>
@@ -6302,172 +6302,172 @@ En estos casos, la superficie a considerar es la correspondiente a todo el terri
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, otro) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">de modalidad</p>
+<p>Código</p>
+<p>de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,383 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1221</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,383 10<sup>-3</sup></p>
+<p>9,383 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1222</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,383 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1223</p>
+<p>1221</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,383 10<sup>-3</sup></p>
+<p>9,383 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1224</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,383 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1225</p>
+<p>1222</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,383 10<sup>-3</sup></p>
+<p>9,383 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1226</p>
+<p>1223</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9,383 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1224</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9,383 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1225</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9,383 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1226</p>
 </td>
 </tr>
 </table>
@@ -6484,56 +6484,56 @@ La superficie a considerar es la correspondiente a todo el territorio nacional.
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (200 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF UN 41</p>
+<p>CNAF UN 41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,543 10<sup>-2</sup></p>
+<p>3,543 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1321</p>
+<p>1321</p>
 </td>
 </tr>
 </table>
@@ -6544,56 +6544,56 @@ La superficie a considerar es la correspondiente a todo el territorio nacional.
 
 El ancho de banda (kHz) a tener en cuenta es el resultado de multiplicar el valor de la canalización (200 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF UN 140</p>
+<p>CNAF UN 140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,190 10<sup>-2</sup></p>
+<p>3,190 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1331</p>
+<p>1331</p>
 </td>
 </tr>
 </table>
@@ -6606,56 +6606,56 @@ La superficie a considerar es la correspondiente a todo el territorio nacional.
 
 El ancho de banda (kHz) a tener en cuenta, es el resultante de multiplicar el valor de la canalización (5.000 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,251 10<sup>-2</sup></p>
+<p>4,251 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1351</p>
+<p>1351</p>
 </td>
 </tr>
 </table>
@@ -6666,56 +6666,56 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda a tener en cuenta será el ancho de banda total asignado expresado en kHz.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF UN 40</p>
+<p>CNAF UN 40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,02812</p>
+<p>0,02812</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1361</p>
+<p>1361</p>
 </td>
 </tr>
 </table>
@@ -6726,56 +6726,56 @@ La superficie a considerar será de 1 Km2 por cada 200 aeronaves, o fracción.
 
 El ancho de banda a considerar será el total reservado en función de la tecnología utilizada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,4</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1371</p>
+<p>1371</p>
 </td>
 </tr>
 </table>
@@ -6788,79 +6788,79 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 30 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1146</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1411</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30-300 MHz</p>
+<p>f &lt; 30 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,9730</p>
+<p>0,1146</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1412</p>
+<p>1411</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30-300 MHz</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,9730</p>
+</td>
+<td>
+<p>1412</p>
 </td>
 </tr>
 </table>
@@ -6873,79 +6873,79 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 30 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1146</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1511</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30-300 MHz</p>
+<p>f &lt; 30 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1146</p>
+<p>0,1146</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1512</p>
+<p>1511</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30-300 MHz</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1146</p>
+</td>
+<td>
+<p>1512</p>
 </td>
 </tr>
 </table>
@@ -6958,191 +6958,191 @@ El ancho de banda para cada frecuencia será la anchura de banda reservada al si
 
 1.6.1 Servicio de comunicaciones móviles por satélite.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,950 10<sup>-3</sup></p>
+<p>1,950 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1611</p>
+<p>1611</p>
 </td>
 </tr>
 </table>
 
 1.6.2 Servicio móvil aeronáutico por satélite.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Banda 10-15 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,865 10<sup> -5</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1621</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Banda 1500-1700 MHz</p>
+<p>Banda 10-15 GHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,852 10<sup> -5</sup></p>
+<p>0,865 10<sup> -5</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1622</p>
+<p>1621</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Banda 1500-1700 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>7,852 10<sup> -5</sup></p>
+</td>
+<td>
+<p>1622</p>
 </td>
 </tr>
 </table>
 
 1.6.3 Servicio móvil marítimo por satélite.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Banda 1500-1700 MHz</p>
+<p>Banda 1500-1700 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,453 10<sup> -4</sup></p>
+<p>2,453 10<sup> -4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1631</p>
+<p>1631</p>
 </td>
 </tr>
 </table>
@@ -7163,171 +7163,171 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización utilizada o, en su defecto, se tomará el ancho de banda, según la denominación de la emisión, por el número de frecuencias usadas en cada dirección del radioenlace.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4286</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2111</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,45</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4286</p>
+<p>0,4286</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2112</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2113</p>
+<p>2111</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3616</p>
+<p>0,4286</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2114</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3616</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2115</p>
+<p>2112</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0821</p>
+<p>0,4019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2116</p>
+<p>2113</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,3616</p>
+</td>
+<td>
+<p>2114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,3616</p>
+</td>
+<td>
+<p>2115</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0821</p>
+</td>
+<td>
+<p>2116</p>
 </td>
 </tr>
 </table>
@@ -7338,171 +7338,171 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización utilizada, o, en su defecto, se tomará el ancho de banda, según la denominación de la emisión, por el número de frecuencias usadas en cada dirección del radioenlace.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4286</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2121</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,55</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,45</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4286</p>
+<p>0,4286</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2122</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2123</p>
+<p>2121</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3616</p>
+<p>0,4286</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2124</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3616</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2125</p>
+<p>2122</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0821</p>
+<p>0,4019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2126</p>
+<p>2123</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,3616</p>
+</td>
+<td>
+<p>2124</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,3616</p>
+</td>
+<td>
+<p>2125</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0821</p>
+</td>
+<td>
+<p>2126</p>
 </td>
 </tr>
 </table>
@@ -7517,171 +7517,171 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización utilizada o, en su defecto, se tomará el ancho de banda, según la denominación de la emisión, por el número de frecuencias usadas en cada dirección del radioenlace.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1962</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2151</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1962</p>
+<p>0,1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2152</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1840</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2153</p>
+<p>2151</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1655</p>
+<p>0,1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2154</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1655</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2155</p>
+<p>2152</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0377</p>
+<p>0,1840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2156</p>
+<p>2153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,1655</p>
+</td>
+<td>
+<p>2154</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,1655</p>
+</td>
+<td>
+<p>2155</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0377</p>
+</td>
+<td>
+<p>2156</p>
 </td>
 </tr>
 </table>
@@ -7690,171 +7690,171 @@ El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el val
 
 En estos casos, a efectos de calcular la correspondiente tasa, se considerará el ancho de banda reservado, expresado en kHz, sobre la superficie correspondiente a todo el territorio nacional, con total independencia de la reutilización efectuada de toda o parte de la banda asignada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,359 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2161</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,359 10<sup>-3</sup></p>
+<p>2,359 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2162</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,359 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2163</p>
+<p>2161</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,359 10<sup>-3</sup></p>
+<p>2,359 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2164</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,359 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2165</p>
+<p>2162</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,578 10<sup>-3</sup></p>
+<p>2,359 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2166</p>
+<p>2163</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>2,359 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2164</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>2,359 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2165</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,578 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2166</p>
 </td>
 </tr>
 </table>
@@ -7865,102 +7865,102 @@ Para el servicio fijo punto a punto de alta densidad, en frecuencias no coordina
 
 El ancho de banda (expresado en kHz) a tener en cuenta para cada canal autorizado es el correspondiente a la canalización utilizada en el enlace (50 MHz, 100 MHz, otro). En su defecto se tomará el ancho de banda de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CNAF UN 126</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1103</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2171</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64-66 GHz</p>
+<p>CNAF UN 126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,12</p>
+<p>1,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,05</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1103</p>
+<p>0,1103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2172</p>
+<p>2171</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 66 GHz</p>
+<p>64-66 GHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,12</p>
+<p>1,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1103</p>
+<p>0,1103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2173</p>
+<p>2172</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 66 GHz</p>
+</td>
+<td>
+<p>1,12</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,1103</p>
+</td>
+<td>
+<p>2173</p>
 </td>
 </tr>
 </table>
@@ -7971,171 +7971,171 @@ Este apartado es de aplicación a las reservas de espectro para una o mas provin
 
 En estos casos, a efectos de calcular la correspondiente tasa, se considerará el ancho de banda reservado, expresado en kHz, sobre la superficie cubierta, independientemente de la reutilización efectuada de toda o parte de la banda asignada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,627 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2181</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,627 10<sup>-3</sup></p>
+<p>4,627 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2182</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,627 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2183</p>
+<p>2181</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,627 10<sup>-3</sup></p>
+<p>4,627 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2184</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,627 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2185</p>
+<p>2182</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,157 10<sup>-3</sup></p>
+<p>4,627 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2186</p>
+<p>2183</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>4,627 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2184</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>4,627 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2185</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,157 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2186</p>
 </td>
 </tr>
 </table>
@@ -8152,171 +8152,171 @@ La superficie a considerar es la zona de servicio indicada en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta se obtendrá de las características de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1338</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2211</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,35</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1137</p>
+<p>0,1338</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2212</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0669</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2213</p>
+<p>2211</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1004</p>
+<p>0,1137</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2214</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1004</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2215</p>
+<p>2212</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0165</p>
+<p>0,0669</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2216</p>
+<p>2213</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,1004</p>
+</td>
+<td>
+<p>2214</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,1004</p>
+</td>
+<td>
+<p>2215</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0165</p>
+</td>
+<td>
+<p>2216</p>
 </td>
 </tr>
 </table>
@@ -8329,171 +8329,171 @@ La superficie a considerar es la zona de servicio indicada en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta se obtendrá de las características de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0673</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2231</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,35</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0570</p>
+<p>0,0673</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2232</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0337</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2233</p>
+<p>2231</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0503</p>
+<p>0,0570</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2234</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0503</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2235</p>
+<p>2232</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0083</p>
+<p>0,0337</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2236</p>
+<p>2233</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,0503</p>
+</td>
+<td>
+<p>2234</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,0503</p>
+</td>
+<td>
+<p>2235</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0083</p>
+</td>
+<td>
+<p>2236</p>
 </td>
 </tr>
 </table>
@@ -8502,171 +8502,171 @@ El ancho de banda (kHz) a tener en cuenta se obtendrá de las características d
 
 En estos casos, a efectos de calcular la correspondiente tasa, se considerará el ancho de banda reservado, expresado en kHz, sobre la superficie correspondiente a todo el territorio nacional, con total independencia de la reutilización efectuada de toda o parte de la banda asignada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,572 10 <sup>–3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2241</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,35</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,572 10 <sup>–3</sup></p>
+<p>2,572 10 <sup>–3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2242</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,572 10 <sup>–3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2243</p>
+<p>2241</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,572 10 <sup>–3</sup></p>
+<p>2,572 10 <sup>–3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2244</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,572 10 <sup>–3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2245</p>
+<p>2242</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,630 10 <sup>–3</sup></p>
+<p>2,572 10 <sup>–3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2246</p>
+<p>2243</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>2,572 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>2244</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>2,572 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>2245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,630 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>2246</p>
 </td>
 </tr>
 </table>
@@ -8677,171 +8677,171 @@ Este apartado es de aplicación a las reservas de espectro para una o mas provin
 
 En estos casos, a efectos de calcular la correspondiente tasa, se considerará el ancho de banda reservado, expresado en kHz, sobre la superficie cubierta independientemente de la reutilización efectuada de toda o parte de la banda asignada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,045 10 <sup>–3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2251</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,35</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,045 10 <sup>–3</sup></p>
+<p>5,045 10 <sup>–3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2252</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,045 10 <sup>–3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2253</p>
+<p>2251</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,045 10 <sup>–3</sup></p>
+<p>5,045 10 <sup>–3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2254</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,045 10 <sup>–3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2255</p>
+<p>2252</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,261 10 <sup>–3</sup></p>
+<p>5,045 10 <sup>–3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2256</p>
+<p>2253</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>5,045 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>2254</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>5,045 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>2255</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,261 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>2256</p>
 </td>
 </tr>
 </table>
@@ -8858,102 +8858,102 @@ Dentro de este servicio se consideran los siguientes apartados:
 
 En los enlaces punto a punto tanto para el enlace ascendente como para el enlace descendente se considerará una superficie de 31.416 kilómetros cuadrados, en esta categoría se consideran incluidos los enlaces de contribución de radiodifusión punto a punto. En los enlaces de contribución punto a multipunto se considerará una superficie de 31.416 kilómetros cuadrados, para el enlace ascendente y para el enlace descendente se considerará el área de la zona de servicio que, en general, corresponderá con la superficie de todo el territorio nacional, estableciéndose una superficie mínima de 100.000 kilómetros cuadrados.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,950 10 <sup>–4</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2311</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3000-30000 MHz</p>
+<p>f &lt; 3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,15</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,950 10 <sup>–4</sup></p>
+<p>1,950 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2312</p>
+<p>2311</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 30 GHz</p>
+<p>3000-30000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,950 10 <sup>–4</sup></p>
+<p>1,950 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2314</p>
+<p>2312</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 30 GHz</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td>
+<p>1,950 10 <sup>–4</sup></p>
+</td>
+<td>
+<p>2314</p>
 </td>
 </tr>
 </table>
@@ -8962,102 +8962,102 @@ En los enlaces punto a punto tanto para el enlace ascendente como para el enlace
 
 Para los enlaces de conexión (enlace ascendente) del servicio de radiodifusión (sonora y de televisión) por satélite, se considerará una superficie de 31.416 kilómetros cuadrados.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,7207 10 <sup>–4</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2321</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3-30 GHz</p>
+<p>f &lt; 3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,7207 10 <sup>–4</sup></p>
+<p>1,7207 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2322</p>
+<p>2321</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 30 GHz</p>
+<p>3-30 GHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,7207 10 <sup>–4</sup></p>
+<p>1,7207 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2324</p>
+<p>2322</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 30 GHz</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td>
+<p>1,7207 10 <sup>–4</sup></p>
+</td>
+<td>
+<p>2324</p>
 </td>
 </tr>
 </table>
@@ -9066,102 +9066,102 @@ Para los enlaces de conexión (enlace ascendente) del servicio de radiodifusión
 
 Se considerará la superficie de la zona de servicio, estableciéndose una superficie mínima de 10.000 kilómetros cuadrados. En el caso de los enlaces SNG se considerará una superficie de 20.000 kilómetros cuadrados. En todos los casos anteriores, la superficie se tomará tanto en transmisión como en recepción y todo ello independientemente del número de estaciones transmisoras y receptoras.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7207 10 <sup>–4</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2331</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3-17 GHz</p>
+<p>f &lt; 3.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7207 10 <sup>–4</sup></p>
+<p>1,7207 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2332</p>
+<p>2331</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 17 GHz</p>
+<p>3-17 GHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,0</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,0</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6,32 10 <sup>–5</sup></p>
+<p>1,7207 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2334</p>
+<p>2332</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 17 GHz</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td>
+<p>6,32 10 <sup>–5</sup></p>
+</td>
+<td>
+<p>2334</p>
 </td>
 </tr>
 </table>
@@ -9208,79 +9208,79 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 9 kHz en los sistemas de modulación con doble banda lateral y de 4,5 kHz en los sistemas de modulación con banda lateral única.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">148,5 a 283,5 kHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">650,912 k</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3111</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">526,5 a 1.606,5 kHz</p>
+<p>148,5 a 283,5 kHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">650,912 k</p>
+<p>650,912 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3112</p>
+<p>3111</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>526,5 a 1.606,5 kHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>650,912 k</p>
+</td>
+<td>
+<p>3112</p>
 </td>
 </tr>
 </table>
@@ -9291,56 +9291,56 @@ En el caso de la radiodifusión sonora de onda corta se considerará que la supe
 
 La anchura de banda B a considerar será de 9 kHz en los sistemas de modulación con doble banda lateral y de 4,5 kHz en los sistemas de modulación con banda lateral única.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3 a 30 MHz según CNAF.</p>
+<p>3 a 30 MHz según CNAF.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">325,453 k</p>
+<p>325,453 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3121</p>
+<p>3121</p>
 </td>
 </tr>
 </table>
@@ -9351,56 +9351,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 180 kHz en los sistemas monofónicos, de 256 kHz en los sistemas estereofónicos y 300 kHz en los sistemas con subportadoras suplementarias.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">87,5 a 108 MHz</p>
+<p>87,5 a 108 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,066 k</p>
+<p>13,066 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3131</p>
+<p>3131</p>
 </td>
 </tr>
 </table>
@@ -9411,56 +9411,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 180 kHz en los sistemas monofónicos, de 256 kHz en los sistemas estereofónicos y de 300 kHz en los sistemas con subportadoras suplementarias.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">87,5 a 108 MHz</p>
+<p>87,5 a 108 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,066 k</p>
+<p>13,066 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3141</p>
+<p>3141</p>
 </td>
 </tr>
 </table>
@@ -9471,79 +9471,79 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 1.536 kHz en los sistemas con norma UNE ETS 300 401.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">195 a 223 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3756 k</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3151</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.452 a 1.492 MHz</p>
+<p>195 a 223 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3756 k</p>
+<p>0,3756 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3152</p>
+<p>3151</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.452 a 1.492 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,3756 k</p>
+</td>
+<td>
+<p>3152</p>
 </td>
 </tr>
 </table>
@@ -9554,79 +9554,79 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 1.536 kHz en los sistemas con norma UNE ETS 300 401.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">195 a 223 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3756 k</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3161</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.452 a 1.492 MHz</p>
+<p>195 a 223 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3756 k</p>
+<p>0,3756 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3162</p>
+<p>3161</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.452 a 1.492 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,3756 k</p>
+</td>
+<td>
+<p>3162</p>
 </td>
 </tr>
 </table>
@@ -9641,56 +9641,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 8.000 kHz en los sistemas con la norma G/PAL.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 830 MHz</p>
+<p>470 a 830 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3798 k</p>
+<p>0,3798 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3212</p>
+<p>3212</p>
 </td>
 </tr>
 </table>
@@ -9701,56 +9701,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 8.000 kHz en los sistemas con la norma G/PAL.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 830 MHz</p>
+<p>470 a 830 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3798 k</p>
+<p>0,3798 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3222</p>
+<p>3222</p>
 </td>
 </tr>
 </table>
@@ -9763,56 +9763,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 8.000 kHz en los sistemas con la norma UNE ETS 300 744.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 862 MHz</p>
+<p>470 a 862 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,7023</p>
+<p>0,7023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3231</p>
+<p>3231</p>
 </td>
 </tr>
 </table>
@@ -9825,56 +9825,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 8.000 kHz en los sistemas con la norma UNE ETS 300 744.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 862 MHz</p>
+<p>470 a 862 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,7023</p>
+<p>0,7023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3241</p>
+<p>3241</p>
 </td>
 </tr>
 </table>
@@ -9887,56 +9887,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 8.000 kHz en los sistemas con la norma UNE ETS 300 744.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 862 MHz</p>
+<p>470 a 862 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3512</p>
+<p>0,3512</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3251</p>
+<p>3251</p>
 </td>
 </tr>
 </table>
@@ -9949,56 +9949,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B a considerar será de 8.000 kHz en los sistemas con la norma UNE ETS 300 744.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 862 MHz</p>
+<p>470 a 862 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3512</p>
+<p>0,3512</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3261</p>
+<p>3261</p>
 </td>
 </tr>
 </table>
@@ -10015,56 +10015,56 @@ Este servicio se presta en las bandas de frecuencia por debajo de 195 MHz destin
 
 La anchura de banda computable para el cálculo de la tasa es la correspondiente al canal utilizado (300 kHz, 400 kHz, otro).
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8017</p>
+<p>0,8017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3311</p>
+<p>3311</p>
 </td>
 </tr>
 </table>
@@ -10077,125 +10077,125 @@ En estos casos la superficie a considerar es la que resulte de multiplicar la su
 
 La anchura de banda computable para el cálculo de la tasa es la correspondiente al canal utilizado (300 kHz, 400 kHz, otro).
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CNAF UN 111</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,72</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3321</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF UN 47</p>
+<p>CNAF UN 111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,10</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,90</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,72</p>
+<p>5,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3322</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CNAF UN 88</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,72</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3323</p>
+<p>3321</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF UNs 105 y 106</p>
+<p>CNAF UN 47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,72</p>
+<p>5,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3324</p>
+<p>3322</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNAF UN 88</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>1,60</p>
+</td>
+<td>
+<p>5,72</p>
+</td>
+<td>
+<p>3323</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNAF UNs 105 y 106</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>5,72</p>
+</td>
+<td>
+<p>3324</p>
 </td>
 </tr>
 </table>
@@ -10208,56 +10208,56 @@ En estos casos, se establece una superficie mínima de 10 kilómetros cuadrados,
 
 La anchura de banda computable para el cálculo de la tasa es la correspondiente al canal utilizado.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,7177</p>
+<p>0,7177</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3331</p>
+<p>3331</p>
 </td>
 </tr>
 </table>
@@ -10272,56 +10272,56 @@ La superficie a considerar en este servicio será la del círculo que tiene como
 
 El ancho de banda se obtiene directamente de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0100</p>
+<p>0,0100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4111</p>
+<p>4111</p>
 </td>
 </tr>
 </table>
@@ -10332,56 +10332,56 @@ La superficie a considerar en este servicio será la del círculo que tiene como
 
 El ancho de banda se obtiene directamente de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,0602</p>
+<p>0,0602</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4211</p>
+<p>4211</p>
 </td>
 </tr>
 </table>
@@ -10392,56 +10392,56 @@ La superficie a considerar en este servicio será la del círculo que tiene como
 
 El ancho de banda se obtiene directamente de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,03090</p>
+<p>0,03090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4311</p>
+<p>4311</p>
 </td>
 </tr>
 </table>
@@ -10452,102 +10452,102 @@ La superficie a considerar en estos servicios será la correspondiente a la zona
 
 El ancho de banda a considerar, tanto en transmisión como en recepción, será el exigido por el sistema solicitado en cada caso.
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C<sub>1</sub></p>
+<p>C<sub>1</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>2</sub></p>
+<p>C<sub>2</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>3</sub></p>
+<p>C<sub>3</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>4</sub></p>
+<p>C<sub>4</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">C<sub>5</sub></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Operaciones espaciales (Telemando, telemedida y seguimiento)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,977 10 <sup>–4</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4412</p>
+<p>C<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exploración de la Tierra por satélite</p>
+<p>Operaciones espaciales (Telemando, telemedida y seguimiento)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,7973 10 <sup>–4</sup></p>
+<p>1,977 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4413</p>
+<p>4412</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios espaciales.</p>
+<p>Exploración de la Tierra por satélite</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,904 10 <sup>–3</sup></p>
+<p>0,7973 10 <sup>–4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4411</p>
+<p>4413</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otros servicios espaciales.</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3,904 10 <sup>–3</sup></p>
+</td>
+<td>
+<p>4411</p>
 </td>
 </tr>
 </table>
@@ -13732,2677 +13732,2677 @@ Tarifa para la cotización por accidentes de trabajo y enfermedades profesionale
 
 Cuadro I
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2" rowspan="2">
-<p class="cabeza_tabla">Códigos CNAE-2009 y título de la actividad económica</p>
+<p>Códigos CNAE-2009 y título de la actividad económica</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Tipos de cotización</p>
+<p>Tipos de cotización</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">IT</p>
+<p>IT</p>
 </td>
 <td>
-<p class="cabeza_tabla">IMS</p>
+<p>IMS</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">01</p>
+<p>01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Agricultura, ganadería, caza y servicios relacionados con las mismas Excepto:</p>
+<p>Agricultura, ganadería, caza y servicios relacionados con las mismas Excepto:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0113</p>
+<p>0113</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cultivo de hortalizas, raíces y tubérculos</p>
+<p>Cultivo de hortalizas, raíces y tubérculos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0119</p>
+<p>0119</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros cultivos no perennes</p>
+<p>Otros cultivos no perennes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0129</p>
+<p>0129</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros cultivos perennes</p>
+<p>Otros cultivos perennes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,15</p>
+<p>5,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0130</p>
+<p>0130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Propagación de plantas</p>
+<p>Propagación de plantas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">014</p>
+<p>014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producción ganadera (Excepto el 0147)</p>
+<p>Producción ganadera (Excepto el 0147)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0147</p>
+<p>0147</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Avicultura</p>
+<p>Avicultura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,35</p>
+<p>2,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">015</p>
+<p>015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producción agrícola combinada con la producción ganadera</p>
+<p>Producción agrícola combinada con la producción ganadera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">016</p>
+<p>016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de apoyo a la agricultura, a la ganadería y de preparación posterior a la cosecha (Excepto 0164)</p>
+<p>Actividades de apoyo a la agricultura, a la ganadería y de preparación posterior a la cosecha (Excepto 0164)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0164</p>
+<p>0164</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento de semillas para reproducción</p>
+<p>Tratamiento de semillas para reproducción</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,15</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">017</p>
+<p>017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caza, captura de animales y servicios relacionados con las mismas</p>
+<p>Caza, captura de animales y servicios relacionados con las mismas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">02</p>
+<p>02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Silvicultura y explotación forestal</p>
+<p>Silvicultura y explotación forestal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,15</p>
+<p>5,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">03</p>
+<p>03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pesca y acuicultura (Excepto v, w y 0322)</p>
+<p>Pesca y acuicultura (Excepto v, w y 0322)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,05</p>
+<p>3,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,40</p>
+<p>6,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">v</p>
+<p>v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupo segundo de cotización del Régimen especial del Mar</p>
+<p>Grupo segundo de cotización del Régimen especial del Mar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,10</p>
+<p>4,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">w</p>
+<p>w</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupo tercero de cotización del Régimen especial del Mar</p>
+<p>Grupo tercero de cotización del Régimen especial del Mar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0322</p>
+<p>0322</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acuicultura en agua dulce</p>
+<p>Acuicultura en agua dulce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,05</p>
+<p>3,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,20</p>
+<p>3,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,25</p>
+<p>6,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">05</p>
+<p>05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extracción de antracita, hulla y lignito (Excepto y)</p>
+<p>Extracción de antracita, hulla y lignito (Excepto y)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,30</p>
+<p>2,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,20</p>
+<p>5,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos habituales en interior de minas</p>
+<p>Trabajos habituales en interior de minas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,45</p>
+<p>3,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,15</p>
+<p>7,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">06</p>
+<p>06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extracción de crudo de petróleo y gas natural</p>
+<p>Extracción de crudo de petróleo y gas natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,30</p>
+<p>2,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,20</p>
+<p>5,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">07</p>
+<p>07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extracción de minerales metálicos</p>
+<p>Extracción de minerales metálicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,30</p>
+<p>2,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,20</p>
+<p>5,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">08</p>
+<p>08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras industrias extractivas (Excepto 0811)</p>
+<p>Otras industrias extractivas (Excepto 0811)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,30</p>
+<p>2,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,20</p>
+<p>5,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0811</p>
+<p>0811</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extracción de piedra ornamental y para la construcción, piedra caliza, yeso, creta y pizarra</p>
+<p>Extracción de piedra ornamental y para la construcción, piedra caliza, yeso, creta y pizarra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,45</p>
+<p>3,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,15</p>
+<p>7,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">09</p>
+<p>09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de apoyo a las industrias extractivas</p>
+<p>Actividades de apoyo a las industrias extractivas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,30</p>
+<p>2,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,20</p>
+<p>5,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria de la alimentación (Excepto 101,102,106, 107 y 108)</p>
+<p>Industria de la alimentación (Excepto 101,102,106, 107 y 108)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,20</p>
+<p>3,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">101</p>
+<p>101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Procesado y conservación de carne y elaboración de productos cárnicos</p>
+<p>Procesado y conservación de carne y elaboración de productos cárnicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,90</p>
+<p>1,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,90</p>
+<p>3,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">102</p>
+<p>102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Procesado y conservación de pescados, crustáceos y moluscos</p>
+<p>Procesado y conservación de pescados, crustáceos y moluscos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">106</p>
+<p>106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos de molinería, almidones y productos amiláceos</p>
+<p>Fabricación de productos de molinería, almidones y productos amiláceos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">107</p>
+<p>107</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos de panadería y pastas alimenticias</p>
+<p>Fabricación de productos de panadería y pastas alimenticias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">108</p>
+<p>108</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de otros productos alimenticios</p>
+<p>Fabricación de otros productos alimenticios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de bebidas</p>
+<p>Fabricación de bebidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,20</p>
+<p>3,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria del tabaco</p>
+<p>Industria del tabaco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria textil (Excepto 1391)</p>
+<p>Industria textil (Excepto 1391)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1391</p>
+<p>1391</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de tejidos de punto</p>
+<p>Fabricación de tejidos de punto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Confección de prendas de vestir (Excepto 1411, 1420 y 143)</p>
+<p>Confección de prendas de vestir (Excepto 1411, 1420 y 143)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,40</p>
+<p>0,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,90</p>
+<p>0,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1411</p>
+<p>1411</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Confección de prendas de vestir de cuero</p>
+<p>Confección de prendas de vestir de cuero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1420</p>
+<p>1420</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de artículos de peletería</p>
+<p>Fabricación de artículos de peletería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">143</p>
+<p>143</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Confección de prendas de vestir de punto</p>
+<p>Confección de prendas de vestir de punto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria del cuero y del calzado</p>
+<p>Industria del cuero y del calzado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria de la madera y del corcho, excepto muebles; cestería y espartería (Excepto 1624 y 1629)</p>
+<p>Industria de la madera y del corcho, excepto muebles; cestería y espartería (Excepto 1624 y 1629)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>2,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,15</p>
+<p>5,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1624</p>
+<p>1624</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de envases y embalajes de madera</p>
+<p>Fabricación de envases y embalajes de madera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,10</p>
+<p>4,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1629</p>
+<p>1629</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de otros productos de madera; artículos de corcho, cestería y espartería</p>
+<p>Fabricación de otros productos de madera; artículos de corcho, cestería y espartería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,10</p>
+<p>4,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria del papel (Excepto 171)</p>
+<p>Industria del papel (Excepto 171)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,05</p>
+<p>1,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,05</p>
+<p>2,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">171</p>
+<p>171</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de pasta papelera, papel y cartón</p>
+<p>Fabricación de pasta papelera, papel y cartón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,50</p>
+<p>3,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Artes gráficas y reproducción de soportes grabados</p>
+<p>Artes gráficas y reproducción de soportes grabados</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coquerías y refino de petróleo</p>
+<p>Coquerías y refino de petróleo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,90</p>
+<p>1,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,55</p>
+<p>2,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,45</p>
+<p>4,45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industria química (Excepto 204 y 206)</p>
+<p>Industria química (Excepto 204 y 206)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">204</p>
+<p>204</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento; fabricación de perfumes y cosméticos</p>
+<p>Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento; fabricación de perfumes y cosméticos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,70</p>
+<p>2,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">206</p>
+<p>206</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de fibras artificiales y sintéticas</p>
+<p>Fabricación de fibras artificiales y sintéticas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,70</p>
+<p>2,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos farmacéuticos</p>
+<p>Fabricación de productos farmacéuticos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,30</p>
+<p>1,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,40</p>
+<p>2,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos de caucho y plástico</p>
+<p>Fabricación de productos de caucho y plástico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>1,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de otros productos minerales no metálicos (Excepto 231, 232, 2331, 234 y 237)</p>
+<p>Fabricación de otros productos minerales no metálicos (Excepto 231, 232, 2331, 234 y 237)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,10</p>
+<p>4,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">231</p>
+<p>231</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de vidrio y productos de vidrio</p>
+<p>Fabricación de vidrio y productos de vidrio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,10</p>
+<p>3,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">232</p>
+<p>232</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos cerámicos refractarios</p>
+<p>Fabricación de productos cerámicos refractarios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,10</p>
+<p>3,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2331</p>
+<p>2331</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de azulejos y baldosas de cerámica</p>
+<p>Fabricación de azulejos y baldosas de cerámica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,10</p>
+<p>3,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">234</p>
+<p>234</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de otros productos cerámicos</p>
+<p>Fabricación de otros productos cerámicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,10</p>
+<p>3,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">237</p>
+<p>237</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corte, tallado y acabado de la piedra</p>
+<p>Corte, tallado y acabado de la piedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,75</p>
+<p>2,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,10</p>
+<p>6,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones</p>
+<p>Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos metálicos, excepto maquinaria y equipo</p>
+<p>Fabricación de productos metálicos, excepto maquinaria y equipo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos informáticos, electrónicos y ópticos</p>
+<p>Fabricación de productos informáticos, electrónicos y ópticos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">27</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de material y equipo eléctrico</p>
+<p>Fabricación de material y equipo eléctrico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de maquinaria y equipo n.c.o.p.</p>
+<p>Fabricación de maquinaria y equipo n.c.o.p.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
+<p>29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de vehículos de motor, remolques y semirremolques</p>
+<p>Fabricación de vehículos de motor, remolques y semirremolques</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de otro material de transporte (Excepto 3091 y 3092)</p>
+<p>Fabricación de otro material de transporte (Excepto 3091 y 3092)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3091</p>
+<p>3091</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de motocicletas</p>
+<p>Fabricación de motocicletas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3092</p>
+<p>3092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de bicicletas y de vehículos para personas con discapacidad</p>
+<p>Fabricación de bicicletas y de vehículos para personas con discapacidad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de muebles</p>
+<p>Fabricación de muebles</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otra industria manufacturera (Excepto 321, 322)</p>
+<p>Otra industria manufacturera (Excepto 321, 322)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">321</p>
+<p>321</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de artículos de joyería y artículos similares</p>
+<p>Fabricación de artículos de joyería y artículos similares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322</p>
+<p>322</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de instrumentos musicales</p>
+<p>Fabricación de instrumentos musicales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación e instalación de maquinaria y equipo (Excepto 3313 y 3314)</p>
+<p>Reparación e instalación de maquinaria y equipo (Excepto 3313 y 3314)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3313</p>
+<p>3313</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación de equipos electrónicos y ópticos</p>
+<p>Reparación de equipos electrónicos y ópticos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3314</p>
+<p>3314</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación de equipos eléctricos</p>
+<p>Reparación de equipos eléctricos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,80</p>
+<p>2,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suministro de energía eléctrica, gas, vapor y aire acondicionado</p>
+<p>Suministro de energía eléctrica, gas, vapor y aire acondicionado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Captación, depuración y distribución de agua</p>
+<p>Captación, depuración y distribución de agua</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">37</p>
+<p>37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recogida y tratamiento de aguas residuales</p>
+<p>Recogida y tratamiento de aguas residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
+<p>38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recogida, tratamiento y eliminación de residuos; valorización</p>
+<p>Recogida, tratamiento y eliminación de residuos; valorización</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">39</p>
+<p>39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de descontaminación y otros servicios de gestión de residuos</p>
+<p>Actividades de descontaminación y otros servicios de gestión de residuos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">41</p>
+<p>41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de edificios (Excepto 411)</p>
+<p>Construcción de edificios (Excepto 411)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,70</p>
+<p>6,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">411</p>
+<p>411</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promoción inmobiliaria</p>
+<p>Promoción inmobiliaria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería civil</p>
+<p>Ingeniería civil</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,70</p>
+<p>6,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">43</p>
+<p>43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de construcción especializada</p>
+<p>Actividades de construcción especializada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,70</p>
+<p>6,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Venta y reparación de vehículos de motor y motocicletas (Excepto 452 y 454)</p>
+<p>Venta y reparación de vehículos de motor y motocicletas (Excepto 452 y 454)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">452</p>
+<p>452</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de vehículos de motor</p>
+<p>Mantenimiento y reparación de vehículos de motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,45</p>
+<p>2,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,45</p>
+<p>4,45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">454</p>
+<p>454</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Venta, mantenimiento y reparación de motocicletas y de sus repuestos y accesorios</p>
+<p>Venta, mantenimiento y reparación de motocicletas y de sus repuestos y accesorios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,90</p>
+<p>2,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas. Excepto:</p>
+<p>Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas. Excepto:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4623</p>
+<p>4623</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de animales vivos</p>
+<p>Comercio al por mayor de animales vivos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4624</p>
+<p>4624</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de cueros y pieles</p>
+<p>Comercio al por mayor de cueros y pieles</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4632</p>
+<p>4632</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de carne y productos cárnicos</p>
+<p>Comercio al por mayor de carne y productos cárnicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4638</p>
+<p>4638</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de pescados, mariscos y otros productos alimenticios</p>
+<p>Comercio al por mayor de pescados, mariscos y otros productos alimenticios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4672</p>
+<p>4672</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de metales y minerales metálicos</p>
+<p>Comercio al por mayor de metales y minerales metálicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4673</p>
+<p>4673</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de madera, materiales de construcción y aparatos sanitarios</p>
+<p>Comercio al por mayor de madera, materiales de construcción y aparatos sanitarios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4674</p>
+<p>4674</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de ferretería, fontanería y calefacción</p>
+<p>Comercio al por mayor de ferretería, fontanería y calefacción</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4677</p>
+<p>4677</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor de chatarra y productos de desecho</p>
+<p>Comercio al por mayor de chatarra y productos de desecho</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4690</p>
+<p>4690</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor no especializado</p>
+<p>Comercio al por mayor no especializado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">47</p>
+<p>47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por menor, excepto de vehículos de motor y motocicletas (Excepto 473)</p>
+<p>Comercio al por menor, excepto de vehículos de motor y motocicletas (Excepto 473)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,95</p>
+<p>0,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">473</p>
+<p>473</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por menor de combustible para la automoción en establecimientos especializados</p>
+<p>Comercio al por menor de combustible para la automoción en establecimientos especializados</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">49</p>
+<p>49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte terrestre y por tubería (Excepto 494)</p>
+<p>Transporte terrestre y por tubería (Excepto 494)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">494</p>
+<p>494</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte de mercancías por carretera y servicios de mudanza</p>
+<p>Transporte de mercancías por carretera y servicios de mudanza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,70</p>
+<p>3,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte marítimo y por vías navegables interiores</p>
+<p>Transporte marítimo y por vías navegables interiores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">51</p>
+<p>51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte aéreo</p>
+<p>Transporte aéreo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,90</p>
+<p>1,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,60</p>
+<p>3,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento y actividades anexas al transporte (Excepto x, 5221)</p>
+<p>Almacenamiento y actividades anexas al transporte (Excepto x, 5221)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carga y descarga; estiba y desestiba</p>
+<p>Carga y descarga; estiba y desestiba</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,70</p>
+<p>6,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5221</p>
+<p>5221</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades anexas al transporte terrestre</p>
+<p>Actividades anexas al transporte terrestre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">53</p>
+<p>53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades postales y de correos</p>
+<p>Actividades postales y de correos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,95</p>
+<p>0,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de alojamiento</p>
+<p>Servicios de alojamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">56</p>
+<p>56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de comidas y bebidas</p>
+<p>Servicios de comidas y bebidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Edición</p>
+<p>Edición</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">59</p>
+<p>59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical</p>
+<p>Actividades cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de programación y emisión de radio y televisión</p>
+<p>Actividades de programación y emisión de radio y televisión</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">61</p>
+<p>61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Telecomunicaciones</p>
+<p>Telecomunicaciones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">62</p>
+<p>62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Programación, consultoría y otras actividades relacionadas con la informática</p>
+<p>Programación, consultoría y otras actividades relacionadas con la informática</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de información (Excepto 6391)</p>
+<p>Servicios de información (Excepto 6391)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6391</p>
+<p>6391</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de las agencias de noticias</p>
+<p>Actividades de las agencias de noticias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">64</p>
+<p>64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios financieros, excepto seguros y fondos de pensiones</p>
+<p>Servicios financieros, excepto seguros y fondos de pensiones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,35</p>
+<p>0,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria</p>
+<p>Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,35</p>
+<p>0,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">66</p>
+<p>66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades auxiliares a los servicios financieros y a los seguros</p>
+<p>Actividades auxiliares a los servicios financieros y a los seguros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,35</p>
+<p>0,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades inmobiliarias</p>
+<p>Actividades inmobiliarias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">69</p>
+<p>69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades jurídicas y de contabilidad</p>
+<p>Actividades jurídicas y de contabilidad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de las sedes centrales; actividades de consultoría de gestión empresarial</p>
+<p>Actividades de las sedes centrales; actividades de consultoría de gestión empresarial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">71</p>
+<p>71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos</p>
+<p>Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">72</p>
+<p>72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y desarrollo</p>
+<p>Investigación y desarrollo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,35</p>
+<p>0,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">73</p>
+<p>73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Publicidad y estudios de mercado</p>
+<p>Publicidad y estudios de mercado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,90</p>
+<p>0,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">74</p>
+<p>74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras actividades profesionales, científicas y técnicas (Excepto 742)</p>
+<p>Otras actividades profesionales, científicas y técnicas (Excepto 742)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,90</p>
+<p>0,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>1,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">742</p>
+<p>742</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de fotografía</p>
+<p>Actividades de fotografía</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,40</p>
+<p>0,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,90</p>
+<p>0,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades veterinarias</p>
+<p>Actividades veterinarias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">77</p>
+<p>77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de alquiler</p>
+<p>Actividades de alquiler</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades relacionadas con el empleo (Excepto 781)</p>
+<p>Actividades relacionadas con el empleo (Excepto 781)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,75</p>
+<p>2,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">781</p>
+<p>781</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de las agencias de colocación</p>
+<p>Actividades de las agencias de colocación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,95</p>
+<p>0,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,95</p>
+<p>1,95</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">79</p>
+<p>79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de las agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos</p>
+<p>Actividades de las agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de seguridad e investigación</p>
+<p>Actividades de seguridad e investigación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,20</p>
+<p>2,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,60</p>
+<p>3,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">81</p>
+<p>81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios a edificios y actividades de jardinería (Excepto 811)</p>
+<p>Servicios a edificios y actividades de jardinería (Excepto 811)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,10</p>
+<p>2,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,60</p>
+<p>3,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">811</p>
+<p>811</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios integrales a edificios e instalaciones</p>
+<p>Servicios integrales a edificios e instalaciones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">82</p>
+<p>82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades administrativas de oficina y otras actividades auxiliares a las empresas (Excepto 8220 y 8292)</p>
+<p>Actividades administrativas de oficina y otras actividades auxiliares a las empresas (Excepto 8220 y 8292)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,05</p>
+<p>1,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,05</p>
+<p>2,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8220</p>
+<p>8220</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de los centros de llamadas</p>
+<p>Actividades de los centros de llamadas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8292</p>
+<p>8292</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de envasado y empaquetado</p>
+<p>Actividades de envasado y empaquetado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">84</p>
+<p>84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Administración Pública y defensa; Seguridad Social obligatoria (Excepto 842)</p>
+<p>Administración Pública y defensa; Seguridad Social obligatoria (Excepto 842)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">842</p>
+<p>842</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prestación de servicios a la comunidad en general</p>
+<p>Prestación de servicios a la comunidad en general</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,40</p>
+<p>1,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,20</p>
+<p>2,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,60</p>
+<p>3,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">85</p>
+<p>85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación</p>
+<p>Educación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,35</p>
+<p>0,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">86</p>
+<p>86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades sanitarias</p>
+<p>Actividades sanitarias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">87</p>
+<p>87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asistencia en establecimientos residenciales</p>
+<p>Asistencia en establecimientos residenciales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">88</p>
+<p>88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de servicios sociales sin alojamiento</p>
+<p>Actividades de servicios sociales sin alojamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de creación, artísticas y espectáculos</p>
+<p>Actividades de creación, artísticas y espectáculos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">91</p>
+<p>91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de bibliotecas, archivos, museos y otras actividades culturales. (Excepto 9104)</p>
+<p>Actividades de bibliotecas, archivos, museos y otras actividades culturales. (Excepto 9104)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9104</p>
+<p>9104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de los jardines botánicos, parques zoológicos y reservas naturales</p>
+<p>Actividades de los jardines botánicos, parques zoológicos y reservas naturales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>1,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,95</p>
+<p>2,95</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">92</p>
+<p>92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de juegos de azar y apuestas</p>
+<p>Actividades de juegos de azar y apuestas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,75</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,25</p>
+<p>1,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">93</p>
+<p>93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades deportivas, recreativas y de entretenimiento (Excepto u)</p>
+<p>Actividades deportivas, recreativas y de entretenimiento (Excepto u)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,70</p>
+<p>1,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,30</p>
+<p>1,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">u</p>
+<p>u</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espectáculos taurinos</p>
+<p>Espectáculos taurinos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,85</p>
+<p>2,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,35</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,20</p>
+<p>6,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">94</p>
+<p>94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades asociativas</p>
+<p>Actividades asociativas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,65</p>
+<p>1,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">95</p>
+<p>95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación de ordenadores, efectos personales y artículos de uso doméstico (Excepto 9524)</p>
+<p>Reparación de ordenadores, efectos personales y artículos de uso doméstico (Excepto 9524)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9524</p>
+<p>9524</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación de muebles y artículos de menaje</p>
+<p>Reparación de muebles y artículos de menaje</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,85</p>
+<p>1,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,85</p>
+<p>3,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">96</p>
+<p>96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios personales (Excepto 9602, 9603 y 9609)</p>
+<p>Otros servicios personales (Excepto 9602, 9603 y 9609)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,70</p>
+<p>0,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9602</p>
+<p>9602</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peluquería y otros tratamientos de belleza</p>
+<p>Peluquería y otros tratamientos de belleza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,45</p>
+<p>0,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9603</p>
+<p>9603</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pompas fúnebres y actividades relacionadas</p>
+<p>Pompas fúnebres y actividades relacionadas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,80</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,30</p>
+<p>3,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9609</p>
+<p>9609</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios personales n.c.o.p.</p>
+<p>Otros servicios personales n.c.o.p.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,60</p>
+<p>2,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">97</p>
+<p>97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de los hogares como empleadores de personal doméstico</p>
+<p>Actividades de los hogares como empleadores de personal doméstico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,65</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,45</p>
+<p>0,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,10</p>
+<p>1,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">99</p>
+<p>99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de organizaciones y organismos extraterritoriales</p>
+<p>Actividades de organizaciones y organismos extraterritoriales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,10</p>
+<p>3,10</p>
 </td>
 </tr>
 </tbody>
@@ -16410,144 +16410,144 @@ Cuadro I
 
 Cuadro II
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2" rowspan="2">
-<p class="cabeza_tabla">Tipos aplicables a ocupaciones y situaciones en todas las actividades</p>
+<p>Tipos aplicables a ocupaciones y situaciones en todas las actividades</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Tipos de cotización</p>
+<p>Tipos de cotización</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">IT</p>
+<p>IT</p>
 </td>
 <td>
-<p class="cabeza_tabla">IMS</p>
+<p>IMS</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">a</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Personal en trabajos exclusivos de oficina</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,00</p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">b</p>
+<p>a</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Representantes de Comercio</p>
+<p>Personal en trabajos exclusivos de oficina</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,00</p>
+<p>0,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,00</p>
+<p>0,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">d</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Personal de oficios en instalaciones y reparaciones en edificios, obras y trabajos de construcción en general</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,70</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">e</p>
+<p>b</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Conductores de vehículo automóvil de transporte de pasajeros en general (taxis, automóviles, autobuses, etc.) y de transporte de mercancías que tenga una capacidad de carga útil no superior a 3,5 Tm</p>
+<p>Representantes de Comercio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,80</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,50</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">f</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Conductores de vehículo automóvil de transporte de mercancías que tenga una capacidad de carga útil superior a 3,5 Tm</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,70</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">g</p>
+<p>d</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles</p>
+<p>Personal de oficios en instalaciones y reparaciones en edificios, obras y trabajos de construcción en general</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,10</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,50</p>
+<p>3,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,60</p>
+<p>6,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">h</p>
+<p>e</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vigilantes, guardas, guardas jurados y personal de seguridad</p>
+<p>Conductores de vehículo automóvil de transporte de pasajeros en general (taxis, automóviles, autobuses, etc.) y de transporte de mercancías que tenga una capacidad de carga útil no superior a 3,5 Tm</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,40</p>
+<p>1,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,20</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,60</p>
+<p>3,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>f</p>
+</td>
+<td>
+<p>Conductores de vehículo automóvil de transporte de mercancías que tenga una capacidad de carga útil superior a 3,5 Tm</p>
+</td>
+<td>
+<p>3,35</p>
+</td>
+<td>
+<p>3,35</p>
+</td>
+<td>
+<p>6,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>g</p>
+</td>
+<td>
+<p>Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles</p>
+</td>
+<td>
+<p>2,10</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+<td>
+<p>3,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>h</p>
+</td>
+<td>
+<p>Vigilantes, guardas, guardas jurados y personal de seguridad</p>
+</td>
+<td>
+<p>1,40</p>
+</td>
+<td>
+<p>2,20</p>
+</td>
+<td>
+<p>3,60</p>
 </td>
 </tr>
 </tbody>
@@ -16797,4032 +16797,4032 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
 (Miles de euros)
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Clasif. por programas</p>
+<p>Clasif. por programas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Explicación</p>
+<p>Explicación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Cap. 1 a 8</p>
+<p>Cap. 1 a 8</p>
 </td>
 <td>
-<p class="cabeza_tabla">Cap. 9</p>
+<p>Cap. 9</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">111M</p>
+<p>111M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gobierno del Poder Judicial.</p>
+<p>Gobierno del Poder Judicial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42.615,20</p>
+<p>42.615,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42.615,20</p>
+<p>42.615,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">111N</p>
+<p>111N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Justicia.</p>
+<p>Dirección y Servicios Generales de Justicia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65.481,56</p>
+<p>65.481,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65.481,56</p>
+<p>65.481,56</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">111O</p>
+<p>111O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Selección y formación de jueces.</p>
+<p>Selección y formación de jueces.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25.160,33</p>
+<p>25.160,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25.160,33</p>
+<p>25.160,33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">111P</p>
+<p>111P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Documentación y publicaciones judiciales.</p>
+<p>Documentación y publicaciones judiciales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.335,26</p>
+<p>10.335,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.335,26</p>
+<p>10.335,26</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">111Q</p>
+<p>111Q</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Formación del Personal de la Administración de Justicia.</p>
+<p>Formación del Personal de la Administración de Justicia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.408,97</p>
+<p>18.408,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.408,97</p>
+<p>18.408,97</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">112A</p>
+<p>112A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tribunales de Justicia y Ministerio Fiscal.</p>
+<p>Tribunales de Justicia y Ministerio Fiscal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.611.465,15</p>
+<p>1.611.465,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.611.465,15</p>
+<p>1.611.465,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">113M</p>
+<p>113M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Registros vinculados con la Fe Pública.</p>
+<p>Registros vinculados con la Fe Pública.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45.329,89</p>
+<p>45.329,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45.329,89</p>
+<p>45.329,89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">121 M</p>
+<p>121 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Administración y Servicios Generales de Defensa.</p>
+<p>Administración y Servicios Generales de Defensa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.367.436,10</p>
+<p>1.367.436,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.367.436,10</p>
+<p>1.367.436,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">121 N</p>
+<p>121 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Formación del Personal de las Fuerzas Armadas.</p>
+<p>Formación del Personal de las Fuerzas Armadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">518.018,23</p>
+<p>518.018,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">518.018,23</p>
+<p>518.018,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">121O</p>
+<p>121O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Personal en reserva.</p>
+<p>Personal en reserva.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">604.256,91</p>
+<p>604.256,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">604.256,91</p>
+<p>604.256,91</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">122A</p>
+<p>122A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Modernización de las Fuerzas Armadas.</p>
+<p>Modernización de las Fuerzas Armadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">438.993,84</p>
+<p>438.993,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">438.993,84</p>
+<p>438.993,84</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">122B</p>
+<p>122B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Programas especiales de modernización.</p>
+<p>Programas especiales de modernización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">333.744,59</p>
+<p>333.744,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">333.744,59</p>
+<p>333.744,59</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">122M</p>
+<p>122M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gastos Operativos de las Fuerzas Armadas.</p>
+<p>Gastos Operativos de las Fuerzas Armadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.390.438,54</p>
+<p>2.390.438,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.390.438,54</p>
+<p>2.390.438,54</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">122N</p>
+<p>122N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apoyo Logístico.</p>
+<p>Apoyo Logístico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.704.174,69</p>
+<p>1.704.174,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,60</p>
+<p>1,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.704.176,29</p>
+<p>1.704.176,29</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">131 M</p>
+<p>131 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Seguridad y Protección Civil.</p>
+<p>Dirección y Servicios Generales de Seguridad y Protección Civil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.968,13</p>
+<p>82.968,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.968,13</p>
+<p>82.968,13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">131N</p>
+<p>131N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Formación de Fuerzas y Cuerpos de Seguridad del Estado.</p>
+<p>Formación de Fuerzas y Cuerpos de Seguridad del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.779,60</p>
+<p>129.779,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129.779,60</p>
+<p>129.779,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">131O</p>
+<p>131O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fuerzas y Cuerpos en reserva.</p>
+<p>Fuerzas y Cuerpos en reserva.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">804.934,85</p>
+<p>804.934,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">804.934,85</p>
+<p>804.934,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">131 P</p>
+<p>131 P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Derecho de asilo y apátridas.</p>
+<p>Derecho de asilo y apátridas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.678,47</p>
+<p>3.678,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.678,47</p>
+<p>3.678,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">132A</p>
+<p>132A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad ciudadana.</p>
+<p>Seguridad ciudadana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.655.815,15</p>
+<p>5.655.815,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">72,72</p>
+<p>72,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.655.887,87</p>
+<p>5.655.887,87</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">132B</p>
+<p>132B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad vial.</p>
+<p>Seguridad vial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">849.857,21</p>
+<p>849.857,21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">849.857,21</p>
+<p>849.857,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">132C</p>
+<p>132C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones policiales en materia de droga.</p>
+<p>Actuaciones policiales en materia de droga.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70.732,61</p>
+<p>70.732,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70.732,61</p>
+<p>70.732,61</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">133A</p>
+<p>133A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros e Instituciones Penitenciarias.</p>
+<p>Centros e Instituciones Penitenciarias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.208.848,56</p>
+<p>1.208.848,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.208.848,56</p>
+<p>1.208.848,56</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">133B</p>
+<p>133B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajo, formación y asistencia a reclusos.</p>
+<p>Trabajo, formación y asistencia a reclusos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32.674,35</p>
+<p>32.674,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32.674,35</p>
+<p>32.674,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">134M</p>
+<p>134M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección Civil.</p>
+<p>Protección Civil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.093,28</p>
+<p>18.093,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.093,28</p>
+<p>18.093,28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">135M</p>
+<p>135M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección de datos de carácter personal.</p>
+<p>Protección de datos de carácter personal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.425,16</p>
+<p>15.425,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.425,16</p>
+<p>15.425,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">141 M</p>
+<p>141 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Asuntos Exteriores.</p>
+<p>Dirección y Servicios Generales de Asuntos Exteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88.790,77</p>
+<p>88.790,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88.790,77</p>
+<p>88.790,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">142A</p>
+<p>142A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acción del Estado en el exterior.</p>
+<p>Acción del Estado en el exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">581.338,43</p>
+<p>581.338,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">581.338,43</p>
+<p>581.338,43</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">142B</p>
+<p>142B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acción diplomática ante la Unión Europea.</p>
+<p>Acción diplomática ante la Unión Europea.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32.098,11</p>
+<p>32.098,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32.098,11</p>
+<p>32.098,11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">143A</p>
+<p>143A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cooperación para el desarrollo.</p>
+<p>Cooperación para el desarrollo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.686.817,14</p>
+<p>2.686.817,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.686.817,14</p>
+<p>2.686.817,14</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">144A</p>
+<p>144A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cooperación, promoción y difusión cultural en el exterior.</p>
+<p>Cooperación, promoción y difusión cultural en el exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">158.912,01</p>
+<p>158.912,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">158.912,01</p>
+<p>158.912,01</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">211M</p>
+<p>211M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pensiones contributivas de la Seguridad Social.</p>
+<p>Pensiones contributivas de la Seguridad Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.483.939,84</p>
+<p>95.483.939,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.483.939,84</p>
+<p>95.483.939,84</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">211N</p>
+<p>211N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pensiones de Clases Pasivas.</p>
+<p>Pensiones de Clases Pasivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.804.195,50</p>
+<p>9.804.195,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.804.195,50</p>
+<p>9.804.195,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2110</p>
+<p>2110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras pensiones y prestaciones de Clases Pasivas.</p>
+<p>Otras pensiones y prestaciones de Clases Pasivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.231,00</p>
+<p>102.231,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.231,00</p>
+<p>102.231,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">212M</p>
+<p>212M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pensiones no contributivas y prestaciones asistenciales.</p>
+<p>Pensiones no contributivas y prestaciones asistenciales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.039.117,67</p>
+<p>2.039.117,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.039.117,67</p>
+<p>2.039.117,67</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">212N</p>
+<p>212N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pensiones de guerra.</p>
+<p>Pensiones de guerra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">371.787,00</p>
+<p>371.787,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">371.787,00</p>
+<p>371.787,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">219M</p>
+<p>219M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión de las prestaciones económicas de Seguridad Social.</p>
+<p>Gestión de las prestaciones económicas de Seguridad Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">472.812,70</p>
+<p>472.812,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">472.812,70</p>
+<p>472.812,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">219N</p>
+<p>219N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión de pensiones de Clases Pasivas.</p>
+<p>Gestión de pensiones de Clases Pasivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.627,96</p>
+<p>8.627,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.627,96</p>
+<p>8.627,96</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">221 M</p>
+<p>221 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social.</p>
+<p>Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.478.901,73</p>
+<p>12.478.901,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.478.901,73</p>
+<p>12.478.901,73</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">222M</p>
+<p>222M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prestaciones económicas del Mutualismo Administrativo.</p>
+<p>Prestaciones económicas del Mutualismo Administrativo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">579.203,86</p>
+<p>579.203,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181,50</p>
+<p>181,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">579.385,36</p>
+<p>579.385,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">223M</p>
+<p>223M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prestaciones de garantía salarial.</p>
+<p>Prestaciones de garantía salarial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.344.411,39</p>
+<p>1.344.411,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.344.411,39</p>
+<p>1.344.411,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231A</p>
+<p>231A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plan Nacional sobre Drogas.</p>
+<p>Plan Nacional sobre Drogas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29.566,33</p>
+<p>29.566,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29.566,33</p>
+<p>29.566,33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 B</p>
+<p>231 B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acciones en favor de la ciudadanía española en el exterior.</p>
+<p>Acciones en favor de la ciudadanía española en el exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.564,67</p>
+<p>135.564,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135.564,67</p>
+<p>135.564,67</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 C</p>
+<p>231 C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios Sociales de la Seguridad Social a personas con discapacidad.</p>
+<p>Servicios Sociales de la Seguridad Social a personas con discapacidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.507,07</p>
+<p>100.507,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.507,07</p>
+<p>100.507,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 D</p>
+<p>231 D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios Sociales de la Seguridad Social a personas mayores.</p>
+<p>Servicios Sociales de la Seguridad Social a personas mayores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">220.025,57</p>
+<p>220.025,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">220.025,57</p>
+<p>220.025,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 E</p>
+<p>231 E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios sociales de la Seguridad Social.</p>
+<p>Otros servicios sociales de la Seguridad Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56.580,02</p>
+<p>56.580,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56.580,02</p>
+<p>56.580,02</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 F</p>
+<p>231 F</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios sociales del Estado.</p>
+<p>Otros servicios sociales del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250.403,11</p>
+<p>250.403,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250.403,11</p>
+<p>250.403,11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 G</p>
+<p>231 G</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atención a la infancia y a las familias.</p>
+<p>Atención a la infancia y a las familias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.851,26</p>
+<p>10.851,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.851,26</p>
+<p>10.851,26</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231H</p>
+<p>231H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Integración de los inmigrantes.</p>
+<p>Integración de los inmigrantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.919,46</p>
+<p>184.919,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">184.919,46</p>
+<p>184.919,46</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231I</p>
+<p>231I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autonomía personal y Atención a la Dependencia.</p>
+<p>Autonomía personal y Atención a la Dependencia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.581.569,77</p>
+<p>1.581.569,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.581.569,77</p>
+<p>1.581.569,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 M</p>
+<p>231 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios sociales de la Seguridad Social gestionados por las Comunidades Autónomas.</p>
+<p>Servicios sociales de la Seguridad Social gestionados por las Comunidades Autónomas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.178,49</p>
+<p>6.178,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.178,49</p>
+<p>6.178,49</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">231 N</p>
+<p>231 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coordinación en materia de extranjería e inmigración.</p>
+<p>Coordinación en materia de extranjería e inmigración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.051,80</p>
+<p>8.051,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.051,80</p>
+<p>8.051,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">232A</p>
+<p>232A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promoción y servicios a la juventud.</p>
+<p>Promoción y servicios a la juventud.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34.647,80</p>
+<p>34.647,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34.647,80</p>
+<p>34.647,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">232B</p>
+<p>232B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igualdad de oportunidades entre mujeres y hombres.</p>
+<p>Igualdad de oportunidades entre mujeres y hombres.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33.596,62</p>
+<p>33.596,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33.596,62</p>
+<p>33.596,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">232C</p>
+<p>232C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones para la prevención integral de la violencia de género.</p>
+<p>Actuaciones para la prevención integral de la violencia de género.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31.577,44</p>
+<p>31.577,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31.577,44</p>
+<p>31.577,44</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">232M</p>
+<p>232M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Promoción Social.</p>
+<p>Dirección y Servicios Generales de Promoción Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.434,80</p>
+<p>10.434,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.434,80</p>
+<p>10.434,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">239M</p>
+<p>239M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión de los servicios sociales de la Seguridad Social.</p>
+<p>Gestión de los servicios sociales de la Seguridad Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42.564,24</p>
+<p>42.564,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42.564,24</p>
+<p>42.564,24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">241A</p>
+<p>241A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fomento de la inserción y estabilidad laboral.</p>
+<p>Fomento de la inserción y estabilidad laboral.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.742.841,57</p>
+<p>7.742.841,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.742.841,57</p>
+<p>7.742.841,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">241 N</p>
+<p>241 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desarrollo de la economía social y de la responsabilidad social de las empresas.</p>
+<p>Desarrollo de la economía social y de la responsabilidad social de las empresas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.823,60</p>
+<p>7.823,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.823,60</p>
+<p>7.823,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">251 M</p>
+<p>251 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prestaciones a los desempleados.</p>
+<p>Prestaciones a los desempleados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30.974.836,28</p>
+<p>30.974.836,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30.974.836,28</p>
+<p>30.974.836,28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">261 M</p>
+<p>261 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Vivienda.</p>
+<p>Dirección y Servicios Generales de Vivienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.640,05</p>
+<p>19.640,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.640,05</p>
+<p>19.640,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">261 N</p>
+<p>261 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promoción, administración y ayudas para rehabilitación y acceso a vivienda.</p>
+<p>Promoción, administración y ayudas para rehabilitación y acceso a vivienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.393.237,73</p>
+<p>1.393.237,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">400,00</p>
+<p>400,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.393.637,73</p>
+<p>1.393.637,73</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">261O</p>
+<p>261O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ordenación y fomento de la edificación.</p>
+<p>Ordenación y fomento de la edificación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.802,19</p>
+<p>82.802,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.802,19</p>
+<p>82.802,19</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">261 P</p>
+<p>261 P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suelo y Políticas Urbanas.</p>
+<p>Suelo y Políticas Urbanas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.384,77</p>
+<p>2.384,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.384,77</p>
+<p>2.384,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">291A</p>
+<p>291A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y control de Seguridad y Protección Social.</p>
+<p>Inspección y control de Seguridad y Protección Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.227,06</p>
+<p>161.227,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.227,06</p>
+<p>161.227,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">291 M</p>
+<p>291 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Seguridad Social y Protección Social.</p>
+<p>Dirección y Servicios Generales de Seguridad Social y Protección Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.201.062,77</p>
+<p>6.201.062,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">466,43</p>
+<p>466,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.201.529,20</p>
+<p>6.201.529,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">311 M</p>
+<p>311 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Sanidad y Política Social.</p>
+<p>Dirección y Servicios Generales de Sanidad y Política Social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.047,05</p>
+<p>97.047,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.047,05</p>
+<p>97.047,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3110</p>
+<p>3110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cohesión y calidad del Sistema Nacional de Salud.</p>
+<p>Cohesión y calidad del Sistema Nacional de Salud.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199.937,05</p>
+<p>199.937,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199.937,05</p>
+<p>199.937,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312A</p>
+<p>312A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asistencia hospitalaria en las Fuerzas Armadas.</p>
+<p>Asistencia hospitalaria en las Fuerzas Armadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205.102,81</p>
+<p>205.102,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205.102,81</p>
+<p>205.102,81</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312B</p>
+<p>312B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atención primaria de salud. Instituto Nacional de Gestión Sanitaria.</p>
+<p>Atención primaria de salud. Instituto Nacional de Gestión Sanitaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.005,08</p>
+<p>63.005,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.005,08</p>
+<p>63.005,08</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312C</p>
+<p>312C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atención especializada de salud. Instituto Nacional de Gestión Sanitaria.</p>
+<p>Atención especializada de salud. Instituto Nacional de Gestión Sanitaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.983,55</p>
+<p>150.983,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.983,55</p>
+<p>150.983,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312D</p>
+<p>312D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Medicina marítima.</p>
+<p>Medicina marítima.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38.548,16</p>
+<p>38.548,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38.548,16</p>
+<p>38.548,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312E</p>
+<p>312E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asistencia sanitaria del Mutualismo Administrativo.</p>
+<p>Asistencia sanitaria del Mutualismo Administrativo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.104.700,06</p>
+<p>2.104.700,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.104.700,06</p>
+<p>2.104.700,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312F</p>
+<p>312F</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atención primaria de salud de Mutuas de Accidentes de Trabajo y E.P e I.S.M.</p>
+<p>Atención primaria de salud de Mutuas de Accidentes de Trabajo y E.P e I.S.M.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.180.958,39</p>
+<p>1.180.958,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.180.958,39</p>
+<p>1.180.958,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312G</p>
+<p>312G</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Atención especializada de salud de Mutuas de Accidentes de Trabajo y E.P e I.S.M.</p>
+<p>Atención especializada de salud de Mutuas de Accidentes de Trabajo y E.P e I.S.M.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">438.147,32</p>
+<p>438.147,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">438.147,32</p>
+<p>438.147,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">312M</p>
+<p>312M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asistencia sanitaria de la Seguridad Social gestionada por Comunidades Autónomas.</p>
+<p>Asistencia sanitaria de la Seguridad Social gestionada por Comunidades Autónomas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46.872,36</p>
+<p>46.872,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46.872,36</p>
+<p>46.872,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">313A</p>
+<p>313A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Oferta y uso racional de medicamentos y productos sanitarios.</p>
+<p>Oferta y uso racional de medicamentos y productos sanitarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.951,20</p>
+<p>54.951,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.951,20</p>
+<p>54.951,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">313B</p>
+<p>313B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salud pública y sanidad exterior.</p>
+<p>Salud pública y sanidad exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27.959,62</p>
+<p>27.959,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27.959,62</p>
+<p>27.959,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">313C</p>
+<p>313C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad alimentaria y nutrición.</p>
+<p>Seguridad alimentaria y nutrición.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.805,44</p>
+<p>18.805,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.805,44</p>
+<p>18.805,44</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">313D</p>
+<p>313D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Terapias avanzadas, medicina regenerativa y transplantes en el Sistema Nacional de Salud.</p>
+<p>Terapias avanzadas, medicina regenerativa y transplantes en el Sistema Nacional de Salud.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.583,76</p>
+<p>7.583,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.583,76</p>
+<p>7.583,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">321M</p>
+<p>321M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de la Educación.</p>
+<p>Dirección y Servicios Generales de la Educación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.197,26</p>
+<p>82.197,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.197,26</p>
+<p>82.197,26</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">321 N</p>
+<p>321 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Formación permanente del profesorado de Educación.</p>
+<p>Formación permanente del profesorado de Educación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.562,05</p>
+<p>7.562,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.562,05</p>
+<p>7.562,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322A</p>
+<p>322A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación infantil y primaria.</p>
+<p>Educación infantil y primaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">643.820,37</p>
+<p>643.820,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">643.820,37</p>
+<p>643.820,37</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322B</p>
+<p>322B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación secundaria, formación profesional y Escuelas Oficiales de Idiomas.</p>
+<p>Educación secundaria, formación profesional y Escuelas Oficiales de Idiomas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">217.390,65</p>
+<p>217.390,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">217.390,65</p>
+<p>217.390,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322C</p>
+<p>322C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas universitarias.</p>
+<p>Enseñanzas universitarias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">374.053,36</p>
+<p>374.053,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">374.053,36</p>
+<p>374.053,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322D</p>
+<p>322D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación especial.</p>
+<p>Educación especial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.149,13</p>
+<p>14.149,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.149,13</p>
+<p>14.149,13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322E</p>
+<p>322E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas artísticas.</p>
+<p>Enseñanzas artísticas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.915,57</p>
+<p>6.915,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.915,57</p>
+<p>6.915,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322F</p>
+<p>322F</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación en el exterior.</p>
+<p>Educación en el exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.727,90</p>
+<p>125.727,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.727,90</p>
+<p>125.727,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322G</p>
+<p>322G</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación compensatoria.</p>
+<p>Educación compensatoria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.799,93</p>
+<p>61.799,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.799,93</p>
+<p>61.799,93</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322H</p>
+<p>322H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación permanente y a distancia no universitaria.</p>
+<p>Educación permanente y a distancia no universitaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.625,23</p>
+<p>6.625,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.625,23</p>
+<p>6.625,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322I</p>
+<p>322I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas especiales.</p>
+<p>Enseñanzas especiales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.194,28</p>
+<p>1.194,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.194,28</p>
+<p>1.194,28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322J</p>
+<p>322J</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nuevas tecnologías aplicadas a la educación.</p>
+<p>Nuevas tecnologías aplicadas a la educación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.090,48</p>
+<p>108.090,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.090,48</p>
+<p>108.090,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">322K</p>
+<p>322K</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deporte en edad escolar y en la Universidad.</p>
+<p>Deporte en edad escolar y en la Universidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.321,07</p>
+<p>19.321,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.321,07</p>
+<p>19.321,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">323M</p>
+<p>323M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Becas y ayudas a estudiantes.</p>
+<p>Becas y ayudas a estudiantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.395.518,47</p>
+<p>1.395.518,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.395.518,47</p>
+<p>1.395.518,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">324M</p>
+<p>324M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios complementarios de la enseñanza.</p>
+<p>Servicios complementarios de la enseñanza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.817,11</p>
+<p>6.817,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.817,11</p>
+<p>6.817,11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">324N</p>
+<p>324N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apoyo a otras actividades escolares.</p>
+<p>Apoyo a otras actividades escolares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.905,40</p>
+<p>20.905,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.905,40</p>
+<p>20.905,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">331 M</p>
+<p>331 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Cultura.</p>
+<p>Dirección y Servicios Generales de Cultura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51.489,17</p>
+<p>51.489,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51.489,17</p>
+<p>51.489,17</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">332A</p>
+<p>332A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Archivos.</p>
+<p>Archivos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52.815,10</p>
+<p>52.815,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52.815,10</p>
+<p>52.815,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">332B</p>
+<p>332B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bibliotecas.</p>
+<p>Bibliotecas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.369,30</p>
+<p>97.369,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.369,30</p>
+<p>97.369,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">333A</p>
+<p>333A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Museos.</p>
+<p>Museos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">229.650,71</p>
+<p>229.650,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">229.650,71</p>
+<p>229.650,71</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">333B</p>
+<p>333B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exposiciones.</p>
+<p>Exposiciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.833,25</p>
+<p>4.833,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.833,25</p>
+<p>4.833,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">334A</p>
+<p>334A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promoción y cooperación cultural.</p>
+<p>Promoción y cooperación cultural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57.718,63</p>
+<p>57.718,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57.718,63</p>
+<p>57.718,63</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">334B</p>
+<p>334B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promoción del libro y publicaciones culturales.</p>
+<p>Promoción del libro y publicaciones culturales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.410,31</p>
+<p>14.410,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.410,31</p>
+<p>14.410,31</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">334C</p>
+<p>334C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fomento de las industrias culturales.</p>
+<p>Fomento de las industrias culturales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29.552,00</p>
+<p>29.552,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29.552,00</p>
+<p>29.552,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">335A</p>
+<p>335A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Música y danza.</p>
+<p>Música y danza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.817,07</p>
+<p>122.817,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.817,07</p>
+<p>122.817,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">335B</p>
+<p>335B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Teatro.</p>
+<p>Teatro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.725,98</p>
+<p>54.725,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.725,98</p>
+<p>54.725,98</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">335C</p>
+<p>335C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cinematografía.</p>
+<p>Cinematografía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.166,12</p>
+<p>123.166,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.166,12</p>
+<p>123.166,12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">336A</p>
+<p>336A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fomento y apoyo de las actividades deportivas.</p>
+<p>Fomento y apoyo de las actividades deportivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165.749,33</p>
+<p>165.749,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165.749,33</p>
+<p>165.749,33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">337A</p>
+<p>337A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Administración del Patrimonio Histórico-Nacional.</p>
+<p>Administración del Patrimonio Histórico-Nacional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.555,95</p>
+<p>122.555,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p>100,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.655,95</p>
+<p>122.655,95</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">337B</p>
+<p>337B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Conservación y restauración de bienes culturales.</p>
+<p>Conservación y restauración de bienes culturales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60.460,55</p>
+<p>60.460,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60.460,55</p>
+<p>60.460,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">337C</p>
+<p>337C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección del Patrimonio Histórico.</p>
+<p>Protección del Patrimonio Histórico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.579,88</p>
+<p>11.579,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.579,88</p>
+<p>11.579,88</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">411M</p>
+<p>411M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Agricultura, Pesca y Alimentación.</p>
+<p>Dirección y Servicios Generales de Agricultura, Pesca y Alimentación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.712,40</p>
+<p>3.712,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.712,40</p>
+<p>3.712,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">412A</p>
+<p>412A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Competitividad y calidad de la producción agrícola.</p>
+<p>Competitividad y calidad de la producción agrícola.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">77.564,25</p>
+<p>77.564,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">77.564,25</p>
+<p>77.564,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">412B</p>
+<p>412B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Competitividad y calidad de la producción ganadera.</p>
+<p>Competitividad y calidad de la producción ganadera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174.340,06</p>
+<p>174.340,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174.340,06</p>
+<p>174.340,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">412M</p>
+<p>412M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regulación de los mercados agrarios.</p>
+<p>Regulación de los mercados agrarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.174.689,82</p>
+<p>6.174.689,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.151,82</p>
+<p>90.151,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.264.841,64</p>
+<p>6.264.841,64</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">413A</p>
+<p>413A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Competitividad industria agroalimentaria y calidad alimentaria.</p>
+<p>Competitividad industria agroalimentaria y calidad alimentaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79.795,56</p>
+<p>79.795,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79.795,56</p>
+<p>79.795,56</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">414A</p>
+<p>414A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión de Recursos Hídricos para el Regadío.</p>
+<p>Gestión de Recursos Hídricos para el Regadío.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181.889,32</p>
+<p>181.889,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181.889,32</p>
+<p>181.889,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">414B</p>
+<p>414B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desarrollo del medio rural.</p>
+<p>Desarrollo del medio rural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.558.827,41</p>
+<p>1.558.827,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.558.827,41</p>
+<p>1.558.827,41</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">414C</p>
+<p>414C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Programa de Desarrollo Rural Sostenible.</p>
+<p>Programa de Desarrollo Rural Sostenible.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244.550,00</p>
+<p>244.550,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244.550,00</p>
+<p>244.550,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">415A</p>
+<p>415A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección de los recursos pesqueros y desarrollo sostenible.</p>
+<p>Protección de los recursos pesqueros y desarrollo sostenible.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47.676,48</p>
+<p>47.676,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47.676,48</p>
+<p>47.676,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">415B</p>
+<p>415B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mejora de estructuras y mercados pesqueros.</p>
+<p>Mejora de estructuras y mercados pesqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.110,38</p>
+<p>125.110,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.110,38</p>
+<p>125.110,38</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">416A</p>
+<p>416A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Previsión de riesgos en las producciones agrarias y pesqueras.</p>
+<p>Previsión de riesgos en las producciones agrarias y pesqueras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.961,90</p>
+<p>290.961,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.961,90</p>
+<p>290.961,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">421 M</p>
+<p>421 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Industria y Energía.</p>
+<p>Dirección y Servicios Generales de Industria y Energía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.081,78</p>
+<p>102.081,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.081,78</p>
+<p>102.081,78</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">421 N</p>
+<p>421 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regulación y protección de la propiedad industrial.</p>
+<p>Regulación y protección de la propiedad industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">66.806,65</p>
+<p>66.806,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">66.806,65</p>
+<p>66.806,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">421O</p>
+<p>421O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calidad y seguridad industrial.</p>
+<p>Calidad y seguridad industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.264,44</p>
+<p>7.264,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.264,44</p>
+<p>7.264,44</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">422A</p>
+<p>422A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Incentivos regionales a la localización industrial.</p>
+<p>Incentivos regionales a la localización industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199.234,15</p>
+<p>199.234,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199.234,15</p>
+<p>199.234,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">422B</p>
+<p>422B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desarrollo industrial.</p>
+<p>Desarrollo industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">692.149,83</p>
+<p>692.149,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">692.149,83</p>
+<p>692.149,83</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">422M</p>
+<p>422M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reconversión y reindustrialización.</p>
+<p>Reconversión y reindustrialización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">802.818,89</p>
+<p>802.818,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">802.818,89</p>
+<p>802.818,89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">423M</p>
+<p>423M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desarrollo alternativo de las comarcas mineras del carbón.</p>
+<p>Desarrollo alternativo de las comarcas mineras del carbón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">260.000,00</p>
+<p>260.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">260.000,00</p>
+<p>260.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">423N</p>
+<p>423N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explotación minera.</p>
+<p>Explotación minera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">720.283,97</p>
+<p>720.283,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">720.283,97</p>
+<p>720.283,97</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">424M</p>
+<p>424M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad nuclear y protección radiológica.</p>
+<p>Seguridad nuclear y protección radiológica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50.977,30</p>
+<p>50.977,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50.977,30</p>
+<p>50.977,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">425A</p>
+<p>425A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Normativa y desarrollo energético.</p>
+<p>Normativa y desarrollo energético.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">327.719,15</p>
+<p>327.719,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">327.719,15</p>
+<p>327.719,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">431A</p>
+<p>431A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promoción comercial e internacionalización de la empresa.</p>
+<p>Promoción comercial e internacionalización de la empresa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">486.798,52</p>
+<p>486.798,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">486.798,52</p>
+<p>486.798,52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">431 M</p>
+<p>431 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Comercio y Turismo.</p>
+<p>Dirección y Servicios Generales de Comercio y Turismo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28.093,25</p>
+<p>28.093,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28.093,25</p>
+<p>28.093,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">431 N</p>
+<p>431 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ordenación del comercio exterior.</p>
+<p>Ordenación del comercio exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.462,39</p>
+<p>13.462,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.462,39</p>
+<p>13.462,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">431O</p>
+<p>431O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ordenación y modernización de las estructuras comerciales.</p>
+<p>Ordenación y modernización de las estructuras comerciales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28.777,53</p>
+<p>28.777,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28.777,53</p>
+<p>28.777,53</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">432A</p>
+<p>432A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coordinación y promoción del turismo.</p>
+<p>Coordinación y promoción del turismo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">776.533,55</p>
+<p>776.533,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">776.533,55</p>
+<p>776.533,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">433M</p>
+<p>433M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apoyo a la pequeña y mediana empresa.</p>
+<p>Apoyo a la pequeña y mediana empresa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177.685,36</p>
+<p>177.685,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177.685,36</p>
+<p>177.685,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">441 M</p>
+<p>441 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subvenciones y apoyo al transporte terrestre.</p>
+<p>Subvenciones y apoyo al transporte terrestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">652.357,29</p>
+<p>652.357,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">652.357,29</p>
+<p>652.357,29</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">441 N</p>
+<p>441 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subvenciones y apoyo al transporte marítimo.</p>
+<p>Subvenciones y apoyo al transporte marítimo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.545,75</p>
+<p>104.545,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.545,75</p>
+<p>104.545,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">441O</p>
+<p>441O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subvenciones y apoyo al transporte aéreo.</p>
+<p>Subvenciones y apoyo al transporte aéreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">372.264,30</p>
+<p>372.264,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">372.264,30</p>
+<p>372.264,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">441 P</p>
+<p>441 P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subvenciones al transporte extrapeninsular de mercancías.</p>
+<p>Subvenciones al transporte extrapeninsular de mercancías.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57.000,00</p>
+<p>57.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57.000,00</p>
+<p>57.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">451 M</p>
+<p>451 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estudios y servicios de asistencia técnica en Obras Públicas y Urbanismo.</p>
+<p>Estudios y servicios de asistencia técnica en Obras Públicas y Urbanismo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46.567,73</p>
+<p>46.567,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46.567,73</p>
+<p>46.567,73</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">451 N</p>
+<p>451 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Fomento.</p>
+<p>Dirección y Servicios Generales de Fomento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.803.741,00</p>
+<p>3.803.741,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.803.741,00</p>
+<p>3.803.741,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">451O</p>
+<p>451O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Medio Ambiente.</p>
+<p>Dirección y Servicios Generales de Medio Ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">225.431,67</p>
+<p>225.431,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">225.431,67</p>
+<p>225.431,67</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">452A</p>
+<p>452A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión e infraestructuras del agua.</p>
+<p>Gestión e infraestructuras del agua.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.621.669,11</p>
+<p>1.621.669,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">189.545,14</p>
+<p>189.545,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.811.214,25</p>
+<p>1.811.214,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">452M</p>
+<p>452M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Normativa y ordenación territorial de los recursos hídricos.</p>
+<p>Normativa y ordenación territorial de los recursos hídricos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.518,71</p>
+<p>290.518,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290.518,71</p>
+<p>290.518,71</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">453A</p>
+<p>453A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infraestructura del transporte ferroviario.</p>
+<p>Infraestructura del transporte ferroviario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.454.140,52</p>
+<p>2.454.140,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.454.140,52</p>
+<p>2.454.140,52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">453B</p>
+<p>453B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Creación de infraestructura de carreteras.</p>
+<p>Creación de infraestructura de carreteras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.901.333,12</p>
+<p>2.901.333,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.901.333,12</p>
+<p>2.901.333,12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">453C</p>
+<p>453C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Conservación y explotación de carreteras.</p>
+<p>Conservación y explotación de carreteras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.325.878,71</p>
+<p>1.325.878,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.325.878,71</p>
+<p>1.325.878,71</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">453M</p>
+<p>453M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ordenación e inspección del transporte terrestre.</p>
+<p>Ordenación e inspección del transporte terrestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">253.487,91</p>
+<p>253.487,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">253.487,91</p>
+<p>253.487,91</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">454M</p>
+<p>454M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad del tráfico marítimo y vigilancia costera.</p>
+<p>Seguridad del tráfico marítimo y vigilancia costera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219.097,53</p>
+<p>219.097,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219.097,53</p>
+<p>219.097,53</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">455M</p>
+<p>455M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regulación y supervisión de la aviación civil.</p>
+<p>Regulación y supervisión de la aviación civil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64.046,90</p>
+<p>64.046,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64.046,90</p>
+<p>64.046,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">456A</p>
+<p>456A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calidad del agua.</p>
+<p>Calidad del agua.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">460.717,77</p>
+<p>460.717,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.116,80</p>
+<p>11.116,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">471.834,57</p>
+<p>471.834,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">456B</p>
+<p>456B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección y mejora del medio ambiente.</p>
+<p>Protección y mejora del medio ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55.770,61</p>
+<p>55.770,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55.770,61</p>
+<p>55.770,61</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">456C</p>
+<p>456C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección y mejora del medio natural.</p>
+<p>Protección y mejora del medio natural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">371.903,39</p>
+<p>371.903,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">371.903,39</p>
+<p>371.903,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">456D</p>
+<p>456D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuación en la costa.</p>
+<p>Actuación en la costa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">280.829,10</p>
+<p>280.829,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">280.829,10</p>
+<p>280.829,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">456M</p>
+<p>456M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones para la prevención de la contaminación y el cambio climático.</p>
+<p>Actuaciones para la prevención de la contaminación y el cambio climático.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.188,55</p>
+<p>121.188,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121.188,55</p>
+<p>121.188,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">457M</p>
+<p>457M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infraestructuras en comarcas mineras del carbón.</p>
+<p>Infraestructuras en comarcas mineras del carbón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">390.000,00</p>
+<p>390.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">390.000,00</p>
+<p>390.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">462M</p>
+<p>462M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y estudios sociológicos y constitucionales.</p>
+<p>Investigación y estudios sociológicos y constitucionales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.981,03</p>
+<p>13.981,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.981,03</p>
+<p>13.981,03</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">462N</p>
+<p>462N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y estudios estadísticos y económicos.</p>
+<p>Investigación y estudios estadísticos y económicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.623,48</p>
+<p>7.623,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.623,48</p>
+<p>7.623,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">463A</p>
+<p>463A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación científica.</p>
+<p>Investigación científica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">861.030,69</p>
+<p>861.030,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,52</p>
+<p>21,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">861.052,21</p>
+<p>861.052,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">463B</p>
+<p>463B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fomento y coordinación de la investigación científica y técnica.</p>
+<p>Fomento y coordinación de la investigación científica y técnica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.097.057,76</p>
+<p>2.097.057,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.097.057,76</p>
+<p>2.097.057,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">464A</p>
+<p>464A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y estudios de las Fuerzas Armadas.</p>
+<p>Investigación y estudios de las Fuerzas Armadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">231.889,89</p>
+<p>231.889,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">231.889,89</p>
+<p>231.889,89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">464B</p>
+<p>464B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apoyo a la innovación tecnológica en el sector de la defensa.</p>
+<p>Apoyo a la innovación tecnológica en el sector de la defensa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">950.908,61</p>
+<p>950.908,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">950.908,61</p>
+<p>950.908,61</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">465A</p>
+<p>465A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación sanitaria.</p>
+<p>Investigación sanitaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">386.412,38</p>
+<p>386.412,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">386.412,38</p>
+<p>386.412,38</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">466A</p>
+<p>466A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y evaluación educativa.</p>
+<p>Investigación y evaluación educativa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.126,32</p>
+<p>5.126,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.126,32</p>
+<p>5.126,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467A</p>
+<p>467A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Astronomía y astrofísica.</p>
+<p>Astronomía y astrofísica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.929,96</p>
+<p>20.929,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.133,36</p>
+<p>1.133,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22.063,32</p>
+<p>22.063,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467B</p>
+<p>467B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación, desarrollo y experimentación en transporte e infraestructuras.</p>
+<p>Investigación, desarrollo y experimentación en transporte e infraestructuras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.617,90</p>
+<p>4.617,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.617,90</p>
+<p>4.617,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467C</p>
+<p>467C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y desarrollo tecnológico-industrial.</p>
+<p>Investigación y desarrollo tecnológico-industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.898.733,27</p>
+<p>2.898.733,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.898.733,27</p>
+<p>2.898.733,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467D</p>
+<p>467D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y experimentación agraria.</p>
+<p>Investigación y experimentación agraria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.835,28</p>
+<p>80.835,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000,00</p>
+<p>2.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82.835,28</p>
+<p>82.835,28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467E</p>
+<p>467E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación oceanográfica y pesquera.</p>
+<p>Investigación oceanográfica y pesquera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.211,67</p>
+<p>61.211,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">72,89</p>
+<p>72,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.284,56</p>
+<p>61.284,56</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467F</p>
+<p>467F</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación geológico-minera y medioambiental.</p>
+<p>Investigación geológico-minera y medioambiental.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31.140,32</p>
+<p>31.140,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31.140,32</p>
+<p>31.140,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467G</p>
+<p>467G</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y desarrollo de la Sociedad de la Información.</p>
+<p>Investigación y desarrollo de la Sociedad de la Información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">524.549,35</p>
+<p>524.549,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">524.549,35</p>
+<p>524.549,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467H</p>
+<p>467H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación energética, medioambiental y tecnológica.</p>
+<p>Investigación energética, medioambiental y tecnológica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.563,52</p>
+<p>91.563,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">163,05</p>
+<p>163,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.726,57</p>
+<p>91.726,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">467I</p>
+<p>467I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Innovación tecnológica de las telecomunicaciones.</p>
+<p>Innovación tecnológica de las telecomunicaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.003.166,82</p>
+<p>1.003.166,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.003.166,82</p>
+<p>1.003.166,82</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">491 M</p>
+<p>491 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ordenación y promoción de las telecomunicaciones y de la Sociedad de la Información.</p>
+<p>Ordenación y promoción de las telecomunicaciones y de la Sociedad de la Información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.984,11</p>
+<p>35.984,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.984,11</p>
+<p>35.984,11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">491 N</p>
+<p>491 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicio postal universal.</p>
+<p>Servicio postal universal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.039,03</p>
+<p>80.039,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.039,03</p>
+<p>80.039,03</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">492M</p>
+<p>492M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Defensa de la competencia.</p>
+<p>Defensa de la competencia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.260,48</p>
+<p>13.260,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.260,48</p>
+<p>13.260,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">492N</p>
+<p>492N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regulación y vigilancia de la competencia en el Mercado de Tabacos.</p>
+<p>Regulación y vigilancia de la competencia en el Mercado de Tabacos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.256,68</p>
+<p>10.256,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.256,68</p>
+<p>10.256,68</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">492O</p>
+<p>492O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección y promoción de los derechos de los consumidores y usuarios.</p>
+<p>Protección y promoción de los derechos de los consumidores y usuarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.972,55</p>
+<p>24.972,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.972,55</p>
+<p>24.972,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">493M</p>
+<p>493M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección, control y gestión de seguros.</p>
+<p>Dirección, control y gestión de seguros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">293.652,78</p>
+<p>293.652,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">293.652,78</p>
+<p>293.652,78</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">493N</p>
+<p>493N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regulación de mercados financieros.</p>
+<p>Regulación de mercados financieros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.585,62</p>
+<p>1.585,62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.585,62</p>
+<p>1.585,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">493O</p>
+<p>493O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regulación contable y de auditorías.</p>
+<p>Regulación contable y de auditorías.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.721,35</p>
+<p>7.721,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.721,35</p>
+<p>7.721,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">494M</p>
+<p>494M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Administración de las relaciones laborales y condiciones de trabajo.</p>
+<p>Administración de las relaciones laborales y condiciones de trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.496,65</p>
+<p>54.496,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.496,65</p>
+<p>54.496,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">495A</p>
+<p>495A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desarrollo y aplicación de la información geográfica española.</p>
+<p>Desarrollo y aplicación de la información geográfica española.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49.756,69</p>
+<p>49.756,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49.756,69</p>
+<p>49.756,69</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">495B</p>
+<p>495B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Meteorología.</p>
+<p>Meteorología.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.517,69</p>
+<p>109.517,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.517,69</p>
+<p>109.517,69</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">495C</p>
+<p>495C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Metrología.</p>
+<p>Metrología.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.192,01</p>
+<p>10.192,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.192,01</p>
+<p>10.192,01</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">911M</p>
+<p>911M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jefatura del Estado.</p>
+<p>Jefatura del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.896,92</p>
+<p>8.896,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.896,92</p>
+<p>8.896,92</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">911N</p>
+<p>911N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividad legislativa.</p>
+<p>Actividad legislativa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">231.023,22</p>
+<p>231.023,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>20,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">231.043,22</p>
+<p>231.043,22</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">911O</p>
+<p>911O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control externo del Sector Público.</p>
+<p>Control externo del Sector Público.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.188,81</p>
+<p>61.188,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.188,81</p>
+<p>61.188,81</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">911P</p>
+<p>911P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control Constitucional.</p>
+<p>Control Constitucional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27.686,97</p>
+<p>27.686,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27.686,97</p>
+<p>27.686,97</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">911Q</p>
+<p>911Q</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apoyo a la gestión administrativa de la Jefatura del Estado.</p>
+<p>Apoyo a la gestión administrativa de la Jefatura del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.530,77</p>
+<p>6.530,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.530,77</p>
+<p>6.530,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">912M</p>
+<p>912M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Presidencia del Gobierno.</p>
+<p>Presidencia del Gobierno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.987,69</p>
+<p>99.987,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.987,69</p>
+<p>99.987,69</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">912N</p>
+<p>912N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alto asesoramiento del Estado.</p>
+<p>Alto asesoramiento del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.546,63</p>
+<p>11.546,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.546,63</p>
+<p>11.546,63</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">912O</p>
+<p>912O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección.</p>
+<p>Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.534,60</p>
+<p>119.534,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.534,60</p>
+<p>119.534,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">912P</p>
+<p>912P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asesoramiento del Gobierno en materia social, económica y laboral.</p>
+<p>Asesoramiento del Gobierno en materia social, económica y laboral.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.422,13</p>
+<p>10.422,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.422,13</p>
+<p>10.422,13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">912Q</p>
+<p>912Q</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asesoramiento para la protección de los intereses nacionales.</p>
+<p>Asesoramiento para la protección de los intereses nacionales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">241.372,58</p>
+<p>241.372,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">241.372,58</p>
+<p>241.372,58</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921 N</p>
+<p>921 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y organización de la Administración Pública.</p>
+<p>Dirección y organización de la Administración Pública.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.668,55</p>
+<p>24.668,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.668,55</p>
+<p>24.668,55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921O</p>
+<p>921O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Formación del personal de las Administraciones Públicas.</p>
+<p>Formación del personal de las Administraciones Públicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159.774,14</p>
+<p>159.774,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159.774,14</p>
+<p>159.774,14</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921 P</p>
+<p>921 P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Administración periférica del Estado.</p>
+<p>Administración periférica del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">336.861,47</p>
+<p>336.861,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">336.861,47</p>
+<p>336.861,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921Q</p>
+<p>921Q</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cobertura informativa.</p>
+<p>Cobertura informativa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.016,80</p>
+<p>19.016,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19.016,80</p>
+<p>19.016,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921 R</p>
+<p>921 R</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Publicidad de las normas legales.</p>
+<p>Publicidad de las normas legales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39.112,92</p>
+<p>39.112,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39.112,92</p>
+<p>39.112,92</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921S</p>
+<p>921S</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asesoramiento y defensa intereses del Estado.</p>
+<p>Asesoramiento y defensa intereses del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.112,29</p>
+<p>35.112,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.112,29</p>
+<p>35.112,29</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921T</p>
+<p>921T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de transportes de Ministerios.</p>
+<p>Servicios de transportes de Ministerios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53.652,02</p>
+<p>53.652,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53.652,02</p>
+<p>53.652,02</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921U</p>
+<p>921U</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Publicaciones.</p>
+<p>Publicaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.113,30</p>
+<p>3.113,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.113,30</p>
+<p>3.113,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">921 V</p>
+<p>921 V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Evaluación de políticas y programas públicos, calidad de los servicios e impacto normativo.</p>
+<p>Evaluación de políticas y programas públicos, calidad de los servicios e impacto normativo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.927,75</p>
+<p>4.927,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.927,75</p>
+<p>4.927,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">922M</p>
+<p>922M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Organización territorial del Estado y desarrollo de sus sistemas de colaboración.</p>
+<p>Organización territorial del Estado y desarrollo de sus sistemas de colaboración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.090,97</p>
+<p>4.090,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.090,97</p>
+<p>4.090,97</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">922N</p>
+<p>922N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coordinación y relaciones financieras con los Entes Territoriales.</p>
+<p>Coordinación y relaciones financieras con los Entes Territoriales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.746,65</p>
+<p>6.746,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.746,65</p>
+<p>6.746,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">922Q</p>
+<p>922Q</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Política Territorial.</p>
+<p>Dirección y Servicios Generales de Política Territorial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22.341,04</p>
+<p>22.341,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,01</p>
+<p>6,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22.347,05</p>
+<p>22.347,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">923A</p>
+<p>923A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión del Patrimonio del Estado.</p>
+<p>Gestión del Patrimonio del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">585.054,45</p>
+<p>585.054,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">585.054,45</p>
+<p>585.054,45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">923C</p>
+<p>923C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elaboración y difusión estadística.</p>
+<p>Elaboración y difusión estadística.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">217.597,86</p>
+<p>217.597,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">217.597,86</p>
+<p>217.597,86</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">923M</p>
+<p>923M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dirección y Servicios Generales de Economía y Hacienda.</p>
+<p>Dirección y Servicios Generales de Economía y Hacienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.123.700,67</p>
+<p>1.123.700,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.123.700,67</p>
+<p>1.123.700,67</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">923N</p>
+<p>923N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Formación del personal de Economía y Hacienda.</p>
+<p>Formación del personal de Economía y Hacienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.722,09</p>
+<p>15.722,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.722,09</p>
+<p>15.722,09</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">923O</p>
+<p>923O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión de la Deuda y de la Tesorería del Estado.</p>
+<p>Gestión de la Deuda y de la Tesorería del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.275,10</p>
+<p>11.275,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.275,10</p>
+<p>11.275,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">923P</p>
+<p>923P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Relaciones con los Organismos Financieros Multilaterales.</p>
+<p>Relaciones con los Organismos Financieros Multilaterales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">709.417,36</p>
+<p>709.417,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">709.417,36</p>
+<p>709.417,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">924M</p>
+<p>924M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elecciones y Partidos Políticos.</p>
+<p>Elecciones y Partidos Políticos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.769,82</p>
+<p>97.769,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97.769,82</p>
+<p>97.769,82</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">929M</p>
+<p>929M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Imprevistos y funciones no clasificadas.</p>
+<p>Imprevistos y funciones no clasificadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.139.374,44</p>
+<p>2.139.374,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.139.374,44</p>
+<p>2.139.374,44</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">929N</p>
+<p>929N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fondo de contingencia de ejecución presupuestaria.</p>
+<p>Fondo de contingencia de ejecución presupuestaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.704.977,50</p>
+<p>3.704.977,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.704.977,50</p>
+<p>3.704.977,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">931 M</p>
+<p>931 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Previsión y política económica.</p>
+<p>Previsión y política económica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65.284,66</p>
+<p>65.284,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65.284,66</p>
+<p>65.284,66</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">931 N</p>
+<p>931 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Política presupuestaria.</p>
+<p>Política presupuestaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53.154,12</p>
+<p>53.154,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53.154,12</p>
+<p>53.154,12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">931O</p>
+<p>931O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Política tributaria.</p>
+<p>Política tributaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.549,43</p>
+<p>8.549,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.549,43</p>
+<p>8.549,43</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">931 P</p>
+<p>931 P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control interno y Contabilidad Pública.</p>
+<p>Control interno y Contabilidad Pública.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88.076,20</p>
+<p>88.076,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88.076,20</p>
+<p>88.076,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">932A</p>
+<p>932A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aplicación del sistema tributario estatal.</p>
+<p>Aplicación del sistema tributario estatal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.135.151,18</p>
+<p>1.135.151,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.135.151,18</p>
+<p>1.135.151,18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">932M</p>
+<p>932M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gestión del catastro inmobiliario.</p>
+<p>Gestión del catastro inmobiliario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.186,46</p>
+<p>117.186,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117.186,46</p>
+<p>117.186,46</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">932N</p>
+<p>932N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Resolución de reclamaciones económico-administrativas.</p>
+<p>Resolución de reclamaciones económico-administrativas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32.558,05</p>
+<p>32.558,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32.558,05</p>
+<p>32.558,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">941 M</p>
+<p>941 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencias a Comunidades Autónomas por participación en ingresos Estado.</p>
+<p>Transferencias a Comunidades Autónomas por participación en ingresos Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30.361.914,56</p>
+<p>30.361.914,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30.361.914,56</p>
+<p>30.361.914,56</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">941 N</p>
+<p>941 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencias a Comunidades Autónomas por los Fondos de Compensación Interterritorial.</p>
+<p>Transferencias a Comunidades Autónomas por los Fondos de Compensación Interterritorial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.225.770,00</p>
+<p>1.225.770,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.225.770,00</p>
+<p>1.225.770,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">941O</p>
+<p>941O</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras transferencias a Comunidades Autónomas.</p>
+<p>Otras transferencias a Comunidades Autónomas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.361.848,40</p>
+<p>12.361.848,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.361.848,40</p>
+<p>12.361.848,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">942A</p>
+<p>942A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cooperación económica local del Estado.</p>
+<p>Cooperación económica local del Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.159.539,57</p>
+<p>5.159.539,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.159.539,57</p>
+<p>5.159.539,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">942M</p>
+<p>942M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencias a Entidades Locales por participación en ingresos Estado.</p>
+<p>Transferencias a Entidades Locales por participación en ingresos Estado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.827.145,32</p>
+<p>11.827.145,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.827.145,32</p>
+<p>11.827.145,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">942N</p>
+<p>942N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras aportaciones a Entidades Locales.</p>
+<p>Otras aportaciones a Entidades Locales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">241.015,75</p>
+<p>241.015,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">241.015,75</p>
+<p>241.015,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">943M</p>
+<p>943M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transferencias al Presupuesto General de la Unión Europea.</p>
+<p>Transferencias al Presupuesto General de la Unión Europea.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.202.917,00</p>
+<p>12.202.917,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.202.917,00</p>
+<p>12.202.917,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">943N</p>
+<p>943N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cooperación al desarrollo a través del Fondo Europeo de Desarrollo.</p>
+<p>Cooperación al desarrollo a través del Fondo Europeo de Desarrollo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">218.420,00</p>
+<p>218.420,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">218.420,00</p>
+<p>218.420,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">951 M</p>
+<p>951 M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización y gastos financieros de la deuda pública en moneda nacional.</p>
+<p>Amortización y gastos financieros de la deuda pública en moneda nacional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.937.902,97</p>
+<p>21.937.902,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">34.524.761,57</p>
+<p>34.524.761,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56.462.664,54</p>
+<p>56.462.664,54</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">951 N</p>
+<p>951 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Amortización y gastos financieros de la deuda pública en moneda extranjera.</p>
+<p>Amortización y gastos financieros de la deuda pública en moneda extranjera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.262.097,03</p>
+<p>1.262.097,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">883.520,71</p>
+<p>883.520,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.145.617,74</p>
+<p>2.145.617,74</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Total</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">350.695.865,78</p>
+<p>350.695.865,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.703.735,12</p>
+<p>35.703.735,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">386.399.600,90</p>
+<p>386.399.600,90</p>
 </td>
 </tr>
 </tbody>
@@ -21969,170 +21969,170 @@ Sección 20. Ministerio de Industria, Turismo y Comercio.
 
 Servicio u Organismo: 101 Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras.
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Concepto Presupuestario</p>
+<p>Concepto Presupuestario</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Anualidades e importes en miles de euros</p>
+<p>Anualidades e importes en miles de euros</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Máximo de compromisos en el periodo</p>
+<p>Máximo de compromisos en el periodo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">2011</p>
+<p>2011</p>
 </td>
 <td>
-<p class="cabeza_tabla">2012</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cabeza_tabla">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cabeza_tabla">2014</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">20.101.423M.741</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">400,00</p>
+<p>2014</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20.101.423M.771</p>
+<p>20.101.423M.741</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180.000,00</p>
+<p>100,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180.000,00</p>
+<p>100,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180.000,00</p>
+<p>100,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180.000,00</p>
+<p>100,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">720.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">20.101.423M.772</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">60.000,00</p>
+<p>400,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20.101.457M.742</p>
+<p>20.101.423M.771</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000,00</p>
+<p>180.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000,00</p>
+<p>180.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000,00</p>
+<p>180.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000,00</p>
+<p>180.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">20.101.457M.751</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">350.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">350.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">350.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">350.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.000,00</p>
+<p>720.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20.101.457M.761</p>
+<p>20.101.423M.772</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.000,00</p>
+<p>15.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.000,00</p>
+<p>15.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.000,00</p>
+<p>15.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.000,00</p>
+<p>15.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.000,00</p>
+<p>60.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20.101.457M.781</p>
+<p>20.101.457M.742</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.000,00</p>
+<p>5.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.000,00</p>
+<p>5.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.000,00</p>
+<p>5.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.000,00</p>
+<p>5.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60.000,00</p>
+<p>20.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20.101.457M.751</p>
+</td>
+<td>
+<p>350.000,00</p>
+</td>
+<td>
+<p>350.000,00</p>
+</td>
+<td>
+<p>350.000,00</p>
+</td>
+<td>
+<p>350.000,00</p>
+</td>
+<td>
+<p>1.400.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20.101.457M.761</p>
+</td>
+<td>
+<p>20.000,00</p>
+</td>
+<td>
+<p>20.000,00</p>
+</td>
+<td>
+<p>20.000,00</p>
+</td>
+<td>
+<p>20.000,00</p>
+</td>
+<td>
+<p>80.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20.101.457M.781</p>
+</td>
+<td>
+<p>15.000,00</p>
+</td>
+<td>
+<p>15.000,00</p>
+</td>
+<td>
+<p>15.000,00</p>
+</td>
+<td>
+<p>15.000,00</p>
+</td>
+<td>
+<p>60.000,00</p>
 </td>
 </tr>
 </table>
@@ -22242,247 +22242,247 @@ Servicio u Organismo: 101 Instituto para la Reestructuración de la Minería del
 | Resto de destinos de la segunda categoría de secretarios judiciales | 4 | 779,52 | 740,55 |
 | Destinos correspondientes a la tercera categoría de secretarios judiciales | 5 | 565,42 | 537,15 |
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Cuerpo o escala</p>
+<p>Cuerpo o escala</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo artículo 7.º<br>RD1909/2000</p>
+<p>Grupo artículo 7.º<br>RD1909/2000</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Junio</p>
+<p>Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Junio</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Diciembre</p>
+<p>Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Diciembre</p>
 </th>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">De Gestión procesal y Administrativa.</p>
+<p>De Gestión procesal y Administrativa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">425,50</p>
+<p>425,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">404,23</p>
+<p>404,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">397,81</p>
+<p>397,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">377,92</p>
+<p>377,92</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">383,97</p>
+<p>383,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">364,78</p>
+<p>364,78</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">370,18</p>
+<p>370,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">351,68</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">De Tramitación Procesal y Administrativa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">388,58</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">369,16</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">360,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">342,77</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">346,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">329,62</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IV</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">333,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">316,48</p>
+<p>351,68</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">De Auxilio Judicial.</p>
+<p>De Tramitación Procesal y Administrativa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">332,80</p>
+<p>388,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">316,16</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">305,17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">289,92</p>
+<p>369,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">291,34</p>
+<p>360,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">276,78</p>
+<p>342,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">277,48</p>
+<p>346,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">263,61</p>
+<p>329,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>333,13</p>
+</td>
+<td>
+<p>316,48</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>De Auxilio Judicial.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>332,80</p>
+</td>
+<td>
+<p>316,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>305,17</p>
+</td>
+<td>
+<p>289,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>291,34</p>
+</td>
+<td>
+<p>276,78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>277,48</p>
+</td>
+<td>
+<p>263,61</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">De Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>De Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">425,50</p>
+<p>425,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">404,23</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">397,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">377,92</p>
+<p>404,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">383,97</p>
+<p>397,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">364,78</p>
+<p>377,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>383,97</p>
+</td>
+<td>
+<p>364,78</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">De Ayudantes de laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>De Ayudantes de laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">388,58</p>
+<p>388,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">369,16</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">360,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">342,77</p>
+<p>369,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">346,96</p>
+<p>360,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">329,62</p>
+<p>342,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Secretarios de Paz (a extinguir).</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>346,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">462,65</p>
+<p>329,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretarios de Paz (a extinguir).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">439,52</p>
+<p>IV</p>
+</td>
+<td>
+<p>462,65</p>
+</td>
+<td>
+<p>439,52</p>
 </td>
 </tr>
 </tbody>
@@ -22516,579 +22516,579 @@ Servicio u Organismo: 101 Instituto para la Reestructuración de la Minería del
 | Médicos Forenses en Registros Civiles (R.D. 181/93, de 9 de febrero, disposición adicional 2.ª) | II | 106,62 | 101,29 |
 | Médicos Forenses en Registros Civiles (R.D. 181/93, de 9 de febrero, disposición adicional 2.ª) | III | 87,24 | 82,88 |
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Médicos Forenses con régimen transitorio de integración y retributivo</p>
+<p>Médicos Forenses con régimen transitorio de integración y retributivo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo artículo 7.º R.D. 1909/2000</p>
+<p>Grupo artículo 7.º R.D. 1909/2000</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Junio</p>
+<p>Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Junio</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Diciembre</p>
+<p>Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Diciembre</p>
 </th>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Director regional de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con juzgado sean titulares de especialidad o cargo directivo.</p>
+<p>Director regional de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con juzgado sean titulares de especialidad o cargo directivo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">823,66</p>
+<p>823,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">782,48</p>
+<p>782,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">804,28</p>
+<p>804,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">764,07</p>
+<p>764,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">784,90</p>
+<p>784,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">745,66</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Director regional de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">804,28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">764,07</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">784,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">745,66</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">765,57</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">727,30</p>
+<p>745,66</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Director provincial de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
+<p>Director regional de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">784,90</p>
+<p>804,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">745,66</p>
+<p>764,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">765,57</p>
+<p>784,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">727,30</p>
+<p>745,66</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">746,20</p>
+<p>765,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">708,89</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Director provincial de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">765,57</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">727,30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">746,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">708,89</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">726,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">690,47</p>
+<p>727,30</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Jefe de servicio de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
+<p>Director provincial de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">746,20</p>
+<p>784,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">708,89</p>
+<p>745,66</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">726,81</p>
+<p>765,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">690,47</p>
+<p>727,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">707,43</p>
+<p>746,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">672,06</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Jefe de servicio de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">726,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">690,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">707,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">672,06</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">688,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">653,65</p>
+<p>708,89</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Jefe de Sección de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
+<p>Director provincial de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">707,43</p>
+<p>765,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">672,06</p>
+<p>727,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">688,05</p>
+<p>746,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">653,65</p>
+<p>708,89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">668,62</p>
+<p>726,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">635,19</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Jefe de Sección de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">688,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">653,65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">668,62</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">635,19</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">649,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">616,79</p>
+<p>690,47</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
+<p>Jefe de servicio de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">629,92</p>
+<p>746,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">598,43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">610,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">580,02</p>
+<p>708,89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">591,15</p>
+<p>726,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">561,60</p>
+<p>690,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>707,43</p>
+</td>
+<td>
+<p>672,06</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
+<p>Jefe de servicio de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">610,54</p>
+<p>726,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">580,02</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">591,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">561,60</p>
+<p>690,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">571,78</p>
+<p>707,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">543,20</p>
+<p>672,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>688,05</p>
+</td>
+<td>
+<p>653,65</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Jefe de Sección de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>707,43</p>
+</td>
+<td>
+<p>672,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>688,05</p>
+</td>
+<td>
+<p>653,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>668,62</p>
+</td>
+<td>
+<p>635,19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Jefe de Sección de Instituto Anatómico Forense o de Clínica Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>688,05</p>
+</td>
+<td>
+<p>653,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>668,62</p>
+</td>
+<td>
+<p>635,19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>649,25</p>
+</td>
+<td>
+<p>616,79</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Médico Forense (en agrupaciones de Juzgados alguno de los cuales esté servido por Magistrado o que conjuntamente con Juzgado sean titulares de especialidad o cargo directivo.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>629,92</p>
+</td>
+<td>
+<p>598,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>610,54</p>
+</td>
+<td>
+<p>580,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>591,15</p>
+</td>
+<td>
+<p>561,60</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Médico Forense (en agrupaciones no incluidas en el apartado anterior).</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>610,54</p>
+</td>
+<td>
+<p>580,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>591,15</p>
+</td>
+<td>
+<p>561,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>571,78</p>
+</td>
+<td>
+<p>543,20</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Médicos Forenses con régimen de jornada normal</p>
+<p>Médicos Forenses con régimen de jornada normal</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo artículo 7.º<br>RD1909/2000</p>
+<p>Grupo artículo 7.º<br>RD1909/2000</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Junio</p>
+<p>Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Junio</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Diciembre</p>
+<p>Cuantía en €<br>a incluir en la Paga<br>Extraordinaria<br>de Diciembre</p>
 </th>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Director regional de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
+<p>Director regional de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">562,11</p>
+<p>562,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">534,01</p>
+<p>534,01</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">542,72</p>
+<p>542,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">515,59</p>
+<p>515,59</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">523,34</p>
+<p>523,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">497,18</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Director provincial de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">523,34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">497,18</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">503,95</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">478,76</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">484,58</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">460,36</p>
+<p>497,18</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Jefe de servicio de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
+<p>Director provincial de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">484,58</p>
+<p>523,34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">460,36</p>
+<p>497,18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">465,13</p>
+<p>503,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">441,88</p>
+<p>478,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">445,76</p>
+<p>484,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">423,48</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Jefe de Sección de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">445,76</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">423,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">426,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">405,07</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">407,06</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">386,71</p>
+<p>460,36</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Médicos Forenses.</p>
+<p>Jefe de servicio de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">368,31</p>
+<p>484,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">349,90</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">348,93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">331,49</p>
+<p>460,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">329,48</p>
+<p>465,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">313,01</p>
+<p>441,88</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>445,76</p>
+</td>
+<td>
+<p>423,48</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Jefe de Sección de Inst. Anatómico Forense o de Clínica Médico Forense.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>445,76</p>
+</td>
+<td>
+<p>423,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>426,38</p>
+</td>
+<td>
+<p>405,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>407,06</p>
+</td>
+<td>
+<p>386,71</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Médicos Forenses.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>368,31</p>
+</td>
+<td>
+<p>349,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>348,93</p>
+</td>
+<td>
+<p>331,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>329,48</p>
+</td>
+<td>
+<p>313,01</p>
 </td>
 </tr>
 </tbody>
@@ -23362,42 +23362,42 @@ Consorcio ESS-Bilbao.
 
 ## ANEXO XV — Operaciones del Ente Público RTVE en liquidación a asumir por el Estado en el Ejercicio 2010
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Operación</p>
+<p>Operación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Agente de pagos</p>
+<p>Agente de pagos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vencimiento</p>
+<p>Vencimiento</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bonos.</p>
+<p>Bonos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caja Madrid.</p>
+<p>Caja Madrid.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29/04/2010</p>
+<p>29/04/2010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500.000.000</p>
+<p>1.500.000.000</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Total</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500.000.000</p>
+<p>1.500.000.000</p>
 </td>
 </tr>
 </tbody>

@@ -1,0 +1,583 @@
+---
+title: "Orden FOM/897/2005, de 7 de abril, relativa a la declaración sobre la red y al procedimiento de adjudicación de capacidad de infraestructura ferroviaria"
+identifier: "BOE-A-2005-5754"
+eli: "https://www.boe.es/eli/es/o/2005/04/07/fom897"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2005-04-07
+published: 2005-04-09
+in_force_from: 2005-04-10
+last_amended: 2025-12-27
+consolidated: 2025-12-29
+gazette: "Boletín Oficial del Estado núm. 85"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-5754"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/897/2005, de 7 de abril, relativa a la declaración sobre la red y al procedimiento de adjudicación de capacidad de infraestructura ferroviaria
+
+La Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, ha efectuado una reordenación del sector ferroviario estatal. Entre los fines de esta Ley se encuentra el de facilitar el acceso a las infraestructuras ferroviarias a todos aquellos candidatos interesados en la explotación de un servicio ferroviario. Para ello incorpora al Derecho interno la Directiva 2001/14/CE, del Parlamento Europeo y del Consejo, de 26 de febrero de 2001, relativa a la adjudicación de capacidad de infraestructura ferroviaria, aplicación de cánones por su utilización y certificación de seguridad y establece el marco regulatorio general en esta materia.
+
+No obstante, como ya contempla la propia Ley del Sector Ferroviario, en sus artículos 29.2, 33.1 y 2 y 35.3, determinadas cuestiones relativas al contenido de la declaración sobre la red y al procedimiento de adjudicación de capacidad de infraestructura ferroviaria, requieren un desarrollo mediante la presente orden.
+
+Así, el Capítulo I de la presente orden determina su objeto, consistente en la regulación del régimen aplicable a la aprobación y a la publicación de la declaración sobre la red y a la adjudicación de capacidad de infraestructura ferroviaria.
+
+El Capítulo II regula el régimen de la declaración sobre la red, prefigura su estructura y contenidos propios y determina el régimen para su publicación.
+
+El Capítulo III regula el procedimiento que debe seguirse para la adjudicación de capacidad de infraestructura estableciendo las funciones propias del Administrador de Infraestructuras Ferroviarias y sus reglas de actuación. Igualmente, se regula el mecanismo para, en lo posible, coordinar las solicitudes de asignación de capacidad formuladas, con especial referencia a los itinerarios internacionales dentro de la Unión Europea. Por último, se recoge el régimen propio de los acuerdos marco que podrá celebrar el Administrador de Infraestructuras Ferroviarias con determinados candidatos, la vigencia de los derechos de uso de capacidad y los derechos y obligaciones, en lo que afecta a la capacidad asignada, propios de los candidatos a la adjudicación de capacidad y del Administrador de Infraestructuras Ferroviarias.
+
+El Capítulo IV establece el régimen aplicable a las infraestructuras congestionadas y establece el mecanismo a seguir para superar las situaciones de saturación de infraestructuras y garantizar la prestación del mejor servicio ferroviario.
+
+Cierran el texto una disposición derogatoria, dos disposiciones transitorias y dos finales. La primera de estas últimas prevé que la Dirección General de Ferrocarriles adopte las disposiciones necesarias para la ejecución de la Orden y la segunda que su entrada en vigor se producirá al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+En su virtud, con la aprobación previa del Ministro de Administraciones Públicas y de acuerdo con el Consejo de Estado, dispongo:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+La presente Orden tiene por objeto regular la elaboración, el contenido y la publicación de la declaración sobre la red, así como el procedimiento de adjudicación de capacidad de infraestructura ferroviaria de competencia estatal.
+
+## CAPÍTULO II — Declaración sobre la red
+
+### Artículo 2. Elaboración de la declaración sobre la red.
+
+1\. El Administrador de Infraestructuras Ferroviarias elaborará un proyecto de declaración sobre la red de cuyo contenido íntegro dará traslado a la Dirección General de Ferrocarriles para que, en el plazo de un mes, realice las oportunas observaciones al respecto. Asimismo, el Administrador de Infraestructuras Ferroviarias comunicará la existencia del referido proyecto a los candidatos habilitados y a las administraciones públicas con atribuciones en materia de prestación de servicios de transporte, con objeto de que, en el plazo de quince días naturales, realicen cuantas alegaciones estimen pertinentes.
+
+2\. Transcurridos los plazos citados en el apartado anterior y formuladas las observaciones, el Consejo de Administración del Administrador de Infraestructuras Ferroviarias aprobará la declaración sobre la red.
+
+3\. La declaración sobre la red se actualizará y modificará según proceda. En todo caso, se actualizará cuando cambien las condiciones de acceso a la infraestructura ferroviaria, a las instalaciones de servicio y a la prestación de servicios en dichas instalaciones.
+
+> Se añade el apartado 3 por el art. 1.1 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 3. Infraestructuras ferroviarias especializadas.
+
+1\. En caso de que existan líneas alternativas adecuadas, el administrador de infraestructuras ferroviarias, tras consultar con las partes interesadas, podrá declarar especializada para la prestación de determinado tipo de servicios una infraestructura ferroviaria concreta.
+
+2\. La especialización de una infraestructura ferroviaria no impedirá su utilización para la prestación de otros servicios si existe capacidad y el material rodante reúne las características técnicas necesarias para el uso de la infraestructura.
+
+3\. Las infraestructuras ferroviarias especializadas se incluirán en la declaración sobre la red.
+
+> Se modifica el apartado 1 por el art. 1.2 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 4. Contenido de la declaración sobre la red.
+
+1\. La declaración sobre la red expondrá las características de la infraestructura puesta a disposición de los candidatos e informará sobre la capacidad de cada tramo de la red y sobre las condiciones de acceso a la misma. Asimismo, detallará las normas generales, los plazos, los procedimientos y los criterios que rijan en relación con la adjudicación de capacidad y los cánones y principios de tarificación que se deben aplicar por la utilización de las infraestructuras ferroviarias y por la prestación de los diferentes servicios a las empresas ferroviarias. Finalmente, contendrá cualquier otra información que pueda ser necesaria para cursar una solicitud de capacidad de infraestructura.
+
+2\. La declaración sobre la red se compondrá de los siguientes capítulos:
+
+1) Un primer capítulo, de información general, que contendrá:
+
+a) Estructura del documento de la declaración sobre la red.
+
+b) Introducción en la que se expondrán, de forma concisa, las funciones del Administrador de Infraestructuras Ferroviarias respecto de la adjudicación de capacidad.
+
+c) Objetivo de la declaración sobre la red y su ámbito de aplicación.
+
+d) Determinación del marco jurídico aplicable.
+
+e) Previsión del carácter vinculante de la declaración sobre la red en cuanto a los derechos y obligaciones que de ella se deriven tanto para los candidatos como para el administrador de la infraestructura.
+
+f) Período de vigencia de la declaración sobre la red.
+
+g) Condiciones de publicación y de distribución del documento de la declaración sobre la red.
+
+h) Indicación de la forma a través de la cual los candidatos pueden dirigirse al Administrador de Infraestructuras Ferroviarias para solicitar información complementaria sobre el contenido y alcance de la declaración.
+
+i) Definición de los términos específicos propios del sector ferroviario utilizados.
+
+2) Un segundo capítulo, relativo a las condiciones generales de acceso a la Red Ferroviaria de Interés General, incluidas las condiciones de seguridad que deben regir el tráfico ferroviario sobre ésta.
+
+3) Un tercer capítulo en el que se expondrá la naturaleza de la infraestructura puesta a disposición de los candidatos, la descripción de la red, las características técnicas de la misma y cualquier restricción de su uso, incluidas las necesidades previsibles de capacidad para su mantenimiento. Asimismo, se expresará, en su caso, la especialización de una infraestructura ferroviaria concreta para la prestación de determinados tipos de servicios. Este capítulo deberá contener, al menos, la siguiente información:
+
+a) Identificación geográfica de la red y la de las líneas, incluyendo estaciones, terminales, cambiadores de ancho y demás elementos funcionales. Indicación, por tramos significativos, de los perfiles, los gálibos, los anchos de vía, la carga por eje, los gradientes, las velocidades admisibles, las longitudes máximas de tren permitidas, la energía disponible y demás características significativas de la red.
+
+b) Régimen de circulación, detallándose, en función del tipo de línea, los sistemas de señalización, de alimentación eléctrica, de comunicación y de seguridad.
+
+c) Capacidad de infraestructura estimada por tramo de red.
+
+d) Ocupación actual de las infraestructuras y el nivel de congestión de las mismas.
+
+4) Un cuarto capítulo dedicado a los criterios y la forma con arreglo a los cuales se adjudicará la capacidad de infraestructura. En particular, se expresará:
+
+a) El procedimiento con arreglo al cual los candidatos pueden solicitar capacidad al Administrador de Infraestructuras Ferroviarias.
+
+Sin perjuicio del procedimiento establecido, se reconocerá la validez del registro oficial del Administrador de Infraestructuras Ferroviarias como medio de presentación de cualesquiera solicitudes de capacidad o alegaciones que al correspondiente procedimiento de adjudicación los candidatos estimen pertinente realizar.
+
+b) Los requisitos que, sin perjuicio de lo que establezca el Reglamento del Sector Ferroviario, aprobado por el Real Decreto 2387/2004, de 30 de diciembre, les sean impuestos a los candidatos de acuerdo con el artículo 32 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+
+c) Los plazos que deben cumplirse en la tramitación del procedimiento de adjudicación de capacidad.
+
+d) Los criterios y el procedimiento para la elaboración del proyecto de horario de servicio y para la coordinación entre los candidatos y el Administrador de Infraestructuras Ferroviarias.
+
+e) El procedimiento de reajuste y reasignación de la capacidad ya adjudicada, con arreglo a lo establecido en el artículo 6.5.
+
+f) Los criterios que regirán el proceso de adjudicación de capacidad y los de coordinación entre solicitudes, así como, los utilizados en caso de que se produzca la declaración de la infraestructura ferroviaria como congestionada.
+
+En particular dichos criterios deben recoger la dificultad de fijar surcos ferroviarios internacionales y los efectos de cualquier modificación para los demás administradores de infraestructuras.
+
+g) Las restricciones de uso de las infraestructuras ferroviarias y, en particular, la reserva de capacidad para la realización de las actividades de mantenimiento programado, de reposición o de ampliación de la red.
+
+h) Las medidas que, conforme al plan de contingencias previsto en el artículo 34 de la Ley del Sector Ferroviario, adoptará el Administrador de Infraestructuras Ferroviarias para el tratamiento de las perturbaciones de tráfico ferroviario y para hacer posible el cumplimiento de las obligaciones de colaboración que se imponga, al efecto, a las empresas ferroviarias.
+
+i) Los mecanismos de actualización de la declaración sobre la red a través de los cuales se comuniquen a los interesados las modificaciones sufridas en el contenido de la misma.
+
+5) Un quinto capítulo describirá los servicios adicionales, complementarios y auxiliares que ofrezca a las empresas ferroviarias el Administrador de Infraestructuras Ferroviarias o terceros debidamente habilitados por él.
+
+6) Un sexto capítulo determinará las pautas de aplicación del régimen económico y tributario previsto en la Ley del Sector Ferroviario, que incluirán:
+
+a) Información sobre los cánones y demás tasas exigibles con arreglo a la citada Ley.
+
+b) Las tarifas aplicables por la prestación de los servicios adicionales, auxiliares y complementarios por el Administrador de Infraestructuras Ferroviarias.
+
+3\. Asimismo, en la declaración sobre la red se consignarán con detalle los compromisos asumidos y las medidas adoptadas para garantizar un trato adecuado a las solicitudes amparadas en los acuerdos marco.
+
+4\. La declaración sobre la red recogerá la posibilidad que tienen los candidatos de acudir al Comité de Regulación Ferroviaria, conforme a lo dispuesto en la Ley del Sector Ferroviario, si se consideran perjudicados por cualquier actuación que consideren contraria a Derecho. En particular, se preverá tal posibilidad respecto de las actuaciones que realice el Administrador de Infraestructuras Ferroviarias en relación con:
+
+a) La declaración sobre la red.
+
+b) El procedimiento de adjudicación de capacidad.
+
+Igualmente, se expresará que, de conformidad con el artículo 83.5 de la Ley del Sector Ferroviario, la resolución que dicte el Comité de Regulación Ferroviaria será vinculante para las entidades afectadas y tendrá eficacia ejecutiva, sin perjuicio de poder ser recurrida, en alzada, ante el Ministro de Fomento.
+
+5\. Mediante dicha declaración de red se dará publicidad a las condiciones de acceso a las instalaciones de servicio relacionadas con la red del administrador de infraestructuras y a los servicios que se presten en dichas instalaciones, o indicará un sitio web en el que dicha información pueda obtenerse gratuitamente en formato electrónico.
+
+> Se modifica el apartado 2.4.f) y se añade el 5 por el art. 1.3 y 4 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 5. Publicación del acuerdo de aprobación de la declaración sobre la red.
+
+1\. Aprobada la declaración sobre la red, los administradores de infraestructuras ferroviarias la publicarán en su portal web en idioma castellano y, al menos, en otra lengua oficial de la Unión Europea, con una antelación, como mínimo, de doce meses respecto de la fecha de entrada en vigor del horario de servicio.
+
+2\. Los acuerdos por los que se aprueben las modificaciones de la declaración sobre la red deberán ser, igualmente, objeto de publicación, a través del mismo procedimiento, en el plazo máximo de diez días desde que se adopten y, en todo caso, quince días antes de la fecha en la que surtirán efecto. En todo caso, tales modificaciones no podrán suponer, salvo que se produzcan circunstancias extraordinarias debidamente acreditadas o presten su consentimiento los adjudicatarios afectados o formen parte de actuaciones de naturaleza eventual necesarias para la explotación, restricciones o limitaciones de la capacidad adjudicada. En el supuesto de la última de las excepciones señaladas, será suficiente, a efectos de publicidad, la comunicación de las modificaciones a los adjudicatarios afectados y que el contenido de dichas modificaciones esté también disponible para cualquier otro candidato, en tanto se incorporan, en su caso, a la publicación ordinaria anual.
+
+> Se modifica el apartado 1 y se suprime el 3 por el art. 1.5 y 6 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 5 bis. Acceso al contenido de la declaración sobre la red.
+
+El contenido de la declaración sobre la red podrá obtenerse gratuitamente en formato electrónico en el portal web del respectivo administrador de infraestructuras ferroviarias y se tendrá acceso a él, en su caso, a través de un portal web común de los distintos administradores.
+
+En todo caso, cualquier interesado podrá adquirir del administrador de infraestructuras ferroviarias una copia de la declaración sobre la red actualizada a un precio que no exceda del coste de su publicación.
+
+> Se añade por el art. 1.7 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+## CAPÍTULO III — Procedimiento de adjudicación de la capacidad de infraestructura
+
+### Artículo 6. Principios generales.
+
+1\. Se entiende por capacidad de infraestructura, de acuerdo con lo establecido en la Ley y en el Reglamento del Sector Ferroviario, el número de franjas horarias disponibles en un tramo de la infraestructura ferroviaria durante un período determinado de tiempo, en función de la tipología de tráfico.
+
+2\. Con arreglo a lo previsto en el artículo 30 de la Ley del Sector Ferroviario, se entiende por adjudicación de capacidad de infraestructura la asignación, por el Administrador de Infraestructuras Ferroviarias, de las franjas horarias definidas en la declaración sobre la red a los correspondientes candidatos, con el fin de que un tren pueda circular, entre dos puntos, durante un periodo de tiempo determinado.
+
+La adjudicación de capacidad comporta el derecho de acceso a una infraestructura determinada y a las correspondientes bifurcaciones y desvíos de la Red Ferroviaria de Interés General, así como a recibir el servicio de control de circulación del tren, incluida la señalización.
+
+3\. Los candidatos a los que se refiere el artículo 9, tendrán derecho a solicitar capacidad de infraestructura según el procedimiento establecido en el artículo 7.2. A través de dicho procedimiento, se adjudicará capacidad para el período de vigencia del horario de servicio, en función de las solicitudes recibidas, dando lugar a la comunicación del referido horario para el periodo considerado.
+
+4\. Asimismo, los candidatos podrán, durante la vigencia del horario de servicio, solicitar, en la forma establecida en el artículo 7.3, la adjudicación de aquella capacidad que no hubiera sido adjudicada con arreglo al apartado anterior o que habiéndolo sido, no fuera, efectivamente, utilizada.
+
+5\. No obstante lo establecido en el apartado anterior, el Administrador de Infraestructuras Ferroviarias establecerá los mecanismos que posibiliten el reajuste y la reasignación de la capacidad adjudicada que figura en dicho horario de servicio, para que, a petición de los adjudicatarios y durante el periodo de vigencia del horario de servicio aprobado, pueda adaptarse la oferta de servicios de transporte ferroviario a la demanda de capacidad de los clientes. Ello podrá llevarse a cabo si no se perjudica a otros candidatos y si existe capacidad disponible.
+
+6\. Se entiende por reserva de capacidad aquella que, previa evaluación del administrador de infraestructuras ferroviarias, no es puesta a disposición de los candidatos autorizados en el proceso de adjudicación anterior a la formulación del horario de servicio definitivo, a fin de poder responder con rapidez a las solicitudes específicas de capacidad. Esto será aplicable también en los casos de infraestructura congestionada.
+
+7\. Toda empresa ferroviaria que explote servicios de transporte ferroviario celebrará los acuerdos necesarios, de conformidad con el ordenamiento jurídico, con los administradores de las infraestructuras ferroviarias que utilice.
+
+Las condiciones por las que se rijan dichos acuerdos serán transparentes y no discriminatorias y recogerán el contenido de lo dispuesto en los artículos 14, 15 y 16 de esta Orden.
+
+8\. Todas las comunicaciones que se realicen entre los administradores de infraestructuras y cualquiera de los interesados en el procedimiento de adjudicación de la capacidad de infraestructura deberá realizarse por medios electrónicos. Los administradores de infraestructuras garantizarán que las plataformas de comunicación que se utilicen para ello sean plenamente accesibles.
+
+> Se añade el apartado 8 por el art. único.1 de la Orden TRM/1522/2025, de 21 de diciembre. [Ref. BOE-A-2025-26701](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26701)
+
+> Se modifica el apartado 6 y se añade el 7 por el art. 1.8 y 9 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 7. El procedimiento de adjudicación de la capacidad de infraestructura.
+
+1\. El administrador de infraestructuras ferroviarias atenderá, en la medida de lo posible, todas las solicitudes de capacidad de infraestructura que reciba. Si esto no fuera posible aplicará los criterios de adjudicación contenidos en esta orden, y tendrá lo más en cuenta posible todas las limitaciones que afecten a los candidatos, tales como los efectos económicos sobre su actividad empresarial.
+
+2\. El administrador de infraestructuras ferroviarias adjudicará la capacidad de infraestructura ferroviaria de acuerdo con el siguiente procedimiento:
+
+a) El horario de servicio se fijará una vez al año y entrará en vigor a las doce de la noche del segundo sábado de diciembre. Cuando se lleve a cabo un cambio o ajuste después del invierno, en particular para tener en cuenta, en su caso, los cambios de horario del tráfico regional de pasajeros, este tendrá lugar a medianoche del segundo sábado de junio y a tantos otros intervalos, entre dichas fechas, como sean necesarios.
+
+El administrador de infraestructuras ferroviarias podrá acordar otras fechas de entrada en vigor y de vigencia para el nuevo horario de servicio siempre que lo comunique, previamente y con la necesaria antelación, al Ministerio de Transportes y Movilidad Sostenible y, en el caso de que aquel afecte a tráficos internacionales, a la Comisión Europea.
+
+El horario de servicio recoge el conjunto de todos los datos que determinan los movimientos planificados de trenes y material rodante que tendrán lugar sobre una determinada infraestructura, en el período al que dicho horario de servicio se refiere.
+
+b) El administrador de infraestructuras ferroviarias determinará, en colaboración con los administradores de infraestructuras de otros Estados, las franjas horarias consideradas necesarias para la explotación de tráficos internacionales, como mínimo, once meses antes de que vaya a entrar en vigor el horario de servicio.
+
+Los administradores de infraestructuras ferroviarias velarán por que, en la medida de lo posible, se respeten estas franjas horarias en los procedimientos posteriores.
+
+Solamente se harán ajustes en caso de que sean absolutamente necesarios.
+
+c) El plazo para la presentación de las solicitudes de adjudicación de capacidad se iniciará en la fecha en que se publique el acuerdo de aprobación de la declaración sobre la red y concluirá, tanto para los tráficos ferroviarios internacionales como para los nacionales, ocho meses y quince días antes de la entrada en vigor del horario de servicio.
+
+d) Cumplidos los plazos referidos en el apartado anterior, el administrador de infraestructuras ferroviarias elaborará y publicará el proyecto de horario de servicio, como mínimo, seis meses y quince días antes de la entrada en vigor de dicho horario. Durante este periodo, se intentará la coordinación de las solicitudes presentadas, de acuerdo con lo establecido en el artículo siguiente.
+
+e) Los solicitantes de capacidad podrán presentar las alegaciones oportunas hasta cinco meses y quince días antes de la entrada en vigor del horario de servicio.
+
+Asimismo, y en el mismo plazo, podrán hacer observaciones todos los que consideren que dicho horario, durante su periodo de vigencia, puede afectar a su capacidad de suministro de servicios ferroviarios, así como otros administradores de infraestructura que pudieran verse afectados por el mismo.
+
+El administrador de infraestructuras ferroviarias tomará las medidas oportunas para tener en cuenta las preocupaciones que se hayan manifestado, responderá a las alegaciones recibidas, y en su caso, revisará la adjudicación de capacidad a que se refiere la letra d) del presente artículo, intentando coordinar las solicitudes de acuerdo con la información aportada por las empresas y candidatos.
+
+El administrador de infraestructuras justificará, en todo caso, las denegaciones de capacidad.
+
+f) Como mínimo, cuatro meses y medio antes de la entrada en vigor del horario de servicio el administrador de infraestructuras ferroviarias aprobará y comunicará a los candidatos la adjudicación definitiva de capacidad.
+
+g) Cuatro meses y siete días antes de la entrada en vigor del horario de servicio, el administrador de infraestructuras informará de los días concretos de circulación durante todo el horario de servicio a todos los candidatos que hubieren presentado solicitud.
+
+3\. Tres meses y quince días antes de la entrada en vigor del horario de servicio, el administrador de infraestructuras ferroviarias pondrá a disposición de los candidatos la capacidad que no hubiere sido adjudicada de acuerdo con el procedimiento descrito en el apartado anterior.
+
+La referida capacidad podrá ser solicitada, a partir de dicho momento y hasta la conclusión de la vigencia del horario de servicio, conforme al siguiente procedimiento:
+
+a) Las solicitudes de adjudicación de capacidad de infraestructura, a las que se refiere este apartado, obtendrán la respuesta del administrador de infraestructuras ferroviarias en el plazo máximo de cinco días hábiles a contar desde la fecha de su recepción en su registro de entrada, de acuerdo con las reglas o criterios por él establecidos y siempre que se cumplan los requisitos previstos, para la solicitud de capacidad, en el artículo 10.
+
+b) Excepcionalmente y en la forma y condiciones que establezca el administrador de infraestructuras ferroviarias en la declaración sobre la red, los candidatos podrán solicitar, de forma motivada, la adjudicación de capacidad hasta un día antes de la utilización efectiva de la franja ferroviaria solicitada. A tal efecto, esta solicitud deberá ser presentada por el candidato antes de las doce horas del día anterior al de la pretendida prestación del servicio. El administrador de infraestructuras ferroviarias responderá a dicha solicitud antes de las dieciocho horas del referido día.
+
+4\. La resolución adoptada por el Administrador de Infraestructuras Ferroviarias que ponga fin al procedimiento de adjudicación de capacidad, podrá ser impugnada ante el Comité de Regulación Ferroviaria, en aplicación del artículo 153.3 del Reglamento del Sector Ferroviario.
+
+5\. El Administrador de Infraestructuras Ferroviarias y el Comité de Regulación Ferroviaria respetarán la confidencialidad de la información que durante este proceso de adjudicación les sea facilitada por los candidatos.
+
+En particular, el administrador de infraestructuras ferroviarias respetará la confidencialidad de la información comercial que le faciliten los candidatos, a efectos de la fijación, aplicación y cobro de cánones, tasas, tarifas y precios.
+
+> Se modifican los apartados 2 y 3 por el art. único.2 y 3 de la Orden TRM/1522/2025, de 21 de diciembre. [Ref. BOE-A-2025-26701](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26701)
+
+> Se modifica por el art. 1.10 a 16 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 8. Coordinación de solicitudes.
+
+1\. Si durante el periodo previsto para la elaboración del proyecto de horario de servicio el administrador de infraestructuras ferroviarias comprobara que existen solicitudes incompatibles entre sí, procurará lograr, mediante su coordinación, la mejor adecuación posible entre ellas.
+
+2\. En la coordinación de solicitudes, el administrador de infraestructuras ferroviarias se pondrá en contacto con todos los candidatos afectados y facilitará una solución negociada entre los candidatos cuyas solicitudes son incompatibles.
+
+Asimismo, valorará, previo análisis de su viabilidad, aquellas propuestas conjuntas que puedan presentar varios candidatos.
+
+En caso de no resolverse así el conflicto entre solicitudes, el administrador propondrá a los candidatos, dentro de límites razonables, adjudicaciones de capacidad de infraestructuras que difieran de lo solicitado. Los candidatos podrán aceptar o rechazar la propuesta en el plazo máximo de diez días hábiles desde que se les notifique.
+
+3\. El administrador de infraestructuras ferroviarias procurará resolver los conflictos que surjan consultando a los candidatos interesados. Para realizar dicha consulta se facilitará la siguiente información, de forma gratuita por vía electrónica:
+
+a) La adjudicación de capacidad solicitada por otros candidatos en los mismos trayectos.
+
+b) La adjudicación de capacidad otorgada previamente a todos los demás candidatos en los mismos trayectos.
+
+c) La adjudicación de capacidad alternativa propuesta en los trayectos de que se trate de conformidad con el apartado 2.
+
+d) La información detallada sobre los criterios aplicados en el procedimiento de adjudicación de capacidad.
+
+Esta información se facilitará sin revelar la identidad de los demás candidatos, a menos que dichos candidatos estén de acuerdo en que se divulgue.
+
+> Se modifica por el art. único.4 de la Orden TRM/1522/2025, de 21 de diciembre. [Ref. BOE-A-2025-26701](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26701)
+
+> Se modifica por el art. 1.17 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 9. Candidatos.
+
+De conformidad con lo establecido en la Ley y en el Reglamento del Sector Ferroviario, las solicitudes de capacidad de infraestructura ferroviaria podrán ser presentadas por:
+
+a) Las empresas ferroviarias que, previamente, hayan obtenido la licencia de empresa ferroviaria y las agrupaciones empresariales internacionales que constituyan dichas empresas.
+
+b) Los agentes de transporte, los cargadores y los operadores de transporte combinado que estén interesados en la explotación de un servicio de transporte ferroviario y dispongan, con arreglo al artículo 80 del Reglamento del Sector Ferroviario, de la correspondiente habilitación al efecto.
+
+c) Las administraciones públicas con atribuciones en materia de prestación de servicios de transporte y que estuvieren interesadas en la prestación de determinados servicios de transporte ferroviario.
+
+### Artículo 10. Solicitud de capacidad de infraestructura.
+
+1\. Los candidatos a los que se refiere el artículo anterior podrán solicitar al administrador de infraestructuras ferroviarias, dentro de los plazos previstos en el artículo 7, la adjudicación de capacidad de infraestructura ferroviaria para la prestación de servicios de transporte ferroviario, de acuerdo con lo previsto en la ley y en el reglamento del sector ferroviario y en esta orden.
+
+2\. La solicitud de capacidad deberá ir acompañada, en todo caso, de los siguientes datos y documentos:
+
+a) La identificación del candidato y de la persona que lo represente, adjuntando su domicilio a efectos de notificaciones, así como los datos que acrediten que está en posesión de una licencia de empresa ferroviaria o título habilitante, en su caso y según corresponda. La representación se acreditará por cualquier medio admitido en Derecho que deje constancia fidedigna de ella, o mediante declaración en comparecencia ante el personal habilitado del administrador de infraestructuras ferroviarias.
+
+Asimismo, para acreditar dicha representación, será posible utilizar el Registro Electrónico de Apoderamientos de la Administración General del Estado.
+
+b) Cuando se trate de empresas ferroviarias y soliciten capacidad por los procedimientos previstos en los apartados 1 y 3 del artículo 7, deberán acreditar estar en posesión del correspondiente certificado de seguridad en vigor del que sea titular. A estos efectos, se comprobará la información que consta en la base de datos de certificados de seguridad de la Agencia Europea de Seguridad Ferroviaria.
+
+Para esta acreditación, la empresa ferroviaria deberá presentar una copia compulsada del referido certificado o aportar una declaración responsable de que los datos inscritos en el citado registro europeo no han variado.
+
+También podrán, en su caso, aportar el documento que recoja el compromiso de que la empresa ferroviaria estará en posesión del correspondiente certificado de seguridad, requisito que deberán acreditar con carácter previo a la adjudicación de capacidad.
+
+c) La determinación concreta de la capacidad de infraestructura que se solicite.
+
+3\. El candidato que haya celebrado un acuerdo marco conforme a lo establecido en el artículo 13 presentará su solicitud en la forma prevista en el mismo.
+
+4\. El administrador de infraestructuras ferroviarias tomará debidamente en consideración la repercusión de la reserva de capacidad de infraestructura con fines de trabajos de mantenimiento sobre la actividad de los candidatos e informará tan pronto como sea posible a las partes interesadas de la falta de disponibilidad de la capacidad de infraestructura debido a trabajos de mantenimiento no programados.
+
+La Comisión Nacional de los Mercados y la Competencia podrá exigir al administrador de infraestructuras ferroviarias que ponga dicha información a su disposición si lo considera necesario.
+
+> Se modifica por el art. único.5 de la Orden TRM/1522/2025, de 21 de diciembre. [Ref. BOE-A-2025-26701](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26701)
+
+> Se añade el apartado 5 por el art. 1.18 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+> Se añade el apartado 4 por la disposición final 1 de la Orden FOM/1977/2015, de 29 de septiembre. [Ref. BOE-A-2015-10481](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10481).
+
+### Artículo 11. Criterios de adjudicación.
+
+El administrador de infraestructuras ferroviarias adjudicará la capacidad de infraestructuras solicitada de la siguiente forma:
+
+a) Si hubiera capacidad disponible para todos los candidatos se les adjudicará.
+
+b) Si existiera coincidencia de solicitudes para una misma franja horaria se adjudicará la capacidad mediante el procedimiento de coordinación previsto en el artículo 8 de esta orden.
+
+c) En caso de líneas o infraestructuras congestionadas, se estará a lo dispuesto en el artículo 17.
+
+> Se modifica por el art. único.6 de la Orden TRM/1522/2025, de 21 de diciembre. [Ref. BOE-A-2025-26701](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26701)
+
+> Se modifica por el art. 1.19 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+> Se modifica la letra b) por el art. único de la Orden FOM/420/2014, de 7 de marzo. [Ref. BOE-A-2014-2923](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2923).
+
+### Artículo 12. Solicitud y adjudicación de capacidad de infraestructuras para itinerarios internacionales.
+
+1\. El Administrador de Infraestructuras Ferroviarias cooperará con los administradores de infraestructuras ferroviarias de otros Estados miembros en la adjudicación de capacidad de infraestructuras para servicios que trascurran, además, por el territorio de otro Estado miembro. A tal efecto, se organizarán, conforme a los procedimientos de cooperación que se establezcan, las franjas internacionales, en particular, en el ámbito de la Red Transeuropea de Transporte Ferroviario de Mercancías, con el fin de facilitar la prestación de servicios de transporte ferroviario cuyas solicitudes de adjudicación de capacidad se presenten.
+
+2\. Las franjas para servicios de transporte ferroviario internacional que se establezcan se pondrán a disposición de los candidatos por cualquiera de los administradores de infraestructuras participantes en el procedimiento.
+
+3\. Las solicitudes de capacidad de las referidas infraestructuras se dirigirán a un solo administrador de infraestructuras. En caso de que se dirijan al Administrador de Infraestructuras Ferroviarias, éste podrá dirigir, en nombre del candidato, la solicitud de capacidad realizada al administrador de infraestructuras competente.
+
+Los administradores de infraestructuras ferroviarias cuyas decisiones sobre la adjudicación de capacidad afecten a otros administradores de infraestructuras se asociarán para gestionar la capacidad de las franjas internacionales a fin de adjudicar capacidad o coordinar la adjudicación de toda la capacidad de infraestructura internacional pertinente.
+
+Sólo los administradores de infraestructuras ferroviarias podrán tomar decisiones en las reuniones u otras actividades relativas a la adjudicación de capacidad de infraestructura a servicios ferroviarios que utilicen más de una red.
+
+4\. Los administradores de infraestructuras ferroviarias, a efectos de la cooperación prevista en este artículo, publicarán en sus declaraciones de red, de conformidad con el punto 3 del anexo III de la Ley 38/2015, de 29 de septiembre, del sector ferroviario, los principios y criterios para la asignación de capacidad para servicios que crucen más de una red, detallando las características generales de la capacidad puesta a disposición, restricciones de uso, necesidades de capacidad para el mantenimiento y especificando procedimientos, criterios y plazos de la adjudicación de capacidad.
+
+5\. Los administradores de infraestructuras ferroviarias comunicarán a la Comisión Europea los acuerdos alcanzados en las principales reuniones sobre principios y prácticas comunes para la adjudicación de infraestructura y velarán para que se invite a esas reuniones a la Comisión Europea como observadora.
+
+Además, los administradores de infraestructuras ferroviarias comunicarán a la Comisión Nacional de los Mercados y la Competencia la información a que se refiere el párrafo anterior, así como sobre los sistemas de adjudicación basados en tecnologías de la información, al objeto de que pueda ejercer sus funciones de supervisión.
+
+6\. Los administradores de infraestructuras ferroviarias velarán para que se hagan públicos todos los medios, criterios y el personal que haya participado en la cooperación prevista en este artículo y que las decisiones sean adoptadas exclusivamente por éstos.
+
+7\. Se considerará informado un administrador de infraestructuras ferroviarias de la intención de un candidato de solicitar capacidad de infraestructura con el fin de explotar un servicio internacional de viajeros, bien cuando reciba una notificación directamente del candidato, o bien cuando la Comisión Nacional de los Mercados y la Competencia, en cumplimiento del procedimiento establecido en el Reglamento de Ejecución (UE) 869/2014 de la Comisión, de 11 de agosto de 2014, sobre nuevos servicios de transporte ferroviario de viajeros, y conforme a la metodología y procedimiento aprobados por el citado organismo regulador, le dé traslado de la notificación remitida por el candidato.
+
+> Se modifica el apartado 3 y se añaden los apartados 4 a 7 por el art. 1.20 a 24 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 13. Acuerdos marco.
+
+1\. El Administrador de Infraestructuras Ferroviarias podrá celebrar acuerdos marco con candidatos para la utilización de la capacidad de infraestructura ferroviaria durante un periodo superior al de vigencia del horario de servicio.
+
+Los acuerdos marco no especificarán las franjas horarias, pero establecerán las características de la capacidad de infraestructura solicitada y ofrecida a los candidatos y los procedimientos para satisfacer sin merma los derechos de los demás candidatos y sus legítimas necesidades comerciales. Asimismo, podrán establecer pautas de colaboración entre el Administrador de Infraestructuras Ferroviarias y los candidatos para la mejora de la calidad de los servicios ofrecidos.
+
+En todo caso, la existencia de un acuerdo marco entre el Administrador de Infraestructuras Ferroviarias y un candidato no exime a éste de efectuar la solicitud de la capacidad de infraestructura que precise por el procedimiento establecido en el artículo 10.
+
+2\. Con carácter general y salvo causas excepcionales debidamente acreditadas en el expediente, los acuerdos marco tendrán una vigencia de cinco años. No obstante, podrán modificarse, previo acuerdo de las partes, para permitir un mejor uso de la infraestructura ferroviaria. En todo caso, todo período superior a cinco años estará justificado por la existencia de contratos comerciales, inversiones particulares o riesgos.
+
+Sólo será posible un período de vigencia superior a diez años en los casos en que el acuerdo marco comprometa inversiones de gran magnitud en el largo plazo y, especialmente, cuando éstas sean objeto de compromisos contractuales.
+
+3\. Los acuerdos marco deberán ser previamente aprobados por el Comité de Regulación Ferroviaria. El Administrador de Infraestructuras Ferroviarias informará de las líneas generales de cada acuerdo marco a todos los interesados, respetando la confidencialidad de los datos que puedan afectar al secreto comercial.
+
+### Artículo 14. Derechos de uso de la capacidad.
+
+1\. El derecho de uso de capacidad no podrá ser adjudicado por un periodo superior al de vigencia del horario de servicio.
+
+2\. El derecho de uso de capacidad será adjudicado por el Administrador de Infraestructuras Ferroviarias y, una vez atribuido a un candidato, éste no podrá cedérselo a otro. La utilización de capacidad por parte de una empresa ferroviaria que opere por cuenta de un adjudicatario de capacidad que no sea empresa ferroviaria, no se considerará cesión. En tal caso, dicha utilización de capacidad se llevará a cabo para el cumplimiento de los fines propios de la actividad del adjudicatario.
+
+En este supuesto, el adjudicatario deberá comunicar al Administrador de Infraestructuras Ferroviarias los datos de la empresa ferroviaria que va a utilizar dicha capacidad con, al menos, cinco días de antelación al de su utilización efectiva.
+
+3\. En todo caso, queda prohibido cualquier negocio jurídico sobre la capacidad de infraestructura adjudicada. La contravención de este precepto determinará, previa la tramitación del oportuno expediente, la revocación de la licencia de empresa ferroviaria o de la correspondiente habilitación otorgada a otros candidatos.
+
+### Artículo 15. Derechos y obligaciones de los candidatos.
+
+1\. Los candidatos, en materia de adjudicación de capacidad, tendrán los siguientes derechos:
+
+a) A que el acceso a la Red Ferroviaria de Interés General se produzca en condiciones objetivas, transparentes y no discriminatorias.
+
+b) A adquirir una copia de la declaración sobre la red actualizada.
+
+c) A que se les comunique el proyecto de horario de servicio y a realizar las observaciones que estimen oportunas.
+
+d) A solicitar, conforme a lo dispuesto en la Ley y el Reglamento del Sector Ferroviario y en la presente orden, la adjudicación de capacidad de infraestructura ferroviaria y que les sea tramitada dicha solicitud.
+
+e) A dirigir su solicitud de adjudicación de capacidad de infraestructuras que trascurran por el territorio de más de un Estado miembro de la Unión Europea, al Administrador de Infraestructuras Ferroviarias o a la entidad que constituyan, en su caso, los administradores de infraestructuras de los distintos Estados.
+
+f) A ser informados de las líneas generales de los acuerdos marco que se celebren entre el Administrador de Infraestructuras Ferroviarias y otros candidatos, en los términos previstos en esta orden.
+
+g) A ser consultados en el procedimiento de coordinación o de resolución de conflictos que les afecten.
+
+h) A obtener información acerca de la capacidad de infraestructura adjudicada y de la capacidad de red disponible.
+
+i) A utilizar la capacidad de infraestructura adjudicada y las correspondientes bifurcaciones y desvíos de la red, así como a que el Administrador de Infraestructuras Ferroviarias asuma el control de circulación del tren, incluidos los sistemas de señalización asociados, así como la comunicación y el suministro de información sobre la circulación ferroviaria o que sea necesaria para la prestación del servicio de transporte ferroviario.
+
+j) A la prestación, en condiciones no discriminatorias, de los servicios adicionales, complementarios y auxiliares por parte del Administrador de Infraestructuras Ferroviarias, en su caso, o de terceros, debidamente autorizados por éste, conforme a lo establecido en el artículo 40 de la Ley del Sector Ferroviario.
+
+k) A acudir al Comité de Regulación Ferroviaria conforme a lo dispuesto en el artículo 83 de la Ley del Sector Ferroviario.
+
+2\. Son obligaciones de los candidatos en materia de adjudicación de capacidad, las siguientes:
+
+a) Aportar la información que les sea requerida por el Administrador de Infraestructuras Ferroviarias durante el procedimiento de adjudicación de capacidad.
+
+b) Cumplir las obligaciones que contraigan en los acuerdos marco que celebren con el Administrador de Infraestructuras Ferroviarias.
+
+c) Contestar las consultas planteadas por el Administrador de Infraestructuras Ferroviarias en relación con la capacidad asignada y colaborar con él en la coordinación de solicitudes.
+
+d) Abonar, en los plazos establecidos, el importe de las tasas, los cánones y las tarifas regulados en el Título V de la Ley del Sector Ferroviario.
+
+e) Utilizar la capacidad adjudicada, conforme a lo previsto en la normativa vigente.
+
+f) No celebrar ningún negocio jurídico sobre la capacidad adjudicada.
+
+g) Colaborar con el Administrador de Infraestructuras Ferroviarias en los procesos de coordinación que éste lleve a cabo y, en su caso, en la elaboración de los planes de aumento de capacidad de infraestructuras congestionadas.
+
+h) Poner a disposición del Administrador de Infraestructuras Ferroviarias, cuando los candidatos sean empresas ferroviarias, cuantos recursos les sean solicitados por éste, prestándole la colaboración requerida en caso de perturbación del tráfico ferroviario, conforme a lo previsto en el artículo 34 de la Ley del Sector Ferroviario.
+
+i) Cumplir las obligaciones previstas en el artículo 86 de la Ley del Sector Ferroviario en relación con la policía del uso y defensa de la infraestructura y la inspección de las actividades ferroviarias.
+
+j) Informar, con la suficiente antelación, sobre el horario de sus servicios y las tarifas correspondientes a éstos.
+
+k) Respetar los niveles de calidad previstos en la normativa de desarrollo de la Ley del Sector Ferroviario.
+
+l) Tener a disposición de los usuarios de los servicios un libro de reclamaciones.
+
+m) Cumplir las resoluciones que dicte el Comité de Regulación Ferroviaria en el ejercicio de sus funciones.
+
+### Artículo 16. Derechos y obligaciones del Administrador de Infraestructuras Ferroviarias.
+
+1\. Sin perjuicio de lo dispuesto en otras normas, el Administrador de Infraestructuras Ferroviarias tiene, en materia de adjudicación de capacidad, los siguientes derechos:
+
+a) Percibir los importes correspondientes a las tasas, cánones y tarifas regulados en el Título V de la Ley del Sector Ferroviario.
+
+b) Solicitar la colaboración de los candidatos durante el procedimiento de adjudicación de capacidad así como en la redacción de los planes de aumento de capacidad.
+
+c) Solicitar a las empresas ferroviarias los recursos y la colaboración que fueren necesarios en los casos de perturbaciones del tráfico ferroviario previstos en el artículo 34 de la Ley del Sector Ferroviario.
+
+2\. Sin perjuicio de lo dispuesto en otras normas, son obligaciones del Administrador de Infraestructuras Ferroviarias, en materia de adjudicación de capacidad, las siguientes:
+
+a) Elaborar, aprobar y publicar, en los plazos previstos, la declaración sobre la red.
+
+b) Adjudicar la capacidad de infraestructura ferroviaria atendiendo, debidamente, las solicitudes de adjudicación de capacidad y la celebración de acuerdos marco, procurando resolver los conflictos que surjan mediante la coordinación de solicitudes, conforme a lo establecido en el artículo 8.
+
+c) Declarar la infraestructura correspondiente como congestionada en los casos procedentes, con arreglo a lo previsto en el artículo 17.
+
+d) Respetar la confidencialidad comercial de la información que le sea facilitada en relación con la adjudicación de capacidad.
+
+e) Colaborar con los administradores de infraestructuras de otros Estados miembros de la Unión Europea, conforme a lo dispuesto en el artículo 12.
+
+f) Cumplir las resoluciones que dicte el Comité de Regulación Ferroviaria en el ejercicio de sus funciones.
+
+## CAPÍTULO IV — Congestión de la infraestructura ferroviaria
+
+### Artículo 17. Infraestructura congestionada.
+
+1\. Cuando tras coordinar las franjas horarias solicitadas y consultar con los candidatos afectados, no sea posible atender, en la debida forma, las solicitudes de capacidad de infraestructura ferroviaria, el administrador de infraestructuras ferroviarias declarará la parte de la infraestructura afectada como congestionada. Idéntica calificación recibirá la infraestructura para la que se prevea una insuficiencia de capacidad en un futuro próximo.
+
+2\. Cuando una infraestructura se declare congestionada, el administrador de infraestructuras ferroviarias llevará a cabo un análisis de capacidad, conforme al artículo 18, a menos que ya se estuviera aplicando un plan de aumento de capacidad, conforme al artículo 19.
+
+3\. Si la línea en su totalidad, o un tramo o infraestructura de la misma, hubiera sido declarada como congestionada, se tomarán en cuenta para su asignación, por orden descendente, las siguientes prioridades de adjudicación:
+
+a) La eventual existencia de acuerdos marco que prevean la adjudicación de esa solicitud de capacidad.
+
+b) La existencia de infraestructuras especializadas y la posibilidad de atender dichas solicitudes en dichas infraestructuras.
+
+c) Los servicios declarados de interés público.
+
+d) Los servicios internacionales.
+
+e) El aprovechamiento de la capacidad disponible; en particular, se considerará el volumen de la solicitud, por un candidato, de un mismo surco o conjunto de surcos, valorado en términos de kilómetros x tren de la solicitud, durante el periodo considerado.
+
+f) La eficiencia del sistema.
+
+En la aplicación de estos criterios de prioridad, recibirán la debida consideración los servicios de transporte de mercancías y, en especial, los de carácter internacional.
+
+4\. En todo caso, con el objetivo de conseguir una mayor eficiencia del sistema y un mejor servicio para la sociedad, así como garantizar, en la mayor medida posible, el acceso de todos los candidatos que hayan solicitado la adjudicación de capacidad, el administrador de infraestructuras ferroviarias podrá modular la aplicación estricta de los anteriores criterios de adjudicación, atendiendo a criterios sociales, económicos o medioambientales que deberán ser fijados en la declaración sobre la red.
+
+5\. Con objeto de garantizar unos servicios de transporte ferroviario adecuados y, en particular, de responder a las exigencias de los servicios declarados de interés público o de favorecer el transporte ferroviario de mercancías, el Ministerio de Transportes y Movilidad Sostenible podrá adoptar las medidas necesarias, en condiciones no discriminatorias, para que en la adjudicación de la capacidad de infraestructura se dé prioridad a dichos servicios.
+
+6\. Declarada una infraestructura congestionada, el administrador de infraestructuras ferroviarias deberá exigir la cesión de las franjas horarias que, en un período de al menos un mes, hayan sido utilizadas menos que la cuota asignada que se establezca en la declaración sobre la red, salvo que ello se deba a causas no económicas ajenas al control de los candidatos.
+
+> Se modifica por el art. único.7 de la Orden TRM/1522/2025, de 21 de diciembre. [Ref. BOE-A-2025-26701](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26701)
+
+> Se modifica el apartado 1 y se añade el 5 por el art. 1.25 y 26 de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)
+
+### Artículo 18. Análisis de capacidad.
+
+1\. El Administrador de Infraestructuras Ferroviarias realizará el análisis de capacidad en el plazo de seis meses desde la declaración de la infraestructura como congestionada. Dicho análisis tendrá por objeto determinar, por una parte, las limitaciones de capacidad de infraestructura que impiden atender, debidamente, las solicitudes y, por otra, proponer actuaciones que permitan satisfacer solicitudes adicionales. El análisis establecerá las causas de la congestión y las medidas que pueden adoptarse a corto y medio plazo para mitigarlas.
+
+2\. El análisis de capacidad deberá comprender:
+
+1.º La determinación de las causas de la congestión, haciendo referencia a:
+
+a) Características de la infraestructura congestionada.
+
+b) Procedimientos utilizados en la gestión de la circulación.
+
+c) Naturaleza y los tipos de los distintos servicios que se presten en la infraestructura congestionada.
+
+d) Naturaleza y los tipos de los nuevos servicios solicitados por los candidatos autorizados y a los que no se les haya adjudicado capacidad.
+
+e) Efecto que tienen todos los factores enumerados en los apartados anteriores en el cálculo de la capacidad.
+
+2.º La relación de las medidas que pueden considerarse para resolver la congestión de capacidad. Entre estas medidas se analizarán:
+
+a) Utilización de tramos o itinerarios alternativos.
+
+b) Modificación de los horarios propuestos para la prestación de los servicios.
+
+c) Cambios en la dotación y adscripción del personal de circulación.
+
+d) Cambios en la velocidad de los trenes.
+
+e) Cambios en el régimen de explotación.
+
+f) Obras de mejora a realizar en los elementos de la infraestructura ferroviaria que puedan contribuir a mitigar o evitar la congestión y una estimación de su coste.
+
+3\. Una vez realizado el análisis de capacidad, se comunicará al Ministerio de Fomento.
+
+### Artículo 19. Plan de aumento de capacidad.
+
+1\. El plan de aumento de capacidad tendrá por objeto minimizar las limitaciones de capacidad que hayan motivado la calificación de un tramo como infraestructura congestionada.
+
+2\. El plan de aumento de capacidad será elaborado por el Administrador de Infraestructuras Ferroviarias en el plazo máximo de seis meses a contar desde la fecha de finalización del análisis de capacidad, previa consulta a los candidatos afectados, y será remitido al Ministerio de Fomento.
+
+3\. En el plan de aumento de capacidad se establecerán:
+
+a) Las causas de la congestión.
+
+b) La evolución previsible del tráfico.
+
+c) Las limitaciones que condicionan el desarrollo de la infraestructura congestionada.
+
+d) El análisis de rentabilidad económico-financiera de cada una de las medidas planteadas y de todas ellas en su conjunto.
+
+e) Las medidas adoptadas y el calendario para su aplicación.
+
+### Disposición adicional única. Verificación de horarios.
+
+Anualmente, un verificador externo analizará los horarios fijados como referencia por los administradores de infraestructura para la capacidad adjudicada y verificará la evolución de los mismos en el tiempo así como su adecuación a las prestaciones para las que fue diseñada y construida la infraestructura ferroviaria.
+
+Si del citado análisis se infieren progresivos incrementos de los horarios de referencia, el Ministerio de Fomento solicitará a los administradores de infraestructuras la corrección de las causas que los provocan en el menor plazo posible y propondrá la compensación económica a abonar a los diferentes operadores afectados en tanto no se produzca dicha corrección.
+
+> Se añade por la disposición final 1 de la Orden FOM/189/2015, de 11 de febrero. [Ref. BOE-A-2015-1365](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1365).
+
+### Disposición transitoria primera. Régimen aplicable a la adjudicación de capacidad de infraestructura hasta la entrada en vigor del primer horario de servicio.
+
+1\. Desde la entrada en vigor de esta orden y hasta la vigencia del primer horario de servicio, el procedimiento para la adjudicación de capacidad de infraestructura se ajustará a lo establecido a continuación:
+
+a) RENFE-Operadora, tendrá asignada la capacidad de infraestructura necesaria para la prestación de los servicios de transporte ferroviario que estuviere prestando en el momento de entrada en vigor de la Ley del Sector Ferroviario. Además, podrá solicitar la capacidad necesaria para la prestación de nuevos servicios de transporte ferroviarios, por el procedimiento establecido en el artículo 7.3.
+
+b) El resto de empresas ferroviarias y los demás candidatos podrán solicitar, por el procedimiento establecido en el artículo 7.3 para la prestación de servicios de transporte de mercancías, la capacidad de infraestructura que no viniere utilizando RENFE-Operadora en esa fecha.
+
+2\. El primer horario de servicio entrará en vigor a las doce de la noche del segundo sábado de diciembre del año 2005.
+
+### Disposición transitoria segunda. Ajuste de los plazos en relación con la primera declaración sobre la red y el primer horario de servicios.
+
+1\. En relación con la primera declaración sobre la red, la publicación en el Boletín Oficial del Estado del acuerdo de aprobación de la misma se producirá tan pronto como sea posible, una vez entre en vigor esta orden, no rigiendo en este caso el plazo establecido en el artículo 5.1.
+
+2\. Desde la entrada en vigor de la presente orden el Administrador de Infraestructuras Ferroviarias adoptará las medidas necesarias para acomodar los plazos intermedios establecidos en los artículos 7 y 8, a fin de hacer compatibles los mismos con la fecha de entrada en vigor del primer horario de servicio indicada en la disposición transitoria anterior.
+
+### Disposición derogatoria. Derogación normativa.
+
+Quedan derogadas las normas de igual o inferior rango a esta orden que se opongan a lo en ella previsto.
+
+### Disposición final primera. Disposiciones de ejecución.
+
+La Secretaría General de Infraestructuras y la Dirección General de Ferrocarriles adoptarán las disposiciones necesarias para la ejecución y el cumplimiento de esta orden.
+
+### Disposición final segunda. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 7 de abril de 2005.
+
+Álvarez Arza
+
+> Información relacionada
+
+> Téngase en cuenta que todas las referencias a la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario contenidas en la presente Orden deberán entenderse hechas a los preceptos que corresponda de la Ley 38/2015, de 29 de septiembre, del sector ferroviario y todas las referencias al «Administrador de Infraestructuras Ferroviarias» deberán entenderse hechas a los «administradores de infraestructuras ferroviarias», según establece la disposición adicional única de la Orden FOM/642/2018, de 13 de junio. [Ref. BOE-A-2018-8016](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8016)

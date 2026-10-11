@@ -545,1561 +545,1556 @@ El presente anexo sólo tiene por función expresar y determinar los beneficiari
 
 El presente anexo sólo tiene por función expresar y determinar los beneficiarios de las cuotas y porcentajes de pesca en función de los criterios descritos en el artículo 2.4.a). Por ello deberá estarse a efectos del conocimiento de las cuotas y porcentajes de cada año a la correspondiente Resolución de la Secretaría General de Pesca aprobada en aplicación del artículo 2.4.b) y 2.4.c) de la presente orden y publicada en el «Boletín Oficial del Estado».
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_6">
-<col class="row_column_7">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">CFPO</p>
+<p>CFPO</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre buque</p>
+<p>Nombre buque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Porcentaje Individual de cuota 2016</p>
+<p>Porcentaje Individual de cuota 2016</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25730</p>
+<p>25730</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ABUELA MARIANA</p>
+<p>ABUELA MARIANA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,59</p>
+<p>3,59</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25970</p>
+<p>25970</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ABUELO ANTONIO</p>
+<p>ABUELO ANTONIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,78</p>
+<p>2,78</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24050</p>
+<p>24050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ABUELO PICHIN</p>
+<p>ABUELO PICHIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26846</p>
+<p>26846</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ANA PRIN</p>
+<p>ANA PRIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,09</p>
+<p>2,09</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25474</p>
+<p>25474</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ANA VAZQUEZ</p>
+<p>ANA VAZQUEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25278</p>
+<p>25278</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ANA Y RAFAEL</p>
+<p>ANA Y RAFAEL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,18</p>
+<p>0,18</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25273</p>
+<p>25273</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ANDALUCIA SEGUNDO</p>
+<p>ANDALUCIA SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25719</p>
+<p>25719</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ANTONIA Y ANA</p>
+<p>ANTONIA Y ANA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,98</p>
+<p>1,98</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24643</p>
+<p>24643</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ANTONIO SARCIÑA</p>
+<p>ANTONIO SARCIÑA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25140</p>
+<p>25140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AZUL CELESTE</p>
+<p>AZUL CELESTE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25615</p>
+<p>25615</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CARRYMAR PRIMERO</p>
+<p>CARRYMAR PRIMERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,22</p>
+<p>0,22</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25478</p>
+<p>25478</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CASADO MARTIN</p>
+<p>CASADO MARTIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,85</p>
+<p>0,85</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10289</p>
+<p>10289</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CIUDAD DE LEPE SEGUNDO</p>
+<p>CIUDAD DE LEPE SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24526</p>
+<p>24526</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CONCHI Y ANTONIO</p>
+<p>CONCHI Y ANTONIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,62</p>
+<p>0,62</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25774</p>
+<p>25774</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CORTES CANALES</p>
+<p>CORTES CANALES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25663</p>
+<p>25663</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CORTES GUTIERREZ</p>
+<p>CORTES GUTIERREZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,51</p>
+<p>0,51</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5304</p>
+<p>5304</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CRISTINA</p>
+<p>CRISTINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26182</p>
+<p>26182</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CRISTO DE LUZ</p>
+<p>CRISTO DE LUZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,33</p>
+<p>0,33</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25370</p>
+<p>25370</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DE LA MORENA</p>
+<p>DE LA MORENA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,44</p>
+<p>0,44</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26087</p>
+<p>26087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DOLORES Y JUAN</p>
+<p>DOLORES Y JUAN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,37</p>
+<p>0,37</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25933</p>
+<p>25933</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DULCE PAOLA PRIMERO</p>
+<p>DULCE PAOLA PRIMERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26051</p>
+<p>26051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EL MARTIÑO</p>
+<p>EL MARTIÑO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,25</p>
+<p>0,25</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26165</p>
+<p>26165</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EL POPI</p>
+<p>EL POPI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,39</p>
+<p>0,39</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24303</p>
+<p>24303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EL PPT</p>
+<p>EL PPT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,33</p>
+<p>0,33</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23192</p>
+<p>23192</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EL TONINO</p>
+<p>EL TONINO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26330</p>
+<p>26330</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FLECHA DEL ROMPIDO</p>
+<p>FLECHA DEL ROMPIDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,33</p>
+<p>0,33</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26320</p>
+<p>26320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">GARCIA GONZALEZ</p>
+<p>GARCIA GONZALEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,12</p>
+<p>2,12</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24634</p>
+<p>24634</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">GARRIDO CAZORLA SEGUNDO</p>
+<p>GARRIDO CAZORLA SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25558</p>
+<p>25558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">GEMA JESUS DOS</p>
+<p>GEMA JESUS DOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24445</p>
+<p>24445</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">GRAN SEBASTIAN</p>
+<p>GRAN SEBASTIAN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24473</p>
+<p>24473</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS ALONSO MORENO</p>
+<p>HERMANOS ALONSO MORENO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,24</p>
+<p>4,24</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25664</p>
+<p>25664</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS BOMBO</p>
+<p>HERMANOS BOMBO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,46</p>
+<p>0,46</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25934</p>
+<p>25934</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS CACERES</p>
+<p>HERMANOS CACERES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25383</p>
+<p>25383</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS CARRILLO VICTORIA</p>
+<p>HERMANOS CARRILLO VICTORIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,37</p>
+<p>2,37</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26885</p>
+<p>26885</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS GALLITO</p>
+<p>HERMANOS GALLITO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26351</p>
+<p>26351</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS GALLOSO</p>
+<p>HERMANOS GALLOSO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,19</p>
+<p>0,19</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25149</p>
+<p>25149</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS GOMEZ MARTIN</p>
+<p>HERMANOS GOMEZ MARTIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,22</p>
+<p>0,22</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26634</p>
+<p>26634</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS GOMEZ MEDERO</p>
+<p>HERMANOS GOMEZ MEDERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23564</p>
+<p>23564</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS LOPEZ MARTIN</p>
+<p>HERMANOS LOPEZ MARTIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,12</p>
+<p>1,12</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25585</p>
+<p>25585</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS NETO</p>
+<p>HERMANOS NETO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25822</p>
+<p>25822</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS PRIETO</p>
+<p>HERMANOS PRIETO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,33</p>
+<p>0,33</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26872</p>
+<p>26872</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS REYES SEGUNDO</p>
+<p>HERMANOS REYES SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25902</p>
+<p>25902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS VAZQUEZ PONCE</p>
+<p>HERMANOS VAZQUEZ PONCE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,24</p>
+<p>0,24</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25609</p>
+<p>25609</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">HERMANOS VENEGAS</p>
+<p>HERMANOS VENEGAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,44</p>
+<p>0,44</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26034</p>
+<p>26034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ISABEL Y PACO</p>
+<p>ISABEL Y PACO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,38</p>
+<p>4,38</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4230</p>
+<p>4230</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JOSE MONTES</p>
+<p>JOSE MONTES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24843</p>
+<p>24843</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JOSE Y AMPARO</p>
+<p>JOSE Y AMPARO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">12409</p>
+<p>12409</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JOSE Y DOLORES</p>
+<p>JOSE Y DOLORES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25532</p>
+<p>25532</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JOSE Y FLORENTINO</p>
+<p>JOSE Y FLORENTINO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,60</p>
+<p>0,60</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25168</p>
+<p>25168</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JUAN LOPEZ</p>
+<p>JUAN LOPEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,78</p>
+<p>0,78</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24658</p>
+<p>24658</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JUAN PAREJA</p>
+<p>JUAN PAREJA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25487</p>
+<p>25487</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JUAN PRIN</p>
+<p>JUAN PRIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,04</p>
+<p>1,04</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26373</p>
+<p>26373</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">JUAN Y DOLORES</p>
+<p>JUAN Y DOLORES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9902</p>
+<p>9902</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LEPE</p>
+<p>LEPE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24637</p>
+<p>24637</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LOBO MAR PRIMERO</p>
+<p>LOBO MAR PRIMERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,38</p>
+<p>1,38</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24073</p>
+<p>24073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LOPEZ JESUS</p>
+<p>LOPEZ JESUS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25810</p>
+<p>25810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LOPEZ SANTANA</p>
+<p>LOPEZ SANTANA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,18</p>
+<p>0,18</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25030</p>
+<p>25030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">LOZANO MARTIN</p>
+<p>LOZANO MARTIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,52</p>
+<p>2,52</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25017</p>
+<p>25017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MADRIGAL FERRERA</p>
+<p>MADRIGAL FERRERA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,23</p>
+<p>1,23</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25095</p>
+<p>25095</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MANOLIN EL CANO</p>
+<p>MANOLIN EL CANO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,23</p>
+<p>3,23</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23495</p>
+<p>23495</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MANUEL ANTONIO PRIMERO</p>
+<p>MANUEL ANTONIO PRIMERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,60</p>
+<p>0,60</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">11023</p>
+<p>11023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MANUEL Y AMALIA</p>
+<p>MANUEL Y AMALIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,42</p>
+<p>0,42</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25211</p>
+<p>25211</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MARIA Y ALICIA</p>
+<p>MARIA Y ALICIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,44</p>
+<p>2,44</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26393</p>
+<p>26393</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MARIANO Y JOSE</p>
+<p>MARIANO Y JOSE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24890</p>
+<p>24890</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MARICARI Y MUENSTU</p>
+<p>MARICARI Y MUENSTU</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,30</p>
+<p>0,30</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">27062</p>
+<p>27062</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MARTIN ESTEVEZ</p>
+<p>MARTIN ESTEVEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25369</p>
+<p>25369</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MASJID</p>
+<p>MASJID</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,30</p>
+<p>0,30</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24233</p>
+<p>24233</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MATARO SEGUNDO</p>
+<p>MATARO SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,26</p>
+<p>1,26</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25750</p>
+<p>25750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MATARO TERCERO</p>
+<p>MATARO TERCERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,38</p>
+<p>2,38</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26476</p>
+<p>26476</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MATIAS Y JOSEFA</p>
+<p>MATIAS Y JOSEFA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26960</p>
+<p>26960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MELLADO SANCHEZ</p>
+<p>MELLADO SANCHEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26347</p>
+<p>26347</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MERCEDES Y MANUEL</p>
+<p>MERCEDES Y MANUEL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25458</p>
+<p>25458</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MIGUEL Y MILAGROS</p>
+<p>MIGUEL Y MILAGROS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,55</p>
+<p>1,55</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25077</p>
+<p>25077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MORA AGUADED</p>
+<p>MORA AGUADED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,59</p>
+<p>0,59</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26424</p>
+<p>26424</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NARCISA Y ANTONIO</p>
+<p>NARCISA Y ANTONIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,25</p>
+<p>0,25</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25329</p>
+<p>25329</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NEPTUNO DIOS MAR</p>
+<p>NEPTUNO DIOS MAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,17</p>
+<p>0,17</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25603</p>
+<p>25603</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ADELIN</p>
+<p>NUEVO ADELIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24242</p>
+<p>24242</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO AMANECER DOS</p>
+<p>NUEVO AMANECER DOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,98</p>
+<p>0,98</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24578</p>
+<p>24578</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO AMANECER UNO</p>
+<p>NUEVO AMANECER UNO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,24</p>
+<p>3,24</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25139</p>
+<p>25139</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ANDRESIN</p>
+<p>NUEVO ANDRESIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,33</p>
+<p>5,33</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24318</p>
+<p>24318</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ANGEL LOPEZ</p>
+<p>NUEVO ANGEL LOPEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25027</p>
+<p>25027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ANTONIO FRANCISCO</p>
+<p>NUEVO ANTONIO FRANCISCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,74</p>
+<p>0,74</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25977</p>
+<p>25977</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ANTONIO GOMEZ</p>
+<p>NUEVO ANTONIO GOMEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,92</p>
+<p>0,92</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26557</p>
+<p>26557</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO CALIPTO</p>
+<p>NUEVO CALIPTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24773</p>
+<p>24773</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO CARMEN MARIA</p>
+<p>NUEVO CARMEN MARIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,89</p>
+<p>2,89</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">13436</p>
+<p>13436</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO CARRETON</p>
+<p>NUEVO CARRETON</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23919</p>
+<p>23919</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO DESEADO</p>
+<p>NUEVO DESEADO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,48</p>
+<p>0,48</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25024</p>
+<p>25024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ELOY</p>
+<p>NUEVO ELOY</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23606</p>
+<p>23606</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ESPERANZA MAR</p>
+<p>NUEVO ESPERANZA MAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24622</p>
+<p>24622</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ESTRELLA POLAR</p>
+<p>NUEVO ESTRELLA POLAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25592</p>
+<p>25592</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO FALETE MARIA</p>
+<p>NUEVO FALETE MARIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25004</p>
+<p>25004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO FLOR MARIA</p>
+<p>NUEVO FLOR MARIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26061</p>
+<p>26061</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO FRANCISCO MANUEL</p>
+<p>NUEVO FRANCISCO MANUEL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25350</p>
+<p>25350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO FRAY ESCOBA</p>
+<p>NUEVO FRAY ESCOBA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,21</p>
+<p>0,21</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26563</p>
+<p>26563</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO GRAN PODER</p>
+<p>NUEVO GRAN PODER</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25106</p>
+<p>25106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO JUAN MELCHOR</p>
+<p>NUEVO JUAN MELCHOR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,47</p>
+<p>0,47</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23869</p>
+<p>23869</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO MANUEL CONCEPCION</p>
+<p>NUEVO MANUEL CONCEPCION</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,52</p>
+<p>0,52</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9831</p>
+<p>9831</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NORAY</p>
+<p>NORAY</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,81</p>
+<p>0,81</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25138</p>
+<p>25138</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO MARIA RUIBAL</p>
+<p>NUEVO MARIA RUIBAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,07</p>
+<p>5,07</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23964</p>
+<p>23964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO PACO JOSE</p>
+<p>NUEVO PACO JOSE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,01</p>
+<p>2,01</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25751</p>
+<p>25751</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO PATEQUE</p>
+<p>NUEVO PATEQUE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25671</p>
+<p>25671</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO PRINCIPE</p>
+<p>NUEVO PRINCIPE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26155</p>
+<p>26155</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO RAMONA</p>
+<p>NUEVO RAMONA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25443</p>
+<p>25443</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO RIO CARTUJA</p>
+<p>NUEVO RIO CARTUJA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23908</p>
+<p>23908</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ROCIO</p>
+<p>NUEVO ROCIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,19</p>
+<p>0,19</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">27019</p>
+<p>27019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ROQUE MARIA</p>
+<p>NUEVO ROQUE MARIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24959</p>
+<p>24959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO ROSI</p>
+<p>NUEVO ROSI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23694</p>
+<p>23694</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO TALITO SEGUNDO</p>
+<p>NUEVO TALITO SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,17</p>
+<p>0,17</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25319</p>
+<p>25319</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO TIO PACO</p>
+<p>NUEVO TIO PACO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,25</p>
+<p>0,25</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24052</p>
+<p>24052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NUEVO VALVERDE</p>
+<p>NUEVO VALVERDE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25036</p>
+<p>25036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ORTEGA PRIMERO</p>
+<p>ORTEGA PRIMERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25737</p>
+<p>25737</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ORTEGA SEGUNDO</p>
+<p>ORTEGA SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25470</p>
+<p>25470</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PACO JOSE</p>
+<p>PACO JOSE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,98</p>
+<p>0,98</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9892</p>
+<p>9892</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PALOMO</p>
+<p>PALOMO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25785</p>
+<p>25785</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PAPELERO</p>
+<p>PAPELERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24566</p>
+<p>24566</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PEREZ ALONSO</p>
+<p>PEREZ ALONSO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25674</p>
+<p>25674</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PUERTO DE BONANZA TRES</p>
+<p>PUERTO DE BONANZA TRES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,88</p>
+<p>0,88</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25862</p>
+<p>25862</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PUNTA DE MALANDAR</p>
+<p>PUNTA DE MALANDAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,20</p>
+<p>0,20</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24613</p>
+<p>24613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RIERA FERNANDEZ</p>
+<p>RIERA FERNANDEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,79</p>
+<p>3,79</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25250</p>
+<p>25250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROCIO Y ANA</p>
+<p>ROCIO Y ANA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>0,16</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">27248</p>
+<p>27248</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROCIO Y MANUEL</p>
+<p>ROCIO Y MANUEL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25930</p>
+<p>25930</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RODRIGUEZ CONCEPCION SEGUNDO</p>
+<p>RODRIGUEZ CONCEPCION SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,71</p>
+<p>0,71</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25647</p>
+<p>25647</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RODRIGUEZ CONCEPCION TERCERO</p>
+<p>RODRIGUEZ CONCEPCION TERCERO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,64</p>
+<p>0,64</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5352</p>
+<p>5352</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROSA DE LOS VIENTOS</p>
+<p>ROSA DE LOS VIENTOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24865</p>
+<p>24865</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RUMBO AL MAR</p>
+<p>RUMBO AL MAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26142</p>
+<p>26142</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RUPERTIN</p>
+<p>RUPERTIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,15</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26100</p>
+<p>26100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SANTA MARIA SEGUNDO</p>
+<p>SANTA MARIA SEGUNDO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,82</p>
+<p>2,82</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23592</p>
+<p>23592</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO ALONSO AGUADO</p>
+<p>SEGUNDO ALONSO AGUADO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23802</p>
+<p>23802</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO ANITA MARI</p>
+<p>SEGUNDO ANITA MARI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26055</p>
+<p>26055</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO ANTONIO JUANA</p>
+<p>SEGUNDO ANTONIO JUANA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,26</p>
+<p>2,26</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25187</p>
+<p>25187</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO BLANCA PRIETO</p>
+<p>SEGUNDO BLANCA PRIETO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">23863</p>
+<p>23863</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO CRISTO OCEANO</p>
+<p>SEGUNDO CRISTO OCEANO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,37</p>
+<p>0,37</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">22159</p>
+<p>22159</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO HERMANOS VAZQUEZ</p>
+<p>SEGUNDO HERMANOS VAZQUEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10565</p>
+<p>10565</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO NAVEGA</p>
+<p>SEGUNDO NAVEGA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26067</p>
+<p>26067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SEGUNDO VIRGEN BELLA</p>
+<p>SEGUNDO VIRGEN BELLA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,30</p>
+<p>0,30</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">25039</p>
+<p>25039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">GALAN CASTELLANO</p>
+<p>GALAN CASTELLANO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,24</p>
+<p>0,24</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">26973</p>
+<p>26973</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">VELEZ MUÑOZ</p>
+<p>VELEZ MUÑOZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24145</p>
+<p>24145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">VIRGINIA Y LILI</p>
+<p>VIRGINIA Y LILI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,36</p>
+<p>0,36</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">24479</p>
+<p>24479</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">YEGUA LOPEZ</p>
+<p>YEGUA LOPEZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>0,14</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">TOTAL</p>
+<p>TOTAL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p>100,00</p>
 </td>
 </tr>
 </tbody>

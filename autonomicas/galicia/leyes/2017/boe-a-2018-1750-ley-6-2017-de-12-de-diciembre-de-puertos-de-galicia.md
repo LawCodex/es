@@ -2888,1011 +2888,1007 @@ Alberto Núñez Feijóo.
 
 ## ANEXO — Puertos e Instalaciones Marítimas de competencia de la Comunidad Autónoma de Galicia
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_6">
-<col class="row_column_7">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">N.º</p>
+<p>N.º</p>
 </td>
 <td>
-<p class="cabeza_tabla">Puerto</p>
+<p>Puerto</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Provincia de Lugo</p>
+<p>Provincia de Lugo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ribadeo</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Rinlo</p>
+<p>Ribadeo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Foz</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nois</p>
+<p>Rinlo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Burela</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">San Cibrao</p>
+<p>Foz</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Morás</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Portocelo</p>
+<p>Nois</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viveiro-Celeiro</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">O Vicedo</p>
+<p>Burela</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>San Cibrao</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Morás</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Portocelo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Viveiro-Celeiro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>O Vicedo</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Provincia de A Coruña</p>
+<p>Provincia de A Coruña</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Barqueiro</p>
+<p>O Barqueiro</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bares</p>
+<p>Bares</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espasante</p>
+<p>Espasante</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ortigueira</p>
+<p>Ortigueira</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cariño</p>
+<p>Cariño</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cedeira</p>
+<p>Cedeira</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">17</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Maniños-Barallobre</p>
+<p>Maniños-Barallobre</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Seixo</p>
+<p>O Seixo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mugardos</p>
+<p>Mugardos</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ares</p>
+<p>Ares</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">21</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Redes</p>
+<p>Redes</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">22</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pontedeume</p>
+<p>Pontedeume</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">23</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Miño</p>
+<p>Miño</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Perbes (embarcadero vinculado a Miño)</p>
+<p>Perbes (embarcadero vinculado a Miño)</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Betanzos</p>
+<p>Betanzos</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">26</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sada-Fontán</p>
+<p>Sada-Fontán</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">27</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lorbé</p>
+<p>Lorbé</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">28</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mera</p>
+<p>Mera</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">29</p>
+<p>29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Cruz</p>
+<p>Santa Cruz</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Pedro de Visma</p>
+<p>San Pedro de Visma</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">31</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suevos</p>
+<p>Suevos</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">32</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caión</p>
+<p>Caión</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">33</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Razo</p>
+<p>Razo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">34</p>
+<p>34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Malpica</p>
+<p>Malpica</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">35</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barizo</p>
+<p>Barizo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Mariña</p>
+<p>Santa Mariña</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">37</p>
+<p>37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corme</p>
+<p>Corme</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">38</p>
+<p>38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ponteceso</p>
+<p>Ponteceso</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">39</p>
+<p>39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laxe</p>
+<p>Laxe</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camelle</p>
+<p>Camelle</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">41</p>
+<p>41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arou</p>
+<p>Arou</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Mariña de Camariñas</p>
+<p>Santa Mariña de Camariñas</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">43</p>
+<p>43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camariñas</p>
+<p>Camariñas</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">44</p>
+<p>44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Muxía</p>
+<p>Muxía</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">45</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fisterra</p>
+<p>Fisterra</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">46</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sardiñeiro</p>
+<p>Sardiñeiro</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">47</p>
+<p>47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Quenxe</p>
+<p>Quenxe</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">48</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corcubión</p>
+<p>Corcubión</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">49</p>
+<p>49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cee</p>
+<p>Cee</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">50</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Ézaro</p>
+<p>O Ézaro</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">51</p>
+<p>51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Pindo</p>
+<p>O Pindo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">52</p>
+<p>52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Portocubelo</p>
+<p>Portocubelo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">53</p>
+<p>53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Os Muíños</p>
+<p>Os Muíños</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">54</p>
+<p>54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Muros</p>
+<p>Muros</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">55</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esteiro</p>
+<p>Esteiro</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">56</p>
+<p>56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Barquiña</p>
+<p>A Barquiña</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">57</p>
+<p>57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Conchido</p>
+<p>O Conchido</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">58</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Barquiña</p>
+<p>A Barquiña</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">59</p>
+<p>59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Freixo</p>
+<p>O Freixo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Noia</p>
+<p>Noia</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">61</p>
+<p>61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Testal</p>
+<p>Testal</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">62</p>
+<p>62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Boa</p>
+<p>Boa</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">63</p>
+<p>63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Portosín</p>
+<p>Portosín</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">64</p>
+<p>64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Porto do Son</p>
+<p>Porto do Son</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">65</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corrubedo</p>
+<p>Corrubedo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">66</p>
+<p>66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aguiño</p>
+<p>Aguiño</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">67</p>
+<p>67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Castiñeiras</p>
+<p>Castiñeiras</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">68</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Ameixida</p>
+<p>A Ameixida</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">69</p>
+<p>69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Insuela</p>
+<p>Insuela</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">70</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ribeira</p>
+<p>Ribeira</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">71</p>
+<p>71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palmeira</p>
+<p>Palmeira</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">72</p>
+<p>72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Pobra do Caramiñal</p>
+<p>A Pobra do Caramiñal</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">73</p>
+<p>73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escarabote</p>
+<p>Escarabote</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">74</p>
+<p>74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cabo de Cruz</p>
+<p>Cabo de Cruz</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">75</p>
+<p>75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ancados</p>
+<p>Ancados</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">76</p>
+<p>76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bodión</p>
+<p>Bodión</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">77</p>
+<p>77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Taragoña-O Porto</p>
+<p>Taragoña-O Porto</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">78</p>
+<p>78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rianxo</p>
+<p>Rianxo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">79</p>
+<p>79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rañó</p>
+<p>Rañó</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Provincia de Pontevedra</p>
+<p>Provincia de Pontevedra</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">80</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pontecesures</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carril</p>
+<p>Pontecesures</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">82</p>
+<p>81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vilaxoán</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">83</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">As Sinas</p>
+<p>Carril</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">84</p>
+<p>82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vilanova de Arousa</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">San Miguel de Deiro</p>
+<p>Vilaxoán</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">86</p>
+<p>83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Cabodeiro (illa de Arousa)</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">87</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">O Xufre-A Illa</p>
+<p>As Sinas</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">88</p>
+<p>84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O Campo (illa de Arousa)</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambados-Tragove</p>
+<p>Vilanova de Arousa</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">90</p>
+<p>85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Toxa</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">O Grove</p>
+<p>San Miguel de Deiro</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">92</p>
+<p>86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Meloxo</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pedras Negras</p>
+<p>O Cabodeiro (illa de Arousa)</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">94</p>
+<p>87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Portonovo</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">95</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sanxenxo</p>
+<p>O Xufre-A Illa</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">96</p>
+<p>88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Raxó</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_der">97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">O Covelo</p>
+<p>O Campo (illa de Arousa)</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">98</p>
+<p>89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Combarro</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">99</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Campelo</p>
+<p>Cambados-Tragove</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">100</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pontevedra (Club Naval)</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">101</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">As Corbaceiras</p>
+<p>A Toxa</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">102</p>
+<p>91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aguete</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">103</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bueu</p>
+<p>O Grove</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">104</p>
+<p>92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Beluso</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">105</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aldán</p>
+<p>Meloxo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">106</p>
+<p>93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cangas</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">107</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Moaña</p>
+<p>Pedras Negras</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">108</p>
+<p>94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Meira</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">109</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Domaio</p>
+<p>Portonovo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">110</p>
+<p>95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Adrián de Cobres</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">111</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Santa Cristina de Cobres</p>
+<p>Sanxenxo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">112</p>
+<p>96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arcade</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">113</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cesantes</p>
+<p>Raxó</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">114</p>
+<p>97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canido</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">115</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Panxón</p>
+<p>O Covelo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">116</p>
+<p>98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Marta de Baiona</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">117</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Baiona</p>
+<p>Combarro</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">118</p>
+<p>99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa María de Oia</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">119</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A Guarda</p>
+<p>Campelo</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">120</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A Pasaxe</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">121</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Goián</p>
+<p>Pontevedra (Club Naval)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">122</p>
+<p>101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tui</p>
+<p>As Corbaceiras</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>102</p>
+</td>
+<td>
+<p>Aguete</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>103</p>
+</td>
+<td>
+<p>Bueu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>104</p>
+</td>
+<td>
+<p>Beluso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>105</p>
+</td>
+<td>
+<p>Aldán</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>106</p>
+</td>
+<td>
+<p>Cangas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>107</p>
+</td>
+<td>
+<p>Moaña</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>108</p>
+</td>
+<td>
+<p>Meira</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>109</p>
+</td>
+<td>
+<p>Domaio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>110</p>
+</td>
+<td>
+<p>San Adrián de Cobres</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>111</p>
+</td>
+<td>
+<p>Santa Cristina de Cobres</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>112</p>
+</td>
+<td>
+<p>Arcade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>113</p>
+</td>
+<td>
+<p>Cesantes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>114</p>
+</td>
+<td>
+<p>Canido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>115</p>
+</td>
+<td>
+<p>Panxón</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>116</p>
+</td>
+<td>
+<p>Santa Marta de Baiona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>117</p>
+</td>
+<td>
+<p>Baiona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>118</p>
+</td>
+<td>
+<p>Santa María de Oia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>119</p>
+</td>
+<td>
+<p>A Guarda</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>A Pasaxe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>121</p>
+</td>
+<td>
+<p>Goián</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>122</p>
+</td>
+<td>
+<p>Tui</p>
 </td>
 </tr>
 </tbody>

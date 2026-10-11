@@ -4453,3351 +4453,3342 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 
 > Tribunales de instancia
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma de Andalucía</p>
+> <p>Comunidad Autónoma de Andalucía</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">ALMERÍA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMERÍA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1 y 5.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">40</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BERJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE HUERCAL-OVERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ROQUETAS DE MAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VÉLEZ RUBIO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE EL EJIDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PURCHENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">64</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">CÁDIZ</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CHICLANA DE LA FRONTERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARCOS DE LA FRONTERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALGECIRAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos 3, 5 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">23</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CÁDIZ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 9 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 6, 9, 10, 11, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 10, 11, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 6, 9, 10, 11, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 9, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">27</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN ROQUE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANLÚCAR DE BARRAMEDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1(C-C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE JEREZ DE LA FRONTERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 7 y 15.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos judiciales 2, 6, 7 y 15.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 7 y 15.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 6, 7, 10, 11 y 15.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">22</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LA LÍNEA DE LA CONCEPCIÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN FERNANDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE EL PUERTO DE SANTA MARÍA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ROTA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PUERTO REAL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BARBATE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE UBRIQUE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">112</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">CÓRDOBA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MONTORO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE AGUILAR DE LA FRONTERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE POZOBLANCO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BAENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE POSADAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PEÑARROYA-PUEBLO NUEVO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LUCENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CÓRDOBA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8, 3, 7 y 10.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sevilla, Huelva y Córdoba.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">40</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PRIEGO DE CÓRDOBA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CABRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MONTILLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PUENTE GENIL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">61</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">GRANADA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LOJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GUADIX.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GRANADA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6, 7 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Málaga, Granada, Jaén y Almería.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6, 7 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">56</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MOTRIL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ORGIVA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BAZA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTA FE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE HUESCAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMÚÑECAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">80</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">HUELVA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARACENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE HUELVA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sevilla, Huelva y Córdoba.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">28</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PALMA DEL CONDADO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALVERDE DEL CAMINO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE AYAMONTE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MOGUER.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">45</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">JAÉN</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE JAÉN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">26</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALCALÁ LA REAL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LA CAROLINA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ANDÚJAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BAEZA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LINARES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLACARRILLO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CAZORLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MARTOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ÚBEDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">48</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">MÁLAGA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ANTEQUERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VÉLEZ-MÁLAGA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MÁLAGA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">17</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia contra la Infancia y la Adolescencia.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">87</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE RONDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE FUENGIROLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MARBELLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ESTEPONA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TORROX.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE COÍN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARCHIDONA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TORREMOLINOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincia.</td>
-> <td class="cuerpo_tabla_centro">145</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">SEVILLA</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE OSUNA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CAZALLA DE LA SIERRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANLÚCAR LA MAYOR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CARMONA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LORA DEL RÍO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SEVILLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">25</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">21</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sevilla, Huelva y Córdoba.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">110</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MORÓN DE LA FRONTERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LEBRIJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE UTRERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ÉCIJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALCALÁ DE GUADAIRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE DOS HERMANAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MARCHENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CORIA DEL RÍO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ESTEPA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">153</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">708</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>ALMERÍA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMERÍA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1 y 5.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>40</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE BERJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE HUERCAL-OVERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE VERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE ROQUETAS DE MAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VÉLEZ RUBIO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE EL EJIDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>6</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE PURCHENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>64</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>CÁDIZ</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE CHICLANA DE LA FRONTERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>6</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARCOS DE LA FRONTERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALGECIRAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5 y 8.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos 3, 5 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>23</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE CÁDIZ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 9 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 6, 9, 10, 11, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 10, 11, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 6, 9, 10, 11, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 9, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>27</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN ROQUE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANLÚCAR DE BARRAMEDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td>1(C-C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE JEREZ DE LA FRONTERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 7 y 15.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos judiciales 2, 6, 7 y 15.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 7 y 15.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 6, 7, 10, 11 y 15.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>22</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE LA LÍNEA DE LA CONCEPCIÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN FERNANDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE EL PUERTO DE SANTA MARÍA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE ROTA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE PUERTO REAL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>14</td>
+> <td>TRIBUNAL DE INSTANCIA DE BARBATE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>15</td>
+> <td>TRIBUNAL DE INSTANCIA DE UBRIQUE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>112</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>CÓRDOBA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE MONTORO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE AGUILAR DE LA FRONTERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE POZOBLANCO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE BAENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE POSADAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE PEÑARROYA-PUEBLO NUEVO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE LUCENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE CÓRDOBA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>10</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8, 3, 7 y 10.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Sevilla, Huelva y Córdoba.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>40</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE PRIEGO DE CÓRDOBA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE CABRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE MONTILLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE PUENTE GENIL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>61</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>GRANADA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE LOJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE GUADIX.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE GRANADA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>16</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6, 7 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Málaga, Granada, Jaén y Almería.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6, 7 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>56</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE MOTRIL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>9</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE ORGIVA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE BAZA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTA FE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE HUESCAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMÚÑECAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>80</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>HUELVA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARACENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE HUELVA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Sevilla, Huelva y Córdoba.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>28</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE PALMA DEL CONDADO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALVERDE DEL CAMINO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE AYAMONTE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE MOGUER.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>45</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>JAÉN</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE JAÉN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>26</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALCALÁ LA REAL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE LA CAROLINA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE ANDÚJAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE BAEZA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE LINARES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLACARRILLO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE CAZORLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE MARTOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE ÚBEDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>48</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>MÁLAGA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ANTEQUERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE VÉLEZ-MÁLAGA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE MÁLAGA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>17</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>14</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia contra la Infancia y la Adolescencia.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>15</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>14</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>87</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE RONDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE FUENGIROLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE MARBELLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>15</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE ESTEPONA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>6</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE TORROX.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE COÍN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARCHIDONA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE TORREMOLINOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincia.</td>
+> <td>145</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>SEVILLA</td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE OSUNA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CAZALLA DE LA SIERRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANLÚCAR LA MAYOR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE CARMONA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE LORA DEL RÍO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE SEVILLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>25</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>21</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>16</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Sevilla, Huelva y Córdoba.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>13</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>14</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>110</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE MORÓN DE LA FRONTERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE LEBRIJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE UTRERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE ÉCIJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALCALÁ DE GUADAIRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE DOS HERMANAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td>1</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE MARCHENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>14</td>
+> <td>TRIBUNAL DE INSTANCIA DE CORIA DEL RÍO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>15</td>
+> <td>TRIBUNAL DE INSTANCIA DE ESTEPA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>153</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>708</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
@@ -7883,729 +7874,720 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > |  |  | Total provincial. | 77 |  |  |  |
 > |  |  | Total Comunidad Autónoma. | 106 |  |  |  |
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma del Principado de Asturias</p>
+> <p>Comunidad Autónoma del Principado de Asturias</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">ASTURIAS</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA CANGAS DEL NARCEA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA CANGAS DE CANGAS DE ONÍS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE AVILÉS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 7, 15 y 16.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 7, 15 y 16.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GRADO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SIERO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CASTROPOL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GIJÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos judiciales 8 y 17.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8, 6, 17, 3, 11 y 18</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8 y 17.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8 y 17.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8 y 17.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">29</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LAVIANA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE OVIEDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Infancia Familia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16 y 18.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2,3, 5, 6, 10, 11, 12, 14 y 18.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16 y 18.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 3, 5, 6, 10, 11, 14 y 18.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">38</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LLANES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MIERES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 9, 12 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LANGREO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 9 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TINEO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALDÉS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PRAVIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">17</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLAVICIOSA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">18</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PILOÑA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">106</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">106</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>ASTURIAS</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA CANGAS DEL NARCEA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE LENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA CANGAS DE CANGAS DE ONÍS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE AVILÉS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 7, 15 y 16.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 7, 15 y 16.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE GRADO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE SIERO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE CASTROPOL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE GIJÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>10</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos judiciales 8 y 17.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8, 6, 17, 3, 11 y 18</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8 y 17.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8 y 17.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8 y 17.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>29</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE LAVIANA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE OVIEDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>10</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Infancia Familia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16 y 18.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2,3, 5, 6, 10, 11, 12, 14 y 18.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16 y 18.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 3, 5, 6, 10, 11, 14 y 18.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>38</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE LLANES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE MIERES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 9, 12 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE LANGREO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 9 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>14</td>
+> <td>TRIBUNAL DE INSTANCIA DE TINEO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>15</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALDÉS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>16</td>
+> <td>TRIBUNAL DE INSTANCIA DE PRAVIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>17</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLAVICIOSA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>18</td>
+> <td>TRIBUNAL DE INSTANCIA DE PILOÑA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>106</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>106</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="7">
-> <p class="cita">* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
+> <p>* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
 > </td>
 > </tr>
 > </tfoot>
@@ -8658,912 +8640,903 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > |  |  | Total provincial. | 107 |  |  |  |
 > |  |  | Total Comunidad Autonóma. | 107 |  |  |  |
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma de Canarias</p>
+> <p>Comunidad Autónoma de Canarias</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">LAS PALMAS</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARRECIFE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 1.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 1.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LAS PALMAS DE GRAN CANARIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 4, 5 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 4, 5, 6, 7 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Las Palmas de Gran Canaria.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 5, 6, 7 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">61</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PUERTO DEL ROSARIO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 3.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 3.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTA MARÍA DE GUÍA DE GRAN CANARIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social (Gáldar).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TELDE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN BARTOLOMÉ DE TIRAJANA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARUCAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTA LUCÍA DE TIRAJANA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">119</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">SANTA CRUZ DE TENERIFE</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GRANADILLA DE ABONA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN SEBASTIÁN DE LA GOMERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTA CRUZ DE TENERIFE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 7 y 11.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 3, 5, 7, 8, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Santa Cruz de Tenerife.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">45</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTA CRUZ DE LA PALMA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos judiciales 2, 4, 6 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ICOD DE LOS VINOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALVERDE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN CRISTÓBAL DE LA LAGUNA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Instancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LA OROTAVA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">2 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LOS LLANOS DE ARIDANE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GÜIMAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARONA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">94</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">213</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>LAS PALMAS</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARRECIFE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 1.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 1.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>15</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE LAS PALMAS DE GRAN CANARIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>14</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 4, 5 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 4, 5, 6, 7 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Las Palmas de Gran Canaria.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>11</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 5, 6, 7 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>61</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE PUERTO DEL ROSARIO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 3.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 3.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTA MARÍA DE GUÍA DE GRAN CANARIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social (Gáldar).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 4.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE TELDE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>9</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN BARTOLOMÉ DE TIRAJANA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>11</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARUCAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTA LUCÍA DE TIRAJANA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>119</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>SANTA CRUZ DE TENERIFE</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE GRANADILLA DE ABONA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN SEBASTIÁN DE LA GOMERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTA CRUZ DE TENERIFE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 7 y 11.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 3, 5, 7, 8, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Santa Cruz de Tenerife.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>45</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTA CRUZ DE LA PALMA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos judiciales 2, 4, 6 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE ICOD DE LOS VINOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALVERDE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN CRISTÓBAL DE LA LAGUNA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Instancia y Capacidad.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE LA OROTAVA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>8</td>
+> <td>J</td>
+> <td>2 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE LOS LLANOS DE ARIDANE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE GÜIMAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARONA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>94</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>213</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
@@ -9612,3129 +9585,3111 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > |  |  | Total provincial. | 55 |  |  |  |
 > |  |  | Total Comunidad Autónoma. | 55 |  |  |  |
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad de Castilla y León</p>
+> <p>Comunidad de Castilla y León</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">ÁVILA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>ÁVILA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARÉVALO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARÉVALO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARENAS DE SAN PEDRO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARENAS DE SAN PEDRO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ÁVILA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE ÁVILA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MERC)</p>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MERC)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PIEDRAHÍA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">BURGOS</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BURGOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE PIEDRAHÍA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>13</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>BURGOS</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE BURGOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial: Burgos y Soria.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">25</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARANDA DE DUERO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLARCAYO DE MERINDAD DE CASTILLA LA VIEJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MIRANDA DEL EBRO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LERMA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BRIVIESCA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SALAS DE LOS INFANTES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">34</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">LEÓN</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAHAGÚN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LEÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-MERC)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 3, 1, 6 y 5</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial: León.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5 y 6.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">28</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LA BAÑEZA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PONFERRADA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ASTORGA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CISTIERNA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLABLINO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">47</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">PALENCIA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PALENCIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MERC)</p>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial: Burgos y Soria.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>25</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARANDA DE DUERO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLARCAYO DE MERINDAD DE CASTILLA LA VIEJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE MIRANDA DEL EBRO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE LERMA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE BRIVIESCA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE SALAS DE LOS INFANTES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>34</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>LEÓN</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAHAGÚN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE LEÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>9</td>
+> <td>M</td>
+> <td>1 (C-MERC)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 3, 1, 6 y 5</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial: León.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5 y 6.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>28</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE LA BAÑEZA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE PONFERRADA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 4.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE ASTORGA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE CISTIERNA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLABLINO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>47</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>PALENCIA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE PALENCIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MERC)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial: Palencia.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial: Palencia.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>13</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CARRIÓN DE LOS CONDES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CARRIÓN DE LOS CONDES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CERVERA DE PISUERGA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE CERVERA DE PISUERGA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>16</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SALAMANCA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>SALAMANCA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SALAMANCA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE SALAMANCA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MERC)</p>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MERC)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial: Salamanca.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial: Salamanca.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">24</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>24</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CIUDAD RODRIGO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CIUDAD RODRIGO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VITIGUDINO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE VITIGUDINO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BÉJAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE BÉJAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PEÑARANDA DE BRACAMONTE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE PEÑARANDA DE BRACAMONTE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">29</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>29</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SEGOVIA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>SEGOVIA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SEGOVIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE SEGOVIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MERC)</p>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MERC)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CUÉLLAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CUÉLLAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SEPÚLVEDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE SEPÚLVEDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTA MARÍA LA REAL DE NIEVA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTA MARÍA LA REAL DE NIEVA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>15</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SORIA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>SORIA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMAZÁN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMAZÁN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq" colspan="2">TRIBUNAL DE INSTANCIA DE EL BURGO DE OSMA-CIUDAD DE OSMA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td colspan="2">TRIBUNAL DE INSTANCIA DE EL BURGO DE OSMA-CIUDAD DE OSMA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SORIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE SORIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MERC)</p>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MERC)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">VALLADOLID</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>VALLADOLID</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALLADOLID.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALLADOLID.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>12</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2 y 3.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2 y 3.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial Zamora, Valladolid, Segovia y Ávila.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial Zamora, Valladolid, Segovia y Ávila.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">40</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>40</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MEDINA DEL CAMPO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE MEDINA DEL CAMPO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MEDINA DE RIOSECO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE MEDINA DE RIOSECO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">44</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>44</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ZAMORA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>ZAMORA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TORO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE TORO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ZAMORA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ZAMORA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MERC)</p>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MERC)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>11</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BENAVENTE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE BENAVENTE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PUEBLA DE SANABRIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE PUEBLA DE SANABRIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLALPANDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLALPANDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>16</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">224</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>224</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma de Castilla-La Mancha</p>
+> <p>Comunidad Autónoma de Castilla-La Mancha</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">ALBACETE</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALBACETE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">22</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALCARAZ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMANSA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE HELLÍN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LA RODA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLAROBLEDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CASAS-IBÁÑEZ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">32</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">CIUDAD REAL</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALCÁZAR DE SAN JUAN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CIUDAD REAL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 5, 7 y 9..</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial Ciudad Real y Albacete.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">19</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE DAIMIEL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MANZANARES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALDEPEÑAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLANUEVA DE LOS INFANTES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PUERTOLLANO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TOMELLOSO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMAGRO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMADÉN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">37</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">CUENCA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CUENCA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">
-> <p class="cuerpo_tabla_centro">1 (C-VSM)</p>
-> <p class="cuerpo_tabla_centro">1 (C-MER)</p>
+> <td>ALBACETE</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALBACETE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>22</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALCARAZ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMANSA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE HELLÍN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE LA RODA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLAROBLEDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE CASAS-IBÁÑEZ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>32</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>CIUDAD REAL</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALCÁZAR DE SAN JUAN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CIUDAD REAL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 5, 7 y 9..</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial Ciudad Real y Albacete.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>19</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE DAIMIEL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE MANZANARES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALDEPEÑAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLANUEVA DE LOS INFANTES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE PUERTOLLANO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE TOMELLOSO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMAGRO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMADÉN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>37</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>CUENCA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE CUENCA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td>
+> <p>1 (C-VSM)</p>
+> <p>1 (C-MER)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TARANCÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MOTILLA DEL PALANCAR.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE TARANCÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE MOTILLA DEL PALANCAR.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN CLEMENTE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">GUADALAJARA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GUADALAJARA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-MER)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2 y 3.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">19</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MOLINA DE ARAGÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SIGÜENZA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">21</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">TOLEDO</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE OCAÑA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial Toledo, Cuenca y Guadalajara.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ORGAZ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ILLESCAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TALAVERA DE LA REINA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TOLEDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 3 y 5.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">21</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TORRIJOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE QUINTANAR DE LA ORDEN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">48</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">154</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN CLEMENTE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>16</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>GUADALAJARA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE GUADALAJARA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td>1 (C-MER)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2 y 3.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>19</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE MOLINA DE ARAGÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE SIGÜENZA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>21</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>TOLEDO</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE OCAÑA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial Toledo, Cuenca y Guadalajara.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ORGAZ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE ILLESCAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE TALAVERA DE LA REINA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 4.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 4.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE TOLEDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 3 y 5.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>21</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE TORRIJOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE QUINTANAR DE LA ORDEN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>48</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>154</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
@@ -12983,4188 +12938,4161 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > |  |  | Total provincial. | 72 |  |  |  |
 > |  |  | Total Comunidad Autónoma. | 617 |  |  |  |
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunitat Valenciana</p>
+> <p>Comunitat Valenciana</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">ALICANTE/ALACANT</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE DÉNIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALCOY/ALCOI.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALICANTE/ALACANT.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Ámbito provincial (nacional como Juzgado de Marca de la Unión Europea) partidos judiciales 1, 2, 3, 5, 6, 7, 9, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 10.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 3, 5, 6, 7, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6, 7, 9, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 3, 5, 6, 7, 10, 11 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">58</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ORIHUELA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq" colspan="2">TRIBUNAL DE INSTANCIA DE VILLAJOYOSA/LA VILA JOIOSA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ELDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ELCHE/ELX.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos judiciales 4, 8 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8 y 11.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 8 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 8 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">26</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BENIDORM.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 5 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq" colspan="4">TRIBUNAL DE INSTANCIA DE SAN VICENTE DEL RASPEIG/SAN VICENT DEL RASPEIG.</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE NOVELDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE IBI.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TORREVIEJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">160</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">CASTELLÓN/CASTELLÓ</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CASTELLÓ DE LA PLANA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 4 y 5.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">32</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SEGORBE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VINARÒS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 3.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE NULES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILA-REAL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 4 y 5.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">52</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">VALENCIA/VALÈNCIA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA LLÍRIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE GANDÍA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial 2.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ONTINYENT.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TORRENT.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4 y 18.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SUECA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 5 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALÈNCIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">24</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">21</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 6, 15 y 16.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">20</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 5, 6, 7, 8, 9, 11, 12, 13, 15, 16, 17 y 18.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">18</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">117</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANGUNTO/SAGUNT.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALZIRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 8, 9 y 10.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CARLET.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE XÀTIVA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE REQUENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CATARROJA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MONCADA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PATERNA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE QUART DE POBLET.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">16</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MISLATA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">17</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MASSAMAGRELL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">18</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PICASSENT.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">218</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">430</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>ALICANTE/ALACANT</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE DÉNIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALCOY/ALCOI.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALICANTE/ALACANT.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>12</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Ámbito provincial (nacional como Juzgado de Marca de la Unión Europea) partidos judiciales 1, 2, 3, 5, 6, 7, 9, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 10.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>11</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 3, 5, 6, 7, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6, 7, 9, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 3, 5, 6, 7, 10, 11 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>58</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE ORIHUELA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 4.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td colspan="2">TRIBUNAL DE INSTANCIA DE VILLAJOYOSA/LA VILA JOIOSA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE ELDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE ELCHE/ELX.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos judiciales 4, 8 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8 y 11.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 8 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 8 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>26</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE BENIDORM.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 5 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>16</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td colspan="4">TRIBUNAL DE INSTANCIA DE SAN VICENTE DEL RASPEIG/SAN VICENT DEL RASPEIG.</td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE NOVELDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE IBI.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE TORREVIEJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>12</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>160</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>CASTELLÓN/CASTELLÓ</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE CASTELLÓ DE LA PLANA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>8</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 4 y 5.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>32</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE SEGORBE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE VINARÒS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 3.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>6</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE NULES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>6</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILA-REAL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 4 y 5.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>52</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>VALENCIA/VALÈNCIA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA LLÍRIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>9</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE GANDÍA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial 2.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>11</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE ONTINYENT.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE TORRENT.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4 y 18.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE SUECA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 5 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALÈNCIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Presidencia de Tribunal de Instancia liberada de trabajo jurisdiccional (artículo 166.2 LOPJ).</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>24</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>21</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 6, 15 y 16.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>20</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 5, 6, 7, 8, 9, 11, 12, 13, 15, 16, 17 y 18.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>10</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>18</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>117</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANGUNTO/SAGUNT.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALZIRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 8, 9 y 10.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE CARLET.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE XÀTIVA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE REQUENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE CATARROJA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>5</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE MONCADA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>14</td>
+> <td>TRIBUNAL DE INSTANCIA DE PATERNA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>15</td>
+> <td>TRIBUNAL DE INSTANCIA DE QUART DE POBLET.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>16</td>
+> <td>TRIBUNAL DE INSTANCIA DE MISLATA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>17</td>
+> <td>TRIBUNAL DE INSTANCIA DE MASSAMAGRELL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>18</td>
+> <td>TRIBUNAL DE INSTANCIA DE PICASSENT.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>218</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>430</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="7">
-> <p class="cita">* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
+> <p>* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
 > </td>
 > </tr>
 > </tfoot>
 > </table>
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma de Extremadura</p>
+> <p>Comunidad Autónoma de Extremadura</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">BADAJOZ</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLANUEVA DE LA SERENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ALMENDRALEJO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LLERENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MÉRIDA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos judiciales 1, 2,3, 8, 9, 10, 11, 12, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 11,1,9, 2, 14, 10, 8, 7, 12 y 3.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 4, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 4, 9, 10, 11, 13 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BADAJOZ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 4, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 5, 13 y 6.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5, 6, 7, 8 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial: Badajoz y Cáceres.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5, 6, 7, 8 y 12.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">26</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE OLIVENZA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ZAFRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE JEREZ DE LOS CABALLEROS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE HERRERA DEL DUQUE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CASTUERA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE DON BENITO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 9, 10 y 11.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE FREGENAL DE LA SIERRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MONTIJO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILLAFRANCA DE LOS BARROS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">58</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">CÁCERES</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CÁCERES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-MER)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 4, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">17</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CORIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE NAVALMORAL DE LA MATA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PLASENCIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 3 y 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 4.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TRUJILLO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VALENCIA DE ALCÁNTARA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LOGROSÁN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">34</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">92</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>BADAJOZ</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLANUEVA DE LA SERENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE ALMENDRALEJO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE LLERENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE MÉRIDA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos judiciales 1, 2,3, 8, 9, 10, 11, 12, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 11,1,9, 2, 14, 10, 8, 7, 12 y 3.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 4, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 4, 9, 10, 11, 13 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>11</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE BADAJOZ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 4, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 5, 13 y 6.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5, 6, 7, 8 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial: Badajoz y Cáceres.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5, 6, 7, 8 y 12.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>26</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE OLIVENZA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE ZAFRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE JEREZ DE LOS CABALLEROS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE HERRERA DEL DUQUE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE CASTUERA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE DON BENITO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 9, 10 y 11.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE FREGENAL DE LA SIERRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE MONTIJO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>14</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILLAFRANCA DE LOS BARROS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>58</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>CÁCERES</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE CÁCERES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>1 (C-MER)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 4, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 3, 5, 6 y 7.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>17</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CORIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE NAVALMORAL DE LA MATA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE PLASENCIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 3 y 4.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 4.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>8</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE TRUJILLO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VALENCIA DE ALCÁNTARA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE LOGROSÁN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>34</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>92</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="7">
-> <p class="cita">* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
+> <p>* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
 > </td>
 > </tr>
 > </tfoot>
 > </table>
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma de Galicia</p>
+> <p>Comunidad Autónoma de Galicia</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">A CORUÑA</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BETANZOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SANTIAGO DE COMPOSTELA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 5, 8, 10, 11, 12, 13, y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 10 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 10 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 5, 10, 11, 12 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">18</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE FERROL.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 9.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE A CORUÑA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 5, 6, 7, 8, 11, 12 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 5, 6, 7, 8, 11, 12 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4, 6, 7, 8 y 14.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">47</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE NOIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CARBALLO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CORCUBIÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ARZÚA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ORTIGUEIRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE RIBEIRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE NEGREIRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MUROS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PADRÓN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE ORDES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">101</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">LUGO</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MONDOÑEDO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CHANTADA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LUGO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-MER)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">A Coruña, Lugo, Ourense y Pontevedra.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">19</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILALBA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MONFORTE DE LEMOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VIVEIRO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SARRIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE A FONSAGRADA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BECERREÁ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">31</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">OURENSE</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE OURENSE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-MER)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 5, 7, 3, 2, 9 y 8.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">20</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE RIBADAVIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE XINZO DE LIMIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE A POBRA DE TRIVES.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">C-VSM</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VERÍN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE O BARCO DE VALDEORRAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE O CARBALLIÑO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE BANDE.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CELANOVA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">31</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">PONTEVEDRA</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PONTEAREAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VILAGARCÍA DE AROUSA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE VIGO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partido judicial 3.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 10.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3 y 10.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 3, 6, 7, 10 y 11.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">38</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE PONTEVEDRA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 4, 5, 6, 7, 8, 9, 11, 12 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">A Coruña, Lugo, Ourense y Pontevedra.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 2, 4, 5, 6, 7, 8, 9, 11, 12 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2, 4, 5, 8, 9, 12 y 13.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">23</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE A ESTRADA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TUI.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CANGAS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LALÍN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CAMBADOS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE REDONDELA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE O PORRIÑO.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CALDAS DE REIS.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MARÍN.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">90</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">253</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>A CORUÑA</td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE BETANZOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE SANTIAGO DE COMPOSTELA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 5, 8, 10, 11, 12, 13, y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 10 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 10 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 5, 10, 11, 12 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>18</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE FERROL.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 9.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>14</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE A CORUÑA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>13</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 5, 6, 7, 8, 11, 12 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 5, 6, 7, 8, 11, 12 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4, 6, 7, 8 y 14.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>47</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE NOIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE CARBALLO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE CORCUBIÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE ARZÚA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE ORTIGUEIRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE RIBEIRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE NEGREIRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE MUROS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE PADRÓN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>14</td>
+> <td>TRIBUNAL DE INSTANCIA DE ORDES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>101</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>LUGO</td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE MONDOÑEDO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CHANTADA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE LUGO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td>1 (C-MER)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>A Coruña, Lugo, Ourense y Pontevedra.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>19</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILALBA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE MONFORTE DE LEMOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE VIVEIRO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE SARRIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE A FONSAGRADA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE BECERREÁ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>31</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>OURENSE</td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE OURENSE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>6</td>
+> <td>M</td>
+> <td>1 (C-MER)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 5, 7, 3, 2, 9 y 8.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>20</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE RIBADAVIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE XINZO DE LIMIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE A POBRA DE TRIVES.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td>C-VSM</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE VERÍN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE O BARCO DE VALDEORRAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE O CARBALLIÑO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE BANDE.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE CELANOVA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>1</td>
+> <td>J</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>1</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>31</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td>PONTEVEDRA</td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE PONTEAREAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE VILAGARCÍA DE AROUSA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE VIGO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>13</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partido judicial 3.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 10.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3 y 10.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 3, 6, 7, 10 y 11.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>38</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE PONTEVEDRA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>3</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 4, 5, 6, 7, 8, 9, 11, 12 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>A Coruña, Lugo, Ourense y Pontevedra.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 2, 4, 5, 6, 7, 8, 9, 11, 12 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2, 4, 5, 8, 9, 12 y 13.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>23</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE A ESTRADA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE TUI.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE CANGAS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE LALÍN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE CAMBADOS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE REDONDELA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE O PORRIÑO.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>12</td>
+> <td>TRIBUNAL DE INSTANCIA DE CALDAS DE REIS.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td>13</td>
+> <td>TRIBUNAL DE INSTANCIA DE MARÍN.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>90</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>253</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="7">
-> <p class="cita">* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
+> <p>* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
 > </td>
 > </tr>
 > </tfoot>
@@ -17277,513 +17205,504 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > |  |  | Total provincial. | 527 |  |  |  |
 > |  |  | Total Comunidad Autónoma. | 527 |  |  |  |
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Comunidad Autónoma de la Región de Murcia</p>
+> <p>Comunidad Autónoma de la Región de Murcia</p>
 > </caption>
-> <colgroup>
-> <col width="13%">
-> <col width="8%">
-> <col width="28%">
-> <col width="8%">
-> <col width="8%">
-> <col width="13%">
-> <col width="22%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">MURCIA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>MURCIA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CARAVACA DE LA CRUZ.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>1</td>
+> <td>TRIBUNAL DE INSTANCIA DE CARAVACA DE LA CRUZ.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>3</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>3</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CARTAGENA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>2</td>
+> <td>TRIBUNAL DE INSTANCIA DE CARTAGENA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>5</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">(Artículo 269 LOPJ) partidos judiciales 2 y 11.</td>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>(Artículo 269 LOPJ) partidos judiciales 2 y 11.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2 y 11.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2 y 11.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2 y 11.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2 y 11.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 2 y 11.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 2 y 11.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">22</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>22</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE CIEZA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>3</td>
+> <td>TRIBUNAL DE INSTANCIA DE CIEZA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE LORCA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>4</td>
+> <td>TRIBUNAL DE INSTANCIA DE LORCA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>8</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 4 y 9.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 4 y 9.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>10</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MULA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>5</td>
+> <td>TRIBUNAL DE INSTANCIA DE MULA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MURCIA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>6</td>
+> <td>TRIBUNAL DE INSTANCIA DE MURCIA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil.</td>
-> <td class="cuerpo_tabla_centro">15</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil.</td>
+> <td>15</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Familia, Infancia y Capacidad.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Familia, Infancia y Capacidad.</td>
+> <td>4</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Mercantil.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 3, 4, 5, 6, 7, 8, 9 y 10.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Mercantil.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 3, 4, 5, 6, 7, 8, 9 y 10.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Violencia sobre la Mujer.</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Violencia sobre la Mujer.</td>
+> <td>3</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal.</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 3, 5, 6, 7, 8 y 10.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal.</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 3, 5, 6, 7, 8 y 10.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Menores.</td>
+> <td>2</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Provincial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Vigilancia Penitenciaria.</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Provincial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 3, 4, 5, 6, 7, 8, 9 y 10.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo.</td>
+> <td>7</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 3, 4, 5, 6, 7, 8, 9 y 10.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Social.</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Partidos judiciales 1, 3, 4, 5, 6, 7, 8, 9 y 10.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Social.</td>
+> <td>9</td>
+> <td>M</td>
+> <td> </td>
+> <td>Partidos judiciales 1, 3, 4, 5, 6, 7, 8, 9 y 10.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">59</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>59</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE YECLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>7</td>
+> <td>TRIBUNAL DE INSTANCIA DE YECLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE MOLINA DE SEGURA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>8</td>
+> <td>TRIBUNAL DE INSTANCIA DE MOLINA DE SEGURA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE TOTANA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>9</td>
+> <td>TRIBUNAL DE INSTANCIA DE TOTANA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>4</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE JUMILLA.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>10</td>
+> <td>TRIBUNAL DE INSTANCIA DE JUMILLA.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">J</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>2</td>
+> <td>J</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>2</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL DE INSTANCIA DE SAN JAVIER.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL DE INSTANCIA DE SAN JAVIER.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección Civil y de Instrucción.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">1 (C-VSM)</td>
-> <td class="cuerpo_tabla_izq">Partido judicial.</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección Civil y de Instrucción.</td>
+> <td>7</td>
+> <td>M</td>
+> <td>1 (C-VSM)</td>
+> <td>Partido judicial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>7</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total provincial.</td>
-> <td class="cuerpo_tabla_centro">122</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total provincial.</td>
+> <td>122</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total Comunidad Autónoma.</td>
-> <td class="cuerpo_tabla_centro">122</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total Comunidad Autónoma.</td>
+> <td>122</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="7">
-> <p class="cita">* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
+> <p>* Sede desplazada por acuerdo del CGPJ artículo 269 LOPJ.</p>
 > </td>
 > </tr>
 > </tfoot>
@@ -17976,96 +17895,87 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 
 > Tribunal central de instancia
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Provincia</th>
-> <th class="cabeza_tabla">N.º partido</th>
-> <th class="cabeza_tabla">Sede</th>
-> <th class="cabeza_tabla">N.º plazas</th>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Compatibilidad/Especialización</th>
-> <th class="cabeza_tabla">Jurisdicción</th>
+> <th>Provincia</th>
+> <th>N.º partido</th>
+> <th>Sede</th>
+> <th>N.º plazas</th>
+> <th>Categoría</th>
+> <th>Compatibilidad/Especialización</th>
+> <th>Jurisdicción</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">MADRID</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>MADRID</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">TRIBUNAL CENTRAL DE INSTANCIA</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td>11</td>
+> <td>TRIBUNAL CENTRAL DE INSTANCIA</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Instrucción</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Ámbito nacional</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de Instrucción</td>
+> <td>6</td>
+> <td>M</td>
+> <td> </td>
+> <td>Ámbito nacional</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Penal</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Ámbito nacional</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Penal</td>
+> <td>1</td>
+> <td>M</td>
+> <td> </td>
+> <td>Ámbito nacional</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">*</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de Menores</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro">C-VP</td>
-> <td class="cuerpo_tabla_izq">Ámbito nacional</td>
+> <td>*</td>
+> <td> </td>
+> <td>Sección de Menores</td>
+> <td>1</td>
+> <td>M</td>
+> <td>C-VP</td>
+> <td>Ámbito nacional</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Sección de lo Contencioso-Administrativo</td>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro">M</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Ámbito nacional</td>
+> <td> </td>
+> <td> </td>
+> <td>Sección de lo Contencioso-Administrativo</td>
+> <td>12</td>
+> <td>M</td>
+> <td> </td>
+> <td>Ámbito nacional</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Total.</td>
-> <td class="cuerpo_tabla_centro">20»</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
+> <td> </td>
+> <td>Total.</td>
+> <td>20»</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="7">
-> <p class="cita">* Atribución de competencias de Vigilancia Penitenciaria al Juzgado Central de Menores. Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial de 29/05/2003.</p>
+> <p>* Atribución de competencias de Vigilancia Penitenciaria al Juzgado Central de Menores. Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial de 29/05/2003.</p>
 > </td>
 > </tr>
 > </tfoot>
@@ -18169,152 +18079,147 @@ Se modifican los anexos II.2 y III de la Ley 15/2003, de 26 de mayo, reguladora 
 
 > Complemento de destino de los miembros de la carrera judicial
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="75%">
-> <col width="12%">
-> <col width="13%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2"> </th>
-> <th class="cabeza_tabla" colspan="2">Cuantías mensuales en euros</th>
+> <th rowspan="2"> </th>
+> <th colspan="2">Cuantías mensuales en euros</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Por el grupo de población</th>
-> <th class="cabeza_tabla">Por representación</th>
+> <th>Por el grupo de población</th>
+> <th>Por representación</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">
+> <td>
 > <em>Grupo 1</em>
 > </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-> <td class="cuerpo_tabla_coma">3.241,57</td>
-> <td class="cuerpo_tabla_coma">3.714,25</td>
+> <td>Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+> <td>3.241,57</td>
+> <td>3.714,25</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-> <td class="cuerpo_tabla_coma">3.241,57</td>
-> <td class="cuerpo_tabla_coma">2.105,70</td>
+> <td>Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+> <td>3.241,57</td>
+> <td>2.105,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrado de la Audiencia Nacional.</td>
-> <td class="cuerpo_tabla_coma">3.178,02</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Magistrado de la Audiencia Nacional.</td>
+> <td>3.178,02</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados del Gabinete Técnico del Tribunal Supremo.</td>
-> <td class="cuerpo_tabla_coma">3.178,02</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Magistrados del Gabinete Técnico del Tribunal Supremo.</td>
+> <td>3.178,02</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">3.178,02</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Presidente de Tribunal Superior de Justicia.</td>
+> <td>3.178,02</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">3.178,02</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
+> <td>3.178,02</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-> <td class="cuerpo_tabla_coma">3.178,02</td>
-> <td class="cuerpo_tabla_coma">2.003,49</td>
+> <td>Presidentes y Magistrados de Audiencia Provincial.</td>
+> <td>3.178,02</td>
+> <td>2.003,49</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces Centrales, Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-> <td class="cuerpo_tabla_coma">3.178,02</td>
-> <td class="cuerpo_tabla_coma">1.327,69</td>
+> <td>Jueces Centrales, Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+> <td>3.178,02</td>
+> <td>1.327,69</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">
+> <td>
 > <em>Grupo 2</em>
 > </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">3.112,98</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Presidente de Tribunal Superior de Justicia.</td>
+> <td>3.112,98</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">2.714,50</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
+> <td>2.714,50</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-> <td class="cuerpo_tabla_coma">2.714,50</td>
-> <td class="cuerpo_tabla_coma">2.003,49</td>
+> <td>Presidentes y Magistrados de Audiencia Provincial.</td>
+> <td>2.714,50</td>
+> <td>2.003,49</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-> <td class="cuerpo_tabla_coma">2.714,50</td>
-> <td class="cuerpo_tabla_coma">1.327,69</td>
+> <td>Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+> <td>2.714,50</td>
+> <td>1.327,69</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">
+> <td>
 > <em>Grupo 3</em>
 > </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">3.050,72</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Presidente de Tribunal Superior de Justicia.</td>
+> <td>3.050,72</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">2.568,25</td>
-> <td class="cuerpo_tabla_coma">2.071,95</td>
+> <td>Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
+> <td>2.568,25</td>
+> <td>2.071,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-> <td class="cuerpo_tabla_coma">2.568,25</td>
-> <td class="cuerpo_tabla_coma">2.003,49</td>
+> <td>Presidentes y Magistrados de Audiencia Provincial.</td>
+> <td>2.568,25</td>
+> <td>2.003,49</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-> <td class="cuerpo_tabla_coma">2.568,25</td>
-> <td class="cuerpo_tabla_coma">1.327,69</td>
+> <td>Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+> <td>2.568,25</td>
+> <td>1.327,69</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">
+> <td>
 > <em>Grupo 4</em>
 > </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-> <td class="cuerpo_tabla_coma">2.256,29</td>
-> <td class="cuerpo_tabla_coma">2.003,49</td>
+> <td>Presidentes y Magistrados de Audiencia Provincial.</td>
+> <td>2.256,29</td>
+> <td>2.003,49</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-> <td class="cuerpo_tabla_coma">2.190,68</td>
-> <td class="cuerpo_tabla_coma">1.292,80</td>
+> <td>Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+> <td>2.190,68</td>
+> <td>1.292,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">
+> <td>
 > <em>Grupo 5</em>
 > </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces.</td>
-> <td class="cuerpo_tabla_coma">2.023,68</td>
-> <td class="cuerpo_tabla_coma">603,09</td>
+> <td>Jueces.</td>
+> <td>2.023,68</td>
+> <td>603,09</td>
 > </tr>
 > </tbody>
 > </table>
@@ -18323,137 +18228,132 @@ Se modifican los anexos II.2 y III de la Ley 15/2003, de 26 de mayo, reguladora 
 
 > Complemento específico de los miembros de la carrera judicial, por responsabilidad y penosidad
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="75%">
-> <col width="12%">
-> <col width="13%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2"> </th>
-> <th class="cabeza_tabla" colspan="2">Cuantías mensuales en euros</th>
+> <th rowspan="2"> </th>
+> <th colspan="2">Cuantías mensuales en euros</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Por responsabilidad</th>
-> <th class="cabeza_tabla">Por penosidad</th>
+> <th>Por responsabilidad</th>
+> <th>Por penosidad</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-> <td class="cuerpo_tabla_coma">2.269,56</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+> <td>2.269,56</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-> <td class="cuerpo_tabla_coma">525,35</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+> <td>525,35</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Sala de Apelación de la Audiencia Nacional.</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_centro">726,03</td>
+> <td>Presidente de Sala de Apelación de la Audiencia Nacional.</td>
+> <td>–</td>
+> <td>726,03</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Sección de la Audiencia Nacional.</td>
-> <td class="cuerpo_tabla_coma">140,18</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de Sección de la Audiencia Nacional.</td>
+> <td>140,18</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados de Sala de Apelación de la Audiencia Nacional.</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_centro">726,03</td>
+> <td>Magistrados de Sala de Apelación de la Audiencia Nacional.</td>
+> <td>–</td>
+> <td>726,03</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados de Sala de lo Penal de la Audiencia Nacional.</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_centro">660,02</td>
+> <td>Magistrados de Sala de lo Penal de la Audiencia Nacional.</td>
+> <td>–</td>
+> <td>660,02</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">404,76</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de Tribunal Superior de Justicia.</td>
+> <td>404,76</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Sala de Tribunal Superior de Justicia.</td>
-> <td class="cuerpo_tabla_coma">241,35</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de Sala de Tribunal Superior de Justicia.</td>
+> <td>241,35</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Audiencia Provincial.</td>
-> <td class="cuerpo_tabla_coma">301,74</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de Audiencia Provincial.</td>
+> <td>301,74</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidente de Sección de Audiencia Provincial.</td>
-> <td class="cuerpo_tabla_coma">118,07</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidente de Sección de Audiencia Provincial.</td>
+> <td>118,07</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces Centrales de Instrucción.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">846,74</td>
+> <td>Jueces Centrales de Instrucción.</td>
+> <td>186,87</td>
+> <td>846,74</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces Centrales de lo Penal.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">846,74</td>
+> <td>Jueces Centrales de lo Penal.</td>
+> <td>186,87</td>
+> <td>846,74</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces Centrales de Menores.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">846,74</td>
+> <td>Jueces Centrales de Menores.</td>
+> <td>186,87</td>
+> <td>846,74</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces Centrales de Vigilancia Penitenciaria.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Jueces Centrales de Vigilancia Penitenciaria.</td>
+> <td>186,87</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Jueces Centrales de lo Contencioso-Administrativo.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Jueces Centrales de lo Contencioso-Administrativo.</td>
+> <td>186,87</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Pte. de Sección y Magistrado de Audiencia Provincial con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Pte. de Sección y Magistrado de Audiencia Provincial con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
+> <td>186,87</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Magistrados de lo Mercantil con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
-> <td class="cuerpo_tabla_coma">186,87</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Magistrados de lo Mercantil con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
+> <td>186,87</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia con liberación conforme al artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.</td>
-> <td class="cuerpo_tabla_coma">326,98</td>
-> <td class="cuerpo_tabla_centro">357,74</td>
+> <td>Presidencia de Tribunal de Instancia con liberación conforme al artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.</td>
+> <td>326,98</td>
+> <td>357,74</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con diez o más plazas judiciales.</td>
-> <td class="cuerpo_tabla_coma">505,81</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con diez o más plazas judiciales.</td>
+> <td>505,81</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con entre dos y nueve plazas judiciales.</td>
-> <td class="cuerpo_tabla_coma">326,94</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con entre dos y nueve plazas judiciales.</td>
+> <td>326,94</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Presidencia de Sección de Tribunal de Instancia.</td>
-> <td class="cuerpo_tabla_coma">118,07</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td>Presidencia de Sección de Tribunal de Instancia.</td>
+> <td>118,07</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Decanos designados conforme al artículo 166.1 de la Ley Orgánica del Poder Judicial.</td>
-> <td class="cuerpo_tabla_coma">326,94</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>Decanos designados conforme al artículo 166.1 de la Ley Orgánica del Poder Judicial.</td>
+> <td>326,94</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Decanos designados conforme al artículo 166.3 de la Ley Orgánica del Poder Judicial.</td>
-> <td class="cuerpo_tabla_coma">326,94</td>
-> <td class="cuerpo_tabla_centro">357,74»</td>
+> <td>Decanos designados conforme al artículo 166.3 de la Ley Orgánica del Poder Judicial.</td>
+> <td>326,94</td>
+> <td>357,74»</td>
 > </tr>
 > </tbody>
 > </table>

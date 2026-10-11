@@ -402,73 +402,73 @@ b) Etiquetado. Sin perjuicio del cumplimiento de la normativa en materia de etiq
 
 i. Menciones facultativas. Atendiendo al periodo mínimo de elaboración –definido como el tiempo transcurrido entre la entrada del producto en salazón y su comercialización por la industria elaboradora, descontando aquellos periodos en los que el producto haya estado sometido a condiciones que interrumpan las reacciones bioquímicas que tienen lugar durante su elaboración– en el etiquetado de los jamones y paletas elaborados, independientemente de la forma de presentación del producto y una vez concluida la elaboración del mismo, se podrán incluir las siguientes menciones, siempre que cumplan con el periodo mínimo de elaboración establecido para cada mención:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Mención facultativa</p>
+<p>Mención facultativa</p>
 </td>
 <td>
-<p class="cabeza_tabla">Periodo mínimo de elaboración</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Periodo mínimo de elaboración</p>
+<p>–</p>
+<p>Meses</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Jamones.</p>
+<p>Jamones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bodega o cava.</p>
+<p>Bodega o cava.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Reserva o añejo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>9</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Reserva.</p>
+<p>Reserva o añejo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gran Reserva.</p>
+</td>
+<td>
+<p>15</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Paletas.</p>
+<p>Paletas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bodega o cava.</p>
+<p>Bodega o cava.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Reserva o añeja.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Reserva.</p>
+<p>Reserva o añeja.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gran Reserva.</p>
+</td>
+<td>
+<p>9</p>
 </td>
 </tr>
 </tbody>

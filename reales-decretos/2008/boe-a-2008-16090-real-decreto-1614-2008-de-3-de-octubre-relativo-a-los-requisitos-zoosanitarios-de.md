@@ -1050,132 +1050,132 @@ Parte A. Situación sanitaria de las zonas o compartimentos de acuicultura que d
 
 Animales de la acuicultura para cría y repoblación
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Categoría</p>
+<p>Categoría</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Situación sanitaria</p>
+<p>Situación sanitaria</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Se pueden introducir animales desde</p>
+<p>Se pueden introducir animales desde</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Necesidad de certificado sanitario de origen conforme al artículo 14</p>
+<p>Necesidad de certificado sanitario de origen conforme al artículo 14</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Pueden enviarse animales a</p>
+<p>Pueden enviarse animales a</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Para introducción</p>
+<p>Para introducción</p>
 </td>
 <td>
-<p class="cabeza_tabla">Para envío</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Libre de enfermedades (art. 46 o art. 47)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sólo categoría I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">SÍ</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">NO en caso de envío a las categorías III o V</p>
-<p class="cuerpo_tabla_izq">SÍ en caso de envío a las categorías I, II o IV</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Todas las categorías</p>
+<p>Para envío</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Programa de vigilancia (art. 41)</p>
+<p>Libre de enfermedades (art. 46 o art. 47)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sólo categoría I</p>
+<p>Sólo categoría I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">SÍ</p>
+<p>SÍ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NO</p>
+<p>NO en caso de envío a las categorías III o V</p>
+<p>SÍ en caso de envío a las categorías I, II o IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Categorías III y V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sin determinar (sin infección conocida pero no sujeto a un programa para la calificación como libre de enfermedades)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Categorías I, II o III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">NO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">NO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Categorías III y V</p>
+<p>Todas las categorías</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Programa de erradicación (art. 41)</p>
+<p>Programa de vigilancia (art. 41)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sólo categoría I</p>
+<p>Sólo categoría I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">SÍ</p>
+<p>SÍ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">SÍ</p>
+<p>NO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sólo categoría V</p>
+<p>Categorías III y V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">V</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infectado (art. 37)</p>
+<p>Sin determinar (sin infección conocida pero no sujeto a un programa para la calificación como libre de enfermedades)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todas las categorías</p>
+<p>Categorías I, II o III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">NO</p>
+<p>NO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">SÍ</p>
+<p>NO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sólo categoría V</p>
+<p>Categorías III y V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>Programa de erradicación (art. 41)</p>
+</td>
+<td>
+<p>Sólo categoría I</p>
+</td>
+<td>
+<p>SÍ</p>
+</td>
+<td>
+<p>SÍ</p>
+</td>
+<td>
+<p>Sólo categoría V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V</p>
+</td>
+<td>
+<p>Infectado (art. 37)</p>
+</td>
+<td>
+<p>Todas las categorías</p>
+</td>
+<td>
+<p>NO</p>
+</td>
+<td>
+<p>SÍ</p>
+</td>
+<td>
+<p>Sólo categoría V</p>
 </td>
 </tr>
 </tbody>
@@ -1183,319 +1183,319 @@ Animales de la acuicultura para cría y repoblación
 
 Parte B. Vigilancia e inspecciones recomendadas en explotaciones y zonas de cría de moluscos
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Especies presentes</p>
+<p>Especies presentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Situación sanitaria según se indica en la parte A</p>
+<p>Situación sanitaria según se indica en la parte A</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nivel de riesgo</p>
+<p>Nivel de riesgo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vigilancia</p>
+<p>Vigilancia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Frecuencia de inspección recomendada (artículo 7)</p>
+<p>Frecuencia de inspección recomendada (artículo 7)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Frecuencia de inspección recomendada por servicios cualificados de sanidad de los animales acuáticos (artículo 10)</p>
+<p>Frecuencia de inspección recomendada por servicios cualificados de sanidad de los animales acuáticos (artículo 10)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Requisitos específicos de inspección, toma de muestras y vigilancia necesarios para mantener la situación sanitaria</p>
+<p>Requisitos específicos de inspección, toma de muestras y vigilancia necesarios para mantener la situación sanitaria</p>
 </td>
 <td>
-<p class="cabeza_tabla">Comentarios</p>
+<p>Comentarios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ninguna especie sensible a las enfermedades enumeradas en el anexo IV</p>
+<p>Ninguna especie sensible a las enfermedades enumeradas en el anexo IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Categoría I</p>
-<p class="cuerpo_tabla_izq">Declaradas libres de enfermedades de conformidad con las letras a) o b) del artículo 46.1 o del artículo 47.1</p>
+<p>Categoría I</p>
+<p>Declaradas libres de enfermedades de conformidad con las letras a) o b) del artículo 46.1 o del artículo 47.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pasiva</p>
+<p>Pasiva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Requisitos específicos para mantener la calificación como libre de enfermedades conforme al artículo 49.</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Requisitos específicos para mantener la calificación como libre de enfermedades conforme al artículo 49.</p>
+<p> </p>
+<p> </p>
+<p> </p>
 </td>
 <td rowspan="16">
-<p class="cuerpo_tabla_izq">Las frecuencias de inspección recomendadas se aplicarán sin perjuicio de los requisitos específicos mencionados para cada situación sanitaria.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">No obstante, en la medida de lo posible, las inspecciones y la toma de muestras deberían combinarse con las inspecciones requeridas en virtud de los artículos 7 y 10.</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_izq">El objetivo de las inspecciones efectuadas por los organismos competentes es verificar el cumplimiento de este Real decreto y llevar a cabo la vigilancia conforme al artículo 7.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El objetivo de las inspecciones efectuadas por los servicios cualificados de sanidad acuática animal es comprobar el estado de salud de los animales, asesorar al agente económico de producción acuícola sobre cuestiones de salud animal y, en caso necesario, tomar las medidas veterinarias necesarias</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Las frecuencias de inspección recomendadas se aplicarán sin perjuicio de los requisitos específicos mencionados para cada situación sanitaria.</p>
+<p> </p>
+<p>No obstante, en la medida de lo posible, las inspecciones y la toma de muestras deberían combinarse con las inspecciones requeridas en virtud de los artículos 7 y 10.</p>
+<p> </p>
+<p>El objetivo de las inspecciones efectuadas por los organismos competentes es verificar el cumplimiento de este Real decreto y llevar a cabo la vigilancia conforme al artículo 7.</p>
+<p> </p>
+<p>El objetivo de las inspecciones efectuadas por los servicios cualificados de sanidad acuática animal es comprobar el estado de salud de los animales, asesorar al agente económico de producción acuícola sobre cuestiones de salud animal y, en caso necesario, tomar las medidas veterinarias necesarias</p>
+<p> </p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Especies sensibles a una o varias de las enfermedades enumeradas en el anexo IV</p>
+<p>Especies sensibles a una o varias de las enfermedades enumeradas en el anexo IV</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Categoría I</p>
-<p class="cuerpo_tabla_izq">Declaradas libres de enfermedades de conformidad con los artículos 46.1.c) o 47.1.c)</p>
+<p>Categoría I</p>
+<p>Declaradas libres de enfermedades de conformidad con los artículos 46.1.c) o 47.1.c)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elevado</p>
+<p>Elevado</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Activa, específica o pasiva</p>
+<p>Activa, específica o pasiva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Medio</p>
+<p>Medio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Categoría II</p>
-<p class="cuerpo_tabla_izq">No declarada libre de enfermedades pero objeto de un programa de vigilancia aprobado con arreglo al artículo 41.</p>
+<p>Categoría II</p>
+<p>No declarada libre de enfermedades pero objeto de un programa de vigilancia aprobado con arreglo al artículo 41.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elevado</p>
+<p>Elevado</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Específica</p>
+<p>Específica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Requisitos específicos con arreglo al artículo 41</p>
+<p>Requisitos específicos con arreglo al artículo 41</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Medio</p>
+<p>Medio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Categoría III</p>
-<p class="cuerpo_tabla_izq">Sin infección conocida pero no sometida a un programa de vigilancia para alcanzar la calificación como libre de enfermedades.</p>
+<p>Categoría III</p>
+<p>Sin infección conocida pero no sometida a un programa de vigilancia para alcanzar la calificación como libre de enfermedades.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elevado</p>
+<p>Elevado</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Activa</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+<p> </p>
+<p>Activa</p>
+<p> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3 cada año</p>
+<p>3 cada año</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Medio</p>
+<p>Medio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 cada año</p>
+<p>2 cada año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Categoría IV</p>
-<p class="cuerpo_tabla_izq">Declarada infectada pero sujeta a un programa de erradicación aprobado con arreglo al artículo 41.2</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Categoría IV</p>
+<p>Declarada infectada pero sujeta a un programa de erradicación aprobado con arreglo al artículo 41.2</p>
+<p> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elevado</p>
+<p>Elevado</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Específica</p>
+<p>Específica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Requisitos específicos con arreglo al artículo 41</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+<p>Requisitos específicos con arreglo al artículo 41</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Medio</p>
+<p>Medio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Categoría V</p>
-<p class="cuerpo_tabla_izq">Declarada infectada. Sujeta a las medidas de control mínimo tal como se establecen en el capítulo V</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Categoría V</p>
+<p>Declarada infectada. Sujeta a las medidas de control mínimo tal como se establecen en el capítulo V</p>
+<p> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Elevado</p>
+<p>Elevado</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Pasiva</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+<p> </p>
+<p>Pasiva</p>
+<p> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada año</p>
+<p>1 cada año</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Requisitos específicos con arreglo al capítulo V</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Requisitos específicos con arreglo al capítulo V</p>
+<p> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Medio</p>
+<p>Medio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 2 años</p>
+<p>1 cada 2 años</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 cada 4 años</p>
+<p>1 cada 4 años</p>
 </td>
 </tr>
 </tbody>
@@ -1553,149 +1553,149 @@ La vigilancia específica comprenderá:
 
 ## ANEXO IV — Lista de enfermedades
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <th>
-<p class="cabeza_tabla">Enfermedad</p>
+<p>Enfermedad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Especies sensibles</p>
+<p>Especies sensibles</p>
 </th>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Enfermedades exóticas</p>
+<p>Enfermedades exóticas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Peces.</p>
+<p>Peces.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Necrosis hematopoyética epizoótica.</p>
+<p>Necrosis hematopoyética epizoótica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trucha arco iris <em>(Oncorhynchus mykiss) </em>y perca <em>(Perca fluviatilis).</em></p>
+<p>Trucha arco iris <em>(Oncorhynchus mykiss) </em>y perca <em>(Perca fluviatilis).</em></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Moluscos.</p>
+<p>Moluscos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infección por <em>Bonamia exitiosa.</em></p>
+<p>Infección por <em>Bonamia exitiosa.</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ostra legamosa de Australia <em>(Ostrea angasi) </em>y ostra chilena <em>(Ostrea chilensis).</em></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Infección por <em>Perkinsus marinus.</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ostrón del Pacífico <em>(Crassostrea gigas) </em>y ostrón americano <em>(Crassostrea virginica).</em></p>
+<p>Ostra legamosa de Australia <em>(Ostrea angasi) </em>y ostra chilena <em>(Ostrea chilensis).</em></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Infección por <em>Microcytos mackini.</em></p>
+<p>Infección por <em>Perkinsus marinus.</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ostrón del Pacífico <em>(Crassostrea gigas), </em>ostrón americano <em>(Crassostrea virginica), </em>ostra Olimpia <em>(Ostrea conchaphila) </em>y ostra plana europea <em>(Ostrea edulis).</em></p>
+<p>Ostrón del Pacífico <em>(Crassostrea gigas) </em>y ostrón americano <em>(Crassostrea virginica).</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Infección por <em>Microcytos mackini.</em></p>
+</td>
+<td>
+<p>Ostrón del Pacífico <em>(Crassostrea gigas), </em>ostrón americano <em>(Crassostrea virginica), </em>ostra Olimpia <em>(Ostrea conchaphila) </em>y ostra plana europea <em>(Ostrea edulis).</em></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Crustáceos.</p>
+<p>Crustáceos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Síndrome de Taura</p>
+<p>Síndrome de Taura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camarón blanco del Golfo <em>(Penaeus setiferus), </em>camarón azul del Pacífico <em>(Penaeus stylirostris) </em>y camarón blanco del Pacífico <em>(Penaeus vannamei).</em></p>
+<p>Camarón blanco del Golfo <em>(Penaeus setiferus), </em>camarón azul del Pacífico <em>(Penaeus stylirostris) </em>y camarón blanco del Pacífico <em>(Penaeus vannamei).</em></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Enfermedad de la cabeza amarilla.</p>
+<p>Enfermedad de la cabeza amarilla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camarón marrón del Golfo <em>(Penaeus aztecus), </em>camarón rosa del Golfo <em>(P. duorarum), </em>camarón kuruma <em>(P. japonicus), </em>camarón tigre negro <em>(P. monodon), </em>camarón blanco del Golfo <em>(P. setiferus), </em>camarón azul del Pacífico <em>(P. stylirostris) </em>y camarón blanco del Pacífico <em>(P. vannamei).</em></p>
+<p>Camarón marrón del Golfo <em>(Penaeus aztecus), </em>camarón rosa del Golfo <em>(P. duorarum), </em>camarón kuruma <em>(P. japonicus), </em>camarón tigre negro <em>(P. monodon), </em>camarón blanco del Golfo <em>(P. setiferus), </em>camarón azul del Pacífico <em>(P. stylirostris) </em>y camarón blanco del Pacífico <em>(P. vannamei).</em></p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Enfermedades no exóticas</p>
+<p>Enfermedades no exóticas</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Peces.</p>
+<p>Peces.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Septicemia hemorrágica vírica (VHS).</p>
+<p>Septicemia hemorrágica vírica (VHS).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arenque <em>(Clupea spp.), </em>coregonos <em>(Coregonus sp.), </em>lucio <em>(Esox lucius), </em>eglefino <em>(Gadus aeglefinus), </em>bacalao del Pacífico <em>(Gadus macrocephalus), </em>bacalao del Atlántico <em>(Gadus morhua), </em>salmones del Pacífico <em>(Oncorhynchus spp.), </em>trucha arco iris <em>(Oncorhynchus mykiss), </em>mollareta <em>(Onos mustelus), </em>trucha común <em>(Salmo trutta), </em>rodaballo <em>(Scophthalmus maximus), </em>espadín <em>(Sprattus sprattus), </em>tímalo <em>(Thymallus thymallus) </em>y platija <em>(Paralichthys olivaceus).</em></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Necrosis hematopoyética infecciosa (IHN).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Salmón keta <em>(Oncorhynchus keta), </em>salmón coho <em>(Oncorhynchus kisutch), </em>salmón masou <em>(Oncorhynchus masou), </em>trucha arco iris <em>(Oncorhynchus mykiss), </em>salmón rojo <em>(Oncorhynchus nerka), </em>salmón amago <em>(Oncorhynchus rhodurus), </em>salmón chinook <em>(Oncorhynchus tshawytscha) </em>y salmón del Atlántico <em>(Salmo salar).</em></p>
+<p>Arenque <em>(Clupea spp.), </em>coregonos <em>(Coregonus sp.), </em>lucio <em>(Esox lucius), </em>eglefino <em>(Gadus aeglefinus), </em>bacalao del Pacífico <em>(Gadus macrocephalus), </em>bacalao del Atlántico <em>(Gadus morhua), </em>salmones del Pacífico <em>(Oncorhynchus spp.), </em>trucha arco iris <em>(Oncorhynchus mykiss), </em>mollareta <em>(Onos mustelus), </em>trucha común <em>(Salmo trutta), </em>rodaballo <em>(Scophthalmus maximus), </em>espadín <em>(Sprattus sprattus), </em>tímalo <em>(Thymallus thymallus) </em>y platija <em>(Paralichthys olivaceus).</em></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Enfermedad causada por el virus herpes koi (KHV).</p>
+<p>Necrosis hematopoyética infecciosa (IHN).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carpa común y carpa koi <em>(Cyprinus carpio).</em></p>
+<p>Salmón keta <em>(Oncorhynchus keta), </em>salmón coho <em>(Oncorhynchus kisutch), </em>salmón masou <em>(Oncorhynchus masou), </em>trucha arco iris <em>(Oncorhynchus mykiss), </em>salmón rojo <em>(Oncorhynchus nerka), </em>salmón amago <em>(Oncorhynchus rhodurus), </em>salmón chinook <em>(Oncorhynchus tshawytscha) </em>y salmón del Atlántico <em>(Salmo salar).</em></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Anemia infecciosa del salmón (AIS): infección por genotipo HPR con deleción del género Isavirus (ISAV)</p>
+<p>Enfermedad causada por el virus herpes koi (KHV).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trucha arco iris <em>(Oncorhynchus mykiss), </em>salmón del Atlántico <em>(Salmo salar) </em>y trucha común <em>(Salmo trutta).</em></p>
+<p>Carpa común y carpa koi <em>(Cyprinus carpio).</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anemia infecciosa del salmón (AIS): infección por genotipo HPR con deleción del género Isavirus (ISAV)</p>
+</td>
+<td>
+<p>Trucha arco iris <em>(Oncorhynchus mykiss), </em>salmón del Atlántico <em>(Salmo salar) </em>y trucha común <em>(Salmo trutta).</em></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Moluscos.</p>
+<p>Moluscos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infección por <em>Marteilia refringens.</em></p>
+<p>Infección por <em>Marteilia refringens.</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ostra legamosa de Australia <em>(Ostrea angasi), </em>ostra chilena <em>(Ostrea chilensis), </em>ostra plana europea <em>(Ostrea edulis), </em>ostra puelche <em>(Ostrea puelchana), </em>mejillón atlántico <em>(Mytilus edulis) </em>y mejillón mediterráneo <em>(Mytilus galloprovincialis).</em></p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Infección por <em>Bonamia ostreae.</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ostra legamosa australiana <em>(Ostrea angasi), </em>ostra chilena <em>(Ostrea chilensis), </em>ostra Olimpia <em>(Ostrea conchaphila), </em>ostra asiática<em> (</em>Ostrea denselammellosa), ostra plana europea <em>(Ostrea edulis) </em>y ostra puelche <em>(Ostrea puelchana).</em></p>
+<p>Ostra legamosa de Australia <em>(Ostrea angasi), </em>ostra chilena <em>(Ostrea chilensis), </em>ostra plana europea <em>(Ostrea edulis), </em>ostra puelche <em>(Ostrea puelchana), </em>mejillón atlántico <em>(Mytilus edulis) </em>y mejillón mediterráneo <em>(Mytilus galloprovincialis).</em></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Crustáceos.</p>
+<p>Infección por <em>Bonamia ostreae.</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enfermedad de la mancha blanca.</p>
+<p>Ostra legamosa australiana <em>(Ostrea angasi), </em>ostra chilena <em>(Ostrea chilensis), </em>ostra Olimpia <em>(Ostrea conchaphila), </em>ostra asiática<em> (</em>Ostrea denselammellosa), ostra plana europea <em>(Ostrea edulis) </em>y ostra puelche <em>(Ostrea puelchana).</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Crustáceos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todos los crustáceos decápodos, orden de los Decápodos.</p>
+<p>Enfermedad de la mancha blanca.</p>
+</td>
+<td>
+<p>Todos los crustáceos decápodos, orden de los Decápodos.</p>
 </td>
 </tr>
 </tbody>

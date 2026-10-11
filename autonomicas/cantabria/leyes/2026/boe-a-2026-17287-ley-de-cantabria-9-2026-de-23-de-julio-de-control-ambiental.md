@@ -1417,1314 +1417,1306 @@ Palacio del Gobierno de Cantabria, 23 de julio de 2026.–La Presidenta de la Co
 
 > Téngase en cuenta que los anexos contenidos en esta ley podrán ser modificados mediante Orden o Decreto, publicados únicamente en el "Boletín Oficial de Cantabria", en los términos establecidos en la disposición final 3 de la misma.
 
-<table class="tabla_girada" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">NAE</th>
-<th class="cabeza_tabla" rowspan="2">Título</th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Autorización de comprobación Ambiental</p>
+<th rowspan="2">NAE</th>
+<th rowspan="2">Título</th>
+<th colspan="2">
+<p>Autorización de comprobación Ambiental</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Declaración ambiental responsable</p>
+<th colspan="2">
+<p>Declaración ambiental responsable</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Umbral</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Umbral</th>
+<th> </th>
+<th>Umbral</th>
+<th> </th>
+<th>Umbral</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>A014</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>PRODUCCIÓN GANADERA</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0141</td>
-<td class="cuerpo_tabla_izq">EXPLOTACIÓN DE GANADO VACUNO PARA LA PRODUCCIÓN DE LECHE</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 100 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 100 CABEZAS</td>
+<td>A0141</td>
+<td>EXPLOTACIÓN DE GANADO VACUNO PARA LA PRODUCCIÓN DE LECHE</td>
+<td>X</td>
+<td>MÁS DE 100 CABEZAS</td>
+<td>X</td>
+<td>HASTA 100 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0142</td>
-<td class="cuerpo_tabla_izq">EXPLOTACIÓN DE GANADO VACUNO DE CEBO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 100 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 100 CABEZAS</td>
+<td>A0142</td>
+<td>EXPLOTACIÓN DE GANADO VACUNO DE CEBO</td>
+<td>X</td>
+<td>MÁS DE 100 CABEZAS</td>
+<td>X</td>
+<td>HASTA 100 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0143</td>
-<td class="cuerpo_tabla_izq">EXPLOTACIÓN DE CABALLOS Y OTROS EQUINOS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>A0143</td>
+<td>EXPLOTACIÓN DE CABALLOS Y OTROS EQUINOS</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0145</td>
-<td class="cuerpo_tabla_izq">EXPLOTACIÓN DE GANADO OVINO Y CAPRINO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 500 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 500 CABEZAS</td>
+<td>A0145</td>
+<td>EXPLOTACIÓN DE GANADO OVINO Y CAPRINO</td>
+<td>X</td>
+<td>MÁS DE 500 CABEZAS</td>
+<td>X</td>
+<td>HASTA 500 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0146</td>
-<td class="cuerpo_tabla_izq">EXPLOTACIÓN DE GANADO PORCINO DE CRIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 100 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 100 CABEZAS</td>
+<td>A0146</td>
+<td>EXPLOTACIÓN DE GANADO PORCINO DE CRIA</td>
+<td>X</td>
+<td>MÁS DE 100 CABEZAS</td>
+<td>X</td>
+<td>HASTA 100 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0146</td>
-<td class="cuerpo_tabla_izq">EXPLOTACIÓN DE GANADO PORCINO DE CEBO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 500 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 500 CABEZAS</td>
+<td>A0146</td>
+<td>EXPLOTACIÓN DE GANADO PORCINO DE CEBO</td>
+<td>X</td>
+<td>MÁS DE 500 CABEZAS</td>
+<td>X</td>
+<td>HASTA 500 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0147</td>
-<td class="cuerpo_tabla_izq">INSTALACIONES PARA GALLINAS Y OTRAS AVES (EXCEPTO AVESTRUCES) CON LAS SIGUIENTES PLAZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 5.000 AVES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 5.000 AVES</td>
+<td>A0147</td>
+<td>INSTALACIONES PARA GALLINAS Y OTRAS AVES (EXCEPTO AVESTRUCES) CON LAS SIGUIENTES PLAZAS</td>
+<td>X</td>
+<td>MÁS DE 5.000 AVES</td>
+<td>X</td>
+<td>HASTA 5.000 AVES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0147</td>
-<td class="cuerpo_tabla_izq">INSTALACIONES DE GANADERIA PARA AVESTRUCES CON LAS SIGUIENTES PLAZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 100 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 100 CABEZAS</td>
+<td>A0147</td>
+<td>INSTALACIONES DE GANADERIA PARA AVESTRUCES CON LAS SIGUIENTES PLAZAS</td>
+<td>X</td>
+<td>MÁS DE 100 CABEZAS</td>
+<td>X</td>
+<td>HASTA 100 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0149</td>
-<td class="cuerpo_tabla_izq">INSTALACIONES DE GANADERIA PARA CONEJOS CON LAS SIGUIENTES PLAZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">MÁS DE 5.000 CABEZAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 5.000 CABEZAS</td>
+<td>A0149</td>
+<td>INSTALACIONES DE GANADERIA PARA CONEJOS CON LAS SIGUIENTES PLAZAS</td>
+<td>X</td>
+<td>MÁS DE 5.000 CABEZAS</td>
+<td>X</td>
+<td>HASTA 5.000 CABEZAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0149</td>
-<td class="cuerpo_tabla_izq">OTRAS EXPLOTACIONES GANADERAS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>A0149</td>
+<td>OTRAS EXPLOTACIONES GANADERAS</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A0321 A0322</td>
-<td class="cuerpo_tabla_izq">ACUICULTURA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 T/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 T/AÑO</td>
+<td>A0321 A0322</td>
+<td>ACUICULTURA</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 T/AÑO</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 T/AÑO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>B08</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5"><strong>INDUSTRIA EXTRACTIVA</strong> (CON LA EXCEPCIÓN DE LAS PERFORACIONES DESTINADAS A INVESTIGAR LA ESTABILIDAD DE LOS SUELOS)</td>
+<td colspan="5"><strong>INDUSTRIA EXTRACTIVA</strong> (CON LA EXCEPCIÓN DE LAS PERFORACIONES DESTINADAS A INVESTIGAR LA ESTABILIDAD DE LOS SUELOS)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B0899</td>
-<td class="cuerpo_tabla_izq">PERFORACIONES GEOTÉRMICAS NO PROFUNDAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 500 M. DE PROFUNDIDAD</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B0899</td>
+<td>PERFORACIONES GEOTÉRMICAS NO PROFUNDAS</td>
+<td>X</td>
+<td>HASTA 500 M. DE PROFUNDIDAD</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B0899</td>
-<td class="cuerpo_tabla_izq">PERFORACIONES NO PROFUNDAS PARA EL ABASTECIMIENTO DE AGUAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">HASTA 100 M. DE PROFUNDIDAD</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B0899</td>
+<td>PERFORACIONES NO PROFUNDAS PARA EL ABASTECIMIENTO DE AGUAS</td>
+<td>X</td>
+<td>HASTA 100 M. DE PROFUNDIDAD</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>B09</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES DE APOYO A LA INDUSTRIA EXTRACTIVA</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B0990</td>
-<td class="cuerpo_tabla_izq">SONDEOS DE INVESTIGACIÓN DE RECURSOS MINERALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B0990</td>
+<td>SONDEOS DE INVESTIGACIÓN DE RECURSOS MINERALES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C10</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>INDUSTRIA DE LA ALIMENTACIÓN</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1013</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE PRODUCTOS CÁRNICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1013</td>
+<td>ELABORACIÓN DE PRODUCTOS CÁRNICOS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1021</td>
-<td class="cuerpo_tabla_izq">PROCESADO DE PESCADOS, CRUSTÁCEOS Y MOLUSCOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1021</td>
+<td>PROCESADO DE PESCADOS, CRUSTÁCEOS Y MOLUSCOS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1031</p>
-<p class="cuerpo_tabla_centro">C1032</p>
-<p class="cuerpo_tabla_centro">C1039</p>
+<td>
+<p>C1031</p>
+<p>C1032</p>
+<p>C1039</p>
 </td>
-<td class="cuerpo_tabla_izq">PROCESADO Y CONSERVACIÓN ARTESANAL DE FRUTAS, HORTALIZAS, CONFITURAS Y ALMÍBARES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>PROCESADO Y CONSERVACIÓN ARTESANAL DE FRUTAS, HORTALIZAS, CONFITURAS Y ALMÍBARES</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1042</p>
-<p class="cuerpo_tabla_centro">C1044</p>
+<td>
+<p>C1042</p>
+<p>C1044</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE ACEITES Y GRASAS VEGETALES Y ANIMALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>FABRICACIÓN ARTESANAL DE ACEITES Y GRASAS VEGETALES Y ANIMALES</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1052</p>
-<p class="cuerpo_tabla_centro">C1053</p>
-<p class="cuerpo_tabla_centro">C1054</p>
+<td>
+<p>C1052</p>
+<p>C1053</p>
+<p>C1054</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE PRODUCTOS LÁCTEOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>FABRICACIÓN ARTESANAL DE PRODUCTOS LÁCTEOS</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1061</p>
-<p class="cuerpo_tabla_centro">C1062</p>
+<td>
+<p>C1061</p>
+<p>C1062</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE PRODUCTOS DE MOLINERÍA, ALMIDONES Y PRODUCTOS AMILÁCEOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>FABRICACIÓN ARTESANAL DE PRODUCTOS DE MOLINERÍA, ALMIDONES Y PRODUCTOS AMILÁCEOS</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1071</p>
-<p class="cuerpo_tabla_centro">C1072</p>
-<p class="cuerpo_tabla_centro">C1073</p>
+<td>
+<p>C1071</p>
+<p>C1072</p>
+<p>C1073</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE PRODUCTOS DE PANADERÍA Y PASTAS ALIMENTICIAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>FABRICACIÓN ARTESANAL DE PRODUCTOS DE PANADERÍA Y PASTAS ALIMENTICIAS</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1082</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE CACAO, CHOCOLATE Y PRODUCTOS DE CONFITERÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1082</td>
+<td>FABRICACIÓN ARTESANAL DE CACAO, CHOCOLATE Y PRODUCTOS DE CONFITERÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1083</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE CAFÉ, TÉ E INFUSIONES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1083</td>
+<td>ELABORACIÓN DE CAFÉ, TÉ E INFUSIONES</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1084</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE ESPECIAS, SALSAS Y CONDIMENTOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1084</td>
+<td>ELABORACIÓN DE ESPECIAS, SALSAS Y CONDIMENTOS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1085</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN ARTESANAL DE PLATOS Y COMIDAS PREPARADOS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1085</td>
+<td>ELABORACIÓN ARTESANAL DE PLATOS Y COMIDAS PREPARADOS</td>
+<td> </td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1086</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE PREPARADOS ALIMENTICIOS HOMOGENEIZADOS Y PREPARARADOS DIETÉTICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1086</td>
+<td>ELABORACIÓN DE PREPARADOS ALIMENTICIOS HOMOGENEIZADOS Y PREPARARADOS DIETÉTICOS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1089</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE OTROS PRODUCTOS ALIMENTICIOS N.C.O.P.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1089</td>
+<td>ELABORACIÓN DE OTROS PRODUCTOS ALIMENTICIOS N.C.O.P.</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1091</p>
-<p class="cuerpo_tabla_centro">C1092</p>
+<td>
+<p>C1091</p>
+<p>C1092</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE PRODUCTOS PARA LA ALIMENTACIÓN ANIMAL</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>FABRICACIÓN DE PRODUCTOS PARA LA ALIMENTACIÓN ANIMAL</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C11</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE BEBIDAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1101</td>
-<td class="cuerpo_tabla_izq">DESTILACIÓN, RECTIFICACIÓN Y MEZCLA DE BEBIDAS ALCOHÓLICAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1101</td>
+<td>DESTILACIÓN, RECTIFICACIÓN Y MEZCLA DE BEBIDAS ALCOHÓLICAS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1102</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE VINOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1102</td>
+<td>ELABORACIÓN DE VINOS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1103</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE SIDRA Y OTRAS BEBIDAS FERMENTADAS A PARTIR DE FRUTAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1103</td>
+<td>ELABORACIÓN DE SIDRA Y OTRAS BEBIDAS FERMENTADAS A PARTIR DE FRUTAS</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1104</td>
-<td class="cuerpo_tabla_izq">ELABORACIÓN DE OTRAS BEBIDAS NO DESTILADAS, PROCEDENTES DE LA FERMENTACIÓN</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>C1104</td>
+<td>ELABORACIÓN DE OTRAS BEBIDAS NO DESTILADAS, PROCEDENTES DE LA FERMENTACIÓN</td>
+<td>X</td>
+<td>PRODUCCIÓN SUPERIOR A 100 KG/DÍA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C1105</p>
-<p class="cuerpo_tabla_centro">C1106</p>
+<td>
+<p>C1105</p>
+<p>C1106</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE CERVEZA Y MALTA</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 250 KG/DIA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE HASTA 100 KG/DIA</td>
+<td>FABRICACIÓN ARTESANAL DE CERVEZA Y MALTA</td>
+<td> </td>
+<td>PRODUCCIÓN DE HASTA 250 KG/DIA</td>
+<td>X</td>
+<td>PRODUCCIÓN DE HASTA 100 KG/DIA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C12</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>INDUSTRIA DEL TABACO</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1200</td>
-<td class="cuerpo_tabla_izq">INDUSTRIA DEL TABACO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C1200</td>
+<td>INDUSTRIA DEL TABACO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C15</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>INDUSTRIA DEL CUERO Y DEL CALZADO</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1512</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE ARTÍCULOS DE MARROQUINERÍA, GUARNICIONERÍA Y TALABARTERÍA</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1512</td>
+<td>FABRICACIÓN ARTESANAL DE ARTÍCULOS DE MARROQUINERÍA, GUARNICIONERÍA Y TALABARTERÍA</td>
+<td> </td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1520</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN ARTESANAL DE CALZADO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1520</td>
+<td>FABRICACIÓN ARTESANAL DE CALZADO</td>
+<td> </td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C16</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>INDUSTRIA DE LA MADERA Y DEL CORCHO</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1610</td>
-<td class="cuerpo_tabla_izq">ASERRADO Y CEPILLADO DE LA MADERA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1610</td>
+<td>ASERRADO Y CEPILLADO DE LA MADERA</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1621</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE CHAPAS Y TABLEROS DE MADERA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1621</td>
+<td>FABRICACIÓN DE CHAPAS Y TABLEROS DE MADERA</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1622</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE SUELOS DE MADERA ENSAMBLADOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1622</td>
+<td>FABRICACIÓN DE SUELOS DE MADERA ENSAMBLADOS</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1623</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTRAS ESTRUCTURAS DE MADERA Y PIEZAS DE CARPINTERÍA Y EBANISTERÍA PARA LA CONSTRUCCIÓN</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1623</td>
+<td>FABRICACIÓN DE OTRAS ESTRUCTURAS DE MADERA Y PIEZAS DE CARPINTERÍA Y EBANISTERÍA PARA LA CONSTRUCCIÓN</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1624</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE ENVASES Y EMBALAJES DE MADERA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1624</td>
+<td>FABRICACIÓN DE ENVASES Y EMBALAJES DE MADERA</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1629</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTROS PRODUCTOS DE MADERA; ARTÍCULOS DE CORCHO, CESTERÍA Y ESPARTERÍA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1629</td>
+<td>FABRICACIÓN DE OTROS PRODUCTOS DE MADERA; ARTÍCULOS DE CORCHO, CESTERÍA Y ESPARTERÍA</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C18</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ARTES GRÁFICAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1811</td>
-<td class="cuerpo_tabla_izq">ARTES GRÁFICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1811</td>
+<td>ARTES GRÁFICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1812</td>
-<td class="cuerpo_tabla_izq">OTRAS ACTIVIDADES DE IMPRESIÓN Y ARTES GRÁFICAS: PERIÓDICOS, LIBROS Y REVISTAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1812</td>
+<td>OTRAS ACTIVIDADES DE IMPRESIÓN Y ARTES GRÁFICAS: PERIÓDICOS, LIBROS Y REVISTAS</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1813</td>
-<td class="cuerpo_tabla_izq">SERVICIOS DE PREIMPRESIÓN Y PREPARACIÓN DE SOPORTES: COMPOSICIÓN Y FOTOGRABADO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1813</td>
+<td>SERVICIOS DE PREIMPRESIÓN Y PREPARACIÓN DE SOPORTES: COMPOSICIÓN Y FOTOGRABADO</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1814</td>
-<td class="cuerpo_tabla_izq">ENCUADERNACIÓN Y SERVICIOS RELACIONADOS CON LA MISMA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1814</td>
+<td>ENCUADERNACIÓN Y SERVICIOS RELACIONADOS CON LA MISMA</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1820</td>
-<td class="cuerpo_tabla_izq">REPRODUCCIÓN DE SOPORTES GRABADOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C1820</td>
+<td>REPRODUCCIÓN DE SOPORTES GRABADOS</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C23</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE PRODUCTOS MINERALES NO METÁLICOS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2352</p>
-<p class="cuerpo_tabla_centro">C2362</p>
+<td>
+<p>C2352</p>
+<p>C2362</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE CAL Y YESO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE CAL Y YESO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2361</p>
-<p class="cuerpo_tabla_centro">C2363</p>
+<td>
+<p>C2361</p>
+<p>C2363</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE HORMIGÓN</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE HORMIGÓN</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2364</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE MORTERO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2364</td>
+<td>FABRICACIÓN DE MORTERO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2369</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTROS PRODUCTOS DE HORMIGÓN Y YESO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2369</td>
+<td>FABRICACIÓN DE OTROS PRODUCTOS DE HORMIGÓN Y YESO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2370</td>
-<td class="cuerpo_tabla_izq">CORTE, TALLADO Y ACABADO DE LA PIEDRA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2370</td>
+<td>CORTE, TALLADO Y ACABADO DE LA PIEDRA</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C26</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE PRODUCTOS INFORMÁTICOS, ELECTRÓNICOS Y ÓPTICOS (EXCEPTO ENSAMBLAJE)</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2611</p>
-<p class="cuerpo_tabla_centro">C2612</p>
+<td>
+<p>C2611</p>
+<p>C2612</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE COMPONENTES ELECTRÓNICOS Y CIRCUITOS IMPRESOS ENSAMBLADOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE COMPONENTES ELECTRÓNICOS Y CIRCUITOS IMPRESOS ENSAMBLADOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2620</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE ORDENADORES Y EQUIPOS PERIFÉRICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2620</td>
+<td>FABRICACIÓN DE ORDENADORES Y EQUIPOS PERIFÉRICOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2630</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE EQUIPOS DE TELECOMUNICACIONES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2630</td>
+<td>FABRICACIÓN DE EQUIPOS DE TELECOMUNICACIONES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2640</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE PRODUCTOS ELECTRÓNICOS DE CONSUMO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2640</td>
+<td>FABRICACIÓN DE PRODUCTOS ELECTRÓNICOS DE CONSUMO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2651</p>
-<p class="cuerpo_tabla_centro">C2652</p>
+<td>
+<p>C2651</p>
+<p>C2652</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE APARATOS DE MEDIDA, VERIFICACIÓN Y NAVEGACIÓN; RELOJES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE APARATOS DE MEDIDA, VERIFICACIÓN Y NAVEGACIÓN; RELOJES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2660</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE EQUIPOS DE RADIACIÓN, ELECTROMÉDICOS Y ELECTROTERAPÉUTICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2660</td>
+<td>FABRICACIÓN DE EQUIPOS DE RADIACIÓN, ELECTROMÉDICOS Y ELECTROTERAPÉUTICOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2670</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE INSTRUMENTOS DE ÓPTICA Y EQUIPO FOTOGRÁFICO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2670</td>
+<td>FABRICACIÓN DE INSTRUMENTOS DE ÓPTICA Y EQUIPO FOTOGRÁFICO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2680</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE SOPORTES MAGNÉTICOS Y ÓPTICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2680</td>
+<td>FABRICACIÓN DE SOPORTES MAGNÉTICOS Y ÓPTICOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C27</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE EQUIPO ELÉCTRICO</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2740</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE LÁMPARAS Y APARATOS ELÉCTRICOS DE ILUMINACIÓN</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>C2740</td>
+<td>FABRICACIÓN DE LÁMPARAS Y APARATOS ELÉCTRICOS DE ILUMINACIÓN</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2751</p>
-<p class="cuerpo_tabla_centro">C2752</p>
+<td>
+<p>C2751</p>
+<p>C2752</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE APARATOS DOMÉSTICOS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>FABRICACIÓN DE APARATOS DOMÉSTICOS</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2790</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTRO MATERIAL Y EQUIPO ELÉCTRICO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>C2790</td>
+<td>FABRICACIÓN DE OTRO MATERIAL Y EQUIPO ELÉCTRICO</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C28</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE MAQUINARIA</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2811</p>
-<p class="cuerpo_tabla_centro">A</p>
-<p class="cuerpo_tabla_centro">C2815</p>
+<td>
+<p>C2811</p>
+<p>A</p>
+<p>C2815</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE MAQUINARIA DE USO GENERAL: MOTORES Y TURBINAS, EQUIPOS DE TRANSMISIÓN, BOMBAS Y COMPRESORES, GRIFERÍA Y VÁVULAS, COJINETES Y ENGRANAJES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE MAQUINARIA DE USO GENERAL: MOTORES Y TURBINAS, EQUIPOS DE TRANSMISIÓN, BOMBAS Y COMPRESORES, GRIFERÍA Y VÁVULAS, COJINETES Y ENGRANAJES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2821</p>
-<p class="cuerpo_tabla_centro">A</p>
-<p class="cuerpo_tabla_centro">C2830</p>
+<td>
+<p>C2821</p>
+<p>A</p>
+<p>C2830</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTRA MAQUINARIA DE USO GENERAL</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE OTRA MAQUINARIA DE USO GENERAL</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2841</p>
-<p class="cuerpo_tabla_centro">C2849</p>
+<td>
+<p>C2841</p>
+<p>C2849</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE MÁQUINAS HERRAMIENTA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE MÁQUINAS HERRAMIENTA</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2891</p>
-<p class="cuerpo_tabla_centro">A</p>
-<p class="cuerpo_tabla_centro">C2899</p>
+<td>
+<p>C2891</p>
+<p>A</p>
+<p>C2899</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTRA MAQUINARIA PARA USOS ESPECÍFICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE OTRA MAQUINARIA PARA USOS ESPECÍFICOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C29</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE VEHÍCULOS DE MOTOR, REMOLQUES Y SEMIRREMOLQUES</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C2931</p>
-<p class="cuerpo_tabla_centro">C2932</p>
+<td>
+<p>C2931</p>
+<p>C2932</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE EQUIPOS ELÉCTRICOS Y ELECTRÓNICOS, COMPONENTES, PIEZAS Y ACCESORIOS PARA VEHÍCULOS DE MOTOR</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FABRICACIÓN DE EQUIPOS ELÉCTRICOS Y ELECTRÓNICOS, COMPONENTES, PIEZAS Y ACCESORIOS PARA VEHÍCULOS DE MOTOR</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C30</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE OTRO MATERIAL DE TRANSPORTE</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3092</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE BICICLETAS Y DE VEHÍCULOS PARA PERSONAS CON DISCAPACIDAD</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C3092</td>
+<td>FABRICACIÓN DE BICICLETAS Y DE VEHÍCULOS PARA PERSONAS CON DISCAPACIDAD</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3099</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTRO MATERIAL DE TRANSPORTE N.C.O.P.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C3099</td>
+<td>FABRICACIÓN DE OTRO MATERIAL DE TRANSPORTE N.C.O.P.</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C31</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>FABRICACIÓN DE MUEBLES</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3101</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE MUEBLES DE OFICINA Y DE ESTABLECIMIENTOS COMERCIALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3101</td>
+<td>FABRICACIÓN DE MUEBLES DE OFICINA Y DE ESTABLECIMIENTOS COMERCIALES</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3102</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE MUEBLES DE COCINA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3102</td>
+<td>FABRICACIÓN DE MUEBLES DE COCINA</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3103</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE COLCHONES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3103</td>
+<td>FABRICACIÓN DE COLCHONES</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3109</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE OTROS MUEBLES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3109</td>
+<td>FABRICACIÓN DE OTROS MUEBLES</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C32</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>OTRAS INDUSTRIAS MANUFACTURERAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C3211</p>
-<p class="cuerpo_tabla_centro">C3212</p>
-<p class="cuerpo_tabla_centro">C3213</p>
+<td>
+<p>C3211</p>
+<p>C3212</p>
+<p>C3213</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE MONEDAS, ARTÍCULOS DE JOYERÍA, BISUTERÍA Y SIMILARES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>FABRICACIÓN DE MONEDAS, ARTÍCULOS DE JOYERÍA, BISUTERÍA Y SIMILARES</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3220</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE INSTRUMENTOS MUSICALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3220</td>
+<td>FABRICACIÓN DE INSTRUMENTOS MUSICALES</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3230</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE ARTÍCULOS DE DEPORTE</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3230</td>
+<td>FABRICACIÓN DE ARTÍCULOS DE DEPORTE</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3240</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE JUEGOS Y JUGUETES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3240</td>
+<td>FABRICACIÓN DE JUEGOS Y JUGUETES</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3250</td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE INSTRUMENTOS Y SUMINISTROS MÉDICOS Y ODONTOLÓGICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>C3250</td>
+<td>FABRICACIÓN DE INSTRUMENTOS Y SUMINISTROS MÉDICOS Y ODONTOLÓGICOS</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C3291</p>
-<p class="cuerpo_tabla_centro">C3299</p>
+<td>
+<p>C3291</p>
+<p>C3299</p>
 </td>
-<td class="cuerpo_tabla_izq">FABRICACIÓN DE ESCOBAS, BROCHAS, CEPILLOS Y OTRAS INDUSTRIAS MANUFACTURERAS N.C.O.P.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>FABRICACIÓN DE ESCOBAS, BROCHAS, CEPILLOS Y OTRAS INDUSTRIAS MANUFACTURERAS N.C.O.P.</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>C33</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPOS INDUSTRIALES</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3311</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE PRODUCTOS METÁLICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C3311</td>
+<td>REPARACIÓN DE PRODUCTOS METÁLICOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3312</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE MAQUINARIA INDUSTRIAL</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C3312</td>
+<td>REPARACIÓN DE MAQUINARIA INDUSTRIAL</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3313</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE EQUIPOS ELECTRÓNICOS Y ÓPTICOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C3313</td>
+<td>REPARACIÓN DE EQUIPOS ELECTRÓNICOS Y ÓPTICOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3314</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE EQUIPOS ELÉCTRICOS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>C3314</td>
+<td>REPARACIÓN DE EQUIPOS ELÉCTRICOS</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">C3317</p>
-<p class="cuerpo_tabla_centro">C3319</p>
+<td>
+<p>C3317</p>
+<p>C3319</p>
 </td>
-<td class="cuerpo_tabla_izq">REPARACIÓN Y MANTENIMIENTO DE OTRO MATERIAL DE TRANSPORTE U OTROS EQUIPOS INDUSTRIALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>REPARACIÓN Y MANTENIMIENTO DE OTRO MATERIAL DE TRANSPORTE U OTROS EQUIPOS INDUSTRIALES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>D35</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="3">
+<td colspan="3">
 <strong>SUMINISTRO DE ENERGÍA ELÉCTRICA</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">D3512</p>
-<p class="cuerpo_tabla_centro">D3513</p>
+<td>
+<p>D3512</p>
+<p>D3513</p>
 </td>
-<td class="cuerpo_tabla_izq">CONSTRUCCIÓN DE LÍNEAS AÉREAS PARA EL TRANSPORTE Y DISTRIBUCIÓN DE ELECTRICIDAD</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">VOLTAJE IGUAL O SUPERIOR A 12KV Y LONGITUD IGUAL O SUPERIOR A 2 KM</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE VOLTAJES Y LONGITUDES</td>
+<td>CONSTRUCCIÓN DE LÍNEAS AÉREAS PARA EL TRANSPORTE Y DISTRIBUCIÓN DE ELECTRICIDAD</td>
+<td>X</td>
+<td>VOLTAJE IGUAL O SUPERIOR A 12KV Y LONGITUD IGUAL O SUPERIOR A 2 KM</td>
+<td>X</td>
+<td>RESTO DE VOLTAJES Y LONGITUDES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>G45</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>REPARACIÓN DE VEHÍCULOS DE MOTOR Y MOTOCICLETAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4520</td>
-<td class="cuerpo_tabla_izq">MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS DE MOTOR (INCLUYENDO LAVADO DE LOS MISMOS, DE REMOLQUES Y DE CISTERNAS)</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>G4520</td>
+<td>MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS DE MOTOR (INCLUYENDO LAVADO DE LOS MISMOS, DE REMOLQUES Y DE CISTERNAS)</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4540</td>
-<td class="cuerpo_tabla_izq">MANTENIMIENTO Y REPARACIÓN DE MOTOCICLETAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>G4540</td>
+<td>MANTENIMIENTO Y REPARACIÓN DE MOTOCICLETAS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>G47</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>COMERCIO AL POR MENOR</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4719</td>
-<td class="cuerpo_tabla_izq">ALMACENAMIENTO Y/O VENTA DE MATERIAL PIROTÉCNICO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>G4719</td>
+<td>ALMACENAMIENTO Y/O VENTA DE MATERIAL PIROTÉCNICO</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4730</td>
-<td class="cuerpo_tabla_izq">ESTACIONES DE SERVICIO DE SUMINISTRO DE COMBUSTIBLE PARA VEHÍCULOS DE MOTOR</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>G4730</td>
+<td>ESTACIONES DE SERVICIO DE SUMINISTRO DE COMBUSTIBLE PARA VEHÍCULOS DE MOTOR</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4752</td>
-<td class="cuerpo_tabla_izq">DEPÓSITO, ALMACENAMIENTO Y VENTA DE PINTURAS, BARNICES Y DISOLVENTES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>G4752</td>
+<td>DEPÓSITO, ALMACENAMIENTO Y VENTA DE PINTURAS, BARNICES Y DISOLVENTES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>H52</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES ANEXAS AL TRANSPORTE</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H5229</td>
-<td class="cuerpo_tabla_izq">ESTACIONAMIENTO DE VEHÍCULOS AUTOMÓVILES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">APARCAMIENTOS PÚBLICOS Y ESTACIONES DE AUTOBUSES QUE DISPONGAN DE ALGUNA PLANTA SUBTERRÁNEA</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">APARCAMIENTOS PÚBLICOS Y ESTACIONES DE AUTOBUSES EN SUPERFICIE</td>
+<td>H5229</td>
+<td>ESTACIONAMIENTO DE VEHÍCULOS AUTOMÓVILES</td>
+<td>X</td>
+<td>APARCAMIENTOS PÚBLICOS Y ESTACIONES DE AUTOBUSES QUE DISPONGAN DE ALGUNA PLANTA SUBTERRÁNEA</td>
+<td>X</td>
+<td>APARCAMIENTOS PÚBLICOS Y ESTACIONES DE AUTOBUSES EN SUPERFICIE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>I55</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>HOSTELERÍA</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I5510</td>
-<td class="cuerpo_tabla_izq">HOTELES, HOSTALES, MOTELES Y PENSIONES, INCLUIDOS LOS DE TURISMO RURAL</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ESTABLECIMIENTOS</td>
+<td>I5510</td>
+<td>HOTELES, HOSTALES, MOTELES Y PENSIONES, INCLUIDOS LOS DE TURISMO RURAL</td>
+<td>X</td>
+<td>LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
+<td>X</td>
+<td>RESTO DE ESTABLECIMIENTOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>I56</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>SERVICIOS DE COMIDAS Y BEBIDAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I5610</td>
-<td class="cuerpo_tabla_izq">RESTAURANTES, BARES Y CAFETERIAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ESTABLECIMIENTOS</td>
+<td>I5610</td>
+<td>RESTAURANTES, BARES Y CAFETERIAS</td>
+<td>X</td>
+<td>LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
+<td>X</td>
+<td>RESTO DE ESTABLECIMIENTOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I5621 I5629</td>
-<td class="cuerpo_tabla_izq">PROVISIÓN DE COMIDAS PREPARADAS PARA EVENTOS Y OTROS SERVICIOS DE COMIDAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ESTABLECIMIENTOS</td>
+<td>I5621 I5629</td>
+<td>PROVISIÓN DE COMIDAS PREPARADAS PARA EVENTOS Y OTROS SERVICIOS DE COMIDAS</td>
+<td>X</td>
+<td>LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
+<td>X</td>
+<td>RESTO DE ESTABLECIMIENTOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I5630</td>
-<td class="cuerpo_tabla_izq">ESTABLECIMIENTOS DE BEBIDAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ESTABLECIMIENTOS</td>
+<td>I5630</td>
+<td>ESTABLECIMIENTOS DE BEBIDAS</td>
+<td>X</td>
+<td>LOS QUE DISPONGAN DE COCINA CON EXTRACCIÓN DE HUMOS</td>
+<td>X</td>
+<td>RESTO DE ESTABLECIMIENTOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>M74</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M7490</td>
-<td class="cuerpo_tabla_izq">GUARDERÍAS PARA ANIMALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">ASOCIADOS A CLINICAS VETERINARIAS O PARA ANIMALES NO PROPIOS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>M7490</td>
+<td>GUARDERÍAS PARA ANIMALES</td>
+<td>X</td>
+<td>ASOCIADOS A CLINICAS VETERINARIAS O PARA ANIMALES NO PROPIOS</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M7490</td>
-<td class="cuerpo_tabla_izq">PLANTAS DE TRATAMIENTO DE AGUAS RESIDUALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>M7490</td>
+<td>PLANTAS DE TRATAMIENTO DE AGUAS RESIDUALES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M7490</td>
-<td class="cuerpo_tabla_izq">PLANTAS ASFÁLTICAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>M7490</td>
+<td>PLANTAS ASFÁLTICAS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M7490</td>
-<td class="cuerpo_tabla_izq">PLANTAS DE TRATAMIENTO DE ÁRIDOS MÓVILES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>M7490</td>
+<td>PLANTAS DE TRATAMIENTO DE ÁRIDOS MÓVILES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>M75</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES VETERINARIAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M7500</td>
-<td class="cuerpo_tabla_izq">ACTIVIDADES VETERINARIAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RESTO ACTIVIDADES</td>
+<td>M7500</td>
+<td>ACTIVIDADES VETERINARIAS</td>
+<td>X</td>
+<td>CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
+<td> </td>
+<td>RESTO ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>Q86</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES SANITARIAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q8610</td>
-<td class="cuerpo_tabla_izq">ACTIVIDADES HOSPITALARIAS (HOSPITALES Y CLÍNICAS)</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RESTO ACTIVIDADES</td>
+<td>Q8610</td>
+<td>ACTIVIDADES HOSPITALARIAS (HOSPITALES Y CLÍNICAS)</td>
+<td>X</td>
+<td>CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
+<td> </td>
+<td>RESTO ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Q8621</p>
-<p class="cuerpo_tabla_centro">Q8622</p>
-<p class="cuerpo_tabla_centro">Q8623</p>
+<td>
+<p>Q8621</p>
+<p>Q8622</p>
+<p>Q8623</p>
 </td>
-<td class="cuerpo_tabla_izq">ACTIVIDADES MÉDICAS Y ODONTOLÓGICAS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RESTO ACTIVIDADES</td>
+<td>ACTIVIDADES MÉDICAS Y ODONTOLÓGICAS</td>
+<td>X</td>
+<td>CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
+<td> </td>
+<td>RESTO ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q8690</td>
-<td class="cuerpo_tabla_izq">SERVICIOS MÉDICOS CON REHABILITACIÓN U OTROS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">RESTO ACTIVIDADES</td>
+<td>Q8690</td>
+<td>SERVICIOS MÉDICOS CON REHABILITACIÓN U OTROS</td>
+<td>X</td>
+<td>CON RAYOS X, EQUIPOS DE ONDA CORTA Y/O LÁSER</td>
+<td> </td>
+<td>RESTO ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>R92</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R9200</td>
-<td class="cuerpo_tabla_izq">ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>R9200</td>
+<td>ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>R93</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>ACTIVIDADES DEPORTIVAS, RECREATIVAS Y DE ENTRETENIMIENTO</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">R9312</p>
-<p class="cuerpo_tabla_centro">R9313</p>
-<p class="cuerpo_tabla_centro">R9319</p>
+<td>
+<p>R9312</p>
+<p>R9313</p>
+<p>R9319</p>
 </td>
-<td class="cuerpo_tabla_izq">ACTIVIDADES DE CLUBES DEPORTIVOS Y GIMNASIOS</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>ACTIVIDADES DE CLUBES DEPORTIVOS Y GIMNASIOS</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R9329</td>
-<td class="cuerpo_tabla_izq">ACTIVIDADES RECREATIVAS Y DE ENTRETENIMIENTO, INCLUIDAS DISCOTECAS, SALAS DE FIESTA O DE BAILE</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>R9329</td>
+<td>ACTIVIDADES RECREATIVAS Y DE ENTRETENIMIENTO, INCLUIDAS DISCOTECAS, SALAS DE FIESTA O DE BAILE</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>S95</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>REPARACIÓN DE ORDENADORES, EFECTOS PERSONALES Y ARTÍCULOS DE USO DOMÉSTICO</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">S9511</p>
-<p class="cuerpo_tabla_centro">S9512</p>
+<td>
+<p>S9511</p>
+<p>S9512</p>
 </td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE ORDENADORES Y OTROS EQUIPOS DE COMUNICACIÓN</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>REPARACIÓN DE ORDENADORES Y OTROS EQUIPOS DE COMUNICACIÓN</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9521</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE APARATOS ELECTRÓNICOS DE AUDIO Y VÍDEO DE USO DOMÉSTICO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9521</td>
+<td>REPARACIÓN DE APARATOS ELECTRÓNICOS DE AUDIO Y VÍDEO DE USO DOMÉSTICO</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9522</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE APARATOS ELECTRODOMÉSTICOS Y DE EQUIPOS PARA EL HOGAR Y JARDIN</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9522</td>
+<td>REPARACIÓN DE APARATOS ELECTRODOMÉSTICOS Y DE EQUIPOS PARA EL HOGAR Y JARDIN</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9523</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE CALZADO Y ARTÍCULOS DE CUERO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9523</td>
+<td>REPARACIÓN DE CALZADO Y ARTÍCULOS DE CUERO</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9524</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE MUEBLES Y ARTÍCULOS DE MENAJE</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9524</td>
+<td>REPARACIÓN DE MUEBLES Y ARTÍCULOS DE MENAJE</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9525</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE RELOJES Y JOYERÍA</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9525</td>
+<td>REPARACIÓN DE RELOJES Y JOYERÍA</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9529</td>
-<td class="cuerpo_tabla_izq">REPARACIÓN DE OTROS EFECTOS PERSONALES Y ARTÍCULOS DE USO DOMÉSTICO</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9529</td>
+<td>REPARACIÓN DE OTROS EFECTOS PERSONALES Y ARTÍCULOS DE USO DOMÉSTICO</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>S96</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td colspan="5">
 <strong>OTROS SERVICIOS PERSONALES</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9601</td>
-<td class="cuerpo_tabla_izq">LAVADO Y LIMPIEZA DE PRENDAS TEXTILES Y DE PIEL</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">RESTO DE ACTIVIDADES</td>
+<td>S9601</td>
+<td>LAVADO Y LIMPIEZA DE PRENDAS TEXTILES Y DE PIEL</td>
+<td>X</td>
+<td>CUANDO SE UTILICEN PRODUCTOS PELIGROSOS EN CANTIDAD SUPERIOR A 100 KG/AÑO</td>
+<td>X</td>
+<td>RESTO DE ACTIVIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9602</td>
-<td class="cuerpo_tabla_izq">PELUQUERÍA Y OTROS TRATAMIENTOS DE BELLEZA</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9602</td>
+<td>PELUQUERÍA Y OTROS TRATAMIENTOS DE BELLEZA</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9603</td>
-<td class="cuerpo_tabla_izq">POMPAS FÚNEBRES</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9603</td>
+<td>POMPAS FÚNEBRES</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9603</td>
-<td class="cuerpo_tabla_izq">CEMENTERIOS, TANATORIOS Y CREMATORIOS, INCLUIDOS LOS DE ANIMALES</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>S9603</td>
+<td>CEMENTERIOS, TANATORIOS Y CREMATORIOS, INCLUIDOS LOS DE ANIMALES</td>
+<td>X</td>
+<td>SIN UMBRAL</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S9609</td>
-<td class="cuerpo_tabla_izq">ESTABLECIMIENTOS NO SANITARIOS DE TATUAJE Y/O PIERCING</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_izq">SIN UMBRAL</td>
+<td>S9609</td>
+<td>ESTABLECIMIENTOS NO SANITARIOS DE TATUAJE Y/O PIERCING</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>SIN UMBRAL</td>
 </tr>
 </tbody>
 </table>

@@ -904,8 +904,6 @@ Se entenderá que concurren las causas a que se refiere el párrafo anterior cua
 
 4.º Por encontrarse en situación de desequilibrio financiero estructural, en los términos que se determinen reglamentariamente. En el desarrollo reglamentario que se establezca se contemplará la posibilidad de elaborar planes de corrección del desequilibrio y el procedimiento y plazos para acordar la disolución, en su caso, ante la falta de corrección del desequilibrio.
 
-> Téngase en cuenta que el apartado 1.b)4º, añadido por la disposición final 2 de la Ley 6/2019, de 19 de diciembre. [Ref. BOE-A-2020-1068](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1068) entrará en vigor cuando se produzca su desarrollo reglamentario, que tendrá lugar, en todo caso, antes del 1 de enero de 2021, según establece su disposición final 15.b).
-
 5.º Por cualquier otra causa establecida en los estatutos.
 
 2\. En el plazo máximo de seis meses a contar desde el momento en que concurran las causas de disolución a que se refieren los subapartados 1.º, 2.º, 3.º y 5.º del párrafo b) del apartado anterior, la persona titular del máximo órgano de dirección de la agencia formulará un plan de liquidación y extinción, y lo comunicará a la persona titular de la Consejería de adscripción.
@@ -1125,14 +1123,6 @@ La cuantía de la masa salarial destinada al complemento de productividad o conc
 2\. Las sociedades mercantiles del sector público andaluz tendrán por objeto la realización de actividades comerciales o de gestión de servicios en régimen de mercado, actuando bajo el principio de la libre competencia.
 
 En ningún caso podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de que excepcionalmente la ley pueda atribuirles el ejercicio de potestades administrativas.
-
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 2 de la Ley 5/2023, de 7 de junio. [Ref. BOE-A-2023-16066](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16066), entra en vigor el 14 de diciembre de 2023, según determina su disposición final 5.1.
-
-> Redacción anterior:
-
-> "2. Las sociedades mercantiles del sector público andaluz tendrán por objeto la realización de actividades comerciales o de gestión de servicios en régimen de mercado, actuando bajo el principio de la libre competencia.
-
-> En ningún caso podrán ejercer potestades administrativas."
 
 > Se modifica, con efectos de 14 de diciembre de 2023, el apartado 2 por la disposición final 2 de la Ley 5/2023, de 7 de junio. [Ref. BOE-A-2023-16066](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16066)
 

@@ -2116,59 +2116,55 @@ b) En el caso de que en la factura no se incluya un volumen facturado de agua, l
 
 c) En el caso de que se trate de un supuesto de suministro no facturado o de consumo propio regulados en el apartado 5 del artículo 74, o de un suministro a partir de una comunidad de usuarios, la base imponible, para cada acometida, se determinará a partir del diámetro interior de la tubería en el punto de enganche a la red de abastecimiento según la tabla siguiente:
 
-<table class="tabla">
-<colgroup>
-<col width="35%">
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cuerpo_tabla_centro">Diámetro de la tubería</p>
-<p class="cuerpo_tabla_centro">(mm)</p>
+<th>
+<p>Diámetro de la tubería</p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cuerpo_tabla_centro">Base imponible mensual</p>
-<p class="cuerpo_tabla_centro">(m<sup>3</sup>)</p>
+<th>
+<p>Base imponible mensual</p>
+<p>(m<sup>3</sup>)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">≤ 6</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>≤ 6</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>8</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>10</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td>15</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">80</td>
+<td>20</td>
+<td>80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">100</td>
+<td>30</td>
+<td>100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">125</td>
+<td>50</td>
+<td>125</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">150</td>
+<td>80</td>
+<td>150</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">≥ 100</td>
-<td class="cuerpo_tabla_centro">200</td>
+<td>≥ 100</td>
+<td>200</td>
 </tr>
 </tbody>
 <tfoot>
@@ -2182,66 +2178,62 @@ c) En el caso de que se trate de un supuesto de suministro no facturado o de con
 
 1\. La parte fija de la cuota liquidable será la establecida en el artículo 54.2 de esta ley multiplicada por el número de viviendas, oficinas o locales conectados. Cuando este extremo no sea conocido, el número de abonados se determinará en función del diámetro del contador de acuerdo con la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col width="35%">
-<col width="35%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cuerpo_tabla_centro">Diámetro del contador</p>
-<p class="cuerpo_tabla_centro">(mm)</p>
+<th>
+<p>Diámetro del contador</p>
+<p>(mm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cuerpo_tabla_centro">Número de abonados asignados</p>
+<th>
+<p>Número de abonados asignados</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">&lt; 15</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>&lt; 15</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>15</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>20</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>25</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>30</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>40</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>50</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">65</td>
-<td class="cuerpo_tabla_centro">85</td>
+<td>65</td>
+<td>85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">100</td>
+<td>80</td>
+<td>100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">200</td>
+<td>100</td>
+<td>200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">≥ 125</td>
-<td class="cuerpo_tabla_centro">300</td>
+<td>≥ 125</td>
+<td>300</td>
 </tr>
 </tbody>
 <tfoot>

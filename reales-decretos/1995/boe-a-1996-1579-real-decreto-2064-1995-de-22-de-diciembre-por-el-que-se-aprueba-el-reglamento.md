@@ -194,12 +194,6 @@ A los mismos efectos, se entenderá por pluriactividad la situación del trabaja
 
 La cotización por accidentes de trabajo y enfermedades profesionales de los trabajadores por cuenta propia se efectuará mediante la aplicación del tipo de cotización que se determine anualmente en la Ley de Presupuestos Generales del Estado, salvo en el caso de los incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios establecido en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, en que dicha cotización se efectuará conforme a lo indicado en el párrafo anterior.
 
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por el art. 2.1 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1. La cotización por accidentes de trabajo y enfermedades profesionales por parte de los empresarios, de los trabajadores por cuenta propia y de los empleados de hogar que hubieran asumido el cumplimiento de tal obligación, en los términos establecidos en este reglamento, se efectuará mediante la aplicación de los tipos de cotización que correspondan a las actividades económicas de empresas y trabajadores y a las ocupaciones o situaciones de estos últimos, conforme a la tarifa de primas vigente."
-
 2\. Las primas adicionales a la cotización de accidentes de trabajo que el Gobierno pueda establecer para las empresas que ofrezcan riesgos de enfermedades profesionales podrán diversificarse, en los términos y condiciones fijados por el Ministerio de Trabajo e Inmigración, en función de la peligrosidad de la industria o clase de trabajo y de la eficacia de los medios de prevención aplicados, sin que dicha diversificación pueda suponer la exoneración de unas empresas y la asunción por otras del importe total de dichas primas adicionales.
 
 3\. La cuantía de las cuotas por accidentes de trabajo y enfermedades profesionales resultante de la aplicación de la tarifa de primas vigente y, en su caso, de las primas adicionales a que se refieren los apartados anteriores, podrá reducirse en el supuesto de empresas que se distingan en el empleo de medios eficaces de prevención. Asimismo, dicha cuantía podrá aumentarse para las empresas que incumplan sus obligaciones en materia de seguridad y salud laboral, en los supuestos y condiciones que determine el Ministerio de Trabajo e Inmigración.
@@ -707,20 +701,6 @@ c) Al finalizar el ejercicio económico de que se trate, la Tesorería General d
 
 **(Derogado)**
 
-> Téngase en cuenta que esta derogación, establecida por la disposición derogatoria única.c) del Real Decreto-ley 16/2022, de 6 de septiembre [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680), entra en vigor el 1 de enero de 2023, según determina su disposición final 7.2.
-
-> Redacción anterior:
-
-> "1. En el Sistema Especial para Empleados de Hogar, establecido en el Régimen General de la Seguridad Social, la cotización para todas las contingencias y situaciones amparadas por su acción protectora se regirá por lo previsto en el apartado 2 de la disposición adicional trigésima novena de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de la Seguridad Social, así como por las normas de las anteriores subsecciones, con las particularidades señaladas en los apartados siguientes.
-
-> 2\. El empleado de hogar que preste sus servicios durante menos de 60 horas mensuales por empleador y que hubiera acordado con este último la asunción de las obligaciones en materia de encuadramiento en este sistema especial, será el sujeto responsable del cumplimiento de la obligación de cotizar a dicho sistema, debiendo ingresar la aportación propia y la correspondiente al empleador o empleadores con los que mantenga tal acuerdo, tanto por contingencias comunes como por contingencias profesionales.
-
-> En estos casos, el empleador estará obligado a entregar al trabajador, además del recibo de salarios en todo caso, la aportación y cuota que, por los días del mes en que hubiera estado a su servicio, le corresponda por las contingencias comunes y profesionales.
-
-> La responsabilidad por el incumplimiento de la obligación de cotizar al Sistema Especial para Empleados de Hogar en estos supuestos corresponderá al propio empleado y, subsidiariamente, al empleador o empleadores, salvo que éstos acrediten la entrega de sus aportaciones y cuotas por cualquier medio admitido en derecho.
-
-> 3\. En el supuesto previsto en el apartado 2, durante las situaciones de incapacidad temporal, maternidad, paternidad, riesgo durante el embarazo y riesgo durante la lactancia natural, la entidad gestora o colaboradora de la Seguridad Social a la que corresponda el pago del respectivo subsidio descontará de éste el importe de la totalidad de la cotización a la Seguridad Social que proceda en dichas situaciones."
-
 > Se deroga, con efectos desde el 1 de enero de 2023, por la disposición derogatoria única.c) del Real Decreto-ley 16/2022, de 6 de septiembre. [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680)
 
 > Se añade por el art. 3.2 del Real Decreto-ley 29/2012, de 28 de diciembre. [Ref. BOE-A-2012-15764](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15764)
@@ -847,8 +827,6 @@ A estos efectos, en los documentos de cotización o en la transmisión por medio
 
 #### Subsección 1.ª Elementos de la obligación de cotizar
 
-> Téngase en cuenta que esta última actualización, por la que se añade la subsección 1ª, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
 > Se añade, con efectos de 1 de enero de 2023, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ##### Artículo 43. Sujetos de la obligación de cotizar.
@@ -860,28 +838,6 @@ A estos efectos, en los documentos de cotización o en la transmisión por medio
 Son responsables subsidiarios del cumplimiento de la obligación de cotizar los trabajadores autónomos y los titulares de explotaciones agrarias incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios con respecto a sus cónyuges y demás parientes incorporados en este régimen, respectivamente, en virtud de los artículos 305.2.k) y 324.3 del texto refundido de la Ley General de la Seguridad Social, así como las sociedades a que se refiere el artículo 305.2.c) del citado texto refundido con respecto a sus socios; sin perjuicio, en ambos casos, del derecho del responsable subsidiario a repetir contra el principal obligado al pago.
 
 Las cooperativas de trabajo asociado que hayan optado por la incorporación de sus socios trabajadores en este régimen especial responderán solidariamente del cumplimiento de la obligación de cotizar de aquellos.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> **Redacción anterior:**
-
-> "Artículo 43. Elementos de la obligación de cotizar: Sujetos, bases y tipo.
-
-> 1\. En el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos son sujetos de la obligación de cotizar las personas que, en razón de su actividad, se encuentran obligatoriamente incluidas en su campo de aplicación.
-
-> Los sujetos de la obligación de cotizar son también responsables de su cumplimiento como obligados directos respecto de sí mismos, siendo responsables subsidiarios del pago las personas determinadas en los artículos 2.1 de la Ley 18/2007, de 4 de julio, y 3.a) del Decreto 2530/1970, de 20 de agosto, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, con respecto a sus familiares incluidos, respectivamente, en los artículos 2.3 y 3.b) de la Ley y el Decreto antes señalados, así como las compañías a que se refiere el artículo 3.c) del citado Decreto con respecto a sus socios y sin perjuicio, en ambos casos, del derecho del responsable subsidiario a repetir contra el principal obligado al pago.
-
-> Las cooperativas de trabajo asociado que hayan optado, respecto de sus socios trabajadores por su incorporación a este Régimen Especial, responderán solidariamente de la obligación de cotizar de aquéllos.
-
-> 2\. Las bases mínima y máxima de cotización a este régimen especial, para todas las contingencias y situaciones protegidas por el mismo,, serán las que se establezcan en cada ejercicio económico por la Ley de Presupuestos Generales del Estado.
-
-> La inclusión en este régimen especial llevará implícita la obligación de cotizar, al menos, sobre la cuantía de la base mínima que corresponda al interesado, sin perjuicio del derecho de este a elegir otra base superior, dentro de los límites comprendidos entre las bases mínima y máxima establecidas anualmente por la respectiva Ley de Presupuestos Generales del Estado, ya sea con carácter general o con carácter particular para determinados trabajadores autónomos, por razón de su edad, condición, actividad, situación o número de trabajadores que hayan contratado a su servicio en el ejercicio anterior.
-
-> La elección de la base deberá realizarse de forma simultánea a la solicitud de alta en este régimen especial, dentro del plazo establecido para formular esta, y surtirá efectos desde el momento en que nazca la obligación de cotizar, de conformidad con el artículo 45.2.
-
-> El interesado podrá modificar su base con posterioridad por elección de otra, en los términos y condiciones establecidos por el artículo 43 bis de este reglamento.
-
-> 3\. Los tipos de cotización aplicables serán los fijados en la Ley de Presupuestos Generales del Estado para cada ejercicio económico, conforme a lo dispuesto en el artículo 10 de este Reglamento".
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -898,28 +854,6 @@ Las cooperativas de trabajo asociado que hayan optado por la incorporación de s
 ##### Artículo 43 bis. Cambios posteriores de base.
 
 **(Derogado).**
-
-> Téngase en cuenta que la derogación de este art. por la disposición derogatoria única.d) del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), tendrá efectos desde el 1 de enero de 2023.
-
-> **Redacción anterior:**
-
-> 1\. Los trabajadores incluidos en el campo de aplicación de este régimen especial podrán cambiar hasta cuatro veces al año la base por la que viniesen obligados a cotizar, eligiendo otra dentro de los límites mínimo y máximo que les resulten aplicables en cada ejercicio, siempre que así lo soliciten a la Tesorería General de la Seguridad Social, con los siguientes efectos:
-
-> a) 1 de abril, si la solicitud se formula entre el 1 de enero y el 31 de marzo.
-
-> b) 1 de julio, si la solicitud se formula entre el 1 de abril y el 30 de junio.
-
-> c) 1 de octubre, si la solicitud se formula entre el 1 de julio y el 30 de septiembre.
-
-> d) 1 de enero del año siguiente, si la solicitud se formula entre el 1 de octubre y el 31 de diciembre.
-
-> 2\. Los trabajadores autónomos que, en el momento de surtir efectos el cambio voluntario de base de cotización, reúnan las circunstancias de edad, condición, actividad, situación o número de trabajadores a su servicio a que se refiere el artículo 43.2, sólo podrán elegir una base que esté comprendida entre los límites mínimo y máximo establecidos específicamente para ellos en cada ejercicio por la respectiva Ley de Presupuestos Generales del Estado.
-
-> 3\. Sin perjuicio de lo indicado en los apartados anteriores, los trabajadores autónomos que estén cotizando por cualquiera de las bases máximas de este régimen especial podrán solicitar que, mientras mantengan su situación de alta en dicho régimen, su base de cotización se incremente automáticamente en el mismo porcentaje en que se aumenten esas bases máximas.
-
-> Asimismo, los trabajadores autónomos que no estén cotizando por cualquiera de las bases máximas podrán solicitar que, mientras mantengan su situación de alta, su base de cotización se incremente automáticamente en el mismo porcentaje en que se aumenten las bases máximas de cotización de este régimen especial. En ningún caso la base de cotización elegida podrá ser superior al límite máximo que pudiera afectar al trabajador.
-
-> Cualquiera de las opciones anteriores que se ejerciten simultáneamente con el alta en este régimen especial o, posteriormente al alta, durante todo el año natural, tendrán efectos desde el día 1 de enero del año siguiente a la fecha de presentación de la solicitud. La renuncia a estas opciones podrá realizarse, asimismo, durante todo el año natural, con efectos a partir del día 1 de enero del año siguiente a aquel en el que se presente la solicitud.
 
 > Se deroga, con efectos de 1 de enero de 2023, por la disposición derogatoria única.d) del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -966,16 +900,6 @@ c) En el supuesto de las solicitudes de altas presentadas fuera del plazo reglam
 d) En el caso de altas de oficio a propuesta de la Inspección de Trabajo y Seguridad Social, durante el período comprendido entre la fecha del alta y el último día del mes natural inmediatamente anterior a la fecha de efectos del alta conforme a lo establecido en el Reglamento General sobre inscripción de empresas, afiliación, altas, bajas y variaciones de datos de trabajadores, así como durante los períodos incluidos en las actas de liquidación por falta de alta de los trabajadores por cuenta propia o autónomos, la base de cotización será la base mínima del tramo 1 de la tabla general de bases de cotización de este régimen especial, salvo que la Inspección de Trabajo y Seguridad Social hubiese establecido expresamente otra base de cotización superior. En cualquier caso, se aplique una u otra base de cotización, no será de aplicación a dicho período el procedimiento de regularización al que se refiere el artículo 46.
 
 Iguales bases de cotización serán de aplicación en el supuesto de altas de oficio efectuadas por la Tesorería General de la Seguridad Social.
-
-> Téngase en cuenta que esta última modificación de las letras c) y d) del apartado 3 establecida por el art. único.1 del Real Decreto 665/2024, de 9 de julio. [Ref. BOE-A-2024-14086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14086), entra en vigor el 1 de agosto de 2024, según determina la disposición final 2 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "c) En el supuesto de las solicitudes de altas presentadas fuera del plazo reglamentariamente establecido, durante el período comprendido entre la fecha del alta y el último día del mes natural inmediatamente anterior a aquel en el que se presentó la solicitud del alta, la base de cotización será la base mínima del tramo 1 de la tabla general de bases de cotización de este régimen especial, sin que resulte de aplicación, a dicho período, el procedimiento de regularización al que se refiere el artículo 46.
-
-> d) En el caso de altas de oficio a propuesta de la Inspección de Trabajo y Seguridad Social, durante el período comprendido entre la fecha del alta y el último día del mes natural inmediatamente anterior a la fecha de efectos del alta, conforme a lo establecido en el Reglamento General sobre inscripción de empresas, afiliación, altas, bajas y variaciones de datos de trabajadores, la base de cotización será la base mínima del tramo 1 de la tabla general de bases de cotización de este régimen especial, salvo que la Inspección de Trabajo y Seguridad Social hubiese establecido expresamente otra base de cotización superior, en cuyo caso se aplicará la misma sin que resulte de aplicación, a dicho período, el procedimiento de regularización al que se refiere el artículo 46.
-
-> Iguales bases de cotización serán de aplicación en el supuesto de altas de oficio efectuadas por la Tesorería General de la Seguridad Social."
 
 e) En el caso de los períodos anuales respecto de los que el trabajador por cuenta propia hubiese incumplido la obligación de presentación de la declaración del Impuesto sobre la Renta de las Personas Físicas, la base de cotización aplicable será la base mínima de cotización para contingencias comunes correspondiente a los trabajadores incluidos en el grupo 7 de cotización del Régimen General de la Seguridad Social.
 
@@ -1030,60 +954,6 @@ e) 1 de noviembre, si la solicitud se formula entre el 1 de septiembre y el 31 d
 f) 1 de enero del año siguiente, si la solicitud se formula entre el 1 de noviembre y el 31 de diciembre.
 
 2\. Junto con la solicitud de cambio de su base de cotización mensual, los trabajadores deberán efectuar una declaración del promedio mensual de los rendimientos económicos netos anuales, definidos conforme a lo establecido en el artículo 308 del texto refundido de la Ley General de la Seguridad Social, que prevean obtener por su actividad económica o profesional, en los términos previstos por el artículo 30.2.b).9.º del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, en el año natural en el que surta efectos dicho cambio de base de cotización.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> Artículo 45. Período de liquidación y contenido de la obligación de cotizar.
-
-> 1\. El período de liquidación de la obligación de cotizar al Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos estará siempre referido a meses completos, aunque en el caso de las altas y de las bajas a que se refieren, respectivamente, los apartados 2.a) y 4.a) del artículo 46 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, comprenderá los días de prestación efectiva de la actividad por cuenta propia en el mes en que aquellas se hayan producido, exigiéndose la fracción de la cuota mensual correspondiente a dichos días; a tal efecto, la cuota fija mensual se dividirá por treinta en todo caso.
-
-> El cálculo de las cuotas en este régimen especial se efectuará mediante el sistema de liquidación simplificada, regulado en los artículos 15 y siguientes.
-
-> 2\. La obligación de cotizar a este régimen especial nacerá:
-
-> a) Desde el día en que concurran las condiciones determinantes para la inclusión en su campo de aplicación del sujeto obligado a cotizar, en el caso de las altas a que se refiere el artículo 46.2.a) del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social.
-
-> b) Desde el día primero del mes natural en que concurran las condiciones determinantes para la inclusión en su campo de aplicación del sujeto obligado a cotizar, en los casos de las altas a que se refiere el artículo 46.2, párrafos b) y c), del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social.
-
-> c) Cuando la Tesorería General de la Seguridad Social practique el alta de oficio en este régimen especial, la obligación de cotizar nacerá desde el día primero del mes natural en que resulte acreditada la concurrencia de los requisitos para la inclusión en su campo de aplicación.
-
-> 3\. La obligación de cotizar a este régimen especial se extinguirá:
-
-> a) Desde el día en que las condiciones de inclusión en su campo de aplicación dejen de concurrir en el sujeto de la obligación de cotizar, en el caso de las bajas a que se refiere el artículo 46.4.a) del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, siempre que la baja se comunique en el tiempo y la forma establecidos.
-
-> En este supuesto, si la liquidación se hubiera realizado e ingresado hasta el último día del respectivo mes natural, la Tesorería General de la Seguridad Social procederá a efectuar la devolución que en cada caso corresponda, sin aplicación de recargo o interés alguno. La referida devolución se efectuará mediante transferencia bancaria, en el plazo de los dos meses siguientes a aquel en que se hubiera efectuado el ingreso, salvo en aquellos casos en que el trabajador fuese deudor de la Seguridad Social o tuviese concedido un aplazamiento o moratoria, en cuyo caso el importe a reintegrar se aplicará a la deuda pendiente de ingreso o de amortización, salvo para el caso de deuda exigible garantizada mediante aval genérico.
-
-> b) Al vencimiento del último día del mes natural en que las condiciones de inclusión en su campo de aplicación dejen de concurrir en el sujeto de la obligación de cotizar, en el caso de las bajas a que se refiere el artículo 46.4.b) del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, siempre que la baja se comunique en el tiempo y la forma establecidos.
-
-> c) En los casos en que no se comunique la baja no se extinguirá la obligación de cotizar sino hasta el último día del mes natural en que la Tesorería General de la Seguridad Social conozca el cese del trabajador en su actividad por cuenta propia.
-
-> d) Cuando la Tesorería General de la Seguridad Social practique la baja de oficio, por conocer el cese en la actividad como consecuencia de la actuación de la Inspección de Trabajo y Seguridad Social, por los datos obrantes en la misma o en una entidad gestora o por cualquier otro procedimiento, la obligación de cotizar se extinguirá el último día del mes natural en que se haya llevado a cabo dicha actuación inspectora o se hayan recibido los datos o documentos que acrediten el cese en la actividad.
-
-> No obstante lo dispuesto en el párrafo anterior, los interesados podrán demostrar, por cualquier medio de prueba admitido en derecho, que el cese en la actividad tuvo lugar en otra fecha a efectos de la extinción de la obligación de cotizar, sin perjuicio, en su caso, de los efectos que deban producirse tanto en orden a la devolución de las cuotas que resulten indebidamente ingresadas como respecto del reintegro de las prestaciones que resulten indebidamente percibidas, salvo que por aplicación de las prescripciones no fueran exigibles la devolución ni el reintegro.
-
-> 4\. La cotización por la prestación de incapacidad temporal derivada de contingencias comunes en este régimen especial se regirá por las siguientes normas:
-
-> 1.ª En los supuestos de cobertura obligatoria de dicha prestación, la obligación de cotizar nacerá y se extinguirá conforme a lo indicado en los apartados 2 y 3 de este artículo, salvo en las situaciones previstas en los artículos 47.3.4.ª y 47 bis.4.2.ª del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, en que su nacimiento coincidirá con los efectos establecidos en dichos preceptos para la protección obligatoria de esa prestación.
-
-> 2.ª En los supuestos de acogimiento voluntario a dicha prestación, en los términos previstos en los artículos 47.3 y 47 bis.4 del Reglamento general antes citado, el contenido de la obligación de cotizar será el siguiente:
-
-> a) Cuando la solicitud de mejora se presente simultáneamente con la petición de alta en este régimen especial, la obligación de cotizar nacerá desde el mismo día en que surta efectos dicha alta.
-
-> Cuando los trabajadores que ya estuvieran en alta formulen la petición de acogimiento voluntario a la prestación de incapacidad temporal, la obligación de cotizar nacerá desde el día 1 de enero del año siguiente al de la solicitud.
-
-> b) La obligación de cotizar se mantendrá por un período mínimo de un año natural y se prorrogará automáticamente por períodos de igual duración.
-
-> c) La obligación de cotizar por incapacidad temporal se extinguirá por renuncia a su cobertura, en los supuestos y con los efectos previstos en los artículos indicados, o por la baja en este régimen especial, con los efectos previstos en el apartado 3 de este artículo.
-
-> 5\. La cotización por las contingencias de accidentes de trabajo y enfermedades profesionales en este régimen especial determinará, para los trabajadores obligados o acogidos voluntariamente a su cobertura, el nacimiento de la obligación de cotizar por la misma base por la que coticen por contingencias comunes y conforme a los tipos de cotización de la tarifa de primas vigente.
-
-> En el supuesto de trabajadores incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios que no hubiesen optado por proteger la totalidad de las contingencias profesionales, la cotización obligatoria respecto a las de incapacidad permanente y muerte y supervivencia se efectuará aplicando a la base elegida el tipo de cotización fijado, para cada ejercicio económico, en la Ley de Presupuestos Generales del Estado.
-
-> 6\. En el supuesto de que los trabajadores autónomos, que estuviesen obligados o acogidos voluntariamente a la protección por incapacidad temporal y frente a las contingencias profesionales, queden exentos de cotizar por tener cumplidos 65 o más años de edad y reunir los períodos de cotización previstos en el artículo 311 del texto refundido de la Ley General de la Seguridad Social, la obligación de cotizar por incapacidad temporal y por las contingencias profesionales se mantendrá, según los casos, hasta la fecha de efectos de la renuncia a dicha cobertura o de la baja en este régimen especial.
-
-> 7\. En lo no previsto en los apartados precedentes, el contenido de la obligación de cotizar a este régimen especial, así como su objeto, el período de liquidación y la forma, lugar y plazo de la liquidación de cuotas se regirán por lo dispuesto en los artículos 12 y siguientes de este reglamento.
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1181,64 +1051,6 @@ A efectos de lo establecido en los párrafos anteriores, el promedio de los rend
 
 En el caso de que en un mismo año solo una parte de los períodos de alta se corresponda con la actividad de venta ambulante y el promedio de los rendimientos netos mensuales efectivamente obtenidos en la totalidad del año fuese inferior al establecido para el tramo 1 de la tabla reducida, al período de alta por la actividad de venta ambulante le resultará de aplicación lo establecido en el párrafo primero y al resto de períodos les resultará de aplicación lo establecido en el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social, siendo su base de cotización definitiva la mínima del tramo 1 de la tabla reducida que corresponda. Si, en el mismo supuesto anterior, el promedio de los rendimientos netos mensuales efectivamente obtenidos en la totalidad del año fuese igual o superior al importe de los rendimientos netos establecido para el tramo 1 de la tabla reducida, a todos los períodos de alta les resultará de aplicación lo establecido en el citado artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social.
 
-> Téngase en cuenta que esta última modificación establecida por el art. único.2 del Real Decreto 665/2024, de 9 de julio. [Ref. BOE-A-2024-14086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14086), entra en vigor el 1 de agosto de 2024, según determina la disposición final 2 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "Artículo 46. Regularización anual de la cotización.
-
-> 1\. La cotización a este régimen especial correspondiente a cada ejercicio anual será objeto de regularización en el año siguiente, en los términos indicados en el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social y en este artículo, en función de los rendimientos netos anuales comunicados por las correspondientes Administraciones tributarias respecto a cada trabajador autónomo.
-
-> Los rendimientos netos anuales estarán integrados por los importes de los conceptos establecidos en la regla 1.ª del citado artículo 308.1.c), a los que resultará de aplicación la deducción por gastos genéricos prevista en la regla 2.ª del mismo artículo.
-
-> En ningún caso será objeto de regularización la cotización efectuada a la que se refieren las letras a), c), d) y e) del artículo 44.3, así como la cotización efectuada en el período al que se refiere el apartado 1 del artículo 38 ter de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo y, en su caso, aquella efectuada en el período al que se refiere el apartado 2 del citado artículo, salvo que los rendimientos percibidos en el ejercicio a que corresponde este periodo superen el importe del salario mínimo interprofesional.
-
-> Asimismo, no serán objeto de la regularización anual las bases de cotización mensuales de los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos que hayan sido tenidas en cuenta para el cálculo de la base reguladora de cualquier prestación económica del sistema de la Seguridad Social reconocida con anterioridad a la fecha en que se haya llevado a cabo dicha regularización, así como las bases de cotización aplicables hasta el inicio de la percepción de la prestación.
-
-> Tampoco serán objeto de regularización anual las bases de cotización mensuales de los períodos en los que se haya percibido cualesquiera de las prestaciones indicadas en el párrafo anterior.
-
-> En consecuencia, las referidas bases de cotización adquirirán carácter definitivo respecto de esos meses, sin que proceda la revisión del importe de las prestaciones causadas.
-
-> 2\. Para determinar si procede o no la regularización y, en su caso, el importe de la misma se seguirán las siguientes reglas:
-
-> 1.ª Cálculo de días objeto de regularización: Se determinarán el número de días de alta, en el año de que se trate, descontándose de éstos el número de días de los períodos a los que se refieren las letras c), d) y e) del artículo 44.3, los días en los que se haya cotizado conforme a lo establecido en el artículo 38 ter de la Ley 20/2007, de 11 de julio, y los días a los que se refieren los párrafos cuarto y quinto del apartado 1.
-
-> 2.ª Cálculo del promedio mensual de los rendimientos netos obtenidos: El importe de los rendimientos netos anuales comunicados por la correspondiente Administración tributaria, respecto de la anualidad de que se trate, una vez descontados los porcentajes a los que se refiere el artículo 308 del texto refundido de la Ley General de la Seguridad Social, se dividirá entre el número de días en situación de alta calculados conforme a la regla 1.ª y se multiplicará por 30.
-
-> 3.ª Cálculo del promedio mensual de las bases de cotización provisionales:
-
-> a) Se procederá a sumar el importe de las bases de cotización provisionales de la totalidad de los meses de la anualidad de que se trate.
-
-> b) De dicha suma se descontarán proporcionalmente los importes de las bases de cotización mensuales correspondientes a los días a los que se refiere la regla 1.ª
-
-> c) El resultado obtenido se dividirá entre el número de días a los que se refiere la regla 1.ª y el resultado se multiplicará por 30.
-
-> 4.ª Comprobación del tramo aplicable de rendimientos netos de la tabla general o reducida: Se determinará el tramo de rendimientos netos mensuales de la tabla general o reducida, a las que se refiere el artículo 308 del texto refundido de la Ley General de la Seguridad Social, en el que se encuentra comprendido el importe obtenido tras la aplicación de la regla 2.ª
-
-> En el caso de las personas trabajadoras por cuenta propia o autónomas a las que se refiere la letra b) del artículo 44.3, si el tramo de rendimientos netos mensuales determinado conforme a esta regla está incluido en la tabla reducida de bases de cotización, resultará de aplicación en cualquier caso la base mínima del tramo 1 de la tabla general de bases de cotización.
-
-> 5.ª Contraste entre el tramo obtenido en la regla anterior y la base de cotización promedio mensual de la regla 3.ª: Se verificará si la base de cotización promedio mensual es inferior a la base mínima del tramo que corresponda por aplicación de la regla 4.ª; está comprendida entre la base mínima y máxima de dicho tramo; o es superior a la base máxima de este tramo.
-
-> a) Si la base de cotización promedio mensual está comprendida entre la base mínima y máxima mensual del tramo que corresponda por aplicación de la regla 4.ª, no procederá la regularización de las bases de cotización y cuotas provisionales, pasando a tener estas la condición de definitivas.
-
-> b) Si la base de cotización promedio mensual es inferior a la base mínima del tramo que corresponda por aplicación de la regla 4.ª, la base de cotización definitiva será la base mínima de dicho tramo, y se procederá a reclamar en un solo acto, a través de este procedimiento de regularización, las cuotas correspondientes al total de las diferencias, positivas o negativas, entre las bases de cotización provisionales de cada mes y la base de cotización mínima correspondiente al tramo.
-
-> En este sentido, las personas trabajadoras por cuenta propia o autónomas deberán ingresar el importe de la diferencia hasta el último día del mes siguiente a aquel en que se les haya notificado el resultado de la regularización, sin aplicación de interés de demora o recargo alguno de abonarse en ese plazo.
-
-> Cuando no se proceda al ingreso de las cuotas en el plazo indicado, procederá la reclamación administrativa de dichas cuotas conforme al procedimiento general establecido para la gestión recaudatoria del sistema de la Seguridad Social.
-
-> c) Si la base de cotización promedio mensual es superior a la base máxima del tramo que corresponda por aplicación de la regla 4.ª, la base de cotización definitiva será la base máxima de dicho tramo, y se procederá a devolver de oficio en un solo acto, a través de este procedimiento de regularización, las cuotas correspondientes al total de las diferencias, positivas o negativas, entre la base de cotización máxima correspondiente al tramo y las bases de cotización provisionales de cada mes.
-
-> En este sentido, la Tesorería General de la Seguridad Social devolverá el importe que proceda sin aplicación de interés de demora alguno, antes del 30 de abril del ejercicio siguiente a aquel en que la correspondiente Administración tributaria haya comunicado los rendimientos computables.
-
-> d) A efecto de lo establecido en las letras b) y c), en el caso de que en un mes no figure la persona trabajadora por cuenta propia o autónoma en situación de alta durante todos los días del mismo, una vez considerados los periodos y situaciones a los que se refiere la regla 1.ª, las bases de cotización, mínimas y máximas del tramo aplicable de rendimientos netos serán las proporcionales al número de días de alta en dicho mes, calculados conforme a la citada regla.
-
-> 6.ª Con independencia de lo indicado en las reglas anteriores, en el caso de los trabajadores a los que se refiere la disposición transitoria sexta del Real Decreto-ley 13/2022, de 26 de julio, a los que resultase de aplicación lo dispuesto en la regla 5.ª.c) podrán, no obstante, renunciar a la devolución de cuotas, adquiriendo en este caso las bases de cotización provisionales la condición de definitivas sin que las mismas puedan superar, en ningún caso, el importe de la base de cotización correspondiente a 31 de diciembre de 2022. La renuncia a la devolución de cuotas se deberá solicitar hasta el último día del mes natural inmediatamente posterior a aquel en que se comunique el resultado de la regularización.
-
-> En cualquier caso, dicha devolución de cuotas se efectuará de oficio, por el importe correspondiente a la diferencia entre la base de cotización provisional y la base de cotización correspondiente al 31 de diciembre de 2022, cuando aquella sea superior a esta.
-
-> 7.ª Determinado el importe de las diferencias entre las bases de cotización provisionales y las bases de cotización definitivas, conforme a lo establecido en las reglas anteriores, se aplicarán a dichas diferencias los tipos y demás de condiciones de cotización correspondientes a los períodos de liquidación objeto de regularización."
-
 > Se modifica por el art. único.2 del Real Decreto 665/2024, de 9 de julio. [Ref. BOE-A-2024-14086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14086)
 
 > Se modifica, con efectos de 1 de enero de 2023, el apartado 2, regla 5ª.c) por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.9.b) del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
@@ -1252,8 +1064,6 @@ En el caso de que en un mismo año solo una parte de los períodos de alta se co
 > Se modifica el apartado 3 por la disposición final 2.2 del Real decreto 295/2009, de 6 de marzo. [Ref. BOE-A-2009-4724](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4724)
 
 #### Subsección 2.ª Dinámica de la obligación de cotizar
-
-> Téngase en cuenta que esta última actualización, por la que se añade la subsección 2ª, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
 
 > Se añade, con efectos de 1 de enero de 2023, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1307,8 +1117,6 @@ En el Sistema Especial para Trabajadores por Cuenta Propia Agrarios establecido 
 
 6\. En lo no previsto en los apartados precedentes, el contenido de la obligación de cotizar a este régimen especial, así como su objeto y la forma y plazo de la liquidación de cuotas se regirán por lo dispuesto en los artículos 12 y siguientes de este reglamento.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5. Este art. en su redacción anterior se encuentra suprimido.
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se suprime por el art. 3.3 del Real Decreto-Ley 29/2012, de 28 de diciembre. [Ref. BOE-A-2012-15764](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15764).
@@ -1316,8 +1124,6 @@ En el Sistema Especial para Trabajadores por Cuenta Propia Agrarios establecido 
 > Se modifica por el art. 2.5 del Real Decreto 1426/1997, de 15 de septiembre. [Ref. BOE-A-1997-20730](https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20730)
 
 #### Subsección 3.ª Supuestos especiales de cotización
-
-> Téngase en cuenta que esta última actualización, por la que se añade la subsección 3ª, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
 
 > Se añade, con efectos de 1 de enero de 2023, por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1342,8 +1148,6 @@ Conforme a lo indicado en el apartado 1 de este artículo, la base de cotizació
 5\. En el supuesto de trabajadoras autónomas víctimas de violencia de género que cesen en su actividad para hacer efectiva su protección o su derecho a la asistencia social integral, la obligación de cotizar a este régimen especial se suspenderá durante un período de seis meses, que serán considerados como de cotización efectiva a efectos de las prestaciones de la Seguridad Social.
 
 A los efectos indicados, la base de cotización durante dicho período será equivalente al promedio de las bases cotizadas durante los seis meses previos a la suspensión de la obligación de cotizar.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5. Este art. en su redacción anterior se encuentra suprimido.
 
 > Se modifica por el art. 5.1 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1389,14 +1193,6 @@ Los trabajadores por cuenta propia también son responsables subsidiarios del cu
 
 Las cooperativas de trabajo asociado que hayan optado por la incorporación de sus socios trabajadores en este régimen especial, como trabajadores por cuenta propia, responderán solidariamente del cumplimiento de la obligación de cotizar de aquellos.
 
-> Téngase en cuenta que esta última actualización por la que se modifica el apartado 3 y se suprime el 4, establecida por el art. 5.2 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "3. Por lo que se refiere a los trabajadores por cuenta propia o autónomos, las dos aportaciones que integran la cuota serán a su exclusivo cargo.
-
-> 4\. En cuanto a la responsabilidad del pago o cumplimiento de la obligación de cotizar respecto de los trabajadores por cuenta propia o autónomos, son éstos los responsables del cumplimiento de la obligación de cotizar por ellos mismos."
-
 > Se modifica el apartado 3 y se suprime el 4, con efectos de 1 de enero de 2023, por el art. 5.2 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ##### Artículo 52. Bases y tipos de cotización respecto a los trabajadores por cuenta ajena.
@@ -1404,26 +1200,6 @@ Las cooperativas de trabajo asociado que hayan optado por la incorporación de s
 1\. La cotización para todas las contingencias y situaciones protegidas en el Régimen Especial de los Trabajadores del Mar respecto a los trabajadores por cuenta ajena en él incluidos se efectuará en función de las remuneraciones efectivamente percibidas, computadas según las reglas establecidas para la cotización al Régimen General de la Seguridad Social y con sujeción a los límites absolutos de los topes mínimo y máximo, y a los relativos de las bases mínimas y máximas aplicables a cada grupo de categorías profesionales, en los términos establecidos en los artículos 23 a 26 de este reglamento, sin más particularidades que las aplicables a los trabajadores por cuenta ajena incluidos en los grupos segundo y tercero de cotización de este régimen especial, a que se refiere el artículo 10 de la Ley 47/2015, de 21 de octubre, cuyas bases de cotización se determinarán anualmente por el Ministerio de Inclusión, Seguridad Social y Migraciones, con el alcance y en los términos previstos en el artículo 9.1 de dicha ley.
 
 2\. La fijación de los tipos de cotización respecto a los trabajadores por cuenta ajena incluidos en este régimen especial, así como su distribución para determinar las aportaciones de empresarios y trabajadores, se regirá por lo dispuesto en los artículos 10 y 11 de este reglamento.
-
-> Téngase en cuenta que esta última actualización , establecida por el art. 5.3 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 52. Bases de cotización.
-
-> La cotización para todas las contingencias y situaciones protegidas en este Régimen Especial del Mar se efectuará teniendo como base las remuneraciones efectivamente percibidas, computadas según las reglas establecidas para la cotización al Régimen General de la Seguridad Social y con sujeción a los límites absolutos, mínimo y máximo, y a los relativos de las bases mínimas y máximas aplicables a cada grupo de categorías profesionales, en los términos establecidos en los artículos 23, 24, 25 y 26, sin otras particularidades que las siguientes:
-
-> 1\. Para la determinación de las bases de cotización para todas las contingencias y situaciones protegidas por este Régimen especial, respecto de los trabajadores incluidos en los grupos segundo y tercero de los grupos de cotización a que se refieren los apartados 2 y 3 del artículo 54, se considerarán retribuciones efectivamente percibidas las determinadas anualmente por Orden del Ministerio de Trabajo y Asuntos Sociales, a propuesta del Instituto Social de la Marina, oídas las organizaciones sindicales y empresariales representativas, las cofradías de pescadores y las organizaciones de productores pesqueros.
-
-> Esta determinación se efectuará por provincias, modalidades de pesca y categorías profesionales sobre la base de valores medios de las remuneraciones percibidas en el año precedente y por el procedimiento que establezca el Ministerio de Trabajo y Asuntos Sociales.
-
-> 2\. Las bases de cotización determinadas conforme a lo dispuesto en el apartado anterior respecto de los trabajadores incluidos en los grupos segundo y tercero de los apartados 2 y 3 del artículo 54, serán únicas, sin que se tomen en consideración las mínimas y máximas previstas para las restantes actividades. No obstante, dichas bases no podrán ser inferiores a las bases mínimas establecidas en cada ejercicio para las distintas categorías profesionales en el Régimen General de la Seguridad Social.
-
-> 3\. En todo caso, para la determinación de las bases de cotización por contingencias comunes, desempleo y cese de actividad respecto de los trabajadores incluidos en los grupos segundo y tercero de este régimen especial, a que se refieren los apartados 2 y 3 del artículo 54, a las cantidades resultantes conforme a las normas establecidas en los apartados precedentes de este artículo se aplicarán los coeficientes correctores establecidos o que establezca el Ministerio de Empleo y Seguridad Social, a propuesta del Instituto Social de la Marina, oídas las organizaciones sindicales y empresariales representativas, las cofradías de pescadores y las organizaciones de productores pesqueros.
-
-> Dichos coeficientes correctores se fijarán teniendo en cuenta las características que concurran en las actividades comprendidas en dichos grupos y la capacidad económica de empresas y trabajadores.
-
-> 4\. Lo establecido en el artículo 43.2 en materia de bases de cotización y la posibilidad de efectuar los cambios posteriores de base de cotización a que se refiere el artículo 43 bis resultarán de aplicación a los trabajadores por cuenta propia incluidos en el grupo primero de cotización de este régimen especial."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.3 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1441,14 +1217,6 @@ Respecto a los trabajadores por cuenta propia incluidos en los grupos segundo y 
 
 2\. La fijación de los tipos de cotización respecto a los trabajadores por cuenta propia se regirá por lo dispuesto en los artículos 10 y 11 de este reglamento.»
 
-> Téngase en cuenta que esta última actualización , establecida por el art. 5.4 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 53. Tipos de cotización.
-
-> La fijación de los tipos de cotización a este Régimen Especial así como su distribución, en su caso, para determinar las aportaciones de empresarios y trabajadores, se regirá por lo dispuesto en los artículos 10 y 11 de este Reglamento."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.4 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ##### Artículo 54. Período de liquidación y contenido de la obligación de cotizar.
@@ -1457,40 +1225,6 @@ Respecto a los trabajadores por cuenta propia incluidos en los grupos segundo y 
 
 2\. Respecto de los trabajadores por cuenta propia incluidos en este régimen especial, el período, forma y plazo de la liquidación de las cuotas y el nacimiento, duración y extinción de la obligación de cotizar se regirán por lo dispuesto en el artículo 47 de este reglamento para el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
 
-> Téngase en cuenta que esta última actualización , establecida por el art. 5.5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 54. Clasificación de los trabajadores.
-
-> A efectos de cotización y su consiguiente repercusión en la acción protectora, los trabajadores comprendidos en este Régimen Especial se clasificarán en tres grupos:
-
-> 1\. En el primer grupo se incluirán:
-
-> 1.º Los trabajadores por cuenta ajena retribuidos a salario, cualquiera que sea la actividad que realicen.
-
-> 2.º Los trabajadores por cuenta ajena retribuidos «a la parte» que coticen en iguales períodos y cuantías que los del apartado anterior y que son:
-
-> a) Los que presten servicio en embarcaciones dedicadas al transporte marítimo.
-
-> b) Los que trabajen en embarcaciones pesqueras de más de 150 toneladas de registro bruto.
-
-> c) Los no incluidos en los párrafos a) y b) anteriores que opten, de acuerdo con sus empresarios, por cotizar en la misma cuantía y forma que para los retribuidos a salario.
-
-> 2\. En el segundo grupo se incluirán los trabajadores retribuidos «a la parte» que presten servicios en embarcaciones pesqueras de más de 10 toneladas de registro bruto hasta 150 toneladas inclusive.
-
-> 1.º El grupo segundo A) comprende a aquellos trabajadores que presten servicios en embarcaciones pesqueras comprendidas entre 50,01 y 150 toneladas de registro bruto.
-
-> 2.º El grupo segundo B) comprende los trabajadores que presten servicios en embarcaciones pesqueras comprendidas entre 10,01 y 50 toneladas de registro bruto.
-
-> 3\. En el tercer grupo quedarán incluidos:
-
-> 1.º Los trabajadores por cuenta propia o autónomos incluidos en este Régimen Especial.
-
-> 2.º En todo caso, los trabajadores retribuidos «a la parte» que presten servicios en embarcaciones pesqueras de hasta 10 toneladas de registro bruto.
-
-> 4\. El Ministerio de Trabajo y Seguridad Social, a propuesta de la entidad gestora de este Régimen Especial y previo informe de las organizaciones sindicales y empresariales representativas, las cofradías de pescadores y las organizaciones de productores pesqueros, podrá variar los límites de tonelaje antes reseñados cuando las características de la explotación pesquera, las modalidades de pesca o la coyuntura económica de estas empresas así lo aconsejen."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ##### Artículo 55. Supuestos especiales de cotización.
@@ -1498,20 +1232,6 @@ Respecto a los trabajadores por cuenta propia incluidos en los grupos segundo y 
 1\. Los consejeros y administradores de sociedades de capital y los prácticos de puerto incluidos como asimilados a trabajadores por cuenta ajena en este régimen especial, en los términos del artículo 5 de la Ley 47/2015, de 21 de octubre, no estarán obligados a cotizar por la contingencia de desempleo ni al Fondo de Garantía Salarial.
 
 2\. Lo previsto en el artículo 48 respecto a los supuestos especiales de cotización al Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, resultará de aplicación a los trabajadores por cuenta propia incluidos en este régimen especial.
-
-> Téngase en cuenta que esta última actualización , establecida por el art. 5.6 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 55. Contenido y circunstancias de la obligación de cotizar.
-
-> 1\. Respecto de los trabajadores por cuenta ajena incluidos en el Régimen Especial de los Trabajadores del Mar, el nacimiento, duración y extinción de la obligación de cotizar y el período, forma y plazo de la liquidación de las cuotas, así como su comprobación y control, se regirán por lo dispuesto en el artículo 28.
-
-> 2\. Respecto de los trabajadores por cuenta propia incluidos en este régimen especial, el periodo, forma y plazo de la liquidación de las cuotas y el nacimiento, duración y extinción de la obligación de cotizar se regirán por lo dispuesto en los apartados 1 a 3 del artículo 45.
-
-> 3\. El Instituto Social de la Marina, en el marco de su colaboración con la Tesorería General de la Seguridad Social para la gestión recaudatoria en el ámbito del Régimen Especial de los Trabajadores del Mar, podrá efectuar la comprobación de las liquidaciones de cuotas y de otros derechos de la Seguridad Social en los términos que establezca el Ministerio de Empleo y Seguridad Social.
-
-> 4\. En todo caso, las modalidades de los sistemas recaudatorios establecidos en este régimen especial por el Ministerio de Empleo y Seguridad Social no tendrán otro alcance que el de facilitar el cumplimiento de la obligación de cotizar, sin que puedan afectar a los sujetos, contenidos, cuantía y demás elementos esenciales de la misma."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 5.6 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -1777,8 +1497,6 @@ En los supuestos de convenio especial y demás situaciones asimiladas a la de al
 
 #### Subsección 6.ª Cotización adicional de solidaridad
 
-> Téngase en cuenta que esta subsección, añadida por el art. 2 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086), entra en vigor el 1 de enero de 2025, según establece su disposición final 2.
-
 > Se añade, con efectos de 1 de enero de 2025, por el art. 2 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086)
 
 ##### Artículo 72 bis. Normas para la aplicación de la cotización adicional de solidaridad.
@@ -1796,8 +1514,6 @@ El plazo reglamentario de ingreso de la cotización adicional de solidaridad fin
 3\. Corresponde a la Inspección de Trabajo y Seguridad Social, en el ejercicio de sus competencias, la vigilancia del cumplimiento de las obligaciones establecidas en este artículo.
 
 Sin perjuicio de las competencias que tiene atribuidas la Inspección de Trabajo y Seguridad Social, la Tesorería General de la Seguridad Social ejercerá sobre esta cotización adicional de solidaridad las facultades de comprobación a las que se refiere el artículo 36.1 del texto refundido de la Ley General de la Seguridad Social, con base en los datos disponibles en cada momento y que permitan recalcular las correspondientes liquidaciones de cuotas.
-
-> Téngase en cuenta que este artículo, añadido por el art. 2 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086), entra en vigor el 1 de enero de 2025, según establece su disposición final 2.
 
 > Se añade, con efectos de 1 de enero de 2025, por el art. 2 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086)
 

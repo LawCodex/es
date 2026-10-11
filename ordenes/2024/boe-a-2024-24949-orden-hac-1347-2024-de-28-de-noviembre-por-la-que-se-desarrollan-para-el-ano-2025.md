@@ -759,59 +759,53 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 3 | Superficie del local. | Metro cuadrado. | 49,13 |
 | 4 | Superficie del horno. | 100 Decímetros cuadrados. | 629,86 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Industrias de la bollería, pastelería y galletas</p>
-<p class="centro_redonda">Epígrafe I.A.E. 419.2</p>
+<p>Actividad: Industrias de la bollería, pastelería y galletas</p>
+<p>Epígrafe I.A.E. 419.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">6.657,63</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>6.657,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">13.485,32</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>13.485,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">45,35</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>45,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">541,68</td>
+<td>4</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>541,68</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la fabricación y comercio al por menor de productos de pastelería salada y platos precocinados, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la fabricación y comercio al por menor de productos de pastelería salada y platos precocinados, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -837,129 +831,117 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 4 | Superficie local no independiente. | Metro cuadrado. | 88,18 |
 | 5 | Carga elementos de transporte. | Kilogramo. | 1,01 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de carne y despojos; de productos y derivados cárnicos elaborados</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 642.1, 2, 3 y 4</p>
+<p>Actividad: Comercio al por menor de carne y despojos; de productos y derivados cárnicos elaborados</p>
+<p>Epígrafe I.A.E.: 642.1, 2, 3 y 4</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.355,68</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>2.355,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">10.991,07</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>10.991,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">35,90</td>
+<td>3</td>
+<td>Superficie del local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>35,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">81,88</td>
+<td>4</td>
+<td>Superficie del local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>81,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">39,05</td>
+<td>5</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>39,05</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores, incluye, en su caso, el derivado de la elaboración de platos precocinados, siempre que se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores, incluye, en su caso, el derivado de la elaboración de platos precocinados, siempre que se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de huevos, aves, conejos de granja, caza; y de productos derivados de los mismos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 642.5</p>
+<p>Actividad: Comercio al por menor de huevos, aves, conejos de granja, caza; y de productos derivados de los mismos</p>
+<p>Epígrafe I.A.E.: 642.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.382,36</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>3.382,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">11.337,49</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>11.337,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">25,19</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>25,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">27,08</td>
+<td>4</td>
+<td>Superficie del local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>27,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Superficie del local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">58,57</td>
+<td>5</td>
+<td>Superficie del local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>58,57</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del asado de pollos, siempre que se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del asado de pollos, siempre que se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -981,422 +963,386 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 4 | Superficie del local no independiente. | Metro cuadrado. | 113,37 |
 | 5 | Consumo de energía eléctrica. | 100 Kwh. | 28,98 |
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de pan, pastelería, confitería y similares y de leche y productos lácteos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 644.1</p>
+<p>Actividad: Comercio al por menor de pan, pastelería, confitería y similares y de leche y productos lácteos</p>
+<p>Epígrafe I.A.E.: 644.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado de fabricación.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">6.248,22</td>
+<td>1</td>
+<td>Personal asalariado de fabricación.</td>
+<td>Persona.</td>
+<td>6.248,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Resto personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.058,17</td>
+<td>2</td>
+<td>Resto personal asalariado.</td>
+<td>Persona.</td>
+<td>1.058,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">14.530,89</td>
+<td>3</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>14.530,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local de fabricación.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">49,13</td>
+<td>4</td>
+<td>Superficie del local de fabricación.</td>
+<td>Metro cuadrado.</td>
+<td>49,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Resto superficie local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">34,01</td>
+<td>5</td>
+<td>Resto superficie local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>34,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Resto superficie local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">125,97</td>
+<td>6</td>
+<td>Resto superficie local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>125,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">629,86</td>
+<td>7</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>629,86</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la fabricación y comercio al por menor de productos de pastelería salada y platos precocinados, de la degustación de los productos objeto de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles, las actividades de «catering» y del comercio al por menor de quesos, embutidos y emparedados, así como de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la fabricación y comercio al por menor de productos de pastelería salada y platos precocinados, de la degustación de los productos objeto de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles, las actividades de «catering» y del comercio al por menor de quesos, embutidos y emparedados, así como de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Despachos de pan, panes especiales y bollería</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 644.2</p>
+<p>Actividad: Despachos de pan, panes especiales y bollería</p>
+<p>Epígrafe I.A.E.: 644.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado de fabricación.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">6.134,85</td>
+<td>1</td>
+<td>Personal asalariado de fabricación.</td>
+<td>Persona.</td>
+<td>6.134,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Resto personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.039,27</td>
+<td>2</td>
+<td>Resto personal asalariado.</td>
+<td>Persona.</td>
+<td>1.039,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">14.266,34</td>
+<td>3</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>14.266,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local de fabricación.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">48,50</td>
+<td>4</td>
+<td>Superficie del local de fabricación.</td>
+<td>Metro cuadrado.</td>
+<td>48,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Resto superficie local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">33,38</td>
+<td>5</td>
+<td>Resto superficie local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>33,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Resto superficie local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">125,97</td>
+<td>6</td>
+<td>Resto superficie local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>125,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">629,86</td>
+<td>7</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>629,86</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de productos de pastelería, bollería y confitería</p>
-<p class="centro_redonda">Epígrafe I.A.E. 644.3</p>
+<p>Actividad: Comercio al por menor de productos de pastelería, bollería y confitería</p>
+<p>Epígrafe I.A.E. 644.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado de fabricación.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">6.367,89</td>
+<td>1</td>
+<td>Personal asalariado de fabricación.</td>
+<td>Persona.</td>
+<td>6.367,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Resto personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.014,08</td>
+<td>2</td>
+<td>Resto personal asalariado.</td>
+<td>Persona.</td>
+<td>1.014,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">12.912,15</td>
+<td>3</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>12.912,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local de fabricación.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">43,46</td>
+<td>4</td>
+<td>Superficie del local de fabricación.</td>
+<td>Metro cuadrado.</td>
+<td>43,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Resto superficie local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">34,01</td>
+<td>5</td>
+<td>Resto superficie local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>34,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Resto superficie local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">113,37</td>
+<td>6</td>
+<td>Resto superficie local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>113,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">522,78</td>
+<td>7</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>522,78</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la fabricación y comercio al por menor de productos de pastelería salada y platos precocinados, de la degustación de los productos objeto de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles, de las actividades de «catering» y del comercio al por menor de quesos, embutidos y emparedados, así como de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la fabricación y comercio al por menor de productos de pastelería salada y platos precocinados, de la degustación de los productos objeto de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles, de las actividades de «catering» y del comercio al por menor de quesos, embutidos y emparedados, así como de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivos, frutos secos, golosinas, preparados de chocolate y bebidas refrescantes</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 644.6</p>
+<p>Actividad: Comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivos, frutos secos, golosinas, preparados de chocolate y bebidas refrescantes</p>
+<p>Epígrafe I.A.E.: 644.6</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado de fabricación.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">6.852,88</td>
+<td>1</td>
+<td>Personal asalariado de fabricación.</td>
+<td>Persona.</td>
+<td>6.852,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Resto personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.254,90</td>
+<td>2</td>
+<td>Resto personal asalariado.</td>
+<td>Persona.</td>
+<td>2.254,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">13.214,47</td>
+<td>3</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>13.214,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local de fabricación.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">27,71</td>
+<td>4</td>
+<td>Superficie del local de fabricación.</td>
+<td>Metro cuadrado.</td>
+<td>27,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Resto superficie local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">21,41</td>
+<td>5</td>
+<td>Resto superficie local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>21,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Resto superficie local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">36,53</td>
+<td>6</td>
+<td>Resto superficie local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>36,53</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de cualquier clase de productos alimenticios y de bebidas en establecimientos con vendedor</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 647.1</p>
+<p>Actividad: Comercio al por menor de cualquier clase de productos alimenticios y de bebidas en establecimientos con vendedor</p>
+<p>Epígrafe I.A.E.: 647.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.026,67</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>1.026,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">10.839,90</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>10.839,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">20,15</td>
+<td>3</td>
+<td>Superficie del local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>20,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">68,65</td>
+<td>4</td>
+<td>Superficie del local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>68,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">8,81</td>
+<td>5</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>8,81</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de cualquier clase de productos alimenticios y de bebidas en régimen de autoservicio o mixto en establecimientos cuya sala de ventas tenga una superficie inferior a 400 metros cuadrados</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 647.2 y 3</p>
+<p>Actividad: Comercio al por menor de cualquier clase de productos alimenticios y de bebidas en régimen de autoservicio o mixto en establecimientos cuya sala de ventas tenga una superficie inferior a 400 metros cuadrados</p>
+<p>Epígrafe I.A.E.: 647.2 y 3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual</p>
-<p class="cabeza_tabla">por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual</p>
+<p>por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.788,80</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>1.788,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">10.827,31</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>10.827,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">23,31</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>23,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">32,75</td>
+<td>4</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>32,75</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -1438,65 +1384,59 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 3 | Superficie del local. | Metro cuadrado. | 27,71 |
 | 4 | Consumo de energía eléctrica. | 100 kWh. | 52,27 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de productos de droguería, perfumería y cosmética, limpieza, pinturas, barnices, disolventes, papeles y otros productos para la decoración y de productos químicos, y de artículos para la higiene y el aseo personal</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 652.2 y 3</p>
+<p>Actividad: Comercio al por menor de productos de droguería, perfumería y cosmética, limpieza, pinturas, barnices, disolventes, papeles y otros productos para la decoración y de productos químicos, y de artículos para la higiene y el aseo personal</p>
+<p>Epígrafe I.A.E.: 652.2 y 3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.722,48</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>3.722,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">12.786,18</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>12.786,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">31,49</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>31,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">18,27</td>
+<td>4</td>
+<td>Superficie del local independiente.</td>
+<td>Metro cuadrado.</td>
+<td>18,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Superficie del local no independiente.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">55,43</td>
+<td>5</td>
+<td>Superficie del local no independiente.</td>
+<td>Metro cuadrado.</td>
+<td>55,43</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -1566,181 +1506,163 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 3 | Consumo de energía eléctrica. | 100 kWh. | 56,69 |
 | 4 | Superficie del local. | Metro cuadrado. | 17,01 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de aparatos e instrumentos médicos, ortopédicos, ópticos y fotográficos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 659.3</p>
+<p>Actividad: Comercio al por menor de aparatos e instrumentos médicos, ortopédicos, ópticos y fotográficos</p>
+<p>Epígrafe I.A.E.: 659.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">7.174,12</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>7.174,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">19.273,74</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>19.273,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">119,67</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>119,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">1.070,76</td>
+<td>4</td>
+<td>Potencia fiscal vehículo.</td>
+<td>CVF.</td>
+<td>1.070,76</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del servicio de recogida de negativos y otro material fotográfico impresionado para su procesado en laboratorio de terceros y la entrega de las correspondientes copias y ampliaciones, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal de comercio al por menor de aparatos e instrumentos fotográficos.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del servicio de recogida de negativos y otro material fotográfico impresionado para su procesado en laboratorio de terceros y la entrega de las correspondientes copias y ampliaciones, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal de comercio al por menor de aparatos e instrumentos fotográficos.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de libros, periódicos, artículos de papelería y escritorio y artículos de dibujo y bellas artes, excepto en quioscos situados en la vía pública</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 659.4</p>
+<p>Actividad: Comercio al por menor de libros, periódicos, artículos de papelería y escritorio y artículos de dibujo y bellas artes, excepto en quioscos situados en la vía pública</p>
+<p>Epígrafe I.A.E.: 659.4</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.648,37</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>4.648,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">17.176,30</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>17.176,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">57,94</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>57,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">30,86</td>
+<td>4</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>30,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">535,38</td>
+<td>5</td>
+<td>Potencia fiscal vehículo.</td>
+<td>CVF.</td>
+<td>535,38</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la venta de artículos de escaso valor tales como dulces, artículos de fumador, etc., los servicios de comercialización de tarjetas de transporte público, tarjetas para uso telefónico y otras similares, así como loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la venta de artículos de escaso valor tales como dulces, artículos de fumador, etc., los servicios de comercialización de tarjetas de transporte público, tarjetas para uso telefónico y otras similares, así como loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de prensa, revistas y libros en quioscos situados en la vía pública</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 659.4</p>
+<p>Actividad: Comercio al por menor de prensa, revistas y libros en quioscos situados en la vía pública</p>
+<p>Epígrafe I.A.E.: 659.4</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.476,83</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>3.476,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">17.220,39</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>17.220,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">403,11</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>403,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">844,02</td>
+<td>4</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>844,02</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la venta de artículos de escaso valor tales como dulces, artículos de fumador, etc., los servicios de publicidad exterior y comercialización de tarjetas de transporte público, tarjetas para uso telefónico y otras similares, así como loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la venta de artículos de escaso valor tales como dulces, artículos de fumador, etc., los servicios de publicidad exterior y comercialización de tarjetas de transporte público, tarjetas para uso telefónico y otras similares, así como loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -1759,59 +1681,53 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 2 | Personal no asalariado. | Persona. | 16.124,43 |
 | 3 | Potencia fiscal vehículo. | CVF. | 258,24 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de toda clase de artículos, incluyendo alimentación y bebidas, en establecimientos distintos de los especificados en el Grupo 661 y en el epígrafe 662.1</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 662.2</p>
+<p>Actividad: Comercio al por menor de toda clase de artículos, incluyendo alimentación y bebidas, en establecimientos distintos de los especificados en el Grupo 661 y en el epígrafe 662.1</p>
+<p>Epígrafe I.A.E.: 662.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.868,82</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>4.868,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">9.429,01</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>9.429,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">28,98</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>28,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">37,79</td>
+<td>4</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>37,79</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -1847,537 +1763,489 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 2 | Personal no asalariado. | Persona. | 10.537,57 |
 | 3 | Potencia fiscal vehículo. | CVF. | 283,44 |
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Restaurantes de dos tenedores</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 671.4</p>
+<p>Actividad: Restaurantes de dos tenedores</p>
+<p>Epígrafe I.A.E.: 671.4</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.709,88</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>3.709,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">17.434,55</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>17.434,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">201,55</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>201,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">585,77</td>
+<td>4</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>585,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">1.077,06</td>
+<td>5</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>1.077,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">3.810,65</td>
+<td>6</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>3.810,65</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Restaurantes de un tenedor</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 671.5</p>
+<p>Actividad: Restaurantes de un tenedor</p>
+<p>Epígrafe I.A.E.: 671.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.602,80</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>3.602,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">16.174,82</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>16.174,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">125,97</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>125,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">220,45</td>
+<td>4</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>220,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">1.077,06</td>
+<td>5</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>1.077,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">3.810,65</td>
+<td>6</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>3.810,65</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Cafeterías</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 672.1, 2 y 3</p>
+<p>Actividad: Cafeterías</p>
+<p>Epígrafe I.A.E.: 672.1, 2 y 3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.448,68</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>1.448,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">13.743,56</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>13.743,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">478,69</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>478,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">377,92</td>
+<td>4</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>377,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">957,39</td>
+<td>5</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>957,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">3.747,67</td>
+<td>6</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>3.747,67</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Cafés y bares de categoría especial</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 673.1</p>
+<p>Actividad: Cafés y bares de categoría especial</p>
+<p>Epígrafe I.A.E.: 673.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.056,30</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>4.056,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">15.538,66</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>15.538,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">321,23</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>321,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">233,04</td>
+<td>4</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>233,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Longitud de barra.</td>
-<td class="cuerpo_tabla_izq">Metro.</td>
-<td class="cuerpo_tabla_coma">371,62</td>
+<td>5</td>
+<td>Longitud de barra.</td>
+<td>Metro.</td>
+<td>371,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">957,39</td>
+<td>6</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>957,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">2.903,66</td>
+<td>7</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>2.903,66</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Otros cafés y bares</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 673.2</p>
+<p>Actividad: Otros cafés y bares</p>
+<p>Epígrafe I.A.E.: 673.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.643,93</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>1.643,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">11.413,08</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>11.413,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">94,48</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>94,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mesas</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">119,67</td>
+<td>4</td>
+<td>Mesas</td>
+<td>Mesa.</td>
+<td>119,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Longitud de barra.</td>
-<td class="cuerpo_tabla_izq">Metro.</td>
-<td class="cuerpo_tabla_coma">163,76</td>
+<td>5</td>
+<td>Longitud de barra.</td>
+<td>Metro.</td>
+<td>163,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">806,23</td>
+<td>6</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>806,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">2.947,75</td>
+<td>7</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>2.947,75</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios en quioscos, cajones, barracas u otros locales análogos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 675</p>
+<p>Actividad: Servicios en quioscos, cajones, barracas u otros locales análogos</p>
+<p>Epígrafe I.A.E.: 675</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.802,88</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>2.802,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">14.461,60</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>14.461,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">107,07</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>107,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">26,45</td>
+<td>4</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>26,45</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios en chocolaterías, heladerías y horchaterías</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 676</p>
+<p>Actividad: Servicios en chocolaterías, heladerías y horchaterías</p>
+<p>Epígrafe I.A.E.: 676</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.418,67</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>2.418,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">20.016,97</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>20.016,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">541,68</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>541,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">220,45</td>
+<td>4</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>220,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">806,23</td>
+<td>5</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>806,23</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores, incluye, en su caso, el derivado de las actividades de elaboración de chocolates, helados y horchatas, el servicio al público de helados, horchatas, chocolates, infusiones, café y solubles, bebidas refrescantes, así como productos de bollería, pastelería, confitería y repostería que normalmente se acompañan para la degustación de los productos anteriores, y de máquinas de recreo tales como balancines, caballitos, animales parlantes, etc., así como de la comercialización de loterías, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores, incluye, en su caso, el derivado de las actividades de elaboración de chocolates, helados y horchatas, el servicio al público de helados, horchatas, chocolates, infusiones, café y solubles, bebidas refrescantes, así como productos de bollería, pastelería, confitería y repostería que normalmente se acompañan para la degustación de los productos anteriores, y de máquinas de recreo tales como balancines, caballitos, animales parlantes, etc., así como de la comercialización de loterías, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicio de hospedaje en hoteles y moteles de una o dos estrellas</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 681</p>
+<p>Actividad: Servicio de hospedaje en hoteles y moteles de una o dos estrellas</p>
+<p>Epígrafe I.A.E.: 681</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">6.223,02</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>6.223,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">20.438,98</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>20.438,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Número de plazas.</td>
-<td class="cuerpo_tabla_izq">Plaza.</td>
-<td class="cuerpo_tabla_coma">371,62</td>
+<td>3</td>
+<td>Número de plazas.</td>
+<td>Plaza.</td>
+<td>371,62</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye en su caso, el derivado de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -2401,53 +2269,47 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 2 | Personal no asalariado. | Persona. | 15.538,66 |
 | 3 | Superficie del local. | Metro cuadrado. | 17,01 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de vehículos automóviles, bicicletas y otros vehículos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 691.2</p>
+<p>Actividad: Reparación de vehículos automóviles, bicicletas y otros vehículos</p>
+<p>Epígrafe I.A.E.: 691.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.157,08</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>4.157,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">17.094,42</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>17.094,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">27,08</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>27,08</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de las actividades profesionales relacionadas con los seguros del ramo del automóvil, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto derivado de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de las actividades profesionales relacionadas con los seguros del ramo del automóvil, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -2483,105 +2345,93 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 2 | Personal no asalariado. | Persona. | 16.016,97 |
 | 3 | Número de asientos. | Asiento. | 121,40 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte por autotaxis</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 721.2</p>
+<p>Actividad: Transporte por autotaxis</p>
+<p>Epígrafe I.A.E.: 721.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.346,27</td>
+<td>1</td>
+<td>Personal asalariado</td>
+<td>Persona.</td>
+<td>1.346,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">7.656,89</td>
+<td>2</td>
+<td>Personal no asalariado</td>
+<td>Persona.</td>
+<td>7.656,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Distancia recorrida</td>
-<td class="cuerpo_tabla_izq">1.000 kilómetros</td>
-<td class="cuerpo_tabla_coma">45,08</td>
+<td>3</td>
+<td>Distancia recorrida</td>
+<td>1.000 kilómetros</td>
+<td>45,08</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la prestación de servicios de publicidad que utilicen como soporte el vehículo, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de la prestación de servicios de publicidad que utilicen como soporte el vehículo, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte de mercancías por carretera</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 722</p>
+<p>Actividad: Transporte de mercancías por carretera</p>
+<p>Epígrafe I.A.E.: 722</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.728,59</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>2.728,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">10.090,99</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>10.090,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Carga vehículos.</td>
-<td class="cuerpo_tabla_izq">Tonelada.</td>
-<td class="cuerpo_tabla_coma">126,21</td>
+<td>3</td>
+<td>Carga vehículos.</td>
+<td>Tonelada.</td>
+<td>126,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de las actividades auxiliares y complementarias del transporte, tales como agencias de transportes, depósitos y almacenamiento de mercancías, etc., siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado de las actividades auxiliares y complementarias del transporte, tales como agencias de transportes, depósitos y almacenamiento de mercancías, etc., siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
@@ -2630,163 +2480,145 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | 2 | Personal no asalariado. | Persona. | 16.773,19 |
 | 3 | Consumo de energía eléctrica. | 100 kWh. | 45,98 |
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios de peluquería de señora y caballero</p>
-<p class="centro_redonda">Epígrafe I.A.E. 972.1</p>
+<p>Actividad: Servicios de peluquería de señora y caballero</p>
+<p>Epígrafe I.A.E. 972.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.161,90</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>3.161,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">9.649,47</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>9.649,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">94,48</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>94,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">81,88</td>
+<td>4</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>81,88</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del comercio al por menor de artículos de cosmética capilar y productos de peluquería, así como de los servicios de manicura, depilación, pedicura y maquillaje, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del comercio al por menor de artículos de cosmética capilar y productos de peluquería, así como de los servicios de manicura, depilación, pedicura y maquillaje, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Salones e institutos de belleza</p>
-<p class="centro_redonda">Epígrafe I.A.E. 972.2</p>
+<p>Actividad: Salones e institutos de belleza</p>
+<p>Epígrafe I.A.E. 972.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.788,80</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>1.788,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">14.896,21</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>14.896,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">88,18</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>88,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">55,43</td>
+<td>4</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>55,43</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del comercio al por menor de artículos de cosmética y belleza, siempre que este comercio se limite a los productos necesarios para la continuación de tratamientos efectuados en el salón.</p>
+<p>Nota: El rendimiento neto resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, el derivado del comercio al por menor de artículos de cosmética y belleza, siempre que este comercio se limite a los productos necesarios para la continuación de tratamientos efectuados en el salón.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios de copias de documentos con máquinas fotocopiadoras</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 973.3</p>
+<p>Actividad: Servicios de copias de documentos con máquinas fotocopiadoras</p>
+<p>Epígrafe I.A.E.: 973.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Rendimiento anual por unidad antes de amortización</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Rendimiento anual por unidad antes de amortización</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.125,59</td>
+<td>1</td>
+<td>Personal asalariado.</td>
+<td>Persona.</td>
+<td>4.125,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Personal no asalariado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">17.044,03</td>
+<td>2</td>
+<td>Personal no asalariado.</td>
+<td>Persona.</td>
+<td>17.044,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">541,68</td>
+<td>3</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>541,68</td>
 </tr>
 </tbody>
 <tfoot>
@@ -2801,2543 +2633,2249 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 
 Índices y módulos del régimen especial simplificado del Impuesto sobre el Valor Añadido
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Industrias del pan y de la bollería</p>
-<p class="centro_redonda">Epígrafe I.A.E. 419.1</p>
+<p>Actividad: Industrias del pan y de la bollería</p>
+<p>Epígrafe I.A.E. 419.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.693,54</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>1.693,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">7,09</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>7,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">30,47</td>
+<td>3</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>30,47</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.1 del I.A.E.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.1 del I.A.E.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Industrias de la bollería, pastelería y galletas</p>
-<p class="centro_redonda">Epígrafe I.A.E. 419.2</p>
+<p>Actividad: Industrias de la bollería, pastelería y galletas</p>
+<p>Epígrafe I.A.E. 419.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.064,67</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.064,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">8,86</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>8,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">59,34</td>
+<td>3</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>59,34</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye, en su caso, la derivada de la fabricación de pastelería «salada» y «platos precocinados», siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.3 del I.A.E.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye, en su caso, la derivada de la fabricación de pastelería «salada» y «platos precocinados», siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.3 del I.A.E.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Industrias de elaboración de masas fritas</p>
-<p class="centro_redonda">Epígrafe I.A.E. 419.3</p>
+<p>Actividad: Industrias de elaboración de masas fritas</p>
+<p>Epígrafe I.A.E. 419.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.550,92</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.550,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">10,63</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>10,63</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.6 del I.A.E.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.6 del I.A.E.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Elaboración de patatas fritas, palomitas de maíz y similares</p>
-<p class="centro_redonda">Epígrafe I.A.E. 423.9</p>
+<p>Actividad: Elaboración de patatas fritas, palomitas de maíz y similares</p>
+<p>Epígrafe I.A.E. 423.9</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.550,92</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.550,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">10,63</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>10,63</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.6 del I.A.E.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye la derivada del ejercicio de las actividades que faculta la nota del epígrafe 644.6 del I.A.E.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Elaboración de productos de charcutería por minoristas de carne</p>
-<p class="centro_redonda">Epígrafe I.A.E. 642.1, 2 y 3</p>
+<p>Actividad: Elaboración de productos de charcutería por minoristas de carne</p>
+<p>Epígrafe I.A.E. 642.1, 2 y 3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.753,76</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>1.753,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">2,21</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>2,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores, incluye, en su caso, la derivada de la elaboración de platos precocinados, siempre que se desarrolle con carácter accesorio a la actividad principal.</p>
-<p class="cita">Nota: Se entiende por superficie del local, en este caso, la dedicada a la elaboración de productos de charcutería y platos precocinados.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores, incluye, en su caso, la derivada de la elaboración de platos precocinados, siempre que se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Nota: Se entiende por superficie del local, en este caso, la dedicada a la elaboración de productos de charcutería y platos precocinados.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comerciantes minoristas matriculados en el epígrafe 642.5 por el asado de pollos</p>
-<p class="centro_redonda">Epígrafe I.A.E. 642.5</p>
+<p>Actividad: Comerciantes minoristas matriculados en el epígrafe 642.5 por el asado de pollos</p>
+<p>Epígrafe I.A.E. 642.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado asado de pollos.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">673,16</td>
+<td>1</td>
+<td>Personal empleado asado de pollos.</td>
+<td>Persona.</td>
+<td>673,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">13,29</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>13,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Capacidad del asador.</td>
-<td class="cuerpo_tabla_izq">Pieza.</td>
-<td class="cuerpo_tabla_coma">62,89</td>
+<td>3</td>
+<td>Capacidad del asador.</td>
+<td>Pieza.</td>
+<td>62,89</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de pan, pastelería, confitería y similares y de leche y productos lácteos</p>
-<p class="centro_redonda">Epígrafe I.A.E. 644.1</p>
+<p>Actividad: Comercio al por menor de pan, pastelería, confitería y similares y de leche y productos lácteos</p>
+<p>Epígrafe I.A.E. 644.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.090,35</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.090,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">8,86</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>8,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">40,75</td>
+<td>3</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>40,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>4</td>
+<td>Importe total de las comisiones por loterías.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de la fabricación de productos de pastelería salada y platos precocinados, la degustación de los productos objetos de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles y las actividades de «catering», así como de la comercialización de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de la fabricación de productos de pastelería salada y platos precocinados, la degustación de los productos objetos de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles y las actividades de «catering», así como de la comercialización de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Despachos de pan, panes especiales y bollería</p>
-<p class="centro_redonda">Epígrafe I.A.E. 644.2</p>
+<p>Actividad: Despachos de pan, panes especiales y bollería</p>
+<p>Epígrafe I.A.E. 644.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.090,35</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.090,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">8,86</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>8,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">40,75</td>
+<td>3</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>40,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>4</td>
+<td>Importe total de las comisiones por loterías.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de las actividades para las que faculta el epígrafe 644.2, exceptuando las que tributen por el régimen especial del recargo de equivalencia, así como la de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de las actividades para las que faculta el epígrafe 644.2, exceptuando las que tributen por el régimen especial del recargo de equivalencia, así como la de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de productos de pastelería, bollería y confitería</p>
-<p class="centro_redonda">Epígrafe I.A.E. 644.3</p>
+<p>Actividad: Comercio al por menor de productos de pastelería, bollería y confitería</p>
+<p>Epígrafe I.A.E. 644.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.064,67</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.064,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">8,86</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>8,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del horno.</td>
-<td class="cuerpo_tabla_izq">100 decímetros cuadrados.</td>
-<td class="cuerpo_tabla_coma">59,34</td>
+<td>3</td>
+<td>Superficie del horno.</td>
+<td>100 decímetros cuadrados.</td>
+<td>59,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>4</td>
+<td>Importe total de las comisiones por loterías.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de la fabricación de productos de pastelería salada y platos precocinados, la degustación de los productos objetos de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles y las actividades de «catering», así como la de la comercialización de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de la fabricación de productos de pastelería salada y platos precocinados, la degustación de los productos objetos de su actividad acompañados de cualquier tipo de bebidas, cafés, infusiones o solubles y las actividades de «catering», así como la de la comercialización de loterías, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivo, frutos secos, golosinas, preparados de chocolate y bebidas refrescantes</p>
-<p class="centro_redonda">Epígrafe I.A.E. 644.6</p>
+<p>Actividad: Comercio al por menor de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivo, frutos secos, golosinas, preparados de chocolate y bebidas refrescantes</p>
+<p>Epígrafe I.A.E. 644.6</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.550,92</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.550,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">10,63</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>10,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>3</td>
+<td>Importe total de las comisiones por loterías.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de las actividades para las que faculta el epígrafe 644.6, exceptuando las que tributen por el régimen especial del recargo de equivalencia, así como la de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de las actividades para las que faculta el epígrafe 644.6, exceptuando las que tributen por el régimen especial del recargo de equivalencia, así como la de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de artículos de su actividad efectuadas por comerciantes minoristas matriculados en el epígrafe 653.2</p>
-<p class="centro_redonda">Epígrafe I.A.E. 653.2</p>
+<p>Actividad: Reparación de artículos de su actividad efectuadas por comerciantes minoristas matriculados en el epígrafe 653.2</p>
+<p>Epígrafe I.A.E. 653.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado reparación.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">5.819,91</td>
+<td>1</td>
+<td>Personal empleado reparación.</td>
+<td>Persona.</td>
+<td>5.819,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie taller reparación.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">5,71</td>
+<td>2</td>
+<td>Superficie taller reparación.</td>
+<td>Metro cuadrado.</td>
+<td>5,71</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de la reparación de los artículos de su actividad.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de la reparación de los artículos de su actividad.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de materiales de construcción, artículos y mobiliario de saneamiento, puertas, ventanas, persianas, etc.</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 653.4 y 5</p>
+<p>Actividad: Comercio al por menor de materiales de construcción, artículos y mobiliario de saneamiento, puertas, ventanas, persianas, etc.</p>
+<p>Epígrafe I.A.E.: 653.4 y 5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">12.317,71</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>12.317,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">239,74</td>
+<td>2</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>239,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">9,10</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>9,10</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de accesorios y piezas de recambio para vehículos terrestres</p>
-<p class="centro_redonda">Epígrafe I.A.E. 654.2</p>
+<p>Actividad: Comercio al por menor de accesorios y piezas de recambio para vehículos terrestres</p>
+<p>Epígrafe I.A.E. 654.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">15.558,35</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>15.558,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">272,80</td>
+<td>2</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>272,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">620,03</td>
+<td>3</td>
+<td>Potencia fiscal vehículo.</td>
+<td>CVF.</td>
+<td>620,03</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de toda clase de maquinaria (excepto aparatos del hogar, de oficina, médicos, ortopédicos, ópticos y fotográficos)</p>
-<p class="centro_redonda">Epígrafe I.A.E. 654.5</p>
+<p>Actividad: Comercio al por menor de toda clase de maquinaria (excepto aparatos del hogar, de oficina, médicos, ortopédicos, ópticos y fotográficos)</p>
+<p>Epígrafe I.A.E. 654.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">18.021,89</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>18.021,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">74,41</td>
+<td>2</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>74,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">82,66</td>
+<td>3</td>
+<td>Potencia fiscal vehículo.</td>
+<td>CVF.</td>
+<td>82,66</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor de cubiertas, bandas o bandajes y cámaras de aire para toda clase de vehículos</p>
-<p class="centro_redonda">Epígrafe I.A.E. 654.6</p>
+<p>Actividad: Comercio al por menor de cubiertas, bandas o bandajes y cámaras de aire para toda clase de vehículos</p>
+<p>Epígrafe I.A.E. 654.6</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">14.152,98</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>14.152,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">206,67</td>
+<td>2</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>206,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">372,02</td>
+<td>3</td>
+<td>Potencia fiscal vehículo.</td>
+<td>CVF.</td>
+<td>372,02</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comerciantes minoristas matriculados en el epígrafe 659.3 por el servicio de recogida de negativos y otro material fotográfico impresionado para su procesado en laboratorio de terceros y la entrega de las correspondientes copias y ampliaciones</p>
-<p class="centro_redonda">Epígrafe I.A.E. 659.3</p>
+<p>Actividad: Comerciantes minoristas matriculados en el epígrafe 659.3 por el servicio de recogida de negativos y otro material fotográfico impresionado para su procesado en laboratorio de terceros y la entrega de las correspondientes copias y ampliaciones</p>
+<p>Epígrafe I.A.E. 659.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado recogida material fotográfico.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">14.533,25</td>
+<td>1</td>
+<td>Personal empleado recogida material fotográfico.</td>
+<td>Persona.</td>
+<td>14.533,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">30,59</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>30,59</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comerciantes minoristas matriculados en el epígrafe 659.4 por el servicio de publicidad exterior y comercialización de tarjetas para el transporte público, tarjetas de uso telefónico y otras similares, así como loterías</p>
-<p class="centro_redonda">Epígrafe I.A.E. 659.4</p>
+<p>Actividad: Comerciantes minoristas matriculados en el epígrafe 659.4 por el servicio de publicidad exterior y comercialización de tarjetas para el transporte público, tarjetas de uso telefónico y otras similares, así como loterías</p>
+<p>Epígrafe I.A.E. 659.4</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones o contraprestaciones percibidas por estas operaciones.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>1</td>
+<td>Importe total de las comisiones o contraprestaciones percibidas por estas operaciones.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 75 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 75 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comerciantes minoristas matriculados en los epígrafes 647.1, 2 y 3, 652.2 y 3 y 662.2 por el servicio de comercialización de loterías</p>
-<p class="centro_redonda">Epígrafe I.A.E. 647.1, 2 y 3, 652.2 y 3 y 662.2</p>
+<p>Actividad: Comerciantes minoristas matriculados en los epígrafes 647.1, 2 y 3, 652.2 y 3 y 662.2 por el servicio de comercialización de loterías</p>
+<p>Epígrafe I.A.E. 647.1, 2 y 3, 652.2 y 3 y 662.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones percibidas por estas operaciones.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>1</td>
+<td>Importe total de las comisiones percibidas por estas operaciones.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 75 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 75 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Comercio al por menor fuera de un establecimiento comercial permanente dedicado exclusivamente a la comercialización de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivo, frutos secos, golosinas, preparación de chocolate y bebidas refrescantes y facultado para la elaboración de los productos propios de churrería y patatas fritas en la propia instalación o vehículo</p>
-<p class="centro_redonda">Epígrafe I.A.E. 663.1</p>
+<p>Actividad: Comercio al por menor fuera de un establecimiento comercial permanente dedicado exclusivamente a la comercialización de masas fritas, con o sin coberturas o rellenos, patatas fritas, productos de aperitivo, frutos secos, golosinas, preparación de chocolate y bebidas refrescantes y facultado para la elaboración de los productos propios de churrería y patatas fritas en la propia instalación o vehículo</p>
+<p>Epígrafe I.A.E. 663.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">5.881,32</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>5.881,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal del vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">43,40</td>
+<td>2</td>
+<td>Potencia fiscal del vehículo.</td>
+<td>CVF.</td>
+<td>43,40</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de la elaboración y simultáneo comercio de los productos fabricados y comercializados en la forma prevista en la nota del epígrafe 663.1 del I.A.E.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye exclusivamente la derivada de la elaboración y simultáneo comercio de los productos fabricados y comercializados en la forma prevista en la nota del epígrafe 663.1 del I.A.E.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Restaurantes de dos tenedores</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 671.4</p>
+<p>Actividad: Restaurantes de dos tenedores</p>
+<p>Epígrafe I.A.E.: 671.4</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.993,81</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.993,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">Kw. Contratado.</td>
-<td class="cuerpo_tabla_coma">150,57</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>Kw. Contratado.</td>
+<td>150,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">168,29</td>
+<td>3</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>168,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">239,15</td>
+<td>4</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>239,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">841,46</td>
+<td>5</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>841,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>6</td>
+<td>Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Restaurantes de un tenedor</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 671.5</p>
+<p>Actividad: Restaurantes de un tenedor</p>
+<p>Epígrafe I.A.E.: 671.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.400,36</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.400,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">Kw. Contratado.</td>
-<td class="cuerpo_tabla_coma">70,86</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>Kw. Contratado.</td>
+<td>70,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">124,00</td>
+<td>3</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>124,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">239,15</td>
+<td>4</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>239,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">841,46</td>
+<td>5</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>841,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>6</td>
+<td>Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Cafeterías</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 672.1, 2 y 3</p>
+<p>Actividad: Cafeterías</p>
+<p>Epígrafe I.A.E.: 672.1, 2 y 3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.356,07</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.356,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">124,00</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>124,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">70,86</td>
+<td>3</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>70,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">221,43</td>
+<td>4</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>221,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">832,60</td>
+<td>5</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>832,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>6</td>
+<td>Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Cafés y bares de categoría especial</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 673.1</p>
+<p>Actividad: Cafés y bares de categoría especial</p>
+<p>Epígrafe I.A.E.: 673.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.294,97</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.294,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">69,09</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>69,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">60,23</td>
+<td>3</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>60,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Longitud de la barra.</td>
-<td class="cuerpo_tabla_izq">Metro.</td>
-<td class="cuerpo_tabla_coma">77,95</td>
+<td>4</td>
+<td>Longitud de la barra.</td>
+<td>Metro.</td>
+<td>77,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">221,43</td>
+<td>5</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>221,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">655,45</td>
+<td>6</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>655,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>7</td>
+<td>Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 6 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 6 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Otros cafés y bares</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 673.2</p>
+<p>Actividad: Otros cafés y bares</p>
+<p>Epígrafe I.A.E.: 673.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.577,52</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.577,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW Contratado.</td>
-<td class="cuerpo_tabla_coma">47,83</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>KW Contratado.</td>
+<td>47,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa.</td>
-<td class="cuerpo_tabla_coma">56,69</td>
+<td>3</td>
+<td>Mesas.</td>
+<td>Mesa.</td>
+<td>56,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Longitud de la barra.</td>
-<td class="cuerpo_tabla_izq">Metro.</td>
-<td class="cuerpo_tabla_coma">62,89</td>
+<td>4</td>
+<td>Longitud de la barra.</td>
+<td>Metro.</td>
+<td>62,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A».</td>
-<td class="cuerpo_tabla_coma">177,15</td>
+<td>5</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A».</td>
+<td>177,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «B».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «B».</td>
-<td class="cuerpo_tabla_coma">655,45</td>
+<td>6</td>
+<td>Máquinas tipo «B».</td>
+<td>Máquina tipo «B».</td>
+<td>655,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>7</td>
+<td>Importe total de las comisiones por loterías y por máquinas de apuestas deportivas.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 6 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 6 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de máquinas de recreo tales como billar, futbolín, dardos, etc., así como de los expositores de cintas, vídeos, compact-disc, expendedores de bolas, etc., máquinas de juegos infantiles, máquinas reproductoras de compact-disc y vídeos musicales, loterías, máquinas de apuestas deportivas y el servicio de uso de teléfono, siempre que se realicen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios en quioscos, cajones, barracas u otros locales análogos</p>
-<p class="centro_redonda">Epígrafe I.A.E. 675</p>
+<p>Actividad: Servicios en quioscos, cajones, barracas u otros locales análogos</p>
+<p>Epígrafe I.A.E. 675</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.357,86</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>4.357,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">50,48</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>50,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">4,06</td>
+<td>3</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>4,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías.</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>4</td>
+<td>Importe total de las comisiones por loterías.</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 3 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye, en su caso, la derivada de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 3 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye, en su caso, la derivada de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios en chocolaterías, heladerías y horchaterías</p>
-<p class="centro_redonda">Epígrafe I.A.E. 676</p>
+<p>Actividad: Servicios en chocolaterías, heladerías y horchaterías</p>
+<p>Epígrafe I.A.E. 676</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.817,55</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.817,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado</td>
-<td class="cuerpo_tabla_coma">141,72</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado</td>
+<td>141,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Mesas.</td>
-<td class="cuerpo_tabla_izq">Mesa</td>
-<td class="cuerpo_tabla_coma">46,05</td>
+<td>3</td>
+<td>Mesas.</td>
+<td>Mesa</td>
+<td>46,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Máquinas tipo «A».</td>
-<td class="cuerpo_tabla_izq">Máquina tipo «A»</td>
-<td class="cuerpo_tabla_coma">177,15</td>
+<td>4</td>
+<td>Máquinas tipo «A».</td>
+<td>Máquina tipo «A»</td>
+<td>177,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías.</td>
-<td class="cuerpo_tabla_izq">Euro</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>5</td>
+<td>Importe total de las comisiones por loterías.</td>
+<td>Euro</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores, incluye, en su caso, la derivada de las actividades de elaboración de chocolates, helados y horchatas, el servicio al público de helados, horchatas, chocolates, infusiones, café y solubles, bebidas refrescantes, así como productos de bollería, pastelería, confitería y repostería que normalmente se acompañan para la degustación de los productos anteriores, y de máquinas de recreo tales como balancines, caballitos, animales parlantes, etc., así como de la comercialización de loterías, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores, incluye, en su caso, la derivada de las actividades de elaboración de chocolates, helados y horchatas, el servicio al público de helados, horchatas, chocolates, infusiones, café y solubles, bebidas refrescantes, así como productos de bollería, pastelería, confitería y repostería que normalmente se acompañan para la degustación de los productos anteriores, y de máquinas de recreo tales como balancines, caballitos, animales parlantes, etc., así como de la comercialización de loterías, siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicio de hospedaje en hoteles y moteles de una o dos estrellas</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 681</p>
+<p>Actividad: Servicio de hospedaje en hoteles y moteles de una o dos estrellas</p>
+<p>Epígrafe I.A.E.: 681</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.604,09</td>
+<td>1</td>
+<td>Personal empleado</td>
+<td>Persona.</td>
+<td>2.604,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Número de plazas</td>
-<td class="cuerpo_tabla_izq">Plaza.</td>
-<td class="cuerpo_tabla_coma">53,14</td>
+<td>2</td>
+<td>Número de plazas</td>
+<td>Plaza.</td>
+<td>53,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Importe total de las comisiones por loterías</td>
-<td class="cuerpo_tabla_izq">Euro.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>3</td>
+<td>Importe total de las comisiones por loterías</td>
+<td>Euro.</td>
+<td>0,21</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye, en su caso, la derivada de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos, índices o módulos anteriores incluye, en su caso, la derivada de la comercialización de loterías, siempre que esta actividad se desarrolle con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicio de hospedaje en hostales y pensiones</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 682</p>
+<p>Actividad: Servicio de hospedaje en hostales y pensiones</p>
+<p>Epígrafe I.A.E.: 682</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.533,22</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.533,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Número de plazas.</td>
-<td class="cuerpo_tabla_izq">Plaza.</td>
-<td class="cuerpo_tabla_coma">55,80</td>
+<td>2</td>
+<td>Número de plazas.</td>
+<td>Plaza.</td>
+<td>55,80</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 20 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicio de hospedaje en fondas y casas de huéspedes</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 683</p>
+<p>Actividad: Servicio de hospedaje en fondas y casas de huéspedes</p>
+<p>Epígrafe I.A.E.: 683</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.762,62</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>1.762,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Número de plazas.</td>
-<td class="cuerpo_tabla_izq">Plaza.</td>
-<td class="cuerpo_tabla_coma">29,22</td>
+<td>2</td>
+<td>Número de plazas.</td>
+<td>Plaza.</td>
+<td>29,22</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de artículos eléctricos para el hogar</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 691.1</p>
+<p>Actividad: Reparación de artículos eléctricos para el hogar</p>
+<p>Epígrafe I.A.E.: 691.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">5.819,91</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>5.819,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">5,71</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>5,71</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de vehículos automóviles, bicicletas y otros vehículos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 691.2</p>
+<p>Actividad: Reparación de vehículos automóviles, bicicletas y otros vehículos</p>
+<p>Epígrafe I.A.E.: 691.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">8.556,27</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>8.556,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">16,54</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>16,54</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de calzado</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 691.9</p>
+<p>Actividad: Reparación de calzado</p>
+<p>Epígrafe I.A.E.: 691.9</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.000,89</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.000,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 Kwh.</td>
-<td class="cuerpo_tabla_coma">36,37</td>
+<td>2</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 Kwh.</td>
+<td>36,37</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de otros bienes de consumo n.c.o.p. (excepto reparación de calzado, restauración de obras de arte, muebles, antigüedades e instrumentos musicales)</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 691.9</p>
+<p>Actividad: Reparación de otros bienes de consumo n.c.o.p. (excepto reparación de calzado, restauración de obras de arte, muebles, antigüedades e instrumentos musicales)</p>
+<p>Epígrafe I.A.E.: 691.9</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">5.381,76</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>5.381,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">13,23</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>13,23</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Reparación de maquinaria industrial</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 692</p>
+<p>Actividad: Reparación de maquinaria industrial</p>
+<p>Epígrafe I.A.E.: 692</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">9.721,90</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>9.721,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">53,75</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>53,75</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Otras reparaciones n.c.o.p.</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 699</p>
+<p>Actividad: Otras reparaciones n.c.o.p.</p>
+<p>Epígrafe I.A.E.: 699</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">7.671,69</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>7.671,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">46,31</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>46,31</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte urbano colectivo y de viajeros por carretera</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 721.1 y 3</p>
+<p>Actividad: Transporte urbano colectivo y de viajeros por carretera</p>
+<p>Epígrafe I.A.E.: 721.1 y 3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.700,62</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>1.700,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Número de asientos.</td>
-<td class="cuerpo_tabla_izq">Asiento.</td>
-<td class="cuerpo_tabla_coma">79,72</td>
+<td>2</td>
+<td>Número de asientos.</td>
+<td>Asiento.</td>
+<td>79,72</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 1 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 1 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte por autotaxis</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 721.2</p>
+<p>Actividad: Transporte por autotaxis</p>
+<p>Epígrafe I.A.E.: 721.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">903,46</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>903,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Distancia recorrida.</td>
-<td class="cuerpo_tabla_izq">1.000 kilómetros.</td>
-<td class="cuerpo_tabla_coma">8,78</td>
+<td>2</td>
+<td>Distancia recorrida.</td>
+<td>1.000 kilómetros.</td>
+<td>8,78</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de la prestación de servicios de publicidad que utilicen como soporte el vehículo siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de la prestación de servicios de publicidad que utilicen como soporte el vehículo siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte de mercancías por carretera, excepto residuos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 722</p>
+<p>Actividad: Transporte de mercancías por carretera, excepto residuos</p>
+<p>Epígrafe I.A.E.: 722</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.149,99</td>
+<td>1</td>
+<td>Personal empleado</td>
+<td>Persona.</td>
+<td>4.149,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Carga vehículos</td>
-<td class="cuerpo_tabla_izq">Tonelada.</td>
-<td class="cuerpo_tabla_coma">388,55</td>
+<td>2</td>
+<td>Carga vehículos</td>
+<td>Tonelada.</td>
+<td>388,55</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de las actividades auxiliares y complementarias del transporte, tales como agencias de transportes, depósitos y almacenamiento de mercancías, etc., siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
-<p class="cita">Nota: En los casos en que se realicen transportes de residuos y transportes de mercancías distintas de los mismos, los módulos aplicables a dichos sectores de la actividad se prorratearán en función de su utilización efectiva en cada uno. Asimismo, a cada sector de la actividad se le aplicará la cuota mínima por operaciones corrientes que le corresponda. La suma de dichas cuotas mínimas será la que se utilice para el cálculo de la cuota derivada del régimen simplificado del conjunto de la actividad.</p>
+<p>Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de las actividades auxiliares y complementarias del transporte, tales como agencias de transportes, depósitos y almacenamiento de mercancías, etc., siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: En los casos en que se realicen transportes de residuos y transportes de mercancías distintas de los mismos, los módulos aplicables a dichos sectores de la actividad se prorratearán en función de su utilización efectiva en cada uno. Asimismo, a cada sector de la actividad se le aplicará la cuota mínima por operaciones corrientes que le corresponda. La suma de dichas cuotas mínimas será la que se utilice para el cálculo de la cuota derivada del régimen simplificado del conjunto de la actividad.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte de residuos por carretera</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 722</p>
+<p>Actividad: Transporte de residuos por carretera</p>
+<p>Epígrafe I.A.E.: 722</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">1.948,64</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>1.948,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Carga vehículos.</td>
-<td class="cuerpo_tabla_izq">Tonelada.</td>
-<td class="cuerpo_tabla_coma">181,58</td>
+<td>2</td>
+<td>Carga vehículos.</td>
+<td>Tonelada.</td>
+<td>181,58</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 1 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de las actividades auxiliares y complementarias del transporte, tales como agencias de transportes, depósitos y almacenamiento de mercancías, etc., siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
-<p class="cita">Nota: En los casos en que se realicen transportes de residuos y transportes de mercancías distintas de los mismos, los módulos aplicables a dichos sectores de la actividad se prorratearán en función de su utilización efectiva en cada uno. Asimismo, a cada sector de la actividad se le aplicará la cuota mínima por operaciones corrientes que le corresponda. La suma de dichas cuotas mínimas será la que se utilice para el cálculo de la cuota derivada del régimen simplificado del conjunto de la actividad.</p>
+<p>Cuota mínima por operaciones corrientes: 1 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de las actividades auxiliares y complementarias del transporte, tales como agencias de transportes, depósitos y almacenamiento de mercancías, etc., siempre que se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Nota: En los casos en que se realicen transportes de residuos y transportes de mercancías distintas de los mismos, los módulos aplicables a dichos sectores de la actividad se prorratearán en función de su utilización efectiva en cada uno. Asimismo, a cada sector de la actividad se le aplicará la cuota mínima por operaciones corrientes que le corresponda. La suma de dichas cuotas mínimas será la que se utilice para el cálculo de la cuota derivada del régimen simplificado del conjunto de la actividad.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Engrase y lavado de vehículos</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 751.5</p>
+<p>Actividad: Engrase y lavado de vehículos</p>
+<p>Epígrafe I.A.E.: 751.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">8.556,27</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>8.556,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">16,54</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>16,54</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios de mudanzas</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 757</p>
+<p>Actividad: Servicios de mudanzas</p>
+<p>Epígrafe I.A.E.: 757</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">5.712,43</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>5.712,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Carga vehículos.</td>
-<td class="cuerpo_tabla_izq">Tonelada.</td>
-<td class="cuerpo_tabla_coma">256,27</td>
+<td>2</td>
+<td>Carga vehículos.</td>
+<td>Tonelada.</td>
+<td>256,27</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Transporte de mensajería y recadería, cuando la actividad se realice exclusivamente con medios de transporte propios</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 849.5</p>
+<p>Actividad: Transporte de mensajería y recadería, cuando la actividad se realice exclusivamente con medios de transporte propios</p>
+<p>Epígrafe I.A.E.: 849.5</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">4.149,99</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>4.149,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Carga vehículos.</td>
-<td class="cuerpo_tabla_izq">Tonelada.</td>
-<td class="cuerpo_tabla_coma">388,55</td>
+<td>2</td>
+<td>Carga vehículos.</td>
+<td>Tonelada.</td>
+<td>388,55</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 10 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Enseñanza de conducción de vehículos terrestres, acuáticos, aeronáuticos, etc.</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 933.1</p>
+<p>Actividad: Enseñanza de conducción de vehículos terrestres, acuáticos, aeronáuticos, etc.</p>
+<p>Epígrafe I.A.E.: 933.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.000,89</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.000,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Número de vehículos.</td>
-<td class="cuerpo_tabla_izq">Vehículo.</td>
-<td class="cuerpo_tabla_coma">256,27</td>
+<td>2</td>
+<td>Número de vehículos.</td>
+<td>Vehículo.</td>
+<td>256,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal vehículo.</td>
-<td class="cuerpo_tabla_izq">CVF.</td>
-<td class="cuerpo_tabla_coma">107,47</td>
+<td>3</td>
+<td>Potencia fiscal vehículo.</td>
+<td>CVF.</td>
+<td>107,47</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">nota: Los módulos anteriores no serán de aplicación en la medida en que se utilicen en la realización de operaciones exentas del Impuesto sobre el Valor Añadido por aplicación de lo previsto en el artículo 20.uno.9.º de la Ley 37/92.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>nota: Los módulos anteriores no serán de aplicación en la medida en que se utilicen en la realización de operaciones exentas del Impuesto sobre el Valor Añadido por aplicación de lo previsto en el artículo 20.uno.9.º de la Ley 37/92.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Otras actividades de enseñanza, tales como idiomas, corte y confección, mecanografía, taquigrafía, preparación de exámenes y oposiciones y similares n.c.o.p.</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 933.9</p>
+<p>Actividad: Otras actividades de enseñanza, tales como idiomas, corte y confección, mecanografía, taquigrafía, preparación de exámenes y oposiciones y similares n.c.o.p.</p>
+<p>Epígrafe I.A.E.: 933.9</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.413,95</td>
+<td>1</td>
+<td>Personal empleado</td>
+<td>Persona.</td>
+<td>2.413,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">2,64</td>
+<td>2</td>
+<td>Superficie del local</td>
+<td>Metro cuadrado.</td>
+<td>2,64</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: Los módulos anteriores no serán de aplicación en la medida en que se utilicen en la realización de operaciones exentas del Impuesto sobre el Valor Añadido por aplicación de lo previsto en el artículo 20.Uno.9.º de la Ley 37/92.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: Los módulos anteriores no serán de aplicación en la medida en que se utilicen en la realización de operaciones exentas del Impuesto sobre el Valor Añadido por aplicación de lo previsto en el artículo 20.Uno.9.º de la Ley 37/92.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Escuelas y servicios de perfeccionamiento del deporte</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 967.2</p>
+<p>Actividad: Escuelas y servicios de perfeccionamiento del deporte</p>
+<p>Epígrafe I.A.E.: 967.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.441,10</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.441,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">5,58</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>5,58</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 3 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 3 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Tinte, limpieza en seco, lavado y planchado de ropas hechas y de prendas y artículos del hogar usados</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 971.1</p>
+<p>Actividad: Tinte, limpieza en seco, lavado y planchado de ropas hechas y de prendas y artículos del hogar usados</p>
+<p>Epígrafe I.A.E.: 971.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">3.844,13</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>3.844,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">14,06</td>
+<td>2</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>14,06</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 48 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios de peluquería de señora y caballero</p>
-<p class="centro_redonda">Epígrafe I.A.E. 972.1</p>
+<p>Actividad: Servicios de peluquería de señora y caballero</p>
+<p>Epígrafe I.A.E. 972.1</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.562,75</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.562,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">41,33</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>41,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 kWh.</td>
-<td class="cuerpo_tabla_coma">17,48</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 kWh.</td>
+<td>17,48</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de servicios de manicura, depilación, pedicura y maquillaje, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
+<p>Cuota mínima por operaciones corrientes: 13 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de servicios de manicura, depilación, pedicura y maquillaje, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Salones e institutos de belleza</p>
-<p class="centro_redonda">Epígrafe I.A.E. 972.2</p>
+<p>Actividad: Salones e institutos de belleza</p>
+<p>Epígrafe I.A.E. 972.2</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">2.562,75</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>2.562,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Superficie del local.</td>
-<td class="cuerpo_tabla_izq">Metro cuadrado.</td>
-<td class="cuerpo_tabla_coma">41,33</td>
+<td>2</td>
+<td>Superficie del local.</td>
+<td>Metro cuadrado.</td>
+<td>41,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Consumo de energía eléctrica.</td>
-<td class="cuerpo_tabla_izq">100 Wh.</td>
-<td class="cuerpo_tabla_coma">17,36</td>
+<td>3</td>
+<td>Consumo de energía eléctrica.</td>
+<td>100 Wh.</td>
+<td>17,36</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
+<p>Cuota mínima por operaciones corrientes: 32 % de la cuota devengada por operaciones corrientes.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Actividad: Servicios de copias de documentos con máquinas fotocopiadoras</p>
-<p class="centro_redonda">Epígrafe I.A.E.: 973.3</p>
+<p>Actividad: Servicios de copias de documentos con máquinas fotocopiadoras</p>
+<p>Epígrafe I.A.E.: 973.3</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="30%">
-<col width="30%">
-<col width="30%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Definición</th>
-<th class="cabeza_tabla">Unidad</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota devengada anual por unidad</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Módulo</th>
+<th>Definición</th>
+<th>Unidad</th>
+<th>
+<p>Cuota devengada anual por unidad</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Personal empleado.</td>
-<td class="cuerpo_tabla_izq">Persona.</td>
-<td class="cuerpo_tabla_coma">13.136,13</td>
+<td>1</td>
+<td>Personal empleado.</td>
+<td>Persona.</td>
+<td>13.136,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Potencia eléctrica.</td>
-<td class="cuerpo_tabla_izq">KW contratado.</td>
-<td class="cuerpo_tabla_coma">239,74</td>
+<td>2</td>
+<td>Potencia eléctrica.</td>
+<td>KW contratado.</td>
+<td>239,74</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
-<p class="cita">Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de los servicios de reproducción de planos y la encuadernación de sus trabajos, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal de servicios de copias de documentos con máquinas fotocopiadoras.</p>
+<p>Cuota mínima por operaciones corrientes: 30 % de la cuota devengada por operaciones corrientes.</p>
+<p>Nota: La cuota resultante de la aplicación de los signos o módulos anteriores incluye, en su caso, la derivada de los servicios de reproducción de planos y la encuadernación de sus trabajos, siempre que estas actividades se desarrollen con carácter accesorio a la actividad principal de servicios de copias de documentos con máquinas fotocopiadoras.</p>
 </td>
 </tr>
 </tfoot>

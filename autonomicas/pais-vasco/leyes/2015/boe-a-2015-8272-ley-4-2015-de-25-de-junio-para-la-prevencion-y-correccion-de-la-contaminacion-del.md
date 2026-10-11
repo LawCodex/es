@@ -1283,274 +1283,274 @@ Nota: Los valores se dan en miligramos por Kg (ppm).
 
 **Relación entre la clasificación de usos del suelo del planeamiento urbanístico general de la CAPV y los valores VIE-B aplicables para la protección de la salud humana**
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Usos del suelo</p>
+<p>Usos del suelo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">VIE aplicables</p>
+<p>VIE aplicables</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Residencial.</p>
+<p>Residencial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vivienda unifamiliar.</p>
+<p>Vivienda unifamiliar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros usos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Vivienda adosada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros usos.</p>
+<p>Otros usos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Vivienda colectiva.</p>
+<p>Vivienda adosada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Urbano.</p>
+<p>Otros usos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vivienda colectiva.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Urbano.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">Productivo.</p>
+<p>Productivo.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Industrial.</p>
+<p>Industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compatible con vivienda.</p>
+<p>Compatible con vivienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Urbano.</p>
+<p>Urbano.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">No compatible con vivienda.</p>
+<p>No compatible con vivienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Industrial.</p>
+<p>Industrial.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Actividades agropecuarias.</p>
+<p>Actividades agropecuarias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explotación agrícola.</p>
+<p>Explotación agrícola.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros usos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Explotación forestal.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros usos.</p>
+<p>Otros usos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Explotación agropecuaria sin transformación de productos.</p>
+<p>Explotación forestal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros usos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Actividades extractivas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(2)</p>
+<p>Otros usos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Terciario.</p>
+<p>Explotación agropecuaria sin transformación de productos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Oficinas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Compatible con vivienda</p>
-<p class="cuerpo_tabla_izq">No compatible con vivienda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Urbano</p>
-<p class="cuerpo_tabla_izq">Industrial.</p>
+<p>Otros usos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Actividades extractivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercios.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compatible con vivienda</p>
-<p class="cuerpo_tabla_izq">No compatible con vivienda.</p>
+<p>(2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Terciario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Urbano</p>
-<p class="cuerpo_tabla_izq">Industrial.</p>
+<p>Oficinas.</p>
+</td>
+<td>
+<p>Compatible con vivienda</p>
+<p>No compatible con vivienda.</p>
+</td>
+<td>
+<p>Urbano</p>
+<p>Industrial.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Comercios.</p>
+</td>
+<td>
+<p>Compatible con vivienda</p>
+<p>No compatible con vivienda.</p>
+</td>
+<td>
+<p>Urbano</p>
+<p>Industrial.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Equipamiento comunitario.</p>
+<p>Equipamiento comunitario.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Deportivo.</p>
+<p>Deportivo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Al aire libre.</p>
+<p>Al aire libre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(2)</p>
+<p>(2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Otros.</p>
+<p>Otros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Docente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Preescolar, primaria.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Urbano (3).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Otros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Urbano (3).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Sanitario.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Urbano.</p>
+<p>(2)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Asistencial.</p>
+<p>Docente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Para adultas y adultos.</p>
+<p>Preescolar, primaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Urbano.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Para niñas y niños.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Urbano.</p>
+<p>Urbano (3).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cultural, espectáculos, religioso, universitario, genérico, administración.</p>
+<p>Otros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compatible con vivienda</p>
-<p class="cuerpo_tabla_izq">No compatible con vivienda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Urbano</p>
-<p class="cuerpo_tabla_izq">Industrial.</p>
+<p>Urbano (3).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Espacios libres.</p>
+<p>Sanitario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Urbano.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Asistencial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Parque público (1) (3).</p>
+<p>Para adultas y adultos.</p>
+</td>
+<td>
+<p>Urbano.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Comunicaciones.</p>
+<p>Para niñas y niños.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(2)</p>
+<p>Urbano.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Infraestructuras.</p>
+<p>Cultural, espectáculos, religioso, universitario, genérico, administración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Compatible con vivienda</p>
+<p>No compatible con vivienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Urbano</p>
+<p>Industrial.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Espacios libres.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(2)</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Parque público (1) (3).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Comunicaciones.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Infraestructuras.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(2)</p>
 </td>
 </tr>
 </tbody>

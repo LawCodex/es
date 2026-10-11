@@ -4218,69 +4218,65 @@ Uno. Se modifica el apartado 7 del artículo 3, quedando redactado como sigue:
 
 Dos. Se modifica el anexo II cuadro tercero, quedando redactado como sigue:
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_redonda">«Convalidaciones de los módulos profesionales de Inglés</p>
+> <p>«Convalidaciones de los módulos profesionales de Inglés</p>
 > </caption>
-> <colgroup>
-> <col width="69%">
-> <col width="31%">
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Formación aportada</th>
-> <th class="cabeza_tabla">Formación a convalidar</th>
+> <th>Formación aportada</th>
+> <th>Formación a convalidar</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990</th>
-> <th class="cabeza_tabla">Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006</th>
+> <th>Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990</th>
+> <th>Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">Grado Medio</td>
+> <td colspan="2">Grado Medio</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas).</p>
-> <p class="cuerpo_tabla_izq">Cuando la lengua extranjera cursada y superada sea inglés.</p>
+> <td>
+> <p>Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas).</p>
+> <p>Cuando la lengua extranjera cursada y superada sea inglés.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">0156. Inglés Profesional.</td>
+> <td>0156. Inglés Profesional.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Lengua Extranjera o de la C.A.</p>
-> <p class="cuerpo_tabla_izq">Cuando la lengua extranjera cursada y superada sea inglés.</p>
+> <td>
+> <p>Lengua Extranjera o de la C.A.</p>
+> <p>Cuando la lengua extranjera cursada y superada sea inglés.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">0156. Inglés Profesional.</td>
+> <td>0156. Inglés Profesional.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Módulos Profesionales de Lengua.</p>
-> <p class="cuerpo_tabla_izq">Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.</p>
+> <td>
+> <p>Módulos Profesionales de Lengua.</p>
+> <p>Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">0156. Inglés Profesional.</td>
+> <td>0156. Inglés Profesional.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">Grado Superior</td>
+> <td colspan="2">Grado Superior</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Lengua Extranjera (Inglés).</td>
-> <td class="cuerpo_tabla_izq">0179. Inglés Profesional.</td>
+> <td>Lengua Extranjera (Inglés).</td>
+> <td>0179. Inglés Profesional.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas).</p>
-> <p class="cuerpo_tabla_izq">Cuando la lengua extranjera cursada y superada sea inglés.</p>
+> <td>
+> <p>Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas).</p>
+> <p>Cuando la lengua extranjera cursada y superada sea inglés.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">0179. Inglés Profesional.</td>
+> <td>0179. Inglés Profesional.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Lengua Extranjera en Comercio Internacional.</p>
-> <p class="cuerpo_tabla_izq">Cuando la lengua extranjera cursada y superada sea inglés.</p>
+> <td>
+> <p>Lengua Extranjera en Comercio Internacional.</p>
+> <p>Cuando la lengua extranjera cursada y superada sea inglés.</p>
 > </td>
-> <td class="cuerpo_tabla_izq">0179 Inglés Profesional.»</td>
+> <td>0179 Inglés Profesional.»</td>
 > </tr>
 > </tbody>
 > </table>

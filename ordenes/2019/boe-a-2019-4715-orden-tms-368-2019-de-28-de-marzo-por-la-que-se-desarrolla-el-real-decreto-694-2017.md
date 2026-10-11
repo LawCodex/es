@@ -94,16 +94,6 @@ b) Las becas, ayudas de transporte, manutención y alojamiento y ayudas que perm
 
 c) La percepción económica de hasta el 75 por ciento del "Indicador público de renta de efectos múltiples" (IPREM) diario a las personas desempleadas de las ciudades de Ceuta y Melilla por día de asistencia a las acciones de formación en el trabajo en que participen, así como las personas desempleadas pertenecientes a alguno de los colectivos de atención prioritaria previstos en el artículo 50 de la Ley 3/2023, de 28 de febrero, de Empleo, cuando en este último supuesto así lo establezca la convocatoria de subvenciones o norma reguladora de la correspondiente iniciativa o programa.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.1 de la Orden TES/1582/2025, de 30 de diciembre, [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326), entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "4. Asimismo serán objeto de financiación al amparo de esta orden:
-
-> a) La compensación a las empresas por la realización de prácticas profesionales no laborales y del módulo de formación práctica en centros de trabajo de los certificados de profesionalidad, en los términos del artículo 19.
-
-> b) Las becas, ayudas de transporte, manutención y alojamiento y ayudas que permitan conciliar la asistencia a la formación con el cuidado de hijos menores de 12 años o de familiares dependientes, que se concedan a los desempleados que participen en las acciones formativas, en los términos de los artículos 20, 21, 22 y 23."
-
 5\. Quedan excluidas de la regulación establecida en esta orden, a excepción de los aspectos que resulten de aplicación del Capítulo V, referido a calidad, evaluación, seguimiento y control de la oferta formativa, las siguientes iniciativas y programas:
 
 a) La formación programada por las empresas, para sus trabajadores, y los permisos individuales de formación, que se regularán y financiarán de acuerdo con lo establecido respecto de estas iniciativas en la Ley 30/2015 de 9 de septiembre y en el Real Decreto 694/2017, de 3 de julio, y en su normativa de desarrollo específica.
@@ -289,22 +279,6 @@ A las modificaciones que afecten exclusivamente al número de participantes en l
 Las solicitudes de modificación serán resueltas por el órgano concedente de la subvención. En todo caso, la modificación solo podrá autorizarse si no daña derechos de terceros y no afecta a la valoración técnica obtenida por la solicitud presentada por el beneficiario.
 
 El órgano competente dictará resolución, de forma motivada, aceptando o denegando la modificación propuesta en el plazo de dos meses desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación, salvo que la convocatoria establezca un plazo inferior. Una vez transcurrido dicho plazo sin haberse notificado resolución expresa, la solicitud podrá entenderse desestimada. Las resoluciones podrán retrotraer sus efectos, como máximo, al momento de la presentación de la solicitud de modificación.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. único.2 de la Orden TES/1582/2025, de 30 de diciembre, [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326), entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "3. Una vez recaída la resolución de concesión, el beneficiario podrá solicitar la modificación o modificaciones de la misma. Cualquier modificación, incluida la ampliación del plazo de ejecución del programa formativo, podrá solicitarse cuando concurran circunstancias de toda índole, excepcionales y ajenas al beneficiario, especialmente por razones sanitarias, catástrofes naturales o cualesquiera otras de naturaleza análoga que se puedan incluir en la resolución de la Convocatoria, que imposibiliten la realización de la formación en las condiciones establecidas en la resolución de concesión.
-
-> La petición deberá fundamentarse, mediante memoria justificativa, en circunstancias sobrevenidas tras la resolución y durante el plazo de ejecución de la actividad subvencionada para cada entidad beneficiaria y habrá de formalizarse con carácter inmediato a su acaecimiento y, en todo caso, antes de la finalización del citado plazo de ejecución.
-
-> En el caso de modificaciones en los porcentajes de ejecución de las entidades agrupadas, dichas modificaciones no deberán suponer minoración en la valoración técnica obtenida en la solicitud de la subvención.
-
-> A las modificaciones que afecten exclusivamente al número de participantes en las acciones formativas no les será de aplicación lo dispuesto en este apartado, siempre que no suponga minoración de la valoración técnica obtenida en la solicitud de subvención.
-
-> Las solicitudes de modificación serán resueltas por el órgano concedente de la subvención. En todo caso, la modificación solo podrá autorizarse si no daña derechos de terceros y no afecta a la valoración técnica obtenida por la solicitud presentada por el beneficiario.
-
-> El órgano competente dictará resolución, de forma motivada, aceptando o denegando la modificación propuesta en el plazo de dos meses desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación, salvo que la convocatoria establezca un plazo inferior. Una vez transcurrido dicho plazo sin haberse notificado resolución expresa, la solicitud podrá entenderse desestimada. Las resoluciones podrán retrotraer sus efectos, como máximo, al momento de la presentación de la solicitud de modificación."
 
 > Se modifica el apartado 3 por el art. único.2 de la Orden TES/1582/2025, de 30 de diciembre. [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326)
 
@@ -584,12 +558,6 @@ El gasto real de alojamiento se justificará por medio del contrato de arrendami
 
 1\. Las personas trabajadoras desempleadas que participen en la oferta formativa prevista en esta orden podrán tener derecho a ayudas a la conciliación. Estas ayudas tienen por objeto permitir a las personas desempleadas conciliar su asistencia a la formación con el cuidado de hijos o hijas menores de 12 años o de familiares dependientes hasta el segundo grado, siempre que al inicio de la acción formativa cumplan el requisito de carecer de rentas de cualquier clase superiores al 75 por ciento del "Indicador Público de Renta de Efectos Múltiples" (IPREM) o, en el caso de que sean personas beneficiarias del subsidio por desempleo, que carezcan de rentas de cualquier clase superiores al porcentaje que respecto al citado indicador perciban como prestación por desempleo de nivel asistencial. A estos efectos, computará como renta el importe de los salarios sociales, las rentas mínimas de inserción o las ayudas análogas de asistencia social concedidas por las comunidades autónomas.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.3 de la Orden TES/1582/2025, de 30 de diciembre, [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326), entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "1. Los trabajadores desempleados que participen en la oferta formativa prevista en esta orden podrán tener derecho a ayudas a la conciliación. Estas ayudas tienen por objeto permitir a las personas desempleadas conciliar su asistencia a la formación con el cuidado de hijos menores de 12 años o de familiares dependientes hasta el segundo grado, siempre que al inicio de la acción formativa cumplan el requisito de carecer de rentas de cualquier clase superiores al 75 por ciento del «Indicador Público de Renta de Efectos Múltiples» (IPREM). A estos efectos, computará como renta el importe de los salarios sociales, las rentas mínimas de inserción o las ayudas análogas de asistencia social concedidas por las Comunidades Autónomas."
-
 2\. A efectos de esta ayuda a la conciliación el trabajador desempleado deberá presentar la documentación acreditativa que establezca la Administración Pública competente.
 
 3\. La cuantía máxima de la ayuda a la conciliación contemplada en este artículo será la establecida en el anexo II de esta orden.
@@ -746,20 +714,6 @@ Estos módulos se podrán incrementar por las Administraciones públicas compete
 
 En todo caso, los módulos económicos aplicables serán los vigentes en el momento de la aprobación de la correspondiente convocatoria o instrumento jurídico; o bien, de no existir los anteriores, los vigentes en el momento de iniciarse la correspondiente acción formativa.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.4 de la Orden TES/1582/2025, de 30 de diciembre, [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326), entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "1. Los módulos económicos máximos (coste por participante y hora de formación) aplicables a efectos de la determinación y justificación de las subvenciones, u otros instrumentos jurídicos, para la financiación de la oferta formativa, serán los siguientes:
-
-> Modalidad presencial: 13 euros.
-
-> Modalidad de teleformación: 7,5 euros.
-
-> Modalidad mixta: se aplicarán los módulos anteriores, en función de las horas de formación en cada una de las modalidades de teleformación o presencial que tenga la acción formativa.
-
-> Estos módulos se podrán incrementar por las Administraciones Públicas competentes hasta en un 50 por 100, en función de la singularidad de determinadas acciones formativas que por su especialidad y características técnicas precisen de una financiación mayor."
-
 2\. No será obligatoria la aplicación de estos módulos máximos en los supuestos contemplados en los apartados 3 y 4 del artículo 2 de esta Orden.
 
 3\. En las acciones formativas dirigidas a la obtención de certificados de profesionalidad serán de aplicación los módulos máximos establecidos en su normativa reguladora, incluido el referido a las subvenciones a los centros o entidades de formación para la financiación del tutor del módulo de formación práctica en centros de trabajo previstas en el artículo 5 bis.3 del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad.
@@ -799,8 +753,6 @@ Las Administraciones Públicas competentes podrán destinar hasta un máximo de 
 4\. Asimismo, tendrán derecho a una percepción económica de hasta el 75 por ciento del "Indicador público de renta de efectos múltiples" (IPREM) diario las personas desempleadas de las ciudades de Ceuta y Melilla por día de asistencia a las acciones de formación en el trabajo en que participen, así como las personas desempleadas pertenecientes a alguno de los colectivos de atención prioritaria previstos en el artículo 50 de la Ley 3/2023, de 28 de febrero, de Empleo, cuando en este último supuesto así lo establezca la convocatoria de subvenciones o la norma reguladora de la correspondiente iniciativa o programa.
 
 Esta percepción económica será incompatible con las becas, ayudas de transporte y de conciliación previstas en los apartados anteriores, así como con la percepción de cualquier prestación de carácter social como el ingreso mínimo vital o prestaciones análogas promovidas por las comunidades autónomas, con excepción de la prestación por desempleo de nivel contributivo o asistencial.
-
-> Téngase en cuenta que el apartado 4, añadido por el art. único.5 de la Orden TES/1582/2025, de 30 de diciembre, [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326), entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
 
 > Se añade el apartado 4 por el art. único.5 de la Orden TES/1582/2025, de 30 de diciembre. [Ref. BOE-A-2026-326](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-326)
 

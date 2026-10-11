@@ -278,34 +278,6 @@ c) Que en ningún caso transporten personas en el vehículo remolcado.
 
 En circulación urbana se estará a lo dispuesto por las ordenanzas municipales correspondientes.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.1 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 12. Normas relativas a ciclos, ciclomotores y motocicletas.**
-
-> 1\. Los ciclos que, por construcción, no puedan ser ocupados por más de una persona podrán transportar, no obstante, cuando el conductor sea mayor de edad, un menor de hasta siete años en asiento adicional que habrá de ser homologado.
-
-> 2\. En los ciclomotores y en las motocicletas, además del conductor y, en su caso, del ocupante del sidecar de éstas, puede viajar, siempre que así conste en su licencia o permiso de circulación, un pasajero que sea mayor de 12 años, utilice casco de protección y cumpla las siguientes condiciones:
-
-> a) Que vaya a horcajadas y con los pies apoyados en los reposapiés laterales.
-
-> b) Que utilice el asiento correspondiente detrás del conductor.
-
-> En ningún caso podrá situarse el pasajero en lugar intermedio entre la persona que conduce y el manillar de dirección del ciclomotor o motocicleta.
-
-> 3\. Excepcionalmente, los mayores de siete años podrán circular en motocicletas o ciclomotores conducidos por su padre, madre o tutor o por personas mayores de edad por ellos autorizadas, siempre que utilicen casco homologado y se cumplan las prescripciones del apartado anterior (artículo 11.4 del texto articulado).
-
-> 4\. Las motocicletas, los vehículos de tres ruedas, los ciclomotores y los ciclos y bicicletas podrán arrastrar un remolque o semirremolque, siempre que no superen el 50 por ciento de la masa en vacío del vehículo tractor y se cumplan las siguientes condiciones:
-
-> a) Que la circulación sea de día y en condiciones que no disminuyan la visibilidad.
-
-> b) Que la velocidad a que se circule en estas condiciones quede reducida en un 10 por ciento respecto a las velocidades genéricas que para estos vehículos se establecen en el artículo 48.
-
-> c) Que en ningún caso transporten personas en el vehículo remolcado.
-
-> En circulación urbana se estará a lo dispuesto por las ordenanzas correspondientes."
-
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.1 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 ##### Sección 2.ª Transporte de mercancías o cosas
@@ -409,18 +381,6 @@ Quedan exentos de estas prohibiciones los agentes de la autoridad en el ejercici
 3\. Se prohíbe instalar o llevar en los vehículos inhibidores de radares o cinemómetros o cualesquiera otros instrumentos encaminados a eludir o a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, así como emitir o hacer señales con dicha finalidad. Asimismo, se prohíbe llevar en el vehículo mecanismos de detección de radares o cinemómetros.
 
 Quedan excluidos de esta prohibición los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico.
-
-> Téngase en cuenta que esta actualización de los apartados 2 y 3, establecida por el art. único.2 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Queda prohibido conducir y utilizar cascos o auriculares conectados a aparatos receptores o reproductores de sonido, excepto durante la correspondiente enseñanza y la realización de las pruebas de aptitud en circuito abierto para la obtención del permiso de conducción de motocicletas de dos ruedas cuando así lo exija el Reglamento General de Conductores.
-
-> Se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil y cualquier otro medio o sistema de comunicación, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares (artículo 11.3, párrafo segundo, del texto articulado).
-
-> Quedan exentos de dicha prohibición los agentes de la autoridad en el ejercicio de las funciones que tengan encomendadas (artículo 11.3, párrafo tercero, del texto articulado).
-
-> 3\. Se prohíbe que en los vehículos se instalen mecanismos o sistemas, se lleven instrumentos o se acondicionen de forma encaminada a eludir la vigilancia de los agentes de tráfico, o que se emitan o hagan señales con dicha finalidad, así como la utilización de mecanismos de detección de radar."
 
 4\. Las infracciones a este precepto tendrán la consideración de graves conforme se prevé en el artículo 65.4.f) y g) del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial.
 
@@ -574,12 +534,6 @@ En dichas calzadas, el carril central tan sólo se utilizará para efectuar los 
 
 2\. Cuando una de dichas calzadas tenga tres o más carriles en el sentido de su marcha, los conductores de camiones o furgones con masa máxima autorizada superior a 3.500 kilogramos, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de siete metros de longitud circularán normalmente por el situado más a la derecha, y podrán utilizar el inmediato con igual condición y en las mismas circunstancias citadas en el apartado anterior.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.3 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "El conductor de un automóvil o de un vehículo especial con masa máxima autorizada superior a 3.500 kilogramos circulará por la calzada y no por el arcén, salvo por razones de emergencia. Además, fuera de poblado, en las calzadas con más de un carril reservado para su sentido de marcha, circulará normalmente por el situado más a su derecha, si bien podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga."
-
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.3 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 32. Carriles de emergencia.**
@@ -591,14 +545,6 @@ En las autopistas y autovías que tengan dos carriles en el mismo sentido, el ca
 En las autopistas y autovías que tengan tres o más carriles en el mismo sentido, el carril de emergencia deberá formarse entre el carril situado más a la izquierda y el carril contiguo a él. Los vehículos que circulen en el carril situado más a la izquierda deberán moverse lo más a la izquierda posible y los vehículos que circulen en los demás carriles deberán moverse lo más a la derecha posible.
 
 2\. En autopistas y autovías, cuando la circulación se vea dificultada por las condiciones de la calzada a causa de la nieve, estará prohibido adelantar y será obligatorio circular por el carril situado más a la derecha, pudiendo utilizar su contiguo en tramos con tres o más carriles por sentido, dejando expeditos para la circulación de vehículos de emergencia y quitanieves el resto de carriles a la izquierda.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.4 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 32. Utilización de los carriles, fuera de poblado, en calzadas con tres o más carriles para el mismo sentido de marcha.**
-
-> Cuando una de dichas calzadas tenga tres o más carriles en el sentido de su marcha, los conductores de camiones o furgones con masa máxima autorizada superior a 3.500 kilogramos, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de siete metros de longitud circularán normalmente por el situado más a su derecha, y podrán utilizar el inmediato con igual condición y en las mismas circunstancias citadas en el artículo 31."
 
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.4 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -627,16 +573,6 @@ c) Los vehículos de policía, extinción de incendios, protección civil y salv
 d) El organismo autónomo Jefatura Central de Tráfico o, en su caso, la autoridad autonómica o local responsable de la regulación del tráfico, previo informe vinculante del organismo titular de la carretera, determinará los tramos de la red viaria en los que funcionarán carriles reservados para VAO, fijará las condiciones de utilización y publicará, en la forma prevista en el artículo 39.4, la relación de tramos de la red viaria en los que se habiliten dichos carriles.
 
 3\. Las infracciones a las normas establecidas en el apartado 2 relativas a la utilización de carriles tendrán la consideración de graves, conforme se prevé en el artículo 76.c) del texto refundido.
-
-> Téngase en cuenta que esta actualización de los apartados 2.a) y 3, establecida por el art. único.5 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2.a) La utilización del carril habilitado para VAO queda limitada a motocicletas, turismos y vehículos mixtos adaptables, y está prohibida, por tanto, al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque, así como a peatones, ciclos, ciclomotores, vehículos de tracción animal y animales.
-
-> Los carriles para VAO podrán ser utilizados por los vehículos autorizados de acuerdo con el párrafo anterior, aun cuando sólo lo ocupe su conductor, si el vehículo ostenta la señal V-15, y por autobuses con masa máxima autorizada superior a 3.500 kilogramos y autobuses articulados, con independencia de su número de ocupantes, en las mismas condiciones de circulación establecidas para los VAO, de forma simultánea si así se indica en la relación de tramos a que se refiere el párrafo d)."
-
-> "3. Las infracciones a las normas establecidas en el apartado 2 relativas a la circulación en sentido contrario al establecido tendrán la consideración de muy graves, conforme se prevé en el artículo 65.5.f) del texto articulado."
 
 > Se modifican los apartados 2.a) y 3, con efectos de 1 de octubre de 2026, por el art. único.5 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -676,26 +612,6 @@ b) No circulen a velocidad superior a 30 km/h, excepto los vehículos prioritari
 
 7\. Las infracciones a lo dispuesto en el apartado 5 tendrán la consideración de graves, conforme a lo dispuesto en el artículo 76.c) del texto refundido.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.6 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 36. Conductores obligados a su utilización.**
-
-> 1\. Los conductores de vehículos de tracción animal, vehículos especiales con masa máxima autorizada no superior a 3.500 kilogramos, ciclos, ciclomotores, vehículos para personas de movilidad reducida o vehículos en seguimiento de ciclistas, en el caso de que no exista vía o parte de ella que les esté especialmente destinada, circularán por el arcén de su derecha, si fuera transitable y suficiente para cada uno de éstos, y, si no lo fuera, utilizarán la parte imprescindible de la calzada. Deberán también circular por el arcén de su derecha, o, en las circunstancias a que se refiere este apartado, por la parte imprescindible de la calzada, los conductores de aquellos vehículos cuya masa máxima autorizada no exceda de 3.500 kilogramos que, por razones de emergencia, lo hagan a velocidad anormalmente reducida, perturbando con ello gravemente la circulación.
-
-> En los descensos prolongados con curvas, cuando razones de seguridad lo permitan, los conductores de bicicletas podrán abandonar el arcén y circular por la parte derecha de la calzada que necesiten.
-
-> 2\. Se prohíbe que los vehículos enumerados en el apartado anterior circulen en posición paralela, salvo las bicicletas, que podrán hacerlo en columna de a dos, orillándose todo lo posible al extremo derecho de la vía y colocándose en hilera en tramos sin visibilidad, y cuando formen aglomeraciones de tráfico. En las autovías sólo podrán circular por el arcén, sin invadir la calzada en ningún caso.
-
-> Excepcionalmente, cuando el arcén sea transitable y suficiente, los ciclomotores podrán circular en columna de a dos por éste, sin invadir la calzada en ningún caso.
-
-> 3\. El conductor de cualquiera de los vehículos enumerados en el apartado 1, excepto las bicicletas, no podrá adelantar a otro si la duración de la marcha de los vehículos colocados paralelamente excede los 15 segundos o el recorrido efectuado en dicha forma supera los 200 metros.
-
-> 4\. Por lo que respecta a los vehículos históricos se estará a lo dispuesto en su reglamento específico.
-
-> 5\. Las infracciones a lo dispuesto en el apartado 3 tendrán la consideración de graves, conforme lo dispuesto en el artículo 65.4.c) del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial."
-
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.6 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 ##### Sección 4.ª Supuestos especiales del sentido de circulación y de la utilización de calzadas, carriles y arcenes
@@ -733,12 +649,6 @@ a) Por autopistas y autovías.
 b) Por travesías.
 
 c) Por vías interurbanas y por túneles urbanos, salvo que se trate de vías ciclistas, carriles bici, carriles bici protegidos, pistas bici, sendas ciclables y vías en las que esté prohibida la circulación de vehículos de motor, siempre que no esté prohibido por la señalización.
-
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.7 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4. Se prohíbe circular por travesías, vías interurbanas y autopistas y autovías que transcurren dentro de poblado con vehículos de movilidad personal. Asimismo, queda prohibida la circulación de estos vehículos en túneles urbanos."
 
 > Se modifica el apartado 4, con efectos de 1 de octubre de 2026, por el art. único.7 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -844,12 +754,6 @@ e) Al aproximarse a un autobús en situación de parada, principalmente si se tr
 
 f) Fuera de poblado al acercarse a vehículos inmovilizados en la calzada, a vehículos de auxilio prestando servicio y a ciclos que circulan por ella o por su arcén.
 
-> Téngase en cuenta que esta última actualización de la letra f), establecida por la disposición final 1.1 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194), entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "f) Fuera de poblado al acercarse a vehículos inmovilizados en la calzada y a ciclos que circulan por ella o por su arcén."
-
 g) Al circular por pavimento deslizante o cuando pueda salpicarse o proyectarse agua, gravilla u otras materias a los demás usuarios de la vía.
 
 h) Al aproximarse a pasos a nivel, a glorietas e intersecciones en que no se goce de prioridad, a lugares de reducida visibilidad o a estrechamientos.
@@ -890,14 +794,6 @@ a)
 b) Para los vehículos que realicen transporte escolar y de menores o que transporten mercancías peligrosas, se reducirá en 10 kilómetros por hora la velocidad máxima fijada en el párrafo a) en función del tipo de vehículo y de la vía por la que circula.
 
 En el supuesto de que en un autobús viajen pasajeros de pie porque así esté autorizado o en caso de que el autobús no esté dotado de cinturón de seguridad, la velocidad máxima, cualquiera que sea el tipo de vía fuera de poblado, será de 80 kilómetros por hora.
-
-> Téngase en cuenta que esta actualización de la letra b) del apartado 1, establecida por el art. único.8 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "b) Para los vehículos que realicen transporte escolar y de menores o que transporten mercancías peligrosas, se reducirá en 10 kilómetros por hora la velocidad máxima fijada en el párrafo a) en función del tipo de vehículo y de la vía por la que circula.
-
-> En el supuesto de que en un autobús viajen pasajeros de pie porque así esté autorizado o en caso de que el autobús no esté dotado de cinturón de seguridad, la velocidad máxima en vías convencionales será de 80 kilómetros por hora."
 
 c) Para vehículos especiales y conjuntos de vehículos, también especiales, aunque sólo tenga tal naturaleza uno de los que integran el conjunto:
 
@@ -965,22 +861,6 @@ A estos efectos, los carriles reservados para la circulación de determinados us
 
 8\. Las infracciones a las normas de este precepto tendrán la consideración de graves conforme se prevé en el artículo 76. a), salvo que tengan la consideración de muy graves, de conformidad con lo dispuesto en el artículo 77.a), ambos del texto refundido de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.2 del Real Decreto 970/2020, de 10 de noviembre. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969), entra en vigor el 11 de mayo de 2021, según establece su disposición final única.
-
-> Redacción anterior:
-
-> **"Artículo 50. Límites de velocidad en vías urbanas y travesías.**
-
-> 1\. La velocidad máxima que no deberán rebasar los vehículos en vías urbanas y travesías se establece, con carácter general, en 50 kilómetros por hora, salvo para los vehículos que transporten mercancías peligrosas, que circularán como máximo a 40 kilómetros por hora.
-
-> Estos límites podrán ser rebajados en travesías especialmente peligrosas por acuerdo de la autoridad municipal con el titular de la vía, y en las vías urbanas, por decisión del órgano competente de la corporación municipal.
-
-> En las mismas condiciones, los límites podrán ser ampliados mediante el empleo de la correspondiente señalización, en las travesías y en las autopistas y autovías dentro de poblado, sin rebasar en ningún caso los límites genéricos establecidos para dichas vías fuera de poblado. En defecto de señalización, la velocidad máxima que no deberán rebasar los vehículos en autopistas y autovías dentro de poblado será de 80 kilómetros por hora.
-
-> Los autobuses que transporten pasajeros de pie con autorización no podrán superar en ninguna circunstancia la velocidad máxima establecida en el artículo 48.1.b) para los casos contemplados en el párrafo anterior.
-
-> 2\. Las infracciones a las normas de este precepto tendrán la consideración de graves conforme se prevé en el artículo 65.4.c), salvo que tengan la consideración de muy graves, de conformidad con lo dispuesto en el artículo 65.5.e), ambos del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial."
-
 > Se modifica por el art. 1.2 del Real Decreto 970/2020, de 10 de noviembre. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969).
 
 > Esta modificación entra en vigor el 11 de mayo de 2021, según establece la disposición final única del citado real decreto.
@@ -988,14 +868,6 @@ A estos efectos, los carriles reservados para la circulación de determinados us
 **Artículo 51. Velocidades máximas en adelantamientos.**
 
 **(Derogado).**
-
-> Téngase en cuenta que esta derogación, establecida por la disposición derogatoria única.2 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006), entra en vigor el 21 de marzo de 2022, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> 1\. Las velocidades máximas fijadas para las carreteras convencionales que no discurran por suelo urbano sólo podrán ser rebasadas en 20 kilómetros por hora por turismos y motocicletas cuando adelanten a otros vehículos que circulen a velocidad inferior a aquéllas (artículo 19.4 del texto articulado).
-
-> 2\. Las infracciones a las normas de este precepto tendrán la consideración de graves conforme se prevé en el artículo 65.4.c), salvo que tengan la consideración de muy graves, de conformidad con lo dispuesto en el artículo 65.5.e), ambos del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial.
 
 > Se deroga por la disposición derogatoria única.2 de la Ley 18/2021, de 20 de diciembre. [Ref. BOE-A-2021-21006](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006)
 
@@ -1189,22 +1061,6 @@ c) Cuando circulando en grupo, el primero haya iniciado ya el cruce o haya entra
 
 En los demás casos serán aplicables las normas generales de prioridad de paso entre vehículos.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.9 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Como regla general, y siempre que sus trayectorias se corten, los conductores tienen prioridad de paso para sus vehículos en la calzada y en el arcén, respecto de los peatones y animales, salvo en los casos enumerados en los artículos 65 y 66, en que deberán dejarlos pasar, llegando a detenerse si fuera necesario.
-
-> Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor:
-
-> a) Cuando circulen por un carril bici, paso para ciclistas o arcén debidamente señalizados.
-
-> b) Cuando para entrar en otra vía el vehículo de motor gire a derecha o izquierda, en los supuestos permitidos, y haya un ciclista en sus proximidades.
-
-> c) Cuando circulando en grupo, el primero haya iniciado ya el cruce o haya entrado en una glorieta.
-
-> En los demás casos serán aplicables las normas generales sobre prioridad de paso entre vehículos."
-
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.9 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 65. Supuestos de prioridad de paso de los peatones sobre los conductores.**
@@ -1224,30 +1080,6 @@ e) Cuando transiten unidades militares a pie, filas escolares y comitivas organi
 2\. En las zonas peatonales, cuando los vehículos las crucen por las zonas habilitadas al efecto, los conductores tienen la obligación de dejar pasar a los peatones que circulen por ellas (artículo 25.2 del texto refundido).
 
 3\. Las infracciones a las normas de este precepto tendrán la consideración de graves, conforme se prevé en el artículo 76.c) del texto refundido.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.10 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 65. Prioridad de paso de los conductores sobre los peatones.**
-
-> 1\. Los conductores tienen prioridad de paso para sus vehículos, respecto de los peatones, salvo en los casos siguientes:
-
-> a) En los pasos para peatones debidamente señalizados.
-
-> b) Cuando vayan a girar con su vehículo para entrar en otra vía y haya peatones cruzándola, aunque no exista paso para éstos.
-
-> c) Cuando el vehículo cruce un arcén por el que estén circulando peatones que no dispongan de zona peatonal (artículo 23.1 del texto articulado).
-
-> 2\. En las zonas peatonales, cuando los vehículos las crucen por los pasos habilitados al efecto, los conductores tienen la obligación de dejar pasar a los peatones que circulen por ellas (artículo 23.2 del texto articulado).
-
-> 3\. También deberán ceder el paso:
-
-> a) A los peatones que vayan a subir o hayan bajado de un vehículo de transporte colectivo de viajeros, en una parada señalizada como tal, cuando se encuentren entre dicho vehículo y la zona peatonal o refugio más próximo.
-
-> b) A las tropas en formación, filas escolares o comitivas organizadas (artículo 23.3 del texto articulado).
-
-> 4\. Las infracciones a las normas de este precepto tendrán la consideración de graves, conforme se prevé en el artículo 65.4.c) del texto articulado."
 
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.10 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -1298,12 +1130,6 @@ Por excepción de lo dispuesto en el párrafo anterior, los conductores de los v
 **Artículo 69. Comportamiento de los demás conductores respecto de los vehículos prioritarios.**
 
 Tan pronto perciban las señales especiales que anuncien la proximidad de un vehículo prioritario, los demás conductores adoptarán las medidas adecuadas, según las circunstancias del momento y lugar, para facilitarles el paso, apartándose normalmente a su derecha o deteniéndose si fuera preciso, o actuando conforme a lo dispuesto en el artículo 32.
-
-> Téngase en cuenta que esta actualización del primer párrafo, establecida por el art. único.11 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Tan pronto perciban las señales especiales que anuncien la proximidad de un vehículo prioritario, los demás conductores adoptarán las medidas adecuadas, según las circunstancias del momento y lugar, para facilitarles el paso, apartándose normalmente a su derecha o deteniéndose si fuera preciso."
 
 Cuando un vehículo de policía que manifiesta su presencia según lo dispuesto en el artículo 68.2 se sitúa detrás de cualquier otro vehículo y activa además un dispositivo de emisión de luz roja hacia adelante de forma intermitente o destellante, el conductor de este deberá detenerlo con las debidas precauciones en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios, y permanecerá en su interior. En todo momento el conductor ajustará su comportamiento a las instrucciones que imparta el agente a través de la megafonía o por cualquier otro medio que pueda ser percibido claramente por aquel.
 
@@ -1507,14 +1333,6 @@ Además, si el adelantamiento se efectúa fuera de poblado, antes de iniciar la 
 
 Cuando los conductores de bicicletas circulen en grupo, se considerarán como una única unidad móvil.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.12 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4. Cuando se adelante fuera de poblado a peatones, animales, a vehículos de dos ruedas o de tracción animal, a vehículos inmovilizados en la vía o a los vehículos de auxilio cuando estén realizando operaciones de auxilio y rescate, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada, siempre y cuando existan las condiciones precisas para realizar el adelantamiento en las condiciones previstas en este reglamento; en todo caso, la separación lateral no será inferior a 1,50 metros. Queda expresamente prohibido adelantar poniendo en peligro o entorpeciendo a ciclistas que circulen en sentido contrario.
-
-> Cuando el adelantamiento se efectúe a cualquier otro vehículo distinto de los aludidos en el párrafo anterior, o tenga lugar en poblado, el conductor del vehículo que ha de adelantar dejará un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada."
-
 5\. El conductor de un vehículo de dos ruedas que pretenda adelantar fuera de poblado a otro cualquiera lo hará de forma que entre aquél y las partes más salientes del vehículo que adelanta quede un espacio no inferior a 1,50 metros.
 
 6\. Las infracciones a las normas de este precepto tendrán la consideración de graves, conforme se prevé en el artículo 65.4.c) del texto articulado.
@@ -1553,16 +1371,6 @@ De conformidad con lo dispuesto en el párrafo anterior, se prohíbe, en concret
 
 b) En los pasos para peatones señalizados como tales, en las intersecciones con vías para ciclistas y en los pasos a nivel, y en sus proximidades.
 
-> Téngase en cuenta que esta actualización de la letra b) del apartado 1, establecida por el art. único.13 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "b) En los pasos para peatones señalizados como tales, en las intersecciones con vías para ciclistas, en los pasos a nivel y en sus proximidades (artículo 36.2 del texto articulado).
-
-> No obstante, dicha prohibición no será aplicable cuando el adelantamiento se realice a vehículos de dos ruedas que por sus reducidas dimensiones no impidan la visibilidad lateral, en un paso a nivel o sus proximidades, previas las oportunas señales acústicas u ópticas.
-
-> Tampoco será aplicable dicha prohibición en un paso para peatones señalizado cuando el adelantamiento a cualquier vehículo se realice a una velocidad tan suficientemente reducida que permita detenerse a tiempo si surgiera peligro de atropello."
-
 c) En las intersecciones y en sus proximidades, salvo cuando:
 
 1.º Se trate de una plaza de circulación giratoria o glorieta.
@@ -1588,14 +1396,6 @@ d) En los túneles, pasos inferiores y tramos de vía afectados por la señal «
 2\. Cuando en un tramo de vía en el que esté prohibido el adelantamiento se encuentre inmovilizado un vehículo que, en todo o en parte, ocupe la calzada en el carril del sentido de la marcha, salvo que la inmovilización venga impuesta por necesidades del tráfico, podrá ser rebasado, aunque para ello haya de ocupar la parte de la calzada reservada al sentido contrario, después de haberse cerciorado de que se puede realizar la maniobra sin peligro. Con idénticos requisitos se podrá adelantar a conductores de bicicletas y demás ciclos, ciclomotores, vehículos de movilidad personal, peatones, animales, vehículos de tracción animal y vehículos especiales agrícolas y sus conjuntos cuando por la velocidad a que circulen puedan ser adelantados sin riesgo para ellos ni para la circulación en general.
 
 3\. Las infracciones a las normas de este precepto tendrán la consideración de graves, conforme se prevé en el artículo 76.c) del texto refundido.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.14 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Cuando en un tramo de vía en el que esté prohibido el adelantamiento se encuentre inmovilizado un vehículo que, en todo o en parte, ocupe la calzada en el carril del sentido de la marcha, salvo que la inmovilización venga impuesta por las necesidades del tráfico, podrá ser rebasado, aunque para ello haya que ocupar la parte de la calzada reservada al sentido contrario, después de haberse cerciorado de que se puede realizar la maniobra sin peligro. Con idénticos requisitos se podrá adelantar a conductores de bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal, cuando por la velocidad a que circulen puedan ser adelantados sin riesgo para ellos ni para la circulación en general.
-
-> 2\. Las infracciones a las normas de este precepto tendrán la consideración de graves, conforme se prevé en el artículo 65.4.c) del texto articulado."
 
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.14 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -1681,21 +1481,11 @@ b) Descansando sólo sobre neumáticos, con posibilidad de calzos o cuñas de se
 
 c) Sin verter fluidos procedentes del habitáculo.
 
-> Téngase en cuenta que el apartado 4, añadido por el art. único.15 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
 > Se añade el apartado 4, con efectos de 1 de octubre de 2026, por el art. único.15 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 93. Ordenanzas municipales.**
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo se suprime por el art. único.16 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), con efectos de 1 de octubre de 2026, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "1. El régimen de parada y estacionamiento en vías urbanas se regulará por ordenanza municipal, y podrán adoptarse las medidas necesarias para evitar el entorpecimiento del tráfico, entre ellas limitaciones horarias de duración del estacionamiento, así como las medidas correctoras precisas, incluida la retirada del vehículo o su inmovilización cuando no se halle provisto de título que habilite el estacionamiento en zonas limitadas en tiempo o excedan de la autorización concedida hasta que se logre la identificación del conductor (artículo 38.4 del texto articulado).
-
-> 2\. En ningún caso podrán las ordenanzas municipales oponerse, alterar, desvirtuar o inducir a confusión con los preceptos de este reglamento."
 
 > Se suprime, con efectos de 1 de octubre de 2026, por el art. único.16 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -1793,12 +1583,6 @@ b) Si es posible, dirigir el vehículo hacia la zona reservada para emergencia m
 
 c) Colocar y activar el dispositivo luminoso de preseñalización de peligro.
 
-> Téngase en cuenta que esta última actualización de la letra c) del apartado 3, establecida por la disposición final 1.3 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194), entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "c) Colocar correctamente sobre la calzada los dispositivos de preseñalización de peligro."
-
 d) Solicitar auxilio sin demora a través del poste de socorro (poste SOS) más próximo, si existe, y seguir las instrucciones que a través de él se le hagan llegar.
 
 e) Tanto el conductor como los demás ocupantes abandonarán el vehículo, dirigiéndose rápidamente al refugio o salida más próximos, sin que en ningún caso se transite por la calzada si existen zonas excluidas a la circulación de vehículos.
@@ -1822,14 +1606,6 @@ Si por necesidades de la circulación un vehículo queda inmovilizado en el inte
 2\. La regulación de los sistemas de alumbrado que no estén prohibidos, o en todo lo que no esté expresamente previsto en este capítulo o en otros preceptos de este reglamento, se ajustará a lo dispuesto en las normas reguladoras de los vehículos.
 
 3\. **(Suprimido)**
-
-> Téngase en cuenta que se suprime el apartado 3 por el art. único.17 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), con efectos de 1 de octubre de 2026, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "3. Las bicicletas, además, estarán dotadas de los elementos reflectantes que, debidamente homologados, se determinan en el Reglamento General de Vehículos.
-
-> Cuando sea obligatorio el uso del alumbrado, los conductores de bicicletas llevarán, además, colocada alguna prenda reflectante que permita a los conductores y demás usuarios distinguirlos a una distancia de 150 metros, si circulan por vía interurbana."
 
 > Se suprime el apartado 3, con efectos de 1 de octubre de 2026, por el art. único.17 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2073,22 +1849,6 @@ Asimismo, todos los conductores de estos vehículos que circulen entre el ocaso 
 
 Los conductores que desarrollen su actividad profesional circulando en los vehículos mencionados en los apartados 1, 2 y 3, deberán utilizar un chaleco reflectante de alta visibilidad de acuerdo con los requisitos de los equipos de protección individual, cuando circulen en todo tipo de vías.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.18 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Los conductores y pasajeros de motocicletas o motocicletas con sidecar, de vehículos de tres ruedas y cuadriciclos, de ciclomotores y de vehículos especiales tipo «quad», deberán utilizar adecuadamente cascos de protección homologados o certificados según la legislación vigente, cuando circulen tanto en vías urbanas como en interurbanas.
-
-> Cuando las motocicletas, los vehículos de tres ruedas o los cuadriciclos y los ciclomotores cuenten con estructuras de autoprotección y estén dotados de cinturones de seguridad y así conste en la correspondiente tarjeta de inspección técnica o en el certificado de características de ciclomotor, sus conductores y viajeros quedarán exentos de utilizar el casco de protección, viniendo obligados a usar el referido cinturón de seguridad cuando circulen tanto en vías urbanas como interurbanas.
-
-> Los conductores de bicicletas y, en su caso, los ocupantes estarán obligados a utilizar cascos de protección homologados o certificados según la legislación vigente, cuando circulen en vías interurbanas, salvo en rampas ascendentes prolongadas, o por razones médicas que se acreditarán conforme establece el artículo 119.3, o en condiciones extremas de calor.
-
-> Los conductores de bicicletas en competición, y los ciclistas profesionales, ya sea durante los entrenamientos o en competición, se regirán por sus propias normas.
-
-> 2\. La instalación, en cualquier vehículo, de apoya-cabezas u otros elementos de protección estará subordinada a que cumplan las condiciones que se determinen en las normas reguladoras de vehículos.
-
-> 3\. Los conductores de turismos, de autobuses, de automóviles destinados al transporte de mercancías, de vehículos mixtos, de conjuntos de vehículos no agrícolas, así como los conductores y personal auxiliar de los vehículos piloto de protección y acompañamiento deberán utilizar un chaleco reflectante de alta visibilidad, certificado según el Real Decreto 1407/1992, de 20 de noviembre, por el que se regulan las condiciones para la comercialización y libre circulación intracomunitaria de los equipos de protección individual, que figura entre la dotación obligatoria del vehículo, cuando salgan de éste y ocupen la calzada o el arcén de las vías interurbanas."
-
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.18 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 > Se modifica el párrafo primero del apartado 1 por el art. único.6 del Real Decreto 965/2006, de 1 de septiembre. [Ref. BOE-A-2006-15406](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-15406).
@@ -2111,22 +1871,6 @@ Cuando los taxis circulen en tráfico urbano o áreas urbanas de grandes ciudade
 
 3\. **(Suprimido)**
 
-> Téngase en cuenta que esta actualización, por la que se modifica el apartado 2 y se suprime el 3, establecida por el art. único.19 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. La exención alcanzará igualmente cuando circulen en poblado, pero en ningún caso cuando lo hagan por autopistas, autovías o carreteras convencionales, a:
-
-> a) Los conductores de taxis cuando estén de servicio. Asimismo, cuando circulen en tráfico urbano o áreas urbanas de grandes ciudades, podrán transportar a personas cuya estatura no alcance los 135 centímetros sin utilizar un dispositivo de retención homologado adaptado a su talla y a su peso, siempre que ocupen un asiento trasero.
-
-> b) Los distribuidores de mercancías, cuando realicen sucesivas operaciones de carga y descarga de mercancías en lugares situados a corta distancia unos de otros.
-
-> c) Los conductores y pasajeros de los vehículos en servicios de urgencia.
-
-> d) Las personas que acompañen a un alumno o aprendiz durante el aprendizaje de la conducción o las pruebas de aptitud y estén a cargo de los mandos adicionales del automóvil, responsabilizándose de la seguridad de la circulación.
-
-> 3\. Se eximirá de lo dispuesto en el artículo 118.1 a las personas provistas de un certificado de exención por razones médicas graves, expedido de conformidad con lo dispuesto en el apartado 1.b) anterior. Este certificado deberá expresar su período de validez y estar firmado por un facultativo colegiado en ejercicio. Deberá, además, llevar o incorporar el símbolo establecido por la normativa vigente."
-
 > Se modifica el apartado 2 y se suprime el 3, con efectos de 1 de octubre de 2026, por el art. único.19 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 > Se modifican los apartados 1, 2.a) y 3 por el art. único.7 del Real Decreto 965/2006, de 1 de septiembre. [Ref. BOE-A-2006-15406](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-15406).
@@ -2148,30 +1892,6 @@ Cuando los taxis circulen en tráfico urbano o áreas urbanas de grandes ciudade
 Los usuarios de la vía que circulen con cualquier tipo de vehículo deberán prestar especial cuidado para no poner en riesgo la integridad física de los peatones.
 
 2\. La regulación del tránsito y estancia de los peatones en zonas urbanas se establece en el título VI, sin perjuicio de las normas de aplicación comunes del presente capítulo.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.20 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 121. Circulación por zonas peatonales.**
-
-> Excepciones.
-
-> 1\. Los peatones están obligados a transitar por la zona peatonal, salvo cuando ésta no exista o no sea practicable; en tal caso, podrán hacerlo por el arcén o, en su defecto, por la calzada, de acuerdo con las normas que se determinan en este capítulo (artículo 49.1 del texto articulado).
-
-> 2\. Sin embargo, aun cuando haya zona peatonal, siempre que adopte las debidas precauciones, podrá circular por el arcén o, si éste no existe o no es transitable, por la calzada:
-
-> a) El que lleve algún objeto voluminoso o empuje o arrastre un vehículo de reducidas dimensiones que no sea de motor, si su circulación por la zona peatonal o por el arcén pudiera constituir un estorbo considerable para los demás peatones.
-
-> b) Todo grupo de peatones dirigido por una persona o que forme cortejo.
-
-> c) El impedido que transite en silla de ruedas con o sin motor, a velocidad del paso humano.
-
-> 3\. Todo peatón debe circular por la acera de la derecha con relación al sentido de su marcha, y cuando circule por la acera o paseo izquierdo debe ceder siempre el paso a los que lleven su mano y no debe detenerse de forma que impida el paso por la acera a los demás, a no ser que resulte inevitable para cruzar por un paso de peatones o subir a un vehículo.
-
-> 4\. Los que utilicen monopatines, patines o aparatos similares no podrán circular por la calzada, salvo que se trate de zonas, vías o partes de estas que les estén especialmente destinadas, y solo podrán circular a paso de persona por las aceras o por las calles debidamente señalizadas, sin que en ningún caso se permita que sean arrastrados por otros vehículos.
-
-> 5\. La circulación de toda clase de vehículos en ningún caso deberá efectuarse por las aceras y demás zonas peatonales."
 
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.20 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2197,24 +1917,6 @@ c) Los peatones que, por razones de seguridad, no deban circular por la izquierd
 
 5\. Al apercibirse de las señales ópticas o acústicas de los vehículos prioritarios, los peatones deberán despejar la calzada y permanecer en los refugios o zonas peatonales, si existen, o, en su defecto, alejarse de la zona de circulación de los vehículos.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.21 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Fuera de poblado, en todas las vías objeto de la ley, y en tramos de poblado incluidos en el desarrollo de una carretera que no disponga de espacio especialmente reservado para peatones, como norma general, la circulación de éstos se hará por la izquierda (artículo 49.2 del texto articulado).
-
-> 2\. No obstante lo dispuesto en el apartado anterior, la circulación de peatones se hará por la derecha cuando concurran circunstancias que así lo justifiquen por razones de mayor seguridad.
-
-> 3\. En poblado, la circulación de peatones podrá hacerse por la derecha o por la izquierda, según las circunstancias concretas del tráfico, de la vía o de la visibilidad.
-
-> 4\. No obstante lo dispuesto en los apartados 1 y 3, deberán circular siempre por su derecha los que empujen o arrastren un ciclo o ciclomotor de dos ruedas, carros de mano o aparatos similares, todo grupo de peatones dirigido por una persona o que forme cortejo y los impedidos que se desplacen en silla de ruedas, todos los cuales habrán de obedecer las señales dirigidas a los conductores de vehículos: las de los agentes y semáforos, siempre; las demás, en cuanto les sean aplicables.
-
-> 5\. La circulación por el arcén o por la calzada se hará con prudencia, sin entorpecer innecesariamente la circulación, y aproximándose cuanto sea posible al borde exterior de aquéllos. Salvo en el caso de que formen un cortejo, deberán marchar unos tras otros si la seguridad de la circulación así lo requiere, especialmente en casos de poca visibilidad o de gran densidad de circulación de vehículos.
-
-> 6\. Cuando exista refugio, zona peatonal u otro espacio adecuado, ningún peatón debe permanecer detenido en la calzada ni en el arcén, aunque sea en espera de un vehículo, y para subir a éste, sólo podrá invadir aquélla cuando ya esté a su altura.
-
-> 7\. Al apercibirse de las señales ópticas y acústicas de los vehículos prioritarios, despejarán la calzada y permanecerán en los refugios o zonas peatonales."
-
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.21 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 > Se suprime el apartado 8 por el art. único.14 del Real Decreto 465/2025, de 10 de junio. [Ref. BOE-A-2025-12199](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12199)
@@ -2224,14 +1926,6 @@ c) Los peatones que, por razones de seguridad, no deban circular por la izquierd
 1\. Los peatones que transiten por la calzada o por el arcén en vías interurbanas entre el ocaso y la salida del sol o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, deberán hacer uso, al menos, de un elemento luminoso o reflectante conforme a la normativa de equipos de protección individual, que sea visible a una distancia mínima de 150 metros para los conductores que se les aproximen. Asimismo, podrán llevar para mejorar su visibilidad ante el resto de los usuarios de la vía, otros elementos luminosos adecuados.
 
 2\. En las mismas circunstancias, los grupos de peatones llevarán, además, en el lado más próximo al centro de la calzada, las luces necesarias para precisar su situación y dimensiones, que serán de color blanco o amarillo hacia adelante y rojo hacia atrás y que, en su caso, podrán constituir un solo conjunto.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.22 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 123. Circulación nocturna.**
-
-> Fuera del poblado, entre el ocaso y la salida del sol o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, todo peatón, cuando circule por la calzada o el arcén, deberá ir provisto de un elemento luminoso o retrorreflectante homologado y que responda a las prescripciones técnicas contenidas en el Real Decreto 1407/1992, de 20 de noviembre, por el que se regulan las condiciones para la comercialización y libre circulación intracomunitaria de los equipos de protección individual, que sea visible a una distancia mínima de 150 metros para los conductores que se le aproximen, y los grupos de peatones dirigidos por una persona o que formen cortejo llevarán, además, en el lado más próximo al centro de la calzada, las luces necesarias para precisar su situación y dimensiones, las cuales serán de color blanco o amarillo hacia adelante y rojo hacia atrás y, en su caso, podrán constituir un solo conjunto."
 
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.22 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2251,12 +1945,6 @@ c) En los restantes pasos para peatones señalizados mediante la correspondiente
 
 4\. Los peatones no podrán atravesar las plazas y glorietas por su calzada, debiendo rodearlas, a no ser que exista un paso para peatones habilitado.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.23 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4. Los peatones no podrán atravesar las plazas y glorietas por su calzada, por lo que deberán rodearlas."
-
 > Se modifica el apartado 4, con efectos de 1 de octubre de 2026, por el art. único.23 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 125. Normas relativas a circulación de peatones por autopistas y autovías.**
@@ -2264,20 +1952,6 @@ c) En los restantes pasos para peatones señalizados mediante la correspondiente
 1\. Los peatones no podrán circular por autopistas ni autovías, salvo en los casos y condiciones que se determinan en el artículo 130, y no podrán hacer peticiones de pasaje en ningún tramo de ellas, incluidas las explanadas de estaciones de peaje.
 
 2\. Los ocupantes o trabajadores de los vehículos de los servicios de urgencia, de los vehículos de mantenimiento y conservación de carreteras, de los vehículos de auxilio en vías públicas y de los vehículos especiales podrán transitar por las autopistas y autovías siempre que sea estrictamente indispensable para la prestación del correspondiente servicio y adoptando las medidas oportunas para no comprometer ni su seguridad ni la del resto de los usuarios.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.24 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 125. Normas relativas a autopistas y autovías.**
-
-> 1\. Queda prohibida la circulación de peatones por autopistas y autovías, salvo en los casos y condiciones que se determinan en los apartados siguientes.
-
-> Los conductores de vehículos que circulen por autopistas o autovías deberán hacer caso omiso a las peticiones de pasaje que reciban en cualquier tramo de ellas, incluidas las explanadas de estaciones de peaje.
-
-> 2\. Si por accidente, avería, malestar físico de sus ocupantes u otra emergencia tuviera que inmovilizarse un vehículo en una autopista o autovía y fuese necesario solicitar auxilio, se utilizará el poste de socorro más próximo, y si la vía no estuviese dotada de este servicio, podrá requerirse el auxilio de los usuarios, sin que ninguno de los ocupantes del vehículo pueda transitar por la calzada.
-
-> 3\. Los ocupantes o servidores de los vehículos de los servicios de urgencia o especiales podrán circular por las autopistas y autovías siempre que sea estrictamente indispensable para la prestación del correspondiente servicio y adopten las medidas oportunas para no comprometer la seguridad de ningún usuario."
 
 > Se modifica, con efectos de 1 de octubre de 2026, por el art. único.24 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2346,22 +2020,6 @@ g) Facilitar los datos del vehículo a otras personas implicadas en el accidente
 4\. En los supuestos a los que se refieren los apartados anteriores, sin perjuicio de encender la luz de emergencia si el vehículo la lleva y, cuando proceda, las luces de posición y de gálibo, en tanto se deja expedita la vía, todo conductor deberá emplear el dispositivo de preseñalización de peligro reglamentario para advertir dicha circunstancia.
 
 5\. Se prohíbe a los usuarios de las vías cuyo vehículo haya sufrido un accidente cumplimentar el parte de accidente en la plataforma de circulación. Este proceso se llevará a cabo en un lugar seguro fuera de la vía.
-
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 1.5 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194), entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "1. Si por causa de accidente o avería el vehículo o su carga obstaculizasen la calzada, los conductores, tras señalizar convenientemente el vehículo o el obstáculo creado, adoptarán las medidas necesarias para que sea retirado en el menor tiempo posible, deberán sacarlo de la calzada y situarlo cumpliendo las normas de estacionamiento siempre que sea factible (artículo 51.2 del texto articulado).
-
-> 2\. Siempre que, por cualquier emergencia, un vehículo quede inmovilizado en la calzada o su carga haya caído sobre ésta, el conductor o, en la medida de lo posible, los ocupantes del vehículo procurarán colocar uno y otra en el lugar donde cause menor obstáculo a la circulación, para lo cual podrán, en su caso, utilizarse, si fuera preciso, el arcén o la mediana; asimismo, adoptarán la medidas oportunas para que el vehículo y la carga sean retirados de la vía en el menor tiempo posible.
-
-> 3\. En los supuestos a los que se refiere el apartado anterior, sin perjuicio de encender la luz de emergencia si el vehículo la lleva y, cuando proceda, las luces de posición y de gálibo, en tanto se deja expedita la vía, todo conductor deberá emplear los dispositivos de preseñalización de peligro reglamentarios para advertir dicha circunstancia, salvo que las condiciones de la circulación no permitieran hacerlo. Tales dispositivos se colocarán, uno por delante y otro por detrás del vehículo o la carga, como mínimo a 50 metros de distancia y en forma tal que sean visibles desde 100 metros, al menos, por los conductores que se aproximen. En calzadas de sentido único, o de más de tres carriles, bastará la colocación de un solo dispositivo, situado como mínimo 50 metros antes en la forma anteriormente indicada.
-
-> 4\. Si fuera preciso pedir auxilio, se utilizará el poste de socorro más próximo, si la vía dispone de ellos; en caso contrario, podrá solicitarse de otros usuarios. En todo caso y en cuanto sea posible, nadie deberá invadir la calzada.
-
-> 5\. El remolque de un vehículo accidentado o averiado sólo deberá realizarse por otro específicamente destinado a este fin. Excepcionalmente, y siempre en condiciones de seguridad, se permitirá el arrastre por otros vehículos, pero sólo hasta el lugar más próximo donde pueda quedar convenientemente inmovilizado y sin entorpecer la circulación. En ningún caso será aplicable dicha excepción en las autopistas o autovías.
-
-> 6\. Cuando la emergencia ocurra en un vehículo destinado al transporte de mercancías peligrosas, se aplicarán, además, sus normas específicas."
 
 > Se modifica, con efectos de 1 de julio de 2021, por la disposición final 1.5 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194)
 
@@ -2733,8 +2391,6 @@ En cualquier tipo de obra, actividad en la vía o tramos en servicio dispuestos 
 
 ### TÍTULO VI — Normas de circulación específicas en zonas urbanas
 
-> Téngase en cuenta que este Título, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 151. Marco general.**
@@ -2744,8 +2400,6 @@ En cualquier tipo de obra, actividad en la vía o tramos en servicio dispuestos 
 2\. Los Municipios, a través de sus ordenanzas municipales y en el ámbito de sus competencias, podrán desarrollar aspectos de las normas del presente título.
 
 3\. Las ordenanzas municipales no podrán oponerse, alterar, desvirtuar o inducir a confusión con los preceptos de este reglamento.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2758,8 +2412,6 @@ Las ordenanzas municipales podrán permitir la circulación por las aceras de ni
 2\. En caso de no existir zona peatonal transitable, los peatones podrán circular por el arcén o, si éste no existe o no es transitable, por la calzada, debiendo extremar la precaución y sin entorpecer la circulación. Los conductores de los vehículos, a su vez, adecuarán su comportamiento, especialmente la velocidad y la distancia, para no poner en peligro la integridad de los peatones.
 
 3\. Las autoridades municipales podrán establecer zonas o áreas de prioridad residencial, que podrán incluir la regulación de restricciones al acceso, circulación o estacionamiento de determinados vehículos en la zona, el régimen de carga y descarga, sistemas y requisitos para la distribución urbana de mercancías diurna o nocturna, los límites de velocidad, y otras medidas que favorezcan el uso sostenible de la zona.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2783,8 +2435,6 @@ Cuando los vehículos se encuentren en esta situación se deberán orillar a su 
 
 7\. La circulación de las bicicletas por las aceras-bici se regulará por ordenanza municipal.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 154. Otras normas relativas a la circulación en bicicleta y demás ciclos.**
@@ -2805,8 +2455,6 @@ c) Ocultar los dispositivos de alumbrado o de señalización óptica.
 
 5\. Las normas de los apartados anteriores se aplicarán también a la circulación en bicicleta y demás ciclos en vías interurbanas, salvo lo dispuesto en el apartado 4 por lo que se refiere a las restricciones que pueda imponer la autoridad municipal, siempre que sea de día y en condiciones que no disminuyan la visibilidad.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 155. Normas básicas relativas a vehículos de movilidad personal, patines y monopatines.**
@@ -2822,8 +2470,6 @@ c) Ocultar los dispositivos de alumbrado o de señalización óptica.
 5\. Los vehículos de movilidad personal deberán llevar siempre encendido el alumbrado.
 
 6\. A los efectos previstos en el presente reglamento, las personas con movilidad reducida que se desplacen en vehículos de movilidad personal al paso de persona tendrán la consideración de peatones.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2843,15 +2489,11 @@ e) El estacionamiento de los vehículos podrá ser objeto de tarificación por l
 
 2\. Los Ayuntamientos, a través de ordenanza municipal, podrán regular la parada y el estacionamiento de los vehículos de dos ruedas sobre las aceras, paseos y demás zonas peatonales, siempre que no se perjudique ni se entorpezca el tránsito de los peatones por ellos, y atendiendo especialmente a la seguridad y movilidad de las personas con movilidad reducida o con discapacidad.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
-
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
 **Artículo 157. Restricciones por motivos medioambientales.**
 
 Las autoridades competentes podrán establecer medidas de restricción total o parcial de entrada y circulación de vehículos en las zonas de bajas emisiones, en zonas de prioridad residencial, o cualquiera otra vía que se hallase dentro de su competencia, de acuerdo con los criterios medioambientales que se establezcan.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -2860,8 +2502,6 @@ Las autoridades competentes podrán establecer medidas de restricción total o p
 1\. Los Ayuntamientos, o los titulares de las vías cuando sean competentes, podrán establecer caminos o zonas escolares seguros en los entornos escolares, implementando medidas de reducción de velocidad, calmado del tráfico o restricciones a los vehículos a motor y ciclomotores.
 
 2\. En las proximidades de centros escolares, centros hospitalarios, centros de personas mayores o con discapacidad, o similares, se implementarán medidas específicas sobre limitaciones de velocidad, estacionamiento y cualquier otra destinada al calmado del tráfico que aumente el nivel de seguridad de los usuarios vulnerables, bien adoptando las medidas oportunas de ordenación viaria y regulación del tráfico o de acuerdo con lo que establezcan las ordenanzas municipales.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.25 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se añade, con efectos de 1 de octubre de 2026, por el art. único.25 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -3203,12 +2843,6 @@ c) Una luz amarilla no intermitente significa que los vehículos deben detenerse
 d) Una luz amarilla intermitente o dos luces amarillas alternativamente intermitentes obligan a los conductores a extremar la precaución y, en su caso, ceder el paso. Además, no eximen del cumplimiento de otras señales que obliguen a detenerse.
 
 Como norma general, en los pasos para peatones con semáforo reservado para peatones, la luz amarilla intermitente para vehículos no podrá coincidir con la luz verde no intermitente para peatones y deberá ir precedida de la luz roja no intermitente.
-
-> Téngase en cuenta que esta actualización de la letra d) del apartado 4.2, establecida por el art. único.26 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "d) Una luz amarilla intermitente o dos luces amarillas alternativamente intermitentes obligan a los conductores a extremar la precaución y, en su caso, ceder el paso. Además, no eximen del cumplimiento de otras señales que obliguen a detenerse."
 
 e) Una luz verde no intermitente significa que está permitido el paso con prioridad, excepto en los supuestos a que se refiere el artículo 59.1.
 

@@ -2689,38 +2689,32 @@ h. Se ha tomado conciencia de la importancia de la coordinación entre el person
 
 ## ANEXO V — Espacios y equipamientos mínimos del ciclo de grado superior
 
-<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Espacio formativo</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie</p>
-<p class="cabeza_tabla">30 alumnos</p>
+<th>Espacio formativo</th>
+<th>
+<p>Superficie</p>
+<p>30 alumnos</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Superficie</p>
-<p class="cabeza_tabla">20 alumnos</p>
+<th>
+<p>Superficie</p>
+<p>20 alumnos</p>
 </th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Aula polivalente.</td>
-<td class="cuerpo_tabla_coma">60 m<sup>2</sup></td>
-<td class="cuerpo_tabla_coma">40 m<sup>2</sup></td>
-<td class="cuerpo_tabla_izq" rowspan="2">Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior.</td>
+<td>Aula polivalente.</td>
+<td>60 m<sup>2</sup></td>
+<td>40 m<sup>2</sup></td>
+<td rowspan="2">Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gimnasio.</td>
-<td class="cuerpo_tabla_coma">120 m<sup>2</sup></td>
-<td class="cuerpo_tabla_coma">90 m<sup>2</sup></td>
+<td>Gimnasio.</td>
+<td>120 m<sup>2</sup></td>
+<td>90 m<sup>2</sup></td>
 </tr>
 </tbody>
 </table>
@@ -2751,58 +2745,53 @@ h. Se ha tomado conciencia de la importancia de la coordinación entre el person
 
 Serán impartidos por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C301: Factores fisiológicos del alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C301: Factores fisiológicos del alto rendimiento.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-C302: Factores Psicosociales del alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-C303: Formación de formadores deportivos.</p>
+<td rowspan="2">
+<p>MED-C302: Factores Psicosociales del alto rendimiento.</p>
+<p>MED-C303: Formación de formadores deportivos.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C304: Organización y gestión aplicada al alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Formación y organización laboral.</p>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+</tr>
+<tr>
+<td>MED-C304: Organización y gestión aplicada al alto rendimiento.</td>
+<td>
+<p>Educación física.</p>
+<p>Formación y organización laboral.</p>
+</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -2812,82 +2801,77 @@ Serán impartidos por quienes posean la especialidad que a continuación se deta
 
 Serán impartidos por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-301: Planificación y programación del alto rendimiento en salvamento y socorrismo.</td>
+<td>Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-302: Entrenamiento en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-302: Entrenamiento en salvamento y socorrismo.</td>
+<td>Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-303: Gestión del Centro de salvamento y socorrismo.</td>
+<td>Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-304: Organización de eventos de salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-304: Organización de eventos de salvamento y socorrismo.</td>
+<td>Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-305: Proyecto Final.</td>
-<td class="cuerpo_tabla_izq">Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-305: Proyecto Final.</td>
+<td>Educación Física, que posean el título de Técnico Deportivo Superior en Salvamento y Socorrismo</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

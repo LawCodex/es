@@ -482,272 +482,272 @@ En caso de no superar la prueba, el candidato deberá volverse a inscribir en el
 
 ## TABLA 1 — Contenido mínimo y horas lectivas para el curso de formación de directores técnicos de las ITEAF (personal responsable de la unidad de inspección)
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Tema</p>
+<p>Tema</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Duración</p>
+<p>Duración</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Criterios generales sobre la aplicación de fitosanitarios y su influencia sobre la eficacia del tratamiento, la seguridad del operario y el medio ambiente.</p>
+<p>Criterios generales sobre la aplicación de fitosanitarios y su influencia sobre la eficacia del tratamiento, la seguridad del operario y el medio ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Características de los equipos de aplicación de fitosanitarios: clasificación, componentes, características constructivas, criterios de funcionamiento y selección.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8 horas</p>
+<p>3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Criterios de regulación y determinación del volumen de aplicación. Diagramas de distribución de los diferentes equipos. Ejercicios prácticos.</p>
+<p>Características de los equipos de aplicación de fitosanitarios: clasificación, componentes, características constructivas, criterios de funcionamiento y selección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría + Práctica</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La inspección periódica de equipos de aplicación de fitosanitarios: finalidad, objetivos y organización.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3 horas</p>
+<p>8 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Aspectos normativos, gestión de documentos y responsabilidad de la unidad de control.</p>
+<p>Criterios de regulación y determinación del volumen de aplicación. Diagramas de distribución de los diferentes equipos. Ejercicios prácticos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría</p>
+<p>Teoría + Práctica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Control de calidad y calibración de la instrumentación: criterios y planificación en la unidad de inspección.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2 horas</p>
+<p>5 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Equipos e instrumentación necesarios para la inspección: características técnicas y requisitos mínimos previstos.</p>
+<p>La inspección periódica de equipos de aplicación de fitosanitarios: finalidad, objetivos y organización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría + Práctica</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Elementos y/o aspectos a examinar durante el control de los equipos de aplicación. Criterios de aceptación o rechazo de acuerdo con la normativa establecida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3 horas</p>
+<p>3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ejemplos prácticos de como efectuar el control de las diferentes tipologías de equipos (cultivos arbóreos y cultivos herbáceos).</p>
+<p>Aspectos normativos, gestión de documentos y responsabilidad de la unidad de control.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Prácticas</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cumplimentación de la documentación y emisión de informes. Organización y planificación de la transmisión de los resultados al centro oficial responsable de las inspecciones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3 horas</p>
+<p>3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Control de calidad y calibración de la instrumentación: criterios y planificación en la unidad de inspección.</p>
+</td>
+<td>
+<p>Teoría</p>
+</td>
+<td>
+<p>2 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Equipos e instrumentación necesarios para la inspección: características técnicas y requisitos mínimos previstos.</p>
+</td>
+<td>
+<p>Teoría + Práctica</p>
+</td>
+<td>
+<p>4 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Elementos y/o aspectos a examinar durante el control de los equipos de aplicación. Criterios de aceptación o rechazo de acuerdo con la normativa establecida.</p>
+</td>
+<td>
+<p>Teoría</p>
+</td>
+<td>
+<p>3 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ejemplos prácticos de como efectuar el control de las diferentes tipologías de equipos (cultivos arbóreos y cultivos herbáceos).</p>
+</td>
+<td>
+<p>Prácticas</p>
+</td>
+<td>
+<p>6 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cumplimentación de la documentación y emisión de informes. Organización y planificación de la transmisión de los resultados al centro oficial responsable de las inspecciones.</p>
+</td>
+<td>
+<p>Teoría</p>
+</td>
+<td>
+<p>3 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>La distribución final de las horas será responsabilidad final de la unidad de formación. El presente cuadro es una guía de mínimos a cumplir en cada uno de los aspectos.</em>
 </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">40 horas</p>
+<p>40 horas</p>
 </td>
 </tr>
 </table>
 
 ## TABLA 2 — Contenido mínimo y horas lectivas para el curso de formación de inspectores (personal técnico)
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Tema</p>
+<p>Tema</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Duración</p>
+<p>Duración</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Criterios generales sobre la aplicación de fitosanitarios y su influencia sobre la eficacia del tratamiento, la seguridad del operario y el medio ambiente.</p>
+<p>Criterios generales sobre la aplicación de fitosanitarios y su influencia sobre la eficacia del tratamiento, la seguridad del operario y el medio ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Características de los equipos de aplicación de fitosanitarios: clasificación, componentes, características constructivas, criterios de funcionamiento y selección.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8 horas</p>
+<p>3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Criterios de regulación y determinación del volumen de aplicación. Diagramas de distribución de los diferentes equipos. Ejercicios prácticos.</p>
+<p>Características de los equipos de aplicación de fitosanitarios: clasificación, componentes, características constructivas, criterios de funcionamiento y selección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría + Práctica</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento de los equipos y su relación con la calidad de la aplicación de fitosanitarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2 horas</p>
+<p>8 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La inspección periódica de equipos de aplicación de fitosanitarios: finalidad, objetivos y organización.</p>
+<p>Criterios de regulación y determinación del volumen de aplicación. Diagramas de distribución de los diferentes equipos. Ejercicios prácticos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría</p>
+<p>Teoría + Práctica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Equipos e instrumentación necesarios para la inspección: características técnicas y requisitos mínimos previstos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría + Práctica</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4 horas</p>
+<p>5 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Elementos o aspectos a examinar durante el control de los equipos de aplicación. Criterios de aceptación o rechazo de acuerdo con la normativa establecida.</p>
+<p>Mantenimiento de los equipos y su relación con la calidad de la aplicación de fitosanitarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Teoría</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ejemplos prácticos de como efectuar el control de las diferentes tipologías de equipos (cultivos arbóreos y cultivos herbáceos).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Prácticas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8 horas</p>
+<p>2 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Manejo de aplicaciones informáticas específicas para la realización de las inspecciones.</p>
+<p>La inspección periódica de equipos de aplicación de fitosanitarios: finalidad, objetivos y organización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Prácticas</p>
+<p>Teoría</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cumplimentación de la documentación y emisión de informes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Teoría + Prácticas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2 horas</p>
+<p>3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Equipos e instrumentación necesarios para la inspección: características técnicas y requisitos mínimos previstos.</p>
+</td>
+<td>
+<p>Teoría + Práctica</p>
+</td>
+<td>
+<p>4 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Elementos o aspectos a examinar durante el control de los equipos de aplicación. Criterios de aceptación o rechazo de acuerdo con la normativa establecida.</p>
+</td>
+<td>
+<p>Teoría</p>
+</td>
+<td>
+<p>3 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ejemplos prácticos de como efectuar el control de las diferentes tipologías de equipos (cultivos arbóreos y cultivos herbáceos).</p>
+</td>
+<td>
+<p>Prácticas</p>
+</td>
+<td>
+<p>8 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manejo de aplicaciones informáticas específicas para la realización de las inspecciones.</p>
+</td>
+<td>
+<p>Prácticas</p>
+</td>
+<td>
+<p>2 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cumplimentación de la documentación y emisión de informes.</p>
+</td>
+<td>
+<p>Teoría + Prácticas</p>
+</td>
+<td>
+<p>2 horas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>La distribución final de las horas será responsabilidad final de la unidad de formación. El presente cuadro es una guía de mínimos a cumplir en cada uno de los aspectos.</em>
 </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">40 horas</p>
+<p>40 horas</p>
 </td>
 </tr>
 </table>

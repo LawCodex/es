@@ -1,0 +1,191 @@
+---
+title: "Orden TEC/351/2019, de 18 de marzo, por la que se aprueba el Índice Nacional de Calidad del Aire"
+identifier: "BOE-A-2019-4494"
+eli: "https://www.boe.es/eli/es/o/2019/03/18/tec351"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio para la Transición Ecológica"
+date: 2019-03-18
+published: 2019-03-28
+in_force_from: 2019-03-29
+last_amended: 2020-09-10
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 75"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-4494"
+retrieved: 2026-10-11
+---
+
+# Orden TEC/351/2019, de 18 de marzo, por la que se aprueba el Índice Nacional de Calidad del Aire
+
+La Directiva 2008/50/CE del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, relativa a la calidad del aire ambiente y a una atmósfera más limpia en Europa, establece medidas destinadas, entre otros fines, a definir y establecer objetivos de calidad del aire ambiente para evitar, prevenir o reducir los efectos nocivos para la salud humana y el medio ambiente en su conjunto, evaluar la calidad del aire ambiente en los estados miembros basándose en métodos y criterios comunes y asegurar que esa información sobre calidad del aire ambiente se halla a disposición de los ciudadanos.
+
+La Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, establece las bases en materia de prevención, vigilancia y reducción de la contaminación atmosférica con el fin de evitar y cuando esto no sea posible, aminorar los daños que de ésta puedan derivarse para las personas, el medio ambiente y demás bienes de cualquier naturaleza.
+
+Por su parte, el Real Decreto 102/2011, de 28 de enero, relativo a la mejora de la calidad del aire incluye, en su artículo 28, una serie de apartados para regular la información que se debe poner a disposición del público. Concretamente, el apartado 9 de dicho artículo, en la redacción dada al mismo por el Real Decreto 39/2017, de 27 de enero, por el que se modifica el Real Decreto 102/2011, de 28 de enero, establece que el actual Ministerio para la Transición Ecológica aprobará, mediante orden ministerial, un Índice Nacional de Calidad del Aire, basado en el Índice de Calidad del Aire Europeo.
+
+Asimismo, una de las medidas incluidas en el Plan Nacional de Calidad del Aire 2017-2019 (Plan Aire II) consiste precisamente en la «elaboración de índices sencillos de calidad del aire para el público general que permitan tener acceso de forma sencilla a información sobre la calidad del aire de cualquier zona del territorio nacional. Estos índices estarán basados en el «Air Quality Index», publicado por la Agencia Europea de Medio Ambiente».
+
+El Índice de Calidad del Aire Europeo fue puesto en marcha en noviembre de 2017 por la Agencia Europea de Medio Ambiente (AEMA) y la Comisión Europea. Dicho índice permite a los usuarios comprobar la calidad actual del aire en ciudades y regiones de toda Europa.
+
+El índice europeo muestra la situación en materia de calidad del aire a nivel de cada estación, basándose en cinco contaminantes: partículas en suspensión (PM2,5 y PM10), ozono troposférico (O<sub>3</sub>), dióxido de nitrógeno (NO<sub>2</sub>) y dióxido de azufre (SO<sub>2</sub>). El índice establece cinco niveles de calidad del aire en función del resultado de dicho índice: buena, razonable, moderada, pobre y muy pobre.
+
+Muchos de los gestores de las redes regionales y locales de España de calidad del aire disponen ya de indicadores o índices propios mediante los que informan al público de forma sencilla y visual del estado de la calidad del aire. No obstante, tales indicadores son muy heterogéneos, por lo que la existencia de un Índice Nacional de Calidad del Aire permitirá la comparación entre diferentes regiones a la vez que podrá servir de orientación a los gestores para la definición de sus propios índices.
+
+En consecuencia, el objeto y finalidad de la presente orden es la aprobación del Índice Nacional de Calidad del Aire que, siguiendo las directrices del índice europeo, ayude a representar la calidad del aire a nivel nacional de una manera fácilmente entendible por los ciudadanos contribuyendo al acceso del público a dicha información ambiental de una manera clara. Asimismo, permitirá la comparación de la calidad del aire entre diferentes regiones, por cuanto los indicadores utilizados por los gestores de las redes regionales y locales de España de calidad del aire son muy heterogéneos. A la vez, podrá servir de referencia a dichos gestores para la definición de sus propios índices. Este índice también facilitará el intercambio de información con la Unión Europea.
+
+Esta orden consta de tres artículos, una disposición adicional única, dos disposiciones finales y un anexo. La orden regula los contaminantes en los que se basa el Índice y en el anexo se describe la metodología del cálculo de dicho índice, indicando sus niveles y los rangos de los valores de concentración de cada contaminante para cada nivel, así como la escala de colores a seguir.
+
+En la elaboración de esta orden, han sido consultadas las comunidades autónomas, las ciudades de Ceuta y de Melilla y las entidades representativas de los sectores afectados. Asimismo, ha sido sometida al trámite de información pública y al Consejo Asesor de Medio Ambiente, con arreglo a las previsiones de los artículos 16 y 19 de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente (incorpora las Directivas 2003/4/CE y 2003/35/CE).
+
+En cuanto a su fundamento constitucional, esta orden se dicta al amparo del artículo 149.1.16.ª y 23.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad y de legislación básica sobre protección del medio ambiente.
+
+La legislación básica a que se refiere el mencionado precepto estará integrada por las normas de rango legal, e incluso reglamentario, siempre que estas últimas, tal y como viene reconociendo la jurisprudencia del Tribunal Construccional entre otras en su Sentencia 306/2000, de 12 de diciembre, en el fundamento jurídico 6.º «(…) resulten imprescindibles y se justifiquen por su contenido técnico o por su carácter coyuntural o estacionario (SSTC 149/1991, FJ 3.D.c, y 102/1995, FJ 8)».
+
+Además, la presente norma se inserta en el marco de la política ambiental que prevé la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, en la medida en que el Índice Nacional de Calidad del Aire es un mecanismo que facilita el acceso, así como, la comprensión de los ciudadanos a la información ambiental sobre el estado de uno de los elementos del medio ambiente: el aire. Este aspecto tiene carácter básico, tal y como expresa la Sentencia del Tribunal Constitucional 45/2015, de 5 de marzo, por cuanto que proporciona un mecanismo en virtud del cual «los ciudadanos puedan contribuir eficazmente a la protección del medio ambiente, para lo cual resulta fundamental la transparencia, sin que las Administraciones públicas puedan dejar de proporcionar o difundir información ambiental escudándose en que se refiere a asuntos que no son de su competencia».
+
+La presente orden se adecúa a los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y, en particular, a los principios de necesidad y eficacia. En este sentido, esta orden se fundamenta en la adecuada protección del medio ambiente mediante la aprobación de un Índice Nacional de Calidad del Aire que armonice los valores sobre calidad del aire en todo el territorio nacional. Igualmente, tiene por finalidad informar de forma clara a la ciudadanía y se considera que es el instrumento más adecuado para su consecución.
+
+Igualmente, es conforme al principio de proporcionalidad, ya que regula los aspectos imprescindibles para establecer un índice de calidad del aire nacional.
+
+De acuerdo con el principio de seguridad jurídica, esta orden es coherente con el resto del ordenamiento jurídico nacional e internacional, ya que expresamente se contempla en el Real Decreto 102/2011, de 28 de enero y, a su vez, el índice toma como referencia las directrices del Índice de Calidad del Aire Europeo.
+
+De acuerdo con el principio de transparencia, en la elaboración de la norma se han seguido escrupulosamente todos los procesos de participación y audiencia que establece la normativa vigente y de conformidad con el principio de eficiencia la orden no contiene ninguna carga administrativa.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
+
+## Artículo 1. Objeto y finalidad.
+
+Esta orden tiene por objeto aprobar el Índice Nacional de Calidad del Aire basándose en los siguientes contaminantes:
+
+a) Partículas en suspensión PM10
+
+b) Partículas en suspensión PM2.5
+
+c) Ozono troposférico (O<sub>3</sub>)
+
+d) Dióxido de nitrógeno (NO<sub>2</sub>)
+
+e) Dióxido de azufre (SO<sub>2</sub>)
+
+2\. El Índice Nacional de Calidad del Aire, establecido de acuerdo con las instrucciones dictadas por la Agencia Europea de Medio Ambiente, informará sobre el estado de la calidad del aire en cada una de las estaciones distribuidas por todo el territorio nacional, en base a una escala de colores de fácil identificación para el ciudadano, de conformidad con el anexo que establece la metodología para su cálculo.
+
+## Artículo 2. Ámbito de aplicación.
+
+El Índice Nacional de Calidad del Aire, se aplicará a todo el territorio nacional, por lo que servirá de referencia para todas comunidades autónomas y entes locales con competencias sobre la gestión de la calidad del aire en su ámbito territorial.
+
+## Artículo 3. Publicación del Índice.
+
+1\. El índice obtenido con los datos recogidos en cada una de las estaciones de medición se publicará en la sede electrónica del Ministerio para la Transición Ecológica. Esta información se actualizará de forma continua, a medida que se reciban los datos de las estaciones de medición.
+
+2\. El acceso al contenido del índice será público, libre y gratuito, de conformidad con los principios de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+
+## Disposición adicional única. Actualización de los criterios técnicos para el cálculo del Índice Nacional de Calidad del Aire.
+
+Con objeto de realizar las precisiones técnicas que fueren necesarias y previa consulta a las comunidades autónomas y entidades locales con competencias en la gestión de la calidad del aire, se habilita al Director General de Biodiversidad y Calidad Ambiental para modificar el anexo.
+
+## Disposición final primera. Títulos competenciales.
+
+Esta orden se dicta al amparo de las competencias exclusivas que al Estado otorga el artículo 149.1.16.ª y 23.ª de la Constitución, en materia de bases y coordinación general de la sanidad y de legislación básica sobre protección del medio ambiente.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 18 de marzo de 2019.–La Ministra para la Transición Ecológica, Teresa Ribera Rodríguez.
+
+## ANEXO — Metodología actualizada para el cálculo y visualización del Índice Nacional de Calidad del Aire
+
+A. Metodología del cálculo del Índice Nacional de Calidad del Aire
+
+El índice utiliza datos en tiempo real procedentes de las estaciones de medición de la calidad del aire, comunicados cada hora por las redes de calidad del aire que operan en el territorio nacional, y complementados, en caso necesario, por datos modelizados sobre la calidad del aire procedentes del Servicio de Vigilancia Atmosférica del Sistema Copernicus <sup>(1)</sup> CAMS de la Unión Europea. Hay que tener en cuenta que estos datos no están verificados por las redes y podrían, por tanto, diferir de los datos contenidos en los informes oficiales de calidad del aire que elabora el Ministerio para la Transición Ecológica y el Reto Demográfico.
+
+<sup>(1)</sup> Copernicus Atmosphere Monitoring Service.
+
+Es importante señalar que el índice refleja la situación de calidad del aire a corto plazo y no la situación a largo plazo (periodo anual), que podría diferir de manera significativa con el valor del índice. Por otra parte, la normativa en materia de calidad del aire establece objetivos de calidad a largo plazo que son más estrictos que los objetivos a corto plazo. Es por este motivo por el que el índice no es una herramienta diseñada para verificar el cumplimiento de la normativa de calidad del aire en cuanto al cumplimiento de los objetivos reglamentarios.
+
+El valor del índice lo determinan las concentraciones, en cada estación de medida, de hasta cinco contaminantes clave:
+
+a) Partículas en suspensión PM10.
+
+b) Partículas en suspensión PM2,5.
+
+c) Ozono troposférico (O<sub>3</sub>).
+
+d) Dióxido de nitrógeno (NO<sub>2</sub>).
+
+e) Dióxido de azufre (SO<sub>2</sub>).
+
+El índice de calidad del aire muestra la situación en las estaciones de medida para las que se dispone de datos. Estas estaciones están clasificadas, de acuerdo con la fuente de emisión predominante en dicha localización, de la siguiente manera:
+
+– Estación de tráfico.
+
+– Estación industrial.
+
+– Estación de fondo.
+
+El índice refleja el impacto potencial de la calidad del aire sobre la salud. Por este motivo, se le asigna la peor categoría en términos de calidad del aire de cualquiera de los contaminantes que se tienen en consideración para su estimación (datos medidos o derivados del modelo CAMS).
+
+El índice de calidad del aire se calcula de acuerdo con el siguiente promedio temporal:
+
+– Para el NO<sub>2</sub> y SO<sub>2</sub>: Se utiliza la concentración media de la última hora.
+
+– Para el O<sub>3</sub>: Se utiliza la media móvil de las concentraciones de las últimas 8 horas.
+
+– Para PM10 y PM2,5 se utiliza la media móvil de las concentraciones de las últimas 24 horas.
+
+Habrá que tener en cuenta las siguientes consideraciones en los casos en los que no se disponga de datos completos para una determinada estación de medida:
+
+– El índice emplea datos modelizados de CAMS en aquellos casos en los que no se hayan comunicado los datos de una estación para una hora determinada. La aproximación mencionada se realiza aplicando la siguiente metodología:
+
+• Para NO<sub>2</sub>, PM2,5y PM10:Se utiliza un método de diferencia, según el cual el valor se aproxima tomando el valor modelizado por CAMS y sumando o restando una corrección. Esta corrección es la diferencia media entre los valores medidos previamente y el valor modelizado por CAMS para la misma hora durante al menos tres de los cuatro días anteriores.
+
+• Para O<sub>3</sub>: Se utiliza un método multiplicativo, según el cual el valor se aproxima tomando el valor modelizado por CAMS y aplicando un factor de corrección. Esta corrección es la relación media entre los valores medidos anteriormente y los valores modelizados por CAMS para la misma hora durante al menos tres de los cuatro días anteriores.
+
+• Para SO<sub>2</sub>: No se emplean datos modelizados.
+
+– En los casos en los que una estación no disponga de datos para algunos contaminantes, el índice se calcula con datos de, al menos, un contaminante. De esta manera se evita que se excluyan del índice estaciones que no reportan datos para todos los contaminantes o estaciones para las que no es posible aproximar los datos mediante modelización.
+
+– En los casos en los que, para una determinada estación, no existan valores medidos para la misma hora durante tres de los cuatro días anteriores, el valor del índice del contaminante en cuestión no se calculará y se comunicará como “sin datos”.
+
+Bandas de concentraciones y categorías de índice <sup>(2)</sup>:
+
+Las bandas del índice de calidad del aire se han establecido tomando en consideración los riesgos relativos asociados a la exposición a corto plazo a PM2,5, O<sub>3</sub> y NO<sub>2</sub>, de acuerdo con lo establecido por la Organización Mundial de la Salud <sup>(3)</sup> y en el caso del SO<sub>2</sub>, los valores límite establecidos en la Directiva de Calidad del Aire de la UE.
+
+<sup>(2)</sup> Como consecuencia de la revisión de la metodología del Índice de Calidad del Aire Europeo en noviembre de 2019, el índice nacional incorpora la categoría “extremadamente desfavorable”.
+
+Para la definición de las bandas del índice, se han tenido en cuenta los siguientes criterios adoptados por la Agencia Europea de Medio Ambiente para el Índice Europeo:
+
+– El riesgo relativo de exposición a las PM2,5 se toma como referencia para determinar el valor del índice, concretamente el aumento del riesgo de mortalidad por cada 10 µg/m<sup>3</sup> de aumento de la concentración media diaria de PM2,5.
+
+– Asumiendo la linealidad a través de las funciones de riesgos relativos para O<sub>3</sub> y NO<sub>2</sub>, se calculan las concentraciones de estos contaminantes que suponen un riesgo relativo equivalente a un aumento de 10 µg/m<sup>3</sup> en la media diaria de PM2,5.
+
+– Para las concentraciones de PM10, se asume una relación constante entre PM10 y PM2,5 de 1:2, en línea con las directrices de calidad del aire de la Organización Mundial de la Salud para Europa.
+
+<sup>(3)</sup> http://www.euro.who.int/en/health-topics/environment-and-health/air-quality/publications/2013/health-risks-of-air-pollution-in-europe-hrapie-project.–recommendations-for-concentrationresponse-functions-for-costbenefit-analysis-of-particulate-matter,-ozone-and-nitrogen-dioxide.
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/242/10426_5606.png)
+
+\* Los valores de todos los contaminantes de la tabla están expresados en μg/m<sup>3</sup>
+
+Las concentraciones que superen el valor del máximo mostrado en la categoría “extremadamente desfavorable” no se tienen en cuenta para el cálculo del índice, ya que se consideran erróneos.
+
+Recomendaciones para la salud:
+
+El índice de calidad del aire incorpora recomendaciones sanitarias para la población en general y para la población sensible, en línea con las recomendaciones sanitarias del índice de calidad del aire europeo. La población sensible incluye tanto a adultos como a niños con problemas respiratorios como a adultos con afecciones cardiacas.
+
+![2](https://www.boe.es/datos/imagenes/disp/2020/242/10426_5740.png)
+
+B. Visualización y funcionalidades del Índice Nacional de Calidad del Aire
+
+El índice de calidad del aire accesible a través de la página web del Ministerio de Transición Ecológica y Reto Demográfico utiliza datos provisionales y no validados y muestra por defecto la situación de la última hora disponible. Los usuarios pueden seleccionar para su visualización cualquier hora específica del histórico almacenado en el visor (con un mínimo de 48 horas).
+
+La visualización del índice permite filtrar los datos en función del “tipo de estación”. Las estaciones se clasifican en función de las fuentes de emisión predominantes: estaciones de tráfico, estaciones industriales y estaciones de fondo (donde el nivel de contaminación no está dominado ni por el tráfico ni por la industria).
+
+El índice se calcula para todas las estaciones de medida con datos de al menos un contaminante, pero las estaciones que no tienen los datos de todos los contaminantes, se muestran con un círculo traslúcido. Los puntos negros del índice indican estaciones para las que no se han recibido datos.
+
+Los datos calculados por modelización irán seguidos de un asterisco.
+
+> Se modifica por la Resolución de 2 de septiembre de 2020. [Ref. BOE-A-2020-10426](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10426)

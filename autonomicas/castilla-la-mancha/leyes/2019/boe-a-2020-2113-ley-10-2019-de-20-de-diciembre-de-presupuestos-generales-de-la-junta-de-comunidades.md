@@ -1460,104 +1460,100 @@ Toledo, 20 de diciembre de 2019.–El Presidente, Emiliano García-Page Sánchez
 
 ## ANEXO I — Agrupación por funciones de los créditos presupuestarios de los sujetos mencionados en el artículo 2.1
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Agrupación por funciones e importes</th>
+<th colspan="2">Agrupación por funciones e importes</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Función</th>
-<th class="cabeza_tabla">Euros</th>
+<th>Función</th>
+<th>Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">ALTA DIRECCIÓN DE LA COMUNIDAD AUTÓNOMA.</td>
-<td class="cuerpo_tabla_der">28.873.130,00</td>
+<td>ALTA DIRECCIÓN DE LA COMUNIDAD AUTÓNOMA.</td>
+<td>28.873.130,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL.</td>
-<td class="cuerpo_tabla_der">74.778.850,00</td>
+<td>ADMINISTRACIÓN GENERAL.</td>
+<td>74.778.850,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RELACIONES EXTERIORES.</td>
-<td class="cuerpo_tabla_der">789.130,00</td>
+<td>RELACIONES EXTERIORES.</td>
+<td>789.130,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA.</td>
-<td class="cuerpo_tabla_der">10.229.600,00</td>
+<td>PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA.</td>
+<td>10.229.600,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEGURIDAD Y PROTECCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der">759.227.640,00</td>
+<td>SEGURIDAD Y PROTECCIÓN SOCIAL.</td>
+<td>759.227.640,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PROMOCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der">271.410.880,00</td>
+<td>PROMOCIÓN SOCIAL.</td>
+<td>271.410.880,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der">2.990.642.880,00</td>
+<td>SANIDAD.</td>
+<td>2.990.642.880,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EDUCACIÓN.</td>
-<td class="cuerpo_tabla_der">1.790.298.820,00</td>
+<td>EDUCACIÓN.</td>
+<td>1.790.298.820,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ORDENACIÓN DEL TERRITORIO, URBANISMO Y VIVIENDA.</td>
-<td class="cuerpo_tabla_der">59.597.780,00</td>
+<td>ORDENACIÓN DEL TERRITORIO, URBANISMO Y VIVIENDA.</td>
+<td>59.597.780,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MEDIO AMBIENTE Y BIENESTAR COMUNITARIO.</td>
-<td class="cuerpo_tabla_der">134.771.720,00</td>
+<td>MEDIO AMBIENTE Y BIENESTAR COMUNITARIO.</td>
+<td>134.771.720,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der">42.385.560,00</td>
+<td>CULTURA Y DEPORTES.</td>
+<td>42.385.560,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INFRAESTRUCTURAS BÁSICAS Y TRANSPORTES.</td>
-<td class="cuerpo_tabla_der">200.459.450,00</td>
+<td>INFRAESTRUCTURAS BÁSICAS Y TRANSPORTES.</td>
+<td>200.459.450,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">COMUNICACIONES.</td>
-<td class="cuerpo_tabla_der">95.348.590,00</td>
+<td>COMUNICACIONES.</td>
+<td>95.348.590,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INFRAESTRUCTURAS AGRARIAS.</td>
-<td class="cuerpo_tabla_der">85.197.380,00</td>
+<td>INFRAESTRUCTURAS AGRARIAS.</td>
+<td>85.197.380,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN CIENTÍFICA, TÉCNICA Y APLICADA.</td>
-<td class="cuerpo_tabla_der">33.669.390,00</td>
+<td>INVESTIGACIÓN CIENTÍFICA, TÉCNICA Y APLICADA.</td>
+<td>33.669.390,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REGULACIÓN ECONÓMICA.</td>
-<td class="cuerpo_tabla_der">58.371.250,00</td>
+<td>REGULACIÓN ECONÓMICA.</td>
+<td>58.371.250,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REGULACIÓN FINANCIERA.</td>
-<td class="cuerpo_tabla_der">5.989.530,00</td>
+<td>REGULACIÓN FINANCIERA.</td>
+<td>5.989.530,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AGRICULTURA, GANADERÍA Y PESCA.</td>
-<td class="cuerpo_tabla_der">1.201.267.390,00</td>
+<td>AGRICULTURA, GANADERÍA Y PESCA.</td>
+<td>1.201.267.390,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INDUSTRIA Y ENERGÍA.</td>
-<td class="cuerpo_tabla_der">40.292.320,00</td>
+<td>INDUSTRIA Y ENERGÍA.</td>
+<td>40.292.320,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TURISMO Y COMERCIO.</td>
-<td class="cuerpo_tabla_der">16.500.020,00</td>
+<td>TURISMO Y COMERCIO.</td>
+<td>16.500.020,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der">2.604.982.000,00</td>
+<td>DEUDA PÚBLICA.</td>
+<td>2.604.982.000,00</td>
 </tr>
 </tbody>
 </table>
@@ -1588,110 +1584,98 @@ Toledo, 20 de diciembre de 2019.–El Presidente, Emiliano García-Page Sánchez
 
 a) Cuantías de sueldo y trienios, referidas a doce mensualidades:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Grupo/Subgrupo</th>
-<th class="cabeza_tabla">Grupo/Subgrupo</th>
-<th class="cabeza_tabla" rowspan="2">Sueldo (euros)</th>
-<th class="cabeza_tabla" rowspan="2">Trienios (euros)</th>
+<th>Grupo/Subgrupo</th>
+<th>Grupo/Subgrupo</th>
+<th rowspan="2">Sueldo (euros)</th>
+<th rowspan="2">Trienios (euros)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Texto refundido de la Ley del Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015, de 30 de octubre)</th>
-<th class="cabeza_tabla">Ley 30/1984, de 2 de agosto</th>
+<th>Texto refundido de la Ley del Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015, de 30 de octubre)</th>
+<th>Ley 30/1984, de 2 de agosto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_der">14.159,52</td>
-<td class="cuerpo_tabla_der">544,92</td>
+<td>A1</td>
+<td>A</td>
+<td>14.159,52</td>
+<td>544,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_der">12.243,36</td>
-<td class="cuerpo_tabla_der">444,36</td>
+<td>A2</td>
+<td>B</td>
+<td>12.243,36</td>
+<td>444,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_der">9.192,72</td>
-<td class="cuerpo_tabla_der">336,24</td>
+<td>C1</td>
+<td>C</td>
+<td>9.192,72</td>
+<td>336,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_der">7.650,84</td>
-<td class="cuerpo_tabla_der">228,84</td>
+<td>C2</td>
+<td>D</td>
+<td>7.650,84</td>
+<td>228,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Agrupaciones profesionales (disposición adicional sexta)</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_der">7.002,48</td>
-<td class="cuerpo_tabla_der">172,32</td>
+<td>Agrupaciones profesionales (disposición adicional sexta)</td>
+<td>E</td>
+<td>7.002,48</td>
+<td>172,32</td>
 </tr>
 </tbody>
 </table>
 
 b) Cuantías de sueldo y trienios en pagas extraordinarias:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Grupo/Subgrupo</th>
-<th class="cabeza_tabla">Grupo/Subgrupo</th>
-<th class="cabeza_tabla" rowspan="2">Sueldo (euros)</th>
-<th class="cabeza_tabla" rowspan="2">Trienios (euros)</th>
+<th>Grupo/Subgrupo</th>
+<th>Grupo/Subgrupo</th>
+<th rowspan="2">Sueldo (euros)</th>
+<th rowspan="2">Trienios (euros)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Texto refundido de la Ley del Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015, de 30 de octubre)</th>
-<th class="cabeza_tabla">Ley 30/1984, de 2 de agosto</th>
+<th>Texto refundido de la Ley del Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015, de 30 de octubre)</th>
+<th>Ley 30/1984, de 2 de agosto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_der">728,13</td>
-<td class="cuerpo_tabla_der">28,02</td>
+<td>A1</td>
+<td>A</td>
+<td>728,13</td>
+<td>28,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_der">744,11</td>
-<td class="cuerpo_tabla_der">27,00</td>
+<td>A2</td>
+<td>B</td>
+<td>744,11</td>
+<td>27,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_der">662,10</td>
-<td class="cuerpo_tabla_der">24,20</td>
+<td>C1</td>
+<td>C</td>
+<td>662,10</td>
+<td>24,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_der">631,76</td>
-<td class="cuerpo_tabla_der">18,89</td>
+<td>C2</td>
+<td>D</td>
+<td>631,76</td>
+<td>18,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Agrupaciones profesionales (disposición adicional sexta)</td>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_der">583,54</td>
-<td class="cuerpo_tabla_der">14,36</td>
+<td>Agrupaciones profesionales (disposición adicional sexta)</td>
+<td>E</td>
+<td>583,54</td>
+<td>14,36</td>
 </tr>
 </tbody>
 </table>
@@ -2455,377 +2439,361 @@ Grupo 9. Ciclos formativos de:
 
 Anexo V.1 Plan Integral de Garantías Ciudadanas de Castilla-La Mancha
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Programa</th>
-<th class="cabeza_tabla" colspan="2">Actuación</th>
-<th class="cabeza_tabla">Partidas</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe 2020</p>
-<p class="cabeza_tabla">(euros)</p>
+<th>Programa</th>
+<th colspan="2">Actuación</th>
+<th>Partidas</th>
+<th>
+<p>Importe 2020</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Garantía Habitacional.</td>
+<td rowspan="2">Garantía Habitacional.</td>
 <td colspan="2">Ayudas al arrendamiento.</td>
-<td class="cuerpo_tabla_centro">17.06.431A.48170</td>
-<td class="cuerpo_tabla_der">11.075.610,00</td>
+<td>17.06.431A.48170</td>
+<td>11.075.610,00</td>
 </tr>
 <tr>
 <td colspan="2">Garantía de vivienda y resto de medidas.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">17.06.431A.42056</p>
-<p class="cuerpo_tabla_centro">17.06.431A.67003</p>
-<p class="cuerpo_tabla_centro">17.06.431A.76170</p>
+<td>
+<p>17.06.431A.42056</p>
+<p>17.06.431A.67003</p>
+<p>17.06.431A.76170</p>
 </td>
-<td class="cuerpo_tabla_der">8.431.860,00</td>
+<td>8.431.860,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Garantía de Suministros básicos del hogar.</td>
+<td>Garantía de Suministros básicos del hogar.</td>
 <td colspan="2">Emergencia contra la pobreza energética; paralización de cortes de suministros eléctricos.</td>
-<td class="cuerpo_tabla_centro">27.12.312A.48053</td>
-<td class="cuerpo_tabla_der">500.000,00</td>
+<td>27.12.312A.48053</td>
+<td>500.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Garantía de Rentas.</td>
+<td rowspan="5">Garantía de Rentas.</td>
 <td>Trabajo</td>
-<td class="cuerpo_tabla_izq">Planes de empleo protegido, formación en alternancia con el empleo, becas alumnos formación para el empleo y empresas de inserción.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">19.08.322B.46641</p>
-<p class="cuerpo_tabla_centro">19.08.322B.4664J</p>
-<p class="cuerpo_tabla_centro">19.08.322B.48641</p>
-<p class="cuerpo_tabla_centro">19.08.322B.4864J</p>
-<p class="cuerpo_tabla_centro">19.08.322B.4761S</p>
-<p class="cuerpo_tabla_centro">19.09.324B.42900</p>
-<p class="cuerpo_tabla_centro">19.09.324B.43000</p>
-<p class="cuerpo_tabla_centro">19.09.324B.46649</p>
-<p class="cuerpo_tabla_centro">19.09.324B.48649</p>
-<p class="cuerpo_tabla_centro">19.09.324A.48625</p>
+<td>Planes de empleo protegido, formación en alternancia con el empleo, becas alumnos formación para el empleo y empresas de inserción.</td>
+<td>
+<p>19.08.322B.46641</p>
+<p>19.08.322B.4664J</p>
+<p>19.08.322B.48641</p>
+<p>19.08.322B.4864J</p>
+<p>19.08.322B.4761S</p>
+<p>19.09.324B.42900</p>
+<p>19.09.324B.43000</p>
+<p>19.09.324B.46649</p>
+<p>19.09.324B.48649</p>
+<p>19.09.324A.48625</p>
 </td>
-<td class="cuerpo_tabla_der">88.556.970,00</td>
+<td>88.556.970,00</td>
 </tr>
 <tr>
 <td rowspan="2">Educación</td>
-<td class="cuerpo_tabla_izq">Ayudas y becas a la escolarización: matrícula, libros de texto, material escolar, etc.</td>
-<td class="cuerpo_tabla_centro">18.02.423A.48712</td>
-<td class="cuerpo_tabla_der" rowspan="2">10.428.360,00</td>
+<td>Ayudas y becas a la escolarización: matrícula, libros de texto, material escolar, etc.</td>
+<td>18.02.423A.48712</td>
+<td rowspan="2">10.428.360,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas y becas para transporte escolar y comedor escolar. Admisión en residencias públicas. Ayudas para estancias formativas en el extranjero.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">18.02.423A.48712</p>
-<p class="cuerpo_tabla_centro">18.02.423A.22902</p>
+<td>Ayudas y becas para transporte escolar y comedor escolar. Admisión en residencias públicas. Ayudas para estancias formativas en el extranjero.</td>
+<td>
+<p>18.02.423A.48712</p>
+<p>18.02.423A.22902</p>
 </td>
 </tr>
 <tr>
 <td>Servicios sociales</td>
-<td class="cuerpo_tabla_izq">Renta garantizada; emergencia social; mantenimiento de las condiciones básicas de vida; prestaciones a familias numerosas.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.12.312A.48118</p>
-<p class="cuerpo_tabla_centro">27.12.312A.4811J</p>
-<p class="cuerpo_tabla_centro">27.12.312A.78114</p>
+<td>Renta garantizada; emergencia social; mantenimiento de las condiciones básicas de vida; prestaciones a familias numerosas.</td>
+<td>
+<p>27.12.312A.48118</p>
+<p>27.12.312A.4811J</p>
+<p>27.12.312A.78114</p>
 </td>
-<td class="cuerpo_tabla_der">27.518.320,00</td>
+<td>27.518.320,00</td>
 </tr>
 <tr>
 <td>Igualdad de género</td>
-<td class="cuerpo_tabla_izq">Ayudas de solidaridad y sociales a mujeres víctimas de violencia de género.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">70.01.323B.46121</p>
-<p class="cuerpo_tabla_centro">70.01.323B.48121</p>
+<td>Ayudas de solidaridad y sociales a mujeres víctimas de violencia de género.</td>
+<td>
+<p>70.01.323B.46121</p>
+<p>70.01.323B.48121</p>
 </td>
-<td class="cuerpo_tabla_der">375.800,00</td>
+<td>375.800,00</td>
 </tr>
 </tbody>
 </table>
 
 Anexo V.2 Resto de actuaciones de emergencia ciudadana
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Área</th>
-<th class="cabeza_tabla" colspan="3">Actuación</th>
-<th class="cabeza_tabla">Partidas</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe 2020</p>
-<p class="cabeza_tabla">(euros)</p>
+<th colspan="2">Área</th>
+<th colspan="3">Actuación</th>
+<th>Partidas</th>
+<th>
+<p>Importe 2020</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td colspan="2" rowspan="4">Bienestar social.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Programas interés general.</td>
-<td class="cuerpo_tabla_izq">Actuaciones IRPF.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.12.312A.48000</p>
-<p class="cuerpo_tabla_centro">27.12.312A.78000</p>
+<td colspan="2">Programas interés general.</td>
+<td>Actuaciones IRPF.</td>
+<td>
+<p>27.12.312A.48000</p>
+<p>27.12.312A.78000</p>
 </td>
-<td class="cuerpo_tabla_der">15.795.320,00</td>
+<td>15.795.320,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="3">Programas sociales básicos.</td>
-<td class="cuerpo_tabla_izq">Ayudas a domicilio.</td>
-<td class="cuerpo_tabla_centro">27.05.313A.46111</td>
-<td class="cuerpo_tabla_der">44.075.840,00</td>
+<td colspan="2" rowspan="3">Programas sociales básicos.</td>
+<td>Ayudas a domicilio.</td>
+<td>27.05.313A.46111</td>
+<td>44.075.840,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicios sociales de atención primaria.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.05.313A.21*</p>
-<p class="cuerpo_tabla_centro">27.05.313A.22*</p>
-<p class="cuerpo_tabla_centro">27.05.313A.46118</p>
+<td>Servicios sociales de atención primaria.</td>
+<td>
+<p>27.05.313A.21*</p>
+<p>27.05.313A.22*</p>
+<p>27.05.313A.46118</p>
 </td>
-<td class="cuerpo_tabla_der">19.296.110,00</td>
+<td>19.296.110,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Voluntariado.</td>
-<td class="cuerpo_tabla_centro">27.05.313A.48182</td>
-<td class="cuerpo_tabla_der">181.730,00</td>
+<td>Voluntariado.</td>
+<td>27.05.313A.48182</td>
+<td>181.730,00</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="16">Bienestar social.</td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="7">Dependencia y discapacidad.</td>
-<td class="cuerpo_tabla_izq">Prestaciones económicas a favor de personas en situación de dependencia.</td>
-<td class="cuerpo_tabla_centro">27.03.313H.4811G</td>
-<td class="cuerpo_tabla_der">124.452.560,00</td>
+<td colspan="2" rowspan="7">Dependencia y discapacidad.</td>
+<td>Prestaciones económicas a favor de personas en situación de dependencia.</td>
+<td>27.03.313H.4811G</td>
+<td>124.452.560,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones para la participación en programas de integración e inclusión social del sistema público de servicios sociales.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.05.313A.42200</p>
-<p class="cuerpo_tabla_centro">27.05.313A.42204</p>
-<p class="cuerpo_tabla_centro">27.05.313A.42208</p>
-<p class="cuerpo_tabla_centro">27.05.313A.48153</p>
+<td>Subvenciones para la participación en programas de integración e inclusión social del sistema público de servicios sociales.</td>
+<td>
+<p>27.05.313A.42200</p>
+<p>27.05.313A.42204</p>
+<p>27.05.313A.42208</p>
+<p>27.05.313A.48153</p>
 </td>
-<td class="cuerpo_tabla_der">4.962.340,00</td>
+<td>4.962.340,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones a entidades sin ánimo de lucro para el mantenimiento de centros y servicios destinados a la atención de personas con discapacidad.</td>
-<td class="cuerpo_tabla_centro">27.08.313C.48141</td>
-<td class="cuerpo_tabla_der">51.144.980,00</td>
+<td>Subvenciones a entidades sin ánimo de lucro para el mantenimiento de centros y servicios destinados a la atención de personas con discapacidad.</td>
+<td>27.08.313C.48141</td>
+<td>51.144.980,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones a entidades públicas para el mantenimiento de centros y servicios destinados a la atención de personas con discapacidad.</td>
-<td class="cuerpo_tabla_centro">27.08.313C.46141</td>
-<td class="cuerpo_tabla_der">6.732.960,00</td>
+<td>Subvenciones a entidades públicas para el mantenimiento de centros y servicios destinados a la atención de personas con discapacidad.</td>
+<td>27.08.313C.46141</td>
+<td>6.732.960,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prevención de situaciones de dependencia y promoción de la autonomía personal.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.03.313H.4611I</p>
-<p class="cuerpo_tabla_centro">27.03.313H.4811I</p>
+<td>Prevención de situaciones de dependencia y promoción de la autonomía personal.</td>
+<td>
+<p>27.03.313H.4611I</p>
+<p>27.03.313H.4811I</p>
 </td>
-<td class="cuerpo_tabla_der">4.728.130,00</td>
+<td>4.728.130,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acción tutelar en Castilla-La Mancha.</td>
-<td class="cuerpo_tabla_centro">27.08.313C.48142</td>
-<td class="cuerpo_tabla_der">2.634.590,00</td>
+<td>Acción tutelar en Castilla-La Mancha.</td>
+<td>27.08.313C.48142</td>
+<td>2.634.590,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Centros residenciales y centros ocupacionales para personas con discapacidad.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.08.313C.20*</p>
-<p class="cuerpo_tabla_centro">27.08.313C.21*</p>
-<p class="cuerpo_tabla_centro">27.08.313C.22*</p>
-<p class="cuerpo_tabla_centro">27.08.313C.245*</p>
+<td>Centros residenciales y centros ocupacionales para personas con discapacidad.</td>
+<td>
+<p>27.08.313C.20*</p>
+<p>27.08.313C.21*</p>
+<p>27.08.313C.22*</p>
+<p>27.08.313C.245*</p>
 </td>
-<td class="cuerpo_tabla_der">21.366.500,00</td>
+<td>21.366.500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="6">Menores y familias.</td>
-<td class="cuerpo_tabla_izq">Ayudas económicas para apoyar la atención de menores acogidos, tanto por su familia extensa, como por familia seleccionada por la Administración, como por urgencia.</td>
-<td class="cuerpo_tabla_centro">27.07.313E.48165</td>
-<td class="cuerpo_tabla_der">3.496.080,00</td>
+<td colspan="2" rowspan="6">Menores y familias.</td>
+<td>Ayudas económicas para apoyar la atención de menores acogidos, tanto por su familia extensa, como por familia seleccionada por la Administración, como por urgencia.</td>
+<td>27.07.313E.48165</td>
+<td>3.496.080,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Programa de atención a la infancia y a las familias.</td>
-<td class="cuerpo_tabla_centro">27.07.313B.48162</td>
-<td class="cuerpo_tabla_der">6.232.760,00</td>
+<td>Programa de atención a la infancia y a las familias.</td>
+<td>27.07.313B.48162</td>
+<td>6.232.760,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atención y acompañamiento al menor, gestión de plazas residenciales.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.07.313E.21*</p>
-<p class="cuerpo_tabla_centro">27.07.313E.22*</p>
-<p class="cuerpo_tabla_centro">27.07.313E.245*</p>
+<td>Atención y acompañamiento al menor, gestión de plazas residenciales.</td>
+<td>
+<p>27.07.313E.21*</p>
+<p>27.07.313E.22*</p>
+<p>27.07.313E.245*</p>
 </td>
-<td class="cuerpo_tabla_der">10.804.040,00</td>
+<td>10.804.040,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas para el desarrollo de programas de autonomía personal y preparación para la vida independiente.</td>
-<td class="cuerpo_tabla_centro">27.07.313B.48168</td>
-<td class="cuerpo_tabla_der">480.370,00</td>
+<td>Ayudas para el desarrollo de programas de autonomía personal y preparación para la vida independiente.</td>
+<td>27.07.313B.48168</td>
+<td>480.370,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prevención y apoyo a las familias con medios ajenos.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.07.313B.21*</p>
-<p class="cuerpo_tabla_centro">27.07.313B.22*</p>
-<p class="cuerpo_tabla_centro">27.07.313B.24*</p>
+<td>Prevención y apoyo a las familias con medios ajenos.</td>
+<td>
+<p>27.07.313B.21*</p>
+<p>27.07.313B.22*</p>
+<p>27.07.313B.24*</p>
 </td>
-<td class="cuerpo_tabla_der">192.380,00</td>
+<td>192.380,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones a entidades privadas sin ánimo de lucro para el mantenimiento de centros destinados a menores afectados por medidas de protección judicial.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.07.313E.48163</p>
-<p class="cuerpo_tabla_centro">27.07.313E.4816A</p>
+<td>Subvenciones a entidades privadas sin ánimo de lucro para el mantenimiento de centros destinados a menores afectados por medidas de protección judicial.</td>
+<td>
+<p>27.07.313E.48163</p>
+<p>27.07.313E.4816A</p>
 </td>
-<td class="cuerpo_tabla_der">16.185.860,00</td>
+<td>16.185.860,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">Mayores.</td>
-<td class="cuerpo_tabla_izq">Centros residenciales de mayores de la red pública de Castilla-La Mancha.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.04.313D.20*</p>
-<p class="cuerpo_tabla_centro">27.04.313D.21*</p>
-<p class="cuerpo_tabla_centro">27.04.313D.22*</p>
-<p class="cuerpo_tabla_centro">27.04.313D.245*</p>
+<td colspan="2" rowspan="2">Mayores.</td>
+<td>Centros residenciales de mayores de la red pública de Castilla-La Mancha.</td>
+<td>
+<p>27.04.313D.20*</p>
+<p>27.04.313D.21*</p>
+<p>27.04.313D.22*</p>
+<p>27.04.313D.245*</p>
 </td>
-<td class="cuerpo_tabla_der">154.616.610,00</td>
+<td>154.616.610,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Subvenciones a entidades sin ánimo de lucro, asociaciones de mayores y entidades públicas para el desarrollo de programas de atención a personas mayores en el ámbito comunitario y el mantenimiento de servicios de estancias diurnas (programas de autonomía personal).</p>
-<p class="cuerpo_tabla_izq">Turismo y termalismo social.</p>
+<td>
+<p>Subvenciones a entidades sin ánimo de lucro, asociaciones de mayores y entidades públicas para el desarrollo de programas de atención a personas mayores en el ámbito comunitario y el mantenimiento de servicios de estancias diurnas (programas de autonomía personal).</p>
+<p>Turismo y termalismo social.</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.04.313D.46*</p>
-<p class="cuerpo_tabla_centro">27.04.313D.48*</p>
+<td>
+<p>27.04.313D.46*</p>
+<p>27.04.313D.48*</p>
 </td>
-<td class="cuerpo_tabla_der">21.503.910,00</td>
+<td>21.503.910,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Acción humanitaria y cooperación.</td>
-<td class="cuerpo_tabla_izq">Subvenciones y actuaciones de acción humanitaria y proyectos de educación y cooperación para el desarrollo.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">27.12.313F.22*</p>
-<p class="cuerpo_tabla_centro">27.12.313F.48119</p>
+<td colspan="2">Acción humanitaria y cooperación.</td>
+<td>Subvenciones y actuaciones de acción humanitaria y proyectos de educación y cooperación para el desarrollo.</td>
+<td>
+<p>27.12.313F.22*</p>
+<p>27.12.313F.48119</p>
 </td>
-<td class="cuerpo_tabla_der">2.058.000,00</td>
+<td>2.058.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="6">Empleo.</td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="6">Empleo.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Plan regional de empleo y garantía de rentas: incentivos a la contratación.</td>
-<td class="cuerpo_tabla_centro">19.08.322B.4761G</td>
-<td class="cuerpo_tabla_der">5.643.000,00</td>
+<td colspan="2" rowspan="6">Empleo.</td>
+<td colspan="2" rowspan="6">Empleo.</td>
+<td rowspan="6">Plan regional de empleo y garantía de rentas: incentivos a la contratación.</td>
+<td>19.08.322B.4761G</td>
+<td>5.643.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.08.322B.4764H</td>
-<td class="cuerpo_tabla_der">2.726.800,00</td>
+<td>19.08.322B.4764H</td>
+<td>2.726.800,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.08.322B.4861G</td>
-<td class="cuerpo_tabla_der">462.000,00</td>
+<td>19.08.322B.4861G</td>
+<td>462.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.08.322B.4864H</td>
-<td class="cuerpo_tabla_der">623.200,00</td>
+<td>19.08.322B.4864H</td>
+<td>623.200,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.09.324B.47643</td>
-<td class="cuerpo_tabla_der">3.103.840,00</td>
+<td>19.09.324B.47643</td>
+<td>3.103.840,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.09.324B.48643</td>
-<td class="cuerpo_tabla_der">122.000,00</td>
+<td>19.09.324B.48643</td>
+<td>122.000,00</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3">Sanidad.</td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="3">Ayudas en materia sociosanitaria y de salud.</td>
-<td class="cuerpo_tabla_izq">Subvenciones para el funcionamiento de centros y desarrollo de programas de atención a personas con drogodependencia (entidades locales).</td>
-<td class="cuerpo_tabla_centro">26.06.413A.46231</td>
-<td class="cuerpo_tabla_der">326.000,00</td>
+<td colspan="2" rowspan="3">Ayudas en materia sociosanitaria y de salud.</td>
+<td>Subvenciones para el funcionamiento de centros y desarrollo de programas de atención a personas con drogodependencia (entidades locales).</td>
+<td>26.06.413A.46231</td>
+<td>326.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones para el funcionamiento de centros y desarrollo de programas de atención a personas con drogodependencia (entidades sin fin de lucro).</td>
-<td class="cuerpo_tabla_centro">26.06.413A.48231</td>
-<td class="cuerpo_tabla_der">217.240,00</td>
+<td>Subvenciones para el funcionamiento de centros y desarrollo de programas de atención a personas con drogodependencia (entidades sin fin de lucro).</td>
+<td>26.06.413A.48231</td>
+<td>217.240,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvenciones para entidades y asociaciones sin ánimo de lucro en materia sociosanitaria y de salud mental.</td>
-<td class="cuerpo_tabla_centro">26.10.413D.42304</td>
-<td class="cuerpo_tabla_der">7.872.540,00</td>
+<td>Subvenciones para entidades y asociaciones sin ánimo de lucro en materia sociosanitaria y de salud mental.</td>
+<td>26.10.413D.42304</td>
+<td>7.872.540,00</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3">Servicio de Salud de Castilla-La Mancha (SESCAM).</td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="3">Salud.</td>
-<td class="cuerpo_tabla_izq">Acceso de los ciudadanos a las prestaciones sanitarias y farmacéuticas básicas mediante la expedición de la tarjeta sanitaria individual (servicios contratados administrativos).</td>
-<td class="cuerpo_tabla_centro">61.03.412D.22760</td>
-<td class="cuerpo_tabla_der">351.240,00</td>
+<td colspan="2" rowspan="3">Salud.</td>
+<td>Acceso de los ciudadanos a las prestaciones sanitarias y farmacéuticas básicas mediante la expedición de la tarjeta sanitaria individual (servicios contratados administrativos).</td>
+<td>61.03.412D.22760</td>
+<td>351.240,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reintegro de gastos por desplazamiento y gastos de estancia.</td>
-<td class="cuerpo_tabla_centro">61.03.412D.48217</td>
-<td class="cuerpo_tabla_der">3.086.840,00</td>
+<td>Reintegro de gastos por desplazamiento y gastos de estancia.</td>
+<td>61.03.412D.48217</td>
+<td>3.086.840,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reintegro de gastos por prestación ortoprotésica (prótesis y vehículos para personas con discapacidad).</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">61.03.412D.48218</p>
-<p class="cuerpo_tabla_centro">61.03.412D.48219</p>
+<td>Reintegro de gastos por prestación ortoprotésica (prótesis y vehículos para personas con discapacidad).</td>
+<td>
+<p>61.03.412D.48218</p>
+<p>61.03.412D.48219</p>
 </td>
-<td class="cuerpo_tabla_der">4.884.980,00</td>
+<td>4.884.980,00</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="8">Instituto de la Mujer.</td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="8">Igualdad.</td>
-<td class="cuerpo_tabla_izq">Subvención para la gestión del funcionamiento de los centros de la mujer y recursos de acogida (entidades locales).</td>
-<td class="cuerpo_tabla_centro">70.01.323B.46121</td>
-<td class="cuerpo_tabla_der">10.377.870,00</td>
+<td colspan="2" rowspan="8">Igualdad.</td>
+<td>Subvención para la gestión del funcionamiento de los centros de la mujer y recursos de acogida (entidades locales).</td>
+<td>70.01.323B.46121</td>
+<td>10.377.870,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvención para la gestión del funcionamiento de los centros de la mujer y recursos de acogida (entidades sin ánimo de lucro).</td>
-<td class="cuerpo_tabla_centro" rowspan="6">70.01.323B.48121</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Subvención para la gestión del funcionamiento de los centros de la mujer y recursos de acogida (entidades sin ánimo de lucro).</td>
+<td rowspan="6">70.01.323B.48121</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistencia jurídica procesal a víctimas de violencia de género.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Asistencia jurídica procesal a víctimas de violencia de género.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas a las víctimas de trata.</td>
-<td class="cuerpo_tabla_der">3.174.930,00</td>
+<td>Ayudas a las víctimas de trata.</td>
+<td>3.174.930,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas a mujeres víctimas de discriminación múltiple.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Ayudas a mujeres víctimas de discriminación múltiple.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proyecto “DANA”, empleo y emprendimiento en igualdades.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Proyecto “DANA”, empleo y emprendimiento en igualdades.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proyecto “ADELANTE”. Integración socio-laboral.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>Proyecto “ADELANTE”. Integración socio-laboral.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subvención para el acceso a pisos tutelados destinados a mujeres víctimas de violencia de género mediante subvención en especie.</td>
-<td class="cuerpo_tabla_centro">70.01.323B.48090</td>
-<td class="cuerpo_tabla_der">25.000,00</td>
+<td>Subvención para el acceso a pisos tutelados destinados a mujeres víctimas de violencia de género mediante subvención en especie.</td>
+<td>70.01.323B.48090</td>
+<td>25.000,00</td>
 </tr>
 </tbody>
 </table>
@@ -2835,66 +2803,61 @@ Anexo V.2 Resto de actuaciones de emergencia ciudadana
 <table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Capítulo</th>
-<th class="cabeza_tabla">(Miles de euros)</th>
+<th colspan="2">Capítulo</th>
+<th>(Miles de euros)</th>
 </tr>
 </thead>
-<colgroup>
-<col width="5%">
-<col width="65%">
-<col width="30%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_der">1</td>
-<td class="cuerpo_tabla_izq">IMPUESTOS DIRECTOS.</td>
-<td class="cuerpo_tabla_der">1.525.743,28</td>
+<td>1</td>
+<td>IMPUESTOS DIRECTOS.</td>
+<td>1.525.743,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">2</td>
-<td class="cuerpo_tabla_izq">IMPUESTOS INDIRECTOS.</td>
-<td class="cuerpo_tabla_der">2.828.147,39</td>
+<td>2</td>
+<td>IMPUESTOS INDIRECTOS.</td>
+<td>2.828.147,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">3</td>
-<td class="cuerpo_tabla_izq">TASAS, PRECIOS PÚBLICOS Y OTROS INGRESOS.</td>
-<td class="cuerpo_tabla_der">249.939,39</td>
+<td>3</td>
+<td>TASAS, PRECIOS PÚBLICOS Y OTROS INGRESOS.</td>
+<td>249.939,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">4</td>
-<td class="cuerpo_tabla_izq">TRANSFERENCIAS CORRIENTES.</td>
-<td class="cuerpo_tabla_der">2.856.508,72</td>
+<td>4</td>
+<td>TRANSFERENCIAS CORRIENTES.</td>
+<td>2.856.508,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">5</td>
-<td class="cuerpo_tabla_izq">INGRESOS PATRIMONIALES.</td>
-<td class="cuerpo_tabla_der">11.976,48</td>
+<td>5</td>
+<td>INGRESOS PATRIMONIALES.</td>
+<td>11.976,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">6</td>
-<td class="cuerpo_tabla_izq">ENAJENACIÓN DE INVERSIONES REALES.</td>
-<td class="cuerpo_tabla_der">6.399,95</td>
+<td>6</td>
+<td>ENAJENACIÓN DE INVERSIONES REALES.</td>
+<td>6.399,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">7</td>
-<td class="cuerpo_tabla_izq">TRANSFERENCIAS DE CAPITAL.</td>
-<td class="cuerpo_tabla_der">437.027,60</td>
+<td>7</td>
+<td>TRANSFERENCIAS DE CAPITAL.</td>
+<td>437.027,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">8</td>
-<td class="cuerpo_tabla_izq">ACTIVOS FINANCIEROS.</td>
-<td class="cuerpo_tabla_der">3.676,73</td>
+<td>8</td>
+<td>ACTIVOS FINANCIEROS.</td>
+<td>3.676,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">9</td>
-<td class="cuerpo_tabla_izq">PASIVOS FINANCIEROS.</td>
-<td class="cuerpo_tabla_der">2.585.663,77</td>
+<td>9</td>
+<td>PASIVOS FINANCIEROS.</td>
+<td>2.585.663,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Total General.</p>
+<td colspan="2">
+<p>Total General.</p>
 </td>
-<td class="cuerpo_tabla_der">10.505.083,31</td>
+<td>10.505.083,31</td>
 </tr>
 </tbody>
 </table>
@@ -2904,189 +2867,184 @@ Anexo V.2 Resto de actuaciones de emergencia ciudadana
 <table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Artículo</th>
-<th class="cabeza_tabla">(Miles de euros)</th>
+<th colspan="2">Artículo</th>
+<th>(Miles de euros)</th>
 </tr>
 </thead>
-<colgroup>
-<col width="5%">
-<col width="65%">
-<col width="30%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_der">10</td>
-<td class="cuerpo_tabla_izq">SOBRE LA RENTA.</td>
-<td class="cuerpo_tabla_der">1.425.679,48</td>
+<td>10</td>
+<td>SOBRE LA RENTA.</td>
+<td>1.425.679,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">11</td>
-<td class="cuerpo_tabla_izq">SOBRE EL CAPITAL.</td>
-<td class="cuerpo_tabla_der">100.063,80</td>
+<td>11</td>
+<td>SOBRE EL CAPITAL.</td>
+<td>100.063,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">20</td>
-<td class="cuerpo_tabla_izq">TRANSMISIONES PATRIMONIALES Y ACTOS JURÍDICOS DOCUMENTADOS.</td>
-<td class="cuerpo_tabla_der">385.745,49</td>
+<td>20</td>
+<td>TRANSMISIONES PATRIMONIALES Y ACTOS JURÍDICOS DOCUMENTADOS.</td>
+<td>385.745,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">21</td>
-<td class="cuerpo_tabla_izq">SOBRE EL JUEGO<span> </span>.</td>
-<td class="cuerpo_tabla_der">6.674,22</td>
+<td>21</td>
+<td>SOBRE EL JUEGO<span> </span>.</td>
+<td>6.674,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">22</td>
-<td class="cuerpo_tabla_izq">SOBRE CONSUMOS ESPECÍFICOS.</td>
-<td class="cuerpo_tabla_der">829.066,65</td>
+<td>22</td>
+<td>SOBRE CONSUMOS ESPECÍFICOS.</td>
+<td>829.066,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">23</td>
-<td class="cuerpo_tabla_izq">SOBRE EL VALOR AÑADIDO.</td>
-<td class="cuerpo_tabla_der">1.592.318,53</td>
+<td>23</td>
+<td>SOBRE EL VALOR AÑADIDO.</td>
+<td>1.592.318,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">24</td>
-<td class="cuerpo_tabla_izq">IMPUESTOS MEDIOAMBIENTALES.</td>
-<td class="cuerpo_tabla_der">14.342,50</td>
+<td>24</td>
+<td>IMPUESTOS MEDIOAMBIENTALES.</td>
+<td>14.342,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">30</td>
-<td class="cuerpo_tabla_izq">VENTA DE BIENES.</td>
-<td class="cuerpo_tabla_der">570,09</td>
+<td>30</td>
+<td>VENTA DE BIENES.</td>
+<td>570,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">31</td>
-<td class="cuerpo_tabla_izq">PRESTACIÓN DE SERVICIOS Y PRECIOS PÚBLICOS.</td>
-<td class="cuerpo_tabla_der">109.293,29</td>
+<td>31</td>
+<td>PRESTACIÓN DE SERVICIOS Y PRECIOS PÚBLICOS.</td>
+<td>109.293,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">32</td>
-<td class="cuerpo_tabla_izq">TASAS.</td>
-<td class="cuerpo_tabla_der">99.626,66</td>
+<td>32</td>
+<td>TASAS.</td>
+<td>99.626,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">38</td>
-<td class="cuerpo_tabla_izq">REINTEGRO DE OPERACIONES CORRIENTES.</td>
-<td class="cuerpo_tabla_der">10.500,24</td>
+<td>38</td>
+<td>REINTEGRO DE OPERACIONES CORRIENTES.</td>
+<td>10.500,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">39</td>
-<td class="cuerpo_tabla_izq">OTROS INGRESOS.</td>
-<td class="cuerpo_tabla_der">29.949,11</td>
+<td>39</td>
+<td>OTROS INGRESOS.</td>
+<td>29.949,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">40</td>
-<td class="cuerpo_tabla_izq">DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">290,00</td>
+<td>40</td>
+<td>DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td>290,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">43</td>
-<td class="cuerpo_tabla_izq">DE LA ADMINISTRACIÓN DEL ESTADO, OO.AA., EE.PP. Y OTROS ENTES PÚBLICOS ESTATALES.</td>
-<td class="cuerpo_tabla_der">1.869.464,95</td>
+<td>43</td>
+<td>DE LA ADMINISTRACIÓN DEL ESTADO, OO.AA., EE.PP. Y OTROS ENTES PÚBLICOS ESTATALES.</td>
+<td>1.869.464,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">44</td>
-<td class="cuerpo_tabla_izq">DE LA SEGURIDAD SOCIAL.</td>
-<td class="cuerpo_tabla_der">11,16</td>
+<td>44</td>
+<td>DE LA SEGURIDAD SOCIAL.</td>
+<td>11,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">46</td>
-<td class="cuerpo_tabla_izq">DE CORPORACIONES LOCALES.</td>
-<td class="cuerpo_tabla_der">36.911,55</td>
+<td>46</td>
+<td>DE CORPORACIONES LOCALES.</td>
+<td>36.911,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">47</td>
-<td class="cuerpo_tabla_izq">DE EMPRESAS PRIVADAS.</td>
-<td class="cuerpo_tabla_der">10,00</td>
+<td>47</td>
+<td>DE EMPRESAS PRIVADAS.</td>
+<td>10,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">49</td>
-<td class="cuerpo_tabla_izq">DEL EXTERIOR.</td>
-<td class="cuerpo_tabla_der">949.821,06</td>
+<td>49</td>
+<td>DEL EXTERIOR.</td>
+<td>949.821,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">51</td>
-<td class="cuerpo_tabla_izq">INTERESES DE ANTICIPOS Y PRÉSTAMOS CONCEDIDOS.</td>
-<td class="cuerpo_tabla_der">41,90</td>
+<td>51</td>
+<td>INTERESES DE ANTICIPOS Y PRÉSTAMOS CONCEDIDOS.</td>
+<td>41,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">52</td>
-<td class="cuerpo_tabla_izq">INTERESES DE DEPÓSITOS.</td>
-<td class="cuerpo_tabla_der">10,40</td>
+<td>52</td>
+<td>INTERESES DE DEPÓSITOS.</td>
+<td>10,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">54</td>
-<td class="cuerpo_tabla_izq">RENTA DE BIENES INMUEBLES.</td>
-<td class="cuerpo_tabla_der">5.459,73</td>
+<td>54</td>
+<td>RENTA DE BIENES INMUEBLES.</td>
+<td>5.459,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">55</td>
-<td class="cuerpo_tabla_izq">PRODUCTOS DE CONCESIONES Y APROVECHAMIENTOS ESPECIALES.</td>
-<td class="cuerpo_tabla_der">3.394,45</td>
+<td>55</td>
+<td>PRODUCTOS DE CONCESIONES Y APROVECHAMIENTOS ESPECIALES.</td>
+<td>3.394,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">59</td>
-<td class="cuerpo_tabla_izq">OTROS INGRESOS PATRIMONIALES.</td>
-<td class="cuerpo_tabla_der">3.070,00</td>
+<td>59</td>
+<td>OTROS INGRESOS PATRIMONIALES.</td>
+<td>3.070,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">60</td>
-<td class="cuerpo_tabla_izq">DE TERRENOS.</td>
-<td class="cuerpo_tabla_der">3.700,00</td>
+<td>60</td>
+<td>DE TERRENOS.</td>
+<td>3.700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">61</td>
-<td class="cuerpo_tabla_izq">DE LAS DEMÁS INVERSIONES REALES.</td>
-<td class="cuerpo_tabla_der">535,25</td>
+<td>61</td>
+<td>DE LAS DEMÁS INVERSIONES REALES.</td>
+<td>535,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">68</td>
-<td class="cuerpo_tabla_izq">REINTEGRO POR OPERACIONES DE CAPITAL.</td>
-<td class="cuerpo_tabla_der">2.164,70</td>
+<td>68</td>
+<td>REINTEGRO POR OPERACIONES DE CAPITAL.</td>
+<td>2.164,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">70</td>
-<td class="cuerpo_tabla_izq">DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">253,19</td>
+<td>70</td>
+<td>DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td>253,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">73</td>
-<td class="cuerpo_tabla_izq">DE LA ADMINISTRACIÓN DEL ESTADO, OO.AA., EE.PP. Y OTROS ENTES PÚBLICOSESTATALES.</td>
-<td class="cuerpo_tabla_der">86.628,79</td>
+<td>73</td>
+<td>DE LA ADMINISTRACIÓN DEL ESTADO, OO.AA., EE.PP. Y OTROS ENTES PÚBLICOSESTATALES.</td>
+<td>86.628,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">76</td>
-<td class="cuerpo_tabla_izq">DE CORPORACIONES LOCALES.</td>
-<td class="cuerpo_tabla_der">10.096,00</td>
+<td>76</td>
+<td>DE CORPORACIONES LOCALES.</td>
+<td>10.096,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">77</td>
-<td class="cuerpo_tabla_izq">DE EMPRESAS PRIVADAS.</td>
-<td class="cuerpo_tabla_der">149,43</td>
+<td>77</td>
+<td>DE EMPRESAS PRIVADAS.</td>
+<td>149,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">78</td>
-<td class="cuerpo_tabla_izq">DE FAMILIAS E INSTITUCIONES SIN FIN DE LUCRO.</td>
-<td class="cuerpo_tabla_der">10.785,00</td>
+<td>78</td>
+<td>DE FAMILIAS E INSTITUCIONES SIN FIN DE LUCRO.</td>
+<td>10.785,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">79</td>
-<td class="cuerpo_tabla_izq">DEL EXTERIOR.</td>
-<td class="cuerpo_tabla_der">329.115,19</td>
+<td>79</td>
+<td>DEL EXTERIOR.</td>
+<td>329.115,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">82</td>
-<td class="cuerpo_tabla_izq">REINTEGRO DE PRÉSTAMOS CONCEDIDOS.</td>
-<td class="cuerpo_tabla_der">3.676,73</td>
+<td>82</td>
+<td>REINTEGRO DE PRÉSTAMOS CONCEDIDOS.</td>
+<td>3.676,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">91</td>
-<td class="cuerpo_tabla_izq">PRÉSTAMOS EN MONEDA NACIONAL.</td>
-<td class="cuerpo_tabla_der">2.585.663,77</td>
+<td>91</td>
+<td>PRÉSTAMOS EN MONEDA NACIONAL.</td>
+<td>2.585.663,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Total General.</td>
-<td class="cuerpo_tabla_der">10.505.083,31</td>
+<td colspan="2">Total General.</td>
+<td>10.505.083,31</td>
 </tr>
 </tbody>
 </table>
@@ -3098,1444 +3056,1444 @@ Anexo V.2 Resto de actuaciones de emergencia ciudadana
 <table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Clasificación funcional</th>
-<th class="cabeza_tabla">Grupo Función</th>
-<th class="cabeza_tabla">Función</th>
-<th class="cabeza_tabla">Subfunción</th>
-<th class="cabeza_tabla">Programa</th>
+<th colspan="2">Clasificación funcional</th>
+<th>Grupo Función</th>
+<th>Función</th>
+<th>Subfunción</th>
+<th>Programa</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_der">0</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">1</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">11</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA DE LA COMUNIDAD AUTÓNOMA Y DE SUS ORGANISMOS AUTÓNOMOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">011A</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">1</td>
-<td class="cuerpo_tabla_izq">SERVICIOS DE CARÁCTER GENERAL.</td>
-<td class="cuerpo_tabla_der">104.441,11</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">11</td>
-<td class="cuerpo_tabla_izq">ALTA DIRECCIÓN DE LA COMUNIDAD AUTÓNOMA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.873,13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">111</td>
-<td class="cuerpo_tabla_izq">ALTA DIRECCIÓN DE LA COMUNIDAD AUTÓNOMA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.253,00</td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">111A</td>
-<td class="cuerpo_tabla_izq">ACTIVIDAD LEGISLATIVA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.253,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">112</td>
-<td class="cuerpo_tabla_izq">ALTA DIRECCIÓN DEL GOBIERNO DE LA COMUNIDAD AUTÓNOMA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">17.620,13</td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">112A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE LA PRESIDENCIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.857,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">112B</td>
-<td class="cuerpo_tabla_izq">ALTO ASESORAMIENTO DE LA COMUNIDAD AUTÓNOMA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.762,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">12</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">74.778,85</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">121</td>
-<td class="cuerpo_tabla_izq">SERVICIOS GENERALES Y FUNCIÓN PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.511,69</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>0</td>
+<td>DEUDA PÚBLICA.</td>
+<td>2.604.982,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>1</td>
+<td>DEUDA PÚBLICA.</td>
+<td> </td>
+<td>2.604.982,00</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>11</td>
+<td>DEUDA PÚBLICA DE LA COMUNIDAD AUTÓNOMA Y DE SUS ORGANISMOS AUTÓNOMOS.</td>
+<td> </td>
+<td> </td>
+<td>2.604.982,00</td>
+<td> </td>
+</tr>
+<tr>
+<td>011A</td>
+<td>DEUDA PÚBLICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.604.982,00</td>
+</tr>
+<tr>
+<td>1</td>
+<td>SERVICIOS DE CARÁCTER GENERAL.</td>
+<td>104.441,11</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>11</td>
+<td>ALTA DIRECCIÓN DE LA COMUNIDAD AUTÓNOMA.</td>
+<td> </td>
+<td>28.873,13</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>111</td>
+<td>ALTA DIRECCIÓN DE LA COMUNIDAD AUTÓNOMA.</td>
+<td> </td>
+<td> </td>
+<td>11.253,00</td>
+<td> </td>
+</tr>
+<tr>
+<td>111A</td>
+<td>ACTIVIDAD LEGISLATIVA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11.253,00</td>
+</tr>
+<tr>
+<td>112</td>
+<td>ALTA DIRECCIÓN DEL GOBIERNO DE LA COMUNIDAD AUTÓNOMA.</td>
+<td> </td>
+<td> </td>
+<td>17.620,13</td>
+<td> </td>
+</tr>
+<tr>
+<td>112A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE LA PRESIDENCIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>15.857,33</td>
+</tr>
+<tr>
+<td>112B</td>
+<td>ALTO ASESORAMIENTO DE LA COMUNIDAD AUTÓNOMA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.762,80</td>
+</tr>
+<tr>
+<td>12</td>
+<td>ADMINISTRACIÓN GENERAL.</td>
+<td> </td>
+<td>74.778,85</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>121</td>
+<td>SERVICIOS GENERALES Y FUNCIÓN PÚBLICA.</td>
+<td> </td>
+<td> </td>
+<td>16.511,69</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">121B</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN DE LA FUNCIÓN PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.385,30</td>
+<td>121B</td>
+<td>ADMINISTRACIÓN DE LA FUNCIÓN PÚBLICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>5.385,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">121C</td>
-<td class="cuerpo_tabla_izq">RELACIÓN CON LAS CORPORACIONES LOCALES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.568,46</td>
+<td>121C</td>
+<td>RELACIÓN CON LAS CORPORACIONES LOCALES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6.568,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">121D</td>
-<td class="cuerpo_tabla_izq">SELECCIÓN Y FORMACIÓN DEL PERSONAL DE LA ADMINISTRACIÓN REGIONAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.557,93</td>
+<td>121D</td>
+<td>SELECCIÓN Y FORMACIÓN DEL PERSONAL DE LA ADMINISTRACIÓN REGIONAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.557,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126</td>
-<td class="cuerpo_tabla_izq">OTROS SERVICIOS GENERALES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">58.267,16</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>126</td>
+<td>OTROS SERVICIOS GENERALES.</td>
+<td> </td>
+<td> </td>
+<td>58.267,16</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126A</td>
-<td class="cuerpo_tabla_izq">DIARIO OFICIAL DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">474,02</td>
+<td>126A</td>
+<td>DIARIO OFICIAL DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>474,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126B</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE PUBLICACIONES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">138,18</td>
+<td>126B</td>
+<td>SERVICIO DE PUBLICACIONES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>138,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126C</td>
-<td class="cuerpo_tabla_izq">MEDIOS DE COMUNICACIÓN.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">53.632,86</td>
+<td>126C</td>
+<td>MEDIOS DE COMUNICACIÓN.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>53.632,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126D</td>
-<td class="cuerpo_tabla_izq">CALIDAD DE LOS SERVICIOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.790,95</td>
+<td>126D</td>
+<td>CALIDAD DE LOS SERVICIOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.790,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126E</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN DEL JUEGO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">391,91</td>
+<td>126E</td>
+<td>ORDENACIÓN DEL JUEGO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>391,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126F</td>
-<td class="cuerpo_tabla_izq">TRANSPARENCIA Y PARTICIPACIÓN.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">839,24</td>
+<td>126F</td>
+<td>TRANSPARENCIA Y PARTICIPACIÓN.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>839,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">13</td>
-<td class="cuerpo_tabla_izq">RELACIONES EXTERIORES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">789,13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>13</td>
+<td>RELACIONES EXTERIORES.</td>
+<td> </td>
+<td>789,13</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">131</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE RELACIONES EXTERIORES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">789,13</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>131</td>
+<td>ADMINISTRACIÓN GENERAL DE RELACIONES EXTERIORES.</td>
+<td> </td>
+<td> </td>
+<td>789,13</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">131A</td>
-<td class="cuerpo_tabla_izq">COORDINACIÓN DE ASUNTOS EUROPEOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">789,13</td>
+<td>131A</td>
+<td>COORDINACIÓN DE ASUNTOS EUROPEOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>789,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">2</td>
-<td class="cuerpo_tabla_izq">DEFENSA, PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA.</td>
-<td class="cuerpo_tabla_der">10.229,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>2</td>
+<td>DEFENSA, PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA.</td>
+<td>10.229,60</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">22</td>
-<td class="cuerpo_tabla_izq">PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.229,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>22</td>
+<td>PROTECCIÓN CIVIL Y SEGURIDAD CIUDADANA.</td>
+<td> </td>
+<td>10.229,60</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">221</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE SEGURIDAD Y PROTECCIÓN CIUDADANA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.229,60</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>221</td>
+<td>ADMINISTRACIÓN GENERAL DE SEGURIDAD Y PROTECCIÓN CIUDADANA.</td>
+<td> </td>
+<td> </td>
+<td>10.229,60</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">221A</td>
-<td class="cuerpo_tabla_izq">PROTECCIÓN CIUDADANA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.229,60</td>
+<td>221A</td>
+<td>PROTECCIÓN CIUDADANA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10.229,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">3</td>
-<td class="cuerpo_tabla_izq">SEGURIDAD, PROTECCIÓN Y PROMOCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der">1.030.638,52</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>3</td>
+<td>SEGURIDAD, PROTECCIÓN Y PROMOCIÓN SOCIAL.</td>
+<td>1.030.638,52</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">31</td>
-<td class="cuerpo_tabla_izq">SEGURIDAD Y PROTECCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">759.227,64</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>31</td>
+<td>SEGURIDAD Y PROTECCIÓN SOCIAL.</td>
+<td> </td>
+<td>759.227,64</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">311</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN, INSPECCIÓN Y CONTROL DE SEGURIDAD SOCIAL Y PROTECCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.295,73</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>311</td>
+<td>ADMINISTRACIÓN, INSPECCIÓN Y CONTROL DE SEGURIDAD SOCIAL Y PROTECCIÓN SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td>20.295,73</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">311A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.295,73</td>
+<td>311A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE BIENESTAR SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>20.295,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">312</td>
-<td class="cuerpo_tabla_izq">PENSIONES Y PRESTACIONES ASISTENCIALES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">46.393,54</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>312</td>
+<td>PENSIONES Y PRESTACIONES ASISTENCIALES.</td>
+<td> </td>
+<td> </td>
+<td>46.393,54</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">312A</td>
-<td class="cuerpo_tabla_izq">PENSIONES Y PRESTACIONES ASISTENCIALES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">46.393,54</td>
+<td>312A</td>
+<td>PENSIONES Y PRESTACIONES ASISTENCIALES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>46.393,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313</td>
-<td class="cuerpo_tabla_izq">ACCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">689.955,54</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>313</td>
+<td>ACCIÓN SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td>689.955,54</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313A</td>
-<td class="cuerpo_tabla_izq">PROGRAMAS SOCIALES BÁSICOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">78.820,85</td>
+<td>313A</td>
+<td>PROGRAMAS SOCIALES BÁSICOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>78.820,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313B</td>
-<td class="cuerpo_tabla_izq">PREVENCIÓN Y APOYO A LAS FAMILIAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.688,76</td>
+<td>313B</td>
+<td>PREVENCIÓN Y APOYO A LAS FAMILIAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>8.688,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313C</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">116.345,44</td>
+<td>313C</td>
+<td>ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>116.345,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313D</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LAS PERSONAS MAYORES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">299.085,84</td>
+<td>313D</td>
+<td>ATENCIÓN A LAS PERSONAS MAYORES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>299.085,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313E</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN Y ACOMPAÑAMIENTO AL MENOR.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40.001,98</td>
+<td>313E</td>
+<td>ATENCIÓN Y ACOMPAÑAMIENTO AL MENOR.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>40.001,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313F</td>
-<td class="cuerpo_tabla_izq">COOPERACIÓN AL DESARROLLO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.899,51</td>
+<td>313F</td>
+<td>COOPERACIÓN AL DESARROLLO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.899,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313H</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LA DEPENDENCIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">144.113,16</td>
+<td>313H</td>
+<td>ATENCIÓN A LA DEPENDENCIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>144.113,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">315</td>
-<td class="cuerpo_tabla_izq">SEGURIDAD EN EL TRABAJO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.582,83</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>315</td>
+<td>SEGURIDAD EN EL TRABAJO.</td>
+<td> </td>
+<td> </td>
+<td>2.582,83</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">315A</td>
-<td class="cuerpo_tabla_izq">BIENESTAR LABORAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.582,83</td>
+<td>315A</td>
+<td>BIENESTAR LABORAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.582,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">32</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">271.410,88</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>32</td>
+<td>PROMOCIÓN SOCIAL.</td>
+<td> </td>
+<td>271.410,88</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">321</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE EMPLEO Y FORMACIÓN.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.363,50</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>321</td>
+<td>ADMINISTRACIÓN GENERAL DE EMPLEO Y FORMACIÓN.</td>
+<td> </td>
+<td> </td>
+<td>14.363,50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">321A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.363,50</td>
+<td>321A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>14.363,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN DEL EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">152.247,72</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>322</td>
+<td>PROMOCIÓN DEL EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td>152.247,72</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322A</td>
-<td class="cuerpo_tabla_izq">AUTÓNOMOS, TRABAJO Y ECONOMÍA SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.738,06</td>
+<td>322A</td>
+<td>AUTÓNOMOS, TRABAJO Y ECONOMÍA SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>16.738,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322B</td>
-<td class="cuerpo_tabla_izq">FOMENTO Y GESTIÓN DEL EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">112.375,59</td>
+<td>322B</td>
+<td>FOMENTO Y GESTIÓN DEL EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>112.375,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322C</td>
-<td class="cuerpo_tabla_izq">DIALOGO SOCIAL E INTERMEDIACIÓN LABORAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">23.134,07</td>
+<td>322C</td>
+<td>DIALOGO SOCIAL E INTERMEDIACIÓN LABORAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>23.134,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">323</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN SOCIOCULTURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.474,14</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>323</td>
+<td>PROMOCIÓN SOCIOCULTURAL.</td>
+<td> </td>
+<td> </td>
+<td>28.474,14</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">323A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y SERVICIOS DE LA JUVENTUD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.574,95</td>
+<td>323A</td>
+<td>PROMOCIÓN Y SERVICIOS DE LA JUVENTUD.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.574,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">323B</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN DE LA MUJER.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">23.899,19</td>
+<td>323B</td>
+<td>PROMOCIÓN DE LA MUJER.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>23.899,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">324</td>
-<td class="cuerpo_tabla_izq">FORMACIÓN PROFESIONAL NO REGLADA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">76.325,52</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>324</td>
+<td>FORMACIÓN PROFESIONAL NO REGLADA.</td>
+<td> </td>
+<td> </td>
+<td>76.325,52</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">324A</td>
-<td class="cuerpo_tabla_izq">FORMACIÓN PROFESIONAL PARA EL EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50.087,74</td>
+<td>324A</td>
+<td>FORMACIÓN PROFESIONAL PARA EL EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>50.087,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">324B</td>
-<td class="cuerpo_tabla_izq">PROGRAMAS MIXTOS DE FORMACIÓN Y EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">26.237,78</td>
+<td>324B</td>
+<td>PROGRAMAS MIXTOS DE FORMACIÓN Y EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>26.237,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">4</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER SOCIAL.</td>
-<td class="cuerpo_tabla_der">5.017.696,76</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>4</td>
+<td>PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER SOCIAL.</td>
+<td>5.017.696,76</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">41</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.990.642,88</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>41</td>
+<td>SANIDAD.</td>
+<td> </td>
+<td>2.990.642,88</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">411</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE SANIDAD Y BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">30.108,08</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>411</td>
+<td>ADMINISTRACIÓN GENERAL DE SANIDAD Y BIENESTAR SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td>30.108,08</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">411A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.198,67</td>
+<td>411A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE SANIDAD.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11.198,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">411B</td>
-<td class="cuerpo_tabla_izq">GESTIÓN Y ADMINISTRACIÓN SANITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">18.909,41</td>
+<td>411B</td>
+<td>GESTIÓN Y ADMINISTRACIÓN SANITARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>18.909,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412</td>
-<td class="cuerpo_tabla_izq">HOSPITALES, SERVICIOS ASISTENCIALES Y CENTROS DE SALUD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.895.261,16</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>412</td>
+<td>HOSPITALES, SERVICIOS ASISTENCIALES Y CENTROS DE SALUD.</td>
+<td> </td>
+<td> </td>
+<td>2.895.261,16</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412C</td>
-<td class="cuerpo_tabla_izq">SELECCIÓN Y FORMACIÓN DEL PERSONAL SANITARIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">60.441,95</td>
+<td>412C</td>
+<td>SELECCIÓN Y FORMACIÓN DEL PERSONAL SANITARIO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>60.441,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412D</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN INTEGRADA DE LA SALUD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.827.010,79</td>
+<td>412D</td>
+<td>ATENCIÓN INTEGRADA DE LA SALUD.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.827.010,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412E</td>
-<td class="cuerpo_tabla_izq">PLANIFICACIÓN, ATENCIÓN A LA SALUD E INSTITUCIONES SANITARIAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.808,42</td>
+<td>412E</td>
+<td>PLANIFICACIÓN, ATENCIÓN A LA SALUD E INSTITUCIONES SANITARIAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.808,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413</td>
-<td class="cuerpo_tabla_izq">ACCIONES PÚBLICAS RELATIVAS A LA SALUD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">65.273,64</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>413</td>
+<td>ACCIONES PÚBLICAS RELATIVAS A LA SALUD.</td>
+<td> </td>
+<td> </td>
+<td>65.273,64</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413A</td>
-<td class="cuerpo_tabla_izq">EPIDEMIOLOGÍA Y PROMOCIÓN DE LA SALUD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.713,59</td>
+<td>413A</td>
+<td>EPIDEMIOLOGÍA Y PROMOCIÓN DE LA SALUD.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>20.713,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413B</td>
-<td class="cuerpo_tabla_izq">SANIDAD AMBIENTAL E HIGIENE DE LOS ALIMENTOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">29.529,27</td>
+<td>413B</td>
+<td>SANIDAD AMBIENTAL E HIGIENE DE LOS ALIMENTOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>29.529,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413C</td>
-<td class="cuerpo_tabla_izq">INSPECCIÓN SANITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.754,62</td>
+<td>413C</td>
+<td>INSPECCIÓN SANITARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.754,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413D</td>
-<td class="cuerpo_tabla_izq">HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.276,16</td>
+<td>413D</td>
+<td>HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11.276,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">42</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.790.298,82</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>42</td>
+<td>EDUCACIÓN.</td>
+<td> </td>
+<td>1.790.298,82</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">421</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE EDUCACIÓN.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">36.365,53</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>421</td>
+<td>ADMINISTRACIÓN GENERAL DE EDUCACIÓN.</td>
+<td> </td>
+<td> </td>
+<td>36.365,53</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">421A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE EDUCACIÓN, CULTURA Y DEPORTE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">35.255,11</td>
+<td>421A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE EDUCACIÓN, CULTURA Y DEPORTE.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>35.255,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">421B</td>
-<td class="cuerpo_tabla_izq">FORMACIÓN PERMANENTE DEL PROFESORADO E INNOVACIÓN EDUCATIVA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.110,42</td>
+<td>421B</td>
+<td>FORMACIÓN PERMANENTE DEL PROFESORADO E INNOVACIÓN EDUCATIVA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.110,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422</td>
-<td class="cuerpo_tabla_izq">ENSEÑANZA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.711.787,57</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>422</td>
+<td>ENSEÑANZA.</td>
+<td> </td>
+<td> </td>
+<td>1.711.787,57</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422A</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN INFANTIL Y PRIMARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">639.537,95</td>
+<td>422A</td>
+<td>EDUCACIÓN INFANTIL Y PRIMARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>639.537,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422B</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y ENSEÑANZAS DE RÉGIMEN ESPECIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">716.211,10</td>
+<td>422B</td>
+<td>EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y ENSEÑANZAS DE RÉGIMEN ESPECIAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>716.211,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422C</td>
-<td class="cuerpo_tabla_izq">ENSEÑANZA UNIVERSITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">182.759,18</td>
+<td>422C</td>
+<td>ENSEÑANZA UNIVERSITARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>182.759,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422D</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LA DIVERSIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">144.930,38</td>
+<td>422D</td>
+<td>ATENCIÓN A LA DIVERSIDAD.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>144.930,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422F</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN PERMANENTE DE ADULTOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.348,96</td>
+<td>422F</td>
+<td>EDUCACIÓN PERMANENTE DE ADULTOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>28.348,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">423</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN EDUCATIVA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">42.145,72</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>423</td>
+<td>PROMOCIÓN EDUCATIVA.</td>
+<td> </td>
+<td> </td>
+<td>42.145,72</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">423A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN EDUCATIVA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">42.145,72</td>
+<td>423A</td>
+<td>PROMOCIÓN EDUCATIVA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>42.145,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">43</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN DEL TERRITORIO, DEL URBANISMO Y DE LA VIVIENDA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">59.597,78</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>43</td>
+<td>ORDENACIÓN DEL TERRITORIO, DEL URBANISMO Y DE LA VIVIENDA.</td>
+<td> </td>
+<td>59.597,78</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">431</td>
-<td class="cuerpo_tabla_izq">VIVIENDA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">48.801,72</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>431</td>
+<td>VIVIENDA.</td>
+<td> </td>
+<td> </td>
+<td>48.801,72</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">431A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN DE LA VIVIENDA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">48.801,72</td>
+<td>431A</td>
+<td>PROMOCIÓN DE LA VIVIENDA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>48.801,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">432</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN DEL TERRITORIO Y DEL URBANISMO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.796,06</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>432</td>
+<td>ORDENACIÓN DEL TERRITORIO Y DEL URBANISMO.</td>
+<td> </td>
+<td> </td>
+<td>10.796,06</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">432A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN DEL URBANISMO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.043,12</td>
+<td>432A</td>
+<td>GESTIÓN DEL URBANISMO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10.043,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">432B</td>
-<td class="cuerpo_tabla_izq">PLANIFICACIÓN TERRITORIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">752,94</td>
+<td>432B</td>
+<td>PLANIFICACIÓN TERRITORIAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>752,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">44</td>
-<td class="cuerpo_tabla_izq">MEDIO AMBIENTE Y BIENESTAR COMUNITARIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">134.771,72</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>44</td>
+<td>MEDIO AMBIENTE Y BIENESTAR COMUNITARIO.</td>
+<td> </td>
+<td>134.771,72</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">441</td>
-<td class="cuerpo_tabla_izq">RECURSOS HIDRAÚLICOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">790,81</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>441</td>
+<td>RECURSOS HIDRAÚLICOS.</td>
+<td> </td>
+<td> </td>
+<td>790,81</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">441B</td>
-<td class="cuerpo_tabla_izq">COORDINACIÓN HIDROLÓGICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">790,81</td>
+<td>441B</td>
+<td>COORDINACIÓN HIDROLÓGICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>790,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442</td>
-<td class="cuerpo_tabla_izq">MEDIO AMBIENTE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">130.600,04</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>442</td>
+<td>MEDIO AMBIENTE.</td>
+<td> </td>
+<td> </td>
+<td>130.600,04</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.155,35</td>
+<td>442A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE DESARROLLO SOSTENIBLE.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.155,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442B</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y CONSERVACIÓN DEL MEDIO NATURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">112.296,31</td>
+<td>442B</td>
+<td>ORDENACIÓN Y CONSERVACIÓN DEL MEDIO NATURAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>112.296,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442C</td>
-<td class="cuerpo_tabla_izq">GESTIÓN Y PROTECCIÓN DE ESPACIOS NATURALES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.269,84</td>
+<td>442C</td>
+<td>GESTIÓN Y PROTECCIÓN DE ESPACIOS NATURALES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>8.269,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442D</td>
-<td class="cuerpo_tabla_izq">CALIDAD AMBIENTAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.381,50</td>
+<td>442D</td>
+<td>CALIDAD AMBIENTAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.381,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442E</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y EDUCACIÓN AMBIENTAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.856,97</td>
+<td>442E</td>
+<td>PROMOCIÓN Y EDUCACIÓN AMBIENTAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.856,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442F</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA CIRCULAR Y CAMBIO CLIMÁTICO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.640,07</td>
+<td>442F</td>
+<td>ECONOMÍA CIRCULAR Y CAMBIO CLIMÁTICO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.640,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">443</td>
-<td class="cuerpo_tabla_izq">OTROS SERVICIOS DE BIENESTAR COMUNITARIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.380,87</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>443</td>
+<td>OTROS SERVICIOS DE BIENESTAR COMUNITARIO.</td>
+<td> </td>
+<td> </td>
+<td>3.380,87</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">443B</td>
-<td class="cuerpo_tabla_izq">AGENDA 2030 Y CONSUMO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.380,87</td>
+<td>443B</td>
+<td>AGENDA 2030 Y CONSUMO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.380,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">45</td>
-<td class="cuerpo_tabla_izq">CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">42.385,56</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>45</td>
+<td>CULTURA Y DEPORTES.</td>
+<td> </td>
+<td>42.385,56</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">452</td>
-<td class="cuerpo_tabla_izq">LIBROS, ARCHIVOS Y BIBLIOTECAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.582,95</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>452</td>
+<td>LIBROS, ARCHIVOS Y BIBLIOTECAS.</td>
+<td> </td>
+<td> </td>
+<td>14.582,95</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">452A</td>
-<td class="cuerpo_tabla_izq">LIBROS, ARCHIVOS Y BIBLIOTECAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.582,95</td>
+<td>452A</td>
+<td>LIBROS, ARCHIVOS Y BIBLIOTECAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>14.582,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">455</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y GESTIÓN CULTURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.410,08</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>455</td>
+<td>PROMOCIÓN Y GESTIÓN CULTURAL.</td>
+<td> </td>
+<td> </td>
+<td>7.410,08</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">455A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN CULTURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.410,08</td>
+<td>455A</td>
+<td>GESTIÓN CULTURAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.410,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">457</td>
-<td class="cuerpo_tabla_izq">DEPORTES Y EDUCACIÓN FÌSICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.931,77</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>457</td>
+<td>DEPORTES Y EDUCACIÓN FÌSICA.</td>
+<td> </td>
+<td> </td>
+<td>7.931,77</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">457A</td>
-<td class="cuerpo_tabla_izq">INFRAESTRUCTURA, FOMENTO Y APOYO AL DEPORTE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.931,77</td>
+<td>457A</td>
+<td>INFRAESTRUCTURA, FOMENTO Y APOYO AL DEPORTE.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.931,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">458</td>
-<td class="cuerpo_tabla_izq">PATRIMONIO HISTÓRICO Y MUSEOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.460,76</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>458</td>
+<td>PATRIMONIO HISTÓRICO Y MUSEOS.</td>
+<td> </td>
+<td> </td>
+<td>12.460,76</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">458A</td>
-<td class="cuerpo_tabla_izq">PATRIMONIO ARTÍSTICO Y MUSEOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.460,76</td>
+<td>458A</td>
+<td>PATRIMONIO ARTÍSTICO Y MUSEOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>12.460,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">5</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER ECONÓMICO.</td>
-<td class="cuerpo_tabla_der">414.674,81</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>5</td>
+<td>PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER ECONÓMICO.</td>
+<td>414.674,81</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">51</td>
-<td class="cuerpo_tabla_izq">INFRAESTRUCTURAS BÁSICAS Y TRANSPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">200.459,45</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>51</td>
+<td>INFRAESTRUCTURAS BÁSICAS Y TRANSPORTES.</td>
+<td> </td>
+<td>200.459,45</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">511</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE INFRAESTRUCTURAS BÁSICAS Y TRANSPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.844,00</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>511</td>
+<td>ADMINISTRACIÓN GENERAL DE INFRAESTRUCTURAS BÁSICAS Y TRANSPORTES.</td>
+<td> </td>
+<td> </td>
+<td>15.844,00</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">511A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.844,00</td>
+<td>511A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE FOMENTO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>15.844,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">512</td>
-<td class="cuerpo_tabla_izq">SANEAMIENTO Y ABASTECIMIENTO DE AGUAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">46.790,37</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>512</td>
+<td>SANEAMIENTO Y ABASTECIMIENTO DE AGUAS.</td>
+<td> </td>
+<td> </td>
+<td>46.790,37</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">512A</td>
-<td class="cuerpo_tabla_izq">CREACIÓN DE INFRAESTRUCTURA HIDRÁULICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">46.790,37</td>
+<td>512A</td>
+<td>CREACIÓN DE INFRAESTRUCTURA HIDRÁULICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>46.790,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513</td>
-<td class="cuerpo_tabla_izq">TRANSPORTE TERRESTRE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">137.825,08</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>513</td>
+<td>TRANSPORTE TERRESTRE.</td>
+<td> </td>
+<td> </td>
+<td>137.825,08</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513A</td>
-<td class="cuerpo_tabla_izq">CREACIÓN DE INFRAESTRUCTURAS DE CARRETERAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">55.339,81</td>
+<td>513A</td>
+<td>CREACIÓN DE INFRAESTRUCTURAS DE CARRETERAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>55.339,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513B</td>
-<td class="cuerpo_tabla_izq">CONSERVACIÓN Y EXPLOTACIÓN DE CARRETERAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">55.992,83</td>
+<td>513B</td>
+<td>CONSERVACIÓN Y EXPLOTACIÓN DE CARRETERAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>55.992,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513C</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN E INSPECCIÓN DEL TRANSPORTE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">26.492,44</td>
+<td>513C</td>
+<td>ORDENACIÓN E INSPECCIÓN DEL TRANSPORTE.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>26.492,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">52</td>
-<td class="cuerpo_tabla_izq">COMUNICACIONES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">95.348,59</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>52</td>
+<td>COMUNICACIONES.</td>
+<td> </td>
+<td>95.348,59</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521</td>
-<td class="cuerpo_tabla_izq">COMUNICACIONES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">95.348,59</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>521</td>
+<td>COMUNICACIONES.</td>
+<td> </td>
+<td> </td>
+<td>95.348,59</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521A</td>
-<td class="cuerpo_tabla_izq">TELECOMUNICACIONES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.170,69</td>
+<td>521A</td>
+<td>TELECOMUNICACIONES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.170,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521B</td>
-<td class="cuerpo_tabla_izq">DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">88.177,90</td>
+<td>521B</td>
+<td>DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>88.177,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">53</td>
-<td class="cuerpo_tabla_izq">INFRAESTRUCTURAS AGRARIAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">85.197,38</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>53</td>
+<td>INFRAESTRUCTURAS AGRARIAS.</td>
+<td> </td>
+<td>85.197,38</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">531</td>
-<td class="cuerpo_tabla_izq">REFORMA AGRARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">85.197,38</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>531</td>
+<td>REFORMA AGRARIA.</td>
+<td> </td>
+<td> </td>
+<td>85.197,38</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">531A</td>
-<td class="cuerpo_tabla_izq">REGADÍOS Y EXPLOTACIONES AGRARIAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">85.197,38</td>
+<td>531A</td>
+<td>REGADÍOS Y EXPLOTACIONES AGRARIAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>85.197,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">54</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN CIENTÍFICA, TÉCNICA Y APLICADA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">33.669,39</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>54</td>
+<td>INVESTIGACIÓN CIENTÍFICA, TÉCNICA Y APLICADA.</td>
+<td> </td>
+<td>33.669,39</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN CIENTÍFICA, TÉCNICA Y APLICADA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">33.669,39</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>541</td>
+<td>INVESTIGACIÓN CIENTÍFICA, TÉCNICA Y APLICADA.</td>
+<td> </td>
+<td> </td>
+<td>33.669,39</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541B</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.064,29</td>
+<td>541B</td>
+<td>INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>16.064,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541C</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN Y EXPERIMENTACIÓN AGRARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.816,76</td>
+<td>541C</td>
+<td>INVESTIGACIÓN Y EXPERIMENTACIÓN AGRARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.816,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541E</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN SANITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.115,80</td>
+<td>541E</td>
+<td>INVESTIGACIÓN SANITARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.115,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541F</td>
-<td class="cuerpo_tabla_izq">FOMENTO DE LA INNOVACIÓN TECNOLÓGICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.500,00</td>
+<td>541F</td>
+<td>FOMENTO DE LA INNOVACIÓN TECNOLÓGICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541H</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN AGROALIMENTARIA Y FORESTAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.104,35</td>
+<td>541H</td>
+<td>INVESTIGACIÓN AGROALIMENTARIA Y FORESTAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.104,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541I</td>
-<td class="cuerpo_tabla_izq">CARTOGRAFÍA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.068,19</td>
+<td>541I</td>
+<td>CARTOGRAFÍA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.068,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">6</td>
-<td class="cuerpo_tabla_izq">REGULACIÓN ECONÓMICA DE CARÁCTER GENERAL.</td>
-<td class="cuerpo_tabla_der">64.360,78</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>6</td>
+<td>REGULACIÓN ECONÓMICA DE CARÁCTER GENERAL.</td>
+<td>64.360,78</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">61</td>
-<td class="cuerpo_tabla_izq">REGULACIÓN ECONÓMICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">58.371,25</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>61</td>
+<td>REGULACIÓN ECONÓMICA.</td>
+<td> </td>
+<td>58.371,25</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">611</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE ECONOMÍA Y HACIENDA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.568,26</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>611</td>
+<td>ADMINISTRACIÓN GENERAL DE ECONOMÍA Y HACIENDA.</td>
+<td> </td>
+<td> </td>
+<td>21.568,26</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">611A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.568,26</td>
+<td>611A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>21.568,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612</td>
-<td class="cuerpo_tabla_izq">POLÍTICA ECONÓMICA, PRESUPUESTARIA Y FISCAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.614,86</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>612</td>
+<td>POLÍTICA ECONÓMICA, PRESUPUESTARIA Y FISCAL.</td>
+<td> </td>
+<td> </td>
+<td>21.614,86</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612B</td>
-<td class="cuerpo_tabla_izq">PROGRAMACIÓN Y CONTROL PRESUPUESTARIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.187,42</td>
+<td>612B</td>
+<td>PROGRAMACIÓN Y CONTROL PRESUPUESTARIO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.187,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612C</td>
-<td class="cuerpo_tabla_izq">CONTROL INTERNO Y CONTABILIDAD PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.783,78</td>
+<td>612C</td>
+<td>CONTROL INTERNO Y CONTABILIDAD PÚBLICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>8.783,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612D</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN DEL PATRIMONIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.624,06</td>
+<td>612D</td>
+<td>ADMINISTRACIÓN DEL PATRIMONIO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>9.624,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612E</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA Y GESTIÓN DE FONDOS EUROPEOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.296,16</td>
+<td>612E</td>
+<td>ECONOMÍA Y GESTIÓN DE FONDOS EUROPEOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.296,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612F</td>
-<td class="cuerpo_tabla_izq">CONTRATACIÓN CENTRALIZADA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">723,44</td>
+<td>612F</td>
+<td>CONTRATACIÓN CENTRALIZADA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>723,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">613</td>
-<td class="cuerpo_tabla_izq">GESTIÓN DEL SISTEMA TRIBUTARIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.188,13</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>613</td>
+<td>GESTIÓN DEL SISTEMA TRIBUTARIO.</td>
+<td> </td>
+<td> </td>
+<td>15.188,13</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">613A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN TRIBUTARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.188,13</td>
+<td>613A</td>
+<td>GESTIÓN TRIBUTARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>15.188,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">63</td>
-<td class="cuerpo_tabla_izq">REGULACIÓN FINANCIERA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.989,53</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>63</td>
+<td>REGULACIÓN FINANCIERA.</td>
+<td> </td>
+<td>5.989,53</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">631</td>
-<td class="cuerpo_tabla_izq">GESTIÓN FINANCIERA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.199,16</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>631</td>
+<td>GESTIÓN FINANCIERA.</td>
+<td> </td>
+<td> </td>
+<td>1.199,16</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">631A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN FINANCIERA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.199,16</td>
+<td>631A</td>
+<td>GESTIÓN FINANCIERA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.199,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">633</td>
-<td class="cuerpo_tabla_izq">IMPREVISTOS Y SITUACIONES TRANSITORIAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.790,37</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>633</td>
+<td>IMPREVISTOS Y SITUACIONES TRANSITORIAS.</td>
+<td> </td>
+<td> </td>
+<td>4.790,37</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">633B</td>
-<td class="cuerpo_tabla_izq">FONDO DE CONTINGENCIA DE EJECUCIÓN PRESUPUESTARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.790,37</td>
+<td>633B</td>
+<td>FONDO DE CONTINGENCIA DE EJECUCIÓN PRESUPUESTARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.790,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">7</td>
-<td class="cuerpo_tabla_izq">REGULACIÓN ECONÓMICA DE SECTORES PRODUCTIVOS.</td>
-<td class="cuerpo_tabla_der">1.258.059,73</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>7</td>
+<td>REGULACIÓN ECONÓMICA DE SECTORES PRODUCTIVOS.</td>
+<td>1.258.059,73</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">71</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, GANADERÍA Y PESCA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.201.267,39</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td>71</td>
+<td>AGRICULTURA, GANADERÍA Y PESCA.</td>
+<td> </td>
+<td>1.201.267,39</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">711</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN GENERAL DE AGRICULTURA, GANADERÍA Y PESCA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">84.668,79</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>711</td>
+<td>ADMINISTRACIÓN GENERAL DE AGRICULTURA, GANADERÍA Y PESCA.</td>
+<td> </td>
+<td> </td>
+<td>84.668,79</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">711A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">84.668,79</td>
+<td>711A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>84.668,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">713</td>
-<td class="cuerpo_tabla_izq">MEJORA DE LAS ESTRUCTURAS AGRARIAS Y DE LOS SISTEMAS PRODUCTORES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">34.185,53</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>713</td>
+<td>MEJORA DE LAS ESTRUCTURAS AGRARIAS Y DE LOS SISTEMAS PRODUCTORES.</td>
+<td> </td>
+<td> </td>
+<td>34.185,53</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">713A</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN VEGETAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.731,00</td>
+<td>713A</td>
+<td>PRODUCCIÓN VEGETAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>12.731,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">713B</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN ANIMAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.454,53</td>
+<td>713B</td>
+<td>PRODUCCIÓN ANIMAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>21.454,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">716</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN AGROALIMENTARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">108.579,97</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>716</td>
+<td>ORDENACIÓN AGROALIMENTARIA.</td>
+<td> </td>
+<td> </td>
+<td>108.579,97</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">716A</td>
-<td class="cuerpo_tabla_izq">INDUSTRIAS Y CALIDAD AGROALIMENTARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">108.579,97</td>
+<td>716A</td>
+<td>INDUSTRIAS Y CALIDAD AGROALIMENTARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>108.579,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">717</td>
-<td class="cuerpo_tabla_izq">DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">46.903,79</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>717</td>
+<td>DESARROLLO RURAL.</td>
+<td> </td>
+<td> </td>
+<td>46.903,79</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">717A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">46.903,79</td>
+<td>717A</td>
+<td>PROMOCIÓN Y DESARROLLO RURAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>46.903,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">718</td>
-<td class="cuerpo_tabla_izq">POLÍTICA AGRARIA COMUNITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">926.929,31</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>718</td>
+<td>POLÍTICA AGRARIA COMUNITARIA.</td>
+<td> </td>
+<td> </td>
+<td>926.929,31</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">718A</td>
-<td class="cuerpo_tabla_izq">POLÍTICA AGRARIA COMUNITARIA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">926.929,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">72</td>
-<td class="cuerpo_tabla_izq">INDUSTRIA Y ENERGÍA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40.292,32</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">722</td>
-<td class="cuerpo_tabla_izq">ACTUACIONES EN POLÍTICA INDUSTRIAL Y ENERGÉTICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.916,51</td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">722A</td>
-<td class="cuerpo_tabla_izq">POLÍTICA INDUSTRIAL Y ENERGÉTICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.916,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">724</td>
-<td class="cuerpo_tabla_izq">DESARROLLO EMPRESARIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">31.375,81</td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">724A</td>
-<td class="cuerpo_tabla_izq">COMPETITIVIDAD EMPRESARIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">31.375,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">75</td>
-<td class="cuerpo_tabla_izq">TURISMO Y COMERCIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.500,02</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">751</td>
-<td class="cuerpo_tabla_izq">TURISMO, ARTESANÍA Y COMERCIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.500,02</td>
-<td class="cuerpo_tabla_der"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">751B</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.097,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">751C</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y PROMOCIÓN DEL TURISMO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.272,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">751D</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y PROMOCIÓN DE LA ARTESANÍA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.680,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_der">751E</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y PROMOCIÓN DEL COMERCIO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">450,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.505.083,31</td>
+<td>718A</td>
+<td>POLÍTICA AGRARIA COMUNITARIA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>926.929,31</td>
+</tr>
+<tr>
+<td>72</td>
+<td>INDUSTRIA Y ENERGÍA.</td>
+<td> </td>
+<td>40.292,32</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>722</td>
+<td>ACTUACIONES EN POLÍTICA INDUSTRIAL Y ENERGÉTICA.</td>
+<td> </td>
+<td> </td>
+<td>8.916,51</td>
+<td> </td>
+</tr>
+<tr>
+<td>722A</td>
+<td>POLÍTICA INDUSTRIAL Y ENERGÉTICA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>8.916,51</td>
+</tr>
+<tr>
+<td>724</td>
+<td>DESARROLLO EMPRESARIAL.</td>
+<td> </td>
+<td> </td>
+<td>31.375,81</td>
+<td> </td>
+</tr>
+<tr>
+<td>724A</td>
+<td>COMPETITIVIDAD EMPRESARIAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>31.375,81</td>
+</tr>
+<tr>
+<td>75</td>
+<td>TURISMO Y COMERCIO.</td>
+<td> </td>
+<td>16.500,02</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>751</td>
+<td>TURISMO, ARTESANÍA Y COMERCIO.</td>
+<td> </td>
+<td> </td>
+<td>16.500,02</td>
+<td> </td>
+</tr>
+<tr>
+<td>751B</td>
+<td>PROMOCIÓN EXTERIOR.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.097,33</td>
+</tr>
+<tr>
+<td>751C</td>
+<td>ORDENACIÓN Y PROMOCIÓN DEL TURISMO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10.272,69</td>
+</tr>
+<tr>
+<td>751D</td>
+<td>ORDENACIÓN Y PROMOCIÓN DE LA ARTESANÍA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.680,00</td>
+</tr>
+<tr>
+<td>751E</td>
+<td>ORDENACIÓN Y PROMOCIÓN DEL COMERCIO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>450,00</td>
+</tr>
+<tr>
+<td colspan="2">TOTAL GENERAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10.505.083,31</td>
 </tr>
 </tbody>
 </table>
@@ -4547,1066 +4505,1066 @@ Anexo V.2 Resto de actuaciones de emergencia ciudadana
 <table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Programa</th>
-<th class="cabeza_tabla">(Miles de euros)</th>
+<th colspan="2">Sección/Programa</th>
+<th>(Miles de euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_der">02</td>
-<td class="cuerpo_tabla_izq">CORTES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>02</td>
+<td>CORTES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">111A</td>
-<td class="cuerpo_tabla_izq">ACTIVIDAD LEGISLATIVA.</td>
-<td class="cuerpo_tabla_der">11.253,00</td>
+<td>111A</td>
+<td>ACTIVIDAD LEGISLATIVA.</td>
+<td>11.253,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">11.253,00</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>11.253,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">04</td>
-<td class="cuerpo_tabla_izq">CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>04</td>
+<td>CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">112B</td>
-<td class="cuerpo_tabla_izq">ALTO ASESORAMIENTO DE LA COMUNIDAD AUTÓNOMA.</td>
-<td class="cuerpo_tabla_der">1.762,80</td>
+<td>112B</td>
+<td>ALTO ASESORAMIENTO DE LA COMUNIDAD AUTÓNOMA.</td>
+<td>1.762,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">1.762,80</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>1.762,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">06</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>06</td>
+<td>DEUDA PÚBLICA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">011A</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
+<td>011A</td>
+<td>DEUDA PÚBLICA.</td>
+<td>2.604.982,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>2.604.982,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">07</td>
-<td class="cuerpo_tabla_izq">CRÉDITOS CENTRALIZADOS.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>07</td>
+<td>CRÉDITOS CENTRALIZADOS.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">633B</td>
-<td class="cuerpo_tabla_izq">FONDO DE CONTINGENCIA DE EJECUCIÓN PRESUPUESTARIA.</td>
-<td class="cuerpo_tabla_der">4.790,37</td>
+<td>633B</td>
+<td>FONDO DE CONTINGENCIA DE EJECUCIÓN PRESUPUESTARIA.</td>
+<td>4.790,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">4.790,37</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>4.790,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">112A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE LA PRESIDENCIA.</td>
-<td class="cuerpo_tabla_der">15.857,33</td>
+<td>112A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE LA PRESIDENCIA.</td>
+<td>15.857,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126C</td>
-<td class="cuerpo_tabla_izq">MEDIOS DE COMUNICACIÓN.</td>
-<td class="cuerpo_tabla_der">1.933,42</td>
+<td>126C</td>
+<td>MEDIOS DE COMUNICACIÓN.</td>
+<td>1.933,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126F</td>
-<td class="cuerpo_tabla_izq">TRANSPARENCIA Y PARTICIPACIÓN.</td>
-<td class="cuerpo_tabla_der">839,24</td>
+<td>126F</td>
+<td>TRANSPARENCIA Y PARTICIPACIÓN.</td>
+<td>839,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">131A</td>
-<td class="cuerpo_tabla_izq">COORDINACIÓN DE ASUNTOS EUROPEOS.</td>
-<td class="cuerpo_tabla_der">789,13</td>
+<td>131A</td>
+<td>COORDINACIÓN DE ASUNTOS EUROPEOS.</td>
+<td>789,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">19.419,12</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>19.419,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">121B</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN DE LA FUNCIÓN PÚBLICA.</td>
-<td class="cuerpo_tabla_der">5.385,30</td>
+<td>121B</td>
+<td>ADMINISTRACIÓN DE LA FUNCIÓN PÚBLICA.</td>
+<td>5.385,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">121C</td>
-<td class="cuerpo_tabla_izq">RELACIÓN CON LAS CORPORACIONES LOCALES.</td>
-<td class="cuerpo_tabla_der">6.568,46</td>
+<td>121C</td>
+<td>RELACIÓN CON LAS CORPORACIONES LOCALES.</td>
+<td>6.568,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">121D</td>
-<td class="cuerpo_tabla_izq">SELECCIÓN Y FORMACIÓN DEL PERSONAL DE LA ADMINISTRACIÓN REGIONAL.</td>
-<td class="cuerpo_tabla_der">4.557,93</td>
+<td>121D</td>
+<td>SELECCIÓN Y FORMACIÓN DEL PERSONAL DE LA ADMINISTRACIÓN REGIONAL.</td>
+<td>4.557,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126A</td>
-<td class="cuerpo_tabla_izq">DIARIO OFICIAL DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">474,02</td>
+<td>126A</td>
+<td>DIARIO OFICIAL DE CASTILLA-LA MANCHA.</td>
+<td>474,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126D</td>
-<td class="cuerpo_tabla_izq">CALIDAD DE LOS SERVICIOS.</td>
-<td class="cuerpo_tabla_der">2.790,95</td>
+<td>126D</td>
+<td>CALIDAD DE LOS SERVICIOS.</td>
+<td>2.790,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126E</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN DEL JUEGO.</td>
-<td class="cuerpo_tabla_der">391,91</td>
+<td>126E</td>
+<td>ORDENACIÓN DEL JUEGO.</td>
+<td>391,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">221A</td>
-<td class="cuerpo_tabla_izq">PROTECCIÓN CIUDADANA.</td>
-<td class="cuerpo_tabla_der">10229,6</td>
+<td>221A</td>
+<td>PROTECCIÓN CIUDADANA.</td>
+<td>10229,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521B</td>
-<td class="cuerpo_tabla_izq">DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
-<td class="cuerpo_tabla_der">56007,86</td>
+<td>521B</td>
+<td>DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
+<td>56007,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">611A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der">21.568,26</td>
+<td>611A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td>21.568,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612B</td>
-<td class="cuerpo_tabla_izq">PROGRAMACIÓN Y CONTROL PRESUPUESTARIO.</td>
-<td class="cuerpo_tabla_der">1.187,42</td>
+<td>612B</td>
+<td>PROGRAMACIÓN Y CONTROL PRESUPUESTARIO.</td>
+<td>1.187,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612C</td>
-<td class="cuerpo_tabla_izq">CONTROL INTERNO Y CONTABILIDAD PÚBLICA.</td>
-<td class="cuerpo_tabla_der">8.783,78</td>
+<td>612C</td>
+<td>CONTROL INTERNO Y CONTABILIDAD PÚBLICA.</td>
+<td>8.783,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612D</td>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN DEL PATRIMONIO.</td>
-<td class="cuerpo_tabla_der">9.624,06</td>
+<td>612D</td>
+<td>ADMINISTRACIÓN DEL PATRIMONIO.</td>
+<td>9.624,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612E</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA Y GESTIÓN DE FONDOS EUROPEOS.</td>
-<td class="cuerpo_tabla_der">1.296,16</td>
+<td>612E</td>
+<td>ECONOMÍA Y GESTIÓN DE FONDOS EUROPEOS.</td>
+<td>1.296,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">612F</td>
-<td class="cuerpo_tabla_izq">CONTRATACIÓN CENTRALIZADA.</td>
-<td class="cuerpo_tabla_der">723,44</td>
+<td>612F</td>
+<td>CONTRATACIÓN CENTRALIZADA.</td>
+<td>723,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">613A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN TRIBUTARIA.</td>
-<td class="cuerpo_tabla_der">15.188,13</td>
+<td>613A</td>
+<td>GESTIÓN TRIBUTARIA.</td>
+<td>15.188,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">631A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN FINANCIERA.</td>
-<td class="cuerpo_tabla_der">1.199,16</td>
+<td>631A</td>
+<td>GESTIÓN FINANCIERA.</td>
+<td>1.199,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">145.976,44</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>145.976,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">431A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN DE LA VIVIENDA.</td>
-<td class="cuerpo_tabla_der">48.801,72</td>
+<td>431A</td>
+<td>PROMOCIÓN DE LA VIVIENDA.</td>
+<td>48.801,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">432A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN DEL URBANISMO.</td>
-<td class="cuerpo_tabla_der">10.043,12</td>
+<td>432A</td>
+<td>GESTIÓN DEL URBANISMO.</td>
+<td>10.043,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">432B</td>
-<td class="cuerpo_tabla_izq">PLANIFICACIÓN TERRITORIAL.</td>
-<td class="cuerpo_tabla_der">752,94</td>
+<td>432B</td>
+<td>PLANIFICACIÓN TERRITORIAL.</td>
+<td>752,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">511A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE FOMENTO.</td>
-<td class="cuerpo_tabla_der">15844</td>
+<td>511A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE FOMENTO.</td>
+<td>15844</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513A</td>
-<td class="cuerpo_tabla_izq">CREACIÓN DE INFRAESTRUCTURAS DE CARRETERAS.</td>
-<td class="cuerpo_tabla_der">55.339,81</td>
+<td>513A</td>
+<td>CREACIÓN DE INFRAESTRUCTURAS DE CARRETERAS.</td>
+<td>55.339,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513B</td>
-<td class="cuerpo_tabla_izq">CONSERVACIÓN Y EXPLOTACIÓN DE CARRETERAS.</td>
-<td class="cuerpo_tabla_der">55.992,83</td>
+<td>513B</td>
+<td>CONSERVACIÓN Y EXPLOTACIÓN DE CARRETERAS.</td>
+<td>55.992,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">513C</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN E INSPECCIÓN DEL TRANSPORTE.</td>
-<td class="cuerpo_tabla_der">26.492,44</td>
+<td>513C</td>
+<td>ORDENACIÓN E INSPECCIÓN DEL TRANSPORTE.</td>
+<td>26.492,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541I</td>
-<td class="cuerpo_tabla_izq">CARTOGRAFÍA.</td>
-<td class="cuerpo_tabla_der">1.068,19</td>
+<td>541I</td>
+<td>CARTOGRAFÍA.</td>
+<td>1.068,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">214.335,05</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>214.335,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126B</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE PUBLICACIONES.</td>
-<td class="cuerpo_tabla_der">138,18</td>
+<td>126B</td>
+<td>SERVICIO DE PUBLICACIONES.</td>
+<td>138,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">323A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y SERVICIOS DE LA JUVENTUD.</td>
-<td class="cuerpo_tabla_der">4.574,95</td>
+<td>323A</td>
+<td>PROMOCIÓN Y SERVICIOS DE LA JUVENTUD.</td>
+<td>4.574,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">421A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE EDUCACIÓN, CULTURA Y DEPORTE.</td>
-<td class="cuerpo_tabla_der">35.255,11</td>
+<td>421A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE EDUCACIÓN, CULTURA Y DEPORTE.</td>
+<td>35.255,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">421B</td>
-<td class="cuerpo_tabla_izq">FORMACIÓN PERMANENTE DEL PROFESORADO E INNOVACIÓN EDUCATIVA.</td>
-<td class="cuerpo_tabla_der">1.110,42</td>
+<td>421B</td>
+<td>FORMACIÓN PERMANENTE DEL PROFESORADO E INNOVACIÓN EDUCATIVA.</td>
+<td>1.110,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422A</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN INFANTIL Y PRIMARIA.</td>
-<td class="cuerpo_tabla_der">639.537,95</td>
+<td>422A</td>
+<td>EDUCACIÓN INFANTIL Y PRIMARIA.</td>
+<td>639.537,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422B</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y ENSEÑANZAS DE RÉGIMEN ESPECIAL.</td>
-<td class="cuerpo_tabla_der">716.211,10</td>
+<td>422B</td>
+<td>EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y ENSEÑANZAS DE RÉGIMEN ESPECIAL.</td>
+<td>716.211,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422C</td>
-<td class="cuerpo_tabla_izq">ENSEÑANZA UNIVERSITARIA.</td>
-<td class="cuerpo_tabla_der">182.759,18</td>
+<td>422C</td>
+<td>ENSEÑANZA UNIVERSITARIA.</td>
+<td>182.759,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422D</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LA DIVERSIDAD.</td>
-<td class="cuerpo_tabla_der">144.930,38</td>
+<td>422D</td>
+<td>ATENCIÓN A LA DIVERSIDAD.</td>
+<td>144.930,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">422F</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN PERMANENTE DE ADULTOS.</td>
-<td class="cuerpo_tabla_der">28.348,96</td>
+<td>422F</td>
+<td>EDUCACIÓN PERMANENTE DE ADULTOS.</td>
+<td>28.348,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">423A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN EDUCATIVA.</td>
-<td class="cuerpo_tabla_der">42.145,72</td>
+<td>423A</td>
+<td>PROMOCIÓN EDUCATIVA.</td>
+<td>42.145,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">452A</td>
-<td class="cuerpo_tabla_izq">LIBROS, ARCHIVOS Y BIBLIOTECAS.</td>
-<td class="cuerpo_tabla_der">14.582,95</td>
+<td>452A</td>
+<td>LIBROS, ARCHIVOS Y BIBLIOTECAS.</td>
+<td>14.582,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">455A</td>
-<td class="cuerpo_tabla_izq">GESTIÓN CULTURAL.</td>
-<td class="cuerpo_tabla_der">7.410,08</td>
+<td>455A</td>
+<td>GESTIÓN CULTURAL.</td>
+<td>7.410,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">457A</td>
-<td class="cuerpo_tabla_izq">INFRAESTRUCTURA, FOMENTO Y APOYO AL DEPORTE.</td>
-<td class="cuerpo_tabla_der">7.931,77</td>
+<td>457A</td>
+<td>INFRAESTRUCTURA, FOMENTO Y APOYO AL DEPORTE.</td>
+<td>7.931,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">458A</td>
-<td class="cuerpo_tabla_izq">PATRIMONIO ARTÍSTICO Y MUSEOS.</td>
-<td class="cuerpo_tabla_der">12.460,76</td>
+<td>458A</td>
+<td>PATRIMONIO ARTÍSTICO Y MUSEOS.</td>
+<td>12.460,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541B</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_der">12.241,60</td>
+<td>541B</td>
+<td>INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO.</td>
+<td>12.241,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">1.849.639,11</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>1.849.639,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">315A</td>
-<td class="cuerpo_tabla_izq">BIENESTAR LABORAL.</td>
-<td class="cuerpo_tabla_der">2.582,83</td>
+<td>315A</td>
+<td>BIENESTAR LABORAL.</td>
+<td>2.582,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">321A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der">14.363,50</td>
+<td>321A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td>14.363,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322A</td>
-<td class="cuerpo_tabla_izq">AUTÓNOMOS, TRABAJO Y ECONOMÍA SOCIAL.</td>
-<td class="cuerpo_tabla_der">16.738,06</td>
+<td>322A</td>
+<td>AUTÓNOMOS, TRABAJO Y ECONOMÍA SOCIAL.</td>
+<td>16.738,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322B</td>
-<td class="cuerpo_tabla_izq">FOMENTO Y GESTIÓN DEL EMPLEO.</td>
-<td class="cuerpo_tabla_der">112.375,59</td>
+<td>322B</td>
+<td>FOMENTO Y GESTIÓN DEL EMPLEO.</td>
+<td>112.375,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">322C</td>
-<td class="cuerpo_tabla_izq">DIALOGO SOCIAL E INTERMEDIACIÓN LABORAL.</td>
-<td class="cuerpo_tabla_der">23.134,07</td>
+<td>322C</td>
+<td>DIALOGO SOCIAL E INTERMEDIACIÓN LABORAL.</td>
+<td>23.134,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">324A</td>
-<td class="cuerpo_tabla_izq">FORMACIÓN PROFESIONAL PARA EL EMPLEO.</td>
-<td class="cuerpo_tabla_der">50.087,74</td>
+<td>324A</td>
+<td>FORMACIÓN PROFESIONAL PARA EL EMPLEO.</td>
+<td>50.087,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">324B</td>
-<td class="cuerpo_tabla_izq">PROGRAMAS MIXTOS DE FORMACIÓN Y EMPLEO.</td>
-<td class="cuerpo_tabla_der">26.237,78</td>
+<td>324B</td>
+<td>PROGRAMAS MIXTOS DE FORMACIÓN Y EMPLEO.</td>
+<td>26.237,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541F</td>
-<td class="cuerpo_tabla_izq">FOMENTO DE LA INNOVACIÓN TECNOLÓGICA.</td>
-<td class="cuerpo_tabla_der">3.500,00</td>
+<td>541F</td>
+<td>FOMENTO DE LA INNOVACIÓN TECNOLÓGICA.</td>
+<td>3.500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">724A</td>
-<td class="cuerpo_tabla_izq">COMPETITIVIDAD EMPRESARIAL.</td>
-<td class="cuerpo_tabla_der">31.375,81</td>
+<td>724A</td>
+<td>COMPETITIVIDAD EMPRESARIAL.</td>
+<td>31.375,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">751C</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y PROMOCIÓN DEL TURISMO.</td>
-<td class="cuerpo_tabla_der">10.272,69</td>
+<td>751C</td>
+<td>ORDENACIÓN Y PROMOCIÓN DEL TURISMO.</td>
+<td>10.272,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">751D</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y PROMOCIÓN DE LA ARTESANÍA.</td>
-<td class="cuerpo_tabla_der">1.680,00</td>
+<td>751D</td>
+<td>ORDENACIÓN Y PROMOCIÓN DE LA ARTESANÍA.</td>
+<td>1.680,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">751E</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y PROMOCIÓN DEL COMERCIO.</td>
-<td class="cuerpo_tabla_der">450,00</td>
+<td>751E</td>
+<td>ORDENACIÓN Y PROMOCIÓN DEL COMERCIO.</td>
+<td>450,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">292.798,07</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>292.798,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521B</td>
-<td class="cuerpo_tabla_izq">DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
-<td class="cuerpo_tabla_der">3.503,07</td>
+<td>521B</td>
+<td>DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
+<td>3.503,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">531A</td>
-<td class="cuerpo_tabla_izq">REGADÍOS Y EXPLOTACIONES AGRARIAS.</td>
-<td class="cuerpo_tabla_der">85.197,38</td>
+<td>531A</td>
+<td>REGADÍOS Y EXPLOTACIONES AGRARIAS.</td>
+<td>85.197,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541C</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN Y EXPERIMENTACIÓN AGRARIA.</td>
-<td class="cuerpo_tabla_der">1.816,76</td>
+<td>541C</td>
+<td>INVESTIGACIÓN Y EXPERIMENTACIÓN AGRARIA.</td>
+<td>1.816,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">711A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der">84.668,79</td>
+<td>711A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td>84.668,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">713A</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN VEGETAL.</td>
-<td class="cuerpo_tabla_der">12.731,00</td>
+<td>713A</td>
+<td>PRODUCCIÓN VEGETAL.</td>
+<td>12.731,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">713B</td>
-<td class="cuerpo_tabla_izq">PRODUCCIÓN ANIMAL.</td>
-<td class="cuerpo_tabla_der">21.454,53</td>
+<td>713B</td>
+<td>PRODUCCIÓN ANIMAL.</td>
+<td>21.454,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">716A</td>
-<td class="cuerpo_tabla_izq">INDUSTRIAS Y CALIDAD AGROALIMENTARIA.</td>
-<td class="cuerpo_tabla_der">108.579,97</td>
+<td>716A</td>
+<td>INDUSTRIAS Y CALIDAD AGROALIMENTARIA.</td>
+<td>108.579,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">717A</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der">46.903,79</td>
+<td>717A</td>
+<td>PROMOCIÓN Y DESARROLLO RURAL.</td>
+<td>46.903,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">718A</td>
-<td class="cuerpo_tabla_izq">POLÍTICA AGRARIA COMUNITARIA.</td>
-<td class="cuerpo_tabla_der">926.929,31</td>
+<td>718A</td>
+<td>POLÍTICA AGRARIA COMUNITARIA.</td>
+<td>926.929,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">1.291.784,60</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>1.291.784,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der">4.155,35</td>
+<td>442A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE DESARROLLO SOSTENIBLE.</td>
+<td>4.155,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442B</td>
-<td class="cuerpo_tabla_izq">ORDENACIÓN Y CONSERVACIÓN DEL MEDIO NATURAL.</td>
-<td class="cuerpo_tabla_der">112.296,31</td>
+<td>442B</td>
+<td>ORDENACIÓN Y CONSERVACIÓN DEL MEDIO NATURAL.</td>
+<td>112.296,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442C</td>
-<td class="cuerpo_tabla_izq">GESTIÓN Y PROTECCIÓN DE ESPACIOS NATURALES.</td>
-<td class="cuerpo_tabla_der">8.269,84</td>
+<td>442C</td>
+<td>GESTIÓN Y PROTECCIÓN DE ESPACIOS NATURALES.</td>
+<td>8.269,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442D</td>
-<td class="cuerpo_tabla_izq">CALIDAD AMBIENTAL.</td>
-<td class="cuerpo_tabla_der">1.381,50</td>
+<td>442D</td>
+<td>CALIDAD AMBIENTAL.</td>
+<td>1.381,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442E</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN Y EDUCACIÓN AMBIENTAL.</td>
-<td class="cuerpo_tabla_der">1.856,97</td>
+<td>442E</td>
+<td>PROMOCIÓN Y EDUCACIÓN AMBIENTAL.</td>
+<td>1.856,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">442F</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA CIRCULAR Y CAMBIO CLIMÁTICO.</td>
-<td class="cuerpo_tabla_der">2.640,07</td>
+<td>442F</td>
+<td>ECONOMÍA CIRCULAR Y CAMBIO CLIMÁTICO.</td>
+<td>2.640,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">443B</td>
-<td class="cuerpo_tabla_izq">AGENDA 2030 Y CONSUMO.</td>
-<td class="cuerpo_tabla_der">3.380,87</td>
+<td>443B</td>
+<td>AGENDA 2030 Y CONSUMO.</td>
+<td>3.380,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521A</td>
-<td class="cuerpo_tabla_izq">TELECOMUNICACIONES.</td>
-<td class="cuerpo_tabla_der">7.170,69</td>
+<td>521A</td>
+<td>TELECOMUNICACIONES.</td>
+<td>7.170,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">722A</td>
-<td class="cuerpo_tabla_izq">POLÍTICA INDUSTRIAL Y ENERGÉTICA.</td>
-<td class="cuerpo_tabla_der">8.916,51</td>
+<td>722A</td>
+<td>POLÍTICA INDUSTRIAL Y ENERGÉTICA.</td>
+<td>8.916,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">150.068,11</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>150.068,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">411A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE SANIDAD.</td>
-<td class="cuerpo_tabla_der">11.198,67</td>
+<td>411A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE SANIDAD.</td>
+<td>11.198,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412E</td>
-<td class="cuerpo_tabla_izq">PLANIFICACIÓN, ATENCIÓN A LA SALUD E INSTITUCIONES SANITARIAS.</td>
-<td class="cuerpo_tabla_der">7.808,42</td>
+<td>412E</td>
+<td>PLANIFICACIÓN, ATENCIÓN A LA SALUD E INSTITUCIONES SANITARIAS.</td>
+<td>7.808,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413A</td>
-<td class="cuerpo_tabla_izq">EPIDEMIOLOGÍA Y PROMOCIÓN DE LA SALUD.</td>
-<td class="cuerpo_tabla_der">20.713,59</td>
+<td>413A</td>
+<td>EPIDEMIOLOGÍA Y PROMOCIÓN DE LA SALUD.</td>
+<td>20.713,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413B</td>
-<td class="cuerpo_tabla_izq">SANIDAD AMBIENTAL E HIGIENE DE LOS ALIMENTOS.</td>
-<td class="cuerpo_tabla_der">29.529,27</td>
+<td>413B</td>
+<td>SANIDAD AMBIENTAL E HIGIENE DE LOS ALIMENTOS.</td>
+<td>29.529,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413C</td>
-<td class="cuerpo_tabla_izq">INSPECCIÓN SANITARIA.</td>
-<td class="cuerpo_tabla_der">3.754,62</td>
+<td>413C</td>
+<td>INSPECCIÓN SANITARIA.</td>
+<td>3.754,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">413D</td>
-<td class="cuerpo_tabla_izq">HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA.</td>
-<td class="cuerpo_tabla_der">11.276,16</td>
+<td>413D</td>
+<td>HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA.</td>
+<td>11.276,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541E</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN SANITARIA.</td>
-<td class="cuerpo_tabla_der">4.115,80</td>
+<td>541E</td>
+<td>INVESTIGACIÓN SANITARIA.</td>
+<td>4.115,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">88.396,53</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>88.396,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">311A</td>
-<td class="cuerpo_tabla_izq">DIRECCIÓN Y SERVICIOS GENERALES DE BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der">20.295,73</td>
+<td>311A</td>
+<td>DIRECCIÓN Y SERVICIOS GENERALES DE BIENESTAR SOCIAL.</td>
+<td>20.295,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">312A</td>
-<td class="cuerpo_tabla_izq">PENSIONES Y PRESTACIONES ASISTENCIALES.</td>
-<td class="cuerpo_tabla_der">46.393,54</td>
+<td>312A</td>
+<td>PENSIONES Y PRESTACIONES ASISTENCIALES.</td>
+<td>46.393,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313A</td>
-<td class="cuerpo_tabla_izq">PROGRAMAS SOCIALES BÁSICOS.</td>
-<td class="cuerpo_tabla_der">78.820,85</td>
+<td>313A</td>
+<td>PROGRAMAS SOCIALES BÁSICOS.</td>
+<td>78.820,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313B</td>
-<td class="cuerpo_tabla_izq">PREVENCIÓN Y APOYO A LAS FAMILIAS.</td>
-<td class="cuerpo_tabla_der">8.688,76</td>
+<td>313B</td>
+<td>PREVENCIÓN Y APOYO A LAS FAMILIAS.</td>
+<td>8.688,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313C</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD.</td>
-<td class="cuerpo_tabla_der">116.345,44</td>
+<td>313C</td>
+<td>ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD.</td>
+<td>116.345,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313D</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LAS PERSONAS MAYORES.</td>
-<td class="cuerpo_tabla_der">299.085,84</td>
+<td>313D</td>
+<td>ATENCIÓN A LAS PERSONAS MAYORES.</td>
+<td>299.085,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313E</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN Y ACOMPAÑAMIENTO AL MENOR.</td>
-<td class="cuerpo_tabla_der">40.001,98</td>
+<td>313E</td>
+<td>ATENCIÓN Y ACOMPAÑAMIENTO AL MENOR.</td>
+<td>40.001,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313F</td>
-<td class="cuerpo_tabla_izq">COOPERACIÓN AL DESARROLLO.</td>
-<td class="cuerpo_tabla_der">2.899,51</td>
+<td>313F</td>
+<td>COOPERACIÓN AL DESARROLLO.</td>
+<td>2.899,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">313H</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN A LA DEPENDENCIA.</td>
-<td class="cuerpo_tabla_der">144.113,16</td>
+<td>313H</td>
+<td>ATENCIÓN A LA DEPENDENCIA.</td>
+<td>144.113,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">756.644,81</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>756.644,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">51</td>
-<td class="cuerpo_tabla_izq">INSTITUTO REGIONAL DE INVESTIGACIÓN Y DESARROLLO AGROALIMENTARIO Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>51</td>
+<td>INSTITUTO REGIONAL DE INVESTIGACIÓN Y DESARROLLO AGROALIMENTARIO Y FORESTAL DE C-LM.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541B</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_der">3.822,69</td>
+<td>541B</td>
+<td>INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO.</td>
+<td>3.822,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">541H</td>
-<td class="cuerpo_tabla_izq">INVESTIGACIÓN AGROALIMENTARIA Y FORESTAL.</td>
-<td class="cuerpo_tabla_der">7.104,35</td>
+<td>541H</td>
+<td>INVESTIGACIÓN AGROALIMENTARIA Y FORESTAL.</td>
+<td>7.104,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">10.927,04</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>10.927,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">55</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>55</td>
+<td>INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">751B</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der">4.097,33</td>
+<td>751B</td>
+<td>PROMOCIÓN EXTERIOR.</td>
+<td>4.097,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">4.097,33</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>4.097,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">56</td>
-<td class="cuerpo_tabla_izq">AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>56</td>
+<td>AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">441B</td>
-<td class="cuerpo_tabla_izq">COORDINACIÓN HIDROLÓGICA.</td>
-<td class="cuerpo_tabla_der">790,81</td>
+<td>441B</td>
+<td>COORDINACIÓN HIDROLÓGICA.</td>
+<td>790,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">512A</td>
-<td class="cuerpo_tabla_izq">CREACIÓN DE INFRAESTRUCTURA HIDRÁULICA.</td>
-<td class="cuerpo_tabla_der">3.764,75</td>
+<td>512A</td>
+<td>CREACIÓN DE INFRAESTRUCTURA HIDRÁULICA.</td>
+<td>3.764,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">4.555,56</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>4.555,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">411B</td>
-<td class="cuerpo_tabla_izq">GESTIÓN Y ADMINISTRACIÓN SANITARIA.</td>
-<td class="cuerpo_tabla_der">18.909,41</td>
+<td>411B</td>
+<td>GESTIÓN Y ADMINISTRACIÓN SANITARIA.</td>
+<td>18.909,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412C</td>
-<td class="cuerpo_tabla_izq">SELECCIÓN Y FORMACIÓN DEL PERSONAL SANITARIO.</td>
-<td class="cuerpo_tabla_der">60.441,95</td>
+<td>412C</td>
+<td>SELECCIÓN Y FORMACIÓN DEL PERSONAL SANITARIO.</td>
+<td>60.441,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">412D</td>
-<td class="cuerpo_tabla_izq">ATENCIÓN INTEGRADA DE LA SALUD.</td>
-<td class="cuerpo_tabla_der">2.827.010,79</td>
+<td>412D</td>
+<td>ATENCIÓN INTEGRADA DE LA SALUD.</td>
+<td>2.827.010,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">521B</td>
-<td class="cuerpo_tabla_izq">DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
-<td class="cuerpo_tabla_der">28.666,97</td>
+<td>521B</td>
+<td>DESARROLLO DE LA SOCIEDAD DE LA INFORMACIÓN.</td>
+<td>28.666,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">2.935.029,12</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>2.935.029,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">323B</td>
-<td class="cuerpo_tabla_izq">PROMOCIÓN DE LA MUJER.</td>
-<td class="cuerpo_tabla_der">23.899,19</td>
+<td>323B</td>
+<td>PROMOCIÓN DE LA MUJER.</td>
+<td>23.899,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">23.899,19</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>23.899,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">80</td>
-<td class="cuerpo_tabla_izq">ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>80</td>
+<td>ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">512A</td>
-<td class="cuerpo_tabla_izq">CREACIÓN DE INFRAESTRUCTURAS HIDRÁULICAS.</td>
-<td class="cuerpo_tabla_der">43.025,62</td>
+<td>512A</td>
+<td>CREACIÓN DE INFRAESTRUCTURAS HIDRÁULICAS.</td>
+<td>43.025,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">43.025,62</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>43.025,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">126C</td>
-<td class="cuerpo_tabla_izq">MEDIOS DE COMUNICACIÓN.</td>
-<td class="cuerpo_tabla_der">51.699,44</td>
+<td>126C</td>
+<td>MEDIOS DE COMUNICACIÓN.</td>
+<td>51.699,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total SECCIÓN.</td>
-<td class="cuerpo_tabla_der">51.699,44</td>
+<td> </td>
+<td>Total SECCIÓN.</td>
+<td>51.699,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Total General.</td>
-<td class="cuerpo_tabla_der">10.505.083,31</td>
+<td> </td>
+<td>Total General.</td>
+<td>10.505.083,31</td>
 </tr>
 </tbody>
 </table>
 
 **Distribución de capítulos y secciones**
 
-<table class="tabla_girada">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Sección/Capítulo</th>
-<th class="cabeza_tabla">Gastos de personal</th>
-<th class="cabeza_tabla">Gastos bienes corrientes y servicios</th>
-<th class="cabeza_tabla">Gastos financieros</th>
-<th class="cabeza_tabla">Transferencias corrientes</th>
-<th class="cabeza_tabla">Fondo de contingencia y otros imprevistos</th>
-<th class="cabeza_tabla">Inversiones reales</th>
-<th class="cabeza_tabla">Transferencias de capital</th>
-<th class="cabeza_tabla">Activos financieros</th>
-<th class="cabeza_tabla">Pasivos financieros</th>
-<th class="cabeza_tabla" rowspan="2">Total</th>
+<th colspan="2" rowspan="2">Sección/Capítulo</th>
+<th>Gastos de personal</th>
+<th>Gastos bienes corrientes y servicios</th>
+<th>Gastos financieros</th>
+<th>Transferencias corrientes</th>
+<th>Fondo de contingencia y otros imprevistos</th>
+<th>Inversiones reales</th>
+<th>Transferencias de capital</th>
+<th>Activos financieros</th>
+<th>Pasivos financieros</th>
+<th rowspan="2">Total</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">6</th>
-<th class="cabeza_tabla">7</th>
-<th class="cabeza_tabla">8</th>
-<th class="cabeza_tabla">9</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">02</td>
-<td class="cuerpo_tabla_izq">CORTES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.203,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.253,00</td>
+<td>02</td>
+<td>CORTES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11.203,00</td>
+<td> </td>
+<td> </td>
+<td>50,00</td>
+<td> </td>
+<td> </td>
+<td>11.253,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_izq">CONSEJO CONSULTIVO.</td>
-<td class="cuerpo_tabla_der">1.520,79</td>
-<td class="cuerpo_tabla_der">191,01</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.762,80</td>
+<td>04</td>
+<td>CONSEJO CONSULTIVO.</td>
+<td>1.520,79</td>
+<td>191,01</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>40,00</td>
+<td> </td>
+<td>11,00</td>
+<td> </td>
+<td>1.762,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">211.050,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.393.932,00</td>
-<td class="cuerpo_tabla_der">2.604.982,00</td>
+<td>06</td>
+<td>DEUDA PÚBLICA.</td>
+<td> </td>
+<td> </td>
+<td>211.050,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.393.932,00</td>
+<td>2.604.982,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">07</td>
-<td class="cuerpo_tabla_izq">CRÉDITOS CENTRALIZADOS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.790,37</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.790,37</td>
+<td>07</td>
+<td>CRÉDITOS CENTRALIZADOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.790,37</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.790,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">14.818,50</td>
-<td class="cuerpo_tabla_der">2.668,10</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.102,67</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">113,50</td>
-<td class="cuerpo_tabla_der">676,00</td>
-<td class="cuerpo_tabla_der">40,35</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">19.419,12</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td>14.818,50</td>
+<td>2.668,10</td>
+<td> </td>
+<td>1.102,67</td>
+<td> </td>
+<td>113,50</td>
+<td>676,00</td>
+<td>40,35</td>
+<td> </td>
+<td>19.419,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der">69.857,39</td>
-<td class="cuerpo_tabla_der">49.935,02</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.990,15</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.056,58</td>
-<td class="cuerpo_tabla_der">3.930,00</td>
-<td class="cuerpo_tabla_der">207,30</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">145.976,44</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td>69.857,39</td>
+<td>49.935,02</td>
+<td> </td>
+<td>1.990,15</td>
+<td> </td>
+<td>20.056,58</td>
+<td>3.930,00</td>
+<td>207,30</td>
+<td> </td>
+<td>145.976,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der">43.653,41</td>
-<td class="cuerpo_tabla_der">14.597,49</td>
-<td class="cuerpo_tabla_der">10,00</td>
-<td class="cuerpo_tabla_der">90.488,09</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.085,53</td>
-<td class="cuerpo_tabla_der">22.070,55</td>
-<td class="cuerpo_tabla_der">229,98</td>
-<td class="cuerpo_tabla_der">200,00</td>
-<td class="cuerpo_tabla_der">214.335,05</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td>43.653,41</td>
+<td>14.597,49</td>
+<td>10,00</td>
+<td>90.488,09</td>
+<td> </td>
+<td>43.085,53</td>
+<td>22.070,55</td>
+<td>229,98</td>
+<td>200,00</td>
+<td>214.335,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der">1.369.368,81</td>
-<td class="cuerpo_tabla_der">78.041,06</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">355.262,62</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.357,45</td>
-<td class="cuerpo_tabla_der">13.518,58</td>
-<td class="cuerpo_tabla_der">467,37</td>
-<td class="cuerpo_tabla_der">11.623,22</td>
-<td class="cuerpo_tabla_der">1.849.639,11</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td>1.369.368,81</td>
+<td>78.041,06</td>
+<td> </td>
+<td>355.262,62</td>
+<td> </td>
+<td>21.357,45</td>
+<td>13.518,58</td>
+<td>467,37</td>
+<td>11.623,22</td>
+<td>1.849.639,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der">43.852,25</td>
-<td class="cuerpo_tabla_der">15.295,16</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">191.506,32</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.256,12</td>
-<td class="cuerpo_tabla_der">33.813,22</td>
-<td class="cuerpo_tabla_der">1.075,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">292.798,07</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td>43.852,25</td>
+<td>15.295,16</td>
+<td> </td>
+<td>191.506,32</td>
+<td> </td>
+<td>7.256,12</td>
+<td>33.813,22</td>
+<td>1.075,00</td>
+<td> </td>
+<td>292.798,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der">100.785,90</td>
-<td class="cuerpo_tabla_der">13.115,82</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">891.304,32</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.759,87</td>
-<td class="cuerpo_tabla_der">282.631,09</td>
-<td class="cuerpo_tabla_der">187,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.291.784,60</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td>100.785,90</td>
+<td>13.115,82</td>
+<td> </td>
+<td>891.304,32</td>
+<td> </td>
+<td>3.759,87</td>
+<td>282.631,09</td>
+<td>187,60</td>
+<td> </td>
+<td>1.291.784,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der">19.038,38</td>
-<td class="cuerpo_tabla_der">15.040,63</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.562,29</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.946,55</td>
-<td class="cuerpo_tabla_der">71.770,26</td>
-<td class="cuerpo_tabla_der">210,00</td>
-<td class="cuerpo_tabla_der">2.500,00</td>
-<td class="cuerpo_tabla_der">150.068,11</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td>19.038,38</td>
+<td>15.040,63</td>
+<td> </td>
+<td>28.562,29</td>
+<td> </td>
+<td>12.946,55</td>
+<td>71.770,26</td>
+<td>210,00</td>
+<td>2.500,00</td>
+<td>150.068,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der">59.140,15</td>
-<td class="cuerpo_tabla_der">18.735,45</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.954,06</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">280,87</td>
-<td class="cuerpo_tabla_der">100,00</td>
-<td class="cuerpo_tabla_der">186,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">88.396,53</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td>59.140,15</td>
+<td>18.735,45</td>
+<td> </td>
+<td>9.954,06</td>
+<td> </td>
+<td>280,87</td>
+<td>100,00</td>
+<td>186,00</td>
+<td> </td>
+<td>88.396,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der">127.624,15</td>
-<td class="cuerpo_tabla_der">264.583,38</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">355.605,65</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.467,22</td>
-<td class="cuerpo_tabla_der">2.803,88</td>
-<td class="cuerpo_tabla_der">560,53</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">756.644,81</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td>127.624,15</td>
+<td>264.583,38</td>
+<td> </td>
+<td>355.605,65</td>
+<td> </td>
+<td>5.467,22</td>
+<td>2.803,88</td>
+<td>560,53</td>
+<td> </td>
+<td>756.644,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der">3.796,80</td>
-<td class="cuerpo_tabla_der">2.189,94</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">963,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.911,65</td>
-<td class="cuerpo_tabla_der">51,45</td>
-<td class="cuerpo_tabla_der">14,20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.927,04</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td>3.796,80</td>
+<td>2.189,94</td>
+<td> </td>
+<td>963,00</td>
+<td> </td>
+<td>3.911,65</td>
+<td>51,45</td>
+<td>14,20</td>
+<td> </td>
+<td>10.927,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der">816,20</td>
-<td class="cuerpo_tabla_der">1.209,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.066,13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.097,33</td>
+<td>55</td>
+<td>INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
+<td>816,20</td>
+<td>1.209,50</td>
+<td> </td>
+<td>2.066,13</td>
+<td> </td>
+<td>5,50</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.097,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">1.901,02</td>
-<td class="cuerpo_tabla_der">1.594,54</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.050,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.555,56</td>
+<td>56</td>
+<td>AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td>1.901,02</td>
+<td>1.594,54</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.050,00</td>
+<td> </td>
+<td>10,00</td>
+<td> </td>
+<td>4.555,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">1.536.987,98</td>
-<td class="cuerpo_tabla_der">760.845,46</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">534.587,20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">102.091,58</td>
-<td class="cuerpo_tabla_der">50,00</td>
-<td class="cuerpo_tabla_der">466,90</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.935.029,12</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td>1.536.987,98</td>
+<td>760.845,46</td>
+<td> </td>
+<td>534.587,20</td>
+<td> </td>
+<td>102.091,58</td>
+<td>50,00</td>
+<td>466,90</td>
+<td> </td>
+<td>2.935.029,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der">2.989,44</td>
-<td class="cuerpo_tabla_der">4.568,65</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.287,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">23.899,19</td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td>2.989,44</td>
+<td>4.568,65</td>
+<td> </td>
+<td>16.287,60</td>
+<td> </td>
+<td>43,00</td>
+<td> </td>
+<td>10,50</td>
+<td> </td>
+<td>23.899,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
-<td class="cuerpo_tabla_der">1.235,53</td>
-<td class="cuerpo_tabla_der">37.024,02</td>
-<td class="cuerpo_tabla_der">310,68</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.455,39</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.025,62</td>
+<td>80</td>
+<td>ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
+<td>1.235,53</td>
+<td>37.024,02</td>
+<td>310,68</td>
+<td> </td>
+<td> </td>
+<td>4.455,39</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>43.025,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">6.124,16</td>
-<td class="cuerpo_tabla_der">6.157,88</td>
-<td class="cuerpo_tabla_der">82,41</td>
-<td class="cuerpo_tabla_der">38.244,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">164,51</td>
-<td class="cuerpo_tabla_der">925,98</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">51.699,44</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td>6.124,16</td>
+<td>6.157,88</td>
+<td>82,41</td>
+<td>38.244,50</td>
+<td> </td>
+<td>164,51</td>
+<td>925,98</td>
+<td> </td>
+<td> </td>
+<td>51.699,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der">3.403.510,86</td>
-<td class="cuerpo_tabla_der">1.285.793,11</td>
-<td class="cuerpo_tabla_der">211.453,09</td>
-<td class="cuerpo_tabla_der">2.529.127,60</td>
-<td class="cuerpo_tabla_der">4.790,37</td>
-<td class="cuerpo_tabla_der">226.085,32</td>
-<td class="cuerpo_tabla_der">432.391,01</td>
-<td class="cuerpo_tabla_der">3.676,73</td>
-<td class="cuerpo_tabla_der">2.408.255,22</td>
-<td class="cuerpo_tabla_der">10.505.083,31</td>
+<td colspan="2">TOTAL GENERAL.</td>
+<td>3.403.510,86</td>
+<td>1.285.793,11</td>
+<td>211.453,09</td>
+<td>2.529.127,60</td>
+<td>4.790,37</td>
+<td>226.085,32</td>
+<td>432.391,01</td>
+<td>3.676,73</td>
+<td>2.408.255,22</td>
+<td>10.505.083,31</td>
 </tr>
 </tbody>
 </table>
@@ -5617,2007 +5575,1872 @@ Anexo V.2 Resto de actuaciones de emergencia ciudadana
 
 Capítulo I. Gastos de personal
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">10</th>
-<th class="cabeza_tabla">11</th>
-<th class="cabeza_tabla">12</th>
-<th class="cabeza_tabla">13</th>
-<th class="cabeza_tabla">14</th>
-<th class="cabeza_tabla">15</th>
-<th class="cabeza_tabla">16</th>
-<th class="cabeza_tabla">17</th>
-<th class="cabeza_tabla">18</th>
-<th class="cabeza_tabla">19</th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_izq">CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">357,44</td>
-<td class="cuerpo_tabla_der">33,78</td>
-<td class="cuerpo_tabla_der">784,32</td>
-<td class="cuerpo_tabla_der">103,12</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">242,13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.520,79</td>
+<td>04</td>
+<td>CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
+<td>357,44</td>
+<td>33,78</td>
+<td>784,32</td>
+<td>103,12</td>
+<td> </td>
+<td> </td>
+<td>242,13</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.520,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">1.746,66</td>
-<td class="cuerpo_tabla_der">3.272,93</td>
-<td class="cuerpo_tabla_der">6.333,83</td>
-<td class="cuerpo_tabla_der">1.053,11</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.411,97</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.818,50</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td>1.746,66</td>
+<td>3.272,93</td>
+<td>6.333,83</td>
+<td>1.053,11</td>
+<td> </td>
+<td> </td>
+<td>2.411,97</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>14.818,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der">1.100,29</td>
-<td class="cuerpo_tabla_der">374,63</td>
-<td class="cuerpo_tabla_der">47.208,82</td>
-<td class="cuerpo_tabla_der">6.644,81</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">183,51</td>
-<td class="cuerpo_tabla_der">14.345,33</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">69.857,39</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td>1.100,29</td>
+<td>374,63</td>
+<td>47.208,82</td>
+<td>6.644,81</td>
+<td> </td>
+<td>183,51</td>
+<td>14.345,33</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>69.857,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der">413,10</td>
-<td class="cuerpo_tabla_der">312,22</td>
-<td class="cuerpo_tabla_der">17.269,90</td>
-<td class="cuerpo_tabla_der">17.224,47</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.433,72</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.653,41</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td>413,10</td>
+<td>312,22</td>
+<td>17.269,90</td>
+<td>17.224,47</td>
+<td> </td>
+<td> </td>
+<td>8.433,72</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>43.653,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der">887,70</td>
-<td class="cuerpo_tabla_der">312,22</td>
-<td class="cuerpo_tabla_der">48.025,11</td>
-<td class="cuerpo_tabla_der">64.637,16</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">297,88</td>
-<td class="cuerpo_tabla_der">141.239,53</td>
-<td class="cuerpo_tabla_der">1.113.969,21</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.369.368,81</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td>887,70</td>
+<td>312,22</td>
+<td>48.025,11</td>
+<td>64.637,16</td>
+<td> </td>
+<td>297,88</td>
+<td>141.239,53</td>
+<td>1.113.969,21</td>
+<td> </td>
+<td> </td>
+<td>1.369.368,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der">807,91</td>
-<td class="cuerpo_tabla_der">249,54</td>
-<td class="cuerpo_tabla_der">29.429,80</td>
-<td class="cuerpo_tabla_der">3.712,10</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">117,40</td>
-<td class="cuerpo_tabla_der">9.535,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.852,25</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td>807,91</td>
+<td>249,54</td>
+<td>29.429,80</td>
+<td>3.712,10</td>
+<td> </td>
+<td>117,40</td>
+<td>9.535,50</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>43.852,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der">762,56</td>
-<td class="cuerpo_tabla_der">187,34</td>
-<td class="cuerpo_tabla_der">68.606,58</td>
-<td class="cuerpo_tabla_der">9.475,93</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.317,70</td>
-<td class="cuerpo_tabla_der">19.435,79</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">100.785,90</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td>762,56</td>
+<td>187,34</td>
+<td>68.606,58</td>
+<td>9.475,93</td>
+<td> </td>
+<td>2.317,70</td>
+<td>19.435,79</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>100.785,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der">404,43</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.787,26</td>
-<td class="cuerpo_tabla_der">2.110,79</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.735,90</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">19.038,38</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td>404,43</td>
+<td> </td>
+<td>12.787,26</td>
+<td>2.110,79</td>
+<td> </td>
+<td> </td>
+<td>3.735,90</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>19.038,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der">612,45</td>
-<td class="cuerpo_tabla_der">374,66</td>
-<td class="cuerpo_tabla_der">38.909,75</td>
-<td class="cuerpo_tabla_der">8.835,24</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">530,86</td>
-<td class="cuerpo_tabla_der">9.877,19</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">59.140,15</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td>612,45</td>
+<td>374,66</td>
+<td>38.909,75</td>
+<td>8.835,24</td>
+<td> </td>
+<td>530,86</td>
+<td>9.877,19</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>59.140,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der">821,01</td>
-<td class="cuerpo_tabla_der">312,22</td>
-<td class="cuerpo_tabla_der">49.859,47</td>
-<td class="cuerpo_tabla_der">51.330,26</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">323,97</td>
-<td class="cuerpo_tabla_der">24.977,22</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">127.624,15</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td>821,01</td>
+<td>312,22</td>
+<td>49.859,47</td>
+<td>51.330,26</td>
+<td> </td>
+<td>323,97</td>
+<td>24.977,22</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>127.624,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der">55,69</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.927,57</td>
-<td class="cuerpo_tabla_der">989,79</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">823,75</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.796,80</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td>55,69</td>
+<td> </td>
+<td>1.927,57</td>
+<td>989,79</td>
+<td> </td>
+<td> </td>
+<td>823,75</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.796,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der">66,66</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">562,81</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">186,73</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">816,20</td>
+<td>55</td>
+<td>INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
+<td>66,66</td>
+<td> </td>
+<td> </td>
+<td>562,81</td>
+<td> </td>
+<td> </td>
+<td>186,73</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>816,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">70,80</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.206,72</td>
-<td class="cuerpo_tabla_der">254,43</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">369,07</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.901,02</td>
+<td>56</td>
+<td>AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td>70,80</td>
+<td> </td>
+<td>1.206,72</td>
+<td>254,43</td>
+<td> </td>
+<td> </td>
+<td>369,07</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.901,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">289,91</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.554,94</td>
-<td class="cuerpo_tabla_der">1.265,86</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">160.381,45</td>
-<td class="cuerpo_tabla_der">310.796,52</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.056.699,30</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.536.987,98</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td>289,91</td>
+<td> </td>
+<td>7.554,94</td>
+<td>1.265,86</td>
+<td> </td>
+<td>160.381,45</td>
+<td>310.796,52</td>
+<td> </td>
+<td>1.056.699,30</td>
+<td> </td>
+<td>1.536.987,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der">77,16</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.333,11</td>
-<td class="cuerpo_tabla_der">50,47</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">528,70</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.989,44</td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td>77,16</td>
+<td> </td>
+<td>2.333,11</td>
+<td>50,47</td>
+<td> </td>
+<td> </td>
+<td>528,70</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.989,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
-<td class="cuerpo_tabla_der">231,81</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7,81</td>
-<td class="cuerpo_tabla_der">696,39</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">299,52</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.235,53</td>
+<td>80</td>
+<td>ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
+<td>231,81</td>
+<td> </td>
+<td>7,81</td>
+<td>696,39</td>
+<td> </td>
+<td> </td>
+<td>299,52</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.235,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">381,71</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.047,69</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.694,76</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.124,16</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td>381,71</td>
+<td> </td>
+<td> </td>
+<td>4.047,69</td>
+<td> </td>
+<td> </td>
+<td>1.694,76</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6.124,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der">9.087,29</td>
-<td class="cuerpo_tabla_der">5.429,54</td>
-<td class="cuerpo_tabla_der">332.244,99</td>
-<td class="cuerpo_tabla_der">172.994,43</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">164.152,77</td>
-<td class="cuerpo_tabla_der">548.933,33</td>
-<td class="cuerpo_tabla_der">1.113.969,21</td>
-<td class="cuerpo_tabla_der">1.056.699,30</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.403.510,86</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td>9.087,29</td>
+<td>5.429,54</td>
+<td>332.244,99</td>
+<td>172.994,43</td>
+<td> </td>
+<td>164.152,77</td>
+<td>548.933,33</td>
+<td>1.113.969,21</td>
+<td>1.056.699,30</td>
+<td> </td>
+<td>3.403.510,86</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo II. Gastos en bienes corrientes y servicios
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">20</th>
-<th class="cabeza_tabla">21</th>
-<th class="cabeza_tabla">22</th>
-<th class="cabeza_tabla">23</th>
-<th class="cabeza_tabla">24</th>
-<th class="cabeza_tabla">25</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_izq">CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">4,14</td>
-<td class="cuerpo_tabla_der">32,60</td>
-<td class="cuerpo_tabla_der">150,87</td>
-<td class="cuerpo_tabla_der">3,40</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">191,01</td>
+<td>04</td>
+<td>CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
+<td>4,14</td>
+<td>32,60</td>
+<td>150,87</td>
+<td>3,40</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>191,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">24,00</td>
-<td class="cuerpo_tabla_der">318,00</td>
-<td class="cuerpo_tabla_der">2.286,45</td>
-<td class="cuerpo_tabla_der">39,65</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.668,10</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td>24,00</td>
+<td>318,00</td>
+<td>2.286,45</td>
+<td>39,65</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.668,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der">451,30</td>
-<td class="cuerpo_tabla_der">3.111,25</td>
-<td class="cuerpo_tabla_der">45.504,87</td>
-<td class="cuerpo_tabla_der">867,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">49.935,02</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td>451,30</td>
+<td>3.111,25</td>
+<td>45.504,87</td>
+<td>867,60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>49.935,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der">246,14</td>
-<td class="cuerpo_tabla_der">1.772,58</td>
-<td class="cuerpo_tabla_der">12.081,42</td>
-<td class="cuerpo_tabla_der">497,35</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14.597,49</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td>246,14</td>
+<td>1.772,58</td>
+<td>12.081,42</td>
+<td>497,35</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>14.597,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der">1.255,31</td>
-<td class="cuerpo_tabla_der">1.821,41</td>
-<td class="cuerpo_tabla_der">74.436,14</td>
-<td class="cuerpo_tabla_der">528,20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">78.041,06</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td>1.255,31</td>
+<td>1.821,41</td>
+<td>74.436,14</td>
+<td>528,20</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>78.041,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der">1.196,00</td>
-<td class="cuerpo_tabla_der">782,00</td>
-<td class="cuerpo_tabla_der">13.102,16</td>
-<td class="cuerpo_tabla_der">215,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.295,16</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td>1.196,00</td>
+<td>782,00</td>
+<td>13.102,16</td>
+<td>215,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>15.295,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der">194,25</td>
-<td class="cuerpo_tabla_der">1.336,87</td>
-<td class="cuerpo_tabla_der">11.474,70</td>
-<td class="cuerpo_tabla_der">110,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.115,82</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td>194,25</td>
+<td>1.336,87</td>
+<td>11.474,70</td>
+<td>110,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>13.115,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der">240,00</td>
-<td class="cuerpo_tabla_der">1.806,00</td>
-<td class="cuerpo_tabla_der">12.948,63</td>
-<td class="cuerpo_tabla_der">46,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15.040,63</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td>240,00</td>
+<td>1.806,00</td>
+<td>12.948,63</td>
+<td>46,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>15.040,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der">52,79</td>
-<td class="cuerpo_tabla_der">627,37</td>
-<td class="cuerpo_tabla_der">17.936,97</td>
-<td class="cuerpo_tabla_der">118,32</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">18.735,45</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td>52,79</td>
+<td>627,37</td>
+<td>17.936,97</td>
+<td>118,32</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>18.735,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der">82,40</td>
-<td class="cuerpo_tabla_der">2.224,51</td>
-<td class="cuerpo_tabla_der">40.711,06</td>
-<td class="cuerpo_tabla_der">168,81</td>
-<td class="cuerpo_tabla_der">221.396,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">264.583,38</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td>82,40</td>
+<td>2.224,51</td>
+<td>40.711,06</td>
+<td>168,81</td>
+<td>221.396,60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>264.583,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der">18,50</td>
-<td class="cuerpo_tabla_der">210,25</td>
-<td class="cuerpo_tabla_der">1.843,76</td>
-<td class="cuerpo_tabla_der">117,43</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.189,94</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td>18,50</td>
+<td>210,25</td>
+<td>1.843,76</td>
+<td>117,43</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.189,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der">1,40</td>
-<td class="cuerpo_tabla_der">14,00</td>
-<td class="cuerpo_tabla_der">1.164,10</td>
-<td class="cuerpo_tabla_der">30,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.209,50</td>
+<td>55</td>
+<td>INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
+<td>1,40</td>
+<td>14,00</td>
+<td>1.164,10</td>
+<td>30,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.209,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.571,54</td>
-<td class="cuerpo_tabla_der">23,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.594,54</td>
+<td>56</td>
+<td>AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>1.571,54</td>
+<td>23,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.594,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">1.757,96</td>
-<td class="cuerpo_tabla_der">27.938,39</td>
-<td class="cuerpo_tabla_der">606.355,47</td>
-<td class="cuerpo_tabla_der">4.598,52</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">120.195,12</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">760.845,46</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td>1.757,96</td>
+<td>27.938,39</td>
+<td>606.355,47</td>
+<td>4.598,52</td>
+<td> </td>
+<td>120.195,12</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>760.845,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der">59,38</td>
-<td class="cuerpo_tabla_der">59,03</td>
-<td class="cuerpo_tabla_der">4.440,24</td>
-<td class="cuerpo_tabla_der">10,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.568,65</td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td>59,38</td>
+<td>59,03</td>
+<td>4.440,24</td>
+<td>10,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.568,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
-<td class="cuerpo_tabla_der">59,00</td>
-<td class="cuerpo_tabla_der">31.063,78</td>
-<td class="cuerpo_tabla_der">5.901,24</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">37.024,02</td>
+<td>80</td>
+<td>ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
+<td>59,00</td>
+<td>31.063,78</td>
+<td>5.901,24</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>37.024,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der">129,83</td>
-<td class="cuerpo_tabla_der">413,27</td>
-<td class="cuerpo_tabla_der">5.614,78</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.157,88</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td>129,83</td>
+<td>413,27</td>
+<td>5.614,78</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6.157,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der">5.772,40</td>
-<td class="cuerpo_tabla_der">73.531,31</td>
-<td class="cuerpo_tabla_der">857.524,40</td>
-<td class="cuerpo_tabla_der">7.373,28</td>
-<td class="cuerpo_tabla_der">221.396,60</td>
-<td class="cuerpo_tabla_der">120.195,12</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.285.793,11</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td>5.772,40</td>
+<td>73.531,31</td>
+<td>857.524,40</td>
+<td>7.373,28</td>
+<td>221.396,60</td>
+<td>120.195,12</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.285.793,11</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo III. Gastos financieros
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">30</th>
-<th class="cabeza_tabla">31</th>
-<th class="cabeza_tabla">32</th>
-<th class="cabeza_tabla">33</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der">55.700,00</td>
-<td class="cuerpo_tabla_der">142.450,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.900,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">211.050,00</td>
+<td>06</td>
+<td>DEUDA PÚBLICA.</td>
+<td>55.700,00</td>
+<td>142.450,00</td>
+<td> </td>
+<td>12.900,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>211.050,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,00</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">310,68</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">310,68</td>
+<td>80</td>
+<td>ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>310,68</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>310,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">82,41</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">82,41</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td>82,41</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>82,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der">55.700,00</td>
-<td class="cuerpo_tabla_der">142.532,41</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.220,68</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">211.453,09</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td>55.700,00</td>
+<td>142.532,41</td>
+<td> </td>
+<td>13.220,68</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>211.453,09</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo IV. Transferencias corrientes
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">40</th>
-<th class="cabeza_tabla">41</th>
-<th class="cabeza_tabla">42</th>
-<th class="cabeza_tabla">43</th>
-<th class="cabeza_tabla">44</th>
-<th class="cabeza_tabla">45</th>
-<th class="cabeza_tabla">46</th>
-<th class="cabeza_tabla">47</th>
-<th class="cabeza_tabla">48</th>
-<th class="cabeza_tabla">49</th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>40</th>
+<th>41</th>
+<th>42</th>
+<th>43</th>
+<th>44</th>
+<th>45</th>
+<th>46</th>
+<th>47</th>
+<th>48</th>
+<th>49</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">02</td>
-<td class="cuerpo_tabla_izq">CORTES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.203,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.203,00</td>
+<td>02</td>
+<td>CORTES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11.203,00</td>
+<td> </td>
+<td>11.203,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">765,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">334,67</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.102,67</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>765,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3,00</td>
+<td> </td>
+<td>334,67</td>
+<td> </td>
+<td>1.102,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">432,57</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">746,48</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">811,10</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.990,15</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td> </td>
+<td> </td>
+<td>432,57</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>746,48</td>
+<td> </td>
+<td>811,10</td>
+<td> </td>
+<td>1.990,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.246,28</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.902,04</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.581,90</td>
-<td class="cuerpo_tabla_der">62.757,87</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">90.488,09</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td> </td>
+<td> </td>
+<td>6.246,28</td>
+<td> </td>
+<td> </td>
+<td>7.902,04</td>
+<td> </td>
+<td>13.581,90</td>
+<td>62.757,87</td>
+<td> </td>
+<td>90.488,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">305,63</td>
-<td class="cuerpo_tabla_der">186.075,92</td>
-<td class="cuerpo_tabla_der">88,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.658,29</td>
-<td class="cuerpo_tabla_der">258,14</td>
-<td class="cuerpo_tabla_der">162.876,64</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">355.262,62</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td> </td>
+<td>305,63</td>
+<td>186.075,92</td>
+<td>88,00</td>
+<td> </td>
+<td> </td>
+<td>5.658,29</td>
+<td>258,14</td>
+<td>162.876,64</td>
+<td> </td>
+<td>355.262,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.715,01</td>
-<td class="cuerpo_tabla_der">0,51</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">85.986,60</td>
-<td class="cuerpo_tabla_der">68.934,74</td>
-<td class="cuerpo_tabla_der">34.869,46</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">191.506,32</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td>1.715,01</td>
+<td>0,51</td>
+<td> </td>
+<td> </td>
+<td>85.986,60</td>
+<td>68.934,74</td>
+<td>34.869,46</td>
+<td> </td>
+<td>191.506,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">68,00</td>
-<td class="cuerpo_tabla_der">3.898,12</td>
-<td class="cuerpo_tabla_der">1.312,31</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">70,00</td>
-<td class="cuerpo_tabla_der">877.533,01</td>
-<td class="cuerpo_tabla_der">8.422,88</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">891.304,32</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td> </td>
+<td>68,00</td>
+<td>3.898,12</td>
+<td>1.312,31</td>
+<td> </td>
+<td> </td>
+<td>70,00</td>
+<td>877.533,01</td>
+<td>8.422,88</td>
+<td> </td>
+<td>891.304,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.002,29</td>
-<td class="cuerpo_tabla_der">120,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">30,00</td>
-<td class="cuerpo_tabla_der">76,25</td>
-<td class="cuerpo_tabla_der">333,75</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">28.562,29</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td> </td>
+<td> </td>
+<td>28.002,29</td>
+<td>120,00</td>
+<td> </td>
+<td> </td>
+<td>30,00</td>
+<td>76,25</td>
+<td>333,75</td>
+<td> </td>
+<td>28.562,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.872,54</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">364,28</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.717,24</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">9.954,06</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td> </td>
+<td> </td>
+<td>7.872,54</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>364,28</td>
+<td> </td>
+<td>1.717,24</td>
+<td> </td>
+<td>9.954,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">6.183,66</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">87.487,27</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">261.934,72</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">355.605,65</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td>6.183,66</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>87.487,27</td>
+<td> </td>
+<td>261.934,72</td>
+<td> </td>
+<td>355.605,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">933,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">30,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">963,00</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td> </td>
+<td> </td>
+<td>933,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>30,00</td>
+<td> </td>
+<td>963,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.901,13</td>
-<td class="cuerpo_tabla_der">165,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.066,13</td>
+<td>55</td>
+<td>INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.901,13</td>
+<td>165,00</td>
+<td> </td>
+<td>2.066,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.590,07</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">60,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">529.937,13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">534.587,20</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>4.590,07</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>60,00</td>
+<td> </td>
+<td>529.937,13</td>
+<td> </td>
+<td>534.587,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">15,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10.637,87</td>
-<td class="cuerpo_tabla_der">42,00</td>
-<td class="cuerpo_tabla_der">5.592,73</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.287,60</td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td> </td>
+<td> </td>
+<td>15,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10.637,87</td>
+<td>42,00</td>
+<td>5.592,73</td>
+<td> </td>
+<td>16.287,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">38.244,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">38.244,50</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>38.244,50</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>38.244,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">373,63</td>
-<td class="cuerpo_tabla_der">284.973,96</td>
-<td class="cuerpo_tabla_der">1.520,82</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.902,04</td>
-<td class="cuerpo_tabla_der">191.043,79</td>
-<td class="cuerpo_tabla_der">962.327,17</td>
-<td class="cuerpo_tabla_der">1.080.986,19</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.529.127,60</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td> </td>
+<td>373,63</td>
+<td>284.973,96</td>
+<td>1.520,82</td>
+<td> </td>
+<td>7.902,04</td>
+<td>191.043,79</td>
+<td>962.327,17</td>
+<td>1.080.986,19</td>
+<td> </td>
+<td>2.529.127,60</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo V. Fondo de contingencia y otros imprevistos
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">50</th>
-<th class="cabeza_tabla">51</th>
-<th class="cabeza_tabla">52</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>50</th>
+<th>51</th>
+<th>52</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">07</td>
-<td class="cuerpo_tabla_izq">CRÉDITOS CENTRALIZADOS</td>
-<td class="cuerpo_tabla_der">4.790,37</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.790,37</td>
+<td>07</td>
+<td>CRÉDITOS CENTRALIZADOS</td>
+<td>4.790,37</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.790,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL</td>
-<td class="cuerpo_tabla_der">4.790,37</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.790,37</td>
+<td> </td>
+<td>TOTAL GENERAL</td>
+<td>4.790,37</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.790,37</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo VI. Inversiones reales
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">60</th>
-<th class="cabeza_tabla">61</th>
-<th class="cabeza_tabla">62</th>
-<th class="cabeza_tabla">63</th>
-<th class="cabeza_tabla">64</th>
-<th class="cabeza_tabla">65</th>
-<th class="cabeza_tabla">67</th>
-<th class="cabeza_tabla">69</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>60</th>
+<th>61</th>
+<th>62</th>
+<th>63</th>
+<th>64</th>
+<th>65</th>
+<th>67</th>
+<th>69</th>
+<th> </th>
+<th> </th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_izq">CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8,54</td>
-<td class="cuerpo_tabla_der">31,34</td>
-<td class="cuerpo_tabla_der">0,06</td>
-<td class="cuerpo_tabla_der">0,06</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40,00</td>
+<td>04</td>
+<td>CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>8,54</td>
+<td>31,34</td>
+<td>0,06</td>
+<td>0,06</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>40,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">42,50</td>
-<td class="cuerpo_tabla_der">60,00</td>
-<td class="cuerpo_tabla_der">11,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">113,50</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>42,50</td>
+<td>60,00</td>
+<td>11,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>113,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.349,73</td>
-<td class="cuerpo_tabla_der">986,50</td>
-<td class="cuerpo_tabla_der">16.720,35</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">20.056,58</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td> </td>
+<td> </td>
+<td>2.349,73</td>
+<td>986,50</td>
+<td>16.720,35</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>20.056,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der">2.924,78</td>
-<td class="cuerpo_tabla_der">30.253,52</td>
-<td class="cuerpo_tabla_der">1.166,15</td>
-<td class="cuerpo_tabla_der">950,00</td>
-<td class="cuerpo_tabla_der">368,05</td>
-<td class="cuerpo_tabla_der">263,08</td>
-<td class="cuerpo_tabla_der">2.159,95</td>
-<td class="cuerpo_tabla_der">5.000,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43.085,53</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td>2.924,78</td>
+<td>30.253,52</td>
+<td>1.166,15</td>
+<td>950,00</td>
+<td>368,05</td>
+<td>263,08</td>
+<td>2.159,95</td>
+<td>5.000,00</td>
+<td> </td>
+<td> </td>
+<td>43.085,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">137,86</td>
-<td class="cuerpo_tabla_der">11.146,04</td>
-<td class="cuerpo_tabla_der">2.150,44</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.923,11</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">21.357,45</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td> </td>
+<td>137,86</td>
+<td>11.146,04</td>
+<td>2.150,44</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.923,11</td>
+<td> </td>
+<td> </td>
+<td>21.357,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der">500,00</td>
-<td class="cuerpo_tabla_der">1.000,00</td>
-<td class="cuerpo_tabla_der">2.570,16</td>
-<td class="cuerpo_tabla_der">3.185,96</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">7.256,12</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td>500,00</td>
+<td>1.000,00</td>
+<td>2.570,16</td>
+<td>3.185,96</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7.256,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der">200,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.339,21</td>
-<td class="cuerpo_tabla_der">630,00</td>
-<td class="cuerpo_tabla_der">1.272,87</td>
-<td class="cuerpo_tabla_der">18,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">299,79</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.759,87</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td>200,00</td>
+<td> </td>
+<td>1.339,21</td>
+<td>630,00</td>
+<td>1.272,87</td>
+<td>18,00</td>
+<td> </td>
+<td>299,79</td>
+<td> </td>
+<td> </td>
+<td>3.759,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der">1.029,00</td>
-<td class="cuerpo_tabla_der">664,74</td>
-<td class="cuerpo_tabla_der">4.938,12</td>
-<td class="cuerpo_tabla_der">843,95</td>
-<td class="cuerpo_tabla_der">55,00</td>
-<td class="cuerpo_tabla_der">170,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.245,74</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">12.946,55</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td>1.029,00</td>
+<td>664,74</td>
+<td>4.938,12</td>
+<td>843,95</td>
+<td>55,00</td>
+<td>170,00</td>
+<td> </td>
+<td>5.245,74</td>
+<td> </td>
+<td> </td>
+<td>12.946,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">74,00</td>
-<td class="cuerpo_tabla_der">206,87</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">280,87</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td> </td>
+<td> </td>
+<td>74,00</td>
+<td>206,87</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>280,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">680,00</td>
-<td class="cuerpo_tabla_der">4.787,22</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5.467,22</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td>680,00</td>
+<td>4.787,22</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>5.467,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.811,65</td>
-<td class="cuerpo_tabla_der">50,00</td>
-<td class="cuerpo_tabla_der">50,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.911,65</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td> </td>
+<td> </td>
+<td>3.811,65</td>
+<td>50,00</td>
+<td>50,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.911,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">5,50</td>
+<td>55</td>
+<td>INSTITUTO DE PROMOCIÓN EXTERIOR.</td>
+<td> </td>
+<td> </td>
+<td>5,50</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>5,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.050,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.050,00</td>
+<td>56</td>
+<td>AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.050,00</td>
+<td> </td>
+<td> </td>
+<td>1.050,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">97.521,35</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.570,23</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">102.091,58</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>97.521,35</td>
+<td> </td>
+<td>4.570,23</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>102.091,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">43,00</td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>43,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>43,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
-<td class="cuerpo_tabla_der">4.386,51</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">68,88</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">4.455,39</td>
+<td>80</td>
+<td>ENTIDAD PÚBLICA INFRAESTRUCTURAS DEL AGUA DE C-LM.</td>
+<td>4.386,51</td>
+<td> </td>
+<td>68,88</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4.455,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">109,24</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">55,27</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">164,51</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>109,24</td>
+<td> </td>
+<td>55,27</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>164,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der">9.040,29</td>
-<td class="cuerpo_tabla_der">32.056,12</td>
-<td class="cuerpo_tabla_der">125.831,07</td>
-<td class="cuerpo_tabla_der">13.925,28</td>
-<td class="cuerpo_tabla_der">23.102,83</td>
-<td class="cuerpo_tabla_der">451,14</td>
-<td class="cuerpo_tabla_der">2.159,95</td>
-<td class="cuerpo_tabla_der">19.518,64</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">226.085,32</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td>9.040,29</td>
+<td>32.056,12</td>
+<td>125.831,07</td>
+<td>13.925,28</td>
+<td>23.102,83</td>
+<td>451,14</td>
+<td>2.159,95</td>
+<td>19.518,64</td>
+<td> </td>
+<td> </td>
+<td>226.085,32</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo VII. Transferencias de capital
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">70</th>
-<th class="cabeza_tabla">71</th>
-<th class="cabeza_tabla">72</th>
-<th class="cabeza_tabla">73</th>
-<th class="cabeza_tabla">74</th>
-<th class="cabeza_tabla">75</th>
-<th class="cabeza_tabla">76</th>
-<th class="cabeza_tabla">77</th>
-<th class="cabeza_tabla">78</th>
-<th class="cabeza_tabla">79</th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>70</th>
+<th>71</th>
+<th>72</th>
+<th>73</th>
+<th>74</th>
+<th>75</th>
+<th>76</th>
+<th>77</th>
+<th>78</th>
+<th>79</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">02</td>
-<td class="cuerpo_tabla_izq">CORTES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50,00</td>
+<td>02</td>
+<td>CORTES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>50,00</td>
+<td> </td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">530,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">146,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">676,00</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>530,00</td>
+<td> </td>
+<td>146,00</td>
+<td> </td>
+<td>676,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.930,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.930,00</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.930,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.930,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.235,62</td>
-<td class="cuerpo_tabla_der">1.163,42</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.154,48</td>
-<td class="cuerpo_tabla_der">597,59</td>
-<td class="cuerpo_tabla_der">15.919,44</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22.070,55</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td> </td>
+<td> </td>
+<td>2.235,62</td>
+<td>1.163,42</td>
+<td> </td>
+<td> </td>
+<td>2.154,48</td>
+<td>597,59</td>
+<td>15.919,44</td>
+<td> </td>
+<td>22.070,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">251,65</td>
-<td class="cuerpo_tabla_der">7.725,23</td>
-<td class="cuerpo_tabla_der">2.048,15</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.891,39</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">602,16</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">13.518,58</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td> </td>
+<td>251,65</td>
+<td>7.725,23</td>
+<td>2.048,15</td>
+<td> </td>
+<td> </td>
+<td>2.891,39</td>
+<td> </td>
+<td>602,16</td>
+<td> </td>
+<td>13.518,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">286,00</td>
-<td class="cuerpo_tabla_der">33.010,72</td>
-<td class="cuerpo_tabla_der">516,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">33.813,22</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>286,00</td>
+<td>33.010,72</td>
+<td>516,50</td>
+<td> </td>
+<td>33.813,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">22,50</td>
-<td class="cuerpo_tabla_der">52,25</td>
-<td class="cuerpo_tabla_der">14.849,86</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">16.017,51</td>
-<td class="cuerpo_tabla_der">206.612,84</td>
-<td class="cuerpo_tabla_der">45.076,13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">282.631,09</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td> </td>
+<td>22,50</td>
+<td>52,25</td>
+<td>14.849,86</td>
+<td> </td>
+<td> </td>
+<td>16.017,51</td>
+<td>206.612,84</td>
+<td>45.076,13</td>
+<td> </td>
+<td>282.631,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">240,00</td>
-<td class="cuerpo_tabla_der">44.964,63</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">8.815,47</td>
-<td class="cuerpo_tabla_der">17.208,88</td>
-<td class="cuerpo_tabla_der">541,28</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">71.770,26</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td> </td>
+<td>240,00</td>
+<td>44.964,63</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>8.815,47</td>
+<td>17.208,88</td>
+<td>541,28</td>
+<td> </td>
+<td>71.770,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">100,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">100,00</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td> </td>
+<td> </td>
+<td>100,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>100,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">103,88</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.700,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.803,88</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>103,88</td>
+<td> </td>
+<td>2.700,00</td>
+<td> </td>
+<td>2.803,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">51,45</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">51,45</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>51,45</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>51,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">50,00</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>50,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">925,98</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">925,98</td>
+<td>81</td>
+<td>ENTE PÚBLICO RADIOTELEVISIÓN CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>925,98</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>925,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">514,15</td>
-<td class="cuerpo_tabla_der">56.003,71</td>
-<td class="cuerpo_tabla_der">18.112,88</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">34.778,73</td>
-<td class="cuerpo_tabla_der">257.430,03</td>
-<td class="cuerpo_tabla_der">65.551,51</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">432.391,01</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td> </td>
+<td>514,15</td>
+<td>56.003,71</td>
+<td>18.112,88</td>
+<td> </td>
+<td> </td>
+<td>34.778,73</td>
+<td>257.430,03</td>
+<td>65.551,51</td>
+<td> </td>
+<td>432.391,01</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo VIII. Activos financieros
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">80</th>
-<th class="cabeza_tabla">81</th>
-<th class="cabeza_tabla">82</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>80</th>
+<th>81</th>
+<th>82</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_izq">CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11,00</td>
+<td>04</td>
+<td>CONSEJO CONSULTIVO DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>11,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40,35</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">40,35</td>
+<td>11</td>
+<td>PRESIDENCIA DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>40,35</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>40,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">207,30</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">207,30</td>
+<td>15</td>
+<td>HACIENDA Y ADMINISTRACIONES PÚBLICAS.</td>
+<td> </td>
+<td> </td>
+<td>207,30</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>207,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">229,98</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">229,98</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td> </td>
+<td> </td>
+<td>229,98</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>229,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">467,37</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">467,37</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td> </td>
+<td> </td>
+<td>467,37</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>467,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">ECONOMÍA, EMPRESAS Y EMPLEO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.075,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">1.075,00</td>
+<td>19</td>
+<td>ECONOMÍA, EMPRESAS Y EMPLEO.</td>
+<td> </td>
+<td> </td>
+<td>1.075,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>1.075,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">187,60</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">187,60</td>
+<td>21</td>
+<td>AGRICULTURA, AGUA Y DESARROLLO RURAL.</td>
+<td> </td>
+<td> </td>
+<td>187,60</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>187,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">210,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">210,00</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td> </td>
+<td> </td>
+<td>210,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>210,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">SANIDAD.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">186,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">186,00</td>
+<td>26</td>
+<td>SANIDAD.</td>
+<td> </td>
+<td> </td>
+<td>186,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>186,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">BIENESTAR SOCIAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">560,53</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">560,53</td>
+<td>27</td>
+<td>BIENESTAR SOCIAL.</td>
+<td> </td>
+<td> </td>
+<td>560,53</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>560,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14,20</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">14,20</td>
+<td>51</td>
+<td>I. REG. INV. Y DES. AGROALIMEN. Y FORESTAL DE C-LM.</td>
+<td> </td>
+<td> </td>
+<td>14,20</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>14,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,00</td>
+<td>56</td>
+<td>AGENCIA DEL AGUA DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>10,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">466,90</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">466,90</td>
+<td>61</td>
+<td>SERVICIO DE SALUD DE CASTILLA-LA MANCHA.</td>
+<td> </td>
+<td> </td>
+<td>466,90</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>466,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">INSTITUTO DE LA MUJER.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,50</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">10,50</td>
+<td>70</td>
+<td>INSTITUTO DE LA MUJER.</td>
+<td> </td>
+<td> </td>
+<td>10,50</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.676,73</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">3.676,73</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td> </td>
+<td> </td>
+<td>3.676,73</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>3.676,73</td>
 </tr>
 </tbody>
 </table>
 
 Capítulo IX. Pasivos financieros
 
-<table class="tabla_girada">
-<colgroup>
-<col width="2%">
-<col width="32%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sección/Artículo</th>
-<th class="cabeza_tabla">90</th>
-<th class="cabeza_tabla">91</th>
-<th class="cabeza_tabla">93</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Sección/Artículo</th>
+<th>90</th>
+<th>91</th>
+<th>93</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_izq">DEUDA PÚBLICA.</td>
-<td class="cuerpo_tabla_der">400.000,00</td>
-<td class="cuerpo_tabla_der">1.993.932,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.393.932,00</td>
+<td>06</td>
+<td>DEUDA PÚBLICA.</td>
+<td>400.000,00</td>
+<td>1.993.932,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.393.932,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">FOMENTO.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">200,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">200,00</td>
+<td>17</td>
+<td>FOMENTO.</td>
+<td> </td>
+<td> </td>
+<td>200,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>200,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">EDUCACIÓN, CULTURA Y DEPORTES.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.623,22</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">11.623,22</td>
+<td>18</td>
+<td>EDUCACIÓN, CULTURA Y DEPORTES.</td>
+<td> </td>
+<td>11.623,22</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>11.623,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">DESARROLLO SOSTENIBLE.</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.500,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.500,00</td>
+<td>23</td>
+<td>DESARROLLO SOSTENIBLE.</td>
+<td> </td>
+<td>2.500,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">TOTAL GENERAL.</td>
-<td class="cuerpo_tabla_der">400.000,00</td>
-<td class="cuerpo_tabla_der">2.008.055,22</td>
-<td class="cuerpo_tabla_der">200,00</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">2.408.255,22</td>
+<td> </td>
+<td>TOTAL GENERAL.</td>
+<td>400.000,00</td>
+<td>2.008.055,22</td>
+<td>200,00</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>2.408.255,22</td>
 </tr>
 </tbody>
 </table>

@@ -310,141 +310,141 @@ MERCEDES CABRERA CALVO-SOTELO
 
 ## ANEXO I — Equivalencias, a efectos académicos, de las enseñanzas de música del Plan de Estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con las correspondientes al Plan de Estudios regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
 
-<table class="tabla">
+<table>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Plan de estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo</p>
+<p>Plan de estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Plan de estudios regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación</p>
+<p>Plan de estudios regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> Ciclo.</p>
+<p>1.<sup>er</sup> Ciclo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso de grado medio de Música.</p>
+<p>1.<sup>er</sup> curso de grado medio de Música.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso de las enseñanzas profesionales de Música.</p>
+<p>1.<sup>er</sup> curso de las enseñanzas profesionales de Música.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso de grado medio de Música.</p>
+<p>2.º curso de grado medio de Música.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso de las enseñanzas profesionales de Música.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">2.º Ciclo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> curso de grado medio de Música.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> curso de las enseñanzas profesionales de Música.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.º curso de grado medio de Música.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4.º curso de las enseñanzas profesionales de Música.</p>
+<p>2.º curso de las enseñanzas profesionales de Música.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> Ciclo.</p>
+<p>2.º Ciclo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5.º curso de grado medio de Música.</p>
+<p>3.<sup>er</sup> curso de grado medio de Música.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5.º curso de las enseñanzas profesionales de Música.</p>
+<p>3.<sup>er</sup> curso de las enseñanzas profesionales de Música.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.º curso de grado medio de Música y título profesional de Música.</p>
+<p>4.º curso de grado medio de Música.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6.º curso de las enseñanzas profesionales de Música y título profesional de Música.</p>
+<p>4.º curso de las enseñanzas profesionales de Música.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>3.<sup>er</sup> Ciclo.</p>
+</td>
+<td>
+<p>5.º curso de grado medio de Música.</p>
+</td>
+<td>
+<p>5.º curso de las enseñanzas profesionales de Música.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.º curso de grado medio de Música y título profesional de Música.</p>
+</td>
+<td>
+<p>6.º curso de las enseñanzas profesionales de Música y título profesional de Música.</p>
 </td>
 </tr>
 </table>
 
 ## ANEXO II — Equivalencias, a efectos académicos, de las enseñanzas de Danza del plan de estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con las correspondientes al plan de estudios regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Plan de estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo</p>
+<p>Plan de estudios regulado por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Plan de estudios regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación</p>
+<p>Plan de estudios regulado por la Ley Orgánica 2/2006, de 3 de mayo, de Educación</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> Ciclo.</p>
+<p>1.<sup>er</sup> Ciclo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso de grado medio de Danza.</p>
+<p>1.<sup>er</sup> curso de grado medio de Danza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso de las enseñanzas profesionales de Danza.</p>
+<p>1.<sup>er</sup> curso de las enseñanzas profesionales de Danza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso de grado medio de Danza.</p>
+<p>2.º curso de grado medio de Danza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso de las enseñanzas profesionales de Danza.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">2.º Ciclo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> curso de grado medio de Danza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> curso de las enseñanzas profesionales de Danza.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.º curso de grado medio de Danza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">4.º curso de las enseñanzas profesionales de Danza.</p>
+<p>2.º curso de las enseñanzas profesionales de Danza.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> Ciclo.</p>
+<p>2.º Ciclo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5.º curso de grado medio de Danza.</p>
+<p>3.<sup>er</sup> curso de grado medio de Danza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5.º curso de las enseñanzas profesionales de Danza.</p>
+<p>3.<sup>er</sup> curso de las enseñanzas profesionales de Danza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.º curso de grado medio de Danza y título profesional de Danza.</p>
+<p>4.º curso de grado medio de Danza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6.º curso de las enseñanzas profesionales de Danza y título profesional de Danza.</p>
+<p>4.º curso de las enseñanzas profesionales de Danza.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>3.<sup>er</sup> Ciclo.</p>
+</td>
+<td>
+<p>5.º curso de grado medio de Danza.</p>
+</td>
+<td>
+<p>5.º curso de las enseñanzas profesionales de Danza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.º curso de grado medio de Danza y título profesional de Danza.</p>
+</td>
+<td>
+<p>6.º curso de las enseñanzas profesionales de Danza y título profesional de Danza.</p>
 </td>
 </tr>
 </tbody>

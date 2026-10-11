@@ -276,12 +276,6 @@ d) Los recursos directos o indirectos que se interpongan contra las Normas Foral
 
 3\. En el supuesto previsto en el apartado anterior, si la nueva demanda que se formule ante el juzgado o tribunal competente del orden jurisdiccional indicado en la referida resolución se presenta en el plazo de un mes desde que fuera notificada, se entenderá presentada en la fecha en que se inició el plazo para interponer el recurso contencioso-administrativo, si se hubiere formulado éste siguiendo las indicaciones de la notificación del acto o ésta fuese defectuosa. Al objeto de acreditar tales extremos la parte interesada podrá solicitar testimonio de los particulares necesarios al órgano judicial que haya dictado la resolución a que se refiere el apartado anterior.
 
-> Téngase en cuenta que la modificación de este apartado 3, establecida por el art. 102.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. En todo caso, esta declaración será fundada y se efectuará indicando siempre el concreto orden jurisdiccional que se estime competente. Si la parte demandante se personare ante el mismo en el plazo de un mes desde la notificación de la resolución que declare la falta de jurisdicción, se entenderá haberlo efectuado en la fecha en que se inició el plazo para interponer el recurso contencioso-administrativo, si hubiere formulado éste siguiendo las indicaciones de la notificación del acto o ésta fuese defectuosa."
-
 > Se modifica el apartado 3 por el art. 102.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -309,12 +303,6 @@ e) Sala de lo Contencioso-administrativo del Tribunal Supremo.
 2\. La competencia de los Juzgados y Salas de lo Contencioso-administrativo no será prorrogable y deberá ser apreciada por los mismos, incluso de oficio, previa audiencia de las partes y del Ministerio Fiscal por plazo común de diez días.
 
 3\. La declaración de incompetencia adoptará la forma de auto y deberá efectuarse antes de la sentencia, remitiéndose las actuaciones al órgano de la jurisdicción que se estime competente para que ante él siga el curso del proceso, con emplazamiento a las partes para que en el plazo de diez días comparezcan ante el mismo. Si la competencia pudiera corresponder a un tribunal superior en grado, se acompañará una exposición razonada, estándose a lo que resuelva éste.
-
-> Téngase en cuenta que la modificación de este apartado 3, establecida por el art. 102.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. La declaración de incompetencia adoptará la forma de auto y deberá efectuarse antes de la sentencia, remitiéndose las actuaciones al órgano de la Jurisdicción que se estime competente para que ante él siga el curso del proceso. Si la competencia pudiera corresponder a un Tribunal superior en grado, se acompañará una exposición razonada, estándose a lo que resuelva éste."
 
 > Se modifica el apartado 3 por el art. 102.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -455,12 +443,6 @@ n) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a l
 1\. La Sala de lo Contencioso-administrativo de la Audiencia Nacional conocerá en única instancia:
 
 a) De los recursos que se deduzcan en relación con las disposiciones generales y los actos de los Ministros, aun cuando se adopten previo informe o acuerdo del Consejo de Ministros o de las Comisiones Delegadas del Gobierno, y de los Secretarios de Estado, en general y en materia de personal cuando se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera. Asimismo, conocerá de los recursos contra los actos de cualesquiera órganos centrales del Ministerio de Defensa referidos a ascensos, orden y antigüedad en el escalafón y destinos.
-
-> Téngase en cuenta que esta última actualización de la letra a) del apartado 1, establecida por el art. 21.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "a) De los recursos que se deduzcan en relación con las disposiciones generales y los actos de los Ministros y de los Secretarios de Estado en general y en materia de personal cuando se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera. Asimismo conocerá de los recursos contra los actos de cualesquiera órganos centrales del Ministerio de Defensa referidos a ascensos, orden y antigüedad en el escalafonamiento y destinos."
 
 b) De los recursos contra los actos de los Ministros y Secretarios de Estado cuando rectifiquen en vía de recurso o en procedimiento de fiscalización o de tutela los dictados por órganos o entes distintos con competencia en todo el territorio nacional.
 
@@ -656,8 +638,6 @@ La persona acosada será la única legitimada en los litigios sobre acoso discri
 
 k) Los sindicatos estarán también legitimados para actuar, en nombre interés del personal funcionario y estatutario afiliado a ellos que así lo autorice, en defensa de sus derechos individuales, recayendo sobre dichos afiliados los efectos de aquella actuación.
 
-> Téngase en cuenta que la letra k), añadida al apartado 1 por el art. 21.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
 2\. La Administración autora de un acto está legitimada para impugnarlo ante este orden jurisdiccional, previa su declaración de lesividad para el interés público en los términos establecidos por la Ley.
 
 3\. El ejercicio de acciones por los vecinos en nombre e interés de las Entidades locales se rige por lo dispuesto en la legislación de régimen local.
@@ -731,12 +711,6 @@ Cuando las partes confieran su representación al Abogado, será a éste a quien
 En este caso, estarán obligados al empleo de los sistemas electrónicos existentes, tanto para la remisión de escritos, iniciadores o no, y demás documentos, como para la recepción de notificaciones, de forma tal que esté garantizada su autenticidad y quede constancia fehaciente de la remisión y la recepción íntegras, así como de la fecha en que éstas se hicieren.
 
 4\. En todo caso, la representación prevista en este artículo podrá conferirse electrónicamente a través de los medios establecidos para ello.
-
-> Téngase en cuenta que la modificación de este apartado 3 y el apartado 4, añadido por el art. 102.3 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. Podrán, no obstante, comparecer por sí mismos los funcionarios públicos en defensa de sus derechos estatutarios, cuando se refieran a cuestiones de personal que no impliquen separación de empleados públicos inamovibles."
 
 > Se modifica el apartado 3 y se añade el 4 por el art. 102.3 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -834,12 +808,6 @@ En caso de vía de hecho, el interesado podrá formular requerimiento a la Admin
 
 2\. De esta petición, que producirá la suspensión del curso del procedimiento, el letrado o letrada de la Administración de Justicia dará traslado a las partes para que presenten alegaciones en el plazo común de cinco días. No obstante lo anterior, se mantendrán los señalamientos ya acordados, siempre que la decisión sobre la ampliación se produzca antes de la celebración de aquellos actos y no interfiera en los derechos de las partes ni en el interés de terceros.
 
-> Téngase en cuenta que la modificación de este apartado 2, establecida por el art. 102.4 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. De esta petición, que producirá la suspensión del curso del procedimiento, el Letrado de la Administración de Justicia dará traslado a las partes para que presenten alegaciones en el plazo común de cinco días."
-
 3\. Si el órgano jurisdiccional accediere a la ampliación, continuará la suspensión de la tramitación del proceso en tanto no se alcance respecto de aquélla el mismo estado que tuviere el procedimiento inicial.
 
 4\. Será asimismo aplicable lo dispuesto en el apartado 1 de este artículo cuando en los recursos contencioso-administrativos interpuestos contra actos presuntos la Administración dictare durante su tramitación resolución expresa respecto de la pretensión inicialmente deducida. En tal caso podrá el recurrente desistir del recurso interpuesto con fundamento en la aceptación de la resolución expresa que se hubiere dictado o solicitar la ampliación a la resolución expresa. Una vez producido el desistimiento del recurso inicialmente interpuesto, el plazo para recurrir la resolución expresa, que será de dos meses, se contará desde el día siguiente al de la notificación de la misma.
@@ -859,12 +827,6 @@ En caso de vía de hecho, el interesado podrá formular requerimiento a la Admin
 2\. Cuando ante un juez o tribunal estuviera pendiente una pluralidad de recursos con idéntico objeto, el órgano jurisdiccional, si no se hubiesen acumulado, tramitará uno o varios con carácter preferente previa audiencia de las partes por plazo común de cinco días, suspendiendo el curso de los demás, en el estado en que se encuentren, hasta que se dicte sentencia en los primeros.
 
 En caso de que esa pluralidad de recursos con idéntico objeto pudiera, a su vez, agruparse por categorías o grupos que planteen una controversia sustancialmente análoga, el órgano jurisdiccional, si no se hubieran acumulado, tramitará uno o varios de cada grupo o categoría con carácter preferente, previa audiencia de las partes por plazo común de cinco días, suspendiendo el curso de los demás en el estado en que se encuentren hasta que se dicte sentencia en los tramitados preferentemente para cada grupo o categoría.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 224.1 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "2. Cuando ante un Juez o Tribunal estuviera pendiente una pluralidad de recursos con idéntico objeto, el órgano jurisdiccional, si no se hubiesen acumulado, deberá tramitar uno o varios con carácter preferente previa audiencia de las partes por plazo común de cinco días, suspendiendo el curso de los demás hasta que se dicte sentencia en los primeros."
 
 3\. Una vez firme, el Secretario judicial llevará testimonio de la sentencia a los recursos suspendidos y la notificará a los recurrentes afectados por la suspensión a fin de que en el plazo de cinco días puedan interesar la extensión de sus efectos en los términos previstos en el artículo 111, la continuación del procedimiento o bien desistir del recurso.
 
@@ -889,12 +851,6 @@ En caso de que esa pluralidad de recursos con idéntico objeto pudiera, a su vez
 ###### Artículo 39.
 
 Contra las resoluciones sobre acumulación, ampliación y tramitación preferente solo se dará recurso de reposición.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 102.5 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "Contra las resoluciones sobre acumulación, ampliación y tramitación preferente sólo se dará recurso de súplica"
 
 > Se modifica por el art. 102.5 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -982,8 +938,6 @@ d) El documento o documentos que acrediten el cumplimiento de los requisitos exi
 
 e) En los casos en que el recurso se haya interpuesto por un sindicato que actúe en nombre e interés del personal funcionario y estatutario conforme dispone la letra k) del artículo 19.1, el documento o documentos que acrediten la afiliación de dicho personal y la existencia de comunicación por el sindicato al afiliado de la voluntad de iniciar el proceso, así como la autorización expresa del afiliado al sindicato para dicha iniciación.
 
-> Téngase en cuenta que la letra e), añadida al apartado 2 por el art. 21.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
 3\. El Secretario judicial examinará de oficio la validez de la comparecencia tan pronto como se haya presentado el escrito de interposición. Si estima que es válida, admitirá a trámite el recurso. Si con el escrito de interposición no se acompañan los documentos expresados en el apartado anterior o los presentados son incompletos y, en general, siempre que el Secretario judicial estime que no concurren los requisitos exigidos por esta Ley para la validez de la comparecencia, requerirá inmediatamente la subsanación de los mismos, señalando un plazo de diez días para que el recurrente pueda llevarla a efecto y, si no lo hiciere, el Juez o Tribunal se pronunciará sobre el archivo de las actuaciones.
 
 4\. El recurso de lesividad se iniciará por demanda formulada con arreglo al artículo 56.1, que fijará con precisión la persona o personas demandadas y su sede o domicilio si constara. A esta demanda se acompañarán en todo caso la declaración de lesividad, el expediente administrativo y, si procede, los documentos de las letras a) y d) del apartado 2 de este artículo.
@@ -1011,12 +965,6 @@ e) En los casos en que el recurso se haya interpuesto por un sindicato que actú
 ###### Artículo 47.
 
 1\. Una vez cumplido lo dispuesto en el artículo 45.3, el letrado de la Administración de Justicia en el siguiente día hábil acordará, si lo solicita el recurrente, que se anuncie la interposición del recurso y remitirá el oficio electrónicamente para su publicación por el órgano competente, sin perjuicio de que sea costeada por el recurrente, en el periódico oficial que proceda atendiendo al ámbito territorial de competencia del órgano autor de la actividad administrativa recurrida. El letrado de la Administración de Justicia podrá también acordar de oficio la publicación, si lo estima conveniente.
-
-> Téngase en cuenta que la modificación de este apartado 1, establecida por el art. 102.6 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Una vez cumplido lo dispuesto en el artículo 45.3, el Secretario judicial en el siguiente día hábil acordará, si lo solicita el recurrente, que se anuncie la interposición del recurso y remitirá el oficio para su publicación por el órgano competente, sin perjuicio de que sea costeada por el recurrente, en el periódico oficial que proceda atendiendo al ámbito territorial de competencia del órgano autor de la actividad administrativa recurrida. El Secretario judicial podrá también acordar de oficio la publicación, si lo estima conveniente."
 
 2\. Si se hubiera iniciado el recurso mediante demanda en los supuestos previstos por el artículo 45.5 y éste se dirige contra una disposición general, deberá procederse a la publicación del anuncio de interposición de aquél, en el que se concederán quince días para la personación de quienes tengan interés legítimo en sostener la conformidad a Derecho de la disposición, acto o conducta impugnados. Transcurrido este plazo, el Secretario judicial procederá a dar traslado de la demanda y de los documentos que la acompañen para que sea contestada primero por la Administración y luego por los demás demandados que se hubieran personado.
 
@@ -1054,34 +1002,6 @@ De darse la causa de imposibilidad de determinación individualizada de la autor
 
 11\. La Administración remitirá el expediente electrónicamente, utilizando, a tal efecto, los sistemas de interoperabilidad que resulten aplicables, al objeto de que el expediente administrativo en soporte electrónico así remitido quede automáticamente integrado en los sistemas de gestión procesal correspondientes.
 
-> Téngase en cuenta que la modificación de estos apartados 1, 4, 5, 7, 8 y el nuevo apartado 11, añadido por el art. 102.7 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "Artículo 48.
-
-> 1\. El Secretario judicial, al acordar lo previsto en el apartado 1 del artículo anterior, o mediante diligencia si la publicación no fuere necesaria, requerirá a la Administración que le remita el expediente administrativo, ordenándole que practique los emplazamientos previstos en el artículo 49. El expediente se reclamará al órgano autor de la disposición o acto impugnado o a aquél al que se impute la inactividad o vía de hecho. Se hará siempre una copia autentificada de los expedientes tramitados en grados o fases anteriores, antes de devolverlos a su oficina de procedencia.
-
-> 2...
-
-> 3...
-
-> 4\. El expediente, original o copiado, se enviará completo, foliado y, en su caso, autentificado, acompañado de un índice, asimismo autentificado, de los documentos que contenga. La Administración conservará siempre el original o una copia autentificada de los expedientes que envíe. Si el expediente fuera reclamado por diversos Juzgados o Tribunales, la Administración enviará copias autentificadas del original o de la copia que conserve.
-
-> 5\. Cuando el recurso contra la disposición se hubiere iniciado por demanda, el Tribunal podrá recabar de oficio o a petición del actor el expediente de elaboración. Recibido el expediente, el Secretario judicial lo pondrá de manifiesto a las partes por cinco días para que formulen alegaciones.
-
-> 6...
-
-> 7\. Transcurrido el plazo de remisión del expediente sin haberse recibido completo, se reiterará la reclamación y, si no se enviara en el término de diez días contados como dispone el apartado 3, tras constatarse su responsabilidad, previo apercibimiento del Secretario judicial notificado personalmente para formulación de alegaciones, el Juez o Tribunal impondrá una multa coercitiva de trescientos a mil doscientos euros a la autoridad o empleado responsable. La multa será reiterada cada veinte días, hasta el cumplimiento de lo requerido.
-
-> De darse la causa de imposibilidad de determinación individualizada de la autoridad o empleado responsable, la Administración será la responsable del pago de la multa sin perjuicio de que se repercuta contra el responsable.
-
-> 8\. Contra los autos en los que se acuerde la imposición de multas a las que se refiere el apartado anterior podrá interponerse recurso de súplica<sup>(*)</sup> en los términos previstos en el artículo 79.
-
-> 9...
-
-> 10..."
-
 > Se modifican los apartados 1, 4, 5, 7, 8 y se añade el 11 por el art. 102.7 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1103,14 +1023,6 @@ En los recursos contra las decisiones adoptadas por los órganos administrativos
 3\. Recibido el expediente, el letrado o letrada de la Administración de Justicia, a la vista del resultado de las actuaciones administrativas y del contenido del escrito de interposición y documentos anejos, comprobará que se han efectuado las debidas notificaciones para emplazamiento y, si advirtiere que son incompletas, ordenará a la Administración que se practiquen las necesarias para asegurar la defensa de los interesados que sean identificables.
 
 4\. Cuando no hubiera sido posible emplazar a algún interesado en el domicilio que conste, el letrado o letrada de la Administración de Justicia mandará insertar el correspondiente edicto en el Tablón Edictal Judicial Único. Los emplazados por edictos podrán personarse hasta el momento en que hubiere de dárseles traslado para contestar a la demanda.
-
-> Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por el art. 102.8 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. Recibido el expediente, el Secretario judicial, a la vista del resultado de las actuaciones administrativas y del contenido del escrito de interposición y documentos anejos, comprobará que se han efectuado las debidas notificaciones para emplazamiento y, si advirtiere que son incompletas, ordenará a la Administración que se practiquen las necesarias para asegurar la defensa de los interesados que sean identificables.
-
-> 4\. Cuando no hubiera sido posible emplazar a algún interesado en el domicilio que conste, el Secretario judicial mandará insertar el correspondiente edicto en el periódico oficial que proceda atendiendo al ámbito territorial de competencia del órgano autor de la actividad administrativa recurrida. Los emplazados por edictos podrán personarse hasta el momento en que hubiere de dárseles traslado para contestar a la demanda."
 
 5\. En el supuesto previsto en el artículo 47.2 se estará a lo que en él se dispone.
 
@@ -1164,12 +1076,6 @@ Asimismo, cuando se impugne la no realización por la Administración de las obl
 
 1\. Recibido el expediente administrativo en soporte electrónico en el juzgado o tribunal y comprobados, y en su caso completados, los emplazamientos, por el letrado o letrada de la Administración de Justicia se acordará su incorporación a los autos en ese mismo soporte y su entrega al recurrente para que se deduzca la demanda en el plazo de veinte días, salvo que concurra alguno de los supuestos del artículo 51, en cuyo caso dará cuenta al tribunal para que resuelva lo que proceda. Cuando los recurrentes fuesen varios, y aunque no actuasen bajo una misma dirección, la demanda se formulará simultáneamente por todos ellos. La entrega del expediente a las partes se efectuará mediante su remisión por vía telemática al tiempo de notificar la resolución en que así se disponga o a través del punto de acceso electrónico al expediente judicial.
 
-> Téngase en cuenta que la modificación de este apartado 1, establecida por el art. 102.9 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> 1\. Recibido el expediente administrativo en el Juzgado o Tribunal y comprobados, y en su caso completados, los emplazamientos, por el Secretario judicial se acordará que se entregue al recurrente para que se deduzca la demanda en el plazo de veinte días, salvo que concurra alguno de los supuestos del artículo 51, en cuyo caso dará cuenta al Tribunal para que resuelva lo que proceda. Cuando los recurrentes fuesen varios, y aunque no actuasen bajo una misma dirección, la demanda se formulará simultáneamente por todos ellos. La entrega del expediente se efectuará en original o copia.
-
 2\. Si la demanda no se hubiere presentado dentro del plazo, el Juzgado o Sala, de oficio, declarará por auto la caducidad del recurso. No obstante, se admitirá el escrito de demanda, y producirá sus efectos legales, si se presentare dentro del día en que se notifique el auto.
 
 > Se modifica el apartado 1 por el art. 102.9 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -1194,12 +1100,6 @@ Asimismo, cuando se impugne la no realización por la Administración de las obl
 
 3\. La contestación se formulará primero por la Administración demandada. Cuando hubieren de hacerlo, además de la Administración, otros demandados, y aunque no actuaren bajo una misma dirección, la contestación se formulará simultáneamente por todos ellos. En todos los casos la entrega del expediente se efectuará mediante su remisión por vía telemática al tiempo de notificar la resolución en que así se disponga o a través del punto de acceso electrónico al expediente judicial.
 
-> Téngase en cuenta que la modificación de este apartado 3, establecida por el art. 102.10 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. La contestación se formulará primero por la Administración demandada. Cuando hubieren de hacerlo, además de la Administración, otros demandados, y aunque no actuaren bajo una misma dirección, la contestación se formulará simultáneamente por todos ellos. En este caso no habrá lugar a la entrega del expediente administrativo, que será puesto de manifiesto en la Oficina judicial, pero sí de la copia del mismo, con los gastos a cargo de estos demandados."
-
 4\. Si la Administración demandada fuere una entidad local y no se hubiere personado en el proceso pese a haber sido emplazada, se le dará no obstante traslado de la demanda para que, en el plazo de veinte días, pueda designar representante en juicio o comunicar al órgano judicial, por escrito, los fundamentos por los que estimare improcedente la pretensión del actor.
 
 > Se modifica el apartado 3 por el art. 102.10 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -1221,16 +1121,6 @@ Si acepta la solicitud y esta se hubiera formulado dentro de los diez primeros d
 En ningún caso el plazo se reiniciará cuando la solicitud de complemento la hubiera formulado la Administración demandada.
 
 La Administración, al remitir de nuevo el expediente, deberá indicar en el índice a que se refiere el artículo 48.4 los documentos que se han adicionado.
-
-> Téngase en cuenta que la modificación de los apartados 1 y 3, establecida por el art. 102.11 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> 1\. Si las partes estimasen que el expediente administrativo no está completo, podrán solicitar, dentro del plazo para formular la demanda o la contestación, que se reclamen los antecedentes para completarlo.
-
-> 2...
-
-> 3\. El Secretario judicial resolverá lo pertinente en el plazo de tres días. La Administración, al remitir de nuevo el expediente, deberá indicar en el índice a que se refiere el artículo 48.4 los documentos que se han adicionado.
 
 > Se modifican los apartados 1 y 3 por el art. 102.11 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1255,8 +1145,6 @@ Una vez presentadas las alegaciones o transcurrido el plazo, si el juzgado o tri
 El auto que acuerde la suspensión se remitirá a la Sección de Enjuiciamiento de la Sala de lo Contencioso-administrativo del Tribunal Supremo indicada en el auto de admisión, que, a su vez, remitirá testimonio de la sentencia que recaiga en el recurso de casación al juzgado o tribunal remitente.
 
 Recibido el testimonio de la sentencia del recurso de casación, el juzgado o tribunal alzará la suspensión y dará un nuevo trámite de audiencia a las partes personadas, por plazo común de diez días, a fin de que aleguen sobre la incidencia que dicho pronunciamiento tiene para resolver el recurso. Evacuado el traslado o transcurrido el plazo conferido, se continuará la tramitación del procedimiento en el momento en que se encontrare antes de la suspensión, salvo que las partes desistan del recurso o se allanen, en cuyo caso el juzgado o tribunal resolverá lo procedente.
-
-> Téngase en cuenta que el apartado 5, añadido por el art. 224.2 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
 
 > Se añade el apartado 5 por el art. 224.2 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -1296,12 +1184,6 @@ En los dos supuestos anteriores, si el demandado solicita la inadmisión del rec
 
 4\. El auto estimatorio de las alegaciones previas declarará la inadmisibilidad del recurso. Si se hubiere declarado la falta de jurisdicción o de competencia, se estará a lo que determinan los artículos 5.3y 7.3.
 
-> Téngase en cuenta que la modificación del apartado 4, establecida por el art. 102.12 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "4. El auto estimatorio de las alegaciones previas declarará la inadmisibilidad del recurso y, una vez firme, el Secretario judicial ordenará la devolución del expediente administrativo a la oficina de donde procediere. Si se hubiere declarado la falta de jurisdicción o de competencia, se estará a lo que determinan los artículos 5.º 3 y 7.º 3."
-
 > Se modifica el apartado 4 por el art. 102.12 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1329,8 +1211,6 @@ En los dos supuestos anteriores, si el demandado solicita la inadmisión del rec
 A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, de oficio o a instancia de parte, podrá recabar informe o dictamen de los organismos públicos competentes.
 
 8\. La presentación de documentos en el curso de actos judiciales o procesales celebrados por videoconferencia se ajustará a lo establecido por la Ley que regule el uso de las tecnologías en la Administración de Justicia.
-
-> Téngase en cuenta que este apartado 8, añadido por el art. 102.13 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
 
 > Se añade el apartado 8 por el art. 102.13 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1383,14 +1263,6 @@ A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, de o
 3\. El desarrollo de las sesiones del juicio oral y resto de actuaciones orales se documentarán conforme a lo preceptuado en los artículos 146 y 147 de la Ley de Enjuiciamiento Civil. La oficina judicial deberá asegurar la correcta incorporación de la grabación al expediente judicial electrónico. Si los sistemas no proveen expediente judicial electrónico, el letrado de la Administración de Justicia deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir a su costa copia o, en su caso, acceso electrónico de las grabaciones originales.
 
 4\. Siempre que se cuente con los medios tecnológicos necesarios, estos garantizarán la autenticidad e integridad de lo grabado o reproducido. A tal efecto, el letrado de la Administración de Justicia hará uso de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del letrado de la Administración de Justicia salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el letrado de la Administración de Justicia atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen. En estos casos, el letrado de la Administración de Justicia extenderá acta sucinta en los términos previstos en el apartado siguiente.
-
-> Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por el art. 102.14 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. El desarrollo de la vista se registrará en soporte apto para la grabación y reproducción del sonido y de la imagen. El Secretario judicial deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir, a su costa, copia de las grabaciones originales.
-
-> 4\. Siempre que se cuente con los medios tecnológicos necesarios, el Secretario judicial garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica reconocida u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del Secretario judicial, salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente el Secretario judicial lo considere necesario, atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen, supuesto en el cual el Secretario judicial extenderá acta sucinta en los términos previstos en el apartado siguiente."
 
 5\. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar, el Secretario judicial deberá consignar en el acta los siguientes extremos: número y clase de procedimiento; lugar y fecha de celebración; tiempo de duración, asistentes al acto; alegaciones de las partes; resoluciones que adopte el Juez o Tribunal; así como las circunstancias e incidencias que no pudieran constar en aquel soporte. A este acta se incorporarán los soportes de la grabación de las sesiones.
 
@@ -1512,12 +1384,6 @@ Las sentencias firmes que anulen un precepto de una disposición general no afec
 
 8\. Desistido un recurso de apelación o de casación, el letrado o la letrada de la Administración de Justicia sin más trámites declarará terminado el procedimiento por decreto, ordenando el archivo de los autos y la devolución de las actuaciones recibidas al órgano jurisdiccional de procedencia.
 
-> Téngase en cuenta que esta última actualización del apartado 8, establecida por el art. 21.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "8. Desistido un recurso de apelación o de casación, el Secretario judicial sin más trámites declarará terminado el procedimiento por decreto, ordenando el archivo de los autos y la devolución de las actuaciones recibidas al órgano jurisdiccional de procedencia."
-
 > Se modifica el apartado 8, con efectos desde el 3 de abril de 2025, por el art. 21.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el apartado 3 por el art. 102.15 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -1540,12 +1406,6 @@ Las sentencias firmes que anulen un precepto de una disposición general no afec
 
 2\. El letrado o letrada de la Administración de Justicia mandará oír a las partes por plazo común de cinco días y, previa comprobación de lo alegado, el juez, la jueza o el tribunal dictarán auto en el que declarará terminado el procedimiento y ordenará el archivo del recurso, si el reconocimiento no infringiera manifiestamente el ordenamiento jurídico. En este último caso dictará sentencia ajustada a Derecho.
 
-> Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.16 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. El Secretario judicial mandará oír a las partes por plazo común de cinco días y, previa comprobación de lo alegado, el Juez o Tribunal dictará auto en el que declarará terminado el procedimiento y ordenará el archivo del recurso y la devolución del expediente administrativo, si el reconocimiento no infringiera manifiestamente el ordenamiento jurídico. En este último caso dictará sentencia ajustada a Derecho."
-
 > Se modifica el apartado 2 por el art. 102.16 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1563,8 +1423,6 @@ Los representantes de las Administraciones públicas demandadas necesitarán la 
 3\. Si las partes llegaran a un acuerdo que implique la desaparición de la controversia, el Juez o Tribunal dictará auto declarando terminado el procedimiento, siempre que lo acordado no fuera manifiestamente contrario al ordenamiento jurídico ni lesivo del interés público o de terceros.
 
 4\. En todo caso, las actuaciones previstas en este artículo podrán llevarse a cabo por medios electrónicos.
-
-> Téngase en cuenta que el apartado 4, añadido por el art. 102.17 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
 
 > Se añade el apartado 4 por el art. 102.17 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1591,18 +1449,6 @@ El auto que acuerde la celebración de vista no será recurrible y, tras su noti
 El auto que rechace la celebración de vista dispondrá, además, que se conteste la demanda en el plazo que reste y contra el mismo podrá interponerse recurso de reposición. Presentada la contestación se abrirá un trámite de conclusiones, por plazo de cinco días sucesivos, si la parte actora lo hubiese solicitado en su demanda.
 
 4\. Recibido el expediente administrativo, el letrado o la letrada de la Administración de Justicia lo entregarán al actor y a las personas interesadas que se hubieren personado para que puedan hacer alegaciones en el acto de la vista.
-
-> Téngase en cuenta que esta última actualización de los apartados 3 y 4, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "3. Presentada la demanda, el Secretario judicial, apreciada la jurisdicción y competencia objetiva del Tribunal, admitirá la demanda. En otro caso, dará cuenta a éste para que resuelva lo que proceda.
-
-> Admitida la demanda, el Secretario judicial acordará su traslado al demandado, citando a las partes para la celebración de vista, con indicación de día y hora, y requerirá a la Administración demandada que remita el expediente administrativo con al menos quince días de antelación del término señalado para la vista. En el señalamiento de las vistas atenderá a los criterios establecidos en el artículo 182 de la Ley de Enjuiciamiento Civil.
-
-> No obstante, si el actor pide por otrosí en su demanda que el recurso se falle sin necesidad de recibimiento a prueba ni tampoco de vista, el Secretario judicial dará traslado de la misma a las partes demandadas para que la contesten en el plazo de veinte días, con el apercibimiento a que se refiere el apartado primero del artículo 54. Las partes demandadas podrán, dentro de los diez primeros días del plazo para contestar a la demanda, solicitar la celebración de la vista. En dicho caso el Secretario judicial citará a las partes al acto conforme a lo previsto en el párrafo anterior. En caso contrario, el Secretario judicial procederá de acuerdo con lo dispuesto en el artículo 57, declarando concluso el pleito sin más trámite una vez contestada la demanda, salvo que el Juez haga uso de la facultad que le atribuye el artículo 61.
-
-> 4\. Recibido el expediente administrativo, el Secretario judicial lo remitirá al actor y a los interesados que se hubieren personado para que puedan hacer alegaciones en el acto de la vista."
 
 5\. Comparecidas las partes, o alguna de ellas, el Juez declarará abierta la vista.
 
@@ -1636,21 +1482,9 @@ Formulada oposición, el Juez resolverá estimándola, en cuyo caso proseguirá 
 
 18\. Si el juez o la jueza estimase que alguna prueba relevante no puede practicarse en la vista, sin mala fe por parte de quien tuviera la carga de aportarla, la suspenderá, señalando el letrado o la letrada de la Administración de Justicia competente, en el acto y sin necesidad de nueva notificación, el lugar, día y hora en que deba reanudarse. Si no hubiera asistido a la vista, el letrado o la letrada de la Administración de Justicia efectuarán nuevo señalamiento en el día hábil siguiente a aquel en que se hubiera acordado la suspensión.
 
-> Téngase en cuenta que esta última actualización del apartado 18, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "18. Si el Juez estimase que alguna prueba relevante no puede practicarse en la vista, sin mala fe por parte de quien tuviera la carga de aportarla, la suspenderá, señalando el Secretario judicial competente, en el acto y sin necesidad de nueva notificación, el lugar, día y hora en que deba reanudarse."
-
 19\. Tras la práctica de la prueba, si la hubiere, y, en su caso, de las conclusiones, oídos los Letrados, las personas que sean parte en los asuntos podrán, con la venia del Juez, exponer de palabra lo que crean oportuno para su defensa a la conclusión de la vista, antes de darla por terminada.
 
 20\. El juez o la jueza dictarán sentencia en el plazo de diez días desde la celebración de la vista. No obstante, la sentencia se podrá dictar oralmente al concluir dicho acto con los requisitos de forma y consecuencias previstas en los apartados 3 y 4 del artículo 210 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y pronunciando su fallo de acuerdo con lo dispuesto en los artículos 68 a 71 de la presente ley.
-
-> Téngase en cuenta que esta última actualización del apartado 20, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "20. El Juez dictará sentencia en el plazo de diez días desde la celebración de la vista."
 
 21\. La vista se documentará en la forma establecida en los apartados 3 y 4 del artículo 63.
 
@@ -1679,36 +1513,6 @@ d) Conclusiones y peticiones concretas formuladas por las partes; en caso de que
 e) Declaración hecha por el juez o la jueza de conclusión de los autos, mandando traerlos a la vista para sentencia.
 
 Las actas previstas en este apartado se extenderán por procedimientos informáticos, sin que puedan ser manuscritas más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos. En estos casos, al terminar la sesión el letrado o letrada de la Administración de Justicia leerá el acta, haciendo en ella las rectificaciones que las partes reclamen, si las estima procedentes. Esta acta se firmará por el letrado o letrada de la Administración de Justicia tras el juez, la jueza o el presidente o la presidenta, las partes, sus representantes o defensores y los peritos, en su caso.
-
-> Téngase en cuenta que esta última actualización del apartado 22, establecida por el art. 21.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "22. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar deberán consignarse en el acta los siguientes extremos: número y clase de procedimiento; lugar y fecha de celebración; tiempo de duración, asistentes al acto; alegaciones de las partes; resoluciones que adopte el Juez o Tribunal; así como las circunstancias e incidencias que no pudieran constar en aquel soporte. A este acta se incorporarán los soportes de la grabación de las sesiones.
-
-> Cuando no se pudiesen utilizar los medios de registro por cualquier causa, el Secretario judicial extenderá acta de cada sesión, en la que se hará constar:
-
-> a) Lugar, fecha, Juez que preside el acto, partes comparecientes, representantes, en su caso, y defensores que las asisten.
-
-> b) Breve resumen de las alegaciones de las partes, medios de prueba propuestos por ellas, declaración expresa de su pertinencia o impertinencia, razones de la denegación y protesta, en su caso.
-
-> c) En cuanto a las pruebas admitidas y practicadas:
-
-> 1.º Resumen suficiente de las de interrogatorio de parte y testifical.
-
-> 2.º Relación circunstanciada de los documentos presentados, o datos suficientes que permitan identificarlos, en el caso de que su excesivo número haga desaconsejable la citada relación.
-
-> 3.º Relación de las incidencias planteadas en el juicio respecto a la prueba documental.
-
-> 4.º Resumen suficiente de los informes periciales, así como también de la resolución del Juez en torno a las propuestas de recusación de los peritos.
-
-> 5.º Resumen de las declaraciones realizadas en la vista.
-
-> d) Conclusiones y peticiones concretas formuladas por las partes; en caso de que fueran de condena a cantidad, ésta deberá recogerse en el acta.
-
-> e) Declaración hecha por el Juez de conclusión de los autos, mandando traerlos a la vista para sentencia.
-
-> Las actas previstas en este apartado se extenderán por procedimientos informáticos, sin que puedan ser manuscritas más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos. En estos casos, al terminar la sesión el Secretario judicial leerá el acta, haciendo en ella las rectificaciones que las partes reclamen, si las estima procedentes. Este acta se firmará por el Secretario judicial tras el Juez o Presidente, las partes, sus representantes o defensores y los peritos, en su caso."
 
 23\. El procedimiento abreviado, en lo no dispuesto en este capítulo, se regirá por las normas generales de la presente Ley.
 
@@ -1741,18 +1545,6 @@ Las actas previstas en este apartado se extenderán por procedimientos informát
 3\. El recurso de reposición se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.
 
 4\. Interpuesto el recurso en tiempo y forma, el Secretario judicial dará traslado de las copias del escrito a las demás partes, por término común de cinco días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el órgano jurisdiccional resolverá por auto dentro del tercer día.
-
-> Téngase en cuenta que la modificación de los apartados 1 y 3, establecida por el art. 102.18 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Contra las providencias y los autos no susceptibles de apelación o casación podrá interponerse recurso de súplica<sup>(*)</sup>, sin perjuicio del cual se llevará a efecto la resolución impugnada, salvo que el órgano jurisdiccional, de oficio o a instancia de parte, acuerde lo contrario.
-
-> 2...
-
-> 3\. El recurso de súplica se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.
-
-> 4..."
 
 > Se modifican los apartados 1 y 3 por el art. 102.18 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1804,20 +1596,6 @@ d) Las que resuelvan impugnaciones indirectas de disposiciones generales.
 
 e) Las que, con independencia de la cuantía del procedimiento, sean susceptibles de extensión de efectos.
 
-> Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.19 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. Serán siempre susceptibles de apelación las sentencias siguientes:
-
-> a) Las que declaren la inadmisibilidad del recurso en el caso de la letra a) del apartado anterior.
-
-> b) Las dictadas en el procedimiento para la protección de los derechos fundamentales de la persona.
-
-> c) Las que resuelvan litigios entre Administraciones públicas.
-
-> d) Las que resuelvan impugnaciones indirectas de disposiciones generales."
-
 > Se modifica el apartado 2 por el art. 102.19 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1861,14 +1639,6 @@ Las partes favorecidas por la sentencia podrán instar su ejecución provisional
 3\. En los escritos de interposición del recurso y de oposición al mismo las partes podrán pedir el recibimiento a prueba para la práctica de las que hubieran sido denegadas o no hubieran sido debidamente practicadas en primera instancia por causas que no les sean imputables.
 
 4\. En el escrito de oposición, la parte apelada, si entendiera admitida indebidamente la apelación, deberá hacerlo constar, en cuyo caso el letrado o letrada de la Administración de Justicia dará vista a la apelante, por cinco días, de esta alegación. También podrá el apelado, en el mismo escrito, impugnar la sentencia apelada en lo que le resulte desfavorable, razonando los puntos en que crea que le es perjudicial la sentencia, y en este caso el letrado o letrada de la Administración de Justicia dará traslado al apelante del escrito de oposición por plazo de diez días, al solo efecto de que pueda oponerse a la impugnación.
-
-> Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por el art. 102.20 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. En los escritos de interposición del recurso y de oposición al mismo las partes podrán pedir el recibimiento a prueba para la práctica de las que hubieran sido denegadas o no hubieran sido debidamente practicadas en primera instancia por causas que no les sean imputables. En dichos escritos, los funcionarios públicos, en los procesos a que se refiere el artículo 23.3, designarán un domicilio para notificaciones en la sede de la Sala de lo Contencioso-administrativo competente.
-
-> 4\. En el escrito de oposición, la parte apelada, si entendiera admitida indebidamente la apelación, deberá hacerlo constar, en cuyo caso el Secretario judicial dará vista a la apelante, por cinco días, de esta alegación. También podrá el apelado, en el mismo escrito, adherirse a la apelación, razonando los puntos en que crea que le es perjudicial la sentencia, y en este caso el Secretario dará traslado al apelante del escrito de oposición por plazo de diez días, al solo efecto de que pueda oponerse a la adhesión."
 
 5\. Transcurridos los plazos a que se refieren los apartados 2 y 4 anteriores, el Juzgado elevará los autos y el expediente administrativo, en unión de los escritos presentados, ordenándose el emplazamiento de las partes para su comparecencia en el plazo de treinta días ante la Sala de lo Contencioso-administrativo competente, que resolverá, en su caso, lo que proceda sobre la discutida admisión del recurso o sobre el recibimiento a prueba.
 
@@ -1998,12 +1768,6 @@ a) Cuando en la resolución impugnada se hayan aplicado normas en las que se sus
 
 b) Cuando dicha resolución se aparte de la jurisprudencia existente de modo deliberado por considerarla errónea o de modo inmotivado pese a haber sido citada en el debate o ser doctrina asentada.
 
-> Téngase en cuenta que esta actualización de la letra b) del apartado 3, establecida por el art. 224.3 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "b) Cuando dicha resolución se aparte deliberadamente de la jurisprudencia existente al considerarla errónea."
-
 c) Cuando la sentencia recurrida declare nula una disposición de carácter general, salvo que esta, con toda evidencia, carezca de trascendencia suficiente.
 
 d) Cuando resuelva recursos contra actos o disposiciones de los organismos reguladores o de supervisión o agencias estatales cuyo enjuiciamiento corresponde a la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
@@ -2042,12 +1806,6 @@ f) Especialmente, fundamentar con singular referencia al caso, que concurren alg
 
 5\. Si se cumplieran los requisitos exigidos por el apartado 2, dicha Sala, mediante auto en el que se motivará suficientemente su concurrencia, tendrá por preparado el recurso de casación, ordenando el emplazamiento de las partes para su comparecencia dentro del plazo de quince días ante la Sala de lo Contencioso-administrativo del Tribunal Supremo, así como la remisión a ésta de los autos originales y del expediente administrativo. Y, si lo entiende oportuno, emitirá opinión sucinta y fundada sobre el interés objetivo del recurso para la formación de jurisprudencia, que unirá al oficio de remisión.
 
-> Téngase en cuenta que esta actualización del apartado 5, establecida por el art. 224.4 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "5. Si se cumplieran los requisitos exigidos por el apartado 2, dicha Sala, mediante auto en el que se motivará suficientemente su concurrencia, tendrá por preparado el recurso de casación, ordenando el emplazamiento de las partes para su comparecencia dentro del plazo de treinta días ante la Sala de lo Contencioso-administrativo del Tribunal Supremo, así como la remisión a ésta de los autos originales y del expediente administrativo Y, si lo entiende oportuno, emitirá opinión sucinta y fundada sobre el interés objetivo del recurso para la formación de jurisprudencia, que unirá al oficio de remisión."
-
 6\. Contra el auto en que se tenga por preparado el recurso de casación, la parte recurrida no podrá interponer recurso alguno, pero podrá oponerse a su admisión al tiempo de comparecer ante el Tribunal Supremo, si lo hiciere dentro del término del emplazamiento.
 
 > Se modifica el apartado 5 por el art. 224.4 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
@@ -2069,16 +1827,6 @@ f) Especialmente, fundamentar con singular referencia al caso, que concurren alg
 a) En los supuestos del apartado 2 del artículo 88, en los que ha de apreciarse la existencia de interés casacional objetivo para la formación de jurisprudencia, la resolución adoptará la forma de providencia sucintamente motivada, si decide la inadmisión, y de auto, si acuerda la admisión a trámite. No obstante, si el órgano que dictó la resolución recurrida hubiera emitido en el trámite que prevé el artículo 89.5 opinión que, además de fundada, sea favorable a la admisión del recurso, la inadmisión se acordará por auto motivado.
 
 b) En los supuestos del apartado 3 del artículo 88, en los que se presume la existencia de interés casacional objetivo, la inadmisión se acordará por auto motivado en el que se justificará que concurren las salvedades que en aquél se establecen.
-
-> Téngase en cuenta que esta actualización del apartado 1 y de la letra a) del apartado 3, establecida por el art. 224.5 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. Recibidos los autos originales y el expediente administrativo, la Sección de la Sala de lo Contencioso-administrativo del Tribunal Supremo a que se refiere el apartado siguiente podrá acordar, excepcionalmente y sólo si las características del asunto lo aconsejan, oír a las partes personadas por plazo común de treinta días acerca de si el recurso presenta interés casacional objetivo para la formación de jurisprudencia."
-
-> "3. La resolución sobre la admisión o inadmisión del recurso adoptará la siguiente forma:
-
-> a) En los supuestos del apartado 2 del artículo 88, en los que ha de apreciarse la existencia de interés casacional objetivo para la formación de jurisprudencia, la resolución adoptará la forma de providencia, si decide la inadmisión, y de auto, si acuerda la admisión a trámite. No obstante, si el órgano que dictó la resolución recurrida hubiera emitido en el trámite que prevé el artículo 89.5 opinión que, además de fundada, sea favorable a la admisión del recurso, la inadmisión se acordará por auto motivado."
 
 4\. Los autos de admisión precisarán la cuestión o cuestiones en las que se entiende que existe interés casacional objetivo e identificarán la norma o normas jurídicas que en principio serán objeto de interpretación, sin perjuicio de que la sentencia haya de extenderse a otras si así lo exigiere el debate finalmente trabado en el recurso. Las providencias de inadmisión únicamente indicarán si en el recurso de casación concurre una de estas circunstancias:
 
@@ -2144,18 +1892,6 @@ b) Precisar el sentido de las pretensiones que la parte deduce y de los pronunci
 
 8\. La Sección competente, o el Pleno de la Sala en el caso previsto en el apartado anterior, dictará sentencia en el plazo de diez días desde que termine la deliberación para votación y fallo.
 
-> Téngase en cuenta que la modificación de los apartados 1 y 5, establecida por el art. 102.21 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Admitido el recurso, el Letrado de la Administración de Justicia de la Sección de Admisión de la Sala de lo Contencioso-administrativo del Tribunal Supremo dictará diligencia de ordenación en la que dispondrá remitir las actuaciones a la Sección de dicha Sala competente para su tramitación y decisión y en la que hará saber a la parte recurrente que dispone de un plazo de treinta días, a contar desde la notificación de aquélla, para presentar en la Secretaría de esa Sección competente el escrito de interposición del recurso de casación. Durante este plazo, las actuaciones procesales y el expediente administrativo estarán de manifiesto en la Oficina judicial.
-
-> ...
-
-> "5. En otro caso, acordará dar traslado del escrito de interposición a la parte o partes recurridas y personadas para que puedan oponerse al recurso en el plazo común de treinta días. Durante este plazo estarán de manifiesto las actuaciones procesales y el expediente administrativo en la Oficina judicial. En el escrito de oposición no podrá pretenderse la inadmisión del recurso."
-
-> ...
-
 > Se modifican los apartados 1 y 5 por el art. 102.21 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2189,8 +1925,6 @@ b) Precisar el sentido de las pretensiones que la parte deduce y de los pronunci
 Por el contrario, si la sentencia impugnada en casación no resulta coincidente, en su fallo y razón de decidir, con lo resuelto por la sentencia o sentencias del Tribunal Supremo, se dictará auto de admisión y se remitirá el conocimiento del asunto a la Sección correspondiente, siempre que el escrito de preparación cumpla las exigencias impuestas en el artículo 89.2 y presente interés casacional objetivo.
 
 4\. Remitidas las actuaciones, la Sección resolverá si continua con la tramitación prevista en el artículo 92 o si dicta sentencia sin más trámite, remitiéndose a lo acordado en la sentencia de referencia y adoptando los demás pronunciamientos que considere necesarios.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 224.6 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9. Anteriormente se encontraba suprimido.
 
 > Se modifica por el art. 224.6 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -2308,18 +2042,6 @@ Interpuesto el recurso en tiempo y forma, el Secretario judicial dará traslado 
 
 Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea.
 
-> Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.22 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. **Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva.**
-
-> Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
-
-> Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea."
-
-> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. [Ref. BOE-A-2016-3911](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3911).
-
 3\. El recurso de revisión deberá interponerse en el plazo de cinco días mediante escrito en el que deberá citarse la infracción en que la resolución hubiera incurrido.
 
 Cumplidos los anteriores requisitos, el Secretario judicial, mediante diligencia de ordenación, admitirá el recurso, concediendo a las demás partes personadas un plazo común de cinco días para impugnarlo, si lo estiman conveniente.
@@ -2342,12 +2064,6 @@ Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 
 ### CAPÍTULO IV — Ejecución de sentencias y demás títulos ejecutivos
 
-> Téngase en cuenta que la modificación de la rúbrica, establecida por el art. 102.23 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "Ejecución de sentencias"
-
 > Se modifica por el art. 102.23 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2355,12 +2071,6 @@ Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 ###### Artículo 103.
 
 1\. La potestad de hacer ejecutar las sentencias y demás títulos ejecutivos adoptados en el proceso corresponde exclusivamente a los juzgados y tribunales de este orden jurisdiccional, y su ejercicio compete al que haya conocido del asunto en primera o única instancia.
-
-> Téngase en cuenta que la modificación del apartado 1, establecida por el art. 102.24 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. La potestad de hacer ejecutar las sentencias y demás resoluciones judiciales corresponde exclusivamente a los Juzgados y Tribunales de este orden jurisdiccional, y su ejercicio compete al que haya conocido del asunto en primera o única instancia."
 
 2\. Las partes están obligadas a cumplir las sentencias en la forma y términos que en éstas se consignen.
 
@@ -2377,12 +2087,6 @@ Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 ###### Artículo 104.
 
 1\. Luego que sea firme una sentencia, el letrado o letrada de la Administración de Justicia lo comunicará en el plazo de diez días al órgano previamente identificado como responsable de su cumplimiento, a fin de que, recibida la comunicación, la lleve a puro y debido efecto y practique lo que exija el cumplimiento de las declaraciones contenidas en el fallo.
-
-> Téngase en cuenta que la modificación del apartado 1, establecida por el art. 102.25 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Luego que sea firme una sentencia, el Secretario judicial lo comunicará en el plazo de diez días al órgano que hubiera realizado la actividad objeto del recurso, a fin de que, recibida la comunicación, la lleve a puro y debido efecto y practique lo que exija el cumplimiento de las declaraciones contenidas en el fallo, y en el mismo plazo indique el órgano responsable del cumplimiento de aquél."
 
 2\. Transcurridos dos meses a partir de la comunicación de la sentencia o el plazo fijado en ésta para el cumplimiento del fallo conforme al artículo 71.1.c), cualquiera de las partes y personas afectadas podrá instar su ejecución forzosa.
 
@@ -2550,14 +2254,6 @@ b) Deducir el oportuno testimonio de particulares para exigir la responsabilidad
 
 5\. Cuando el expediente administrativo se recibiese en el juzgado o Sala una vez transcurrido el plazo establecido en el apartado 1, el letrado o letrada de la Administración de Justicia lo entregará a las partes por plazo de cuarenta y ocho horas, en el que podrán hacer alegaciones, y sin alteración del curso del procedimiento.
 
-> Téngase en cuenta que la modificación de los apartados 1 y 5, establecida por el art. 102.26 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. En el mismo día de la presentación del recurso o en el siguiente, el Secretario judicial requerirá con carácter urgente al órgano administrativo correspondiente, acompañando copia del escrito de interposición, para que en el plazo máximo de cinco días a contar desde la recepción del requerimiento remita el expediente acompañado de los informes y datos que estime procedentes, con apercibimiento de cuanto se establece en el artículo 48."
-
-> "5. Cuando el expediente administrativo se recibiese en el Juzgado o Sala una vez transcurrido el plazo establecido en el apartado 1 de este artículo, el Secretario judicial lo pondrá de manifiesto a las partes por plazo de cuarenta y ocho horas, en el que podrán hacer alegaciones, y sin alteración del curso del procedimiento."
-
 > Se modifican los apartados 1 y 5 por el art. 102.26 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2584,12 +2280,6 @@ Acordada la prosecución del procedimiento especial de este capítulo, el Secret
 
 Formalizada la demanda, el letrado o letrada de la Administración de Justicia dará traslado de la misma, con entrega del expediente administrativo, al Ministerio Fiscal y a las partes demandadas para que presenten sus alegaciones en el plazo común e improrrogable de ocho días y acompañen los documentos que estimen oportunos.
 
-> Téngase en cuenta que esta última modificación, establecida por el art. 102.27 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "Formalizada la demanda, el Secretario judicial dará traslado de la misma al Ministerio Fiscal y a las partes demandadas para que, a la vista del expediente, presenten sus alegaciones en el plazo común e improrrogable de ocho días y acompañen los documentos que estimen oportunos."
-
 > Se modifica por el art. 102.27 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2615,14 +2305,6 @@ Evacuado el trámite de alegaciones o transcurrido el plazo para efectuarlas, el
 2\. El letrado o letrada de la Administración de Justicia, en el plazo improrrogable de cuatro días, y haciendo entrega del expediente si se hubiera recibido, convocará al representante legal de la Administración, al Ministerio Fiscal y a los recurrentes o a la persona que éstos designen como representante a una audiencia en la que el tribunal, de manera contradictoria, oirá a todos los personados y resolverá sin ulterior recurso.
 
 En cuanto se refiere a la grabación de la audiencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63.
-
-> Téngase en cuenta que esta última modificación, establecida por el art. 102.28 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. El Secretario judicial, en el plazo improrrogable de cuatro días, y poniendo de manifiesto el expediente si se hubiera recibido, convocará al representante legal de la Administración, al Ministerio Fiscal y a los recurrentes o a la persona que éstos designen como representante a una audiencia en la que el Tribunal, de manera contradictoria, oirá a todos los personados y resolverá sin ulterior recurso.
-
-> En cuanto se refiere a la grabación de la audiencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63."
 
 3\. La decisión que se adopte únicamente podrá mantener o revocar la prohibición o las modificaciones propuestas.
 
@@ -2739,14 +2421,6 @@ Se publicarán también las sentencias firmes que desestimen la cuestión.
 3\. Interpuesto el recurso o trasladado el acuerdo suspendido, el letrado o letrada de la Administración de Justicia requerirá a la corporación o entidad que lo hubiera dictado para que en el plazo de diez días remita el expediente administrativo en soporte electrónico, alegue lo que estime conveniente en defensa de aquél y notifique a cuantos tuvieran interés legítimo en su mantenimiento o anulación la existencia del procedimiento, a efectos de su comparecencia ante el órgano jurisdiccional en el plazo de diez días.
 
 4\. Recibido el expediente administrativo, el letrado o letrada de la Administración de Justicia lo entregará junto con las actuaciones a los comparecidos en el procedimiento, convocándolos para la celebración de la vista, que se celebrará como mínimo a los diez días de la entrega del expediente.
-
-> Téngase en cuenta que esta modificación de los apartados 3 y 4, establecida por el art. 102.29 del Real Decreto-ley 6/2023, de 19 de diciembre [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> 3\. Interpuesto el recurso o trasladado el acuerdo suspendido, el Secretario judicial requerirá a la corporación o entidad que lo hubiera dictado para que en el plazo de diez días remita el expediente administrativo, alegue lo que estime conveniente en defensa de aquél y notifique a cuantos tuvieran interés legítimo en su mantenimiento o anulación la existencia del procedimiento, a efectos de su comparecencia ante el órgano jurisdiccional en el plazo de diez días.
-
-> 4\. Recibido el expediente administrativo, el Secretario judicial lo pondrá de manifiesto junto con las actuaciones a los comparecidos en el procedimiento, convocándolos para la celebración de la vista, que se celebrará como mínimo a los diez días de la puesta de manifiesto del expediente.
 
 5\. El órgano jurisdiccional podrá, motivadamente, sustituir el trámite de vista por el de alegaciones escritas, que se presentarán en el plazo común de los diez días siguientes a la notificación del auto en que así se acuerde. Podrá también abrir un período de prueba, para mejor proveer, por plazo no superior a quince días.
 
@@ -3004,12 +2678,6 @@ Serán recurribles:
 
 5\. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I., y Secciones Primera y Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso- Administrativo de la Audiencia Nacional.
 
-> Téngase en cuenta que esta modificación del apartado 5, establecida por el art. 102.31 del Real Decreto-ley 6/2023, de 19 de diciembre [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I. y Sección Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional."
-
 6\. Las resoluciones del Ministro de Economía y Competitividad que resuelvan recursos de alzada contra actos dictados por el Instituto de Contabilidad y Auditoría de Cuentas, así como las resoluciones de carácter normativo dictadas por el Instituto de Contabilidad y Auditoría de Cuentas directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
 
 7\. Las resoluciones del Consejo Gestor del Fondo de apoyo a la solvencia de empresas estratégicas directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
@@ -3111,8 +2779,6 @@ Una vez iniciado el correspondiente proceso penal por delito contra la Hacienda 
 ###### Disposición adicional decimoprimera. Referencias al expediente administrativo contenidas en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
 Todas las referencias al expediente administrativo contenidas en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, se entenderán hechas al expediente administrativo en soporte electrónico.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 102.32 del Real Decreto-ley 6/2023, de 19 de diciembre [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
 
 > Se añade por el art. 102.32 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 

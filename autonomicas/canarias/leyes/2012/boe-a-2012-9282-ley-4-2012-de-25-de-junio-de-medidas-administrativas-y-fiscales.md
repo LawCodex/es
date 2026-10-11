@@ -2225,68 +2225,63 @@ Veintiocho. El artículo 115 bis queda redactado en los siguientes términos:
 
 > d) A la mercancía transportada en barcos tipo Roll-on Roll-off se aplicarán en cada operación de embarque o desembarque las tarifas siguientes:
 
-> <table class="tabla">
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Mercancía</th>
-> <th class="cabeza_tabla" colspan="2">Tarifa en euros</th>
+> <th>Mercancía</th>
+> <th colspan="2">Tarifa en euros</th>
 > </tr>
 > </thead>
-> <colgroup>
-> <col width="60%">
-> <col width="10%">
-> <col width="10%">
-> </colgroup>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Motos.</td>
-> <td class="cuerpo_tabla_centro">1,1100</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td>Motos.</td>
+> <td>1,1100</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Coches.</td>
-> <td class="cuerpo_tabla_centro">1,8100</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td>Coches.</td>
+> <td>1,8100</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">Vacío</td>
-> <td class="cuerpo_tabla_centro">Lleno</td>
+> <td> </td>
+> <td>Vacío</td>
+> <td>Lleno</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Furgón.</td>
-> <td class="cuerpo_tabla_centro">1,5000</td>
-> <td class="cuerpo_tabla_centro">4,4200</td>
+> <td>Furgón.</td>
+> <td>1,5000</td>
+> <td>4,4200</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Camión menor de 6 metros.</td>
-> <td class="cuerpo_tabla_centro">2,9400</td>
-> <td class="cuerpo_tabla_centro">8,8400</td>
+> <td>Camión menor de 6 metros.</td>
+> <td>2,9400</td>
+> <td>8,8400</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Camión igual o mayor de 6 metros.</td>
-> <td class="cuerpo_tabla_centro">4,4200</td>
-> <td class="cuerpo_tabla_centro">13,2500</td>
+> <td>Camión igual o mayor de 6 metros.</td>
+> <td>4,4200</td>
+> <td>13,2500</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Guagua.</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_centro">7,5000</td>
+> <td>Guagua.</td>
+> <td>–</td>
+> <td>7,5000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenedor de 20 pies.</td>
-> <td class="cuerpo_tabla_centro">2,9400</td>
-> <td class="cuerpo_tabla_centro">8,8400</td>
+> <td>Contenedor de 20 pies.</td>
+> <td>2,9400</td>
+> <td>8,8400</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenedor de 40 pies.</td>
-> <td class="cuerpo_tabla_centro">4,4200</td>
-> <td class="cuerpo_tabla_centro">13,2500</td>
+> <td>Contenedor de 40 pies.</td>
+> <td>4,4200</td>
+> <td>13,2500</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Gasoil y fuel oil en régimen de cabotaje. Por tonelada.</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_centro">0,3500</td>
+> <td>Gasoil y fuel oil en régimen de cabotaje. Por tonelada.</td>
+> <td>–</td>
+> <td>0,3500</td>
 > </tr>
 > </tbody>
 > </table>

@@ -1668,49 +1668,44 @@ d) VOR/GNSS: la aeronave que utiliza VOR se establece en un radial hacia o desde
 
 Tabla 4.3.1. Separación lateral para aeronaves que utilizan VOR y GNSS
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_12">
-<col class="row_column_12">
-<col class="row_column_12">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td> </td>
 <td colspan="2">
-<p class="cabeza_tabla">Aeronave 1: VOR o GNSS</p>
-<p class="cabeza_tabla">Aeronave 2: GNSS</p>
+<p>Aeronave 1: VOR o GNSS</p>
+<p>Aeronave 2: GNSS</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Diferencia angular entre derrotas medida en el punto común (en grados).</p>
+<p>Diferencia angular entre derrotas medida en el punto común (en grados).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FL010 – FL190</p>
-<p class="cuerpo_tabla_izq">Distancia desde un punto común.</p>
+<p>FL010 – FL190</p>
+<p>Distancia desde un punto común.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FL200 – FL600</p>
-<p class="cuerpo_tabla_izq">Distancia desde un punto común.</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">15 – 135</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">27,8 km (15 NM)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">43 km (23 NM)</p>
+<p>FL200 – FL600</p>
+<p>Distancia desde un punto común.</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
+<td>
+<p>15 – 135</p>
+</td>
+<td>
+<p>27,8 km (15 NM)</p>
+</td>
+<td>
+<p>43 km (23 NM)</p>
+</td>
+</tr>
+<tr>
 <td colspan="3">
-<p class="parrafo">Las distancias que figuran en la tabla son distancias en tierra. Los Estados deben tener en cuenta la distancia (alcance oblicuo) desde la fuente de una señal DME a la antena receptora cuando se utilice el DME para proporcionar información sobre el alcance.</p>
+<p>Las distancias que figuran en la tabla son distancias en tierra. Los Estados deben tener en cuenta la distancia (alcance oblicuo) desde la fuente de una señal DME a la antena receptora cuando se utilice el DME para proporcionar información sobre el alcance.</p>
 </td>
 </tr>
 </tbody>
@@ -1932,97 +1927,90 @@ a) la misma derrota; o
 
 b) que atraviesen derrotas, siempre que el ángulo relativo entre las derrotas sea inferior a 90º.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_22">
-<col class="row_column_23">
-<col class="row_column_23">
-<col class="row_column_23">
-<col class="row_column_22">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cabeza_tabla">Mínimas de separación</p>
+<p>Mínimas de separación</p>
 </td>
 <td>
-<p class="cabeza_tabla">RNP</p>
+<p>RNP</p>
 </td>
 <td>
-<p class="cabeza_tabla">RCP</p>
+<p>RCP</p>
 </td>
 <td>
-<p class="cabeza_tabla">RSP</p>
+<p>RSP</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo Intervalo de notificación periódica de ADS-C</p>
+<p>Máximo Intervalo de notificación periódica de ADS-C</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">93 km (50 NM)</p>
+<p>93 km (50 NM)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27 minutos</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">180</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">32 minutos</p>
+<p>27 minutos</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">55,5 km (30 NM)</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 o 4</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12 minutos</p>
+<p>32 minutos</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5 minutos</p>
+<p>55,5 km (30 NM)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 o 4 o 10</p>
+<p>2 o 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14 minutos</p>
+<p>12 minutos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5 minutos</p>
+</td>
+<td>
+<p>2 o 4 o 10</p>
+</td>
+<td>
+<p>240</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>14 minutos</p>
 </td>
 </tr>
 </tbody>
@@ -2800,67 +2788,62 @@ b) Conservará el último código de identidad asignado (Modo A) o el selecciona
 
 «4.6.7.4.4. Cuando conforme a lo previsto en SERA.8012 deba aplicarse separación por estela turbulenta, a las aeronaves que reciban un sistema de vigilancia ATS en las fases de aproximación y salida se aplicarán las siguientes mínimas de separación por estela turbulenta basadas en la distancia:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_31">
-<col class="row_column_32">
-<col class="row_column_33">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Categoría de aeronaves</p>
+<p>Categoría de aeronaves</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Mínimas de separación por estela turbulenta basadas en la distancia</p>
+<p>Mínimas de separación por estela turbulenta basadas en la distancia</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Aeronave que precede</p>
+<p>Aeronave que precede</p>
 </td>
 <td>
-<p class="cabeza_tabla">Aeronave que sigue</p>
+<p>Aeronave que sigue</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Pesada</p>
+<p>Pesada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Pesada</p>
+<p>Pesada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,4 km (4 NM)</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">Media</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,3 km (5 NM)</p>
+<p>7,4 km (4 NM)</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Ligera</p>
+<p>Media</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,1 km (6 NM)</p>
+<p>9,3 km (5 NM)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>Ligera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Ligera</p>
+<p>11,1 km (6 NM)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Media</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,3 km (5 NM)</p>
+<p>Ligera</p>
+</td>
+<td>
+<p>9,3 km (5 NM)</p>
 </td>
 </tr>
 </tbody>
@@ -3574,209 +3557,204 @@ b) la dependencia o servicio disponible.
 
 10.5.2.1.6.1.2. La dependencia o servicio se identificará de conformidad con el cuadro siguiente. No obstante, cuando se haya establecido una comunicación satisfactoria, puede omitirse el nombre del lugar o la dependencia/servicio.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_42">
-<col class="row_column_43">
-<col class="row_column_44">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Dependencia/servicio disponible</p>
+<p>Dependencia/servicio disponible</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Sufijo del distintivo de llamada</p>
+<p>Sufijo del distintivo de llamada</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Español</p>
+<p>Español</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inglés</p>
+<p>Inglés</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Centro de control de área	</p>
+<p>Centro de control de área	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control.</p>
+<p>Control.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Control.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control de aproximación	</p>
+<p>Control de aproximación	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aproximación.</p>
+<p>Aproximación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Approach.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Llegadas con radar de control de aproximación	</p>
+<p>Llegadas con radar de control de aproximación	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Llegadas.</p>
+<p>Llegadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Arrival.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Salidas con radar de control de aproximación	</p>
+<p>Salidas con radar de control de aproximación	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salidas.</p>
+<p>Salidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Departure.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control de aeródromo	</p>
+<p>Control de aeródromo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torre.</p>
+<p>Torre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Tower.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control del movimiento en la superficie	</p>
+<p>Control del movimiento en la superficie	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control Terrestre.</p>
+<p>Control Terrestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ground.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Radar (en general)	</p>
+<p>Radar (en general)	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radar.</p>
+<p>Radar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Radar.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Radar de aproximación de precisión	</p>
+<p>Radar de aproximación de precisión	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Precisión.</p>
+<p>Precisión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Precision.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Estación radiogoniométrica	</p>
+<p>Estación radiogoniométrica	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recalada.</p>
+<p>Recalada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Homer.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de información de vuelo	</p>
+<p>Servicio de información de vuelo	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Información.</p>
+<p>Información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Information.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Entrega de la autorización	</p>
+<p>Entrega de la autorización	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorizaciones.</p>
+<p>Autorizaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Delivery.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control de la plataforma	</p>
+<p>Control de la plataforma	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plataforma.</p>
+<p>Plataforma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Apron.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Despacho de la compañía	</p>
+<p>Despacho de la compañía	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Despacho.</p>
+<p>Despacho.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Dispatch.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Estación aeronáutica	</p>
+<p>Estación aeronáutica	</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radio.</p>
+<p>Radio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Radio.</em>
 </p>
 </td>
@@ -4608,805 +4586,791 @@ CARMEN CALVO POYATO
 
 MAGNETIC TRACK
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-<col class="row_column_45">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">From 090 degrees to 269 degrees (ODD’s)</p>
+<p>From 090 degrees to 269 degrees (ODD’s)</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">From 270 degrees TO 089 degrees (EVEN’s)</p>
+<p>From 270 degrees TO 089 degrees (EVEN’s)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">IFR Flights</p>
+<p>IFR Flights</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">VFR Flights</p>
+<p>VFR Flights</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">IFR Flights</p>
+<p>IFR Flights</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">VFR Flights</p>
+<p>VFR Flights</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">FL</p>
+<p>FL</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Altitude</p>
+<p>Altitude</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">FL</p>
+<p>FL</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Altitude</p>
+<p>Altitude</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">FL</p>
+<p>FL</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Altitude</p>
+<p>Altitude</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">FL</p>
+<p>FL</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Altitude</p>
+<p>Altitude</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Metres</p>
+<p>Metres</p>
 </td>
 <td>
-<p class="cabeza_tabla">Feet</p>
+<p>Feet</p>
 </td>
 <td>
-<p class="cabeza_tabla">Metres</p>
+<p>Metres</p>
 </td>
 <td>
-<p class="cabeza_tabla">Feet</p>
+<p>Feet</p>
 </td>
 <td>
-<p class="cabeza_tabla">Metres</p>
+<p>Metres</p>
 </td>
 <td>
-<p class="cabeza_tabla">Feet</p>
+<p>Feet</p>
 </td>
 <td>
-<p class="cabeza_tabla">Metres</p>
+<p>Metres</p>
 </td>
 <td>
-<p class="cabeza_tabla">Feet</p>
+<p>Feet</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1000</p>
+<p>1000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">600</p>
+<p>600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2000</p>
+<p>2000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">900</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4500</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1500</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5000</p>
+<p>3000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1700</p>
+<p>1050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5500</p>
+<p>3500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1850</p>
+<p>1200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6000</p>
+<p>4000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2000</p>
+<p>1350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6500</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2450</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8500</p>
+<p>4500</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2750</p>
+<p>1500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9000</p>
+<p>5000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">95</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2900</p>
+<p>1700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9500</p>
+<p>5500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3050</p>
+<p>1850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10000</p>
+<p>6000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">105</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3200</p>
+<p>2000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10500</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">110</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">120</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3650</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">125</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3800</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12500</p>
+<p>6500</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3950</p>
+<p>2150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13000</p>
+<p>7000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">135</p>
+<p>75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4100</p>
+<p>2300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13500</p>
+<p>7500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">140</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4250</p>
+<p>2450</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14000</p>
+<p>8000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">145</p>
+<p>85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4400</p>
+<p>2600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14500</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4550</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">155</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">160</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4900</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">165</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16500</p>
+<p>8500</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">170</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5200</p>
+<p>2750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17000</p>
+<p>9000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">175</p>
+<p>95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5350</p>
+<p>2900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17500</p>
+<p>9500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5500</p>
+<p>3050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18000</p>
+<p>10000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">185</p>
+<p>105</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5650</p>
+<p>3200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18500</p>
+<p>10500</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">190</p>
+<p>110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5800</p>
+<p>3350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19000</p>
+<p>11000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">195</p>
+<p>115</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5950</p>
+<p>3500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19500</p>
+<p>11500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6100</p>
+<p>3650</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20000</p>
+<p>12000</p>
 </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>3800</p>
+</td>
+<td>
+<p>12500</p>
+</td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">210</p>
+<p>130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6400</p>
+<p>3950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">220</p>
+<p>13000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6700</p>
+<p>135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22000</p>
+<p>4100</p>
+</td>
+<td>
+<p>13500</p>
+</td>
+<td>
+<p>140</p>
+</td>
+<td>
+<p>4250</p>
+</td>
+<td>
+<p>14000</p>
+</td>
+<td>
+<p>145</p>
+</td>
+<td>
+<p>4400</p>
+</td>
+<td>
+<p>14500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>4550</p>
+</td>
+<td>
+<p>15000</p>
+</td>
+<td>
+<p>155</p>
+</td>
+<td>
+<p>4700</p>
+</td>
+<td>
+<p>15500</p>
+</td>
+<td>
+<p>160</p>
+</td>
+<td>
+<p>4900</p>
+</td>
+<td>
+<p>16000</p>
+</td>
+<td>
+<p>165</p>
+</td>
+<td>
+<p>5050</p>
+</td>
+<td>
+<p>16500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>170</p>
+</td>
+<td>
+<p>5200</p>
+</td>
+<td>
+<p>17000</p>
+</td>
+<td>
+<p>175</p>
+</td>
+<td>
+<p>5350</p>
+</td>
+<td>
+<p>17500</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>5500</p>
+</td>
+<td>
+<p>18000</p>
+</td>
+<td>
+<p>185</p>
+</td>
+<td>
+<p>5650</p>
+</td>
+<td>
+<p>18500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>190</p>
+</td>
+<td>
+<p>5800</p>
+</td>
+<td>
+<p>19000</p>
+</td>
+<td>
+<p>195</p>
+</td>
+<td>
+<p>5950</p>
+</td>
+<td>
+<p>19500</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>6100</p>
+</td>
+<td>
+<p>20000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">230</p>
+<p>210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7000</p>
+<p>6400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25000</p>
+<p>21000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">260</p>
+<p>220</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7900</p>
+<p>6700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26000</p>
+<p>22000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">270</p>
+<p>230</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8250</p>
+<p>7000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">280</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8550</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">290</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29000</p>
+<p>23000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9150</p>
+<p>7300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30000</p>
+<p>24000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">310</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9450</p>
+<p>7600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">320</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">32000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">330</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33000</p>
+<p>25000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">340</p>
+<p>260</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10350</p>
+<p>7900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">34000</p>
+<p>26000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">350</p>
+<p>270</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10650</p>
+<p>8250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">360</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10950</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">370</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37000</p>
+<p>27000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">380</p>
+<p>280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11600</p>
+<p>8550</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38000</p>
+<p>28000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">390</p>
+<p>290</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11900</p>
+<p>8850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">400</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40000</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_centro">410</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41000</p>
+<p>29000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">430</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13100</p>
+<p>9150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43000</p>
+<p>30000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">450</p>
+<p>310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13700</p>
+<p>9450</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45000</p>
+<p>31000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">470</p>
+<p>320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14350</p>
+<p>9750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47000</p>
+<p>32000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">490</p>
+<p>330</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14950</p>
+<p>10050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49000</p>
+<p>33000</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">510</p>
+<p>340</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15550</p>
+<p>10350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51000</p>
+<p>34000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>350</p>
+</td>
+<td>
+<p>10650</p>
+</td>
+<td>
+<p>35000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>360</p>
+</td>
+<td>
+<p>10950</p>
+</td>
+<td>
+<p>36000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>370</p>
+</td>
+<td>
+<p>11300</p>
+</td>
+<td>
+<p>37000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>380</p>
+</td>
+<td>
+<p>11600</p>
+</td>
+<td>
+<p>38000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>390</p>
+</td>
+<td>
+<p>11900</p>
+</td>
+<td>
+<p>39000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>12200</p>
+</td>
+<td>
+<p>40000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>410</p>
+</td>
+<td>
+<p>12500</p>
+</td>
+<td>
+<p>41000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>430</p>
+</td>
+<td>
+<p>13100</p>
+</td>
+<td>
+<p>43000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>450</p>
+</td>
+<td>
+<p>13700</p>
+</td>
+<td>
+<p>45000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>470</p>
+</td>
+<td>
+<p>14350</p>
+</td>
+<td>
+<p>47000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>490</p>
+</td>
+<td>
+<p>14950</p>
+</td>
+<td>
+<p>49000</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>510</p>
+</td>
+<td>
+<p>15550</p>
+</td>
+<td>
+<p>51000</p>
 </td>
 <td> </td>
 <td> </td>
@@ -5443,60 +5407,55 @@ d) En la formación radar la separación entre aeronaves se determina mediante e
 
 3.2. Cuando dos o varias aeronaves en vuelo se integran en una formación, el jefe de formación deberá comunicar el tipo de formación, así como los posibles cambios, a la dependencia de control notificando:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_46">
-<col class="row_column_47">
-<col class="row_column_48">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td> </td>
 <td>
-<p class="cabeza_tabla">FORMACIÓN (Indicativo) PASO A:</p>
+<p>FORMACIÓN (Indicativo) PASO A:</p>
 </td>
 <td>
-<p class="cabeza_tabla">FLIGHT (Callsign) GO TO:</p>
+<p>FLIGHT (Callsign) GO TO:</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">IMPLICAN ESTAR A LA VISTA</p>
+<p>IMPLICAN ESTAR A LA VISTA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CERRADA formación ESTÁNDAR.</p>
+<p>CERRADA formación ESTÁNDAR.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CLOSE STANDARD formation.</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">TÁCTICA formación ESTÁNDAR/NO ESTÁNDAR.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">SPREADSTANDARD/ NON STANDARD formation.</p>
+<p>CLOSE STANDARD formation.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">RUTA (abierta) formación ESTÁNDAR/NO ESTÁNDAR.</p>
+<p>TÁCTICA formación ESTÁNDAR/NO ESTÁNDAR.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OPEN STANDARD/NON STANDARD formation.</p>
+<p>SPREADSTANDARD/ NON STANDARD formation.</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IMPLICA CONTACTO RADAR CON LA AERONAVE QUE LE PRECEDE</p>
+<p>RUTA (abierta) formación ESTÁNDAR/NO ESTÁNDAR.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">COLUMNA RADAR formación NO ESTÁNDAR.</p>
+<p>OPEN STANDARD/NON STANDARD formation.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IMPLICA CONTACTO RADAR CON LA AERONAVE QUE LE PRECEDE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RADAR TRAIL NON-STANDARD formation.</p>
+<p>COLUMNA RADAR formación NO ESTÁNDAR.</p>
+</td>
+<td>
+<p>RADAR TRAIL NON-STANDARD formation.</p>
 </td>
 </tr>
 </tbody>
@@ -6461,472 +6420,468 @@ d) Las palabras entre paréntesis indican que debe insertarse información corre
 
 1.1.2. Cambios de nivel, notificaciones y régimen de variación de altitud.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) SUBA (o DESCIENDA);</p>
+<p>a) SUBA (o DESCIENDA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CLIMB (or DESCEND);</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">seguido, si es necesario, de:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">followed as necessary by:</p>
+<p>a) CLIMB (or DESCEND);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1) PARA (nivel);</p>
+<p>seguido, si es necesario, de:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1) TO (level);</p>
+<p>followed as necessary by:</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
+<td>
+<p>1) PARA (nivel);</p>
+</td>
+<td>
+<p>1) TO (level);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… instrucciones de que comience el ascenso (o descenso) hasta un determinado nivel dentro de la gama vertical especificada de niveles.</p>
+<p>… instrucciones de que comience el ascenso (o descenso) hasta un determinado nivel dentro de la gama vertical especificada de niveles.</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2) Y MANTENGA BLOQUE DE NIVELES ENTRE (nivel) Y (nivel);</p>
+<p>2) Y MANTENGA BLOQUE DE NIVELES ENTRE (nivel) Y (nivel);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2) TO AND MAINTAIN BLOCK (level) TO (level);</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">3) PARA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) (o EN punto significativo);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3) TO REACH (level) AT (or BY) (time or significant point);</p>
+<p>2) TO AND MAINTAIN BLOCK (level) TO (level);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4) NOTIFIQUE ABANDONANDO (o ALCANZANDO o PASANDO POR) (nivel);</p>
+<p>3) PARA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) (o EN punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4) REPORT LEAVING (or REACHING or PASSING) (level);</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">5) A (número) PIES POR MINUTO (o METROS POR SEGUNDO) [O SUPERIOR (o O INFERIOR)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5) AT (number) METRES PER SECOND (or FEET PER MINUTE) [OR GREATER (or OR LESS)];</p>
+<p>3) TO REACH (level) AT (or BY) (time or significant point);</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) MANTENGA POR LO MENOS (número) PIES (o METROS) POR ENCIMA (o POR DEBAJO) DEL (distintivo de llamada de la aeronave)</p>
+<p>4) NOTIFIQUE ABANDONANDO (o ALCANZANDO o PASANDO POR) (nivel);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) MANTAIN AT LEAST (number) METRES (or FEET) ABOVE (or BELOW) (aircraft call sign);</p>
-</td>
-</tr>
-<tr class="row_column_59">
-<td>
-<p class="cuerpo_tabla_izq">c) SOLICITE CAMBIO DE NIVEL (o NIVEL DE VUELO o ALTITUD) A (nombre de la dependencia) [A LAS (hora) (o EN (punto significativo))];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) REQUEST LEVEL (or FLIGHT LEVEL or ALTITUDE) CHANGE FROM (name of unit) [AT (time or significant point)];</p>
+<p>4) REPORT LEAVING (or REACHING or PASSING) (level);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) INTERRUMPA SUBIDA (o DESCENSO) A (nivel);</p>
+<p>5) A (número) PIES POR MINUTO (o METROS POR SEGUNDO) [O SUPERIOR (o O INFERIOR)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) STOP CLIMB (or DESCENT) AT (level);</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">e) CONTINÚE SUBIDA (o DESCENSO) PARA (nivel);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">e) CONTINUE CLIMB (or DESCENT) TO (level);</p>
+<p>5) AT (number) METRES PER SECOND (or FEET PER MINUTE) [OR GREATER (or OR LESS)];</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) ACELERE SUBIDA (o DESCENSO) [HASTA PASAR POR (nivel)];</p>
+<p>b) MANTENGA POR LO MENOS (número) PIES (o METROS) POR ENCIMA (o POR DEBAJO) DEL (distintivo de llamada de la aeronave)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) EXPEDITE CLIMB (or DESCENT) [UNTIL PASSING (level)];</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">g) CUANDO LISTO SUBA (o DESCIENDA) PARA (nivel);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">g) WHEN READY CLIMB (or DESCEND) TO (level);</p>
+<p>b) MANTAIN AT LEAST (number) METRES (or FEET) ABOVE (or BELOW) (aircraft call sign);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) PREVEA SUBIDA (o DESCENSO) A LAS (hora) (o en punto significativo);</p>
+<p>c) SOLICITE CAMBIO DE NIVEL (o NIVEL DE VUELO o ALTITUD) A (nombre de la dependencia) [A LAS (hora) (o EN (punto significativo))];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) EXPECT CLIMB (or DESCENT) AT (time) (or significant point);</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">*i) SOLICITO DESCENSO A LAS (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*i) REQUEST DESCENT AT (time);</p>
+<p>c) REQUEST LEVEL (or FLIGHT LEVEL or ALTITUDE) CHANGE FROM (name of unit) [AT (time or significant point)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>d) INTERRUMPA SUBIDA (o DESCENSO) A (nivel);</p>
+</td>
+<td>
+<p>d) STOP CLIMB (or DESCENT) AT (level);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>e) CONTINÚE SUBIDA (o DESCENSO) PARA (nivel);</p>
+</td>
+<td>
+<p>e) CONTINUE CLIMB (or DESCENT) TO (level);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>f) ACELERE SUBIDA (o DESCENSO) [HASTA PASAR POR (nivel)];</p>
+</td>
+<td>
+<p>f) EXPEDITE CLIMB (or DESCENT) [UNTIL PASSING (level)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>g) CUANDO LISTO SUBA (o DESCIENDA) PARA (nivel);</p>
+</td>
+<td>
+<p>g) WHEN READY CLIMB (or DESCEND) TO (level);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>h) PREVEA SUBIDA (o DESCENSO) A LAS (hora) (o en punto significativo);</p>
+</td>
+<td>
+<p>h) EXPECT CLIMB (or DESCENT) AT (time) (or significant point);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*i) SOLICITO DESCENSO A LAS (hora);</p>
+</td>
+<td>
+<p>*i) REQUEST DESCENT AT (time);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para indicar una instrucción que ha de cumplirse a una hora o en un lugar determinados</p>
+<p>... para indicar una instrucción que ha de cumplirse a una hora o en un lugar determinados</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">j) INMEDIATAMENTE;</p>
+<p>j) INMEDIATAMENTE;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">j) IMMEDIATELY;</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">k) DESPUÉS DE PASAR POR (punto significativo);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">k) AFTER PASSING (significant point);</p>
+<p>j) IMMEDIATELY;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">l) A LAS (hora) (o EN (punto significativo));</p>
+<p>k) DESPUÉS DE PASAR POR (punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">l) AT (time or significant point);</p>
+<p>k) AFTER PASSING (significant point);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>l) A LAS (hora) (o EN (punto significativo));</p>
+</td>
+<td>
+<p>l) AT (time or significant point);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para indicar una instrucción que ha de cumplirse cuando corresponda</p>
+<p>... para indicar una instrucción que ha de cumplirse cuando corresponda</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">m) CUANDO LISTO (instrucciones);</p>
+<p>m) CUANDO LISTO (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">m) WHEN READY (instruction);</p>
+<p>m) WHEN READY (instruction);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para indicar que la aeronave debe ascender o descender manteniendo su propia separación y VMC</p>
+<p>... para indicar que la aeronave debe ascender o descender manteniendo su propia separación y VMC</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">n) MANTENGA PROPIA SEPARACIÓN Y VMC [DESDE (nivel)] [HASTA (nivel)];</p>
+<p>n) MANTENGA PROPIA SEPARACIÓN Y VMC [DESDE (nivel)] [HASTA (nivel)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">n) MAINTAIN OWN SEPARATION AND VMC [FROM (level)] [TO (level)];</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">o) MANTENGA PROPIA SEPARACIÓN Y VMC POR ENCIMA DE (o POR DEBAJO DE o HASTA EL) (nivel);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">o) MAINTAIN OWN SEPARATION AND VMC ABOVE (or BELOW, or TO) (level);</p>
+<p>n) MAINTAIN OWN SEPARATION AND VMC [FROM (level)] [TO (level)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>o) MANTENGA PROPIA SEPARACIÓN Y VMC POR ENCIMA DE (o POR DEBAJO DE o HASTA EL) (nivel);</p>
+</td>
+<td>
+<p>o) MAINTAIN OWN SEPARATION AND VMC ABOVE (or BELOW, or TO) (level);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando exista la duda de que una aeronave pueda cumplir con una autorización o instrucción</p>
+<p>... cuando exista la duda de que una aeronave pueda cumplir con una autorización o instrucción</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">p) SI NO ES POSIBLE (otras instrucciones) Y AVISE;</p>
+<p>p) SI NO ES POSIBLE (otras instrucciones) Y AVISE;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">p) IF UNABLE (alternative instructions) AND ADVISE;</p>
+<p>p) IF UNABLE (alternative instructions) AND ADVISE;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando un piloto no pueda cumplir con una autorización o instrucción:</p>
+<p>... cuando un piloto no pueda cumplir con una autorización o instrucción:</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*q) IMPOSIBLE;</p>
+<p>*q) IMPOSIBLE;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*q) UNABLE;</p>
+<p>*q) UNABLE;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... después de que la tripulación de vuelo empiece a apartarse de la autorización o instrucción ATC para cumplir con un aviso de resolución (RA) ACAS (intercambio entre el piloto y el controlador)</p>
+<p>... después de que la tripulación de vuelo empiece a apartarse de la autorización o instrucción ATC para cumplir con un aviso de resolución (RA) ACAS (intercambio entre el piloto y el controlador)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*r) RA TCAS [pronúnciese TI-CAS];</p>
+<p>*r) RA TCAS [pronúnciese TI-CAS];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*r) TCAS RA;</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">s) RECIBIDO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">s) ROGER;</p>
+<p>*r) TCAS RA;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
+<td>
+<p>s) RECIBIDO;</p>
+</td>
+<td>
+<p>s) ROGER;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... después de cumplido un RA ACAS y de iniciado el regreso a la autorización o instrucción ATC (intercambio entre el piloto y el controlador)</p>
+<p>... después de cumplido un RA ACAS y de iniciado el regreso a la autorización o instrucción ATC (intercambio entre el piloto y el controlador)</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*t) CONFLICTO TERMINADO, REGRESO A (autorización asignada);</p>
+<p>*t) CONFLICTO TERMINADO, REGRESO A (autorización asignada);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*t) CLEAR OF CONFLICT, RETURNING TO (assigned clearance);</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">u) RECIBIDO (o cambio de instrucciones);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">u) ROGER (or alternative instructions);</p>
+<p>*t) CLEAR OF CONFLICT, RETURNING TO (assigned clearance);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
+<td>
+<p>u) RECIBIDO (o cambio de instrucciones);</p>
+</td>
+<td>
+<p>u) ROGER (or alternative instructions);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... después de cumplido un RA ACAS y de reanudada la autorización o instrucción ATC asignada (intercambio entre el piloto y el controlador)</p>
+<p>... después de cumplido un RA ACAS y de reanudada la autorización o instrucción ATC asignada (intercambio entre el piloto y el controlador)</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*v) CONFLICTO TERMINADO (autorización asignada) REANUDADA;</p>
+<p>*v) CONFLICTO TERMINADO (autorización asignada) REANUDADA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*v) CLEAR OF CONFLICT (assigned clearance) RESUMED;</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">w) RECIBIDO (o cambio de instrucciones);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">w) ROGER (or alternative instructions);</p>
+<p>*v) CLEAR OF CONFLICT (assigned clearance) RESUMED;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
+<td>
+<p>w) RECIBIDO (o cambio de instrucciones);</p>
+</td>
+<td>
+<p>w) ROGER (or alternative instructions);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... después de recibir una autorización o instrucción contraria a un RA ACAS, la tripulación de vuelo cumplirá con el RA y notificará directamente al ATC (intercambio entre el piloto y el controlador)</p>
+<p>... después de recibir una autorización o instrucción contraria a un RA ACAS, la tripulación de vuelo cumplirá con el RA y notificará directamente al ATC (intercambio entre el piloto y el controlador)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*x) IMPOSIBLE, TCAS RA;</p>
+<p>*x) IMPOSIBLE, TCAS RA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*x) UNABLE, TCAS RA;</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">y) RECIBIDO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">y) ROGER;</p>
+<p>*x) UNABLE, TCAS RA;</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
+<td>
+<p>y) RECIBIDO;</p>
+</td>
+<td>
+<p>y) ROGER;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para ascender en una SID que tiene restricciones de nivel y/o velocidad publicadas, en cuyo caso el piloto tiene que ascender al nivel autorizado y cumplir las restricciones de nivel publicadas, seguir el perfil lateral de la SID, y cumplir las restricciones de velocidad publicadas o las instrucciones para el control de la velocidad emitidas por ATC que correspondan</p>
+<p>... autorización para ascender en una SID que tiene restricciones de nivel y/o velocidad publicadas, en cuyo caso el piloto tiene que ascender al nivel autorizado y cumplir las restricciones de nivel publicadas, seguir el perfil lateral de la SID, y cumplir las restricciones de velocidad publicadas o las instrucciones para el control de la velocidad emitidas por ATC que correspondan</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">z) SUBA VÍA SID A (nivel)</p>
+<p>z) SUBA VÍA SID A (nivel)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">z) CLIMB VIA SID TO (level)</p>
+<p>z) CLIMB VIA SID TO (level)</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar la restricción o restricciones de nivel del perfil vertical de una SID durante el ascenso</p>
+<p>... autorización para cancelar la restricción o restricciones de nivel del perfil vertical de una SID durante el ascenso</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">aa) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL</p>
+<p>aa) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">aa) [CLIMB VIA SID TO (level)], CANCEL LEVEL RESTRICTION(S)</p>
+<p>aa) [CLIMB VIA SID TO (level)], CANCEL LEVEL RESTRICTION(S)</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar la restricción de nivel específica del perfil vertical de una SID durante el ascenso</p>
+<p>... autorización para cancelar la restricción de nivel específica del perfil vertical de una SID durante el ascenso</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">bb) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL EN (punto(s))</p>
+<p>bb) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL EN (punto(s))</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">bb) [CLIMB VIA SID TO (level)], CANCEL LEVEL RESTRICTION(S) AT (point(s))</p>
+<p>bb) [CLIMB VIA SID TO (level)], CANCEL LEVEL RESTRICTION(S) AT (point(s))</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar restricciones de velocidad de una SID durante el ascenso</p>
+<p>... autorización para cancelar restricciones de velocidad de una SID durante el ascenso</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">cc) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD</p>
+<p>cc) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">cc) [CLIMB VIA SID TO (level)], CANCEL SPEED RESTRICTION(S)</p>
+<p>cc) [CLIMB VIA SID TO (level)], CANCEL SPEED RESTRICTION(S)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…autorización para cancelar restricciones de velocidad específicas de una SID durante el ascenso</p>
+<p>…autorización para cancelar restricciones de velocidad específicas de una SID durante el ascenso</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">dd) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD EN (punto(s))</p>
+<p>dd) [SUBA VÍA SID A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD EN (punto(s))</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">dd) [CLIMB VIA SID TO (level)], CANCEL SPEED RESTRICTION(S) AT (point(s))</p>
+<p>dd) [CLIMB VIA SID TO (level)], CANCEL SPEED RESTRICTION(S) AT (point(s))</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…autorización para ascender y para cancelar las restricciones de velocidad y nivel de una SID</p>
+<p>…autorización para ascender y para cancelar las restricciones de velocidad y nivel de una SID</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ee) SUBA SIN RESTRICCIÓN A (nivel) (o) SUBA A (nivel), CANCELE RESTRICCION(ES) DE NIVEL Y VELOCIDAD</p>
+<p>ee) SUBA SIN RESTRICCIÓN A (nivel) (o) SUBA A (nivel), CANCELE RESTRICCION(ES) DE NIVEL Y VELOCIDAD</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ee) CLIMB UNRESTRICTED TO (level) (or) CLIMB TO (level), CANCEL LEVEL AND SPEED RESTRICTION(S)</p>
+<p>ee) CLIMB UNRESTRICTED TO (level) (or) CLIMB TO (level), CANCEL LEVEL AND SPEED RESTRICTION(S)</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para descender en una STAR que tiene restricciones de nivel y/o velocidad publicadas, en cuyo caso el piloto tiene que descender al nivel autorizado y cumplir las restricciones de nivel publicadas, seguir el perfil lateral de la STAR y cumplir las restricciones de velocidad publicadas o las instrucciones para el control de la velocidad emitidas por ATC</p>
+<p>... autorización para descender en una STAR que tiene restricciones de nivel y/o velocidad publicadas, en cuyo caso el piloto tiene que descender al nivel autorizado y cumplir las restricciones de nivel publicadas, seguir el perfil lateral de la STAR y cumplir las restricciones de velocidad publicadas o las instrucciones para el control de la velocidad emitidas por ATC</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ff) DESCIENDA VÍA STAR A (nivel)</p>
+<p>ff) DESCIENDA VÍA STAR A (nivel)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ff) DESCEND VIA STAR TO (level)</p>
+<p>ff) DESCEND VIA STAR TO (level)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar las restricciones de nivel de una STAR durante el descenso</p>
+<p>... autorización para cancelar las restricciones de nivel de una STAR durante el descenso</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">gg) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL</p>
+<p>gg) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">gg) [DESCEND VIA STAR TO (level)], CANCEL LEVEL RESTRICTION(S)</p>
+<p>gg) [DESCEND VIA STAR TO (level)], CANCEL LEVEL RESTRICTION(S)</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar restricciones de nivel específicas de una STAR durante el descenso</p>
+<p>... autorización para cancelar restricciones de nivel específicas de una STAR durante el descenso</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">hh) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL EN (punto(s))</p>
+<p>hh) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE NIVEL EN (punto(s))</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">hh) [DESCEND VIA STAR TO (level)], CANCEL LEVEL RESTRICTION(S) AT (point(s))</p>
+<p>hh) [DESCEND VIA STAR TO (level)], CANCEL LEVEL RESTRICTION(S) AT (point(s))</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar restricciones de velocidad de una STAR durante el descenso</p>
+<p>... autorización para cancelar restricciones de velocidad de una STAR durante el descenso</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">ii) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD</p>
+<p>ii) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ii) [DESCEND VIA STAR TO (level)], CANCEL SPEED RESTRICTION(S)</p>
+<p>ii) [DESCEND VIA STAR TO (level)], CANCEL SPEED RESTRICTION(S)</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para cancelar restricciones de velocidad específicas de una STAR durante el descenso</p>
+<p>... autorización para cancelar restricciones de velocidad específicas de una STAR durante el descenso</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">jj) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD EN (punto(s))</p>
+<p>jj) [DESCIENDA VÍA STAR A (nivel)], CANCELE RESTRICCIÓN(ES) DE VELOCIDAD EN (punto(s))</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">jj) [DESCEND VIA STAR TO (level)], CANCEL SPEED RESTRICTION(S) AT (point(s))</p>
+<p>jj) [DESCEND VIA STAR TO (level)], CANCEL SPEED RESTRICTION(S) AT (point(s))</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para descender y cancelar las restricciones de velocidad y nivel de una STAR</p>
+<p>... autorización para descender y cancelar las restricciones de velocidad y nivel de una STAR</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">kk) DESCIENDA SIN RESTRICCIÓN A (nivel) o DESCIENDA A (nivel), CANCELE RESTRICCIONES DE NIVEL Y VELOCIDAD</p>
+<p>kk) DESCIENDA SIN RESTRICCIÓN A (nivel) o DESCIENDA A (nivel), CANCELE RESTRICCIONES DE NIVEL Y VELOCIDAD</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">kk) DESCEND UNRESTRICTED TO (level) or DESCEND TO (level), CANCEL LEVEL AND SPEED RESTRICTIONS</p>
+<p>kk) DESCEND UNRESTRICTED TO (level) or DESCEND TO (level), CANCEL LEVEL AND SPEED RESTRICTIONS</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -6942,103 +6897,99 @@ d) Las palabras entre paréntesis indican que debe insertarse información corre
 
 1.1.4. Transferencia de control o cambio de frecuencia.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) LLAME (o CONTACTE) (distintivo de llamada de la dependencia) (frecuencia) [AHORA];</p>
+<p>a) LLAME (o CONTACTE) (distintivo de llamada de la dependencia) (frecuencia) [AHORA];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CONTACT (unit call sign) (frequency) [NOW];</p>
-</td>
-</tr>
-<tr class="row_column_59">
-<td>
-<p class="cuerpo_tabla_izq">b) A LAS (o SOBRE) (hora o lugar) [o CUANDO] [PASANDO/ABANDONANDO/ALCANZANDO (nivel)] LLAME (o CONTACTE) (distintivo de llamada de la dependencia) (frecuencia);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) AT (or OVER) (time or place) [or WHEN] [PASSING/LEAVING/REACHING] (level) CONTACT (unit call sign) (frequency);</p>
+<p>a) CONTACT (unit call sign) (frequency) [NOW];</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) SI NO ESTABLECE CONTACTO (instrucciones);</p>
+<p>b) A LAS (o SOBRE) (hora o lugar) [o CUANDO] [PASANDO/ABANDONANDO/ALCANZANDO (nivel)] LLAME (o CONTACTE) (distintivo de llamada de la dependencia) (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) IF NO CONTACT (instructions);</p>
+<p>b) AT (or OVER) (time or place) [or WHEN] [PASSING/LEAVING/REACHING] (level) CONTACT (unit call sign) (frequency);</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
+<td>
+<p>c) SI NO ESTABLECE CONTACTO (instrucciones);</p>
+</td>
+<td>
+<p>c) IF NO CONTACT (instructions);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Nota: Puede pedirse a una aeronave que MANTENGA ESCUCHA EN una frecuencia dada, cuando exista el propósito de que la dependencia ATS inicie pronto las comunicaciones y MANTENGA ESCUCHA EN la frecuencia cuando la información se radiodifunda en ella.</p>
+<p>Nota: Puede pedirse a una aeronave que MANTENGA ESCUCHA EN una frecuencia dada, cuando exista el propósito de que la dependencia ATS inicie pronto las comunicaciones y MANTENGA ESCUCHA EN la frecuencia cuando la información se radiodifunda en ella.</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) MANTENGA ESCUCHA EN (distintivo de llamada de la dependencia) (frecuencia);</p>
+<p>d) MANTENGA ESCUCHA EN (distintivo de llamada de la dependencia) (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) STAND BY FOR (unit call sign) (frequency);</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">*e) SOLICITO CAMBIO A (frecuencia);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*e) REQUEST CHANGE TO (frequency);</p>
+<p>d) STAND BY FOR (unit call sign) (frequency);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) CAMBIO DE FRECUENCIA APROBADO;</p>
+<p>*e) SOLICITO CAMBIO A (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) FREQUENCY CHANGE APPROVED;</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">g) MANTENGA ESCUCHA (distintivo de llamada de la dependencia) (frecuencia);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">g) MONITOR (unit call sign) (frequency);</p>
+<p>*e) REQUEST CHANGE TO (frequency);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*h) MANTENIENDO ESCUCHA (frecuencia);</p>
+<p>f) CAMBIO DE FRECUENCIA APROBADO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*h) MONITORING (frequency);</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">i) CUANDO LISTO LLAME (o CONTACTE) (distintivo de llamada de la dependencia) (frecuencia);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">i) WHEN READY CONTACT (unit call sign) (frequency);</p>
+<p>f) FREQUENCY CHANGE APPROVED;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">j) MANTENGA ESTA FRECUENCIA.</p>
+<p>g) MANTENGA ESCUCHA (distintivo de llamada de la dependencia) (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">j) REMAIN THIS FREQUENCY.</p>
+<p>g) MONITOR (unit call sign) (frequency);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>*h) MANTENIENDO ESCUCHA (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>*h) MONITORING (frequency);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>i) CUANDO LISTO LLAME (o CONTACTE) (distintivo de llamada de la dependencia) (frecuencia);</p>
+</td>
+<td>
+<p>i) WHEN READY CONTACT (unit call sign) (frequency);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>j) MANTENGA ESTA FRECUENCIA.</p>
+</td>
+<td>
+<p>j) REMAIN THIS FREQUENCY.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -7048,140 +6999,136 @@ d) Las palabras entre paréntesis indican que debe insertarse información corre
 
 *Nota: En este párrafo se utiliza la palabra «coma» solamente en el contexto para nombrar el concepto de separación de canales de 8,33 kHz y no constituye un cambio a las disposiciones de la OACI existentes o a la fraseología relativa a la utilización del término «decimal».*
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para solicitar confirmación de la capacidad de 8,33 kHz</p>
+<p>... para solicitar confirmación de la capacidad de 8,33 kHz</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) CONFIRME OCHO COMA TRES TRES;</p>
+<p>a) CONFIRME OCHO COMA TRES TRES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CONFIRM EIGHT POINT THREE THREE;</p>
+<p>a) CONFIRM EIGHT POINT THREE THREE;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para indicar capacidad de 8,33 KHz</p>
+<p>…para indicar capacidad de 8,33 KHz</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*b) AFIRMA OCHO COMA TRES TRES;</p>
+<p>*b) AFIRMA OCHO COMA TRES TRES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*b) AFFIRM EIGHT POINT THREE THREE;</p>
+<p>*b) AFFIRM EIGHT POINT THREE THREE;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para indicar ausencia de capacidad 8,33 kHz</p>
+<p>…para indicar ausencia de capacidad 8,33 kHz</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*c) NEGATIVO OCHO COMA TRES TRES;</p>
+<p>*c) NEGATIVO OCHO COMA TRES TRES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*c) NEGATIVE EIGHT POINT THREE THREE;</p>
+<p>*c) NEGATIVE EIGHT POINT THREE THREE;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para solicitar capacidad UHF</p>
+<p>…para solicitar capacidad UHF</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) CONFIRME UHF;</p>
+<p>d) CONFIRME UHF;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) CONFIRM UHF;</p>
+<p>d) CONFIRM UHF;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para indicar capacidad UHF.</p>
+<p>…para indicar capacidad UHF.</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*e) AFIRMA UHF;</p>
+<p>*e) AFIRMA UHF;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*e) AFFIRM UHF;</p>
+<p>*e) AFFIRM UHF;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para indicar falta de capacidad UHF:</p>
+<p>…para indicar falta de capacidad UHF:</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*f) NEGATIVO UHF;</p>
+<p>*f) NEGATIVO UHF;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*f) NEGATIVE UHF;</p>
+<p>*f) NEGATIVE UHF;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para solicitar situación respecto a exención de 8,33 kHz.</p>
+<p>…para solicitar situación respecto a exención de 8,33 kHz.</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) CONFIRME EXENCIÓN DE OCHO COMA TRES TRES;</p>
+<p>g) CONFIRME EXENCIÓN DE OCHO COMA TRES TRES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) CONFIRM EIGHT POINT THREE THREE EXEMPTED;</p>
+<p>g) CONFIRM EIGHT POINT THREE THREE EXEMPTED;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para indicar situación de exención de 8,33 kHz</p>
+<p>…para indicar situación de exención de 8,33 kHz</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*h) AFIRMA EXENCIÓN OCHO COMA TRES TRES;</p>
+<p>*h) AFIRMA EXENCIÓN OCHO COMA TRES TRES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*h) AFFIRM EIGHT POINT THREE THREE EXEMPTED;</p>
+<p>*h) AFFIRM EIGHT POINT THREE THREE EXEMPTED;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para indicar situación de no exención de 8,33 kHz</p>
+<p>... para indicar situación de no exención de 8,33 kHz</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*i) NEGATIVO EXENCIÓN DE OCHO COMA TRES TRES;</p>
+<p>*i) NEGATIVO EXENCIÓN DE OCHO COMA TRES TRES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*i) NEGATIVE EIGHT POINT THREE THREE EXEMPTED;</p>
+<p>*i) NEGATIVE EIGHT POINT THREE THREE EXEMPTED;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para indicar que se otorga determinada autorización para prevenir la entrada de una aeronave sin equipo o no exenta en un espacio aéreo dónde es obligatorio llevarlo</p>
+<p>…para indicar que se otorga determinada autorización para prevenir la entrada de una aeronave sin equipo o no exenta en un espacio aéreo dónde es obligatorio llevarlo</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">j) POR REQUISITO OCHO COMA TRES TRES.</p>
+<p>j) POR REQUISITO OCHO COMA TRES TRES.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">j) DUE EIGHT POINT THREE THREE REQUIREMENT.</p>
+<p>j) DUE EIGHT POINT THREE THREE REQUIREMENT.</p>
 </td>
 </tr>
 </tbody>
@@ -7195,36 +7142,32 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.6. Cambio de distintivo de llamada.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_60">
-<col class="row_column_61">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para dar instrucciones a una aeronave de que modifique su tipo de distintivo de llamada</p>
+<p>... para dar instrucciones a una aeronave de que modifique su tipo de distintivo de llamada</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) CAMBIE DISTINTIVO DE LLAMADA A (nuevo distintivo de llamada) [HASTA NUEVO AVISO];</p>
+<p>a) CAMBIE DISTINTIVO DE LLAMADA A (nuevo distintivo de llamada) [HASTA NUEVO AVISO];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CHANGE YOUR CALL SIGN TO (new call sign) [UNTIL FURTHER ADVISED];</p>
+<p>a) CHANGE YOUR CALL SIGN TO (new call sign) [UNTIL FURTHER ADVISED];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para avisar a una aeronave que vuelva al distintivo de llamada indicado en el plan de vuelo:</p>
+<p>... para avisar a una aeronave que vuelva al distintivo de llamada indicado en el plan de vuelo:</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) VUELVA AL DISTINTIVO DE LLAMADA DEL PLAN DE VUELO (distintivo de llamada) [EN (punto significativo)].</p>
+<p>b) VUELVA AL DISTINTIVO DE LLAMADA DEL PLAN DE VUELO (distintivo de llamada) [EN (punto significativo)].</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) REVERT TO FLIGHT PLAN CALL SIGN (call sign) [AT (significant point)].</p>
+<p>b) REVERT TO FLIGHT PLAN CALL SIGN (call sign) [AT (significant point)].</p>
 </td>
 </tr>
 </tbody>
@@ -7232,84 +7175,80 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.7. Información sobre el tránsito.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_60">
-<col class="row_column_61">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) TRÁNSITO (información);</p>
+<p>a) TRÁNSITO (información);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) TRAFFIC (information);</p>
+<p>a) TRAFFIC (information);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para proporcionar información sobre el tránsito</p>
+<p>... para proporcionar información sobre el tránsito</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) NINGÚN TRÁNSITO NOTIFICADO;</p>
+<p>b) NINGÚN TRÁNSITO NOTIFICADO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) NO REPORTED TRAFFIC;</p>
+<p>b) NO REPORTED TRAFFIC;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para acusar recibo de la información sobre el tránsito</p>
+<p>... para acusar recibo de la información sobre el tránsito</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*c) BUSCANDO;</p>
+<p>*c) BUSCANDO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*c) LOOKING OUT;</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">*d) TRÁNSITO A LA VISTA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*d) TRAFFIC IN SIGHT;</p>
+<p>*c) LOOKING OUT;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*e) CONTACTO NEGATIVO [(motivos)];</p>
+<p>*d) TRÁNSITO A LA VISTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*e) NEGATIVE CONTACT [(reasons)];</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">f) TRÁNSITO [ADICIONAL] RUMBO (dirección) (tipo de aeronave) (nivel) ESTIMADO EN (o SOBRE) (punto significativo) A LAS (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">f) [ADDITIONAL] TRAFFIC (direction) BOUND (type of aircraft) (level) ESTIMATED (or OVER) (significant point) AT (time);</p>
+<p>*d) TRAFFIC IN SIGHT;</p>
 </td>
 </tr>
-<tr class="row_column_62">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) EL TRÁNSITO ES (clasificación) GLOBO(S) LIBRE(S) NO TRIPULADO(S) ESTABA(N) [o ESTIMADO(S)] SOBRE (lugar) A LAS (hora) (niveles) NOTIFICADO(S) [o NIVEL DESCONOCIDO] MOVIÉNDOSE (dirección) (otra información pertinente, si la hubiera)</p>
+<p>*e) CONTACTO NEGATIVO [(motivos)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) TRAFFIC IS (classification) UNMANNED FREE BALLOON(S) WAS (WERE) [or ESTIMATED] OVER (place) AT (time) REPORTED (level(s)) [or LEVEL UNKNOWN] MOVING (direction) (other pertinent information, if any).</p>
+<p>*e) NEGATIVE CONTACT [(reasons)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>f) TRÁNSITO [ADICIONAL] RUMBO (dirección) (tipo de aeronave) (nivel) ESTIMADO EN (o SOBRE) (punto significativo) A LAS (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>f) [ADDITIONAL] TRAFFIC (direction) BOUND (type of aircraft) (level) ESTIMATED (or OVER) (significant point) AT (time);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>g) EL TRÁNSITO ES (clasificación) GLOBO(S) LIBRE(S) NO TRIPULADO(S) ESTABA(N) [o ESTIMADO(S)] SOBRE (lugar) A LAS (hora) (niveles) NOTIFICADO(S) [o NIVEL DESCONOCIDO] MOVIÉNDOSE (dirección) (otra información pertinente, si la hubiera)</p>
+</td>
+<td>
+<p>g) TRAFFIC IS (classification) UNMANNED FREE BALLOON(S) WAS (WERE) [or ESTIMATED] OVER (place) AT (time) REPORTED (level(s)) [or LEVEL UNKNOWN] MOVING (direction) (other pertinent information, if any).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -7317,202 +7256,198 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.8. Condiciones meteorológicas.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) VIENTO [EN SUPERFICIE] (número) GRADOS (velocidad) (unidades);</p>
+<p>a) VIENTO [EN SUPERFICIE] (número) GRADOS (velocidad) (unidades);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) [SURFACE] WIND (number) DEGREES (speed) (units);</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">b) VIENTO A (nivel) (número) GRADOS (número) NUDOS (o KILÓMETROS POR HORA);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) WIND AT (level) (number) DEGREES (number) KILOMETRES PER HOUR (or KNOTS);</p>
+<p>a) [SURFACE] WIND (number) DEGREES (speed) (units);</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>b) VIENTO A (nivel) (número) GRADOS (número) NUDOS (o KILÓMETROS POR HORA);</p>
+</td>
+<td>
+<p>b) WIND AT (level) (number) DEGREES (number) KILOMETRES PER HOUR (or KNOTS);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Nota: El viento se expresa siempre indicando la dirección y velocidad medias y cualesquier variaciones significativas respecto a ellas.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note: Wind is always expressed by giving the mean direction and speed and any significant variations thereof.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) VISIBILIDAD (distancia) (unidades) [(dirección)];</p>
+<p>c) VISIBILIDAD (distancia) (unidades) [(dirección)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) VISIBILITY (distance) (units) [(direction)];</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">d) ALCANCE VISUAL EN PISTA (o RVR) [PISTA (número)] (distancia) (unidades);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) RUNWAY VISUAL RANGE (or RVR) [RUNWAY (number)] (distance) (unit);</p>
+<p>c) VISIBILITY (distance) (units) [(direction)];</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) ALCANCE VISUAL EN PISTA (o RVR) PISTA (número) NO DISPONIBLE (o NO</p>
-<p class="cuerpo_tabla_izq">SE HA NOTIFICADO);</p>
+<p>d) ALCANCE VISUAL EN PISTA (o RVR) [PISTA (número)] (distancia) (unidades);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) RUNWAY VISUAL RANGE (or RVR) RUNWAY (number) NOT AVAILABLE (or NOT REPORTED);</p>
+<p>d) RUNWAY VISUAL RANGE (or RVR) [RUNWAY (number)] (distance) (unit);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>e) ALCANCE VISUAL EN PISTA (o RVR) PISTA (número) NO DISPONIBLE (o NO</p>
+<p>SE HA NOTIFICADO);</p>
+</td>
+<td>
+<p>e) RUNWAY VISUAL RANGE (or RVR) RUNWAY (number) NOT AVAILABLE (or NOT REPORTED);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para observaciones múltiples del RVR:</p>
+<p>… para observaciones múltiples del RVR:</p>
 </td>
 </tr>
-<tr class="row_column_63">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) ALCANCE VISUAL EN PISTA (o RVR) [PISTA (número)] (primera posición) (distancia) (unidades), (segunda posición) (distancia) (unidades), (tercera posición) (distancia) (unidades);</p>
+<p>f) ALCANCE VISUAL EN PISTA (o RVR) [PISTA (número)] (primera posición) (distancia) (unidades), (segunda posición) (distancia) (unidades), (tercera posición) (distancia) (unidades);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) RUNWAY VISUAL RANGE (or RVR) [RUNWAY (number)] (first position) (distance) (units), (second position) (distance) (units), (third position) (distance) (units);</p>
+<p>f) RUNWAY VISUAL RANGE (or RVR) [RUNWAY (number)] (first position) (distance) (units), (second position) (distance) (units), (third position) (distance) (units);</p>
 </td>
 </tr>
-<tr class="row_column_63">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota 1: Las observaciones múltiples del RVR representan siempre la zona de toma de contacto, la zona del punto central y la zona de recorrido de desaceleración en tierra/extremo de parada, respectivamente.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note 1: Multiple RVR observations are always representative of the touchdown zone, midpoint zone and the roll-out/stop end zone respectively.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_62">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota 2: Cuando se notifican tres posiciones puede omitirse la indicación de las mismas, siempre que los informes se comuniquen en el siguiente orden: zona de toma de contacto, zona del punto central y zona de recorrido de desaceleración en tierra/extremo de parada.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note 2: Where reports for three locations are given, the indication of these locations may be omitted, provided that the reports are passed in the order of touchdown zone, followed by the midpoint zone and ending with the roll-out/stop end zone report.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…en caso de que no se disponga de información sobre el RVR en alguna de estas posiciones, este hecho se indicará en el lugar que corresponda</p>
+<p>…en caso de que no se disponga de información sobre el RVR en alguna de estas posiciones, este hecho se indicará en el lugar que corresponda</p>
 </td>
 </tr>
-<tr class="row_column_63">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) ALCANCE VISUAL EN PISTA (o RVR) [PISTA (número)] (primera posición) (distancia) (unidades) (segunda posición) NO DISPONIBLE, (tercera posición) (distancia) (unidades);</p>
+<p>g) ALCANCE VISUAL EN PISTA (o RVR) [PISTA (número)] (primera posición) (distancia) (unidades) (segunda posición) NO DISPONIBLE, (tercera posición) (distancia) (unidades);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) RUNWAY VISUAL RANGE (o RVR) [RUNWAY (number)] (first position) (distance) (units), (second position) NOT AVAILABLE, (third position) (distance) (units);</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">h) TIEMPO PRESENTE (detalles);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">h) PRESENT WEATHER (details);</p>
+<p>g) RUNWAY VISUAL RANGE (o RVR) [RUNWAY (number)] (first position) (distance) (units), (second position) NOT AVAILABLE, (third position) (distance) (units);</p>
 </td>
 </tr>
-<tr class="row_column_63">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">i) NUBES (cantidad, [(tipo)] y altura de la base) (unidades) (o CIELO DESPEJADO);</p>
-<p class="cuerpo_tabla_izq">
+<p>h) TIEMPO PRESENTE (detalles);</p>
+</td>
+<td>
+<p>h) PRESENT WEATHER (details);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>i) NUBES (cantidad, [(tipo)] y altura de la base) (unidades) (o CIELO DESPEJADO);</p>
+<p>
 <em>Nota: En el apartado 4.9.4.3.2.2. se indican los detalles sobre el modo de describir la cantidad y el tipo de nubes.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">i) CLOUD (amount, [(type)] and height of base) (units) (or SKY CLEAR);</p>
-<p class="cuerpo_tabla_izq">
+<p>i) CLOUD (amount, [(type)] and height of base) (units) (or SKY CLEAR);</p>
+<p>
 <em>Note: Details of the means to describe the amount and type of cloud are in paragraph 4.9.4.3.2.2.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">j) CAVOK;</p>
-<p class="cuerpo_tabla_izq">
+<p>j) CAVOK;</p>
+<p>
 <em>Nota: Pronúnciese CAV-O-KEY.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">j) CAVOK;</p>
-<p class="cuerpo_tabla_izq">
+<p>j) CAVOK;</p>
+<p>
 <em>Note: CAVOK pronounced CAV-O-KEY</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">k) TEMPERATURA [MENOS] (número) (y/o PUNTO DE ROCÍO [MENOS] (número));</p>
+<p>k) TEMPERATURA [MENOS] (número) (y/o PUNTO DE ROCÍO [MENOS] (número));</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">k) TEMPERATURE [MINUS] (number) (and/or DEWPOINT [MINUS] (number));</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">l) QNH (número) [(unidades)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">l) QNH (number) [(units)];</p>
+<p>k) TEMPERATURE [MINUS] (number) (and/or DEWPOINT [MINUS] (number));</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">m) QFE (número) [(unidades)];</p>
+<p>l) QNH (número) [(unidades)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">m) QFE (number) [(units)];</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">n) (tipo de aeronave) NOTIFICÓ (descripción) ENGELAMIENTO (o TURBULENCIA) [DENTRO DE NUBES] (área) (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">n) (aircraft type) REPORTED (description) ICING (or TURBULENCE) [IN CLOUD] (area) (time);</p>
+<p>l) QNH (number) [(units)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">o) NOTIFIQUE CONDICIONES DE VUELO.</p>
+<p>m) QFE (número) [(unidades)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">o) REPORT FLIGHT CONDITIONS.</p>
+<p>m) QFE (number) [(units)];</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
+<td>
+<p>n) (tipo de aeronave) NOTIFICÓ (descripción) ENGELAMIENTO (o TURBULENCIA) [DENTRO DE NUBES] (área) (hora);</p>
+</td>
+<td>
+<p>n) (aircraft type) REPORTED (description) ICING (or TURBULENCE) [IN CLOUD] (area) (time);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>o) NOTIFIQUE CONDICIONES DE VUELO.</p>
+</td>
+<td>
+<p>o) REPORT FLIGHT CONDITIONS.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... información para el piloto que cambia de vuelo IFR a vuelo VFR, cuando sea probable que no se pueda mantener el vuelo en VMC</p>
+<p>... información para el piloto que cambia de vuelo IFR a vuelo VFR, cuando sea probable que no se pueda mantener el vuelo en VMC</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">p) CONDICIONES METEOROLÓGICAS INSTRUMENTALES NOTIFICADAS (o pronosticadas) EN LAS PROXIMIDADES DE (lugar);</p>
+<p>p) CONDICIONES METEOROLÓGICAS INSTRUMENTALES NOTIFICADAS (o pronosticadas) EN LAS PROXIMIDADES DE (lugar);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">p) INSTRUMENT METEOROLOGICAL CONDITIONS REPORTED (or forecast) IN THE VICINITY OF (location);</p>
+<p>p) INSTRUMENT METEOROLOGICAL CONDITIONS REPORTED (or forecast) IN THE VICINITY OF (location);</p>
 </td>
 </tr>
 </tbody>
@@ -7520,39 +7455,35 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.9. Notificación de posición.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) NOTIFIQUE EN (punto significativo);</p>
+<p>a) NOTIFIQUE EN (punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) NEXT REPORT AT (significant point);</p>
+<p>a) NEXT REPORT AT (significant point);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para omitir los informes de posición hasta una posición determinada</p>
+<p>... para omitir los informes de posición hasta una posición determinada</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) OMITA INFORMES DE POSICIÓN [HASTA (especificar)];</p>
+<p>b) OMITA INFORMES DE POSICIÓN [HASTA (especificar)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) OMIT POSITION REPORTS [UNTIL (specify)];</p>
+<p>b) OMIT POSITION REPORTS [UNTIL (specify)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) REANUDE NOTIFICACIÓN DE POSICIÓN.</p>
+<p>c) REANUDE NOTIFICACIÓN DE POSICIÓN.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) RESUME POSITION REPORTING.</p>
+<p>c) RESUME POSITION REPORTING.</p>
 </td>
 </tr>
 </tbody>
@@ -7560,86 +7491,82 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.10. Otros informes.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) NOTIFIQUE PASANDO POR (punto significativo);</p>
+<p>a) NOTIFIQUE PASANDO POR (punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) REPORT PASSING (significant point);</p>
+<p>a) REPORT PASSING (significant point);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para solicitar un informe en un lugar o a una distancia determinados</p>
+<p>... para solicitar un informe en un lugar o a una distancia determinados</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) NOTIFIQUE (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo);</p>
+<p>b) NOTIFIQUE (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) REPORT (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point);</p>
+<p>b) REPORT (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">...para notificar en un lugar o a una distancia determinados</p>
+<p>...para notificar en un lugar o a una distancia determinados</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*c) (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo);</p>
+<p>*c) (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*c) (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point);</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">d) NOTIFIQUE PASANDO RADIAL (tres cifras) DEL VOR (nombre del VOR);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) REPORT PASSING (three digits) RADIAL (name of VOR) VOR.</p>
+<p>*c) (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>d) NOTIFIQUE PASANDO RADIAL (tres cifras) DEL VOR (nombre del VOR);</p>
+</td>
+<td>
+<p>d) REPORT PASSING (three digits) RADIAL (name of VOR) VOR.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para solicitar un informe de la posición actual</p>
+<p>... para solicitar un informe de la posición actual</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) NOTIFIQUE DISTANCIA (GNSS o DME) DE (punto significativo) (o nombre de la estación DME);</p>
+<p>e) NOTIFIQUE DISTANCIA (GNSS o DME) DE (punto significativo) (o nombre de la estación DME);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) REPORT (GNSS or DME) DISTANCE FROM (significant point) or (name of DME station);</p>
+<p>e) REPORT (GNSS or DME) DISTANCE FROM (significant point) or (name of DME station);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para notificar la posición presente</p>
+<p>... para notificar la posición presente</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*f) (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo).</p>
+<p>*f) (distancia) MILLAS (GNSS o DME) DE (nombre de la estación DME) (o punto significativo).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*f) (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point).</p>
+<p>*f) (distance) MILES (GNSS or DME) FROM (name of DME station) (or significant point).</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -7671,63 +7598,58 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.13. Vaciado rápido de combustible.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_66">
-<col class="row_column_67">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">…Para solicitar autorización o información:</p>
+<p>…Para solicitar autorización o información:</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">a) SOLICITO AUTORIZACIÓN (o INFORMACIÓN) PARA VACIAR COMBUSTIBLE SOBRE (lugar) A (nivel) (dirección de vuelo);</p>
+<p>a) SOLICITO AUTORIZACIÓN (o INFORMACIÓN) PARA VACIAR COMBUSTIBLE SOBRE (lugar) A (nivel) (dirección de vuelo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) REQUEST CLEARANCE (or INFORMATION) TO DUMP FUEL OVER (location) AT (level) (flight direction);</p>
+<p>a) REQUEST CLEARANCE (or INFORMATION) TO DUMP FUEL OVER (location) AT (level) (flight direction);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">…Para autorizar el vaciado:</p>
+<p>…Para autorizar el vaciado:</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) AUTORIZADO A VACIAR COMBUSTIBLE SOBRE (lugar) A (nivel) (dirección de vuelo);</p>
+<p>b) AUTORIZADO A VACIAR COMBUSTIBLE SOBRE (lugar) A (nivel) (dirección de vuelo);</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">b) CLEARED TO DUMP FUEL OVER (location) AT (level) (flight direction);</p>
+<p>b) CLEARED TO DUMP FUEL OVER (location) AT (level) (flight direction);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">…Para informar que se ha iniciado o continúa el vaciado:</p>
+<p>…Para informar que se ha iniciado o continúa el vaciado:</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) ATENCIÓN TODAS LAS AERONAVES, VACIADO RÁPIDO DE COMBUSTIBLE SOBRE (lugar) A (nivel) POR (tipo de aeronave) (dirección de vuelo)</p>
+<p>c) ATENCIÓN TODAS LAS AERONAVES, VACIADO RÁPIDO DE COMBUSTIBLE SOBRE (lugar) A (nivel) POR (tipo de aeronave) (dirección de vuelo)</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">c) ATTENTION ALL AIRCRAFT, FUEL DUMPING IN PROGRESS OVER (location) AT (level) BY (type of aircraft) (flight direction);</p>
+<p>c) ATTENTION ALL AIRCRAFT, FUEL DUMPING IN PROGRESS OVER (location) AT (level) BY (type of aircraft) (flight direction);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">…Para informar que ha terminado el vaciado de combustible:</p>
+<p>…Para informar que ha terminado el vaciado de combustible:</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) ATENCIÓN TODAS LAS AERONAVES, VACIADO RÁPIDO DE COMBUSTIBLE POR (tipo de aeronave) TERMINADO</p>
+<p>d) ATENCIÓN TODAS LAS AERONAVES, VACIADO RÁPIDO DE COMBUSTIBLE POR (tipo de aeronave) TERMINADO</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">d) ATTENTION ALL AIRCRAFT, FUEL DUMPING BY (type of aircraft) TERMINATED.</p>
+<p>d) ATTENTION ALL AIRCRAFT, FUEL DUMPING BY (type of aircraft) TERMINATED.</p>
 </td>
 </tr>
 </tbody>
@@ -7741,142 +7663,138 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.15. Operaciones de separación vertical mínima reducida (RVSM)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_69">
-<col class="row_column_70">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para cerciorarse de la condición de aprobación RVSM de una aeronave</p>
+<p>… para cerciorarse de la condición de aprobación RVSM de una aeronave</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) (distintivo de llamada) CONFIRME APROBACIÓN RVSM;</p>
+<p>a) (distintivo de llamada) CONFIRME APROBACIÓN RVSM;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) (call sign)<em> </em>CONFIRM RVSM APPROVED;</p>
+<p>a) (call sign)<em> </em>CONFIRM RVSM APPROVED;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para notificar condición de RVSM aprobada:</p>
+<p>…para notificar condición de RVSM aprobada:</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*b) AFIRMA RVSM;</p>
+<p>*b) AFIRMA RVSM;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*b) AFFIRM RVSM;</p>
+<p>*b) AFFIRM RVSM;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para notificar condición de aeronave sin aprobación RVSM, seguida de información suplementaria</p>
+<p>…para notificar condición de aeronave sin aprobación RVSM, seguida de información suplementaria</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*c) NEGATIVO RVSM [(información suplementaria, p. ej., aeronave de estado)];</p>
+<p>*c) NEGATIVO RVSM [(información suplementaria, p. ej., aeronave de estado)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*c) NEGATIVE RVSM [(supplementary information, e.g. State Aircraft)];</p>
+<p>*c) NEGATIVE RVSM [(supplementary information, e.g. State Aircraft)];</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota: Véase SERA.11013 para los procedimientos relacionados con las operaciones en espacio aéreo RVSM por aeronaves sin aprobación RVSM.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para denegar la autorización ATC para entrar en un espacio aéreo RVSM</p>
+<p>…para denegar la autorización ATC para entrar en un espacio aéreo RVSM</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) IMPOSIBLE AUTORIZACIÓN PARA ENTRAR EN EL ESPACIO AÉREO RVSM, MANTENGA [o DESCIENDA A, o SUBA A] (nivel);</p>
+<p>d) IMPOSIBLE AUTORIZACIÓN PARA ENTRAR EN EL ESPACIO AÉREO RVSM, MANTENGA [o DESCIENDA A, o SUBA A] (nivel);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) UNABLE ISSUE CLEARANCE INTO RVSM AIRSPACE, MAINTAIN [or DESCEND TO, or CLIMB TO] (level);</p>
+<p>d) UNABLE ISSUE CLEARANCE INTO RVSM AIRSPACE, MAINTAIN [or DESCEND TO, or CLIMB TO] (level);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para notificar turbulencias graves que afectan la capacidad de una aeronave de satisfacer los requisitos de mantenimiento de la altitud para la RVSM</p>
+<p>…para notificar turbulencias graves que afectan la capacidad de una aeronave de satisfacer los requisitos de mantenimiento de la altitud para la RVSM</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*e) RVSM IMPOSIBLE DEBIDO A TURBULENCIA;</p>
+<p>*e) RVSM IMPOSIBLE DEBIDO A TURBULENCIA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*e) UNABLE RVSM DUE TURBULENCE;</p>
+<p>*e) UNABLE RVSM DUE TURBULENCE;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para notificar que el equipo de una aeronave se ha deteriorado por debajo de las normas de performance mínima del sistema de aviación</p>
+<p>…para notificar que el equipo de una aeronave se ha deteriorado por debajo de las normas de performance mínima del sistema de aviación</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*f) RVSM IMPOSIBLE DEBIDO A EQUIPO;</p>
+<p>*f) RVSM IMPOSIBLE DEBIDO A EQUIPO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*f) UNABLE RVSM DUE EQUIPMENT;</p>
+<p>*f) UNABLE RVSM DUE EQUIPMENT;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para solicitar a una aeronave que proporcione información cuando haya reanudado la condición de aprobación RVSM o el piloto está en capacidad de reanudar las operaciones RVSM</p>
+<p>…para solicitar a una aeronave que proporcione información cuando haya reanudado la condición de aprobación RVSM o el piloto está en capacidad de reanudar las operaciones RVSM</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) INFORME CAPACIDAD PARA REANUDAR RVSM;</p>
+<p>g) INFORME CAPACIDAD PARA REANUDAR RVSM;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) REPORT WHEN ABLE TO RESUME RVSM;</p>
+<p>g) REPORT WHEN ABLE TO RESUME RVSM;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para solicitar confirmación de que una aeronave ha reanudado la condición de aprobación RVSM o un piloto está en capacidad de reanudar las operaciones RVSM</p>
+<p>…para solicitar confirmación de que una aeronave ha reanudado la condición de aprobación RVSM o un piloto está en capacidad de reanudar las operaciones RVSM</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) CONFIRME CAPACIDAD PARA REANUDAR RVSM;</p>
+<p>h) CONFIRME CAPACIDAD PARA REANUDAR RVSM;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) CONFIRM ABLE TO RESUME RVSM;</p>
+<p>h) CONFIRM ABLE TO RESUME RVSM;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">…para notificar capacidad de reanudar operaciones RVSM después de una contingencia relacionada con el equipo o condiciones meteorológicas</p>
+<p>…para notificar capacidad de reanudar operaciones RVSM después de una contingencia relacionada con el equipo o condiciones meteorológicas</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*i) LISTO PARA REANUDAR RVSM;</p>
+<p>*i) LISTO PARA REANUDAR RVSM;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*i) READY TO RESUME RVSM.</p>
+<p>*i) READY TO RESUME RVSM.</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -7904,107 +7822,102 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.1.18. Operaciones RNAV.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_67">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">El piloto no puede aceptar un procedimiento de llegada o salida RNAV…</p>
+<p>El piloto no puede aceptar un procedimiento de llegada o salida RNAV…</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) IMPOSIBLE SALIDA (o LLEGADA) (designador) DEBIDO A TIPO RNAV;</p>
+<p>*a) IMPOSIBLE SALIDA (o LLEGADA) (designador) DEBIDO A TIPO RNAV;</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">*a) UNABLE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE;</p>
+<p>*a) UNABLE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">El piloto no puede realizar un procedimiento de área terminal asignado …</p>
+<p>El piloto no puede realizar un procedimiento de área terminal asignado …</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*b) IMPOSIBLE SALIDA (O LLEGADA) (designador) (razones);</p>
+<p>*b) IMPOSIBLE SALIDA (O LLEGADA) (designador) (razones);</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">*b) UNABLE (designator) DEPARTURE (or ARRIVAL) (reasons);</p>
+<p>*b) UNABLE (designator) DEPARTURE (or ARRIVAL) (reasons);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">ATC no puede asignar el procedimiento de llegada o salida RNAV solicitado por un piloto debido al tipo de equipo RNAV a bordo…</p>
+<p>ATC no puede asignar el procedimiento de llegada o salida RNAV solicitado por un piloto debido al tipo de equipo RNAV a bordo…</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) IMPOSIBLE OTORGAR SALIDA (o LLEGADA) (designador) DEBIDO A TIPO RNAV;</p>
+<p>c) IMPOSIBLE OTORGAR SALIDA (o LLEGADA) (designador) DEBIDO A TIPO RNAV;</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">c) UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE;</p>
+<p>c) UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) DUE RNAV TYPE;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">ATC no puede asignar el procedimiento de llegada o salida solicitado por el piloto</p>
+<p>ATC no puede asignar el procedimiento de llegada o salida solicitado por el piloto</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">d) IMPOSIBLE OTORGAR SALIDA (o LLEGADA) (designador) (razones);</p>
+<p>d) IMPOSIBLE OTORGAR SALIDA (o LLEGADA) (designador) (razones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) (reasons);</p>
+<p>d) UNABLE TO ISSUE (designator) DEPARTURE (or ARRIVAL) (reasons);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Confirmación de si puede aceptarse un determinado procedimiento de llegada o salida RNAV</p>
+<p>Confirmación de si puede aceptarse un determinado procedimiento de llegada o salida RNAV</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">e) INFORMAR SI ES POSIBLE SALIDA (o LLEGADA) (designador);</p>
+<p>e) INFORMAR SI ES POSIBLE SALIDA (o LLEGADA) (designador);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) ADVISE IF ABLE (designator) DEPARTURE (or ARRIVAL);</p>
+<p>e) ADVISE IF ABLE (designator) DEPARTURE (or ARRIVAL);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Informar al ATC sobre degradación o fallo de RNAV</p>
+<p>Informar al ATC sobre degradación o fallo de RNAV</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">*f) (distintivo de llamada de la aeronave) IMPOSIBLE RNAV DEBIDO A EQUIPO;</p>
+<p>*f) (distintivo de llamada de la aeronave) IMPOSIBLE RNAV DEBIDO A EQUIPO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*f) (aircraft call sign) UNABLE RNAV DUE EQUIPMENT;</p>
+<p>*f) (aircraft call sign) UNABLE RNAV DUE EQUIPMENT;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Informar al ATC que no hay capacidad RNAV</p>
+<p>Informar al ATC que no hay capacidad RNAV</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">*g) (distintivo de llamada de aeronave) RNAV NEGATIVO;</p>
+<p>*g) (distintivo de llamada de aeronave) RNAV NEGATIVO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*g) (aircraft call sign) NEGATIVE RNAV;</p>
+<p>*g) (aircraft call sign) NEGATIVE RNAV;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="parrafo">* Indica una transmisión del piloto</p>
+<p>* Indica una transmisión del piloto</p>
 </td>
 </tr>
 </tbody>
@@ -8080,105 +7993,101 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.2.9. Instrucciones sobre separación.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_69">
-<col class="row_column_70">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) CRUCE (punto significativo) A LAS (hora) [O POSTERIOR (o O ANTES)];</p>
+<p>a) CRUCE (punto significativo) A LAS (hora) [O POSTERIOR (o O ANTES)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CROSS (significant point) AT (time) [OR LATER (or OR BEFORE)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">b) NOTIFIQUE SI PUEDE CRUZAR (punto significativo) A LAS (hora o nivel);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) ADVISE IF ABLE TO CROSS (significant point) AT (time or level);</p>
+<p>a) CROSS (significant point) AT (time) [OR LATER (or OR BEFORE)];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) MANTENGA MACH (número) [O SUPERIOR (o O INFERIOR)] [HASTA (punto significativo)];</p>
+<p>b) NOTIFIQUE SI PUEDE CRUZAR (punto significativo) A LAS (hora o nivel);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) MAINTAIN MACH (number) [OR GREATER (or OR LESS)] [UNTIL (significant point)];</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">d) NO EXCEDA MACH (número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) DO NOT EXCEED MACH (number);</p>
+<p>b) ADVISE IF ABLE TO CROSS (significant point) AT (time or level);</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) CONFIRME ESTABLECIDO EN LA DERROTA ENTRE (punto significativo) Y (punto significativo) [ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA];</p>
+<p>c) MANTENGA MACH (número) [O SUPERIOR (o O INFERIOR)] [HASTA (punto significativo)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) CONFIRM ESTABLISHED ON THE TRACK BETWEEN (significant point) AND (significant point) [WITH ZERO OFFSET];</p>
-</td>
-</tr>
-<tr class="row_column_50">
-<td>
-<p class="cuerpo_tabla_izq">*f) ESTABLECIDO EN LA DERROTA ENTRE (punto significativo) Y (punto significativo) [ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*f) ESTABLISHED ON THE TRACK BETWEEN (significant point) AND (significant point) [WITH ZERO OFFSET];</p>
+<p>c) MAINTAIN MACH (number) [OR GREATER (or OR LESS)] [UNTIL (significant point)];</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) MANTENGA LA DERROTA ENTRE (punto significativo) Y (punto significativo). NOTIFIQUE ESTABLECIDO EN LA DERROTA;</p>
+<p>d) NO EXCEDA MACH (número);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) MAINTAIN TRACK BETWEEN (significant point) AND (significant point). REPORT ESTABLISHED ON THE TRACK;</p>
+<p>d) DO NOT EXCEED MACH (number);</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td>
+<p>e) CONFIRME ESTABLECIDO EN LA DERROTA ENTRE (punto significativo) Y (punto significativo) [ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA];</p>
+</td>
+<td>
+<p>e) CONFIRM ESTABLISHED ON THE TRACK BETWEEN (significant point) AND (significant point) [WITH ZERO OFFSET];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*f) ESTABLECIDO EN LA DERROTA ENTRE (punto significativo) Y (punto significativo) [ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA)];</p>
+</td>
+<td>
+<p>*f) ESTABLISHED ON THE TRACK BETWEEN (significant point) AND (significant point) [WITH ZERO OFFSET];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>g) MANTENGA LA DERROTA ENTRE (punto significativo) Y (punto significativo). NOTIFIQUE ESTABLECIDO EN LA DERROTA;</p>
+</td>
+<td>
+<p>g) MAINTAIN TRACK BETWEEN (significant point) AND (significant point). REPORT ESTABLISHED ON THE TRACK;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota: Cuando se utiliza para aplicar una separación lateral VOR/GNSS, se requiere confirmación de desplazamiento cero de la derrota (véase 5.4.1.2).</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*h) ESTABLECIDO EN LA DERROTA;</p>
+<p>*h) ESTABLECIDO EN LA DERROTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*h) ESTABLISHED ON THE TRACK;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">i) CONFIRME ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">i) CONFIRM ZERO OFFSET;</p>
+<p>*h) ESTABLISHED ON THE TRACK;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*j) AFIRMA ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA).</p>
+<p>i) CONFIRME ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*j) AFFIRM ZERO OFFSET.</p>
+<p>i) CONFIRM ZERO OFFSET;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>*j) AFIRMA ZERO OFFSET (o DESPLAZAMIENTO CERO DE LA DERROTA).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>*j) AFFIRM ZERO OFFSET.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -8195,99 +8104,95 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.3.1. Instrucciones para la salida.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_69">
-<col class="row_column_70">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) [DESPUÉS DE LA SALIDA] VIRE A LA DERECHA (o A LA IZQUIERDA) RUMBO (tres cifras) (o CONTINÚE RUMBO DE PISTA) (o DERROTA PROLONGACIÓN DE EJE) HASTA (nivel o punto significativo) [(otras instrucciones si se requieren)];</p>
+<p>a) [DESPUÉS DE LA SALIDA] VIRE A LA DERECHA (o A LA IZQUIERDA) RUMBO (tres cifras) (o CONTINÚE RUMBO DE PISTA) (o DERROTA PROLONGACIÓN DE EJE) HASTA (nivel o punto significativo) [(otras instrucciones si se requieren)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) [AFTER DEPARTURE] TURN RIGHT (or LEFT) HEADING (three digits) (or CONTINUE RUNWAY HEADING) (or TRACK EXTENDED CENTRE LINE) TO (level or significant point) [(other instructions as required)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">b) DESPUÉS DE ALCANZAR (o PASAR) (nivel o punto significativo) (instrucciones);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) AFTER REACHING (or PASSING) (level or significant point) (instructions);</p>
+<p>a) [AFTER DEPARTURE] TURN RIGHT (or LEFT) HEADING (three digits) (or CONTINUE RUNWAY HEADING) (or TRACK EXTENDED CENTRE LINE) TO (level or significant point) [(other instructions as required)];</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) VIRE A LA DERECHA (o A LA IZQUIERDA) RUMBO (tres cifras) HASTA (nivel) [HASTA INTERCEPTAR (derrota, ruta, aerovía, etc.)];</p>
+<p>b) DESPUÉS DE ALCANZAR (o PASAR) (nivel o punto significativo) (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) TURN RIGHT (or LEFT) HEADING (three digits) TO (level) [TO INTERCEPT (track, route, airway, etc.)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">d) SALIDA (salida normalizada, nombre y número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) (standard departure, name and number) DEPARTURE;</p>
+<p>b) AFTER REACHING (or PASSING) (level or significant point) (instructions);</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) DERROTA (tres cifras) GRADOS [MAGNÉTICOS (o GEOGRÁFICOS)] HACIA (o DESDE) (punto significativo) HASTA (hora, o ALCANZAR (punto de referencia o punto significativo o nivel)) [ANTES DE SEGUIR EN RUTA];</p>
+<p>c) VIRE A LA DERECHA (o A LA IZQUIERDA) RUMBO (tres cifras) HASTA (nivel) [HASTA INTERCEPTAR (derrota, ruta, aerovía, etc.)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) TRACK (three digits) DEGREES [MAGNETIC (or TRUE)] TO (or FROM) (significant point) UNTIL (time, or REACHING (fix or significant point or level)) [BEFORE PROCEEDING ON COURSE;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">f) AUTORIZADO (designación) SALIDA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">f) CLEARED (designation) DEPARTURE</p>
+<p>c) TURN RIGHT (or LEFT) HEADING (three digits) TO (level) [TO INTERCEPT (track, route, airway, etc.)];</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>d) SALIDA (salida normalizada, nombre y número);</p>
+</td>
+<td>
+<p>d) (standard departure, name and number) DEPARTURE;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>e) DERROTA (tres cifras) GRADOS [MAGNÉTICOS (o GEOGRÁFICOS)] HACIA (o DESDE) (punto significativo) HASTA (hora, o ALCANZAR (punto de referencia o punto significativo o nivel)) [ANTES DE SEGUIR EN RUTA];</p>
+</td>
+<td>
+<p>e) TRACK (three digits) DEGREES [MAGNETIC (or TRUE)] TO (or FROM) (significant point) UNTIL (time, or REACHING (fix or significant point or level)) [BEFORE PROCEEDING ON COURSE;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>f) AUTORIZADO (designación) SALIDA</p>
+</td>
+<td>
+<p>f) CLEARED (designation) DEPARTURE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Nota: En SERA.8015, letra d), punto 3, figuran las condiciones relacionadas con el uso de esta frase.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note: Conditions associated with the use of this phrase can be found in SERA.8015, letter d), bullet 3.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… autorización para proseguir directo con notificación anticipada de una instrucción futura de reanudar la SID</p>
+<p>… autorización para proseguir directo con notificación anticipada de una instrucción futura de reanudar la SID</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) AUTORIZADO DIRECTO (punto de recorrido), SUBIR A (nivel), SE ESPERA REINCORPORAR A SID [(designador SID)] [EN (punto de recorrido)]</p>
-<p class="cuerpo_tabla_izq">luego</p>
-<p class="cuerpo_tabla_izq">REINCORPÓRESE A SID [(designador SID)] [EN (punto de recorrido)]</p>
+<p>g) AUTORIZADO DIRECTO (punto de recorrido), SUBIR A (nivel), SE ESPERA REINCORPORAR A SID [(designador SID)] [EN (punto de recorrido)]</p>
+<p>luego</p>
+<p>REINCORPÓRESE A SID [(designador SID)] [EN (punto de recorrido)]</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) CLEARED DIRECT (waypoint), CLIMB TO (level), EXPECT TO REJOIN SID [(SID designator)] [AT (waypoint)]</p>
-<p class="cuerpo_tabla_izq">then</p>
-<p class="cuerpo_tabla_izq">REJOIN SID [(SID designator)] [AT (waypoint)]</p>
+<p>g) CLEARED DIRECT (waypoint), CLIMB TO (level), EXPECT TO REJOIN SID [(SID designator)] [AT (waypoint)]</p>
+<p>then</p>
+<p>REJOIN SID [(SID designator)] [AT (waypoint)]</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) AUTORIZADO DIRECTO (punto de recorrido), SUBIR A (nivel)</p>
-<p class="cuerpo_tabla_izq">luego</p>
-<p class="cuerpo_tabla_izq">REINCORPÓRESE A SID (designador SID) EN (punto de recorrido)</p>
+<p>h) AUTORIZADO DIRECTO (punto de recorrido), SUBIR A (nivel)</p>
+<p>luego</p>
+<p>REINCORPÓRESE A SID (designador SID) EN (punto de recorrido)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) CLEARED DIRECT (waypoint), CLIMB TO (level)</p>
-<p class="cuerpo_tabla_izq">then</p>
-<p class="cuerpo_tabla_izq">REJOIN SID (SID designator) AT (waypoint)</p>
+<p>h) CLEARED DIRECT (waypoint), CLIMB TO (level)</p>
+<p>then</p>
+<p>REJOIN SID (SID designator) AT (waypoint)</p>
 </td>
 </tr>
 </tbody>
@@ -8295,267 +8200,263 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.3.2. Instrucciones para la aproximación.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_61">
-<col class="row_column_60">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) AUTORIZADO (designación) LLEGADA;</p>
+<p>a) AUTORIZADO (designación) LLEGADA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CLEARED (designation) ARRIVAL;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">b) AUTORIZADO HASTA (límite de la autorización) (designación);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) CLEARED TO (clearance limit) (designation);</p>
+<p>a) CLEARED (designation) ARRIVAL;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) AUTORIZADO (o PROCEDA) (detalles de la ruta que se ha de seguir);</p>
+<p>b) AUTORIZADO HASTA (límite de la autorización) (designación);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) CLEARED (or PROCEED) (details of route to be followed);</p>
+<p>b) CLEARED TO (clearance limit) (designation);</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td>
+<p>c) AUTORIZADO (o PROCEDA) (detalles de la ruta que se ha de seguir);</p>
+</td>
+<td>
+<p>c) CLEARED (or PROCEED) (details of route to be followed);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… autorización de proseguir directo con notificación anticipada de una instrucción futura de reanudar la STAR</p>
+<p>… autorización de proseguir directo con notificación anticipada de una instrucción futura de reanudar la STAR</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) AUTORIZADO DIRECTO (punto de recorrido), DESCIENDA A (nivel), SE ESPERA REINCORPORAR A STAR [(designador STAR)] EN (punto de recorrido)</p>
-<p class="cuerpo_tabla_izq">luego</p>
-<p class="cuerpo_tabla_izq">REINCORPÓRESE A STAR [(designador STAR)] [EN (punto de recorrido)]</p>
+<p>d) AUTORIZADO DIRECTO (punto de recorrido), DESCIENDA A (nivel), SE ESPERA REINCORPORAR A STAR [(designador STAR)] EN (punto de recorrido)</p>
+<p>luego</p>
+<p>REINCORPÓRESE A STAR [(designador STAR)] [EN (punto de recorrido)]</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) CLEARED DIRECT (waypoint), DESCEND TO (level), EXPECT TO REJOIN STAR [(STAR designator)] AT (waypoint)</p>
-<p class="cuerpo_tabla_izq">then</p>
-<p class="cuerpo_tabla_izq">REJOIN STAR [(STAR designator)] [AT (waypoint)]</p>
-</td>
-</tr>
-<tr class="row_column_71">
-<td>
-<p class="cuerpo_tabla_izq">e) AUTORIZADO DIRECTO (punto de recorrido), DESCIENDA A (nivel)</p>
-<p class="cuerpo_tabla_izq">luego</p>
-<p class="cuerpo_tabla_izq">REINCORPÓRESE A STAR (designador STAR) EN (punto de recorrido)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">e) CLEARED DIRECT (waypoint), DESCEND TO (level)</p>
-<p class="cuerpo_tabla_izq">then</p>
-<p class="cuerpo_tabla_izq">REJOIN STAR (STAR designator) AT (waypoint)</p>
+<p>d) CLEARED DIRECT (waypoint), DESCEND TO (level), EXPECT TO REJOIN STAR [(STAR designator)] AT (waypoint)</p>
+<p>then</p>
+<p>REJOIN STAR [(STAR designator)] [AT (waypoint)]</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) AUTORIZADO APROXIMACIÓN (tipo de aproximación) [PISTA (número)];</p>
+<p>e) AUTORIZADO DIRECTO (punto de recorrido), DESCIENDA A (nivel)</p>
+<p>luego</p>
+<p>REINCORPÓRESE A STAR (designador STAR) EN (punto de recorrido)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) CLEARED (type of approach) APPROACH [RUNWAY (number)];</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">g) AUTORIZADO (tipo de aproximación) PISTA (número) circling (o SEGUIDO DE CIRCUITO A PISTA) (número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">g) CLEARED (type of approach) RUNWAY (number) FOLLOWED BY CIRCLING TO RUNWAY (number);</p>
+<p>e) CLEARED DIRECT (waypoint), DESCEND TO (level)</p>
+<p>then</p>
+<p>REJOIN STAR (STAR designator) AT (waypoint)</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) AUTORIZADO APROXIMACIÓN [PISTA (número)];</p>
+<p>f) AUTORIZADO APROXIMACIÓN (tipo de aproximación) [PISTA (número)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) CLEARED APPROACH [RUNWAY (number)];</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">i) INICIE APROXIMACIÓN A LAS (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">i) COMMENCE APPROACH AT (time);</p>
+<p>f) CLEARED (type of approach) APPROACH [RUNWAY (number)];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*j) SOLICITO APROXIMACIÓN DIRECTA [(tipo de aproximación)] [PISTA (número)];</p>
+<p>g) AUTORIZADO (tipo de aproximación) PISTA (número) circling (o SEGUIDO DE CIRCUITO A PISTA) (número);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*j) REQUEST STRAIGHT-IN [(type of approach)] APPROACH [RUNWAY (number)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">k) AUTORIZADO APROXIMACIÓN DIRECTA [(tipo de aproximación)] [PISTA (número)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">k) CLEARED STRAIGHT-IN [(type of approach)] APPROACH [RUNWAY (number)];</p>
+<p>g) CLEARED (type of approach) RUNWAY (number) FOLLOWED BY CIRCLING TO RUNWAY (number);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">l) NOTIFIQUE CONTACTO VISUAL;</p>
+<p>h) AUTORIZADO APROXIMACIÓN [PISTA (número)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">l) REPORT VISUAL;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">m) NOTIFIQUE [LUCES DE] PISTA A LA VISTA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">m) REPORT RUNWAY [LIGHTS] IN SIGHT;</p>
+<p>h) CLEARED APPROACH [RUNWAY (number)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>i) INICIE APROXIMACIÓN A LAS (hora);</p>
+</td>
+<td>
+<p>i) COMMENCE APPROACH AT (time);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*j) SOLICITO APROXIMACIÓN DIRECTA [(tipo de aproximación)] [PISTA (número)];</p>
+</td>
+<td>
+<p>*j) REQUEST STRAIGHT-IN [(type of approach)] APPROACH [RUNWAY (number)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>k) AUTORIZADO APROXIMACIÓN DIRECTA [(tipo de aproximación)] [PISTA (número)];</p>
+</td>
+<td>
+<p>k) CLEARED STRAIGHT-IN [(type of approach)] APPROACH [RUNWAY (number)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>l) NOTIFIQUE CONTACTO VISUAL;</p>
+</td>
+<td>
+<p>l) REPORT VISUAL;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>m) NOTIFIQUE [LUCES DE] PISTA A LA VISTA;</p>
+</td>
+<td>
+<p>m) REPORT RUNWAY [LIGHTS] IN SIGHT;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… cuando el piloto solicita una aproximación visual</p>
+<p>… cuando el piloto solicita una aproximación visual</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*n) SOLICITO APROXIMACIÓN VISUAL;</p>
+<p>*n) SOLICITO APROXIMACIÓN VISUAL;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*n) REQUEST VISUAL APPROACH;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">o) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">o) CLEARED VISUAL APPROACH RUNWAY (number);</p>
+<p>*n) REQUEST VISUAL APPROACH;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>o) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número);</p>
+</td>
+<td>
+<p>o) CLEARED VISUAL APPROACH RUNWAY (number);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para consultar si un piloto puede aceptar una aproximación visual</p>
+<p>… para consultar si un piloto puede aceptar una aproximación visual</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">p) NOTIFIQUE SI ES CAPAZ DE ACEPTAR APROXIMACIÓN VISUAL PISTA (número);</p>
+<p>p) NOTIFIQUE SI ES CAPAZ DE ACEPTAR APROXIMACIÓN VISUAL PISTA (número);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">p) ADVISE ABLE TO ACCEPT VISUAL APPROACH RUNWAY (number);</p>
+<p>p) ADVISE ABLE TO ACCEPT VISUAL APPROACH RUNWAY (number);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq"><em>Nota:</em> Véanse en 4.4.9. las disposiciones relativas a los procedimientos de aproximación visual.</p>
+<p><em>Nota:</em> Véanse en 4.4.9. las disposiciones relativas a los procedimientos de aproximación visual.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… en caso de aproximaciones visuales sucesivas cuando el piloto de una aeronave sucesiva ha notificado tener a la vista la aeronave precedente</p>
+<p>… en caso de aproximaciones visuales sucesivas cuando el piloto de una aeronave sucesiva ha notificado tener a la vista la aeronave precedente</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">q) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número), MANTENGA SU PROPIA SEPARACIÓN DE LA PRECEDENTE (tipo de aeronave y categoría de estela turbulenta, según convenga) [PRECAUCIÓN ESTELA TURBULENTA];</p>
+<p>q) AUTORIZADO APROXIMACIÓN VISUAL PISTA (número), MANTENGA SU PROPIA SEPARACIÓN DE LA PRECEDENTE (tipo de aeronave y categoría de estela turbulenta, según convenga) [PRECAUCIÓN ESTELA TURBULENTA];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">q) CLEARED VISUAL APPROACH RUNWAY (number), MAINTAIN OWN SEPARATION FROM PRECEDING (aircraft type and wake turbulence category as appropriate) [CAUTION WAKE TURBULENCE];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">r) NOTIFIQUE (punto significativo); [EN ALEJAMIENTO o EN ACERCAMIENTO];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">r) REPORT (significant point); [OUTBOUND or INBOUND];</p>
+<p>q) CLEARED VISUAL APPROACH RUNWAY (number), MAINTAIN OWN SEPARATION FROM PRECEDING (aircraft type and wake turbulence category as appropriate) [CAUTION WAKE TURBULENCE];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">s) NOTIFIQUE INICIANDO VIRAJE REGLAMENTARIO;</p>
+<p>r) NOTIFIQUE (punto significativo); [EN ALEJAMIENTO o EN ACERCAMIENTO];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">s) REPORT COMMENCING PROCEDURE TURN;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">*t) SOLICITO DESCENSO VMC;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*t) REQUEST VMC DESCENT;</p>
+<p>r) REPORT (significant point); [OUTBOUND or INBOUND];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">u) MANTENGA PROPIA SEPARACIÓN;</p>
+<p>s) NOTIFIQUE INICIANDO VIRAJE REGLAMENTARIO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">u) MAINTAIN OWN SEPARATION;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">v) MANTENGA VMC;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">v) MAINTAIN VMC;</p>
+<p>s) REPORT COMMENCING PROCEDURE TURN;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">w) ¿CONOCE PROCEDIMIENTO APROXIMACIÓN (nombre)?;</p>
+<p>*t) SOLICITO DESCENSO VMC;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">w) ARE YOU FAMILIAR WITH (name) APPROACH PROCEDURE?;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">*x) SOLICITO APROXIMACIÓN (tipo de aproximación) [PISTA (número)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*x) REQUEST (type of approach) APPROACH [RUNWAY (number)];</p>
+<p>*t) REQUEST VMC DESCENT;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*y) SOLICITO (designador RNAV en lenguaje claro);</p>
+<p>u) MANTENGA PROPIA SEPARACIÓN;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*y) REQUEST (RNAV plain language designator);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">z) AUTORIZADO (designador RNAV en lenguaje claro).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">z) CLEARED (RNAV plain language designator).</p>
+<p>u) MAINTAIN OWN SEPARATION;</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">aa) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número). DESPLAZAMIENTO LATERAL A PISTA (número).</p>
+<p>v) MANTENGA VMC;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">aa) CLEARED (type of approach) APPROACH RUNWAY (number). SIDE STEP TO RUNWAY (number).</p>
+<p>v) MAINTAIN VMC;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>w) ¿CONOCE PROCEDIMIENTO APROXIMACIÓN (nombre)?;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>w) ARE YOU FAMILIAR WITH (name) APPROACH PROCEDURE?;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*x) SOLICITO APROXIMACIÓN (tipo de aproximación) [PISTA (número)];</p>
+</td>
+<td>
+<p>*x) REQUEST (type of approach) APPROACH [RUNWAY (number)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*y) SOLICITO (designador RNAV en lenguaje claro);</p>
+</td>
+<td>
+<p>*y) REQUEST (RNAV plain language designator);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z) AUTORIZADO (designador RNAV en lenguaje claro).</p>
+</td>
+<td>
+<p>z) CLEARED (RNAV plain language designator).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aa) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número). DESPLAZAMIENTO LATERAL A PISTA (número).</p>
+</td>
+<td>
+<p>aa) CLEARED (type of approach) APPROACH RUNWAY (number). SIDE STEP TO RUNWAY (number).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -8563,81 +8464,77 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.3.3. Instrucciones para patrones de espera.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_61">
-<col class="row_column_60">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... visual</p>
+<p>... visual</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) MANTENGA VISUAL [SOBRE] (posición) [o ENTRE (dos referencias topográficas destacadas)];</p>
+<p>a) MANTENGA VISUAL [SOBRE] (posición) [o ENTRE (dos referencias topográficas destacadas)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) HOLD VISUAL [OVER] (position), (or BETWEEN (two prominent landmarks));</p>
+<p>a) HOLD VISUAL [OVER] (position), (or BETWEEN (two prominent landmarks));</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... procedimiento de espera publicado sobre una instalación o punto de referencia</p>
+<p>... procedimiento de espera publicado sobre una instalación o punto de referencia</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) AUTORIZADO (o PROSIGA) HASTA (punto significativo, nombre de la instalación o punto de referencia) [MANTENGA (o SUBA o DESCIENDA HASTA) (nivel)] MANTENGA ESPERA PUBLICADA [(dirección)] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora);</p>
+<p>b) AUTORIZADO (o PROSIGA) HASTA (punto significativo, nombre de la instalación o punto de referencia) [MANTENGA (o SUBA o DESCIENDA HASTA) (nivel)] MANTENGA ESPERA PUBLICADA [(dirección)] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) CLEARED (or PROCEED) TO (significant point, name of facility or fix) [MAINTAIN (or CLIMB or DESCEND TO) (level)] HOLD [(direction)] AS PUBLISHED EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time);</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">*c) SOLICITO INSTRUCCIONES DE ESPERA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*c) REQUEST HOLDING INSTRUCTIONS;</p>
+<p>b) CLEARED (or PROCEED) TO (significant point, name of facility or fix) [MAINTAIN (or CLIMB or DESCEND TO) (level)] HOLD [(direction)] AS PUBLISHED EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>*c) SOLICITO INSTRUCCIONES DE ESPERA;</p>
+</td>
+<td>
+<p>*c) REQUEST HOLDING INSTRUCTIONS;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando se requiere una autorización detallada para la espera</p>
+<p>... cuando se requiere una autorización detallada para la espera</p>
 </td>
 </tr>
-<tr class="row_column_74">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) AUTORIZADO (o PROSIGA) HASTA (punto significativo, nombre de la instalación o punto de referencia) [MANTENGA (o SUBA o DESCIENDA HASTA (nivel)] MANTENGA [(dirección)] [(especificada) RADIAL, RUMBO (o CURSO), DERROTA DE ACERCAMIENTO (tres cifras) GRADOS] [VIRAJES A LA DERECHA (o A LA IZQUIERDA)] [TIEMPO DE ALEJAMIENTO (número) MINUTOS] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora) (otras instrucciones que se requieran);</p>
+<p>d) AUTORIZADO (o PROSIGA) HASTA (punto significativo, nombre de la instalación o punto de referencia) [MANTENGA (o SUBA o DESCIENDA HASTA (nivel)] MANTENGA [(dirección)] [(especificada) RADIAL, RUMBO (o CURSO), DERROTA DE ACERCAMIENTO (tres cifras) GRADOS] [VIRAJES A LA DERECHA (o A LA IZQUIERDA)] [TIEMPO DE ALEJAMIENTO (número) MINUTOS] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora) (otras instrucciones que se requieran);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) CLEARED (or PROCEED) TO (significant point, name of facility or fix) [MAINTAIN (or CLIMB or DESCEND TO (level)] HOLD [(direction)] [(specified) RADIAL, COURSE, INBOUND TRACK (three digits) DEGREES] [RIGHT (or LEFT) HAND PATTERN] [OUTBOUND TIME (number) MINUTES] EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time) (additional instructions, if necessary);</p>
-</td>
-</tr>
-<tr class="row_column_75">
-<td>
-<p class="cuerpo_tabla_izq">e) AUTORIZADO HASTA RADIAL (tres cifras) DEL VOR (nombre) A (distancia) PUNTO DE REFERENCIA DME [MANTENGA (o SUBA o DESCIENDA HASTA) (nivel)] MANTENGA [(dirección)] [VIRAJES A LA DERECHA (o A LA IZQUIERDA)] [TIEMPO DE ALEJAMIENTO (número) MINUTOS] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora) (otras instrucciones que se requieran);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">e) CLEARED TO THE (three digits) RADIAL OF THE (name) VOR AT (distance) DME FIX [MAINTAIN (or CLIMB or DESCEND TO) (level)] HOLD [(direction)] [RIGHT (or LEFT) HAND PATTERN] [OUTBOUND TIME (number) MINUTES] EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time)(additional instructions, if necessary);</p>
+<p>d) CLEARED (or PROCEED) TO (significant point, name of facility or fix) [MAINTAIN (or CLIMB or DESCEND TO (level)] HOLD [(direction)] [(specified) RADIAL, COURSE, INBOUND TRACK (three digits) DEGREES] [RIGHT (or LEFT) HAND PATTERN] [OUTBOUND TIME (number) MINUTES] EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time) (additional instructions, if necessary);</p>
 </td>
 </tr>
-<tr class="row_column_75">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) AUTORIZADO HASTA RADIAL (tres cifras) DEL VOR (nombre) A (distancia) PUNTO DE REFERENCIA DME [MANTENGA (o SUBA o DESCIENDA HASTA) (nivel)] MANTENGA ESPERA ENTRE (distancia) Y (distancia) DME [VIRAJES A LA DERECHA (o A LA IZQUIERDA)] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora) (otras instrucciones que se requieran);</p>
+<p>e) AUTORIZADO HASTA RADIAL (tres cifras) DEL VOR (nombre) A (distancia) PUNTO DE REFERENCIA DME [MANTENGA (o SUBA o DESCIENDA HASTA) (nivel)] MANTENGA [(dirección)] [VIRAJES A LA DERECHA (o A LA IZQUIERDA)] [TIEMPO DE ALEJAMIENTO (número) MINUTOS] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora) (otras instrucciones que se requieran);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) CLEARED TO THE (three digits) RADIAL OF THE (name) VOR AT (distance) DME FIX [MAINTAIN (or CLIMB or DESCEND TO) (level)] HOLD BETWEEN (distance) AND (distance) DME [RIGHT (or LEFT) HAND PATTERN] EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time) (additional instructions, if necessary);</p>
+<p>e) CLEARED TO THE (three digits) RADIAL OF THE (name) VOR AT (distance) DME FIX [MAINTAIN (or CLIMB or DESCEND TO) (level)] HOLD [(direction)] [RIGHT (or LEFT) HAND PATTERN] [OUTBOUND TIME (number) MINUTES] EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time)(additional instructions, if necessary);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>f) AUTORIZADO HASTA RADIAL (tres cifras) DEL VOR (nombre) A (distancia) PUNTO DE REFERENCIA DME [MANTENGA (o SUBA o DESCIENDA HASTA) (nivel)] MANTENGA ESPERA ENTRE (distancia) Y (distancia) DME [VIRAJES A LA DERECHA (o A LA IZQUIERDA)] PREVEA AUTORIZACIÓN PARA APROXIMACIÓN (o NUEVA AUTORIZACIÓN) A LAS (hora) (otras instrucciones que se requieran);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>f) CLEARED TO THE (three digits) RADIAL OF THE (name) VOR AT (distance) DME FIX [MAINTAIN (or CLIMB or DESCEND TO) (level)] HOLD BETWEEN (distance) AND (distance) DME [RIGHT (or LEFT) HAND PATTERN] EXPECT APPROACH CLEARANCE (or FURTHER CLEARANCE) AT (time) (additional instructions, if necessary);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -8667,84 +8564,80 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.3. Procedimiento de encendido de motores.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_61">
-<col class="row_column_60">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... solicitud de autorización para poner en marcha los motores:</p>
+<p>... solicitud de autorización para poner en marcha los motores:</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(emplazamiento de la aeronave)] SOLICITO PUESTA EN MARCHA (o ENCENDIDO DE MOTORES);</p>
+<p>*a) [(emplazamiento de la aeronave)] SOLICITO PUESTA EN MARCHA (o ENCENDIDO DE MOTORES);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(aircraft location)] REQUEST START UP;</p>
-</td>
-</tr>
-<tr class="row_column_50">
-<td>
-<p class="cuerpo_tabla_izq">*b) [(emplazamiento de la aeronave)] SOLICITO PUESTA EN MARCHA (o ENCENDIDO DE MOTORES), e INFORMACIÓN (identificación ATIS);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*b) [(aircraft location)] REQUEST START UP, INFORMATION (ATIS identification);</p>
+<p>*a) [(aircraft location)] REQUEST START UP;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>*b) [(emplazamiento de la aeronave)] SOLICITO PUESTA EN MARCHA (o ENCENDIDO DE MOTORES), e INFORMACIÓN (identificación ATIS);</p>
+</td>
+<td>
+<p>*b) [(aircraft location)] REQUEST START UP, INFORMATION (ATIS identification);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... respuestas del ATC:</p>
+<p>... respuestas del ATC:</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) APROBADO;</p>
+<p>c) PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) APROBADO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) START UP APPROVED;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">d) PONGA EN MARCHA (o ENCIENDA MOTORES) A LAS (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) START UP AT (time);</p>
+<p>c) START UP APPROVED;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) PREVEA PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) A LAS (hora);</p>
+<p>d) PONGA EN MARCHA (o ENCIENDA MOTORES) A LAS (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) EXPECT START UP AT (time);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">f) PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) A DISCRECIÓN;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">f) START UP AT OWN DISCRETION;</p>
+<p>d) START UP AT (time);</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) PREVEA SU SALIDA A LAS (hora) PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) A SU DISCRECIÓN.</p>
+<p>e) PREVEA PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) A LAS (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) EXPECT DEPARTURE (time) START UP AT OWN DISCRETION.</p>
+<p>e) EXPECT START UP AT (time);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>f) PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) A DISCRECIÓN;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>f) START UP AT OWN DISCRETION;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>g) PREVEA SU SALIDA A LAS (hora) PUESTA EN MARCHA (o ENCENDIDO DE MOTORES) A SU DISCRECIÓN.</p>
+</td>
+<td>
+<p>g) EXPECT DEPARTURE (time) START UP AT OWN DISCRETION.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -8761,70 +8654,66 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.5. Procedimientos de retroceso.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota: Cuando lo prescriban los procedimientos locales, la autorización para el retroceso debe obtenerse de la torre de control.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... aeronave/ATC:</p>
+<p>... aeronave/ATC:</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(emplazamiento de la aeronave)] SOLICITO RETROCESO;</p>
+<p>*a) [(emplazamiento de la aeronave)] SOLICITO RETROCESO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(aircraft location)] REQUEST PUSHBACK;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">b) RETROCESO APROBADO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) PUSHBACK APPROVED;</p>
+<p>*a) [(aircraft location)] REQUEST PUSHBACK;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) MANTENGA ESCUCHA;</p>
+<p>b) RETROCESO APROBADO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) STAND BY;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">d) RETROCESO A DISCRECIÓN;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) PUSHBACK AT OWN DISCRETION;</p>
+<p>b) PUSHBACK APPROVED;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) PREVEA (número) MINUTOS DE DEMORA DEBIDO A (razón).</p>
+<p>c) MANTENGA ESCUCHA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) EXPECT (number) MINUTES DELAY DUE (reason).</p>
+<p>c) STAND BY;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>d) RETROCESO A DISCRECIÓN;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>d) PUSHBACK AT OWN DISCRETION;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>e) PREVEA (número) MINUTOS DE DEMORA DEBIDO A (razón).</p>
+</td>
+<td>
+<p>e) EXPECT (number) MINUTES DELAY DUE (reason).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -8832,55 +8721,51 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.6. Procedimientos de remolque.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">†a) SOLICITO REMOLQUE [(nombre de la compañía)] (tipo de aeronave) DE (emplazamiento) A (emplazamiento);</p>
+<p>†a) SOLICITO REMOLQUE [(nombre de la compañía)] (tipo de aeronave) DE (emplazamiento) A (emplazamiento);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">†a) REQUEST TOW [(company name)] (aircraft type) FROM (location) TO (location);</p>
+<p>†a) REQUEST TOW [(company name)] (aircraft type) FROM (location) TO (location);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... respuesta del ATC:</p>
+<p>... respuesta del ATC:</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) REMOLQUE APROBADO VÍA (trayecto concreto que ha de seguirse);</p>
+<p>b) REMOLQUE APROBADO VÍA (trayecto concreto que ha de seguirse);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) TOW APPROVED VIA (specific routing to be followed);</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">c) MANTENGA POSICIÓN;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) HOLD POSITION;</p>
+<p>b) TOW APPROVED VIA (specific routing to be followed);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) MANTENGA ESCUCHA.</p>
+<p>c) MANTENGA POSICIÓN;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) STAND BY.</p>
+<p>c) HOLD POSITION;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">† Indica transmisión efectuada por aeronave/vehículo remolcador.</p>
+<p>d) MANTENGA ESCUCHA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">† Denotes transmission from aircraft/tow vehicle combination.</p>
+<p>d) STAND BY.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>† Indica transmisión efectuada por aeronave/vehículo remolcador.</p>
+</td>
+<td>
+<p>† Denotes transmission from aircraft/tow vehicle combination.</p>
 </td>
 </tr>
 </tbody>
@@ -8888,67 +8773,63 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.7. Para solicitar verificación de la hora o datos del aeródromo para la salida.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) SOLICITO HORA CORRECTA;</p>
+<p>*a) SOLICITO HORA CORRECTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) REQUEST TIME CHECK;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">b) HORA (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) TIME (time);</p>
+<p>*a) REQUEST TIME CHECK;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>b) HORA (hora);</p>
+</td>
+<td>
+<p>b) TIME (time);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando no se dispone de radiodifusión ATIS</p>
+<p>... cuando no se dispone de radiodifusión ATIS</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*c) SOLICITO INFORMACIÓN DE SALIDA;</p>
+<p>*c) SOLICITO INFORMACIÓN DE SALIDA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*c) REQUEST DEPARTURE INFORMATION;</p>
-</td>
-</tr>
-<tr class="row_column_72">
-<td>
-<p class="cuerpo_tabla_izq">d) PISTA (número), VIENTO (dirección y velocidad) (unidades) QNH (o QFE) (número) [(unidades)] TEMPERATURA [MENOS] (número) [VISIBILIDAD (distancia) (unidades) (o ALCANCE VISUAL EN LA PISTA) (o RVR) (distancia) (unidades)] [HORA (hora)].</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) RUNWAY (number), WIND (direction and speed) (units) QNH (or QFE) (number) [(units)] TEMPERATURE [MINUS] (number), [VISIBILITY (distance) (units) (or RUNWAY VISUAL RANGE (or RVR) (distance) (units))] [TIME (time)].</p>
+<p>*c) REQUEST DEPARTURE INFORMATION;</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>d) PISTA (número), VIENTO (dirección y velocidad) (unidades) QNH (o QFE) (número) [(unidades)] TEMPERATURA [MENOS] (número) [VISIBILIDAD (distancia) (unidades) (o ALCANCE VISUAL EN LA PISTA) (o RVR) (distancia) (unidades)] [HORA (hora)].</p>
+</td>
+<td>
+<p>d) RUNWAY (number), WIND (direction and speed) (units) QNH (or QFE) (number) [(units)] TEMPERATURE [MINUS] (number), [VISIBILITY (distance) (units) (or RUNWAY VISUAL RANGE (or RVR) (distance) (units))] [TIME (time)].</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Nota: Si se dispone de múltiples observaciones de la visibilidad y del RVR, deberían utilizarse para el despegue aquellas que sean representativas de la zona de desaceleración o extremo de parada.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note: If multiple visibility and RVR observations are available, those that represent the roll-out/stop end zone should be used for take-off.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -8956,283 +8837,279 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.8. Procedimientos de rodaje.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para la salida:</p>
+<p>... para la salida:</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(tipo de aeronave)] [(categoría de estela turbulenta si es «súper» o «pesada»)] [(emplazamiento de la aeronave)] SOLICITO RODAJE [(intenciones)];</p>
+<p>*a) [(tipo de aeronave)] [(categoría de estela turbulenta si es «súper» o «pesada»)] [(emplazamiento de la aeronave)] SOLICITO RODAJE [(intenciones)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] [(aircraft location)] REQUEST TAXI [(intentions)];</p>
-</td>
-</tr>
-<tr class="row_column_50">
-<td>
-<p class="cuerpo_tabla_izq">*b) [(tipo de aeronave] [(categoría de estela turbulenta si es «súper» o «pesada»)] [(emplazamiento de la aeronave)] (reglas de vuelo) A (aeródromo de destino) SOLICITO RODAJE [(intenciones)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*b) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] [(aircraft location)] (flight rules) TO (aerodrome of destination) REQUEST TAXI [(intentions)];</p>
+<p>*a) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] [(aircraft location)] REQUEST TAXI [(intentions)];</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número) (o CRUCE PISTA (número))] [HORA (hora)];</p>
+<p>*b) [(tipo de aeronave] [(categoría de estela turbulenta si es «súper» o «pesada»)] [(emplazamiento de la aeronave)] (reglas de vuelo) A (aeródromo de destino) SOLICITO RODAJE [(intenciones)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))] [TIME (time)];</p>
+<p>*b) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] [(aircraft location)] (flight rules) TO (aerodrome of destination) REQUEST TAXI [(intentions)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>c) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número) (o CRUCE PISTA (número))] [HORA (hora)];</p>
+</td>
+<td>
+<p>c) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))] [TIME (time)];</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando se necesitan instrucciones detalladas para el rodaje.</p>
+<p>... cuando se necesitan instrucciones detalladas para el rodaje.</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*d) [(tipo de aeronave] [(categoría de estela turbulenta si es «súper» o «pesada»)] SOLICITO INSTRUCCIONES DE RODAJE DETALLADAS;</p>
+<p>*d) [(tipo de aeronave] [(categoría de estela turbulenta si es «súper» o «pesada»)] SOLICITO INSTRUCCIONES DE RODAJE DETALLADAS;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*d) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] REQUEST DETAILED TAXI INSTRUCTIONS;»</p>
-</td>
-</tr>
-<tr class="row_column_71">
-<td>
-<p class="cuerpo_tabla_izq">e) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] VÍA (trayecto concreto que ha de seguirse) [HORA (hora)] [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número) (o CRUCE PISTA (número))];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">e) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] VIA (specific route to be followed) [TIME (time)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))];</p>
+<p>*d) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] REQUEST DETAILED TAXI INSTRUCTIONS;»</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) RUEDE A PUNTO DE ESPERA [(número)] (seguido de información de aeródromo cuando corresponda) [HORA (hora)];</p>
+<p>e) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] VÍA (trayecto concreto que ha de seguirse) [HORA (hora)] [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número) (o CRUCE PISTA (número))];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) TAXI TO HOLDING POINT [(number)] (followed by aerodrome information as applicable) [TIME (time)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">g) TOME (o VIRE) PRIMERA (o SEGUNDA) INTERSECCIÓN A IZQUIERDA (O DERECHA);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">g) TAKE (or TURN) FIRST (or SECOND) LEFT (or RIGHT);</p>
+<p>e) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] VIA (specific route to be followed) [TIME (time)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) RUEDE VÍA (identificación de calle de rodaje):</p>
+<p>f) RUEDE A PUNTO DE ESPERA [(número)] (seguido de información de aeródromo cuando corresponda) [HORA (hora)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) TAXI VIA (identification of taxiway);</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">i) RUEDE VÍA PISTA (número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">i) TAXI VIA RUNWAY (number);</p>
+<p>f) TAXI TO HOLDING POINT [(number)] (followed by aerodrome information as applicable) [TIME (time)];</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">j) RUEDE A TERMINAL (u otro emplazamiento, p. ej., ZONA DE AVIACIÓN GENERAL) [PUESTO ESTACIONAMIENTO (número)];</p>
+<p>g) TOME (o VIRE) PRIMERA (o SEGUNDA) INTERSECCIÓN A IZQUIERDA (O DERECHA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">j) TAXI TO TERMINAL (or other location, e.g. GENERAL AVIATION AREA) [STAND (number)];</p>
+<p>g) TAKE (or TURN) FIRST (or SECOND) LEFT (or RIGHT);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>h) RUEDE VÍA (identificación de calle de rodaje):</p>
+</td>
+<td>
+<p>h) TAXI VIA (identification of taxiway);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>i) RUEDE VÍA PISTA (número);</p>
+</td>
+<td>
+<p>i) TAXI VIA RUNWAY (number);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>j) RUEDE A TERMINAL (u otro emplazamiento, p. ej., ZONA DE AVIACIÓN GENERAL) [PUESTO ESTACIONAMIENTO (número)];</p>
+</td>
+<td>
+<p>j) TAXI TO TERMINAL (or other location, e.g. GENERAL AVIATION AREA) [STAND (number)];</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para operaciones de helicópteros</p>
+<p>... para operaciones de helicópteros</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*k) SOLICITO RODAJE AÉREO DE (o VÍA) A (emplazamiento o encaminamiento, según corresponda);</p>
+<p>*k) SOLICITO RODAJE AÉREO DE (o VÍA) A (emplazamiento o encaminamiento, según corresponda);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*k) REQUEST AIR-TAXIING FROM (or VIA) TO (location or routing as appropriate);</p>
-</td>
-</tr>
-<tr class="row_column_71">
-<td>
-<p class="cuerpo_tabla_izq">l) RODAJE AÉREO A (o VÍA) (emplazamiento o encaminamiento, según corresponda) [PRECAUCIÓN (polvo, ventisca alta, detritos libres, aeronaves ligeras en rodaje, personal, etc.)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">l) AIR-TAXI TO (or VIA) (location or routing as appropriate) [CAUTION (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc)];</p>
+<p>*k) REQUEST AIR-TAXIING FROM (or VIA) TO (location or routing as appropriate);</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">m) RODAJE AÉREO VÍA (ruta directa, solicitada o especificada) A (emplazamiento, helipuerto, área de operaciones o movimiento, pista activa o inactiva). EVITE (aeronave o vehículos o personal).</p>
+<p>l) RODAJE AÉREO A (o VÍA) (emplazamiento o encaminamiento, según corresponda) [PRECAUCIÓN (polvo, ventisca alta, detritos libres, aeronaves ligeras en rodaje, personal, etc.)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">m) AIR TAXI VIA (direct, as requested, or specified route) TO (location, heliport, operating or movement area, active or inactive runway). AVOID (aircraft or vehicles or personnel);</p>
+<p>l) AIR-TAXI TO (or VIA) (location or routing as appropriate) [CAUTION (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>m) RODAJE AÉREO VÍA (ruta directa, solicitada o especificada) A (emplazamiento, helipuerto, área de operaciones o movimiento, pista activa o inactiva). EVITE (aeronave o vehículos o personal).</p>
+</td>
+<td>
+<p>m) AIR TAXI VIA (direct, as requested, or specified route) TO (location, heliport, operating or movement area, active or inactive runway). AVOID (aircraft or vehicles or personnel);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... después del aterrizaje:</p>
+<p>... después del aterrizaje:</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*n) SOLICITO REGRESAR POR PISTA;</p>
+<p>*n) SOLICITO REGRESAR POR PISTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*n) REQUEST BACKTRACK;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">o) REGRESO POR PISTA APROBADO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">o) BACKTRACK APPROVED;</p>
+<p>*n) REQUEST BACKTRACK;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">p) REGRESO POR PISTA (número);</p>
+<p>o) REGRESO POR PISTA APROBADO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">p) BACKTRACK RUNWAY (number);</p>
+<p>o) BACKTRACK APPROVED;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>p) REGRESO POR PISTA (número);</p>
+</td>
+<td>
+<p>p) BACKTRACK RUNWAY (number);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... en general:</p>
+<p>... en general:</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*q) [(emplazamiento de la aeronave)] SOLICITO RODAJE A (destino en el aeródromo);</p>
+<p>*q) [(emplazamiento de la aeronave)] SOLICITO RODAJE A (destino en el aeródromo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*q) [(aircraft location)] REQUEST TAXI TO (destination on aerodrome);</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">r) RUEDE DE FRENTE;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">r) TAXI STRAIGHT AHEAD;</p>
+<p>*q) [(aircraft location)] REQUEST TAXI TO (destination on aerodrome);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">s) RUEDE CON PRECAUCIÓN;</p>
+<p>r) RUEDE DE FRENTE;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">s) TAXI WITH CAUTION;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">t) CEDA PASO A (descripción y posición de otras aeronaves);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">t) GIVE WAY TO (description and position of other aircraft);</p>
+<p>r) TAXI STRAIGHT AHEAD;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*u) CEDO PASO A (tránsito);</p>
+<p>s) RUEDE CON PRECAUCIÓN;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*u) GIVING WAY TO (traffic);</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">*v) TRÁNSITO (o tipo de aeronave) A LA VISTA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*v) TRAFFIC (or type of aircraft) IN SIGHT;</p>
+<p>s) TAXI WITH CAUTION;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">w) RUEDE A ZONA DE ESPERA;</p>
+<p>t) CEDA PASO A (descripción y posición de otras aeronaves);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">w) TAXI INTO HOLDING BAY;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">x) SIGA (descripción de otra aeronave o vehículo);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">x) FOLLOW (description of other aircraft or vehicle);</p>
+<p>t) GIVE WAY TO (description and position of other aircraft);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">y) ABANDONE PISTA;</p>
+<p>*u) CEDO PASO A (tránsito);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">y) VACATE RUNWAY;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">*z) PISTA LIBRE;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*z) RUNWAY VACATED;</p>
+<p>*u) GIVING WAY TO (traffic);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">aa) ACELERE RODAJE [(motivo)];</p>
+<p>*v) TRÁNSITO (o tipo de aeronave) A LA VISTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">aa) EXPEDITE TAXI [(reason)];</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">*bb) ACELERANDO RODAJE;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*bb) EXPEDITING;</p>
+<p>*v) TRAFFIC (or type of aircraft) IN SIGHT;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">cc) [PRECAUCIÓN] RUEDE MÁS LENTO [(motivo)];</p>
+<p>w) RUEDE A ZONA DE ESPERA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">cc) [CAUTION] TAXI SLOWER [(reason)];</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">*dd) RODANDO MÁS LENTO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*dd) SLOWING DOWN.</p>
+<p>w) TAXI INTO HOLDING BAY;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>x) SIGA (descripción de otra aeronave o vehículo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>x) FOLLOW (description of other aircraft or vehicle);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>y) ABANDONE PISTA;</p>
+</td>
+<td>
+<p>y) VACATE RUNWAY;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*z) PISTA LIBRE;</p>
+</td>
+<td>
+<p>*z) RUNWAY VACATED;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aa) ACELERE RODAJE [(motivo)];</p>
+</td>
+<td>
+<p>aa) EXPEDITE TAXI [(reason)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*bb) ACELERANDO RODAJE;</p>
+</td>
+<td>
+<p>*bb) EXPEDITING;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cc) [PRECAUCIÓN] RUEDE MÁS LENTO [(motivo)];</p>
+</td>
+<td>
+<p>cc) [CAUTION] TAXI SLOWER [(reason)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*dd) RODANDO MÁS LENTO.</p>
+</td>
+<td>
+<p>*dd) SLOWING DOWN.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -9253,71 +9130,67 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.10. Para cruzar una pista.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_60">
-<col class="row_column_61">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) SOLICITO CRUZAR PISTA (número);</p>
-<p class="cuerpo_tabla_izq">
+<p>*a) SOLICITO CRUZAR PISTA (número);</p>
+<p>
 <em>Nota: Si la torre de control no pudiera ver la aeronave que cruza (por ser de noche, por la escasa visibilidad), la instrucción debe ir acompañada en todos los casos de una petición de notificación cuando la aeronave haya dejado la pista libre.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) REQUEST CROSS RUNWAY (number);</p>
-<p class="cuerpo_tabla_izq">
+<p>*a) REQUEST CROSS RUNWAY (number);</p>
+<p>
 <em>Note: If the control tower is unable to see the crossing aircraft (e.g. night, low visibility), the instruction should always be accompanied by a request to report when the aircraft has vacated the runway.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) CRUCE PISTA (número) [NOTIFIQUE PISTA LIBRE];</p>
+<p>b) CRUCE PISTA (número) [NOTIFIQUE PISTA LIBRE];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) CROSS RUNWAY (number) [REPORT VACATED];</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">c) ACELERE CRUCE PISTA (número) TRÁNSITO (tipo de aeronave) (distancia) KILÓMETROS (o MILLAS) FINAL;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) EXPEDITE CROSSING RUNWAY (number) TRAFFIC (aircraft type) (distance) KILOMETRES (or MILES) FINAL;</p>
+<p>b) CROSS RUNWAY (number) [REPORT VACATED];</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) RUEDE A PUNTO DE ESPERA [número] [PISTA (número)] VÍA (ruta específica a seguir) [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número)] o [CRUCE PISTA (número)];</p>
+<p>c) ACELERE CRUCE PISTA (número) TRÁNSITO (tipo de aeronave) (distancia) KILÓMETROS (o MILLAS) FINAL;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) TAXI TO HOLDING POINT [number] [RUNWAY (number)] VIA (specific route to be followed) [HOLD SHORT OF RUNWAY (number)] or [CROSS RUNWAY (number)];</p>
+<p>c) EXPEDITE CROSSING RUNWAY (number) TRAFFIC (aircraft type) (distance) KILOMETRES (or MILES) FINAL;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td>
+<p>d) RUEDE A PUNTO DE ESPERA [número] [PISTA (número)] VÍA (ruta específica a seguir) [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número)] o [CRUCE PISTA (número)];</p>
+</td>
+<td>
+<p>d) TAXI TO HOLDING POINT [number] [RUNWAY (number)] VIA (specific route to be followed) [HOLD SHORT OF RUNWAY (number)] or [CROSS RUNWAY (number)];</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota: Cuando se le pida, el piloto notificará «PISTA LIBRE» cuando toda la aeronave esté más allá del punto de espera de la pista pertinente.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*e) PISTA LIBRE.</p>
+<p>*e) PISTA LIBRE.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*e) RUNWAY VACATED.</p>
+<p>*e) RUNWAY VACATED.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -9325,282 +9198,278 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.11. Preparación para el despegue.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_60">
-<col class="row_column_61">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) IMPOSIBLE APROBAR SALIDA (designador) DEBIDO (razones);</p>
+<p>a) IMPOSIBLE APROBAR SALIDA (designador) DEBIDO (razones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) UNABLE TO ISSUE (designator) DEPARTURE (reasons);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">b) NOTIFIQUE LISTO [PARA SALIDA];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) REPORT WHEN READY [FOR DEPARTURE];</p>
+<p>a) UNABLE TO ISSUE (designator) DEPARTURE (reasons);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) ¿LISTO [PARA SALIDA]?;</p>
+<p>b) NOTIFIQUE LISTO [PARA SALIDA];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) ARE YOU READY [FOR DEPARTURE]?;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">d) ¿LISTO PARA SALIDA INMEDIATA?;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) ARE YOU READY FOR IMMEDIATE DEPARTURE?;</p>
+<p>b) REPORT WHEN READY [FOR DEPARTURE];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*e) LISTO;</p>
+<p>c) ¿LISTO [PARA SALIDA]?;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*e) READY;</p>
+<p>c) ARE YOU READY [FOR DEPARTURE]?;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>d) ¿LISTO PARA SALIDA INMEDIATA?;</p>
+</td>
+<td>
+<p>d) ARE YOU READY FOR IMMEDIATE DEPARTURE?;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>*e) LISTO;</p>
+</td>
+<td>
+<p>*e) READY;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorización para entrar a la pista y esperar la autorización de despegue</p>
+<p>... autorización para entrar a la pista y esperar la autorización de despegue</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) ALINEE (o ENTRE) [Y MANTENGA];</p>
+<p>f) ALINEE (o ENTRE) [Y MANTENGA];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) LINE UP [AND WAIT];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">†g) ALINEE (o ENTRE) Y MANTENGA PISTA (número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">†g) LINE UP RUNWAY (number);</p>
+<p>f) LINE UP [AND WAIT];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) ALINEE (o ENTRE) Y MANTENGA. SALIDA INMEDIATA;</p>
+<p>†g) ALINEE (o ENTRE) Y MANTENGA PISTA (número);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) LINE UP. BE READY FOR IMMEDIATE DEPARTURE;</p>
+<p>†g) LINE UP RUNWAY (number);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>h) ALINEE (o ENTRE) Y MANTENGA. SALIDA INMEDIATA;</p>
+</td>
+<td>
+<p>h) LINE UP. BE READY FOR IMMEDIATE DEPARTURE;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... autorizaciones condicionales</p>
+<p>... autorizaciones condicionales</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">‡i) (condición) ALINEE (o ENTRE) Y MANTENGA (breve reiteración de la condición);</p>
+<p>‡i) (condición) ALINEE (o ENTRE) Y MANTENGA (breve reiteración de la condición);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">‡i) (condition) LINE UP (brief reiteration of the condition);</p>
+<p>‡i) (condition) LINE UP (brief reiteration of the condition);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... acuse de recibo de una autorización condicional</p>
+<p>... acuse de recibo de una autorización condicional</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*j) (condición) ALINEANDO (o ENTRANDO) Y MANTENIENDO (breve reiteración de la condición);</p>
+<p>*j) (condición) ALINEANDO (o ENTRANDO) Y MANTENIENDO (breve reiteración de la condición);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*j) (condition) LINING UP (brief reiteration of the condition);</p>
+<p>*j) (condition) LINING UP (brief reiteration of the condition);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... confirmación, o no confirmación de la colación de autorización condicional</p>
+<p>... confirmación, o no confirmación de la colación de autorización condicional</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">k) CORRECTO (o NEGATIVO [REPITO]... (según corresponda)).</p>
+<p>k) CORRECTO (o NEGATIVO [REPITO]... (según corresponda)).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">k) [THAT IS] CORRECT (or NEGATIVE [I SAY AGAIN]... (as appropriate)).</p>
+<p>k) [THAT IS] CORRECT (or NEGATIVE [I SAY AGAIN]... (as appropriate)).</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Solicitud de salida desde una posición de despegue en intersección:</p>
+<p>Solicitud de salida desde una posición de despegue en intersección:</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*l) SOLICITO SALIDA DESDE PISTA (número), INTERSECCIÓN (designación o nombre de la intersección);</p>
+<p>*l) SOLICITO SALIDA DESDE PISTA (número), INTERSECCIÓN (designación o nombre de la intersección);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*l) REQUEST DEPARTURE FROM RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
+<p>*l) REQUEST DEPARTURE FROM RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Aprobación de salida solicitada desde una posición de despegue en intersección</p>
+<p>Aprobación de salida solicitada desde una posición de despegue en intersección</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">m) AUTORIZADO, RUEDE HASTA PUNTO DE ESPERA PISTA (número), INTERSECCIÓN (designación o nombre de la intersección);</p>
+<p>m) AUTORIZADO, RUEDE HASTA PUNTO DE ESPERA PISTA (número), INTERSECCIÓN (designación o nombre de la intersección);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">m) APPROVED, TAXI TO HOLDING POINT RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
+<p>m) APPROVED, TAXI TO HOLDING POINT RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Denegación de salida solicitada desde una posición de despegue en intersección</p>
+<p>Denegación de salida solicitada desde una posición de despegue en intersección</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">n) NEGATIVO, RUEDE HASTA PUNTO DE ESPERA PISTA (número), INTERSECCIÓN (designación o nombre de intersección);</p>
+<p>n) NEGATIVO, RUEDE HASTA PUNTO DE ESPERA PISTA (número), INTERSECCIÓN (designación o nombre de intersección);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">n) NEGATIVE, TAXI TO HOLDING POINT RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
+<p>n) NEGATIVE, TAXI TO HOLDING POINT RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Despegue en intersección iniciado por ATC</p>
+<p>Despegue en intersección iniciado por ATC</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">o) INDIQUE SI ESTÁ LISTO PARA DESPEGAR DE LA PISTA (número), INTERSECCIÓN (designación o nombre de la intersección);</p>
+<p>o) INDIQUE SI ESTÁ LISTO PARA DESPEGAR DE LA PISTA (número), INTERSECCIÓN (designación o nombre de la intersección);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">o) ADVISE ABLE TO DEPART FROM RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
+<p>o) ADVISE ABLE TO DEPART FROM RUNWAY (number), INTERSECTION (designation or name of intersection);</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Indicación de distancia de recorrido de despegue disponible desde una posición de despegue en intersección</p>
+<p>Indicación de distancia de recorrido de despegue disponible desde una posición de despegue en intersección</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">p) TORA PISTA (número), DESDE INTERSECCIÓN (designación o nombre de la intersección), (distancia en metros);</p>
+<p>p) TORA PISTA (número), DESDE INTERSECCIÓN (designación o nombre de la intersección), (distancia en metros);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">p) TORA RUNWAY (number), FROM INTERSECTION (designation or name of intersection), (distance in metres);</p>
+<p>p) TORA RUNWAY (number), FROM INTERSECTION (designation or name of intersection), (distance in metres);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Instrucción para rodaje a posición de múltiples aeronaves</p>
+<p>Instrucción para rodaje a posición de múltiples aeronaves</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">q) ALINEE (o ENTRE) Y MANTENGA EN PISTA (número), INTERSECCIÓN (nombre de la intersección), (información de tránsito esencial);</p>
+<p>q) ALINEE (o ENTRE) Y MANTENGA EN PISTA (número), INTERSECCIÓN (nombre de la intersección), (información de tránsito esencial);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">q) LINE UP AND WAIT RUNWAY (number), INTERSECTION (name of intersection), (essential traffic information);</p>
+<p>q) LINE UP AND WAIT RUNWAY (number), INTERSECTION (name of intersection), (essential traffic information);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Solicitud de salida visual</p>
+<p>Solicitud de salida visual</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*r) SOLICITO SALIDA VISUAL [DIRECTO] A/HASTA (ayuda de navegación aérea, punto de recorrido, altitud);</p>
+<p>*r) SOLICITO SALIDA VISUAL [DIRECTO] A/HASTA (ayuda de navegación aérea, punto de recorrido, altitud);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*r) REQUEST VISUAL DEPARTURE [DIRECT] TO/UNTIL (navaid, waypoint, altitude);</p>
+<p>*r) REQUEST VISUAL DEPARTURE [DIRECT] TO/UNTIL (navaid, waypoint, altitude);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Salida visual iniciada por ATC</p>
+<p>Salida visual iniciada por ATC</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">s) INDIQUE SI PUEDE ACEPTAR UNA SALIDA VISUAL [DIRECTO] A/HASTA (ayuda de navegación aérea, punto de recorrido/altitud);</p>
+<p>s) INDIQUE SI PUEDE ACEPTAR UNA SALIDA VISUAL [DIRECTO] A/HASTA (ayuda de navegación aérea, punto de recorrido/altitud);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">s) ADVISE ABLE TO ACCEPT VISUAL DEPARTURE [DIRECT] TO/UNTIL (navaid, waypoint/altitude);</p>
+<p>s) ADVISE ABLE TO ACCEPT VISUAL DEPARTURE [DIRECT] TO/UNTIL (navaid, waypoint/altitude);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Autorización de salida visual</p>
+<p>Autorización de salida visual</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">t) APROBADA SALIDA VISUAL PISTA (número) VIRE A LA IZQUIERDA/ DERECHA [DIRECTO] A (ayuda de navegación aérea, rumbo, punto de recorrido) [MANTENGA REFERENCIA VISUAL HASTA (altitud)];</p>
+<p>t) APROBADA SALIDA VISUAL PISTA (número) VIRE A LA IZQUIERDA/ DERECHA [DIRECTO] A (ayuda de navegación aérea, rumbo, punto de recorrido) [MANTENGA REFERENCIA VISUAL HASTA (altitud)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">t) VISUAL DEPARTURE RUNWAY (number) APPROVED, TURN LEFT/RIGHT [DIRECT] TO (navaid, heading, waypoint) [MAINTAIN VISUAL REFERENCE UNTIL (altitude)];</p>
+<p>t) VISUAL DEPARTURE RUNWAY (number) APPROVED, TURN LEFT/RIGHT [DIRECT] TO (navaid, heading, waypoint) [MAINTAIN VISUAL REFERENCE UNTIL (altitude)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Colación de autorización de salida visual</p>
+<p>Colación de autorización de salida visual</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*u) SALIDA VISUAL A/HASTA (ayuda de navegación aérea, punto de recorrido/altitud).</p>
+<p>*u) SALIDA VISUAL A/HASTA (ayuda de navegación aérea, punto de recorrido/altitud).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*u) VISUAL DEPARTURE TO/UNTIL (navaid, waypoint/ altitude).</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>*u) VISUAL DEPARTURE TO/UNTIL (navaid, waypoint/ altitude).</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">† Cuando exista posibilidad de confusión durante operaciones en varias pistas a la vez.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">† When there is the possibility of confusion during multiple runway operations</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">‡ Las disposiciones relativas al uso de las autorizaciones condicionales figuran en 4.10.2.7.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">‡ Provisions concerning the use of conditional clearances are contained in 4.10.2.7.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>† Cuando exista posibilidad de confusión durante operaciones en varias pistas a la vez.</p>
+</td>
+<td>
+<p>† When there is the possibility of confusion during multiple runway operations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>‡ Las disposiciones relativas al uso de las autorizaciones condicionales figuran en 4.10.2.7.</p>
+</td>
+<td>
+<p>‡ Provisions concerning the use of conditional clearances are contained in 4.10.2.7.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Nota: TORA debe pronunciarse TORA (como palabra completa).</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note: TORA pronounced TOR-AH.</em>
 </p>
 </td>
@@ -9610,133 +9479,129 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.12. Autorización de despegue.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_60">
-<col class="row_column_61">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) (distintivo de llamada de la aeronave) PISTA (número) AUTORIZADO A DESPEGAR [NOTIFIQUE EN EL AIRE];</p>
+<p>a) (distintivo de llamada de la aeronave) PISTA (número) AUTORIZADO A DESPEGAR [NOTIFIQUE EN EL AIRE];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) (aircraft call sign) RUNWAY (number) CLEARED FOR TAKE-OFF [REPORT AIRBORNE];</p>
+<p>a) (aircraft call sign) RUNWAY (number) CLEARED FOR TAKE-OFF [REPORT AIRBORNE];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">...cuando se utiliza separación en la pista reducida</p>
+<p>...cuando se utiliza separación en la pista reducida</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) (distintivo de llamada de la aeronave) (información de tránsito) PISTA (número) AUTORIZADO A DESPEGAR;</p>
+<p>b) (distintivo de llamada de la aeronave) (información de tránsito) PISTA (número) AUTORIZADO A DESPEGAR;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) (aircraft call sign) (traffic information) RUNWAY (number) CLEARED FOR TAKE-OFF;</p>
+<p>b) (aircraft call sign) (traffic information) RUNWAY (number) CLEARED FOR TAKE-OFF;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">...cuando no se ha cumplido con la autorización de despegue</p>
+<p>...cuando no se ha cumplido con la autorización de despegue</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) (distintivo de llamada de la aeronave) DESPEGUE INMEDIATO O ABANDONE PISTA [(instrucciones)];</p>
+<p>c) (distintivo de llamada de la aeronave) DESPEGUE INMEDIATO O ABANDONE PISTA [(instrucciones)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) (aircraft call sign) TAKE OFF IMMEDIATELY OR VACATE RUNWAY [(instructions)];</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">d) (distintivo de llamada de la aeronave) DESPEGUE INMEDIATO O MANTENGA FUERA (o MANTENGA CORTO) DE PISTA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) (aircraft call sign) TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY;</p>
+<p>c) (aircraft call sign) TAKE OFF IMMEDIATELY OR VACATE RUNWAY [(instructions)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>d) (distintivo de llamada de la aeronave) DESPEGUE INMEDIATO O MANTENGA FUERA (o MANTENGA CORTO) DE PISTA;</p>
+</td>
+<td>
+<p>d) (aircraft call sign) TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para cancelar autorización de despegue:</p>
+<p>... para cancelar autorización de despegue:</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) (distintivo de llamada de la aeronave) MANTENGA POSICIÓN, CANCELE DESPEGUE REPITO CANCELE DESPEGUE (motivo);</p>
+<p>e) (distintivo de llamada de la aeronave) MANTENGA POSICIÓN, CANCELE DESPEGUE REPITO CANCELE DESPEGUE (motivo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) (aircraft call sign) HOLD POSITION, CANCEL TAKE-OFF I SAY AGAIN CANCEL TAKE-OFF (reasons);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">*f) (distintivo de llamada de la aeronave) MANTENGO POSICIÓN;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*f) (aircraft call sign) HOLDING;</p>
+<p>e) (aircraft call sign) HOLD POSITION, CANCEL TAKE-OFF I SAY AGAIN CANCEL TAKE-OFF (reasons);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>*f) (distintivo de llamada de la aeronave) MANTENGO POSICIÓN;</p>
+</td>
+<td>
+<p>*f) (aircraft call sign) HOLDING;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para detener un despegue después que la aeronave ha iniciado el recorrido de despegue</p>
+<p>... para detener un despegue después que la aeronave ha iniciado el recorrido de despegue</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) (distintivo de llamada de la aeronave) ABORTE DESPEGUE [(se repite el distintivo de llamada de la aeronave) ABORTE DESPEGUE];</p>
+<p>g) (distintivo de llamada de la aeronave) ABORTE DESPEGUE [(se repite el distintivo de llamada de la aeronave) ABORTE DESPEGUE];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) (aircraft call sign) STOP IMMEDIATELY [(repeat aircraft call sign) STOP IMMEDIATELY];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">*h) (distintivo de llamada de la aeronave) ABORTANDO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*h) (aircraft call sign) STOPPING;</p>
+<p>g) (aircraft call sign) STOP IMMEDIATELY [(repeat aircraft call sign) STOP IMMEDIATELY];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>*h) (distintivo de llamada de la aeronave) ABORTANDO;</p>
+</td>
+<td>
+<p>*h) (aircraft call sign) STOPPING;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para operaciones de helicópteros</p>
+<p>... para operaciones de helicópteros</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">i) (distintivo de llamada de la aeronave) AUTORIZADO A DESPEGAR [DE (emplazamiento)] (posición actual, calle de rodaje, área de aproximación final y de despegue, pista, número);</p>
+<p>i) (distintivo de llamada de la aeronave) AUTORIZADO A DESPEGAR [DE (emplazamiento)] (posición actual, calle de rodaje, área de aproximación final y de despegue, pista, número);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">i) (aircraft call sign) CLEARED FOR TAKE-OFF [FROM (location)] (present position, taxiway, final approach and take-off area, runway and number);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">*j) (distintivo de llamada de la aeronave) SOLICITO INSTRUCCIONES DE SALIDA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*j) (aircraft call sign) REQUEST DEPARTURE INSTRUCTIONS;</p>
+<p>i) (aircraft call sign) CLEARED FOR TAKE-OFF [FROM (location)] (present position, taxiway, final approach and take-off area, runway and number);</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">k) (distintivo de llamada de la aeronave) DESPUÉS DE LA SALIDA, VIRE DERECHA (o IZQUIERDA, o SUBA) (instrucciones según corresponda).</p>
+<p>*j) (distintivo de llamada de la aeronave) SOLICITO INSTRUCCIONES DE SALIDA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">k) (aircraft call sign) AFTER DEPARTURE TURN RIGHT (or LEFT, or CLIMB) (instructions as appropriate).</p>
+<p>*j) (aircraft call sign) REQUEST DEPARTURE INSTRUCTIONS;</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica transmisión del piloto.</p>
-<p class="cuerpo_tabla_izq">MANTENGO POSICION y PARO son las respuestas reglamentarias a e) y g), respectivamente.</p>
+<p>k) (distintivo de llamada de la aeronave) DESPUÉS DE LA SALIDA, VIRE DERECHA (o IZQUIERDA, o SUBA) (instrucciones según corresponda).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
-<p class="cuerpo_tabla_izq">HOLDING and STOPPING are the procedural responses to e) and g) respectively.</p>
+<p>k) (aircraft call sign) AFTER DEPARTURE TURN RIGHT (or LEFT, or CLIMB) (instructions as appropriate).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica transmisión del piloto.</p>
+<p>MANTENGO POSICION y PARO son las respuestas reglamentarias a e) y g), respectivamente.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
+<p>HOLDING and STOPPING are the procedural responses to e) and g) respectively.</p>
 </td>
 </tr>
 </tbody>
@@ -9744,105 +9609,101 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.13. Instrucciones para viraje o ascenso después del despegue.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_60">
-<col class="row_column_69">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) SOLICITO VIRAJE DERECHA (o IZQUIERDA);</p>
+<p>*a) SOLICITO VIRAJE DERECHA (o IZQUIERDA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) REQUEST RIGHT (or LEFT) TURN;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">b) APROBADO VIRAJE DERECHA (o IZQUIERDA);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) RIGHT (or LEFT) TURN APPROVED;</p>
+<p>*a) REQUEST RIGHT (or LEFT) TURN;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) ESPERE AUTORIZACIÓN DE VIRAJE DERECHA (o IZQUIERDA);</p>
+<p>b) APROBADO VIRAJE DERECHA (o IZQUIERDA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) WILL ADVISE LATER FOR RIGHT (or LEFT) TURN;</p>
+<p>b) RIGHT (or LEFT) TURN APPROVED;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>c) ESPERE AUTORIZACIÓN DE VIRAJE DERECHA (o IZQUIERDA);</p>
+</td>
+<td>
+<p>c) WILL ADVISE LATER FOR RIGHT (or LEFT) TURN;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para operaciones de helicópteros</p>
+<p>... para operaciones de helicópteros</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) NOTIFIQUE EN EL AIRE;</p>
+<p>d) NOTIFIQUE EN EL AIRE;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) REPORT AIRBORNE;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">e) EN EL AIRE (hora);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">e) AIRBORNE (time);</p>
+<p>d) REPORT AIRBORNE;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) CRUZANDO (nivel) (instrucciones);</p>
+<p>e) EN EL AIRE (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) AFTER PASSING (level) (instructions);</p>
+<p>e) AIRBORNE (time);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>f) CRUZANDO (nivel) (instrucciones);</p>
+</td>
+<td>
+<p>f) AFTER PASSING (level) (instructions);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... rumbo que ha de seguirse</p>
+<p>... rumbo que ha de seguirse</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) MANTENGA RUMBO DE PISTA (instrucciones);</p>
+<p>g) MANTENGA RUMBO DE PISTA (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) CONTINUE RUNWAY HEADING (instructions);</p>
+<p>g) CONTINUE RUNWAY HEADING (instructions);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando ha de seguirse una derrota determinada</p>
+<p>... cuando ha de seguirse una derrota determinada</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) MANTENGA TRAYECTORIA DE PISTA (instrucciones);</p>
+<p>h) MANTENGA TRAYECTORIA DE PISTA (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) TRACK EXTENDED CENTRE LINE (instructions);</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">i) SUBA DIRECTO (instrucciones).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">i) CLIMB STRAIGHT AHEAD (instructions).</p>
+<p>h) TRACK EXTENDED CENTRE LINE (instructions);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>i) SUBA DIRECTO (instrucciones).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>i) CLIMB STRAIGHT AHEAD (instructions).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -9850,63 +9711,59 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.14. Entrada (Ingreso) en el circuito de tránsito de un aeródromo.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_70">
-<col class="row_column_69">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(tipo de aeronave)] (posición) (nivel) INSTRUCCIONES PARA ATERRIZAR;</p>
+<p>*a) [(tipo de aeronave)] (posición) (nivel) INSTRUCCIONES PARA ATERRIZAR;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*a) [(aircraft type)] (position) (level) FOR LANDING;</p>
-</td>
-</tr>
-<tr class="row_column_72">
-<td>
-<p class="cuerpo_tabla_izq">b) ENTRE (o INGRESE) EN [(sentido del circuito)] (posición en el circuito) (número de pista) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) (unidades) [TEMPERATURA [MENOS] (número)] QNH (o QFE) (número) [(unidades)] [TRÁNSITO (detalles)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) JOIN [(direction of circuit)] [(position in circuit)] (runway number) [SURFACE] WIND (direction and speed) (units) [TEMPERATURE [MINUS] (number)] QNH (or QFE) (number) [(units)] [TRAFFIC (detail)];</p>
+<p>*a) [(aircraft type)] (position) (level) FOR LANDING;</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) EFECTÚE APROXIMACIÓN DIRECTA, PISTA (número) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) (unidades) [TEMPERATURA [MENOS] (número)] QNH (o QFE) (número) [(unidades)] [TRÁNSITO (detalles)];</p>
+<p>b) ENTRE (o INGRESE) EN [(sentido del circuito)] (posición en el circuito) (número de pista) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) (unidades) [TEMPERATURA [MENOS] (número)] QNH (o QFE) (número) [(unidades)] [TRÁNSITO (detalles)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) MAKE STRAIGHT-IN APPROACH, RUNWAY (number) [SURFACE] WIND (direction and speed) (units) [TEMPERATURE [MINUS] (number)] QNH (or QFE) (number) [(units)] [TRAFFIC (detail)];</p>
+<p>b) JOIN [(direction of circuit)] [(position in circuit)] (runway number) [SURFACE] WIND (direction and speed) (units) [TEMPERATURE [MINUS] (number)] QNH (or QFE) (number) [(units)] [TRAFFIC (detail)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>c) EFECTÚE APROXIMACIÓN DIRECTA, PISTA (número) VIENTO [EN LA SUPERFICIE] (dirección y velocidad) (unidades) [TEMPERATURA [MENOS] (número)] QNH (o QFE) (número) [(unidades)] [TRÁNSITO (detalles)];</p>
+</td>
+<td>
+<p>c) MAKE STRAIGHT-IN APPROACH, RUNWAY (number) [SURFACE] WIND (direction and speed) (units) [TEMPERATURE [MINUS] (number)] QNH (or QFE) (number) [(units)] [TRAFFIC (detail)];</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando se dispone de información ATIS</p>
+<p>... cuando se dispone de información ATIS</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*d) (tipo de aeronave) (posición) (nivel) INFORMACIÓN (identificación ATIS) PARA ATERRIZAR;</p>
+<p>*d) (tipo de aeronave) (posición) (nivel) INFORMACIÓN (identificación ATIS) PARA ATERRIZAR;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*d) (aircraft type) (position) (level) INFORMATION (ATIS identification) FOR LANDING;</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">e) ENTRE (o INGRESE) EN (posición en circuito) [PISTA (número)] QNH (o QFE) (número) [(unidades)] [TRÁNSITO (detalles)].</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">e) JOIN (position in circuit) [RUNWAY (number)] QNH (or QFE) (number) [(units)] [TRAFFIC (detail)].</p>
+<p>*d) (aircraft type) (position) (level) INFORMATION (ATIS identification) FOR LANDING;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>e) ENTRE (o INGRESE) EN (posición en circuito) [PISTA (número)] QNH (o QFE) (número) [(unidades)] [TRÁNSITO (detalles)].</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>e) JOIN (position in circuit) [RUNWAY (number)] QNH (or QFE) (number) [(units)] [TRAFFIC (detail)].</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -9921,52 +9778,48 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.16. Instrucciones para la aproximación.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) EFECTÚE APROXIMACIÓN CORTA;</p>
+<p>a) EFECTÚE APROXIMACIÓN CORTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) MAKE SHORT APPROACH;</p>
+<p>a) MAKE SHORT APPROACH;</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Nota: Se efectúa la notificación «FINAL LARGA» cuando la aeronave se dirige a la aproximación final a una distancia mayor de 7 km (4 NM) desde el punto de toma de contacto, o cuando la aeronave, en una aproximación directa, se halla a 15 km (8 NM) del punto de toma de contacto.</em>
 </p>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>En ambos casos se requiere la notificación «FINAL» a 7 km (4 NM) del punto de toma de contacto.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) EFECTÚE APROXIMACIÓN LARGA (o PROLONGUE A FAVOR DEL VIENTO);</p>
+<p>b) EFECTÚE APROXIMACIÓN LARGA (o PROLONGUE A FAVOR DEL VIENTO);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) MAKE LONG APPROACH (or EXTEND DOWNWIND);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">c) NOTIFIQUE EN BASE (o FINAL, o LARGA FINAL);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) REPORT BASE (or FINAL, or LONG FINAL);</p>
+<p>b) MAKE LONG APPROACH (or EXTEND DOWNWIND);</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) CONTINÚE APROXIMACIÓN [PREPARE POSIBLE MOTOR Y AL AIRE].</p>
+<p>c) NOTIFIQUE EN BASE (o FINAL, o LARGA FINAL);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) CONTINUE APPROACH [PREPARE FOR POSSIBLE GO AROUND].</p>
+<p>c) REPORT BASE (or FINAL, or LONG FINAL);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) CONTINÚE APROXIMACIÓN [PREPARE POSIBLE MOTOR Y AL AIRE].</p>
+</td>
+<td>
+<p>d) CONTINUE APPROACH [PREPARE FOR POSSIBLE GO AROUND].</p>
 </td>
 </tr>
 </tbody>
@@ -9974,136 +9827,132 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.17. Autorización de aterrizaje.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) (distintivo de llamada de la aeronave) PISTA (número) AUTORIZADO PARA ATERRIZAR;</p>
+<p>a) (distintivo de llamada de la aeronave) PISTA (número) AUTORIZADO PARA ATERRIZAR;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) (aircraft call sign) RUNWAY (number) CLEARED TO LAND;</p>
+<p>a) (aircraft call sign) RUNWAY (number) CLEARED TO LAND;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando se utiliza separación reducida en la pista</p>
+<p>... cuando se utiliza separación reducida en la pista</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) (distintivo de llamada de la aeronave) (información de tránsito) PISTA (número) AUTORIZADO PARA ATERRIZAR;</p>
+<p>b) (distintivo de llamada de la aeronave) (información de tránsito) PISTA (número) AUTORIZADO PARA ATERRIZAR;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) (aircraft call sign) (traffic information) RUNWAY (number) CLEARED TO LAND;</p>
+<p>b) (aircraft call sign) (traffic information) RUNWAY (number) CLEARED TO LAND;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... operaciones especiales</p>
+<p>... operaciones especiales</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) (distintivo de llamada de la aeronave) AUTORIZADO A TOMA (o PARA TOQUE) Y DESPEGUE;</p>
+<p>c) (distintivo de llamada de la aeronave) AUTORIZADO A TOMA (o PARA TOQUE) Y DESPEGUE;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) (aircraft call sign) CLEARED TOUCH AND GO;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">d) (distintivo de llamada de la aeronave) EFECTÚE ATERRIZAJE COMPLETO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) (aircraft call sign) MAKE FULL STOP;</p>
+<p>c) (aircraft call sign) CLEARED TOUCH AND GO;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td>
+<p>d) (distintivo de llamada de la aeronave) EFECTÚE ATERRIZAJE COMPLETO;</p>
+</td>
+<td>
+<p>d) (aircraft call sign) MAKE FULL STOP;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para hacer una aproximación a lo largo de una pista, o paralelamente a ella, descendiendo a un nivel mínimo convenido</p>
+<p>... para hacer una aproximación a lo largo de una pista, o paralelamente a ella, descendiendo a un nivel mínimo convenido</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*e) (distintivo de llamada de la aeronave) SOLICITO APROXIMACIÓN BAJA (razones);</p>
+<p>*e) (distintivo de llamada de la aeronave) SOLICITO APROXIMACIÓN BAJA (razones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*e) (aircraft call sign) REQUEST LOW APPROACH (reasons);</p>
-</td>
-</tr>
-<tr class="row_column_50">
-<td>
-<p class="cuerpo_tabla_izq">f) (distintivo de llamada de la aeronave) AUTORIZADO PARA APROXIMACIÓN BAJA [PISTA (número)] [(restricción de altitud si fuera necesario) (instrucciones para motor y al aire)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">f) (aircraft call sign) CLEARED LOW APPROACH [RUNWAY (number)] [(altitude restriction if required) (go around instructions)];</p>
+<p>*e) (aircraft call sign) REQUEST LOW APPROACH (reasons);</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td>
+<p>f) (distintivo de llamada de la aeronave) AUTORIZADO PARA APROXIMACIÓN BAJA [PISTA (número)] [(restricción de altitud si fuera necesario) (instrucciones para motor y al aire)];</p>
+</td>
+<td>
+<p>f) (aircraft call sign) CLEARED LOW APPROACH [RUNWAY (number)] [(altitude restriction if required) (go around instructions)];</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para sobrevolar la torre de control u otro punto de observación para inspección visual por personas en tierra</p>
+<p>... para sobrevolar la torre de control u otro punto de observación para inspección visual por personas en tierra</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*g) (distintivo de llamada de la aeronave) SOLICITO PASADA BAJA (razones);</p>
+<p>*g) (distintivo de llamada de la aeronave) SOLICITO PASADA BAJA (razones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*g) (aircraft call sign) REQUEST LOW PASS (reasons);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">h) (distintivo de llamada de la aeronave) AUTORIZADO A PASADA BAJA [(como en f))].</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">h) (aircraft call sign) CLEARED LOW PASS [(as in f))].</p>
+<p>*g) (aircraft call sign) REQUEST LOW PASS (reasons);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>h) (distintivo de llamada de la aeronave) AUTORIZADO A PASADA BAJA [(como en f))].</p>
+</td>
+<td>
+<p>h) (aircraft call sign) CLEARED LOW PASS [(as in f))].</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para operaciones de helicópteros</p>
+<p>... para operaciones de helicópteros</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*i) (distintivo de llamada de la aeronave) SOLICITO APROXIMACIÓN DIRECTA (o EN CIRCUITO (o INGRESAR CIRCUITO), IZQUIERDO (o DERECHO) A (emplazamiento));</p>
+<p>*i) (distintivo de llamada de la aeronave) SOLICITO APROXIMACIÓN DIRECTA (o EN CIRCUITO (o INGRESAR CIRCUITO), IZQUIERDO (o DERECHO) A (emplazamiento));</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*i) (aircraft call sign) REQUEST STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location));</p>
-</td>
-</tr>
-<tr class="row_column_77">
-<td>
-<p class="cuerpo_tabla_izq">j) (distintivo de llamada de la aeronave) EFECTÚE APROXIMACIÓN DIRECTA (o EN CIRCUITO (o INGRESE CIRCUITO), IZQUIERDO (o DERECHO) A (emplazamiento, pista, calle de rodaje, área de aproximación final y de despegue) [LLEGADA (o RUTA DE LLEGADA) (número, nombre o código)]. [MANTENGA FUERA (o MANTENGA CORTO) DE (pista activa, prolongación del eje de la pista, otros lugares)]. [PERMANEZCA (orientación o distancia respecto a) DE (la pista, el eje de la pista, otro helicóptero o aeronave)]. [PRECAUCIÓN (líneas de conducción de energía eléctrica, obstrucciones sin iluminar, estela turbulenta, etc.)]. AUTORIZADO PARA ATERRIZAR DETRÁS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">j) (aircraft call sign) MAKE STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location, runway, taxiway, final approach and take-off area)) [ARRIVAL (or ARRIVAL ROUTE) (number, name, or code)]. [HOLD SHORT OF (active runway, extended runway centre line, other)]. [REMAIN (direction or distance) FROM (runway, runway centre line, other helicopter or aircraft)]. [CAUTION (power lines, unlighted obstructions, wake turbulence, etc.)]. CLEARED TO LAND BEHIND.</p>
+<p>*i) (aircraft call sign) REQUEST STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location));</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>j) (distintivo de llamada de la aeronave) EFECTÚE APROXIMACIÓN DIRECTA (o EN CIRCUITO (o INGRESE CIRCUITO), IZQUIERDO (o DERECHO) A (emplazamiento, pista, calle de rodaje, área de aproximación final y de despegue) [LLEGADA (o RUTA DE LLEGADA) (número, nombre o código)]. [MANTENGA FUERA (o MANTENGA CORTO) DE (pista activa, prolongación del eje de la pista, otros lugares)]. [PERMANEZCA (orientación o distancia respecto a) DE (la pista, el eje de la pista, otro helicóptero o aeronave)]. [PRECAUCIÓN (líneas de conducción de energía eléctrica, obstrucciones sin iluminar, estela turbulenta, etc.)]. AUTORIZADO PARA ATERRIZAR DETRÁS.</p>
+</td>
+<td>
+<p>j) (aircraft call sign) MAKE STRAIGHT-IN (or CIRCLING APPROACH, LEFT (or RIGHT) TURN TO (location, runway, taxiway, final approach and take-off area)) [ARRIVAL (or ARRIVAL ROUTE) (number, name, or code)]. [HOLD SHORT OF (active runway, extended runway centre line, other)]. [REMAIN (direction or distance) FROM (runway, runway centre line, other helicopter or aircraft)]. [CAUTION (power lines, unlighted obstructions, wake turbulence, etc.)]. CLEARED TO LAND BEHIND.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para autorizar un aterrizaje en cumplimiento de 4.5.10.1.1.1.</p>
+<p>... para autorizar un aterrizaje en cumplimiento de 4.5.10.1.1.1.</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">k) DETRÁS DEL (tipo de aeronave) ATERRIZANDO EN PISTA (o DESPEGANDO DE PISTA) (número) AUTORIZADO A ATERRIZAR.</p>
+<p>k) DETRÁS DEL (tipo de aeronave) ATERRIZANDO EN PISTA (o DESPEGANDO DE PISTA) (número) AUTORIZADO A ATERRIZAR.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">k) BEHIND (type of aircraft) LANDING RUNWAY (or TAKING OFF RUNWAY) (number) CLEARED TO LAND.</p>
+<p>k) BEHIND (type of aircraft) LANDING RUNWAY (or TAKING OFF RUNWAY) (number) CLEARED TO LAND.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>* Indica una transmisión del piloto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -10125,86 +9974,82 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.20. Información a las aeronaves.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando el piloto haya solicitado la inspección visual del tren de aterrizaje</p>
+<p>... cuando el piloto haya solicitado la inspección visual del tren de aterrizaje</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) TREN DE ATERRIZAJE APARENTEMENTE ABAJO;</p>
+<p>a) TREN DE ATERRIZAJE APARENTEMENTE ABAJO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) LANDING GEAR APPEARS DOWN;</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">b) LA RUEDA DERECHA (o IZQUIERDA, o DE PROA (o DE MORRO)) APARENTEMENTE ARRIBA (o ABAJO);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) RIGHT (or LEFT, or NOSE) WHEEL APPEARS UP (or DOWN);</p>
+<p>a) LANDING GEAR APPEARS DOWN;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) LAS RUEDAS APARENTEMENTE ARRIBA;</p>
+<p>b) LA RUEDA DERECHA (o IZQUIERDA, o DE PROA (o DE MORRO)) APARENTEMENTE ARRIBA (o ABAJO);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) WHEELS APPEAR UP;</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">d) LA RUEDA DERECHA (o IZQUIERDA, o DE PROA (o DE MORRO)) NO APARENTEMENTE ARRIBA (o ABAJO);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) RIGHT (or LEFT, or NOSE) WHEEL DOES NOT APPEAR UP (or DOWN);</p>
+<p>b) RIGHT (or LEFT, or NOSE) WHEEL APPEARS UP (or DOWN);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>c) LAS RUEDAS APARENTEMENTE ARRIBA;</p>
+</td>
+<td>
+<p>c) WHEELS APPEAR UP;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) LA RUEDA DERECHA (o IZQUIERDA, o DE PROA (o DE MORRO)) NO APARENTEMENTE ARRIBA (o ABAJO);</p>
+</td>
+<td>
+<p>d) RIGHT (or LEFT, or NOSE) WHEEL DOES NOT APPEAR UP (or DOWN);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... estela turbulenta</p>
+<p>... estela turbulenta</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) PRECAUCIÓN ESTELA TURBULENTA [DE AERONAVE (tipo) QUE LLEGA (o SALE)] [(otras informaciones que se requieran)];</p>
+<p>e) PRECAUCIÓN ESTELA TURBULENTA [DE AERONAVE (tipo) QUE LLEGA (o SALE)] [(otras informaciones que se requieran)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) CAUTION WAKE TURBULENCE [FROM ARRIVING (or DEPARTING) (type of aircraft)] [(additional information as required)];</p>
+<p>e) CAUTION WAKE TURBULENCE [FROM ARRIVING (or DEPARTING) (type of aircraft)] [(additional information as required)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... chorro de reactor en la plataforma o en la calle de rodaje</p>
+<p>... chorro de reactor en la plataforma o en la calle de rodaje</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) PRECAUCIÓN CHORRO DE REACTOR;</p>
+<p>f) PRECAUCIÓN CHORRO DE REACTOR;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) CAUTION JET BLAST;</p>
+<p>f) CAUTION JET BLAST;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... estela de aeronave de hélice</p>
+<p>... estela de aeronave de hélice</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) PRECAUCIÓN ESTELA.</p>
+<p>g) PRECAUCIÓN ESTELA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) CAUTION SLIPSTREAM.</p>
+<p>g) CAUTION SLIPSTREAM.</p>
 </td>
 </tr>
 </tbody>
@@ -10212,79 +10057,75 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.21. Pista libre y comunicaciones después del aterrizaje.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) LLAME (o CONTACTE) CONTROL DE SUPERFICIE (frecuencia);</p>
+<p>a) LLAME (o CONTACTE) CONTROL DE SUPERFICIE (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CONTACT GROUND (frequency);</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">b) ABANDONANDO PISTA LLAME (o CONTACTE) CONTROL DE SUPERFICIE (frecuencia);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) WHEN VACATED CONTACT GROUND (frequency);</p>
+<p>a) CONTACT GROUND (frequency);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) ACELERE ABANDONO DE PISTA;</p>
+<p>b) ABANDONANDO PISTA LLAME (o CONTACTE) CONTROL DE SUPERFICIE (frecuencia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) EXPEDITE VACATING;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">d) PUESTO (o PUERTA) (designación);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) YOUR STAND (or GATE) (designation);</p>
+<p>b) WHEN VACATED CONTACT GROUND (frequency);</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) TOME (o VIRE EN) LA PRIMERA (o LA SEGUNDA, o LA CONVENIENTE) INTERSECCIÓN A LA IZQUIERDA (o A LA DERECHA) Y LLAME (o CONTACTE) CONTROL DE SUPERFICIE (frecuencia).</p>
+<p>c) ACELERE ABANDONO DE PISTA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) TAKE (or TURN) FIRST (or SECOND, or CONVENIENT) LEFT (or RIGHT) AND CONTACT GROUND (frequency).</p>
+<p>c) EXPEDITE VACATING;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>d) PUESTO (o PUERTA) (designación);</p>
+</td>
+<td>
+<p>d) YOUR STAND (or GATE) (designation);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>e) TOME (o VIRE EN) LA PRIMERA (o LA SEGUNDA, o LA CONVENIENTE) INTERSECCIÓN A LA IZQUIERDA (o A LA DERECHA) Y LLAME (o CONTACTE) CONTROL DE SUPERFICIE (frecuencia).</p>
+</td>
+<td>
+<p>e) TAKE (or TURN) FIRST (or SECOND, or CONVENIENT) LEFT (or RIGHT) AND CONTACT GROUND (frequency).</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para operaciones de helicópteros</p>
+<p>... para operaciones de helicópteros</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) RODAJE AÉREO A PUESTO DE HELICÓPTEROS (o) PUESTO DE ESTACIONAMIENTO DE HELICÓPTEROS (área);</p>
+<p>f) RODAJE AÉREO A PUESTO DE HELICÓPTEROS (o) PUESTO DE ESTACIONAMIENTO DE HELICÓPTEROS (área);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) AIR-TAXI TO HELICOPTER STAND (or) HELICOPTER PARKING POSITION (area);</p>
-</td>
-</tr>
-<tr class="row_column_50">
-<td>
-<p class="cuerpo_tabla_izq">g) RODAJE AÉREO A (o VÍA) (emplazamiento o encaminamiento, según corresponda) [PRECAUCIÓN (polvo, ventisca alta, detritos libres, aeronaves ligeras en rodaje, personal, etc.)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">g) AIR-TAXI TO (or VIA) (location or routing as appropriate) [CAUTION (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc.)];</p>
+<p>f) AIR-TAXI TO HELICOPTER STAND (or) HELICOPTER PARKING POSITION (area);</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">h) RODAJE AÉREO VÍA (ruta directa, solicitada o especificada) A (emplazamiento, helipuerto, área de operaciones o movimiento, pista activa o inactiva). EVITE (aeronave o vehículos o personal).</p>
+<p>g) RODAJE AÉREO A (o VÍA) (emplazamiento o encaminamiento, según corresponda) [PRECAUCIÓN (polvo, ventisca alta, detritos libres, aeronaves ligeras en rodaje, personal, etc.)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">h) AIR TAXI VIA (direct, as requested, or specified route) TO (location, heliport, operating or movement area, active or inactive runway). AVOID (aircraft or vehicles or personnel).</p>
+<p>g) AIR-TAXI TO (or VIA) (location or routing as appropriate) [CAUTION (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc.)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>h) RODAJE AÉREO VÍA (ruta directa, solicitada o especificada) A (emplazamiento, helipuerto, área de operaciones o movimiento, pista activa o inactiva). EVITE (aeronave o vehículos o personal).</p>
+</td>
+<td>
+<p>h) AIR TAXI VIA (direct, as requested, or specified route) TO (location, heliport, operating or movement area, active or inactive runway). AVOID (aircraft or vehicles or personnel).</p>
 </td>
 </tr>
 </tbody>
@@ -10292,101 +10133,97 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.4.22. ATFM.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... Hora de despegue calculada (CTOT) a partir de un mensaje de asignación de turno de salida (SAM). (La CTOT se comunicará al piloto al establecerse el primer contacto con el ATC.)</p>
+<p>... Hora de despegue calculada (CTOT) a partir de un mensaje de asignación de turno de salida (SAM). (La CTOT se comunicará al piloto al establecerse el primer contacto con el ATC.)</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) SLOT (o TURNO) (hora);</p>
+<p>a) SLOT (o TURNO) (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) SLOT (time);</p>
+<p>a) SLOT (time);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... Cambio de la CTOT que resulta de un mensaje de revisión de turno (SRM)</p>
+<p>... Cambio de la CTOT que resulta de un mensaje de revisión de turno (SRM)</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) SLOT (o TURNO) REVISADO (hora);</p>
+<p>b) SLOT (o TURNO) REVISADO (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) REVISED SLOT (time);</p>
+<p>b) REVISED SLOT (time);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cancelación de CTOT a partir de un mensaje de cancelación de turno (SLC).</p>
+<p>... cancelación de CTOT a partir de un mensaje de cancelación de turno (SLC).</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) SLOT (o TURNO) CANCELADO, AVISE CUANDO ESTÉ LISTO;</p>
+<p>c) SLOT (o TURNO) CANCELADO, AVISE CUANDO ESTÉ LISTO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) SLOT CANCELLED, REPORT READY;</p>
+<p>c) SLOT CANCELLED, REPORT READY;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... suspensión de un vuelo hasta nuevo aviso (no se conoce la EOBT REVISADA) [debido a un mensaje de suspensión de vuelo (FLS)]</p>
+<p>... suspensión de un vuelo hasta nuevo aviso (no se conoce la EOBT REVISADA) [debido a un mensaje de suspensión de vuelo (FLS)]</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) VUELO SUSPENDIDO HASTA NUEVO AVISO, CAUSA (motivo);</p>
+<p>d) VUELO SUSPENDIDO HASTA NUEVO AVISO, CAUSA (motivo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) FLIGHT SUSPENDED UNTIL FURTHER NOTICE, DUE (reason);</p>
+<p>d) FLIGHT SUSPENDED UNTIL FURTHER NOTICE, DUE (reason);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... reanudación de un vuelo a partir de un mensaje de suspensión (DES)</p>
+<p>... reanudación de un vuelo a partir de un mensaje de suspensión (DES)</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) SUSPENSIÓN CANCELADA, AVISE CUANDO ESTÉ LISTO;</p>
+<p>e) SUSPENSIÓN CANCELADA, AVISE CUANDO ESTÉ LISTO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) SUSPENSION CANCELLED, REPORT READY;</p>
+<p>e) SUSPENSION CANCELLED, REPORT READY;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... puesta en marcha denegada cuando se solicita muy tarde para cumplir la CTOT especificada.</p>
+<p>... puesta en marcha denegada cuando se solicita muy tarde para cumplir la CTOT especificada.</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) IMPOSIBLE AUTORIZAR PUESTA EN MARCHA CAUSA SLOT (o TURNO) EXPIRADO, SOLICITE NUEVO SLOT (o TURNO);</p>
+<p>f) IMPOSIBLE AUTORIZAR PUESTA EN MARCHA CAUSA SLOT (o TURNO) EXPIRADO, SOLICITE NUEVO SLOT (o TURNO);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) UNABLE TO APPROVE START-UP CLEARANCE DUE SLOT EXPIRED, REQUEST A NEW SLOT;</p>
+<p>f) UNABLE TO APPROVE START-UP CLEARANCE DUE SLOT EXPIRED, REQUEST A NEW SLOT;</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... puesta en marcha denegada cuando se solicita muy temprano para cumplir con el CTOT especificado.</p>
+<p>... puesta en marcha denegada cuando se solicita muy temprano para cumplir con el CTOT especificado.</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) IMPOSIBLE AUTORIZAR PUESTA EN MARCHA DEBIDO A SLOT (o CAUSA TURNO) (hora) SOLICITE PUESTA EN MARCHA A (hora).</p>
+<p>g) IMPOSIBLE AUTORIZAR PUESTA EN MARCHA DEBIDO A SLOT (o CAUSA TURNO) (hora) SOLICITE PUESTA EN MARCHA A (hora).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) UNABLE TO APPROVE START-UP CLEARANCE DUE SLOT (time), REQUEST START-UP AT (time).</p>
+<p>g) UNABLE TO APPROVE START-UP CLEARANCE DUE SLOT (time), REQUEST START-UP AT (time).</p>
 </td>
 </tr>
 </tbody>
@@ -10396,92 +10233,88 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.5.1. Previsiones y revisiones.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) ESTIMADA [(dirección del vuelo)] (distintivo de llamada de la aeronave) [USANDO TRANSPONDER (código SSR)] (tipo) ESTIMADO (punto significativo) (hora) (nivel) [o DESCENDIENDO DE (nivel) A (nivel)] o [VELOCIDAD (TAS presentada)] (ruta) [OBSERVACIONES];</p>
+<p>a) ESTIMADA [(dirección del vuelo)] (distintivo de llamada de la aeronave) [USANDO TRANSPONDER (código SSR)] (tipo) ESTIMADO (punto significativo) (hora) (nivel) [o DESCENDIENDO DE (nivel) A (nivel)] o [VELOCIDAD (TAS presentada)] (ruta) [OBSERVACIONES];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) ESTIMATE [(direction of flight)] (aircraft call sign) [SQUAWKING (SSR Code)] (type) ESTIMATED (significant point) (time) (level) (or DESCENDING FROM (level) TO (level)) [SPEED (filed TAS)] (route) [REMARKS];</p>
+<p>a) ESTIMATE [(direction of flight)] (aircraft call sign) [SQUAWKING (SSR Code)] (type) ESTIMATED (significant point) (time) (level) (or DESCENDING FROM (level) TO (level)) [SPEED (filed TAS)] (route) [REMARKS];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... equipo transmisor</p>
+<p>... equipo transmisor</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) ESTIMADO (punto significativo) (distintivo de llamada de la aeronave);</p>
+<p>b) ESTIMADO (punto significativo) (distintivo de llamada de la aeronave);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) ESTIMATE (significant point) ON (aircraft call sign);</p>
+<p>b) ESTIMATE (significant point) ON (aircraft call sign);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... respuesta del equipo receptor (si no se cuenta con detalles del plan de vuelo)</p>
+<p>... respuesta del equipo receptor (si no se cuenta con detalles del plan de vuelo)</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) SIN DETALLES;</p>
+<p>c) SIN DETALLES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) NO DETAILS;</p>
+<p>c) NO DETAILS;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... respuesta del equipo receptor (si se cuenta con detalles del plan de vuelo)</p>
+<p>... respuesta del equipo receptor (si se cuenta con detalles del plan de vuelo)</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">(tipo de aeronave) (destino);</p>
+<p>(tipo de aeronave) (destino);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(aircraft type) (destination);</p>
+<p>(aircraft type) (destination);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... respuesta de la estación transmisora</p>
+<p>... respuesta de la estación transmisora</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">[TRANSPONDER (código SSR)] [ESTIMANDO] (punto significativo) (hora) A (nivel);</p>
-<p class="cuerpo_tabla_izq">
+<p>[TRANSPONDER (código SSR)] [ESTIMANDO] (punto significativo) (hora) A (nivel);</p>
+<p>
 <em>Nota: En caso de no disponerse de los detalles del plan de vuelo, la estación receptora responderá a b) NO HAY DETALLES y la estación transmisora dará la previsión completa como se indica en a).</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">[SQUAWKING (SSR code)] [ESTIMATED] (significant point) (time) AT (level);</p>
-<p class="cuerpo_tabla_izq">
+<p>[SQUAWKING (SSR code)] [ESTIMATED] (significant point) (time) AT (level);</p>
+<p>
 <em>Note: In the event that flight plan details are not available the receiving station shall reply to b) NO DETAILS and transmitting station shall pass full estimate as in a).</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_78">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) GLOBO(S) LIBRE(S) NO TRIPULADO(S) (identificación y clasificación) ESTIMADO(S) SOBRE (lugar) A LAS (hora) (NIVEL(ES) DE VUELO NOTIFICADO(S) (cifra o cifras) [(o NIVEL(ES) DE VUELO DESCONOCIDO(S)] DESPLAZÁNDOSE HACIA (dirección) VELOCIDAD ESTIMADA RESPECTO AL SUELO (cifra) (otra información pertinente, si la hubiera);</p>
+<p>d) GLOBO(S) LIBRE(S) NO TRIPULADO(S) (identificación y clasificación) ESTIMADO(S) SOBRE (lugar) A LAS (hora) (NIVEL(ES) DE VUELO NOTIFICADO(S) (cifra o cifras) [(o NIVEL(ES) DE VUELO DESCONOCIDO(S)] DESPLAZÁNDOSE HACIA (dirección) VELOCIDAD ESTIMADA RESPECTO AL SUELO (cifra) (otra información pertinente, si la hubiera);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) ESTIMATE UNMANNED FREE BALLOON(S) (identification and classification) ESTIMATED OVER (place) AT (time) REPORTED FLIGHT LEVEL(S) (figure or figures) [or FLIGHT LEVEL UNKNOWN] MOVING (direction) ESTIMATED GROUND SPEED (figure) (other pertinent information, if any);</p>
+<p>d) ESTIMATE UNMANNED FREE BALLOON(S) (identification and classification) ESTIMATED OVER (place) AT (time) REPORTED FLIGHT LEVEL(S) (figure or figures) [or FLIGHT LEVEL UNKNOWN] MOVING (direction) ESTIMATED GROUND SPEED (figure) (other pertinent information, if any);</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) REVISIÓN (distintivo de llamada de la aeronave) (detalles que sean necesarios).</p>
+<p>e) REVISIÓN (distintivo de llamada de la aeronave) (detalles que sean necesarios).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) REVISION (aircraft call sign) (details as necessary).</p>
+<p>e) REVISION (aircraft call sign) (details as necessary).</p>
 </td>
 </tr>
 </tbody>
@@ -10529,36 +10362,32 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.5.8. Operaciones con separación vertical mínima reducida (RVSM).
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_59">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para complementar oralmente los mensajes de previsión de la aeronave sin aprobación RVSM o para complementar oralmente un intercambio automatizado de mensajes de previsión que no transfiera automáticamente la información de la Casilla 18 del plan de vuelo seguida de información suplementaria según corresponda.</p>
+<p>… para complementar oralmente los mensajes de previsión de la aeronave sin aprobación RVSM o para complementar oralmente un intercambio automatizado de mensajes de previsión que no transfiera automáticamente la información de la Casilla 18 del plan de vuelo seguida de información suplementaria según corresponda.</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) NEGATIVO RVSM [(información suplementaria, por ejemplo de aeronave de Estado)];</p>
+<p>a) NEGATIVO RVSM [(información suplementaria, por ejemplo de aeronave de Estado)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) NEGATIVE RVSM [(supplementary information, e.g. State aircraft)];</p>
+<p>a) NEGATIVE RVSM [(supplementary information, e.g. State aircraft)];</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para comunicar la causa de una contingencia relativa a una aeronave que no puede efectuar operaciones RVSM debido a turbulencia fuerte u otro fenómeno meteorológico fuerte o fallo de equipo, según corresponda.</p>
+<p>… para comunicar la causa de una contingencia relativa a una aeronave que no puede efectuar operaciones RVSM debido a turbulencia fuerte u otro fenómeno meteorológico fuerte o fallo de equipo, según corresponda.</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) RVSM IMPOSIBLE DEBIDO A TURBULENCIA (o EQUIPO, según corresponda).</p>
+<p>b) RVSM IMPOSIBLE DEBIDO A TURBULENCIA (o EQUIPO, según corresponda).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) UNABLE RVSM DUE TO TURBULENCE (<em>or </em>EQUIPMENT, <em>as applicable</em>).</p>
+<p>b) UNABLE RVSM DUE TO TURBULENCE (<em>or </em>EQUIPMENT, <em>as applicable</em>).</p>
 </td>
 </tr>
 </tbody>
@@ -10566,36 +10395,32 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.5.9. Operaciones RNAV.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_59">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para complementar oralmente los mensajes de previsión de la aeronave sin aprobación RNAV o para complementar oralmente un intercambio automatizado de mensajes de previsión que no transfiera automáticamente la información de la Casilla 18 del plan de vuelo seguida de información suplementaria según corresponda.</p>
+<p>… para complementar oralmente los mensajes de previsión de la aeronave sin aprobación RNAV o para complementar oralmente un intercambio automatizado de mensajes de previsión que no transfiera automáticamente la información de la Casilla 18 del plan de vuelo seguida de información suplementaria según corresponda.</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) RNAV NEGATIVO [(información suplementaria)];</p>
+<p>a) RNAV NEGATIVO [(información suplementaria)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) NEGATIVE RNAV [(supplementary information)];</p>
+<p>a) NEGATIVE RNAV [(supplementary information)];</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para comunicar la causa de una contingencia relativa a una aeronave que no puede efectuar operaciones debido al fallo o degradación del sistema RNAV...</p>
+<p>… para comunicar la causa de una contingencia relativa a una aeronave que no puede efectuar operaciones debido al fallo o degradación del sistema RNAV...</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) RNAV FUERA DE SERVICIO</p>
+<p>b) RNAV FUERA DE SERVICIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) RNAV OUT OF SERVICE</p>
+<p>b) RNAV OUT OF SERVICE</p>
 </td>
 </tr>
 </tbody>
@@ -10605,75 +10430,71 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 1.6.1. Estado operacional.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... fallo de CPDLC</p>
+<p>... fallo de CPDLC</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) [A TODAS LAS ESTACIONES] FALLO (o FALLA) CPDLC (instrucciones);</p>
+<p>a) [A TODAS LAS ESTACIONES] FALLO (o FALLA) CPDLC (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) [ALL STATIONS] CPDLC FAILURE (instructions);</p>
+<p>a) [ALL STATIONS] CPDLC FAILURE (instructions);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... fallo de un solo mensaje CPDLC</p>
+<p>... fallo de un solo mensaje CPDLC</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) FALLO (o FALLA) DE MENSAJE CPDLC (autorización, instrucción, información o solicitud correctas);</p>
+<p>b) FALLO (o FALLA) DE MENSAJE CPDLC (autorización, instrucción, información o solicitud correctas);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) CPDLC MESSAGE FAILURE (appropriate clearance, instruction, information or request);</p>
+<p>b) CPDLC MESSAGE FAILURE (appropriate clearance, instruction, information or request);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para corregir las autorizaciones, instrucciones, información o solicitudes de CPDLC</p>
+<p>... para corregir las autorizaciones, instrucciones, información o solicitudes de CPDLC</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) IGNORE EL MENSAJE CPDLC (tipo de mensaje), INTERRUPCIÓN (autorización, instrucción, información o solicitud correctas);</p>
+<p>c) IGNORE EL MENSAJE CPDLC (tipo de mensaje), INTERRUPCIÓN (autorización, instrucción, información o solicitud correctas);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) DISREGARD CPDLC (message type) MESSAGE, BREAK (correct clearance, instruction, information or request);</p>
+<p>c) DISREGARD CPDLC (message type) MESSAGE, BREAK (correct clearance, instruction, information or request);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para dar instrucciones a todas las estaciones o a un vuelo específico para que eviten enviar solicitudes de CPDLC durante un período de tiempo limitado</p>
+<p>... para dar instrucciones a todas las estaciones o a un vuelo específico para que eviten enviar solicitudes de CPDLC durante un período de tiempo limitado</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) [A TODAS LAS ESTACIONES] DEJEN DE ENVIAR SOLICITUDES CPDLC [HASTA RECIBIR AVISO] [(motivos)];</p>
+<p>d) [A TODAS LAS ESTACIONES] DEJEN DE ENVIAR SOLICITUDES CPDLC [HASTA RECIBIR AVISO] [(motivos)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) [ALL STATIONS] STOP SENDING CPDLC REQUESTS [UNTIL ADVISED] [(reason)];</p>
+<p>d) [ALL STATIONS] STOP SENDING CPDLC REQUESTS [UNTIL ADVISED] [(reason)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para reanudar el uso normal de CPDLC</p>
+<p>... para reanudar el uso normal de CPDLC</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) [A TODAS LAS ESTACIONES] REANUDEN LAS OPERACIONES CPDLC NORMALES.</p>
+<p>e) [A TODAS LAS ESTACIONES] REANUDEN LAS OPERACIONES CPDLC NORMALES.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) [ALL STATIONS] RESUME NORMAL CPDLC OPERATIONS.</p>
+<p>e) [ALL STATIONS] RESUME NORMAL CPDLC OPERATIONS.</p>
 </td>
 </tr>
 </tbody>
@@ -10721,73 +10542,69 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 2.1.5. Maniobras.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) EFECTÚE TRES SESENTA POR IZQUIERDA (o DERECHA) [(motivo)];</p>
+<p>a) EFECTÚE TRES SESENTA POR IZQUIERDA (o DERECHA) [(motivo)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) MAKE A THREE SIXTY TURN LEFT (or RIGHT) [(reason)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">b) ORBITE (o VIRE EN CÍRCULO) IZQUIERDA (o DERECHA) [(motivo)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) ORBIT LEFT (or RIGHT) [(reason)];</p>
+<p>a) MAKE A THREE SIXTY TURN LEFT (or RIGHT) [(reason)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>b) ORBITE (o VIRE EN CÍRCULO) IZQUIERDA (o DERECHA) [(motivo)];</p>
+</td>
+<td>
+<p>b) ORBIT LEFT (or RIGHT) [(reason)];</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... (en el caso de que no se pueda confiar en los instrumentos direccionales de a bordo)</p>
+<p>... (en el caso de que no se pueda confiar en los instrumentos direccionales de a bordo)</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) TODOS LOS VIRAJES A RÉGIMEN UNO (o MITAD o (número) GRADOS POR SEGUNDO) INICIE Y TERMINE TODOS LOS VIRAJES CUANDO SE LO INDIQUE CON LA PALABRA «AHORA»;</p>
+<p>c) TODOS LOS VIRAJES A RÉGIMEN UNO (o MITAD o (número) GRADOS POR SEGUNDO) INICIE Y TERMINE TODOS LOS VIRAJES CUANDO SE LO INDIQUE CON LA PALABRA «AHORA»;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) MAKE ALL TURNS RATE ONE (or RATE HALF, or (number) DEGREES PER SECOND) START AND STOP ALL TURNS ON THE COMMAND “NOW”;</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">d) VIRE IZQUIERDA (o DERECHA) AHORA;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) TURN LEFT (or RIGHT) NOW;</p>
+<p>c) MAKE ALL TURNS RATE ONE (or RATE HALF, or (number) DEGREES PER SECOND) START AND STOP ALL TURNS ON THE COMMAND “NOW”;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) INTERRUMPA VIRAJE AHORA.</p>
+<p>d) VIRE IZQUIERDA (o DERECHA) AHORA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) STOP TURN NOW.</p>
+<p>d) TURN LEFT (or RIGHT) NOW;</p>
 </td>
 </tr>
-<tr class="row_column_85">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Nota: Cuando sea necesario especificar un motivo para la guía vectorial radar (o vectores) o para las maniobras mencionadas se utilizará la fraseología siguiente:</p>
-<p class="cuerpo_tabla_izq">a) TRÁNSITO PREVISTO;</p>
-<p class="cuerpo_tabla_izq">b) PARA SEPARACIÓN;</p>
-<p class="cuerpo_tabla_izq">c) PARA SECUENCIA CON TRÁNSITO (POSICIÓN)</p>
-<p class="cuerpo_tabla_izq">d) PARA TRAMO A FAVOR DEL VIENTO (o BÁSICO o FINAL).</p>
-<p class="cuerpo_tabla_izq">e) PARA PRIMER (o ÚLTIMO) TERCIO DE TRAMO A FAVOR DEL VIENTO PISTA (número).</p>
+<p>e) INTERRUMPA VIRAJE AHORA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Note: When it is necessary to specify a reason for radar vectoring or for the maneuvers mentioned the next phraseology should be used:</p>
-<p class="cuerpo_tabla_izq">a) DUE TRAFFIC;</p>
-<p class="cuerpo_tabla_izq">b) FOR TRAFFIC SEPARATION;</p>
-<p class="cuerpo_tabla_izq">c) FOR TRAFFIC SEQUENCE;</p>
-<p class="cuerpo_tabla_izq">d) FOR DOWNWIND (BASE, or FINAL).</p>
-<p class="cuerpo_tabla_izq">e) FOR FIRST (or LAST) THIRD DOWNWIND LEG RUNWAY (number).</p>
+<p>e) STOP TURN NOW.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nota: Cuando sea necesario especificar un motivo para la guía vectorial radar (o vectores) o para las maniobras mencionadas se utilizará la fraseología siguiente:</p>
+<p>a) TRÁNSITO PREVISTO;</p>
+<p>b) PARA SEPARACIÓN;</p>
+<p>c) PARA SECUENCIA CON TRÁNSITO (POSICIÓN)</p>
+<p>d) PARA TRAMO A FAVOR DEL VIENTO (o BÁSICO o FINAL).</p>
+<p>e) PARA PRIMER (o ÚLTIMO) TERCIO DE TRAMO A FAVOR DEL VIENTO PISTA (número).</p>
+</td>
+<td>
+<p>Note: When it is necessary to specify a reason for radar vectoring or for the maneuvers mentioned the next phraseology should be used:</p>
+<p>a) DUE TRAFFIC;</p>
+<p>b) FOR TRAFFIC SEPARATION;</p>
+<p>c) FOR TRAFFIC SEQUENCE;</p>
+<p>d) FOR DOWNWIND (BASE, or FINAL).</p>
+<p>e) FOR FIRST (or LAST) THIRD DOWNWIND LEG RUNWAY (number).</p>
 </td>
 </tr>
 </tbody>
@@ -10813,47 +10630,43 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 2.1.7. Notificación de la posición.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para omitir los informes de posición durante el vuelo</p>
+<p>... para omitir los informes de posición durante el vuelo</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) OMITA INFORMES DE POSICIÓN [HASTA (especificar)];</p>
+<p>a) OMITA INFORMES DE POSICIÓN [HASTA (especificar)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) OMIT POSITION REPORTS [UNTIL (specify)];</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">b) PRÓXIMO INFORME EN (punto significativo);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) NEXT REPORT AT (significant point);</p>
+<p>a) OMIT POSITION REPORTS [UNTIL (specify)];</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) INFORMES REQUERIDOS SÓLO EN (puntos significativos);</p>
+<p>b) PRÓXIMO INFORME EN (punto significativo);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) REPORTS REQUIRED ONLY AT (significant points);</p>
+<p>b) NEXT REPORT AT (significant point);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) REANUDE INFORMES DE POSICIÓN.</p>
+<p>c) INFORMES REQUERIDOS SÓLO EN (puntos significativos);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) RESUME POSITION REPORTING.</p>
+<p>c) REPORTS REQUIRED ONLY AT (significant points);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) REANUDE INFORMES DE POSICIÓN.</p>
+</td>
+<td>
+<p>d) RESUME POSITION REPORTING.</p>
 </td>
 </tr>
 </tbody>
@@ -10861,127 +10674,123 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 2.1.8. Información respecto al tránsito y medidas evasivas.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_86">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) TRÁNSITO A LAS (número) (distancia) (dirección del vuelo) [(toda otra información pertinente)]:</p>
-<p class="cuerpo_tabla_izq">1) DESCONOCIDO;</p>
-<p class="cuerpo_tabla_izq">2) LENTO;</p>
-<p class="cuerpo_tabla_izq">3) RÁPIDO;</p>
-<p class="cuerpo_tabla_izq">4) ACERCÁNDOSE;</p>
-<p class="cuerpo_tabla_izq">5) SENTIDO OPUESTO (o MISMO SENTIDO);</p>
-<p class="cuerpo_tabla_izq">6) SOBREPASANDO;</p>
-<p class="cuerpo_tabla_izq">7) CRUZANDO DE IZQUIERDA A DERECHA (o DE DERECHA A IZQUIERDA);</p>
+<p>a) TRÁNSITO A LAS (número) (distancia) (dirección del vuelo) [(toda otra información pertinente)]:</p>
+<p>1) DESCONOCIDO;</p>
+<p>2) LENTO;</p>
+<p>3) RÁPIDO;</p>
+<p>4) ACERCÁNDOSE;</p>
+<p>5) SENTIDO OPUESTO (o MISMO SENTIDO);</p>
+<p>6) SOBREPASANDO;</p>
+<p>7) CRUZANDO DE IZQUIERDA A DERECHA (o DE DERECHA A IZQUIERDA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) TRAFFIC (number) O’CLOCK (distance) (direction of flight) [(any other pertinent information)]:</p>
-<p class="cuerpo_tabla_izq">1) UNKNOWN;</p>
-<p class="cuerpo_tabla_izq">2) SLOW MOVING;</p>
-<p class="cuerpo_tabla_izq">3) FAST MOVING;</p>
-<p class="cuerpo_tabla_izq">4) CLOSING;</p>
-<p class="cuerpo_tabla_izq">5) OPPOSITE (or SAME) DIRECTION;</p>
-<p class="cuerpo_tabla_izq">6) OVERTAKING;</p>
-<p class="cuerpo_tabla_izq">7) CROSSING LEFT TO RIGHT (or RIGHT TO LEFT);</p>
+<p>a) TRAFFIC (number) O’CLOCK (distance) (direction of flight) [(any other pertinent information)]:</p>
+<p>1) UNKNOWN;</p>
+<p>2) SLOW MOVING;</p>
+<p>3) FAST MOVING;</p>
+<p>4) CLOSING;</p>
+<p>5) OPPOSITE (or SAME) DIRECTION;</p>
+<p>6) OVERTAKING;</p>
+<p>7) CROSSING LEFT TO RIGHT (or RIGHT TO LEFT);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... (si se conoce)</p>
+<p>... (si se conoce)</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8) (tipo de aeronave)</p>
-<p class="cuerpo_tabla_izq">9) (nivel);</p>
+<p>8) (tipo de aeronave)</p>
+<p>9) (nivel);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8) (aircraft type);</p>
-<p class="cuerpo_tabla_izq">9) (level);</p>
+<p>8) (aircraft type);</p>
+<p>9) (level);</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… cuando se proporcione información referente al nivel de vuelo a una aeronave subiendo o descendiendo, en forma de distancia vertical respecto de otro tráfico</p>
+<p>… cuando se proporcione información referente al nivel de vuelo a una aeronave subiendo o descendiendo, en forma de distancia vertical respecto de otro tráfico</p>
 </td>
 </tr>
-<tr class="row_column_64">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">10) [SU NIVEL AUTORIZADO]</p>
-<p class="cuerpo_tabla_izq">** No se proporcionará referencia explícita al nivel de vuelo del otro tráfico en posible rumbo de colisión, en su lugar se proporcionará una referencia relativa (p.ej. x000 pies por encima/por debajo).</p>
-<p class="cuerpo_tabla_izq">11) SUBIENDO (o DESCENDIENDO);</p>
+<p>10) [SU NIVEL AUTORIZADO]</p>
+<p>** No se proporcionará referencia explícita al nivel de vuelo del otro tráfico en posible rumbo de colisión, en su lugar se proporcionará una referencia relativa (p.ej. x000 pies por encima/por debajo).</p>
+<p>11) SUBIENDO (o DESCENDIENDO);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10) [YOUR CLEARED LEVEL]</p>
-<p class="cuerpo_tabla_izq">** Explicit reference to the level of a traffic in a possible collision course shall not be made, instead a relative reference shall be provided (e.g. x000 feet above/below)</p>
-<p class="cuerpo_tabla_izq">11) CLIMBING (or DESCENDING);</p>
+<p>10) [YOUR CLEARED LEVEL]</p>
+<p>** Explicit reference to the level of a traffic in a possible collision course shall not be made, instead a relative reference shall be provided (e.g. x000 feet above/below)</p>
+<p>11) CLIMBING (or DESCENDING);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para pedir una acción evasiva</p>
+<p>... para pedir una acción evasiva</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*b) SOLICITO VECTORES;</p>
+<p>*b) SOLICITO VECTORES;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*b) REQUEST VECTORS;</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">c) ¿QUIERE VECTORES?;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">c) DO YOU WANT VECTORS?;</p>
+<p>*b) REQUEST VECTORS;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>c) ¿QUIERE VECTORES?;</p>
+</td>
+<td>
+<p>c) DO YOU WANT VECTORS?;</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando se pasa a tránsito desconocido</p>
+<p>... cuando se pasa a tránsito desconocido</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) LIBRE DE TRÁNSITO [(instrucciones apropiadas)];</p>
+<p>d) LIBRE DE TRÁNSITO [(instrucciones apropiadas)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) CLEAR OF TRAFFIC [(appropriate instructions)];</p>
+<p>d) CLEAR OF TRAFFIC [(appropriate instructions)];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para acción evasiva</p>
+<p>... para acción evasiva</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) VIRE IZQUIERDA (o DERECHA INMEDIATAMENTE RUMBO (tres cifras) PARA EVITAR TRÁNSITO [NO IDENTIFICADO] (marcación por reloj y distancia);</p>
+<p>e) VIRE IZQUIERDA (o DERECHA INMEDIATAMENTE RUMBO (tres cifras) PARA EVITAR TRÁNSITO [NO IDENTIFICADO] (marcación por reloj y distancia);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) TURN LEFT (or RIGHT) IMMEDIATELY HEADING (three digits) TO AVOID [UNIDENTIFIED] TRAFFIC (bearing by clock-reference and distance);</p>
-</td>
-</tr>
-<tr class="row_column_59">
-<td>
-<p class="cuerpo_tabla_izq">f) VIRE IZQUIERDA (o DERECHA) (número de grados) GRADOS INMEDIATAMENTE PARA EVITAR TRÁNSITO [NO IDENTIFICADO] EN (marcación por referencia del reloj y distancia).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">f) TURN LEFT (or RIGHT) (number of degrees) DEGREES IMMEDIATELY TO AVOID [UNIDENTIFIED] TRAFFIC AT (bearing by clock-reference and distance).</p>
+<p>e) TURN LEFT (or RIGHT) IMMEDIATELY HEADING (three digits) TO AVOID [UNIDENTIFIED] TRAFFIC (bearing by clock-reference and distance);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>f) VIRE IZQUIERDA (o DERECHA) (número de grados) GRADOS INMEDIATAMENTE PARA EVITAR TRÁNSITO [NO IDENTIFICADO] EN (marcación por referencia del reloj y distancia).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>f) TURN LEFT (or RIGHT) (number of degrees) DEGREES IMMEDIATELY TO AVOID [UNIDENTIFIED] TRAFFIC AT (bearing by clock-reference and distance).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -10989,55 +10798,51 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 2.1.9. Comunicaciones y pérdida de comunicaciones.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) EN CASO DE FALLO (o FALLA) DE COMUNICACIONES (instrucciones);</p>
+<p>a) EN CASO DE FALLO (o FALLA) DE COMUNICACIONES (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) [IF] RADIO CONTACT LOST (instructions);</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">b) SI NO RECIBE COMUNICACIÓN DURANTE (número) MINUTOS (o SEGUNDOS) (instrucciones);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) IF NO TRANSMISSIONS RECEIVED FOR (number) MINUTES (or SECONDS) (instructions);</p>
+<p>a) [IF] RADIO CONTACT LOST (instructions);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) RESPUESTA NO RECIBIDA (instrucciones);</p>
+<p>b) SI NO RECIBE COMUNICACIÓN DURANTE (número) MINUTOS (o SEGUNDOS) (instrucciones);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) REPLY NOT RECEIVED (instructions);</p>
+<p>b) IF NO TRANSMISSIONS RECEIVED FOR (number) MINUTES (or SECONDS) (instructions);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>c) RESPUESTA NO RECIBIDA (instrucciones);</p>
+</td>
+<td>
+<p>c) REPLY NOT RECEIVED (instructions);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... si se sospecha que se han interrumpido las comunicaciones</p>
+<p>... si se sospecha que se han interrumpido las comunicaciones</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) SI ME RECIBE [(instrucciones de maniobras o TRANSPONDER (código o IDENT))];</p>
+<p>d) SI ME RECIBE [(instrucciones de maniobras o TRANSPONDER (código o IDENT))];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) IF YOU READ [(manoeuvre instructions or SQUAWK (code or IDENT))];</p>
+<p>d) IF YOU READ [(manoeuvre instructions or SQUAWK (code or IDENT))];</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) (maniobra, TRANSPONDER o IDENT) OBSERVADA. POSICIÓN (posición de la aeronave). [(instrucciones)].</p>
+<p>e) (maniobra, TRANSPONDER o IDENT) OBSERVADA. POSICIÓN (posición de la aeronave). [(instrucciones)].</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) (manoeuvre, SQUAWK or IDENT) OBSERVED. POSITION (position of aircraft). [(instructions)].</p>
+<p>e) (manoeuvre, SQUAWK or IDENT) OBSERVED. POSITION (position of aircraft). [(instructions)].</p>
 </td>
 </tr>
 </tbody>
@@ -11076,132 +10881,128 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 2.2.2. Guía vectorial (vectores) para ILS y otras ayudas interpretadas por el piloto.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) POSICIÓN (número de) KILÓMETROS (o MILLAS) de (punto de referencia). VIRE IZQUIERDA (o DERECHA) RUMBO (tres dígitos)</p>
+<p>a) POSICIÓN (número de) KILÓMETROS (o MILLAS) de (punto de referencia). VIRE IZQUIERDA (o DERECHA) RUMBO (tres dígitos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) POSITION (number) KILOMETRES (or MILES) FROM (fix). TURN LEFT (or RIGHT) HEADING (three digits).</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">b) INTERCEPTARÁ (radioayuda o derrota) A (distancia) DE (punto significativo o PUNTO DE TOMA DE CONTACTO);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) YOU WILL INTERCEPT (radio aid or track) (distance) FROM (significant point or TOUCHDOWN);</p>
+<p>a) POSITION (number) KILOMETRES (or MILES) FROM (fix). TURN LEFT (or RIGHT) HEADING (three digits).</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>b) INTERCEPTARÁ (radioayuda o derrota) A (distancia) DE (punto significativo o PUNTO DE TOMA DE CONTACTO);</p>
+</td>
+<td>
+<p>b) YOU WILL INTERCEPT (radio aid or track) (distance) FROM (significant point or TOUCHDOWN);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... cuando el piloto desea que se le ubique a determinada distancia del punto de toma de contacto</p>
+<p>... cuando el piloto desea que se le ubique a determinada distancia del punto de toma de contacto</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">*c) SOLICITO (distancia) FINAL;</p>
+<p>*c) SOLICITO (distancia) FINAL;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">*c) REQUEST (distance) FINAL;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">d) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) CLEARED FOR (type) APPROACH RUNWAY (number);</p>
+<p>*c) REQUEST (distance) FINAL;</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>d) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número);</p>
+</td>
+<td>
+<p>d) CLEARED FOR (type) APPROACH RUNWAY (number);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">.... instrucciones e información</p>
+<p>.... instrucciones e información</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) NOTIFIQUE ESTABLECIDO SOBRE LOCALIZADOR [ILS] (o SOBRE CURSO DE APROXIMACIÓN GBAS/SBAS);</p>
+<p>e) NOTIFIQUE ESTABLECIDO SOBRE LOCALIZADOR [ILS] (o SOBRE CURSO DE APROXIMACIÓN GBAS/SBAS);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) REPORT ESTABLISHED ON [ILS] LOCALIZER (or ON GBAS/SBAS APPROACH COURSE);</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">f) APROXIMANDO DESDE IZQUIERDA (o DERECHA) [NOTIFIQUE ESTABLECIDO];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">f) CLOSING FROM LEFT (or RIGHT) [REPORT ESTABLISHED];</p>
+<p>e) REPORT ESTABLISHED ON [ILS] LOCALIZER (or ON GBAS/SBAS APPROACH COURSE);</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) VIRE IZQUIERDA (o DERECHA) RUMBO (tres cifras) [HASTA INTERCEPTAR] o [NOTIFIQUE ESTABLECIDO];</p>
+<p>f) APROXIMANDO DESDE IZQUIERDA (o DERECHA) [NOTIFIQUE ESTABLECIDO];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) TURN LEFT (or RIGHT) HEADING (three digits) [TO INTERCEPT] or [REPORT ESTABLISHED];</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_izq">h) PREVEA GUÍA VECTORIAL (o VECTORES) PARA CRUZAR (rumbo del localizador o radioayuda) [(motivo)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">h) EXPECT VECTOR ACROSS (localizer course or radio aid) [(reason)];</p>
+<p>f) CLOSING FROM LEFT (or RIGHT) [REPORT ESTABLISHED];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">i) ESTE VIRAJE LE HARÁ CRUZAR POR (curso del localizador o radioayuda) [(motivo)];</p>
+<p>g) VIRE IZQUIERDA (o DERECHA) RUMBO (tres cifras) [HASTA INTERCEPTAR] o [NOTIFIQUE ESTABLECIDO];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">i) THIS TURN WILL TAKE YOU THROUGH (localizer course or radio aid) [(reason)];</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">j) LE LLEVAMOS A CRUZAR POR (curso del localizador o radioayuda) [(motivo)];</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">j) TAKING YOU THROUGH (localizer course or radio aid) [(reason)];</p>
+<p>g) TURN LEFT (or RIGHT) HEADING (three digits) [TO INTERCEPT] or [REPORT ESTABLISHED];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">k) MANTENGA (altitud) HASTA INTERCEPTAR TRAYECTORIA DE PLANEO;</p>
+<p>h) PREVEA GUÍA VECTORIAL (o VECTORES) PARA CRUZAR (rumbo del localizador o radioayuda) [(motivo)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">k) MAINTAIN (altitude) UNTIL GLIDE PATH INTERCEPTION;</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">l) NOTIFIQUE ESTABLECIDO EN TRAYECTORIA DE PLANEO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">l) REPORT ESTABLISHED ON GLIDE PATH;</p>
+<p>h) EXPECT VECTOR ACROSS (localizer course or radio aid) [(reason)];</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">m) INTERCEPTE (curso del localizador o radioayuda) [NOTIFIQUE ESTABLECIDO].</p>
+<p>i) ESTE VIRAJE LE HARÁ CRUZAR POR (curso del localizador o radioayuda) [(motivo)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">m) INTERCEPT (localizer course or radio aid) [REPORT ESTABLISHED].</p>
+<p>i) THIS TURN WILL TAKE YOU THROUGH (localizer course or radio aid) [(reason)];</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>j) LE LLEVAMOS A CRUZAR POR (curso del localizador o radioayuda) [(motivo)];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>j) TAKING YOU THROUGH (localizer course or radio aid) [(reason)];</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>k) MANTENGA (altitud) HASTA INTERCEPTAR TRAYECTORIA DE PLANEO;</p>
+</td>
+<td>
+<p>k) MAINTAIN (altitude) UNTIL GLIDE PATH INTERCEPTION;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>l) NOTIFIQUE ESTABLECIDO EN TRAYECTORIA DE PLANEO;</p>
+</td>
+<td>
+<p>l) REPORT ESTABLISHED ON GLIDE PATH;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>m) INTERCEPTE (curso del localizador o radioayuda) [NOTIFIQUE ESTABLECIDO].</p>
+</td>
+<td>
+<p>m) INTERCEPT (localizer course or radio aid) [REPORT ESTABLISHED].</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -11209,60 +11010,56 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 2.2.3. Maniobra durante aproximaciones paralelas independientes y dependientes.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_66">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número) IZQUIERDA (o DERECHA);</p>
+<p>a) AUTORIZADO APROXIMACIÓN (tipo de aproximación) PISTA (número) IZQUIERDA (o DERECHA);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) CLEARED FOR (type of approach) APPROACH RUNWAY (number) LEFT (or RIGHT);</p>
-</td>
-</tr>
-<tr class="row_column_72">
-<td>
-<p class="cuerpo_tabla_izq">b) HA CRUZADO EL LOCALIZADOR (o RUMBO (o CURSO)<em> </em>DE APROXIMACIÓN FINAL GBAS/SBAS). VIRE IZQUIERDA (o DERECHA) INMEDIATAMENTE Y VUELVA A LOCALIZADOR (o CURSO DE APROXIMACIÓN FINAL GBAS/SBAS);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) YOU HAVE CROSSED THE LOCALIZER (or GBAS/SBAS FINAL APPROACH COURSE). TURN LEFT (or RIGHT) IMMEDIATELY AND RETURN TO THE LOCALIZER (or GBAS/SBAS FINAL APPROACH COURSE);</p>
+<p>a) CLEARED FOR (type of approach) APPROACH RUNWAY (number) LEFT (or RIGHT);</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) ILS (o) PISTA (número) IZQUIERDA (o DERECHA) LA FRECUENCIA DEL LOCALIZADOR (o) ES (frecuencia);</p>
+<p>b) HA CRUZADO EL LOCALIZADOR (o RUMBO (o CURSO)<em> </em>DE APROXIMACIÓN FINAL GBAS/SBAS). VIRE IZQUIERDA (o DERECHA) INMEDIATAMENTE Y VUELVA A LOCALIZADOR (o CURSO DE APROXIMACIÓN FINAL GBAS/SBAS);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) ILS (or) RUNWAY (number) LEFT (or RIGHT) LOCALIZER (or) FREQUENCY IS (frequency);</p>
+<p>b) YOU HAVE CROSSED THE LOCALIZER (or GBAS/SBAS FINAL APPROACH COURSE). TURN LEFT (or RIGHT) IMMEDIATELY AND RETURN TO THE LOCALIZER (or GBAS/SBAS FINAL APPROACH COURSE);</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>c) ILS (o) PISTA (número) IZQUIERDA (o DERECHA) LA FRECUENCIA DEL LOCALIZADOR (o) ES (frecuencia);</p>
+</td>
+<td>
+<p>c) ILS (or) RUNWAY (number) LEFT (or RIGHT) LOCALIZER (or) FREQUENCY IS (frequency);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para medidas de evasión si se observa que la aeronave penetra en la NTZ</p>
+<p>... para medidas de evasión si se observa que la aeronave penetra en la NTZ</p>
 </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">d) VIRE IZQUIERDA (o DERECHA) (número) GRADOS (o RUMBO) (tres dígitos) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIARSE DE APROXIMACIÓN ADYACENTE], SUBA A (altitud);</p>
+<p>d) VIRE IZQUIERDA (o DERECHA) (número) GRADOS (o RUMBO) (tres dígitos) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIARSE DE APROXIMACIÓN ADYACENTE], SUBA A (altitud);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">d) TURN LEFT (or RIGHT) (number) DEGREES (or HEADING) (three digits) IMMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH], CLIMB TO (altitude);</p>
+<p>d) TURN LEFT (or RIGHT) (number) DEGREES (or HEADING) (three digits) IMMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH], CLIMB TO (altitude);</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">... para medidas de evasión por debajo de 120 m (400 ft) sobre la elevación del umbral de la pista, cuando se están aplicando las superficies de evaluación de obstáculos para aproximaciones paralelas (PAOAS)</p>
+<p>... para medidas de evasión por debajo de 120 m (400 ft) sobre la elevación del umbral de la pista, cuando se están aplicando las superficies de evaluación de obstáculos para aproximaciones paralelas (PAOAS)</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) SUBA A (altitud) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIÁNDOSE DE LA APROXIMACIÓN ADYACENTE] (nuevas instrucciones).</p>
+<p>e) SUBA A (altitud) INMEDIATAMENTE PARA EVADIR TRÁNSITO [DESVIÁNDOSE DE LA APROXIMACIÓN ADYACENTE] (nuevas instrucciones).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) CLIMB TO (altitude) IMMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH] (further instructions).</p>
+<p>e) CLIMB TO (altitude) IMMEDIATELY TO AVOID TRAFFIC [DEVIATING FROM ADJACENT APPROACH] (further instructions).</p>
 </td>
 </tr>
 </tbody>
@@ -11533,63 +11330,59 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 5.2.1. Antes del deshielo/antihielo [personal de tierra (encargado de deshielo/antihielo)/tripulación de vuelo].
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) EN ESPERA PARA EL DESHIELO. CONFIRME FRENOS PUESTOS Y TRATAMIENTO REQUERIDO;</p>
+<p>a) EN ESPERA PARA EL DESHIELO. CONFIRME FRENOS PUESTOS Y TRATAMIENTO REQUERIDO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) STANDING BY TO DE-ICE. CONFIRM BRAKES SET AND TREATMENT REQUIRED;</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">*b) [AFIRMATIVO] FRENOS PUESTOS, SOLICITO (tipo de tratamiento de deshielo/antihielo y las áreas que deberán tratarse);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*b) [AFFIRM] BRAKES SET, REQUEST (type of de/anti-icing treatment and areas to be treated);</p>
+<p>a) STANDING BY TO DE-ICE. CONFIRM BRAKES SET AND TREATMENT REQUIRED;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>*b) [AFIRMATIVO] FRENOS PUESTOS, SOLICITO (tipo de tratamiento de deshielo/antihielo y las áreas que deberán tratarse);</p>
+</td>
+<td>
+<p>*b) [AFFIRM] BRAKES SET, REQUEST (type of de/anti-icing treatment and areas to be treated);</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… confirmación de la configuración de la aeronave</p>
+<p>… confirmación de la configuración de la aeronave</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) MANTENGA POSICIÓN Y CONFIRME AERONAVE CONFIGURADA;</p>
+<p>c) MANTENGA POSICIÓN Y CONFIRME AERONAVE CONFIGURADA;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) HOLD POSITION AND CONFIRM AIRCRAFT CONFIGURED;</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">*d) [AFIRMATIVO] AERONAVE CONFIGURADA, LISTA PARA DESHIELO;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">*d) [AFFIRM] AIRCRAFT CONFIGURED, READY FOR DE-ICING;</p>
+<p>c) HOLD POSITION AND CONFIRM AIRCRAFT CONFIGURED;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) EMPIEZA EL DESHIELO AHORA.</p>
+<p>*d) [AFIRMATIVO] AERONAVE CONFIGURADA, LISTA PARA DESHIELO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) DE-ICING STARTS NOW.</p>
+<p>*d) [AFFIRM] AIRCRAFT CONFIGURED, READY FOR DE-ICING;</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">* Indica una transmisión del piloto.</p>
+<p>e) EMPIEZA EL DESHIELO AHORA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">* Denotes pilot transmission.</p>
+<p>e) DE-ICING STARTS NOW.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>* Indica una transmisión del piloto.</p>
+</td>
+<td>
+<p>* Denotes pilot transmission.</p>
 </td>
 </tr>
 </tbody>
@@ -11597,105 +11390,101 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 5.2.2. Al concluir el procedimiento de deshielo/antihielo.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_61">
-<col class="row_column_60">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para operación de deshielo</p>
+<p>… para operación de deshielo</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) DESHIELO TERMINADO EN (áreas tratadas). AVISE CUANDO ESTÉ LISTO PARA INFORMACIÓN;</p>
+<p>a) DESHIELO TERMINADO EN (áreas tratadas). AVISE CUANDO ESTÉ LISTO PARA INFORMACIÓN;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) DE-ICING ON (areas treated) COMPLETE. ADVISE WHEN READY FOR INFORMATION;</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">b) TIPO DE FLUIDO (Tipo I o II o III o IV);</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">b) TYPE OF FLUID (Type I or II or III or IV);</p>
+<p>a) DE-ICING ON (areas treated) COMPLETE. ADVISE WHEN READY FOR INFORMATION;</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">c) TIEMPO MÁXIMO DE EFECTIVIDAD COMENZÓ A (hora);</p>
+<p>b) TIPO DE FLUIDO (Tipo I o II o III o IV);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">c) HOLDOVER TIME STARTED AT (time);</p>
-</td>
-</tr>
-<tr class="row_column_58">
-<td>
-<p class="cuerpo_tabla_izq">d) CÓDIGO ANTIHIELO (código antihielo apropiado)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">d) ANTI-ICING CODE (appropriate anti-icing code)</p>
+<p>b) TYPE OF FLUID (Type I or II or III or IV);</p>
 </td>
 </tr>
-<tr class="row_column_81">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>c) TIEMPO MÁXIMO DE EFECTIVIDAD COMENZÓ A (hora);</p>
+</td>
+<td>
+<p>c) HOLDOVER TIME STARTED AT (time);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) CÓDIGO ANTIHIELO (código antihielo apropiado)</p>
+</td>
+<td>
+<p>d) ANTI-ICING CODE (appropriate anti-icing code)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Nota: Ejemplo de código de ANTIHIELO:</em>
 </p>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Un procedimiento de deshielo/antihielo cuya última etapa es la utilización de una mezcla de 75% de un fluido de Tipo II y 25% de agua, comenzando a las 13:35 hora local, se notifica y registra como sigue:</em>
 </p>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>TIPO II/75 13:35 (seguido por el nombre completo del fluido antihielo)</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Note: Anti-icing code example:</em>
 </p>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>A de-icing/anti-icing procedure whose last step is the use of a mixture of 75% of a Type II fluid and 25% water, commencing at 13:35 local time, is recorded as follows:</em>
 </p>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>TYPE II/75 13:35 (followed by complete name of anti-icing fluid)</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para una operación de deshielo/antihielo en dos etapas</p>
+<p>… para una operación de deshielo/antihielo en dos etapas</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">e) ULTIMA ETAPA COMENZÓ A (hora);</p>
+<p>e) ULTIMA ETAPA COMENZÓ A (hora);</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">e) FINAL STEP STARTED AT (time);</p>
+<p>e) FINAL STEP STARTED AT (time);</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… Deshielo/antihielo terminado</p>
+<p>… Deshielo/antihielo terminado</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">f) VERIFICACIÓN POST-DESHIELO TERMINADA.</p>
+<p>f) VERIFICACIÓN POST-DESHIELO TERMINADA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">f) POST DE-ICING CHECK COMPLETED.</p>
+<p>f) POST DE-ICING CHECK COMPLETED.</p>
 </td>
 </tr>
-<tr class="row_column_58">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">g) AERONAVE DESPEJADA DE PERSONAL Y EQUIPO;</p>
+<p>g) AERONAVE DESPEJADA DE PERSONAL Y EQUIPO;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">g) PERSONNEL AND EQUIPMENT CLEAR OF AIRCRAFT;</p>
+<p>g) PERSONNEL AND EQUIPMENT CLEAR OF AIRCRAFT;</p>
 </td>
 </tr>
 </tbody>
@@ -11703,36 +11492,32 @@ Para informar al piloto que confirme la selección 8,33 KHz.
 
 5.2.3. Operaciones anormales.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_57">
-<col class="row_column_57">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para activación del sensor de proximidad de la boquilla de la manguera de rociamiento</p>
+<p>… para activación del sensor de proximidad de la boquilla de la manguera de rociamiento</p>
 </td>
 </tr>
-<tr class="row_column_62">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) SE NOTIFICA ACTIVACIÓN DE PROXIMIDAD DE BOQUILLA DE MANGUERA EN (punto significativo en la aeronave) [NINGÚN DAÑO VISUAL o DAÑO (descripción del daño) OBSERVADO] [INDIQUE INTENCIONES];</p>
+<p>a) SE NOTIFICA ACTIVACIÓN DE PROXIMIDAD DE BOQUILLA DE MANGUERA EN (punto significativo en la aeronave) [NINGÚN DAÑO VISUAL o DAÑO (descripción del daño) OBSERVADO] [INDIQUE INTENCIONES];</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) BE ADVISED NOZZLE PROXIMITY ACTIVATION ON (significant point on aircraft) [NO VISUAL DAMAGE or DAMAGE (description of damage) OBSERVED] [SAY INTENTIONS];</p>
+<p>a) BE ADVISED NOZZLE PROXIMITY ACTIVATION ON (significant point on aircraft) [NO VISUAL DAMAGE or DAMAGE (description of damage) OBSERVED] [SAY INTENTIONS];</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">… para otras aeronaves en situación de emergencia en el apartadero de deshielo</p>
+<p>… para otras aeronaves en situación de emergencia en el apartadero de deshielo</p>
 </td>
 </tr>
-<tr class="row_column_59">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) EMERGENCIA EN APARTADERO DE DESHIELO (número de apartadero de deshielo) [APAGUE MOTORES o ESPERE NUEVAS INSTRUCCIONES].</p>
+<p>b) EMERGENCIA EN APARTADERO DE DESHIELO (número de apartadero de deshielo) [APAGUE MOTORES o ESPERE NUEVAS INSTRUCCIONES].</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b) EMERGENCY IN DE-ICING BAY (de-icing bay number) [SHUT DOWN ENGINES or STANDBY FOR FURTHER INSTRUCTIONS].</p>
+<p>b) EMERGENCY IN DE-ICING BAY (de-icing bay number) [SHUT DOWN ENGINES or STANDBY FOR FURTHER INSTRUCTIONS].</p>
 </td>
 </tr>
 </tbody>

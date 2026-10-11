@@ -96,8 +96,6 @@ k) «Bienes pertinentes para crisis»: bienes pertinentes para crisis tal como s
 
 l) «Modo de emergencia del mercado interior»: modo de emergencia del mercado interior tal como se define en el artículo 3, número 3, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
 
-> Téngase en cuenta que las letras k) y l), añadidas por el art. 1.1 del Real Decreto 302/2026, de 8 de abril, [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
-
 > Se añaden las letras k) y l) por el art. 1.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 > Esta modificación entra en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
@@ -215,8 +213,6 @@ c) El procedimiento de aseguramiento total de la calidad a que se refiere el ane
 Los actos y resoluciones que dicten las Administraciones públicas en virtud del presente Real Decreto y que supongan limitación de la puesta en el mercado o puesta en servicio de las máquinas que son objeto del mismo, deberán ser motivados, en sucinta referencia de hechos y fundamentos de derecho, y notificados a los interesados en los términos previstos en el artículo 58 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 ## CAPÍTULO II — Procedimientos de emergencia
-
-> Téngase en cuenta que, el Capítulo II, y sus correspondientes arts. 19 a 22, añadidos por el art. 1.4 del Real Decreto 302/2026, de 8 de abril, [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final cuarta.
 
 > Se añade, con los arts. 19 a 22, por el art. 1.4 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 

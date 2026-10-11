@@ -488,118 +488,113 @@ FÉLIX BOLAÑOS GARCÍA
 
 Acorde al anexo I de la Comunicación de la Comisión Europea sobre las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2020/C 317/04), así como a la Comunicación de la Comisión que complementa las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (2021/C 528/01) y la Comunicación de la Comisión Europea que modifica las Directrices relativas a determinadas medidas de ayuda estatal en el contexto del régimen de comercio de derechos de emisión de gases de efecto invernadero después de 2021 (C/2026/196), únicamente podrán concederse ayudas por los costes de emisiones indirectas a la instalación de un beneficiario con arreglo al apartado 1 del artículo 4 del presente real decreto, si opera en uno de los siguientes sectores o subsectores:
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 1. Sectores y subsectores incluidos previamente en el mecanismo de compensación</p>
+<p>Cuadro 1. Sectores y subsectores incluidos previamente en el mecanismo de compensación</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Código NACE</p>
-<p class="cabeza_tabla">(rev. 2)</p>
+<th> </th>
+<th>
+<p>Código NACE</p>
+<p>(rev. 2)</p>
 </th>
-<th class="cabeza_tabla">Descripción</th>
+<th>Descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_der">14.11</td>
-<td class="cuerpo_tabla_izq">Confección de prendas de vestir de cuero.</td>
+<td>1</td>
+<td>14.11</td>
+<td>Confección de prendas de vestir de cuero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_der">24.42</td>
-<td class="cuerpo_tabla_izq">Producción de aluminio.</td>
+<td>2</td>
+<td>24.42</td>
+<td>Producción de aluminio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_der">20.13</td>
-<td class="cuerpo_tabla_izq">Fabricación de otros productos básicos de química inorgánica.</td>
+<td>3</td>
+<td>20.13</td>
+<td>Fabricación de otros productos básicos de química inorgánica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_der">24.43</td>
-<td class="cuerpo_tabla_izq">Producción de plomo, zinc y estaño.</td>
+<td>4</td>
+<td>24.43</td>
+<td>Producción de plomo, zinc y estaño.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_der">17.11</td>
-<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
+<td>5</td>
+<td>17.11</td>
+<td>Fabricación de pasta papelera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_der">17.12</td>
-<td class="cuerpo_tabla_izq">Fabricación de papel y cartón.</td>
+<td>6</td>
+<td>17.12</td>
+<td>Fabricación de papel y cartón.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_der">24.10</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos básicos de hierro, acero y ferroaleaciones.</td>
+<td>7</td>
+<td>24.10</td>
+<td>Fabricación de productos básicos de hierro, acero y ferroaleaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_der">19.20</td>
-<td class="cuerpo_tabla_izq">Refino de petróleo.</td>
+<td>8</td>
+<td>19.20</td>
+<td>Refino de petróleo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_der">24.44</td>
-<td class="cuerpo_tabla_izq">Producción de cobre.</td>
+<td>9</td>
+<td>24.44</td>
+<td>Producción de cobre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_der">24.45</td>
-<td class="cuerpo_tabla_izq">Producción de otros metales no férreos.</td>
+<td>10</td>
+<td>24.45</td>
+<td>Producción de otros metales no férreos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Los siguientes subsectores dentro del sector de los plásticos (20.16):</td>
+<td>11</td>
+<td> </td>
+<td>Los siguientes subsectores dentro del sector de los plásticos (20.16):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_der">20.16.40.15</td>
-<td class="cuerpo_tabla_izq">Polietilenglicoles y los demás poliéter-alcoholes, en formas primarias.</td>
+<td> </td>
+<td>20.16.40.15</td>
+<td>Polietilenglicoles y los demás poliéter-alcoholes, en formas primarias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_der">24.51</td>
-<td class="cuerpo_tabla_izq">Todas las categorías de productos en el sector de la fundición de hierro.</td>
+<td>12</td>
+<td>24.51</td>
+<td>Todas las categorías de productos en el sector de la fundición de hierro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Los siguientes subsectores dentro del sector de la fibra de vidrio (23.14):</td>
+<td>13</td>
+<td> </td>
+<td>Los siguientes subsectores dentro del sector de la fibra de vidrio (23.14):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
-<td class="cuerpo_tabla_der">23.14.12.10</td>
-<td class="cuerpo_tabla_izq">Esteras de fibra de vidrio.</td>
+<td rowspan="2"> </td>
+<td>23.14.12.10</td>
+<td>Esteras de fibra de vidrio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">23.14.12.30</td>
-<td class="cuerpo_tabla_izq">Velos de fibra de vidrio.</td>
+<td>23.14.12.30</td>
+<td>Velos de fibra de vidrio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_izq">Los siguientes subsectores dentro del sector de los gases industriales (20.11):</td>
+<td>14</td>
+<td> </td>
+<td>Los siguientes subsectores dentro del sector de los gases industriales (20.11):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
-<td class="cuerpo_tabla_der">20.11.11.50</td>
-<td class="cuerpo_tabla_izq">Hidrógeno.</td>
+<td rowspan="2"> </td>
+<td>20.11.11.50</td>
+<td>Hidrógeno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">20.11.12.90</td>
-<td class="cuerpo_tabla_izq">Compuestos oxigenados inorgánicos de elementos no metálicos.</td>
+<td>20.11.12.90</td>
+<td>Compuestos oxigenados inorgánicos de elementos no metálicos.</td>
 </tr>
 </tbody>
 </table>
@@ -701,538 +696,526 @@ Donde:
 
 Con objeto de mantener un ámbito de aplicación actualizado, las convocatorias anuales de ayudas derivadas de este real decreto introducirán siempre las relaciones últimas de los parámetros de este anexo que haya aprobado la Comisión Europea.
 
-<table class="tabla_girada_condensada">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 1: Valor de referencia de consumo eléctrico eficiente para determinados productos conforme a la lista ProdCom 2020</p>
+<p>Tabla 1: Valor de referencia de consumo eléctrico eficiente para determinados productos conforme a la lista ProdCom 2020</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Código NACE</p>
-<p class="cabeza_tabla">(rev.2)</p>
+<th>
+<p>Código NACE</p>
+<p>(rev.2)</p>
 </th>
-<th class="cabeza_tabla">Producto de referencia</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Código PRODCOM</p>
-<p class="cabeza_tabla">2020</p>
+<th>Producto de referencia</th>
+<th>
+<p>Código PRODCOM</p>
+<p>2020</p>
 </th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Definición de producto</th>
-<th class="cabeza_tabla">Unidades de producción</th>
-<th class="cabeza_tabla">Valor de referencia eficiente (2021)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Unidades de referencia</p>
+<th>Descripción</th>
+<th>Definición de producto</th>
+<th>Unidades de producción</th>
+<th>Valor de referencia eficiente (2021)</th>
+<th>
+<p>Unidades de referencia</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Índice de reducción anual (%)</p>
+<th>
+<p>Índice de reducción anual (%)</p>
 </th>
-<th class="cabeza_tabla">Procesos cubiertos por la referencia de producto</th>
+<th>Procesos cubiertos por la referencia de producto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
-<td class="cuerpo_tabla_centro">17.11.11.00</td>
-<td class="cuerpo_tabla_izq">Pasta química de madera para disolver.</td>
-<td class="cuerpo_tabla_izq">Pasta química de madera para disolver.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,904</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
-<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+<td>17.11</td>
+<td>Fabricación de pasta papelera.</td>
+<td>17.11.11.00</td>
+<td>Pasta química de madera para disolver.</td>
+<td>Pasta química de madera para disolver.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,904</td>
+<td>
+<p>MWh/t<sub>prod</sub></p>
+<p>de materia seca al 90%</p>
 </td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Todo proceso relacionado directa o indirectamente con la producción de pulpa química, incluido el secado, lavado y cribado, y blanqueo.</td>
+<td>1,09</td>
+<td rowspan="4">Todo proceso relacionado directa o indirectamente con la producción de pulpa química, incluido el secado, lavado y cribado, y blanqueo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
-<td class="cuerpo_tabla_centro">17.11.12.00</td>
-<td class="cuerpo_tabla_izq">Pasta química de madera a la sosa o al sulfato (excepto la pasta a disolver).</td>
-<td class="cuerpo_tabla_izq">Pasta química de madera a la sosa o al sulfato (excepto la pasta a disolver).</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,329</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
-<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+<td>17.11</td>
+<td>Fabricación de pasta papelera.</td>
+<td>17.11.12.00</td>
+<td>Pasta química de madera a la sosa o al sulfato (excepto la pasta a disolver).</td>
+<td>Pasta química de madera a la sosa o al sulfato (excepto la pasta a disolver).</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,329</td>
+<td>
+<p>MWh/t<sub>prod</sub></p>
+<p>de materia seca al 90%</p>
 </td>
-<td class="cuerpo_tabla_centro">1,09</td>
+<td>1,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Fabricación de pasta papelera.</td>
-<td class="cuerpo_tabla_centro">17.11.13.00</td>
-<td class="cuerpo_tabla_izq">Pasta química de madera al sulfito (excepto la pasta para disolver).</td>
-<td class="cuerpo_tabla_izq">Pasta química de madera al sulfito (excepto la pasta para disolver).</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,443</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
-<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+<td>17.11</td>
+<td>Fabricación de pasta papelera.</td>
+<td>17.11.13.00</td>
+<td>Pasta química de madera al sulfito (excepto la pasta para disolver).</td>
+<td>Pasta química de madera al sulfito (excepto la pasta para disolver).</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,443</td>
+<td>
+<p>MWh/t<sub>prod</sub></p>
+<p>de materia seca al 90%</p>
 </td>
-<td class="cuerpo_tabla_centro">1,09</td>
+<td>1,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Pasta semiquímica de madera.</td>
-<td class="cuerpo_tabla_centro" rowspan="4">17.11.14.00</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Pasta mecánica de madera; pasta semiquímica de madera; pastas de materias celulósicas distintas de la madera.</td>
-<td class="cuerpo_tabla_izq">Pasta semiquímica de madera.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,443</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
-<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+<td>17.11</td>
+<td>Pasta semiquímica de madera.</td>
+<td rowspan="4">17.11.14.00</td>
+<td rowspan="4">Pasta mecánica de madera; pasta semiquímica de madera; pastas de materias celulósicas distintas de la madera.</td>
+<td>Pasta semiquímica de madera.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,443</td>
+<td>
+<p>MWh/t<sub>prod</sub></p>
+<p>de materia seca al 90%</p>
 </td>
-<td class="cuerpo_tabla_centro">1,09</td>
+<td>1,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Pasta mecánica de madera.</td>
-<td class="cuerpo_tabla_izq">Pasta mecánica de madera.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Enfoque Alternativo.</td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente vinculados a la producción mecánica de celulosa, incluido el tratamiento de la madera, refinado, lavado, blanqueo, recuperación de calor.</td>
+<td>17.11</td>
+<td>Pasta mecánica de madera.</td>
+<td>Pasta mecánica de madera.</td>
+<td colspan="3">Enfoque Alternativo.</td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente vinculados a la producción mecánica de celulosa, incluido el tratamiento de la madera, refinado, lavado, blanqueo, recuperación de calor.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Papel recuperado.</td>
-<td class="cuerpo_tabla_izq">Papel recuperado.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
-<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+<td>17.11</td>
+<td>Papel recuperado.</td>
+<td>Papel recuperado.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,26</td>
+<td>
+<p>MWh/t<sub>prod</sub></p>
+<p>de materia seca al 90%</p>
 </td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Todo proceso vinculado directa o indirectamente a la producción de papel recuperado, incluido el espesamiento, la dispersión y el blanqueo.</td>
+<td>1,09</td>
+<td rowspan="2">Todo proceso vinculado directa o indirectamente a la producción de papel recuperado, incluido el espesamiento, la dispersión y el blanqueo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.11</td>
-<td class="cuerpo_tabla_izq">Papel recuperado destintado.</td>
-<td class="cuerpo_tabla_izq">Papel recuperado destintado.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,39</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></p>
-<p class="cuerpo_tabla_izq">de materia seca al 90%</p>
+<td>17.11</td>
+<td>Papel recuperado destintado.</td>
+<td>Papel recuperado destintado.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,39</td>
+<td>
+<p>MWh/t<sub>prod</sub></p>
+<p>de materia seca al 90%</p>
 </td>
-<td class="cuerpo_tabla_centro">1,09</td>
+<td>1,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12</td>
-<td class="cuerpo_tabla_izq">Papel prensa en bobinas o en hojas.</td>
-<td class="cuerpo_tabla_centro">17.12.11.00</td>
-<td class="cuerpo_tabla_izq">Papel prensa en bobinas o en hojas.</td>
-<td class="cuerpo_tabla_izq">Papel prensa en bobinas o en hojas.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,801</td>
-<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td>17.12</td>
+<td>Papel prensa en bobinas o en hojas.</td>
+<td>17.12.11.00</td>
+<td>Papel prensa en bobinas o en hojas.</td>
+<td>Papel prensa en bobinas o en hojas.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,801</td>
+<td>MWh/t<sub>prod</sub></td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="7">17.12</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Papel fino sin estucar.</td>
-<td class="cuerpo_tabla_centro">17.12.12.00</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Papel fino sin estucar ni recubrir.</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Papel fino sin estucar ni recubrir.</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="7">0,645</td>
-<td class="cuerpo_tabla_izq" rowspan="7">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="7">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td rowspan="7">17.12</td>
+<td rowspan="7">Papel fino sin estucar.</td>
+<td>17.12.12.00</td>
+<td rowspan="7">Papel fino sin estucar ni recubrir.</td>
+<td rowspan="7">Papel fino sin estucar ni recubrir.</td>
+<td rowspan="7">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="7">0,645</td>
+<td rowspan="7">MWh/t<sub>prod</sub></td>
+<td rowspan="7">1,09</td>
+<td rowspan="7">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.13.00</td>
+<td>17.12.13.00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.14.10</td>
+<td>17.12.14.10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.14.35</td>
+<td>17.12.14.35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.14.39</td>
+<td>17.12.14.39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.14.50</td>
+<td>17.12.14.50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.14.70</td>
+<td>17.12.14.70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">17.12</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Papel fino estucado.</td>
-<td class="cuerpo_tabla_centro">17.12.73.35</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Papel fino estucado.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Papel fino estucado.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="6">0,538</td>
-<td class="cuerpo_tabla_izq" rowspan="6">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="6">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td rowspan="6">17.12</td>
+<td rowspan="6">Papel fino estucado.</td>
+<td>17.12.73.35</td>
+<td rowspan="6">Papel fino estucado.</td>
+<td rowspan="6">Papel fino estucado.</td>
+<td rowspan="6">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="6">0,538</td>
+<td rowspan="6">MWh/t<sub>prod</sub></td>
+<td rowspan="6">1,09</td>
+<td rowspan="6">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.73.37</td>
+<td>17.12.73.37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.73.60</td>
+<td>17.12.73.60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.73.75</td>
+<td>17.12.73.75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.73.79</td>
+<td>17.12.73.79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.76.00</td>
+<td>17.12.76.00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">17.12</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Rollos continuos para la fabricación de papel higiénico o papel facial.</td>
-<td class="cuerpo_tabla_centro">17.12.20.30</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Rollos continuos para la fabricación de papel higiénico o papel facial, guata de celulosa y redes de fibras de celulosa.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Papel Tisú.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="4">0,925</td>
-<td class="cuerpo_tabla_izq" rowspan="4">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="4">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td rowspan="4">17.12</td>
+<td rowspan="4">Rollos continuos para la fabricación de papel higiénico o papel facial.</td>
+<td>17.12.20.30</td>
+<td rowspan="4">Rollos continuos para la fabricación de papel higiénico o papel facial, guata de celulosa y redes de fibras de celulosa.</td>
+<td rowspan="4">Papel Tisú.</td>
+<td rowspan="4">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="4">0,925</td>
+<td rowspan="4">MWh/t<sub>prod</sub></td>
+<td rowspan="4">1,09</td>
+<td rowspan="4">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.20.55</td>
+<td>17.12.20.55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.20.57</td>
+<td>17.12.20.57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.20.90</td>
+<td>17.12.20.90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">17.12</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Testliner y papel ondulado.</td>
-<td class="cuerpo_tabla_centro">17.12.33.00</td>
-<td class="cuerpo_tabla_izq">Papel semiquímico para acanalar.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Testliner y papel ondulado.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="4">0,260</td>
-<td class="cuerpo_tabla_izq" rowspan="4">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="4">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td rowspan="4">17.12</td>
+<td rowspan="4">Testliner y papel ondulado.</td>
+<td>17.12.33.00</td>
+<td>Papel semiquímico para acanalar.</td>
+<td rowspan="4">Testliner y papel ondulado.</td>
+<td rowspan="4">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="4">0,260</td>
+<td rowspan="4">MWh/t<sub>prod</sub></td>
+<td rowspan="4">1,09</td>
+<td rowspan="4">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.34.00</td>
-<td class="cuerpo_tabla_izq">Papel para acanalar, incluso reciclado.</td>
+<td>17.12.34.00</td>
+<td>Papel para acanalar, incluso reciclado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.35.20</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Testliner.</td>
+<td>17.12.35.20</td>
+<td rowspan="2">Testliner.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.35.40</td>
+<td>17.12.35.40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">17.12</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Tablero de cartón sin estucar ni recubrir.</td>
-<td class="cuerpo_tabla_centro">17.12.31.00</td>
-<td class="cuerpo_tabla_izq">Papel y cartón kraft para cubiertas (kraftliner), crudo y sin revestir.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Cartón sin estucar ni recubrir.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="6">0,268</td>
-<td class="cuerpo_tabla_izq" rowspan="6">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="6">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="6">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td rowspan="6">17.12</td>
+<td rowspan="6">Tablero de cartón sin estucar ni recubrir.</td>
+<td>17.12.31.00</td>
+<td>Papel y cartón kraft para cubiertas (kraftliner), crudo y sin revestir.</td>
+<td rowspan="6">Cartón sin estucar ni recubrir.</td>
+<td rowspan="6">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="6">0,268</td>
+<td rowspan="6">MWh/t<sub>prod</sub></td>
+<td rowspan="6">1,09</td>
+<td rowspan="6">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.32.00</td>
-<td class="cuerpo_tabla_izq">Papel y cartón kraft blanqueado; revestido.</td>
+<td>17.12.32.00</td>
+<td>Papel y cartón kraft blanqueado; revestido.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.42.60</td>
-<td class="cuerpo_tabla_izq">Demás papeles/cartones sin estucar ni recubrir, en bobinas u hojas, de peso superior a 150 g/m2 pero inferior a 225 g/m2.</td>
+<td>17.12.42.60</td>
+<td>Demás papeles/cartones sin estucar ni recubrir, en bobinas u hojas, de peso superior a 150 g/m2 pero inferior a 225 g/m2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.42.80</td>
-<td class="cuerpo_tabla_izq">Demás papeles y cartones sin estucar ni recubrir, en bobinas u hojas, peso &gt;= 225 g/m2.</td>
+<td>17.12.42.80</td>
+<td>Demás papeles y cartones sin estucar ni recubrir, en bobinas u hojas, peso &gt;= 225 g/m2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.51.10</td>
-<td class="cuerpo_tabla_izq">Cartón gris sin revestir.</td>
+<td>17.12.51.10</td>
+<td>Cartón gris sin revestir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.59.10</td>
-<td class="cuerpo_tabla_izq">Otro tipo de cartón sin revestir.</td>
+<td>17.12.59.10</td>
+<td>Otro tipo de cartón sin revestir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="7">17.12</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Tablero de cartón estucado.</td>
-<td class="cuerpo_tabla_centro">17.12.75.00</td>
-<td class="cuerpo_tabla_izq">Cartón kraft, excepto el utilizado para escribir, imprimir u otros fines gráficos, revestido con caolín o con otras sustancias inorgánicas.</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Cartón estucado.</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="7">0,403</td>
-<td class="cuerpo_tabla_izq" rowspan="7">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="7">1,09</td>
-<td class="cuerpo_tabla_izq" rowspan="7">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
+<td rowspan="7">17.12</td>
+<td rowspan="7">Tablero de cartón estucado.</td>
+<td>17.12.75.00</td>
+<td>Cartón kraft, excepto el utilizado para escribir, imprimir u otros fines gráficos, revestido con caolín o con otras sustancias inorgánicas.</td>
+<td rowspan="7">Cartón estucado.</td>
+<td rowspan="7">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="7">0,403</td>
+<td rowspan="7">MWh/t<sub>prod</sub></td>
+<td rowspan="7">1,09</td>
+<td rowspan="7">Todos los procesos directa o indirectamente relacionados con la producción de papel, incluidos el refinado, el prensado y el secado térmico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.77.55</td>
-<td class="cuerpo_tabla_izq">Papel y cartón recubierto impregnado de plástico, blanqueado, de peso &gt; 150 g/m2.</td>
+<td>17.12.77.55</td>
+<td>Papel y cartón recubierto impregnado de plástico, blanqueado, de peso &gt; 150 g/m2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.77.59</td>
-<td class="cuerpo_tabla_izq">Papel y cartón recubierto o impregnado de plástico, n.c.o.p.</td>
+<td>17.12.77.59</td>
+<td>Papel y cartón recubierto o impregnado de plástico, n.c.o.p.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.78.20</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Cartón gris, excepto el utilizado para escribir, imprimir u otros fines gráficos, revestido con caolín o con otras sustancias inorgánicas.</td>
+<td>17.12.78.20</td>
+<td rowspan="2">Cartón gris, excepto el utilizado para escribir, imprimir u otros fines gráficos, revestido con caolín o con otras sustancias inorgánicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.78.50</td>
+<td>17.12.78.50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.79.53</td>
-<td class="cuerpo_tabla_izq">Papel y cartón multicapas, estucados, con todas las capas blanqueadas.</td>
+<td>17.12.79.53</td>
+<td>Papel y cartón multicapas, estucados, con todas las capas blanqueadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.12.79.55</td>
-<td class="cuerpo_tabla_izq">Papel y cartón multicapas, estucados con una capa exterior blanqueada.</td>
+<td>17.12.79.55</td>
+<td>Papel y cartón multicapas, estucados con una capa exterior blanqueada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.13</td>
-<td class="cuerpo_tabla_izq">Ácido Sulfúrico.</td>
-<td class="cuerpo_tabla_centro">20.13.24.34</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico; oleum.</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico; oleum.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">0,056</td>
-<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de ácido sulfúrico.</td>
+<td>20.13</td>
+<td>Ácido Sulfúrico.</td>
+<td>20.13.24.34</td>
+<td>Ácido sulfúrico; oleum.</td>
+<td>Ácido sulfúrico; oleum.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>0,056</td>
+<td>MWh/t<sub>prod</sub></td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente relacionados con la producción de ácido sulfúrico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.13</td>
-<td class="cuerpo_tabla_izq">Cloro.</td>
-<td class="cuerpo_tabla_centro">20.13.21.11</td>
-<td class="cuerpo_tabla_izq">Cloro.</td>
-<td class="cuerpo_tabla_izq">Cloro.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">1,846</td>
-<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente vinculados a la unidad de electrólisis, incluidos los auxiliares.</td>
+<td>20.13</td>
+<td>Cloro.</td>
+<td>20.13.21.11</td>
+<td>Cloro.</td>
+<td>Cloro.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>1,846</td>
+<td>MWh/t<sub>prod</sub></td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente vinculados a la unidad de electrólisis, incluidos los auxiliares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.13</td>
-<td class="cuerpo_tabla_izq">Silicio.</td>
-<td class="cuerpo_tabla_centro">20.13.21.70</td>
-<td class="cuerpo_tabla_izq">Silicio. Excepto con un contenido de silicio superior o igual al 99,99% en peso.</td>
-<td class="cuerpo_tabla_izq">Silicio. Excepto con un contenido de silicio superior o igual al 99,99% en peso.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">11,87</td>
-<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de silicio.</td>
+<td>20.13</td>
+<td>Silicio.</td>
+<td>20.13.21.70</td>
+<td>Silicio. Excepto con un contenido de silicio superior o igual al 99,99% en peso.</td>
+<td>Silicio. Excepto con un contenido de silicio superior o igual al 99,99% en peso.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>11,87</td>
+<td>MWh/t<sub>prod</sub></td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente relacionados con la producción de silicio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.13</td>
-<td class="cuerpo_tabla_izq">Silicio.</td>
-<td class="cuerpo_tabla_centro">20.13.21.60</td>
-<td class="cuerpo_tabla_izq">Silicio. Con contenido de silicio superior o igual al 99,99% en peso.</td>
-<td class="cuerpo_tabla_izq">Silicio. Con contenido de silicio superior o igual al 99,99% en peso.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">60,00</td>
-<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente vinculados al horno, incluidos los auxiliares.</td>
+<td>20.13</td>
+<td>Silicio.</td>
+<td>20.13.21.60</td>
+<td>Silicio. Con contenido de silicio superior o igual al 99,99% en peso.</td>
+<td>Silicio. Con contenido de silicio superior o igual al 99,99% en peso.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>60,00</td>
+<td>MWh/t<sub>prod</sub></td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente vinculados al horno, incluidos los auxiliares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.13</td>
-<td class="cuerpo_tabla_izq">Carburo de Silicio.</td>
-<td class="cuerpo_tabla_centro">20.13.64.10</td>
-<td class="cuerpo_tabla_izq">Silicio. Carburos de silicio, aunque no sean de constitución química definida.</td>
-<td class="cuerpo_tabla_izq">Silicio. Carburos de silicio, aunque no sean de constitución química definida.</td>
-<td class="cuerpo_tabla_izq">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro">6,20</td>
-<td class="cuerpo_tabla_izq">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de carburo de silicio.</td>
+<td>20.13</td>
+<td>Carburo de Silicio.</td>
+<td>20.13.64.10</td>
+<td>Silicio. Carburos de silicio, aunque no sean de constitución química definida.</td>
+<td>Silicio. Carburos de silicio, aunque no sean de constitución química definida.</td>
+<td>Tonelada de producto (t<sub>prod</sub>).</td>
+<td>6,20</td>
+<td>MWh/t<sub>prod</sub></td>
+<td>1,09</td>
+<td>Todos los procesos directa o indirectamente relacionados con la producción de carburo de silicio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">24.10</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">Acero obtenido por soplado con oxígeno.</p>
+<td rowspan="3">24.10</td>
+<td rowspan="3">
+<p>Acero obtenido por soplado con oxígeno.</p>
 </td>
-<td class="cuerpo_tabla_centro">24.10.T1.22</td>
-<td class="cuerpo_tabla_izq">Acero bruto: acero sin alear fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
-<td class="cuerpo_tabla_izq">Acero bruto: acero sin alear fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Tonelada de producto (t<sub>prod</sub>).</td>
-<td class="cuerpo_tabla_centro" rowspan="3">0,03385</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="3">0,6</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Metalurgia secundaria, precalentamiento de refractarios, instalaciones auxiliares y de colada hasta corte de productos de acero bruto.</td>
+<td>24.10.T1.22</td>
+<td>Acero bruto: acero sin alear fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td>Acero bruto: acero sin alear fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td rowspan="3">Tonelada de producto (t<sub>prod</sub>).</td>
+<td rowspan="3">0,03385</td>
+<td rowspan="3">MWh/t<sub>prod</sub></td>
+<td rowspan="3">0,6</td>
+<td rowspan="3">Metalurgia secundaria, precalentamiento de refractarios, instalaciones auxiliares y de colada hasta corte de productos de acero bruto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10.T1.32</td>
-<td class="cuerpo_tabla_izq">Acero bruto: acero aleado, excepto inoxidable, fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
-<td class="cuerpo_tabla_izq">Acero bruto: acero aleado, excepto inoxidable, fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td>24.10.T1.32</td>
+<td>Acero bruto: acero aleado, excepto inoxidable, fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td>Acero bruto: acero aleado, excepto inoxidable, fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10.T1.42</td>
-<td class="cuerpo_tabla_izq">Acero bruto: acero inoxidable y termorresistente fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
-<td class="cuerpo_tabla_izq">Acero bruto: acero inoxidable y termorresistente fabricado por otros procesos distintos de los hornos eléctricos.</td>
+<td>24.10.T1.42</td>
+<td>Acero bruto: acero inoxidable y termorresistente fabricado por otros procedimientos distintos de los hornos eléctricos.</td>
+<td>Acero bruto: acero inoxidable y termorresistente fabricado por otros procesos distintos de los hornos eléctricos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">24.10</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Ferromanganeso.</td>
-<td class="cuerpo_tabla_centro">24.10.12.10</td>
-<td class="cuerpo_tabla_izq">Ferromanganeso, que contiene en peso &gt; 2% de carbono, con una granulometría &lt;= 5 mm y un contenido de manganeso en peso &gt; 65%.</td>
-<td class="cuerpo_tabla_izq">Ferromanganeso, que contiene en peso&gt; 2% de carbono, con una granulometría &lt;= 5 mm y un contenido de manganeso en peso &gt; 65%.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Ferromanganeso que contiene en peso &gt; 2% de carbono.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2,2</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MWh/t<sub>prod</sub></td>
-<td class="cuerpo_tabla_centro" rowspan="2">2,03</td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td rowspan="3">24.10</td>
+<td rowspan="3">Ferromanganeso.</td>
+<td>24.10.12.10</td>
+<td>Ferromanganeso, que contiene en peso &gt; 2% de carbono, con una granulometría &lt;= 5 mm y un contenido de manganeso en peso &gt; 65%.</td>
+<td>Ferromanganeso, que contiene en peso&gt; 2% de carbono, con una granulometría &lt;= 5 mm y un contenido de manganeso en peso &gt; 65%.</td>
+<td rowspan="2">Ferromanganeso que contiene en peso &gt; 2% de carbono.</td>
+<td rowspan="2">2,2</td>
+<td rowspan="3">MWh/t<sub>prod</sub></td>
+<td rowspan="2">2,03</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10.12.20</td>
-<td class="cuerpo_tabla_izq">Otros ferromanganesos, conteniendo en peso &gt; 2% de carbono (excluido ferromanganeso con una granulometría de &lt;= 5 mm y conteniendo en peso &gt; 65% de manganeso).</td>
-<td class="cuerpo_tabla_izq">Otros ferromanganesos, conteniendo en peso&gt; 2% de carbono (excluido ferromanganeso con una granulometría de &lt;= 5 mm y conteniendo en peso &gt; 65% de manganeso).</td>
+<td>24.10.12.20</td>
+<td>Otros ferromanganesos, conteniendo en peso &gt; 2% de carbono (excluido ferromanganeso con una granulometría de &lt;= 5 mm y conteniendo en peso &gt; 65% de manganeso).</td>
+<td>Otros ferromanganesos, conteniendo en peso&gt; 2% de carbono (excluido ferromanganeso con una granulometría de &lt;= 5 mm y conteniendo en peso &gt; 65% de manganeso).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10.12.25</td>
-<td class="cuerpo_tabla_izq">Otro ferromanganeso con un contenido de carbono inferior o igual al 2% en peso.</td>
-<td class="cuerpo_tabla_izq">Otro ferromanganeso con un contenido de carbono inferior o igual al 2% en peso.</td>
-<td class="cuerpo_tabla_izq">Ferromanganeso que contiene en peso &lt;= 2% de carbono.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>24.10.12.25</td>
+<td>Otro ferromanganeso con un contenido de carbono inferior o igual al 2% en peso.</td>
+<td>Otro ferromanganeso con un contenido de carbono inferior o igual al 2% en peso.</td>
+<td>Ferromanganeso que contiene en peso &lt;= 2% de carbono.</td>
+<td>1,4</td>
+<td>1,09</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10</td>
-<td class="cuerpo_tabla_izq">Ferrosilicio.</td>
-<td class="cuerpo_tabla_centro">24.10.12.35</td>
-<td class="cuerpo_tabla_izq">Ferro-silicio, que contiene en peso &gt; 55% de silicio.</td>
-<td class="cuerpo_tabla_izq">Ferrosilicio, que contiene en peso&gt; 55% de silicio.</td>
-<td class="cuerpo_tabla_izq">Ferrosilicio, que contiene en peso&gt; 55% de silicio.</td>
-<td class="cuerpo_tabla_centro">8,54</td>
-<td class="cuerpo_tabla_izq">MWh/tprod</td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>24.10</td>
+<td>Ferrosilicio.</td>
+<td>24.10.12.35</td>
+<td>Ferro-silicio, que contiene en peso &gt; 55% de silicio.</td>
+<td>Ferrosilicio, que contiene en peso&gt; 55% de silicio.</td>
+<td>Ferrosilicio, que contiene en peso&gt; 55% de silicio.</td>
+<td>8,54</td>
+<td>MWh/tprod</td>
+<td>1,09</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10</td>
-<td class="cuerpo_tabla_izq">Ferrosilicio.</td>
-<td class="cuerpo_tabla_centro">24.10.12.36</td>
-<td class="cuerpo_tabla_izq">Ferrosilicio, que contiene en peso &lt;= 55% de silicio y &gt; = 4% pero &lt;= 10% de magnesio.</td>
-<td class="cuerpo_tabla_izq">Ferrosilicio.</td>
-<td class="cuerpo_tabla_izq" colspan="3">Enfoque Alternativo.</td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>24.10</td>
+<td>Ferrosilicio.</td>
+<td>24.10.12.36</td>
+<td>Ferrosilicio, que contiene en peso &lt;= 55% de silicio y &gt; = 4% pero &lt;= 10% de magnesio.</td>
+<td>Ferrosilicio.</td>
+<td colspan="3">Enfoque Alternativo.</td>
+<td>1,09</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10</td>
-<td class="cuerpo_tabla_izq">Ferroníquel.</td>
-<td class="cuerpo_tabla_centro">24.10.12.40</td>
-<td class="cuerpo_tabla_izq">Ferroníquel.</td>
-<td class="cuerpo_tabla_izq">Ferroníquel.</td>
-<td class="cuerpo_tabla_izq">Ferroníquel.</td>
-<td class="cuerpo_tabla_centro">9,28</td>
-<td class="cuerpo_tabla_izq">MWh/tprod</td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>24.10</td>
+<td>Ferroníquel.</td>
+<td>24.10.12.40</td>
+<td>Ferroníquel.</td>
+<td>Ferroníquel.</td>
+<td>Ferroníquel.</td>
+<td>9,28</td>
+<td>MWh/tprod</td>
+<td>1,09</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Ferrosilico manganeso.</p>
+<td>24.10</td>
+<td>
+<p>Ferrosilico manganeso.</p>
 </td>
-<td class="cuerpo_tabla_centro">24.10.12.45</td>
-<td class="cuerpo_tabla_izq">Ferrosilicomanganeso.</td>
-<td class="cuerpo_tabla_izq">Ferrosilicomanganeso.</td>
-<td class="cuerpo_tabla_izq">Ferrosilicomanganeso.</td>
-<td class="cuerpo_tabla_centro">3,419</td>
-<td class="cuerpo_tabla_izq">MWh/tprod</td>
-<td class="cuerpo_tabla_centro">1,12</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>24.10.12.45</td>
+<td>Ferrosilicomanganeso.</td>
+<td>Ferrosilicomanganeso.</td>
+<td>Ferrosilicomanganeso.</td>
+<td>3,419</td>
+<td>MWh/tprod</td>
+<td>1,12</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">24.42</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Aluminio primario.</td>
-<td class="cuerpo_tabla_centro">24.42.11.30</td>
-<td class="cuerpo_tabla_izq">Aluminio en bruto sin alear (excepto en polvo y escamas).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Aluminio en bruto sin alear procedente de la electrólisis.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Aluminio en bruto sin alear.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">13,90</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MWh/tprod</td>
-<td class="cuerpo_tabla_centro" rowspan="3">0,25</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Aluminio en bruto sin alear procedente de la electrólisis, incluidas las unidades de control de producción, los procesos auxiliares y la caseta de fundición. También incluye planta de ánodo (pre-horneado). En caso de que los ánodos se proporcionen desde una planta independiente en la UE, esta planta no debe ser compensada. Para el ánodo producido fuera de la UE, se puede aplicar una corrección.</td>
+<td rowspan="3">24.42</td>
+<td rowspan="3">Aluminio primario.</td>
+<td>24.42.11.30</td>
+<td>Aluminio en bruto sin alear (excepto en polvo y escamas).</td>
+<td rowspan="3">Aluminio en bruto sin alear procedente de la electrólisis.</td>
+<td rowspan="3">Aluminio en bruto sin alear.</td>
+<td rowspan="3">13,90</td>
+<td rowspan="3">MWh/tprod</td>
+<td rowspan="3">0,25</td>
+<td rowspan="3">Aluminio en bruto sin alear procedente de la electrólisis, incluidas las unidades de control de producción, los procesos auxiliares y la caseta de fundición. También incluye planta de ánodo (pre-horneado). En caso de que los ánodos se proporcionen desde una planta independiente en la UE, esta planta no debe ser compensada. Para el ánodo producido fuera de la UE, se puede aplicar una corrección.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.42.11.53</td>
-<td class="cuerpo_tabla_izq">Aleaciones de aluminio en bruto, aleado de primera fundición (excluidos los polvos y escamas de aluminio).</td>
+<td>24.42.11.53</td>
+<td>Aleaciones de aluminio en bruto, aleado de primera fundición (excluidos los polvos y escamas de aluminio).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.42.11.54</td>
-<td class="cuerpo_tabla_izq">Aleaciones de aluminio en bruto, aleado (excepto en polvo y escamas de aluminio).</td>
+<td>24.42.11.54</td>
+<td>Aleaciones de aluminio en bruto, aleado (excepto en polvo y escamas de aluminio).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.42</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Alúmina (refinamiento).</p>
+<td>24.42</td>
+<td>
+<p>Alúmina (refinamiento).</p>
 </td>
-<td class="cuerpo_tabla_centro">24.42.12.00</td>
-<td class="cuerpo_tabla_izq">Óxido de aluminio, excepto corindón artificial.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Alúmina.</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_izq">MWh/tprod</td>
-<td class="cuerpo_tabla_centro">1,11</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Todos los procesos directa o indirectamente relacionados con la producción de alúmina.</p>
+<td>24.42.12.00</td>
+<td>Óxido de aluminio, excepto corindón artificial.</td>
+<td> </td>
+<td>Alúmina.</td>
+<td>0,20</td>
+<td>MWh/tprod</td>
+<td>1,11</td>
+<td>
+<p>Todos los procesos directa o indirectamente relacionados con la producción de alúmina.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">24.43</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Electrólisis de zinc.</td>
-<td class="cuerpo_tabla_centro">24.43.12.30</td>
-<td class="cuerpo_tabla_izq">Zinc en bruto sin alear (excepto polvo, polvos y escamas de zinc).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Zinc primario.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Zinc.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3,994</td>
-<td class="cuerpo_tabla_izq" rowspan="2">MWh/tprod</td>
-<td class="cuerpo_tabla_centro" rowspan="2">0,01</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Todos los procesos directa o indirectamente vinculados a la unidad de electrólisis de zinc, incluidos los auxiliares.</td>
+<td rowspan="2">24.43</td>
+<td rowspan="2">Electrólisis de zinc.</td>
+<td>24.43.12.30</td>
+<td>Zinc en bruto sin alear (excepto polvo, polvos y escamas de zinc).</td>
+<td rowspan="2">Zinc primario.</td>
+<td rowspan="2">Zinc.</td>
+<td rowspan="2">3,994</td>
+<td rowspan="2">MWh/tprod</td>
+<td rowspan="2">0,01</td>
+<td rowspan="2">Todos los procesos directa o indirectamente vinculados a la unidad de electrólisis de zinc, incluidos los auxiliares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.43.12.50</td>
-<td class="cuerpo_tabla_izq">Aleaciones de zinc en bruto (excepto polvo, polvos y escamas de zinc).</td>
+<td>24.43.12.50</td>
+<td>Aleaciones de zinc en bruto (excepto polvo, polvos y escamas de zinc).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.44</td>
-<td class="cuerpo_tabla_izq">Cobre refinado en bruto.</td>
-<td class="cuerpo_tabla_centro">24.44.13.30</td>
-<td class="cuerpo_tabla_izq">Cobre refinado sin alear en bruto (excluidos los productos sinterizados laminados, extruidos o forjados).</td>
-<td class="cuerpo_tabla_izq">Cátodos de cobre.</td>
-<td class="cuerpo_tabla_izq">Cátodos de cobre.</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_izq">MWh/tprod</td>
-<td class="cuerpo_tabla_centro">1,09</td>
-<td class="cuerpo_tabla_izq">Todos los procesos relacionados directa o indirectamente con el proceso de refinado electrolítico, incluida la fundición de ánodos in situ cuando proceda.</td>
+<td>24.44</td>
+<td>Cobre refinado en bruto.</td>
+<td>24.44.13.30</td>
+<td>Cobre refinado sin alear en bruto (excluidos los productos sinterizados laminados, extruidos o forjados).</td>
+<td>Cátodos de cobre.</td>
+<td>Cátodos de cobre.</td>
+<td>0,31</td>
+<td>MWh/tprod</td>
+<td>1,09</td>
+<td>Todos los procesos relacionados directa o indirectamente con el proceso de refinado electrolítico, incluida la fundición de ánodos in situ cuando proceda.</td>
 </tr>
 </tbody>
 </table>

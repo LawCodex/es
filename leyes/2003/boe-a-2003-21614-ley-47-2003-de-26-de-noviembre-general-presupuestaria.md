@@ -1228,8 +1228,6 @@ a) Cuando así lo disponga una norma de rango legal.
 
 b) Los procedentes de las generaciones a que se refiere el apartado 2 del artículo 53, en sus párrafos a) y e).
 
-> Téngase en cuenta que se deja sin efecto lo previsto en la letra b), durante la vigencia de los presupuestos generales del Estado para el año 2023, en la forma señalada en el art. 10.5 de la Ley 31/2022, de 23 de diciembre. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
-
 c) Los derivados de retenciones efectuadas para la financiación de créditos extraordinarios o suplementos de crédito, cuando haya sido anticipado su pago de acuerdo con el procedimiento previsto en esta ley y las leyes de concesión hayan quedado pendientes de aprobación por el Parlamento al final del ejercicio presupuestario.
 
 d) Los que resulten de créditos extraordinarios y suplementos de crédito que hayan sido concedidos mediante norma con rango de ley en el último mes del ejercicio presupuestario anterior.

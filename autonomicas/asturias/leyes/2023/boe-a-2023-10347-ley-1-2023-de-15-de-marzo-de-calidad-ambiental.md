@@ -444,8 +444,6 @@ c) Bienes y servicios adheridos a un sistema de certificación ambiental, dando 
 
 3\. En los pliegos de cláusulas administrativas y prescripciones técnicas particulares para la ejecución de contratos de obras y suministros de las Administraciones públicas se indicarán los porcentajes de subproductos, materias primas secundarias, materiales reciclados o provenientes de procesos de preparación para la reutilización que se tengan que utilizar para cada uno de ellos. El porcentaje mínimo de utilización de dichos materiales será del 40 por ciento, salvo que, por motivos técnicos justificados, este porcentaje deba ser reducido. Asimismo, deberán establecerse los mecanismos de control adecuados y, en su caso, las cláusulas de penalización oportunas para garantizar el debido cumplimiento de las condiciones de ejecución previstas en los contratos.
 
-> Téngase en cuenta que se suspende la aplicación del apartado 3 durante un plazo de dos años, desde el 1 de enero de 2024, en la forma establecida por la disposición adicional 12 de la Ley 4/2023, de 29 de diciembre. [Ref. BOE-A-2024-1776](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1776)
-
 > Se suspende la aplicación del apartado 3 durante un plazo de dos años, desde el 1 de enero de 2024, en la forma establecida por la disposición adicional 12 de la Ley 4/2023, de 29 de diciembre. [Ref. BOE-A-2024-1776](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1776)
 
 ##### Artículo 21. Fiscalidad ambiental.

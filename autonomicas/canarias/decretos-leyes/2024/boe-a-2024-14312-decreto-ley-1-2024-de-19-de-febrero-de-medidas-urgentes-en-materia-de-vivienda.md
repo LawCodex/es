@@ -592,52 +592,42 @@ Cinco. El artículo 6, apartado 1, queda redactado del modo siguiente:
 
 > Aplicando los coeficientes indicados se obtiene las cuantías del precio de referencia unitario en función de la isla y de la tipología edificatoria:
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="28%">
-> <col width="10%">
-> <col width="12%">
-> <col width="10%">
-> <col width="10%">
-> <col width="10%">
-> <col width="10%">
-> <col width="10%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="8">Valores del precio máximo de venta o de referencia, incluyendo repercusión del terreno</th>
+> <th colspan="8">Valores del precio máximo de venta o de referencia, incluyendo repercusión del terreno</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Valores por tipología e isla</th>
-> <th class="cabeza_tabla">El Hierro</th>
-> <th class="cabeza_tabla">Fuerteventura</th>
-> <th class="cabeza_tabla">Gran Canaria</th>
-> <th class="cabeza_tabla">La Gomera</th>
-> <th class="cabeza_tabla">Lanzarote</th>
-> <th class="cabeza_tabla">La Palma</th>
-> <th class="cabeza_tabla">Tenerife</th>
+> <th>Valores por tipología e isla</th>
+> <th>El Hierro</th>
+> <th>Fuerteventura</th>
+> <th>Gran Canaria</th>
+> <th>La Gomera</th>
+> <th>Lanzarote</th>
+> <th>La Palma</th>
+> <th>Tenerife</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Vivienda unifamiliar entre medianeras.</td>
-> <td class="cuerpo_tabla_coma">2242,30</td>
-> <td class="cuerpo_tabla_coma">2242,30</td>
-> <td class="cuerpo_tabla_coma">2002,05</td>
-> <td class="cuerpo_tabla_coma">2242,30</td>
-> <td class="cuerpo_tabla_coma">2242,30</td>
-> <td class="cuerpo_tabla_coma">2242,30</td>
-> <td class="cuerpo_tabla_coma">2002,05</td>
+> <td>Vivienda unifamiliar entre medianeras.</td>
+> <td>2242,30</td>
+> <td>2242,30</td>
+> <td>2002,05</td>
+> <td>2242,30</td>
+> <td>2242,30</td>
+> <td>2242,30</td>
+> <td>2002,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Edificio vivienda colectiva.</td>
-> <td class="cuerpo_tabla_coma">2133,89</td>
-> <td class="cuerpo_tabla_coma">2133,89</td>
-> <td class="cuerpo_tabla_coma">1905,26</td>
-> <td class="cuerpo_tabla_coma">2133,89</td>
-> <td class="cuerpo_tabla_coma">2133,89</td>
-> <td class="cuerpo_tabla_coma">2133,89</td>
-> <td class="cuerpo_tabla_coma">1905,26</td>
+> <td>Edificio vivienda colectiva.</td>
+> <td>2133,89</td>
+> <td>2133,89</td>
+> <td>1905,26</td>
+> <td>2133,89</td>
+> <td>2133,89</td>
+> <td>2133,89</td>
+> <td>1905,26</td>
 > </tr>
 > </tbody>
 > </table>

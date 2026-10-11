@@ -243,1430 +243,1416 @@ Parte B. Lista de coadyuvantes tecnológicos
 
 Además de los establecidos en la tabla siguiente, se puede emplear gas nitrógeno<sup>1</sup> como coadyuvante tecnológico durante el procesado de los alimentos, con el fin de evitar oxidaciones, siempre en fases previas al envasado. En el caso de emplearse con este fin en el envasado, deberá figurar en el etiquetado de acuerdo con lo dispuesto en el Reglamento (UE) n.º 1169/2011 del Parlamento Europeo y del Consejo, de 25 de octubre de 2011, sobre la información alimentaria facilitada al consumidor y por el que se modifican los Reglamentos (CE) n.º 1924/2006 y (CE) n.º 1925/2006 del Parlamento Europeo y del Consejo, por el que se derogan la Directiva 87/250/CEE de la Comisión, la Directiva 90/496/CEE del Consejo, la Directiva 1999/10/CE de la Comisión, la Directiva 2000/13/CE del Parlamento Europeo y del Consejo, las Directivas 2002/67/CE, y 2008/5/CE de la Comisión, y el Reglamento (CE) n.º 608/2004 de la Comisión.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Alimento</th>
-<th class="cabeza_tabla">Nombre del coadyuvante</th>
-<th class="cabeza_tabla">Categoría</th>
-<th class="cabeza_tabla">Condiciones de uso/Función</th>
-<th class="cabeza_tabla">Cantidad máxima residual</th>
+<th>Alimento</th>
+<th>Nombre del coadyuvante</th>
+<th>Categoría</th>
+<th>Condiciones de uso/Función</th>
+<th>Cantidad máxima residual</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Aceitunas de mesa.</td>
-<td class="cuerpo_tabla_izq">Ácido clorhídrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Neutralizante.</td>
-<td class="cuerpo_tabla_izq">Para la neutralización de la lejía alcalina residual / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aceitunas de mesa.</td>
+<td>Ácido clorhídrico<sup>1</sup>.</td>
+<td>Neutralizante.</td>
+<td>Para la neutralización de la lejía alcalina residual / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceitunas de mesa.</td>
-<td class="cuerpo_tabla_izq">Cultivos de microorganismos lácticos.</td>
-<td class="cuerpo_tabla_izq">Iniciadores de la fermentación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aceitunas de mesa.</td>
+<td>Cultivos de microorganismos lácticos.</td>
+<td>Iniciadores de la fermentación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceitunas de mesa.</td>
-<td class="cuerpo_tabla_izq">Gluconato de manganeso.</td>
-<td class="cuerpo_tabla_izq">Catalizador en el proceso de ennegrecimiento.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable (Buenas prácticas de fabricación (BPF)).</td>
+<td>Aceitunas de mesa.</td>
+<td>Gluconato de manganeso.</td>
+<td>Catalizador en el proceso de ennegrecimiento.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable (Buenas prácticas de fabricación (BPF)).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceitunas de mesa.</td>
-<td class="cuerpo_tabla_izq">Hidróxido sódico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Acondicionador.</td>
-<td class="cuerpo_tabla_izq">Para la preparación de lejías alcalinas para la eliminación del principio amargo en los tipos y preparaciones comerciales que así lo requieran / dosis estrictamente necesaria para alcanzar el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aceitunas de mesa.</td>
+<td>Hidróxido sódico<sup>1</sup>.</td>
+<td>Acondicionador.</td>
+<td>Para la preparación de lejías alcalinas para la eliminación del principio amargo en los tipos y preparaciones comerciales que así lo requieran / dosis estrictamente necesaria para alcanzar el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceitunas de mesa.</td>
-<td class="cuerpo_tabla_izq">Lactato de manganeso.</td>
-<td class="cuerpo_tabla_izq">Catalizador en el proceso de ennegrecimiento.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable (Buenas prácticas de fabricación(BPF)).</td>
+<td>Aceitunas de mesa.</td>
+<td>Lactato de manganeso.</td>
+<td>Catalizador en el proceso de ennegrecimiento.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable (Buenas prácticas de fabricación(BPF)).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Albúmina.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Albúmina.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Bentonita.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Caseína<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Caseína<sup>2</sup>.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Celulosa.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Celulosa.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio amorfo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Dióxido de silicio amorfo<sup>1</sup>.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Enzimas.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Gelatina alimenticia.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Gelatina alimenticia.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Taninos.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
-<td class="cuerpo_tabla_izq">Tierras de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtración y clarificación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguardientes compuestos, licores, aperitivos sin vino base, y otras bebidas derivadas de alcoholes naturales.</td>
+<td>Tierras de infusorios.</td>
+<td>Filtración y clarificación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas minerales naturales, aguas de manantial y aguas preparadas envasadas para el consumo humano.</td>
-<td class="cuerpo_tabla_izq">Nitrógeno<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Gas de envasado.</td>
-<td class="cuerpo_tabla_izq">Mantener una adecuada presión en el envase para asegurar su estabilidad / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Aguas minerales naturales, aguas de manantial y aguas preparadas envasadas para el consumo humano.</td>
+<td>Nitrógeno<sup>1</sup>.</td>
+<td>Gas de envasado.</td>
+<td>Mantener una adecuada presión en el envase para asegurar su estabilidad / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Aceite de parafina.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Aceite de parafina.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Aceite de vaselina.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Aceite de vaselina.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Aceites vegetales comestibles.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Aceites vegetales comestibles.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Ácido clorhídrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Ácido clorhídrico<sup>1</sup>.</td>
+<td>Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Ácido sulfúrico<sup>1</sup>.</td>
+<td>Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Carbonato sódico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Carbonato sódico<sup>1</sup>.</td>
+<td>Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Celulosa en polvo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Celulosa en polvo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Celulosa microcristalina<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Celulosa microcristalina<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Cianoditioimidocarbonato disódico.</td>
-<td class="cuerpo_tabla_izq">Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
-<td class="cuerpo_tabla_izq">Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 2,5 mg/kg de caña o remolacha.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Cianoditioimidocarbonato disódico.</td>
+<td>Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
+<td>Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 2,5 mg/kg de caña o remolacha.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Compuestos de amonio cuaternario.</td>
-<td class="cuerpo_tabla_izq">Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
-<td class="cuerpo_tabla_izq">Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 10 mg/kg de caña o remolacha.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Compuestos de amonio cuaternario.</td>
+<td>Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
+<td>Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 10 mg/kg de caña o remolacha.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Dióxido de carbono<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Neutralizante.</td>
-<td class="cuerpo_tabla_izq">Neutralizante de la cal para la purificación del jugo de difusión del azúcar / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Dióxido de carbono<sup>1</sup>.</td>
+<td>Neutralizante.</td>
+<td>Neutralizante de la cal para la purificación del jugo de difusión del azúcar / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Etilenbisditiocarbamato disódico.</td>
-<td class="cuerpo_tabla_izq">Productos para el control de microorganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
-<td class="cuerpo_tabla_izq">Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 3 mg/kg de caña o remolacha.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Etilenbisditiocarbamato disódico.</td>
+<td>Productos para el control de microorganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
+<td>Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 3 mg/kg de caña o remolacha.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Etilendiamina.</td>
-<td class="cuerpo_tabla_izq">Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
-<td class="cuerpo_tabla_izq">Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 2 mg/kg de caña o remolacha.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Etilendiamina.</td>
+<td>Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
+<td>Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 2 mg/kg de caña o remolacha.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Hidróxido cálcico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
-<td class="cuerpo_tabla_izq">Purificación química del jugo por precipitación de una parte de las sustancias no glucósidos disueltas y dispersas / dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Hidróxido cálcico<sup>1</sup>.</td>
+<td>Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
+<td>Purificación química del jugo por precipitación de una parte de las sustancias no glucósidos disueltas y dispersas / dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Hidróxido sódico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Hidróxido sódico<sup>1</sup>.</td>
+<td>Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Mezcla de β-ácidos naturales procedentes del extracto de lúpulo.</td>
-<td class="cuerpo_tabla_izq">Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
-<td class="cuerpo_tabla_izq">Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 3 mg/kg de caña o remolacha.</td>
-<td class="cuerpo_tabla_izq">&lt;0,01 mg/kg azúcar.</td>
+<td>Azúcares.</td>
+<td>Mezcla de β-ácidos naturales procedentes del extracto de lúpulo.</td>
+<td>Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
+<td>Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 3 mg/kg de caña o remolacha.</td>
+<td>&lt;0,01 mg/kg azúcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Monoestearato de sorbitano<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Monoestearato de sorbitano<sup>1</sup>.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">N-metilditiocarbamato potásico.</td>
-<td class="cuerpo_tabla_izq">Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
-<td class="cuerpo_tabla_izq">Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 3,5 mg/kg de caña o remolacha.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>N-metilditiocarbamato potásico.</td>
+<td>Productos para el control de microrganismos en los procesos de molienda, extracción y difusión del azúcar.</td>
+<td>Para control de microorganismos en los procesos de molienda, extracción y difusión del azúcar. Dosis máxima de uso: 3,5 mg/kg de caña o remolacha.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Oleato de glicerilo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Oleato de glicerilo<sup>1</sup>.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Oleato de polietilenglicol.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Oleato de polietilenglicol.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Poliacrilato sódico.</td>
-<td class="cuerpo_tabla_izq">Antiincrustante.</td>
-<td class="cuerpo_tabla_izq">5 ppm sobre jarabe.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Poliacrilato sódico.</td>
+<td>Antiincrustante.</td>
+<td>5 ppm sobre jarabe.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Polietilenglicol<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Polietilenglicol<sup>1</sup>.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Polímeros de los ácidos acrílico y metacrílico, sus sales sódicas, ésteres, amidas y <span class="no_partir">N-metil-</span>amidas y los homo y copolímeros de los mismos.</td>
-<td class="cuerpo_tabla_izq"><span class="no_partir">Floculante</span>.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Polímeros de los ácidos acrílico y metacrílico, sus sales sódicas, ésteres, amidas y <span>N-metil-</span>amidas y los homo y copolímeros de los mismos.</td>
+<td><span>Floculante</span>.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Polipropilenglicol<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Polipropilenglicol<sup>1</sup>.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Sal sódica del ácido poliaspártico (n.º CAS 181828-06-8), en solución acuosa al 40 %.</td>
-<td class="cuerpo_tabla_izq">Antiincrustante.</td>
-<td class="cuerpo_tabla_izq">Para prevenir la formación de depósitos de fosfato de calcio y magnesio a la dosis máxima de 5 ppm de sal sódica del ácido poliaspártico sobre remolacha o caña.</td>
-<td class="cuerpo_tabla_izq">&lt;2 mg/kg de azúcar.</td>
+<td>Azúcares.</td>
+<td>Sal sódica del ácido poliaspártico (n.º CAS 181828-06-8), en solución acuosa al 40 %.</td>
+<td>Antiincrustante.</td>
+<td>Para prevenir la formación de depósitos de fosfato de calcio y magnesio a la dosis máxima de 5 ppm de sal sódica del ácido poliaspártico sobre remolacha o caña.</td>
+<td>&lt;2 mg/kg de azúcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Silicato alumínico sódico-potásico.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Silicato alumínico sódico-potásico.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Sulfato cálcico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Sulfato cálcico<sup>1</sup>.</td>
+<td>Producto para la purificación química del jugo de difusión y refinación del azúcar.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares.</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares.</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Albúmina de huevo.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Albúmina de huevo.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Filtrante-decolorante-clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Bentonita.</td>
+<td>Filtrante-decolorante-clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Caolín.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Caolín.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Decolorante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Decolorante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Gelatina alimenticia.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Gelatina alimenticia.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Taninos.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en Jarabes.</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en Jarabes.</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Aceites vegetales comestibles.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Aceites vegetales comestibles.</td>
+<td>Antiespumante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Ácido clorhídrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Ácido clorhídrico<sup>1</sup>.</td>
+<td>Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Ácido sulfúrico<sup>1</sup>.</td>
+<td>Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Alfa-amilasa<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Alfa-amilasa<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Beta-amilasa<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Beta-amilasa<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Bisulfito sódico o metabisulfito<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Bisulfito sódico o metabisulfito<sup>1</sup>.</td>
+<td>Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Carbonato sódico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Carbonato sódico<sup>1</sup>.</td>
+<td>Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Extractos de malta<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Extractos de malta<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Gluco-amilasa<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Gluco-amilasa<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Harina de madera lavada.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Harina de madera lavada.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Hidróxido amónico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Hidróxido amónico<sup>1</sup>.</td>
+<td>Productos para hidrólisis de almidones y féculas y regulación del pH en lechadas y jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Isomerasa<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Isomerasa<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Pullulanasa<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Pullulanasa<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Resinas de intercambio iónico aniónicas.</td>
-<td class="cuerpo_tabla_izq">Desionizador de los jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Resinas de intercambio iónico aniónicas.</td>
+<td>Desionizador de los jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Resinas de intercambio iónico catiónicas.</td>
-<td class="cuerpo_tabla_izq">Desionizador de los jarabes.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Resinas de intercambio iónico catiónicas.</td>
+<td>Desionizador de los jarabes.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Silicato alumínico sódico-potásico.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Silicato alumínico sódico-potásico.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares - Sólo permitido en «otros azúcares».</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares - Sólo permitido en «otros azúcares».</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares invertidos.</td>
-<td class="cuerpo_tabla_izq">Ácido clorhídrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Agente de hidrólisis.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares invertidos.</td>
+<td>Ácido clorhídrico<sup>1</sup>.</td>
+<td>Agente de hidrólisis.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares invertidos.</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Agente de hidrólisis.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares invertidos.</td>
+<td>Ácido sulfúrico<sup>1</sup>.</td>
+<td>Agente de hidrólisis.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares invertidos.</td>
-<td class="cuerpo_tabla_izq">Invertasa<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares invertidos.</td>
+<td>Invertasa<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares invertidos.</td>
-<td class="cuerpo_tabla_izq">Resinas.</td>
-<td class="cuerpo_tabla_izq">Otros para la obtención de azúcares invertidos.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Azúcares invertidos.</td>
+<td>Resinas.</td>
+<td>Otros para la obtención de azúcares invertidos.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Bentonita.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Caolín.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Caolín.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Celulosa.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Celulosa.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Dimetilpolisiloxano<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Facilita el proceso de fabricación de las bebidas refrescantes / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Dimetilpolisiloxano<sup>1</sup>.</td>
+<td>Antiespumante.</td>
+<td>Facilita el proceso de fabricación de las bebidas refrescantes / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Dióxido de carbono<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Gas de envasado.</td>
-<td class="cuerpo_tabla_izq">Mantener una adecuada presión en el envase para asegurar su estabilidad / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Dióxido de carbono<sup>1</sup>.</td>
+<td>Gas de envasado.</td>
+<td>Mantener una adecuada presión en el envase para asegurar su estabilidad / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Nitrógeno<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Gas de envasado.</td>
-<td class="cuerpo_tabla_izq">Mantener una adecuada presión en el envase para asegurar su estabilidad / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Nitrógeno<sup>1</sup>.</td>
+<td>Gas de envasado.</td>
+<td>Mantener una adecuada presión en el envase para asegurar su estabilidad / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Silicato de sodio y aluminio<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Silicato de sodio y aluminio<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bebidas refrescantes.</td>
-<td class="cuerpo_tabla_izq">Zeolita.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Bebidas refrescantes.</td>
+<td>Zeolita.</td>
+<td>Filtrante.</td>
+<td>Agente filtrante para los jarabes o preparados básicos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cefalópodos.</td>
-<td class="cuerpo_tabla_izq">Peróxido de hidrógeno.</td>
-<td class="cuerpo_tabla_izq">Bacteriostático.</td>
-<td class="cuerpo_tabla_izq">Concentración de uso: 0,05 %; Tiempo de contacto 24 horas.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cefalópodos.</td>
+<td>Peróxido de hidrógeno.</td>
+<td>Bacteriostático.</td>
+<td>Concentración de uso: 0,05 %; Tiempo de contacto 24 horas.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Albúmina.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Albúmina.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Alginato<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Alginato<sup>1</sup>.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Celulosa.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Celulosa.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Dióxido de carbono<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Gas propulsor.</td>
-<td class="cuerpo_tabla_izq">Gas propelente para el despacho de cerveza de barril o de otros grandes formatos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Dióxido de carbono<sup>1</sup>.</td>
+<td>Gas propulsor.</td>
+<td>Gas propelente para el despacho de cerveza de barril o de otros grandes formatos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Emulsión acuosa de grasas, ceras y resinas duras extraídas del lúpulo (CAS 8060-28-4, EINECS 232-504-3).</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Dosis máxima de 100 g emulsión/hl (es decir &lt; 8 gramos de extracto de lúpulo/ hl).</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Emulsión acuosa de grasas, ceras y resinas duras extraídas del lúpulo (CAS 8060-28-4, EINECS 232-504-3).</td>
+<td>Antiespumante.</td>
+<td>Dosis máxima de 100 g emulsión/hl (es decir &lt; 8 gramos de extracto de lúpulo/ hl).</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Nitrógeno<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Gas propulsor.</td>
-<td class="cuerpo_tabla_izq">Gas propelente para el despacho de cerveza de barril o de otros grandes formatos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Nitrógeno<sup>1</sup>.</td>
+<td>Gas propulsor.</td>
+<td>Gas propelente para el despacho de cerveza de barril o de otros grandes formatos / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Perlita.</td>
-<td class="cuerpo_tabla_izq">Clarificante/Filtrante.</td>
-<td class="cuerpo_tabla_izq">A la dosis estrictamente necesaria para obtener el efecto deseado. 5 a 100 g por hectolitro de cerveza, en la primera capa previa.</td>
-<td class="cuerpo_tabla_izq">Contenido residual técnicamente inevitable, tras la filtración a través de un filtro con una porosidad de 1,6 µm.</td>
+<td>Cerveza.</td>
+<td>Perlita.</td>
+<td>Clarificante/Filtrante.</td>
+<td>A la dosis estrictamente necesaria para obtener el efecto deseado. 5 a 100 g por hectolitro de cerveza, en la primera capa previa.</td>
+<td>Contenido residual técnicamente inevitable, tras la filtración a través de un filtro con una porosidad de 1,6 µm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Poliamidas.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Poliamidas.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Polivinilpirrolidona insoluble<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Polivinilpirrolidona insoluble<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Preparados enzimáticos amilolíticos<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Preparados enzimáticos amilolíticos<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Preparados enzimáticos proteolíticos<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Preparados enzimáticos proteolíticos<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Taninos.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerveza.</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Cerveza.</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conservas vegetales.</td>
-<td class="cuerpo_tabla_izq">Ácido clorhídrico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Pelado químico / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Conservas vegetales.</td>
+<td>Ácido clorhídrico<sup>1</sup>.</td>
+<td>Otros.</td>
+<td>Pelado químico / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conservas vegetales.</td>
-<td class="cuerpo_tabla_izq">Hidróxido sódico<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Pelado químico / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Conservas vegetales.</td>
+<td>Hidróxido sódico<sup>1</sup>.</td>
+<td>Otros.</td>
+<td>Pelado químico / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas.</td>
-<td class="cuerpo_tabla_izq">Dióxido de cloro.</td>
-<td class="cuerpo_tabla_izq">Agente de tratamiento del agua de lavado.</td>
-<td class="cuerpo_tabla_izq">Los alimentos sometidos a la solución de lavado serán enjuagados y secados para minimizar la presencia de residuos.</td>
-<td class="cuerpo_tabla_izq">Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado-bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
+<td>Frutas y hortalizas.</td>
+<td>Dióxido de cloro.</td>
+<td>Agente de tratamiento del agua de lavado.</td>
+<td>Los alimentos sometidos a la solución de lavado serán enjuagados y secados para minimizar la presencia de residuos.</td>
+<td>Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado-bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas frescas.</td>
-<td class="cuerpo_tabla_izq">Hipoclorito sódico o cálcico.</td>
-<td class="cuerpo_tabla_izq">Agente de tratamiento del agua de lavado.</td>
-<td class="cuerpo_tabla_izq">Obligatorio un enjuagado posterior con agua de consumo humano para eliminar los restos del agua clorada. Concentración de cloro libre en el agua de lavado: máximo 80 ppm.</td>
-<td class="cuerpo_tabla_izq">Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado-bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
+<td>Frutas y hortalizas frescas.</td>
+<td>Hipoclorito sódico o cálcico.</td>
+<td>Agente de tratamiento del agua de lavado.</td>
+<td>Obligatorio un enjuagado posterior con agua de consumo humano para eliminar los restos del agua clorada. Concentración de cloro libre en el agua de lavado: máximo 80 ppm.</td>
+<td>Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado-bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas frescas.</td>
-<td class="cuerpo_tabla_izq">Lauril éter sulfato sódico.</td>
-<td class="cuerpo_tabla_izq">Agente para incrementar la capacidad de eliminación de la suciedad de frutas y hortalizas frescas.</td>
-<td class="cuerpo_tabla_izq">Los alimentos sometidos a la solución de lavado serán enjuagados con agua de consumo humano para minimizar la presencia de residuos.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Frutas y hortalizas frescas.</td>
+<td>Lauril éter sulfato sódico.</td>
+<td>Agente para incrementar la capacidad de eliminación de la suciedad de frutas y hortalizas frescas.</td>
+<td>Los alimentos sometidos a la solución de lavado serán enjuagados con agua de consumo humano para minimizar la presencia de residuos.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas frescas.</td>
-<td class="cuerpo_tabla_izq">Peróxido de hidrógeno/ácido peracético/ácido acético.</td>
-<td class="cuerpo_tabla_izq">Agente de tratamiento del agua de lavado.</td>
-<td class="cuerpo_tabla_izq">Los alimentos sometidos a la solución de lavado serán enjuagados con agua de consumo humano para minimizar la presencia de residuos.</td>
-<td class="cuerpo_tabla_izq">El producto deberá utilizarse de acuerdo con las buenas prácticas de fabricación para garantizar que cumple la definición de coadyuvantes tecnológicos y que en el alimento en cuestión no quedan residuos de sustancias activas o estabilizantes, o de sus derivados, en concentraciones que puedan suponer un riesgo para la salud de las personas consumidoras y/o puedan ejercer un efecto tecnológico en el producto final.</td>
+<td>Frutas y hortalizas frescas.</td>
+<td>Peróxido de hidrógeno/ácido peracético/ácido acético.</td>
+<td>Agente de tratamiento del agua de lavado.</td>
+<td>Los alimentos sometidos a la solución de lavado serán enjuagados con agua de consumo humano para minimizar la presencia de residuos.</td>
+<td>El producto deberá utilizarse de acuerdo con las buenas prácticas de fabricación para garantizar que cumple la definición de coadyuvantes tecnológicos y que en el alimento en cuestión no quedan residuos de sustancias activas o estabilizantes, o de sus derivados, en concentraciones que puedan suponer un riesgo para la salud de las personas consumidoras y/o puedan ejercer un efecto tecnológico en el producto final.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas frescas.</td>
-<td class="cuerpo_tabla_izq">Solución acuosa de ácido fosfórico y propilenglicol.</td>
-<td class="cuerpo_tabla_izq">Estabilización de pH de soluciones de tratamiento de alimentos de origen vegetal para favorecer la actividad antimicrobiana del cloro. El pH pretendido oscilará entre 5,5-6,5.</td>
-<td class="cuerpo_tabla_izq">Los alimentos sometidos a la solución de lavado serán enjuagados y secados para minimizar la presencia de residuos.</td>
-<td class="cuerpo_tabla_izq">Residuos no detectables de propilenglicol; Los residuos fosfatados que puedan detectarse no serán superiores a los que se detectarían sin la adición del coadyuvante.</td>
+<td>Frutas y hortalizas frescas.</td>
+<td>Solución acuosa de ácido fosfórico y propilenglicol.</td>
+<td>Estabilización de pH de soluciones de tratamiento de alimentos de origen vegetal para favorecer la actividad antimicrobiana del cloro. El pH pretendido oscilará entre 5,5-6,5.</td>
+<td>Los alimentos sometidos a la solución de lavado serán enjuagados y secados para minimizar la presencia de residuos.</td>
+<td>Residuos no detectables de propilenglicol; Los residuos fosfatados que puedan detectarse no serán superiores a los que se detectarían sin la adición del coadyuvante.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas frescas y congeladas.</td>
-<td class="cuerpo_tabla_izq">Cloro gas.</td>
-<td class="cuerpo_tabla_izq">Agente de tratamiento del agua de lavado.</td>
-<td class="cuerpo_tabla_izq">Obligatorio un enjuagado posterior con agua de consumo humano para eliminar los restos del agua clorada. Concentración de cloro libre en el agua de lavado: máximo 80 ppm.</td>
-<td class="cuerpo_tabla_izq">Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado - bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
+<td>Frutas y hortalizas frescas y congeladas.</td>
+<td>Cloro gas.</td>
+<td>Agente de tratamiento del agua de lavado.</td>
+<td>Obligatorio un enjuagado posterior con agua de consumo humano para eliminar los restos del agua clorada. Concentración de cloro libre en el agua de lavado: máximo 80 ppm.</td>
+<td>Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado - bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frutas y hortalizas congeladas.</td>
-<td class="cuerpo_tabla_izq">Hipoclorito sódico o cálcico.</td>
-<td class="cuerpo_tabla_izq">Agente de tratamiento del agua de lavado.</td>
-<td class="cuerpo_tabla_izq">Obligatorio un enjuagado posterior con agua de consumo humano para eliminar los restos del agua clorada. Concentración de cloro libre en el agua de lavado: máximo 80 ppm.</td>
-<td class="cuerpo_tabla_izq">Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado - bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
+<td>Frutas y hortalizas congeladas.</td>
+<td>Hipoclorito sódico o cálcico.</td>
+<td>Agente de tratamiento del agua de lavado.</td>
+<td>Obligatorio un enjuagado posterior con agua de consumo humano para eliminar los restos del agua clorada. Concentración de cloro libre en el agua de lavado: máximo 80 ppm.</td>
+<td>Trihalometanos (THMs) &lt; 100 µg/l (en agua de lavado - bromodiclorometano, bromoformo, cloroformo y dibromoclorometano); Organoclorados formados como consecuencia de la cloración del agua &lt; 200 µg/l (en agua de lavado); Clorato &lt; 700 µg/l (en agua de lavado); Asimismo, el alimento en cuestión deberá cumplir con el nivel máximo de residuo que para clorato se haya establecido en el Reglamento (CE) n.º 396/2005.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Decolorante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Decolorante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
-<td class="cuerpo_tabla_izq">Lejías acuosas alcalinas y/o el empleo de disolventes y/o productos orgánicos autorizados, mediante arrastre al vacío por vapor de agua o un gas inerte o destilación de alto vacío.</td>
-<td class="cuerpo_tabla_izq">Neutralizante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
+<td>Lejías acuosas alcalinas y/o el empleo de disolventes y/o productos orgánicos autorizados, mediante arrastre al vacío por vapor de agua o un gas inerte o destilación de alto vacío.</td>
+<td>Neutralizante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
-<td class="cuerpo_tabla_izq">Sales, ácidos y/o álcalis autorizados de acuerdo con el Reglamento (CE) n.º 1333/2008, sobre aditivos alimentarios.</td>
-<td class="cuerpo_tabla_izq">Desmucilaginación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
+<td>Sales, ácidos y/o álcalis autorizados de acuerdo con el Reglamento (CE) n.º 1333/2008, sobre aditivos alimentarios.</td>
+<td>Desmucilaginación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
-<td class="cuerpo_tabla_izq">Tierras decolorantes.</td>
-<td class="cuerpo_tabla_izq">Decolorante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Grasas comestibles (animales, vegetales y anhidras), margarinas, minarinas y preparados grasos.</td>
+<td>Tierras decolorantes.</td>
+<td>Decolorante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hematíes.</td>
-<td class="cuerpo_tabla_izq">Peróxido de hidrógeno.</td>
-<td class="cuerpo_tabla_izq">Decolorante.</td>
-<td class="cuerpo_tabla_izq">Concentración de uso 0,75 %.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Hematíes.</td>
+<td>Peróxido de hidrógeno.</td>
+<td>Decolorante.</td>
+<td>Concentración de uso 0,75 %.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Horchata.</td>
-<td class="cuerpo_tabla_izq">Soluciones de cloro activo al 1 %.</td>
-<td class="cuerpo_tabla_izq">Desinfección de superficie de chufas.</td>
-<td class="cuerpo_tabla_izq">Los tubérculos deben lavarse en la solución desinfectante con agitación mecánica durante 30 minutos como mínimo. A continuación, será preciso un lavado eficaz para eliminar los residuos germicidas.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Horchata.</td>
+<td>Soluciones de cloro activo al 1 %.</td>
+<td>Desinfección de superficie de chufas.</td>
+<td>Los tubérculos deben lavarse en la solución desinfectante con agitación mecánica durante 30 minutos como mínimo. A continuación, será preciso un lavado eficaz para eliminar los residuos germicidas.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Horchata de chufa (en polvo).</td>
-<td class="cuerpo_tabla_izq">Dextrinomaltosas.</td>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Horchata de chufa (en polvo).</td>
+<td>Dextrinomaltosas.</td>
+<td>Otros.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Horchata de chufa (en polvo).</td>
-<td class="cuerpo_tabla_izq">Enzimas amilolíticas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Horchata de chufa (en polvo).</td>
+<td>Enzimas amilolíticas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Huesos de bovino, callos y tripas naturales.</td>
-<td class="cuerpo_tabla_izq">Peróxido de hidrógeno.</td>
-<td class="cuerpo_tabla_izq">Blanqueante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Huesos de bovino, callos y tripas naturales.</td>
+<td>Peróxido de hidrógeno.</td>
+<td>Blanqueante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pan y panes especiales.</td>
-<td class="cuerpo_tabla_izq">Aceites comestibles.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Para moldes, placas y maquinaria de panadería / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Pan y panes especiales.</td>
+<td>Aceites comestibles.</td>
+<td>Desmoldeador.</td>
+<td>Para moldes, placas y maquinaria de panadería / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pan y panes especiales.</td>
-<td class="cuerpo_tabla_izq">Amilasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Pan y panes especiales.</td>
+<td>Amilasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pan y panes especiales.</td>
-<td class="cuerpo_tabla_izq">Cera de abeja<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Para moldes, placas y maquinaria de panadería / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Pan y panes especiales.</td>
+<td>Cera de abeja<sup>1</sup>.</td>
+<td>Desmoldeador.</td>
+<td>Para moldes, placas y maquinaria de panadería / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pan y Panes especiales.</td>
-<td class="cuerpo_tabla_izq">Glucoxidasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Pan y Panes especiales.</td>
+<td>Glucoxidasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pan y Panes especiales.</td>
-<td class="cuerpo_tabla_izq">Pentosanasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Pan y Panes especiales.</td>
+<td>Pentosanasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pan y Panes especiales.</td>
-<td class="cuerpo_tabla_izq">Proteasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Pan y Panes especiales.</td>
+<td>Proteasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plasma.</td>
-<td class="cuerpo_tabla_izq">Peróxido de hidrógeno.</td>
-<td class="cuerpo_tabla_izq">Decolorante.</td>
-<td class="cuerpo_tabla_izq">concentración de uso 0,1 % durante 30 minutos.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Plasma.</td>
+<td>Peróxido de hidrógeno.</td>
+<td>Decolorante.</td>
+<td>concentración de uso 0,1 % durante 30 minutos.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Aceites Comestibles.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Aceites Comestibles.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Aceites comestibles termooxidados.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Aceites comestibles termooxidados.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Amilasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Amilasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Aminoácidos naturales.</td>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Aminoácidos naturales.</td>
+<td>Otros.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Carbonato de mangesio<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Carbonato de mangesio<sup>1</sup>.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Ceras naturales de origen vegetal y animal.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Ceras naturales de origen vegetal y animal.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Estearato magnésico, cálcico y de aluminio dimetilpolixilosano (silicona).</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Estearato magnésico, cálcico y de aluminio dimetilpolixilosano (silicona).</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Esteres de poliglicerol de ácidos grasos de aceites comestibles dimerizados por el calor.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Esteres de poliglicerol de ácidos grasos de aceites comestibles dimerizados por el calor.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Esteres de poliglicerol de los ácidos grasos del ricino tranesterificados.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Esteres de poliglicerol de los ácidos grasos del ricino tranesterificados.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Glucoxidasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Glucoxidasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Grasas comestibles.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Grasas comestibles.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Invertasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Invertasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Parafina líquida de calidad farmacéutica.</td>
-<td class="cuerpo_tabla_izq">Desmoldeador.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Parafina líquida de calidad farmacéutica.</td>
+<td>Desmoldeador.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado / Máximo del 3 % en la emulsión de desmoldeado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Pentosanasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Pentosanasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Productos de confitería, pastelería, bollería, repostería y galletería.</td>
-<td class="cuerpo_tabla_izq">Proteasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzima.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Productos de confitería, pastelería, bollería, repostería y galletería.</td>
+<td>Proteasas<sup>3</sup>.</td>
+<td>Enzima.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Queso elaborado con leche pasteurizada.</td>
-<td class="cuerpo_tabla_izq">Cloruro cálcico.</td>
-<td class="cuerpo_tabla_izq">Estandarizar la formación de cuajada manteniendo estable la capacidad de coagulación de la leche.</td>
-<td class="cuerpo_tabla_izq">Cantidad necesaria (0,01-0,02 %) equivalente al contenido de calcio soluble perdido durante la pasteurización (en el caso de los quesos de fermentación láctica la cantidad necesaria puede ser menor que en los de fermentación enzimática ya que el pH existente durante su elaboración también facilita que las caseínas coagulen).</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Queso elaborado con leche pasteurizada.</td>
+<td>Cloruro cálcico.</td>
+<td>Estandarizar la formación de cuajada manteniendo estable la capacidad de coagulación de la leche.</td>
+<td>Cantidad necesaria (0,01-0,02 %) equivalente al contenido de calcio soluble perdido durante la pasteurización (en el caso de los quesos de fermentación láctica la cantidad necesaria puede ser menor que en los de fermentación enzimática ya que el pH existente durante su elaboración también facilita que las caseínas coagulen).</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sangre entera.</td>
-<td class="cuerpo_tabla_izq">Peróxido de hidrógeno.</td>
-<td class="cuerpo_tabla_izq">Decolorante.</td>
-<td class="cuerpo_tabla_izq">Concentración de uso 0,75 %.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sangre entera.</td>
+<td>Peróxido de hidrógeno.</td>
+<td>Decolorante.</td>
+<td>Concentración de uso 0,75 %.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra - Solo permitido en mosto de sidra.</td>
-<td class="cuerpo_tabla_izq">Preparados enzimáticos pectolíticos<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra - Solo permitido en mosto de sidra.</td>
+<td>Preparados enzimáticos pectolíticos<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana..</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana..</td>
+<td>Bentonita.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Agente filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Agente filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana.</td>
-<td class="cuerpo_tabla_izq">Caseína<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana.</td>
+<td>Caseína<sup>2</sup>.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana.</td>
-<td class="cuerpo_tabla_izq">Clara de huevo/ Albúmina de huevo.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana.</td>
+<td>Clara de huevo/ Albúmina de huevo.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural.</td>
-<td class="cuerpo_tabla_izq">Fosfato amónico.</td>
-<td class="cuerpo_tabla_izq">Iniciador de la fermentación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural.</td>
+<td>Fosfato amónico.</td>
+<td>Iniciador de la fermentación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural.</td>
-<td class="cuerpo_tabla_izq">Fosfato cálcico<sup>1.</sup></td>
-<td class="cuerpo_tabla_izq">Iniciador de la fermentación.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural.</td>
+<td>Fosfato cálcico<sup>1.</sup></td>
+<td>Iniciador de la fermentación.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana. </td>
-<td class="cuerpo_tabla_izq">Gelatina alimenticia.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana. </td>
+<td>Gelatina alimenticia.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana.</td>
-<td class="cuerpo_tabla_izq">Leche descremada.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana.</td>
+<td>Leche descremada.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana.</td>
+<td>Taninos.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sidra natural y mosto de manzana.</td>
-<td class="cuerpo_tabla_izq">Tierras de Lebrija y Pozaldez.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Sidra natural y mosto de manzana.</td>
+<td>Tierras de Lebrija y Pozaldez.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Ácido fítico y sales desferrizantes.</td>
-<td class="cuerpo_tabla_izq">Desferrizante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado y condicionado a la autorización previa por parte del órgano competente de la Comunidad Autónoma en la que radique la instalación industrial.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Ácido fítico y sales desferrizantes.</td>
+<td>Desferrizante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado y condicionado a la autorización previa por parte del órgano competente de la Comunidad Autónoma en la que radique la instalación industrial.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Albúmina.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Albúmina.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Bentonita.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Clarificante-Decolorante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado a condición de que no deje en los vinagres sustancias extrañas a estos.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Carbón activo<sup>1</sup>.</td>
+<td>Clarificante-Decolorante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado a condición de que no deje en los vinagres sustancias extrañas a estos.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Coadyuvantes de filtración químicamente inertes y agentes de precipitación<sup>5</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Coadyuvantes de filtración químicamente inertes y agentes de precipitación<sup>5</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Dimetilpolisiloxano<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Antiespumante.</td>
-<td class="cuerpo_tabla_izq">Facilita el proceso de elaboración del vinagre. Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Dimetilpolisiloxano<sup>1</sup>.</td>
+<td>Antiespumante.</td>
+<td>Facilita el proceso de elaboración del vinagre. Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Enzimas.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Fosfato amónico.</td>
-<td class="cuerpo_tabla_izq">Para favorecer la multiplicación de las bacterias acéticas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Fosfato amónico.</td>
+<td>Para favorecer la multiplicación de las bacterias acéticas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Gelatina Alimenticia.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Gelatina Alimenticia.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Nitrógeno<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Gas.</td>
-<td class="cuerpo_tabla_izq">Agente para mantener una adecuada presión en el envase y asegurar su estabilidad.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Nitrógeno<sup>1</sup>.</td>
+<td>Gas.</td>
+<td>Agente para mantener una adecuada presión en el envase y asegurar su estabilidad.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Polivinilpirrolidona insoluble<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Polivinilpirrolidona insoluble<sup>1</sup>.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Proteínas vegetales de origen vegetal procedentes de trigo, guisante o patata.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Proteínas vegetales de origen vegetal procedentes de trigo, guisante o patata.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Sustancias inorgánicas tales como fosfatos y sales de amonio.</td>
-<td class="cuerpo_tabla_izq">Para favorecer la multiplicación de las bacterias acéticas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Sustancias inorgánicas tales como fosfatos y sales de amonio.</td>
+<td>Para favorecer la multiplicación de las bacterias acéticas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Sustancias orgánicas, en particular, preparaciones de malta, almidón líquido, glucosa.</td>
-<td class="cuerpo_tabla_izq">Para favorecer la multiplicación de las bacterias acéticas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Sustancias orgánicas, en particular, preparaciones de malta, almidón líquido, glucosa.</td>
+<td>Para favorecer la multiplicación de las bacterias acéticas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Taninos.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vinagre.</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Vinagre.</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Amilasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Amilasas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Bentonita.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Carbón vegetal=Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Carbón vegetal=Carbón activo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Coadyuvantes de adsorción químicamente inertes utilizados para reducir el contenido de limonoides y naringina del zumo de cítricos sin afectar de manera significativa los contenidos de glucósidos limonoides, ácidos o azúcares (incluidos los oligosacáridos) o el contenido en minerales<sup>4</sup>.</td>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_izq">Para reducir el contenido de limonoides y naringina del zumo de cítricos sin afectar de manera significativa los contenidos de glucósidos limonoides, ácidos o azúcares (incluidos los oligosacáridos) o el contenido en minerales / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Coadyuvantes de adsorción químicamente inertes utilizados para reducir el contenido de limonoides y naringina del zumo de cítricos sin afectar de manera significativa los contenidos de glucósidos limonoides, ácidos o azúcares (incluidos los oligosacáridos) o el contenido en minerales<sup>4</sup>.</td>
+<td>Otros.</td>
+<td>Para reducir el contenido de limonoides y naringina del zumo de cítricos sin afectar de manera significativa los contenidos de glucósidos limonoides, ácidos o azúcares (incluidos los oligosacáridos) o el contenido en minerales / Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Coadyuvantes de filtración químicamente inertes y agentes de precipitación (incluyendo perlita, diatomita lavada, celulosa, poliamida insoluble, polivinilpolipirrolido-na, poliestireno)<sup>4</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Coadyuvantes de filtración químicamente inertes y agentes de precipitación (incluyendo perlita, diatomita lavada, celulosa, poliamida insoluble, polivinilpolipirrolido-na, poliestireno)<sup>4</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Gelatina alimenticia.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Gelatina alimenticia.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de fruta y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Nitrógeno<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Agente para mantener una adecuada presión en el envase y asegurar su estabilidad.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de fruta y otros productos similares.</td>
+<td>Nitrógeno<sup>1</sup>.</td>
+<td>Agente para mantener una adecuada presión en el envase y asegurar su estabilidad.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Pectinasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Pectinasas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Perlita/ perlita expandida.</td>
-<td class="cuerpo_tabla_izq">Filtración.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Perlita/ perlita expandida.</td>
+<td>Filtración.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Proteasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Proteasas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Proteínas vegetales procedentes de trigo, de guisantes, de patatas o de semillas de girasol.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Proteínas vegetales procedentes de trigo, de guisantes, de patatas o de semillas de girasol.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de frutas y otros productos similares.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de frutas y otros productos similares.</td>
+<td>Taninos.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Amilasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Amilasas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Bentonita.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Bentonita.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Caolín.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Caolín.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Carbones=Carbón activo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Carbones=Carbón activo<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Dióxido de silicio (Gel de sílice)<sup>1</sup>.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Pectinasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Pectinasas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Proteasas<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq">Enzimas.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Proteasas<sup>3</sup>.</td>
+<td>Enzimas.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Taninos.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Taninos.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Tierra de diatomeas o de infusorios.</td>
-<td class="cuerpo_tabla_izq">Filtrante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Tierra de diatomeas o de infusorios.</td>
+<td>Filtrante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumo de uva.</td>
-<td class="cuerpo_tabla_izq">Desacidificación parcial, por medio de tartrato neutro de potasio o de carbonato de calcio, pudiendo contener este último pequeñas cantidades de sal doble de calcio de los ácidos D-tartárico y L-málico.</td>
-<td class="cuerpo_tabla_izq">Desacidificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumo de uva.</td>
+<td>Desacidificación parcial, por medio de tartrato neutro de potasio o de carbonato de calcio, pudiendo contener este último pequeñas cantidades de sal doble de calcio de los ácidos D-tartárico y L-málico.</td>
+<td>Desacidificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumo de uva y Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Caseína<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumo de uva y Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Caseína<sup>2</sup>.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumo de uva y Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Clara de huevo / Albúmina.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumo de uva y Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Clara de huevo / Albúmina.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zumo de uva y Zumos de otros vegetales (hortalizas) y sus derivados.</td>
-<td class="cuerpo_tabla_izq">Gelatina alimenticia.</td>
-<td class="cuerpo_tabla_izq">Clarificante.</td>
-<td class="cuerpo_tabla_izq">Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
-<td class="cuerpo_tabla_izq">Técnicamente inevitable.</td>
+<td>Zumo de uva y Zumos de otros vegetales (hortalizas) y sus derivados.</td>
+<td>Gelatina alimenticia.</td>
+<td>Clarificante.</td>
+<td>Dosis estrictamente necesaria para conseguir el efecto deseado.</td>
+<td>Técnicamente inevitable.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">1. Especificaciones de acuerdo con las establecidas en el Reglamento (UE) n.º 231/2012 de la Comisión, de 9 de marzo de 2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) n.º 1333/2008 del Parlamento Europeo y del Consejo.</p>
-<p class="cita">2. Conforme con el Real Decreto 600/2016, de 2 de diciembre, por el que se aprueban las normas generales de calidad para las caseínas y caseinatos alimenticios.</p>
-<p class="cita">3. Conforme con el Reglamento (CE) n.º 1332/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre enzimas alimentarias.</p>
-<p class="cita">4. Conforme con el Reglamento (CE) n.º 1935/2004 del Parlamento Europeo y del Consejo, de 27 de octubre de 2004, sobre los materiales y objetos destinados a entrar en contacto con alimentos.</p>
-<p class="cita">5. Coadyuvantes de filtración químicamente inertes y agentes de precipitación incluyendo perlita, diatomita lavada, celulosa, poliamida insoluble, polivinilpirrolidona, poliestireno, polipropileno, borosilicatos, poliestersulfona y/o cerámicas.</p>
+<p>1. Especificaciones de acuerdo con las establecidas en el Reglamento (UE) n.º 231/2012 de la Comisión, de 9 de marzo de 2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) n.º 1333/2008 del Parlamento Europeo y del Consejo.</p>
+<p>2. Conforme con el Real Decreto 600/2016, de 2 de diciembre, por el que se aprueban las normas generales de calidad para las caseínas y caseinatos alimenticios.</p>
+<p>3. Conforme con el Reglamento (CE) n.º 1332/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre enzimas alimentarias.</p>
+<p>4. Conforme con el Reglamento (CE) n.º 1935/2004 del Parlamento Europeo y del Consejo, de 27 de octubre de 2004, sobre los materiales y objetos destinados a entrar en contacto con alimentos.</p>
+<p>5. Coadyuvantes de filtración químicamente inertes y agentes de precipitación incluyendo perlita, diatomita lavada, celulosa, poliamida insoluble, polivinilpirrolidona, poliestireno, polipropileno, borosilicatos, poliestersulfona y/o cerámicas.</p>
 </td>
 </tr>
 </tfoot>
 </table>
-
-> Téngase en cuenta que la actualización de la centésima octogésima cuarta fila de la parte B, añadida por el art. 4 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> | Zumos de frutas y otros productos similares. | Proteínas vegetales de origen vegetal procedentes de trigo, de guisantes o de patatas. | Clarificante. | Dosis estrictamente necesaria para conseguir el efecto deseado. | Técnicamente inevitable. |
-> |---|---|---|---|---|
 
 > Se modifica la parte B por el art. 10.2 del Real Decreto 142/2026, de 25 de febrero. [Ref. BOE-A-2026-4519](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4519)
 

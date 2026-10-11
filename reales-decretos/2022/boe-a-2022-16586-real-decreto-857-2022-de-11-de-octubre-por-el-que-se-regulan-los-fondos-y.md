@@ -20,8 +20,6 @@ retrieved: 2026-10-11
 
 # Real Decreto 857/2022, de 11 de octubre, por el que se regulan los fondos y programas operativos de las organizaciones de productores del sector de las frutas y hortalizas y de sus asociaciones en el marco de la intervención sectorial del Plan Estratégico de la Política Agrícola Común
 
-Téngase en cuenta las previsiones establecidas por el Real Decreto 785/2023, de 17 de octubre, por el que se desarrollan determinadas disposiciones de la Unión Europea que establecen medidas para responder a problemas específicos en los sectores de frutas y hortalizas y vitivinícola causados por fenómenos meteorológicos adversos y por las perturbaciones del mercado. [Ref. BOE-A-2023-21476](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21476)
-
 Incluye corrección de errores publicada en BOE núm. 54, de 4 de marzo de 2023. [Ref. BOE-A-2023-5698](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5698)
 
 El Reglamento (UE) n.º 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la Política Agrícola Común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (FEADER), y por el que se derogan los Reglamentos (UE) n.º 1305/2013 y (UE) n.º 1307/2013, contempla en su artículo 49 y siguientes los tipos de intervenciones a realizar en el sector de frutas y hortalizas y la ayuda financiera de la Unión para esta intervención.
@@ -234,8 +232,6 @@ La resolución de aprobación deberá incluir un cuadro resumen en el que se esp
 
 La aplicación de los programas aprobados con posterioridad al 31 de diciembre no podrá iniciarse hasta el 1 de enero del segundo año siguiente al de su presentación. No obstante, por motivos debidamente justificados, podrán aplicarse desde el 1 de enero del año siguiente al de su presentación, los programas aprobados entre el citado 31 de diciembre y el 20 de enero del año siguiente, siempre que la resolución de aprobación lo recoja expresamente.
 
-> Téngase en cuenta que se pospone el plazo establecido en el apartado 2, para el año 2025, hasta el 31 de enero el plazo máximo fijado para el 20 de enero, según establece la disposicion transitoria única.2 del Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
-
 3\. Junto con la aprobación de los proyectos de programas operativos, los órganos competentes en la aprobación de los mismos deberán:
 
 a) Aprobar el importe del fondo operativo que la organización de productores deberá constituir en su primera anualidad; y
@@ -247,8 +243,6 @@ b) Determinar la ayuda financiera correspondiente a dicho fondo operativo.
 #### Artículo 8. Presentación de los proyectos de programas operativos por parte de las organizaciones de productores, ante el órgano competente en su aprobación.
 
 1\. A los efectos de la aprobación contemplada en el artículo anterior, la organización de productores deberá presentar al órgano competente el proyecto de programa operativo que pretenda aplicar, a más tardar el 15 de septiembre del año anterior al de su primera anualidad.
-
-> Téngase en cuenta que se pospone el plazo establecido en el apartado 1, para el año 2025, hasta el 20 de octubre, según establece la disposicion transitoria única.1 del Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
 
 Acorde a lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dicha solicitud deberá presentarse, en todo caso, por medios electrónicos. En este sentido, cuando el órgano competente de la comunidad autónoma así lo establezca, la solicitud deberá realizarse a través de la aplicación «Gestión de Programas Operativos» del Fondo Español de Garantía Agraria o, en su defecto, de otras aplicaciones creadas a tal efecto por las comunidades autónomas.
 
@@ -482,12 +476,6 @@ En caso de que se supriman tipos de intervención, acciones, actuaciones, invers
 
 4\. **(Derogado)**
 
-> Téngase en cuenta que la derogación del apartado 4, establecida por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre, [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583), produce efectos desde el 1 de enero de 2026.
-
-> Redacción anterior:
-
-> "4. En los programas operativos podrán incluirse acciones medioambientales coincidentes con los eco regímenes. En ese caso, si el coste específico calculado para la citada acción medioambiental, es decir la suma de su coste adicional y su lucro cesante, supera el importe anual recibido por los agricultores en virtud del eco régimen, podrá imputarse al programa operativo el pago de dicho coste específico una vez restado el importe percibido por cada agricultor en virtud del eco régimen coincidente."
-
 5\. Las autoridades competentes adoptarán las disposiciones, controles y prácticas necesarias para garantizar que los beneficiarios que ejecuten estas intervenciones tengan acceso a los conocimientos e información pertinentes necesarios para llevarlas a cabo, y que se ofrezca formación adecuada a quienes lo requieran, así como acceso a conocimientos especializados para prestar asistencia a los agricultores que se comprometan a cambiar sus sistemas de producción y que en los programas operativos se incluya una cláusula de revisión para las operaciones ejecutadas en el marco de estas intervenciones a fin de garantizar su adaptación en caso de que se modifiquen las normas, requisitos u obligaciones pertinentes.
 
 > Se deroga el apartado 4, con efectos de 1 de enero de 2026 por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
@@ -513,8 +501,6 @@ b) Interrumpir el programa operativo que esté aplicando para la anualidad sigui
 #### Artículo 14. Modificaciones del programa operativo relativas a anualidades no comenzadas.
 
 1\. Siempre que el programa operativo tras la introducción de modificaciones respete lo dispuesto en el artículo 4 del presente real decreto, anualmente, a más tardar el 15 de septiembre, las organizaciones de productores podrán solicitar al órgano competente que aprobó el programa operativo que estén aplicando, las siguientes modificaciones relativas a anualidades no comenzadas del mismo.
-
-> Téngase en cuenta que se pospone el plazo establecido en el apartado 1, para el año 2025, hasta el 20 de octubre, según establece la disposicion transitoria única.1 del Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
 
 a) Supresión e inclusión de tipos de intervención, acciones, actuaciones, inversiones, conceptos de gasto, o unidades de obra que se tengan aprobadas para la consecución de los objetivos que persiga el programa operativo aprobado.
 
@@ -549,8 +535,6 @@ k) Las asociaciones de organizaciones de productores que estén ejecutando progr
 2\. Las modificaciones deberán ser coherentes con los objetivos perseguidos por el programa operativo, la evaluación ex ante realizada por la organización de productores para diseñar su programa, y estar motivadas.
 
 3\. Para que las organizaciones de productores puedan aplicar las modificaciones solicitadas, deberán ser aprobadas por el órgano competente a más tardar el 31 de diciembre del año que hayan sido presentadas para su aprobación, en todo caso sin superarse el plazo máximo para resolver y notificar. No obstante, por motivos debidamente justificados, la decisión relativa a la aprobación de dichas modificaciones por parte del órgano competente, podrá adoptarse después del 31 de diciembre pero no más tarde del 20 de enero siguiente a la fecha de presentación. En estos casos, la resolución relativa a la aprobación de las modificaciones podrá prever que se pueda aplicar en la misma fecha y condiciones que las aprobadas a más tardar a 31 de diciembre.
-
-> Téngase en cuenta que se pospone el plazo establecido en el apartado 3, para el año 2025, hasta el 31 de enero el plazo máximo fijado para el 20 de enero, según establece la disposicion transitoria única.2 del Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
 
 Acorde a lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, dicha solicitud de modificación deberá presentarse, en todo caso, por medios electrónicos. En este sentido, cuando el órgano competente de la comunidad autónoma así lo establezca, la solicitud de modificación del programa deberá realizarse a través de la aplicación «Gestión de Programas Operativos» del Fondo Español de Garantía Agraria o, en su defecto, de otras aplicaciones creadas a tal efecto por las comunidades autónomas.
 
@@ -615,12 +599,6 @@ m) Adición de la ayuda financiera nacional contemplada en el artículo 53 del R
 n) Las asociaciones de organizaciones de productores que estén ejecutando programas operativos parciales promovidos por acuerdo de las organizaciones de productores que la integran según lo dispuesto en el capítulo V del presente real decreto, transformación de dichos programas operativos parciales en programas operativos totales, siempre que se respete lo dispuesto en el citado capítulo para los programas operativos totales.
 
 3\. Las modificaciones contenidas en las letras a), b), c), d), g) e i) del apartado anterior, que supongan la supresión de inversiones o conceptos de gasto, podrán realizarse sin autorización previa, siempre que sean comunicadas por la organización de productores al órgano competente a más tardar junto a la comunicación trimestral establecida en el primer párrafo del apartado 1 del presente artículo.
-
-> Téngase en cuenta que la derogación del segundo párrafo del apartado 3, establecida por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre, [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583), produce efectos desde el 1 de enero de 2026.
-
-> Redacción anterior:
-
-> "Las modificaciones de los importes de la ayuda de las acciones del programa operativo coincidentes con los eco-regímenes, como consecuencia del cálculo del importe definitivo de estos últimos, no tendrán la consideración de modificación del programa operativo."
 
 Las modificaciones recogidas en la letra i) del apartado anterior que supongan la inclusión de nuevas inversiones o conceptos de gasto, y en las letras e), f), h), j), k), l), m) y n) de dicho apartado, precisarán la aprobación previa por parte del órgano competente, y, por tanto, deberá solicitarse su aprobación antes de su ejecución, especificando, en su caso, las acciones cuyo presupuesto pudiera verse reducido.
 
@@ -816,8 +794,6 @@ Sin perjuicio de las obligaciones relativas a la identificación de la financiac
 
 4\. A más tardar el 15 de septiembre de cada año, las asociaciones de organizaciones de productores deberán comunicar al órgano competente el montante del fondo operativo del programa que constituirán para financiar la anualidad del año siguiente, en su caso, junto con la solicitud de aprobación de modificaciones para anualidades no comenzadas.
 
-> Téngase en cuenta que se pospone el plazo establecido en el apartado 4, para el año 2025, hasta el 20 de octubre, según establece la disposicion transitoria única.1 del Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
-
 > Se pospone, para el año 2025, el plazo establecido en el apartado 4, hasta el 20 de octubre, por la disposición transitoria única.1 del Real Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
 
 #### Artículo 25. Presentación de los proyectos de programas operativos de las asociaciones de productores para su aprobación por parte del órgano competente.
@@ -851,8 +827,6 @@ Las solicitudes de modificaciones de los programas operativos de las asociacione
 1\. La decisión por parte del órgano competente sobre los programas operativos totales de las asociaciones de organizaciones de productores y sus modificaciones seguirán las normas previstas sobre dichas cuestiones para los de las organizaciones de productores.
 
 2\. En relación con la aprobación de los programas operativos parciales se dispone que el órgano competente para su aprobación deberá comunicar a la asociación de organizaciones de productores la decisión tomada sobre su programa operativo o sobre sus modificaciones a más tardar el 31 de diciembre del año de su presentación.
-
-> Téngase en cuenta que se pospone el plazo establecido en el apartado 2, para el año 2025, hasta el 31 de enero, según establece la disposicion transitoria única.2 del Decreto 916/2025, de 14 de octubre. [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583)
 
 Dicha decisión deberá tenerse en cuenta para la aprobación de los programas operativos, o las modificaciones, de las organizaciones de productores miembros por parte de los correspondientes órganos competentes y a estos efectos, deberá ser remitida simultáneamente a dichos órganos, junto con un informe motivado que justifique la decisión adoptada y una copia del programa de la asociación.
 
@@ -1240,953 +1214,945 @@ No se podrán incluir actuaciones en los programas operativos que conlleven un i
 
 No obstante, exclusivamente en el sector de la fruta de hueso, de manera motivada, la autoridad competente podrá realizar excepciones por ámbitos geográficos, productos o variedades a dicha prohibición. Para ello la autoridad competente deberá remitir un certificado a la Dirección General de Producciones y Mercados Agrarios que justifique que para los productos o variedades exceptuadas no se requieren medidas excepcionales.
 
-<table class="tabla_girada_condensada">
+<table>
 <caption>
-<p class="centro_redonda">Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, investigación y métodos de producción experimentales e innovadores y otras acciones</p>
+<p>Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, investigación y métodos de producción experimentales e innovadores y otras acciones</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Condiciones de subvencionalidad</th>
+<th>Descripción</th>
+<th>Condiciones de subvencionalidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">A.1 Infraestructuras de las explotaciones o instalaciones.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.1 Infraestructuras de las explotaciones o instalaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.1 Instalaciones de riego en parcelas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.1.1 Instalaciones de riego en parcelas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estas inversiones podrán contener entre otros elementos: tuberías, válvulas, ventosas, hidrantes, caudalímetros, transmisiones de presión, variadores y arrancadores, calderines, sistemas de telecontrol, automatismos, filtros. Goteros, aspersores, hidrociclón, cañón. Equipos de sulfatación y de fertirrigación, generadores de ozono, equipos de desinfección del agua, equipos de medición, sistemas de drenaje, sistemas de humidificación, depósitos. Estaciones de bombeo (Bombas, obra civil para su instalación, transformadores, infraestructuras de suministro de energía). Cabezales de riego, sistemas de control de desinfección de cabezales, sistemas de ozonización y oxigenación en agua de riego. Tensiómetros, sensores y sondas de humedad. Placas solares para cabezales. Grupos electrógenos para cabezales. Contadores, sistemas de control de riego, mejoras en las líneas de goteo, cintas exudantes. Honorarios de redacción de proyectos. Otros.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La instalación debe contar con un sistema de contadores que permita medir el uso del agua de la superficie a la que afecte las inversiones. Deben registrarse las lecturas de los contadores.</p>
-<p class="cuerpo_tabla_izq">Si se trata de una mejora de instalación existente, se debe hacer una evaluación ex ante del potencial de ahorro de agua que refleje los parámetros técnicos de las instalaciones o infraestructuras existentes. Esta evaluación exante podrá consistir es las estipulaciones técnicas y prestaciones documentadas relativas a la inversión, proporcionadas por el proveedor</p>
-<p class="cuerpo_tabla_izq">Si se trata de una mejora de instalación existente y si la inversión afecta a masas de agua cuyo estado se haya determinado como inferior a bueno en el plan hidrológico de cuenca pertinente por motivos relativos a la cantidad de agua, se conseguirá una reducción efectiva del consumo de agua, de manera que se contribuya a la consecución del buen estado de estas masas de agua.</p>
-<p class="cuerpo_tabla_izq">En las inversiones que tengan como resultado un incremento neto de la superficie de riego, las masas de agua afectadas deberán no haber sido calificadas como inferior a bueno por motivos relativos a la cantidad de agua y demostrarse, que no se producirá ningún efecto medioambiental negativo significativo a raíz de la inversión.</p>
-<p class="cuerpo_tabla_izq">Si fruto de esta inversión se consigue una reducción efectiva del consumo de agua se considerará que contribuye a la consecución del objetivo contemplado en la letra e) del artículo 46 del Reglamento (UE) n.º 2021/2115.</p>
-<p class="cuerpo_tabla_izq">La misma inversión en riego no puede ser incluida en el ámbito de miembro y dentro de una misma anualidad en dos acciones simultáneamente</p>
+<td>Estas inversiones podrán contener entre otros elementos: tuberías, válvulas, ventosas, hidrantes, caudalímetros, transmisiones de presión, variadores y arrancadores, calderines, sistemas de telecontrol, automatismos, filtros. Goteros, aspersores, hidrociclón, cañón. Equipos de sulfatación y de fertirrigación, generadores de ozono, equipos de desinfección del agua, equipos de medición, sistemas de drenaje, sistemas de humidificación, depósitos. Estaciones de bombeo (Bombas, obra civil para su instalación, transformadores, infraestructuras de suministro de energía). Cabezales de riego, sistemas de control de desinfección de cabezales, sistemas de ozonización y oxigenación en agua de riego. Tensiómetros, sensores y sondas de humedad. Placas solares para cabezales. Grupos electrógenos para cabezales. Contadores, sistemas de control de riego, mejoras en las líneas de goteo, cintas exudantes. Honorarios de redacción de proyectos. Otros.</td>
+<td>
+<p>La instalación debe contar con un sistema de contadores que permita medir el uso del agua de la superficie a la que afecte las inversiones. Deben registrarse las lecturas de los contadores.</p>
+<p>Si se trata de una mejora de instalación existente, se debe hacer una evaluación ex ante del potencial de ahorro de agua que refleje los parámetros técnicos de las instalaciones o infraestructuras existentes. Esta evaluación exante podrá consistir es las estipulaciones técnicas y prestaciones documentadas relativas a la inversión, proporcionadas por el proveedor</p>
+<p>Si se trata de una mejora de instalación existente y si la inversión afecta a masas de agua cuyo estado se haya determinado como inferior a bueno en el plan hidrológico de cuenca pertinente por motivos relativos a la cantidad de agua, se conseguirá una reducción efectiva del consumo de agua, de manera que se contribuya a la consecución del buen estado de estas masas de agua.</p>
+<p>En las inversiones que tengan como resultado un incremento neto de la superficie de riego, las masas de agua afectadas deberán no haber sido calificadas como inferior a bueno por motivos relativos a la cantidad de agua y demostrarse, que no se producirá ningún efecto medioambiental negativo significativo a raíz de la inversión.</p>
+<p>Si fruto de esta inversión se consigue una reducción efectiva del consumo de agua se considerará que contribuye a la consecución del objetivo contemplado en la letra e) del artículo 46 del Reglamento (UE) n.º 2021/2115.</p>
+<p>La misma inversión en riego no puede ser incluida en el ámbito de miembro y dentro de una misma anualidad en dos acciones simultáneamente</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.2 Embalses, pozos y balsas de riego.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.1.2 Embalses, pozos y balsas de riego.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estas inversiones podrán contener entre otros elementos: movimientos y nivelación de tierras, Estudios geotécnicos, membranas de impermeabilización, valvulería, tuberías, bombas, aliviaderos, desagües, perforaciones, entubado de pozos. Construcción y equipamiento de pozos y de balsas de riego, techado de balsas. Mitigador de algas. Suministro y proyectado de gunita, proyectos de prospección y explotación de aguas subterráneas ante el organismo correspondiente (pozos). Otros.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Las inversiones para la creación o ampliación de embalses de riego no provocarán un efecto medioambiental negativo significativo.</p>
-<p class="cuerpo_tabla_izq">– Los proyectos de prospección y explotación de aguas subterráneas deberán contar con la autorización correspondiente.</p>
+<td>Estas inversiones podrán contener entre otros elementos: movimientos y nivelación de tierras, Estudios geotécnicos, membranas de impermeabilización, valvulería, tuberías, bombas, aliviaderos, desagües, perforaciones, entubado de pozos. Construcción y equipamiento de pozos y de balsas de riego, techado de balsas. Mitigador de algas. Suministro y proyectado de gunita, proyectos de prospección y explotación de aguas subterráneas ante el organismo correspondiente (pozos). Otros.</td>
+<td>
+<p>– Las inversiones para la creación o ampliación de embalses de riego no provocarán un efecto medioambiental negativo significativo.</p>
+<p>– Los proyectos de prospección y explotación de aguas subterráneas deberán contar con la autorización correspondiente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.3 Desaladoras y otras instalaciones para el riego.</td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td>A.1.3 Desaladoras y otras instalaciones para el riego.</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre otros elementos podrá incluir: obra civil, filtros, tuberías, membranas, válvulas, ventosas, transformadores, bombas, automatismos, depósitos y balsas. Infraestructuras de transporte de agua (canales y tuberías de gran capacidad). Otros</td>
+<td>Entre otros elementos podrá incluir: obra civil, filtros, tuberías, membranas, válvulas, ventosas, transformadores, bombas, automatismos, depósitos y balsas. Infraestructuras de transporte de agua (canales y tuberías de gran capacidad). Otros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.4 Acondicionamiento de parcelas para realizar nuevas plantaciones.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Los acolchados biodegradables en suelo deben estar certificados según la norma UNE EN 17033:2018</td>
+<td>A.1.4 Acondicionamiento de parcelas para realizar nuevas plantaciones.</td>
+<td rowspan="2">Los acolchados biodegradables en suelo deben estar certificados según la norma UNE EN 17033:2018</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos que pueden incluir esta inversión: Arranque de las plantaciones anteriores. Movimientos y nivelación de tierras, estructuras soporte, aportes y mejoras de tierras. Utilización de plástico y plástico biodegradable para acolchado de caballones y entre caballones. Enarenado, aporte de arena, estiércol o tierra. Mallas antihierba. Elementos para entutorado de plantones. Trabajos de preparación del suelo (formación de mesetas y lomos de plantación). Utilización de sustrato reciclable. Triturado y compostaje de restos vegetales. Enficonado. Otros.</td>
+<td>Elementos que pueden incluir esta inversión: Arranque de las plantaciones anteriores. Movimientos y nivelación de tierras, estructuras soporte, aportes y mejoras de tierras. Utilización de plástico y plástico biodegradable para acolchado de caballones y entre caballones. Enarenado, aporte de arena, estiércol o tierra. Mallas antihierba. Elementos para entutorado de plantones. Trabajos de preparación del suelo (formación de mesetas y lomos de plantación). Utilización de sustrato reciclable. Triturado y compostaje de restos vegetales. Enficonado. Otros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.5 Invernaderos y otros sistemas de cultivo protegido.</td>
-<td class="cuerpo_tabla_izq" rowspan="5">No serán subvencionables las estructuras que a juicio de la autoridad competente pudieran considerarse obsoletas, ni nuevas ni de substitución.</td>
+<td>A.1.5 Invernaderos y otros sistemas de cultivo protegido.</td>
+<td rowspan="5">No serán subvencionables las estructuras que a juicio de la autoridad competente pudieran considerarse obsoletas, ni nuevas ni de substitución.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Construcción de invernaderos: estructuras de sujeción, plásticos, mallas, estructuras de sujeción de la cubierta, utilización de sustrato reciclable así como sus proyectos de ejecución, etc.</td>
+<td>– Construcción de invernaderos: estructuras de sujeción, plásticos, mallas, estructuras de sujeción de la cubierta, utilización de sustrato reciclable así como sus proyectos de ejecución, etc.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Mejora de invernaderos: Plásticos, mallas, instalación de dobles puertas, doble techo, ventanas cenitales y laterales, equipamiento de emisión de CO<sub>2</sub>, utilización de sustrato reciclable, generadores, equipos de bombeo sistemas de control climático y aprovechamiento de CO<sub>2</sub>, sistemas de riego, de nebulización, de humidificación o de refrigeración, túneles, tunelillos, sublimadores, mallas de sombreo, mejora de automatismos, cortavientos, manta térmica, automatismos, sistemas de iluminación, red de tratamientos fitosanitarios, red de recogida de aguas, red de aire comprimido, hormigonado de pasillos etc.</p>
-<p class="cuerpo_tabla_izq">– Naves de cultivo de champiñón.</p>
+<td>
+<p>– Mejora de invernaderos: Plásticos, mallas, instalación de dobles puertas, doble techo, ventanas cenitales y laterales, equipamiento de emisión de CO<sub>2</sub>, utilización de sustrato reciclable, generadores, equipos de bombeo sistemas de control climático y aprovechamiento de CO<sub>2</sub>, sistemas de riego, de nebulización, de humidificación o de refrigeración, túneles, tunelillos, sublimadores, mallas de sombreo, mejora de automatismos, cortavientos, manta térmica, automatismos, sistemas de iluminación, red de tratamientos fitosanitarios, red de recogida de aguas, red de aire comprimido, hormigonado de pasillos etc.</p>
+<p>– Naves de cultivo de champiñón.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Sistemas de recirculación y recuperación de nutrientes</td>
+<td>– Sistemas de recirculación y recuperación de nutrientes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Otros</td>
+<td>– Otros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.6 Construcciones auxiliares.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">La dimensión de las construcciones auxiliares será proporcional al uso relacionado exclusivamente con la actividad de la OP. Las vías de acceso se dimensionarán en función del tráfico que vayan a soportar derivado de esta actividad. Los almacenes tendrán una capacidad proporcional a la actividad que se realice en campo por la OP o sus miembros</td>
+<td>A.1.6 Construcciones auxiliares.</td>
+<td rowspan="2">La dimensión de las construcciones auxiliares será proporcional al uso relacionado exclusivamente con la actividad de la OP. Las vías de acceso se dimensionarán en función del tráfico que vayan a soportar derivado de esta actividad. Los almacenes tendrán una capacidad proporcional a la actividad que se realice en campo por la OP o sus miembros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vías de acceso a las explotaciones, almacenes en campo, almacenes de insumos, casetas para riego, casetas de pesaje y básculas, cubierta de almacén, instalación de frio en almacén, construcción de muelle, sistemas de recogida y conducción de aguas pluviales hasta embalse en estas instalaciones. etc.</td>
+<td>Vías de acceso a las explotaciones, almacenes en campo, almacenes de insumos, casetas para riego, casetas de pesaje y básculas, cubierta de almacén, instalación de frio en almacén, construcción de muelle, sistemas de recogida y conducción de aguas pluviales hasta embalse en estas instalaciones. etc.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.7 Otras infraestructuras de las explotaciones</td>
-<td class="cuerpo_tabla_izq" rowspan="12">Para considerarse compostables deben estar certificados de acuerdo con la norma UNE EN 13432:2002</td>
+<td>A.1.7 Otras infraestructuras de las explotaciones</td>
+<td rowspan="12">Para considerarse compostables deben estar certificados de acuerdo con la norma UNE EN 13432:2002</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parrales para uva de mesa, sistemas de soporte y entutorado, así como otros sistemas de soporte como los tutores o los clips compostables, mallas anti hierba para cultivos existentes, etc.</td>
+<td>Parrales para uva de mesa, sistemas de soporte y entutorado, así como otros sistemas de soporte como los tutores o los clips compostables, mallas anti hierba para cultivos existentes, etc.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– cortavientos,</td>
+<td>– cortavientos,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– refugio para insectos,</td>
+<td>– refugio para insectos,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Instalación eléctrica, conexión, cableado, transformador, condensadores, variador de frecuencia</td>
+<td>– Instalación eléctrica, conexión, cableado, transformador, condensadores, variador de frecuencia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Vado sanitario, báscula de pesaje de vehículos, plataforma antiderrame o de llenado</td>
+<td>– Vado sanitario, báscula de pesaje de vehículos, plataforma antiderrame o de llenado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Estación meteorológica</td>
+<td>– Estación meteorológica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Muros, zanjas y vallados, cancela metálica</td>
+<td>– Muros, zanjas y vallados, cancela metálica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Sistema antihelada y antigranizo</td>
+<td>– Sistema antihelada y antigranizo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Tubería de evacuación de agua</td>
+<td>– Tubería de evacuación de agua</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Sistemas de visión artificial y de teledetección aplicadas al control de calidad de la fruta y a la predicción de cosecha.</td>
+<td>– Sistemas de visión artificial y de teledetección aplicadas al control de calidad de la fruta y a la predicción de cosecha.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Otros.</td>
+<td>– Otros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.1.8 Semilleros y viveros: Semilleros, maquinaria para desinfección, desapilador de bandejas, otros.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.1.8 Semilleros y viveros: Semilleros, maquinaria para desinfección, desapilador de bandejas, otros.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.2 Medios de producción.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.2 Medios de producción.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.2.1 Maquinaria y aperos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">- En lo que se refiere a la maquinaria, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por técnico competente.</p>
-<p class="cuerpo_tabla_izq">- Se excluyen las herramientas accionadas manualmente que no requieren ninguna fuente de energía para su funcionamiento y uso.</p>
-<p class="cuerpo_tabla_izq">- En caso de que sea obligatorio normativamente, toda la maquinaria y aperos deberá estar inscrita en el Registro Oficial de Maquinaria Agrícola.</p>
+<td>A.2.1 Maquinaria y aperos.</td>
+<td rowspan="2">
+<p>- En lo que se refiere a la maquinaria, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por técnico competente.</p>
+<p>- Se excluyen las herramientas accionadas manualmente que no requieren ninguna fuente de energía para su funcionamiento y uso.</p>
+<p>- En caso de que sea obligatorio normativamente, toda la maquinaria y aperos deberá estar inscrita en el Registro Oficial de Maquinaria Agrícola.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Maquinaria y aperos específicos para llevar a cabo las labores de los cultivos incluida la recolección (plataformas de recolección y envasado en campo) para los que está reconocida la organización de productores, o en caso de que esta maquinaria no fuera exclusiva de esos cultivos, justificación de que el valor de esos cultivos representa menos del 50  % de los cultivos empleados por esa acción.</td>
+<td>Maquinaria y aperos específicos para llevar a cabo las labores de los cultivos incluida la recolección (plataformas de recolección y envasado en campo) para los que está reconocida la organización de productores, o en caso de que esta maquinaria no fuera exclusiva de esos cultivos, justificación de que el valor de esos cultivos representa menos del 50  % de los cultivos empleados por esa acción.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.2.2 Vehículos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Serán subvencionables los siguientes medios de transporte en el marco de la OP: vehículos para el transporte interno de la producción y vehículos para el acceso a las explotaciones.</p>
-<p class="cuerpo_tabla_izq">– La titular de los vehículos será la organización de productores y éstos deberán llevar el nombre y el anagrama de dicha organización de productores grabado en el exterior.</p>
-<p class="cuerpo_tabla_izq">– Los vehículos deberán estar dimensionados según su finalidad concreta y su adquisición por la OP deberá suponer un aumento en la eficacia en el transporte respecto de la situación <em>ex ante</em> a la adquisición, en el transporte interno de producto en el marco de la OP y entre ésta y las explotaciones de sus miembros productores.</p>
-<p class="cuerpo_tabla_izq">– En caso de vehículos para el acceso a las explotaciones, deberán ser de uso exclusivo para el personal de asesoramiento técnico contratado al servicio de la OP, en cuyo caso deberá justificarse la necesidad de la adquisición de dicho medio de transporte.</p>
-<p class="cuerpo_tabla_izq">– Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación.</p>
+<td>A.2.2 Vehículos.</td>
+<td>
+<p>– Serán subvencionables los siguientes medios de transporte en el marco de la OP: vehículos para el transporte interno de la producción y vehículos para el acceso a las explotaciones.</p>
+<p>– La titular de los vehículos será la organización de productores y éstos deberán llevar el nombre y el anagrama de dicha organización de productores grabado en el exterior.</p>
+<p>– Los vehículos deberán estar dimensionados según su finalidad concreta y su adquisición por la OP deberá suponer un aumento en la eficacia en el transporte respecto de la situación <em>ex ante</em> a la adquisición, en el transporte interno de producto en el marco de la OP y entre ésta y las explotaciones de sus miembros productores.</p>
+<p>– En caso de vehículos para el acceso a las explotaciones, deberán ser de uso exclusivo para el personal de asesoramiento técnico contratado al servicio de la OP, en cuyo caso deberá justificarse la necesidad de la adquisición de dicho medio de transporte.</p>
+<p>– Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.2.3 Plantones y gastos de plantación.</td>
-<td class="cuerpo_tabla_izq">Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario.</td>
+<td>A.2.3 Plantones y gastos de plantación.</td>
+<td>Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plantones, patrones, reinjertos, elementos para injertos nuevas plantaciones y royalties asociados a la utilización de variedades protegidas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario.</p>
-<p class="cuerpo_tabla_izq">– Se podrá incluir la mano de obra de plantación o injertos siempre y cuando no se lleve a cabo con medios propios.</p>
-<p class="cuerpo_tabla_izq">– Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente.</p>
+<td>Plantones, patrones, reinjertos, elementos para injertos nuevas plantaciones y royalties asociados a la utilización de variedades protegidas.</td>
+<td>
+<p>– Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario.</p>
+<p>– Se podrá incluir la mano de obra de plantación o injertos siempre y cuando no se lleve a cabo con medios propios.</p>
+<p>– Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Patrones</td>
-<td class="cuerpo_tabla_izq">Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente.</td>
+<td>Patrones</td>
+<td>Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.2.4 Otros medios de producción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td>A.2.4 Otros medios de producción.</td>
+<td> </td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– GPS, Medios informáticos, robóticos, de inteligencia artificial, cámaras digitales, drones, tensiómetros, sensores de humedad, sondas de humedad y otros medios digitales o de agricultura de Precisión, etc.</p>
-<p class="cuerpo_tabla_izq">– Instrumentos de medida, conductímetro, penetrómetro, sensores de humedad,</p>
-<p class="cuerpo_tabla_izq">– calibradores.</p>
-<p class="cuerpo_tabla_izq">– Sistema de análisis y control de la producción.</p>
-<p class="cuerpo_tabla_izq">– Mediciones topográficas, barrena.</p>
-<p class="cuerpo_tabla_izq">– Protectores de árboles, macetas, cestas de recolección, palets, carros y bandejas, báscula, tijeras de poda, mesa de corte, elementos de aislamiento térmico y humedad para árboles, malla antigranizo.</p>
-<p class="cuerpo_tabla_izq">– Equipos de blanqueo y lavado.</p>
-<p class="cuerpo_tabla_izq">– Estación de monitoreo.</p>
-<p class="cuerpo_tabla_izq">– Línea de manipulación en campo.</p>
-<p class="cuerpo_tabla_izq">– Equipo de separación para siembra.</p>
-<p class="cuerpo_tabla_izq">– Malla de radiación.</p>
-<p class="cuerpo_tabla_izq">– Elementos de entutorado de la plantación, etc.</p>
-<p class="cuerpo_tabla_izq">– Insectarios: construcción y equipamiento de edificios e instalaciones para la cría y aclimatación de especies de enemigos naturales de las plagas (parasitoides, depredadores o patógenos).</p>
+<td>
+<p>– GPS, Medios informáticos, robóticos, de inteligencia artificial, cámaras digitales, drones, tensiómetros, sensores de humedad, sondas de humedad y otros medios digitales o de agricultura de Precisión, etc.</p>
+<p>– Instrumentos de medida, conductímetro, penetrómetro, sensores de humedad,</p>
+<p>– calibradores.</p>
+<p>– Sistema de análisis y control de la producción.</p>
+<p>– Mediciones topográficas, barrena.</p>
+<p>– Protectores de árboles, macetas, cestas de recolección, palets, carros y bandejas, báscula, tijeras de poda, mesa de corte, elementos de aislamiento térmico y humedad para árboles, malla antigranizo.</p>
+<p>– Equipos de blanqueo y lavado.</p>
+<p>– Estación de monitoreo.</p>
+<p>– Línea de manipulación en campo.</p>
+<p>– Equipo de separación para siembra.</p>
+<p>– Malla de radiación.</p>
+<p>– Elementos de entutorado de la plantación, etc.</p>
+<p>– Insectarios: construcción y equipamiento de edificios e instalaciones para la cría y aclimatación de especies de enemigos naturales de las plagas (parasitoides, depredadores o patógenos).</p>
 </td>
-<td class="cuerpo_tabla_izq">El GPS quedará identificado por el número de bastidor y matrícula de la maquinaria en que se instale, en su caso.</td>
+<td>El GPS quedará identificado por el número de bastidor y matrícula de la maquinaria en que se instale, en su caso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.3 Ajuste de la oferta a la demanda.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.3 Ajuste de la oferta a la demanda.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.3.1 Arranque de plantaciones de cultivos leñosos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente.</p>
-<p class="cuerpo_tabla_izq">– Se limitará anualmente al 10 % de la superficie de la organización de productores para la variedad en cuestión. No obstante, dicho porcentaje podrá aumentarse hasta el 25 % si el arranque va acompañado de una reconversión varietal siempre que con la misma no se produzcan incrementos productivos y se realice hacia variedades que no presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente.</p>
-<p class="cuerpo_tabla_izq">– El gasto anual con cargo al programa operativo estará limitado a 4.750 euros/hectárea.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4 Medidas dirigidas a mejorar la comercialización.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4.1 Obra civil dirigida a mejorar la comercialización.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Adquisición/construcción de naves, construcción de centrales hortofrutícolas, construcción de centros logísticos y de comercialización, industrias de transformación, acondicionamiento y cubierta de espacios para recepción o expedición de productos hortofrutícolas, ampliaciones de centros de transformación, construcción de muelles de recepción y expedición, aislamientos naves, acondicionamientos de espacios para cámaras frigoríficas, acondicionamiento de suelos; mejora, ampliaciones, acondicionamiento y reforma de los elementos anteriores, así como sus proyectos de ejecución, incluidos los gastos de honorarios de proyecto, vías de acceso a las centrales hortofrutícolas, Sistema de recogida de aguas pluviales etc.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– No será subvencionable la construcción o reforma de dependencias como aseos, comedores, oficinas, salas de reuniones, etc. de forma aislada.</p>
-<p class="cuerpo_tabla_izq">– Las vías de acceso se dimensionarán en función del tráfico que vaya a soportar derivado de la actividad de la OP.</p>
-<p class="cuerpo_tabla_izq">– Se deberá disponer de licencia de obra.</p>
+<td>A.3.1 Arranque de plantaciones de cultivos leñosos.</td>
+<td>
+<p>– Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente.</p>
+<p>– Se limitará anualmente al 10 % de la superficie de la organización de productores para la variedad en cuestión. No obstante, dicho porcentaje podrá aumentarse hasta el 25 % si el arranque va acompañado de una reconversión varietal siempre que con la misma no se produzcan incrementos productivos y se realice hacia variedades que no presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente.</p>
+<p>– El gasto anual con cargo al programa operativo estará limitado a 4.750 euros/hectárea.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Adquisición/construcción de tiendas minoristas; mejora, acondicionamiento y reforma de los elementos anteriores, así como sus proyectos de ejecución, etc.</td>
-<td class="cuerpo_tabla_izq">– En el caso de tienda minorista, ésta sólo será elegible si más del 50 % del valor de los productos que se venden en ella son frutas y hortalizas para los que la organización de productores está reconocida y han sido producidas por ella o por otras organizaciones de productores.</td>
+<td>A.4 Medidas dirigidas a mejorar la comercialización.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Inversiones en sistemas de mejora de la comercialización tales como «prototipo de tiendas, «supermercados experimentales» donde experimentar con clientes, consumidores, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.4.1 Obra civil dirigida a mejorar la comercialización.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Traspasos de puestos en mercados mayoristas.</td>
-<td class="cuerpo_tabla_izq">– Sólo será subvencionable el coste del traspaso, pero no los gastos de funcionamiento posteriores.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Inversiones para acometer acciones de publicidad en lugar de venta para exposición y promoción de productos, novedades, etc. Inversión en catas y degustaciones en tiendas, super e hipermercados (material, herramientas, personal, comunicación) así como inversión en catas y degustaciones en instalaciones propias.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4.2 Maquinaria, instalaciones y equipos dirigidos a la mejorar la comercialización.</td>
-<td class="cuerpo_tabla_izq" rowspan="7">La maquinaria, instalaciones o equipos deberán estar directamente relacionados con el producto final, el proceso o la actividad de la organización de productores.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Instalación maquinaria de manipulación, clasificación y presentación; maquinaria de limpieza, pelado y troceado, maquinaria de selección y calibrado, maquinaria de envasado, instalaciones eléctricas en nave o en central, maquinaria confección de «cuarta o quinta gama», maquinaria para la transformación o para la valorización de subproductos de la transformación, envolvedoras, etiquetadoras, túneles de lavado de cajas, hornos para desinfección de palots transformadores e instalaciones eléctricas. Mejora y acondicionamiento de los elementos anteriores, hidrolimpiadoras (tipo Karcher) manuales para limpieza de palots y cajas de campo, así como las fregadoras de suelos de la zona de manipulación, Sistema de eficiencia energética (sensores de presencia, domótica).etc.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Instalación de básculas, cintas transportadoras, maquinaria limpia cintas paletizadores, despaletizadores y apiladoras de envases, transportadores aéreos de cajas, carretillas elevadoras y transpaletas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Adquisición de equipamiento frigorífico.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Sistemas de Control frigorífico durante el transporte, sensores/GPS unidireccionales y software para el control.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Instalaciones y equipamiento necesario para una tienda minorista o un puesto en mercado mayorista, o instalaciones equipamientos y gastos relacionados con la utilización de plataformas de comercio online.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Inversiones para la adecuación de las tiendas físicas para la gestión de los pedidos online. Software, hardware, formación. Comunicación y promoción.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4.3 Equipamiento informático para la mejora de la comercialización</td>
-<td class="cuerpo_tabla_izq">El equipamiento informático deberá destinarse a la actuación descrita, excluyéndose de forma explícita el uso de los mismos para cuestiones administrativas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Equipamiento informático genérico (hardware, impresoras).</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Sistemas de control de la calidad, producción y trazabilidad (programas informáticos, lectores, etc.), automatización clasificación de líneas de producción (hardware y software).</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Implantación de páginas y canal Web y de sistemas de información y comunicación mediante mensajes a móviles.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4.4 Envases y palots de campo que se utilicen más de un año.</td>
-<td class="cuerpo_tabla_izq">El gasto correspondiente a los envases y palots de campo estará limitado al 5 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4.5 Otras inversiones en infraestructura y equipos para la mejora de la comercialización.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.4.6 Inversiones y gastos relacionados con la transformación de frutas y hortalizas en frutas y hortalizas transformadas.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.5 Medidas dirigidas a investigación y producción experimental.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">i) Ejecutadas por la OP o la AOP:</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A.5.1 Inversiones en instalaciones experimentales o fincas piloto.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Las inversiones realizadas en las instalaciones de la OP o la AOP habrán de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión.</p>
-<p class="cuerpo_tabla_izq">– Las inversiones deberán enmarcarse en el desarrollo de un proyecto de investigación dirigido a investigación y producción experimental.</p>
-<p class="cuerpo_tabla_izq">– Las fincas piloto deberán promover prácticas sostenibles en favor de una agricultura respetuosa con el medioambiente.</p>
+<td>– Adquisición/construcción de naves, construcción de centrales hortofrutícolas, construcción de centros logísticos y de comercialización, industrias de transformación, acondicionamiento y cubierta de espacios para recepción o expedición de productos hortofrutícolas, ampliaciones de centros de transformación, construcción de muelles de recepción y expedición, aislamientos naves, acondicionamientos de espacios para cámaras frigoríficas, acondicionamiento de suelos; mejora, ampliaciones, acondicionamiento y reforma de los elementos anteriores, así como sus proyectos de ejecución, incluidos los gastos de honorarios de proyecto, vías de acceso a las centrales hortofrutícolas, Sistema de recogida de aguas pluviales etc.</td>
+<td>
+<p>– No será subvencionable la construcción o reforma de dependencias como aseos, comedores, oficinas, salas de reuniones, etc. de forma aislada.</p>
+<p>– Las vías de acceso se dimensionarán en función del tráfico que vaya a soportar derivado de la actividad de la OP.</p>
+<p>– Se deberá disponer de licencia de obra.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.5.2 Desarrollo de estudios dirigidos a investigación y producción experimental.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Deberán ser valorados por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente.</p>
-<p class="cuerpo_tabla_izq">– Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado.</p>
+<td>– Adquisición/construcción de tiendas minoristas; mejora, acondicionamiento y reforma de los elementos anteriores, así como sus proyectos de ejecución, etc.</td>
+<td>– En el caso de tienda minorista, ésta sólo será elegible si más del 50 % del valor de los productos que se venden en ella son frutas y hortalizas para los que la organización de productores está reconocida y han sido producidas por ella o por otras organizaciones de productores.</td>
+</tr>
+<tr>
+<td>– Inversiones en sistemas de mejora de la comercialización tales como «prototipo de tiendas, «supermercados experimentales» donde experimentar con clientes, consumidores, etc.).</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Traspasos de puestos en mercados mayoristas.</td>
+<td>– Sólo será subvencionable el coste del traspaso, pero no los gastos de funcionamiento posteriores.</td>
+</tr>
+<tr>
+<td>– Inversiones para acometer acciones de publicidad en lugar de venta para exposición y promoción de productos, novedades, etc. Inversión en catas y degustaciones en tiendas, super e hipermercados (material, herramientas, personal, comunicación) así como inversión en catas y degustaciones en instalaciones propias.</td>
+<td> </td>
+</tr>
+<tr>
+<td>A.4.2 Maquinaria, instalaciones y equipos dirigidos a la mejorar la comercialización.</td>
+<td rowspan="7">La maquinaria, instalaciones o equipos deberán estar directamente relacionados con el producto final, el proceso o la actividad de la organización de productores.</td>
+</tr>
+<tr>
+<td>– Instalación maquinaria de manipulación, clasificación y presentación; maquinaria de limpieza, pelado y troceado, maquinaria de selección y calibrado, maquinaria de envasado, instalaciones eléctricas en nave o en central, maquinaria confección de «cuarta o quinta gama», maquinaria para la transformación o para la valorización de subproductos de la transformación, envolvedoras, etiquetadoras, túneles de lavado de cajas, hornos para desinfección de palots transformadores e instalaciones eléctricas. Mejora y acondicionamiento de los elementos anteriores, hidrolimpiadoras (tipo Karcher) manuales para limpieza de palots y cajas de campo, así como las fregadoras de suelos de la zona de manipulación, Sistema de eficiencia energética (sensores de presencia, domótica).etc.</td>
+</tr>
+<tr>
+<td>– Instalación de básculas, cintas transportadoras, maquinaria limpia cintas paletizadores, despaletizadores y apiladoras de envases, transportadores aéreos de cajas, carretillas elevadoras y transpaletas.</td>
+</tr>
+<tr>
+<td>– Adquisición de equipamiento frigorífico.</td>
+</tr>
+<tr>
+<td>– Sistemas de Control frigorífico durante el transporte, sensores/GPS unidireccionales y software para el control.</td>
+</tr>
+<tr>
+<td>– Instalaciones y equipamiento necesario para una tienda minorista o un puesto en mercado mayorista, o instalaciones equipamientos y gastos relacionados con la utilización de plataformas de comercio online.</td>
+</tr>
+<tr>
+<td>– Inversiones para la adecuación de las tiendas físicas para la gestión de los pedidos online. Software, hardware, formación. Comunicación y promoción.</td>
+</tr>
+<tr>
+<td>A.4.3 Equipamiento informático para la mejora de la comercialización</td>
+<td>El equipamiento informático deberá destinarse a la actuación descrita, excluyéndose de forma explícita el uso de los mismos para cuestiones administrativas.</td>
+</tr>
+<tr>
+<td>– Equipamiento informático genérico (hardware, impresoras).</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Sistemas de control de la calidad, producción y trazabilidad (programas informáticos, lectores, etc.), automatización clasificación de líneas de producción (hardware y software).</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Implantación de páginas y canal Web y de sistemas de información y comunicación mediante mensajes a móviles.</td>
+<td> </td>
+</tr>
+<tr>
+<td>A.4.4 Envases y palots de campo que se utilicen más de un año.</td>
+<td>El gasto correspondiente a los envases y palots de campo estará limitado al 5 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite.</td>
+</tr>
+<tr>
+<td>A.4.5 Otras inversiones en infraestructura y equipos para la mejora de la comercialización.</td>
+<td> </td>
+</tr>
+<tr>
+<td>A.4.6 Inversiones y gastos relacionados con la transformación de frutas y hortalizas en frutas y hortalizas transformadas.</td>
+<td> </td>
+</tr>
+<tr>
+<td>A.5 Medidas dirigidas a investigación y producción experimental.</td>
+<td> </td>
+</tr>
+<tr>
+<td>i) Ejecutadas por la OP o la AOP:</td>
+<td> </td>
+</tr>
+<tr>
+<td>A.5.1 Inversiones en instalaciones experimentales o fincas piloto.</td>
+<td>
+<p>– Las inversiones realizadas en las instalaciones de la OP o la AOP habrán de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión.</p>
+<p>– Las inversiones deberán enmarcarse en el desarrollo de un proyecto de investigación dirigido a investigación y producción experimental.</p>
+<p>– Las fincas piloto deberán promover prácticas sostenibles en favor de una agricultura respetuosa con el medioambiente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">A.5.3 Desarrollo de proyectos de investigación dirigidos a investigación y producción experimental.</td>
-<td class="cuerpo_tabla_izq">– La producción experimental se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Los proyectos de investigación podrán ser proyectos colectivos, promovidos por las OP y/o AOP junto a otras OP, AOP u otras entidades.</p>
-<p class="cuerpo_tabla_izq">– Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado.</p>
+<td>A.5.2 Desarrollo de estudios dirigidos a investigación y producción experimental.</td>
+<td>
+<p>– Deberán ser valorados por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente.</p>
+<p>– Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">ii) Ejecutadas por entidades externas a la OP o la AOP:</td>
+<td rowspan="2">A.5.3 Desarrollo de proyectos de investigación dirigidos a investigación y producción experimental.</td>
+<td>– La producción experimental se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.5.4 Contrataciones externas con centros de investigación de estudios dirigidos a investigación o producción experimental.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">– Deberá existir coherencia con el producto para el que está reconocida la OPFH y con los objetivos que ésta haya establecido en el proyecto de programa operativo.</p>
-<p class="cuerpo_tabla_izq">– Serán subvencionables los gastos de honorarios de redacción de proyectos y estudios.</p>
+<td>
+<p>– Los proyectos de investigación podrán ser proyectos colectivos, promovidos por las OP y/o AOP junto a otras OP, AOP u otras entidades.</p>
+<p>– Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.5.5 Contrataciones externas con centros de investigación de proyectos dirigidos a investigación y producción experimental.</td>
+<td colspan="2">ii) Ejecutadas por entidades externas a la OP o la AOP:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.5.6 Contribuciones de la OP o la AOP a proyectos de centros de investigación, en el marco de convenios de colaboración.</td>
+<td>A.5.4 Contrataciones externas con centros de investigación de estudios dirigidos a investigación o producción experimental.</td>
+<td rowspan="3">
+<p>– Deberá existir coherencia con el producto para el que está reconocida la OPFH y con los objetivos que ésta haya establecido en el proyecto de programa operativo.</p>
+<p>– Serán subvencionables los gastos de honorarios de redacción de proyectos y estudios.</p>
+</td>
+</tr>
+<tr>
+<td>A.5.5 Contrataciones externas con centros de investigación de proyectos dirigidos a investigación y producción experimental.</td>
+</tr>
+<tr>
+<td>A.5.6 Contribuciones de la OP o la AOP a proyectos de centros de investigación, en el marco de convenios de colaboración.</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">A.6 Otras acciones, actuaciones, inversiones y conceptos de gasto.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.6 Otras acciones, actuaciones, inversiones y conceptos de gasto.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.6.1 Fusiones, adquisiciones y participaciones.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.6.1 Fusiones, adquisiciones y participaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Compra de terrenos no edificados cuando sea necesaria para efectuar una inversión incluida en el programa y compra de bienes inmuebles, de conformidad con las condiciones establecidas en el anexo III del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, siempre que no hayan sido comprados con ayuda de la Unión Europea o ayuda nacional en los últimos 10 años.</td>
-<td class="cuerpo_tabla_izq">La compra de terrenos no edificados deberá estar motivada en los objetivos que están previstos alcanzar en su PO.</td>
+<td>– Compra de terrenos no edificados cuando sea necesaria para efectuar una inversión incluida en el programa y compra de bienes inmuebles, de conformidad con las condiciones establecidas en el anexo III del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, siempre que no hayan sido comprados con ayuda de la Unión Europea o ayuda nacional en los últimos 10 años.</td>
+<td>La compra de terrenos no edificados deberá estar motivada en los objetivos que están previstos alcanzar en su PO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Gastos e inversiones ligados a actuaciones conjuntas de comercialización (consorcios, uniones temporales de empresas, filiales, cooperativas de integración, etc…)</td>
-<td class="cuerpo_tabla_izq">En el caso de compra de acciones, se debe aportar certificado de tasación emitido por un tasador colegiado que confirme el precio de la compra de las mismas.</td>
+<td>– Gastos e inversiones ligados a actuaciones conjuntas de comercialización (consorcios, uniones temporales de empresas, filiales, cooperativas de integración, etc…)</td>
+<td>En el caso de compra de acciones, se debe aportar certificado de tasación emitido por un tasador colegiado que confirme el precio de la compra de las mismas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Inversiones en acciones de empresas del sector de frutas y hortalizas, incluidas las inversiones en industrias, si la inversión contribuye al logro de los objetivos del programa operativo.</td>
-<td class="cuerpo_tabla_izq">Sólo se podrán incluir acciones de empresas del sector de frutas y hortalizas que realicen actividades con productos o servicios de la OP. No son subvencionables las acciones o capital de empresas, si se trata de una inversión financiera.</td>
+<td>– Inversiones en acciones de empresas del sector de frutas y hortalizas, incluidas las inversiones en industrias, si la inversión contribuye al logro de los objetivos del programa operativo.</td>
+<td>Sólo se podrán incluir acciones de empresas del sector de frutas y hortalizas que realicen actividades con productos o servicios de la OP. No son subvencionables las acciones o capital de empresas, si se trata de una inversión financiera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Gastos jurídicos y administrativos derivados de las fusiones o adquisiciones de organizaciones de productores y de la creación de organizaciones de productores transnacionales o asociaciones de productores transnacionales. Estudios de viabilidad y propuestas que las organizaciones de productores hayan encargado en este ámbito.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>– Gastos jurídicos y administrativos derivados de las fusiones o adquisiciones de organizaciones de productores y de la creación de organizaciones de productores transnacionales o asociaciones de productores transnacionales. Estudios de viabilidad y propuestas que las organizaciones de productores hayan encargado en este ámbito.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.6.2 Estudios</td>
-<td class="cuerpo_tabla_izq">Los estudios deben contribuir a los objetivos de la intervención sectorial de frutas y hortalizas.</td>
+<td>A.6.2 Estudios</td>
+<td>Los estudios deben contribuir a los objetivos de la intervención sectorial de frutas y hortalizas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.6.3 Gastos generales</td>
-<td class="cuerpo_tabla_izq">Cantidad fija a tanto alzado del 2 %</td>
+<td>A.6.3 Gastos generales</td>
+<td>Cantidad fija a tanto alzado del 2 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.6.4 Otras acciones no incluidas en los apartados anteriores conducentes a la consecución de los objetivos reglamentarios</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.6.4 Otras acciones no incluidas en los apartados anteriores conducentes a la consecución de los objetivos reglamentarios</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">i) la conservación del suelo, en particular la mejora del contenido de carbono del suelo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>i) la conservación del suelo, en particular la mejora del contenido de carbono del suelo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.1 Inversiones para luchar contra la erosión en cultivos leñosos</td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td>A.i.1 Inversiones para luchar contra la erosión en cultivos leñosos</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Bancales, muretes, setos vegetales, terrazas, malla antierosión, etc.</td>
+<td>– Bancales, muretes, setos vegetales, terrazas, malla antierosión, etc.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.2 Cubiertas inertes en cultivos leñosos</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.2 Cubiertas inertes en cultivos leñosos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.3 Utilización de compost, incluido el procedente de los restos de manipulado y envasado.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.3 Utilización de compost, incluido el procedente de los restos de manipulado y envasado.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.4 Realización de abonado en verde mediante leguminosas y otras especies (incluidas crucíferas y gramíneas)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.4 Realización de abonado en verde mediante leguminosas y otras especies (incluidas crucíferas y gramíneas)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.5 Realización de abonado en verde mediante restos de la propia explotación en hortícolas, incluida la incorporación de los restos de la planta hortícola mediante el uso de trituradoras, entre otros, en el cultivo de tomate para industria.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.5 Realización de abonado en verde mediante restos de la propia explotación en hortícolas, incluida la incorporación de los restos de la planta hortícola mediante el uso de trituradoras, entre otros, en el cultivo de tomate para industria.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.6 Cubiertas vegetales sembradas en cultivos leñosos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.6 Cubiertas vegetales sembradas en cultivos leñosos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.7 Siega e incorporación al terreno de cubiertas vegetales espontáneas que simultáneamente ofrece los beneficios de no utilización de herbicidas químicos, incremento del contenido de materia orgánica del suelo, protección contra la erosión, refugio de fauna útil, etc.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.7 Siega e incorporación al terreno de cubiertas vegetales espontáneas que simultáneamente ofrece los beneficios de no utilización de herbicidas químicos, incremento del contenido de materia orgánica del suelo, protección contra la erosión, refugio de fauna útil, etc.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.8 Polímeros y mejorantes del suelo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.8 Polímeros y mejorantes del suelo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.9 Utilización de ácidos húmicos para mejorar la absorción de nutrientes o su aprovechamiento.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.9 Utilización de ácidos húmicos para mejorar la absorción de nutrientes o su aprovechamiento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.10 Coste específico de abonos orgánicos y bioestimulantes</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.10 Coste específico de abonos orgánicos y bioestimulantes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.11 Enmiendas orgánicas previas a la implantación de cultivos plurianuales</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.11 Enmiendas orgánicas previas a la implantación de cultivos plurianuales</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.12 Uso de microalgas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.12 Uso de microalgas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.13 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.i.13 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.14 Coste específico de la asociación de cultivos para la activación de microorganismos del suelo la fertilización natural del cultivo, movilización de nutrientes, mejora de la estructura del suelo y favorecer la retención de agua: Pimiento+Judía; Melón+Judía; Brócoli+Haba</td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td>A.i.14 Coste específico de la asociación de cultivos para la activación de microorganismos del suelo la fertilización natural del cultivo, movilización de nutrientes, mejora de la estructura del suelo y favorecer la retención de agua: Pimiento+Judía; Melón+Judía; Brócoli+Haba</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.i.15 <strong>(Suprimido)</strong></td>
+<td>A.i.15 <strong>(Suprimido)</strong></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ii) la mejora del uso y la gestión del agua, en particular el ahorro de agua, la conservación del agua y el saneamiento,</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>ii) la mejora del uso y la gestión del agua, en particular el ahorro de agua, la conservación del agua y el saneamiento,</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.1 Instalaciones o mejoras de sistemas de depuración del agua.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.1 Instalaciones o mejoras de sistemas de depuración del agua.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.2 Transformación de invernaderos con suelo en invernaderos sin suelo con recirculación de solución nutritiva.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.2 Transformación de invernaderos con suelo en invernaderos sin suelo con recirculación de solución nutritiva.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.3 Instalaciones o mejoras de recuperación del agua sistemas de oxigenación y ozonización de agua de riego, así como, equipos de control de desinfección.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.3 Instalaciones o mejoras de recuperación del agua sistemas de oxigenación y ozonización de agua de riego, así como, equipos de control de desinfección.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.4 Sistemas de optimización y reducción de consumo de agua y producto en lavadora de frutas y hortalizas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.4 Sistemas de optimización y reducción de consumo de agua y producto en lavadora de frutas y hortalizas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.5 Instalaciones que permitan la reutilización de agua.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.5 Instalaciones que permitan la reutilización de agua.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.6 Mejora de sistemas de riego por otros más eficientes (modernización de regadíos).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La instalación debe contar con un sistema de contadores que permita medir el uso del agua de la superficie a la que afecte las inversiones. Deben registrarse las lecturas de los contadores.</p>
-<p class="cuerpo_tabla_izq">Se debe hacer una evaluación ex ante del potencial de ahorro de agua que refleje los parámetros técnicos de las instalaciones o infraestructuras existentes. El porcentaje mínimo de ahorro potencial estará comprendido entre el 5 y el 10 % según las características técnicas del proyecto de modernización.</p>
-<p class="cuerpo_tabla_izq">Si la inversión afecta a masas de agua cuyo estado se haya determinado como inferior a bueno en el plan hidrológico de cuenca pertinente por motivos relativos a la cantidad de agua, se conseguirá una reducción efectiva del consumo de agua, de manera que se contribuya a la consecución del buen estado de estas masas de agua.</p>
-<p class="cuerpo_tabla_izq">En las inversiones que tengan como resultado un incremento neto de la superficie de riego, las masas de agua afectadas deberán no haber sido calificadas como inferior a bueno por motivos relativos a la cantidad de agua y demostrarse, que no se producirá ningún efecto medioambiental negativo significativo a raíz de la inversión.</p>
-<p class="cuerpo_tabla_izq">Si fruto de esta inversión se consigue una reducción efectiva del consumo de agua se considerará que contribuye a la consecución del objetivo contemplado en la letra e) del artículo 46 del Reglamento (UE) n.º 2021/2115.</p>
-<p class="cuerpo_tabla_izq">La misma inversión en riego no puede ser incluida en el ámbito de miembro y dentro de una misma anualidad en dos acciones simultáneamente.</p>
-<p class="cuerpo_tabla_izq">La justificación de la inversión irá acompañada de la documentación técnica que permita una evaluación de la situación de partida y de la eficiencia de la nueva instalación.</p>
-<p class="cuerpo_tabla_izq">Se establecerán medidas de control de la captación de aguas dulces superficiales y subterráneas y de embalse de aguas dulces superficiales con inclusión de un registro o registros de las captaciones de agua y un requisito de autorización previa para la captación y el embalse.</p>
-<p class="cuerpo_tabla_izq">Cuando a un miembro de una organización de productores se le haya impuesto una sanción en firme en vía administrativa por la autoridad competente en materia de agua, por infracciones calificadas de graves y muy graves por extracción de agua superficial o subterránea sin título habilitante cuando sea preciso, de acuerdo con lo previsto en el artículo 116.3.b) del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, no se podrán percibir ayudas por las inversiones efectuadas dentro de un programa operativo en aquellas parcelas concernidas. Además, la producción que se obtenga de dichas parcelas no podrá computar en el VPC ni a efectos de reconocimiento ni a efectos de la ayuda del programa operativo.</p>
-<p class="cuerpo_tabla_izq">A las inversiones realizadas sobre sistemas de riego que tengan como objetivos otros diferentes de la gestión del agua, como puede ser sustituir el sistema de alimentación de energía por otro más eficiente medioambientalmente, no estarán obligados a establecer reducciones de consumo de agua, ni potencial, ni efectiva. Otras inversiones diferentes de las de regadíos que se realicen sobre parcelas que se rieguen no estarán sometidas a reducciones en el consumo de agua.</p>
+<td>A.ii.6 Mejora de sistemas de riego por otros más eficientes (modernización de regadíos).</td>
+<td>
+<p>La instalación debe contar con un sistema de contadores que permita medir el uso del agua de la superficie a la que afecte las inversiones. Deben registrarse las lecturas de los contadores.</p>
+<p>Se debe hacer una evaluación ex ante del potencial de ahorro de agua que refleje los parámetros técnicos de las instalaciones o infraestructuras existentes. El porcentaje mínimo de ahorro potencial estará comprendido entre el 5 y el 10 % según las características técnicas del proyecto de modernización.</p>
+<p>Si la inversión afecta a masas de agua cuyo estado se haya determinado como inferior a bueno en el plan hidrológico de cuenca pertinente por motivos relativos a la cantidad de agua, se conseguirá una reducción efectiva del consumo de agua, de manera que se contribuya a la consecución del buen estado de estas masas de agua.</p>
+<p>En las inversiones que tengan como resultado un incremento neto de la superficie de riego, las masas de agua afectadas deberán no haber sido calificadas como inferior a bueno por motivos relativos a la cantidad de agua y demostrarse, que no se producirá ningún efecto medioambiental negativo significativo a raíz de la inversión.</p>
+<p>Si fruto de esta inversión se consigue una reducción efectiva del consumo de agua se considerará que contribuye a la consecución del objetivo contemplado en la letra e) del artículo 46 del Reglamento (UE) n.º 2021/2115.</p>
+<p>La misma inversión en riego no puede ser incluida en el ámbito de miembro y dentro de una misma anualidad en dos acciones simultáneamente.</p>
+<p>La justificación de la inversión irá acompañada de la documentación técnica que permita una evaluación de la situación de partida y de la eficiencia de la nueva instalación.</p>
+<p>Se establecerán medidas de control de la captación de aguas dulces superficiales y subterráneas y de embalse de aguas dulces superficiales con inclusión de un registro o registros de las captaciones de agua y un requisito de autorización previa para la captación y el embalse.</p>
+<p>Cuando a un miembro de una organización de productores se le haya impuesto una sanción en firme en vía administrativa por la autoridad competente en materia de agua, por infracciones calificadas de graves y muy graves por extracción de agua superficial o subterránea sin título habilitante cuando sea preciso, de acuerdo con lo previsto en el artículo 116.3.b) del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, no se podrán percibir ayudas por las inversiones efectuadas dentro de un programa operativo en aquellas parcelas concernidas. Además, la producción que se obtenga de dichas parcelas no podrá computar en el VPC ni a efectos de reconocimiento ni a efectos de la ayuda del programa operativo.</p>
+<p>A las inversiones realizadas sobre sistemas de riego que tengan como objetivos otros diferentes de la gestión del agua, como puede ser sustituir el sistema de alimentación de energía por otro más eficiente medioambientalmente, no estarán obligados a establecer reducciones de consumo de agua, ni potencial, ni efectiva. Otras inversiones diferentes de las de regadíos que se realicen sobre parcelas que se rieguen no estarán sometidas a reducciones en el consumo de agua.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.7 Recarga de acuíferos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.7 Recarga de acuíferos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.8 Acondicionamiento desagües.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.8 Acondicionamiento desagües.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.9 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.9 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.10 Sistema de drenaje.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.10 Sistema de drenaje.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.11 Sistemas de recirculación de agua y solución nutritiva en invernadero con suelo y al aire libre.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.11 Sistemas de recirculación de agua y solución nutritiva en invernadero con suelo y al aire libre.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.12 Utilización de la técnica de sombreo de embalses y cultivos para frenar la evaporación de los recursos hídricos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.12 Utilización de la técnica de sombreo de embalses y cultivos para frenar la evaporación de los recursos hídricos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.13 Aporte de oxígeno y de bacterias beneficiosas al agua embalsada. Utilización de peces estériles depredadores de algas para la limpieza de embalses de riego</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.13 Aporte de oxígeno y de bacterias beneficiosas al agua embalsada. Utilización de peces estériles depredadores de algas para la limpieza de embalses de riego</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.14 Estructura de recogida de agua de lluvia, y de escorrentías incluida la construcción de embalses para la recogida de estas aguas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.14 Estructura de recogida de agua de lluvia, y de escorrentías incluida la construcción de embalses para la recogida de estas aguas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.15 Utilización de variedades tolerantes o resistentes a la sequía (plantones, reinjertos y nuevas plantaciones)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.15 Utilización de variedades tolerantes o resistentes a la sequía (plantones, reinjertos y nuevas plantaciones)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.16 Realización de islas flotantes refugio de avifauna y anfibios sobre balsas de riego.</td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td>A.ii.16 Realización de islas flotantes refugio de avifauna y anfibios sobre balsas de riego.</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.17 Realización de albercas auxiliares para balsas realizadas en zonas sensibles fauna</td>
+<td>A.ii.17 Realización de albercas auxiliares para balsas realizadas en zonas sensibles fauna</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.18 Monitorización del riego vía sondas y programas específicos, tensiómetros, sensores, sistemas de comunicación de datos en discontinuo y en continuo, que permitan un uso más racional del agua</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.18 Monitorización del riego vía sondas y programas específicos, tensiómetros, sensores, sistemas de comunicación de datos en discontinuo y en continuo, que permitan un uso más racional del agua</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.19 incorporación de compost para la mejora del aprovechamiento del agua en el suelo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.19 incorporación de compost para la mejora del aprovechamiento del agua en el suelo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ii.20 Sistemas de cubiertas plásticas que se forman mediante piezas plásticas que se superponen sobre el embalse para sombrear balsas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ii.20 Sistemas de cubiertas plásticas que se forman mediante piezas plásticas que se superponen sobre el embalse para sombrear balsas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">iii) la prevención de los daños ocasionados por fenómenos climáticos adversos y el fomento del desarrollo y la utilización de variedades, y prácticas de gestión adaptadas a las condiciones climáticas cambiantes,</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>iii) la prevención de los daños ocasionados por fenómenos climáticos adversos y el fomento del desarrollo y la utilización de variedades, y prácticas de gestión adaptadas a las condiciones climáticas cambiantes,</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iii.1 Actuaciones para reducir la escorrentía superficial y evitar avenidas de agua</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iii.1 Actuaciones para reducir la escorrentía superficial y evitar avenidas de agua</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iii.2 Sistemas antihelada y antigranizo. Barreras cortavientos naturales o artificiales.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iii.2 Sistemas antihelada y antigranizo. Barreras cortavientos naturales o artificiales.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iii.3 Estaciones meteorológicas con el objetivo de un uso más eficaz de los tratamientos fitosanitarios.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iii.3 Estaciones meteorológicas con el objetivo de un uso más eficaz de los tratamientos fitosanitarios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">iv) aumentar el ahorro de energía, la eficiencia energética y la utilización de energías renovables,</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>iv) aumentar el ahorro de energía, la eficiencia energética y la utilización de energías renovables,</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.1 Instalaciones de energía renovable (eólica y solar, etc) incluida la fotovoltaica flotante sobre embalse.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La energía generada no superará la cantidad de energía que puede utilizarse anualmente para las actividades normales de la OPFH o la AOPFH y sus miembros productores.</p>
-<p class="cuerpo_tabla_izq">Se permitirá compensar la producción de energía sobrante que puede verterse a la red de distribución en momentos de exceso de producción de energía con consumo procedente de esa red general de distribución en momentos de déficit de producción de energía.</p>
+<td>A.iv.1 Instalaciones de energía renovable (eólica y solar, etc) incluida la fotovoltaica flotante sobre embalse.</td>
+<td>
+<p>La energía generada no superará la cantidad de energía que puede utilizarse anualmente para las actividades normales de la OPFH o la AOPFH y sus miembros productores.</p>
+<p>Se permitirá compensar la producción de energía sobrante que puede verterse a la red de distribución en momentos de exceso de producción de energía con consumo procedente de esa red general de distribución en momentos de déficit de producción de energía.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.2 Utilización de medios de producción, transformación o acondicionamiento más eficientes energéticamente</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.2 Utilización de medios de producción, transformación o acondicionamiento más eficientes energéticamente</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.3 Substitución de luminarias, variador de frecuencia, equipo de inercia térmica, batería de condensadores</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.3 Substitución de luminarias, variador de frecuencia, equipo de inercia térmica, batería de condensadores</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.4 Cogeneración [producción combinada de calor y energía] de energía a partir de residuos derivados de la producción, transformación, acondicionamiento del producto para su expedición o comercialización de frutas y hortalizas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.4 Cogeneración [producción combinada de calor y energía] de energía a partir de residuos derivados de la producción, transformación, acondicionamiento del producto para su expedición o comercialización de frutas y hortalizas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.5 Utilización de medios de maquinaria y aperos eléctricos para la explotación, incluidos los puntos de recarga en las propias explotaciones.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.5 Utilización de medios de maquinaria y aperos eléctricos para la explotación, incluidos los puntos de recarga en las propias explotaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.6 Reducción del consumo de combustible y emisión de CO<sub>2 </sub>con la utilización de maquinaria dotada con sistemas de posicionamiento.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.6 Reducción del consumo de combustible y emisión de CO<sub>2 </sub>con la utilización de maquinaria dotada con sistemas de posicionamiento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.7 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.7 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.iv.8 Desarrollo del hidrógeno verde: inversiones en instalaciones de generación, transporte y consumo de hidrógeno verde (producido por electrólisis del agua a partir de electricidad proveniente de fuentes renovables, sin producción de CO2)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.iv.8 Desarrollo del hidrógeno verde: inversiones en instalaciones de generación, transporte y consumo de hidrógeno verde (producido por electrólisis del agua a partir de electricidad proveniente de fuentes renovables, sin producción de CO2)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">v) envases ecológicos sólo en el campo de la investigación y la producción experimental</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>v) envases ecológicos sólo en el campo de la investigación y la producción experimental</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">vi) la bioseguridad y la salud</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>vi) la bioseguridad y la salud</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">vii) la reducción de los residuos y uso y gestión ecológicamente racionales de los subproductos, incluidas su reutilización y valorización.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>vii) la reducción de los residuos y uso y gestión ecológicamente racionales de los subproductos, incluidas su reutilización y valorización.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.1 Mejora de la eficiencia de filtros y equipos similares para la reducción de emisiones de polvo y otras partículas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.1 Mejora de la eficiencia de filtros y equipos similares para la reducción de emisiones de polvo y otras partículas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.2 Utilización en la explotación de elementos de entutorado biodegradables.</td>
-<td class="cuerpo_tabla_izq">Los materiales empleados serán biodegradables y compostables, para lo cual deberán estar certificados según la norma UNE-EN 13432:2002.</td>
+<td>A.vii.2 Utilización en la explotación de elementos de entutorado biodegradables.</td>
+<td>Los materiales empleados serán biodegradables y compostables, para lo cual deberán estar certificados según la norma UNE-EN 13432:2002.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.3 Utilización en la explotación de plásticos biodegradables y compostables</td>
-<td class="cuerpo_tabla_izq">Para poder ser considerados como bio degradables en suelo deben cumplir la norma UNE-EN 17033:2018. Para considerarse compostables deben cumplir la norma UNE-EN 13432:2002.</td>
+<td>A.vii.3 Utilización en la explotación de plásticos biodegradables y compostables</td>
+<td>Para poder ser considerados como bio degradables en suelo deben cumplir la norma UNE-EN 17033:2018. Para considerarse compostables deben cumplir la norma UNE-EN 13432:2002.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.4 Utilización en la explotación de otros materiales biodegradables o compostables en substitución de materiales plásticos convencionales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">En caso de utilización de materiales de acolchado biodegradables, deberán estar certificados según la norma UNE-EN 17033:2018.</p>
-<p class="cuerpo_tabla_izq">En caso de utilización de materiales compostables, deberán estar certificados según la norma UNE EN 13432:2002.</p>
+<td>A.vii.4 Utilización en la explotación de otros materiales biodegradables o compostables en substitución de materiales plásticos convencionales.</td>
+<td>
+<p>En caso de utilización de materiales de acolchado biodegradables, deberán estar certificados según la norma UNE-EN 17033:2018.</p>
+<p>En caso de utilización de materiales compostables, deberán estar certificados según la norma UNE EN 13432:2002.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.5 Valorización, tratamiento y recuperación de residuos generados en las fases de producción, transformación, acondicionamiento del producto para su expedición o comercialización</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.5 Valorización, tratamiento y recuperación de residuos generados en las fases de producción, transformación, acondicionamiento del producto para su expedición o comercialización</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.6 Instalación de plantas de compostaje, mejora de almacenamiento de residuos orgánicos, etc</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.6 Instalación de plantas de compostaje, mejora de almacenamiento de residuos orgánicos, etc</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.7 Desbrozadora, picadora, trituradora, sistema de recuperación de caldos, contenedores de residuos orgánicos, alineadora de poda, trommels)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.7 Desbrozadora, picadora, trituradora, sistema de recuperación de caldos, contenedores de residuos orgánicos, alineadora de poda, trommels)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.8 Obtención de biogás a partir de residuos derivados de la producción, manipulación y transformación de frutas y hortalizas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.8 Obtención de biogás a partir de residuos derivados de la producción, manipulación y transformación de frutas y hortalizas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.9 Reducción de emisiones de contaminación acústica</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.9 Reducción de emisiones de contaminación acústica</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.10 Substitución de gases refrigerantes con mayor impacto para el medioambiente</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.10 Substitución de gases refrigerantes con mayor impacto para el medioambiente</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.11 Aplicación de CO<sub>2</sub> en invernadero.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.11 Aplicación de CO<sub>2</sub> en invernadero.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.12 Briquetadora para la compactación de pieles de ajo, rentabilizando la eliminación de residuos y abriendo posibilidades de reaprovechamiento. (fase de confección del ajo)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.12 Briquetadora para la compactación de pieles de ajo, rentabilizando la eliminación de residuos y abriendo posibilidades de reaprovechamiento. (fase de confección del ajo)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.vii.13 Empacadora del resto de cosecha del cultivo del ajo (fase de producción)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.vii.13 Empacadora del resto de cosecha del cultivo del ajo (fase de producción)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">viii) mejorar la resistencia a las plagas, reducción de riesgos y consecuencias de la utilización de plaguicidas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>viii) mejorar la resistencia a las plagas, reducción de riesgos y consecuencias de la utilización de plaguicidas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.viii.1 Utilización de planta injertada en hortícolas y variedades resistentes</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.viii.1 Utilización de planta injertada en hortícolas y variedades resistentes</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.viii.2 Aporte de silicio u otros repelentes de plagas (caolín, extractos,…), para minimizar los tratamientos en los cultivos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.viii.2 Aporte de silicio u otros repelentes de plagas (caolín, extractos,…), para minimizar los tratamientos en los cultivos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.viii.3 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.viii.3 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.viii.4 Mejora saneamiento del ajo de siembra mediante termoterapia y otras técnicas novedosas que permitirán obtener un cultivo saneado y resistente a patógenos disminuyendo el uso de fitosanitarios y consecuentemente mejorando el medioambiente</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.viii.4 Mejora saneamiento del ajo de siembra mediante termoterapia y otras técnicas novedosas que permitirán obtener un cultivo saneado y resistente a patógenos disminuyendo el uso de fitosanitarios y consecuentemente mejorando el medioambiente</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ix) reducir los riesgos y el impacto derivados de la utilización de plaguicidas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>ix) reducir los riesgos y el impacto derivados de la utilización de plaguicidas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.1 Coste específico en trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes, tratamientos preventivos o cualquier otro material de protección vegetal, excluyendo productos químicos, respetuosos con el medio ambiente, derivados de la implantación de sistemas de calidad distintos de producción integrada y ecológica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Esta actuación será incompatible con las acciones D.1 y D.3 en superficie cuando se encuentren contemplados como práctica obligatoria en los módulos de producción ecológica o integrada.</p>
-<p class="cuerpo_tabla_izq">– Se realizará un estudio por un organismo independiente para establecer un importe a tanto alzado con base en el segundo párrafo del apartado 1 del artículo 21 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, para establecer un importe a tanto alzado, que cubrirá el coste adicional y las pérdidas de ingresos.</p>
+<td>A.ix.1 Coste específico en trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes, tratamientos preventivos o cualquier otro material de protección vegetal, excluyendo productos químicos, respetuosos con el medio ambiente, derivados de la implantación de sistemas de calidad distintos de producción integrada y ecológica.</td>
+<td>
+<p>– Esta actuación será incompatible con las acciones D.1 y D.3 en superficie cuando se encuentren contemplados como práctica obligatoria en los módulos de producción ecológica o integrada.</p>
+<p>– Se realizará un estudio por un organismo independiente para establecer un importe a tanto alzado con base en el segundo párrafo del apartado 1 del artículo 21 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, para establecer un importe a tanto alzado, que cubrirá el coste adicional y las pérdidas de ingresos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.2 Empleo de técnicas de solarización o biosolarización</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.2 Empleo de técnicas de solarización o biosolarización</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.3 Utilización de métodos de lucha biológica y/o biotecnológica, alternativos a los convencionales, utilizados en agricultura convencional, en cultivos hortofrutícolas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.3 Utilización de métodos de lucha biológica y/o biotecnológica, alternativos a los convencionales, utilizados en agricultura convencional, en cultivos hortofrutícolas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix4 Inversiones y gastos de funcionamiento en insectarios e instalaciones para control biológico de plagas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix4 Inversiones y gastos de funcionamiento en insectarios e instalaciones para control biológico de plagas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.5 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.5 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.6 Utilización de la técnica de embolsado de melocotón como barrera física frente a plagas para reducir el uso de productos químicos</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.6 Utilización de la técnica de embolsado de melocotón como barrera física frente a plagas para reducir el uso de productos químicos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.7 Utilización de la técnica de descortezado en uva de mesa para reducir el uso de productos químicos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.7 Utilización de la técnica de descortezado en uva de mesa para reducir el uso de productos químicos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.8 Utilización de la técnica de embolsado de uva de mesa como barrera física frente a plagas para reducir el uso de productos químicos</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.8 Utilización de la técnica de embolsado de uva de mesa como barrera física frente a plagas para reducir el uso de productos químicos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.9 Método de producción de residuo cero</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.9 Método de producción de residuo cero</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.10 Mejora de la estanqueidad de las estructuras para que no entren plagas y de la ventilación para que no haya enfermedades y reducir el uso de fitosanitaros</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.10 Mejora de la estanqueidad de las estructuras para que no entren plagas y de la ventilación para que no haya enfermedades y reducir el uso de fitosanitaros</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.11 Cobertura vegetal con forrajeras biocidas como alternativa a herramientas químicas para desinfección del suelo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.11 Cobertura vegetal con forrajeras biocidas como alternativa a herramientas químicas para desinfección del suelo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.12 Utilización de doble techo en cultivo de invernadero, de manera que se elimine el goteo que produce la cubierta sobre el cultivo por la transpiración de las plantas, para el control de enfermedades directamente relacionadas con la presencia de agua líquida sobre las plantas (podredumbres, mildius y bacteriosis) y determinadas fisiopatías, por lo que su uso contribuye a la reducción del uso de fungicidas y es básico para la instalación con éxito del ácaro depredador A.swirskii entre otros</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.12 Utilización de doble techo en cultivo de invernadero, de manera que se elimine el goteo que produce la cubierta sobre el cultivo por la transpiración de las plantas, para el control de enfermedades directamente relacionadas con la presencia de agua líquida sobre las plantas (podredumbres, mildius y bacteriosis) y determinadas fisiopatías, por lo que su uso contribuye a la reducción del uso de fungicidas y es básico para la instalación con éxito del ácaro depredador A.swirskii entre otros</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.13 Utilización de mallas antigerminantes de malas hierbas para evitar tratamiento herbicida.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.13 Utilización de mallas antigerminantes de malas hierbas para evitar tratamiento herbicida.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.14 Máquinas para evitar el tratamiento con herbicida en cultivos hortofrutícolas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.14 Máquinas para evitar el tratamiento con herbicida en cultivos hortofrutícolas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.15 Introducción de nidos de murciélagos y aves, cajas nido para aves, creación de refugios para la fauna, para eliminar insectos y animales que causan plagas en los cultivos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.15 Introducción de nidos de murciélagos y aves, cajas nido para aves, creación de refugios para la fauna, para eliminar insectos y animales que causan plagas en los cultivos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.16 Monitoreo de plagas para minimizar la aplicación de fitosanitarios</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.16 Monitoreo de plagas para minimizar la aplicación de fitosanitarios</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.17 Esterilización por vapor como medida de desinfección alternativa, sostenible y respetuosa con el medio ambiente en el cultivo de champiñón, de manera que se reduzca el uso de productos químicos, contaminantes, en el control de plagas y enfermedades y en la limpieza de las salas de cultivo.</td>
-<td class="cuerpo_tabla_izq">Se tendrá en cuenta el coste diferencial con los métodos tradicionales</td>
+<td>A.ix.17 Esterilización por vapor como medida de desinfección alternativa, sostenible y respetuosa con el medio ambiente en el cultivo de champiñón, de manera que se reduzca el uso de productos químicos, contaminantes, en el control de plagas y enfermedades y en la limpieza de las salas de cultivo.</td>
+<td>Se tendrá en cuenta el coste diferencial con los métodos tradicionales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.18 Retirada manual de almendra con avispilla</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.18 Retirada manual de almendra con avispilla</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.19 Colocación de bandas floridas y estructuras vegetales para el control de plagas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.19 Colocación de bandas floridas y estructuras vegetales para el control de plagas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.20 Utilización de Trichoderma en el cultivo del tomate con destino a transformación industria, cebolla y otros cultivos, de manera que con este hongo se propicie resistencias locales o sistémicas en la planta, mejora del estado fitosanitario (sin afectar a otros microorganismos beneficiosos), inactivación de compuestos tóxicos incluso degradación de pesticidas de alta persistencia,</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.20 Utilización de Trichoderma en el cultivo del tomate con destino a transformación industria, cebolla y otros cultivos, de manera que con este hongo se propicie resistencias locales o sistémicas en la planta, mejora del estado fitosanitario (sin afectar a otros microorganismos beneficiosos), inactivación de compuestos tóxicos incluso degradación de pesticidas de alta persistencia,</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.21 Utilización micorrizas arbusculares.</td>
-<td class="cuerpo_tabla_izq" rowspan="2"> </td>
+<td>A.ix.21 Utilización micorrizas arbusculares.</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.22 Utilización de microorganismos no micorrícicos.</td>
+<td>A.ix.22 Utilización de microorganismos no micorrícicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.23 Maquinaria de suelta de depredadores naturales</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.ix.23 Maquinaria de suelta de depredadores naturales</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.ix.24 Utilización de la técnica del despampanado mediante poda o eliminación manual de brotes u hojas en el cultivo de uva de mesa para reducir el uso de productos químicos.</td>
+<td>A.ix.24 Utilización de la técnica del despampanado mediante poda o eliminación manual de brotes u hojas en el cultivo de uva de mesa para reducir el uso de productos químicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">x) crear y conservar hábitats propicios a la biodiversidad,</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>x) crear y conservar hábitats propicios a la biodiversidad,</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.x.1 Implantación de setos o zonas de vegetación silvestre en la parcela para favorecer la biodiversidad y el mantenimiento/restauración del paisaje. Reforestación de las cuencas de los barrancos y zonas limítrofes con las zonas de producción, charcas bebederos para fauna silvestre, cajas nido.</td>
-<td class="cuerpo_tabla_izq">No son subvencionables el mantenimiento ni la conservación de los setos</td>
+<td>A.x.1 Implantación de setos o zonas de vegetación silvestre en la parcela para favorecer la biodiversidad y el mantenimiento/restauración del paisaje. Reforestación de las cuencas de los barrancos y zonas limítrofes con las zonas de producción, charcas bebederos para fauna silvestre, cajas nido.</td>
+<td>No son subvencionables el mantenimiento ni la conservación de los setos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.x.2 Desarrollo, aplicación y fomento de métodos de prevención de daños ocasionados por la fauna salvaje sobre las plantaciones hortofrutícolas, con el objetivo de preservar y mantener la biodiversidad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.x.2 Desarrollo, aplicación y fomento de métodos de prevención de daños ocasionados por la fauna salvaje sobre las plantaciones hortofrutícolas, con el objetivo de preservar y mantener la biodiversidad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.x.3 Conservación y fomento de la biodiversidad «in situ» en las propias explotaciones y mejora de los servicios del ecosistema, mediante la realización de inventarios de biodiversidad (plantas, invertebrados, reptiles, etc.) en fincas, particularmente en aquellas explotaciones con certificaciones en producción ecológica/biodinámica y/o con presencia de infraestructuras ecológicas (setos, plantas reservorio y flores dentro del invernadero, nidales y refugios para polinizadores, aves / murciélagos, reptiles etc.). Estudio sobre la presencia de aves, invertebrados, anfibios, plantas acuáticas y peces... en balsas de riego, sobre todo aquellas que cuentan con presencia de plantas acuáticas (como Chara sp.) para mejorar la oxigenación y calidad del agua. Los inventarios se podrían realizar en distintos momentos del año.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.x.3 Conservación y fomento de la biodiversidad «in situ» en las propias explotaciones y mejora de los servicios del ecosistema, mediante la realización de inventarios de biodiversidad (plantas, invertebrados, reptiles, etc.) en fincas, particularmente en aquellas explotaciones con certificaciones en producción ecológica/biodinámica y/o con presencia de infraestructuras ecológicas (setos, plantas reservorio y flores dentro del invernadero, nidales y refugios para polinizadores, aves / murciélagos, reptiles etc.). Estudio sobre la presencia de aves, invertebrados, anfibios, plantas acuáticas y peces... en balsas de riego, sobre todo aquellas que cuentan con presencia de plantas acuáticas (como Chara sp.) para mejorar la oxigenación y calidad del agua. Los inventarios se podrían realizar en distintos momentos del año.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.x.4 Utilización de colmenas de abejas, otros insectos polinizadores y fauna auxiliar.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.x.4 Utilización de colmenas de abejas, otros insectos polinizadores y fauna auxiliar.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.x.5 Creación de reservorios para depredadores naturales en los márgenes de la explotación.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.x.5 Creación de reservorios para depredadores naturales en los márgenes de la explotación.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.x.6 Utilización de variedades de cultivos en extinción o en regresión.</td>
-<td class="cuerpo_tabla_izq">Se admitirá como coste admisible la diferencia entre la utilización de esas variedades y el coste medio de las principales variedades utilizadas</td>
+<td>A.x.6 Utilización de variedades de cultivos en extinción o en regresión.</td>
+<td>Se admitirá como coste admisible la diferencia entre la utilización de esas variedades y el coste medio de las principales variedades utilizadas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">xi) mejorar las condiciones de empleo y las obligaciones del empleador, así como la salud y seguridad en el trabajo, de conformidad entre otros con las Directivas 1152/2019 / UE (condiciones de trabajo transparentes y predecibles), 89/391 / CEE y 2009/104 / CE (sobre seguridad y salud en el trabajo); dicho objetivo guarda relación con el objetivo específico establecido en el artículo 6, letra h);</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>xi) mejorar las condiciones de empleo y las obligaciones del empleador, así como la salud y seguridad en el trabajo, de conformidad entre otros con las Directivas 1152/2019 / UE (condiciones de trabajo transparentes y predecibles), 89/391 / CEE y 2009/104 / CE (sobre seguridad y salud en el trabajo); dicho objetivo guarda relación con el objetivo específico establecido en el artículo 6, letra h);</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.1 Alojamientos para trabajadores temporales o adaptación de los mismos para cumplir con las medidas de seguridad o recomendaciones de distanciamiento</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.xi.1 Alojamientos para trabajadores temporales o adaptación de los mismos para cumplir con las medidas de seguridad o recomendaciones de distanciamiento</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.2 Equipos de protección individual</td>
-<td class="cuerpo_tabla_izq">Material no fungible (amortización superior a un año)</td>
+<td>A.xi.2 Equipos de protección individual</td>
+<td>Material no fungible (amortización superior a un año)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.3 Medios de transporte que faciliten el acceso al trabajo</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Solo serán subvencionables los siguientes medios de transporte en el marco de la OP: vehículos colectivos para el transporte de trabajadores a las explotaciones.</p>
-<p class="cuerpo_tabla_izq">– La titular de los vehículos será la organización de productores y éstos deberán llevar el nombre y el anagrama de dicha organización de productores grabado en el exterior.</p>
-<p class="cuerpo_tabla_izq">– Los medios de transporte deberán estar dimensionados según su finalidad concreta.</p>
-<p class="cuerpo_tabla_izq">– Deberá justificarse la necesidad de la adquisición del medio de transporte.</p>
-<p class="cuerpo_tabla_izq">– Los medios de transporte se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación.</p>
+<td>A.xi.3 Medios de transporte que faciliten el acceso al trabajo</td>
+<td>
+<p>– Solo serán subvencionables los siguientes medios de transporte en el marco de la OP: vehículos colectivos para el transporte de trabajadores a las explotaciones.</p>
+<p>– La titular de los vehículos será la organización de productores y éstos deberán llevar el nombre y el anagrama de dicha organización de productores grabado en el exterior.</p>
+<p>– Los medios de transporte deberán estar dimensionados según su finalidad concreta.</p>
+<p>– Deberá justificarse la necesidad de la adquisición del medio de transporte.</p>
+<p>– Los medios de transporte se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.4 Acondicionamiento de maquinaria e instalaciones para limitar riesgos laborales</td>
-<td class="cuerpo_tabla_izq">Será subvencionables los costes que sean superiores a los requisitos obligatorios</td>
+<td>A.xi.4 Acondicionamiento de maquinaria e instalaciones para limitar riesgos laborales</td>
+<td>Será subvencionables los costes que sean superiores a los requisitos obligatorios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.5 Instalaciones de evacuación</td>
-<td class="cuerpo_tabla_izq">Será subvencionables los costes que sean superiores a los requisitos obligatorios</td>
+<td>A.xi.5 Instalaciones de evacuación</td>
+<td>Será subvencionables los costes que sean superiores a los requisitos obligatorios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.6 Instalaciones de primeros auxilios</td>
-<td class="cuerpo_tabla_izq">Será subvencionables los costes que sean superiores a los requisitos obligatorios</td>
+<td>A.xi.6 Instalaciones de primeros auxilios</td>
+<td>Será subvencionables los costes que sean superiores a los requisitos obligatorios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.7 Vestuarios y zonas de descanso o avituallamiento de los trabajadores o adaptación de los mismos situados en las op o en las explotaciones de los miembros productores.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.xi.7 Vestuarios y zonas de descanso o avituallamiento de los trabajadores o adaptación de los mismos situados en las op o en las explotaciones de los miembros productores.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.8 Pantallas y otras barreras que permitan separación entre trabajadores y eviten la transmisión de enfermedades</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.xi.8 Pantallas y otras barreras que permitan separación entre trabajadores y eviten la transmisión de enfermedades</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A.xi.9 Establecimiento de mecanismos de información a los trabajadores (pantallas, sistemas de comunicación, etc.)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A.xi.9 Establecimiento de mecanismos de información a los trabajadores (pantallas, sistemas de comunicación, etc.)</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_girada_condensada">
+<table>
 <caption>
-<p class="centro_redonda">Tipo de intervención 1.b) Servicios de asesoramiento y asistencia técnica, en particular en lo relativo a técnicas sostenibles de control de plagas y enfermedades, el uso sostenible de productos fitosanitarios y de salud animal, la adaptación al cambio climático y su mitigación, las condiciones de trabajo, las obligaciones de los empleadores y en materia de salud y seguridad en el trabajo</p>
+<p>Tipo de intervención 1.b) Servicios de asesoramiento y asistencia técnica, en particular en lo relativo a técnicas sostenibles de control de plagas y enfermedades, el uso sostenible de productos fitosanitarios y de salud animal, la adaptación al cambio climático y su mitigación, las condiciones de trabajo, las obligaciones de los empleadores y en materia de salud y seguridad en el trabajo</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Condiciones de subvencionalidad</th>
+<th>Descripción</th>
+<th>Condiciones de subvencionalidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">B.1 Gastos de personal propio o externo.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.1 Gastos de personal propio o externo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.1.1 Gastos que contribuyan a la mejora o mantenimiento de la calidad.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">– Para justificar que el personal es cualificado se deberá aportar una descripción y justificación de la cualificación del puesto de trabajo o del trabajo a realizar. La justificación del coste se realizará mediante gastos reales.</p>
-<p class="cuerpo_tabla_izq">– El gasto correspondiente a las actuaciones de personal B.1.1, B.1.2 y F.4, estará limitado al 20 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite.</p>
+<td>B.1.1 Gastos que contribuyan a la mejora o mantenimiento de la calidad.</td>
+<td rowspan="2">
+<p>– Para justificar que el personal es cualificado se deberá aportar una descripción y justificación de la cualificación del puesto de trabajo o del trabajo a realizar. La justificación del coste se realizará mediante gastos reales.</p>
+<p>– El gasto correspondiente a las actuaciones de personal B.1.1, B.1.2 y F.4, estará limitado al 20 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.1.2 Gastos que contribuyan a la mejora o mantenimiento del medio ambiente.</td>
+<td>B.1.2 Gastos que contribuyan a la mejora o mantenimiento del medio ambiente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.2 Servicios de asesoría en producción ecológica.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.2 Servicios de asesoría en producción ecológica.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.3 Servicios de asesoría en producción integrada</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.3 Servicios de asesoría en producción integrada</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.4 Servicios de asesoría en calidad</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.4 Servicios de asesoría en calidad</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.5 Servicios de asesoramiento y asistencia técnica en técnicas sostenibles de control de plagas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.5 Servicios de asesoramiento y asistencia técnica en técnicas sostenibles de control de plagas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.6 Servicios de asesoramiento y asistencia técnica uso sostenible de productos fitosanitarios</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.6 Servicios de asesoramiento y asistencia técnica uso sostenible de productos fitosanitarios</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.7 Servicios de asesoramiento y asistencia técnica adaptación al cambio climático y su mitigación</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.7 Servicios de asesoramiento y asistencia técnica adaptación al cambio climático y su mitigación</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.8 Servicios de asesoramiento y asistencia técnica sobre condiciones de trabajo, las obligaciones de los empleadores y en materia de salud y seguridad en el trabajo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.8 Servicios de asesoramiento y asistencia técnica sobre condiciones de trabajo, las obligaciones de los empleadores y en materia de salud y seguridad en el trabajo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.9 Asesoría en aspectos medioambientales incluidos el asesoramiento en economía circular. Estudios ciclo de vida. Implantación y certificaciones de sostenibilidad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.9 Asesoría en aspectos medioambientales incluidos el asesoramiento en economía circular. Estudios ciclo de vida. Implantación y certificaciones de sostenibilidad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.10 Asistencia técnica para llevar a cabo acciones medioambientales</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.10 Asistencia técnica para llevar a cabo acciones medioambientales</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.11 Análisis, asesoría y auditoría para llevar a cabo acciones medioambientales</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.11 Análisis, asesoría y auditoría para llevar a cabo acciones medioambientales</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.12 Evaluación de riesgos en el trabajo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.12 Evaluación de riesgos en el trabajo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.13 Formación a los trabajadores sobre condiciones de trabajo y seguridad y salud</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.13 Formación a los trabajadores sobre condiciones de trabajo y seguridad y salud</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.14 Asistencia técnica para evaluar sobre las condiciones laborales, así como sobre la salud y seguridad en el trabajo</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.14 Asistencia técnica para evaluar sobre las condiciones laborales, así como sobre la salud y seguridad en el trabajo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.15 Asesoría en otros aspectos propios del Programa operativo distintas de los anteriores</td>
-<td class="cuerpo_tabla_izq">– No serán subvencionables los gastos administrativos relacionados con la elaboración del programa operativo.</td>
+<td>B.15 Asesoría en otros aspectos propios del Programa operativo distintas de los anteriores</td>
+<td>– No serán subvencionables los gastos administrativos relacionados con la elaboración del programa operativo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.16 Sistemas de apoyo para la toma de decisiones sobre el manejo integrado de plagas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.16 Sistemas de apoyo para la toma de decisiones sobre el manejo integrado de plagas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.17 Refuerzo del asesoramiento: contratación de técnicos para tutorización, seguimiento y asesoramiento agronómico.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B.17 Refuerzo del asesoramiento: contratación de técnicos para tutorización, seguimiento y asesoramiento agronómico.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Otros</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2214,164 +2180,156 @@ No obstante, exclusivamente en el sector de la fruta de hueso, de manera motivad
 | D.4 Utilización de métodos de lucha biológica y/o biotecnológica, alternativos a los convencionales, utilizados en producción integrada, en cultivos hortofrutícolas |  |
 | Otros |  |
 
-<table class="tabla_girada_condensada">
+<table>
 <caption>
-<p class="centro_redonda">Tipo de intervención 1.e) Acciones para aumentar la sostenibilidad y la eficiencia del transporte y el almacenamiento de productos</p>
+<p>Tipo de intervención 1.e) Acciones para aumentar la sostenibilidad y la eficiencia del transporte y el almacenamiento de productos</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Condiciones de subvencionalidad</th>
+<th>Descripción</th>
+<th>Condiciones de subvencionalidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">E.1 Costes adicionales por la utilización del ferrocarril o del transporte marítimo, frente al transporte por carretera.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>E.1 Costes adicionales por la utilización del ferrocarril o del transporte marítimo, frente al transporte por carretera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E.2 Cadena de frío y conservación del producto mediante frío y otras formas de conservación:</td>
-<td class="cuerpo_tabla_izq">Técnicas de prolongación de la vida de frutas y hortalizas.</td>
+<td>E.2 Cadena de frío y conservación del producto mediante frío y otras formas de conservación:</td>
+<td>Técnicas de prolongación de la vida de frutas y hortalizas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Técnicas de prolongación de la vida de frutas y hortalizas.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">No son elegibles los gastos relacionados con el mantenimiento y conservación de consumibles ni los gastos de entrada y salida de producto en las cámaras frigoríficas (gastos de funcionamiento).</td>
+<td>– Técnicas de prolongación de la vida de frutas y hortalizas.</td>
+<td rowspan="2">No son elegibles los gastos relacionados con el mantenimiento y conservación de consumibles ni los gastos de entrada y salida de producto en las cámaras frigoríficas (gastos de funcionamiento).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Fitorreguladores (1-Metilciclopropeno), catalizador de etileno, retardador, kit de conservación para frutas, a base de SO2 (anhídrido sulfuroso), y otros activos de acción similar.</td>
+<td>– Fitorreguladores (1-Metilciclopropeno), catalizador de etileno, retardador, kit de conservación para frutas, a base de SO2 (anhídrido sulfuroso), y otros activos de acción similar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E.3 Vehículos eléctricos o híbridos o que utilicen energía renovable mencionados en la actuación A.2.2.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Los mismos que los exigidos para la actuación A.2.2.</p>
-<p class="cuerpo_tabla_izq">– En caso de vehículos eléctricos serán subvencionables los puntos de recarga requeridos por éstos, en las instalaciones de la organización de productores.</p>
+<td>E.3 Vehículos eléctricos o híbridos o que utilicen energía renovable mencionados en la actuación A.2.2.</td>
+<td>
+<p>– Los mismos que los exigidos para la actuación A.2.2.</p>
+<p>– En caso de vehículos eléctricos serán subvencionables los puntos de recarga requeridos por éstos, en las instalaciones de la organización de productores.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E.4 Accesorios para medios de transporte frigorífico o en atmósfera controlada (equipo de atmósfera controlada, equipo de control de temperatura)</td>
-<td class="cuerpo_tabla_izq">No se podrá incluir la cabina tractora ni ningún otro elemento que no sea específico de frío o atmósfera controlada</td>
+<td>E.4 Accesorios para medios de transporte frigorífico o en atmósfera controlada (equipo de atmósfera controlada, equipo de control de temperatura)</td>
+<td>No se podrá incluir la cabina tractora ni ningún otro elemento que no sea específico de frío o atmósfera controlada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E.5 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>E.5 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E.6 Gastos derivados de transporte de residuos a plantas de tratamiento para fomentar la economía circular mediante la utilización de residuos para elaboración de productos comercializables</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>E.6 Gastos derivados de transporte de residuos a plantas de tratamiento para fomentar la economía circular mediante la utilización de residuos para elaboración de productos comercializables</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E.7 Sistemas de ahorro energético en almacén (aislamiento térmico, sistemas de control de temperatura, ahorro lumínico, etc.)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>E.7 Sistemas de ahorro energético en almacén (aislamiento térmico, sistemas de control de temperatura, ahorro lumínico, etc.)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Otros</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_girada_condensada">
+<table>
 <caption>
-<p class="centro_redonda">Tipo de intervención 1.f) Promoción, comunicación y comercialización, incluidas acciones y actividades destinadas, en particular, a concienciar a los consumidores sobre los regímenes de calidad de la Unión y la importancia de dietas saludables, y sobre la diversificación y consolidación de los mercados</p>
+<p>Tipo de intervención 1.f) Promoción, comunicación y comercialización, incluidas acciones y actividades destinadas, en particular, a concienciar a los consumidores sobre los regímenes de calidad de la Unión y la importancia de dietas saludables, y sobre la diversificación y consolidación de los mercados</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Condiciones de subvencionalidad</th>
+<th>Descripción</th>
+<th>Condiciones de subvencionalidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">F.1 Campañas de promoción y comunicación para concienciar a los consumidores sobre los regímenes de calidad de la Unión</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>F.1 Campañas de promoción y comunicación para concienciar a los consumidores sobre los regímenes de calidad de la Unión</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F.2 Campañas de promoción y comunicación para concienciar a los consumidores sobre y la importancia de dietas saludables</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>F.2 Campañas de promoción y comunicación para concienciar a los consumidores sobre y la importancia de dietas saludables</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F.3 Promoción comercial</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>F.3 Promoción comercial</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">F.3.1 Promoción genérica, de marcas de la OP, de la AOP o filiales y de etiquetas de calidad mediante, entre otros:</p>
-<p class="cuerpo_tabla_izq">– Creación de sitios de Internet, así como sus modificaciones y actualizaciones.</p>
-<p class="cuerpo_tabla_izq">– Publicidad específica en los envases finales que llegan al consumidor o envases que llegan al punto de venta directa al consumidor: pegatinas o sobrecoste de la impresión en el envase.</p>
-<p class="cuerpo_tabla_izq">– Publicidad en las piezas de fruta: pegatinas.</p>
-<p class="cuerpo_tabla_izq">– Publicidad en vallas, <em>posters</em>, toldos.</p>
-<p class="cuerpo_tabla_izq">– Publicidad en medios de comunicación.</p>
-<p class="cuerpo_tabla_izq">– Iniciativas pedagógicas destinadas a los niños y adolescentes en los centros de enseñanza.</p>
-<p class="cuerpo_tabla_izq">– Iniciativas de información a los consumidores en los lugares de venta.</p>
-<p class="cuerpo_tabla_izq">– Folletos con información sobre los productos y recetas, pasatiempos infantiles, etc.</p>
-<p class="cuerpo_tabla_izq">– Material de concursos (premios, folletos) que promuevan el consumo de frutas y hortalizas.</p>
-<p class="cuerpo_tabla_izq">– <em>Merchandising</em>.</p>
+<td>
+<p>F.3.1 Promoción genérica, de marcas de la OP, de la AOP o filiales y de etiquetas de calidad mediante, entre otros:</p>
+<p>– Creación de sitios de Internet, así como sus modificaciones y actualizaciones.</p>
+<p>– Publicidad específica en los envases finales que llegan al consumidor o envases que llegan al punto de venta directa al consumidor: pegatinas o sobrecoste de la impresión en el envase.</p>
+<p>– Publicidad en las piezas de fruta: pegatinas.</p>
+<p>– Publicidad en vallas, <em>posters</em>, toldos.</p>
+<p>– Publicidad en medios de comunicación.</p>
+<p>– Iniciativas pedagógicas destinadas a los niños y adolescentes en los centros de enseñanza.</p>
+<p>– Iniciativas de información a los consumidores en los lugares de venta.</p>
+<p>– Folletos con información sobre los productos y recetas, pasatiempos infantiles, etc.</p>
+<p>– Material de concursos (premios, folletos) que promuevan el consumo de frutas y hortalizas.</p>
+<p>– <em>Merchandising</em>.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">– Se deberá respetar lo establecido en el artículo 14 del Reglamento Delegado (UE) número 2022/126 de la Comisión, de 7 de diciembre de 2021.</p>
-<p class="cuerpo_tabla_izq">– No se podrán incluir inversiones o conceptos de gasto que reciban subvención a través de otras vías.</p>
-<p class="cuerpo_tabla_izq">– Se deberá presentar un plan de promoción que recoja al menos los objetivos del plan, las actuaciones que se van a realizar y, en su caso, la sinergia entre ellas, los destinatarios del plan y los principales mensajes a transmitir.</p>
-<p class="cuerpo_tabla_izq">– Sólo serán elegibles premios relacionados con la actividad de frutas y hortalizas (por ejemplo, una cesta de frutas, material para cocinar estos productos, libros relacionados…).</p>
-<p class="cuerpo_tabla_izq">– En el caso concreto de la participación en ferias, en caso de que ya se reciba subvención por otra vía para alguno de las inversiones o conceptos de gasto de una determinada feria, no se podrán incluir los otros en el marco de los PO.</p>
-<p class="cuerpo_tabla_izq">– La asistencia de personal de la OP/AOP a ferias estará limitada al personal comercial contratado por la entidad para actividades comerciales.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">F.3.2 Participación en ferias relacionadas con la actividad de frutas y hortalizas:</p>
-<p class="cuerpo_tabla_izq">– Coste de los stands (alquiler del suelo, alquiler de carpa, diseño, montaje, elementos), azafatas y otro personal del stand, actividades de animación, etc.</p>
-<p class="cuerpo_tabla_izq">– Asistencia de personal propio o externo, incluidos gastos de desplazamiento de la OP/AOP.</p>
+<td rowspan="3">
+<p>– Se deberá respetar lo establecido en el artículo 14 del Reglamento Delegado (UE) número 2022/126 de la Comisión, de 7 de diciembre de 2021.</p>
+<p>– No se podrán incluir inversiones o conceptos de gasto que reciban subvención a través de otras vías.</p>
+<p>– Se deberá presentar un plan de promoción que recoja al menos los objetivos del plan, las actuaciones que se van a realizar y, en su caso, la sinergia entre ellas, los destinatarios del plan y los principales mensajes a transmitir.</p>
+<p>– Sólo serán elegibles premios relacionados con la actividad de frutas y hortalizas (por ejemplo, una cesta de frutas, material para cocinar estos productos, libros relacionados…).</p>
+<p>– En el caso concreto de la participación en ferias, en caso de que ya se reciba subvención por otra vía para alguno de las inversiones o conceptos de gasto de una determinada feria, no se podrán incluir los otros en el marco de los PO.</p>
+<p>– La asistencia de personal de la OP/AOP a ferias estará limitada al personal comercial contratado por la entidad para actividades comerciales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">F.3.3 Otros:</p>
-<p class="cuerpo_tabla_izq">– Coste del producto utilizado en demostraciones y actos promocionales.</p>
-<p class="cuerpo_tabla_izq">– Aportaciones para llevar a cabo operaciones de promoción, no financiadas con ayudas públicas, conjuntamente con otras OP.</p>
-<p class="cuerpo_tabla_izq">– Promoción conjunta en la que participen varias OP.</p>
+<td>
+<p>F.3.2 Participación en ferias relacionadas con la actividad de frutas y hortalizas:</p>
+<p>– Coste de los stands (alquiler del suelo, alquiler de carpa, diseño, montaje, elementos), azafatas y otro personal del stand, actividades de animación, etc.</p>
+<p>– Asistencia de personal propio o externo, incluidos gastos de desplazamiento de la OP/AOP.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">F.4 Personal propio o externo cualificado para la mejora del nivel de comercialización.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Personal: para justificar que el personal es cualificado se deberá aportar una descripción y justificación de la cualificación del puesto de trabajo o del trabajo a realizar. Sólo se subvencionará personal adicional al ya contratado, o personal que aun estando contratado con anterioridad y disponiendo de la cualificación requerida, realice una nueva actividad (control del momento óptimo de la recolección en términos de grados brix y consistencia, optimización del almacenamiento o variedades más adecuadas entre otros), comercialización de nuevos productos, nuevas líneas o en nuevos mercados. La justificación del coste se realizará mediante gastos reales.</p>
-<p class="cuerpo_tabla_izq">– El gasto correspondiente a las actuaciones de personal B.1 y F.4, estará limitado al 20 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite.</p>
+<td>
+<p>F.3.3 Otros:</p>
+<p>– Coste del producto utilizado en demostraciones y actos promocionales.</p>
+<p>– Aportaciones para llevar a cabo operaciones de promoción, no financiadas con ayudas públicas, conjuntamente con otras OP.</p>
+<p>– Promoción conjunta en la que participen varias OP.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">F.5 Apertura de oficinas comerciales en el exterior.</p>
-<p class="cuerpo_tabla_izq">– Adquisición/construcción de la obra civil</p>
-<p class="cuerpo_tabla_izq">– Instalaciones y equipamiento.</p>
-<p class="cuerpo_tabla_izq">– Personal</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– En lo que se refiere tanto a la obra civil como a la maquinaria, instalaciones y equipos de las oficinas comerciales en el exterior, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por un técnico competente.</p>
-<p class="cuerpo_tabla_izq">– La organización de productores deberá presentar en el momento de la solicitud de la ayuda total o saldo documentación justificativa de los trabajos comerciales realizados.</p>
+<td rowspan="2">F.4 Personal propio o externo cualificado para la mejora del nivel de comercialización.</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>– Personal: para justificar que el personal es cualificado se deberá aportar una descripción y justificación de la cualificación del puesto de trabajo o del trabajo a realizar. Sólo se subvencionará personal adicional al ya contratado, o personal que aun estando contratado con anterioridad y disponiendo de la cualificación requerida, realice una nueva actividad (control del momento óptimo de la recolección en términos de grados brix y consistencia, optimización del almacenamiento o variedades más adecuadas entre otros), comercialización de nuevos productos, nuevas líneas o en nuevos mercados. La justificación del coste se realizará mediante gastos reales.</p>
+<p>– El gasto correspondiente a las actuaciones de personal B.1 y F.4, estará limitado al 20 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F.6 Diseño canal venta online. Plan de marketing. Diseño, desarrollo y promoción del canal de venta online. Diseño web, diseño gráfico, sesión de fotografía, desarrollo de textos, mantenimiento de tienda online, comunicación y promoción para su difusión. Formación para personal relacionado con la gestión de la tienda online y su mantenimiento</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>
+<p>F.5 Apertura de oficinas comerciales en el exterior.</p>
+<p>– Adquisición/construcción de la obra civil</p>
+<p>– Instalaciones y equipamiento.</p>
+<p>– Personal</p>
+</td>
+<td>
+<p>– En lo que se refiere tanto a la obra civil como a la maquinaria, instalaciones y equipos de las oficinas comerciales en el exterior, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por un técnico competente.</p>
+<p>– La organización de productores deberá presentar en el momento de la solicitud de la ayuda total o saldo documentación justificativa de los trabajos comerciales realizados.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F.7 Realización de estudios de mercado y programación de la producción.</td>
-<td class="cuerpo_tabla_izq">Se incluirán estudios relativos al momento óptimo de recolección, variedades más adecuadas o periodo de almacenamiento, entre otros factores, en función del destino, así como otro tipo de estudios de mercado.</td>
+<td>F.6 Diseño canal venta online. Plan de marketing. Diseño, desarrollo y promoción del canal de venta online. Diseño web, diseño gráfico, sesión de fotografía, desarrollo de textos, mantenimiento de tienda online, comunicación y promoción para su difusión. Formación para personal relacionado con la gestión de la tienda online y su mantenimiento</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>F.7 Realización de estudios de mercado y programación de la producción.</td>
+<td>Se incluirán estudios relativos al momento óptimo de recolección, variedades más adecuadas o periodo de almacenamiento, entre otros factores, en función del destino, así como otro tipo de estudios de mercado.</td>
+</tr>
+<tr>
+<td>Otros</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2394,70 +2352,66 @@ No obstante, exclusivamente en el sector de la fruta de hueso, de manera motivad
 | • Plataforma virtual para el control de la trazabilidad. |  |
 | Otros |  |
 
-<table class="tabla_girada_condensada">
+<table>
 <caption>
-<p class="centro_redonda">Tipo de intervención 1.i) Acciones para mitigar el cambio climático y adaptarse a él</p>
+<p>Tipo de intervención 1.i) Acciones para mitigar el cambio climático y adaptarse a él</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Condiciones de subvencionalidad</th>
+<th>Descripción</th>
+<th>Condiciones de subvencionalidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">I.1 Creación de sumideros de carbono mediante el establecimiento de: formaciones vegetales que actúen como sumideros, entre otras forestación, reforestación, gestión del suelo de manera que incremente su contenido en carbono, etc.</td>
-<td class="cuerpo_tabla_izq">Aportación de un documento técnico donde se especifiquen las especies que se van a utilizar en las repoblaciones, así como la adaptación de sus sistemas de gestión, teniendo en cuenta los cambios previsibles en los recursos hídricos, las temperaturas, la duración y agresividad de plagas y enfermedades, etc.</td>
+<td>I.1 Creación de sumideros de carbono mediante el establecimiento de: formaciones vegetales que actúen como sumideros, entre otras forestación, reforestación, gestión del suelo de manera que incremente su contenido en carbono, etc.</td>
+<td>Aportación de un documento técnico donde se especifiquen las especies que se van a utilizar en las repoblaciones, así como la adaptación de sus sistemas de gestión, teniendo en cuenta los cambios previsibles en los recursos hídricos, las temperaturas, la duración y agresividad de plagas y enfermedades, etc.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.2 Ecodiseño de edificios, procesos, etc (coste de diseños innovadores de instalaciones, procesos, etc, que contribuyan a mitigación o adaptación del cambio climático.</td>
-<td class="cuerpo_tabla_izq">Se deberá presentar un certificado de una empresa o institución que pueda acreditar que los sistemas implantados contribuyen a los fines propuestos.</td>
+<td>I.2 Ecodiseño de edificios, procesos, etc (coste de diseños innovadores de instalaciones, procesos, etc, que contribuyan a mitigación o adaptación del cambio climático.</td>
+<td>Se deberá presentar un certificado de una empresa o institución que pueda acreditar que los sistemas implantados contribuyen a los fines propuestos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.3 Mejora de la eficiencia energética de invernaderos</td>
-<td class="cuerpo_tabla_izq">Certificado de eficiencia energética en situación de partida y una vez ejecutada la inversión.</td>
+<td>I.3 Mejora de la eficiencia energética de invernaderos</td>
+<td>Certificado de eficiencia energética en situación de partida y una vez ejecutada la inversión.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.4 Utilización de medios de producción, transformación o acondicionamiento que utilicen materiales que contribuyan a la mitigación del cambio climático</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>I.4 Utilización de medios de producción, transformación o acondicionamiento que utilicen materiales que contribuyan a la mitigación del cambio climático</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.5 Adquisición de maquinaria de envasado que en lugar de utilizar plástico, emplee nuevos materiales que están progresivamente substituyéndolos, como pueden ser aquellos procedentes de fécula de patata, maíz, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>I.5 Adquisición de maquinaria de envasado que en lugar de utilizar plástico, emplee nuevos materiales que están progresivamente substituyéndolos, como pueden ser aquellos procedentes de fécula de patata, maíz, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.6 Utilización de productos ecológicos y/o biodegradables en el procedimiento de acondicionamiento y conservación de las frutas y hortalizas (ceras naturales, por ejemplo)</td>
-<td class="cuerpo_tabla_izq">Se tendrá en cuenta los gastos adicionales</td>
+<td>I.6 Utilización de productos ecológicos y/o biodegradables en el procedimiento de acondicionamiento y conservación de las frutas y hortalizas (ceras naturales, por ejemplo)</td>
+<td>Se tendrá en cuenta los gastos adicionales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.7 Utilización de variedades adaptadas a las consecuencias del cambio climático (plantones, reinjertos y nuevas plantaciones)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>I.7 Utilización de variedades adaptadas a las consecuencias del cambio climático (plantones, reinjertos y nuevas plantaciones)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.8 Certificación de la huella de carbono</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Sólo serán subvencionables los certificados expedidos por una entidad acreditada.</td>
+<td>I.8 Certificación de la huella de carbono</td>
+<td rowspan="3">Sólo serán subvencionables los certificados expedidos por una entidad acreditada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.9 Certificación de la huella hídrica</td>
+<td>I.9 Certificación de la huella hídrica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.10 Certificación de la huella de nitrógeno y nitratos</td>
+<td>I.10 Certificación de la huella de nitrógeno y nitratos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.11 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>I.11 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">I.12 <strong>(Suprimido)</strong></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>I.12 <strong>(Suprimido)</strong></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Otros</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2676,12 +2630,6 @@ C) En el caso de que el valor de un producto haya experimentado una reducción p
 
 D)**(Derogada)**
 
-> Téngase en cuenta que la derogación de la letra D) de la parte II, establecida por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre, [Ref. BOE-A-2025-20583](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20583), produce efectos desde el 1 de enero de 2026.
-
-> Redacción anterior:
-
-> "D) Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto para las ayudas medioambientales que complementen los eco-regímenes."
-
 E) La documentación específica que requiera cada acción, actuación, inversión y concepto de gasto.
 
 F) Certificado en el que figure el acuerdo adoptado por la asamblea general de la entidad, o por el órgano equivalente de la sección si dicha entidad está organizada en secciones, o por el órgano equivalente según la personalidad jurídica de la organización de productores, para obtener el reembolso de las inversiones o valor residual de las inversiones en caso de que el/los miembro/s cause/n baja en la organización.
@@ -2706,262 +2654,256 @@ H) Declaración responsable relativa a la información mencionada en el segundo 
 
 Parte A) Recolección normal
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="40%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Producto</th>
-<th class="cabeza_tabla" colspan="3">Compensación (€/ha)</th>
+<th rowspan="2">Producto</th>
+<th colspan="3">Compensación (€/ha)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Secano</th>
-<th class="cabeza_tabla">Regadío al aire libre</th>
-<th class="cabeza_tabla">Regadío protegido</th>
+<th>Secano</th>
+<th>Regadío al aire libre</th>
+<th>Regadío protegido</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Productos del anexo V del Reglamento Delegado número 2022/126</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coliflor.</td>
-<td class="cuerpo_tabla_centro">2.098</td>
-<td class="cuerpo_tabla_centro">3.080</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Coliflor.</td>
+<td>2.098</td>
+<td>3.080</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manzana.</td>
-<td class="cuerpo_tabla_centro">1.408</td>
-<td class="cuerpo_tabla_centro">4.735</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Manzana.</td>
+<td>1.408</td>
+<td>4.735</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uva.</td>
-<td class="cuerpo_tabla_centro">1.004</td>
-<td class="cuerpo_tabla_centro">8.271</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Uva.</td>
+<td>1.004</td>
+<td>8.271</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Albaricoque.</td>
-<td class="cuerpo_tabla_centro">813</td>
-<td class="cuerpo_tabla_centro">3.147</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Albaricoque.</td>
+<td>813</td>
+<td>3.147</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nectarina.</td>
-<td class="cuerpo_tabla_centro">1.196</td>
-<td class="cuerpo_tabla_centro">4.705</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Nectarina.</td>
+<td>1.196</td>
+<td>4.705</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Melocotón.</td>
-<td class="cuerpo_tabla_centro">1.149</td>
-<td class="cuerpo_tabla_centro">4.890</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Melocotón.</td>
+<td>1.149</td>
+<td>4.890</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pera.</td>
-<td class="cuerpo_tabla_centro">1.600</td>
-<td class="cuerpo_tabla_centro">3.834</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Pera.</td>
+<td>1.600</td>
+<td>3.834</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sandía.</td>
-<td class="cuerpo_tabla_centro">566</td>
-<td class="cuerpo_tabla_centro">3.882</td>
-<td class="cuerpo_tabla_centro">3.599</td>
+<td>Sandía.</td>
+<td>566</td>
+<td>3.882</td>
+<td>3.599</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Naranjas.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4.891</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Naranjas.</td>
+<td>–</td>
+<td>4.891</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mandarinas.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4.067</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mandarinas.</td>
+<td>–</td>
+<td>4.067</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clementinas.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4.369</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Clementinas.</td>
+<td>–</td>
+<td>4.369</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Satsumas.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">3.986</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Satsumas.</td>
+<td>–</td>
+<td>3.986</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limones.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4.705</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Limones.</td>
+<td>–</td>
+<td>4.705</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Productos fuera del anexo V del Reglamento Delegado número 2022/126</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acelga.</td>
-<td class="cuerpo_tabla_centro">5.080</td>
-<td class="cuerpo_tabla_centro">8.082</td>
-<td class="cuerpo_tabla_centro">8.787</td>
+<td>Acelga.</td>
+<td>5.080</td>
+<td>8.082</td>
+<td>8.787</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguacate.</td>
-<td class="cuerpo_tabla_centro">2.755</td>
-<td class="cuerpo_tabla_centro">5.748</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Aguacate.</td>
+<td>2.755</td>
+<td>5.748</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ajo.</td>
-<td class="cuerpo_tabla_centro">1.764</td>
-<td class="cuerpo_tabla_centro">5.584</td>
-<td class="cuerpo_tabla_centro">6.486</td>
+<td>Ajo.</td>
+<td>1.764</td>
+<td>5.584</td>
+<td>6.486</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apio.</td>
-<td class="cuerpo_tabla_centro">526</td>
-<td class="cuerpo_tabla_centro">8.474</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Apio.</td>
+<td>526</td>
+<td>8.474</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brócoli.</td>
-<td class="cuerpo_tabla_centro">3.806</td>
-<td class="cuerpo_tabla_centro">5.231</td>
-<td class="cuerpo_tabla_centro">4.785</td>
+<td>Brócoli.</td>
+<td>3.806</td>
+<td>5.231</td>
+<td>4.785</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calabaza.</td>
-<td class="cuerpo_tabla_centro">939</td>
-<td class="cuerpo_tabla_centro">3.951</td>
-<td class="cuerpo_tabla_centro">6.448</td>
+<td>Calabaza.</td>
+<td>939</td>
+<td>3.951</td>
+<td>6.448</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caqui.</td>
-<td class="cuerpo_tabla_centro">596</td>
-<td class="cuerpo_tabla_centro">6.272</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Caqui.</td>
+<td>596</td>
+<td>6.272</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cebolla.</td>
-<td class="cuerpo_tabla_centro">1.416</td>
-<td class="cuerpo_tabla_centro">5.859</td>
-<td class="cuerpo_tabla_centro">3.876</td>
+<td>Cebolla.</td>
+<td>1.416</td>
+<td>5.859</td>
+<td>3.876</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cereza.</td>
-<td class="cuerpo_tabla_centro">2.129</td>
-<td class="cuerpo_tabla_centro">3.967</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cereza.</td>
+<td>2.129</td>
+<td>3.967</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Champiñón.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">1.763</td>
+<td>Champiñón.</td>
+<td>–</td>
+<td>–</td>
+<td>1.763</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciruela.</td>
-<td class="cuerpo_tabla_centro">817</td>
-<td class="cuerpo_tabla_centro">3.923</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Ciruela.</td>
+<td>817</td>
+<td>3.923</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escarola.</td>
-<td class="cuerpo_tabla_centro">3.797</td>
-<td class="cuerpo_tabla_centro">6.845</td>
-<td class="cuerpo_tabla_centro">8.073</td>
+<td>Escarola.</td>
+<td>3.797</td>
+<td>6.845</td>
+<td>8.073</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espinaca.</td>
-<td class="cuerpo_tabla_centro">4.694</td>
-<td class="cuerpo_tabla_centro">8.182</td>
-<td class="cuerpo_tabla_centro">4.932</td>
+<td>Espinaca.</td>
+<td>4.694</td>
+<td>8.182</td>
+<td>4.932</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_centro">860</td>
-<td class="cuerpo_tabla_centro">6.146</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Granada.</td>
+<td>860</td>
+<td>6.146</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Haba verde.</td>
-<td class="cuerpo_tabla_centro">1.734</td>
-<td class="cuerpo_tabla_centro">4.188</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Haba verde.</td>
+<td>1.734</td>
+<td>4.188</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Híbridos de pequeños cítricos.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">6.655</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Híbridos de pequeños cítricos.</td>
+<td>–</td>
+<td>6.655</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Higo fresco.</td>
-<td class="cuerpo_tabla_centro">1.625</td>
-<td class="cuerpo_tabla_centro">3.624</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Higo fresco.</td>
+<td>1.625</td>
+<td>3.624</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Kiwi.</td>
-<td class="cuerpo_tabla_centro">3.691</td>
-<td class="cuerpo_tabla_centro">4.919</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Kiwi.</td>
+<td>3.691</td>
+<td>4.919</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lechuga.</td>
-<td class="cuerpo_tabla_centro">3.264</td>
-<td class="cuerpo_tabla_centro">6.606</td>
-<td class="cuerpo_tabla_centro">6.832</td>
+<td>Lechuga.</td>
+<td>3.264</td>
+<td>6.606</td>
+<td>6.832</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nabo, nabicol, chirivía.</td>
-<td class="cuerpo_tabla_centro">1.463</td>
-<td class="cuerpo_tabla_centro">2.806</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Nabo, nabicol, chirivía.</td>
+<td>1.463</td>
+<td>2.806</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Níspero.</td>
-<td class="cuerpo_tabla_centro">765</td>
-<td class="cuerpo_tabla_centro">7.975</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Níspero.</td>
+<td>765</td>
+<td>7.975</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Paraguaya, platerina y melocotón plano.</td>
-<td class="cuerpo_tabla_centro">2.111</td>
-<td class="cuerpo_tabla_centro">8.145</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Paraguaya, platerina y melocotón plano.</td>
+<td>2.111</td>
+<td>8.145</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Puerro.</td>
-<td class="cuerpo_tabla_centro">2.831</td>
-<td class="cuerpo_tabla_centro">8.984</td>
-<td class="cuerpo_tabla_centro">5.068</td>
+<td>Puerro.</td>
+<td>2.831</td>
+<td>8.984</td>
+<td>5.068</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Repollo, col.</td>
-<td class="cuerpo_tabla_centro">7.899</td>
-<td class="cuerpo_tabla_centro">7.393</td>
-<td class="cuerpo_tabla_centro">5.067</td>
+<td>Repollo, col.</td>
+<td>7.899</td>
+<td>7.393</td>
+<td>5.067</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zanahoria.</td>
-<td class="cuerpo_tabla_centro">730</td>
-<td class="cuerpo_tabla_centro">8.758</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zanahoria.</td>
+<td>730</td>
+<td>8.758</td>
+<td>–</td>
 </tr>
 </tbody>
 </table>
@@ -2970,881 +2912,863 @@ Parte B) Recolección parcial
 
 En caso de realización de recolección parcial, por aplicación de la letra e) del apartado 8 del artículo 17 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, los productos y el porcentaje de recolección semanal, a efectos del cumplimiento del periodo máximo de seis semanas, serán:
 
-<table class="tabla_girada">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 1. Porcentaje de recolección semanal</p>
+<p>Tabla 1. Porcentaje de recolección semanal</p>
 </caption>
-<colgroup>
-<col width="9%">
-<col width="8%">
-<col width="8%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="6%">
-<col width="9%">
-<col width="6%">
-<col width="6%">
-<col width="7%">
-<col width="6%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Semanas después</p>
-<p class="cabeza_tabla">de la plantación*</p>
+<th>
+<p>Semanas después</p>
+<p>de la plantación*</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tomate</p>
-<p class="cabeza_tabla">Ciclo Corto **</p>
+<th>
+<p>Tomate</p>
+<p>Ciclo Corto **</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tomate</p>
-<p class="cabeza_tabla">Ciclo Largo **</p>
+<th>
+<p>Tomate</p>
+<p>Ciclo Largo **</p>
 </th>
-<th class="cabeza_tabla">Berenjena</th>
-<th class="cabeza_tabla">Pepino</th>
-<th class="cabeza_tabla">Calabacín</th>
-<th class="cabeza_tabla">Pimiento</th>
-<th class="cabeza_tabla">Espárrago</th>
-<th class="cabeza_tabla">Alcachofa</th>
-<th class="cabeza_tabla">Fresa</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Judía verde</p>
-<p class="cabeza_tabla">ciclo otoño</p>
+<th>Berenjena</th>
+<th>Pepino</th>
+<th>Calabacín</th>
+<th>Pimiento</th>
+<th>Espárrago</th>
+<th>Alcachofa</th>
+<th>Fresa</th>
+<th>
+<p>Judía verde</p>
+<p>ciclo otoño</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Judía verde</p>
-<p class="cabeza_tabla">ciclo primavera</p>
+<th>
+<p>Judía verde</p>
+<p>ciclo primavera</p>
 </th>
-<th class="cabeza_tabla">Melón</th>
-<th class="cabeza_tabla">Arándano ***</th>
-<th class="cabeza_tabla">Frambuesa ***</th>
-<th class="cabeza_tabla">Mora ***</th>
+<th>Melón</th>
+<th>Arándano ***</th>
+<th>Frambuesa ***</th>
+<th>Mora ***</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,02</td>
-<td class="cuerpo_tabla_coma">0,001</td>
-<td class="cuerpo_tabla_coma">0,16</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,02</td>
+<td>0,001</td>
+<td>0,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,03</td>
-<td class="cuerpo_tabla_coma">0,01</td>
-<td class="cuerpo_tabla_coma">0,43</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,03</td>
+<td>0,01</td>
+<td>0,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,05</td>
-<td class="cuerpo_tabla_coma">0,11</td>
-<td class="cuerpo_tabla_coma">0,49</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,05</td>
+<td>0,11</td>
+<td>0,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,12</td>
-<td class="cuerpo_tabla_coma">0,14</td>
-<td class="cuerpo_tabla_coma">0,41</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,12</td>
+<td>0,14</td>
+<td>0,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,17</td>
-<td class="cuerpo_tabla_coma">0,26</td>
-<td class="cuerpo_tabla_coma">0,46</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>1,25</td>
+<td>1,25</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,17</td>
+<td>0,26</td>
+<td>0,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,62</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,29</td>
-<td class="cuerpo_tabla_coma">0,35</td>
-<td class="cuerpo_tabla_coma">0,55</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>1,62</td>
+<td>1,25</td>
+<td>1,25</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,29</td>
+<td>0,35</td>
+<td>0,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,44</td>
-<td class="cuerpo_tabla_coma">0,69</td>
-<td class="cuerpo_tabla_coma">0,73</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>2,3</td>
+<td>1,25</td>
+<td>1,25</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,44</td>
+<td>0,69</td>
+<td>0,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">2,31</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,55</td>
-<td class="cuerpo_tabla_coma">1,01</td>
-<td class="cuerpo_tabla_coma">0,77</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>2,31</td>
+<td>1,25</td>
+<td>1,25</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>8,3</td>
+<td>7</td>
+<td>0</td>
+<td>0,55</td>
+<td>1,01</td>
+<td>0,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">2,31</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,1</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,77</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,01</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>2,31</td>
+<td>5</td>
+<td>3,75</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0,1</td>
+<td>8,3</td>
+<td>7</td>
+<td>0</td>
+<td>0,77</td>
+<td>1,50</td>
+<td>1,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3,84</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,96</td>
-<td class="cuerpo_tabla_coma">2,49</td>
-<td class="cuerpo_tabla_coma">1,30</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>3,84</td>
+<td>5</td>
+<td>3,75</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0,5</td>
+<td>8,3</td>
+<td>7</td>
+<td>0</td>
+<td>0,96</td>
+<td>2,49</td>
+<td>1,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3,85</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,15</td>
-<td class="cuerpo_tabla_coma">3,40</td>
-<td class="cuerpo_tabla_coma">1,42</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>3,85</td>
+<td>5</td>
+<td>3,75</td>
+<td>0</td>
+<td>1,5</td>
+<td>0</td>
+<td>0,85</td>
+<td>8,3</td>
+<td>7</td>
+<td>0</td>
+<td>1,15</td>
+<td>3,40</td>
+<td>1,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3,85</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1,35</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,32</td>
-<td class="cuerpo_tabla_coma">4,60</td>
-<td class="cuerpo_tabla_coma">1,62</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>3,85</td>
+<td>5</td>
+<td>3,75</td>
+<td>0</td>
+<td>1,5</td>
+<td>1</td>
+<td>1,35</td>
+<td>8,3</td>
+<td>7</td>
+<td>0</td>
+<td>1,32</td>
+<td>4,60</td>
+<td>1,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3,84</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">1,45</td>
-<td class="cuerpo_tabla_coma">5,77</td>
-<td class="cuerpo_tabla_coma">1,61</td>
+<td>13</td>
+<td>7,5</td>
+<td>0</td>
+<td>3,84</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>2</td>
+<td>0,5</td>
+<td>2,2</td>
+<td>8,3</td>
+<td>7</td>
+<td>3</td>
+<td>1,45</td>
+<td>5,77</td>
+<td>1,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2,89</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">1,61</td>
-<td class="cuerpo_tabla_coma">5,63</td>
-<td class="cuerpo_tabla_coma">1,60</td>
+<td>14</td>
+<td>7,5</td>
+<td>5</td>
+<td>2,89</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>4</td>
+<td>0,5</td>
+<td>2,3</td>
+<td>8,3</td>
+<td>7</td>
+<td>3</td>
+<td>1,61</td>
+<td>5,63</td>
+<td>1,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2,88</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">1,66</td>
-<td class="cuerpo_tabla_coma">7,34</td>
-<td class="cuerpo_tabla_coma">1,43</td>
+<td>15</td>
+<td>7,5</td>
+<td>5</td>
+<td>2,88</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>4</td>
+<td>1</td>
+<td>2,2</td>
+<td>8,3</td>
+<td>7</td>
+<td>9</td>
+<td>1,66</td>
+<td>7,34</td>
+<td>1,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2,89</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,59</td>
-<td class="cuerpo_tabla_coma">9,29</td>
-<td class="cuerpo_tabla_coma">1,52</td>
+<td>16</td>
+<td>7,5</td>
+<td>5</td>
+<td>2,89</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>5</td>
+<td>2</td>
+<td>2,5</td>
+<td>8,3</td>
+<td>7</td>
+<td>10</td>
+<td>1,59</td>
+<td>9,29</td>
+<td>1,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2,88</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">1,4</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,91</td>
-<td class="cuerpo_tabla_coma">10,01</td>
-<td class="cuerpo_tabla_coma">1,45</td>
+<td>17</td>
+<td>10</td>
+<td>5</td>
+<td>2,88</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>5</td>
+<td>6</td>
+<td>1,4</td>
+<td>3</td>
+<td>8,3</td>
+<td>7</td>
+<td>10</td>
+<td>1,91</td>
+<td>10,01</td>
+<td>1,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">1,54</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,35</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">9,46</td>
-<td class="cuerpo_tabla_coma">1,40</td>
+<td>18</td>
+<td>10</td>
+<td>5</td>
+<td>1,54</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>5</td>
+<td>10</td>
+<td>1,35</td>
+<td>4</td>
+<td>8,3</td>
+<td>7</td>
+<td>10</td>
+<td>1,80</td>
+<td>9,46</td>
+<td>1,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">1,54</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">6,5</td>
-<td class="cuerpo_tabla_coma">8,3</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,55</td>
-<td class="cuerpo_tabla_coma">10,48</td>
-<td class="cuerpo_tabla_coma">1,25</td>
+<td>19</td>
+<td>10</td>
+<td>5</td>
+<td>1,54</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>5</td>
+<td>18</td>
+<td>1,25</td>
+<td>6,5</td>
+<td>8,3</td>
+<td>7</td>
+<td>10</td>
+<td>1,55</td>
+<td>10,48</td>
+<td>1,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">1,54</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,56</td>
-<td class="cuerpo_tabla_coma">10,55</td>
-<td class="cuerpo_tabla_coma">1,42</td>
+<td>20</td>
+<td>10</td>
+<td>5</td>
+<td>1,54</td>
+<td>7,5</td>
+<td>7,5</td>
+<td>3,75</td>
+<td>15</td>
+<td>1,5</td>
+<td>7</td>
+<td>–</td>
+<td>7</td>
+<td>10</td>
+<td>1,56</td>
+<td>10,55</td>
+<td>1,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">1,54</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">7,93</td>
-<td class="cuerpo_tabla_coma">1,19</td>
+<td>21</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>1,54</td>
+<td>3,75</td>
+<td>5</td>
+<td>3,75</td>
+<td>10</td>
+<td>2,5</td>
+<td>7,5</td>
+<td>–</td>
+<td>9</td>
+<td>10</td>
+<td>1,85</td>
+<td>7,93</td>
+<td>1,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">1,53</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_coma">2,03</td>
-<td class="cuerpo_tabla_coma">5,24</td>
-<td class="cuerpo_tabla_coma">1,38</td>
+<td>22</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>1,53</td>
+<td>3,75</td>
+<td>5</td>
+<td>3,75</td>
+<td>7</td>
+<td>2,25</td>
+<td>11</td>
+<td>–</td>
+<td>–</td>
+<td>8</td>
+<td>2,03</td>
+<td>5,24</td>
+<td>1,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">1,93</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">2,34</td>
-<td class="cuerpo_tabla_coma">3,27</td>
-<td class="cuerpo_tabla_coma">1,42</td>
+<td>23</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>1,93</td>
+<td>3,75</td>
+<td>5</td>
+<td>3,75</td>
+<td>6</td>
+<td>2,25</td>
+<td>9</td>
+<td>–</td>
+<td>–</td>
+<td>6</td>
+<td>2,34</td>
+<td>3,27</td>
+<td>1,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">7,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">1,92</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">7,8</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">2,41</td>
-<td class="cuerpo_tabla_coma">0,46</td>
-<td class="cuerpo_tabla_coma">1,37</td>
+<td>24</td>
+<td>7,5</td>
+<td>2,5</td>
+<td>1,92</td>
+<td>3,75</td>
+<td>5</td>
+<td>3,75</td>
+<td>5</td>
+<td>2,5</td>
+<td>7,8</td>
+<td>–</td>
+<td>–</td>
+<td>5</td>
+<td>2,41</td>
+<td>0,46</td>
+<td>1,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">1,92</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">7,1</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_coma">2,72</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,28</td>
+<td>25</td>
+<td>–</td>
+<td>2,75</td>
+<td>1,92</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>2</td>
+<td>2</td>
+<td>7,1</td>
+<td>–</td>
+<td>–</td>
+<td>3</td>
+<td>2,72</td>
+<td>0</td>
+<td>1,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">1,93</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">2,96</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>26</td>
+<td>–</td>
+<td>2,75</td>
+<td>1,93</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>1</td>
+<td>2</td>
+<td>7</td>
+<td>–</td>
+<td>–</td>
+<td>2</td>
+<td>2,96</td>
+<td>0</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">2,88</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">6,6</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">3,02</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,70</td>
+<td>27</td>
+<td>–</td>
+<td>2,75</td>
+<td>2,88</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2</td>
+<td>6,6</td>
+<td>–</td>
+<td>–</td>
+<td>1</td>
+<td>3,02</td>
+<td>0</td>
+<td>1,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">2,89</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,91</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,49</td>
+<td>28</td>
+<td>–</td>
+<td>2,75</td>
+<td>2,89</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2</td>
+<td>6</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>3,91</td>
+<td>0</td>
+<td>1,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">2,88</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">5,4</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,88</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,60</td>
+<td>29</td>
+<td>–</td>
+<td>2,75</td>
+<td>2,88</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2,25</td>
+<td>5,4</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>3,88</td>
+<td>0</td>
+<td>1,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">2,88</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">0,1</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">4,62</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,75</td>
+<td>30</td>
+<td>–</td>
+<td>2,75</td>
+<td>2,88</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2,25</td>
+<td>0,1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>4,62</td>
+<td>0</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,08</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5,29</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,55</td>
+<td>31</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,08</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>5,29</td>
+<td>0</td>
+<td>1,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,08</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5,63</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,61</td>
+<td>32</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,08</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2,25</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>5,63</td>
+<td>0</td>
+<td>1,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,08</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6,20</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,64</td>
+<td>33</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,08</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>2,25</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6,20</td>
+<td>0</td>
+<td>1,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,07</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5,82</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,51</td>
+<td>34</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,07</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>5,82</td>
+<td>0</td>
+<td>1,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,08</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">4,96</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,60</td>
+<td>35</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,08</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>4,96</td>
+<td>0</td>
+<td>1,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,85</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5,08</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,74</td>
+<td>36</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,85</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>5,08</td>
+<td>0</td>
+<td>1,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,84</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">4,77</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,80</td>
+<td>37</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,84</td>
+<td>–</td>
+<td>–</td>
+<td>3,75</td>
+<td>–</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>4,77</td>
+<td>0</td>
+<td>1,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,85</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">4,72</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3,18</td>
+<td>38</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,85</td>
+<td>–</td>
+<td>–</td>
+<td>2,5</td>
+<td>–</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>4,72</td>
+<td>0</td>
+<td>3,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,84</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">3,39</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">4,79</td>
+<td>39</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,84</td>
+<td>–</td>
+<td>–</td>
+<td>2,5</td>
+<td>–</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>3,39</td>
+<td>0</td>
+<td>4,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,85</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6,25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,85</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">5,82</td>
+<td>40</td>
+<td>–</td>
+<td>2,75</td>
+<td>3,85</td>
+<td>–</td>
+<td>–</td>
+<td>2,5</td>
+<td>–</td>
+<td>6,25</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>2,85</td>
+<td>0</td>
+<td>5,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6,25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">1,13</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">7,65</td>
+<td>41</td>
+<td>–</td>
+<td>2,75</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6,25</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>1,13</td>
+<td>0</td>
+<td>7,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">0,41</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">8,31</td>
+<td>42</td>
+<td>–</td>
+<td>2,75</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0,41</td>
+<td>0</td>
+<td>8,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6,25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">6,67</td>
+<td>43</td>
+<td>–</td>
+<td>2,75</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6,25</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0</td>
+<td>0</td>
+<td>6,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">6,25</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">5,19</td>
+<td>44</td>
+<td>–</td>
+<td>2,75</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6,25</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0</td>
+<td>0</td>
+<td>5,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">3,59</td>
+<td>45</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0</td>
+<td>0</td>
+<td>3,59</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="16">
-<p class="cita">* En el caso del espárrago, el primer año es improductivo, por lo que las semanas son las transcurridas desde el 1 de enero del año siguiente a la plantación y no desde la fecha de plantación.</p>
-<p class="cita">** En el caso del tomate, únicamente se podrá percibir compensación hasta el 31 de mayo.</p>
-<p class="cita">*** Para arándano, frambuesa y mora semanas desde la primera recolección.</p>
+<p>* En el caso del espárrago, el primer año es improductivo, por lo que las semanas son las transcurridas desde el 1 de enero del año siguiente a la plantación y no desde la fecha de plantación.</p>
+<p>** En el caso del tomate, únicamente se podrá percibir compensación hasta el 31 de mayo.</p>
+<p>*** Para arándano, frambuesa y mora semanas desde la primera recolección.</p>
 </td>
 </tr>
 </tfoot>
@@ -3854,96 +3778,96 @@ No obstante, las comunidades autónomas verificarán si los calendarios de recol
 
 Tabla 2. Importes a efectos del cálculo de la compensación por recolección parcial
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Producto</th>
-<th class="cabeza_tabla" colspan="3">Compensación (€/ha)</th>
+<th rowspan="2">Producto</th>
+<th colspan="3">Compensación (€/ha)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Secano</th>
-<th class="cabeza_tabla">Regadío al aire libre</th>
-<th class="cabeza_tabla">Regadío protegido</th>
+<th>Secano</th>
+<th>Regadío al aire libre</th>
+<th>Regadío protegido</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Alcachofa.</td>
-<td class="cuerpo_tabla_coma">1.024</td>
-<td class="cuerpo_tabla_coma">5.484</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Alcachofa.</td>
+<td>1.024</td>
+<td>5.484</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arándano.</td>
-<td class="cuerpo_tabla_coma">9.656</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_coma">39.990</td>
+<td>Arándano.</td>
+<td>9.656</td>
+<td>–</td>
+<td>39.990</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Berenjena.</td>
-<td class="cuerpo_tabla_coma">1.349</td>
-<td class="cuerpo_tabla_coma">6.965</td>
-<td class="cuerpo_tabla_coma">17.981</td>
+<td>Berenjena.</td>
+<td>1.349</td>
+<td>6.965</td>
+<td>17.981</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calabacín.</td>
-<td class="cuerpo_tabla_coma">2.266</td>
-<td class="cuerpo_tabla_coma">7.186</td>
-<td class="cuerpo_tabla_coma">11.741</td>
+<td>Calabacín.</td>
+<td>2.266</td>
+<td>7.186</td>
+<td>11.741</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espárrago.</td>
-<td class="cuerpo_tabla_coma">3.270</td>
-<td class="cuerpo_tabla_coma">5.334</td>
-<td class="cuerpo_tabla_coma">5.807</td>
+<td>Espárrago.</td>
+<td>3.270</td>
+<td>5.334</td>
+<td>5.807</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frambuesa.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_coma">37.361</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Frambuesa.</td>
+<td>–</td>
+<td>37.361</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fresa.</td>
-<td class="cuerpo_tabla_coma">4.485</td>
-<td class="cuerpo_tabla_coma">9.221</td>
-<td class="cuerpo_tabla_coma">25.184</td>
+<td>Fresa.</td>
+<td>4.485</td>
+<td>9.221</td>
+<td>25.184</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Judía verde.</td>
-<td class="cuerpo_tabla_coma">5.164</td>
-<td class="cuerpo_tabla_coma">13.176</td>
-<td class="cuerpo_tabla_coma">15.807</td>
+<td>Judía verde.</td>
+<td>5.164</td>
+<td>13.176</td>
+<td>15.807</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Melón.</td>
-<td class="cuerpo_tabla_coma">1.578</td>
-<td class="cuerpo_tabla_coma">6.342</td>
-<td class="cuerpo_tabla_coma">8.335</td>
+<td>Melón.</td>
+<td>1.578</td>
+<td>6.342</td>
+<td>8.335</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mora.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_coma">15.920</td>
+<td>Mora.</td>
+<td>–</td>
+<td>–</td>
+<td>15.920</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pepino.</td>
-<td class="cuerpo_tabla_coma">1.708</td>
-<td class="cuerpo_tabla_coma">6.197</td>
-<td class="cuerpo_tabla_coma">21.191</td>
+<td>Pepino.</td>
+<td>1.708</td>
+<td>6.197</td>
+<td>21.191</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pimiento.</td>
-<td class="cuerpo_tabla_coma">2.088</td>
-<td class="cuerpo_tabla_coma">11.659</td>
-<td class="cuerpo_tabla_coma">24.298</td>
+<td>Pimiento.</td>
+<td>2.088</td>
+<td>11.659</td>
+<td>24.298</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tomate.</td>
-<td class="cuerpo_tabla_coma">2.380</td>
-<td class="cuerpo_tabla_coma">26.077</td>
-<td class="cuerpo_tabla_coma">30.830»</td>
+<td>Tomate.</td>
+<td>2.380</td>
+<td>26.077</td>
+<td>30.830»</td>
 </tr>
 </tbody>
 </table>
@@ -3962,212 +3886,207 @@ El importe de compensación por hectárea se calculará multiplicando (A) x (B),
 
 ## ANEXO IV — Importes máximos de la ayuda para las retiradas del mercado para los productos que no se encuentren en el anexo V del Reglamento Delegado (UE) n.º 2022/126 de la Comisión
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Producto</th>
-<th class="cabeza_tabla" colspan="2">Importe de ayuda (€/100 kg)</th>
+<th rowspan="2">Producto</th>
+<th colspan="2">Importe de ayuda (€/100 kg)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Distribución gratuita</th>
-<th class="cabeza_tabla">Otros destinos</th>
+<th>Distribución gratuita</th>
+<th>Otros destinos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Acelga.</td>
-<td class="cuerpo_tabla_coma">50,19</td>
-<td class="cuerpo_tabla_coma">37,64</td>
+<td>Acelga.</td>
+<td>50,19</td>
+<td>37,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguacate.</td>
-<td class="cuerpo_tabla_coma">113,17</td>
-<td class="cuerpo_tabla_coma">84,88</td>
+<td>Aguacate.</td>
+<td>113,17</td>
+<td>84,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ajo.</td>
-<td class="cuerpo_tabla_coma">89,19</td>
-<td class="cuerpo_tabla_coma">66,89</td>
+<td>Ajo.</td>
+<td>89,19</td>
+<td>66,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcachofa.</td>
-<td class="cuerpo_tabla_coma">66,73</td>
-<td class="cuerpo_tabla_coma">50,05</td>
+<td>Alcachofa.</td>
+<td>66,73</td>
+<td>50,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arándano.</td>
-<td class="cuerpo_tabla_coma">370,64</td>
-<td class="cuerpo_tabla_coma">277,98</td>
+<td>Arándano.</td>
+<td>370,64</td>
+<td>277,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apio.</td>
-<td class="cuerpo_tabla_coma">43,87</td>
-<td class="cuerpo_tabla_coma">32,90</td>
+<td>Apio.</td>
+<td>43,87</td>
+<td>32,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Boniato.</td>
-<td class="cuerpo_tabla_coma">40,60</td>
-<td class="cuerpo_tabla_coma">30,45</td>
+<td>Boniato.</td>
+<td>40,60</td>
+<td>30,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Borraja.</td>
-<td class="cuerpo_tabla_coma">53,45</td>
-<td class="cuerpo_tabla_coma">40,09</td>
+<td>Borraja.</td>
+<td>53,45</td>
+<td>40,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brócoli.</td>
-<td class="cuerpo_tabla_coma">46,12</td>
-<td class="cuerpo_tabla_coma">34,59</td>
+<td>Brócoli.</td>
+<td>46,12</td>
+<td>34,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calabacín.</td>
-<td class="cuerpo_tabla_coma">30,49</td>
-<td class="cuerpo_tabla_coma">22,86</td>
+<td>Calabacín.</td>
+<td>30,49</td>
+<td>22,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calabaza.</td>
-<td class="cuerpo_tabla_coma">35,66</td>
-<td class="cuerpo_tabla_coma">26,75</td>
+<td>Calabaza.</td>
+<td>35,66</td>
+<td>26,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caqui.</td>
-<td class="cuerpo_tabla_coma">31,44</td>
-<td class="cuerpo_tabla_coma">23,58</td>
+<td>Caqui.</td>
+<td>31,44</td>
+<td>23,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cebolla.</td>
-<td class="cuerpo_tabla_coma">19,33</td>
-<td class="cuerpo_tabla_coma">14,50</td>
+<td>Cebolla.</td>
+<td>19,33</td>
+<td>14,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cereza.</td>
-<td class="cuerpo_tabla_coma">131,56</td>
-<td class="cuerpo_tabla_coma">98,67</td>
+<td>Cereza.</td>
+<td>131,56</td>
+<td>98,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Champiñón.</td>
-<td class="cuerpo_tabla_coma">82,13</td>
-<td class="cuerpo_tabla_coma">61,60</td>
+<td>Champiñón.</td>
+<td>82,13</td>
+<td>61,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciruela.</td>
-<td class="cuerpo_tabla_coma">49,89</td>
-<td class="cuerpo_tabla_coma">37,41</td>
+<td>Ciruela.</td>
+<td>49,89</td>
+<td>37,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escarola.</td>
-<td class="cuerpo_tabla_coma">35,75</td>
-<td class="cuerpo_tabla_coma">26,81</td>
+<td>Escarola.</td>
+<td>35,75</td>
+<td>26,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espárrago.</td>
-<td class="cuerpo_tabla_coma">174,57</td>
-<td class="cuerpo_tabla_coma">130,92</td>
+<td>Espárrago.</td>
+<td>174,57</td>
+<td>130,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espinaca.</td>
-<td class="cuerpo_tabla_coma">70,63</td>
-<td class="cuerpo_tabla_coma">52,97</td>
+<td>Espinaca.</td>
+<td>70,63</td>
+<td>52,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frambuesa.</td>
-<td class="cuerpo_tabla_coma">410,63</td>
-<td class="cuerpo_tabla_coma">307,98</td>
+<td>Frambuesa.</td>
+<td>410,63</td>
+<td>307,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fresa.</td>
-<td class="cuerpo_tabla_coma">97,54</td>
-<td class="cuerpo_tabla_coma">73,15</td>
+<td>Fresa.</td>
+<td>97,54</td>
+<td>73,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_coma">45,82</td>
-<td class="cuerpo_tabla_coma">34,36</td>
+<td>Granada.</td>
+<td>45,82</td>
+<td>34,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Haba verde.</td>
-<td class="cuerpo_tabla_coma">81,21</td>
-<td class="cuerpo_tabla_coma">60,91</td>
+<td>Haba verde.</td>
+<td>81,21</td>
+<td>60,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Híbridos de pequeños cítricos.</td>
-<td class="cuerpo_tabla_coma">48,43</td>
-<td class="cuerpo_tabla_coma">36,32</td>
+<td>Híbridos de pequeños cítricos.</td>
+<td>48,43</td>
+<td>36,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Higo fresco.</td>
-<td class="cuerpo_tabla_coma">79,67</td>
-<td class="cuerpo_tabla_coma">59,75</td>
+<td>Higo fresco.</td>
+<td>79,67</td>
+<td>59,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Judía verde.</td>
-<td class="cuerpo_tabla_coma">130,09</td>
-<td class="cuerpo_tabla_coma">97,57</td>
+<td>Judía verde.</td>
+<td>130,09</td>
+<td>97,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Kiwi.</td>
-<td class="cuerpo_tabla_coma">117,45</td>
-<td class="cuerpo_tabla_coma">88,09</td>
+<td>Kiwi.</td>
+<td>117,45</td>
+<td>88,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lechuga.</td>
-<td class="cuerpo_tabla_coma">38,38</td>
-<td class="cuerpo_tabla_coma">28,79</td>
+<td>Lechuga.</td>
+<td>38,38</td>
+<td>28,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mora.</td>
-<td class="cuerpo_tabla_coma">525,84</td>
-<td class="cuerpo_tabla_coma">394,38</td>
+<td>Mora.</td>
+<td>525,84</td>
+<td>394,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nabo, nabicol y chirivía.</td>
-<td class="cuerpo_tabla_coma">33,04</td>
-<td class="cuerpo_tabla_coma">24,78</td>
+<td>Nabo, nabicol y chirivía.</td>
+<td>33,04</td>
+<td>24,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Níspero.</td>
-<td class="cuerpo_tabla_coma">108,81</td>
-<td class="cuerpo_tabla_coma">81,61</td>
+<td>Níspero.</td>
+<td>108,81</td>
+<td>81,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Papaya.</td>
-<td class="cuerpo_tabla_coma">69,04</td>
-<td class="cuerpo_tabla_coma">51,78</td>
+<td>Papaya.</td>
+<td>69,04</td>
+<td>51,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Paraguaya, platerina y melocotón plano.</td>
-<td class="cuerpo_tabla_coma">60,79</td>
-<td class="cuerpo_tabla_coma">45,59</td>
+<td>Paraguaya, platerina y melocotón plano.</td>
+<td>60,79</td>
+<td>45,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pepino.</td>
-<td class="cuerpo_tabla_coma">34,61</td>
-<td class="cuerpo_tabla_coma">25,95</td>
+<td>Pepino.</td>
+<td>34,61</td>
+<td>25,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pimiento.</td>
-<td class="cuerpo_tabla_coma">52,13</td>
-<td class="cuerpo_tabla_coma">39,10</td>
+<td>Pimiento.</td>
+<td>52,13</td>
+<td>39,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Puerro.</td>
-<td class="cuerpo_tabla_coma">51,76</td>
-<td class="cuerpo_tabla_coma">38,82</td>
+<td>Puerro.</td>
+<td>51,76</td>
+<td>38,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Repollo, col.</td>
-<td class="cuerpo_tabla_coma">36,81</td>
-<td class="cuerpo_tabla_coma">27,60</td>
+<td>Repollo, col.</td>
+<td>36,81</td>
+<td>27,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zanahoria.</td>
-<td class="cuerpo_tabla_coma">21,70</td>
-<td class="cuerpo_tabla_coma">16,28</td>
+<td>Zanahoria.</td>
+<td>21,70</td>
+<td>16,28</td>
 </tr>
 </tbody>
 </table>
@@ -4176,202 +4095,197 @@ El importe de compensación por hectárea se calculará multiplicando (A) x (B),
 
 > Redacción anterior:
 
-> <table class="tabla">
-> <colgroup>
-> <col width="50%">
-> <col width="25%">
-> <col width="25%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2">Producto</th>
-> <th class="cabeza_tabla" colspan="2">Importe de ayuda (€/100 kg)</th>
+> <th rowspan="2">Producto</th>
+> <th colspan="2">Importe de ayuda (€/100 kg)</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Distribución gratuita</th>
-> <th class="cabeza_tabla">Otros destinos</th>
+> <th>Distribución gratuita</th>
+> <th>Otros destinos</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Acelga.</td>
-> <td class="cuerpo_tabla_coma">44,64</td>
-> <td class="cuerpo_tabla_coma">33,48</td>
+> <td>Acelga.</td>
+> <td>44,64</td>
+> <td>33,48</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Aguacate.</td>
-> <td class="cuerpo_tabla_coma">112,50</td>
-> <td class="cuerpo_tabla_coma">84,38</td>
+> <td>Aguacate.</td>
+> <td>112,50</td>
+> <td>84,38</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Ajo.</td>
-> <td class="cuerpo_tabla_coma">80,21</td>
-> <td class="cuerpo_tabla_coma">60,16</td>
+> <td>Ajo.</td>
+> <td>80,21</td>
+> <td>60,16</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Alcachofa.</td>
-> <td class="cuerpo_tabla_coma">57,37</td>
-> <td class="cuerpo_tabla_coma">43,03</td>
+> <td>Alcachofa.</td>
+> <td>57,37</td>
+> <td>43,03</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Arándano.</td>
-> <td class="cuerpo_tabla_coma">365,31</td>
-> <td class="cuerpo_tabla_coma">273,99</td>
+> <td>Arándano.</td>
+> <td>365,31</td>
+> <td>273,99</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Apio.</td>
-> <td class="cuerpo_tabla_coma">22,25</td>
-> <td class="cuerpo_tabla_coma">16,69</td>
+> <td>Apio.</td>
+> <td>22,25</td>
+> <td>16,69</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Brócoli.</td>
-> <td class="cuerpo_tabla_coma">47,26</td>
-> <td class="cuerpo_tabla_coma">35,44</td>
+> <td>Brócoli.</td>
+> <td>47,26</td>
+> <td>35,44</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Calabacín.</td>
-> <td class="cuerpo_tabla_coma">28,69</td>
-> <td class="cuerpo_tabla_coma">21,52</td>
+> <td>Calabacín.</td>
+> <td>28,69</td>
+> <td>21,52</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Calabaza.</td>
-> <td class="cuerpo_tabla_coma">18,12</td>
-> <td class="cuerpo_tabla_coma">13,59</td>
+> <td>Calabaza.</td>
+> <td>18,12</td>
+> <td>13,59</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Caqui.</td>
-> <td class="cuerpo_tabla_coma">32,62</td>
-> <td class="cuerpo_tabla_coma">24,47</td>
+> <td>Caqui.</td>
+> <td>32,62</td>
+> <td>24,47</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cebolla.</td>
-> <td class="cuerpo_tabla_coma">15,76</td>
-> <td class="cuerpo_tabla_coma">11,82</td>
+> <td>Cebolla.</td>
+> <td>15,76</td>
+> <td>11,82</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cereza.</td>
-> <td class="cuerpo_tabla_coma">112,83</td>
-> <td class="cuerpo_tabla_coma">84,62</td>
+> <td>Cereza.</td>
+> <td>112,83</td>
+> <td>84,62</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Champiñón.</td>
-> <td class="cuerpo_tabla_coma">78,74</td>
-> <td class="cuerpo_tabla_coma">59,05</td>
+> <td>Champiñón.</td>
+> <td>78,74</td>
+> <td>59,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Ciruela.</td>
-> <td class="cuerpo_tabla_coma">40,26</td>
-> <td class="cuerpo_tabla_coma">30,19</td>
+> <td>Ciruela.</td>
+> <td>40,26</td>
+> <td>30,19</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Escarola.</td>
-> <td class="cuerpo_tabla_coma">34,70</td>
-> <td class="cuerpo_tabla_coma">26,02</td>
+> <td>Escarola.</td>
+> <td>34,70</td>
+> <td>26,02</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Espárrago.</td>
-> <td class="cuerpo_tabla_coma">165,84</td>
-> <td class="cuerpo_tabla_coma">124,38</td>
+> <td>Espárrago.</td>
+> <td>165,84</td>
+> <td>124,38</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Espinaca.</td>
-> <td class="cuerpo_tabla_coma">67,32</td>
-> <td class="cuerpo_tabla_coma">50,49</td>
+> <td>Espinaca.</td>
+> <td>67,32</td>
+> <td>50,49</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Frambuesa.</td>
-> <td class="cuerpo_tabla_coma">263,88</td>
-> <td class="cuerpo_tabla_coma">197,91</td>
+> <td>Frambuesa.</td>
+> <td>263,88</td>
+> <td>197,91</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Fresa.</td>
-> <td class="cuerpo_tabla_coma">80,90</td>
-> <td class="cuerpo_tabla_coma">60,68</td>
+> <td>Fresa.</td>
+> <td>80,90</td>
+> <td>60,68</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Granada.</td>
-> <td class="cuerpo_tabla_coma">54,67</td>
-> <td class="cuerpo_tabla_coma">41,00</td>
+> <td>Granada.</td>
+> <td>54,67</td>
+> <td>41,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Haba verde.</td>
-> <td class="cuerpo_tabla_coma">71,45</td>
-> <td class="cuerpo_tabla_coma">53,59</td>
+> <td>Haba verde.</td>
+> <td>71,45</td>
+> <td>53,59</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Híbridos de pequeños cítricos.</td>
-> <td class="cuerpo_tabla_coma">44,14</td>
-> <td class="cuerpo_tabla_coma">33,10</td>
+> <td>Híbridos de pequeños cítricos.</td>
+> <td>44,14</td>
+> <td>33,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Higo fresco.</td>
-> <td class="cuerpo_tabla_coma">70,41</td>
-> <td class="cuerpo_tabla_coma">52,81</td>
+> <td>Higo fresco.</td>
+> <td>70,41</td>
+> <td>52,81</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Judía verde.</td>
-> <td class="cuerpo_tabla_coma">108,58</td>
-> <td class="cuerpo_tabla_coma">81,43</td>
+> <td>Judía verde.</td>
+> <td>108,58</td>
+> <td>81,43</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Kiwi.</td>
-> <td class="cuerpo_tabla_coma">40,10</td>
-> <td class="cuerpo_tabla_coma">30,08</td>
+> <td>Kiwi.</td>
+> <td>40,10</td>
+> <td>30,08</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Mora.</td>
-> <td class="cuerpo_tabla_coma">289,42</td>
-> <td class="cuerpo_tabla_coma">217,06</td>
+> <td>Mora.</td>
+> <td>289,42</td>
+> <td>217,06</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Lechuga.</td>
-> <td class="cuerpo_tabla_coma">33,44</td>
-> <td class="cuerpo_tabla_coma">25,08</td>
+> <td>Lechuga.</td>
+> <td>33,44</td>
+> <td>25,08</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Nabo, nabicol y chirivía.</td>
-> <td class="cuerpo_tabla_coma">16,63</td>
-> <td class="cuerpo_tabla_coma">12,48</td>
+> <td>Nabo, nabicol y chirivía.</td>
+> <td>16,63</td>
+> <td>12,48</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Níspero.</td>
-> <td class="cuerpo_tabla_coma">91,59</td>
-> <td class="cuerpo_tabla_coma">68,69</td>
+> <td>Níspero.</td>
+> <td>91,59</td>
+> <td>68,69</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Papaya.</td>
-> <td class="cuerpo_tabla_coma">46,31</td>
-> <td class="cuerpo_tabla_coma">34,73</td>
+> <td>Papaya.</td>
+> <td>46,31</td>
+> <td>34,73</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Paraguaya, platerina y melocotón plano.</td>
-> <td class="cuerpo_tabla_coma">52,02</td>
-> <td class="cuerpo_tabla_coma">39,02</td>
+> <td>Paraguaya, platerina y melocotón plano.</td>
+> <td>52,02</td>
+> <td>39,02</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Pepino.</td>
-> <td class="cuerpo_tabla_coma">30,10</td>
-> <td class="cuerpo_tabla_coma">22,57</td>
+> <td>Pepino.</td>
+> <td>30,10</td>
+> <td>22,57</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Pimiento.</td>
-> <td class="cuerpo_tabla_coma">44,90</td>
-> <td class="cuerpo_tabla_coma">33,68</td>
+> <td>Pimiento.</td>
+> <td>44,90</td>
+> <td>33,68</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Puerro.</td>
-> <td class="cuerpo_tabla_coma">46,50</td>
-> <td class="cuerpo_tabla_coma">34,87</td>
+> <td>Puerro.</td>
+> <td>46,50</td>
+> <td>34,87</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Repollo, col.</td>
-> <td class="cuerpo_tabla_coma">32,09</td>
-> <td class="cuerpo_tabla_coma">24,07</td>
+> <td>Repollo, col.</td>
+> <td>32,09</td>
+> <td>24,07</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Zanahoria.</td>
-> <td class="cuerpo_tabla_coma">22,14</td>
-> <td class="cuerpo_tabla_coma">16,60</td>
+> <td>Zanahoria.</td>
+> <td>22,14</td>
+> <td>16,60</td>
 > </tr>
 > </tbody>
 > </table>
@@ -4490,54 +4404,48 @@ Dichos importes deberán haber sido aprobados tanto por la asamblea general de l
 
 ## ANEXO VI — Gastos de transporte para las retiradas con destino la distribución gratuita, por categoría de frutas y hortalizas
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="64%">
-<col width="12%">
-<col width="12%">
-<col width="12%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="3">Importe (€/t)</th>
+<th rowspan="2"> </th>
+<th colspan="3">Importe (€/t)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Igual o inferior a 25 km.</td>
-<td class="cuerpo_tabla_coma">12,44</td>
-<td class="cuerpo_tabla_coma">9,44</td>
-<td class="cuerpo_tabla_coma">7,60</td>
+<td>Igual o inferior a 25 km.</td>
+<td>12,44</td>
+<td>9,44</td>
+<td>7,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superior a 25 km pero inferior o igual a 200 km.</td>
-<td class="cuerpo_tabla_coma">38,29</td>
-<td class="cuerpo_tabla_coma">29,05</td>
-<td class="cuerpo_tabla_coma">23,40</td>
+<td>Superior a 25 km pero inferior o igual a 200 km.</td>
+<td>38,29</td>
+<td>29,05</td>
+<td>23,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superior a 200 km pero inferior o igual a 350 km.</td>
-<td class="cuerpo_tabla_coma">64,14</td>
-<td class="cuerpo_tabla_coma">48,66</td>
-<td class="cuerpo_tabla_coma">39,20</td>
+<td>Superior a 200 km pero inferior o igual a 350 km.</td>
+<td>64,14</td>
+<td>48,66</td>
+<td>39,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superior a 350 km pero inferior o igual a 500 km.</td>
-<td class="cuerpo_tabla_coma">95,16</td>
-<td class="cuerpo_tabla_coma">72,19</td>
-<td class="cuerpo_tabla_coma">58,16</td>
+<td>Superior a 350 km pero inferior o igual a 500 km.</td>
+<td>95,16</td>
+<td>72,19</td>
+<td>58,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superior a 500 km pero inferior o igual a 750 km.</td>
-<td class="cuerpo_tabla_coma">136,52</td>
-<td class="cuerpo_tabla_coma">103,57</td>
-<td class="cuerpo_tabla_coma">83,43</td>
+<td>Superior a 500 km pero inferior o igual a 750 km.</td>
+<td>136,52</td>
+<td>103,57</td>
+<td>83,43</td>
 </tr>
 </tbody>
 </table>

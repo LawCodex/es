@@ -2053,463 +2053,456 @@ Las leyes anuales de Presupuestos Generales de la Comunidad Autónoma podrán mo
 
 ## ANEXO — Censo de núcleos de población que no son municipios ni entidades locales menores y que pertenecen a municipios de más de 3.000 habitantes y sus diseminados
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Provincia</th>
-<th class="cabeza_tabla">Municipio</th>
-<th class="cabeza_tabla">Unidad poblacional</th>
-<th class="cabeza_tabla">CodINE</th>
-<th class="cabeza_tabla">Municipio</th>
+<th>Provincia</th>
+<th>Municipio</th>
+<th>Unidad poblacional</th>
+<th>CodINE</th>
+<th>Municipio</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">037</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000200 ESTACIÓN DE ARROYO-MALPARTIDA.</p>
+<td>10</td>
+<td>037</td>
+<td>
+<p>000200 ESTACIÓN DE ARROYO-MALPARTIDA.</p>
 </td>
-<td class="cuerpo_tabla_centro">10037</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td>10037</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">037</td>
-<td class="cuerpo_tabla_izq">000300 RINCÓN DE BALLESTEROS.</td>
-<td class="cuerpo_tabla_centro">10037</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td>10</td>
+<td>037</td>
+<td>000300 RINCÓN DE BALLESTEROS.</td>
+<td>10037</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">067</td>
-<td class="cuerpo_tabla_izq">000200 PUEBLA DE ARGEME.</td>
-<td class="cuerpo_tabla_centro">10067</td>
-<td class="cuerpo_tabla_izq">CORIA.</td>
+<td>10</td>
+<td>067</td>
+<td>000200 PUEBLA DE ARGEME.</td>
+<td>10067</td>
+<td>CORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">067</td>
-<td class="cuerpo_tabla_izq">000300 RINCÓN DEL OBISPO.</td>
-<td class="cuerpo_tabla_centro">10067</td>
-<td class="cuerpo_tabla_izq">CORIA.</td>
+<td>10</td>
+<td>067</td>
+<td>000300 RINCÓN DEL OBISPO.</td>
+<td>10067</td>
+<td>CORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">116</td>
-<td class="cuerpo_tabla_izq">000100 BAZAGONA (LA).</td>
-<td class="cuerpo_tabla_centro">10116</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MALPARTIDA DE PLASENCIA.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">116</td>
-<td class="cuerpo_tabla_izq">000400 PALAZUELO-EMPALME.</td>
-<td class="cuerpo_tabla_centro">10116</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MALPARTIDA DE PLASENCIA.</p>
+<td>10</td>
+<td>116</td>
+<td>000100 BAZAGONA (LA).</td>
+<td>10116</td>
+<td>
+<p>MALPARTIDA DE PLASENCIA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">121</td>
-<td class="cuerpo_tabla_izq">000100 ALONSO DE OJEDA.</td>
-<td class="cuerpo_tabla_centro">10121</td>
-<td class="cuerpo_tabla_izq">MIAJADAS.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">121</td>
-<td class="cuerpo_tabla_izq">000200 CASAR DE MIAJADAS.</td>
-<td class="cuerpo_tabla_centro">10121</td>
-<td class="cuerpo_tabla_izq">MIAJADAS.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_izq">000100 BARQUILLA (LA).</td>
-<td class="cuerpo_tabla_centro">10180</td>
-<td class="cuerpo_tabla_izq">TALAYUELA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_izq">000200 BARQUILLA DE PINARES.</td>
-<td class="cuerpo_tabla_centro">10180</td>
-<td class="cuerpo_tabla_izq">TALAYUELA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000900 SANTA MARÍA DE LAS LOMAS.</p>
-</td>
-<td class="cuerpo_tabla_centro">10180</td>
-<td class="cuerpo_tabla_izq">TALAYUELA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">195</td>
-<td class="cuerpo_tabla_izq">000100 BELÉN.</td>
-<td class="cuerpo_tabla_centro">10195</td>
-<td class="cuerpo_tabla_izq">TRUJILLO.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">195</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000200 HUERTAS DE LA MAGDALENA.</p>
-</td>
-<td class="cuerpo_tabla_centro">10195</td>
-<td class="cuerpo_tabla_izq">TRUJILLO.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">195</td>
-<td class="cuerpo_tabla_izq">000300 PAGO DE SAN CLEMENTE.</td>
-<td class="cuerpo_tabla_centro">10195</td>
-<td class="cuerpo_tabla_izq">TRUJILLO.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000100 ALCORNEO.</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>116</td>
+<td>000400 PALAZUELO-EMPALME.</td>
+<td>10116</td>
+<td>
+<p>MALPARTIDA DE PLASENCIA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000200 ACEÑA DE LA BORREGA (LA).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</td>
+<td>10</td>
+<td>121</td>
+<td>000100 ALONSO DE OJEDA.</td>
+<td>10121</td>
+<td>MIAJADAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000300 CASIÑAS (LAS).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>121</td>
+<td>000200 CASAR DE MIAJADAS.</td>
+<td>10121</td>
+<td>MIAJADAS.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>180</td>
+<td>000100 BARQUILLA (LA).</td>
+<td>10180</td>
+<td>TALAYUELA.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>180</td>
+<td>000200 BARQUILLA DE PINARES.</td>
+<td>10180</td>
+<td>TALAYUELA.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>180</td>
+<td>
+<p>000900 SANTA MARÍA DE LAS LOMAS.</p>
+</td>
+<td>10180</td>
+<td>TALAYUELA.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>195</td>
+<td>000100 BELÉN.</td>
+<td>10195</td>
+<td>TRUJILLO.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>195</td>
+<td>
+<p>000200 HUERTAS DE LA MAGDALENA.</p>
+</td>
+<td>10195</td>
+<td>TRUJILLO.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>195</td>
+<td>000300 PAGO DE SAN CLEMENTE.</td>
+<td>10195</td>
+<td>TRUJILLO.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>203</td>
+<td>000100 ALCORNEO.</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000301 CASIÑAS ALTAS (LAS).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</td>
+<td>10</td>
+<td>203</td>
+<td>000200 ACEÑA DE LA BORREGA (LA).</td>
+<td>10203</td>
+<td>VALENCIA DE ALCÁNTARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000302 CASIÑAS BAJAS (LAS).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>203</td>
+<td>000300 CASIÑAS (LAS).</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000303 MOLINOS (LOS).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>203</td>
+<td>000301 CASIÑAS ALTAS (LAS).</td>
+<td>10203</td>
+<td>VALENCIA DE ALCÁNTARA.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>203</td>
+<td>000302 CASIÑAS BAJAS (LAS).</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000400 ESTACIÓN FERROCARRIL.</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>203</td>
+<td>000303 MOLINOS (LOS).</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000500 FONTAÑERA (LA).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>203</td>
+<td>000400 ESTACIÓN FERROCARRIL.</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000600 HUERTAS DE CANSA (LAS).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000602 ARROYOS DE ABAJO.</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>203</td>
+<td>000500 FONTAÑERA (LA).</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000700 JOLA.</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</td>
+<td>10</td>
+<td>203</td>
+<td>000600 HUERTAS DE CANSA (LAS).</td>
+<td>10203</td>
+<td>VALENCIA DE ALCÁNTARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000800 LANCHUELAS (LAS).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</p>
+<td>10</td>
+<td>203</td>
+<td>000602 ARROYOS DE ABAJO.</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">000900 PINO (EL).</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</td>
+<td>10</td>
+<td>203</td>
+<td>000700 JOLA.</td>
+<td>10203</td>
+<td>VALENCIA DE ALCÁNTARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">001000 SAN PEDRO DE LOS MAJARRETES.</td>
-<td class="cuerpo_tabla_centro">10203</td>
-<td class="cuerpo_tabla_izq">VALENCIA DE ALCÁNTARA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">014</td>
-<td class="cuerpo_tabla_izq">000200 CARDENCHOSA (LA).</td>
-<td class="cuerpo_tabla_centro">06014</td>
-<td class="cuerpo_tabla_izq" colspan="2">AZUAGA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">000200 ALCAZABA.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">000300 ALVARADO.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">000500 BALBOA.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">001000 GÉVORA.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">001200 NOVELDA DEL GUADIANA.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">001400 SAGRAJAS.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">001600 VALDEBÓTOA.</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">001800 VILLAFRANCO DEL GUADIANA.</p>
-</td>
-<td class="cuerpo_tabla_centro">06015</td>
-<td class="cuerpo_tabla_izq" colspan="2">BADAJOZ.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">023</td>
-<td class="cuerpo_tabla_izq">000100 ALMORCHÓN.</td>
-<td class="cuerpo_tabla_centro">06023</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">CABEZA DEL BUEY.</p>
+<td>10</td>
+<td>203</td>
+<td>000800 LANCHUELAS (LAS).</td>
+<td>10203</td>
+<td>
+<p>VALENCIA DE ALCÁNTARA.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">028</td>
-<td class="cuerpo_tabla_izq">000200 GUARDA (LA).</td>
-<td class="cuerpo_tabla_centro">06028</td>
-<td class="cuerpo_tabla_izq" colspan="2">CAMPANARIO.</td>
+<td>10</td>
+<td>203</td>
+<td>000900 PINO (EL).</td>
+<td>10203</td>
+<td>VALENCIA DE ALCÁNTARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">044</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000100 CONQUISTA DEL GUADIANA.</p>
+<td>10</td>
+<td>203</td>
+<td>001000 SAN PEDRO DE LOS MAJARRETES.</td>
+<td>10203</td>
+<td>VALENCIA DE ALCÁNTARA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>014</td>
+<td>000200 CARDENCHOSA (LA).</td>
+<td>06014</td>
+<td colspan="2">AZUAGA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>000200 ALCAZABA.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>000300 ALVARADO.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>000500 BALBOA.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>001000 GÉVORA.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>001200 NOVELDA DEL GUADIANA.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>001400 SAGRAJAS.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>001600 VALDEBÓTOA.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>015</td>
+<td>
+<p>001800 VILLAFRANCO DEL GUADIANA.</p>
 </td>
-<td class="cuerpo_tabla_centro">06044</td>
-<td class="cuerpo_tabla_izq" colspan="2">DON BENITO.</td>
+<td>06015</td>
+<td colspan="2">BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">063</td>
-<td class="cuerpo_tabla_izq">000200 PELOCHE.</td>
-<td class="cuerpo_tabla_centro">06063</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">HERRERA DEL DUQUE.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">070</td>
-<td class="cuerpo_tabla_izq">000200 BAZANA (LA).</td>
-<td class="cuerpo_tabla_centro">06070</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">JEREZ DE LOS CABALLEROS.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">070</td>
-<td class="cuerpo_tabla_izq">000300 BROVALES.</td>
-<td class="cuerpo_tabla_centro">06070</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">JEREZ DE LOS CABALLEROS.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">070</td>
-<td class="cuerpo_tabla_izq">000500 VALUENGO.</td>
-<td class="cuerpo_tabla_centro">06070</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">JEREZ DE LOS CABALLEROS.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">088</td>
-<td class="cuerpo_tabla_izq">000200 LÁCARA.</td>
-<td class="cuerpo_tabla_centro">06088</td>
-<td class="cuerpo_tabla_izq" colspan="2">MONTIJO.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">091</td>
-<td class="cuerpo_tabla_izq">000200 OBANDO.</td>
-<td class="cuerpo_tabla_centro">06091</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">NAVALVILLAR DE PELA.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">091</td>
-<td class="cuerpo_tabla_izq">000300 VEGAS ALTAS.</td>
-<td class="cuerpo_tabla_centro">06091</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">NAVALVILLAR DE PELA.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">095</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000200 SAN BENITO DE LA CONTIENDA.</p>
-</td>
-<td class="cuerpo_tabla_centro">06095</td>
-<td class="cuerpo_tabla_izq" colspan="2">OLIVENZA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">095</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000300 SAN FRANCISCO DE OLIVENZA.</p>
-</td>
-<td class="cuerpo_tabla_centro">06095</td>
-<td class="cuerpo_tabla_izq" colspan="2">OLIVENZA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">095</td>
-<td class="cuerpo_tabla_izq">000400 SAN JORGE DE ALOR.</td>
-<td class="cuerpo_tabla_centro">06095</td>
-<td class="cuerpo_tabla_izq" colspan="2">OLIVENZA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">095</td>
-<td class="cuerpo_tabla_izq">000500 SAN RAFAEL DE OLIVENZA.</td>
-<td class="cuerpo_tabla_centro">06095</td>
-<td class="cuerpo_tabla_izq" colspan="2">OLIVENZA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">095</td>
-<td class="cuerpo_tabla_izq">000600 SANTO DOMINGO.</td>
-<td class="cuerpo_tabla_centro">06095</td>
-<td class="cuerpo_tabla_izq" colspan="2">OLIVENZA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">095</td>
-<td class="cuerpo_tabla_izq">000700 VILLARREAL.</td>
-<td class="cuerpo_tabla_centro">06095</td>
-<td class="cuerpo_tabla_izq" colspan="2">OLIVENZA.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">153</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000100 CASAS DEL CASTILLO DE LA ENCOMIENDA.</p>
-</td>
-<td class="cuerpo_tabla_centro">06153</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">VILLANUEVA DE LA SERENA.</p>
+<td>06</td>
+<td>023</td>
+<td>000100 ALMORCHÓN.</td>
+<td>06023</td>
+<td colspan="2">
+<p>CABEZA DEL BUEY.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">000100 SAN CRISTÓBAL DE ZALAMEA/DOCENARIO.</p>
+<td>06</td>
+<td>028</td>
+<td>000200 GUARDA (LA).</td>
+<td>06028</td>
+<td colspan="2">CAMPANARIO.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>044</td>
+<td>
+<p>000100 CONQUISTA DEL GUADIANA.</p>
 </td>
-<td class="cuerpo_tabla_centro">06160</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">ZALAMEA DE LA SERENA.</p>
+<td>06044</td>
+<td colspan="2">DON BENITO.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>063</td>
+<td>000200 PELOCHE.</td>
+<td>06063</td>
+<td colspan="2">
+<p>HERRERA DEL DUQUE.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>070</td>
+<td>000200 BAZANA (LA).</td>
+<td>06070</td>
+<td colspan="2">
+<p>JEREZ DE LOS CABALLEROS.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>070</td>
+<td>000300 BROVALES.</td>
+<td>06070</td>
+<td colspan="2">
+<p>JEREZ DE LOS CABALLEROS.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>070</td>
+<td>000500 VALUENGO.</td>
+<td>06070</td>
+<td colspan="2">
+<p>JEREZ DE LOS CABALLEROS.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>088</td>
+<td>000200 LÁCARA.</td>
+<td>06088</td>
+<td colspan="2">MONTIJO.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>091</td>
+<td>000200 OBANDO.</td>
+<td>06091</td>
+<td colspan="2">
+<p>NAVALVILLAR DE PELA.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>091</td>
+<td>000300 VEGAS ALTAS.</td>
+<td>06091</td>
+<td colspan="2">
+<p>NAVALVILLAR DE PELA.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>095</td>
+<td>
+<p>000200 SAN BENITO DE LA CONTIENDA.</p>
+</td>
+<td>06095</td>
+<td colspan="2">OLIVENZA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>095</td>
+<td>
+<p>000300 SAN FRANCISCO DE OLIVENZA.</p>
+</td>
+<td>06095</td>
+<td colspan="2">OLIVENZA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>095</td>
+<td>000400 SAN JORGE DE ALOR.</td>
+<td>06095</td>
+<td colspan="2">OLIVENZA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>095</td>
+<td>000500 SAN RAFAEL DE OLIVENZA.</td>
+<td>06095</td>
+<td colspan="2">OLIVENZA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>095</td>
+<td>000600 SANTO DOMINGO.</td>
+<td>06095</td>
+<td colspan="2">OLIVENZA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>095</td>
+<td>000700 VILLARREAL.</td>
+<td>06095</td>
+<td colspan="2">OLIVENZA.</td>
+</tr>
+<tr>
+<td>06</td>
+<td>153</td>
+<td>
+<p>000100 CASAS DEL CASTILLO DE LA ENCOMIENDA.</p>
+</td>
+<td>06153</td>
+<td colspan="2">
+<p>VILLANUEVA DE LA SERENA.</p>
+</td>
+</tr>
+<tr>
+<td>06</td>
+<td>160</td>
+<td>
+<p>000100 SAN CRISTÓBAL DE ZALAMEA/DOCENARIO.</p>
+</td>
+<td>06160</td>
+<td colspan="2">
+<p>ZALAMEA DE LA SERENA.</p>
 </td>
 </tr>
 </tbody>

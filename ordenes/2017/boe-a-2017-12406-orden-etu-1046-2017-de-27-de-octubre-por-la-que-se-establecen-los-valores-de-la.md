@@ -1209,39 +1209,33 @@ Los valores de los parámetros A, B y C de las instalaciones tipo indicadas son 
 
 Clasificación de las tarifas según el Real Decreto 661/2007
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_11">
-<col class="row_column_3">
-<col class="row_column_12">
-<col class="row_column_13">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Artículo 45</p>
+<p>Artículo 45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Otros combustibles</p>
+<p>Otros combustibles</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50 &lt; P ≤ 100 MW</p>
+<p>50 &lt; P ≤ 100 MW</p>
 </td>
 </tr>
 </tbody>
@@ -1296,111 +1290,100 @@ B. Primer semiperiodo regulatorio: años 2014, 2015 y 2016.
 
 B.1 Parámetros retributivos de las instalaciones tipo aplicables en 2014, 2015 y 2016: retribución a la inversión, número de horas equivalentes de funcionamiento mínimo, umbral de funcionamiento y otros parámetros retributivos.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_2">
-<col class="row_column_4">
-<col class="row_column_26">
-<col class="row_column_46">
-<col class="row_column_18">
-<col class="row_column_47">
-<col class="row_column_48">
-<col class="row_column_16">
-<col class="row_column_11">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_49">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de identificación</p>
+<p>Código de identificación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Coeficiente de ajuste C1,a</p>
+<p>Coeficiente de ajuste C1,a</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Retribución a la inversión Rinv 2014-2016 (€/MW)</p>
+<p>Retribución a la inversión Rinv 2014-2016 (€/MW)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º horas equivalentes de funcionamiento mínimo Nh Anual 2014-2016 (h)</p>
+<p>N.º horas equivalentes de funcionamiento mínimo Nh Anual 2014-2016 (h)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
+<p>Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (Porcentaje)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (Porcentaje)</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01528</p>
+<p>IT-01528</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02078</p>
+<p>IT-02078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 </tr>
 </tbody>
@@ -1417,199 +1400,188 @@ C. Segundo semiperiodo regulatorio: años 2017, 2018 y 2019.
 
 C.1 Parámetros retributivos de las instalaciones tipo aplicables en 2017, 2018 y 2019: retribución a la inversión, número de horas equivalentes de funcionamiento mínimo, umbral de funcionamiento y otros parámetros retributivos.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_41">
-<col class="row_column_36">
-<col class="row_column_41">
-<col class="row_column_42">
-<col class="row_column_52">
-<col class="row_column_47">
-<col class="row_column_23">
-<col class="row_column_23">
-<col class="row_column_23">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_49">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de identificación</p>
+<p>Código de identificación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Coeficiente de ajuste C1,a</p>
+<p>Coeficiente de ajuste C1,a</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Retribución a la inversión Rinv 2017-2019 </p>
-<p class="cabeza_tabla">(€/MW)</p>
+<p>Retribución a la inversión Rinv 2017-2019 </p>
+<p>(€/MW)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º horas equivalentes de funcionamiento mínimo Nh Anual 2017-2019 (h)</p>
+<p>N.º horas equivalentes de funcionamiento mínimo Nh Anual 2017-2019 (h)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Umbral de funcionamiento Uf anual 2017-2019 (h)</p>
+<p>Umbral de funcionamiento Uf anual 2017-2019 (h)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (Porcentaje)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (Porcentaje)</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00592</p>
+<p>IT-00592</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,9186</p>
+<p>0,9186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">97.112</p>
+<p>97.112</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">989</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">577</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr class="row_column_53">
-<td>
-<p class="cuerpo_tabla_centro">IT-00593</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,9070</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93.014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">989</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">577</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 </tr>
-<tr class="row_column_53">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00594</p>
+<p>IT-00593</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8944</p>
+<p>0,9070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">88.971</p>
+<p>93.014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">989</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">577</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr class="row_column_53">
-<td>
-<p class="cuerpo_tabla_centro">IT-01528</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">900</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>30</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02078</p>
+<p>IT-00594</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>0,8944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>88.971</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">900</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01528</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>900</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-02078</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>900</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>45</p>
 </td>
 </tr>
 </tbody>

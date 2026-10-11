@@ -308,8 +308,6 @@ La protección de la situación de dependencia por parte del Sistema se prestar�
 
 2.º El nivel de protección que se acuerde entre la Administración General del Estado y la Administración de cada una de las Comunidades Autónomas a través de los Convenios previstos en el artículo 10.
 
-> Téngase en cuenta que queda suspendida durante 2018 la aplicacion del apartado 2 según establece la disposición adicional 104 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268)
-
 3.º El nivel adicional de protección que pueda establecer cada Comunidad Autónoma.
 
 > Se suspende para el año 2018 la aplicación del apartado 2 por la disposición adicional 104 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268)

@@ -6176,22 +6176,22 @@ Serán deducibles de dicho importe de las inversiones la parte correspondiente a
 
 El período total de amortización técnica para las inversiones de regulación se fija en cincuenta años, durante los cuales persiste la obligación del pago del apartado c) del canon de regulación. La base imponible se obtendrá restando de la inversión total la amortización técnica lineal durante dicho período, lo que se traduce en la fórmula siguiente:
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Base imponible del año n =</p>
+<p>Base imponible del año n =</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50 - n + 1</p>
+<p>50 - n + 1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">× Inversión total</p>
+<p>× Inversión total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>50</p>
 </td>
 </tr>
 </tbody>
@@ -6203,22 +6203,22 @@ La base imponible del año n se ha de actualizar mediante la aplicación sucesiv
 
 Para las obras de regulación de aguas superficiales o subterráneas, realizadas o total o parcialmente a cargo del Estado, y con un régimen económico de aportación al coste de las obras regulado por la normativa anterior a la entrada en vigor de la Ley de Aguas, el período pendiente de pago será eI resultante del régimen fijado en su día para la financiación de las obras. Las anualidades restantes por satisfacer serán las correspondientes a dicho régimen de financiación, pero sujetas a una actualización porcentual acumulativa, teniendo en cuenta la amortización técnica y depreciación de la moneda, a partir de la entrada en vigor de la Ley de Aguas, de acuerdo con la siguiente fórmula:
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Valor actualizado de la anualidad = A (1 +</p>
+<p>Valor actualizado de la anualidad = A (1 +</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(Interés legal - 6) - b</p>
+<p>(Interés legal - 6) - b</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">)</p>
+<p>)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 </tr>
 </tbody>
@@ -6314,22 +6314,22 @@ Serán deducibles de dicho importe de las inversiones la parte correspondiente a
 
 La amortización técnica para las obras hidráulicas específicas realizadas íntegramente a cargo del Estado se concretará en cuanto al periodo total, fijando en veinticinco anualidades la duración de la obligación del pago del apartado c) de la tarifa de utilización del agua; en cuanto a la determinación de la parte no amortizada de la inversión se concretará suponiendo una depreciación lineal en el periodo de amortización, según la fórmula:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Base imponible del año n =</p>
+<p>Base imponible del año n =</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25 – n + 1</p>
+<p>25 – n + 1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">× Base imponible inicial</p>
+<p>× Base imponible inicial</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
 </tbody>
@@ -6341,22 +6341,22 @@ La actualización del valor de las inversiones se determinará en todos los caso
 
 Para las obras hidráulicas específicas realizadas íntegramente a cargo del Estado, con un régimen económico de aportación al coste de las obras regulado por la normativa anterior a la entrada en vigor de la Ley de Aguas, el periodo pendiente de pago será el resultante del régimen fijado en su día para la financiación de las obras. Las anualidades restantes por satisfacer serán las correspondientes a dicho régimen de financiación, pero sujetas a una actualización porcentual acumulativa, teniendo en cuenta la amortización técnica y depreciación de la moneda a partir de la entrada en vigor de la Ley de Aguas de acuerdo con la siguiente fórmula:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Valor actualizado de la anualidad = A (1 +</p>
+<p>Valor actualizado de la anualidad = A (1 +</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(Interés legal – 6) – b</p>
+<p>(Interés legal – 6) – b</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">)</p>
+<p>)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 </tr>
 </tbody>
@@ -7626,103 +7626,99 @@ Las referencias en el articulado de este reglamento “al Servicio jurídico” 
 
 A) Número de votos que corresponden a cada comunero en la Junta General constitutiva de la Comunidad de usuarios de aprovechamientos (artículos 201 y 228 bis):
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Caudal virtual* l/s</th>
-<th class="cabeza_tabla">Número de votos</th>
+<th>Caudal virtual* l/s</th>
+<th>Número de votos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta 1.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Hasta 1.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 1 hasta 2.</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>De 1 hasta 2.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 2 hasta 3.</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>De 2 hasta 3.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 3 hasta 5.</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>De 3 hasta 5.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 5 hasta 8.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>De 5 hasta 8.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 8 hasta 12.</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>De 8 hasta 12.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 12 hasta 16.</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>De 12 hasta 16.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 16 hasta 20.</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td>De 16 hasta 20.</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 20 hasta 25.</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>De 20 hasta 25.</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 25 hasta 30.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>De 25 hasta 30.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 30 hasta 35.</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td>De 30 hasta 35.</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 35 hasta 40.</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>De 35 hasta 40.</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 40 hasta 48.</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>De 40 hasta 48.</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 48 hasta 56.</td>
-<td class="cuerpo_tabla_centro">14</td>
+<td>De 48 hasta 56.</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 56 hasta 64.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>De 56 hasta 64.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 64 hasta 72.</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>De 64 hasta 72.</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 72 hasta 80.</td>
-<td class="cuerpo_tabla_centro">17</td>
+<td>De 72 hasta 80.</td>
+<td>17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 80 hasta 90.</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>De 80 hasta 90.</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 90 hasta 100.</td>
-<td class="cuerpo_tabla_centro">19</td>
+<td>De 90 hasta 100.</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 100 en adelante.</td>
-<td class="cuerpo_tabla_centro">19 más un voto por cada 25 l/s o fracción</td>
+<td>De 100 en adelante.</td>
+<td>19 más un voto por cada 25 l/s o fracción</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">* Cuando se trate de regadíos, el caudal virtual será igual al caudal teórico concedido. Si éste no estuviese determinado, te considerará como caudal virtual el de 0,8 l/s por cada hectárea con derecho a riego.</p>
+<p>* Cuando se trate de regadíos, el caudal virtual será igual al caudal teórico concedido. Si éste no estuviese determinado, te considerará como caudal virtual el de 0,8 l/s por cada hectárea con derecho a riego.</p>
 </td>
 </tr>
 </tfoot>
@@ -7825,53 +7821,48 @@ A) Ubicación.
 
 La tubería de cabeza del pozo debe sobresalir como mínimo 50 cm sobre la solera, garantizando, en todo caso, su visibilidad e identificación en el terreno. Con carácter general, no se ubicarán captaciones en zonas inundables; y en ese caso, se impone una sobreelevación de la boca de la captación de al menos 0,50 m por encima del máximo nivel que puedan alcanzar las aguas. Se respetarán las siguientes distancias mínimas de la captación respecto de los siguientes elementos:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Actividad</th>
-<th class="cabeza_tabla">Captaciones con entubación cementada al menos hasta 15 m de profundidad</th>
-<th class="cabeza_tabla">Captaciones con cementación y entubado de menos de 15 metros de profundidad</th>
+<th rowspan="2">Actividad</th>
+<th>Captaciones con entubación cementada al menos hasta 15 m de profundidad</th>
+<th>Captaciones con cementación y entubado de menos de 15 metros de profundidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Distancia en m</th>
-<th class="cabeza_tabla">Distancia en m</th>
+<th>Distancia en m</th>
+<th>Distancia en m</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Edificios sin subterráneos y viviendas aisladas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Edificios sin subterráneos y viviendas aisladas.</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tanques de combustible sobre base impermeable, conducciones de gas o de aguas residuales.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>Tanques de combustible sobre base impermeable, conducciones de gas o de aguas residuales.</td>
+<td>6</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Depósitos de combustible, agroquímicos, abono líquido y sustancias peligrosas, sobre base impermeable.</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">120</td>
+<td>Depósitos de combustible, agroquímicos, abono líquido y sustancias peligrosas, sobre base impermeable.</td>
+<td>60</td>
+<td>120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tanques de combustible, abono líquido y sustancias peligrosas sobre base no impermeable.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">200</td>
+<td>Tanques de combustible, abono líquido y sustancias peligrosas sobre base no impermeable.</td>
+<td>100</td>
+<td>200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Letrina. Pozo de drenaje o de infiltración y de fosa séptica individual.</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>Letrina. Pozo de drenaje o de infiltración y de fosa séptica individual.</td>
+<td>25</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lagos. Corrientes de agua. Balsas. Ríos.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>Lagos. Corrientes de agua. Balsas. Ríos.</td>
+<td>10</td>
+<td>20</td>
 </tr>
 </tbody>
 </table>
@@ -8170,105 +8161,100 @@ Notas:
 
 (***) Clasificación de los vertidos según la actividad industrial.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Cuadro de clasificación de los vertidos según la actividad industrial</th>
+<th colspan="3">Cuadro de clasificación de los vertidos según la actividad industrial</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Clase</th>
-<th class="cabeza_tabla">Grupo</th>
-<th class="cabeza_tabla">Descripción</th>
+<th>Clase</th>
+<th>Grupo</th>
+<th>Descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">Clase 1.</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Servicios.</td>
+<td rowspan="10">Clase 1.</td>
+<td>0</td>
+<td>Servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Energía y Agua.</td>
+<td>1</td>
+<td>Energía y Agua.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Metalurgia.</td>
+<td>2</td>
+<td>Metalurgia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Alimentación.</td>
+<td>3</td>
+<td>Alimentación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Conservera.</td>
+<td>4</td>
+<td>Conservera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Confección.</td>
+<td>5</td>
+<td>Confección.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Madera.</td>
+<td>6</td>
+<td>Madera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Manufacturas diversas.</td>
+<td>7</td>
+<td>Manufacturas diversas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7 Bis</td>
-<td class="cuerpo_tabla_izq">Agricultura, caza y pesca.</td>
+<td>7 Bis</td>
+<td>Agricultura, caza y pesca.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7 Ter</td>
-<td class="cuerpo_tabla_izq">Gestión de Residuos.</td>
+<td>7 Ter</td>
+<td>Gestión de Residuos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">Clase 2.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Minería.</td>
+<td rowspan="7">Clase 2.</td>
+<td>8</td>
+<td>Minería.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Química.</td>
+<td>9</td>
+<td>Química.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Construcción.</td>
+<td>10</td>
+<td>Construcción.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Bebidas y tabaco.</td>
+<td>11</td>
+<td>Bebidas y tabaco.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Carnes y lácteos.</td>
+<td>12</td>
+<td>Carnes y lácteos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Textil.</td>
+<td>13</td>
+<td>Textil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Papel.</td>
+<td>14</td>
+<td>Papel.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Clase 3.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Curtidos.</td>
+<td rowspan="3">Clase 3.</td>
+<td>15</td>
+<td>Curtidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Tratamiento de superficies.</td>
+<td>16</td>
+<td>Tratamiento de superficies.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Zootecnia.</td>
+<td>17</td>
+<td>Zootecnia.</td>
 </tr>
 </tbody>
 </table>
@@ -8285,52 +8271,48 @@ A los solos efectos de la aplicación de este factor, se consideran sustancias p
 
 (*****) La calidad ambiental del medio receptor depende de su clasificación en el Registro de Zonas Protegidas de la Demarcación Hidrográfica conforme a las siguientes categorías reguladas en el artículo 99 bis del TRLA.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Cuadro de categorías del medio receptor del apartado</th>
+<th colspan="2">Cuadro de categorías del medio receptor del apartado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Categoría I.</td>
-<td class="cuerpo_tabla_izq">Masas de agua en las que se realiza una captación de agua destinada a consumo humano.</td>
+<td rowspan="8">Categoría I.</td>
+<td>Masas de agua en las que se realiza una captación de agua destinada a consumo humano.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño.</td>
+<td>Masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zonas declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias.</td>
+<td>Zonas declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zonas declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas y sus áreas de captación.</td>
+<td>Zonas declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas y sus áreas de captación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zonas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección.</td>
+<td>Zonas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica.</td>
+<td>Perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reservas hidrológicas declaradas mediante acuerdo del Consejo de Ministros y reservas hidrológicas en las demarcaciones hidrográficas intracomunitarias.</td>
+<td>Reservas hidrológicas declaradas mediante acuerdo del Consejo de Ministros y reservas hidrológicas en las demarcaciones hidrográficas intracomunitarias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas subterráneas.</td>
+<td>Aguas subterráneas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Categoría II.</td>
-<td class="cuerpo_tabla_izq">Zonas de protección de especies acuáticas significativas desde el punto de vista económico.</td>
+<td rowspan="2">Categoría II.</td>
+<td>Zonas de protección de especies acuáticas significativas desde el punto de vista económico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otras zonas protegidas incluidas en el Registro de Zonas Protegidas.</td>
+<td>Otras zonas protegidas incluidas en el Registro de Zonas Protegidas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Categoría III.</td>
-<td class="cuerpo_tabla_izq">Las no incluidas en las categorías anteriores.</td>
+<td>Categoría III.</td>
+<td>Las no incluidas en las categorías anteriores.</td>
 </tr>
 </tbody>
 </table>
@@ -8729,44 +8711,39 @@ A) Coeficiente de peligrosidad (K<sub>PV</sub>) (en aplicación del artículo 32
 
 El coeficiente K<sub>PV</sub> se calculará para cada una de las muestras conforme a las siguientes fórmulas, en función de los grupos de parámetros indicados en el apartado 1 y del coeficiente de referencia U señalado en el apartado 2:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Parámetros del grupo A:</td>
-<td class="cuerpo_tabla_izq">para 1&lt; U &lt; 100.</td>
-<td class="cuerpo_tabla_izq">KPV = 0,7 U + 0,2.</td>
+<td rowspan="2">Parámetros del grupo A:</td>
+<td>para 1&lt; U &lt; 100.</td>
+<td>KPV = 0,7 U + 0,2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">para U ≥ 100.</td>
-<td class="cuerpo_tabla_izq">KPV = 70,2.</td>
+<td>para U ≥ 100.</td>
+<td>KPV = 70,2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Parámetros del grupo B:</td>
-<td class="cuerpo_tabla_izq">para 1&lt; U &lt; 100.</td>
-<td class="cuerpo_tabla_izq">KPV = 0,5 U + 0,4.</td>
+<td rowspan="2">Parámetros del grupo B:</td>
+<td>para 1&lt; U &lt; 100.</td>
+<td>KPV = 0,5 U + 0,4.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">para U ≥ 100.</td>
-<td class="cuerpo_tabla_izq">KPV = 50,4.</td>
+<td>para U ≥ 100.</td>
+<td>KPV = 50,4.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Parámetros del grupo C:</td>
-<td class="cuerpo_tabla_izq">para 1&lt; U &lt; 100.</td>
-<td class="cuerpo_tabla_izq">KPV = 0,13 U + 0,8.</td>
+<td rowspan="2">Parámetros del grupo C:</td>
+<td>para 1&lt; U &lt; 100.</td>
+<td>KPV = 0,13 U + 0,8.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">para U ≥ 100.</td>
-<td class="cuerpo_tabla_izq">KPV = 13,8.</td>
+<td>para U ≥ 100.</td>
+<td>KPV = 13,8.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parámetros grupos A, B y C:</td>
-<td class="cuerpo_tabla_izq">para U ≤ 1.</td>
-<td class="cuerpo_tabla_izq">KPV = 0.</td>
+<td>Parámetros grupos A, B y C:</td>
+<td>para U ≤ 1.</td>
+<td>KPV = 0.</td>
 </tr>
 </tbody>
 </table>
@@ -8839,247 +8816,237 @@ Grupo A: Sustancias peligrosas
 
 Siendo NCA-MA, la norma de calidad ambiental expresada como concentración media anual para aguas superficiales continentales.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_cursiva">Grupo B: Nutrientes y contaminantes específicos</p>
+<p>Grupo B: Nutrientes y contaminantes específicos</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contaminante</th>
-<th class="cabeza_tabla">CAS</th>
-<th class="cabeza_tabla">Vr (mg/l)</th>
+<th>Contaminante</th>
+<th>CAS</th>
+<th>Vr (mg/l)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Nutrientes</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amonio total (mg/L NH4).</td>
-<td class="cuerpo_tabla_centro">14798-03-9</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Amonio total (mg/L NH4).</td>
+<td>14798-03-9</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitratos.</td>
-<td class="cuerpo_tabla_centro">14797-55-8</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>Nitratos.</td>
+<td>14797-55-8</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitritos.</td>
-<td class="cuerpo_tabla_centro">14797-65-0</td>
-<td class="cuerpo_tabla_centro">0,03</td>
+<td>Nitritos.</td>
+<td>14797-65-0</td>
+<td>0,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitrógeno Kjeldahl (mg/L N).</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Nitrógeno Kjeldahl (mg/L N).</td>
+<td>No aplicable</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitrógeno total (mg/L N).</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Nitrógeno total (mg/L N).</td>
+<td>No aplicable</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fosfatos (mg/L PO4).</td>
-<td class="cuerpo_tabla_centro">14265-44-2</td>
-<td class="cuerpo_tabla_centro">0,7</td>
+<td>Fosfatos (mg/L PO4).</td>
+<td>14265-44-2</td>
+<td>0,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fósforo total (mg/L P).</td>
-<td class="cuerpo_tabla_centro">14265-44-2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
+<td>Fósforo total (mg/L P).</td>
+<td>14265-44-2</td>
+<td>0,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Contaminantes específicos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contaminantes del anexo VI del RD 817/2015, de 11 de septiembre.</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">NCA aprobada en el Plan hidrológico</td>
+<td>Contaminantes del anexo VI del RD 817/2015, de 11 de septiembre.</td>
+<td>No aplicable</td>
+<td>NCA aprobada en el Plan hidrológico</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidrocarburos.</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Hidrocarburos.</td>
+<td>No aplicable</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceites y grasas.</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Aceites y grasas.</td>
+<td>No aplicable</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bario.</td>
-<td class="cuerpo_tabla_centro">7440-39-3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Bario.</td>
+<td>7440-39-3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Berilio.</td>
-<td class="cuerpo_tabla_centro">7440-41-7</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Berilio.</td>
+<td>7440-41-7</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Boro.</td>
-<td class="cuerpo_tabla_centro">7440-42-8</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Boro.</td>
+<td>7440-42-8</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cloro total.</td>
-<td class="cuerpo_tabla_centro">7782-50-5</td>
-<td class="cuerpo_tabla_centro">0,005</td>
+<td>Cloro total.</td>
+<td>7782-50-5</td>
+<td>0,005</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobalto.</td>
-<td class="cuerpo_tabla_centro">7440-48-4</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Cobalto.</td>
+<td>7440-48-4</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hierro.</td>
-<td class="cuerpo_tabla_centro">7439-89-6</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Hierro.</td>
+<td>7439-89-6</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manganeso.</td>
-<td class="cuerpo_tabla_centro">7439-96-5</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Manganeso.</td>
+<td>7439-96-5</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tensoactivos aniónicos.</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Tensoactivos aniónicos.</td>
+<td>No aplicable</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vanadio.</td>
-<td class="cuerpo_tabla_centro">7440-62-2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Vanadio.</td>
+<td>7440-62-2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biocidas y productos fitosanitarios.</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">0,001</td>
+<td>Biocidas y productos fitosanitarios.</td>
+<td>No aplicable</td>
+<td>0,001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Toxicidad</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toxicidad en UT.</td>
-<td class="cuerpo_tabla_centro">No aplicable</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Toxicidad en UT.</td>
+<td>No aplicable</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_cursiva">Grupo C: Otros parámetros</p>
+<p>Grupo C: Otros parámetros</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Contaminante</th>
-<th class="cabeza_tabla">Unidades</th>
-<th class="cabeza_tabla">Vr</th>
+<th>Contaminante</th>
+<th>Unidades</th>
+<th>Vr</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Elementos de calidad del estado</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Incremento de temperatura en el medio receptor.</td>
-<td class="cuerpo_tabla_centro">ºC</td>
-<td class="cuerpo_tabla_centro">3.ºC</td>
+<td>Incremento de temperatura en el medio receptor.</td>
+<td>ºC</td>
+<td>3.ºC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demanda bioquímica de oxígeno (DBO5 a 20.ºC) sin nitrificación.</td>
-<td class="cuerpo_tabla_centro">mg/L de O<sub>2</sub></td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Demanda bioquímica de oxígeno (DBO5 a 20.ºC) sin nitrificación.</td>
+<td>mg/L de O<sub>2</sub></td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conductividad eléctrica a 20.ºC.</td>
-<td class="cuerpo_tabla_centro">μS/cm</td>
-<td class="cuerpo_tabla_centro">1000</td>
+<td>Conductividad eléctrica a 20.ºC.</td>
+<td>μS/cm</td>
+<td>1000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_centro">mg/L</td>
-<td class="cuerpo_tabla_centro">200</td>
+<td>Cloruros.</td>
+<td>mg/L</td>
+<td>200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sulfatos.</td>
-<td class="cuerpo_tabla_centro">mg/L</td>
-<td class="cuerpo_tabla_centro">250</td>
+<td>Sulfatos.</td>
+<td>mg/L</td>
+<td>250</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_centro">Ud de pH</td>
-<td class="cuerpo_tabla_centro">5,5-9</td>
+<td>pH.</td>
+<td>Ud de pH</td>
+<td>5,5-9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Otros</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Color.</td>
-<td class="cuerpo_tabla_centro">mg Pt /L</td>
-<td class="cuerpo_tabla_centro">200</td>
+<td>Color.</td>
+<td>mg Pt /L</td>
+<td>200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sólidos en suspensión.</td>
-<td class="cuerpo_tabla_centro">mg/L</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>Sólidos en suspensión.</td>
+<td>mg/L</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demanda química de oxígeno (DQO).</td>
-<td class="cuerpo_tabla_centro">mg/L</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Demanda química de oxígeno (DQO).</td>
+<td>mg/L</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Microbiológicos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coliformes fecales.</td>
-<td class="cuerpo_tabla_centro">UFC/100 mL</td>
-<td class="cuerpo_tabla_centro">20000</td>
+<td>Coliformes fecales.</td>
+<td>UFC/100 mL</td>
+<td>20000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coliformes totales 37 ºC.</td>
-<td class="cuerpo_tabla_centro">UFC/100 mL</td>
-<td class="cuerpo_tabla_centro">50000</td>
+<td>Coliformes totales 37 ºC.</td>
+<td>UFC/100 mL</td>
+<td>50000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enterovirus.</td>
-<td class="cuerpo_tabla_centro">PFU/10 mL</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>Enterovirus.</td>
+<td>PFU/10 mL</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estreptococos fecales.</td>
-<td class="cuerpo_tabla_centro">UFC/100 mL</td>
-<td class="cuerpo_tabla_centro">10000</td>
+<td>Estreptococos fecales.</td>
+<td>UFC/100 mL</td>
+<td>10000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Salmonelas.</td>
-<td class="cuerpo_tabla_centro">En 1L</td>
-<td class="cuerpo_tabla_centro">Ausencia</td>
+<td>Salmonelas.</td>
+<td>En 1L</td>
+<td>Ausencia</td>
 </tr>
 </tbody>
 </table>
@@ -9140,56 +9107,52 @@ Si un residuo puede catalogarse en varios tipos, se tomará el coste de referenc
 
 E) Coste del Impacto por Contaminante (CIC) (en aplicación del artículo 326 ter.3).
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Sustancias<sup>1</sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Coste del impacto</p>
-<p class="cabeza_tabla">Por contaminante (CIC, €)</p>
+<th>Sustancias<sup>1</sup></th>
+<th>
+<p>Coste del impacto</p>
+<p>Por contaminante (CIC, €)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hidrocarburos<sup>2.</sup></td>
-<td class="cuerpo_tabla_centro">3.000</td>
+<td>Hidrocarburos<sup>2.</sup></td>
+<td>3.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metales.</td>
-<td class="cuerpo_tabla_centro">5.000</td>
+<td>Metales.</td>
+<td>5.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pesticidas.</td>
-<td class="cuerpo_tabla_centro">5.000</td>
+<td>Pesticidas.</td>
+<td>5.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organoclorados/Clorofenoles.</td>
-<td class="cuerpo_tabla_centro">7.000</td>
+<td>Organoclorados/Clorofenoles.</td>
+<td>7.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAH.</td>
-<td class="cuerpo_tabla_centro">4.500</td>
+<td>PAH.</td>
+<td>4.500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PCBS.</td>
-<td class="cuerpo_tabla_centro">4.500</td>
+<td>PCBS.</td>
+<td>4.500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros<sup>3.</sup></td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>Otros<sup>3.</sup></td>
+<td>1.000</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>1</sup> Las sustancias individuales se asignarán a los grupos de sustancias de acuerdo con el anexo X, parte B, así como a las clasificaciones químicas estándar.</p>
-<p class="cita"><sup>2</sup> Incluidos los BTEX, HTP Alifáticos, HTP Aromáticos, ETBE y MTBE.</p>
-<p class="cita"><sup>3</sup> Incluyen, como mínimo, las sustancias enumeradas en el anexo X no incluidas en los grupos anteriores.</p>
+<p><sup>1</sup> Las sustancias individuales se asignarán a los grupos de sustancias de acuerdo con el anexo X, parte B, así como a las clasificaciones químicas estándar.</p>
+<p><sup>2</sup> Incluidos los BTEX, HTP Alifáticos, HTP Aromáticos, ETBE y MTBE.</p>
+<p><sup>3</sup> Incluyen, como mínimo, las sustancias enumeradas en el anexo X no incluidas en los grupos anteriores.</p>
 </td>
 </tr>
 </tfoot>
@@ -9197,44 +9160,40 @@ E) Coste del Impacto por Contaminante (CIC) (en aplicación del artículo 326 te
 
 F) Parámetros modificadores: tipo de acuífero (K<sub>AQ</sub>), receptores sensibles a la contaminación (K<sub>RC</sub>), migración exterior de la contaminación (K<sub>EXT</sub>) y uso del suelo en la zona afectada (K<sub>US</sub>) (en aplicación del artículo 326 ter.3).
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Parámetros modificadores (adimensionales)</p>
+<p>Parámetros modificadores (adimensionales)</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de sustrato</th>
-<th class="cabeza_tabla">K<sub>AQ</sub></th>
+<th>Tipo de sustrato</th>
+<th>K<sub>AQ</sub></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Detrítico.</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Detrítico.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Kárstico.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Kárstico.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fisurado.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
+<td>Fisurado.</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baja permeabilidad.</td>
-<td class="cuerpo_tabla_coma">0,2</td>
+<td>Baja permeabilidad.</td>
+<td>0,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Material de relleno con acumulación de agua*.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
+<td>Material de relleno con acumulación de agua*.</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mixto.</td>
-<td class="cuerpo_tabla_coma">1,5</td>
+<td>Mixto.</td>
+<td>1,5</td>
 </tr>
 </tbody>
 <tfoot>
@@ -9258,29 +9217,25 @@ F) Parámetros modificadores: tipo de acuífero (K<sub>AQ</sub>), receptores sen
 | Captaciones para uso industrial/recreativo. | 2 |
 | Sin captaciones/receptores. | 1 |
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Migración exterior*</th>
-<th class="cabeza_tabla">K<sub>EXT</sub></th>
+<th>Migración exterior*</th>
+<th>K<sub>EXT</sub></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Si.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
+<td>Si.</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desconocido.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
+<td>Desconocido.</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>No.</td>
+<td>1</td>
 </tr>
 </tbody>
 <tfoot>
@@ -9448,374 +9403,367 @@ Para vertidos a dominio público marítimo-terrestre: longitud, diámetro y prof
 
 Con el objeto de establecer recomendaciones en las cuatro zonas de restricción a la hora de establecer la regulación de las actividades en las distintas tipologías de perímetros de protección establecidas en este Reglamento, se establecen las siguientes recomendaciones, basadas en la zonificación completa de los perímetros de protección de las aguas subterráneas definida en el artículo 243 quinquies, que deberán ser adaptadas al resto de tipologías de perímetros de protección en la definición de los mismos por las administraciones competentes en cada caso.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="3">Zona de protección</th>
-<th class="cabeza_tabla">Zona</th>
+<th rowspan="2"> </th>
+<th colspan="3">Zona de protección</th>
+<th>Zona</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">R. Absolutas</th>
-<th class="cabeza_tabla">R. Máximas</th>
-<th class="cabeza_tabla">R. Moderadas</th>
-<th class="cabeza_tabla">R. Mínimas e islas satélites</th>
+<th>R. Absolutas</th>
+<th>R. Máximas</th>
+<th>R. Moderadas</th>
+<th>R. Mínimas e islas satélites</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Vertidos líquidos (sin depurar)</td>
+<td colspan="5">Vertidos líquidos (sin depurar)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fosas sépticas.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Fosas sépticas.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas de redes de alcantarillado pluviales.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Si.</td>
+<td>Aguas de redes de alcantarillado pluviales.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Si.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Residuos sólidos.</td>
+<td colspan="5">Residuos sólidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vertederos residuos inertes.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Vertederos residuos inertes.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vertederos residuos no peligrosos.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Vertederos residuos no peligrosos.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vertederos residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Vertederos residuos peligrosos.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Depósitos de seguridad de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Depósitos de seguridad de residuos peligrosos.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Aplicación agrícola de efluentes, fangos y purines tratados</td>
+<td colspan="5">Aplicación agrícola de efluentes, fangos y purines tratados</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas residuales con tratamiento primario.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Aguas residuales con tratamiento primario.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas residuales con tratamiento primario y biológico.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Aguas residuales con tratamiento primario y biológico.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas residuales con tratamiento primario, secundario y terciario.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Si.</td>
-<td class="cuerpo_tabla_izq">Si.</td>
+<td>Aguas residuales con tratamiento primario, secundario y terciario.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Si.</td>
+<td>Si.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fangos de depuración estabilizados que cumplen RD 1310/90.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Fangos de depuración estabilizados que cumplen RD 1310/90.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aplicación purines estabilizados por compostaje.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Aplicación purines estabilizados por compostaje.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aplicación de purines no estabilizados por compostaje.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Aplicación de purines no estabilizados por compostaje.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aplicación de estiércoles sólidos.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Si.</td>
+<td>Aplicación de estiércoles sólidos.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Si.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Actividades industriales sujetas la legislación IPPC<sup>1</sup></td>
+<td colspan="5">Actividades industriales sujetas la legislación IPPC<sup>1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actividades industriales sujetas a IPPC no conectadas a la red de saneamiento municipal.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Actividades industriales sujetas a IPPC no conectadas a la red de saneamiento municipal.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actividades industriales sujetas a IPPC, conectadas a la red de saneamiento municipal.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Actividades industriales sujetas a IPPC, conectadas a la red de saneamiento municipal.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almacenamiento de graneles.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Almacenamiento de graneles.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almacenamiento de productos insalubres, nocivos y peligrosos procedentes de actividades industriales IPPC.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Almacenamiento de productos insalubres, nocivos y peligrosos procedentes de actividades industriales IPPC.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Balsas.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Balsas.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Depósitos de almacenamiento enterrados.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Depósitos de almacenamiento enterrados.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almacenamiento temporal o trasiego de sustancias contaminantes.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Almacenamiento temporal o trasiego de sustancias contaminantes.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transporte de sustancias contaminantes a través de conducciones.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Transporte de sustancias contaminantes a través de conducciones.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transporte rodado de sustancias contaminantes excepto fertilizantes.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Transporte rodado de sustancias contaminantes excepto fertilizantes.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desaguaces y chatarras.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Desaguaces y chatarras.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolineras y depósitos de hidrocarburos.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Gasolineras y depósitos de hidrocarburos.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Centrales térmicas de producción energética.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Centrales térmicas de producción energética.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estaciones y subestaciones eléctricas y transformadores.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Estaciones y subestaciones eléctricas y transformadores.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Obras subterráneas, infraestructuras y equipamientos.</td>
+<td colspan="5">Obras subterráneas, infraestructuras y equipamientos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pozos, sondeos y galerías para abastecimiento público.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Pozos, sondeos y galerías para abastecimiento público.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros pozos, sondeos y galerías de captación.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Otros pozos, sondeos y galerías de captación.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canteras, minas túneles, excavaciones, redes viarias, aeródromos y edificaciones bajo el nivel freático.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Canteras, minas túneles, excavaciones, redes viarias, aeródromos y edificaciones bajo el nivel freático.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canteras, minas túneles, excavaciones, redes viarias, aeródromos y edificaciones, en seco.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Canteras, minas túneles, excavaciones, redes viarias, aeródromos y edificaciones, en seco.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inyección o recarga de aguas resultantes de operaciones mineras o asociadas a la construcción y mantenimiento de obras de ingeniería o edificación.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Inyección o recarga de aguas resultantes de operaciones mineras o asociadas a la construcción y mantenimiento de obras de ingeniería o edificación.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rellenos y terraplenes con suelos contaminados.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Rellenos y terraplenes con suelos contaminados.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuarteles, depósitos o zonas militares.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Cuarteles, depósitos o zonas militares.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estaciones de tratamiento de aguas residuales.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Estaciones de tratamiento de aguas residuales.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cementerio.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Cementerio.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campings, zonas deportivas y piscinas públicas.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Si.</td>
+<td>Campings, zonas deportivas y piscinas públicas.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Si.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zoológicos y safaris.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Si.</td>
+<td>Zoológicos y safaris.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Si.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zonas industriales.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Zonas industriales.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">Actividades agrícolas</td>
+<td colspan="5">Actividades agrícolas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Granjas de ganado porcino y vacuno.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Granjas de ganado porcino y vacuno.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Granjas de ganado caprino y ovino.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Granjas de ganado caprino y ovino.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Granjas de aves y conejos.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Granjas de aves y conejos.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ganadería extensiva.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Ganadería extensiva.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Depósitos de fertilizantes.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Depósitos de fertilizantes.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Depósitos y balsas de purines.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
+<td>Depósitos y balsas de purines.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almacenamiento de estiércoles.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Almacenamiento de estiércoles.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aplicación de fertilizantes o plaguicidas.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
-<td class="cuerpo_tabla_izq">Condicionado.</td>
+<td>Aplicación de fertilizantes o plaguicidas.</td>
+<td>No.</td>
+<td>No.</td>
+<td>Condicionado.</td>
+<td>Condicionado.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"> </p>
-<p class="cita"><sup>1</sup> Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación.</p>
+<p> </p>
+<p><sup>1</sup> Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación.</p>
 </td>
 </tr>
 </tfoot>
@@ -9949,534 +9897,527 @@ Definición, caracterización y descripción de todos los receptores sensibles d
 
 Parte B. Valores genéricos de referencia de calidad de las aguas subterráneas.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categoría</th>
-<th class="cabeza_tabla">N.º Cas</th>
-<th class="cabeza_tabla">Contaminante</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">VGNR</p>
-<p class="cabeza_tabla">µg/l</p>
+<th>Categoría</th>
+<th>N.º Cas</th>
+<th>Contaminante</th>
+<th>
+<p>VGNR</p>
+<p>µg/l</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">VGI</p>
-<p class="cabeza_tabla">µg/l</p>
+<th>
+<p>VGI</p>
+<p>µg/l</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">Metales.</td>
-<td class="cuerpo_tabla_izq">7440-36-0.</td>
-<td class="cuerpo_tabla_izq">Antimonio.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td rowspan="9">Metales.</td>
+<td>7440-36-0.</td>
+<td>Antimonio.</td>
+<td>20</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7440-38-2.</td>
-<td class="cuerpo_tabla_izq">Arsénico.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>7440-38-2.</td>
+<td>Arsénico.</td>
+<td>15</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7440-43-9.</td>
-<td class="cuerpo_tabla_izq">Cadmio.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">70</td>
+<td>7440-43-9.</td>
+<td>Cadmio.</td>
+<td>15</td>
+<td>70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18540-29-9.</td>
-<td class="cuerpo_tabla_izq">Cromo VI.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">450</td>
+<td>18540-29-9.</td>
+<td>Cromo VI.</td>
+<td>100</td>
+<td>450</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7439-97-6.</td>
-<td class="cuerpo_tabla_izq">Mercurio.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1,5</td>
+<td>7439-97-6.</td>
+<td>Mercurio.</td>
+<td>1</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7440-50-8.</td>
-<td class="cuerpo_tabla_izq">Cobre.</td>
-<td class="cuerpo_tabla_centro">1.000</td>
-<td class="cuerpo_tabla_centro">2.000</td>
+<td>7440-50-8.</td>
+<td>Cobre.</td>
+<td>1.000</td>
+<td>2.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7439-92-1.</td>
-<td class="cuerpo_tabla_izq">Plomo.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">500</td>
+<td>7439-92-1.</td>
+<td>Plomo.</td>
+<td>50</td>
+<td>500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7440-02-0.</td>
-<td class="cuerpo_tabla_izq">Níquel.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">500</td>
+<td>7440-02-0.</td>
+<td>Níquel.</td>
+<td>100</td>
+<td>500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7440-66-6.</td>
-<td class="cuerpo_tabla_izq">Zinc.</td>
-<td class="cuerpo_tabla_centro">300</td>
-<td class="cuerpo_tabla_centro">3.000</td>
+<td>7440-66-6.</td>
+<td>Zinc.</td>
+<td>300</td>
+<td>3.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">Pesticidas.</td>
-<td class="cuerpo_tabla_izq">319-84-6.</td>
-<td class="cuerpo_tabla_izq">alfa-HCH.</td>
-<td class="cuerpo_tabla_centro">0,1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td rowspan="12">Pesticidas.</td>
+<td>319-84-6.</td>
+<td>alfa-HCH.</td>
+<td>0,1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">319-85-7.</td>
-<td class="cuerpo_tabla_izq">beta-HCH.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3,5</td>
+<td>319-85-7.</td>
+<td>beta-HCH.</td>
+<td>1</td>
+<td>3,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">58-89-9.</td>
-<td class="cuerpo_tabla_izq">Lindano (gamma-HCH).</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>58-89-9.</td>
+<td>Lindano (gamma-HCH).</td>
+<td>2</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">87-68-3.</td>
-<td class="cuerpo_tabla_izq">Hexacloro-1,3-butadieno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>87-68-3.</td>
+<td>Hexacloro-1,3-butadieno.</td>
+<td>10</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7287-19-6.</td>
-<td class="cuerpo_tabla_izq">Prometrina.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">300</td>
+<td>7287-19-6.</td>
+<td>Prometrina.</td>
+<td>100</td>
+<td>300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">886-50-0.</td>
-<td class="cuerpo_tabla_izq">Terbutrina.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td>886-50-0.</td>
+<td>Terbutrina.</td>
+<td>20</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">72-54-8.</td>
-<td class="cuerpo_tabla_izq">p,p'-DDD.</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>72-54-8.</td>
+<td>p,p'-DDD.</td>
+<td>0,3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">72-55-9.</td>
-<td class="cuerpo_tabla_izq">p,p'-DDE.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>72-55-9.</td>
+<td>p,p'-DDE.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">50-29-3.</td>
-<td class="cuerpo_tabla_izq">p,p'-DDT.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>50-29-3.</td>
+<td>p,p'-DDT.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">330-54-1.</td>
-<td class="cuerpo_tabla_izq">Diuron.</td>
-<td class="cuerpo_tabla_centro">300</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>330-54-1.</td>
+<td>Diuron.</td>
+<td>300</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">110-54-3.</td>
-<td class="cuerpo_tabla_izq">n-Hexano.</td>
-<td class="cuerpo_tabla_centro">900</td>
-<td class="cuerpo_tabla_centro">3.000</td>
+<td>110-54-3.</td>
+<td>n-Hexano.</td>
+<td>900</td>
+<td>3.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">123-91-1.</td>
-<td class="cuerpo_tabla_izq">1,4-Dioxano.</td>
-<td class="cuerpo_tabla_centro">300</td>
-<td class="cuerpo_tabla_centro">700</td>
+<td>123-91-1.</td>
+<td>1,4-Dioxano.</td>
+<td>300</td>
+<td>700</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">BTEX.</td>
-<td class="cuerpo_tabla_izq">71-43-2.</td>
-<td class="cuerpo_tabla_izq">Benceno.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td rowspan="4">BTEX.</td>
+<td>71-43-2.</td>
+<td>Benceno.</td>
+<td>20</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">100-41-4.</td>
-<td class="cuerpo_tabla_izq">Etilbenceno.</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">230</td>
+<td>100-41-4.</td>
+<td>Etilbenceno.</td>
+<td>70</td>
+<td>230</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1330-20-7.</td>
-<td class="cuerpo_tabla_izq">Xileno (suma isómeros).</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">450</td>
+<td>1330-20-7.</td>
+<td>Xileno (suma isómeros).</td>
+<td>150</td>
+<td>450</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">108-88-3.</td>
-<td class="cuerpo_tabla_izq">Tolueno.</td>
-<td class="cuerpo_tabla_centro">170</td>
-<td class="cuerpo_tabla_centro">600</td>
+<td>108-88-3.</td>
+<td>Tolueno.</td>
+<td>170</td>
+<td>600</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">HTP Alifáticos.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">No aplica.</td>
-<td class="cuerpo_tabla_izq">Rango C 5‐6.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro" rowspan="13">5.000</td>
+<td rowspan="6">HTP Alifáticos.</td>
+<td rowspan="6">No aplica.</td>
+<td>Rango C 5‐6.</td>
+<td>40</td>
+<td rowspan="13">5.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 6‐8.</td>
-<td class="cuerpo_tabla_centro">600</td>
+<td>Rango C 6‐8.</td>
+<td>600</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 8‐10.</td>
-<td class="cuerpo_tabla_centro">160</td>
+<td>Rango C 8‐10.</td>
+<td>160</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 10‐12.</td>
-<td class="cuerpo_tabla_centro">160</td>
+<td>Rango C 10‐12.</td>
+<td>160</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 12‐16.</td>
-<td class="cuerpo_tabla_centro">90</td>
+<td>Rango C 12‐16.</td>
+<td>90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 16‐35.</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>Rango C 16‐35.</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">HTP Aromáticos.</td>
-<td class="cuerpo_tabla_izq" rowspan="7">No aplica.</td>
-<td class="cuerpo_tabla_izq">Rango C 5‐7.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="7">HTP Aromáticos.</td>
+<td rowspan="7">No aplica.</td>
+<td>Rango C 5‐7.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 7‐8.</td>
-<td class="cuerpo_tabla_centro">320</td>
+<td>Rango C 7‐8.</td>
+<td>320</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 8‐10.</td>
-<td class="cuerpo_tabla_centro">140</td>
+<td>Rango C 8‐10.</td>
+<td>140</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 10‐12.</td>
-<td class="cuerpo_tabla_centro">270</td>
+<td>Rango C 10‐12.</td>
+<td>270</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 12‐16.</td>
-<td class="cuerpo_tabla_centro">280</td>
+<td>Rango C 12‐16.</td>
+<td>280</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 16‐21.</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>Rango C 16‐21.</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rango C 21‐35.</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>Rango C 21‐35.</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="22">Organo-clorados.</td>
-<td class="cuerpo_tabla_izq">75-34-3.</td>
-<td class="cuerpo_tabla_izq">1,1-Dicloroetano.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">300</td>
+<td rowspan="22">Organo-clorados.</td>
+<td>75-34-3.</td>
+<td>1,1-Dicloroetano.</td>
+<td>100</td>
+<td>300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">107-06-2.</td>
-<td class="cuerpo_tabla_izq">1,2-Dicloroetano.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>107-06-2.</td>
+<td>1,2-Dicloroetano.</td>
+<td>10</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">79-34-5.</td>
-<td class="cuerpo_tabla_izq">1,1,2,2-Tetracloroetano.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>79-34-5.</td>
+<td>1,1,2,2-Tetracloroetano.</td>
+<td>7</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">71-55-6.</td>
-<td class="cuerpo_tabla_izq">1,1,1-Tricloroetano.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">300</td>
+<td>71-55-6.</td>
+<td>1,1,1-Tricloroetano.</td>
+<td>100</td>
+<td>300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">526-73-8.</td>
-<td class="cuerpo_tabla_izq">1,2,3-Trimetilbenceno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>526-73-8.</td>
+<td>1,2,3-Trimetilbenceno.</td>
+<td>10</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">108-67-8.</td>
-<td class="cuerpo_tabla_izq">1,3,5-Trimetilbenceno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>108-67-8.</td>
+<td>1,3,5-Trimetilbenceno.</td>
+<td>10</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">67-66-3.</td>
-<td class="cuerpo_tabla_izq">Cloroformo.</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">210</td>
+<td>67-66-3.</td>
+<td>Cloroformo.</td>
+<td>70</td>
+<td>210</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">75-09-2.</td>
-<td class="cuerpo_tabla_izq">Diclorometano.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>75-09-2.</td>
+<td>Diclorometano.</td>
+<td>100</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">56-23-5.</td>
-<td class="cuerpo_tabla_izq">Tetracloruro de carbono.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>56-23-5.</td>
+<td>Tetracloruro de carbono.</td>
+<td>8</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">95-50-1.</td>
-<td class="cuerpo_tabla_izq">1,2-Diclorobenceno.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>95-50-1.</td>
+<td>1,2-Diclorobenceno.</td>
+<td>100</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">541-73-1.</td>
-<td class="cuerpo_tabla_izq">1,3-Diclorobenceno.</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>541-73-1.</td>
+<td>1,3-Diclorobenceno.</td>
+<td>200</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">106-46-7.</td>
-<td class="cuerpo_tabla_izq">1,4-Diclorobenceno.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">300</td>
+<td>106-46-7.</td>
+<td>1,4-Diclorobenceno.</td>
+<td>100</td>
+<td>300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">79-01-6.</td>
-<td class="cuerpo_tabla_izq">Tricloroetileno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>79-01-6.</td>
+<td>Tricloroetileno.</td>
+<td>10</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">75-35-4.</td>
-<td class="cuerpo_tabla_izq">1,1-Dicloroeteno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td>75-35-4.</td>
+<td>1,1-Dicloroeteno.</td>
+<td>10</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">156-60-5.</td>
-<td class="cuerpo_tabla_izq">trans-1,2-Dicloroeteno.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">240</td>
+<td>156-60-5.</td>
+<td>trans-1,2-Dicloroeteno.</td>
+<td>80</td>
+<td>240</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">156-59-2.</td>
-<td class="cuerpo_tabla_izq">cis-1,2-Dicloroeteno.</td>
-<td class="cuerpo_tabla_centro">270</td>
-<td class="cuerpo_tabla_centro">800</td>
+<td>156-59-2.</td>
+<td>cis-1,2-Dicloroeteno.</td>
+<td>270</td>
+<td>800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">75-01-4.</td>
-<td class="cuerpo_tabla_izq">Cloruro de vinilo.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>75-01-4.</td>
+<td>Cloruro de vinilo.</td>
+<td>2</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">127-18-4.</td>
-<td class="cuerpo_tabla_izq">Tetracloroetileno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">75</td>
+<td>127-18-4.</td>
+<td>Tetracloroetileno.</td>
+<td>10</td>
+<td>75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">118-74-1.</td>
-<td class="cuerpo_tabla_izq">Hexaclorobenceno.</td>
-<td class="cuerpo_tabla_centro">0,05</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>118-74-1.</td>
+<td>Hexaclorobenceno.</td>
+<td>0,05</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">79-00-5.</td>
-<td class="cuerpo_tabla_izq">1,1,2-Tricloroetano.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>79-00-5.</td>
+<td>1,1,2-Tricloroetano.</td>
+<td>4</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">108-90-7.</td>
-<td class="cuerpo_tabla_izq">Clorobenceno.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">240</td>
+<td>108-90-7.</td>
+<td>Clorobenceno.</td>
+<td>50</td>
+<td>240</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">75-25-2.</td>
-<td class="cuerpo_tabla_izq">Bromoformo.</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">450</td>
+<td>75-25-2.</td>
+<td>Bromoformo.</td>
+<td>150</td>
+<td>450</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Cloro-fenoles.</td>
-<td class="cuerpo_tabla_izq">59-50-7.</td>
-<td class="cuerpo_tabla_izq">4-Cloro-3-metilfenol.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">650</td>
+<td rowspan="6">Cloro-fenoles.</td>
+<td>59-50-7.</td>
+<td>4-Cloro-3-metilfenol.</td>
+<td>5</td>
+<td>650</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">95-57-8.</td>
-<td class="cuerpo_tabla_izq">2-Clorofenol.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>95-57-8.</td>
+<td>2-Clorofenol.</td>
+<td>5</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">120-83-2.</td>
-<td class="cuerpo_tabla_izq">2,4-Diclorofenol.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">500</td>
+<td>120-83-2.</td>
+<td>2,4-Diclorofenol.</td>
+<td>3</td>
+<td>500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">58-90-2.</td>
-<td class="cuerpo_tabla_izq">2,3,4,6-Tetraclorofenol.</td>
-<td class="cuerpo_tabla_centro">300</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>58-90-2.</td>
+<td>2,3,4,6-Tetraclorofenol.</td>
+<td>300</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">95-95-4.</td>
-<td class="cuerpo_tabla_izq">2,4,5-Triclorofenol.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>95-95-4.</td>
+<td>2,4,5-Triclorofenol.</td>
+<td>100</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">88-06-2.</td>
-<td class="cuerpo_tabla_izq">2,4,6-Triclorofenol.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">120</td>
+<td>88-06-2.</td>
+<td>2,4,6-Triclorofenol.</td>
+<td>1</td>
+<td>120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">PAH.</td>
-<td class="cuerpo_tabla_izq">91-20-3.</td>
-<td class="cuerpo_tabla_izq">Naftaleno.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">500</td>
+<td rowspan="12">PAH.</td>
+<td>91-20-3.</td>
+<td>Naftaleno.</td>
+<td>10</td>
+<td>500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">83-32-9.</td>
-<td class="cuerpo_tabla_izq">Acenafteno.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">1000</td>
+<td>83-32-9.</td>
+<td>Acenafteno.</td>
+<td>20</td>
+<td>1000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">56-55-3.</td>
-<td class="cuerpo_tabla_izq">Benzo(A)Antraceno.</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,8</td>
+<td>56-55-3.</td>
+<td>Benzo(A)Antraceno.</td>
+<td>0,3</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">50-32-8.</td>
-<td class="cuerpo_tabla_izq">Benzo(A)Pireno.</td>
-<td class="cuerpo_tabla_centro">0,004</td>
-<td class="cuerpo_tabla_centro">0,01</td>
+<td>50-32-8.</td>
+<td>Benzo(A)Pireno.</td>
+<td>0,004</td>
+<td>0,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">205-99-2.</td>
-<td class="cuerpo_tabla_izq">Benzo(B)Fluoranteno.</td>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">0,2</td>
+<td>205-99-2.</td>
+<td>Benzo(B)Fluoranteno.</td>
+<td>0,08</td>
+<td>0,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">207-08-9.</td>
-<td class="cuerpo_tabla_izq">Benzo(K)Fluoranteno.</td>
-<td class="cuerpo_tabla_centro">0,06</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>207-08-9.</td>
+<td>Benzo(K)Fluoranteno.</td>
+<td>0,06</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">218-01-9.</td>
-<td class="cuerpo_tabla_izq">Criseno.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>218-01-9.</td>
+<td>Criseno.</td>
+<td>5</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">85-01-8.</td>
-<td class="cuerpo_tabla_izq">Fenantreno.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">150</td>
+<td>85-01-8.</td>
+<td>Fenantreno.</td>
+<td>40</td>
+<td>150</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">206-44-0.</td>
-<td class="cuerpo_tabla_izq">Fluoranteno.</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">250</td>
+<td>206-44-0.</td>
+<td>Fluoranteno.</td>
+<td>100</td>
+<td>250</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">86-73-7.</td>
-<td class="cuerpo_tabla_izq">Fluoreno.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">150</td>
+<td>86-73-7.</td>
+<td>Fluoreno.</td>
+<td>40</td>
+<td>150</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">193-39-5.</td>
-<td class="cuerpo_tabla_izq">Indeno(1,2,3-CD) Pireno.</td>
-<td class="cuerpo_tabla_centro">0,02</td>
-<td class="cuerpo_tabla_centro">0,07</td>
+<td>193-39-5.</td>
+<td>Indeno(1,2,3-CD) Pireno.</td>
+<td>0,02</td>
+<td>0,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">129-00-0.</td>
-<td class="cuerpo_tabla_izq">Pireno.</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">120</td>
+<td>129-00-0.</td>
+<td>Pireno.</td>
+<td>30</td>
+<td>120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PCBs.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Suma de PCBs <sup>(1).</sup></td>
-<td class="cuerpo_tabla_centro">0,025</td>
-<td class="cuerpo_tabla_centro">0,6</td>
+<td>PCBs.</td>
+<td>No aplica.</td>
+<td>Suma de PCBs <sup>(1).</sup></td>
+<td>0,025</td>
+<td>0,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Varios.</td>
-<td class="cuerpo_tabla_izq">1634-04-4.</td>
-<td class="cuerpo_tabla_izq">Metil-terc-Butileter (MTBE).</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td rowspan="6">Varios.</td>
+<td>1634-04-4.</td>
+<td>Metil-terc-Butileter (MTBE).</td>
+<td>500</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">637-92-3.</td>
-<td class="cuerpo_tabla_izq">Etil-terc-Butileter (ETBE).</td>
-<td class="cuerpo_tabla_centro">240</td>
-<td class="cuerpo_tabla_centro">720</td>
+<td>637-92-3.</td>
+<td>Etil-terc-Butileter (ETBE).</td>
+<td>240</td>
+<td>720</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">75-65-0.</td>
-<td class="cuerpo_tabla_izq">Terc-Butanol.</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">1.000</td>
+<td>75-65-0.</td>
+<td>Terc-Butanol.</td>
+<td>250</td>
+<td>1.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14797-55-8.</td>
-<td class="cuerpo_tabla_izq">Nitratos.</td>
-<td class="cuerpo_tabla_centro">100.000</td>
-<td class="cuerpo_tabla_centro">250.000</td>
+<td>14797-55-8.</td>
+<td>Nitratos.</td>
+<td>100.000</td>
+<td>250.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14265-44-2.</td>
-<td class="cuerpo_tabla_izq">Fósforo.</td>
-<td class="cuerpo_tabla_centro">10.000</td>
-<td class="cuerpo_tabla_centro">300.000</td>
+<td>14265-44-2.</td>
+<td>Fósforo.</td>
+<td>10.000</td>
+<td>300.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Escherichia coli (E. coli).</td>
-<td class="cuerpo_tabla_centro">10 UFC/100 ml</td>
-<td class="cuerpo_tabla_centro">1.000 UFC/100 ml</td>
+<td>No aplica.</td>
+<td>Escherichia coli (E. coli).</td>
+<td>10 UFC/100 ml</td>
+<td>1.000 UFC/100 ml</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"> </p>
-<p class="cita">VGNR: Valor genérico de no riesgo; VGI: Valor genérico de intervención; CAS: <em>Chemical Abstracts Service</em>; HTP: Hidrocarburos totales del petróleo; PAH: Hidrocarburos aromáticos policíclicos; PCBs: Policlorobifenilos o Bifenilos policlorados; UFC: unidades formadoras de colonias</p>
-<p class="cita"><sup>(1)</sup> Compuestos incluidos en el parámetro Suma PCBs.</p>
+<p> </p>
+<p>VGNR: Valor genérico de no riesgo; VGI: Valor genérico de intervención; CAS: <em>Chemical Abstracts Service</em>; HTP: Hidrocarburos totales del petróleo; PAH: Hidrocarburos aromáticos policíclicos; PCBs: Policlorobifenilos o Bifenilos policlorados; UFC: unidades formadoras de colonias</p>
+<p><sup>(1)</sup> Compuestos incluidos en el parámetro Suma PCBs.</p>
 </td>
 </tr>
 </tfoot>
@@ -10734,40 +10675,32 @@ V<sub> CIR </sub>=V<sub> TG </sub>+ V<sub> VDSS </sub>= V<sub> ARU T </sub>+ V<s
 
 La figura siguiente representa los volúmenes anteriormente indicados y la relación entre ellos:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Entradas de agua al sistema</th>
-<th class="cabeza_tabla" colspan="3">Elementos del sistema de gestión</th>
+<th colspan="3">Entradas de agua al sistema</th>
+<th colspan="3">Elementos del sistema de gestión</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">V <sub>TOT</sub></td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">V <sub>ARD</sub></td>
-<td class="cuerpo_tabla_izq" rowspan="3">V <sub>CIR</sub></td>
-<td class="cuerpo_tabla_izq">V <sub>ARU T</sub></td>
-<td class="cuerpo_tabla_izq" rowspan="2">V <sub>TG</sub></td>
+<td rowspan="4">V <sub>TOT</sub></td>
+<td colspan="2" rowspan="2">V <sub>ARD</sub></td>
+<td rowspan="3">V <sub>CIR</sub></td>
+<td>V <sub>ARU T</sub></td>
+<td rowspan="2">V <sub>TG</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">V <sub>ALM</sub></td>
+<td>V <sub>ALM</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">V <sub>PRE</sub></td>
-<td class="cuerpo_tabla_izq">V<sub> EP</sub></td>
-<td class="cuerpo_tabla_izq" colspan="2">V <sub>VDSS</sub></td>
+<td rowspan="2">V <sub>PRE</sub></td>
+<td>V<sub> EP</sub></td>
+<td colspan="2">V <sub>VDSS</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">V <sub>INF</sub></td>
-<td class="cuerpo_tabla_izq" colspan="3">V <sub>INF</sub></td>
+<td>V <sub>INF</sub></td>
+<td colspan="3">V <sub>INF</sub></td>
 </tr>
 </tbody>
 </table>
@@ -10872,39 +10805,33 @@ b) El cálculo el volumen de escorrentía urbana (V<sub>EP</sub>) en este métod
 
 Donde:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">P<sub>d,80%</sub>:</td>
-<td class="cuerpo_tabla_izq">(mm).</td>
-<td class="cuerpo_tabla_izq">Precipitación diaria en la zona de estudio no superada el 80% de los días conforme el apartado 5.2.</td>
+<td colspan="2">P<sub>d,80%</sub>:</td>
+<td>(mm).</td>
+<td>Precipitación diaria en la zona de estudio no superada el 80% de los días conforme el apartado 5.2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C<sub>i</sub>:</td>
-<td class="cuerpo_tabla_izq" colspan="2">(adimensional).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Coeficiente de escorrentía de cada superficie homogénea descrito en el apartado 5.1, que deberá justificarse caso por caso, pudiéndose emplear como referencia inicial, los siguientes valores:</p>
-<p class="cuerpo_tabla_izq">– Ciudad densamente urbanizada: 0,95.</p>
-<p class="cuerpo_tabla_izq">– Residencial urbanización media: 0,70–. </p>
-<p class="cuerpo_tabla_izq">– Zona rural o agropecuaria: 0,30.</p>
-<p class="cuerpo_tabla_izq">– Entorno natural (asimilable a SUDS): 0,05.</p>
+<td>C<sub>i</sub>:</td>
+<td colspan="2">(adimensional).</td>
+<td>
+<p>Coeficiente de escorrentía de cada superficie homogénea descrito en el apartado 5.1, que deberá justificarse caso por caso, pudiéndose emplear como referencia inicial, los siguientes valores:</p>
+<p>– Ciudad densamente urbanizada: 0,95.</p>
+<p>– Residencial urbanización media: 0,70–. </p>
+<p>– Zona rural o agropecuaria: 0,30.</p>
+<p>– Entorno natural (asimilable a SUDS): 0,05.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">S<sub>i</sub>:</td>
-<td class="cuerpo_tabla_izq">(km<sup>2</sup>).</td>
-<td class="cuerpo_tabla_izq">Superficie de cada área homogénea.</td>
+<td colspan="2">S<sub>i</sub>:</td>
+<td>(km<sup>2</sup>).</td>
+<td>Superficie de cada área homogénea.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">K<sub>b</sub>:</td>
-<td class="cuerpo_tabla_izq" colspan="2">(adimensional).</td>
-<td class="cuerpo_tabla_izq">Factor k<sub>b</sub> recogido en la Norma 5.2. IC drenaje superficial de la Instrucción de Carreteras aprobada por la Orden FOM/298/2016, de 15 de febrero, que tiene en cuenta la relación entre la intensidad máxima anual en un período de 24 horas y la intensidad máxima anual diaria. En defecto de un cálculo específico se puede tomar k<sub>b</sub> = 1,13.</td>
+<td>K<sub>b</sub>:</td>
+<td colspan="2">(adimensional).</td>
+<td>Factor k<sub>b</sub> recogido en la Norma 5.2. IC drenaje superficial de la Instrucción de Carreteras aprobada por la Orden FOM/298/2016, de 15 de febrero, que tiene en cuenta la relación entre la intensidad máxima anual en un período de 24 horas y la intensidad máxima anual diaria. En defecto de un cálculo específico se puede tomar k<sub>b</sub> = 1,13.</td>
 </tr>
 </tbody>
 </table>

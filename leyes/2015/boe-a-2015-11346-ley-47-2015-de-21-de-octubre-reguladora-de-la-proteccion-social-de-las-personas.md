@@ -260,14 +260,6 @@ c) Las personas trabajadoras por cuenta propia incluidas en el grupo tercero de 
 
 4\. La cotización en supuestos de pluriactividad, regulada en el artículo 313 del texto refundido de la Ley General de la Seguridad Social, será también de aplicación a los trabajadores por cuenta propia incluidos en el grupo primero de cotización de este régimen especial, siempre que cumplan con los requisitos establecidos en dicho artículo.
 
-> Téngase en cuenta que la última modificación de este artículo, efectuada por el art. 2 Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023 según establece su disposición final 5..
-
-> Redacción anterior:
-
-> "1. En el Régimen Especial de la Seguridad Social de los Trabajadores del Mar el nacimiento, la duración y la extinción de la obligación de cotizar, las operaciones de liquidación de la misma, el periodo, la forma, el lugar y el plazo para su presentación, así como su comprobación y control, se regirán por lo dispuesto con carácter general en el texto refundido de la Ley General de la Seguridad Social y en su normativa de desarrollo, que establecerá las peculiaridades de este Régimen Especial.
-
-> 2\. Lo establecido en el artículo 313 del texto refundido de la Ley General de la Seguridad Social será también de aplicación a las personas trabajadoras por cuenta propia que queden incluidas en el grupo primero de cotización de este Régimen Especial, de acuerdo con lo previsto en el artículo 10 de esta Ley, y siempre que cumplan con los requisitos establecidos en dicho artículo 313."
-
 > Se modifica, con efectos desde el 1 de enero de 2023, por el art. 2 Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se modifica por el art. 2.2 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
@@ -459,12 +451,6 @@ A las personas trabajadoras incluidas en el Régimen Especial de la Seguridad So
 1\. La prestación económica por incapacidad temporal derivada de enfermedad común o accidente no laboral y de accidente de trabajo o enfermedad profesional se otorgará a las personas trabajadoras por cuenta ajena y por cuenta propia del Régimen Especial de la Seguridad Social de los Trabajadores del Mar en las mismas condiciones y con los mismos requisitos que los establecidos en la normativa vigente del Régimen General o, en su caso, del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
 
 2\. Asimismo, se encontrarán en situación de incapacidad temporal las personas trabajadoras que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo, tercero y cuarto, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 9 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "2. Asimismo, se encontrarán en situación de incapacidad temporal las trabajadoras que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma."
 
 3\. Para las personas trabajadoras por cuenta ajena incluidas en los grupos segundo y tercero a los que se refiere el artículo 10, el abono de la prestación se efectuará en la modalidad de pago directo por la Entidad Gestora o la mutua colaboradora con la Seguridad Social, manteniéndose la obligación de cotizar en tanto no se extinga la relación laboral.
 

@@ -504,94 +504,94 @@ Se modifica el apartado 8 del artículo 2 del Real Decreto 823/2008, de 16 de ma
 
 “8. Con el objeto de garantizar la accesibilidad y calidad en el servicio, así como la adecuada atención farmacéutica a los usuarios del Sistema Nacional de Salud, a las oficinas de farmacia que resulten exentas de la escala de deducciones regulada en el apartado 5 de este artículo les será de aplicación a su favor un índice corrector de los márgenes de las oficinas de farmacia correspondiente a las recetas u órdenes de dispensación de medicamentos de uso humano fabricados industrialmente dispensados con cargo a fondos públicos, conforme a la siguiente escala:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Diferencial</p>
+<p>Diferencial</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Porcentaje</p>
+<p>Porcentaje</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Fijo</p>
+<p>Fijo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">De</p>
+<p>De</p>
 </td>
 <td>
-<p class="cabeza_tabla">a</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">0,01</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.750,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>a</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">2.750,01</p>
+<p>0,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.500,00</p>
+<p>2.750,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,75</p>
+<p>7,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">199,38</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">5.500,01</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.250,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">412,50</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">8.250,01</p>
+<p>2.750,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.466,66</p>
+<p>5.500,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,75</p>
+<p>7,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">639,37</p>
+<p>199,38</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">10.466,67</p>
+<p>5.500,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.500,00</p>
+<p>8.250,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">833,33</p>
+<p>412,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.250,01</p>
+</td>
+<td>
+<p>10.466,66</p>
+</td>
+<td>
+<p>8,75</p>
+</td>
+<td>
+<p>639,37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.466,67</p>
+</td>
+<td>
+<p>12.500,00</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>833,33</p>
 </td>
 </tr>
 </table>

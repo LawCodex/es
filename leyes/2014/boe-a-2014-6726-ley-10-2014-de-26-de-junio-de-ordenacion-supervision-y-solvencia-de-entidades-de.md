@@ -1318,15 +1318,11 @@ Las entidades de crédito dispondrán de mecanismos para garantizar que el impor
 
 6\. Reglamentariamente se desarrollará lo previsto en este artículo.
 
-> Téngase en cuenta que este artículo, añadido por el art. 6.24 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final 8.b).
-
 > Se añade, con efectos de 1 de enero de 2022, por el art. 6.24 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 #### Artículo 48 quater. Incumplimiento del requisito de colchón de ratio de apalancamiento.
 
 Se considerará que una entidad incumple el requisito de colchón de ratio de apalancamiento a los efectos del artículo 48 ter de esta ley cuando no disponga de capital de nivel 1 en la cantidad necesaria para satisfacer al mismo tiempo el requisito establecido en el artículo 92.1.d) del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo de 26 de junio de 2013, y, en su caso, el requisito establecido en el artículo 92.1 bis, del citado Reglamento y en la letra a) del artículo 68.2 esta Ley, al hacer frente a un riesgo de apalancamiento excesivo que no esté suficientemente cubierto por la letra d) del artículo 92.1 del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo de 26 de junio de 2013.
-
-> Téngase en cuenta que este artículo, añadido por el art. 6.25 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final 8.b).
 
 > Se añade, con efectos de 1 de enero de 2022, por el art. 6.25 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -1335,16 +1331,6 @@ Se considerará que una entidad incumple el requisito de colchón de ratio de ap
 1\. Cuando una entidad de crédito no cumpla el requisito combinado de colchón o, en su caso, el requisito de colchón de ratio de apalancamiento al que esté sujeta, elaborará un plan de conservación del capital y lo presentará, en los términos que reglamentariamente se establezcan, al Banco de España.
 
 2\. El Banco de España evaluará el plan de conservación del capital y lo aprobará si considera que, de ejecutarse, resulta razonablemente previsible la conservación u obtención de capital suficiente para que la entidad pueda cumplir el requisito combinado de colchones de capital, o en su caso, el requisito de colchón de ratio de apalancamiento, en el plazo que el Banco de España juzgue adecuado.
-
-> Téngase en cuenta que esta última actualización de los apartados 1 y 2 por el art. 6.26 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final 8.b).
-
-> Redacción anterior:
-
-> "1. Cuando una entidad de crédito no cumpla el requisito combinado de colchón elaborará un plan de conservación del capital y lo presentará, en los términos que reglamentariamente se establezcan, al Banco de España.
-
-> El plazo para la presentación del plan al Banco de España será de cinco días, a contar desde la fecha en que la entidad compruebe el incumplimiento de dichos requisitos. No obstante, el Banco de España podrá ampliar ese plazo a diez días, basándose en la situación individual de la entidad de crédito y teniendo en cuenta su escala y la complejidad de sus actividades.
-
-> 2\. El Banco de España evaluará el plan de conservación del capital y lo aprobará si considera que, de ejecutarse, resulta razonablemente previsible la conservación u obtención de capital suficiente para que la entidad pueda cumplir el requisito combinado de colchones de capital en el plazo que el Banco de España juzgue adecuado."
 
 3\. En caso de que no apruebe el plan de conservación del capital presentado, el Banco de España podrá:
 
@@ -1731,8 +1717,6 @@ b) Cuando los ingresos netos por intereses de la entidad sufran una disminución
 a) Especificar hipótesis de modelización y asunciones paramétricas, distintas de las previstas en la normativa europea aplicable y exigir que las entidades las utilicen en los cálculos del valor económico de su patrimonio neto.
 
 b) Exigir cualquiera de las medidas de supervisión previstas en el artículo 68.2.
-
-> Téngase en cuenta que este artículo, añadido por el art. 6.36 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 28 de junio de 2021, según establece su disposición final 8.a).
 
 > Se añade, con efectos de 28 de junio de 2021, por el art. 6.36 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2460,8 +2444,6 @@ n) En el caso de insuficiencia de recursos propios, las dificultades objetivas q
 
 o) El hecho de que los perjudicados por la infracción realizada sean prestatarios o avalistas en situación de vulnerabilidad o exclusión social.
 
-> Téngase en cuenta que la letra o), añadida por la disposición final 12.3 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814), entra en vigor el 16 de junio de 2019, según establece su disposición final 16.
-
 > Se añade la letra o), con efectos de 16 de junio de 2019, por la disposición final 12.3 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
 
 #### Artículo 104. Responsabilidad de los cargos de administración o dirección.
@@ -2598,8 +2580,6 @@ El Banco de España enviará anualmente a las Cortes Generales una Memoria de la
 
 3\. Mediante la publicación en su página web, el Banco de España facilitará la información básica sobre el procedimiento de comunicación de infracciones, en particular sobre las medidas de protección de la identidad del comunicante.
 
-> Téngase en cuenta que el apartado 3, añadido por disposición final 6.10 del Real Decreto-ley 19/2018, de 23 de noviembre. [Ref. BOE-A-2018-16036](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16036), entra en vigor el 24 de febrero de 2019 según establece su disposición final 13.c).
-
 > Se añade por la disposición final 6.10 del Real Decreto-ley 19/2018, de 23 de noviembre. [Ref. BOE-A-2018-16036](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16036)
 
 > Téngase en cuenta que el apartado 3 entra en vigor el 24 de febrero de 2019, según establece su disposición final 13.c).
@@ -2619,8 +2599,6 @@ El Banco de España enviará anualmente a las Cortes Generales una Memoria de la
 #### Artículo 121. Garantías de confidencialidad.
 
 1\. El Banco de España dispondrá de mecanismos que garanticen la confidencialidad de la identidad del comunicante y de la información comunicada. Las comunicaciones recibidas no tendrán valor probatorio y no podrán ser incorporadas directamente a diligencias administrativas o judiciales.
-
-> Téngase en cuenta que el apartado 1, añadido por disposición final 6.10 del Real Decreto-ley 19/2018, de 23 de noviembre. [Ref. BOE-A-2018-16036](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16036), entra en vigor el 24 de febrero de 2019 según establece su disposición final 13.c).
 
 2\. Cualquier transmisión de la comunicación, dentro o fuera del Banco de España, se realizará sin revelar, directa o indirectamente, los datos personales del comunicante, ni de las personas incluidas en la comunicación, excepto en los siguientes casos:
 

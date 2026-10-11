@@ -2344,43 +2344,38 @@ a) La retribución reconocida a la actividad de distribución se asigna por indu
 
 b) La retribución reconocida a la actividad de distribución cuyo inductor de coste es la capacidad se asigna por nivel de presión de acuerdo con siguientes porcentajes:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_81">
-<col class="row_column_82">
-<col class="row_column_83">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_84">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Nivel de presión tarifario</p>
+<p>Nivel de presión tarifario</p>
 </td>
 <td>
-<p class="cabeza_tabla">% de la retribución de distribución por nivel de presión</p>
+<p>% de la retribución de distribución por nivel de presión</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_80">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">NP0</p>
+<p>NP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Presión ≤4 bar.</p>
+<p>Presión ≤4 bar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">89,5</p>
+<p>89,5</p>
 </td>
 </tr>
-<tr class="row_column_80">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">NP1</p>
+<p>NP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4 bar &lt; Presión ≤ 16.</p>
+<p>4 bar &lt; Presión ≤ 16.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,5 </p>
+<p>10,5 </p>
 </td>
 </tr>
 </tbody>

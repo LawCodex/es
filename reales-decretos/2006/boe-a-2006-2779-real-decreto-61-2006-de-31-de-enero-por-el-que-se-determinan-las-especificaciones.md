@@ -382,939 +382,939 @@ JOSE MONTILLA AGUILERA
 
 ## ANEXO I — Especificaciones de las gasolinas
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Unidad<br>de<br>medida</p>
+<p>Unidad<br>de<br>medida</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Límites (1)</p>
+<p>Límites (1)</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Métodos de ensayo</p>
+<p>Métodos de ensayo</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Mínimos</p>
+<p>Mínimos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Máximos</p>
+<p>Máximos</p>
 </th>
 <th>
-<p class="cabeza_tabla">En EN 228 (2)</p>
+<p>En EN 228 (2)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Normas<br>ASTM (10)</p>
+<p>Normas<br>ASTM (10)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Normas<br>UNE (10)</p>
+<p>Normas<br>UNE (10)</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Densidad a 15 ºC</p>
+<p>Densidad a 15 ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">kg/m<sup>3</sup></p>
+<p>kg/m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">720</p>
+<p>720</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">775</p>
+<p>775</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 3675</p>
+<p>EN ISO 3675</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 1298</p>
+<p>D 1298</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 3675</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 12185</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 4052</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 12185</p>
+<p>UNE-EN ISO 3675</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Índice de octano research (RON) (11)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">95,0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 5164</p>
+<p>EN ISO 12185</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 2699</p>
+<p>D 4052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 5164</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Índice de octano motor (MON) (11)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">85,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 5163</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 2700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 5163</p>
+<p>UNE-EN ISO 12185</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Presión de vapor (DVPE)</p>
+<p>Índice de octano research (RON) (11)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">kPa</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>95,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 13016-1</p>
+<p>EN ISO 5164</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D 2699</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 13016-1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Verano (3)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>UNE-EN ISO 5164</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Invierno (4)</p>
+<p>Índice de octano motor (MON) (11)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>85,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN ISO 5163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D 2700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Destilación:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 3405</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 86</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 3405</p>
+<p>UNE-EN ISO 5163</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Evaporado a 70 ºC verano (3)</p>
+<p>Presión de vapor (DVPE)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%v/v</p>
+<p>kPa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">54 (*)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN 13016-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">invierno (4)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%v/v</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">56 (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>UNE-EN 13016-1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Evaporado a 100ºC</p>
+<p>· Verano (3)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%v/v</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">74 (*)</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Evaporado a 150 ºC</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%v/v</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Punto final</p>
+<p>· Invierno (4)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ºC</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">210</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Residuo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%v/v</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VLI (10VP+ 7E70) (5)</p>
+<p>Destilación:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.160(*)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN ISO 3405</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">-</p>
+<p>D 86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Análisis de los hidrocarburos:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 22854</p>
+<p>UNE-EN ISO 3405</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· olefinas</p>
+<p>· Evaporado a 70 ºC verano (3)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%v/v</p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,0</p>
+<p>54 (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 22854/ EN 15553</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 1319</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 22854</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· aromáticos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%v/v</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 22854/ EN 15553</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 1319</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 22854</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· benceno</p>
+<p>invierno (4)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%v/v</p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>56 (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 12177</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 12177</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 22854</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 2267</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 22854</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>· Evaporado a 100ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>74 (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 238</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 238</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido de oxígeno</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%m/m</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN 1601</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN 1601</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>· Evaporado a 150 ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 13132/ EN ISO 22854</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 13132/</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 22854</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Oxigenados:</p>
+<p>· Punto final</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%v/v</p>
+<p>ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 1601</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 1601</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Metanol (6)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN 13132/ EN ISO 22854</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN 13132/</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Etanol (7)</p>
+<p>· Residuo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 22854</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Alcohol isopropílico</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Alcohol tert-butílico</p>
+<p>VLI (10VP+ 7E70) (5)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>1.160(*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Alcohol iso-butílico</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Éteres que contengan 5 átomos o más de carbono por molécula</p>
+<p>Análisis de los hidrocarburos:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Otros compuestos oxigenados (8)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>UNE-EN ISO 22854</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de azufre (9)</p>
+<p>· olefinas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>18,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 20846</p>
+<p>EN ISO 22854/ EN 15553</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D 1319</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 20846</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 20884</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 20884</p>
+<p>UNE-EN ISO 22854</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de plomo</p>
+<p>· aromáticos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">g/l</p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,005</p>
+<p>35,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 237</p>
+<p>EN ISO 22854/ EN 15553</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 3237</p>
+<p>D 1319</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 237</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Corrosión lámina de cobre (3 horas a 50 ºC)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">escala</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Clase 1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 2160</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 130</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 2160</p>
+<p>UNE-EN ISO 22854</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad a la oxidación</p>
+<p>· benceno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">minutos</p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">360</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 7536</p>
+<p>EN 12177</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 525</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 7536</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido de gomas actuales (lavadas)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">mg/100ml</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 6246</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 381</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 6246</p>
+<p>UNE-EN 12177</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Aspecto</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN ISO 22854</p>
+</td>
+<td>
+<p>D 2267</p>
+</td>
+<td>
+<p>UNE-EN ISO 22854</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN 238</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 238</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de oxígeno</p>
+</td>
+<td>
+<p>%m/m</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>3,7</p>
+</td>
+<td>
+<p>EN 1601</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 1601</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN 13132/ EN ISO 22854</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 13132/</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN ISO 22854</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Oxigenados:</p>
+</td>
+<td>
+<p>%v/v</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN 1601</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 1601</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Metanol (6)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>EN 13132/ EN ISO 22854</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 13132/</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Etanol (7)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN ISO 22854</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Alcohol isopropílico</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Alcohol tert-butílico</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Alcohol iso-butílico</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Éteres que contengan 5 átomos o más de carbono por molécula</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Otros compuestos oxigenados (8)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de azufre (9)</p>
+</td>
+<td>
+<p>mg/kg</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>EN ISO 20846</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN ISO 20846</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN ISO 20884</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN ISO 20884</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de plomo</p>
+</td>
+<td>
+<p>g/l</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>0,005</p>
+</td>
+<td>
+<p>EN 237</p>
+</td>
+<td>
+<p>D 3237</p>
+</td>
+<td>
+<p>UNE-EN 237</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Corrosión lámina de cobre (3 horas a 50 ºC)</p>
+</td>
+<td>
+<p>escala</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>Clase 1</p>
+</td>
+<td>
+<p>EN ISO 2160</p>
+</td>
+<td>
+<p>D 130</p>
+</td>
+<td>
+<p>UNE-EN ISO 2160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estabilidad a la oxidación</p>
+</td>
+<td>
+<p>minutos</p>
+</td>
+<td>
+<p>360</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>EN ISO 7536</p>
+</td>
+<td>
+<p>D 525</p>
+</td>
+<td>
+<p>UNE-EN ISO 7536</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de gomas actuales (lavadas)</p>
+</td>
+<td>
+<p>mg/100ml</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>EN ISO 6246</p>
+</td>
+<td>
+<p>D 381</p>
+</td>
+<td>
+<p>UNE-EN ISO 6246</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Aspecto</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Claro y<br>brillante</p>
+<p>Claro y<br>brillante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Aditivos y agentes trazadores</p>
+<p>Aditivos y agentes trazadores</p>
 </td>
 <td colspan="6">
-<p class="cuerpo_tabla_centro">Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</p>
+<p>Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</p>
 </td>
 </tr>
 </tbody>
@@ -1378,680 +1378,680 @@ En caso de que el contenido de bioetanol se encuentre entre dos de los valores i
 
 ## ANEXO III — Especificaciones del gasóleo de automoción (clase A)
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Unidad<br>de<br>medida</p>
+<p>Unidad<br>de<br>medida</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Límites (1)</p>
+<p>Límites (1)</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Métodos de ensayo</p>
+<p>Métodos de ensayo</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Mínimos</p>
+<p>Mínimos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Máximos</p>
+<p>Máximos</p>
 </th>
 <th>
-<p class="cabeza_tabla">En EN 590 (2)</p>
+<p>En EN 590 (2)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Normas<br>ASTM (5)</p>
+<p>Normas<br>ASTM (5)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Normas<br>UNE (5)</p>
+<p>Normas<br>UNE (5)</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Número de cetano</p>
+<p>Número de cetano</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51,0</p>
+<p>51,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 5165/ EN 15195 (6)</p>
+<p>EN ISO 5165/ EN 15195 (6)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 613</p>
+<p>D 613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 5165 /</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN 15195</p>
+<p>UNE-EN ISO 5165 /</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Índice de cetano</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46,0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 4264</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 4737</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 4264</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Densidad a 15ºC</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/m<sup>3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">820</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">845</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 3675</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 4052</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 3675</p>
+<p>UNE-EN 15195</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Índice de cetano</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>46,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 12185</p>
+<p>EN ISO 4264</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D 4737</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 12185</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hidrocarburos policíclicos aromáticos (3)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%m/m</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN 12916</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN 12916</p>
+<p>UNE-EN ISO 4264</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido en azufre (4)</p>
+<p>Densidad a 15ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
+<p>kg/m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>820</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>845</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 20846</p>
+<p>EN ISO 3675</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D 4052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 20846</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 20884</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 20884</p>
+<p>UNE-EN ISO 3675</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Destilación:</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ºC</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 3405</p>
+<p>EN ISO 12185</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 86</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 3405</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· 65% recogido</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>UNE-EN ISO 12185</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· 85% recogido</p>
+<p>Hidrocarburos policíclicos aromáticos (3)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>%m/m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">350</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN 12916</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>UNE-EN 12916</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· 95% recogido</p>
+<p>Contenido en azufre (4)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>mg/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">360</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN ISO 20846</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN ISO 20846</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN ISO 20884</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN ISO 20884</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Destilación:</p>
+</td>
+<td>
+<p>ºC</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN ISO 3405</p>
+</td>
+<td>
+<p>D 86</p>
+</td>
+<td>
+<p>UNE-EN ISO 3405</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· 65% recogido</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· 85% recogido</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>350</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· 95% recogido</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>360</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Viscosidad cinemática a 40ºC</p>
+<p>Viscosidad cinemática a 40ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mm<sup>2</sup>/s</p>
+<p>mm<sup>2</sup>/s</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,50</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 3104</p>
+<p>EN ISO 3104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 445</p>
+<p>D 445</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 3104</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Punto de inflamación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ºC</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">superior a 55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 2719</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 2719</p>
+<p>UNE-EN ISO 3104</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Punto de obstrucción filtro frío:</p>
+<p>Punto de inflamación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ºC</p>
+<p>ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>superior a 55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 116</p>
+<p>EN ISO 2719</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D 93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 116</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">· Invierno (1 oct.-31 marzo)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">- 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>UNE-EN ISO 2719</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">· Verano (1 abril-30 sept.)</p>
+<p>Punto de obstrucción filtro frío:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN 116</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 116</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Invierno (1 oct.-31 marzo)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>- 10</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>· Verano (1 abril-30 sept.)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuo carbonoso (sobre 10 %v/v residuo de destilación)</p>
+<p>Residuo carbonoso (sobre 10 %v/v residuo de destilación)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%m/m</p>
+<p>%m/m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,30</p>
+<p>0,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 10370</p>
+<p>EN ISO 10370</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 4530</p>
+<p>D 4530</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 10370</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Lubricidad, diámetro huella corregido (wsd 1.4) a 60 ºC</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">µm</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">460</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 12156-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 12156-1</p>
+<p>UNE-EN ISO 10370</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido en agua</p>
+<p>Lubricidad, diámetro huella corregido (wsd 1.4) a 60 ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
+<p>µm</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>460</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 12937</p>
+<p>EN ISO 12156-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 12937</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contaminación total (partículas sólidas)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN 12662</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN 12662</p>
+<p>UNE-EN ISO 12156-1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de cenizas</p>
+<p>Contenido en agua</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%m/m</p>
+<p>mg/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 6245</p>
+<p>EN ISO 12937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 482</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 6245</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Corrosión lámina de cobre (3 h. a 50 ºC)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">escala</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">clase 1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 2160</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D 130</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 2160</p>
+<p>UNE-EN ISO 12937</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad a la oxidación</p>
+<p>Contaminación total (partículas sólidas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">g/m<sup>3</sup></p>
+<p>mg/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 12205</p>
+<p>EN 12662</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 2274</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN ISO 12205</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">horas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20 (7)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN 15751</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UNE-EN 15751</p>
+<p>UNE-EN 12662</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Color</p>
+<p>Contenido de cenizas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>%m/m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>0,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN ISO 6245</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 1500</p>
+<p>D 482</p>
+</td>
+<td>
+<p>UNE-EN ISO 6245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Corrosión lámina de cobre (3 h. a 50 ºC)</p>
+</td>
+<td>
+<p>escala</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>clase 1</p>
+</td>
+<td>
+<p>EN ISO 2160</p>
+</td>
+<td>
+<p>D 130</p>
+</td>
+<td>
+<p>UNE-EN ISO 2160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estabilidad a la oxidación</p>
+</td>
+<td>
+<p>g/m<sup>3</sup></p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>EN ISO 12205</p>
+</td>
+<td>
+<p>D 2274</p>
+</td>
+<td>
+<p>UNE-EN ISO 12205</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>horas</p>
+</td>
+<td>
+<p>20 (7)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>EN 15751</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 15751</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Color</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>D 1500</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido en FAME (8)</p>
+<p>Contenido en FAME (8)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%v/v</p>
+<p>%v/v</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">UNE-EN 14078</p>
+<p>UNE-EN 14078</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Transparencia y brillo</p>
+<p>Transparencia y brillo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Cumple</p>
+<p>Cumple</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D 4176</p>
+<p>D 4176</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Aditivos y agentes trazadores</p>
+<p>Aditivos y agentes trazadores</p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="6">
-<p class="cuerpo_tabla_centro">Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</p>
+<td colspan="6">
+<p>Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</p>
 </td>
 </tr>
 </tbody>
@@ -2087,267 +2087,259 @@ Los métodos de ensayo a aplicar serán los correspondientes a la última versi�
 
 ## ANEXO III bis — Especificaciones de los gasóleos para uso agrícola, ferroviario, marítimo y máquinas móviles no de carretera (clase B) y de calefacción (clase C)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Características</th>
-<th class="cabeza_tabla" rowspan="2">Unidades de Medida</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Gasóleo</p>
-<p class="cabeza_tabla">Clase B</p>
+<th rowspan="2">Características</th>
+<th rowspan="2">Unidades de Medida</th>
+<th rowspan="2">
+<p>Gasóleo</p>
+<p>Clase B</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Gasóleo Calefacción Clase C</th>
-<th class="cabeza_tabla" colspan="2">Métodos de ensayo</th>
+<th rowspan="2">Gasóleo Calefacción Clase C</th>
+<th colspan="2">Métodos de ensayo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Normas</p>
-<p class="cabeza_tabla">UNE- ISO-CEN (2)</p>
+<th>
+<p>Normas</p>
+<p>UNE- ISO-CEN (2)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Normas</p>
-<p class="cabeza_tabla">ASTM (2)</p>
+<th>
+<p>Normas</p>
+<p>ASTM (2)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Densidad a 15° (máx/mín)</td>
-<td class="cuerpo_tabla_centro">kg/m<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">880/820</td>
-<td class="cuerpo_tabla_centro">900/--</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">EN ISO 3675</p>
-<p class="cuerpo_tabla_izq">EN ISO 12185</p>
+<td>Densidad a 15° (máx/mín)</td>
+<td>kg/m<sup>3</sup></td>
+<td>880/820</td>
+<td>900/--</td>
+<td>
+<p>EN ISO 3675</p>
+<p>EN ISO 12185</p>
 </td>
-<td class="cuerpo_tabla_izq">D 4052</td>
+<td>D 4052</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Color</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Rojo</td>
-<td class="cuerpo_tabla_centro">Azul</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">D 1500</td>
+<td>Color</td>
+<td> </td>
+<td>Rojo</td>
+<td>Azul</td>
+<td> </td>
+<td>D 1500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azufre, máx (1)</td>
-<td class="cuerpo_tabla_centro">mg/kg</td>
-<td class="cuerpo_tabla_centro">1000 (1)</td>
-<td class="cuerpo_tabla_centro">1000 (1)</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">EN ISO 8754</p>
-<p class="cuerpo_tabla_izq">EN ISO 14596</p>
-<p class="cuerpo_tabla_izq">EN 24260</p>
+<td>Azufre, máx (1)</td>
+<td>mg/kg</td>
+<td>1000 (1)</td>
+<td>1000 (1)</td>
+<td>
+<p>EN ISO 8754</p>
+<p>EN ISO 14596</p>
+<p>EN 24260</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Índice de cetano, mín.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN ISO 4264</td>
-<td class="cuerpo_tabla_izq">D 4737</td>
+<td>Índice de cetano, mín.</td>
+<td> </td>
+<td>46</td>
+<td> </td>
+<td>EN ISO 4264</td>
+<td>D 4737</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de cetano, mín.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ISO 5165</p>
-<p class="cuerpo_tabla_izq">EN 15195 (3)</p>
+<td>Número de cetano, mín.</td>
+<td> </td>
+<td>49</td>
+<td> </td>
+<td>
+<p>ISO 5165</p>
+<p>EN 15195 (3)</p>
 </td>
-<td class="cuerpo_tabla_izq">D 613</td>
+<td>D 613</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Destilación:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN ISO 3405</td>
-<td class="cuerpo_tabla_izq">D 86</td>
+<td>Destilación:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>EN ISO 3405</td>
+<td>D 86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">65% recogido, mín</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>65% recogido, mín</td>
+<td>°C</td>
+<td>250</td>
+<td>250</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">80% recogido, máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">390</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>80% recogido, máx</td>
+<td>°C</td>
+<td> </td>
+<td>390</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">85% recogido, máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro">350</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>85% recogido, máx</td>
+<td>°C</td>
+<td>350</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">95% recogido, máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro">370</td>
-<td class="cuerpo_tabla_centro">Anotar</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>95% recogido, máx</td>
+<td>°C</td>
+<td>370</td>
+<td>Anotar</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viscosidad cinemática a 40 °C mín/máx</td>
-<td class="cuerpo_tabla_centro">mm<sup>2</sup>/s</td>
-<td class="cuerpo_tabla_centro">2,0/4,5</td>
-<td class="cuerpo_tabla_centro">--/7,0</td>
-<td class="cuerpo_tabla_izq">EN ISO 3104</td>
-<td class="cuerpo_tabla_izq">D 445</td>
+<td>Viscosidad cinemática a 40 °C mín/máx</td>
+<td>mm<sup>2</sup>/s</td>
+<td>2,0/4,5</td>
+<td>--/7,0</td>
+<td>EN ISO 3104</td>
+<td>D 445</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Punto de inflamación, mín</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">EN ISO 2719</td>
-<td class="cuerpo_tabla_izq">D 93</td>
+<td>Punto de inflamación, mín</td>
+<td>°C</td>
+<td>60</td>
+<td>60</td>
+<td>EN ISO 2719</td>
+<td>D 93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Punto de obstrucción filtro frío:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN 116</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Punto de obstrucción filtro frío:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>EN 116</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Invierno (1 octubre-31 marzo), máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro">-10</td>
-<td class="cuerpo_tabla_centro">-6</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Invierno (1 octubre-31 marzo), máx</td>
+<td>°C</td>
+<td>-10</td>
+<td>-6</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Verano (1 abril-30 septiembre), máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">-6</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Verano (1 abril-30 septiembre), máx</td>
+<td>°C</td>
+<td>0</td>
+<td>-6</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Punto de enturbiamento</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN 23015</td>
-<td class="cuerpo_tabla_izq">D 2500</td>
+<td>Punto de enturbiamento</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>EN 23015</td>
+<td>D 2500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Invierno (1 octubre-31 marzo), máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">D 5772</td>
+<td>Invierno (1 octubre-31 marzo), máx</td>
+<td>°C</td>
+<td> </td>
+<td>4</td>
+<td> </td>
+<td>D 5772</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Verano (1 abril-30 septiembre), máx</td>
-<td class="cuerpo_tabla_centro">°C</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Verano (1 abril-30 septiembre), máx</td>
+<td>°C</td>
+<td> </td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Residuo carbonoso (sobre 10% v/v final destilación), máx</td>
-<td class="cuerpo_tabla_centro">% m/m</td>
-<td class="cuerpo_tabla_centro">0,30</td>
-<td class="cuerpo_tabla_centro">0,35</td>
-<td class="cuerpo_tabla_izq">EN ISO 10370</td>
-<td class="cuerpo_tabla_izq">D 4530</td>
+<td>Residuo carbonoso (sobre 10% v/v final destilación), máx</td>
+<td>% m/m</td>
+<td>0,30</td>
+<td>0,35</td>
+<td>EN ISO 10370</td>
+<td>D 4530</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido en agua y sedimentos, máx</td>
-<td class="cuerpo_tabla_centro">% v/v</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">0,1</td>
-<td class="cuerpo_tabla_izq">UNE 51083</td>
-<td class="cuerpo_tabla_izq">D 2709</td>
+<td>Contenido en agua y sedimentos, máx</td>
+<td>% v/v</td>
+<td> </td>
+<td>0,1</td>
+<td>UNE 51083</td>
+<td>D 2709</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido en agua, máx</td>
-<td class="cuerpo_tabla_centro">mg/kg</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN ISO 12937</td>
-<td class="cuerpo_tabla_izq">D 1744</td>
+<td>Contenido en agua, máx</td>
+<td>mg/kg</td>
+<td>200</td>
+<td> </td>
+<td>EN ISO 12937</td>
+<td>D 1744</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contaminación total (partículas sólidas), máx</td>
-<td class="cuerpo_tabla_centro">mg/kg</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN 12662</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Contaminación total (partículas sólidas), máx</td>
+<td>mg/kg</td>
+<td>24</td>
+<td> </td>
+<td>EN 12662</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido de cenizas, máx</td>
-<td class="cuerpo_tabla_centro">% m/m</td>
-<td class="cuerpo_tabla_centro">0,01</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN ISO 6245</td>
-<td class="cuerpo_tabla_izq">D 482</td>
+<td>Contenido de cenizas, máx</td>
+<td>% m/m</td>
+<td>0,01</td>
+<td> </td>
+<td>EN ISO 6245</td>
+<td>D 482</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Corrosión lámina de cobre (3 horas a 50°C), máx.</td>
-<td class="cuerpo_tabla_centro">Escala</td>
-<td class="cuerpo_tabla_centro">Clase 1</td>
-<td class="cuerpo_tabla_centro">Clase 2</td>
-<td class="cuerpo_tabla_izq">EN ISO 2160</td>
-<td class="cuerpo_tabla_izq">D 130</td>
+<td>Corrosión lámina de cobre (3 horas a 50°C), máx.</td>
+<td>Escala</td>
+<td>Clase 1</td>
+<td>Clase 2</td>
+<td>EN ISO 2160</td>
+<td>D 130</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido en FAME (4,5), máx.</td>
-<td class="cuerpo_tabla_centro">% v/v</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN 14078</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Contenido en FAME (4,5), máx.</td>
+<td>% v/v</td>
+<td>7</td>
+<td> </td>
+<td>EN 14078</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transparencia y brillo</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Cumple</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">D 4176</td>
+<td>Transparencia y brillo</td>
+<td> </td>
+<td>Cumple</td>
+<td> </td>
+<td> </td>
+<td>D 4176</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estabilidad a la oxidación, máx</td>
-<td class="cuerpo_tabla_centro">g/m<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">EN ISO 12205</td>
-<td class="cuerpo_tabla_izq">D 2274</td>
+<td>Estabilidad a la oxidación, máx</td>
+<td>g/m<sup>3</sup></td>
+<td>25</td>
+<td> </td>
+<td>EN ISO 12205</td>
+<td>D 2274</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aditivos y agentes trazadores</td>
-<td class="cuerpo_tabla_izq" colspan="5">Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</td>
+<td>Aditivos y agentes trazadores</td>
+<td colspan="5">Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</td>
 </tr>
 </tbody>
 </table>
@@ -2378,330 +2370,330 @@ Notas:
 
 ## ANEXO IV — ESPECIFICACIONES DE FUELOLEOS
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Unidades de medida</p>
+<p>Unidades de medida</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Límites</p>
+<p>Límites</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Métodos de ensayo</p>
+<p>Métodos de ensayo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Normas UNE (2)</p>
+<p>Normas UNE (2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Normas ASTM (2)</p>
+<p>Normas ASTM (2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Normas ISO (2)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Color.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Negro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Normas ISO (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Viscosidad cinemática a 50 ºC, máx.</p>
+<p>Color.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mm<sup>2</sup>/s</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">380</p>
+<p>Negro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 3104</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D-445</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ISO-3104</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Azufre, máx.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% m/m</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 8754</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D-4294</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Viscosidad cinemática a 50 ºC, máx.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>mm<sup>2</sup>/s</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>380</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN ISO 14596</p>
+<p>EN ISO 3104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D-445</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EN ISO 51215</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>ISO-3104</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Punto de inflamación, mín.</p>
+<p>Azufre, máx.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ºC</p>
+<p>% m/m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>1,0 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EN 22719</p>
+<p>EN ISO 8754</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D-93</p>
+<p>D-4294</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ISO-2719</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Agua y sedimento, máx.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% V/V</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">51082</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D-1796</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agua, máx.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% V/V</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">51027</p>
+<p>EN ISO 14596</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D-95</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ISO-3733</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Potencia calorífica superior, mín.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kcal/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">51123</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D-240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Anexo A de ISO-8217</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Potencia calorífica inferior, mín.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">kcal/kg</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9.500</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">51123</p>
+<p>EN ISO 51215</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D-240</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cenizas, máx.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% m/m</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D482</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ISO-6246</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad</p>
+<p>Punto de inflamación, mín.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>EN 22719</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>D-93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Sedimentos potenciales máx.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% m/m</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ISO-10307-2</p>
+<p>ISO-2719</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Vanadio, máx.</p>
+<p>Agua y sedimento, máx.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
+<p>% V/V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>51082</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D-5708</p>
+<p>D-1796</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ISO-14597</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Agua, máx.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>% V/V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>51027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D-5863</p>
+<p>D-95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>ISO-3733</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potencia calorífica superior, mín.</p>
+</td>
+<td>
+<p>kcal/kg</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>51123</p>
+</td>
+<td>
+<p>D-240</p>
+</td>
+<td>
+<p>Anexo A de ISO-8217</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potencia calorífica inferior, mín.</p>
+</td>
+<td>
+<p>kcal/kg</p>
+</td>
+<td>
+<p>9.500</p>
+</td>
+<td>
+<p>51123</p>
+</td>
+<td>
+<p>D-240</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cenizas, máx.</p>
+</td>
+<td>
+<p>% m/m</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>D482</p>
+</td>
+<td>
+<p>ISO-6246</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estabilidad</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Sedimentos potenciales máx.</p>
+</td>
+<td>
+<p>% m/m</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>ISO-10307-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vanadio, máx.</p>
+</td>
+<td>
+<p>mg/kg</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>D-5708</p>
+</td>
+<td>
+<p>ISO-14597</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>D-5863</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -2716,287 +2708,287 @@ El método de referencia adoptado para determinar el contenido de azufre en el f
 
 ## ANEXO V — ESPECIFICACIONES DEL PROPANO COMERCIAL
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Unidades de medida</p>
+<p>Unidades de medida</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Límites</p>
+<p>Límites</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Normas</p>
+<p>Normas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Densidad a 15 ºC.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/l</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,502</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,535</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ASTM D-1657</p>
+<p>Máximo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Densidad a 15 ºC.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>kg/l</p>
+</td>
+<td>
+<p>0,502</p>
+</td>
+<td>
+<p>0,535</p>
+</td>
+<td>
+<p>ASTM D-1657</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad.</p>
+</td>
+<td>
+<p>–</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Exento (1)</p>
+<p>Exento (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-2713</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido máximo de azufre.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ASTM D-2784</p>
+<p>ASTM D-2713</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Corrosión.</p>
+<p>Contenido máximo de azufre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Escala</p>
+<p>mg/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 b.</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-1838</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Presión de vapor man., a 37,8º C.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/cm<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ASTM D-1267</p>
+<p>ASTM D-2784</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuo volátil (termperatura evaporación del 95 % en volumen).</p>
+<p>Corrosión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ºC</p>
+<p>Escala</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-31 (2)</p>
+<p>1 b.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-1837</p>
+<p>ASTM D-1838</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Sulfuro de hidrógeno.</p>
+<p>Presión de vapor man., a 37,8º C.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>kg/cm<sup>2</sup></p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>ASTM D-1267</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residuo volátil (termperatura evaporación del 95 % en volumen).</p>
+</td>
+<td>
+<p>ºC</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>-31 (2)</p>
+</td>
+<td>
+<p>ASTM D-1837</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sulfuro de hidrógeno.</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Negativo</p>
+<p>Negativo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-2420</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Poder calorífico inferior.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kcal/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.800</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ASTM D-3588</p>
+<p>ASTM D-2420</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Poder calorífico superior.</p>
+<p>Poder calorífico inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">kcal/kg</p>
+<p>kcal/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11.900</p>
+<p>10.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-3588</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Composición: <br>Hidrocarburos C<sub>2</sub>.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"><br>% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"><br>–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"><br>2,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><br>ASTM D-2163 (3) <br>UNE-EN 27941</p>
+<p>ASTM D-3588</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Composición: <br>Hidrocarburos C<sub>3</sub>.</p>
+<p>Poder calorífico superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"><br>% Volumen</p>
+<p>kcal/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"><br>80</p>
+<p>11.900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"><br>–</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><br>ASTM D-2163 (3) <br>UNE-EN 27941</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>4</sub>.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ASTM D-2163 (3) <br>UNE-EN 27941</p>
+<p>ASTM D-3588</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>5</sub>.</p>
+<p>Composición: <br>Hidrocarburos C<sub>2</sub>.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
+<p><br>% Volumen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p><br>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p><br>2,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-2163 (3) <br>UNE-EN 27941</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Olefinas totales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ASTM D-2163 (3) <br>UNE-EN 27941</p>
+<p><br>ASTM D-2163 (3) <br>UNE-EN 27941</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Diofelinas + acetilenos.</p>
+<p>Composición: <br>Hidrocarburos C<sub>3</sub>.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">p.p.m.</p>
+<p><br>% Volumen</p>
+</td>
+<td>
+<p><br>80</p>
+</td>
+<td>
+<p><br>–</p>
+</td>
+<td>
+<p><br>ASTM D-2163 (3) <br>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos C<sub>4</sub>.</p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>ASTM D-2163 (3) <br>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos C<sub>5</sub>.</p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>ASTM D-2163 (3) <br>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Olefinas totales.</p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>ASTM D-2163 (3) <br>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diofelinas + acetilenos.</p>
+</td>
+<td>
+<p>p.p.m.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">&lt;1.000 <br></p>
+<p>&lt;1.000 <br></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ASTM D-2163 (3) <br>UNE-EN27941</p>
+<p>ASTM D-2163 (3) <br>UNE-EN27941</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Olor.</p>
+<p>Olor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Característico</p>
+<p>Característico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -3015,420 +3007,420 @@ Para la verificación de los limites de las especificaciones establecidas, las t
 
 ## ESPECIFICACIONES DEL BUTANO COMERCIAL
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Unidades de medida</p>
+<p>Unidades de medida</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Límites</p>
+<p>Límites</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Normas</p>
+<p>Normas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Densidad a 15 °C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/l</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,560</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-1657</p>
+<p>Máximo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Humedad</p>
+<p>Densidad a 15 °C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>kg/l</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>0,560</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2713</p>
+<p>ASTM D-1657</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agua separada</p>
+<p>Humedad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>ASTM D-2713</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agua separada</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Ausencia</p>
+<p>Ausencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido máximo de azufre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2784</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Corrosión</p>
+<p>Contenido máximo de azufre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>mg/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 b.</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-1838</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Presión de vapor man. a 50 °C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/cm<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2598</p>
+<p>ASTM D-2784</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Doctor Test</p>
+<p>Corrosión</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1 b.</p>
+</td>
+<td>
+<p>ASTM D-1838</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Presión de vapor man. a 50 °C</p>
+</td>
+<td>
+<p>kg/cm<sup>2</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>ASTM D-2598</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Doctor Test</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Negativo</p>
+<p>Negativo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-4952</p>
+<p>ASTM D-4952</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Sulfuro de hidrógeno</p>
+<p>Sulfuro de hidrógeno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Negativo</p>
+<p>Negativo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2420</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Residuo volátil (temperatura evaporación del 95 % en volumen).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">°C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">+2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-1837</p>
+<p>ASTM D-2420</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Poder calorífico inferior</p>
+<p>Residuo volátil (temperatura evaporación del 95 % en volumen).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">kcal/kg</p>
+<p>°C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.700</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>+2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-3588</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Poder calorífico superior</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kcal/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11.800</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-3588</p>
+<p>ASTM D-1837</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Composición: <br>Hidrocarburos C<sub>2</sub></p>
+<p>Poder calorífico inferior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
+<p>kcal/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>10.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,0</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>ASTM D-3588</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>3</sub></p>
+<p>Poder calorífico superior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
+<p>kcal/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>11.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>ASTM D-3588</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>4</sub></p>
+<p>Composición: <br>Hidrocarburos C<sub>2</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
+<p>% Volumen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>2,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>ASTM D-2163 (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>5</sub></p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>UNE-EN 27941</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Olefinas totales</p>
+<p>Hidrocarburos C<sub>3</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
+<p>% Volumen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>ASTM D-2163 (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Diolefinas + Acetilenos</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">p.p.m.</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos C<sub>4</sub></p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos C<sub>5</sub></p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Olefinas totales</p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diolefinas + Acetilenos</p>
+</td>
+<td>
+<p>p.p.m.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">&lt;1.000</p>
+<p>&lt;1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163(1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>ASTM D-2163(1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Olor</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Olor</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Característico</p>
+<p>Característico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -3441,389 +3433,389 @@ Para la verificación de los limites de las especificaciones establecidas, las t
 
 ## ANEXO VII — ESPECIFICACIONES DEL GLP DE AUTOMOCION
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Características</p>
+<p>Características</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Unidades de medida</p>
+<p>Unidades de medida</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Límites</p>
+<p>Límites</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Normas</p>
+<p>Normas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Densidad a 15 °C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/l</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-1657</p>
+<p>Máximo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Humedad</p>
+<p>Densidad a 15 °C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>kg/l</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>ASTM D-1657</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2713</p>
+<p>ASTM D-2713</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agua separada</p>
+<p>Agua separada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Ausencia</p>
+<p>Ausencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido máximo de azufre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2784</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Corrosión</p>
+<p>Contenido máximo de azufre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Escala</p>
+<p>mg/kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Clase 1</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ISO 6251</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Presión de vapor man. a 40 °C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kg/cm<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2598</p>
+<p>ASTM D-2784</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ensayo R-Number</p>
+<p>Corrosión</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Escala</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>Clase 1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2158</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ensayo Oil-Number</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2158</p>
+<p>ISO 6251</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Indice octano motor (MON)</p>
+<p>Presión de vapor man. a 40 °C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>kg/cm<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">89</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>15,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2598</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Composición: <br>Hidrocarburos C<sub>2</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
+<p>ASTM D-2598</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Ensayo R-Number</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>3</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
+<p>ASTM D-2158</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Ensayo Oil-Number</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>4</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
+<p>ASTM D-2158</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Indice octano motor (MON)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hidrocarburos C<sub>5</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">% Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
+<p>ASTM D-2598</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Composición: <br>Hidrocarburos C<sub>2</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>% Volumen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Olefinas totales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">%Volumen</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
+<p>ASTM D-2163 (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>UNE-EN 27941</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Diolefinas+Acetilenos</p>
+<p>Hidrocarburos C<sub>3</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">p.p.m.</p>
+<p>% Volumen</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos C<sub>4</sub></p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos C<sub>5</sub></p>
+</td>
+<td>
+<p>% Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Olefinas totales</p>
+</td>
+<td>
+<p>%Volumen</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>ASTM D-2163 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diolefinas+Acetilenos</p>
+</td>
+<td>
+<p>p.p.m.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">&lt;1.000</p>
+<p>&lt;1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ASTM D-2163 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 27941</p>
+<p>ASTM D-2163 (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Olor</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>UNE-EN 27941</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Olor</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Característico</p>
+<p>Característico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -3840,463 +3832,463 @@ Para la verificación de los limites de las especificaciones establecidas, las t
 
 Combustibles comercializados para su uso en vehículos con motor de encendido por chispa-Gasolina
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">Parámetro</p>
+<p>Parámetro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Unidad</p>
+<p>Unidad</p>
 </td>
 <td colspan="5" rowspan="2">
-<p class="cabeza_tabla">Resultados analíticos y estadísticos</p>
+<p>Resultados analíticos y estadísticos</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Valor límite (1)</p>
+<p>Valor límite (1)</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Especifi-caciones nacionales</p>
+<p>Especifi-caciones nacionales</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Según la Direct. 2003/17/CE</p>
+<p>Según la Direct. 2003/17/CE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">N.º de muestras</p>
+<p>N.º de muestras</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mín.</p>
+<p>Mín.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máx.</p>
+<p>Máx.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Media</p>
+<p>Media</p>
 </td>
 <td>
-<p class="cabeza_tabla">Desviación estándar</p>
+<p>Desviación estándar</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mín.</p>
+<p>Mín.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máx.</p>
+<p>Máx.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mín.</p>
+<p>Mín.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máx.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Indice de octanos research</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Máx.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Indice de octanos motor</p>
+<p>Indice de octanos research</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Presión de vapor, DVPE</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">kPa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Destilación: <br>– evaporado a 100 ºC <br>– evaporado a 150 °C</p>
+<p>Indice de octanos motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"><br>% (v/v) <br>% (v/v)</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Análisis de las hidrocarburos: <br>– olefinas <br>– aromáticos <br>– benceno</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"><br>% (v/v) <br>% (v/v) <br>% (v/v)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de oxigeno</p>
+<p>Presión de vapor, DVPE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">%(m/m)</p>
+<p>kPa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Oxigenados: <br>– Metanol <br>– Etanol <br>– Alcohol isopropilico <br>– Alcohol ter-butil <br>– Alcohol iso-butil <br>– Eteres que contengan 5 átomos o más de carbono por molécula <br>– Otros compuestos oxigenados</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"><br>% (v/v) <br>% (v/v) <br>% (v/v) <br>% (v/v) <br>% (v/v) <br>% (v/v) <br><br><br>% (vlv)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de azufre</p>
+<p>Destilación: <br>– evaporado a 100 ºC <br>– evaporado a 150 °C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
+<p><br>% (v/v) <br>% (v/v)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de plomo</p>
+<p>Análisis de las hidrocarburos: <br>– olefinas <br>– aromáticos <br>– benceno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">g/I</p>
+<p><br>% (v/v) <br>% (v/v) <br>% (v/v)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de oxigeno</p>
+</td>
+<td>
+<p>%(m/m)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Oxigenados: <br>– Metanol <br>– Etanol <br>– Alcohol isopropilico <br>– Alcohol ter-butil <br>– Alcohol iso-butil <br>– Eteres que contengan 5 átomos o más de carbono por molécula <br>– Otros compuestos oxigenados</p>
+</td>
+<td>
+<p><br>% (v/v) <br>% (v/v) <br>% (v/v) <br>% (v/v) <br>% (v/v) <br>% (v/v) <br><br><br>% (vlv)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de azufre</p>
+</td>
+<td>
+<p>mg/kg</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de plomo</p>
+</td>
+<td>
+<p>g/I</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="6">
-<p class="cabeza_tabla">Número de muestras por mes</p>
+<p>Número de muestras por mes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Enero</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Abril</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Julio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Octubre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Febrero</p>
+<p>Enero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mayo</p>
+<p>Abril</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Agosto</p>
+<p>Julio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Noviembre</p>
+<p>Octubre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Marzo</p>
+<p>Febrero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">junio</p>
+<p>Mayo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Septiembre</p>
+<p>Agosto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diciembre</p>
+<p>Noviembre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Marzo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>junio</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Septiembre</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Diciembre</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -4307,337 +4299,337 @@ Combustibles comercializados para su uso en vehículos con motor de encendido po
 
 Combustibles comecializados para su uso en vehículos con motor de combustión interna diésel-Gasóleo A
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">Parámetro</p>
+<p>Parámetro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Unidad</p>
+<p>Unidad</p>
 </td>
 <td colspan="5" rowspan="2">
-<p class="cabeza_tabla">Resultados analíticos y estadísticos</p>
+<p>Resultados analíticos y estadísticos</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Valor límite (1)</p>
+<p>Valor límite (1)</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Especifi-caciones nacionales</p>
+<p>Especifi-caciones nacionales</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Según la Direct. 2003/17/CE</p>
+<p>Según la Direct. 2003/17/CE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">N.º de muestras</p>
+<p>N.º de muestras</p>
 </td>
 <td>
-<p class="cabeza_tabla">Min.</p>
+<p>Min.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máx.</p>
+<p>Máx.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Media</p>
+<p>Media</p>
 </td>
 <td>
-<p class="cabeza_tabla">Desviación estándar</p>
+<p>Desviación estándar</p>
 </td>
 <td>
-<p class="cabeza_tabla">Min.</p>
+<p>Min.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máx.</p>
+<p>Máx.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mim.</p>
+<p>Mim.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máx.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Número de cetano</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Máx.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Densidad a 15 ºC</p>
+<p>Número de cetano</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">kg/m<sup>3</sup></p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Destilación: - punto 95%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">º C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrocarburos policíclicos aromáticos</p>
+<p>Densidad a 15 ºC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">% (m/m)</p>
+<p>kg/m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de azufre</p>
+<p>Destilación: - punto 95%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">mg/kg</p>
+<p>º C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrocarburos policíclicos aromáticos</p>
+</td>
+<td>
+<p>% (m/m)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de azufre</p>
+</td>
+<td>
+<p>mg/kg</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="4">
-<p class="cabeza_tabla">Número de muestras por mes</p>
+<p>Número de muestras por mes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Enero</p>
+<p>Enero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Julio</p>
+<p>Julio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Febrero</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Agosto</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Marzo</p>
+<p>Febrero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Septiembre</p>
+<p>Agosto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Abril</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Octubre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mayo</p>
+<p>Marzo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Noviembre</p>
+<p>Septiembre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Junio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Diciembre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Abril</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Octubre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mayo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Noviembre</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Junio</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Diciembre</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </table>

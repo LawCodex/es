@@ -71,8 +71,6 @@ Resueltos, en cuanto Gobiernos de Estados europeos animados de un mismo espírit
 
 Afirmando que incumbe en primer lugar a las Altas Partes Contratantes, con arreglo al principio de subsidiariedad, garantizar el respeto de los derechos y libertades definidos en el presente Convenio y sus protocolos, y que, al hacerlo, gozan de un margen de apreciación, bajo el control del Tribunal Europeo de Derechos Humanos que instituye el presente Convenio,
 
-> Téngase en cuenta que el último considerando, añadido por el art. 1 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554), entra en vigor el 1 de agosto de 2021, de conformidad con lo establecido en su artículo 7.
-
 Han convenido lo siguiente:
 
 > Se añade el último considerando por el art. 1 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554)
@@ -239,16 +237,6 @@ El Tribunal se compondrá de un número de Jueces igual al de las Altas Partes C
 
 4\. Durante su mandato, los Jueces no podrán ejercer ninguna actividad que sea incompatible con las exigencias de su independencia, imparcialidad o disponibilidad necesaria para una actividad ejercida a tiempo completo; cualquier cuestión que se suscite en torno a la aplicación de este párrafo será dirimida por el Tribunal.
 
-> Téngase en cuenta que esta actualización del art. 21, establecida por el art. 2.1 y 2 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554), entra en vigor el 1 de agosto de 2021, de conformidad con lo establecido en su artículo 7.
-
-> Redacción anterior:
-
-> "1. Los Jueces deberán gozar de la más alta consideración moral y reunir las condiciones requeridas para el ejercicio de altas funciones judiciales o ser jurisconsultos de reconocida competencia.
-
-> 2\. Los Jueces formarán parte del Tribunal a título individual.
-
-> 3\. Durante su mandato, los Jueces no podrán ejercer ninguna actividad que sea incompatible con las exigencias de su independencia, imparcialidad o disponibilidad necesaria para una actividad ejercida a tiempo completo; cualquier cuestión que se suscite en torno a la aplicación de este párrafo será dirimida por el Tribunal."
-
 > Se renumeran los apartados 2 y 3 como 3 y 4 y se añade un nuevo apartado 2 por el art. 2.1 y 2 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554)
 
 > Téngase en cuenta para su aplicación el art. 8 del citado Protocolo.
@@ -268,18 +256,6 @@ Los Jueces serán elegidos por la Asamblea Parlamentaria en razón de cada Alta 
 2\. Los jueces permanecerán en sus funciones hasta su sustitución. No obstante, continuarán conociendo de los asuntos que tengan ya asignados.
 
 3\. Un juez sólo podrá ser relevado de sus funciones si los demás jueces deciden, por mayoría de dos tercios, que dicho juez ha dejado de reunir las condiciones requeridas para serlo.
-
-> Téngase en cuenta que esta actualización del art. 23, establecida por el art. 2.3 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554), entra en vigor el 1 de agosto de 2021, de conformidad con lo establecido en su artículo 7.
-
-> Redacción anterior:
-
-> "1. Los jueces serán elegidos por un periodo de nueve años. No serán reelegibles.
-
-> 2\. El mandato de los jueces finalizará cuando alcancen la edad de 70 años.
-
-> 3\. Los jueces permanecerán en sus funciones hasta su sustitución. No obstante, continuarán conociendo de los asuntos que tengan ya asignados.
-
-> 4\. Un juez sólo podrá ser relevado de sus funciones si los demás jueces deciden, por mayoría de dos tercios, que dicho juez ha dejado de reunir las condiciones requeridas para serlo."
 
 > Se suprime el apartado 2 y se renumeran los apartados 3 y 4 como 2 y 3 por el art. 2.3 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554)
 
@@ -377,12 +353,6 @@ b) declararla admisible y dictar al mismo tiempo sentencia sobre el fondo, si la
 
 Si el asunto pendiente ante una Sala plantea una cuestión grave relativa a la interpretación del Convenio o de sus protocolos, o si la solución dada a una cuestión pudiera ser contradictoria con una sentencia dictada anteriormente por el Tribunal, la Sala podrá inhibirse en favor de la Gran Sala, mientras no haya dictado sentencia.
 
-> Téngase en cuenta que esta actualización del articulo 30, establecida por el art. 3 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554), entra en vigor el 1 de agosto de 2021, de conformidad con lo establecido en su artículo 7.
-
-> Redacción anterior:
-
-> "Si el asunto pendiente ante una Sala plantea una cuestión grave relativa a la interpretación del Convenio o de sus protocolos, o si la solución dada a una cuestión pudiera ser contradictoria con una sentencia dictada anteriormente por el Tribunal, la Sala podrá inhibirse en favor de la Gran Sala, mientras no haya dictado sentencia, salvo que una de las partes se oponga a ello."
-
 > Se suprime el inciso final por el art. 3 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554)
 
 > Téngase en cuenta para su aplicación el art. 8 del citado Protocolo.
@@ -434,12 +404,6 @@ a) la demanda es incompatible con las disposiciones del Convenio o de sus Protoc
 b) el demandante no ha sufrido un perjuicio importante, a menos que el respeto de los derechos humanos garantizados por el Convenio y por sus Protocolos exija un examen del fondo de la demanda.
 
 4\. El Tribunal rechazará cualquier demanda que considere inadmisible en aplicación del presente artículo. Podrá decidirlo así en cualquier fase del procedimiento.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 4 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018, [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554), entra en vigor el 1 de febrero de 2022, pasado un plazo de seis meses desde la fecha de entrada en vigor del Protocolo.
-
-> Redacción anterior:
-
-> "1. Al Tribunal no podrá recurrirse sino después de agotar las vías de recursos internas, tal como se entiende según los principios de derecho internacional generalmente reconocidos y en el plazo de seis meses a partir de la fecha de la resolución interna definitiva."
 
 > Se modifica el apartado 1 y se suprime la última frase de la letra b) del apartado 3 por los arts. 4 y 5 del Protocolo nº 15 de enmienda, de 24 de junio de 2013, ratificado por Instrumento de 3 de septiembre de 2018. [Ref. BOE-A-2021-7554](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7554)
 

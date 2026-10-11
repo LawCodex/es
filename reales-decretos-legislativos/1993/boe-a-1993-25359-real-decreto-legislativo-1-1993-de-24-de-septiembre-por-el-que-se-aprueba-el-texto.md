@@ -260,91 +260,91 @@ b) El 1 por 100, si se trata de la constitución de derechos reales de garantía
 
 Si la Comunidad Autónoma no hubiese aprobado la tarifa a que se refiere el párrafo anterior, se aplicará la siguiente escala:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </th>
 <th>
-<p class="cabeza_tabla">Euros</p>
+<p>Euros</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 30,05 euros</p>
+<p>Hasta 30,05 euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,09</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 30,06 a 60,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,18</p>
+<p>0,09</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 60,11 a 120,20</p>
+<p>De 30,06 a 60,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,39</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 120,21 a 240,40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,78</p>
+<p>0,18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 240,41 a 480,81</p>
+<p>De 60,11 a 120,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,68</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 480,82 a 961,62</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,37</p>
+<p>0,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 961,63 a 1.923,24</p>
+<p>De 120,21 a 240,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 1.923,25 a 3.846,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,42</p>
+<p>0,78</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 3846,49 a 7.692,95</p>
+<p>De 240,41 a 480,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,77</p>
+<p>1,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 480,82 a 961,62</p>
+</td>
+<td>
+<p>3,37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 961,63 a 1.923,24</p>
+</td>
+<td>
+<p>7,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 1.923,25 a 3.846,48</p>
+</td>
+<td>
+<p>14,42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 3846,49 a 7.692,95</p>
+</td>
+<td>
+<p>30,77</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">De 7.692,96 en adelante, 0,024040 euros por cada 6,01 o fracción.</p>
+<p>De 7.692,96 en adelante, 0,024040 euros por cada 6,01 o fracción.</p>
 </td>
 </tr>
 </tbody>
@@ -358,75 +358,75 @@ Podrá satisfacerse la deuda tributaria mediante la utilización de efectos timb
 
 :
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </th>
 <th>
-<p class="cabeza_tabla">Euros</p>
+<p>Euros</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 60,10 euros</p>
+<p>Hasta 60,10 euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,06</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 60,11 a 180,30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,18</p>
+<p>0,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 180,31 a 450,76</p>
+<p>De 60,11 a 180,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 450,77 a 901,52</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,96</p>
+<p>0,18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 901,53 a 1.803,04</p>
+<p>De 180,31 a 450,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,98</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 1.803,05 a 6.010,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,21</p>
+<p>0,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 6.010,13 a 12.020,24</p>
+<p>De 450,77 a 901,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,42</p>
+<p>0,96</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 901,53 a 1.803,04</p>
+</td>
+<td>
+<p>1,98</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 1.803,05 a 6.010,12</p>
+</td>
+<td>
+<p>7,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 6.010,13 a 12.020,24</p>
+</td>
+<td>
+<p>14,42</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Exceso: 0,066111 euros por cada 60,10 o fracción.</p>
+<p>Exceso: 0,066111 euros por cada 60,10 o fracción.</p>
 </td>
 </tr>
 </tbody>

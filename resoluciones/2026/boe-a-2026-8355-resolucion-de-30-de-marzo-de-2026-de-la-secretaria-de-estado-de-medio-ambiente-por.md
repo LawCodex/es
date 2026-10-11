@@ -62,386 +62,379 @@ Este acuerdo será objeto de publicación en el «Boletín Oficial del Estado» 
 
 ## ANEXO AL ACUERDO — Catálogo de acuíferos compartidos
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Acuífero compartido</th>
-<th class="cabeza_tabla" colspan="3">Masas de agua subterránea que lo integran</th>
+<th colspan="2">Acuífero compartido</th>
+<th colspan="3">Masas de agua subterránea que lo integran</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Código</th>
-<th class="cabeza_tabla">Nombre</th>
-<th class="cabeza_tabla">Código</th>
-<th class="cabeza_tabla">Nombre</th>
-<th class="cabeza_tabla">Demarcación hidrográfica</th>
+<th>Código</th>
+<th>Nombre</th>
+<th>Código</th>
+<th>Nombre</th>
+<th>Demarcación hidrográfica</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-01</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Losa.</td>
-<td class="cuerpo_tabla_centro">ES091MSBT010</td>
-<td class="cuerpo_tabla_izq">Calizas de Losa.</td>
-<td class="cuerpo_tabla_izq">Ebro.</td>
+<td rowspan="2">AC-01</td>
+<td rowspan="2">Losa.</td>
+<td>ES091MSBT010</td>
+<td>Calizas de Losa.</td>
+<td>Ebro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES017MSBT013-007</td>
-<td class="cuerpo_tabla_izq">Salvada.</td>
-<td class="cuerpo_tabla_izq">Cantábrico Oriental.</td>
+<td>ES017MSBT013-007</td>
+<td>Salvada.</td>
+<td>Cantábrico Oriental.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-02</td>
-<td class="cuerpo_tabla_izq" rowspan="2">La Bureba-Las Loras.</td>
-<td class="cuerpo_tabla_centro">ES020MSBT000400004</td>
-<td class="cuerpo_tabla_izq">Quintanilla-Peñahorada-Las Loras.</td>
-<td class="cuerpo_tabla_izq">Duero.</td>
+<td rowspan="2">AC-02</td>
+<td rowspan="2">La Bureba-Las Loras.</td>
+<td>ES020MSBT000400004</td>
+<td>Quintanilla-Peñahorada-Las Loras.</td>
+<td>Duero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES091MSBT024</td>
-<td class="cuerpo_tabla_izq">Bureba.</td>
-<td class="cuerpo_tabla_izq">Ebro.</td>
+<td>ES091MSBT024</td>
+<td>Bureba.</td>
+<td>Ebro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-03</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Araviana-Aranda de Moncayo.</td>
-<td class="cuerpo_tabla_centro">ES020MSBT000400034</td>
-<td class="cuerpo_tabla_izq">Araviana.</td>
-<td class="cuerpo_tabla_izq">Duero.</td>
+<td rowspan="2">AC-03</td>
+<td rowspan="2">Araviana-Aranda de Moncayo.</td>
+<td>ES020MSBT000400034</td>
+<td>Araviana.</td>
+<td>Duero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES091MSBT073</td>
-<td class="cuerpo_tabla_izq">Borobia-Aranda de Moncayo.</td>
-<td class="cuerpo_tabla_izq">Ebro.</td>
+<td>ES091MSBT073</td>
+<td>Borobia-Aranda de Moncayo.</td>
+<td>Ebro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-04</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Moncayo-Vozmediano.</td>
-<td class="cuerpo_tabla_centro">ES020MSBT000400036</td>
-<td class="cuerpo_tabla_izq">Moncayo.</td>
-<td class="cuerpo_tabla_izq">Duero.</td>
+<td rowspan="2">AC-04</td>
+<td rowspan="2">Moncayo-Vozmediano.</td>
+<td>ES020MSBT000400036</td>
+<td>Moncayo.</td>
+<td>Duero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES091MSBT071</td>
-<td class="cuerpo_tabla_izq">Araviana-Vozmediano.</td>
-<td class="cuerpo_tabla_izq">Ebro.</td>
+<td>ES091MSBT071</td>
+<td>Araviana-Vozmediano.</td>
+<td>Ebro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-05</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Bajo Ebro-Alcanar.</td>
-<td class="cuerpo_tabla_centro">ES091MSBT104</td>
-<td class="cuerpo_tabla_izq">Sierra del Montsiá.</td>
-<td class="cuerpo_tabla_izq">Ebro.</td>
+<td rowspan="2">AC-05</td>
+<td rowspan="2">Bajo Ebro-Alcanar.</td>
+<td>ES091MSBT104</td>
+<td>Sierra del Montsiá.</td>
+<td>Ebro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES100MSBT59</td>
-<td class="cuerpo_tabla_izq">Plana d'Alcanar.</td>
-<td class="cuerpo_tabla_izq">Distrito Cuenca Fluvial de Cataluña.</td>
+<td>ES100MSBT59</td>
+<td>Plana d'Alcanar.</td>
+<td>Distrito Cuenca Fluvial de Cataluña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">AC-06</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Cella-Molina de Aragón.</td>
-<td class="cuerpo_tabla_centro">ES030MSBT030-009</td>
-<td class="cuerpo_tabla_izq">Molina de Aragón.</td>
-<td class="cuerpo_tabla_izq">Tajo.</td>
+<td rowspan="3">AC-06</td>
+<td rowspan="3">Cella-Molina de Aragón.</td>
+<td>ES030MSBT030-009</td>
+<td>Molina de Aragón.</td>
+<td>Tajo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-114</td>
-<td class="cuerpo_tabla_izq">Gea de Albarracín.</td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>ES080MSBT080-114</td>
+<td>Gea de Albarracín.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES091MSBT090</td>
-<td class="cuerpo_tabla_izq">Pozondón.</td>
-<td class="cuerpo_tabla_izq">Ebro.</td>
+<td>ES091MSBT090</td>
+<td>Pozondón.</td>
+<td>Ebro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-07</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Rus-La Roda.</td>
-<td class="cuerpo_tabla_centro">ES040MSBT000030608</td>
-<td class="cuerpo_tabla_izq">Rus-Valdelobos.</td>
-<td class="cuerpo_tabla_izq">Guadiana.</td>
+<td rowspan="2">AC-07</td>
+<td rowspan="2">Rus-La Roda.</td>
+<td>ES040MSBT000030608</td>
+<td>Rus-Valdelobos.</td>
+<td>Guadiana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-200</td>
-<td class="cuerpo_tabla_izq">Mancha Oriental.</td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>ES080MSBT080-200</td>
+<td>Mancha Oriental.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-08</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Campo de Montiel.</td>
-<td class="cuerpo_tabla_centro">ES040MSBT000030609</td>
-<td class="cuerpo_tabla_izq">Campo de Montiel.</td>
-<td class="cuerpo_tabla_izq">Guadiana.</td>
+<td rowspan="2">AC-08</td>
+<td rowspan="2">Campo de Montiel.</td>
+<td>ES040MSBT000030609</td>
+<td>Campo de Montiel.</td>
+<td>Guadiana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES050MSBT000057100</td>
-<td class="cuerpo_tabla_izq">Campo de Montiel.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td>ES050MSBT000057100</td>
+<td>Campo de Montiel.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
-<p class="cuerpo_tabla_centro">AC-09</p>
+<td rowspan="2">
+<p>AC-09</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Sierra de la Oliva.</p>
+<td rowspan="2">
+<p>Sierra de la Oliva.</p>
 </td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000009</td>
-<td class="cuerpo_tabla_izq">Sierra de la Oliva Segura.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td>ES070MSBT000000009</td>
+<td>Sierra de la Oliva Segura.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-197</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Sierra de la Oliva.</p>
+<td>ES080MSBT080-197</td>
+<td>
+<p>Sierra de la Oliva.</p>
 </td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-10</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Jumilla-Villena.</td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000023</td>
-<td class="cuerpo_tabla_izq">Jumilla-Villena Segura.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td rowspan="2">AC-10</td>
+<td rowspan="2">Jumilla-Villena.</td>
+<td>ES070MSBT000000023</td>
+<td>Jumilla-Villena Segura.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-173</td>
-<td class="cuerpo_tabla_izq">Jumilla-Villena.</td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>ES080MSBT080-173</td>
+<td>Jumilla-Villena.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-11</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Serral-Salinas.</td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000027</td>
-<td class="cuerpo_tabla_izq">Serral-Salinas Segura.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td rowspan="2">AC-11</td>
+<td rowspan="2">Serral-Salinas.</td>
+<td>ES070MSBT000000027</td>
+<td>Serral-Salinas Segura.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-181</td>
-<td class="cuerpo_tabla_izq">Serral-Salinas.</td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>ES080MSBT080-181</td>
+<td>Serral-Salinas.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-12</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Quibas.</td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000029</td>
-<td class="cuerpo_tabla_izq">Quibas Segura.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td rowspan="2">AC-12</td>
+<td rowspan="2">Quibas.</td>
+<td>ES070MSBT000000029</td>
+<td>Quibas Segura.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-209</td>
-<td class="cuerpo_tabla_izq">Quibas.</td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>ES080MSBT080-209</td>
+<td>Quibas.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-13</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra de Crevillente.</td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000031</td>
-<td class="cuerpo_tabla_izq">Sierra de Crevillente Segura.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td rowspan="2">AC-13</td>
+<td rowspan="2">Sierra de Crevillente.</td>
+<td>ES070MSBT000000031</td>
+<td>Sierra de Crevillente Segura.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES080MSBT080-189</td>
-<td class="cuerpo_tabla_izq">Sierra de Crevillente.</td>
-<td class="cuerpo_tabla_izq">Júcar.</td>
+<td>ES080MSBT080-189</td>
+<td>Sierra de Crevillente.</td>
+<td>Júcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">AC-14</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Sierra de Segura.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000050200</td>
-<td class="cuerpo_tabla_izq">Quesada-Castril.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="3">AC-14</td>
+<td rowspan="3">Sierra de Segura.</td>
+<td>ES050MSBT000050200</td>
+<td>Quesada-Castril.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES070MSBT000000014</td>
-<td class="cuerpo_tabla_izq">Calar del Mundo.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Segura.</td>
+<td>ES070MSBT000000014</td>
+<td>Calar del Mundo.</td>
+<td rowspan="2">Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES070MSBT000000018</td>
-<td class="cuerpo_tabla_izq">Machada.</td>
+<td>ES070MSBT000000018</td>
+<td>Machada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-15</td>
-<td class="cuerpo_tabla_izq" rowspan="2">La Zarza.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000050500</td>
-<td class="cuerpo_tabla_izq">La Zarza.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-15</td>
+<td rowspan="2">La Zarza.</td>
+<td>ES050MSBT000050500</td>
+<td>La Zarza.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES070MSBT000000037</td>
-<td class="cuerpo_tabla_izq">Sierra de la Zarza.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td>ES070MSBT000000037</td>
+<td>Sierra de la Zarza.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-16</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Orce-María.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000050600</td>
-<td class="cuerpo_tabla_izq">Orce-María-Cúllar.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-16</td>
+<td rowspan="2">Orce-María.</td>
+<td>ES050MSBT000050600</td>
+<td>Orce-María-Cúllar.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES070MSBT000000044</td>
-<td class="cuerpo_tabla_izq">Vélez Blanco-María.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td>ES070MSBT000000044</td>
+<td>Vélez Blanco-María.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-17</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Saltador-Las Norias.</td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000060</td>
-<td class="cuerpo_tabla_izq">Las Norias.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td rowspan="2">AC-17</td>
+<td rowspan="2">Saltador-Las Norias.</td>
+<td>ES070MSBT000000060</td>
+<td>Las Norias.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-001</td>
-<td class="cuerpo_tabla_izq">Cubeta de El Saltador.</td>
-<td class="cuerpo_tabla_izq">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-001</td>
+<td>Cubeta de El Saltador.</td>
+<td>Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-18</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra de Almagro.</td>
-<td class="cuerpo_tabla_centro">ES070MSBT000000062</td>
-<td class="cuerpo_tabla_izq">Sierra de Almagro.</td>
-<td class="cuerpo_tabla_izq">Segura.</td>
+<td rowspan="2">AC-18</td>
+<td rowspan="2">Sierra de Almagro.</td>
+<td>ES070MSBT000000062</td>
+<td>Sierra de Almagro.</td>
+<td>Segura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-052</td>
-<td class="cuerpo_tabla_izq">Sierra de Almagro.</td>
-<td class="cuerpo_tabla_izq">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-052</td>
+<td>Sierra de Almagro.</td>
+<td>Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-19</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra de las Estancias.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000050800</td>
-<td class="cuerpo_tabla_izq">Sierra de las Estancias.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-19</td>
+<td rowspan="2">Sierra de las Estancias.</td>
+<td>ES050MSBT000050800</td>
+<td>Sierra de las Estancias.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-002</td>
-<td class="cuerpo_tabla_izq">Sierra de las Estancias.</td>
-<td class="cuerpo_tabla_izq">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-002</td>
+<td>Sierra de las Estancias.</td>
+<td>Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-20</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra de Padul.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000056500</td>
-<td class="cuerpo_tabla_izq">Sierra de Padul.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-20</td>
+<td rowspan="2">Sierra de Padul.</td>
+<td>ES050MSBT000056500</td>
+<td>Sierra de Padul.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-017</td>
-<td class="cuerpo_tabla_izq">Sierra de Padul Sur.</td>
-<td class="cuerpo_tabla_izq">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-017</td>
+<td>Sierra de Padul Sur.</td>
+<td>Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">AC-21</td>
-<td class="cuerpo_tabla_izq" rowspan="5">Sierras Béticas.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000054200</td>
-<td class="cuerpo_tabla_izq">Tejeda-Almijara-Las Guájaras.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="5">AC-21</td>
+<td rowspan="5">Sierras Béticas.</td>
+<td>ES050MSBT000054200</td>
+<td>Tejeda-Almijara-Las Guájaras.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-064</td>
-<td class="cuerpo_tabla_izq">Sierra Tejeda.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-064</td>
+<td>Sierra Tejeda.</td>
+<td rowspan="4">Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-024</td>
-<td class="cuerpo_tabla_izq">Sierra Almijara.</td>
+<td>ES060MSBT060-024</td>
+<td>Sierra Almijara.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-062</td>
-<td class="cuerpo_tabla_izq">Sierra de las Guájaras.</td>
+<td>ES060MSBT060-062</td>
+<td>Sierra de las Guájaras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-061</td>
-<td class="cuerpo_tabla_izq">Sierra de Albuñuelas.</td>
+<td>ES060MSBT060-061</td>
+<td>Sierra de Albuñuelas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-22</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra Gorda-Zafarraya.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000054000</td>
-<td class="cuerpo_tabla_izq">Sierra Gorda-Zafarraya.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-22</td>
+<td rowspan="2">Sierra Gorda-Zafarraya.</td>
+<td>ES050MSBT000054000</td>
+<td>Sierra Gorda-Zafarraya.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-025</td>
-<td class="cuerpo_tabla_izq">Sierra Gorda-Zafarraya.</td>
-<td class="cuerpo_tabla_izq">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-025</td>
+<td>Sierra Gorda-Zafarraya.</td>
+<td>Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-23</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra de Cañete.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000057200</td>
-<td class="cuerpo_tabla_izq">Sierra de Cañete-Corbones.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-23</td>
+<td rowspan="2">Sierra de Cañete.</td>
+<td>ES050MSBT000057200</td>
+<td>Sierra de Cañete-Corbones.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES060MSBT060-041</td>
-<td class="cuerpo_tabla_izq">Sierra de Cañete Sur.</td>
-<td class="cuerpo_tabla_izq">Cuencas Mediterráneas Andaluzas.</td>
+<td>ES060MSBT060-041</td>
+<td>Sierra de Cañete Sur.</td>
+<td>Cuencas Mediterráneas Andaluzas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">AC-24</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Doñana Oeste.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000055101</td>
-<td class="cuerpo_tabla_izq">Almonte.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Guadalquivir.</td>
+<td rowspan="4">AC-24</td>
+<td rowspan="4">Doñana Oeste.</td>
+<td>ES050MSBT000055101</td>
+<td>Almonte.</td>
+<td rowspan="3">Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES050MSBT000055104</td>
-<td class="cuerpo_tabla_izq">Manto Eólico Litoral de Doñana.</td>
+<td>ES050MSBT000055104</td>
+<td>Manto Eólico Litoral de Doñana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES050MSBT000055105</td>
-<td class="cuerpo_tabla_izq">La Rocina.</td>
+<td>ES050MSBT000055105</td>
+<td>La Rocina.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES064MSBT000305950</td>
-<td class="cuerpo_tabla_izq">Condado.</td>
-<td class="cuerpo_tabla_izq">Tinto, Odiel y Piedras.</td>
+<td>ES064MSBT000305950</td>
+<td>Condado.</td>
+<td>Tinto, Odiel y Piedras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-25</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Niebla-Campo de Tejada.</td>
-<td class="cuerpo_tabla_centro">ES050MSBT000054901</td>
-<td class="cuerpo_tabla_izq">Campo de Tejada.</td>
-<td class="cuerpo_tabla_izq">Guadalquivir.</td>
+<td rowspan="2">AC-25</td>
+<td rowspan="2">Niebla-Campo de Tejada.</td>
+<td>ES050MSBT000054901</td>
+<td>Campo de Tejada.</td>
+<td>Guadalquivir.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES064MSBT000305930</td>
-<td class="cuerpo_tabla_izq">Niebla.</td>
-<td class="cuerpo_tabla_izq">Tinto, Odiel y Piedras.</td>
+<td>ES064MSBT000305930</td>
+<td>Niebla.</td>
+<td>Tinto, Odiel y Piedras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-26</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Ayamonte-Lepe-Cartaya.</td>
-<td class="cuerpo_tabla_centro">ES040MSBT000030596</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
-<td class="cuerpo_tabla_izq">Guadiana.</td>
+<td rowspan="2">AC-26</td>
+<td rowspan="2">Ayamonte-Lepe-Cartaya.</td>
+<td>ES040MSBT000030596</td>
+<td>Ayamonte.</td>
+<td>Guadiana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES064MSBT000305940</td>
-<td class="cuerpo_tabla_izq">Lepe-Cartaya.</td>
-<td class="cuerpo_tabla_izq">Tinto, Odiel y Piedras.</td>
+<td>ES064MSBT000305940</td>
+<td>Lepe-Cartaya.</td>
+<td>Tinto, Odiel y Piedras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AC-27</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Sierra de Aracena.</td>
-<td class="cuerpo_tabla_centro">ES040MSBT000030604</td>
-<td class="cuerpo_tabla_izq">Aroche-Jabugo.</td>
-<td class="cuerpo_tabla_izq">Guadiana.</td>
+<td rowspan="2">AC-27</td>
+<td rowspan="2">Sierra de Aracena.</td>
+<td>ES040MSBT000030604</td>
+<td>Aroche-Jabugo.</td>
+<td>Guadiana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ES064MSBT004400010</td>
-<td class="cuerpo_tabla_izq">Aracena.</td>
-<td class="cuerpo_tabla_izq">Tinto, Odiel y Piedras.</td>
+<td>ES064MSBT004400010</td>
+<td>Aracena.</td>
+<td>Tinto, Odiel y Piedras.</td>
 </tr>
 </tbody>
 </table>

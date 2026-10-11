@@ -662,76 +662,76 @@ Uno.1. Se modifica el artículo 88 de la Ley 39/1988, de 28 de diciembre, Regula
 
 «Los Ayuntamientos podrán modificar las cuotas mínimas fijadas en las tarifas del Impuesto, mediante la aplicación sobre las mismas de un coeficiente único para todas las actividades ejercidas en sus respectivos términos municipales, con arreglo al siguiente cuadro:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Municipios con población <br>de derecho</p>
+<p>Municipios con población <br>de derecho</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Coeficiente</p>
+<p>Coeficiente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Máximo</p>
+<p>Máximo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mínimo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De hasta 5.000 habitantes</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,8</p>
+<p>Mínimo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 5.001 a 20.000 habitantes</p>
+<p>De hasta 5.000 habitantes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 20.001 a 50.000 habitantes</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,8</p>
+<p>0,8</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 50.001 a 100.000 habitantes</p>
+<p>De 5.001 a 20.000 habitantes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8</p>
+<p>0,8</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Superior a 100.000 habitantes</p>
+<p>De 20.001 a 50.000 habitantes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8</p>
+<p>0,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 50.001 a 100.000 habitantes</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superior a 100.000 habitantes</p>
+</td>
+<td>
+<p>1,9</p>
+</td>
+<td>
+<p>0,8</p>
 </td>
 </tr>
 </table>

@@ -1222,12 +1222,6 @@ Dicho programa deberá ser aprobado por el Banco de España, que podrá incluir 
 
 Lo dispuesto en este apartado no será de aplicación si el déficit de recursos propios es inferior al requisito combinado de colchones de capital o, en su caso, al requerimiento de colchón de ratio de apalancamiento a los que esté sujeta. En estos dos casos, se aplicará lo establecido en el artículo 75.
 
-> Téngase en cuenta que esta actualización del último párrafo del apartado 1, establecida por el art. 3.17 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286), entra en vigor el 1 de enero de 2022, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "Lo dispuesto en este apartado no será de aplicación si el déficit de recursos propios es inferior al requisito combinado de colchones de capital, en cuyo caso se aplicará lo establecido en el artículo 75."
-
 2\. Idéntica actuación a la prevista en el apartado anterior se seguirá cuando se rebasen los límites a los grandes riesgos establecidos en la parte cuarta del Reglamento (UE) n.º 575/2013, de 26 de junio de 2013, incluso cuando sea por causa de una reducción sobrevenida de los recursos propios computables.
 
 3\. Cuando el Banco de España, de conformidad con lo previsto en el artículo 68 de la Ley 10/2014, de 26 de junio, obligue a una entidad de crédito o a un grupo o subgrupo a mantener recursos propios adicionales a los exigidos con carácter de mínimo, y de dicha exigencia resulte que los recursos propios de la entidad son insuficientes, la entidad o la entidad obligada del grupo o subgrupo, según el caso, presentará en el plazo de un mes un programa en el que se concreten los planes para cumplir con el requerimiento adicional, salvo si la situación se hubiera corregido en ese período. En el caso de que la entidad incumplidora pertenezca a un grupo o subgrupo consolidable de entidades de crédito, el programa deberá estar refrendado por la entidad obligada del mismo.
@@ -1606,8 +1600,6 @@ Qn indica el número ordinal del cuartil correspondiente.
 
 3\. Las entidades dispondrán de mecanismos para garantizar que el importe de beneficios distribuible y el A-IMD se calculen con exactitud y habrán de poder demostrar esa exactitud al Banco de España cuando así se les solicite.
 
-> Téngase en cuenta que este artículo, añadido por el art. 3.32 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286), entra en vigor el 1 de enero de 2022, según establece su disposición final 2.
-
 > Se añade por el art. 3.32 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286)
 
 > Este artículo entra en vigor el 1 de enero de 2022, según establece la disposición final 2 del citado Real Decreto.
@@ -1666,8 +1658,6 @@ d) El importe de beneficios distribuibles que se propone asignar a lo siguiente:
 
 e) El A-IMD calculado de conformidad con artículo 73 bis.
 
-> Téngase en cuenta que este artículo, añadido por el art. 3.34 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286), entra en vigor el 1 de enero de 2022, según establece su disposición final 2.
-
 > Se añade por el art. 3.34 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286)
 
 > Este artículo entra en vigor el 1 de enero de 2022, según establece la disposición final 2 del citado Real Decreto.
@@ -1683,20 +1673,6 @@ b) Medidas encaminadas a incrementar las ratios de capital de la entidad.
 c) Un plan y un calendario de aumento de los recursos propios con el objetivo de cumplir plenamente los requisitos combinados de colchón y, si ha lugar, el requisito de colchón de ratio de apalancamiento.
 
 d) Cualesquiera otros datos que el Banco de España juzgue necesarios para llevar a cabo la evaluación prevista por el artículo 49.2 de la Ley 10/2014, de 26 de junio.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. 3.35 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286), entra en vigor el 1 de enero de 2022, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "Conforme a lo dispuesto en el artículo 49 de la Ley 10/2014, de 26 de junio, cuando una entidad de crédito no cumpla el requisito combinado de colchón elaborará un plan de conservación del capital y lo presentará al Banco de España en el plazo máximo de cinco días hábiles a partir de la fecha en que compruebe su incumplimiento de dichos requisitos, a no ser que el Banco de España autorice un plazo mayor de hasta diez días. Dicho plan, habrá de tener el contenido siguiente:
-
-> a) Estimaciones de ingresos y gastos y una previsión de balance.
-
-> b) Medidas encaminadas a incrementar los ratios de capital de la entidad.
-
-> c) Un plan y un calendario de aumento de los recursos propios con el objetivo de cumplir plenamente los requisitos combinados de colchón.
-
-> d) Cualesquiera otros datos que el Banco de España juzgue necesarios para llevar a cabo la evaluación prevista por el artículo 49.2 de la Ley 10/2014, de 26 de junio."
 
 > Se modifica por el art. 3.35 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286)
 

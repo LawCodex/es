@@ -240,24 +240,6 @@ d) Las demás funciones que se le atribuyan legal o reglamentariamente.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Se crea la Comisión de Evaluación Documental como órgano asesor de la Administración de la Comunidad Foral para el desempeño de las competencias que se le atribuyen en el apartado siguiente.
-
-> 2\. Corresponden a la Comisión de Evaluación Documental las siguientes funciones:
-
-> a) Determinar los criterios de valoración de series documentales para la eliminación o conservación permanente y acceso a los documentos de archivo.
-
-> b) Establecer con arreglo a la valoración documental y la legislación vigente las condiciones y plazos de acceso a los documentos integrantes del Patrimonio Documental de Navarra.
-
-> c) Cuantas funciones se determinen reglamentariamente
-
-> 3\. Son miembros natos de la Comisión de Evaluación Documental el titular de la Dirección General competente en materia de Archivos, que la presidirá. Lo integrarán el número de vocales que se establezca reglamentariamente, designados entre personas de reconocido prestigio, de conocimiento especializado o considerada presencia en el ámbito de las funciones que se atribuyen a la Comisión. Los vocales percibirán por el ejercicio de sus funciones las compensaciones que se determinen reglamentariamente.
-
-> 4\. La composición, organización y funcionamiento de la Comisión de Evaluación Documental se fijarán reglamentariamente."
-
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
 ## TÍTULO III — Clasificación, declaración y registro de los bienes del Patrimonio Cultural de Navarra
@@ -465,14 +447,6 @@ a) Comunicar a las Administraciones Públicas las transmisiones, traslados o act
 b) **(Derogada).**
 
 c) **(Derogada).**
-
-> Téngase en cuenta que las letras b) y c) se derogan por la disposición derogatoria única de la Ley Foral 1/2019, de 15 de enero. [Ref. BOE-A-2019-1541](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1541) desde el 25 de enero de 2020, según establece su disposición final 5:
-
-> Redacción anterior:
-
-> "b) Permitir la visita pública a los Bienes de Interés Cultural en las condiciones que reglamentariamente se determinen, en días y horas previamente señalados, así como el acceso de los investigadores a los bienes inscritos, previa solicitud razonada, que sólo podrá ser rechazada cuando concurran causas justificativas de dicho rechazo a juicio del Departamento competente en materia de cultura. En todo caso, deberá garantizarse el respeto al derecho a la intimidad personal y familiar.
-
-> c) Prestar los bienes muebles para exposiciones temporales que sean organizadas o promovidas por la Administración de la Comunidad Foral o la Administración General del Estado, para lo cual éstas deberán ofrecer las debidas garantías a favor de sus titulares. El límite temporal, con carácter general, de esta obligación será de un mes por año."
 
 d) Cuantos otros deberes se les impongan expresamente por esta Ley Foral o por el resto del Ordenamiento Jurídico.
 
@@ -848,37 +822,11 @@ Especialmente velará por la conservación de todos aquellos espacios que cobije
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Forman parte del Patrimonio Documental de Navarra:
-
-> a) Los documentos públicos, entendiendo por tales, los documentos de cualquier época generados, conservados o reunidos en el ejercicio de su función por el Parlamento de Navarra y sus Instituciones auxiliares.
-
-> b) Los documentos públicos, entendiendo por tales, los documentos de cualquier época generados, conservados o reunidos en el ejercicio de su función por los órganos de las Administraciones Públicas de Navarra y los demás organismos de carácter público y las empresas y entidades que de ellas dependan o en las que participe mayoritariamente la Comunidad Foral de Navarra, y por las personas privadas, físicas o jurídicas, gestoras de servicios públicos en el ejercicio de sus actividades.
-
-> c) Los documentos de carácter público de los fedatarios y registros públicos.
-
-> d) Los documentos con antigüedad superior a cuarenta años que hayan sido producidos, conservados o reunidos en el ejercicio de sus actividades por entidades y asociaciones de carácter político, económico, empresarial, sindical o religioso y por las entidades, fundaciones y asociaciones culturales y educativas de carácter privado establecidas en la Comunidad Foral de Navarra.
-
-> e) Los documentos con antigüedad superior a cien años que se encuentren en la Comunidad Foral de Navarra y hayan sido producidos, conservados o reunidos por cualquier otra entidad privada o persona física.
-
-> f) Los documentos de carácter público o privado que, con independencia de su antigüedad, sean declarados por el Departamento competente en materia de cultura como constitutivos del Patrimonio Documental de Navarra.
-
-> 2\. Asimismo, la Administración de la Comunidad Foral de Navarra velará por la integración en el Patrimonio Documental de Navarra de aquellos documentos de instituciones y entidades navarras o con sede en Navarra, hoy desaparecidas."
-
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
 ##### Artículo 72. Concepto de documento.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "A efectos de esta Ley Foral se entiende por documento cualquier expresión del lenguaje oral o escrito, natural o codificado, y cualquier expresión gráfica, sonora o en imagen, recogida en cualquier tipo de soporte material, actual o futuro, generada en el ejercicio de la actividad de las personas."
 
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
@@ -886,27 +834,11 @@ Especialmente velará por la conservación de todos aquellos espacios que cobije
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "La protección del Patrimonio Documental podrá llevarse a cabo a través de su inclusión en alguna de las clases de bienes del Patrimonio Cultural de Navarra y, en cualquier caso, mediante la aplicación de las reglas específicas contenidas en este capítulo.
-
-> En lo no previsto en ellas le será de aplicación cuanto se dispone con carácter general en la presente Ley Foral sobre los bienes muebles."
-
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
 ##### Artículo 74. Conservación del Patrimonio Documental.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Se prohíbe la eliminación o destrucción de bienes del Patrimonio Documental, público o privado, salvo resolución del órgano competente, de acuerdo con el procedimiento y la forma que se establezca reglamentariamente. Con carácter general, gozarán de especial protección los documentos con antigüedad superior a cuarenta años.
-
-> 2\. En ningún caso se podrán destruir tales documentos en tanto subsista su valor probatorio de derechos y obligaciones de las personas o los entes públicos."
 
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
@@ -914,35 +846,11 @@ Especialmente velará por la conservación de todos aquellos espacios que cobije
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Se entiende por ciclo vital de los documentos las fases en las que se estructura la vida del documento desde su creación hasta su conservación definitiva en consideración a su importancia como testimonio histórico, o bien hasta su eliminación una vez agotado su valor administrativo.
-
-> 2\. La Administración de la Comunidad Foral de Navarra velará por el cumplimiento de las normas de conservación de los documentos producidos por las distintas Administraciones Públicas de Navarra, incluyendo la regulación de sus valores administrativo e histórico, accesibilidad, períodos de conservación y, en su caso, plazo de eliminación, en función de su importancia como testimonio de la actividad de las Administraciones Públicas, de modo que se garantice su conservación permanente.
-
-> 3\. Las normas de conservación serán establecidas por el órgano competente."
-
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
 ##### Artículo 76. Deberes de los poseedores.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Los poseedores de bienes del Patrimonio Documental, cualquiera que sea su titularidad, tienen los siguientes deberes:
-
-> a) Proteger y conservar, debidamente organizados, los bienes del Patrimonio Documental e impedir su destrucción, división y merma, manteniéndolos en condiciones adecuadas para su correcta conservación. El incumplimiento de este deber podrá ser causa de interés social para la expropiación forzosa de los bienes afectados o, en el caso de las Administraciones Públicas, para ordenar su depósito en el Archivo General de Navarra hasta que se creen las condiciones correctas para garantizar su conservación.
-
-> b) Facilitar la inspección.
-
-> c) Permitir su uso para la investigación y difusión cultural. El Departamento competente podrá sustituir este deber, a petición del interesado, por el de depositar temporalmente el bien en un Archivo público que reúna las condiciones adecuadas para la seguridad de los bienes y su investigación.
-
-> 2\. Los anteriores deberes se determinarán reglamentariamente, en función de la categoría de protección que les afecte."
 
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
@@ -950,39 +858,11 @@ Especialmente velará por la conservación de todos aquellos espacios que cobije
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Se entiende por archivo, a los efectos de esta Ley Foral, el organismo o institución desde el que se desarrollan específicamente funciones de organización, tutela, gestión, descripción, conservación y difusión de documentos y fondos documentales, al servicio de su utilización para la gestión administrativa, información, e investigación. También se entiende por archivo el fondo o el conjunto de fondos documentales.
-
-> 2\. Se entiende por fondo documental, a los efectos de esta Ley Foral, el conjunto orgánico de documentos reunido en un proceso natural que han sido generados o recibidos por una persona física o jurídica, pública o privada, a lo largo de su existencia y en el ejercicio de las actividades y funciones que le son propias."
-
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
 ##### Artículo 78. Sistema Archivístico de Navarra.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. El Sistema Archivístico de Navarra es el conjunto coordinado de órganos, centros, servicios y otros recursos archivísticos encuadrados en la Comunidad Foral Navarra, que mediante la aplicación de normas y procedimientos comunes, garantiza la uniformidad de tratamiento, complementariedad y eficacia en cuanto a la adecuada gestión, protección, valoración, conservación, recogida, descripción y difusión del Patrimonio Documental de Navarra, a través de la cooperación y la coordinación de actuaciones de sus integrantes, especialmente en cuanto a la incorporación de las nuevas tecnologías en el quehacer archivístico.
-
-> 2\. Forman parte del Sistema Archivístico de Navarra:
-
-> a) El Departamento competente, que tendrá encomendadas las funciones de cabecera del sistema.
-
-> b) Los órganos, centros, servicios y otros recursos archivísticos pertenecientes a todas las Administraciones Públicas presentes o radicadas en la Comunidad Foral de Navarra, sea cual sea su titularidad pública y la antigüedad de su documentación.
-
-> c) El Consejo Navarro de Cultura.
-
-> d) La Comisión de Evaluación Documental.
-
-> e) El resto de órganos, centros, servicios y otros recursos archivísticos privados que se integren en el Sistema mediante convenio u otras figuras de cooperación.
-
-> f) Otros órganos que puedan ser creados en el futuro con competencias en el ámbito del Patrimonio Documental."
 
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
@@ -990,23 +870,11 @@ Especialmente velará por la conservación de todos aquellos espacios que cobije
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "El Departamento competente, en colaboración con las demás Administraciones públicas de Navarra, elaborará y mantendrá actualizado el Censo de Archivos de Navarra, a cuyo efecto podrá recabar de los titulares de derechos sobre los bienes que lo integran su examen y las informaciones pertinentes."
-
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
 ##### Artículo 80. Acceso a la documentación.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "1. Todas las personas podrán ejercitar el derecho de acceso a los archivos y el derecho a la consulta de los documentos integrantes del Patrimonio Documental de Navarra, y a la obtención de la información sobre su contenido de acuerdo con la legislación aplicable en cada caso, cualquiera que sea la titularidad de la documentación."
 
 > Se deroga, con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 
@@ -1179,12 +1047,6 @@ g) El incumplimiento del plazo fijado para la entrega de los materiales obtenido
 h) La dejación de funciones por parte de los directores de actividades arqueológicas.
 
 i) El incumplimiento de la obligación de inscripción en el Registro a que se refiere el artículo 49 de esta Ley Foral.
-
-> Téngase en cuenta que la derogación de la letra j), establecida por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613), produce efectos desde el 2 de agosto de 2026.
-
-> Redacción anterior:
-
-> "j) La retención ilícita o depósito indebido de documentos que formen parte del Patrimonio Documental de Navarra por quienes los tengan a su cargo y no los entreguen al cesar en sus funciones a quien les sustituya en ellas o no los remitan al archivo que corresponda."
 
 > Se deroga la letra j), con efectos desde el 2 de agosto de 2026, por la disposición derogatoria única de la Ley Foral 9/2026, de 20 de mayo. [Ref. BOE-A-2026-12613](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12613)
 

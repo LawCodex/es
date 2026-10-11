@@ -1623,86 +1623,86 @@ El plazo máximo para dictar y notificar la resolución de inscripción en el re
 
 a) Para las instalaciones de cogeneración se considerará modificación de una instalación preexistente la sustitución de, al menos, los equipos indicados en la tabla siguiente en función de la tipología y tecnología.
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipología de la cogeneración antes de la modificación</p>
+<p>Tipología de la cogeneración antes de la modificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Equipos a ser sustituidos</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Ciclo simple de secado con turbina.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">• Turbina(s) de gas.</p>
+<p>Equipos a ser sustituidos</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Ciclo simple de secado con motor.</p>
+<p>Ciclo simple de secado con turbina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">• Motor(es) alternativo(s).</p>
+<p>• Turbina(s) de gas.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Ciclo simple de secado con motor.</p>
+</td>
+<td>
+<p>• Motor(es) alternativo(s).</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Ciclo simple con generación de vapor y/o agua caliente con turbina.</p>
+<p>Ciclo simple con generación de vapor y/o agua caliente con turbina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin generación de frío.</p>
+<p>Sin generación de frío.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">• Turbina(s) de gas.</p>
+<p>• Turbina(s) de gas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Con generación de frío.</p>
+<p>Con generación de frío.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">• Turbina(s) de gas y • Recuperador(es) de calor o máquina(s) de absorción.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Ciclo simple con generación de vapor y/o agua caliente con motor alternativo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sin generación de frío.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">• Motor(es) alternativo(s).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Con generación de frío.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">• Motor(es) alternativo(s) y • Recuperador(es) de calor o máquina(s) de absorción.</p>
+<p>• Turbina(s) de gas y • Recuperador(es) de calor o máquina(s) de absorción.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Ciclo combinado.</p>
+<p>Ciclo simple con generación de vapor y/o agua caliente con motor alternativo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin generación de frío.</p>
+<p>Sin generación de frío.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">• Turbina(s) de gas y • Recuperador(es) de calor o turbogenerador de vapor.</p>
+<p>• Motor(es) alternativo(s).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Con generación de frío.</p>
+<p>Con generación de frío.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">• Turbina(s) de gas y • Máquina(s) de absorción y • Recuperador(es) de calor o turbogenerador de vapor.</p>
+<p>• Motor(es) alternativo(s) y • Recuperador(es) de calor o máquina(s) de absorción.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Ciclo combinado.</p>
+</td>
+<td>
+<p>Sin generación de frío.</p>
+</td>
+<td>
+<p>• Turbina(s) de gas y • Recuperador(es) de calor o turbogenerador de vapor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Con generación de frío.</p>
+</td>
+<td>
+<p>• Turbina(s) de gas y • Máquina(s) de absorción y • Recuperador(es) de calor o turbogenerador de vapor.</p>
 </td>
 </tr>
 </table>
@@ -1826,24 +1826,6 @@ En los sistemas eléctricos de los territorios no peninsulares, el límite de po
 5\. No obstante lo anterior, las instalaciones o agrupaciones de instalaciones cuya potencia instalada sea menor de 5 MW y se encuentren dentro del ámbito de aplicación del Reglamento (UE) 2016/631, de 14 de abril de 2016, deberán cumplir con los requisitos de controlabilidad exigidos por dicho reglamento, en las condiciones de funcionamiento que se establezcan en la orden ministerial que apruebe los requisitos que deben establecer los gestores de red pertinentes de conformidad con lo establecido en dicho reglamento.
 
 6\. El encargado de la lectura comunicará a los titulares de las instalaciones incluidas en esta disposición y al operador del sistema la información detallada de las instalaciones conectadas a su red que formen parte de una agrupación según la definición establecida en la presente disposición, incluyendo el código de la agrupación y su potencia. La comunicación a los titulares de las instalaciones se realizará al menos anualmente, antes del 31 de marzo, y sólo para aquellos casos en los que se produzcan modificaciones desde la última comunicación.
-
-> Téngase en cuenta que esta última actualizacion, establecida por el art. único.13 del Real Decreto 413/2014, de 6 de junio, surte efectos desde el 1 de junio de 2026, según determina su disposición transitoria única.2. [Ref. BOE-A-2025-20694](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20694)
-
-> Redacción anterior:
-
-> "**Disposición adicional duodécima. Obligación de adscripción a un centro de control de generación para las instalaciones y agrupaciones de instalaciones de producción de energía eléctrica no incluidas en el ámbito de aplicación del presente real decreto**.
-
-> Las instalaciones de producción de energía eléctrica no incluidas en el ámbito de aplicación del presente real decreto con potencia instalada superior a 5 MW, y aquellas con potencia instalada inferior o igual a 5 MW pero que formen parte de una agrupación cuya suma total de potencias instaladas sea mayor de 5 MW, deberán estar adscritas a un centro de control de generación, que actuará como interlocutor con el operador del sistema, remitiéndole la información en tiempo real de las instalaciones y haciendo que sus instrucciones sean ejecutadas con objeto de garantizar en todo momento la fiabilidad del sistema eléctrico.
-
-> En los sistemas eléctricos de los territorios no peninsulares, el límite de potencia anterior será de 0,5 MW para las instalaciones o agrupaciones.
-
-> A efectos de esta disposición se define agrupación al conjunto de instalaciones que se conecten en un mismo punto de la red de distribución o transporte, o dispongan de línea o transformador de evacuación común, considerando un único punto de la red de distribución o transporte, una subestación o un centro de transformación. Del mismo modo, formarán parte de la misma agrupación aquellas instalaciones que se encuentren en una misma referencia catastral, considerada esta por sus primeros 14 dígitos. La potencia instalada de una agrupación será la suma de las potencias instaladas de las instalaciones unitarias que la integran.
-
-> A efectos de lo previsto en esta disposición, las instalaciones de producción híbridas deberán remitir la información intercambiada con el operador del sistema en tiempo real para la instalación en su conjunto y la desagregada para cada módulo de generación de electricidad perteneciente a dicha instalación, así como, en su caso, para las instalaciones de almacenamiento.
-
-> No obstante lo anterior, las instalaciones o agrupaciones de instalaciones cuya potencia instalada sea menor de 5MW y se encuentren dentro del ámbito de aplicación del Reglamento (UE) 2016/631, de 14 de abril de 2016, deberán cumplir con los requisitos de controlabilidad exigidos por dicho Reglamento, en las condiciones de funcionamiento que se establezcan en la orden ministerial que apruebe los requisitos que deben establecer los gestores de red pertinentes de conformidad con lo establecido en dicho reglamento.
-
-> El encargado de la lectura comunicará a los titulares de las instalaciones incluidas en esta disposición y al operador del sistema la información detallada de las instalaciones conectadas a su red que formen parte de una agrupación según la definición establecida en la presente disposición, incluyendo el código de la agrupación y su potencia. La comunicación a los titulares de las instalaciones se realizará al menos anualmente, antes del 31 de marzo, y sólo para aquellos casos en los que se produzcan modificaciones desde la última comunicación."
 
 > Se modifica por el art. único.13 del del Real Decreto 413/2014, de 6 de junio. [Ref. BOE-A-2025-20694](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20694)
 
@@ -2369,22 +2351,22 @@ c) De otro tipo, si su uso térmico está prohibido por la legislación.
 
 El cálculo del rendimiento se realizará conforme a la siguiente fórmula:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Rendimiento =</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>[PEB] × 0,086</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>EPC</em>
 </p>
 </td>
@@ -2763,18 +2745,18 @@ Para las instalaciones reguladas en el artículo 4, se calculará la energía pr
 
 1\. Hibridaciones tipo 1:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Eri = E</p>
+<p>Eri = E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C<sub>i</sub></p>
+<p>C<sub>i</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">C<sub>b</sub></p>
+<p>C<sub>b</sub></p>
 </td>
 </tr>
 </table>

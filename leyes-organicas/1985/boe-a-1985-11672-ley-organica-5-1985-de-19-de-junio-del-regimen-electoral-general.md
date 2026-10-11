@@ -2888,49 +2888,49 @@ Las Juntas Electorales Provinciales adoptaran las resoluciones necesarias para d
 
 1\. En cada isla se eligen por sufragio universal, directo y secreto, y en urna distinta a la destinada a la votación para Concejales, tantos Consejeros Insulares como a continuación se determinan:
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <th> </th>
 <th>
-<p class="cabeza_tabla">Consejeros</p>
+<p>Consejeros</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 10.000 residentes</p>
+<p>Hasta 10.000 residentes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 10.001 a 20.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 20.001 a 50.000</p>
+<p>De 10.001 a 20.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 50.001 a 100.000</p>
+<p>De 20.001 a 50.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 50.001 a 100.000</p>
+</td>
+<td>
+<p>21</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">De 100.001 en adelante 1 Consejero más por cada 100.000 residentes o fracción, añadiéndose uno más cuando el resultado sea un número par.</p>
+<p>De 100.001 en adelante 1 Consejero más por cada 100.000 residentes o fracción, añadiéndose uno más cuando el resultado sea un número par.</p>
 </td>
 </tr>
 </tbody>

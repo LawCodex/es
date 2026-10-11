@@ -1,0 +1,589 @@
+---
+title: "Resolución de 27 de marzo de 2018, de la Presidencia del Consorcio de Compensación de Seguros, por la que se aprueban los modelos de declaración e ingreso por vía electrónica de los recargos recaudados por las entidades aseguradoras"
+identifier: "BOE-A-2018-5001"
+eli: "https://www.boe.es/eli/es/res/2018/03/27/(4)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía, Industria y Competitividad"
+date: 2018-03-27
+published: 2018-04-13
+in_force_from: 2019-01-01
+last_amended: 2025-12-31
+consolidated: 2026-01-05
+gazette: "Boletín Oficial del Estado núm. 90"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-5001"
+retrieved: 2026-10-11
+---
+
+# Resolución de 27 de marzo de 2018, de la Presidencia del Consorcio de Compensación de Seguros, por la que se aprueban los modelos de declaración e ingreso por vía electrónica de los recargos recaudados por las entidades aseguradoras
+
+El marco normativo de la declaración e ingreso de los recargos del Consorcio de Compensación de Seguros se ha mantenido sin modificaciones sustanciales desde 2004, sin perjuicio de ciertos ajustes técnicos llevados a cabo por la Resolución de 9 de octubre de 2009, de la Presidencia del Consorcio de Compensación de Seguros.
+
+De un tiempo a esta parte se han sucedido avances tecnológicos que afectan a la sistemática y la capacidad de las entidades aseguradoras de llevar a cabo el tratamiento e intercambio de información de forma eficiente y segura, lo que permite abordar mejoras operativas y procedimentales, en el contenido de la declaración e ingreso de los recargos y en la información de los riesgos cubiertos por el Consorcio.
+
+Por otra parte, la Intervención General de la Administración del Estado en la carta de recomendaciones y en el informe adicional al de auditoría de las cuentas anuales del Consorcio de Compensación de Seguros de los últimos ejercicios, ha puesto de manifiesto la conveniencia de mejorar la información disponible de los riesgos cubiertos, de los contratos de seguro que han satisfecho el recargo del Consorcio y de la identificación y localización de los riesgos asegurados. Ello en la práctica supone la necesidad de que las entidades aseguradoras remitan al Consorcio, junto a la declaración de los recargos, información complementaria de las pólizas respecto a las que se han ingresados los recargos, los capitales asegurados o la localización de los riesgos.
+
+La presente resolución incluye, como principales novedades: la simplificación de la información incluida en los modelos de declaración; la compensación de los extornos de primas en las declaraciones de recargos de las entidades aseguradoras, sin perjuicio de la facultad del Consorcio de solicitar información complementaria para revisar su procedencia; la eliminación de la necesidad de la presentación de los modelos de declaración e ingreso si en un periodo no hubiera primas cobradas o emitidas; y la necesidad de que las entidades aseguradoras remitan al Consorcio, junto con los modelos de declaración e ingreso de los recargos, el Fichero de Información Complementaria de las pólizas a las que correspondan los recargos ingresados, sus capitales asegurados y la localización de los riesgos.
+
+Esta resolución se complementará, en los próximos meses, con otra resolución de la Presidencia del Consorcio relativa al procedimiento y plazo de declaración e ingreso de los recargos.
+
+Esta resolución se dicta al amparo de lo dispuesto en el apartado 2 del artículo 5 del Estatuto Legal del Consorcio de Compensación de Seguros, que atribuye a la Presidencia del Consorcio las funciones que no corresponden expresamente a su Consejo de Administración.
+
+En virtud de lo anterior, la Presidencia del Consorcio de Compensación de Seguros ha resuelto:
+
+## Uno. Aprobación de los modelos.
+
+1\. Se aprueban los siguientes modelos:
+
+– De Declaración e Ingreso de los Recargos a favor del Consorcio: Modelo 10 “Declaración y liquidación del recargo para la cobertura de riesgos extraordinarios, daños directos en los bienes y en las personas”; modelo 11 “Declaración y liquidación del recargo para la cobertura de riesgos extraordinarios, pérdidas pecuniarias”; modelo 20 “Declaración y liquidación de recargos en el seguro obligatorio de responsabilidad civil en la circulación de vehículos terrestres automóviles”; y modelo 50 “Declaración y liquidación del recargo destinado a financiar la actividad liquidadora de entidades aseguradoras”.
+
+– De Designación y Modificación del Representante de la Entidad Aseguradora.
+
+– Fichero de Información Complementaria.
+
+2\. El contenido de los modelos aprobados se detalla en los anexos a esta resolución.
+
+> Se modifica el punto 1 por el apartado primero.1 de la Resolución de 30 de diciembre de 2025. [Ref. BOE-A-2025-27119](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27119)
+
+> Esta modificación surtirá efectos en las declaraciones presentadas en el Sistema de Información de Recargos a partir del día 1 del mes siguiente a la entrada en vigor de la obligatoriedad de contratar el seguro de responsabilidad civil de vehículos personales ligeros, según establece el apartado tercero de la citada Resolución.
+
+## Dos. Representante ante el Consorcio.
+
+1\. La declaración e ingreso de los recargos al Consorcio por las entidades aseguradoras que operen en España requerirá la previa designación fehaciente de un representante ante el Consorcio, mediante la presentación del modelo de Designación y Modificación del Representante de la Entidad Aseguradora.
+
+2\. Los representantes designados por las entidades aseguradoras quedarán inscritos en el Registro de Representantes de Entidades Aseguradoras del Consorcio.
+
+## Tres. Declaración e ingreso de los recargos.
+
+1\. La declaración e ingreso de recargos se realizará por vía electrónica.
+
+2\. Los recargos se recaudan juntamente con las primas, por lo que no será posible declarar recargos si no hay una póliza a la que se refieran.
+
+3\. La declaración e ingreso de recargos se podrá llevar a cabo cuando se cobren o emitan las primas y, en caso de primas fraccionadas, con el cobro de la primera fracción o de cada una de las fracciones de primas. La opción de declaración e ingreso de los recargos a la fecha de emisión de las primas o al cobro de cada una de las fracciones de prima exigirá, de conformidad con lo dispuesto en el apartado 2 del artículo 18 del Estatuto Legal del Consorcio, la previa comunicación al Consorcio. Adicionalmente, la declaración e ingreso de los recargos al cobro de cada una de las fracciones de prima requerirá hacerlo constar en las bases técnicas y aplicarse de forma sistemática en el ramo o riesgo de que se trate.
+
+Si se opta por la declaración de los recargos según el cobro de cada fracción de prima, deberán incrementarse los recargos en los tipos de fraccionamiento vigentes, previstos en el apartado 3 del artículo 18 del Estatuto Legal del Consorcio y en la Resolución de 3 de febrero de 2004 de la Dirección General de Seguros y Fondos de Pensiones. Los tipos de fraccionamiento están establecidos sobre una base de cálculo anual. Para aquellos seguros que tengan un fraccionamiento distinto a los mencionados en las referidas normas se tomará el que corresponda al plazo más próximo al de cobro de cada fracción.
+
+4\. La declaración conforme a la fecha de emisión de la prima afectará a todas las pólizas de la entidad y deberá ser previamente comunicada al Consorcio. No es posible utilizar el sistema de declaración según la fecha de emisión de la prima para un grupo de pólizas y el de la fecha de cobro de la prima para otras.
+
+5\. Se considera que hay obligación de presentar los modelos de declaración e ingreso de los recargos en cada periodo de liquidación mensual, cuando haya primas cobradas o emitidas según la opción de declaración e ingreso por la que haya optado la entidad en el mes al que se refiere la información. Para la inclusión de extornos de recargos en cada declaración mensual se estará a lo dispuesto en el apartado cinco siguiente.
+
+6\. En el caso de que en el periodo al que se refiera la declaración no haya primas cobradas o emitidas, no será necesaria la presentación de los modelos de Declaración e Ingreso de Recargos ni el Fichero de Información Complementaria.
+
+## Cuatro. Presentación electrónica de la declaración e ingreso de los recargos.
+
+De conformidad con lo dispuesto en el apartado 4 del artículo 18 del Estatuto Legal del Consorcio, la declaración y el ingreso de los recargos, conforme al procedimiento y en el plazo que se establezca por Resolución de la Presidencia del Consorcio, forman parte del mismo acto, entendiéndose perfeccionado con la obtención del justificante de la transacción realizada.
+
+La comisión de cobro, a la que se refiere el apartado 5 del artículo 18 de Estatuto Legal del Consorcio, será reconocida en favor de la entidad aseguradora únicamente si la declaración e ingreso de los recargos se realiza dentro del periodo de liquidación establecido.
+
+## Cinco. Compensación de recargos e ingresos indebidos.
+
+Podrán incluirse extornos de recargos que supongan su devolución efectiva al tomador, debiendo imputarse al periodo en el que se realice el extorno, considerándose como tal la fecha de devolución de los recargos en el caso de declaración de los mismos al cobro de las primas, y la fecha de efecto del extorno en caso de declaración a la emisión.
+
+Los extornos de recargos derivados de cancelación de pólizas podrán compensarse con los recargos a ingresar en el periodo únicamente si se realizan hasta ciento ochenta días tras la finalización del periodo de cobertura de la póliza.
+
+Cuando el resultado de la compensación de recargos extornados o indebidamente ingresados de un modelo fuese una cuantía a devolver por el Consorcio, deducida en su caso la comisión de cobro en su momento reconocida, se tramitará como una devolución de ingresos indebidos. En tal caso:
+
+a. La Declaración no dará lugar a orden de cobro frente a la entidad de crédito, ni compensará la liquidación de los restantes modelos.
+
+b. La entidad deberá remitir escrito justificativo por correo postal o digital a través de la dirección recargos@consorseguros.es solicitando al Consorcio la devolución del ingreso indebido, indicando los datos bancarios a los que el Consorcio deberá, en su caso, transferir el importe.
+
+c. En caso de requerir el Consorcio información complementaria para verificar el cálculo de los extornos incluidos en el modelo de declaración, la solicitará a la entidad aseguradora en un plazo de 15 días desde la fecha de presentación de la solicitud. La devolución se realizará en el plazo máximo de 15 días desde la recepción de la información solicitada.
+
+> Se modifica por el apartado primero.2 de la Resolución de 30 de diciembre de 2025. [Ref. BOE-A-2025-27119](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27119)
+
+> Esta modificación surtirá efectos en las declaraciones presentadas en el Sistema de Información de Recargos a partir del día 1 del mes siguiente a la entrada en vigor de la obligatoriedad de contratar el seguro de responsabilidad civil de vehículos personales ligeros, excepto en lo relativo a la ampliación del plazo para la compensación de los extornos de recargos por cancelación de pólizas, que será efectiva en las declaraciones presentadas desde el 1 de junio de 2026, según establece el apartado tercero de la citada Resolución.
+
+## Seis. Intereses de demora.
+
+Dada la naturaleza de ingresos de derecho público de los recargos del seguro de riesgos extraordinarios y del seguro obligatorio del automóvil, les será de aplicación el tipo de interés legal que determine la Ley de Presupuestos Generales del Estado para cada ejercicio.
+
+Dada la naturaleza tributaria del recargo destinado a financiar la función de liquidación de entidades aseguradoras, le será de aplicación el interés de demora al que se refiere el artículo 26.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+## Siete. Régimen de incumplimiento.
+
+Conforme a lo dispuesto en el apartado 6 del artículo 18 del Estatuto Legal del Consorcio, el incumplimiento de la obligación de presentar e ingresar los recargos, así como en su caso de los intereses por fraccionamiento en favor del Consorcio, dentro del plazo y forma establecidos, llevará aparejada la obligación de satisfacer durante el periodo de demora el interés al que se refiere el apartado seis anterior y la pérdida de la comisión de cobro, sin perjuicio de las sanciones que correspondan de acuerdo a lo establecido en la Ley de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+
+## Ocho. Normas afectadas.
+
+La presente resolución sustituye a la Resolución de 9 de octubre de 2009, de la Presidencia del Consorcio de Compensación de Seguros, por la que se aprueban los modelos de declaración e ingreso a través de la vía telemática de los recargos recaudados por las entidades aseguradoras. No obstante lo anterior, seguirá siendo de aplicación hasta que la presente resolución y la complementaria que en su momento se dicte, relativa al procedimiento y plazo de declaración e ingreso de los recargos, surtan efectos.
+
+En todo caso, la declaración de los recargos cuyo periodo de liquidación sea enero de 2019 se realizará conforme a los modelos aprobados por la Resolución de 9 de octubre de 2009, de la Presidencia del Consorcio de Compensación de Seguros.
+
+## Nueve. Eficacia.
+
+La presente resolución surtirá efectos desde 1 de enero de 2019.
+
+Madrid, 27 de marzo de 2018.–El Presidente del Consorcio de Compensación de Seguros, Sergio Álvarez Camiña.
+
+## Relación de Anexos
+
+Anexo 1: Modelo 10: Declaración y liquidación del recargo para la cobertura de riesgos extraordinarios, daños directos en los bienes y en las personas.
+
+Anexo 2: Modelo 11: Declaración y liquidación del recargo para la cobertura de riesgos extraordinarios, pérdidas pecuniarias.
+
+Anexo 3: Modelo 20: Declaración y liquidación de recargos en el seguro obligatorio de responsabilidad civil en la circulación de vehículos terrestres automóviles.
+
+Anexo 4: Modelo 50: Declaración y liquidación del recargo destinado a financiar la actividad liquidadora de entidades aseguradoras.
+
+Anexo 5: Modelo de Designación y Modificación del Representante de la Entidad Aseguradora.
+
+Anexo 6: Fichero de Información Complementaria a presentar por las entidades aseguradoras.
+
+> Se modifica por el apartado primero.3 de la Resolución de 30 de diciembre de 2025. [Ref. BOE-A-2025-27119](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27119)
+
+> Esta modificación surtirá efectos en las declaraciones presentadas en el Sistema de Información de Recargos a partir del día 1 del mes siguiente a la entrada en vigor de la obligatoriedad de contratar el seguro de responsabilidad civil de vehículos personales ligeros, según establece el apartado tercero de la citada Resolución.
+
+## ANEXO 1
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/90/05001_5384.png)
+
+## ANEXO 2
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/90/05001_5430.png)
+
+## ANEXO 3
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/315/27119_16490152_1.png)
+
+> Se modifica por el apartado primero.4 de la Resolución de 30 de diciembre de 2025. [Ref. BOE-A-2025-27119](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27119)
+
+> Esta modificación surtirá efectos en las declaraciones presentadas en el Sistema de Información de Recargos a partir del día 1 del mes siguiente a la entrada en vigor de la obligatoriedad de contratar el seguro de responsabilidad civil de vehículos personales ligeros, según establece el apartado tercero de la citada Resolución.
+
+## ANEXO 4
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/90/05001_5515.png)
+
+## ANEXO 5 — Datos a comunicar por la Entidad Aseguradora al Consorcio de Compensación de Seguros relativos al representante
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/90/05001_5602.png)
+
+## ANEXO 6
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Código</p>
+</td>
+<td>
+<p>Partida</p>
+</td>
+<td>
+<p>Instrucciones</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>00001</p>
+</td>
+<td>
+<p>Entidad clave DGSFP.</p>
+</td>
+<td>
+<p>Clave de la entidad aseguradora en el registro de la DGSFP, al que se refiere el artículo 40 de la Ley 20/2015, de 14 de julio. Estará compuesto por una letra y cuatro números.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00002</p>
+</td>
+<td>
+<p>Número de póliza.</p>
+</td>
+<td>
+<p>Se indicará, en formato alfanumérico, el código asignado por la entidad para la póliza declarada.</p>
+<p>En caso de suplementos de póliza incluirá primero el número de la póliza, sin perjuicio del resto de campos que sirva a la entidad para la identificación del suplemento.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00003</p>
+</td>
+<td>
+<p>Código postal de localización del riesgo.</p>
+</td>
+<td>
+<p>Identificará la localización del riesgo y estará compuesto por los 5 dígitos del código postal, incluyendo el cero si fuese el primer dígito.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00004</p>
+</td>
+<td>
+<p>Fecha efecto.</p>
+</td>
+<td>
+<p>Ocho dígitos que se corresponden con el día, mes y año de la fecha en que comienza el efecto de la póliza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00005</p>
+</td>
+<td>
+<p>Fecha término.</p>
+</td>
+<td>
+<p>Ocho dígitos que se corresponden con el día, mes y año de la fecha en que finaliza el efecto de la póliza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00006</p>
+</td>
+<td>
+<p>Declaración emisión/cobro primera fracción/cobro cada fracción.</p>
+</td>
+<td>
+<p>Se informará, de acuerdo con lo establecido en el artículo 18.4 del Estatuto Legal del Consorcio, de la opción elegida por la entidad respecto a la liquidación de los recargos según las primas emitidas o cobradas, en formato numérico.</p>
+<p>Códigos: (1) Declaración a la emisión de la prima; (2) Declaración al cobro de la primera fracción; (3) Declaración al cobro de cada fracción, indicando la periodicidad del fraccionamiento; (4) Declaración del extorno; (5) Declaración de la anulación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00007</p>
+</td>
+<td>
+<p>Fecha emisión/cobro/extorno/anulación.</p>
+</td>
+<td>
+<p>Ocho dígitos que se corresponden con el día, mes y año de la fecha en que se produjo la emisión o el cobro (o la anulación o extorno, en su caso) de la póliza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00008</p>
+</td>
+<td>
+<p>Capital daños a bienes.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado a la fecha de la información, en formato numérico con dos decimales sin separación de punto o coma, en euros, del valor total de los riesgos asegurados por la póliza.</p>
+<p>En caso de suplementos de pólizas se incluirán únicamente los capitales adicionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00009</p>
+</td>
+<td>
+<p>Límite de indemnización daños a los bienes.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado a la fecha de la información máximo a indemnizar, en formato numérico con dos decimales sin separación de punto o coma, en euros, para pólizas con cobertura a primer riesgo, valor parcial o con límite máximo de indemnización.</p>
+<p>Si el límite es conjunto para daños directos en los bienes y pérdidas pecuniarias deberá consignarse el importe del límite conjunto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00010</p>
+</td>
+<td>
+<p>Capital daños a personas.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado a la fecha de la información, en formato numérico con dos decimales sin separación de punto o coma, en euros, del valor total de los riesgos asegurados por la póliza.</p>
+<p>En caso de suplementos de pólizas se incluirán únicamente los capitales adicionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00011</p>
+</td>
+<td>
+<p>Límite de indemnización daños a personas.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado a la fecha de la información máximo a indemnizar, en formato numérico con dos decimales sin separación de punto o coma, en euros, para pólizas con cobertura a primer riesgo, valor parcial o con límite máximo de indemnización.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00012</p>
+</td>
+<td>
+<p>Capital en accidente en viaje con pago mediante tarjeta de crédito.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado a la fecha de la información, en formato numérico con dos decimales sin separación de punto o coma, en euros, del valor total de los riesgos asegurados por la póliza.</p>
+<p>En caso de suplementos de pólizas se incluirán únicamente los capitales adicionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00013</p>
+</td>
+<td>
+<p>Capital pérdidas pecuniarias.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado a la fecha de la información, en formato numérico con dos decimales sin separación de punto o coma, en euros, del valor total de los riesgos asegurados en la póliza ajustado al periodo de indemnización cubierto por la póliza.</p>
+<p>En caso de suplementos de pólizas se incluirán únicamente los capitales adicionales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00014</p>
+</td>
+<td>
+<p>Límite de indemnización pérdidas pecuniarias.</p>
+</td>
+<td>
+<p>Se informará del importe actualizado, a la fecha de la información, máximo a indemnizar, en formato numérico con dos decimales sin separación de punto o coma, en euros, para pólizas con cobertura a primer riesgo, valor parcial o con límite máximo de indemnización.</p>
+<p>Si el límite es conjunto para daños directos en los bienes y pérdidas pecuniarias deberá consignarse el importe del límite conjunto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00015</p>
+</td>
+<td>
+<p>Recargo R.E. viviendas y comunidades.</p>
+</td>
+<td rowspan="10">
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, del recargo a favor del Consorcio para la cobertura de riesgos extraordinarios, daños directos en los bienes, por cada tipo de riesgo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00016</p>
+</td>
+<td>
+<p>Recargo R.E. oficinas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00017</p>
+</td>
+<td>
+<p>Recargo R.E. resto de riesgos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00018</p>
+</td>
+<td>
+<p>Recargo R.E. vehículos automóviles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00019</p>
+</td>
+<td>
+<p>Recargo R.E. autopistas, carreteras, conducciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00020</p>
+</td>
+<td>
+<p>Recargo R.E. túneles y explotaciones mineras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00021</p>
+</td>
+<td>
+<p>Recargo R.E. puentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00022</p>
+</td>
+<td>
+<p>Recargo R.E. presas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00023</p>
+</td>
+<td>
+<p>Recargo R.E. puertos deportivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00024</p>
+</td>
+<td>
+<p>Recargo R.E. resto de puertos y extracción agua subterránea.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00025</p>
+</td>
+<td>
+<p>Recargo R.E. vida.</p>
+</td>
+<td rowspan="4">
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, del recargo a favor del Consorcio para la cobertura de riesgos extraordinarios, daños directos en las personas, por cada tipo de riesgo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00026</p>
+</td>
+<td>
+<p>Recargo R.E. accidentes tarjeta de crédito.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00027</p>
+</td>
+<td>
+<p>Recargo R.E. accidentes de automóviles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00028</p>
+</td>
+<td>
+<p>Recargo R.E. resto accidentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00029</p>
+</td>
+<td>
+<p>Recargo P.P. viviendas.</p>
+</td>
+<td rowspan="2">
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, del recargo a favor del Consorcio para la cobertura de riesgos extraordinarios, pérdidas pecuniarias, por cada tipo de riesgo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00030</p>
+</td>
+<td>
+<p>Recargo P.P. resto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00031</p>
+</td>
+<td>
+<p>Recargo S.O.A. fondo de garantía, vehículos a motor</p>
+</td>
+<td>
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, del recargo a favor del Consorcio en el seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00032</p>
+</td>
+<td>
+<p>Recargo Actividad Liquidadora.</p>
+</td>
+<td>
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, del recargo a favor del Consorcio destinado a financiar la actividad liquidadora de entidades aseguradoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00033</p>
+</td>
+<td>
+<p>Intereses fraccionamiento Bienes.</p>
+</td>
+<td rowspan="3">
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, de los intereses de fraccionamiento correspondientes a los recargos a favor del Consorcio, de acuerdo con lo establecido en el artículo 18.3 del Estatuto Legal del Consorcio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00034</p>
+</td>
+<td>
+<p>Intereses fraccionamiento Personas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00035</p>
+</td>
+<td>
+<p>Intereses fraccionamiento Pérdidas Pecuniarias.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00036</p>
+</td>
+<td>
+<p>Intereses fraccionamiento S.O.A. fondo de garantía, vehículos a motor</p>
+</td>
+<td>
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, de los intereses de fraccionamiento correspondientes a los recargos a favor del Consorcio en el seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00037</p>
+</td>
+<td>
+<p>Intereses fraccionamiento A.L.</p>
+</td>
+<td>
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, de los intereses de fraccionamiento correspondientes a los recargos a favor del Consorcio, de acuerdo con lo establecido en el artículo 18.3 del Estatuto Legal del Consorcio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00038</p>
+</td>
+<td>
+<p>Recargo S.O.A. fondo de garantía V.P.L.</p>
+</td>
+<td>
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, del recargo a favor del Consorcio en el seguro obligatorio de responsabilidad civil en la circulación de vehículos personales ligeros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>00039</p>
+</td>
+<td>
+<p>Intereses fraccionamiento S.O.A. fondo de garantía V.P.L.</p>
+</td>
+<td>
+<p>Se informará del importe en formato numérico con dos decimales sin separación de punto o coma, en euros, de los intereses de fraccionamiento correspondientes a los recargos a favor del Consorcio en el seguro obligatorio de responsabilidad civil en la circulación de vehículos personales ligeros.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Información adicional:
+
+− En el caso de pólizas con varias situaciones de riesgo localizadas en distintos municipios, se cumplimentará el fichero de información para cada localización de riesgo. En su defecto, se incluirá la información agregada en la localización en la que se concentre mayor volumen de capitales asegurados.
+
+− Se aplicarán las reglas de localización del riesgo previstas en el artículo 8.3 de la Ley 20/2015, de 14 de julio, entendiéndose hechas a los términos municipales, a través de los códigos postales, las referencias que en él se hacen a los Estados miembros.
+
+− En caso de coaseguro se informará por las entidades aseguradoras que realicen la declaración y liquidación de los recargos.
+
+> Se modifican los códigos 00031 y 00036 y se añaden los códigos 00038 y 00039 por el apartado primero.5 de la Resolución de 30 de diciembre de 2025. [Ref. BOE-A-2025-27119](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27119)
+
+> Esta modificación surtirá efectos en las declaraciones presentadas en el Sistema de Información de Recargos a partir del día 1 del mes siguiente a la entrada en vigor de la obligatoriedad de contratar el seguro de responsabilidad civil de vehículos personales ligeros, según establece el apartado tercero de la citada Resolución.
+
+> Información relacionada
+
+> Véase la Resolución de 31 de octubre de 2018, [Ref. BOE-A-2018-16530](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16530), por la que se establecen los plazos y el procedimiento de declaración e ingreso de los recargos recaudados por las entidades aseguradoras.

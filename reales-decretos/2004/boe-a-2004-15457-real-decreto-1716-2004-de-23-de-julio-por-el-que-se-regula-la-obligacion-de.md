@@ -406,8 +406,6 @@ La Corporación remitirá anualmente un informe al Ministerio de Industria, Ener
 
 10\. La Corporación publicará de manera permanente una información completa, por categoría de productos, sobre los volúmenes y duración de reservas cuyo mantenimiento podrá garantizar a los operadores económicos, o, en su caso, a las entidades centrales de almacenamiento interesadas.
 
-> Téngase en cuenta la Orden TED/256/2021, de 3 de marzo, por la que se incrementan desde el 1 de abril de 2021 hasta el 31 de diciembre de 2021 las existencias estratégicas de hidrocarburos líquidos de la Corporación de Reservas Estratégicas de Productos Petrolíferos [Ref. BOE-A-2021-4365](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4365)
-
 > Véase la Orden TED/256/2021, de 3 de marzo, por la que se incrementan desde el 1 de abril de 2021 hasta el 31 de diciembre de 2021 las existencias estratégicas de hidrocarburos líquidos de la Corporación de Reservas Estratégicas de Productos Petrolíferos [Ref. BOE-A-2021-4365](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4365)
 
 > Se modifica por la disposición final 2.8 del Real Decreto 984/2015, de 30 de octubre. [Ref. BOE-A-2015-11725](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11725).

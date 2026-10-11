@@ -516,225 +516,221 @@ d) Sistema de identificación del recipiente y del producto reproductivo.
 
 Codificación Razas Bovinas Catálogo
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Albera.</td>
-<td class="cuerpo_tabla_centro">BAB</td>
+<td>Albera.</td>
+<td>BAB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alistana-Sanabresa.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
+<td>Alistana-Sanabresa.</td>
+<td>BAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asturiana de la Montaña.</td>
-<td class="cuerpo_tabla_centro">BAM</td>
+<td>Asturiana de la Montaña.</td>
+<td>BAM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asturiana de los Valles.</td>
-<td class="cuerpo_tabla_centro">BAV</td>
+<td>Asturiana de los Valles.</td>
+<td>BAV</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Avileña-Negra Ibérica.</td>
-<td class="cuerpo_tabla_centro">BAN</td>
+<td>Avileña-Negra Ibérica.</td>
+<td>BAN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Avileña-Negra Ibérica (var. Bociblanca).</td>
-<td class="cuerpo_tabla_centro">BANB</td>
+<td>Avileña-Negra Ibérica (var. Bociblanca).</td>
+<td>BANB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Berrenda en Colorado.</td>
-<td class="cuerpo_tabla_centro">BBC</td>
+<td>Berrenda en Colorado.</td>
+<td>BBC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Berrenda en Negro.</td>
-<td class="cuerpo_tabla_centro">BBN</td>
+<td>Berrenda en Negro.</td>
+<td>BBN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Betizu.</td>
-<td class="cuerpo_tabla_centro">BBZ</td>
+<td>Betizu.</td>
+<td>BBZ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanca Cacereña.</td>
-<td class="cuerpo_tabla_centro">BBL</td>
+<td>Blanca Cacereña.</td>
+<td>BBL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bruna dels Pirineus.</td>
-<td class="cuerpo_tabla_centro">BBP</td>
+<td>Bruna dels Pirineus.</td>
+<td>BBP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cachena.</td>
-<td class="cuerpo_tabla_centro">BCH</td>
+<td>Cachena.</td>
+<td>BCH</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caldelá.</td>
-<td class="cuerpo_tabla_centro">BCL</td>
+<td>Caldelá.</td>
+<td>BCL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canaria.</td>
-<td class="cuerpo_tabla_centro">BCN</td>
+<td>Canaria.</td>
+<td>BCN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cárdena Andaluza.</td>
-<td class="cuerpo_tabla_centro">BCA</td>
+<td>Cárdena Andaluza.</td>
+<td>BCA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frieiresa.</td>
-<td class="cuerpo_tabla_centro">BFR</td>
+<td>Frieiresa.</td>
+<td>BFR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lidia.</td>
-<td class="cuerpo_tabla_centro">BLI</td>
+<td>Lidia.</td>
+<td>BLI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limiá.</td>
-<td class="cuerpo_tabla_centro">BLM</td>
+<td>Limiá.</td>
+<td>BLM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mallorquina.</td>
-<td class="cuerpo_tabla_centro">BML</td>
+<td>Mallorquina.</td>
+<td>BML</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mantequera Leonesa.</td>
-<td class="cuerpo_tabla_centro">BMT</td>
+<td>Mantequera Leonesa.</td>
+<td>BMT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marismeña.</td>
-<td class="cuerpo_tabla_centro">BMR</td>
+<td>Marismeña.</td>
+<td>BMR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menorquina.</td>
-<td class="cuerpo_tabla_centro">BMN</td>
+<td>Menorquina.</td>
+<td>BMN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Monchina.</td>
-<td class="cuerpo_tabla_centro">BMC</td>
+<td>Monchina.</td>
+<td>BMC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Morucha.</td>
-<td class="cuerpo_tabla_centro">BMO</td>
+<td>Morucha.</td>
+<td>BMO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Morucha (var. Negra).</td>
-<td class="cuerpo_tabla_centro">BMON</td>
+<td>Morucha (var. Negra).</td>
+<td>BMON</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Murciana-Levantina.</td>
-<td class="cuerpo_tabla_centro">BMU</td>
+<td>Murciana-Levantina.</td>
+<td>BMU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Negra Andaluza.</td>
-<td class="cuerpo_tabla_centro">BNA</td>
+<td>Negra Andaluza.</td>
+<td>BNA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pajuna.</td>
-<td class="cuerpo_tabla_centro">BPJ</td>
+<td>Pajuna.</td>
+<td>BPJ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pallaresa.</td>
-<td class="cuerpo_tabla_centro">BPL</td>
+<td>Pallaresa.</td>
+<td>BPL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Palmera.</td>
-<td class="cuerpo_tabla_centro">BPM</td>
+<td>Palmera.</td>
+<td>BPM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parda de Montaña.</td>
-<td class="cuerpo_tabla_centro">BSM</td>
+<td>Parda de Montaña.</td>
+<td>BSM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pasiega.</td>
-<td class="cuerpo_tabla_centro">BPS</td>
+<td>Pasiega.</td>
+<td>BPS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pirenaica.</td>
-<td class="cuerpo_tabla_centro">BPI</td>
+<td>Pirenaica.</td>
+<td>BPI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Retinta.</td>
-<td class="cuerpo_tabla_centro">BRT</td>
+<td>Retinta.</td>
+<td>BRT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rubia Gallega.</td>
-<td class="cuerpo_tabla_centro">BRG</td>
+<td>Rubia Gallega.</td>
+<td>BRG</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sayaguesa.</td>
-<td class="cuerpo_tabla_centro">BSY</td>
+<td>Sayaguesa.</td>
+<td>BSY</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Serrana de Teruel.</td>
-<td class="cuerpo_tabla_centro">BST</td>
+<td>Serrana de Teruel.</td>
+<td>BST</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Serrana Negra.</td>
-<td class="cuerpo_tabla_centro">BSN</td>
+<td>Serrana Negra.</td>
+<td>BSN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Terreña.</td>
-<td class="cuerpo_tabla_centro">BTN</td>
+<td>Terreña.</td>
+<td>BTN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tudanca.</td>
-<td class="cuerpo_tabla_centro">BTU</td>
+<td>Tudanca.</td>
+<td>BTU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vianesa.</td>
-<td class="cuerpo_tabla_centro">BVN</td>
+<td>Vianesa.</td>
+<td>BVN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas integradas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blonda de Aquitania.</td>
-<td class="cuerpo_tabla_centro">BD*</td>
+<td>Blonda de Aquitania.</td>
+<td>BD*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Charolesa.</td>
-<td class="cuerpo_tabla_centro">CH*</td>
+<td>Charolesa.</td>
+<td>CH*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fleckvieh.</td>
-<td class="cuerpo_tabla_centro">SM*</td>
+<td>Fleckvieh.</td>
+<td>SM*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frisona.</td>
-<td class="cuerpo_tabla_centro">HO*</td>
+<td>Frisona.</td>
+<td>HO*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frisona Roja.</td>
-<td class="cuerpo_tabla_centro">RW*</td>
+<td>Frisona Roja.</td>
+<td>RW*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limusina.</td>
-<td class="cuerpo_tabla_centro">LM*</td>
+<td>Limusina.</td>
+<td>LM*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parda.</td>
-<td class="cuerpo_tabla_centro">BS*</td>
+<td>Parda.</td>
+<td>BS*</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">* Codificación ICAR.</p>
+<p>* Codificación ICAR.</p>
 </td>
 </tr>
 </tfoot>
@@ -742,751 +738,723 @@ Codificación Razas Bovinas Catálogo
 
 Codificación Razas Ovinas Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcarreña.</td>
-<td class="cuerpo_tabla_centro">OAL</td>
+<td>Alcarreña.</td>
+<td>OAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ansotana.</td>
-<td class="cuerpo_tabla_centro">OAN</td>
+<td>Ansotana.</td>
+<td>OAN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aranesa.</td>
-<td class="cuerpo_tabla_centro">OAR</td>
+<td>Aranesa.</td>
+<td>OAR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canaria.</td>
-<td class="cuerpo_tabla_centro">OCN</td>
+<td>Canaria.</td>
+<td>OCN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canaria de Pelo.</td>
-<td class="cuerpo_tabla_centro">OCP</td>
+<td>Canaria de Pelo.</td>
+<td>OCP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carranzana.</td>
-<td class="cuerpo_tabla_centro">OCA</td>
+<td>Carranzana.</td>
+<td>OCA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carranzana variedad negra.</td>
-<td class="cuerpo_tabla_centro">OCAN</td>
+<td>Carranzana variedad negra.</td>
+<td>OCAN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cartera.</td>
-<td class="cuerpo_tabla_centro">OCR</td>
+<td>Cartera.</td>
+<td>OCR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castellana.</td>
-<td class="cuerpo_tabla_centro">OCS</td>
+<td>Castellana.</td>
+<td>OCS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castellana (var. Negra).</td>
-<td class="cuerpo_tabla_centro">OCSN</td>
+<td>Castellana (var. Negra).</td>
+<td>OCSN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colmenareña.</td>
-<td class="cuerpo_tabla_centro">OCL</td>
+<td>Colmenareña.</td>
+<td>OCL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Chamarita.</td>
-<td class="cuerpo_tabla_centro">OCM</td>
+<td>Chamarita.</td>
+<td>OCM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Churra Lebrijana.</td>
-<td class="cuerpo_tabla_centro">OCB</td>
+<td>Churra Lebrijana.</td>
+<td>OCB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Churra Tensina.</td>
-<td class="cuerpo_tabla_centro">OCT</td>
+<td>Churra Tensina.</td>
+<td>OCT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Churra.</td>
-<td class="cuerpo_tabla_centro">OCH</td>
+<td>Churra.</td>
+<td>OCH</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Guirra.</td>
-<td class="cuerpo_tabla_centro">OGI</td>
+<td>Guirra.</td>
+<td>OGI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Latxa.</td>
-<td class="cuerpo_tabla_centro">OLA</td>
+<td>Latxa.</td>
+<td>OLA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lojeña.</td>
-<td class="cuerpo_tabla_centro">OLO</td>
+<td>Lojeña.</td>
+<td>OLO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Maellana.</td>
-<td class="cuerpo_tabla_centro">OML</td>
+<td>Maellana.</td>
+<td>OML</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manchega.</td>
-<td class="cuerpo_tabla_centro">OMA</td>
+<td>Manchega.</td>
+<td>OMA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manchega (var. Negra).</td>
-<td class="cuerpo_tabla_centro">OMAN</td>
+<td>Manchega (var. Negra).</td>
+<td>OMAN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Merina.</td>
-<td class="cuerpo_tabla_centro">OME</td>
+<td>Merina.</td>
+<td>OME</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Merina variedad Negra.</td>
-<td class="cuerpo_tabla_centro">OMEN</td>
+<td>Merina variedad Negra.</td>
+<td>OMEN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Merina de los Montes Universales.</td>
-<td class="cuerpo_tabla_centro">OMEU</td>
+<td>Merina de los Montes Universales.</td>
+<td>OMEU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Merina de Grazalema.</td>
-<td class="cuerpo_tabla_centro">OMG</td>
+<td>Merina de Grazalema.</td>
+<td>OMG</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Montesina.</td>
-<td class="cuerpo_tabla_centro">OMT</td>
+<td>Montesina.</td>
+<td>OMT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Navarra.</td>
-<td class="cuerpo_tabla_centro">ONA</td>
+<td>Navarra.</td>
+<td>ONA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ojalada.</td>
-<td class="cuerpo_tabla_centro">OJL</td>
+<td>Ojalada.</td>
+<td>OJL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ojinegra de Teruel.</td>
-<td class="cuerpo_tabla_centro">OJN</td>
+<td>Ojinegra de Teruel.</td>
+<td>OJN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ovella Eivissenca.</td>
-<td class="cuerpo_tabla_centro">OIB</td>
+<td>Ovella Eivissenca.</td>
+<td>OIB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ovella Galega.</td>
-<td class="cuerpo_tabla_centro">OGA</td>
+<td>Ovella Galega.</td>
+<td>OGA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ovella Mallorquina.</td>
-<td class="cuerpo_tabla_centro">OMQ</td>
+<td>Ovella Mallorquina.</td>
+<td>OMQ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ovella Menorquina.</td>
-<td class="cuerpo_tabla_centro">OMN</td>
+<td>Ovella Menorquina.</td>
+<td>OMN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ovella Roja Mallorquina.</td>
-<td class="cuerpo_tabla_centro">ORM</td>
+<td>Ovella Roja Mallorquina.</td>
+<td>ORM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Palmera.</td>
-<td class="cuerpo_tabla_centro">OPL</td>
+<td>Palmera.</td>
+<td>OPL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rasa Aragonesa.</td>
-<td class="cuerpo_tabla_centro">ORA</td>
+<td>Rasa Aragonesa.</td>
+<td>ORA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ripollesa.</td>
-<td class="cuerpo_tabla_centro">ORP</td>
+<td>Ripollesa.</td>
+<td>ORP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Roya Bilbilitana.</td>
-<td class="cuerpo_tabla_centro">ORB</td>
+<td>Roya Bilbilitana.</td>
+<td>ORB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rubia del Molar.</td>
-<td class="cuerpo_tabla_centro">ORU</td>
+<td>Rubia del Molar.</td>
+<td>ORU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sasi Ardi.</td>
-<td class="cuerpo_tabla_centro">OSR</td>
+<td>Sasi Ardi.</td>
+<td>OSR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segureña.</td>
-<td class="cuerpo_tabla_centro">OSE</td>
+<td>Segureña.</td>
+<td>OSE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Talaverana.</td>
-<td class="cuerpo_tabla_centro">OTV</td>
+<td>Talaverana.</td>
+<td>OTV</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Xalda.</td>
-<td class="cuerpo_tabla_centro">OXL</td>
+<td>Xalda.</td>
+<td>OXL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Xisqueta.</td>
-<td class="cuerpo_tabla_centro">OXQ</td>
+<td>Xisqueta.</td>
+<td>OXQ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas integradas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Assaf.</td>
-<td class="cuerpo_tabla_centro">OAF</td>
+<td>Assaf.</td>
+<td>OAF</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Berrichon du Cher.</td>
-<td class="cuerpo_tabla_centro">OBE</td>
+<td>Berrichon du Cher.</td>
+<td>OBE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fleischschaf.</td>
-<td class="cuerpo_tabla_centro">OFL</td>
+<td>Fleischschaf.</td>
+<td>OFL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Île de France.</td>
-<td class="cuerpo_tabla_centro">OIF</td>
+<td>Île de France.</td>
+<td>OIF</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lacaune.</td>
-<td class="cuerpo_tabla_centro">OLC</td>
+<td>Lacaune.</td>
+<td>OLC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Merino Precoz.</td>
-<td class="cuerpo_tabla_centro">OMP</td>
+<td>Merino Precoz.</td>
+<td>OMP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Otras razas reconocidas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Salz.</td>
-<td class="cuerpo_tabla_centro">OSZ</td>
+<td>Salz.</td>
+<td>OSZ</td>
 </tr>
 </tbody>
 </table>
 
 Codificación Razas Caprinas Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azpi Gorri.</td>
-<td class="cuerpo_tabla_centro">CAG</td>
+<td>Azpi Gorri.</td>
+<td>CAG</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bermeya.</td>
-<td class="cuerpo_tabla_centro">CBE</td>
+<td>Bermeya.</td>
+<td>CBE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanca Andaluza o Serrana.</td>
-<td class="cuerpo_tabla_centro">CBA</td>
+<td>Blanca Andaluza o Serrana.</td>
+<td>CBA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanca Celtibérica.</td>
-<td class="cuerpo_tabla_centro">CBC</td>
+<td>Blanca Celtibérica.</td>
+<td>CBC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanca de Rasquera.</td>
-<td class="cuerpo_tabla_centro">CBR</td>
+<td>Blanca de Rasquera.</td>
+<td>CBR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabra de las Mesetas.</td>
-<td class="cuerpo_tabla_centro">CAM</td>
+<td>Cabra de las Mesetas.</td>
+<td>CAM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabra Galega.</td>
-<td class="cuerpo_tabla_centro">CGA</td>
+<td>Cabra Galega.</td>
+<td>CGA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Del Guadarrama.</td>
-<td class="cuerpo_tabla_centro">CGU</td>
+<td>Del Guadarrama.</td>
+<td>CGU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eivissenca.</td>
-<td class="cuerpo_tabla_centro">CIB</td>
+<td>Eivissenca.</td>
+<td>CIB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Florida.</td>
-<td class="cuerpo_tabla_centro">CFL</td>
+<td>Florida.</td>
+<td>CFL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Majorera.</td>
-<td class="cuerpo_tabla_centro">CMJ</td>
+<td>Majorera.</td>
+<td>CMJ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Malagueña.</td>
-<td class="cuerpo_tabla_centro">CMA</td>
+<td>Malagueña.</td>
+<td>CMA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mallorquina.</td>
-<td class="cuerpo_tabla_centro">CML</td>
+<td>Mallorquina.</td>
+<td>CML</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Moncaína.</td>
-<td class="cuerpo_tabla_centro">CMO</td>
+<td>Moncaína.</td>
+<td>CMO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Murciana-Granadina.</td>
-<td class="cuerpo_tabla_centro">CMU</td>
+<td>Murciana-Granadina.</td>
+<td>CMU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Negra Serrana.</td>
-<td class="cuerpo_tabla_centro">CNS</td>
+<td>Negra Serrana.</td>
+<td>CNS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Palmera.</td>
-<td class="cuerpo_tabla_centro">CPA</td>
+<td>Palmera.</td>
+<td>CPA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Payoya.</td>
-<td class="cuerpo_tabla_centro">CPY</td>
+<td>Payoya.</td>
+<td>CPY</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pirenaica.</td>
-<td class="cuerpo_tabla_centro">CPI</td>
+<td>Pirenaica.</td>
+<td>CPI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Retinta.</td>
-<td class="cuerpo_tabla_centro">CRE</td>
+<td>Retinta.</td>
+<td>CRE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tinerfeña.</td>
-<td class="cuerpo_tabla_centro">CTI</td>
+<td>Tinerfeña.</td>
+<td>CTI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Verata</td>
-<td class="cuerpo_tabla_centro">CVE</td>
+<td>Verata</td>
+<td>CVE</td>
 </tr>
 </tbody>
 </table>
 
 Codificación Razas Porcinas Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Chato Murciano.</td>
-<td class="cuerpo_tabla_centro">PCH</td>
+<td>Chato Murciano.</td>
+<td>PCH</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Euskal Txerria.</td>
-<td class="cuerpo_tabla_centro">PET</td>
+<td>Euskal Txerria.</td>
+<td>PET</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gochu Asturcelta.</td>
-<td class="cuerpo_tabla_centro">PGA</td>
+<td>Gochu Asturcelta.</td>
+<td>PGA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibérico.</td>
-<td class="cuerpo_tabla_centro">PIB</td>
+<td>Ibérico.</td>
+<td>PIB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibérico (var. Entrepelado).</td>
-<td class="cuerpo_tabla_centro">PIE</td>
+<td>Ibérico (var. Entrepelado).</td>
+<td>PIE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibérico (var. Lampiño).</td>
-<td class="cuerpo_tabla_centro">PIBL</td>
+<td>Ibérico (var. Lampiño).</td>
+<td>PIBL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibérico (var. Manchado de Jabugo).</td>
-<td class="cuerpo_tabla_centro">PIBM</td>
+<td>Ibérico (var. Manchado de Jabugo).</td>
+<td>PIBM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibérico (var. Torbiscal).</td>
-<td class="cuerpo_tabla_centro">PIBT</td>
+<td>Ibérico (var. Torbiscal).</td>
+<td>PIBT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ibérico (var. Retinto).</td>
-<td class="cuerpo_tabla_centro">PIBR</td>
+<td>Ibérico (var. Retinto).</td>
+<td>PIBR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Negra Canaria.</td>
-<td class="cuerpo_tabla_centro">PNC</td>
+<td>Negra Canaria.</td>
+<td>PNC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Porco Celta.</td>
-<td class="cuerpo_tabla_centro">PCL</td>
+<td>Porco Celta.</td>
+<td>PCL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Porc Negre Mallorquí.</td>
-<td class="cuerpo_tabla_centro">PNM</td>
+<td>Porc Negre Mallorquí.</td>
+<td>PNM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas integradas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanco Belga.</td>
-<td class="cuerpo_tabla_centro">PBB</td>
+<td>Blanco Belga.</td>
+<td>PBB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Duroc.</td>
-<td class="cuerpo_tabla_centro">PDC</td>
+<td>Duroc.</td>
+<td>PDC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hampshire.</td>
-<td class="cuerpo_tabla_centro">PHA</td>
+<td>Hampshire.</td>
+<td>PHA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Landrace.</td>
-<td class="cuerpo_tabla_centro">PLD</td>
+<td>Landrace.</td>
+<td>PLD</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Large White.</td>
-<td class="cuerpo_tabla_centro">PLW</td>
+<td>Large White.</td>
+<td>PLW</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pietrain.</td>
-<td class="cuerpo_tabla_centro">PPT</td>
+<td>Pietrain.</td>
+<td>PPT</td>
 </tr>
 </tbody>
 </table>
 
 Codificación Razas Equinas Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asturcón.</td>
-<td class="cuerpo_tabla_centro">EAS</td>
+<td>Asturcón.</td>
+<td>EAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Burguete.</td>
-<td class="cuerpo_tabla_centro">EBU</td>
+<td>Burguete.</td>
+<td>EBU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caballo de las Retuertas.</td>
-<td class="cuerpo_tabla_centro">ERE</td>
+<td>Caballo de las Retuertas.</td>
+<td>ERE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caballo de Monte de País Vasco.</td>
-<td class="cuerpo_tabla_centro">EMP</td>
+<td>Caballo de Monte de País Vasco.</td>
+<td>EMP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabalo de Pura Raza Galega.</td>
-<td class="cuerpo_tabla_centro">ERG</td>
+<td>Cabalo de Pura Raza Galega.</td>
+<td>ERG</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cavall Mallorquí.</td>
-<td class="cuerpo_tabla_centro">EMA</td>
+<td>Cavall Mallorquí.</td>
+<td>EMA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cavall Menorquí.</td>
-<td class="cuerpo_tabla_centro">EME</td>
+<td>Cavall Menorquí.</td>
+<td>EME</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cavall Pirinenc Català.</td>
-<td class="cuerpo_tabla_centro">EPC</td>
+<td>Cavall Pirinenc Català.</td>
+<td>EPC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pura Raza Española.</td>
-<td class="cuerpo_tabla_centro">EES</td>
+<td>Pura Raza Española.</td>
+<td>EES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano-Árabe.</td>
-<td class="cuerpo_tabla_centro">EHA</td>
+<td>Hispano-Árabe.</td>
+<td>EHA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano-Bretón.</td>
-<td class="cuerpo_tabla_centro">EHB</td>
+<td>Hispano-Bretón.</td>
+<td>EHB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jaca Navarra.</td>
-<td class="cuerpo_tabla_centro">EJN</td>
+<td>Jaca Navarra.</td>
+<td>EJN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Losina.</td>
-<td class="cuerpo_tabla_centro">ELO</td>
+<td>Losina.</td>
+<td>ELO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marismeña.</td>
-<td class="cuerpo_tabla_centro">EMR</td>
+<td>Marismeña.</td>
+<td>EMR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Monchina.</td>
-<td class="cuerpo_tabla_centro">EMO</td>
+<td>Monchina.</td>
+<td>EMO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pottoka.</td>
-<td class="cuerpo_tabla_centro">EPO</td>
+<td>Pottoka.</td>
+<td>EPO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas integradas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Árabe.</td>
-<td class="cuerpo_tabla_centro">EAR</td>
+<td>Árabe.</td>
+<td>EAR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anglo-Árabe.</td>
-<td class="cuerpo_tabla_centro">EAA</td>
+<td>Anglo-Árabe.</td>
+<td>EAA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pura Sangre Inglés.</td>
-<td class="cuerpo_tabla_centro">EPS</td>
+<td>Pura Sangre Inglés.</td>
+<td>EPS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trotador Español.</td>
-<td class="cuerpo_tabla_centro">ETR</td>
+<td>Trotador Español.</td>
+<td>ETR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Otras razas reconocidas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caballo de Deporte Español.</td>
-<td class="cuerpo_tabla_centro">ECD</td>
+<td>Caballo de Deporte Español.</td>
+<td>ECD</td>
 </tr>
 </tbody>
 </table>
 
 Codificación Razas Asnales Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andaluza.</td>
-<td class="cuerpo_tabla_centro">EAN</td>
+<td>Andaluza.</td>
+<td>EAN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ase Balear.</td>
-<td class="cuerpo_tabla_centro">EBA</td>
+<td>Ase Balear.</td>
+<td>EBA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asno de las Encartaciones.</td>
-<td class="cuerpo_tabla_centro">EAE</td>
+<td>Asno de las Encartaciones.</td>
+<td>EAE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Catalana.</td>
-<td class="cuerpo_tabla_centro">ECT</td>
+<td>Catalana.</td>
+<td>ECT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Majorera.</td>
-<td class="cuerpo_tabla_centro">EMJ</td>
+<td>Majorera.</td>
+<td>EMJ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zamorano-Leonés.</td>
-<td class="cuerpo_tabla_centro">EZL</td>
+<td>Zamorano-Leonés.</td>
+<td>EZL</td>
 </tr>
 </tbody>
 </table>
 
 Codificación Razas Aviares Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andaluza Azul.</td>
-<td class="cuerpo_tabla_centro">AAL</td>
+<td>Andaluza Azul.</td>
+<td>AAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Combatiente Español.</td>
-<td class="cuerpo_tabla_centro">ACE</td>
+<td>Combatiente Español.</td>
+<td>ACE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Euskal Antzara.</td>
-<td class="cuerpo_tabla_centro">AEA</td>
+<td>Euskal Antzara.</td>
+<td>AEA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Euskal Oiloa.</td>
-<td class="cuerpo_tabla_centro">AEO</td>
+<td>Euskal Oiloa.</td>
+<td>AEO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galiña de Mos.</td>
-<td class="cuerpo_tabla_centro">AGM</td>
+<td>Galiña de Mos.</td>
+<td>AGM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina Castellana Negra.</td>
-<td class="cuerpo_tabla_centro">AGC</td>
+<td>Gallina Castellana Negra.</td>
+<td>AGC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina Eivissenca.</td>
-<td class="cuerpo_tabla_centro">AGE</td>
+<td>Gallina Eivissenca.</td>
+<td>AGE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina Empordanesa.</td>
-<td class="cuerpo_tabla_centro">AGP</td>
+<td>Gallina Empordanesa.</td>
+<td>AGP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina Extremeña Azul.</td>
-<td class="cuerpo_tabla_centro">AGA</td>
+<td>Gallina Extremeña Azul.</td>
+<td>AGA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina del Prat.</td>
-<td class="cuerpo_tabla_centro">AGR</td>
+<td>Gallina del Prat.</td>
+<td>AGR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina del Sobrarbe.</td>
-<td class="cuerpo_tabla_centro">AGS</td>
+<td>Gallina del Sobrarbe.</td>
+<td>AGS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gallina Pedresa.</td>
-<td class="cuerpo_tabla_centro">AGD</td>
+<td>Gallina Pedresa.</td>
+<td>AGD</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Indio de León.</td>
-<td class="cuerpo_tabla_centro">AIL</td>
+<td>Indio de León.</td>
+<td>AIL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mallorquina.</td>
-<td class="cuerpo_tabla_centro">AMA</td>
+<td>Mallorquina.</td>
+<td>AMA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menorquina.</td>
-<td class="cuerpo_tabla_centro">AME</td>
+<td>Menorquina.</td>
+<td>AME</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Murciana.</td>
-<td class="cuerpo_tabla_centro">AMU</td>
+<td>Murciana.</td>
+<td>AMU</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pardo de León.</td>
-<td class="cuerpo_tabla_centro">APL</td>
+<td>Pardo de León.</td>
+<td>APL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Penedesenca.</td>
-<td class="cuerpo_tabla_centro">APE</td>
+<td>Penedesenca.</td>
+<td>APE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pita Pinta.</td>
-<td class="cuerpo_tabla_centro">APP</td>
+<td>Pita Pinta.</td>
+<td>APP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utrerana.</td>
-<td class="cuerpo_tabla_centro">AUT</td>
+<td>Utrerana.</td>
+<td>AUT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valenciana de Chulilla.</td>
-<td class="cuerpo_tabla_centro">AVC</td>
+<td>Valenciana de Chulilla.</td>
+<td>AVC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oca empordanesa.</td>
-<td class="cuerpo_tabla_centro">AOE</td>
+<td>Oca empordanesa.</td>
+<td>AOE</td>
 </tr>
 </tbody>
 </table>
 
 Codificación Razas Otras Especies Catálogo
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Raza</th>
-<th class="cabeza_tabla">Código</th>
+<th>Raza</th>
+<th>Código</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Razas autóctonas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camello Canario.</td>
-<td class="cuerpo_tabla_centro">XCC</td>
+<td>Camello Canario.</td>
+<td>XCC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conejo Antiguo Pardo Español.</td>
-<td class="cuerpo_tabla_centro">XCP</td>
+<td>Conejo Antiguo Pardo Español.</td>
+<td>XCP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conejo Gigante de España.</td>
-<td class="cuerpo_tabla_centro">XCG</td>
+<td>Conejo Gigante de España.</td>
+<td>XCG</td>
 </tr>
 </tbody>
 </table>

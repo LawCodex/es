@@ -1026,47 +1026,42 @@ El ámbito de aplicación se circunscribe a las líneas de cabotaje que se hayan
 
 Así mismo, se tomará como distancia recorrida en una línea la distancia entre los puertos de origen y destino, o la suma de las distancias entre éstos y los diferentes puertos de escala intermedios que se recorran en el itinerario del buque, no pudiendo incluir en dicha distancia recorrida trayectos que hayan sido incluidos en otras líneas. Para determinar la distancia entre puertos se emplearán las distancias publicadas por el Instituto Hidrográfico de la Marina. Para las distancias no recogidas en la información publicada por este Organismo se empleará la consignada en la siguiente tabla o la que determine la Autoridad Marítima si no estuviera consignada en la misma:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Distancias entre puertos</th>
+<th colspan="3">Distancias entre puertos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Puerto A</th>
-<th class="cabeza_tabla">Puerto B</th>
-<th class="cabeza_tabla">Millas<br>náuticas</th>
+<th>Puerto A</th>
+<th>Puerto B</th>
+<th>Millas<br>náuticas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">La Graciosa (Caleta de Sebo).</td>
-<td class="cuerpo_tabla_izq">Lanzarote (Órzola).</td>
-<td class="cuerpo_tabla_coma">3,5</td>
+<td>La Graciosa (Caleta de Sebo).</td>
+<td>Lanzarote (Órzola).</td>
+<td>3,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lanzarote (Playa Blanca).</td>
-<td class="cuerpo_tabla_izq">Fuerteventura (Corralejo).</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Lanzarote (Playa Blanca).</td>
+<td>Fuerteventura (Corralejo).</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuerteventura (Morro Jable).</td>
-<td class="cuerpo_tabla_izq">Gran Canaria (Las Palmas).</td>
-<td class="cuerpo_tabla_coma">59</td>
+<td>Fuerteventura (Morro Jable).</td>
+<td>Gran Canaria (Las Palmas).</td>
+<td>59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran Canaria (Agaete).</td>
-<td class="cuerpo_tabla_izq">Tenerife (Sta. Cruz de Tenerife).</td>
-<td class="cuerpo_tabla_coma">36</td>
+<td>Gran Canaria (Agaete).</td>
+<td>Tenerife (Sta. Cruz de Tenerife).</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Gomera (S. Sebastián de la Gomera).</td>
-<td class="cuerpo_tabla_izq">La Gomera (Valle del Gran Rey).</td>
-<td class="cuerpo_tabla_coma">16</td>
+<td>La Gomera (S. Sebastián de la Gomera).</td>
+<td>La Gomera (Valle del Gran Rey).</td>
+<td>16</td>
 </tr>
 </tbody>
 </table>

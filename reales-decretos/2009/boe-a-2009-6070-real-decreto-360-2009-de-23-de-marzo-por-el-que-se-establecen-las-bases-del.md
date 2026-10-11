@@ -216,14 +216,6 @@ Las pruebas para efectuar los controles serológicos sólo serán autorizadas si
 
 **(Derogado)**
 
-> Téngase en cuenta que esta derogación establecida por la disposición derogatoria única.j) del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499), entra en vigor el 2 de enero de 2024, según determina su disposición final 8.
-
-> Redacción anterior:
-
-> "**Artículo 15. Movimiento de animales en aprovechamiento en montanera.**
-
-> Previa autorización de la autoridad competente de destino, se podrán establecer excepciones al régimen de movimientos previsto en los artículos 9.4, 10.3 y 10.4 para animales que provengan de explotaciones A2 o A1 positivas estables, según el anexo VI, que tengan como fin último el aprovechamiento de cebaderos en montanera, siempre y cuando el movimiento se realice previo control serológico del 100 por cien de los animales frente a la enfermedad de Aujeszky, sólo pudiéndose trasladar aquellos animales que resulten negativos al control y si previamente se procede a la vacunación de los mismos."
-
 > Se deroga, con efectos de 2 de enero de 2024, por la disposición derogatoria única.j) del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
 
 ### Artículo 16. Marcado de animales positivos.

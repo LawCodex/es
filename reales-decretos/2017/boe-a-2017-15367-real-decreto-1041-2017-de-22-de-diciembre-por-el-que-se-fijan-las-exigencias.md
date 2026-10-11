@@ -1927,181 +1927,175 @@ Transmite con total certeza información compleja y detallada, así como los asp
 
 ## ANEXO II — Equivalencias entre las enseñanzas reguladas por el Real Decreto 967/1988, de 2 de septiembre; las reguladas por el Real Decreto 944/2003, de 18 de julio; las reguladas por el Real Decreto 1629/2006, de 29 de diciembre; y las enseñanzas a las que se refiere este real decreto
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_1">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_2">
+<tr>
 <td>
-<p class="cabeza_tabla">Enseñanzas reguladas por el Real Decreto 967/1988, de 2 de septiembre</p>
+<p>Enseñanzas reguladas por el Real Decreto 967/1988, de 2 de septiembre</p>
 </td>
 <td>
-<p class="cabeza_tabla">Enseñanzas reguladas por el Real Decreto 944/2003, de 18 de julio</p>
+<p>Enseñanzas reguladas por el Real Decreto 944/2003, de 18 de julio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Enseñanzas reguladas por el Real Decreto 1629/2006, de 29 de diciembre</p>
+<p>Enseñanzas reguladas por el Real Decreto 1629/2006, de 29 de diciembre</p>
 </td>
 <td>
-<p class="cabeza_tabla">Enseñanzas reguladas por este Real Decreto</p>
+<p>Enseñanzas reguladas por este Real Decreto</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso del Ciclo Elemental</p>
+<p>1.<sup>er</sup> curso del Ciclo Elemental</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso del Nivel Básico</p>
+<p>1.<sup>er</sup> curso del Nivel Básico</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Nivel Básico (A2)</p>
+<p>Nivel Básico (A2)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Nivel Básico</p>
+<p>Nivel Básico</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso del Ciclo Elemental</p>
+<p>2.º curso del Ciclo Elemental</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso del Nivel Básico</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Básico</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Básico</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Básico A2</p>
+<p>2.º curso del Nivel Básico</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.<sup>er</sup> curso del Ciclo Elemental</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>Certificado de Nivel Básico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nivel Intermedio (B1)</p>
+<p>Certificado de Nivel Básico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nivel Intermedio B1</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Certificación académica del Ciclo Elemental</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Intermedio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Intermedio B1</p>
+<p>Certificado de Nivel Básico A2</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.<sup>er</sup> curso del Ciclo Superior</p>
+<p>3.<sup>er</sup> curso del Ciclo Elemental</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Nivel Intermedio (B1)</p>
+</td>
+<td>
+<p>Nivel Intermedio B1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificación académica del Ciclo Elemental</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Certificado de Nivel Intermedio</p>
+</td>
+<td>
+<p>Certificado de Nivel Intermedio B1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.<sup>er</sup> curso del Ciclo Superior</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Nivel Avanzado (B2)</p>
+<p>Nivel Avanzado (B2)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Nivel Intermedio B2</p>
+<p>Nivel Intermedio B2</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.º curso del Ciclo Superior</p>
+<p>2.º curso del Ciclo Superior</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Aptitud</p>
+<p>Certificado de Aptitud</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Avanzado</p>
+<p>Certificado de Nivel Avanzado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Intermedio B2</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">_</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">_</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel C1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel Avanzado C1</p>
+<p>Certificado de Nivel Intermedio B2</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">_</p>
+<p>_</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">_</p>
+<p>_</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel C1</p>
+<p>Nivel C1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Avanzado C1</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel C2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel Avanzado C2</p>
+<p>Nivel Avanzado C1</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>_</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>_</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel C2</p>
+<p>Certificado de Nivel C1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de Nivel Avanzado C2</p>
+<p>Certificado de Nivel Avanzado C1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Nivel C2</p>
+</td>
+<td>
+<p>Nivel Avanzado C2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Certificado de Nivel C2</p>
+</td>
+<td>
+<p>Certificado de Nivel Avanzado C2</p>
 </td>
 </tr>
 </tbody>

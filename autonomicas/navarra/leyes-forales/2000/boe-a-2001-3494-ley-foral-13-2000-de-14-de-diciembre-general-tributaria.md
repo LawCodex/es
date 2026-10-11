@@ -2442,18 +2442,6 @@ Dichos recargos son incompatibles entre sí y se calculan sobre la totalidad de 
 
 4\. El recargo ordinario de apremio será del 20 por 100 y será aplicable cuando no concurran las circunstancias a las que se refieren los apartados 2 y 3 de este artículo.
 
-> Téngase en cuenta que la modificación del tercer párrafo del apartado 1 y los apartados 2 a 4 por el art. 3.11 de la Ley Foral 21/2020, de 29 de diciembre. [Ref. BOE-A-2021-1355](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1355), tendrá efectos para las deudas que se satisfagan a partir del 1 de marzo de 2021, según establece el citado artículo.
-
-> **Redacción anterior.**
-
-> "Dichos recargos son incompatibles entre sí y se calculan sobre la deuda no ingresada en período voluntario.
-
-> 2\. El recargo ejecutivo será del 5 por 100 y se aplicará sobre la deuda satisfecha en período ejecutivo antes de la notificación de la providencia de apremio.
-
-> 3\. El recargo reducido de apremio será del 10 por 100 y se aplicará sobre la deuda satisfecha antes de la finalización del plazo reglamentariamente establecido para el pago de las deudas para las que se haya iniciado el procedimiento de apremio.
-
-> 4\. El recargo ordinario de apremio será del 20 por 100 y será aplicable cuando no concurran las circunstancias señaladas en los apartados 2 y 3 de este artículo."
-
 5\. El recargo ordinario de apremio es compatible con los intereses de demora. Cuando resulten aplicables el recargo ejecutivo o el recargo reducido de apremio no se exigirán los intereses de demora que se hubieran devengado desde el comienzo del período ejecutivo sobre la deuda satisfecha antes de la finalización del plazo reglamentariamente establecido para el pago de las deudas para las que se haya iniciado el procedimiento de apremio.
 
 6\. Comenzado el período ejecutivo, la Administración tributaria efectuará la recaudación de las deudas liquidadas o autoliquidadas, a las que se refiere el artículo 116.3 de esta Ley Foral, por el procedimiento de apremio sobre el patrimonio del obligado al pago.

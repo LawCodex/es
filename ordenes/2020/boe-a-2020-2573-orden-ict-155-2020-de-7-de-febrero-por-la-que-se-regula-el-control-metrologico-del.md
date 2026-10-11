@@ -386,91 +386,84 @@ Si se trata de instrumentos con indicación digital, el error de indicación se 
 
 Tabla 1. Errores máximos permitidos
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Carga</p>
+<p>Carga</p>
 </td>
 <td>
-<p class="cabeza_tabla">
+<p>
 <em>emp</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">Clase I</p>
+<p>Clase I</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase II</p>
+<p>Clase II</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase III</p>
+<p>Clase III</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase IIII</p>
+<p>Clase IIII</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0 ≤ <em>m</em> ≤ 50.000 <em>e</em></p>
+<p>0 ≤ <em>m</em> ≤ 50.000 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 ≤ <em>m</em> ≤ 5.000 <em>e</em></p>
+<p>0 ≤ <em>m</em> ≤ 5.000 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 ≤ <em>m</em> ≤ 500 <em>e</em></p>
+<p>0 ≤ <em>m</em> ≤ 500 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 ≤ <em>m</em> ≤ 50 <em>e</em></p>
+<p>0 ≤ <em>m</em> ≤ 50 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,0 <em>e</em></p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">50.000 <em>e</em> &lt; <em>m</em> ≤ 200.000 <em>e</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.000 <em>e</em> &lt; <em>m</em> ≤ 20.000 <em>e</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500 <em>e</em> &lt; <em>m</em> ≤ 2.000 <em>e</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50 <em>e</em> &lt; <em>m</em> ≤ 200 <em>e</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 2,0 <em>e</em></p>
+<p>± 1,0 <em>e</em></p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">200.000 <em>e</em> &lt; <em>m</em></p>
+<p>50.000 <em>e</em> &lt; <em>m</em> ≤ 200.000 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20.000 <em>e</em> &lt; <em>m</em> ≤ 100.000 <em>e</em></p>
+<p>5.000 <em>e</em> &lt; <em>m</em> ≤ 20.000 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.000 <em>e</em> &lt; <em>m</em> ≤ 10.000 <em>e</em></p>
+<p>500 <em>e</em> &lt; <em>m</em> ≤ 2.000 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200 <em>e</em> &lt; <em>m</em> ≤ 1.000 <em>e</em></p>
+<p>50 <em>e</em> &lt; <em>m</em> ≤ 200 <em>e</em></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 3,0 <em>e</em></p>
+<p>± 2,0 <em>e</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>200.000 <em>e</em> &lt; <em>m</em></p>
+</td>
+<td>
+<p>20.000 <em>e</em> &lt; <em>m</em> ≤ 100.000 <em>e</em></p>
+</td>
+<td>
+<p>2.000 <em>e</em> &lt; <em>m</em> ≤ 10.000 <em>e</em></p>
+</td>
+<td>
+<p>200 <em>e</em> &lt; <em>m</em> ≤ 1.000 <em>e</em></p>
+</td>
+<td>
+<p>± 3,0 <em>e</em></p>
 </td>
 </tr>
 </tbody>
@@ -745,88 +738,81 @@ Las masas de los ejes o *bogies* no deben ser indicadas, registradas o impresas 
 
 Tabla 4. Errores máximos permitidos para instrumentos categoría X
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_15">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Carga neta (<em>m</em>) en intervalos de escala de verificación (e)</p>
+<p>Carga neta (<em>m</em>) en intervalos de escala de verificación (e)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Error medio máximo permitido</p>
+<p>Error medio máximo permitido</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cabeza_tabla">XI</p>
+<p>XI</p>
 </td>
 <td>
-<p class="cabeza_tabla">XII</p>
+<p>XII</p>
 </td>
 <td>
-<p class="cabeza_tabla">XIII</p>
+<p>XIII</p>
 </td>
 <td>
-<p class="cabeza_tabla">XIIII</p>
+<p>XIIII</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 50.000</p>
+<p>0 &lt; <em>m</em> ≤ 50.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 5.000</p>
+<p>0 &lt; <em>m</em> ≤ 5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 500</p>
+<p>0 &lt; <em>m</em> ≤ 500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 50</p>
+<p>0 &lt; <em>m</em> ≤ 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1 <em>e</em></p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">50.000 &lt; <em>m</em> ≤ 200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.000 &lt; <em>m</em> ≤ 20.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500 &lt; <em>m</em> ≤ 2.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50 &lt; <em>m</em> ≤ 200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 2 <em>e</em></p>
+<p>± 1 <em>e</em></p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">200.000 &lt; <em>m</em></p>
+<p>50.000 &lt; <em>m</em> ≤ 200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20.000 &lt; <em>m</em> ≤ 100.000</p>
+<p>5.000 &lt; <em>m</em> ≤ 20.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000 &lt; <em>m</em> ≤ 10.000</p>
+<p>500 &lt; <em>m</em> ≤ 2.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200 &lt; <em>m</em> ≤1.000</p>
+<p>50 &lt; <em>m</em> ≤ 200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 3 <em>e</em></p>
+<p>± 2 <em>e</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>200.000 &lt; <em>m</em></p>
+</td>
+<td>
+<p>20.000 &lt; <em>m</em> ≤ 100.000</p>
+</td>
+<td>
+<p>2.000 &lt; <em>m</em> ≤ 10.000</p>
+</td>
+<td>
+<p>200 &lt; <em>m</em> ≤1.000</p>
+</td>
+<td>
+<p>± 3 <em>e</em></p>
 </td>
 </tr>
 </tbody>
@@ -853,88 +839,81 @@ Tabla 5. Desviaciones típicas máximas permitidas
 
 Tabla 6. Error máximo permitido para instrumentos categoría Y
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_17">
-<col class="row_column_18">
-<col class="row_column_19">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Carga neta (<em>m</em>) en intervalos de escala de verificación (<em>e</em>)</p>
+<p>Carga neta (<em>m</em>) en intervalos de escala de verificación (<em>e</em>)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Error máximo permitido<sup>(</sup>*<sup>)</sup></p>
+<p>Error máximo permitido<sup>(</sup>*<sup>)</sup></p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cabeza_tabla">Y(I)</p>
+<p>Y(I)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Y(II)</p>
+<p>Y(II)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Y(a)</p>
+<p>Y(a)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Y(b)</p>
+<p>Y(b)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 50.000</p>
+<p>0 &lt; <em>m</em> ≤ 50.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 5.000</p>
+<p>0 &lt; <em>m</em> ≤ 5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 500</p>
+<p>0 &lt; <em>m</em> ≤ 500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 &lt; <em>m</em> ≤ 50</p>
+<p>0 &lt; <em>m</em> ≤ 50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5 <em>e</em></p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">50.000 &lt; <em>m</em> ≤ 200.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.000 &lt; <em>m</em> ≤ 20.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500 &lt; <em>m</em> ≤ 2.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50 &lt; <em>m</em> ≤ 200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 2,5 <em>e</em></p>
+<p>± 1,5 <em>e</em></p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">200.000 ≤ <em>m</em></p>
+<p>50.000 &lt; <em>m</em> ≤ 200.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20.000 &lt; <em>m</em> ≤ 100.000</p>
+<p>5.000 &lt; <em>m</em> ≤ 20.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.000 &lt; <em>m</em> ≤ 10.000</p>
+<p>500 &lt; <em>m</em> ≤ 2.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200 &lt; <em>m</em> ≤ 1.000</p>
+<p>50 &lt; <em>m</em> ≤ 200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 3,5 <em>e</em></p>
+<p>± 2,5 <em>e</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>200.000 ≤ <em>m</em></p>
+</td>
+<td>
+<p>20.000 &lt; <em>m</em> ≤ 100.000</p>
+</td>
+<td>
+<p>2.000 &lt; <em>m</em> ≤ 10.000</p>
+</td>
+<td>
+<p>200 &lt; <em>m</em> ≤ 1.000</p>
+</td>
+<td>
+<p>± 3,5 <em>e</em></p>
 </td>
 </tr>
 </tbody>
@@ -1463,162 +1442,145 @@ La administración pública competente debe ser informada del resultado de la ve
 
 3\. Planes de muestreo. La verificación por muestreo estadístico de lotes se podrá realizar mediante uno de los siguientes planes de muestreo:
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 1. Verificación por muestreo simple</p>
+<p>Tabla 1. Verificación por muestreo simple</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tamaño lote</th>
-<th class="cabeza_tabla" rowspan="2">Tamaño muestra</th>
-<th class="cabeza_tabla" colspan="2">N.º de contadores no conformes</th>
-<th class="cabeza_tabla" rowspan="2">Contadores de repuesto</th>
+<th rowspan="2">Tamaño lote</th>
+<th rowspan="2">Tamaño muestra</th>
+<th colspan="2">N.º de contadores no conformes</th>
+<th rowspan="2">Contadores de repuesto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceptación del lote</th>
-<th class="cabeza_tabla">Rechazo del lote</th>
+<th>Aceptación del lote</th>
+<th>Rechazo del lote</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0 a 1 200</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0 a 1 200</td>
+<td>50</td>
+<td>1</td>
+<td>2</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1 201 a 3 200</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>1 201 a 3 200</td>
+<td>80</td>
+<td>3</td>
+<td>4</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3 201 a 10 000</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>3 201 a 10 000</td>
+<td>125</td>
+<td>5</td>
+<td>6</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10 001 a 35 000</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>10 001 a 35 000</td>
+<td>200</td>
+<td>10</td>
+<td>11</td>
+<td>40</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 2. Verificación por muestreo doble</p>
+<p>Tabla 2. Verificación por muestreo doble</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tamaño lote</th>
-<th class="cabeza_tabla" rowspan="2">Muestra</th>
-<th class="cabeza_tabla" rowspan="2">Tamaño muestra</th>
-<th class="cabeza_tabla" rowspan="2">Tamaño muestra acumulada</th>
-<th class="cabeza_tabla" colspan="3">N.° Contadores no conformes</th>
-<th class="cabeza_tabla" rowspan="2">Contadores de repuesto</th>
+<th rowspan="2">Tamaño lote</th>
+<th rowspan="2">Muestra</th>
+<th rowspan="2">Tamaño muestra</th>
+<th rowspan="2">Tamaño muestra acumulada</th>
+<th colspan="3">N.° Contadores no conformes</th>
+<th rowspan="2">Contadores de repuesto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceptación lote</th>
-<th class="cabeza_tabla">Rechazo lote</th>
-<th class="cabeza_tabla">Necesidad 2.ª muestra</th>
+<th>Aceptación lote</th>
+<th>Rechazo lote</th>
+<th>Necesidad 2.ª muestra</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">0 a 1 200</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="2">0 a 1 200</td>
+<td>Primera.</td>
+<td>32</td>
+<td>32</td>
+<td>0</td>
+<td>2</td>
+<td rowspan="2">1</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">64</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Segunda</td>
+<td>32</td>
+<td>64</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1 201 a 3 200</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2 a 3</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="2">1 201 a 3 200</td>
+<td>Primera.</td>
+<td>50</td>
+<td>50</td>
+<td>1</td>
+<td>4</td>
+<td rowspan="2">2 a 3</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Segunda.</td>
+<td>50</td>
+<td>100</td>
+<td>4</td>
+<td>5</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3 201 a 10 000</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3 a 4</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td rowspan="2">3 201 a 10 000</td>
+<td>Primera.</td>
+<td>80</td>
+<td>80</td>
+<td>2</td>
+<td>5</td>
+<td rowspan="2">3 a 4</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>Segunda.</td>
+<td>80</td>
+<td>160</td>
+<td>6</td>
+<td>7</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">10 001 a 35 000</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6 a 8</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td rowspan="2">10 001 a 35 000</td>
+<td>Primera.</td>
+<td>125</td>
+<td>125</td>
+<td>5</td>
+<td>9</td>
+<td rowspan="2">6 a 8</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda.</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>Segunda.</td>
+<td>125</td>
+<td>250</td>
+<td>12</td>
+<td>13</td>
+<td>25</td>
 </tr>
 </tbody>
 </table>
@@ -1827,45 +1789,40 @@ A efectos del contenido técnico de este apéndice, la terminología utilizada e
 
 1\. Condiciones para la verificación. Los titulares de los contadores y de los conversores asociados en su caso, estarán obligados a solicitar la verificación periódica de los mismos de acuerdo con el artículo 14 de esta orden antes de que se supere el período de tiempo en años establecido en la tabla 1, a contar desde su puesta en servicio.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 1. Periodo de verificación</p>
+<p>Tabla 1. Periodo de verificación</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Instrumento de medida</th>
-<th class="cabeza_tabla" rowspan="2">Período en años primera verificación</th>
-<th class="cabeza_tabla" rowspan="2">Periodo en años verificaciones siguientes</th>
+<th>Instrumento de medida</th>
+<th rowspan="2">Período en años primera verificación</th>
+<th rowspan="2">Periodo en años verificaciones siguientes</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Contador de gas, tipo:</th>
+<th>Contador de gas, tipo:</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Membrana deformable.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>Membrana deformable.</td>
+<td>10</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desplazamiento rotativo.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Desplazamiento rotativo.</td>
+<td>6</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turbina.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Turbina.</td>
+<td>4</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conversor.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Conversor.</td>
+<td>4</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
@@ -2096,162 +2053,145 @@ La administración pública competente debe ser informada del resultado de la ve
 
 3\. Planes de muestreo. La verificación por muestreo estadístico de lotes se podrá realizar mediante uno de los siguientes planes de muestreo:
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 5. Verificación por muestreo simple</p>
+<p>Tabla 5. Verificación por muestreo simple</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tamaño lote</th>
-<th class="cabeza_tabla" rowspan="2">Tamaño muestra</th>
-<th class="cabeza_tabla" colspan="2">N.º de contadores no conformes</th>
-<th class="cabeza_tabla" rowspan="2">Contadores de repuesto</th>
+<th rowspan="2">Tamaño lote</th>
+<th rowspan="2">Tamaño muestra</th>
+<th colspan="2">N.º de contadores no conformes</th>
+<th rowspan="2">Contadores de repuesto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceptación del lote</th>
-<th class="cabeza_tabla">Rechazo del lote</th>
+<th>Aceptación del lote</th>
+<th>Rechazo del lote</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0 a 1 200</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0 a 1 200</td>
+<td>50</td>
+<td>1</td>
+<td>2</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1 201 a 3 200</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>1 201 a 3 200</td>
+<td>80</td>
+<td>3</td>
+<td>4</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3 201 a 10 000</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>3 201 a 10 000</td>
+<td>125</td>
+<td>5</td>
+<td>6</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10 001 a 35 000</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>10 001 a 35 000</td>
+<td>200</td>
+<td>10</td>
+<td>11</td>
+<td>40</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 6. Verificación por muestreo doble</p>
+<p>Tabla 6. Verificación por muestreo doble</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tamaño lote</th>
-<th class="cabeza_tabla" rowspan="2">Muestra</th>
-<th class="cabeza_tabla" rowspan="2">Tamaño muestra</th>
-<th class="cabeza_tabla" rowspan="2">Tamaño muestra acumulada</th>
-<th class="cabeza_tabla" colspan="3">N.° Contadores no conformes</th>
-<th class="cabeza_tabla" rowspan="2">Contadores de repuesto</th>
+<th rowspan="2">Tamaño lote</th>
+<th rowspan="2">Muestra</th>
+<th rowspan="2">Tamaño muestra</th>
+<th rowspan="2">Tamaño muestra acumulada</th>
+<th colspan="3">N.° Contadores no conformes</th>
+<th rowspan="2">Contadores de repuesto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceptación lote</th>
-<th class="cabeza_tabla">Rechazo lote</th>
-<th class="cabeza_tabla">Necesidad 2.ª muestra</th>
+<th>Aceptación lote</th>
+<th>Rechazo lote</th>
+<th>Necesidad 2.ª muestra</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">0 a 1 200</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="2">0 a 1 200</td>
+<td>Primera.</td>
+<td>32</td>
+<td>32</td>
+<td>0</td>
+<td>2</td>
+<td rowspan="2">1</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda.</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">64</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Segunda.</td>
+<td>32</td>
+<td>64</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1 201 a 3 200</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2 a 3</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="2">1 201 a 3 200</td>
+<td>Primera.</td>
+<td>50</td>
+<td>50</td>
+<td>1</td>
+<td>4</td>
+<td rowspan="2">2 a 3</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Segunda</td>
+<td>50</td>
+<td>100</td>
+<td>4</td>
+<td>5</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3 201 a 10 000</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3 a 4</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td rowspan="2">3 201 a 10 000</td>
+<td>Primera.</td>
+<td>80</td>
+<td>80</td>
+<td>2</td>
+<td>5</td>
+<td rowspan="2">3 a 4</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>Segunda.</td>
+<td>80</td>
+<td>160</td>
+<td>6</td>
+<td>7</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">10 001 a 35 000</td>
-<td class="cuerpo_tabla_izq">Primera.</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6 a 8</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td rowspan="2">10 001 a 35 000</td>
+<td>Primera.</td>
+<td>125</td>
+<td>125</td>
+<td>5</td>
+<td>9</td>
+<td rowspan="2">6 a 8</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda.</td>
-<td class="cuerpo_tabla_centro">125</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>Segunda.</td>
+<td>125</td>
+<td>250</td>
+<td>12</td>
+<td>13</td>
+<td>25</td>
 </tr>
 </tbody>
 </table>
@@ -2500,125 +2440,118 @@ Para las clases de exactitud 2 y 3, estando sometido el contador eléctrico en l
 
 Tabla 1. Límites de los errores en tanto por ciento (contadores eléctricos monofásicos y polifásicos con cargas equilibradas)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_36">
-<col class="row_column_36">
-<col class="row_column_37">
-<col class="row_column_18">
-<col class="row_column_18">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_38">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Valor de la intensidad para contadores eléctrico</p>
+<p>Valor de la intensidad para contadores eléctrico</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">sen <em>φ</em> (inductivo o capacitivo)</p>
+<p>sen <em>φ</em> (inductivo o capacitivo)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Límites del error en tanto por ciento para contadores eléctricos de clase</p>
+<p>Límites del error en tanto por ciento para contadores eléctricos de clase</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">De conexión directa</p>
+<p>De conexión directa</p>
 </td>
 <td>
-<p class="cabeza_tabla">Conectados a transformadores</p>
+<p>Conectados a transformadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>b</sub></p>
+<p>0,05 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>b</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,02 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,05 <em>I</em><sub>n</sub></p>
+<p>0,02 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,05 <em>I</em><sub>n</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 2,5</p>
+<p>± 2,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 4,0</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 2,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 3,0</p>
+<p>± 4,0</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,2 <em>I</em><sub>b</sub></p>
+<p>0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>n</sub></p>
+<p>0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 2,5</p>
+<p>± 2,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 4,0</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 2,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 3,0</p>
+<p>± 3,0</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,1 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,2 <em>I</em><sub>b</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,05 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>n</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,25</p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 2,5</p>
+<p>± 2,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 4,0</p>
+<p>± 4,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>± 2,0</p>
+</td>
+<td>
+<p>± 3,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>± 2,5</p>
+</td>
+<td>
+<p>± 4,0</p>
 </td>
 </tr>
 </tbody>
@@ -2626,74 +2559,67 @@ Tabla 1. Límites de los errores en tanto por ciento (contadores eléctricos mon
 
 Tabla 2. Límites de los errores en tanto por ciento (contadores eléctricos polifásicos sometidos a una sola carga monofásica, pero con tensiones polifásicas equilibradas en sus circuitos de tensión)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_36">
-<col class="row_column_36">
-<col class="row_column_37">
-<col class="row_column_18">
-<col class="row_column_18">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_38">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Valor de la intensidad para contadores eléctricos</p>
+<p>Valor de la intensidad para contadores eléctricos</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">sen <em>φ</em> (inductivo o capacitivo)</p>
+<p>sen <em>φ</em> (inductivo o capacitivo)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Límites del error en tanto por ciento para contadores eléctricos de clase</p>
+<p>Límites del error en tanto por ciento para contadores eléctricos de clase</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">De conexión directa</p>
+<p>De conexión directa</p>
 </td>
 <td>
-<p class="cabeza_tabla">Conectados a transformadores</p>
+<p>Conectados a transformadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 3,0</p>
+<p>± 3,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 4,0</p>
+<p>± 4,0</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 3,0</p>
+<p>± 3,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 4,0</p>
+<p>± 4,0</p>
 </td>
 </tr>
 </tbody>
@@ -2703,145 +2629,137 @@ Para los contadores eléctricos de clase de exactitud 0,5 S, 1 S y 1, estando so
 
 Tabla 3. Límites de los errores en tanto por ciento (contadores eléctricos monofásicos y polifásicos con cargas equilibradas)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_39">
-<col class="row_column_39">
-<col class="row_column_31">
-<col class="row_column_30">
-<col class="row_column_30">
-<col class="row_column_30">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_16">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Valor de la intensidad</p>
+<p>Valor de la intensidad</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">sen <em>φ</em></p>
-<p class="cuerpo_tabla_centro">(inductivo o capacitivo)</p>
+<p>sen <em>φ</em></p>
+<p>(inductivo o capacitivo)</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">Límites del error en tanto por ciento para contadores eléctricos de clase</p>
+<p>Límites del error en tanto por ciento para contadores eléctricos de clase</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Para contadores eléctricos de conexión directa</p>
+<p>Para contadores eléctricos de conexión directa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Para contadores eléctricos (S) conectados a transformadores <sup>(a)</sup></p>
+<p>Para contadores eléctricos (S) conectados a transformadores <sup>(a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 S <sup>a)</sup></p>
+<p>0,5 S <sup>a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 S <sup>a)</sup></p>
+<p>1 S <sup>a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>b</sub></p>
+<p>0,05 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>b</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,05 <em>I</em><sub>n</sub></p>
+<p>0,01 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,05 <em>I</em><sub>n</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
+<p>± 1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5</p>
+<p>± 1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
+<p>± 1,5</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,2 <em>I</em><sub>b</sub></p>
+<p>0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>n</sub></p>
+<p>0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
+<p>± 0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5</p>
+<p>± 1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
+<p>± 1,0</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,1 <em>I</em><sub>b</sub> ≤ <em>I</em>&lt; 0,2 <em>I</em><sub>b</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,05 <em>I</em><sub>n</sub> ≤ <em>I</em>&lt; 0,1 <em>I</em><sub>n</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,25</p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
+<p>± 1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 2,0</p>
+<p>± 1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 2,0</p>
+<p>± 1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>± 0,5</p>
+</td>
+<td>
+<p>± 1,0</p>
+</td>
+<td>
+<p>± 1,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>± 1,0</p>
+</td>
+<td>
+<p>± 2,0</p>
+</td>
+<td>
+<p>± 2,0</p>
 </td>
 </tr>
 </tbody>
@@ -2851,92 +2769,85 @@ Tabla 3. Límites de los errores en tanto por ciento (contadores eléctricos mon
 
 Tabla 4. Límites de los errores en tanto por ciento (contadores eléctricos polifásicos sometidos a una sola carga monofásica, pero con tensiones polifásicas equilibradas en sus circuitos de tensión
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_13">
-<col class="row_column_40">
-<col class="row_column_32">
-<col class="row_column_18">
-<col class="row_column_18">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_16">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Valor de la intensidad</p>
+<p>Valor de la intensidad</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">sen <em>φ</em></p>
-<p class="cuerpo_tabla_centro">(inductivo o capacitivo)</p>
+<p>sen <em>φ</em></p>
+<p>(inductivo o capacitivo)</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Límites del error en tanto por ciento para contadores eléctricos de clase</p>
+<p>Límites del error en tanto por ciento para contadores eléctricos de clase</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Para contadores eléctricos de conexión directa</p>
+<p>Para contadores eléctricos de conexión directa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Para contadores eléctricos (S) conectados a transformadores <sup>(a)</sup></p>
+<p>Para contadores eléctricos (S) conectados a transformadores <sup>(a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 S <sup>a)</sup></p>
+<p>0,5 S <sup>a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 ó 1 S</p>
+<p>1 ó 1 S</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,1 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,05 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 0,7</p>
+<p>± 0,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">± 2,0</p>
+<p>± 1,5</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,25</p>
+<p>0,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 1,5</p>
+<p>± 1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 3,0</p>
+<p>± 2,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,2 <em>I</em><sub>b</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,1 <em>I</em><sub>n</sub> ≤ <em>I</em> ≤ <em>I</em><sub>máx</sub></p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>± 1,5</p>
+</td>
+<td>
+<p>± 3,0</p>
 </td>
 </tr>
 </tbody>
@@ -2954,71 +2865,64 @@ Los organismos de control metrológico que lleven a cabo la evaluación de la co
 
 Tabla 5. Incertidumbre de la medida para energía reactiva
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_41">
-<col class="row_column_41">
-<col class="row_column_41">
-<col class="row_column_41">
-<col class="row_column_41">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Clase del contador de energía eléctrica</p>
+<p>Clase del contador de energía eléctrica</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">sen <em>φ</em></p>
+<p>sen <em>φ</em></p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cabeza_tabla">0,5</p>
+<p>0,5</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0,7 %</p>
+<p>0,7 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 %</p>
+<p>0,5 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,25 %</p>
+<p>0,25 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,15 %</p>
+<p>0,15 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1,4 %</p>
+<p>1,4 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 %</p>
+<p>1 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 %</p>
+<p>0,5 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3 %</p>
+<p>0,3 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">sen <em>φ</em> # 1</p>
+<p>sen <em>φ</em> # 1</p>
 </td>
 </tr>
 </tbody>
@@ -4410,129 +4314,122 @@ La evaluación de la conformidad de los registradores de temperatura y termómet
 
 1\. Módulos B y G. Los ensayos que deben realizarse y ser superados satisfactoriamente por el instrumento son los de la tabla 1, que hace referencia a diversos apartados de las Normas UNE-EN 12830:2019 y EN 13485:2023.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla 1. Apartados de las normas</p>
+<p>Tabla 1. Apartados de las normas</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ensayos</th>
-<th class="cabeza_tabla">Instalación estática</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Apartado de la norma UNE-EN 12830</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Apartado de la norma EN 13485</p>
+<th>Ensayos</th>
+<th>Instalación estática</th>
+<th>Transporte</th>
+<th>Apartado de la norma UNE-EN 12830</th>
+<th>
+<p>Apartado de la norma EN 13485</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación del error en la medida de la temperatura.</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.3</td>
-<td class="cuerpo_tabla_coma">5.3</td>
+<td>Determinación del error en la medida de la temperatura.</td>
+<td>+</td>
+<td>+</td>
+<td>6.3</td>
+<td>5.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación del tiempo de respuesta.</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.4</td>
-<td class="cuerpo_tabla_coma">5.4</td>
+<td>Determinación del tiempo de respuesta.</td>
+<td>+</td>
+<td>+</td>
+<td>6.4</td>
+<td>5.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación del error en el registro del tiempo<sup>(1).</sup></td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.5</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Determinación del error en el registro del tiempo<sup>(1).</sup></td>
+<td>+</td>
+<td>+</td>
+<td>6.5</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Variación en la tensión de alimentación<sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.2</td>
-<td class="cuerpo_tabla_coma">5.5.2</td>
+<td>Variación en la tensión de alimentación<sup>(2).</sup></td>
+<td>+</td>
+<td>+</td>
+<td>6.6.2</td>
+<td>5.5.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad eléctrica<sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.8</td>
-<td class="cuerpo_tabla_coma">5.5.8</td>
+<td>Seguridad eléctrica<sup>(2).</sup></td>
+<td>+</td>
+<td>+</td>
+<td>6.6.8</td>
+<td>5.5.8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rigidez dieléctrica<sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.9</td>
-<td class="cuerpo_tabla_coma">5.5.9</td>
+<td>Rigidez dieléctrica<sup>(2).</sup></td>
+<td>+</td>
+<td>+</td>
+<td>6.6.9</td>
+<td>5.5.9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Influencia de la temperatura ambiente.</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.3</td>
-<td class="cuerpo_tabla_coma">5.5.3</td>
+<td>Influencia de la temperatura ambiente.</td>
+<td>+</td>
+<td>+</td>
+<td>6.6.3</td>
+<td>5.5.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ensayo de temperatura en condiciones de almacenamiento y transporte.</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.4</td>
-<td class="cuerpo_tabla_coma">5.5.4</td>
+<td>Ensayo de temperatura en condiciones de almacenamiento y transporte.</td>
+<td>+</td>
+<td>+</td>
+<td>6.6.4</td>
+<td>5.5.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resistencia a los choques<sup>(3).</sup></td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.5</td>
-<td class="cuerpo_tabla_coma">5.5.5</td>
+<td>Resistencia a los choques<sup>(3).</sup></td>
+<td> </td>
+<td>+</td>
+<td>6.6.5</td>
+<td>5.5.5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vibraciones mecánicas.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.6</td>
-<td class="cuerpo_tabla_coma">5.5.6</td>
+<td>Vibraciones mecánicas.</td>
+<td> </td>
+<td>+</td>
+<td>6.6.6</td>
+<td>5.5.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grados de protección proporcionados por la envolvente.</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.6.7</td>
-<td class="cuerpo_tabla_coma">5.5.7</td>
+<td>Grados de protección proporcionados por la envolvente.</td>
+<td>+</td>
+<td>+</td>
+<td>6.6.7</td>
+<td>5.5.7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética (EMC) <sup>(2)(4).</sup></td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Compatibilidad electromagnética (EMC) <sup>(2)(4).</sup></td>
+<td>+</td>
+<td>+</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ensayo de software<sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_coma">6.7</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Ensayo de software<sup>(2).</sup></td>
+<td>+</td>
+<td>+</td>
+<td>6.7</td>
+<td>–</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(1) </sup>Solo en registradores de temperatura.</p>
-<p class="cita"><sup>(2) </sup>Si es de aplicación.</p>
-<p class="cita"><sup>(3) </sup>En termómetros, solo para termómetros fijos.</p>
-<p class="cita"><sup>(4) </sup>El registrador o el termómetro debe estar conforme con los requisitos de las Normas UNE-EN 61000-6-3/A1:2012. «Compatibilidad electromagnética (CEM). Parte 6-3: Normas genéricas. Norma de emisión en entornos residenciales, comerciales y de industria ligera», y UNE-EN 61000-6-1:2019. «Compatibilidad electromagnética (CEM). Parte 6-1: Normas genéricas. Inmunidad en entornos residenciales, comerciales y de industria ligera. (UNE-EN IEC 61000-6-1:2019)» y cualquier otra norma específica cuando sea de aplicación.</p>
-<p class="cita">+ Aplica el ensayo correspondiente.</p>
+<p><sup>(1) </sup>Solo en registradores de temperatura.</p>
+<p><sup>(2) </sup>Si es de aplicación.</p>
+<p><sup>(3) </sup>En termómetros, solo para termómetros fijos.</p>
+<p><sup>(4) </sup>El registrador o el termómetro debe estar conforme con los requisitos de las Normas UNE-EN 61000-6-3/A1:2012. «Compatibilidad electromagnética (CEM). Parte 6-3: Normas genéricas. Norma de emisión en entornos residenciales, comerciales y de industria ligera», y UNE-EN 61000-6-1:2019. «Compatibilidad electromagnética (CEM). Parte 6-1: Normas genéricas. Inmunidad en entornos residenciales, comerciales y de industria ligera. (UNE-EN IEC 61000-6-1:2019)» y cualquier otra norma específica cuando sea de aplicación.</p>
+<p>+ Aplica el ensayo correspondiente.</p>
 </td>
 </tr>
 </tfoot>
@@ -4804,74 +4701,69 @@ iii. espacio para los marcados de conformidad.
 
 Tabla 1. Errores máximos permitidos en la fase de evaluación de la conformidad
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_50">
-<col class="row_column_14">
-<col class="row_column_51">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">Errores máximos permitidos</p>
+<p>Errores máximos permitidos</p>
 </td>
 </tr>
-<tr class="row_column_38">
+<tr>
 <td>
-<p class="cabeza_tabla">Según tipo de instalación</p>
+<p>Según tipo de instalación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Para ensayos en laboratorio</p>
-<p class="cabeza_tabla">(por simulación)</p>
+<p>Para ensayos en laboratorio</p>
+<p>(por simulación)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Para ensayos en carretera</p>
-<p class="cabeza_tabla">(tráfico real)</p>
+<p>Para ensayos en carretera</p>
+<p>(tráfico real)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Cinemómetro en instalación fija o estática y de tramo</p>
+<p>Cinemómetro en instalación fija o estática y de tramo</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">± 2 km/h</p>
+<p>± 2 km/h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">± 3 km/h, para <em>v</em> ≤ 100 km/h</p>
-<p class="cuerpo_tabla_izq">± 3 %, para <em>v </em>&gt; 100 km/h</p>
-<p class="cuerpo_tabla_izq">±1 km/h<sup>(1)</sup></p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_centro">Cinemómetro en instalación móvil sobre vehículo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">± 5 km/h, para <em>v</em> ≤ 100 km/h</p>
-<p class="cuerpo_tabla_izq">± 5 %, para <em>v</em> &gt; 100 km/h</p>
+<p>± 3 km/h, para <em>v</em> ≤ 100 km/h</p>
+<p>± 3 %, para <em>v </em>&gt; 100 km/h</p>
+<p>±1 km/h<sup>(1)</sup></p>
 </td>
 </tr>
-<tr class="row_column_52">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Cinemómetro en aeronave</p>
+<p>Cinemómetro en instalación móvil sobre vehículo</p>
+</td>
+<td>
+<p>± 5 km/h, para <em>v</em> ≤ 100 km/h</p>
+<p>± 5 %, para <em>v</em> &gt; 100 km/h</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cinemómetro en aeronave</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Para la posición y medida de distancias: ± 3 % (valor mínimo 5 m)</p>
-<p class="cuerpo_tabla_izq">Para el tiempo transcurrido en recorrido de distancias: ± 0,1 % (valor mínimo 0,2 s)</p>
-<p class="cuerpo_tabla_izq">Para la medida de velocidad: ± 5 %</p>
+<p>Para la posición y medida de distancias: ± 3 % (valor mínimo 5 m)</p>
+<p>Para el tiempo transcurrido en recorrido de distancias: ± 0,1 % (valor mínimo 0,2 s)</p>
+<p>Para la medida de velocidad: ± 5 %</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Tiempo intervehicular (para distancia entre vehículos)</p>
+<p>Tiempo intervehicular (para distancia entre vehículos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 0,2 s</p>
+<p>± 0,2 s</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 0,5 s</p>
+<p>± 0,5 s</p>
 </td>
 </tr>
 </tbody>
@@ -4885,64 +4777,59 @@ Los errores máximos permitidos en la verificación periódica de cinemómetros 
 
 Tabla 2. Errores máximos permitidos en la verificación periódica
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_53">
-<col class="row_column_51">
-<col class="row_column_51">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">Errores máximos permitidos</p>
+<p>Errores máximos permitidos</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">Según tipo de instalación</p>
+<p>Según tipo de instalación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Para ensayos en laboratorio</p>
-<p class="cabeza_tabla">(por simulación de señales)</p>
+<p>Para ensayos en laboratorio</p>
+<p>(por simulación de señales)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Para ensayos en carretera</p>
-<p class="cabeza_tabla">(tráfico real)</p>
+<p>Para ensayos en carretera</p>
+<p>(tráfico real)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Cinemómetro en instalación fija o estática</p>
+<p>Cinemómetro en instalación fija o estática</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">± 2 km/h, para <em>v</em> ≤ 200 km/h</p>
-<p class="cuerpo_tabla_izq">± 3 km/h, para <em>v</em> &gt; 200 km/h</p>
+<p>± 2 km/h, para <em>v</em> ≤ 200 km/h</p>
+<p>± 3 km/h, para <em>v</em> &gt; 200 km/h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">± 5 km/h, para <em>v</em> ≤ 100 km/h</p>
-<p class="cuerpo_tabla_izq">± 5 %, para <em>v</em> &gt; 100 km/h</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_centro">Cinemómetro en instalación móvil sobre vehículo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">± 7 km/h, para <em>v</em> ≤ 100 km/h</p>
-<p class="cuerpo_tabla_izq">± 7 %, para <em>v</em> &gt; 100 km/h</p>
+<p>± 5 km/h, para <em>v</em> ≤ 100 km/h</p>
+<p>± 5 %, para <em>v</em> &gt; 100 km/h</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Tiempo intervehicular (para distancia entre vehículos)</p>
+<p>Cinemómetro en instalación móvil sobre vehículo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">± 0,2 s</p>
+<p>± 7 km/h, para <em>v</em> ≤ 100 km/h</p>
+<p>± 7 %, para <em>v</em> &gt; 100 km/h</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiempo intervehicular (para distancia entre vehículos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">± 0,8 s</p>
+<p>± 0,2 s</p>
+</td>
+<td>
+<p>± 0,8 s</p>
 </td>
 </tr>
 </tbody>
@@ -5731,164 +5618,159 @@ Sonómetros y sonómetros integradores promediadores con aprobación de modelo s
 
 Tabla 1. Apartados de las normas de aplicación a los ensayos
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_54">
-<col class="row_column_55">
-<col class="row_column_55">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_56">
+<tr>
 <td>
-<p class="cabeza_tabla">Ensayos</p>
+<p>Ensayos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Norma UNE-EN 60651:1996, modificada por la Norma UNE-EN 60651/A1:1997</p>
+<p>Norma UNE-EN 60651:1996, modificada por la Norma UNE-EN 60651/A1:1997</p>
 </td>
 <td>
-<p class="cabeza_tabla">Norma UNE-EN 60804:1996, modificada por la Norma UNE-EN 60804/A2:1997</p>
+<p>Norma UNE-EN 60804:1996, modificada por la Norma UNE-EN 60804/A2:1997</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Características acústicas</p>
+<p>Características acústicas</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Lectura en las condiciones de referencia <sup>(1)</sup></p>
+<p>Lectura en las condiciones de referencia <sup>(1)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.2, 9.1 y 9.2.1</p>
+<p>4.2, 9.1 y 9.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.2, 9.1 y 9.2.1</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">Respuesta en frecuencia <sup>(1)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.4, 6.1, 9.1 y 9.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.4, 5.1, 9.1, 9.2 y 9.2.2</p>
+<p>4.2, 9.1 y 9.2.1</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Respuesta en frecuencia (accesorios)</p>
+<p>Respuesta en frecuencia <sup>(1)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.1 y 11.2.14</p>
+<p>4.4, 6.1, 9.1 y 9.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.1, 10.2 y 11.2.15</p>
+<p>4.4, 5.1, 9.1, 9.2 y 9.2.2</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
+<td>
+<p>Respuesta en frecuencia (accesorios)</p>
+</td>
+<td>
+<p>10.1 y 11.2.14</p>
+</td>
+<td>
+<p>10.1, 10.2 y 11.2.15</p>
+</td>
+</tr>
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Características eléctricas</p>
+<p>Características eléctricas</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Detección cuadrática<sup>(2)</sup></p>
+<p>Detección cuadrática<sup>(2)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.2 y 9.4.2</p>
+<p>7.2 y 9.4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Ponderación temporal (S, F, I, pico)<sup>(3)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.5, 7.2-7.5, 9.4.1, 9.4.3 y 9.4.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Exactitud del atenuador</p>
+<p>Ponderación temporal (S, F, I, pico)<sup>(3)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.3 y 6.4</p>
+<p>4.5, 7.2-7.5, 9.4.1, 9.4.3 y 9.4.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.2, 6.4 y 9.3.1</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">Indicador <sup>(4)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.6 - 7.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.3, 6.4 y 6.6</p>
+<p>-</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Ponderación frecuencial por entrada eléctrica (A, B, C, Lin por entrada eléctrica)</p>
+<p>Exactitud del atenuador</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.1 y 9.2.2</p>
+<p>6.3 y 6.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.1 y 9.2.2</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">Indicación de sobrecarga</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.5 y 9.3.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.6, 7 y 9.3.5</p>
+<p>5.2, 6.4 y 9.3.1</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Promedio temporal</p>
+<p>Indicador <sup>(4)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>7.6 - 7.10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.5, 6.1 y 9.3.2</p>
+<p>6.3, 6.4 y 6.6</p>
 </td>
 </tr>
-<tr class="row_column_45">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Campo de aptitud para medida de impulsos</p>
+<p>Ponderación frecuencial por entrada eléctrica (A, B, C, Lin por entrada eléctrica)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>6.1 y 9.2.2</p>
+</td>
+<td>
+<p>5.1 y 9.2.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Indicación de sobrecarga</p>
+</td>
+<td>
+<p>6.5 y 9.3.1</p>
+</td>
+<td>
+<p>4.6, 7 y 9.3.5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Promedio temporal</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>4.5, 6.1 y 9.3.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Campo de aptitud para medida de impulsos</p>
+</td>
+<td>
+<p>-</p>
 </td>
 <td></td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Nivel medio de presión acústica ponderado, AI<sup> (4)</sup></p>
+<p>Nivel medio de presión acústica ponderado, AI<sup> (4)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">parte B del anexo de la norma</p>
+<p>parte B del anexo de la norma</p>
 </td>
 </tr>
 </tbody>
@@ -6010,80 +5892,74 @@ Estos instrumentos deberán seguir cumpliendo los requisitos que dieron origen a
 
 Tabla 1. Errores máximos permitidos (*emp*)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_26">
-<col class="row_column_26">
-<col class="row_column_26">
-<col class="row_column_26">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td rowspan="3">
-<p class="cabeza_tabla">Media de presión en kPa</p>
+<p>Media de presión en kPa</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Errores máximos permitidos (<em>emp</em>) ± en kPa</p>
+<p>Errores máximos permitidos (<em>emp</em>) ± en kPa</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">Temperatura ambiente (<em>t</em><sub>amb</sub>) en ºC para instrumentos de medida de la presión de los neumáticos</p>
+<p>Temperatura ambiente (<em>t</em><sub>amb</sub>) en ºC para instrumentos de medida de la presión de los neumáticos</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">por debajo de 15 ºC</p>
+<p>por debajo de 15 ºC</p>
 </td>
 <td>
-<p class="cabeza_tabla">desde 15 ºC a 25 ºC</p>
+<p>desde 15 ºC a 25 ºC</p>
 </td>
 <td>
-<p class="cabeza_tabla">por encima de 25 ºC</p>
+<p>por encima de 25 ºC</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≤ 400</p>
+<p>≤ 400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 × (15 – <em>t</em><sub>amb</sub>) + 8</p>
+<p>0,5 × (15 – <em>t</em><sub>amb</sub>) + 8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 × (<em>t</em><sub>amb </sub>– 25) + 8</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">&gt; 400 a &lt; 1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5 × (15 – <em>t</em><sub>amb</sub>) + 16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5 × (<em>t</em><sub>amb</sub>– 25) + 16</p>
+<p>0,5 × (<em>t</em><sub>amb </sub>– 25) + 8</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 1.000</p>
+<p>&gt; 400 a &lt; 1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 × (15 – <em>t</em><sub>amb</sub>) + 25</p>
+<p>0,5 × (15 – <em>t</em><sub>amb</sub>) + 16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5 × (<em>t</em><sub>amb</sub>– 25) + 25</p>
+<p>0,5 × (<em>t</em><sub>amb</sub>– 25) + 16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>≥ 1.000</p>
+</td>
+<td>
+<p>0,5 × (15 – <em>t</em><sub>amb</sub>) + 25</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>0,5 × (<em>t</em><sub>amb</sub>– 25) + 25</p>
 </td>
 </tr>
 </tbody>
@@ -6521,179 +6397,166 @@ En este caso si la temperatura de la solución de glucosa es diferente a 20 °C 
 
 Las soluciones de glucosa deben tener un porcentaje en masa con una incertidumbre relativa menor de 0,06 %.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 1. Correcciones de la concentración de sacarosa con la temperatura</p>
+<p>Tabla 1. Correcciones de la concentración de sacarosa con la temperatura</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Temperatura °C</th>
-<th class="cabeza_tabla" colspan="10">Sacarosa en gramos por 100 g de producto</th>
+<th rowspan="2">Temperatura °C</th>
+<th colspan="10">Sacarosa en gramos por 100 g de producto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">5</th>
-<th class="cabeza_tabla">10</th>
-<th class="cabeza_tabla">15</th>
-<th class="cabeza_tabla">20</th>
-<th class="cabeza_tabla">30</th>
-<th class="cabeza_tabla">40</th>
-<th class="cabeza_tabla">50</th>
-<th class="cabeza_tabla">60</th>
-<th class="cabeza_tabla">70</th>
-<th class="cabeza_tabla">75</th>
+<th>5</th>
+<th>10</th>
+<th>15</th>
+<th>20</th>
+<th>30</th>
+<th>40</th>
+<th>50</th>
+<th>60</th>
+<th>70</th>
+<th>75</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="10">Restar</td>
+<td> </td>
+<td colspan="10">Restar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">0,34</td>
-<td class="cuerpo_tabla_centro">0,35</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,37</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,36</td>
+<td>15</td>
+<td>0,25</td>
+<td>0,27</td>
+<td>0,31</td>
+<td>0,31</td>
+<td>0,34</td>
+<td>0,35</td>
+<td>0,36</td>
+<td>0,37</td>
+<td>0,36</td>
+<td>0,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">0,32</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">0,23</td>
+<td>16</td>
+<td>0,21</td>
+<td>0,23</td>
+<td>0,27</td>
+<td>0,27</td>
+<td>0,29</td>
+<td>0,31</td>
+<td>0,31</td>
+<td>0,32</td>
+<td>0,31</td>
+<td>0,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">0,16</td>
-<td class="cuerpo_tabla_centro">0,18</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">0,22</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">0,23</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">0,17</td>
+<td>17</td>
+<td>0,16</td>
+<td>0,18</td>
+<td>0,20</td>
+<td>0,20</td>
+<td>0,22</td>
+<td>0,23</td>
+<td>0,23</td>
+<td>0,23</td>
+<td>0,20</td>
+<td>0,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">0,11</td>
-<td class="cuerpo_tabla_centro">0,12</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,15</td>
-<td class="cuerpo_tabla_centro">0,16</td>
-<td class="cuerpo_tabla_centro">0,16</td>
-<td class="cuerpo_tabla_centro">0,15</td>
-<td class="cuerpo_tabla_centro">0,12</td>
-<td class="cuerpo_tabla_centro">0,12</td>
-<td class="cuerpo_tabla_centro">0,09</td>
+<td>18</td>
+<td>0,11</td>
+<td>0,12</td>
+<td>0,14</td>
+<td>0,15</td>
+<td>0,16</td>
+<td>0,16</td>
+<td>0,15</td>
+<td>0,12</td>
+<td>0,12</td>
+<td>0,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">0,06</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">0,09</td>
-<td class="cuerpo_tabla_centro">0,09</td>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,05</td>
+<td>19</td>
+<td>0,06</td>
+<td>0,07</td>
+<td>0,08</td>
+<td>0,08</td>
+<td>0,08</td>
+<td>0,09</td>
+<td>0,09</td>
+<td>0,08</td>
+<td>0,07</td>
+<td>0,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="10">Sumar</td>
+<td> </td>
+<td colspan="10">Sumar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">0,06</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">0,07</td>
+<td>21</td>
+<td>0,06</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
+<td>0,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">0,12</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
-<td class="cuerpo_tabla_centro">0,14</td>
+<td>22</td>
+<td>0,12</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
+<td>0,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">0,18</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">0,20</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">0,22</td>
-<td class="cuerpo_tabla_centro">0,22</td>
-<td class="cuerpo_tabla_centro">0,22</td>
+<td>23</td>
+<td>0,18</td>
+<td>0,20</td>
+<td>0,20</td>
+<td>0,21</td>
+<td>0,21</td>
+<td>0,21</td>
+<td>0,21</td>
+<td>0,22</td>
+<td>0,22</td>
+<td>0,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">0,24</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">0,28</td>
-<td class="cuerpo_tabla_centro">0,28</td>
-<td class="cuerpo_tabla_centro">0,28</td>
-<td class="cuerpo_tabla_centro">0,28</td>
-<td class="cuerpo_tabla_centro">0,29</td>
-<td class="cuerpo_tabla_centro">0,29</td>
+<td>24</td>
+<td>0,24</td>
+<td>0,26</td>
+<td>0,26</td>
+<td>0,27</td>
+<td>0,28</td>
+<td>0,28</td>
+<td>0,28</td>
+<td>0,28</td>
+<td>0,29</td>
+<td>0,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">0,30</td>
-<td class="cuerpo_tabla_centro">0,32</td>
-<td class="cuerpo_tabla_centro">0,32</td>
-<td class="cuerpo_tabla_centro">0,34</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,36</td>
-<td class="cuerpo_tabla_centro">0,37</td>
+<td>25</td>
+<td>0,30</td>
+<td>0,32</td>
+<td>0,32</td>
+<td>0,34</td>
+<td>0,36</td>
+<td>0,36</td>
+<td>0,36</td>
+<td>0,36</td>
+<td>0,36</td>
+<td>0,37</td>
 </tr>
 </tbody>
 </table>
@@ -7454,128 +7317,120 @@ La energía eléctrica medida deberá indicarse usando uno de los símbolos sigu
 
 Las condiciones de funcionamiento vienen recogidas en la tabla 1.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 1. Condiciones nominales de funcionamiento</p>
+<p>Tabla 1. Condiciones nominales de funcionamiento</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Condición o magnitud de influencia</th>
-<th class="cabeza_tabla" colspan="5">Valores, rangos</th>
+<th>Condición o magnitud de influencia</th>
+<th colspan="5">Valores, rangos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Frecuencia <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq"><em>f</em><sub>nom</sub> -2 %≤ <em>f</em> ≤ <em>f</em><sub>nom</sub> +2 % donde <em>f</em><sub>nom</sub> debe ser especificada por el fabricante.</p>
-<p class="cuerpo_tabla_izq">Si el fabricante especifica más de una frecuencia nominal las condiciones de funcionamiento serán la combinación de todos los intervalos.</p>
+<td>Frecuencia <sup>(1)</sup>.</td>
+<td colspan="5">
+<p><em>f</em><sub>nom</sub> -2 %≤ <em>f</em> ≤ <em>f</em><sub>nom</sub> +2 % donde <em>f</em><sub>nom</sub> debe ser especificada por el fabricante.</p>
+<p>Si el fabricante especifica más de una frecuencia nominal las condiciones de funcionamiento serán la combinación de todos los intervalos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tensión.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq">Estación de carga en AC: Para cada <em>U</em><sub>nom</sub>, 0,9 × <em>U</em><sub>nom</sub> a 1,1 × <em>U</em><sub>nom.</sub></p>
-<p class="cuerpo_tabla_izq">Estación de carga en DC: Desde el valor más bajo de la salida de tensión hasta el más alto.</p>
+<td>Tensión.</td>
+<td colspan="5">
+<p>Estación de carga en AC: Para cada <em>U</em><sub>nom</sub>, 0,9 × <em>U</em><sub>nom</sub> a 1,1 × <em>U</em><sub>nom.</sub></p>
+<p>Estación de carga en DC: Desde el valor más bajo de la salida de tensión hasta el más alto.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Intensidad de corriente.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq"><em>I</em><sub>st</sub> Valor mínimo declarado por el fabricante de <em>I</em> para el que el sistema registre energía.</p>
-<p class="cuerpo_tabla_izq"><em>I</em><sub>min</sub> definida por el fabricante.</p>
-<p class="cuerpo_tabla_izq"><em>I</em><sub>min</sub> debe ser menor o igual que <em>I</em><sub>tr </sub>(valor de <em>I</em> por encima del cual el margen de error se sitúa dentro del más pequeño error máximo permitido correspondiente a la estación de carga).</p>
-<p class="cuerpo_tabla_izq"><em>I</em><sub>max</sub> definida por el fabricante.</p>
+<td rowspan="4">Intensidad de corriente.</td>
+<td colspan="5">
+<p><em>I</em><sub>st</sub> Valor mínimo declarado por el fabricante de <em>I</em> para el que el sistema registre energía.</p>
+<p><em>I</em><sub>min</sub> definida por el fabricante.</p>
+<p><em>I</em><sub>min</sub> debe ser menor o igual que <em>I</em><sub>tr </sub>(valor de <em>I</em> por encima del cual el margen de error se sitúa dentro del más pequeño error máximo permitido correspondiente a la estación de carga).</p>
+<p><em>I</em><sub>max</sub> definida por el fabricante.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Modo</td>
-<td class="cuerpo_tabla_centro">AC</td>
-<td class="cuerpo_tabla_centro">AC</td>
-<td class="cuerpo_tabla_centro">DC</td>
-<td class="cuerpo_tabla_centro">DC</td>
+<td>Modo</td>
+<td>AC</td>
+<td>AC</td>
+<td>DC</td>
+<td>DC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>I</em>
 <sub>tr</sub>
 </td>
-<td class="cuerpo_tabla_centro">≤ 5,0 A</td>
-<td class="cuerpo_tabla_centro">≤ 0,10<em> I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">≤ 25 A</td>
-<td class="cuerpo_tabla_centro">≤ 0,10A<em> I</em><sub>max</sub></td>
+<td>≤ 5,0 A</td>
+<td>≤ 0,10<em> I</em><sub>max</sub></td>
+<td>≤ 25 A</td>
+<td>≤ 0,10A<em> I</em><sub>max</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>I</em>
 <sub>max</sub>
 </td>
-<td class="cuerpo_tabla_centro">≤ 80 A</td>
-<td class="cuerpo_tabla_centro">&gt; 80 A</td>
-<td class="cuerpo_tabla_centro">≤ 500 A</td>
-<td class="cuerpo_tabla_centro">&gt; 500 A</td>
+<td>≤ 80 A</td>
+<td>&gt; 80 A</td>
+<td>≤ 500 A</td>
+<td>&gt; 500 A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Factor de potencia <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq" colspan="5">≥ 0.9.</td>
+<td>Factor de potencia <sup>(1)</sup>.</td>
+<td colspan="5">≥ 0.9.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temperatura.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq">Desde el límite inferior hasta el límite superior de temperatura especificado por el fabricante.</p>
-<p class="cuerpo_tabla_izq">El fabricante especificará el límite inferior de temperatura a partir de los valores:</p>
-<p class="cuerpo_tabla_izq">– 55 °C, -40 °C, -25 °C, -10 °C, +5 °C.</p>
-<p class="cuerpo_tabla_izq">El fabricante especificará el límite superior de temperatura a partir de los valores:</p>
-<p class="cuerpo_tabla_izq">+30 °C, +40 °C, +55 °C, +70 °C, +85 °C.</p>
-<p class="cuerpo_tabla_izq">Los limites inferiores y superiores se pueden especificar en valores intermedios a estos puntos.</p>
+<td>Temperatura.</td>
+<td colspan="5">
+<p>Desde el límite inferior hasta el límite superior de temperatura especificado por el fabricante.</p>
+<p>El fabricante especificará el límite inferior de temperatura a partir de los valores:</p>
+<p>– 55 °C, -40 °C, -25 °C, -10 °C, +5 °C.</p>
+<p>El fabricante especificará el límite superior de temperatura a partir de los valores:</p>
+<p>+30 °C, +40 °C, +55 °C, +70 °C, +85 °C.</p>
+<p>Los limites inferiores y superiores se pueden especificar en valores intermedios a estos puntos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Humedad y agua.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq">Con respecto a la humedad, el fabricante especificará la clase de entorno para la cual la estación de carga está destinada:</p>
-<p class="cuerpo_tabla_izq">H1: lugares cerrados donde las estaciones de carga no están sujetos a agua condensada, precipitaciones o formaciones de hielo;</p>
-<p class="cuerpo_tabla_izq">H2: lugares cerrados donde la estación de carga puede estar sujeto a agua condensada, a agua de fuentes distintas de la lluvia y de formaciones de hielo;</p>
-<p class="cuerpo_tabla_izq">H3: lugares abiertos con condiciones climáticas medias.</p>
+<td>Humedad y agua.</td>
+<td colspan="5">
+<p>Con respecto a la humedad, el fabricante especificará la clase de entorno para la cual la estación de carga está destinada:</p>
+<p>H1: lugares cerrados donde las estaciones de carga no están sujetos a agua condensada, precipitaciones o formaciones de hielo;</p>
+<p>H2: lugares cerrados donde la estación de carga puede estar sujeto a agua condensada, a agua de fuentes distintas de la lluvia y de formaciones de hielo;</p>
+<p>H3: lugares abiertos con condiciones climáticas medias.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Armónicos <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq" colspan="5">Estación de carga en AC: debe funcionar correctamente cuando la distorsión de la tensión de suministro sea inferior a 10 % y la distorsión de la intensidad de carga sea inferior al 3 % en todos los índices de armónicos.</td>
+<td>Armónicos <sup>(1)</sup>.</td>
+<td colspan="5">Estación de carga en AC: debe funcionar correctamente cuando la distorsión de la tensión de suministro sea inferior a 10 % y la distorsión de la intensidad de carga sea inferior al 3 % en todos los índices de armónicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rizado <sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq">Estación de carga en DC: El rizado producido en la salida de la estación de carga deberán cumplir con la norma correspondiente UNE-EN 61851-23:2015.</p>
-<p class="cuerpo_tabla_izq">La estación solo debe medir energía a frecuencias hasta 2 kHz.</p>
+<td>Rizado <sup>(2)</sup>.</td>
+<td colspan="5">
+<p>Estación de carga en DC: El rizado producido en la salida de la estación de carga deberán cumplir con la norma correspondiente UNE-EN 61851-23:2015.</p>
+<p>La estación solo debe medir energía a frecuencias hasta 2 kHz.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carga equilibrada <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq" colspan="5">Para una estación de carga polifásica, funcionará correctamente con cualquier combinación de fases habilitada.</td>
+<td>Carga equilibrada <sup>(1)</sup>.</td>
+<td colspan="5">Para una estación de carga polifásica, funcionará correctamente con cualquier combinación de fases habilitada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MCT <sup>(3)</sup>.</td>
-<td class="cuerpo_tabla_izq" colspan="5">
-<p class="cuerpo_tabla_izq">Estación de carga en AC: No será mayor de 0,1 kWh.</p>
-<p class="cuerpo_tabla_izq">Estación de carga en DC: No será mayor de 1,0 kWh.</p>
+<td>MCT <sup>(3)</sup>.</td>
+<td colspan="5">
+<p>Estación de carga en AC: No será mayor de 0,1 kWh.</p>
+<p>Estación de carga en DC: No será mayor de 1,0 kWh.</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">(1) Solo aplica a estaciones en AC.</p>
-<p class="cita">(2) Solo aplica a&gt; estaciones en DC.</p>
-<p class="cita">(3) Si no se indica un MCT se asume el valor máximo.</p>
+<p>(1) Solo aplica a estaciones en AC.</p>
+<p>(2) Solo aplica a&gt; estaciones en DC.</p>
+<p>(3) Si no se indica un MCT se asume el valor máximo.</p>
 </td>
 </tr>
 </tfoot>
@@ -7605,51 +7460,44 @@ Un solo registrador para estaciones de flujo de energía positivo: Para aquellas
 
 El error intrínseco estará dentro de los errores máximos permitidos de base establecidos en la tabla 2 para los rangos de intensidad de corriente especificados cuando la energía es, al menos, MCT y en condiciones de referencia:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 2. Clases de Exactitud</p>
+<p>Tabla 2. Clases de Exactitud</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Magnitud</th>
-<th class="cabeza_tabla" colspan="3">Límites de error en tanto por ciento para índice de clase</th>
+<th colspan="2">Magnitud</th>
+<th colspan="3">Límites de error en tanto por ciento para índice de clase</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Intensidad de Corriente <em>I</em></th>
-<th class="cabeza_tabla">Factor de Potencia</th>
-<th class="cabeza_tabla">A (2 %)</th>
-<th class="cabeza_tabla">B (1 %)</th>
-<th class="cabeza_tabla">C (0.5 %)</th>
+<th>Intensidad de Corriente <em>I</em></th>
+<th>Factor de Potencia</th>
+<th>A (2 %)</th>
+<th>B (1 %)</th>
+<th>C (0.5 %)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>st</sub> ≤ <em>I</em> &lt; <em>I</em><sub>min</sub></td>
-<td class="cuerpo_tabla_centro">&gt; 0,9</td>
-<td class="cuerpo_tabla_centro">± 25</td>
-<td class="cuerpo_tabla_centro">± 15</td>
-<td class="cuerpo_tabla_centro">± 10</td>
+<td><em>I</em><sub>st</sub> ≤ <em>I</em> &lt; <em>I</em><sub>min</sub></td>
+<td>&gt; 0,9</td>
+<td>± 25</td>
+<td>± 15</td>
+<td>± 10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>min</sub> ≤ <em>I</em> &lt; <em>I</em><sub>tr</sub></td>
-<td class="cuerpo_tabla_centro">&gt; 0,9</td>
-<td class="cuerpo_tabla_centro">± 2,5</td>
-<td class="cuerpo_tabla_centro">± 1,5</td>
-<td class="cuerpo_tabla_centro">± 1,0</td>
+<td><em>I</em><sub>min</sub> ≤ <em>I</em> &lt; <em>I</em><sub>tr</sub></td>
+<td>&gt; 0,9</td>
+<td>± 2,5</td>
+<td>± 1,5</td>
+<td>± 1,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">&gt; 0,9</td>
-<td class="cuerpo_tabla_centro">± 2,0</td>
-<td class="cuerpo_tabla_centro">± 1,0</td>
-<td class="cuerpo_tabla_centro">± 0,5</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>&gt; 0,9</td>
+<td>± 2,0</td>
+<td>± 1,0</td>
+<td>± 0,5</td>
 </tr>
 </tbody>
 </table>
@@ -7674,195 +7522,168 @@ Dónde:
 
 Se tomarán los valores más grandes correspondientes a los errores adicionales en tanto por ciento debidos a la variación de las respectivas magnitudes de influencia dentro de sus rangos de funcionamiento especificados.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 3. Valores máximos permitidos del error compuesto para estaciones de carga en AC (EMP)</p>
+<p>Tabla 3. Valores máximos permitidos del error compuesto para estaciones de carga en AC (EMP)</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="4">Valor de la corriente</th>
-<th class="cabeza_tabla" rowspan="4">Factor de potencia</th>
-<th class="cabeza_tabla" colspan="12">Rango de temperatura de funcionamiento</th>
+<th rowspan="4">Valor de la corriente</th>
+<th rowspan="4">Factor de potencia</th>
+<th colspan="12">Rango de temperatura de funcionamiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">5 °C a 30 °C</th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">– 10 °C a 5 °C o</p>
-<p class="cabeza_tabla">30 °C a 40 °C</p>
+<th colspan="3">5 °C a 30 °C</th>
+<th colspan="3">
+<p>– 10 °C a 5 °C o</p>
+<p>30 °C a 40 °C</p>
 </th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">– 25 °C a -10 °C o</p>
-<p class="cabeza_tabla">40 °C a 55 °C</p>
+<th colspan="3">
+<p>– 25 °C a -10 °C o</p>
+<p>40 °C a 55 °C</p>
 </th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">– 40 °C a -25 °C o</p>
-<p class="cabeza_tabla">55 °C a 70 °C</p>
+<th colspan="3">
+<p>– 40 °C a -25 °C o</p>
+<p>55 °C a 70 °C</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="12">Índice de clase</th>
+<th colspan="12">Índice de clase</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="14">
+<td colspan="14">
 <em>Estación de carga monofásica; estación de carga polifásica con cargas equilibradas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>min</sub> ≤ <em>I</em> ≤ <em>I</em><sub>tr</sub></td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">±3,5</td>
-<td class="cuerpo_tabla_centro">±2,0</td>
-<td class="cuerpo_tabla_centro">±1,0</td>
-<td class="cuerpo_tabla_centro">±5,0</td>
-<td class="cuerpo_tabla_centro">±2,5</td>
-<td class="cuerpo_tabla_centro">±1,3</td>
-<td class="cuerpo_tabla_centro">±7,0</td>
-<td class="cuerpo_tabla_centro">±3,5</td>
-<td class="cuerpo_tabla_centro">±1,7</td>
-<td class="cuerpo_tabla_centro">±9,0</td>
-<td class="cuerpo_tabla_centro">±4,0</td>
-<td class="cuerpo_tabla_centro">±2,0</td>
+<td><em>I</em><sub>min</sub> ≤ <em>I</em> ≤ <em>I</em><sub>tr</sub></td>
+<td>1</td>
+<td>±3,5</td>
+<td>±2,0</td>
+<td>±1,0</td>
+<td>±5,0</td>
+<td>±2,5</td>
+<td>±1,3</td>
+<td>±7,0</td>
+<td>±3,5</td>
+<td>±1,7</td>
+<td>±9,0</td>
+<td>±4,0</td>
+<td>±2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">0,5 inductivo</p>
-<p class="cuerpo_tabla_centro">1</p>
-<p class="cuerpo_tabla_centro">0,8 capacitivo</p>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>
+<p>0,5 inductivo</p>
+<p>1</p>
+<p>0,8 capacitivo</p>
 </td>
-<td class="cuerpo_tabla_centro">±3,5</td>
-<td class="cuerpo_tabla_centro">±2,0</td>
-<td class="cuerpo_tabla_centro">±0,7</td>
-<td class="cuerpo_tabla_centro">±4,5</td>
-<td class="cuerpo_tabla_centro">±2,5</td>
-<td class="cuerpo_tabla_centro">±1,0</td>
-<td class="cuerpo_tabla_centro">±7,0</td>
-<td class="cuerpo_tabla_centro">±3,5</td>
-<td class="cuerpo_tabla_centro">±1,3</td>
-<td class="cuerpo_tabla_centro">±9,0</td>
-<td class="cuerpo_tabla_centro">±4,0</td>
-<td class="cuerpo_tabla_centro">±1,5</td>
+<td>±3,5</td>
+<td>±2,0</td>
+<td>±0,7</td>
+<td>±4,5</td>
+<td>±2,5</td>
+<td>±1,0</td>
+<td>±7,0</td>
+<td>±3,5</td>
+<td>±1,3</td>
+<td>±9,0</td>
+<td>±4,0</td>
+<td>±1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="14">
+<td colspan="14">
 <em>Estaciones de carga polifásicos sometidos a una sola carga monofásica, pero con tensiones polifásicas equilibradas en sus circuitos de tensión</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">0,5 inductivo</p>
-<p class="cuerpo_tabla_centro">1</p>
-<p class="cuerpo_tabla_centro">0,8 capacitivo</p>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>
+<p>0,5 inductivo</p>
+<p>1</p>
+<p>0,8 capacitivo</p>
 </td>
-<td class="cuerpo_tabla_centro">±4,0</td>
-<td class="cuerpo_tabla_centro">±2,5</td>
-<td class="cuerpo_tabla_centro">±1,0</td>
-<td class="cuerpo_tabla_centro">±5,0</td>
-<td class="cuerpo_tabla_centro">±3,0</td>
-<td class="cuerpo_tabla_centro">±1,3</td>
-<td class="cuerpo_tabla_centro">±7,0</td>
-<td class="cuerpo_tabla_centro">±4,0</td>
-<td class="cuerpo_tabla_centro">±1,7</td>
-<td class="cuerpo_tabla_centro">±9,0</td>
-<td class="cuerpo_tabla_centro">±4,5</td>
-<td class="cuerpo_tabla_centro">±2.0</td>
+<td>±4,0</td>
+<td>±2,5</td>
+<td>±1,0</td>
+<td>±5,0</td>
+<td>±3,0</td>
+<td>±1,3</td>
+<td>±7,0</td>
+<td>±4,0</td>
+<td>±1,7</td>
+<td>±9,0</td>
+<td>±4,5</td>
+<td>±2.0</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 4. Valores máximos permitidos del error compuesto para estaciones de carga en DC (EMP)</p>
+<p>Tabla 4. Valores máximos permitidos del error compuesto para estaciones de carga en DC (EMP)</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="4">Valor de la intensidad corriente</th>
-<th class="cabeza_tabla" colspan="8">Rango de temperatura de funcionamiento</th>
+<th rowspan="4">Valor de la intensidad corriente</th>
+<th colspan="8">Rango de temperatura de funcionamiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">5 °C a 30 °C</th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">– 10 °C a 5 °C o</p>
-<p class="cabeza_tabla">30 °C a 40 °C</p>
+<th colspan="2">5 °C a 30 °C</th>
+<th colspan="2">
+<p>– 10 °C a 5 °C o</p>
+<p>30 °C a 40 °C</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">– 25 °C a -10 °C o</p>
-<p class="cabeza_tabla">40 °C a 55 °C</p>
+<th colspan="2">
+<p>– 25 °C a -10 °C o</p>
+<p>40 °C a 55 °C</p>
 </th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">– 40 °C a -25 °C o</p>
-<p class="cabeza_tabla">55 °C a 70 °C</p>
+<th colspan="2">
+<p>– 40 °C a -25 °C o</p>
+<p>55 °C a 70 °C</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="8">Índice de clase</th>
+<th colspan="8">Índice de clase</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">0,5</th>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">0,5</th>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">0,5</th>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">0,5</th>
+<th>1</th>
+<th>0,5</th>
+<th>1</th>
+<th>0,5</th>
+<th>1</th>
+<th>0,5</th>
+<th>1</th>
+<th>0,5</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0,25 Imax ≤ I ≤ Imax</td>
-<td class="cuerpo_tabla_centro">±2,0</td>
-<td class="cuerpo_tabla_centro">±0,7</td>
-<td class="cuerpo_tabla_centro">±2,5</td>
-<td class="cuerpo_tabla_centro">±1,0</td>
-<td class="cuerpo_tabla_centro">±3,5</td>
-<td class="cuerpo_tabla_centro">±1,3</td>
-<td class="cuerpo_tabla_centro">±4,0</td>
-<td class="cuerpo_tabla_centro">±1,5</td>
+<td>0,25 Imax ≤ I ≤ Imax</td>
+<td>±2,0</td>
+<td>±0,7</td>
+<td>±2,5</td>
+<td>±1,0</td>
+<td>±3,5</td>
+<td>±1,3</td>
+<td>±4,0</td>
+<td>±1,5</td>
 </tr>
 </tbody>
 </table>
@@ -7871,39 +7692,33 @@ Se tomarán los valores más grandes correspondientes a los errores adicionales 
 
 El coeficiente de temperatura de la estación de carga deberá cumplir con los requisitos de la tabla 5 siguiente cuando la estación de carga funciona en condiciones de referencia.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 5. Coeficiente de temperatura</p>
+<p>Tabla 5. Coeficiente de temperatura</p>
 </caption>
-<colgroup>
-<col width="61%">
-<col width="13%">
-<col width="13%">
-<col width="13%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Magnitud de influencia</th>
-<th class="cabeza_tabla" colspan="3">Límites del coeficiente de temperatura en tanto por ciento (%/K) para índice de clase</th>
+<th rowspan="2">Magnitud de influencia</th>
+<th colspan="3">Límites del coeficiente de temperatura en tanto por ciento (%/K) para índice de clase</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">A (2 %)</th>
-<th class="cabeza_tabla">B (1 %)</th>
-<th class="cabeza_tabla">C (0.5 %)</th>
+<th>A (2 %)</th>
+<th>B (1 %)</th>
+<th>C (0.5 %)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Coeficiente de temperatura (c) en un intervalo de un rango de temperatura que no es menor de 15 K ni mayor de 23 K, para una intensidad de corriente <em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max.</sub></td>
-<td class="cuerpo_tabla_centro">±0,1</td>
-<td class="cuerpo_tabla_centro">±0,05</td>
-<td class="cuerpo_tabla_centro">±0,03</td>
+<td>Coeficiente de temperatura (c) en un intervalo de un rango de temperatura que no es menor de 15 K ni mayor de 23 K, para una intensidad de corriente <em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max.</sub></td>
+<td>±0,1</td>
+<td>±0,05</td>
+<td>±0,03</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">La comprobación de requisitos se puede limitar solo a los extremos del intervalo cuando la estación de carga contiene un contador con evaluación de la conformidad, cuyas especificaciones de evaluación de tipo sean conformes con las de este anexo.</p>
+<p>La comprobación de requisitos se puede limitar solo a los extremos del intervalo cuando la estación de carga contiene un contador con evaluación de la conformidad, cuyas especificaciones de evaluación de tipo sean conformes con las de este anexo.</p>
 </td>
 </tr>
 </tfoot>
@@ -7911,177 +7726,169 @@ El coeficiente de temperatura de la estación de carga deberá cumplir con los r
 
 Cuando la intensidad de carga se mantiene constante en un punto dentro del rango de funcionamiento nominal, con la estación de carga funcionando en condiciones de referencia, y cuando una única magnitud de influencia varía de su valor en condiciones de referencia a sus valores extremos definidos en la tabla 6 siguiente, la variación del error será tal que el error adicional en tanto por ciento no debe exceder los límites especificados en dicha tabla. La estación de carga continuará funcionando después de la finalización de cada una de estos ensayos.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 6. Máximo error adicional permitido debido a las magnitudes de influencia</p>
+<p>Tabla 6. Máximo error adicional permitido debido a las magnitudes de influencia</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Magnitud de Influencia</th>
-<th class="cabeza_tabla" rowspan="2">Valor</th>
-<th class="cabeza_tabla" colspan="4">Máximo error adicional permitido (%) para estaciones de carga de clase</th>
+<th rowspan="2">Magnitud de Influencia</th>
+<th rowspan="2">Valor</th>
+<th colspan="4">Máximo error adicional permitido (%) para estaciones de carga de clase</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Intensidad de corriente</th>
-<th class="cabeza_tabla">A (2 %)</th>
-<th class="cabeza_tabla">B (1 %)</th>
-<th class="cabeza_tabla">C (0,5 %)</th>
+<th>Intensidad de corriente</th>
+<th>A (2 %)</th>
+<th>B (1 %)</th>
+<th>C (0,5 %)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Calentamiento propio.</td>
-<td class="cuerpo_tabla_centro">Manteniendo la intensidad corriente a <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">
+<td>Calentamiento propio.</td>
+<td>Manteniendo la intensidad corriente a <em>I</em><sub>max</sub></td>
+<td>
 <em>I</em>
 <sub>max</sub>
 </td>
-<td class="cuerpo_tabla_centro">±1</td>
-<td class="cuerpo_tabla_centro">±0,5</td>
-<td class="cuerpo_tabla_centro">±0,25</td>
+<td>±1</td>
+<td>±0,5</td>
+<td>±0,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Variación de la tensión en AC.</p>
-<p class="cuerpo_tabla_izq">Estación de carga en AC.</p>
-<p class="cuerpo_tabla_izq">†</p>
+<td>
+<p>Variación de la tensión en AC.</p>
+<p>Estación de carga en AC.</p>
+<p>†</p>
 </td>
-<td class="cuerpo_tabla_centro">0,9 <em>U</em><sub>nom_min</sub> &lt;<em> U</em> &lt; 1,1 <em>U</em><sub>nom_max</sub></td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±1,0</td>
-<td class="cuerpo_tabla_centro">±0,7</td>
-<td class="cuerpo_tabla_centro">±0,2</td>
+<td>0,9 <em>U</em><sub>nom_min</sub> &lt;<em> U</em> &lt; 1,1 <em>U</em><sub>nom_max</sub></td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±1,0</td>
+<td>±0,7</td>
+<td>±0,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Variación de la frecuencia de red.</p>
-<p class="cuerpo_tabla_izq">Estación de carga en AC.</p>
-<p class="cuerpo_tabla_izq">†</p>
+<td>
+<p>Variación de la frecuencia de red.</p>
+<p>Estación de carga en AC.</p>
+<p>†</p>
 </td>
-<td class="cuerpo_tabla_centro">Cada <em>f</em><sub>nom </sub>± 2 %</td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±0,8</td>
-<td class="cuerpo_tabla_centro">±0,5</td>
-<td class="cuerpo_tabla_centro">±0,2</td>
+<td>Cada <em>f</em><sub>nom </sub>± 2 %</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±0,8</td>
+<td>±0,5</td>
+<td>±0,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Armónicos en los circuitos de intensidad y de tensión <sup>(1)</sup>.</p>
-<p class="cuerpo_tabla_izq">Estación de carga en AC.</p>
+<td>
+<p>Armónicos en los circuitos de intensidad y de tensión <sup>(1)</sup>.</p>
+<p>Estación de carga en AC.</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">d &lt; 5 % I</p>
-<p class="cuerpo_tabla_centro">d &lt; 10 % U</p>
+<td>
+<p>d &lt; 5 % I</p>
+<p>d &lt; 10 % U</p>
 </td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±1,0</td>
-<td class="cuerpo_tabla_centro">±0,6</td>
-<td class="cuerpo_tabla_centro">±0,3</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±1,0</td>
+<td>±0,6</td>
+<td>±0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Orden de fases inversa para estaciones de carga trifásicas.</p>
-<p class="cuerpo_tabla_izq">†</p>
-<p class="cuerpo_tabla_izq">‡</p>
+<td>
+<p>Orden de fases inversa para estaciones de carga trifásicas.</p>
+<p>†</p>
+<p>‡</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Dos fases cualesquiera</p>
-<p class="cuerpo_tabla_centro">intercambiadas</p>
+<td>
+<p>Dos fases cualesquiera</p>
+<p>intercambiadas</p>
 </td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±1,5</td>
-<td class="cuerpo_tabla_centro">±1,5</td>
-<td class="cuerpo_tabla_centro">±0,1</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±1,5</td>
+<td>±1,5</td>
+<td>±0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Perturbaciones conducidas, baja frecuencia<sup>(5)</sup>.</p>
-<p class="cuerpo_tabla_izq">‡</p>
+<td>
+<p>Perturbaciones conducidas, baja frecuencia<sup>(5)</sup>.</p>
+<p>‡</p>
 </td>
-<td class="cuerpo_tabla_centro">2 kHz-150 kHz</td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±3,0</td>
-<td class="cuerpo_tabla_centro">±2,0</td>
-<td class="cuerpo_tabla_centro">±2,0</td>
+<td>2 kHz-150 kHz</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±3,0</td>
+<td>±2,0</td>
+<td>±2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inducción magnética continua de origen externo <sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">200 mT</p>
-<p class="cuerpo_tabla_centro">a 30 mm de la superficie del núcleo <sup>(2)</sup></p>
+<td>Inducción magnética continua de origen externo <sup>(2)</sup>.</td>
+<td>
+<p>200 mT</p>
+<p>a 30 mm de la superficie del núcleo <sup>(2)</sup></p>
 </td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±3</td>
-<td class="cuerpo_tabla_centro">±1,5</td>
-<td class="cuerpo_tabla_centro">±0,75</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±3</td>
+<td>±1,5</td>
+<td>±0,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Inducción magnética de origen externo (AC, frecuencia de la potencia).</p>
-<p class="cuerpo_tabla_izq">†</p>
+<td>
+<p>Inducción magnética de origen externo (AC, frecuencia de la potencia).</p>
+<p>†</p>
 </td>
-<td class="cuerpo_tabla_centro">400 A/m</td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±2,5</td>
-<td class="cuerpo_tabla_centro">±1,3</td>
-<td class="cuerpo_tabla_centro">±0,5</td>
+<td>400 A/m</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±2,5</td>
+<td>±1,3</td>
+<td>±0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campos electromagnéticos de RF radiados.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro"><em>f</em> = 80 MHz a 6000 MHz,</p>
-<p class="cuerpo_tabla_centro">Intensidad de campo</p>
-<p class="cuerpo_tabla_centro">≤ 10V/m</p>
+<td>Campos electromagnéticos de RF radiados.</td>
+<td>
+<p><em>f</em> = 80 MHz a 6000 MHz,</p>
+<p>Intensidad de campo</p>
+<p>≤ 10V/m</p>
 </td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±3</td>
-<td class="cuerpo_tabla_centro">±2</td>
-<td class="cuerpo_tabla_centro">±1</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±3</td>
+<td>±2</td>
+<td>±1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Perturbaciones conducidas inducidas por campos de RF<sup> (3)</sup>.</p>
-<p class="cuerpo_tabla_izq">‡</p>
+<td>
+<p>Perturbaciones conducidas inducidas por campos de RF<sup> (3)</sup>.</p>
+<p>‡</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro"><em>f</em> = 0,15 MHz to 80 MHz,</p>
-<p class="cuerpo_tabla_centro">Amplitud ≤ 10 V</p>
+<td>
+<p><em>f</em> = 0,15 MHz to 80 MHz,</p>
+<p>Amplitud ≤ 10 V</p>
 </td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±3</td>
-<td class="cuerpo_tabla_centro">±2</td>
-<td class="cuerpo_tabla_centro">±1</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±3</td>
+<td>±2</td>
+<td>±1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento de dispositivos auxiliares <sup>(4)</sup>.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Dispositivos auxiliares funcionando con</p>
-<p class="cuerpo_tabla_centro"><em>I</em> = <em>I</em><sub>tr</sub> e <em>I</em><sub>max</sub></p>
+<td>Funcionamiento de dispositivos auxiliares <sup>(4)</sup>.</td>
+<td>
+<p>Dispositivos auxiliares funcionando con</p>
+<p><em>I</em> = <em>I</em><sub>tr</sub> e <em>I</em><sub>max</sub></p>
 </td>
-<td class="cuerpo_tabla_centro"><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
-<td class="cuerpo_tabla_centro">±0,7</td>
-<td class="cuerpo_tabla_centro">±0,3</td>
-<td class="cuerpo_tabla_centro">±0,15</td>
+<td><em>I</em><sub>tr</sub> ≤ <em>I</em> ≤ <em>I</em><sub>max</sub></td>
+<td>±0,7</td>
+<td>±0,3</td>
+<td>±0,15</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">† No es necesario la comprobación de este requisito si la estación de carga contiene un contador con evaluación de la conformidad, cuyas especificaciones de evaluación de tipo sean conformes con las de este anexo.</p>
-<p class="cita">‡ Este requisito no se consideran relevante para estaciones de carga en DC, ya que la influencia será filtrada por el proceso regulado de conversión de AC a DC.</p>
-<p class="cita">(1) Siempre que el valor eficaz de la intensidad no sea superior a <em>I</em><sub>max</sub> y el valor pico de la intensidad no sea superior a 1,41·<em> I</em><sub>max</sub>.</p>
-<p class="cita">(2) Los fabricantes pueden incluir adicionalmente una alarma al detectar una inducción magnética continua (DC) de más de 200 mT.</p>
-<p class="cita">(3) Perturbaciones conducidas, directas o indirectas, inducidas por campos de radiofrecuencia.</p>
-<p class="cita">(4) Solo se aplica a aquellos dispositivos auxiliares que podrían usarse (pero no son necesarios) durante una sesión de carga.</p>
-<p class="cita">(5) Para la estación de carga en DC, la interferencia conducida en este rango de frecuencias generalmente es generada por la fuente de alimentación de la propia estación de carga.</p>
+<p>† No es necesario la comprobación de este requisito si la estación de carga contiene un contador con evaluación de la conformidad, cuyas especificaciones de evaluación de tipo sean conformes con las de este anexo.</p>
+<p>‡ Este requisito no se consideran relevante para estaciones de carga en DC, ya que la influencia será filtrada por el proceso regulado de conversión de AC a DC.</p>
+<p>(1) Siempre que el valor eficaz de la intensidad no sea superior a <em>I</em><sub>max</sub> y el valor pico de la intensidad no sea superior a 1,41·<em> I</em><sub>max</sub>.</p>
+<p>(2) Los fabricantes pueden incluir adicionalmente una alarma al detectar una inducción magnética continua (DC) de más de 200 mT.</p>
+<p>(3) Perturbaciones conducidas, directas o indirectas, inducidas por campos de radiofrecuencia.</p>
+<p>(4) Solo se aplica a aquellos dispositivos auxiliares que podrían usarse (pero no son necesarios) durante una sesión de carga.</p>
+<p>(5) Para la estación de carga en DC, la interferencia conducida en este rango de frecuencias generalmente es generada por la fuente de alimentación de la propia estación de carga.</p>
 </td>
 </tr>
 </tfoot>
@@ -8097,88 +7904,83 @@ Si se utiliza la estación de carga bajo las condiciones descritas en las tablas
 
 Las perturbaciones eléctricas se definen en la tabla 7. Las perturbaciones eléctricas no producirán un cambio de error superior a 1,0 EBMP.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 7. Perturbaciones eléctricas</p>
+<p>Tabla 7. Perturbaciones eléctricas</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Perturbación</th>
-<th class="cabeza_tabla">Nivel</th>
-<th class="cabeza_tabla">Efectos permitidos</th>
+<th>Perturbación</th>
+<th>Nivel</th>
+<th>Efectos permitidos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Descargas electrostáticas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">6 kV descarga por contacto;</p>
-<p class="cuerpo_tabla_izq">8 kV descarga en el aire.</p>
+<td>Descargas electrostáticas.</td>
+<td>
+<p>6 kV descarga por contacto;</p>
+<p>8 kV descarga en el aire.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. No se producirán daños.</td>
+<td>Sin fallo significativo. No se producirán daños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Transitorios rápidos.</p>
-<p class="cuerpo_tabla_izq">‡</p>
+<td>
+<p>Transitorios rápidos.</p>
+<p>‡</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tensión de ensayo:</p>
-<p class="cuerpo_tabla_izq">– en los circuitos de tensión y de intensidad: 2 kV;</p>
-<p class="cuerpo_tabla_izq">– en los circuitos auxiliares: 1,0 kV.</p>
+<td>
+<p>Tensión de ensayo:</p>
+<p>– en los circuitos de tensión y de intensidad: 2 kV;</p>
+<p>– en los circuitos auxiliares: 1,0 kV.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. No se producirán daños.</td>
+<td>Sin fallo significativo. No se producirán daños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Huecos de tensión.</p>
-<p class="cuerpo_tabla_izq">‡</p>
+<td>
+<p>Huecos de tensión.</p>
+<p>‡</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Ensayo a) 30 %, 0,5 ciclos.</p>
-<p class="cuerpo_tabla_izq">Ensayo b) 60 %, 1 ciclo.</p>
-<p class="cuerpo_tabla_izq">Ensayo c) 60 %, 25 ciclos.</p>
+<td>
+<p>Ensayo a) 30 %, 0,5 ciclos.</p>
+<p>Ensayo b) 60 %, 1 ciclo.</p>
+<p>Ensayo c) 60 %, 25 ciclos.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo.</td>
+<td>Sin fallo significativo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Interrupciones de tensión.</p>
-<p class="cuerpo_tabla_izq">‡</p>
+<td>
+<p>Interrupciones de tensión.</p>
+<p>‡</p>
 </td>
-<td class="cuerpo_tabla_izq">0 %, 250 ciclos.</td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo.</td>
+<td>0 %, 250 ciclos.</td>
+<td>Sin fallo significativo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Inmunidad a las ondas de choque (alimentación AC).</p>
-<p class="cuerpo_tabla_izq">†‡</p>
+<td>
+<p>Inmunidad a las ondas de choque (alimentación AC).</p>
+<p>†‡</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Circuitos de tensión: 2 kV fase con fase, 4 kV fase con tierra;</p>
-<p class="cuerpo_tabla_izq">Circuitos auxiliares: 1kV fase con fase, 2kV fase con tierra.</p>
+<td>
+<p>Circuitos de tensión: 2 kV fase con fase, 4 kV fase con tierra;</p>
+<p>Circuitos auxiliares: 1kV fase con fase, 2kV fase con tierra.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. No se producirán daños.</td>
+<td>Sin fallo significativo. No se producirán daños.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Sobreintensidades de corta duración.</p>
-<p class="cuerpo_tabla_izq">†‡</p>
+<td>
+<p>Sobreintensidades de corta duración.</p>
+<p>†‡</p>
 </td>
-<td class="cuerpo_tabla_izq">5 I<sub>max</sub>, con un valor límite de 3 kA.</td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. No se producirán daños.</td>
+<td>5 I<sub>max</sub>, con un valor límite de 3 kA.</td>
+<td>Sin fallo significativo. No se producirán daños.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="parrafo">† No es necesario la comprobación de este requisito si la estación de carga contiene un contador con evaluación de la conformidad, cuyas especificaciones de evaluación de tipo sean conformes con las de este anexo.</p>
-<p class="parrafo">‡ Este requisito no se consideran relevante para estaciones de carga en DC, ya que la influencia será filtrada por el proceso regulado de conversión de AC a DC.</p>
+<p>† No es necesario la comprobación de este requisito si la estación de carga contiene un contador con evaluación de la conformidad, cuyas especificaciones de evaluación de tipo sean conformes con las de este anexo.</p>
+<p>‡ Este requisito no se consideran relevante para estaciones de carga en DC, ya que la influencia será filtrada por el proceso regulado de conversión de AC a DC.</p>
 </td>
 </tr>
 </tfoot>
@@ -8188,64 +7990,59 @@ Las perturbaciones eléctricas se definen en la tabla 7. Las perturbaciones elé
 
 Las perturbaciones medioambientales se definen en la tabla 8. Las perturbaciones medioambientales no producirán un cambio de error superior a 1,0 EBMP.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 8. Perturbaciones medioambientales</p>
+<p>Tabla 8. Perturbaciones medioambientales</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Perturbación</th>
-<th class="cabeza_tabla">Nivel</th>
-<th class="cabeza_tabla">Efectos permitidos</th>
+<th>Perturbación</th>
+<th>Nivel</th>
+<th>Efectos permitidos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Protección contra la radiación solar.</td>
-<td class="cuerpo_tabla_izq">0,76 W·m<sup>2</sup>·nm<sup>-1</sup> a 340 nm, repitiendo en ciclos durante 66 días.</td>
-<td class="cuerpo_tabla_izq">Sin alteración en la apariencia o deterioro en la funcionalidad, propiedades metrológicas y sellado.</td>
+<td>Protección contra la radiación solar.</td>
+<td>0,76 W·m<sup>2</sup>·nm<sup>-1</sup> a 340 nm, repitiendo en ciclos durante 66 días.</td>
+<td>Sin alteración en la apariencia o deterioro en la funcionalidad, propiedades metrológicas y sellado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protección contra penetración de polvo.</td>
-<td class="cuerpo_tabla_izq">IP 5X, recinto de categoría 2</td>
-<td class="cuerpo_tabla_izq">Sin interferencia con el funcionamiento correcto o deterioro de la seguridad, incluido el seguimiento a lo largo de las distancias de fuga.</td>
+<td>Protección contra penetración de polvo.</td>
+<td>IP 5X, recinto de categoría 2</td>
+<td>Sin interferencia con el funcionamiento correcto o deterioro de la seguridad, incluido el seguimiento a lo largo de las distancias de fuga.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calor seco.</td>
-<td class="cuerpo_tabla_izq">Una temperatura estándar superior al límite superior de temperatura especificado, 2 h</td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo.</td>
+<td>Calor seco.</td>
+<td>Una temperatura estándar superior al límite superior de temperatura especificado, 2 h</td>
+<td>Sin fallo significativo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frío.</td>
-<td class="cuerpo_tabla_izq">Una temperatura estándar inferior al límite inferior de temperaturas especificado, 2 h</td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo.</td>
+<td>Frío.</td>
+<td>Una temperatura estándar inferior al límite inferior de temperaturas especificado, 2 h</td>
+<td>Sin fallo significativo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calor húmedo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">H1: 30 °C, 85 %;</p>
-<p class="cuerpo_tabla_izq">H2: Ciclos entre 25 °C, 95 % hasta 40 °C, 93 %;</p>
-<p class="cuerpo_tabla_izq">H3: Ciclos entre 25 °C, 95 % hasta 55 °C, 93 %.</p>
+<td>Calor húmedo.</td>
+<td>
+<p>H1: 30 °C, 85 %;</p>
+<p>H2: Ciclos entre 25 °C, 95 % hasta 40 °C, 93 %;</p>
+<p>H3: Ciclos entre 25 °C, 95 % hasta 55 °C, 93 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. No hay evidencia de ningún daño mecánico o corrosión</td>
+<td>Sin fallo significativo. No hay evidencia de ningún daño mecánico o corrosión</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Agua.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">H3 solo, 0,07 L/min (por boquilla), 0 ° y 180 °, 10 min.</p>
+<td>Agua.</td>
+<td>
+<p>H3 solo, 0,07 L/min (por boquilla), 0 ° y 180 °, 10 min.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. No hay evidencia de ningún daño mecánico o corrosión</td>
+<td>Sin fallo significativo. No hay evidencia de ningún daño mecánico o corrosión</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">Nota: Para una estación de carga compleja en DC estas pruebas deben aplicarse solo a la consola.</p>
+<p>Nota: Para una estación de carga compleja en DC estas pruebas deben aplicarse solo a la consola.</p>
 </td>
 </tr>
 </tfoot>
@@ -8255,41 +8052,36 @@ Las perturbaciones medioambientales se definen en la tabla 8. Las perturbaciones
 
 Las perturbaciones mecánicas pretenden simular las condiciones encontradas durante el transporte. Cuando una estación de carga es demasiado grande para realizar la prueba asociada razonablemente y a un costo razonable, puede eliminarse el requisito correspondiente. Estos requisitos también pueden eliminarse de la aprobación de tipo si se realizan pruebas *in situ* antes de poner en servicio una estación de carga. Después de las perturbaciones la estación de carga cumplirá con los Errores base máximos permitidos en la energía transferida establecidos en el apartado 2.5 de este apéndice.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 9. Perturbaciones mecánicas</p>
+<p>Tabla 9. Perturbaciones mecánicas</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Perturbación</th>
-<th class="cabeza_tabla">Nivel</th>
-<th class="cabeza_tabla">Efectos permitidos</th>
+<th>Perturbación</th>
+<th>Nivel</th>
+<th>Efectos permitidos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Vibración</td>
-<td class="cuerpo_tabla_izq">Vibración en los 3 ejes, perpendiculares entre sí.</td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. El funcionamiento de la estación de carga no se verá afectado después de la perturbación</td>
+<td>Vibración</td>
+<td>Vibración en los 3 ejes, perpendiculares entre sí.</td>
+<td>Sin fallo significativo. El funcionamiento de la estación de carga no se verá afectado después de la perturbación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Choque</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Forma de pulso: semisinusoidal, Aceleración de pico: 30 <em>g</em><sub>n</sub>.</p>
-<p class="cuerpo_tabla_izq">Duración del impulso: 18 ms.</p>
+<td>Choque</td>
+<td>
+<p>Forma de pulso: semisinusoidal, Aceleración de pico: 30 <em>g</em><sub>n</sub>.</p>
+<p>Duración del impulso: 18 ms.</p>
 </td>
-<td class="cuerpo_tabla_izq">Sin fallo significativo. El funcionamiento de la estación de carga no se verá afectado después de la perturbación</td>
+<td>Sin fallo significativo. El funcionamiento de la estación de carga no se verá afectado después de la perturbación</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">Nota: Estos ensayos deben aplicarse a una estación de carga unitaria y a la consola una estación de carga compleja en DC.</p>
+<p>Nota: Estos ensayos deben aplicarse a una estación de carga unitaria y a la consola una estación de carga compleja en DC.</p>
 </td>
 </tr>
 </tfoot>
@@ -8499,80 +8291,75 @@ n) Para carga en DC, el tipo de sistema de control y si estará conectada a red 
 
 Los ensayos se realizarán en los valores de referencia indicados en la tabla 10, salvo la magnitud de influencia que se quiere evaluar. Las condiciones de carga durante la evaluación deben mantenerse dentro de los límites de tolerancia indicados en la tabla11.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 10. Condiciones de referencia para ensayos de examen de tipo</p>
+<p>Tabla 10. Condiciones de referencia para ensayos de examen de tipo</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Magnitud</th>
-<th class="cabeza_tabla">Condiciones de referencia</th>
-<th class="cabeza_tabla">Tolerancias</th>
+<th>Magnitud</th>
+<th>Condiciones de referencia</th>
+<th>Tolerancias</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Tensión en AC.</td>
-<td class="cuerpo_tabla_centro">Mayor valor de<em> U</em><sub>nom</sub></td>
-<td class="cuerpo_tabla_centro">± 1 %</td>
+<td>Tensión en AC.</td>
+<td>Mayor valor de<em> U</em><sub>nom</sub></td>
+<td>± 1 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tensión en DC.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">375 V</p>
-<p class="cuerpo_tabla_centro">750 V</p>
+<td>Tensión en DC.</td>
+<td>
+<p>375 V</p>
+<p>750 V</p>
 </td>
-<td class="cuerpo_tabla_centro">± 50 V</td>
+<td>± 50 V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temperatura ambiente.</td>
-<td class="cuerpo_tabla_centro">23 °C <sup>(1)</sup></td>
-<td class="cuerpo_tabla_centro">± 2 °C</td>
+<td>Temperatura ambiente.</td>
+<td>23 °C <sup>(1)</sup></td>
+<td>± 2 °C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Frecuencia en AC.</td>
-<td class="cuerpo_tabla_centro">
+<td>Frecuencia en AC.</td>
+<td>
 <em>f</em>
 <sub>nom</sub>
 </td>
-<td class="cuerpo_tabla_centro">± 0,3 %</td>
+<td>± 0,3 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Forma de onda (<em>U</em> e <em>I</em>) en AC.</td>
-<td class="cuerpo_tabla_centro">Sinusoidal</td>
-<td class="cuerpo_tabla_centro"><em>d </em>≤ 2 %</td>
+<td>Forma de onda (<em>U</em> e <em>I</em>) en AC.</td>
+<td>Sinusoidal</td>
+<td><em>d </em>≤ 2 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inducción magnética de origen externo a la frecuencia de referencia.</td>
-<td class="cuerpo_tabla_centro">0 T</td>
-<td class="cuerpo_tabla_centro"><em>B </em>≤ 0,05 mT</td>
+<td>Inducción magnética de origen externo a la frecuencia de referencia.</td>
+<td>0 T</td>
+<td><em>B </em>≤ 0,05 mT</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campos electromagnéticos de RF de 30 kHz a 6 GHz.</td>
-<td class="cuerpo_tabla_centro">0 V/m</td>
-<td class="cuerpo_tabla_centro">&lt; 1 V/m</td>
+<td>Campos electromagnéticos de RF de 30 kHz a 6 GHz.</td>
+<td>0 V/m</td>
+<td>&lt; 1 V/m</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Posición de funcionamiento para instrumentos sensibles a la posición.</td>
-<td class="cuerpo_tabla_centro">Montaje según lo indicado por el fabricante</td>
-<td class="cuerpo_tabla_centro">± 3,0.º</td>
+<td>Posición de funcionamiento para instrumentos sensibles a la posición.</td>
+<td>Montaje según lo indicado por el fabricante</td>
+<td>± 3,0.º</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carga equilibrada (estación de carga trifásica en AC)<sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">La misma intensidad de corriente en todas las fases</td>
-<td class="cuerpo_tabla_centro">± 2 %</td>
+<td>Carga equilibrada (estación de carga trifásica en AC)<sup>(2).</sup></td>
+<td>La misma intensidad de corriente en todas las fases</td>
+<td>± 2 %</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(1) Los ensayos podrán realizarse a otras temperaturas si los resultados se corrigen a la temperatura de referencia aplicando el coeficiente de temperatura establecido en los ensayos de tipo y siempre que se realice un análisis de incertidumbre adecuado.</p>
-<p class="cita">(2) El requisito se aplica tanto a fase – fase como a fase– neutro para estaciones de carga polifásicas.</p>
+<p>(1) Los ensayos podrán realizarse a otras temperaturas si los resultados se corrigen a la temperatura de referencia aplicando el coeficiente de temperatura establecido en los ensayos de tipo y siempre que se realice un análisis de incertidumbre adecuado.</p>
+<p>(2) El requisito se aplica tanto a fase – fase como a fase– neutro para estaciones de carga polifásicas.</p>
 </td>
 </tr>
 </tfoot>
@@ -8613,111 +8400,107 @@ A los efectos de los ensayos de estaciones de carga de DC, el medidor de referen
 
 Los ensayos que deben realizarse y ser superados satisfactoriamente por el instrumento son los de la tabla 12, que hace referencia a diversos apartados de la Guía 22 de la OIML de 2022.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 12. Ensayos de evaluación de tipo y conformidad basada en la verificación por unidad</p>
+<p>Tabla 12. Ensayos de evaluación de tipo y conformidad basada en la verificación por unidad</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ensayos</th>
-<th class="cabeza_tabla">Apartado de la Guía 22 de la OIML</th>
+<th>Ensayos</th>
+<th>Apartado de la Guía 22 de la OIML</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación del error intrínseco inicial.</td>
-<td class="cuerpo_tabla_centro">7.2.1</td>
+<td>Determinación del error intrínseco inicial.</td>
+<td>7.2.1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Evaluación de la intensidad de arranque.</td>
-<td class="cuerpo_tabla_centro">7.2.2</td>
+<td>Evaluación de la intensidad de arranque.</td>
+<td>7.2.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calentamiento propio.</td>
-<td class="cuerpo_tabla_centro">7.3.2</td>
+<td>Calentamiento propio.</td>
+<td>7.3.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Variación con la temperatura.</td>
-<td class="cuerpo_tabla_centro">7.3.3</td>
+<td>Variación con la temperatura.</td>
+<td>7.3.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Variación de tensión (AC) <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.4</td>
+<td>Variación de tensión (AC) <sup>(1)</sup>.</td>
+<td>7.3.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Variación de frecuencia (AC) <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.5</td>
+<td>Variación de frecuencia (AC) <sup>(1)</sup>.</td>
+<td>7.3.5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Armónicos en tensión e intensidad (AC) <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.6</td>
+<td>Armónicos en tensión e intensidad (AC) <sup>(1)</sup>.</td>
+<td>7.3.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Orden inverso de fases (trifásica) <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.7</td>
+<td>Orden inverso de fases (trifásica) <sup>(1)</sup>.</td>
+<td>7.3.7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campo magnético continuo de origen externo <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.8</td>
+<td>Campo magnético continuo de origen externo <sup>(1)</sup>.</td>
+<td>7.3.8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campo magnético de origen externo (AC, a la frecuencia de la potencia) <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.9</td>
+<td>Campo magnético de origen externo (AC, a la frecuencia de la potencia) <sup>(1)</sup>.</td>
+<td>7.3.9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campos electromagnéticos <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.10</td>
+<td>Campos electromagnéticos <sup>(1)</sup>.</td>
+<td>7.3.10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Funcionamiento de dispositivos auxiliares <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.3.11</td>
+<td>Funcionamiento de dispositivos auxiliares <sup>(1)</sup>.</td>
+<td>7.3.11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Descargas electrostáticas <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.2</td>
+<td>Descargas electrostáticas <sup>(1)</sup>.</td>
+<td>7.4.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transitorios rápidos <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.3</td>
+<td>Transitorios rápidos <sup>(1)</sup>.</td>
+<td>7.4.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Interrupciones y huecos de tensión <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.4</td>
+<td>Interrupciones y huecos de tensión <sup>(1)</sup>.</td>
+<td>7.4.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sobretensiones en las líneas eléctricas de AC <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.5</td>
+<td>Sobretensiones en las líneas eléctricas de AC <sup>(1)</sup>.</td>
+<td>7.4.5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sobreintensidades de corta duración <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.6</td>
+<td>Sobreintensidades de corta duración <sup>(1)</sup>.</td>
+<td>7.4.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tensión de impulso <sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.7</td>
+<td>Tensión de impulso <sup>(1)</sup>.</td>
+<td>7.4.7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ensayos medioambientales <sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_centro">7.4.8</td>
+<td>Ensayos medioambientales <sup>(2)</sup>.</td>
+<td>7.4.8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ensayo de durabilidad.</td>
-<td class="cuerpo_tabla_centro">7.4.9</td>
+<td>Ensayo de durabilidad.</td>
+<td>7.4.9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ensayos mecánicos.</td>
-<td class="cuerpo_tabla_centro">7.4.10</td>
+<td>Ensayos mecánicos.</td>
+<td>7.4.10</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) Las pruebas de perturbaciones eléctricas se pueden realizar individualmente con una verificación de errores después de cada prueba o como un grupo con una sola verificación de error después de que se hayan realizado todas las pruebas.</p>
-<p class="cita">(2) Las pruebas de perturbaciones medioambientales se pueden realizar individualmente con una verificación de errores después de cada prueba o como un grupo con una sola verificación de errores después de que se hayan realizado todas las pruebas</p>
+<p>(1) Las pruebas de perturbaciones eléctricas se pueden realizar individualmente con una verificación de errores después de cada prueba o como un grupo con una sola verificación de error después de que se hayan realizado todas las pruebas.</p>
+<p>(2) Las pruebas de perturbaciones medioambientales se pueden realizar individualmente con una verificación de errores después de cada prueba o como un grupo con una sola verificación de errores después de que se hayan realizado todas las pruebas</p>
 </td>
 </tr>
 </tfoot>

@@ -110,8 +110,6 @@ Modelo 309. Declaración-Liquidación no periódica del Impuesto sobre el Valor 
 
 Modelo 319. Pago a cuenta del IVA correspondiente a las entregas de gasolinas, gasóleos y biocarburantes posteriores a la ultimación del régimen de depósito distinto del aduanero.
 
-> Téngase en cuenta que este modelo, añadido por la disposición final 2 de la Orden HAC/1495/2025, de 17 de diciembre. [Ref. BOE-A-2025-26216](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26216), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Orden; no obstante, será de aplicación por primera vez a las extracciones realizadas a partir del 1 de febrero de 2026, sin perjuicio de lo señalado en el apartado undécimo.5 del anexo de la Ley 37/1992, de 28 de diciembre. [Ref. BOE-A-1992-28740](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-28740)
-
 Modelo 322. Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo individual. Autoliquidación mensual.
 
 Modelo 341. Solicitud de reintegro de compensaciones en el Régimen Especial de la Agricultura, Ganadería y Pesca.
@@ -190,12 +188,6 @@ Modelo 165. Declaración informativa de certificaciones individuales emitidas a 
 
 Modelo 170. Declaración informativa mensual de las operaciones realizadas por los empresarios o profesionales adheridos al sistema de gestión de cobros a través de cualquier tipo de tarjetas y mediante pagos asociados a números de teléfono móvil.
 
-> Téngase en cuenta que la actualización del modelo 170, establecida por la disposición final 2.2 de la Orden HAC/747/2025, de 27 de junio, [Ref. BOE-A-2025-14600](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14600), entra en vigor el 1 de enero de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Modelo 170. Declaración informativa anual de las operaciones realizadas por los empresarios o profesionales adheridos al sistema de gestión de cobros a través de tarjetas de crédito o de débito."
-
 Modelo 171. Declaración informativa anual de imposiciones, disposiciones de fondos y de los cobros de cualquier documento.
 
 Modelo 172. Declaración informativa sobre saldos en monedas virtuales.
@@ -203,8 +195,6 @@ Modelo 172. Declaración informativa sobre saldos en monedas virtuales.
 Modelo 173. Declaración informativa sobre operaciones con monedas virtuales.
 
 Modelo 174. Declaración informativa sobre todo tipo de tarjetas.
-
-> Téngase en cuenta que el modelo 174, añadido por la disposición final 2.3 de la Orden HAC/747/2025, de 27 de junio, [Ref. BOE-A-2025-14600](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14600), entra en vigor el 1 de enero de 2026, según determina su disposición final 3.
 
 Modelo 179. Declaración informativa trimestral de la cesión de uso de viviendas con fines turísticos.
 
@@ -217,8 +207,6 @@ Modelo 182. Declaración informativa de donativos, donaciones y aportaciones rec
 Modelo 184. Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de No Residentes. Entidades en régimen de atribución de rentas. Declaración informativa anual.
 
 Modelo 185. Declaración informativa mensual de cotizaciones de afiliados y mutualistas.
-
-> Téngase en cuenta que el modelo 185, añadido por la disposición final 1 de la Orden HAC/1197/2025, de 21 de octubre. [Ref. BOE-A-2025-21726](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21726), entra en vigor el 1 de enero de 2026, según determina su disposición final 2.
 
 Modelo 187. Declaración informativa de acciones y participaciones representativas del capital o del patrimonio de las instituciones de inversión colectiva y resumen anual de retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de No Residentes en relación con las rentas o ganancias patrimoniales obtenidas como consecuencia de las transmisiones o reembolsos de esas acciones y participaciones.
 
@@ -237,12 +225,6 @@ Modelo 194. Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Soc
 Modelo 195. Declaración trimestral de cuentas u operaciones cuyos titulares no han facilitado el NIF a las entidades de crédito en el plazo establecido.
 
 Modelo 196. Declaración informativa mensual de cuentas en toda clase de instituciones financieras y resumen anual de retenciones e ingresos a cuentas sobre rendimientos del capital mobiliario y rentas obtenidas por la contraprestación derivada de cuentas en toda clase de instituciones financieras.
-
-> Téngase en cuenta que la actualización del modelo 196, establecida por la disposición final 2.1 de la Orden HAC/747/2025, de 27 de junio, [Ref. BOE-A-2025-14600](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14600), entra en vigor el 1 de enero de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Modelo 196. Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de No Residentes (establecimientos permanentes). Retenciones e ingresos a cuenta sobre rendimientos del capital mobiliario y rentas obtenidas por la contraprestación derivada de cuentas en toda clase de instituciones financieras, incluyendo las basadas en operaciones sobre activos financieros, declaración informativa anual de personas autorizadas y de saldos en cuentas de toda clase de instituciones financieras. Resumen anual."
 
 Modelo 198. Declaración anual de operaciones con activos financieros y otros valores mobiliarios.
 
@@ -496,12 +478,6 @@ a) Presentación electrónica por Internet, la cual podrá ser efectuada mediant
 
 b) Presentación mediante papel impreso generado exclusivamente mediante la utilización del servicio de impresión desarrollado a estos efectos por la Agencia Tributaria en su sede electrónica solo en el supuesto de los modelos de autoliquidación 111, 115, 122, 130, 131,136 y 309.
 
-> Téngase en cuenta que esta actualización de la letra b), establecida por el art. 3 de la Orden HFP/1395/2021, de 9 de diciembre, entra en vigor el 1 de enero de 2023, según determina su disposición final única. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
-
-> Redacción anterior:
-
-> "b) Presentación mediante papel impreso generado exclusivamente mediante la utilización del servicio de impresión desarrollado a estos efectos por la Agencia Tributaria en su sede electrónica solo en el supuesto de los modelos de autoliquidación 111, 115, 122, 130, 131,136, 303 y 309."
-
 c) Las declaraciones del modelo 100 «Impuesto sobre la Renta de las Personas Físicas» y del modelo 714 «Impuesto sobre el Patrimonio», también podrán presentarse electrónicamente por Internet mediante la consignación del Número de Identificación Fiscal (NIF) del obligado tributario u obligados tributarios y del número o números de referencia previamente solicitados a la Agencia Tributaria, según el procedimiento establecido en la Resolución de 17 de noviembre de 2011 de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se aprueban sistemas de identificación y autenticación distintos de la firma electrónica avanzada para relacionarse electrónicamente con la citada Agencia Tributaria, en el apartado primero.3.a) y desarrollado en el anexo I.
 
 d) En lo que se refiere al Impuesto sobre la Renta de las Personas Físicas, la presentación de la declaración también podrá realizarse a través de la confirmación del borrador de declaración de acuerdo con el procedimiento que se establezca en la Orden ministerial anual de aprobación del modelo del Impuesto sobre la Renta de las Personas Físicas.
@@ -718,42 +694,6 @@ Asimismo, y en los términos y condiciones previstos en el apartado 5 del precep
 
 g) Efectuada la presentación, la gestión de la orden de domiciliación se regirá por lo dispuesto en la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas a través de las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 4 de la Orden HFP/1397/2023, de 26 de diciembre. [Ref. BOE-A-2023-26632](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26632), entrará en vigor el 1 de febrero de 2024, según se determina en la disposición final única de la citada Órden.
-
-> **Redacción anterior:**
-
-> "Artículo 8. Procedimiento para la presentación electrónica de autoliquidaciones con resultado a ingresar, cuando el pago se realice mediante domiciliación bancaria.
-
-> Si se trata de autoliquidaciones a ingresar cuyo pago se pretende efectuar mediante domiciliación bancaria en una entidad de depósito colaboradora en la gestión recaudatoria de la Agencia Tributaria, el procedimiento de presentación electrónica será el siguiente:
-
-> a) El obligado tributario o, en su caso, el presentador conectará con la Sede electrónica de la Agencia Tributaria y accederá al trámite de presentación correspondiente a la autoliquidación que desea transmitir.
-
-> Las personas o entidades que ostenten la condición de colaboradores sociales en la aplicación de los tributos podrán dar traslado por vía electrónica de las órdenes de domiciliación que previamente les hubieran comunicado los obligados tributarios en cuyo nombre actúan.
-
-> b) Una vez llevada a cabo dicha selección, se cumplimentará el formulario correspondiente consignando la orden de domiciliación y se introducirá el Código Internacional de Cuenta Bancaria (IBAN) de la cuenta en que se domicilie el pago, que, en todo caso, deberá reunir los requisitos establecidos en el artículo 2 de la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas cuya gestión tiene atribuida la Agencia Estatal de Administración Tributaria.
-
-> En todo caso, la orden de domiciliación deberá referirse al importe total que resulte a ingresar de la autoliquidación cuya presentación electrónica se está efectuando, sin perjuicio de las particularidades previstas en la Orden Ministerial de aprobación del modelo del Impuesto sobre la Renta de las Personas Físicas.
-
-> c) A continuación, procederá a transmitir la autoliquidación utilizando cualquiera de los sistemas establecidos en el artículo 2.a) de la presente Orden.
-
-> Si el presentador es colaborador social debidamente autorizado, será necesario realizar la presentación utilizando el sistema previsto en el artículo 2.a)1.º de la presente Orden, usando su propio certificado electrónico reconocido.
-
-> No obstante, en el supuesto de presentación de las autoliquidaciones mediante el sistema previsto en el artículo 2.c) de la presente Orden, el obligado tributario procederá a transmitir la autoliquidación mediante la consignación del Número de Identificación Fiscal (NIF) del obligado tributario u obligados tributarios y el correspondiente número o números de referencia del borrador o de los datos fiscales previamente suministrados por la Agencia Tributaria.
-
-> d) Si la autoliquidación con orden de domiciliación es aceptada, la Agencia Tributaria, devolverá en pantalla los datos de la misma y la codificación de la cuenta de domiciliación validada con un código seguro de verificación, además de la fecha y hora de la presentación.
-
-> El obligado tributario o el presentador deberán conservar la declaración aceptada y validada con el mencionado código electrónico.
-
-> e) En caso de que la presentación con orden de domiciliación fuera rechazada, se mostrará en pantalla la descripción de los errores detectados con el fin de que se pueda llevar a cabo la posterior subsanación de los mismos con el programa de ayuda con el que se generó el fichero, o en el formulario de entrada, o repitiendo la presentación si el error se hubiese originado por otras causas.
-
-> f) La Agencia Tributaria comunicará las órdenes de domiciliación de los obligados tributarios a las diferentes Entidades colaboradoras, las cuales procederán a cargar en cuenta el importe domiciliado el último día del plazo de ingreso en periodo voluntario y a abonarlo en la cuenta restringida que corresponda.
-
-> Una vez efectuado el adeudo de la domiciliación, la Entidad colaboradora remitirá al obligado tributario el recibo-justificante del pago realizado, de acuerdo con las especificaciones recogidas en el apartado 2 del artículo 3 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las Entidades de crédito que actúan como colaboradoras en la gestión recaudatoria de la Agencia Tributaria.
-
-> g) De acuerdo con el procedimiento y en los plazos previstos en los apartados 3 y 4 del artículo 3 de la Orden EHA/1658/2009, de 12 de junio, por la que se establece el procedimiento y condiciones para la domiciliación del pago de determinadas deudas cuya gestión tiene atribuida la Agencia Tributaria, los obligados tributarios podrán rectificar o revocar las órdenes de domiciliación previamente trasmitidas al presentar electrónicamente autoliquidaciones con resultado a ingresar.
-
-> Asimismo, y en los términos y condiciones previstos en el apartado 5 del precepto anterior, los obligados tributarios podrán rehabilitar órdenes de domiciliación previamente revocadas por ellos."
-
 > Se modifica por el art. 4 de la Orden HFP/1397/2023, de 26 de diciembre. [Ref. BOE-A-2023-26632](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26632)
 
 > Téngase en cuenta para su aplicación la disposición final única de la citada Orden.
@@ -949,12 +889,6 @@ a) Presentación electrónica por Internet, la cual podrá ser efectuada mediant
 1.º Un sistema de identificación, autenticación y firma electrónica utilizando un certificado electrónico reconocido emitido de acuerdo con las condiciones que establece la Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza que, según la normativa vigente en cada momento, resulte admisible por la Agencia Estatal de Administración Tributaria.
 
 2.º En el caso de obligados tributarios personas físicas y para los modelos 038, 179, 180, 182, 187, 188, 190, 193, 198, 231, 233, 234, 235, 236, 238, 239, 282, 283, 296, 318, 345, 347, 349, 390, 720 y 721 salvo en los supuestos señalados en el artículo 13.1 de esta orden, también se podrá realizar la presentación mediante el sistema Cl@ve, sistema de identificación, autenticación y firma electrónica común para todo el Sector Público Administrativo Estatal, regulado en la Orden PRE/1838/2014, que permite al ciudadano relacionarse electrónicamente con los servicios públicos mediante la utilización de claves concertadas, previo registro como usuario de la misma.
-
-> Téngase en cuenta que la actualización del párrafo 2º de la letra a), modificado por la disposición final 1.2 de la Orden HAC/1031/2024, de 25 de septiembre [Ref. BOE-A-2024-19390](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19390), entra en vigor el 1 de noviembre de 2024, según establece su disposición final 2.
-
-> Redacción anterior:
-
-> "2.º En el caso de obligados tributarios personas físicas y para los modelos 038, 179, 180, 182, 187, 188, 190, 193, 198, 231, 232, 233, 234, 235, 236, 239, 282, 296, 318, 345, 347, 349, 390 y 720, salvo en los supuestos señalados en el artículo 13.1 de esta orden, también se podrá realizar la presentación mediante el sistema Cl@ve, sistema de identificación, autenticación y firma electrónica común para todo el Sector Público Administrativo Estatal, regulado en la Orden PRE/1838/2014, que permite al ciudadano relacionarse electrónicamente con los servicios públicos mediante la utilización de claves concertadas, previo registro como usuario de la misma."
 
 b) **(Suprimida).**
 
@@ -1307,8 +1241,6 @@ El primer párrafo del apartado 3 del artículo 3 de la Orden EHA/2027/2007, de 
 ## Disposición final segunda. Tratamiento de datos personales.
 
 Los datos personales aportados por el obligado tributario en el cumplimiento de sus derechos y obligaciones tributarias serán tratados con la finalidad de la aplicación del sistema tributario y aduanero, siendo responsable del tratamiento de dichos datos la Agencia Estatal de Administración tributaria. Este tratamiento se ajustará al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. En la Sede Electrónica de la Agencia Tributaria se facilitará la información que exige el artículo 13 del Reglamento relativa a los posibles tratamientos y el ejercicio de los derechos sobre los mismos.
-
-> Téngase en cuenta que esta última actualización de la disposición final segunda, así como la renumeración de la antigua segunda como tercera, establecidas por la disposición final primera de la Orden HAC/554/2019, de 26 de abril. [Ref. BOE-A-2019-7346](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7346), entra en vigor el 1 de julio de 2019, según determina la disposición final segunda de la citada Orden.
 
 > Se modifica, con efectos de 1 de julio de 2019, por la disposición final 1.1 de la Orden HAC/554/2019, de 26 de abril. [Ref. BOE-A-2019-7346](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-7346)
 

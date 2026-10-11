@@ -1,0 +1,633 @@
+---
+title: "Real Decreto 258/1999, de 12 de febrero, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar"
+identifier: "BOE-A-1999-4527"
+eli: "https://www.boe.es/eli/es/rd/1999/02/12/258"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-02-12
+published: 1999-02-24
+in_force_from: 1999-03-16
+last_amended: 2021-12-22
+consolidated: 2026-01-02
+gazette: "Boletín Oficial del Estado núm. 47"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-4527"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 258/1999, de 12 de febrero, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar
+
+Incluye corrección de errores publicada en BOE núm. 103, de 30 de abril de 1999. [Ref. BOE-A-1999-9658](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9658)
+
+La presente disposición tiene por objeto incorporar al ordenamiento jurídico español la Directiva 92/29/CEE del Consejo, de 31 de marzo, relativa a las disposiciones mínimas de seguridad y salud para promover una mejor asistencia médica a bordo de los buques. En la misma, se establecen diversas medidas sobre las materias mencionadas, al objeto de alcanzar la necesaria armonización entre los Estados miembros y cumplir las disposiciones del Tratado constitutivo de la Comunidad Económica Europea, especialmente su artículo 118 A, así como todo lo concerniente a su programa en el ámbito de la seguridad, la higiene y la salud en el lugar de trabajo para los trabajadores del mar.
+
+El régimen jurídico español sobre las materias objeto de la Directiva figura regulado en el ámbito competencial del Ministerio de Fomento −regulación normativa de la Marina Mercante y abanderamiento de buques−, del Ministerio de Educación y Cultura −regulación del régimen de titulaciones académicas y profesionales−, del Ministerio de Trabajo y Asuntos Sociales −legislación laboral de higiene y seguridad, asistencia sanitaria de trabajadores del mar a bordo o en el extranjero y promoción profesional de los trabajadores del mar−, del Ministerio de Agricultura, Pesca y Alimentación −bases de ordenación del sector pesquero y bases de las enseñanzas de formación profesional en el mismo− y del Ministerio de Sanidad y Consumo −regulación de la Sanidad Exterior y Productos Farmacéuticos−.
+
+Asimismo, la Constitución Española en su artículo 149.1-7.<sup>a</sup>, 16.<sup>a</sup>, 19.<sup>a</sup>, 20.<sup>a </sup>y 30.<sup>a</sup>, determina como títulos competenciales exclusivos del Estado todas la materias de regulación antes referidas y que tienen su reflejo en la Directiva a trasponer.
+
+Centrando el tema de forma específica en la regulación de los aspectos de la seguridad, higiene y salud a bordo de los buques, conviene hacer referencia a determinadas disposiciones que regulan dichas materias.
+
+La Ley 14/1986, de 25 de abril, General de Sanidad, dispone en su artículo 38.1 que son competencia exclusiva del Estado la sanidad exterior y las relaciones y acuerdos sanitarios internacionales.
+
+La Ley 27/1992, de 24 de noviembre, de Puertos y de la Marina Mercante, considera en su artículo 6 como actividad de la marina mercante, la relativa a la seguridad marítima y de la vida en el mar. Asimismo, en su artículo 86.9, se establecen, entre otras competencias del Ministerio de Fomento, las relativas a la determinación de las condiciones generales de idoneidad, profesionalidad y titulación para formar parte de las dotaciones de todos los buques españoles sin perjuicio de las competencias del Ministerio de Agricultura, Pesca y Alimentación en materia de capacitación y de enseñanzas de formación profesional náutico pesquera, respecto de las dotaciones de los buques pesqueros.
+
+El Real Decreto 1414/1981, de 3 de julio, por el que se reestructura el Instituto Social de la Marina, atribuye a este Organismo, (dependiente del Ministerio de Trabajo y Asuntos Sociales), entre otras competencias y funciones, la asistencia sanitaria de los trabajadores del mar a bordo y en el extranjero, utilizando los medios propios establecidos al efecto, la distribución de la guía sanitaria a bordo, la inspección y control de los medios sanitarios y las condiciones higiénicas de las embarcaciones, así como la formación y promoción profesional de los trabajadores del mar. En la misma línea normativa figura la Orden ministerial de 9 de octubre de 1978 sobre obligatoriedad de la guía sanitaria a bordo y la Orden ministerial de 4 de diciembre de 1980, sobre botiquines de que han de ir provistos los buques.
+
+Asimismo, el convenio número 164 de la OIT «Convenio sobre la Protección de la Salud y la Asistencia Médica de la gente del Mar, 1987» ratificado por España, y en vigor desde el 3 de julio de 1991, establece diversas determinaciones sobre el personal médico y sanitario a bordo, locales médicos y enfermerías en los buques según su categoría, la documentación clínica a utilizar por los responsables y la formación sanitaria de la tripulación.
+
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, tiene por objeto la promoción de la seguridad y salud de los trabajadores y su ámbito de aplicación es general, afectando al sector marítimo pesquero. En sus artículos 6 y 22 se regula el derecho de los trabajadores a la vigilancia de la salud en el que tiene especial incidencia la materia que es objeto de regulación en la presente disposición.
+
+Con la transposición de la Directiva Comunitaria se pretende dar un tratamiento uniforme a la dispersión normativa existente, delimitando claramente las diversas competencias y funciones en aras de una aplicación homogénea de las disposiciones y programas vigentes en materia de seguridad, higiene y salud a bordo de los buques.
+
+En definitiva, la regulación contenida en el presente Real Decreto se entiende sin perjuicio y en el marco de las disposiciones vigentes sobre prevención de riesgos laborales, sanidad y seguridad marítima.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Asuntos Sociales, de Fomento, de Educación y Cultura, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de febrero de 1999,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+El presente Real Decreto tiene por objeto la transposición de los contenidos de la Directiva 92/29/CE, sobre «Disposiciones mínimas de seguridad y salud para promover una mejor asistencia médica a bordo de los buques» a la normativa española, con el fin de garantizar la asistencia sanitaria en el mar, mediante la regulación de aspectos tales como la dotación de los botiquines de que han de ir provistos los buques, la formación sanitaria de los trabajadores del mar y la existencia de medios de consulta médica a distancia.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. El presente Real Decreto será de aplicación a toda embarcación debidamente registrada o abanderada en España, de acuerdo con lo dispuesto en la Ley de Puertos del Estado y de la Marina Mercante, que realice navegación marítima o pesquera con exclusión de:
+
+a) La navegación fluvial.
+
+b) Los buques de guerra.
+
+c) Las embarcaciones de recreo utilizadas para fines no comerciales que no dispongan de una tripulación profesional, y
+
+d) Los remolcadores que naveguen en la zona portuaria.
+
+2\. Las medidas que se establecen en la presente disposición se aplicarán a los tripulantes enrolados, así como a las personas en período de formación, aprendices y trabajadores en prácticas que se encuentren, asimismo, enrolados, no siendo de aplicación a los prácticos y al personal de tierra que realice trabajos a bordo de un buque en puerto.
+
+## CAPÍTULO II — Botiquín
+
+#### Artículo 3. Tipos de botiquines y su contenido.
+
+1\. Todo buque, según la categoría en que esté clasificado conforme a lo establecido en el anexo I, debe llevar permanentemente a bordo un botiquín general con el contenido mínimo que figura en la sección I del anexo II, que deberá mantenerse en todo momento en buen estado y completarse o renovarse lo antes posible y, en cualquier caso, será prioritario en los procedimientos normales de abastecimiento.
+
+No obstante lo indicado en el párrafo anterior, el Instituto Social de la Marina podrá autorizar, en función de las características estructurales de las embarcaciones, una dotación distinta a la establecida en el anexo II, siempre que dicha dotación incluya los contenidos mínimos establecidos en la normativa comunitaria.
+
+2\. Todo buque debe disponer permanentemente de un botiquín auxiliar:
+
+a) En cada una de sus balsas salvavidas, con la dotación de fármacos y material sanitario establecida en la sección II.2 del anexo II.
+
+b) En cada bote salvavidas, con la dotación de fármacos y material sanitario consignada en la sección II.1 del anexo II.
+
+3\. Todo buque que transporte o sea susceptible de ser utilizado para transportar una o varias de las sustancias peligrosas enumeradas en el anexo III está obligado a llevar a bordo, al menos, la dotación prevista en la sección II.3 del anexo II.
+
+4\. Los médicos de sanidad marítima del Instituto Social de la Marina podrán determinar, cuando se produzcan dificultades de suministro debidamente acreditadas, la sustitución de los fármacos o material sanitario reglamentario por cualquier otro que posea idénticas indicaciones, manteniendo en lo posible, en el caso de los fármacos, la vía de administración.
+
+En estos supuestos, en los envases de las especialidades sustituyentes deberá anotarse el principio activo y presentación que han sido reemplazados. Asimismo, la sustitución recomendada deberá ser consignada por el médico responsable de la misma en el documento de control del contenido del correspondiente botiquín.
+
+5\. Todos los botiquines a bordo, generales y auxiliares, deberán incluir la siguiente documentación sanitaria debidamente cumplimentada por el responsable sanitario a bordo:
+
+a) Documento de control del contenido del botiquín, en el que debe constar la dotación preceptiva de fármacos y material sanitario de cada tipo de botiquín, la cantidad y la fecha de caducidad de sus elementos, acorde con los modelos incluidos en el anexo IV.
+
+b) Libro de administración de fármacos a bordo, donde deberán anotarse los consumos de medicamentos que se produzcan durante los embarques, la persona a quien se administra, la fecha, fármaco, dosis y responsable de la prescripción, conforme al modelo consignado en el anexo V.
+
+> Se modifica por el art. único.1 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se modifican los apartados 4, 5 y 6 y se añade el 7 por el art. único.1 y 2 del Real Decreto 568/2011, de 20 de abril. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+#### Artículo 4. Modelo de contenedores y armarios.
+
+Los contenedores y armarios, donde han de guardarse los medicamentos y demás efectos del contenido de los distintos tipos de botiquín, deberán estar identificados de forma permanente e indeleble con el nombre y el número de identificación del buque (NIB) al que pertenecen y adaptarse a los modelos que figuran en el anexo VII. Asimismo, deberá encontrase señalizada, de forma visible, la ubicación de los botiquines a bordo y de las camillas, en su caso.
+
+No obstante lo indicado en el párrafo anterior, el Instituto Social de la Marina podrá autorizar excepcionalmente, en función de las características estructurales, actividad y tipo de navegación de determinadas embarcaciones, la disponibilidad de contenedores o armarios distintos de los contemplados en el anexo VII.
+
+Aquellos buques que cuenten con médico a bordo no estarán obligados a llevar los modelos de armarios detallados en dicho anexo, pero sí deberán incluir el contenido obligatorio del anexo II que le corresponda según el tipo de buque, sin perjuicio de que a criterio del médico responsable se pueda aumentar dicho contenido, tanto en número de especialidades como en cantidad, en relación proporcional a las personas que vayan a bordo.
+
+> Se modifica por el art. único.2 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+#### Artículo 5. Información sobre el uso del contenido de los botiquines.
+
+El botiquín irá obligatoriamente acompañado de la guía sanitaria a bordo editada por el Instituto Social de la Marina. Dicha guía se facilitará con carácter gratuito y en ella se explicará el modo de utilización del contenido del botiquín.
+
+La guía sanitaria a bordo no será en ningún caso sustitutoria de la asistencia médica por radio, a que se refiere el artículo 16 del presente Real Decreto, sino complementaria de la misma.
+
+Los buques que por su actividad estén obligados a llevar antídotos, deberán disponer a bordo además, de la guía de primeros auxilios para uso en caso de accidentes relacionados con mercancías peligrosas editada por la Organización Marítima Internacional (OMI).
+
+#### Artículo 6. Prescripción, dispensación y control de fármacos.
+
+1\. Para la dotación y reposición de los fármacos componentes de la dotación preceptiva de los botiquines a bordo, se cumplimentará el apartado 1 del modelo unificado de solicitud incluido como anexo VIII, el cual será presentado en formato electrónico a través del servicio correspondiente del Registro electrónico disponible en la Sede Electrónica de la Seguridad Social, o bien a través del Registro Electrónico General disponible en el Punto de Acceso General electrónico de la Administración General del Estado, mediante el uso de un sistema de firma admitido de los previstos en el artículo 10 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+2\. El médico del centro de sanidad marítima del Instituto Social de la Marina competente, valorará la oportunidad de la prescripción, emitiendo en su caso la receta correspondiente, conforme a los modelos recogidos en el anexo X.
+
+En el caso de los medicamentos estupefacientes, los facultativos de los centros de sanidad marítima del Instituto Social de la Marina formalizarán la prescripción utilizando las recetas específicas para dicho fin proporcionadas por el servicio competente de la comunidad autónoma, con la anotación impresa de su uso exclusivo para el botiquín del barco. En el lugar del nombre del paciente figurará el nombre del barco a cuyo botiquín vaya destinado el fármaco estupefaciente, y en el lugar del DNI del paciente constará el NIF del armador o empresa y su nombre o razón social.
+
+3\. Respecto a la adquisición de medicamentos extranjeros, los interesados deberán presentar la correspondiente solicitud ante los departamentos de medicamentos extranjeros de la comunidad autónoma correspondiente, adjuntando el informe emitido por un médico de sanidad marítima del Instituto Social de la Marina justificativo de su suministro.
+
+4\. La dispensación de los fármacos para la dotación y reposición de los botiquines se efectuará en las oficinas de farmacia abiertas al público o en los servicios farmacéuticos designados por la comunidad autónoma, según corresponda, de acuerdo con la legislación vigente.
+
+5\. El control de los fármacos que componen la dotación de los botiquines de a bordo será realizado por el responsable sanitario del buque. Cuando dicho responsable desembarque actualizará, en su caso, el documento del contenido del botiquín de a bordo para conocimiento del próximo responsable sanitario.
+
+> Se modifica por el art. único.3 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+#### Artículo 7. Revisión periódica de botiquines.
+
+1\. La revisión periódica de los botiquines generales y auxiliares será efectuada con una periodicidad máxima de un año, por los médicos o enfermeros de sanidad marítima del Instituto Social de la Marina, sin perjuicio de las actuaciones que, en tal sentido, correspondan a la Inspección de Trabajo y Seguridad Social o a las capitanías marítimas.
+
+El control de los botiquines auxiliares será realizado junto a la revisión del botiquín general del buque.
+
+La revisión del botiquín de las balsas salvavidas se hará coincidir con la revisión de mantenimiento de las mismas y será llevada a cabo por las estaciones de servicio reconocidas por la autoridad competente.
+
+2\. En todas las revisiones se comprobará que los botiquines de a bordo cumplen con lo dispuesto en este real decreto, que su dotación es la reglamentaria, las condiciones de conservación del continente y contenido son adecuadas, se respetan las fechas de caducidad de los componentes y se encuentran debidamente señalizados e identificados. Asimismo, se verificará la existencia, registro y custodia de la documentación sanitaria obligatoria en función del tipo de botiquín.
+
+> Se modifica por el art. único.4 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se modifica el último párrafo del apartado 1 y se añade el 3 por el art. único.3 y 4 del Real Decreto 568/2011, de 20 de abril. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+#### Articulo 8. Procedimiento de revisión de los botiquines.
+
+1\. Para llevar a cabo la revisión de los botiquines de a bordo, el armador o representante legal de la empresa deberá cumplimentar los apartados correspondientes del modelo unificado de solicitud incluido como anexo VIII.
+
+2\. La solicitud cumplimentada deberá presentarse en formato electrónico a través del servicio correspondiente del Registro electrónico disponible en la Sede Electrónica de la Seguridad Social, o bien a través del Registro Electrónico General disponible en el Punto de Acceso General electrónico de la Administración General del Estado, mediante el uso de un sistema de firma admitido de los previstos en el artículo 10 de la Ley 39/2015, de 1 de octubre.
+
+3\. La solicitud deberá ir acompañada del documento de control del contenido del botiquín o botiquines de los que se solicita la revisión, cumplimentados por el responsable sanitario de a bordo, cuya fecha no será superior a los quince días previos a la solicitud de revisión.
+
+4\. El responsable del Instituto Social de la Marina que efectúe la revisión del botiquín o botiquines de a bordo podrá solicitar cuantas pruebas o evidencias estime precisas para verificar el cumplimiento de los requisitos establecidos con relación al continente, contenido, ubicación, señalización y mantenimiento del botiquín de a bordo.
+
+5\. El resultado de la revisión del botiquín de a bordo se hará constar en el certificado de revisión del botiquín correspondiente que será proporcionado por el Instituto Social de la Marina, y se ajustará a los modelos incluidos en el anexo VI.
+
+6\. El procedimiento descrito no será aplicable para las revisiones de botiquines que se practiquen por los médicos de los centros asistenciales del Instituto Social de la Marina en el extranjero ni a las que se pueden llevar a efecto, con carácter excepcional, por el personal sanitario de los buques asistenciales del Instituto Social de la Marina. Dicho procedimiento tampoco es aplicable, de acuerdo con lo dispuesto en el artículo 7.1, a la revisión de los botiquines de las balsas salvavidas.
+
+7\. Los posibles incumplimientos detectados en relación a la disponibilidad de los correspondientes certificados válidos de revisión del botiquín o botiquines preceptivos a bordo, se pondrán en conocimiento de la Inspección de Trabajo y Seguridad Social y de la administración marítima competente, a los efectos oportunos.
+
+> Se modifica por el art. único.5 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se modifica por el art. único.5 del Real Decreto 568/2011, de 20 de abril. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+> Redactada la letra b) conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1999. [Ref. BOE-A-1999-9658](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9658)
+
+## CAPÍTULO III — Instalaciones y personal sanitario. Responsabilidades
+
+#### Artículo 9. Local de cuidados médico-sanitarios.
+
+1\. Con carácter general, todo buque de arqueo bruto (GT) superior a 500, con una dotación igual o superior a quince tripulantes y que efectúe viajes que excedan de cuarenta y ocho horas de duración deberá disponer de un local independiente que permita la administración de cuidados sanitarios en condiciones materiales e higiénicas satisfactorias.
+
+Todos los remolcadores del grupo III, clase número 3.4 (anexo I, sección 2), de arqueo bruto (GT) superior a 500, deberán disponer de esta dependencia a bordo, independientemente de su dotación mínima de tripulantes.
+
+Los buques pesqueros de nueva construcción o que hayan efectuado cambios significativos en los espacios de alojamiento a partir del día 3 de julio de 2020, de más de 500 toneladas de registro bruto (TRB) en los que viajen quince o más pescadores durante más de tres días o de 45 metros de eslora L o más, independientemente del número de tripulantes y de la duración del viaje, deberán disponer de un local separado que permita dispensar cuidados médicos.
+
+Las instalaciones de los locales de cuidados medico sanitarios deberán estar adecuadamente equipadas, y mantenidas en condiciones higiénicas.
+
+El número mínimo de camas que debe tener el local de cuidados sanitarios es de dos. Cuando el número de personas embarcadas exceda de veinte, contará al menos con tres camas.
+
+El local de cuidados sanitarios debe estar situado en un lugar de fácil acceso, que permita una evacuación lo más rápida posible en casos de emergencia, y donde sus ocupantes puedan estar alojados cómodamente y recibir la asistencia de forma adecuada. Deberá estar concebido de manera que permita realizar desde él la consulta médica por radio y permita la ubicación en su interior del botiquín reglamentario a bordo con todos sus componentes.
+
+Los ocupantes del mismo deben disponer, para su uso exclusivo, de retretes situados en el propio local o en su proximidad inmediata. El local de cuidados sanitarios no podrá destinarse, en ningún caso, a otro uso que no sea la asistencia sanitaria.
+
+2\. Todo buque cuya tripulación comprenda 100 trabajadores o más y que efectúe un trayecto internacional de más de tres días, deberá contar entre su tripulación con un médico encargado de la asistencia médica de los trabajadores.
+
+> Se modifica el apartado 1 por el art. único.6 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+#### Artículo 10. Responsable de suministro y renovación del botiquín.
+
+El suministro y la renovación del contenido del botiquín y de los antídotos se realizará bajo la responsabilidad exclusiva del empresario, sin que en ningún caso pueda implicar ninguna carga financiera para los tripulantes.
+
+#### Artículo 11. Gestión del botiquín y de la asistencia sanitaria.
+
+La responsabilidad de la gestión del botiquín y de los antídotos quedará encomendada al capitán o persona que ostente el mando del buque. Sin perjuicio de ello, éstos podrán delegar las tareas de uso y mantenimiento de dicho botiquín en uno o más tripulantes especialmente designados por su competencia, según lo estipulado en el artículo 14 del presente Real Decreto.
+
+En el caso de una urgencia médica a bordo, el capitán, patrón o responsable sanitario, procurará obtener consejo médico, adoptando las medidas oportunas para lograr, lo más rápidamente posible, los medicamentos, antídotos y material médico que en ese momento no se encuentren a bordo, y que sean necesarios para el adecuado tratamiento del paciente.
+
+El capitán o la persona que ostente el mando del buque deberá, asimismo, poner todos los medios a su alcance para que el paciente embarcado reciba la oportuna asistencia en tierra a la mayor brevedad, cuando así lo haya aconsejado el médico que realice la consulta. Las medidas adoptadas al respecto lo serán, igualmente, con cargo al empresario, sin que puedan imputarse cargas financieras a los tripulantes.
+
+## CAPÍTULO IV — Formación sanitaria
+
+#### Artículo 12. Inclusión de la formación sanitaria en los planes de estudio.
+
+Las Administraciones públicas competentes establecerán las medidas adecuadas para que en los planes de estudio conducentes a la obtención de los títulos académicos universitarios y de formación profesional en el ámbito marítimo, se incluya la enseñanza de la formación sanitaria.
+
+#### Artículo 13. Actualización de la formación sanitaria en las titulaciones profesionales marítimas.
+
+El Ministerio de Fomento y el Ministerio de Agricultura, Pesca y Alimentación, previo informe de los Ministerios de Trabajo y Asuntos Sociales, de Educación y Cultura y de Sanidad y Consumo, en el ámbito de sus competencias, establecerán las actualizaciones oportunas de los programas y las pruebas de aptitud tendentes a la expedición de los respectivos títulos profesionales marítimos que no requieran estar en posesión de una titulación académica previa en el ámbito marítimo, a fin de que los aspirantes a dichos títulos profesionales reciban la formación sanitaria básica relativa a las medidas de asistencia médica y de socorro que deban tomarse de inmediato en caso de accidente o de extrema urgencia médica.
+
+#### Artículo 14. Personas obligadas a recibir la formación sanitaria.
+
+Todas las personas destinadas a trabajos a bordo deberán recibir durante su formación profesional marítima, como mínimo, una formación sanitaria básica sobre las medidas de asistencia sanitaria y de socorro que deban tomarse de inmediato en caso de accidente o de extrema urgencia médica.
+
+Los capitanes, patrones y el personal encargado de la utilización, control y mantenimiento del botiquín deberán recibir una formación sanitaria específica que se actualizará obligatoriamente con una periodicidad máxima de cinco años. Dicha formación sanitaria deberá incluir, como mínimo, los contenidos establecidos en el anexo IX, que serán desarrollados por las Administraciones públicas competentes.
+
+La formación sanitaria básica y la formación sanitaria específica de los tripulantes, así como el reciclaje periódico, en el caso de esta última, deberán estar acreditadas mediante la posesión de los correspondientes Certificados de Formación Sanitaria que reglamentariamente se determinen, y que deberán adecuarse al cometido a bordo y al tipo de buque en el que el tripulante esté embarcado.
+
+#### Artículo 15. Expedición y homologación del Certificado de Formación Sanitaria.
+
+1\. El Ministerio de Fomento, a través de la Dirección General de la Marina Mercante, y el Ministerio de Trabajo y Asuntos Sociales, a través del Instituto Social de la Marina, fijarán conjuntamente las condiciones para la expedición y homologación del Certificado de Formación Sanitaria. No obstante respecto a los títulos náutico-pesqueros las condiciones se fijarán conjuntamente entre los Ministerios antes citados y el Ministerio de Agricultura, Pesca y Alimentación, a través de la Secretaría General de Pesca Marítima.
+
+2\. Asimismo, dichos Organismos de manera conjunta y en el ámbito de sus competencias, determinarán las condiciones que deben cumplir los centros públicos y privados que pretendan impartir enseñanzas para la obtención del mencionando certificado de formación sanitaria.
+
+3\. No obstante lo dispuesto en los apartados 1 y 2 anteriores, se expedirá el correspondiente Certificado de Formación Sanitaria a quienes hayan superado las materias o módulos profesionales de formación sanitaria que formen parte de los contenidos de los planes de estudio citados en el artículo 12 de este Real Decreto.
+
+## CAPÍTULO V — Asistencia médica a distancia
+
+#### Artículo 16. Consulta médica por radio.
+
+Con el fin de garantizar una asistencia médica de urgencia a las tripulaciones, se establece la competencia del Centro Radio-Médico Español dependiente del Instituto Social de la Marina, como servicio gratuito y permanente.
+
+El Instituto Social de la Marina garantizará que los médicos que presten sus servicios en el Centro Radio-Médico Español tengan una formación continuada y específica respecto a las condiciones particulares que existen a bordo de los buques.
+
+El Centro Radio-Médico Español podrá poseer, con el acuerdo de los trabajadores afectados y con el fin de optimizar la asistencia médica por radio, datos personales de carácter médico. Dichos datos tendrán un tratamiento confidencial.
+
+#### Disposición adicional única. Constitución y regulación de la Comisión Técnica de Actualización del Contenido de los Botiquines a Bordo.
+
+1\. Con el fin de mantener continuamente actualizado el contenido de los botiquines, se constituye una comisión con la denominación de Comisión Técnica de Actualización del Contenido de los Botiquines a Bordo, que se regirá en su funcionamiento por lo dispuesto, para los órganos colegiados, en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público.
+
+Dicha comisión, que se integrará en el Instituto Social de la Marina, estará presidida por la persona titular de la Subdirección General de Acción Social Marítima de dicha entidad y contará con la siguiente composición:
+
+a) Dos vocales médicos designados por la Dirección del Instituto Social de la Marina.
+
+b) Dos vocales médicos o farmacéuticos designados por la Dirección General de Salud Pública.
+
+c) Dos vocales médicos o farmacéuticos designados por la Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia.
+
+d) Un vocal designado por el Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+e) Un vocal designado por el Ministerio de Agricultura, Pesca y Alimentación.
+
+Asimismo, formará parte de la comisión actuando como secretario, con voz y voto, la persona titular del Área de Programas Sanitarios de la Subdirección General de Acción Social Marítima del Instituto Social de la Marina.
+
+Esta comisión se reunirá anualmente y cuando surja alguna novedad científica que aconseje la rápida modificación del contenido de los botiquines. Su presidente propondrá las modificaciones que estimen necesarias acordadas por la comisión.
+
+2\. Las propuestas que impliquen modificación serán elevadas a la persona titular de la Dirección del Instituto Social de la Marina para su aprobación, si procediese, y posterior trámite mediante la correspondiente orden ministerial de las personas titulares de los Ministerios de Inclusión, Seguridad Social y Migraciones y de Sanidad.
+
+3\. La comisión que se crea por este real decreto no tiene incidencia económica ni presupuestaria, al constituir sus funciones una actividad habitual de los organismos en ella representados.
+
+> Se modifica por el art. único.7 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+#### Disposición transitoria única. Plazo de adaptación a la nueva normativa.
+
+Los empresarios adaptarán los botiquines de sus embarcaciones, botes salvavidas y balsas de salvamento a lo dispuesto en el presente Real Decreto en el plazo máximo de un año a partir de su entrada en vigor.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo establecido en el presente Real Decreto y, expresamente la Orden de 9 de octubre de 1978, sobre obligatoriedad de la guía sanitaria a bordo.
+
+#### Disposición final única. Facultades de aplicación y desarrollo.
+
+Se faculta a las personas titulares de los Ministerios de Inclusión, Seguridad Social y Migraciones, de Transportes, Movilidad y Agenda Urbana, de Educación y Formación Profesional, de Trabajo y Economía Social, de Agricultura, Pesca y Alimentación y de Sanidad, cada una en el ámbito de sus respectivas competencias, para dictar las normas de aplicación y desarrollo de este real decreto, incluidas las relativas a las materias económica y de personal.
+
+> Se modifica por el art. único.8 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+Dado en Madrid a 12 de febrero de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO I
+
+### Sección 1. Categoría de buques y tipos de botiquín
+
+Estas categorías de botiquines se han determinado según la distancia de la costa a la que están autorizados los buques a realizar su actividad.
+
+– Buques de categoría «A». Buques que realicen navegación o pesca marítima sin limitación de zona geográfica. Deberán llevar el tipo de Botiquín A.
+
+– Buques de categoría «B». Buques que realicen navegación o pesca marítima en zonas situadas entre las 60 y 150 millas náuticas del puerto más próximo equipado de forma adecuada desde el punto de vista médico. Deberán llevar el tipo de Botiquín B.
+
+– Buques de categoría «C». Buques que realicen navegación o pesca marítima en zonas situadas a menos de 60 millas náuticas del puerto más próximo equipado de forma adecuada desde el punto de vista médico. Deberán llevar el tipo de Botiquín C.
+
+### Sección 2. Tipo de botiquín que deben llevar los buques en función de su actividad
+
+Esta clasificación se ha elaborado teniendo en cuenta las características de la travesía, tipo de actividad de los buques, escala, distancia habitual de la costa y duración de los embarques.
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">Actividad del buque</th>
+<th colspan="3">Tipo de botiquín</th>
+</tr>
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Buques de carga:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>1.1. Dedicados a viajes largos sin limitación de paraje</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>1.2. Que naveguen a más de 150 millas náuticas de la costa y/o realicen travesías de más de 48 horas de navegación</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>1.3. Que naveguen entre las 60 y 150 millas náuticas de la costa y/o realicen travesías entre 24 y 48 horas de navegación</td>
+<td> </td>
+<td>x</td>
+<td> </td>
+</tr>
+<tr>
+<td>1.4. Que naveguen hasta las 60 millas náuticas del puerto más próximo equipado de forma adecuada desde el punto de vista médico y/o realicen travesías de menos de 24 horas de navegación</td>
+<td> </td>
+<td> </td>
+<td>x</td>
+</tr>
+<tr>
+<td>2. Buques de pesca:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>2.1. De gran altura y altura sin limitación de paraje o faenen en caladeros de países extracomunitarios que no estén incluidos en el punto 2.3</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>2.2. Que faenen a más de 150 millas náuticas de la costa y/o se encuentren a más de 48 horas de navegación del puerto más cercano</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>2.3. Que faenen entre 60 y 150 millas náuticas del puerto más próximo equipado de forma adecuada desde el punto de vista médico y/o permanezcan entre 24 y 48 horas fuera de dicho puerto o faenen en caladeros extracomunitarios a menos de 150 millas del puerto comunitario más próximo equipado de forma adecuada desde el punto de vista médico y no permanezcan fuera de dicho puerto más de 48 horas</td>
+<td> </td>
+<td>x</td>
+<td> </td>
+</tr>
+<tr>
+<td>2.4. Que faenen a una distancia inferior a las 60 millas náuticas desde el puerto más próximo equipado de forma adecuada desde el punto de vista médico y/o permanezcan menos de 24 horas alejados de puerto</td>
+<td> </td>
+<td> </td>
+<td>x</td>
+</tr>
+<tr>
+<td>3. Buques de recreo y Servicios de Puerto:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>3.1. Con tripulación contratada que realicen viajes en los que permanezcan alejados de la costa más de 150 millas náuticas</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>3.2. Con tripulación contratada que realicen viajes en los que permanezcan alejados de la costa entre 60 y 150 millas náuticas y/o se encuentren entre 24 y 48 horas de navegación del puerto más cercano equipado de forma adecuada, desde el punto de vista médico</td>
+<td> </td>
+<td>x</td>
+<td> </td>
+</tr>
+<tr>
+<td>3.3. Con tripulación contratada que realicen viajes hasta las 60 millas náuticas de distancia a la costa y/o se encuentren a menos de 24 horas de navegación del puerto más cercano equipado de forma adecuada desde el punto de vista médico.</td>
+<td> </td>
+<td> </td>
+<td>x</td>
+</tr>
+<tr>
+<td>3.4. Remolcadores, lanchas, gabarras, etc., que salen a la mar en travesías de más de 48 horas y/o permanezcan alejados de la costa más de 150 millas</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>3.5. Remolcadores, lanchas, gabarras, etc., que salen a la mar en travesías de menos de 48 horas y/o permanezcan alejados del puerto más próximo equipado de forma adecuada desde el punto de vista médico entre 60 y 150 millas</td>
+<td> </td>
+<td>x</td>
+<td> </td>
+</tr>
+<tr>
+<td>3.6. Remolcadores, lanchas, gabarras, etc. que realicen travesías fuera del ámbito portuario hasta las 60 millas del mismo</td>
+<td> </td>
+<td> </td>
+<td>x</td>
+</tr>
+<tr>
+<td>4. Embarcaciones salvavidas:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>4.1. Botes salvavidas</td>
+<td> </td>
+<td> </td>
+<td>x</td>
+</tr>
+<tr>
+<td>4.2. Balsas salvavidas</td>
+<td colspan="3">Dotación especificada en el anexo II</td>
+</tr>
+</tbody>
+</table>
+
+> Se sustituye por el que figura en el anexo I del Real Decreto 1120/2021, de 21 de diciembre, según establece su art. único.9. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se sustituye por el que figura en el anexo I del Real Decreto 568/2011, de 20 de abril, según establece su art. único.6. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+## ANEXO II — Dotación de los botiquines a bordo según su categoría
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_13.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_14.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_15.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_16.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785606_17.png)
+
+> Se sustituye por el que figura como anexo II del Real Decreto 1120/2021, de 21 de diciembre, según establece su art. único.10. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se sustituye por el que figura como apartado A) del anexo de la Orden PRE/2315/2015, de 3 de noviembre, según establece su art. único.1. [Ref. BOE-A-2015-11931](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11931)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 28, de 2 de febrero de 2016. [Ref. BOE-A-2016-956](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-956)
+
+> Se sustituye por el que figura en el anexo II del Real Decreto 568/2011, de 20 de abril, según establece su art. único.7. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 169, de 15 de julio de 2011. [Ref. BOE-A-2011-12183](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12183)
+
+> Se sustituye por el que figura en el apartado A) del anexo de la Orden PRE/568/2009, de 5 de marzo, según establece su art. único.1. [Ref. BOE-A-2009-4091](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4091)
+
+> Se sustituye por el Anexo II de la Orden PRE/0930/2002, de 23 de abril, según establece su art. 1. [Ref. BOE-A-2002-8260](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8260)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1999. [Ref. BOE-A-1999-9658](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9658)
+
+## ANEXO III — Listado de sustancias peligrosas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/103/04527_7139336_image29.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/47/04527_7139336_image30.png)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1999. [Ref. BOE-A-1999-9658](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9658)
+
+## ANEXO IV — Documentos de control del contenido de los botiquines a bordo
+
+Los documentos de control del contenido preceptivo de los distintos tipos de botiquines a bordo, generales y auxiliares, cuyos modelos se detallan en este anexo, deberán ser cumplimentados por los responsables sanitarios a bordo y podrán obtenerse en formato electrónico en la página web de la Seguridad Social: www.seg-social.es.
+
+En dichos documentos de control se detallarán, cuando proceda, en función del número de tripulantes, la relación de principios activos, su forma de presentación, cantidad existente a bordo y fecha de caducidad. Asimismo, se especificará el material sanitario existente en el botiquín, su cantidad y fecha de caducidad.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785601_7.png)
+
+> Se sustituye por el que figura como anexo IV del Real Decreto 1120/2021, de 21 de diciembre, según establece su art. único.11. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se sustituye por el que figura como apartado B) del anexo de la Orden PRE/2315/2015, de 3 de noviembre, según establece su art. único.2. [Ref. BOE-A-2015-11931](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11931)
+
+> Se sustituye por el que figura en el anexo IV del Real Decreto 568/2011, de 20 de abril, según establece su art. único.8. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+> Se sustituye por el que figura en el apartado B) del anexo de la Orden PRE/568/2009, de 5 de marzo, según establece su art. único.2. [Ref. BOE-A-2009-4091](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4091)
+
+## ANEXO V — Libro de registro de administración de fármacos a bordo
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/47/04527_7139336_image34.png)
+
+## ANEXO VI — Modelos de los certificados de revisión de los botiquines a bordo
+
+Se distinguen los modelos de certificados de revisión para el:
+
+– Botiquín A.
+
+– Botiquín B.
+
+– Botiquín C.
+
+– Botiquín C de botes salvavidas.
+
+– Botiquín de buques autorizados para el transporte de mercancías peligrosas.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785602_10.png)
+
+> Se sustituye por el que figura como anexo VI del Real Decreto 1120/2021, de 21 de diciembre, según establece su art. único.12. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se sustituyen las secciones 1.A, 2.A, 3.A y 4.A por las respectivas secciones que figuran como apartado C) del anexo de la Orden PRE/2315/2015, de 3 de noviembre, según establece su art. único.3. [Ref. BOE-A-2015-11931](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11931)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 28, de 2 de febrero de 2016. [Ref. BOE-A-2016-956](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-956)
+
+> Se sustituye por el que figura en el anexo VI del Real Decreto 568/2011, de 20 de abril, según establece su art. único.9. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 169, de 15 de julio de 2011. [Ref. BOE-A-2011-12183](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12183)
+
+> Se sustituye por el que figura en el apartado C) del anexo de la Orden PRE/568/2009, de 5 de marzo, según establece su art. único.3. [Ref. BOE-A-2009-4091](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4091)
+
+> Se sustituye por el Anexo VI de la Orden PRE/0930/2002, de 23 de abril, según establece su art. 2. [Ref. BOE-A-2002-8260](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8260)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1999. [Ref. BOE-A-1999-9658](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9658)
+
+## ANEXO VII — Modelos de armarios y contenedores para el botiquín a bordo
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785603_7.png)
+
+> Se sustituye por el que figura como anexo VII del Real Decreto 1120/2021, de 21 de diciembre, según establece su art. único.13. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se sustituye la sección A por la que figura como apartado D) del anexo de la Orden PRE/2315/2015, de 3 de noviembre, según establece su art. único.4. [Ref. BOE-A-2015-11931](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11931)
+
+> Se sustituye por el que figura en el anexo VII del Real Decreto 568/2011, de 20 de abril, según establece su art. único.10. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+> Se sustituye por el que figura en el apartado D) del anexo de la Orden PRE/568/2009, de 5 de marzo, según establece su art. único.4. [Ref. BOE-A-2009-4091](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4091)
+
+## ANEXO VIII — Modelo unificado de solicitud a cumplimentar por las empresas (procedimiento de botiquines)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785604_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785604_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785604_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785604_4.png)
+
+> Se sustituye por el que figura como anexo VIII del Real Decreto 1120/2021, de 21 de diciembre, según establece su art. único.14. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)
+
+> Se sustituye por el que figura en el anexo VIII del Real Decreto 568/2011, de 20 de abril, según establece su art. único.11. [Ref. BOE-A-2011-8342](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8342)
+
+## ANEXO IX — Formación sanitaria: Contenidos mínimos
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/47/04527_7139336_image68.png)
+
+## ANEXO X — Suministro de medicamentos para el botiquín del buque
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785605_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/305/21104_10785605_2.png)
+
+> Se añade por el art. único.15 del Real Decreto 1120/2021, de 21 de diciembre. [Ref. BOE-A-2021-21104](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21104)

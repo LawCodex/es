@@ -35,35 +35,35 @@ En su virtud, teniendo en cuenta los peajes y cánones en vigor, esta Dirección
 
 Los precios sin impuestos de la tarifa de último recurso de gas natural que estarán en vigor desde las cero horas del día 1 de octubre de 2018, serán los indicados a continuación:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Tarifa</th>
+<th colspan="2"> </th>
+<th colspan="2">Tarifa</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla">Fijo</th>
-<th class="cabeza_tabla">Variable</th>
+<th rowspan="2"> </th>
+<th rowspan="2"> </th>
+<th>Fijo</th>
+<th>Variable</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">(€/cliente)/mes</th>
-<th class="cabeza_tabla">cent/kWh</th>
+<th>(€/cliente)/mes</th>
+<th>cent/kWh</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">TUR.1</td>
-<td class="cuerpo_tabla_izq">Consumo inferior o igual a 5.000 kWh/año.</td>
-<td class="cuerpo_tabla_centro">4,28</td>
-<td class="cuerpo_tabla_centro">5,886958</td>
+<td>TUR.1</td>
+<td>Consumo inferior o igual a 5.000 kWh/año.</td>
+<td>4,28</td>
+<td>5,886958</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TUR.2</td>
-<td class="cuerpo_tabla_izq">Consumo superior a 5.000 kWh/año e inferior o igual a 50.000 kWh/año.</td>
-<td class="cuerpo_tabla_centro">8,44</td>
-<td class="cuerpo_tabla_centro">5,199558</td>
+<td>TUR.2</td>
+<td>Consumo superior a 5.000 kWh/año e inferior o igual a 50.000 kWh/año.</td>
+<td>8,44</td>
+<td>5,199558</td>
 </tr>
 </tbody>
 </table>
@@ -72,47 +72,47 @@ Los precios sin impuestos de la tarifa de último recurso de gas natural que est
 
 Los precios sin impuestos aplicables a los suministros de gas manufacturado y/o aire propanado en territorios insulares, acogidos a lo dispuesto en la disposición transitoria vigésima de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, en vigor desde las cero horas del día 1 de octubre de 2018, serán los indicados a continuación:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Tarifa</th>
+<th colspan="2"> </th>
+<th colspan="2">Tarifa</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla">Fijo</th>
-<th class="cabeza_tabla">Variable</th>
+<th rowspan="2"> </th>
+<th rowspan="2"> </th>
+<th>Fijo</th>
+<th>Variable</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">(€/cliente)/mes</th>
-<th class="cabeza_tabla">cent/kWh</th>
+<th>(€/cliente)/mes</th>
+<th>cent/kWh</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">T.1</td>
-<td class="cuerpo_tabla_izq">Consumo inferior o igual a 5.000 kWh/año.</td>
-<td class="cuerpo_tabla_centro">4,28</td>
-<td class="cuerpo_tabla_centro">5,886958</td>
+<td>T.1</td>
+<td>Consumo inferior o igual a 5.000 kWh/año.</td>
+<td>4,28</td>
+<td>5,886958</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">T.2</td>
-<td class="cuerpo_tabla_izq">Consumo superior a 5.000 kWh/año e inferior o igual a 50.000 kWh/año.</td>
-<td class="cuerpo_tabla_centro">8,44</td>
-<td class="cuerpo_tabla_centro">5,199558</td>
+<td>T.2</td>
+<td>Consumo superior a 5.000 kWh/año e inferior o igual a 50.000 kWh/año.</td>
+<td>8,44</td>
+<td>5,199558</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">T.3</td>
-<td class="cuerpo_tabla_izq">Consumo superior a 50.000 kWh/año e inferior o igual a 100.000 kWh/año.</td>
-<td class="cuerpo_tabla_centro">60,38</td>
-<td class="cuerpo_tabla_centro">4,577146</td>
+<td>T.3</td>
+<td>Consumo superior a 50.000 kWh/año e inferior o igual a 100.000 kWh/año.</td>
+<td>60,38</td>
+<td>4,577146</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">T.4</td>
-<td class="cuerpo_tabla_izq">Consumo superior a 100.000 kWh/año.</td>
-<td class="cuerpo_tabla_centro">181,72</td>
-<td class="cuerpo_tabla_centro">4,266646</td>
+<td>T.4</td>
+<td>Consumo superior a 100.000 kWh/año.</td>
+<td>181,72</td>
+<td>4,266646</td>
 </tr>
 </tbody>
 </table>
@@ -121,60 +121,60 @@ Los precios sin impuestos aplicables a los suministros de gas manufacturado y/o 
 
 El coste de la materia prima y los diferentes elementos que la componen son:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">Coste materia prima</th>
-<th class="cabeza_tabla" colspan="2">
+<th rowspan="3">Coste materia prima</th>
+<th colspan="2">
 <p>Componentes principales</p>
 <p>(cent/kWh)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Gas de base</th>
-<th class="cabeza_tabla">Gas de invierno</th>
+<th>Gas de base</th>
+<th>Gas de invierno</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Referencia</th>
-<th class="cabeza_tabla">Referencia</th>
+<th>Referencia</th>
+<th>Referencia</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">C<sub>n</sub></td>
-<td class="cuerpo_tabla_centro">RB<sub>n</sub></td>
-<td class="cuerpo_tabla_centro">RI<sub>n</sub></td>
+<td>C<sub>n</sub></td>
+<td>RB<sub>n</sub></td>
+<td>RI<sub>n</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2,767891</td>
-<td class="cuerpo_tabla_centro">2,390633</td>
-<td class="cuerpo_tabla_centro">2,954572</td>
+<td>2,767891</td>
+<td>2,390633</td>
+<td>2,954572</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">BR6n</th>
-<th class="cabeza_tabla">T<sub>n</sub></th>
-<th class="cabeza_tabla" rowspan="2">PRQ</th>
-<th class="cabeza_tabla" rowspan="2">
+<th>BR6n</th>
+<th>T<sub>n</sub></th>
+<th rowspan="2">PRQ</th>
+<th rowspan="2">
 <p>NBP</p>
 <p>(cent/kWh)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">($/Bbl)</th>
-<th class="cabeza_tabla">($/€)</th>
+<th>($/Bbl)</th>
+<th>($/€)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">74,621</td>
-<td class="cuerpo_tabla_centro">1,1620</td>
-<td class="cuerpo_tabla_centro">0,030528</td>
-<td class="cuerpo_tabla_centro">2,954572</td>
+<td>74,621</td>
+<td>1,1620</td>
+<td>0,030528</td>
+<td>2,954572</td>
 </tr>
 </tbody>
 </table>

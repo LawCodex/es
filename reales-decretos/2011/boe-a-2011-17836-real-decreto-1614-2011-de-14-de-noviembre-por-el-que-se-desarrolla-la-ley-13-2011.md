@@ -768,28 +768,6 @@ En todo caso, la autoridad encargada de la regulación del juego supervisará lo
 
 4\. No podrá solicitarse un aumento en los límites establecidos por el participante de conformidad con lo previsto en el apartado 3, si no han transcurrido tres meses desde el último aumento de dichos límites.
 
-> Téngase en cuenta que este artículo modificado por la disposición final 1.1 del Real Decreto 958/2020, de 3 de noviembre [Ref. BOE-A-2020-13495](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13495), entra en vigor el 1 de enero de 2021, según se establece en su disposición final 3.b).
-
-> Redacción anterior:
-
-> "Artículo 36. Límites a los depósitos.
-
-> 1\. Los operadores de juego deberán establecer límites económicos para los depósitos que, con carácter diario, semanal o mensual, puedan recibir de cada uno de los participantes en los distintos juegos. Estos límites no podrán tener importes superiores a los recogidos en el anexo II a este real decreto.
-
-> Mediante disposición, y previos los oportunos informes técnicos y jurídicos, la Comisión Nacional del Juego podrá modificar el referido anexo II.
-
-> 2\. Los operadores de juegos deberán ofrecer a los participantes la posibilidad de establecer voluntariamente límites, aplicables a sus propios depósitos, por importes inferiores a los establecidos con carácter general. Cada participante podrá realizar su solicitud de forma expresa e individualizada. Las peticiones deberán ser satisfechas de forma inmediata por los operadores de juegos, que, a tal fin, deberán desarrollar y poner a disposición de los participantes los sistemas técnicos necesarios para la referida autolimitación.
-
-> 3\. Cada participante, de forma expresa e individualizada, podrá solicitar a los operadores de juego el incremento de los importes de depósito o la desaparición de cualquier límite que tenga establecido para su cuenta de depósito, por encima de los importes recogidos en el párrafo primero de este artículo. Estas peticiones podrán ser atendidas por los operadores cuando se cumplan los siguientes requisitos:
-
-> a) Cuando se trate de la primera petición de aumento de límites o la desaparición de cualquier limitación que realice un participante, éste deberá superar las pruebas de prevención de conductas adictivas del juego y de juego responsable, que al efecto haya establecido la Comisión Nacional del Juego. Superadas las pruebas, los nuevos límites entrarán en vigor una vez transcurridos siete días.
-
-> b) Cuando se trate de la segunda petición o ulteriores peticiones de aumento de límites que realice un mismo participante, el operador deberá realizar un análisis histórico de la trayectoria del participante en base a los aspectos que al efecto establezca la Comisión Nacional del Juego, y que estarán relacionados con su perfil, su forma de participar en los juegos y su comportamiento alejado de conductas adictivas del juego. Los nuevos límites entrarán en vigor transcurridos tres días desde que se resuelva con resultado positivo el estudio referido en esta letra.
-
-> c) No podrá solicitarse un aumento en los límites establecidos por el participante, si no han transcurrido tres meses desde la última modificación de los límites por él fijados.
-
-> La Comisión Nacional del Juego supervisará los procedimientos de aumento de límites y, a tal efecto, podrá solicitar de los operadores cuanta documentación estime pertinente para la comprobación de los trámites seguidos."
-
 > Se modifica, con efectos de 1 de enero de 2021, por la disposición final 1.1 del Real Decreto 958/2020, de 3 de noviembre. [Ref. BOE-A-2020-13495](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13495)
 
 ##### Artículo 36 bis. Sistema de límites de depósito conjuntos por jugador.
@@ -835,14 +813,6 @@ En todo caso, el medio empleado para la devolución de las cantidades pagadas po
 1\. El operador abonará los premios por el procedimiento y medios de pago que hubiera establecido en las reglas particulares del juego y pondrá a disposición de los participantes el abono de los premios por el mismo medio que aquellos hubieran empleado para el pago de la participación en el juego, salvo que las normas o condiciones aplicadas por el correspondiente medio de pago no le permitieran realizar el abono. En estos supuestos, el operador deberá informar a los participantes de las limitaciones que, en relación con el abono de los premios, afecten al medio de pago empleado. En todo caso, y sea cual fuere el medio empleado para el abono de los premios, este no podrá suponer ningún coste u obligación adicional para el participante premiado.
 
 En aquellos juegos en los que se exija un control en la verificación de los usuarios, cuando la diferencia entre la participación y el premio obtenido sea superior a los cinco mil euros, el operador remitirá un mensaje ofreciendo al participante de forma expresa la posibilidad de solicitar la transferencia del importe del premio a través de alguno de los medios de pago que dicho operador hubiera establecido en las reglas particulares del juego.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por la disposición final 1.2 del Real Decreto 176/2023, de 14 de marzo, [Ref. BOE-A-2023-6735](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6735), entra en vigor el 15 de marzo de 2024, según determina su disposición final 6.b).
-
-> Redacción anterior:
-
-> "1. El operador abonará los premios por el procedimiento y medios de pago que hubiera establecido en las reglas particulares del juego y pondrá a disposición de los participantes el abono de los premios por el mismo medio que aquéllos hubieran empleado para el pago de la participación en el juego, salvo que las normas o condiciones aplicadas por el correspondiente medio de pago no le permitieran realizar el abono. En estos supuestos, el operador deberá informar a los participantes de las limitaciones que, en relación con el abono de los premios, afecten al medio de pago empleado.
-
-> En todo caso, y sea cual fuere el medio empleado para el abono de los premios, éste no podrá suponer ningún coste u obligación adicional para el participante premiado."
 
 2\. Previo al abono de los premios obtenidos por los participantes, en aquellos casos en los que no se haya utilizado la cuenta de juego y efectuados los controles derivados de su apertura, el operador deberá constatar que los participantes no están incursos en ninguna causa de prohibición subjetiva de las referidas en las letras a), b) y c) del número segundo del artículo 6 de la Ley 13/2011, de 27 de mayo, de regulación del juego.
 
@@ -1279,18 +1249,6 @@ Los operadores autorizados para la comercialización de los juegos de loterías 
 ##### Disposición adicional sexta. Aplicaciones de juego gratuito.
 
 **(Suprimido).**
-
-> Téngase en cuenta que la supresión de este artículo efectuada por la disposición final 1.2 del Real Decreto 958/2020, de 3 de noviembre [Ref. BOE-A-2020-13495](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13495), entra en vigor el 1 de enero de 2021, según se establece en su disposición final 3.b).
-
-> Redacción anterior:
-
-> "Disposición adicional sexta. Aplicaciones de juego gratuito.
-
-> Los operadores de juego podrán ofrecer en sus plataformas aplicaciones de juego gratuito, en las que los participantes que lo deseen podrán participar en el juego sin realizar aportación económica alguna y sin percibir ningún premio, directa o indirectamente, en dinero o en especie, por los aciertos o victorias que obtengan.
-
-> La puesta en funcionamiento de aplicaciones de juego gratuitas no estará sujeta a la previa concesión de licencia o autorización, y no será obligatoria la constitución de registros de usuario y cuenta de juego. En las interfaces de acceso de estas aplicaciones de juego gratuito a las de pago, los operadores del juego deberán incluir un aviso a los participantes en el que se haga constar que el acceso a las aplicaciones de juego real comercializado requerirá la constitución previa de registro de usuario y cuenta de juego y que el acceso a las aplicaciones de juego, real, o de pago estará prohibido a las personas incluidas en los puntos a) y b) del apartado 2 del artículo 6 de la Ley 13/2011, de 27 de mayo, de regulación del juego.
-
-> Los operadores de juegos no podrán ofrecer en sus plataformas aplicaciones de juego gratuito que puedan generar en los participantes una expectativa falsa sobre sus posibilidades y probabilidades en el juego efectivamente comercializado, bien mediante la utilización de reglas de juego diferentes, bien mediante el uso de un generador aleatorio de números con un software o una programación diferentes al empleado en el juego real, o bien por medio de cualquier otra variación sustancial respecto a las condiciones en que se desarrolla el juego efectivamente comercializado."
 
 > Se suprime, con efectos de 1 de enero de 2021, por la disposición final 1.2 del Real Decreto 958/2020, de 3 de noviembre. [Ref. BOE-A-2020-13495](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13495)
 

@@ -1,0 +1,151 @@
+---
+title: "Real Decreto 1162/2018, de 14 de septiembre, por el que se regula la Comisión interministerial de coordinación de la Administración periférica del Estado"
+identifier: "BOE-A-2018-13185"
+eli: "https://www.boe.es/eli/es/rd/2018/09/14/1162"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Política Territorial y Función Pública"
+date: 2018-09-14
+published: 2018-09-29
+in_force_from: 2018-09-30
+last_amended: 2022-09-07
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 236"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-13185"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1162/2018, de 14 de septiembre, por el que se regula la Comisión interministerial de coordinación de la Administración periférica del Estado
+
+El artículo 72 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, atribuye a los Delegados del Gobierno la representación del Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma, encomendándoles, conforme al artículo 154 de la Constitución, la dirección y supervisión de la Administración General del Estado en el territorio. El artículo 73.1.a) de la misma Ley les otorga competencias concretas de dirección, coordinación, supervisión e impulso en este ámbito.
+
+Para facilitar el desempeño de estas funciones, la Ley 40/2015, de 1 de octubre, regula en su artículo 78 la Comisión interministerial de coordinación de la Administración periférica del Estado, órgano colegiado encargado de coordinar la actuación de la Administración periférica del Estado con los distintos Departamentos ministeriales. El apartado 3 de este precepto establece que se regularán mediante Real Decreto sus atribuciones, composición y funcionamiento.
+
+Con esta previsión se da reconocimiento legal a un órgano colegiado ya creado por el Real Decreto 119/2003, de 31 de enero, y que ha venido desempeñando sus funciones de manera satisfactoria. Mediante el presente real decreto se introducen algunas modificaciones en su organización y funcionamiento, con objeto de mejorar su operatividad.
+
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, se han respetado los principios de necesidad, eficiencia y proporcionalidad, al contener la regulación imprescindible y con el rango necesario para la consecución de los objetivos previamente mencionados, sin incremento de gasto público y sin restringir derechos de los ciudadanos ni imponerles obligaciones directas de ningún tipo.
+
+El presente real decreto refuerza el principio de seguridad jurídica, pues es coherente con la normativa en materia de organización y funcionamiento de los órganos colegiados y resulta preciso a fin de mejorar la operatividad del órgano.
+
+En cuanto al principio de transparencia, y dado que se trata de una norma puramente organizativa, su tramitación se encuentra exenta de la consulta pública previa y de los trámites de audiencia e información públicas.
+
+La norma pretende también lograr una aplicación más efectiva del principio de coordinación recogido en el artículo 3.1.k) de la Ley 40/2015, de 1 de octubre, como principio básico de actuación de la Administración General del Estado, de acuerdo, a su vez, con lo establecido en el artículo 103 de la Constitución.
+
+El refuerzo de esta coordinación servirá, igualmente, para potenciar el cumplimiento de los objetivos generales fijados por el Gobierno para la Administración periférica y, especialmente, para facilitar y dar mayor fluidez a las comunicaciones e intercambio de información entre la Administración periférica del Estado y los servicios centrales de los Departamentos ministeriales.
+
+Este real decreto está incluido en el Plan Anual Normativo de la Administración General del Estado para 2018.
+
+En su virtud, a propuesta de la Ministra de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 14 de septiembre de 2018,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto regular las atribuciones, la composición y el funcionamiento de la Comisión interministerial de coordinación de la Administración periférica del Estado, que se configura como el órgano colegiado responsable de coordinar la actuación de la Administración periférica del Estado con los distintos Departamentos ministeriales.
+
+## Artículo 2. Adscripción.
+
+La Comisión interministerial de coordinación de la Administración periférica del Estado se adscribe al Ministerio de Política Territorial, a través de la Secretaría de Estado de Política Territorial.
+
+> Se modifica por el art. único.1 del Real Decreto 667/2022, de 1 de agosto. [Ref. BOE-A-2022-14631](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14631)
+
+## Artículo 3. Estructura y régimen de funcionamiento.
+
+1\. La Comisión interministerial de coordinación de la Administración periférica del Estado funcionará en Pleno o en Comisión Permanente.
+
+2\. El Pleno se reunirá al menos una vez al año y, en todo caso, cuando lo estime necesario su Presidente.
+
+3\. En lo no previsto por el presente real decreto, la Comisión interministerial de coordinación de la Administración periférica del Estado, tanto en Pleno como en Comisión Permanente, ajustará su funcionamiento a las normas generales de actuación de los órganos colegiados dispuestas en la sección 3.ª del capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+## Artículo 4. Composición y funciones del Pleno.
+
+1\. El Pleno de la Comisión interministerial de coordinación de la Administración periférica del Estado estará compuesto por los siguientes miembros:
+
+a) Presidencia: la persona titular del Ministerio de Política Territorial.
+
+En caso de vacante, ausencia, enfermedad u otra causa legal, será sustituida por quien ostente la Vicepresidencia y, en su defecto, por el miembro del Pleno de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Vicepresidencia: la persona titular de la Secretaría de Estado de Política Territorial.
+
+c) Vocales:
+
+1.º La persona titular de la Secretaría General de Coordinación Territorial.
+
+2.º Las personas titulares de las Subsecretarías de todos los departamentos ministeriales.
+
+3.º Los Delegados del Gobierno en las comunidades autónomas y en las ciudades con estatuto de autonomía.
+
+4.º La persona titular de la Dirección General de la Administración General del Estado en el Territorio, del Ministerio de Política Territorial.
+
+d) Secretaría:
+
+La Secretaría de la Comisión interministerial será desempeñada por la persona titular de la Subdirección General de Relaciones Institucionales de la Administración General del Estado en el Territorio, que actuará con voz, pero sin voto.
+
+2\. En función de los asuntos a tratar, la persona titular de la Presidencia también podrá convocar a las reuniones a otros altos cargos de la Administración General del Estado y responsables de organismos públicos, que podrán participar con voz pero sin voto.
+
+3\. El Pleno de la Comisión interministerial de coordinación de la Administración Periférica del Estado tendrá las siguientes funciones:
+
+a) Mejorar la coordinación de la actuación de la Administración periférica del Estado con los Departamentos ministeriales y sus organismos públicos.
+
+b) Potenciar la comunicación y el intercambio de información entre la Administración periférica del Estado y los Ministerios y sus organismos públicos.
+
+c) Proponer criterios generales y líneas básicas de actuación de la Administración periférica del Estado en sus relaciones con otras Administraciones públicas.
+
+d) Emitir informe, cuando se solicite por los órganos competentes, en relación con los proyectos normativos relacionados con la Administración periférica del Estado.
+
+e) Establecer cauces de información en relación con las actuaciones y proyectos a desarrollar por los Departamentos ministeriales y sus organismos públicos, en el ámbito de la Administración periférica del Estado.
+
+f) Cuantas funciones sean necesarias para lograr el objetivo general de coordinación de la Administración periférica del Estado con los Departamentos ministeriales.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 667/2022, de 1 de agosto. [Ref. BOE-A-2022-14631](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14631)
+
+## Artículo 5. Composición y funciones de la Comisión Permanente
+
+1\. La Comisión Permanente estará compuesta por los siguientes miembros:
+
+a) Presidencia: la persona titular de la Secretaría General de Coordinación Territorial.
+
+En caso de vacante, ausencia, enfermedad u otra causa legal, será sustituida por quien ostente la Vicepresidencia y, en su defecto, por el miembro de la Comisión Permanente de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Vicepresidencia: la persona titular de la Dirección General de la Administración General del Estado en el Territorio.
+
+c) Vocales:
+
+1.º Las personas titulares de la Subdirección General de Coordinación de la Administración General en el Territorio y de la Subdirección General de Relaciones Institucionales de la Administración General del Estado en el Territorio.
+
+2.º Las personas titulares de las direcciones generales o subdirecciones generales de los departamentos ministeriales que ostenten competencias relacionadas con los asuntos a tratar, de acuerdo con el orden del día de la convocatoria. Serán convocados por la Presidencia a propuesta de su respectivo ministerio.
+
+d) Secretaría:
+
+La Secretaría de la Comisión Permanente será desempeñada por una persona con la condición de funcionario de la Subdirección General de Relaciones Institucionales de la Administración General del Estado en el Territorio, designada por la persona titular de la Secretaría General de Coordinación Territorial, que actuará con voz pero sin voto.
+
+2\. En función de los asuntos a tratar, la persona titular de la Presidencia de la Comisión Permanente también podrá convocar a las reuniones a otros representantes de la Administración General del Estado y de organismos públicos, que podrán participar con voz, pero sin voto.
+
+3\. La Comisión Permanente realizará los trabajos preparatorios de las sesiones a celebrar por el Pleno, así como cuantas funciones aquél le encomiende o delegue.
+
+4\. La Comisión Permanente establecerá los cauces de colaboración y coordinación con los órganos colegiados de asistencia a los Delegados del Gobierno establecidas en el artículo 79, apartados 1 y 2 de la Ley 40/2015, de 1 de octubre, especialmente para la realización de las funciones del apartado anterior.
+
+> Se modifica el apartado 1 y se añade el apartado 4 por el art. único.3 del Real Decreto 667/2022, de 1 de agosto. [Ref. BOE-A-2022-14631](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14631)
+
+## Disposición adicional única. Gastos de funcionamiento.
+
+El funcionamiento de la Comisión interministerial de coordinación de la Administración periférica del Estado no supondrá incremento de gasto público, y se atenderá con los medios personales, técnicos y presupuestarios asignados al Ministerio de Política Territorial y Función Pública.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a este real decreto y, en particular, el Real Decreto 119/2003, de 31 de enero, por el que se crea y regula la Comisión interministerial de coordinación de la Administración periférica del Estado.
+
+## Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 14 de septiembre de 2018.
+
+FELIPE R.
+
+La Ministra de Política Territorial y Función Pública,
+
+MERITXELL BATET LAMAÑA

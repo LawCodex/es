@@ -556,248 +556,6 @@ Los Registros de la Propiedad, Mercantiles y de Bienes Muebles se llevarán en f
 
 **(Derogado)**
 
-> Téngase en cuenta que este artículo se deroga con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.j) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
-
-> Redacción anterior:
-
-> La Ley 22/2003, de 9 de julio, Concursal, queda modificada en los siguientes términos:
-
-> Uno. Se modifica el apartado 1 del artículo 3 que queda redactado de la siguiente manera:
-
-> «1. Para solicitar la declaración de concurso están legitimados el deudor, cualquiera de sus acreedores y el mediador concursal cuando se trate del procedimiento regulado en el Título X de esta Ley.»
-
-> Dos. Se modifican los apartados 1, 3 y 4 del artículo 5 bis que quedan redactados de la siguiente manera:
-
-> «1. El deudor podrá poner en conocimiento del juzgado competente para la declaración de su concurso que ha iniciado negociaciones para alcanzar un acuerdo de refinanciación o para obtener adhesiones a una propuesta anticipada de convenio en los términos previstos en esta Ley.
-
-> En el caso en que solicite un acuerdo extrajudicial de pago, una vez que el mediador concursal propuesto acepte el cargo, el registrador mercantil o notario al que se hubiera solicitado la designación del mediador concursal deberá comunicar, de oficio, la apertura de las negociaciones al juzgado competente para la declaración de concurso.»
-
-> «3. El secretario judicial, sin más trámite, procederá a dejar constancia de la comunicación presentada por el deudor o, en los supuestos de negociación de un acuerdo extrajudicial de pago, por el notario o por el registrador mercantil.»
-
-> «4. Transcurridos tres meses de la comunicación al juzgado, el deudor, haya o no alcanzado un acuerdo de refinanciación, un acuerdo extrajudicial de pagos o las adhesiones necesarias para la admisión a trámite de una propuesta anticipada de convenio, deberá solicitar la declaración de concurso dentro del mes hábil siguiente, a menos que ya lo hubiera solicitado el mediador concursal o no se encontrara en estado de insolvencia.»
-
-> Tres. Se modifica el primer párrafo del apartado 3 del artículo 15 que queda redactado de la siguiente manera:
-
-> «3. Una vez realizada la comunicación prevista en el artículo 5 bis y mientras no transcurra el plazo de tres meses previsto en dicho precepto, no se admitirán solicitudes de concurso a instancia de otros legitimados distintos del deudor o, en el procedimiento previsto en el Título X de esta Ley, distintos del deudor o del mediador concursal.»
-
-> Cuatro. Se modifica el número 2.º del apartado 6 del artículo 71, que pasa a tener la siguiente redacción:
-
-> «2.º El acuerdo haya sido informado favorablemente por un experto independiente, que cumpla las condiciones del artículo 28, designado por el registrador mercantil del domicilio del deudor. Si el acuerdo de refinanciación afectara a varias sociedades del mismo grupo, el informe podrá ser único y elaborado por un solo experto, designado por el registrador del domicilio de la sociedad dominante, si estuviera afectada por el acuerdo o en su defecto por el del domicilio de cualquiera de las sociedades del grupo. El informe del experto contendrá un juicio técnico sobre la suficiencia de la información proporcionada por el deudor, sobre el carácter razonable y realizable del plan en las condiciones definidas en el párrafo primero y sobre la proporcionalidad de las garantías conforme a condiciones normales de mercado en el momento de la firma del acuerdo. Cuando el informe contuviera reservas o limitaciones de cualquier clase, su importancia deberá ser expresamente evaluada por los firmantes del acuerdo.»
-
-> Cinco. Se modifica el apartado 2 del artículo 178, que pasa a tener la siguiente redacción:
-
-> «2. La resolución judicial que declare la conclusión del concurso del deudor persona natural por liquidación de la masa activa declarará la remisión de las deudas insatisfechas, siempre que el concurso no hubiera sido declarado culpable ni condenado por el delito previsto por el artículo 260 del Código Penal o por cualquier otro delito singularmente relacionado con el concurso y que hayan sido satisfechos en su integridad los créditos contra la masa, y los créditos concursales privilegiados y, al menos, el 25 por ciento del importe de los créditos concursales ordinarios. Si el deudor hubiere intentado sin éxito el acuerdo extrajudicial de pagos, podrá obtener la remisión de los créditos restantes si hubieran sido satisfechos los créditos contra la masa y todos los créditos concursales privilegiados.»
-
-> Seis. Se modifica el apartado 1 del artículo 198 que queda redactado como sigue:
-
-> «1. El Registro Público Concursal se llevará bajo la dependencia del Ministerio de Justicia y constará de tres secciones:
-
-> a) En la sección primera, de edictos concursales, se insertarán ordenados por concursado y fechas, las resoluciones que deban publicarse conforme a lo previsto en el artículo 23 y en virtud de mandamiento remitido por el secretario judicial.
-
-> b) En la sección segunda, de publicidad registral, se harán constar, ordenadas por concursado y fechas, las resoluciones registrales anotadas o inscritas en todos los registros públicos de personas referidos en el artículo 24.1, 2 y 3, incluidas las que declaren concursados culpables o acuerden la designación o inhabilitación de los administradores concursales y en virtud de certificaciones remitidas de oficio por el encargado del registro una vez practicado el correspondiente asiento.
-
-> c) En la sección tercera, de acuerdos extrajudiciales, se hará constar la apertura de las negociaciones para alcanzar tales acuerdos y su finalización.»
-
-> Siete. Se añade un Título X a la Ley Concursal, con el siguiente contenido:
-
-> «TÍTULO X
-
-> El acuerdo extrajudicial de pagos
-
-> Artículo 231. Presupuestos.
-
-> 1\. El empresario persona natural que se encuentre en situación de insolvencia con arreglo a lo dispuesto en el artículo 2 de esta Ley, o que prevea que no podrá cumplir regularmente con sus obligaciones, podrá iniciar un procedimiento para alcanzar un acuerdo extrajudicial de pagos con sus acreedores, siempre que aportando el correspondiente balance, justifique que su pasivo no supera los cinco millones de euros.
-
-> A los efectos de este Título se considerarán empresarios personas naturales no solamente aquellos que tuvieran tal condición de acuerdo con la legislación mercantil, sino aquellos que ejerzan actividades profesionales o tengan aquella consideración a los efectos de la legislación de la Seguridad Social, así como los trabajadores autónomos.
-
-> 2\. También podrán instar el mismo acuerdo cualesquiera personas jurídicas, sean o no sociedades de capital, que cumplan las siguientes condiciones:
-
-> a) Se encuentren en estado de insolvencia.
-
-> b) En caso de ser declaradas en concurso, dicho concurso no hubiere de revestir especial complejidad en los términos previstos en el artículo 190 de esta Ley.
-
-> c) Que dispongan de activos líquidos suficientes para satisfacer los gastos propios del acuerdo.
-
-> d) Que su patrimonio y sus ingresos previsibles permitan lograr con posibilidades de éxito un acuerdo de pago en los términos que se recogen en el apartado 1 del artículo 236.
-
-> 3\. No podrán formular solicitud para alcanzar un acuerdo extrajudicial:
-
-> 1.º Quienes hayan sido condenados en sentencia firme por delito contra el patrimonio, contra el orden socioeconómico, de falsedad documental, contra la Hacienda Pública, la Seguridad Social o contra los derechos de los trabajadores.
-
-> 2.º Los sujetos a su inscripción obligatoria en el Registro Mercantil que no figurasen inscritos con antelación.
-
-> 3.º Las personas que en los tres ejercicios inmediatamente anteriores a la solicitud, estando obligadas legalmente a ello, no hubieren llevado contabilidad o hubieran incumplido en alguno de dichos ejercicios la obligación del depósito de las cuentas anuales.
-
-> 4.º Las personas que, dentro de los tres últimos años, hubieran alcanzado un acuerdo extrajudicial con los acreedores, hubieran obtenido la homologación judicial de un acuerdo de refinanciación o hubieran sido declaradas en concurso de acreedores.
-
-> 4\. No podrán acceder al acuerdo extrajudicial de pagos quienes se encuentren negociando con sus acreedores un acuerdo de refinanciación o cuya solicitud de concurso hubiera sido admitida a trámite.
-
-> 5\. Tampoco será posible iniciar el acuerdo extrajudicial si cualquiera de los acreedores del deudor, que necesariamente debieran verse vinculados por el acuerdo, hubiera sido declarado en concurso.
-
-> Los créditos de derecho público no podrán verse afectados por el acuerdo extrajudicial. Los créditos con garantía real únicamente podrán incorporarse al acuerdo extrajudicial y verse afectados por el mismo si así lo decidiesen los acreedores que ostentan su titularidad, mediante la comunicación expresa prevista por el apartado 4 del artículo 234.
-
-> No podrán acudir al procedimiento previsto en este Título las entidades aseguradoras y reaseguradoras.
-
-> Artículo 232. Solicitud de acuerdo extrajudicial de pagos.
-
-> 1\. El deudor que pretenda alcanzar con sus acreedores un acuerdo extrajudicial de pagos solicitará el nombramiento de un mediador concursal.
-
-> Si el deudor fuere persona jurídica, será competente para decidir sobre la solicitud el órgano de administración o el liquidador.
-
-> 2\. La solicitud se hará mediante instancia suscrita por el deudor, en la que el deudor hará constar el efectivo y los activos líquidos de que dispone, los bienes y derechos de que sea titular, los ingresos regulares previstos, una lista de acreedores con expresión de la cuantía y vencimiento de los respectivos créditos, una relación de los contratos vigentes y una relación de gastos mensuales previstos. Esta lista de acreedores también comprenderá a los titulares de préstamos o créditos con garantía real o de derecho público sin perjuicio de que puedan no verse afectados por el acuerdo.
-
-> Si el deudor fuere persona casada, salvo que se encuentre en régimen de separación de bienes, indicará la identidad del cónyuge, con expresión del régimen económico del matrimonio, y si estuviera legalmente obligado a la llevanza de contabilidad, acompañará asimismo las cuentas anuales correspondientes a los tres últimos ejercicios.
-
-> 3\. En caso de que los deudores sean empresarios o entidades inscribibles, se solicitará la designación del mediador al Registrador Mercantil correspondiente al domicilio del deudor mediante instancia que podrá ser cursada telemáticamente, el cual procederá a la apertura de la hoja correspondiente, en caso de no figurar inscrito. En los demás casos, se solicitará la designación al notario del domicilio del deudor. La solicitud se inadmitirá cuando el deudor no justifique el cumplimiento de los requisitos legalmente exigidos para alcanzar un acuerdo extrajudicial, cuando el deudor se encuentre en alguna situación de las previstas en los apartados 3 ó 4 del artículo 231 de esta Ley y cuando faltare alguno de los documentos exigidos o los presentados fueran incompletos.
-
-> Artículo 233. Nombramiento de mediador concursal.
-
-> 1\. El nombramiento de mediador concursal habrá de recaer en la persona natural o jurídica a la que de forma secuencial corresponda de entre las que figuren en la lista oficial que se publicará en el portal correspondiente del «Boletín Oficial del Estado», la cual será suministrada por el Registro de Mediadores e Instituciones de Mediación del Ministerio de Justicia.
-
-> El mediador concursal deberá reunir, además de esta condición de acuerdo con la Ley 5/2012, de 6 de julio, de mediación en asuntos civiles y mercantiles, alguna de las que se indican en el apartado 1 del artículo 27.
-
-> En todo lo no previsto en esta Ley en cuanto al mediador concursal, se estará a lo dispuesto en materia de nombramiento de expertos independientes.
-
-> 2\. Al aceptar el nombramiento, el mediador concursal deberá facilitar al registrador mercantil o notario una dirección electrónica que cumpla con las condiciones establecidas en el artículo 29.6 de esta Ley, en la que los acreedores podrán realizar cualquier comunicación o notificación.
-
-> 3\. El registrador o el notario procederá al nombramiento de mediador concursal. Una vez que el mediador concursal acepte el cargo, el registrador mercantil o el notario dará cuenta del hecho por certificación o copia remitidas a los registros públicos de bienes competentes para su constancia por anotación preventiva en la correspondiente hoja registral, así como al Registro Civil y a los demás registros públicos que corresponda, comunicará de oficio la apertura de negociaciones al juez competente para la declaración de concurso y ordenará su publicación en el “Registro Público Concursal”.
-
-> 4\. Asimismo, dirigirá una comunicación por medios electrónicos a la Agencia Estatal de la Administración Tributaria y a la Tesorería General de la Seguridad Social a través de los medios que éstas habiliten en sus respectivas sedes electrónicas, conste o no su condición de acreedoras, en la que deberá hacer constar la identificación del deudor con su nombre y Número de Identificación Fiscal y la del mediador con su nombre, Número de Identificación Fiscal y dirección electrónica, así como la fecha de aceptación del cargo por éste. Igualmente se remitirá comunicación a la representación de los trabajadores, si la hubiere, haciéndoles saber de su derecho a personarse en el procedimiento.
-
-> Artículo 234. Convocatoria a los acreedores.
-
-> 1\. En los diez días siguientes a la aceptación del cargo, el mediador concursal comprobará la existencia y la cuantía de los créditos y convocará al deudor y a los acreedores que figuren en la lista presentada por el deudor, siempre que puedan resultar afectados por el acuerdo, a una reunión que se celebrará dentro de los dos meses siguientes a la aceptación, en la localidad donde el deudor tenga su domicilio. Se excluirá en todo caso de la convocatoria a los acreedores de derecho público.
-
-> 2\. La convocatoria se realizará por conducto notarial, por cualquier medio de comunicación, individual y escrita, que asegure la recepción. Si constara la dirección electrónica de los acreedores por haberla facilitado éstos al mediador concursal en los términos que se indican en el apartado 4 del artículo 235, la comunicación deberá realizarse a la citada dirección electrónica.
-
-> 3\. La convocatoria deberá expresar el lugar, día y hora de la reunión, la finalidad de alcanzar un acuerdo de pago y la identidad de cada uno de los acreedores convocados, con expresión de la cuantía del crédito, la fecha de concesión y de vencimiento y las garantías personales o reales constituidas.
-
-> 4\. Una vez recibida la convocatoria, los acreedores titulares de créditos con garantía real que voluntariamente quisieran intervenir en el acuerdo extrajudicial deberán comunicárselo expresamente al mediador en el plazo de un mes.
-
-> Artículo 235. Efectos de la iniciación del expediente.
-
-> 1\. Una vez solicitada la apertura del expediente, el deudor podrá continuar con su actividad laboral, empresarial o profesional. Desde la presentación de la solicitud, el deudor se abstendrá de solicitar la concesión de préstamos o créditos, devolverá a la entidad las tarjetas de crédito de que sea titular y se abstendrá de utilizar medio electrónico de pago alguno.
-
-> 2\. Desde la publicación de la apertura del expediente y por parte de los acreedores que pudieran verse afectados por el posible acuerdo extrajudicial de pagos, no podrá iniciarse ni continuarse ejecución alguna sobre el patrimonio del deudor mientras se negocia el acuerdo extrajudicial hasta un plazo máximo de tres meses. Se exceptúan los acreedores de créditos con garantía real, en cuyo caso, el inicio o continuación de la ejecución dependerá de la decisión del acreedor. El acreedor con garantía real que decida iniciar o continuar el procedimiento no podrá participar en el acuerdo extrajudicial. Practicada la correspondiente anotación de la apertura del procedimiento en los registros públicos de bienes, no podrán anotarse respecto de los bienes del deudor instante embargos o secuestros posteriores a la presentación de la solicitud del nombramiento de mediador concursal, salvo los que pudieran corresponder en el curso de procedimientos seguidos por los acreedores de derecho público y los acreedores titulares de créditos con garantía real que no participen en el acuerdo extrajudicial.
-
-> 3\. Desde la publicación de la apertura del expediente, los acreedores que puedan verse afectados por el acuerdo deberán abstenerse de realizar acto alguno dirigido a mejorar la situación en que se encuentren respecto del deudor común.
-
-> 4\. Desde la publicación de la apertura del expediente, los acreedores que lo estimen oportuno podrán facilitar al mediador concursal una dirección electrónica para que éste les practique cuantas comunicaciones sean necesarias o convenientes, produciendo plenos efectos las que se remitan a la dirección facilitada.
-
-> 5\. El acreedor que disponga de garantía personal para la satisfacción del crédito podrá ejercitarla siempre que el crédito contra el deudor hubiera vencido. En la ejecución de la garantía, los garantes no podrán invocar la solicitud del deudor en perjuicio del ejecutante.
-
-> 6\. El deudor que se encontrase negociando un acuerdo extrajudicial no podrá ser declarado en concurso, en tanto no concurran las circunstancias previstas en el artículo 5 bis.
-
-> Artículo 236. El plan de pagos.
-
-> 1\. Tan pronto como sea posible, y en cualquier caso con una antelación mínima de veinte días naturales a la fecha prevista para la celebración de la reunión, el mediador concursal remitirá a los acreedores, con el consentimiento del deudor, un plan de pagos de los créditos pendientes de pago a la fecha de la solicitud, en el que la espera o moratoria no podrá superar los tres años y en el que la quita o condonación no podrá superar el 25 por ciento del importe de los créditos.
-
-> El plan de pagos se acompañará de un plan de viabilidad y contendrá una propuesta de cumplimiento regular de las nuevas obligaciones, incluyendo, en su caso, la fijación de una cantidad en concepto de alimentos para el deudor y su familia, y de un plan de continuación de la actividad profesional o empresarial que desarrollara.
-
-> El plan de pagos incluirá necesariamente una propuesta de negociación de las condiciones de los préstamos y créditos así como copia del acuerdo o solicitud de aplazamiento de los créditos de derecho público o, al menos, de las fechas de pago de los mismos, si no van a satisfacerse en sus plazos de vencimiento.
-
-> 2\. La propuesta podrá consistir también en la cesión de bienes a los acreedores en pago de las deudas.
-
-> 3\. Dentro de los diez días naturales posteriores al envío de la propuesta de acuerdo por el mediador concursal a los acreedores, éstos podrán presentar propuestas alternativas o propuestas de modificación. Transcurrido el plazo citado, el mediador concursal remitirá a los acreedores el plan de pagos y viabilidad final aceptado por el deudor.
-
-> 4\. El mediador concursal deberá solicitar de inmediato la declaración de concurso de acreedores si, dentro del plazo mencionado en el apartado 3 de este artículo, decidieran no continuar con las negociaciones los acreedores que representasen al menos la mayoría del pasivo que necesariamente pudiera verse afectado por el acuerdo, excluidos los créditos con garantía real cuyos titulares no hubiesen comunicado su voluntad de intervenir en el mismo o cualquier acreedor de derecho público.
-
-> Artículo 237. La reunión de los acreedores.
-
-> 1\. Los acreedores convocados deberán asistir a la reunión, salvo los que hubiesen manifestado su aprobación u oposición dentro de los diez días naturales anteriores a la reunión. Con excepción de los que tuvieran constituido a su favor garantía real, los créditos de que fuera titular el acreedor que, habiendo recibido la convocatoria, no asista a la reunión y no hubiese manifestado su aprobación u oposición dentro de los diez días naturales anteriores, se calificarán como subordinados en el caso de que, fracasada la negociación, fuera declarado el concurso del deudor común.
-
-> 2\. El plan de pagos y el plan de viabilidad podrán ser modificados en la reunión, siempre que no se alteren las condiciones de pago de los acreedores que, por haber manifestado su aprobación dentro de los diez días naturales anteriores, no hayan asistido a la reunión.
-
-> Artículo 238. El acuerdo extrajudicial de pagos.
-
-> 1\. Para que el plan de pagos se considere aceptado, será necesario que voten a favor del mismo acreedores que sean titulares, al menos, del 60 por ciento del pasivo. En el caso de que el plan de pagos consista en la cesión de bienes del deudor en pago de deudas, dicho plan deberá contar con la aprobación de acreedores que representen el setenta y cinco por ciento del pasivo y del acreedor o acreedores que, en su caso, tengan constituida a su favor una garantía real sobre estos bienes. En ambos supuestos, para la formación de estas mayorías se tendrá en cuenta exclusivamente el pasivo que vaya a verse afectado por el acuerdo y a los acreedores del mismo.
-
-> 2\. Si el plan fuera aceptado por los acreedores, el acuerdo se elevará inmediatamente a escritura pública, que cerrará el expediente que el notario hubiera abierto. Para los abiertos por el registrador mercantil, se presentará ante el Registro Mercantil copia de la escritura para que el registrador pueda cerrar el expediente. Por el notario o el registrador se comunicará el cierre del expediente al juzgado que hubiera de tramitar el concurso. Igualmente se dará cuenta del hecho por certificación o copia remitidas a los registros públicos de bienes competentes para la cancelación de las anotaciones practicadas. Asimismo, publicará la existencia del acuerdo en el «Boletín Oficial del Estado» y en el Registro Público Concursal por medio de un anuncio que contendrá los datos que identifiquen al deudor, incluyendo su Número de Identificación Fiscal, el registrador o notario competente, el número de expediente de nombramiento del mediador, el nombre del mediador concursal, incluyendo su Número de Identificación Fiscal, y la indicación de que el expediente está a disposición de los acreedores interesados en el Registro Mercantil o Notaría correspondiente para la publicidad de su contenido.
-
-> 3\. Si el plan no fuera aceptado, y el deudor continuara incurso en insolvencia, el mediador concursal solicitará inmediatamente del juez competente la declaración de concurso, que el juez acordará también de forma inmediata. En su caso, instará también del juez la conclusión del concurso por insuficiencia de masa activa en los términos previstos en el artículo 176 bis de esta Ley.
-
-> Artículo 239. Impugnación del acuerdo.
-
-> 1\. Dentro de los diez días siguientes a la publicación, el acreedor que no hubiera sido convocado o no hubiera votado a favor del acuerdo o hubiera manifestado con anterioridad su oposición en los términos establecidos en el artículo 237.1 podrá impugnarlo ante el juzgado que fuera competente para conocer del concurso del deudor.
-
-> 2\. La impugnación no suspenderá la ejecución del acuerdo y solo podrá fundarse en la falta de concurrencia de las mayorías exigidas para la adopción del acuerdo teniendo en cuenta, en su caso, a los acreedores no convocados, en la superación de los límites establecidos por el artículo 236.1 o en la desproporción de la quita o moratoria exigidas.
-
-> 3\. Todas las impugnaciones se tramitarán conjuntamente por el procedimiento del incidente concursal.
-
-> 4\. La sentencia de anulación del acuerdo se publicará en el «Boletín Oficial del Estado» y en el Registro Público Concursal.
-
-> 5\. La sentencia que resuelva sobre la impugnación será susceptible de recurso de apelación de tramitación preferente.
-
-> 6\. La anulación del acuerdo dará lugar a la sustanciación del concurso consecutivo regulado en el artículo 242.
-
-> Artículo 240. Efectos del acuerdo sobre los acreedores.
-
-> 1\. Ningún acreedor afectado por el acuerdo podrá iniciar o continuar ejecuciones contra el deudor por deudas anteriores a la publicación de la apertura del expediente. El deudor podrá solicitar la cancelación de los correspondientes embargos del juez que los hubiera ordenado.
-
-> 2\. Por virtud del acuerdo extrajudicial, los créditos quedarán aplazados y remitidos conforme a lo pactado.
-
-> En caso de cesión de bienes a los acreedores, los créditos se considerarán extinguidos en todo o en parte, según lo acordado.
-
-> 3\. Los acreedores conservarán las acciones que les correspondan por la totalidad de los créditos contra los obligados solidarios y los garantes personales del deudor.
-
-> Artículo 241. Cumplimiento e incumplimiento del acuerdo.
-
-> 1\. El mediador concursal deberá supervisar el cumplimiento del acuerdo.
-
-> 2\. Si el plan de pagos fuera íntegramente cumplido, el mediador concursal lo hará constar en acta notarial que se publicará en el «Boletín Oficial del Estado» y en el Registro Público Concursal.
-
-> 3\. Si el acuerdo extrajudicial de pagos fuera incumplido, el mediador concursal deberá instar el concurso, considerándose que el deudor incumplidor se encuentra en estado de insolvencia.
-
-> Artículo 242. Especialidades del concurso consecutivo.
-
-> 1\. Tendrá la consideración de concurso consecutivo el que se declare a solicitud del mediador concursal, del deudor o de los acreedores por la imposibilidad de alcanzar un acuerdo extrajudicial de pagos o por incumplimiento del plan de pagos acordado.
-
-> Igualmente tendrá la consideración de concurso consecutivo el que sea consecuencia de la anulación del acuerdo extrajudicial alcanzado.
-
-> 2\. En el concurso consecutivo, salvo el supuesto de insuficiencia de masa activa en los términos previstos en el artículo 176 bis de la Ley, se abrirá necesaria y simultáneamente la fase de liquidación, de conformidad con lo dispuesto en el Título V de esta Ley, con las especialidades siguientes:
-
-> 1.ª Salvo justa causa, el juez designará administrador del concurso al mediador concursal, quien no podrá percibir por este concepto más retribución que la que le hubiera sido fijada en el expediente de arreglo extrajudicial a menos que atendidas circunstancias excepcionales el juez acordare otra cosa.
-
-> 2.ª Tendrán también la consideración de créditos contra la masa los gastos del expediente extrajudicial y los demás créditos que, conforme al artículo 84 de esta Ley, tengan la consideración de créditos contra la masa, que se hubiesen generado durante la tramitación del expediente extrajudicial, que no hubieran sido satisfechos.
-
-> 3.ª El plazo de dos años para la determinación de los actos rescindibles se contará desde la fecha de la solicitud del deudor al registrador mercantil o notario.
-
-> 4.ª No necesitarán solicitar reconocimiento los titulares de créditos que hubieran firmado el acuerdo extrajudicial.
-
-> 5.ª En el caso de deudor empresario persona natural, si el concurso se calificara como fortuito, el juez declarará la remisión de todas las deudas que no sean satisfechas en la liquidación, con excepción de las de Derecho público siempre que sean satisfechos en su integridad los créditos contra la masa y los créditos concursales privilegiados.»
-
-> Ocho. Se introduce una nueva disposición adicional con la siguiente redacción:
-
-> «Disposición adicional séptima. Tratamiento de créditos de derecho público en caso de acuerdo extrajudicial de pagos.
-
-> 1\. Lo dispuesto en el Título X de esta Ley no resultará de aplicación a los créditos de derecho público para cuya gestión recaudatoria resulte de aplicación lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria o en el Real Decreto legislativo 1/1994, de 20 de junio, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social.
-
-> 2\. El deudor persona natural o jurídica al que se refiere el artículo 231 que tuviera deudas de las previstas en el apartado anterior, una vez admitida la solicitud de acuerdo extrajudicial de pagos regulada en el artículo 232, deberá solicitar de la Administración Pública competente un aplazamiento o fraccionamiento de pago comprensivo de las deudas que, a dicha fecha, se encontrasen pendientes de ingreso, siempre que no tuviera previsto efectuar el mismo en el plazo establecido en la normativa aplicable.
-
-> 3\. Tratándose de deudas con la Hacienda Pública la tramitación de las solicitudes de aplazamiento o fraccionamiento a que se refiere el apartado anterior se regirá por lo dispuesto en la Ley General Tributaria y en su normativa de desarrollo, con las siguientes especialidades:
-
-> a) El acuerdo de resolución del aplazamiento o fraccionamiento sólo podrá dictarse cuando el acuerdo extrajudicial de pagos haya sido formalizado. No obstante, será posible resolver antes de la concurrencia de tal circunstancia si transcurren tres meses desde la presentación de la solicitud sin que se haya publicado en el «Boletín Oficial del Estado» la existencia de tal acuerdo o se declarara el concurso.
-
-> b) El acuerdo de concesión del aplazamiento o fraccionamiento, salvo que razones de cuantía discrecionalmente apreciadas por la Administración determinen lo contrario, tendrá como referencia temporal máxima la contemplada en el acuerdo extrajudicial de pagos, si bien la periodicidad de los plazos podrá ser diferente.
-
-> Los aplazamientos y fraccionamientos de pago en su día concedidos y vigentes a la fecha de presentación de la solicitud de aplazamiento o fraccionamiento a que se refiere el apartado 2 anterior continuarán surtiendo plenos efectos, sin perjuicio de las peticiones de modificación en sus condiciones que puedan presentarse, en cuyo caso las deudas a que las mismas se refiriesen se incorporarán a la citada solicitud.
-
-> En todo caso se incorporarán a la solicitud de aplazamiento o fraccionamiento las deudas que a la fecha de presentación de la misma estuvieran incluidas en solicitudes pendientes de resolución.
-
-> 4\. Tratándose de deudas con la Seguridad Social la tramitación de las solicitudes de aplazamiento o fraccionamiento a que se refiere el apartado 2 anterior se regirá por lo dispuesto en el Texto refundido de la Ley de la Seguridad Social y en su normativa de desarrollo, con las siguientes especialidades:
-
-> a) El acuerdo de resolución del aplazamiento sólo podrá dictarse cuando el acuerdo extrajudicial de pagos haya sido formalizado. No obstante, será posible resolver antes de la concurrencia de tal circunstancia si transcurren tres meses desde la presentación de la solicitud sin que se haya publicado en el «Boletín Oficial del Estado» la existencia de tal acuerdo o se declarara el concurso.
-
-> b) El acuerdo de concesión del aplazamiento, salvo que razones de cuantía discrecionalmente apreciadas por la Administración determinen lo contrario, tendrá como referencia temporal máxima la contemplada en el acuerdo extrajudicial de pagos, si bien la periodicidad de los plazos podrá ser diferente.
-
-> En el caso de que el sujeto responsable tuviese aplazamiento de pago vigente a la fecha de la presentación de la solicitud del acuerdo extrajudicial, el mismo continuará surtiendo plenos efectos, sin perjuicio de las reconsideraciones o modificaciones que puedan solicitarse a efectos de incluir en el aplazamiento algún periodo de deuda corriente o de alterar alguna de las condiciones de amortización, respectivamente.»
-
-> Nueve. Se introduce una nueva disposición adicional con la siguiente redacción:
-
-> «Disposición adicional octava. Remuneración de los mediadores concursales.
-
-> Serán de aplicación a la remuneración de los mediadores concursales a los que se refiere la presente Ley las normas establecidas o que se establezcan para la remuneración de los administradores concursales.»
-
 > Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.j) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
 
 ##### Artículo 22. Servicios de los Puntos de Atención al Emprendedor.
@@ -1300,16 +1058,6 @@ Los contribuyentes que obtengan ganancias patrimoniales que se pongan de manifie
 
 **(Derogado)**
 
-> Téngase en cuenta que este artículo derogado por la disposición derogatoria única.b) Real Decreto-ley 13/2022, de 26 de julio de 2022. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482) , entra en vigor el 1 de enero de 2023 según establece su disposición final 5.
-
-> Redacción anterior:
-
-> "1. Los trabajadores que causen alta por primera vez en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos y con motivo de la misma inicien una situación de pluriactividad a partir de la entrada en vigor de esta norma, podrán elegir como base de cotización en ese momento, la comprendida entre el 50 por ciento de la base mínima de cotización establecida anualmente con carácter general en la Ley de Presupuestos Generales del Estado durante los primeros dieciocho meses, y el 75 por ciento durante los siguientes dieciocho meses, hasta las bases máximas establecidas para este Régimen Especial.
-
-> 2\. En los supuestos de trabajadores en situación de pluriactividad en que la actividad laboral por cuenta ajena lo fuera a tiempo parcial con una jornada a partir del 50 por ciento de la correspondiente a la de un trabajador con jornada a tiempo completo comparable, se podrá elegir en el momento del alta, como base de cotización la comprendida entre el 75 por ciento de la base mínima de cotización establecida anualmente con carácter general en la Ley de Presupuestos Generales del Estado durante los primeros dieciocho meses, y el 85 por ciento durante los siguientes dieciocho meses, hasta las bases máximas establecidas para este Régimen Especial.
-
-> 3\. La aplicación de esta medida será incompatible con cualquier otra bonificación o reducción establecida como medida de fomento del empleo autónomo, así como con lo previsto en el artículo 113 Cinco.7 de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, o artículos equivalentes de las sucesivas Leyes de Presupuestos Generales del Estado."
-
 > Se deroga, con efectos desde el 1 de enero de 2023, por la disposición derogatoria única.b) Real Decreto-ley 13/2022, de 26 de julio de 2022. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ##### Artículo 29. Reducciones a la Seguridad Social aplicables a los trabajadores por cuenta propia.
@@ -1368,40 +1116,6 @@ Lo previsto en este apartado no resultará de aplicación a los trabajadores por
 
 **(Derogado)**
 
-> Téngase en cuenta que este artículo se deroga con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.j) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
-
-> Redacción anterior:
-
-> La Ley 22/2003, de 9 de julio, Concursal, queda modificada como sigue:
-
-> Uno. Se introduce un nuevo artículo 71 bis con la siguiente redacción:
-
-> «Artículo 71 bis. Nombramiento del experto por el Registrador.
-
-> El nombramiento del experto independiente que hubiere de verificar los acuerdos de refinanciación se ajustará a las siguientes previsiones:
-
-> 1\. Será competente para su tramitación el registrador mercantil del domicilio del deudor. Si se tratare de un acuerdo de grupo y el informe hubiere de ser único, el experto será designado por el registrador del domicilio de la sociedad dominante, de estar afectada por el acuerdo y, en su defecto, por el del domicilio de cualquiera de las sociedades del grupo.
-
-> 2\. La solicitud del nombramiento se hará mediante instancia firmada por el deudor, incluso antes de que esté concluido el acuerdo y redactado un plan definitivo, que puede ser cumplida telemáticamente y dirigida al registrador mercantil competente, suscrita por el solicitante o solicitantes del grupo y en la que expresarán las circunstancias siguientes:
-
-> 1.º La denominación y los datos de identificación registral, en su caso, del solicitante o solicitantes, así como su respectivo domicilio. La solicitud precisará en todo caso el ámbito de las sociedades afectadas con suficiente indicación de las relaciones de grupo existentes así como un detalle suficiente del estado de las negociaciones pendientes o concluidas que permita formarse una idea del grupo de acreedores cuya adhesión se contempla.
-
-> 2.º Los documentos necesarios para que el experto pueda pronunciarse. En el caso de que no se hubiera suscrito aún el acuerdo y estuviere pendiente su negociación deberá acompañarse un proyecto de acuerdo y del plan de viabilidad o, al menos, el acuerdo marco o pacto preliminar en que se fijan las condiciones de la negociación.
-
-> 3.º Una relación de acreedores del deudor y de las entidades afectadas del grupo, por orden alfabético y en los términos previstos en el artículo 6 de la Ley Concursal.
-
-> 3\. El Registrador, antes de proceder al nombramiento, podrá solicitar varios presupuestos a uno o a varios profesionales idóneos y antes de decidirse sobre el más adecuado.
-
-> 4\. Son causas de incompatibilidad para ser nombrado experto las establecidas para los auditores en la legislación de auditoría de cuentas. No puede ser nombrado experto independiente el auditor que lo fuere del deudor o de cualquiera de las sociedades del grupo afectadas ni tampoco quien hubiere elaborado el propio plan de viabilidad.
-
-> 5\. El informe deberá ser emitido en el plazo que hubiere señalado el solicitante y en todo caso en el de un mes, contado desde la aceptación del nombramiento y sin perjuicio de la posibilidad de prórroga o prórrogas sucesivas por causas justificadas. Si el informe no fuera emitido en plazo se entenderá caducado el encargo, procediéndose por el registrador a un nuevo nombramiento.
-
-> 6\. Podrá nombrarse al mismo experto en cualquier otra refinanciación que se plantee con posterioridad a la primera o anterior refinanciación acordada por el mismo deudor y grupo aunque cambien parte de los acreedores firmantes.»
-
-> Dos. El apartado 1 de la disposición adicional cuarta queda redactado del siguiente modo:
-
-> «1. Podrá homologarse judicialmente el acuerdo de refinanciación que habiendo sido suscrito por acreedores que representen al menos el 55 por ciento del pasivo titularidad de entidades financieras, reúna en el momento de adopción del acuerdo, las condiciones del artículo 71.6 de la presente Ley relativas a designación de experto independiente y elevación a instrumento público. Por la homologación judicial los efectos de la espera pactada para las entidades financieras que lo hayan suscrito se extienden a las restantes entidades financieras acreedoras no participantes o disidentes cuyos créditos no estén dotados de garantía real.»
-
 > Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.j) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
 
 ##### Artículo 32. Modificación de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
@@ -1429,146 +1143,6 @@ Dos. Se modifica el apartado cuarto del artículo 13, del siguiente modo:
 ##### Artículo 34. Cédulas y bonos de internacionalización.
 
 **(Derogado).**
-
-> Téngase en cuenta que esta derogación establecida por la disposición derogatoria única.d) del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910) en la redacción dada a su disposición final 10 por la disposición final 6.4 del Real Decreto-ley 29/2021, de 21 de diciembre. [Ref. BOE-A-2021-21096](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21096), entra en vigor el 8 de julio de 2022.
-
-> Redacción anterior:
-
-> **Artículo 34. Cédulas y bonos de internacionalización.**
-
-> 1\. Las entidades que a continuación se detallan, podrán emitir cédulas y bonos de internacionalización regulados por la presente Ley, en las condiciones que reglamentariamente se determinen:
-
-> a) los bancos y el Instituto de Crédito Oficial,
-
-> b) las cajas de ahorro,
-
-> c) las cooperativas de crédito,
-
-> d) los establecimientos financieros de crédito.
-
-> 2\. Las entidades citadas en el apartado 1 podrán emitir valores de renta fija con la denominación exclusiva de «Cédulas de Internacionalización» o de «Bonos de Internacionalización», en serie o singularmente y con las características financieras que determinen, con arreglo a lo que dispone esta Ley. En particular, las cédulas y bonos de internacionalización podrán incluir cláusulas de amortización anticipada a disposición del emisor según lo especificado en los términos de la emisión. La realización de estas emisiones se ajustará al régimen previsto en la Ley 24/1988, de 28 de julio, del Mercado de Valores, siempre que, de acuerdo con ésta, resulte de aplicación.
-
-> 3\. El capital y los intereses de las cédulas de internacionalización estarán especialmente garantizados por todos los créditos y préstamos vinculados a la financiación de contratos de exportación de bienes y servicios o a la internacionalización de empresas que cumplan los requisitos establecidos en los apartados 6 y 7, que en cada momento consten como activo en el balance de la entidad emisora y no estén afectados a la emisión de bonos de internacionalización y, si existen, por los activos de sustitución contemplados en el apartado 9 y por los flujos económicos generados por los instrumentos financieros derivados vinculados a cada emisión, en las condiciones que reglamentariamente se determinen. Todo ello sin perjuicio de la responsabilidad patrimonial universal del emisor.
-
-> 4\. El capital y los intereses de los bonos de internacionalización estarán especialmente garantizados por los préstamos y créditos vinculados a la financiación de contratos de exportación de bienes y servicios o a la internacionalización de empresas que cumplan los requisitos establecidos en el apartado 8, que se afecten en escritura pública y, si existen, por los activos de sustitución contemplados en el apartado 9 que se afecten en escritura pública y por los flujos económicos generados por los instrumentos financieros derivados vinculados a cada emisión que se afecten en escritura pública, en las condiciones que reglamentariamente se determinen. Todo ello sin perjuicio de la responsabilidad patrimonial universal del emisor.
-
-> 5\. Podrá constituirse un sindicato de tenedores de bonos, cuando estos se emitan en serie, en cuyo caso la entidad emisora designará un comisario que concurra al otorgamiento de la escritura pública mencionada en el apartado 4 de este artículo en nombre de los futuros tenedores de bonos. Dicha persona, cuyo nombramiento deberá ser ratificado por la asamblea de tenedores de bonos, será presidente del sindicato, y, además de las facultades que le hayan sido conferidas en dicha escritura o las que le atribuya la citada asamblea, tendrá la representación legal del sindicato, podrá comprobar que por la entidad se mantiene el porcentaje a que se refiere el apartado 12, y ejercitar las acciones que correspondan a aquél.
-
-> El Presidente, así como el sindicato en todo lo relativo a su composición, facultades y competencias se regirán por las disposiciones del Título XI del Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el Texto Refundido de la Ley de Sociedades de Capital, en cuanto que no se opongan a las contenidas en esta Ley.
-
-> 6\. Podrán garantizar las emisiones de cédulas de internacionalización los siguientes préstamos y créditos, o la parte de los mismos, que consten como activo en el balance de la entidad emisora y cumplan con los requisitos siguientes:
-
-> a) estar vinculados a la financiación de contratos de exportación de bienes y servicios españoles o de otra nacionalidad o a la internacionalización de las empresas residentes en España o en otros países,
-
-> b) tengan una alta calidad crediticia, y
-
-> c) concurra alguna de las circunstancias siguientes:
-
-> 1.º hayan sido concedidos a administraciones centrales, bancos centrales, administraciones regionales, autoridades locales o entidades del sector público de la Unión Europea; siempre que el prestatario no sea una entidad del sector público español.
-
-> 2.º hayan sido concedidos a administraciones centrales, bancos centrales, administraciones regionales, autoridades locales o entidades del sector público no pertenecientes a la Unión Europea o a bancos multilaterales de desarrollo u organizaciones internacionales.
-
-> 3.º con independencia del prestatario, cuenten con garantías personales, incluidas las derivadas de seguros de crédito, de administraciones centrales, bancos centrales, administraciones regionales, autoridades locales, entidades del sector público o agencias de crédito a la exportación u organismo de análoga naturaleza que actúen por cuenta de una Administración Pública, siempre que el garante o asegurador esté situado en la Unión Europea.
-
-> 4.º con independencia del prestatario, cuenten con garantías personales, incluidas las derivadas de seguros de crédito, de administraciones centrales, bancos centrales, administraciones regionales, autoridades locales, entidades del sector público o agencias de crédito a la exportación u organismos de análoga naturaleza que actúen por cuenta de una Administración Pública, no pertenecientes a la Unión Europea, o de bancos multilaterales de desarrollo u organizaciones internacionales.
-
-> Asimismo podrán garantizar las emisiones de cédulas de internacionalización los activos de sustitución contemplados en el apartado 9 y los flujos económicos generados por los instrumentos financieros derivados vinculados a cada emisión, y en particular, los que sirvan de cobertura del riesgo de tipo de cambio y del riesgo de tipo de interés, en las condiciones que reglamentariamente se determinen.
-
-> 7\. A efectos de lo dispuesto en la letra b) del apartado 6 se considerarán préstamos y créditos de alta calidad crediticia:
-
-> a) los contemplados en el punto 1.º de la letra c) del apartado 6,
-
-> b) los contemplados en el punto 2.º de la letra c) del apartado 6 siempre que el prestatario tenga la calidad crediticia mínima exigible para que la cédula o bono de internacionalización pueda recibir el tratamiento preferencial concedido a los bonos garantizados en la normativa de solvencia de las entidades de crédito,
-
-> c) los contemplados en el punto 3.º de la letra c) del apartado 6,
-
-> d) los contemplados en el punto 4.º de la letra c) del apartado 6, siempre que el garante o asegurador tenga la calidad crediticia mínima exigible para que la cédula o bono de internacionalización pueda recibir el tratamiento preferencial concedido a los bonos garantizados en la normativa de solvencia de las entidades de crédito.
-
-> El Ministro de Economía y Competitividad podrá fijar requisitos más estrictos para que un activo sea considerado de alta calidad crediticia, en función de las circunstancias del mercado y con el fin de procurar el máximo grado de solvencia de la garantía de los activos.
-
-> 8\. Podrán garantizar las emisiones de bonos de internacionalización los préstamos y créditos, o la parte de los mismos, que consten como activo en el balance de la entidad emisora y cumplan con los requisitos establecidos en los apartados 6 y 7.
-
-> Asimismo, podrán garantizar dichas emisiones los préstamos o créditos concedidos a empresas vinculados a la financiación de contratos de exportación de bienes y servicios españoles o de otra nacionalidad o la internacionalización de empresas residentes en España o en otros países siempre que reciban una ponderación de riesgo, como máximo, del 50 por ciento, a efectos del cálculo de los requerimientos de recursos propios por riesgo de crédito establecidos en la normativa de solvencia de las entidades de crédito.
-
-> Se entenderán incluidos en la categoría de préstamos descrita en el párrafo anterior los préstamos del Instituto de Crédito Oficial a entidades financieras en el marco de sus líneas de mediación para la internacionalización, siempre que reciban una ponderación de riesgo, como máximo, del 50 por ciento, a efectos del cálculo de los requerimientos de recursos propios por riesgo de crédito.
-
-> 9\. Las cédulas y bonos de internacionalización podrán estar respaldadas respectivamente hasta un límite del 5 y el 10 por ciento del principal emitido por los activos de sustitución siguientes:
-
-> a) valores de renta fija representados mediante anotaciones en cuenta emitidos por el Estado u otros Estados miembros de la Unión Europea,
-
-> b) valores de renta fija garantizados por Estados miembros de la Unión Europea y admitidos a cotización en un mercado regulado,
-
-> c) valores de renta fija emitidos por el Instituto de Crédito Oficial, siempre que el emisor de las cédulas o bonos de internacionalización no sea el propio Instituto de Crédito Oficial,
-
-> d) cédulas hipotecarias admitidas a cotización en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito con garantía hipotecaria concedido por el propio emisor de las cédulas o bonos de internacionalización ni por otras entidades de su grupo,
-
-> e) bonos hipotecarios admitidos a cotización en un mercado regulado, con una alta calidad crediticia, siempre que dichos valores no estén garantizados por ningún préstamo o crédito con garantía hipotecaria concedido por la propia entidad emisora de las cédulas o bonos de internacionalización, ni por otras entidades de su grupo,
-
-> f) cédulas territoriales admitidas a cotización en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas o bonos de internacionalización, ni por otras entidades de su grupo,
-
-> g) cédulas de internacionalización admitidas a cotización en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas o bonos de internacionalización, ni por otras entidades de su grupo,
-
-> h) bonos de internacionalización admitidos a cotización en un mercado regulado, con una alta calidad crediticia, siempre que dichos bonos no estén garantizados por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas o bonos de internacionalización, ni por otras entidades de su grupo,
-
-> i) otros valores de renta fija admitidos a cotización en un mercado regulado, con una alta calidad crediticia, siempre que dichos valores no sean bonos de titulización, y no hayan sido emitidos por la propia entidad emisora de las cédulas o bonos de internacionalización, ni por otras entidades de su grupo,
-
-> j) otros activos de bajo riesgo y alta liquidez que pudieran determinarse reglamentariamente.
-
-> A los efectos de este apartado se considerarán activos de alta calidad crediticia aquellos que reciban una ponderación de riesgo, como máximo, del 50 por ciento a efectos de los requerimientos de recursos propios por riesgo de crédito establecidos en la normativa de solvencia de las entidades de crédito. El Ministro de Economía y Competitividad podrá fijar requisitos más estrictos para que un activo sea considerado de alta calidad crediticia, en función de las circunstancias del mercado y con el fin de procurar el máximo grado de solvencia de la garantía de los activos.
-
-> 10\. La emisión de cédulas de internacionalización no requerirá el otorgamiento de escritura pública ni deberá ser objeto de inscripción en el Registro Mercantil. Tampoco le serán de aplicación las reglas contenidas en el Título XI del texto refundido de la Ley de Sociedades de Capital aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, ni las previstas en la Ley 211/1964, de 24 de diciembre, sobre regulación de la emisión de obligaciones por sociedades que no hayan adoptado la forma de sociedades anónimas, asociaciones u otras personas jurídicas, y la constitución del sindicato de obligacionistas.
-
-> 11\. El importe total de las cédulas de internacionalización emitidas por una entidad de crédito no podrá ser superior al 70 por ciento del importe de los préstamos y créditos no amortizados que cumplan los requisitos previstos en los apartados 6 y 7, que en cada momento consten como activo en el balance de la entidad emisora y que no hayan sido afectados a la emisión de bonos de internacionalización. Reglamentariamente podrá determinarse la consideración específica a efectos del cumplimiento de este límite de las cédulas de internacionalización que se encuentren en posesión del propio emisor.
-
-> 12\. El valor actualizado de los bonos de internacionalización deberá ser inferior, al menos en un 2 por ciento al valor actualizado de los préstamos y créditos afectados. Reglamentariamente se determinará la forma de cálculo del valor actualizado.
-
-> 13\. Si el importe de las cédulas y bonos de internacionalización excediera por alguna causa sobrevenida, los límites señalados en los apartados 11 y 12 respectivamente, las entidades emisoras deberán recuperar dichos límites en un plazo máximo de tres meses mediante alguna de las siguientes vías:
-
-> a) adquiriendo sus propios bonos o cédulas de internacionalización hasta el límite que reglamentariamente se determine, para su posterior amortización,
-
-> b) afectando al pago de las cédulas o bonos de internacionalización nuevos activos de sustitución de los contemplados en el apartado 9, siempre que se cumplan los límites establecidos en dicho apartado,
-
-> c) en el caso de las cédulas de internacionalización, aumentando la cartera de préstamos o créditos que pudieran garantizarlas de acuerdo con los apartados 6 y 7,
-
-> d) en el caso de los bonos de internacionalización, afectando mediante escritura pública nuevos préstamos o créditos que pudieran garantizarlos de acuerdo con el apartado 8.
-
-> Mientras tanto, la entidad deberá cubrir la diferencia mediante un depósito de efectivo o de fondos públicos en el Banco de España.
-
-> 14\. Los tenedores de cédulas y bonos de internacionalización tendrán el carácter de acreedores con preferencia especial en los términos previstos en el artículo 1.922 del Código Civil frente a cualesquiera otros acreedores con relación a la totalidad de los préstamos y créditos que consten como activo en el balance de la entidad emisora y que cumplan los requisitos establecidos en los apartados 6 y 7 cuando se trate de cédulas de internacionalización, salvo los que sirvan de cobertura de los bonos de internacionalización; y con relación a los préstamos y créditos que cumplan los requisitos del apartado 8 y hayan sido afectados a la emisión cuando se trate de bonos de internacionalización y; en ambos casos, con relación a los activos de sustitución y a los flujos económicos generados por los instrumentos financieros derivados vinculados a las emisiones, si éstos existen.
-
-> Los tenedores de los bonos de internacionalización de una emisión tendrán prelación sobre los tenedores de las cédulas de internacionalización cuando concurran sobre un préstamo o crédito afectado a dicha emisión.
-
-> Todos los tenedores de cédulas de internacionalización, cualquiera que fuese su fecha de emisión, tendrán la misma prelación sobre los préstamos y créditos que las garantizan y, si existen, sobre los activos de sustitución y sobre los flujos económicos generados por los instrumentos financieros derivados vinculados a las emisiones.
-
-> Las cédulas y bonos tendrán carácter ejecutivo en los términos previstos en la Ley de Enjuiciamiento Civil.
-
-> 15\. Las cédulas y bonos de internacionalización emitidos por una entidad de crédito, pendientes de amortización, tendrán el mismo trato que las cédulas y bonos hipotecarios, a los efectos del artículo 50, apartado 2, letra c) del Real Decreto 1082/2012, de 13 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva.
-
-> 16\. Las cédulas y bonos de internacionalización emitidos podrán ser admitidos a negociación en los mercados de valores, de conformidad con lo previsto en la Ley 24/1988, de 28 de julio, del Mercado de Valores.
-
-> Los emisores podrán adquirir cédulas y bonos de internacionalización emitidos por ellos mismos o por entidades de su grupo. Reglamentariamente podrán establecerse límites a las operaciones del emisor sobre sus propios títulos en el mercado secundario.
-
-> 17\. Las cédulas y bonos de internacionalización regulados en esta Ley serán admitidos como inversiones de las reservas obligatorias de las Sociedades y Empresas mercantiles, equiparándose a estos efectos a los valores cotizados en Bolsa.
-
-> En particular, serán admitidos para los siguientes fines:
-
-> a) Inversiones para la cobertura de provisiones técnicas de las entidades aseguradoras y reaseguradoras, siempre que las cédulas o bonos hayan sido emitidos por sociedades establecidas en el Espacio Económico Europeo.
-
-> b) Inversiones aptas para los fondos de pensiones.
-
-> c) Inversión de los recursos de las Sociedades y Fondos de Inversión Mobiliaria.
-
-> d) Inversión en fondos de reserva de las Entidades de la Seguridad Social.
-
-> Los títulos representativos de las cédulas y bonos de internacionalización serán transmisibles por cualquiera de los medios admitidos en derecho y sin necesidad de intervención de fedatario público ni notificación al deudor. Cuando sean nominativos podrán transmitirse por declaración escrita en el mismo título. En caso de que los títulos sean al portador, se presumirá que el propietario de los mismos es el último perceptor de intereses.
-
-> 18\. En caso de concurso, los tenedores de cédulas y bonos de internacionalización gozarán del privilegio especial establecido en el número 1.º del apartado 1 del artículo 90 de la Ley Concursal.
-
-> Sin perjuicio de lo anterior, se atenderán durante el concurso, de acuerdo con lo previsto en el número 7.º del apartado 2 del artículo 84 de la Ley Concursal, y como créditos contra la masa, los pagos que correspondan por amortización de capital e intereses de las cédulas y bonos de internacionalización emitidos y pendientes de amortización en la fecha de solicitud del concurso hasta el importe de los ingresos percibidos por el concursado de los préstamos y créditos que respalden las cédulas y bonos y, si existen, de los activos de sustitución y de los flujos económicos procedentes de los instrumentos financieros derivados vinculados a la emisión.
-
-> 19\. La entidad emisora de cédulas y bonos de internacionalización llevará un registro contable especial en el que deberá anotar todos los préstamos y créditos que sirven de garantía a las emisiones y, si existen, de los activos de sustitución inmovilizados para darles cobertura, así como de los instrumentos financieros derivados vinculados a cada emisión. Las cuentas anuales de la entidad emisora recogerán, en la forma que reglamentariamente se determine, los datos esenciales de dicho registro.
-
-> 20\. La emisión, transmisión y cancelación de las cédulas y bonos de internacionalización regulados en esta Ley, así como su reembolso, gozarán de la exención establecida en la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados."
 
 > Se deroga, con efectos de 8 de julio de 2022, en la redacción dada a la disposición final 10 del Real Decreto-ley 24/2021, de 2 de noviembre, en relación con la disposición derogatoria única letra d), por la disposición final 6.4 del Real Decreto-ley 29/2021, de 21 de diciembre. [Ref. BOE-A-2021-21096](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21096)
 
@@ -2048,40 +1622,6 @@ La Dirección General de la Policía deberá responder en el plazo máximo de si
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este art. 63, que se deja sin contenido por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Los extranjeros no residentes que se propongan entrar en territorio español con el fin de realizar una inversión significativa de capital podrán solicitar el visado de estancia, o en su caso, de residencia para inversores que tendrá una duración de un año.
-
-> 2\. Se entenderá como inversión significativa de capital aquella que cumpla con alguno de los siguientes supuestos:
-
-> a) Una inversión inicial por un valor igual o superior a:
-
-> 1.º Dos millones de euros en títulos de deuda pública española, o
-
-> 2.º Un millón de euros en acciones o participaciones sociales de sociedades de capital españolas con una actividad real de negocio, o
-
-> 3.º Un millón de euros en fondos de inversión, fondos de inversión de carácter cerrado o fondos de capital riesgo constituidos en España, incluidos dentro del ámbito de aplicación de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, o de la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, o
-
-> 4.º Un millón de euros en depósitos bancarios en entidades financieras españolas.
-
-> b) La adquisición de bienes inmuebles en España con una inversión de valor igual o superior a 500.000 euros por cada solicitante.
-
-> c) Un proyecto empresarial que vaya a ser desarrollado en España y que sea considerado y acreditado como de interés general, para lo cual se valorará el cumplimiento de al menos una de las siguientes condiciones:
-
-> 1.º Creación de puestos de trabajo.
-
-> 2.º Realización de una inversión con impacto socioeconómico de relevancia en el ámbito geográfico en el que se vaya a desarrollar la actividad.
-
-> 3.º Aportación relevante a la innovación científica y/o tecnológica.
-
-> Podrá obtener el visado de residencia para inversores un representante, designado por el inversor y debidamente acreditado, para la gestión de un proyecto de interés general siempre y cuando el proyecto cumpla alguna de las condiciones enumeradas en la letra c).
-
-> 3\. Se entenderá igualmente que el extranjero solicitante del visado ha realizado una inversión significativa de capital cuando la inversión la lleve a cabo una persona jurídica, domiciliada en un territorio que no tenga la consideración de paraíso fiscal conforme a la normativa española, y el extranjero posea, directa o indirectamente, la mayoría de sus derechos de voto y tenga la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración.
-
-> 4\. Si la inversión se lleva a cabo por un matrimonio en régimen de gananciales o análogo y la cuantía no asciende, al menos, al doble de los umbrales previstos en las letras a) y b) del apartado 2 se considerará que ha sido efectuada por uno de los cónyuges, pudiendo el otro cónyuge solicitar un visado de residencia como familiar en los términos establecidos en el artículo 62.4."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por la disposición final 11.2 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
@@ -2089,42 +1629,6 @@ La Dirección General de la Policía deberá responder en el plazo máximo de si
 ##### Artículo 64. Forma de acreditación de la inversión.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este art. 64, que se deja sin contenido por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "Para la concesión del visado de residencia para inversores será necesario cumplir los siguientes requisitos:
-
-> a) En el caso previsto en la letra a) del apartado 2 del artículo 63, el solicitante deberá acreditar haber realizado la inversión en la cantidad mínima requerida, en un periodo no superior a un año a la presentación de la solicitud, de la siguiente manera:
-
-> 1.º En el supuesto de inversión en acciones no cotizadas o participaciones sociales, se presentará el ejemplar de la declaración de inversión realizada en el Registro de Inversiones Exteriores del Ministerio de Economía y Competitividad.
-
-> 2.º En el supuesto de inversión en acciones cotizadas, se presentará un certificado del intermediario financiero, debidamente registrado en la Comisión Nacional del Mercado de Valores o en el Banco de España, en el que conste que el interesado ha efectuado la inversión a efectos de esta norma.
-
-> 3.º En el supuesto de inversión en deuda pública, se presentará un certificado de la entidad financiera o del Banco de España en el que se indique que el solicitante es el titular único de la inversión para un periodo igual o superior a 5 años.
-
-> 4.º En el supuesto de inversión en fondos de inversión, fondos de inversión de carácter cerrado o fondos de capital riesgo constituidos en España, se presentará un certificado de la sociedad gestora del fondo, constituida en España, debidamente registrada en la Comisión Nacional del Mercado de Valores, en el que conste que el interesado ha efectuado una inversión de, al menos, un millón de euros en un fondo o fondos bajo su gestión.
-
-> 5.º En el supuesto de inversión en depósito bancario, se presentará un certificado de la entidad financiera en el que se constate que el solicitante es el titular único del depósito bancario.
-
-> b) En el supuesto previsto en la letra b) del apartado 2 del artículo 63 el solicitante deberá acreditar haber adquirido la propiedad de los bienes inmuebles mediante certificación de dominio y cargas del Registro de la Propiedad que corresponda al inmueble o inmuebles. La certificación podrá incorporar un código electrónico de verificación para su consulta en línea. Esta certificación incluirá el importe de la adquisición; en otro caso, se deberá acreditar mediante la aportación de la escritura pública correspondiente.
-
-> Si en el momento de la solicitud del visado, la adquisición de los inmuebles se encontrara en trámite de inscripción en el Registro de la Propiedad, será suficiente la presentación de la citada certificación en la que conste vigente el asiento de presentación del documento de adquisición, acompañada de documentación acreditativa del pago de los tributos correspondientes.
-
-> El solicitante deberá acreditar disponer de una inversión en bienes inmuebles de 500.000 euros libre de toda carga o gravamen. La parte de la inversión que exceda del importe exigido podrá estar sometida a carga o gravamen.
-
-> Si el extranjero no ha formalizado la compra del inmueble o inmuebles pero existe un precontrato con garantía en su cumplimiento por medio de arras u otro medio admitido en derecho formalizado en escritura pública, deberá presentar junto con el cumplimiento de los requisitos indicados en el artículo 62.3, el precontrato con garantía junto con un certificado de una entidad financiera establecida en España en el que se constate que el solicitante dispone de un depósito bancario indisponible con la cantidad necesaria para la adquisición, cumpliendo el contrato comprometido, del inmueble o inmuebles indicados, incluyendo cargas e impuestos. El importe del depósito sólo podrá ser utilizado para la compra final del inmueble o inmuebles indicados en el precontrato con garantía. En este supuesto, el interesado recibirá un visado de residencia para inversores de duración máxima de 6 meses.
-
-> Si se acredita la compra efectiva del inmueble o inmuebles indicados, el interesado podrá solicitar un visado de residencia para inversores de un año de duración o una autorización de residencia para inversores conforme al artículo 66.
-
-> c) En el supuesto previsto en la letra c) del apartado 2 del artículo 63, se deberá presentar un informe favorable para constatar que en el proyecto empresarial presentado concurren razones de interés general. El informe procederá de la Oficina Económica y Comercial del ámbito de demarcación geográfica donde el inversor presente la solicitud del visado.
-
-> Si el inversor designara un representante para la gestión del proyecto empresarial y con el fin de que el mismo obtenga el visado de residencia para inversor, en el informe de la Oficina Económica y Comercial se valorará junto con los requisitos establecidos en el artículo 63.2.c) la necesidad de que intervenga dicho representante para la adecuada gestión del proyecto empresarial.
-
-> El representante deberá acreditar ante la Oficina Consular que reúne los requisitos establecidos en el artículo 62.3 de la presente Ley.
-
-> d) En el supuesto previsto en el apartado 3 del artículo 63, se deberá presentar un informe favorable procedente de la Oficina Económica y Comercial del ámbito de demarcación geográfica donde el inversor presente la solicitud del visado."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -2134,12 +1638,6 @@ La Dirección General de la Policía deberá responder en el plazo máximo de si
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este art. 65, que se deja sin contenido por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "La concesión del visado de residencia para inversores constituirá título suficiente para residir y trabajar en España durante su vigencia."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por la disposición final 11.4 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
@@ -2148,50 +1646,6 @@ La Dirección General de la Policía deberá responder en el plazo máximo de si
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este art. 66, que se deja sin contenido por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Los inversores extranjeros que realicen una inversión significativa de capital podrán solicitar una autorización de residencia para inversores, que tendrá validez en todo el territorio nacional. La concesión corresponderá a la Dirección General de Migraciones y su tramitación se efectuará por la Unidad de Grandes Empresas y Colectivos Estratégicos.
-
-> Podrá obtener la autorización de residencia para inversores un representante designado por el inversor, y debidamente acreditado, para la gestión de un proyecto siempre y cuando el proyecto cumpla alguna de las condiciones enumeradas el artículo 63.2.c).
-
-> 2\. Si el solicitante de la autorización de residencia es titular de un visado de residencia para inversores en vigor o se encuentra dentro del plazo de los noventa días naturales posteriores a la caducidad del visado, deberá acreditar, además del cumplimiento de los requisitos generales previstos en el artículo 62, los siguientes requisitos:
-
-> a) En el supuesto previsto en la letra a) del apartado 2 del artículo 63 el inversor deberá demostrar que ha mantenido la inversión de un valor igual o superior a la cantidad mínima requerida:
-
-> 1.º En el supuesto de acciones no cotizadas o participaciones sociales, se deberá presentar un certificado notarial que demuestre que el inversor ha mantenido durante el período de referencia anterior la propiedad de las acciones no cotizadas o participaciones sociales que le facultaron para obtener el visado de inversores. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
-
-> 2.º En el supuesto de inversión en acciones cotizadas, se deberá presentar un certificado de una entidad financiera, en el que conste que el interesado ha mantenido, al menos, en valor promedio un millón de euros invertidos en acciones desde la fecha de obtención del visado de residencia para inversores. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
-
-> 3.º En el supuesto de inversión en títulos de deuda pública, se deberá presentar un certificado de una entidad financiera o del Banco de España en el que se verifique el mantenimiento, o ampliación, desde la fecha de obtención del visado de residencia para inversores, del número de títulos de deuda pública que adquirió el inversor en el momento en que realizó la inversión inicial. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
-
-> 4.º En el supuesto de inversión en fondos de inversión, fondos de inversión de carácter cerrado o fondos de capital riesgo constituidos en España se deberá presentar un certificado de la sociedad gestora del fondo, constituida en España, debidamente registrada en la Comisión Nacional del Mercado de Valores, en el que conste que el interesado ha mantenido, desde la fecha de obtención del visado de residencia para inversores, al menos, en valor promedio, un millón de euros invertido en un fondo o fondos bajo su gestión. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
-
-> 5.º En el supuesto de inversión en depósito bancario, se deberá presentar un certificado de la entidad financiera que verifique que el inversor ha mantenido, o ampliado, su depósito desde la fecha de obtención del visado de residencia para inversores. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
-
-> b) En el supuesto previsto en la letra b) del apartado 2 del artículo 63, el solicitante deberá demostrar que el inversor es propietario del bien o bienes inmuebles por la cantidad mínima exigida en dicho artículo. Para ello deberá aportar el certificado o certificados de dominio y cargas del Registro de la Propiedad que corresponda al inmueble o inmuebles y debe estar fechado dentro de los 90 días anteriores a la presentación de la solicitud.
-
-> Si el solicitante está en posesión de un visado de residencia para inversores de 6 meses, deberá demostrar que ha adquirido de forma efectiva el inmueble o inmuebles indicados mediante la documentación correspondiente.
-
-> c) En el supuesto previsto en la letra c) del apartado 2 del artículo 63, se deberá presentar un informe favorable de la Dirección General de Comercio Internacional e Inversiones del Ministerio de Economía y Competitividad para constatar que las razones de interés general acreditadas inicialmente se mantienen.
-
-> d) En el supuesto previsto en el apartado 3 del artículo 63, se deberá presentar un informe favorable de la Dirección General de Comercio Internacional e Inversiones del Ministerio de Economía y Competitividad para constatar que los elementos verificados en el momento de la concesión del visado se mantienen.
-
-> e) El cumplimiento de las obligaciones en materia tributaria y de Seguridad Social.
-
-> 3\. Si el solicitante de la autorización de residencia para inversores se encuentra legalmente en España y no es titular del visado de residencia para inversores deberá acreditar, además del cumplimiento de los requisitos generales previstos en el artículo 62, la realización de una inversión significativa de capital conforme al artículo 64.
-
-> Si la inversión se lleva a cabo por un matrimonio en régimen de gananciales o análogo y la cuantía no asciende, al menos, al doble de los umbrales previstos en el artículo 63.2 a) y b) se considerará que ha sido efectuada por uno de los cónyuges, pudiendo el otro cónyuge solicitar una autorización de residencia como familiar en los términos establecidos en el artículo 62.4.
-
-> En el supuesto de inversiones del artículo 63.2.c), el informe de proyecto de interés general procederá de la Dirección General de Comercio Internacional e Inversiones.
-
-> En el supuesto de inversiones del artículo 63.3 el informe procederá de la Dirección General de Comercio Internacional e Inversiones.
-
-> Si el extranjero no ha formalizado la compra del inmueble o inmuebles pero existe un precontrato con garantía en su cumplimiento por medio de arras u otro medio admitido en derecho formalizado en escritura pública, deberá presentar junto con el cumplimiento de los requisitos indicados en el artículo 62.3, el precontrato con garantía junto con un certificado de una entidad financiera establecida en España en el que se constate que el solicitante dispone de un depósito bancario indisponible con la cantidad necesaria para la adquisición, cumpliendo el contrato comprometido, del inmueble o inmuebles indicados, incluyendo cargas e impuestos. El importe del depósito sólo podrá ser utilizado para la compra final del inmueble o inmuebles indicados en el precontrato con garantía. En este supuesto, el interesado recibirá una autorización de residencia para inversores de duración máxima de 6 meses.
-
-> Si se acredita la compra efectiva del inmueble o inmuebles indicados, el interesado podrá solicitar una autorización de residencia para inversores."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por la disposición final 11.5 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
@@ -2199,16 +1653,6 @@ La Dirección General de la Policía deberá responder en el plazo máximo de si
 ##### Artículo 67. Duración de la autorización de residencia para inversores.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este art. 67, que se deja sin contenido por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La autorización inicial de residencia para inversores tendrá una duración de tres años sin perjuicio de lo establecido en el artículo 66.3 para compras de inmuebles no formalizadas.
-
-> 2\. Una vez cumplido dicho plazo, aquellos inversores extranjeros que estén interesados en residir en España por una duración superior podrán solicitar la renovación de la autorización de residencia por periodos sucesivos de cinco años, siempre y cuando se mantengan las condiciones que generaron el derecho.
-
-> 3\. Si durante el periodo de residencia autorizado se modifica la inversión deberá, en todo caso, mantenerse el cumplimiento de alguno de los supuestos previstos en el artículo 63. No será de aplicación esta previsión en el caso de que la variación del valor se deba a fluctuaciones del mercado."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 21.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -2802,8 +2246,6 @@ Se facilitará la expedición del Número de Identidad de Extranjero para los so
 
 Aquellos inversores o familiares de inversores que, con anterioridad a la fecha de entrada en vigor de esta disposición transitoria, hubieran presentado la correspondiente solicitud, podrán recibir el visado o autorización correspondiente conforme a la normativa vigente en la fecha de presentación de la solicitud.
 
-> Téngase en cuenta que esta disposición transitoria primera, añadida por la disposición final 21.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1
-
 > Se añade, con efectos de 3 de abril de 2025, por la disposición final 21.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 ##### Disposición transitoria segunda. Renovaciones de visados y autorizaciones para inversores por adquisición de bienes inmuebles.
@@ -2811,8 +2253,6 @@ Aquellos inversores o familiares de inversores que, con anterioridad a la fecha 
 Los visados y autorizaciones para inversores que tengan validez a la fecha de la entrada en vigor de esta disposición transitoria, conservarán dicha validez durante el tiempo para el que hubieran sido expedidos.
 
 En el caso de presentarse solicitudes de renovación, se tramitarán y resolverán conforme a la normativa vigente en la fecha de concesión de la autorización inicial.
-
-> Téngase en cuenta que esta disposición transitoria segunda, añadida por la disposición final 21.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1
 
 > Se añade, con efectos de 3 de abril de 2025, por la disposición final 21.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

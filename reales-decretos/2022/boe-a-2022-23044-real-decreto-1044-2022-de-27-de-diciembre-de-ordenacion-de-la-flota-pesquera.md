@@ -898,145 +898,140 @@ Para los siguientes censos, la capacidad adicional podrá proceder de cualquier 
 
 Para el resto de los censos, la siguiente tabla indica el porcentaje de capacidad aportada a través de la baja principal y las adicionales que debe pertenecer al mismo censo por modalidad y caladero o, en los casos en que figure expresamente, de censos equivalentes.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">Origen de las bajas</p>
+<p>Origen de las bajas</p>
 </caption>
-<colgroup>
-<col width="38%">
-<col width="24%">
-<col width="38%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Censo por modalidad y caladero</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Del mismo censo o equivalentes</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<th>Censo por modalidad y caladero</th>
+<th>
+<p>Del mismo censo o equivalentes</p>
+<p>–</p>
+<p>Porcentaje</p>
 </th>
-<th class="cabeza_tabla">Censos equivalentes a efectos de aportación</th>
+<th>Censos equivalentes a efectos de aportación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Arrastre de Fondo Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Arrastre de Fondo Cantábrico y Noroeste.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerco Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Cerco Cantábrico y Noroeste.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Palangre de Fondo Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">50</td>
-<td class="cuerpo_tabla_izq">– Volanta CNW y</td>
+<td rowspan="2">Palangre de Fondo Cantábrico y Noroeste.</td>
+<td rowspan="2">50</td>
+<td>– Volanta CNW y</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Rasco CNW.</td>
+<td>– Rasco CNW.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Volanta Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">50</td>
-<td class="cuerpo_tabla_izq">– Palangre de fondo CNW y</td>
+<td rowspan="2">Volanta Cantábrico y Noroeste.</td>
+<td rowspan="2">50</td>
+<td>– Palangre de fondo CNW y</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Rasco CNW.</td>
+<td>– Rasco CNW.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Rasco Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">50</td>
-<td class="cuerpo_tabla_izq">– Volanta CNW y</td>
+<td rowspan="2">Rasco Cantábrico y Noroeste.</td>
+<td rowspan="2">50</td>
+<td>– Volanta CNW y</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Palangre de fondo CNW.</td>
+<td>– Palangre de fondo CNW.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Artes Menores Cantábrico y Noroeste.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">50</td>
-<td class="cuerpo_tabla_izq">– Volanta CNW,</td>
+<td rowspan="3">Artes Menores Cantábrico y Noroeste.</td>
+<td rowspan="3">50</td>
+<td>– Volanta CNW,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Rasco CNW y</td>
+<td>– Rasco CNW y</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Palangre de fondo CNW.</td>
+<td>– Palangre de fondo CNW.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arrastre de Fondo Mediterráneo.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Arrastre de Fondo Mediterráneo.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerco Mediterráneo (*).</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Cerco Mediterráneo (*).</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Palangre de Fondo Mediterráneo.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Palangre de Fondo Mediterráneo.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Artes Menores Mediterráneo.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">– Palangre de fondo del Mediterráneo.</td>
+<td>Artes Menores Mediterráneo.</td>
+<td>50</td>
+<td>– Palangre de fondo del Mediterráneo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arrastre de Fondo Golfo de Cádiz.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Arrastre de Fondo Golfo de Cádiz.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerco Golfo de Cádiz.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Cerco Golfo de Cádiz.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Artes Menores Golfo de Cádiz.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Artes Menores Golfo de Cádiz.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Artes Menores Canarias.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">– Atuneros cañeros Canarias.</td>
+<td>Artes Menores Canarias.</td>
+<td>80</td>
+<td>– Atuneros cañeros Canarias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Arrastre de Fondo Aguas de Portugal.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">50</td>
-<td class="cuerpo_tabla_izq">– Arrastre de fondo CNW,</td>
+<td rowspan="2">Arrastre de Fondo Aguas de Portugal.</td>
+<td rowspan="2">50</td>
+<td>– Arrastre de fondo CNW,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Arrastre de fondo Golfo de Cádiz.</td>
+<td>– Arrastre de fondo Golfo de Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arrastre Zonas Ciem 300.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Arrastre Zonas Ciem 300.</td>
+<td>50</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Artes Fijas Zonas Ciem 300.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">– Palangreros de fondo que pueden pescar en las aguas no españolas de la UE de la zona 8abde del CIEM.</td>
+<td>Artes Fijas Zonas Ciem 300.</td>
+<td>50</td>
+<td>– Palangreros de fondo que pueden pescar en las aguas no españolas de la UE de la zona 8abde del CIEM.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Palangreros de fondo que pueden pescar en las aguas no españolas de la UE de la zona 8abde del CIEM.</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">– Artes Fijas Zonas CIEM 300.</td>
+<td>Palangreros de fondo que pueden pescar en las aguas no españolas de la UE de la zona 8abde del CIEM.</td>
+<td>50</td>
+<td>– Artes Fijas Zonas CIEM 300.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atuneros Cañeros Canarias.</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Atuneros Cañeros Canarias.</td>
+<td>80</td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) En los buques de cerco del Mediterráneo dedicados en exclusiva a la pesquería del atún rojo, la baja principal deberá proceder del censo de cerco de Mediterráneo, pero la capacidad adicional podrá proceder de cualquier censo por modalidad y caladero.</p>
+<p>(*) En los buques de cerco del Mediterráneo dedicados en exclusiva a la pesquería del atún rojo, la baja principal deberá proceder del censo de cerco de Mediterráneo, pero la capacidad adicional podrá proceder de cualquier censo por modalidad y caladero.</p>
 </td>
 </tr>
 </tfoot>

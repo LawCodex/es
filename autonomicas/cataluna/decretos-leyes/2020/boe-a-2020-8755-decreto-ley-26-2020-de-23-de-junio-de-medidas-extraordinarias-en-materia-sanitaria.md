@@ -116,8 +116,6 @@ En uso de la autorización que concede el artículo 64 del Estatuto de autonomí
 
 1.4 La puesta a disposición de los laboratorios a los que hace referencia los párrafos anteriores incluye la facultad de imponer autorizaciones para la realización de pruebas de carácter privado con el objeto de garantizar la disponibilidad de la capacidad productiva máxima para el sistema público de salud en caso de necesidad, así como la posibilidad de adoptar las medidas necesarias para el establecimiento de precios máximos aplicables a la realización de pruebas diagnósticas para garantizar un acceso en condiciones de equidad y evitar el riesgo de cualquier situación.
 
-> Téngase en cuenta que se prorroga la vigencia de estas medidas, hasta el 31 de diciembre de 2022, por la disposición final 1.3 del Decreto-ley 5/2022, de 17 de mayo. [Ref. BOE-A-2022-10453](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10453)
-
 > Se prorroga la vigencia de estas medidas, hasta el 31 de diciembre de 2022, por la disposición final 1.3 del Decreto-ley 5/2022, de 17 de mayo. [Ref. BOE-A-2022-10453](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10453)
 
 ### Artículo 2. Medidas de continuidad respecto de la habilitación de espacios para uso sanitario.
@@ -161,8 +159,6 @@ Tiene que decir:
 6.1 Las empresas que prestan servicios funerarios tienen que seguir comunicando al Departamento de Salud en relación con cada persona difunta los datos siguientes: DNI o NIE; sexo; edad; fecha y causa de defunción; municipio de residencia; lugar de defunción y destino final (inhumación o incineración).
 
 6.2 El procedimiento de recogida es el establecido en cada momento por el Departamento de Salud y comunicado formalmente a las empresas que prestan servicios funerarios.
-
-> Téngase en cuenta que se prorroga la vigencia de estas medidas, hasta el 31 de diciembre de 2022, por la disposición final 1.3 del Decreto-ley 5/2022, de 17 de mayo. [Ref. BOE-A-2022-10453](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10453)
 
 > Se prorroga la vigencia de estas medidas, hasta el 31 de diciembre de 2022, por la disposición final 1.3 del Decreto-ley 5/2022, de 17 de mayo. [Ref. BOE-A-2022-10453](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10453)
 

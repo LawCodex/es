@@ -2590,36 +2590,30 @@ Los proyectos que definan actividades dispondrán de una ficha resumen en la que
 
 Cuando se deban tramitar modificaciones para las que no se requiera proyecto, la ficha resumen se debe presentar como documento independiente y con la misma información indicada antes.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Contenido del proyecto</p>
+<p>Contenido del proyecto</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Común</p>
+<p>Común</p>
 </td>
 <td>
-<p class="cabeza_tabla">Obras</p>
+<p>Obras</p>
 </td>
 <td>
-<p class="cabeza_tabla">Actividades</p>
+<p>Actividades</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Memoria</strong>
 </p>
 </td>
@@ -2627,394 +2621,394 @@ Cuando se deban tramitar modificaciones para las que no se requiera proyecto, la
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Memoria descriptiva</p>
+<p>1. Memoria descriptiva</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Descriptiva y justificativa</p>
+<p>Descriptiva y justificativa</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1 Agentes*</p>
+<p>1.1 Agentes*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Promotor, proyectista, otros técnicos.</p>
+<p>Promotor, proyectista, otros técnicos.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2 Información previa*</p>
+<p>1.2 Información previa*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Antecedentes y condicionantes de partida, datos del emplazamiento y entorno físico.</p>
-<p class="cuerpo_tabla_izq">Otras normativas, en su caso.</p>
-<p class="cuerpo_tabla_izq">Datos del edificio en caso de rehabilitación, reforma o ampliación. Informes realizados.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Relación de normas sectoriales aplicables que intervienen en la actividad, con indicación de aquellas previas a la licencia.</p>
-<p class="cuerpo_tabla_izq">Ordenanzas municipales que son de aplicación a esta actividad, o que puedan generar limitaciones a los usos previstos en la edificación.</p>
-<p class="cuerpo_tabla_izq">Afección del espacio donde se desarrolla la actividad afectada por limitaciones a causa de la protección como bien cultural o medioambiental.</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.3 Descripción del proyecto*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Descripción general del edificio, programa de necesidades, uso característico del edificio y otros usos previstos, relación con el entorno.</p>
-<p class="cuerpo_tabla_izq">Cumplimiento del CTE y otras normativas específicas, normas de disciplina urbanística, ordenanzas municipales, edificabilidad, funcionalidad, etc.</p>
-<p class="cuerpo_tabla_izq">Descripción de la geometría del edificio, volumen, superficies útiles y construidas, accesos y evacuación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Descripción general de los parámetros que determinan las previsiones técnicas que se deben considerar en el proyecto con respecto al sistema estructural (fundamentación, estructura portante y estructura horizontal), el sistema de compartición, el sistema envolvente, el sistema de acabados, el sistema de acondicionamiento ambiental y el de servicios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Descripción detallada y clara del proceso de producción, de los servicios que se tienen que prestar o de cualquier otra circunstancia de la actividad.</p>
-<p class="cuerpo_tabla_izq">Asimismo, descripción de las previsiones, necesidades y acondicionamientos para cumplir las normativas sectoriales que les afecten.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_izq">1.4 Prestaciones del edificio (o actividad)*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por requisitos básicos y en relación con las exigencias básicas del CTE. Se deben indicar en particular las acordadas entre promotor y proyectista que superen los umbrales establecidos en el CTE.</p>
-<p class="cuerpo_tabla_izq">Deben establecerse las limitaciones de uso del edificio en su conjunto y de cada una de sus dependencias e instalaciones.</p>
+<p>Antecedentes y condicionantes de partida, datos del emplazamiento y entorno físico.</p>
+<p>Otras normativas, en su caso.</p>
+<p>Datos del edificio en caso de rehabilitación, reforma o ampliación. Informes realizados.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Plantilla y capacidad: se debe indicar el número de personas que prestan los servicios en la actividad y, cuando el caso lo requiera, el aforo máximo de público y la capacidad total.</p>
-<p class="cuerpo_tabla_izq">Indicación expresa de las soluciones técnicas alternativas que se prevén adoptar, y justificación en el apartado correspondiente.</p>
+<p>Relación de normas sectoriales aplicables que intervienen en la actividad, con indicación de aquellas previas a la licencia.</p>
+<p>Ordenanzas municipales que son de aplicación a esta actividad, o que puedan generar limitaciones a los usos previstos en la edificación.</p>
+<p>Afección del espacio donde se desarrolla la actividad afectada por limitaciones a causa de la protección como bien cultural o medioambiental.</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.5 Memoria urbanística</p>
+<p>1.3 Descripción del proyecto*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Memoria urbanística</p>
+<p>Descripción general del edificio, programa de necesidades, uso característico del edificio y otros usos previstos, relación con el entorno.</p>
+<p>Cumplimiento del CTE y otras normativas específicas, normas de disciplina urbanística, ordenanzas municipales, edificabilidad, funcionalidad, etc.</p>
+<p>Descripción de la geometría del edificio, volumen, superficies útiles y construidas, accesos y evacuación.</p>
+</td>
+<td>
+<p>Descripción general de los parámetros que determinan las previsiones técnicas que se deben considerar en el proyecto con respecto al sistema estructural (fundamentación, estructura portante y estructura horizontal), el sistema de compartición, el sistema envolvente, el sistema de acabados, el sistema de acondicionamiento ambiental y el de servicios.</p>
+</td>
+<td>
+<p>Descripción detallada y clara del proceso de producción, de los servicios que se tienen que prestar o de cualquier otra circunstancia de la actividad.</p>
+<p>Asimismo, descripción de las previsiones, necesidades y acondicionamientos para cumplir las normativas sectoriales que les afecten.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4 Prestaciones del edificio (o actividad)*</p>
+</td>
+<td>
+<p>Por requisitos básicos y en relación con las exigencias básicas del CTE. Se deben indicar en particular las acordadas entre promotor y proyectista que superen los umbrales establecidos en el CTE.</p>
+<p>Deben establecerse las limitaciones de uso del edificio en su conjunto y de cada una de sus dependencias e instalaciones.</p>
+</td>
+<td> </td>
+<td>
+<p>Plantilla y capacidad: se debe indicar el número de personas que prestan los servicios en la actividad y, cuando el caso lo requiera, el aforo máximo de público y la capacidad total.</p>
+<p>Indicación expresa de las soluciones técnicas alternativas que se prevén adoptar, y justificación en el apartado correspondiente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5 Memoria urbanística</p>
+</td>
+<td>
+<p>Memoria urbanística</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2. Memoria constructiva</p>
+<p>2. Memoria constructiva</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Descripción de las soluciones adoptadas</p>
+<p>Descripción de las soluciones adoptadas</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1 Sustentación del edificio *</p>
+<p>2.1 Sustentación del edificio *</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Justificación de las características del suelo y parámetros que se deben considerar para calcular la parte del sistema estructural que corresponde a la fundamentación.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_19">
-<td>
-<p class="cuerpo_tabla_izq">2.2 Sistema estructural (fundamentación, estructura portante y estructura horizontal)</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Se deben establecer los datos y las hipótesis de partida, el programa de necesidades, las bases de cálculo y los procedimientos o métodos que se han utilizado para todo el sistema estructural, así como las características de los materiales que intervienen.</p>
+<p>Justificación de las características del suelo y parámetros que se deben considerar para calcular la parte del sistema estructural que corresponde a la fundamentación.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3 Sistema envolvente</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Definición constructiva de los diferentes subsistemas del envolvente del edificio, con descripción de su comportamiento ante las acciones a las que se encuentra sometido (peso propio, viento, seísmo, etc.), ante el fuego, seguridad de uso, evacuación de agua y comportamiento ante la humedad, aislamiento acústico y sus bases de cálculo.</p>
-<p class="cuerpo_tabla_izq">Aislamiento térmico de los mencionados subsistemas, la demanda energética máxima prevista del edificio para condiciones de verano y de invierno y su eficiencia energética en función del rendimiento energético de las instalaciones proyectado según el apartado 2.6.2.</p>
+<p>2.2 Sistema estructural (fundamentación, estructura portante y estructura horizontal)</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">La definición debe ser la precisa para el proyecto de actividades, en caso de que sea necesario.</p>
+<p>Se deben establecer los datos y las hipótesis de partida, el programa de necesidades, las bases de cálculo y los procedimientos o métodos que se han utilizado para todo el sistema estructural, así como las características de los materiales que intervienen.</p>
 </td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">2.4 Sistema de compartimentación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Definición de los elementos de compartimentación con especificación del comportamiento ante el fuego y su aislamiento acústico y otras características que sean exigibles, en su caso.</p>
-</td>
-<td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.5 Sistemas de acabados</p>
+<p>2.3 Sistema envolvente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se deben indicar las características y prescripciones de los acabados de los paramentos a fin de que se cumplan los requisitos de funcionalidad, seguridad y habitabilidad</p>
+<p>Definición constructiva de los diferentes subsistemas del envolvente del edificio, con descripción de su comportamiento ante las acciones a las que se encuentra sometido (peso propio, viento, seísmo, etc.), ante el fuego, seguridad de uso, evacuación de agua y comportamiento ante la humedad, aislamiento acústico y sus bases de cálculo.</p>
+<p>Aislamiento térmico de los mencionados subsistemas, la demanda energética máxima prevista del edificio para condiciones de verano y de invierno y su eficiencia energética en función del rendimiento energético de las instalaciones proyectado según el apartado 2.6.2.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Se deben indicar en cuanto a sus funciones de salubridad y limpieza.</p>
+<p>La definición debe ser la precisa para el proyecto de actividades, en caso de que sea necesario.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6 Sistemas de acondicionamiento e instalaciones</p>
+<p>2.4 Sistema de compartimentación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se deben indicar los datos de partida, los objetivos que se deben cumplir, las prestaciones y las bases de cálculo para cada uno de los subsistemas siguientes:</p>
-<p class="cuerpo_tabla_izq">1. Protección contra incendios, anti-intrusión, pararrayos, electricidad, ascensores, transporte, fontanería, evacuación de residuos líquidos y sólidos, ventilación, telecomunicaciones, etc.</p>
-<p class="cuerpo_tabla_izq">2. Instalaciones térmicas del edificio proyectado y su rendimiento energético, suministro de combustibles, ahorro de energía e incorporación de energía solar, térmica o fotovoltaica y otras energías renovables.</p>
+<p>Definición de los elementos de compartimentación con especificación del comportamiento ante el fuego y su aislamiento acústico y otras características que sean exigibles, en su caso.</p>
 </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">En el proyecto de actividades se definirán exhaustivamente la totalidad de las instalaciones.</p>
-<p class="cuerpo_tabla_izq">Combustibles: clases, cantidad, tipo, condiciones de suministro, almacenamiento y uso.</p>
-<p class="cuerpo_tabla_izq">Estudio y medidas correctoras de la emisión de contaminantes a la atmósfera.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_izq">2.7 Equipamiento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Definición de baños, cocinas y lavaderos, equipamiento industrial, etc.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Relación de la maquinaria y otros medios que intervienen en el proceso productivo de la actividad.</p>
-<p class="cuerpo_tabla_izq">Posibles molestias, nocividad, peligrosidad o insalubridad que puedan producir las materias primas y los productos acabados o almacenados.</p>
-<p class="cuerpo_tabla_izq">Emisión de contaminantes a la atmósfera.</p>
-</td>
-</tr>
-<tr class="row_column_13">
-<td>
-<p class="cuerpo_tabla_izq">3. Cumplimiento del CTE</p>
-</td>
-<td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1 Seguridad estructural</p>
+<p>2.5 Sistemas de acabados</p>
+</td>
+<td>
+<p>Se deben indicar las características y prescripciones de los acabados de los paramentos a fin de que se cumplan los requisitos de funcionalidad, seguridad y habitabilidad</p>
+</td>
+<td> </td>
+<td>
+<p>Se deben indicar en cuanto a sus funciones de salubridad y limpieza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6 Sistemas de acondicionamiento e instalaciones</p>
+</td>
+<td>
+<p>Se deben indicar los datos de partida, los objetivos que se deben cumplir, las prestaciones y las bases de cálculo para cada uno de los subsistemas siguientes:</p>
+<p>1. Protección contra incendios, anti-intrusión, pararrayos, electricidad, ascensores, transporte, fontanería, evacuación de residuos líquidos y sólidos, ventilación, telecomunicaciones, etc.</p>
+<p>2. Instalaciones térmicas del edificio proyectado y su rendimiento energético, suministro de combustibles, ahorro de energía e incorporación de energía solar, térmica o fotovoltaica y otras energías renovables.</p>
+</td>
+<td> </td>
+<td>
+<p>En el proyecto de actividades se definirán exhaustivamente la totalidad de las instalaciones.</p>
+<p>Combustibles: clases, cantidad, tipo, condiciones de suministro, almacenamiento y uso.</p>
+<p>Estudio y medidas correctoras de la emisión de contaminantes a la atmósfera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.7 Equipamiento</p>
+</td>
+<td>
+<p>Definición de baños, cocinas y lavaderos, equipamiento industrial, etc.</p>
+</td>
+<td> </td>
+<td>
+<p>Relación de la maquinaria y otros medios que intervienen en el proceso productivo de la actividad.</p>
+<p>Posibles molestias, nocividad, peligrosidad o insalubridad que puedan producir las materias primas y los productos acabados o almacenados.</p>
+<p>Emisión de contaminantes a la atmósfera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Cumplimiento del CTE</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2 Seguridad en caso de incendio *</p>
+<p>3.1 Seguridad estructural</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3 Seguridad de utilización y accesibilidad *</p>
+<p>3.2 Seguridad en caso de incendio *</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_22">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.4 Salubridad</p>
-</td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Estudio de olores, residuos líquidos, residuos sólidos y otros impactos potenciales.</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">3.5 Protección contra el ruido</p>
-</td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Relación, estudio y soluciones a los ruidos y vibraciones.</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">3.6 Ahorro de energía</p>
+<p>3.3 Seguridad de utilización y accesibilidad *</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4. Cumplimiento de otros reglamentos y disposiciones</p>
+<p>3.4 Salubridad</p>
 </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Se deben justificar los reglamentos y las disposiciones que sean de aplicación en la actividad proyectada.</p>
-<p class="cuerpo_tabla_izq">Seguridad en el ejercicio de la actividad, y medidas correctoras que se han adoptado.</p>
+<p>Estudio de olores, residuos líquidos, residuos sólidos y otros impactos potenciales.</p>
 </td>
 </tr>
-<tr class="row_column_24">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5. Anexos a la memoria</p>
+<p>3.5 Protección contra el ruido</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>Relación, estudio y soluciones a los ruidos y vibraciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.6 Ahorro de energía</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>4. Cumplimiento de otros reglamentos y disposiciones</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>Se deben justificar los reglamentos y las disposiciones que sean de aplicación en la actividad proyectada.</p>
+<p>Seguridad en el ejercicio de la actividad, y medidas correctoras que se han adoptado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Anexos a la memoria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Información geotécnica.</p>
-<p class="cuerpo_tabla_izq">Cálculo de la estructura.</p>
-<p class="cuerpo_tabla_izq">Protección contra incendio.</p>
-<p class="cuerpo_tabla_izq">Instalaciones del edificio.</p>
-<p class="cuerpo_tabla_izq">Eficiencia energética.</p>
-<p class="cuerpo_tabla_izq">Estudio de impacto ambiental.</p>
-<p class="cuerpo_tabla_izq">Plan de control de calidad.</p>
-<p class="cuerpo_tabla_izq">Estudio de seguridad y salud o estudio básico, en su caso.</p>
+<p>Información geotécnica.</p>
+<p>Cálculo de la estructura.</p>
+<p>Protección contra incendio.</p>
+<p>Instalaciones del edificio.</p>
+<p>Eficiencia energética.</p>
+<p>Estudio de impacto ambiental.</p>
+<p>Plan de control de calidad.</p>
+<p>Estudio de seguridad y salud o estudio básico, en su caso.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">En caso de ser necesario según la legislación vigente de emergencias en las Illes Balears, se debe incluir un plan de autoprotección redactado de conformidad con la normativa mencionada.</p>
+<p>En caso de ser necesario según la legislación vigente de emergencias en las Illes Balears, se debe incluir un plan de autoprotección redactado de conformidad con la normativa mencionada.</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>II. Planos</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El proyecto debe contener tantos planos como sean necesarios para la definición en detalle de las obras.</p>
-<p class="cuerpo_tabla_izq">En caso de obras de rehabilitación, se deben incluir planos del edificio previos a la intervención.</p>
+<p>El proyecto debe contener tantos planos como sean necesarios para la definición en detalle de las obras.</p>
+<p>En caso de obras de rehabilitación, se deben incluir planos del edificio previos a la intervención.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">En actividades de modificaciones, deben incluirse los planos del estado actual.</p>
+<p>En actividades de modificaciones, deben incluirse los planos del estado actual.</p>
 </td>
 </tr>
-<tr class="row_column_25">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plano de situación *</p>
+<p>Plano de situación *</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Referido al planeamiento vigente, con referencia a puntos localizables y con indicación del norte geográfico.</p>
+<p>Referido al planeamiento vigente, con referencia a puntos localizables y con indicación del norte geográfico.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Debe indicar las zonas del planeamiento que afecten a actividades.</p>
+<p>Debe indicar las zonas del planeamiento que afecten a actividades.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plano de emplazamiento*</p>
+<p>Plano de emplazamiento*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Justificación urbanística, alineaciones, retrocesos, etc.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Plano de urbanización*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Red vial, acometidas, etc.</p>
+<p>Justificación urbanística, alineaciones, retrocesos, etc.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plantas generales*</p>
+<p>Plano de urbanización*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delimitadas, con indicación de escala y de usos, y especificando los elementos fijos y los de mobiliario cuando sea preciso para la comprobación de la funcionalidad de los espacios.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">En caso de proyecto de actividades independientes, se pueden unificar estas con las de las instalaciones y agruparlas de forma coherente.</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Planos de cubiertas*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pendientes, puntos de recogida de aguas, etc.</p>
+<p>Red vial, acometidas, etc.</p>
 </td>
 <td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Se debe reflejar la situación de maquinaria, salidas de humos y de otros elementos que puedan tener limitaciones con respecto a las alturas mínimas y las distancias a vecinos.</p>
-</td>
-</tr>
-<tr class="row_column_26">
-<td>
-<p class="cuerpo_tabla_izq">Alzados y secciones*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delimitados, con indicación de la escala y cotas de altura de plantas, gruesos de forjado, alturas totales, para comprobar el cumplimiento de los requisitos urbanísticos y funcionales.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">En los proyectos únicamente de actividades, las secciones deben estar orientadas básicamente al cumplimiento de los requisitos funcionales derivados de reglamentaciones específicas y de ordenanzas.</p>
-</td>
-</tr>
-<tr class="row_column_27">
-<td>
-<p class="cuerpo_tabla_izq">Planos de estructura</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Descripción gráfica y dimensional de todo el sistema estructural (fundamentación, estructura portante y estructura horizontal). Con respecto a la fundamentación se debe incluir, además, su relación con el entorno inmediato y con el conjunto de la obra.</p>
-</td>
 <td> </td>
 </tr>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Planos de instalaciones</p>
+<p>Plantas generales*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Descripción gráfica y dimensional de las redes de cada instalación, plantas, secciones y detalles.</p>
+<p>Delimitadas, con indicación de escala y de usos, y especificando los elementos fijos y los de mobiliario cuando sea preciso para la comprobación de la funcionalidad de los espacios.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">En proyectos únicamente de actividades se debe otorgar el nivel de detalle adecuado a las instalaciones para que el proceso de instalación y construcción no pueda presentar dudas.</p>
+<p>En caso de proyecto de actividades independientes, se pueden unificar estas con las de las instalaciones y agruparlas de forma coherente.</p>
 </td>
 </tr>
-<tr class="row_column_29">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Planos de definición constructiva</p>
+<p>Planos de cubiertas*</p>
+</td>
+<td>
+<p>Pendientes, puntos de recogida de aguas, etc.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Documentación gráfica de detalles constructivos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En proyectos de actividades en los que sea necesario este nivel de detalle para que el proyecto quede definido adecuadamente.</p>
+<p>Se debe reflejar la situación de maquinaria, salidas de humos y de otros elementos que puedan tener limitaciones con respecto a las alturas mínimas y las distancias a vecinos.</p>
 </td>
 </tr>
-<tr class="row_column_29">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Memorias gráficas</p>
+<p>Alzados y secciones*</p>
+</td>
+<td>
+<p>Delimitados, con indicación de la escala y cotas de altura de plantas, gruesos de forjado, alturas totales, para comprobar el cumplimiento de los requisitos urbanísticos y funcionales.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicación de soluciones concretas y elementos singulares: carpintería, cerrajería, etc.</p>
+<p>En los proyectos únicamente de actividades, las secciones deben estar orientadas básicamente al cumplimiento de los requisitos funcionales derivados de reglamentaciones específicas y de ordenanzas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Planos de estructura</p>
+</td>
+<td> </td>
+<td>
+<p>Descripción gráfica y dimensional de todo el sistema estructural (fundamentación, estructura portante y estructura horizontal). Con respecto a la fundamentación se debe incluir, además, su relación con el entorno inmediato y con el conjunto de la obra.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Planos de instalaciones</p>
+</td>
+<td>
+<p>Descripción gráfica y dimensional de las redes de cada instalación, plantas, secciones y detalles.</p>
+</td>
+<td> </td>
+<td>
+<p>En proyectos únicamente de actividades se debe otorgar el nivel de detalle adecuado a las instalaciones para que el proceso de instalación y construcción no pueda presentar dudas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Planos de definición constructiva</p>
+</td>
+<td> </td>
+<td>
+<p>Documentación gráfica de detalles constructivos.</p>
+</td>
+<td>
+<p>En proyectos de actividades en los que sea necesario este nivel de detalle para que el proyecto quede definido adecuadamente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Memorias gráficas</p>
+</td>
+<td> </td>
+<td>
+<p>Indicación de soluciones concretas y elementos singulares: carpintería, cerrajería, etc.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>III. Pliego de condiciones</strong>
 </p>
 </td>
@@ -3022,75 +3016,75 @@ Cuando se deban tramitar modificaciones para las que no se requiera proyecto, la
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_25">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Pliego de cláusulas administrativas</p>
+<p>1. Pliego de cláusulas administrativas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Disposiciones generales.</p>
-<p class="cuerpo_tabla_izq">Disposiciones facultativas.</p>
-<p class="cuerpo_tabla_izq">Disposiciones económicas.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">2. Pliego de condiciones técnicas particulares</p>
-</td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_30">
-<td>
-<p class="cuerpo_tabla_izq">2.1 Prescripciones sobre los materiales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Características técnicas mínimas que deben reunir los productos, equipos y sistemas que se incorporen a las obras, así como sus condiciones de suministro, recepción y conservación, almacenamiento y manipulación, las garantías de calidad y el control de recepción que se deba realizar incluyendo el muestreo del producto, los ensayos a realizar, los criterios de aceptación y rechazo, y las acciones a adoptar y los criterios de uso, conservación y mantenimiento.</p>
-<p class="cuerpo_tabla_izq">Estas especificaciones pueden hacerse por referencia a pliegos generales que sean de aplicación, documentos reconocidos u otros que sean válidos a juicio del proyectista.</p>
+<p>Disposiciones generales.</p>
+<p>Disposiciones facultativas.</p>
+<p>Disposiciones económicas.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2 Prescripciones en cuanto a la ejecución por unidades de obra</p>
+<p>2. Pliego de condiciones técnicas particulares</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1 Prescripciones sobre los materiales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Características técnicas de cada unidad de obra; hay que indicar el proceso de ejecución, normas de aplicación, condiciones previas que se deben cumplir antes de su realización, tolerancias admisibles, condiciones de finalización, conservación y mantenimiento, control de ejecución, ensayos y pruebas, garantías de calidad, criterios de aceptación y rechazo, criterios de medición y valoración de unidades, etc.</p>
-<p class="cuerpo_tabla_izq">Se necesitan las medidas para asegurar la compatibilidad entre los diferentes productos, elementos y sistemas constructivos.</p>
+<p>Características técnicas mínimas que deben reunir los productos, equipos y sistemas que se incorporen a las obras, así como sus condiciones de suministro, recepción y conservación, almacenamiento y manipulación, las garantías de calidad y el control de recepción que se deba realizar incluyendo el muestreo del producto, los ensayos a realizar, los criterios de aceptación y rechazo, y las acciones a adoptar y los criterios de uso, conservación y mantenimiento.</p>
+<p>Estas especificaciones pueden hacerse por referencia a pliegos generales que sean de aplicación, documentos reconocidos u otros que sean válidos a juicio del proyectista.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3 Prescripciones sobre verificaciones en el edificio acabado</p>
+<p>2.2 Prescripciones en cuanto a la ejecución por unidades de obra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se indicarán las verificaciones y pruebas de servicio que se deban realizar para comprobar las prestaciones finales del edificio.</p>
+<p>Características técnicas de cada unidad de obra; hay que indicar el proceso de ejecución, normas de aplicación, condiciones previas que se deben cumplir antes de su realización, tolerancias admisibles, condiciones de finalización, conservación y mantenimiento, control de ejecución, ensayos y pruebas, garantías de calidad, criterios de aceptación y rechazo, criterios de medición y valoración de unidades, etc.</p>
+<p>Se necesitan las medidas para asegurar la compatibilidad entre los diferentes productos, elementos y sistemas constructivos.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.3 Prescripciones sobre verificaciones en el edificio acabado</p>
+</td>
+<td>
+<p>Se indicarán las verificaciones y pruebas de servicio que se deban realizar para comprobar las prestaciones finales del edificio.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">En los proyecto de actividades las verificaciones afectan a los elementos proyectados.</p>
+<p>En los proyecto de actividades las verificaciones afectan a los elementos proyectados.</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>IV. Mediciones</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desarrollo por partidas, agrupadas en capítulos, que deben contener todas las descripciones técnicas necesarias para su especificación y valoración.</p>
+<p>Desarrollo por partidas, agrupadas en capítulos, que deben contener todas las descripciones técnicas necesarias para su especificación y valoración.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>V. Presupuesto</strong>
 </p>
 </td>
@@ -3098,25 +3092,25 @@ Cuando se deban tramitar modificaciones para las que no se requiera proyecto, la
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Presupuesto aproximado*</p>
+<p>1. Presupuesto aproximado*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valoración aproximada de la ejecución material de la obra proyectada por capítulos.</p>
+<p>Valoración aproximada de la ejecución material de la obra proyectada por capítulos.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_34">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2. Presupuesto detallado</p>
+<p>2. Presupuesto detallado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuadro de precios agrupado por capítulos.</p>
-<p class="cuerpo_tabla_izq">Resumen por capítulos, con expresión del valor final de ejecución y contrata.</p>
-<p class="cuerpo_tabla_izq">Debe incluir el presupuesto del control de calidad.</p>
-<p class="cuerpo_tabla_izq">Presupuesto del estudio de Seguridad y Salud.</p>
+<p>Cuadro de precios agrupado por capítulos.</p>
+<p>Resumen por capítulos, con expresión del valor final de ejecución y contrata.</p>
+<p>Debe incluir el presupuesto del control de calidad.</p>
+<p>Presupuesto del estudio de Seguridad y Salud.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -3168,275 +3162,271 @@ El proyecto de actividades itinerantes se debe basar principalmente en la descri
 
 Siempre con el fin de evitar las posibles molestias, nocividad, insalubridad y peligrosidad.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_35">
-<col class="row_column_36">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Contenido del proyecto</p>
+<p>Contenido del proyecto</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>I. Memoria.</strong>
 </p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Objeto del proyecto.</p>
+<p>1. Objeto del proyecto.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_27">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1 Descripción de la actividad e identificación de la misma.</p>
+<p>1.1 Descripción de la actividad e identificación de la misma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Debe contener la descripción clara del objeto de la actividad itinerante que se debe desarrollar, con la finalidad de evaluar las posibles causas de molestias, nocividad, insalubridad o peligrosidad, especialmente aquellas que pueden afectar tanto a usuarios o usuarias como a trabajadores o trabajadoras, o a terceras personas, y hay que indicar las medidas globales de la atracción, así como la superficie que ocupa.</p>
-<p class="cuerpo_tabla_izq">En todos los casos se debe identificar la actividad de forma clara y precisa. Para que no dé lugar a dudas ni a equívocos su identificación, debe quedar asegurada la identidad de la actividad y por ello como mínimo, se debe acompañar de documentación fotográfica suficiente, así como los planos que aseguran su descripción e identificación, independientemente de otros métodos establecidos, como pueden ser números de bastidor, matrículas, etc.</p>
-<p class="cuerpo_tabla_izq">Debe indicar el año de fabricación y las posibles reformas importantes efectuadas.</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">1.2 Tramitación y clasificación de la actividad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Se debe clasificar la actividad según la Ley 7/2013. Asimismo, se debe indicar qué infraestructuras y servicios son necesarios para su instalación.</p>
+<p>Debe contener la descripción clara del objeto de la actividad itinerante que se debe desarrollar, con la finalidad de evaluar las posibles causas de molestias, nocividad, insalubridad o peligrosidad, especialmente aquellas que pueden afectar tanto a usuarios o usuarias como a trabajadores o trabajadoras, o a terceras personas, y hay que indicar las medidas globales de la atracción, así como la superficie que ocupa.</p>
+<p>En todos los casos se debe identificar la actividad de forma clara y precisa. Para que no dé lugar a dudas ni a equívocos su identificación, debe quedar asegurada la identidad de la actividad y por ello como mínimo, se debe acompañar de documentación fotográfica suficiente, así como los planos que aseguran su descripción e identificación, independientemente de otros métodos establecidos, como pueden ser números de bastidor, matrículas, etc.</p>
+<p>Debe indicar el año de fabricación y las posibles reformas importantes efectuadas.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3 Normativa de obligado cumplimiento.</p>
+<p>1.2 Tramitación y clasificación de la actividad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se debe enunciar la normativa que afecta a la actividad itinerante.</p>
-</td>
-</tr>
-<tr class="row_column_37">
-<td>
-<p class="cuerpo_tabla_izq">1.4 Emplazamiento.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">a) Idoneidad de la ubicación.</p>
-<p class="cuerpo_tabla_izq">Se deben justificar las condiciones y las características que debe reunir la ubicación:</p>
-<p class="cuerpo_tabla_izq">– Distancias mínimas (a instalaciones eléctricas, arbolado, edificaciones y elementos similares).</p>
-<p class="cuerpo_tabla_izq">– Necesidades de servicios (agua, alcantarillado, electricidad e infraestructuras similares).</p>
-<p class="cuerpo_tabla_izq">– Acotamiento de zonas de la atracción y del público.</p>
-<p class="cuerpo_tabla_izq">b) Resistencia del terreno.</p>
-<p class="cuerpo_tabla_izq">Se deben justificar las condiciones físicas del terreno, y se deben indicar claramente las premisas mínimas y las condiciones de instalación en función del terreno.</p>
-<p class="cuerpo_tabla_izq">c) Características del diseño.</p>
-<p class="cuerpo_tabla_izq">Se deben describir detalladamente los diferentes mecanismos y elementos que integran la instalación, de manera tal que permitan asegurar las condiciones de seguridad, higiene y comodidad necesarias para los usuarios o usuarias y los espectadores o espectadoras.</p>
-<p class="cuerpo_tabla_izq">d) En las atracciones en las que haya riesgo de proyección o de caída de usuarios o usuarias se debe indicar qué sistema de doble seguridad ha instalado para la sujeción de personas y cabinas, habitáculos o góndolas o hay que justificar la no necesidad.</p>
+<p>Se debe clasificar la actividad según la Ley 7/2013. Asimismo, se debe indicar qué infraestructuras y servicios son necesarios para su instalación.</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.5 Condiciones generales para el desarrollo de la actividad.</p>
+<p>1.3 Normativa de obligado cumplimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a) Condiciones del público (peso máximo y mínimo, estatura, edad y cualquier otra condición física o psíquica que se considere oportuna).</p>
-<p class="cuerpo_tabla_izq">b) Condiciones meteorológicas (viento, lluvia, nieve y circunstancias similares).</p>
-<p class="cuerpo_tabla_izq">c) Condiciones y manual de uso (deben indicarse las normas de funcionamiento y de régimen interno de la actividad).</p>
-<p class="cuerpo_tabla_izq">d) Ejercicio de la actividad. Es imprescindible la descripción detallada y clara del ciclo completo de la actividad y de los servicios que presta o de cualquier otra circunstancia significativa. Se deberán especificar las acciones que deben ejercerse por cada actor con todos los pasos que se deben realizar en la prestación del servicio. Se deben indicar los mecanismos de parada de emergencia.</p>
-<p class="cuerpo_tabla_izq">e) Condiciones específicas para el montaje de la atracción fuera de un recinto ferial con servicios.</p>
+<p>Se debe enunciar la normativa que afecta a la actividad itinerante.</p>
 </td>
 </tr>
-<tr class="row_column_38">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.6 Plantilla y capacidad.</p>
+<p>1.4 Emplazamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La memoria debe indicar el número de personas que prestan sus servicios en la actividad y las funciones concretas que desarrollan. También se debe indicar:</p>
-<p class="cuerpo_tabla_izq">– El aforo máximo de público.</p>
-<p class="cuerpo_tabla_izq">– El número de cabinas, habitáculos o góndolas.</p>
-<p class="cuerpo_tabla_izq">– La capacidad por cabinas, habitáculos o góndolas.</p>
-<p class="cuerpo_tabla_izq">– La capacidad total.</p>
-<p class="cuerpo_tabla_izq">También se deben detallar los medios de protección personal que en cada caso se requieran, así como el cumplimiento de la normativa vigente en salud laboral, y se deben indicar los acondicionamientos necesarios partiendo de las características propias de la actividad.</p>
-</td>
-</tr>
-<tr class="row_column_22">
-<td>
-<p class="cuerpo_tabla_izq">1.7 Combustible y energía.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Clases, cantidad, tipo, condiciones de suministro, almacenamiento y uso.</p>
-<p class="cuerpo_tabla_izq">Se deben que indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias propias de la actividad y las derivadas de la instalación en el montaje y para su ejercicio.</p>
+<p>a) Idoneidad de la ubicación.</p>
+<p>Se deben justificar las condiciones y las características que debe reunir la ubicación:</p>
+<p>– Distancias mínimas (a instalaciones eléctricas, arbolado, edificaciones y elementos similares).</p>
+<p>– Necesidades de servicios (agua, alcantarillado, electricidad e infraestructuras similares).</p>
+<p>– Acotamiento de zonas de la atracción y del público.</p>
+<p>b) Resistencia del terreno.</p>
+<p>Se deben justificar las condiciones físicas del terreno, y se deben indicar claramente las premisas mínimas y las condiciones de instalación en función del terreno.</p>
+<p>c) Características del diseño.</p>
+<p>Se deben describir detalladamente los diferentes mecanismos y elementos que integran la instalación, de manera tal que permitan asegurar las condiciones de seguridad, higiene y comodidad necesarias para los usuarios o usuarias y los espectadores o espectadoras.</p>
+<p>d) En las atracciones en las que haya riesgo de proyección o de caída de usuarios o usuarias se debe indicar qué sistema de doble seguridad ha instalado para la sujeción de personas y cabinas, habitáculos o góndolas o hay que justificar la no necesidad.</p>
 </td>
 </tr>
-<tr class="row_column_39">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8 Instalaciones sanitarias, higiénicas y de agua potable.</p>
+<p>1.5 Condiciones generales para el desarrollo de la actividad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tanto para el montaje como para el ejercicio de la actividad se deben indicar, justificar y condicionar las previsiones al respecto. Se debe indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias, así como las tareas de higienización, mantenimiento, desinfección, etc.</p>
-<p class="cuerpo_tabla_izq">Tanto para el montaje como para el ejercicio de la actividad se deben indicar, justificar y condicionar las previsiones que se refieren al suministro de agua. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias.</p>
-</td>
-</tr>
-<tr class="row_column_22">
-<td>
-<p class="cuerpo_tabla_izq">1.9 Electricidad e iluminación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tanto para el montaje como para el ejercicio de la actividad se deben describir claramente los medios de los que se dispone. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias y las condiciones para el montaje de la actividad y para su ejercicio.</p>
+<p>a) Condiciones del público (peso máximo y mínimo, estatura, edad y cualquier otra condición física o psíquica que se considere oportuna).</p>
+<p>b) Condiciones meteorológicas (viento, lluvia, nieve y circunstancias similares).</p>
+<p>c) Condiciones y manual de uso (deben indicarse las normas de funcionamiento y de régimen interno de la actividad).</p>
+<p>d) Ejercicio de la actividad. Es imprescindible la descripción detallada y clara del ciclo completo de la actividad y de los servicios que presta o de cualquier otra circunstancia significativa. Se deberán especificar las acciones que deben ejercerse por cada actor con todos los pasos que se deben realizar en la prestación del servicio. Se deben indicar los mecanismos de parada de emergencia.</p>
+<p>e) Condiciones específicas para el montaje de la atracción fuera de un recinto ferial con servicios.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.10 Ventilación, climatización, calefacción y agua caliente sanitaria.</p>
+<p>1.6 Plantilla y capacidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tanto para el montaje como para el ejercicio de la actividad se deben describir claramente los medios de los que se dispone. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias.</p>
-</td>
-</tr>
-<tr class="row_column_38">
-<td>
-<p class="cuerpo_tabla_izq">1.11 Riesgo de incendio, de deflagración o de explosión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tanto para el montaje como para el ejercicio de la actividad, las medidas y los medios previstos para la prevención y la protección contra incendios hay que justificar la adecuación a las normas y a los reglamentos vigentes que sean de aplicación en la materia.</p>
-<p class="cuerpo_tabla_izq">En todo caso, estos medios se deben describir claramente, y hay que indicar el tipo, el número, la capacidad y otras características; asimismo, se debe justificar el cumplimiento de la reglamentación específica.</p>
-<p class="cuerpo_tabla_izq">Se debe justificar la evacuación de los usuarios y las usuarias indicando el tiempo requerido para ello, teniendo en cuenta la resistencia al fuego de los elementos estructurales y los medios necesarios.</p>
+<p>La memoria debe indicar el número de personas que prestan sus servicios en la actividad y las funciones concretas que desarrollan. También se debe indicar:</p>
+<p>– El aforo máximo de público.</p>
+<p>– El número de cabinas, habitáculos o góndolas.</p>
+<p>– La capacidad por cabinas, habitáculos o góndolas.</p>
+<p>– La capacidad total.</p>
+<p>También se deben detallar los medios de protección personal que en cada caso se requieran, así como el cumplimiento de la normativa vigente en salud laboral, y se deben indicar los acondicionamientos necesarios partiendo de las características propias de la actividad.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.12 Seguridad laboral y otros riesgos colectivos.</p>
+<p>1.7 Combustible y energía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tanto para el montaje como para el ejercicio de la actividad se deben describir y se han de establecer las medidas preventivas, correctoras y de control. Se deben indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias.</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">1.13 Otras instalaciones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Las que se prevean para el desarrollo de la actividad, ajustadas a la normativa legal aplicable.</p>
+<p>Clases, cantidad, tipo, condiciones de suministro, almacenamiento y uso.</p>
+<p>Se deben que indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias propias de la actividad y las derivadas de la instalación en el montaje y para su ejercicio.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.14 Plan de autoprotección.</p>
+<p>1.8 Instalaciones sanitarias, higiénicas y de agua potable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En caso de ser necesario según la legislación vigente de emergencias en las Illes Balears, se incluirá un plan de autoprotección redactado de conformidad con la normativa mencionada.</p>
-</td>
-</tr>
-<tr class="row_column_26">
-<td>
-<p class="cuerpo_tabla_izq">1.15 Mantenimiento.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Se deben indicar las condiciones de mantenimiento preventivo (plan de mantenimiento diario, semanal, mensual y anual).</p>
-<p class="cuerpo_tabla_izq">Se debe incluir una relación de todos los pasos que se deben seguir para montar la atracción, para asegurar la seguridad estructural y mecánica adecuada a las condiciones del terreno que se puedan dar.</p>
-<p class="cuerpo_tabla_izq">También se deben explicar detalladamente todas las tareas de mantenimiento de los elementos de la actividad una vez instalada.</p>
-<p class="cuerpo_tabla_izq">Se deben indicar los plazos máximos para reemplazar las piezas que puedan sufrir desgaste o aquellas cuyas cualidades de resistencia, dureza, etc. disminuyan con el uso o cualquier otro factor.</p>
+<p>Tanto para el montaje como para el ejercicio de la actividad se deben indicar, justificar y condicionar las previsiones al respecto. Se debe indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias, así como las tareas de higienización, mantenimiento, desinfección, etc.</p>
+<p>Tanto para el montaje como para el ejercicio de la actividad se deben indicar, justificar y condicionar las previsiones que se refieren al suministro de agua. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias.</p>
 </td>
 </tr>
-<tr class="row_column_37">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.16 Elementos que puedan provocar molestias, insalubridades, nocividades e incidencias en el medio ambiente.</p>
+<p>1.9 Electricidad e iluminación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se deben adaptar a la normativa vigente los siguientes apartados:</p>
-<p class="cuerpo_tabla_izq">a) Ruidos y vibraciones. Se debe incluir un análisis de emisión y transmisión de ruidos y vibraciones, justificando las medidas preventivas, correctoras y de control adoptadas.</p>
-<p class="cuerpo_tabla_izq">b) Emisión de contaminantes a la atmósfera. Se debe estudiar la producción de contaminantes y la emisión a la atmósfera y justificarla, y se deben consignar los niveles para cada tipo de contaminantes y las medidas preventivas, correctoras y de control adoptadas.</p>
-<p class="cuerpo_tabla_izq">c) Olores. Cuando se prevé la producción de malos olores se deben indicar las medidas preventivas, correctoras y de control adoptadas para evitarlas.</p>
-<p class="cuerpo_tabla_izq">d) Residuos líquidos. Se deben detallar la composición y las condiciones de los residuos líquidos y, en su caso, el sistema de depuración adoptado, el punto final de vertido y/o la necesidad de gestores autorizados, y la necesidad de red municipal de alcantarillado público.</p>
-<p class="cuerpo_tabla_izq">e) Residuos sólidos. Se deben indicar la composición y la cantidad generada, además del sistema de recogida con indicación de la necesidad o no de gestores autorizados, así como su tratamiento y su eliminación.</p>
-<p class="cuerpo_tabla_izq">f) Otros impactos potenciales. Se deben indicar, justificar y condicionar las previsiones al respecto.</p>
+<p>Tanto para el montaje como para el ejercicio de la actividad se deben describir claramente los medios de los que se dispone. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias y las condiciones para el montaje de la actividad y para su ejercicio.</p>
 </td>
 </tr>
-<tr class="row_column_25">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2. Anexos a la memoria.</p>
+<p>1.10 Ventilación, climatización, calefacción y agua caliente sanitaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Plan de control de calidad y mantenimiento.</p>
-<p class="cuerpo_tabla_izq">– Estudio de Seguridad y Salud o estudio básico, en su caso, que debe contener y establecer las medidas preventivas, correctoras y de control, tanto en el montaje como en la explotación de la actividad. Se deben indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias.</p>
+<p>Tanto para el montaje como para el ejercicio de la actividad se deben describir claramente los medios de los que se dispone. Se deben indicar, en su caso, las autorizaciones específicas y/o sectoriales necesarias.</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>1.11 Riesgo de incendio, de deflagración o de explosión.</p>
+</td>
+<td>
+<p>Tanto para el montaje como para el ejercicio de la actividad, las medidas y los medios previstos para la prevención y la protección contra incendios hay que justificar la adecuación a las normas y a los reglamentos vigentes que sean de aplicación en la materia.</p>
+<p>En todo caso, estos medios se deben describir claramente, y hay que indicar el tipo, el número, la capacidad y otras características; asimismo, se debe justificar el cumplimiento de la reglamentación específica.</p>
+<p>Se debe justificar la evacuación de los usuarios y las usuarias indicando el tiempo requerido para ello, teniendo en cuenta la resistencia al fuego de los elementos estructurales y los medios necesarios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.12 Seguridad laboral y otros riesgos colectivos.</p>
+</td>
+<td>
+<p>Tanto para el montaje como para el ejercicio de la actividad se deben describir y se han de establecer las medidas preventivas, correctoras y de control. Se deben indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.13 Otras instalaciones.</p>
+</td>
+<td>
+<p>Las que se prevean para el desarrollo de la actividad, ajustadas a la normativa legal aplicable.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.14 Plan de autoprotección.</p>
+</td>
+<td>
+<p>En caso de ser necesario según la legislación vigente de emergencias en las Illes Balears, se incluirá un plan de autoprotección redactado de conformidad con la normativa mencionada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.15 Mantenimiento.</p>
+</td>
+<td>
+<p>Se deben indicar las condiciones de mantenimiento preventivo (plan de mantenimiento diario, semanal, mensual y anual).</p>
+<p>Se debe incluir una relación de todos los pasos que se deben seguir para montar la atracción, para asegurar la seguridad estructural y mecánica adecuada a las condiciones del terreno que se puedan dar.</p>
+<p>También se deben explicar detalladamente todas las tareas de mantenimiento de los elementos de la actividad una vez instalada.</p>
+<p>Se deben indicar los plazos máximos para reemplazar las piezas que puedan sufrir desgaste o aquellas cuyas cualidades de resistencia, dureza, etc. disminuyan con el uso o cualquier otro factor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.16 Elementos que puedan provocar molestias, insalubridades, nocividades e incidencias en el medio ambiente.</p>
+</td>
+<td>
+<p>Se deben adaptar a la normativa vigente los siguientes apartados:</p>
+<p>a) Ruidos y vibraciones. Se debe incluir un análisis de emisión y transmisión de ruidos y vibraciones, justificando las medidas preventivas, correctoras y de control adoptadas.</p>
+<p>b) Emisión de contaminantes a la atmósfera. Se debe estudiar la producción de contaminantes y la emisión a la atmósfera y justificarla, y se deben consignar los niveles para cada tipo de contaminantes y las medidas preventivas, correctoras y de control adoptadas.</p>
+<p>c) Olores. Cuando se prevé la producción de malos olores se deben indicar las medidas preventivas, correctoras y de control adoptadas para evitarlas.</p>
+<p>d) Residuos líquidos. Se deben detallar la composición y las condiciones de los residuos líquidos y, en su caso, el sistema de depuración adoptado, el punto final de vertido y/o la necesidad de gestores autorizados, y la necesidad de red municipal de alcantarillado público.</p>
+<p>e) Residuos sólidos. Se deben indicar la composición y la cantidad generada, además del sistema de recogida con indicación de la necesidad o no de gestores autorizados, así como su tratamiento y su eliminación.</p>
+<p>f) Otros impactos potenciales. Se deben indicar, justificar y condicionar las previsiones al respecto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Anexos a la memoria.</p>
+</td>
+<td>
+<p>– Plan de control de calidad y mantenimiento.</p>
+<p>– Estudio de Seguridad y Salud o estudio básico, en su caso, que debe contener y establecer las medidas preventivas, correctoras y de control, tanto en el montaje como en la explotación de la actividad. Se deben indicar en cada caso las autorizaciones específicas y/o sectoriales necesarias.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>II. Planos.</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El proyecto debe contener tantos planos delimitados como sean necesarios para la definición de la actividad en detalle.</p>
+<p>El proyecto debe contener tantos planos delimitados como sean necesarios para la definición de la actividad en detalle.</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plano de condiciones de emplazamiento.</p>
+<p>Plano de condiciones de emplazamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plano de las condiciones de emplazamiento de la actividad, con indicación de las superficies de seguridad y de las distancias a posibles elementos del entorno inmediato (líneas eléctricas, edificaciones, otras actividades, otras instalaciones y similares).</p>
-</td>
-</tr>
-<tr class="row_column_25">
-<td>
-<p class="cuerpo_tabla_izq">Plano de planta y sección.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Planos en planta y sección en las cuales se debe desarrollar la actividad que expresan la distribución de zonas. Asimismo, se deben indicar las diferentes instalaciones, la maquinaria y las medidas preventivas, correctoras y de control que se han previsto y que son necesarias para una valoración de los efectos de la actividad itinerante.</p>
+<p>Plano de las condiciones de emplazamiento de la actividad, con indicación de las superficies de seguridad y de las distancias a posibles elementos del entorno inmediato (líneas eléctricas, edificaciones, otras actividades, otras instalaciones y similares).</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Plano de detalles de sistemas de seguridad.</p>
+<p>Plano de planta y sección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Planos con los detalles de los sistemas de seguridad, en los que quede lo bastante claro su funcionamiento y montaje.</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">Planos de instalaciones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esquemas eléctricos y otras instalaciones (agua, gas, frigoríficas, combustibles, protección contra incendios y otros).</p>
+<p>Planos en planta y sección en las cuales se debe desarrollar la actividad que expresan la distribución de zonas. Asimismo, se deben indicar las diferentes instalaciones, la maquinaria y las medidas preventivas, correctoras y de control que se han previsto y que son necesarias para una valoración de los efectos de la actividad itinerante.</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Planos de detalles.</p>
+<p>Plano de detalles de sistemas de seguridad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros datos de detalle que el o la proyectista considere oportunos.</p>
+<p>Planos con los detalles de los sistemas de seguridad, en los que quede lo bastante claro su funcionamiento y montaje.</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Planos de instalaciones.</p>
+</td>
+<td>
+<p>Esquemas eléctricos y otras instalaciones (agua, gas, frigoríficas, combustibles, protección contra incendios y otros).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Planos de detalles.</p>
+</td>
+<td>
+<p>Otros datos de detalle que el o la proyectista considere oportunos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <strong>III. Pliego de Condiciones.</strong>
 </p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Pliego de cláusulas administrativas.</p>
+<p>1. Pliego de cláusulas administrativas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Disposiciones generales.</p>
+<p>Disposiciones generales.</p>
 </td>
 </tr>
-<tr class="row_column_40">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2. Pliego de condiciones técnicas particulares.</p>
+<p>2. Pliego de condiciones técnicas particulares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Descripción exhaustiva de los procesos de montaje y desmontaje que complementan el apartado 1.16 de la memoria, indicando las fases que se deben seguir, herramientas y personal mínimo adscrito para estas tareas, con protocolo de aseguramiento de cumplimiento de condiciones de instalación y protocolos en caso de superarse los parámetros de funcionamiento permitido. Se debe acreditar que en el montaje se cumple la Directiva 2009/104/CE del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, relativa a las disposiciones mínimas de seguridad y de salud para la utilización por los trabajadores en el trabajo de los equipos de trabajo (segunda Directiva específica de acuerdo con el artículo 16, apartado 1, de la Directiva 89/391/CEE).</p>
+<p>Descripción exhaustiva de los procesos de montaje y desmontaje que complementan el apartado 1.16 de la memoria, indicando las fases que se deben seguir, herramientas y personal mínimo adscrito para estas tareas, con protocolo de aseguramiento de cumplimiento de condiciones de instalación y protocolos en caso de superarse los parámetros de funcionamiento permitido. Se debe acreditar que en el montaje se cumple la Directiva 2009/104/CE del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, relativa a las disposiciones mínimas de seguridad y de salud para la utilización por los trabajadores en el trabajo de los equipos de trabajo (segunda Directiva específica de acuerdo con el artículo 16, apartado 1, de la Directiva 89/391/CEE).</p>
 </td>
 </tr>
 </tbody>

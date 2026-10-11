@@ -452,55 +452,55 @@ R* = 8,31432 (J/mol)/K
 
 c) los gradientes térmicos son:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Altitud</p>
-<p class="cabeza_tabla">geopotencial (Km)</p>
+<p>Altitud</p>
+<p>geopotencial (Km)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Gradiente térmico (Kelvin por kilómetro geopotencial patrón)</th>
+<th rowspan="2">Gradiente térmico (Kelvin por kilómetro geopotencial patrón)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">De</th>
-<th class="cabeza_tabla">A</th>
+<th>De</th>
+<th>A</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">-5,0</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">-6,5</td>
+<td>-5,0</td>
+<td>11,0</td>
+<td>-6,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">20,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
+<td>11,0</td>
+<td>20,0</td>
+<td>0,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20,0</td>
-<td class="cuerpo_tabla_centro">32,0</td>
-<td class="cuerpo_tabla_centro">+1,0</td>
+<td>20,0</td>
+<td>32,0</td>
+<td>+1,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32,0</td>
-<td class="cuerpo_tabla_centro">47,0</td>
-<td class="cuerpo_tabla_centro">+2,8</td>
+<td>32,0</td>
+<td>47,0</td>
+<td>+2,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47,0</td>
-<td class="cuerpo_tabla_centro">51,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
+<td>47,0</td>
+<td>51,0</td>
+<td>0,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51,0</td>
-<td class="cuerpo_tabla_centro">71,0</td>
-<td class="cuerpo_tabla_centro">-2,8</td>
+<td>51,0</td>
+<td>71,0</td>
+<td>-2,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">71,0</td>
-<td class="cuerpo_tabla_centro">80,0</td>
-<td class="cuerpo_tabla_centro">-2,0</td>
+<td>71,0</td>
+<td>80,0</td>
+<td>-2,0</td>
 </tr>
 </tbody>
 </table>
@@ -4941,44 +4941,44 @@ Debajo, donde coinciden la columna de valores de altitud de transición con los 
 
 A continuación se ilustra un ejemplo de niveles de transición para un aeródromo cuya altitud de transición es de 6000 ft (1800 metros) o 7000 ft (2100 m).
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">TA</th>
-<th class="cabeza_tabla">QNH</th>
-<th class="cabeza_tabla">De 942,2 a 959,4</th>
-<th class="cabeza_tabla">De 959,5 a 977,1</th>
-<th class="cabeza_tabla">De 977,2 a 995,0</th>
-<th class="cabeza_tabla">De 995,1 a 1013,2</th>
-<th class="cabeza_tabla">De 1013,3 a 1031,6</th>
-<th class="cabeza_tabla">De 1031,7 a 1050,3</th>
+<th>TA</th>
+<th>QNH</th>
+<th>De 942,2 a 959,4</th>
+<th>De 959,5 a 977,1</th>
+<th>De 977,2 a 995,0</th>
+<th>De 995,1 a 1013,2</th>
+<th>De 1013,3 a 1031,6</th>
+<th>De 1031,7 a 1050,3</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">M</th>
-<th class="cabeza_tabla">FT</th>
-<th class="cuerpo_tabla_izq" colspan="6"> </th>
+<th>M</th>
+<th>FT</th>
+<th colspan="6"> </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1800</td>
-<td class="cuerpo_tabla_centro">6000</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">85</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">75</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">65</td>
+<td>1800</td>
+<td>6000</td>
+<td>90</td>
+<td>85</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2100</td>
-<td class="cuerpo_tabla_centro">7000</td>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">95</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">85</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">75</td>
+<td>2100</td>
+<td>7000</td>
+<td>100</td>
+<td>95</td>
+<td>90</td>
+<td>85</td>
+<td>80</td>
+<td>75</td>
 </tr>
 </tbody>
 </table>
@@ -5663,49 +5663,44 @@ d) VOR/GNSS: la aeronave que utiliza VOR se establece en un radial hacia o desde
 
 Tabla 4.3.1. Separación lateral para aeronaves que utilizan VOR y GNSS
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_12">
-<col class="row_column_12">
-<col class="row_column_12">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td> </td>
 <td colspan="2">
-<p class="cabeza_tabla">Aeronave 1: VOR o GNSS</p>
-<p class="cabeza_tabla">Aeronave 2: GNSS</p>
+<p>Aeronave 1: VOR o GNSS</p>
+<p>Aeronave 2: GNSS</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Diferencia angular entre derrotas medida en el punto común (en grados).</p>
+<p>Diferencia angular entre derrotas medida en el punto común (en grados).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FL010 – FL190</p>
-<p class="cuerpo_tabla_izq">Distancia desde un punto común.</p>
+<p>FL010 – FL190</p>
+<p>Distancia desde un punto común.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FL200 – FL600</p>
-<p class="cuerpo_tabla_izq">Distancia desde un punto común.</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_izq">15 – 135</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">27,8 km (15 NM)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">43 km (23 NM)</p>
+<p>FL200 – FL600</p>
+<p>Distancia desde un punto común.</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
+<td>
+<p>15 – 135</p>
+</td>
+<td>
+<p>27,8 km (15 NM)</p>
+</td>
+<td>
+<p>43 km (23 NM)</p>
+</td>
+</tr>
+<tr>
 <td colspan="3">
-<p class="parrafo">Las distancias que figuran en la tabla son distancias en tierra. Los Estados deben tener en cuenta la distancia (alcance oblicuo) desde la fuente de una señal DME a la antena receptora cuando se utilice el DME para proporcionar información sobre el alcance.</p>
+<p>Las distancias que figuran en la tabla son distancias en tierra. Los Estados deben tener en cuenta la distancia (alcance oblicuo) desde la fuente de una señal DME a la antena receptora cuando se utilice el DME para proporcionar información sobre el alcance.</p>
 </td>
 </tr>
 </tbody>
@@ -6172,97 +6167,90 @@ a) la misma derrota; o
 
 b) que atraviesen derrotas, siempre que el ángulo relativo entre las derrotas sea inferior a 90º.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_22">
-<col class="row_column_23">
-<col class="row_column_23">
-<col class="row_column_23">
-<col class="row_column_22">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cabeza_tabla">Mínimas de separación</p>
+<p>Mínimas de separación</p>
 </td>
 <td>
-<p class="cabeza_tabla">RNP</p>
+<p>RNP</p>
 </td>
 <td>
-<p class="cabeza_tabla">RCP</p>
+<p>RCP</p>
 </td>
 <td>
-<p class="cabeza_tabla">RSP</p>
+<p>RSP</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo Intervalo de notificación periódica de ADS-C</p>
+<p>Máximo Intervalo de notificación periódica de ADS-C</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">93 km (50 NM)</p>
+<p>93 km (50 NM)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27 minutos</p>
-</td>
-</tr>
-<tr class="row_column_4">
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">180</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">32 minutos</p>
+<p>27 minutos</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">55,5 km (30 NM)</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 o 4</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12 minutos</p>
+<p>32 minutos</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5 minutos</p>
+<p>55,5 km (30 NM)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 o 4 o 10</p>
+<p>2 o 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240</p>
+<p>240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14 minutos</p>
+<p>12 minutos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5 minutos</p>
+</td>
+<td>
+<p>2 o 4 o 10</p>
+</td>
+<td>
+<p>240</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>14 minutos</p>
 </td>
 </tr>
 </tbody>
@@ -9023,94 +9011,89 @@ b) 4,6 km (2,5 NM) entre dos aeronaves sucesivas situadas en la misma derrota de
 
 4.6.7.4.4 Cuando conforme a lo previsto en SERA.8012 deba aplicarse separación por estela turbulenta y se utilicen las categorías de estela turbulenta establecidas en el apartado 4.5.15.1.1, a las aeronaves que reciban un sistema de vigilancia ATS en las fases de aproximación y salida se aplicarán las siguientes mínimas de separación por estela turbulenta basadas en la distancia:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_33">
-<col class="row_column_34">
-<col class="row_column_35">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Categoría de aeronaves</p>
+<p>Categoría de aeronaves</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Mínimas de separación por estela turbulenta basadas en la distancia</p>
+<p>Mínimas de separación por estela turbulenta basadas en la distancia</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Aeronave que precede</p>
+<p>Aeronave que precede</p>
 </td>
 <td>
-<p class="cabeza_tabla">Aeronave que sigue</p>
+<p>Aeronave que sigue</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">SÚPER</p>
+<p>SÚPER</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">PESADA</p>
+<p>PESADA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,3 km (5.0 NM)</p>
+<p>9,3 km (5.0 NM)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">MEDIA</p>
+<p>MEDIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,9 km (7,0 NM)</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_centro">LIGERA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14,9 km (8,0 NM)</p>
+<p>13,9 km (7,0 NM)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
+<td>
+<p>LIGERA</p>
+</td>
+<td>
+<p>14,9 km (8,0 NM)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">PESADA</p>
+<p>PESADA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">PESADA</p>
+<p>PESADA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,4 km (4,0 NM)</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_centro">MEDIA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,3 km (5,0 NM)</p>
+<p>7,4 km (4,0 NM)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">LIGERA</p>
+<p>MEDIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,1 km (6,0 NM)</p>
+<p>9,3 km (5,0 NM)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">MEDIA</p>
+<p>LIGERA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">LIGERA</p>
+<p>11,1 km (6,0 NM)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MEDIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,3 km (5,0 NM)</p>
+<p>LIGERA</p>
+</td>
+<td>
+<p>9,3 km (5,0 NM)</p>
 </td>
 </tr>
 </tbody>
@@ -10416,44 +10399,44 @@ b) los datos de los servicios de tránsito aéreo, precedidos si es necesario po
 
 4.9.2.1.2.2.2. El orden de prioridad para la transmisión de mensajes por la AFTN será el siguiente:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Prioridad de transmisión</p>
+<p>Prioridad de transmisión</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Indicador de prioridad</p>
+<p>Indicador de prioridad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">SS</p>
+<p>SS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">DD</p>
+<p>DD</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">FF</p>
+<p>FF</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">GG</p>
+<p>GG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">KK</p>
+<p>KK</p>
 </td>
 </tr>
 </tbody>
@@ -15618,209 +15601,204 @@ b) la dependencia o servicio disponible.
 
 10.5.2.1.6.1.2. La dependencia o servicio se identificará de conformidad con el cuadro siguiente. No obstante, cuando se haya establecido una comunicación satisfactoria, puede omitirse el nombre del lugar o la dependencia/servicio.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_42">
-<col class="row_column_43">
-<col class="row_column_44">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Dependencia/servicio disponible</p>
+<p>Dependencia/servicio disponible</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Sufijo del distintivo de llamada</p>
+<p>Sufijo del distintivo de llamada</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Español</p>
+<p>Español</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inglés</p>
+<p>Inglés</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Centro de control de área</p>
+<p>Centro de control de área</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control.</p>
+<p>Control.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Control.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control de aproximación</p>
+<p>Control de aproximación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aproximación.</p>
+<p>Aproximación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Approach.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Llegadas con radar de control de aproximación</p>
+<p>Llegadas con radar de control de aproximación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Llegadas.</p>
+<p>Llegadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Arrival.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Salidas con radar de control de aproximación</p>
+<p>Salidas con radar de control de aproximación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salidas.</p>
+<p>Salidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Departure.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control de aeródromo</p>
+<p>Control de aeródromo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Torre.</p>
+<p>Torre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Tower.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control del movimiento en la superficie</p>
+<p>Control del movimiento en la superficie</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Control Terrestre.</p>
+<p>Control Terrestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Ground.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Radar (en general)</p>
+<p>Radar (en general)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radar.</p>
+<p>Radar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Radar.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Radar de aproximación de precisión</p>
+<p>Radar de aproximación de precisión</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Precisión.</p>
+<p>Precisión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Precision.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Estación radiogoniométrica</p>
+<p>Estación radiogoniométrica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recalada.</p>
+<p>Recalada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Homer.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Servicio de información de vuelo</p>
+<p>Servicio de información de vuelo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Información.</p>
+<p>Información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Information.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Entrega de la autorización</p>
+<p>Entrega de la autorización</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorizaciones.</p>
+<p>Autorizaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Delivery.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Control de la plataforma</p>
+<p>Control de la plataforma</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plataforma.</p>
+<p>Plataforma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Apron.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Despacho de la compañía</p>
+<p>Despacho de la compañía</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Despacho.</p>
+<p>Despacho.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Dispatch.</em>
 </p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Estación aeronáutica</p>
+<p>Estación aeronáutica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radio.</p>
+<p>Radio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Radio.</em>
 </p>
 </td>
@@ -16775,81 +16753,81 @@ d) Todo centro de información de vuelo necesita información sobre el estado op
 
 **Provisión de información a las dependencias ATS en relación con las ayudas visuales y no visuales**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Principio</th>
-<th class="cabeza_tabla">Fase específica de operación</th>
-<th class="cabeza_tabla" colspan="2">Ayudas visuales y no visuales cuyo estado sea importante para las dependencias ATS</th>
-<th class="cabeza_tabla">Qué dependencia ATS lo requiere</th>
-<th class="cabeza_tabla">Tiempo óptimo necesario</th>
+<th>Principio</th>
+<th>Fase específica de operación</th>
+<th colspan="2">Ayudas visuales y no visuales cuyo estado sea importante para las dependencias ATS</th>
+<th>Qué dependencia ATS lo requiere</th>
+<th>Tiempo óptimo necesario</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla" colspan="2">3</th>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">5</th>
+<th>1</th>
+<th>2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="6">En los lugares donde el servicio de control de aproximación esté a cargo de una oficina de control de aproximación</td>
+<td colspan="6">En los lugares donde el servicio de control de aproximación esté a cargo de una oficina de control de aproximación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Siguiendo un procedimiento normalizado de llegada (instrumentos)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Las ayudas VOR y cualesquiera otra NAVAIDS en que se base el procedimiento</td>
-<td class="cuerpo_tabla_centro">APP</td>
-<td class="cuerpo_tabla_izq">Máximo 2 minutos</td>
+<td>A</td>
+<td>Siguiendo un procedimiento normalizado de llegada (instrumentos)</td>
+<td colspan="2">Las ayudas VOR y cualesquiera otra NAVAIDS en que se base el procedimiento</td>
+<td>APP</td>
+<td>Máximo 2 minutos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Fases inicial e intermedia de la aproximación</td>
-<td class="cuerpo_tabla_izq" colspan="2">NAVAIDS y las ayudas secundarias en que se basen esas fases de la aproximación</td>
-<td class="cuerpo_tabla_centro">APP</td>
-<td class="cuerpo_tabla_izq">Máximo 2 minutos</td>
+<td>B</td>
+<td>Fases inicial e intermedia de la aproximación</td>
+<td colspan="2">NAVAIDS y las ayudas secundarias en que se basen esas fases de la aproximación</td>
+<td>APP</td>
+<td>Máximo 2 minutos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Aproximación final y aterrizaje a raíz de una aproximación por instrumentos</td>
-<td class="cuerpo_tabla_izq" colspan="2">Las ayudas empleadas para las fases de aproximación y aterrizaje de los procedimientos de aproximación utilizados</td>
-<td class="cuerpo_tabla_centro">APP y TWR, de ser el caso</td>
-<td class="cuerpo_tabla_izq">Sin demora (véase la Nota)</td>
+<td>C</td>
+<td>Aproximación final y aterrizaje a raíz de una aproximación por instrumentos</td>
+<td colspan="2">Las ayudas empleadas para las fases de aproximación y aterrizaje de los procedimientos de aproximación utilizados</td>
+<td>APP y TWR, de ser el caso</td>
+<td>Sin demora (véase la Nota)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Fases de despegue y ascenso inicial del procedimiento de salida por instrumentos</td>
-<td class="cuerpo_tabla_izq" colspan="2">Las ayudas empleadas para la pista y el procedimiento de salida utilizado</td>
-<td class="cuerpo_tabla_centro">TWR y/o APP, según sea el caso</td>
-<td class="cuerpo_tabla_izq">Sin demora (véase la Nota)</td>
+<td>D</td>
+<td>Fases de despegue y ascenso inicial del procedimiento de salida por instrumentos</td>
+<td colspan="2">Las ayudas empleadas para la pista y el procedimiento de salida utilizado</td>
+<td>TWR y/o APP, según sea el caso</td>
+<td>Sin demora (véase la Nota)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="6">En los lugares donde el servicio de control de aproximación esté a cargo de un centro de control de área</td>
+<td colspan="6">En los lugares donde el servicio de control de aproximación esté a cargo de un centro de control de área</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Aproximación, aterrizaje y despegue</td>
-<td class="cuerpo_tabla_izq">Las ayudas existentes de las descritas en esta columna para los Principios B, C y D</td>
-<td class="cuerpo_tabla_centro" colspan="2">TWR</td>
-<td class="cuerpo_tabla_izq">El mismo tiempo indicado para los principios pertinentes</td>
+<td>E</td>
+<td>Aproximación, aterrizaje y despegue</td>
+<td>Las ayudas existentes de las descritas en esta columna para los Principios B, C y D</td>
+<td colspan="2">TWR</td>
+<td>El mismo tiempo indicado para los principios pertinentes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_izq">Aproximación, aterrizaje, despegue y ascenso inicial</td>
-<td class="cuerpo_tabla_izq">Las ayudas existentes de las descritas en esta columna para los Principios B, C y D</td>
-<td class="cuerpo_tabla_centro" colspan="2">ACC (donde no haya TWR)</td>
-<td class="cuerpo_tabla_izq">Máximo 2 minutos</td>
+<td>F</td>
+<td>Aproximación, aterrizaje, despegue y ascenso inicial</td>
+<td>Las ayudas existentes de las descritas en esta columna para los Principios B, C y D</td>
+<td colspan="2">ACC (donde no haya TWR)</td>
+<td>Máximo 2 minutos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="6">En los lugares donde no se suministre servicio de control de aproximación</td>
+<td colspan="6">En los lugares donde no se suministre servicio de control de aproximación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_izq">Todas las fases</td>
-<td class="cuerpo_tabla_izq">Todas las ayudas de estos tipos que haya</td>
-<td class="cuerpo_tabla_centro" colspan="2">FIC</td>
-<td class="cuerpo_tabla_izq">Máximo 5 minutos</td>
+<td>G</td>
+<td>Todas las fases</td>
+<td>Todas las ayudas de estos tipos que haya</td>
+<td colspan="2">FIC</td>
+<td>Máximo 5 minutos</td>
 </tr>
 </tbody>
 </table>
@@ -17042,114 +17020,114 @@ Los dispositivos de detección de vórtices son importantes para los controlador
 
 ## APÉNDICE H — Unidades de medida que se emplearán en las operaciones aéreas y terrestres
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Magnitudes</th>
-<th class="cabeza_tabla" rowspan="2">Unidades SI</th>
-<th class="cabeza_tabla" colspan="2">Unidades ajenas al sistema SI</th>
+<th rowspan="2">Magnitudes</th>
+<th rowspan="2">Unidades SI</th>
+<th colspan="2">Unidades ajenas al sistema SI</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Uso permanente</th>
-<th class="cabeza_tabla">Uso temporal</th>
+<th>Uso permanente</th>
+<th>Uso temporal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Alcance visual en la pista</td>
-<td class="cuerpo_tabla_centro">Metros</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Alcance visual en la pista</td>
+<td>Metros</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altitud, altura, elevación</td>
-<td class="cuerpo_tabla_centro">Metros</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Pies</td>
+<td>Altitud, altura, elevación</td>
+<td>Metros</td>
+<td> </td>
+<td>Pies</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autonomía</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Horas y minutos</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Autonomía</td>
+<td> </td>
+<td>Horas y minutos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección del viento, excepto para el aterrizaje y el despegue</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Grados geográficos</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Dirección del viento, excepto para el aterrizaje y el despegue</td>
+<td> </td>
+<td>Grados geográficos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección del viento para el aterrizaje y el despegue</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Grados magnéticos</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Dirección del viento para el aterrizaje y el despegue</td>
+<td> </td>
+<td>Grados magnéticos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia corta</td>
-<td class="cuerpo_tabla_centro">Metros</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Distancia corta</td>
+<td>Metros</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia utilizada en navegación, generalmente más de 4.000 metros</td>
-<td class="cuerpo_tabla_centro">Kilómetros</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Millas marinas</td>
+<td>Distancia utilizada en navegación, generalmente más de 4.000 metros</td>
+<td>Kilómetros</td>
+<td> </td>
+<td>Millas marinas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud de pista</td>
-<td class="cuerpo_tabla_centro">Metros</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Longitud de pista</td>
+<td>Metros</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tiempo</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Año, mes, semana, día, hora, minuto, segundo</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Tiempo</td>
+<td> </td>
+<td>Año, mes, semana, día, hora, minuto, segundo</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Visibilidad (La visibilidad inferior a 5 Km. puede indicarse en metros)</td>
-<td class="cuerpo_tabla_centro">Kilómetros</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Visibilidad (La visibilidad inferior a 5 Km. puede indicarse en metros)</td>
+<td>Kilómetros</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Kilogramos</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Masa</td>
+<td> </td>
+<td>Kilogramos</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reglaje del altímetro</td>
-<td class="cuerpo_tabla_centro">HectoPascales</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Reglaje del altímetro</td>
+<td>HectoPascales</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Velocidad (En las operaciones de vuelo se indica a veces mediante el Número de Mach)</td>
-<td class="cuerpo_tabla_centro">Kilómetros por hora</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Nudos</td>
+<td>Velocidad (En las operaciones de vuelo se indica a veces mediante el Número de Mach)</td>
+<td>Kilómetros por hora</td>
+<td> </td>
+<td>Nudos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Velocidad vertical</td>
-<td class="cuerpo_tabla_centro">Metros por segundo</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Pies por minuto</td>
+<td>Velocidad vertical</td>
+<td>Metros por segundo</td>
+<td> </td>
+<td>Pies por minuto</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Velocidad del viento</td>
-<td class="cuerpo_tabla_centro">Kilómetros por hora</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Nudos</td>
+<td>Velocidad del viento</td>
+<td>Kilómetros por hora</td>
+<td> </td>
+<td>Nudos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temperatura</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Grados Celsius</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Temperatura</td>
+<td> </td>
+<td>Grados Celsius</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -17244,100 +17222,100 @@ El Grupo NAT/SPG elaboró un cuadro para que se utilizase en relación con la ap
 
 Aplicación de la técnica basada en el número Mach cuando la aeronave que siga sea más veloz
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Diferencia en número de Mach</th>
-<th class="cabeza_tabla" colspan="5">Distancia de vuelo y separación necesario (en minutos) en el punto de entrada</th>
+<th rowspan="2">Diferencia en número de Mach</th>
+<th colspan="5">Distancia de vuelo y separación necesario (en minutos) en el punto de entrada</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">001-600 NM</th>
-<th class="cabeza_tabla">601-1200 NM</th>
-<th class="cabeza_tabla">1201-1800 NM</th>
-<th class="cabeza_tabla">1801-2400 NM</th>
-<th class="cabeza_tabla">2401-3000 NM</th>
+<th>001-600 NM</th>
+<th>601-1200 NM</th>
+<th>1201-1800 NM</th>
+<th>1801-2400 NM</th>
+<th>2401-3000 NM</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0,01</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0,01</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,02</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>0,02</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>18</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,03</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>0,03</td>
+<td>13</td>
+<td>16</td>
+<td>19</td>
+<td>22</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,04</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>0,04</td>
+<td>14</td>
+<td>18</td>
+<td>22</td>
+<td>26</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,05</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td>0,05</td>
+<td>15</td>
+<td>20</td>
+<td>25</td>
+<td>30</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,06</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>0,06</td>
+<td>16</td>
+<td>22</td>
+<td>28</td>
+<td>34</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,07</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">45</td>
+<td>0,07</td>
+<td>17</td>
+<td>24</td>
+<td>31</td>
+<td>38</td>
+<td>45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,08</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>0,08</td>
+<td>18</td>
+<td>26</td>
+<td>34</td>
+<td>42</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,09</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_centro">55</td>
+<td>0,09</td>
+<td>19</td>
+<td>28</td>
+<td>37</td>
+<td>46</td>
+<td>55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0,10</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">60</td>
+<td>0,10</td>
+<td>20</td>
+<td>30</td>
+<td>40</td>
+<td>50</td>
+<td>60</td>
 </tr>
 </tbody>
 </table>
@@ -17922,58 +17900,58 @@ La palabra «retención», utilizada en la presente sección, sirve para indicar
 
 – Para los tramos de más de 93 km (50 NM) y menos de 278 km (15O NM) entre los VOR, utilícense los valores dados en A de la tabla, hasta 46 km (25 NM), luego ensánchese linealmente hasta el valor dado en B, a 139 km (75 NM) del VOR.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="6">Porcentajes de retención</th>
+<th> </th>
+<th colspan="6">Porcentajes de retención</th>
 </tr>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">95</th>
-<th class="cabeza_tabla">96</th>
-<th class="cabeza_tabla">97</th>
-<th class="cabeza_tabla">98</th>
-<th class="cabeza_tabla">99</th>
-<th class="cabeza_tabla">99,5</th>
+<th> </th>
+<th>95</th>
+<th>96</th>
+<th>97</th>
+<th>98</th>
+<th>99</th>
+<th>99,5</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">A (km)</td>
-<td class="cuerpo_tabla_der">±7,4</td>
-<td class="cuerpo_tabla_der">±7,4</td>
-<td class="cuerpo_tabla_der">±8,3</td>
-<td class="cuerpo_tabla_der">±9,3</td>
-<td class="cuerpo_tabla_der">±10,2</td>
-<td class="cuerpo_tabla_der">±11,1</td>
+<td>A (km)</td>
+<td>±7,4</td>
+<td>±7,4</td>
+<td>±8,3</td>
+<td>±9,3</td>
+<td>±10,2</td>
+<td>±11,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">(NM)</td>
-<td class="cuerpo_tabla_der">±4,0</td>
-<td class="cuerpo_tabla_der">±4,0</td>
-<td class="cuerpo_tabla_der">±4,5</td>
-<td class="cuerpo_tabla_der">±5,0</td>
-<td class="cuerpo_tabla_der">±5,5</td>
-<td class="cuerpo_tabla_der">±6,0</td>
+<td>(NM)</td>
+<td>±4,0</td>
+<td>±4,0</td>
+<td>±4,5</td>
+<td>±5,0</td>
+<td>±5,5</td>
+<td>±6,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B (km)</td>
-<td class="cuerpo_tabla_der">±11,1</td>
-<td class="cuerpo_tabla_der">±11,1</td>
-<td class="cuerpo_tabla_der">±12,0</td>
-<td class="cuerpo_tabla_der">±12,0</td>
-<td class="cuerpo_tabla_der">±13,0</td>
-<td class="cuerpo_tabla_der">±15,7</td>
+<td>B (km)</td>
+<td>±11,1</td>
+<td>±11,1</td>
+<td>±12,0</td>
+<td>±12,0</td>
+<td>±13,0</td>
+<td>±15,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">(NM)</td>
-<td class="cuerpo_tabla_der">±6,0</td>
-<td class="cuerpo_tabla_der">±6,0</td>
-<td class="cuerpo_tabla_der">±6,5</td>
-<td class="cuerpo_tabla_der">±6,5</td>
-<td class="cuerpo_tabla_der">±7,0</td>
-<td class="cuerpo_tabla_der">±8,5</td>
+<td>(NM)</td>
+<td>±6,0</td>
+<td>±6,0</td>
+<td>±6,5</td>
+<td>±6,5</td>
+<td>±7,0</td>
+<td>±8,5</td>
 </tr>
 </tbody>
 </table>
@@ -18684,82 +18662,82 @@ Para facilitar la descripción del contenido y formato de los mensajes de los se
 
 1.1.1. Los tipos normalizados de mensajes, establecidos para el intercambio de datos ATS, junto con los correspondientes designadores de tipo de mensaje, son los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categoría de mensaje</th>
-<th class="cabeza_tabla">Tipo de mensaje</th>
-<th class="cabeza_tabla">Designador del tipo de mensaje</th>
+<th>Categoría de mensaje</th>
+<th>Tipo de mensaje</th>
+<th>Designador del tipo de mensaje</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Emergencia</td>
-<td class="cuerpo_tabla_izq">Alerta</td>
-<td class="cuerpo_tabla_centro">ALR</td>
+<td rowspan="2">Emergencia</td>
+<td>Alerta</td>
+<td>ALR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fallo de radiocomunicaciones</td>
-<td class="cuerpo_tabla_centro">RCF</td>
+<td>Fallo de radiocomunicaciones</td>
+<td>RCF</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Plan de vuelo presentado y actualizado correspondiente</td>
-<td class="cuerpo_tabla_izq">Plan de vuelo presentado</td>
-<td class="cuerpo_tabla_centro">FPL</td>
+<td rowspan="6">Plan de vuelo presentado y actualizado correspondiente</td>
+<td>Plan de vuelo presentado</td>
+<td>FPL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Modificación</td>
-<td class="cuerpo_tabla_centro">CHG</td>
+<td>Modificación</td>
+<td>CHG</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cancelación</td>
-<td class="cuerpo_tabla_centro">CNL</td>
+<td>Cancelación</td>
+<td>CNL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demora</td>
-<td class="cuerpo_tabla_centro">DLA</td>
+<td>Demora</td>
+<td>DLA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Salida</td>
-<td class="cuerpo_tabla_centro">DEP</td>
+<td>Salida</td>
+<td>DEP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Llegada</td>
-<td class="cuerpo_tabla_centro">ARR</td>
+<td>Llegada</td>
+<td>ARR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Coordinación</td>
-<td class="cuerpo_tabla_izq">Plan de vuelo actualizado</td>
-<td class="cuerpo_tabla_centro">CPL</td>
+<td rowspan="5">Coordinación</td>
+<td>Plan de vuelo actualizado</td>
+<td>CPL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación</td>
-<td class="cuerpo_tabla_centro">EST</td>
+<td>Estimación</td>
+<td>EST</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Coordinación</td>
-<td class="cuerpo_tabla_centro">CDN</td>
+<td>Coordinación</td>
+<td>CDN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceptación</td>
-<td class="cuerpo_tabla_centro">ACP</td>
+<td>Aceptación</td>
+<td>ACP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acuse de recibo lógico</td>
-<td class="cuerpo_tabla_centro">LAM</td>
+<td>Acuse de recibo lógico</td>
+<td>LAM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Suplementarios</td>
-<td class="cuerpo_tabla_izq">Solicitud de plan de vuelo</td>
-<td class="cuerpo_tabla_centro">RQP</td>
+<td rowspan="3">Suplementarios</td>
+<td>Solicitud de plan de vuelo</td>
+<td>RQP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Solicitud de plan de vuelo suplementario</td>
-<td class="cuerpo_tabla_centro">RQS</td>
+<td>Solicitud de plan de vuelo suplementario</td>
+<td>RQS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plan de vuelo suplementario</td>
-<td class="cuerpo_tabla_centro">SPL</td>
+<td>Plan de vuelo suplementario</td>
+<td>SPL</td>
 </tr>
 </tbody>
 </table>
@@ -19033,36 +19011,36 @@ b) Limitaciones técnicas del radar.
 
 i) Anchura efectiva del haz: Como no puede permitirse en ningún momento que dos trazas radar se toquen, la anchura de una traza radar es un factor importante cuando hay que separar aeronaves que están a la misma distancia en marcaciones ligeramente diferentes. Por ello, una amplia anchura efectiva del haz puede producir un aumento de la separación que haya que aplicar entre dos aeronaves que se encuentren a distancias considerables de la antena de radar, aun cuando el mínimo prescrito sea el mismo. La tabla siguiente proporciona cierta indicación del orden de magnitud de las distancias mínimas entre dos aeronaves cualesquiera, a las cuales comienzan a tocarse sus trazas radar:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Anchura efectiva del haz (grados)</th>
-<th class="cabeza_tabla" colspan="3">Anchura del haz a:</th>
+<th rowspan="2">Anchura efectiva del haz (grados)</th>
+<th colspan="3">Anchura del haz a:</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">15 NM</th>
-<th class="cabeza_tabla">60 NM</th>
-<th class="cabeza_tabla">120 NM (de la antena del radar)</th>
+<th>15 NM</th>
+<th>60 NM</th>
+<th>120 NM (de la antena del radar)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1°</td>
-<td class="cuerpo_tabla_centro">0,25 NM</td>
-<td class="cuerpo_tabla_centro">1 NM</td>
-<td class="cuerpo_tabla_centro">2 NM</td>
+<td>1°</td>
+<td>0,25 NM</td>
+<td>1 NM</td>
+<td>2 NM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3°</td>
-<td class="cuerpo_tabla_centro">0,75 NM</td>
-<td class="cuerpo_tabla_centro">3 NM</td>
-<td class="cuerpo_tabla_centro">6 NM</td>
+<td>3°</td>
+<td>0,75 NM</td>
+<td>3 NM</td>
+<td>6 NM</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5°</td>
-<td class="cuerpo_tabla_centro">1,25 NM</td>
-<td class="cuerpo_tabla_centro">5 NM</td>
-<td class="cuerpo_tabla_centro">10 NM</td>
+<td>5°</td>
+<td>1,25 NM</td>
+<td>5 NM</td>
+<td>10 NM</td>
 </tr>
 </tbody>
 </table>
@@ -19149,87 +19127,87 @@ multiplíquese la velocidad respecto al suelo, resultante de a), por 3, 4, ó 5,
 
 Velocidades verticales de descenso típicas para una trayectoria de planeo de 3 grados
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Velocidad respecto al suelo</th>
-<th class="cabeza_tabla" colspan="2">Velocidad vertical de descenso</th>
-<th class="cabeza_tabla">Velocidad respecto al suelo</th>
-<th class="cabeza_tabla" colspan="2">Velocidad vertical de descenso</th>
+<th>Velocidad respecto al suelo</th>
+<th colspan="2">Velocidad vertical de descenso</th>
+<th>Velocidad respecto al suelo</th>
+<th colspan="2">Velocidad vertical de descenso</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">kts</th>
-<th class="cabeza_tabla">m/seg</th>
-<th class="cabeza_tabla">pies/min.</th>
-<th class="cabeza_tabla">kts</th>
-<th class="cabeza_tabla">m/seg</th>
-<th class="cabeza_tabla">pies/min.</th>
+<th>kts</th>
+<th>m/seg</th>
+<th>pies/min.</th>
+<th>kts</th>
+<th>m/seg</th>
+<th>pies/min.</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">1,00</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">120</td>
-<td class="cuerpo_tabla_centro">3,00</td>
-<td class="cuerpo_tabla_centro">600</td>
+<td>40</td>
+<td>1,00</td>
+<td>200</td>
+<td>120</td>
+<td>3,00</td>
+<td>600</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">1,25</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">130</td>
-<td class="cuerpo_tabla_centro">3,25</td>
-<td class="cuerpo_tabla_centro">650</td>
+<td>50</td>
+<td>1,25</td>
+<td>250</td>
+<td>130</td>
+<td>3,25</td>
+<td>650</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">1,50</td>
-<td class="cuerpo_tabla_centro">300</td>
-<td class="cuerpo_tabla_centro">140</td>
-<td class="cuerpo_tabla_centro">3,50</td>
-<td class="cuerpo_tabla_centro">700</td>
+<td>60</td>
+<td>1,50</td>
+<td>300</td>
+<td>140</td>
+<td>3,50</td>
+<td>700</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">1,75</td>
-<td class="cuerpo_tabla_centro">350</td>
-<td class="cuerpo_tabla_centro">150</td>
-<td class="cuerpo_tabla_centro">3,75</td>
-<td class="cuerpo_tabla_centro">750</td>
+<td>70</td>
+<td>1,75</td>
+<td>350</td>
+<td>150</td>
+<td>3,75</td>
+<td>750</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">2,00</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">4,00</td>
-<td class="cuerpo_tabla_centro">800</td>
+<td>80</td>
+<td>2,00</td>
+<td>400</td>
+<td>160</td>
+<td>4,00</td>
+<td>800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">2,25</td>
-<td class="cuerpo_tabla_centro">450</td>
-<td class="cuerpo_tabla_centro">170</td>
-<td class="cuerpo_tabla_centro">4,25</td>
-<td class="cuerpo_tabla_centro">850</td>
+<td>90</td>
+<td>2,25</td>
+<td>450</td>
+<td>170</td>
+<td>4,25</td>
+<td>850</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">100</td>
-<td class="cuerpo_tabla_centro">2,50</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">4,50</td>
-<td class="cuerpo_tabla_centro">900</td>
+<td>100</td>
+<td>2,50</td>
+<td>500</td>
+<td>180</td>
+<td>4,50</td>
+<td>900</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">110</td>
-<td class="cuerpo_tabla_centro">2,75</td>
-<td class="cuerpo_tabla_centro">550</td>
-<td class="cuerpo_tabla_centro">Etc.</td>
-<td class="cuerpo_tabla_centro">....</td>
-<td class="cuerpo_tabla_centro">....</td>
+<td>110</td>
+<td>2,75</td>
+<td>550</td>
+<td>Etc.</td>
+<td>....</td>
+<td>....</td>
 </tr>
 </tbody>
 </table>

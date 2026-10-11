@@ -1556,93 +1556,87 @@ El primer registro, para cada entidad transmisora, será un registro de cabecera
 
 2.3 Fichero de diligencias de embargo. Registro de cabecera de entidad adherida. Registro tipo 1.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="70%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Posición</th>
-<th class="cabeza_tabla">Tipo</th>
-<th class="cabeza_tabla">Longitud</th>
-<th class="cabeza_tabla">Descripción del campo</th>
+<th>Posición</th>
+<th>Tipo</th>
+<th>Longitud</th>
+<th>Descripción del campo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE REGISTRO DE CABECERA DE ENTIDAD ADHERIDA. CONTENIDO: 1.</td>
+<td>1</td>
+<td>ALF.</td>
+<td>1</td>
+<td>INDICADOR DE REGISTRO DE CABECERA DE ENTIDAD ADHERIDA. CONTENIDO: 1.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">DELEGACIÓN DE LA AGENCIA EMISORA DEL FICHERO. CONTENIDO: 57.</td>
+<td>2-3</td>
+<td>NUM.</td>
+<td>2</td>
+<td>DELEGACIÓN DE LA AGENCIA EMISORA DEL FICHERO. CONTENIDO: 57.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4-7</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD ADHERIDA.</td>
+<td>4-7</td>
+<td>NUM.</td>
+<td>4</td>
+<td>CÓDIGO DE ENTIDAD ADHERIDA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8-15</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">NÚMERO DE ENVÍO (AÑO Y NÚMERO ORDEN). FORMATO: AAAANNNN.</td>
+<td>8-15</td>
+<td>NUM.</td>
+<td>8</td>
+<td>NÚMERO DE ENVÍO (AÑO Y NÚMERO ORDEN). FORMATO: AAAANNNN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16-23</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE TRANSMISION.</td>
+<td>16-23</td>
+<td>NUM.</td>
+<td>8</td>
+<td>FECHA DE CREACIÓN DEL FICHERO DE TRANSMISION.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24-24</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE TIPO DE FICHERO. CONTENIDO: D (DILIGENCIAS DE EMBARGO DE CUENTAS).</td>
+<td>24-24</td>
+<td>ALF.</td>
+<td>1</td>
+<td>INDICADOR DE TIPO DE FICHERO. CONTENIDO: D (DILIGENCIAS DE EMBARGO DE CUENTAS).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25-32</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">FECHA DE GENERACIÓN DEL ENVÍO MENSUAL DE DILIGENCIAS.</td>
+<td>25-32</td>
+<td>NUM.</td>
+<td>8</td>
+<td>FECHA DE GENERACIÓN DEL ENVÍO MENSUAL DE DILIGENCIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33-36</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA.</td>
+<td>33-36</td>
+<td>NUM.</td>
+<td>4</td>
+<td>CÓDIGO DE ENTIDAD TRANSMISORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37-37</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE MONEDA EN EL QUE SE EXPRESAN TODOS LOS IMPORTES DEL ENVÍO DE DILIGENCIAS. CONTENIDO: E (CÉNTIMOS DE EURO).</td>
+<td>37-37</td>
+<td>ALF.</td>
+<td>1</td>
+<td>INDICADOR DE MONEDA EN EL QUE SE EXPRESAN TODOS LOS IMPORTES DEL ENVÍO DE DILIGENCIAS. CONTENIDO: E (CÉNTIMOS DE EURO).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38-170</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">133</td>
-<td class="cuerpo_tabla_izq">MENSAJE INFORMATIVO PARA EL DEUDOR: «Si desea mayor información sobre el expediente de embargo, puede dirigirse al teléfono de la Agencia Tributaria XXX-XXX-XXX» (*).</td>
+<td>38-170</td>
+<td>ALF.</td>
+<td>133</td>
+<td>MENSAJE INFORMATIVO PARA EL DEUDOR: «Si desea mayor información sobre el expediente de embargo, puede dirigirse al teléfono de la Agencia Tributaria XXX-XXX-XXX» (*).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">171-500</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">330</td>
-<td class="cuerpo_tabla_izq">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>171-500</td>
+<td>ALF.</td>
+<td>330</td>
+<td>POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">(*) Se incluirá el número de teléfono de información que en cada momento establezca la Agencia Tributaria.</p>
+<p>(*) Se incluirá el número de teléfono de información que en cada momento establezca la Agencia Tributaria.</p>
 </td>
 </tr>
 </tfoot>
@@ -1652,167 +1646,160 @@ El primer registro, para cada entidad transmisora, será un registro de cabecera
 
 Los registros de detalle que sigan al registro de cabecera de entidad adherida tendrán la configuración:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="55%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Posición</th>
-<th class="cabeza_tabla">Tipo</th>
-<th class="cabeza_tabla">Longitud</th>
-<th class="cabeza_tabla" colspan="2">Descripción del campo</th>
+<th>Posición</th>
+<th>Tipo</th>
+<th>Longitud</th>
+<th colspan="2">Descripción del campo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq" colspan="2">INDICADOR DE REGISTRO DE DETALLE DE DILIGENCIA DE EMBARGO. CONTENIDO: 2.</td>
+<td>1</td>
+<td>ALF.</td>
+<td>1</td>
+<td colspan="2">INDICADOR DE REGISTRO DE DETALLE DE DILIGENCIA DE EMBARGO. CONTENIDO: 2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2-10</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq" colspan="2">NIF DEL DEUDOR.</td>
+<td>2-10</td>
+<td>ALF.</td>
+<td>9</td>
+<td colspan="2">NIF DEL DEUDOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11-50</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq" colspan="2">NOMBRE/RAZON SOCIAL DEL DEUDOR.</td>
+<td>11-50</td>
+<td>ALF.</td>
+<td>40</td>
+<td colspan="2">NOMBRE/RAZON SOCIAL DEL DEUDOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51-52</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">SIGLAS DE LA VIA PÚBLICA</td>
-<td class="cuerpo_tabla_izq" rowspan="9">DATOS DEL DOMICILIO DEL DEUDOR.</td>
+<td>51-52</td>
+<td>ALF.</td>
+<td>2</td>
+<td>SIGLAS DE LA VIA PÚBLICA</td>
+<td rowspan="9">DATOS DEL DOMICILIO DEL DEUDOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53-77</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">NOMBRE DE LA VIA PÚBLICA</td>
+<td>53-77</td>
+<td>ALF.</td>
+<td>25</td>
+<td>NOMBRE DE LA VIA PÚBLICA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">78-82</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">NÚMERO DEL PORTAL</td>
+<td>78-82</td>
+<td>NUM.</td>
+<td>5</td>
+<td>NÚMERO DEL PORTAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">83-83</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">LETRA DEL PORTAL</td>
+<td>83-83</td>
+<td>ALF.</td>
+<td>1</td>
+<td>LETRA DEL PORTAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">84-85</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">ESCALERA</td>
+<td>84-85</td>
+<td>ALF.</td>
+<td>2</td>
+<td>ESCALERA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">86-87</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PISO</td>
+<td>86-87</td>
+<td>ALF.</td>
+<td>2</td>
+<td>PISO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">88-89</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PUERTA</td>
+<td>88-89</td>
+<td>ALF.</td>
+<td>2</td>
+<td>PUERTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">90-101</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">NOMBRE DEL MUNICIPIO</td>
+<td>90-101</td>
+<td>ALF.</td>
+<td>12</td>
+<td>NOMBRE DEL MUNICIPIO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">102-106</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">CÓDIGO POSTAL</td>
+<td>102-106</td>
+<td>NUM.</td>
+<td>5</td>
+<td>CÓDIGO POSTAL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">107-119</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq" colspan="2">NÚMERO DE DILIGENCIA DE EMBARGO.</td>
+<td>107-119</td>
+<td>ALF.</td>
+<td>13</td>
+<td colspan="2">NÚMERO DE DILIGENCIA DE EMBARGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">120-134</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TOTAL A EMBARGAR.</td>
+<td>120-134</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TOTAL A EMBARGAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">135-142</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq" colspan="2">FECHA DE GENERACIÓN DE LA DILIGENCIA.</td>
+<td>135-142</td>
+<td>NUM.</td>
+<td>8</td>
+<td colspan="2">FECHA DE GENERACIÓN DE LA DILIGENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">143-157</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>143-157</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">158-158</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>158-158</td>
+<td>ALF.</td>
+<td>1</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">159-174</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>159-174</td>
+<td>NUM.</td>
+<td>16</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">175-194</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 1.</td>
+<td>175-194</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 1.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">195-211</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>195-211</td>
+<td>NUM.</td>
+<td>17</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">212-231</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 2.</td>
+<td>212-231</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">232-248</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>232-248</td>
+<td>NUM.</td>
+<td>17</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">249-268</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 3.</td>
+<td>249-268</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 3.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">269-500</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">232</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>269-500</td>
+<td>ALF.</td>
+<td>232</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 </tbody>
 </table>
@@ -1917,251 +1904,244 @@ Si habiendo actuado contra seis cuentas sin lograr la traba de la cantidad indic
 
 Los registros de detalle que sigan al registro de cabecera de entidad adherida tendrán el siguiente contenido:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="55%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Posición</th>
-<th class="cabeza_tabla">Tipo</th>
-<th class="cabeza_tabla">Longitud</th>
-<th class="cabeza_tabla" colspan="2">Descripción del campo</th>
+<th>Posición</th>
+<th>Tipo</th>
+<th>Longitud</th>
+<th colspan="2">Descripción del campo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq" colspan="2">INDICADOR DE REGISTRO DE DETALLE DE TRABAS DE DILIGENCIA DE EMBARGO. CONTENIDO: 2.</td>
+<td>1</td>
+<td>ALF.</td>
+<td>1</td>
+<td colspan="2">INDICADOR DE REGISTRO DE DETALLE DE TRABAS DE DILIGENCIA DE EMBARGO. CONTENIDO: 2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2-10</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq" colspan="2">NIF DEL DEUDOR.</td>
+<td>2-10</td>
+<td>ALF.</td>
+<td>9</td>
+<td colspan="2">NIF DEL DEUDOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11-50</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq" colspan="2">NOMBRE/RAZON SOCIAL DEL DEUDOR.</td>
+<td>11-50</td>
+<td>ALF.</td>
+<td>40</td>
+<td colspan="2">NOMBRE/RAZON SOCIAL DEL DEUDOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51-52</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">SIGLAS DE LA VIA PÚBLICA.</td>
-<td class="cuerpo_tabla_izq" rowspan="9">DATOS DEL DOMICILIO DEL DEUDOR.</td>
+<td>51-52</td>
+<td>ALF.</td>
+<td>2</td>
+<td>SIGLAS DE LA VIA PÚBLICA.</td>
+<td rowspan="9">DATOS DEL DOMICILIO DEL DEUDOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53-77</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">NOMBRE DE LA VIA PÚBLICA.</td>
+<td>53-77</td>
+<td>ALF.</td>
+<td>25</td>
+<td>NOMBRE DE LA VIA PÚBLICA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">78-82</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">NÚMERO DEL PORTAL.</td>
+<td>78-82</td>
+<td>NUM.</td>
+<td>5</td>
+<td>NÚMERO DEL PORTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">83-83</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">LETRA DEL PORTAL.</td>
+<td>83-83</td>
+<td>ALF.</td>
+<td>1</td>
+<td>LETRA DEL PORTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">84-85</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">ESCALERA.</td>
+<td>84-85</td>
+<td>ALF.</td>
+<td>2</td>
+<td>ESCALERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">86-87</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PISO.</td>
+<td>86-87</td>
+<td>ALF.</td>
+<td>2</td>
+<td>PISO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">88-89</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">PUERTA.</td>
+<td>88-89</td>
+<td>ALF.</td>
+<td>2</td>
+<td>PUERTA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">90-101</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">NOMBRE DEL MUNICIPIO.</td>
+<td>90-101</td>
+<td>ALF.</td>
+<td>12</td>
+<td>NOMBRE DEL MUNICIPIO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">102-106</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">CÓDIGO POSTAL.</td>
+<td>102-106</td>
+<td>NUM.</td>
+<td>5</td>
+<td>CÓDIGO POSTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">107-119</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq" colspan="2">NÚMERO DE DILIGENCIA DE EMBARGO.</td>
+<td>107-119</td>
+<td>ALF.</td>
+<td>13</td>
+<td colspan="2">NÚMERO DE DILIGENCIA DE EMBARGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">120-134</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TOTAL A EMBARGAR.</td>
+<td>120-134</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TOTAL A EMBARGAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">135-142</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq" colspan="2">FECHA DE GENERACIÓN DE LA DILIGENCIA.</td>
+<td>135-142</td>
+<td>NUM.</td>
+<td>8</td>
+<td colspan="2">FECHA DE GENERACIÓN DE LA DILIGENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">143-157</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TOTAL TRABADO.</td>
+<td>143-157</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TOTAL TRABADO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">158-158</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq" colspan="2">INDICADOR DE EXISTENCIA DE MAS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO. CONTENIDO: 0 (NO EXISTEN MAS CUENTAS) O 1 (EXISTEN MAS CUENTAS).</td>
+<td>158-158</td>
+<td>ALF.</td>
+<td>1</td>
+<td colspan="2">INDICADOR DE EXISTENCIA DE MAS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO. CONTENIDO: 0 (NO EXISTEN MAS CUENTAS) O 1 (EXISTEN MAS CUENTAS).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">159-166</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq" colspan="2">FECHA DE LA TRABA O ACTUACIÓN.</td>
+<td>159-166</td>
+<td>NUM.</td>
+<td>8</td>
+<td colspan="2">FECHA DE LA TRABA O ACTUACIÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">167-174</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq" colspan="2">FECHA LIMITE DE INGRESO DEL IMPORTE TRABADO. SI NO HAY IMPORTE TRABADO SE RELLENARA CON CEROS.</td>
+<td>167-174</td>
+<td>NUM.</td>
+<td>8</td>
+<td colspan="2">FECHA LIMITE DE INGRESO DEL IMPORTE TRABADO. SI NO HAY IMPORTE TRABADO SE RELLENARA CON CEROS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">175-194</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 1 (CCC1).</td>
+<td>175-194</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 1 (CCC1).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">195-196</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC1.</td>
+<td>195-196</td>
+<td>NUM.</td>
+<td>2</td>
+<td colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC1.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">197-211</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TRABADO EN CCC1.</td>
+<td>197-211</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TRABADO EN CCC1.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">212-231</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 2 (CCC2).</td>
+<td>212-231</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 2 (CCC2).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">232-233</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC2.</td>
+<td>232-233</td>
+<td>NUM.</td>
+<td>2</td>
+<td colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">234-248</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TRABADO EN CCC2.</td>
+<td>234-248</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TRABADO EN CCC2.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">249-268</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 3 (CCC3).</td>
+<td>249-268</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 3 (CCC3).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">269-270</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC3.</td>
+<td>269-270</td>
+<td>NUM.</td>
+<td>2</td>
+<td colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC3.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">271-285</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TRABADO EN CCC3.</td>
+<td>271-285</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TRABADO EN CCC3.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">286-305</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 4 (CCC4).</td>
+<td>286-305</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 4 (CCC4).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">306-307</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC4.</td>
+<td>306-307</td>
+<td>NUM.</td>
+<td>2</td>
+<td colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC4.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">308-322</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TRABADO EN CCC4.</td>
+<td>308-322</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TRABADO EN CCC4.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">323-342</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 5 (CCC5).</td>
+<td>323-342</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 5 (CCC5).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">343-344</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC5.</td>
+<td>343-344</td>
+<td>NUM.</td>
+<td>2</td>
+<td colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">345-359</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TRABADO EN CCC5.</td>
+<td>345-359</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TRABADO EN CCC5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">360-379</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE CUENTA CLIENTE 6 (CCC6).</td>
+<td>360-379</td>
+<td>NUM.</td>
+<td>20</td>
+<td colspan="2">CÓDIGO DE CUENTA CLIENTE 6 (CCC6).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">380-381</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC6.</td>
+<td>380-381</td>
+<td>NUM.</td>
+<td>2</td>
+<td colspan="2">CÓDIGO DE RESULTADO DE TRABA EN CCC6.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">382-396</td>
-<td class="cuerpo_tabla_izq">NUM.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="2">IMPORTE TRABADO EN CCC6.</td>
+<td>382-396</td>
+<td>NUM.</td>
+<td>15</td>
+<td colspan="2">IMPORTE TRABADO EN CCC6.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">397-400</td>
-<td class="cuerpo_tabla_izq">ALF.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq" colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
+<td>397-400</td>
+<td>ALF.</td>
+<td>4</td>
+<td colspan="2">POSICIONES LIBRES DE CONTENIDO.</td>
 </tr>
 </tbody>
 </table>
@@ -2596,251 +2576,227 @@ Se incluye a continuación la descripción de cada campo del registro de tipo 9 
 
 4.8 Relación de códigos de error en los resultados de la validación a las contestaciones.
 
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="88%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Errores comunes a todos los tipos de registro</th>
+<th colspan="2">Errores comunes a todos los tipos de registro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">601</td>
-<td class="cuerpo_tabla_izq">ERROR DE SECUENCIA DE REGISTROS.</td>
+<td>601</td>
+<td>ERROR DE SECUENCIA DE REGISTROS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">602</td>
-<td class="cuerpo_tabla_izq">DELEGACIÓN DE LA AGENCIA RECEPTORA DEL FICHERO DISTINTA DE 57.</td>
+<td>602</td>
+<td>DELEGACIÓN DE LA AGENCIA RECEPTORA DEL FICHERO DISTINTA DE 57.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">608</td>
-<td class="cuerpo_tabla_izq">FECHA DE COMIENZO DE CICLO INCORRECTA.</td>
+<td>608</td>
+<td>FECHA DE COMIENZO DE CICLO INCORRECTA.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="88%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Registro de cabecera de entidad transmisora (Tipo 0)</th>
+<th colspan="2">Registro de cabecera de entidad transmisora (Tipo 0)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">003</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA incorrecto.</td>
+<td>003</td>
+<td>CÓDIGO DE ENTIDAD TRANSMISORA incorrecto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">006</td>
-<td class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE CONTESTACIÓN A LAS DILIGENCIAS errónea.</td>
+<td>006</td>
+<td>FECHA DE CREACIÓN DEL FICHERO DE CONTESTACIÓN A LAS DILIGENCIAS errónea.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">007</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE TIPO DE FICHERO distinto de T.</td>
+<td>007</td>
+<td>INDICADOR DE TIPO DE FICHERO distinto de T.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="88%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Registro de cabecera de entidad (Tipo 1)</th>
+<th colspan="2">Registro de cabecera de entidad (Tipo 1)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">103</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD incorrecto.</td>
+<td>103</td>
+<td>CÓDIGO DE ENTIDAD incorrecto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">105</td>
-<td class="cuerpo_tabla_izq">NÚMERO DE ENVÍO inexistente.</td>
+<td>105</td>
+<td>NÚMERO DE ENVÍO inexistente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">106</td>
-<td class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE CONTESTACIÓN A LAS DILIGENCIAS errónea.</td>
+<td>106</td>
+<td>FECHA DE CREACIÓN DEL FICHERO DE CONTESTACIÓN A LAS DILIGENCIAS errónea.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">107</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE TIPO DE FICHERO distinto de T.</td>
+<td>107</td>
+<td>INDICADOR DE TIPO DE FICHERO distinto de T.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">110</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA no corresponde con la que comenzó el ciclo.</td>
+<td>110</td>
+<td>CÓDIGO DE ENTIDAD TRANSMISORA no corresponde con la que comenzó el ciclo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">112</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de entidad transmisora.</td>
+<td>112</td>
+<td>CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de entidad transmisora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">113</td>
-<td class="cuerpo_tabla_izq">NÚMERO DE ENVÍO no numérico.</td>
+<td>113</td>
+<td>NÚMERO DE ENVÍO no numérico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">114</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE MONEDA distinto de E.</td>
+<td>114</td>
+<td>INDICADOR DE MONEDA distinto de E.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">115</td>
-<td class="cuerpo_tabla_izq">Envío para esta entidad previamente aceptado en este ciclo</td>
+<td>115</td>
+<td>Envío para esta entidad previamente aceptado en este ciclo</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="88%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Registro de detalle (Tipo 2)</th>
+<th colspan="2">Registro de detalle (Tipo 2)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">202</td>
-<td class="cuerpo_tabla_izq">NIF DEL DEUDOR no cumplimentado.</td>
+<td>202</td>
+<td>NIF DEL DEUDOR no cumplimentado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">203</td>
-<td class="cuerpo_tabla_izq">NIF DEL DEUDOR incorrecto o distinto del incluido en la diligencia transmitida a la entidad.</td>
+<td>203</td>
+<td>NIF DEL DEUDOR incorrecto o distinto del incluido en la diligencia transmitida a la entidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">204</td>
-<td class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIA DE EMBARGO no cumplimentado o incorrecto.</td>
+<td>204</td>
+<td>NÚMERO DE DILIGENCIA DE EMBARGO no cumplimentado o incorrecto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">205</td>
-<td class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIA DE EMBARGO inexistente en el fichero de diligencias transmitido a la entidad.</td>
+<td>205</td>
+<td>NÚMERO DE DILIGENCIA DE EMBARGO inexistente en el fichero de diligencias transmitido a la entidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">206</td>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR distinto del que figuraba en la diligencia transmitida a la entidad.</td>
+<td>206</td>
+<td>IMPORTE TOTAL A EMBARGAR distinto del que figuraba en la diligencia transmitida a la entidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">207</td>
-<td class="cuerpo_tabla_izq">FECHA DE GENERACIÓN DE LA DILIGENCIA incorrecta o distinta de la que figura en la diligencia transmitida a la entidad.</td>
+<td>207</td>
+<td>FECHA DE GENERACIÓN DE LA DILIGENCIA incorrecta o distinta de la que figura en la diligencia transmitida a la entidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">208</td>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO no numérico o superior al importe a embargar indicado en la diligencia transmitida a la entidad.</td>
+<td>208</td>
+<td>IMPORTE TOTAL TRABADO no numérico o superior al importe a embargar indicado en la diligencia transmitida a la entidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">209</td>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO no coincide con la suma de los importes trabados en cada una de las cuentas incluidas en la diligencia.</td>
+<td>209</td>
+<td>IMPORTE TOTAL TRABADO no coincide con la suma de los importes trabados en cada una de las cuentas incluidas en la diligencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">210</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO, igual a 1 cuando no se han cumplimentado las 6 cuentas posibles a aportar.</td>
+<td>210</td>
+<td>INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO, igual a 1 cuando no se han cumplimentado las 6 cuentas posibles a aportar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">211</td>
-<td class="cuerpo_tabla_izq">FECHA DE TRABA O ACTUACIÓN no cumplimentada, incorrecta o menor que la fecha de generación de la diligencia.</td>
+<td>211</td>
+<td>FECHA DE TRABA O ACTUACIÓN no cumplimentada, incorrecta o menor que la fecha de generación de la diligencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">212</td>
-<td class="cuerpo_tabla_izq">FECHA LÍMITE DE INGRESO DEL IMPORTE TRABADO incorrecta, menor que la fecha de traba, no cumplimentada (siendo distinto de cero el importe total trabado) o distinta de ceros (siendo cero el importe total trabado).</td>
+<td>212</td>
+<td>FECHA LÍMITE DE INGRESO DEL IMPORTE TRABADO incorrecta, menor que la fecha de traba, no cumplimentada (siendo distinto de cero el importe total trabado) o distinta de ceros (siendo cero el importe total trabado).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">213</td>
-<td class="cuerpo_tabla_izq">Error en CÓDIGO DE CUENTA CLIENTE (1-6): Se comprueba que se incluyen, sin alteraciones y en el mismo orden, las mismas cuentas que figuraban en el fichero de diligencias transmitido a la entidad. Para las cuentas añadidas por la entidad se comprueba que son correctas y corresponden con la misma entidad que figuraban en las cuentas originales. Las cuentas añadidas deben figurar a continuación de las cuentas que se incluían en el fichero de diligencias, sin dejar huecos entre ellas.</td>
+<td>213</td>
+<td>Error en CÓDIGO DE CUENTA CLIENTE (1-6): Se comprueba que se incluyen, sin alteraciones y en el mismo orden, las mismas cuentas que figuraban en el fichero de diligencias transmitido a la entidad. Para las cuentas añadidas por la entidad se comprueba que son correctas y corresponden con la misma entidad que figuraban en las cuentas originales. Las cuentas añadidas deben figurar a continuación de las cuentas que se incluían en el fichero de diligencias, sin dejar huecos entre ellas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">214</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA (1-6) distinto de los valores admitidos</td>
+<td>214</td>
+<td>CÓDIGO DE RESULTADO DE TRABA (1-6) distinto de los valores admitidos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">215</td>
-<td class="cuerpo_tabla_izq">IMPORTE TRABADO EN CUENTA (1-6) no numérico o superior al IMPORTE TOTAL A EMBARGAR de la diligencia.</td>
+<td>215</td>
+<td>IMPORTE TRABADO EN CUENTA (1-6) no numérico o superior al IMPORTE TOTAL A EMBARGAR de la diligencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">216</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">CÓDIGO DE RESULTADO DE TRABA (1-6) incoherente con el IMPORTE TRABADO EN CUENTA (1-6).</p>
-<p class="cuerpo_tabla_izq">Este error se produce cuando:</p>
-<p class="cuerpo_tabla_izq">– El código de resultado (1-6) no es 01, 04 o 07, siendo mayor que 0 el importe trabado en la cuenta (1-6).</p>
-<p class="cuerpo_tabla_izq">El código de resultado (1-6) es 01, siendo nulo el importe trabado en la cuenta (1-6).</p>
+<td>216</td>
+<td>
+<p>CÓDIGO DE RESULTADO DE TRABA (1-6) incoherente con el IMPORTE TRABADO EN CUENTA (1-6).</p>
+<p>Este error se produce cuando:</p>
+<p>– El código de resultado (1-6) no es 01, 04 o 07, siendo mayor que 0 el importe trabado en la cuenta (1-6).</p>
+<p>El código de resultado (1-6) es 01, siendo nulo el importe trabado en la cuenta (1-6).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">217</td>
-<td class="cuerpo_tabla_izq">Existen CÓDIGOS DE CUENTA CLIENTE duplicados.</td>
+<td>217</td>
+<td>Existen CÓDIGOS DE CUENTA CLIENTE duplicados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">218</td>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR no numérico.</td>
+<td>218</td>
+<td>IMPORTE TOTAL A EMBARGAR no numérico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">219</td>
-<td class="cuerpo_tabla_izq">INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO distinto de 0 ó 1.</td>
-</tr>
-</tbody>
-</table>
-
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="88%">
-</colgroup>
-<thead>
-<tr>
-<th class="cabeza_tabla" colspan="2">Registro de fin de entidad adherida (Tipo 3)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="cuerpo_tabla_centro">303</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD ADHERIDA distinto del que figura en el registro de cabecera de entidad.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">304</td>
-<td class="cuerpo_tabla_izq">NÚMERO DE DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD ADHERIDA distinto al contenido en el fichero de diligencias transmitido a la entidad o distinto del número de registros de detalle contenidos en el fichero de contestación a las diligencias devuelto por ésta.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">305</td>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL A EMBARGAR DE LAS DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD distinto al contenido en el fichero de diligencias transmitido a la entidad.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">306</td>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL TRABADO POR LA ENTIDAD ADHERIDA descuadrado con importe total acumulado de los registros de detalle.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">308</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA distinto del que figura en el registro de cabecera de entidad adherida.</td>
+<td>219</td>
+<td>INDICADOR DE EXISTENCIA DE MÁS CUENTAS QUE LAS APORTADAS EN ESTE REGISTRO distinto de 0 ó 1.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="88%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Registro de fin de entidad tranmisora (Tipo 8)</th>
+<th colspan="2">Registro de fin de entidad adherida (Tipo 3)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">804</td>
-<td class="cuerpo_tabla_izq">CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de entidad transmisora.</td>
+<td>303</td>
+<td>CÓDIGO DE ENTIDAD ADHERIDA distinto del que figura en el registro de cabecera de entidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">805</td>
-<td class="cuerpo_tabla_izq">FECHA DE CREACIÓN DEL FICHERO DE CONTESTACIÓN A LAS DILIGENCIAS distinta de la del registro de cabecera de entidad transmisora.</td>
+<td>304</td>
+<td>NÚMERO DE DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD ADHERIDA distinto al contenido en el fichero de diligencias transmitido a la entidad o distinto del número de registros de detalle contenidos en el fichero de contestación a las diligencias devuelto por ésta.</td>
+</tr>
+<tr>
+<td>305</td>
+<td>IMPORTE TOTAL A EMBARGAR DE LAS DILIGENCIAS INCLUIDAS EN EL ENVÍO A LA ENTIDAD distinto al contenido en el fichero de diligencias transmitido a la entidad.</td>
+</tr>
+<tr>
+<td>306</td>
+<td>IMPORTE TOTAL TRABADO POR LA ENTIDAD ADHERIDA descuadrado con importe total acumulado de los registros de detalle.</td>
+</tr>
+<tr>
+<td>308</td>
+<td>CÓDIGO DE ENTIDAD TRANSMISORA distinto del que figura en el registro de cabecera de entidad adherida.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Registro de fin de entidad tranmisora (Tipo 8)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>804</td>
+<td>CÓDIGO DE ENTIDAD TRANSMISORA distinto del contenido en el registro de cabecera de entidad transmisora.</td>
+</tr>
+<tr>
+<td>805</td>
+<td>FECHA DE CREACIÓN DEL FICHERO DE CONTESTACIÓN A LAS DILIGENCIAS distinta de la del registro de cabecera de entidad transmisora.</td>
 </tr>
 </tbody>
 </table>

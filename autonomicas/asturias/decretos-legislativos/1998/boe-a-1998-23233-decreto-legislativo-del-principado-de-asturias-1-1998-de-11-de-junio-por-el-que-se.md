@@ -2579,307 +2579,307 @@ Nace el derecho de la Administración a exigir la tasa en el momento de la reali
 
 La tasa se exigirá de acuerdo con las siguientes tarifas:
 
-<table class="tabla" border="0" width="943" height="893">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Pesetas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tarifa 1. Prospección:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Pesetas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Sondeos:</p>
+<p>Tarifa 1. Prospección:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Traslado y retirada de equipo de sondeos al lugar de trabajo</p>
+<p>1. Sondeos:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.213</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Traslado y retirada de equipo de sondeos al lugar de trabajo</p>
+</td>
+<td>
+<p>91.213</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Traslado de equipo de sondeo entre puntos contiguos incluida puesta en situación y ejecución de plataforma</p>
+<p>Traslado de equipo de sondeo entre puntos contiguos incluida puesta en situación y ejecución de plataforma</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">32.383</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Traslado de equipo de sondeos entre puntos alejados de una obra o carretera por tiempo superior a dos horas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">48.230</p>
+<p>32.383</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Traslado de equipo de sondeos entre distintas obras o carreteras</p>
+<p>Traslado de equipo de sondeos entre puntos alejados de una obra o carretera por tiempo superior a dos horas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64.024</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Suministro de agua por día de perforación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.558</p>
+<p>48.230</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación en suelos</p>
+<p>Traslado de equipo de sondeos entre distintas obras o carreteras</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.890</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación en arenas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.268</p>
+<p>64.024</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación con corona de Widia</p>
+<p>Suministro de agua por día de perforación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.851</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación con corona de diamante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10.441</p>
+<p>4.558</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación en gravas y cantos (hasta 6 centímetros)</p>
+<p>Metro lineal de perforación en suelos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.893</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación en bolos y cuarcitas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17.066</p>
+<p>6.890</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Metro lineal de perforación a rotopercusión sin toma de testigo, incluida entubación</p>
+<p>Metro lineal de perforación en arenas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.243</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Metro lineal en tubería de PVC, incluida colocación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">954</p>
+<p>8.268</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de ensayo normalizado de penetración (SPT)</p>
+<p>Metro lineal de perforación con corona de Widia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.081</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Unidad de toma demuestra inalterada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.240</p>
+<p>8.851</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de testigo parafinado</p>
+<p>Metro lineal de perforación con corona de diamante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.749</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Unidad de toma de muestra de agua por sondeo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.763</p>
+<p>10.441</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de ensayo de permeabilidad Lefranc</p>
+<p>Metro lineal de perforación en gravas y cantos (hasta 6 centímetros)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.695</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Unidad de ensayo de permeabilidad Lugeon</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">19.769</p>
+<p>14.893</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de caja de cartón parafinada</p>
+<p>Metro lineal de perforación en bolos y cuarcitas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.060</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2. Penetraciones:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>17.066</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Traslado y retirada de equipo de penetración lo dinámica al lugar de trabajo</p>
+<p>Metro lineal de perforación a rotopercusión sin toma de testigo, incluida entubación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57.346</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Traslado de equipo de penetración dinámica entre puntos contiguos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.427</p>
+<p>12.243</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Traslado de equipos de penetración entre puntos alejados de una obra o carretera</p>
+<p>Metro lineal en tubería de PVC, incluida colocación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.935</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Traslado de equipo de penetración entre distintas obras o carreteras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">57.346</p>
+<p>954</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de ensayo de penetración dinámica tipo Borros o similar hasta 10 metros de profundidad o rechazo</p>
+<p>Unidad de ensayo normalizado de penetración (SPT)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28.832</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Metro lineal de ensayo de penetración dinámica</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.021</p>
+<p>4.081</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3. Geofísica:</p>
+<p>Unidad de toma demuestra inalterada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Metro lineal de perfil geosísmico, incluyendo gráficos, interpretación y conclusiones</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">689</p>
+<p>4.240</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de sondeo eléctrico vertical, con apertura de ala (máxima de 200 metros), incluyendo gráficos, interpretación y conclusiones</p>
+<p>Unidad de testigo parafinado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52.099</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Unidad de calicata eléctrica, para profundidades máximas de auscultación de 15 metros, incluyendo gráfico, interpretación y conclusiones</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20.776</p>
+<p>1.749</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4. Calicatas con retroexcavadora:</p>
+<p>Unidad de toma de muestra de agua por sondeo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Traslado y retirada de máquina a obra</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">47.541</p>
+<p>3.763</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Precio por hora, uso de máquina retroexcavadora, incluido peón para tomas de muestras y geólogo para testificación</p>
+<p>Unidad de ensayo de permeabilidad Lefranc</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.727</p>
+<p>16.695</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unidad de ensayo de permeabilidad Lugeon</p>
+</td>
+<td>
+<p>19.769</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unidad de caja de cartón parafinada</p>
+</td>
+<td>
+<p>1.060</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Penetraciones:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Traslado y retirada de equipo de penetración lo dinámica al lugar de trabajo</p>
+</td>
+<td>
+<p>57.346</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Traslado de equipo de penetración dinámica entre puntos contiguos</p>
+</td>
+<td>
+<p>8.427</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Traslado de equipos de penetración entre puntos alejados de una obra o carretera</p>
+</td>
+<td>
+<p>20.935</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Traslado de equipo de penetración entre distintas obras o carreteras</p>
+</td>
+<td>
+<p>57.346</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unidad de ensayo de penetración dinámica tipo Borros o similar hasta 10 metros de profundidad o rechazo</p>
+</td>
+<td>
+<p>28.832</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Metro lineal de ensayo de penetración dinámica</p>
+</td>
+<td>
+<p>3.021</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Geofísica:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Metro lineal de perfil geosísmico, incluyendo gráficos, interpretación y conclusiones</p>
+</td>
+<td>
+<p>689</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unidad de sondeo eléctrico vertical, con apertura de ala (máxima de 200 metros), incluyendo gráficos, interpretación y conclusiones</p>
+</td>
+<td>
+<p>52.099</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unidad de calicata eléctrica, para profundidades máximas de auscultación de 15 metros, incluyendo gráfico, interpretación y conclusiones</p>
+</td>
+<td>
+<p>20.776</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Calicatas con retroexcavadora:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Traslado y retirada de máquina a obra</p>
+</td>
+<td>
+<p>47.541</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Precio por hora, uso de máquina retroexcavadora, incluido peón para tomas de muestras y geólogo para testificación</p>
+</td>
+<td>
+<p>13.727</p>
 </td>
 </tr>
 </tbody>

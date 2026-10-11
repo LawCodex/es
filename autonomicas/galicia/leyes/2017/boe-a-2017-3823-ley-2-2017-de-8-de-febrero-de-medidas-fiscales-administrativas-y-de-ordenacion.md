@@ -630,76 +630,71 @@ b) El volumen de tráfico comprometido y su evolución anual en el periodo de vi
 
 La máxima bonificación que se podrá obtener sobre la cuantía de la tarifa será del 50 %, en función de la siguiente tabla:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_50">
-<col class="row_column_51">
-<col class="row_column_52">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_53">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">t descargadas/año</p>
+<p>t descargadas/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Pesca descargada en otra comunidad autónoma</p>
+<p>Pesca descargada en otra comunidad autónoma</p>
 </td>
 <td>
-<p class="cabeza_tabla">Pesca descargada en otros países</p>
+<p>Pesca descargada en otros países</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Porcentaje de bonificación</p>
+<p>Porcentaje de bonificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Porcentaje de bonificación</p>
+<p>Porcentaje de bonificación</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre 500 t y 1.000 t.</p>
+<p>Entre 500 t y 1.000 t.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5 %</p>
+<p>5 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 %</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Entre 1.000 t y 1.500 t.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10 %</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20 %</p>
+<p>10 %</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre 1.501 t y 2.000 t.</p>
+<p>Entre 1.000 t y 1.500 t.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15 %</p>
+<p>10 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30 %</p>
+<p>20 %</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Más de 2.000 t.</p>
+<p>Entre 1.501 t y 2.000 t.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20 %</p>
+<p>15 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40 %</p>
+<p>30 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 2.000 t.</p>
+</td>
+<td>
+<p>20 %</p>
+</td>
+<td>
+<p>40 %</p>
 </td>
 </tr>
 </tbody>
@@ -919,119 +914,113 @@ La cuota de la tasa por servicios y actividades de manipulación de carga se est
 
 La cuota de la tasa por la prestación de servicios al pasaje se establece por pasajero/a y vehículo en régimen de pasaje, en función de la modalidad de pasaje y del tipo de navegación, según se recoge en la regla quinta de la tarifa X3 –mercancías y pasajeros–, contenida en el subapartado 01 anterior, de acuerdo con la siguiente tabla:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_61">
-<col class="row_column_62">
-<col class="row_column_62">
-<col class="row_column_62">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Concepto</p>
+<p>Concepto</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Tipo de navegación</p>
+<p>Tipo de navegación</p>
 </td>
 </tr>
-<tr class="row_column_53">
+<tr>
 <td>
-<p class="cabeza_tabla">Interior, local o de ría</p>
+<p>Interior, local o de ría</p>
 </td>
 <td>
-<p class="cabeza_tabla">Entre puertos de la UE</p>
+<p>Entre puertos de la UE</p>
 </td>
 <td>
-<p class="cabeza_tabla">Exterior</p>
+<p>Exterior</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a) Pasajeros</p>
+<p>a) Pasajeros</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Bloque II</p>
+<p>Bloque II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000828</p>
+<p>0,000828</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,025472</p>
+<p>0,025472</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,076416</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Bloque I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,070959</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,141917</p>
+<p>0,076416</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b) Vehículos</p>
+<p>Bloque I</p>
+</td>
+<td>
+<p>0,001660</p>
+</td>
+<td>
+<p>0,070959</p>
+</td>
+<td>
+<p>0,141917</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Vehículos</p>
 </td>
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_26">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Motocicletas y vehículos o remolques de dos ruedas</p>
+<p>Motocicletas y vehículos o remolques de dos ruedas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,002032</p>
+<p>0,002032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004064</p>
+<p>0,004064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,008126</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Automóviles</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,010158</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,020317</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,040633</p>
+<p>0,008126</p>
 </td>
 </tr>
-<tr class="row_column_29">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Camiones, autocares y otros vehículos de transporte colectivo</p>
+<p>Automóviles</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,050791</p>
+<p>0,010158</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,101584</p>
+<p>0,020317</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,203167</p>
+<p>0,040633</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Camiones, autocares y otros vehículos de transporte colectivo</p>
+</td>
+<td>
+<p>0,050791</p>
+</td>
+<td>
+<p>0,101584</p>
+</td>
+<td>
+<p>0,203167</p>
 </td>
 </tr>
 </tbody>
@@ -1116,75 +1105,69 @@ Tendrán esta consideración, entre otras: locales y terrazas de hostelería, re
 
 La cuota de la tasa por la instalación en el dominio público portuario de terrazas de hostelería, que se aplicará en aquellas cuyo local asociado no esté sometido al abono de la tasa descrita en el apartado 3.2 B).2) por la totalidad de la actividad desarrollada, se establece por mesa autorizada y día o fracción en función de la intensidad de la actividad y de la temporada del año en que esta se desarrolle, de acuerdo con la siguiente tabla:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_47">
-<col class="row_column_47">
-<col class="row_column_47">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Intensidad de la actividad</p>
+<p>Intensidad de la actividad</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Temporada</p>
+<p>Temporada</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Alta</p>
+<p>Alta</p>
 </td>
 <td>
-<p class="cabeza_tabla">Media</p>
+<p>Media</p>
 </td>
 <td>
-<p class="cabeza_tabla">Baja</p>
+<p>Baja</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Alta</p>
+<p>Alta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,95 €</p>
+<p>0,95 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72 €</p>
+<p>0,72 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,48 €</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Media</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,80 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,60 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,40 €</p>
+<p>0,48 €</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Baja</p>
+<p>Media</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
+<p>0,80 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,47 €</p>
+<p>0,60 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,31 €</p>
+<p>0,40 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Baja</p>
+</td>
+<td>
+<p>0,61 €</p>
+</td>
+<td>
+<p>0,47 €</p>
+</td>
+<td>
+<p>0,31 €</p>
 </td>
 </tr>
 </tbody>
@@ -1352,68 +1335,61 @@ Se modifica la letra c) de la disposición adicional primera de la Ley 2/2015, d
 
 Uno. Se modifica, en el apartado 1 de la disposición adicional octava de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, la escala superior de seguridad y salud en el trabajo, que queda redactada como sigue:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_71">
-<col class="row_column_72">
-<col class="row_column_55">
-<col class="row_column_73">
-<col class="row_column_73">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">«Denominación</p>
+<p>«Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_74">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala superior de seguridad y salud en el trabajo.</p>
+<p>Escala superior de seguridad y salud en el trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad en</p>
-<p class="cuerpo_tabla_izq">el trabajo.</p>
+<p>Seguridad en</p>
+<p>el trabajo.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Ejercicio de los trabajos técnicos en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o en la norma que la sustituya, en las áreas, respectivamente, de seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada, sin perjuicio de las funciones que, en materia minera, ejerza el personal funcionario con competencias en materia de prevención de riesgos laborales de la consejería competente en esta área.</p>
+<p>Ejercicio de los trabajos técnicos en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o en la norma que la sustituya, en las áreas, respectivamente, de seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada, sin perjuicio de las funciones que, en materia minera, ejerza el personal funcionario con competencias en materia de prevención de riesgos laborales de la consejería competente en esta área.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arquitecto, graduado o máster que habilite para el ejercicio de la profesión de arquitecto, ingeniero o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
-</td>
-</tr>
-<tr class="row_column_75">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Higiene industrial.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licenciado o graduado en Biología, licenciado o graduado en Química o licenciado en Farmacia o graduado en una titulación que habilite para la profesión de farmacéutico, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
+<p>Arquitecto, graduado o máster que habilite para el ejercicio de la profesión de arquitecto, ingeniero o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
 </td>
 </tr>
-<tr class="row_column_76">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Ergonomía y psicosociología aplicada.</p>
+<p>Higiene industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licenciado o graduado en una titulación de cualquier rama y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.»</p>
+<p>Licenciado o graduado en Biología, licenciado o graduado en Química o licenciado en Farmacia o graduado en una titulación que habilite para la profesión de farmacéutico, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Ergonomía y psicosociología aplicada.</p>
+</td>
+<td>
+<p>Licenciado o graduado en una titulación de cualquier rama y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.»</p>
 </td>
 </tr>
 </tbody>
@@ -1439,99 +1415,92 @@ Tres. Se añade un apartado 3 bis en la disposición adicional octava de la Ley 
 
 Uno. Se modifican, en el apartado 1 de la disposición adicional novena de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, la escala de arquitectos, la escala de ciencias y la escala de inspección urbanística, que quedan redactadas como sigue:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_64">
-<col class="row_column_87">
-<col class="row_column_88">
-<col class="row_column_89">
-<col class="row_column_90">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">«Denominación</p>
+<p>«Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_67">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de arquitectos</p>
+<p>Escala de arquitectos</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo</p>
+<p>Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arquitecto, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto</p>
+<p>Arquitecto, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Escala de ciencias</p>
+<p>Escala de ciencias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Biología</p>
+<p>Biología</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida e con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo</p>
+<p>Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida e con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Licenciado o graduado en una titulación de la rama de ciencias</p>
+<p>Licenciado o graduado en una titulación de la rama de ciencias</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Química</p>
+<p>Química</p>
 </td>
 </tr>
-<tr class="row_column_91">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Ciencias del mar</p>
+<p>Ciencias del mar</p>
 </td>
 </tr>
-<tr class="row_column_92">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Escala de inspección urbanística</p>
+<p>Escala de inspección urbanística</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Técnica</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">A1</p>
+<p>Técnica</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Estudio, gestión, tramitación y propuesta de resolución de los resultados de la actividad de inspección y control del cumplimiento de la normativa urbanística en los actos de edificación y uso del suelo que se realicen en la Comunidad Autónoma</p>
+<p>A1</p>
+</td>
+<td rowspan="2">
+<p>Estudio, gestión, tramitación y propuesta de resolución de los resultados de la actividad de inspección y control del cumplimiento de la normativa urbanística en los actos de edificación y uso del suelo que se realicen en la Comunidad Autónoma</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arquitecto o ingeniero de Caminos, Canales y Puertos, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de Caminos, Canales y Puertos</p>
+<p>Arquitecto o ingeniero de Caminos, Canales y Puertos, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de Caminos, Canales y Puertos</p>
 </td>
 </tr>
-<tr class="row_column_29">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Jurídica</p>
+<p>Jurídica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licenciado o graduado en Derecho»</p>
+<p>Licenciado o graduado en Derecho»</p>
 </td>
 </tr>
 </tbody>

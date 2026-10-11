@@ -3643,60 +3643,55 @@ Equipamientos: Ciclo final
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C101.Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -3716,150 +3711,140 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU101 Enseñanza del judo y la defensa personal.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU101 Enseñanza del judo y la defensa personal.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU102 Organización de actividades y eventos de judo y defensa personal.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU102 Organización de actividades y eventos de judo y defensa personal.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU103. Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU103. Formación práctica.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo final</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo final</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU201: Formación y tecnificación en judo y defensa personal.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU201: Formación y tecnificación en judo y defensa personal.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU202: Judo adaptado.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU202: Judo adaptado.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU203: Entrenamiento en judo y defensa personal.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU203: Entrenamiento en judo y defensa personal.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU204: Organización y gestión de las actividades de judo y defensa personal.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU204: Organización y gestión de las actividades de judo y defensa personal.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU205: Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU205: Defensa Personal.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-JUJU206. Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-JUJU206. Formación práctica.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Judo y Defensa Personal.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

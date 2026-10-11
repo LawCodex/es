@@ -523,126 +523,108 @@ Madrid, 29 de septiembre de 2021.–La Ministra de Hacienda y Función Pública,
 
 – Órgano gestor: Órgano que en el ámbito de la Entidad ejecutora es responsable de la elaboración, firma y tramitación del Informe de gestión del Proyecto o Subproyecto. El Órgano gestor firmará también los Informes de previsiones y los Certificados de cumplimiento de los hitos y objetivos críticos y no críticos del Proyecto o Subproyecto. En los casos en los que exista coste asociado, en el ámbito de los departamentos ministeriales y entidades de la AGE el Órgano gestor será la unidad que tiene el presupuesto; en el ámbito de las Administraciones Autonómica el titular del órgano que desempeñe funciones análogas a las de Subsecretario en la correspondiente Consejería o equivalente. En el caso de las Entidades Locales y resto de participantes el Secretario o cargo que desempeñe funciones análogas certificará el resultado que recoja el informe de gestión conforme a la documentación administrativa y contable relativa al Subproyecto ejecutado por las correspondientes áreas o concejalías de la entidad local. Adicionalmente, será responsable de elaborar la planificación operativa y de suministrar la información de previsión, seguimiento y cumplimiento de los distintos elementos del Proyecto o Subproyecto.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="7">Órgano responsable</th>
+<th colspan="7">Órgano responsable</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Ministerios</th>
-<th class="cabeza_tabla">Otros AGE</th>
-<th class="cabeza_tabla">CC.AA.</th>
-<th class="cabeza_tabla">EE.LL.</th>
-<th class="cabeza_tabla">Otros</th>
+<th colspan="2"> </th>
+<th>Ministerios</th>
+<th>Otros AGE</th>
+<th>CC.AA.</th>
+<th>EE.LL.</th>
+<th>Otros</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Entidad Decisora.</td>
-<td class="cuerpo_tabla_izq">Componente.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td rowspan="2">Entidad Decisora.</td>
+<td>Componente.</td>
+<td>Sí Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medida.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Medida.</td>
+<td>Sí Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Proyecto.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Proyecto.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Subproyecto.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Subproyecto.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="7">Órgano gestor</th>
+<th colspan="7">Órgano gestor</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Ministerios</th>
-<th class="cabeza_tabla">Otros AGE</th>
-<th class="cabeza_tabla">CC.AA.</th>
-<th class="cabeza_tabla">EE.LL.</th>
-<th class="cabeza_tabla">Otros</th>
+<th colspan="2"> </th>
+<th>Ministerios</th>
+<th>Otros AGE</th>
+<th>CC.AA.</th>
+<th>EE.LL.</th>
+<th>Otros</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Entidad Decisora.</td>
-<td class="cuerpo_tabla_izq">Componente.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td rowspan="2">Entidad Decisora.</td>
+<td>Componente.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medida.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Medida.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Proyecto.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Proyecto.</td>
+<td>Sí Aplica.</td>
+<td>Sí Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Subproyecto.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
-<td class="cuerpo_tabla_izq">Sí Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Subproyecto.</td>
+<td>Sí Aplica.</td>
+<td>Sí Aplica.</td>
+<td>Sí Aplica.</td>
+<td>Sí Aplica.</td>
+<td>Sí Aplica.</td>
 </tr>
 </tbody>
 </table>
@@ -655,250 +637,214 @@ Madrid, 29 de septiembre de 2021.–La Ministra de Hacienda y Función Pública,
 
 – Informe de Gestión: Documento elaborado y firmado, según sea el ámbito, por el Órgano gestor de una Entidad ejecutora para el Proyecto o el Subproyecto o por el Órgano responsable de la Medida o el Órgano responsable del Componente de una Entidad decisora por el que el firmante se hace responsable de la información que consta en el mismo en relación con la ejecución del Plan de Recuperación, Transformación y Resiliencia. Dicho documento acredita el estado de situación en cada ámbito (Componente, Medida, Proyecto o Subproyecto) en relación con los correspondientes Hitos y Objetivos y con el resto de requerimientos del Reglamento de Recuperación y Resiliencia, así como de la información contable sobre el gasto en que se ha incurrido.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="7">Informe de gestión (semestral)</th>
+<th colspan="7">Informe de gestión (semestral)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Ministerios</th>
-<th class="cabeza_tabla">Otros AGE</th>
-<th class="cabeza_tabla">CC.AA.</th>
-<th class="cabeza_tabla">EE.LL.</th>
-<th class="cabeza_tabla">Otros</th>
+<th colspan="2"> </th>
+<th>Ministerios</th>
+<th>Otros AGE</th>
+<th>CC.AA.</th>
+<th>EE.LL.</th>
+<th>Otros</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Entidad Decisora.</td>
-<td class="cuerpo_tabla_izq">Componente.</td>
-<td class="cuerpo_tabla_izq">Órgano Responsable.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td rowspan="2">Entidad Decisora.</td>
+<td>Componente.</td>
+<td>Órgano Responsable.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medida.</td>
-<td class="cuerpo_tabla_izq">Órgano Responsable.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Medida.</td>
+<td>Órgano Responsable.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Proyecto.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Proyecto.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Subproyecto.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
+<td>Entidad Ejecutora.</td>
+<td>Subproyecto.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="7">Informe de previsiones (trimestral)</th>
+<th colspan="7">Informe de previsiones (trimestral)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Ministerios</th>
-<th class="cabeza_tabla">Otros AGE</th>
-<th class="cabeza_tabla">CC.AA.</th>
-<th class="cabeza_tabla">EE.LL.</th>
-<th class="cabeza_tabla">Otros</th>
+<th colspan="2"> </th>
+<th>Ministerios</th>
+<th>Otros AGE</th>
+<th>CC.AA.</th>
+<th>EE.LL.</th>
+<th>Otros</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Entidad Decisora.</td>
-<td class="cuerpo_tabla_izq">Componente.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td rowspan="2">Entidad Decisora.</td>
+<td>Componente.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medida.</td>
-<td class="cuerpo_tabla_izq">Órgano Responsable.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Medida.</td>
+<td>Órgano Responsable.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Proyecto.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Proyecto.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Subproyecto.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
+<td>Entidad Ejecutora.</td>
+<td>Subproyecto.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="7">Informe de seguimiento (mensual)</th>
+<th colspan="7">Informe de seguimiento (mensual)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Ministerios</th>
-<th class="cabeza_tabla">Otros AGE</th>
-<th class="cabeza_tabla">CC.AA.</th>
-<th class="cabeza_tabla">EE.LL.</th>
-<th class="cabeza_tabla">Otros</th>
+<th colspan="2"> </th>
+<th>Ministerios</th>
+<th>Otros AGE</th>
+<th>CC.AA.</th>
+<th>EE.LL.</th>
+<th>Otros</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Entidad Decisora.</td>
-<td class="cuerpo_tabla_izq">Componente.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td rowspan="2">Entidad Decisora.</td>
+<td>Componente.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medida.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Medida.</td>
+<td>Automático.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Proyecto.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Proyecto.</td>
+<td>Automático.</td>
+<td>Automático.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Subproyecto.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
-<td class="cuerpo_tabla_izq">Automático.</td>
+<td>Entidad Ejecutora.</td>
+<td>Subproyecto.</td>
+<td>Automático.</td>
+<td>Automático.</td>
+<td>Automático.</td>
+<td>Automático.</td>
+<td>Automático.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="7">Certificado de cumplimiento (al registrar finalización de hitos u objetivos)</th>
+<th colspan="7">Certificado de cumplimiento (al registrar finalización de hitos u objetivos)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla">Ministerios</th>
-<th class="cabeza_tabla">Otros AGE</th>
-<th class="cabeza_tabla">CC.AA</th>
-<th class="cabeza_tabla">EE.LL.</th>
-<th class="cabeza_tabla">Otros</th>
+<th colspan="2"> </th>
+<th>Ministerios</th>
+<th>Otros AGE</th>
+<th>CC.AA</th>
+<th>EE.LL.</th>
+<th>Otros</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Entidad Decisora.</td>
-<td class="cuerpo_tabla_izq">Componente.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td rowspan="2">Entidad Decisora.</td>
+<td>Componente.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Medida.</td>
-<td class="cuerpo_tabla_izq">Órgano Responsable.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Medida.</td>
+<td>Órgano Responsable.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Proyecto.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
-<td class="cuerpo_tabla_izq">No Aplica.</td>
+<td>Entidad Ejecutora.</td>
+<td>Proyecto.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
+<td>No Aplica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad Ejecutora.</td>
-<td class="cuerpo_tabla_izq">Subproyecto.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
-<td class="cuerpo_tabla_izq">Órgano Gestor.</td>
+<td>Entidad Ejecutora.</td>
+<td>Subproyecto.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
+<td>Órgano Gestor.</td>
 </tr>
 </tbody>
 </table>
@@ -955,83 +901,75 @@ Cargo:
 
 Fecha:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Aspectos esenciales (el incumplimiento requiere corrección inmediata)</th>
-<th class="cabeza_tabla">Sí</th>
-<th class="cabeza_tabla">No</th>
-<th class="cabeza_tabla" colspan="2">No procede</th>
+<th colspan="2">Aspectos esenciales (el incumplimiento requiere corrección inmediata)</th>
+<th>Sí</th>
+<th>No</th>
+<th colspan="2">No procede</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">A. ¿Considera que tienen cubierta la función de control de gestión/auditoría interna?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2">A. ¿Considera que tienen cubierta la función de control de gestión/auditoría interna?</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">B. ¿Aplica procedimientos para el seguimiento de hitos, objetivos y proyectos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2">B. ¿Aplica procedimientos para el seguimiento de hitos, objetivos y proyectos?</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">C. ¿En sus procesos de toma de decisiones, evalúa de forma sistemática los principios:</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">–</td>
+<td colspan="2">C. ¿En sus procesos de toma de decisiones, evalúa de forma sistemática los principios:</td>
+<td>–</td>
+<td>–</td>
+<td colspan="2">–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> i. Impactos medioambientales no deseados (Do no significant harm, DNSH).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> i. Impactos medioambientales no deseados (Do no significant harm, DNSH).</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> ii. Etiquetado digital y etiquetado verde.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> ii. Etiquetado digital y etiquetado verde.</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> iii. Conflicto de interés, fraude y corrupción.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> iii. Conflicto de interés, fraude y corrupción.</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> iv Prevención doble financiación.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> iv Prevención doble financiación.</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> v. Régimen ayudas de Estado.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> v. Régimen ayudas de Estado.</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> vi. Identificación de beneficiarios, contratistas y subcontratistas.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> vi. Identificación de beneficiarios, contratistas y subcontratistas.</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> vii Comunicación.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td colspan="2"> vii Comunicación.</td>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
@@ -1042,118 +980,108 @@ Análisis por áreas, grado de cumplimiento y riesgo
 
 Área: Control de Gestión/Auditoría Interna.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Pregunta</th>
-<th class="cabeza_tabla" colspan="7">Grado de cumplimiento</th>
+<th rowspan="2">Pregunta</th>
+<th colspan="7">Grado de cumplimiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="3">4</th>
-<th class="cabeza_tabla" colspan="2">3</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">1</th>
+<th colspan="3">4</th>
+<th colspan="2">3</th>
+<th>2</th>
+<th>1</th>
 </tr>
 </thead>
-<colgroup>
-<col width="68%">
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. ¿Dispone de un servicio o recursos humanos específicos?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1. ¿Dispone de un servicio o recursos humanos específicos?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Aplican procedimientos claramente definidos?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2. ¿Aplican procedimientos claramente definidos?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. ¿Elaboran un Plan de Control y se evalúa su ejecución?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3. ¿Elaboran un Plan de Control y se evalúa su ejecución?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. ¿Documentan los trabajos realizados y se elaboran informes del resultado?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4. ¿Documentan los trabajos realizados y se elaboran informes del resultado?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. ¿Se elevan los resultados obtenidos a la Dirección o a los Responsables?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5. ¿Se elevan los resultados obtenidos a la Dirección o a los Responsables?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. ¿Analizan la aplicación de medidas correctoras?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6. ¿Analizan la aplicación de medidas correctoras?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. ¿Han elaborado un Plan de Control en relación con el PRTR?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>7. ¿Han elaborado un Plan de Control en relación con el PRTR?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. ¿Asegura la aplicación de medidas correctoras en el corto plazo?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8. ¿Asegura la aplicación de medidas correctoras en el corto plazo?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. ¿Realizan trabajos de validación específicos sobre el Informe de Gestión?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>9. ¿Realizan trabajos de validación específicos sobre el Informe de Gestión?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. ¿Cuál es la valoración del Control de Gestión por los auditores externos?</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>10. ¿Cuál es la valoración del Control de Gestión por los auditores externos?</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Subtotal puntos.</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Subtotal puntos.</td>
+<td colspan="3"> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos totales.</td>
-<td class="cuerpo_tabla_centro" colspan="7"> </td>
+<td> Puntos totales.</td>
+<td colspan="7"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos máximos.</td>
-<td class="cuerpo_tabla_centro" colspan="7">40</td>
+<td> Puntos máximos.</td>
+<td colspan="7">40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos relativos (puntos totales/puntos máximos).</td>
-<td class="cuerpo_tabla_centro" colspan="7"> </td>
+<td> Puntos relativos (puntos totales/puntos máximos).</td>
+<td colspan="7"> </td>
 </tr>
 </tbody>
 </table>
@@ -1162,73 +1090,66 @@ Nota: 4 equivale al máximo cumplimiento, 1 al mínimo.
 
 ## ANEXO II.B.3 — Test hitos y objetivos
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Pregunta</th>
-<th class="cabeza_tabla" colspan="4">Grado de cumplimiento</th>
+<th rowspan="2">Pregunta</th>
+<th colspan="4">Grado de cumplimiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">1</th>
+<th>4</th>
+<th>3</th>
+<th>2</th>
+<th>1</th>
 </tr>
 </thead>
-<colgroup>
-<col width="68%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. ¿Se dispone de experiencia previa en gestión por objetivos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1. ¿Se dispone de experiencia previa en gestión por objetivos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Se aplican procedimientos para gestionar los hitos y objetivos? (A estos efectos, se proporciona un cuestionario en el anexo III.A).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2. ¿Se aplican procedimientos para gestionar los hitos y objetivos? (A estos efectos, se proporciona un cuestionario en el anexo III.A).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. ¿Se ha recibido formación para la gestión de hitos y objetivos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3. ¿Se ha recibido formación para la gestión de hitos y objetivos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. ¿Se dispone de recursos humanos específicos para suministrar la información de hitos y objetivos en el Sistema de Información de Gestión y Seguimiento?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4. ¿Se dispone de recursos humanos específicos para suministrar la información de hitos y objetivos en el Sistema de Información de Gestión y Seguimiento?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Subtotal puntos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Subtotal puntos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos totales.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos totales.</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos máximos.</td>
-<td class="cuerpo_tabla_centro" colspan="4">16</td>
+<td> Puntos máximos.</td>
+<td colspan="4">16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos relativos (puntos totales/puntos máximos).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos relativos (puntos totales/puntos máximos).</td>
+<td colspan="4"> </td>
 </tr>
 </tbody>
 </table>
@@ -1237,73 +1158,66 @@ Nota: 4 equivale al máximo cumplimiento, 1 al mínimo.
 
 ## ANEXO II.B.4 — Test daños medioambientales
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Pregunta</th>
-<th class="cabeza_tabla" colspan="4">Grado de cumplimiento</th>
+<th rowspan="2">Pregunta</th>
+<th colspan="4">Grado de cumplimiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">1</th>
+<th>4</th>
+<th>3</th>
+<th>2</th>
+<th>1</th>
 </tr>
 </thead>
-<colgroup>
-<col width="68%">
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. ¿Se aplican procedimientos para valorar el cumplimiento del principio de «no causar un perjuicio significativo»? (A estos efectos, se proporciona un modelo de lista de comprobación o check-list anexo III.B).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1. ¿Se aplican procedimientos para valorar el cumplimiento del principio de «no causar un perjuicio significativo»? (A estos efectos, se proporciona un modelo de lista de comprobación o check-list anexo III.B).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Se dispone de recursos humanos específicos para realizar esta tarea?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2. ¿Se dispone de recursos humanos específicos para realizar esta tarea?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. ¿Se carece de incidencias previas en relación con el cumplimiento del principio de «no causar un perjuicio significativo»?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3. ¿Se carece de incidencias previas en relación con el cumplimiento del principio de «no causar un perjuicio significativo»?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. ¿Se constata la realización del análisis sobre el cumplimiento del principio de «no causar un perjuicio significativo» por todos los niveles de ejecución?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4. ¿Se constata la realización del análisis sobre el cumplimiento del principio de «no causar un perjuicio significativo» por todos los niveles de ejecución?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Subtotal puntos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Subtotal puntos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos totales.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos totales.</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos máximos.</td>
-<td class="cuerpo_tabla_centro" colspan="4">16</td>
+<td> Puntos máximos.</td>
+<td colspan="4">16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos relativos (puntos totales/puntos máximos).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos relativos (puntos totales/puntos máximos).</td>
+<td colspan="4"> </td>
 </tr>
 </tbody>
 </table>
@@ -1312,170 +1226,162 @@ Nota: 4 equivale al máximo cumplimiento, 1 al mínimo.
 
 ## ANEXO II.B.5 — Test conflicto de interés, prevención del fraude y la corrupción
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Pregunta</th>
-<th class="cabeza_tabla" colspan="4">Grado de cumplimiento</th>
+<th colspan="2" rowspan="2">Pregunta</th>
+<th colspan="4">Grado de cumplimiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">1</th>
+<th>4</th>
+<th>3</th>
+<th>2</th>
+<th>1</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">1. ¿Se dispone de un «Plan de medidas antifraude» que le permita a la entidad ejecutora o a la entidad decisora garantizar y declarar que, en su respectivo ámbito de actuación, los fondos correspondientes se han utilizado de conformidad con las normas aplicables, en particular, en lo que se refiere a la prevención, detección y corrección del fraude, la corrupción y los conflictos de intereses?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">1. ¿Se dispone de un «Plan de medidas antifraude» que le permita a la entidad ejecutora o a la entidad decisora garantizar y declarar que, en su respectivo ámbito de actuación, los fondos correspondientes se han utilizado de conformidad con las normas aplicables, en particular, en lo que se refiere a la prevención, detección y corrección del fraude, la corrupción y los conflictos de intereses?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">2. ¿Se constata la existencia del correspondiente «Plan de medidas antifraude» en todos los niveles de ejecución?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">2. ¿Se constata la existencia del correspondiente «Plan de medidas antifraude» en todos los niveles de ejecución?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="6">Prevención</td>
+<td colspan="6">Prevención</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">3. ¿Dispone de una declaración, al más alto nivel, donde se comprometa a luchar contra el fraude?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">3. ¿Dispone de una declaración, al más alto nivel, donde se comprometa a luchar contra el fraude?</td>
 <td> </td>
 <td> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">4. ¿Se realiza una autoevaluación que identifique los riesgos específicos, su impacto y la probabilidad de que ocurran y se revisa periódicamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">5. ¿Se difunde un código ético y se informa sobre la política de obsequios?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">4. ¿Se realiza una autoevaluación que identifique los riesgos específicos, su impacto y la probabilidad de que ocurran y se revisa periódicamente?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">6. ¿Se imparte formación que promueva la Ética Pública y que facilite la detección del fraude?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">5. ¿Se difunde un código ético y se informa sobre la política de obsequios?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">7. ¿Se ha elaborado un procedimiento para tratar los conflictos de intereses?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">6. ¿Se imparte formación que promueva la Ética Pública y que facilite la detección del fraude?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">8. ¿Se cumplimenta una declaración de ausencia de conflicto de intereses por todos los intervinientes?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">7. ¿Se ha elaborado un procedimiento para tratar los conflictos de intereses?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="6">Detección</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">9. ¿Se han definido indicadores de fraude o señales de alerta (banderas rojas) y se han comunicado al personal en posición de detectarlos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">8. ¿Se cumplimenta una declaración de ausencia de conflicto de intereses por todos los intervinientes?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">10. ¿Se utilizan herramientas de prospección de datos o de puntuación de riesgos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="6">Detección</td>
+</tr>
+<tr>
+<td colspan="2">9. ¿Se han definido indicadores de fraude o señales de alerta (banderas rojas) y se han comunicado al personal en posición de detectarlos?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">11. ¿Existe algún cauce para que cualquier interesado pueda presentar denuncias?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">10. ¿Se utilizan herramientas de prospección de datos o de puntuación de riesgos?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">12. ¿Se dispone de alguna Unidad encargada de examinar las denuncias y proponer medidas?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">11. ¿Existe algún cauce para que cualquier interesado pueda presentar denuncias?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="6">Corrección</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">13. ¿Se evalúa la incidencia del fraude y se califica como sistémico o puntual?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">12. ¿Se dispone de alguna Unidad encargada de examinar las denuncias y proponer medidas?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">14. ¿Se retiran los proyectos o la parte de los mismos afectados por el fraude y financiados o a financiar por el MRR?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="6">Corrección</td>
+</tr>
+<tr>
+<td colspan="2">13. ¿Se evalúa la incidencia del fraude y se califica como sistémico o puntual?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="6">Persecución</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">15. ¿Se comunican los hechos producidos y las medidas adoptadas a la entidad ejecutora, a la entidad decisora o a la Autoridad Responsable, según proceda?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">14. ¿Se retiran los proyectos o la parte de los mismos afectados por el fraude y financiados o a financiar por el MRR?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">16. ¿Se denuncian, en los casos oportunos, los hechos punibles a las Autoridades Públicas nacionales o de la Unión Europea o ante la fiscalía y los tribunales competentes?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="6">Persecución</td>
+</tr>
+<tr>
+<td colspan="2">15. ¿Se comunican los hechos producidos y las medidas adoptadas a la entidad ejecutora, a la entidad decisora o a la Autoridad Responsable, según proceda?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Subtotal puntos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">16. ¿Se denuncian, en los casos oportunos, los hechos punibles a las Autoridades Públicas nacionales o de la Unión Europea o ante la fiscalía y los tribunales competentes?</td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Puntos totales.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td colspan="2"> Subtotal puntos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Puntos máximos.</td>
-<td class="cuerpo_tabla_centro" colspan="4">64</td>
+<td colspan="2"> Puntos totales.</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Puntos relativos (puntos totales/puntos máximos).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td colspan="2"> Puntos máximos.</td>
+<td colspan="4">64</td>
+</tr>
+<tr>
+<td colspan="2"> Puntos relativos (puntos totales/puntos máximos).</td>
+<td colspan="4"> </td>
 </tr>
 </tbody>
 </table>
@@ -1486,73 +1392,66 @@ Nota: 4 equivale al máximo cumplimiento, 1 al mínimo.
 
 Ayudas de Estado
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Pregunta</th>
-<th class="cabeza_tabla" colspan="4">Grado de cumplimiento</th>
+<th rowspan="2">Pregunta</th>
+<th colspan="4">Grado de cumplimiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">1</th>
+<th>4</th>
+<th>3</th>
+<th>2</th>
+<th>1</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. ¿Se aplican procedimientos para valorar la necesidad de notificación previa/comunicación de las ayudas a conceder en su ámbito y, en su caso, para realizar la oportuna notificación previa/comunicación de manera que se garantice el respeto a la normativa comunitaria sobre Ayudas de Estado? (A estos efectos, se proporciona un modelo de lista de comprobación o <em>check-list</em>).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1. ¿Se aplican procedimientos para valorar la necesidad de notificación previa/comunicación de las ayudas a conceder en su ámbito y, en su caso, para realizar la oportuna notificación previa/comunicación de manera que se garantice el respeto a la normativa comunitaria sobre Ayudas de Estado? (A estos efectos, se proporciona un modelo de lista de comprobación o <em>check-list</em>).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Se dispone de recursos humanos específicos para realizar esta tarea?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2. ¿Se dispone de recursos humanos específicos para realizar esta tarea?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. ¿Se carece de antecedentes de riesgo en relación con el cumplimiento d la normativa sobre Ayudas de Estado?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3. ¿Se carece de antecedentes de riesgo en relación con el cumplimiento d la normativa sobre Ayudas de Estado?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. ¿Se constata la realización del análisis sobre el respeto a la normativa de Ayudas de Estado por todos los niveles de ejecución?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4. ¿Se constata la realización del análisis sobre el respeto a la normativa de Ayudas de Estado por todos los niveles de ejecución?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Subtotal puntos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Subtotal puntos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos totales.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos totales.</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos máximos.</td>
-<td class="cuerpo_tabla_centro" colspan="4">16</td>
+<td> Puntos máximos.</td>
+<td colspan="4">16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos relativos (puntos totales/puntos máximos).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos relativos (puntos totales/puntos máximos).</td>
+<td colspan="4"> </td>
 </tr>
 </tbody>
 </table>
@@ -1561,73 +1460,66 @@ Nota: 4 equivale al máximo cumplimiento, 1 al mínimo.
 
 Doble financiación
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Pregunta</th>
-<th class="cabeza_tabla" colspan="4">Grado de cumplimiento</th>
+<th rowspan="2">Pregunta</th>
+<th colspan="4">Grado de cumplimiento</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">4</th>
-<th class="cabeza_tabla">3</th>
-<th class="cabeza_tabla">2</th>
-<th class="cabeza_tabla">1</th>
+<th>4</th>
+<th>3</th>
+<th>2</th>
+<th>1</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. ¿Se aplican procedimientos para valorar la posible existencia, en su ámbito de gestión, de doble financiación en la ejecución del PRTR? (A estos efectos, se proporciona un modelo de lista de comprobación o <em>check-list</em>).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1. ¿Se aplican procedimientos para valorar la posible existencia, en su ámbito de gestión, de doble financiación en la ejecución del PRTR? (A estos efectos, se proporciona un modelo de lista de comprobación o <em>check-list</em>).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Se dispone de recursos humanos específicos para realizar esta tarea?.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2. ¿Se dispone de recursos humanos específicos para realizar esta tarea?.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.¿Se carece de incidencias previas en relación con doble financiación (en el marco del MRR o de cualquier otro fondo europeo)?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.¿Se carece de incidencias previas en relación con doble financiación (en el marco del MRR o de cualquier otro fondo europeo)?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.¿Se constata la realización del análisis sobre la posible existencia de doble financiación por todos los niveles de ejecución?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4.¿Se constata la realización del análisis sobre la posible existencia de doble financiación por todos los niveles de ejecución?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Subtotal puntos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Subtotal puntos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos totales.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos totales.</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos máximos.</td>
-<td class="cuerpo_tabla_centro" colspan="4">16</td>
+<td> Puntos máximos.</td>
+<td colspan="4">16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Puntos relativos (puntos totales/puntos máximos).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td> Puntos relativos (puntos totales/puntos máximos).</td>
+<td colspan="4"> </td>
 </tr>
 </tbody>
 </table>
@@ -1679,168 +1571,160 @@ Cuestionario: Gestión de hitos y objetivos. Definición de Proyectos y Subproye
 
 Responsable: Entidad ejecutora (Órgano gestor)
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Definición de proyectos y subproyectos</th>
-<th class="cabeza_tabla">Sí</th>
-<th class="cabeza_tabla">No</th>
-<th class="cabeza_tabla">No aplica</th>
-<th class="cabeza_tabla">Comentarios</th>
+<th colspan="2">Definición de proyectos y subproyectos</th>
+<th>Sí</th>
+<th>No</th>
+<th>No aplica</th>
+<th>Comentarios</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">¿La Entidad ejecutora de cada Proyecto/Subproyecto ha sido identificada? (la Entidad ejecutora del Proyecto puede coincidir con la Entidad decisora de la Medida en que se integra).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td>¿La Entidad ejecutora de cada Proyecto/Subproyecto ha sido identificada? (la Entidad ejecutora del Proyecto puede coincidir con la Entidad decisora de la Medida en que se integra).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">¿El Órgano gestor de cada Proyecto/Subproyecto ha sido identificado? (si la Entidad ejecutora es la Entidad decisora de la Medida, el Órgano gestor del Proyecto puede coincidir con el Órgano responsable de la Medida).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td>¿El Órgano gestor de cada Proyecto/Subproyecto ha sido identificado? (si la Entidad ejecutora es la Entidad decisora de la Medida, el Órgano gestor del Proyecto puede coincidir con el Órgano responsable de la Medida).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">¿Se han identificado los usuarios que tendrán acceso a la información del Proyecto/Subproyecto en la herramienta informática y con qué roles (permisos)?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3</td>
+<td>¿Se han identificado los usuarios que tendrán acceso a la información del Proyecto/Subproyecto en la herramienta informática y con qué roles (permisos)?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">¿Los hitos y objetivos Críticos de los Proyectos definidos cubren todo el espectro de los hitos y objetivos CID de la Medida?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td>¿Los hitos y objetivos Críticos de los Proyectos definidos cubren todo el espectro de los hitos y objetivos CID de la Medida?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">¿Los hitos y objetivos No Críticos de los Proyectos definidos cubren todo el espectro de los hitos y objetivos OA de la Medida?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5</td>
+<td>¿Los hitos y objetivos No Críticos de los Proyectos definidos cubren todo el espectro de los hitos y objetivos OA de la Medida?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">¿Todo hito u objetivo Crítico de Proyecto está vinculado a un hito u objetivo CID?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6</td>
+<td>¿Todo hito u objetivo Crítico de Proyecto está vinculado a un hito u objetivo CID?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">¿Los hitos y objetivos Críticos del Subproyecto están vinculados al correspondiente hito u objetivo Crítico del Proyecto o Subproyecto en el que se integran?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>7</td>
+<td>¿Los hitos y objetivos Críticos del Subproyecto están vinculados al correspondiente hito u objetivo Crítico del Proyecto o Subproyecto en el que se integran?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">¿Los hitos y objetivos No Críticos del Subproyecto están vinculados al correspondiente hito u objetivo No Crítico del Proyecto o Subproyecto en el que se integran?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td>¿Los hitos y objetivos No Críticos del Subproyecto están vinculados al correspondiente hito u objetivo No Crítico del Proyecto o Subproyecto en el que se integran?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">¿Se han definido los indicadores (incluyendo sus unidades) y los mecanismos de verificación de los hitos y objetivos Críticos y No Críticos del Proyecto/Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>9</td>
+<td>¿Se han definido los indicadores (incluyendo sus unidades) y los mecanismos de verificación de los hitos y objetivos Críticos y No Críticos del Proyecto/Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">¿El coste estimado (cifras anuales) de la Medida ha sido distribuido entre los Proyectos/Subproyectos definidos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>10</td>
+<td>¿El coste estimado (cifras anuales) de la Medida ha sido distribuido entre los Proyectos/Subproyectos definidos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Si la Medida contribuye a la transición ecológica (climate tagging) y tiene asociado un único campo de intervención ¿se ha comprobado que el Proyecto/Subproyecto tiene asociado el campo de intervención?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>11</td>
+<td>Si la Medida contribuye a la transición ecológica (climate tagging) y tiene asociado un único campo de intervención ¿se ha comprobado que el Proyecto/Subproyecto tiene asociado el campo de intervención?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Si la Medida contribuye a la transición ecológica (climate tagging) y tiene asociado más de un campo de intervención ¿se ha asignado al Proyecto/Subproyecto la/s submedida/s que le corresponden?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>12</td>
+<td>Si la Medida contribuye a la transición ecológica (climate tagging) y tiene asociado más de un campo de intervención ¿se ha asignado al Proyecto/Subproyecto la/s submedida/s que le corresponden?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Si la Medida contribuye a la transición digital (digital tagging) y tiene asociado un único campo de intervención ¿se ha comprobado que el Proyecto/Subproyecto tiene asociado el campo de intervención?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>13</td>
+<td>Si la Medida contribuye a la transición digital (digital tagging) y tiene asociado un único campo de intervención ¿se ha comprobado que el Proyecto/Subproyecto tiene asociado el campo de intervención?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Si la Medida contribuye a la transición digital (digital tagging) y tiene asociado más de un campo de intervención ¿se ha asignado al Proyecto/Subproyecto la/s submedida/s que le corresponden?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>14</td>
+<td>Si la Medida contribuye a la transición digital (digital tagging) y tiene asociado más de un campo de intervención ¿se ha asignado al Proyecto/Subproyecto la/s submedida/s que le corresponden?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">En caso de que para la ejecución del Proyecto sea necesario disponer de algún elemento que se obtiene al ejecutar otro Proyecto, ¿se ha detallado el Proyecto y el elemento del que se depende y en qué semestre se requiere su disponibilidad?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>15</td>
+<td>En caso de que para la ejecución del Proyecto sea necesario disponer de algún elemento que se obtiene al ejecutar otro Proyecto, ¿se ha detallado el Proyecto y el elemento del que se depende y en qué semestre se requiere su disponibilidad?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">¿La definición del Proyecto ha sido validada por Órgano responsable de la Medida en la que se integra? / ¿La definición del Subproyecto ha sido validada por Órgano gestor del Proyecto/Subproyecto en el que se integra?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>16</td>
+<td>¿La definición del Proyecto ha sido validada por Órgano responsable de la Medida en la que se integra? / ¿La definición del Subproyecto ha sido validada por Órgano gestor del Proyecto/Subproyecto en el que se integra?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">¿Se ha coordinado con la Autoridad responsable la definición del Proyecto/Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>17</td>
+<td>¿Se ha coordinado con la Autoridad responsable la definición del Proyecto/Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">¿Se ha cerrado en la herramienta informática la definición del Proyecto/Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>18</td>
+<td>¿Se ha cerrado en la herramienta informática la definición del Proyecto/Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1849,168 +1733,160 @@ Cuestionario: Gestión de hitos y objetivos. Planificación Anual de Proyectos y
 
 Responsable: Entidad ejecutora (Órgano gestor)
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> Planificación anual de proyectos</th>
-<th class="cabeza_tabla">Sí</th>
-<th class="cabeza_tabla">No</th>
-<th class="cabeza_tabla">No aplica</th>
-<th class="cabeza_tabla">Comentarios</th>
+<th colspan="2"> Planificación anual de proyectos</th>
+<th>Sí</th>
+<th>No</th>
+<th>No aplica</th>
+<th>Comentarios</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">¿Se han definido hitos y objetivos No Críticos adicionales en el periodo de planificación para una adecuada gestión de riesgos (adopción de acciones preventivas o correctivas) de eventuales incumplimientos de los hitos y objetivos Críticos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td>¿Se han definido hitos y objetivos No Críticos adicionales en el periodo de planificación para una adecuada gestión de riesgos (adopción de acciones preventivas o correctivas) de eventuales incumplimientos de los hitos y objetivos Críticos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">¿Se han definido los indicadores (incluyendo sus unidades) y los mecanismos de verificación de cada hito u objetivo No Crítico adicional?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td>¿Se han definido los indicadores (incluyendo sus unidades) y los mecanismos de verificación de cada hito u objetivo No Crítico adicional?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">¿La descomposición en Líneas de acción (Actuaciones, Actividades y Tareas) durante el periodo de planificación permite una adecuada gestión y seguimiento del Proyecto/Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3</td>
+<td>¿La descomposición en Líneas de acción (Actuaciones, Actividades y Tareas) durante el periodo de planificación permite una adecuada gestión y seguimiento del Proyecto/Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">¿Cada Línea de acción tiene definido, al menos, un hito u objetivo?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td>¿Cada Línea de acción tiene definido, al menos, un hito u objetivo?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">¿Los hitos y objetivos definidos para las Líneas de acción cubren todo el espectro de los hitos y objetivos Críticos y No Críticos del Proyecto/Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5</td>
+<td>¿Los hitos y objetivos definidos para las Líneas de acción cubren todo el espectro de los hitos y objetivos Críticos y No Críticos del Proyecto/Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">¿Cada hito y objetivo de las Líneas de acción está vinculado a un hito u objetivo del nivel superior (los de Tareas a Actividad, los de Actividades a Actuación y los de Actuaciones a Proyecto o Subproyecto)?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6</td>
+<td>¿Cada hito y objetivo de las Líneas de acción está vinculado a un hito u objetivo del nivel superior (los de Tareas a Actividad, los de Actividades a Actuación y los de Actuaciones a Proyecto o Subproyecto)?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">¿Se han definido los indicadores (incluyendo sus unidades) y los mecanismos de verificación de cada hito u objetivo de las Líneas de acción?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>7</td>
+<td>¿Se han definido los indicadores (incluyendo sus unidades) y los mecanismos de verificación de cada hito u objetivo de las Líneas de acción?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">En caso de que, durante el periodo de planificación, el Proyecto/Subproyecto incluya un instrumento jurídico con el que se transfieran recursos económicos, ¿se ha planificado una Actuación para su tramitación?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td>En caso de que, durante el periodo de planificación, el Proyecto/Subproyecto incluya un instrumento jurídico con el que se transfieran recursos económicos, ¿se ha planificado una Actuación para su tramitación?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">En las Actuaciones planificadas para tramitar un instrumento jurídico con el que se transfieran recursos económicos, ¿se han establecido hitos de gestión que permitan aplicar los procedimientos para el cumplimiento del principio DNSH y de la normativa sobre Ayudas de Estado; y para la prevención de conflicto de intereses, de fraude, de corrupción y de doble financiación?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>9</td>
+<td>En las Actuaciones planificadas para tramitar un instrumento jurídico con el que se transfieran recursos económicos, ¿se han establecido hitos de gestión que permitan aplicar los procedimientos para el cumplimiento del principio DNSH y de la normativa sobre Ayudas de Estado; y para la prevención de conflicto de intereses, de fraude, de corrupción y de doble financiación?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">En las Actuaciones relativas a un instrumento jurídico con el que se transfieren recursos económicos, ¿se han establecido hitos de gestión que permitan la incorporación de la información de contratistas, subcontratistas y beneficiarios últimos de los fondos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>10</td>
+<td>En las Actuaciones relativas a un instrumento jurídico con el que se transfieren recursos económicos, ¿se han establecido hitos de gestión que permitan la incorporación de la información de contratistas, subcontratistas y beneficiarios últimos de los fondos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">¿Se ha distribuido el coste estimado del Proyecto/Subproyecto en las Actuaciones relativas a un instrumento jurídico con el que se transfieren recursos económicos (cifras anuales)?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>11</td>
+<td>¿Se ha distribuido el coste estimado del Proyecto/Subproyecto en las Actuaciones relativas a un instrumento jurídico con el que se transfieren recursos económicos (cifras anuales)?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">En caso de ejercicios con presupuesto aprobado, ¿se ha asignado el importe/s presupuestado/s (cifras trimestrales) y la/s aplicaciones presupuestaria/s de cada Actuación con la que se transfieren recursos económicos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>12</td>
+<td>En caso de ejercicios con presupuesto aprobado, ¿se ha asignado el importe/s presupuestado/s (cifras trimestrales) y la/s aplicaciones presupuestaria/s de cada Actuación con la que se transfieren recursos económicos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Para los ejercicios en los que no se dispone de presupuesto aprobado, ¿se ha asignado el importe de presupuesto previsto (cifras anuales) de todo el horizonte temporal del Proyecto/Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>13</td>
+<td>Para los ejercicios en los que no se dispone de presupuesto aprobado, ¿se ha asignado el importe de presupuesto previsto (cifras anuales) de todo el horizonte temporal del Proyecto/Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">En caso de que el Proyecto/Subproyecto contribuya a la transición ecológica o digital y tenga asignada asociada más de un campo de intervención, ¿se ha asignado la Submedida correspondiente a cada Actuación?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>14</td>
+<td>En caso de que el Proyecto/Subproyecto contribuya a la transición ecológica o digital y tenga asignada asociada más de un campo de intervención, ¿se ha asignado la Submedida correspondiente a cada Actuación?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">En caso de que para la ejecución de determinada Línea de acción sea necesario disponer de algún elemento que se obtiene al ejecutar otra Línea de acción del propio Proyecto/Subproyecto o de otro, ¿se ha detallado la Línea de acción y el elemento del que depende y el trimestre en el que se requiere su disponibilidad?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>15</td>
+<td>En caso de que para la ejecución de determinada Línea de acción sea necesario disponer de algún elemento que se obtiene al ejecutar otra Línea de acción del propio Proyecto/Subproyecto o de otro, ¿se ha detallado la Línea de acción y el elemento del que depende y el trimestre en el que se requiere su disponibilidad?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">¿La planificación anual del Proyecto ha sido validada por Órgano responsable de la Medida en la que se integra? / ¿La planificación anual del Subproyecto ha sido validada por Órgano gestor del Proyecto/Subproyecto en el que se integra?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>16</td>
+<td>¿La planificación anual del Proyecto ha sido validada por Órgano responsable de la Medida en la que se integra? / ¿La planificación anual del Subproyecto ha sido validada por Órgano gestor del Proyecto/Subproyecto en el que se integra?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">¿La planificación anual del Proyecto ha sido coordinada con la Autoridad responsable?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>17</td>
+<td>¿La planificación anual del Proyecto ha sido coordinada con la Autoridad responsable?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">¿Se ha cerrado en la herramienta informática la planificación anual del Proyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>18</td>
+<td>¿Se ha cerrado en la herramienta informática la planificación anual del Proyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2082,160 +1958,152 @@ Ejecución de subproyectos
 | 14 | En los casos en los que existe desviación entre la información de progreso/ejecución del Subproyecto y la planificada, ¿se han identificado los riesgos y las acciones correctoras y se han registrado en la herramienta informática? |  |  |  |  |
 | 15 | ¿Se ha generado en la herramienta el Informe de Seguimiento mensual? |  |  |  |  |
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Previsiones trimestrales HyO críticos y no críticos</th>
-<th class="cabeza_tabla">Sí</th>
-<th class="cabeza_tabla">No</th>
-<th class="cabeza_tabla">No aplica</th>
-<th class="cabeza_tabla">Comentarios</th>
+<th colspan="2">Previsiones trimestrales HyO críticos y no críticos</th>
+<th>Sí</th>
+<th>No</th>
+<th>No aplica</th>
+<th>Comentarios</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los niveles inmediatamente inferiores que integran el Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>16</td>
+<td>¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los niveles inmediatamente inferiores que integran el Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que los indicadores de los hitos y objetivos Críticos y No críticos agregan la información de previsión correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>17</td>
+<td>¿Se ha comprobado que los indicadores de los hitos y objetivos Críticos y No críticos agregan la información de previsión correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">¿Ha sido necesaria alguna acción correctiva para que los hitos y objetivos Críticos y No críticos hayan agregado la información de previsiones?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>18</td>
+<td>¿Ha sido necesaria alguna acción correctiva para que los hitos y objetivos Críticos y No críticos hayan agregado la información de previsiones?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">En el caso de que no se hayan definido niveles inferiores ¿se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los hitos y objetivos Críticos y No críticos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>19</td>
+<td>En el caso de que no se hayan definido niveles inferiores ¿se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los hitos y objetivos Críticos y No críticos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">¿El registro de la previsión de progreso de los indicadores se ha realizado en el plazo establecido?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>20</td>
+<td>¿El registro de la previsión de progreso de los indicadores se ha realizado en el plazo establecido?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes de los comprometidos/ejecutados en las Actuaciones correspondientes?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>21</td>
+<td>¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes de los comprometidos/ejecutados en las Actuaciones correspondientes?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que el Subproyecto agrega la información de previsión de los comprometidos/ejecutados correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>22</td>
+<td>¿Se ha comprobado que el Subproyecto agrega la información de previsión de los comprometidos/ejecutados correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">¿Ha sido necesaria alguna acción correctiva para que el Subproyecto haya agregado la información de los comprometidos/ejecutados?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>23</td>
+<td>¿Ha sido necesaria alguna acción correctiva para que el Subproyecto haya agregado la información de los comprometidos/ejecutados?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿se ha comprobado que el Subproyecto agrega la información de previsiones de contribución a la transición ecológica correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>24</td>
+<td>En su caso, ¿se ha comprobado que el Subproyecto agrega la información de previsiones de contribución a la transición ecológica correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿ha sido necesaria alguna acción correctiva para que el Subproyecto haya agregado la información de previsiones de contribución a la transición ecológica?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>25</td>
+<td>En su caso, ¿ha sido necesaria alguna acción correctiva para que el Subproyecto haya agregado la información de previsiones de contribución a la transición ecológica?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿se ha comprobado que el Subproyecto agrega la información de previsiones de contribución a la transición digital correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>26</td>
+<td>En su caso, ¿se ha comprobado que el Subproyecto agrega la información de previsiones de contribución a la transición digital correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿ha sido necesaria alguna acción correctiva para que el Subproyecto haya agregado la información de previsiones de contribución a la transición digital?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>27</td>
+<td>En su caso, ¿ha sido necesaria alguna acción correctiva para que el Subproyecto haya agregado la información de previsiones de contribución a la transición digital?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿se han revisado los riesgos identificados para las Líneas de acción o para otros Subproyectos integrados en el Subproyecto y sus propuestas de acciones preventivas y correctoras ?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>28</td>
+<td>En su caso, ¿se han revisado los riesgos identificados para las Líneas de acción o para otros Subproyectos integrados en el Subproyecto y sus propuestas de acciones preventivas y correctoras ?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">En los casos en los que existe desviación entre la información de previsión del Subproyecto y la planificada, ¿se han identificado los riesgos y las acciones preventivas y correctoras y se han registrado en la herramienta informática?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>29</td>
+<td>En los casos en los que existe desviación entre la información de previsión del Subproyecto y la planificada, ¿se han identificado los riesgos y las acciones preventivas y correctoras y se han registrado en la herramienta informática?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">En caso de que las eventuales desviaciones tengan impacto en los ejercicios futuros ¿se ha registrado una previsión de presupuesto de ejercicios futuros que lo refleje?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>30</td>
+<td>En caso de que las eventuales desviaciones tengan impacto en los ejercicios futuros ¿se ha registrado una previsión de presupuesto de ejercicios futuros que lo refleje?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">¿Se ha generado en la herramienta el Informe de Previsiones y ha sido firmado electrónicamente por el Órgano gestor del Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>31</td>
+<td>¿Se ha generado en la herramienta el Informe de Previsiones y ha sido firmado electrónicamente por el Órgano gestor del Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">¿Se ha cerrado en la herramienta la previsión de los tres trimestres siguientes del Subproyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>32</td>
+<td>¿Se ha cerrado en la herramienta la previsión de los tres trimestres siguientes del Subproyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2273,160 +2141,152 @@ Ejecución de proyectos
 | 14 | En los casos en los que existe desviación entre la información de progreso/ejecución del Proyecto y la planificada, ¿se han identificado los riesgos y las acciones correctoras y se han registrado en la herramienta informática? |  |  |  |  |
 | 15 | ¿Se ha generado en la herramienta el Informe de Seguimiento mensual? |  |  |  |  |
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> Previsiones trimestrales HyO críticos y no críticos</th>
-<th class="cabeza_tabla">Sí</th>
-<th class="cabeza_tabla">No</th>
-<th class="cabeza_tabla">No aplica</th>
-<th class="cabeza_tabla">Comentarios</th>
+<th colspan="2"> Previsiones trimestrales HyO críticos y no críticos</th>
+<th>Sí</th>
+<th>No</th>
+<th>No aplica</th>
+<th>Comentarios</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro"> 16</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los niveles inmediatamente inferiores que integran el Proyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 16</td>
+<td>¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los niveles inmediatamente inferiores que integran el Proyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 17</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que los indicadores de los hitos y objetivos Críticos y No críticos agregan la información de previsión correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 17</td>
+<td>¿Se ha comprobado que los indicadores de los hitos y objetivos Críticos y No críticos agregan la información de previsión correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 18</td>
-<td class="cuerpo_tabla_izq">¿Ha sido necesaria alguna acción correctiva para que los hitos y objetivos Críticos y No críticos hayan agregado la información de previsiones?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 18</td>
+<td>¿Ha sido necesaria alguna acción correctiva para que los hitos y objetivos Críticos y No críticos hayan agregado la información de previsiones?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 19</td>
-<td class="cuerpo_tabla_izq">En el caso de que no se hayan definido niveles inferiores, ¿se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los hitos y objetivos Críticos y No críticos?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 19</td>
+<td>En el caso de que no se hayan definido niveles inferiores, ¿se ha registrado en la herramienta informática la previsión de los tres trimestres siguientes del progreso de los indicadores de los hitos y objetivos Críticos y No críticos?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 20</td>
-<td class="cuerpo_tabla_izq">¿El registro de la previsión de progreso de los indicadores se ha realizado en el plazo establecido?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 20</td>
+<td>¿El registro de la previsión de progreso de los indicadores se ha realizado en el plazo establecido?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 21</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres de los comprometidos/ejecutados en las Actuaciones correspondientes?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 21</td>
+<td>¿Se ha comprobado que se ha registrado en la herramienta informática la previsión de los tres trimestres de los comprometidos/ejecutados en las Actuaciones correspondientes?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 22</td>
-<td class="cuerpo_tabla_izq">¿Se ha comprobado que el Proyecto agrega la información de previsión de los comprometidos/ejecutados correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 22</td>
+<td>¿Se ha comprobado que el Proyecto agrega la información de previsión de los comprometidos/ejecutados correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 23</td>
-<td class="cuerpo_tabla_izq">¿Ha sido necesaria alguna acción correctiva para que el Proyecto haya agregado la información de previsión de los comprometidos/ejecutados?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 23</td>
+<td>¿Ha sido necesaria alguna acción correctiva para que el Proyecto haya agregado la información de previsión de los comprometidos/ejecutados?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 24</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿se ha comprobado que el Proyecto agrega la información de previsiones de contribución a la transición ecológica correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 24</td>
+<td>En su caso, ¿se ha comprobado que el Proyecto agrega la información de previsiones de contribución a la transición ecológica correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 25</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿ha sido necesaria alguna acción correctiva para que el Proyecto haya agregado la información de previsiones de contribución a la transición ecológica?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 25</td>
+<td>En su caso, ¿ha sido necesaria alguna acción correctiva para que el Proyecto haya agregado la información de previsiones de contribución a la transición ecológica?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 26</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿se ha comprobado que el Proyecto agrega la información de previsiones de contribución a la transición digital correctamente?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 26</td>
+<td>En su caso, ¿se ha comprobado que el Proyecto agrega la información de previsiones de contribución a la transición digital correctamente?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 27</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿ha sido necesaria alguna acción correctiva para que el Proyecto haya agregado la información de previsiones de contribución a la transición digital?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 27</td>
+<td>En su caso, ¿ha sido necesaria alguna acción correctiva para que el Proyecto haya agregado la información de previsiones de contribución a la transición digital?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 28</td>
-<td class="cuerpo_tabla_izq">En su caso, ¿se han revisado los riesgos identificados para las Líneas de acción y para Subproyectos y las propuestas de acciones preventivas y correctoras?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 28</td>
+<td>En su caso, ¿se han revisado los riesgos identificados para las Líneas de acción y para Subproyectos y las propuestas de acciones preventivas y correctoras?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 29</td>
-<td class="cuerpo_tabla_izq">En los casos en los que existe desviación entre la información de previsión del Proyecto y la planificada, ¿se han identificado los riesgos y las acciones preventivas y correctoras y se han registrado en la herramienta informática?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 29</td>
+<td>En los casos en los que existe desviación entre la información de previsión del Proyecto y la planificada, ¿se han identificado los riesgos y las acciones preventivas y correctoras y se han registrado en la herramienta informática?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">En caso de que las eventuales desviaciones tengan impacto en los ejercicios futuros ¿se ha registrado una previsión de presupuesto de ejercicios futuros que lo recoja?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>30</td>
+<td>En caso de que las eventuales desviaciones tengan impacto en los ejercicios futuros ¿se ha registrado una previsión de presupuesto de ejercicios futuros que lo recoja?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 31</td>
-<td class="cuerpo_tabla_izq">¿Se ha generado en la herramienta el Informe de Previsiones y ha sido firmado electrónicamente por el Órgano gestor del Proyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 31</td>
+<td>¿Se ha generado en la herramienta el Informe de Previsiones y ha sido firmado electrónicamente por el Órgano gestor del Proyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> 32</td>
-<td class="cuerpo_tabla_izq">¿Se ha cerrado en la herramienta la previsión de los tres trimestres siguientes del Proyecto?</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> 32</td>
+<td>¿Se ha cerrado en la herramienta la previsión de los tres trimestres siguientes del Proyecto?</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2747,78 +2607,73 @@ Con el fin de asegurar el cumplimiento de la normativa europea en materia de ayu
 
 Referencia para gestores
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col width="8%">
-<col width="8%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1. ¿Estamos ante una ayuda de Estado conforme al art. 107.1 TFUE<sup><sup>(1)</sup></sup>? (Para serlo deben concurrir todos los requisitos siguientes).</p>
-<p class="cuerpo_tabla_izq">a) Que la ayuda sea otorgada por el Estado o por fondos estatales, bajo cualquier forma. Se entienden incluidas todas las Administraciones Públicas.</p>
-<p class="cuerpo_tabla_izq">b) Que la ayuda falsee o amenace con falsear la competencia.</p>
-<p class="cuerpo_tabla_izq">c) Que la ayuda favorezca a determinadas empresas o producciones.</p>
-<p class="cuerpo_tabla_izq">d) Que la ayuda afecte a los intercambios comerciales entre Estados miembro.</p>
+<td>
+<p>1. ¿Estamos ante una ayuda de Estado conforme al art. 107.1 TFUE<sup><sup>(1)</sup></sup>? (Para serlo deben concurrir todos los requisitos siguientes).</p>
+<p>a) Que la ayuda sea otorgada por el Estado o por fondos estatales, bajo cualquier forma. Se entienden incluidas todas las Administraciones Públicas.</p>
+<p>b) Que la ayuda falsee o amenace con falsear la competencia.</p>
+<p>c) Que la ayuda favorezca a determinadas empresas o producciones.</p>
+<p>d) Que la ayuda afecte a los intercambios comerciales entre Estados miembro.</p>
 </td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No.</td>
+<td>Sí</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Continúe únicamente en caso de haber marcado «SÍ».</td>
+<td colspan="3">Continúe únicamente en caso de haber marcado «SÍ».</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Se aplica a la ayuda el régimen de <em>mínimis</em><sup><sup>(2)</sup></sup>?</td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No.</td>
+<td>2. ¿Se aplica a la ayuda el régimen de <em>mínimis</em><sup><sup>(2)</sup></sup>?</td>
+<td>Sí</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">En caso de haber marcado «SÍ» en la pregunta 2, continúe con la pregunta 6.</td>
+<td colspan="3">En caso de haber marcado «SÍ» en la pregunta 2, continúe con la pregunta 6.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. ¿La ayuda de Estado es considerada compatible de conformidad con el Reglamento (UE) n. ° 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior<sup><sup>(3)</sup></sup>, o por otras excepciones legalmente establecidas?</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Sí</p>
+<td>3. ¿La ayuda de Estado es considerada compatible de conformidad con el Reglamento (UE) n. ° 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior<sup><sup>(3)</sup></sup>, o por otras excepciones legalmente establecidas?</td>
+<td>
+<p>Sí</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">No.</p>
+<td>
+<p>No.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">En caso de haber marcado «SÍ» en la pregunta 3, continúe con las preguntas 5 y 6.</td>
+<td colspan="3">En caso de haber marcado «SÍ» en la pregunta 3, continúe con las preguntas 5 y 6.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. ¿La ayuda de Estado ha sido notificada a la Comisión Europea, con carácter previo a su ejecución, conforme al artículo 108.3 TFUE?</td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No.</td>
+<td>4. ¿La ayuda de Estado ha sido notificada a la Comisión Europea, con carácter previo a su ejecución, conforme al artículo 108.3 TFUE?</td>
+<td>Sí</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">En caso de haber marcado «NO» en las preguntas 2 y 3, debe contestar «SÍ» a la pregunta 4.</td>
+<td colspan="3">En caso de haber marcado «NO» en las preguntas 2 y 3, debe contestar «SÍ» a la pregunta 4.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. ¿La ayuda de Estado exenta de notificación previa ha sido comunicada a posteriori a la Comisión Europea en el plazo reglamentario?</td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No.</td>
+<td>5. ¿La ayuda de Estado exenta de notificación previa ha sido comunicada a posteriori a la Comisión Europea en el plazo reglamentario?</td>
+<td>Sí</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">En caso de haber marcado «SÍ» en la pregunta 3, debe contestar «SÍ» a la pregunta 5.</td>
+<td colspan="3">En caso de haber marcado «SÍ» en la pregunta 3, debe contestar «SÍ» a la pregunta 5.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. ¿La ayuda de Estado se ha incluido en la Base de Datos Nacional de Subvenciones?</td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No.</td>
+<td>6. ¿La ayuda de Estado se ha incluido en la Base de Datos Nacional de Subvenciones?</td>
+<td>Sí</td>
+<td>No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">En caso de haber marcado «SÍ» a cualquiera de las preguntas anteriores, debe contestar «SÍ» a la pregunta 6.</td>
+<td colspan="3">En caso de haber marcado «SÍ» a cualquiera de las preguntas anteriores, debe contestar «SÍ» a la pregunta 6.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita"><sup>(1)</sup> La Comisión aclara los elementos clave relativos al concepto de ayuda de Estado en la Comunicación 2016/C 262/01 de la Comisión relativa al concepto de ayuda estatal conforme a lo dispuesto en el artículo 107, apartado 1, del TFUE.</p>
-<p class="cita"><sup>(2)</sup> Reglamento (UE) 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del TFUE a las ayudas de <em>mínimis</em>; Reglamento (UE) 1408/2013, de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del TFUE a las ayudas de <em>mínimis</em> en el sector agrícola; Reglamento (UE) 717/2014 de la Comisión, de 27 de junio de 2014 relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de <em>mínimis</em> en el sector de la pesca y de la acuicultura; Reglamento (UE) 360/2012 de la Comisión, de 25 de abril de 2012 relativo a la aplicación de los artículos 107 y 108 del TFUE a las ayudas de <em>mínimis </em>concedidas a empresas que prestan servicios de interés económico general. En este caso deben cumplirse con todas las obligaciones establecidos en los Reglamentos, prestando especial atención a que no se rebasen los umbrales establecidos para ser consideradas ayudas de <em>mínimis</em>.</p>
-<p class="cita"><sup>(3)</sup> También la ayuda de Estado puede ser considerada compatible de conformidad con el Reglamento (UE) 702/2014 de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del TFUE o con el Reglamento (UE) n °1388/2014 de la Comisión, de 16 de diciembre de 2014, por el que se declaran determinadas categorías de ayudas a empresas dedicadas a la producción, transformación y comercialización de productos de la pesca y de la acuicultura compatibles con el mercado interior en aplicación de los artículos 107 y 108 del TFUE. Si en un régimen de ayudas que se considere compatible, existiera alguna ayuda individual que deba ser notificada por sobrepasar los límites establecidos, deberán cumplirse en relación con la misma, con las obligaciones de notificación.</p>
+<p><sup>(1)</sup> La Comisión aclara los elementos clave relativos al concepto de ayuda de Estado en la Comunicación 2016/C 262/01 de la Comisión relativa al concepto de ayuda estatal conforme a lo dispuesto en el artículo 107, apartado 1, del TFUE.</p>
+<p><sup>(2)</sup> Reglamento (UE) 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del TFUE a las ayudas de <em>mínimis</em>; Reglamento (UE) 1408/2013, de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del TFUE a las ayudas de <em>mínimis</em> en el sector agrícola; Reglamento (UE) 717/2014 de la Comisión, de 27 de junio de 2014 relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de <em>mínimis</em> en el sector de la pesca y de la acuicultura; Reglamento (UE) 360/2012 de la Comisión, de 25 de abril de 2012 relativo a la aplicación de los artículos 107 y 108 del TFUE a las ayudas de <em>mínimis </em>concedidas a empresas que prestan servicios de interés económico general. En este caso deben cumplirse con todas las obligaciones establecidos en los Reglamentos, prestando especial atención a que no se rebasen los umbrales establecidos para ser consideradas ayudas de <em>mínimis</em>.</p>
+<p><sup>(3)</sup> También la ayuda de Estado puede ser considerada compatible de conformidad con el Reglamento (UE) 702/2014 de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del TFUE o con el Reglamento (UE) n °1388/2014 de la Comisión, de 16 de diciembre de 2014, por el que se declaran determinadas categorías de ayudas a empresas dedicadas a la producción, transformación y comercialización de productos de la pesca y de la acuicultura compatibles con el mercado interior en aplicación de los artículos 107 y 108 del TFUE. Si en un régimen de ayudas que se considere compatible, existiera alguna ayuda individual que deba ser notificada por sobrepasar los límites establecidos, deberán cumplirse en relación con la misma, con las obligaciones de notificación.</p>
 </td>
 </tr>
 </tfoot>
@@ -2846,46 +2701,41 @@ i. El apartado 4.6.6 contempla la realización de auditorías específicas sobre
 
 Referencia (Checklist) Sobre doble financiación
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. ¿Está previsto que el proyecto financiado con fondos del Mecanismo de Recuperación y Resiliencia reciba también financiación de otros instrumentos, ya sean nacionales o europeos?</td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No</td>
+<td>1. ¿Está previsto que el proyecto financiado con fondos del Mecanismo de Recuperación y Resiliencia reciba también financiación de otros instrumentos, ya sean nacionales o europeos?</td>
+<td>Sí</td>
+<td>No</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">Continúe únicamente si se ha marcado «SÍ» en la pregunta 1.</td>
+<td colspan="4">Continúe únicamente si se ha marcado «SÍ» en la pregunta 1.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. ¿Existe documentación acreditativa (por ejemplo facturas o certificaciones del órgano gestor) de que la financiación procedente de otros instrumentos no se ha empleado en cubrir los mismos costes financiados con fondos del Mecanismo de Recuperación y Resiliencia?</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Sí</p>
+<td>2. ¿Existe documentación acreditativa (por ejemplo facturas o certificaciones del órgano gestor) de que la financiación procedente de otros instrumentos no se ha empleado en cubrir los mismos costes financiados con fondos del Mecanismo de Recuperación y Resiliencia?</td>
+<td>
+<p>Sí</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">No</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">3. ¿Las actuaciones financiadas con fondos del Mecanismo de Recuperación Resiliencia y las financiadas con otros instrumentos han quedado reflejadas en el correspondiente sistema operativo de gestión (por ejemplo la Base de Datos Nacional de Subvenciones o la Plataforma de Contratación del Sector Público) o en otra base de datos con funciones de seguimiento y control (por ejemplo sistema ARACHNE)?</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Sí</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">No</p>
+<td>
+<p>No</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. ¿El proyecto cuenta con su propio Código Único de Identificación de Proyecto, conforme a lo establecido en la Orden HAC XXX/2021, de XX de junio?.</td>
-<td class="cuerpo_tabla_centro">Sí</td>
-<td class="cuerpo_tabla_centro">No</td>
+<td>3. ¿Las actuaciones financiadas con fondos del Mecanismo de Recuperación Resiliencia y las financiadas con otros instrumentos han quedado reflejadas en el correspondiente sistema operativo de gestión (por ejemplo la Base de Datos Nacional de Subvenciones o la Plataforma de Contratación del Sector Público) o en otra base de datos con funciones de seguimiento y control (por ejemplo sistema ARACHNE)?</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">En caso de responder «NO» en cualquiera de las pregunta 2, 3 y 4, debería saltar la alarma.</td>
+<td>4. ¿El proyecto cuenta con su propio Código Único de Identificación de Proyecto, conforme a lo establecido en la Orden HAC XXX/2021, de XX de junio?.</td>
+<td>Sí</td>
+<td>No</td>
+</tr>
+<tr>
+<td colspan="4">En caso de responder «NO» en cualquiera de las pregunta 2, 3 y 4, debería saltar la alarma.</td>
 </tr>
 </tbody>
 </table>

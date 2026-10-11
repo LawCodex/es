@@ -34,26 +34,6 @@ DISPONGO:
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1 del Real Decreto 369/2026, de 6 de mayo. [Ref. BOE-A-2026-9959](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9959), entra en vigor el 1 de julio de 2026, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 1**.
-
-> 1\. El importe obtenido por la recaudación del Impuesto sobre actividades de juego en relación con las apuestas mutuas deportivas a que se refieren el artículo 48.11 y la disposición adicional tercera de la Ley 13/2011, de 27 de mayo, de regulación del juego, será distribuido por el Consejo Superior de Deportes de la siguiente forma:
-
-> a) El 49,95% para las Diputaciones Provinciales, a través de las respectivas Comunidades Autónomas.
-
-> b) El 45,50% para la Liga Nacional de Fútbol Profesional.
-
-> c) El 4,55% para la Real Federación Española de Fútbol con destino al fútbol no profesional.
-
-> 2\. El importe que se consignará para cada uno de los distintos beneficiarios en los Presupuestos Generales del Estado, y que podrá ser destinado a financiar tanto operaciones de naturaleza corriente como actuaciones de inversión, será el resultado de aplicar los anteriores porcentajes a la previsión de recaudación por el Impuesto sobre actividades del juego en relación con las apuestas mutuas deportivas de fútbol.
-
-> Las cantidades determinadas conforme a lo previsto en el apartado 1 tendrán la consideración de entregas a cuenta de la recaudación que finalmente se obtenga en cada ejercicio presupuestario por el citado impuesto y se librarán conforme a la normativa vigente. Excepcionalmente, las cantidades que correspondan a la Real Federación Española de Fútbol serán libradas en un pago único.
-
-> 3\. Finalizado el correspondiente ejercicio presupuestario, se procederá a realizar la liquidación definitiva de las entregas a cuenta en la forma prevista en el apartado tres de la disposición adicional tercera de la Ley 13/2011, de 27 de mayo, de regulación del juego."
-
 > Se deroga, con efectos de 1 de julio de 2026, por la disposición derogatoria única.1 del Real Decreto 369/2026, de 6 de mayo. [Ref. BOE-A-2026-9959](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9959)
 
 > Téngase en cuenta que las referencias que en la normativa vigente se hagan a este artículo, se entenderán realizadas al artículo 2 del citado real decreto, según establece su disposición adicional 2.

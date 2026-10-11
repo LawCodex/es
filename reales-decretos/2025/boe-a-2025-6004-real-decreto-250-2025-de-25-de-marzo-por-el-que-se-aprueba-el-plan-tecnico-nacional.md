@@ -324,42 +324,36 @@ Uno. El apartado 4.4.2 del anexo I del Reglamento queda redactado de la manera s
 
 > «4.4.2 Respuesta amplitud/frecuencia en canal.
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2">Respuesta amplitud/frecuencia en canal para las señales</th>
-> <th class="cabeza_tabla" rowspan="2">Unidad</th>
-> <th class="cabeza_tabla" colspan="2">Banda de frecuencia</th>
+> <th rowspan="2">Respuesta amplitud/frecuencia en canal para las señales</th>
+> <th rowspan="2">Unidad</th>
+> <th colspan="2">Banda de frecuencia</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">47 MHz -694 MHz</th>
-> <th class="cabeza_tabla">950 MHz -2.150 MHz</th>
+> <th>47 MHz -694 MHz</th>
+> <th>950 MHz -2.150 MHz</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">FM-Radio, AM-TV*, 64QAM</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro">±3 dB en toda la banda; ± 0,5 dB en un ancho de banda de 1 MHz</td>
-> <td class="cuerpo_tabla_centro">–</td>
+> <td>FM-Radio, AM-TV*, 64QAM</td>
+> <td>dB</td>
+> <td>±3 dB en toda la banda; ± 0,5 dB en un ancho de banda de 1 MHz</td>
+> <td>–</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">FM-TV, QPSK-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro">≤ 6</td>
-> <td class="cuerpo_tabla_centro">± 4 dB en toda la banda; ± 1,5 dB en un ancho de banda de 1 MHz.</td>
+> <td>FM-TV, QPSK-TV</td>
+> <td>dB</td>
+> <td>≤ 6</td>
+> <td>± 4 dB en toda la banda; ± 1,5 dB en un ancho de banda de 1 MHz.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">COFDM-DAB, COFDM-TV, COFDM 256QAM-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro">±3 dB en toda la banda</td>
-> <td class="cuerpo_tabla_centro">–»</td>
+> <td>COFDM-DAB, COFDM-TV, COFDM 256QAM-TV</td>
+> <td>dB</td>
+> <td>±3 dB en toda la banda</td>
+> <td>–»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -370,203 +364,196 @@ Dos. El apartado 4.5 del anexo I del Reglamento queda redactado de la manera sig
 
 > En cualquier caso, las señales distribuidas a cada toma de usuario deberán reunir las siguientes características:
 
-> <table class="tabla" data-omitir-repetir-tfoot="true">
-> <colgroup>
-> <col width="21%">
-> <col width="21%">
-> <col width="10%">
-> <col width="24%">
-> <col width="24%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="2" rowspan="2">Parámetro</th>
-> <th class="cabeza_tabla" rowspan="2">Unidad</th>
-> <th class="cabeza_tabla" colspan="2">Banda de frecuencia</th>
+> <th colspan="2" rowspan="2">Parámetro</th>
+> <th rowspan="2">Unidad</th>
+> <th colspan="2">Banda de frecuencia</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">47 MHz – 694 MHz</th>
-> <th class="cabeza_tabla">950 MHz - 2.150 MHz</th>
+> <th>47 MHz – 694 MHz</th>
+> <th>950 MHz - 2.150 MHz</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="5">Nivel de señal</td>
+> <td colspan="5">Nivel de señal</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Nivel AM-TV*</td>
-> <td class="cuerpo_tabla_centro">dBμV</td>
-> <td class="cuerpo_tabla_centro" colspan="2">57-80</td>
+> <td colspan="2">Nivel AM-TV*</td>
+> <td>dBμV</td>
+> <td colspan="2">57-80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Nivel 64QAM-TV</td>
-> <td class="cuerpo_tabla_centro">dBμV</td>
-> <td class="cuerpo_tabla_centro" colspan="2">45-70 (1)</td>
+> <td colspan="2">Nivel 64QAM-TV</td>
+> <td>dBμV</td>
+> <td colspan="2">45-70 (1)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Nivel QPSK-TV</td>
-> <td class="cuerpo_tabla_centro">dBμV</td>
-> <td class="cuerpo_tabla_centro" colspan="2">47-77 (1)</td>
+> <td colspan="2">Nivel QPSK-TV</td>
+> <td>dBμV</td>
+> <td colspan="2">47-77 (1)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Nivel FM Radio</td>
-> <td class="cuerpo_tabla_centro">dBμV</td>
-> <td class="cuerpo_tabla_centro" colspan="2">40-70</td>
+> <td colspan="2">Nivel FM Radio</td>
+> <td>dBμV</td>
+> <td colspan="2">40-70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Nivel DAB Radio</td>
-> <td class="cuerpo_tabla_centro">dBμV</td>
-> <td class="cuerpo_tabla_centro" colspan="2">30-70 (1)</td>
+> <td colspan="2">Nivel DAB Radio</td>
+> <td>dBμV</td>
+> <td colspan="2">30-70 (1)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Nivel COFDM-TV</td>
-> <td class="cuerpo_tabla_centro">dBμV</td>
-> <td class="cuerpo_tabla_centro" colspan="2">47-70 (1)</td>
+> <td colspan="2">Nivel COFDM-TV</td>
+> <td>dBμV</td>
+> <td colspan="2">47-70 (1)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="5">Relación portadora/ruido aleatorio</td>
+> <td colspan="5">Relación portadora/ruido aleatorio</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">C/N FM-Radio</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 38</td>
+> <td colspan="2">C/N FM-Radio</td>
+> <td>dB</td>
+> <td colspan="2">≥ 38</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">C/N AM-TV*</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 43</td>
+> <td colspan="2">C/N AM-TV*</td>
+> <td>dB</td>
+> <td colspan="2">≥ 43</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">C/N QPSK-TV</td>
-> <td class="cuerpo_tabla_izq">QPSK DVB-S</td>
-> <td class="cuerpo_tabla_centro" rowspan="2">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">&gt; 11</td>
+> <td rowspan="2">C/N QPSK-TV</td>
+> <td>QPSK DVB-S</td>
+> <td rowspan="2">dB</td>
+> <td colspan="2">&gt; 11</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">QPSK DVB-S2</td>
-> <td class="cuerpo_tabla_centro" colspan="2">&gt; 12</td>
+> <td>QPSK DVB-S2</td>
+> <td colspan="2">&gt; 12</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">C/N 8PSK DVB-S2</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">&gt; 14</td>
+> <td colspan="2">C/N 8PSK DVB-S2</td>
+> <td>dB</td>
+> <td colspan="2">&gt; 14</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">C/N 64QAM-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 28</td>
+> <td colspan="2">C/N 64QAM-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 28</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">C/N COFDM-DAB</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 18</td>
+> <td colspan="2">C/N COFDM-DAB</td>
+> <td>dB</td>
+> <td colspan="2">≥ 18</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">C/N COFDM TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 25</td>
+> <td colspan="2">C/N COFDM TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 25</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="5">Ganancia y fase diferenciales</td>
+> <td colspan="5">Ganancia y fase diferenciales</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Ganancia</td>
-> <td class="cuerpo_tabla_centro">%</td>
-> <td class="cuerpo_tabla_centro" colspan="2">14</td>
+> <td colspan="2">Ganancia</td>
+> <td>%</td>
+> <td colspan="2">14</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Fase</td>
-> <td class="cuerpo_tabla_centro">°</td>
-> <td class="cuerpo_tabla_centro" colspan="2">12</td>
+> <td colspan="2">Fase</td>
+> <td>°</td>
+> <td colspan="2">12</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="5">Relación portadora/interferencias a frecuencia única</td>
+> <td colspan="5">Relación portadora/interferencias a frecuencia única</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">AM-TV*</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 54</td>
+> <td colspan="2">AM-TV*</td>
+> <td>dB</td>
+> <td colspan="2">≥ 54</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">64 QAM-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 35</td>
+> <td colspan="2">64 QAM-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">QPSK-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 18</td>
+> <td colspan="2">QPSK-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 18</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">COFDM-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 10 (3)</td>
+> <td colspan="2">COFDM-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 10 (3)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="5">Relación de intermodulación (4)</td>
+> <td colspan="5">Relación de intermodulación (4)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">AM-TV*</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 54</td>
+> <td colspan="2">AM-TV*</td>
+> <td>dB</td>
+> <td colspan="2">≥ 54</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">64 QAM-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 35</td>
+> <td colspan="2">64 QAM-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">QPSK-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 18</td>
+> <td colspan="2">QPSK-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 18</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">COFDM-TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 30 (3)</td>
+> <td colspan="2">COFDM-TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 30 (3)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="5">Parámetros globales de calidad de la instalación</td>
+> <td colspan="5">Parámetros globales de calidad de la instalación</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">BER QAM</td>
-> <td class="cuerpo_tabla_centro">(5)</td>
-> <td class="cuerpo_tabla_centro" colspan="2">9 x 10<sup>-5</sup></td>
+> <td colspan="2">BER QAM</td>
+> <td>(5)</td>
+> <td colspan="2">9 x 10<sup>-5</sup></td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">VBER QPSK</td>
-> <td class="cuerpo_tabla_centro">(6)</td>
-> <td class="cuerpo_tabla_centro" colspan="2">9 x 10<sup>-5</sup></td>
+> <td colspan="2">VBER QPSK</td>
+> <td>(6)</td>
+> <td colspan="2">9 x 10<sup>-5</sup></td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">BER COFDM-TV</td>
-> <td class="cuerpo_tabla_centro">(5)</td>
-> <td class="cuerpo_tabla_centro" colspan="2">9 x 10<sup>-5</sup></td>
+> <td colspan="2">BER COFDM-TV</td>
+> <td>(5)</td>
+> <td colspan="2">9 x 10<sup>-5</sup></td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">MER COFDM TV</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 21 en toma (2)</td>
+> <td colspan="2">MER COFDM TV</td>
+> <td>dB</td>
+> <td colspan="2">≥ 21 en toma (2)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">MER COFDM-256QAM TV (DVB-T2)</td>
-> <td class="cuerpo_tabla_centro">dB</td>
-> <td class="cuerpo_tabla_centro" colspan="2">≥ 22 en toma (2)</td>
+> <td colspan="2">MER COFDM-256QAM TV (DVB-T2)</td>
+> <td>dB</td>
+> <td colspan="2">≥ 22 en toma (2)</td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="5">
-> <p class="cita">(*) Los niveles de calidad para señales de AM-TV se dan a los solos efectos de tenerse en cuenta para el caso de que se desee distribuir con esta modulación alguna señal de distribución no obligatoria en la ICT.</p>
-> <p class="cita">BER: Mide tasa de errores después de las dos protecciones contra errores (Viterbi y Reed Solomon) si las hay.</p>
-> <p class="cita">VBER: Mide tasa de errores después de Viterbi (si lo hay) y antes de Reed Solomon.</p>
-> <p class="cita">(1) Para las modulaciones digitales los niveles se refieren al valor de la potencia en todo el ancho de banda del canal.</p>
-> <p class="cita">(2): Para MER COFDM-64QAM TVE el valor aconsejable en toma es 22 dB. Por otra parte, si se tiene en cuenta la influencia de la instalación receptora en su conjunto, el valor mínimo para el MER en antena es 23 dB.</p>
-> <p class="cita">Para MER COFDM-256QAM TV el valor aconsejable en toma es de 23 dB y en antena de 24dB.</p>
-> <p class="cita">(3) Para modulaciones 64 QAM 2/3.</p>
-> <p class="cita">(4) El parámetro especificado se refiere a la intermodulación de tercer orden, producida por batido entre las componentes de dos frecuencias cualesquiera de las presentes en la red.</p>
-> <p class="cita">(5) Medido a la entrada del decodificador de Reed-Solomon.</p>
-> <p class="cita">(6) Es el BER medido después de la descodificación convolucional (Viterbi).»</p>
+> <p>(*) Los niveles de calidad para señales de AM-TV se dan a los solos efectos de tenerse en cuenta para el caso de que se desee distribuir con esta modulación alguna señal de distribución no obligatoria en la ICT.</p>
+> <p>BER: Mide tasa de errores después de las dos protecciones contra errores (Viterbi y Reed Solomon) si las hay.</p>
+> <p>VBER: Mide tasa de errores después de Viterbi (si lo hay) y antes de Reed Solomon.</p>
+> <p>(1) Para las modulaciones digitales los niveles se refieren al valor de la potencia en todo el ancho de banda del canal.</p>
+> <p>(2): Para MER COFDM-64QAM TVE el valor aconsejable en toma es 22 dB. Por otra parte, si se tiene en cuenta la influencia de la instalación receptora en su conjunto, el valor mínimo para el MER en antena es 23 dB.</p>
+> <p>Para MER COFDM-256QAM TV el valor aconsejable en toma es de 23 dB y en antena de 24dB.</p>
+> <p>(3) Para modulaciones 64 QAM 2/3.</p>
+> <p>(4) El parámetro especificado se refiere a la intermodulación de tercer orden, producida por batido entre las componentes de dos frecuencias cualesquiera de las presentes en la red.</p>
+> <p>(5) Medido a la entrada del decodificador de Reed-Solomon.</p>
+> <p>(6) Es el BER medido después de la descodificación convolucional (Viterbi).»</p>
 > </td>
 > </tr>
 > </tfoot>

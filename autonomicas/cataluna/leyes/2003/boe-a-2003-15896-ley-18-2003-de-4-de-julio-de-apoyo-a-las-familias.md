@@ -152,8 +152,6 @@ g) Ayudas para la adquisición, rehabilitación y promoción de viviendas.
 
 h) Ayudas para arrendatarios.
 
-> Téngase en cuenta que se deja sin efecto la prestación económica de los apartados 1.a) y b), para el ejercicio 2020, según establece la disposición adicional 21 de la Ley 4/2020, de 29 de abril. [Ref. BOE-A-2020-5568](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5568) y que esta modificación del apartado a) y derogación del b) ,establecida por el art. 162.1.a) y b) de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569) tienen efectos desde el 1 de septiembre de 2020.
-
 2\. Las prestaciones económicas establecidas por el apartado 1 son compatibles con la percepción de las prestaciones análogas que establezcan la Administración del Estado o las administraciones locales de Cataluña.
 
 > Se modifica , con efectos desde el 1 de septiembre de 2020, el apartado 1.a) y se deroga el 1.b) por el art. 162.1.a) y b) de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
@@ -180,8 +178,6 @@ h) Ayudas para arrendatarios.
 
 3\. Son beneficiarios de la prestación económica establecida por el presente artículo el padre y la madre o la persona o personas que tienen al niño a su cargo.
 
-> Téngase en cuenta que esta redacción establecida por el art. 162.1.c) de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569) tiene efectos desde el 1 de septiembre de 2020 y que su redacción anterior se deja sin efecto, para el ejercicio 2020, según establece la disposición adicional 21 de la Ley 4/2020, de 29 de abril. [Ref. BOE-A-2020-5568](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5568)
-
 > Se modifica , con efectos desde el 1 de septiembre de 2020, por el art. 162.1.c) de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
 
 > Se deja sin efecto la prestación económica, para el ejercicio 2020, según establece la disposición adicional 21 de la Ley 4/2020, de 29 de abril. [Ref. BOE-A-2020-5568](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5568)
@@ -201,8 +197,6 @@ h) Ayudas para arrendatarios.
 #### Artículo 11. Prestación económica de carácter universal por parto o adopción múltiple.
 
 **(Derogada).**
-
-> Téngase en cuenta que esta derogación establecida por el art. 162.1.d) de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569) tiene efectos desde el 1 de septiembre de 2020 y que su redacción anterior se deja sin efecto, para el ejercicio 2020, según establece la disposición adicional 21 de la Ley 4/2020, de 29 de abril. [Ref. BOE-A-2020-5568](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5568)
 
 > Se deroga , con efectos desde el 1 de septiembre de 2020,por el art. 162.1.d) de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
 
@@ -653,8 +647,6 @@ A los efectos de lo dispuesto por la Ley 6/2002 se igualan, en lo concerniente a
 1\. Los expedientes para la concesión de la prestación económica sometida al nivel de ingresos de la unidad familiar para familias en que ha tenido lugar un nacimiento, una adopción, una tutela o un acogimiento que se encuentren en tramitación el 1 de septiembre de 2020 quedan sometidos al régimen jurídico establecido por la convocatoria respectiva y por la Orden TSF/251/2016, de 19 de septiembre. Sin embargo, el pago de las ayudas concedidas irá a cargo de la reserva presupuestaria destinada a la prestación en virtud de la nueva redacción del artículo 10.
 
 2\. Los expedientes para la concesión de la prestación económica sometida al nivel de ingresos de la unidad familiar para familias en que ha tenido lugar un nacimiento, una adopción, una tutela o un acogimiento que se tramiten a partir del 1 de septiembre de 2020, en tanto no se desarrolle por reglamento la redacción del artículo 10 que entrará en vigor en dicha fecha, quedan sometidos a los requisitos, procedimiento de tramitación, obligaciones, determinación y límite de ingresos, cuantía y pago que regulan la Orden TSF/251/2016, de 19 de septiembre, y la Resolución TSF/2314/2019, de 4 de septiembre.
-
-> Téngase en cuenta que esta disposición añadida por el art. 162.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569) tiene efectos desde el 1 de septiembre de 2020.
 
 > Se añade , con efectos desde el 1 de septiembre de 2020,por el art. 162.2 de la Ley 5/2020, de 29 de abril. [Ref. BOE-A-2020-5569](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5569)
 

@@ -4317,302 +4317,284 @@ En la tabla siguiente se indican los criterios para definir la clase de protecci
 
 Tabla 1. Criterios para aplicación de las clases de protección a los pasos a nivel
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_1">
-<col class="row_column_9">
-<col class="row_column_13">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cabeza_tabla">Uso específico</p>
+<p>Uso específico</p>
 </td>
 <td>
-<p class="cabeza_tabla">Velocidad máxima del tren en el paso a nivel (km/h)</p>
+<p>Velocidad máxima del tren en el paso a nivel (km/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ubicación</p>
+<p>Ubicación</p>
 </td>
 <td>
-<p class="cabeza_tabla">A x T</p>
+<p>A x T</p>
 </td>
 <td>
-<p class="cabeza_tabla">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cabeza_tabla">Visibilidad real (D<sub>rv</sub>)</p>
+<p>Visibilidad real (D<sub>rv</sub>)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase de protección mínima(<sup>4</sup>) (<sup>5</sup>)</p>
+<p>Clase de protección mínima(<sup>4</sup>) (<sup>5</sup>)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_15">
+<tr>
 <td rowspan="11">
-<p class="cuerpo_tabla_centro">Vehículos</p>
+<p>Vehículos</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≤ 40</p>
+<p>≤ 40</p>
 </td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">≥ D<sub>tv.</sub></p>
-<p class="cuerpo_tabla_centro">(Suficiente)</p>
+<p>≥ D<sub>tv.</sub></p>
+<p>(Suficiente)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P</p>
+<p>P</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; D<sub>tv.</sub></p>
-<p class="cuerpo_tabla_centro">(Insuficiente)</p>
+<p>&lt; D<sub>tv.</sub></p>
+<p>(Insuficiente)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A2 (<sup>1</sup>)</p>
+<p>A2 (<sup>1</sup>)</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_centro">40 &lt; V<sub>m</sub> &lt; 160</p>
+<p>40 &lt; V<sub>m</sub> &lt; 160</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">Plena Vía</p>
+<p>Plena Vía</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&lt; 1000</p>
+<p>&lt; 1000</p>
 </td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">≥ D<sub>tv.</sub></p>
-<p class="cuerpo_tabla_centro">(Suficiente)</p>
+<p>≥ D<sub>tv.</sub></p>
+<p>(Suficiente)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P</p>
+<p>P</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; D<sub>tv.</sub></p>
-<p class="cuerpo_tabla_centro">(Insuficiente)</p>
+<p>&lt; D<sub>tv.</sub></p>
+<p>(Insuficiente)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">A2 (<sup>1</sup>)</p>
+<p>A2 (<sup>1</sup>)</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">1000 ≤ AxT &lt; 1500</p>
+<p>1000 ≤ AxT &lt; 1500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 100</p>
+<p>&lt; 100</p>
 </td>
 <td></td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 100</p>
+<p>≥ 100</p>
 </td>
 <td></td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">A3</p>
+<p>A3</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 1500</p>
+<p>≥ 1500</p>
 </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_centro">Estación</p>
-</td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 160</p>
+<p>Estación</p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>≥ 160</p>
 </td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">Cruces a distinto nivel</p>
+<p>Cruces a distinto nivel</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Pasos a nivel provisionales</p>
+<p>Pasos a nivel provisionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A1</p>
+<p>A1</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Pasos a nivel que requieran protección completa del lado del usuario, así como detección de obstáculos durante la activación de la protección.</p>
+<p>Pasos a nivel que requieran protección completa del lado del usuario, así como detección de obstáculos durante la activación de la protección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A4</p>
+<p>A4</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_17">
-<col class="row_column_9">
-<col class="row_column_17">
-<col class="row_column_11">
-<col class="row_column_1">
-<col class="row_column_13">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cabeza_tabla">Uso específico</p>
+<p>Uso específico</p>
 </td>
 <td>
-<p class="cabeza_tabla">Velocidad máxima del tren en el paso a nivel (km/h)</p>
+<p>Velocidad máxima del tren en el paso a nivel (km/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ubicación</p>
+<p>Ubicación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Visibilidad real (D<sub>rp</sub>)</p>
+<p>Visibilidad real (D<sub>rp</sub>)</p>
 </td>
 <td>
-<p class="cabeza_tabla">P x T</p>
+<p>P x T</p>
 </td>
 <td>
-<p class="cabeza_tabla">P</p>
+<p>P</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase de protección mínima(<sup>4</sup>) (<sup>5</sup>)</p>
+<p>Clase de protección mínima(<sup>4</sup>) (<sup>5</sup>)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_15">
+<tr>
 <td rowspan="9">
-<p class="cuerpo_tabla_centro">Peatones, con o sin ganado (<sup>2</sup>)</p>
+<p>Peatones, con o sin ganado (<sup>2</sup>)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≤ 40</p>
+<p>≤ 40</p>
 </td>
 <td rowspan="2"></td>
 <td>
-<p class="cuerpo_tabla_centro">≥ D<sub>tp.</sub></p>
-<p class="cuerpo_tabla_centro">(Suficiente)</p>
+<p>≥ D<sub>tp.</sub></p>
+<p>(Suficiente)</p>
 </td>
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">P</p>
+<p>P</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">&lt; D<sub>tp.</sub></p>
-<p class="cuerpo_tabla_centro">(Insuficiente)</p>
+<p>&lt; D<sub>tp.</sub></p>
+<p>(Insuficiente)</p>
 </td>
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">A2</p>
+<p>A2</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_centro">40 &lt; V<sub>m</sub> &lt; 160</p>
+<p>40 &lt; V<sub>m</sub> &lt; 160</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">Plena Vía</p>
+<p>Plena Vía</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ D<sub>tp.</sub></p>
-<p class="cuerpo_tabla_centro">(Suficiente)</p>
+<p>≥ D<sub>tp.</sub></p>
+<p>(Suficiente)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&lt; 1000</p>
+<p>&lt; 1000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 100</p>
+<p>&lt; 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P</p>
+<p>P</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 100</p>
+<p>≥ 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P (<sup>3</sup>)</p>
+<p>P (<sup>3</sup>)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≥ 1000</p>
+<p>≥ 1000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 100</p>
+<p>&lt; 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P</p>
+<p>P</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 100</p>
+<p>≥ 100</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">A2</p>
+<p>A2</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">&lt; D<sub>tp.</sub></p>
-<p class="cuerpo_tabla_centro">(Insuficiente)</p>
+<p>&lt; D<sub>tp.</sub></p>
+<p>(Insuficiente)</p>
 </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_centro">Estación</p>
-</td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 160</p>
+<p>Estación</p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>≥ 160</p>
 </td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">Cruces a distinto nivel</p>
+<p>Cruces a distinto nivel</p>
 </td>
 </tr>
 </tbody>
@@ -4813,119 +4795,112 @@ En la tabla siguiente se indican los criterios para definir la clase de protecci
 
 Tabla 1. Criterios para aplicación de las clases de protección mínima a los cruces entre andenes nuevos y existentes
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_34">
-<col class="row_column_35">
-<col class="row_column_36">
-<col class="row_column_37">
-<col class="row_column_38">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_39">
+<tr>
 <td>
-<p class="cabeza_tabla">Cruce Nuevo o Existente</p>
+<p>Cruce Nuevo o Existente</p>
 </td>
 <td>
-<p class="cabeza_tabla">Velocidad máxima del tren en el cruce (km/h)</p>
+<p>Velocidad máxima del tren en el cruce (km/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Visibilidad real (D<sub>rp</sub>)</p>
+<p>Visibilidad real (D<sub>rp</sub>)</p>
 </td>
 <td>
-<p class="cabeza_tabla">T’ (<sup>1</sup>)</p>
+<p>T’ (<sup>1</sup>)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase de protección mínima</p>
+<p>Clase de protección mínima</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Nuevo</p>
+<p>Nuevo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 40</p>
+<p>≤ 40</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥ D<sub>tp.</sub></p>
-<p class="cuerpo_tabla_centro">(Visibilidad suficiente)</p>
+<p>≥ D<sub>tp.</sub></p>
+<p>(Visibilidad suficiente)</p>
 </td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">Clase 2</p>
+<p>Clase 2</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Existente</p>
+<p>Existente</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&lt; 160</p>
+<p>&lt; 160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 8</p>
+<p>&lt; 8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Clase 1</p>
+<p>Clase 1</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 8</p>
+<p>≥ 8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Clase 2</p>
+<p>Clase 2</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Nuevo</p>
+<p>Nuevo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 40</p>
+<p>≤ 40</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&lt; D<sub>tp</sub>.</p>
-<p class="cuerpo_tabla_centro">(Visibilidad insuficiente)</p>
+<p>&lt; D<sub>tp</sub>.</p>
+<p>(Visibilidad insuficiente)</p>
 </td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">Cruce a distinto nivel</p>
+<p>Cruce a distinto nivel</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Existente</p>
+<p>Existente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&lt; 160</p>
+<p>&lt; 160</p>
 </td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">Clase 2</p>
+<p>Clase 2</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Nuevo</p>
+<p>Nuevo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt; 40</p>
+<p>&gt; 40</p>
 </td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Cruce a distinto nivel</p>
+<p>Cruce a distinto nivel</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Existente</p>
+<p>Existente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 160</p>
+<p>≥ 160</p>
 </td>
 </tr>
 </tbody>

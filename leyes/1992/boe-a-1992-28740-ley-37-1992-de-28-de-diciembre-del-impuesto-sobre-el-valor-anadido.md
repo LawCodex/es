@@ -566,8 +566,6 @@ a’) Medios de transporte nuevos, definidos en el artículo 13.2.º de esta Ley
 
 b’) Bienes objeto de instalación o montaje a que se refiere el artículo 68.Dos.2.º de esta Ley.
 
-> Téngase en cuenta que el apartado Tres, añadido por el art. 10.1 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según establece su disposición final octava.
-
 > Se añade el apartado tres, con efectos de 1 de julio de 2021, por el art. 10.1 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade el apartado 2.8º por el art. 1.3 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
@@ -593,8 +591,6 @@ a) La venta a distancia de bienes importados de países o territorios terceros e
 b) La entrega de bienes en el interior de la Comunidad por parte de un empresario o profesional no establecido en la Comunidad a una persona que no tenga la condición de empresario o profesional actuando como tal, se considerará en ambos supuestos que el empresario o profesional titular de la interfaz digital ha recibido y entregado por sí mismo los correspondientes bienes y que la expedición o el transporte de los bienes se encuentra vinculado a la entrega por él realizada.
 
 A efectos de lo previsto en esta ley, la determinación del valor intrínseco de los bienes se efectuará en los términos previstos en la legislación aduanera.
-
-> Téngase en cuenta que este artículo, añadido por el art. 10.2 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según establece su disposición final octava.
 
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.2 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -688,12 +684,6 @@ g) La utilización temporal de dichos bienes, por un período que no exceda de v
 
 h) Las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración, que se considerarían efectuadas en otro Estado miembro de la Comunidad con arreglo a los criterios establecidos en el artículo 68.Seis de esta Ley.
 
-> Téngase en cuenta que esta actualización de la letra h), establecida por el art. 10.3 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "h) Las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración, que se considerarían efectuadas en otro Estado miembro de la Comunidad con arreglo a los criterios establecidos en el apartado siete del artículo 68 de esta Ley."
-
 Las exclusiones a que se refieren las letras a) a h) anteriores no tendrán efecto desde el momento en que dejen de cumplirse cualesquiera de los requisitos que las condicionan
 
 > Se modifica la letra h) del apartado 3º, con efectos de 1 de julio de 2021, por el art. 10.3 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
@@ -763,8 +753,6 @@ c´) Las circunstancias previstas en las letras a´) y b´) hayan sido incluidas
 Cuatro. Se entenderá que se ha producido una transferencia de bienes a la que se refiere el artículo 9.3.º de esta Ley, en el marco de un acuerdo de ventas de bienes en consigna y cumpliéndose las condiciones previstas en el apartado uno anterior, al día siguiente de la expiración del plazo de 12 meses desde la llegada de los bienes al Estado miembro de destino sin que el empresario o profesional mencionado en la letra c) del apartado uno o en la letra a’) del segundo párrafo del apartado tres del artículo 9 bis haya adquirido el poder de disposición de los bienes.
 
 Cinco. Los empresarios o profesionales que suscriban un acuerdo de ventas de bienes en consigna y quienes sustituyan a aquel a quien estaban inicialmente destinados los bienes deberán llevar un libro registro de estas operaciones en las condiciones que se establezcan reglamentariamente.
-
-> Téngase en cuenta que este artículo, añadido por el art. 214.3 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1651), entra en vigor el 1 de marzo de 2020, según establece la disposición final 16.3 del citado Real Decreto-ley.
 
 > Se añade por el art. 214.3 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1651)
 
@@ -856,14 +844,6 @@ f) Las adquisiciones intracomunitarias de bienes cuya entrega en el Estado de or
 
 g) Las adquisiciones de bienes que se correspondan con las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración que se entiendan realizadas en el territorio de aplicación del impuesto de acuerdo con el artículo 68.Seis de esta Ley.
 
-> Téngase en cuenta que esta actualización de las letras d) y g) del apartado 1º, establecidas por el art. 10.4 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entran en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "d) Las adquisiciones de bienes que se correspondan con las ventas a distancia comprendidas en el artículo 68, apartado tres, de esta Ley.
-
-> g) Las adquisiciones de bienes que se correspondan con las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración que se entiendan realizadas en el territorio de aplicación del impuesto de acuerdo con el apartado siete del artículo 68."
-
 2.ª Las adquisiciones intracomunitarias de medios de transporte nuevos, efectuadas a título oneroso por las personas a las que sea de aplicación la no sujeción prevista en el artículo 14, apartados uno y dos, de esta Ley, así como las realizadas por cualquier otra persona que no tenga la condición de empresario o profesional, cualquiera que sea la condición del transmitente.
 
 A estos efectos, se considerarán medios de transporte:
@@ -906,18 +886,6 @@ En la aplicación del límite a que se refiere este apartado debe considerarse q
 
 Para el cálculo del límite indicado en este apartado se computará el importe de la contraprestación de las entregas de bienes a que se refiere el artículo 8.Tres.1.º de esta Ley, cuando, por aplicación de las reglas comprendidas en el artículo 68 de esta Ley, se entiendan realizadas fuera del territorio de aplicación del impuesto.
 
-> Téngase en cuenta que esta actualización del apartado Dos, establecida por el art. 10.5 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Dos. La no sujeción establecida en el apartado anterior sólo se aplicará respecto de las adquisiciones intracomunitarias de bienes, efectuadas por las personas indicadas, cuando el importe total de las adquisiciones de bienes procedentes de los demás Estados miembros, excluido el Impuesto devengado en dichos Estados, no haya alcanzado en el año natural precedente 10.000 euros.
-
-> La no sujeción se aplicará en el año natural en curso hasta alcanzar el citado importe.
-
-> En la aplicación del límite a que se refiere este apartado debe considerarse que el importe de la contraprestación relativa a los bienes adquiridos no podrá fraccionarse a estos efectos.
-
-> Para el cálculo del límite indicado en este apartado se computará el importe de la contraprestación de las entregas de bienes a que se refiere el artículo 68, apartado tres, de esta Ley cuando, por aplicación de las reglas comprendidas en dicho precepto, se entiendan realizadas fuera del territorio de aplicación del impuesto."
-
 Tres. Lo dispuesto en el presente artículo no será de aplicación respecto de las adquisiciones de medios de transporte nuevos y de los bienes que constituyen el objeto de los Impuestos Especiales, cuyo importe no se computará en el límite indicado en el apartado anterior.
 
 Cuatro. No obstante lo establecido en el apartado uno, las operaciones descritas en él quedarán sujetas al impuesto cuando las personas que las realicen opten por la sujeción al mismo, en la forma que se determine reglamentariamente.
@@ -937,12 +905,6 @@ a) La obtención del poder de disposición sobre bienes muebles corporales exped
 b) La obtención del poder de disposición sobre bienes muebles corporales en el marco de un acuerdo de ventas de bienes en consigna en los términos previstos en el artículo 9 bis, apartado dos, de esta Ley.
 
 Dos. Cuando los bienes adquiridos por una persona jurídica que no actúe como empresario o profesional sean transportados desde un territorio tercero e importados por dicha persona en otro Estado miembro, dichos bienes se considerarán expedidos o transportados a partir del citado Estado miembro de importación.
-
-> Téngase en cuenta que esta última actualización del apartado uno, establecida por el art. 214.4 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1651), entra en vigor el 1 de marzo de 2020, según determina la disposición final 16.3 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Uno. Se entenderá por adquisición intracomunitaria de bienes la obtención del poder de disposición sobre bienes muebles corporales expedidos o transportados al territorio de aplicación del impuesto, con destino al adquirente, desde otro Estado miembro, por el transmitente, el propio adquirente o un tercero en nombre y por cuenta de cualquiera de los anteriores."
 
 > Se modifica el apartado 1 por el art. 214.4 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1651)
 
@@ -1460,8 +1422,6 @@ Las exenciones correspondientes a los servicios prestados por entidades o establ
 
 Estarán exentas del impuesto, en el supuesto previsto en el artículo 8 bis.b) de esta Ley, las entregas de bienes efectuadas a favor del empresario o profesional que facilite la entrega a través de la interfaz digital, cuando dichas entregas se entiendan realizadas en el territorio de aplicación del impuesto.
 
-> Téngase en cuenta que este artículo, añadido por el art. 10.6 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según establece su disposición final octava.
-
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.6 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ##### Artículo 21. Exenciones en las exportaciones de bienes.
@@ -1796,20 +1756,6 @@ Tres. Las entregas de bienes comprendidas en el artículo 9, número 3.º de est
 
 Cuatro. Las entregas de bienes efectuadas en el marco de un acuerdo de ventas de bienes en consigna en las condiciones previstas en el artículo 9 bis, apartado dos, de esta Ley.
 
-> Téngase en cuenta que el apartado cuatro y la última actualización del apartado uno, que establece el art. 214.5 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1651), entran en vigor el 1 de marzo de 2020, según determina la disposición final 16.3 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Uno. Las entregas de bienes definidas en el artículo 8 de esta Ley, expedidos o transportados, por el vendedor, por el adquirente o por un tercero en nombre y por cuenta de cualquiera de los anteriores, al territorio de otro Estado miembro, siempre que el adquirente sea:
-
-> a) Un empresario o profesional identificado a efectos del Impuesto sobre el Valor Añadido en un Estado miembro distinto del Reino de España.
-
-> b) Una persona jurídica que no actúe como empresario o profesional, pero que esté identificada a efectos del Impuesto en un Estado miembro distinto del Reino de España.
-
-> La exención descrita en este apartado no se aplicará a las entregas de bienes efectuadas para aquellas personas cuyas adquisiciones intracomunitarias de bienes no estén sujetas al Impuesto en el Estado miembro de destino en virtud de los criterios contenidos en el artículo 14, apartados uno y dos de esta Ley.
-
-> Tampoco se aplicará esta exención a las entregas de bienes acogidas al régimen especial de bienes usados, objetos de arte, antigüedades y objetos de colección regulado en el capítulo IV del Título IX de esta Ley."
-
 > Se modifica el apartado 1 y se añade el 4 por el art. 214.5 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1651)
 
 > Esta modificación entra en vigor el 1 de marzo de 2020, según establece la disposición final 16.3 del citado Real Decreto-ley.
@@ -2019,20 +1965,6 @@ Dos. La exención se concederá solamente una vez por año escolar.
 ##### Artículo 34. Importaciones de bienes de escaso valor.
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo queda suprimido por el art. 10.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), con efectos de 1 de julio de 2021, según establece su disposición final octava.
-
-> Redacción anterior:
-
-> "Estarán exentas del Impuesto las importaciones de bienes cuyo valor global no exceda de 22 euros.
-
-> Se exceptúan de lo dispuesto en el párrafo anterior:
-
-> 1.º Los productos alcohólicos comprendidos en los códigos NC 22.03 a 22.08 del Arancel Aduanero.
-
-> 2.º Los perfumes y aguas de colonia.
-
-> 3.º El tabaco en rama o manufacturado."
 
 > Se suprime, con efectos de 1 de julio de 2021, por el art. 10.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2617,8 +2549,6 @@ La exención establecida en este número resultará igualmente aplicable a las i
 
 4.º Las importaciones de bienes, cuando el impuesto sobre el valor añadido deba declararse en virtud del régimen especial previsto en el Título IX, Capítulo XI, Sección 4.ª de esta Ley, o la normativa equivalente aplicable en el Estado miembro de llegada de la expedición o transporte del bien y se haya aportado a la Aduana el número de identificación individual asignado para la aplicación de dicho régimen especial, con arreglo a lo establecido en el artículo 163 septvicies de esta Ley, o la normativa aplicable en el Estado miembro de identificación, por el vendedor o por el intermediario que actúe por su cuenta, a más tardar en el momento de presentar la declaración aduanera de importación.
 
-> Téngase en cuenta que el apartado 4º, añadido por el art. 10.8 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según establece su disposición final octava.
-
 > Se añade el apartado 4º, con efectos de 1 de julio de 2021, por el art. 10.8 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se modifica el apartado 3º por el art. 79.6 de la ley 39/2010, de 22 de diciembre. [Ref. BOE-A-2010-19703](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19703).
@@ -2981,8 +2911,6 @@ c) Lugar de llegada: el lugar donde se termine efectivamente el transporte de lo
 
 ### CAPÍTULO III — Límite cuantitativo aplicable a determinadas ventas a distancia intracomunitarias de bienes y prestaciones de servicios.
 
-> Téngase en cuenta que este Capítulo, añadido por el art. 10.11 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.11 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ##### Artículo 73. Límite cuantitativo aplicable a las ventas a distancia intracomunitarias de bienes a que se refiere el artículo 68.Tres.a) y b) de esta ley, y a las prestaciones de servicios a que se refiere el artículo 70.Uno.4.º y 8.º de esta ley.
@@ -3074,8 +3002,6 @@ Dos. No obstante lo dispuesto en el apartado anterior, en las operaciones sujeta
 Lo dispuesto en el párrafo anterior no será aplicable a las entregas de bienes comprendidas en el artículo 25 de esta Ley.
 
 Tres. No obstante lo dispuesto en los apartados anteriores, en las entregas de bienes realizadas en los términos previstos en el artículo 8 bis de esta Ley, el devengo del impuesto de la entrega efectuada a favor del empresario o profesional que facilite la venta o la entrega, así como la efectuada por el mismo, se producirá con la aceptación del pago del cliente.
-
-> Téngase en cuenta que el apartado tres, añadido por el art. 10.12 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
 
 > Se añade el apartado tres, con efectos de 1 de julio de 2021, por el art. 10.12 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -4103,12 +4029,6 @@ b) Las prestaciones de servicios cuyo valor esté incluido en la base imponible 
 
 c) Las operaciones exentas en virtud de lo dispuesto en los artículos 20 bis, 21, 22, 23, 24 y 25 de esta Ley, así como las demás exportaciones definitivas de bienes fuera de la Comunidad que no se destinen a la realización de las operaciones a que se refiere el número 2.º de este apartado.
 
-> Téngase en cuenta que esta actualización de la letra c) del apartado uno.1º, establecida por el art. 10.14 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "c) Las operaciones exentas en virtud de lo dispuesto en los artículos 21, 22, 23, 24 y 25 de esta Ley, así como las demás exportaciones definitivas de bienes fuera de la Comunidad que no se destinen a la realización de las operaciones a que se refiere el número 2.º de este apartado."
-
 d) Los servicios prestados por agencias de viajes que estén exentos del impuesto en virtud de lo establecido en el artículo 143 de esta Ley.
 
 2.º Las operaciones realizadas fuera del territorio de aplicación del impuesto que originarían el derecho a la deducción si se hubieran efectuado en el interior del mismo.
@@ -4763,20 +4683,6 @@ Si con posterioridad al abono de una devolución se pusiera de manifiesto su imp
 
 La falta de pago por el solicitante en periodo voluntario de la cuota del impuesto, de una sanción o de los intereses de demora devengados, permitirá adoptar las medidas cautelares a que se refiere el artículo 81 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-> Téngase en cuenta que esta actualización de los apartados cinco y siete, establecida por el art. 10.15 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Cinco. Las solicitudes de devolución deberán referirse a los períodos anual o trimestral inmediatamente anteriores a su presentación.
-
-> No obstante, las solicitudes de devolución podrán referirse a un período de tiempo inferior a tres meses cuando dicho periodo constituya el saldo de un año natural."
-
-> "Siete. La Administración Tributaria podrá exigir a los solicitantes, a la Administración Tributaria del Estado miembro de establecimiento o a terceros, la aportación de información adicional y, en su caso, ulterior, así como los justificantes necesarios para poder apreciar el fundamento de las solicitudes de devolución que se presenten y, en particular, para la correcta determinación del importe de la devolución según lo previsto en este artículo y en su desarrollo reglamentario.
-
-> Si con posterioridad al abono de una devolución se pusiera de manifiesto su improcedencia por no cumplirse los requisitos y limitaciones establecidos por este artículo o por su desarrollo reglamentario, o bien por haberse obtenido aquélla en virtud de datos falsos, incorrectos o inexactos, la Administración Tributaria procederá directamente a recuperar su importe junto con los intereses de demora devengados y la sanción que se pudiera imponer instruido el expediente que corresponda, de acuerdo con el procedimiento de recaudación regulado en el Capítulo V del Título III de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin perjuicio de las disposiciones sobre asistencia mutua en materia de recaudación relativas al Impuesto.
-
-> La falta de pago por el solicitante en periodo voluntario de la cuota del Impuesto, de una sanción o de los intereses de demora devengados, permitirá adoptar las medidas cautelares a que se refiere el artículo 81 de la Ley 58/2003, de 17 de diciembre, General Tributaria."
-
 > Se modifican los apartados cinco y siete, con efectos de 1 de julio de 2021, por el art. 10.15 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se modifica por el art. 1.13 de la Ley 2/2010, de 1 de marzo. [Ref. BOE-A-2010-3366](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3366).
@@ -4806,24 +4712,6 @@ El reconocimiento de la existencia de la reciprocidad de trato a que se refiere 
 – Los servicios de acceso, hostelería, restauración y transporte, vinculados con la asistencia a ferias, congresos y exposiciones de carácter comercial o profesional que se celebren en el territorio de aplicación del impuesto.
 
 Dos. La tramitación del procedimiento de devolución se regirá por lo dispuesto en este artículo, sus disposiciones de desarrollo y en la normativa comunitaria dictada al efecto, con aplicación exclusiva de los trámites que están expresamente regulados en dicha normativa.
-
-> Téngase en cuenta que esta actualización del art. 119 bis, establecida por el art. 10.16 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Los empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto ni en la Comunidad, Islas Canarias, Ceuta o Melilla, podrán solicitar la devolución de las cuotas del Impuesto sobre el Valor Añadido que hayan soportado por las adquisiciones o importaciones de bienes o servicios realizadas en dicho territorio, cuando concurran las condiciones y limitaciones previstas en el artículo 119 de esta Ley sin más especialidades que las que se indican a continuación y con arreglo al procedimiento que se establezca reglamentariamente:
-
-> 1.º Los solicitantes deberán nombrar con carácter previo un representante que sea residente en el territorio de aplicación del Impuesto que habrá de cumplir las obligaciones formales o de procedimiento correspondientes y que responderá solidariamente con aquéllos en los casos de devolución improcedente. La Hacienda Pública podrá exigir a dicho representante caución suficiente a estos efectos.
-
-> 2.º Dichos solicitantes deberán estar establecidos en un Estado en que exista reciprocidad de trato a favor de los empresarios o profesionales establecidos en el territorio de aplicación del Impuesto, Islas Canarias, Ceuta y Melilla.
-
-> El reconocimiento de la existencia de la reciprocidad de trato a que se refiere el párrafo anterior se efectuará por resolución del Director General de Tributos del Ministerio de Economía y Hacienda.
-
-> 3.º Por excepción a lo previsto en el número anterior, cualquier empresario y profesional no establecido a que se refiere este artículo, podrá obtener la devolución de las cuotas del Impuesto soportadas respecto de las importaciones de bienes y las adquisiciones de bienes y servicios relativas a:
-
-> – El suministro de plantillas, moldes y equipos adquiridos o importados en el territorio de aplicación del impuesto por el empresario o profesional no establecido, para su puesta a disposición a un empresario o profesional establecido en dicho territorio para ser utilizados en la fabricación de bienes que sean expedidos o transportados fuera de la Comunidad con destino al empresario o profesional no establecido, siempre que al término de la fabricación de los bienes sean expedidos con destino al empresario o profesional no establecido o destruidos.
-
-> – Los servicios de acceso, hostelería, restauración y transporte, vinculados con la asistencia a ferias, congresos y exposiciones de carácter comercial o profesional que se celebren en el territorio de aplicación del Impuesto."
 
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.16 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -4868,14 +4756,6 @@ Cuatro. Los regímenes especiales simplificado y de la agricultura, ganadería y
 El régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección se aplicará salvo renuncia de los sujetos pasivos, que podrá efectuarse para cada operación en particular y sin comunicación expresa a la Administración.
 
 Cinco. Los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios se aplicarán a aquellos empresarios o profesionales que hayan presentado las declaraciones previstas en los artículos 163 noniesdecies, 163 duovicies y 163 septvicies de esta Ley.
-
-> Téngase en cuenta que esta actualización de los apartados uno.7º y cinco, establecida por el art. 10.17 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "7.º Regímenes especiales aplicables a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los prestados por vía electrónica."
-
-> "Cinco. Los regímenes especiales aplicables a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los prestados por vía electrónica se aplicarán a aquellos operadores que hayan presentado las declaraciones previstas en los artículos 163 noniesdecies y 163 duovicies de esta Ley."
 
 > Se modifican los apartados uno.7º y cinco, con efectos de 1 de julio de 2021, por el art. 10.17 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -5933,14 +5813,6 @@ El sujeto pasivo en concurso deberá declarar las cuotas devengadas y ejercitar 
 
 ### CAPÍTULO XI — Regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.
 
-> Téngase en cuenta que esta actualización del nombre del Capítulo, establecida por el art. 10.18 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "CAPÍTULO XI
-
-> Regímenes especiales aplicables a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los prestados por vía electrónica"
-
 > Se modifica el nombre, con efectos de 1 de julio de 2021, por el art. 10.18 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
@@ -5985,49 +5857,11 @@ Cuatro. Sin perjuicio de lo previsto en los apartados anteriores, el empresario 
 
 Cinco. Reglamentariamente se establecerán las disposiciones necesarias para el desarrollo y aplicación de lo dispuesto en este capítulo.
 
-> Téngase en cuenta que esta actualización del art. 163 septiesdecies, establecida por el art. 10.19 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. A efectos del presente Capítulo, serán de aplicación las siguientes definiciones:
-
-> a) "Servicios de telecomunicaciones" los servicios a que se refiere el número 3.º del apartado Tres del artículo 69 de esta Ley;
-
-> b) "Servicios electrónicos" o "servicios prestados por vía electrónica": los servicios definidos en el número 4.º del apartado Tres del artículo 69 de esta Ley;
-
-> c) "Servicios de radiodifusión o de televisión" los servicios a que se refiere el número 5.º del apartado Tres del artículo 69 de esta Ley;
-
-> d) "Estado miembro de consumo": el Estado miembro en el que se considera que tiene lugar la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos conforme a los números 4.º y 8.º del apartado Uno del artículo 70 o sus equivalentes en las legislaciones de otros Estados miembros;
-
-> e) "Declaraciones-liquidaciones periódicas de los regímenes especiales aplicables a los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos": la declaración-liquidación en la que consta la información necesaria para determinar la cuantía del impuesto correspondiente en cada Estado miembro de consumo.
-
-> Dos. Serán causas de exclusión de estos regímenes especiales cualesquiera de las siguientes circunstancias que se relacionan a continuación:
-
-> a) La presentación de la declaración de cese de las operaciones comprendidas en dichos regímenes especiales.
-
-> b) La existencia de hechos que permitan presumir que las operaciones del empresario o profesional incluidas en estos regímenes especiales han concluido.
-
-> c) El incumplimiento de los requisitos necesarios para acogerse a estos regímenes especiales.
-
-> d) El incumplimiento reiterado de las obligaciones impuestas por la normativa de estos regímenes especiales.
-
-> La decisión de exclusión será competencia exclusiva del Estado miembro de identificación que se define para cada uno de estos regímenes especiales.
-
-> Tres. Sin perjuicio de lo previsto en el apartado anterior, el empresario o profesional podrá darse de baja voluntaria de estos regímenes.
-
-> Cuatro. Reglamentariamente se establecerán las disposiciones necesarias para el desarrollo y aplicación de lo dispuesto en este Capítulo."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.19 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
 
 #### Sección 2.ª Régimen exterior de la Unión. Régimen especial aplicable a los servicios prestados por empresarios o profesionales no establecidos en la Comunidad a destinatarios que no tengan la condición de empresarios o profesionales actuando como tales
-
-> Téngase en cuenta que esta actualización de la Sección 2ª, establecida por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Sección 2.ª Régimen especial aplicable a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los prestados por vía electrónica por empresarios o profesionales no establecidos en la Comunidad"
 
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -6046,20 +5880,6 @@ a) “Empresario o profesional no establecido en la Comunidad”: todo empresari
 b) “Estado miembro de identificación”: el Estado miembro por el que haya optado el empresario o profesional no establecido en la Comunidad para declarar el inicio de su actividad como tal empresario o profesional en el territorio de la Comunidad.
 
 c) “Estado miembro de consumo”: el Estado miembro en el que se considera que tiene lugar la prestación de los servicios conforme a lo dispuesto en esta ley o sus equivalentes en las legislaciones de otros Estados miembros.
-
-> Téngase en cuenta que esta actualización del art. 163 octiesdecies, establecida por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. Los empresarios o profesionales no establecidos en la Comunidad, que presten servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a personas que no tengan la condición de empresario o profesional, actuando como tal, y que estén establecidas en la Comunidad o que tengan en ella su domicilio o residencia habitual, podrán acogerse al régimen especial previsto en esta sección.
-
-> El régimen especial se aplicará a todas las prestaciones de servicios que, de acuerdo con lo dispuesto por los números 4.º y 8.º del apartado Uno del artículo 70 de esta Ley, o sus equivalentes en las legislaciones de otros Estados miembros, deban entenderse efectuadas en la Comunidad.
-
-> Dos. A efectos de la presente Sección, se considerará:
-
-> a) “Empresario o profesional no establecido en la Comunidad”: todo empresario o profesional que tenga la sede de su actividad económica fuera de la Comunidad y no posea un establecimiento permanente en el territorio de la Comunidad;
-
-> b) "Estado miembro de identificación": el Estado miembro por el que haya optado el empresario o profesional no establecido en la Comunidad para declarar el inicio de su actividad como tal empresario o profesional en el territorio de la Comunidad."
 
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -6105,48 +5925,6 @@ Dos. En caso de que el empresario o profesional no establecido en la Comunidad h
 
 Además, el empresario o profesional no establecido en la Comunidad deberá cumplir el resto de obligaciones contenidas en el apartado Uno anterior en el Estado miembro de identificación y, en particular, la establecida en la letra e) de dicho apartado.
 
-> Téngase en cuenta que esta actualización del art. 163 noniesdecies, establecida por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. En caso de que España sea el Estado miembro de identificación elegido por el empresario o profesional no establecido en la Comunidad, éste quedará obligado a:
-
-> a) Declarar el inicio, la modificación o el cese de sus operaciones comprendidas en este régimen especial. Dicha declaración se presentará por vía electrónica.
-
-> La información facilitada por el empresario o profesional no establecido en la Comunidad al declarar el inicio de sus actividades gravadas incluirá los siguientes datos de identificación: nombre, direcciones postal y de correo electrónico, direcciones electrónicas de los sitios de internet a través de los que opere en su caso, el número mediante el que esté identificado ante la Administración fiscal del territorio tercero en el que tenga su sede de actividad y una declaración en la que manifieste que no ha situado la sede de su actividad económica en el territorio de la Comunidad y que no posee en él un establecimiento permanente. Igualmente, el empresario o profesional no establecido en la Comunidad comunicará toda posible modificación de la citada información.
-
-> En el caso de empresarios o profesionales establecidos en las Islas Canarias, Ceuta o Melilla, la información a facilitar al declarar el inicio de sus actividades gravadas incluirá nombre, direcciones postal y de correo electrónico y las direcciones electrónicas de los sitios de internet a través de los que opere y número de identificación fiscal asignado por la Administración tributaria española.
-
-> A efectos de este régimen, la Administración tributaria identificará al empresario o profesional no establecido en la Comunidad mediante un número individual.
-
-> La Administración tributaria notificará por vía electrónica al empresario o profesional no establecido en la Comunidad el número de identificación que le haya asignado.
-
-> b) Presentar por vía electrónica una declaración-liquidación del Impuesto sobre el Valor Añadido por cada trimestre natural, independientemente de que haya suministrado o no servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos. La declaración no podrá ser negativa y se presentará dentro del plazo de veinte días a partir del final del período al que se refiere la declaración.
-
-> Esta declaración-liquidación deberá incluir el número de identificación que le haya sido notificado por la Administración tributaria conforme lo previsto en la letra a) anterior y, por cada Estado miembro de consumo en que se haya devengado el impuesto, el valor total, excluido el impuesto sobre el valor añadido que grave la operación, de los servicios prestados de telecomunicaciones, de radiodifusión o de televisión y electrónicos durante el período al que se refiere la declaración, la cantidad global del impuesto correspondiente a cada Estado miembro desglosado por tipos impositivos y el importe total, resultante de la suma de todas éstas, que debe ser ingresado en España.
-
-> Si el importe de la contraprestación de las operaciones se hubiera fijado en moneda distinta del euro, el mismo se convertirá a euros aplicando el tipo de cambio válido que corresponda al último día del período de liquidación. El cambio se realizará siguiendo los tipos de cambio publicados por el Banco Central Europeo para ese día o, si no hubiera publicación correspondiente a ese día, del día siguiente.
-
-> Cualquier modificación posterior de las cifras contenidas en las declaraciones presentadas, deberá efectuarse, en el plazo máximo de tres años a partir de la fecha en que debía presentarse la declaración inicial, a través del procedimiento de rectificación de autoliquidaciones y de declaraciones complementarias previsto en los artículos 120.3 y 122, respectivamente, de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en su normativa de desarrollo. No obstante, el Estado miembro de consumo podrá aceptar correcciones tras la finalización del plazo indicado con sujeción a lo previsto en su normativa tributaria nacional.
-
-> c) Ingresar el impuesto correspondiente a cada declaración, haciendo referencia a la declaración específica a la que corresponde, el importe se ingresará en euros en la cuenta bancaria designada por la Administración tributaria, dentro del plazo de presentación de la declaración.
-
-> Cualquier rectificación posterior de los importes ingresados, que determine un ingreso adicional del Impuesto, deberá realizarse haciendo referencia a la declaración específica a la que corresponda, sin que pueda añadirse o introducirse en otra declaración posterior.
-
-> d) Mantener un registro de las operaciones incluidas en este régimen especial. Este registro deberá llevarse con la precisión suficiente para que la Administración tributaria del Estado miembro de consumo pueda comprobar si la declaración mencionada en la letra b) anterior es correcta.
-
-> Este registro estará a disposición tanto del Estado miembro de identificación como del de consumo, quedando obligado el empresario o profesional no establecido en la Comunidad a ponerlo a disposición de las Administraciones tributarias de los referidos Estados, previa solicitud de las mismas, por vía electrónica.
-
-> El empresario o profesional no establecido deberá conservar este registro durante un período de diez años desde el final del año en que se hubiera realizado la operación.
-
-> e) Expedir y entregar factura cuando el destinatario de las operaciones se encuentre establecido o tenga su residencia o domicilio habitual en el territorio de aplicación del Impuesto, ajustada a lo que se determine reglamentariamente.
-
-> Dos. En caso de que el empresario o profesional no establecido en la Comunidad hubiera elegido cualquier otro Estado miembro distinto de España para presentar la declaración de inicio en este régimen especial, y en relación con las operaciones que, de acuerdo con lo dispuesto por los números 4.º y 8.º del apartado Uno del artículo 70 de esta Ley, deban considerarse efectuadas en el territorio de aplicación del Impuesto, el ingreso del Impuesto correspondiente a las mismas deberá efectuarse al tiempo de la presentación en el Estado miembro de identificación de la declaración a que se hace referencia en el apartado anterior.
-
-> Además, el empresario o profesional no establecido en la Comunidad deberá cumplir el resto de obligaciones contenidas en el apartado Uno anterior en el Estado miembro de identificación y, en particular, las establecidas en la letra d) de dicho apartado.
-
-> Tres. El Ministro de Hacienda y Administraciones Públicas dictará las disposiciones necesarias para el desarrollo y aplicación de lo establecido en la presente sección."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se modifica el apartado 1.a), con efectos de 1 de enero de 2019, por el art. 79.3 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268)
@@ -6167,31 +5945,11 @@ En el caso de empresarios o profesionales establecidos en las Islas Canarias, Ce
 
 Tres. Los empresarios o profesionales que se acojan a este régimen especial y realicen en el territorio de aplicación del impuesto operaciones a las que se refiere este régimen especial conjuntamente con otras distintas que determinen la obligación de registrarse y de presentar declaraciones-liquidaciones en dicho territorio deberán deducir las cuotas soportadas en la adquisición o importación de bienes y servicios que se entiendan realizadas en dicho territorio y sean utilizados en la prestación de los servicios a que se refiere este régimen especial a través de las declaraciones-liquidaciones correspondientes que deban presentar en el territorio de aplicación del impuesto.
 
-> Téngase en cuenta que esta actualización del art. 163 vicies, establecida por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. Los empresarios o profesionales no establecidos en la Comunidad que se acojan a este régimen especial no podrán deducir en la declaración-liquidación a que se refiere la letra b) del apartado Uno del artículo 163 noniesdecies de esta Ley, cantidad alguna de las cuotas soportadas en la adquisición o importación de bienes y servicios que, conforme a las reglas que resulten aplicables, se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a que se refiere este régimen.
-
-> No obstante lo anterior, dichos empresarios o profesionales acogidos a este régimen especial tendrán derecho a la devolución de las cuotas del Impuesto sobre el Valor Añadido soportadas en la adquisición o importación de bienes y servicios que se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a los que se refiere este régimen especial que deban entenderse realizadas en el Estado miembro de consumo, conforme al procedimiento previsto en la normativa del Estado miembro de consumo en desarrollo de lo que dispone la Directiva 86/560/CEE, del Consejo, de 17 de noviembre de 1986, en los términos que prevé el artículo 368 de la Directiva 2006/112/CE, de 28 de noviembre de 2006. En particular, en el caso de empresarios o profesionales que estén establecidos en Islas Canarias, Ceuta y Melilla solicitarán la devolución de las cuotas soportadas, con excepción de las realizadas en el territorio de aplicación del Impuesto, a través del procedimiento previsto en el artículo 117 bis de esta Ley.
-
-> Dos. En caso de que España sea el Estado miembro de consumo, sin perjuicio de lo dispuesto en el número 2.º del apartado Dos del artículo 119 de esta Ley, los empresarios o profesionales no establecidos en la Comunidad que se acojan a este régimen especial tendrán derecho a la devolución de las cuotas del Impuesto sobre el Valor Añadido soportadas en la adquisición o importación de bienes y servicios que deban entenderse realizadas en el territorio de aplicación del Impuesto, siempre que dichos bienes y servicios se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a los que se refiere este régimen especial. El procedimiento para el ejercicio de este derecho será el previsto en el artículo 119 bis de esta Ley.
-
-> A estos efectos no se exigirá que esté reconocida la existencia de reciprocidad de trato a favor de los empresarios o profesionales establecidos en el territorio de aplicación del Impuesto. Los empresarios o profesionales que se acojan a lo dispuesto en este artículo no estarán obligados a nombrar representante ante la Administración Tributaria a estos efectos.
-
-> En el caso de empresarios o profesionales establecidos en las Islas Canarias, Ceuta o Melilla el procedimiento para el ejercicio del derecho a la devolución de las cuotas del Impuesto sobre el Valor Añadido a que se refiere este apartado será el previsto en el artículo 119 de esta Ley."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.20 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
 
 #### Sección 3.ª Régimen de la Unión. Régimen especial aplicable a los servicios prestados por empresarios o profesionales establecidos en la Comunidad, pero no en el Estado miembro de consumo, a destinatarios que no tengan la condición de empresarios o profesionales actuando como tales, a las ventas a distancia intracomunitarias de bienes y a las entregas interiores de bienes realizadas en las condiciones previstas en el artículo 8 bis.b) de esta Ley
-
-> Téngase en cuenta que esta actualización de la Sección 3ª, establecida por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Sección 3.ª Régimen especial aplicable a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los servicios prestados por vía electrónica por empresarios o profesionales establecidos en la Comunidad, pero no en el Estado miembro de consumo"
 
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -6228,26 +5986,6 @@ a) En todo caso, para los empresarios o profesionales que tengan la sede de su a
 b) Cuando se trate de empresarios o profesionales que no tengan la sede de su actividad económica en el territorio de la Comunidad y que teniendo más de un establecimiento permanente en el territorio de aplicación del impuesto y en algún otro Estado miembro hayan elegido a España como Estado miembro en el que se acogen para la aplicación del presente régimen especial.
 
 c) Cuando se trate de empresarios o profesionales que no tengan su sede de actividad ni un establecimiento permanente en la Comunidad y el inicio de la expedición o transporte de los bienes sea exclusivamente el territorio de aplicación del impuesto o, habiéndose iniciado dicha expedición o transporte en varios Estados miembros, hayan elegido a España como Estado miembro en el que se acogen para la aplicación del presente régimen especial.
-
-> Téngase en cuenta que esta actualización del art. 163 unvicies, establecida por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. Podrán acogerse al régimen especial previsto en la presente sección los empresarios o profesionales establecidos en la Comunidad pero no establecidos en el Estado miembro de consumo que presten servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a personas que no tengan la condición de empresario o profesional actuando como tal y que estén establecidas en un Estado miembro o tengan en él su domicilio o residencia habitual.
-
-> El régimen especial se aplicará a todas las prestaciones de servicios que, de acuerdo con lo dispuesto por los números 4.º y 8.º del apartado Uno del artículo 70 de esta Ley, o sus equivalentes en las legislaciones de otros Estados miembros, deban entenderse efectuadas en la Comunidad, siempre que se presten en un Estado miembro distinto a aquel en el que el empresario o profesional acogido a este régimen especial tenga establecida la sede de su actividad económica o tenga un establecimiento permanente.
-
-> Dos. A efectos de la presente Sección, se considerará:
-
-> a) "Empresario o profesional no establecido en el Estado miembro de consumo": todo empresario o profesional que tenga establecida la sede de su actividad económica en el territorio de la Comunidad o que posea en ella un establecimiento permanente, pero que no tenga establecida dicha sede en el territorio del Estado miembro de consumo ni posea en él un establecimiento permanente;
-
-> b) "Estado miembro de identificación": el Estado miembro en el que el empresario o profesional tenga establecida la sede de su actividad económica. Cuando el empresario o profesional no tenga establecida la sede de su actividad económica en la Comunidad, se atenderá al único Estado miembro en el que tenga un establecimiento permanente o, en caso de tener establecimientos permanentes en varios Estados miembros, al Estado por el que opte el empresario o profesional de entre los Estados miembros en que disponga de un establecimiento permanente. En este último caso, la opción por un Estado miembro vinculará al empresario o profesional en tanto no sea revocada por el mismo, si bien, la opción por su aplicación tendrá una validez mínima de tres años naturales, incluido el año natural a que se refiere la opción ejercitada.
-
-> Tres. A efectos de la presente sección se considerará a España el "Estado miembro de identificación" en los siguientes supuestos:
-
-> a) En todo caso, para los empresarios o profesionales que tengan la sede de su actividad económica en el territorio de aplicación del impuesto y aquellos que no tengan establecida la sede de su actividad económica en el territorio de la Comunidad pero tengan exclusivamente en el territorio de aplicación del impuesto uno o varios establecimientos permanentes.
-
-> b) Cuando se trate de empresarios o profesionales que no tengan la sede de su actividad económica en el territorio de la Comunidad y que teniendo más de un establecimiento permanente en el territorio de aplicación del Impuesto y en algún otro Estado miembro hayan elegido a España como Estado miembro de identificación."
 
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -6295,38 +6033,6 @@ f) Expedir y entregar factura, ajustada a lo que se determine reglamentariamente
 
 Dos. El empresario o profesional que considere al Reino de España como Estado miembro de identificación deberá presentar, exclusivamente en España, las declaraciones-liquidaciones e ingresar, en su caso, el importe del impuesto correspondiente a todas las operaciones a que se refiere este régimen especial realizadas en todos los Estados miembros de consumo.
 
-> Téngase en cuenta que esta actualización del art. 163 duovicies, establecida por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. En caso de que España sea el Estado miembro de identificación el empresario o profesional, que preste servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos acogidos al régimen especial en otro Estado miembro, quedará obligado a:
-
-> a) Declarar el inicio, la modificación o el cese de sus operaciones comprendidas en este régimen especial. Dicha declaración se presentará por vía electrónica.
-
-> b) Presentar por vía electrónica una declaración-liquidación del Impuesto sobre el Valor Añadido por cada trimestre natural, independientemente de que haya suministrado o no servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos. La declaración no podrá ser negativa y se presentará dentro del plazo de veinte días a partir del final del período al que se refiere la declaración.
-
-> Esta declaración-liquidación deberá incluir el número de identificación fiscal asignado al empresario o profesional por la Administración tributaria en relación con sus obligaciones por el impuesto y, por cada Estado miembro de consumo en que se haya devengado el impuesto, el valor total, excluido el impuesto sobre el valor añadido que grave la operación, de los servicios prestados de telecomunicaciones, de radiodifusión o de televisión y electrónicos, durante el período al que se refiere la declaración, la cantidad global del impuesto correspondiente a cada Estado miembro, desglosado por tipos impositivos y el importe total, resultante de la suma de todas éstas, que debe ser ingresado en España.
-
-> Cuando el empresario o profesional tenga uno o más establecimientos permanentes en Estados miembros distintos de España, desde los que preste los servicios a que se refiere este régimen especial, deberá incluir además en la declaración-liquidación la información a que se refiere el párrafo anterior, correspondiente a cada establecimiento permanente, identificado con su número de identificación individual del impuesto o el número de referencia fiscal de dicho establecimiento, y desglosada por cada Estado miembro de consumo.
-
-> Si el importe de la contraprestación de las operaciones se hubiera fijado en moneda distinta del euro, el mismo se convertirá a euros aplicando el tipo de cambio válido que corresponda al último día del período de liquidación. El cambio se realizará siguiendo los tipos de cambio publicados por el Banco Central Europeo para ese día o, si no hubiera publicación correspondiente a ese día, del día siguiente.
-
-> Cualquier modificación posterior de las cifras contenidas en las declaraciones presentadas, deberá efectuarse, en el plazo máximo de tres años a partir de la fecha en que debía presentarse la declaración inicial, a través del procedimiento de rectificación de autoliquidaciones y de declaraciones complementarias previsto en los artículos 120.3 y 122, respectivamente, de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en su normativa de desarrollo. No obstante, el Estado miembro de consumo podrá aceptar correcciones tras la finalización del plazo indicado con sujeción a lo previsto en su normativa tributaria nacional.
-
-> c) Ingresar el impuesto correspondiente a cada declaración, haciendo referencia a la declaración específica a la que corresponde, el importe se ingresará en euros en la cuenta bancaria designada por la Administración tributaria, dentro del plazo de presentación de la declaración.
-
-> Cualquier rectificación posterior de los importes ingresados que determine un ingreso adicional del Impuesto, deberá realizarse haciendo referencia a la declaración específica a la que corresponda, sin que pueda añadirse o introducirse en otra declaración posterior.
-
-> d) Mantener un registro de las operaciones incluidas en este régimen especial. Este registro deberá llevarse con la precisión suficiente para que la Administración tributaria del Estado miembro de consumo pueda comprobar si la declaración mencionada en la letra b) anterior es correcta.
-
-> Este registro estará a disposición tanto del Estado miembro de identificación como del de consumo, quedando obligado el empresario o profesional a ponerlo a disposición de las Administraciones tributarias de los referidos Estados, previa solicitud de las mismas, por vía electrónica.
-
-> El empresario o profesional deberá conservar este registro durante un período de diez años desde el final del año en que se hubiera realizado la operación.
-
-> Dos. El empresario o profesional que considere a España como Estado miembro de identificación deberá presentar, exclusivamente en España, las declaraciones-liquidaciones e ingresar, en su caso, el importe del impuesto correspondiente a todas las operaciones a que se refiere este régimen especial realizadas en todos los Estados miembros de consumo.
-
-> Tres. El Ministro de Hacienda y Administraciones Públicas dictará las disposiciones necesarias para el desarrollo y aplicación de lo establecido en la presente sección."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
@@ -6351,20 +6057,6 @@ En caso de que el Reino de España sea el Estado miembro de identificación, los
 
 Tres. Los empresarios o profesionales que se acojan a este régimen especial y realicen en el territorio de aplicación del impuesto operaciones a las que se refiere este régimen especial conjuntamente con otras distintas que determinen la obligación de registrarse y de presentar declaraciones-liquidaciones en dicho territorio deberán deducir las cuotas soportadas en la adquisición o importación de bienes y servicios que se entiendan realizadas en dicho territorio y sean utilizados en la realización de las operaciones a que se refiere este régimen especial a través de las declaraciones-liquidaciones correspondientes que deban presentar en el territorio de aplicación del impuesto.
 
-> Téngase en cuenta que esta actualización del art. 163 tervicies, establecida por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Uno. Los empresarios o profesionales que se acojan a este régimen especial no podrán deducir en la declaración-liquidación a que se refiere la letra b) del apartado Uno del artículo 163 duovicies de esta Ley, cantidad alguna por las cuotas soportadas en la adquisición o importación de bienes y servicios que, conforme a las reglas que resulten aplicables se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a que se refiere este régimen.
-
-> No obstante lo anterior, los empresarios o profesionales que se acojan a este régimen especial y realicen en el Estado miembro de consumo operaciones a las que se refiere este régimen especial conjuntamente con otras distintas que determinen la obligación de registrarse y de presentar declaraciones-liquidaciones en dicho Estado miembro, podrán deducir las cuotas soportadas en la adquisición o importación de bienes y servicios que, conforme a las reglas que resulten aplicables, se entiendan realizadas en el Estado miembro de consumo y que se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a que se refiere este régimen especial a través de las declaraciones-liquidaciones correspondientes del impuesto que deban presentar en dicho Estado miembro.
-
-> Dos. Sin perjuicio de lo previsto en el apartado anterior, los empresarios o profesionales que se acojan a este régimen especial, tendrán derecho a la devolución de las cuotas del Impuesto sobre el Valor Añadido soportadas en la adquisición o importación de bienes y servicios que se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a los que se refiere este régimen que deban entenderse realizadas en el Estado miembro de consumo, conforme al procedimiento previsto en la normativa del Estado miembro de consumo en desarrollo de lo que dispone la Directiva 2008/9/CE, del Consejo, de 12 de febrero de 2008, en los términos que prevé el artículo 369 undecies de la Directiva 2006/112/CE, de 28 de noviembre de 2006. En particular, en el caso de empresarios o profesionales que estén establecidos en el territorio de aplicación del Impuesto solicitarán la devolución de las cuotas soportadas, con excepción de las realizadas en el indicado territorio, a través del procedimiento previsto en el artículo 117 bis de esta Ley.
-
-> Tres. En caso de que España sea el Estado miembro de identificación, las cuotas soportadas en la adquisición o importación de bienes y servicios que, se entiendan realizadas en el territorio de aplicación del Impuesto y se destinen a la prestación de servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos, podrán deducirse a través de las correspondientes declaraciones-liquidaciones conforme el régimen general del Impuesto, con independencia de que a los referidos servicios les resulte o no aplicable el régimen especial previsto en esta sección.
-
-> Cuatro. En caso de que España sea el Estado miembro de consumo, sin perjuicio de lo dispuesto en el número 2.º del apartado Dos del artículo 119 de esta Ley, los empresarios o profesionales establecidos en la Comunidad que se acojan a este régimen especial tendrán derecho a la devolución de las cuotas del Impuesto sobre el Valor Añadido soportadas en la adquisición o importación de bienes y servicios que deban entenderse realizadas en el territorio de aplicación del Impuesto, siempre que dichos bienes y servicios se destinen a la prestación de los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos a los que se refiere este régimen especial. El procedimiento para el ejercicio de este derecho será el previsto en el artículo 119 de esta Ley."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
@@ -6373,21 +6065,11 @@ Tres. Los empresarios o profesionales que se acojan a este régimen especial y r
 
 El régimen especial previsto en esta sección no resultará aplicable a las prestaciones de servicios realizadas en el territorio de aplicación del impuesto por empresarios o profesionales que tengan la sede de su actividad económica o un establecimiento permanente en el mismo. A dichas prestaciones de servicios les resultará aplicable el régimen general del impuesto.
 
-> Téngase en cuenta que esta actualización del art. 163 quatervicies, establecida por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 163 quatervicies. Prestaciones de servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos realizados en el territorio de aplicación del Impuesto por empresarios o profesionales establecidos en el mismo.
-
-> El régimen especial previsto en esta sección no resultará aplicable a los servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos prestados en el territorio de aplicación del Impuesto por empresarios o profesionales que tengan la sede de su actividad económica o un establecimiento permanente en el mismo. A dichas prestaciones de servicios les resultará aplicable el régimen general del Impuesto."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.21 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. [Ref. BOE-A-2014-12329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12329).
 
 #### Sección 4.ª Régimen de importación. Régimen especial aplicable a las ventas a distancia de bienes importados de países o territorios terceros.
-
-> Téngase en cuenta que esta sección, añadida por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
 
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -6443,8 +6125,6 @@ c) Cuando el empresario o profesional no tenga su sede de actividad ni disponga 
 
 En las entregas de bienes acogidas a este régimen especial el devengo del impuesto se producirá en el momento de la entrega, que se entenderá producida con la aceptación del pago del cliente.
 
-> Téngase en cuenta que este art. 163 sexvicies, añadido por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ##### Artículo 163 septvicies. Obligaciones formales.
@@ -6489,8 +6169,6 @@ f) Expedir y entregar factura, ajustada a lo que se determine reglamentariamente
 
 Dos. El empresario o profesional que considere al Reino de España como Estado miembro de identificación deberá presentar, exclusivamente en España, las declaraciones-liquidaciones e ingresar, en su caso, el importe del impuesto correspondiente a todas las operaciones a que se refiere este régimen especial realizadas en todos los Estados miembros de consumo.
 
-> Téngase en cuenta que este art. 163 septvicies, añadido por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ##### Artículo 163 octovicies. Derecho a la deducción de las cuotas soportadas.
@@ -6512,8 +6190,6 @@ En el caso de empresarios o profesionales establecidos en las Islas Canarias, Ce
 En caso de que el Reino de España sea el Estado miembro de identificación, los empresarios o profesionales que estén establecidos en el territorio de aplicación del impuesto podrán deducir las cuotas del impuesto sobre el valor añadido soportadas en la adquisición o importación de bienes y servicios utilizados en la realización de las operaciones acogidas al presente régimen conforme al régimen general del impuesto.
 
 Tres. Los empresarios o profesionales que se acojan a este régimen especial y realicen en el territorio de aplicación del impuesto operaciones a las que se refiere este régimen especial conjuntamente con otras distintas que determinen la obligación de registrarse y de presentar declaraciones-liquidaciones en dicho territorio, deberán deducir las cuotas soportadas en la adquisición o importación de bienes y servicios que se entiendan realizadas en dicho territorio y sean utilizados en la realización de las operaciones a que se refiere este régimen especial a través de las declaraciones-liquidaciones correspondientes que deban presentar en el territorio de aplicación del impuesto.
-
-> Téngase en cuenta que este art. 163 octovicies, añadido por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
 
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.22 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -6561,44 +6237,6 @@ Tres. Lo previsto en los apartados anteriores será igualmente aplicable a quien
 
 Cuatro. La Administración tributaria, cuando lo considere necesario a los efectos de cualquier actuación dirigida a la comprobación de la situación tributaria del empresario o profesional o sujeto pasivo, podrá exigir una traducción al castellano, o a cualquier otra lengua oficial, de las facturas correspondientes a entregas de bienes o prestaciones de servicios efectuadas en el territorio de aplicación del Impuesto, así como de las recibidas por los empresarios o profesionales o sujetos pasivos establecidos en dicho territorio.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según determina su disposición final 18.
-
-> Redacción anterior:
-
-> "Uno. Sin perjuicio de lo establecido en el Título anterior, los sujetos pasivos del impuesto estarán obligados, con los requisitos, límites y condiciones que se determinen reglamentariamente, a:
-
-> 1.º Presentar declaraciones relativas al comienzo, modificación y cese de las actividades que determinen su sujeción al impuesto.
-
-> 2.º Solicitar de la Administración el número de identificación fiscal y comunicarlo y acreditarlo en los supuestos que se establezcan.
-
-> 3.º Expedir y entregar factura de todas sus operaciones, ajustada a lo que se determine reglamentariamente.
-
-> 4.º Llevar la contabilidad y los registros que se establezcan en la forma definida reglamentariamente, sin perjuicio de lo dispuesto en el Código de Comercio y demás normas contables.
-
-> 5.º Presentar periódicamente, o a requerimiento de la Administración, información relativa a sus operaciones económicas con terceras personas y, en particular, una declaración recapitulativa de operaciones intracomunitarias.
-
-> 6.º Presentar las declaraciones-liquidaciones correspondientes e ingresar el importe del impuesto resultante.
-
-> Sin perjuicio de lo previsto en el párrafo anterior, los sujetos pasivos deberán presentar una declaración-resumen anual.
-
-> En los supuestos del artículo 13, número 2.º, de esta Ley deberá acreditarse el pago del impuesto para efectuar la matriculación definitiva del medio de transporte.
-
-> 7.º Nombrar un representante a efectos del cumplimiento de las obligaciones impuestas en esta Ley cuando se trate de sujetos pasivos no establecidos en la Comunidad, salvo que se encuentren establecidos en Canarias, Ceuta o Melilla, o en un Estado con el que existan instrumentos de asistencia mutua análogos a los instituidos en la Comunidad.
-
-> Dos. La obligación de expedir y entregar factura por las operaciones efectuadas por los empresarios o profesionales se podrá cumplir, en los términos que reglamentariamente se establezcan, por el cliente de los citados empresarios o profesionales o por un tercero, los cuales actuarán, en todo caso, en nombre y por cuenta del mismo.
-
-> Cuando la citada obligación se cumpla por un cliente del empresario o profesional, deberá existir un acuerdo previo entre ambas partes. Asimismo, deberá garantizarse la aceptación por dicho empresario o profesional de cada una de las facturas expedidas en su nombre y por su cuenta, por su cliente.
-
-> La expedición de facturas por el empresario o profesional, por su cliente o por un tercero, en nombre y por cuenta del citado empresario o profesional, podrá realizarse por cualquier medio, en papel o en formato electrónico, siempre que, en este último caso, el destinatario de las facturas haya dado su consentimiento.
-
-> La factura, en papel o electrónica, deberá garantizar la autenticidad de su origen, la integridad de su contenido y su legibilidad, desde la fecha de expedición y durante todo el periodo de conservación.
-
-> Reglamentariamente se determinarán los requisitos a los que deba ajustarse la expedición, remisión y conservación de facturas.
-
-> Tres. Lo previsto en los apartados anteriores será igualmente aplicable a quienes, sin ser sujetos pasivos de este impuesto, tengan sin embargo la condición de empresarios o profesionales a los efectos del mismo, con los requisitos, límites y condiciones que se determinen reglamentariamente.
-
-> Cuatro. La Administración tributaria, cuando lo considere necesario a los efectos de cualquier actuación dirigida a la comprobación de la situación tributaria del empresario o profesional o sujeto pasivo, podrá exigir una traducción al castellano, o a cualquier otra lengua oficial, de las facturas correspondientes a entregas de bienes o prestaciones de servicios efectuadas en el territorio de aplicación del impuesto, así como de las recibidas por los empresarios o profesionales o sujetos pasivos establecidos en dicho territorio."
-
 > Se modifica por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
 > Esta modificación entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
@@ -6627,20 +6265,6 @@ Dos. Reglamentariamente podrán establecerse fórmulas alternativas para el cump
 
 Tres. Cuando el sujeto pasivo conserve por medios electrónicos los documentos a que se refiere el apartado uno de este artículo, se deberá garantizar a la Administración tributaria tanto el acceso en línea a los mismos como su carga remota y utilización. La anterior obligación será independiente del lugar de conservación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según determina su disposición final 18.
-
-> Redacción anterior:
-
-> "Uno. Las facturas recibidas, los justificantes contables y las copias de las facturas expedidas, deberán conservarse, incluso por medios electrónicos, durante el plazo de prescripción del Impuesto. Esta obligación se podrá cumplir por un tercero, que actuará en nombre y por cuenta del sujeto pasivo.
-
-> Cuando los documentos a que se refiere el párrafo anterior se refieran a adquisiciones por las cuales se hayan soportado o satisfecho cuotas del Impuesto sobre el Valor Añadido cuya deducción esté sometida a un período de regularización, deberán conservarse durante el período de regularización correspondiente a dichas cuotas y los cuatro años siguientes.
-
-> Reglamentariamente se establecerán los requisitos para el cumplimiento de las obligaciones que establece este apartado.
-
-> Dos. Reglamentariamente podrán establecerse fórmulas alternativas para el cumplimiento de las obligaciones de facturación y de conservación de los documentos a que se refiere el apartado dos anterior con el fin de impedir perturbaciones en el desarrollo de las actividades empresariales o profesionales.
-
-> Tres. Cuando el sujeto pasivo conserve por medios electrónicos los documentos a que se refiere el apartado uno de este artículo, se deberá garantizar a la Administración tributaria tanto el acceso en línea a los mismos como su carga remota y utilización. La anterior obligación será independiente del lugar de conservación."
-
 > Se modifica por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
 > Esta modificación entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
@@ -6666,20 +6290,6 @@ Uno. La contabilidad deberá permitir determinar con precisión:
 Dos. Todas las operaciones realizadas por los sujetos pasivos en el ejercicio de sus actividades empresariales o profesionales deberán contabilizarse o registrarse dentro de los plazos establecidos para la liquidación y pago del Impuesto.
 
 Tres. La persona titular del Ministerio de Hacienda y Función Pública podrá disponer adaptaciones o modificaciones de las obligaciones registrales de determinados sectores empresariales o profesionales.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
-
-> Redacción anterior:
-
-> "Uno. La contabilidad deberá permitir determinar con precisión:
-
-> 1.º El importe total del Impuesto sobre el Valor Añadido que el sujeto pasivo haya repercutido a sus clientes.
-
-> 2.º El importe total del impuesto soportado por el sujeto pasivo.
-
-> Dos. Todas las operaciones realizadas por los sujetos pasivos en el ejercicio de sus actividades empresariales o profesionales deberán contabilizarse o registrarse dentro de los plazos establecidos para la liquidación y pago del impuesto.
-
-> Tres. El Ministro de Economía y Hacienda podrá disponer adaptaciones o modificaciones de las obligaciones registrales de determinados sectores empresariales o profesionales."
 
 > Se modifica por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
@@ -6710,22 +6320,6 @@ Dos. Cuando un empresario o profesional, actuando como tal, utilizando una inter
 a) Los registros establecidos en el artículo 63 quater del citado Reglamento (UE) n.º 282/2011 cuando dicho empresario o profesional se encuentre acogido a los regímenes especiales previstos en el capítulo XI del título IX de esta ley.
 
 b) Los registros establecidos en el artículo 164.Uno.4.º de esta ley cuando no se encuentre acogido a los regímenes especiales previstos en el capítulo XI del título IX de esta ley.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
-
-> Redacción anterior:
-
-> "Uno. Cuando un empresario o profesional, actuando como tal, utilizando una interfaz digital como un mercado en línea, una plataforma, un portal u otros medios similares, facilite la entrega de bienes o la prestación de servicios a personas que no sean empresarios o profesionales, actuando como tales, y no tenga la condición de sujeto pasivo respecto de dichas entregas de bienes o prestaciones de servicios, tendrá la obligación de llevar un registro de dichas operaciones.
-
-> Su contenido se ajustará a lo dispuesto en el artículo 54 quater.2 del Reglamento (UE) n.º 282/2011 del Consejo, de 15 de marzo de 2011, por el que se establecen disposiciones de aplicación de la Directiva 2006/112/CE relativa al sistema común del impuesto sobre el valor añadido, y deberá estar por vía electrónica, previa solicitud, a disposición de los Estados miembros interesados.
-
-> El registro se mantendrá por un período de diez años a partir del final del año en que se haya realizado la operación.
-
-> Dos. Cuando un empresario o profesional, actuando como tal, utilizando una interfaz digital como un mercado en línea, una plataforma, un portal u otros medios similares, facilite la entrega de bienes en los términos del artículo 8 bis de esta Ley o cuando participe en una prestación de servicios por vía electrónica para la cual se considere que actúa en nombre propio de conformidad con el artículo 9 bis del mencionado Reglamento (UE) n.º 282/2011, tendrá la obligación de llevar los siguientes registros:
-
-> a) Los registros establecidos en el artículo 63 quater del citado Reglamento (UE) n.º 282/2011 cuando dicho empresario o profesional se encuentre acogido a los regímenes especiales previstos en el Capítulo XI del Título IX de esta Ley.
-
-> b) Los registros establecidos en el artículo 164.Uno.4.º de esta Ley cuando no se encuentre acogido a los regímenes especiales previstos en el Capítulo XI del Título IX de esta Ley."
 
 > Se modifica por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
@@ -6767,8 +6361,6 @@ i) "IBAN": número identificador de una cuenta de pago internacional que identif
 
 j) "BIC": código identificador de la entidad que identifica inequívocamente a un proveedor de servicios de pago, y cuyos elementos son especificados por la ISO.
 
-> Téngase en cuenta que este artículo, añadido por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
-
 > Se añade por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
 > Esta modificación entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
@@ -6791,8 +6383,6 @@ Los registros serán conservados por los proveedores de servicios de pago en for
 
 b) Poner a disposición de la Administración tributaria los registros mencionados en la letra anterior.
 
-> Téngase en cuenta que este artículo, añadido por el art. 33 de la Ley 11/2023, de 8 de mayo, [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
-
 > Se añade por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
 > Esta modificación entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
@@ -6810,8 +6400,6 @@ Dos. A efectos de aplicación de lo dispuesto en el artículo 166 quater, letra 
 a) al número IBAN de la cuenta de pago del beneficiario o a cualquier otro medio identificativo que permita identificar inequívocamente y proporcionar la ubicación del beneficiario, o en ausencia de dichos medios identificativos;
 
 b) al código BIC o a cualquier otro código identificador de la entidad que identifique inequívocamente y proporcione la ubicación del proveedor de servicios de pago que actúe en nombre del beneficiario.
-
-> Téngase en cuenta que este artículo, añadido por el art. 33 de la Ley 11/2023, de 8 de mayo, [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022), entra en vigor el 1 de enero de 2024, según establece la disposición final 18 de la citada Ley.
 
 > Se añade por el art. 33 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022)
 
@@ -6867,14 +6455,6 @@ El importe del impuesto sobre el valor añadido correspondiente a cada declaraci
 
 Cinco Los empresarios o profesionales deberán llevar un registro de las operaciones incluidas en la declaración presentada con arreglo a la modalidad especial de declaración y pago durante el plazo de 4 años en las condiciones que se establezcan reglamentariamente.
 
-> Téngase en cuenta que esta actualización del art. 167 bis, establecida por el art. 10.25 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 167 bis. Liquidación provisional.
-
-> Los órganos de gestión tributaria podrán girar la liquidación provisional que proceda de conformidad con lo dispuesto en el artículo 123 de la Ley 230/1963, de 28 de diciembre, General Tributaria, incluso en los supuestos a los que se refiere el artículo siguiente."
-
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.25 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade por el art. 5.9 de la Ley 14/2000, de 29 de diciembre. [Ref. BOE-A-2000-24357](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-24357).
@@ -6882,8 +6462,6 @@ Cinco Los empresarios o profesionales deberán llevar un registro de las operaci
 ##### Artículo 167 ter. Liquidación provisional.
 
 Los órganos de gestión tributaria podrán girar la liquidación provisional que proceda de conformidad con lo dispuesto en el artículo 101 de la Ley 58/2003, de 17 de diciembre, General Tributaria, incluso en los supuestos a los que se refiere en el artículo siguiente.
-
-> Téngase en cuenta que este artículo, añadido por el art. 10.26 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
 
 > Se añade, con efectos de 1 de julio de 2021, por el art. 10.26 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -7222,14 +6800,6 @@ Mediante Ley de Presupuestos podrán efectuarse las siguientes modificaciones de
 ##### Disposición final segunda. Habilitación normativa.
 
 Se habilita al Gobierno, y a la persona titular del Ministerio de Hacienda en el ámbito de sus competencias, para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de lo establecido en esta Ley.
-
-> Téngase en cuenta que esta actualización de la disposición final segunda, establecida por el art. 10.27 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de julio de 2021, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Disposición final segunda. Entrada en vigor de la Ley.
-
-> La presente Ley entrará en vigor el día 1 de enero de 1993."
 
 > Se modifica, con efectos de 1 de julio de 2021, por el art. 10.27 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 

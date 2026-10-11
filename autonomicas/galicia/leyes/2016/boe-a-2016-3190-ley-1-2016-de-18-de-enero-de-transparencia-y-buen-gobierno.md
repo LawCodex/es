@@ -534,18 +534,6 @@ El traslado de la solicitud a la persona afectada producirá la suspensión del 
 
 4\. Una vez notificadas las personas interesadas, y previa disociación de los datos de carácter personal que contengan, las resoluciones de la Comisión de la Transparencia por las que se resuelven las reclamaciones de acceso a la información pública se publicarán en el Portal de transparencia y gobierno abierto y habrán de ser tenidas en cuenta por parte de los sujetos que hayan dictado las resoluciones objeto de reclamación.
 
-> Téngase en cuenta que la actualización de los apartados 1 y 4, establecida por el art. 46.1 y 2 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "1. Contra toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Valedor del Pueblo, salvo en aquellas dictadas por los sujetos previstos en el artículo 3.1.d) de la presente ley, contra las que, conforme a lo previsto en la normativa básica, solo cabrá la interposición de recurso contencioso-administrativo.
-
-> 2\. La reclamación ante el órgano independiente de control tendrá la consideración de sustitutiva de los recursos administrativos, así como un carácter potestativo y previo a la impugnación en vía contencioso-administrativa.
-
-> 3\. Su procedimiento se ajustará a lo previsto en los apartados 2, 3 y 4 del artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, para las reclamaciones ante el Consejo de Transparencia y Buen Gobierno.
-
-> 4\. Una vez notificadas las personas interesadas, y previa disociación de los datos de carácter personal que contuviesen, las resoluciones del Valedor del Pueblo por las que se resuelven las reclamaciones de acceso a la información pública se publicarán en el Portal de transparencia y Gobierno abierto y deberán ser tenidas en cuenta por parte de los sujetos que hayan dictado las resoluciones objeto de reclamación."
-
 > Se modifican los apartados 1 y 4, con efectos desde el 1 de mayo de 2026, por el art. 46.1 y 2 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
 
 ### CAPÍTULO V — Mecanismos de coordinación y control
@@ -600,12 +588,6 @@ Cuando dicha comisión ejerza funciones relativas a la reutilización de la info
 
 1\. Se crea el Comisionado de la Transparencia y se le atribuyen sus funciones a la Presidencia del Consejo Consultivo de Galicia.
 
-> Téngase en cuenta que la actualización del apartado 1, establecida por el art. 46.3 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "Se crea el Comisionado de la Transparencia y se atribuyen las funciones del mismo al Valedor del Pueblo."
-
 2\. El Comisionado de la Transparencia es el órgano independiente de control del cumplimiento de las obligaciones comprendidas en este título por parte de los sujetos incluidos en su ámbito de aplicación.
 
 3\. El Comisionado de la Transparencia ejercerá las funciones siguientes:
@@ -638,37 +620,11 @@ c) Secretario o secretaria: un letrado o una letrada al servicio de Consejo Cons
 
 3\. La Comisión de la Transparencia es el órgano independiente al que le corresponde la resolución de las reclamaciones frente a las resoluciones de acceso a la información pública que establece el artículo 28. En caso de empate, el presidente o presidenta tendrá voto dirimente.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 46.4 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "Artículo 33. La Comisión de la Transparencia.
-
-> 1\. Se crea la Comisión de la Transparencia como órgano colegiado independiente adscrito al Valedor del Pueblo.
-
-> 2\. Se compondrá de los siguientes miembros:
-
-> a) Presidente o presidenta: el valedor o valedora del pueblo.
-
-> b) Vicepresidente o vicepresidenta: el adjunto o adjunta a la institución del Valedor del Pueblo.
-
-> c) Vocales: una persona representante de la Comisión Interdepartamental de Información y Evaluación de la Xunta de Galicia, una persona representante del Consejo Consultivo de Galicia, una persona representante del Consejo de Cuentas y una persona representante de la Federación Gallega de Municipios y Provincias.
-
-> 3\. La Comisión de la Transparencia es el órgano independiente al que corresponde la resolución de las reclamaciones frente a las resoluciones de acceso a la información pública que establece el artículo 28 de la presente ley. En caso de empate, el presidente o presidenta tendrá voto dirimente."
-
 > Se modifica, con efectos desde el 1 de mayo de 2026, por el art. 46.4 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
 
 ##### Artículo 34. Separación de funciones y medios.
 
 El Comisionado de la Transparencia y la Comisión de la Transparencia actuarán con separación de sus funciones respecto de las otras que le correspondan al Consejo Consultivo de Galicia, si bien contarán con los medios personales y materiales asignados a esta institución.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 46.5 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "Artículo 34. Separación de funciones y medios.
-
-> El Comisionado de la Transparencia y la Comisión de la Transparencia actuarán con separación de sus funciones respecto a las otras que corresponden al Valedor del Pueblo, si bien contarán con los medios personales y materiales asignados a esta institución."
 
 > Se modifica, con efectos desde el 1 de mayo de 2026, por el art. 46.5 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
 
@@ -677,16 +633,6 @@ El Comisionado de la Transparencia y la Comisión de la Transparencia actuarán 
 1\. Los sujetos incluidos en el ámbito de aplicación de esta ley prestarán la colaboración necesaria al Comisionado de la Transparencia y a la Comisión de la Transparencia de Galicia para el correcto desarrollo de sus funciones, facilitando la información que les soliciten en su respectivo ámbito competencial.
 
 2\. La Xunta de Galicia, a través de la Comisión Interdepartamental de Información y Evaluación prevista en el artículo 31, remitirá al Comisionado de la Transparencia el informe referido en el artículo 5.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 46.6 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "Artículo 35. Colaboración con el Valedor del Pueblo.
-
-> 1\. Los sujetos incluidos en el ámbito de aplicación de la presente ley prestarán la colaboración necesaria al Valedor del Pueblo para el correcto desarrollo de sus funciones, facilitando la información que les solicite en su respectivo ámbito competencial.
-
-> 2\. La Xunta de Galicia, a través de la Comisión Interdepartamental de Información y Evaluación prevista en el artículo 31 de esta ley, remitirá al Valedor del Pueblo el informe referido en el artículo 5."
 
 > Se modifica, con efectos desde el 1 de mayo de 2026, por el art. 46.6 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
 
@@ -705,26 +651,6 @@ d) Los requerimientos efectuados de subsanación de los incumplimientos que se p
 e) La evaluación del grado de cumplimiento de las obligaciones de publicidad activa por parte de los distintos sujetos incluidos en su ámbito de aplicación. Se formularán requerimientos expresos en caso de un cumplimiento insuficiente.
 
 2\. Este informe se presentará al Parlamento de Galicia y estará también a disposición de la ciudadanía dentro del Portal de transparencia y gobierno abierto, así como en la página web del Consejo Consultivo de Galicia.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 46.7 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "Artículo 36. Informe anual al Parlamento.
-
-> 1\. El Valedor del Pueblo incluirá, en su informe presentado anualmente ante el Parlamento de Galicia, previsto en el artículo 36 de la Ley 6/1984, de 5 de junio, un apartado relativo al grado de aplicación y cumplimiento de la presente ley, en el que recogerá, en todo caso:
-
-> a) Los criterios interpretativos y las recomendaciones que haya formulado durante ese año.
-
-> b) La relación de reclamaciones presentadas contra denegaciones de solicitudes de acceso y el sentido de su resolución.
-
-> c) La actividad de asesoramiento realizada en materia de transparencia, del derecho de acceso a la información pública y buen gobierno.
-
-> d) Los requerimientos efectuados de subsanación de los incumplimientos que pudieran producirse.
-
-> e) La evaluación del grado de cumplimiento de las obligaciones de publicidad activa por parte de los distintos sujetos incluidos en su ámbito de aplicación, formulándose requerimientos expresos en el caso de cumplimiento insuficiente.
-
-> 2\. El informe anual que se presentará al Parlamento estará también a disposición de la ciudadanía dentro del Portal de transparencia y Gobierno abierto, así como en la página web del Valedor del Pueblo."
 
 > Se modifica, con efectos desde el 1 de mayo de 2026, por el art. 46.7 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
 
@@ -1307,14 +1233,6 @@ El acceso a la información será gratuito. No obstante, la obtención de copias
 ##### Disposición adicional quinta. Reclamación.
 
 La resolución de la reclamación prevista en el artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, corresponderá, en el supuesto de resoluciones dictadas por las entidades locales de Galicia, a la Comisión de la Transparencia de Galicia.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 46.9 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385), entra en vigor el 1 de mayo de 2026, según determina su disposición final 3.3.
-
-> Redacción anterior:
-
-> "Disposición adicional quinta. Reclamación.
-
-> La resolución de la reclamación prevista en el artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, corresponderá, en el supuesto de resoluciones dictadas por las entidades locales de Galicia, al Valedor del Pueblo."
 
 > Se modifica, con efectos desde el 1 de mayo de 2026, por el art. 46.9 de la Ley 5/2025, de 23 de diciembre. [Ref. BOE-A-2026-3385](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3385)
 

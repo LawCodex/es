@@ -174,112 +174,106 @@ No obstante lo anterior, en el anexo V.2 no se incluyen los valores de la retrib
 
 1\. La vida útil regulatoria para las instalaciones tipo asignadas a las instalaciones incluidas en el ámbito de aplicación de esta orden en función de su subgrupo será la siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cabeza_tabla">Categoria</p>
+<p>Categoria</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">a)</p>
+<p>a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">a.1.1, a.1.2 y a.1.3</p>
+<p>a.1.1, a.1.2 y a.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">a.2</p>
+<p>a.2</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">b)</p>
+<p>b)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">b.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>30</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b.2</p>
+<p>b.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">b.2.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>25</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">b.3</p>
+<p>b.2</p>
+</td>
+<td>
+<p>b.2.1</p>
+</td>
+<td>
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b.3</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">b.4, b.5, b.6, b.7 y b.8</p>
+<p>b.4, b.5, b.6, b.7 y b.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">c)</p>
+<p>c)</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">c.1, c.2 y c.3</p>
+<p>c.1, c.2 y c.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
 </tbody>

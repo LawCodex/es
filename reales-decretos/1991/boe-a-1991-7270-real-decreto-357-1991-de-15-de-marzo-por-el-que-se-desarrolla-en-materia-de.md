@@ -384,2639 +384,2639 @@ VIRGILIO ZAPATERO GÓMEZ
 
 ## ANEXO — Fichero técnico de pensiones no contributivas
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º Ref.</p>
+<p>N.º Ref.</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Dato</p>
+<p>Dato</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Longitud</p>
+<p>Longitud</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Pos. en reg.</p>
+<p>Pos. en reg.</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Tipo de dato</p>
+<p>Tipo de dato</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Campo</p>
+<p>Campo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subcampo</p>
+<p>Subcampo</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cabeza_tabla">S</p>
+<p>S</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autonomía.</p>
+<p>Autonomía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clave numérica de la Autonomía.</p>
+<p>Clave numérica de la Autonomía.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Provincia.</p>
+<p>Provincia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clave numérica de la Provincia.</p>
+<p>Clave numérica de la Provincia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de Pensión.</p>
+<p>Tipo de Pensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clase de la pensión.</p>
+<p>Clase de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Situación de la pensión.</p>
+<p>Situación de la pensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Situación de la pensión.</p>
+<p>Situación de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación.</p>
+<p>Identificación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Ident.</p>
+<p>Tipo Ident.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del pensionista.</p>
+<p>Tipo de identificación del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del pensionista (D.N.I. o N.I.E.).</p>
+<p>Identificación del pensionista (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D.C. DNI.</p>
+<p>D.C. DNI.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dígitos de control del D.N.I. del pensionista.</p>
+<p>Dígitos de control del D.N.I. del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y Nombre.</p>
+<p>Apellidos y Nombre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del pensionista.</p>
+<p>Apellidos y nombre del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha Nacimiento.</p>
+<p>Fecha Nacimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha de nacimiento del pensionista.</p>
+<p>Fecha de nacimiento del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año.</p>
+<p>Año.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año de nacimiento del pensionista.</p>
+<p>Año de nacimiento del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes.</p>
+<p>Mes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">59</p>
+<p>59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes de nacimiento del pensionista.</p>
+<p>Mes de nacimiento del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Día.</p>
+<p>Día.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">61</p>
+<p>61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Día de nacimiento del pensionista.</p>
+<p>Día de nacimiento del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sexo.</p>
+<p>Sexo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sexto del pensionista.</p>
+<p>Sexto del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estado Civil.</p>
+<p>Estado Civil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">64</p>
+<p>64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estado civil del pensionista.</p>
+<p>Estado civil del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Domicilio.</p>
+<p>Domicilio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Domicilio del pensionista.</p>
+<p>Domicilio del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código Postal.</p>
+<p>Código Postal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">110</p>
+<p>110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código postal del pensionista.</p>
+<p>Código postal del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Localidad.</p>
+<p>Localidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">106</p>
+<p>106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nombre de la localidad de residencia del pensionista.</p>
+<p>Nombre de la localidad de residencia del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Municipio.</p>
+<p>Municipio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">136</p>
+<p>136</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de municipio del pensionista.</p>
+<p>Código de municipio del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nacionalidad.</p>
+<p>Nacionalidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">142</p>
+<p>142</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de la nacionalidad del pensionista.</p>
+<p>Código de la nacionalidad del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Número de la S.S.</p>
+<p>Número de la S.S.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">145</p>
+<p>145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Número de Afiliación a la Seguridad Social.</p>
+<p>Número de Afiliación a la Seguridad Social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingr. pensionista.</p>
+<p>Ingr. pensionista.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">156</p>
+<p>156</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos totales anuales del pensionista.</p>
+<p>Ingresos totales anuales del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabaja el pensionista.</p>
+<p>Trabaja el pensionista.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">162</p>
+<p>162</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si trabaja el pensionista.</p>
+<p>Indicador de si trabaja el pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pensión concurrente primera.</p>
+<p>Pensión concurrente primera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">163</p>
+<p>163</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de la primera pensión concurrente del pensionista.</p>
+<p>Código de la primera pensión concurrente del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pensión concurrente segunda.</p>
+<p>Pensión concurrente segunda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">166</p>
+<p>166</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de la segunda pensión concurrente del pensionista.</p>
+<p>Código de la segunda pensión concurrente del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rég. Procedencia.</p>
+<p>Rég. Procedencia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">169</p>
+<p>169</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código del Régimen de procedencia del pensionista.</p>
+<p>Código del Régimen de procedencia del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N. Total Conviv.</p>
+<p>N. Total Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">170</p>
+<p>170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Número total de convivientes con el pensionista.</p>
+<p>Número total de convivientes con el pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. del primer Conviv.</p>
+<p>Identif. del primer Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">172</p>
+<p>172</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+<p>Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">173</p>
+<p>173</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+<p>Identificación del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombre del primer Conviv.</p>
+<p>Apell. y Nombre del primer Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">182</p>
+<p>182</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+<p>Apellidos y nombre del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">27</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+<p>Pens. de Jubilación o Invalidez.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">218</p>
+<p>218</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+<p>Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. del segundo Conviv.</p>
+<p>Identif. del segundo Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">219</p>
+<p>219</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+<p>Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
+<p>29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">220</p>
+<p>220</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+<p>Identificación del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombre del segundo Conviv.</p>
+<p>Apell. y Nombre del segundo Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">229</p>
+<p>229</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+<p>Apellidos y nombre del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+<p>Pens. de Jubilación o Invalidez.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">265</p>
+<p>265</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+<p>Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. del tercer Conviv.</p>
+<p>Identif. del tercer Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">266</p>
+<p>266</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+<p>Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identf.</p>
+<p>Identf.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">267</p>
+<p>267</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+<p>Identificación del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">34</p>
+<p>34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombre del tercer Conviv.</p>
+<p>Apell. y Nombre del tercer Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">276</p>
+<p>276</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+<p>Apellidos y nombre del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+<p>Pens. de Jubilación o Invalidez.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">312</p>
+<p>312</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+<p>Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. del cuarto Conviv.</p>
+<p>Identif. del cuarto Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">313</p>
+<p>313</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+<p>Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">37</p>
+<p>37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">314</p>
+<p>314</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+<p>Identificación del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
+<p>38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombre del cuarto Conviv.</p>
+<p>Apell. y Nombre del cuarto Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">323</p>
+<p>323</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+<p>Apellidos y nombre del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">39</p>
+<p>39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+<p>Pens. de Jubilación o Invalidez.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">359</p>
+<p>359</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+<p>Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. del quinto Conviv.</p>
+<p>Identif. del quinto Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">360</p>
+<p>360</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
+<p>Tipo de identificación del conviviente (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">41</p>
+<p>41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">361</p>
+<p>361</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+<p>Identificación del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombre del quinto Conviv.</p>
+<p>Apell. y Nombre del quinto Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">320</p>
+<p>320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+<p>Apellidos y nombre del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">43</p>
+<p>43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+<p>Pens. de Jubilación o Invalidez.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">406</p>
+<p>406</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+<p>Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. del sexto Conviv.</p>
+<p>Identif. del sexto Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">44</p>
+<p>44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">407</p>
+<p>407</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de Identificación del conviviente (D.N.I. o N.I.E.).</p>
+<p>Tipo de Identificación del conviviente (D.N.I. o N.I.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">408</p>
+<p>408</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del conviviente.</p>
+<p>Identificación del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombre del sexto Conviv.</p>
+<p>Apell. y Nombre del sexto Conviv.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">417</p>
+<p>417</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del conviviente.</p>
+<p>Apellidos y nombre del conviviente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">47</p>
+<p>47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pens. de Jubilación o Invalidez.</p>
+<p>Pens. de Jubilación o Invalidez.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">453</p>
+<p>453</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
+<p>Indicador de si el conviviente percibe una pensión de invalidez o jubilación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingr. Convivientes.</p>
+<p>Ingr. Convivientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">454</p>
+<p>454</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingresos totales anuales de los convivientes.</p>
+<p>Ingresos totales anuales de los convivientes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">49</p>
+<p>49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grado Minusvalía.</p>
+<p>Grado Minusvalía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">461</p>
+<p>461</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grado de minusvalía del pensionista.</p>
+<p>Grado de minusvalía del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Discapacidad primera.</p>
+<p>Discapacidad primera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Discapacidad primera del pensionista.</p>
+<p>Discapacidad primera del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código.</p>
+<p>Código.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">464</p>
+<p>464</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de discapacidad.</p>
+<p>Código de discapacidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">51</p>
+<p>51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diagnóst.</p>
+<p>Diagnóst.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">468</p>
+<p>468</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código del diagnóstico.</p>
+<p>Código del diagnóstico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Etiolog.</p>
+<p>Etiolog.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">471</p>
+<p>471</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de etiología.</p>
+<p>Código de etiología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Discapacidad segunda.</p>
+<p>Discapacidad segunda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Discapacidad segunda del pensionista.</p>
+<p>Discapacidad segunda del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">53</p>
+<p>53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código.</p>
+<p>Código.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">473</p>
+<p>473</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de discapacidad.</p>
+<p>Código de discapacidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">54</p>
+<p>54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diagnóst.</p>
+<p>Diagnóst.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">477</p>
+<p>477</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código del diagnóstico.</p>
+<p>Código del diagnóstico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Etiolog.</p>
+<p>Etiolog.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">480</p>
+<p>480</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de etiología.</p>
+<p>Código de etiología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Discapacidad tercera.</p>
+<p>Discapacidad tercera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Discapacidad tercera del pensionista.</p>
+<p>Discapacidad tercera del pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">56</p>
+<p>56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código.</p>
+<p>Código.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">482</p>
+<p>482</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de discapacidad.</p>
+<p>Código de discapacidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">57</p>
+<p>57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diagnóst.</p>
+<p>Diagnóst.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">486</p>
+<p>486</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código del diagnóstico.</p>
+<p>Código del diagnóstico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Etiolog.</p>
+<p>Etiolog.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">489</p>
+<p>489</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de etiología.</p>
+<p>Código de etiología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">59</p>
+<p>59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Porcentaje discapac.</p>
+<p>Porcentaje discapac.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">491</p>
+<p>491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Porcentaje de la discapacidad.</p>
+<p>Porcentaje de la discapacidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fact. Soc. y Complem.</p>
+<p>Fact. Soc. y Complem.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">494</p>
+<p>494</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Total del baremo de factores sociales y complementarios.</p>
+<p>Total del baremo de factores sociales y complementarios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">61</p>
+<p>61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Necesidad otra pers.</p>
+<p>Necesidad otra pers.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">497</p>
+<p>497</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Total baremo de necesidad de otra persona.</p>
+<p>Total baremo de necesidad de otra persona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">62</p>
+<p>62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha solicitud.</p>
+<p>Fecha solicitud.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha en que solicitó la pensión.</p>
+<p>Fecha en que solicitó la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año.</p>
+<p>Año.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">499</p>
+<p>499</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año en que solicitó la pensión.</p>
+<p>Año en que solicitó la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes.</p>
+<p>Mes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">501</p>
+<p>501</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes en que solicitó la pensión.</p>
+<p>Mes en que solicitó la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Día.</p>
+<p>Día.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">503</p>
+<p>503</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Día en que solicitó la pensión.</p>
+<p>Día en que solicitó la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha resolución.</p>
+<p>Fecha resolución.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha de resolución de la pensión.</p>
+<p>Fecha de resolución de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año.</p>
+<p>Año.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">505</p>
+<p>505</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año de resolución de la pensión.</p>
+<p>Año de resolución de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes.</p>
+<p>Mes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">507</p>
+<p>507</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes de resolución de la pensión.</p>
+<p>Mes de resolución de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Día.</p>
+<p>Día.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">509</p>
+<p>509</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Día de resolución de la pensión.</p>
+<p>Día de resolución de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">64</p>
+<p>64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha Alta Nómina.</p>
+<p>Fecha Alta Nómina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año y mes de alta en nómina.</p>
+<p>Año y mes de alta en nómina.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año.</p>
+<p>Año.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">511</p>
+<p>511</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Año de alta en nómina de la pensión.</p>
+<p>Año de alta en nómina de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes.</p>
+<p>Mes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">513</p>
+<p>513</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mes de alta en nómina de la pensión.</p>
+<p>Mes de alta en nómina de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Importe Mensual.</p>
+<p>Importe Mensual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">515</p>
+<p>515</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Importe mensual de la pensión.</p>
+<p>Importe mensual de la pensión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">66</p>
+<p>66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compl. Neces. otra persona.</p>
+<p>Compl. Neces. otra persona.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">521</p>
+<p>521</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Importe mensual por complemento necesidad de otra persona.</p>
+<p>Importe mensual por complemento necesidad de otra persona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">67</p>
+<p>67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Perceptor.</p>
+<p>Perceptor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de relación del perceptor con el pensionista.</p>
+<p>Código de relación del perceptor con el pensionista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif. Perceptor.</p>
+<p>Identif. Perceptor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo Identif.</p>
+<p>Tipo Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">528</p>
+<p>528</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de identificación del perceptor.</p>
+<p>Tipo de identificación del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">69</p>
+<p>69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identif.</p>
+<p>Identif.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">529</p>
+<p>529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación del perceptor.</p>
+<p>Identificación del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">D.C. DNI.</p>
+<p>D.C. DNI.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">538</p>
+<p>538</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dígitos de control del D.N.I. del perceptor.</p>
+<p>Dígitos de control del D.N.I. del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">71</p>
+<p>71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apell. y Nombr. Percep.</p>
+<p>Apell. y Nombr. Percep.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">540</p>
+<p>540</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y nombre del perceptor.</p>
+<p>Apellidos y nombre del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">72</p>
+<p>72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Domicilio Perceptor.</p>
+<p>Domicilio Perceptor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">576</p>
+<p>576</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Domicilio del perceptor.</p>
+<p>Domicilio del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">73</p>
+<p>73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Códig. Postal Percep.</p>
+<p>Códig. Postal Percep.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">612</p>
+<p>612</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código Postal del perceptor.</p>
+<p>Código Postal del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">74</p>
+<p>74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Localidad Perceptor.</p>
+<p>Localidad Perceptor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">617</p>
+<p>617</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nombre de la localidad de residencia del perceptor.</p>
+<p>Nombre de la localidad de residencia del perceptor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sistema de cobro.</p>
+<p>Sistema de cobro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">647</p>
+<p>647</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sistema de cobro de la pensión (76).</p>
+<p>Sistema de cobro de la pensión (76).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">76</p>
+<p>76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Entidad Bancaria.</p>
+<p>Entidad Bancaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">648</p>
+<p>648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de entidad bancaria conforme al Consejo Superior Bancario (77).</p>
+<p>Código de entidad bancaria conforme al Consejo Superior Bancario (77).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">77</p>
+<p>77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Agencia Bancaria.</p>
+<p>Agencia Bancaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">652</p>
+<p>652</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de agencia bancaria conforme al Consejo Superior Bancario (78).</p>
+<p>Código de agencia bancaria conforme al Consejo Superior Bancario (78).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Número de cuenta.</p>
+<p>Número de cuenta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">656</p>
+<p>656</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A/N</p>
+<p>A/N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Número de cuenta bancaria (79).</p>
+<p>Número de cuenta bancaria (79).</p>
 </td>
 </tr>
 </table>

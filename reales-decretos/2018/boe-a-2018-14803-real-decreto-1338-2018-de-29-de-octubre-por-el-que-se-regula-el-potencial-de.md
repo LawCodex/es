@@ -20,8 +20,6 @@ retrieved: 2026-10-11
 
 # Real Decreto 1338/2018, de 29 de octubre, por el que se regula el potencial de producción vitícola
 
-Téngase en cuenta las previsiones establecidas por el Real Decreto 785/2023, de 17 de octubre, por el que se desarrollan determinadas disposiciones de la Unión Europea que establecen medidas para responder a problemas específicos en los sectores de frutas y hortalizas y vitivinícola causados por fenómenos meteorológicos adversos y por las perturbaciones del mercado. [Ref. BOE-A-2023-21476](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21476)
-
 El Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, establece un nuevo sistema para la gestión de plantaciones de viñedo en el ámbito de la Unión Europea basado en autorizaciones.
 
 Además, el Reglamento Delegado (UE) n.º 2015/560 de la Comisión, de 15 de diciembre, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid y el Reglamento de Ejecución (UE) n.º 2015/561 de la Comisión, de 7 de abril de 2015, por el que se establecen disposiciones de aplicación del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid, complementan esta normativa.
@@ -1070,115 +1068,110 @@ c) Superficie no admisible indicando DOP/IGP.
 
 ## ANEXO V — Tipos de pequeñas y medianas explotaciones vitícolas
 
-<table class="tabla">
-<colgroup>
-<col width="40%">
-<col width="30%">
-<col width="30%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">Umbrales de tamaño en hectáreas*</th>
+<th> </th>
+<th colspan="2">Umbrales de tamaño en hectáreas*</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Comunidad Autónoma</p>
+<th rowspan="2">
+<p>Comunidad Autónoma</p>
 </th>
-<th class="cabeza_tabla">Explotación pequeña</th>
-<th class="cabeza_tabla">Explotación mediana</th>
+<th>Explotación pequeña</th>
+<th>Explotación mediana</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">(ha)</th>
-<th class="cabeza_tabla">(ha)</th>
+<th>(ha)</th>
+<th>(ha)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 3</td>
-<td class="cuerpo_tabla_centro">&gt;3 a ≤ 10</td>
+<td>Andalucía.</td>
+<td>≥0,5 a ≤ 3</td>
+<td>&gt;3 a ≤ 10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aragón.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 5</td>
-<td class="cuerpo_tabla_centro">&gt;5 a ≤ 10</td>
+<td>Aragón.</td>
+<td>≥0,5 a ≤ 5</td>
+<td>&gt;5 a ≤ 10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_centro">≥0,1 a ≤ 1</td>
-<td class="cuerpo_tabla_centro">&gt;1 ≤ 6</td>
+<td>Principado de Asturias.</td>
+<td>≥0,1 a ≤ 1</td>
+<td>&gt;1 ≤ 6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Illes Balears.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 4</td>
-<td class="cuerpo_tabla_centro">&gt;4 a ≤ 8</td>
+<td>Illes Balears.</td>
+<td>≥0,5 a ≤ 4</td>
+<td>&gt;4 a ≤ 8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">≥0,1 a ≤ 2</td>
-<td class="cuerpo_tabla_centro">&gt;2 a ≤ 6</td>
+<td>Cantabria.</td>
+<td>≥0,1 a ≤ 2</td>
+<td>&gt;2 a ≤ 6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla-La Mancha.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 7</td>
-<td class="cuerpo_tabla_centro">&gt;7 a ≤ 18</td>
+<td>Castilla-La Mancha.</td>
+<td>≥0,5 a ≤ 7</td>
+<td>&gt;7 a ≤ 18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 7</td>
-<td class="cuerpo_tabla_centro">&gt;7 a ≤ 21</td>
+<td>Castilla y León.</td>
+<td>≥0,5 a ≤ 7</td>
+<td>&gt;7 a ≤ 21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 8</td>
-<td class="cuerpo_tabla_centro">&gt;8 a ≤ 20</td>
+<td>Cataluña.</td>
+<td>≥0,5 a ≤ 8</td>
+<td>&gt;8 a ≤ 20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 8</td>
-<td class="cuerpo_tabla_centro">&gt;8 a ≤ 21</td>
+<td>Extremadura.</td>
+<td>≥0,5 a ≤ 8</td>
+<td>&gt;8 a ≤ 21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_centro">≥0,1 a ≤ 2</td>
-<td class="cuerpo_tabla_centro">&gt;2 a ≤ 4</td>
+<td>Galicia.</td>
+<td>≥0,1 a ≤ 2</td>
+<td>&gt;2 a ≤ 4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad de Madrid.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 2</td>
-<td class="cuerpo_tabla_centro">&gt;2 a ≤ 9</td>
+<td>Comunidad de Madrid.</td>
+<td>≥0,5 a ≤ 2</td>
+<td>&gt;2 a ≤ 9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región de Murcia.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 8</td>
-<td class="cuerpo_tabla_centro">&gt;8 a ≤ 23</td>
+<td>Región de Murcia.</td>
+<td>≥0,5 a ≤ 8</td>
+<td>&gt;8 a ≤ 23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Foral de Navarra.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 7</td>
-<td class="cuerpo_tabla_centro">&gt;7 a ≤ 14</td>
+<td>Comunidad Foral de Navarra.</td>
+<td>≥0,5 a ≤ 7</td>
+<td>&gt;7 a ≤ 14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 10</td>
-<td class="cuerpo_tabla_centro">&gt;10 a ≤ 21</td>
+<td>País Vasco.</td>
+<td>≥0,5 a ≤ 10</td>
+<td>&gt;10 a ≤ 21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Rioja.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 5</td>
-<td class="cuerpo_tabla_centro">&gt;5 a ≤ 11</td>
+<td>La Rioja.</td>
+<td>≥0,5 a ≤ 5</td>
+<td>&gt;5 a ≤ 11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comunitat Valenciana.</td>
-<td class="cuerpo_tabla_centro">≥0,5 a ≤ 5</td>
-<td class="cuerpo_tabla_centro">&gt;5 a ≤ 10</td>
+<td>Comunitat Valenciana.</td>
+<td>≥0,5 a ≤ 5</td>
+<td>&gt;5 a ≤ 10</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">* Los umbrales entre las explotaciones pequeñas y medianas se han obtenido con base en los datos de los registros vitícolas de las comunidades autónomas y la superficie media de las explotaciones con Orientación Técnico-Económica Viticultura (OTE 35) de dimensión económica superior a 8.000 euros de Producción Estándar Total (PET) del Censo Agrario 2020 elaborado por el Instituto Nacional de Estadística (INE).</p>
+<p>* Los umbrales entre las explotaciones pequeñas y medianas se han obtenido con base en los datos de los registros vitícolas de las comunidades autónomas y la superficie media de las explotaciones con Orientación Técnico-Económica Viticultura (OTE 35) de dimensión económica superior a 8.000 euros de Producción Estándar Total (PET) del Censo Agrario 2020 elaborado por el Instituto Nacional de Estadística (INE).</p>
 </td>
 </tr>
 </tfoot>
@@ -1190,96 +1183,87 @@ c) Superficie no admisible indicando DOP/IGP.
 
 ## ANEXO VI — Información sobre superficie liberada por desistimientos u errores y concedida por recursos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="16%">
-<col width="12%">
-<col width="16%">
-<col width="12%">
-<col width="16%">
-<col width="12%">
-<col width="16%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
+<td>Comunidad Autónoma:</td>
 <td colspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
+<td>Fecha de comunicación:</td>
 <td colspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña de la convocatoria:</td>
+<td>Campaña de la convocatoria:</td>
 <td colspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Tipo de superficie</td>
-<td class="cuerpo_tabla_centro" colspan="2">superficie liberada por</td>
-<td class="cuerpo_tabla_centro" colspan="2">superficie liberada por errores **</td>
-<td class="cuerpo_tabla_centro" colspan="2">superficie concedida*** por</td>
+<td rowspan="2">Tipo de superficie</td>
+<td colspan="2">superficie liberada por</td>
+<td colspan="2">superficie liberada por errores **</td>
+<td colspan="2">superficie concedida*** por</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Nº de solicitudes</td>
-<td class="cuerpo_tabla_centro">Superficie liberada convertida en concedida**** objeto de desistimientos (has)</td>
-<td class="cuerpo_tabla_centro">Nº de solicitudes</td>
-<td class="cuerpo_tabla_centro">Superficie liberada convertida en concedida**** en la que se haya detectado error por (has)</td>
-<td class="cuerpo_tabla_centro">Nº de solicitudes</td>
-<td class="cuerpo_tabla_centro">Superficie concedida**** por recursos estimatorios o errores (has)</td>
+<td>Nº de solicitudes</td>
+<td>Superficie liberada convertida en concedida**** objeto de desistimientos (has)</td>
+<td>Nº de solicitudes</td>
+<td>Superficie liberada convertida en concedida**** en la que se haya detectado error por (has)</td>
+<td>Nº de solicitudes</td>
+<td>Superficie concedida**** por recursos estimatorios o errores (has)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Zona fuera de los límites geográficos de la DOP con limitación</td>
+<td>Zona fuera de los límites geográficos de la DOP con limitación</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">(1) zona DOP con limitación</td>
+<td>(1) zona DOP con limitación</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">(2) zona DOP con limitación</td>
+<td>(2) zona DOP con limitación</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">(3) zona DOP con limitación</td>
+<td>(3) zona DOP con limitación</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">…</td>
+<td>…</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TOTAL COMUNIDAD AUTÓNOMA</td>
+<td>TOTAL COMUNIDAD AUTÓNOMA</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1314,73 +1298,66 @@ Fecha límite de comunicación: 1 de octubre
 
 ## ANEXO XI — Autorizaciones
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro A. Autorizaciones solicitadas para nuevas plantaciones</p>
+<p>Cuadro A. Autorizaciones solicitadas para nuevas plantaciones</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+<td colspan="5">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Fecha de Comunicación:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Año*:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Año*:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="4">Número de hectáreas solicitadas para nuevas plantaciones que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
+<td rowspan="2">Provincia</td>
+<td colspan="4">Número de hectáreas solicitadas para nuevas plantaciones que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Vino con DOP**</td>
-<td class="cuerpo_tabla_centro">Vino con IGP***</td>
-<td class="cuerpo_tabla_centro">sólo vino sin DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Vino con DOP**</td>
+<td>Vino con IGP***</td>
+<td>sólo vino sin DOP/IGP</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
+<td>1</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
+<td>2</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">...</td>
+<td>...</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TOTAL Comunidad Autónoma****</td>
+<td>TOTAL Comunidad Autónoma****</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1395,73 +1372,66 @@ Fecha límite de comunicación: 1 de octubre
 
 Fecha límite de la comunicación: 1 octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro B. Autorizaciones concedidas para nuevas plantaciones</p>
+<p>Cuadro B. Autorizaciones concedidas para nuevas plantaciones</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+<td colspan="5">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Fecha de Comunicación:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Año*:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Año*:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="4">Número de hectáreas concedidas para nuevas plantaciones que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
+<td rowspan="2">Provincia</td>
+<td colspan="4">Número de hectáreas concedidas para nuevas plantaciones que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Vino con DOP**</td>
-<td class="cuerpo_tabla_centro">Vino con IGP***</td>
-<td class="cuerpo_tabla_centro">sólo vino sin DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Vino con DOP**</td>
+<td>Vino con IGP***</td>
+<td>sólo vino sin DOP/IGP</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">...</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>...</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TOTAL Comunidad Autónoma****</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>TOTAL Comunidad Autónoma****</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1476,73 +1446,66 @@ Fecha límite de la comunicación: 1 octubre.
 
 Fecha límite de la comunicación: 1 octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro C. Autorizaciones para nuevas plantaciones rechazadas por los solicitantes (artículo 11.5)</p>
+<p>Cuadro C. Autorizaciones para nuevas plantaciones rechazadas por los solicitantes (artículo 11.5)</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+<td colspan="5">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td>Fecha de Comunicación:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Año*:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td>Año*:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="4">Superficie rechazada por los solicitantes (Articulo 11(5)) que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
+<td rowspan="2">Provincia</td>
+<td colspan="4">Superficie rechazada por los solicitantes (Articulo 11(5)) que estén situadas en superficies que pueden ser admisibles a la producción de:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Vino con DOP**</td>
-<td class="cuerpo_tabla_centro">Vino con IGP***</td>
-<td class="cuerpo_tabla_centro">sólo vino sin DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Vino con DOP**</td>
+<td>Vino con IGP***</td>
+<td>sólo vino sin DOP/IGP</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">...</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>...</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TOTAL Comunidad Autónoma****</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TOTAL Comunidad Autónoma****</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1557,75 +1520,67 @@ Fecha límite de la comunicación: 1 octubre.
 
 Fecha límite de la comunicación: 1 octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro D. Autorizaciones para nuevas plantaciones en zonas con limitaciones</p>
+<p>Cuadro D. Autorizaciones para nuevas plantaciones en zonas con limitaciones</p>
 </caption>
-<colgroup>
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="18%">
-<col width="18%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="6">Comunidad Autónoma:</td>
+<td colspan="6">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de Comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="5"> </td>
+<td>Fecha de Comunicación:</td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Año*:</td>
-<td class="cuerpo_tabla_izq" colspan="5"> </td>
+<td>Año*:</td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="6">Si se aplican las limitaciones para autorizaciones de nuevas plantaciones (artículo 6(2)):</td>
+<td colspan="6">Si se aplican las limitaciones para autorizaciones de nuevas plantaciones (artículo 6(2)):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Zonas geográfica delimitada por la DOP/IGP</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Superficie solicitada (ha)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Superficie concedida (ha)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Superficie rechazada por los solicitantes (Articulo 11(5) de este Real Decreto) (ha)</td>
-<td class="cuerpo_tabla_centro" colspan="2">Superficie solicitada y no concedida (ha) por causas:</td>
+<td rowspan="2">Zonas geográfica delimitada por la DOP/IGP</td>
+<td rowspan="2">Superficie solicitada (ha)</td>
+<td rowspan="2">Superficie concedida (ha)</td>
+<td rowspan="2">Superficie rechazada por los solicitantes (Articulo 11(5) de este Real Decreto) (ha)</td>
+<td colspan="2">Superficie solicitada y no concedida (ha) por causas:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Superación límites establecidos en el artículo 6(4)</td>
-<td class="cuerpo_tabla_centro">Incumplimiento criterios de admisibilidad del artículo 8.</td>
+<td>Superación límites establecidos en el artículo 6(4)</td>
+<td>Incumplimiento criterios de admisibilidad del artículo 8.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
-<td class="cuerpo_tabla_centro">(6)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
+<td>(6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">...</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>...</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1636,124 +1591,117 @@ Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar
 
 ## ANEXO XII
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_negrita">Cuadro A. Autorizaciones concedidas para replantaciones</p>
+<p>Cuadro A. Autorizaciones concedidas para replantaciones</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td>Comunidad Autónoma:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td>Fecha de comunicación:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td>Campaña vitícola:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="4">Número de hectáreas efectivamente concedidas situadas en superficies admisibles a la producción de***:</td>
+<td rowspan="2">Provincia</td>
+<td colspan="4">Número de hectáreas efectivamente concedidas situadas en superficies admisibles a la producción de***:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Vino con DOP*</td>
-<td class="cuerpo_tabla_centro">Vino con IGP**</td>
-<td class="cuerpo_tabla_centro">Vino sin DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Vino con DOP*</td>
+<td>Vino con IGP**</td>
+<td>Vino sin DOP/IGP</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Provincia origen de la autorización (a)</td>
-<td class="cuerpo_tabla_centro">Vino con DOP*</td>
-<td class="cuerpo_tabla_centro">Vino con IGP**</td>
-<td class="cuerpo_tabla_centro">Vino sin DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Provincia origen de la autorización (a)</td>
+<td>Vino con DOP*</td>
+<td>Vino con IGP**</td>
+<td>Vino sin DOP/IGP</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> Código DOP (b)</td>
-<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida (DOP)</td>
+<td> Código DOP (b)</td>
+<td>Vino con Denominación de Origen Protegida (DOP)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1770,31 +1718,26 @@ Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar
 
 **Fecha límite de la comunicación:** 1 octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_negrita">Cuadro B. Resoluciones de arranque concedidas</p>
+<p>Cuadro B. Resoluciones de arranque concedidas</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td>Comunidad Autónoma:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td>Fecha de comunicación:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td>Campaña vitícola:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Nº de hectáreas totales en resoluciones de arranque concedidas*:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td colspan="2">Nº de hectáreas totales en resoluciones de arranque concedidas*:</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1815,108 +1758,99 @@ Fecha límite de comunicación: 1 de octubre.
 
 ## ANEXO XIV — Inventario de superficies de viñedo
 
-<table class="tabla">
-<colgroup>
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
-<td class="cuerpo_tabla_izq" colspan="6"> </td>
+<td>Comunidad Autónoma:</td>
+<td colspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="6"> </td>
+<td>Fecha de comunicación:</td>
+<td colspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
-<td class="cuerpo_tabla_izq" colspan="6"> </td>
+<td>Campaña vitícola:</td>
+<td colspan="6"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="6">Superficie realmente plantada con viñedo (ha) que son admisibles para la producción de***:</td>
+<td rowspan="3">Provincia</td>
+<td colspan="6">Superficie realmente plantada con viñedo (ha) que son admisibles para la producción de***:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Vino con Denominación de Origen Protegida (DOP)*</td>
-<td class="cuerpo_tabla_centro" colspan="2">Vino con Indicación Geográfica Protegida (IGP)**</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Vino sin DOP/IGP y situado en una zona DOP/IGP</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Vino sin DOP/IGP y situado fuera de una zona DOP/IGP</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Total****</td>
+<td rowspan="2">Vino con Denominación de Origen Protegida (DOP)*</td>
+<td colspan="2">Vino con Indicación Geográfica Protegida (IGP)**</td>
+<td rowspan="2">Vino sin DOP/IGP y situado en una zona DOP/IGP</td>
+<td rowspan="2">Vino sin DOP/IGP y situado fuera de una zona DOP/IGP</td>
+<td rowspan="2">Total****</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">de los cuales están incluidos en la columna (2)</td>
-<td class="cuerpo_tabla_centro">de los cuales no están incluidos en la columna (2)</td>
+<td>de los cuales están incluidos en la columna (2)</td>
+<td>de los cuales no están incluidos en la columna (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
-<td class="cuerpo_tabla_centro">(6)</td>
-<td class="cuerpo_tabla_centro">(7)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
+<td>(6)</td>
+<td>(7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Código DOP (a)</td>
-<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida (DOP)</td>
+<td>Código DOP (a)</td>
+<td>Vino con Denominación de Origen Protegida (DOP)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1937,47 +1871,43 @@ Fecha límite de la comunicación: 1 octubre
 
 ## ANEXO XV — Inventario de variedades de uva de vinificación
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Comunidad Autónoma:</td>
+<td colspan="2">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha de la comunicación:</td>
+<td colspan="2">Fecha de la comunicación:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Campaña vitícola:</td>
+<td colspan="2">Campaña vitícola:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Variedad</td>
-<td class="cuerpo_tabla_centro">Superficie plantada</td>
+<td rowspan="2">Variedad</td>
+<td>Superficie plantada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(ha)</td>
+<td>(ha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mezcla</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Mezcla</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Resto</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL*</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TOTAL*</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1990,93 +1920,85 @@ Datos referidos a 31 de julio de la campaña vitícola anterior.
 
 ## ANEXO XVI
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_negrita">Cuadro A. Plantaciones y arranques realizados</p>
+<p>Cuadro A. Plantaciones y arranques realizados</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
-<td class="cuerpo_tabla_izq" colspan="5"> </td>
+<td>Comunidad Autónoma:</td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="5"> </td>
+<td>Fecha de comunicación:</td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola (*):</td>
-<td class="cuerpo_tabla_izq" colspan="5"> </td>
+<td>Campaña vitícola (*):</td>
+<td colspan="5"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="6">Superficie (ha)</td>
+<td colspan="6">Superficie (ha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida</td>
-<td class="cuerpo_tabla_centro">Vino con Indicación Geográfica Protegida</td>
-<td class="cuerpo_tabla_centro">Subtotal vinos DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Vino sin DOP/IGP</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td> </td>
+<td>Vino con Denominación de Origen Protegida</td>
+<td>Vino con Indicación Geográfica Protegida</td>
+<td>Subtotal vinos DOP/IGP</td>
+<td>Vino sin DOP/IGP</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
-<td class="cuerpo_tabla_centro">(6)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
+<td>(6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plantaciones de viñedo realizadas (i)</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Plantaciones de viñedo realizadas (i)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arranques de viñedo realizados (ii)</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Arranques de viñedo realizados (ii)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Código DOP (a)</td>
-<td class="cuerpo_tabla_centro">Vino con Denominación de Origen Protegida (DOP)</td>
+<td>Código DOP (a)</td>
+<td>Vino con Denominación de Origen Protegida (DOP)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>TOTAL</strong>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2093,46 +2015,42 @@ Datos referidos a 31 de julio de la campaña vitícola anterior.
 
 **Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación**
 
-<table class="tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Comunidad Autónoma:</p>
+<p>Comunidad Autónoma:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Fecha de comunicación:</p>
+<p>Fecha de comunicación:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Campaña vitícola:</p>
+<p>Campaña vitícola:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Superficie (ha)</p>
+<p>Superficie (ha)</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Derechos de plantación inscritos en el Registro Vitícola sin convertir a 31 de julio:</p>
+<p>Derechos de plantación inscritos en el Registro Vitícola sin convertir a 31 de julio:</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Total (ha)</p>
+<p>Total (ha)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Desglose por fecha de caducidad hasta el 31 de diciembre de 2025 (ha)</p>
+<p>Desglose por fecha de caducidad hasta el 31 de diciembre de 2025 (ha)</p>
 </td>
 </tr>
 </tbody>
@@ -2140,63 +2058,55 @@ Datos referidos a 31 de julio de la campaña vitícola anterior.
 
 **Fecha límite de la comunicación:**1 octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_negrita">Cuadro C. Inventario de autorizaciones de plantación concedidas y no ejercidas</p>
+<p>Cuadro C. Inventario de autorizaciones de plantación concedidas y no ejercidas</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="6">Comunidad Autónoma:</td>
+<td colspan="6">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td colspan="2">Fecha de comunicación:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Campaña vitícola:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td colspan="2">Campaña vitícola:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="5">Número de hectáreas concedidas y no ejercidas para autorizaciones de:</td>
+<td rowspan="3">Provincia</td>
+<td colspan="5">Número de hectáreas concedidas y no ejercidas para autorizaciones de:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Nuevas plantaciones (art. 6)</td>
-<td class="cuerpo_tabla_centro">Replantaciones (art. 13)</td>
-<td class="cuerpo_tabla_centro">Replantaciones anticipadas (art. 16)</td>
-<td class="cuerpo_tabla_centro">Por conversión de derechos de plantación (art. 22)</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Nuevas plantaciones (art. 6)</td>
+<td>Replantaciones (art. 13)</td>
+<td>Replantaciones anticipadas (art. 16)</td>
+<td>Por conversión de derechos de plantación (art. 22)</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TOTAL</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2205,63 +2115,55 @@ Fecha límite de la comunicación: 1 de octubre.
 
 Datos referidos a 31 de julio de la campaña precedente a la de la comunicación.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_negrita">Cuadro D. Inventario de autorizaciones de plantación concedidas y no utilizadas en su periodo de validez</p>
+<p>Cuadro D. Inventario de autorizaciones de plantación concedidas y no utilizadas en su periodo de validez</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="6">Comunidad Autónoma:</td>
+<td colspan="6">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td colspan="2">Fecha de comunicación:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Campaña vitícola:</td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td colspan="2">Campaña vitícola:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="5">Número de hectáreas de autorizaciones no utilizadas en el periodo de validez establecido en el artículo 62.3 del Reglamento (UE) 1308/2013:</td>
+<td rowspan="3">Provincia</td>
+<td colspan="5">Número de hectáreas de autorizaciones no utilizadas en el periodo de validez establecido en el artículo 62.3 del Reglamento (UE) 1308/2013:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Nuevas plantaciones (art. 6)</td>
-<td class="cuerpo_tabla_centro">Replantaciones (art. 13)</td>
-<td class="cuerpo_tabla_centro">Replantaciones anticipadas (art. 16)</td>
-<td class="cuerpo_tabla_centro">Por conversión de derechos de plantación (art. 22)</td>
-<td class="cuerpo_tabla_centro">Total</td>
+<td>Nuevas plantaciones (art. 6)</td>
+<td>Replantaciones (art. 13)</td>
+<td>Replantaciones anticipadas (art. 16)</td>
+<td>Por conversión de derechos de plantación (art. 22)</td>
+<td>Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
-<td class="cuerpo_tabla_centro">(5)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
+<td>(5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TOTAL</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2272,78 +2174,71 @@ Datos referidos a 31 de julio de la campaña precedente a la de la comunicación
 
 **Cuadro E. Información sobre las autorizaciones prorrogadas hasta 31 de diciembre de 2022, objeto de renuncia sin la sanción administrativa del artículo 26.1 y retractadas de la renuncia comunicada hasta el 28 de febrero de 2021.**
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad autónoma:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Comunidad autónoma:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de Comunicación</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Fecha de Comunicación</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>Campaña vitícola:</td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="sombra" rowspan="2">
-<p class="cuerpo_tabla_centro">Autorizaciones afectadas por los párrafos segundo, tercero y cuarto del artículo 11.6 y por los párrafos tercero, cuarto y quinto del artículo 19.4</p>
+<td rowspan="2">
+<p>Autorizaciones afectadas por los párrafos segundo, tercero y cuarto del artículo 11.6 y por los párrafos tercero, cuarto y quinto del artículo 19.4</p>
 </td>
-<td class="sombra" colspan="2">
-<p class="cuerpo_tabla_centro">De nueva plantación</p>
+<td colspan="2">
+<p>De nueva plantación</p>
 </td>
-<td class="sombra" colspan="2">
-<p class="cuerpo_tabla_centro">De replantación</p>
-</td>
-</tr>
-<tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">N.º Titulares</p>
-</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">N.º de hectáreas</p>
-</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">N.º Titulares</p>
-</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">N.º de hectáreas</p>
+<td colspan="2">
+<p>De replantación</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prorrogadas hasta el 31 de diciembre de 2022.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>
+<p>N.º Titulares</p>
+</td>
+<td>
+<p>N.º de hectáreas</p>
+</td>
+<td>
+<p>N.º Titulares</p>
+</td>
+<td>
+<p>N.º de hectáreas</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Objeto de renuncia a 28 de febrero de 2021 sin sanción administrativa del artículo 26.1.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Prorrogadas hasta el 31 de diciembre de 2022.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Retractadas a 28 de febrero de 2022 de la renuncia comunicada a 28 de febrero de 2021.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Objeto de renuncia a 28 de febrero de 2021 sin sanción administrativa del artículo 26.1.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha límite de comunicación: 1 de octubre de 2022.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Retractadas a 28 de febrero de 2022 de la renuncia comunicada a 28 de febrero de 2021.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="2">Fecha límite de comunicación: 1 de octubre de 2022.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2356,126 +2251,110 @@ Datos referidos a 31 de julio de la campaña precedente a la de la comunicación
 
 ## ANEXO XVII — Distribución del número de explotaciones por intervalo de superficie de viñedo
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="9%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidad Autónoma:</td>
-<td class="cuerpo_tabla_izq" colspan="13"> </td>
+<td>Comunidad Autónoma:</td>
+<td colspan="13"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de la comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="13"> </td>
+<td>Fecha de la comunicación:</td>
+<td colspan="13"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola:</td>
-<td class="cuerpo_tabla_izq" colspan="13"> </td>
+<td>Campaña vitícola:</td>
+<td colspan="13"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="12">Numero y superficie de las explotaciones vitícolas por intervalos de superficie</td>
-<td class="cuerpo_tabla_centro" rowspan="3">Superficie explotación media</td>
+<td rowspan="3">Provincia</td>
+<td colspan="12">Numero y superficie de las explotaciones vitícolas por intervalos de superficie</td>
+<td rowspan="3">Superficie explotación media</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;= 0,50 ha.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&gt; 0,50 y &lt;= 1,00 ha.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&gt; 1,00 y &lt;= 2,00 ha.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&gt; 2,00 y &lt;= 10,00 ha.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&gt; 10,00 ha.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Total</td>
+<td colspan="2">&lt;= 0,50 ha.</td>
+<td colspan="2">&gt; 0,50 y &lt;= 1,00 ha.</td>
+<td colspan="2">&gt; 1,00 y &lt;= 2,00 ha.</td>
+<td colspan="2">&gt; 2,00 y &lt;= 10,00 ha.</td>
+<td colspan="2">&gt; 10,00 ha.</td>
+<td colspan="2">Total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Numero</td>
-<td class="cuerpo_tabla_centro">Superficie</td>
-<td class="cuerpo_tabla_centro">Numero</td>
-<td class="cuerpo_tabla_izq">Superficie</td>
-<td class="cuerpo_tabla_centro">Numero</td>
-<td class="cuerpo_tabla_centro">Superficie</td>
-<td class="cuerpo_tabla_centro">Numero</td>
-<td class="cuerpo_tabla_centro">Superficie</td>
-<td class="cuerpo_tabla_centro">Numero</td>
-<td class="cuerpo_tabla_centro">Superficie</td>
-<td class="cuerpo_tabla_centro">Numero</td>
-<td class="cuerpo_tabla_centro">Superficie*</td>
+<td>Numero</td>
+<td>Superficie</td>
+<td>Numero</td>
+<td>Superficie</td>
+<td>Numero</td>
+<td>Superficie</td>
+<td>Numero</td>
+<td>Superficie</td>
+<td>Numero</td>
+<td>Superficie</td>
+<td>Numero</td>
+<td>Superficie*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Total</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2488,63 +2367,57 @@ Datos referidos a 31 de julio de la campaña vitícola anterior.
 
 ## ANEXO XVIII — Superficie plantada sin las autorizaciones correspondientes después del 31 de diciembre de 2015 y superficies arrancadas conforme a lo dispuesto en el artículo 71(3) del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">Comunidad Autónoma:</td>
+<td colspan="4">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de comunicación:</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
+<td>Fecha de comunicación:</td>
+<td colspan="3"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campaña vitícola o periodo(<sup>1</sup>):</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
+<td>Campaña vitícola o periodo(<sup>1</sup>):</td>
+<td colspan="3"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">Provincia</td>
-<td class="cuerpo_tabla_centro" colspan="3">Superficies (ha) plantadas sin la autorización de plantación correspondiente después del 31.12.2015:</td>
+<td rowspan="2">Provincia</td>
+<td colspan="3">Superficies (ha) plantadas sin la autorización de plantación correspondiente después del 31.12.2015:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Superficies arrancadas por los productores durante la campaña vitícola</td>
-<td class="cuerpo_tabla_centro">Superficies arrancadas por la Comunidad Autónoma durante la campaña vitícola</td>
-<td class="cuerpo_tabla_centro">Inventario de las superficies totales de plantaciones no autorizadas no arrancadas todavía al final de la campaña vitícola.</td>
+<td>Superficies arrancadas por los productores durante la campaña vitícola</td>
+<td>Superficies arrancadas por la Comunidad Autónoma durante la campaña vitícola</td>
+<td>Inventario de las superficies totales de plantaciones no autorizadas no arrancadas todavía al final de la campaña vitícola.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(2)</td>
-<td class="cuerpo_tabla_centro">(3)</td>
-<td class="cuerpo_tabla_centro">(4)</td>
+<td>(1)</td>
+<td>(2)</td>
+<td>(3)</td>
+<td>(4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">...</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>...</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Total:</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2553,58 +2426,48 @@ Datos referidos a 31 de julio de la campaña vitícola anterior.
 
 ## ANEXO XIX — Comunicaciones en virtud del artículo 230.1.b)i) del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 1. Sanciones impuestas por las comunidades autónomas según los artículos 85 bis (3), 85 ter (4) y 85 quáter (2) del Reglamento (CE) n.º 1234/2007 del Consejo, de 22 de octubre de 2007</p>
+<p>Cuadro 1. Sanciones impuestas por las comunidades autónomas según los artículos 85 bis (3), 85 ter (4) y 85 quáter (2) del Reglamento (CE) n.º 1234/2007 del Consejo, de 22 de octubre de 2007</p>
 </caption>
-<colgroup>
-<col width="13%">
-<col width="12%">
-<col width="13%">
-<col width="12%">
-<col width="13%">
-<col width="12%">
-<col width="13%">
-<col width="12%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">Comunidad Autónoma:</td>
+<td colspan="8">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">Campaña:</td>
+<td colspan="8">Campaña:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">Fecha de la comunicación:</td>
+<td colspan="8">Fecha de la comunicación:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="8">Sanción impuesta en la campaña*</td>
+<td colspan="8">Sanción impuesta en la campaña*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación nacional o de la Comunidad Autónoma, según el artículo 85 bis(3) del Reglamento (CE) nº 1234/2007 del Consejo</td>
-<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación comunitaria según el artículo 85 bis(3) del Reglamento (CE) nº 1234/2007 del Consejo</td>
-<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación comunitaria según el artículo 85 ter(4) del Reglamento (CE) nº 1234/2007 del Consejo</td>
-<td class="cuerpo_tabla_centro" colspan="2">Conforme a la legislación comunitaria, según el artículo  85 quater(2) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td colspan="2">Conforme a la legislación nacional o de la Comunidad Autónoma, según el artículo 85 bis(3) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td colspan="2">Conforme a la legislación comunitaria según el artículo 85 bis(3) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td colspan="2">Conforme a la legislación comunitaria según el artículo 85 ter(4) del Reglamento (CE) nº 1234/2007 del Consejo</td>
+<td colspan="2">Conforme a la legislación comunitaria, según el artículo  85 quater(2) del Reglamento (CE) nº 1234/2007 del Consejo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">€</td>
-<td class="cuerpo_tabla_centro">Superficie (ha)</td>
-<td class="cuerpo_tabla_centro">€</td>
-<td class="cuerpo_tabla_centro">Superficie (ha)</td>
-<td class="cuerpo_tabla_centro">€</td>
-<td class="cuerpo_tabla_centro">Superficie (ha)</td>
-<td class="cuerpo_tabla_centro">€</td>
-<td class="cuerpo_tabla_izq">Superficie (ha)</td>
+<td>€</td>
+<td>Superficie (ha)</td>
+<td>€</td>
+<td>Superficie (ha)</td>
+<td>€</td>
+<td>Superficie (ha)</td>
+<td>€</td>
+<td>Superficie (ha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2613,50 +2476,43 @@ Datos referidos a 31 de julio de la campaña vitícola anterior.
 
 Fecha límite de la comunicación: 1 de octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 2. Comunicación anual sobre superficies plantadas sin derechos de plantación después del 31/8/1998</p>
+<p>Cuadro 2. Comunicación anual sobre superficies plantadas sin derechos de plantación después del 31/8/1998</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+<td colspan="5">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Campaña:</td>
+<td colspan="5">Campaña:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Fecha de la comunicación:</td>
+<td colspan="5">Fecha de la comunicación:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Superficie plantada sin derechos de plantación después del 31 /8/1998</td>
+<td colspan="5">Superficie plantada sin derechos de plantación después del 31 /8/1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">detectadas en la campaña*</td>
-<td class="cuerpo_tabla_centro">arrancadas en la campaña*</td>
-<td class="cuerpo_tabla_centro">superficie sujeta a destilación</td>
-<td class="cuerpo_tabla_centro">volumen de vino destilado en la campaña*</td>
-<td class="cuerpo_tabla_centro">superficie sujeta a probar la no circulación</td>
+<td>detectadas en la campaña*</td>
+<td>arrancadas en la campaña*</td>
+<td>superficie sujeta a destilación</td>
+<td>volumen de vino destilado en la campaña*</td>
+<td>superficie sujeta a probar la no circulación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(ha)</td>
-<td class="cuerpo_tabla_centro">(ha)</td>
-<td class="cuerpo_tabla_centro">(ha)</td>
-<td class="cuerpo_tabla_centro">(hl)</td>
-<td class="cuerpo_tabla_centro">(ha)</td>
+<td>(ha)</td>
+<td>(ha)</td>
+<td>(ha)</td>
+<td>(hl)</td>
+<td>(ha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2665,50 +2521,43 @@ Fecha límite de la comunicación: 1 de octubre.
 
 Fecha límite de la comunicación: 1 de octubre.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro 3. Comunicación anual sobre superficies plantadas sin derechos de plantación antes de 1/9/1998</p>
+<p>Cuadro 3. Comunicación anual sobre superficies plantadas sin derechos de plantación antes de 1/9/1998</p>
 </caption>
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Comunidad Autónoma:</td>
+<td colspan="5">Comunidad Autónoma:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Campaña:</td>
+<td colspan="5">Campaña:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Fecha de la comunicación:</td>
+<td colspan="5">Fecha de la comunicación:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">Superficie plantada sin derechos de plantación antes del 1/9/1998</td>
+<td colspan="5">Superficie plantada sin derechos de plantación antes del 1/9/1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">No regularizada hasta 31/12/2009</td>
-<td class="cuerpo_tabla_centro">arrancada en la campaña* (Reglamento (CE) nº 1234/2007 del Consejo art. 85 ter(4))</td>
-<td class="cuerpo_tabla_centro">superficie sujeta a destilación</td>
-<td class="cuerpo_tabla_centro">volumen de vino destilado en la campaña*</td>
-<td class="cuerpo_tabla_centro">superficie sujeta a probar la no circulación</td>
+<td>No regularizada hasta 31/12/2009</td>
+<td>arrancada en la campaña* (Reglamento (CE) nº 1234/2007 del Consejo art. 85 ter(4))</td>
+<td>superficie sujeta a destilación</td>
+<td>volumen de vino destilado en la campaña*</td>
+<td>superficie sujeta a probar la no circulación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(ha)</td>
-<td class="cuerpo_tabla_centro">(ha)</td>
-<td class="cuerpo_tabla_centro">(ha)</td>
-<td class="cuerpo_tabla_centro">(hl)</td>
-<td class="cuerpo_tabla_centro">(ha)</td>
+<td>(ha)</td>
+<td>(ha)</td>
+<td>(ha)</td>
+<td>(hl)</td>
+<td>(ha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2749,252 +2598,248 @@ Todo el material vegetal utilizado en la realización de los exámenes deberá s
 
 II. Contenido del examen
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ensayos a realizar</th>
-<th class="cabeza_tabla">Descripción</th>
+<th>Ensayos a realizar</th>
+<th>Descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Características agronómicas</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Criterios fenológicos descriptivos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de brotación de las yemas (50 % de las yemas en el estadio C de Baggiolini).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Fecha de brotación de las yemas (50 % de las yemas en el estadio C de Baggiolini).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de floración (50 % de las flores abiertas en eI estadio I de Baggiolini).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Fecha de floración (50 % de las flores abiertas en eI estadio I de Baggiolini).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de envero (50 % de bayas maduras en el estadio M de Baggiolini).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Fecha de envero (50 % de bayas maduras en el estadio M de Baggiolini).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Integral Térmica Eficaz (Winkler).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Integral Térmica Eficaz (Winkler).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Datos climatológicos mensuales (formato climograma de Gaussen).</td>
-<td class="cuerpo_tabla_izq">Se deberá registrar este dato en el ensayo, obtenido a partir de los datos climatológicos obtenidos de la estación meteorológica más cercana a la parcela/s de ensayo.</td>
+<td>Datos climatológicos mensuales (formato climograma de Gaussen).</td>
+<td>Se deberá registrar este dato en el ensayo, obtenido a partir de los datos climatológicos obtenidos de la estación meteorológica más cercana a la parcela/s de ensayo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Criterios descriptivos relacionados con la producción de uva</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Peso medio de las bayas (g).</td>
-<td class="cuerpo_tabla_izq">Medido en una muestra de 200 bayas tomadas en la cosecha.</td>
+<td>Peso medio de las bayas (g).</td>
+<td>Medido en una muestra de 200 bayas tomadas en la cosecha.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de racimos (Nb/m2 o por cepa).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Número de racimos (Nb/m2 o por cepa).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rendimiento de uva expresado en kg/m2 o por cepa.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Rendimiento de uva expresado en kg/m2 o por cepa.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Peso medio de un racimo (g).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Peso medio de un racimo (g).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Peso de madera de poda por cepa.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Peso de madera de poda por cepa.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otros criterios agronómicos.</td>
+<td colspan="2">Otros criterios agronómicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Precocidad de la variedad precoz/tardía: interés de la utilización de la variedad en un clima determinado…</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Precocidad de la variedad precoz/tardía: interés de la utilización de la variedad en un clima determinado…</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Criterios de rendimiento adaptados a una producción específica (bajo o alto rendimiento).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Criterios de rendimiento adaptados a una producción específica (bajo o alto rendimiento).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adaptación a la mecanización o porte de la variedad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Adaptación a la mecanización o porte de la variedad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Características productivas</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Sobre el mosto en la vendimia</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acidez total (g de ácido tartárico/l).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Acidez total (g de ácido tartárico/l).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>pH.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Densidad natural del mosto o del zumo (°Brix o °Baumé).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Densidad natural del mosto o del zumo (°Brix o °Baumé).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Sobre vinos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acidez total (g de ácido tartárico/l).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Acidez total (g de ácido tartárico/l).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ácido tartárico (g/l).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Ácido tartárico (g/l).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcohol (g/l).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Alcohol (g/l).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ácido málico (g/l).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Ácido málico (g/l).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Antocianinas (mg/l).</td>
-<td class="cuerpo_tabla_izq">(excluye vinos blancos)</td>
+<td>Antocianinas (mg/l).</td>
+<td>(excluye vinos blancos)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcares fermentables residuales (g/l).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Azúcares fermentables residuales (g/l).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IPT (DO 280).</td>
-<td class="cuerpo_tabla_izq">(excluye vinos blancos)</td>
+<td>IPT (DO 280).</td>
+<td>(excluye vinos blancos)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>pH.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Características organolepticas</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Una clasificación de dichos vinos según un sistema de notación o ficha de cata que se utilice habitualmente en la región de que se trate para los controles oficiales del vino, con indicación simultánea de los puntos concedidos a los diferentes vinos obtenidos a partir de las variedades testigos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Una clasificación de dichos vinos según un sistema de notación o ficha de cata que se utilice habitualmente en la región de que se trate para los controles oficiales del vino, con indicación simultánea de los puntos concedidos a los diferentes vinos obtenidos a partir de las variedades testigos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Criterios sensoriales - degustación</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aspectos visuales.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Aspectos visuales.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aspectos olfativos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Aspectos olfativos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aspectos gustativos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Aspectos gustativos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valoración global del vino.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Valoración global del vino.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Características medioambientales (sólo obligatorio para variedades resistentes/tolerantes)</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Criterios genéticos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Se indicará el % de Vitis Vinifera de la nueva variedad objeto de estudio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Se indicará el % de Vitis Vinifera de la nueva variedad objeto de estudio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Se indicará el nombre de los parentales de la nueva variedad objeto de estudio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Se indicará el nombre de los parentales de la nueva variedad objeto de estudio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mecanismo de resistencia duradero o Durabilidad del mecanismo de resistencia (en particular a través del número de genes implicados).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Mecanismo de resistencia duradero o Durabilidad del mecanismo de resistencia (en particular a través del número de genes implicados).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Criterios de adaptación al cambio climático / sequía</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adaptación del contenido de azúcar de las bayas y los mostos al cambio climático.</td>
-<td class="cuerpo_tabla_izq" rowspan="4"> </td>
+<td>Adaptación del contenido de azúcar de las bayas y los mostos al cambio climático.</td>
+<td rowspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido en ácidos orgánicos de las uvas (ácido málico y tartárico).</td>
+<td>Contenido en ácidos orgánicos de las uvas (ácido málico y tartárico).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resistencia a las heladas.</td>
+<td>Resistencia a las heladas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adaptación al estrés hídrico.</td>
+<td>Adaptación al estrés hídrico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Criterios a favor de la agroecología: resistencia o nivel de sensibilidad a las enfermedades</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arquitectura de la vid (aireación) / Estructura del racimo (racimos compactos, sueltos, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Arquitectura de la vid (aireación) / Estructura del racimo (racimos compactos, sueltos, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Para las variedades que reivindican una resistencia particular:</p>
-<p class="cuerpo_tabla_izq">Calificación del comportamiento de las variedades frente a las principales enfermedades (mildiu, oídio, podredumbre gris, podredumbre negra, antracnosis, excoriosis, etc.).</p>
+<td colspan="2">
+<p>Para las variedades que reivindican una resistencia particular:</p>
+<p>Calificación del comportamiento de las variedades frente a las principales enfermedades (mildiu, oídio, podredumbre gris, podredumbre negra, antracnosis, excoriosis, etc.).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resistencia al Mildiu.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">*Observar las manchas de Mildiu sobre el conjunto de las hojas de 4 a 6 cepas, si es posible: aproximadamente 3 semanas después del comienzo de la floración. 1 = manchas no delimitadas y muy extensas, o limbo completamente parasitado - fructificaciones abundantes del hongo – manchas necróticas („puntos de tapicería«) muy marcadas -caida de hojas muy precoz; 3 = manchas no delimitadas y extensas - fructificaciones abundantes del hongo - numerosos puntos de tapicería - caída de hojas menos precoz que en la nota 1; 5 = - manchas delimitadas, de un diámetro de 1 a 2 cm - fructificaciones del hongo más o menos: abundantes - formación de puntos de tapicería irregular; 7 = manchas reducidas - raras fructificaciones - raros puntos de tapicería; 9 = manchas por puntos o ausencia de síntomas - prácticamente sin fructificaciones ni puntos de tapicería</p>
+<td>Resistencia al Mildiu.</td>
+<td>
+<p>*Observar las manchas de Mildiu sobre el conjunto de las hojas de 4 a 6 cepas, si es posible: aproximadamente 3 semanas después del comienzo de la floración. 1 = manchas no delimitadas y muy extensas, o limbo completamente parasitado - fructificaciones abundantes del hongo – manchas necróticas („puntos de tapicería«) muy marcadas -caida de hojas muy precoz; 3 = manchas no delimitadas y extensas - fructificaciones abundantes del hongo - numerosos puntos de tapicería - caída de hojas menos precoz que en la nota 1; 5 = - manchas delimitadas, de un diámetro de 1 a 2 cm - fructificaciones del hongo más o menos: abundantes - formación de puntos de tapicería irregular; 7 = manchas reducidas - raras fructificaciones - raros puntos de tapicería; 9 = manchas por puntos o ausencia de síntomas - prácticamente sin fructificaciones ni puntos de tapicería</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resistencia al Oídio.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">**Observar las manchas de Oídio sobre el conjunto de las hojas de 4 a 6 cepas en dos períodos, si es posible:</p>
-<p class="cuerpo_tabla_izq">aproximadamente 3 semanas después del comienzo de la floración (hojas en crecimiento) y después de la vendimia o antes de las primeras heladas (hojas adultas). Tener en cuenta las condiciones climáticas que influyen en la enfermedad.</p>
-<p class="cuerpo_tabla_izq">1 = manchas en capas no delimitadas y muy extensas, o limbo enteramente parasitado - micelio y fructificaciones del hongo abundantes; 3 = amplias manchas extensas, algunas de las cuales delimitadas - limbo parcialmente parasitado - micelio y fructificaciones del hongo abundantes; 5 = manchas en general delimitadas, de un diámetro de 2 a 5 cm, aproximadamente; 7 = manchas delimitadas de tamaño reducido, de un diámetro de menos de 2 cm - micelio y fructificaciones del hongo raros (sólo una ligera crispación del limbo indica la presencia del Oídio); 9 = manchas por puntos o ausencia de síntomas - sin micelio prácticamente, ni fructificaciones visibles (solamente muy ligeras crispaciones del limbo).</p>
+<td>Resistencia al Oídio.</td>
+<td>
+<p>**Observar las manchas de Oídio sobre el conjunto de las hojas de 4 a 6 cepas en dos períodos, si es posible:</p>
+<p>aproximadamente 3 semanas después del comienzo de la floración (hojas en crecimiento) y después de la vendimia o antes de las primeras heladas (hojas adultas). Tener en cuenta las condiciones climáticas que influyen en la enfermedad.</p>
+<p>1 = manchas en capas no delimitadas y muy extensas, o limbo enteramente parasitado - micelio y fructificaciones del hongo abundantes; 3 = amplias manchas extensas, algunas de las cuales delimitadas - limbo parcialmente parasitado - micelio y fructificaciones del hongo abundantes; 5 = manchas en general delimitadas, de un diámetro de 2 a 5 cm, aproximadamente; 7 = manchas delimitadas de tamaño reducido, de un diámetro de menos de 2 cm - micelio y fructificaciones del hongo raros (sólo una ligera crispación del limbo indica la presencia del Oídio); 9 = manchas por puntos o ausencia de síntomas - sin micelio prácticamente, ni fructificaciones visibles (solamente muy ligeras crispaciones del limbo).</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">*Según Lista descriptores para variedades de vid y especies de vitis. Código n.º OIV 452. Carácter: Hoja: grado de la resistencia a Plasmopara. IPGRI 9.2.3.</p>
-<p class="cita">** Según Lista descriptores para variedades de vid y especies de vitis. Código n.º OIV 455.Carácter: Hoja: grado de la resistencia a Oidio.IPGRI 9.2.5.</p>
+<p>*Según Lista descriptores para variedades de vid y especies de vitis. Código n.º OIV 452. Carácter: Hoja: grado de la resistencia a Plasmopara. IPGRI 9.2.3.</p>
+<p>** Según Lista descriptores para variedades de vid y especies de vitis. Código n.º OIV 455.Carácter: Hoja: grado de la resistencia a Oidio.IPGRI 9.2.5.</p>
 </td>
 </tr>
 </tfoot>

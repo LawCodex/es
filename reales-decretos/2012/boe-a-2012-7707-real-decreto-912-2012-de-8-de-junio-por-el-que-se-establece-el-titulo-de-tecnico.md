@@ -2919,66 +2919,61 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-ESES301 Planificación del alto rendimiento en esgrima.</p>
-<p class="cuerpo_tabla_izq">MED-ESES302 Preparación complementaria en esgrima.</p>
-<p class="cuerpo_tabla_izq">MED-ESES303 Dirección técnica y organización de eventos.</p>
-<p class="cuerpo_tabla_izq">MED-ESES304 Nuevas tecnologías en esgrima.</p>
-<p class="cuerpo_tabla_izq">MED-ESES305 Técnica de Espada.</p>
-<p class="cuerpo_tabla_izq">MED-ESES306 Técnica de Florete.</p>
-<p class="cuerpo_tabla_izq">MED-ESES307 Técnica de Sable.</p>
+<td rowspan="2">
+<p>MED-ESES301 Planificación del alto rendimiento en esgrima.</p>
+<p>MED-ESES302 Preparación complementaria en esgrima.</p>
+<p>MED-ESES303 Dirección técnica y organización de eventos.</p>
+<p>MED-ESES304 Nuevas tecnologías en esgrima.</p>
+<p>MED-ESES305 Técnica de Espada.</p>
+<p>MED-ESES306 Técnica de Florete.</p>
+<p>MED-ESES307 Técnica de Sable.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-ESES308 Proyecto.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-ESES309 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-ESES308 Proyecto.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-ESES309 Formación práctica.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Esgrima.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -227,120 +227,120 @@ Las referencias que en este real decreto se realizan a las comunidades autónoma
 
 Las comunidades autónomas y, en su caso, los centros sanitarios iniciarán la recogida de datos del registro de acuerdo con lo dispuesto en este real decreto en los siguientes plazos:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Tipo de contacto</p>
+<p>Tipo de contacto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo de Centro Sanitario [Categorías REGCESS<sup>(1)</sup>]</p>
+<p>Tipo de Centro Sanitario [Categorías REGCESS<sup>(1)</sup>]</p>
 </td>
 <td>
-<p class="cabeza_tabla">Dependencia<sup>(2)</sup></p>
+<p>Dependencia<sup>(2)</sup></p>
 </td>
 <td>
-<p class="cabeza_tabla">Fecha de inicio</p>
+<p>Fecha de inicio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">• Hospitalización.</p>
-<p class="cuerpo_tabla_izq">• Cirugía Ambulatoria.</p>
+<p>• Hospitalización.</p>
+<p>• Cirugía Ambulatoria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hospitales de Agudos (Categorías C1.1 y C1.2).</p>
+<p>Hospitales de Agudos (Categorías C1.1 y C1.2).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros públicos y privados.</p>
+<p>Centros públicos y privados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 de enero de 2016</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">• Hospitalización.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros Hospitales (Categorías C1.3 y C1.4).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Centros públicos y privados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 de enero de 2017</p>
+<p>1 de enero de 2016</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">• Procedimientos Ambulatorios de alta complejidad.</p>
-<p class="cuerpo_tabla_izq">• Hospital de Día Médico.</p>
-<p class="cuerpo_tabla_izq">• Hospitalización a Domicilio.</p>
-<p class="cuerpo_tabla_izq">• Urgencias.</p>
+<p>• Hospitalización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hospitales (Categorías C1.1 y C1.2).</p>
+<p>Otros Hospitales (Categorías C1.3 y C1.4).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros públicos.</p>
+<p>Centros públicos y privados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 de enero de 2018</p>
+<p>1 de enero de 2017</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">• Cirugía Ambulatoria.</p>
-<p class="cuerpo_tabla_izq">• Procedimientos Ambulatorios de alta complejidad.</p>
-<p class="cuerpo_tabla_izq">• Hospital de Día Médico.</p>
+<p>• Procedimientos Ambulatorios de alta complejidad.</p>
+<p>• Hospital de Día Médico.</p>
+<p>• Hospitalización a Domicilio.</p>
+<p>• Urgencias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros Ambulatorios Especializados (Categorías C2.5).</p>
+<p>Hospitales (Categorías C1.1 y C1.2).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros públicos.</p>
+<p>Centros públicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 de enero de 2019</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">• Procedimientos Ambulatorios de alta complejidad.</p>
-<p class="cuerpo_tabla_izq">• Hospital de Día Médico.</p>
-<p class="cuerpo_tabla_izq">• Hospitalización a Domicilio.</p>
-<p class="cuerpo_tabla_izq">• Urgencias.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hospitales de Agudos (Categorías C1.1 y C1.2).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Centros privados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 de enero de 2020</p>
+<p>1 de enero de 2018</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">• Cirugía Ambulatoria.</p>
-<p class="cuerpo_tabla_izq">• Procedimientos Ambulatorios de alta complejidad.</p>
-<p class="cuerpo_tabla_izq">• Hospital de Día Médico.</p>
+<p>• Cirugía Ambulatoria.</p>
+<p>• Procedimientos Ambulatorios de alta complejidad.</p>
+<p>• Hospital de Día Médico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros Ambulatorios Especializados (Categorías C2.5).</p>
+<p>Centros Ambulatorios Especializados (Categorías C2.5).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centros privados.</p>
+<p>Centros públicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 de enero de 2020</p>
+<p>1 de enero de 2019</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>• Procedimientos Ambulatorios de alta complejidad.</p>
+<p>• Hospital de Día Médico.</p>
+<p>• Hospitalización a Domicilio.</p>
+<p>• Urgencias.</p>
+</td>
+<td>
+<p>Hospitales de Agudos (Categorías C1.1 y C1.2).</p>
+</td>
+<td>
+<p>Centros privados.</p>
+</td>
+<td>
+<p>1 de enero de 2020</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>• Cirugía Ambulatoria.</p>
+<p>• Procedimientos Ambulatorios de alta complejidad.</p>
+<p>• Hospital de Día Médico.</p>
+</td>
+<td>
+<p>Centros Ambulatorios Especializados (Categorías C2.5).</p>
+</td>
+<td>
+<p>Centros privados.</p>
+</td>
+<td>
+<p>1 de enero de 2020</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Anexo I Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.</p>
-<p class="cita"><sup>(2)</sup> Los centros públicos incluyen centros de la red de utilización pública y centros con concierto sustitutorio.</p>
+<p><sup>(1)</sup> Anexo I Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.</p>
+<p><sup>(2)</sup> Los centros públicos incluyen centros de la red de utilización pública y centros con concierto sustitutorio.</p>
 </td>
 </tr>
 </table>
@@ -707,818 +707,818 @@ Para su cumplimentación se utilizarán los códigos de las comunidades autónom
 
 Estructura del fichero de intercambio
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre variable</p>
+<p>Nombre variable</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valores<sup>(1)</sup></p>
+<p>Valores<sup>(1)</sup></p>
 </td>
 <td>
-<p class="cabeza_tabla">Formato</p>
+<p>Formato</p>
 </td>
 <td>
-<p class="cabeza_tabla">Longitud</p>
+<p>Longitud</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">TIP_CIP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tipo de código de Identificación Personal.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Código de identificación Personal de la CA.</p>
-<p class="cuerpo_tabla_izq">2. Tarjeta Individual Sanitaria del SNS.</p>
-<p class="cuerpo_tabla_izq">3. Código de Identificación de MUFACE/ISFAS/MUGEJU.</p>
-<p class="cuerpo_tabla_izq">4. Tarjeta Sanitaria Europea.</p>
-<p class="cuerpo_tabla_izq">5. DNI.</p>
-<p class="cuerpo_tabla_izq">6. Pasaporte.</p>
-<p class="cuerpo_tabla_izq">9. Desconocido.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Observaciones</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CIP</p>
+<p>TIP_CIP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de identificación personal.</p>
+<p>Tipo de código de Identificación Personal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1. Código de identificación Personal de la CA.</p>
+<p>2. Tarjeta Individual Sanitaria del SNS.</p>
+<p>3. Código de Identificación de MUFACE/ISFAS/MUGEJU.</p>
+<p>4. Tarjeta Sanitaria Europea.</p>
+<p>5. DNI.</p>
+<p>6. Pasaporte.</p>
+<p>9. Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">HISTORIA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Número de Historia Clínica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECNAC</p>
+<p>CIP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha de nacimiento.</p>
+<p>Código de identificación personal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha</p>
-<p class="cuerpo_tabla_izq">(ddmmaaaa).</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">SEXO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sexo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Varón.</p>
-<p class="cuerpo_tabla_izq">2. Mujer.</p>
-<p class="cuerpo_tabla_izq">9. No especificado.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PAIS_NAC</p>
+<p>HISTORIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código ISO del país de nacimiento.</p>
+<p>Número de Historia Clínica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código ISO. En caso de no conocerse se codificará ZZZ.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">RESIDE_CP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Código postal del domicilio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">53+ código ISO país para residentes en el extranjero.</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">RESIDE_MUNI</p>
+<p>FECNAC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de municipio del domicilio.</p>
+<p>Fecha de nacimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Fecha</p>
+<p>(ddmmaaaa).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">530 + código ISO país para residentes en el extranjero.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">REGFIN</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Régimen de financiación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Sistema Nacional de Salud (SNS).</p>
-<p class="cuerpo_tabla_izq">2. Reglamentos europeos y convenios bilaterales.</p>
-<p class="cuerpo_tabla_izq">3. Mutualidades de funcionarios del estado y otras AAPP.</p>
-<p class="cuerpo_tabla_izq">4. Mutuas colaboradoras con la Seguridad Social.</p>
-<p class="cuerpo_tabla_izq">5. Accidentes de tráfico.</p>
-<p class="cuerpo_tabla_izq">6. Financiación privada directa (personas físicas).</p>
-<p class="cuerpo_tabla_izq">7. Financiación privada mediante seguro privado (Compañías de seguro sanitario).</p>
-<p class="cuerpo_tabla_izq">8. Asistencia sanitaria transfronteriza.</p>
-<p class="cuerpo_tabla_izq">9. Otros y Desconocido.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECINICONT</p>
+<p>SEXO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha y hora de inicio del contacto.</p>
+<p>Sexo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1. Varón.</p>
+<p>2. Mujer.</p>
+<p>9. No especificado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha</p>
-<p class="cuerpo_tabla_izq">(ddmmaaaa hhmi).</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En caso de no conocerse la hora-min consignar 9999.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">FECINGHOSP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Fecha y hora de curso de la orden de ingreso del paciente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Fecha</p>
-<p class="cuerpo_tabla_izq">(ddmmaaaa hhmi).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En caso de no conocerse la hora-min consignar 9999.</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">TIPCONT</p>
+<p>PAIS_NAC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de contacto.</p>
+<p>Código ISO del país de nacimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. Hospitalización.</p>
-<p class="cuerpo_tabla_izq">2. Hospitalización a domicilio.</p>
-<p class="cuerpo_tabla_izq">3. Hospital de día médico.</p>
-<p class="cuerpo_tabla_izq">4. Cirugía ambulatoria.</p>
-<p class="cuerpo_tabla_izq">5. Procedimientos ambulatorios de especial complejidad.</p>
-<p class="cuerpo_tabla_izq">6. Urgencias.</p>
-<p class="cuerpo_tabla_izq">8. Otros.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Código ISO. En caso de no conocerse se codificará ZZZ.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">TIPVISITA</p>
+<p>RESIDE_CP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de la visita.</p>
+<p>Código postal del domicilio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. Contacto inicial.</p>
-<p class="cuerpo_tabla_izq">2. Contacto sucesivo.</p>
-<p class="cuerpo_tabla_izq">9. Desconocido.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>53+ código ISO país para residentes en el extranjero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PROCEDENCIA</p>
+<p>RESIDE_MUNI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Solicitante del contacto.</p>
+<p>Código de municipio del domicilio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10. Atención Primaria.</p>
-<p class="cuerpo_tabla_izq">21. Servicios del propio hospital: Urgencias.</p>
-<p class="cuerpo_tabla_izq">22. Servicios del propio hospital: Cirugía ambulatoria.</p>
-<p class="cuerpo_tabla_izq">23. Servicios del propio hospital: Hospital de día médico.</p>
-<p class="cuerpo_tabla_izq">24. Servicios del propio hospital: Hospitalización.</p>
-<p class="cuerpo_tabla_izq">25. Servicios del propio hospital: Hospitalización a domicilio.</p>
-<p class="cuerpo_tabla_izq">26. Servicios del propio hospital: Procedimientos de especial complejidad.</p>
-<p class="cuerpo_tabla_izq">27. Servicios del propio hospital: Consultas.</p>
-<p class="cuerpo_tabla_izq">28. Otros servicios.</p>
-<p class="cuerpo_tabla_izq">30. Servicios de otro hospital/centro sanitario.</p>
-<p class="cuerpo_tabla_izq">40. Por iniciativa del paciente.</p>
-<p class="cuerpo_tabla_izq">50. Emergencias médicas.</p>
-<p class="cuerpo_tabla_izq">60. Centro sociosanitario.</p>
-<p class="cuerpo_tabla_izq">70. Por orden judicial.</p>
-<p class="cuerpo_tabla_izq">80. Otros.</p>
-<p class="cuerpo_tabla_izq">90. Desconocido.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>530 + código ISO país para residentes en el extranjero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CIRCONT</p>
+<p>REGFIN</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Circunstancias del contacto.</p>
+<p>Régimen de financiación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. No programado.</p>
-<p class="cuerpo_tabla_izq">2. Programado.</p>
-<p class="cuerpo_tabla_izq">9. Desconocido.</p>
+<p>1. Sistema Nacional de Salud (SNS).</p>
+<p>2. Reglamentos europeos y convenios bilaterales.</p>
+<p>3. Mutualidades de funcionarios del estado y otras AAPP.</p>
+<p>4. Mutuas colaboradoras con la Seguridad Social.</p>
+<p>5. Accidentes de tráfico.</p>
+<p>6. Financiación privada directa (personas físicas).</p>
+<p>7. Financiación privada mediante seguro privado (Compañías de seguro sanitario).</p>
+<p>8. Asistencia sanitaria transfronteriza.</p>
+<p>9. Otros y Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">SERVICIO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Código del Servicio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ver listado de servicios en el anexo II.b.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECFINCONT</p>
+<p>FECINICONT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha y hora de fin del contacto.</p>
+<p>Fecha y hora de inicio del contacto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha</p>
-<p class="cuerpo_tabla_izq">(ddmmaaaa hhmi).</p>
+<p>Fecha</p>
+<p>(ddmmaaaa hhmi).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En caso de no conocerse la hora-min consignar 9999.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">TIPALT</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Destino tras el contacto.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Domicilio.</p>
-<p class="cuerpo_tabla_izq">2. Traslado a otro Hospital.</p>
-<p class="cuerpo_tabla_izq">3. Alta voluntaria.</p>
-<p class="cuerpo_tabla_izq">4. Exitus.</p>
-<p class="cuerpo_tabla_izq">5. Traslado a centro sociosanitario.</p>
-<p class="cuerpo_tabla_izq">8. Otros.</p>
-<p class="cuerpo_tabla_izq">9. Desconocido.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>En caso de no conocerse la hora-min consignar 9999.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSITIVO CONTINUIDAD</p>
+<p>FECINGHOSP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Continuidad asistencial.</p>
+<p>Fecha y hora de curso de la orden de ingreso del paciente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. No precisa.</p>
-<p class="cuerpo_tabla_izq">2. Hospitalización en el propio hospital.</p>
-<p class="cuerpo_tabla_izq">3. Hospitalización a domicilio.</p>
-<p class="cuerpo_tabla_izq">4. Hospital de día médico.</p>
-<p class="cuerpo_tabla_izq">5. Urgencias.</p>
-<p class="cuerpo_tabla_izq">6. Consultas.</p>
-<p class="cuerpo_tabla_izq">8. Otros.</p>
-<p class="cuerpo_tabla_izq">9. Desconocido.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Fecha</p>
+<p>(ddmmaaaa hhmi).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>En caso de no conocerse la hora-min consignar 9999.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FECINT</p>
+<p>TIPCONT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha y hora de la intervención.</p>
+<p>Tipo de contacto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1. Hospitalización.</p>
+<p>2. Hospitalización a domicilio.</p>
+<p>3. Hospital de día médico.</p>
+<p>4. Cirugía ambulatoria.</p>
+<p>5. Procedimientos ambulatorios de especial complejidad.</p>
+<p>6. Urgencias.</p>
+<p>8. Otros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha</p>
-<p class="cuerpo_tabla_izq">(ddmmaaaa hhmi).</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En caso de no conocerse la hora-min consignar 9999.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">UCI</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ingreso en UCI.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. SÍ.</p>
-<p class="cuerpo_tabla_izq">2. NO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DIAS_UCI</p>
+<p>TIPVISITA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Días de estancia en UCI.</p>
+<p>Tipo de la visita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1. Contacto inicial.</p>
+<p>2. Contacto sucesivo.</p>
+<p>9. Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Numérico.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Diagnóstico Principal.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CIE10ES (a partir del 1 de enero de 2016).</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">POAD1</p>
+<p>PROCEDENCIA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marcador POA del diagnóstico principal.</p>
-<p class="cuerpo_tabla_izq">Diagnóstico Principal presente al ingreso.</p>
+<p>Solicitante del contacto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">S. SÍ.</p>
-<p class="cuerpo_tabla_izq">N. NO.</p>
-<p class="cuerpo_tabla_izq">D. Desconocido.</p>
-<p class="cuerpo_tabla_izq">I. Indeterminado clínicamente.</p>
-<p class="cuerpo_tabla_izq">E. Exento.</p>
+<p>10. Atención Primaria.</p>
+<p>21. Servicios del propio hospital: Urgencias.</p>
+<p>22. Servicios del propio hospital: Cirugía ambulatoria.</p>
+<p>23. Servicios del propio hospital: Hospital de día médico.</p>
+<p>24. Servicios del propio hospital: Hospitalización.</p>
+<p>25. Servicios del propio hospital: Hospitalización a domicilio.</p>
+<p>26. Servicios del propio hospital: Procedimientos de especial complejidad.</p>
+<p>27. Servicios del propio hospital: Consultas.</p>
+<p>28. Otros servicios.</p>
+<p>30. Servicios de otro hospital/centro sanitario.</p>
+<p>40. Por iniciativa del paciente.</p>
+<p>50. Emergencias médicas.</p>
+<p>60. Centro sociosanitario.</p>
+<p>70. Por orden judicial.</p>
+<p>80. Otros.</p>
+<p>90. Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">D2 - D20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Diagnósticos secundarios (hasta un máximo de 19).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CIE10ES (a partir del 1 de enero de 2016).</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">POAD2 - POAD20</p>
+<p>CIRCONT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marcador POA de los diagnósticos secundarios.</p>
-<p class="cuerpo_tabla_izq">Diagnóstico presente al ingreso.</p>
+<p>Circunstancias del contacto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">S. SÍ.</p>
-<p class="cuerpo_tabla_izq">N. NO.</p>
-<p class="cuerpo_tabla_izq">D. Desconocido.</p>
-<p class="cuerpo_tabla_izq">I. Indeterminado clínicamente.</p>
-<p class="cuerpo_tabla_izq">E. Exento.</p>
+<p>1. No programado.</p>
+<p>2. Programado.</p>
+<p>9. Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">27</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PROC1- PROC20</p>
+<p>SERVICIO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Procedimientos en el centro (1 al 20).</p>
+<p>Código del Servicio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Ver listado de servicios en el anexo II.b.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CIE10ES (a partir del 1 de enero de 2016).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PROCEXT1 - PROCEXT6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Procedimientos en otros centros (1 al 6).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CIE10ES (a partir del 1 de enero de 2016).</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">M1 M6</p>
+<p>FECFINCONT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Morfología de neoplasias (1 a 6).</p>
+<p>Fecha y hora de fin del contacto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Fecha</p>
+<p>(ddmmaaaa hhmi).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CIEO (a partir del 1 de enero de 2016).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CEN_ SAN</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Centro sanitario.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Código del Catálogo Nacional de hospitales o del REGCESS<sup>(2)</sup></p>
+<p>En caso de no conocerse la hora-min consignar 9999.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CCAA</p>
+<p>TIPALT</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comunidad Autónoma.</p>
+<p>Destino tras el contacto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anexo II.c.</p>
+<p>1. Domicilio.</p>
+<p>2. Traslado a otro Hospital.</p>
+<p>3. Alta voluntaria.</p>
+<p>4. Exitus.</p>
+<p>5. Traslado a centro sociosanitario.</p>
+<p>8. Otros.</p>
+<p>9. Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carácter.</p>
+<p>Carácter.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código INE de Comunidad Autónoma.</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>DISPOSITIVO CONTINUIDAD</p>
+</td>
+<td>
+<p>Continuidad asistencial.</p>
+</td>
+<td>
+<p>1. No precisa.</p>
+<p>2. Hospitalización en el propio hospital.</p>
+<p>3. Hospitalización a domicilio.</p>
+<p>4. Hospital de día médico.</p>
+<p>5. Urgencias.</p>
+<p>6. Consultas.</p>
+<p>8. Otros.</p>
+<p>9. Desconocido.</p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>FECINT</p>
+</td>
+<td>
+<p>Fecha y hora de la intervención.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Fecha</p>
+<p>(ddmmaaaa hhmi).</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>En caso de no conocerse la hora-min consignar 9999.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>UCI</p>
+</td>
+<td>
+<p>Ingreso en UCI.</p>
+</td>
+<td>
+<p>1. SÍ.</p>
+<p>2. NO.</p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>DIAS_UCI</p>
+</td>
+<td>
+<p>Días de estancia en UCI.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>D1</p>
+</td>
+<td>
+<p>Diagnóstico Principal.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>CIE10ES (a partir del 1 de enero de 2016).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>POAD1</p>
+</td>
+<td>
+<p>Marcador POA del diagnóstico principal.</p>
+<p>Diagnóstico Principal presente al ingreso.</p>
+</td>
+<td>
+<p>S. SÍ.</p>
+<p>N. NO.</p>
+<p>D. Desconocido.</p>
+<p>I. Indeterminado clínicamente.</p>
+<p>E. Exento.</p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>D2 - D20</p>
+</td>
+<td>
+<p>Diagnósticos secundarios (hasta un máximo de 19).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>CIE10ES (a partir del 1 de enero de 2016).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26</p>
+</td>
+<td>
+<p>POAD2 - POAD20</p>
+</td>
+<td>
+<p>Marcador POA de los diagnósticos secundarios.</p>
+<p>Diagnóstico presente al ingreso.</p>
+</td>
+<td>
+<p>S. SÍ.</p>
+<p>N. NO.</p>
+<p>D. Desconocido.</p>
+<p>I. Indeterminado clínicamente.</p>
+<p>E. Exento.</p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>PROC1- PROC20</p>
+</td>
+<td>
+<p>Procedimientos en el centro (1 al 20).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>CIE10ES (a partir del 1 de enero de 2016).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>PROCEXT1 - PROCEXT6</p>
+</td>
+<td>
+<p>Procedimientos en otros centros (1 al 6).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>CIE10ES (a partir del 1 de enero de 2016).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>M1 M6</p>
+</td>
+<td>
+<p>Morfología de neoplasias (1 a 6).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>CIEO (a partir del 1 de enero de 2016).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>CEN_ SAN</p>
+</td>
+<td>
+<p>Centro sanitario.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Código del Catálogo Nacional de hospitales o del REGCESS<sup>(2)</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>31</p>
+</td>
+<td>
+<p>CCAA</p>
+</td>
+<td>
+<p>Comunidad Autónoma.</p>
+</td>
+<td>
+<p>Anexo II.c.</p>
+</td>
+<td>
+<p>Carácter.</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Código INE de Comunidad Autónoma.</p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<p class="cita"><sup>(1)</sup> Los valores posibles son los establecidos con números o letras para cada variable y, en su caso, las clasificaciones o listados de referencia que se señalan en la columna de «observaciones».</p>
-<p class="cita"><sup>(2)</sup> Registro General de Centros Establecimientos y Servicios Sanitarios Orden SCO/3866/2007, de 18 de diciembre, por la que se establece el contenido y la estructura del Registro General de centros, servicios y establecimientos sanitarios del Ministerio de Sanidad y Consumo.</p>
+<p><sup>(1)</sup> Los valores posibles son los establecidos con números o letras para cada variable y, en su caso, las clasificaciones o listados de referencia que se señalan en la columna de «observaciones».</p>
+<p><sup>(2)</sup> Registro General de Centros Establecimientos y Servicios Sanitarios Orden SCO/3866/2007, de 18 de diciembre, por la que se establece el contenido y la estructura del Registro General de centros, servicios y establecimientos sanitarios del Ministerio de Sanidad y Consumo.</p>
 </td>
 </tr>
 </tbody>
@@ -1720,1719 +1720,1719 @@ Tabla de Códigos de Comunidades Autónomas
 
 Tabla de Códigos ISO de países<sup>(1)</sup>
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Código numérico</p>
+<p>Código numérico</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre</p>
+<p>Nombre</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código numérico</p>
+<p>Código numérico</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre</p>
+<p>Nombre</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">004</p>
+<p>004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Afganistán.</p>
+<p>Afganistán.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">096</p>
+<p>096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Brunéi.</p>
+<p>Brunéi.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">248</p>
+<p>248</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Åland.</p>
+<p>Åland.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bulgaria.</p>
+<p>Bulgaria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">008</p>
+<p>008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Albania.</p>
+<p>Albania.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">854</p>
+<p>854</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Burkina Faso.</p>
+<p>Burkina Faso.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">276</p>
+<p>276</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alemania.</p>
+<p>Alemania.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">108</p>
+<p>108</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Burundi.</p>
+<p>Burundi.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">020</p>
+<p>020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Andorra.</p>
+<p>Andorra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">064</p>
+<p>064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bután.</p>
+<p>Bután.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">024</p>
+<p>024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Angola.</p>
+<p>Angola.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">132</p>
+<p>132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cabo Verde.</p>
+<p>Cabo Verde.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anguila.</p>
+<p>Anguila.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">116</p>
+<p>116</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camboya.</p>
+<p>Camboya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">028</p>
+<p>028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Antigua y Barbuda.</p>
+<p>Antigua y Barbuda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Camerún.</p>
+<p>Camerún.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">682</p>
+<p>682</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arabia Saudita.</p>
+<p>Arabia Saudita.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">124</p>
+<p>124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canadá.</p>
+<p>Canadá.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">012</p>
+<p>012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Argelia.</p>
+<p>Argelia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">634</p>
+<p>634</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Catar.</p>
+<p>Catar.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">032</p>
+<p>032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Argentina.</p>
+<p>Argentina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">535</p>
+<p>535</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caribe Neerlandés.</p>
+<p>Caribe Neerlandés.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">051</p>
+<p>051</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Armenia.</p>
+<p>Armenia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">148</p>
+<p>148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chad.</p>
+<p>Chad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">533</p>
+<p>533</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aruba.</p>
+<p>Aruba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">152</p>
+<p>152</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chile.</p>
+<p>Chile.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">036</p>
+<p>036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Australia.</p>
+<p>Australia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">156</p>
+<p>156</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">China.</p>
+<p>China.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">040</p>
+<p>040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Austria.</p>
+<p>Austria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">196</p>
+<p>196</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Chipre.</p>
+<p>Chipre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">031</p>
+<p>031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Azerbaiyán.</p>
+<p>Azerbaiyán.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">170</p>
+<p>170</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colombia.</p>
+<p>Colombia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">044</p>
+<p>044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bahamas.</p>
+<p>Bahamas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">174</p>
+<p>174</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comoras.</p>
+<p>Comoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">050</p>
+<p>050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bangladés.</p>
+<p>Bangladés.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">408</p>
+<p>408</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corea del Norte.</p>
+<p>Corea del Norte.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">052</p>
+<p>052</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Barbados.</p>
+<p>Barbados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">410</p>
+<p>410</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corea del Sur.</p>
+<p>Corea del Sur.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">048</p>
+<p>048</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bahréin.</p>
+<p>Bahréin.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">384</p>
+<p>384</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Costa de Marfil.</p>
+<p>Costa de Marfil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">056</p>
+<p>056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bélgica.</p>
+<p>Bélgica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">188</p>
+<p>188</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Costa Rica.</p>
+<p>Costa Rica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">084</p>
+<p>084</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Belice.</p>
+<p>Belice.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">191</p>
+<p>191</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Croacia.</p>
+<p>Croacia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">204</p>
+<p>204</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Benín.</p>
+<p>Benín.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">192</p>
+<p>192</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuba.</p>
+<p>Cuba.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">060</p>
+<p>060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bermudas.</p>
+<p>Bermudas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">531</p>
+<p>531</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curazao.</p>
+<p>Curazao.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">112</p>
+<p>112</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bielorrusia.</p>
+<p>Bielorrusia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">208</p>
+<p>208</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dinamarca.</p>
+<p>Dinamarca.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">104</p>
+<p>104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Birmania.</p>
+<p>Birmania.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">212</p>
+<p>212</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dominica.</p>
+<p>Dominica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">068</p>
+<p>068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bolivia.</p>
+<p>Bolivia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">218</p>
+<p>218</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ecuador.</p>
+<p>Ecuador.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">070</p>
+<p>070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bosnia y Herzegovina.</p>
+<p>Bosnia y Herzegovina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">818</p>
+<p>818</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Egipto.</p>
+<p>Egipto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">072</p>
+<p>072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Botsuana.</p>
+<p>Botsuana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">222</p>
+<p>222</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El Salvador.</p>
+<p>El Salvador.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">076</p>
+<p>076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Brasil.</p>
+<p>Brasil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">784</p>
+<p>784</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Emiratos Árabes Unidos.</p>
+<p>Emiratos Árabes Unidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">232</p>
+<p>232</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Eritrea.</p>
+<p>Eritrea.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">344</p>
+<p>344</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hong Kong.</p>
+<p>Hong Kong.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">703</p>
+<p>703</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Eslovaquia.</p>
+<p>Eslovaquia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">348</p>
+<p>348</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hungría.</p>
+<p>Hungría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">705</p>
+<p>705</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Eslovenia.</p>
+<p>Eslovenia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">356</p>
+<p>356</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">India.</p>
+<p>India.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">724</p>
+<p>724</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">España.</p>
+<p>España.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">360</p>
+<p>360</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Indonesia.</p>
+<p>Indonesia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">840</p>
+<p>840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estados Unidos.</p>
+<p>Estados Unidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">368</p>
+<p>368</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Irak.</p>
+<p>Irak.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">233</p>
+<p>233</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estonia.</p>
+<p>Estonia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">364</p>
+<p>364</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Irán.</p>
+<p>Irán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">231</p>
+<p>231</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Etiopía.</p>
+<p>Etiopía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">372</p>
+<p>372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Irlanda.</p>
+<p>Irlanda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">608</p>
+<p>608</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Filipinas.</p>
+<p>Filipinas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">833</p>
+<p>833</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Isla de Man.</p>
+<p>Isla de Man.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">246</p>
+<p>246</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Finlandia.</p>
+<p>Finlandia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">574</p>
+<p>574</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Norfolk.</p>
+<p>Norfolk.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">242</p>
+<p>242</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fiyi.</p>
+<p>Fiyi.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">352</p>
+<p>352</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islandia.</p>
+<p>Islandia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Francia.</p>
+<p>Francia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">136</p>
+<p>136</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Caimán.</p>
+<p>Islas Caimán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">266</p>
+<p>266</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gabón.</p>
+<p>Gabón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">184</p>
+<p>184</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Cook.</p>
+<p>Islas Cook.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">270</p>
+<p>270</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gambia.</p>
+<p>Gambia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">234</p>
+<p>234</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Feroe.</p>
+<p>Islas Feroe.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">268</p>
+<p>268</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Georgia.</p>
+<p>Georgia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">238</p>
+<p>238</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Malvinas.</p>
+<p>Islas Malvinas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">288</p>
+<p>288</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ghana.</p>
+<p>Ghana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">580</p>
+<p>580</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Marianas del Norte.</p>
+<p>Islas Marianas del Norte.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">292</p>
+<p>292</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gibraltar.</p>
+<p>Gibraltar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">584</p>
+<p>584</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Marshall.</p>
+<p>Islas Marshall.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">308</p>
+<p>308</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Granada.</p>
+<p>Granada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">612</p>
+<p>612</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Pitcairn.</p>
+<p>Islas Pitcairn.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grecia.</p>
+<p>Grecia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">090</p>
+<p>090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Salomón.</p>
+<p>Islas Salomón.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">304</p>
+<p>304</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Groenlandia.</p>
+<p>Groenlandia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">796</p>
+<p>796</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Turcas y Caicos.</p>
+<p>Islas Turcas y Caicos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">312</p>
+<p>312</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guadalupe.</p>
+<p>Guadalupe.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">581</p>
+<p>581</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas ultramarinas de Estados Unidos.</p>
+<p>Islas ultramarinas de Estados Unidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">316</p>
+<p>316</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guam.</p>
+<p>Guam.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">092</p>
+<p>092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Vírgenes Británicas.</p>
+<p>Islas Vírgenes Británicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">320</p>
+<p>320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guatemala.</p>
+<p>Guatemala.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">850</p>
+<p>850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Islas Vírgenes de los Estados Unidos.</p>
+<p>Islas Vírgenes de los Estados Unidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">254</p>
+<p>254</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guayana Francesa.</p>
+<p>Guayana Francesa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">376</p>
+<p>376</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Israel.</p>
+<p>Israel.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">831</p>
+<p>831</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guernsey.</p>
+<p>Guernsey.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">380</p>
+<p>380</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Italia.</p>
+<p>Italia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">324</p>
+<p>324</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guinea.</p>
+<p>Guinea.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">388</p>
+<p>388</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jamaica.</p>
+<p>Jamaica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">624</p>
+<p>624</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guinea-Bisáu.</p>
+<p>Guinea-Bisáu.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">392</p>
+<p>392</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Japón.</p>
+<p>Japón.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">226</p>
+<p>226</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guinea Ecuatorial.</p>
+<p>Guinea Ecuatorial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">832</p>
+<p>832</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jersey.</p>
+<p>Jersey.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">328</p>
+<p>328</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Guyana.</p>
+<p>Guyana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400</p>
+<p>400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jordania.</p>
+<p>Jordania.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">332</p>
+<p>332</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Haití.</p>
+<p>Haití.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">398</p>
+<p>398</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Kazajistán.</p>
+<p>Kazajistán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">340</p>
+<p>340</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Honduras.</p>
+<p>Honduras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">404</p>
+<p>404</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Kenia.</p>
+<p>Kenia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">417</p>
+<p>417</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Kirguistán.</p>
+<p>Kirguistán.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montserrat.</p>
+<p>Montserrat.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">296</p>
+<p>296</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Kiribati.</p>
+<p>Kiribati.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">508</p>
+<p>508</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mozambique.</p>
+<p>Mozambique.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">414</p>
+<p>414</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Kuwait.</p>
+<p>Kuwait.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">516</p>
+<p>516</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Namibia.</p>
+<p>Namibia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">418</p>
+<p>418</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laos.</p>
+<p>Laos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">520</p>
+<p>520</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nauru.</p>
+<p>Nauru.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">426</p>
+<p>426</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lesoto.</p>
+<p>Lesoto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">524</p>
+<p>524</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nepal.</p>
+<p>Nepal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">428</p>
+<p>428</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Letonia.</p>
+<p>Letonia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">558</p>
+<p>558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nicaragua.</p>
+<p>Nicaragua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">422</p>
+<p>422</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Líbano.</p>
+<p>Líbano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">562</p>
+<p>562</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Níger.</p>
+<p>Níger.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">430</p>
+<p>430</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Liberia.</p>
+<p>Liberia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">566</p>
+<p>566</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nigeria.</p>
+<p>Nigeria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">434</p>
+<p>434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Libia.</p>
+<p>Libia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">570</p>
+<p>570</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Niue.</p>
+<p>Niue.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">438</p>
+<p>438</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Liechtenstein.</p>
+<p>Liechtenstein.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">578</p>
+<p>578</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Noruega.</p>
+<p>Noruega.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">440</p>
+<p>440</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lituania.</p>
+<p>Lituania.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">540</p>
+<p>540</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nueva Caledonia.</p>
+<p>Nueva Caledonia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">442</p>
+<p>442</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Luxemburgo.</p>
+<p>Luxemburgo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">554</p>
+<p>554</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nueva Zelanda.</p>
+<p>Nueva Zelanda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">446</p>
+<p>446</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Macao.</p>
+<p>Macao.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">512</p>
+<p>512</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Omán.</p>
+<p>Omán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">450</p>
+<p>450</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madagascar.</p>
+<p>Madagascar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">528</p>
+<p>528</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Países Bajos.</p>
+<p>Países Bajos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">458</p>
+<p>458</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Malasia.</p>
+<p>Malasia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">586</p>
+<p>586</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pakistán.</p>
+<p>Pakistán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">454</p>
+<p>454</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Malaui.</p>
+<p>Malaui.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">585</p>
+<p>585</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palaos.</p>
+<p>Palaos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">462</p>
+<p>462</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Maldivas.</p>
+<p>Maldivas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">275</p>
+<p>275</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estado de Palestina.</p>
+<p>Estado de Palestina.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">466</p>
+<p>466</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Malí.</p>
+<p>Malí.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">591</p>
+<p>591</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Panamá.</p>
+<p>Panamá.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">470</p>
+<p>470</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Malta.</p>
+<p>Malta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">598</p>
+<p>598</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Papúa Nueva Guinea.</p>
+<p>Papúa Nueva Guinea.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">504</p>
+<p>504</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marruecos.</p>
+<p>Marruecos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">600</p>
+<p>600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Paraguay.</p>
+<p>Paraguay.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">474</p>
+<p>474</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Martinica.</p>
+<p>Martinica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">604</p>
+<p>604</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Perú.</p>
+<p>Perú.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">480</p>
+<p>480</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mauricio.</p>
+<p>Mauricio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">258</p>
+<p>258</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Polinesia Francesa.</p>
+<p>Polinesia Francesa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">478</p>
+<p>478</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mauritania.</p>
+<p>Mauritania.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">616</p>
+<p>616</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Polonia.</p>
+<p>Polonia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">175</p>
+<p>175</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mayotte.</p>
+<p>Mayotte.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">620</p>
+<p>620</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Portugal.</p>
+<p>Portugal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">484</p>
+<p>484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">México.</p>
+<p>México.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630</p>
+<p>630</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puerto Rico.</p>
+<p>Puerto Rico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">583</p>
+<p>583</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Micronesia.</p>
+<p>Micronesia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">826</p>
+<p>826</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reino Unido.</p>
+<p>Reino Unido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">498</p>
+<p>498</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Moldavia.</p>
+<p>Moldavia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">140</p>
+<p>140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">República Centroafricana.</p>
+<p>República Centroafricana.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">492</p>
+<p>492</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mónaco.</p>
+<p>Mónaco.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">203</p>
+<p>203</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">República Checa.</p>
+<p>República Checa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">496</p>
+<p>496</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mongolia.</p>
+<p>Mongolia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">807</p>
+<p>807</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">República de Macedonia.</p>
+<p>República de Macedonia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">499</p>
+<p>499</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Montenegro.</p>
+<p>Montenegro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">178</p>
+<p>178</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">República del Congo.</p>
+<p>República del Congo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">República Democrática del Congo.</p>
+<p>República Democrática del Congo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">728</p>
+<p>728</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sudán del Sur.</p>
+<p>Sudán del Sur.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">214</p>
+<p>214</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">República Dominicana.</p>
+<p>República Dominicana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">752</p>
+<p>752</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suecia.</p>
+<p>Suecia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">638</p>
+<p>638</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reunión.</p>
+<p>Reunión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">756</p>
+<p>756</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suiza.</p>
+<p>Suiza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">646</p>
+<p>646</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ruanda.</p>
+<p>Ruanda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">740</p>
+<p>740</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Surinam.</p>
+<p>Surinam.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">642</p>
+<p>642</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rumania.</p>
+<p>Rumania.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">744</p>
+<p>744</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Svalbard y Jan Mayen.</p>
+<p>Svalbard y Jan Mayen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">643</p>
+<p>643</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Rusia.</p>
+<p>Rusia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">764</p>
+<p>764</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tailandia.</p>
+<p>Tailandia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">732</p>
+<p>732</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sahara Occidental.</p>
+<p>Sahara Occidental.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">834</p>
+<p>834</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tanzania.</p>
+<p>Tanzania.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">882</p>
+<p>882</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Samoa.</p>
+<p>Samoa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">762</p>
+<p>762</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tayikistán.</p>
+<p>Tayikistán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">016</p>
+<p>016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Samoa Americana.</p>
+<p>Samoa Americana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">626</p>
+<p>626</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Timor Oriental.</p>
+<p>Timor Oriental.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">652</p>
+<p>652</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Bartolomé.</p>
+<p>San Bartolomé.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">768</p>
+<p>768</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Togo.</p>
+<p>Togo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">659</p>
+<p>659</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Cristóbal y Nieves.</p>
+<p>San Cristóbal y Nieves.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">772</p>
+<p>772</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tokelau.</p>
+<p>Tokelau.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">674</p>
+<p>674</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Marino.</p>
+<p>San Marino.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">776</p>
+<p>776</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tonga.</p>
+<p>Tonga.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">663</p>
+<p>663</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Martín.</p>
+<p>San Martín.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">780</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trinidad y Tobago.</p>
+<p>Trinidad y Tobago.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">666</p>
+<p>666</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Pedro y Miquelón.</p>
+<p>San Pedro y Miquelón.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">788</p>
+<p>788</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Túnez.</p>
+<p>Túnez.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">670</p>
+<p>670</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">San Vicente y las Granadinas.</p>
+<p>San Vicente y las Granadinas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">795</p>
+<p>795</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turkmenistán.</p>
+<p>Turkmenistán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">654</p>
+<p>654</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Helena, A. y T.</p>
+<p>Santa Helena, A. y T.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">792</p>
+<p>792</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Turquía.</p>
+<p>Turquía.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">662</p>
+<p>662</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santa Lucía.</p>
+<p>Santa Lucía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">798</p>
+<p>798</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tuvalu.</p>
+<p>Tuvalu.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">678</p>
+<p>678</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Santo Tomé y Príncipe.</p>
+<p>Santo Tomé y Príncipe.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">804</p>
+<p>804</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ucrania.</p>
+<p>Ucrania.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">686</p>
+<p>686</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Senegal.</p>
+<p>Senegal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">800</p>
+<p>800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Uganda.</p>
+<p>Uganda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">688</p>
+<p>688</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Serbia.</p>
+<p>Serbia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">858</p>
+<p>858</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Uruguay.</p>
+<p>Uruguay.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">690</p>
+<p>690</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seychelles.</p>
+<p>Seychelles.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">860</p>
+<p>860</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Uzbekistán.</p>
+<p>Uzbekistán.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">694</p>
+<p>694</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sierra Leona.</p>
+<p>Sierra Leona.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">548</p>
+<p>548</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vanuatu.</p>
+<p>Vanuatu.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">702</p>
+<p>702</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Singapur.</p>
+<p>Singapur.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">336</p>
+<p>336</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciudad del Vaticano.</p>
+<p>Ciudad del Vaticano.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">534</p>
+<p>534</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sint Maarten.</p>
+<p>Sint Maarten.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">862</p>
+<p>862</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Venezuela.</p>
+<p>Venezuela.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">760</p>
+<p>760</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Siria.</p>
+<p>Siria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">704</p>
+<p>704</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vietnam.</p>
+<p>Vietnam.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">706</p>
+<p>706</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Somalia.</p>
+<p>Somalia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">876</p>
+<p>876</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Wallis y Futuna.</p>
+<p>Wallis y Futuna.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">144</p>
+<p>144</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sri Lanka.</p>
+<p>Sri Lanka.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">887</p>
+<p>887</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Yemen.</p>
+<p>Yemen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">748</p>
+<p>748</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suazilandia.</p>
+<p>Suazilandia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">262</p>
+<p>262</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Yibuti.</p>
+<p>Yibuti.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">710</p>
+<p>710</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sudáfrica.</p>
+<p>Sudáfrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">894</p>
+<p>894</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zambia.</p>
+<p>Zambia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">729</p>
+<p>729</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sudán.</p>
+<p>Sudán.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">716</p>
+<p>716</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zimbabue.</p>
+<p>Zimbabue.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ZZZ</p>
+<p>ZZZ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desconocido.</p>
+<p>Desconocido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Norma ISO 3166, de la Organización internacional para la Estandarización, en su versión ISO 3166-1 (código alfanumérico, a tres dígitos), corresponde al definido por la División estadística de las Naciones Unidas.</p>
+<p><sup>(1)</sup> Norma ISO 3166, de la Organización internacional para la Estandarización, en su versión ISO 3166-1 (código alfanumérico, a tres dígitos), corresponde al definido por la División estadística de las Naciones Unidas.</p>
 </td>
 </tr>
 </tbody>

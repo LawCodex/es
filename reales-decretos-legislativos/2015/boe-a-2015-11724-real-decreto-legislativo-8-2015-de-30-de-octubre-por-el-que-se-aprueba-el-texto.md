@@ -350,8 +350,6 @@ La base de cotización para la contingencia de desempleo, en todos los regímene
 
 De igual modo, la base de cotización para determinar las aportaciones al Fondo de Garantía Salarial y para formación profesional, en todos los regímenes de la Seguridad Social en los que exista la obligación de efectuarlas, será la correspondiente a las contingencias de accidentes de trabajo y enfermedades profesionales.
 
-> Téngase en cuenta que esta actualización, por la que se renumera el apartado 3 como 4 y se añade un nuevo apartado 3, establecida por el art. único.1 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2024, según establece su disposición final 10.
-
 > Se renumera el apartado 3 como 4 y se añade un nuevo apartado 3 por el art. único.1 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
 > Esta modificación entra en vigor el 1 de enero de 2024, según establece la disposición final 10 del citado Real Decreto-ley. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
@@ -363,8 +361,6 @@ El importe de las retribuciones a las que se refiere el artículo 147, que super
 La cuota de solidaridad será el resultado de aplicar un tipo del 5,5 por ciento a la parte de retribución comprendida entre la base máxima de cotización y la cantidad superior a la referida base máxima en un 10 por ciento; el tipo del 6 por ciento a la parte de retribución comprendida entre el 10 por ciento superior a la base máxima de cotización y el 50 por ciento; y el tipo del 7 por ciento a la parte de retribución que supere el anterior porcentaje.
 
 La distribución del tipo de cotización por solidaridad entre empresario y trabajador mantendrá la misma proporción que la distribución del tipo de cotización por contingencias comunes.
-
-> Téngase en cuenta que este artículo, añadido por el art. único.2 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2025, según establece su disposición final 10.
 
 > Se añade por el art. único.2 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
@@ -553,24 +549,6 @@ b) Cuando los sujetos responsables del pago no hubieran cumplido dentro de plazo
 2.º Recargo del 35 por ciento de la deuda, si se abonasen las cuotas debidas a partir de la terminación de dicho plazo de ingreso.
 
 2\. Las deudas con la Seguridad Social que tengan carácter de ingresos de derecho público y cuyo objeto esté constituido por recursos distintos a cuotas, cuando no se abonen dentro del plazo reglamentario que tengan establecido se incrementarán con el recargo del 20 por ciento.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. 1 de la Ley 6/2017, de 24 de octubre. Ref. BOE-A-2017-12207#ar, entra en vigor el 1 de enero de 2018, según determina su disposición final 13.
-
-> Redacción anterior:
-
-> "Artículo 30. Recargos por ingreso fuera de plazo.
-
-> 1\. Transcurrido el plazo reglamentario establecido para el pago de las cuotas a la Seguridad Social sin ingreso de las mismas y sin perjuicio de las especialidades previstas para los aplazamientos, se devengarán los siguientes recargos:
-
-> a) Cuando los sujetos responsables del pago hubieran cumplido dentro de plazo las obligaciones establecidas en los apartados 1 y 2 del artículo 29, un recargo del 20 por ciento de la deuda, si se abonasen las cuotas debidas tras el vencimiento del plazo para su ingreso.
-
-> b) Cuando los sujetos responsables del pago no hubieran cumplido dentro de plazo las obligaciones establecidas en los apartados 1 y 2 del artículo 29:
-
-> 1.º Recargo del 20 por ciento de la deuda, si se abonasen las cuotas debidas antes de la terminación del plazo de ingreso establecido en la reclamación de deuda o acta de liquidación.
-
-> 2.º Recargo del 35 por ciento de la deuda, si se abonasen las cuotas debidas a partir de la terminación de dicho plazo de ingreso.
-
-> 2\. Las deudas con la Seguridad Social que tengan carácter de ingresos de derecho público y cuyo objeto esté constituido por recursos distintos a cuotas, cuando no se abonen dentro del plazo reglamentario que tengan establecido se incrementarán con el recargo previsto en el apartado 1.a)."
 
 > Se modifica, con efectos de 1 de enero de 2018, por el art. 1 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
 
@@ -888,8 +866,6 @@ Cuando se exija, legal o reglamentariamente, la no superación de un determinado
 
 2\. Lo establecido en el apartado anterior será igualmente aplicable a las pensiones que se reconozcan a *prorrata temporis* como consecuencia del cómputo de periodos que el otro Estado haya certificado expresamente como provisionales.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.3 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 17 de junio de 2023, según establece su disposición final 10.
-
 > Se añade por el art. único.3 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
 > Esta modificación entra en vigor el 17 de junio de 2023, según establece la disposición final 10 del citado Real Decreto-ley. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
@@ -964,12 +940,6 @@ En el caso de pensiones concurrentes, la suma de todas ellas no podrá superar e
 
 Si se extinguiera una de las pensiones concurrentes, la suma de las restantes no podrá superar la cuantía máxima vigente en el ejercicio en el que se reconoció la última pensión en vigor, sin perjuicio de las revalorizaciones ulteriores.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.4 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2025, según establece su disposición final 10.
-
-> Redacción anterior:
-
-> "El importe inicial de las pensiones contributivas de la Seguridad Social por cada beneficiario no podrá superar la cuantía íntegra mensual que establezca anualmente la correspondiente Ley de Presupuestos Generales del Estado."
-
 > Se modifica por el art. único.4 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
 > Esta modificación entra en vigor el 1 de enero de 2025, según establece la disposición final 10 del citado Real Decreto-ley. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
@@ -982,21 +952,9 @@ Si se extinguiera una de las pensiones concurrentes, la suma de las restantes no
 
 En ese mismo porcentaje se actualizarán anualmente en la correspondiente Ley de Presupuestos Generales del Estado la cuantía máxima de las pensiones a que se refiere el artículo 57 y la cuantía mínima de las pensiones prevista en el artículo 59.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. único.5 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2024, según establece su disposición final 10.
-
-> Redacción anterior:
-
-> "2. A estos efectos, las pensiones de Seguridad Social, en su modalidad contributiva, incluido el importe de la pensión mínima, se revalorizarán al comienzo de cada año en el porcentaje equivalente al valor medio de las tasas de variación interanual expresadas en tanto por ciento del Índice de Precios al Consumo de los doce meses previos a diciembre del año anterior."
-
 3\. Si el valor medio al que se refiere el apartado anterior fuera negativo, el importe de las pensiones no variará al comienzo del año.
 
 4\. **(Derogado)**
-
-> Téngase en cuenta que la derogación del apartado 4, establecida por la disposición derogatoria.3 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), produce efectos desde el 1 de enero de 2025.
-
-> Redacción anterior:
-
-> "4. El importe de la revalorización anual de las pensiones de la Seguridad Social no podrá determinar para estas, una vez revalorizadas, un valor íntegro anual superior a la cuantía establecida en la correspondiente Ley de Presupuestos Generales del Estado, sumado, en su caso, al importe anual íntegro ya revalorizado de las otras pensiones públicas percibidas por su titular."
 
 5\. La revalorización de pensiones reconocidas en virtud de normas internacionales de las que esté a cargo de la Seguridad Social española un tanto por ciento de su cuantía teórica se llevará a cabo aplicando dicho tanto por ciento al incremento que hubiera correspondido de hallarse a cargo de la Seguridad Social española el cien por cien de la citada pensión.
 
@@ -2505,14 +2463,6 @@ Igualmente, será nulo todo pacto que pretenda alterar las bases de cotización 
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, las empresas tendrán derecho a una reducción del 75 por ciento de las cuotas empresariales a la Seguridad Social por contingencias comunes durante la situación de incapacidad temporal de aquellos trabajadores que hubieran cumplido la edad de 62 años. A estas reducciones de cuotas no les resultará de aplicación lo establecido en el artículo 20.1.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. 1.1 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "4. La obligación de cotizar continuará en la situación de incapacidad temporal, cualquiera que sea su causa, incluidas las situaciones especiales de incapacidad temporal por menstruación incapacitante secundaria, interrupción del embarazo, sea voluntaria o no, y gestación desde el día primero de la semana trigésima novena; en la de nacimiento y cuidado de menor; en la de riesgo durante el embarazo y en la de riesgo durante la lactancia natural; así como en las demás situaciones previstas en el artículo 166 en que así se establezca reglamentariamente.
-
-> Sin perjuicio de lo dispuesto en el párrafo anterior, las empresas tendrán derecho a una reducción del 75 por ciento de las cuotas empresariales a la Seguridad Social por contingencias comunes durante la situación de incapacidad temporal de aquellos trabajadores que hubieran cumplido la edad de 62 años. A estas reducciones de cuotas no les resultará de aplicación lo establecido en el artículo 20.1."
-
 5\. La obligación de cotizar se suspenderá durante las situaciones de huelga y cierre patronal.
 
 6\. La obligación de cotizar por las contingencias de accidentes de trabajo y enfermedades profesionales existirá aunque la empresa, con infracción de lo dispuesto en esta ley, no tuviera establecida la protección de su personal, o de parte de él, respecto a dichas contingencias. En tal caso, las primas debidas se devengarán a favor de la Tesorería General de la Seguridad Social.
@@ -2584,8 +2534,6 @@ e) Las horas extraordinarias, salvo para la cotización por accidentes de trabaj
 3\. Los empresarios deberán comunicar a la Tesorería General de la Seguridad Social en cada período de liquidación el importe de todos los conceptos retributivos abonados a sus trabajadores, con independencia de su inclusión o no en la base de cotización a la Seguridad Social y aunque resulten de aplicación bases únicas.
 
 Las contribuciones empresariales satisfechas a los planes de pensiones, en su modalidad de sistema de empleo, en el marco del texto refundido de la Ley de Regulación de Planes y Fondos de Pensiones, aprobada por el Real Decreto Legislativo 1/2002, de 29 de noviembre, y a instrumentos de modalidad de empleo propios establecidos por la legislación de las Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social se deberán comunicar, respecto de cada trabajador, código de cuenta de cotización y período de liquidación a la Tesorería General de la Seguridad Social antes de solicitarse el cálculo de la liquidación de cuotas correspondiente.
-
-> Téngase en cuenta que el párrafo final del apartado 3, añadido por la disposición final 4.2 de la Ley 12/2022, de 30 de junio. [Ref. BOE-A-2022-10852](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10852), produce efectos desde el 1 de enero de 2023.
 
 4\. No obstante lo dispuesto en el apartado 2.e), el Ministerio de Empleo y Seguridad Social podrá establecer el cómputo de las horas extraordinarias, ya sea con carácter general, ya sea por sectores laborales en los que la prolongación de la jornada sea característica de su actividad.
 
@@ -2666,8 +2614,6 @@ Durante los períodos de suspensión temporal de contrato de trabajo y de reducc
 ###### Artículo 153 ter. Cotización de las personas pensionistas de jubilación cuando realicen actividades artísticas.
 
 Durante la realización de un trabajo por cuenta ajena regulado en el artículo 249 quater compatible con la pensión de jubilación, los empresarios estarán obligados a solicitar el alta y cotizar en el Régimen General de la Seguridad Social únicamente por contingencias profesionales, según la normativa reguladora de dicho régimen, si bien quedarán sujetos a una cotización especial de solidaridad del 9 por ciento sobre la base de cotización por contingencias comunes, no computable a efectos de prestaciones, que se distribuirá entre empresario y trabajador, quedando a cargo del empresario el 7 por ciento y del trabajador el 2 por ciento.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 4.6 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de abril de 2023, según establece su disposición final 13.c).
 
 > Se añade, con efectos de 1 de abril de 2023, por la disposición final 4.6 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
@@ -2869,18 +2815,6 @@ Se considerará también situación especial de incapacidad temporal por conting
 
 Se considerará situación especial de incapacidad temporal por contingencias comunes aquella en la que se encuentre la persona trabajadora donante de órganos o tejidos para su trasplante. Esta situación comprenderá tanto los días discontinuos como ininterrumpidos, en los que el donante reciba asistencia sanitaria de la Seguridad Social y esté impedido para el trabajo como consecuencia de la preparación médica de la cirugía, como los transcurridos desde el día del ingreso hospitalario para la realización de esta preparación o la realización del trasplante hasta que sea dado de alta por curación.
 
-> Téngase en cuenta que esta actualización de la letra a) del apartado 1, establecida por el art. 1.2 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. Tendrán la consideración de situaciones determinantes de incapacidad temporal:
-
-> a) Las debidas a enfermedad común o profesional y a accidente, sea o no de trabajo, mientras el trabajador reciba asistencia sanitaria de la Seguridad Social y esté impedido para el trabajo, con una duración máxima de trescientos sesenta y cinco días, prorrogables por otros ciento ochenta días cuando se presuma que durante ellos puede el trabajador ser dado de alta médica por curación.
-
-> Tendrán la consideración de situaciones especiales de incapacidad temporal por contingencias comunes aquellas en que pueda encontrarse la mujer en caso de menstruación incapacitante secundaria, así como la debida a la interrupción del embarazo, voluntaria o no, mientras reciba asistencia sanitaria por el Servicio Público de Salud y esté impedida para el trabajo, sin perjuicio de aquellos supuestos en que la interrupción del embarazo sea debida a accidente de trabajo o enfermedad profesional, en cuyo caso tendrá la consideración de situación de incapacidad temporal por contingencias profesionales.
-
-> Se considerará también situación especial de incapacidad temporal por contingencias comunes la de gestación de la mujer trabajadora desde el día primero de la semana trigésima novena."
-
 b) Los períodos de observación por enfermedad profesional en los que se prescriba la baja en el trabajo durante los mismos, con una duración máxima de ciento ochenta días, prorrogables por otros ciento ochenta días cuando se estime necesario para el estudio y diagnóstico de la enfermedad.
 
 2\. A efectos del período máximo de duración de la situación de incapacidad temporal que se señala en la letra a) del apartado anterior, y de su posible prórroga, se computarán los períodos de recaída y de observación.
@@ -2927,30 +2861,6 @@ Durante la prórroga de la situación de incapacidad temporal se mantendrá la c
 
 6\. Los procesos de impugnación de las altas médicas emitidas por el Instituto Nacional de la Seguridad Social se regirán por lo establecido en los artículos 71 y 140 de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.18 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 17 de mayo de 2023, según establece su disposición final 10.
-
-> Redacción anterior:
-
-> "1. Hasta el cumplimiento del plazo de duración de trescientos sesenta y cinco días de los procesos de incapacidad temporal, el Instituto Nacional de la Seguridad Social ejercerá, a través de los inspectores médicos adscritos a dicha entidad, las mismas competencias que la Inspección de Servicios Sanitarios de la Seguridad Social u órgano equivalente del respectivo servicio público de salud, para emitir un alta médica a todos los efectos, así como para considerar que existe recaída en un mismo proceso, cuando se produzcan las mismas circunstancias que se recogen en el último párrafo del apartado 2 del artículo anterior.
-
-> Cuando el alta haya sido expedida por el Instituto Nacional de la Seguridad Social, este será el único competente, a través de sus propios inspectores médicos, para emitir una nueva baja médica producida por la misma o similar patología en los ciento ochenta días siguientes a la citada alta médica.
-
-> 2\. Agotado el plazo de duración de trescientos sesenta y cinco días indicado en el apartado anterior, el Instituto Nacional de la Seguridad Social, a través de los órganos competentes para evaluar, calificar y revisar la incapacidad permanente del trabajador, será el único competente para reconocer la situación de prórroga expresa con un límite de ciento ochenta días más, o bien para determinar la iniciación de un expediente de incapacidad permanente, o bien para emitir el alta médica, por curación o por incomparecencia injustificada a los reconocimientos médicos convocados por el Instituto Nacional de la Seguridad Social. De igual modo, el Instituto Nacional de la Seguridad Social será el único competente para emitir una nueva baja médica en la situación de incapacidad temporal producida, por la misma o similar patología, en los ciento ochenta días naturales posteriores a la citada alta médica.
-
-> En el supuesto de que el Instituto Nacional de la Seguridad Social emita resolución por la que se acuerde el alta médica, conforme a lo indicado en el párrafo anterior, cesará la colaboración obligatoria de las empresas en el pago de la prestación el día en que se dicte dicha resolución, abonándose directamente por la entidad gestora o la mutua colaboradora con la Seguridad Social el subsidio correspondiente durante el periodo que transcurra entre la fecha de la citada resolución y su notificación al interesado. Las empresas que colaboren en la gestión de la prestación económica por incapacidad temporal conforme a lo previsto en el artículo 102.1 a) o b), vendrán igualmente obligadas al pago directo del subsidio correspondiente al referido periodo.
-
-> Frente a la resolución por la cual el Instituto Nacional de la Seguridad Social acuerde el alta médica conforme a lo indicado en los párrafos anteriores, el interesado podrá manifestar, en el plazo máximo de cuatro días naturales, su disconformidad ante la inspección médica del servicio público de salud. Si esta discrepara del criterio de la entidad gestora tendrá la facultad de proponerle, en el plazo máximo de siete días naturales, la reconsideración de su decisión, especificando las razones y fundamento de su discrepancia.
-
-> Si la inspección médica se pronunciara confirmando la decisión de la entidad gestora o si no se produjera pronunciamiento alguno en los once días naturales siguientes a la fecha de la resolución, la mencionada alta médica adquirirá plenos efectos. Durante el período de tiempo transcurrido entre la fecha del alta médica y aquella en la que la misma adquiera plenos efectos se considerará prorrogada la situación de incapacidad temporal.
-
-> Si, en el aludido plazo máximo de siete días naturales, la inspección médica hubiera manifestado su discrepancia con la resolución de la entidad gestora, esta se pronunciará expresamente en los siete días naturales siguientes, notificando al interesado la correspondiente resolución, que será también comunicada a la inspección médica. Si la entidad gestora, en función de la propuesta formulada, reconsiderara el alta médica, se reconocerá al interesado la prórroga de su situación de incapacidad temporal a todos los efectos. Si, por el contrario, la entidad gestora se reafirmara en su decisión, para lo cual aportará las pruebas complementarias que la fundamenten, solo se prorrogará la situación de incapacidad temporal hasta la fecha de la última resolución.
-
-> 3\. En el desarrollo reglamentario de este artículo, se regulará la forma de efectuar las comunicaciones previstas en el mismo, así como la obligación de poner en conocimiento de las empresas las decisiones que se adopten y que les afecten.
-
-> 4\. Asimismo, de acuerdo con lo previsto en la disposición adicional decimonovena de la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, reglamentariamente se regulará el procedimiento administrativo de revisión, por el Instituto Nacional de la Seguridad Social y a instancia del interesado, de las altas que expidan las entidades colaboradoras en los procesos de incapacidad temporal.
-
-> 5\. Los procesos de impugnación de las altas médicas emitidas por el Instituto Nacional de la Seguridad Social se regirán por lo establecido en los artículos 71 y 140 de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social."
-
 > Se modifica por el art. único.18 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
 > Esta modificación entra en vigor el 17 de mayo de 2023, según establece la disposición final 10 del citado Real Decreto-ley. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967). Véase la disposición transitoria 4 en cuanto a la vigencia transitoria de la normativa anterior.
@@ -2967,14 +2877,6 @@ La prestación económica en las diversas situaciones constitutivas de incapacid
 
 No obstante, en la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el párrafo cuarto del artículo 169, apartado 1, letra a), la prestación consistirá en un subsidio equivalente al cien por ciento de la base reguladora establecida para la prestación de incapacidad temporal derivada de contingencias comunes.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 1.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "**Artículo 171. Prestación económica.**
-
-> La prestación económica en las diversas situaciones constitutivas de incapacidad temporal consistirá en un subsidio equivalente a un tanto por ciento sobre la base reguladora, que se fijará y se hará efectivo en los términos establecidos en esta ley y en sus normas de desarrollo."
-
 > Se modifica por el art. 1.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
 
 > Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
@@ -2988,20 +2890,6 @@ a) En caso de enfermedad común, ciento ochenta días dentro de los cinco años 
 En la situación especial prevista en el párrafo tercero del artículo 169.1.a) se exigirá que la interesada acredite los periodos mínimos de cotización señalados en el artículo 178.1, según la edad que tenga cumplida en el momento de inicio del descanso.
 
 b) En caso de accidente, sea o no de trabajo, y de enfermedad profesional, no se exigirá ningún período previo de cotización.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 1.4 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el día 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "**Artículo 172. Beneficiarios.**
-
-> Serán beneficiarios del subsidio por incapacidad temporal las personas incluidas en este Régimen General que se encuentren en cualquiera de las situaciones determinadas en el artículo 169, siempre que, además de reunir la condición general exigida en el artículo 165.1, acrediten los siguientes períodos mínimos de cotización:
-
-> a) En caso de enfermedad común, ciento ochenta días dentro de los cinco años inmediatamente anteriores al hecho causante. En las situaciones especiales previstas en el párrafo segundo, del artículo 169.1.a), no se exigirán periodos mínimos de cotización.
-
-> En la situación especial prevista en el párrafo tercero del artículo 169.1.a) se exigirá que la interesada acredite los periodos mínimos de cotización señalados en el artículo 178.1, según la edad que tenga cumplida en el momento de inicio del descanso.
-
-> b) En caso de accidente, sea o no de trabajo, y de enfermedad profesional, no se exigirá ningún período previo de cotización."
 
 > Se modifica por el art. 1.4 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
 
@@ -3020,18 +2908,6 @@ En caso de enfermedad común o de accidente no laboral, el subsidio se abonará 
 En las situaciones especiales de incapacidad temporal por menstruación incapacitante secundaria y por donación de órganos o tejidos para su trasplante previstas en los párrafos segundo y cuarto del artículo 169.1.a), el subsidio se abonará a cargo de la entidad gestora o colaboradora que cubra la incapacidad temporal por contingencias comunes desde el mismo día de baja.
 
 En la situación especial de incapacidad temporal por interrupción del embarazo prevista en el mismo párrafo segundo del artículo 169.1.a), así como en la situación especial de gestación desde el día primero de la semana trigésima novena de gestación, prevista en el párrafo tercero del mismo artículo, el subsidio se abonará a cargo de la entidad gestora o colaboradora que cubra la incapacidad temporal por contingencias comunes desde el día siguiente al de la baja en el trabajo, estando a cargo del empresario el salario íntegro correspondiente al día de la baja.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 1.5 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. En caso de accidente de trabajo o enfermedad profesional, el subsidio se abonará desde el día siguiente al de la baja en el trabajo, estando a cargo del empresario el salario íntegro correspondiente al día de la baja.
-
-> En caso de enfermedad común o de accidente no laboral, el subsidio se abonará a partir del cuarto día de baja en el trabajo, si bien desde el día cuarto al decimoquinto de baja, ambos inclusive, el subsidio estará a cargo del empresario.
-
-> En la situación especial de incapacidad temporal por menstruación incapacitante secundaria prevista en el párrafo segundo del artículo 169.1.a) el subsidio se abonará a cargo de la Seguridad Social desde el día de la baja en el trabajo.
-
-> En la situación especial de incapacidad temporal por interrupción del embarazo prevista en el mismo párrafo segundo del artículo 169.1.a), así como en la situación especial de gestación desde el día primero de la semana trigésima novena de gestación, prevista en el párrafo tercero del mismo artículo, el subsidio se abonará a cargo de la Seguridad Social desde el día siguiente al de la baja en el trabajo, estando a cargo del empresario el salario íntegro correspondiente al día de la baja."
 
 2\. El subsidio se abonará mientras el beneficiario se encuentre en situación de incapacidad temporal, conforme a lo establecido en el artículo 169.
 
@@ -3156,16 +3032,6 @@ Si la persona trabajadora hubiera ingresado en la empresa en el mismo mes del he
 3\. En los supuestos señalados en los apartados anteriores, el subsidio podrá reconocerse por el Instituto Nacional de la Seguridad Social mediante resolución provisional teniendo en cuenta la última base de cotización por contingencias comunes que conste en las bases corporativas del sistema, en tanto no esté incorporada a las mismas la base de cotización por contingencias comunes a que se hace referencia en los apartados anteriores.
 
 Si posteriormente se comprobase que la base de cotización que correspondiera de conformidad con lo previsto en los apartados anteriores fuese diferente a la aplicada en la resolución provisional, se recalculará la prestación y se emitirá resolución definitiva. Si la base de cotización no hubiese variado, la resolución provisional devendrá definitiva en un plazo de tres meses desde su emisión.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.3 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "1. La prestación económica por nacimiento y cuidado de menor consistirá en un subsidio equivalente al 100 por ciento de la base reguladora correspondiente. A tales efectos, la base reguladora será equivalente a la que esté establecida para la prestación de incapacidad temporal, derivada de contingencias comunes.
-
-> 2\. No obstante lo previsto en el apartado anterior, el subsidio podrá reconocerse por el Instituto Nacional de la Seguridad Social mediante resolución provisional teniendo en cuenta la última base de cotización por contingencias comunes que conste en las bases corporativas del sistema, en tanto no esté incorporada a las mismas la base de cotización por contingencias comunes correspondiente al mes inmediatamente anterior al del inicio del descanso o del permiso por nacimiento y cuidado de menor.
-
-> Si posteriormente se comprobase que la base de cotización por contingencias comunes del mes inmediatamente anterior al de inicio del descanso o permiso fuese diferente a la utilizada en la resolución provisional, se recalculará la prestación y se emitirá resolución definitiva. Si la base no hubiese variado, la resolución provisional devendrá definitiva en un plazo de tres meses desde su emisión."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.3 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -3735,34 +3601,6 @@ Las 24 bases de cotización B<sub>i</sub> descartadas tomarán valor 0 en la fó
 
 Siendo i = 1, 2,…348.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.23 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2026, según establece su disposición final 10.
-
-> Redacción anterior:
-
-> "1. La base reguladora de la pensión de jubilación será el cociente que resulte de dividir por trescientos cincuenta, las bases de cotización del interesado durante los trescientos meses inmediatamente anteriores al mes previo al del hecho causante, teniendo en cuenta lo siguiente:
-
-> a) El cómputo de las referidas bases de cotización se realizará conforme a las siguientes reglas, de las que es expresión matemática la fórmula que figura al final de la presente letra:
-
-> 1.ª Las bases correspondientes a los veinticuatro meses anteriores al mes previo al del hecho causante se computarán en su valor nominal.
-
-> 2.ª Las restantes bases se actualizarán de acuerdo con la evolución que haya experimentado el Índice de Precios de Consumo desde el mes a que aquellas correspondan, hasta el mes inmediato anterior a aquel en que se inicie el período a que se refiere la regla anterior.
-
-> ![imagen](https://www.boe.es/datos/imagenes/disp/2015/261/11724_003.png)
-
-> Siendo:
-
-> B<sub>r</sub> = Base reguladora.
-
-> B<sub>i</sub>= Base de cotización del mes i-ésimo anterior al mes previo al del hecho causante.
-
-> I<sub>i</sub> = Índice general de precios al consumo del mes i-ésimo anterior al mes previo al del hecho causante.
-
-> Siendo i = 1,2,...,300
-
-> b) Si en el período que haya de tomarse para el cálculo de la base reguladora aparecieran meses durante los cuales no hubiese existido obligación de cotizar, las primeras cuarenta y ocho mensualidades se integrarán con la base mínima de entre todas las existentes en cada momento, y el resto de mensualidades con el 50 por ciento de dicha base mínima.
-
-> En los supuestos en que en alguno de los meses a tener en cuenta para la determinación de la base reguladora, la obligación de cotizar exista solo durante una parte del mismo, procederá la integración señalada en el párrafo anterior, por la parte del mes en que no exista obligación de cotizar, siempre que la base de cotización correspondiente al primer período no alcance la cuantía de la base mínima mensual señalada. En tal supuesto, la integración alcanzará hasta esta última cuantía."
-
 2\. Sin perjuicio de lo establecido en el artículo 161.2, para la determinación de la base reguladora de la pensión de jubilación no se podrán computar los incrementos de las bases de cotización producidos en los dos últimos años, que sean consecuencia de aumentos salariales superiores al incremento medio interanual experimentado en el convenio colectivo aplicable o, en su defecto, en el correspondiente sector.
 
 3\. Se exceptúan de la norma general establecida en el apartado anterior los incrementos salariales que sean consecuencia de la aplicación estricta de las normas contenidas en disposiciones legales y convenios colectivos sobre antigüedad y ascensos reglamentarios de categoría profesional.
@@ -3823,40 +3661,6 @@ El complemento económico establecido en este apartado no se aplicará en los su
 
 No obstante, en el supuesto de que el importe de la pensión resultante de aplicar a la base reguladora el porcentaje que corresponda en función de los meses de cotización acreditados fuese superior al límite de la cuantía inicial de las pensiones, establecido en el artículo 57, los coeficientes reductores por edad se aplicarán sobre el indicado límite.
 
-> Téngase en cuenta de esta actualización de los apartados 2 y 3, establecida por el art. 1.1 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Cuando se acceda a la pensión de jubilación a una edad superior a la que resulte de aplicar en cada caso lo establecido en el artículo 205.1.a), siempre que al cumplir esta edad se hubiera reunido el período mínimo de cotización establecido en el artículo 205.1.b), se reconocerá al interesado por cada año completo cotizado que transcurra desde que reunió los requisitos para acceder a esta pensión, un complemento económico que se abonará de alguna de las siguientes maneras, a elección del interesado:
-
-> a) Un porcentaje adicional del 4 por ciento por cada año completo cotizado entre la fecha en que cumplió dicha edad y la del hecho causante de la pensión.
-
-> El porcentaje adicional obtenido según lo establecido en el párrafo anterior se sumará al que con carácter general corresponda al interesado de acuerdo con el apartado 1, aplicándose el porcentaje resultante a la respectiva base reguladora a efectos de determinar la cuantía de la pensión, que no podrá ser superior en ningún caso al límite establecido en el artículo 57.
-
-> En el supuesto de que la cuantía de la pensión reconocida alcance el indicado límite sin aplicar el porcentaje adicional o aplicándolo solo parcialmente, el interesado tendrá derecho, además, a percibir anualmente una cantidad cuyo importe se obtendrá aplicando al importe de dicho límite vigente en cada momento el porcentaje adicional no utilizado para determinar la cuantía de la pensión, redondeado a la unidad más próxima por exceso. La citada cantidad se devengará por meses vencidos y se abonará en catorce pagas, sin que la suma de su importe y el de la pensión o pensiones que tuviera reconocidas el interesado, en cómputo anual, pueda superar la cuantía del tope máximo de la base de cotización vigente en cada momento, también en cómputo anual.
-
-> b) Una cantidad a tanto alzado por cada año completo cotizado entre la fecha en que cumplió dicha edad y la del hecho causante de la pensión, cuya cuantía vendrá determinada en función de los años de cotización acreditados en la primera de las fechas indicadas, siendo la fórmula de cálculo la siguiente:
-
-> 1.º Si ha cotizado menos de 44 años y 6 meses:
-
-> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/312/21652_10806373_1.png)
-
-> 2.º Si ha cotizado, al menos, 44 años y 6 meses la cifra anterior se aumenta en un 10%:
-
-> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/312/21652_10806372_1.png)
-
-> c) Una combinación de las opciones anteriores en los términos que se determine reglamentariamente.
-
-> La elección se llevará a cabo por una sola vez en el momento en que se adquiere el derecho a percibir el complemento económico, no pudiendo ser modificada con posterioridad. De no ejercitarse esta facultad, se aplicará el complemento contemplado en la letra a).
-
-> La percepción de este complemento es incompatible con el acceso al envejecimiento activo regulado en el artículo 214.
-
-> El beneficio establecido en este apartado no será de aplicación en los supuestos de jubilación parcial, ni en el de jubilación flexible a que se refiere el párrafo segundo del artículo 213.1, ni en los supuestos de acceso a la jubilación desde una situación asimilada al alta.
-
-> 3\. Cuando para determinar la cuantía de una pensión de jubilación anticipada por voluntad del interesado prevista en el artículo 208 hubieran de aplicarse coeficientes reductores por edad en el momento del hecho causante, aquellos se aplicarán sobre el importe de la pensión resultante de aplicar a la base reguladora el porcentaje que corresponda por meses de cotización.
-
-> No obstante, en el supuesto de que la base reguladora de la pensión calculada de conformidad con lo dispuesto en el artículo 209 resultase superior al límite de la cuantía inicial de las pensiones, establecido en el artículo 57, los coeficientes reductores por edad se aplicarán sobre el indicado límite."
-
 4\. Cuando para determinar la cuantía de una pensión de jubilación anticipada por causas no imputables al trabajador hubieran de aplicarse coeficientes reductores por edad en el momento del hecho causante, aquellos se aplicarán sobre el importe de la pensión resultante de aplicar a la base reguladora el porcentaje que corresponda por meses de cotización. Una vez aplicados los referidos coeficientes reductores, el importe resultante de la pensión no podrá ser superior a la cuantía que resulte de reducir el tope máximo de pensión en un 0,50 por ciento por cada trimestre o fracción de trimestre de anticipación. Este sistema de cálculo se extenderá a los supuestos contemplados en el apartado 3 del artículo 208.
 
 5\. El coeficiente del 0,50 por ciento a que se refiere el apartado anterior y lo previsto en el apartado 3 no será de aplicación en los casos de jubilaciones anticipadas conforme a las previsiones de los artículos 206 y 206 bis, en relación con los grupos o actividades profesionales cuyos trabajos sean de naturaleza excepcionalmente penosa, tóxica, peligrosa o insalubre, o con las personas con discapacidad.
@@ -3888,14 +3692,6 @@ El derecho al reconocimiento de la pensión de jubilación es imprescriptible, s
 1\. El disfrute de la pensión de jubilación será incompatible con el trabajo del pensionista, con las salvedades y en los términos que legal o reglamentariamente se determinen.
 
 No obstante, las personas que accedan a la jubilación podrán compatibilizar el percibo de la pensión con un trabajo a tiempo parcial en los términos que reglamentariamente se establezcan.
-
-> Téngase en cuenta de esta actualización del apartado 1, establecida por el art. 1.2 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. El disfrute de la pensión de jubilación será incompatible con el trabajo del pensionista, con las salvedades y en los términos que legal o reglamentariamente se determinen.
-
-> No obstante lo anterior, las personas que accedan a la jubilación podrán compatibilizar el percibo de la pensión con un trabajo a tiempo parcial en los términos que reglamentariamente se establezcan. Durante dicha situación, se minorará el percibo de la pensión en proporción inversa a la reducción aplicable a la jornada de trabajo del pensionista en relación a la de un trabajador a tiempo completo comparable."
 
 2\. El desempeño de un puesto de trabajo en el sector público delimitado en el párrafo segundo del artículo 1.1 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, es incompatible con la percepción de pensión de jubilación, en su modalidad contributiva.
 
@@ -3955,36 +3751,6 @@ Si no se acreditan las condiciones establecidas en el párrafo anterior, se apli
 
 Las previsiones de este artículo no serán aplicables en los supuestos de desempeño de un puesto de trabajo o alto cargo en el sector público, delimitado en el párrafo segundo del artículo 1.1 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, que será incompatible con la percepción de la pensión de jubilación.
 
-> Téngase en cuenta de esta actualización, establecida por el art. 1.3 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 214. Pensión de jubilación y envejecimiento activo.**
-
-> 1\. Sin perjuicio de lo establecido en el artículo 213, el disfrute de la pensión de jubilación, en su modalidad contributiva, será compatible con la realización de cualquier trabajo por cuenta ajena o por cuenta propia del pensionista, en los siguientes términos:
-
-> a) El acceso a la pensión deberá haber tenido lugar al menos un año después de haber cumplido la edad que en cada caso resulte de aplicación, según lo establecido en el artículo 205.1.a), sin que, a tales efectos, sean admisibles jubilaciones acogidas a bonificaciones o anticipaciones de la edad de jubilación que pudieran ser de aplicación al interesado.
-
-> b) El porcentaje aplicable a la respectiva base reguladora a efectos de determinar la cuantía de la pensión causada ha de alcanzar el 100 por ciento.
-
-> c) El trabajo compatible podrá realizarse por cuenta ajena, a tiempo completo o a tiempo parcial, o por cuenta propia.
-
-> 2\. La cuantía de la pensión de jubilación compatible con el trabajo será equivalente al 50 por ciento del importe resultante en el reconocimiento inicial, una vez aplicado, si procede, el límite máximo de pensión pública, o del que se esté percibiendo, en el momento de inicio de la compatibilidad con el trabajo, excluido, en todo caso, el complemento por mínimos, cualquiera que sea la jornada laboral o la actividad que realice el pensionista.
-
-> No obstante, si la actividad se realiza por cuenta propia y se acredita tener contratado, al menos, a un trabajador por cuenta ajena, la cuantía de la pensión compatible con el trabajo alcanzará al 100 por ciento.
-
-> La pensión se revalorizará en su integridad en los términos establecidos para las pensiones del sistema de la Seguridad Social. No obstante, en tanto se mantenga el trabajo compatible, el importe de la pensión más las revalorizaciones acumuladas se reducirá en un 50 por ciento, excepto en el supuesto de realización de trabajos por cuenta propia en los términos señalados en el párrafo anterior.
-
-> 3\. El pensionista no tendrá derecho a los complementos para pensiones inferiores a la mínima durante el tiempo en el que compatibilice la pensión con el trabajo.
-
-> 4\. El beneficiario tendrá la consideración de pensionista a todos los efectos.
-
-> 5\. Finalizada la relación laboral por cuenta ajena, se restablecerá el percibo íntegro de la pensión de jubilación. Igual restablecimiento se producirá en el caso de cese en la actividad por cuenta propia cuando no se dieran las circunstancias señaladas en el párrafo segundo del apartado 2.
-
-> 6\. La regulación contenida en este artículo se entenderá aplicable sin perjuicio del régimen jurídico previsto para cualesquiera otras modalidades de compatibilidad entre pensión y trabajo, establecidas legal o reglamentariamente.
-
-> Las previsiones de este artículo no serán aplicables en los supuestos de desempeño de un puesto de trabajo o alto cargo en el sector público, delimitado en el párrafo segundo del artículo 1.1 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, que será incompatible con la percepción de la pensión de jubilación."
-
 > Se modifica por el art. 1.3 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
 > Esta modificación entra en vigor el 1 de abril de 2025, según establece la disposición final 3 del citado Real Decreto-ley.
@@ -4030,40 +3796,6 @@ f) Sin perjuicio de la reducción de jornada a que se refiere la letra c), duran
 5\. El régimen jurídico de la jubilación parcial a que se refieren los apartados anteriores será el que reglamentariamente se establezca.
 
 6\. Podrán acogerse a la jubilación parcial regulada en este artículo los socios trabajadores o de trabajo de las cooperativas, asimilados a trabajadores por cuenta ajena en los términos del artículo 14, que reduzcan su jornada y derechos económicos en las condiciones previstas en el texto refundido de la Ley del Estatuto de los Trabajadores y cumplan los requisitos establecidos en este artículo, cuando la cooperativa concierte con un socio de duración determinada de la misma o con un desempleado la realización, en calidad de socio trabajador o de socio de trabajo en los mismos términos previstos en el Estatuto de los Trabajadores para el contrato de relevo por lo que afecta a la duración de la jornada y al vinculo como socio.
-
-> Téngase en cuenta de esta actualización, establecida por el art. 1.4 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 215. Jubilación parcial**.
-
-> 1\. Los trabajadores que hayan cumplido la edad a que se refiere el artículo 205.1.a) y reúnan los requisitos para causar derecho a la pensión de jubilación, siempre que se produzca una reducción de su jornada de trabajo comprendida entre un mínimo del 25 por ciento y un máximo del 50 por ciento, podrán acceder a la jubilación parcial sin necesidad de la celebración simultánea de un contrato de relevo. Los porcentajes indicados se entenderán referidos a la jornada de un trabajador a tiempo completo comparable.
-
-> 2\. Asimismo, siempre que con carácter simultáneo se celebre un contrato de relevo en los términos previstos en el artículo 12.7 del texto refundido de la Ley del Estatuto de los Trabajadores, los trabajadores a tiempo completo podrán acceder a la jubilación parcial cuando reúnan los siguientes requisitos:
-
-> a) Tener cumplida en la fecha del hecho causante una edad de sesenta y cinco años, o de sesenta y tres cuando se acrediten treinta y seis años y seis meses de cotización, sin que, a tales efectos, se tengan en cuenta las bonificaciones o anticipaciones de la edad de jubilación que pudieran ser de aplicación al interesado.
-
-> b) Acreditar un período de antigüedad en la empresa de, al menos, seis años inmediatamente anteriores a la fecha de la jubilación parcial. A tal efecto se computará la antigüedad acreditada en la empresa anterior si ha mediado una sucesión de empresa en los términos previstos en el artículo 44 del texto refundido de la Ley del Estatuto de los Trabajadores, o en empresas pertenecientes al mismo grupo.
-
-> c) Que la reducción de su jornada de trabajo se halle comprendida entre un mínimo de un 25 por ciento y un máximo del 50 por ciento, o del 75 por ciento para los supuestos en que el trabajador relevista sea contratado a jornada completa mediante un contrato de duración indefinida, siempre que se acrediten el resto de los requisitos. Dichos porcentajes se entenderán referidos a la jornada de un trabajador a tiempo completo comparable.
-
-> d) Acreditar un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, sólo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, o del servicio social femenino obligatorio, con el límite máximo de un año.
-
-> En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
-
-> e) Que exista una correspondencia entre las bases de cotización del trabajador relevista y del jubilado parcial, de modo que la correspondiente al trabajador relevista no podrá ser inferior al 65 por ciento del promedio de las bases de cotización correspondientes a los seis últimos meses del período de base reguladora de la pensión de jubilación parcial.
-
-> f) Los contratos de relevo que se establezcan como consecuencia de una jubilación parcial tendrán, como mínimo, una duración igual al tiempo que le falte al trabajador sustituido para alcanzar la edad de jubilación a que se refiere el artículo 205.1 a).
-
-> En los casos a que se refiere la letra c), en que el contrato de relevo sea de carácter indefinido y a tiempo completo, deberá mantenerse al menos durante una duración igual al resultado de sumar dos años al tiempo que le falte al trabajador sustituido para alcanzar la edad de jubilación a que se refiere el artículo 205.1.a). En el supuesto de que el contrato se extinga antes de alcanzar la duración mínima indicada, el empresario estará obligado a celebrar un nuevo contrato en los mismos términos del extinguido, por el tiempo restante. En caso de incumplimiento por parte del empresario de las condiciones establecidas en el presente artículo en materia de contrato de relevo, será responsable del reintegro de la pensión que haya percibido el pensionista a tiempo parcial.
-
-> g) Sin perjuicio de la reducción de jornada a que se refiere la letra c), durante el período de disfrute de la jubilación parcial, empresa y trabajador cotizarán por la base de cotización que, en su caso, hubiese correspondido de seguir trabajando este a jornada completa.
-
-> 3\. El disfrute de la pensión de jubilación parcial en ambos supuestos será compatible con un puesto de trabajo a tiempo parcial.
-
-> 4\. El régimen jurídico de la jubilación parcial a que se refieren los apartados anteriores será el que reglamentariamente se establezca.
-
-> 5\. Podrán acogerse a la jubilación parcial regulada en este artículo los socios trabajadores o de trabajo de las cooperativas, asimilados a trabajadores por cuenta ajena en los términos del artículo 14, que reduzcan su jornada y derechos económicos en las condiciones previstas en el artículo 12.6 del texto refundido de la Ley del Estatuto de los Trabajadores, y cumplan los requisitos establecidos en el apartado 2 de este artículo, cuando la cooperativa concierte con un socio de duración determinada de la misma o con un desempleado la realización, en calidad de socio trabajador o de socio de trabajo, de la jornada dejada vacante por el socio que se jubila parcialmente, con las mismas condiciones establecidas para la celebración de un contrato de relevo en el artículo 12.7 del texto refundido de la Ley del Estatuto de los Trabajadores, y conforme a lo previsto en este artículo."
 
 > Se modifica por el art. 1.4 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
@@ -4279,12 +4011,6 @@ La prestación de orfandad se calculará aplicando el porcentaje correspondiente
 
 3\. Sin perjuicio de lo previsto con carácter general en este artículo, el límite establecido podrá ser rebasado en caso de concurrencia de varias pensiones de orfandad con una pensión de viudedad cuando el porcentaje a aplicar a la correspondiente base reguladora para el cálculo de esta última sea superior al 52 por ciento, si bien, en ningún caso, la suma de las pensiones de orfandad podrá superar el 48 por ciento de la base reguladora que corresponda.
 
-> Téngase en cuenta que esta última actualización del apartado 3, entra en vigor el 1 de agosto de 2018, según establece la disposición final 40.1 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268)
-
-> Redacción anterior:
-
-> "3. Sin perjuicio de lo previsto con carácter general en este artículo, el límite establecido podrá ser rebasado en caso de concurrencia de varias pensiones de orfandad con una pensión de viudedad cuando el porcentaje a aplicar a la correspondiente base reguladora para el cálculo de esta última sea del 70 por ciento, si bien, en ningún caso, la suma de las pensiones de orfandad podrá superar el 48 por ciento de la base reguladora que corresponda."
-
 > Se modifica el apartado 3, con efectos de 1 de agosto de 2018, por la disposición final 40.1 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268)
 
 ###### Artículo 230. Imprescriptibilidad.
@@ -4451,12 +4177,6 @@ d) Cualesquiera otras responsabilidades que procedan de acuerdo con lo dispuesto
 
 2\. Las reglas contenidas en esta sección se aplicarán a los trabajadores con contrato a tiempo parcial, de relevo a tiempo parcial y contrato fijo-discontinuo, de conformidad con lo establecido en los artículos 12 y 16 del texto refundido de la Ley del Estatuto de los Trabajadores, comprendidos en el campo de aplicación del Régimen General, incluidos los trabajadores a tiempo parcial o fijos discontinuos pertenecientes al Sistema Especial para Empleados de Hogar, sin perjuicio de las particularidades en función de cada modalidad de contrato.
 
-> Téngase en cuenta de esta actualización del apartado 2, establecida por el art. 1.5 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Las reglas contenidas en esta sección serán de aplicación a los trabajadores con contrato a tiempo parcial, de relevo a tiempo parcial y contrato fijo-discontinuo, de conformidad con lo establecido en los artículos 12 y 16 del texto refundido de la Ley del Estatuto de los Trabajadores, comprendidos en el campo de aplicación del Régimen General, incluidos los trabajadores a tiempo parcial o fijos discontinuos pertenecientes al Sistema Especial para Empleados de Hogar."
-
 > Se modifica el apartado 2 por el art. 1.5 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
 > Esta modificación entra en vigor el 1 de abril de 2025, según establece la disposición final 3 del citado Real Decreto-ley.
@@ -4476,14 +4196,6 @@ d) Cualesquiera otras responsabilidades que procedan de acuerdo con lo dispuesto
 2\. En relación con los trabajadores fijos-discontinuos, a efectos de acreditar los períodos de cotización necesarios para causar derecho a las prestaciones de jubilación, incapacidad permanente y muerte y supervivencia, se computará todo el período durante el cual hayan permanecido en situación de alta con un contrato fijo-discontinuo. Dicho periodo se multiplicará por un coeficiente de 1,5, sin que el número total de días computables como cotizados anualmente por el trabajador pueda superar el número de días naturales de cada año.
 
 Para causar derecho a las prestaciones de incapacidad temporal y por nacimiento y cuidado de menor, a efectos de acreditar los períodos de cotización necesarios, se tendrán en cuenta los distintos períodos durante los cuales el trabajador haya estado en situación de alta con un contrato fijo-discontinuo.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 1.6 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 247. Cómputo de los periodos de cotización.**
-
-> A efectos de acreditar los períodos de cotización necesarios para causar derecho a las prestaciones de jubilación, incapacidad permanente, muerte y supervivencia, incapacidad temporal y nacimiento y cuidado de menor se tendrán en cuenta los distintos períodos durante los cuales el trabajador haya permanecido en alta con un contrato a tiempo parcial, cualquiera que sea la duración de la jornada realizada en cada uno de ellos."
 
 > Se modifica por el art. 1.6 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
@@ -4522,32 +4234,6 @@ En el caso de los trabajadores fijos discontinuos, todo el período durante el c
 4\. A los trabajadores que, conforme a lo previsto en el artículo 210.2, prolonguen su actividad con un contrato a tiempo parcial o fijo discontinuo se les reconocerá el complemento económico de la pensión de jubilación previsto en dicho artículo.
 
 En el caso de los trabajadores a tiempo parcial, para alcanzar cada año completo cotizado se tendrán en cuenta los periodos de cotización establecidos en el artículo 247.1. En el caso de los trabajadores fijos discontinuos, se tendrán en cuenta los periodos de cotización aplicando lo previsto en el artículo 247.2.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 1.7 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 248. Cuantía de las prestaciones económicas.**
-
-> 1\. En la determinación de la base reguladora de las prestaciones económicas se tendrán en cuenta las siguientes reglas:
-
-> a) La base reguladora de las prestaciones de jubilación e incapacidad permanente se calculará conforme a la regla general.
-
-> b) La base reguladora diaria de la prestación por nacimiento y cuidado de menor será el resultado de dividir entre trescientos sesenta y cinco la suma de las bases de cotización acreditadas en la empresa en los doce meses naturales inmediatamente anteriores al mes previo al del hecho causante.
-
-> Si las bases de cotización acreditadas en la empresa con anterioridad al mes previo al del hecho causante se refieren a un período inferior a doce meses, la base reguladora diaria será el resultado de dividir la suma de las bases cotizadas acreditadas entre el número de días naturales a que esas cotizaciones correspondan.
-
-> En los supuestos en que la persona haya ingresado en la empresa en el mes anterior al del hecho causante o en el mismo mes de éste, para el cálculo de la base reguladora se tendrán en cuenta las reglas establecidas, respectivamente, en los párrafos primero y segundo del artículo 179.2.
-
-> No obstante, la prestación por nacimiento y cuidado de menor podrá reconocerse mediante resolución provisional conforme a lo previsto en el artículo 179.3.
-
-> c) La base reguladora diaria de la prestación por incapacidad temporal será el resultado de dividir la suma de las bases de cotización a tiempo parcial acreditadas desde la última alta, con un máximo de tres meses inmediatamente anteriores al del hecho causante, entre el número de días naturales comprendidos en el período.
-
-> Para las personas con contrato fijo-discontinuo la base reguladora diaria de la prestación por incapacidad temporal será el resultado de dividir la suma de las bases de cotización acreditadas desde su alta en el correspondiente régimen a consecuencia del inicio de la prestación de servicios motivado por el último llamamiento, con un máximo de tres meses inmediatamente anteriores al del hecho causante, entre el número de días naturales comprendidos en el período.
-
-> La prestación económica se abonará durante todos los días naturales en que la persona beneficiaria se encuentre en la situación de incapacidad temporal.
-
-> 2\. A efectos de calcular las pensiones de jubilación y de incapacidad permanente derivada de enfermedad común, la integración de los períodos durante los que no haya habido obligación de cotizar se llevará a cabo con la base mínima de cotización de entre las aplicables en cada momento, correspondiente al número de horas contratadas en último término."
 
 > Se modifica por el art. 1.7 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
@@ -4654,8 +4340,6 @@ De igual forma, se excluye del ámbito de este artículo cualquier modalidad de 
 De igual forma, el pensionista de jubilación en quien concurran las circunstancias previstas en este artículo también podrá optar por la suspensión del percibo de su pensión. En tal caso, el alta y la cotización a la Seguridad Social se realizará conforme a las normas que rijan en el régimen de Seguridad Social que corresponda en función de su actividad.
 
 6\. La prestación de incapacidad temporal causada durante la compatibilidad prevista en el presente artículo se extinguirá en la fecha en la que se cause baja en el régimen correspondiente de la Seguridad Social.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 4.7 del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), en la redacción dada por la disposición final 7.3 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de abril de 2023.
 
 > Se modifica el apartado 4, con efectos de 1 de abril de 2023, por la disposición final 4.7 del Real Decreto-ley 1/2023, de 10 de enero, en la redacción dada por la disposición final 7.3 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
@@ -5083,10 +4767,6 @@ No se computarán las cotizaciones correspondientes al tiempo de abono de la pre
 
 3\. Cuando el derecho a la prestación se extinga por realizar el titular uno o varios trabajos de duración acumulada igual o superior a doce meses, sin reanudar entre ellos la prestación por desempleo, podrá optar, en el caso de que se le reconozca una nueva prestación, entre reabrir el derecho inicial por el período que le restaba y las bases y tipos que le correspondían, o percibir la prestación generada por las nuevas cotizaciones efectuadas. Cuando el trabajador opte por la prestación anterior, las cotizaciones que generaron aquella prestación por la que no hubiera optado no podrán computarse para el reconocimiento de un derecho posterior, de nivel contributivo o asistencial.
 
-> Téngase en cuenta que, si bien la actualización del apartado 3, establecida por el art. 2.1 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "3. Cuando el derecho a la prestación se extinga por realizar el titular un trabajo de duración igual o superior a doce meses, este podrá optar, en el caso de que se le reconozca una nueva prestación, entre reabrir el derecho inicial por el período que le restaba y las bases y tipos que le correspondían, o percibir la prestación generada por las nuevas cotizaciones efectuadas. Cuando el trabajador opte por la prestación anterior, las cotizaciones que generaron aquella prestación por la que no hubiera optado no podrán computarse para el reconocimiento de un derecho posterior, de nivel contributivo o asistencial."
-
 4\. El período que corresponde a las vacaciones, al que se refiere el artículo 268.3, se computará como período de cotización a los efectos previstos en el apartado 1 de este artículo y en el artículo 277.2, y durante dicho período se considerará al trabajador en situación asimilada a la de alta, de acuerdo con lo establecido en el artículo 166.1.
 
 5\. En el caso de desempleo parcial a que se refiere el artículo 262.3, la consunción de prestaciones generadas se producirá por horas y no por días. A tal fin, el porcentaje consumido será equivalente al de reducción de jornada decidida por el empresario, al amparo de lo establecido en el artículo 47 del texto refundido de la Ley del Estatuto de los Trabajadores o de resolución judicial adoptada en el seno de un procedimiento concursal.
@@ -5273,40 +4953,6 @@ Podrán acceder a estos subsidios quienes mantengan uno o varios contratos a tie
 
 4\. En todos los casos, el reconocimiento del derecho al subsidio exigirá la inscripción como demandante de empleo, así como la suscripción del acuerdo de actividad regulado en el artículo 3 de la Ley 3/2023, de 28 de febrero.
 
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.4 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "1. Serán beneficiarios del subsidio los desempleados que, figurando inscritos como demandantes de empleo durante el plazo de un mes, sin haber rechazado oferta de empleo adecuada ni haberse negado a participar, salvo causa justificada, en acciones de promoción, formación o reconversión profesionales, carezcan de rentas en los términos establecidos en el artículo siguiente y se encuentren en alguna de las siguientes situaciones:
-
-> a) Haber agotado la prestación por desempleo y tener responsabilidades familiares.
-
-> b) Haber agotado la prestación por desempleo, carecer de responsabilidades familiares y ser mayor de cuarenta y cinco años de edad en la fecha del agotamiento.
-
-> c) Ser trabajador español emigrante que habiendo retornado de países no pertenecientes al Espacio Económico Europeo, o con los que no exista convenio sobre protección por desempleo, acredite haber trabajado como mínimo doce meses en los últimos seis años en dichos países desde su última salida de España, y no tenga derecho a la prestación por desempleo.
-
-> d) Haber sido declarado plenamente capaz o incapacitado en el grado de incapacidad permanente parcial, como consecuencia de un expediente de revisión por mejoría de una situación de incapacidad en los grados de incapacidad permanente total, incapacidad permanente absoluta o gran invalidez.
-
-> 2\. Asimismo serán beneficiarios del subsidio los liberados de prisión que reúnan los requisitos establecidos en el primer párrafo del apartado anterior y no tengan derecho a la prestación por desempleo, siempre que la privación de libertad haya sido por tiempo superior a seis meses.
-
-> Se entenderán comprendidos en dicha situación los menores liberados de un centro de internamiento en el que hubieran sido ingresados como consecuencia de la comisión de hechos tipificados como delito, siempre que, además de haber permanecido privados de libertad por el tiempo antes indicado, en el momento de la liberación sean mayores de dieciséis años.
-
-> También se entenderán comprendidas en dicha situación las personas que hubiesen concluido un tratamiento de deshabituación de su drogodependencia, siempre que el mismo hubiera durado un período superior a seis meses y hayan visto remitida su pena privativa de libertad en aplicación de lo previsto en el artículo 87 del Código Penal.
-
-> Los liberados de prisión que hubieran sido condenados por la comisión de los delitos relacionados en los párrafos a), b), c) o d) del artículo 36.2 del Código Penal solo podrán obtener el subsidio por desempleo previsto en este apartado y en el siguiente cuando acrediten, mediante la oportuna certificación de la Administración penitenciaria, los siguientes extremos:
-
-> a) En el caso de los liberados de prisión condenados por los delitos contemplados en las letras a) o b) del artículo 36.2 del Código Penal, que han cumplido los requisitos exigidos en el artículo 72.6 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria.
-
-> b) En el caso de los liberados de prisión condenados por los delitos contemplados en las letras c) o d) del artículo 36.2 del Código Penal, que han satisfecho la responsabilidad civil derivada del delito, considerando a tales efectos la conducta efectivamente observada en orden a reparar el daño e indemnizar los perjuicios materiales y morales, y que han formulado una petición expresa de perdón a las víctimas de su delito.
-
-> 3\. Los desempleados que reúnan los requisitos a que se refiere el primer párrafo del apartado 1 salvo el relativo al período de espera, se hallen en situación legal de desempleo y no tengan derecho a la prestación contributiva, por no haber cubierto el período mínimo de cotización, podrán obtener el subsidio siempre que:
-
-> a) Hayan cotizado al menos tres meses y tengan responsabilidades familiares.
-
-> b) Hayan cotizado al menos seis meses, aunque carezcan de responsabilidades familiares.
-
-> 4\. Podrán acceder al subsidio los trabajadores mayores de cincuenta y dos años, aun cuando no tengan responsabilidades familiares, siempre que se encuentren en alguno de los supuestos contemplados en los apartados anteriores, hayan cotizado por desempleo al menos durante seis años a lo largo de su vida laboral y acrediten que, en el momento de la solicitud, reúnen todos los requisitos, salvo la edad, para acceder a cualquier tipo de pensión contributiva de jubilación en el sistema de la Seguridad Social.
-
-> Si en la fecha en que se encuentren en alguno de los supuestos previstos en los apartados anteriores, los trabajadores no hubieran cumplido la edad de cincuenta y dos años, pero, desde dicha fecha, permanecieran inscritos ininterrumpidamente como demandantes de empleo en los servicios públicos de empleo, podrán solicitar el subsidio cuando cumplan esa edad. A estos efectos, se entenderá cumplido el requisito de inscripción ininterrumpida cuando cada una de las posibles interrupciones haya tenido una duración inferior a noventa días, no computándose los períodos que correspondan a la realización de actividad por cuenta propia o ajena. En este último caso, el trabajador no podrá acceder al subsidio cuando el cese en el último trabajo fuera voluntario."
-
 > Se modifica por el art. 2.4 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Téngase en cuenta que, de conformidad con la disposición transitoria 1 del citado Real Decreto-ley, hasta el día 31 de octubre de 2024 continuará siendo de aplicación lo previsto en la redacción anterior.
@@ -5357,32 +5003,6 @@ La ocultación de rentas a la entidad gestora por parte de los solicitantes que,
 
 7\. Los requisitos de carencia de rentas y, en su caso, de existencia de responsabilidades familiares deberán concurrir en la fecha de la solicitud del subsidio, así como en la fecha de la solicitud de sus prórrogas o reanudaciones.
 
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.5 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior, salvo lo relativo al apartado 5.c):
-
-> "**Artículo 275. Inscripción, carencia de rentas y responsabilidades familiares.**
-
-> 1\. En todas las modalidades de subsidio establecidas en el artículo anterior se exigirá el requisito de estar inscrito y mantener la inscripción como demandante de empleo en los mismos términos previstos en los artículos 266. e) y 268.1.
-
-> 2\. Se entenderá cumplido el requisito de carencia de rentas exigido en el artículo anterior cuando el solicitante o beneficiario carezca de rentas de cualquier naturaleza superiores, en cómputo mensual, al 75 por ciento del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias.
-
-> 3\. A efectos de lo previsto en el artículo anterior, se entenderá por responsabilidades familiares tener a cargo al cónyuge, hijos menores de veintiséis años o mayores incapacitados, o menores acogidos, cuando la renta del conjunto de la unidad familiar así constituida, incluido el solicitante, dividida por el número de miembros que la componen, no supere el 75 por ciento del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias.
-
-> No se considerará a cargo el cónyuge, hijos o menores acogidos, con rentas de cualquier naturaleza superiores al 75 por ciento del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias.
-
-> 4\. A efectos de determinar los requisitos de carencia de rentas y, en su caso, de responsabilidades familiares, se considerarán como rentas o ingresos computables cualesquiera bienes, derechos o rendimientos derivados del trabajo, del capital mobiliario o inmobiliario, de las actividades económicas y los de naturaleza prestacional, salvo las asignaciones de la Seguridad Social por hijos a cargo y salvo el importe de las cuotas destinadas a la financiación del convenio especial con la Administración de la Seguridad Social. También se considerarán rentas las plusvalías o ganancias patrimoniales, así como los rendimientos que puedan deducirse del montante económico del patrimonio, aplicando a su valor el 100 por ciento del tipo de interés legal del dinero vigente, con la excepción de la vivienda habitualmente ocupada por el trabajador y de los bienes cuyas rentas hayan sido computadas, todo ello en los términos que se establezcan reglamentariamente.
-
-> No obstante lo establecido en el párrafo anterior, el importe correspondiente a la indemnización legal que en cada caso proceda por la extinción del contrato de trabajo no tendrá la consideración de renta. Ello con independencia de que el pago de la misma se efectúe de una sola vez o de forma periódica.
-
-> Las rentas se computarán por su rendimiento íntegro o bruto. El rendimiento que procede de las actividades empresariales, profesionales, agrícolas, ganaderas o artísticas, se computará por la diferencia entre los ingresos y los gastos necesarios para su obtención.
-
-> Para acreditar las rentas la entidad gestora podrá exigir al trabajador una declaración de las mismas y, en su caso, la aportación de copia de las declaraciones tributarias presentadas.
-
-> 5\. Los requisitos de carencia de rentas y, en su caso, de existencia de responsabilidades familiares deberán concurrir en el momento del hecho causante y, además, en el de la solicitud del subsidio, así como en el momento de la solicitud de sus prórrogas o reanudaciones y durante la percepción de todas las modalidades del subsidio establecidas en el artículo anterior.
-
-> Si no se reúnen los requisitos, el trabajador solo podrá obtener el reconocimiento de un derecho al subsidio cuando se encuentre de nuevo en alguna de las situaciones previstas en el artículo anterior y reúna los requisitos exigidos, salvo en el caso de que dentro del plazo de un año desde la fecha del hecho causante se acredite que se cumplen los requisitos de carencia de rentas o, en su caso, de existencia de responsabilidades familiares, en que el trabajador podrá obtener el subsidio que corresponda a partir del día siguiente al de su solicitud sin reducción de su duración.
-
-> A estos efectos se considerará como fecha del hecho causante aquella en que se cumpla el plazo de espera de un mes, o se produzca la situación legal de desempleo; o la de agotamiento del derecho semestral; o la de finalización de la causa de suspensión."
-
 > Se modifica por el art. 2.5 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Téngase en cuenta que, de conformidad con la disposición transitoria 1 del citado Real Decreto-ley, hasta el día 31 de octubre de 2024 continuará siendo de aplicación lo previsto en la redacción anterior, salvo lo relativo al apartado 5.c)
@@ -5413,30 +5033,6 @@ En caso de que con posterioridad a la fecha del hecho causante se hubiera trabaj
 
 En otro caso, el derecho a la prórroga tendrá efectividad a partir del día de su solicitud, siempre que esta se presente dentro de los seis meses siguientes a la fecha del agotamiento del periodo trimestral. Si la prórroga se solicita fuera de este plazo de seis meses, la solicitud será denegada, salvo que, en el último día de este plazo, el solicitante se encontrara realizando trabajos por cuenta propia o ajena, en cuyo caso se ampliará el plazo de solicitud hasta los quince días hábiles siguientes a la finalización del trabajo. En este caso se exigirá que el último cese previo al reconocimiento de la prórroga sea involuntario o constituya situación legal de desempleo.
 
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.6 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "**Artículo 276. Nacimiento y prórroga del derecho al subsidio.**
-
-> 1\. El derecho al subsidio por desempleo nace a partir del día siguiente a aquel en que se cumpla el plazo de espera de un mes establecido en el artículo 274.1.
-
-> El derecho a obtener el subsidio no quedará afectado por la aceptación de un trabajo de duración inferior a doce meses durante el plazo de espera de un mes, que quedará en suspenso hasta la finalización de aquel.
-
-> En el supuesto del subsidio previsto en el artículo 274.3, el derecho nacerá a partir del día siguiente al de la situación legal de desempleo, excepto cuando sea de aplicación lo establecido en el artículo 268.3.
-
-> Para ello, será necesario en todos los supuestos que el subsidio se solicite dentro de los quince días siguientes a las fechas anteriormente señaladas y que en la fecha de solicitud se suscriba el acuerdo de actividad al que se refiere el artículo 3 de la Ley 3/2023, de 28 de febrero, de Empleo. Si se presenta la solicitud transcurrido el plazo citado, el derecho nacerá a partir del día siguiente al de la solicitud, reduciéndose su duración en tantos días como medien entre la fecha en que hubiera tenido lugar el nacimiento del derecho, de haberse solicitado en tiempo y forma y aquella en que efectivamente se hubiera formulado la solicitud.
-
-> 2\. A los efectos de que se produzca la prórroga del subsidio hasta su duración máxima prevista en el artículo 277, cada vez que se hayan devengado seis meses de percepción del mismo, los beneficiarios deberán presentar una solicitud de prórroga, acompañada de la documentación acreditativa del mantenimiento de los requisitos de acceso. Dicha solicitud deberá formularse en el plazo que media entre el día siguiente a la fecha de agotamiento del período de derecho semestral y los quince días siguientes a la fecha del vencimiento del período de pago de la última mensualidad devengada.
-
-> La duración del subsidio se prorrogará desde el día siguiente a la fecha de agotamiento del período de derecho semestral si se solicita en el plazo establecido. En otro caso, el derecho a la prórroga tendrá efectividad a partir del día siguiente al de su solicitud reduciéndose su duración en los términos recogidos en el último párrafo del apartado 1.
-
-> 3\. Para mantener la percepción del subsidio para trabajadores mayores de cincuenta y dos años previsto en el artículo 274.4, los beneficiarios deberán presentar ante la entidad gestora una declaración de sus rentas, acompañada de la documentación acreditativa que corresponda.
-
-> Dicha declaración se deberá presentar cada vez que transcurran doce meses desde la fecha del nacimiento del derecho o desde la fecha de su última reanudación, en el plazo de los quince días siguientes a aquel en el que se cumpla el período señalado.
-
-> La falta de aportación de la declaración en el plazo señalado implicará la interrupción del pago del subsidio y de la cotización a la Seguridad Social.
-
-> La aportación de la declaración fuera del plazo señalado implicará, en su caso, la reanudación del devengo del derecho con efectos de la fecha en que se aporte dicha declaración."
-
 > Se modifica por el art. 2.6 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Téngase en cuenta que, de conformidad con la disposición transitoria 1 del citado Real Decreto-ley, hasta el día 31 de octubre de 2024 continuará siendo de aplicación lo previsto en la redacción anterior.
@@ -5457,41 +5053,35 @@ En otro caso, el derecho a la prórroga tendrá efectividad a partir del día de
 
 1\. En los supuestos contemplados en el artículo 274.1.a), la duración máxima del subsidio por desempleo se determinará en función de la edad de la persona solicitante en la fecha de agotamiento de la prestación por desempleo, la acreditación de responsabilidades familiares y la duración de la prestación por desempleo agotada, con arreglo a la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Acreditación responsabilidades familiares</th>
-<th class="cabeza_tabla">Edad en la fecha de agotamiento de la prestación</th>
-<th class="cabeza_tabla">Duración de la prestación por desempleo agotada</th>
-<th class="cabeza_tabla">Duración máxima del subsidio</th>
+<th>Acreditación responsabilidades familiares</th>
+<th>Edad en la fecha de agotamiento de la prestación</th>
+<th>Duración de la prestación por desempleo agotada</th>
+<th>Duración máxima del subsidio</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">No.</td>
-<td class="cuerpo_tabla_centro">&lt;45</td>
-<td class="cuerpo_tabla_centro">&gt;= 360 días</td>
-<td class="cuerpo_tabla_izq" rowspan="2">6 meses.</td>
+<td rowspan="2">No.</td>
+<td>&lt;45</td>
+<td>&gt;= 360 días</td>
+<td rowspan="2">6 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt;45</td>
-<td class="cuerpo_tabla_centro">&gt;= 120 días</td>
+<td>&gt;45</td>
+<td>&gt;= 120 días</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Sí.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Indiferente</td>
-<td class="cuerpo_tabla_centro">&gt;= 120 días</td>
-<td class="cuerpo_tabla_izq">24 meses.</td>
+<td rowspan="2">Sí.</td>
+<td rowspan="2">Indiferente</td>
+<td>&gt;= 120 días</td>
+<td>24 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">&gt;=180 días</td>
-<td class="cuerpo_tabla_izq">30 meses.</td>
+<td>&gt;=180 días</td>
+<td>30 meses.</td>
 </tr>
 </tbody>
 </table>
@@ -5500,43 +5090,38 @@ Quienes hubieran accedido al subsidio sin acreditar responsabilidades familiares
 
 2\. En los supuestos contemplados en el artículo 274.1.b), la duración máxima del subsidio se determinará en función del periodo de ocupación cotizado y de la acreditación de responsabilidades familiares, con arreglo a la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col width="33%">
-<col width="34%">
-<col width="33%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Periodo mínimo de ocupación cotizada</th>
-<th class="cabeza_tabla">Acreditación de responsabilidades familiares</th>
-<th class="cabeza_tabla">Duración máxima del subsidio</th>
+<th>Periodo mínimo de ocupación cotizada</th>
+<th>Acreditación de responsabilidades familiares</th>
+<th>Duración máxima del subsidio</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">90 días.</td>
-<td class="cuerpo_tabla_izq">Indiferente.</td>
-<td class="cuerpo_tabla_izq">3 meses.</td>
+<td>90 días.</td>
+<td>Indiferente.</td>
+<td>3 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">120 días.</td>
-<td class="cuerpo_tabla_izq">Indiferente.</td>
-<td class="cuerpo_tabla_izq">4 meses.</td>
+<td>120 días.</td>
+<td>Indiferente.</td>
+<td>4 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">150 días.</td>
-<td class="cuerpo_tabla_izq">Indiferente.</td>
-<td class="cuerpo_tabla_izq">5 meses.</td>
+<td>150 días.</td>
+<td>Indiferente.</td>
+<td>5 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">180 días.</td>
-<td class="cuerpo_tabla_izq">No.</td>
-<td class="cuerpo_tabla_izq">6 meses.</td>
+<td rowspan="2">180 días.</td>
+<td>No.</td>
+<td>6 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sí.</td>
-<td class="cuerpo_tabla_izq">21 meses.</td>
+<td>Sí.</td>
+<td>21 meses.</td>
 </tr>
 </tbody>
 </table>
@@ -5546,41 +5131,6 @@ Las cotizaciones que sirvieron para el nacimiento del subsidio no podrán ser te
 Quienes hubieran accedido al subsidio por acreditar seis meses de cotización sin responsabilidades familiares, podrán hacerlo posteriormente, siempre que dicha acreditación y la solicitud de ampliación del subsidio tenga lugar dentro del plazo de doce meses siguiente a la fecha del hecho causante del subsidio. En este caso, se ampliará la duración máxima del subsidio inicialmente reconocido hasta los veintiún meses.
 
 3\. En todos los casos el subsidio se reconocerá por periodos trimestrales, prorrogables hasta agotar la duración máxima.
-
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.7 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "1. En los supuestos contemplados en los apartados 1 y 2 del artículo 274 la duración del subsidio por desempleo será de seis meses prorrogables, por períodos semestrales, hasta un máximo de dieciocho meses, excepto en los siguientes casos:
-
-> a) Desempleados incluidos en el artículo 274.1.a) que en la fecha del agotamiento de la prestación por desempleo sean:
-
-> 1.º Mayores de cuarenta y cinco años y hayan agotado un derecho a prestaciones por desempleo de, al menos, ciento veinte días. En este caso, el subsidio se prorrogará hasta un máximo de veinticuatro meses.
-
-> 2.º Mayores de cuarenta y cinco años y hayan agotado un derecho a prestaciones por desempleo de, al menos, ciento ochenta días. En este caso, el subsidio se prorrogará hasta un máximo de treinta meses.
-
-> 3.º Menores de cuarenta y cinco años y hayan agotado un derecho a prestaciones por desempleo de, al menos, ciento ochenta días. En este caso, el subsidio se prorrogará hasta un máximo de veinticuatro meses.
-
-> b) Desempleados incluidos en el artículo 274.1.b). En este caso la duración del subsidio será de seis meses improrrogables.
-
-> 2\. En el caso previsto en el artículo 274.3, la duración del subsidio será la siguiente:
-
-> a) En el caso de que el trabajador tenga responsabilidades familiares:
-
-> | Periodo de cotización | Duración del subsidio |
-> |---|---|
-> | 3 meses de cotización | 3 meses |
-> | 4 meses de cotización | 4 meses |
-> | 5 meses de cotización | 5 meses |
-> | 6 o más meses de cotización | 21 meses |
-
-> Si el subsidio tiene una duración de veintiún meses, se reconocerá por un período de seis meses, prorrogables hasta agotar su duración máxima.
-
-> b) En el caso de que el trabajador carezca de responsabilidades familiares y tenga al menos seis meses de cotización, la duración del subsidio será de seis meses improrrogables.
-
-> En ambos casos, las cotizaciones que sirvieron para el nacimiento del subsidio no podrán ser tenidas en cuenta para el reconocimiento de un futuro derecho a la prestación del nivel contributivo.
-
-> 3\. En el supuesto previsto en el artículo 274.4, el subsidio se extenderá, como máximo, hasta que el trabajador alcance la edad ordinaria que se exija en cada caso para causar derecho a la pensión contributiva de jubilación.
-
-> 4\. El Gobierno, previo informe al Consejo General del Servicio Público de Empleo Estatal, podrá modificar la duración del subsidio por desempleo en función de la tasa de desempleo y las posibilidades del régimen de financiación."
 
 > Se modifica por el art. 2.7 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -5605,12 +5155,6 @@ Quienes hubieran accedido al subsidio por acreditar seis meses de cotización si
 ###### Artículo 278. Cuantía del subsidio.
 
 La cuantía del subsidio será igual a los siguientes porcentajes del indicador público de rentas de efectos múltiples mensual vigente en cada momento: el 95 por ciento durante los ciento ochenta primeros días, el 90 por ciento desde el día ciento ochenta y uno al día trescientos sesenta, y el 80 por ciento a partir del día trescientos sesenta y uno.
-
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.8 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "1. La cuantía del subsidio por desempleo será igual al 80 por ciento del Indicador Público de Renta de Efectos Múltiples mensual vigente en cada momento. En el caso de desempleo por pérdida de un trabajo a tiempo parcial, dicha cuantía se percibirá en proporción a las horas previamente trabajadas en los supuestos previstos en los apartados 1.a), 1.b) y 3 del artículo 274.
-
-> 2\. El Gobierno, previo informe al Consejo General del Servicio Público de Empleo Estatal, podrá modificar la cuantía del subsidio por desempleo en función de la tasa de desempleo y las posibilidades del régimen de financiación."
 
 > Se modifica por el art. 2.8 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -5637,16 +5181,6 @@ Salvo en el supuesto de que el trabajador se hubiera encontrado en la situación
 2\. El subsidio previsto en el artículo 274.1 se extinguirá por las causas previstas en el artículo 272, excepto la regulada en su letra h), así como por el transcurso de seis meses desde el agotamiento de la prórroga trimestral o desde la finalización de la situación específica que implicó su suspensión, salvo, en ambos casos, en el supuesto de que el trabajador se encuentre en esa fecha en la situación prevista en el último párrafo del artículo 276.2, en cuyo caso se extinguirá por el transcurso del plazo de los quince días hábiles siguientes a la finalización del trabajo sin haber solicitado la prórroga o reanudación acreditando cumplir todos los requisitos para su reconocimiento.
 
 3\. El subsidio para trabajadores mayores de 52 años previsto en el artículo 274.3 se suspenderá, reanudará y extinguirá conforme a lo previsto en el artículo 280.
-
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.9 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "**Artículo 279. Suspensión y extinción del derecho al subsidio.**
-
-> 1\. Serán de aplicación al subsidio por desempleo las normas sobre suspensión y extinción previstas en los artículos 271 y 272.
-
-> 2\. Asimismo el subsidio se suspenderá por la obtención, por tiempo inferior a doce meses, de rentas superiores a las establecidas en el artículo 275 y por dejar de reunir por tiempo inferior a doce meses el requisito de responsabilidades familiares cuando hubiese sido necesario para el reconocimiento del derecho. Tras dicha suspensión, el trabajador podrá reanudar la percepción del subsidio siempre que acredite el requisito de carencia de rentas y, en su caso, el de responsabilidades familiares, en los términos establecidos en el artículo 275.
-
-> 3\. Se producirá la extinción del subsidio en el caso de que la obtención de rentas superiores a las establecidas o la inexistencia de responsabilidades familiares se mantenga por tiempo igual o superior a doce meses. Tras dicha extinción, el trabajador solo podrá obtener el reconocimiento de un derecho al subsidio si vuelve a encontrarse de nuevo en alguna de las situaciones previstas en el artículo 274 y reúne los requisitos exigidos."
 
 > Se modifica por el art. 2.9 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -5713,18 +5247,6 @@ A efectos de determinar la cotización se tomará como base de cotización el 12
 En caso de percibir el complemento de apoyo al empleo, la base por la que deberá cotizarse se reducirá en proporción a la jornada trabajada.
 
 El Gobierno podrá extender a otros colectivos de trabajadores lo dispuesto en este apartado.
-
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.10 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "**Artículo 280. Cotización durante la percepción del subsidio.**
-
-> 1\. La entidad gestora cotizará por la contingencia de jubilación durante la percepción del subsidio por desempleo para trabajadores mayores de cincuenta y dos años, tomándose como base de cotización el 125 por ciento del tope mínimo de cotización vigente en cada momento.
-
-> Las cotizaciones efectuadas conforme a lo previsto en el párrafo anterior tendrán efecto para el cálculo de la base reguladora de la pensión de jubilación y porcentaje aplicable a aquella en cualquiera de sus modalidades, así como para completar el tiempo necesario para el acceso a la jubilación anticipada.
-
-> En ningún caso dichas cotizaciones tendrán validez y eficacia jurídica para acreditar el período mínimo de cotización exigido en el artículo 205.1.b), que, de conformidad con lo dispuesto en el artículo 274.4 ha debido quedar acreditado en el momento de la solicitud del subsidio por desempleo para mayores de cincuenta y dos años.
-
-> 2\. El Gobierno podrá extender a otros colectivos de trabajadores lo dispuesto en el apartado 1."
 
 > Se modifica por el art. 2.10 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -5800,24 +5322,6 @@ Tampoco se aplicará la compatibilidad prevista en este apartado respecto de las
 
 7\. Cuando así lo establezca algún programa de fomento al empleo destinado a colectivos con dificultad de inserción en el mercado de trabajo, se podrá compatibilizar la percepción de la prestación contributiva por desempleo pendiente de percibir con el trabajo por cuenta propia, en cuyo caso la entidad gestora podrá abonar al trabajador el importe mensual de la prestación en la cuantía y duración que se determinen, sin incluir la cotización a la Seguridad Social.
 
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.11 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior, salvo lo relativo al apartado 5:
-
-> "1. La prestación y el subsidio por desempleo serán incompatibles con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en alguno de los regímenes de la Seguridad Social, o con el trabajo por cuenta ajena, excepto cuando este se realice a tiempo parcial, en cuyo caso se deducirá del importe de la prestación o subsidio la parte proporcional al tiempo trabajado.
-
-> La deducción en el importe de la prestación o subsidio a que se refiere el párrafo anterior se efectuará tanto cuando el trabajador esté percibiendo la prestación o el subsidio por desempleo como consecuencia de la pérdida de un trabajo a tiempo completo o parcial y obtenga un nuevo trabajo a tiempo parcial, como cuando tenga dos contratos a tiempo parcial y pierda uno de ellos.
-
-> 2\. La prestación y el subsidio por desempleo serán, asimismo, incompatibles con la obtención de prestaciones de carácter económico de la Seguridad Social, salvo que estas hubieran sido compatibles con el trabajo que originó la prestación o el subsidio.
-
-> La prestación y el subsidio serán compatibles con la percepción de cualquier tipo de rentas mínimas, salarios sociales o ayudas análogas de asistencia social concedidas por cualquier Administración Pública, sin perjuicio de su cómputo a efectos del cumplimiento de los requisitos de carencia de rentas o de existencia de responsabilidades familiares de acuerdo con lo establecido en el artículo 275.
-
-> 3\. Como excepción a lo dispuesto en el apartado 1, cuando así lo establezca algún programa de fomento al empleo destinado a colectivos con mayor dificultad de inserción en el mercado de trabajo, se podrá compatibilizar la percepción de la prestación por desempleo o del subsidio por desempleo pendientes de percibir con el trabajo por cuenta ajena, en cuyo caso la entidad gestora podrá abonar al trabajador el importe mensual de las prestaciones en la cuantía y duración que se determinen, sin incluir la cotización a la Seguridad Social.
-
-> En el supuesto previsto en el párrafo anterior, durante el período de percepción de las prestaciones el empresario deberá abonar al trabajador la diferencia entre la prestación o subsidio por desempleo y el salario que le corresponda, siendo, asimismo, responsable de cotizar a la Seguridad Social por el total del salario indicado, incluido el importe de la prestación o subsidio.
-
-> Asimismo, con el fin de hacer efectivo el derecho a la formación de trabajadores ocupados así como de incrementar las posibilidades de empleo de los trabajadores desempleados, se determinarán programas que permitan a las empresas sustituir a los trabajadores en formación por otros trabajadores desempleados beneficiarios de prestaciones por desempleo. En este caso, los trabajadores podrán compatibilizar las prestaciones con el trabajo a que se refiere este apartado.
-
-> 4\. Cuando así lo establezca algún programa de fomento al empleo destinado a colectivos con mayor dificultad de inserción en el mercado de trabajo, se podrá compatibilizar la percepción de la prestación por desempleo pendiente de percibir con el trabajo por cuenta propia, en cuyo caso la entidad gestora podrá abonar al trabajador el importe mensual de la prestación en la cuantía y duración que se determinen, sin incluir la cotización a la Seguridad Social."
-
 > Se modifica por el art. 2.11 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Téngase en cuenta que, de conformidad con la disposición transitoria 1 del citado Real Decreto-ley, hasta el día 31 de octubre de 2024 continuará siendo de aplicación lo previsto en la redacción anterior, salvo lo relativo al apartado 5.
@@ -5848,8 +5352,6 @@ El período de percepción de la prestación por desempleo no se ampliará por l
 
 3\. Lo establecido en los apartados anteriores será de aplicación a los trabajadores fijos discontinuos durante los periodos de inactividad productiva.
 
-> Téngase en cuenta que, si bien esta actualización por la que se añade el apartado 3, establecida por el art. 2.12 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior.
-
 > Se añade el apartado 3 por el art. 2.12 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Téngase en cuenta que, de conformidad con la disposición transitoria 1 del citado Real Decreto-ley, hasta el día 31 de octubre de 2024 continuará siendo de aplicación lo previsto en la redacción anterior.
@@ -5867,16 +5369,6 @@ El período de percepción de la prestación por desempleo no se ampliará por l
 2\. Cuando el trabajador esté percibiendo la prestación por desempleo total y pase a la situación de nacimiento, adopción, guarda con fines de adopción o acogimiento percibirá la prestación por estas últimas contingencias en la cuantía que corresponda.
 
 En este supuesto se le suspenderá la prestación por desempleo y la cotización a la Seguridad Social prevista en el artículo 265.1.a).2.º y pasará a percibir la prestación correspondiente a su situación, gestionada directamente por su entidad gestora. Una vez extinguida esta, se reanudará la prestación por desempleo, en los términos recogidos en el artículo 271.4.b) por la duración que restaba por percibir y la cuantía que correspondía en el momento de la suspensión.
-
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.13 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "**Artículo 284. Prestación por desempleo, maternidad y paternidad.**
-
-> 1\. Cuando el trabajador se encuentre en situación de maternidad o de paternidad y durante las mismas se extinga su contrato por alguna de las causas previstas en el artículo 267.1, seguirá percibiendo la prestación por maternidad o por paternidad hasta que se extingan dichas situaciones, pasando entonces a la situación legal de desempleo y a percibir, si reúne los requisitos necesarios, la correspondiente prestación. En este caso no se descontará del período de percepción de la prestación por desempleo de nivel contributivo el tiempo que hubiera permanecido en situación de maternidad o de paternidad.
-
-> 2\. Cuando el trabajador esté percibiendo la prestación por desempleo total y pase a la situación de maternidad o de paternidad, percibirá la prestación por estas últimas contingencias en la cuantía que corresponda.
-
-> Si el trabajador pasa a la situación de maternidad o de paternidad, se le suspenderá la prestación por desempleo y la cotización a la Seguridad Social prevista en el artículo 265.1.a).2.º y pasará a percibir la prestación por maternidad o por paternidad, gestionada directamente por su entidad gestora. Una vez extinguida la prestación por maternidad o por paternidad, se reanudará la prestación por desempleo, en los términos recogidos en el artículo 271.4.b), por la duración que restaba por percibir y la cuantía que correspondía en el momento de la suspensión."
 
 > Se modifica por el art. 2.13 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -5908,16 +5400,6 @@ No cotizarán por la contingencia de desempleo, ni tendrán derecho a las presta
 
 2\. La cotización a la Seguridad Social durante la percepción de las prestaciones se regirá por lo dispuesto en el artículo 289.
 
-> Téngase en cuenta que, si bien esta actualización del apartado 1, establecida por el art. 2.14 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "1. Los trabajadores incluidos en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios tendrán derecho a la protección por desempleo en los siguientes términos:
-
-> a) La protección por desempleo de los trabajadores por cuenta ajena agrarios fijos y fijos discontinuos se aplicará conforme a lo establecido con carácter general en este título así como específicamente en el apartado 1.a). 1.ª del artículo siguiente.
-
-> b) La protección por desempleo de los trabajadores por cuenta ajena agrarios eventuales se aplicará conforme a lo establecido específicamente en el artículo siguiente y con carácter general en esta sección.
-
-> c) La protección por desempleo específica de los trabajadores por cuenta ajena agrarios eventuales residentes en las Comunidades Autónomas de Andalucía y Extremadura se regirá por lo dispuesto en el artículo 288."
-
 > Se modifica el apartado 1 por el art. 2.14 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Téngase en cuenta que, de conformidad con la disposición transitoria 1 del citado Real Decreto-ley, hasta el día 31 de octubre de 2024 continuará siendo de aplicación lo previsto en la redacción anterior.
@@ -5939,50 +5421,6 @@ No cotizarán por la contingencia de desempleo, ni tendrán derecho a las presta
 4\. Si el trabajador eventual agrario reúne los requisitos para obtener la protección por desempleo de nivel contributivo o asistencial regulada en este título, así como para acceder al subsidio por desempleo establecido en el Real Decreto 5/1997, de 10 de enero, o la renta agraria, regulada en el Real Decreto 426/2003, de 11 de abril, podrá optar por uno de los dos derechos, aplicándose la regla siguiente:
 
 Si solicita el subsidio por desempleo regulado en el Real Decreto 5/1997, de 10 de enero, o la renta agraria establecida en el Real Decreto 426/2003, de 11 de abril, todas las jornadas reales cubiertas en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios, cualquiera que sea su número, se tendrán en cuenta para acreditar los requisitos establecidos, respectivamente, en los artículos 2.1.c) y 2.1.d) de los citados reales decretos. Las cotizaciones por desempleo anteriores a la fecha del reconocimiento de dicho subsidio o renta agraria, que no se hayan computado para la obtención de tales derechos, podrán computarse para el reconocimiento de un derecho posterior, de nivel contributivo o asistencial.
-
-> Téngase en cuenta que, si bien esta actualización, establecida por el art. 2.15 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), ha entrado en vigor el 23 de mayo de 2024, conforme a su disposición final 14.1, la disposición transitoria primera del citado Real Decreto-ley establece que, hasta el día 31 de octubre de 2024, continuará siendo de aplicación lo previsto en su redacción anterior:
-
-> "1. Será obligatoria la cotización por desempleo de los trabajadores por cuenta ajena agrarios eventuales con las peculiaridades siguientes:
-
-> a) Para tener derecho a las prestaciones por desempleo deberán reunir los requisitos establecidos en el artículo 266, con las especialidades siguientes:
-
-> 1.ª No cotizarán por la contingencia de desempleo, ni tendrán derecho a las prestaciones por desempleo por los períodos de actividad correspondientes, el cónyuge, los descendientes, ascendientes y demás parientes, por consanguinidad o afinidad hasta el segundo grado inclusive y, en su caso, por adopción, del titular de la explotación agraria en la que trabajen siempre que convivan con este, salvo que se demuestre su condición de asalariados.
-
-> 2.ª La duración de la prestación por desempleo estará en función de los períodos de ocupación cotizada en los seis años anteriores a la situación legal de desempleo o al momento en que cesó la obligación de cotizar con arreglo a la siguiente escala:
-
-> | Período de cotización<br>–<br>En días | Período de prestación<br>–<br>En días |
-> |---|---|
-> | Desde 360 hasta 539 | 120 |
-> | Desde 540 hasta 719 | 180 |
-> | Desde 720 hasta 899 | 240 |
-> | Desde 900 hasta 1.079 | 300 |
-> | Desde 1.080 hasta 1.259 | 360 |
-> | Desde 1.260 hasta 1.439 | 420 |
-> | Desde 1.440 hasta 1.619 | 480 |
-> | Desde 1.620 hasta 1.799 | 540 |
-> | Desde 1.800 hasta 1.979 | 600 |
-> | Desde 1.980 hasta 2.159 | 660 |
-> | Desde 2.160 | 720 |
-
-> Si el trabajador eventual agrario de forma inmediatamente anterior figuró de alta en Seguridad Social como trabajador autónomo o por cuenta propia, el período mínimo de cotización necesario para el acceso a la prestación por desempleo será de setecientos veinte días, aplicándose la escala anterior a partir de ese período.
-
-> b) No será de aplicación a estos trabajadores la protección por desempleo de nivel asistencial, establecida en el artículo 274.
-
-> 2\. En todos los aspectos no contemplados expresamente en el apartado 1 será de aplicación lo establecido con carácter general en este título.
-
-> 3\. El Gobierno podrá establecer limitaciones en el acceso a la protección por desempleo de determinados colectivos; exigir una declaración de actividad previa al pago de las prestaciones; modificar la escala que fija la duración de la prestación contributiva; y extender la protección asistencial a los trabajadores, en función de la tasa de desempleo y la situación financiera del sistema.
-
-> 4\. Los períodos de ocupación cotizada en actividades sujetas al Sistema Especial para Trabajadores por Cuenta Ajena Agrarios como trabajador agrícola fijo o a otros regímenes que tengan previsto cotizar por la contingencia de desempleo y los períodos de ocupación cotizada como eventual agrario se computarán recíprocamente para la obtención de prestaciones de nivel contributivo. En este caso, si se acredita que el mayor período no corresponde a un período de ocupación cotizada como eventual agrario, las prestaciones por desempleo y, en su caso, los subsidios por agotamiento se otorgarán conforme a lo establecido con carácter general en este título; en otro caso, se aplicarán las normas especiales de protección previstas en este artículo, todo ello, con independencia de que la situación legal de desempleo se produzca por el cese en un trabajo eventual agrario, o no.
-
-> No cabrá el cómputo recíproco de cotizaciones previsto en el párrafo anterior para acceder al subsidio por desempleo establecido en el artículo 274.3; por ello, las jornadas reales cubiertas en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios como eventual agrario no se computarán para obtener dicho subsidio, pero servirán para obtener un futuro derecho a la prestación por desempleo de nivel contributivo, o, en su caso, al subsidio por desempleo establecido en el Real Decreto 5/1997, de 10 de enero, siempre que se cumplan los requisitos exigidos en cada caso.
-
-> 5\. Las cotizaciones por jornadas reales que hayan sido computadas para el reconocimiento de las prestaciones por desempleo de carácter general no podrán computarse para el reconocimiento del subsidio por desempleo en favor de los trabajadores agrarios eventuales establecido en el Real Decreto 5/1997, de 10 de enero, y las computadas para reconocer el citado subsidio no podrán computarse para obtener prestaciones por desempleo de carácter general.
-
-> 6\. Si el trabajador eventual agrario reúne los requisitos para obtener la prestación por desempleo de nivel contributivo regulada en el apartado 1.a) de este artículo y el subsidio por desempleo establecido en el Real Decreto 5/1997, de 10 de enero, podrá optar por uno de los dos derechos, aplicándose las reglas siguientes:
-
-> a) Si solicita el subsidio por desempleo establecido en el Real Decreto 5/1997, todas las jornadas reales cubiertas en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios, cualquiera que sea su número, se tendrán en cuenta para acreditar el requisito establecido en el artículo 2.1.c) del citado real decreto. En el caso de existir cotizaciones por desempleo a otros regímenes de Seguridad Social no computadas para obtener dicho subsidio, las mismas servirán para obtener una prestación o subsidio por desempleo posterior, conforme a lo establecido en este título.
-
-> b) Si se solicita la prestación por desempleo de nivel contributivo regulada en el apartado 1.a) de este artículo a efectos de determinar el período de ocupación cotizada, se computarán todas las jornadas reales cotizadas en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios, así como el resto de cotizaciones por desempleo efectuadas en otros regímenes de Seguridad Social, siempre que no hayan sido computados para obtener una prestación o subsidio anterior, y que se hayan efectuado dentro de los seis años anteriores a la situación legal de desempleo o al momento en que cesó la obligación legal de cotizar, siendo de aplicación, en su caso, lo establecido en el párrafo anterior, así como lo previsto en el apartado 4 de este artículo."
 
 > Se modifica por el art. 2.15 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -6268,8 +5706,6 @@ m) Quienes ejerzan por cuenta propia cualquiera de las actividades artísticas a
 
 n) Cualesquiera otras personas que, por razón de su actividad, sean objeto de inclusión mediante norma reglamentaria, conforme a lo dispuesto en el artículo 7.1.b).
 
-> Téngase en cuenta que la última actualización, por la que se añade una nueva letra m) reordenando la anterior m) como n), establecida por la disposición final 4.8 del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de abril de 2023, según establece su disposición final 13.c).
-
 > Se reordena la letra m) como n) y se añade una nueva la letra m) al apartado 2, con efectos de 1 de abril de 2023, por la disposición final 4.8 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
 > Redactado el apartado 2.d) conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2016. [Ref. BOE-A-2016-1320](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1320).
@@ -6285,16 +5721,6 @@ n) Cualesquiera otras personas que, por razón de su actividad, sean objeto de i
 ###### Artículo 307. Afiliación, altas, bajas y variaciones de datos.
 
 Las personas trabajadoras autónomas están obligadas a solicitar su afiliación al sistema de la Seguridad Social y a comunicar sus altas, bajas y variaciones de datos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos en los términos, plazos y condiciones establecidos en esta ley y en sus disposiciones de aplicación y desarrollo.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.4 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 307. Afiliación, altas, bajas, variaciones de datos, cotización y recaudación.
-
-> 1\. Los trabajadores por cuenta propia están obligados a solicitar su afiliación al sistema de la Seguridad Social y a comunicar sus altas, bajas y variaciones de datos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos en los términos, plazos y condiciones establecidos en esta ley y en sus disposiciones de aplicación y desarrollo.
-
-> 2\. Sin perjuicio de las especialidades contenidas en los artículos siguientes, en materia de cotización, liquidación y recaudación serán de aplicación a este régimen especial las normas establecidas en el capítulo III del título I y en sus disposiciones de aplicación y desarrollo."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.4 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -6376,18 +5802,6 @@ En los supuestos de este apartado, no se modificará, en caso alguno, el importe
 
 2\. Sin perjuicio de lo dispuesto en los apartados anteriores de este artículo y de las especialidades reguladas en los artículos siguientes, en materia de cotización, liquidación y recaudación se aplicarán a este régimen especial las normas establecidas en el capítulo III del título I, y en sus disposiciones de aplicación y desarrollo.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), y en la redaccion dada a este por la disposición final 10.1.a) y b) del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925), entra en vigor el 1 de enero de 2023, según determina la disposición final 5 de aquella y la disposición final 17.2.d) de esta última.
-
-> Redacción anterior:
-
-> "Artículo 308. Cotización durante la situación de incapacidad temporal, y por contingencias profesionales.
-
-> 1\. En la situación de incapacidad temporal con derecho a prestación económica, transcurridos 60 días en dicha situación desde la baja médica, corresponderá hacer efectivo el pago de las cuotas, por todas las contingencias, a la mutua colaboradora con la Seguridad Social, a la entidad gestora o, en su caso, al servicio público de empleo estatal, con cargo a las cuotas por cese de actividad.
-
-> 2\. A los efectos de la aplicación de lo establecido en el párrafo anterior, la cuantía equivalente al pago efectivo de las cotizaciones de los trabajadores autónomos en periodo de baja laboral pasados los 60 días que el servicio público de empleo estatal deba asumir, se fijara mediante un coeficiente aplicable al total de cuotas por cese de actividad de todos los trabajadores con cobertura por dicha entidad. Dicho coeficiente se establecerá anualmente en la Orden por la que se desarrollan las normas legales de cotización a la Seguridad Social, desempleo, protección por cese de actividad, Fondo de Garantía salarial y formación profesional para cada ejercicio.
-
-> 3\. La cotización correspondiente a las contingencias de accidentes de trabajo y enfermedades profesionales se realizará mediante la aplicación de un tipo único fijado anualmente en la Ley de Presupuestos Generales del Estado, que se aplicará sobre la base de cotización elegida por el interesado."
-
 > Se modifican, con efectos de 1 de enero de 2023, los apartados 1.a) regla 5ª y 1.c) regla 4ª por el art. 1.5 del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.1.a) y b) del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.5 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
@@ -6406,18 +5820,6 @@ Del mismo modo, durante los períodos en que las personas trabajadoras por cuent
 
 2\. En la situación de incapacidad temporal con derecho a prestación económica, transcurridos sesenta días en dicha situación desde la baja médica, corresponderá hacer efectivo el pago de las cuotas, por todas las contingencias, a la mutua colaboradora con la Seguridad Social o, en su caso, al Servicio Público de Empleo Estatal.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.6 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 309. Cotización en supuestos de compatibilidad de jubilación y trabajo por cuenta propia.
-
-> 1\. Durante la realización de un trabajo por cuenta propia compatible con la pensión de jubilación, en los términos establecidos en el artículo 214, los trabajadores cotizarán a este régimen especial únicamente por incapacidad temporal y por contingencias profesionales, conforme a lo previsto en este capítulo, si bien quedarán sujetos a una cotización especial de solidaridad del 9 por ciento sobre la base por contingencias comunes, no computable a efectos de prestaciones.
-
-> 2\. También estarán sujetos a una cotización de solidaridad del 9 por ciento sobre la base mínima de cotización del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, los pensionistas de jubilación que compatibilicen la pensión con una actividad profesional por cuenta propia estando incluidos en una mutualidad alternativa al citado régimen especial al amparo de lo establecido en la disposición adicional decimoctava, la cual no será computable a efectos de prestaciones.
-
-> La cuota correspondiente se deducirá mensualmente del importe de la pensión."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.6 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se modifica por la disposición final 38.3 de la Ley 11/2020, de 30 de diciembre. [Ref. BOE-A-2020-17339](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17339)
@@ -6430,21 +5832,11 @@ Del mismo modo, durante los períodos en que las personas trabajadoras por cuent
 
 La cuota correspondiente se deducirá mensualmente del importe de la pensión.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.7 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 310. Elección de la base de cotización con independencia de la edad.
-
-> Los trabajadores de este Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos podrán elegir, con independencia de su edad, una base de cotización que pueda alcanzar hasta el 220 por ciento de la base mínima de cotización que cada año se establezca para este régimen especial."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.7 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ###### Artículo 310 bis. Cotización de los perceptores de pensión de jubilación cuando realicen actividades artísticas.
 
 Durante la realización de un trabajo por cuenta propia compatible con la pensión de jubilación, en los términos establecidos en el artículo 249 *quater,* las personas estarán obligadas a solicitar el alta y cotizar en este régimen especial únicamente por contingencias profesionales y quedarán sujetas a una cotización especial de solidaridad del 9 por ciento sobre su base de cotización por contingencias comunes, no computable a efectos de prestaciones.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 4.9 del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de abril de 2023, según establece su disposición final 13.c).
 
 > Se añade, con efectos de 1 de abril de 2023, por la disposición final 4.9 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
@@ -6460,14 +5852,6 @@ Los trabajadores incluidos en este régimen especial quedarán exentos de cotiza
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.c) del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> 1\. Para los trabajadores incluidos en este régimen especial que en algún momento de cada ejercicio económico y de manera simultánea hayan tenido contratado a su servicio un número de trabajadores por cuenta ajena igual o superior a diez, la base mínima de cotización para el ejercicio siguiente se determinará en la correspondiente Ley de Presupuestos Generales del Estado.
-
-> 2\. Dicha base mínima de cotización será también aplicable en cada ejercicio económico a los trabajadores autónomos incluidos en este régimen especial al amparo de lo establecido en el artículo 305.2, letras b) y e), a excepción de aquellos que causen alta inicial en el mismo, durante los doce primeros meses de su actividad, a contar desde la fecha de efectos de dicha alta.
-
 > Se deroga, con efectos de 1 de enero de 2023, por la disposición derogatoria única.c) del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se modifica por el art. 12.1 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207)
@@ -6479,24 +5863,6 @@ Los trabajadores incluidos en este régimen especial quedarán exentos de cotiza
 Las personas trabajadoras por cuenta propia o autónomas que, en razón de un trabajo por cuenta ajena desarrollado simultáneamente, coticen en régimen de pluriactividad, teniendo en cuenta tanto las cotizaciones efectuadas en este régimen especial como las aportaciones empresariales y las correspondientes al trabajador en el régimen de Seguridad Social que corresponda por su actividad por cuenta ajena, tendrán derecho al reintegro del 50 por ciento del exceso en que sus cotizaciones por contingencias comunes superen la cuantía que se establezca a tal efecto por la Ley de Presupuestos Generales del Estado para cada ejercicio, con el tope del 50 por ciento de las cuotas ingresadas en este régimen especial en razón de su cotización por las contingencias comunes.
 
 En tales supuestos, la Tesorería General de la Seguridad Social procederá a abonar el reintegro que en cada caso corresponda en un plazo máximo de cuatro meses desde la regularización prevista en el artículo 308.1.c) salvo cuando concurran especialidades en la cotización que impidan efectuarlo en ese plazo o resulte necesaria la aportación de datos por parte del interesado, en cuyo caso el reintegro se realizará con posterioridad al mismo.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.8 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 313. Cotización en supuestos de pluriactividad.
-
-> 1\. Los trabajadores autónomos que, en razón de un trabajo por cuenta ajena desarrollado simultáneamente, coticen en régimen de pluriactividad, teniendo en cuenta tanto las cotizaciones efectuadas en este régimen especial como las aportaciones empresariales y las correspondientes al trabajador en el régimen de Seguridad Social que corresponda por su actividad por cuenta ajena, tendrán derecho al reintegro del 50 por ciento del exceso en que sus cotizaciones por contingencias comunes superen la cuantía que se establezca a tal efecto por la Ley de Presupuestos Generales del Estado para cada ejercicio, con el tope del 50 por ciento de las cuotas ingresadas en este régimen especial en razón de su cotización por las contingencias comunes.
-
-> En tales supuestos, la Tesorería General de la Seguridad Social procederá a abonar el reintegro que en cada caso corresponda antes del 1 de mayo del ejercicio siguiente, salvo cuando concurran especialidades en la cotización que impidan efectuarlo en ese plazo o resulte necesaria la aportación de datos por parte del interesado, en cuyo caso el reintegro se realizará con posterioridad a esa fecha.
-
-> 2\. Sin perjuicio de lo indicado en el apartado anterior y de conformidad con lo previsto en el artículo 28 de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, cuando el alta inicial en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos dé lugar a una situación de pluriactividad se aplicarán las siguientes reglas en la cotización:
-
-> 1.ª Los trabajadores que causen alta por primera vez en este régimen especial y con motivo de la misma inicien una situación de pluriactividad podrán elegir como base de cotización en ese momento, la comprendida entre el 50 por ciento de la base mínima de cotización establecida anualmente con carácter general en la Ley de Presupuestos Generales del Estado durante los primeros dieciocho meses, y el 75 por ciento durante los siguientes dieciocho meses, hasta las bases máximas establecidas para este régimen especial.
-
-> 2.ª En los supuestos de trabajadores en situación de pluriactividad en que la actividad laboral por cuenta ajena lo fuera a tiempo parcial con una jornada a partir del 50 por ciento de la correspondiente a la de un trabajador con jornada a tiempo completo comparable, se podrá elegir en el momento del alta, como base de cotización, la comprendida entre el 75 por ciento de la base mínima de cotización establecida anualmente con carácter general en la Ley de Presupuestos Generales del Estado durante los primeros dieciocho meses, y el 85 por ciento durante los siguientes dieciocho meses, hasta las bases máximas establecidas para este régimen especial.
-
-> 3.ª La aplicación de esta medida será incompatible con cualquier otra bonificación o reducción establecida como medida de fomento del empleo autónomo, así como con el reintegro de cuotas previsto en el apartado 1 de este artículo como consecuencia del ejercicio de la actividad por cuenta propia en régimen de pluriactividad con otra por cuenta ajena."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.8 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -6520,8 +5886,6 @@ Cuando en el citado procedimiento de regularización de cuotas se compruebe que 
 
 Las solicitudes presentadas en cada trimestre natural surtirán efectos a partir del primer mes del trimestre natural posterior.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 4.10 del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de abril de 2023, según establece su disposición final 13.d).
-
 > Se añade, con efectos de 1 de abril de 2023, por la disposición final 4.10 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
 > Véase la disposición transitoria cuarta del citado Real Decreto-ley que fija para 2023 la base de cotización mensual a la que se refiere el párrafo primero de este artículo.
@@ -6544,16 +5908,6 @@ La cobertura de la contingencia por incapacidad temporal en este régimen especi
 
 Lo previsto en el párrafo anterior se entiende sin perjuicio de las excepciones establecidas en la disposición adicional vigésima octava respecto a los socios de cooperativas que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al sistema público, y a los miembros de institutos de vida consagrada de la Iglesia Católica.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.9 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 315. Cobertura de la incapacidad temporal.
-
-> La cobertura de la prestación por incapacidad temporal en este régimen especial tendrá carácter obligatorio, salvo que se tenga cubierta dicha prestación en razón de la actividad realizada en otro régimen de la Seguridad Social.
-
-> Lo previsto en el párrafo anterior se entiende sin perjuicio de las especialidades establecidas en el artículo 317, respecto de los trabajadores autónomos económicamente dependientes, y en el artículo 326, respecto de los trabajadores del Sistema Especial para Trabajadores por Cuenta Propia Agrarios."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.9 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ###### Artículo 316. Cobertura de las contingencias profesionales.
@@ -6567,12 +5921,6 @@ Por las contingencias indicadas, se reconocerán las prestaciones que, por las m
 También se entenderá como accidente de trabajo el sufrido al ir o al volver del lugar de la prestación de la actividad económica o profesional. A estos efectos se entenderá como lugar de la prestación el establecimiento en donde el trabajador autónomo ejerza habitualmente su actividad siempre que no coincida con su domicilio y se corresponda con el local, nave u oficina declarado como afecto a la actividad económica a efectos fiscales.
 
 3\. Lo previsto en este artículo se entiende sin perjuicio de lo establecido en el artículo 317, respecto de las personas trabajadoras por cuenta propia o autónomas económicamente dependientes, en el artículo 326 respecto de los trabajadores del sistema especial para trabajadores por cuenta propia agrarios, en la disposición adicional vigésima octava, respecto de los socios de cooperativas que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al sistema público, y de los miembros de institutos de vida consagrada de la Iglesia Católica.»
-
-> Téngase en cuenta que la modificación del apartado 3, establecida por el art. 1.10 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "3. Lo previsto en este artículo se entiende sin perjuicio de lo establecido en el artículo 317, respecto de los trabajadores autónomos económicamente dependientes, y en el artículo 326, respecto de los trabajadores del Sistema Especial para Trabajadores por Cuenta Propia Agrarios."
 
 > Se modifica el apartado 3, con efectos de 1 de enero de 2023, por el art. 1.10 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -6646,14 +5994,6 @@ g) Lo dispuesto en el artículo 163.
 
 2\. Por los períodos de actividad en los que los trabajadores incluidos en este régimen especial no hayan efectuado cotizaciones, en los términos previstos en el artículo 311, a efectos de determinar la base reguladora de las prestaciones excluidas de cotización, las bases de cotización correspondientes a las mensualidades de cada ejercicio económico exentas de cotización serán equivalentes al resultado de incrementar, el promedio de las bases de cotización del año natural inmediatamente anterior en el porcentaje de variación media conocida del Índice de Precios de Consumo en el último año indicado, sin que las bases así calculadas puedan ser inferiores a la cuantía de la base mínima de cotización del tramo 1 de la tabla general de bases a que se refiere la regla 1.ª del artículo 308.1.a), fijada anualmente en la Ley de Presupuestos Generales del Estado.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.12 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 320. Base reguladora en los supuestos de cotización con 65 o más años de edad.
-
-> Por los períodos de actividad en los que el trabajador no haya efectuado cotizaciones, en los términos previstos artículo 311, a efectos de determinar la base reguladora de las prestaciones excluidas de cotización, las bases de cotización correspondientes a las mensualidades de cada ejercicio económico exentas de cotización serán equivalentes al resultado de incrementar el promedio de las bases de cotización del año natural inmediatamente anterior en el porcentaje de variación media conocida del Índice de Precios de Consumo en el último año indicado, sin que las bases así calculadas puedan ser inferiores a las cuantías de las bases mínimas o únicas de cotización fijadas anualmente en la Ley de Presupuestos Generales del Estado para los trabajadores por cuenta propia incluidos en este régimen especial."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.12 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ###### Artículo 321. Nacimiento y cuantía de la prestación de incapacidad temporal.
@@ -6669,12 +6009,6 @@ g) Lo dispuesto en el artículo 163.
 La cuantía de la pensión de jubilación en este régimen especial se determinará aplicando a la base reguladora el porcentaje procedente de acuerdo con la escala establecida para el Régimen General, en función exclusivamente de los años de cotización efectiva del beneficiario.
 
 En los supuestos en que en el período que haya de tomarse para el cálculo de la base reguladora aparecieran, con posterioridad a la extinción de la prestación económica por cese de actividad, períodos durante los cuales no hubiese existido obligación de cotizar, se integrarán las lagunas de cotización de los siguientes seis meses de cada uno de dichos períodos con la base mínima de la tabla general de este régimen especial.
-
-> Téngase en cuenta que esta actualización, establecida por el art. único.28 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2026, según establece su disposición final 10.
-
-> Redacción anterior:
-
-> "La cuantía de la pensión de jubilación en este régimen especial se determinará aplicando a la base reguladora el porcentaje procedente de acuerdo con la escala establecida para el Régimen General, en función exclusivamente de los años de cotización efectiva del beneficiario."
 
 > Se modifica por el art. único.28 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
@@ -6744,28 +6078,6 @@ c) Las personas trabajadoras por cuenta propia o autónomas acogidos a la protec
 
 Cuando no se haya optado por dar cobertura a la totalidad de las contingencias de accidente de trabajo y enfermedades profesionales, deberá efectuarse una cotización adicional para la financiación de las prestaciones previstas en los capítulos VIII y IX del Título II en los términos que, en su caso, puedan prever las Leyes de Presupuestos Generales del Estado.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.13 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 325. Especialidades en materia de cotización.
-
-> La incorporación al Sistema Especial para Trabajadores por Cuenta Propia Agrarios previsto en el artículo anterior determinará la aplicación de las siguientes reglas en materia de cotización a la Seguridad Social:
-
-> a) Respecto de las contingencias de cobertura obligatoria, si el trabajador optara como base de cotización por una base de cuantía hasta el 120 por ciento de la base mínima que corresponda en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, el tipo de cotización aplicable será del 18,75 por ciento.
-
-> Si, en cambio, el trabajador optase por una base de cotización superior a la señalada en el párrafo anterior, sobre la cuantía que exceda de esta última se aplicará el tipo de cotización vigente en cada momento en este régimen especial para las contingencias comunes.
-
-> b) Respecto de las contingencias de cobertura voluntaria, la cuota se determinará aplicando, sobre la cuantía completa de la base de cotización, los siguientes tipos de cotización:
-
-> Para la cobertura de la incapacidad temporal y de la protección por cese de actividad, se aplicarán los tipos establecidos en las correspondientes Leyes de Presupuestos Generales del Estado.
-
-> La cotización correspondiente a las contingencias de accidentes de trabajo y enfermedades profesionales se realizará mediante la aplicación de los tipos de cotización establecidos para cada actividad económica, ocupación o situación en la tarifa de primas establecidas legalmente, sin perjuicio de lo que las Leyes de Presupuestos Generales del Estado puedan establecer, en particular, respecto de la protección por incapacidad permanente y muerte y supervivencia derivadas de dichas contingencias profesionales, conforme a lo dispuesto en los artículos 19.3 y 326.
-
-> c) Los trabajadores acogidos a la protección por contingencias profesionales o por cese de actividad tendrán una reducción de 0,5 puntos porcentuales en la cotización por la cobertura de incapacidad temporal derivada de contingencias comunes.
-
-> Cuando no se haya optado por dar cobertura a la totalidad de las contingencias de accidente de trabajo y enfermedades profesionales, deberá efectuarse una cotización adicional para la financiación de las prestaciones previstas en los Capítulos VIII y IX del texto refundido de la Ley General de la Seguridad Social, en los términos que, en su caso, puedan prever las Leyes de Presupuestos Generales del Estado."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.13 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Se modifica por la disposición final 2.15 del Real Decreto-ley 28/2018, de 28 de diciembre. [Ref. BOE-A-2018-17992](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17992)
@@ -6787,18 +6099,6 @@ El cese de actividad podrá ser definitivo o temporal.
 El cese temporal podrá ser total, que comporta la interrupción de todas las actividades que puedan originar el alta en el régimen especial en el que la persona trabajadora por cuenta propia o autónoma figure encuadrada, en los supuestos regulados en el artículo 331, o parcial, cuando se produzca una reducción de la actividad en los términos previstos en esta ley.
 
 2\. La protección por cese de actividad alcanzará también a los socios trabajadores de las cooperativas de trabajo asociado que hayan optado por su encuadramiento como trabajadores por cuenta propia en el régimen especial que corresponda, así como a los trabajadores autónomos que ejerzan su actividad profesional conjuntamente con otros en régimen societario o bajo cualquier otra forma jurídica admitida en derecho, siempre que, en ambos casos, cumplan con los requisitos regulados en este título con las peculiaridades contempladas, respectivamente, en los artículos 335 y 336.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.14 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 327. Objeto y ámbito de aplicación.
-
-> 1\. El sistema específico de protección por el cese de actividad forma parte de la acción protectora del sistema de la Seguridad Social, es de carácter obligatorio y tiene por objeto dispensar a los trabajadores autónomos, afiliados a la Seguridad Social y en alta en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de los Trabajadores del Mar, las prestaciones y medidas establecidas en esta ley ante la situación de cese total en la actividad que originó el alta en el régimen especial, no obstante poder y querer ejercer una actividad económica o profesional a título lucrativo.
-
-> El cese de actividad podrá ser definitivo o temporal. El cese temporal comporta la interrupción de todas las actividades que originaron el alta en el régimen especial en el que el trabajador autónomo figure encuadrado, en los supuestos regulados en el artículo 331.
-
-> 2\. La protección por cese de actividad alcanzará también a los socios trabajadores de las cooperativas de trabajo asociado que hayan optado por su encuadramiento como trabajadores por cuenta propia en el régimen especial que corresponda, así como a los trabajadores autónomos que ejerzan su actividad profesional conjuntamente con otros en régimen societario o bajo cualquier otra forma jurídica admitida en derecho, siempre que, en ambos casos, cumplan con los requisitos regulados en este título con las peculiaridades contempladas, respectivamente, en los artículos 335 y 336."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.14 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -6823,24 +6123,6 @@ b) El abono de la cotización a la Seguridad Social del trabajador autónomo al 
 En los supuestos previstos en los epígrafes 4.º y 5.º del apartado 1.a) del artículo 331, el órgano gestor se hará cargo del 50 por ciento de la cuota que corresponda durante la percepción de la prestación económica, siendo el otro 50 por ciento a cargo del trabajador. El órgano gestor abonará a la persona trabajadora autónoma, junto con la prestación por cese de la actividad, el importe de la cuota que le corresponda, siendo la persona trabajadora autónoma la responsable del ingreso de la totalidad de las cotizaciones a la Seguridad Social.
 
 En los supuestos previstos en el artículo 331.1.d), no existirá la obligación de cotizar a la Seguridad Social, estando a lo previsto en el artículo 21.5 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y en el artículo 38.5 de la Ley Orgánica de garantía integral de la libertad sexual.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.15 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción vigente:
-
-> "Artículo 329. Acción protectora.
-
-> 1\. El sistema de protección por cese de actividad comprende las prestaciones siguientes:
-
-> a) La prestación económica por cese total, temporal o definitivo, de la actividad.
-
-> La prestación señalada se regirá exclusivamente por esta ley y las disposiciones que la desarrollen y complementen.
-
-> b) El abono de la cotización a la Seguridad Social del trabajador autónomo al régimen correspondiente. A tales efectos, el órgano gestor se hará cargo de la cuota que corresponda durante la percepción de las prestaciones económicas por cese de actividad. La base de cotización durante ese período corresponde a la base reguladora de la prestación por cese de actividad en los términos establecidos en el artículo 339, sin que, en ningún caso, la base de cotización pueda ser inferior al importe de la base mínima o base única de cotización prevista en el correspondiente régimen.
-
-> En los supuestos previstos en el artículo 331.1.d), no existirá la obligación de cotizar a la Seguridad Social, estando a lo previsto en el artículo 21.5 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y en el artículo 38.5 de la Ley Orgánica de garantía integral de la libertad sexual.
-
-> c) El abono de la cotización a la Seguridad Social del trabajador autónomo por todas las contingencias al régimen correspondiente, a partir del sexagésimo primer día de baja conforme a lo dispuesto en el artículo 308."
 
 > Se modifica el apartado 1.b), con efectos desde el 7 de octubre de 2022, por la disposición final 16.7 de la Ley Orgánica 10/2022, de 6 de septiembre. [Ref. BOE-A-2022-14630](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14630)
 
@@ -6904,24 +6186,6 @@ b) Por fuerza mayor, determinante del cese temporal o definitivo de la actividad
 
 Se entenderá que existen motivos de fuerza mayor en el cese temporal parcial cuando la interrupción de la actividad de la empresa afecte a un sector o centro de trabajo, exista una declaración de emergencia adoptada por la autoridad pública competente y se produzca una caída de ingresos del 75 por ciento de la actividad de la empresa con relación al mismo periodo del año anterior y los ingresos mensuales del trabajador autónomo no alcance el salario mínimo interprofesional o el importe de la base por la que viniera cotizando si esta fuera inferior.
 
-> Téngase en cuenta que la modificación del apartado 1.a) y b), establecida por el art. 1.17 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción vigente:
-
-> "a) Por la concurrencia de motivos económicos, técnicos, productivos u organizativos determinantes de la inviabilidad de proseguir la actividad económica o profesional.
-
-> En caso de establecimiento abierto al público se exigirá el cierre del mismo durante la percepción del subsidio o bien su transmisión a terceros. No obstante, el autónomo titular del inmueble donde se ubica el establecimiento podrá realizar sobre el mismo los actos de disposición o disfrute que correspondan a su derecho, siempre que no supongan la continuidad del autónomo en la actividad económica o profesional finalizada.
-
-> Se entenderá que existen motivos económicos, técnicos, productivos u organizativos cuando concurra alguna de las circunstancias siguientes:
-
-> 1.º Pérdidas derivadas del desarrollo de la actividad en un año completo, superiores al 10 por ciento de los ingresos obtenidos en el mismo periodo, excluido el primer año de inicio de la actividad.
-
-> 2.º Ejecuciones judiciales o administrativas tendentes al cobro de las deudas reconocidas por los órganos ejecutivos, que comporten al menos el 30 por ciento de los ingresos del ejercicio económico inmediatamente anterior.
-
-> 3.º La declaración judicial de concurso que impida continuar con la actividad, en los términos de la Ley 22/2003, de 9 de julio, Concursal.
-
-> b) Por fuerza mayor, determinante del cese temporal o definitivo de la actividad económica o profesional."
-
 c) Por pérdida de la licencia administrativa, siempre que la misma constituya un requisito para el ejercicio de la actividad económica o profesional y no venga motivada por la comisión de infracciones penales.
 
 d) La violencia de género o la violencia sexual determinante del cese temporal o definitivo de la actividad de la trabajadora autónoma.
@@ -6977,36 +6241,6 @@ De tratarse de una trabajadora autónoma económicamente dependiente, aquella de
 1.5 El divorcio o acuerdo de separación matrimonial de los familiares incursos en la situación prevista en el artículo 331.1.e) se acreditará mediante la correspondiente resolución judicial, a la que acompañarán la documentación correspondiente en la que se constate la pérdida de ejercicio de las funciones de ayuda familiar directa en el negocio, que venían realizándose con anterioridad a la ruptura o separación matrimoniales.
 
 2\. Reglamentariamente se desarrollará la documentación a presentar por los trabajadores autónomos con objeto de acreditar la situación legal de cese de actividad prevista en este artículo.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.18 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción vigente:
-
-> "Artículo 332. Acreditación de la situación legal de cese de actividad.
-
-> 1\. Las situaciones legales de cese de actividad de los trabajadores autónomos se acreditarán mediante declaración jurada del solicitante, en la que se consignará el motivo o motivos concurrentes y la fecha de efectos del cese, a la que acompañará los documentos que seguidamente se establecen, sin perjuicio de aportarse, si aquel lo estima conveniente, cualquier medio de prueba admitido legalmente:
-
-> a) Los motivos económicos, técnicos, productivos u organizativos se acreditarán mediante los documentos contables, profesionales, fiscales, administrativos o judiciales que justifiquen la falta de viabilidad de la actividad.
-
-> En todo caso se deberán aportar los documentos que acrediten el cierre del establecimiento en los términos establecidos en el artículo 331.1.a), la baja en el censo tributario de Empresarios, Profesionales y Retenedores y la baja en el régimen especial de la Seguridad Social en el que estuviera encuadrado el solicitante. En el caso de que la actividad requiriera el otorgamiento de autorizaciones o licencias administrativas, se acompañará la comunicación de solicitud de baja correspondiente y, en su caso, la concesión de la misma, o bien el acuerdo de su retirada.
-
-> Sin perjuicio de los documentos señalados en el párrafo anterior, la concurrencia de motivos económicos se considerará acreditada mediante la aportación, en los términos que reglamentariamente se establezcan, de la documentación contable que confeccione el trabajador autónomo, en la que se registre el nivel de pérdidas exigido en los términos del artículo 331.1.a).1.º, así como mediante las declaraciones del Impuesto sobre el Valor Añadido, del Impuesto sobre la Renta de las Personas Físicas y demás documentos preceptivos que, a su vez, justifiquen las partidas correspondientes consignadas en las cuentas aportadas. En todo caso, las partidas que se consignen corresponderán a conceptos admitidos en las normas que regulan la contabilidad.
-
-> El trabajador autónomo podrá formular su solicitud aportando datos estimados de cierre, al objeto de agilizar la instrucción del procedimiento, e incorporará los definitivos con carácter previo al dictado de la resolución.
-
-> b) La fuerza mayor determinante del cese temporal o definitivo de la actividad económica o profesional se acreditará mediante documentación que acredite la existencia de la misma y la imposibilidad del ejercicio de la actividad ya sea de forma temporal o definitiva. Si el cese es definitivo deberá aportar la solicitud de baja en el censo tributario de Empresarios, Profesionales y Retenedores y la baja en el régimen especial de la Seguridad Social en el que estuviera encuadrado el solicitante. En el caso de que la actividad requiriera el otorgamiento de autorizaciones o licencias administrativas, se acompañará la comunicación de solicitud de baja correspondiente y, en su caso, la concesión de la misma, o bien el acuerdo de su retirada.
-
-> Si el cese es temporal, no procederá la baja en el régimen especial de la Seguridad Social.
-
-> c) La pérdida de la licencia administrativa que habilitó el ejercicio de la actividad mediante resolución correspondiente.
-
-> d) La violencia de género o la violencia sexual, por la declaración escrita de la solicitante de haber cesado o interrumpido su actividad económica o profesional, a la que se adjuntará cualquiera de los documentos a los que se refieren el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género o el artículo 37 de la Ley Orgánica de garantía integral de la libertad sexual.
-
-> De tratarse de una trabajadora autónoma económicamente dependiente, aquella declaración podrá ser sustituida por la comunicación escrita del cliente del que dependa económicamente en la que se hará constar el cese o la interrupción de la actividad. Tanto la declaración como la comunicación han de contener la fecha a partir de la cual se ha producido el cese o la interrupción.
-
-> e) El divorcio o acuerdo de separación matrimonial de los familiares incursos en la situación prevista en el artículo 331.1.e) se acreditará mediante la correspondiente resolución judicial, a la que acompañarán la documentación correspondiente en la que se constate la pérdida de ejercicio de las funciones de ayuda familiar directa en el negocio, que venían realizándose con anterioridad a la ruptura o separación matrimoniales.
-
-> 2\. Reglamentariamente se desarrollará la documentación a presentar por los trabajadores autónomos con objeto de acreditar la situación legal de cese de actividad prevista en este artículo."
 
 > Se modifica el apartado 1, con efectos desde el 7 de octubre de 2022, por la disposición final 16.9 de la Ley Orgánica 10/2022, de 6 de septiembre. [Ref. BOE-A-2022-14630](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14630)
 
@@ -7138,32 +6372,6 @@ En el resto de los supuestos regulados en el artículo 331, el nacimiento del de
 
 Cuando el trabajador autónomo económicamente dependiente haya finalizado su relación con el cliente principal, en el supuesto de que, en el mes posterior al hecho causante, tuviera actividad con otros clientes, el órgano gestor estará obligado a cotizar a partir de la fecha de inicio de la prestación.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.19 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción vigente:
-
-> "Artículo 337. Solicitud y nacimiento del derecho a la protección por cese de actividad.
-
-> 1\. Los trabajadores autónomos que cumplan los requisitos establecidos en el artículo 330 deberán solicitar a la misma mutua colaboradora con la Seguridad Social a la que se encuentren adheridos el reconocimiento del derecho a la protección por cese de actividad.
-
-> Respecto de los trabajadores por cuenta propia que no se encuentren adheridos a una mutua, será de aplicación lo establecido en el apartado 3 del artículo 346.
-
-> El derecho al percibo de la correspondiente prestación económica nacerá desde el día siguiente a aquel en que tenga efectos la baja en el régimen especial al que estuvieran adscritos, de acuerdo con el artículo 46.4.a) del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
-
-> En el resto de supuestos regulados en ese mismo artículo, el nacimiento del derecho se producirá el día primero del mes siguiente a aquel en que tenga efectos a la baja como consecuencia del cese en la actividad.
-
-> Cuando el trabajador autónomo económicamente dependiente haya finalizado su relación con el cliente principal, para tener derecho al percibo de la prestación, no podrá tener actividad con otros clientes a partir del día en que inicie el cobro de la prestación.
-
-> En los supuestos de suspensión de actividad como consecuencia de fuerza mayor, el nacimiento del derecho se producirá el día en que quede acreditada la concurrencia de la fuerza mayor a través de los correspondientes documentos.
-
-> 2\. El reconocimiento de la situación legal de cese de actividad se podrá solicitar hasta el último día del mes siguiente al que se produjo el cese de actividad. No obstante, en las situaciones legales de cese de actividad causadas por motivos económicos, técnicos, productivos u organizativos, de fuerza mayor, por violencia de género, violencia sexual, por voluntad del cliente, fundada en causa justificada y por muerte, incapacidad y jubilación del cliente, el plazo comenzará a computar a partir de la fecha que se hubiere hecho constar en los correspondientes documentos que acrediten la concurrencia de tales situaciones.
-
-> 3\. En caso de presentación de la solicitud una vez transcurrido el plazo fijado en el apartado anterior, y siempre que el trabajador autónomo cumpla con el resto de requisitos legalmente previstos, se descontarán del período de percepción los días que medien entre la fecha en que debería haber presentado la solicitud y la fecha en que la presentó.
-
-> 4\. El órgano gestor se hará cargo de la cuota de Seguridad Social durante el periodo de percepción de la prestación, siempre que se hubiere solicitado en el plazo previsto en el apartado 2. En otro caso, el órgano gestor se hará cargo a partir del día primero del mes siguiente al de la solicitud.
-
-> Cuando el trabajador autónomo económicamente dependiente haya finalizado su relación con el cliente principal, en el supuesto de que, en el mes posterior al hecho causante, tuviera actividad con otros clientes, el órgano gestor estará obligado a cotizar a partir de la fecha de inicio de la prestación."
-
 > Se modifica el apartado 2, con efectos desde el 7 de octubre de 2022, por la disposición final 16.12 de la Ley Orgánica 10/2022, de 6 de septiembre. [Ref. BOE-A-2022-14630](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14630)
 
 > Téngase en cuenta que el apartado 2 se corresponde con el 4, en la redacción dada por el art. 1.19 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
@@ -7177,12 +6385,6 @@ Cuando el trabajador autónomo económicamente dependiente haya finalizado su re
 ###### Artículo 338. Duración de la prestación económica.
 
 1\. La duración de la prestación por cese de actividad estará en función de los períodos de cotización efectuados dentro de los cuarenta y ocho meses anteriores a la situación legal de cese de actividad de los que, al menos, doce meses deben estar comprendidos en los veinticuatro meses inmediatamente anteriores a dicha situación de cese con arreglo a la siguiente escala.
-
-> Téngase en cuenta que la modificación de este párrafo del apartado 1, establecida por el art. 1.20 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "1. La duración de la prestación por cese de actividad estará en función de los períodos de cotización efectuados dentro de los cuarenta y ocho meses anteriores a la situación legal de cese de actividad de los que, al menos, doce deben ser continuados e inmediatamente anteriores a dicha situación de cese con arreglo a la siguiente escala:"
 
 | Período de cotización<br>–<br>Meses | Período de la protección<br>–<br>Meses |
 |---|---|
@@ -7232,26 +6434,6 @@ Lo dispuesto en este apartado no se aplicará a los supuestos previstos en los e
 
 A los efectos de la cuantía máxima y mínima de la prestación por cese de actividad, se tendrá en cuenta el indicador público de rentas de efectos múltiples mensual, incrementado en una sexta parte, vigente en el momento del nacimiento del derecho.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.21 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 339. Cuantía de la prestación económica por cese de la actividad.
-
-> 1\. La base reguladora de la prestación económica por cese de actividad será el promedio de las bases por las que se hubiere cotizado durante los doce meses continuados e inmediatamente anteriores a la situación legal de cese.
-
-> En el Régimen Especial de los Trabajadores del Mar la base reguladora se calculará sobre la totalidad de la base de cotización por esta contingencia, sin aplicación de los coeficientes correctores de cotización, y además, los períodos de veda obligatoria aprobados por la autoridad competente no se tendrán en cuenta para el computo del período de 12 meses continuados e inmediatamente anteriores a la situación legal de cese de actividad, siempre y cuando en esos períodos de veda no se hubiera percibido la prestación por cese de actividad.
-
-> 2\. La cuantía de la prestación, durante todo su período de disfrute, se determinará aplicando a la base reguladora el 70 por ciento.
-
-> La cuantía máxima de la prestación por cese de actividad será del 175 por ciento del indicador público de rentas de efectos múltiples, salvo cuando el trabajador autónomo tenga uno o más hijos a su cargo, en cuyo caso la cuantía será, respectivamente, del 200 por ciento o del 225 por ciento de dicho indicador.
-
-> La cuantía mínima de la prestación por cese de actividad será del 107 por ciento o del 80 por ciento del indicador público de rentas de efectos múltiples, según el trabajador autónomo tenga hijos a su cargo, o no.
-
-> 3\. A efectos de calcular las cuantías máxima y mínima de la prestación por cese de actividad, se entenderá que se tienen hijos a cargo, cuando estos sean menores de veintiséis años, o mayores con una discapacidad en grado igual o superior al 33 por ciento, carezcan de rentas de cualquier naturaleza iguales o superiores al salario mínimo interprofesional excluida la parte proporcional de las pagas extraordinarias, y convivan con el beneficiario.
-
-> A los efectos de la cuantía máxima y mínima de la prestación por cese de actividad, se tendrá en cuenta el indicador público de rentas de efectos múltiples mensual, incrementado en una sexta parte, vigente en el momento del nacimiento del derecho."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.21 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 ###### Artículo 340. Suspensión del derecho a la protección.
@@ -7263,12 +6445,6 @@ a) Durante el período que corresponda por imposición de sanción por infracci�
 b) Durante el cumplimiento de condena que implique privación de libertad.
 
 c) Durante el período de realización de un trabajo por cuenta propia o por cuenta ajena, salvo en los supuestos de cese de actividad previsto en los epígrafes 4.º y 5.º del artículo 331.1.a), o de cese temporal parcial de la actividad derivado de fuerza mayor, que serán compatible con la actividad que causa el cese, en los términos previstos en el artículo 342.1, y sin perjuicio de la extinción del derecho a la protección por cese de actividad en el supuesto establecido en el artículo 341.1.c).
-
-> Téngase en cuenta que la modificación del apartado 1.c), establecida por el art. 1.22 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> c) Durante el período de realización de un trabajo por cuenta propia o por cuenta ajena, sin perjuicio de la extinción del derecho a la protección por cese de actividad en el supuesto establecido en el artículo 341.1.c).
 
 2\. La suspensión del derecho comportará la interrupción del abono de la prestación económica y de la cotización sin afectar al período de su percepción, salvo en el supuesto previsto en la letra a) del apartado anterior, en el que el período de percepción se reducirá por tiempo igual al de la suspensión producida.
 
@@ -7298,12 +6474,6 @@ d) Por cumplimiento de la edad de jubilación ordinaria o, en el caso de los tra
 
 e) Por reconocimiento de pensión de jubilación o de incapacidad permanente, sin perjuicio de lo establecido en el artículo 342.1.
 
-> Téngase en cuenta que la modificación del apartado 1.e), establecida por el art. 1.23 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> e) Por reconocimiento de pensión de jubilación o de incapacidad permanente, sin perjuicio de lo establecido en el artículo 342.2.
-
 f) Por traslado de residencia al extranjero, salvo en los casos que reglamentariamente se determinen.
 
 g) Por renuncia voluntaria al derecho.
@@ -7318,12 +6488,6 @@ h) Por fallecimiento del trabajador autónomo.
 
 1\. La percepción de la prestación económica por cese de actividad es incompatible con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, así como con el trabajo por cuenta ajena, salvo que la percepción de prestación por cese de actividad venga determina por lo dispuesto en los epígrafes 4.º y 5.º del artículo 331.1.a), o por cese temporal parcial de la actividad derivado de fuerza mayor, que serán compatibles con la actividad que cause el cese, siempre que los rendimientos netos mensuales obtenidos durante la percepción de la prestación no sean superiores a la cuantía del salario mínimo interprofesional o al importe de la base por la que viniera cotizando, si esta fuera inferior.
 
-> Téngase en cuenta que la modificación del primer párrafo del apartado 1, establecida por el art. 1.24 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "1. La percepción de la prestación económica por cese de actividad es incompatible con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de los Trabajadores del Mar, así como con el trabajo por cuenta ajena."
-
 La incompatibilidad con el trabajo por cuenta propia establecida en el párrafo anterior tendrá como excepción los trabajos agrarios sin finalidad comercial en las superficies dedicadas a huertos familiares para el autoconsumo, así como los dirigidos al mantenimiento en buenas condiciones agrarias y medioambientales previsto en la normativa de la Unión Europa para las tierras agrarias. Esta excepción abarcará asimismo a los familiares colaboradores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que también sean perceptores de la prestación económica por cese de actividad. Esta excepción será desarrollada mediante norma reglamentaria.
 
 Será asimismo incompatible con la obtención de pensiones o prestaciones de carácter económico del sistema de la Seguridad Social, salvo que estas hubieran sido compatibles con el trabajo que dio lugar a la prestación por cese de actividad, así como con las medidas de fomento del cese de actividad reguladas por normativa sectorial para diferentes colectivos, o las que pudieran regularse en el futuro con carácter estatal.
@@ -7331,8 +6495,6 @@ Será asimismo incompatible con la obtención de pensiones o prestaciones de car
 2\. Por lo que se refiere a los trabajadores por cuenta propia incluidos en el Régimen Especial de los Trabajadores del Mar, la prestación por cese de actividad será incompatible con la percepción de las ayudas por paralización de la flota.
 
 3\. En los supuestos en los que el trabajador autónomo se encuentre en situación de pluriactividad, en el momento del hecho causante de la prestación por cese de actividad, la prestación por cese será compatible con la percepción de la remuneración por el trabajo por cuenta ajena que se venía desarrollando, siempre y cuando de la suma de la retribución mensual media de los últimos cuatro meses inmediatamente anteriores al nacimiento del derecho y la prestación por cese de actividad, resulte una cantidad media mensual inferior al importe del salario mínimo interprofesional vigente en el momento del nacimiento del derecho.
-
-> Téngase en cuenta que el apartado 3, añadido por el art. 1.24 bis del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), en la redaccion dada por la disposición final 10.3 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925), entra en vigor el 1 de enero de 2023, según determina la disposición final 17.2.d) de esta última.
 
 > Se añade, con efectos de 1 de enero de 2023, un apartado 3 por el art. 1.24 bis del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.3 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 
@@ -7439,28 +6601,6 @@ d) Solicitar la baja en la prestación por cese de actividad cuando se produzcan
 e) No trabajar por cuenta propia o ajena durante la percepción de la prestación.
 
 f) Reintegrar las prestaciones indebidamente percibidas.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.25 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "1. Son obligaciones de los trabajadores autónomos solicitantes y beneficiarios de la protección por cese de actividad:
-
-> a) Solicitar a la misma mutua colaboradora con la Seguridad Social a la que se encuentren adheridos la cobertura de la protección por cese de actividad.
-
-> b) Cotizar por la aportación correspondiente a la protección por cese de actividad.
-
-> c) Proporcionar la documentación e información que resulten necesarias a los efectos del reconocimiento, suspensión, extinción o reanudación de la prestación.
-
-> d) Solicitar la baja en la prestación por cese de actividad cuando se produzcan situaciones de suspensión o extinción del derecho o se dejen de reunir los requisitos exigidos para su percepción, en el momento en que se produzcan dichas situaciones.
-
-> e) No trabajar por cuenta propia o ajena durante la percepción de la prestación.
-
-> f) Reintegrar las prestaciones indebidamente percibidas.
-
-> 2\. Para la aplicación de lo establecido en las letras g) y h) del apartado anterior, el órgano gestor o el servicio público de empleo de la correspondiente comunidad autónoma tendrá en cuenta la condición de víctima de violencia de género, a efectos de atemperar, en caso necesario, el cumplimiento de las obligaciones que se deriven del compromiso suscrito.
-
-> 3\. Los trabajadores autónomos comprendidos en el artículo 26.4 de la Ley 20/2007, de 11 de julio, quedarán exentos de la obligación, contenida en el apartado 1. g) del presente artículo, en materia de promoción de la actividad emprendedora."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.25 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -7986,18 +7126,6 @@ Las previsiones en materia de cotización del citado régimen especial recogidas
 
 Se tendrá en cuenta la posibilidad, prevista en los artículos 25.3 y 27.2.c) de la Ley del Estatuto del trabajo autónomo, de establecer exenciones, reducciones o bonificaciones en las cotizaciones de la Seguridad Social para determinados colectivos de trabajadores autónomos que, por su naturaleza, tienen especiales dificultades para aumentar su capacidad económica y de generación de rentas, o para aquellos sectores profesionales que de forma temporal puedan sufrir recortes importantes en sus ingresos habituales.
 
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.27 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Disposición adicional decimoséptima. Adecuación del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
-
-> De acuerdo con lo previsto en la disposición adicional novena de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, al objeto de hacer converger la intensidad de la acción protectora de los trabajadores por cuenta propia con la de los trabajadores por cuenta ajena, las bases medias de cotización del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos experimentarán un crecimiento al menos similar al de las medias del Régimen General.
-
-> En todo caso, la subida anual no superará el crecimiento de las medias del Régimen General en más de un punto porcentual. Las subidas de cada año, así como cualquier otra modificación sustancial del sistema, se debatirán con carácter previo en el marco del diálogo social con las organizaciones sindicales y empresariales más representativas, así como con las organizaciones profesionales de trabajadores autónomos más representativas, y se consultará al Consejo Estatal del Trabajo Autónomo según establece el artículo 22 de la Ley 20/2007, de 11 de julio, y no serán aplicables los años en los que las crisis económicas tengan como efectos la pérdida de rentas o empleo en este colectivo.
-
-> Se tendrá en cuenta la posibilidad, prevista en los artículos 25.3 y 27.2.c) de la Ley del Estatuto del trabajo autónomo, de establecer exenciones, reducciones o bonificaciones en las cotizaciones de la Seguridad Social para determinados colectivos de trabajadores autónomos que, por su naturaleza, tienen especiales dificultades para aumentar su capacidad económica y de generación de rentas, o para aquellos sectores profesionales que de forma temporal puedan sufrir recortes importantes en sus ingresos habituales."
-
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.27 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
 > Redactado el título conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2016. [Ref. BOE-A-2016-1320](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1320).
@@ -8112,22 +7240,6 @@ El Gobierno elaborará quinquenalmente, desde la aprobación de la Ley 23/2013, 
 
 **(Derogada)**
 
-> Téngase en cuenta que esta disposición se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.i) del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), según establece su disposición final 13.
-
-> Redacción anterior:
-
-> "1. La entidad estatal de derecho público Trabajo Penitenciario y Formación para el Empleo u órgano autonómico equivalente y los penados que realicen actividades laborales en instituciones penitenciarias tendrán derecho a una bonificación del 65 por ciento de las cotizaciones, relativas a los mismos, por los conceptos de recaudación conjunta de desempleo, formación profesional y Fondo de Garantía Salarial.
-
-> Asimismo, a las cuotas empresariales por contingencias comunes que se determinen para dichos trabajadores se les aplicará una bonificación del 45 por ciento. Cuando resulten de aplicación las bonificaciones que pudieran estar establecidas o se establezcan para las relaciones laborales de carácter especial, se optará por las que resulten más beneficiosas.
-
-> Las partes de la relación laboral de carácter especial de los menores incluidos en el ámbito de aplicación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, podrán beneficiarse de las bonificaciones a las que se refieren los dos párrafos anteriores.
-
-> Las bonificaciones previstas en esta disposición se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal, salvo las relativas a la aportación del Fondo de Garantía Salarial que se financiarán con cargo al presupuesto de dicho organismo.
-
-> El Ministerio de Empleo y Seguridad Social determinará las bases de cotización de este colectivo dentro de los límites máximos y mínimos establecidos en la Ley de Presupuestos Generales del Estado de cada ejercicio en función de sus especiales características, sin que en ningún caso puedan ser inferiores a las bases mínimas fijadas para los contratos a tiempo parcial.
-
-> 2\. Los empresarios, excluida la Administración Pública y las entidades, organismos y empresas del sector público, dedicados a actividades encuadradas en los Sectores de Agricultura, Pesca y Acuicultura; Industria, excepto Energía y Agua; Comercio; Turismo; Hostelería y resto de servicios, excepto el Transporte Aéreo de ala fija, Construcción de Edificios, Actividades Financieras y de Seguros y Actividades Inmobiliarias en las Ciudades de Ceuta y Melilla, con cuentas de cotización asignadas a dichas empresas en las que tengan trabajadores que presten actividad en las referidas ciudades, tendrán derecho a una bonificación del 50 por ciento en sus aportaciones a las cuotas de la Seguridad Social por contingencias comunes, así como por los conceptos de recaudación conjunta de desempleo, formación profesional y Fondo de Garantía Salarial."
-
 > Se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.i) del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
 > Se modifica el apartado 2 por la disposición final 8 del Real Decreto-ley 29/2021, de 21 de diciembre. [Ref. BOE-A-2021-21096](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21096)
@@ -8139,16 +7251,6 @@ El Gobierno elaborará quinquenalmente, desde la aprobación de la Ley 23/2013, 
 ###### Disposición adicional vigésima cuarta. Aplicación de los beneficios en la cotización en el Sistema Especial para Empleados de Hogar.
 
 **(Derogada)**
-
-> Téngase en cuenta que esta derogación efectuada por la disposición derogatoria única.a) del Real Decreto-ley 16/2022, de 6 de septiembre [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680) entra en vigor el 1 de enero de 2023, según determina la disposición final 7.2.
-
-> Redacción anterior:
-
-> "Disposición adicional vigésima cuarta. Aplicación de los beneficios en la cotización en el Sistema Especial para Empleados de Hogar.
-
-> 1\. Los beneficios en la cotización reconocidos por la legislación vigente a favor de los empleadores de hogar, incluidos los del apartado siguiente, no resultarán de aplicación en el supuesto en que los empleados de hogar que presten servicios durante menos de sesenta horas mensuales por empleador asuman el cumplimiento de las obligaciones en materia de encuadramiento, cotización y recaudación en dicho sistema especial, en los términos previstos reglamentariamente.
-
-> 2\. La bonificación de cuotas de la Seguridad Social por la contratación de cuidadores en familias numerosas, en los términos y con el alcance legalmente establecidos, resultará de aplicación respecto al Sistema Especial para Empleados de Hogar establecido en el Régimen General."
 
 > Se deroga, con efectos desde el 1 de enero de 2023, por la disposición derogatoria única. a) del Real Decreto-ley 16/2022, de 6 de septiembre. [Ref. BOE-A-2022-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14680)
 
@@ -8165,54 +7267,6 @@ En aquellos supuestos en que quede acreditado que uno de los cónyuges ha desemp
 ###### Disposición adicional vigésima séptima. Subsidio extraordinario por desempleo.
 
 **(Derogada)**
-
-> Téngase en cuenta que la derogación de esta disposición, establecida por la disposición derogatoria única.2 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), produce efectos el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Podrán ser beneficiarias del subsidio por desempleo extraordinario regulado en esta disposición, las personas desempleadas inscritas como demandantes de empleo que, en la fecha de la solicitud, se encuentren en alguna de las siguientes situaciones:
-
-> a) Haber extinguido por agotamiento el subsidio por desempleo regulado en el artículo 274 de este Texto Refundido a partir de la entrada en vigor de esta disposición.
-
-> b) Ser parado de larga duración y haber extinguido por agotamiento alguna de las siguientes prestaciones: la prestación por desempleo o el subsidio por desempleo regulados en el título III del Texto Refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre; las ayudas económicas vinculadas al Programa de renta activa de inserción (RAI) para desempleados con especiales necesidades económicas y dificultad para encontrar empleo, regulado en el Real Decreto 1369/2006, de 24 de noviembre, o en las normas que le precedieron; el Programa temporal de protección e inserción (PRODI) regulado por el Real Decreto-ley 10/2009, de 13 de agosto; o el Programa de recualificación profesional de las personas que agoten su protección por desempleo (PREPARA), regulado en el Real Decreto-ley 1/2011, de 11 de febrero, de medidas urgentes para promover la transición al empleo estable y la recualificación profesional de las personas desempleadas, así como en los sucesivos reales decreto-leyes que han prorrogado dicho programa; y, asimismo, estar inscrito como demandante de empleo a fecha 1 de mayo de 2018. Este requisito se entenderá cumplido en los supuestos en que el trabajador, aun no estando inscrito como demandante de empleo en dicha fecha, tenga interrumpida la inscripción debido a la realización de un trabajo por cuenta ajena, siempre que la duración del contrato haya sido por tiempo inferior a 90 días.
-
-> En este supuesto de la letra b) se requerirá, además, haber cesado de forma involuntaria en un trabajo por cuenta ajena previamente al agotamiento del último derecho reconocido.
-
-> A los efectos de este apartado, se considerará parado de larga duración a quien haya permanecido inscrito como demandante de empleo durante al menos 360 días en los dieciocho meses inmediatamente anteriores a la fecha de la solicitud de este subsidio.
-
-> 2\. A la fecha de solicitud deberán acreditar el cumplimiento de los siguientes requisitos:
-
-> a) Carecer del derecho a la protección por desempleo de nivel contributivo o asistencial regulada en el Título III.
-
-> b) No tener cumplida la edad que le permita acceder a la pensión de jubilación, en sus modalidades contributiva o no contributiva.
-
-> c) Carecer de rentas, de cualquier naturaleza, superiores en cómputo mensual al 75 por ciento del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, y acreditar responsabilidades familiares. La consideración de rentas y la acreditación de responsabilidades familiares se efectuarán conforme a lo establecido en los apartados 4, 3 y 2 respectivamente del artículo 275 de esta Ley.
-
-> d) Haber cesado de forma involuntaria en el último trabajo realizado en caso de haber trabajado tras el agotamiento del último derecho.
-
-> 3\. No podrán acceder al subsidio por desempleo extraordinario las personas a quienes se hubiera reconocido previamente la ayuda económica de acompañamiento establecida en el Programa de Activación para el Empleo regulado en el Real Decreto-ley 16/2014, de 19 de diciembre.
-
-> Tampoco podrán acceder quienes en la fecha de su solicitud se encuentren trabajando por cuenta ajena a tiempo parcial o tengan suspendido su contrato de trabajo.
-
-> 4\. La solicitud del subsidio por desempleo extraordinario, que deberá acompañarse de la documentación acreditativa del cumplimento de los requisitos de acceso, implicará la suscripción del acuerdo de actividad al que se refiere el artículo 3 de la Ley 3/2023, de 28 de febrero, de Empleo. La solicitud y el nacimiento del derecho se ajustarán al cumplimiento de los siguientes requisitos específicos:
-
-> a) En los supuestos del apartado 1.a) se exigirá que el trabajador haya permanecido inscrito como persona demandante de empleo durante el plazo de espera de un mes desde el agotamiento del subsidio anterior, sin haber rechazado colocación adecuada ni haberse negado a participar, salvo causa justificada, en acciones de promoción, formación o reconversión profesionales, y que acredite que durante ese plazo ha realizado acciones de búsqueda activa de empleo. El derecho al subsidio extraordinario nace a partir del día siguiente a aquel en que se cumpla dicho plazo de espera, siempre que se solicite dentro de los quince días hábiles siguientes. Si se presenta la solicitud transcurrido el plazo citado, el derecho nacerá a partir del día siguiente al de la solicitud, reduciéndose su duración en tantos días como medien entre la fecha en que hubiera tenido lugar el nacimiento del derecho, de haberse solicitado en tiempo y forma y aquella en que efectivamente se hubiera formulado la solicitud.
-
-> Si a la fecha de solicitud no constara acreditada ante los servicios públicos de empleo la búsqueda activa de empleo, procederá la denegación de la solicitud, sin perjuicio del derecho del interesado a formular una nueva. En este caso, el derecho nacerá al día siguiente de la nueva solicitud, sin que la duración del derecho se vea reducida por el plazo que medie entre una y otra solicitud.
-
-> b) En los supuestos del apartado 1.b) se exigirá que la persona trabajadora haya acreditado que durante el mes anterior a la fecha de la solicitud ha realizado acciones de búsqueda activa de empleo y el derecho al subsidio extraordinario nacerá el día siguiente al de la solicitud.
-
-> La búsqueda activa de empleo, de conformidad con lo establecido en el artículo 3 de la Ley 3/2023, de 28 de febrero, de Empleo, se acreditará por el solicitante del subsidio extraordinario ante el servicio público de empleo competente en materia de políticas activas de empleo, en el que se encuentre inscrito como persona demandante de empleo, que deberá conservar la justificación documental aportada para su posterior fiscalización y seguimiento.
-
-> 5\. Una vez dictada la resolución reconociendo el derecho al subsidio extraordinario, los beneficiarios podrán percibirlo de acuerdo con lo establecido en los siguientes párrafos:
-
-> a) La duración máxima del subsidio será de 180 días y no podrá percibirse en más de una ocasión.
-
-> b) La cuantía del subsidio será igual al 80 por ciento del indicador público de rentas de efectos múltiples mensual vigente en cada momento.
-
-> c) El pago periódico de la ayuda económica se realizará por el Servicio Público de Empleo Estatal dentro del mes siguiente al que corresponda el devengo.
-
-> 6\. En lo no previsto expresamente en esta disposición se estará a lo dispuesto en el Título III."
 
 > Se deroga por la disposición derogatoria única.2 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -8239,14 +7293,6 @@ En aquellos supuestos en que quede acreditado que uno de los cónyuges ha desemp
 1\. La cobertura de la contingencia por incapacidad temporal, por cese de actividad y de formación profesional, no resultará obligatoria en el caso de socios de cooperativas incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al sistema público, que cuente con la autorización de la Seguridad Social para colaborar en la gestión de la prestación económica de incapacidad temporal y otorgue la protección por las citadas contingencias, con un alcance al menos equivalente al regulado para el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
 
 2\. La cobertura de la contingencia por incapacidad temporal, de las contingencias de accidente de trabajo y enfermedad profesional, por el cese de actividad y formación profesional, no resultará exigible en el caso de los miembros de institutos de vida consagrada de la Iglesia Católica, incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos al amparo del Real Decreto 3325/1981, de 29 de diciembre, y de la Orden TAS/820/2004, de 12 de marzo.
-
-> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.28 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Disposición adicional vigésima octava. Excepción a la cobertura obligatoria de todas las contingencias en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
-
-> La cobertura de las contingencias de accidente de trabajo y enfermedad profesional, por cese de actividad y por formación profesional, no resultará obligatoria en el caso de socios de cooperativas incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al Sistema Público, que cuente con la autorización de la Seguridad Social para colaborar en la gestión de la prestación económica de incapacidad temporal y otorgue la protección por las citadas contingencias, con un alcance al menos equivalente al regulado por el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos."
 
 > Se modifica, con efectos de 1 de enero de 2023, por el art. 1.28 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 
@@ -8428,8 +7474,6 @@ Cuando se trate de trabajadores por cuenta ajena incluidos dentro Régimen Espec
 
 14\. La prestación regulada en esta disposición se financiará con cargo al Fondo RED de Flexibilidad y Estabilización del Empleo.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 3.5 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788), entra en vigor el 30 de marzo de 2022, según establece la disposición final 8.2.d) del citado Real Decreto-ley. Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 2022. [Ref. BOE-A-2022-801](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-801)
-
 > Se añade por el art. 3.5 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788)
 
 > Esta disposición entra en vigor el 30 de marzo de 2022, según establece la disposición final 8.2.d) del citado Real Decreto-ley.
@@ -8459,8 +7503,6 @@ A través de dicho procedimiento las empresas deberán poder comunicar esta info
 3\. A los contratos formativos en alternancia a tiempo parcial les resultarán de aplicación las normas de cotización indicadas en esta disposición para los contratos formativos en alternancia a tiempo completo.
 
 4\. A los contratos formativos en alternancia les resultarán de aplicación los beneficios en la cotización a la Seguridad Social que, a la entrada en vigor de esta disposición, estén establecidos para los contratos para la formación y el aprendizaje.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 3.7 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788), entra en vigor el 30 de marzo de 2022, según establece la disposición final 8.2.e) del citado Real Decreto-ley. Redactado conforme a la corrección de errores publicada en BOE núm. 16, de 19 de enero de 2022. [Ref. BOE-A-2022-801](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-801)
 
 > Se añade por el art. 3.7 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788)
 
@@ -8552,8 +7594,6 @@ En particular, vigilará la veracidad, inexactitud u omisión de datos o declara
 
 2\. Sin perjuicio de las competencias que tiene atribuidas la Inspección de Trabajo y Seguridad Social en relación con la vigilancia en el cumplimiento de la normativa en materia de seguridad social, que incluye la correcta aplicación de las reducciones a que se refiere la Disposición adicional 47.ª, la Tesorería General de la Seguridad Social realizará sus funciones de control en la cotización de estas contribuciones empresariales y de las reducciones en la cotización u otros beneficios que se apliquen las empresas por tales contribuciones, en el marco de sus competencias en materia de gestión y control de la cotización y de la recaudación de las cuotas y demás recursos de financiación del sistema de la Seguridad Social.
 
-> Téngase en cuenta que el apartado 2, añadido por la disposición final 4.3 de la Ley 12/2022, de 30 de junio. [Ref. BOE-A-2022-10852](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10852), produce efectos desde el 1 de enero de 2023.
-
 > Se añade el apartado 2 y se numera su anterior contenido como 1, con efectos de 1 de enero de 2023, por la disposición final 4.3 de la Ley 12/2022, de 30 de junio. [Ref. BOE-A-2022-10852](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10852)
 
 > Se añade por el art. 3.9 del Real Decreto-ley 32/2021, de 28 de diciembre. [Ref. BOE-A-2021-21788](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21788)
@@ -8585,8 +7625,6 @@ Para que la reducción de cuotas resulte de aplicación estas comunicaciones se 
 Las referidas comunicaciones se deberán realizar mediante la transmisión de los datos que establezca la Tesorería General de la Seguridad Social, a través del Sistema de remisión electrónica de datos en el ámbito de la Seguridad Social (Sistema RED), regulado en la Orden ESS/484/2013, de 26 de marzo.
 
 3\. Para la obtención de estas reducciones de cuotas la empresa deberá de encontrarse al corriente de pago en las cuotas de la Seguridad Social en los términos establecidos en el artículo 20, con excepción de lo indicado en su apartado 1.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 4.4 de la Ley 12/2022, de 30 de junio. [Ref. BOE-A-2022-10852](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10852), produce efectos desde el 1 de enero de 2023.
 
 > Se añade, con efectos de 1 de enero de 2023, por la disposición final 4.4 de la Ley 12/2022, de 30 de junio. [Ref. BOE-A-2022-10852](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10852)
 
@@ -8760,8 +7798,6 @@ Diecinueve. Financiación.
 
 Esta protección por cese de actividad se financiará con cargo a la cotización por dicha contingencia.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 1.29 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), y en la redaccion dada a este por la disposición final 10.4 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925), entra en vigor el 1 de enero de 2023, según determina la disposición final 5 de aquella y la disposición final 17.2.d) de esta última.
-
 > Se modifican, con efectos de 1 de enero de 2023, los apartados 2.1.3 y 4.3 por el art. 1.29 del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.4 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 
 > Se añade, con efectos de 1 de enero de 2023, por el art. 1.29 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
@@ -8912,8 +7948,6 @@ Los órganos jurisdiccionales del orden social serán los competentes para conoc
 
 Quince. Esta protección por cese de actividad se financiará con cargo a la cotización por dicha contingencia.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 1.30 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), y en la redaccion dada a este por la disposición final 10.5 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925), entra en vigor el 1 de enero de 2023, según determina la disposición final 5 de aquella y la disposición final 17.2.d) de esta última.
-
 > Se modifican, con efectos de 1 de enero de 2023, los apartados 2.1.4 y 4.3 por el art. 1.29 del Real Decreto-ley 13/2022, de 26 de julio, en la redaccion dada por la disposición final 10.5 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
 
 > Se añade, con efectos de 1 de enero de 2023, por el art. 1.30 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
@@ -8963,8 +7997,6 @@ Quien acredite cumplir los requisitos exigidos, pero presente la solicitud trans
 12\. Esta prestación será incompatible con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en alguno de los regímenes de la Seguridad Social, o por cuenta ajena o con cualquier otra prestación, renta mínima, renta de inclusión, salario social o ayudas análogas concedidas por cualquier Administración Pública. No obstante lo anterior, sí será compatible con la percepción de derechos de propiedad intelectual y derechos de imagen.
 
 En lo no previsto en esta disposición, serán de aplicación a la prestación especial regulada en la misma, las normas contenidas en el título III de este texto refundido, a excepción del capítulo III.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 4.14 del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), entra en vigor el 1 de julio de 2023, según establece su disposición final 13.e).
 
 > Se añade, con efectos de 1 de julio de 2023, por la disposición final 4.14 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
@@ -9086,8 +8118,6 @@ Para la determinación de dicho umbral de la pobreza se multiplicará por 1,5 el
 
 Las personas beneficiarias del subsidio por desempleo tendrán garantizado, en todo caso, el acceso al itinerario o plan personalizado adecuado a su perfil, previsto en el artículo 56.1.c) de la Ley 3/2023, de 28 de febrero, y dentro del marco del acuerdo de actividad previsto en el artículo 3 de la precitada Ley.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 2.18 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 2.18 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Esta actualización entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
@@ -9102,8 +8132,6 @@ Las personas beneficiarias del subsidio por desempleo tendrán garantizado, en t
 
 En el marco de la evaluación de la política de empleo establecida en el Título VI de la Ley 3/2023, de 28 de febrero, se llevará a cabo una evaluación específica de la eficacia e impacto del nivel asistencial de la protección por desempleo en la mejora de la empleabilidad de las personas beneficiarias de esta.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 2.19 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 2.19 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Esta actualización entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
@@ -9115,8 +8143,6 @@ En el marco de la evaluación de la política de empleo establecida en el Títul
 ###### Disposición adicional quincuagésima sexta. Acceso extraordinario a la prestación contributiva por desempleo de las personas trabajadoras transfronterizas en las ciudades autónomas de Ceuta y Melilla.
 
 Los trabajadores residentes en el Reino de Marruecos que hayan desempeñado su última relación laboral en las ciudades de Ceuta y Melilla, amparados por autorización de trabajo para trabajadores transfronterizos, podrán acceder a la protección por desempleo de nivel contributivo sin necesidad de acreditar residencia en España, siempre que reúnan todos los requisitos establecidos en la legislación aplicable y en las condiciones que se establezcan reglamentariamente.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 2.20 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 2.20 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -9156,8 +8182,6 @@ f) Carecer de rentas en los términos establecidos en el artículo 275.
 
 7\. En lo no previsto expresamente en esta disposición se estará a lo establecido en el título III.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 2.21 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 2.21 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Esta actualización entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
@@ -9196,8 +8220,6 @@ d) Carecer de rentas propias en los términos previstos en el artículo 275.1, s
 
 12\. En lo no previsto expresamente en esta disposición se estará a lo establecido en el título III.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 2.22 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 2.22 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Esta actualización entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
@@ -9232,8 +8254,6 @@ Para la determinación de la duración máxima se tendrá en cuenta el mes de pr
 
 7\. Durante el periodo de percepción del complemento de apoyo al empleo por colocación a tiempo completo compatible con la prestación y el subsidio por desempleo, la entidad gestora no ingresará cotizaciones a la Seguridad Social. Cuando este complemento sea compatible con una colocación a tiempo parcial, la entidad gestora cotizará reduciendo la base de cotización de forma proporcional al tiempo trabajado.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 2.23 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 2.23 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Esta actualización entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
@@ -9252,1302 +8272,1288 @@ Igualmente, en cada Comunidad Autónoma se constituirá una comisión de seguimi
 
 1\. La cotización a la Seguridad Social de los empresarios, cualquiera que sea el régimen de encuadramiento y, en su caso, de las personas trabajadoras por cuenta propia incluidas en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar y en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios, establecido en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, por las contingencias de accidentes de trabajo y enfermedades profesionales se llevará a cabo, a partir del 1 de enero de 2026, en función de la correspondiente actividad económica, ocupación o situación, mediante la aplicación de la siguiente tarifa:
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tarifa para la cotización por accidentes de trabajo y enfermedades profesionales</p>
-<p class="centro_redonda">Cuadro I</p>
+<p>Tarifa para la cotización por accidentes de trabajo y enfermedades profesionales</p>
+<p>Cuadro I</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Códigos CNAE-2025 y título de la actividad económica</th>
-<th class="cabeza_tabla" colspan="3">Tipos de cotización</th>
+<th colspan="2" rowspan="2">Códigos CNAE-2025 y título de la actividad económica</th>
+<th colspan="3">Tipos de cotización</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">IT</th>
-<th class="cabeza_tabla">IMS</th>
-<th class="cabeza_tabla">Total</th>
+<th>IT</th>
+<th>IMS</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">01</td>
-<td class="cuerpo_tabla_izq">Agricultura, ganadería, caza y servicios relacionados con las mismas (Excepto 0113, 0119, 0129 y 0130).</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>01</td>
+<td>Agricultura, ganadería, caza y servicios relacionados con las mismas (Excepto 0113, 0119, 0129 y 0130).</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0113</td>
-<td class="cuerpo_tabla_izq">Cultivo de hortalizas, raíces y tubérculos.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">2,00</td>
+<td>0113</td>
+<td>Cultivo de hortalizas, raíces y tubérculos.</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0119</td>
-<td class="cuerpo_tabla_izq">Otros cultivos no perennes.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">2,00</td>
+<td>0119</td>
+<td>Otros cultivos no perennes.</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0129</td>
-<td class="cuerpo_tabla_izq">Otros cultivos perennes.</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,15</td>
+<td>0129</td>
+<td>Otros cultivos perennes.</td>
+<td>2,25</td>
+<td>2,90</td>
+<td>5,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0130</td>
-<td class="cuerpo_tabla_izq">Propagación de plantas.</td>
-<td class="cuerpo_tabla_coma">1,15</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,25</td>
+<td>0130</td>
+<td>Propagación de plantas.</td>
+<td>1,15</td>
+<td>1,10</td>
+<td>2,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">014</td>
-<td class="cuerpo_tabla_izq">Producción ganadera (Excepto 0147).</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>014</td>
+<td>Producción ganadera (Excepto 0147).</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0147</td>
-<td class="cuerpo_tabla_izq">Avicultura.</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">1,15</td>
-<td class="cuerpo_tabla_coma">2,40</td>
+<td>0147</td>
+<td>Avicultura.</td>
+<td>1,25</td>
+<td>1,15</td>
+<td>2,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">015</td>
-<td class="cuerpo_tabla_izq">Producción agrícola combinada con la producción ganadera.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>015</td>
+<td>Producción agrícola combinada con la producción ganadera.</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">016</td>
-<td class="cuerpo_tabla_izq">Actividades de apoyo a la agricultura, a la ganadería y de preparación posterior a la cosecha (Excepto 0163).</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>016</td>
+<td>Actividades de apoyo a la agricultura, a la ganadería y de preparación posterior a la cosecha (Excepto 0163).</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0163</td>
-<td class="cuerpo_tabla_izq">Actividades de preparación posterior a la cosecha y tratamiento de semillas para reproducción.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,15</td>
-<td class="cuerpo_tabla_coma">2,65</td>
+<td>0163</td>
+<td>Actividades de preparación posterior a la cosecha y tratamiento de semillas para reproducción.</td>
+<td>1,50</td>
+<td>1,15</td>
+<td>2,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">017</td>
-<td class="cuerpo_tabla_izq">Caza, captura de animales y servicios relacionados.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>017</td>
+<td>Caza, captura de animales y servicios relacionados.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">02</td>
-<td class="cuerpo_tabla_izq">Silvicultura y explotación forestal.</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,15</td>
+<td>02</td>
+<td>Silvicultura y explotación forestal.</td>
+<td>2,25</td>
+<td>2,90</td>
+<td>5,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03</td>
-<td class="cuerpo_tabla_izq">Pesca y acuicultura (Excepto v, w, 0322 y 0330).</td>
-<td class="cuerpo_tabla_coma">3,05</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,40</td>
+<td>03</td>
+<td>Pesca y acuicultura (Excepto v, w, 0322 y 0330).</td>
+<td>3,05</td>
+<td>3,35</td>
+<td>6,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">v</td>
-<td class="cuerpo_tabla_izq">Grupo segundo de cotización del Régimen especial del Mar.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">4,10</td>
+<td>v</td>
+<td>Grupo segundo de cotización del Régimen especial del Mar.</td>
+<td>2,10</td>
+<td>2,00</td>
+<td>4,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">w</td>
-<td class="cuerpo_tabla_izq">Grupo tercero de cotización del Régimen especial del Mar.</td>
-<td class="cuerpo_tabla_coma">1,65</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">3,35</td>
+<td>w</td>
+<td>Grupo tercero de cotización del Régimen especial del Mar.</td>
+<td>1,65</td>
+<td>1,70</td>
+<td>3,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0322</td>
-<td class="cuerpo_tabla_izq">Acuicultura en agua dulce.</td>
-<td class="cuerpo_tabla_coma">3,05</td>
-<td class="cuerpo_tabla_coma">3,20</td>
-<td class="cuerpo_tabla_coma">6,25</td>
+<td>0322</td>
+<td>Acuicultura en agua dulce.</td>
+<td>3,05</td>
+<td>3,20</td>
+<td>6,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0330</td>
-<td class="cuerpo_tabla_izq">Actividades de apoyo a la pesca y la acuicultura.</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,15</td>
+<td>0330</td>
+<td>Actividades de apoyo a la pesca y la acuicultura.</td>
+<td>2,25</td>
+<td>2,90</td>
+<td>5,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">05</td>
-<td class="cuerpo_tabla_izq">Extracción de antracita, hulla, y lignito (Excepto y).</td>
-<td class="cuerpo_tabla_coma">2,30</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,20</td>
+<td>05</td>
+<td>Extracción de antracita, hulla, y lignito (Excepto y).</td>
+<td>2,30</td>
+<td>2,90</td>
+<td>5,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">y</td>
-<td class="cuerpo_tabla_izq">Trabajos habituales en interior de minas.</td>
-<td class="cuerpo_tabla_coma">3,45</td>
-<td class="cuerpo_tabla_coma">3,70</td>
-<td class="cuerpo_tabla_coma">7,15</td>
+<td>y</td>
+<td>Trabajos habituales en interior de minas.</td>
+<td>3,45</td>
+<td>3,70</td>
+<td>7,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">06</td>
-<td class="cuerpo_tabla_izq">Extracción de crudo de petróleo y gas natural.</td>
-<td class="cuerpo_tabla_coma">2,30</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,20</td>
+<td>06</td>
+<td>Extracción de crudo de petróleo y gas natural.</td>
+<td>2,30</td>
+<td>2,90</td>
+<td>5,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">07</td>
-<td class="cuerpo_tabla_izq">Extracción de minerales metálicos.</td>
-<td class="cuerpo_tabla_coma">2,30</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,20</td>
+<td>07</td>
+<td>Extracción de minerales metálicos.</td>
+<td>2,30</td>
+<td>2,90</td>
+<td>5,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">08</td>
-<td class="cuerpo_tabla_izq">Otras industrias extractivas (Excepto 0811).</td>
-<td class="cuerpo_tabla_coma">2,30</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,20</td>
+<td>08</td>
+<td>Otras industrias extractivas (Excepto 0811).</td>
+<td>2,30</td>
+<td>2,90</td>
+<td>5,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0811</td>
-<td class="cuerpo_tabla_izq">Extracción de piedra ornamental, piedra caliza, yeso, pizarra y otras piedras.</td>
-<td class="cuerpo_tabla_coma">3,45</td>
-<td class="cuerpo_tabla_coma">3,70</td>
-<td class="cuerpo_tabla_coma">7,15</td>
+<td>0811</td>
+<td>Extracción de piedra ornamental, piedra caliza, yeso, pizarra y otras piedras.</td>
+<td>3,45</td>
+<td>3,70</td>
+<td>7,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">09</td>
-<td class="cuerpo_tabla_izq">Actividades de apoyo a las industrias extractivas.</td>
-<td class="cuerpo_tabla_coma">2,30</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,20</td>
+<td>09</td>
+<td>Actividades de apoyo a las industrias extractivas.</td>
+<td>2,30</td>
+<td>2,90</td>
+<td>5,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Industria alimentaria (Excepto 101, 102, 106, 107 y 108).</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,20</td>
+<td>10</td>
+<td>Industria alimentaria (Excepto 101, 102, 106, 107 y 108).</td>
+<td>1,60</td>
+<td>1,60</td>
+<td>3,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">101</td>
-<td class="cuerpo_tabla_izq">Procesado y conservación de carne y elaboración de productos cárnicos.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,90</td>
-<td class="cuerpo_tabla_coma">3,90</td>
+<td>101</td>
+<td>Procesado y conservación de carne y elaboración de productos cárnicos.</td>
+<td>2,00</td>
+<td>1,90</td>
+<td>3,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">102</td>
-<td class="cuerpo_tabla_izq">Procesado y conservación de pescados, crustáceos y moluscos.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>102</td>
+<td>Procesado y conservación de pescados, crustáceos y moluscos.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">106</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos de molinería, almidones y productos amiláceos.</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>106</td>
+<td>Fabricación de productos de molinería, almidones y productos amiláceos.</td>
+<td>1,70</td>
+<td>1,60</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">107</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos de panadería y pastas alimenticias.</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">0,90</td>
-<td class="cuerpo_tabla_coma">1,95</td>
+<td>107</td>
+<td>Fabricación de productos de panadería y pastas alimenticias.</td>
+<td>1,05</td>
+<td>0,90</td>
+<td>1,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">108</td>
-<td class="cuerpo_tabla_izq">Fabricación de otros productos alimenticios.</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">0,90</td>
-<td class="cuerpo_tabla_coma">1,95</td>
+<td>108</td>
+<td>Fabricación de otros productos alimenticios.</td>
+<td>1,05</td>
+<td>0,90</td>
+<td>1,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Fabricación de bebidas.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,20</td>
+<td>11</td>
+<td>Fabricación de bebidas.</td>
+<td>1,60</td>
+<td>1,60</td>
+<td>3,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Industria del tabaco.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">1,80</td>
+<td>12</td>
+<td>Industria del tabaco.</td>
+<td>1,00</td>
+<td>0,80</td>
+<td>1,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Industria textil (Excepto 1391).</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,85</td>
+<td>13</td>
+<td>Industria textil (Excepto 1391).</td>
+<td>1,00</td>
+<td>0,85</td>
+<td>1,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1391</td>
-<td class="cuerpo_tabla_izq">Fabricación de tejidos de punto.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>1391</td>
+<td>Fabricación de tejidos de punto.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Confección de prendas de vestir (Excepto 1424).</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>14</td>
+<td>Confección de prendas de vestir (Excepto 1424).</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1424</td>
-<td class="cuerpo_tabla_izq">Confección de prendas de vestir de cuero y peletería.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>1424</td>
+<td>Confección de prendas de vestir de cuero y peletería.</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Industria del cuero y productos relacionados de otros materiales.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>15</td>
+<td>Industria del cuero y productos relacionados de otros materiales.</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Industria de la madera y del corcho, excepto muebles; cestería y espartería (Excepto 1624, 1626, 1627 y 1628).</td>
-<td class="cuerpo_tabla_coma">2,25</td>
-<td class="cuerpo_tabla_coma">2,90</td>
-<td class="cuerpo_tabla_coma">5,15</td>
+<td>16</td>
+<td>Industria de la madera y del corcho, excepto muebles; cestería y espartería (Excepto 1624, 1626, 1627 y 1628).</td>
+<td>2,25</td>
+<td>2,90</td>
+<td>5,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1624</td>
-<td class="cuerpo_tabla_izq">Fabricación de envases y embalajes de madera.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">4,10</td>
+<td>1624</td>
+<td>Fabricación de envases y embalajes de madera.</td>
+<td>2,10</td>
+<td>2,00</td>
+<td>4,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1626</td>
-<td class="cuerpo_tabla_izq">Fabricación de combustibles sólidos a partir de biomasa vegetal.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">4,10</td>
+<td>1626</td>
+<td>Fabricación de combustibles sólidos a partir de biomasa vegetal.</td>
+<td>2,10</td>
+<td>2,00</td>
+<td>4,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1627</td>
-<td class="cuerpo_tabla_izq">Acabado de productos de madera.</td>
-<td class="cuerpo_tabla_coma">2,20</td>
-<td class="cuerpo_tabla_coma">2,70</td>
-<td class="cuerpo_tabla_coma">4,90</td>
+<td>1627</td>
+<td>Acabado de productos de madera.</td>
+<td>2,20</td>
+<td>2,70</td>
+<td>4,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1628</td>
-<td class="cuerpo_tabla_izq">Fabricación de otros productos de madera, artículos de corcho, cestería y espartería.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">4,10</td>
+<td>1628</td>
+<td>Fabricación de otros productos de madera, artículos de corcho, cestería y espartería.</td>
+<td>2,10</td>
+<td>2,00</td>
+<td>4,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Industria del papel (Excepto 171).</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>17</td>
+<td>Industria del papel (Excepto 171).</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">171</td>
-<td class="cuerpo_tabla_izq">Fabricación de pasta papelera, papel y cartón.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,50</td>
+<td>171</td>
+<td>Fabricación de pasta papelera, papel y cartón.</td>
+<td>2,00</td>
+<td>1,50</td>
+<td>3,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Artes gráficas y reproducción de soportes grabados.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">2,00</td>
+<td>18</td>
+<td>Artes gráficas y reproducción de soportes grabados.</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Coquerías y refino de petróleo.</td>
-<td class="cuerpo_tabla_coma">1,45</td>
-<td class="cuerpo_tabla_coma">1,90</td>
-<td class="cuerpo_tabla_coma">3,35</td>
+<td>19</td>
+<td>Coquerías y refino de petróleo.</td>
+<td>1,45</td>
+<td>1,90</td>
+<td>3,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Industria química (Excepto 204 y 206).</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,40</td>
-<td class="cuerpo_tabla_coma">3,00</td>
+<td>20</td>
+<td>Industria química (Excepto 204 y 206).</td>
+<td>1,60</td>
+<td>1,40</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">204</td>
-<td class="cuerpo_tabla_izq">Fabricación de artículos de lavado, limpieza y abrillantamiento.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,70</td>
+<td>204</td>
+<td>Fabricación de artículos de lavado, limpieza y abrillantamiento.</td>
+<td>1,50</td>
+<td>1,20</td>
+<td>2,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">206</td>
-<td class="cuerpo_tabla_izq">Fabricación de fibras artificiales y sintéticas.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,70</td>
+<td>206</td>
+<td>Fabricación de fibras artificiales y sintéticas.</td>
+<td>1,50</td>
+<td>1,20</td>
+<td>2,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos farmacéuticos.</td>
-<td class="cuerpo_tabla_coma">1,30</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,40</td>
+<td>21</td>
+<td>Fabricación de productos farmacéuticos.</td>
+<td>1,30</td>
+<td>1,10</td>
+<td>2,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos de caucho y plásticos.</td>
-<td class="cuerpo_tabla_coma">1,75</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">3,00</td>
+<td>22</td>
+<td>Fabricación de productos de caucho y plásticos.</td>
+<td>1,75</td>
+<td>1,25</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Fabricación de otros productos minerales no metálicos (Excepto 231, 232, 2331, 234 y 237).</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">4,10</td>
+<td>23</td>
+<td>Fabricación de otros productos minerales no metálicos (Excepto 231, 232, 2331, 234 y 237).</td>
+<td>2,10</td>
+<td>2,00</td>
+<td>4,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">231</td>
-<td class="cuerpo_tabla_izq">Fabricación de vidrio y productos de vidrio.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,10</td>
+<td>231</td>
+<td>Fabricación de vidrio y productos de vidrio.</td>
+<td>1,60</td>
+<td>1,50</td>
+<td>3,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">232</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos cerámicos refractarios.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,10</td>
+<td>232</td>
+<td>Fabricación de productos cerámicos refractarios.</td>
+<td>1,60</td>
+<td>1,50</td>
+<td>3,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2331</td>
-<td class="cuerpo_tabla_izq">Fabricación de azulejos y baldosas de cerámica.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,10</td>
+<td>2331</td>
+<td>Fabricación de azulejos y baldosas de cerámica.</td>
+<td>1,60</td>
+<td>1,50</td>
+<td>3,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">234</td>
-<td class="cuerpo_tabla_izq">Fabricación de otros productos cerámicos.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,10</td>
+<td>234</td>
+<td>Fabricación de otros productos cerámicos.</td>
+<td>1,60</td>
+<td>1,50</td>
+<td>3,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">237</td>
-<td class="cuerpo_tabla_izq">Corte, tallado y acabado de la piedra.</td>
-<td class="cuerpo_tabla_coma">2,75</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,10</td>
+<td>237</td>
+<td>Corte, tallado y acabado de la piedra.</td>
+<td>2,75</td>
+<td>3,35</td>
+<td>6,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Metalurgia.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>24</td>
+<td>Metalurgia.</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos metálicos, excepto maquinaria y equipo.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>25</td>
+<td>Fabricación de productos metálicos, excepto maquinaria y equipo.</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">Fabricación de productos informáticos, electrónicos y ópticos.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>26</td>
+<td>Fabricación de productos informáticos, electrónicos y ópticos.</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">Fabricación de material y equipo eléctrico (Excepto 279).</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>27</td>
+<td>Fabricación de material y equipo eléctrico (Excepto 279).</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">279</td>
-<td class="cuerpo_tabla_izq">Fabricación de otro material y equipo eléctrico.</td>
-<td class="cuerpo_tabla_coma">1,65</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">2,90</td>
+<td>279</td>
+<td>Fabricación de otro material y equipo eléctrico.</td>
+<td>1,65</td>
+<td>1,25</td>
+<td>2,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Fabricación de maquinaria y equipo n.c.o.p.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>28</td>
+<td>Fabricación de maquinaria y equipo n.c.o.p.</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Fabricación de vehículos de motor, remolques y semirremolques.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>29</td>
+<td>Fabricación de vehículos de motor, remolques y semirremolques.</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Fabricación de otro material de transporte (Excepto 3091 y 3092).</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>30</td>
+<td>Fabricación de otro material de transporte (Excepto 3091 y 3092).</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3091</td>
-<td class="cuerpo_tabla_izq">Fabricación de motocicletas.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>3091</td>
+<td>Fabricación de motocicletas.</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3092</td>
-<td class="cuerpo_tabla_izq">Fabricación de bicicletas y de vehículos para personas con discapacidad.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>3092</td>
+<td>Fabricación de bicicletas y de vehículos para personas con discapacidad.</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Fabricación de muebles.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>31</td>
+<td>Fabricación de muebles.</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Otras industrias manufactureras (Excepto 321 y 322).</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>32</td>
+<td>Otras industrias manufactureras (Excepto 321 y 322).</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">321</td>
-<td class="cuerpo_tabla_izq">Fabricación de artículos de joyería, bisutería y similares.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,85</td>
+<td>321</td>
+<td>Fabricación de artículos de joyería, bisutería y similares.</td>
+<td>1,00</td>
+<td>0,85</td>
+<td>1,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">322</td>
-<td class="cuerpo_tabla_izq">Fabricación de instrumentos musicales.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,85</td>
+<td>322</td>
+<td>Fabricación de instrumentos musicales.</td>
+<td>1,00</td>
+<td>0,85</td>
+<td>1,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_izq">Reparación, mantenimiento e instalación de maquinaria y equipos (Excepto 3313 y 3314).</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>33</td>
+<td>Reparación, mantenimiento e instalación de maquinaria y equipos (Excepto 3313 y 3314).</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3313</td>
-<td class="cuerpo_tabla_izq">Reparación y mantenimiento de equipos electrónicos y ópticos.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>3313</td>
+<td>Reparación y mantenimiento de equipos electrónicos y ópticos.</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3314</td>
-<td class="cuerpo_tabla_izq">Reparación y mantenimiento de equipos eléctricos.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,80</td>
+<td>3314</td>
+<td>Reparación y mantenimiento de equipos eléctricos.</td>
+<td>1,60</td>
+<td>1,20</td>
+<td>2,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_izq">Suministro de energía eléctrica, gas, vapor y aire acondicionado.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>35</td>
+<td>Suministro de energía eléctrica, gas, vapor y aire acondicionado.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_izq">Captación, depuración y distribución de agua.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,70</td>
+<td>36</td>
+<td>Captación, depuración y distribución de agua.</td>
+<td>2,10</td>
+<td>1,60</td>
+<td>3,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">Recogida y tratamiento de aguas residuales.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,70</td>
+<td>37</td>
+<td>Recogida y tratamiento de aguas residuales.</td>
+<td>2,10</td>
+<td>1,60</td>
+<td>3,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_izq">Actividades de recogida, tratamiento y eliminación de residuos.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,70</td>
+<td>38</td>
+<td>Actividades de recogida, tratamiento y eliminación de residuos.</td>
+<td>2,10</td>
+<td>1,60</td>
+<td>3,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_izq">Actividades de descontaminación y otros servicios de gestión de residuos.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">3,70</td>
+<td>39</td>
+<td>Actividades de descontaminación y otros servicios de gestión de residuos.</td>
+<td>2,10</td>
+<td>1,60</td>
+<td>3,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Construcción de edificios.</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>41</td>
+<td>Construcción de edificios.</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Ingeniería civil.</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>42</td>
+<td>Ingeniería civil.</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Actividades de construcción especializada (Excepto 436).</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>43</td>
+<td>Actividades de construcción especializada (Excepto 436).</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">436</td>
-<td class="cuerpo_tabla_izq">Actividades de intermediación para servicios de construcción especializada.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>436</td>
+<td>Actividades de intermediación para servicios de construcción especializada.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor (Excepto 4618, 4623, 4624, 4632, 4638, 4671, 4672, 4673, 4682, 4683, 4684, 4687, 4689 y 4690).</td>
-<td class="cuerpo_tabla_coma">1,40</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>46</td>
+<td>Comercio al por mayor (Excepto 4618, 4623, 4624, 4632, 4638, 4671, 4672, 4673, 4682, 4683, 4684, 4687, 4689 y 4690).</td>
+<td>1,40</td>
+<td>1,20</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4618</td>
-<td class="cuerpo_tabla_izq">Actividades de intermediarios del comercio al por mayor de otros productos específicos.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>4618</td>
+<td>Actividades de intermediarios del comercio al por mayor de otros productos específicos.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4623</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de animales vivos.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>4623</td>
+<td>Comercio al por mayor de animales vivos.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4624</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de cueros y pieles.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>4624</td>
+<td>Comercio al por mayor de cueros y pieles.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4632</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de carne, productos cárnicos; pescado y productos del pescado.</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">1,45</td>
-<td class="cuerpo_tabla_coma">3,15</td>
+<td>4632</td>
+<td>Comercio al por mayor de carne, productos cárnicos; pescado y productos del pescado.</td>
+<td>1,70</td>
+<td>1,45</td>
+<td>3,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4638</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de otros alimentos.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
-<td class="cuerpo_tabla_coma">1,40</td>
-<td class="cuerpo_tabla_coma">3,00</td>
+<td>4638</td>
+<td>Comercio al por mayor de otros alimentos.</td>
+<td>1,60</td>
+<td>1,40</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4671</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de vehículos de motor.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>4671</td>
+<td>Comercio al por mayor de vehículos de motor.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4672</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de repuestos y accesorios de vehículos de motor.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>4672</td>
+<td>Comercio al por mayor de repuestos y accesorios de vehículos de motor.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4673</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de motocicletas, y repuestos y accesorios de motocicletas.</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,90</td>
+<td>4673</td>
+<td>Comercio al por mayor de motocicletas, y repuestos y accesorios de motocicletas.</td>
+<td>1,70</td>
+<td>1,20</td>
+<td>2,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4682</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de metales y minerales metálicos.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>4682</td>
+<td>Comercio al por mayor de metales y minerales metálicos.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4683</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de madera, materiales de construcción y aparatos sanitarios.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>4683</td>
+<td>Comercio al por mayor de madera, materiales de construcción y aparatos sanitarios.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4684</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de equipos y suministros de ferretería, fontanería y calefacción.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,55</td>
-<td class="cuerpo_tabla_coma">3,35</td>
+<td>4684</td>
+<td>Comercio al por mayor de equipos y suministros de ferretería, fontanería y calefacción.</td>
+<td>1,80</td>
+<td>1,55</td>
+<td>3,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4687</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de chatarra y productos de desecho.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,55</td>
-<td class="cuerpo_tabla_coma">3,35</td>
+<td>4687</td>
+<td>Comercio al por mayor de chatarra y productos de desecho.</td>
+<td>1,80</td>
+<td>1,55</td>
+<td>3,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4689</td>
-<td class="cuerpo_tabla_izq">Otro comercio al por mayor especializado n.c.o.p.</td>
-<td class="cuerpo_tabla_coma">1,45</td>
-<td class="cuerpo_tabla_coma">1,25</td>
-<td class="cuerpo_tabla_coma">2,70</td>
+<td>4689</td>
+<td>Otro comercio al por mayor especializado n.c.o.p.</td>
+<td>1,45</td>
+<td>1,25</td>
+<td>2,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4690</td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor no especializado.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,55</td>
-<td class="cuerpo_tabla_coma">3,35</td>
+<td>4690</td>
+<td>Comercio al por mayor no especializado.</td>
+<td>1,80</td>
+<td>1,55</td>
+<td>3,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Comercio al por menor (Excepto 473, 4781, 4782 y 4783).</td>
-<td class="cuerpo_tabla_coma">0,95</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>47</td>
+<td>Comercio al por menor (Excepto 473, 4781, 4782 y 4783).</td>
+<td>0,95</td>
+<td>0,70</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">473</td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de combustible para la automoción.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,85</td>
+<td>473</td>
+<td>Comercio al por menor de combustible para la automoción.</td>
+<td>1,00</td>
+<td>0,85</td>
+<td>1,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4781</td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de vehículos de motor.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>4781</td>
+<td>Comercio al por menor de vehículos de motor.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4782</td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de repuestos y accesorios de vehículos de motor.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>4782</td>
+<td>Comercio al por menor de repuestos y accesorios de vehículos de motor.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4783</td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de motocicletas, y repuestos y accesorios de motocicletas.</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,90</td>
+<td>4783</td>
+<td>Comercio al por menor de motocicletas, y repuestos y accesorios de motocicletas.</td>
+<td>1,70</td>
+<td>1,20</td>
+<td>2,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">Transporte terrestre y por tubería (Excepto 494).</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>49</td>
+<td>Transporte terrestre y por tubería (Excepto 494).</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">494</td>
-<td class="cuerpo_tabla_izq">Transporte de mercancías por carretera y servicios de mudanza.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">3,70</td>
+<td>494</td>
+<td>Transporte de mercancías por carretera y servicios de mudanza.</td>
+<td>2,00</td>
+<td>1,70</td>
+<td>3,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Transporte marítimo y por vías navegables interiores.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>50</td>
+<td>Transporte marítimo y por vías navegables interiores.</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Transporte aéreo.</td>
-<td class="cuerpo_tabla_coma">1,90</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">3,60</td>
+<td>51</td>
+<td>Transporte aéreo.</td>
+<td>1,90</td>
+<td>1,70</td>
+<td>3,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Depósito, almacenamiento y actividades auxiliares del transporte (Excepto x, 5221 y 5232).</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>52</td>
+<td>Depósito, almacenamiento y actividades auxiliares del transporte (Excepto x, 5221 y 5232).</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_izq">Carga y descarga; estiba y desestiba.</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>x</td>
+<td>Carga y descarga; estiba y desestiba.</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5221</td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares del transporte terrestre.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,10</td>
+<td>5221</td>
+<td>Actividades auxiliares del transporte terrestre.</td>
+<td>1,00</td>
+<td>1,10</td>
+<td>2,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5232</td>
-<td class="cuerpo_tabla_izq">Actividades de intermediación para el transporte de pasajeros.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,85</td>
+<td>5232</td>
+<td>Actividades de intermediación para el transporte de pasajeros.</td>
+<td>1,00</td>
+<td>0,85</td>
+<td>1,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Actividades postales y de mensajería (Excepto 5330).</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,75</td>
-<td class="cuerpo_tabla_coma">1,75</td>
+<td>53</td>
+<td>Actividades postales y de mensajería (Excepto 5330).</td>
+<td>1,00</td>
+<td>0,75</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5330</td>
-<td class="cuerpo_tabla_izq">Servicios de intermediación para las actividades postales y de mensajería.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>5330</td>
+<td>Servicios de intermediación para las actividades postales y de mensajería.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Servicios de alojamiento.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>55</td>
+<td>Servicios de alojamiento.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Servicios de comidas y bebidas.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>56</td>
+<td>Servicios de comidas y bebidas.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Edición.</td>
-<td class="cuerpo_tabla_coma">0,65</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>58</td>
+<td>Edición.</td>
+<td>0,65</td>
+<td>1,00</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>59</td>
+<td>Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos (Excepto 6039).</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>60</td>
+<td>Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos (Excepto 6039).</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6039</td>
-<td class="cuerpo_tabla_izq">Otras actividades de distribución de contenidos.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>6039</td>
+<td>Otras actividades de distribución de contenidos.</td>
+<td>0,80</td>
+<td>0,85</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Telecomunicaciones.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>61</td>
+<td>Telecomunicaciones.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Programación, consultoría y otras actividades relacionadas con la informática.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>62</td>
+<td>Programación, consultoría y otras actividades relacionadas con la informática.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">63</td>
-<td class="cuerpo_tabla_izq">Infraestructura informática, tratamiento de datos, hosting y otras actividades de servicios de información.</td>
-<td class="cuerpo_tabla_coma">0,65</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>63</td>
+<td>Infraestructura informática, tratamiento de datos, hosting y otras actividades de servicios de información.</td>
+<td>0,65</td>
+<td>1,00</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">64</td>
-<td class="cuerpo_tabla_izq">Servicios financieros, excepto seguros y fondos de pensiones.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>64</td>
+<td>Servicios financieros, excepto seguros y fondos de pensiones.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">65</td>
-<td class="cuerpo_tabla_izq">Seguros, reaseguros y planes de pensiones, excepto seguridad social obligatoria.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>65</td>
+<td>Seguros, reaseguros y planes de pensiones, excepto seguridad social obligatoria.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">66</td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares a los servicios financieros y a los seguros.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>66</td>
+<td>Actividades auxiliares a los servicios financieros y a los seguros.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">68</td>
-<td class="cuerpo_tabla_izq">Actividades inmobiliarias.</td>
-<td class="cuerpo_tabla_coma">0,65</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>68</td>
+<td>Actividades inmobiliarias.</td>
+<td>0,65</td>
+<td>1,00</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">69</td>
-<td class="cuerpo_tabla_izq">Actividades jurídicas y de contabilidad.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>69</td>
+<td>Actividades jurídicas y de contabilidad.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq">Actividades de las sedes centrales y consultoría de gestión empresarial.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>70</td>
+<td>Actividades de las sedes centrales y consultoría de gestión empresarial.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">71</td>
-<td class="cuerpo_tabla_izq">Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos.</td>
-<td class="cuerpo_tabla_coma">0,65</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>71</td>
+<td>Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos.</td>
+<td>0,65</td>
+<td>1,00</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">72</td>
-<td class="cuerpo_tabla_izq">Investigación y desarrollo.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>72</td>
+<td>Investigación y desarrollo.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">73</td>
-<td class="cuerpo_tabla_izq">Actividades de publicidad, estudios de mercado, relaciones públicas y comunicación (Excepto 7330).</td>
-<td class="cuerpo_tabla_coma">0,90</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">1,70</td>
+<td>73</td>
+<td>Actividades de publicidad, estudios de mercado, relaciones públicas y comunicación (Excepto 7330).</td>
+<td>0,90</td>
+<td>0,80</td>
+<td>1,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7330</td>
-<td class="cuerpo_tabla_izq">Relaciones públicas y comunicación.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>7330</td>
+<td>Relaciones públicas y comunicación.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">74</td>
-<td class="cuerpo_tabla_izq">Otras actividades profesionales, científicas y técnicas (Excepto 742).</td>
-<td class="cuerpo_tabla_coma">0,90</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,75</td>
+<td>74</td>
+<td>Otras actividades profesionales, científicas y técnicas (Excepto 742).</td>
+<td>0,90</td>
+<td>0,85</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">742</td>
-<td class="cuerpo_tabla_izq">Actividades de fotografía.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>742</td>
+<td>Actividades de fotografía.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">75</td>
-<td class="cuerpo_tabla_izq">Actividades veterinarias.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>75</td>
+<td>Actividades veterinarias.</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_izq">Actividades de alquiler.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">2,00</td>
+<td>77</td>
+<td>Actividades de alquiler.</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">78</td>
-<td class="cuerpo_tabla_izq">Actividades relacionadas con el empleo (Excepto x y781).</td>
-<td class="cuerpo_tabla_coma">1,55</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,75</td>
+<td>78</td>
+<td>Actividades relacionadas con el empleo (Excepto x y781).</td>
+<td>1,55</td>
+<td>1,20</td>
+<td>2,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_izq">Carga y descarga; estiba y desestiba.</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>x</td>
+<td>Carga y descarga; estiba y desestiba.</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">781</td>
-<td class="cuerpo_tabla_izq">Actividades de las agencias de colocación.</td>
-<td class="cuerpo_tabla_coma">0,95</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,95</td>
+<td>781</td>
+<td>Actividades de las agencias de colocación.</td>
+<td>0,95</td>
+<td>1,00</td>
+<td>1,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">79</td>
-<td class="cuerpo_tabla_izq">Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>79</td>
+<td>Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_izq">Servicios de investigación y seguridad.</td>
-<td class="cuerpo_tabla_coma">1,40</td>
-<td class="cuerpo_tabla_coma">2,20</td>
-<td class="cuerpo_tabla_coma">3,60</td>
+<td>80</td>
+<td>Servicios de investigación y seguridad.</td>
+<td>1,40</td>
+<td>2,20</td>
+<td>3,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">81</td>
-<td class="cuerpo_tabla_izq">Servicios a edificios y actividades de jardinería (Excepto 811).</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,60</td>
+<td>81</td>
+<td>Servicios a edificios y actividades de jardinería (Excepto 811).</td>
+<td>2,10</td>
+<td>1,50</td>
+<td>3,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">811</td>
-<td class="cuerpo_tabla_izq">Servicios integrales a edificios e instalaciones.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">1,85</td>
+<td>811</td>
+<td>Servicios integrales a edificios e instalaciones.</td>
+<td>1,00</td>
+<td>0,85</td>
+<td>1,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">82</td>
-<td class="cuerpo_tabla_izq">Actividades administrativas de oficina y otras actividades auxiliares a las empresas (Excepto 8220 y 8292).</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>82</td>
+<td>Actividades administrativas de oficina y otras actividades auxiliares a las empresas (Excepto 8220 y 8292).</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8220</td>
-<td class="cuerpo_tabla_izq">Actividades de los centros de llamadas.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>8220</td>
+<td>Actividades de los centros de llamadas.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8292</td>
-<td class="cuerpo_tabla_izq">Actividades de envasado y empaquetado.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>8292</td>
+<td>Actividades de envasado y empaquetado.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_izq">Administración pública y defensa; seguridad social obligatoria (Excepto 842).</td>
-<td class="cuerpo_tabla_coma">0,65</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>84</td>
+<td>Administración pública y defensa; seguridad social obligatoria (Excepto 842).</td>
+<td>0,65</td>
+<td>1,00</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">842</td>
-<td class="cuerpo_tabla_izq">Prestación de servicios a la comunidad en general.</td>
-<td class="cuerpo_tabla_coma">1,40</td>
-<td class="cuerpo_tabla_coma">2,20</td>
-<td class="cuerpo_tabla_coma">3,60</td>
+<td>842</td>
+<td>Prestación de servicios a la comunidad en general.</td>
+<td>1,40</td>
+<td>2,20</td>
+<td>3,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">85</td>
-<td class="cuerpo_tabla_izq">Educación.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>85</td>
+<td>Educación.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">86</td>
-<td class="cuerpo_tabla_izq">Actividades sanitarias (Excepto 869).</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>86</td>
+<td>Actividades sanitarias (Excepto 869).</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">869</td>
-<td class="cuerpo_tabla_izq">Otras actividades sanitarias.</td>
-<td class="cuerpo_tabla_coma">0,95</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">1,75</td>
+<td>869</td>
+<td>Otras actividades sanitarias.</td>
+<td>0,95</td>
+<td>0,80</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">87</td>
-<td class="cuerpo_tabla_izq">Asistencia en establecimientos residenciales.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>87</td>
+<td>Asistencia en establecimientos residenciales.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">88</td>
-<td class="cuerpo_tabla_izq">Actividades de servicios sociales sin alojamiento.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>88</td>
+<td>Actividades de servicios sociales sin alojamiento.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_izq">Actividades de creación artística y artes escénicas.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>90</td>
+<td>Actividades de creación artística y artes escénicas.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">91</td>
-<td class="cuerpo_tabla_izq">Actividades de bibliotecas, archivos, museos y otras actividades culturales (Excepto 914).</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>91</td>
+<td>Actividades de bibliotecas, archivos, museos y otras actividades culturales (Excepto 914).</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">914</td>
-<td class="cuerpo_tabla_izq">Actividades de los jardines botánicos, parques zoológicos y reservas naturales.</td>
-<td class="cuerpo_tabla_coma">1,75</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,95</td>
+<td>914</td>
+<td>Actividades de los jardines botánicos, parques zoológicos y reservas naturales.</td>
+<td>1,75</td>
+<td>1,20</td>
+<td>2,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">92</td>
-<td class="cuerpo_tabla_izq">Actividades de juegos de azar y apuestas.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>92</td>
+<td>Actividades de juegos de azar y apuestas.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">93</td>
-<td class="cuerpo_tabla_izq">Actividades deportivas, recreativas y de entretenimiento (Excepto u).</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">1,30</td>
-<td class="cuerpo_tabla_coma">3,00</td>
+<td>93</td>
+<td>Actividades deportivas, recreativas y de entretenimiento (Excepto u).</td>
+<td>1,70</td>
+<td>1,30</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">u</td>
-<td class="cuerpo_tabla_izq">Espectáculos taurinos.</td>
-<td class="cuerpo_tabla_coma">2,85</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_coma">6,20</td>
+<td>u</td>
+<td>Espectáculos taurinos.</td>
+<td>2,85</td>
+<td>3,35</td>
+<td>6,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">94</td>
-<td class="cuerpo_tabla_izq">Actividades asociativas.</td>
-<td class="cuerpo_tabla_coma">0,65</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>94</td>
+<td>Actividades asociativas.</td>
+<td>0,65</td>
+<td>1,00</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">95</td>
-<td class="cuerpo_tabla_izq">Reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas (Excepto 9524, 9531, 9532 y 9540).</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>95</td>
+<td>Reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas (Excepto 9524, 9531, 9532 y 9540).</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9524</td>
-<td class="cuerpo_tabla_izq">Reparación y mantenimiento de muebles y artículos de menaje.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">1,85</td>
-<td class="cuerpo_tabla_coma">3,85</td>
+<td>9524</td>
+<td>Reparación y mantenimiento de muebles y artículos de menaje.</td>
+<td>2,00</td>
+<td>1,85</td>
+<td>3,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9531</td>
-<td class="cuerpo_tabla_izq">Reparación y mantenimiento de vehículos de motor.</td>
-<td class="cuerpo_tabla_coma">2,45</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">4,45</td>
+<td>9531</td>
+<td>Reparación y mantenimiento de vehículos de motor.</td>
+<td>2,45</td>
+<td>2,00</td>
+<td>4,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9532</td>
-<td class="cuerpo_tabla_izq">Reparación y mantenimiento de motocicletas.</td>
-<td class="cuerpo_tabla_coma">1,70</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">2,90</td>
+<td>9532</td>
+<td>Reparación y mantenimiento de motocicletas.</td>
+<td>1,70</td>
+<td>1,20</td>
+<td>2,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9540</td>
-<td class="cuerpo_tabla_izq">Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_coma">1,05</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>9540</td>
+<td>Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas.</td>
+<td>1,00</td>
+<td>1,05</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">96</td>
-<td class="cuerpo_tabla_izq">Servicios personales (Excepto 9621, 9622, 9630 y 9699).</td>
-<td class="cuerpo_tabla_coma">0,85</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,55</td>
+<td>96</td>
+<td>Servicios personales (Excepto 9621, 9622, 9630 y 9699).</td>
+<td>0,85</td>
+<td>0,70</td>
+<td>1,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9621</td>
-<td class="cuerpo_tabla_izq">Peluquerías y barberías.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>9621</td>
+<td>Peluquerías y barberías.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9622</td>
-<td class="cuerpo_tabla_izq">Actividades de cuidados de belleza y otras actividades de tratamiento de belleza.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>9622</td>
+<td>Actividades de cuidados de belleza y otras actividades de tratamiento de belleza.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9630</td>
-<td class="cuerpo_tabla_izq">Pompas fúnebres y actividades relacionadas.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>9630</td>
+<td>Pompas fúnebres y actividades relacionadas.</td>
+<td>1,80</td>
+<td>1,50</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9699</td>
-<td class="cuerpo_tabla_izq">Otros servicios personales n.c.o.p.</td>
-<td class="cuerpo_tabla_coma">1,50</td>
-<td class="cuerpo_tabla_coma">1,10</td>
-<td class="cuerpo_tabla_coma">2,60</td>
+<td>9699</td>
+<td>Otros servicios personales n.c.o.p.</td>
+<td>1,50</td>
+<td>1,10</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">97</td>
-<td class="cuerpo_tabla_izq">Actividades de los hogares como empleadores de personal doméstico.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_coma">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>97</td>
+<td>Actividades de los hogares como empleadores de personal doméstico.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">99</td>
-<td class="cuerpo_tabla_izq">Actividades de organizaciones y organismos extraterritoriales.</td>
-<td class="cuerpo_tabla_coma">1,20</td>
-<td class="cuerpo_tabla_coma">1,15</td>
-<td class="cuerpo_tabla_coma">2,35</td>
+<td>99</td>
+<td>Actividades de organizaciones y organismos extraterritoriales.</td>
+<td>1,20</td>
+<td>1,15</td>
+<td>2,35</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Cuadro II</p>
+<p>Cuadro II</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2"> </th>
-<th class="cabeza_tabla" colspan="3">Tipos de cotización</th>
+<th colspan="2"> </th>
+<th colspan="3">Tipos de cotización</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipos aplicables a ocupaciones y situaciones en todas las actividades</th>
-<th class="cabeza_tabla">IT</th>
-<th class="cabeza_tabla">IMS</th>
-<th class="cabeza_tabla">Total</th>
+<th colspan="2">Tipos aplicables a ocupaciones y situaciones en todas las actividades</th>
+<th>IT</th>
+<th>IMS</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">a</td>
-<td class="cuerpo_tabla_izq">Personal en trabajos exclusivos de oficina.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
-<td class="cuerpo_tabla_der">0,70</td>
-<td class="cuerpo_tabla_coma">1,50</td>
+<td>a</td>
+<td>Personal en trabajos exclusivos de oficina.</td>
+<td>0,80</td>
+<td>0,70</td>
+<td>1,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">b</td>
-<td class="cuerpo_tabla_izq">Representantes de Comercio.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
-<td class="cuerpo_tabla_der">1,00</td>
-<td class="cuerpo_tabla_coma">2,00</td>
+<td>b</td>
+<td>Representantes de Comercio.</td>
+<td>1,00</td>
+<td>1,00</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">d</td>
-<td class="cuerpo_tabla_izq">Personal de oficios en instalaciones y reparaciones en edificios, obras y trabajos de construcción en general.</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_der">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>d</td>
+<td>Personal de oficios en instalaciones y reparaciones en edificios, obras y trabajos de construcción en general.</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">f</td>
-<td class="cuerpo_tabla_izq">Conductores de vehículo automóvil de transporte de mercancías que tenga una capacidad de carga útil superior a 3,5 Tm.</td>
-<td class="cuerpo_tabla_coma">3,35</td>
-<td class="cuerpo_tabla_der">3,35</td>
-<td class="cuerpo_tabla_coma">6,70</td>
+<td>f</td>
+<td>Conductores de vehículo automóvil de transporte de mercancías que tenga una capacidad de carga útil superior a 3,5 Tm.</td>
+<td>3,35</td>
+<td>3,35</td>
+<td>6,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">g</td>
-<td class="cuerpo_tabla_izq">Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles.</td>
-<td class="cuerpo_tabla_coma">2,10</td>
-<td class="cuerpo_tabla_der">1,50</td>
-<td class="cuerpo_tabla_coma">3,60</td>
+<td>g</td>
+<td>Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles.</td>
+<td>2,10</td>
+<td>1,50</td>
+<td>3,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">h</td>
-<td class="cuerpo_tabla_izq">Vigilantes, guardas, guardas jurados y personal de seguridad.</td>
-<td class="cuerpo_tabla_coma">1,40</td>
-<td class="cuerpo_tabla_der">2,20</td>
-<td class="cuerpo_tabla_coma">3,60</td>
+<td>h</td>
+<td>Vigilantes, guardas, guardas jurados y personal de seguridad.</td>
+<td>1,40</td>
+<td>2,20</td>
+<td>3,60</td>
 </tr>
 </tbody>
 </table>
@@ -10780,301 +9786,301 @@ Lo establecido en el párrafo precedente, se entiende sin perjuicio de lo previs
 
 Las edades de jubilación y el período de cotización a que se refiere el artículo 205.1.a), así como las referencias a la edad que se contienen en los artículos 152.1, 207.1.a) y 2, 208.1.a) y 2, 214.1.a) y 311.1 se aplicarán de forma gradual, en los términos que resultan del siguiente cuadro:
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Año</p>
+<p>Año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Períodos cotizados</p>
+<p>Períodos cotizados</p>
 </td>
 <td>
-<p class="cabeza_tabla">Edad exigida</p>
+<p>Edad exigida</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35 años y 3 meses o más.</p>
+<p>35 años y 3 meses o más.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 35 años y 3 meses.</p>
+<p>Menos de 35 años y 3 meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años y 1 mes.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35 años y 6 meses o más.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 35 años y 6 meses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años y 2 meses.</p>
+<p>65 años y 1 mes.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35 años y 9 meses o más.</p>
+<p>35 años y 6 meses o más.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 35 años y 9 meses.</p>
+<p>Menos de 35 años y 6 meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años y 3 meses.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36 o más años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 36 años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años y 4 meses.</p>
+<p>65 años y 2 meses.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36 años y 3 meses o más.</p>
+<p>35 años y 9 meses o más.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 36 años y 3 meses.</p>
+<p>Menos de 35 años y 9 meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años y 5 meses.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36 años y 6 meses o más.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 36 años y 6 meses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años y 6 meses.</p>
+<p>65 años y 3 meses.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36 años y 9 meses o más.</p>
+<p>36 o más años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 36 años y 9 meses.</p>
+<p>Menos de 36 años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años y 8 meses.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2020</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37 o más años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 37 años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años y 10 meses.</p>
+<p>65 años y 4 meses.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2021</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37 años y 3 meses o más.</p>
+<p>36 años y 3 meses o más.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 37 años y 3 meses.</p>
+<p>Menos de 36 años y 3 meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">66 años.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2022</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37 años y 6 meses o más.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 37 años y 6 meses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">66 años y 2 meses.</p>
+<p>65 años y 5 meses.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2023</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37 años y 9 meses o más.</p>
+<p>36 años y 6 meses o más.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 37 años y 9 meses.</p>
+<p>Menos de 36 años y 6 meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">66 años y 4 meses.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2024</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">38 o más años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 38 años.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">66 años y 6 meses.</p>
+<p>65 años y 6 meses.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2025</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38 años y 3 meses o más.</p>
+<p>36 años y 9 meses o más.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 38 años y 3 meses.</p>
+<p>Menos de 36 años y 9 meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">66 años y 8 meses.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">2026</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">38 años y 3 meses o más.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 años.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Menos de 38 años y 3 meses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">66 años y 10 meses.</p>
+<p>65 años y 8 meses.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">A partir del año 2027</p>
+<p>2020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38 años y 6 meses o más.</p>
+<p>37 o más años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 años.</p>
+<p>65 años.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 38 años y 6 meses.</p>
+<p>Menos de 37 años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">67 años.</p>
+<p>65 años y 10 meses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2021</p>
+</td>
+<td>
+<p>37 años y 3 meses o más.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 37 años y 3 meses.</p>
+</td>
+<td>
+<p>66 años.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2022</p>
+</td>
+<td>
+<p>37 años y 6 meses o más.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 37 años y 6 meses.</p>
+</td>
+<td>
+<p>66 años y 2 meses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2023</p>
+</td>
+<td>
+<p>37 años y 9 meses o más.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 37 años y 9 meses.</p>
+</td>
+<td>
+<p>66 años y 4 meses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2024</p>
+</td>
+<td>
+<p>38 o más años.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 38 años.</p>
+</td>
+<td>
+<p>66 años y 6 meses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2025</p>
+</td>
+<td>
+<p>38 años y 3 meses o más.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 38 años y 3 meses.</p>
+</td>
+<td>
+<p>66 años y 8 meses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2026</p>
+</td>
+<td>
+<p>38 años y 3 meses o más.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 38 años y 3 meses.</p>
+</td>
+<td>
+<p>66 años y 10 meses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>A partir del año 2027</p>
+</td>
+<td>
+<p>38 años y 6 meses o más.</p>
+</td>
+<td>
+<p>65 años.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menos de 38 años y 6 meses.</p>
+</td>
+<td>
+<p>67 años.</p>
 </td>
 </tr>
 </table>
@@ -11128,252 +10134,6 @@ Los indicados porcentajes serán también de aplicación en el supuesto previsto
 ###### Disposición transitoria décima. Normas transitorias sobre jubilación parcial.
 
 **(Suprimida)**
-
-> Téngase en cuenta que la supresión de esta disposición, efectuada por el art. 1.10 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917), entra en vigor el 1 de abril de 2025, según establece su disposición final 3.
-
-> Redacción anterior:
-
-> "**Disposición transitoria décima. Normas transitorias sobre jubilación parcial.**
-
-> 1\. La exigencia del requisito de la edad a que se refiere el artículo 215, apartados 1 y 2.f), se aplicará de forma gradual, conforme a lo previsto en la disposición transitoria séptima.
-
-> 2\. La exigencia del requisito de edad a que se refiere el artículo 215.2.a) se aplicará de forma gradual, en los términos que resultan del siguiente cuadro:
-
-> <table class="tabla_ancha">
-> <tbody>
-> <tr>
-> <td>
-> <p class="cabeza_tabla">Año del hecho causante</p>
-> </td>
-> <td colspan="2">
-> <p class="cabeza_tabla">Edad exigida según períodos cotizados en el momento del hecho causante</p>
-> </td>
-> <td>
-> <p class="cabeza_tabla">Edad exigida con 33 años cotizados en el momento del hecho causante</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2013</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 1 mes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">33 años y 3 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 2 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2014</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 2 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">33 años y 6 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 4 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2015</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 3 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">33 años y 9 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 6 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2016</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 4 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">34 años o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 8 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2017</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 5 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">34 años y 3 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 10 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2018</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 6 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">34 años y 6 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 años.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2019</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 8 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">34 años y 9 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 4 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2020</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">61 y 10 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">35 años o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 8 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2021</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 años.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">35 años y 3 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">63 años.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2022</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 2 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">35 años y 6 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">63 y 4 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2023</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 4 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">35 años y 9 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">63 y 8 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2024</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 6 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">36 años o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">64 años.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2025</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 8 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">36 años y 3 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">64 y 4 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2026</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">62 y 10 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">36 años y 3 meses o más.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">64 y 8 meses.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">2027 y siguientes</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">63 años.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">36 años y 6 meses.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro">65 años.</p>
-> </td>
-> </tr>
-> </tbody>
-> </table>
-
-> La escala de edades indicada no será de aplicación a los trabajadores a que se refiere la norma 2.ª del apartado 1 de la disposición transitoria cuarta, a quienes se exigirá haber cumplido la edad de sesenta años sin que, a estos efectos, se tengan en cuenta las bonificaciones o anticipaciones de la edad de jubilación que pudieran ser de aplicación a los interesados.
-
-> 3\. La base de cotización durante la jubilación parcial a que se refiere el artículo 215.2.g) se aplicará de forma gradual conforme a los porcentajes calculados sobre la base de cotización a jornada completa de acuerdo con la siguiente escala:
-
-> a) Durante el año 2013, la base de cotización será equivalente al 50 por ciento de la base de cotización que hubiera correspondido a jornada completa.
-
-> b) Por cada año transcurrido a partir del año 2014 se incrementará un 5 por ciento más hasta alcanzar el 100 por ciento de la base de cotización que le hubiera correspondido a jornada completa.
-
-> c) En ningún caso el porcentaje de base de cotización fijado para cada ejercicio en la escala anterior podrá resultar inferior al porcentaje de actividad laboral efectivamente realizada."
 
 > Se suprime por el art. 1.10 del Real Decreto-ley 11/2024, de 23 de diciembre. [Ref. BOE-A-2024-26917](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917)
 
@@ -11433,110 +10193,84 @@ a) Cálculo de las bases de cotización:
 
 3.º En el año 2023, las retribuciones mensuales y las bases de cotización serán las contenidas en la siguiente escala:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tramo</th>
-<th class="cabeza_tabla" colspan="4">
-<p class="cabeza_tabla">Retribución mensual</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th>Tramo</th>
+<th colspan="4">
+<p>Retribución mensual</p>
+<p>Euros/mes</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Base de cotización</p>
-<p class="cabeza_tabla">Euros/mes</p>
+<th>
+<p>Base de cotización</p>
+<p>Euros/mes</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1.°</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">269,00</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">250,00</td>
+<td>1.°</td>
+<td>Hasta</td>
+<td>269,00</td>
+<td> </td>
+<td> </td>
+<td>250,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">269,01</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">418,00</td>
-<td class="cuerpo_tabla_der">357,00</td>
+<td>2.°</td>
+<td>Desde</td>
+<td>269,01</td>
+<td>Hasta</td>
+<td>418,00</td>
+<td>357,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">418,01</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">568,00</td>
-<td class="cuerpo_tabla_der">493,00</td>
+<td>3.°</td>
+<td>Desde</td>
+<td>418,01</td>
+<td>Hasta</td>
+<td>568,00</td>
+<td>493,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">568,01</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">718,00</td>
-<td class="cuerpo_tabla_der">643,00</td>
+<td>4.°</td>
+<td>Desde</td>
+<td>568,01</td>
+<td>Hasta</td>
+<td>718,00</td>
+<td>643,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">718,01</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">869,00</td>
-<td class="cuerpo_tabla_der">794,00</td>
+<td>5.°</td>
+<td>Desde</td>
+<td>718,01</td>
+<td>Hasta</td>
+<td>869,00</td>
+<td>794,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">869,01</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">1.017,00</td>
-<td class="cuerpo_tabla_der">943,00</td>
+<td>6.°</td>
+<td>Desde</td>
+<td>869,01</td>
+<td>Hasta</td>
+<td>1.017,00</td>
+<td>943,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">1.017,01</td>
-<td class="cuerpo_tabla_izq">Hasta</td>
-<td class="cuerpo_tabla_der">1.166,669</td>
-<td class="cuerpo_tabla_der">1.166,70</td>
+<td>7.°</td>
+<td>Desde</td>
+<td>1.017,01</td>
+<td>Hasta</td>
+<td>1.166,669</td>
+<td>1.166,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.°</td>
-<td class="cuerpo_tabla_izq">Desde</td>
-<td class="cuerpo_tabla_der">1.166,67</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
-<td class="cuerpo_tabla_der">Retribución mensual</td>
+<td>8.°</td>
+<td>Desde</td>
+<td>1.166,67</td>
+<td> </td>
+<td> </td>
+<td>Retribución mensual</td>
 </tr>
 </tbody>
 </table>
@@ -12093,8 +10827,6 @@ Estas cotizaciones no surtirán efecto en relación con el complemento previsto 
 
 Las referencias efectuadas en esta ley a la inspección médica del Instituto Nacional de la Seguridad Social se entenderán realizadas al órgano que realice las mismas funciones en la comunidad autónoma donde el Instituto Nacional de la Seguridad Social aun no disponga de inspección médica, hasta tanto no se constituya y entre en funcionamiento la misma.
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.37 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 17 de mayo de 2023, según establece su disposición final 10.
-
 > Se añade por el art. único.37 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
 > Esta modificación entra en vigor el 17 de mayo de 2023, según establece la disposición final 10 del citado Real Decreto-ley. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967). Véase la disposición transitoria 4 en cuanto a la vigencia transitoria de la normativa anterior.
@@ -12176,8 +10908,6 @@ Para el cálculo de la pensión de jubilación de los hombres a los que sea de a
 
 La integración a que se refiere esta disposición transitoria se aplicará sin perjuicio de lo previsto en el citado artículo 209.1.b).
 
-> Téngase en cuenta que esta disposición, añadida por el art. único.41 del Real Decreto-ley 2/2023, de 16 de marzo, [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967), entra en vigor el 1 de enero de 2026, según establece su disposición final 10.
-
 > Se añade por el art. único.41 del Real Decreto-ley 2/2023, de 16 de marzo. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 10 del citado Real Decreto-ley. [Ref. BOE-A-2023-6967](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967)
@@ -12186,154 +10916,148 @@ La integración a que se refiere esta disposición transitoria se aplicará sin 
 
 La cuota adicional de solidaridad a la que se refiere el artículo 19 bis será el resultado de aplicar a cada tramo de retribución que supere la base máxima de cotización los siguientes porcentajes expresados en tanto por ciento, durante cada año desde el año 2025 hasta el año 2045:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Año</th>
-<th class="cabeza_tabla">Retribuciones desde base máxima hasta 10 % adicional de la base máxima</th>
-<th class="cabeza_tabla">Retribuciones desde el 10 % adicional de la base máxima hasta 50 % adicional de la base máxima</th>
-<th class="cabeza_tabla">Retribuciones superiores al 50 % adicional de la base máxima</th>
+<th rowspan="2">Año</th>
+<th>Retribuciones desde base máxima hasta 10 % adicional de la base máxima</th>
+<th>Retribuciones desde el 10 % adicional de la base máxima hasta 50 % adicional de la base máxima</th>
+<th>Retribuciones superiores al 50 % adicional de la base máxima</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tipo cotización %</p>
+<th>
+<p>Tipo cotización %</p>
 </th>
-<th class="cabeza_tabla">Tipo cotización %</th>
-<th class="cabeza_tabla">Tipo cotización %</th>
+<th>Tipo cotización %</th>
+<th>Tipo cotización %</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2025</td>
-<td class="cuerpo_tabla_centro">0,92</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1,17</td>
+<td>2025</td>
+<td>0,92</td>
+<td>1</td>
+<td>1,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2026</td>
-<td class="cuerpo_tabla_centro">1,15</td>
-<td class="cuerpo_tabla_centro">1,25</td>
-<td class="cuerpo_tabla_centro">1,46</td>
+<td>2026</td>
+<td>1,15</td>
+<td>1,25</td>
+<td>1,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">1,38</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">1,75</td>
+<td>2027</td>
+<td>1,38</td>
+<td>1,5</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">1,60</td>
-<td class="cuerpo_tabla_centro">1,75</td>
-<td class="cuerpo_tabla_centro">2,04</td>
+<td>2028</td>
+<td>1,60</td>
+<td>1,75</td>
+<td>2,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">1,83</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2,33</td>
+<td>2029</td>
+<td>1,83</td>
+<td>2</td>
+<td>2,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">2,06</td>
-<td class="cuerpo_tabla_centro">2,25</td>
-<td class="cuerpo_tabla_centro">2,63</td>
+<td>2030</td>
+<td>2,06</td>
+<td>2,25</td>
+<td>2,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">2,29</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">2,92</td>
+<td>2031</td>
+<td>2,29</td>
+<td>2,5</td>
+<td>2,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">2,52</td>
-<td class="cuerpo_tabla_centro">2,75</td>
-<td class="cuerpo_tabla_centro">3,21</td>
+<td>2032</td>
+<td>2,52</td>
+<td>2,75</td>
+<td>3,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2033</td>
-<td class="cuerpo_tabla_centro">2,75</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3,50</td>
+<td>2033</td>
+<td>2,75</td>
+<td>3</td>
+<td>3,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2034</td>
-<td class="cuerpo_tabla_centro">2,98</td>
-<td class="cuerpo_tabla_centro">3,25</td>
-<td class="cuerpo_tabla_centro">3,79</td>
+<td>2034</td>
+<td>2,98</td>
+<td>3,25</td>
+<td>3,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2035</td>
-<td class="cuerpo_tabla_centro">3,21</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">4,08</td>
+<td>2035</td>
+<td>3,21</td>
+<td>3,5</td>
+<td>4,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2036</td>
-<td class="cuerpo_tabla_centro">3,44</td>
-<td class="cuerpo_tabla_centro">3,75</td>
-<td class="cuerpo_tabla_centro">4,38</td>
+<td>2036</td>
+<td>3,44</td>
+<td>3,75</td>
+<td>4,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2037</td>
-<td class="cuerpo_tabla_centro">3,67</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4,67</td>
+<td>2037</td>
+<td>3,67</td>
+<td>4</td>
+<td>4,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2038</td>
-<td class="cuerpo_tabla_centro">3,90</td>
-<td class="cuerpo_tabla_centro">4,25</td>
-<td class="cuerpo_tabla_centro">4,96</td>
+<td>2038</td>
+<td>3,90</td>
+<td>4,25</td>
+<td>4,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2039</td>
-<td class="cuerpo_tabla_centro">4,13</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">5,25</td>
+<td>2039</td>
+<td>4,13</td>
+<td>4,5</td>
+<td>5,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2040</td>
-<td class="cuerpo_tabla_centro">4,35</td>
-<td class="cuerpo_tabla_centro">4,75</td>
-<td class="cuerpo_tabla_centro">5,54</td>
+<td>2040</td>
+<td>4,35</td>
+<td>4,75</td>
+<td>5,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2041</td>
-<td class="cuerpo_tabla_centro">4,58</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5,83</td>
+<td>2041</td>
+<td>4,58</td>
+<td>5</td>
+<td>5,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2042</td>
-<td class="cuerpo_tabla_centro">4,81</td>
-<td class="cuerpo_tabla_centro">5,25</td>
-<td class="cuerpo_tabla_centro">6,13</td>
+<td>2042</td>
+<td>4,81</td>
+<td>5,25</td>
+<td>6,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2043</td>
-<td class="cuerpo_tabla_centro">5,04</td>
-<td class="cuerpo_tabla_centro">5,5</td>
-<td class="cuerpo_tabla_centro">6,42</td>
+<td>2043</td>
+<td>5,04</td>
+<td>5,5</td>
+<td>6,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2044</td>
-<td class="cuerpo_tabla_centro">5,27</td>
-<td class="cuerpo_tabla_centro">5,75</td>
-<td class="cuerpo_tabla_centro">6,71</td>
+<td>2044</td>
+<td>5,27</td>
+<td>5,75</td>
+<td>6,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2045</td>
-<td class="cuerpo_tabla_centro">5,50</td>
-<td class="cuerpo_tabla_centro">6,00</td>
-<td class="cuerpo_tabla_centro">7,00</td>
+<td>2045</td>
+<td>5,50</td>
+<td>6,00</td>
+<td>7,00</td>
 </tr>
 </tbody>
 </table>
@@ -12375,8 +11099,6 @@ Lo dispuesto en el artículo 60 1.b).3.ª, en cuanto determina que para el cálc
 El régimen de compatibilidad como complemento de apoyo al empleo de los subsidios para emigrantes retornados y para víctimas de violencia de género o sexual, regulados en las disposiciones adicionales quincuagésima séptima y quincuagésima octava, con el trabajo por cuenta ajena será de aplicación a partir de 1 de junio de 2025.
 
 En el periodo desde el 1 de noviembre de 2024 hasta el 31 de mayo de 2025 ambos subsidios serán incompatibles con el trabajo por cuenta ajena, excepto cuando este se realice a tiempo parcial y se haya reconocido la compatibilidad por cumplir su beneficiario todos los requisitos exigidos para ello, en cuyo caso se deducirá de su importe la parte proporcional al tiempo trabajado. Esta deducción se efectuará además de cuando se acceda al subsidio manteniendo un contrato a tiempo parcial, cuando se esté percibiendo el subsidio y se obtenga un trabajo a tiempo parcial. En este último caso, si la compatibilidad se solicita dentro de los quince días hábiles siguientes a la fecha de inicio de la relación laboral, se aplicará desde dicha fecha, y si se solicita una vez transcurrido dicho plazo, se aplicará desde la fecha de la solicitud.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 2.24 del Real Decreto-ley 2/2024, de 21 de mayo, [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 2.24 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -12449,12 +11171,6 @@ El Gobierno podrá otorgar desgravaciones, o deducciones de cotizaciones sociale
 ###### Disposición final sexta. Trabajadores autónomos dedicados a la venta ambulante o a domicilio.
 
 **(Derogada)**
-
-> Téngase en cuenta que la derogación de esta disposición, establecida por la disposición derogatoria única.c) del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Respecto a los trabajadores por cuenta propia dedicados a la venta ambulante o a domicilio, se establecerá una base mínima de cotización al Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos inferior a la fijada anualmente con carácter general para este régimen especial, en los términos y condiciones que determine la Ley de Presupuestos Generales del Estado para cada ejercicio."
 
 > Se deroga, con efectos de 1 de enero de 2023, por la disposición derogatoria única.c) del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
 

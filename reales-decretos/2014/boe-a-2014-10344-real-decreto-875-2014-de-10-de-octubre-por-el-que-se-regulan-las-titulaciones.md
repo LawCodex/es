@@ -252,16 +252,6 @@ En estos casos, no se permitirá que las embarcaciones o artefactos se alejen m�
 
 4\. No será necesario cumplir con los requisitos de edad ni de titulación regulados en este título para la preparación y participación en competiciones marítimo-deportivas oficiales.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 4.1 del Real Decreto 1188/2025, de 26 de diciembre, entra en vigor el 1 de octubre de 2026, según establece su disposición final 2.2. [Ref. BOE-A-2025-27010](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27010)
-
-> Redacción anterior:
-
-> "1. Para el gobierno de embarcaciones a motor con una potencia máxima de 11,26 kilovatios y hasta 5 metros de eslora, las de vela hasta 6 metros de eslora y los artefactos flotantes o de playa, a excepción de las motos náuticas, no será preciso estar en posesión de las titulaciones reguladas en este real decreto, siempre que no se alejen más de 2 millas náuticas de un puerto, marina o lugar de abrigo y la actividad se realice en régimen de navegación diurna.
-
-> A los efectos de lo dispuesto en este apartado, los interesados deberán haber cumplido 18 años de edad sin que le sea de aplicación lo dispuesto en el apartado 2 del artículo 13 de este real decreto.
-
-> 2\. No será necesario cumplir con los requisitos de edad ni de titulación regulados en este real decreto a efectos de la preparación y participación en competiciones marítimo-deportivas oficiales."
-
 > Se modifica por el art. 4.1 del Real Decreto 1188/2025, de 26 de diciembre. [Ref. BOE-A-2025-27010](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27010)
 
 > Esta modificación entra en vigor el día 1 de octubre de 2026, según establece la disposición final 2.2 del citado Real Decreto.
@@ -1105,38 +1095,33 @@ Unidad Teórica 4. Legislación.
 
 Unidad Teórica 5. Balizamiento.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_28">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">UT5</p>
+<p>UT5</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Normativa IALA</p>
+<p>Normativa IALA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marcas laterales región A, marcas cardinales, marcas de peligro aislado, marcas de aguas navegables y marcas especiales.</p>
+<p>Marcas laterales región A, marcas cardinales, marcas de peligro aislado, marcas de aguas navegables y marcas especiales.</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">En cada Resolución de Convocatorias se especificará la normativa IALA en la que se basarán los exámenes.</p>
+<p>En cada Resolución de Convocatorias se especificará la normativa IALA en la que se basarán los exámenes.</p>
 </td>
 </tr>
 </tbody>
@@ -1144,86 +1129,81 @@ Unidad Teórica 5. Balizamiento.
 
 Unidad Teórica 6. Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA).
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_28">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">UT6</p>
+<p>UT6</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6.1</p>
+<p>6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Generalidades.</p>
+<p>Generalidades.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reglas 1 a 3.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglas de rumbo y gobierno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglas 4 a 19.</p>
+<p>Reglas 1 a 3.</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6.3</p>
+<p>6.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Luces y Marcas.</p>
+<p>Reglas de rumbo y gobierno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reglas 20, 21 y 23 a 31.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">6.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Señales acústicas y luminosas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglas 32 a 37.</p>
+<p>Reglas 4 a 19.</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6.5</p>
+<p>6.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Señales de peligro.</p>
+<p>Luces y Marcas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anexo IV.</p>
+<p>Reglas 20, 21 y 23 a 31.</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
+<td>
+<p>6.4</p>
+</td>
+<td>
+<p>Señales acústicas y luminosas.</p>
+</td>
+<td>
+<p>Reglas 32 a 37.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.5</p>
+</td>
+<td>
+<p>Señales de peligro.</p>
+</td>
+<td>
+<p>Anexo IV.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Queda expresamente excluido:</p>
+<p>Queda expresamente excluido:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regla 22 y Anexos I, II y III.</p>
-<p class="cuerpo_tabla_izq">Cualquier interpretación que no se ajuste a lo escrito textualmente en el Reglamento.</p>
+<p>Regla 22 y Anexos I, II y III.</p>
+<p>Cualquier interpretación que no se ajuste a lo escrito textualmente en el Reglamento.</p>
 </td>
 </tr>
 </tbody>
@@ -1241,148 +1221,141 @@ b) De Reglamento, máximo 5 errores permitidos.
 
 La distribución de las preguntas de acuerdo a las materias de examen se hará según el siguiente cuadro.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_39">
-<col class="row_column_40">
-<col class="row_column_41">
-<col class="row_column_42">
-<col class="row_column_41">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_43">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">UT</p>
+<p>UT</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de preguntas de examen</p>
+<p>Número de preguntas de examen</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número máximo de errores permitidos</p>
+<p>Número máximo de errores permitidos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número mínimo de respuestas correctas</p>
+<p>Número mínimo de respuestas correctas</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nomenclatura Náutica</p>
+<p>Nomenclatura Náutica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">­–</p>
+<p>­–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Elementos de amarre y fondeo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad</p>
+<p>Elementos de amarre y fondeo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Legislación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Balizamiento</p>
+<p>Seguridad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglamento (RIPA)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Legislación</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Balizamiento</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Reglamento (RIPA)</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Total examen</p>
+<p>Total examen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>17</p>
 </td>
 </tr>
 </tbody>
@@ -1441,38 +1414,33 @@ Unidad Teórica 4. Legislación.
 
 Unidad Teórica 5. Balizamiento.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_44">
-<col class="row_column_28">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">UT5</p>
+<p>UT5</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Normativa IALA</p>
+<p>Normativa IALA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marcas laterales región A, marcas cardinales, marcas de peligro aislado, marcas de aguas navegables y marcas especiales.</p>
+<p>Marcas laterales región A, marcas cardinales, marcas de peligro aislado, marcas de aguas navegables y marcas especiales.</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">En cada Resolución de Convocatorias se especificará la normativa IALA en la que se basarán los exámenes.</p>
+<p>En cada Resolución de Convocatorias se especificará la normativa IALA en la que se basarán los exámenes.</p>
 </td>
 </tr>
 </tbody>
@@ -1480,86 +1448,81 @@ Unidad Teórica 5. Balizamiento.
 
 Unidad Teórica 6. Reglamento Internacional para Prevenir Abordajes en la Mar (RIPA).
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_28">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">UT6</p>
+<p>UT6</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6.1</p>
+<p>6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Generalidades.</p>
+<p>Generalidades.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reglas 1 a 3.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglas de rumbo y gobierno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglas 4 a 19.</p>
+<p>Reglas 1 a 3.</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6.3</p>
+<p>6.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Luces y Marcas.</p>
+<p>Reglas de rumbo y gobierno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reglas 20, 21 y 23 a 31.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">6.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Señales acústicas y luminosas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglas 32 a 37.</p>
+<p>Reglas 4 a 19.</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">6.5</p>
+<p>6.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Señales de peligro.</p>
+<p>Luces y Marcas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anexo IV.</p>
+<p>Reglas 20, 21 y 23 a 31.</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
+<td>
+<p>6.4</p>
+</td>
+<td>
+<p>Señales acústicas y luminosas.</p>
+</td>
+<td>
+<p>Reglas 32 a 37.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.5</p>
+</td>
+<td>
+<p>Señales de peligro.</p>
+</td>
+<td>
+<p>Anexo IV.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Queda expresamente excluido:</p>
+<p>Queda expresamente excluido:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Regla 22 y Anexos I, II y III.</p>
-<p class="cuerpo_tabla_izq">Cualquier interpretación que no se ajuste a lo escrito textualmente en el Reglamento.</p>
+<p>Regla 22 y Anexos I, II y III.</p>
+<p>Cualquier interpretación que no se ajuste a lo escrito textualmente en el Reglamento.</p>
 </td>
 </tr>
 </tbody>
@@ -1586,115 +1549,110 @@ Unidad Teórica 8. Emergencias en la mar.
 
 Unidad Teórica 9. Meteorología.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_48">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">UT9</p>
+<p>UT9</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9.1</p>
+<p>9.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Importancia del tiempo meteorológico en la seguridad de la navegación.</p>
+<p>Importancia del tiempo meteorológico en la seguridad de la navegación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Formas de obtener la previsión meteorológica.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">9.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Presión atmosférica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Definición, unidades de medida y valor normal.</p>
-<p class="cuerpo_tabla_izq">– Medida de la presión atmosférica con el barómetro aneroide.</p>
-<p class="cuerpo_tabla_izq">– Definición de líneas isobaras.</p>
+<p>– Formas de obtener la previsión meteorológica.</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9.3</p>
+<p>9.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Temperatura.</p>
+<p>Presión atmosférica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definición y unidades de medida (escala centígrada).</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">9.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Borrascas y Anticiclones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Definición.</p>
-<p class="cuerpo_tabla_izq">– Circulación general del viento en el hemisferio norte en estas formaciones.</p>
-<p class="cuerpo_tabla_izq">– Trayectoria de las borrascas.</p>
+<p>– Definición, unidades de medida y valor normal.</p>
+<p>– Medida de la presión atmosférica con el barómetro aneroide.</p>
+<p>– Definición de líneas isobaras.</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9.5</p>
+<p>9.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viento.</p>
+<p>Temperatura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definiciones de: Rolar, caer, refrescar, racha y calmar.</p>
-<p class="cuerpo_tabla_izq">– Anemómetro, veletas y catavientos.</p>
-<p class="cuerpo_tabla_izq">– Viento real, relativo y aparente: definiciones, sin cálculos.</p>
-<p class="cuerpo_tabla_izq">– Utilidad de la escala de Beaufort y necesidad de llevarla a bordo.</p>
+<p>– Definición y unidades de medida (escala centígrada).</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9.6</p>
+<p>9.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Brisas costeras.</p>
+<p>Borrascas y Anticiclones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Terral y virazón.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">9.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Conceptos de: Intensidad, persistencia y fecht.</p>
-<p class="cuerpo_tabla_izq">– Utilidad de la escala de Douglas y necesidad de llevarla a bordo.</p>
+<p>– Definición.</p>
+<p>– Circulación general del viento en el hemisferio norte en estas formaciones.</p>
+<p>– Trayectoria de las borrascas.</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
+<td>
+<p>9.5</p>
+</td>
+<td>
+<p>Viento.</p>
+</td>
+<td>
+<p>– Definiciones de: Rolar, caer, refrescar, racha y calmar.</p>
+<p>– Anemómetro, veletas y catavientos.</p>
+<p>– Viento real, relativo y aparente: definiciones, sin cálculos.</p>
+<p>– Utilidad de la escala de Beaufort y necesidad de llevarla a bordo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6</p>
+</td>
+<td>
+<p>Brisas costeras.</p>
+</td>
+<td>
+<p>– Terral y virazón.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.7</p>
+</td>
+<td>
+<p>Mar.</p>
+</td>
+<td>
+<p>– Conceptos de: Intensidad, persistencia y fecht.</p>
+<p>– Utilidad de la escala de Douglas y necesidad de llevarla a bordo.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Queda expresamente excluido:</p>
+<p>Queda expresamente excluido:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Memorizar las escalas de Beaufort y de Douglas.</p>
+<p>Memorizar las escalas de Beaufort y de Douglas.</p>
 </td>
 </tr>
 </tbody>
@@ -1702,198 +1660,193 @@ Unidad Teórica 9. Meteorología.
 
 Unidad Teórica 10. Teoría de navegación.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_48">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">UT10</p>
+<p>UT10</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td> </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.1</p>
+<p>10.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esfera Terrestre.</p>
+<p>Esfera Terrestre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definiciones de: Eje, polos, Ecuador, meridianos y paralelos, meridiano cero, meridiano del lugar, latitud y longitud.</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_centro">10.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cartas mercatorianas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Cartas de navegación costera, recalada, portulanos y cartuchos.</p>
-<p class="cuerpo_tabla_izq">– Información que proporcionan las cartas: Accidentes de la costa, accidentes del terreno, puntos de referencia, luces, marcas, balizas, peligros, zonas prohibidas.</p>
-<p class="cuerpo_tabla_izq">– Signos y abreviaturas más importantes utilizadas en las cartas náuticas: Faros, sondas, naturaleza del fondo, veriles, declinación magnética.</p>
+<p>– Definiciones de: Eje, polos, Ecuador, meridianos y paralelos, meridiano cero, meridiano del lugar, latitud y longitud.</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.3</p>
+<p>10.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Publicaciones náuticas.</p>
+<p>Cartas mercatorianas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Somera descripción de los derroteros, guías náuticas para la navegación de recreo y libros de faros.</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_centro">10.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Unidad de distancia.</p>
-<p class="cuerpo_tabla_izq">Unidad de velocidad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Milla náutica: Definición y su equivalencia en metros.</p>
-<p class="cuerpo_tabla_izq">– Escalas de latitudes y longitudes en las cartas mercatorianas.</p>
-<p class="cuerpo_tabla_izq">– Forma de medir las distancias en la carta.</p>
-<p class="cuerpo_tabla_izq">– Nudo: Definición.</p>
-<p class="cuerpo_tabla_izq">– Corredera, qué es y para qué sirve.</p>
-<p class="cuerpo_tabla_izq">– Coeficiente de corredera: Su aplicación.</p>
-<p class="cuerpo_tabla_izq">– Sonda, qué es y para qué sirve.</p>
-<p class="cuerpo_tabla_izq">– Concepto de Hora Reloj Bitácora.</p>
+<p>– Cartas de navegación costera, recalada, portulanos y cartuchos.</p>
+<p>– Información que proporcionan las cartas: Accidentes de la costa, accidentes del terreno, puntos de referencia, luces, marcas, balizas, peligros, zonas prohibidas.</p>
+<p>– Signos y abreviaturas más importantes utilizadas en las cartas náuticas: Faros, sondas, naturaleza del fondo, veriles, declinación magnética.</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.5</p>
+<p>10.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Declinación magnética.</p>
+<p>Publicaciones náuticas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definición.</p>
-<p class="cuerpo_tabla_izq">– Forma de actualizarla.</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">10.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aguja náutica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Descripción sucinta de la aguja náutica. Instalación, perturbaciones.</p>
-<p class="cuerpo_tabla_izq">– Definición del desvío de la aguja.</p>
-<p class="cuerpo_tabla_izq">– Concepto de la tablilla de desvíos.</p>
+<p>– Somera descripción de los derroteros, guías náuticas para la navegación de recreo y libros de faros.</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.7</p>
+<p>10.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corrección total.</p>
+<p>Unidad de distancia.</p>
+<p>Unidad de velocidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definición.</p>
-<p class="cuerpo_tabla_izq">– Cálculo a partir de la declinación y el desvío.</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">10.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Rumbos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Definición de rumbo verdadero, magnético y de aguja.</p>
-<p class="cuerpo_tabla_izq">– Relación entre ellos.</p>
-<p class="cuerpo_tabla_izq">– Forma de medir los rumbos: circular y cuadrantal.</p>
-<p class="cuerpo_tabla_izq">– Convertir un valor cuadrantal a circular (y no al revés).</p>
+<p>– Milla náutica: Definición y su equivalencia en metros.</p>
+<p>– Escalas de latitudes y longitudes en las cartas mercatorianas.</p>
+<p>– Forma de medir las distancias en la carta.</p>
+<p>– Nudo: Definición.</p>
+<p>– Corredera, qué es y para qué sirve.</p>
+<p>– Coeficiente de corredera: Su aplicación.</p>
+<p>– Sonda, qué es y para qué sirve.</p>
+<p>– Concepto de Hora Reloj Bitácora.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.9</p>
+<p>10.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Líneas de posición.</p>
+<p>Declinación magnética.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definición de: Enfilaciones, oposiciones, demoras, distancias y veriles.</p>
-<p class="cuerpo_tabla_izq">– Obtención de líneas de posición con la aguja y conversión de éstas en verdaderas para su trazado en la carta.</p>
-<p class="cuerpo_tabla_izq">– Empleo de las enfilaciones, demoras y sondas como líneas de posición de seguridad.</p>
-<p class="cuerpo_tabla_izq">– Condiciones que han de darse para que las líneas de posición sean fiables.</p>
+<p>– Definición.</p>
+<p>– Forma de actualizarla.</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.10</p>
+<p>10.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Marcación.</p>
+<p>Aguja náutica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Definición.</p>
-<p class="cuerpo_tabla_izq">– Forma de medirla: Circular y semicircular.</p>
-<p class="cuerpo_tabla_izq">– Relación entre rumbo, demora y marcación.</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">10.11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ayudas a la navegación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Marcas. Luces y señales marítimas: Faros y balizas.</p>
+<p>– Descripción sucinta de la aguja náutica. Instalación, perturbaciones.</p>
+<p>– Definición del desvío de la aguja.</p>
+<p>– Concepto de la tablilla de desvíos.</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10.12</p>
+<p>10.7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mareas.</p>
+<p>Corrección total.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Concepto y utilidad de su conocimiento.</p>
-<p class="cuerpo_tabla_izq">– Referencia de las sondas, definiciones de: Cero hidrográfico, sonda en el LAT, amplitud de la marea, duración de la marea.</p>
-<p class="cuerpo_tabla_izq">– Influencia de fenómenos meteorológicos: Viento y presión atmosférica.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">10.13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Viento y corriente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Influencia del viento y la corriente en la navegación. Conceptos de abatimiento y deriva; su efecto sobre la embarcación dependiendo de la obra viva y muerta de ésta.</p>
+<p>– Definición.</p>
+<p>– Cálculo a partir de la declinación y el desvío.</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
+<td>
+<p>10.8</p>
+</td>
+<td>
+<p>Rumbos.</p>
+</td>
+<td>
+<p>– Definición de rumbo verdadero, magnético y de aguja.</p>
+<p>– Relación entre ellos.</p>
+<p>– Forma de medir los rumbos: circular y cuadrantal.</p>
+<p>– Convertir un valor cuadrantal a circular (y no al revés).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.9</p>
+</td>
+<td>
+<p>Líneas de posición.</p>
+</td>
+<td>
+<p>– Definición de: Enfilaciones, oposiciones, demoras, distancias y veriles.</p>
+<p>– Obtención de líneas de posición con la aguja y conversión de éstas en verdaderas para su trazado en la carta.</p>
+<p>– Empleo de las enfilaciones, demoras y sondas como líneas de posición de seguridad.</p>
+<p>– Condiciones que han de darse para que las líneas de posición sean fiables.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.10</p>
+</td>
+<td>
+<p>Marcación.</p>
+</td>
+<td>
+<p>– Definición.</p>
+<p>– Forma de medirla: Circular y semicircular.</p>
+<p>– Relación entre rumbo, demora y marcación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.11</p>
+</td>
+<td>
+<p>Ayudas a la navegación.</p>
+</td>
+<td>
+<p>– Marcas. Luces y señales marítimas: Faros y balizas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.12</p>
+</td>
+<td>
+<p>Mareas.</p>
+</td>
+<td>
+<p>– Concepto y utilidad de su conocimiento.</p>
+<p>– Referencia de las sondas, definiciones de: Cero hidrográfico, sonda en el LAT, amplitud de la marea, duración de la marea.</p>
+<p>– Influencia de fenómenos meteorológicos: Viento y presión atmosférica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.13</p>
+</td>
+<td>
+<p>Viento y corriente.</p>
+</td>
+<td>
+<p>Influencia del viento y la corriente en la navegación. Conceptos de abatimiento y deriva; su efecto sobre la embarcación dependiendo de la obra viva y muerta de ésta.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Queda expresamente excluido:</p>
+<p>Queda expresamente excluido:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Memorizar las escalas de las cartas.</p>
-<p class="cuerpo_tabla_izq">Tipos de correderas y su funcionamiento.</p>
+<p>Memorizar las escalas de las cartas.</p>
+<p>Tipos de correderas y su funcionamiento.</p>
 </td>
 </tr>
 </tbody>
@@ -1925,324 +1878,315 @@ Examen teórico
 
 3\. La distribución de las preguntas de acuerdo a las materias de examen se hará según el siguiente cuadro.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_51">
-<col class="row_column_52">
-<col class="row_column_53">
-<col class="row_column_53">
-<col class="row_column_53">
-<col class="row_column_53">
-<col class="row_column_53">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_54">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">UT</p>
+<p>UT</p>
 </td>
 <td>
-<p class="cabeza_tabla">Identificación</p>
+<p>Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de preguntas</p>
-<p class="cabeza_tabla">de examen</p>
-<p class="cabeza_tabla">(totalidad de la prueba)</p>
+<p>Número de preguntas</p>
+<p>de examen</p>
+<p>(totalidad de la prueba)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número máximo de errores</p>
-<p class="cabeza_tabla">permitidos</p>
-<p class="cabeza_tabla">(totalidad de la prueba)</p>
+<p>Número máximo de errores</p>
+<p>permitidos</p>
+<p>(totalidad de la prueba)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número mínimo de</p>
-<p class="cabeza_tabla">respuestas correctas</p>
-<p class="cabeza_tabla">(totalidad de la prueba)</p>
+<p>Número mínimo de</p>
+<p>respuestas correctas</p>
+<p>(totalidad de la prueba)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número máximo de errores permitidos</p>
-<p class="cabeza_tabla">(Prueba complementaria</p>
-<p class="cabeza_tabla">PNB)</p>
+<p>Número máximo de errores permitidos</p>
+<p>(Prueba complementaria</p>
+<p>PNB)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número mínimo de respuestas</p>
-<p class="cabeza_tabla">correctas (Prueba</p>
-<p class="cabeza_tabla">complementaria</p>
-<p class="cabeza_tabla">PNB)</p>
+<p>Número mínimo de respuestas</p>
+<p>correctas (Prueba</p>
+<p>complementaria</p>
+<p>PNB)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nomenclatura Náutica.</p>
+<p>Nomenclatura Náutica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Elementos de amarre y fondeo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad</p>
+<p>Elementos de amarre y fondeo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Legislación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Balizamiento</p>
+<p>Seguridad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reglamento (Ripa)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Maniobra</p>
+<p>Legislación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Emergencias en la mar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Meteorología.</p>
+<p>Balizamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_35">
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Teoría de navegación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carta de navegación.</p>
+<p>Reglamento (Ripa)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Maniobra</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Emergencias en la mar.</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Meteorología.</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Teoría de navegación.</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>Carta de navegación.</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Total examen</p>
+<p>Total examen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 </tr>
 </tbody>
@@ -2326,122 +2270,114 @@ b) Por módulos temáticos. Se podrá lograr el aprobado por módulos, siempre y
 
 2\. La distribución de las preguntas de acuerdo a las materias de examen se hará según el siguiente cuadro.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_51">
-<col class="row_column_58">
-<col class="row_column_59">
-<col class="row_column_60">
-<col class="row_column_61">
-<col class="row_column_62">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Materia</p>
+<p>Materia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Módulos Temáticos</p>
+<p>Módulos Temáticos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de preguntas de examen</p>
+<p>Número de preguntas de examen</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número máximo de errores permitidos</p>
+<p>Número máximo de errores permitidos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número mínimo de respuestas correctas</p>
+<p>Número mínimo de respuestas correctas</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad en la mar.</p>
+<p>Seguridad en la mar.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Módulo genérico (45 minutos).</p>
+<p>Módulo genérico (45 minutos).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
+<p>5 (solo en caso de corrección por módulos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Meteorología.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
+<p>5 (solo en caso de corrección por módulos)</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Teoría navegación.</p>
+<p>Meteorología.</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>5 (solo en caso de corrección por módulos)</p>
+</td>
+<td>
+<p>5 (solo en caso de corrección por módulos)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Teoría navegación.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Módulo de navegación (1 hora y 15 minutos).</p>
+<p>Módulo de navegación (1 hora y 15 minutos).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 </tr>
-<tr class="row_column_35">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navegación carta.</p>
+<p>Navegación carta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Total examen</p>
+<p>Total examen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>28</p>
 </td>
 </tr>
 </tbody>
@@ -2512,122 +2448,114 @@ b) Por módulos temáticos. Se podrá lograr el aprobado por módulos, siempre y
 
 2\. La distribución de las preguntas de acuerdo a las materias de examen se hará según el siguiente cuadro.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_51">
-<col class="row_column_64">
-<col class="row_column_65">
-<col class="row_column_60">
-<col class="row_column_61">
-<col class="row_column_62">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_6">
+<tr>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Materia</p>
+<p>Materia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Módulos Temáticos</p>
+<p>Módulos Temáticos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de preguntas de examen</p>
+<p>Número de preguntas de examen</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número máximo de errores permitidos</p>
+<p>Número máximo de errores permitidos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número mínimo de respuestas correctas</p>
+<p>Número mínimo de respuestas correctas</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Teoría de Navegación.</p>
+<p>Teoría de Navegación.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Módulo de navegación (1 hora y 30 minutos).</p>
+<p>Módulo de navegación (1 hora y 30 minutos).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-</tr>
-<tr class="row_column_17">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cálculo de Navegación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>5</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Meteorología.</p>
+<p>Cálculo de Navegación.</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Meteorología.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Módulo genérico (1 hora).</p>
+<p>Módulo genérico (1 hora).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
+<p>5 (solo en caso de corrección por módulos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
+<p>5 (solo en caso de corrección por módulos)</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inglés.</p>
+<p>Inglés.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
+<p>5 (solo en caso de corrección por módulos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5 (solo en caso de corrección por módulos)</p>
+<p>5 (solo en caso de corrección por módulos)</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Total examen</p>
+<p>Total examen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>28</p>
 </td>
 </tr>
 </tbody>
@@ -4157,120 +4085,6 @@ El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el anc
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2021/121/8450_9429944_13.png)
 
-> Téngase en cuenta que esta última actualización del anexo VII, establecida por Resolución de 12 de mayo de 2021. [Ref. BOE-A-2021-8450](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8450), surte efectos a partir del 1 de septiembre de 2021.
-
-> Redacción anterior:
-
-> ANEXO VII
-
-> Modelos de las tarjetas y licencias de navegación
-
-> Modelo de tarjeta de capitán de yate
-
-> Las tarjetas de capitán de yate se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210 × 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. La tarjeta, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en las dos páginas siguientes, figura el anverso y reverso de la tarjeta de capitán de yate respectivamente. Se han incluido las atribuciones básicas del título así como aquellas complementarias, debiendo figurar obligatoriamente las primeras en la tarjeta y las segundas solo caso de ser obtenidas por el titular de la misma.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la tarjeta, al tamaño del UNE A5.
-
-> En el supuesto de aquellas personas que realicen el curso de Radio-Operador de largo alcance en lugar del de corto alcance. En el párrafo siguiente al nombre del título correspondiente, figurará la siguiente información: Radio-Operador de largo alcance de acuerdo a los requisitos de la Resolución de la UIT 343 (REV. CMR-12). Long Range Radio-Operator in accordance with the provisions of ITU Resolution 343 (REV. CMR-12).
-
-> En el cuadro de observaciones se podrán anotar aquellas incidencias u observaciones que la Administración competente quiera reflejar, como podrían ser limitaciones impuestas a la navegación por el informe psicofísico correspondiente.
-
-> ![5761.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_5761.png)
-
-> ![5799.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_5799.png)
-
-> Modelo de tarjeta de patrón de yate
-
-> Las tarjetas de patrón de yate se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210 × 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. La tarjeta, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en las dos páginas siguientes, figura el anverso y reverso de la tarjeta de patrón de yate respectivamente. Se han incluido las atribuciones básicas del título así como aquellas complementarias, debiendo figurar obligatoriamente las primeras en la tarjeta y las segundas solo caso de ser obtenidas por el titular de la misma.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la tarjeta, al tamaño del UNE A5.
-
-> En el supuesto de aquellas personas que realicen el curso de Radio-Operador de largo alcance en lugar del de corto alcance. En el párrafo siguiente al nombre del título correspondiente, figurará la siguiente información: Radio-Operador de largo alcance de acuerdo a los requisitos de la Resolución de la UIT 343 (REV. CMR-12). Long Range Radio-Operator in accordance with the provisions of ITU Resolution 343 (REV. CMR-12).
-
-> En el cuadro de observaciones se podrán anotar aquellas incidencias u observaciones que la Administración competente quiera reflejar, como podrían ser limitaciones impuestas a la navegación por el informe psicofísico correspondiente.
-
-> ![5849.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_5849.png)
-
-> ![5883.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_5883.png)
-
-> Modelo de tarjeta de patrón de embarcaciones de recreo
-
-> Las tarjetas de patrón de embarcaciones de recreo se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210 × 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. La tarjeta, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en las dos páginas siguientes, figura el anverso y reverso de la tarjeta de patrón de embarcaciones de recreo respectivamente. Se han incluido las atribuciones básicas del título así como aquellas complementarias, debiendo figurar obligatoriamente las primeras en la tarjeta y las segundas solo caso de ser obtenidas por el titular de la misma.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la tarjeta, al tamaño del UNE A5.
-
-> En el supuesto de aquellas personas que realicen el curso de Radio-Operador de largo alcance en lugar del de corto alcance. En el párrafo siguiente al nombre del título correspondiente, figurará la siguiente información: Radio-Operador de largo alcance de acuerdo a los requisitos de la Resolución de la UIT 343 (REV. CMR-12). Long Range Radio-Operator in accordance with the provisions of ITU Resolution 343 (REV. CMR-12).
-
-> En el cuadro de observaciones se podrán anotar aquellas incidencias u observaciones que la Administración competente quiera reflejar, como podrían ser limitaciones impuestas a la navegación por el informe psicofísico correspondiente.
-
-> ![5943.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_5943.png)
-
-> ![5977.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_5977.png)
-
-> Modelo de tarjeta de patrón para navegación básica
-
-> Las tarjetas de patrón para navegación básica se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210× 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. La tarjeta, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en las dos páginas siguientes, figura el anverso y reverso de la tarjeta patrón para navegación básica respectivamente. Se han incluido las atribuciones básicas del título así como aquellas complementarias, debiendo figurar obligatoriamente las primeras en la tarjeta y las segundas solo caso de ser obtenidas por el titular de la misma.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la tarjeta, al tamaño del UNE A5.
-
-> En el cuadro de observaciones se podrán anotar aquellas incidencias u observaciones que la Administración competente quiera reflejar, como podrían ser limitaciones impuestas a la navegación por el informe psicofísico correspondiente.
-
-> Si bien la realización de los cursos de Radio-Operador de corto o largo alcance no es obligatoria para la obtención del título de patrón para navegación básica, si se realizasen, debajo del nombre del título se incluirá un párrafo haciendo mención a dicha condición. Figurando los textos siguientes, dependiendo de si se realiza el curso de corto o largo alcance.
-
-> En el supuesto de realizarse el curso de Radio-Operador de corto alcance: Radio-Operador de corto alcance de acuerdo a los requisitos de la Resolución de la UIT 343 (REV. CMR-12). Short Range Radio-Operator in accordance with the provisions of ITU Resolution 343 (REV. CMR-12).
-
-> En el supuesto de realizarse el curso de Radio-Operador de largo alcance: Radio-Operador de largo alcance de acuerdo a los requisitos de la Resolución de la UIT 343 (REV. CMR-12). Long Range Radio-Operator in accordance with the provisions of ITU Resolution 343 (REV. CMR-12).
-
-> ![6057.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6057.png)
-
-> ![6130.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6130.png)
-
-> Modelo de tarjeta de moto náutica A
-
-> Las tarjetas de patrón de moto náutica A se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210 × 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. La tarjeta, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en las dos páginas siguientes, figura el anverso y reverso de la tarjeta de patrón de moto náutica A respectivamente.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la tarjeta, al tamaño del UNE A5.
-
-> En el cuadro de observaciones se podrán anotar aquellas incidencias u observaciones que la Administración competente quiera reflejar, como podrían ser limitaciones impuestas a la navegación por el informe psicofísico correspondiente.
-
-> ![6354.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6354.png)
-
-> ![6438.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6438.png)
-
-> Modelo de tarjeta de patrón de moto náutica B
-
-> Las tarjetas de patrón de moto náutica B se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210 × 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. La tarjeta, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en las dos páginas siguientes, figura el anverso y reverso de la tarjeta de patrón de moto náutica B respectivamente.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la tarjeta, al tamaño del UNE A5.
-
-> En el cuadro de observaciones se podrán anotar aquellas incidencias u observaciones que la Administración competente quiera reflejar, como podrían ser limitaciones impuestas a la navegación por el informe psicofísico correspondiente.
-
-> ![6579.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6579.png)
-
-> ![6702.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6702.png)
-
-> Modelo de licencia de navegación
-
-> Las Licencias de Navegación se imprimirán sobre papel de seguridad, fabricado por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (denominación de artículo: papel para la impresión de tarjetas habilitantes para el gobierno de embarcaciones de recreo), en formato UNE A5 apaisado 210 × 148,5 mm disponiendo en su esquina superior derecha de una franja oblicua con los colores de la bandera nacional. Las Licencias de Navegación, por motivos de impresión informática, se integrará en un papel de tamaño UNE A4, el cual vendrá con un trepado para poder cortarlo en dos unidades UNE A5; figurando en la mitad superior los datos de la propia tarjeta, de acuerdo a lo especificado en las dos páginas siguientes y en la mitad inferior toda aquella información de carácter complementario que tanto la Dirección General de la Marina Mercante como cada Comunidad Autónoma desee reflejar. Para evitar confusiones entre estas dos mitades, aquella destinada a la incorporación de «datos informativos» contendrá una marca de agua con dicho texto y no estará impresa en color como la mitad superior.
-
-> En el modelo recogido en la página siguiente, figura el anverso de la licencia de navegación.
-
-> El tamaño de la letra, el interlineado, espacios entre párrafos y tanto el ancho vertical como horizontal de los cuadros y párrafos que figuran en los modelos podrán adaptarse para lograr encajar la información contenida en la Licencia de Navegación, al tamaño del UNE A5.
-
-> ![6857.png](https://www.boe.es/datos/imagenes/disp/2015/13/00320_6857.png)
-
 > Se modifica, con efectos de 1 de septiembre de 2021, por Resolución de 12 de mayo de 2021. [Ref. BOE-A-2021-8450](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8450)
 
 > Se modifica por Resolución de 27 de noviembre de 2014. [Ref. BOE-A-2015-320](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-320)
@@ -4285,128 +4099,123 @@ Enfermedades y deficiencias que son causa de denegación o de establecimiento de
 
 Si para alcanzar la agudeza visual requerida es necesaria la utilización de lentes correctoras, deberá expresarse, en el informe de aptitud psicofísica, la obligación de su uso durante la navegación. Dichas lentes deberán ser bien toleradas. A efectos de este anexo, las lentes intraoculares no deberán considerarse como lentes correctoras, y se entenderá como visión monocular toda agudeza visual igual o inferior a 0,10 en un ojo, con o sin lentes correctoras, debida a pérdida anatómica o funcional de cualquier etiología.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_70">
-<col class="row_column_71">
-<col class="row_column_72">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Exploración</p>
+<p>Exploración</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
+<p>Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
+<p>Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_30">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">1.1 Agudeza visual.</p>
+<p>1.1 Agudeza visual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se debe poseer, si es preciso con lentes correctoras, una agudeza visual binocular de, al menos, 0,5.</p>
+<p>Se debe poseer, si es preciso con lentes correctoras, una agudeza visual binocular de, al menos, 0,5.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Los afectados de visión monocular con agudeza visual en el ojo mejor de 0,6 o mayor y más de tres meses de antigüedad en visión monocular, podrán obtener o prorrogar permiso o licencia, siempre que reúnan las demás capacidades visuales. Cuando, por el grado de agudeza visual o por la existencia de una enfermedad ocular progresiva, los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, el período de vigencia se fijará según criterio médico.</p>
+<p>Los afectados de visión monocular con agudeza visual en el ojo mejor de 0,6 o mayor y más de tres meses de antigüedad en visión monocular, podrán obtener o prorrogar permiso o licencia, siempre que reúnan las demás capacidades visuales. Cuando, por el grado de agudeza visual o por la existencia de una enfermedad ocular progresiva, los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, el período de vigencia se fijará según criterio médico.</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">No se admite la cirugía refractiva.</p>
+<p>No se admite la cirugía refractiva.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tras un mes de efectuada cirugía refractiva, aportando informe de la intervención, se podrá obtener o prorrogar el permiso o licencia, con período de vigencia máximo de un año. Transcurrido un año desde la fecha de la intervención, y teniendo en cuenta el defecto de refracción prequirúrgico, la refracción actual y la posible existencia de efectos secundarios no deseados, a criterio oftalmológico se fijará el período de vigencia posterior.</p>
+<p>Tras un mes de efectuada cirugía refractiva, aportando informe de la intervención, se podrá obtener o prorrogar el permiso o licencia, con período de vigencia máximo de un año. Transcurrido un año desde la fecha de la intervención, y teniendo en cuenta el defecto de refracción prequirúrgico, la refracción actual y la posible existencia de efectos secundarios no deseados, a criterio oftalmológico se fijará el período de vigencia posterior.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">1.2 Campo visual.</p>
+<p>1.2 Campo visual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la visión es binocular, el campo binocular ha de ser normal. En el examen binocular, el campo visual central no ha de presentar escotomas absolutos en puntos correspondientes de ambos ojos ni escotomas relativos significativos en la sensibilidad retiniana.</p>
+<p>Si la visión es binocular, el campo binocular ha de ser normal. En el examen binocular, el campo visual central no ha de presentar escotomas absolutos en puntos correspondientes de ambos ojos ni escotomas relativos significativos en la sensibilidad retiniana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
-</td>
-</tr>
-<tr class="row_column_22">
-<td>
-<p class="cuerpo_tabla_izq">Si la visión es monocular, el campo visual monocular debe ser normal. El campo visual central no ha de presentar escotomas absolutos ni escotomas relativos significativos en la sensibilidad retiniana.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
+<p>No se admiten.</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3 Afaquias y pseudofaquias.</p>
+<p>Si la visión es monocular, el campo visual monocular debe ser normal. El campo visual central no ha de presentar escotomas absolutos ni escotomas relativos significativos en la sensibilidad retiniana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten las monolaterales ni las bilaterales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transcurrido un mes de establecidas, si se alcanzan los valores determinados en los apartados 1.1 y 1.2 correspondientes al grupo 1, el período de vigencia del permiso o licencia será, como máximo, de tres años, según criterio médico.</p>
+<p>No se admiten.</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4 Sentido luminoso y visión de los colores.</p>
+<p>1.3 Afaquias y pseudofaquias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten alteraciones de la visión mesópica ni daltonismo u otras alteraciones de la visión de los colores, que impidan la correcta interpretación de las señales luminosas.</p>
+<p>No se admiten las monolaterales ni las bilaterales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Solo navegación Diurna Nocturna no solitaria.</p>
-</td>
-</tr>
-<tr class="row_column_73">
-<td>
-<p class="cuerpo_tabla_izq">1.5 Sensibilidad al contraste.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No deben existir alteraciones significativas en la capacidad de recuperación al deslumbramiento ni alteraciones de la visión mesópica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En el caso de padecer alteraciones de la visión mesópica o del deslumbramiento, se deberán establecer las restricciones y limitaciones que, a criterio oftalmológico sean precisas para garantizar la seguridad en la navegación. En todo caso se deben descartar patologías oftalmológicas que originen alteraciones incluidas en alguno de los restantes apartados sobre capacidad visual. Solo navegación Diurna Nocturna no solitaria.</p>
+<p>Transcurrido un mes de establecidas, si se alcanzan los valores determinados en los apartados 1.1 y 1.2 correspondientes al grupo 1, el período de vigencia del permiso o licencia será, como máximo, de tres años, según criterio médico.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.6 Motilidad palpebral.</p>
+<p>1.4 Sentido luminoso y visión de los colores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten ptosis ni lagoftalmias que afecten a la visión en los límites y condiciones señaladas en el apartado 1.1.</p>
+<p>No se admiten alteraciones de la visión mesópica ni daltonismo u otras alteraciones de la visión de los colores, que impidan la correcta interpretación de las señales luminosas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
-</td>
-</tr>
-<tr class="row_column_74">
-<td>
-<p class="cuerpo_tabla_izq">1.7 Motilidad del globo ocular.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Las diplopías impiden la obtención o renovación. El nistágmus impide la obtención o renovación cuando no permita alcanzar los niveles de capacidad visual indicados en los apartados 1.1 a 1.6, cuando sea manifestación de alguna enfermedad de las incluidas en el presente anexo o cuando, a criterio facultativo, origine o pueda originar fatiga visual durante el gobierno de embarcaciones de recreo. No se admiten otros defectos de la visión binocular ni estrabismos que impidan alcanzar los niveles fijados en los apartados 1.1 a 1.7 del grupo 1, ambos inclusive. Cuando no impidan alcanzar los niveles de capacidad visual indicados en los apartados 1.1 a 1.7 del grupo 1, ambos inclusive, el oftalmólogo deberá valorar, principalmente, sus consecuencias sobre la fatiga visual, los defectos refractivos, el campo visual, el grado de estereopsis, la presencia de forias y de tortícolis y la aparición de diplopía, así como la probable evolución del proceso, fijando en consecuencia el período de vigencia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sólo se permitirán de forma excepcional y a criterio facultativo las formas congénitas o infantiles, siempre que no se manifiesten en los 20 grados centrales del campo visual y no produzcan ninguna otra sintomatología, en especial fatiga visual. En caso de permitirse la obtención o prórroga del permiso o licencia, el período de vigencia máximo será de tres años. Cuando la diplopía se elimine mediante la oclusión de un ojo se aplicarán las restricciones propias de la visión monocular Cuando los estrabismos u otros defectos de la visión binocular no impidan alcanzar los niveles de capacidad visual indicados en los apartados 1.1 a 1.7 del grupo 1, ambos inclusive, y debido a su repercusión sobre parámetros como la fatiga visual, los defectos refractivos, el campo visual, el grado de estereopsis, la presencia de forias y de tortícolis, la aparición de diplopía o por la probable evolución del proceso, los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, este se fijará según el criterio oftalmológico.</p>
+<p>Solo navegación Diurna Nocturna no solitaria.</p>
 </td>
 </tr>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8 Deterioro progresivo de la capacidad ocular.</p>
+<p>1.5 Sensibilidad al contraste.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las enfermedades progresivas que no permitan alcanzar los niveles fijados en los apartados 1.1 a 1.6 anteriores, ambos inclusive, impiden la obtención o prórroga.</p>
+<p>No deben existir alteraciones significativas en la capacidad de recuperación al deslumbramiento ni alteraciones de la visión mesópica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuando no impidan alcanzar los niveles fijados en los apartados 1.1 al 1.6, y los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, el período de vigencia se fijará según criterio médico.</p>
+<p>En el caso de padecer alteraciones de la visión mesópica o del deslumbramiento, se deberán establecer las restricciones y limitaciones que, a criterio oftalmológico sean precisas para garantizar la seguridad en la navegación. En todo caso se deben descartar patologías oftalmológicas que originen alteraciones incluidas en alguno de los restantes apartados sobre capacidad visual. Solo navegación Diurna Nocturna no solitaria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6 Motilidad palpebral.</p>
+</td>
+<td>
+<p>No se admiten ptosis ni lagoftalmias que afecten a la visión en los límites y condiciones señaladas en el apartado 1.1.</p>
+</td>
+<td>
+<p>No se admiten.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.7 Motilidad del globo ocular.</p>
+</td>
+<td>
+<p>Las diplopías impiden la obtención o renovación. El nistágmus impide la obtención o renovación cuando no permita alcanzar los niveles de capacidad visual indicados en los apartados 1.1 a 1.6, cuando sea manifestación de alguna enfermedad de las incluidas en el presente anexo o cuando, a criterio facultativo, origine o pueda originar fatiga visual durante el gobierno de embarcaciones de recreo. No se admiten otros defectos de la visión binocular ni estrabismos que impidan alcanzar los niveles fijados en los apartados 1.1 a 1.7 del grupo 1, ambos inclusive. Cuando no impidan alcanzar los niveles de capacidad visual indicados en los apartados 1.1 a 1.7 del grupo 1, ambos inclusive, el oftalmólogo deberá valorar, principalmente, sus consecuencias sobre la fatiga visual, los defectos refractivos, el campo visual, el grado de estereopsis, la presencia de forias y de tortícolis y la aparición de diplopía, así como la probable evolución del proceso, fijando en consecuencia el período de vigencia.</p>
+</td>
+<td>
+<p>Sólo se permitirán de forma excepcional y a criterio facultativo las formas congénitas o infantiles, siempre que no se manifiesten en los 20 grados centrales del campo visual y no produzcan ninguna otra sintomatología, en especial fatiga visual. En caso de permitirse la obtención o prórroga del permiso o licencia, el período de vigencia máximo será de tres años. Cuando la diplopía se elimine mediante la oclusión de un ojo se aplicarán las restricciones propias de la visión monocular Cuando los estrabismos u otros defectos de la visión binocular no impidan alcanzar los niveles de capacidad visual indicados en los apartados 1.1 a 1.7 del grupo 1, ambos inclusive, y debido a su repercusión sobre parámetros como la fatiga visual, los defectos refractivos, el campo visual, el grado de estereopsis, la presencia de forias y de tortícolis, la aparición de diplopía o por la probable evolución del proceso, los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, este se fijará según el criterio oftalmológico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.8 Deterioro progresivo de la capacidad ocular.</p>
+</td>
+<td>
+<p>Las enfermedades progresivas que no permitan alcanzar los niveles fijados en los apartados 1.1 a 1.6 anteriores, ambos inclusive, impiden la obtención o prórroga.</p>
+</td>
+<td>
+<p>Cuando no impidan alcanzar los niveles fijados en los apartados 1.1 al 1.6, y los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, el período de vigencia se fijará según criterio médico.</p>
 </td>
 </tr>
 </tbody>
@@ -4424,51 +4233,46 @@ Cuando para alcanzar la agudeza auditiva mínima requerida que se indica en el a
 
 3\. Sistema locomotor
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_70">
-<col class="row_column_71">
-<col class="row_column_72">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Exploración</p>
+<p>Exploración</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
+<p>Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
+<p>Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_56">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1 Motilidad.</p>
+<p>3.1 Motilidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La existencia de alguna alteración que impida la posición normal o un manejo eficaz de los mandos y dispositivos de la embarcación o que requiera para ello de posiciones atípicas o fatigosas conlleva la sujeción a adaptaciones u otras limitaciones. Éstas deberán ser objetivamente evaluadas teniendo en cuenta las tecnologías de apoyo y los dispositivos destinados a las personas con discapacidad que pudieran garantizar el manejo eficaz de los mandos y dispositivos.</p>
+<p>La existencia de alguna alteración que impida la posición normal o un manejo eficaz de los mandos y dispositivos de la embarcación o que requiera para ello de posiciones atípicas o fatigosas conlleva la sujeción a adaptaciones u otras limitaciones. Éstas deberán ser objetivamente evaluadas teniendo en cuenta las tecnologías de apoyo y los dispositivos destinados a las personas con discapacidad que pudieran garantizar el manejo eficaz de los mandos y dispositivos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las adaptaciones, restricciones y otras limitaciones que se impongan en personas, y/o embarcaciones se determinarán de acuerdo con las discapacidades que a tenga el interesado debidamente reflejadas en el informe de aptitud psicofísica y evaluadas en las correspondientes pruebas estáticas o dinámicas.</p>
+<p>Las adaptaciones, restricciones y otras limitaciones que se impongan en personas, y/o embarcaciones se determinarán de acuerdo con las discapacidades que a tenga el interesado debidamente reflejadas en el informe de aptitud psicofísica y evaluadas en las correspondientes pruebas estáticas o dinámicas.</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2 Afecciones o anomalías progresivas</p>
+<p>3.2 Afecciones o anomalías progresivas</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">No se admiten tallas que originen una posición de navegación incompatible con el manejo seguro del vehículo o con la correcta visibilidad del conductor.</p>
+<p>No se admiten tallas que originen una posición de navegación incompatible con el manejo seguro del vehículo o con la correcta visibilidad del conductor.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Cuando no impidan la obtención o prórroga y los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, el período de vigencia se fijará según criterio médico Cuando la talla impida una posición de navegación segura o no permita la adecuada visibilidad del conductor, las adaptaciones, restricciones o limitaciones que se impongan serán fijadas según criterio técnico y de acuerdo con el dictamen médico, con la debida evaluación, en su caso, en las correspondientes pruebas estáticas o dinámicas.</p>
+<p>Cuando no impidan la obtención o prórroga y los reconocimientos periódicos a realizar fueran por período inferior al de vigencia normal del permiso o licencia, el período de vigencia se fijará según criterio médico Cuando la talla impida una posición de navegación segura o no permita la adecuada visibilidad del conductor, las adaptaciones, restricciones o limitaciones que se impongan serán fijadas según criterio técnico y de acuerdo con el dictamen médico, con la debida evaluación, en su caso, en las correspondientes pruebas estáticas o dinámicas.</p>
 </td>
 </tr>
-<tr class="row_column_76">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3 Talla.</p>
+<p>3.3 Talla.</p>
 </td>
 </tr>
 </tbody>
@@ -4486,155 +4290,150 @@ Cuando para alcanzar la agudeza auditiva mínima requerida que se indica en el a
 
 – El nivel IV supone la posibilidad de desarrollar cualquier actividad física sin la aparición de síntomas y la presencia de insuficiencia cardíaca congestiva en reposo.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_70">
-<col class="row_column_71">
-<col class="row_column_72">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Exploración</p>
+<p>Exploración</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
+<p>Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
+<p>Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1 Insuficiencia cardíaca.</p>
+<p>4.1 Insuficiencia cardíaca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir ninguna alteración que afecte a la dinámica cardíaca con signos objetivos y funcionales de descompensación o síncope. No debe existir ninguna cardiopatía que origine sintomatología correspondiente a un nivel funcional III o IV.</p>
+<p>No debe existir ninguna alteración que afecte a la dinámica cardíaca con signos objetivos y funcionales de descompensación o síncope. No debe existir ninguna cardiopatía que origine sintomatología correspondiente a un nivel funcional III o IV.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admite.</p>
+<p>No se admite.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">4.2 Trastornos del ritmo.</p>
+<p>4.2 Trastornos del ritmo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir arritmia maligna durante los últimos seis meses que origine o pueda originar una pérdida de atención o un síncope en el conductor, salvo en los casos con antecedente de terapia curativa e informe favorable del cardiólogo.</p>
+<p>No debe existir arritmia maligna durante los últimos seis meses que origine o pueda originar una pérdida de atención o un síncope en el conductor, salvo en los casos con antecedente de terapia curativa e informe favorable del cardiólogo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuando existan antecedentes de taquicardia ventricular, con informe favorable de un especialista en cardiología que avale el tratamiento, la ausencia de recurrencia del cuadro clínico y una aceptable función ventricular, se podrá fijar un período de vigencia inferior al normal del permiso o licencia según criterio médico.</p>
+<p>Cuando existan antecedentes de taquicardia ventricular, con informe favorable de un especialista en cardiología que avale el tratamiento, la ausencia de recurrencia del cuadro clínico y una aceptable función ventricular, se podrá fijar un período de vigencia inferior al normal del permiso o licencia según criterio médico.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir ninguna alteración del ritmo que origine sintomatología correspondiente a una clase funcional III o IV.</p>
+<p>No debe existir ninguna alteración del ritmo que origine sintomatología correspondiente a una clase funcional III o IV.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admite</p>
+<p>No se admite</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">4.3 Marcapasos y desfibrilador automático implantable.</p>
+<p>4.3 Marcapasos y desfibrilador automático implantable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir utilización de marcapasos.</p>
+<p>No debe existir utilización de marcapasos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transcurrido un mes desde la aplicación del marcapasos, con informe favorable de un especialista en cardiología, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia establecido a criterio facultativo.</p>
+<p>Transcurrido un mes desde la aplicación del marcapasos, con informe favorable de un especialista en cardiología, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia establecido a criterio facultativo.</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir implantación de desfibrilador automático implantable.</p>
+<p>No debe existir implantación de desfibrilador automático implantable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transcurridos seis meses desde el implante del desfibrilador automático, siempre que no exista sintomatología, con informe del especialista en cardiología, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia máximo de un año. Los mismos criterios se aplicarán en caso de descarga, no permitiéndose en ningún caso las recurrencias múltiples ni una fracción de eyección menor del 30 por ciento.</p>
-<p class="cuerpo_tabla_izq">Navegación acompañada</p>
-</td>
-</tr>
-<tr class="row_column_31">
-<td>
-<p class="cuerpo_tabla_izq">4.4 Prótesis valvulares cardiacas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No debe existir utilización de prótesis valvulares cardiacas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transcurridos tres meses desde la colocación de la prótesis valvular, con informe favorable de un especialista en cardiología, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia máximo de tres años.</p>
+<p>Transcurridos seis meses desde el implante del desfibrilador automático, siempre que no exista sintomatología, con informe del especialista en cardiología, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia máximo de un año. Los mismos criterios se aplicarán en caso de descarga, no permitiéndose en ningún caso las recurrencias múltiples ni una fracción de eyección menor del 30 por ciento.</p>
+<p>Navegación acompañada</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>4.4 Prótesis valvulares cardiacas.</p>
+</td>
+<td>
+<p>No debe existir utilización de prótesis valvulares cardiacas.</p>
+</td>
+<td>
+<p>Transcurridos tres meses desde la colocación de la prótesis valvular, con informe favorable de un especialista en cardiología, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia máximo de tres años.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">4.5 Cardiopatía isquémica.</p>
+<p>4.5 Cardiopatía isquémica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir antecedente de infarto agudo de miocardio durante los últimos tres meses.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_36">
-<td>
-<p class="cuerpo_tabla_izq">No se admite la cirugía de revascularización ni la revascularización percutánea.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transcurrido un mes desde una intervención consistente en cirugía de revascularización o de revascularización percutánea, en ausencia de sintomatología isquémica y con informe del cardiólogo, se podrá obtener o prorrogar el permiso o licencia con un período máximo de vigencia de dos años, fijándose posteriormente, previo informe favorable del cardiólogo, el período de vigencia a criterio facultativo.</p>
-</td>
-</tr>
-<tr class="row_column_22">
-<td>
-<p class="cuerpo_tabla_izq">No debe existir ninguna cardiopatía isquémica que origine sintomatología correspondiente a una clase funcional III o IV.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No se admiten. En caso de padecer cardiopatía isquémica que origine sintomatología correspondiente a una clase funcional II, con informe favorable del cardiólogo, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia máximo de dos años.</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">4.4. Hipertensión arterial.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No deben existir signos de afección orgánica ni valores de presión arterial descompensados que supongan riesgo para la seguridad marítima.</p>
+<p>No debe existir antecedente de infarto agudo de miocardio durante los últimos tres meses.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_37">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.5 Aneurismas de grandes vasos.</p>
+<p>No se admite la cirugía de revascularización ni la revascularización percutánea.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No deben existir aneurismas de grandes vasos ni disección aórtica. Se admite la corrección quirúrgica, siempre que exista un resultado satisfactorio de ésta y no haya clínica de isquemia cardiaca.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tras la corrección quirúrgica de un aneurisma o disección y transcurridos 6 meses de ésta, aportando un informe favorable del especialista en cardiología o cirugía vascular, se podrá obtener o prorrogar el permiso o licencia por período de vigencia máximo de dos años. En el caso del aneurisma y cuando las características de éste no impliquen riesgo elevado de rotura, ni se asocien a clínica de isquemia cardiaca, con informe favorable de un especialista en cardiología o cirugía vascular, se podrá obtener o prorrogar el permiso o licencia por período máximo de vigencia de un año.</p>
-<p class="cuerpo_tabla_izq">Navegación acompañada.</p>
+<p>Transcurrido un mes desde una intervención consistente en cirugía de revascularización o de revascularización percutánea, en ausencia de sintomatología isquémica y con informe del cardiólogo, se podrá obtener o prorrogar el permiso o licencia con un período máximo de vigencia de dos años, fijándose posteriormente, previo informe favorable del cardiólogo, el período de vigencia a criterio facultativo.</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.6 Arteriopatías periféricas.</p>
+<p>No debe existir ninguna cardiopatía isquémica que origine sintomatología correspondiente a una clase funcional III o IV.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En caso de arteriopatía periférica, se valorará la posible asociación de cardiopatía isquémica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
-<p class="cuerpo_tabla_izq">Navegación acompañada</p>
+<p>No se admiten. En caso de padecer cardiopatía isquémica que origine sintomatología correspondiente a una clase funcional II, con informe favorable del cardiólogo, se podrá obtener o prorrogar el permiso o licencia con un período de vigencia máximo de dos años.</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.7 Enfermedades venosas.</p>
+<p>4.4. Hipertensión arterial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No debe existir trombosis venosa profunda.</p>
+<p>No deben existir signos de afección orgánica ni valores de presión arterial descompensados que supongan riesgo para la seguridad marítima.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>4.5 Aneurismas de grandes vasos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten las varices voluminosas del miembro inferior ni las tromboflebitis.</p>
-<p class="cuerpo_tabla_izq">Navegación acompañada.</p>
+<p>No deben existir aneurismas de grandes vasos ni disección aórtica. Se admite la corrección quirúrgica, siempre que exista un resultado satisfactorio de ésta y no haya clínica de isquemia cardiaca.</p>
+</td>
+<td>
+<p>Tras la corrección quirúrgica de un aneurisma o disección y transcurridos 6 meses de ésta, aportando un informe favorable del especialista en cardiología o cirugía vascular, se podrá obtener o prorrogar el permiso o licencia por período de vigencia máximo de dos años. En el caso del aneurisma y cuando las características de éste no impliquen riesgo elevado de rotura, ni se asocien a clínica de isquemia cardiaca, con informe favorable de un especialista en cardiología o cirugía vascular, se podrá obtener o prorrogar el permiso o licencia por período máximo de vigencia de un año.</p>
+<p>Navegación acompañada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.6 Arteriopatías periféricas.</p>
+</td>
+<td>
+<p>En caso de arteriopatía periférica, se valorará la posible asociación de cardiopatía isquémica.</p>
+</td>
+<td>
+<p>No se admiten.</p>
+<p>Navegación acompañada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.7 Enfermedades venosas.</p>
+</td>
+<td>
+<p>No debe existir trombosis venosa profunda.</p>
+</td>
+<td>
+<p>No se admiten las varices voluminosas del miembro inferior ni las tromboflebitis.</p>
+<p>Navegación acompañada.</p>
 </td>
 </tr>
 </tbody>
@@ -4687,107 +4486,102 @@ Cuando para alcanzar la agudeza auditiva mínima requerida que se indica en el a
 
 No deben existir enfermedades del sistema nervioso y muscular que produzcan pérdida o disminución grave de las funciones motoras, sensoriales o de coordinación que incidan involuntariamente en el control de la embarcación.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_70">
-<col class="row_column_71">
-<col class="row_column_72">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Exploración</p>
+<p>Exploración</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
+<p>Criterios de aptitud para obtener o prorrogar permisos náuticos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
+<p>Adaptaciones, restricciones y otras limitaciones en personas y/o embarcaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_55">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.1 Enfermedades encefálicas, medulares y del sistema nervioso periférico.</p>
+<p>9.1 Enfermedades encefálicas, medulares y del sistema nervioso periférico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No deben existir enfermedades del sistema nervioso central o periférico que produzcan pérdida o disminución grave de las funciones motoras, sensoriales o de coordinación, episodios sincopales, temblores de grandes oscilaciones, espasmos que produzcan movimientos amplios de cabeza, tronco o miembros ni temblores o espasmos que incidan involuntariamente en el control del vehículo.</p>
+<p>No deben existir enfermedades del sistema nervioso central o periférico que produzcan pérdida o disminución grave de las funciones motoras, sensoriales o de coordinación, episodios sincopales, temblores de grandes oscilaciones, espasmos que produzcan movimientos amplios de cabeza, tronco o miembros ni temblores o espasmos que incidan involuntariamente en el control del vehículo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
+<p>No se admiten.</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">9.2 Epilepsia y crisis convulsivas de otras etiologías.</p>
+<p>9.2 Epilepsia y crisis convulsivas de otras etiologías.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se permiten cuando hayan aparecido crisis epilépticas convulsivas o crisis con pérdida de consciencia durante el último año.</p>
-<p class="cuerpo_tabla_izq">En el caso de crisis durante el sueño, se deberá constatar que, al menos, ha transcurrido un año sólo con esta sintomatología</p>
+<p>No se permiten cuando hayan aparecido crisis epilépticas convulsivas o crisis con pérdida de consciencia durante el último año.</p>
+<p>En el caso de crisis durante el sueño, se deberá constatar que, al menos, ha transcurrido un año sólo con esta sintomatología</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_77">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">En el caso de tratarse de sacudidas mioclónicas que puedan afectar la seguridad de la navegación, deberá existir un período libre de sacudidas de, al menos, tres meses.</p>
+<p>En el caso de tratarse de sacudidas mioclónicas que puedan afectar la seguridad de la navegación, deberá existir un período libre de sacudidas de, al menos, tres meses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Los afectados de epilepsias con crisis convulsivas o con crisis con pérdida de conciencia, deberán aportar informe favorable de un neurólogo en el que se haga constar el diagnóstico, el cumplimiento del tratamiento, la frecuencia de crisis y que el tratamiento farmacológico prescrito no impide la navegación. El período de vigencia del permiso o licencia será de dos años como máximo. En el caso de ausencia de crisis durante los tres últimos años, el período de vigencia será de cinco años como máximo.</p>
-<p class="cuerpo_tabla_izq">En el caso de crisis durante el sueño, el período de vigencia del permiso o licencia será como máximo de un año, con informe de un especialista en neurología en el que se haga constar el diagnóstico, el cumplimiento del tratamiento, la ausencia de otras crisis convulsivas y que el tratamiento farmacológico prescrito, en su caso, no impide la navegación.</p>
-</td>
-</tr>
-<tr class="row_column_73">
-<td>
-<p class="cuerpo_tabla_izq">En el caso de antecedente de trastorno convulsivo único no filiado o secundario a consumo de medicamentos o drogas o posquirúrgico, se deberá acreditar un período libre de crisis de, al menos, seis meses mediante informe neurológico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En el caso de tratarse de sacudidas mioclónicas que puedan afectar la seguridad de la navegación, deberá aportarse informe favorable de un neurólogo en que se haga constar el diagnóstico, el cumplimiento del tratamiento, en su caso, la frecuencia de crisis convulsivas y que el tratamiento farmacológico prescrito no impide la navegación. El período de vigencia del permiso o licencia será de dos años como máximo.</p>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
+<p>Los afectados de epilepsias con crisis convulsivas o con crisis con pérdida de conciencia, deberán aportar informe favorable de un neurólogo en el que se haga constar el diagnóstico, el cumplimiento del tratamiento, la frecuencia de crisis y que el tratamiento farmacológico prescrito no impide la navegación. El período de vigencia del permiso o licencia será de dos años como máximo. En el caso de ausencia de crisis durante los tres últimos años, el período de vigencia será de cinco años como máximo.</p>
+<p>En el caso de crisis durante el sueño, el período de vigencia del permiso o licencia será como máximo de un año, con informe de un especialista en neurología en el que se haga constar el diagnóstico, el cumplimiento del tratamiento, la ausencia de otras crisis convulsivas y que el tratamiento farmacológico prescrito, en su caso, no impide la navegación.</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3 Alteraciones del equilibrio.</p>
+<p>En el caso de antecedente de trastorno convulsivo único no filiado o secundario a consumo de medicamentos o drogas o posquirúrgico, se deberá acreditar un período libre de crisis de, al menos, seis meses mediante informe neurológico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No deben existir alteraciones del equilibrio (vértigos, inestabilidad, mareo, vahído) permanentes, evolutivos o intensos, ya sean de origen otológico o de otro tipo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
+<p>En el caso de tratarse de sacudidas mioclónicas que puedan afectar la seguridad de la navegación, deberá aportarse informe favorable de un neurólogo en que se haga constar el diagnóstico, el cumplimiento del tratamiento, en su caso, la frecuencia de crisis convulsivas y que el tratamiento farmacológico prescrito no impide la navegación. El período de vigencia del permiso o licencia será de dos años como máximo.</p>
+<p>No se admiten.</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.4 Trastornos musculares.</p>
+<p>9.3 Alteraciones del equilibrio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No deben existir trastornos musculares que produzcan deficiencia motora.</p>
+<p>No deben existir alteraciones del equilibrio (vértigos, inestabilidad, mareo, vahído) permanentes, evolutivos o intensos, ya sean de origen otológico o de otro tipo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">9.4 Accidente isquémico transitorio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No se admiten los ataques isquémicos transitorios hasta transcurridos, al menos, seis meses sin síntomas neurológicos. Los afectados deberán aportar informe favorable de un especialista en neurología en el que se haga constar la ausencia de secuelas neurológicas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuando, excepcionalmente, y con dictamen favorable de un especialista en neurología, las secuelas neurológicas no impidan la obtención o prórroga, el período de vigencia del permiso o licencia será como máximo de un año.</p>
+<p>No se admiten.</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.5 Accidentes isquémicos recurrentes.</p>
+<p>9.4 Trastornos musculares.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No deben existir accidentes isquémicos recurrentes.</p>
+<p>No deben existir trastornos musculares que produzcan deficiencia motora.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No se admiten.</p>
+<p>No se admiten.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.4 Accidente isquémico transitorio.</p>
+</td>
+<td>
+<p>No se admiten los ataques isquémicos transitorios hasta transcurridos, al menos, seis meses sin síntomas neurológicos. Los afectados deberán aportar informe favorable de un especialista en neurología en el que se haga constar la ausencia de secuelas neurológicas.</p>
+</td>
+<td>
+<p>Cuando, excepcionalmente, y con dictamen favorable de un especialista en neurología, las secuelas neurológicas no impidan la obtención o prórroga, el período de vigencia del permiso o licencia será como máximo de un año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.5 Accidentes isquémicos recurrentes.</p>
+</td>
+<td>
+<p>No deben existir accidentes isquémicos recurrentes.</p>
+</td>
+<td>
+<p>No se admiten.</p>
 </td>
 </tr>
 </tbody>
@@ -4866,276 +4660,240 @@ Apartado 3
 
 ## ANEXO IX — Títulos expedidos por otros Estados
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col width="40%">
-<col width="25%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">ANDORRA.</td>
-<td class="cuerpo_tabla_centro">TÍTULOS</td>
-<td class="cuerpo_tabla_centro">ATRIBUCIONES</td>
-<td class="cuerpo_tabla_centro">OBSERVACIONES</td>
+<td rowspan="6">ANDORRA.</td>
+<td>TÍTULOS</td>
+<td>ATRIBUCIONES</td>
+<td>OBSERVACIONES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Capitán de Yate.</td>
-<td class="cuerpo_tabla_izq">Embarcaciones de hasta 24 metros de eslora (motor y vela), sin limitaciones.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Capitán de Yate.</td>
+<td>Embarcaciones de hasta 24 metros de eslora (motor y vela), sin limitaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Patrón de Embarcaciones de Recreo.</td>
-<td class="cuerpo_tabla_izq">Embarcaciones de hasta 15 metros de eslora (motor y vela), sin alejarse más de 12 millas de la costa.</td>
-<td class="cuerpo_tabla_izq">Según habilitación (puede ampliar el límite de navegación hasta 60 millas de la costa).</td>
+<td>Patrón de Embarcaciones de Recreo.</td>
+<td>Embarcaciones de hasta 15 metros de eslora (motor y vela), sin alejarse más de 12 millas de la costa.</td>
+<td>Según habilitación (puede ampliar el límite de navegación hasta 60 millas de la costa).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Patrón de Navegación Básica.</td>
-<td class="cuerpo_tabla_izq">Embarcaciones a motor de hasta 7 metros de eslora (motor y vela), sin alejarse más de 3 millas de la costa en navegación diurna.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Patrón de Navegación Básica.</td>
+<td>Embarcaciones a motor de hasta 7 metros de eslora (motor y vela), sin alejarse más de 3 millas de la costa en navegación diurna.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Patrón de Costa.</td>
-<td class="cuerpo_tabla_izq">Embarcaciones de hasta 15 metros de eslora (motor y vela), sin alejarse más de 12 millas de la costa.</td>
-<td class="cuerpo_tabla_izq">Título antiguo equivalente al nuevo título andorrano de patrón de embarcaciones de recreo.</td>
+<td>Patrón de Costa.</td>
+<td>Embarcaciones de hasta 15 metros de eslora (motor y vela), sin alejarse más de 12 millas de la costa.</td>
+<td>Título antiguo equivalente al nuevo título andorrano de patrón de embarcaciones de recreo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Patrón de Altura.</td>
-<td class="cuerpo_tabla_izq">Embarcaciones de hasta 24 metros de eslora (motor y vela), sin limitaciones.</td>
-<td class="cuerpo_tabla_izq">Título antiguo equivalente al nuevo título andorrano de capitán de yate.</td>
+<td>Patrón de Altura.</td>
+<td>Embarcaciones de hasta 24 metros de eslora (motor y vela), sin limitaciones.</td>
+<td>Título antiguo equivalente al nuevo título andorrano de capitán de yate.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ARGENTINA</p>
+<p>ARGENTINA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">TÍTULOS</p>
+<p>TÍTULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ATRIBUCIONES</p>
+<p>ATRIBUCIONES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">OBSERVACIONES</p>
+<p>OBSERVACIONES</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Patrón de Yate Vela y Motor.</p>
+<p>Patrón de Yate Vela y Motor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin alejarse más de doce millas de la costa (incluye Río de la Plata sin limitaciones).</p>
+<p>Sin alejarse más de doce millas de la costa (incluye Río de la Plata sin limitaciones).</p>
 </td>
 <td rowspan="3"> </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Timonel de Yate Vela y Motor.</p>
+<p>Timonel de Yate Vela y Motor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navegación en aguas interiores, embarcaciones de hasta 20 m. de eslora.</p>
+<p>Navegación en aguas interiores, embarcaciones de hasta 20 m. de eslora.</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Piloto de Yate Vela y Motor.</p>
+<p>Piloto de Yate Vela y Motor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin restricciones.</p>
+<p>Sin restricciones.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">CHILE</p>
+<p>CHILE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">TÍTULOS</p>
+<p>TÍTULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ATRIBUCIONES</p>
+<p>ATRIBUCIONES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">OBSERVACIONES</p>
+<p>OBSERVACIONES</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Patrón Deportivo de Bahía.</p>
+<p>Patrón Deportivo de Bahía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navegación en aguas interiores.</p>
+<p>Navegación en aguas interiores.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Capitán Deportivo Costero.</p>
+<p>Capitán Deportivo Costero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navegación a la vista de la costa.</p>
+<p>Navegación a la vista de la costa.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Capitán Deportivo de Alta.</p>
+<p>Capitán Deportivo de Alta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin limitaciones.</p>
+<p>Sin limitaciones.</p>
 </td>
 <td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">URUGUAY</p>
+<p>URUGUAY</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">TÍTULOS</p>
+<p>TÍTULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ATRIBUCIONES</p>
+<p>ATRIBUCIONES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">OBSERVACIONES</p>
+<p>OBSERVACIONES</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Zona A: Navegación oceánica.</p>
+<p>Zona A: Navegación oceánica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin restricciones.</p>
+<p>Sin restricciones.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Zona B.</p>
+<p>Zona B.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Habilitada para navegar en el Río de La Plata y una franja costera oceánica de 15 millas de ancho hasta la desembocadura del Arroyo Chuy.</p>
-<p class="cuerpo_tabla_izq">(Sin alejarse más de 15 millas de tierra.)</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_12">
-<td>
-<p class="cuerpo_tabla_izq">Zona C.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Habilitada para navegar dentro de un radio de 15 millas del Puerto de Despacho en el Río de la Plata inferior y Océano Atlántico. En el Río de la Plata superior y el Río Uruguay dicho radio será de 20’.</p>
-<p class="cuerpo_tabla_izq">(Sin alejarse más de 15 millas de puerto base.)</p>
+<p>Habilitada para navegar en el Río de La Plata y una franja costera oceánica de 15 millas de ancho hasta la desembocadura del Arroyo Chuy.</p>
+<p>(Sin alejarse más de 15 millas de tierra.)</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_12">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Zona D.</p>
+<p>Zona C.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Habilitada para navegar dentro de un radio de 5 millas del Puerto de Despacho, en el Río de la Plata y Océano Atlántico. En el Río Uruguay, Ríos y Lagunas interiores dicho radio será de 10’.</p>
-<p class="cuerpo_tabla_izq">(Sin alejarse más de 5 millas de puerto base.)</p>
+<p>Habilitada para navegar dentro de un radio de 15 millas del Puerto de Despacho en el Río de la Plata inferior y Océano Atlántico. En el Río de la Plata superior y el Río Uruguay dicho radio será de 20’.</p>
+<p>(Sin alejarse más de 15 millas de puerto base.)</p>
 </td>
 <td> </td>
 </tr>
-</tbody>
-</table>
-
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-</colgroup>
-<tbody>
-<tr class="row_column_3">
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">VENEZUELA</p>
+<tr>
+<td>
+<p>Zona D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">TÍTULOS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ATRIBUCIONES</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">OBSERVACIONES</p>
-</td>
-</tr>
-<tr class="row_column_13">
-<td>
-<p class="cuerpo_tabla_izq">Licencia de Patrón Deportivo de Segunda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Embarcaciones menores de 40 toneladas de registro bruto, sin alejarse más de 12 millas de la costa.</p>
+<p>Habilitada para navegar dentro de un radio de 5 millas del Puerto de Despacho, en el Río de la Plata y Océano Atlántico. En el Río Uruguay, Ríos y Lagunas interiores dicho radio será de 10’.</p>
+<p>(Sin alejarse más de 5 millas de puerto base.)</p>
 </td>
 <td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-</colgroup>
+<table>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">CANADÁ</p>
+<p>VENEZUELA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">TÍTULOS</p>
+<p>TÍTULOS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ATRIBUCIONES</p>
+<p>ATRIBUCIONES</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">OBSERVACIONES</p>
+<p>OBSERVACIONES</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pleasure Craft Operator Card.</p>
+<p>Licencia de Patrón Deportivo de Segunda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Embarcaciones de recreo sin limitaciones.</p>
+<p>Embarcaciones menores de 40 toneladas de registro bruto, sin alejarse más de 12 millas de la costa.</p>
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>CANADÁ</p>
+</td>
+<td>
+<p>TÍTULOS</p>
+</td>
+<td>
+<p>ATRIBUCIONES</p>
+</td>
+<td>
+<p>OBSERVACIONES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pleasure Craft Operator Card.</p>
+</td>
+<td>
+<p>Embarcaciones de recreo sin limitaciones.</p>
 </td>
 </tr>
 </tbody>
@@ -5143,52 +4901,47 @@ Apartado 3
 
 **Suiza**
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_19">
-<col class="row_column_20">
-<col class="row_column_21">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">Títulos</p>
+<p>Títulos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Atribuciones</p>
+<p>Atribuciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_22">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">PERMIS B</p>
-<p class="cuerpo_tabla_izq">Emitidos por: (*)</p>
+<p>PERMIS B</p>
+<p>Emitidos por: (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Embarcaciones a:</p>
-<p class="cuerpo_tabla_izq">– motor</p>
-<p class="cuerpo_tabla_izq">– vela con o sin motor aux.</p>
-<p class="cuerpo_tabla_izq">– motor y vela con o sin motor aux. (ver tarjeta) de arqueo bruto hasta 300.</p>
+<p>Embarcaciones a:</p>
+<p>– motor</p>
+<p>– vela con o sin motor aux.</p>
+<p>– motor y vela con o sin motor aux. (ver tarjeta) de arqueo bruto hasta 300.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">(*)</p>
-<p class="cuerpo_tabla_izq">– CRUISING CLUB DE SUIZA (CCS)</p>
-<p class="cuerpo_tabla_izq">– ESCUELA DE VELA DE RORSCHACH (SEGELSCHULE)</p>
-<p class="cuerpo_tabla_izq">– INSTITUTO PARA LA NAVEGACIÓN EN ALTA MAR -NAVEGACIÓN DEPORTIVA-</p>
-<p class="cuerpo_tabla_izq">– OFICINA DEL DR. KONRAD BUTZ (SPORTNAVIGATION)</p>
-<p class="cuerpo_tabla_izq">– ESCUELA AERONÁUTICA Y NAVAL A.AVI.</p>
+<p>(*)</p>
+<p>– CRUISING CLUB DE SUIZA (CCS)</p>
+<p>– ESCUELA DE VELA DE RORSCHACH (SEGELSCHULE)</p>
+<p>– INSTITUTO PARA LA NAVEGACIÓN EN ALTA MAR -NAVEGACIÓN DEPORTIVA-</p>
+<p>– OFICINA DEL DR. KONRAD BUTZ (SPORTNAVIGATION)</p>
+<p>– ESCUELA AERONÁUTICA Y NAVAL A.AVI.</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Permisos de la Jefaturas cantonales de navegación</p>
+<p>Permisos de la Jefaturas cantonales de navegación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Navegación en aguas interiores.</p>
+<p>Navegación en aguas interiores.</p>
 </td>
 </tr>
 </tbody>

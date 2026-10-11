@@ -601,417 +601,412 @@ Madrid, 31 de enero de 2025.–El Ministro de Política Territorial y Memoria De
 
 ## ANEXO I — Relación de entidades beneficiarias de las subvenciones e importe concedido
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Provincia</th>
-<th class="cabeza_tabla">Entidad beneficiaria</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe de subvención concedido</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Provincia</th>
+<th>Entidad beneficiaria</th>
+<th>
+<p>Importe de subvención concedido</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Letur.</td>
-<td class="cuerpo_tabla_coma">10.961.823,45</td>
+<td>Albacete.</td>
+<td>Ayuntamiento de Letur.</td>
+<td>10.961.823,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Mira.</td>
-<td class="cuerpo_tabla_coma">11.761.602,33</td>
+<td>Cuenca.</td>
+<td>Ayuntamiento de Mira.</td>
+<td>11.761.602,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alhaurín de la Torre.</td>
-<td class="cuerpo_tabla_coma">1.634.183,81</td>
+<td>Málaga.</td>
+<td>Ayuntamiento de Alhaurín de la Torre.</td>
+<td>1.634.183,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alaquàs.</td>
-<td class="cuerpo_tabla_coma">7.800.592,16</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alaquàs.</td>
+<td>7.800.592,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Albal.</td>
-<td class="cuerpo_tabla_coma">29.989.044,34</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Albal.</td>
+<td>29.989.044,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Albalat de la Ribera.</td>
-<td class="cuerpo_tabla_coma">1.874.466,47</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Albalat de la Ribera.</td>
+<td>1.874.466,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alborache.</td>
-<td class="cuerpo_tabla_coma">6.936.661,57</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alborache.</td>
+<td>6.936.661,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alcàsser.</td>
-<td class="cuerpo_tabla_coma">2.111.831,24</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alcàsser.</td>
+<td>2.111.831,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alcúdia, l'.</td>
-<td class="cuerpo_tabla_coma">37.378.723,64</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alcúdia, l'.</td>
+<td>37.378.723,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Aldaia.</td>
-<td class="cuerpo_tabla_coma">39.545.627,94</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Aldaia.</td>
+<td>39.545.627,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alfafar.</td>
-<td class="cuerpo_tabla_coma">35.307.142,84</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alfafar.</td>
+<td>35.307.142,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alfarb.</td>
-<td class="cuerpo_tabla_coma">6.786.085,06</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alfarb.</td>
+<td>6.786.085,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Algemesí.</td>
-<td class="cuerpo_tabla_coma">127.709.035,77</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Algemesí.</td>
+<td>127.709.035,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alginet.</td>
-<td class="cuerpo_tabla_coma">22.139.510,22</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alginet.</td>
+<td>22.139.510,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Almussafes.</td>
-<td class="cuerpo_tabla_coma">75.722,63</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Almussafes.</td>
+<td>75.722,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Alzira.</td>
-<td class="cuerpo_tabla_coma">20.907.189,62</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Alzira.</td>
+<td>20.907.189,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Benetússer.</td>
-<td class="cuerpo_tabla_coma">48.718.549,83</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Benetússer.</td>
+<td>48.718.549,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Benicull de Xúquer.</td>
-<td class="cuerpo_tabla_coma">280.233,30</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Benicull de Xúquer.</td>
+<td>280.233,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Benifaió.</td>
-<td class="cuerpo_tabla_coma">597.589,56</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Benifaió.</td>
+<td>597.589,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Beniparrell.</td>
-<td class="cuerpo_tabla_coma">5.353.301,15</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Beniparrell.</td>
+<td>5.353.301,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Bugarra.</td>
-<td class="cuerpo_tabla_coma">7.560.899,84</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Bugarra.</td>
+<td>7.560.899,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Buñol.</td>
-<td class="cuerpo_tabla_coma">14.528.552,14</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Buñol.</td>
+<td>14.528.552,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Calles.</td>
-<td class="cuerpo_tabla_coma">3.518.298,17</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Calles.</td>
+<td>3.518.298,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Camporrobles.</td>
-<td class="cuerpo_tabla_coma">3.500.125,08</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Camporrobles.</td>
+<td>3.500.125,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Carlet.</td>
-<td class="cuerpo_tabla_coma">13.155.895,62</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Carlet.</td>
+<td>13.155.895,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Catadau.</td>
-<td class="cuerpo_tabla_coma">2.059.667,86</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Catadau.</td>
+<td>2.059.667,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Catarroja.</td>
-<td class="cuerpo_tabla_coma">138.097.936,09</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Catarroja.</td>
+<td>138.097.936,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Caudete de las Fuentes.</td>
-<td class="cuerpo_tabla_coma">1.383.569,93</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Caudete de las Fuentes.</td>
+<td>1.383.569,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Chera.</td>
-<td class="cuerpo_tabla_coma">4.372.298,12</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Chera.</td>
+<td>4.372.298,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Cheste.</td>
-<td class="cuerpo_tabla_coma">14.381.417,09</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Cheste.</td>
+<td>14.381.417,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Chiva.</td>
-<td class="cuerpo_tabla_coma">36.233.740,28</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Chiva.</td>
+<td>36.233.740,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Corbera.</td>
-<td class="cuerpo_tabla_coma">1.023.856,01</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Corbera.</td>
+<td>1.023.856,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Cullera.</td>
-<td class="cuerpo_tabla_coma">8.596.688,46</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Cullera.</td>
+<td>8.596.688,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Dos Aguas.</td>
-<td class="cuerpo_tabla_coma">1.897.224,46</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Dos Aguas.</td>
+<td>1.897.224,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Favara.</td>
-<td class="cuerpo_tabla_coma">8.039.553,53</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Favara.</td>
+<td>8.039.553,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Fortaleny.</td>
-<td class="cuerpo_tabla_coma">235.881,90</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Fortaleny.</td>
+<td>235.881,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Fuenterrobles.</td>
-<td class="cuerpo_tabla_coma">4.296.783,50</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Fuenterrobles.</td>
+<td>4.296.783,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Gestalgar.</td>
-<td class="cuerpo_tabla_coma">8.263.814,46</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Gestalgar.</td>
+<td>8.263.814,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Godelleta.</td>
-<td class="cuerpo_tabla_coma">16.791.184,84</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Godelleta.</td>
+<td>16.791.184,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Guadassuar.</td>
-<td class="cuerpo_tabla_coma">5.960.317,82</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Guadassuar.</td>
+<td>5.960.317,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Llaurí.</td>
-<td class="cuerpo_tabla_coma">26.960,00</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Llaurí.</td>
+<td>26.960,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Llíria.</td>
-<td class="cuerpo_tabla_coma">1.401.786,01</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Llíria.</td>
+<td>1.401.786,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Llocnou de la Corona.</td>
-<td class="cuerpo_tabla_coma">185.550,00</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Llocnou de la Corona.</td>
+<td>185.550,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Llombai.</td>
-<td class="cuerpo_tabla_coma">3.342.197,86</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Llombai.</td>
+<td>3.342.197,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Loriguilla.</td>
-<td class="cuerpo_tabla_coma">4.040.075,66</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Loriguilla.</td>
+<td>4.040.075,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Macastre.</td>
-<td class="cuerpo_tabla_coma">2.383.701,68</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Macastre.</td>
+<td>2.383.701,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Manises.</td>
-<td class="cuerpo_tabla_coma">23.240.617,17</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Manises.</td>
+<td>23.240.617,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Massanassa.</td>
-<td class="cuerpo_tabla_coma">54.857.171,94</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Massanassa.</td>
+<td>54.857.171,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Mislata.</td>
-<td class="cuerpo_tabla_coma">7.204.003,46</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Mislata.</td>
+<td>7.204.003,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Montroi.</td>
-<td class="cuerpo_tabla_coma">9.341.760,44</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Montroi.</td>
+<td>9.341.760,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Montserrat.</td>
-<td class="cuerpo_tabla_coma">27.163.203,42</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Montserrat.</td>
+<td>27.163.203,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Paiporta.</td>
-<td class="cuerpo_tabla_coma">201.450.522,62</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Paiporta.</td>
+<td>201.450.522,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Paterna.</td>
-<td class="cuerpo_tabla_coma">9.051.040,70</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Paterna.</td>
+<td>9.051.040,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Pedralba.</td>
-<td class="cuerpo_tabla_coma">5.136.366,64</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Pedralba.</td>
+<td>5.136.366,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Picanya.</td>
-<td class="cuerpo_tabla_coma">71.108.466,53</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Picanya.</td>
+<td>71.108.466,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Picassent.</td>
-<td class="cuerpo_tabla_coma">15.726.307,41</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Picassent.</td>
+<td>15.726.307,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Polinyà de Xúquer.</td>
-<td class="cuerpo_tabla_coma">986.472,50</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Polinyà de Xúquer.</td>
+<td>986.472,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Quart de Poblet.</td>
-<td class="cuerpo_tabla_coma">32.100.004,05</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Quart de Poblet.</td>
+<td>32.100.004,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Real.</td>
-<td class="cuerpo_tabla_coma">31.322.768,24</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Real.</td>
+<td>31.322.768,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Requena.</td>
-<td class="cuerpo_tabla_coma">35.072.742,23</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Requena.</td>
+<td>35.072.742,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Riba-roja de Túria.</td>
-<td class="cuerpo_tabla_coma">14.553.099,88</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Riba-roja de Túria.</td>
+<td>14.553.099,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Riola.</td>
-<td class="cuerpo_tabla_coma">2.453.070,64</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Riola.</td>
+<td>2.453.070,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Sedaví.</td>
-<td class="cuerpo_tabla_coma">41.503.530,85</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Sedaví.</td>
+<td>41.503.530,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Siete Aguas.</td>
-<td class="cuerpo_tabla_coma">7.600.727,94</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Siete Aguas.</td>
+<td>7.600.727,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Silla.</td>
-<td class="cuerpo_tabla_coma">6.600.077,39</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Silla.</td>
+<td>6.600.077,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Sinarcas.</td>
-<td class="cuerpo_tabla_coma">10.191.178,15</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Sinarcas.</td>
+<td>10.191.178,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Sollana.</td>
-<td class="cuerpo_tabla_coma">10.696.578,43</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Sollana.</td>
+<td>10.696.578,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Sot de Chera.</td>
-<td class="cuerpo_tabla_coma">11.021.008,80</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Sot de Chera.</td>
+<td>11.021.008,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Sueca.</td>
-<td class="cuerpo_tabla_coma">1.077.450,36</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Sueca.</td>
+<td>1.077.450,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Tavernes de la Valldigna.</td>
-<td class="cuerpo_tabla_coma">2.761.373,84</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Tavernes de la Valldigna.</td>
+<td>2.761.373,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Torrent.</td>
-<td class="cuerpo_tabla_coma">114.490.134,79</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Torrent.</td>
+<td>114.490.134,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Turís.</td>
-<td class="cuerpo_tabla_coma">9.450.788,35</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Turís.</td>
+<td>9.450.788,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Utiel.</td>
-<td class="cuerpo_tabla_coma">46.385.969,71</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Utiel.</td>
+<td>46.385.969,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Valencia.</td>
-<td class="cuerpo_tabla_coma">137.235.467,22</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Valencia.</td>
+<td>137.235.467,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Vilamarxant.</td>
-<td class="cuerpo_tabla_coma">9.851.955,11</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Vilamarxant.</td>
+<td>9.851.955,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Xirivella.</td>
-<td class="cuerpo_tabla_coma">10.475.400,22</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Xirivella.</td>
+<td>10.475.400,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Ayuntamiento de Yátova.</td>
-<td class="cuerpo_tabla_coma">7.580.702,04</td>
+<td>Valencia/València.</td>
+<td>Ayuntamiento de Yátova.</td>
+<td>7.580.702,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valencia/València.</td>
-<td class="cuerpo_tabla_izq">Diputación Provincial de Valencia.</td>
-<td class="cuerpo_tabla_coma">54.473.250,00</td>
+<td>Valencia/València.</td>
+<td>Diputación Provincial de Valencia.</td>
+<td>54.473.250,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Total.</td>
-<td class="cuerpo_tabla_coma" colspan="2">1.745.310.104,41</td>
+<td colspan="2"> Total.</td>
+<td colspan="2">1.745.310.104,41</td>
 </tr>
 </tbody>
 </table>

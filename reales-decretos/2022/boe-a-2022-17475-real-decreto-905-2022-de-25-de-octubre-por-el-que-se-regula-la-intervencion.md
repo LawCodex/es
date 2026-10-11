@@ -20,8 +20,6 @@ retrieved: 2026-10-11
 
 # Real Decreto 905/2022, de 25 de octubre, por el que se regula la Intervención Sectorial Vitivinícola en el marco del Plan Estratégico de la Política Agrícola Común
 
-Téngase en cuenta las previsiones establecidas por el Real Decreto 785/2023, de 17 de octubre, por el que se desarrollan determinadas disposiciones de la Unión Europea que establecen medidas para responder a problemas específicos en los sectores de frutas y hortalizas y vitivinícola causados por fenómenos meteorológicos adversos y por las perturbaciones del mercado. [Ref. BOE-A-2023-21476](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21476)
-
 El Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la Política Agrícola Común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (FEADER), y por el que se derogan los Reglamentos (UE) n.º 1305/2013 y (UE) n.º 1307/2013, contempla en su artículo 57 y siguientes los tipos de intervenciones a realizar en el sector vitivinícola y la ayuda financiera de la Unión para esta intervención.
 
 Este nuevo Reglamento supone un cambio sustancial en la PAC, que pasa a ser una política orientada a la consecución de resultados concretos, vinculados a los tres objetivos generales del artículo 5 del Reglamento, esto es, fomentar un sector agrícola inteligente, competitivo, resiliente y diversificado que garantice la seguridad alimentaria a largo plazo; apoyar y reforzar la protección del medio ambiente, incluida la biodiversidad, y la acción por el clima y contribuir a alcanzar los objetivos medioambientales y climáticos de la Unión, entre ellos los compromisos contraídos en virtud del Acuerdo de París y fortalecer el tejido socioeconómico de las zonas rurales. Esta nueva orientación se articula sobre una mayor subsidiariedad a los Estados miembros, que deberán ser quienes sobre la base de la situación y necesidades específicas los que deberán diseñar sus propias intervenciones. Con este nuevo enfoque, España, tras un análisis riguroso de la situación de partida, que ha permitido identificar y priorizar las necesidades vinculadas a cada uno de estos objetivos, cuenta con un Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, que tiene como objetivo el desarrollo sostenible de la agricultura, la alimentación y las zonas rurales para garantizar la seguridad alimentaria de la sociedad a través de un sector competitivo y un medio rural vivo, el cual ha sido aprobado por la Comisión Europea el 31 de agosto de 2022.
@@ -2356,69 +2354,65 @@ LUIS PLANAS PUCHADES
 
 ## ANEXO I — Acciones subvencionables
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col width="28%">
-<col width="72%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Operación</th>
-<th class="cabeza_tabla">Acciones</th>
+<th>Operación</th>
+<th>Acciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">a) Replantación con/sin sistema de conducción.</td>
-<td class="cuerpo_tabla_izq">Arranque y recogida de cepas.</td>
+<td rowspan="10">a) Replantación con/sin sistema de conducción.</td>
+<td>Arranque y recogida de cepas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Preparación del suelo (esta acción podrá incluir según la normativa autonómica y siempre que esté incluido en el estudio de costes correspondiente, las labores de: labor profunda, labor superficial, pase de rodillo, abonado u otras labores específicas según la zona, etc.).</td>
+<td>Preparación del suelo (esta acción podrá incluir según la normativa autonómica y siempre que esté incluido en el estudio de costes correspondiente, las labores de: labor profunda, labor superficial, pase de rodillo, abonado u otras labores específicas según la zona, etc.).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reposición de picón.</td>
+<td>Reposición de picón.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desinfección del terreno.</td>
+<td>Desinfección del terreno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Despedregado.</td>
+<td>Despedregado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nivelación del terreno.</td>
+<td>Nivelación del terreno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abancalamiento.</td>
+<td>Abancalamiento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Planta y Plantación.</td>
+<td>Planta y Plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protectores que rodean la planta (material y colocación).</td>
+<td>Protectores que rodean la planta (material y colocación).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de conducción (material y colocación).</td>
+<td>Sistema de conducción (material y colocación).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Reconversión de viñedos por cambio de variedad.</td>
-<td class="cuerpo_tabla_izq">Sobreinjertado (material e injerto).</td>
+<td>b) Reconversión de viñedos por cambio de variedad.</td>
+<td>Sobreinjertado (material e injerto).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Mejora de técnicas de gestión.</td>
-<td class="cuerpo_tabla_izq">Instalación del sistema de conducción (material y colocación) (esta acción podrá incluir según la normativa autonómica y siempre que esté incluido en el estudio de costes correspondiente la labor de poda).</td>
+<td>c) Mejora de técnicas de gestión.</td>
+<td>Instalación del sistema de conducción (material y colocación) (esta acción podrá incluir según la normativa autonómica y siempre que esté incluido en el estudio de costes correspondiente la labor de poda).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">d) Replantación tras arranque por motivos sanitarios o fitosanitarios.</td>
-<td class="cuerpo_tabla_izq">Preparación del suelo (esta acción podrá incluir según la normativa autonómica y siempre que esté incluido en el estudio de costes correspondiente las labores de: Labor profunda, labor superficial, pase de rodillo, abonado u otras labores específicas según la zona, etc.).</td>
+<td rowspan="4">d) Replantación tras arranque por motivos sanitarios o fitosanitarios.</td>
+<td>Preparación del suelo (esta acción podrá incluir según la normativa autonómica y siempre que esté incluido en el estudio de costes correspondiente las labores de: Labor profunda, labor superficial, pase de rodillo, abonado u otras labores específicas según la zona, etc.).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desinfección del terreno.</td>
+<td>Desinfección del terreno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Protectores que rodean la planta (material y colocación).</td>
+<td>Protectores que rodean la planta (material y colocación).</td>
 </tr>
 </tbody>
 </table>
@@ -2433,198 +2427,186 @@ Las comunidades autónomas podrán subvencionar el coste específico (adicional)
 
 ## ANEXO II — Operaciones subvencionables
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">A. Características de las operaciones, objetivos globales perseguidos y acciones mínimas para su cumplimiento</p>
+<p>A. Características de las operaciones, objetivos globales perseguidos y acciones mínimas para su cumplimiento</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Operación</th>
-<th class="cabeza_tabla">Característica de la operación</th>
-<th class="cabeza_tabla">Objetivo global que persigue la operación en función de cada característica</th>
-<th class="cabeza_tabla">Acciones mínimas, de las incluidas en el anexo I, que debe incluir la operación para cumplir el objetivo global<sup>(*)</sup></th>
-<th class="cabeza_tabla">Todas las acciones que puede contener la operación</th>
+<th>Operación</th>
+<th>Característica de la operación</th>
+<th>Objetivo global que persigue la operación en función de cada característica</th>
+<th>Acciones mínimas, de las incluidas en el anexo I, que debe incluir la operación para cumplir el objetivo global<sup>(*)</sup></th>
+<th>Todas las acciones que puede contener la operación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">
-<p class="cuerpo_tabla_izq">Replantación con o sin sistema de conducción (operación anual o bienal)<sup>(1)</sup>.</p>
+<td rowspan="12">
+<p>Replantación con o sin sistema de conducción (operación anual o bienal)<sup>(1)</sup>.</p>
 </td>
-<td class="cuerpo_tabla_izq">a) Con variedades incluidas en DOP/IGP.</td>
-<td class="cuerpo_tabla_izq">Mejorar o mantener la competitividad.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
-<td class="cuerpo_tabla_izq" rowspan="12">Ver anexo I.</td>
+<td>a) Con variedades incluidas en DOP/IGP.</td>
+<td>Mejorar o mantener la competitividad.</td>
+<td>Planta y plantación.</td>
+<td rowspan="12">Ver anexo I.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Que implique una disminución de la densidad respecto de la plantación.</td>
-<td class="cuerpo_tabla_izq">Reducción de insumos y conservación suelos.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>b) Que implique una disminución de la densidad respecto de la plantación.</td>
+<td>Reducción de insumos y conservación suelos.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Que transforme a secano o se mantenga la superficie del viñedo en secano.</td>
-<td class="cuerpo_tabla_izq">Gestión de los recursos hídricos.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>c) Que transforme a secano o se mantenga la superficie del viñedo en secano.</td>
+<td>Gestión de los recursos hídricos.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">d) Con abancalamiento.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Resistencia de la producción al riesgo de erosión del suelo.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td rowspan="2">d) Con abancalamiento.</td>
+<td rowspan="2">Resistencia de la producción al riesgo de erosión del suelo.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abancalamiento.</td>
+<td>Abancalamiento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">e) Con instalación de un sistema de conducción sostenible.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Mejora del medio ambiente.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td rowspan="2">e) Con instalación de un sistema de conducción sostenible.</td>
+<td rowspan="2">Mejora del medio ambiente.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de conducción (material y colocación).</td>
+<td>Sistema de conducción (material y colocación).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">f) Con cambio de ubicación a zonas edafoclimáticamente óptimas para su adaptación al cambio climático.</td>
-<td class="cuerpo_tabla_izq">Adaptación al cambio climático.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>f) Con cambio de ubicación a zonas edafoclimáticamente óptimas para su adaptación al cambio climático.</td>
+<td>Adaptación al cambio climático.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">g) Con cambio de ubicación a zonas de montaña.</td>
-<td class="cuerpo_tabla_izq">Adaptación al cambio climático.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>g) Con cambio de ubicación a zonas de montaña.</td>
+<td>Adaptación al cambio climático.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">h) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
-<td class="cuerpo_tabla_izq">Adaptación al cambio climático.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>h) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
+<td>Adaptación al cambio climático.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">i) Que implique una reubicación de unos o más viñedos arrancados con el objeto de unificarlos en una misma parcela vitícola que faciliten las operaciones de laboreo y recolección.</td>
-<td class="cuerpo_tabla_izq">Mejora del medio ambiente, reduciendo la emisión de contaminantes.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>i) Que implique una reubicación de unos o más viñedos arrancados con el objeto de unificarlos en una misma parcela vitícola que faciliten las operaciones de laboreo y recolección.</td>
+<td>Mejora del medio ambiente, reduciendo la emisión de contaminantes.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ninguna característica de las anteriores.</td>
-<td class="cuerpo_tabla_izq">Mejorar o mantener la competitividad.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
+<td>Ninguna característica de las anteriores.</td>
+<td>Mejorar o mantener la competitividad.</td>
+<td>Planta y plantación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Reconversión de viñedos mediante cambio de variedad: sobreinjertado (operación anual).</td>
-<td class="cuerpo_tabla_izq">j) Con variedades incluidas en DOP/IGP.</td>
-<td class="cuerpo_tabla_izq">Mejorar o mantener la competitividad.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Sobreinjertado (material e injerto).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Ver anexo I.</td>
+<td rowspan="3">Reconversión de viñedos mediante cambio de variedad: sobreinjertado (operación anual).</td>
+<td>j) Con variedades incluidas en DOP/IGP.</td>
+<td>Mejorar o mantener la competitividad.</td>
+<td rowspan="3">Sobreinjertado (material e injerto).</td>
+<td rowspan="3">Ver anexo I.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">k) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
-<td class="cuerpo_tabla_izq">Adaptación al cambio climático.</td>
+<td>k) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
+<td>Adaptación al cambio climático.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ninguna característica de las anteriores<sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq">Mejorar o mantener la competitividad.</td>
+<td>Ninguna característica de las anteriores<sup>(2)</sup>.</td>
+<td>Mejorar o mantener la competitividad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de técnicas de gestión (operación anual).</td>
-<td class="cuerpo_tabla_izq">l) Cambio del sistema de conducción existente a un sistema de conducción más sostenible.</td>
-<td class="cuerpo_tabla_izq">Mejora del medio ambiente.</td>
-<td class="cuerpo_tabla_izq">Instalación del sistema de conducción (material y colocación).</td>
-<td class="cuerpo_tabla_izq">Ver anexo I.</td>
+<td>Mejora de técnicas de gestión (operación anual).</td>
+<td>l) Cambio del sistema de conducción existente a un sistema de conducción más sostenible.</td>
+<td>Mejora del medio ambiente.</td>
+<td>Instalación del sistema de conducción (material y colocación).</td>
+<td>Ver anexo I.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Replantación por arranque por motivos sanitarios o fitosanitarios por orden de la autoridad competente.</td>
-<td class="cuerpo_tabla_izq">No se aplica.</td>
-<td class="cuerpo_tabla_izq">Replantar.</td>
-<td class="cuerpo_tabla_izq">Planta y plantación.</td>
-<td class="cuerpo_tabla_izq">Ver anexo I.</td>
+<td>Replantación por arranque por motivos sanitarios o fitosanitarios por orden de la autoridad competente.</td>
+<td>No se aplica.</td>
+<td>Replantar.</td>
+<td>Planta y plantación.</td>
+<td>Ver anexo I.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(*) </sup>Las comunidades autónomas podrán establecer acciones adicionales para considerar cumplido el objetivo global de la operación.</p>
-<p class="cita"><sup>(1) </sup>Cualquier cambio de portainjerto justificado por razones de cambio climático manteniendo la misma variedad de la uva de vinificación siempre que se demuestre la contribución positiva al objetivo medioambiental y climático relacionados en el artículo 12.1.g) del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, es subvencionable.</p>
-<p class="cita"><sup>(2) </sup>Cualquier cambio de variedad o incluso un cambio de clon de una variedad por otro clon de la misma variedad mediante injertos, manteniendo la misma variedad de la uva de vinificación, con el fin de, entre otras cosas, reducir el exceso de vigor vegetal y aumentar la resistencia a las enfermedades, es subvencionable dentro de este tipo de operaciones ya que son clones con características diferentes, según interpretación de la Comisión en Ares 5934537 de 25 de agosto de 2022.</p>
+<p><sup>(*) </sup>Las comunidades autónomas podrán establecer acciones adicionales para considerar cumplido el objetivo global de la operación.</p>
+<p><sup>(1) </sup>Cualquier cambio de portainjerto justificado por razones de cambio climático manteniendo la misma variedad de la uva de vinificación siempre que se demuestre la contribución positiva al objetivo medioambiental y climático relacionados en el artículo 12.1.g) del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, es subvencionable.</p>
+<p><sup>(2) </sup>Cualquier cambio de variedad o incluso un cambio de clon de una variedad por otro clon de la misma variedad mediante injertos, manteniendo la misma variedad de la uva de vinificación, con el fin de, entre otras cosas, reducir el exceso de vigor vegetal y aumentar la resistencia a las enfermedades, es subvencionable dentro de este tipo de operaciones ya que son clones con características diferentes, según interpretación de la Comisión en Ares 5934537 de 25 de agosto de 2022.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">B. Objetivos medioambientales y climáticos (recogidos en el artículo 12.1 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, que cumplen las operaciones con cada una de las siguientes características</p>
+<p>B. Objetivos medioambientales y climáticos (recogidos en el artículo 12.1 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, que cumplen las operaciones con cada una de las siguientes características</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Operación</th>
-<th class="cabeza_tabla">Característica de la operación</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Objetivo medioambiental y climático de los recogidos en el artículo 12.1 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021</p>
+<th>Operación</th>
+<th>Característica de la operación</th>
+<th>
+<p>Objetivo medioambiental y climático de los recogidos en el artículo 12.1 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Replantación con o sin sistema de conducción<sup>(3)</sup>.</td>
-<td class="cuerpo_tabla_izq">b) Que implique una disminución de la densidad respecto de la plantación.</td>
-<td class="cuerpo_tabla_izq">(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
+<td rowspan="8">Replantación con o sin sistema de conducción<sup>(3)</sup>.</td>
+<td>b) Que implique una disminución de la densidad respecto de la plantación.</td>
+<td>(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Que transforme a secano o se mantenga la superficie del viñedo en secano.</td>
-<td class="cuerpo_tabla_izq">(d) Lograr una reducción del uso del agua.</td>
+<td>c) Que transforme a secano o se mantenga la superficie del viñedo en secano.</td>
+<td>(d) Lograr una reducción del uso del agua.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">d) Con abancalamiento.</td>
-<td class="cuerpo_tabla_izq">(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
+<td>d) Con abancalamiento.</td>
+<td>(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">e) Con instalación de un sistema de conducción sostenible.</td>
-<td class="cuerpo_tabla_izq">(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
+<td>e) Con instalación de un sistema de conducción sostenible.</td>
+<td>(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">f) Con cambio de ubicación a zonas edafoclimáticamente óptimas para su adaptación al cc.</td>
-<td class="cuerpo_tabla_izq">(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
+<td>f) Con cambio de ubicación a zonas edafoclimáticamente óptimas para su adaptación al cc.</td>
+<td>(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">g) Con cambio de ubicación a zonas de montaña.</td>
-<td class="cuerpo_tabla_izq">(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
+<td>g) Con cambio de ubicación a zonas de montaña.</td>
+<td>(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">h) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
-<td class="cuerpo_tabla_izq">(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
+<td>h) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
+<td>(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">i) Que implique una reubicación de unos o más viñedos arrancados con el objeto de unificarlos en una misma parcela vitícola que faciliten las operaciones de laboreo y recolección.</p>
+<td>
+<p>i) Que implique una reubicación de unos o más viñedos arrancados con el objeto de unificarlos en una misma parcela vitícola que faciliten las operaciones de laboreo y recolección.</p>
 </td>
-<td class="cuerpo_tabla_izq">(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
+<td>(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reconversión de viñedos por cambios de variedad<sup>(4)</sup>: Sobreinjertado.</td>
-<td class="cuerpo_tabla_izq">k) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
-<td class="cuerpo_tabla_izq">(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
+<td>Reconversión de viñedos por cambios de variedad<sup>(4)</sup>: Sobreinjertado.</td>
+<td>k) Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.</td>
+<td>(g) Aumentar la resistencia de la producción a los riesgos vinculados al cambio climático, como la erosión del suelo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de técnicas de gestión.</td>
-<td class="cuerpo_tabla_izq">l) Cambio del sistema de conducción existente a un sistema de conducción más sostenible.</td>
-<td class="cuerpo_tabla_izq">(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
+<td>Mejora de técnicas de gestión.</td>
+<td>l) Cambio del sistema de conducción existente a un sistema de conducción más sostenible.</td>
+<td>(a) Lograr una reducción del uso actual de los insumos de producción, de la emisión de contaminantes o de los residuos del proceso de producción.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita"><sup>(3) </sup>Cualquier cambio de portainjerto manteniendo la misma variedad de la uva de vinificación es subvencionable, siempre que se demuestre la contribución positiva al objetivo medioambiental y climático relacionado con el artículo 12.1.g) del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021.</p>
-<p class="cita"><sup>(4) </sup>Cualquier cambio de variedad o incluso un cambio de clon de una variedad por otro clon de la misma variedad mediante injertos, manteniendo la misma variedad de la uva de vinificación, con el fin de, entre otras cosas, reducir el exceso de vigor vegetal y aumentar la resistencia a las enfermedades, es subvencionable dentro de este tipo de operaciones. Estas operaciones, siempre que se demuestre la contribución positiva a uno o varios objetivos medioambientales relacionados en las letras a), d), h), o i) del artículo 12.1 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, el gasto correspondiente de la operación mencionada podrá contabilizarse para la compartimentación medioambiental obligatoria del vino y para ello la comunidad autónoma deberá comunicarlo según lo establecido en el anexo VIII.</p>
+<p><sup>(3) </sup>Cualquier cambio de portainjerto manteniendo la misma variedad de la uva de vinificación es subvencionable, siempre que se demuestre la contribución positiva al objetivo medioambiental y climático relacionado con el artículo 12.1.g) del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021.</p>
+<p><sup>(4) </sup>Cualquier cambio de variedad o incluso un cambio de clon de una variedad por otro clon de la misma variedad mediante injertos, manteniendo la misma variedad de la uva de vinificación, con el fin de, entre otras cosas, reducir el exceso de vigor vegetal y aumentar la resistencia a las enfermedades, es subvencionable dentro de este tipo de operaciones. Estas operaciones, siempre que se demuestre la contribución positiva a uno o varios objetivos medioambientales relacionados en las letras a), d), h), o i) del artículo 12.1 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, el gasto correspondiente de la operación mencionada podrá contabilizarse para la compartimentación medioambiental obligatoria del vino y para ello la comunidad autónoma deberá comunicarlo según lo establecido en el anexo VIII.</p>
 </td>
 </tr>
 </tfoot>
@@ -2636,44 +2618,38 @@ Las comunidades autónomas podrán subvencionar el coste específico (adicional)
 
 ## ANEXO III — Necesidades financieras para el ejercicio financiero siguiente (n+1) y presupuesto comprometido para el n+2
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Comunidad Autónoma</th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Convocatoria En Curso Año n.</p>
-<p class="cabeza_tabla">Necesidades financieras para:</p>
+<th rowspan="2">Comunidad Autónoma</th>
+<th colspan="3">
+<p>Convocatoria En Curso Año n.</p>
+<p>Necesidades financieras para:</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">El ejercicio financiero siguiente (n+1)</th>
-<th class="cabeza_tabla">El ejercicio financiero (n+2)</th>
+<th colspan="2">El ejercicio financiero siguiente (n+1)</th>
+<th>El ejercicio financiero (n+2)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de operaciones/programas.</td>
-<td class="cuerpo_tabla_izq">(*) De operaciones bienales aprobadas en la convocatoria del año (n-1) + recursos, retrasos por fuerza mayor etc.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">De operaciones/programas anuales solicitadas en la presente convocatoria</p>
-<p class="cuerpo_tabla_izq">(año n) + anticipos de bienales solicitados en la presente convocatoria (año n).</p>
+<td>N.º de operaciones/programas.</td>
+<td>(*) De operaciones bienales aprobadas en la convocatoria del año (n-1) + recursos, retrasos por fuerza mayor etc.</td>
+<td>
+<p>De operaciones/programas anuales solicitadas en la presente convocatoria</p>
+<p>(año n) + anticipos de bienales solicitados en la presente convocatoria (año n).</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(*) De operaciones bienales solicitadas en la presente convocatoria</p>
-<p class="cuerpo_tabla_izq">(año n).</p>
+<td>
+<p>(*) De operaciones bienales solicitadas en la presente convocatoria</p>
+<p>(año n).</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">(*) Para la intervención de promoción en terceros países no se contemplan programas bienales por lo que no será necesario rellenar la segunda y cuarta columna.</p>
+<p>(*) Para la intervención de promoción en terceros países no se contemplan programas bienales por lo que no será necesario rellenar la segunda y cuarta columna.</p>
 </td>
 </tr>
 </tfoot>
@@ -2681,66 +2657,61 @@ Las comunidades autónomas podrán subvencionar el coste específico (adicional)
 
 ## ANEXO IV — Contribución a los costes incurridos en las operaciones de reestructuración y reconversión de viñedos
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Contribución a los costes incurridos en las operaciones de reestructuración y reconversión de viñedos (CCI).</p>
-<p class="cabeza_tabla">CCI = CI*coeficiente 2.</p>
-<p class="cabeza_tabla">CI = Costes incurridos = Valor según pago. Mediante justificantes o BSCU.</p>
-<p class="cabeza_tabla">Coeficiente 2 = cálculo según el presente anexo</p>
+<th colspan="3">
+<p>Contribución a los costes incurridos en las operaciones de reestructuración y reconversión de viñedos (CCI).</p>
+<p>CCI = CI*coeficiente 2.</p>
+<p>CI = Costes incurridos = Valor según pago. Mediante justificantes o BSCU.</p>
+<p>Coeficiente 2 = cálculo según el presente anexo</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tipo de operación</th>
-<th class="cabeza_tabla">Operaciones que respondan a alguna de estas características</th>
-<th class="cabeza_tabla">Coeficiente 2</th>
+<th>Tipo de operación</th>
+<th>Operaciones que respondan a alguna de estas características</th>
+<th>Coeficiente 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">Replantación con o sin sistema de conducción.</p>
-<p class="cuerpo_tabla_izq">Reconversión de viñedos por cambios de variedad: sobreinjertado.</p>
-<p class="cuerpo_tabla_izq">Mejora de técnicas de gestión.</p>
+<td rowspan="8">
+<p>Replantación con o sin sistema de conducción.</p>
+<p>Reconversión de viñedos por cambios de variedad: sobreinjertado.</p>
+<p>Mejora de técnicas de gestión.</p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Operaciones cuyos beneficiarios cumplan con los criterios de prioridad nacionales</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">i) Beneficiarios inscritos en el registro de operadores de producción ecológica para el cultivo del viñedo.</td>
-<td class="cuerpo_tabla_izq" rowspan="5">0,75 para las regiones menos desarrolladas y 0,5 para el resto.</td>
+<td>i) Beneficiarios inscritos en el registro de operadores de producción ecológica para el cultivo del viñedo.</td>
+<td rowspan="5">0,75 para las regiones menos desarrolladas y 0,5 para el resto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ii) Beneficiarios inscritos en el registro de operadores de producción integrada en el cultivo del viñedo.</td>
+<td>ii) Beneficiarios inscritos en el registro de operadores de producción integrada en el cultivo del viñedo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">iii) Beneficiarios titulares de viñedo que estén integrados en una ATRIA u entidad equivalente, según lo especificado en artículo 9.1.c).</td>
+<td>iii) Beneficiarios titulares de viñedo que estén integrados en una ATRIA u entidad equivalente, según lo especificado en artículo 9.1.c).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">iv) Beneficiarios que en el año de presentación de la solicitud no cumplan más de 40 años.</td>
+<td>iv) Beneficiarios que en el año de presentación de la solicitud no cumplan más de 40 años.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">v) Beneficiarios que en año natural inmediatamente anterior a la solicitud de ayuda hayan contratado un seguro agrario en su explotación para el cultivo del viñedo.</td>
+<td>v) Beneficiarios que en año natural inmediatamente anterior a la solicitud de ayuda hayan contratado un seguro agrario en su explotación para el cultivo del viñedo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto de operaciones que no cumplan con los apartados anteriores.</td>
-<td class="cuerpo_tabla_izq">0,7 para las regiones menos desarrolladas y 0,45 para el resto, salvo que una comunidad haya establecido porcentajes inferiores en aplicación del artículo 11, apartados 3.a.2.º</td>
+<td>Resto de operaciones que no cumplan con los apartados anteriores.</td>
+<td>0,7 para las regiones menos desarrolladas y 0,45 para el resto, salvo que una comunidad haya establecido porcentajes inferiores en aplicación del artículo 11, apartados 3.a.2.º</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Para pendientes pronunciadas y terrazas en zonas en las que la inclinación sea superior al 40 % y siempre y cuando la comunidad autónoma así lo establezca en su normativa.</td>
-<td class="cuerpo_tabla_izq">0,8 en las regiones menos desarrolladas y 0,6 para el resto.</td>
+<td>Para pendientes pronunciadas y terrazas en zonas en las que la inclinación sea superior al 40 % y siempre y cuando la comunidad autónoma así lo establezca en su normativa.</td>
+<td>0,8 en las regiones menos desarrolladas y 0,6 para el resto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Replantación por arranque por motivos sanitarios o fitosanitarios por orden de la autoridad competente.</td>
-<td class="cuerpo_tabla_izq">Todas las operaciones de replantación.</td>
-<td class="cuerpo_tabla_izq">0,75 para las regiones menos desarrolladas y 0,5 para el resto.</td>
+<td>Replantación por arranque por motivos sanitarios o fitosanitarios por orden de la autoridad competente.</td>
+<td>Todas las operaciones de replantación.</td>
+<td>0,75 para las regiones menos desarrolladas y 0,5 para el resto.</td>
 </tr>
 </tbody>
 </table>
@@ -2751,29 +2722,25 @@ Las comunidades autónomas podrán subvencionar el coste específico (adicional)
 
 ## ANEXO V — Previsiones/estimaciones financieras de pago a 15 de octubre
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Comunidad Autónoma</th>
+<th colspan="2">Comunidad Autónoma</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">ESTIMACIONES DE PAGO A 15 DE OCTUBRE DEL EJERCICIO FINANCIERO EN CURSO (n).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">(*) ESTIMACIONES DE PAGO A 15 DE OCTUBRE DEL EJERCICIO FINANCIERO SIGUIENTE.</p>
-<p class="cuerpo_tabla_izq">(n+1).</p>
+<td>ESTIMACIONES DE PAGO A 15 DE OCTUBRE DEL EJERCICIO FINANCIERO EN CURSO (n).</td>
+<td>
+<p>(*) ESTIMACIONES DE PAGO A 15 DE OCTUBRE DEL EJERCICIO FINANCIERO SIGUIENTE.</p>
+<p>(n+1).</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(*) Para la intervención de promoción en terceros países no se contemplan programas bienales por lo que no será necesario rellenar la segunda columna.</p>
+<p>(*) Para la intervención de promoción en terceros países no se contemplan programas bienales por lo que no será necesario rellenar la segunda columna.</p>
 </td>
 </tr>
 </tfoot>
@@ -2781,56 +2748,51 @@ Las comunidades autónomas podrán subvencionar el coste específico (adicional)
 
 ## ANEXO VI — Compensación por pérdida de ingresos
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Compensación económica por pérdida de ingresos (CPI)</p>
-<p class="cabeza_tabla">CPI= PI*coeficiente 1</p>
-<p class="cabeza_tabla">PI: pérdida de ingresos = valor medio de la uva por el rendimiento medio en ámbito territorial</p>
-<p class="cabeza_tabla">Coeficiente 1: cálculo según el presente anexo</p>
+<th colspan="3">
+<p>Compensación económica por pérdida de ingresos (CPI)</p>
+<p>CPI= PI*coeficiente 1</p>
+<p>PI: pérdida de ingresos = valor medio de la uva por el rendimiento medio en ámbito territorial</p>
+<p>Coeficiente 1: cálculo según el presente anexo</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Tipo de operación</th>
-<th class="cabeza_tabla">Porcentaje máximo de compensación para la pérdida de ingresos y número máximo de campañas<sup>(*)</sup></th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Coeficiente 1:</p>
-<p class="cabeza_tabla">Varía en función del tipo de operación y el número de campañas máximas que se aplique la compensación.</p>
+<th>Tipo de operación</th>
+<th>Porcentaje máximo de compensación para la pérdida de ingresos y número máximo de campañas<sup>(*)</sup></th>
+<th>
+<p>Coeficiente 1:</p>
+<p>Varía en función del tipo de operación y el número de campañas máximas que se aplique la compensación.</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Replantación con o sin sistema de conducción.</td>
-<td class="cuerpo_tabla_izq">33  % (3 campañas).</td>
-<td class="cuerpo_tabla_coma">0,99</td>
+<td>Replantación con o sin sistema de conducción.</td>
+<td>33  % (3 campañas).</td>
+<td>0,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reconversión de viñedos por cambios de variedad: sobreinjertado.</td>
-<td class="cuerpo_tabla_izq">25  % (1 campaña).</td>
-<td class="cuerpo_tabla_coma">0,25</td>
+<td>Reconversión de viñedos por cambios de variedad: sobreinjertado.</td>
+<td>25  % (1 campaña).</td>
+<td>0,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de técnicas de gestión.</td>
-<td class="cuerpo_tabla_izq">25  % (1 campaña).</td>
-<td class="cuerpo_tabla_coma">0,25</td>
+<td>Mejora de técnicas de gestión.</td>
+<td>25  % (1 campaña).</td>
+<td>0,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Replantación por arranque por motivos sanitarios o fitosanitarios por la autoridad competente.</td>
-<td class="cuerpo_tabla_izq">No se aplica.</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Replantación por arranque por motivos sanitarios o fitosanitarios por la autoridad competente.</td>
+<td>No se aplica.</td>
+<td>0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita"><sup>(*) </sup>Las comunidades autónomas podrán establecer CPI menores a las definidas en este anexo, tanto en número de campañas como en % de compensación, siempre que lo justifiquen en sus respectivas convocatorias.</p>
+<p><sup>(*) </sup>Las comunidades autónomas podrán establecer CPI menores a las definidas en este anexo, tanto en número de campañas como en % de compensación, siempre que lo justifiquen en sus respectivas convocatorias.</p>
 </td>
 </tr>
 </tfoot>
@@ -2848,41 +2810,35 @@ Las comunidades autónomas podrán establecer cualquiera de estos dos tipos de c
 
 ## ANEXO VII — Cálculo de la ayuda según el tipo de operación
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">
-<p class="cabeza_tabla">Calculo de la ayuda según el tipo de operación =(CPI) +(CCI)</p>
-<p class="cabeza_tabla">CPI: compensación por pérdida de ingresos</p>
-<p class="cabeza_tabla">CCI: contribución a los costes incurridos</p>
+<th colspan="4">
+<p>Calculo de la ayuda según el tipo de operación =(CPI) +(CCI)</p>
+<p>CPI: compensación por pérdida de ingresos</p>
+<p>CCI: contribución a los costes incurridos</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">CPI= PI*coeficiente 1</th>
-<th class="cabeza_tabla" colspan="2">CCI= CI*coeficiente 2</th>
+<th colspan="2">CPI= PI*coeficiente 1</th>
+<th colspan="2">CCI= CI*coeficiente 2</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Pérdida de ingresos (PI)</th>
-<th class="cabeza_tabla">Coeficiente 1</th>
-<th class="cabeza_tabla">Costes incurridos (CI)</th>
-<th class="cabeza_tabla">Coeficiente 2</th>
+<th>Pérdida de ingresos (PI)</th>
+<th>Coeficiente 1</th>
+<th>Costes incurridos (CI)</th>
+<th>Coeficiente 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Valor medio de la uva de las tres últimas campañas (€/kg) x rendimiento medio de las tres últimas campañas (kg/ha) en el ámbito territorial en que se ubique la parcela objeto de ayuda.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Varía en función de lo establecido en el anexo VI.</td>
-<td class="cuerpo_tabla_izq">Pago mediante justificados presentados por los beneficiarios: límite máximo o coste justificado mediante facturas y justificantes de pago de cada acción, según corresponda + contribuciones en especie.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Varía en función de lo establecido en el anexo IV.</td>
+<td rowspan="2">Valor medio de la uva de las tres últimas campañas (€/kg) x rendimiento medio de las tres últimas campañas (kg/ha) en el ámbito territorial en que se ubique la parcela objeto de ayuda.</td>
+<td rowspan="2">Varía en función de lo establecido en el anexo VI.</td>
+<td>Pago mediante justificados presentados por los beneficiarios: límite máximo o coste justificado mediante facturas y justificantes de pago de cada acción, según corresponda + contribuciones en especie.</td>
+<td rowspan="2">Varía en función de lo establecido en el anexo IV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pago mediante BSCU: valor del coste unitario, incluyendo las contribuciones en especie.</td>
+<td>Pago mediante BSCU: valor del coste unitario, incluyendo las contribuciones en especie.</td>
 </tr>
 </tbody>
 </table>
@@ -3363,289 +3319,275 @@ b) El correspondiente a salas de exhibición (exposición y cata de productos vi
 
 ## ANEXO XIII — Criterios de prioridad de solicitantes en inversiones materiales e inmateriales en instalaciones de transformación y en infraestructuras vitivinícolas, así como en estructuras e instrumentos de comercialización
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="81%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">1. PRIORIZACIÓN DE SOLICITANTES. Máximo 40 puntos</th>
-<th class="cabeza_tabla">Rango de puntuación</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>1. PRIORIZACIÓN DE SOLICITANTES. Máximo 40 puntos</th>
+<th>Rango de puntuación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las Entidades Asociativas Prioritarias reconocidas para el sector del vino (incluidas multisectoriales) de acuerdo con el Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario. Asimismo, serán priorizadas sus entidades de base (reconocidas también para el sector del vino). También serán priorizadas las Entidades Asociativas Prioritarias regionales (incluidas multisectoriales) o figuras análogas reguladas en el ámbito autonómico, así como sus entidades de base (reconocidas también para el sector del vino).</td>
-<td class="cuerpo_tabla_centro">1-12</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td>Priorización de las Entidades Asociativas Prioritarias reconocidas para el sector del vino (incluidas multisectoriales) de acuerdo con el Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario. Asimismo, serán priorizadas sus entidades de base (reconocidas también para el sector del vino). También serán priorizadas las Entidades Asociativas Prioritarias regionales (incluidas multisectoriales) o figuras análogas reguladas en el ámbito autonómico, así como sus entidades de base (reconocidas también para el sector del vino).</td>
+<td>1-12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de los solicitantes asociativos (no acumulativos).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td>2</td>
+<td> </td>
+<td>Priorización de los solicitantes asociativos (no acumulativos).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Cooperativas y otras entidades asociativas agroalimentarias (SAT, sociedades mercantiles siempre que más del 50% de su capital social pertenezca a cooperativas o a SATs).</td>
-<td class="cuerpo_tabla_centro">1-9</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>Cooperativas y otras entidades asociativas agroalimentarias (SAT, sociedades mercantiles siempre que más del 50% de su capital social pertenezca a cooperativas o a SATs).</td>
+<td>1-9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Asociaciones, con personalidad jurídica propia, de dos o más productores de los productos mencionados en el ANEXO VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y no contempladas en el punto 1.2.1.</td>
-<td class="cuerpo_tabla_centro">1-9</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>Asociaciones, con personalidad jurídica propia, de dos o más productores de los productos mencionados en el ANEXO VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y no contempladas en el punto 1.2.1.</td>
+<td>1-9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de empresas que no han sido objeto de sanción firme grave o muy grave con base en lo previsto en la Ley 12/2013 de 2 de agosto de medidas para mejorar el funcionamiento de la cadena alimentaria en los dos años anteriores. A tal efecto se considerará la información incluida en la web de la Agencia de Información y Control Alimentarios (AICA) y la información publicada por la autoridad de la autoridad competente de la comunidad autónoma donde se presenta la solicitud.</td>
-<td class="cuerpo_tabla_centro">1-5</td>
+<td>1</td>
+<td>3</td>
+<td> </td>
+<td>Priorización de empresas que no han sido objeto de sanción firme grave o muy grave con base en lo previsto en la Ley 12/2013 de 2 de agosto de medidas para mejorar el funcionamiento de la cadena alimentaria en los dos años anteriores. A tal efecto se considerará la información incluida en la web de la Agencia de Información y Control Alimentarios (AICA) y la información publicada por la autoridad de la autoridad competente de la comunidad autónoma donde se presenta la solicitud.</td>
+<td>1-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de solicitantes cuyas instalaciones disponen de certificación medioambiental, que deberá ser aportada junto a la solicitud.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td>4</td>
+<td> </td>
+<td>Priorización de solicitantes cuyas instalaciones disponen de certificación medioambiental, que deberá ser aportada junto a la solicitud.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Según el Reglamento comunitario EMAS (Reglamento (CE) N.º 1221/2009) o la Norma ISO 14.001.</td>
-<td class="cuerpo_tabla_centro">1-7</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>Según el Reglamento comunitario EMAS (Reglamento (CE) N.º 1221/2009) o la Norma ISO 14.001.</td>
+<td>1-7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Certificado Wineries for Climate Protection.</td>
-<td class="cuerpo_tabla_centro">1-3</td>
+<td>1</td>
+<td>4</td>
+<td>2</td>
+<td>Certificado Wineries for Climate Protection.</td>
+<td>1-3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de empresas que tengan implantados sistemas de pago de uva u otra materia prima (incluido mosto y vino) por calidad para la totalidad de los pagos como mínimo durante los tres años anteriores a la fecha de la solicitud. Será acreditado mediante la aportación de normas de vendimia aprobadas por acuerdo de asamblea, junta rectora u órganos de la empresa o cualquier otro documento válido en derecho. No se considerarán dentro de este criterio los parámetros de calidad recogidos en pliegos de condiciones de Denominaciones de Origen e Indicaciones Geográficas Protegidas, ya que resultan de obligatorio cumplimiento a los operadores voluntariamente acogidos.</td>
-<td class="cuerpo_tabla_centro">1-14</td>
+<td>1</td>
+<td>5</td>
+<td> </td>
+<td>Priorización de empresas que tengan implantados sistemas de pago de uva u otra materia prima (incluido mosto y vino) por calidad para la totalidad de los pagos como mínimo durante los tres años anteriores a la fecha de la solicitud. Será acreditado mediante la aportación de normas de vendimia aprobadas por acuerdo de asamblea, junta rectora u órganos de la empresa o cualquier otro documento válido en derecho. No se considerarán dentro de este criterio los parámetros de calidad recogidos en pliegos de condiciones de Denominaciones de Origen e Indicaciones Geográficas Protegidas, ya que resultan de obligatorio cumplimiento a los operadores voluntariamente acogidos.</td>
+<td>1-14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de operadores que utilicen en sus operaciones correspondientes los contratos tipos plurianuales de uva y vinos vigentes a la fecha de entrega de la solicitud.</td>
-<td class="cuerpo_tabla_centro">1-5</td>
+<td>1</td>
+<td>6</td>
+<td> </td>
+<td>Priorización de operadores que utilicen en sus operaciones correspondientes los contratos tipos plurianuales de uva y vinos vigentes a la fecha de entrega de la solicitud.</td>
+<td>1-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de operadores de productos vitivinícolas ecológicos.</td>
-<td class="cuerpo_tabla_centro">1-5</td>
+<td>1</td>
+<td>7</td>
+<td> </td>
+<td>Priorización de operadores de productos vitivinícolas ecológicos.</td>
+<td>1-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de operadores acogidos a DOP o IGP.</td>
-<td class="cuerpo_tabla_centro">1-5</td>
+<td>1</td>
+<td>8</td>
+<td> </td>
+<td>Priorización de operadores acogidos a DOP o IGP.</td>
+<td>1-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de microempresas, pequeñas y medianas empresas<sup><sup>(1)</sup></sup>.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td>9</td>
+<td> </td>
+<td>Priorización de microempresas, pequeñas y medianas empresas<sup><sup>(1)</sup></sup>.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Priorización de microempresas.</td>
-<td class="cuerpo_tabla_centro">1-6</td>
+<td>1</td>
+<td>9</td>
+<td>1</td>
+<td>Priorización de microempresas.</td>
+<td>1-6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Priorización de pequeñas empresas.</td>
-<td class="cuerpo_tabla_centro">1-4</td>
+<td>1</td>
+<td>9</td>
+<td>2</td>
+<td>Priorización de pequeñas empresas.</td>
+<td>1-4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Priorización de medianas empresas.</td>
-<td class="cuerpo_tabla_centro">1-2</td>
+<td>1</td>
+<td>9</td>
+<td>3</td>
+<td>Priorización de medianas empresas.</td>
+<td>1-2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de solicitantes que sean elaboradores de vino y embotellen más del 51 % del vino elaborado, a tal fin se tomarán como referencia las elaboraciones de la campaña vitícola inmediatamente anterior a la fecha de registro de la solicitud de ayuda.</td>
-<td class="cuerpo_tabla_centro">1-5</td>
+<td>1</td>
+<td>10</td>
+<td> </td>
+<td>Priorización de solicitantes que sean elaboradores de vino y embotellen más del 51 % del vino elaborado, a tal fin se tomarán como referencia las elaboraciones de la campaña vitícola inmediatamente anterior a la fecha de registro de la solicitud de ayuda.</td>
+<td>1-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Solicitante que no tenga ayuda concedida en la medida/ intervención de inversiones en la Comunidad Autónoma en que presenta la solicitud en la convocatoria inmediatamente anterior. Ya sea con cargo al Programa de Apoyo al Sector del vino 2019-2023 en su última convocatoria o en la Intervención Sectorial Vitivinícola, según corresponda.</td>
-<td class="cuerpo_tabla_centro">1-4</td>
+<td>1</td>
+<td>11</td>
+<td> </td>
+<td>Solicitante que no tenga ayuda concedida en la medida/ intervención de inversiones en la Comunidad Autónoma en que presenta la solicitud en la convocatoria inmediatamente anterior. Ya sea con cargo al Programa de Apoyo al Sector del vino 2019-2023 en su última convocatoria o en la Intervención Sectorial Vitivinícola, según corresponda.</td>
+<td>1-4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Solicitante que no tenga ayuda concedida de más de 250.000 € en la medida/ intervención de inversiones en la Comunidad Autónoma en que presenta la solicitud en la convocatoria inmediatamente anterior. Ya sea con cargo al Programa de Apoyo al Sector del vino 2019-2023 en su última convocatoria o en la Intervención Sectorial del vino, según corresponda.</td>
-<td class="cuerpo_tabla_centro">1-2</td>
+<td>1</td>
+<td>12</td>
+<td> </td>
+<td>Solicitante que no tenga ayuda concedida de más de 250.000 € en la medida/ intervención de inversiones en la Comunidad Autónoma en que presenta la solicitud en la convocatoria inmediatamente anterior. Ya sea con cargo al Programa de Apoyo al Sector del vino 2019-2023 en su última convocatoria o en la Intervención Sectorial del vino, según corresponda.</td>
+<td>1-2</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(1)</sup> Los criterios 1.9.1, 1.9.2 y 1.9.3 son excluyentes entre sí.</p>
+<p><sup>(1)</sup> Los criterios 1.9.1, 1.9.2 y 1.9.3 son excluyentes entre sí.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="81%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">PRIORIZACIÓN DE OPERACIONES. Máximo 90 puntos</th>
-<th class="cabeza_tabla">Puntuación</th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>PRIORIZACIÓN DE OPERACIONES. Máximo 90 puntos</th>
+<th>Puntuación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones con inversiones orientadas al incremento de la eficiencia energética, siempre que esto supere 30% del importe de la inversión en el momento de la solicitud. En todas las solicitudes de inversiones, ya sean de nueva construcción o de mejora de instalaciones ya existentes, el solicitante deberá aportar un certificado, emitido por un experto independiente, que contemple los conceptos de gasto de la solicitud de ayuda relacionados con la eficiencia energética para demostrar que se supera el 30% del importe de la inversión en el momento de la solicitud. Además, para el caso de mejora de instalaciones ya existentes, dicho certificado deberá, además, acreditar un ahorro energético mínimo del 15%. A los efectos de la valoración de este criterio, se entenderán incluidos exclusivamente los conceptos que se detallan en el subapartado II de este apartado.</td>
-<td class="cuerpo_tabla_centro">1-19<sup><sup>(2)</sup></sup></td>
+<td>2</td>
+<td>1</td>
+<td> </td>
+<td>Priorización de las operaciones con inversiones orientadas al incremento de la eficiencia energética, siempre que esto supere 30% del importe de la inversión en el momento de la solicitud. En todas las solicitudes de inversiones, ya sean de nueva construcción o de mejora de instalaciones ya existentes, el solicitante deberá aportar un certificado, emitido por un experto independiente, que contemple los conceptos de gasto de la solicitud de ayuda relacionados con la eficiencia energética para demostrar que se supera el 30% del importe de la inversión en el momento de la solicitud. Además, para el caso de mejora de instalaciones ya existentes, dicho certificado deberá, además, acreditar un ahorro energético mínimo del 15%. A los efectos de la valoración de este criterio, se entenderán incluidos exclusivamente los conceptos que se detallan en el subapartado II de este apartado.</td>
+<td>1-19<sup><sup>(2)</sup></sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones con inversiones en uso de energías renovables, siempre que esto supere el 20% del importe de la inversión en el momento de la solicitud. A los efectos de la valoración de este criterio, se entenderán incluidos exclusivamente los conceptos que se detallan en el en el subapartado III de este apartado.</td>
-<td class="cuerpo_tabla_centro">1-19</td>
+<td>2</td>
+<td>2</td>
+<td> </td>
+<td>Priorización de las operaciones con inversiones en uso de energías renovables, siempre que esto supere el 20% del importe de la inversión en el momento de la solicitud. A los efectos de la valoración de este criterio, se entenderán incluidos exclusivamente los conceptos que se detallan en el en el subapartado III de este apartado.</td>
+<td>1-19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones con inversiones en el aprovechamiento de subproductos, el tratamiento y valorización de residuos y efluentes siempre que esto supere 20% del importe de la inversión en el momento de la solicitud.</td>
-<td class="cuerpo_tabla_centro">1-19</td>
+<td>2</td>
+<td>3</td>
+<td> </td>
+<td>Priorización de las operaciones con inversiones en el aprovechamiento de subproductos, el tratamiento y valorización de residuos y efluentes siempre que esto supere 20% del importe de la inversión en el momento de la solicitud.</td>
+<td>1-19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones con inversiones destinadas a la transformación de la totalidad de la producción de uva propia del solicitante. A tal efecto el solicitante no deberá tener la titularidad de una instalación de elaboración de los productos acogidos al presente real decreto y deberá aportar la titularidad de un viñedo.</td>
-<td class="cuerpo_tabla_centro">1-7</td>
+<td>2</td>
+<td>4</td>
+<td> </td>
+<td>Priorización de las operaciones con inversiones destinadas a la transformación de la totalidad de la producción de uva propia del solicitante. A tal efecto el solicitante no deberá tener la titularidad de una instalación de elaboración de los productos acogidos al presente real decreto y deberá aportar la titularidad de un viñedo.</td>
+<td>1-7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de operaciones con inversiones destinadas a la reducción del desperdicio alimentario<sup><sup>(3)</sup></sup> siempre que esto supere 5% del importe de la inversión en el momento de la solicitud.</td>
-<td class="cuerpo_tabla_centro">1-8</td>
+<td>2</td>
+<td>5</td>
+<td> </td>
+<td>Priorización de operaciones con inversiones destinadas a la reducción del desperdicio alimentario<sup><sup>(3)</sup></sup> siempre que esto supere 5% del importe de la inversión en el momento de la solicitud.</td>
+<td>1-8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones que se orientan en todo o en parte a la obtención de productos ecológicos.</td>
-<td class="cuerpo_tabla_centro">1-8</td>
+<td>2</td>
+<td>6</td>
+<td> </td>
+<td>Priorización de las operaciones que se orientan en todo o en parte a la obtención de productos ecológicos.</td>
+<td>1-8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones que se orientan en todo o en parte a los productos acogidos a regímenes de calidad: (no acumulativos).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td>7</td>
+<td> </td>
+<td>Priorización de las operaciones que se orientan en todo o en parte a los productos acogidos a regímenes de calidad: (no acumulativos).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Denominación de Origen Protegida.</td>
-<td class="cuerpo_tabla_centro">1-19</td>
+<td>2</td>
+<td>7</td>
+<td>1</td>
+<td>Denominación de Origen Protegida.</td>
+<td>1-19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Indicación Geográfica Protegida.</td>
-<td class="cuerpo_tabla_centro">1-13</td>
+<td>2</td>
+<td>7</td>
+<td>2</td>
+<td>Indicación Geográfica Protegida.</td>
+<td>1-13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Vino sin Indicación Geográfica con indicación de añada o variedad.</td>
-<td class="cuerpo_tabla_centro">1-4</td>
+<td>2</td>
+<td>7</td>
+<td>3</td>
+<td>Vino sin Indicación Geográfica con indicación de añada o variedad.</td>
+<td>1-4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones que se orientan a la comercialización en un porcentaje presupuestario mayor o igual al 30 %. A los efectos de la valoración de este criterio, se entenderán incluidos exclusivamente los conceptos que se detallan en el subapartado I de este apartado.</td>
-<td class="cuerpo_tabla_centro">1-19</td>
+<td>2</td>
+<td>8</td>
+<td> </td>
+<td>Priorización de las operaciones que se orientan a la comercialización en un porcentaje presupuestario mayor o igual al 30 %. A los efectos de la valoración de este criterio, se entenderán incluidos exclusivamente los conceptos que se detallan en el subapartado I de este apartado.</td>
+<td>1-19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de las operaciones destinadas a la transformación digital de la industria (industria conectada). A los efectos de la valoración de este criterio, se entenderán incluidos prioritariamente los conceptos que se detallan en el subapartado IV de este apartado. Además, el solicitante deberá presentar el informe del análisis de la madurez digital de la empresa a través de la «Herramienta de Autodiagnóstico Digital Avanzada l (HADA)».</td>
-<td class="cuerpo_tabla_centro">1-8</td>
+<td>2</td>
+<td>9</td>
+<td> </td>
+<td>Priorización de las operaciones destinadas a la transformación digital de la industria (industria conectada). A los efectos de la valoración de este criterio, se entenderán incluidos prioritariamente los conceptos que se detallan en el subapartado IV de este apartado. Además, el solicitante deberá presentar el informe del análisis de la madurez digital de la empresa a través de la «Herramienta de Autodiagnóstico Digital Avanzada l (HADA)».</td>
+<td>1-8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de operaciones de inversión provenientes del resultado de un grupo operativo de innovación de la Asociación Europea para la Innovación.</td>
-<td class="cuerpo_tabla_centro">1-8</td>
+<td>2</td>
+<td>10</td>
+<td> </td>
+<td>Priorización de operaciones de inversión provenientes del resultado de un grupo operativo de innovación de la Asociación Europea para la Innovación.</td>
+<td>1-8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Priorización de inversiones materiales orientadas a la implantación en el seno de la empresa de nuevos productos y nuevas presentaciones. No se considerará una ampliación o mejora de algo ya existente en el establecimiento del solicitante.</td>
-<td class="cuerpo_tabla_centro">1-13</td>
+<td>2</td>
+<td>11</td>
+<td> </td>
+<td>Priorización de inversiones materiales orientadas a la implantación en el seno de la empresa de nuevos productos y nuevas presentaciones. No se considerará una ampliación o mejora de algo ya existente en el establecimiento del solicitante.</td>
+<td>1-13</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(2)</sup> Ningún criterio podrá tener una puntuación superior a la de los criterios 2.1, 2.2 y 2.3</p>
-<p class="cita"><sup>(3)</sup> Se entenderá por reducción del desperdicio alimentario todo aquello que suponga una disminución de la cantidad de los productos aptos para consumo humano que se desechan como residuos, ya sea en el manejo de la materia prima, en los productos intermedios o en el producto acabado.</p>
+<p><sup>(2)</sup> Ningún criterio podrá tener una puntuación superior a la de los criterios 2.1, 2.2 y 2.3</p>
+<p><sup>(3)</sup> Se entenderá por reducción del desperdicio alimentario todo aquello que suponga una disminución de la cantidad de los productos aptos para consumo humano que se desechan como residuos, ya sea en el manejo de la materia prima, en los productos intermedios o en el producto acabado.</p>
 </td>
 </tr>
 </tfoot>
@@ -3783,639 +3725,607 @@ Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos d
 
 ## ANEXO XIV — Ponderación de criterios de prioridad
 
-<table class="tabla_girada">
-<colgroup>
-<col width="13%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="4">Comunidad Autónoma</th>
-<th class="cabeza_tabla" colspan="29">Criterios de prioridad</th>
+<th rowspan="4">Comunidad Autónoma</th>
+<th colspan="29">Criterios de prioridad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="16">Priorización de solicitantes</th>
-<th class="cabeza_tabla" colspan="13">Priorización de proyectos</th>
+<th colspan="16">Priorización de solicitantes</th>
+<th colspan="13">Priorización de proyectos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2">1.1</th>
-<th class="cabeza_tabla" colspan="2">1.2</th>
-<th class="cabeza_tabla" rowspan="2">1.3</th>
-<th class="cabeza_tabla" colspan="2">1.4</th>
-<th class="cabeza_tabla" rowspan="2">1.5</th>
-<th class="cabeza_tabla" rowspan="2">1.6</th>
-<th class="cabeza_tabla" rowspan="2">1.7</th>
-<th class="cabeza_tabla" rowspan="2">1.8</th>
-<th class="cabeza_tabla" colspan="3">1.9</th>
-<th class="cabeza_tabla" rowspan="2">1.10</th>
-<th class="cabeza_tabla" rowspan="2">1.11</th>
-<th class="cabeza_tabla" rowspan="2">1.12</th>
-<th class="cabeza_tabla" rowspan="2">2.1</th>
-<th class="cabeza_tabla" rowspan="2">2.2</th>
-<th class="cabeza_tabla" rowspan="2">2.3</th>
-<th class="cabeza_tabla" rowspan="2">2.4</th>
-<th class="cabeza_tabla" rowspan="2">2.5</th>
-<th class="cabeza_tabla" rowspan="2">2.6</th>
-<th class="cabeza_tabla" colspan="3">2.7</th>
-<th class="cabeza_tabla" rowspan="2">2.8</th>
-<th class="cabeza_tabla" rowspan="2">2.9</th>
-<th class="cabeza_tabla" rowspan="2">2.10</th>
-<th class="cabeza_tabla" rowspan="2">2.11</th>
+<th rowspan="2">1.1</th>
+<th colspan="2">1.2</th>
+<th rowspan="2">1.3</th>
+<th colspan="2">1.4</th>
+<th rowspan="2">1.5</th>
+<th rowspan="2">1.6</th>
+<th rowspan="2">1.7</th>
+<th rowspan="2">1.8</th>
+<th colspan="3">1.9</th>
+<th rowspan="2">1.10</th>
+<th rowspan="2">1.11</th>
+<th rowspan="2">1.12</th>
+<th rowspan="2">2.1</th>
+<th rowspan="2">2.2</th>
+<th rowspan="2">2.3</th>
+<th rowspan="2">2.4</th>
+<th rowspan="2">2.5</th>
+<th rowspan="2">2.6</th>
+<th colspan="3">2.7</th>
+<th rowspan="2">2.8</th>
+<th rowspan="2">2.9</th>
+<th rowspan="2">2.10</th>
+<th rowspan="2">2.11</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1.2.1</th>
-<th class="cabeza_tabla">1.2.2</th>
-<th class="cabeza_tabla">1.4.1</th>
-<th class="cabeza_tabla">1.4.2</th>
-<th class="cabeza_tabla">1.9.1</th>
-<th class="cabeza_tabla">1.9.2</th>
-<th class="cabeza_tabla">1.9.3</th>
-<th class="cabeza_tabla">2.7.1</th>
-<th class="cabeza_tabla">2.7.2</th>
-<th class="cabeza_tabla">2.7.3</th>
+<th>1.2.1</th>
+<th>1.2.2</th>
+<th>1.4.1</th>
+<th>1.4.2</th>
+<th>1.9.1</th>
+<th>1.9.2</th>
+<th>1.9.3</th>
+<th>2.7.1</th>
+<th>2.7.2</th>
+<th>2.7.3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Andalucía.</td>
+<td>1</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>13</td>
+<td>13</td>
+<td>12</td>
+<td>5</td>
+<td>2</td>
+<td>7</td>
+<td>12</td>
+<td>12</td>
+<td>4</td>
+<td>10</td>
+<td>5</td>
+<td>1</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aragón.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Aragón.</td>
+<td>1</td>
+<td>7</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>5</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+<td>13</td>
+<td>10</td>
+<td>3</td>
+<td>12</td>
+<td>8</td>
+<td>1</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Asturias.</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>6</td>
+<td>4</td>
+<td>1</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td>6</td>
+<td>1</td>
+<td>7</td>
+<td>13</td>
+<td>12</td>
+<td>3</td>
+<td>10</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares (Illes).</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Baleares (Illes).</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>9</td>
+<td>1</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>7</td>
+<td>1</td>
+<td>8</td>
+<td>14</td>
+<td>7</td>
+<td>1</td>
+<td>12</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canarias.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Canarias.</td>
+<td>1</td>
+<td>9</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>7</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td>7</td>
+<td>1</td>
+<td>4</td>
+<td>18</td>
+<td>13</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>Cantabria.</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>13</td>
+<td>8</td>
+<td>1</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla - La Mancha.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>Castilla - La Mancha.</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>5</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td>2</td>
+<td>1</td>
+<td>8</td>
+<td>13</td>
+<td>6</td>
+<td>3</td>
+<td>13</td>
+<td>2</td>
+<td>2</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Castilla y León.</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
+<td>18</td>
+<td>13</td>
+<td>4</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>Cataluña.</td>
+<td>1</td>
+<td>7</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>15</td>
+<td>15</td>
+<td>14</td>
+<td>4</td>
+<td>1</td>
+<td>8</td>
+<td>14</td>
+<td>1</td>
+<td>1</td>
+<td>13</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comunitat Valenciana.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Comunitat Valenciana.</td>
+<td>1</td>
+<td>8</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>17</td>
+<td>17</td>
+<td>17</td>
+<td>7</td>
+<td>4</td>
+<td>8</td>
+<td>13</td>
+<td>13</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Extremadura.</td>
+<td>1</td>
+<td>9</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>1</td>
+<td>4</td>
+<td>6</td>
+<td>14</td>
+<td>10</td>
+<td>4</td>
+<td>7</td>
+<td>6</td>
+<td>1</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td>Galicia.</td>
+<td>1</td>
+<td>7</td>
+<td>4</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td>3</td>
+<td>8</td>
+<td>8</td>
+<td>13</td>
+<td>10</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+<td>4</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Madrid</p>
-<p class="cuerpo_tabla_izq">(Comunidad de).</p>
+<td>
+<p>Madrid</p>
+<p>(Comunidad de).</p>
 </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1</td>
+<td>9</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td>2</td>
+<td>1</td>
+<td>5</td>
+<td>18</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Murcia</p>
-<p class="cuerpo_tabla_izq">(Región de).</p>
+<td>
+<p>Murcia</p>
+<p>(Región de).</p>
 </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>1</td>
+<td>7</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>2</td>
+<td>2</td>
+<td>7</td>
+<td>14</td>
+<td>5</td>
+<td>3</td>
+<td>6</td>
+<td>6</td>
+<td>1</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Navarra</p>
-<p class="cuerpo_tabla_izq">(Comunidad Foral de).</p>
+<td>
+<p>Navarra</p>
+<p>(Comunidad Foral de).</p>
 </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1</td>
+<td>7</td>
+<td>7</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>13</td>
+<td>10</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>País Vasco.</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6</td>
+<td>4</td>
+<td>5</td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td>6</td>
+<td>1</td>
+<td>8</td>
+<td>14</td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>5</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rioja (La).</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Rioja (La).</td>
+<td>1</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>18</td>
+<td>18</td>
+<td>17</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>16</td>
+<td>1</td>
+<td>1</td>
+<td>15</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
@@ -4430,47 +4340,41 @@ Parte A. Necesidades de financiación para los dos ejercicios FEAGA siguientes:
 
 Parte B. Estimación de las necesidades financieras para atender los pagos correspondientes a operaciones aprobadas en anteriores convocatorias
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="29%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">Convocatoria<sup>(1)</sup></th>
+<th colspan="4">Convocatoria<sup>(1)</sup></th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Comunidad Autónoma</th>
-<th class="cabeza_tabla">Datos de la convocatoria</th>
-<th class="cabeza_tabla">Primera anualidad</th>
-<th class="cabeza_tabla">Segunda anualidad</th>
+<th>Comunidad Autónoma</th>
+<th>Datos de la convocatoria</th>
+<th>Primera anualidad</th>
+<th>Segunda anualidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq">Asignación financiera Conferencia Sectorial.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td rowspan="3"> </td>
+<td>Asignación financiera Conferencia Sectorial.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Previsiones de pagos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Previsiones de pagos.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Diferencia<sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Diferencia<sup>(2)</sup>.</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Debe indicarse primera, segunda, tercera o cuarta.</p>
-<p class="cita"><sup>(2)</sup> Dato resultante de restar lo asignado en conferencia sectorial menos la previsión de pagos. Resultado positivo indicará que existen fondos sobrantes y un resultado negativo indicará la necesidad de fondos adicionales.</p>
+<p><sup>(1)</sup> Debe indicarse primera, segunda, tercera o cuarta.</p>
+<p><sup>(2)</sup> Dato resultante de restar lo asignado en conferencia sectorial menos la previsión de pagos. Resultado positivo indicará que existen fondos sobrantes y un resultado negativo indicará la necesidad de fondos adicionales.</p>
 </td>
 </tr>
 </tfoot>
@@ -4491,46 +4395,42 @@ Solicitante/Beneficiario
 
 Operación
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="45%">
-<col width="55%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">CARACTERÍSTICAS DE LA OPERACIÓN</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– ANUAL O BIENAL.</p>
-<p class="cuerpo_tabla_izq">– PRESUPUESTO POR ANUALIDAD.</p>
-<p class="cuerpo_tabla_izq">– AYUDA POR ANUALIDAD.</p>
-<p class="cuerpo_tabla_izq">– PRODUCTOS: SEGÚN ANEXO VII PARTE II.</p>
-<p class="cuerpo_tabla_izq">– PRESUPUESTO DESTINADO A ACTUACIONES DE CARÁCTER MEDIOAMBIENTAL<sup>(1).</sup></p>
-<p class="cuerpo_tabla_izq">– CAPACIDAD INSTALADA DE ENERGÍAS RENOVABLES<sup>(2)</sup>, INCLUIDA LA BIOMASA (Megavatios).</p>
+<td>CARACTERÍSTICAS DE LA OPERACIÓN</td>
+<td>
+<p>– ANUAL O BIENAL.</p>
+<p>– PRESUPUESTO POR ANUALIDAD.</p>
+<p>– AYUDA POR ANUALIDAD.</p>
+<p>– PRODUCTOS: SEGÚN ANEXO VII PARTE II.</p>
+<p>– PRESUPUESTO DESTINADO A ACTUACIONES DE CARÁCTER MEDIOAMBIENTAL<sup>(1).</sup></p>
+<p>– CAPACIDAD INSTALADA DE ENERGÍAS RENOVABLES<sup>(2)</sup>, INCLUIDA LA BIOMASA (Megavatios).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TIPO DE INVERSIÓN</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– NUEVA INSTALACIÓN.</p>
-<p class="cuerpo_tabla_izq">– AMPLIACIÓN.</p>
-<p class="cuerpo_tabla_izq">– MEJORA.</p>
-<p class="cuerpo_tabla_izq">– TRASLADO.</p>
+<td>TIPO DE INVERSIÓN</td>
+<td>
+<p>– NUEVA INSTALACIÓN.</p>
+<p>– AMPLIACIÓN.</p>
+<p>– MEJORA.</p>
+<p>– TRASLADO.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">OBJETIVOS ESTRATÉGICOS</td>
-<td class="cuerpo_tabla_izq">– 1 A 11 SEGÚN ANEXO IX.</td>
+<td>OBJETIVOS ESTRATÉGICOS</td>
+<td>– 1 A 11 SEGÚN ANEXO IX.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">OBJETIVOS GENERALES</td>
-<td class="cuerpo_tabla_izq">– SEGÚN ANEXO X U OTROS A ESPECIFICAR.</td>
+<td>OBJETIVOS GENERALES</td>
+<td>– SEGÚN ANEXO X U OTROS A ESPECIFICAR.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>(1)</sup> Aquellas incluidas en los criterios 2.1, 2.2 y 2.3. del anexo XIII.</p>
-<p class="cita"><sup>(2)</sup> Los datos deben reflejar la capacidad instalada y conectada al final del año.</p>
+<p><sup>(1)</sup> Aquellas incluidas en los criterios 2.1, 2.2 y 2.3. del anexo XIII.</p>
+<p><sup>(2)</sup> Los datos deben reflejar la capacidad instalada y conectada al final del año.</p>
 </td>
 </tr>
 </tfoot>
@@ -4540,72 +4440,61 @@ Operación
 
 ## ANEXO XVII — Comunicación listado parcelas seleccionadas para cosecha en verde
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="9">
-<p class="cabeza_tabla">Datos mínimos a remitir por la comunidad autónoma (comunicación de acuerdo con el artículo 40 del presente real decreto)</p>
+<th colspan="9">
+<p>Datos mínimos a remitir por la comunidad autónoma (comunicación de acuerdo con el artículo 40 del presente real decreto)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="9">Listado de parcelas seleccionadas y ordenadas</th>
+<th colspan="9">Listado de parcelas seleccionadas y ordenadas</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="9">
-<p class="cabeza_tabla">Comunidad Autónoma:</p>
+<th colspan="9">
+<p>Comunidad Autónoma:</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="9">
-<p class="cabeza_tabla">Ejercicio Financiero:</p>
+<th colspan="9">
+<p>Ejercicio Financiero:</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="9">
-<p class="cabeza_tabla">Fecha de comunicación:</p>
+<th colspan="9">
+<p>Fecha de comunicación:</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Puntuación (*)</th>
-<th class="cabeza_tabla">Identificación de la parcela</th>
-<th class="cabeza_tabla">Fecha de registro entrada</th>
-<th class="cabeza_tabla">Hora de registro entrada (**)</th>
-<th class="cabeza_tabla">NIF solicitante</th>
-<th class="cabeza_tabla">Superficie parcela (ha)</th>
-<th class="cabeza_tabla">Retirada potencial de vino estimado (hl)</th>
-<th class="cabeza_tabla">Ayuda estimada (EUR/ha)</th>
-<th class="cabeza_tabla">Ayuda estimada total (EUR)</th>
+<th>Puntuación (*)</th>
+<th>Identificación de la parcela</th>
+<th>Fecha de registro entrada</th>
+<th>Hora de registro entrada (**)</th>
+<th>NIF solicitante</th>
+<th>Superficie parcela (ha)</th>
+<th>Retirada potencial de vino estimado (hl)</th>
+<th>Ayuda estimada (EUR/ha)</th>
+<th>Ayuda estimada total (EUR)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="9">
-<p class="cita">(*) Los datos remitidos por la comunidad autónoma en este anexo deberán estar ordenados de mayor a menor puntuación.</p>
-<p class="cita">(**) Se deberán indicar la hora, minuto y segundo.</p>
+<p>(*) Los datos remitidos por la comunidad autónoma en este anexo deberán estar ordenados de mayor a menor puntuación.</p>
+<p>(**) Se deberán indicar la hora, minuto y segundo.</p>
 </td>
 </tr>
 </tfoot>
@@ -4689,42 +4578,37 @@ Por todo ello, SOLICITA:
 
 ☐ Percibir la ayuda que le pudiera corresponder para las citadas cantidades de alcohol obtenido de la destilación indicada, una vez realizada la destilación conforme a lo reglamentariamente establecido, y presentando la documentación requerida en el artículo 51 del presente real decreto.
 
-<table class="tabla">
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">ALCOHOL OBTENIDO</th>
+<th colspan="3">ALCOHOL OBTENIDO</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MATERIA PRIMA</th>
-<th class="cabeza_tabla">HECTOGRADOS</th>
-<th class="cabeza_tabla">HECTOLITROS</th>
+<th>MATERIA PRIMA</th>
+<th>HECTOGRADOS</th>
+<th>HECTOLITROS</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">ORUJO</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>ORUJO</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LÍAS</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>LÍAS</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VINO</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>VINO</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TOTAL</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -4778,72 +4662,66 @@ Los productos mencionados en el artículo 57 son los siguientes:
 
 ## ANEXO XXII — Regiones de los terceros países objeto de destino en la intervención de promoción
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">País</th>
-<th class="cabeza_tabla">Organización territorial</th>
-<th class="cabeza_tabla" colspan="2">Nombres</th>
+<th>País</th>
+<th>Organización territorial</th>
+<th colspan="2">Nombres</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Estados Unidos</td>
-<td class="cuerpo_tabla_izq">50 estados federales y 1 distrito</td>
-<td class="cuerpo_tabla_izq" colspan="2">Alabama, Alaska, Arizona, Arkansas, California, Carolina del Norte, Carolina del Sur, Colorado, Connecticut, Dakota del Norte, Dakota del Sur, Delaware, Florida, Georgia, Hawái, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Luisiana, Maine, Maryland, Massachusetts, Míchigan, Minnesota, Misisipi, Misuri, Montana, Nebraska, Nevada, Nueva Jersey, Nueva York, Nuevo Hampshire, Nuevo México, Ohio, Oklahoma, Oregón, Pensilvania, Rhode Island, Tennessee, Texas, Utah, Vermont, Virginia, Virginia Occidental, Washington, Wisconsin y Wyoming. Washington DC.</td>
+<td>Estados Unidos</td>
+<td>50 estados federales y 1 distrito</td>
+<td colspan="2">Alabama, Alaska, Arizona, Arkansas, California, Carolina del Norte, Carolina del Sur, Colorado, Connecticut, Dakota del Norte, Dakota del Sur, Delaware, Florida, Georgia, Hawái, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Luisiana, Maine, Maryland, Massachusetts, Míchigan, Minnesota, Misisipi, Misuri, Montana, Nebraska, Nevada, Nueva Jersey, Nueva York, Nuevo Hampshire, Nuevo México, Ohio, Oklahoma, Oregón, Pensilvania, Rhode Island, Tennessee, Texas, Utah, Vermont, Virginia, Virginia Occidental, Washington, Wisconsin y Wyoming. Washington DC.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Canadá</td>
-<td class="cuerpo_tabla_izq">10 provincias y 3 territorios</td>
-<td class="cuerpo_tabla_izq" colspan="2">Ontario, Quebec, Nueva Escocia, Nuevo Brunswick, Manitoba, Columbia Británica, Isla del Príncipe Eduardo, Saskatchewan, Alberta, Terranova y Labrador, Territorios del Noroeste, Yukón y Nunavut.</td>
+<td>Canadá</td>
+<td>10 provincias y 3 territorios</td>
+<td colspan="2">Ontario, Quebec, Nueva Escocia, Nuevo Brunswick, Manitoba, Columbia Británica, Isla del Príncipe Eduardo, Saskatchewan, Alberta, Terranova y Labrador, Territorios del Noroeste, Yukón y Nunavut.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Japón</td>
-<td class="cuerpo_tabla_izq">47 prefecturas</td>
-<td class="cuerpo_tabla_izq" colspan="2">Hokkaido, Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima, Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokio, Kanagawa, Niigata, Toyama, Ishikawa, Fukui, Yamanashi, Nagano, Gifu, Shizuoka, Aichi, Mie, Shiga, Kioto, Osaka, Hyōgo, Nara, Wakayama, Tottori, Shimane, Okayama, Hiroshima, Yamaguchi, Tokushima, Kagawa, Ehime, Kōchi, Fukuoka, Saga, Nagasaki, Kumamoto, Ōita, Miyazaki, Kagoshima y Okinawa.</td>
+<td>Japón</td>
+<td>47 prefecturas</td>
+<td colspan="2">Hokkaido, Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima, Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokio, Kanagawa, Niigata, Toyama, Ishikawa, Fukui, Yamanashi, Nagano, Gifu, Shizuoka, Aichi, Mie, Shiga, Kioto, Osaka, Hyōgo, Nara, Wakayama, Tottori, Shimane, Okayama, Hiroshima, Yamaguchi, Tokushima, Kagawa, Ehime, Kōchi, Fukuoka, Saga, Nagasaki, Kumamoto, Ōita, Miyazaki, Kagoshima y Okinawa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">China</td>
-<td class="cuerpo_tabla_izq">22 provincias, 2 regiones, 4 municipios y 5 regiones autónomas.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Heilongjiang, Jilin, Liaoning, Qinghai, Gansu, Shaanxi, Shanxi, Hebei, Sichuan, Hubei, Henan, Shandong, Anhui, Jiangsu, Yunnan, Guizhou, Hunan, Jiangxi, Zheijang, Hainan, Guangdong y Fujian (y Taiwán). Hong Kong y Macao. Shanghai, Pekín, Chongqing y Tianjin. Tíbet, Ningxia, Xinjiang, Guangxi y Mongolia Interior.</td>
+<td>China</td>
+<td>22 provincias, 2 regiones, 4 municipios y 5 regiones autónomas.</td>
+<td colspan="2">Heilongjiang, Jilin, Liaoning, Qinghai, Gansu, Shaanxi, Shanxi, Hebei, Sichuan, Hubei, Henan, Shandong, Anhui, Jiangsu, Yunnan, Guizhou, Hunan, Jiangxi, Zheijang, Hainan, Guangdong y Fujian (y Taiwán). Hong Kong y Macao. Shanghai, Pekín, Chongqing y Tianjin. Tíbet, Ningxia, Xinjiang, Guangxi y Mongolia Interior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rusia</td>
-<td class="cuerpo_tabla_izq">11 regiones económicas</td>
-<td class="cuerpo_tabla_izq" colspan="2">Cáucaso Norte, Centro, Chernozem Central, Lejano Oriente, Norte, Noroeste (incluido Kaliningrado), Siberia del Este, Siberia del Oeste, Ural, Volga, Volgo-Viatski.</td>
+<td>Rusia</td>
+<td>11 regiones económicas</td>
+<td colspan="2">Cáucaso Norte, Centro, Chernozem Central, Lejano Oriente, Norte, Noroeste (incluido Kaliningrado), Siberia del Este, Siberia del Oeste, Ural, Volga, Volgo-Viatski.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">México</td>
-<td class="cuerpo_tabla_izq">32 entidades federativas</td>
-<td class="cuerpo_tabla_izq" colspan="2">Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Ciudad de México, Coahuila de Zaragoza, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro de Arteaga, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y Zacatecas</td>
+<td>México</td>
+<td>32 entidades federativas</td>
+<td colspan="2">Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Ciudad de México, Coahuila de Zaragoza, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán de Ocampo, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro de Arteaga, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz de Ignacio de la Llave, Yucatán y Zacatecas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Brasil</td>
-<td class="cuerpo_tabla_izq">27 unidades federales</td>
-<td class="cuerpo_tabla_izq" colspan="2">Acre, Alagoas, Amapá, Amazonas, Bahía, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso del Sur, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Río de Janeiro, Río Grande del Norte, Río Grande del Sur, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins y Distrito Federal</td>
+<td>Brasil</td>
+<td>27 unidades federales</td>
+<td colspan="2">Acre, Alagoas, Amapá, Amazonas, Bahía, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso del Sur, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Río de Janeiro, Río Grande del Norte, Río Grande del Sur, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins y Distrito Federal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Perú</td>
-<td class="cuerpo_tabla_izq" rowspan="4">26 regiones</td>
-<td class="cuerpo_tabla_izq" colspan="2">Amazonas, Áncash, Apurímac, Arequipa, Ayacucho,</td>
+<td rowspan="4">Perú</td>
+<td rowspan="4">26 regiones</td>
+<td colspan="2">Amazonas, Áncash, Apurímac, Arequipa, Ayacucho,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cajamarca, Cuzco, Huancavelica, Huánuco, Ica,</td>
+<td colspan="2">Cajamarca, Cuzco, Huancavelica, Huánuco, Ica,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Junín, La Libertad, Lambayeque, Lima, Loreto,</td>
+<td colspan="2">Junín, La Libertad, Lambayeque, Lima, Loreto,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali y Callao.</td>
+<td colspan="2">Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali y Callao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">El resto de los países no incluidos en esta lista, se considerarán a estos efectos como Estados unitarios.</td>
+<td colspan="4">El resto de los países no incluidos en esta lista, se considerarán a estos efectos como Estados unitarios.</td>
 </tr>
 </tbody>
 </table>
@@ -5034,182 +4912,167 @@ DECLARA:
 
 Que los datos reflejados en la siguiente tabla se corresponden con los programas desarrollados en el marco de la intervención de promoción de vino en terceros países:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ejercicio Financiero</th>
-<th class="cabeza_tabla" colspan="3">2024</th>
-<th class="cabeza_tabla" colspan="3">2025</th>
-<th class="cabeza_tabla" colspan="3">2026</th>
-<th class="cabeza_tabla" colspan="3">2027</th>
+<th>Ejercicio Financiero</th>
+<th colspan="3">2024</th>
+<th colspan="3">2025</th>
+<th colspan="3">2026</th>
+<th colspan="3">2027</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Convocatoria</th>
-<th class="cabeza_tabla" colspan="3">2023</th>
-<th class="cabeza_tabla" colspan="3">2024</th>
-<th class="cabeza_tabla" colspan="3">2025</th>
-<th class="cabeza_tabla" colspan="3">2026</th>
+<th>Convocatoria</th>
+<th colspan="3">2023</th>
+<th colspan="3">2024</th>
+<th colspan="3">2025</th>
+<th colspan="3">2026</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">País</th>
-<th class="cabeza_tabla">Sub-acción</th>
-<th class="cabeza_tabla">Región/es</th>
-<th class="cabeza_tabla">Público/s objetivo/s</th>
-<th class="cabeza_tabla">Sub-acción</th>
-<th class="cabeza_tabla">Región/es</th>
-<th class="cabeza_tabla">Público/s objetivo/s</th>
-<th class="cabeza_tabla">Sub-acción</th>
-<th class="cabeza_tabla">Región/es</th>
-<th class="cabeza_tabla">Público/s objetivo/s</th>
-<th class="cabeza_tabla">Sub-acción</th>
-<th class="cabeza_tabla">Región/es</th>
-<th class="cabeza_tabla">Público/s objetivo/s</th>
+<th>País</th>
+<th>Sub-acción</th>
+<th>Región/es</th>
+<th>Público/s objetivo/s</th>
+<th>Sub-acción</th>
+<th>Región/es</th>
+<th>Público/s objetivo/s</th>
+<th>Sub-acción</th>
+<th>Región/es</th>
+<th>Público/s objetivo/s</th>
+<th>Sub-acción</th>
+<th>Región/es</th>
+<th>Público/s objetivo/s</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td rowspan="3"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td rowspan="3"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td rowspan="3"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -5220,17 +5083,12 @@ NOTA ACLARATORIA: se comprobará, a los efectos de la admisibilidad de la ayuda,
 
 ☐
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">REGIÓN/ES</th>
-<th class="cabeza_tabla">SUB-ACCIÓN/ES</th>
-<th class="cabeza_tabla">PÚBLICO/S OBJETIVO/S</th>
+<th>REGIÓN/ES</th>
+<th>SUB-ACCIÓN/ES</th>
+<th>PÚBLICO/S OBJETIVO/S</th>
 </tr>
 </thead>
 <tbody>
@@ -5243,7 +5101,7 @@ NOTA ACLARATORIA: se comprobará, a los efectos de la admisibilidad de la ayuda,
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">* Marcar con una X el/los que proceda/n.</p>
+<p>* Marcar con una X el/los que proceda/n.</p>
 </td>
 </tr>
 </tfoot>
@@ -5265,108 +5123,98 @@ Fdo:_____________________________
 
 IV. Presupuesto recapitulativo.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Acción</th>
-<th class="cabeza_tabla">Sub-acción</th>
-<th class="cabeza_tabla">Región</th>
-<th class="cabeza_tabla">Público objetivo</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ejercicio I.</p>
-<p class="cabeza_tabla">Anualidad I</p>
+<th>Acción</th>
+<th>Sub-acción</th>
+<th>Región</th>
+<th>Público objetivo</th>
+<th>
+<p>Ejercicio I.</p>
+<p>Anualidad I</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ejercicio II.</p>
-<p class="cabeza_tabla">Anualidad II</p>
+<th>
+<p>Ejercicio II.</p>
+<p>Anualidad II</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ejercicio III.</p>
-<p class="cabeza_tabla">Anualidad III</p>
+<th>
+<p>Ejercicio III.</p>
+<p>Anualidad III</p>
 </th>
-<th class="cabeza_tabla">Total</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">a)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>a)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>b)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>c)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">d)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>d)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">e)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>e)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos administrativos* (max.4 % del total de costes subvencionables)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gastos administrativos* (max.4 % del total de costes subvencionables)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Costes de personal (max. 20 %)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Costes de personal (max. 20 %)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
@@ -5399,38 +5247,33 @@ IV. Presupuesto recapitulativo.
 
 ## ANEXO XXVI — Estimación de las necesidades financieras del ejercicio financiero en curso
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="33%">
-<col width="34%">
-<col width="33%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Comunidad Autónoma/ FEGA O.A.</th>
-<th class="cabeza_tabla" colspan="2">Ejercicio financiero de los programas en curso, n+1</th>
+<th>Comunidad Autónoma/ FEGA O.A.</th>
+<th colspan="2">Ejercicio financiero de los programas en curso, n+1</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq">Asignación financiera Conferencia sectorial</td>
+<td rowspan="3"> </td>
+<td>Asignación financiera Conferencia sectorial</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Previsiones de pagos<sup><sup>(1)</sup></sup>.</td>
+<td>Previsiones de pagos<sup><sup>(1)</sup></sup>.</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Diferencia<sup><sup>(2)</sup></sup>.</td>
+<td>Diferencia<sup><sup>(2)</sup></sup>.</td>
 <td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita"><sup>(1)</sup> Previsión de pagos a 15 de octubre, que se corresponderán con la estimación del pago del ejercicio en curso más los recursos pendientes de ejercicios anteriores.</p>
-<p class="cita"><sup>(2)</sup> Dato resultante de restar lo asignado en conferencia sectorial menos la previsión de pagos. Resultado positivo indicará que existen fondos sobrantes y un resultado negativo indicará la necesidad de fondos adicionales.</p>
+<p><sup>(1)</sup> Previsión de pagos a 15 de octubre, que se corresponderán con la estimación del pago del ejercicio en curso más los recursos pendientes de ejercicios anteriores.</p>
+<p><sup>(2)</sup> Dato resultante de restar lo asignado en conferencia sectorial menos la previsión de pagos. Resultado positivo indicará que existen fondos sobrantes y un resultado negativo indicará la necesidad de fondos adicionales.</p>
 </td>
 </tr>
 </tfoot>

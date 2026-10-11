@@ -1,0 +1,3203 @@
+---
+title: "Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria"
+identifier: "BOE-A-2007-13223"
+eli: "https://www.boe.es/eli/es/o/2007/06/28/eha2027"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2007-06-28
+published: 2007-07-09
+in_force_from: 2007-10-09
+last_amended: 2025-12-22
+consolidated: 2025-12-22
+gazette: "Boletín Oficial del Estado núm. 163"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-13223"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria
+
+Téngase en cuenta que todas las referencias al Código Cuenta Cliente (C.C.C.) realizadas en esta Orden, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, deberán considerarse efectuadas al código IBAN, según establece la disposición final 1 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+Asimismo, todas las referencias a las «entidades de crédito» deberán considerarse efectuadas a los «proveedores de servicios de pago» contemplados en los puntos a), b) y c) del artículo 5 del Real Decreto-ley 19/2018, de 23 de noviembre, de servicios de pago y otras medidas urgentes en materia financiera, así como al Banco de España, en su condición de entidad colaboradora en la gestión recaudatoria estatal, según establece la disposición adicional única de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+El artículo 29.1 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, dispone que las Entidades colaboradoras centralizarán la operación de ingreso en el Tesoro de las cantidades recaudadas y el envío al órgano de recaudación competente de la información necesaria para la gestión y seguimiento de los ingresos.
+
+En realidad, el modelo inspirado en la centralización ya fue establecido en el artículo 181 del anterior Reglamento General de Recaudación, aprobado por Real Decreto 1684/1990, de 20 de diciembre y modificado por Real Decreto 448/1995, de 24 de marzo, por lo que el nuevo marco reglamentario ha optado por su mantenimiento, habida cuenta de las indudables ventajas que éste reporta.
+
+Así, desde la perspectiva de los ingresos, este sistema permite a cada Entidad colaboradora realizar un solo ingreso comprensivo de la totalidad de los recaudados en sus sucursales en cada una de las quincenas recaudatorias, lo que para las Entidades supone una evidente simplificación del procedimiento de ingreso en el Tesoro Público y para la Administración Tributaria un significativo ahorro de los medios utilizados para verificar el cumplimiento por parte de aquéllas.
+
+Por lo que respecta al suministro de la información, el sistema centralizado antes aludido favorece una gestión más ágil, ya que permite reducir los plazos de aportación de la misma por las Entidades, así como un seguimiento puntual por parte de los órganos de recaudación de la Agencia Estatal de Administración Tributaria acerca del cumplimiento por parte de los obligados al pago.
+
+La normativa que hasta ahora ha venido regulando la actuación de las Entidades colaboradoras se basa en la Orden Ministerial de 15 de junio de 1995, que desarrolló parcialmente el Reglamento General de Recaudación en relación con las Entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+Con el transcurso del tiempo, y como consecuencia de una serie de factores y condicionantes que afectaban directamente a la prestación del servicio de colaboración, se produjeron sucesivas y en algunos casos significativas modificaciones de algunos aspectos que se regulaban en la Orden anteriormente mencionada.
+
+Así, y con objeto de adaptar aún más el funcionamiento de las Entidades colaboradoras al modelo de centralización operativa implantado desde 1995, la Orden Ministerial de 13 de diciembre de 2001 vino a modificar la de 15 de junio de 1995, estableciendo para cada Entidad colaboradora, cuentas restringidas de recaudación de ámbito nacional, en lugar de las provinciales que hasta entonces existían.
+
+Por otra parte, la creciente implantación de la tecnología asociada a Internet y a la generalización de su uso en las relaciones con la Agencia Estatal de Administración Tributaria, especialmente en las operaciones de pago de deudas y de presentación de declaraciones, motivó la aprobación de la Orden Ministerial de 28 de diciembre de 2000, por la que se otorgó el carácter de justificante de pago a determinados documentos expedidos por las Entidades colaboradoras, en especial a los recibos emitidos por éstas (y generados con Número de Referencia Completo) en los supuestos en los que los obligados optasen por alguna de las formas de pago a distancia que posibilitan las nuevas tecnologías telemáticas.
+
+Finalmente, la supresión a finales del año 2003 del Servicio de Caja en los locales de la Agencia Estatal de Administración Tributaria obligó a adaptar la normativa aplicable en materia de Entidades colaboradoras a la nueva situación que se planteaba, y en ese contexto se aprobó la Orden HAC/3578/2003, de 11 de diciembre, que vino a desarrollar el Reglamento General de Recaudación, en la redacción que al mismo daba el Real Decreto 1248/2003, de 3 de octubre y a modificar nuevamente la Orden de 15 de junio de 1995.
+
+Con objeto de refundir toda la normativa relativa a la actuación de las Entidades colaboradoras en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, evitando en lo posible la dispersión normativa actualmente existente en esta materia, así como para adaptar la misma a las previsiones del nuevo Reglamento General de Recaudación, resulta imprescindible la aprobación de una nueva Orden Ministerial, inspirada en la misma filosofía y basada en los procedimientos hasta ahora aplicables, cuyos resultados pueden valorarse de forma muy satisfactoria.
+
+Los artículos 19, 29, 41 y la Disposición final única del vigente Reglamento General de Recaudación habilitan al Ministro de Economía y Hacienda para dictar disposiciones que permitan desarrollar dicho texto reglamentario, en particular en lo relativo al régimen de actuación de las Entidades colaboradoras en la gestión recaudatoria.
+
+En su virtud, dispongo:
+
+## CAPITULO I — Disposiciones generales
+
+### Artículo 1. Ingresos que deben admitir las Entidades colaboradoras.
+
+Deberán ser ingresadas en las Entidades de crédito que actúan como colaboradoras en la gestión recaudatoria las siguientes deudas:
+
+1\. Las que resulten de las autoliquidaciones que se incluyen en los anexos I y II de esta orden, con independencia de si el ingreso se efectúa dentro o con posterioridad a los plazos establecidos por la normativa propia de cada tributo.
+
+En caso de que el ingreso se efectúe presencialmente en las sucursales de las Entidades colaboradoras, utilizando para ello el modelo físico de la autoliquidación, el obligado deberá consignar en dicho documento su número de identificación fiscal (NIF). Asimismo, la entidad exigirá la consignación de los siguientes datos:
+
+‒ Apellidos y nombre, razón social o denominación completa del obligado.
+
+‒ Ejercicio y período al que corresponda el ingreso.
+
+En aquellos casos en los que la normativa propia de un tributo permita al obligado tributario domiciliar el pago en las Entidades colaboradoras, la Entidad colaboradora que reciba la orden de domiciliación deberá comprobar que el obligado tributario es titular de la cuenta en la que se domicilie el pago y que dicha cuenta se encuentra abierta en esa entidad, todo ello sin perjuicio de lo que respecto de las domiciliaciones de autoliquidaciones del Impuesto sobre la Renta de no Residentes (modelo 210) se dispone en el artículo 2.a) de la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas a través de las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+En ningún caso surtirán efectos aquellas órdenes de domiciliación que los obligados tributarios presenten ante las Entidades colaboradoras fuera de los plazos que establezca en cada caso la normativa que regule, en cada momento, el procedimiento de realización de ingresos por ese medio de pago o, en su caso, la normativa propia de los tributos.
+
+2\. Las procedentes de liquidaciones practicadas por la Administración que se incluyen en el Anexo III de esta orden, siempre que el importe del pago coincida con el importe a ingresar que figura en el documento, excepto en los documentos asociados a diligencias o procedimientos de embargo. En otro caso, el obligado deberá obtener previamente de la Agencia Estatal de Administración Tributaria o de los órganos competentes de la Administración General del Estado una carta de pago por el importe del ingreso que vaya a realizar.
+
+En aquellos casos en los que la normativa permita u obligue al deudor domiciliar el pago en las Entidades colaboradoras, la Entidad que reciba la orden de domiciliación deberá comprobar que el deudor es titular de la cuenta en la que se domicilie el pago y que dicha cuenta se encuentra abierta en esa Entidad.
+
+3\. Los resultantes de las tasas cuya recaudación sea de aplicación al presupuesto del Estado, formulados en los modelos que figuran en el Anexo IV de esta orden.
+
+4\. Los procedentes de tasas gestionadas por organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, cuando sean de aplicación a su presupuesto o cuya gestión se les atribuya en virtud de norma, formulados en los modelos que se relacionan en el anexo V de esta orden.
+
+> Se modifica el apartado 1, se añade un párrafo al 2 y se modifica el 4 por el art. 1.1 a 3 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+### Artículo 2. Solicitudes de devolución que deben admitir las Entidades colaboradoras en sus oficinas y sucursales.
+
+Siempre que la normativa propia del tributo lo permita, las solicitudes de devolución por transferencia que resulten de autoliquidaciones podrán ser presentadas presencialmente en las oficinas de las entidades que actúan como colaboradoras en la gestión recaudatoria, con independencia de que la presentación se realice dentro o con posterioridad a los plazos establecidos por la normativa propia de cada tributo.
+
+En estos supuestos, el obligado deberá utilizar el documento físico de la autoliquidación que corresponda, en el que deberá consignar su NIF Asimismo, la Entidad colaboradora exigirá la consignación de los siguientes datos:
+
+‒ Apellidos y nombre, razón social o denominación completa del obligado.
+
+‒ Ejercicio y período al que corresponda la solicitud de devolución.
+
+En todo caso, la Entidad colaboradora deberá verificar que la cuenta designada por el obligado tributario o su representante legal para recibir la devolución es de su titularidad y se encuentra abierta en esa Entidad. En caso de que la Entidad no llevase a cabo esta comprobación será de su exclusiva responsabilidad cualquier incidencia que, por esta causa, pudiera producirse en el proceso de tramitación o ejecución de la devolución por la Agencia Estatal de Administración Tributaria al obligado tributario.
+
+> Se modifica por el art. 1.4 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se modifica el título y el primer párrafo por el art. 1.1 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+### Artículo 3. Documentos entregados o expedidos por las entidades colaboradoras que tienen carácter de justificantes de ingreso.
+
+Tienen la consideración de justificantes de ingreso los siguientes documentos entregados o proporcionados por las entidades colaboradoras a los obligados al pago de las deudas:
+
+1\. Los documentos de ingreso de autoliquidaciones y las cartas de pago correspondientes a liquidaciones practicadas por la Administración validadas mecánicamente por las entidades colaboradoras.
+
+Dicha validación deberá contener, como mínimo los siguientes datos:
+
+‒ Fecha del ingreso (o, en su caso, fecha de presentación de la solicitud de devolución).
+
+‒ Importe de la operación.
+
+‒ Clave de la entidad y oficina receptora.
+
+‒ El literal "Ingreso" o abreviatura que permita identificar el concepto.
+
+‒ Número de Referencia Completo (NRC) asignado al ingreso.
+
+Las entidades colaboradoras podrán optar por sustituir la validación mecánica en los documentos de ingreso de autoliquidaciones y en las cartas de pago correspondientes a liquidaciones practicadas por la Administración por la emisión de documentos independientes.
+
+Los documentos sustitutivos de la validación mecánica serán considerados justificantes de ingreso, siempre que en ellos figuren, como mínimo, los siguientes datos:
+
+‒ Los que se exigen para la validación mecánica.
+
+‒ Código de modelo.
+
+‒ Ejercicio y periodo (solo en caso de autoliquidaciones).
+
+‒ Número de justificante.
+
+‒ Indicación expresa del medio de pago utilizado: metálico o cargo en cuenta (en este caso, deberá indicarse el IBAN de la cuenta en la que se ha producido el cargo).
+
+‒ En los casos de solicitudes de devolución, deberá constar el IBAN de la cuenta designada por el obligado tributario para recibir el importe de la devolución.
+
+‒ Sello de la entidad colaboradora.
+
+‒ Hora en que se ha producido el ingreso (o se ha recibido la solicitud de devolución).
+
+‒ Número de Referencia Completo (NRC) asignado.
+
+Sin perjuicio de lo establecido en el último inciso del artículo 34.4 del Reglamento General de Recaudación, el efecto liberatorio para el obligado frente a la Agencia Estatal de Administración Tributaria se producirá en función del importe, la fecha y la naturaleza de la operación consignados por la entidad colaboradora en la validación mecánica o en el documento sustitutivo de la misma.
+
+En aquellos casos en los que el obligado hubiera realizado el pago mediante cargo en cuenta, carecerá de efectos frente a la Agencia Estatal de Administración Tributaria la fecha en que la entidad colaboradora valore contablemente la operación en la cuenta en la que adeude el importe del ingreso.
+
+2\. Los recibos expedidos por las entidades colaboradoras en los supuestos de cargos en cuenta por pagos domiciliados, siempre que se encuentre admitida normativamente la utilización de este medio de pago.
+
+Dichos recibos, que deberán ser proporcionados al obligado por la entidad colaboradora una vez realizado el cargo en cuenta, deberán contener, como mínimo, los siguientes datos:
+
+‒ Fecha del cargo en cuenta.
+
+‒ Importe.
+
+‒ Código de modelo.
+
+‒ Número de justificante.
+
+‒ Códigos de la entidad y sucursal.
+
+‒ Denominación social de la entidad colaboradora.
+
+‒ IBAN de la cuenta en la que ha producido el cargo.
+
+‒ Datos del obligado:
+
+– NIF.
+
+– Anagrama o las cuatro primeras letras del primer apellido (sólo en caso de autoliquidaciones de personas físicas).
+
+– Apellidos y nombre o razón social.
+
+– Datos de la deuda satisfecha (solo en caso de autoliquidaciones):
+
+• Concepto.
+
+• Ejercicio y período.
+
+‒ Número de Referencia Completo (NRC) asignado al ingreso.
+
+‒ La leyenda: "Este adeudo surte los efectos liberatorios para con el Tesoro Público previstos en el Reglamento General de Recaudación".
+
+Sin perjuicio de lo establecido en los artículos 34.4, último inciso, y 38.3 del Reglamento General de Recaudación, en estos casos el obligado quedará liberado en función de la fecha de cargo en cuenta que la entidad colaboradora haga constar en el recibo. En todo caso, carecerá de efectos frente a la Agencia Estatal de Administración Tributaria la fecha en que la entidad colaboradora valore contablemente la operación en la cuenta en la que adeude el importe del ingreso.
+
+3\. Los recibos expedidos por las entidades colaboradoras o a través de la Sede electrónica de la Agencia Tributaria, como consecuencia de cargos en cuenta (en aquellos casos en los que no sea posible la validación del documento de ingreso, por no encontrarse presente en la entidad el obligado tributario que hubiera optado por alguna forma de pago a distancia, habiendo sido presentada la autoliquidación en soporte distinto al papel) o en aquellos otros casos en los que, pese a efectuar el ingreso presencialmente, el obligado no aporte a la entidad colaboradora ninguno de los documentos de ingreso físicos a los que se refiere el apartado 1 de este mismo artículo, y solicite la emisión por dicha entidad de uno de estos recibos. En estos últimos casos, la entidad colaboradora podrá solicitar a los obligados u ordenantes del pago la entrega de documentos o formularios suscritos por ellos en los que consten las órdenes de pago, así como los términos expresos de las mismas.
+
+Estos recibos, que deberán ser proporcionados al obligado por la entidad colaboradora una vez realizado el ingreso o el cargo en cuenta, deberán contener, como mínimo, los siguientes datos:
+
+‒ Fecha y hora de la operación.
+
+‒ Importe.
+
+‒ Código de modelo.
+
+‒ Número de justificante (no será necesario en el caso de autoliquidaciones).
+
+‒ Códigos de la entidad y sucursal.
+
+‒ Denominación social de la entidad colaboradora.
+
+‒ IBAN de la cuenta en la que se ha producido el cargo o número de la tarjeta de crédito o de débito utilizada para realizar el pago (no será necesario cuando el pago se hubiese efectuado en efectivo).
+
+‒ Datos del obligado:
+
+‒ NIF.
+
+‒ Anagrama o las cuatro primeras letras del primer apellido (solo en caso de autoliquidaciones de personas físicas).
+
+‒ Apellidos y nombre o razón social.
+
+‒ Datos de la deuda satisfecha (solo en caso de autoliquidaciones):
+
+• Concepto.
+
+• Ejercicio y período.
+
+• Tipo de autoliquidación (Ingreso o Devolución).
+
+‒ Las siguientes leyendas:
+
+• "Este adeudo surte los efectos liberatorios para con el Tesoro Público previstos en el Reglamento General de Recaudación" (en todos los casos).
+
+• "El ingreso de la deuda no exime de la obligación de presentar la autoliquidación" (solo deberá incluirse en el caso de autoliquidaciones).
+
+‒ Número de Referencia Completo (NRC) asignado al ingreso.
+
+Sin perjuicio de lo establecido en el último inciso del artículo 34.4 del Reglamento General de Recaudación, en estos casos el efecto liberatorio para el obligado se producirá en función del importe, la fecha y la naturaleza de la operación consignados por la entidad colaboradora en el recibo. En caso de que el obligado hubiera realizado el pago mediante cargo en cuenta, carecerá de efectos frente a la Agencia Estatal de Administración Tributaria la fecha en que la entidad colaboradora valore contablemente la operación en la cuenta en la que adeude el importe del ingreso.
+
+> Se modifica por el art. 1.1 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)
+
+> Se modifica el primer párrafo del apartado 3 por la disposición final 1 de la Orden HAP/2194/2013, de 22 de noviembre. [Ref. BOE-A-2013-12385](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12385).
+
+### Artículo 4. El Número de Referencia Completo (NRC).
+
+1\. Concepto, composición y validación. El NRC es un código de veintidós posiciones alfanuméricas, generado informáticamente por la Agencia Estatal de Administración Tributaria mediante un sistema que permite asociar el pago a la autoliquidación, la tasa o el documento de ingreso expedido por la Agencia Estatal de Administración Tributaria o por los órganos competentes de la Administración General del Estado de ellas derivado.
+
+Las trece primeras posiciones de los NRC generados por la Agencia Estatal de Administración Tributaria constituirán el número de justificante del ingreso al que se asocian.
+
+La Agencia Tributaria habilitará servicios *on line*que permitirán comprobar la validez y la correcta configuración de los NRC generados. En todo caso, el acceso a estos servicios estará restringido a aquellos certificados electrónicos de las entidades colaboradoras habilitados expresamente para ello.
+
+Asimismo, y durante los cinco años siguientes a la fecha en la que fueron generados, podrá verificarse en dichos servicios *on line* el estado en el que se encuentran en cada momento los NRC en los sistemas de la Agencia Tributaria.
+
+2\. Consecuencias de la inclusión del NRC en los justificantes de pago. La inclusión del NRC en un justificante de pago entregado al obligado tributario por la entidad colaboradora tendrá las siguientes consecuencias:
+
+a) Se entenderá que el justificante de pago en el que figura responde a un ingreso realizado en la entidad de crédito que lo incluye.
+
+b) Quedará acreditado que dicho justificante de pago corresponde a la autoliquidación, a la tasa o al documento de ingreso expedido por la Agencia Estatal de Administración Tributaria u órgano competente de la Administración General del Estado que se indica en el recibo y no a otro.
+
+c) A partir del momento de la emisión del justificante de pago, y siempre que el NRC no sea anulado conforme a lo dispuesto en el artículo 21 de la presente orden, la entidad colaboradora que lo emita queda obligada frente a la Agencia Estatal de Administración Tributaria por el importe que consta en el recibo, quedando el deudor liberado de su obligación de pago frente a la Hacienda Pública, sin perjuicio de lo establecido en el último inciso del artículo 34.4 del Reglamento General de Recaudación.
+
+3\. Generación del NRC por la Agencia Tributaria y comunicación del mismo a la entidad colaboradora.
+
+En aquellos casos en los que los obligados efectúen el pago presencialmente en las sucursales de las entidades colaboradoras o a través de sus propios servicios de banca electrónica o cajeros automáticos, la entidad colaboradora solicitará telemáticamente a la Agencia Tributaria la generación de un NRC. Para ello, enviará los datos que se recogen en el anexo VII, en función del tipo de pago de que se trate, que quedarán asociados al NRC que se genere.
+
+A partir de la petición correctamente realizada por la entidad colaboradora, la Agencia Tributaria generará el NRC, lo registrará en sus sistemas de información y se lo hará llegar telemáticamente a la entidad.
+
+Tras recibir el NRC de la Agencia Tributaria, la entidad colaboradora procederá al cobro al obligado tributario y al abono de su importe en la cuenta restringida que corresponda.
+
+Solo después del abono en la cuenta restringida, la entidad colaboradora entregará al obligado el justificante de pago realizado, que, en todo caso, deberá incluir el NRC generado por la Agencia Tributaria para ese ingreso.
+
+Cuando el ingreso se realice a través de la Sede electrónica de la Agencia Tributaria, ésta generará el correspondiente NRC, a partir de los datos capturados por el ordenante del pago, y lo remitirá telemáticamente a la entidad colaboradora, junto con dichos datos.
+
+En el caso de que el pago se realice mediante domiciliación bancaria, la Agencia Tributaria comunicará a las entidades colaboradoras el NRC asociado a cada ingreso, junto con la información de las órdenes de domiciliación dirigidas a cuentas abiertas en cada entidad.
+
+Cuando el pago proceda de un procedimiento de embargo de cuentas bancarias, la entidad colaboradora solicitará a la Agencia Tributaria la generación del NRC, en el momento en el que, de acuerdo con la normativa aplicable en la materia, deba proceder al ingreso de la cantidad trabada en la cuenta restringida que corresponda.
+
+Una entidad colaboradora no podrá solicitar la generación del NRC cuando el pago vaya a efectuarse en cualquier otra entidad. Aquella entidad colaboradora que incumpliera lo anterior, deberá asumir la responsabilidad por todos los perjuicios que pudieran derivarse de dicha conducta.
+
+4\. Consolidación del NRC. Las Entidades colaboradoras deberán confirmar a la Agencia Tributaria el efectivo abono de los ingresos en las respectivas cuentas restringidas. Para ello, deberán consolidar el NRC asociado a cada uno de los ingresos, a través del servicio habilitado por la Agencia Tributaria a tal efecto. Para realizar la consolidación, las Entidades colaboradoras enviarán a la Agencia Tributaria los datos que se recogen en el anexo VII.
+
+La consolidación del NRC únicamente podrá ser realizada por la Entidad colaboradora que solicitó su generación a la Agencia Tributaria.
+
+Excepto en aquellos supuestos en los que el punto 3 del artículo 5 de esta orden permite a las Entidades colaboradoras efectuar abonos diferidos en las cuentas restringidas, la consolidación del NRC deberá ser comunicada por la Entidad colaboradora a la Agencia Tributaria el mismo día en el que se produzca el pago por el obligado y el abono de su importe en la cuenta restringida.
+
+Asimismo, y con las mismas excepciones indicadas en el párrafo anterior, la fecha en la que las Entidades colaboradoras comuniquen a la Agencia Tributaria la consolidación del NRC deberá coincidir necesariamente con la fecha de ingreso que tales entidades consignen en la información a que se refiere el punto 2 del anexo VII y con fecha del pago del obligado que incluyan en la información quincenal de detalle a la que se refiere el capítulo III de esta orden.
+
+En aquellos casos en los que, en el ejercicio de sus respectivas competencias, los órganos de la Agencia Tributaria detectaran la existencia discrepancias entre las fechas a las que se refieren los dos párrafos anteriores podrá adoptar contra la entidad colaboradora responsable las medidas restrictivas previstas en el artículo 17 del Reglamento General de Recaudación, sin perjuicio de las que, en su caso, pudieran corresponder respecto de los obligados al pago.
+
+En aquellos supuestos excepcionales en los que, como consecuencia de anomalías en el servicio de consolidación anteriormente aludido atribuibles directamente a la Agencia Tributaria, la Entidad colaboradora no pudiera consolidar el NRC, éste podrá ser consolidado por iniciativa de la propia Agencia Tributaria. Para ello, las Entidades colaboradoras deben proporcionar un servicio *on-line* que permita a la Agencia Tributaria consultar si para un determinado NRC se ha efectuado o no el ingreso en la cuenta restringida. En todo caso, dichas entidades deberán acreditar la existencia de estas circunstancias excepcionales, a requerimiento de los órganos de la Agencia Tributaria.
+
+La concurrencia de las circunstancias excepcionales citadas en el párrafo anterior no eximirá, en ningún caso, a las Entidades colaboradoras de la obligación de comunicar a la Agencia Tributaria la consolidación del NRC por el procedimiento ordinario, tan pronto como cesen las causas de dicha excepcionalidad.
+
+Cada NRC deberá estar disponible en el servicio de consulta de la Entidad colaboradora que solicitó su generación durante un periodo de cinco años, contados desde su fecha de generación.
+
+Cuando el pago sea efectuado a través de la Sede electrónica de la Agencia Tributaria, el NRC quedará consolidado en sus sistemas en el momento en el que se reciba la contestación telemática de la Entidad colaboradora, autorizando la emisión del justificante de pago para el obligado.
+
+En los supuestos en los que el pago se realice en condiciones de comercio electrónico seguro (mediante tarjetas de crédito/débito o mediante transferencias instantáneas efectuadas a través de plataformas de comercio electrónico), el NRC se consolidará en los sistemas de la Agencia Tributaria en el momento en el que éstos reciban la respuesta telemática de la plataforma de comercio electrónico, confirmando la efectiva realización del pago.
+
+5\. Validez del NRC. Para que un NRC pueda ser considerado valido será requisito imprescindible que previamente haya sido registrado en los sistemas de información de la Agencia Tributaria.
+
+Los NRC asociados a ingresos solo se admitirán para la realización de trámites ante la Agencia Tributaria, incluida la obtención de certificados de ésta, si han sido objeto de consolidación previa por la entidad colaboradora que corresponda, sin perjuicio de lo previsto en el apartado anterior en caso de concurrir circunstancias excepcionales en el procedimiento de consolidación.
+
+6\. Anulación del NRC. Las entidades colaboradoras podrán anular los NRC generados por la Agencia Tributaria cuando aún no se hayan consolidado, es decir, siempre que no se haya producido el abono del ingreso asociado en la cuenta restringida de la Agencia Tributaria ni la entrega de justificante del pago al obligado.
+
+La anulación de los NRC consolidados únicamente será admisible en los casos, condiciones y plazos que se establecen en la presente orden.
+
+El procedimiento para la anulación lo deberá iniciar la entidad colaboradora, que, a través del servicio habilitado al efecto, comunicará la solicitud de anulación a la Agencia Tributaria, la cual confirmará la petición de la entidad y tomará razón de la misma en sus sistemas de información. Para comunicar la anulación, la entidad colaboradora transmitirá a la Agencia Tributaria los datos que se recogen en el anexo VII.
+
+La anulación del NRC únicamente podrá ser realizada por la entidad colaboradora que solicitó su generación a la Agencia Tributaria.
+
+En caso de que, de acuerdo con lo establecido en la normativa aplicable, el NRC no fuese susceptible de anulación, la Agencia Tributaria informará de tal circunstancia a la entidad colaboradora, mediante la devolución del correspondiente error. En el caso de que, pese al mensaje de error recibido de la Agencia Tributaria, la entidad anulase el NRC, ésta no quedará liberada de la obligación de ingresar en el Tesoro el importe del pago improcedentemente anulado.
+
+El NRC únicamente podrá considerarse anulado cuando la anulación haya sido confirmada por la Agencia Tributaria. En caso contrario, y siempre que el NRC hubiera sido objeto de consolidación previa, la entidad colaboradora no quedará liberada de su obligación de ingresar su importe al Tesoro Público. Tampoco quedará liberada de dicha obligación aquella entidad colaboradora que anule improcedentemente el NRC después del abono en cuenta restringida del importe del ingreso asociado al mismo, pero con anterioridad a su consolidación ante la Agencia Tributaria.
+
+Una vez anulado, el NRC no podrá utilizarse para efectuar trámites ante la Agencia Tributaria.
+
+Con independencia del tipo de ingreso al que se encuentren asociados, no se permitirá la anulación de los NRC en los siguientes casos:
+
+‒ Cuando hubieran sido previamente utilizados para realizar trámites ante la Agencia Tributaria, incluida la obtención de certificados de ésta.
+
+‒ Cuando, en la toma de decisión en cualquier procedimiento o actuación de la Agencia Tributaria, el ingreso asociado al NRC hubiera sido considerado como efectivamente realizado por el obligado.
+
+‒ Cuando se trate de NRC asociados a pagos realizados a través de la Sede electrónica de la Agencia Tributaria mediante tarjetas de crédito o débito, en condiciones de comercio electrónico seguro.
+
+‒ Cuando se trate de NRC asociados a pagos realizados a través de la Sede electrónica de la Agencia Tributaria mediante transferencias instantáneas efectuadas a través plataformas de comercio electrónico seguro.
+
+7\. Condiciones de seguridad. Las condiciones y criterios de seguridad del sistema NRC se recogen en el anexo VII bis.
+
+> Se modifican los apartados 1 y 4 y el último párrafo del 6 por el art. 1.5 a 7 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se modifica por el art. 1.2 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+### Artículo 5. Cuentas restringidas.
+
+1\. Apertura de cuentas restringidas. Las Entidades de crédito autorizadas para actuar como colaboradoras en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria recogerán en cuentas restringidas los ingresos que resulten de los documentos presentados a tal fin por los obligados al pago.
+
+A los efectos de lo dispuesto en la presente orden, se entiende por cuenta restringida la cuenta corriente sin retribución y sin devengo de comisión alguna en la que sólo se pueden efectuar anotaciones en concepto de abonos y una única anotación por adeudo cada quincena para proceder a ingresar el saldo de la misma en la cuenta del Tesoro Público en el Banco de España.
+
+No obstante podrán efectuarse otros adeudos, cuando éstos tengan origen en anulaciones de abonos motivados por la concurrencia de alguna de las circunstancias mencionadas en los artículos 18, 19, 20 y 21 de esta orden, siempre que estén debidamente justificadas.
+
+El ámbito de las cuentas restringidas será nacional y la apertura de las mismas deberá realizarse en la oficina que cada Entidad colaboradora designe para relacionarse con la Agencia Estatal de Administración Tributaria, según lo previsto en el artículo 6 de la presente orden.
+
+2\. Cuentas restringidas que deben abrir las Entidades colaboradoras. Las Entidades colaboradoras procederán a abrir las siguientes cuentas restringidas, en función de los tipos de ingresos que se indican:
+
+a) «Tesoro Público: Cuenta restringida de colaboración en la recaudación de la Agencia Estatal de Administración Tributaria de autoliquidaciones». En esta cuenta se recogerán los ingresos que resulten de autoliquidaciones formuladas en los modelos normativamente establecidos que figuran como Anexo I.
+
+b) «Tesoro Público: Cuenta restringida de colaboración en la recaudación de la Agencia Estatal de Administración Tributaria de autoliquidaciones especiales». En esta cuenta se recogerán los ingresos que resulten de las autoliquidaciones formuladas en los modelos normativamente establecidos que figuran como Anexo II.
+
+c) «Tesoro Público. Cuenta restringida de colaboración en la recaudación de la Agencia Estatal de Administración Tributaria de liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos». En esta cuenta se recogerán los ingresos, formulados en los modelos que figuran en el Anexo III, derivados de liquidaciones practicadas por la Administración, tanto en período voluntario como en vía ejecutiva, así como los ingresos procedentes de embargos y otros ingresos no tributarios y de la Caja General de Depósitos.
+
+d) «Tesoro Público. Cuenta restringida de colaboración en la recaudación de las tasas que constituyen recursos del presupuesto del Estado». En esta cuenta se abonarán los ingresos resultantes de las tasas gestionadas por los órganos de la Administración General del Estado o por Organismos Autónomos cuya recaudación sea de aplicación al presupuesto del Estado formulados en los modelos normativamente establecidos que figuran como Anexo IV.
+
+Esta cuenta recogerá los ingresos tanto de las tasas liquidadas por la Administración como de las autoliquidadas por los obligados al pago.
+
+e) «Tesoro Público. Cuentas restringidas de colaboración en la recaudación de las tasas que constituyen recursos de los presupuestos de los organismos públicos o entidades de derecho público o cuya gestión se les atribuya en virtud de norma». En esta cuenta se abonarán los ingresos formulados en los modelos que figuran en el anexo V, resultantes de:
+
+1.º Las tasas gestionadas por los organismos autónomos, cuya recaudación sea de aplicación a los presupuestos de estos, o cuando la gestión les haya sido atribuida en virtud de norma legal o reglamentaria.
+
+2.º Las tasas gestionadas por otros organismos o entidades de derecho público vinculadas o dependientes de la Administración General del Estado, cuando hayan sido debidamente autorizados por el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria para utilizar el procedimiento que se regula en la presente orden.
+
+La codificación de estas cuentas se ajustará a la establecida en el sistema financiero de Código Cuenta Cliente (CCC) con la siguiente estructura:
+
+Cuatro dígitos para el código de la Entidad.
+
+Cuatro dígitos para el código de la oficina.
+
+Dos dígitos de control.
+
+Diez dígitos para el número de cuenta.
+
+Asimismo, se asignará a cada una de las cuentas el Número de Identificación Fiscal de la Agencia Estatal de Administración Tributaria.
+
+Una vez realizada la apertura de las cuentas restringidas, la Entidad colaboradora lo comunicará al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, con identificación de la codificación de cada una de ellas.
+
+3\. Ingreso en cuenta restringida. El abono en la cuenta restringida del Tesoro Público deberá realizarse en la misma fecha en que se produzca el ingreso en la Entidad colaboradora que, a su vez, coincidirá con la fecha de comunicación a la Agencia Tributaria por la entidad de la consolidación del NRC, según lo establecido en el punto 4 del artículo 4 de esta orden.
+
+En el caso de que el obligado hubiera realizado el ingreso en condiciones de comercio electrónico seguro, a través de la Sede electrónica de la Agencia Tributaria (mediante tarjetas de crédito/débito o mediante transferencias instantáneas efectuadas a través plataformas de comercio electrónico), la entidad colaboradora que gestione el pago quedará obligada, ineludiblemente, a abonar en cuenta restringida los ingresos correspondientes a los NRCs consolidados en los sistemas de la Agencia Tributaria.
+
+En cualquier caso, el abono en la cuenta restringida se realizará de forma individualizada, llevándose a cabo una anotación en cuenta por cada documento de ingreso recaudado.
+
+Únicamente se permitirá que el abono en la cuenta restringida se realice al día siguiente a la fecha en la que se hubiera producido el pago por parte del obligado, cuando concurran simultáneamente las condiciones siguientes:
+
+a) Que el obligado hubiera realizado el ingreso, en condiciones de comercio electrónico seguro, a través de la Sede electrónica de la Agencia Tributaria, mediante tarjetas de crédito o débito o mediante transferencias instantáneas efectuadas a través plataformas de comercio electrónico.
+
+b) Que los protocolos y procedimientos establecidos en el mercado financiero para la gestión de los pagos en condiciones de comercio electrónico seguro imposibiliten que el abono en la cuenta restringida pueda ser efectuado en la misma fecha en la que se produjo el pago por parte del obligado.
+
+Cuando el ingreso se haya efectuado mediante domiciliación en cuentas abiertas en entidades no colaboradoras radicadas en la Zona Única de Pagos en Euros o *Single Euro Payments Area* (Zona SEPA), se permitirá que la entidad colaboradora que gestione la domiciliación efectúe al abono en la cuenta restringida a los sesenta días de la fecha en la que se hubiera producido el adeudo de su importe en la cuenta del obligado.
+
+4\. Aportación de extractos de las cuentas restringidas por las entidades colaboradoras. El Departamento de Recaudación, a través del Equipo Central de Control de Entidades Colaboradoras, podrá solicitar de dichas entidades extractos de las cuentas restringidas que, para cada operación de ingreso, deberán contener, como mínimo, los siguientes datos relativos al período para el que se soliciten:
+
+a) Concepto de la operación, que corresponderá a alguno de los siguientes:
+
+1.º Abono normal, realizado en la fecha de ingreso del obligado al pago y coincidente con la fecha de comunicación a la Agencia Tributaria del NRC asociado al pago y con la fecha de ingreso que figure en el justificante de pago proporcionado o entregado al obligado.
+
+2.º Cargo por anulación de apunte, que se efectuará por el mismo importe por el que se realizó el abono improcedente por error de imputación, por duplicidad o por cobros incorrectos.
+
+3.º Cargo por ingreso en Banco de España.
+
+Cada entidad colaboradora podrá expresar los anteriores conceptos por medio de códigos, numéricos o alfabéticos, siempre que el extracto indique claramente el significado de cada uno de ellos.
+
+b) Fecha de valoración, que deberá coincidir con la que conste en el justificante de pago proporcionado o entregado al obligado, excepto cuando la anotación en cuenta se refiera a la anulación de un asiento anterior, en cuyo caso, la fecha de valoración será aquella que, como fecha de operación, se consignó en la anotación que se anula.
+
+c) Fecha de operación, que será la de anotación efectiva en cuenta restringida.
+
+d) Importe del ingreso o del cargo.
+
+e) Código numérico identificativo de la sucursal que validó o emitió el correspondiente justificante de ingreso.
+
+f) Saldo de la cuenta tras cada operación de ingreso o de adeudo (únicamente cuando el extracto se suministre por la entidad colaboradora en soporte papel).
+
+Cuando el número de operaciones que comprenda sea superior a quinientas, las entidades colaboradoras deberán suministrar el extracto por teleproceso, de acuerdo con las especificaciones técnicas que figuran en el anexo VIII. Cuando el número de operaciones fuera igual o inferior a quinientas, las entidades colaboradoras podrán optar por remitir el extracto en papel o por teleproceso.
+
+A requerimiento del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, las entidades colaboradoras deberán proporcionar a éste las herramientas y claves que permitan que tanto la consulta como la obtención de los movimientos de las cuentas restringidas puedan llevarse a cabo por Internet.
+
+> Se modifica la letra e) del apartado 2 y el apartado 3 por el art. 1.8 y 9 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se modifica el tercer párrafo del apartado 1 y los apartados 3 y 4 por el art. 1.3 a 5 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica el apartado 3 por el art. único.2 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)
+
+> Se modifica el apartado 4 por el art. único.1 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
+
+### Artículo 6. Oficina Centralizadora Nacional.
+
+De acuerdo con lo dispuesto en el artículo 17.4 del Reglamento General de Recaudación, las referencias contenidas en la presente orden a la oficina centralizadora se entenderán hechas a la oficina designada por cada Entidad desde la que se efectuarán todas las operaciones de ingreso en el Banco de España y la transmisión de información a nivel nacional, así como las comunicaciones con el Departamento de Recaudación relacionadas con la prestación del servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de la Administración Tributaria.
+
+### Artículo 7. Quincenas recaudatorias para las Entidades colaboradoras.
+
+Cada quincena comprenderá desde el día siguiente al de finalización de la quincena anterior hasta el cinco o veinte siguiente o hasta el inmediato hábil posterior si el cinco o el veinte son inhábiles.
+
+A estos efectos, tendrán la consideración de inhábiles los sábados, los domingos, las festividades nacionales, las festividades autonómicas y locales correspondientes al municipio en el que se encuentre situada la oficina central del Banco de España y el Lunes de Pascua.
+
+El vencimiento de cada quincena será único a nivel nacional y coincidirá con la fecha de finalización de la misma.
+
+> Se modifica por el art. 1.6 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica por el art. único.2 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+### Artículo 8. Conservación de documentación e información.
+
+Las Entidades colaboradoras están obligadas a conservar el ejemplar destinado a las mismas de los documentos justificativos de los ingresos y de las solicitudes de devolución durante un período de cinco años a contar desde su recepción, así como a mantener durante el mismo período de tiempo los registros informáticos relativos a las cantidades ingresadas en la cuenta del Tesoro en el Banco de España y a las demás operaciones realizadas en su condición de colaboradoras, a efectos de la realización de los controles y verificaciones que pudieran determinarse por el titular del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria.
+
+En aquellos supuestos en los que los justificantes de pago sean los documentos sustitutivos de la validación mecánica previstos en el artículo 3.1 de la presente orden o alguno de los recibos a que se refieren el artículo 3.2 y 3, las entidades deberán conservar durante un período de cinco años los soportes informáticos relativos a la generación de tales recibos, de forma que puedan obtenerse duplicados de los mismos, a petición del Equipo Central de Control de Entidades Colaboradoras o de los obligados al pago.
+
+> Se modifica el segundo párrafo por el art. 1.7 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+## CAPITULO II — Procedimiento general de ingreso de las Entidades colaboradoras en el Banco de España
+
+### Artículo 9. Plazos para efectuar el ingreso.
+
+Las Entidades colaboradoras ingresarán en la cuenta del Tesoro en el Banco de España lo recaudado en cada quincena, atendiendo para ello a los plazos siguientes:
+
+1\. Las cantidades recaudadas durante la quincena que finaliza el día de 5 de cada mes deberán ingresarse, con carácter general, el día 18 de ese mismo mes o el inmediato hábil anterior.
+
+No obstante, aquellos importes que se refieran a las autoliquidaciones que figuran en el anexo XVII deberán ser ingresados por las Entidades colaboradoras el día 5 de cada mes o el inmediato hábil posterior.
+
+2\. Los importes recaudados durante la quincena que finaliza el día 20 de cada mes deberán ser ingresadas el penúltimo día hábil de ese mes.
+
+A efectos del ingreso, se considerarán días inhábiles los sábados, los domingos y las festividades (nacionales, autonómicas y locales) que afecten a la localidad en la que se encuentre situada la oficina central del Banco de España.
+
+En caso de que el día de ingreso determinado de acuerdo con los párrafos anteriores permaneciera cerrado el sistema automatizado transeuropeo de transferencia urgente para la liquidación bruta en tiempo real, las Entidades colaboradoras deberán efectuar el ingreso el día hábil inmediatamente anterior.
+
+Las Asociaciones representativas de las Entidades colaboradoras deberán comunicar al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria los días en los que vaya a permanecer cerrado el sistema automatizado transeuropeo de transferencia urgente para la liquidación bruta en tiempo real, tan pronto como éstos sean conocidos y, en todo caso, antes del 1 de diciembre de cada año.
+
+> Se modifica por el art. único.3 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la primera quincena del mes de agosto de 2018, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. único.3 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+### Artículo 10. Requerimientos de pago.
+
+Conforme a lo previsto en el artículo 26.2 del Reglamento General de Recaudación, la falta total o parcial del ingreso en la cuenta del Tesoro en el Banco de España por las Entidades colaboradoras en los plazos establecidos, comportará la inmediata exigibilidad de aquél y la liquidación de los intereses de demora correspondientes.
+
+A estos efectos, el Equipo Central de Control de Entidades Colaboradoras exigirá a la Entidad el inmediato ingreso en el Banco de España del importe pendiente.
+
+Si con posterioridad al cuadre por la Agencia Estatal de Administración Tributaria de una quincena recaudatoria, se detectara la falta de ingreso por la Entidad colaboradora de uno o más documentos, ésta deberá efectuar el ingreso en el Banco de España de las cantidades pendientes junto con las de la quincena que corresponda a la fecha de recepción del escrito en el que se exija la realización del mencionado ingreso. En caso de que la falta de ingreso fuera detectada por la propia Entidad colaboradora, ésta procederá de forma idéntica.
+
+Una vez efectuado el ingreso, por el Equipo Central de Control de Entidades Colaboradoras se procederá a liquidar los intereses de demora devengados, que se notificarán a la Entidad.
+
+Siempre que los sistemas de la Agencia Estatal de Administración Tributaria lo permitan, y a petición expresa de cada Entidad colaboradora, se suministrará adicionalmente a ésta por medios informáticos el detalle de los datos tomados como base para la liquidación practicada.
+
+En aquellos casos en los que la Entidad no efectuase el ingreso, se procederá a exigir a ésta la cantidad adeudada por la vía administrativa de apremio.
+
+### Artículo 11. Procedimiento de ingreso.
+
+Las Entidades colaboradoras efectuarán el ingreso de las cantidades recaudadas en todas sus oficinas en todo el territorio nacional de forma centralizada en la cuenta del Tesoro en la oficina central del Banco de España.
+
+1\. Información previa: Saldos de las cuentas restringidas. El segundo día hábil siguiente al del fin de cada quincena, la oficina centralizadora de cada entidad enviará al Departamento de Recaudación, vía teleproceso, o correo electrónico ante causas de fuerza mayor, los saldos de las cuentas restringidas detalladas en el artículo 5.2.a), b) y c) de la presente orden, correspondientes a la quincena de que se trate. Esta información se ajustará a las especificaciones técnicas y al modelo de remisión por correo electrónico que figuran en el anexo IX.
+
+A efectos de la comunicación de saldos, se considerarán días inhábiles los sábados y las festividades (nacionales, autonómicas o locales) que afecten tanto a la localidad en que radique la oficina centralizadora designada por cada Entidad como a aquella en que radique la sede del Departamento de Recaudación.
+
+La Entidad transmisora podrá incluir la información relativa a otras Entidades colaboradoras.
+
+En caso de que, con posterioridad a la comunicación de los saldos, éstos experimentaran variaciones significativas, la Entidad comunicará al Departamento de Recaudación el saldo final correcto. Dicha comunicación se efectuará en todo caso antes del ingreso en el Banco de España y se llevará a cabo mediante correo electrónico, utilizando el modelo recogido a tal efecto en el anexo IX. A estos exclusivos efectos, se entenderá que la fecha de ingreso en el Banco de España de las quincenas que finalizan el día 5 de cada mes es el día 18 de ese mismo mes o el inmediato hábil anterior.
+
+Se considerarán significativas (para cada tipo de ingreso) las diferencias entre el saldo inicialmente comunicado y el saldo correcto que excedan de 100.000 euros o de un 1 por 100 calculado sobre el saldo inicialmente comunicado. No obstante lo anterior, las Entidades podrán comunicar al Departamento de Recaudación variaciones inferiores a las anteriormente señaladas.
+
+Una vez que la Entidad haya efectuado el ingreso en el Banco de España de la quincena correspondiente, el Equipo Central de Control de Entidades Colaboradoras comprobará que el total de cada uno de los ingresos coincide con los saldos de las cuentas correspondientes, pudiendo solicitar a la Entidad justificación de las diferencias que, en su caso, se produzcan.
+
+2\. Ingreso. Las Entidades colaboradoras efectuarán mediante transferencia el ingreso en el Banco de España de las cantidades recaudadas en cada quincena, de acuerdo con los procedimientos y horario que éste establezca en cada momento para este tipo de operaciones.
+
+Las órdenes de transferencia, una por cada tipo de cuenta restringida, se enviarán vía teleproceso al Banco de España, y deberán contener los siguientes datos:
+
+a) Importe total ingresado, con indicación del número de documentos que comprende el ingreso.
+
+b) Indicación del código correspondiente a cada tipo de ingreso que será:
+
+021: Para autoliquidaciones.
+
+022: Para autoliquidaciones especiales.
+
+023: Para liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos.
+
+050: Para tasas que constituyen recursos del presupuesto del Estado.
+
+051: Para tasas que constituyen recursos de los presupuestos de los Organismos Públicos vinculados a la Administración General de Estado.
+
+c) Cuando el ingreso corresponda a los códigos 021 y 022, se incluirá un desglose de documentos de ingreso por modelos e importe de cada uno de ellos.
+
+d) Identificación de la Entidad colaboradora.
+
+e) Quincena a la que corresponde el ingreso.
+
+f) Fecha de ingreso.
+
+Cuando por imposibilidades técnicas no se pudiese efectuar el ingreso por línea de teleproceso, se utilizará para ello el documento que figura como Anexo X, presentándose en la forma indicada en el párrafo siguiente.
+
+Asimismo, aquellas Entidades que no estén conectadas por línea de teleproceso con la central del Banco de España, utilizarán la red propia de dicho Banco a nivel provincial o autonómico a efectos de ordenar la correspondiente transferencia a nivel nacional, utilizando para ello el documento que figura como Anexo X, comprensivo de los datos identificativos de aquélla.
+
+Las órdenes de transferencia liberarán a la Entidad colaboradora, por el importe satisfecho, cuando se haya procedido a su anotación en firme en la cuenta del Tesoro en el Banco de España.
+
+En consecuencia, si llegada la fecha del ingreso éste no se hubiese efectuado, o se hubiese hecho parcialmente, el importe impagado se exigirá a la Entidad colaboradora por el Equipo Central de Control de Entidades Colaboradoras, de acuerdo con el procedimiento establecido en el artículo 10 de esta orden.
+
+3\. Información de los ingresos en la cuenta del Tesoro. Efectuado el ingreso, en el mismo día y una vez realizado el cierre general de operaciones del Banco de España, éste facilitará por teleproceso el archivo definitivo de los ingresos del día al Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria y a la Dirección General del Tesoro y Política Financiera. Esta información se ajustará a las especificaciones técnicas que figuran en el Anexo XI.
+
+Si por motivos excepcionales no fuera posible realizar la transmisión de la información conforme a lo especificado, el Banco de España presentará ésta en soporte magnético.
+
+En caso de que se detecten errores en la validación de la transmisión, se rechazará la misma y se comunicará la incidencia al Banco de España, el cual deberá subsanar los errores advertidos lo antes posible y, en todo caso, en el plazo máximo de dos días desde la comunicación del rechazo.
+
+A partir de la información suministrada por el Banco de España, la Dirección General del Tesoro y Política Financiera confeccionará una hoja de arqueo contable que deberá remitir el mismo día a la Subdirección General de Contabilidad del Departamento de Recursos Humanos y Administración Económica de la Agencia Estatal de Administración Tributaria.
+
+> Se suprimen las referencias al fax del apartado 1 por el art. 1.10 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se modifica el apartado 1 por el art. único.4 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)
+
+## CAPITULO III — Aportación de información por las Entidades colaboradoras relativa a los ingresos por ellas recaudados
+
+### Artículo 12. Plazos y forma de presentación.
+
+La información que, conforme a lo previsto en el artículo 29.2 del Reglamento General de Recaudación, las Entidades colaboradoras están obligadas a aportar a la Agencia Estatal de Administración Tributaria se presentará centralizadamente por teleproceso en los plazos siguientes:
+
+A. Información relativa a las quincenas cuyo vencimiento genérico sea el día 5 de cada mes:
+
+Cuando se trate de autoliquidaciones incluidas en el Anexo XVII, dentro de los cinco primeros días hábiles de cada mes.
+
+Cuando se trate de autoliquidaciones no incluidas en el Anexo XVII, el mismo día en que la Entidad efectúe el ingreso en el Banco de España. Respecto de este tipo de autoliquidaciones, no se admitirán presentaciones de información realizadas con anterioridad al día 13 del mes. Estas presentaciones podrán contener información relativa a autoliquidaciones incluidas en el Anexo XVII.
+
+Cuando se trate de autoliquidaciones especiales y liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos, a los cuatro días hábiles siguientes a la finalización de la quincena correspondiente.
+
+Cuando se trate de tasas, el mismo día en que la Entidad efectúe el ingreso en el Banco de España.
+
+B. Información relativa a las quincenas cuyo vencimiento genérico sea el día 20 de cada mes:
+
+Cuando se trate de autoliquidaciones (incluidas y no incluidas en el Anexo XVII), el mismo día en que efectúe la Entidad el ingreso en Banco de España.
+
+Cuando se trate de autoliquidaciones especiales y liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos, a los cuatro días hábiles siguientes a la finalización de la quincena correspondiente.
+
+Cuando se trate de tasas, el mismo día en que la Entidad efectúe el ingreso en el Banco de España.
+
+A efectos de lo previsto en este artículo, se considerarán días inhábiles los sábados y las festividades (nacionales, autonómicas y locales) que afecten tanto a la localidad donde se ubique la oficina centralizadora de la Entidad como a la localidad en que radique la sede el Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria.
+
+La información se transmitirá al Departamento de Informática Tributaria conforme a las especificaciones contenidas en el Anexo XII, conteniendo los datos identificativos siguientes:
+
+a) Importe total del ingreso y número de documentos que comprende el mismo.
+
+b) Indicación del código correspondiente a cada tipo de ingreso con desglose en su caso por modelos e importe de cada uno de ellos.
+
+c) Clave de la Entidad.
+
+d) Quincena a la que corresponde el ingreso.
+
+e) Fecha de ingreso en Banco de España cuando se refiera a autoliquidaciones.
+
+La Entidad transmisora podrá incluir la información relativa a otras Entidades colaboradoras.
+
+> Se modifica por el art. único.5 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la primera quincena del mes de agosto de 2018, según establece la disposición final única de la citada Orden.
+
+### Artículo 13. Validación de la información.
+
+Con el fin de que la información aportada por las Entidades colaboradoras sea correctamente incorporada a las correspondientes Bases de Datos de la Agencia Estatal de Administración Tributaria, el Departamento de Informática Tributaria efectuará un proceso de validación de los datos suministrados, vía teleproceso, conforme a las especificaciones que figuran en el Anexo XIII.
+
+Dicho proceso se realizará de la forma siguiente:
+
+1\. Para las autoliquidaciones (Anexo I), las autoliquidaciones especiales (Anexo II) y las liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos (Anexo III). Se procederá a validar la información de detalle con el fin de verificar su contenido y que éste se ajusta a las especificaciones anteriormente mencionadas. Dependiendo del resultado de esta validación, procederá:
+
+a) Aceptación provisional, lo que implicará la inexistencia de errores o que, aun existiendo, éstos son leves y no superan los límites establecidos.
+
+b) Rechazo. Procederá el rechazo de la información cuando en el proceso de validación se detecten:
+
+1.º Uno o más errores de los denominados graves.
+
+2.º Un número total de errores leves o porcentaje superior al indicado en el Anexo XIII, es decir, cien errores en valor absoluto o un uno por ciento de errores sobre el total, en valor relativo.
+
+El plazo para subsanar los errores detectados y presentar de nuevo la información será de dos días hábiles, a partir de la fecha en que se produzca el rechazo.
+
+2\. Para las tasas (Anexos IV y V). Se validará la información de detalle con el fin de verificar su contenido y que éste se ajusta a las especificaciones anteriormente mencionadas, dependiendo del resultado procederá:
+
+a) Aceptación provisional, lo que implicará la completa inexistencia de errores.
+
+b) Rechazo. Procederá el rechazo de la información cuando en el proceso de validación se detecte alguno de los errores denominados graves.
+
+El plazo para subsanar los errores detectados y presentar de nuevo la información será de dos días hábiles, a partir de la fecha en que se produzca el rechazo.
+
+### Artículo 14. Transmisiones de información sustitutivas de otras anteriores.
+
+Una vez remitida y aceptada la información y antes de haber procedido al ingreso en el Banco de España, si la Entidad colaboradora detectase que el contenido de aquélla es erróneo o incluye alguna de las incidencias a que se refieren los artículos 18, 19, 20 y 21 de la presente orden, lo comunicará al Departamento de Informática Tributaria, realizando una nueva transmisión sustitutiva de las ya enviadas.
+
+### Artículo 15. Proceso de cuadre y aceptación definitiva de la información.
+
+La aceptación definitiva de la información correspondiente a cada tipo de ingreso quedará condicionada al cuadre del importe total ingresado en el Banco de España por la Entidad con el importe total que figure en la información suministrada por la misma para ese tipo de ingreso.
+
+Si dichos importes no coinciden, se comunicará por el Departamento de Informática Tributaria al Departamento de Recaudación el cual, a través del Equipo Central de Control de Entidades Colaboradoras, lo pondrá de manifiesto a la Entidad colaboradora, concediendo a ésta un plazo de dos días para que subsane las deficiencias detectadas del modo que se recoge en el artículo 22.1 de la presente orden.
+
+Si realizadas dichas operaciones las cantidades coinciden, procederá la aceptación definitiva de dicha información, que tendrá las siguientes implicaciones:
+
+1\. Para las autoliquidaciones (Anexo I), las autoliquidaciones especiales (Anexo II) y las liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos (Anexo III). La aceptación definitiva de la información implicará la inexistencia de errores o, aun existiendo, que éstos sean leves y no superen los límites establecidos.
+
+Se dará por aceptada la información si en el plazo de dos días hábiles desde el día del ingreso no hay comunicación en contrario por el Equipo Central de Control de Entidades Colaboradoras, procediéndose a su distribución a las Bases de datos de la Agencia Estatal de Administración Tributaria.
+
+En caso de existir errores leves, las Dependencias de Recaudación lo comunicarán a la correspondiente Entidad, concediendo a ésta un plazo máximo de diez días hábiles para que aporte la documentación necesaria para proceder a su subsanación.
+
+Con independencia de todo lo anterior, el Equipo Central de Control de Entidades Colaboradoras comprobará que el total de cada uno de los ingresos coincide con los saldos de las cuentas correspondientes. En caso de que existan diferencias, dicho Equipo podrá requerir a la Entidad correspondiente justificación sobre dichos extremos.
+
+2\. Para las tasas (Anexos IV y V). La aceptación definitiva de la información implicará la absoluta inexistencia de errores.
+
+Se dará por aceptada la información si en el plazo de dos días hábiles, desde el día del ingreso, no hay comunicación en contrario por el Equipo Central de Control de Entidades Colaboradoras.
+
+A partir de la aceptación definitiva de la información se procederá a la distribución de ésta a los distintos Centros gestores de tasas.
+
+## CAPITULO IV — Presentación de información relativa a solicitudes de devolución por transferencia y a declaraciones del Impuesto sobre la Renta de las Personas Físicas con resultado a ingresar o a devolver igual a cero, como consecuencia de la aplicación del artículo 97.6 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación de parcial de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio
+
+### Artículo 16. Plazos y forma de presentación.
+
+El procedimiento establecido en el presente capítulo será aplicable para los siguientes modelos:
+
+a) Todos los incluidos en el Anexo VI de la presente orden.
+
+b) El modelo 100 (IRPF-Declaración Anual. Documento de ingreso o devolución), en todos aquellos casos en los que el resultado de la declaración sea igual a cero por aplicación de la opción de suspensión del ingreso o renuncia al cobro de la devolución prevista en el apartado 6 del artículo 97 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la Renta de las Personas Físicas y de modificación de parcial de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+Las Entidades transmitirán al Departamento de Informática Tributaria, vía teleproceso, la información relativa a los modelos anteriormente indicados, en los siguientes plazos máximos:
+
+a) En el caso de solicitudes de devolución presentadas por el obligado tributario entre los días 1 y 15 de cada mes, antes del último día hábil de ese mes.
+
+b) En el caso de solicitudes de devolución presentadas por los obligados tributarios, entre los días 16 y último del mes, hasta el día 15 del mes siguiente o el inmediato hábil posterior.
+
+A estos efectos, se considerarán días inhábiles los sábados y las festividades (nacionales, autonómicas y locales) que afecten tanto a la localidad donde se ubique la oficina centralizadora de la Entidad como a la localidad en que radique la sede del Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria.
+
+La Entidad transmisora de la información podrá incluir la relativa a otras Entidades colaboradoras.
+
+La información se ajustará a las especificaciones establecidas en el Anexo XIV.
+
+### Artículo 17. Validación de la información.
+
+Con el fin de que la información aportada por las entidades sea incorporada correctamente a las Bases de Datos de la Agencia Estatal de Administración Tributaria, el Departamento de Informática Tributaria efectuará un proceso de validación de los datos suministrados, vía teleproceso, conforme a las especificaciones que figuran en el Anexo XV, en el cual se verificará:
+
+a) Que las características de la información se ajustan a las especificaciones señaladas en el Anexo XIV.
+
+b) Que el total de los documentos incluidos en la información coinciden con el sumatorio de las cantidades individuales contenidas en la misma.
+
+El proceso de validación y tratamiento de las posibles incidencias o errores detectados se ajustará a lo señalado en el artículo 13.1 de la presente orden, teniendo en cuenta la tipificación de errores que a estos efectos figura en el Anexo XV.
+
+## CAPITULO V — Incidencias en la prestación del servicio de colaboración
+
+### Artículo 18. Errores de imputación en las cuentas restringidas o abonos duplicados en tales cuentas.
+
+1\. Errores de imputación. Cuando las entidades colaboradoras incurriesen en errores de imputación de los ingresos en sus respectivas cuentas restringidas, y siempre que el error sea detectado antes de realizar el ingreso correspondiente en el Banco de España, procederán a anular el asiento mediante cargo en la cuenta restringida errónea y a realizar el inmediato abono en la cuenta restringida correcta por el mismo importe.
+
+A estos efectos, únicamente se entenderá producido un error de imputación cuando el pago realizado por el obligado haya sido abonado por la entidad colaboradora en una cuenta restringida que, de acuerdo con lo establecido en el artículo 5 de la presente orden, sea incorrecta.
+
+2\. Abonos duplicados. En caso de que, existiendo un único pago por parte del obligado (es decir, que la Agencia Tributaria haya generado un solo NRC asociado a ese ingreso) la entidad colaboradora abonase por duplicado su importe en la cuenta restringida, y siempre que el error sea detectado antes de realizar el ingreso correspondiente en el Banco de España, procederá a anular el asiento duplicado mediante cargo por el mismo importe en la cuenta restringida.
+
+3\. Justificación. En todo caso, las entidades colaboradoras deberán justificar documentalmente las incidencias referidas en los apartados 1 y 2 de este artículo cuando así les sea requerido por el Equipo Central de Control de Entidades Colaboradoras.
+
+> Se modifica por el art. 1.8 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica el apartado 1 por el art. 1.2 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+> Se modifica por el art. único.4 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+### Artículo 19. Errores en los NRC consolidados ante la Agencia Estatal de Administración Tributaria. Anulación de ingresos por las entidades colaboradoras.
+
+1\. Procedimiento y plazo. Cuando una entidad colaboradora hubiese consolidado un NRC ante la Agencia Estatal de Administración Tributaria con el importe u otro dato incorrecto, y siempre que el error sea detectado antes de realizar el ingreso correspondiente en el Banco de España, deberá proceder a la anulación de dicho NRC, en los términos y condiciones previstos en el punto 6 del artículo 4 de esta orden.
+
+Una vez transmitida la anulación del NRC y admitida la misma por la Agencia Tributaria, la entidad colaboradora procederá a anular el ingreso erróneo, mediante cargo en la cuenta restringida que corresponda.
+
+En caso de ser necesario, tras la anulación, la entidad colaboradora procederá a gestionar nuevamente el pago del obligado, solicitando a la Agencia Tributaria la generación de un nuevo NRC con los datos que resulten correctos.
+
+Las entidades colaboradoras estarán obligadas a llevar a cabo las anulaciones de los justificantes con NRC hasta el día siguiente hábil a la finalización de la quincena que corresponda a la fecha de ingreso que conste en el recibo erróneo. A estos efectos, se considerarán inhábiles los sábados y las festividades de carácter nacional.
+
+Sin perjuicio de lo establecido en el último inciso del artículo 34.4 del Reglamento General de Recaudación, será responsabilidad de la entidad colaboradora que el obligado al pago no tenga en su poder justificantes de ingreso en los que consten importes u otros datos que no se ajusten a la realidad del pago.
+
+2\. Justificación. Las entidades colaboradoras deberán justificar documentalmente las incidencias referidas en el apartado 1 cuando les sea requerido por el Equipo Central de Control de Entidades Colaboradoras.
+
+En aquellos supuestos en los que la anulación del ingreso se deba a una orden del obligado al pago a la entidad colaboradora, será responsabilidad de ésta disponer de los documentos que acrediten fehacientemente la orden de anulación del obligado.
+
+3\. Autorización previa de la Agencia Estatal de Administración Tributaria. Sin perjuicio de lo anterior, la anulación del NRC precisará de autorización previa de la Agencia Estatal de Administración Tributaria en los siguientes casos:
+
+a) Declaraciones-liquidaciones correspondientes al Impuesto Especial sobre Determinados Medios de Transporte (modelo 576).
+
+b) Declaraciones-liquidaciones correspondientes a la tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social (modelo 696).
+
+c) En los demás casos en que así se establezca por el titular del Ministerio de Hacienda.
+
+En estos supuestos, cuando la entidad colaboradora generase un NRC erróneo, el obligado al pago comunicará, presencial o telemáticamente, la incidencia a los órganos de recaudación de las Delegaciones y Administraciones de la Agencia Estatal de Administración Tributaria.
+
+Dichos órganos, una vez realizadas las comprobaciones oportunas, facilitarán al obligado un documento que autorizará expresamente la inmediata anulación del NRC erróneamente generado. En base a ese documento, que deberá ser entregado por el obligado a la entidad colaboradora, ésta procederá tanto a la anulación del NRC erróneo como a la retrocesión de la operación de ingreso que motivó su generación, en los términos indicados en el punto 1 de este artículo.
+
+En los casos en que, siendo requisito necesario, la entidad colaboradora anulase un NRC consolidado sin contar con una autorización previa y escrita de la Agencia Tributaria, la entidad no quedará liberada de la obligación de ingresar en el Tesoro el importe del pago improcedentemente anulado.
+
+En todo caso, el documento de autorización de anulación que emitan los órganos de la Agencia Estatal de Administración Tributaria contendrá un código mediante el cual la correspondiente entidad colaboradora deberá comprobar la autenticidad y validez del documento de autorización que le sea presentado. Dicha comprobación podrá ser realizada en todo caso a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+Serán responsabilidad de las entidades colaboradoras las incidencias que se deriven de la anulación de NRC sin comprobar previamente la autenticidad y validez del documento de autorización.
+
+4\. Ingresos no anulables. Además de los citados en el último párrafo del punto 6 del artículo 4 de esta orden, las entidades colaboradoras no podrán, en ningún caso y bajo ninguna condición, proceder a anular ingresos consolidados que correspondan a los modelos incluidos en el anexo III.
+
+En caso de que la entidad colaboradora anulase o rectificase el importe de los ingresos a que se refiere el párrafo anterior, no quedará liberada de la obligación de ingresar en el Tesoro el importe anulado de forma improcedente.
+
+> Se modifica por el art. 1.9 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica por el art. 1.3 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+> Esta modificación no será de aplicación hasta el 23 de noviembre de 2020, según establece la disposición final de la citada Orden.
+
+> Se modifica por el art. único.5 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
+
+### Artículo 20. Errores en los NRC consolidados ante la Agencia Estatal de Administración Tributaria por ingresos domiciliados.
+
+1\. Procedimiento. En aquellos casos en los que, tras comunicar a la Agencia Tributaria la consolidación de un NRC asociado a un pago domiciliado por el obligado, la entidad colaboradora detectase que esa consolidación resulta errónea, y siempre que el error sea detectado antes de realizar el ingreso correspondiente en el Banco de España, la entidad deberá proceder a la anulación de dicho NRC, en los términos y condiciones previstos en el punto 6 del artículo 4 de esta orden.
+
+Las entidades colaboradoras actuarán de acuerdo con lo indicado en el párrafo anterior en aquellos supuestos en los que, tras comunicar a la Agencia Tributaria, la consolidación del NRC, detectasen que la cuenta en la que el pago fue domiciliado por el obligado carece de saldo suficiente para atender la orden de domiciliación el día de su vencimiento o que dicha cuenta incumple alguno de los requisitos establecidos por el artículo 2 de la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas a través de cuentas abiertas en las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+Una vez transmitida la anulación del NRC y admitida la misma por la Agencia Tributaria, la entidad colaboradora procederá a anular el ingreso erróneo, mediante cargo en la cuenta restringida que corresponda.
+
+En caso de ser necesario, tras la anulación, la entidad colaboradora procederá a gestionar nuevamente el pago del obligado, solicitando a la Agencia Tributaria la generación de un nuevo NRC con los datos que resulten correctos.
+
+Sin perjuicio de lo establecido en el último inciso del artículo 34.4 del Reglamento General de Recaudación, será responsabilidad de la entidad colaboradora que el obligado al pago no tenga en su poder justificantes de ingreso en los que consten importes u otros datos que no se ajusten a la realidad del pago.
+
+2\. Justificación. Las entidades colaboradoras deberán justificar documentalmente las incidencias cuando les sea requerido por el Equipo Central de Control de Entidades Colaboradoras.
+
+3\. Ingresos no anulables. Además de los citados en el último párrafo del punto 6 del artículo 4 de esta orden, las entidades colaboradoras no podrán, en ningún caso y bajo ninguna condición, proceder a anular ingresos consolidados que correspondan a los modelos incluidos en el anexo III.
+
+En caso de que la entidad colaboradora anulase o rectificase el importe de los ingresos a que se refiere el párrafo anterior, no quedará liberada de la obligación de ingresar en el Tesoro el importe anulado de forma improcedente.
+
+> Se modifica por el art. 1.10 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Téngase en cuenta la disposición final tercera para su aplicación. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica por el art. 1.4 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+> Esta modificación no será de aplicación hasta el 23 de noviembre de 2020, según establece la disposición final de la citada Orden.
+
+### Artículo 21. Errores en la emisión de recibos con NRC.
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.11 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica por el art. 1.5 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+> Esta modificación no será de aplicación hasta el 23 de noviembre de 2020, según establece la disposición final de la citada Orden.
+
+> Se añade el apartado 4 por el art. único.6 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
+
+> Se modifica el apartado 2 por la disposición final 1.1 de la Orden HAP/2662/2012, de 13 de diciembre. [Ref. BOE-A-2012-15141](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15141).
+
+### Artículo 22. Incidencias en las operaciones de ingreso en el Banco de España.
+
+1\. Descuadre entre el ingreso quincenal en el Banco de España y la información de detalle presentada a la Agencia Estatal de Administración Tributaria. En caso de que en el proceso de cuadre a que se refiere el artículo 15 de esta orden se produjesen diferencias entre el importe ingresado por la Entidad colaboradora en el Banco de España y el que figura en el total de la información aportada por ella a la Agencia Estatal de Administración Tributaria, la Entidad procederá del modo siguiente:
+
+a) Cuando el error sea imputable a la transmisión de información, la Entidad procederá a subsanar los errores de acuerdo con el procedimiento fijado en los artículos 13 y 14 de esta orden.
+
+b) Cuando la Entidad hubiera ingresado en el Banco de España un importe superior al correcto, presentará la oportuna solicitud de devolución ante el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria.
+
+Recibida la solicitud y después de efectuadas las comprobaciones pertinentes, el Departamento de Recaudación propondrá la devolución de las cantidades ingresadas en exceso a la Dirección General del Tesoro y Política Financiera, a través del Departamento de Recursos Humanos y Administración Económica de la Agencia Estatal de Administración Tributaria. No obstante, este Departamento efectuará directamente la devolución cuando ésta se refiera a tasas que constituyen recursos de los presupuestos de los Organismos Públicos (código 051).
+
+c) Cuando la Entidad hubiera ingresado en el Banco de España un importe inferior al correcto, el Equipo Central de Control de Entidades Colaboradoras exigirá a la Entidad el inmediato ingreso complementario en el Banco de España. Dicho ingreso se realizará de acuerdo con el procedimiento establecido en el artículo11.2 de esta orden.
+
+2\. Supuestos de reembolso a Entidades colaboradoras por ingresos excesivos o duplicados.–Sin perjuicio de lo previsto en el apartado 1 de este mismo artículo, las Entidades colaboradoras podrán solicitar de la Agencia Estatal de Administración Tributaria el reembolso de ingresos en los siguientes casos:
+
+a) Cuando la Entidad hubiera ingresado en el Banco de España importes superiores a los que figuran en la validación de los documentos de ingreso por ella recaudados o de los que constan en los recibos y demás justificantes de pago por ella emitidos.
+
+b) Tratándose del modelo 008 (documento de ingreso asociado a diligencias de embargo), cuando la Entidad colaboradora hubiera validado e ingresado en el Banco de España un importe superior al que, de acuerdo con la cumplimentación del documento de ingreso, pretendía ingresar realmente el pagador del embargo.
+
+En estos supuestos, será requisito imprescindible que la Entidad colaboradora acredite documental y fehacientemente haber devuelto el importe excesivo al pagador con anterioridad a la fecha en la que solicite el reembolso.
+
+En aquellos casos en los que los órganos territoriales de la Agencia Tributaria hubieran realizado trámites que afecten al ingreso cuyo reembolso se solicita, y dichos tramites impidan al Equipo Central de Control de Entidades Colaboradoras llevar a cabo el reembolso aludido, dicho Equipo lo comunicará a la Entidad colaboradora solicitante, a efectos de que sea el pagador/deudor quien solicite la devolución ante el órgano territorial de la Agencia Tributaria al que se encuentre adscrito.
+
+c) Cuando se produzca el abono duplicado en cuenta restringida de un mismo documento de ingreso, habiendo ingresado la Entidad colaboradora en el Banco de España el importe duplicado.
+
+d) En los casos de pagos mediante domiciliación, cuando por causas imputables a la Agencia Estatal de Administración Tributaria, la Entidad colaboradora adeudara en la cuenta del obligado una domiciliación improcedente o por un importe superior al correcto. En estos supuestos, será requisito imprescindible que la Entidad acredite fehacientemente haber reintegrado al obligado la cantidad adeudada en exceso o improcedentemente.
+
+e) En aquellos casos en los que, por error a ella imputable, la Entidad colaboradora hubiera ingresado en el Banco de España y a favor de la Agencia Estatal de Administración Tributaria cantidades que correspondieran a otras Administraciones Tributarias distintas de la Estatal.
+
+f) En los demás casos en que así se establezca por el titular del Ministerio de Hacienda.
+
+A estos reembolsos no les será aplicable la normativa reguladora de las devoluciones de ingresos indebidos de naturaleza tributaria.
+
+Fuera de los anteriores supuestos, y de acuerdo con lo establecido en el artículo 221 de la Ley 58/2003, de 17 de diciembre, General Tributaria y demás normativa aplicable, las posibles devoluciones deberán ser solicitadas por el obligado al pago ante la Delegación o Administración de la Agencia Estatal de Administración Tributaria que corresponda o, si la devolución se refiere a alguna de las tasas incluidas en los códigos 050 y 051, ante el Centro gestor de la tasa que corresponda.
+
+Asimismo, las solicitudes de devolución de cantidades que procedan de la actuación de la Entidad como mera depositaria de bienes embargados, deberán ser formuladas ante la Delegación o Administración de la Agencia Estatal de Administración Tributaria responsable del expediente ejecutivo.
+
+3\. Procedimiento de reembolso. Las Entidades colaboradoras solicitarán el reembolso mediante escrito dirigido al Equipo Central de Control de Entidades Colaboradoras del Departamento de Recaudación y exclusivamente a través de la correspondiente oficina centralizadora.
+
+La citada solicitud deberá contener los siguientes datos:
+
+a) Razón social, Número de Identificación Fiscal y domicilio social de la Entidad solicitante.
+
+b) Hechos y razones en que se concrete la petición.
+
+c) Código Cuenta Cliente de la cuenta a la que el Tesoro Público, en su caso, habrá de efectuar la transferencia del importe del reembolso. Según lo establecido en la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado, dicha cuenta deberá estar dada de alta en el Fichero Central de Terceros.
+
+d) Justificación documental de los hechos en los que se basa la solicitud. En particular, la Entidad deberá aportar original o fotocopia cotejada del ejemplar para la Entidad del documento de ingreso por ella validado o duplicado de los recibos y demás justificantes de pago por ella emitidos.
+
+Recibida la solicitud, y una vez efectuadas las oportunas comprobaciones, el Equipo Central de Control de Entidades Colaboradoras propondrá, en su caso, el reembolso de las cantidades ingresadas en exceso a la Dirección General del Tesoro y Política Financiera, a través del Departamento de Recursos Humanos y Administración Económica de la Agencia Estatal de Administración Tributaria.
+
+El pago de los reembolsos a las Entidades colaboradoras será ordenado por el titular de la Dirección General del Tesoro y Política Financiera y será efectuado, en todo caso, mediante transferencia efectuada contra la cuenta del Tesoro en el Banco de España.
+
+> Se modifica la letra b) del apartado 2 por el art. 1.11 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se modifica el apartado 2 por el art. 1.6 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+> Esta modificación no será de aplicación hasta el 23 de noviembre de 2020, según establece la disposición final de la citada Orden.
+
+## CAPITULO VI — Control de las Entidades colaboradoras
+
+### Artículo 23. Control y seguimiento.
+
+De acuerdo con lo previsto en el artículo 17.5 del Reglamento General de Recaudación, el Departamento de Recaudación, a través del Equipo Central de Control de Entidades Colaboradoras efectuará el seguimiento y control de la actuación de las Entidades colaboradoras. A tal efecto, y sin perjuicio de las actuaciones individualizadas de comprobación que en su caso procedan, cada año se aprobarán por el titular de dicho Departamento los correspondientes Planes de Control.
+
+### Disposición adicional única. Vigencia de los datos previamente comunicados por las Entidades colaboradoras.
+
+Respecto de las Entidades de crédito que, a la fecha de entrada en vigor de la presente orden ya ostentasen la condición de colaboradoras en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, y salvo manifestación contraria por parte de éstas, se considerará que los datos a que se refieren los artículos 4.2 y 5.1 y 2 son los mismos que ya fueron comunicados en su día por dichas Entidades, por lo que éstas no deberán reiterar dicha comunicación.
+
+### Disposición derogatoria única. Derogación normativa.
+
+A partir de la entrada en vigor de la presente orden quedan derogadas las siguientes disposiciones:
+
+a) Orden Ministerial de 15 de junio de 1995, por la que se desarrolla parcialmente el Reglamento General de Recaudación, en la redacción dada al mismo por el Real Decreto 448/1995, de 24 de marzo, en relación con las Entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+b) Orden Ministerial de 28 de diciembre de 2000 por la que se otorga carácter de justificante de pago a determinados documentos expedidos por las Entidades de depósito.
+
+c) Los apartados tercero, cuarto y quinto de la Orden HAC/3578/2003, de 11 de diciembre, por la que se desarrolla el Reglamento General de Recaudación en la redacción dada al mismo por el Real Decreto 1248/2003, de 3 de octubre y se modifica la Orden de 15 de junio de 1995, en relación con las Entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+d) Las apartados 6, 8 y 9 de la Orden de 4 de junio de 1998 por la que se regulan determinados aspectos de la gestión recaudatoria de las tasas que constituyen derechos de la Hacienda Pública.
+
+Asimismo quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente orden.
+
+### Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día 9 de octubre de 2007.
+
+Madrid, 28 de junio de 2007.—El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, Pedro Solbes Mira.
+
+## ANEXO I — CÓDIGO 021-AUTOLIQUIDACIONES
+
+| MODELO | DENOMINACIÓN | PERIODOS INGRESO |
+|---|---|---|
+| 043 <sup>(1)</sup> | TASA SOBRE EL JUEGO.-SALAS DE BINGO | T |
+| 044 <sup>(1)</sup> | TASA SOBRE EL JUEGO-CASINOS | T |
+| 045 <sup>(1)</sup> | TASA MÁQUINAS RECREATIVAS | T |
+| 100 | IRPF - DECLARACIÓN ANUAL/BORRADOR DEL IRPF | 0A |
+| 102 | IRPF - SEGUNDO PLAZO | 0A |
+| 108 | GRAVAMEN ÚNICO SOBRE REVALORIZACIÓN DE ACTIVOS DE LA LEY 16/2012, PARA CONTRIBUYENTES DEL IRPF. AUTOLIQUIDACIÓN | 0A |
+| 111 | IRPF RETENCIONES E INGRESOS A CUENTA. RENDIMIENTOS DEL TRABAJO. ACTIVIDADES ECONÓMICAS, PREMIOS Y DETERMINADAS GANANCIAS PATRIMONIALES E IMPUTACIONES DE RENTAS | M-T |
+| 122 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS. DEDUCCIONES POR FAMILIA NUMEROSA, POR PERSONAS CON DISCAPACIDAD A CARGO O POR ASCENDIENTE CON DOS HIJOS SEPARADO LEGALMENTE O SIN VÍNCULO MATRIMONIAL. REGULARIZACIÓN DEL DERECHO A LA DEDUCCIÓN POR CONTRIBUYENTES NO OBLIGADOS A PRESENTAR DECLARACIÓN | 0A |
+| 130 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONÓMICAS EN ESTIMACIÓN DIRECTA | T |
+| 131 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONOMICAS EN ESTIMACIÓN OBJETIVA | T |
+| 136 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS E IMPUESTO SOBRE LA RENTA DE NO RESIDENTES. GRAVAMEN ESPECIAL SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS. AUTOLIQUIDACIÓN. | T |
+| 150 | IRPF-RÉGIMEN ESPECIAL DE TRIBUTACIÓN POR EL IRNR. | 0A |
+| 151 | DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS. RÉGIMEN ESPECIAL APLICABLE A LOS TRABAJADORES DESPLAZADOS A TERRITORIO ESPAÑOL VIGENTE DESDE 1 DE ENERO DE 2015. | 0A |
+| 200 | IS. E IRNR. DECLARACIÓN ANUAL | 0A |
+| 202 | IS. PAGO FRACCIONADO | 1P,2P,3P |
+| 206 | IMP. RENTA NO RESIDENTES (EST. PERMANENTE) | 0A |
+| 208 | GRAVAMEN ÚNICO SOBRE REVALORIZACIÓN DE ACTIVOS DE LA LEY 16/2012, PARA CONTRIBUYENTES DEL IMPUESTO SOBRE SOCIEDADES Y CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES CON ESTABLECIMIENTO PERMANENTE. AUTOLIQUIDACIÓN | 0A |
+| 210 | IMP. RENTA NO RESIDENTES (SIN EST. PERMANENTE).- DECLA ORDINARIA | 0A |
+| 211 | IR NO RESIDENTES. RET. ADQ. DE INM. A NO RESIDENTES SIN EST. PERMANENTE | 0A |
+| 213 | GRAVAMEN ESPECIAL SOBRE INM. DE ENTIDADES NO RESIDENTES | 0A |
+| 217 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS O PARTICIPACIONES EN BENEFICIOS DISTRIBUIDOS POR SOCIEDADES ANÓNIMAS COTIZADAS DE INVERSIÓN EN EL MERCADO INMOBILIARIO. IMPUESTO SOBRE SOCIEDADES.AUTOLIQUIDACIÓN | 0A |
+| 221 | PRESTACIÓN PATRIMONIAL POR CONVERSIÓN DE ACTIVOS POR IMPUESTO DIFERIDO EN CRÉDITO EXIGIBLE FRENTE A LA ADMINISTRACIÓN TRIBUTARIA | 0A |
+| 230 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS E IMPUESTO SOBRE LA RENTA DE NO RESIDENTES: RETENCIONES E INGRESOS A CUENTA DEL GRAVAMEN ESPECIAL SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS; IMPUESTO SOBRE SOCIEDADES: RETENCIONES E INGRESOS A CUENTA SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS. AUTOLIQUIDACIÓN. | M |
+| 237 | GRAVAMEN ESPECIAL SOBRE BENEFICIOS NO DISTRIBUIDOS POR SOCIEDADES ANÓNIMAS COTIZADAS DE INVERSIÓN EN EL MERCADO INMOBILIARIO. IMPUESTO SOBRE SOCIEDADES. AUTOLIQUIDACIÓN. | 0A |
+| 242 | AUTOLIQUIDACIÓN DEL IMPUESTO COMPLEMENTARIO | 0A |
+| 250 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS Y RENTAS DE FUENTE EXTRANJERA DERIVADAS DE LA TRANSMISIÓN DE VALORES REPRESENTATIVOS DE LOS FONDOS PROPIOS DE ENTIDADES NO RESIDENTES EN TERRITORIO ESPAÑOL. | 0A |
+| 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
+| 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
+| 319 | PAGO A CUENTA DEL IVA CORRESPONDIENTE A LAS ENTREGAS DE GASOLINAS, GASÓLEOS Y BIOCARBURANTES POSTERIORES A LA ULTIMACIÓN DEL RÉGIMEN DE DEPÓSITO DISTINTO DEL ADUANERO. | 0A |
+| 353 | GRUPO DE ENTIDADES. MODELO AGREGADO. AUTOLIQUIDACIÓN MENSUAL. | M |
+| 368 | DECLARACIÓN-LIQUIDACIÓN PERIÓDICA DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SERVICIOS DE TELECOMUNICACIONES, DE RADIODIFUSIÓN O DE TELEVISIÓN Y ELECTRÓNICOS EN EL IVA | 1T, 2T, 3T y 4T |
+| 369 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SUJETOS PASIVOS QUE PRESTEN SERVICIOS A PERSONAS QUE NO TENGAN LA CONDICIÓN DE SUJETOS PASIVOS, QUE EFECTÚEN VENTAS A DISTANCIA DE BIENES Y CIERTAS ENTREGAS INTERIORES DE BIENES | M-T |
+| 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
+| 410 | PAGO A CUENTA DEL IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
+| 411 | IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
+| 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
+| 490 | IMPUESTO SOBRE DETERMINADOS SERVICIOS DIGITALES. AUTOLIQUIDACIÓN | T |
+| 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
+| 576 | I.E. S/DETERMINADOS MEDIOS DE TRANSPORTE | 0A |
+| 595 | I.E. S/ EL CARBON | T |
+| 600 <sup>(2)</sup> | TRANSMISIONES PATRIMONIALES | 0A |
+| 602 | TASA POR LA GESTIÓN ADMINISTRATIVA DEL JUEGO | 0A |
+| 604 | IMPUESTO SOBRE LAS TRANSACCIONES FINANCIERAS. AUTOLIQUIDACIÓN | M |
+| 610 <sup>(2)</sup> | ACT. JURID. RECIBOS NEGOCIADOS EE.CC. | 0A |
+| 615 <sup>(2)</sup> | ITP Y AJD. DOCS. CON ACCIÓN CAMBIARIA O ENDOSABLES A LA ORDEN. | 0A |
+| 620 <sup>(2)</sup> | COMPRA-VENTA VEHIC. USADOS ENTRE PARTIC. | 0A |
+| 630 <sup>(2)</sup> | ACTOS JURÍDICOS DOCUMENTADOS | 0A |
+| 650 <sup>(2)</sup> | IMP. SUCESIONES Y DONACIONES MORTIS CAUSA | 0A |
+| 651<sup> (2)</sup> | IMP. SUCESIONES Y DONACIONES. INTERVIVOS | 0A |
+| 655 <sup>(2)</sup> | IMP. SUCESIONES Y DONACIONES. CONSOLIDACIÓN DEL DOMINIO POR EXTINCIÓN DEL USUFRUCTO | 0A |
+| 681 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS A QUE SE REFIERE EL APARTADO 3 DE LA DISPOSICIÓN ADICIONAL SEXTA DE LA LEY 54/1997 | M-T |
+| 682 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS A QUE SE REFIERE EL APARTADO 4 DE LA DISPOSICIÓN ADICIONAL SEXTA DE LA LEY 54/1997 | M, 0A |
+| 683 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS DERIVADOS DE LA FABRICACIÓN DE ELEMENTOS COMBUSTIBLES, INCLUIDO EL DESMANTELAMIENTO DE LAS INSTALACIONES DE FABRICACIÓN DE LOS MISMOS | 0A |
+| 684 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS GENERADOS EN OTRAS INSTALACIONES | 0A |
+| 685 | TASA SOBRE APUESTAS Y COMBINACIONES ALEATORIAS, AUTOLIQUIDACIÓN | 0A |
+| 696 | TASA JUDICIAL | 0A |
+| 714 | IMPUESTO SOBRE EL PATRIMONIO | 0A |
+| 718 | IMPUESTO TEMPORAL DE SOLIDARIDAD DE LAS GRANDES FORTUNAS. | 0A |
+| 750 | DECLARACION TRIBUTARIA ESPECIAL (DISPOSICIÓN ADICIONAL PRIMERA DEL REAL DECRETO-LEY 12/2012, DE 30 DE MARZO) | 0A |
+| 763 | IMPUESTO SOBRE ACTIVIDADES DE JUEGO EN LOS SUPUESTOS DE ACTIVIDADES ANUALES O PLURIANUALES | T |
+| 770 | AUTOLIQUIDACIÓN DE INTERESES DE DEMORA Y RECARGOS PARA LA REGULARIZACIÓN VOLUNTARIA PREVISTA EN EL ARTÍCULO 252 DE LA LEY GENERAL TRIBUTARIA | 0A |
+| 771 | AUTOLIQUIDACIÓN DE CUOTAS DE CONCEPTOS Y EJERCICIOS SIN MODELO DISPONIBLE EN LA SEDE ELECTRÓNICA DE LA AEAT PARA LA REGULARIZACIÓN VOLUNTARIA PREVISTA EN EL ARTÍCULO 252 DE LA LEY GENERAL TRIBUTARIA | 0A |
+| 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
+| 780 | IMPUESTO SOBRE EL MARGEN DE INTERESES Y COMISIONES DE DETERMINADAS ENTIDADES FINANCIERAS. AUTOLIQUIDACIÓN | 0A |
+| 781 | IMPUESTO SOBRE EL MARGEN DE INTERESES Y COMISIONES DE DETERMINADAS ENTIDADES FINANCIERAS. PAGO FRACCIONADO | 0A |
+| 792 | AUTOLIQUIDACIÓN DE LA APORTACIÓN A REALIZAR POR LOS PRESTADORES DEL SERVICIO DE COMUNICACIÓN AUDIOVISUAL TELEVISIVO Y POR LOS PRESTADORES DEL SERVICIO DE INTERCAMBIO DE VÍDEOS A TRAVÉS DE PLATAFORMA DE ÁMBITO GEOGRÁFICO ESTATAL O SUPERIOR AL DE UNA COMUNIDAD AUTÓNOMA | 0A |
+| 793 | PAGOS A CUENTA DE LA APORTACIÓN A REALIZAR POR LOS PRESTADORES DEL SERVICIO DE COMUNICACIÓN AUDIOVISUAL TELEVISIVO Y POR LOS PRESTADORES DEL SERVICIO DE INTERCAMBIO DE VÍDEOS A TRAVÉS DE PLATAFORMA DE ÁMBITO GEOGRÁFICO ESTATAL O SUPERIOR AL DE UNA COMUNIDAD AUTÓNOMA | 1P, 2P, 3P |
+| 795 | GRAVAMEN TEMPORAL ENERGÉTICO. DECLARACIÓN DEL INGRESO DE LA PRESTACIÓN. | 0A |
+| 796 | GRAVAMEN TEMPORAL ENERGÉTICO. PAGO ANTICIPADO. | 0A |
+| 797 | GRAVAMEN TEMPORAL DE ENTIDADES DE CRÉDITO Y ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO. DECLARACIÓN DEL INGRESO DE LA PRESTACIÓN. | 0A |
+| 798 | GRAVAMEN TEMPORAL DE ENTIDADES DE CRÉDITO Y ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO. PAGO ANTICIPADO. | 0A |
+
+(1) Sólo en algunas Comunidades.
+
+(2) Cuando la gestión corresponda al Estado.
+
+En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 319 por la disposición final 1 de la Orden HAC/1495/2025, de 17 de diciembre. [Ref. BOE-A-2025-26216](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26216)
+
+> Téngase en cuenta que el nuevo modelo, sin perjuicio de lo señalado en el apartado undécimo.5 del anexo de la Ley 37/1992, de 28 de diciembre, será de aplicación por primera vez a las extracciones realizadas a partir del 1 de febrero de 2026, según establece la disposición final 3 de la citada Orden.
+
+> Se añade el modelo 242 por la disposición final 1 de la Orden HAC/1198/2025, de 21 de octubre. [Ref. BOE-A-2025-21727](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21727)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 274, de 14 de noviembre de 2025. [Ref. BOE-A-2025-23057](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23057)
+
+> Se añaden los modelos 780 y 781 por la disposición final 1 de la Orden HAC/532/2025, de 26 de mayo. [Ref. BOE-A-2025-10597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10597)
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez a las declaraciones cuyo plazo de presentación se inicie en el ejercicio 2025, según establece la disposición final 4 de la citada Orden
+
+> Se suprimen los modelos 212, 214 y 215 por el art. 1.12 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se añade el modelo 718 por la disposición final 1 de la Orden HFP/587/2023, de 9 de junio. [Ref. BOE-A-2023-13800](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-13800)
+
+> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez al ejercicio 2022, según establece la disposición final 4 de la citada Orden.
+
+> Se añaden los modelos 792 y 793 por la disposición final 1 de la Orden HFP/309/2023, de 28 de marzo. [Ref. BOE-A-2023-8117](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8117)
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio 2023, según establece la disposición final 4 de la citada Orden.
+
+> Se añaden los modelos 795, 796, 797 y 798 por la disposición final 1 de la Orden HFP/94/2023, de 2 de febrero. [Ref. BOE-A-2023-2832](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2832)
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio 2023, según establece la disposición final 4 de la citada Orden.
+
+> Se añade el modelo 237, con efectos para los períodos impositivos iniciados a partir del 1 de enero de 2021, por la disposición final 2 de la Orden HFP/1430/2021, de 20 de diciembre. [Ref. BOE-A-2021-21217](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21217)
+
+> Se añade el modelo 369, con efectos de 1 de julio de 2021, por la disposición final 1 de la Orden HAC/610/2021, de 16 de junio. [Ref. BOE-A-2021-10161](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10161)
+
+> Se añade el modelo 490 por la disposición final 1 de la Orden HAC/590/2021, de 9 de junio. [Ref. BOE-A-2021-9721](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9721)
+
+> Esta modificación será aplicable a las autoliquidaciones que se presenten a partir de la entrada en vigor de la Ley 4/2020, de 15 de octubre, del Impuesto sobre Determinados Servicios Digitales, según establece la disposición final 4 de la citada Orden.
+
+> Se añade el modelo 604 por la disposición final 2 de la Orden HAC/510/2021, de 26 de mayo. [Ref. BOE-A-2021-8878](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8878)
+
+> Se añade el modelo 602 por la disposición final 1 de la Orden HAC/1277/2020, de 28 de diciembre. [Ref. BOE-A-2020-17272](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17272)
+
+> Esta modificacion será de aplicación a los hechos imponibles cuyo devengo tenga lugar a partir del 31 de diciembre de 2020, según establece la disposición final 2 de la citada Orden.
+
+> Se añaden los modelos 770 y 771 por la disposición final 2 de la Orden HAC/530/2020, de 3 de junio. [Ref. BOE-A-2020-6217](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6217)
+
+> Se añade el modelo 353 por la disposición final 1.1 de la Orden HFP/1247/2017, de 20 de diciembre. [Ref. BOE-A-2017-15190](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15190)
+
+> Téngase en cuenta para su entrada en vigor lo establecido en la letra b) de la disposición final segunda de la citada Orden.
+
+> Se añade el modelo 221 por la disposición final 2 de la Orden HFP/550/2017, de 15 de junio. [Ref. BOE-A-2017-6857](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6857)
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
+
+> Se añade el modelo 122 por la disposición final 2 de la Orden HFP/105/2017, de 6 de febrero. [Ref. BOE-A-2017-1334](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1334).
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final 3 de la citada Orden.
+
+> Se añade el modelo 217 por la disposición final 2 de la Orden HFP/1922/2016, de 19 de diciembre. [Ref. BOE-A-2016-12113](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12113).
+
+> Esta modificación es aplicable para los periodos impositivos iniciados a partir del 1 de enero de 2013, según establece la disposición final 3.
+
+> Se añade el modelo 151 por la disposición final 3.1 de la Orden HAP/2783/2015, de 21 de diciembre. [Ref. BOE-A-2015-14021](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14021).
+
+> Téngase en cuenta para su aplicación lo dispuesto en la la disposición final 6 de la citada Orden.
+
+> Se añade el modelo 411 por la disposición final 3 de la Orden HAP/1230/2015, de 17 de junio. [Ref. BOE-A-2015-7048](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7048).
+
+> Se añade el modelo 368 por la disposición final 1 de la Orden HAP/460/2015, de 10 de marzo. [Ref. BOE-A-2015-2891](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2891).
+
+> Esta modificación es aplicable para periodos de liquidación que se inicien a partir del 1 de enero de 2015, según establece la disposición final 2.
+
+> Se modifica el modelo 650, se elimina el 652 y se añade el 655 por la disposición final 1 de la Orden HAP/2489/2014, de 29 de diciembre. [Ref. BOE-A-2014-13677](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13677).
+
+> Se añade el modelo 410 por la disposición final 3 de la Orden HAP/2178/2014, de 18 de noviembre. [Ref. BOE-A-2014-12146](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12146).
+
+> Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
+
+> Se añaden los modelos 108 y 208 por la disposición final 2 de la Orden HAP/636/2013, de 15 de abril. [Ref. BOE-A-2013-4123](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4123).
+
+> Se añaden los modelos 136 y 230 por la disposición final 1 de la Orden HAP/70/2013, de 30 de enero. [Ref. BOE-A-2013-952](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-952).
+
+> Se añade el modelo 250 por la disposición final 1 de la Orden HAP/1181/2012, de 31 de mayo. [Ref. BOE-A-2012-7390](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-7390). y el modelo 750 por la disposición final 1 de la Orden HAP/1182/2012, de 31 de mayo. [Ref. BOE-A-2012-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-7391).
+
+> Se añade el modelo 714 por la disposición final 1 de la Orden HAP/638/2012, de 26 de marzo. [Ref. BOE-A-2012-4445](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4445).
+
+> Se añade el modelo 763 por la disposición final 1.1 de la Orden EHA/1881/2011, de 5 de julio. [Ref. BOE-A-2011-11704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11704).
+
+> Se modifica por la disposición final 1 de la Orden EHA/1259/2011, de 28 de abril. [Ref. BOE-A-2011-8627](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8627).
+
+> Se suprime el modelo 110 y se añade el 111 por la disposición final 1.1 y 2 de la Orden EHA/586/2011, de 9 de marzo. [Ref. BOE-A-2011-4948](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4948).
+
+> Esta modificación surte efectos según lo indicado en la disposición final 3.
+
+> Se añade el modelo 568 por la disposición final 1 de la Orden EHA/1338/2010, de 13 de mayo. [Ref. BOE-A-2010-8230](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8230).
+
+> Se añaden los modelos 681 a 684 por la disposición final 1.1 de la Orden EHA/408/2010, de 24 de febrero. [Ref. BOE-A-2010-3095](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3095).
+
+> Se añade el modelo 685 por la disposición final 1 de la Orden EHA/388/2010, de 19 de febrero. [Ref. BOE-A-2010-3024](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3024).
+
+> Se suprimen los modelos 201 y 225 por la disposición final 1.1 de la Orden EHA/1375/2009, de 26 de mayo. [Ref. BOE-A-2009-8955](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8955).
+
+> Se suprime el modelo 714 por la disposición final 1.1 de la Orden EHA/396/2009, de 13 de febrero. [Ref. BOE-A-2009-3144](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3144).
+
+> Se modifica por la disposición final 4.1 y 2 de la Orden EHA/3786/2008, de 29 de diciembre. [Ref. BOE-A-2008-20953](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20953).
+
+> Esta modificación es aplicable a partir del 1 de enero de 2009, según establece la disposición final 5.
+
+## ANEXO II — CÓDIGO 022-AUTOLIQUIDACIONES ESPECIALES
+
+| MODELO | DENOMINACIÓN | PERIODOS INGRESO |
+|---|---|---|
+| 115 | IRPF e IS. RETENCIONES POR RENDIMIENTOS DE ALQUILER DE INM. URBANOS. | M-T |
+| 117 | IRPF, IS e IRNR. RETENCIONES POR TRANSM. DE PARTICIPACIONES EN INSTITUCIONES DE INVERSIÓN COLECTIVA. | M-T |
+| 123 | RET. CAP. MOB. (EXCEPTO INT. E IMPLIC.) | M-T |
+| 124 | RET. CAP. MOB. REND. IMPLICITOS GRAL. | M-T |
+| 126 | RET. CAP. MOB. INTERESES | M-T |
+| 128 | IRPF, IS, RTOS. DEL CAPITAL MOBILIARIO DE OPERACIONES. DE CAPITALIZACIÓN Y CONTRATOS DE SEGURO DE VIDA E INVAL. | M-T |
+| 216 | IRPF RETENCIONES NO RESIDENTES SIN EST. PERMANENTE | M-T |
+| 220 | IS. REGIMEN GRUPOS FISCALES | 0A |
+| 222 | IS. PAGO FRACCIONADO GRUPOS FISCALES | 1P,2P,3P |
+| 430 | IMPUESTO SOBRE LAS PRIMAS DE SEGUROS | M |
+| 559 | IMPUESTO SOBRE EL ALCOHOL Y BEBIDAS DERIVADAS. RÉGIMEN DE DESTILACIÓN ARTESANAL Y COSECHERO | 0A-M-T |
+| 560 | IMPUESTO SOBRE LA ELECTRICIDAD | 0A-M-T |
+| 561 | IMPUESTO SOBRE LA CERVEZA | M-T |
+| 562 | IMPUESTO SOBRE PRODUCTOS INTERMEDIOS | M-T |
+| 563 | IMP. SOBRE EL ALCOHOL Y BEBIDAS DERIVADAS | M-T |
+| 564 | IMPUESTO SOBRE HIDROCARBUROS | M |
+| 566 | IMPUESTO SOBRE LAS LABORES DEL TABACO | M |
+| 569 | I. VENTAS MINORISTAS DE HIDROCARBUROS | T |
+| 573 | IMPUESTO SOBRE LÍQUIDOS PARA CIGARRILLOS ELECTRÓNICOS Y OTROS PRODUCTOS RELACIONADOS CON EL TABACO. AUTOLIQUIDACIÓN | M |
+| 581 | IMPUESTO SOBRE HIDROCARBUROS | M |
+| 582 | IMPUESTO SOBRE HIDROCARBUROS. REGULARIZACIÓN POR REEXPEDICIÓN DE PRODUCTOS A OTRA COMUNIDAD AUTÓNOMA | T |
+| 583 | IMPUESTO SOBRE EL VALOR DE LA PRODUCCIÓN DE LA ENERGÍA ELÉCTRICA. AUTOLIQUIDACIÓN Y PAGOS FRACCIONADOS | T-0A |
+| 584 | IMPUESTO SOBRE LA PRODUCCIÓN DE COMBUSTIBLE NUCLEAR GASTADO Y RESIDUOS RADIACTIVOS RESULTANTES DE LA GENERACIÓN DE ENERGÍA NUCLEOELÉCTRICA. AUTOLIQUIDACIÓN Y PAGOS FRACCIONADOS | 2T, 4T y 0A |
+| 585 | IMPUESTO SOBRE EL ALMACENAMIENTO DE COMBUSTIBLE NUCLEAR GASTADO Y RESIDUOS RADIACTIVOS EN INSTALACIONES CENTRALIZADAS. AUTOLIQUIDACIÓN Y PAGOS FRACCIONADOS | T-0A |
+| 587 | IMPUESTO SOBRE LOS GASES FLUORADOS DE EFECTO INVERNADERO. AUTOLIQUIDACIÓN | T |
+| 588 | IMPUESTO SOBRE EL VALOR DE LA PRODUCCIÓN DE LA ENERGÍA ELÉCTRICA. AUTOLIQUIDACIÓN POR CESE DE ACTIVIDAD DE ENERO A OCTUBRE | OA |
+| 592 | IMPUESTO ESPECIAL SOBRE LOS ENVASES DE PLÁSTICO NO REUTILIZABLES. AUTOLIQUIDACIÓN | M-T |
+| 593 | IMPUESTO SOBRE EL DEPÓSITO DE RESIDUOS EN VERTEDEROS, LA INCINERACIÓN Y LA COINCINERACIÓN DE RESIDUOS. AUTOLIQUIDACIÓN | T |
+
+En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 2 de la Orden HAC/86/2025, de 13 de enero. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se añaden los modelos 592 y 593 por las disposiciones finales 2 de las Órdenes; HFP/1314/2022, de 28 de diciembre. [Ref. BOE-A-2022-23749](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23749) y HFP/1337/2022, de 28 de diciembre. [Ref. BOE-A-2022-24387](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-24387)
+
+> Se modifica el modelo 587 por la disposición final 2 de la Orden HFP/826/2022, de 30 de agosto. [Ref. BOE-A-2022-14275](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14275)
+
+> Se suprime el modelo 353 por la disposición final 1.2 de la Orden HFP/1247/2017, de 20 de diciembre. [Ref. BOE-A-2017-15190](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15190)
+
+> Téngase en cuenta para su entrada en vigor lo establecido en la letra b) de la disposición final segunda de la citada Orden.
+
+> Se modifican los periodos de ingreso del modelo 560 por la disposición final 1 de la Orden HAP/2489/2014, de 29 de diciembre. [Ref. BOE-A-2014-13678](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13678).
+
+> Se añade el modelo 588 por la disposición final 2 de la Orden HAP/2328/2014, de 11 de diciembre. [Ref. BOE-A-2014-12972](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12972).
+
+> Esta modificación es aplicable a partir del 1 de enero de 2015, según establece la disposición final 5.
+
+> Se añade el modelo 587 por la disposición final 1 de la Orden HAP/685/2014, de 29 de abril. [Ref. BOE-A-2014-4625](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4625).
+
+> Se modifica el periodo de ingreso del modelo 584 por la disposición final 1 de la Orden HAP/2223/2013, de 28 de noviembre. [Ref. BOE-A-2013-12531](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12531).
+
+> Se añade el modelo 583 por la disposición final 2 de la Orden HAP/703/2013, de 29 de abril. [Ref. BOE-A-2013-4538](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4538).
+
+> Se añaden los modelos 584 y 585 por las disposición finales 2.1 y 2.2 de la Orden HAP/538/2013, de 5 de abril. [Ref. BOE-A-2013-3671](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3671).
+
+> Se añaden los modelos 581 y 582 por la disposición final 3.1 y 2 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953).
+
+> Se suprime el modelo 111 por la disposición final 1.3 de la Orden EHA/586/2011, de 9 de marzo. [Ref. BOE-A-2011-4948](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4948).
+
+> Esta modificación surte efectos según lo indicado en la disposición final 3.
+
+> Se suprime el modelo 218 por la disposición final 1 de la Orden EHA/664/2010, de 11 de marzo. [Ref. BOE-A-2010-4507](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4507).
+
+> Se suprimen los modelos 320, 330 y 332 por la disposición final 4.3 de la Orden EHA/3786/2008, de 29 de diciembre. [Ref. BOE-A-2008-20953](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20953).
+
+> Esta modificación es aplicable a partir del 1 de enero de 2009, según establece la disposición final 5.
+
+> Se modifica por la disposición adicional única de la Orden EHA/3434/2007, de 23 de noviembre. [Ref. BOE-A-2007-20484](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20484).
+
+## ANEXO III — CÓDIGO 023-LIQUIDACIONES
+
+| MODELO | DENOMINACIÓN |
+|---|---|
+| 002 | LIQUIDACIÓN AEAT: VOLUNTARIA Y EJECUTIVA. |
+| 003 | DILIGENCIA DE EMBARGO DE CUENTAS ABIERTAS EN ENTIDADES DE CRÉDITO. |
+| 004 | LIQUIDACIÓN AEAT: ACTAS DE INSPECCIÓN DE CONFORMIDAD. |
+| 008 | DOCUMENTO DE INGRESO ASOCIADO A DILIGENCIAS DE EMBARGO. |
+| 010 | LIQUIDACIÓN AEAT: INGRESOS PARCIALES O FUERA DE PLAZO. |
+| 031 | LIQUIDACIÓN AEAT: DEUDAS DE COMERCIO EXTERIOR. |
+| 032 | LIQUIDACIÓN TRIBUTOS DEVENGADOS A LA IMPORTACIÓN Y GESTIONADOS POR LA ADMINISTRACIÓN TRIBUTARIA CANARIA. |
+| 060 | LIQUIDACIÓN DELEGACIÓN DE ECONOMÍA Y HACIENDA: INGRESOS EN LA CAJA GENERAL DE DEPÓSITOS. |
+| 061 | LIQUIDACIÓN DELEGACIÓN DE ECONOMÍA Y HACIENDA: CUOTAS DE DERECHOS PASIVOS. |
+| 069 | LIQUIDACIÓN DELEGACIÓN DE ECONOMÍA Y HACIENDA: OTROS INGRESOS NO TRIBUTARIOS. |
+
+> Se suprime la referencia al modelo 012 «Liquidación Delegación de Economía y Hacienda» por el art. 1.12 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica por la disposición final 1.2 de la Orden EHA/1881/2011, de 5 de julio. [Ref. BOE-A-2011-11704](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11704).
+
+## ANEXO IV — CÓDIGO 050-TASAS PRESUPUESTO DEL ESTADO
+
+| MODELO | DENOMINACIÓN |
+|---|---|
+| 790 | TASAS QUE CONSTITUYEN RECURSOS DEL PRESUPUESTO DEL ESTADO. AUTOLIQUIDACIÓN POR EL SUJETO PASIVO. |
+| 990 | TASAS QUE CONSTITUYEN RECURSOS DEL PRESUPUESTO DEL ESTADO. LIQUIDACIÓN POR LA ADMINISTRACIÓN. |
+
+## ANEXO V — CÓDIGO 051-TASAS PRESUPUESTO DE ORGANISMOS PÚBLICOS
+
+| MODELO | DENOMINACIÓN |
+|---|---|
+| 791 | TASAS QUE CONSTITUYEN RECURSOS DE ORGANISMOS PÚBLICOS. AUTOLIQUIDACIÓN POR EL SUJETO PASIVO. |
+| 991 | TASAS QUE CONSTITUYEN RECURSOS DE ORGANISMOS PÚBLICOS. LIQUIDACIÓN POR EL ORGANISMO. |
+
+## ANEXO VI — MODELOS DE AUTOLIQUIDACIÓN CUYO RESULTADO SEA UNA SOLICITUD DE DEVOLUCIÓN Y GESTIONABLES A TRAVÉS DE ENTIDADES COLABORADORAS
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.13 de la Orden HAC/241/2025, de 10 de marzo. [Ref. BOE-A-2025-5048](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5048)
+
+> Se añade el modelo 151 por la disposición final 3.2 de la Orden HAP/2783/2015, de 21 de diciembre. [Ref. BOE-A-2015-14021](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14021).
+
+> Téngase en cuenta para su aplicación la disposición final 6 de la citada Orden.
+
+> Se suprimen los modelos 311 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
+
+> Se suprime el modelo 582 por la disposición final 1 de la Orden HAP/290/2013, de 19 de febrero. [Ref. BOE-A-2013-2084](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2084).
+
+> Se añade el modelo 582 por la disposición final 3.3 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953).
+
+> Se añade el modelo 695 por la disposición final 1.2 de la Orden HAP/2662/2012, de 13 de diciembre. [Ref. BOE-A-2012-15141](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15141).
+
+> Se modifica por la disposición final 1.2 de la Orden EHA/408/2010, de 24 de febrero. [Ref. BOE-A-2010-3095](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3095).
+
+> Se modifica por la disposición final 1 de la Orden EHA/1658/2009, de 12 de junio. [Ref. BOE-A-2009-10326](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-10326).
+
+> Se suprimen los modelos 201 y 225 por la disposición final 1.2 de la Orden EHA/1375/2009, de 26 de mayo. [Ref. BOE-A-2009-8955](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-8955).
+
+> Se modifica por la disposición final 1.2 y 3 de la Orden EHA/396/2009, de 13 de febrero. [Ref. BOE-A-2009-3144](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3144).
+
+> Se suprime el modelo 320 por la disposición final 4.4 de la Orden EHA/3786/2008, de 29 de diciembre. [Ref. BOE-A-2008-20953](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20953).
+
+> Se modifica por la disposición final 3 de la Orden EHA/1420/2008, de 22 de mayo. [Ref. BOE-A-2008-9042](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-9042).
+
+> Se modifica por la disposición final 1 de la Orden EHA/848/2008, de 24 de marzo. [Ref. BOE-A-2008-5828](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5828).
+
+> Se añade el modelo 353 por la disposición adicional única de la Orden EHA/3434/2007, de 23 de noviembre. [Ref. BOE-A-2007-20484](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20484).
+
+## ANEXO VII — GENERACIÓN, CONSOLIDACIÓN Y ANULACIÓN NRC
+
+1\. Generación del NRC.
+
+1.1 De autoliquidaciones:
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| Código de Modelo. | Entrada. | Alfanumérico (3). |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| NIF del obligado. | Entrada. | Alfanumérico (9). |
+| Ejercicio. | Entrada. | Numérico (4). |
+| Periodo. | Entrada. | Alfanumérico (2). |
+| Importe. | Entrada. | Numérico. |
+| NRC. | Salida. | Alfanumérico (22). |
+| Fecha y hora de generación. | Salida. | Fecha y hora. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+1.2 De predeclaraciones:
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| N.º Justificante. | Entrada. | Alfanumérico (13). |
+| NIF del obligado. | Entrada. | Alfanumérico (9). |
+| Ejercicio. | Entrada. | Numérico (4). |
+| Periodo. | Entrada. | Alfanumérico (2). |
+| Importe. | Entrada. | Numérico (positivo). |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| Fecha y hora de confirmación de la predeclaración/borrador. | Entrada. | Fecha y hora. |
+| NRC. | Salida. | Alfanumérico (22). |
+| Fecha de generación. | Salida. | Fecha. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+1.3 De documentos de ingreso (modelo 100):
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| Código de modelo. | Entrada. | Alfanumérico (3).<br>Valor constante «100». |
+| Ejercicio. | Entrada. | Numérico (4). |
+| Importe. | Entrada. | Numérico. |
+| Periodo. | Entrada. | Alfanumérico (2). |
+| NIF del obligado. | Entrada. | Alfanumérico (9). |
+| N.º Justificante. | Entrada. | Alfanumérico (13). |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| NRC. | Salida. | Alfanumérico (22). |
+| Fecha de generación. | Salida. | Fecha. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+1.4 De liquidaciones practicadas por la Administración:
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| Código de Modelo. | Entrada. | Alfanumérico (3). |
+| N.º Justificante. | Entrada. | Alfanumérico (13). |
+| NIF del obligado. | Entrada. | Alfanumérico (9). |
+| Importe. | Entrada. | Numérico. |
+| Fecha de ingreso. | Entrada. | Fecha. |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| NRC. | Salida. | Alfanumérico (22). |
+| Fecha y hora de generación. | Salida. | Fecha y hora. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+1.5 De tasas.
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| N.º Justificante. | Entrada. | Alfanumérico (13). |
+| NIF del obligado. | Entrada. | Alfanumérico (9). |
+| Importe. | Entrada. | Numérico. |
+| Fecha y hora del ingreso. | Entrada. | Fecha y hora. |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| NRC. | Salida. | Alfanumérico (22). |
+| Fecha y hora de generación. | Salida. | Fecha y hora. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+2\. Consolidación del NRC.
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| NRC a consolidar. | Entrada. | Alfanumérico (22). |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| Fecha y hora del ingreso. | Entrada. | Fecha y hora. |
+| Fecha y hora de consolidación. | Salida. | Fecha y hora. |
+| Estado del NRC. | Salida. | Alfanumérico. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+3\. Anulación del NRC.
+
+| Parámetro | Tipo | Tipo Formato |
+|---|---|---|
+| NRC a anular. | Entrada. | Alfanumérico (22). |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| Estado del NRC. | Salida. | Alfanumérico. |
+| Fecha y hora de anulación. | Salida. | Fecha y hora. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
+
+> Se modifica por el art. 1.13 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+## ANEXO VII BIS — CONDICIONES DE SEGURIDAD DEL SISTEMA NRC
+
+La seguridad del nuevo sistema de gestión del NRC online se basa en el contexto de confianza que se establece entre la Agencia Estatal de Administración Tributaria (en adelante Agencia Tributaria) y las entidades colaboradoras que solicitarán y consolidarán NRCs.
+
+Este contexto de confianza se construye sobre la base del uso de sistemas de clave asimétrica y los certificados electrónicos que deben intercambiar entre todas las partes y autorizar convenientemente en sus infraestructuras tecnológicas, para garantizar que solo las entidades que forman parte del sistema NRC pueden hacer uso de los servicios web que ofrecerá la Agencia Tributaria para generar, consolidar, validar y anular un NRC.
+
+Las condiciones de seguridad del sistema NRC regulan los criterios para establecer un procedimiento de gestión del ciclo de vida de los certificados electrónicos y las garantías de autenticidad, integridad y no repudio.
+
+1\. Certificados electrónicos y la gestión del ciclo de vida.
+
+La Agencia Tributaria y las entidades colaboradoras serán responsables de gestionar y custodiar adecuadamente los certificados electrónicos que se autorizarán para solicitar y consolidar NRC. Los criterios para la gestión de estos certificados electrónicos son:
+
+– Los certificados electrónicos admitidos en este servicio deberán ajustarse a los criterios recogidos en el artículo 9.2.a y 9.2.b de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+– Las entidades colaboradoras deberán solicitar a la Agencia Tributaria la autorización de sus certificados electrónicos en los servicios asociados al sistema de gestión de NRC.
+
+– Para garantizar la continuidad del servicio en los procesos de renovación de los certificados electrónicos se podrán mantener varios certificados electrónicos autorizados a los mismos servicios.
+
+– La entidad colaboradora es responsable de la custodia y de garantizar el uso correcto de los certificados electrónicos de los que solicite autorización para invocar los servicios del sistema NRC online. Para ello, las claves deben de estar bajo el control exclusivo de las entidades colaboradoras, que velarán por un uso correcto de las mismas y garantizarán su seguridad, para evitar su pérdida, revelación, alteración o uso no autorizado.
+
+– Ante cualquier sospecha de utilización indebida de los certificados electrónicos se deberá proceder a su revocación y comunicar el incidente a la Agencia Tributaria, para que se tomen las medidas que se consideren oportunas. En esta comunicación se deberá facilitar toda la información necesaria para poder evaluar el alcance y el impacto del incidente. Para esta comunicación se utilizarán los canales que se establezcan oportunamente para gestionar las incidencias relativas al sistema de gestión de NRC.
+
+2\. Procedimiento para la gestión de la autorización de los certificados electrónicos.
+
+La gestión de la autorización de los certificados electrónicos se realizará según el siguiente procedimiento:
+
+– La gestión de la petición de la autorización de certificados electrónicos se realizará a través del registro electrónico donde se deberá adjuntar la clave pública del certificado electrónico.
+
+– Para utilizar el registro electrónico, se habilitará un procedimiento administrativo para que las entidades colaboradoras puedan gestionar estas peticiones.
+
+– La presentación de peticiones de autorización de certificados electrónicos, se podrá realizar por una persona autorizada por la entidad colaboradora, para lo que se podrá utilizar:
+
+• Un certificado electrónico cualificado de representante de persona jurídica.
+
+• Un certificado electrónico cualificado de persona física, en el caso de que la entidad colaboradora apodere a un empleado para realizar peticiones de autorización de certificados electrónicos.
+
+– Una vez presentada la petición la Agencia Tributaria comprobará que cumple las condiciones para usar el servicio y se procederá a autorizar la clave pública de la entidad colaboradora que quedará asociada en los sistemas de la Agencia Tributaria a su Número de Identificación Fiscal.
+
+– La comunicación de los cambios de certificado por renovación o revocación se realizarán utilizando el mismo procedimiento.
+
+Por su parte, la Agencia Tributaria comunicará a las entidades colaboradoras los certificados electrónicos que utilizará en cada momento para ofrecer el servicio de NRC online, de forma que las entidades colaboradoras podrán autorizarlos en sus sistemas.
+
+3\. Garantías de seguridad del sistema.
+
+– La entidad colaboradora es responsable de la veracidad y exactitud de la información presentada en el procedimiento de petición de autorización de certificados electrónicos para el sistema de gestión de NRC.
+
+– La entidad colaboradora es responsable de la veracidad y exactitud de las operaciones sobre los NRC que realice mientras no haya comunicado cualquier cambio o incidencia que suponga la baja del sistema de gestión de NRC o la revocación de los certificados electrónicos autorizados a su NIF.
+
+– Tanto la entidad colaboradora como la Agencia Tributaria quedarán identificados en el sistema NRC por los certificados electrónicos autorizados y activos en cada momento.
+
+– Todas las comunicaciones asociadas al uso del sistema de gestión de NRC *online*se realizarán utilizando canales seguros basados en protocolos estándar de Internet, garantizando las condiciones suficientes de seguridad, según el estado de la tecnología.
+
+– El sistema de gestión de NRC se ofrece en la Sede electrónica de la Agencia Tributaria con un nivel de disponibilidad 24x7 en las mismas condiciones que el resto de servicios que se ofrecen a los contribuyentes.
+
+– Las garantías de integridad, no repudio y trazabilidad se basarán en los siguientes criterios:
+
+• Todas las peticiones y respuestas asociadas al sistema de gestión de NRC quedarán registradas automáticamente en los sistemas de la Agencia Tributaria, garantizando la integridad y conservación de las mismas, así como de los metadatos asociados mediante medidas técnicas que aseguren su inalterabilidad.
+
+• Todas las respuestas de la Agencia Tributaria incluirán un Código Único de Seguridad, que identificará unívocamente a cada petición y respuesta realizada por una entidad colaboradora realizada al sistema de gestión de NRC. Esté Código Único de Seguridad se almacenará de forma inalterable junto con el resto de metadatos que permitirán garantizar la integridad y no repudio de las peticiones y respuestas realizadas.
+
+• Los metadatos mínimos que se registrarán de forma inalterable por cada petición y respuesta son el NIF de la entidad colaboradora, el certificado electrónico utilizado en cada petición, el resumen (HASH) de la petición/respuesta y el Código Único de Seguridad.
+
+• El Código Único de Seguridad se utilizará para gestionar la trazabilidad de las peticiones y respuestas realizadas al sistema de gestión de NRC.
+
+4\. Gestión de incidencias que afecten a las condiciones de seguridad del sistema NRC *online*.
+
+Las entidades colaboradoras y la Agencia Tributaria deberán comunicar cualquier incidencia que pueda afectar a las condiciones de seguridad del sistema de gestión de NRC. Para ello, se establecerán los canales de comunicación oportunos.
+
+Esta comunicación deberá realizarse en el menor tiempo posible desde el momento que se conozca la incidencia para poder garantizar que se toman las medidas oportunas para limitar el impacto en el servicio y en las condiciones de seguridad del mismo.
+
+5\. Tratamiento de datos personales.
+
+Los datos personales aportados por el obligado tributario en el cumplimiento de sus derechos y obligaciones tributarias serán tratados por la Agencia Estatal de Administración Tributaria con la finalidad de la aplicación del sistema tributario y aduanero. Este tratamiento se ajustará al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. En la Sede electrónica de la Agencia Tributaria se facilitará la información que exige el artículo 13 del Reglamento relativa a los posibles tratamientos y el ejercicio de los derechos sobre los mismos.
+
+> Se añade por el art. 1.14 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+## ANEXO VIII — SUMINISTRO POR TELEPROCESO DE LOS EXTRACTOS DE LAS CUENTAS RESTRINGIDAS-ESPECIFICACIONES TÉCNICAS
+
+1\. Características de la conexión con el DIT para intercambio telemático de ficheros
+
+1\. Línea de comunicación: TCP-IP.
+
+Conexión X-25 IBERPAC
+
+Características:
+
+Circuito virtual conmutado
+
+Tamaño paquete: 128
+
+Tamaño ventana nivel 2:7
+
+Tamaño ventana nivel 3:7
+
+2\. Programa de transferencia de ficheros
+
+EDITRAN
+
+3\. Longitud de registro: 80 caracteres
+
+2\. Diseño de registros
+
+2.1 Registro de cabecera de cuenta
+
+| Posic. | Tipo | Descripción |
+|---|---|---|
+| 1-2 | Num. | Código registro ‘11’ |
+| 3-6 | Num. | Clave de la entidad |
+| 7-10 | Num. | Clave de oficina |
+| 11-20 | Num. | Nº de cuenta |
+| 21-26 | Num. | Fecha inicial (AAMMDD) |
+| 27-32 | Num. | Fecha final (AAMMDD) |
+| 33-33 | Alf.. | Clave debe o haber del saldo inicial (“D” o “H”) |
+| 34-47 | Num. | Importe saldo inicial |
+| 48-80 | Alf. | Libre |
+
+2.2 Registro principal de movimientos
+
+| Posic. | Tipo | Descripción |
+|---|---|---|
+| 1-2 | Num. | Código registro ‘22’ |
+| 3-6 | Alf. | Libre |
+| 7-10 | Num. | Oficina |
+| 11-16 | Num. | Fecha operación (AAMMDD) |
+| 17-22 | Num. | Fecha valor (AAMMDD) |
+| 23-24 | Num. | Concepto común |
+|  |  | 21 – Abono normal |
+|  |  | 22 – Abono retroactivo |
+|  |  | 23 – Cargo por anulación |
+|  |  | 24 – Cargo por abono B.España |
+| 25-27 | Alf. | Libre |
+| 28-28 | Alf.. | Clave debe o haber (“D” o “H”) |
+| 29-42 | Num. | Importe |
+| 43-80 | Alf. | Libre |
+
+2.3 Registro final de cuenta
+
+| Posic. | Tipo | Descripción |
+|---|---|---|
+| 1-2 | Num. | Código registro ‘33’ |
+| 3-6 | Num. | Clave entidad |
+| 7-10 | Num. | Clave oficina |
+| 11-20 | Num. | Nº de cuenta |
+| 21-25 | Num. | Nº apuntes Debe |
+| 26-39 | Num. | Total importes Debe |
+| 40-44 | Num. | Nº apuntes Haber |
+| 45-58 | Num. | Total importe Haber |
+| 59-59 | Alf.. | Clave debe o haber del saldo final (“D” o “H”) |
+| 60-73 | Num. | Saldo final |
+| 74-80 | Alf. | Libre |
+
+2.4 Registro de fin de fichero
+
+| Posic. | Tipo | Descripción |
+|---|---|---|
+| 1-2 | Num. | Código registro ‘88’ |
+| 3-20 | Num. | Nueves |
+| 21-26 | Num. | Nº total de registros (incluidos los de cabecera de cuenta y fin de fichero) |
+| 27-80 | Alf. | Libre |
+
+3\. Validaciones
+
+3.1 Tipo de registro 11 (cabecera de cuenta)
+
+Código de registro distinto de 11
+
+Código de entidad incorrecto
+
+Código de oficina incorrecto
+
+Número de cuenta erróneo
+
+Fechas ilógicas
+
+Saldo no numérico
+
+3.2 Tipo de registro 22 (movimientos de la cuenta)
+
+Código de registro distinto 22
+
+Fecha operación ilógica
+
+Fecha valor ilógica
+
+Concepto común distinto de los esperados
+
+Importe no numérico
+
+3.3 Tipo de registro 33 (final de cuenta)
+
+Código de registro distinto de 33
+
+Código de entidad incorrecto
+
+Código de oficina incorrecto
+
+Número de cuenta erróneo
+
+Número apuntes debe erróneo
+
+Importe debe erróneo
+
+Número apuntes haber erróneo
+
+Importe haber erróneo
+
+Saldo final erróneo
+
+3.4 Tipo de registro 88 (final de fichero)
+
+Código de registro distinto de 88
+
+Número de registros erróneo
+
+Rechazo de la transmisión.–Cualquier error detectado en el proceso de validación, ocasionará el rechazo de toda la transmisión.
+
+> Se modifica el apartado 1.1 por el art. 1.7 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+## ANEXO IX — COMUNICACIÓN SALDOS CUENTAS RESTRINGIDAS TESORO PÚBLICO ESPECIFICACIONES TÉCNICAS
+
+1\. CARACTERÍSTICAS DE LA CONEXIÓN CON EL D.I.T. PARA INTERCAMBIO TELEMÁTICO DE FICHEROS
+
+1) LÍNEA DE COMUNICACIÓN
+
+Conexión X-25 IBERPAC
+
+Características:
+
+• Circuito Virtual Conmutado
+
+• Tamaño de paquete: 128
+
+• Tamaño ventana nivel 2:1 a 7 (se recomienda 7)
+
+• Tamaño ventana nivel 3:1 a 7 (se recomienda 7)
+
+2) PROGRAMA DE TRANSFERENCIA DE FICHEROS
+
+EDITRAN ó TAF
+
+3) LONGITUD DE REGISTRO:
+
+58 CARACTERES
+
+2\. DISEÑO DE REGISTROS
+
+2.1 DISEÑO DE REGISTRO ENTIDAD TRANSMISORA (TIPO-1)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1 - 1 | NUM. | TIPO DE REGISTRO 1 = CABECERA ENT. TRANSMISORA |
+| 2 - 5 | NUM. | CÓDIGO DE ENTIDAD TRANSMISORA |
+| 6 - 13 | NUM. | NÚMERO DE QUINCENA (AAAA MM QQ) |
+|  |  | * AAAAMM01 para las quincenas que finalicen el 5 del mes |
+|  |  | * AAAAMM02 para las quincenas que finalicen el 20 del mes |
+| 14 - 58 | ALF. | FILLER (A BLANCOS) |
+
+2.2 DISEÑO DE REGISTRO DE ENTIDAD COLABORADORA (TIPO-2)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1 - 1 | NUM. | TIPO DE REGISTRO 2 = CABECERA ENT. COLABORADORA |
+| 2 - 5 | NUM. | CÓDIGO DE ENTI-DAD COLABORADORA |
+| 6 - 13 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ) |
+| 14 - 58 | ALF. | FILLER (A BLANCOS) |
+
+2.3 DISEÑO DE REGISTRO DE DETALLE (TIPO-3)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1 - 1 | NUM. | TIPO DE REGISTRO 3 = DETALLE SALDO |
+| 2 - 3 | NUM. | DELEGACIÓN A LA QUE CORRESPONDE LA CUENTA (PRESENTACIÓN CENTRALIZADA=57) |
+| 4 - 11 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ) |
+| 12 - 12 | ALF. | TIPO DE INGRESOS: |
+|  |  | "A" = AUTOLIQUIDACIONES |
+|  |  | "E" = AUTOLIQUID. ESPECIALES |
+|  |  | "L" = LIQUIDACIONES (S.I.R.) |
+| 13 - 27 | NUM. | SALDO DE LA CUENTA RESTRINGIDA AL DIA DE LA FECHA DEL FIN DE LA QUINCENA |
+| 28 - 47 | NUM. | NÚMERO DE LA CUENTA RESTRINGIDA |
+| 48 - 55 | NUM. | FECHA VENCIMIENTO QUINCENA (AAAAMMDD) |
+| 56 - 58 | ALF. | FILLER (A BLANCOS) |
+
+2.4 DISEÑO DE REGISTRO DE TOTALES E.C. (TIPO-4)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1 - 1 | NUM. | TIPO DE REGISTRO 4 = TOTALES E.C. |
+| 2 - 5 | NUM. | CÓDIGO DE ENTI-DAD COLABORADORA |
+| 6 - 13 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ) |
+| 14 - 29 | NUM. | SUMATORIO DE SALDOS DE LA E.C. |
+| 30 - 58 | ALF. | FILLER (A BLANCOS) |
+
+2.5 DISEÑO DE REGISTRO DE TOTALES ENTIDAD TRANSMISORA (TIPO-5-)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1 - 1 | NUM. | TIPO DE REGISTRO 5 = TOTALES ENT. TRANSMISORA |
+| 2 - 5 | NUM. | CÓDIGO DE ENTIDAD TRANSMISORA |
+| 6 - 13 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ) |
+| 14 - 16 | NUM | NÚMERO DE ENTIDADES COLABORADORAS INCLUIDAS EN LA TRANSMISIÓN |
+| 17 - 22 | NUM. | NÚMERO TOTAL DE REGISTROS TRANSMITIDOS (TIPOS 1, 2, 3, 4 y 5) |
+| 23 - 58 | ALF. | FILLER (A BLANCOS) |
+
+3\. VALIDACIONES
+
+3.1 TIPO DE REGISTRO 1 (ENTIDAD TRANSMISORA)
+
+• Tipo de registro distinto de 1
+
+• Código de Entidad Transmisora no es un código válido
+
+• Número de la quincena no se ajusta al formato.
+
+• Número de la quincena es superior a la fecha de transmisión.
+
+3.2 TIPO DE REGISTRO 2 (ENTIDAD COLABORADORA)
+
+• Tipo de registro distinto de 2
+
+• Código de Entidad Colaboradora no es un código válido
+
+• Número de quincena no coincide con el de la Entidad Transmisora
+
+3.3 TIPO DE REGISTRO 3 (DETALLE)
+
+• Tipo de registro distinto de 3
+
+• Delegación no válida (distinta de 57)
+
+• Número de quincena no coincide con el de la Entidad Transmisora
+
+• La información ha sido ya aceptada en una transmisión previa
+
+• La presentación de la información no es correlativa
+
+• Tipo de ingreso no es uno de los tres válidos, o está repetido
+
+• Número de cuenta no es correcto.
+
+• Fecha de vencimiento de quincena ilógica
+
+• Falta alguna de las cuentas restringidas.
+
+3.4 TIPO DE REGISTRO 4 (TOTALES E.C.)
+
+• Tipo de registro distinto de 4
+
+• Código de E.C. no coincide con el del tipo de registro 2
+
+• Número de quincena no coincide con el de la Entidad Transmisora
+
+• Saldo total por E.C. no coincide con la suma de los saldos de detalle
+
+3.5 TIPO DE REGISTRO 5 (TOTALES ENTIDAD TRANSMISORA)
+
+• Tipo de registro distinto de 5
+
+• Código de Entidad Transmisora no coincide con el del tipo de registro 1
+
+• Número de quincena no coincide con el de cabecera de la Entidad Transmisora
+
+• Número de EE.CC. no coincide con las incluidas en la transmisión.
+
+• Número total de registros no coincide con los registros incluidos en la transmisión.
+
+RECHAZO DE LA TRANSMISIÓN
+
+• Se rechazará toda la transmisión cuando se detecten errores en los registros 1 ó 5.
+
+• Se rechazará solamente la información relativa a la Entidad colaboradora si el error se detecta en los registros de tipo 2, 3 ó 4. (Por tanto en caso de una transmisión efectuada por una Entidad transmisora que contenga varias Entidades colaboradoras el rechazo solo afectará a la Entidad o Entidades en las que se detecten los errores citados).
+
+NOTAS:
+
+1\. Todas las Entidades colaboradoras deberán transmitir información en todas y cada una de las quincenas y en los tres tipos de ingreso Autoliquidaciones, Autoliquidaciones Especiales y Liquidaciones, incluso cuando en el período tratado no hayan recibido ingresos, en cuyo caso el saldo transmitido sería cero.
+
+2\. La validación de la información con la de los ingresos individuales no se verá afectada por la transmisión efectuada, ya que el cuadre del fichero se hará contra las órdenes de transferencia recibidas.
+
+## ANEXO IX
+
+CLAVE ENTIDAD: .......................... DENOMINACIÓN ENTIDAD.........................
+
+QUINCENA: (AAAA-MM-NN) FECHA VENCIMIENTO: .............................
+
+(NN representa el numero de quincena, será 01 si el saldo corresponde a la primera quincena y 02 si corresponde a la segunda)
+
+SALDOS DE CUENTAS RESTRINGIDAS (COMUNICACIÓN MANUAL)
+
+|  | CÓDIGO 021 | CÓDIGO 022 | CÓDIGO 023 | TOTAL SALDOS |
+|---|---|---|---|---|
+| SALDO |  |  |  |  |
+
+CÓDIGO 021= Saldo cuenta restringida de Autoliquidaciones.
+
+CÓDIGO 022= Saldo cuenta restringida de Autoliquidaciones Especiales.
+
+CÓDIGO 023= Saldo cuenta restringida de Liquidaciones practicadas por la Administración.
+
+## ANEXO X
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.8 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+## ANEXO XI — ÓRDENES DE TRANSFERENCIAS: TRANSMISIÓN DE INFORMACIÓN CON BANCO DE ESPAÑA
+
+1\. DISEÑO DE REGISTROS
+
+1.1 DISEÑO DE REGISTRO DE CABECERA DE TRANSMISIÓN
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 1=CABECERA DE TRANSMISIÓN |
+| 2-9 | NUM. | FECHA DE INGRESO (AAAA MM DD) |
+| 10-17 | NUM. | FECHA DE TRANSMISIÓN (AAAA MM DD) |
+| 18-42 | ALF. | FILLER (A BLANCOS) |
+
+1.2 DISEÑO DE REGISTRO DE LA ORDEN DE TRANSFERENCIA
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 2 = CABECERA O.T. |
+| 2-4 | NUM. | CÓDIGO DEL TIPO DE INGRESO |
+|  |  | 021=AUTOLIQUIDACIONES |
+|  |  | 022 = AUTOLIQUID. ESPECIALES |
+|  |  | 023 = LIQUIDACIONES |
+|  |  | 050=TASAS DEL TESORO |
+|  |  | 051= TASAS DE ORGANISMOS AUTÓNOMOS. |
+| 5-8 | NUM. | CÓDIGO DE ENTIDAD COLABORADORA |
+| 9-16 | NUM. | NÚMERO DE QUINCENA (AAAA MM QQ) |
+|  |  | • AAAAMM01 para las quincenas que finalicen el 5 del mes |
+|  |  | • AAAAMM02 para las quincenas que finalicen el 20 del mes |
+| 17-22 | NUM. | NÚMERO SECUENCIAL DE LA OPERACIÓN |
+| 23-29 | NUM. | NÚMERO TOTAL DE INGRESOS DE LA ORDEN DE TRANSFERENCIA |
+| 30-42 | NUM. | IMPORTE TOTAL DE LA ORDEN DE TRANSFERENCIA |
+
+1.3 DISEÑO DE REGISTRO DE MODELO (SOLO PARA TIPOS 021 Y 022)
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 3 = MODELO DE AUTOLIQUIDACIÓN |
+| 2-4 | NUM. | CÓDIGO DEL MODELO DE AUTOLIQUIDACIÓN |
+| 5-11 | NUM. | NÚMERO DE INGRESOS DEL MODELO |
+| 12-24 | NUM. | IMPORTE TOTAL DEL MODELO |
+| 25-42 | ALF. | FILLER (A BLANCOS) |
+
+1.4 DISEÑO DE REGISTRO DE TOTAL DE LAS ÓRDENES DE TRANSFERENCIA
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 4 = TOTAL ORDEN TRANSFERENCIA. |
+| 2-4 | NUM. | CÓDIGO DE LA ORDEN DE TRANSFERENCIA |
+|  |  | 021 = AUTOLIQUIDACIONES |
+|  |  | 022 = AUTOLIQUIDAC ESPECIALES |
+|  |  | 023 = LIQUIDACIONES |
+|  |  | 050 = TASAS DEL TESORO |
+|  |  | 051 = TASAS DE ORGANISMOS AUTÓNOMOS |
+| 5-11 | NUM. | NÚMERO TOTAL DE INGRESOS DE LAS ÓRDENES DE TRANSFERENCIA |
+| 12-24 | NUM. | IMPORTE TOTAL DE LAS ORDENES DE TRANSFERENCIA |
+| 25-42 | ALF. | FILLER (A BLANCOS) |
+
+1.5 DISEÑO DE REGISTRO DE FIN DE TRANSMISIÓN
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 5 = FINAL DE TRANSMISIÓN |
+| 2-9 | NUM. | FECHA DE INGRESO (AAAA MM DD) |
+| 10-17 | NUM. | FECHA DE TRANSMISIÓN (AAAA MM DD) |
+| 18-22 | NUM. | NÚMERO TOTAL DE REGISTROS TRANSMITIDOS INCLUIDOS CABECERA Y FINAL |
+| 23-36 | NUM. | IMPORTE TOTAL DE LA TRANSMISIÓN |
+| 37-42 | ALF. | FILLER (A BLANCOS) |
+
+2\. VALIDACIONES
+
+▪ Todos los registros recibidos serán sometidos a un proceso de validación.
+
+▪ Cualquier error detectado, de los que a continuación se relacionan, implicará el rechazo de la transmisión.
+
+2.1 TIPO DE REGISTRO 1 (CABECERA DE TRANSMISIÓN)
+
+• Tipo de registro distinto de 1
+
+• Fecha de ingreso ilógica.
+
+• Fecha de ingreso duplicada (ya se ha recibido una transmisión de datos aceptada para esta fecha de ingreso).
+
+• Fecha de transmisión ilógica
+
+• Fecha de transmisión menor que la fecha de ingreso.
+
+2.2 TIPO DE REGISTRO 2 (ORDEN DE TRANSFERENCIA)
+
+• Tipo de registro distinto de 2
+
+• Código de tipo de ingreso no válido (distinto de 021, 022, 023, 050 y 051)
+
+• Código de tipo de ingreso fuera de orden (no se admite una orden de transferencia de un determinado código fuera del grupo al que corresponda).
+
+• Código de Entidad no es un código válido en el Registro del Banco de España.
+
+• Número de la quincena no se ajusta al formato establecido.
+
+• Número de secuencia de la operación duplicado en el año del ingreso.
+
+• Número total de ingresos = 0
+
+• Importe total de orden de transferencia = 0
+
+2.3 TIPO DE REGISTRO 3 (POR MODELO DE AUTOLIQUIDACIÓN)
+
+• Tipo de registro distinto de 3
+
+• Código de modelo no es válido según código de tipo de ingreso (ver ANEXOS -I y II)
+
+• Número de ingresos = 0
+
+• Importe total por modelo de autoliquidación = 0
+
+• Sumatorio del número de ingresos de los modelos incluidos en la orden de transferencia no coincide con el número total de ingresos de la orden de transferencia (Registro TIPO-2).
+
+• Sumatorio de los importes totales de los modelos incluidos en la orden de transferencia no coincide con el importe total de la orden de transferencia (Registro TIPO-2).
+
+2.4 TIPO DE REGISTRO 4 (TOTAL ENTIDADES DE UN CÓDIGO DE TIPO DE INGRESO)
+
+• Tipo de registro distinto de 4
+
+• Código de tipo de ingreso no coincide con el de la cabecera de la orden de transferencia (registros TIPO-2 previos)
+
+• Número total de ingresos no coincide con el sumatorio de ingresos de la orden de transferencia del mismo código (Registros TIPO-2 previos).
+
+• Importe total no coincide con el sumatorio de importes de la orden de transferencia del mismo código (Registros TIPO-2 previos).
+
+2.5 TIPO DE REGISTRO 5 (FIN DE TRANSMISIÓN)
+
+• Tipo de registro distinto de 5
+
+• Fecha de ingreso distinta de la del registro de cabecera (registro TIPO-1).
+
+• Fecha de transmisión distinta de la del registro de cabecera (registro TIPO-1).
+
+• Número total de registros no coincide con los registros recibidos.
+
+• Importe total del registro no coincide con el sumatorio de importes de los registros TIPO-4.
+
+## ANEXO XII — PRESENTACIÓN CENTRALIZADA INGRESOS ENTIDADES COLABORADORAS ESPECIFICACIONES TÉCNICAS
+
+1\. CARACTERÍSTICAS DE LA CONEXIÓN CON EL D.I.T. PARA INTERCAMBIO TELEMÁTICO DE FICHEROS
+
+1.1) LÍNEA DE COMUNICACIÓN
+
+• Conexión X-25 IBERPAC
+
+• Características:
+
+– Circuito Virtual Conmutado
+
+– Tamaño de paquete: 128
+
+– Tamaño ventana nivel 2: 7
+
+– Tamaño ventana nivel 3: 7
+
+1.2) PROGRAMA DE TRANSFERENCIA DE FICHEROS: EDITRAN ó TAF.
+
+1.3) LONGITUD DE REGISTRO: 90 CARACTERES
+
+2\. DISEÑO DE REGISTRO
+
+2.1 DISEÑO DEL REGISTRO DE ENTIDAD TRANSMISORA (TIPO-1).
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 1 = CABECERA ENTIDAD TRANSMISORA. |
+| 2-5 | NUM. | CÓDIGO DE ENTIDAD TRANSMISORA. |
+| 6-6 | ALF. | TIPO DE PRESENTACIÓN ("I" = INGRESOS). |
+| 7-7 | ALF. | TIPO DE INGRESOS.<br>"A" = AUTOLIQUIDACIONES.<br>"E"= AUTOLIQUIDACIONES ESPECIALES.<br>"L" = LIQUIDACIONES.<br>"T" = TASAS DEL TESORO.<br>"Z"= TASAS DE ORGANISMOS AUTÓNOMOS. |
+| 8-15 | NUM. | NÚMERO DE QUINCENA (AAAA MM QQ).<br>AAAAMM01 para las quincenas que finalicen el 5 del mes.<br>AAAAMM02 para las quincenas que finalicen el 20 del mes. |
+| 16-17 | NUM. | DELEGACION AEAT (PRESENTACION CENTRALIZADA = 57). |
+| 18-90 | ALF. | FILLER (A BLANCOS). |
+
+2.2 DISEÑO DEL REGISTRO DE CABECERA DE ENTIDAD COLABORADORA (TIPO-2)
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 2 = CABECERA ENTIDAD COLABORADORA. |
+| 2-5 | NUM. | CÓDIGO DE ENTIDAD COLABORADORA. |
+| 6-6 | ALF. | TIPO DE PRESENTACIÓN ("I" =INGRESOS). |
+| 7-7 | ALF. | TIPO DE INGRESOS.<br>"A" = AUTOLIQUIDACIONES.<br>"E"= AUTOLIQDIDACIONES ESPECIALES.<br>"L" = LIQUIDACIONES.<br>"T" = TASAS DEL TESORO.<br>"Z"= TASAS DE ORGANISMOS AUTÓNOMOS. |
+| 8-15 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ): AAAAMM01 para las quincenas que finalicen el 5 del mes. AAAAMM02 para las quincenas que finalicen el 20. |
+| 16-17 | NUM. | DELEGACION AEAT (PRESENTACION CENTRALIZADA = 57). |
+| 18-19 | NUM. | NÚMERO DE ORDEN DE LA TRANSMISION. - Será el número que identifique las transmisiones de una E.C. en una quincena. La primera transmisión de la quincena siempre tendrá NÚMERO = 01. Las transmisiones correspondientes a aquellas previamente rechazadas por error no incrementan este contador. Siempre llevarán el número de la transmisión original en que se detectaron los errores.<br>Si en una misma quincena hubiera transmisiones complementarias o sustitutivas de otras previamente aceptadas deberán ir incrementando este número. |
+| 20-27 | NUM. | FECHA DE INGRESO (AAAAMMDD). Esta fecha sólo será necesario cumplimentarla en los registros con TIPO INGRESO = A (Autoliquidaciones). |
+| 28-90 | ALF. | FILLER (A BLANCOS). |
+
+2.3 DISEÑO DEL REGISTRO DE DETALLE DE AUTOLIQUIDACIONES (TIPO-3)
+
+| Posic. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 3 = DETALLE. |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO EN LA E.C. EL PRIMER REGISTRO DE DETALLE TENDRÁ LA SECUENCIA 0000001. |
+| 9-13 | NUM. | CÓDIGO DE ADMON. FISCAL DE CONTRIBUYENTE (DDAAA). |
+| 14-15 | NUM. | FILLER (00). |
+| 16-17 | NUM. | EJERCICIO DE LA AUTOLIQUIDACIÓN. |
+| 18-19 | ALF. | PERÍODO DE LA AUTOLIQUIDACIÓN. |
+| 20-22 | NUM. | MODELO DE LA AUTOLIQUIDACIÓN. |
+| 23-35 | NUM. | NÚMERO DE JUSTIFICANTE DE LA AUTOLIQUIDACIÓN. |
+| 36-36 | ALF. | EN BLANCO |
+| 37-45 | ALF. | NIF DEL CONTRIBUYENTE. |
+| 46-49 | ALF. | TRES LETRAS DEL PRIMER APELLIDO (SOLO EN PERSONAS FÍSICAS) MÁS DÍGITO DE CONTROL. (ANAGRAMA). EN CASO DE ETIQUETAS ANTIGUAS QUE NO INCORPOREN ESTE ANAGRAMA SE DEBERÁN GRABAR EN ESTE DATO LOS 4 PRIMEROS CARACTERES DEL PRIMER APELLIDO |
+| 50-53 | NUM. | CÓDIGO DE SUCURSAL DEL INGRESO. |
+| 54-66 | NUM. | IMPORTE INGRESADO. |
+| 67-74 | NUM. | FECHA DEL INGRESO DE LA AUTOLIQUIDACIÓN (AAAAMMDD). |
+| 75-86 | ALF. | DATO ESPECIFICO. EN LOS MODELOS DE IRPF (100) LA PRIMERA POSICIÓN ES EL INDICADOR DE FRACCIONAMIENTO. PUEDE TENER CUATRO VALORES:<br>0=SE DESCONOCE SI SE FRACCIONA EL INGRESO.<br>1= NO SE FRACCIONA EL INGRESO.<br>2= SÍ SE FRACCIONA EL INGRESO Y NO SE DOMICILIA EL SEGUNDO PAGO.<br>3= SÍ SE FRACCIONA Y EL INGRESO Y SÍ SE DOMICILIA EL SEGUNDO PAGO.<br>SI EXISTE FRACCIONAMIENTO (VALORES 2 Y 3) EL RESTO DEL CAMPO DEBERÁ LLEVAR EL IMPORTE TOTAL A INGRESAS (PARTIDA 99-CUOTA DIFERENCIAL) ALINEADO POR LA DERECHA Y RELLENO A CEROS POR LA IZQUIERDA |
+| 87-90 | ALF. | FILLER (A BLANCOS). |
+
+2.4 DISEÑO DEL REGISTRO DE SUBTOTALES PARA AUTOLIQUIDACIONES (TIPO-4).
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO 4 = SUBTOTALES. |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO. |
+| 9-11 | NUM. | MODELO AL QUE CORRESPONDE EL SUBTOTAL. |
+| 12-18 | NUM. | CONTADOR TOTAL DE REGISTROS (TIPO-3) DEL MODELO. |
+| 19-32 | NUM. | SUMA DE LOS IMPORTES DE LOS REGISTROS DE DETALLE DEL MODELO. |
+| 33-90 | ALF. | FILLER (A BLANCOS) |
+
+2.5 DISEÑO DEL REGISTRO DE TOTALES (TIPO-5)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO = 5. |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO EN LA TRANSMISIÓN. |
+| 9-11 | NUM. | CONTADOR DE REGISTROS DEL TIPO 4. |
+| 12-18 | NUM. | CONTADOR TOTAL DE REGISTROS ( 2, 3 ,4 y 5). |
+| 19-32 | NUM. | SUMA TOTAL DE LOS IMPORTES DE LOS REGISTROS DE DETALLE DE TODOS LOS MODELOS. |
+| 33-36 | NUM. | CODIGO ENTIDAD COLABORADORA |
+| 37-90 | ALF. | FILLER (A BLANCOS) |
+
+2.6 DISEÑO DEL REGISTRO FINAL DEL SOPORTE (TIPO 6).
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO = 6. |
+| 2-5 | NUM. | CÓDIGO DE LA ENTIDAD TRANSMISORA. |
+| 6-7 | NUM. | NÚMERO DE ENTIDADES COLABORADORAS INCLUIDAS EN LA TRANSMISIÓN. |
+| 8-14 | ALF. | NÚMERO TOTAL DE REGISTROS TRANSMITIDOS (TIPOS 1, 2, 3, 4, 5 Y 6) |
+| 15-90 | ALF. | FILLER (A BLANCOS) |
+
+2.7 DISEÑO DEL REGISTRO DE DETALLE DE INGRESOS DE LIQUIDACIONES PRACTICADAS POR LA ADMINISTRACIÓN (TIPO-3)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO. TIENE EL VALOR 3. |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO DE DETALLE, EN LA E.C. EL PRIMER REGISTRO DE DETALLE TENDRA EL VALOR 0000001. |
+| 9-11 | NUM. | CÓDIGO DEL MODELO: |
+|  |  | 002 = Abonaré A.E.A.T. |
+|  |  | 003 = Diligencias de Embargo de Cuentas Bancarias |
+|  |  | 004 = Talones de Actas |
+|  |  | 008 = Documentos de ingreso asociados a diligencias de embargo |
+|  |  | 010 = Documentos de igreso parcial o fuera de plazo |
+|  |  | 012 = Abonaré Delegación Economía y Hacienda |
+|  |  | 031 = Deudas de comercio exterior |
+|  |  | 032 = Liquidaciones R.E.F. de Canarias |
+|  |  | 060 = Ingresos de la Caja General de Depósitos |
+|  |  | 061 = Cuotas de Derechos Pasivos |
+|  |  | 069 = Otros ingresos no tributarios |
+| 12-29 | ALF. | CLAVE DEL JUSTIFICANTE DE INGRESO. (ALINEADA POR LA IZQUIERDA) |
+|  |  | Configuración: |
+|  |  | a) Para modelos 002, 003, 004, 008, 010, 012 : pos. 1-2: Código Delegación (01-56) pos. 3-4: Dos últimas del año de emisión pos. 5-6: Tipo del justificante pos. 7-12: Numérico pos. 13: Carácter de control (*) resto: Blancos |
+|  |  | b) Para modelos 031: 1-2: Código de Aduana (01-99) pos. 3-4: Dos últimas del año de emisión pos. 5-6: Tipo del justificante pos. 7-12: Numérico pos. 13: Carácter de control (*) resto: Blancos |
+|  |  | c) Para modelos 032: 1-2: Código Delegación (91 ó 92) pos. 3-4: Dos últimas del año de emisión pos. 5-6: Tipo del justificante pos. 7-12: Numérico pos. 13: Carácter de control (*) resto: Blancos |
+|  |  | d) Para modelos 060, 061 y 069: pos. 1-12 Numérico pos. 13 Carácter de control (*) resto: Blancos |
+| 30-37 | NUM. | FECHA DE INGRESO (AAAAMMDD). |
+| 38-50 | NUM. | IMPORTE DEL INGRESO. |
+| 51-54 | NUM. | SUCURSAL DEL INGRESO. |
+| 55 | ALF. | EN BLANCO |
+| 56-64 | ALF. | NIF DEL DEUDOR |
+| 65-90 | ALF. | FILLER (A BLANCOS) |
+
+(*) Modelos 002, 004, 010, 012, 031, 032, 060, 061 y 069. El importe del ingreso se suma al número formado por las posiciones 1 a 12. Del número obtenido se calcula el dígito de control con el mismo algoritmo que en el NIF.
+
+Modelos 003 y 008. Del número formado por las posiciones 1 a 12 se calcula el dígito de control con el algoritmo del NIF.
+
+2.8 DISEÑO DEL REGISTRO DE DETALLE DE INGRESOS DE TASAS (TIPO-3)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO. TIENE EL VALOR 3. |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA |
+| 9-13 | NUM. | FILLER (A CEROS) |
+| 14-26 | NUM. | NÚMERO DE JUSTIFICANTE |
+| 27-35 | ALF. | NIF |
+| 36-64 | ALF. | APELLIDOS Y NOMBRE |
+| 65-72 | NUM. | FECHA DEL INGRESO (AAAAMMDD) |
+| 73-84 | NUM | IMPORTE |
+| 85-88 | NUM | SUCURSAL DEL INGRESO |
+| 89-90 | ALF. | FILLER (A BLANCOS) |
+
+> Se modifican los apartados 2.1 y 2.2 y se suprime el apartado 2.9 por el art. 1.15 a 17 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica el apartado 2.3 por el art. 1.9 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+## ANEXO XIII — PRESENTACIÓN CENTRALIZADA INGRESOS ENTIDADES COLABORADORAS: ESPECIFICACIONES TÉCNICAS. VALIDACIONES
+
+ERROR GRAVE
+
+Del que se pueda deducir que la transmisión tiene algún error que cuestione la fiabilidad de todo su contenido.
+
+La corrección la efectúa la Entidad colaboradora.
+
+ERROR LEVE
+
+Error no grave que debe ser corregido.
+
+La corrección la efectúa la A.E.A.T. (en cada Delegación). Puede deberse a errores de cumplimentación.
+
+Se requiere el justificante de ingreso para confirmar que es un error de cumplimentación.
+
+RECHAZO DE LA TRANSMISIÓN
+
+• Cuando exista un error grave o más.
+
+\* Cuando el número de errores leves sea tal que se pueda deducir un error sistemático por parte de la Entidad colaboradora.
+
+– 100 Errores en valor absoluto
+
+– 1% de errores sobre el total en valor relativo
+
+\* Por descuadre con la orden de transferencia.
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 1 (ENTIDAD TRANSMISORA)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 1 o A</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de Entidad Transmisora no es un código válido</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de presentación distinto de I</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de ingresos distinto de A, E, L, T , Z o G</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de quincena no se ajusta al formato AAAAMM01 o AAAAMM02.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Siendo AAAA el ejercicio y MM el mes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código Delegación de presentación distinto de 57</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 2 (ENTIDAD COLABORADORA)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 2</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de Entidad Colaboradora no es un código válido</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>No coincide el código de Entidad con el de la orden de transferencia</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de presentación distinto de I</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de ingresos distinto de A, E, L, T, Z o G</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de quincena no se ajusta al formato AAAAMM01 o AAAAMM02. Siendo AAAA el ejercicio y MM el mes.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de quincena no coincide con el de la Entidad Transmisora</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código Delegación de presentación distinto de 57</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de orden de la transmisión sin que conste una transmisión con número anterior</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 3 (REGISTRO DE DETALLE)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Autoliquidaciones excepto Especiales)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr> </tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 3.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de secuencia con saltos en la numeración.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ejercicio no válido (Sin iniciar el período de devengo).</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Período no válido (Distinto a 1T, 2T, 3T 4T,1P,2P, 3P o OA, o cuyo período de devengo aún no se hubiera iniciado).</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El período no se corresponde a la periodicidad de presentación del modelo.</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Modelo de autoliquidación distinto a los autorizados.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Modelo de autoliquidación no incluido en el Anexo XVII de esta Orden (para presentaciones correspondientes a primeras quincenas, efectuadas antes del día 13 del mes)</p>
+<p>No se corresponde con el grupo subtotal en que se presenta.</p>
+</td>
+<td>
+<p>GRAVE</p>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de justificante Más de 10 números de justificante ficticios No se cumple rutina c/control.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Configuración del NIF no existente o con dígito de control erróneo.</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anagrama o comienzo del apellido: Inexistencia en personas físicas.</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>No se cumple rutina c/control o no coincide con los cuatro primeros caracteres del apellido.</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de sucursal del ingreso desconocida.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Importe del ingreso = 0.</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de ingreso ilógica.</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dato específico no capturado cuando sea exigido.</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 3 (REGISTRO DE DETALLE)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Autoliquidaciones Especiales)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 3</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de secuencia con saltos en la numeración</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ejercicio no válido (Sin iniciar el período de devengo)</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Período no válido</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Modelo de autoliquidación:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Distinto a los autorizados</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– No se corresponde con el grupo-subtotal en que se presenta</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de justificante:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Más de 10 números de justificante ficticios</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– No se cumple rutina c/control</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Configuración del NIF no existente o con dígito de control erróneo</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anagrama:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Inexistencia en personas físicas</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– No se cumple rutina c/control o no coincide con los cuatro primeros caracteres del apellido</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de sucursal del ingreso desconocida</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Importe del ingreso = 0</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de ingreso ilógica</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dato específico no capturado cuando sea exigido</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 3 (REGISTRO DE DETALLE)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Liquidaciones)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 3:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de secuencia con saltos en la numeración:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de modelo distinto a 002, 003, 004 ,008, 010, 031, 032, 060, 061 o 069:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clave de justificante:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– No se ajusta a la configuración definida para cada código de modelo:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Modelo 002. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (01 a 56).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posiciones 5-6: Valores permitidos: ''00 a 12'', ''28'' y ''60''.</p>
+<p>Posiciones 7-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 003. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (01 a 56).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posiciones 5-6: Siempre ''20''.</p>
+<p>Posiciones 7-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 004. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (01 a 56).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posiciones 5-6: ''70'' y ''71''.</p>
+<p>Posiciones 7-12: Numérico.</p>
+<p>Posición 13: Dígito de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 008. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (01 a 56).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posiciones 5-6: ''22'', ''25'', ''27'', ''30'' y ''60''.</p>
+<p>Posiciones 7-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 010. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (01 a 56).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posiciones 5-6: ''13 a 19'', ''22'', ''25'', ''27'' y del ''60'' al ''64''.</p>
+<p>Posiciones 7-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 031. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (01 a 99).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posición 5: ''5''.</p>
+<p>Posiciones 6-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 032. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-2: Delegación (91 ó 92).</p>
+<p>Posiciones 3-4: Numérico.</p>
+<p>Posición 5: ''5''.</p>
+<p>Posiciones 6-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 060. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 061. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Modelo 069. Clave de justificante (13 posiciones).</p>
+<p>Posiciones 1-12: Numérico.</p>
+<p>Posición 13: Carácter de control.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Justificante no cumple rutina carácter de control:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Justificante no reconocido por el sistema (excepto modelos 060, 061 y 069):</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de ingreso ilógica:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Importe del ingreso:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Igual a cero:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Distinto al que figura en el justificante de los modelos 002, 004, 010, 031, 032, 060, 061 y 069:</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de sucursal del ingreso desconocida:</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de NIF no existe o con dígito de control erróneo:</p>
+</td>
+<td>
+<p>LEVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 3 (REGISTRO DE DETALLE)</strong>
+</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Tasas)</strong>
+</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Cualquier error de los descritos se considerará error grave y provocará rechazo de la transmisión:</p>
+<p>– Tipo de registro distinto de 3</p>
+<p>– Número de secuencia con saltos en la numeración</p>
+<p>– Código de Tasa no es uno de los permitidos para el tipo de ingreso</p>
+<p>– Número de justificante:</p>
+<p>– No cumple dígito de control</p>
+<p>– Las posiciones 1 a 3 son distintas, de 790, 791, 990 ó 991</p>
+<p>– Las posiciones 4 a 6 no se corresponde con los tres últimos dígitos de un código de tasa permitido.</p>
+<p>– N.I.F.: Configuración de NIF no existente o con dígito de control erróneo.</p>
+<p>– Apellidos y nombre sin contenido en registros con DNI (sin carácter de control)</p>
+<p>– Importe = 0</p>
+<p>– Fecha de ingreso ilógica.</p>
+<p>– Código de sucursal del ingreso desconocida.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 4 (SUBTOTALES)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Autoliquidaciones y Autoliquidaciones Especiales)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 4</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de secuencia con saltos en la numeración</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de modelo de autoliquidación distinto a los autorizados</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contador de registros por modelo no cuadra</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suma de importes por modelos no cuadra</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 5 (TOTALES)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Autoliquidaciones y Autoliquidaciones Especiales)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 5</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de registros con saltos en la numeración</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contador de registros tipo 4 no cuadra</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contador total de registros no cuadra (Internamente, con los registros de subtotales o externamente con la orden de transferencia)</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suma de importes no cuadra</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de Entidad Colaboradora es distinta a la del registro tipo 02</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 5 (TOTALES)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Liquidaciones)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 5</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de registros con saltos en la numeración</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contador total de registros no cuadra (Internamente, con los registros de subtotales o externamente con la orden de transferencia)</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suma de importes no cuadra</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de Entidad Colaboradora es distinta a la del registro tipo 02</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TIPO DE REGISTRO 6 (TOTALES)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de registro distinto de 6</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de Entidad Transmisora es distinta a la del registro tipo 01</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contador total del número de Entidades Colaboradoras no cuadra</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número total de registros no coincide con los recibidos en la transmisión</p>
+</td>
+<td>
+<p>GRAVE</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprime el «Tipo de registro 3 (registro de detalle) (Anulaciones de NRC’s) del apartado «Rechazo de transmisión» por el art. 1.18 de la Orden HFP/915/2021, de 1 de septiembre. [Ref. BOE-A-2021-14453](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14453)
+
+> Se modifica por el art. único.6 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)
+
+> Se modifica por el art. único.7 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
+
+## ANEXO XIV — PRESENTACIÓN CENTRALIZADA SOLICITUDES DE DEVOLUCIÓN ENTIDADES COLABORADORAS ESPECIFICACIONES TÉCNICAS
+
+1\. CARACTERÍSTICAS DE LA CONEXIÓN CON EL D.I.T. PARA INTERCAMBIO TELEMÁTICO DE FICHEROS
+
+1.1) LÍNEA DE COMUNICACIÓN
+
+• Conexión X-25 IBERPAC
+
+• Características:
+
+– Circuito Virtual Conmutado
+
+– Tamaño de paquete: 128
+
+– Tamaño ventana nivel 2: 7
+
+– Tamaño ventana nivel 3:1 a 7 (se recomienda 7)
+
+1.2) PROGRAMA DE TRANSFERENCIA DE FICHEROS: EDITRAN ó TAF.
+
+1.3) LONGITUD DE REGISTRO: 108 CARACTERES
+
+2\. DISEÑO DE REGISTRO
+
+2.1 DISEÑO DEL REGISTRO DE ENTIDAD TRANSMISORA (TIPO-1).
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO =1 |
+| 2-5 | NUM. | CÓDIGO DE ENTIDAD TRANSMISORA. |
+| 6-6 | ALF. | TIPO DE PRESENTACIÓN |
+|  |  | "D" = SOLICITUDES DE DEVOLUCIÓN. |
+| 7-7 | ALF. | CAMPAÑA: |
+|  |  | "R"= RENTA |
+|  |  | "I"= IVA |
+|  |  | "S" = SOCIEDADES |
+| 8-9 | NUM. | DELEGACIÓN AEAT (PRESENTACIÓN CENTRALIZADA= 57) |
+| 10-13 | NUM. | EJERCICIO DE LA CAMPAÑA |
+| 14-108 | ALF. | FILLER (A BLANCOS) |
+
+2.2 DISEÑO DEL REGISTRO DE CABECERA DE ENTIDAD COLABORADORA (TIPO-2)
+
+| POSIC | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO =2 |
+| 2-5 | NUM. | CÓDIGO DE ENTIDAD COLABORADORA. |
+| 6-6 | ALF. | TIPO DE PRESENTACIÓN |
+|  |  | "D" = SOLICITUDES DE DEVOLUCIÓN. |
+| 7-7 | ALF. | CAMPAÑA: |
+|  |  | "R"= RENTA |
+|  |  | "I" = IVA |
+|  |  | "S" = SOCIEDADES |
+| 8-9 | NUM. | DELEGACIÓN AEAT (PRESENTACIÓN CENTRALIZADA= 57) |
+| 10-11 | NUM. | NÚMERO DE ORDEN DE LA TRANSMISIÓN.-<br>En caso de que se realice transmisión complementaria, este número de orden servirá para distinguirla de la original. La primera transmisión siempre tendrá 01 hasta su aceptación por la AEAT. La segunda transmisión siempre 02 y así sucesivamente. |
+| 12-15 | NUM. | EJERCICIO DE LA CAMPAÑA. |
+| 16-108 | ALF. | FILLER (A BLANCOS) |
+
+2.3 DISEÑO DEL REGISTRO DE DETALLE DE AUTOLIQUIDACIONES (TIPO-3)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO =3 |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO EN LA E.C. EL PRIMER REGISTRO DE DETALLE TENDRÁ LA SECUENCIA 0000001. |
+| 9-13 | NUM. | CÓDIGO DE ADMON. FISCAL DE CONTRIBUYENTE (DDAAA). |
+| 14-15 | NUM. | FILLER (00). |
+| 16-17 | NUM. | EJERCICIO DE LA CAMPAÑA. |
+| 18-19 | ALF. | PERÍODO DE LA AUTOLIQUIDACIÓN. |
+| 20-22 | NUM. | MODELO DE LA AUTOLIQUIDACIÓN. |
+| 23-35 | NUM. | NÚMERO DE JUSTIFICANTE DE LA AUTOLIQUIDACIÓN. |
+| 36-36 | ALF. | EN BLANCO |
+| 37-45 | ALF. | NIF DEL CONTRIBUYENTE. |
+| 46-49 | ALF. | TRES LETRAS DEL PRIMER APELLIDO (SOLO EN PERSONAS FÍSICAS) MAS DÍGITO DE CONTROL. (ANAGRAMA). EN CASO DE ETIQUETAS ANTIGUAS QUE NO INCORPOREN ESTE ANAGRAMA SE DEBERAN GRABAR EN ESTE DATO LOS 4 PRIMEROS CARACTERES DEL PRIMER APELLIDO |
+| 50-53 | NUM. | CÓDIGO DE SUCURSAL QUE RECIBE LA SOLICITUD DE DEVOLUCIÓN. |
+| 54-66 | NUM. | IMPORTE SOLICITADO A DEVOLVER. |
+| 67-74 | NUM. | FECHA DE PRESENTACIÓN DE LA SOLICITUD DE DEVOLUCIÓN (AAAAMMDD). |
+| 75-86 | ALF. | DATO ESPECIFICO. |
+| 87-106 | NUM. | CÓDIGO CUENTA DE ABONO (CCC). |
+| 107-108 | ALF. | FILLER (A BLANCOS) |
+
+2.4 DISEÑO DEL REGISTRO DE SUBTOTALES PARA AUTOLIQUIDACIONES (TIPO-4).
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO =4 |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO. |
+| 9-11 | NUM. | MODELO AL QUE CORRESPONDE EL SUBTOTAL. |
+| 12-18 | NUM. | CONTADOR TOTAL DE REGISTROS (TIPO-3) DEL MODELO. |
+| 19-32 | NUM. | SUMA DE LOS IMPORTES DE LOS REGISTROS DE DETALLE DEL MODELO. |
+| 33-108 | ALF. | FILLER (A BLANCOS) |
+
+2.5 DISEÑO DEL REGISTRO DE TOTALES (TIPO-5)
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO = 5. |
+| 2-8 | NUM. | NÚMERO DE SECUENCIA DEL REGISTRO EN LA TRANSMISIÓN. |
+| 9-11 | NUM. | CONTADOR DE REGISTROS DEL TIPO 4. |
+| 12-18 | NUM. | CONTADOR TOTAL DE REGISTROS (1 2, 3 y 4). |
+| 19-32 | NUM. | SUMA TOTAL DE LOS IMPORTES DE LOS REGISTROS DE DETALLE DE TODOS LOS MODELOS. |
+| 33-36 | NUM. | CÓDIGO ENTIDAD COLABORADORA |
+| 37-108 | ALF. | FILLER (A BLANCOS) |
+
+2.6 DISEÑO DEL REGISTRO FINAL DEL SOPORTE (TIPO 6).
+
+| POSIC. | TIPO | DESCRIPCIÓN |
+|---|---|---|
+| 1-1 | NUM. | TIPO DE REGISTRO = 6. |
+| 2-5 | NUM. | CÓDIGO DE LA ENTIDAD TRANSMISORA. |
+| 6-7 | NUM. | NÚMERO DE ENTIDADES COLABORADORAS INCLUIDAS EN LA TRANSMISIÓN. |
+| 8-14 | ALF. | NÚMERO TOTAL DE REGISTROS TRANSMITIDOS (TIPOS 1, 2, 3, 4, 5 y 6) |
+| 15-108 | ALF. | FILLER (A BLANCOS) |
+
+## ANEXO XV — PRESENTACIÓN CENTRALIZADA SOLICITUDES DE DEVOLUCIÓN ENTIDADES COLABORADORAS. ESPECIFICACIONES TÉCNICAS. VALIDACIONES
+
+ERROR GRAVE
+
+Del que se pueda deducir que la transmisión tiene algún error que cuestione la fiabilidad de todo su contenido.
+
+La corrección la efectúa la Entidad colaboradora.
+
+ERROR LEVE
+
+Error no grave que debe ser corregido.
+
+La corrección la efectúa la A.E.A.T. (en cada Delegación). Puede deberse a errores de cumplimentación.
+
+Se requiere el justificante de ingreso para confirmar que es un error de cumplimentación.
+
+RECHAZO DE LA TRANSMISIÓN
+
+\* Cuando exista un error grave o más.
+
+­* Cuando el número de errores leves sea tal que se pueda deducir un error sistemático por parte de la Entidad colaboradora.
+
+– 100 Errores en valor absoluto
+
+– 1% de errores sobre el total en valor relativo
+
+| TIPO DE REGISTRO 1 (ENTIDAD TRANSMISORA) |  |
+|---|---|
+| Tipo de registro distinto de 1 | GRAVE |
+| Código de Entidad Transmisora no es un código válido | GRAVE |
+| Tipo de presentación distinto de ´D´ | GRAVE |
+| Tipo de solicitud de devolución (distinto de R, I o S) | GRAVE |
+| Código Delegación de presentación distinto de 57 | GRAVE |
+| TIPO DE REGISTRO 2 (ENTIDAD COLABORADORA) |  |
+| Tipo de registro distinto de 2 | GRAVE |
+| Código de Entidad Colaboradora no es un código válido | GRAVE |
+| Tipo de presentación distinto de ´D´ | GRAVE |
+| Tipo de solicitud de devolución (distinto de R, I o S) | GRAVE |
+| Código Delegación de presentación distinto de 57 | GRAVE |
+| Número de orden de la transmisión no guarda la secuencia debida | GRAVE |
+| TIPO DE REGISTRO 3 (REGISTRO DE DETALLE) |  |
+| Tipo de registro distinto de 3 | GRAVE |
+| Número de secuencia con saltos en la numeración | GRAVE |
+| Ejercicio no válido | GRAVE |
+| Período no válido | LEVE |
+| – El período no se corresponde con la periodicidad de presentación del modelo. |  |
+| Modelo no válido |  |
+| – No se corresponde con la campaña presentada. | GRAVE |
+| – Distinto a los autorizados | GRAVE |
+| – No se corresponde con el grupo-subtotal en que se presenta | GRAVE |
+| Número de justificante |  |
+| – Más de 10 números de justificante ficticios | GRAVE |
+| – No se cumple rutina c/control | GRAVE |
+| Configuración del NIF no existente o con dígito de control erróneo | LEVE |
+| Anagrama: |  |
+| – Inexistencia en personas físicas | LEVE |
+| – No se cumple rutina c/control o no coincide con los cuatro primeros caracteres del apellido | LEVE |
+| Código de sucursal de la presentación desconocida | GRAVE |
+| Importe de solicitud de devolución = 0, salvo modelos 100 con compensación entre cónyuges. | GRAVE |
+| Fecha de presentación ilógica | GRAVE |
+| Código cuenta de abono sin contenido (CCC), salvo modelos 100 con compensación entre cónyuges. | GRAVE |
+| Código cuenta de abono(CCC) no cumple rutina de c/control | GRAVE |
+| TIPO DE REGISTRO 4 (SUBTOTALES) |  |
+| Tipo de registro distinto de 4 | GRAVE |
+| Número de secuencia con saltos en la numeración | GRAVE |
+| Código de modelo de autoliquidación distinto a los autorizados | GRAVE |
+| Contador de registros por modelo no cuadra | GRAVE |
+| Suma de importes por modelos no cuadra | GRAVE |
+| TIPO DE REGISTRO 5 (TOTALES) |  |
+| Tipo de registro distinto de 5 | GRAVE |
+| Número de registros con saltos en la numeración | GRAVE |
+| Contador de registros tipo 4 no cuadra | GRAVE |
+| Contador total de registros no cuadra | GRAVE |
+| Suma de importes no cuadra | GRAVE |
+| Código de Entidad Colaboradora es distinta a la del registro tipo 02 | GRAVE |
+| TIPO DE REGISTRO 6 (TOTALES) |  |
+| Tipo de registro distinto de 6 | GRAVE |
+| Código de Entidad Transmisora es distinta a la del registro tipo 01 | GRAVE |
+| Contador total del número de Entidades Colaboradoras no cuadra | GRAVE |
+| Número total de registros no coincide con los recibidos en la transmisión | GRAVE |
+
+## ANEXO XVI — MODELOS DE INGRESO Y CONFIGURACIONES DE JUSTIFICANTES NO ANULABLES O RECTIFICABLES POR LAS ENTIDADES COLABORADORAS
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.10 de la Orden HAC/785/2020, de 21 de julio. [Ref. BOE-A-2020-9552](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9552)
+
+> Se añade por el art. único.8 de la Orden HAP/122/2015, de 23 de enero. [Ref. BOE-A-2015-939](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-939).
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación [Ref. BOE-A-2005-14803](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14803)., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
+
+## ANEXO XVII — MODELOS DE AUTOLIQUIDACIÓN CUYO INGRESO EN EL BANCO DE ESPAÑA DEBE SER ANTICIPADO POR LAS ENTIDADES COLABORADORAS
+
+| Modelo | Denominación | Periodos ingreso |
+|---|---|---|
+| 303 | Impuesto sobre el Valor Añadido. Autoliquidación. | M (01 a 12) |
+| 303 | Impuesto sobre el Valor Añadido. Autoliquidación | 4T |
+| 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. | M (01 a 12) |
+
+> Se añade por el art. único.7 de la Orden HFP/386/2018, de 13 de abril. [Ref. BOE-A-2018-5227](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5227)

@@ -402,43 +402,38 @@ b) En el supuesto de la letra b del artículo 2.1-1, quienes se ofrezcan para un
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Informes de seguimiento de adopciones internacionales (por cada uno de los informes).</p>
+<p>Informes de seguimiento de adopciones internacionales (por cada uno de los informes).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">185,49</p>
+<p>185,49</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valoraciones psicosociales para la tramitación de un ofrecimiento de adopción internacional y emisión del correspondiente informe (por cada informe).</p>
+<p>Valoraciones psicosociales para la tramitación de un ofrecimiento de adopción internacional y emisión del correspondiente informe (por cada informe).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">741,97</p>
+<p>741,97</p>
 </td>
 </tr>
 </tbody>
@@ -494,76 +489,71 @@ b) En el caso de la prestación de los servicios de supervisión del cumplimient
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_6">
-<col class="row_column_7">
-<col class="row_column_8">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de construcción o modernización de buque pesquero o auxiliar de acuicultura.</p>
+<p>Autorización de construcción o modernización de buque pesquero o auxiliar de acuicultura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,33 </p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización de nueva instalación de acuicultura.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">96,99 </p>
+<p>18,33 </p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de modificación de una instalación de acuicultura existente.</p>
+<p>Autorización de nueva instalación de acuicultura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">52,27 </p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización de comercialización en establecimientos de primera venta.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">58,95 </p>
+<p>96,99 </p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de centro de expedición y depuración.</p>
+<p>Autorización de modificación de una instalación de acuicultura existente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58,95 </p>
+<p>52,27 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Autorización de comercialización en establecimientos de primera venta.</p>
+</td>
+<td>
+<p>58,95 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Autorización de centro de expedición y depuración.</p>
+</td>
+<td>
+<p>58,95 </p>
 </td>
 </tr>
 </tbody>
@@ -589,2116 +579,2116 @@ Son contribuyentes de esta tasa las personas que soliciten las determinaciones a
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de determinación</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe unitario</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">Tipo de determinación</th>
+<th>
+<p>Importe unitario</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">1. TIERRAS</td>
+<td colspan="3">1. TIERRAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.1</td>
-<td class="cuerpo_tabla_izq">Capacidad máxima de retención de agua.</td>
-<td class="cuerpo_tabla_coma">6,06</td>
+<td>1.1</td>
+<td>Capacidad máxima de retención de agua.</td>
+<td>6,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.2</td>
-<td class="cuerpo_tabla_izq">Elementos gruesos.</td>
-<td class="cuerpo_tabla_coma">6,06</td>
+<td>1.2</td>
+<td>Elementos gruesos.</td>
+<td>6,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.3</td>
-<td class="cuerpo_tabla_izq">Color (tablas Munsel).</td>
-<td class="cuerpo_tabla_coma">6,06</td>
+<td>1.3</td>
+<td>Color (tablas Munsel).</td>
+<td>6,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.4</td>
-<td class="cuerpo_tabla_izq">Textura.</td>
-<td class="cuerpo_tabla_coma">15,06</td>
+<td>1.4</td>
+<td>Textura.</td>
+<td>15,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.5</td>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>1.5</td>
+<td>pH.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.6</td>
-<td class="cuerpo_tabla_izq">Materia orgánica oxidable.</td>
-<td class="cuerpo_tabla_coma">6,06</td>
+<td>1.6</td>
+<td>Materia orgánica oxidable.</td>
+<td>6,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.7</td>
-<td class="cuerpo_tabla_izq">Fósforo soluble en bicarbonato sódico.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>1.7</td>
+<td>Fósforo soluble en bicarbonato sódico.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.8</td>
-<td class="cuerpo_tabla_izq">Potasio extraído por acetato amónico.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>1.8</td>
+<td>Potasio extraído por acetato amónico.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.9</td>
-<td class="cuerpo_tabla_izq">Carbonatos totales.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>1.9</td>
+<td>Carbonatos totales.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.10</td>
-<td class="cuerpo_tabla_izq">Caliza activa.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>1.10</td>
+<td>Caliza activa.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.11</td>
-<td class="cuerpo_tabla_izq">Conductividad eléctrica del extracto 1/5.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>1.11</td>
+<td>Conductividad eléctrica del extracto 1/5.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.12</td>
-<td class="cuerpo_tabla_izq">Capacidad de cambio catiónico.</td>
-<td class="cuerpo_tabla_coma">24,12</td>
+<td>1.12</td>
+<td>Capacidad de cambio catiónico.</td>
+<td>24,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.13</td>
-<td class="cuerpo_tabla_izq">Cationes de cambio.</td>
-<td class="cuerpo_tabla_coma">24,12</td>
+<td>1.13</td>
+<td>Cationes de cambio.</td>
+<td>24,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.14</td>
-<td class="cuerpo_tabla_izq">Sodio, potasio o calcio (cada una).</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>1.14</td>
+<td>Sodio, potasio o calcio (cada una).</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.15</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>1.15</td>
+<td>Cloruros.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.16</td>
-<td class="cuerpo_tabla_izq">Sulfatos.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>1.16</td>
+<td>Sulfatos.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.17</td>
-<td class="cuerpo_tabla_izq">Nitrógeno total.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>1.17</td>
+<td>Nitrógeno total.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.18</td>
-<td class="cuerpo_tabla_izq">Relación C/N.</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>1.18</td>
+<td>Relación C/N.</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.19</td>
-<td class="cuerpo_tabla_izq">Hierro, cobre, boro, plomo, cinc, cromo y flúor.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>1.19</td>
+<td>Hierro, cobre, boro, plomo, cinc, cromo y flúor.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.20</td>
-<td class="cuerpo_tabla_izq">Humedad.</td>
-<td class="cuerpo_tabla_coma">6,06</td>
+<td>1.20</td>
+<td>Humedad.</td>
+<td>6,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.21</td>
-<td class="cuerpo_tabla_izq">Granulometría.</td>
-<td class="cuerpo_tabla_coma">16,48</td>
+<td>1.21</td>
+<td>Granulometría.</td>
+<td>16,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.22</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 44,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>1.22</td>
+<td>Otras (con un máximo de 44,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">2. AGUAS</td>
+<td colspan="3">2. AGUAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.1</td>
-<td class="cuerpo_tabla_izq">Conductividad eléctrica.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.1</td>
+<td>Conductividad eléctrica.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.2</td>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.2</td>
+<td>pH.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.3</td>
-<td class="cuerpo_tabla_izq">Cloruros o sulfatos (cada una).</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.3</td>
+<td>Cloruros o sulfatos (cada una).</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.4</td>
-<td class="cuerpo_tabla_izq">Carbonatos o bicarbonatos (cada una).</td>
-<td class="cuerpo_tabla_coma">6,06</td>
+<td>2.4</td>
+<td>Carbonatos o bicarbonatos (cada una).</td>
+<td>6,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.5</td>
-<td class="cuerpo_tabla_izq">Nitratos.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.5</td>
+<td>Nitratos.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.6</td>
-<td class="cuerpo_tabla_izq">Calcio, magnesio, sodio o potasio (cada una).</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.6</td>
+<td>Calcio, magnesio, sodio o potasio (cada una).</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.7</td>
-<td class="cuerpo_tabla_izq">Dureza total.</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>2.7</td>
+<td>Dureza total.</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.8</td>
-<td class="cuerpo_tabla_izq">Carbonato sódico residual (CSR).</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>2.8</td>
+<td>Carbonato sódico residual (CSR).</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.9</td>
-<td class="cuerpo_tabla_izq">Porcentaje de saturación de sodio (PSS).</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>2.9</td>
+<td>Porcentaje de saturación de sodio (PSS).</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.10</td>
-<td class="cuerpo_tabla_izq">Relación de absorción de sodio ajustada (ASAR).</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>2.10</td>
+<td>Relación de absorción de sodio ajustada (ASAR).</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.11</td>
-<td class="cuerpo_tabla_izq">Materias sedimentables.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.11</td>
+<td>Materias sedimentables.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.12</td>
-<td class="cuerpo_tabla_izq">Reductores en frío.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.12</td>
+<td>Reductores en frío.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.13</td>
-<td class="cuerpo_tabla_izq">Cloro activo.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.13</td>
+<td>Cloro activo.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.14</td>
-<td class="cuerpo_tabla_izq">Total de sólidos disueltos.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>2.14</td>
+<td>Total de sólidos disueltos.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.15</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 44,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>2.15</td>
+<td>Otras (con un máximo de 44,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">3. FERTILIZANTES</td>
+<td colspan="3">3. FERTILIZANTES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.1</td>
-<td class="cuerpo_tabla_izq">Humedad.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>3.1</td>
+<td>Humedad.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.2</td>
-<td class="cuerpo_tabla_izq">Nitrógeno total, nitrógeno nítrico, nitrógeno amoniacal o nitrógeno ureico (cada una).</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>3.2</td>
+<td>Nitrógeno total, nitrógeno nítrico, nitrógeno amoniacal o nitrógeno ureico (cada una).</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.3</td>
-<td class="cuerpo_tabla_izq">Fósforo soluble en agua, en citrato amónico neutro o fósforo total (cada una).</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>3.3</td>
+<td>Fósforo soluble en agua, en citrato amónico neutro o fósforo total (cada una).</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.4</td>
-<td class="cuerpo_tabla_izq">Potasio soluble en agua o potasio total (cada una).</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>3.4</td>
+<td>Potasio soluble en agua o potasio total (cada una).</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.5</td>
-<td class="cuerpo_tabla_izq">Magnesio.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>3.5</td>
+<td>Magnesio.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.6</td>
-<td class="cuerpo_tabla_izq">Materia orgánica.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>3.6</td>
+<td>Materia orgánica.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.7</td>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>3.7</td>
+<td>pH.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.8</td>
-<td class="cuerpo_tabla_izq">Materias húmicas o ácidos húmicos (cada una).</td>
-<td class="cuerpo_tabla_coma">15,10</td>
+<td>3.8</td>
+<td>Materias húmicas o ácidos húmicos (cada una).</td>
+<td>15,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.9</td>
-<td class="cuerpo_tabla_izq">Materia orgánica oxidable.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>3.9</td>
+<td>Materia orgánica oxidable.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.10</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">6,59</td>
+<td>3.10</td>
+<td>Cenizas.</td>
+<td>6,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.11</td>
-<td class="cuerpo_tabla_izq">Relación C/N.</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>3.11</td>
+<td>Relación C/N.</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.12</td>
-<td class="cuerpo_tabla_izq">Conductividad eléctrica del extracto 1/5.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>3.12</td>
+<td>Conductividad eléctrica del extracto 1/5.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.13</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>3.13</td>
+<td>Cloruros.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.14</td>
-<td class="cuerpo_tabla_izq">Sodio.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>3.14</td>
+<td>Sodio.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.15</td>
-<td class="cuerpo_tabla_izq">Hierro.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>3.15</td>
+<td>Hierro.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.16</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 44,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>3.16</td>
+<td>Otras (con un máximo de 44,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">4. FITOSANITARIOS</td>
+<td colspan="3">4. FITOSANITARIOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.1</td>
-<td class="cuerpo_tabla_izq">Humedad.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>4.1</td>
+<td>Humedad.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.2</td>
-<td class="cuerpo_tabla_izq">Finura por tamizado.</td>
-<td class="cuerpo_tabla_coma">26,54</td>
+<td>4.2</td>
+<td>Finura por tamizado.</td>
+<td>26,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.3</td>
-<td class="cuerpo_tabla_izq">Arsénico total.</td>
-<td class="cuerpo_tabla_coma">26,62</td>
+<td>4.3</td>
+<td>Arsénico total.</td>
+<td>26,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.4</td>
-<td class="cuerpo_tabla_izq">Calcio total en un arseniato.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>4.4</td>
+<td>Calcio total en un arseniato.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.5</td>
-<td class="cuerpo_tabla_izq">Cobre o bario (cada una).</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>4.5</td>
+<td>Cobre o bario (cada una).</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.6</td>
-<td class="cuerpo_tabla_izq">Densidad.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>4.6</td>
+<td>Densidad.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.7</td>
-<td class="cuerpo_tabla_izq">Pureza en un azufre.</td>
-<td class="cuerpo_tabla_coma">12,05</td>
+<td>4.7</td>
+<td>Pureza en un azufre.</td>
+<td>12,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.8</td>
-<td class="cuerpo_tabla_izq">Acidez total y anhídrido sulfuroso en un azufre.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>4.8</td>
+<td>Acidez total y anhídrido sulfuroso en un azufre.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.9</td>
-<td class="cuerpo_tabla_izq">Hierro.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>4.9</td>
+<td>Hierro.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.10</td>
-<td class="cuerpo_tabla_izq">Estabilidad de una emulsión.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>4.10</td>
+<td>Estabilidad de una emulsión.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.11</td>
-<td class="cuerpo_tabla_izq">Masa específica de un aceite.</td>
-<td class="cuerpo_tabla_coma">7,26</td>
+<td>4.11</td>
+<td>Masa específica de un aceite.</td>
+<td>7,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.12</td>
-<td class="cuerpo_tabla_izq">Residuo insulfonable en un aceite mineral.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>4.12</td>
+<td>Residuo insulfonable en un aceite mineral.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.13</td>
-<td class="cuerpo_tabla_izq">Volatilidad, inflamabilidad o viscosidad en un aceite (cada una).</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>4.13</td>
+<td>Volatilidad, inflamabilidad o viscosidad en un aceite (cada una).</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.14</td>
-<td class="cuerpo_tabla_izq">Fitosanitarios según métodos oficiales de análisis.</td>
-<td class="cuerpo_tabla_coma">42,86</td>
+<td>4.14</td>
+<td>Fitosanitarios según métodos oficiales de análisis.</td>
+<td>42,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.15</td>
-<td class="cuerpo_tabla_izq">Fitosanitarios según metodología específica.</td>
-<td class="cuerpo_tabla_coma">80,64</td>
+<td>4.15</td>
+<td>Fitosanitarios según metodología específica.</td>
+<td>80,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.16</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 80,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>4.16</td>
+<td>Otras (con un máximo de 80,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">5. MATERIAL VEGETAL (HOJAS, TALLOS, FRUTOS, GRANOS Y RESTANTE MATERIAL VEGETAL)</td>
+<td colspan="3">5. MATERIAL VEGETAL (HOJAS, TALLOS, FRUTOS, GRANOS Y RESTANTE MATERIAL VEGETAL)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.1</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">6,59</td>
+<td>5.1</td>
+<td>Cenizas.</td>
+<td>6,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.2</td>
-<td class="cuerpo_tabla_izq">Nitrógeno, fósforo o potasio (cada una).</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>5.2</td>
+<td>Nitrógeno, fósforo o potasio (cada una).</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.3</td>
-<td class="cuerpo_tabla_izq">Calcio, magnesio, hierro, cinc, manganeso o cobre (cada una).</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>5.3</td>
+<td>Calcio, magnesio, hierro, cinc, manganeso o cobre (cada una).</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.4</td>
-<td class="cuerpo_tabla_izq">Peso aparente.</td>
-<td class="cuerpo_tabla_coma">4,52</td>
+<td>5.4</td>
+<td>Peso aparente.</td>
+<td>4,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.5</td>
-<td class="cuerpo_tabla_izq">Peso de mil granos.</td>
-<td class="cuerpo_tabla_coma">5,45</td>
+<td>5.5</td>
+<td>Peso de mil granos.</td>
+<td>5,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.6</td>
-<td class="cuerpo_tabla_izq">Porcentaje de pureza.</td>
-<td class="cuerpo_tabla_coma">5,45</td>
+<td>5.6</td>
+<td>Porcentaje de pureza.</td>
+<td>5,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.7</td>
-<td class="cuerpo_tabla_izq">Impurezas.</td>
-<td class="cuerpo_tabla_coma">4,52</td>
+<td>5.7</td>
+<td>Impurezas.</td>
+<td>4,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.8</td>
-<td class="cuerpo_tabla_izq">Poder germinativo.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>5.8</td>
+<td>Poder germinativo.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.9</td>
-<td class="cuerpo_tabla_izq">Valor real.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>5.9</td>
+<td>Valor real.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.10</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 22,00 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>5.10</td>
+<td>Otras (con un máximo de 22,00 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">6. VINOS, MOSTOS, SANGRÍAS, SIDRAS, CERVEZAS Y OTROS</td>
+<td colspan="3">6. VINOS, MOSTOS, SANGRÍAS, SIDRAS, CERVEZAS Y OTROS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.1</td>
-<td class="cuerpo_tabla_izq">Densidad relativa.</td>
-<td class="cuerpo_tabla_coma">2,54</td>
+<td>6.1</td>
+<td>Densidad relativa.</td>
+<td>2,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.2</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico total.</td>
-<td class="cuerpo_tabla_coma">7,14</td>
+<td>6.2</td>
+<td>Grado alcohólico total.</td>
+<td>7,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.3</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico adquirido.</td>
-<td class="cuerpo_tabla_coma">4,55</td>
+<td>6.3</td>
+<td>Grado alcohólico adquirido.</td>
+<td>4,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.4</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico en potencia.</td>
-<td class="cuerpo_tabla_coma">7,22</td>
+<td>6.4</td>
+<td>Grado alcohólico en potencia.</td>
+<td>7,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.5</td>
-<td class="cuerpo_tabla_izq">Extracto seco total, reducido o no reductor (cada una).</td>
-<td class="cuerpo_tabla_coma">4,47</td>
+<td>6.5</td>
+<td>Extracto seco total, reducido o no reductor (cada una).</td>
+<td>4,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.6</td>
-<td class="cuerpo_tabla_izq">Resto del extracto.</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>6.6</td>
+<td>Resto del extracto.</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.7</td>
-<td class="cuerpo_tabla_izq">Acidez total.</td>
-<td class="cuerpo_tabla_coma">2,71</td>
+<td>6.7</td>
+<td>Acidez total.</td>
+<td>2,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.8</td>
-<td class="cuerpo_tabla_izq">Acidez volátil.</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.8</td>
+<td>Acidez volátil.</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.9</td>
-<td class="cuerpo_tabla_izq">Acidez fija.</td>
-<td class="cuerpo_tabla_coma">2,39</td>
+<td>6.9</td>
+<td>Acidez fija.</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.10</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso total o libre (cada una).</td>
-<td class="cuerpo_tabla_coma">4,53</td>
+<td>6.10</td>
+<td>Anhídrido sulfuroso total o libre (cada una).</td>
+<td>4,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.11</td>
-<td class="cuerpo_tabla_izq">Ácido cítrico.</td>
-<td class="cuerpo_tabla_coma">6,80</td>
+<td>6.11</td>
+<td>Ácido cítrico.</td>
+<td>6,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.12</td>
-<td class="cuerpo_tabla_izq">Presencia de híbridos.</td>
-<td class="cuerpo_tabla_coma">5,45</td>
+<td>6.12</td>
+<td>Presencia de híbridos.</td>
+<td>5,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.13</td>
-<td class="cuerpo_tabla_izq">Metanol.</td>
-<td class="cuerpo_tabla_coma">7,32</td>
+<td>6.13</td>
+<td>Metanol.</td>
+<td>7,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.14</td>
-<td class="cuerpo_tabla_izq">Presencia de ferrocianuro.</td>
-<td class="cuerpo_tabla_coma">21,71</td>
+<td>6.14</td>
+<td>Presencia de ferrocianuro.</td>
+<td>21,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.15</td>
-<td class="cuerpo_tabla_izq">Flúor.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>6.15</td>
+<td>Flúor.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.16</td>
-<td class="cuerpo_tabla_izq">Cloropicrina o sus compuestos de degradación derivados halogenados (cada una).</td>
-<td class="cuerpo_tabla_coma">21,71</td>
+<td>6.16</td>
+<td>Cloropicrina o sus compuestos de degradación derivados halogenados (cada una).</td>
+<td>21,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.17</td>
-<td class="cuerpo_tabla_izq">Materias reductoras o sacarosa (cada una).</td>
-<td class="cuerpo_tabla_coma">5,89</td>
+<td>6.17</td>
+<td>Materias reductoras o sacarosa (cada una).</td>
+<td>5,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.18</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">10,57</td>
+<td>6.18</td>
+<td>Cenizas.</td>
+<td>10,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.19</td>
-<td class="cuerpo_tabla_izq">Alcalinidad de las cenizas.</td>
-<td class="cuerpo_tabla_coma">6,59</td>
+<td>6.19</td>
+<td>Alcalinidad de las cenizas.</td>
+<td>6,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.20</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">6,59</td>
+<td>6.20</td>
+<td>Cloruros.</td>
+<td>6,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.21</td>
-<td class="cuerpo_tabla_izq">Sodio.</td>
-<td class="cuerpo_tabla_coma">13,28</td>
+<td>6.21</td>
+<td>Sodio.</td>
+<td>13,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.22</td>
-<td class="cuerpo_tabla_izq">Sodio excedentario.</td>
-<td class="cuerpo_tabla_coma">21,71</td>
+<td>6.22</td>
+<td>Sodio excedentario.</td>
+<td>21,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.23</td>
-<td class="cuerpo_tabla_izq">Hierro.</td>
-<td class="cuerpo_tabla_coma">6,59</td>
+<td>6.23</td>
+<td>Hierro.</td>
+<td>6,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.24</td>
-<td class="cuerpo_tabla_izq">Cobre, cinc, plomo o arsénico (cada una).</td>
-<td class="cuerpo_tabla_coma">15,91</td>
+<td>6.24</td>
+<td>Cobre, cinc, plomo o arsénico (cada una).</td>
+<td>15,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.25</td>
-<td class="cuerpo_tabla_izq">Mercurio.</td>
-<td class="cuerpo_tabla_coma">30,65</td>
+<td>6.25</td>
+<td>Mercurio.</td>
+<td>30,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.26</td>
-<td class="cuerpo_tabla_izq">Ácido benzoico, sórbico o salicílico (cada una).</td>
-<td class="cuerpo_tabla_coma">10,10</td>
+<td>6.26</td>
+<td>Ácido benzoico, sórbico o salicílico (cada una).</td>
+<td>10,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.27</td>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_coma">2,46</td>
+<td>6.27</td>
+<td>pH.</td>
+<td>2,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.28</td>
-<td class="cuerpo_tabla_izq">Hidroximetilfurfural.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>6.28</td>
+<td>Hidroximetilfurfural.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.29</td>
-<td class="cuerpo_tabla_izq">Etanal.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>6.29</td>
+<td>Etanal.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.30</td>
-<td class="cuerpo_tabla_izq">Materiales colorantes artificiales.</td>
-<td class="cuerpo_tabla_coma">15,31</td>
+<td>6.30</td>
+<td>Materiales colorantes artificiales.</td>
+<td>15,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.31</td>
-<td class="cuerpo_tabla_izq">Bebida contenida en el envase.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>6.31</td>
+<td>Bebida contenida en el envase.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.32</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>6.32</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.33</td>
-<td class="cuerpo_tabla_izq">Examen organoléptico.</td>
-<td class="cuerpo_tabla_coma">5,56</td>
+<td>6.33</td>
+<td>Examen organoléptico.</td>
+<td>5,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.34</td>
-<td class="cuerpo_tabla_izq">Ensayos previos de conservación.</td>
-<td class="cuerpo_tabla_coma">3,38</td>
+<td>6.34</td>
+<td>Ensayos previos de conservación.</td>
+<td>3,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.35</td>
-<td class="cuerpo_tabla_izq">Masa volúmica.</td>
-<td class="cuerpo_tabla_coma">2,54</td>
+<td>6.35</td>
+<td>Masa volúmica.</td>
+<td>2,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.36</td>
-<td class="cuerpo_tabla_izq">Beaume.</td>
-<td class="cuerpo_tabla_coma">2,58</td>
+<td>6.36</td>
+<td>Beaume.</td>
+<td>2,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.37</td>
-<td class="cuerpo_tabla_izq">Potasio.</td>
-<td class="cuerpo_tabla_coma">13,13</td>
+<td>6.37</td>
+<td>Potasio.</td>
+<td>13,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.38</td>
-<td class="cuerpo_tabla_izq">Calcio.</td>
-<td class="cuerpo_tabla_coma">13,13</td>
+<td>6.38</td>
+<td>Calcio.</td>
+<td>13,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.39</td>
-<td class="cuerpo_tabla_izq">Magnesio.</td>
-<td class="cuerpo_tabla_coma">13,13</td>
+<td>6.39</td>
+<td>Magnesio.</td>
+<td>13,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.40</td>
-<td class="cuerpo_tabla_izq">Intensidad colorante.</td>
-<td class="cuerpo_tabla_coma">4,28</td>
+<td>6.40</td>
+<td>Intensidad colorante.</td>
+<td>4,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.41</td>
-<td class="cuerpo_tabla_izq">Antocianos.</td>
-<td class="cuerpo_tabla_coma">8,13</td>
+<td>6.41</td>
+<td>Antocianos.</td>
+<td>8,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.42</td>
-<td class="cuerpo_tabla_izq">Índice de polifenoles totales.</td>
-<td class="cuerpo_tabla_coma">4,15</td>
+<td>6.42</td>
+<td>Índice de polifenoles totales.</td>
+<td>4,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.43</td>
-<td class="cuerpo_tabla_izq">Índice de Folín.</td>
-<td class="cuerpo_tabla_coma">14,49</td>
+<td>6.43</td>
+<td>Índice de Folín.</td>
+<td>14,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.44</td>
-<td class="cuerpo_tabla_izq">Glicerina.</td>
-<td class="cuerpo_tabla_coma">7,21</td>
+<td>6.44</td>
+<td>Glicerina.</td>
+<td>7,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.45</td>
-<td class="cuerpo_tabla_izq">Fructosa.</td>
-<td class="cuerpo_tabla_coma">7,21</td>
+<td>6.45</td>
+<td>Fructosa.</td>
+<td>7,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.46</td>
-<td class="cuerpo_tabla_izq">Glucosa.</td>
-<td class="cuerpo_tabla_coma">14,29</td>
+<td>6.46</td>
+<td>Glucosa.</td>
+<td>14,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.47</td>
-<td class="cuerpo_tabla_izq">Ácido tartárico.</td>
-<td class="cuerpo_tabla_coma">7,21</td>
+<td>6.47</td>
+<td>Ácido tartárico.</td>
+<td>7,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.48</td>
-<td class="cuerpo_tabla_izq">Ácido málico.</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.48</td>
+<td>Ácido málico.</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.49</td>
-<td class="cuerpo_tabla_izq">Ácido succínico.</td>
-<td class="cuerpo_tabla_coma">14,29</td>
+<td>6.49</td>
+<td>Ácido succínico.</td>
+<td>14,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.50</td>
-<td class="cuerpo_tabla_izq">Sulfatos.</td>
-<td class="cuerpo_tabla_coma">15,84</td>
+<td>6.50</td>
+<td>Sulfatos.</td>
+<td>15,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.51</td>
-<td class="cuerpo_tabla_izq">2-3 Butanodiol.</td>
-<td class="cuerpo_tabla_coma">10,60</td>
+<td>6.51</td>
+<td>2-3 Butanodiol.</td>
+<td>10,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.52</td>
-<td class="cuerpo_tabla_izq">Isotiocianato de alilo.</td>
-<td class="cuerpo_tabla_coma">10,22</td>
+<td>6.52</td>
+<td>Isotiocianato de alilo.</td>
+<td>10,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.53</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>6.53</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.54</td>
-<td class="cuerpo_tabla_izq">Sobrepresión 20 ºC.</td>
-<td class="cuerpo_tabla_coma">2,38</td>
+<td>6.54</td>
+<td>Sobrepresión 20 ºC.</td>
+<td>2,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.55</td>
-<td class="cuerpo_tabla_izq">Azúcares totales (G+F+S).</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.55</td>
+<td>Azúcares totales (G+F+S).</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.56</td>
-<td class="cuerpo_tabla_izq">Grupo control de calidad DO vinos.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>6.56</td>
+<td>Grupo control de calidad DO vinos.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.57</td>
-<td class="cuerpo_tabla_izq">Glucosa + Fructosa.</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.57</td>
+<td>Glucosa + Fructosa.</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.58</td>
-<td class="cuerpo_tabla_izq">Ácido acético.</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.58</td>
+<td>Ácido acético.</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.59</td>
-<td class="cuerpo_tabla_izq">Ácido glucónico.</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.59</td>
+<td>Ácido glucónico.</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.60</td>
-<td class="cuerpo_tabla_izq">Ácido láctico.</td>
-<td class="cuerpo_tabla_coma">5,21</td>
+<td>6.60</td>
+<td>Ácido láctico.</td>
+<td>5,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">7. VINOS, MOSTOS Y PRODUCTOS DERIVADOS, POR ESPECTROSCOPIA DE INFRARROJO CERCANO (NIR)</td>
+<td colspan="3">7. VINOS, MOSTOS Y PRODUCTOS DERIVADOS, POR ESPECTROSCOPIA DE INFRARROJO CERCANO (NIR)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.1</td>
-<td class="cuerpo_tabla_izq">1. Grado alcohólico adquirido (IR).</td>
-<td class="cuerpo_tabla_coma">2,06</td>
+<td>7.1</td>
+<td>1. Grado alcohólico adquirido (IR).</td>
+<td>2,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.2</td>
-<td class="cuerpo_tabla_izq">2. Grado alcohólico total (IR).</td>
-<td class="cuerpo_tabla_coma">2,26</td>
+<td>7.2</td>
+<td>2. Grado alcohólico total (IR).</td>
+<td>2,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.3</td>
-<td class="cuerpo_tabla_izq">3. Grado alcohólico en potencia (IR).</td>
-<td class="cuerpo_tabla_coma">2,26</td>
+<td>7.3</td>
+<td>3. Grado alcohólico en potencia (IR).</td>
+<td>2,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.4</td>
-<td class="cuerpo_tabla_izq">4. Extracto seco (IR).</td>
-<td class="cuerpo_tabla_coma">3,09</td>
+<td>7.4</td>
+<td>4. Extracto seco (IR).</td>
+<td>3,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.5</td>
-<td class="cuerpo_tabla_izq">5. Acidez total (IR).</td>
-<td class="cuerpo_tabla_coma">2,47</td>
+<td>7.5</td>
+<td>5. Acidez total (IR).</td>
+<td>2,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.6</td>
-<td class="cuerpo_tabla_izq">6. Acidez volátil (IR).</td>
-<td class="cuerpo_tabla_coma">2,21</td>
+<td>7.6</td>
+<td>6. Acidez volátil (IR).</td>
+<td>2,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.7</td>
-<td class="cuerpo_tabla_izq">7. Azúcares residuales (glucosa + fructosa) (IR).</td>
-<td class="cuerpo_tabla_coma">3,61</td>
+<td>7.7</td>
+<td>7. Azúcares residuales (glucosa + fructosa) (IR).</td>
+<td>3,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.8</td>
-<td class="cuerpo_tabla_izq">8. pH (IR).</td>
-<td class="cuerpo_tabla_coma">2,47</td>
+<td>7.8</td>
+<td>8. pH (IR).</td>
+<td>2,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.9</td>
-<td class="cuerpo_tabla_izq">9. Metanol (IR).</td>
-<td class="cuerpo_tabla_coma">3,48</td>
+<td>7.9</td>
+<td>9. Metanol (IR).</td>
+<td>3,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>7.10 Grupo exportación</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.1</td>
-<td class="cuerpo_tabla_izq">Determinaciones Técnica analítica.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.1</td>
+<td>Determinaciones Técnica analítica.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.2</td>
-<td class="cuerpo_tabla_izq">Masa volúmica Densimetría electrónica.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.2</td>
+<td>Masa volúmica Densimetría electrónica.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.3</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico adquirido Infrarrojo cercan.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.3</td>
+<td>Grado alcohólico adquirido Infrarrojo cercan.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.4</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico total Cálculo.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.4</td>
+<td>Grado alcohólico total Cálculo.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.5</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico en potencia Cálculo.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.5</td>
+<td>Grado alcohólico en potencia Cálculo.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.6</td>
-<td class="cuerpo_tabla_izq">Extracto seco total Cálculo.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.6</td>
+<td>Extracto seco total Cálculo.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.7</td>
-<td class="cuerpo_tabla_izq">Acidez total en ácido cítrico Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.7</td>
+<td>Acidez total en ácido cítrico Infrarrojo cercano.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.8</td>
-<td class="cuerpo_tabla_izq">Acidez volátil en ácido acético Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.8</td>
+<td>Acidez volátil en ácido acético Infrarrojo cercano.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.9</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso total Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.9</td>
+<td>Anhídrido sulfuroso total Titulación volumétrica.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.10</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso libre Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.10</td>
+<td>Anhídrido sulfuroso libre Titulación volumétrica.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.11</td>
-<td class="cuerpo_tabla_izq">Ácido cítrico Autoanalizador secuencial.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.11</td>
+<td>Ácido cítrico Autoanalizador secuencial.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.12</td>
-<td class="cuerpo_tabla_izq">Metanol Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.12</td>
+<td>Metanol Infrarrojo cercano.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.10.13</td>
-<td class="cuerpo_tabla_izq">Azúcar residual Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>7.10.13</td>
+<td>Azúcar residual Infrarrojo cercano.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">7.11.1 Grupo cosechero</td>
+<td colspan="3">7.11.1 Grupo cosechero</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.2</td>
-<td class="cuerpo_tabla_izq">Determinaciones Técnica analítica.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.2</td>
+<td>Determinaciones Técnica analítica.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.3</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico adquirido Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.3</td>
+<td>Grado alcohólico adquirido Infrarrojo cercano.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.4</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico total Cálculo.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.4</td>
+<td>Grado alcohólico total Cálculo.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.5</td>
-<td class="cuerpo_tabla_izq">Acidez total en ácido cítrico Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.5</td>
+<td>Acidez total en ácido cítrico Infrarrojo cercano.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.5</td>
-<td class="cuerpo_tabla_izq">Acidez volátil en ácido acético Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.5</td>
+<td>Acidez volátil en ácido acético Infrarrojo cercano.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.6</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso total Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.6</td>
+<td>Anhídrido sulfuroso total Titulación volumétrica.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.7</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso libre Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.7</td>
+<td>Anhídrido sulfuroso libre Titulación volumétrica.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.8</td>
-<td class="cuerpo_tabla_izq">pH Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.8</td>
+<td>pH Infrarrojo cercano.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.9</td>
-<td class="cuerpo_tabla_izq">Ácido málico Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.9</td>
+<td>Ácido málico Infrarrojo cercano.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.11.10</td>
-<td class="cuerpo_tabla_izq">Azúcar residual Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">12,00</td>
+<td>7.11.10</td>
+<td>Azúcar residual Infrarrojo cercano.</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>7.12 Grupo embotellado</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.1</td>
-<td class="cuerpo_tabla_izq">Determinaciones Técnica analítica.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.1</td>
+<td>Determinaciones Técnica analítica.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.2</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico adquirido Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.2</td>
+<td>Grado alcohólico adquirido Infrarrojo cercano.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.3</td>
-<td class="cuerpo_tabla_izq">Acidez total en ácido cítrico Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.3</td>
+<td>Acidez total en ácido cítrico Infrarrojo cercano.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.4</td>
-<td class="cuerpo_tabla_izq">Acidez volátil en ácido acético Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.4</td>
+<td>Acidez volátil en ácido acético Infrarrojo cercano.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.5</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso total Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.5</td>
+<td>Anhídrido sulfuroso total Titulación volumétrica.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.6</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso libre Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.6</td>
+<td>Anhídrido sulfuroso libre Titulación volumétrica.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.12.7</td>
-<td class="cuerpo_tabla_izq">pH Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>7.12.7</td>
+<td>pH Infrarrojo cercano.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>7.13 Grupo fermentación</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.1</td>
-<td class="cuerpo_tabla_izq">Determinaciones Técnica analítica.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.1</td>
+<td>Determinaciones Técnica analítica.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.2</td>
-<td class="cuerpo_tabla_izq">Masa volúmica Densimetría electrónica.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.2</td>
+<td>Masa volúmica Densimetría electrónica.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.3</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico adquirido Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.3</td>
+<td>Grado alcohólico adquirido Infrarrojo cercano.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.4</td>
-<td class="cuerpo_tabla_izq">Acidez total en ácido cítrico Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.4</td>
+<td>Acidez total en ácido cítrico Infrarrojo cercano.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.5</td>
-<td class="cuerpo_tabla_izq">Acidez volátil en ácido acético Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.5</td>
+<td>Acidez volátil en ácido acético Infrarrojo cercano.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.6</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso libre Titulación volumétrica.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.6</td>
+<td>Anhídrido sulfuroso libre Titulación volumétrica.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.13.7</td>
-<td class="cuerpo_tabla_izq">pH Infrarrojo cercano.</td>
-<td class="cuerpo_tabla_coma">8,00</td>
+<td>7.13.7</td>
+<td>pH Infrarrojo cercano.</td>
+<td>8,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">8. SUBPRODUCTOS Y OTROS</td>
+<td colspan="3">8. SUBPRODUCTOS Y OTROS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.1</td>
-<td class="cuerpo_tabla_izq">Productos tartáricos.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>8.1</td>
+<td>Productos tartáricos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.1.1</td>
-<td class="cuerpo_tabla_izq">Método Carles.</td>
-<td class="cuerpo_tabla_coma">21,50</td>
+<td>8.1.1</td>
+<td>Método Carles.</td>
+<td>21,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.1.2</td>
-<td class="cuerpo_tabla_izq">Método Goldenberg.</td>
-<td class="cuerpo_tabla_coma">21,50</td>
+<td>8.1.2</td>
+<td>Método Goldenberg.</td>
+<td>21,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.2</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico de heces y lías.</td>
-<td class="cuerpo_tabla_coma">7,85</td>
+<td>8.2</td>
+<td>Grado alcohólico de heces y lías.</td>
+<td>7,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.3</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico de orujos.</td>
-<td class="cuerpo_tabla_coma">7,85</td>
+<td>8.3</td>
+<td>Grado alcohólico de orujos.</td>
+<td>7,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.4</td>
-<td class="cuerpo_tabla_izq">Materias reductoras en orujos.</td>
-<td class="cuerpo_tabla_coma">15,29</td>
+<td>8.4</td>
+<td>Materias reductoras en orujos.</td>
+<td>15,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.5</td>
-<td class="cuerpo_tabla_izq">Humedad en granillas.</td>
-<td class="cuerpo_tabla_coma">7,17</td>
+<td>8.5</td>
+<td>Humedad en granillas.</td>
+<td>7,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.6</td>
-<td class="cuerpo_tabla_izq">Impurezas en granillas.</td>
-<td class="cuerpo_tabla_coma">9,35</td>
+<td>8.6</td>
+<td>Impurezas en granillas.</td>
+<td>9,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.7</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>8.7</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">9. ALCOHOL, BRANDY, RON, LICORES Y OTROS</td>
+<td colspan="3">9. ALCOHOL, BRANDY, RON, LICORES Y OTROS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>9.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.2</td>
-<td class="cuerpo_tabla_izq">Bebida contenida en el envase.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>9.2</td>
+<td>Bebida contenida en el envase.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.3</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>9.3</td>
+<td>Grado alcohólico.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.4</td>
-<td class="cuerpo_tabla_izq">Acidez total.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>9.4</td>
+<td>Acidez total.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.5</td>
-<td class="cuerpo_tabla_izq">Metanol y Alcoholes superiores.</td>
-<td class="cuerpo_tabla_coma">15,61</td>
+<td>9.5</td>
+<td>Metanol y Alcoholes superiores.</td>
+<td>15,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.6</td>
-<td class="cuerpo_tabla_izq">Azúcares totales por HPLC.</td>
-<td class="cuerpo_tabla_coma">15,61</td>
+<td>9.6</td>
+<td>Azúcares totales por HPLC.</td>
+<td>15,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.7</td>
-<td class="cuerpo_tabla_izq">Edulcorantes y colorantes artificiales.</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>9.7</td>
+<td>Edulcorantes y colorantes artificiales.</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.8</td>
-<td class="cuerpo_tabla_izq">Cobre, cinc o plomo (cada una).</td>
-<td class="cuerpo_tabla_coma">15,91</td>
+<td>9.8</td>
+<td>Cobre, cinc o plomo (cada una).</td>
+<td>15,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.9</td>
-<td class="cuerpo_tabla_izq">Desnaturalizantes –bítrex, ftalato de dietilo o metiletilcetona– (cada una).</td>
-<td class="cuerpo_tabla_coma">5,45</td>
+<td>9.9</td>
+<td>Desnaturalizantes –bítrex, ftalato de dietilo o metiletilcetona– (cada una).</td>
+<td>5,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.10</td>
-<td class="cuerpo_tabla_izq">Bases nitrogenadas.</td>
-<td class="cuerpo_tabla_coma">8,90</td>
+<td>9.10</td>
+<td>Bases nitrogenadas.</td>
+<td>8,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.11</td>
-<td class="cuerpo_tabla_izq">Furfural.</td>
-<td class="cuerpo_tabla_coma">8,90</td>
+<td>9.11</td>
+<td>Furfural.</td>
+<td>8,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.12</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>9.12</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">10. PRODUCTOS ENOLÓGICOS Y COMPROBACIÓN DE APARATOS</td>
+<td colspan="3">10. PRODUCTOS ENOLÓGICOS Y COMPROBACIÓN DE APARATOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">(Con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td> </td>
+<td>(Con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">11. ACEITES Y GRASAS</td>
+<td colspan="3">11. ACEITES Y GRASAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>11.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.2</td>
-<td class="cuerpo_tabla_izq">Aceite contenido en el envase.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>11.2</td>
+<td>Aceite contenido en el envase.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.3</td>
-<td class="cuerpo_tabla_izq">Grado de acidez.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>11.3</td>
+<td>Grado de acidez.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.4</td>
-<td class="cuerpo_tabla_izq">Índice de peróxidos.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>11.4</td>
+<td>Índice de peróxidos.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.5</td>
-<td class="cuerpo_tabla_izq">Absorción espectrofotométrica ultravioleta.</td>
-<td class="cuerpo_tabla_coma">7,66</td>
+<td>11.5</td>
+<td>Absorción espectrofotométrica ultravioleta.</td>
+<td>7,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.6</td>
-<td class="cuerpo_tabla_izq">Índice de yodo.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>11.6</td>
+<td>Índice de yodo.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.7</td>
-<td class="cuerpo_tabla_izq">Índice de refracción.</td>
-<td class="cuerpo_tabla_coma">5,34</td>
+<td>11.7</td>
+<td>Índice de refracción.</td>
+<td>5,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.8</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de ácidos grasos, isómeros transoleicos e isómeros trans linoleicos+linolénicos por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">40,07</td>
+<td>11.8</td>
+<td>Composición de la fracción de ácidos grasos, isómeros transoleicos e isómeros trans linoleicos+linolénicos por cromatografía de gases.</td>
+<td>40,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.9</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Composición de la fracción de esteroles, esteroles totales, eritrodiol,</p>
-<p class="cuerpo_tabla_izq">eritrodiol + uvaol y alcoholes alifáticos por cromatografía de gases.</p>
+<td>11.9</td>
+<td>
+<p>Composición de la fracción de esteroles, esteroles totales, eritrodiol,</p>
+<p>eritrodiol + uvaol y alcoholes alifáticos por cromatografía de gases.</p>
 </td>
-<td class="cuerpo_tabla_coma">75,05</td>
+<td>75,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.10</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>11.10</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.11</td>
-<td class="cuerpo_tabla_izq">Evaluación organoléptica de aceite de oliva virgen.</td>
-<td class="cuerpo_tabla_coma">90,00</td>
+<td>11.11</td>
+<td>Evaluación organoléptica de aceite de oliva virgen.</td>
+<td>90,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.12</td>
-<td class="cuerpo_tabla_izq">Ceras y esteres etílicos por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">75,05</td>
+<td>11.12</td>
+<td>Ceras y esteres etílicos por cromatografía de gases.</td>
+<td>75,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.13</td>
-<td class="cuerpo_tabla_izq">Diferencia ECN42 (HPLC) y ECN42 teórico en aceites.</td>
-<td class="cuerpo_tabla_coma">75,00</td>
+<td>11.13</td>
+<td>Diferencia ECN42 (HPLC) y ECN42 teórico en aceites.</td>
+<td>75,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.14</td>
-<td class="cuerpo_tabla_izq">Estigmastadienos por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">75,05</td>
+<td>11.14</td>
+<td>Estigmastadienos por cromatografía de gases.</td>
+<td>75,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.15</td>
-<td class="cuerpo_tabla_izq">Humedad y materias volátiles.</td>
-<td class="cuerpo_tabla_coma">5,50</td>
+<td>11.15</td>
+<td>Humedad y materias volátiles.</td>
+<td>5,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.16</td>
-<td class="cuerpo_tabla_izq">Impurezas insolubles en éter de petróleo.</td>
-<td class="cuerpo_tabla_coma">10,53</td>
+<td>11.16</td>
+<td>Impurezas insolubles en éter de petróleo.</td>
+<td>10,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.17</td>
-<td class="cuerpo_tabla_izq">Monopalmitato de 2-glicerilo por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">75,05</td>
+<td>11.17</td>
+<td>Monopalmitato de 2-glicerilo por cromatografía de gases.</td>
+<td>75,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.18</td>
-<td class="cuerpo_tabla_izq">Ocratoxina A.</td>
-<td class="cuerpo_tabla_coma">35,00</td>
+<td>11.18</td>
+<td>Ocratoxina A.</td>
+<td>35,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">12. PRODUCTOS LÁCTEOS</td>
+<td colspan="3">12. PRODUCTOS LÁCTEOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>12.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.2</td>
-<td class="cuerpo_tabla_izq">Peso neto.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>12.2</td>
+<td>Peso neto.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.3</td>
-<td class="cuerpo_tabla_izq">Materia grasa.</td>
-<td class="cuerpo_tabla_coma">7,75</td>
+<td>12.3</td>
+<td>Materia grasa.</td>
+<td>7,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.4</td>
-<td class="cuerpo_tabla_izq">Proteína.</td>
-<td class="cuerpo_tabla_coma">8,68</td>
+<td>12.4</td>
+<td>Proteína.</td>
+<td>8,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.5</td>
-<td class="cuerpo_tabla_izq">Acidez.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>12.5</td>
+<td>Acidez.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.6</td>
-<td class="cuerpo_tabla_izq">Extracto seco magro.</td>
-<td class="cuerpo_tabla_coma">6,13</td>
+<td>12.6</td>
+<td>Extracto seco magro.</td>
+<td>6,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.7</td>
-<td class="cuerpo_tabla_izq">Lactosa.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>12.7</td>
+<td>Lactosa.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.8</td>
-<td class="cuerpo_tabla_izq">Humedad.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>12.8</td>
+<td>Humedad.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.9</td>
-<td class="cuerpo_tabla_izq">Harina de sangre o de pescado (cada una).</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>12.9</td>
+<td>Harina de sangre o de pescado (cada una).</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.10</td>
-<td class="cuerpo_tabla_izq">Sacarosa.</td>
-<td class="cuerpo_tabla_coma">5,34</td>
+<td>12.10</td>
+<td>Sacarosa.</td>
+<td>5,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.11</td>
-<td class="cuerpo_tabla_izq">Índice de refracción.</td>
-<td class="cuerpo_tabla_coma">5,34</td>
+<td>12.11</td>
+<td>Índice de refracción.</td>
+<td>5,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.12</td>
-<td class="cuerpo_tabla_izq">Índices de Reichert, Polenske o Kirchner (cada una).</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>12.12</td>
+<td>Índices de Reichert, Polenske o Kirchner (cada una).</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.13</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de ácidos grasos por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">42,86</td>
+<td>12.13</td>
+<td>Composición de la fracción de ácidos grasos por cromatografía de gases.</td>
+<td>42,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.14</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de esteroles por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">77,76</td>
+<td>12.14</td>
+<td>Composición de la fracción de esteroles por cromatografía de gases.</td>
+<td>77,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.15</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>12.15</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">13. PRODUCTOS CÁRNICOS</td>
+<td colspan="3">13. PRODUCTOS CÁRNICOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>13.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.2</td>
-<td class="cuerpo_tabla_izq">Peso neto.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>13.2</td>
+<td>Peso neto.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.3</td>
-<td class="cuerpo_tabla_izq">Humedad.</td>
-<td class="cuerpo_tabla_coma">6,13</td>
+<td>13.3</td>
+<td>Humedad.</td>
+<td>6,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.4</td>
-<td class="cuerpo_tabla_izq">Proteínas.</td>
-<td class="cuerpo_tabla_coma">8,68</td>
+<td>13.4</td>
+<td>Proteínas.</td>
+<td>8,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.5</td>
-<td class="cuerpo_tabla_izq">Grasa.</td>
-<td class="cuerpo_tabla_coma">7,75</td>
+<td>13.5</td>
+<td>Grasa.</td>
+<td>7,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.6</td>
-<td class="cuerpo_tabla_izq">Hidroxiprolina.</td>
-<td class="cuerpo_tabla_coma">8,68</td>
+<td>13.6</td>
+<td>Hidroxiprolina.</td>
+<td>8,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.7</td>
-<td class="cuerpo_tabla_izq">Azúcares totales.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>13.7</td>
+<td>Azúcares totales.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.8</td>
-<td class="cuerpo_tabla_izq">Almidón.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>13.8</td>
+<td>Almidón.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.9</td>
-<td class="cuerpo_tabla_izq">Ácidos bórico, sórbico, benzoico o salicílico (cada una).</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>13.9</td>
+<td>Ácidos bórico, sórbico, benzoico o salicílico (cada una).</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.10</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>13.10</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">14. PESCADOS, MARISCOS, CONSERVAS Y SEMICONSERVAS</td>
+<td colspan="3">14. PESCADOS, MARISCOS, CONSERVAS Y SEMICONSERVAS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>14.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.2</td>
-<td class="cuerpo_tabla_izq">Troqueles de fabricación, formato y peso –neto o neto escurrido– (cada una).</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>14.2</td>
+<td>Troqueles de fabricación, formato y peso –neto o neto escurrido– (cada una).</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.3</td>
-<td class="cuerpo_tabla_izq">Capacidad normalizada del envase.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>14.3</td>
+<td>Capacidad normalizada del envase.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.4</td>
-<td class="cuerpo_tabla_izq">Relación porcentual entre el peso neto y la capacidad.</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>14.4</td>
+<td>Relación porcentual entre el peso neto y la capacidad.</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.5</td>
-<td class="cuerpo_tabla_izq">Relación porcentual entre el peso escurrido y la capacidad.</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>14.5</td>
+<td>Relación porcentual entre el peso escurrido y la capacidad.</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.6</td>
-<td class="cuerpo_tabla_izq">Grado de acidez.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>14.6</td>
+<td>Grado de acidez.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.7</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de ácidos grasos por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">42,86</td>
+<td>14.7</td>
+<td>Composición de la fracción de ácidos grasos por cromatografía de gases.</td>
+<td>42,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.8</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de esteroles por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">80,82</td>
+<td>14.8</td>
+<td>Composición de la fracción de esteroles por cromatografía de gases.</td>
+<td>80,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.9</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>14.9</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">15. PRODUCTOS CONGELADOS</td>
+<td colspan="3">15. PRODUCTOS CONGELADOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.1</td>
-<td class="cuerpo_tabla_izq">Peso neto del producto –congelado, descongelado o escurrido– (cada una).</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>15.1</td>
+<td>Peso neto del producto –congelado, descongelado o escurrido– (cada una).</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.2</td>
-<td class="cuerpo_tabla_izq">Formaldehído y ácidos –sórbico, benzoico, salicílico o bórico– (cada una).</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>15.2</td>
+<td>Formaldehído y ácidos –sórbico, benzoico, salicílico o bórico– (cada una).</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.3</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>15.3</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">16. FRUTOS SECOS, CEREALES Y LEGUMBRES</td>
+<td colspan="3">16. FRUTOS SECOS, CEREALES Y LEGUMBRES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>16.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.2</td>
-<td class="cuerpo_tabla_izq">Peso neto y humedad.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>16.2</td>
+<td>Peso neto y humedad.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3</td>
-<td class="cuerpo_tabla_izq">Grano.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>16.3</td>
+<td>Grano.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.1</td>
-<td class="cuerpo_tabla_izq">Amarillos, cobrizos, rojos, veteados en rojo, yesosos o verdes (cada una).</td>
-<td class="cuerpo_tabla_coma">7,55</td>
+<td>16.3.1</td>
+<td>Amarillos, cobrizos, rojos, veteados en rojo, yesosos o verdes (cada una).</td>
+<td>7,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.2</td>
-<td class="cuerpo_tabla_izq">Manchados y picados.</td>
-<td class="cuerpo_tabla_coma">7,46</td>
+<td>16.3.2</td>
+<td>Manchados y picados.</td>
+<td>7,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.3</td>
-<td class="cuerpo_tabla_izq">Medianos.</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.3.3</td>
+<td>Medianos.</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.4</td>
-<td class="cuerpo_tabla_izq">Con defectos –graves o ligeros– (cada una).</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.3.4</td>
+<td>Con defectos –graves o ligeros– (cada una).</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.5</td>
-<td class="cuerpo_tabla_izq">De distinta coloración (excepto los decolorados).</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.3.5</td>
+<td>De distinta coloración (excepto los decolorados).</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.6</td>
-<td class="cuerpo_tabla_izq">Decolorados.</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.3.6</td>
+<td>Decolorados.</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.3.7</td>
-<td class="cuerpo_tabla_izq">Enteros sin defecto.</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.3.7</td>
+<td>Enteros sin defecto.</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.4</td>
-<td class="cuerpo_tabla_izq">Materias extrañas.</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.4</td>
+<td>Materias extrañas.</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.5</td>
-<td class="cuerpo_tabla_izq">Calibrado.</td>
-<td class="cuerpo_tabla_coma">7,48</td>
+<td>16.5</td>
+<td>Calibrado.</td>
+<td>7,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.6</td>
-<td class="cuerpo_tabla_izq">Aflatoxina.</td>
-<td class="cuerpo_tabla_coma">45,95</td>
+<td>16.6</td>
+<td>Aflatoxina.</td>
+<td>45,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.7</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>16.7</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">17. HARINAS Y DERIVADOS</td>
+<td colspan="3">17. HARINAS Y DERIVADOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>17.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.2</td>
-<td class="cuerpo_tabla_izq">Peso neto y humedad.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>17.2</td>
+<td>Peso neto y humedad.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.3</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">6,72</td>
+<td>17.3</td>
+<td>Cenizas.</td>
+<td>6,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.4</td>
-<td class="cuerpo_tabla_izq">Extracción según escala de cenizas de Mhos.</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>17.4</td>
+<td>Extracción según escala de cenizas de Mhos.</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.5</td>
-<td class="cuerpo_tabla_izq">Proteínas.</td>
-<td class="cuerpo_tabla_coma">8,68</td>
+<td>17.5</td>
+<td>Proteínas.</td>
+<td>8,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.6</td>
-<td class="cuerpo_tabla_izq">Fibra bruta.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>17.6</td>
+<td>Fibra bruta.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.7</td>
-<td class="cuerpo_tabla_izq">Persulfatos o bromatos (cada una).</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>17.7</td>
+<td>Persulfatos o bromatos (cada una).</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.8</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>17.8</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">18. DULCES, HELADOS, TURRONES, CARAMELOS Y OTROS</td>
+<td colspan="3">18. DULCES, HELADOS, TURRONES, CARAMELOS Y OTROS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>18.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.2</td>
-<td class="cuerpo_tabla_izq">Peso neto o humedad (cada una).</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>18.2</td>
+<td>Peso neto o humedad (cada una).</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.3</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>18.3</td>
+<td>Cenizas.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.4</td>
-<td class="cuerpo_tabla_izq">Proteínas.</td>
-<td class="cuerpo_tabla_coma">8,68</td>
+<td>18.4</td>
+<td>Proteínas.</td>
+<td>8,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.5</td>
-<td class="cuerpo_tabla_izq">Grasa.</td>
-<td class="cuerpo_tabla_coma">7,75</td>
+<td>18.5</td>
+<td>Grasa.</td>
+<td>7,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.6</td>
-<td class="cuerpo_tabla_izq">Reconocimiento del almidón o de la yema (cada una).</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>18.6</td>
+<td>Reconocimiento del almidón o de la yema (cada una).</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.7</td>
-<td class="cuerpo_tabla_izq">Porcentaje de almendra o de fruta (cada una).</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>18.7</td>
+<td>Porcentaje de almendra o de fruta (cada una).</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.8</td>
-<td class="cuerpo_tabla_izq">Ácido sórbico, benzoico o salicílico (cada una).</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>18.8</td>
+<td>Ácido sórbico, benzoico o salicílico (cada una).</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.9</td>
-<td class="cuerpo_tabla_izq">Acidez de la grasa.</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>18.9</td>
+<td>Acidez de la grasa.</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.10</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de ácidos grasos por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>18.10</td>
+<td>Composición de la fracción de ácidos grasos por cromatografía de gases.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.11</td>
-<td class="cuerpo_tabla_izq">Composición de la fracción de esteroles por cromatografía de gases.</td>
-<td class="cuerpo_tabla_coma">42,86</td>
+<td>18.11</td>
+<td>Composición de la fracción de esteroles por cromatografía de gases.</td>
+<td>42,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.12</td>
-<td class="cuerpo_tabla_izq">Alcohol etílico o sorbitol (cada una).</td>
-<td class="cuerpo_tabla_coma">77,76</td>
+<td>18.12</td>
+<td>Alcohol etílico o sorbitol (cada una).</td>
+<td>77,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.13</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>18.13</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">19. EDULCORANTES, MIEL Y SIMILARES</td>
+<td colspan="3">19. EDULCORANTES, MIEL Y SIMILARES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>19.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.2</td>
-<td class="cuerpo_tabla_izq">Peso neto o humedad (cada una).</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>19.2</td>
+<td>Peso neto o humedad (cada una).</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.3</td>
-<td class="cuerpo_tabla_izq">Sacarosa.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>19.3</td>
+<td>Sacarosa.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.4</td>
-<td class="cuerpo_tabla_izq">Residuo insoluble en agua caliente.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>19.4</td>
+<td>Residuo insoluble en agua caliente.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.5</td>
-<td class="cuerpo_tabla_izq">Azúcares reductores.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>19.5</td>
+<td>Azúcares reductores.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.6</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>19.6</td>
+<td>Cenizas.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.7</td>
-<td class="cuerpo_tabla_izq">Acidez libre.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>19.7</td>
+<td>Acidez libre.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.8</td>
-<td class="cuerpo_tabla_izq">Hidroximetilfurfural.</td>
-<td class="cuerpo_tabla_coma">9,76</td>
+<td>19.8</td>
+<td>Hidroximetilfurfural.</td>
+<td>9,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.9</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>19.9</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">20. CONDIMENTOS, CAFÉ, SALSAS DE MESA E INFUSIONES</td>
+<td colspan="3">20. CONDIMENTOS, CAFÉ, SALSAS DE MESA E INFUSIONES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>20.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.2</td>
-<td class="cuerpo_tabla_izq">Peso neto o humedad (cada una).</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>20.2</td>
+<td>Peso neto o humedad (cada una).</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.3</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>20.3</td>
+<td>Cenizas.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.4</td>
-<td class="cuerpo_tabla_izq">Fibra bruta.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>20.4</td>
+<td>Fibra bruta.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.5</td>
-<td class="cuerpo_tabla_izq">Extracto etéreo, sílice o color (cada una).</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>20.5</td>
+<td>Extracto etéreo, sílice o color (cada una).</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.6</td>
-<td class="cuerpo_tabla_izq">Colorantes artificiales.</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>20.6</td>
+<td>Colorantes artificiales.</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.7</td>
-<td class="cuerpo_tabla_izq">Extracto alcohólico.</td>
-<td class="cuerpo_tabla_coma">5,55</td>
+<td>20.7</td>
+<td>Extracto alcohólico.</td>
+<td>5,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.8</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso total.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>20.8</td>
+<td>Anhídrido sulfuroso total.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.9</td>
-<td class="cuerpo_tabla_izq">Extracto acuoso.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>20.9</td>
+<td>Extracto acuoso.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.10</td>
-<td class="cuerpo_tabla_izq">Extracto seco.</td>
-<td class="cuerpo_tabla_coma">6,08</td>
+<td>20.10</td>
+<td>Extracto seco.</td>
+<td>6,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.11</td>
-<td class="cuerpo_tabla_izq">Cafeína.</td>
-<td class="cuerpo_tabla_coma">15,31</td>
+<td>20.11</td>
+<td>Cafeína.</td>
+<td>15,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.12</td>
-<td class="cuerpo_tabla_izq">Plomo, cobre o cinc (cada una).</td>
-<td class="cuerpo_tabla_coma">15,91</td>
+<td>20.12</td>
+<td>Plomo, cobre o cinc (cada una).</td>
+<td>15,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.13</td>
-<td class="cuerpo_tabla_izq">Acidez.</td>
-<td class="cuerpo_tabla_coma">6,72</td>
+<td>20.13</td>
+<td>Acidez.</td>
+<td>6,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.14</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">6,72</td>
+<td>20.14</td>
+<td>Cloruros.</td>
+<td>6,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.15</td>
-<td class="cuerpo_tabla_izq">Azúcar total.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>20.15</td>
+<td>Azúcar total.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.16</td>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>20.16</td>
+<td>pH.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.17</td>
-<td class="cuerpo_tabla_izq">Sólidos solubles.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>20.17</td>
+<td>Sólidos solubles.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.18</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>20.18</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21. RESIDUOS DE PRODUCTOS FITOSANITARIOS</td>
+<td colspan="3">21. RESIDUOS DE PRODUCTOS FITOSANITARIOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>21.1 Por cromatografía de gases</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.1.1 Órgano-fosforado</td>
+<td colspan="3">21.1.1 Órgano-fosforado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.1.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">54,35</td>
+<td>21.1.1.1</td>
+<td>Investigación y experiencias.</td>
+<td>54,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.1.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">19,00</td>
+<td>21.1.1.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>19,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.1.2 Órgano-clorados</td>
+<td colspan="3">21.1.2 Órgano-clorados</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.2.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">54,35</td>
+<td>21.1.2.1</td>
+<td>Investigación y experiencias.</td>
+<td>54,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.2.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">19,00</td>
+<td>21.1.2.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>19,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.1.3 Órgano-metálicos</td>
+<td colspan="3">21.1.3 Órgano-metálicos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.3.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">54,35</td>
+<td>21.1.3.1</td>
+<td>Investigación y experiencias.</td>
+<td>54,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.3.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">19,00</td>
+<td>21.1.3.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>19,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.1.4 Piretroides</td>
+<td colspan="3">21.1.4 Piretroides</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.4.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">54,35</td>
+<td>21.1.4.1</td>
+<td>Investigación y experiencias.</td>
+<td>54,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.4.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">18,82</td>
+<td>21.1.4.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>18,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.1.5 Otros compuestos</td>
+<td colspan="3">21.1.5 Otros compuestos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.5.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">54,35</td>
+<td>21.1.5.1</td>
+<td>Investigación y experiencias.</td>
+<td>54,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.1.5.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">19,00</td>
+<td>21.1.5.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>19,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>21.2 Por cromatografía líquida (HPLC)</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.2.1 Órgano-fosforado</td>
+<td colspan="3">21.2.1 Órgano-fosforado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.1.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">81,53</td>
+<td>21.2.1.1</td>
+<td>Investigación y experiencias.</td>
+<td>81,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.1.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">28,50</td>
+<td>21.2.1.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>28,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.2.2 Órgano-clorados</td>
+<td colspan="3">21.2.2 Órgano-clorados</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.2.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">81,53</td>
+<td>21.2.2.1</td>
+<td>Investigación y experiencias.</td>
+<td>81,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.2.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">28,50</td>
+<td>21.2.2.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>28,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.2.3 Órgano-metálicos.</td>
+<td colspan="3">21.2.3 Órgano-metálicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.3.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">81,53</td>
+<td>21.2.3.1</td>
+<td>Investigación y experiencias.</td>
+<td>81,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.3.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">28,50</td>
+<td>21.2.3.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>28,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.2.4 Piretroides</td>
+<td colspan="3">21.2.4 Piretroides</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.4.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">81,53</td>
+<td>21.2.4.1</td>
+<td>Investigación y experiencias.</td>
+<td>81,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.4.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">18,82</td>
+<td>21.2.4.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>18,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">21.2.5 Otros compuestos</td>
+<td colspan="3">21.2.5 Otros compuestos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.5.1</td>
-<td class="cuerpo_tabla_izq">Investigación y experiencias.</td>
-<td class="cuerpo_tabla_coma">81,53</td>
+<td>21.2.5.1</td>
+<td>Investigación y experiencias.</td>
+<td>81,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.2.5.2</td>
-<td class="cuerpo_tabla_izq">Identificación o cuantificación (cada una).</td>
-<td class="cuerpo_tabla_coma">28,50</td>
+<td>21.2.5.2</td>
+<td>Identificación o cuantificación (cada una).</td>
+<td>28,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21.3</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>21.3</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">22. PIENSOS Y FORRAJES</td>
+<td colspan="3">22. PIENSOS Y FORRAJES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.1</td>
-<td class="cuerpo_tabla_izq">Humedad.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>22.1</td>
+<td>Humedad.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.2</td>
-<td class="cuerpo_tabla_izq">Cenizas.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>22.2</td>
+<td>Cenizas.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.3</td>
-<td class="cuerpo_tabla_izq">Fibra bruta.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>22.3</td>
+<td>Fibra bruta.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.4</td>
-<td class="cuerpo_tabla_izq">Grasa bruta.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>22.4</td>
+<td>Grasa bruta.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.5</td>
-<td class="cuerpo_tabla_izq">Acidez de la grasa.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>22.5</td>
+<td>Acidez de la grasa.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.6</td>
-<td class="cuerpo_tabla_izq">Nitrógeno total.</td>
-<td class="cuerpo_tabla_coma">10,62</td>
+<td>22.6</td>
+<td>Nitrógeno total.</td>
+<td>10,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.7</td>
-<td class="cuerpo_tabla_izq">Proteína bruta.</td>
-<td class="cuerpo_tabla_coma">8,68</td>
+<td>22.7</td>
+<td>Proteína bruta.</td>
+<td>8,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.8</td>
-<td class="cuerpo_tabla_izq">Nitrógeno amoniacal.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>22.8</td>
+<td>Nitrógeno amoniacal.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.9</td>
-<td class="cuerpo_tabla_izq">Nitrógeno amoniacal equivalente en proteína.</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>22.9</td>
+<td>Nitrógeno amoniacal equivalente en proteína.</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.10</td>
-<td class="cuerpo_tabla_izq">Nitrógeno ureico.</td>
-<td class="cuerpo_tabla_coma">9,49</td>
+<td>22.10</td>
+<td>Nitrógeno ureico.</td>
+<td>9,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.11</td>
-<td class="cuerpo_tabla_izq">Nitrógeno ureico equivalente en proteína.</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>22.11</td>
+<td>Nitrógeno ureico equivalente en proteína.</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.12</td>
-<td class="cuerpo_tabla_izq">Nitrógeno proteico.</td>
-<td class="cuerpo_tabla_coma">9,49</td>
+<td>22.12</td>
+<td>Nitrógeno proteico.</td>
+<td>9,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.13</td>
-<td class="cuerpo_tabla_izq">Nitrógeno proteico equivalente en proteína.</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>22.13</td>
+<td>Nitrógeno proteico equivalente en proteína.</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.14</td>
-<td class="cuerpo_tabla_izq">Residuo insoluble en ClH.</td>
-<td class="cuerpo_tabla_coma">10,73</td>
+<td>22.14</td>
+<td>Residuo insoluble en ClH.</td>
+<td>10,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.15</td>
-<td class="cuerpo_tabla_izq">Unidades alimenticias (100 kilogramos).</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>22.15</td>
+<td>Unidades alimenticias (100 kilogramos).</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.16</td>
-<td class="cuerpo_tabla_izq">Proteína digestible (unidades alimenticias).</td>
-<td class="cuerpo_tabla_coma">2,43</td>
+<td>22.16</td>
+<td>Proteína digestible (unidades alimenticias).</td>
+<td>2,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.17</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">10,17</td>
+<td>22.17</td>
+<td>Cloruros.</td>
+<td>10,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.18</td>
-<td class="cuerpo_tabla_izq">Calcio.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>22.18</td>
+<td>Calcio.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.19</td>
-<td class="cuerpo_tabla_izq">Cobre, manganeso, hierro, cinc, cobalto o arsénico (cada una).</td>
-<td class="cuerpo_tabla_coma">15,91</td>
+<td>22.19</td>
+<td>Cobre, manganeso, hierro, cinc, cobalto o arsénico (cada una).</td>
+<td>15,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22.20</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>22.20</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">23. CONSERVAS VEGETALES</td>
+<td colspan="3">23. CONSERVAS VEGETALES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>23.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.2</td>
-<td class="cuerpo_tabla_izq">Troqueles de fabricación.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>23.2</td>
+<td>Troqueles de fabricación.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.3</td>
-<td class="cuerpo_tabla_izq">Formato.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>23.3</td>
+<td>Formato.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.4</td>
-<td class="cuerpo_tabla_izq">Peso neto.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>23.4</td>
+<td>Peso neto.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.5</td>
-<td class="cuerpo_tabla_izq">Peso escurrido.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>23.5</td>
+<td>Peso escurrido.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.6</td>
-<td class="cuerpo_tabla_izq">Número de frutos.</td>
-<td class="cuerpo_tabla_coma">4,58</td>
+<td>23.6</td>
+<td>Número de frutos.</td>
+<td>4,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.7</td>
-<td class="cuerpo_tabla_izq">Sólidos solubles (expresados en grados Brix).</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>23.7</td>
+<td>Sólidos solubles (expresados en grados Brix).</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.8</td>
-<td class="cuerpo_tabla_izq">pH.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>23.8</td>
+<td>pH.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.9</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">7,04</td>
+<td>23.9</td>
+<td>Cloruros.</td>
+<td>7,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.10</td>
-<td class="cuerpo_tabla_izq">Ácido cítrico, láctico, málico, tartárico, benzoico, sórbico o salicílico (cada una).</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>23.10</td>
+<td>Ácido cítrico, láctico, málico, tartárico, benzoico, sórbico o salicílico (cada una).</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.11</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>23.11</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">24. BEBIDAS NO ALCOHÓLICAS (AGUAS, ZUMOS Y JARABES, GASEOSAS, COLAS, REFRESCOS Y OTRAS)</td>
+<td colspan="3">24. BEBIDAS NO ALCOHÓLICAS (AGUAS, ZUMOS Y JARABES, GASEOSAS, COLAS, REFRESCOS Y OTRAS)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.1</td>
-<td class="cuerpo_tabla_izq">Etiquetado.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>24.1</td>
+<td>Etiquetado.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.2</td>
-<td class="cuerpo_tabla_izq">Bebida contenida en el envase.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>24.2</td>
+<td>Bebida contenida en el envase.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.3</td>
-<td class="cuerpo_tabla_izq">Cloruros.</td>
-<td class="cuerpo_tabla_coma">7,04</td>
+<td>24.3</td>
+<td>Cloruros.</td>
+<td>7,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.4</td>
-<td class="cuerpo_tabla_izq">Ácidos tartárico, málico, láctico o cítrico (cada una).</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>24.4</td>
+<td>Ácidos tartárico, málico, láctico o cítrico (cada una).</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.5</td>
-<td class="cuerpo_tabla_izq">Edulcorantes artificiales.</td>
-<td class="cuerpo_tabla_coma">22,05</td>
+<td>24.5</td>
+<td>Edulcorantes artificiales.</td>
+<td>22,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.6</td>
-<td class="cuerpo_tabla_izq">Grado alcohólico.</td>
-<td class="cuerpo_tabla_coma">5,51</td>
+<td>24.6</td>
+<td>Grado alcohólico.</td>
+<td>5,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.7</td>
-<td class="cuerpo_tabla_izq">Sólidos solubles.</td>
-<td class="cuerpo_tabla_coma">5,33</td>
+<td>24.7</td>
+<td>Sólidos solubles.</td>
+<td>5,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.8</td>
-<td class="cuerpo_tabla_izq">Azúcares totales.</td>
-<td class="cuerpo_tabla_coma">9,21</td>
+<td>24.8</td>
+<td>Azúcares totales.</td>
+<td>9,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.9</td>
-<td class="cuerpo_tabla_izq">Acidez total.</td>
-<td class="cuerpo_tabla_coma">7,35</td>
+<td>24.9</td>
+<td>Acidez total.</td>
+<td>7,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.10</td>
-<td class="cuerpo_tabla_izq">Anhídrido sulfuroso total.</td>
-<td class="cuerpo_tabla_coma">3,06</td>
+<td>24.10</td>
+<td>Anhídrido sulfuroso total.</td>
+<td>3,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.11</td>
-<td class="cuerpo_tabla_izq">Ácidos sórbico, benzoico o salicílico (cada una).</td>
-<td class="cuerpo_tabla_coma">22,06</td>
+<td>24.11</td>
+<td>Ácidos sórbico, benzoico o salicílico (cada una).</td>
+<td>22,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.12</td>
-<td class="cuerpo_tabla_izq">Arsénico, cobre, cinc o plomo (cada una).</td>
-<td class="cuerpo_tabla_coma">10,54</td>
+<td>24.12</td>
+<td>Arsénico, cobre, cinc o plomo (cada una).</td>
+<td>10,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24.13</td>
-<td class="cuerpo_tabla_izq">Otras (con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>24.13</td>
+<td>Otras (con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">25. OTROS PRODUCTOS</td>
+<td colspan="3">25. OTROS PRODUCTOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">(Con un máximo de 88,02 euros).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td> </td>
+<td>(Con un máximo de 88,02 euros).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">26. TODOS LOS PRODUCTOS (PUNTOS 1 A 25, AMBOS INCLUSIVE)</td>
+<td colspan="3">26. TODOS LOS PRODUCTOS (PUNTOS 1 A 25, AMBOS INCLUSIVE)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26.1</td>
-<td class="cuerpo_tabla_izq">Determinaciones que requieran la aplicación de metodologías específicas no contempladas en los métodos oficiales de análisis (con un máximo de 440,10).</td>
-<td class="cuerpo_tabla_coma">Según coste</td>
+<td>26.1</td>
+<td>Determinaciones que requieran la aplicación de metodologías específicas no contempladas en los métodos oficiales de análisis (con un máximo de 440,10).</td>
+<td>Según coste</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26.2</td>
-<td class="cuerpo_tabla_izq">Residuos de plaguicidas por GC/MSMS y HPLC/MSMS.</td>
-<td class="cuerpo_tabla_coma">125,24</td>
+<td>26.2</td>
+<td>Residuos de plaguicidas por GC/MSMS y HPLC/MSMS.</td>
+<td>125,24</td>
 </tr>
 </tbody>
 </table>
@@ -2749,164 +2739,159 @@ Son contribuyentes de esta tasa las personas que soliciten las licencias cuya tr
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_17">
-<col class="row_column_18">
-<col class="row_column_19">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Documento o licencia</p>
+<p>Documento o licencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licencia de pesca con esparavel y marisqueo:</p>
+<p>Licencia de pesca con esparavel y marisqueo:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,73</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licencia de pesca marítima recreativa desde tierra (validez 1 año).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12,03</p>
+<p>14,73</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licencia de pesca marítima recreativa desde tierra (validez 2 años).</p>
+<p>Licencia de pesca marítima recreativa desde tierra (validez 1 año).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,73</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licencia de pesca marítima recreativa desde tierra (validez 3 años).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17,14</p>
+<p>12,03</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licencia de pesca marítima recreativa desde tierra (validez 4 años).</p>
+<p>Licencia de pesca marítima recreativa desde tierra (validez 2 años).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,38</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licencia de pesca marítima recreativa desde tierra (validez 5 años).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21,47</p>
+<p>14,73</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licencia de pesca marítima recreativa submarina (validez 2 años).</p>
+<p>Licencia de pesca marítima recreativa desde tierra (validez 3 años).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16,65</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licencia para embarcación de pesca marítima de recreo (validez 2 años).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,07</p>
+<p>17,14</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licencia para embarcación de pesca marítima de recreo (validez 3 años).</p>
+<p>Licencia de pesca marítima recreativa desde tierra (validez 4 años).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">57,13</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licencia para embarcación de pesca marítima de recreo (validez 4 años).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">72,54</p>
+<p>19,38</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Licencia para embarcación de pesca marítima de recreo (validez 5 años).</p>
+<p>Licencia de pesca marítima recreativa desde tierra (validez 5 años).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">87,31</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Licencia para embarcación comercial de pesca marítima de recreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">291,26</p>
+<p>21,47</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de duplicados.</p>
+<p>Licencia de pesca marítima recreativa submarina (validez 2 años).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,23</p>
+<p>16,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Licencia para embarcación de pesca marítima de recreo (validez 2 años).</p>
+</td>
+<td>
+<p>41,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Licencia para embarcación de pesca marítima de recreo (validez 3 años).</p>
+</td>
+<td>
+<p>57,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Licencia para embarcación de pesca marítima de recreo (validez 4 años).</p>
+</td>
+<td>
+<p>72,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>Licencia para embarcación de pesca marítima de recreo (validez 5 años).</p>
+</td>
+<td>
+<p>87,31</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Licencia para embarcación comercial de pesca marítima de recreo.</p>
+</td>
+<td>
+<p>291,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>Expedición de duplicados.</p>
+</td>
+<td>
+<p>10,23</p>
 </td>
 </tr>
 </tbody>
@@ -2960,43 +2945,38 @@ Son contribuyentes de esta tasa las personas físicas que soliciten la expedici�
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_20">
-<col class="row_column_21">
-<col class="row_column_22">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición o duplicado del título de buceador profesional básico.</p>
+<p>Expedición o duplicado del título de buceador profesional básico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,79</p>
+<p>10,79</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición o duplicado de la libreta de actividades profesionales subacuáticas.</p>
+<p>Expedición o duplicado de la libreta de actividades profesionales subacuáticas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,59</p>
+<p>13,59</p>
 </td>
 </tr>
 </tbody>
@@ -3060,1026 +3040,1021 @@ Son contribuyentes de esta tasa las personas a las que se presten los servicios 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_28">
-<col class="row_column_29">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comprobación sanitaria y saneamiento ganadero (el importe mínimo a pagar por los servicios de este punto es 3,25 €):</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Equinos y bóvidos (por cabeza).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,10</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Porcino, ovino y caprino (por unidad).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,27</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aves y conejos (por cabeza).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,003376</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras especies:</p>
+<p>Comprobación sanitaria y saneamiento ganadero (el importe mínimo a pagar por los servicios de este punto es 3,25 €):</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peso vivo adulto superior a 50 kilogramos (por cabeza).</p>
+<p>Equinos y bóvidos (por cabeza).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,41</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Peso vivo adulto inferior a 50 kilogramos (por cabeza, con un máximo de 185,01 €).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,10</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Colmenas (por unidad).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,16</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis, dictámenes y peritajes:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis (cada uno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,14</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Peritajes y dictámenes (cada uno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39,22</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inspección y control sanitario de animales importados (por expedición).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,27</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inspección y comprobación del cumplimiento de la normativa vigente en materia de sanidad animal (tanto de apertura como anuales de mantenimiento de la autorización administrativa):</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">4.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para inscripción en el Registro de Explotaciones Ganaderas y expedición del libro de explotación ganadera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambios de titularidad con inscripción en el Registro de Explotaciones Ganaderas y expedición del libro de explotación ganadera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para inscripción en otros registros zoosanitarios y expedición de libro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">4.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por inscripción o renovación en el Registro de Transportistas y expedición del libro de transportista.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición del carnet de transportista de ganado (por expedición).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00€</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para inscripción en el Registro de Adiestradores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para inscripción en el Registro de Personal Investigador.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">4.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para inscripción en el Registro de Operadores en el Sector de los Productos y Subproductos de Origen Animal no Destinados a Consumo Humano (SANDACH).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para inscripción en el Registro de Operadores del Sector Lácteo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">4.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para la inscripción en el Registro de Alimentación Animal de la Comunitat Valenciana.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,30</p>
+<p>1,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4.11</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición del certificado de competencia en bienestar animal.</p>
+<p>Porcino, ovino y caprino (por unidad).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación sanitaria y expedición de certificados:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_31">
-<td>
-<p class="cuerpo_tabla_izq">5.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación sanitaria del ganado sujeto a movimiento y expedición del certificado sanitario de traslado, certificado TRACES y certificado movimiento con países terceros, justificativo de la salubridad del mismo y de su zona de origen, así como de su aptitud para el transporte (mínimo 3,52 € para certificados sanitarios de traslado y 10,00 € mínimo por cada certificado TRACES y a terceros países):</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De équidos y bóvidos (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,21</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De porcino adulto (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,23</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De lechones (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,17</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De ovinos y caprinos (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,18</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De conejos (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,03</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De gallináceas adultas y broilers (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,004990</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pollos jóvenes para cría (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,003803</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De colmena (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,05</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De restantes especies pecuarias (por animal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,27</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">5.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Emisión del certificado sanitario de traslado TRACES o certificado de movimiento con terceros países, justificativo de la salubridad del mismo y de su zona de origen en animales de compañía (por expedición).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,52</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">5.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de atestaciones sanitarias relativas a enfermedades de animales en los certificados para exportar alimentos (cantidad mínima a pagar por este epígrafe).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>0,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5.3.1</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada explotación ganadera adicional.</p>
+<p>Aves y conejos (por cabeza).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,20</p>
+<p>0,003376</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y vigilancia de la desinfección (la cantidad mínima a pagar por los servicios de este epígrafe es de 10 €):</p>
+<p>Otras especies:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1</p>
+<p>1.4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En locales destinados a ferias, mercados, concursos o exposiciones y demás lugares públicos donde se alberguen o contraten ganados o materias contumaces (por metro cuadrado).</p>
+<p>Peso vivo adulto superior a 50 kilogramos (por cabeza).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,01</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En vagones, navíos y aviones donde se transporte ganado (por metro cúbico de carga).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,06</p>
+<p>0,41</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.3</p>
+<p>1.4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En vehículos para transporte de ganado por carretera (por metro cúbico de carga).</p>
+<p>Peso vivo adulto inferior a 50 kilogramos (por cabeza, con un máximo de 185,01 €).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,04</p>
+<p>1,10</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7</p>
+<p>1.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y vigilancia de la desinfección (el importe mínimo a pagar por los servicios de este punto es 5,94 €):</p>
+<p>Colmenas (por unidad).</p>
+</td>
+<td>
+<p>0,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Análisis, dictámenes y peritajes:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En locales destinados a ferias, mercados, concursos o exposiciones y demás lugares públicos donde se alberguen o contraten ganados o materias contumaces (por metro cuadrado).</p>
+<p>Análisis (cada uno).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,01</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">7.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En vagones, navíos y aviones donde se transporte ganado (por metro cúbico de carga).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,06</p>
+<p>6,14</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.3</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En vehículos para transporte de ganado por carretera (por metro cúbico de carga).</p>
+<p>Peritajes y dictámenes (cada uno).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,04</p>
+<p>39,22</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación de ganado:</p>
+<p>Inspección y control sanitario de animales importados (por expedición).</p>
+</td>
+<td>
+<p>12,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Inspección y comprobación del cumplimiento de la normativa vigente en materia de sanidad animal (tanto de apertura como anuales de mantenimiento de la autorización administrativa):</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bovino:</p>
+<p>Para inscripción en el Registro de Explotaciones Ganaderas y expedición del libro de explotación ganadera.</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.2</p>
+</td>
+<td>
+<p>Cambios de titularidad con inscripción en el Registro de Explotaciones Ganaderas y expedición del libro de explotación ganadera.</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.3</p>
+</td>
+<td>
+<p>Para inscripción en otros registros zoosanitarios y expedición de libro.</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.4</p>
+</td>
+<td>
+<p>Por inscripción o renovación en el Registro de Transportistas y expedición del libro de transportista.</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.5</p>
+</td>
+<td>
+<p>Expedición del carnet de transportista de ganado (por expedición).</p>
+</td>
+<td>
+<p>5,00€</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.6</p>
+</td>
+<td>
+<p>Para inscripción en el Registro de Adiestradores.</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.7</p>
+</td>
+<td>
+<p>Para inscripción en el Registro de Personal Investigador.</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.8</p>
+</td>
+<td>
+<p>Para inscripción en el Registro de Operadores en el Sector de los Productos y Subproductos de Origen Animal no Destinados a Consumo Humano (SANDACH).</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.9</p>
+</td>
+<td>
+<p>Para inscripción en el Registro de Operadores del Sector Lácteo.</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.10</p>
+</td>
+<td>
+<p>Para la inscripción en el Registro de Alimentación Animal de la Comunitat Valenciana.</p>
+</td>
+<td>
+<p>30,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.11</p>
+</td>
+<td>
+<p>Expedición del certificado de competencia en bienestar animal.</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Comprobación sanitaria y expedición de certificados:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.1.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suministro (por unidad).</p>
+<p>Comprobación sanitaria del ganado sujeto a movimiento y expedición del certificado sanitario de traslado, certificado TRACES y certificado movimiento con países terceros, justificativo de la salubridad del mismo y de su zona de origen, así como de su aptitud para el transporte (mínimo 3,52 € para certificados sanitarios de traslado y 10,00 € mínimo por cada certificado TRACES y a terceros países):</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>5.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,60</p>
+<p>De équidos y bóvidos (por animal).</p>
+</td>
+<td>
+<p>1,21</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.1.1.1</p>
+<p>5.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones administrativas anejas (por acto).</p>
+<p>De porcino adulto (por animal).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,77</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">8.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actuaciones administrativas solicitud duplicados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>0,23</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.1.2.1</p>
+<p>5.1.3</p>
+</td>
+<td>
+<p>De lechones (por animal).</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.4</p>
+</td>
+<td>
+<p>De ovinos y caprinos (por animal).</p>
+</td>
+<td>
+<p>0,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.5</p>
+</td>
+<td>
+<p>De conejos (por animal).</p>
+</td>
+<td>
+<p>0,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.6</p>
+</td>
+<td>
+<p>De gallináceas adultas y broilers (por animal).</p>
+</td>
+<td>
+<p>0,004990</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.7</p>
+</td>
+<td>
+<p>Pollos jóvenes para cría (por animal).</p>
+</td>
+<td>
+<p>0,003803</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.8</p>
+</td>
+<td>
+<p>De colmena (por animal).</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.9</p>
+</td>
+<td>
+<p>De restantes especies pecuarias (por animal).</p>
+</td>
+<td>
+<p>12,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.2</p>
+</td>
+<td>
+<p>Emisión del certificado sanitario de traslado TRACES o certificado de movimiento con terceros países, justificativo de la salubridad del mismo y de su zona de origen en animales de compañía (por expedición).</p>
+</td>
+<td>
+<p>3,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.3</p>
+</td>
+<td>
+<p>Emisión de atestaciones sanitarias relativas a enfermedades de animales en los certificados para exportar alimentos (cantidad mínima a pagar por este epígrafe).</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.3.1</p>
+</td>
+<td>
+<p>Por cada explotación ganadera adicional.</p>
+</td>
+<td>
+<p>0,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Inspección y vigilancia de la desinfección (la cantidad mínima a pagar por los servicios de este epígrafe es de 10 €):</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>6.1</p>
+</td>
+<td>
+<p>En locales destinados a ferias, mercados, concursos o exposiciones y demás lugares públicos donde se alberguen o contraten ganados o materias contumaces (por metro cuadrado).</p>
+</td>
+<td>
+<p>0,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2</p>
+</td>
+<td>
+<p>En vagones, navíos y aviones donde se transporte ganado (por metro cúbico de carga).</p>
+</td>
+<td>
+<p>0,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.3</p>
+</td>
+<td>
+<p>En vehículos para transporte de ganado por carretera (por metro cúbico de carga).</p>
+</td>
+<td>
+<p>0,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Inspección y vigilancia de la desinfección (el importe mínimo a pagar por los servicios de este punto es 5,94 €):</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>7.1</p>
+</td>
+<td>
+<p>En locales destinados a ferias, mercados, concursos o exposiciones y demás lugares públicos donde se alberguen o contraten ganados o materias contumaces (por metro cuadrado).</p>
+</td>
+<td>
+<p>0,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.2</p>
+</td>
+<td>
+<p>En vagones, navíos y aviones donde se transporte ganado (por metro cúbico de carga).</p>
+</td>
+<td>
+<p>0,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.3</p>
+</td>
+<td>
+<p>En vehículos para transporte de ganado por carretera (por metro cúbico de carga).</p>
+</td>
+<td>
+<p>0,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Identificación de ganado:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>8.1</p>
+</td>
+<td>
+<p>Bovino:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>8.1.1</p>
+</td>
+<td>
+<p>Suministro (por unidad).</p>
+</td>
+<td>
+<p>0,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.1.1.1</p>
+</td>
+<td>
+<p>Actuaciones administrativas anejas (por acto).</p>
+</td>
+<td>
+<p>0,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.1.2</p>
+</td>
+<td>
+<p>Actuaciones administrativas solicitud duplicados.</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.1.2.1</p>
 </td>
 <td>
 <strong>(Eliminado)</strong>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.1.3</p>
+<p>8.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de duplicados del documento de identificación (por documento).</p>
+<p>Expedición de duplicados del documento de identificación (por documento).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.2</p>
+<p>8.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ovino-caprino:</p>
+<p>Ovino-caprino:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">8.2.1</p>
+<p>8.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Suministro (por unidad).</p>
+<p>Suministro (por unidad).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,45</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">8.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actuaciones administrativas solicitud duplicados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>0,45</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.</p>
+<p>8.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Determinaciones analíticas en sanidad animal:</p>
+<p>Actuaciones administrativas solicitud duplicados.</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.</p>
+</td>
+<td>
+<p>Determinaciones analíticas en sanidad animal:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.1</p>
+<p>9.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis diagnóstico serológico:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ELISA.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,80</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aglutinación (placa y microplaca).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,22</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reacción de fijación de complemento (RFC).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inmunofluorescencia indirecta (IFI).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,02</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inhibición de la hemoaglutinación (IHA).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16,70</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inmunodifusión en gel de agar (IDGA).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,20</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección gamma interferón por ELISA.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,80</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.1.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Seuroneutralización.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,60</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis detección encefalopatías:</p>
+<p>Análisis diagnóstico serológico:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.2.1</p>
+<p>9.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ELISA, ensayo inmunoenzimático detección PrP.</p>
+<p>ELISA.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19,16</p>
+<p>6,80</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3</p>
+<p>9.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis microbiológicos:</p>
+<p>Aglutinación (placa y microplaca).</p>
+</td>
+<td>
+<p>3,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.1.3</p>
+</td>
+<td>
+<p>Reacción de fijación de complemento (RFC).</p>
+</td>
+<td>
+<p>12,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.1.4</p>
+</td>
+<td>
+<p>Inmunofluorescencia indirecta (IFI).</p>
+</td>
+<td>
+<p>10,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.1.5</p>
+</td>
+<td>
+<p>Inhibición de la hemoaglutinación (IHA).</p>
+</td>
+<td>
+<p>16,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.1.6</p>
+</td>
+<td>
+<p>Inmunodifusión en gel de agar (IDGA).</p>
+</td>
+<td>
+<p>5,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.1.7</p>
+</td>
+<td>
+<p>Detección gamma interferón por ELISA.</p>
+</td>
+<td>
+<p>9,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.1.8</p>
+</td>
+<td>
+<p>Seuroneutralización.</p>
+</td>
+<td>
+<p>24,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.2</p>
+</td>
+<td>
+<p>Análisis detección encefalopatías:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3.1</p>
+<p>9.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aislamiento e indentificación.</p>
+<p>ELISA, ensayo inmunoenzimático detección PrP.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,10</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Presencia/ausencia Escherichia Coli.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18,25</p>
+<p>19,16</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3.3</p>
+<p>9.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aislamiento en medios específicos (E. Coli Verotoxigénico).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">26,05</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aislamiento en medios específicos (Mycobacterias).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23,52</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección inhibidores crecimiento bacteriano. Cribado. Técnica 5 placas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,14</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Determinación esporas termoresistentes (Clostridium Perfringens).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21,18</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recuento esterobacterias por la técnica del número más probable (NMP).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18,25</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Serotipación Salmonella según esquema técnica de Kauffman-White.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">27,44</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aislamiento, identificación y serotipado Salmonella.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">43,49</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.3.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Diferenciación cepa campo/cepa vacunal.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,68</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis de biología molecular:</p>
+<p>Análisis microbiológicos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.4.1</p>
+<p>9.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PCR convencional (revelado en gel).</p>
+<p>Aislamiento e indentificación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,20</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PCR tiempo real (detección ADN).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,10</p>
+<p>24,10</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.4.3</p>
+<p>9.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">R-PCR tiempo real (detección ARN).</p>
+<p>Presencia/ausencia Escherichia Coli.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,10</p>
+<p>18,25</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.5</p>
+<p>9.3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis químico:</p>
+<p>Aislamiento en medios específicos (E. Coli Verotoxigénico).</p>
+</td>
+<td>
+<p>26,05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.4</p>
+</td>
+<td>
+<p>Aislamiento en medios específicos (Mycobacterias).</p>
+</td>
+<td>
+<p>23,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.5</p>
+</td>
+<td>
+<p>Detección inhibidores crecimiento bacteriano. Cribado. Técnica 5 placas.</p>
+</td>
+<td>
+<p>24,14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.6</p>
+</td>
+<td>
+<p>Determinación esporas termoresistentes (Clostridium Perfringens).</p>
+</td>
+<td>
+<p>21,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.7</p>
+</td>
+<td>
+<p>Recuento esterobacterias por la técnica del número más probable (NMP).</p>
+</td>
+<td>
+<p>18,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.8</p>
+</td>
+<td>
+<p>Serotipación Salmonella según esquema técnica de Kauffman-White.</p>
+</td>
+<td>
+<p>27,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.9</p>
+</td>
+<td>
+<p>Aislamiento, identificación y serotipado Salmonella.</p>
+</td>
+<td>
+<p>43,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.3.10</p>
+</td>
+<td>
+<p>Diferenciación cepa campo/cepa vacunal.</p>
+</td>
+<td>
+<p>14,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.4</p>
+</td>
+<td>
+<p>Análisis de biología molecular:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.5.1</p>
+<p>9.4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detección PATs por microscopía.</p>
+<p>PCR convencional (revelado en gel).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,61</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.5.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Impurezas totales insolubles en grasas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,64</p>
+<p>24,20</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.6</p>
+<p>9.4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis etiológico:</p>
+<p>PCR tiempo real (detección ADN).</p>
+</td>
+<td>
+<p>30,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.4.3</p>
+</td>
+<td>
+<p>R-PCR tiempo real (detección ARN).</p>
+</td>
+<td>
+<p>32,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.5</p>
+</td>
+<td>
+<p>Análisis químico:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.6.1</p>
+<p>9.5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación microscópica con claves dicotómicas (diagnóstico entomológico).</p>
+<p>Detección PATs por microscopía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,20</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Diagnóstico parastológico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,60</p>
+<p>10,61</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.6.3</p>
+<p>9.5.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aislamiento e identificación por cultivo celular.</p>
+<p>Impurezas totales insolubles en grasas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,60</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.6.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulación vírica en cultivo celular.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,20</p>
+<p>13,64</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.6.5</p>
+<p>9.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ELISA de captura de Ag.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,75</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.6.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inmunoensayo rápido para detección de Chlamydófila.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,66</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">9.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros:</p>
+<p>Análisis etiológico:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">9.7.1</p>
+<p>9.6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diagnóstico laboratorial.</p>
+<p>Identificación microscópica con claves dicotómicas (diagnóstico entomológico).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,00</p>
+<p>10,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6.2</p>
+</td>
+<td>
+<p>Diagnóstico parastológico.</p>
+</td>
+<td>
+<p>11,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6.3</p>
+</td>
+<td>
+<p>Aislamiento e identificación por cultivo celular.</p>
+</td>
+<td>
+<p>12,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6.4</p>
+</td>
+<td>
+<p>Titulación vírica en cultivo celular.</p>
+</td>
+<td>
+<p>14,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6.5</p>
+</td>
+<td>
+<p>ELISA de captura de Ag.</p>
+</td>
+<td>
+<p>9,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6.6</p>
+</td>
+<td>
+<p>Inmunoensayo rápido para detección de Chlamydófila.</p>
+</td>
+<td>
+<p>15,66</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.7</p>
+</td>
+<td>
+<p>Otros:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>9.7.1</p>
+</td>
+<td>
+<p>Diagnóstico laboratorial.</p>
+</td>
+<td>
+<p>35,00</p>
 </td>
 </tr>
 </tbody>
@@ -4131,136 +4106,131 @@ Son contribuyentes de esta tasa las personas que tengan la condición de agricul
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_33">
-<col class="row_column_34">
-<col class="row_column_35">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros/Ha)</p>
+<p>Importe (euros/Ha)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis de semillas y material vegetal:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Relativos a semillas (ensayos de calidad).</p>
+<p>Análisis de semillas y material vegetal:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Muestreo a petición de parte.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">40</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Germinación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pureza específica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuscuta.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Relativos a plantas de vivero (ensayos biológicos).</p>
+<p>Relativos a semillas (ensayos de calidad).</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.1</p>
+<p>1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tristeza.</p>
+<p>Muestreo a petición de parte.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Psoriasis.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">180</p>
+<p>40</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.3</p>
+<p>1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Excorsis.</p>
+<p>Germinación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">160</p>
+<p>10</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.4</p>
+<p>1.1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Xiloporiasis.</p>
+<p>Pureza específica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">400</p>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.5</p>
+</td>
+<td>
+<p>Cuscuta.</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2</p>
+</td>
+<td>
+<p>Relativos a plantas de vivero (ensayos biológicos).</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>1.2.1</p>
+</td>
+<td>
+<p>Tristeza.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2</p>
+</td>
+<td>
+<p>Psoriasis.</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.3</p>
+</td>
+<td>
+<p>Excorsis.</p>
+</td>
+<td>
+<p>160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.4</p>
+</td>
+<td>
+<p>Xiloporiasis.</p>
+</td>
+<td>
+<p>400</p>
 </td>
 </tr>
 </tbody>
@@ -4336,138 +4306,133 @@ Son contribuyentes de esta tasa las personas a las que se presten los servicios 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_36">
-<col class="row_column_37">
-<col class="row_column_19">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios académicos:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso de especialización hasta 30 horas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,79</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de 30 horas, hasta 50.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17,62</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de 50 horas, hasta 100.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">44,03</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de 100 horas, hasta 300.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">109,98</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de 300 horas, hasta 500.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">219,96</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de 500 horas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">351,19</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios administrativos:</p>
+<p>Servicios académicos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de certificados.</p>
+<p>Curso de especialización hasta 30 horas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,58</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de duplicados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,47</p>
+<p>8,79</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Convalidación de asignaturas.</p>
+<p>Más de 30 horas, hasta 50.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,73</p>
+<p>17,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>Más de 50 horas, hasta 100.</p>
+</td>
+<td>
+<p>44,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Más de 100 horas, hasta 300.</p>
+</td>
+<td>
+<p>109,98</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Más de 300 horas, hasta 500.</p>
+</td>
+<td>
+<p>219,96</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Más de 500 horas.</p>
+</td>
+<td>
+<p>351,19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td>
+<p>Servicios administrativos:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1</p>
+</td>
+<td>
+<p>Expedición de certificados.</p>
+</td>
+<td>
+<p>2,58</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Expedición de duplicados.</p>
+</td>
+<td>
+<p>6,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Convalidación de asignaturas.</p>
+</td>
+<td>
+<p>7,73</p>
 </td>
 </tr>
 </tbody>
@@ -4503,394 +4468,389 @@ Son contribuyentes de esta tasa las personas a quienes se presten, de oficio o a
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_12">
-<col class="row_column_7">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_8">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección de viveros y semillas:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inscripción en el Registro de Operadores Profesionales de Vegetales como productor de semillas y plantas de vivero (ROPVEG).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">180,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inscripción en el Registro de Operadores Profesionales de Vegetales como comerciante de semillas y plantas de vivero (ROPVEG).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,50</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de denominación en el Registro de Productores, Comerciantes e Importadores de Vegetales o en el Registro de Productores de Semillas y Plantas de Vivero.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición, a instancia de parte, de certificados relacionados con los productores de semillas y plantas de vivero.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inspección y control de parcelas para producir semillas y plantas de vivero de los grupos de producción de frutales, cítricos y vid, por cada 1.000 unidades precintadas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,5</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inspección y control de parcelas para producir semillas y plantas de vivero de los grupos de producción de semillas de arroz, por cada 10.000 kgrs precintadas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,5</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Protección de vegetales:</p>
+<p>Inspección de viveros y semillas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><strong>(Sin contenido)</strong> </p>
+<p>Inscripción en el Registro de Operadores Profesionales de Vegetales como productor de semillas y plantas de vivero (ROPVEG).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
-</td>
-</tr>
-<tr class="row_column_13">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis de virosis (Enzimoinmunoensayo E.L.I.S.A.), por muestra/submuestra y patógeno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,80</p>
+<p>180,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis y diagnóstico de hongos (convencional).</p>
+<p>Inscripción en el Registro de Operadores Profesionales de Vegetales como comerciante de semillas y plantas de vivero (ROPVEG).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,55</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis y diagnóstico de nemátodos (convencional).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,87</p>
+<p>12,50</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.5</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis y diagnóstico de artrópodos (convencional).</p>
+<p>Cambio de denominación en el Registro de Productores, Comerciantes e Importadores de Vegetales o en el Registro de Productores de Semillas y Plantas de Vivero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,90</p>
+<p>20,00</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis de detección, diagnóstico e identificación de procariotas (bacterias y fitoplasmas):</p>
+<p>Expedición, a instancia de parte, de certificados relacionados con los productores de semillas y plantas de vivero.</p>
+</td>
+<td>
+<p>45,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Inspección y control de parcelas para producir semillas y plantas de vivero de los grupos de producción de frutales, cítricos y vid, por cada 1.000 unidades precintadas:</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Inspección y control de parcelas para producir semillas y plantas de vivero de los grupos de producción de semillas de arroz, por cada 10.000 kgrs precintadas:</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Protección de vegetales:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Preparación de la muestra:</p>
+<p><strong>(Sin contenido)</strong> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Análisis de virosis (Enzimoinmunoensayo E.L.I.S.A.), por muestra/submuestra y patógeno.</p>
+</td>
+<td>
+<p>8,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Análisis y diagnóstico de hongos (convencional).</p>
+</td>
+<td>
+<p>11,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Análisis y diagnóstico de nemátodos (convencional).</p>
+</td>
+<td>
+<p>7,87</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Análisis y diagnóstico de artrópodos (convencional).</p>
+</td>
+<td>
+<p>7,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Análisis de detección, diagnóstico e identificación de procariotas (bacterias y fitoplasmas):</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.1.1</p>
+<p>2.6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obtención convencional de extractos vegetales (hasta tres extractos) de muestras sintomáticas o asintomáticas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,47</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.6.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obtención de extractos de muestras de semillas asintomáticas o de tubérculos asintomáticas de patata (por extracto).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,25</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.6.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Concentración de extractos (por extracto).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,80</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.6.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enriquecimiento de extractos en medio de cultivo líquido (por medio de cultivo y extracto).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,76</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis de detección o diagnóstico:</p>
+<p>Preparación de la muestra:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.2.1</p>
+<p>2.6.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aislamiento en medios generales, diferenciales o semiselectivos (por muestra y cada diez placas).</p>
+<p>Obtención convencional de extractos vegetales (hasta tres extractos) de muestras sintomáticas o asintomáticas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,60</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.6.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis serológico mediante inmunofluorescencia indirecta (por muestra y patógeno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,98</p>
+<p>5,47</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.2.3</p>
+<p>2.6.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis serológico mediante E.L.I.S.A. Indirecto (por muestra y patógeno).</p>
+<p>Obtención de extractos de muestras de semillas asintomáticas o de tubérculos asintomáticas de patata (por extracto).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,53</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.6.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis serológico mediante E.L.I.S.A.–D.A.S.I. (por muestra y patógeno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,38</p>
+<p>9,25</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.3</p>
+<p>2.6.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis de diagnóstico e identificación de cultivos:</p>
+<p>Concentración de extractos (por extracto).</p>
+</td>
+<td>
+<p>1,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6.1.4</p>
+</td>
+<td>
+<p>Enriquecimiento de extractos en medio de cultivo líquido (por medio de cultivo y extracto).</p>
+</td>
+<td>
+<p>1,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6.2</p>
+</td>
+<td>
+<p>Análisis de detección o diagnóstico:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.3.1</p>
+<p>2.6.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis de caracterización bioquímica y prueba de hipersensibilidad en tabaco (por cultivo y cada diez placas).</p>
+<p>Aislamiento en medios generales, diferenciales o semiselectivos (por muestra y cada diez placas).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,20</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.6.3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis serológico mediante inmunofluorescencia indirecta (por cultivo y patógeno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,23</p>
+<p>11,60</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.3.3</p>
+<p>2.6.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis serológico mediante E.L.I.S.A. indirecto (por cultivo y patógeno).</p>
+<p>Análisis serológico mediante inmunofluorescencia indirecta (por muestra y patógeno).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,58</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.6.3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis serológico mediante E.L.I.S.A.–D.A.S.I. (por cultivo y patógeno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,98</p>
+<p>7,98</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.6.3.5</p>
+<p>2.6.2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bioensayos (por cultivo y patógeno).</p>
+<p>Análisis serológico mediante E.L.I.S.A. Indirecto (por muestra y patógeno).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,10</p>
+<p>6,53</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.7</p>
+<p>2.6.2.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Técnicas moleculares:</p>
+<p>Análisis serológico mediante E.L.I.S.A.–D.A.S.I. (por muestra y patógeno).</p>
+</td>
+<td>
+<p>7,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6.3</p>
+</td>
+<td>
+<p>Análisis de diagnóstico e identificación de cultivos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.7.1</p>
+<p>2.6.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extracción de ADN/ARN total (por muestra).</p>
+<p>Análisis de caracterización bioquímica y prueba de hipersensibilidad en tabaco (por cultivo y cada diez placas).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,68</p>
-</td>
-</tr>
-<tr class="row_column_13">
-<td>
-<p class="cuerpo_tabla_izq">2.7.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis molecular mediante PCR convencional de ADN o ARN (por muestra).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,05</p>
+<p>14,20</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2.6.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Análisis serológico mediante inmunofluorescencia indirecta (por cultivo y patógeno).</p>
+</td>
+<td>
+<p>6,23</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6.3.3</p>
+</td>
+<td>
+<p>Análisis serológico mediante E.L.I.S.A. indirecto (por cultivo y patógeno).</p>
+</td>
+<td>
+<p>4,58</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6.3.4</p>
+</td>
+<td>
+<p>Análisis serológico mediante E.L.I.S.A.–D.A.S.I. (por cultivo y patógeno).</p>
+</td>
+<td>
+<p>4,98</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6.3.5</p>
+</td>
+<td>
+<p>Bioensayos (por cultivo y patógeno).</p>
+</td>
+<td>
+<p>11,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.7</p>
+</td>
+<td>
+<p>Técnicas moleculares:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.7.1</p>
+</td>
+<td>
+<p>Extracción de ADN/ARN total (por muestra).</p>
+</td>
+<td>
+<p>7,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.7.2</p>
+</td>
+<td>
+<p>Análisis molecular mediante PCR convencional de ADN o ARN (por muestra).</p>
+</td>
+<td>
+<p>12,05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>
 <strong>(Sin contenido)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Informes facultativos (de carácter económico, social o técnico, no previstos en los aranceles).</p>
+<p>Informes facultativos (de carácter económico, social o técnico, no previstos en los aranceles).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>30,00</p>
 </td>
 </tr>
 </tbody>
@@ -4942,43 +4902,38 @@ Son contribuyentes de esta tasa los titulares de balsas de regadío a los que se
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_15">
-<col class="row_column_16">
-<col class="row_column_17">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_8">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clasificación de balsas de regadío dentro de la categoría A (aquellas cuya rotura o funcionamiento incorrecto pueden afectar gravemente a núcleos urbanos o a servicios esenciales, o producir daños materiales o medioambientales muy importantes), categoría B (aquellas cuya rotura o funcionamiento incorrecto puedan ocasionar daños materiales o medioambientales importantes o afectar a un núcleo reducido de viviendas) o categoría C (aquellas cuya rotura o funcionamiento incorrecto puede producir daños materiales de moderada importancia y solo incidentalmente pérdidas de vidas humanas).</p>
+<p>Clasificación de balsas de regadío dentro de la categoría A (aquellas cuya rotura o funcionamiento incorrecto pueden afectar gravemente a núcleos urbanos o a servicios esenciales, o producir daños materiales o medioambientales muy importantes), categoría B (aquellas cuya rotura o funcionamiento incorrecto puedan ocasionar daños materiales o medioambientales importantes o afectar a un núcleo reducido de viviendas) o categoría C (aquellas cuya rotura o funcionamiento incorrecto puede producir daños materiales de moderada importancia y solo incidentalmente pérdidas de vidas humanas).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150,00</p>
+<p>150,00</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobación del plan de emergencias de las balsas de regadío que se clasifiquen con la categoría A (aquellas cuya rotura o funcionamiento incorrecto pueden afectar gravemente a núcleos urbanos o a servicios esenciales, o producir daños materiales o medioambientales muy importantes) y con la categoría B (aquellas cuya rotura o funcionamiento incorrecto puedan ocasionar daños materiales o medioambientales importantes o afectar a un núcleo reducido de viviendas).</p>
+<p>Aprobación del plan de emergencias de las balsas de regadío que se clasifiquen con la categoría A (aquellas cuya rotura o funcionamiento incorrecto pueden afectar gravemente a núcleos urbanos o a servicios esenciales, o producir daños materiales o medioambientales muy importantes) y con la categoría B (aquellas cuya rotura o funcionamiento incorrecto puedan ocasionar daños materiales o medioambientales importantes o afectar a un núcleo reducido de viviendas).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150,00</p>
+<p>150,00</p>
 </td>
 </tr>
 </tbody>
@@ -5122,74 +5077,69 @@ e) Vertidos de industrias de refrigeración: el precio básico se establece de f
 
 Agua de refrigeración. Precio en €/m<sup>3</sup> aplicable al volumen vertido
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_43">
-<col class="row_column_44">
-<col class="row_column_44">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Volumen hm<sup>3</sup></p>
+<p>Volumen hm<sup>3</sup></p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Concentración menor que NCA</p>
-<p class="cabeza_tabla">(según RD 817/2015, de11 de septiembre)</p>
+<p>Concentración menor que NCA</p>
+<p>(según RD 817/2015, de11 de septiembre)</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cabeza_tabla">Sí</p>
+<p>Sí</p>
 </td>
 <td>
-<p class="cabeza_tabla">No</p>
+<p>No</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Menos de 100.</p>
+<p>Menos de 100.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000612060</p>
+<p>0,000612060</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00183618</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">Resto hasta 250.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000357035</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00107111</p>
+<p>0,00183618</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Resto hasta 1.000.</p>
+<p>Resto hasta 250.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000173417</p>
+<p>0,000357035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00052025</p>
+<p>0,00107111</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Resto por encima de 1.000.</p>
+<p>Resto hasta 1.000.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000040804</p>
+<p>0,000173417</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00011221</p>
+<p>0,00052025</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resto por encima de 1.000.</p>
+</td>
+<td>
+<p>0,000040804</p>
+</td>
+<td>
+<p>0,00011221</p>
 </td>
 </tr>
 </tbody>
@@ -5497,63 +5447,59 @@ Son contribuyentes de esta tasa las personas físicas o jurídicas que soliciten
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de servicio</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th>Tipo de servicio</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>1. Evaluación del profesorado universitario</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 La evaluación o emisión del informe previo exigido en el capítulo IV del título IX de la Ley orgánica 2/2023, de 22 de marzo, del sistema universitario para la contratación de las figuras de profesorado universitario, cuando proceda.</td>
-<td class="cuerpo_tabla_coma">58,53</td>
+<td>1.1 La evaluación o emisión del informe previo exigido en el capítulo IV del título IX de la Ley orgánica 2/2023, de 22 de marzo, del sistema universitario para la contratación de las figuras de profesorado universitario, cuando proceda.</td>
+<td>58,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2 La evaluación del profesorado de las universidades privadas en posesión del título de doctorado.</td>
-<td class="cuerpo_tabla_coma">58,53</td>
+<td>1.2 La evaluación del profesorado de las universidades privadas en posesión del título de doctorado.</td>
+<td>58,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>2 Evaluación y emisión de los informes de seguimiento de los títulos universitarios oficiales</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 Evaluación y emisión de los informes de seguimiento de títulos universitarios oficiales de grado.</td>
-<td class="cuerpo_tabla_coma">617,58</td>
+<td>2.1 Evaluación y emisión de los informes de seguimiento de títulos universitarios oficiales de grado.</td>
+<td>617,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2 Evaluación y emisión de los informes de seguimiento de títulos universitarios oficiales de máster.</td>
-<td class="cuerpo_tabla_coma">411,72</td>
+<td>2.2 Evaluación y emisión de los informes de seguimiento de títulos universitarios oficiales de máster.</td>
+<td>411,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3 Evaluación y emisión de los informes de seguimiento de títulos universitarios oficiales de doctorado.</td>
-<td class="cuerpo_tabla_coma">411,72</td>
+<td>2.3 Evaluación y emisión de los informes de seguimiento de títulos universitarios oficiales de doctorado.</td>
+<td>411,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4 La evaluación y emisión de los informes para la renovación de la acreditación de los títulos universitarios oficiales:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.4 La evaluación y emisión de los informes para la renovación de la acreditación de los títulos universitarios oficiales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4.1 – de grado:</td>
-<td class="cuerpo_tabla_coma">1.646,87</td>
+<td>2.4.1 – de grado:</td>
+<td>1.646,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4.2 – de máster:</td>
-<td class="cuerpo_tabla_coma">1.441,01</td>
+<td>2.4.2 – de máster:</td>
+<td>1.441,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4.3 – de doctorado:</td>
-<td class="cuerpo_tabla_coma">1.441,01</td>
+<td>2.4.3 – de doctorado:</td>
+<td>1.441,01</td>
 </tr>
 </tbody>
 </table>
@@ -5590,74 +5536,69 @@ Constituye el hecho imponible de esta tasa la prestación por los órganos compe
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_47">
-<col class="row_column_2">
-<col class="row_column_48">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios administrativos derivados de la solicitud de un certificado que acredite que un establecimiento tiene la condición de tienda de conveniencia para la instalación de máquinas expendedoras de productos del tabaco.</p>
+<p>Servicios administrativos derivados de la solicitud de un certificado que acredite que un establecimiento tiene la condición de tienda de conveniencia para la instalación de máquinas expendedoras de productos del tabaco.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">69,09</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios administrativos derivados de la solicitud de comprobación de la subsanación de los requisitos obligatorios de etiquetado o marcado de productos importados de terceros países en materia de seguridad, como consecuencia del control previo a la importación realizado por el Servicio Oficial de Inspección, Vigilancia y Regulación de la Exportación (SOIVRE).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80,45</p>
+<p>69,09</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios técnicos derivados de una solicitud o comunicación de los interesados relativa a la implantación o modificación de precios o tarifas de servicios sujetos al régimen de autorización o comunicación:</p>
+<p>Servicios administrativos derivados de la solicitud de comprobación de la subsanación de los requisitos obligatorios de etiquetado o marcado de productos importados de terceros países en materia de seguridad, como consecuencia del control previo a la importación realizado por el Servicio Oficial de Inspección, Vigilancia y Regulación de la Exportación (SOIVRE).</p>
+</td>
+<td>
+<p>80,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Servicios técnicos derivados de una solicitud o comunicación de los interesados relativa a la implantación o modificación de precios o tarifas de servicios sujetos al régimen de autorización o comunicación:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Solicitud de implantación o de modificación de precios o tarifas de suministro de agua a poblaciones, de servicios con más de 500 abonados, y que se tramite por el procedimiento administrativo ordinario.</p>
+<p>Solicitud de implantación o de modificación de precios o tarifas de suministro de agua a poblaciones, de servicios con más de 500 abonados, y que se tramite por el procedimiento administrativo ordinario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1051,07</p>
+<p>1051,07</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Resto de solicitudes sometidas al régimen de autorización o comunicación de precios o tarifas.</p>
+<p>Resto de solicitudes sometidas al régimen de autorización o comunicación de precios o tarifas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">72,78</p>
+<p>72,78</p>
 </td>
 </tr>
 </tbody>
@@ -5723,375 +5664,370 @@ Son contribuyentes de esta tasa las personas usuarias de las instalaciones a las
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_50">
-<col class="row_column_51">
-<col class="row_column_52">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de usuario</p>
+<p>Tipo de usuario</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PARTICIPANTES EN ACTIVIDADES REALIZADAS EN EL COMPLEJO EDUCATIVO.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Deportivas:</p>
+<p>PARTICIPANTES EN ACTIVIDADES REALIZADAS EN EL COMPLEJO EDUCATIVO.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Piscinas:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Utilización por grupos de hasta 10 personas (por grupo, por cada calle utilizada y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,67</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Utilización individual:</p>
+<p>Deportivas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1.2.1</p>
+<p>1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Piscina cubierta (por persona y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,92</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Piscina descubierta (por persona y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,94</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pistas deportivas (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,86</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Campo de fútbol (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">19,36</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pabellón cubierto-gimnasio (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,53</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pabellón cubierto doble (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">29,04</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pistas de atletismo (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,53</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Salón de actos (Paraninfo):</p>
+<p>Piscinas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.7.1</p>
+<p>1.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sesión completa de mañana o tarde.</p>
+<p>Utilización por grupos de hasta 10 personas (por grupo, por cada calle utilizada y hora).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">242,07</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.7.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Día completo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">363,06</p>
+<p>9,67</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8</p>
+<p>1.1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salas de capacidad para 200 personas (por grupo y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,20</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aulas (por grupo y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,86</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">RESTANTES USUARIOS.</p>
+<p>Utilización individual:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1.1.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deportivas:</p>
+<p>Piscina cubierta (por persona y hora).</p>
+</td>
+<td>
+<p>2,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1.2.2</p>
+</td>
+<td>
+<p>Piscina descubierta (por persona y hora).</p>
+</td>
+<td>
+<p>1,94</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2</p>
+</td>
+<td>
+<p>Pistas deportivas (por hora).</p>
+</td>
+<td>
+<p>4,86</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3</p>
+</td>
+<td>
+<p>Campo de fútbol (por hora).</p>
+</td>
+<td>
+<p>19,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.4</p>
+</td>
+<td>
+<p>Pabellón cubierto-gimnasio (por hora).</p>
+</td>
+<td>
+<p>14,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.5</p>
+</td>
+<td>
+<p>Pabellón cubierto doble (por hora).</p>
+</td>
+<td>
+<p>29,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.6</p>
+</td>
+<td>
+<p>Pistas de atletismo (por hora).</p>
+</td>
+<td>
+<p>14,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.7</p>
+</td>
+<td>
+<p>Salón de actos (Paraninfo):</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1</p>
+<p>1.1.7.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Piscinas:</p>
+<p>Sesión completa de mañana o tarde.</p>
+</td>
+<td>
+<p>242,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.7.2</p>
+</td>
+<td>
+<p>Día completo.</p>
+</td>
+<td>
+<p>363,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.8</p>
+</td>
+<td>
+<p>Salas de capacidad para 200 personas (por grupo y hora).</p>
+</td>
+<td>
+<p>24,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.9</p>
+</td>
+<td>
+<p>Aulas (por grupo y hora).</p>
+</td>
+<td>
+<p>4,86</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>RESTANTES USUARIOS.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Utilización por grupos de hasta 10 personas (por grupo, por cada calle utilizada y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">19,36</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Utilización individual:</p>
+<p>Deportivas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.2.1</p>
+<p>2.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Piscina cubierta (por persona y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,89</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Piscina descubierta (por persona y hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,92</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pistas deportivas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,67</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Campo de fútbol (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">38,73</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pabellón cubierto-gimnasio (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">29,04</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pabellón cubierto doble (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">58,08</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pistas de atletismo (por hora).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">29,04</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Salón de actos (Paraninfo):</p>
+<p>Piscinas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.7.1</p>
+<p>2.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sesión completa de mañana o tarde.</p>
+<p>Utilización por grupos de hasta 10 personas (por grupo, por cada calle utilizada y hora).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">484,11</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.7.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Día completo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">726,17</p>
+<p>19,36</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.8</p>
+<p>2.1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Salas de capacidad para 200 personas (por grupo y hora).</p>
+<p>Utilización individual:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,41</p>
+<p>Piscina cubierta (por persona y hora).</p>
+</td>
+<td>
+<p>3,89</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.9</p>
+<p>2.1.1.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aulas (por grupo y hora).</p>
+<p>Piscina descubierta (por persona y hora).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,67</p>
+<p>2,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.2</p>
+</td>
+<td>
+<p>Pistas deportivas.</p>
+</td>
+<td>
+<p>9,67</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.3</p>
+</td>
+<td>
+<p>Campo de fútbol (por hora).</p>
+</td>
+<td>
+<p>38,73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.4</p>
+</td>
+<td>
+<p>Pabellón cubierto-gimnasio (por hora).</p>
+</td>
+<td>
+<p>29,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.5</p>
+</td>
+<td>
+<p>Pabellón cubierto doble (por hora).</p>
+</td>
+<td>
+<p>58,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.6</p>
+</td>
+<td>
+<p>Pistas de atletismo (por hora).</p>
+</td>
+<td>
+<p>29,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.7</p>
+</td>
+<td>
+<p>Salón de actos (Paraninfo):</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1.7.1</p>
+</td>
+<td>
+<p>Sesión completa de mañana o tarde.</p>
+</td>
+<td>
+<p>484,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.7.2</p>
+</td>
+<td>
+<p>Día completo.</p>
+</td>
+<td>
+<p>726,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.8</p>
+</td>
+<td>
+<p>Salas de capacidad para 200 personas (por grupo y hora).</p>
+</td>
+<td>
+<p>48,41</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.9</p>
+</td>
+<td>
+<p>Aulas (por grupo y hora).</p>
+</td>
+<td>
+<p>9,67</p>
 </td>
 </tr>
 </tbody>
@@ -6137,65 +6073,60 @@ Son contribuyentes de esta tasa las personas que soliciten las actuaciones admin
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_53">
-<col class="row_column_54">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada otorgamiento o renovación de licencias de comunicación audiovisual.</p>
+<p>Por cada otorgamiento o renovación de licencias de comunicación audiovisual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.033,62</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por cada autorización de modificaciones en la titularidad de las acciones, participaciones o títulos equivalentes de los licenciatarios, o modificaciones del capital.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">206,72</p>
+<p>1.033,62</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada autorización de transmisiones y otros negocios jurídicos que comporten cambio en la titularidad de licencias de comunicación audiovisual.</p>
+<p>Por cada autorización de modificaciones en la titularidad de las acciones, participaciones o títulos equivalentes de los licenciatarios, o modificaciones del capital.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">413,45</p>
+<p>206,72</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada autorización de arrendamientos y otros negocios jurídicos que no comporten cambio en la titularidad de licencias de comunicación audiovisual.</p>
+<p>Por cada autorización de transmisiones y otros negocios jurídicos que comporten cambio en la titularidad de licencias de comunicación audiovisual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">275,63</p>
+<p>413,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Por cada autorización de arrendamientos y otros negocios jurídicos que no comporten cambio en la titularidad de licencias de comunicación audiovisual.</p>
+</td>
+<td>
+<p>275,63</p>
 </td>
 </tr>
 </tbody>
@@ -6227,43 +6158,38 @@ Son contribuyentes de esta tasa las personas físicas o jurídicas, públicas o 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_55">
-<col class="row_column_56">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_32">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por la tramitación administrativa de las solicitudes de autorización o legalización, por cada solicitud:</p>
+<p>Por la tramitación administrativa de las solicitudes de autorización o legalización, por cada solicitud:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">160 € cuando el presupuesto o la valoración de las obras sea igual o superior a 3.000 €</p>
+<p>160 € cuando el presupuesto o la valoración de las obras sea igual o superior a 3.000 €</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por la tramitación administrativa de las solicitudes de autorización o legalización, por cada solicitud:</p>
+<p>Por la tramitación administrativa de las solicitudes de autorización o legalización, por cada solicitud:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">80 € cuando el presupuesto o la valoración de las obras no supere los 3.000 €.</p>
+<p>80 € cuando el presupuesto o la valoración de las obras no supere los 3.000 €.</p>
 </td>
 </tr>
 </tbody>
@@ -6299,54 +6225,49 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando del siguiente cuadro, bien la cantidad fija señalada, bien el tipo de gravamen porcentual a la base que se indica:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_57">
-<col class="row_column_58">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compulsa de documentos técnicos.</p>
+<p>Compulsa de documentos técnicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,50</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de certificados o de informes a instancia de parte (por certificado o informe).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>1,50</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Registro de concesiones y autorizaciones administrativas.</p>
+<p>Expedición de certificados o de informes a instancia de parte (por certificado o informe).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">El 0,5 por 1000 del valor de la expropiación realizada por el establecimiento de concesión, o, en defecto de ella, del valor del suelo ocupado o beneficiado por aquella, con un mínimo de 2,50 €</p>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Registro de concesiones y autorizaciones administrativas.</p>
+</td>
+<td>
+<p>El 0,5 por 1000 del valor de la expropiación realizada por el establecimiento de concesión, o, en defecto de ella, del valor del suelo ocupado o beneficiado por aquella, con un mínimo de 2,50 €</p>
 </td>
 </tr>
 </tbody>
@@ -6390,83 +6311,78 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_36">
-<col class="row_column_59">
-<col class="row_column_8">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarifa I. Examen para acceso a las titulaciones deportivas subacuáticas.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1. Buceador 1.ª clase.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">30,90</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2. Buceador 2.ª clase.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15,40</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tarifa II. Expedición y convalidación de los títulos habilitantes para el ejercicio de actividades deportivas subacuáticas.</p>
+<p>Tarifa I. Examen para acceso a las titulaciones deportivas subacuáticas.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. Buceador 1.ª clase.</p>
+<p>1. Buceador 1.ª clase.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10,30</p>
+<p>30,90</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. Buceador 2.ª clase.</p>
+<p>2. Buceador 2.ª clase.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10,30</p>
+<p>15,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Tarifa II. Expedición y convalidación de los títulos habilitantes para el ejercicio de actividades deportivas subacuáticas.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1</p>
+</td>
+<td>
+<p>1. Buceador 1.ª clase.</p>
+</td>
+<td>
+<p>10,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>2. Buceador 2.ª clase.</p>
+</td>
+<td>
+<p>10,30</p>
 </td>
 </tr>
 </tbody>
@@ -6514,211 +6430,206 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_17">
-<col class="row_column_60">
-<col class="row_column_50">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Examen teórico para acceso a las titulaciones para el gobierno de embarcaciones de recreo.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Capitán de yate.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">103,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón de yate.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">82,40</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón de embarcación de recreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">61,80</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón para navegación básica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">61,80</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición, renovación y convalidación de títulos habilitantes para el gobierno de embarcaciones de recreo.</p>
+<p>Examen teórico para acceso a las titulaciones para el gobierno de embarcaciones de recreo.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición.</p>
+<p>Capitán de yate.</p>
+</td>
+<td>
+<p>103,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2</p>
+</td>
+<td>
+<p>Patrón de yate.</p>
+</td>
+<td>
+<p>82,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>Patrón de embarcación de recreo.</p>
+</td>
+<td>
+<p>61,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Patrón para navegación básica.</p>
+</td>
+<td>
+<p>61,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Expedición, renovación y convalidación de títulos habilitantes para el gobierno de embarcaciones de recreo.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Capitán de yate.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">123,60</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón de yate.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón de embarcación de recreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón para navegación básica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Renovaciones y convalidaciones (cada una).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Examen práctico para acceso a las titulaciones para el gobierno de las embarcaciones de recreo.</p>
+<p>Expedición.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Capitán de yate.</p>
+<p>Capitán de yate.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174,90</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón de yate.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">97,10</p>
+<p>123,60</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>2.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Patrón de embarcaciones de recreo.</p>
+<p>Patrón de yate.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">68,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patrón de navegación básica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">58,30</p>
+<p>36,00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>2.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de certificados relativos a la obtención de titulaciones para el gobierno de embarcaciones de recreo.</p>
+<p>Patrón de embarcación de recreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,10</p>
+<p>36,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.4</p>
+</td>
+<td>
+<p>Patrón para navegación básica.</p>
+</td>
+<td>
+<p>36,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Renovaciones y convalidaciones (cada una).</p>
+</td>
+<td>
+<p>36,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Examen práctico para acceso a las titulaciones para el gobierno de las embarcaciones de recreo.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Capitán de yate.</p>
+</td>
+<td>
+<p>174,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>Patrón de yate.</p>
+</td>
+<td>
+<p>97,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3</p>
+</td>
+<td>
+<p>Patrón de embarcaciones de recreo.</p>
+</td>
+<td>
+<p>68,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.4</p>
+</td>
+<td>
+<p>Patrón de navegación básica.</p>
+</td>
+<td>
+<p>58,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Expedición de certificados relativos a la obtención de titulaciones para el gobierno de embarcaciones de recreo.</p>
+</td>
+<td>
+<p>6,10</p>
 </td>
 </tr>
 </tbody>
@@ -6764,54 +6675,49 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_61">
-<col class="row_column_62">
-<col class="row_column_63">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_32">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Examen teórico de tipo A o B:</p>
+<p>Examen teórico de tipo A o B:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Examen práctico de tipo A o B:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">57,10</p>
+<p>60,50</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición o convalidación del título:</p>
+<p>Examen práctico de tipo A o B:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35,30</p>
+<p>57,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Expedición o convalidación del título:</p>
+</td>
+<td>
+<p>35,30</p>
 </td>
 </tr>
 </tbody>
@@ -6851,147 +6757,142 @@ Son contribuyentes de esta tasa las personas que soliciten o les sean prestados 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_64">
-<col class="row_column_65">
-<col class="row_column_66">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escuelas de enseñanza náutica-deportiva.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización de apertura y funcionamiento.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,90</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificación de la autorización inicial otorgada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23,40</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Centros de buceo recreativos.</p>
+<p>Escuelas de enseñanza náutica-deportiva.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de apertura y funcionamiento.</p>
+<p>Autorización de apertura y funcionamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,90</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificación de la autorización inicial otorgada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23,40</p>
+<p>45,90</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Renovación de la autorización inicial acordada.</p>
+<p>Modificación de la autorización inicial otorgada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,40</p>
+<p>23,40</p>
 </td>
 </tr>
-<tr class="row_column_67">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquiler de embarcaciones deportivas o de recreo listas (lista 6<em>ª</em> del Registro de Buques) para actividades marítimas turístico-deportivas.</p>
+<p>Centros de buceo recreativos.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_67">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación declaración responsable de alquiler de embarcaciones lista 6.ª hasta 10 metros de eslora.</p>
+<p>Autorización de apertura y funcionamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,80</p>
-</td>
-</tr>
-<tr class="row_column_67">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación declaración responsable de alquiler de embarcaciones lista 6.ª entre 10 y 15 metros de eslora.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">81,60</p>
+<p>45,90</p>
 </td>
 </tr>
-<tr class="row_column_67">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación declaración responsable de alquiler de embarcaciones lista 6.ª superior a 15 metros de eslora.</p>
+<p>Modificación de la autorización inicial otorgada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122,40</p>
+<p>23,40</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.4</p>
+<p>2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Renovación de la tramitación de declaración responsable inicial otorgada (con independencia de la eslora de la embarcación).</p>
+<p>Renovación de la autorización inicial acordada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20,40</p>
+<p>20,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Alquiler de embarcaciones deportivas o de recreo listas (lista 6<em>ª</em> del Registro de Buques) para actividades marítimas turístico-deportivas.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Tramitación declaración responsable de alquiler de embarcaciones lista 6.ª hasta 10 metros de eslora.</p>
+</td>
+<td>
+<p>40,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>Tramitación declaración responsable de alquiler de embarcaciones lista 6.ª entre 10 y 15 metros de eslora.</p>
+</td>
+<td>
+<p>81,60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3</p>
+</td>
+<td>
+<p>Tramitación declaración responsable de alquiler de embarcaciones lista 6.ª superior a 15 metros de eslora.</p>
+</td>
+<td>
+<p>122,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.4</p>
+</td>
+<td>
+<p>Renovación de la tramitación de declaración responsable inicial otorgada (con independencia de la eslora de la embarcación).</p>
+</td>
+<td>
+<p>20,40</p>
 </td>
 </tr>
 </tbody>
@@ -7027,116 +6928,111 @@ Son contribuyentes de esta tasa las personas que se matriculen en las actividade
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_36">
-<col class="row_column_59">
-<col class="row_column_8">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cursos de entrenadores, en su bloque común, a los que se refiere la disposición transitoria primera del Real decreto 1363/2007.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel I.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">66,40</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel II.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">96,40</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nivel III.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">108,24</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cursos y actividades de formación deportiva que organice la Dirección General del Deporte.</p>
+<p>Cursos de entrenadores, en su bloque común, a los que se refiere la disposición transitoria primera del Real decreto 1363/2007.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros cursos (5 horas).</p>
+<p>Nivel I.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,34</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros cursos (5 horas adicionales).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,22</p>
+<p>66,40</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Congreso/jornada 5 horas.</p>
+<p>Nivel II.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24,77</p>
+<p>96,40</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.4</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Congreso/jornada 5 horas adicionales.</p>
+<p>Nivel III.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,65</p>
+<p>108,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Cursos y actividades de formación deportiva que organice la Dirección General del Deporte.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1</p>
+</td>
+<td>
+<p>Otros cursos (5 horas).</p>
+</td>
+<td>
+<p>16,34</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Otros cursos (5 horas adicionales).</p>
+</td>
+<td>
+<p>8,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Congreso/jornada 5 horas.</p>
+</td>
+<td>
+<p>24,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Congreso/jornada 5 horas adicionales.</p>
+</td>
+<td>
+<p>14,65</p>
 </td>
 </tr>
 </tbody>
@@ -7206,63 +7102,58 @@ c) Tratándose de la publicación de listados, mapas u otros materiales gráfico
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_64">
-<col class="row_column_2">
-<col class="row_column_8">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de inserción y soporte</p>
+<p>Tipo de inserción y soporte</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Listados, mapas u otros gráficos de difícil valoración (por página DIN-A4 o similar).</p>
+<p>Listados, mapas u otros gráficos de difícil valoración (por página DIN-A4 o similar).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">88,93</p>
+<p>88,93</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Resto de casos:</p>
+<p>Resto de casos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarifa normal (por módulo).</p>
+<p>Tarifa normal (por módulo).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">44,47</p>
+<p>44,47</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tarifa reducida –aplicable cuando el documento se remita a través de la aplicación de gestión del «Diari Oficial de la Generalitat Valenciana» y en las dos lenguas oficiales de la Comunitat Valenciana– (por módulo).</p>
+<p>Tarifa reducida –aplicable cuando el documento se remita a través de la aplicación de gestión del «Diari Oficial de la Generalitat Valenciana» y en las dos lenguas oficiales de la Comunitat Valenciana– (por módulo).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22,22</p>
+<p>22,22</p>
 </td>
 </tr>
 </tbody>
@@ -7342,302 +7233,297 @@ La base liquidable es el resultado de minorar la base imponible en el importe de
 
 1\. En los casos de ocupación del dominio público viario o ferroviario de la Generalitat, la cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_69">
-<col class="row_column_70">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Concesión de autorizaciones para la realización de obras e instalaciones en zonas de dominio público de la carretera en suelo no clasificado como urbano o urbanizable</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por construcción de pasos sobre cuneta para peatones y vehículos o acceso a las carreteras de la Comunitat Valenciana, por metro cuadrado o fracción:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por el cruce de líneas aéreas de conducción eléctrica y de comunicación con las carreteras:</p>
+<p>Concesión de autorizaciones para la realización de obras e instalaciones en zonas de dominio público de la carretera en suelo no clasificado como urbano o urbanizable</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_71">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En líneas eléctricas de alta o media tensión:</p>
+<p>Por construcción de pasos sobre cuneta para peatones y vehículos o acceso a las carreteras de la Comunitat Valenciana, por metro cuadrado o fracción:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T = 8,00 × raíz cuadrada de V × S</p>
-<p class="cuerpo_tabla_centro">Siendo:</p>
-<p class="cuerpo_tabla_centro">T = La cuantía de la tasa</p>
-<p class="cuerpo_tabla_centro">S = Sección total de los conductores en milímetros cuadrados</p>
-<p class="cuerpo_tabla_centro">V= Tensión en kilovoltios</p>
+<p>21,00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.2</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En líneas eléctricas de baja tensión y líneas de comunicaciones, cualquiera que sea la sección de los conductores, por cada línea:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">175,00</p>
-</td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por apertura de zanjas y cruzamiento mediante hinca para la instalación de nuevas conducciones de servicios públicos (electricidad, telecomunicaciones, gas, agua, etc.) y acometida a aquellos, incluso colocación de tuberías y equipos. Por metro lineal de conducción:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por excavación e instalación de pozos de registro, arquetas o cámaras en las conducciones del apartado anterior. Por unidad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">109,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por la instalación de carteles informativos y de señales reglamentarias incluidos en el Código de circulación. Por unidad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">39,00</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por utilización de infraestructuras existentes para instalación de nuevas líneas, tanto eléctricas, como de comunicación o de abastecimiento (por metro lineal):</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,00</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Concesión de autorizaciones para la realización de obras e instalaciones en zonas de protección de la carretera en suelo no clasificado como urbano o urbanizable</p>
+<p>Por el cruce de líneas aéreas de conducción eléctrica y de comunicación con las carreteras:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por apertura de zanja e instalación de acequias de riego, revestidas o sin revestir. Por metro lineal:</p>
+<p>En líneas eléctricas de alta o media tensión:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por colocación de apoyos para líneas aéreas de comunicaciones o eléctricas de media y baja tensión. Por unidad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,00</p>
+<p>T = 8,00 × raíz cuadrada de V × S</p>
+<p>Siendo:</p>
+<p>T = La cuantía de la tasa</p>
+<p>S = Sección total de los conductores en milímetros cuadrados</p>
+<p>V= Tensión en kilovoltios</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por instalación de aparatos distribuidores de gasolina y depósitos en estaciones de servicio existentes. Por metro cuadrado de ocupación:</p>
+<p>En líneas eléctricas de baja tensión y líneas de comunicaciones, cualquiera que sea la sección de los conductores, por cada línea:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por pavimentación de accesos con pavimento rígido o flexible. Por metro cuadrado:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>175,00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.5</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por instalación de cerramientos totalmente diáfanos sobre piquetes sin cimiento de fábrica. Por metro lineal:</p>
+<p>Por apertura de zanjas y cruzamiento mediante hinca para la instalación de nuevas conducciones de servicios públicos (electricidad, telecomunicaciones, gas, agua, etc.) y acometida a aquellos, incluso colocación de tuberías y equipos. Por metro lineal de conducción:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,50</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por colocación de carteles de actividad autorizables por la Ley 6/1991, de 27 de marzo, de carreteras de la Comunitat Valenciana. Por metro cuadrado:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,00</p>
+<p>43,00</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.7</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por ocupación de la zona de protección con veladores, quioscos, toldos e instalaciones provisionales o desmontables autorizables, por un plazo máximo de un año. Por metro cuadrado de ocupación:</p>
+<p>Por excavación e instalación de pozos de registro, arquetas o cámaras en las conducciones del apartado anterior. Por unidad:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,00</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">2.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por utilización de infraestructuras existentes para instalación de nuevas líneas, tanto eléctricas, como de comunicación o de abastecimiento (por metro lineal):</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,00</p>
+<p>109,00</p>
 </td>
 </tr>
-<tr class="row_column_73">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.9</p>
+<p>1.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por la instalación de nuevas conducciones, incluso colocación de tuberías y equipos. Por metro lineal de conducción (cada tubo):</p>
+<p>Por la instalación de carteles informativos y de señales reglamentarias incluidos en el Código de circulación. Por unidad:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43,00</p>
-<p class="cuerpo_tabla_centro">En el caso de ser una tubería o equipos destinados al suministro de agua para una explotación agrícola o ganadera, la tarifa será la misma que para el apartado 2.1</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por excavación e instalación de pozos de registro, arquetas o cámaras en las conducciones del apartado anterior. Por unidad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">105,00</p>
+<p>39,00</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.</p>
+<p>1.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de informes y realización de inspecciones, recogidas en la respectiva autorización, sobre ejecución de obras e instalaciones en zonas de dominio público y protección de la carretera</p>
+<p>Por utilización de infraestructuras existentes para instalación de nuevas líneas, tanto eléctricas, como de comunicación o de abastecimiento (por metro lineal):</p>
+</td>
+<td>
+<p>43,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td>
+<p>Concesión de autorizaciones para la realización de obras e instalaciones en zonas de protección de la carretera en suelo no clasificado como urbano o urbanizable</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por emisión de informes con datos de campo. Por informe:</p>
+<p>Por apertura de zanja e instalación de acequias de riego, revestidas o sin revestir. Por metro lineal:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por realización de inspecciones. Por inspección:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52,00</p>
+<p>2,00</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Concesión de otras autorizaciones para la realización de obras o instalaciones en zonas de dominio público y protección de la carretera</p>
+<p>Por colocación de apoyos para líneas aéreas de comunicaciones o eléctricas de media y baja tensión. Por unidad:</p>
+</td>
+<td>
+<p>43,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Por instalación de aparatos distribuidores de gasolina y depósitos en estaciones de servicio existentes. Por metro cuadrado de ocupación:</p>
+</td>
+<td>
+<p>14,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Por pavimentación de accesos con pavimento rígido o flexible. Por metro cuadrado:</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Por instalación de cerramientos totalmente diáfanos sobre piquetes sin cimiento de fábrica. Por metro lineal:</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Por colocación de carteles de actividad autorizables por la Ley 6/1991, de 27 de marzo, de carreteras de la Comunitat Valenciana. Por metro cuadrado:</p>
+</td>
+<td>
+<p>7,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.7</p>
+</td>
+<td>
+<p>Por ocupación de la zona de protección con veladores, quioscos, toldos e instalaciones provisionales o desmontables autorizables, por un plazo máximo de un año. Por metro cuadrado de ocupación:</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.8</p>
+</td>
+<td>
+<p>Por utilización de infraestructuras existentes para instalación de nuevas líneas, tanto eléctricas, como de comunicación o de abastecimiento (por metro lineal):</p>
+</td>
+<td>
+<p>43,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.9</p>
+</td>
+<td>
+<p>Por la instalación de nuevas conducciones, incluso colocación de tuberías y equipos. Por metro lineal de conducción (cada tubo):</p>
+</td>
+<td>
+<p>43,00</p>
+<p>En el caso de ser una tubería o equipos destinados al suministro de agua para una explotación agrícola o ganadera, la tarifa será la misma que para el apartado 2.1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.10</p>
+</td>
+<td>
+<p>Por excavación e instalación de pozos de registro, arquetas o cámaras en las conducciones del apartado anterior. Por unidad:</p>
+</td>
+<td>
+<p>105,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td>
+<p>Emisión de informes y realización de inspecciones, recogidas en la respectiva autorización, sobre ejecución de obras e instalaciones en zonas de dominio público y protección de la carretera</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada autorización de reparación de instalaciones existentes con autorización anterior y sin modificación de características:</p>
+<p>Por emisión de informes con datos de campo. Por informe:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,00</p>
+<p>70,00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.2</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada autorización de obras en zona de dominio público en suelo urbano o urbanizable:</p>
+<p>Por realización de inspecciones. Por inspección:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,00</p>
+<p>52,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.</p>
+</td>
+<td>
+<p>Concesión de otras autorizaciones para la realización de obras o instalaciones en zonas de dominio público y protección de la carretera</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>4.1</p>
+</td>
+<td>
+<p>Por cada autorización de reparación de instalaciones existentes con autorización anterior y sin modificación de características:</p>
+</td>
+<td>
+<p>70,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.2</p>
+</td>
+<td>
+<p>Por cada autorización de obras en zona de dominio público en suelo urbano o urbanizable:</p>
+</td>
+<td>
+<p>70,00</p>
 </td>
 </tr>
 <tr>
@@ -7648,20 +7534,20 @@ La base liquidable es el resultado de minorar la base imponible en el importe de
 <tr>
 <td>5.1</td>
 <td>Longitud de linde menor o igual que 500 metros.</td>
-<td class="cuerpo_tabla_centro">50 €.</td>
+<td>50 €.</td>
 </tr>
 <tr>
 <td>5.2</td>
 <td>Longitud de linde entre 500 y 1.000 metros.</td>
 <td>
-<p class="cuerpo_tabla_centro">50 € más 10 € por cada 100 metros o fracción.</p>
+<p>50 € más 10 € por cada 100 metros o fracción.</p>
 </td>
 </tr>
 <tr>
 <td>5.3</td>
 <td>Longitud de linde superior a 1.000 metros.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">100 € más 10 € por cada 500 metros o fracción.</p>
+<td>
+<p>100 € más 10 € por cada 500 metros o fracción.</p>
 </td>
 </tr>
 </tbody>
@@ -7673,69 +7559,64 @@ En el caso de que la persona solicitante no aporte plano digital en los término
 
 2\. En los supuestos de bienes demaniales afectos a uso público o al servicio público educativo, cultural o deportivo, en los que la persona física o jurídica solicite una autorización de ocupación temporal que pueda adjudicarse directamente según lo previsto en el artículo 61.2 de la Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat o normativa legal que la sustituya, la cuota íntegra se obtendrá aplicando la cuantías que resulten del siguiente cuadro, dentro de los importes mínimos y máximos fijados:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_74">
-<col class="row_column_75">
-<col class="row_column_76">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otorgamiento de autorizaciones de ocupación temporal en bienes, parcelas, solares afectos según el planeamiento urbanístico municipal a un uso educativo, cultural o deportivo (plaza Viriato de Valencia y otras):</p>
+<p>Otorgamiento de autorizaciones de ocupación temporal en bienes, parcelas, solares afectos según el planeamiento urbanístico municipal a un uso educativo, cultural o deportivo (plaza Viriato de Valencia y otras):</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por ocupación de espacio igual o inferior a 100 metros cuadrados.</p>
-<p class="cuerpo_tabla_izq">Importe mínimo: 80 euros.</p>
-<p class="cuerpo_tabla_izq">Importe máximo: 3.000 euros.</p>
+<p>Por ocupación de espacio igual o inferior a 100 metros cuadrados.</p>
+<p>Importe mínimo: 80 euros.</p>
+<p>Importe máximo: 3.000 euros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">30€ x m<sup>2</sup> x días de ocupación / 365</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por ocupación de espacio superior a 100 metros cuadrados.</p>
-<p class="cuerpo_tabla_izq">Importe mínimo: 100 euros.</p>
-<p class="cuerpo_tabla_izq">Importe máximo: 5.000 euros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">35€ x m<sup>2</sup> x días de ocupación / 365</p>
+<p>30€ x m<sup>2</sup> x días de ocupación / 365</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otorgamiento de autorizaciones de ocupación temporal respecto a espacios, aulas o instalaciones de bienes afectos a un servicio público educativo, cultural o deportivo.</p>
-<p class="cuerpo_tabla_izq">Importe mínimo: 120 euros.</p>
-<p class="cuerpo_tabla_izq">Importe máximo: 6.000 euros.</p>
+<p>Por ocupación de espacio superior a 100 metros cuadrados.</p>
+<p>Importe mínimo: 100 euros.</p>
+<p>Importe máximo: 5.000 euros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">40€ x m<sup>2</sup> x días de ocupación / 365</p>
+<p>35€ x m<sup>2</sup> x días de ocupación / 365</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Otorgamiento de autorizaciones de ocupación temporal respecto a espacios, aulas o instalaciones de bienes afectos a un servicio público educativo, cultural o deportivo.</p>
+<p>Importe mínimo: 120 euros.</p>
+<p>Importe máximo: 6.000 euros.</p>
+</td>
+<td>
+<p>40€ x m<sup>2</sup> x días de ocupación / 365</p>
 </td>
 </tr>
 </tbody>
@@ -7827,101 +7708,97 @@ Son contribuyentes de esta tasa las personas que se matriculen en los centros a 
 
 1\. La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de servicio</th>
-<th class="cabeza_tabla">Euros por crédito</th>
+<th>Tipo de servicio</th>
+<th>Euros por crédito</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>1. Actividad docente</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 Enseñanzas artísticas superiores:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1 Enseñanzas artísticas superiores:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1 Enseñanza superior de arte dramático.</td>
-<td class="cuerpo_tabla_coma">9,42</td>
+<td>1.1.1 Enseñanza superior de arte dramático.</td>
+<td>9,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.2 Enseñanza superior de música.</td>
-<td class="cuerpo_tabla_coma">9,42</td>
+<td>1.1.2 Enseñanza superior de música.</td>
+<td>9,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.3 Enseñanza superior de danza.</td>
-<td class="cuerpo_tabla_coma">9,42</td>
+<td>1.1.3 Enseñanza superior de danza.</td>
+<td>9,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.4 Enseñanza superior de diseño.</td>
-<td class="cuerpo_tabla_coma">9,42</td>
+<td>1.1.4 Enseñanza superior de diseño.</td>
+<td>9,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.5 Enseñanza superior de artes plásticas (cerámica).</td>
-<td class="cuerpo_tabla_coma">9,42</td>
+<td>1.1.5 Enseñanza superior de artes plásticas (cerámica).</td>
+<td>9,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2 Másteres en enseñanzas artísticas oficiales.</td>
-<td class="cuerpo_tabla_coma">31,52</td>
+<td>1.2 Másteres en enseñanzas artísticas oficiales.</td>
+<td>31,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3 Cursos propios enseñanzas artísticas superiores.</td>
-<td class="cuerpo_tabla_coma">43,79</td>
+<td>1.3 Cursos propios enseñanzas artísticas superiores.</td>
+<td>43,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>2. Evaluación y pruebas</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 Prueba específica para personas sin requisitos académicos.</td>
-<td class="cuerpo_tabla_coma">22,37</td>
+<td>2.1 Prueba específica para personas sin requisitos académicos.</td>
+<td>22,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2 Prueba específica de acceso.</td>
-<td class="cuerpo_tabla_coma">53,52</td>
+<td>2.2 Prueba específica de acceso.</td>
+<td>53,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3 Pruebas de aptitud para acceso a máster.</td>
-<td class="cuerpo_tabla_coma">74,20</td>
+<td>2.3 Pruebas de aptitud para acceso a máster.</td>
+<td>74,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>3. Expedición de títulos académicos</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 Título de máster en Enseñanzas artísticas superiores, suplemento europeo al título o duplicado del título, a petición de los interesados y por causas imputables a estos.</td>
-<td class="cuerpo_tabla_coma">201,26</td>
+<td>3.1 Título de máster en Enseñanzas artísticas superiores, suplemento europeo al título o duplicado del título, a petición de los interesados y por causas imputables a estos.</td>
+<td>201,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2 Título de Grado en Enseñanzas artísticas superiores, suplemento europeo al título o duplicado del título (LOMLOE), y Título Superior en Enseñanzas artísticas, suplemento europeo al título o duplicado del título (LOE), a petición de los interesados y por causas imputables a estos.</td>
-<td class="cuerpo_tabla_coma">176,75</td>
+<td>3.2 Título de Grado en Enseñanzas artísticas superiores, suplemento europeo al título o duplicado del título (LOMLOE), y Título Superior en Enseñanzas artísticas, suplemento europeo al título o duplicado del título (LOE), a petición de los interesados y por causas imputables a estos.</td>
+<td>176,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.3 Expedición del suplemento europeo al título.</td>
-<td class="cuerpo_tabla_coma">33,34</td>
+<td>3.3 Expedición del suplemento europeo al título.</td>
+<td>33,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>4. Secretaría</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1 Apertura de expediente académico por inicio de estudios en un centro y traslado, expedición certificados académicos.</td>
-<td class="cuerpo_tabla_coma">25,94</td>
+<td>4.1 Apertura de expediente académico por inicio de estudios en un centro y traslado, expedición certificados académicos.</td>
+<td>25,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2 Expedición o renovación de tarjetas de identidad de estudiantes.</td>
-<td class="cuerpo_tabla_coma">2,26</td>
+<td>4.2 Expedición o renovación de tarjetas de identidad de estudiantes.</td>
+<td>2,26</td>
 </tr>
 </tbody>
 </table>
@@ -8042,1156 +7919,1151 @@ Son contribuyentes de esta tasa las personas que se matriculen en los centros a 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_79">
-<col class="row_column_80">
-<col class="row_column_35">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas de música.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas LOE.</p>
+<p>Enseñanzas de música.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alumnado oficial de conservatorios de la red pública de la Generalitat Valenciana.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas Elementales:</p>
+<p>Enseñanzas LOE.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1.1.1</p>
+<p>1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">37,36</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Asignaturas pendientes (cada una).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">44,80</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">48,52</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pruebas para la obtención directa del certificado de enseñanzas elementales de música.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,15</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba de ingreso o acceso a las enseñanzas elementales de música.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">27,57</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas profesionales:</p>
+<p>Alumnado oficial de conservatorios de la red pública de la Generalitat Valenciana.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1.3.1</p>
+<p>1.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">56,04</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Asignaturas pendientes (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">67,21</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.3.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición curso (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">72,83</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba de acceso a las enseñanzas profesionales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,15</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas de danza.</p>
+<p>Enseñanzas Elementales:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas LOE.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1</p>
+<p>Curso completo (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alumnado oficial de conservatorios de la red pública de la Generalitat Valenciana.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas elementales:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso completo (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">49,50</p>
+<p>37,36</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.1.2</p>
+<p>1.1.1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Asignaturas pendientes (cada una).</p>
+<p>Asignaturas pendientes (cada una).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79,18</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">59,37</p>
+<p>44,80</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.1.4</p>
+<p>1.1.1.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pruebas para la obtención directa del certificado de enseñanzas elementales de danza.</p>
+<p>Repetición de curso (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,15</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba de ingreso o acceso a las enseñanzas elementales de danza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">27,57</p>
+<p>48,52</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.3</p>
+<p>1.1.1.1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas profesionales:</p>
+<p>Pruebas para la obtención directa del certificado de enseñanzas elementales de música.</p>
+</td>
+<td>
+<p>55,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1.1.5</p>
+</td>
+<td>
+<p>Prueba de ingreso o acceso a las enseñanzas elementales de música.</p>
+</td>
+<td>
+<p>27,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1.3</p>
+</td>
+<td>
+<p>Enseñanzas profesionales:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.3.1</p>
+<p>1.1.1.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo (por asignatura).</p>
+<p>Curso completo (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">74,26</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Asignaturas pendientes (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">118,81</p>
+<p>56,04</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1.3.3</p>
+<p>1.1.1.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Repetición curso (por asignatura).</p>
+<p>Asignaturas pendientes (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">89,11</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1.3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba de acceso a las enseñanzas profesionales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,15</p>
+<p>67,21</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>1.1.1.3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanza de idiomas:</p>
+<p>Repetición curso (por asignatura).</p>
 </td>
-<td> </td>
+<td>
+<p>72,83</p>
+</td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>1.1.1.3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plan de estudios del Real decreto 1629/2006, de 29 se septiembre. Establece los niveles A1, A2 (básico), B1 (intermedio), B2 (avanzado), C1 y C2:</p>
+<p>Prueba de acceso a las enseñanzas profesionales.</p>
+</td>
+<td>
+<p>55,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Enseñanzas de danza.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alumnado oficial:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula de los niveles A2, B1, B2 y C1 (por idioma y curso).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula de nivel C2 (por idioma y curso).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">105,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso de los niveles A2, B1, B2 y C1 (por idioma y curso).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">105,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">3.1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba de nivel (enseñanza presencial) o valoración inicial del alumno (enseñanza a distancia).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">3.1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula de un curso intensivo de los niveles A2, B1, B2 y C1 (por idioma y curso).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">65,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula para la prueba de certificación.</p>
+<p>Enseñanzas LOE.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1.2.1</p>
+<p>2.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Matrícula para la prueba de certificación de los niveles A2, B1, B2 y C1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">67,28</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula para la prueba de certificación del nivel C2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">94,18</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso formativo o de actualización de 120 horas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso formativo o de actualización de 60 horas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso formativo o de actualización de 30 horas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cursos especiales monográficos.</p>
+<p>Alumnado oficial de conservatorios de la red pública de la Generalitat Valenciana.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2.1</p>
+<p>2.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 30 horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">85,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Entre 30 y 60 horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">170,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de 60 horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">240,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas de arte dramático.</p>
+<p>Enseñanzas elementales:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>2.1.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas:</p>
+<p>Curso completo (por asignatura).</p>
+</td>
+<td>
+<p>49,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.1.2</p>
+</td>
+<td>
+<p>Asignaturas pendientes (cada una).</p>
+</td>
+<td>
+<p>79,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.1.3</p>
+</td>
+<td>
+<p>Repetición de curso (por asignatura).</p>
+</td>
+<td>
+<p>59,37</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.1.4</p>
+</td>
+<td>
+<p>Pruebas para la obtención directa del certificado de enseñanzas elementales de danza.</p>
+</td>
+<td>
+<p>55,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.1.5</p>
+</td>
+<td>
+<p>Prueba de ingreso o acceso a las enseñanzas elementales de danza.</p>
+</td>
+<td>
+<p>27,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.3</p>
+</td>
+<td>
+<p>Enseñanzas profesionales:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1.1</p>
+<p>2.1.1.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo (por asignatura).</p>
+<p>Curso completo (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Asignaturas pendientes (por cada una).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">91,70</p>
+<p>74,26</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.2.</p>
+<p>2.1.1.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cursos especiales monográficos:</p>
+<p>Asignaturas pendientes (por asignatura).</p>
+</td>
+<td>
+<p>118,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.3.3</p>
+</td>
+<td>
+<p>Repetición curso (por asignatura).</p>
+</td>
+<td>
+<p>89,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1.3.4</p>
+</td>
+<td>
+<p>Prueba de acceso a las enseñanzas profesionales.</p>
+</td>
+<td>
+<p>55,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Enseñanza de idiomas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.2.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta treinta horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">111,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Entre treinta y sesenta horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">222,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Más de sesenta horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">444,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas superiores de artes plásticas, de cerámica y de diseño.</p>
+<p>Plan de estudios del Real decreto 1629/2006, de 29 se septiembre. Establece los niveles A1, A2 (básico), B1 (intermedio), B2 (avanzado), C1 y C2:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1</p>
+<p>3.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso completo (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">46,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Asignaturas pendientes (por cada una).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">91,70</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.4.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proyectos finales de carrera:</p>
+<p>Alumnado oficial:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1.4.1</p>
+<p>3.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proyecto fin de carrera de estudios de cerámica.</p>
+<p>Matrícula de los niveles A2, B1, B2 y C1 (por idioma y curso).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,70</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1.4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proyecto fin de carrera de estudios de diseño.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">43,00</p>
+<p>90,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1.5</p>
+<p>3.1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exámenes extraordinarios (por asignatura).</p>
+<p>Matrícula de nivel C2 (por idioma y curso).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,50</p>
+<p>105,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.2</p>
+<p>3.1.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cursos especiales monográficos:</p>
+<p>Repetición de curso de los niveles A2, B1, B2 y C1 (por idioma y curso).</p>
+</td>
+<td>
+<p>105,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.1.4</p>
+</td>
+<td>
+<p>Prueba de nivel (enseñanza presencial) o valoración inicial del alumno (enseñanza a distancia).</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.1.5</p>
+</td>
+<td>
+<p>Matrícula de un curso intensivo de los niveles A2, B1, B2 y C1 (por idioma y curso).</p>
+</td>
+<td>
+<p>65,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.2</p>
+</td>
+<td>
+<p>Matrícula para la prueba de certificación.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.2.1</p>
+<p>3.1.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta treinta horas de duración.</p>
+<p>Matrícula para la prueba de certificación de los niveles A2, B1, B2 y C1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Entre treinta y sesenta horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">222,00</p>
+<p>67,28</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.2.3</p>
+<p>3.1.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Más de sesenta horas de duración.</p>
+<p>Matrícula para la prueba de certificación del nivel C2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">444,00</p>
+<p>94,18</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6</p>
+<p>3.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas deportivas.</p>
+<p>Curso formativo o de actualización de 120 horas.</p>
+</td>
+<td>
+<p>90,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.4</p>
+</td>
+<td>
+<p>Curso formativo o de actualización de 60 horas.</p>
+</td>
+<td>
+<p>45,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.5</p>
+</td>
+<td>
+<p>Curso formativo o de actualización de 30 horas.</p>
+</td>
+<td>
+<p>22,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>Cursos especiales monográficos.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1</p>
+<p>3.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grado medio. Técnico deportivo:</p>
+<p>Hasta 30 horas de duración.</p>
+</td>
+<td>
+<p>85,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2.2</p>
+</td>
+<td>
+<p>Entre 30 y 60 horas de duración.</p>
+</td>
+<td>
+<p>170,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2.3</p>
+</td>
+<td>
+<p>Más de 60 horas de duración.</p>
+</td>
+<td>
+<p>240,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Enseñanzas de arte dramático.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciclo inicial:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Curso completo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloque común (sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">60,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloque específico (sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">68,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloque complementario (para las enseñanzas LOGSE, sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloque de formación práctica (sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">60,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por módulo (sin curso o bloque completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">27,00</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso (por asignatura).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,25</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.1.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso (cada módulo o bloque de formación práctica).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">49,04</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ciclo final:</p>
+<p>Enseñanzas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_81">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1.2.1</p>
+<p>4.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo.</p>
+<p>Curso completo (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290,00</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloc común (sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">87,00</p>
+<p>46,50</p>
 </td>
 </tr>
-<tr class="row_column_81">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1.2.3</p>
+<p>4.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bloque específico (sin curso completo).</p>
+<p>Asignaturas pendientes (por cada una).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,00</p>
-</td>
-</tr>
-<tr class="row_column_82">
-<td>
-<p class="cuerpo_tabla_izq">6.1.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloque complementario (para las enseñanzas LOGSE, sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,00</p>
+<p>91,70</p>
 </td>
 </tr>
-<tr class="row_column_81">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1.2.5</p>
+<p>4.2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bloque de formación práctica (sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">93,00</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por módulo (sin curso o bloque completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">39,00</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.2.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de módulos / bloque formación práctica (cada uno).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,25</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.1.2.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso (cada módulo o bloque de formación práctica).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">49,04</p>
-</td>
-</tr>
-<tr class="row_column_81">
-<td>
-<p class="cuerpo_tabla_izq">6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Grado Superior. Técnico deportivo superior:</p>
+<p>Cursos especiales monográficos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.2.1</p>
+<p>4.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo:</p>
+<p>Hasta treinta horas de duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">400,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.2.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloc común (sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120,00</p>
+<p>111,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.2.1.2</p>
+<p>4.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bloque específico (sin curso completo).</p>
+<p>Entre treinta y sesenta horas de duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">6.2.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bloque complementario (para las enseñanzas LOGSE, sin curso completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>222,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.2.1.4</p>
+<p>4.2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bloque de formación práctica (sin curso completo).</p>
+<p>Más de sesenta horas de duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proyecto final (sin curso completo):</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">54,00</p>
+<p>444,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.2.2.1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por módulo (sin curso o bloque completo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">54,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6.2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de módulos / bloque formación práctica / proyecto final.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">46,84</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">6.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso (cada módulo / bloque de formación práctica/ proyecto final).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50,75</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas artísticas profesionales de artes plásticas y diseño.</p>
+<p>Enseñanzas superiores de artes plásticas, de cerámica y de diseño.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">7.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Enseñanzas de ciclos formativos de grado medio:</p>
+<p>Enseñanzas:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1.1.1</p>
+<p>5.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo.</p>
+<p>Curso completo (por asignatura).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,49</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">7.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">72,11</p>
+<p>46,50</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1.2</p>
+<p>5.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enseñanzas de ciclos formativos de grado superior:</p>
+<p>Asignaturas pendientes (por cada una).</p>
+</td>
+<td>
+<p>91,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.4.</p>
+</td>
+<td>
+<p>Proyectos finales de carrera:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1.2.1</p>
+<p>5.1.4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Curso completo.</p>
+<p>Proyecto fin de carrera de estudios de cerámica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,49</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">7.1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Repetición de curso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">72,11</p>
+<p>84,70</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.2</p>
+<p>5.1.4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cursos especiales monográficos:</p>
+<p>Proyecto fin de carrera de estudios de diseño.</p>
+</td>
+<td>
+<p>43,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1.5</p>
+</td>
+<td>
+<p>Exámenes extraordinarios (por asignatura).</p>
+</td>
+<td>
+<p>47,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.2</p>
+</td>
+<td>
+<p>Cursos especiales monográficos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.2.1</p>
+<p>5.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta treinta horas de duración.</p>
+<p>Hasta treinta horas de duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114,27</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">7.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Entre treinta y sesenta horas de duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">228,52</p>
+<p>111,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.2.3</p>
+<p>5.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Más de sesenta horas de duración.</p>
+<p>Entre treinta y sesenta horas de duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">457,09</p>
+<p>222,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.3</p>
+<p>5.2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Módulo de obra final. Proyecto integrado o proyecto final.</p>
+<p>Más de sesenta horas de duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,20</p>
+<p>444,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Enseñanzas deportivas.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>6.1</p>
+</td>
+<td>
+<p>Grado medio. Técnico deportivo:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>6.1.1</p>
+</td>
+<td>
+<p>Ciclo inicial:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.1</p>
+</td>
+<td>
+<p>Curso completo.</p>
+</td>
+<td>
+<p>200,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.2</p>
+</td>
+<td>
+<p>Bloque común (sin curso completo).</p>
+</td>
+<td>
+<p>60,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.3</p>
+</td>
+<td>
+<p>Bloque específico (sin curso completo).</p>
+</td>
+<td>
+<p>68,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.4</p>
+</td>
+<td>
+<p>Bloque complementario (para las enseñanzas LOGSE, sin curso completo).</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.5</p>
+</td>
+<td>
+<p>Bloque de formación práctica (sin curso completo).</p>
+</td>
+<td>
+<p>60,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.6</p>
+</td>
+<td>
+<p>Por módulo (sin curso o bloque completo).</p>
+</td>
+<td>
+<p>27,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.7</p>
+</td>
+<td>
+<p>Repetición de curso (por asignatura).</p>
+</td>
+<td>
+<p>45,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.1.8</p>
+</td>
+<td>
+<p>Repetición de curso (cada módulo o bloque de formación práctica).</p>
+</td>
+<td>
+<p>49,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2</p>
+</td>
+<td>
+<p>Ciclo final:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.1</p>
+</td>
+<td>
+<p>Curso completo.</p>
+</td>
+<td>
+<p>290,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.2</p>
+</td>
+<td>
+<p>Bloc común (sin curso completo).</p>
+</td>
+<td>
+<p>87,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.3</p>
+</td>
+<td>
+<p>Bloque específico (sin curso completo).</p>
+</td>
+<td>
+<p>98,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.4</p>
+</td>
+<td>
+<p>Bloque complementario (para las enseñanzas LOGSE, sin curso completo).</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.5</p>
+</td>
+<td>
+<p>Bloque de formación práctica (sin curso completo).</p>
+</td>
+<td>
+<p>93,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.6</p>
+</td>
+<td>
+<p>Por módulo (sin curso o bloque completo).</p>
+</td>
+<td>
+<p>39,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.7</p>
+</td>
+<td>
+<p>Repetición de módulos / bloque formación práctica (cada uno).</p>
+</td>
+<td>
+<p>45,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.1.2.8</p>
+</td>
+<td>
+<p>Repetición de curso (cada módulo o bloque de formación práctica).</p>
+</td>
+<td>
+<p>49,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2</p>
+</td>
+<td>
+<p>Grado Superior. Técnico deportivo superior:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>6.2.1</p>
+</td>
+<td>
+<p>Curso completo:</p>
+</td>
+<td>
+<p>400,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.1.1</p>
+</td>
+<td>
+<p>Bloc común (sin curso completo).</p>
+</td>
+<td>
+<p>120,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.1.2</p>
+</td>
+<td>
+<p>Bloque específico (sin curso completo).</p>
+</td>
+<td>
+<p>136,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.1.3</p>
+</td>
+<td>
+<p>Bloque complementario (para las enseñanzas LOGSE, sin curso completo).</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.1.4</p>
+</td>
+<td>
+<p>Bloque de formación práctica (sin curso completo).</p>
+</td>
+<td>
+<p>129,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.2</p>
+</td>
+<td>
+<p>Proyecto final (sin curso completo):</p>
+</td>
+<td>
+<p>54,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.2.1</p>
+</td>
+<td>
+<p>Por módulo (sin curso o bloque completo).</p>
+</td>
+<td>
+<p>54,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.3</p>
+</td>
+<td>
+<p>Repetición de módulos / bloque formación práctica / proyecto final.</p>
+</td>
+<td>
+<p>46,84</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2.4</p>
+</td>
+<td>
+<p>Repetición de curso (cada módulo / bloque de formación práctica/ proyecto final).</p>
+</td>
+<td>
+<p>50,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Enseñanzas artísticas profesionales de artes plásticas y diseño.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>7.1</p>
+</td>
+<td>
+<p>Enseñanzas:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>7.1.1</p>
+</td>
+<td>
+<p>Enseñanzas de ciclos formativos de grado medio:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>7.1.1.1</p>
+</td>
+<td>
+<p>Curso completo.</p>
+</td>
+<td>
+<p>55,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.1.1.2</p>
+</td>
+<td>
+<p>Repetición de curso.</p>
+</td>
+<td>
+<p>72,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.1.2</p>
+</td>
+<td>
+<p>Enseñanzas de ciclos formativos de grado superior:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>7.1.2.1</p>
+</td>
+<td>
+<p>Curso completo.</p>
+</td>
+<td>
+<p>55,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.1.2.2</p>
+</td>
+<td>
+<p>Repetición de curso.</p>
+</td>
+<td>
+<p>72,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.2</p>
+</td>
+<td>
+<p>Cursos especiales monográficos:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>7.2.1</p>
+</td>
+<td>
+<p>Hasta treinta horas de duración.</p>
+</td>
+<td>
+<p>114,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.2.2</p>
+</td>
+<td>
+<p>Entre treinta y sesenta horas de duración.</p>
+</td>
+<td>
+<p>228,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.2.3</p>
+</td>
+<td>
+<p>Más de sesenta horas de duración.</p>
+</td>
+<td>
+<p>457,09</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.3</p>
+</td>
+<td>
+<p>Módulo de obra final. Proyecto integrado o proyecto final.</p>
+</td>
+<td>
+<p>48,20</p>
 </td>
 </tr>
 </tbody>
@@ -9458,261 +9330,256 @@ Son contribuyentes de esta tasa los solicitantes de los servicios que constituye
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="74%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">(euros)</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq">Formación de expedientes de convalidación de estudios realizados en el extranjero (cada uno).</td>
-<td class="cuerpo_tabla_coma">24,35</td>
+<td>1</td>
+<td>Formación de expedientes de convalidación de estudios realizados en el extranjero (cada uno).</td>
+<td>24,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq">Expedición e impresión de títulos, certificaciones y diplomas académicos, docentes y profesionales:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2</td>
+<td>Expedición e impresión de títulos, certificaciones y diplomas académicos, docentes y profesionales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1</td>
-<td class="cuerpo_tabla_izq">Título de bachillerato.</td>
-<td class="cuerpo_tabla_coma">45,35</td>
+<td>2.1</td>
+<td>Título de bachillerato.</td>
+<td>45,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2</td>
-<td class="cuerpo_tabla_izq">Título técnico.</td>
-<td class="cuerpo_tabla_coma">20,99</td>
+<td>2.2</td>
+<td>Título técnico.</td>
+<td>20,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3</td>
-<td class="cuerpo_tabla_izq">Título de especialista de formación profesional.</td>
-<td class="cuerpo_tabla_coma">18</td>
+<td>2.3</td>
+<td>Título de especialista de formación profesional.</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4</td>
-<td class="cuerpo_tabla_izq">Título de técnico superior.</td>
-<td class="cuerpo_tabla_coma">51,66</td>
+<td>2.4</td>
+<td>Título de técnico superior.</td>
+<td>51,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.5</td>
-<td class="cuerpo_tabla_izq">Título de máster de formación profesional.</td>
-<td class="cuerpo_tabla_coma">39</td>
+<td>2.5</td>
+<td>Título de máster de formación profesional.</td>
+<td>39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.6</td>
-<td class="cuerpo_tabla_izq">Título superior de arte dramático.</td>
-<td class="cuerpo_tabla_coma">128,60</td>
+<td>2.6</td>
+<td>Título superior de arte dramático.</td>
+<td>128,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.7</td>
-<td class="cuerpo_tabla_izq">Título de diseño.</td>
-<td class="cuerpo_tabla_coma">62,67</td>
+<td>2.7</td>
+<td>Título de diseño.</td>
+<td>62,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.8</td>
-<td class="cuerpo_tabla_izq">Título profesional de música (LOE), título técnico en enseñanzas profesionales de música en la especialidad de.. (LOMCE).</td>
-<td class="cuerpo_tabla_coma">21,81</td>
+<td>2.8</td>
+<td>Título profesional de música (LOE), título técnico en enseñanzas profesionales de música en la especialidad de.. (LOMCE).</td>
+<td>21,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.9</td>
-<td class="cuerpo_tabla_izq">Título profesional de danza, título técnico en enseñanzas profesionales de danza en la especialidad de.. (LOMCE).</td>
-<td class="cuerpo_tabla_coma">21,81</td>
+<td>2.9</td>
+<td>Título profesional de danza, título técnico en enseñanzas profesionales de danza en la especialidad de.. (LOMCE).</td>
+<td>21,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.10</td>
-<td class="cuerpo_tabla_izq">Título superior de danza.</td>
-<td class="cuerpo_tabla_coma">128,80</td>
+<td>2.10</td>
+<td>Título superior de danza.</td>
+<td>128,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.11</td>
-<td class="cuerpo_tabla_izq">Título superior de música.</td>
-<td class="cuerpo_tabla_coma">128,80</td>
+<td>2.11</td>
+<td>Título superior de música.</td>
+<td>128,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.12</td>
-<td class="cuerpo_tabla_izq">Título de conservación y restauración de bienes culturales.</td>
-<td class="cuerpo_tabla_coma">62,67</td>
+<td>2.12</td>
+<td>Título de conservación y restauración de bienes culturales.</td>
+<td>62,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.13</td>
-<td class="cuerpo_tabla_izq">Título superior de cerámica.</td>
-<td class="cuerpo_tabla_coma">62,67</td>
+<td>2.13</td>
+<td>Título superior de cerámica.</td>
+<td>62,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.14</td>
-<td class="cuerpo_tabla_izq">Título de técnico deportivo.</td>
-<td class="cuerpo_tabla_coma">21,08</td>
+<td>2.14</td>
+<td>Título de técnico deportivo.</td>
+<td>21,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.15</td>
-<td class="cuerpo_tabla_izq">Título de técnico deportivo superior.</td>
-<td class="cuerpo_tabla_coma">51,66</td>
+<td>2.15</td>
+<td>Título de técnico deportivo superior.</td>
+<td>51,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.16</td>
-<td class="cuerpo_tabla_izq">Expedición de duplicados de los títulos a petición de los interesados y por causas imputables a éstos:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.16</td>
+<td>Expedición de duplicados de los títulos a petición de los interesados y por causas imputables a éstos:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.16.1</td>
-<td class="cuerpo_tabla_izq">Duplicados de título de graduado en educación secundaria.</td>
-<td class="cuerpo_tabla_coma">12,33</td>
+<td>2.16.1</td>
+<td>Duplicados de título de graduado en educación secundaria.</td>
+<td>12,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.16.2</td>
-<td class="cuerpo_tabla_izq">Duplicado del título de graduado en educación secundaria obligatoria (LOE).</td>
-<td class="cuerpo_tabla_coma">12,33</td>
+<td>2.16.2</td>
+<td>Duplicado del título de graduado en educación secundaria obligatoria (LOE).</td>
+<td>12,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.16.3</td>
-<td class="cuerpo_tabla_izq">Duplicado del título de formación profesional básica.</td>
-<td class="cuerpo_tabla_coma">12,33</td>
+<td>2.16.3</td>
+<td>Duplicado del título de formación profesional básica.</td>
+<td>12,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.16.4</td>
-<td class="cuerpo_tabla_izq">Resto de duplicados.</td>
-<td class="cuerpo_tabla_centro">Mismo importe que para su expedición</td>
+<td>2.16.4</td>
+<td>Resto de duplicados.</td>
+<td>Mismo importe que para su expedición</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.17</td>
-<td class="cuerpo_tabla_izq">Certificado de superación del primer nivel del grado medio de enseñanzas deportivas.</td>
-<td class="cuerpo_tabla_coma">11,51</td>
+<td>2.17</td>
+<td>Certificado de superación del primer nivel del grado medio de enseñanzas deportivas.</td>
+<td>11,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3</td>
-<td class="cuerpo_tabla_izq">Expedición del libro de calificaciones.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3</td>
+<td>Expedición del libro de calificaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1</td>
-<td class="cuerpo_tabla_izq">Libro de calificaciones de enseñanzas profesionales de música o de danza / expedición del historial académico del alumno, correspondiente a enseñanzas LOE de música y danza.</td>
-<td class="cuerpo_tabla_coma">4,28</td>
+<td>3.1</td>
+<td>Libro de calificaciones de enseñanzas profesionales de música o de danza / expedición del historial académico del alumno, correspondiente a enseñanzas LOE de música y danza.</td>
+<td>4,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2</td>
-<td class="cuerpo_tabla_izq">Expedición del libro de calificaciones de las enseñanzas profesionales de música y de danza correspondiente a enseñanzas LOE.</td>
-<td class="cuerpo_tabla_coma">4,28</td>
+<td>3.2</td>
+<td>Expedición del libro de calificaciones de las enseñanzas profesionales de música y de danza correspondiente a enseñanzas LOE.</td>
+<td>4,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4</td>
-<td class="cuerpo_tabla_izq">Expedición de certificaciones académicas.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4</td>
+<td>Expedición de certificaciones académicas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1</td>
-<td class="cuerpo_tabla_izq">Certificaciones académicas y certificados a efectos de traslados de las enseñanzas de bachillerato, formación profesional, y enseñanzas artísticas profesionales y enseñanzas deportivas en régimen especial (excepto relativas al libro de calificaciones).</td>
-<td class="cuerpo_tabla_coma">2,14</td>
+<td>4.1</td>
+<td>Certificaciones académicas y certificados a efectos de traslados de las enseñanzas de bachillerato, formación profesional, y enseñanzas artísticas profesionales y enseñanzas deportivas en régimen especial (excepto relativas al libro de calificaciones).</td>
+<td>2,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2</td>
-<td class="cuerpo_tabla_izq">Certificaciones académicas correspondientes a enseñanzas LOGSE de grado superior de música, danza, arte dramático y enseñanzas superiores de artes plásticas y diseño (incluidos los certificados a efectos de traslados).</td>
-<td class="cuerpo_tabla_coma">19,77</td>
+<td>4.2</td>
+<td>Certificaciones académicas correspondientes a enseñanzas LOGSE de grado superior de música, danza, arte dramático y enseñanzas superiores de artes plásticas y diseño (incluidos los certificados a efectos de traslados).</td>
+<td>19,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3</td>
-<td class="cuerpo_tabla_izq">Certificación de competencias profesionales.</td>
-<td class="cuerpo_tabla_coma">3,36</td>
+<td>4.3</td>
+<td>Certificación de competencias profesionales.</td>
+<td>3,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4</td>
-<td class="cuerpo_tabla_izq">Certificados académicos referidos a enseñanzas de idiomas.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4.4</td>
+<td>Certificados académicos referidos a enseñanzas de idiomas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.1</td>
-<td class="cuerpo_tabla_izq">Certificado (o un duplicado) de superación del nivel A2 del Marco europeo común de referencia (MECR) a través de la prueba de certificación o prueba homologada en centros de educación secundaria y formación profesional.</td>
-<td class="cuerpo_tabla_coma">14,00</td>
+<td>4.4.1</td>
+<td>Certificado (o un duplicado) de superación del nivel A2 del Marco europeo común de referencia (MECR) a través de la prueba de certificación o prueba homologada en centros de educación secundaria y formación profesional.</td>
+<td>14,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.2</td>
-<td class="cuerpo_tabla_izq">Certificado (o un duplicado) de superación del nivel B1 del MCER.</td>
-<td class="cuerpo_tabla_coma">18,46</td>
+<td>4.4.2</td>
+<td>Certificado (o un duplicado) de superación del nivel B1 del MCER.</td>
+<td>18,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.3</td>
-<td class="cuerpo_tabla_izq">Certificado (o un duplicado) de superación del nivel B2 del MCER.</td>
-<td class="cuerpo_tabla_coma">23,29</td>
+<td>4.4.3</td>
+<td>Certificado (o un duplicado) de superación del nivel B2 del MCER.</td>
+<td>23,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.4</td>
-<td class="cuerpo_tabla_izq">Certificado (o un duplicado) de superación de los niveles C1 o C2 del MCER.</td>
-<td class="cuerpo_tabla_coma">23,29</td>
+<td>4.4.4</td>
+<td>Certificado (o un duplicado) de superación de los niveles C1 o C2 del MCER.</td>
+<td>23,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.5</td>
-<td class="cuerpo_tabla_izq">Certificados académicos y traslado de expediente de enseñanzas de idiomas.</td>
-<td class="cuerpo_tabla_coma">2,50</td>
+<td>4.4.5</td>
+<td>Certificados académicos y traslado de expediente de enseñanzas de idiomas.</td>
+<td>2,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.6</td>
-<td class="cuerpo_tabla_izq">Certificado de aptitud del ciclo superior de idiomas (B2).</td>
-<td class="cuerpo_tabla_coma">24,54</td>
+<td>4.4.6</td>
+<td>Certificado de aptitud del ciclo superior de idiomas (B2).</td>
+<td>24,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4.7</td>
-<td class="cuerpo_tabla_izq">Certificado del ciclo elemental (B1).</td>
-<td class="cuerpo_tabla_coma">18,46</td>
+<td>4.4.7</td>
+<td>Certificado del ciclo elemental (B1).</td>
+<td>18,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.5</td>
-<td class="cuerpo_tabla_izq">Certificado supletorio provisional del título.</td>
-<td class="cuerpo_tabla_coma">2,21</td>
+<td>4.5</td>
+<td>Certificado supletorio provisional del título.</td>
+<td>2,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5</td>
-<td class="cuerpo_tabla_izq">Expedición o renovación de tarjetas de identidad de alumnos (excepto para cursar enseñanzas obligatorias).</td>
-<td class="cuerpo_tabla_coma">2,26</td>
+<td>5</td>
+<td>Expedición o renovación de tarjetas de identidad de alumnos (excepto para cursar enseñanzas obligatorias).</td>
+<td>2,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6</td>
-<td class="cuerpo_tabla_izq">Expedición del carnet de mediateca lingüística.</td>
-<td class="cuerpo_tabla_coma">26,49</td>
+<td>6</td>
+<td>Expedición del carnet de mediateca lingüística.</td>
+<td>26,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7</td>
-<td class="cuerpo_tabla_izq">Apertura de expedientes correspondientes a las enseñanzas profesionales de música y de danza, enseñanzas profesionales de artes plásticas y diseño, idiomas y enseñanzas deportivas.</td>
-<td class="cuerpo_tabla_coma">25,98</td>
+<td>7</td>
+<td>Apertura de expedientes correspondientes a las enseñanzas profesionales de música y de danza, enseñanzas profesionales de artes plásticas y diseño, idiomas y enseñanzas deportivas.</td>
+<td>25,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8</td>
-<td class="cuerpo_tabla_izq">Expedición del historial académico del alumno, correspondiente a enseñanzas LOE de bachillerato.</td>
-<td class="cuerpo_tabla_coma">4,28</td>
+<td>8</td>
+<td>Expedición del historial académico del alumno, correspondiente a enseñanzas LOE de bachillerato.</td>
+<td>4,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9</td>
-<td class="cuerpo_tabla_izq">Expedición del informe de evaluación individualizado, correspondiente a enseñanzas LOE de formación profesional y enseñanzas artísticas de régimen especial.</td>
-<td class="cuerpo_tabla_coma">4,08</td>
+<td>9</td>
+<td>Expedición del informe de evaluación individualizado, correspondiente a enseñanzas LOE de formación profesional y enseñanzas artísticas de régimen especial.</td>
+<td>4,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10</td>
-<td class="cuerpo_tabla_izq">Inscripción a la prueba de acceso de carácter específico al ciclo de grado inicial de enseñanzas deportivas.</td>
-<td class="cuerpo_tabla_coma">22,72</td>
+<td>10</td>
+<td>Inscripción a la prueba de acceso de carácter específico al ciclo de grado inicial de enseñanzas deportivas.</td>
+<td>22,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11</td>
-<td class="cuerpo_tabla_izq">Inscripción a la prueba de acceso de carácter específico al grado final de enseñanzas deportivas.</td>
-<td class="cuerpo_tabla_coma">22,93</td>
+<td>11</td>
+<td>Inscripción a la prueba de acceso de carácter específico al grado final de enseñanzas deportivas.</td>
+<td>22,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12</td>
-<td class="cuerpo_tabla_izq">Inscripción a las pruebas de acceso a las enseñanzas deportivas de grado medio (LOE) y a las formaciones deportivas de nivel I.</td>
-<td class="cuerpo_tabla_coma">22,93</td>
+<td>12</td>
+<td>Inscripción a las pruebas de acceso a las enseñanzas deportivas de grado medio (LOE) y a las formaciones deportivas de nivel I.</td>
+<td>22,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13</td>
-<td class="cuerpo_tabla_izq">Inscripción a las pruebas de acceso a las enseñanzas deportiva de grado superior (LOE) y a las formaciones deportivas de nivel III.</td>
-<td class="cuerpo_tabla_coma">22,93</td>
+<td>13</td>
+<td>Inscripción a las pruebas de acceso a las enseñanzas deportiva de grado superior (LOE) y a las formaciones deportivas de nivel III.</td>
+<td>22,93</td>
 </tr>
 </tbody>
 </table>
@@ -9775,65 +9642,60 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_88">
-<col class="row_column_89">
-<col class="row_column_48">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe en euros</p>
+<p>Importe en euros</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y reconocimiento de instalaciones fijas, sistemas de saneamiento y depuración de la Comunitat Valenciana, y realización de informes de estado y funcionamiento, aptitud, conexión, comprobación de conexión, afección o desvío, o viabilidad técnica de las anteriores circunstancias con visita y datos de campo.</p>
+<p>Inspección y reconocimiento de instalaciones fijas, sistemas de saneamiento y depuración de la Comunitat Valenciana, y realización de informes de estado y funcionamiento, aptitud, conexión, comprobación de conexión, afección o desvío, o viabilidad técnica de las anteriores circunstancias con visita y datos de campo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200,00</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Realización de los informes detallados en el epígrafe 1 sin datos de campo o de datos e informes analíticos y técnicos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80,00</p>
+<p>200,00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de certificados, copias de informes, actas de constancia de hechos y diligenciado o compulsa de documentos.</p>
+<p>Realización de los informes detallados en el epígrafe 1 sin datos de campo o de datos e informes analíticos y técnicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>80,00</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de copias de resultados analíticos relativos a instalaciones públicas –boletines de resultados de las EDAR u otros– (por boletín).</p>
+<p>Expedición de certificados, copias de informes, actas de constancia de hechos y diligenciado o compulsa de documentos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Expedición de copias de resultados analíticos relativos a instalaciones públicas –boletines de resultados de las EDAR u otros– (por boletín).</p>
+</td>
+<td>
+<p>2,00</p>
 </td>
 </tr>
 </tbody>
@@ -9929,61 +9791,56 @@ Son contribuyentes de esta tasa las personas físicas o jurídicas que soliciten
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla">
-<colgroup>
-<col width="3%">
-<col width="77%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">(euros)</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Por la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>Por la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCA tipo A.</td>
-<td class="cuerpo_tabla_coma">101,90</td>
+<td> </td>
+<td>OCA tipo A.</td>
+<td>101,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCA tipo B.</td>
-<td class="cuerpo_tabla_coma">152,85</td>
+<td> </td>
+<td>OCA tipo B.</td>
+<td>152,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCA tipo C.</td>
-<td class="cuerpo_tabla_coma">203,80</td>
+<td> </td>
+<td>OCA tipo C.</td>
+<td>203,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Por la renovación de la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2</td>
+<td>Por la renovación de la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCA tipo A.</td>
-<td class="cuerpo_tabla_coma">25,48</td>
+<td> </td>
+<td>OCA tipo A.</td>
+<td>25,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCA tipo B.</td>
-<td class="cuerpo_tabla_coma">50,95</td>
+<td> </td>
+<td>OCA tipo B.</td>
+<td>50,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">OCA tipo C.</td>
-<td class="cuerpo_tabla_coma">76,43</td>
+<td> </td>
+<td>OCA tipo C.</td>
+<td>76,43</td>
 </tr>
 </tbody>
 </table>
@@ -10026,93 +9883,88 @@ Son contribuyentes de esta tasa las personas físicas o jurídicas que soliciten
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_47">
-<col class="row_column_90">
-<col class="row_column_54">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">OCA tipo A.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100 </p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">OCA tipo B.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">150 </p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">OCA tipo C.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">200 </p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por la renovación de la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</p>
+<p>Por la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">OCA tipo A.</p>
+<p>OCA tipo A.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25 </p>
+<p>100 </p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">OCA tipo B.</p>
+<p>OCA tipo B.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50 </p>
+<p>150 </p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">OCA tipo C.</p>
+<p>OCA tipo C.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75 </p>
+<p>200 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Por la renovación de la inscripción en el Registro de Organismos de Certificación Administrativa (OCA).</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>OCA tipo A.</p>
+</td>
+<td>
+<p>25 </p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>OCA tipo B.</p>
+</td>
+<td>
+<p>50 </p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>OCA tipo C.</p>
+</td>
+<td>
+<p>75 </p>
 </td>
 </tr>
 </tbody>
@@ -10174,132 +10026,127 @@ Son contribuyentes de esta tasa las personas que, a petición propia o por imper
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_91">
-<col class="row_column_22">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Documentos:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de copias, reproducción o impresión en papel:</p>
+<p>Documentos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Papel tamaño DIN A4 y folio:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En blanco y negro (por hoja, a 1 o 2 caras).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,06</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En color (por hoja, a 1 o 2 caras).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,18</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Papel tamaño DIN A3:</p>
+<p>Expedición de copias, reproducción o impresión en papel:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.2.1</p>
+<p>1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En blanco y negro (por hoja, a 1 o 2 caras).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,07</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En color (por hoja, a 1 o 2 caras).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,20</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de copias o reproducción en formato digital (por página).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,05</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Planos:</p>
+<p>Papel tamaño DIN A4 y folio:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de copias o reproducción de planos.</p>
+<p>En blanco y negro (por hoja, a 1 o 2 caras).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,50</p>
+<p>0,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1.2</p>
+</td>
+<td>
+<p>En color (por hoja, a 1 o 2 caras).</p>
+</td>
+<td>
+<p>0,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2</p>
+</td>
+<td>
+<p>Papel tamaño DIN A3:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>1.1.2.1</p>
+</td>
+<td>
+<p>En blanco y negro (por hoja, a 1 o 2 caras).</p>
+</td>
+<td>
+<p>0,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2.2</p>
+</td>
+<td>
+<p>En color (por hoja, a 1 o 2 caras).</p>
+</td>
+<td>
+<p>0,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2</p>
+</td>
+<td>
+<p>Expedición de copias o reproducción en formato digital (por página).</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Planos:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1</p>
+</td>
+<td>
+<p>Expedición de copias o reproducción de planos.</p>
+</td>
+<td>
+<p>4,50</p>
 </td>
 </tr>
 </tbody>
@@ -10341,202 +10188,197 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios a los q
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_92">
-<col class="row_column_60">
-<col class="row_column_22">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_16">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe unitario (euros)</p>
+<p>Importe unitario (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Admisión a pruebas selectivas derivadas de ofertas de empleo público.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subgrupo A1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">30,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subgrupo A2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">25,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Grupo B.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">20,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subgrupo C1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subgrupo C2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">10,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Agrupación profesional funcionarial.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">6,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Admisión a pruebas selectivas para la constitución de bolsas libres.</p>
+<p>Admisión a pruebas selectivas derivadas de ofertas de empleo público.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subgrupo A1.</p>
+<p>Subgrupo A1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">15,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subgrupo A2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">12,50</p>
+<p>30,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grupo B.</p>
+<p>Subgrupo A2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Subgrupo C1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">7,50</p>
+<p>25,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.5</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Subgrupo C2.</p>
+<p>Grupo B.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Agrupación profesional funcionarial.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">3,00</p>
+<p>20,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros.</p>
+<p>Subgrupo C1.</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Subgrupo C2.</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Agrupación profesional funcionarial.</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Admisión a pruebas selectivas para la constitución de bolsas libres.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de certificados de hojas de servicio por parte del registro de personal adscrito a la dirección competente en materia de función pública.</p>
+<p>Subgrupo A1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2,00</p>
+<p>15,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compulsa de documentos.</p>
+<p>Subgrupo A2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,00</p>
+<p>12,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Grupo B.</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Subgrupo C1.</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Subgrupo C2.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Agrupación profesional funcionarial.</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Otros.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Expedición de certificados de hojas de servicio por parte del registro de personal adscrito a la dirección competente en materia de función pública.</p>
+</td>
+<td>
+<p>2,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>Compulsa de documentos.</p>
+</td>
+<td>
+<p>1,00</p>
 </td>
 </tr>
 </tbody>
@@ -10598,251 +10440,246 @@ Son contribuyentes de esta tasa las personas que soliciten o a las que se preste
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de producción (excluidas aquellas destinadas a autoconsumo en las modalidades: sin excedentes y con excedentes de potencia instalada no mayor de 100 kW), transporte y distribución de energía eléctrica y líneas directas y de particulares en alta tensión para uso exclusivo de los consumidores que no tengan el carácter de instalación interior, instalaciones de almacenamiento, regasificación/licuefacción, transporte y distribución de gases combustibles y líneas directas, instalaciones de transporte y de almacenamiento (para prestar servicio a operadores al por mayor) de productos petrolíferos líquidos e instalaciones radiactivas de segunda y tercera categoría:</td>
+<td>1</td>
+<td colspan="2">Instalaciones de producción (excluidas aquellas destinadas a autoconsumo en las modalidades: sin excedentes y con excedentes de potencia instalada no mayor de 100 kW), transporte y distribución de energía eléctrica y líneas directas y de particulares en alta tensión para uso exclusivo de los consumidores que no tengan el carácter de instalación interior, instalaciones de almacenamiento, regasificación/licuefacción, transporte y distribución de gases combustibles y líneas directas, instalaciones de transporte y de almacenamiento (para prestar servicio a operadores al por mayor) de productos petrolíferos líquidos e instalaciones radiactivas de segunda y tercera categoría:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.1</td>
-<td class="cuerpo_tabla_izq">Cuando requieran autorización administrativa (previa, de construcción, de modificación, de ampliación, de funcionamiento/explotación, de cierre o transmisión) y cada prórroga de estas que se solicite:</td>
-<td class="cuerpo_tabla_izq">Se aplicará una cantidad fija de 109,54 euros, sin perjuicio de la cantidad adicional que se regula en el punto 1.2 siguiente. Esta cantidad adicional no se aplicará a las prórrogas.</td>
+<td>1.1</td>
+<td>Cuando requieran autorización administrativa (previa, de construcción, de modificación, de ampliación, de funcionamiento/explotación, de cierre o transmisión) y cada prórroga de estas que se solicite:</td>
+<td>Se aplicará una cantidad fija de 109,54 euros, sin perjuicio de la cantidad adicional que se regula en el punto 1.2 siguiente. Esta cantidad adicional no se aplicará a las prórrogas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.2</td>
-<td class="cuerpo_tabla_izq">Excepto para cuando se trate de autorizaciones de transmisión o cambios de titularidad que no requieran autorización administrativa, en los casos de haber aplicado la cantidad fijada en el punto 1.1 se aplicará adicionalmente la siguiente cantidad:</td>
-<td class="cuerpo_tabla_izq">En función del presupuesto que figure en la preceptiva documentación técnica a presentar en el correspondiente procedimiento administrativo, 45,55 euros, por los primeros 6.600 euros de dicho presupuesto, y 12,02 euros, por cada 6.600 euros o fracción adicional de aquel.</td>
+<td>1.2</td>
+<td>Excepto para cuando se trate de autorizaciones de transmisión o cambios de titularidad que no requieran autorización administrativa, en los casos de haber aplicado la cantidad fijada en el punto 1.1 se aplicará adicionalmente la siguiente cantidad:</td>
+<td>En función del presupuesto que figure en la preceptiva documentación técnica a presentar en el correspondiente procedimiento administrativo, 45,55 euros, por los primeros 6.600 euros de dicho presupuesto, y 12,02 euros, por cada 6.600 euros o fracción adicional de aquel.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.3</td>
-<td class="cuerpo_tabla_izq">Cambios de titularidad que no requieran autorización administrativa:</td>
-<td class="cuerpo_tabla_izq">30,67 euros, cada uno.</td>
+<td>1.3</td>
+<td>Cambios de titularidad que no requieran autorización administrativa:</td>
+<td>30,67 euros, cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.4</td>
-<td class="cuerpo_tabla_izq">Autorización administrativa previa y autorización administrativa de construcción para el alta o modificación de instalaciones del grupo segundo del Decreto 88/2005, de 29 de abril, del Consell de la Generalitat, por el que se establecen los procedimientos de autorización de instalaciones de producción, transporte y distribución de energía eléctrica que no requieran DUP ni evaluación ambiental y que presenten una certificación del número de actuaciones documental acreditada.</td>
-<td class="cuerpo_tabla_centro">160 €. En el caso de agrupación, la tasa se multiplicará por el número de actuaciones.</td>
+<td>1.4</td>
+<td>Autorización administrativa previa y autorización administrativa de construcción para el alta o modificación de instalaciones del grupo segundo del Decreto 88/2005, de 29 de abril, del Consell de la Generalitat, por el que se establecen los procedimientos de autorización de instalaciones de producción, transporte y distribución de energía eléctrica que no requieran DUP ni evaluación ambiental y que presenten una certificación del número de actuaciones documental acreditada.</td>
+<td>160 €. En el caso de agrupación, la tasa se multiplicará por el número de actuaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.5</td>
-<td class="cuerpo_tabla_izq">Autorización de explotación para el alta o modificación de instalaciones del grupo 70 segundo del Decreto 88/2005, de 29 de abril, del Consell de la Generalitat, por el que se establecen los procedimientos de autorización de instalaciones de producción, transporte y distribución de energía eléctrica que no requieran DUP ni evaluación ambiental y que presenten una certificación documental acreditada.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">70 €. En el caso de agrupación, la tasa se multiplicará por el número de actuaciones.</p>
+<td>1.5</td>
+<td>Autorización de explotación para el alta o modificación de instalaciones del grupo 70 segundo del Decreto 88/2005, de 29 de abril, del Consell de la Generalitat, por el que se establecen los procedimientos de autorización de instalaciones de producción, transporte y distribución de energía eléctrica que no requieran DUP ni evaluación ambiental y que presenten una certificación documental acreditada.</td>
+<td>
+<p>70 €. En el caso de agrupación, la tasa se multiplicará por el número de actuaciones.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq" colspan="2">Expedición de certificados y documentos.</td>
+<td>4</td>
+<td colspan="2">Expedición de certificados y documentos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.1</td>
-<td class="cuerpo_tabla_izq">Por solicitud de presentación a exámenes de instaladores y mantenedores.</td>
-<td class="cuerpo_tabla_coma">32,00</td>
+<td>4.1</td>
+<td>Por solicitud de presentación a exámenes de instaladores y mantenedores.</td>
+<td>32,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.3</td>
-<td class="cuerpo_tabla_izq">Renovaciones y prórrogas.</td>
-<td class="cuerpo_tabla_izq">7,95 euros cada una.</td>
+<td>4.3</td>
+<td>Renovaciones y prórrogas.</td>
+<td>7,95 euros cada una.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.4</td>
-<td class="cuerpo_tabla_izq">Certificados de puesta en práctica de patentes, tráfico de perfeccionamiento.</td>
-<td class="cuerpo_tabla_izq">51,56 euros cada uno.</td>
+<td>4.4</td>
+<td>Certificados de puesta en práctica de patentes, tráfico de perfeccionamiento.</td>
+<td>51,56 euros cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.5</td>
-<td class="cuerpo_tabla_izq" colspan="2">Otros certificados:</td>
+<td>4.5</td>
+<td colspan="2">Otros certificados:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.5.1</td>
-<td class="cuerpo_tabla_izq">Certificados simples.</td>
-<td class="cuerpo_tabla_izq">10,50 euros, cada uno.</td>
+<td>4.5.1</td>
+<td>Certificados simples.</td>
+<td>10,50 euros, cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.5.2</td>
-<td class="cuerpo_tabla_izq">Certificados técnicos.</td>
-<td class="cuerpo_tabla_izq">16,20 euros, cada uno.</td>
+<td>4.5.2</td>
+<td>Certificados técnicos.</td>
+<td>16,20 euros, cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.6</td>
-<td class="cuerpo_tabla_izq">Registros especiales (excluidas las inscripciones en registros administrativos relativas a instalaciones destinadas al autoconsumo eléctrico de cualquier tipo y modalidad).</td>
-<td class="cuerpo_tabla_izq">38,31 euros, por inscripción.</td>
+<td>4.6</td>
+<td>Registros especiales (excluidas las inscripciones en registros administrativos relativas a instalaciones destinadas al autoconsumo eléctrico de cualquier tipo y modalidad).</td>
+<td>38,31 euros, por inscripción.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.8</td>
-<td class="cuerpo_tabla_izq">Copia de proyectos y duplicados de expedientes</td>
-<td class="cuerpo_tabla_coma">120</td>
+<td>4.8</td>
+<td>Copia de proyectos y duplicados de expedientes</td>
+<td>120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.9</td>
-<td class="cuerpo_tabla_izq">Calificación como vehículo histórico.</td>
-<td class="cuerpo_tabla_coma">67,66</td>
+<td>4.9</td>
+<td>Calificación como vehículo histórico.</td>
+<td>67,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.10</td>
-<td class="cuerpo_tabla_izq">Expedición de duplicados de documentos oficiales.</td>
-<td class="cuerpo_tabla_izq">10,50 euros, cada uno.</td>
+<td>4.10</td>
+<td>Expedición de duplicados de documentos oficiales.</td>
+<td>10,50 euros, cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Tramitación de expedientes de expropiación forzosa de bienes e imposición de servidumbres de paso.</td>
-<td class="cuerpo_tabla_izq">384,57 euros como cantidad mínima o bien, si en función del número de parcelas se supera dicha cantidad, se aplicará a 33,93 euros por cada parcela afectada</td>
+<td>5</td>
+<td>Tramitación de expedientes de expropiación forzosa de bienes e imposición de servidumbres de paso.</td>
+<td>384,57 euros como cantidad mínima o bien, si en función del número de parcelas se supera dicha cantidad, se aplicará a 33,93 euros por cada parcela afectada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq" colspan="2">Explotación y aprovechamiento de recursos minerales.</td>
+<td>6</td>
+<td colspan="2">Explotación y aprovechamiento de recursos minerales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.1</td>
-<td class="cuerpo_tabla_izq">Autorización de explotación (recursos minerales de la sección A).</td>
-<td class="cuerpo_tabla_coma">1.379,22</td>
+<td>6.1</td>
+<td>Autorización de explotación (recursos minerales de la sección A).</td>
+<td>1.379,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.2</td>
-<td class="cuerpo_tabla_izq">Informes sobre suspensiones, abandonos y caducidades.</td>
-<td class="cuerpo_tabla_izq">75,71 euros cada uno.</td>
+<td>6.2</td>
+<td>Informes sobre suspensiones, abandonos y caducidades.</td>
+<td>75,71 euros cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.3</td>
-<td class="cuerpo_tabla_izq">Informes sobre autorizaciones y modificaciones de talleres de pirotecnia.</td>
-<td class="cuerpo_tabla_izq">El 2 por mil de valor, con un mínimo de 151,42 €.</td>
+<td>6.3</td>
+<td>Informes sobre autorizaciones y modificaciones de talleres de pirotecnia.</td>
+<td>El 2 por mil de valor, con un mínimo de 151,42 €.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.4</td>
-<td class="cuerpo_tabla_izq">Autorización de aprovechamiento (recursos minerales de la sección B).</td>
-<td class="cuerpo_tabla_coma">1.055,28</td>
+<td>6.4</td>
+<td>Autorización de aprovechamiento (recursos minerales de la sección B).</td>
+<td>1.055,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.5</td>
-<td class="cuerpo_tabla_izq">Declaración de agua mineral y/o termal.</td>
-<td class="cuerpo_tabla_coma">851,58</td>
+<td>6.5</td>
+<td>Declaración de agua mineral y/o termal.</td>
+<td>851,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq" colspan="2">Exploración, investigación y explotación de recursos minerales de las secciones C o D.</td>
+<td>7</td>
+<td colspan="2">Exploración, investigación y explotación de recursos minerales de las secciones C o D.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.1</td>
-<td class="cuerpo_tabla_izq">Permisos de exploración.</td>
-<td class="cuerpo_tabla_izq">Una cantidad mínima de 1.419,98 euros para una superficie equivalente a una cuadrícula minera solicitada. Esta cantidad mínima se incrementará en 23,84 euros por cada cuadrícula minera adicional, hasta una cantidad máxima de 1.994,08 euros.</td>
+<td>7.1</td>
+<td>Permisos de exploración.</td>
+<td>Una cantidad mínima de 1.419,98 euros para una superficie equivalente a una cuadrícula minera solicitada. Esta cantidad mínima se incrementará en 23,84 euros por cada cuadrícula minera adicional, hasta una cantidad máxima de 1.994,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.2</td>
-<td class="cuerpo_tabla_izq">Permisos de investigación.</td>
-<td class="cuerpo_tabla_izq">Una cantidad mínima de 1.419,98 euros para una superficie equivalente a una cuadrícula minera solicitada. Esta cantidad mínima se incrementará en 23,84 euros por cada cuadrícula minera adicional, hasta una cantidad máxima de 1.994,08 euros.</td>
+<td>7.2</td>
+<td>Permisos de investigación.</td>
+<td>Una cantidad mínima de 1.419,98 euros para una superficie equivalente a una cuadrícula minera solicitada. Esta cantidad mínima se incrementará en 23,84 euros por cada cuadrícula minera adicional, hasta una cantidad máxima de 1.994,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.3</td>
-<td class="cuerpo_tabla_izq">Concesiones de explotación.</td>
-<td class="cuerpo_tabla_izq">Una cantidad mínima de 1.419,98 euros para una superficie equivalente a una cuadrícula minera solicitada. Esta cantidad mínima se incrementará en 23,84 euros por cada cuadrícula minera adicional, hasta una cantidad máxima de 1.994,08 euros.</td>
+<td>7.3</td>
+<td>Concesiones de explotación.</td>
+<td>Una cantidad mínima de 1.419,98 euros para una superficie equivalente a una cuadrícula minera solicitada. Esta cantidad mínima se incrementará en 23,84 euros por cada cuadrícula minera adicional, hasta una cantidad máxima de 1.994,08 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.4</td>
-<td class="cuerpo_tabla_izq">Cambios de titularidad.</td>
-<td class="cuerpo_tabla_izq">30,26 euros cada uno.</td>
+<td>7.4</td>
+<td>Cambios de titularidad.</td>
+<td>30,26 euros cada uno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.5</td>
-<td class="cuerpo_tabla_izq">Tramitación de planes especiales asociados a la explotación de recursos minerales.</td>
-<td class="cuerpo_tabla_coma">2.013,03</td>
+<td>7.5</td>
+<td>Tramitación de planes especiales asociados a la explotación de recursos minerales.</td>
+<td>2.013,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq" colspan="2">Confrontación y autorización de proyectos.</td>
+<td>8</td>
+<td colspan="2">Confrontación y autorización de proyectos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.1</td>
-<td class="cuerpo_tabla_izq">De exploración, investigación y explotación de planes de labores mineras, de restauración y grandes voladuras con explosivos y sondeos.</td>
-<td class="cuerpo_tabla_izq">El 0,5 por mil del presupuesto de los trabajos, con un mínimo de 101,80 euros.</td>
+<td>8.1</td>
+<td>De exploración, investigación y explotación de planes de labores mineras, de restauración y grandes voladuras con explosivos y sondeos.</td>
+<td>El 0,5 por mil del presupuesto de los trabajos, con un mínimo de 101,80 euros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.2</td>
-<td class="cuerpo_tabla_izq">Clasificación de recursos minerales y toma de muestras.</td>
-<td class="cuerpo_tabla_coma">77,14</td>
+<td>8.2</td>
+<td>Clasificación de recursos minerales y toma de muestras.</td>
+<td>77,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.3</td>
-<td class="cuerpo_tabla_izq">Aforos de caudales de agua y ensayos de bombeo.</td>
-<td class="cuerpo_tabla_coma">223,87</td>
+<td>8.3</td>
+<td>Aforos de caudales de agua y ensayos de bombeo.</td>
+<td>223,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.4</td>
-<td class="cuerpo_tabla_izq">Deslindes, intrusiones, perímetros de protección, replanteos y afecciones.</td>
-<td class="cuerpo_tabla_coma">223,87</td>
+<td>8.4</td>
+<td>Deslindes, intrusiones, perímetros de protección, replanteos y afecciones.</td>
+<td>223,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.5</td>
-<td class="cuerpo_tabla_izq">Exámenes de artilleros y maquinistas.</td>
-<td class="cuerpo_tabla_coma">46,26</td>
+<td>8.5</td>
+<td>Exámenes de artilleros y maquinistas.</td>
+<td>46,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.6</td>
-<td class="cuerpo_tabla_izq">Inspecciones de policía minera.</td>
-<td class="cuerpo_tabla_coma">77,14</td>
+<td>8.6</td>
+<td>Inspecciones de policía minera.</td>
+<td>77,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Autorizaciones de uso de explosivos en obras civiles y asistencia en voladuras.</td>
-<td class="cuerpo_tabla_izq">Se cobrará el 20 % del número de autorizaciones de voladuras solicitadas, siendo el importe unitario de 92,02 euros, y con un importe mínimo de 368,06 euros. Cuando el número de voladuras sea inferior a cuatro, se cobrarán únicamente las que se vayan a realizar, con el coste unitario indicado.</td>
+<td>9</td>
+<td>Autorizaciones de uso de explosivos en obras civiles y asistencia en voladuras.</td>
+<td>Se cobrará el 20 % del número de autorizaciones de voladuras solicitadas, siendo el importe unitario de 92,02 euros, y con un importe mínimo de 368,06 euros. Cuando el número de voladuras sea inferior a cuatro, se cobrarán únicamente las que se vayan a realizar, con el coste unitario indicado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspecciones.</td>
+<td>10</td>
+<td colspan="2">Inspecciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.1</td>
-<td class="cuerpo_tabla_izq">Periódicas reglamentarias.</td>
-<td class="cuerpo_tabla_coma">115,35</td>
+<td>10.1</td>
+<td>Periódicas reglamentarias.</td>
+<td>115,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.2</td>
-<td class="cuerpo_tabla_izq">A instancia de parte (de suministro de electricidad, gas, agua y fraudes; seguridad de instalaciones y demás inspecciones).</td>
-<td class="cuerpo_tabla_coma">54,01</td>
+<td>10.2</td>
+<td>A instancia de parte (de suministro de electricidad, gas, agua y fraudes; seguridad de instalaciones y demás inspecciones).</td>
+<td>54,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq" colspan="2">Altas e inscripciones de distintas entidades.</td>
+<td>11</td>
+<td colspan="2">Altas e inscripciones de distintas entidades.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.1</td>
-<td class="cuerpo_tabla_izq">Altas e inscripciones de organismos de control para inspecciones iniciales y periódicas en materia de seguridad industrial.</td>
-<td class="cuerpo_tabla_coma">158,45</td>
+<td>11.1</td>
+<td>Altas e inscripciones de organismos de control para inspecciones iniciales y periódicas en materia de seguridad industrial.</td>
+<td>158,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.2</td>
-<td class="cuerpo_tabla_izq">Alta/baja de usuarios en sistema AIRE.</td>
-<td class="cuerpo_tabla_coma">10,5</td>
+<td>11.2</td>
+<td>Alta/baja de usuarios en sistema AIRE.</td>
+<td>10,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Autorización de reformas de importancia generalizadas en vehículos de todo tipo.</td>
-<td class="cuerpo_tabla_coma">104,75</td>
+<td>12</td>
+<td>Autorización de reformas de importancia generalizadas en vehículos de todo tipo.</td>
+<td>104,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Alta de inscripción en el Registro de Control Metrológico.</td>
-<td class="cuerpo_tabla_coma">90,18</td>
+<td>13</td>
+<td>Alta de inscripción en el Registro de Control Metrológico.</td>
+<td>90,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Por el desplazamiento del personal del servicio territorial competente en materia de industria desde el servicio territorial hasta los laboratorios autorizados de empresas dedicadas a la fabricación de objetos con metales preciosos, puesta a disposición de los laboratorios de empresa de los punzones (traslado y custodia), permanencia en estos mientras se realicen labores de contrastación y retorno al servicio territorial.</td>
-<td class="cuerpo_tabla_coma">83,56</td>
+<td>14</td>
+<td>Por el desplazamiento del personal del servicio territorial competente en materia de industria desde el servicio territorial hasta los laboratorios autorizados de empresas dedicadas a la fabricación de objetos con metales preciosos, puesta a disposición de los laboratorios de empresa de los punzones (traslado y custodia), permanencia en estos mientras se realicen labores de contrastación y retorno al servicio territorial.</td>
+<td>83,56</td>
 </tr>
 </tbody>
 </table>
@@ -10889,100 +10726,95 @@ Son contribuyentes de esta tasa las personas propietarias o comunidades de propi
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_92">
-<col class="row_column_98">
-<col class="row_column_99">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_32">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inscripción del Certificado de Eficiencia Energética de Edificios en el Registro de Certificación de Eficiencia Energética de Edificios de la Comunitat Valenciana.</p>
+<p>Inscripción del Certificado de Eficiencia Energética de Edificios en el Registro de Certificación de Eficiencia Energética de Edificios de la Comunitat Valenciana.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vivienda unifamiliar/individual.</p>
+<p>Vivienda unifamiliar/individual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 €</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Edificio de viviendas en bloque (mínimo 2 viviendas).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20 € + 3 € por vivienda,</p>
-<p class="cuerpo_tabla_centro">con un máximo de 400 €</p>
+<p>10 €</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sector terciario: edificio / partes de edificio / locales.</p>
+<p>Edificio de viviendas en bloque (mínimo 2 viviendas).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 € + 0,10 € por m²,</p>
-<p class="cuerpo_tabla_centro">con un máximo de 500 €</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Viviendas: actualización del certificado o modificación sustancial del registro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5 €</p>
+<p>20 € + 3 € por vivienda,</p>
+<p>con un máximo de 400 €</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.6</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Edificio de viviendas en bloque (mínimo 2 viviendas): actualización del certificado.</p>
+<p>Sector terciario: edificio / partes de edificio / locales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 € + 1,5 € por vivienda,</p>
-<p class="cuerpo_tabla_centro">con un máximo de 100 €</p>
+<p>10 € + 0,10 € por m²,</p>
+<p>con un máximo de 500 €</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.5</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sector terciario: actualización del certificado.</p>
+<p>Viviendas: actualización del certificado o modificación sustancial del registro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5 € + 0,05 € por m²,</p>
-<p class="cuerpo_tabla_centro">con un máximo de 100 €</p>
+<p>5 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Edificio de viviendas en bloque (mínimo 2 viviendas): actualización del certificado.</p>
+</td>
+<td>
+<p>10 € + 1,5 € por vivienda,</p>
+<p>con un máximo de 100 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Sector terciario: actualización del certificado.</p>
+</td>
+<td>
+<p>5 € + 0,05 € por m²,</p>
+<p>con un máximo de 100 €</p>
 </td>
 </tr>
 </tbody>
@@ -11166,38 +10998,34 @@ En los casos en los que la persona a quien se conceda el préstamo de obras y la
 
 1\. La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de servicio</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th>Tipo de servicio</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>1. Préstamo de obras por parte del IVAM</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 Por las cinco primeras obras de arte (por cada una)</td>
-<td class="cuerpo_tabla_coma">305,70</td>
+<td>1.1 Por las cinco primeras obras de arte (por cada una)</td>
+<td>305,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2 A partir de la sexta obra de arte (por cada una)</td>
-<td class="cuerpo_tabla_coma">152,82</td>
+<td>1.2 A partir de la sexta obra de arte (por cada una)</td>
+<td>152,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3 Por los cinco primeros documentos o unidades documentales (por cada una)</td>
-<td class="cuerpo_tabla_coma">103,02</td>
+<td>1.3 Por los cinco primeros documentos o unidades documentales (por cada una)</td>
+<td>103,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.4 A partir del sexto documento o unidad documental</td>
-<td class="cuerpo_tabla_coma">51,51</td>
+<td>1.4 A partir del sexto documento o unidad documental</td>
+<td>51,51</td>
 </tr>
 </tbody>
 </table>
@@ -11342,34 +11170,30 @@ En los casos en los que la persona a quien se le autorice la explotación y la p
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de servicio</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th>Tipo de servicio</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>1. Autorización para la explotación de las obras cuyos derechos de propiedad intelectual correspondan al IVAM en modalidad exclusiva</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 Para uso divulgativo o particular.</td>
-<td class="cuerpo_tabla_coma">50,95</td>
+<td>1.1 Para uso divulgativo o particular.</td>
+<td>50,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2 Para uso editorial o comercial.</td>
-<td class="cuerpo_tabla_coma">213,99</td>
+<td>1.2 Para uso editorial o comercial.</td>
+<td>213,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3 Para uso publicitario.</td>
-<td class="cuerpo_tabla_coma">305,70</td>
+<td>1.3 Para uso publicitario.</td>
+<td>305,70</td>
 </tr>
 </tbody>
 </table>
@@ -11466,774 +11290,769 @@ Son contribuyentes de esta tasa las personas que soliciten las autorizaciones, r
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_78">
-<col class="row_column_113">
-<col class="row_column_52">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_16">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe unitario</p>
-<p class="cabeza_tabla">(euros)</p>
+<p>Importe unitario</p>
+<p>(euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1. Autorizaciones.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De inscripción de empresas de juego.</p>
+<p>1. Autorizaciones.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización como empresa de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">175</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificaciones de empresas de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Renovación de la autorización de empresas de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización destrucción de material de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De instalación de casinos y salas apéndice.</p>
+<p>De inscripción de empresas de juego.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.1</p>
+<p>1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De apertura y funcionamiento de casinos y salas apéndice.</p>
+<p>Autorización como empresa de juego.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.600</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Renovación de la autorización de instalación y funcionamiento de casino.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>175</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.3</p>
+<p>1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El cambio de ubicación del casino y las salas apéndices de la principal.</p>
+<p>Modificaciones de empresas de juego.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Las modificaciones estructurales de la configuración de las salas de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140</p>
+<p>110</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.5</p>
+<p>1.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización y modificación de carruseles de máquinas de tipo C.</p>
+<p>Renovación de la autorización de empresas de juego.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras autorizaciones relativas a casinos de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">115</p>
+<p>140</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3</p>
+<p>1.1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De salas de bingo.</p>
+<p>Autorización destrucción de material de juego.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2</p>
+</td>
+<td>
+<p>De instalación de casinos y salas apéndice.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3.1</p>
+<p>1.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De instalación de salas de bingo.</p>
+<p>De apertura y funcionamiento de casinos y salas apéndice.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De apertura y funcionamiento y cambio de ubicación de salas de bingo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">430</p>
+<p>3.600</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3.3</p>
+<p>1.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de clubes de fumadores.</p>
+<p>Renovación de la autorización de instalación y funcionamiento de casino.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de titularidad de salas de bingo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">400</p>
+<p>1.000</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3.5</p>
+<p>1.2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras autorizaciones relativas a salas de bingo.</p>
+<p>El cambio de ubicación del casino y las salas apéndices de la principal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70</p>
+<p>3.000</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4</p>
+<p>1.2.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De salones de juego.</p>
+<p>Las modificaciones estructurales de la configuración de las salas de juego.</p>
+</td>
+<td>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.5</p>
+</td>
+<td>
+<p>Autorización y modificación de carruseles de máquinas de tipo C.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.6</p>
+</td>
+<td>
+<p>Otras autorizaciones relativas a casinos de juego.</p>
+</td>
+<td>
+<p>115</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>De salas de bingo.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4.1</p>
+<p>1.3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De instalación de salones de juego.</p>
+<p>De instalación de salas de bingo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.4.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Solicitud de instalación de salones de juego (fase de verificación de distancias).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p>125</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4.1.2</p>
+<p>1.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de instalación de salones de juego (fase de comprobación de documentación, informes y autorización).</p>
+<p>De apertura y funcionamiento y cambio de ubicación de salas de bingo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250,00</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De apertura y funcionamiento de salones de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">375</p>
+<p>430</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4.3</p>
+<p>1.3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Incorporación o retirada de cada salón a cada sistema de interconexión de máquinas.</p>
+<p>Autorización de clubes de fumadores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">225</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.4.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de titularidad de salones de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">250</p>
+<p>250</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4.5</p>
+<p>1.3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras autorizaciones relativas a salones de juego.</p>
+<p>Cambio de titularidad de salas de bingo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De apertura y funcionamiento de locales específicos de apuestas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">300</p>
+<p>400</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.6</p>
+<p>1.3.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De apertura y funcionamiento de otros recintos y establecimientos habilitados para la práctica del juego.</p>
+<p>Otras autorizaciones relativas a salas de bingo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">370</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De rifas y tómbolas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200</p>
+<p>70</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De apuestas.</p>
+<p>De salones de juego.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8.1</p>
+<p>1.4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Homologación de las reglas de organización y funcionamiento de las apuestas.</p>
+<p>De instalación de salones de juego.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.800</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.8.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificación de las reglas de organización y funcionamiento de las apuestas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p> </p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8.3</p>
+<p>1.4.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Homologación del sistema técnico de apuestas.</p>
+<p>Solicitud de instalación de salones de juego (fase de verificación de distancias).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.8.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificación del sistema técnico de apuestas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">600</p>
+<p>100,00</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.8.5</p>
+<p>1.4.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobación de la auditoría periódica.</p>
+<p>Autorización de instalación de salones de juego (fase de comprobación de documentación, informes y autorización).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>250,00</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.9</p>
+<p>1.4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Máquinas recreativas y de azar, sistemas y material de juego.</p>
+<p>De apertura y funcionamiento de salones de juego.</p>
+</td>
+<td>
+<p>375</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4.3</p>
+</td>
+<td>
+<p>Incorporación o retirada de cada salón a cada sistema de interconexión de máquinas.</p>
+</td>
+<td>
+<p>225</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4.4</p>
+</td>
+<td>
+<p>Cambio de titularidad de salones de juego.</p>
+</td>
+<td>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4.5</p>
+</td>
+<td>
+<p>Otras autorizaciones relativas a salones de juego.</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>De apertura y funcionamiento de locales específicos de apuestas.</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>De apertura y funcionamiento de otros recintos y establecimientos habilitados para la práctica del juego.</p>
+</td>
+<td>
+<p>370</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.7</p>
+</td>
+<td>
+<p>De rifas y tómbolas.</p>
+</td>
+<td>
+<p>200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.8</p>
+</td>
+<td>
+<p>De apuestas.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.9.1</p>
+<p>1.8.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Homologación y modificaciones sustanciales de máquinas de juego.</p>
+<p>Homologación de las reglas de organización y funcionamiento de las apuestas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.9.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificaciones no sustanciales de máquinas de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75</p>
+<p>2.800</p>
 </td>
 </tr>
-<tr class="row_column_114">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.9.3</p>
+<p>1.8.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de máquinas en prueba.</p>
+<p>Modificación de las reglas de organización y funcionamiento de las apuestas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50 € la primera máquina y 25 € cada una de las otras</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.9.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Homologación de sistemas de interconexión de máquinas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">320</p>
+<p>1.000</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.9.5</p>
+<p>1.8.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Homologación de sistemas técnicos de bingo diferente del tradicional.</p>
+<p>Homologación del sistema técnico de apuestas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.800</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.9.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificación de sistemas técnicos de bingo diferente del tradicional.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>3.000</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.9.7</p>
+<p>1.8.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización en pruebas de modalidades de bingo diferente del tradicional.</p>
+<p>Modificación del sistema técnico de apuestas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.9.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Homologación de material de juego en general.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">125</p>
+<p>600</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.10</p>
+<p>1.8.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acreditaciones de acceso a aplicaciones de juego (JOC-ER y JOC-ER Prohibidos).</p>
+<p>Aprobación de la auditoría periódica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>3.000</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1.9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros trámites.</p>
+<p>Máquinas recreativas y de azar, sistemas y material de juego.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.9.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de cualquier documento complementario de las autorizaciones recogidas en el punto 1.</p>
+<p>Homologación y modificaciones sustanciales de máquinas de juego.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trámites relativos a la titularidad, explotación o instalación de máquinas recreativas y de azar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der"> </p>
+<p>90</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.1</p>
+<p>1.9.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alta de explotación de máquina recreativa o de azar.</p>
+<p>Modificaciones no sustanciales de máquinas de juego.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Baja de explotación de máquina recreativa o de azar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>75</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.3</p>
+<p>1.9.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Levantamiento de suspensión de explotación de máquina recreativa o de azar.</p>
+<p>Autorización de máquinas en prueba.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alta de instalación de máquina recreativa o de azar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>50 € la primera máquina y 25 € cada una de las otras</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.5</p>
+<p>1.9.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Baja de instalación de máquina recreativa o de azar.</p>
+<p>Homologación de sistemas de interconexión de máquinas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de modelo de máquina recreativa o de azar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>320</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.7</p>
+<p>1.9.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alta o baja de máquina recreativa o de azar (canje fiscal).</p>
+<p>Homologación de sistemas técnicos de bingo diferente del tradicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de titularidad de máquina recreativa o de azar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>2.800</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.9</p>
+<p>1.9.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alta y baja por traslado de máquina de juego de otra demarcación territorial.</p>
+<p>Modificación de sistemas técnicos de bingo diferente del tradicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32 por el alta y 32 por la baja</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Renovación máquina de juego.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>1.000</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.11</p>
+<p>1.9.7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización o baja de terminal de apuestas.</p>
+<p>Autorización en pruebas de modalidades de bingo diferente del tradicional.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de modelo de terminal de apuestas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>900</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.13</p>
+<p>1.9.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización o baja de máquina auxiliar de apuestas.</p>
+<p>Homologación de material de juego en general.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.2.14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cambio de modelo de máquina auxiliar de apuestas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,00</p>
+<p>125</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2.15</p>
+<p>1.10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros trámites relativos a la titularidad, explotación o instalación de máquinas recreativas y de azar.</p>
+<p>Acreditaciones de acceso a aplicaciones de juego (JOC-ER y JOC-ER Prohibidos).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">32,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de las guías de circulación de máquinas recreativas y de azar tipo A, B y C (por cada impreso —original y dos copias— de cada guía).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
+<p>5</p>
 </td>
 </tr>
-<tr class="row_column_26">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Baja en el Registro de Excluidos de Acceso al Juego de la Comunitat Valenciana cuando se solicite antes de finalizar el período de prohibición elegido.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">2.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trámites por vía electrónica o telemática (JOC-ER).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios administrativos.</p>
+<p>Otros trámites.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diligenciado de libros (por libro).</p>
+<p>Expedición de cualquier documento complementario de las autorizaciones recogidas en el punto 1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>25</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificaciones.</p>
+<p>Trámites relativos a la titularidad, explotación o instalación de máquinas recreativas y de azar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.1</p>
+</td>
+<td>
+<p>Alta de explotación de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.2</p>
+</td>
+<td>
+<p>Baja de explotación de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.3</p>
+</td>
+<td>
+<p>Levantamiento de suspensión de explotación de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.4</p>
+</td>
+<td>
+<p>Alta de instalación de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.5</p>
+</td>
+<td>
+<p>Baja de instalación de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.6</p>
+</td>
+<td>
+<p>Cambio de modelo de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.7</p>
+</td>
+<td>
+<p>Alta o baja de máquina recreativa o de azar (canje fiscal).</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.8</p>
+</td>
+<td>
+<p>Cambio de titularidad de máquina recreativa o de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.9</p>
+</td>
+<td>
+<p>Alta y baja por traslado de máquina de juego de otra demarcación territorial.</p>
+</td>
+<td>
+<p>32 por el alta y 32 por la baja</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.10</p>
+</td>
+<td>
+<p>Renovación máquina de juego.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.11</p>
+</td>
+<td>
+<p>Autorización o baja de terminal de apuestas.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.12</p>
+</td>
+<td>
+<p>Cambio de modelo de terminal de apuestas.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.13</p>
+</td>
+<td>
+<p>Autorización o baja de máquina auxiliar de apuestas.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.14</p>
+</td>
+<td>
+<p>Cambio de modelo de máquina auxiliar de apuestas.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.15</p>
+</td>
+<td>
+<p>Otros trámites relativos a la titularidad, explotación o instalación de máquinas recreativas y de azar.</p>
+</td>
+<td>
+<p>32,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Expedición de las guías de circulación de máquinas recreativas y de azar tipo A, B y C (por cada impreso —original y dos copias— de cada guía).</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Baja en el Registro de Excluidos de Acceso al Juego de la Comunitat Valenciana cuando se solicite antes de finalizar el período de prohibición elegido.</p>
+</td>
+<td>
+<p>8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Trámites por vía electrónica o telemática (JOC-ER).</p>
+</td>
+<td>
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Servicios administrativos.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Diligenciado de libros (por libro).</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Certificaciones.</p>
+</td>
+<td>
+<p>4</p>
 </td>
 </tr>
 </tbody>
@@ -12275,43 +12094,38 @@ Son contribuyentes de esta tasa quienes tengan la condición de parte en los pro
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_64">
-<col class="row_column_65">
-<col class="row_column_66">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de segunda certificación o testimonio de resoluciones o certificaciones de documentos que consten en los autos, en las órdenes jurisdiccionales civiles y contencioso-administrativas</p>
+<p>Expedición de segunda certificación o testimonio de resoluciones o certificaciones de documentos que consten en los autos, en las órdenes jurisdiccionales civiles y contencioso-administrativas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 5,10</p>
+<p> 5,10</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición en soporte digital de copias de instrumentos que consten en los autos</p>
+<p>Expedición en soporte digital de copias de instrumentos que consten en los autos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,20</p>
+<p>10,20</p>
 </td>
 </tr>
 </tbody>
@@ -12389,241 +12203,236 @@ Son contribuyentes de esta tasa las personas que soliciten la prestación del se
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="74%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">(euros)</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq">Expedición de licencias de caza y otras actuaciones administrativas en materia de caza:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>Expedición de licencias de caza y otras actuaciones administrativas en materia de caza:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1</td>
-<td class="cuerpo_tabla_izq">Licencia autonómica tipo A (para caza con arco, armas de fuego y asimiladas e incluye la caza sin armas de fuego).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1</td>
+<td>Licencia autonómica tipo A (para caza con arco, armas de fuego y asimiladas e incluye la caza sin armas de fuego).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1</td>
-<td class="cuerpo_tabla_izq">Por un año de validez.</td>
-<td class="cuerpo_tabla_coma">4,75</td>
+<td>1.1.1</td>
+<td>Por un año de validez.</td>
+<td>4,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.2</td>
-<td class="cuerpo_tabla_izq">Por tres años de validez.</td>
-<td class="cuerpo_tabla_coma">13,57</td>
+<td>1.1.2</td>
+<td>Por tres años de validez.</td>
+<td>13,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2</td>
-<td class="cuerpo_tabla_izq">Licencia autonómica tipo B (para caza sin armas de fuego):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2</td>
+<td>Licencia autonómica tipo B (para caza sin armas de fuego):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.1</td>
-<td class="cuerpo_tabla_izq">Por un año de validez.</td>
-<td class="cuerpo_tabla_coma">4,75</td>
+<td>1.2.1</td>
+<td>Por un año de validez.</td>
+<td>4,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2</td>
-<td class="cuerpo_tabla_izq">Por tres años de validez.</td>
-<td class="cuerpo_tabla_coma">13,57</td>
+<td>1.2.2</td>
+<td>Por tres años de validez.</td>
+<td>13,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3</td>
-<td class="cuerpo_tabla_izq">Licencia autonómica tipo C (para grupo/rehala de perros para caza mayor):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.3</td>
+<td>Licencia autonómica tipo C (para grupo/rehala de perros para caza mayor):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3.1</td>
-<td class="cuerpo_tabla_izq">Por un año de validez.</td>
-<td class="cuerpo_tabla_coma">8,45</td>
+<td>1.3.1</td>
+<td>Por un año de validez.</td>
+<td>8,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3.2</td>
-<td class="cuerpo_tabla_izq">Por tres años de validez.</td>
-<td class="cuerpo_tabla_coma">23,65</td>
+<td>1.3.2</td>
+<td>Por tres años de validez.</td>
+<td>23,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.4</td>
-<td class="cuerpo_tabla_izq">Licencia de caza interautonómica.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.4</td>
+<td>Licencia de caza interautonómica.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.4.1</td>
-<td class="cuerpo_tabla_izq">Por un año de validez.</td>
-<td class="cuerpo_tabla_coma">70,00</td>
+<td>1.4.1</td>
+<td>Por un año de validez.</td>
+<td>70,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.5</td>
-<td class="cuerpo_tabla_izq">Expedición de credencial de guarda jurado de caza.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.5</td>
+<td>Expedición de credencial de guarda jurado de caza.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.5.1</td>
-<td class="cuerpo_tabla_izq">Por cinco años de validez.</td>
-<td class="cuerpo_tabla_coma">27,96</td>
+<td>1.5.1</td>
+<td>Por cinco años de validez.</td>
+<td>27,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq">Expedición de licencias de pesca en aguas continentales y otras actuaciones administrativas en esta materia:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2</td>
+<td>Expedición de licencias de pesca en aguas continentales y otras actuaciones administrativas en esta materia:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1</td>
-<td class="cuerpo_tabla_izq">Licencia de pesca de recreo.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.1</td>
+<td>Licencia de pesca de recreo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.1</td>
-<td class="cuerpo_tabla_izq">Autonómica, por un año de validez.</td>
-<td class="cuerpo_tabla_coma">10,39</td>
+<td>2.1.1</td>
+<td>Autonómica, por un año de validez.</td>
+<td>10,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.2</td>
-<td class="cuerpo_tabla_izq">Autonómica, por tres años de validez.</td>
-<td class="cuerpo_tabla_coma">29,10</td>
+<td>2.1.2</td>
+<td>Autonómica, por tres años de validez.</td>
+<td>29,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2</td>
-<td class="cuerpo_tabla_izq">Licencia de pesca interautonómica.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
+<td>2.2</td>
+<td>Licencia de pesca interautonómica.</td>
+<td>25,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3</td>
-<td class="cuerpo_tabla_izq">Licencia de pesca profesional.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.3</td>
+<td>Licencia de pesca profesional.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.1</td>
-<td class="cuerpo_tabla_izq">Por un año de validez.</td>
-<td class="cuerpo_tabla_coma">25,48</td>
+<td>2.3.1</td>
+<td>Por un año de validez.</td>
+<td>25,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.2</td>
-<td class="cuerpo_tabla_izq">Por cinco años de validez.</td>
-<td class="cuerpo_tabla_coma">118,88</td>
+<td>2.3.2</td>
+<td>Por cinco años de validez.</td>
+<td>118,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4</td>
-<td class="cuerpo_tabla_izq">Expedición de credencial de guarda jurado de pesca.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.4</td>
+<td>Expedición de credencial de guarda jurado de pesca.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4.1</td>
-<td class="cuerpo_tabla_izq">Por cinco años de validez.</td>
-<td class="cuerpo_tabla_coma">76,43</td>
+<td>2.4.1</td>
+<td>Por cinco años de validez.</td>
+<td>76,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.5</td>
-<td class="cuerpo_tabla_izq">Registro de embarcaciones.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.5</td>
+<td>Registro de embarcaciones.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.5.1</td>
-<td class="cuerpo_tabla_izq">Registro de una embarcación.</td>
-<td class="cuerpo_tabla_coma">10,19</td>
+<td>2.5.1</td>
+<td>Registro de una embarcación.</td>
+<td>10,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.5.2</td>
-<td class="cuerpo_tabla_izq">Cambio de titular.</td>
-<td class="cuerpo_tabla_coma">10,19</td>
+<td>2.5.2</td>
+<td>Cambio de titular.</td>
+<td>10,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3</td>
-<td class="cuerpo_tabla_izq">Expedición de certificados y duplicados en materia de caza y pesca en aguas continentales.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3</td>
+<td>Expedición de certificados y duplicados en materia de caza y pesca en aguas continentales.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1</td>
-<td class="cuerpo_tabla_izq">Certificados.</td>
-<td class="cuerpo_tabla_coma">7,13</td>
+<td>3.1</td>
+<td>Certificados.</td>
+<td>7,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2</td>
-<td class="cuerpo_tabla_izq">Duplicados de licencias y credenciales.</td>
-<td class="cuerpo_tabla_coma">2,55</td>
+<td>3.2</td>
+<td>Duplicados de licencias y credenciales.</td>
+<td>2,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4</td>
-<td class="cuerpo_tabla_izq">Declaración de acotados y registro, así como licencia de aprovechamiento en cotos de caza y renovación anual:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4</td>
+<td>Declaración de acotados y registro, así como licencia de aprovechamiento en cotos de caza y renovación anual:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1</td>
-<td class="cuerpo_tabla_izq">Declaración de acotados y registro:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4.1</td>
+<td>Declaración de acotados y registro:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1.1</td>
-<td class="cuerpo_tabla_izq">Para todos los cotos de caza (€/año).</td>
-<td class="cuerpo_tabla_coma">323,91</td>
+<td>4.1.1</td>
+<td>Para todos los cotos de caza (€/año).</td>
+<td>323,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1.2</td>
-<td class="cuerpo_tabla_izq">Ampliaciones, incluida su modificación registral (€/año).</td>
-<td class="cuerpo_tabla_coma">161,96</td>
+<td>4.1.2</td>
+<td>Ampliaciones, incluida su modificación registral (€/año).</td>
+<td>161,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2</td>
-<td class="cuerpo_tabla_izq">Licencia de aprovechamiento en cotos de caza y renovación anual:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4.2</td>
+<td>Licencia de aprovechamiento en cotos de caza y renovación anual:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.1</td>
-<td class="cuerpo_tabla_izq">Para cotos de caza mayor cercados (€/año).</td>
-<td class="cuerpo_tabla_coma">388,70</td>
+<td>4.2.1</td>
+<td>Para cotos de caza mayor cercados (€/año).</td>
+<td>388,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.2</td>
-<td class="cuerpo_tabla_izq">Para cotos intensivos de caza menor (€/año).</td>
-<td class="cuerpo_tabla_coma">259,13</td>
+<td>4.2.2</td>
+<td>Para cotos intensivos de caza menor (€/año).</td>
+<td>259,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3</td>
-<td class="cuerpo_tabla_izq">Para los restantes cotos de caza (€/año).</td>
-<td class="cuerpo_tabla_coma">194,35</td>
+<td>4.2.3</td>
+<td>Para los restantes cotos de caza (€/año).</td>
+<td>194,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5</td>
-<td class="cuerpo_tabla_izq">Actuaciones relativas a vías pecuarias:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>5</td>
+<td>Actuaciones relativas a vías pecuarias:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1</td>
-<td class="cuerpo_tabla_izq">Concesiones demaniales para ocupación del subsuelo:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>5.1</td>
+<td>Concesiones demaniales para ocupación del subsuelo:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.1</td>
-<td class="cuerpo_tabla_izq">Canon concesión demanial de superficie vía pecuaria.</td>
-<td class="cuerpo_tabla_centro">101,90 € unidad + 1,22 € por metro cuadrado</td>
+<td>5.1.1</td>
+<td>Canon concesión demanial de superficie vía pecuaria.</td>
+<td>101,90 € unidad + 1,22 € por metro cuadrado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2</td>
-<td class="cuerpo_tabla_izq">Autorizaciones ocupaciones temporales:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>5.2</td>
+<td>Autorizaciones ocupaciones temporales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2.1</td>
-<td class="cuerpo_tabla_izq">Canon por ocupación temporal superficie vía pecuaria.</td>
-<td class="cuerpo_tabla_centro">101,90 € unidad + 0,31 € por metro cuadrado</td>
+<td>5.2.1</td>
+<td>Canon por ocupación temporal superficie vía pecuaria.</td>
+<td>101,90 € unidad + 0,31 € por metro cuadrado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6</td>
-<td class="cuerpo_tabla_izq">Declaración, modificación y registro de coto micológico.</td>
-<td class="cuerpo_tabla_coma">97,71</td>
+<td>6</td>
+<td>Declaración, modificación y registro de coto micológico.</td>
+<td>97,71</td>
 </tr>
 </tbody>
 </table>
@@ -12676,394 +12485,389 @@ Son contribuyentes de esta tasa las personas a las que se presten los servicios 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_68">
-<col class="row_column_116">
-<col class="row_column_117">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Descripción tipo de servicio</p>
+<p>Descripción tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe unitario (euros)</p>
+<p>Importe unitario (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de la autorización ambiental integrada (AAI) para instalaciones nuevas o ya existentes con licencia ambiental que se pretendan ampliar y se encuentren sometidas al régimen de autorización ambiental integrada</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actividad industrial</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.060,30</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Explotación ganadera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.530,15</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de cambio de titularidad de autorización ambiental integrada (AAI)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">98,70</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de modificación sustancial de la AAI (MS)</p>
+<p>Tramitación de la autorización ambiental integrada (AAI) para instalaciones nuevas o ya existentes con licencia ambiental que se pretendan ampliar y se encuentren sometidas al régimen de autorización ambiental integrada</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividad industrial</p>
+<p>Actividad industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.530,15</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Explotación ganadera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">765,08</p>
+<p>3.060,30</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de modificación no sustancial AAI (MNS)</p>
+<p>Explotación ganadera</p>
+</td>
+<td>
+<p>1.530,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>Tramitación de cambio de titularidad de autorización ambiental integrada (AAI)</p>
+</td>
+<td>
+<p>98,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Tramitación de modificación sustancial de la AAI (MS)</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividad industrial</p>
+<p>Actividad industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">306,03</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Explotación ganadera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153,02</p>
+<p>1.530,15</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de revisión AAI (sin modificación de la instalación)</p>
+<p>Explotación ganadera</p>
+</td>
+<td>
+<p>765,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Tramitación de modificación no sustancial AAI (MNS)</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividad industrial</p>
+<p>Actividad industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.010,00</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Explotación ganadera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">505,00</p>
+<p>306,03</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de autorización, renovación o modificación sustancial de emisión a la atmósfera (grupos A o B del CAPCA)</p>
+<p>Explotación ganadera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">459,05</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de la notificación de emisiones a la atmósfera (grupo C del Catálogo de actividades potencialmente contaminadoras de la atmósfera CAPCA)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
+<p>153,02</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de autorización de emisión de gases de efecto invernadero (AGEI) y aprobación del Plan de seguimiento de las emisiones (PSE)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">306,02</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de modificación de la AGEI y Plan de seguimiento de emisiones (PSE)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">204,02</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de modificación del PSE que no implican modificación de la AGEI</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de la notificación de instalaciones con emisiones de COV (compuestos orgánicos volátiles) no sometidas a autorización ambiental integrada (AAI), incluidas sus modificaciones</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153,02</p>
-</td>
-</tr>
-<tr class="row_column_26">
-<td>
-<p class="cuerpo_tabla_izq">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de autorización, ampliación o modificación sustancial de instalaciones y operaciones de tratamiento de residuos, incluido el almacenamiento en el ámbito de la recogida en espera de tratamiento, de acuerdo con la normativa de residuos, no sometidas a autorización ambiental integrada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">306,03</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de cambio de titularidad de autorizaciones en materia de residuos por modificación de personalidad jurídica o transmisión</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de autorización a entidades con sede social en la Comunitat Valenciana para realizar operaciones de tratamiento de residuos en instalaciones no ubicadas en esta comunidad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de la comunicación previa para inicio de actividades de producción y gestión de residuos.</p>
+<p>Tramitación de revisión AAI (sin modificación de la instalación)</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">14.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte de residuos con carácter profesional</p>
+<p>Actividad industrial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,01</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">14.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recogida de residuos sin instalación asociada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">76,51</p>
+<p>1.010,00</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">14.3</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producción de residuos (peligrosos, sanitarios, neumáticos fuera de uso, y no peligrosos, cuando su producción anual supere las 1.000 toneladas)</p>
+<p>Explotación ganadera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,01</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">14.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Agente</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">76,51</p>
+<p>505,00</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">14.5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Negociante</p>
+<p>Tramitación de autorización, renovación o modificación sustancial de emisión a la atmósfera (grupos A o B del CAPCA)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,01</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de ampliación de plazos de almacenamiento de residuos en el lugar de producción</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
+<p>459,05</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">16</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de expedientes de utilización de residuos inertes adecuados en obras de restauración, acondicionamiento y relleno o con fines constructivos y sus renovaciones</p>
+<p>Tramitación de la notificación de emisiones a la atmósfera (grupo C del Catálogo de actividades potencialmente contaminadoras de la atmósfera CAPCA)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,01</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de la comunicación previa del establecimiento de sistemas de depósito, devolución y retorno, en el marco de la responsabilidad ampliada del productor de productos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
+<p>102,01</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">18</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de la comunicación previa de los sistemas individuales de gestión de los residuos generados tras el uso del producto, en el marco de la responsabilidad ampliada del productor de productos</p>
+<p>Tramitación de autorización de emisión de gases de efecto invernadero (AGEI) y aprobación del Plan de seguimiento de las emisiones (PSE)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,01</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación de autorizaciones y renovaciones de los sistemas colectivos de gestión de residuos, en el marco de la responsabilidad ampliada del productor de productos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,01</p>
+<p>306,02</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de las notificaciones y autorizaciones de traslados de residuos que deriven de la normativa comunitaria o estatal sobre residuos:</p>
+<p>Tramitación de modificación de la AGEI y Plan de seguimiento de emisiones (PSE)</p>
+</td>
+<td>
+<p>204,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Tramitación de modificación del PSE que no implican modificación de la AGEI</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Tramitación de la notificación de instalaciones con emisiones de COV (compuestos orgánicos volátiles) no sometidas a autorización ambiental integrada (AAI), incluidas sus modificaciones</p>
+</td>
+<td>
+<p>153,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>Tramitación de autorización, ampliación o modificación sustancial de instalaciones y operaciones de tratamiento de residuos, incluido el almacenamiento en el ámbito de la recogida en espera de tratamiento, de acuerdo con la normativa de residuos, no sometidas a autorización ambiental integrada</p>
+</td>
+<td>
+<p>306,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Tramitación de cambio de titularidad de autorizaciones en materia de residuos por modificación de personalidad jurídica o transmisión</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>Tramitación de autorización a entidades con sede social en la Comunitat Valenciana para realizar operaciones de tratamiento de residuos en instalaciones no ubicadas en esta comunidad</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Tramitación de la comunicación previa para inicio de actividades de producción y gestión de residuos.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">20.1</p>
+<p>14.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Traslado de residuos en el interior de la Unión Europea sujeto a notificación y autorización previa conforme a la normativa comunitaria sobre residuos</p>
+<p>Transporte de residuos con carácter profesional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131,60</p>
+<p>51,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.2</p>
+</td>
+<td>
+<p>Recogida de residuos sin instalación asociada</p>
+</td>
+<td>
+<p>76,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.3</p>
+</td>
+<td>
+<p>Producción de residuos (peligrosos, sanitarios, neumáticos fuera de uso, y no peligrosos, cuando su producción anual supere las 1.000 toneladas)</p>
+</td>
+<td>
+<p>51,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.4</p>
+</td>
+<td>
+<p>Agente</p>
+</td>
+<td>
+<p>76,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.5</p>
+</td>
+<td>
+<p>Negociante</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>Tramitación de ampliación de plazos de almacenamiento de residuos en el lugar de producción</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Tramitación de expedientes de utilización de residuos inertes adecuados en obras de restauración, acondicionamiento y relleno o con fines constructivos y sus renovaciones</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>Tramitación de la comunicación previa del establecimiento de sistemas de depósito, devolución y retorno, en el marco de la responsabilidad ampliada del productor de productos</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>Tramitación de la comunicación previa de los sistemas individuales de gestión de los residuos generados tras el uso del producto, en el marco de la responsabilidad ampliada del productor de productos</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>Tramitación de autorizaciones y renovaciones de los sistemas colectivos de gestión de residuos, en el marco de la responsabilidad ampliada del productor de productos</p>
+</td>
+<td>
+<p>102,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>Tramitación de las notificaciones y autorizaciones de traslados de residuos que deriven de la normativa comunitaria o estatal sobre residuos:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>20.1</p>
+</td>
+<td>
+<p>Traslado de residuos en el interior de la Unión Europea sujeto a notificación y autorización previa conforme a la normativa comunitaria sobre residuos</p>
+</td>
+<td>
+<p>131,60</p>
 </td>
 </tr>
 </tbody>
@@ -13119,65 +12923,60 @@ Son contribuyentes de esta tasa quienes soliciten los servicios que constituyen 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_74">
-<col class="row_column_93">
-<col class="row_column_46">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_16">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe unitario (euros)</p>
+<p>Importe unitario (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Certificado de convalidación medioambiental.</p>
+<p>Certificado de convalidación medioambiental.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">357,04</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inscripción en el Registro EMAS (nueva o renovación).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">204,02</p>
+<p>357,04</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Concesión de etiqueta ecológica –nueva, renovación o ampliación– (por producto).</p>
+<p>Inscripción en el Registro EMAS (nueva o renovación).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">285,70</p>
+<p>204,02</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inscripción en el Registro de Entidades Colaboradoras en Materia de Calidad Ambiental (nueva, modificación o ampliación).</p>
+<p>Concesión de etiqueta ecológica –nueva, renovación o ampliación– (por producto).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 45,91</p>
+<p>285,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Inscripción en el Registro de Entidades Colaboradoras en Materia de Calidad Ambiental (nueva, modificación o ampliación).</p>
+</td>
+<td>
+<p> 45,91</p>
 </td>
 </tr>
 </tbody>
@@ -13217,65 +13016,60 @@ Son contribuyentes de esta tasa los solicitantes de los servicios a los que se r
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_54">
-<col class="row_column_118">
-<col class="row_column_119">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_32">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Muestreo (a petición de parte).</p>
+<p>Muestreo (a petición de parte).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36,94</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Germinación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> 8,51</p>
+<p>36,94</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Germinación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 4,26</p>
+<p> 8,51</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pureza específica.</p>
+<p>Humedad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 4,11</p>
+<p> 4,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Pureza específica.</p>
+</td>
+<td>
+<p> 4,11</p>
 </td>
 </tr>
 </tbody>
@@ -13309,49 +13103,44 @@ Son contribuyentes de esta tasa los solicitantes de los servicios a los que se r
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th colspan="2">Tipo de servicio</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
-<colgroup>
-<col width="5%">
-<col width="44%">
-<col width="44%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Deslinde de vía pecuaria.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">2.044,58 € por km</p>
-<p class="cuerpo_tabla_izq">(tasa mínima de 1.022,29 €).</p>
+<td>1</td>
+<td>Deslinde de vía pecuaria.</td>
+<td>
+<p>2.044,58 € por km</p>
+<p>(tasa mínima de 1.022,29 €).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Replanteo de vía pecuaria.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">343,10 € por km</p>
-<p class="cuerpo_tabla_izq">(tasa mínima de 343,10 €).</p>
+<td>2</td>
+<td>Replanteo de vía pecuaria.</td>
+<td>
+<p>343,10 € por km</p>
+<p>(tasa mínima de 343,10 €).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Deslinde de monte de utilidad pública.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1.828,24 € por km</p>
-<p class="cuerpo_tabla_izq">(tasa mínima de 914,12 €).</p>
+<td>3</td>
+<td>Deslinde de monte de utilidad pública.</td>
+<td>
+<p>1.828,24 € por km</p>
+<p>(tasa mínima de 914,12 €).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Replanteo de monte de utilidad pública.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">544,64 € por km</p>
-<p class="cuerpo_tabla_izq">(tasa mínima de 272,32 €).</p>
+<td>4</td>
+<td>Replanteo de monte de utilidad pública.</td>
+<td>
+<p>544,64 € por km</p>
+<p>(tasa mínima de 272,32 €).</p>
 </td>
 </tr>
 </tbody>
@@ -13419,136 +13208,131 @@ Son contribuyentes de esta tasa las personas físicas o jurídicas que soliciten
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_20">
-<col class="row_column_87">
-<col class="row_column_121">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación de la solicitud.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por la solicitud de primera inscripción, siendo titular de los derechos el propio autor, anotaciones preventivas y cancelaciones. Por cada solicitud.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11,83</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por obras colectivas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">71,01</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por la solicitud de primera inscripción con transmisión de derechos y por las posteriores transmisiones <em>inter vivos.</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">71,01</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por transmisiones <em>mortis causa.</em></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">71,01</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de certificados y documentos.</p>
+<p>Tramitación de la solicitud.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por expedición de certificados.</p>
+<p>Por la solicitud de primera inscripción, siendo titular de los derechos el propio autor, anotaciones preventivas y cancelaciones. Por cada solicitud.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,83</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por expedición de notas simples.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,10</p>
+<p>11,83</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por expedición de copia certificada de documentos.</p>
+<p>Por obras colectivas.</p>
+</td>
+<td>
+<p>71,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>Por la solicitud de primera inscripción con transmisión de derechos y por las posteriores transmisiones <em>inter vivos.</em></p>
+</td>
+<td>
+<p>71,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Por transmisiones <em>mortis causa.</em></p>
+</td>
+<td>
+<p>71,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td>
+<p>Expedición de certificados y documentos.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por página.</p>
+<p>Por expedición de certificados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,54</p>
+<p>11,83</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3.2</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros soportes, por unidad.</p>
+<p>Por expedición de notas simples.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,10</p>
+<p>7,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Por expedición de copia certificada de documentos.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.3.1</p>
+</td>
+<td>
+<p>Por página.</p>
+</td>
+<td>
+<p>3,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3.2</p>
+</td>
+<td>
+<p>Otros soportes, por unidad.</p>
+</td>
+<td>
+<p>7,10</p>
 </td>
 </tr>
 </tbody>
@@ -15195,175 +14979,170 @@ La cuantía fijada por urgencia hospitalaria incluye todas las prestaciones que 
 
 7\. La cuota íntegra correspondiente a cada atención ambulatoria se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="80%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Código</th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">(euros)</p>
+<th>Código</th>
+<th>Descripción</th>
+<th>
+<p>Importe</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AM0101</td>
-<td class="cuerpo_tabla_izq">Intervención de cirugía mayor ambulatoria.</td>
-<td class="cuerpo_tabla_coma">997,05</td>
+<td>AM0101</td>
+<td>Intervención de cirugía mayor ambulatoria.</td>
+<td>997,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0102</td>
-<td class="cuerpo_tabla_izq">Intervención de cirugía menor ambulatoria, infiltración u otro tratamiento en el ámbito de atención primaria o especializada, con menos de 20 minutos de duración.</td>
-<td class="cuerpo_tabla_coma">144,18</td>
+<td>AM0102</td>
+<td>Intervención de cirugía menor ambulatoria, infiltración u otro tratamiento en el ámbito de atención primaria o especializada, con menos de 20 minutos de duración.</td>
+<td>144,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0103</td>
-<td class="cuerpo_tabla_izq">Intervención de cirugía menor ambulatoria, infiltración u otro tratamiento en el ámbito de atención primaria o especializada, con más de 20 minutos de duración.</td>
-<td class="cuerpo_tabla_coma">223,32</td>
+<td>AM0103</td>
+<td>Intervención de cirugía menor ambulatoria, infiltración u otro tratamiento en el ámbito de atención primaria o especializada, con más de 20 minutos de duración.</td>
+<td>223,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0104</td>
-<td class="cuerpo_tabla_izq">Asistencia en hospital de día de oncología (incluida la pediátrica) y de hematología.</td>
-<td class="cuerpo_tabla_coma">291,03</td>
+<td>AM0104</td>
+<td>Asistencia en hospital de día de oncología (incluida la pediátrica) y de hematología.</td>
+<td>291,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0105</td>
-<td class="cuerpo_tabla_izq">Asistencia en otros hospitales de día.</td>
-<td class="cuerpo_tabla_coma">117,11</td>
+<td>AM0105</td>
+<td>Asistencia en otros hospitales de día.</td>
+<td>117,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0201</td>
-<td class="cuerpo_tabla_izq">Urgencia hospitalaria.</td>
-<td class="cuerpo_tabla_coma">240,00</td>
+<td>AM0201</td>
+<td>Urgencia hospitalaria.</td>
+<td>240,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0202</td>
-<td class="cuerpo_tabla_izq">Consulta médica de atención primaria en el centro en horario de atención continuada.</td>
-<td class="cuerpo_tabla_coma">107,27</td>
+<td>AM0202</td>
+<td>Consulta médica de atención primaria en el centro en horario de atención continuada.</td>
+<td>107,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0203</td>
-<td class="cuerpo_tabla_izq">Visita médica de atención primaria a domicilio en horario de atención continuada.</td>
-<td class="cuerpo_tabla_coma">147,67</td>
+<td>AM0203</td>
+<td>Visita médica de atención primaria a domicilio en horario de atención continuada.</td>
+<td>147,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0301</td>
-<td class="cuerpo_tabla_izq">Asistencia sanitaria prestada por los equipos SAMU/Soporte Vital Avanzado del servicio de emergencias sanitarias (SES).</td>
-<td class="cuerpo_tabla_coma">900,00</td>
+<td>AM0301</td>
+<td>Asistencia sanitaria prestada por los equipos SAMU/Soporte Vital Avanzado del servicio de emergencias sanitarias (SES).</td>
+<td>900,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0401</td>
-<td class="cuerpo_tabla_izq">Consulta médica de atención primaria en el centro en horario ordinario, primera consulta.</td>
-<td class="cuerpo_tabla_coma">77,16</td>
+<td>AM0401</td>
+<td>Consulta médica de atención primaria en el centro en horario ordinario, primera consulta.</td>
+<td>77,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0402</td>
-<td class="cuerpo_tabla_izq">Primera consulta de facultativo de pediatría y neonatología.</td>
-<td class="cuerpo_tabla_coma">127,12</td>
+<td>AM0402</td>
+<td>Primera consulta de facultativo de pediatría y neonatología.</td>
+<td>127,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0403</td>
-<td class="cuerpo_tabla_izq">Primera consulta de facultativo de otras especialidades.</td>
-<td class="cuerpo_tabla_coma">121,71</td>
+<td>AM0403</td>
+<td>Primera consulta de facultativo de otras especialidades.</td>
+<td>121,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0404</td>
-<td class="cuerpo_tabla_izq">Visita médica de atención primaria a domicilio en horario ordinario: primera visita.</td>
-<td class="cuerpo_tabla_coma">86,46</td>
+<td>AM0404</td>
+<td>Visita médica de atención primaria a domicilio en horario ordinario: primera visita.</td>
+<td>86,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0405</td>
-<td class="cuerpo_tabla_izq">Consulta médica de atención primaria en el centro en horario ordinario, consulta sucesiva.</td>
-<td class="cuerpo_tabla_coma">65,00</td>
+<td>AM0405</td>
+<td>Consulta médica de atención primaria en el centro en horario ordinario, consulta sucesiva.</td>
+<td>65,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0406</td>
-<td class="cuerpo_tabla_izq">Consulta sucesiva de facultativo de pediatría y neonatología.</td>
-<td class="cuerpo_tabla_coma">90,00</td>
+<td>AM0406</td>
+<td>Consulta sucesiva de facultativo de pediatría y neonatología.</td>
+<td>90,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0407</td>
-<td class="cuerpo_tabla_izq">Consulta sucesiva de facultativo de otras especialidades (incluye: cura médica ambulatoria).</td>
-<td class="cuerpo_tabla_coma">90,00</td>
+<td>AM0407</td>
+<td>Consulta sucesiva de facultativo de otras especialidades (incluye: cura médica ambulatoria).</td>
+<td>90,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0408</td>
-<td class="cuerpo_tabla_izq">Visita médica de atención primaria a domicilio en horario ordinario, visita sucesiva.</td>
-<td class="cuerpo_tabla_coma">77,20</td>
+<td>AM0408</td>
+<td>Visita médica de atención primaria a domicilio en horario ordinario, visita sucesiva.</td>
+<td>77,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0409</td>
-<td class="cuerpo_tabla_izq">Consulta de matrona.</td>
-<td class="cuerpo_tabla_coma">26,43</td>
+<td>AM0409</td>
+<td>Consulta de matrona.</td>
+<td>26,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0410</td>
-<td class="cuerpo_tabla_izq">Consultas de unidades de apoyo, planificación familiar, odontología preventiva, estimulación precoz del niño etc.</td>
-<td class="cuerpo_tabla_coma">47,23</td>
+<td>AM0410</td>
+<td>Consultas de unidades de apoyo, planificación familiar, odontología preventiva, estimulación precoz del niño etc.</td>
+<td>47,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0411</td>
-<td class="cuerpo_tabla_izq">Extracciones, inyectables o toma de muestras en el centro sanitario (*).</td>
-<td class="cuerpo_tabla_coma">21,30</td>
+<td>AM0411</td>
+<td>Extracciones, inyectables o toma de muestras en el centro sanitario (*).</td>
+<td>21,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0412</td>
-<td class="cuerpo_tabla_izq">Extracciones, inyectables o toma de muestras en el domicilio (**) (***).</td>
-<td class="cuerpo_tabla_coma">27,59</td>
+<td>AM0412</td>
+<td>Extracciones, inyectables o toma de muestras en el domicilio (**) (***).</td>
+<td>27,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0413</td>
-<td class="cuerpo_tabla_izq">Sesión de preparación al parto y otras actividades grupales de enfermería.</td>
-<td class="cuerpo_tabla_coma">15,37</td>
+<td>AM0413</td>
+<td>Sesión de preparación al parto y otras actividades grupales de enfermería.</td>
+<td>15,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0414</td>
-<td class="cuerpo_tabla_izq">Determinación de alcoholemia.</td>
-<td class="cuerpo_tabla_coma">21,71</td>
+<td>AM0414</td>
+<td>Determinación de alcoholemia.</td>
+<td>21,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0415</td>
-<td class="cuerpo_tabla_izq">Consulta de enfermería, cura de enfermería u otros procedimientos de enfermería no especificados en el centro sanitario (*).</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>AM0415</td>
+<td>Consulta de enfermería, cura de enfermería u otros procedimientos de enfermería no especificados en el centro sanitario (*).</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0418</td>
-<td class="cuerpo_tabla_izq">Visita de enfermería, cura de enfermería u otros procedimientos de enfermería no especificados en el domicilio (**) (***).</td>
-<td class="cuerpo_tabla_coma">61,00</td>
+<td>AM0418</td>
+<td>Visita de enfermería, cura de enfermería u otros procedimientos de enfermería no especificados en el domicilio (**) (***).</td>
+<td>61,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0421</td>
-<td class="cuerpo_tabla_izq">Sesión de rehabilitación básica.</td>
-<td class="cuerpo_tabla_coma">20,97</td>
+<td>AM0421</td>
+<td>Sesión de rehabilitación básica.</td>
+<td>20,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0422</td>
-<td class="cuerpo_tabla_izq">Consulta telefónica de facultativo.</td>
-<td class="cuerpo_tabla_coma">21,88</td>
+<td>AM0422</td>
+<td>Consulta telefónica de facultativo.</td>
+<td>21,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0423</td>
-<td class="cuerpo_tabla_izq">Consulta telefónica de enfermería.</td>
-<td class="cuerpo_tabla_coma">15,29</td>
+<td>AM0423</td>
+<td>Consulta telefónica de enfermería.</td>
+<td>15,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AM0432</td>
-<td class="cuerpo_tabla_izq">Obtención puntual de sangre de cordón umbilical por bancos privados de sangre de cordón umbilical (BSCU)</td>
-<td class="cuerpo_tabla_coma">160,00</td>
+<td>AM0432</td>
+<td>Obtención puntual de sangre de cordón umbilical por bancos privados de sangre de cordón umbilical (BSCU)</td>
+<td>160,00</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita"><sup>(*) </sup>Cuando en un mismo contacto en el centro se realice más de un procedimiento de enfermería, se facturarán por separado. En ningún caso se podrán facturar más de tres procedimientos por contacto.</p>
-<p class="cita"><sup>(**) </sup>Cuando en un mismo contacto en el domicilio del paciente se realice más de un procedimiento de enfermería, se facturarán por separado. En ningún caso se podrán facturar más de dos procedimientos por contacto.</p>
-<p class="cita"><sup>(***) </sup>No incluye la actividad realizada por el personal de enfermería de las unidades de hospital a domicilio.</p>
+<p><sup>(*) </sup>Cuando en un mismo contacto en el centro se realice más de un procedimiento de enfermería, se facturarán por separado. En ningún caso se podrán facturar más de tres procedimientos por contacto.</p>
+<p><sup>(**) </sup>Cuando en un mismo contacto en el domicilio del paciente se realice más de un procedimiento de enfermería, se facturarán por separado. En ningún caso se podrán facturar más de dos procedimientos por contacto.</p>
+<p><sup>(***) </sup>No incluye la actividad realizada por el personal de enfermería de las unidades de hospital a domicilio.</p>
 </td>
 </tr>
 </tfoot>
@@ -16783,357 +16562,352 @@ Pruebas de identificación y detección de antígenos
 
 Procesos de radioterapia externa
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_43">
-<col class="row_column_44">
-<col class="row_column_45">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (€)</p>
+<p>Importe (€)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1443</p>
+<p>PR1443</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radioterapia tridimensional con imagen portal paliativo.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional con imagen portal).</p>
+<p>Radioterapia tridimensional con imagen portal paliativo.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional con imagen portal).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.605,04</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1444</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Radioterapia tridimensional con imagen portal radical.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional con imagen portal).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.685,08</p>
+<p>1.605,04</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1445</p>
+<p>PR1444</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radioterapia tridimensional guiada por imagen Kv/Kv paliativo.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional por imagen Kv/Kv).</p>
+<p>Radioterapia tridimensional con imagen portal radical.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional con imagen portal).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.607,13</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1446</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Radioterapia tridimensional guiada por imagen Kv/Kv radical.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional por imagen Kv/Kv).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7.937,17</p>
+<p>5.685,08</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1447</p>
+<p>PR1445</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radioterapia tridimensional guiada por imagen «cone beam» paliativo.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional «cone beam»).</p>
+<p>Radioterapia tridimensional guiada por imagen Kv/Kv paliativo.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional por imagen Kv/Kv).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.765,04</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1448</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Radioterapia tridimensional guiada por imagen «cone beam» radical.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional «cone beam»).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.085,08</p>
+<p>2.607,13</p>
 </td>
 </tr>
-<tr class="row_column_24">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1449</p>
+<p>PR1446</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radioterapia de intensidad modulada (IMRT) «step and shoot» con imagen 2D Mv.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético radioterapia intensidad modulada (IMRT) con imagen 2D Mv).</p>
+<p>Radioterapia tridimensional guiada por imagen Kv/Kv radical.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional por imagen Kv/Kv).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.192,93</p>
-</td>
-</tr>
-<tr class="row_column_24">
-<td>
-<p class="cuerpo_tabla_centro">PR1450</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Radioterapia de intensidad modulada (IMRT) «step and shoot» con imagen 2D Kv.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético radioterapia intensidad modulada (IMRT) con imagen 2D Kv).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10.670,43</p>
+<p>7.937,17</p>
 </td>
 </tr>
-<tr class="row_column_24">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1451</p>
+<p>PR1447</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radioterapia de intensidad modulada (IMRT) «step and shoot» con imagen IGRT «cone beam».</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal IMRT «step and shoot» IGRT «cone beam»).</p>
+<p>Radioterapia tridimensional guiada por imagen «cone beam» paliativo.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional «cone beam»).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.970,43</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1452</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Arcoterapia tridimensional volumétrica modulada (VMAT IGRT «cone beam»).</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de arcoterapia tridimensional volumétrica modulada (VMAT IGRT «cone beam»).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12.185,08</p>
+<p>2.765,04</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1453</p>
+<p>PR1448</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radioterapia estereotáxica estracraneal (SBRT).</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión radioterapia estereotáxica extracraneal (SBRT).</p>
+<p>Radioterapia tridimensional guiada por imagen «cone beam» radical.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético tridimensional «cone beam»).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.605,04</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1454</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Radiocirugía extereotáxica con/sin Gamma Knife: dosis única.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de radioterapia, sesión de radiocirugía estereotáxica: tumores cerebrales (dosis única).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.278,04</p>
+<p>9.085,08</p>
 </td>
 </tr>
-<tr class="row_column_24">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1455</p>
+<p>PR1449</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Radiocirugía extereotáxica malformaciones arteriovenosas (MAV) y funcional con/sin Gamma Knife: dosis única.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión de radiocirugía estereotáxica malformaciones arterio venosas (MAV) y funcional: dosis única).</p>
+<p>Radioterapia de intensidad modulada (IMRT) «step and shoot» con imagen 2D Mv.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético radioterapia intensidad modulada (IMRT) con imagen 2D Mv).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.316,00</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1456</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Radiocirugía estereotáxica: con/sin Gamma Knife: dosis fraccionada.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de radiocirugía estereotáxica (dosis fraccionada).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.278,04</p>
+<p>9.192,93</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1457</p>
+<p>PR1450</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Irradiación corporal total (TBI) estándar con fotones.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de irradiación corporal total (TBI) estándar con fotones).</p>
+<p>Radioterapia de intensidad modulada (IMRT) «step and shoot» con imagen 2D Kv.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal multienergético radioterapia intensidad modulada (IMRT) con imagen 2D Kv).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.605,04</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1458</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Irradiación corporal total (TBI) estándar con electrones.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión de irradiación corporal total (TBI) estándar con electrones).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14.605,04</p>
+<p>10.670,43</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
+<td>
+<p>PR1451</p>
+</td>
+<td>
+<p>Radioterapia de intensidad modulada (IMRT) «step and shoot» con imagen IGRT «cone beam».</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de acelerador lineal IMRT «step and shoot» IGRT «cone beam»).</p>
+</td>
+<td>
+<p>10.970,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1452</p>
+</td>
+<td>
+<p>Arcoterapia tridimensional volumétrica modulada (VMAT IGRT «cone beam»).</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de arcoterapia tridimensional volumétrica modulada (VMAT IGRT «cone beam»).</p>
+</td>
+<td>
+<p>12.185,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1453</p>
+</td>
+<td>
+<p>Radioterapia estereotáxica estracraneal (SBRT).</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión radioterapia estereotáxica extracraneal (SBRT).</p>
+</td>
+<td>
+<p>7.605,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1454</p>
+</td>
+<td>
+<p>Radiocirugía extereotáxica con/sin Gamma Knife: dosis única.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de radioterapia, sesión de radiocirugía estereotáxica: tumores cerebrales (dosis única).</p>
+</td>
+<td>
+<p>9.278,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1455</p>
+</td>
+<td>
+<p>Radiocirugía extereotáxica malformaciones arteriovenosas (MAV) y funcional con/sin Gamma Knife: dosis única.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión de radiocirugía estereotáxica malformaciones arterio venosas (MAV) y funcional: dosis única).</p>
+</td>
+<td>
+<p>11.316,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1456</p>
+</td>
+<td>
+<p>Radiocirugía estereotáxica: con/sin Gamma Knife: dosis fraccionada.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de radiocirugía estereotáxica (dosis fraccionada).</p>
+</td>
+<td>
+<p>9.278,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1457</p>
+</td>
+<td>
+<p>Irradiación corporal total (TBI) estándar con fotones.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de irradiación corporal total (TBI) estándar con fotones).</p>
+</td>
+<td>
+<p>12.605,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1458</p>
+</td>
+<td>
+<p>Irradiación corporal total (TBI) estándar con electrones.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión de irradiación corporal total (TBI) estándar con electrones).</p>
+</td>
+<td>
+<p>14.605,04</p>
+</td>
+</tr>
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">PROCESOS DE RADIOTERÁPIA INTERNA O BRAQUITERÁPIA.</p>
+<p>PROCESOS DE RADIOTERÁPIA INTERNA O BRAQUITERÁPIA.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1460</p>
+<p>PR1460</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Braquiterapia ginecológica sencilla.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de braquiterapia ginecológica sencilla).</p>
+<p>Braquiterapia ginecológica sencilla.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones de braquiterapia ginecológica sencilla).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.205,04</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1461</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Braquiterapia ginecológica compleja.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia ginecológica compleja).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.846,84</p>
+<p>1.205,04</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1462</p>
+<p>PR1461</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Braquiterapia endoluminal.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia endoluminal).</p>
+<p>Braquiterapia ginecológica compleja.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia ginecológica compleja).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.005,04</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1463</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Braquiterapia intersticial sencilla.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia intersticial sencilla).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.392,04</p>
+<p>6.846,84</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1464</p>
+<p>PR1462</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Braquiterapia intersticial compleja.</p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia intersticial compleja).</p>
+<p>Braquiterapia endoluminal.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia endoluminal).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.846,84</p>
-</td>
-</tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Braquiterapia intersticial especial con I<sup>125</sup></p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, aplicación de braquiterapia intersticial especial con I<sup> 125.</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.000,00</p>
+<p>7.005,04</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1466</p>
+<p>PR1463</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Braquiterapia oftálmica con Ru<sup>106</sup> o I<sup>125</sup></p>
-<p class="cuerpo_tabla_izq">(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión braquiterapia oftálmica con Ru<sup>106</sup> o I<sup>125.</sup></p>
+<p>Braquiterapia intersticial sencilla.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia intersticial sencilla).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.705,04</p>
+<p>2.392,04</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1467</p>
+<p>PR1464</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento completo Protonterapia Adulto sin anestesia.</p>
+<p>Braquiterapia intersticial compleja.</p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesiones braquiterapia intersticial compleja).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29.000,00</p>
+<p>6.846,84</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1465</p>
+</td>
+<td>
+<p>Braquiterapia intersticial especial con I<sup>125</sup></p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, aplicación de braquiterapia intersticial especial con I<sup> 125.</sup></p>
+</td>
+<td>
+<p>9.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1466</p>
+</td>
+<td>
+<p>Braquiterapia oftálmica con Ru<sup>106</sup> o I<sup>125</sup></p>
+<p>(Incluye: primera consulta y consulta sucesiva de facultativo, planificación de la radioterapia, sesión braquiterapia oftálmica con Ru<sup>106</sup> o I<sup>125.</sup></p>
+</td>
+<td>
+<p>9.705,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PR1467</p>
+</td>
+<td>
+<p>Tratamiento completo Protonterapia Adulto sin anestesia.</p>
+</td>
+<td>
+<p>29.000,00</p>
 </td>
 </tr>
 <tr>
 </tr>
-<tr class="row_column_23">
-<td>
-<p class="cuerpo_tabla_centro">PR1468</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tratamiento completo Protonterapia Adulto con anestesia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.000,00</p>
-</td>
-</tr>
-<tr class="row_column_23">
-</tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1469</p>
+<p>PR1468</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento completo P rotonterapia Pediátrico sin anestesia.</p>
+<p>Tratamiento completo Protonterapia Adulto con anestesia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.000,00</p>
+<p>36.000,00</p>
 </td>
 </tr>
 <tr>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">PR1470</p>
+<p>PR1469</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento completo Protonterapia Pediátrico con anestesia.</p>
+<p>Tratamiento completo P rotonterapia Pediátrico sin anestesia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42.000,00</p>
+<p>35.000,00</p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>PR1470</p>
+</td>
+<td>
+<p>Tratamiento completo Protonterapia Pediátrico con anestesia.</p>
+</td>
+<td>
+<p>42.000,00</p>
 </td>
 </tr>
 </tbody>
@@ -18186,2361 +17960,2345 @@ Son contribuyentes de esta tasa, las personas a las que se presten los servicios
 
 1\. La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_3">
-<col class="row_column_51">
-<col class="row_column_148">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio (descripción)</p>
+<p>Tipo de servicio (descripción)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo I</p>
+<p>Grupo I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estudios e informes previos a la autorización de obras de nueva construcción o reforma.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_31">
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Estudios e informes previos a la autorización de obras de nueva construcción o reforma, siempre que sean necesarios, en virtud de norma legal o reglamentaria, para la obtención de la autorización sanitaria de funcionamiento o inscripción en algún registro sanitario de dichas obras.</p>
-<p class="cuerpo_tabla_izq">No será de aplicación este grupo de tarifas en los supuestos expresamente regulados en el grupo IX.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Por cada proyecto, el 0,25 % del importe del presupuesto total (ejecución de obra civil e instalaciones), con un límite máximo de 66,90 € (cantidad anual)</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Grupo II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos.</p>
+<p>Estudios e informes previos a la autorización de obras de nueva construcción o reforma.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos, incluidas sus instalaciones, destinados a:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>Estudios e informes previos a la autorización de obras de nueva construcción o reforma, siempre que sean necesarios, en virtud de norma legal o reglamentaria, para la obtención de la autorización sanitaria de funcionamiento o inscripción en algún registro sanitario de dichas obras.</p>
+<p>No será de aplicación este grupo de tarifas en los supuestos expresamente regulados en el grupo IX.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estaciones de autobuses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
+<p>Por cada proyecto, el 0,25 % del importe del presupuesto total (ejecución de obra civil e instalaciones), con un límite máximo de 66,90 € (cantidad anual)</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2</p>
+<p>Grupo II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De aguas potables privadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De aguas residuales privadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Teatros, cines, frontones, pubs, discotecas, plazas de toros, campos de deportes, hipódromos, velódromos y establecimientos análogos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hoteles, hostales y pensiones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hospitales, sanatorios, clínicas, preventorios, casas de salud, instituciones de reposo, residencias para enfermos convalecientes y demás establecimientos análogos privados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Consultorios para animales y centros de guarda y custodia de los mismos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,97</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos, incluidas sus instalaciones, destinados a:</p>
+<p>Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Viviendas, apartamentos, bungalows y villas en régimen de alquiler.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Centros de enseñanza, institutos, academias y demás establecimientos análogos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gimnasios, establecimientos para la práctica de deportes y escuelas de educación física.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Institutos de belleza, casas de baños, piscinas y peluquerías.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Centros culturales, casinos y sociedades de recreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almacenes de productos farmacéuticos, farmacias y laboratorios de análisis.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos, incluidas sus instalaciones, destinados a:</p>
+<p>Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos, incluidas sus instalaciones, destinados a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Locales o inmuebles de pública concurrencia autorizados o que hayan solicitado la autorización para el ejercicio en los mismos de actividades de prostitución.</p>
+<p>Estaciones de autobuses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32,64</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de las condiciones higiénico-sanitarias de cualesquiera otros establecimientos, no incluidos en las tarifas anteriores, que realicen actividades molestas, insalubres o peligrosas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11</p>
+<p>33,97</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo III</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de policía funeraria.</p>
+<p>De aguas potables privadas.</p>
+</td>
+<td>
+<p>33,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>De aguas residuales privadas.</p>
+</td>
+<td>
+<p>33,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Teatros, cines, frontones, pubs, discotecas, plazas de toros, campos de deportes, hipódromos, velódromos y establecimientos análogos.</p>
+</td>
+<td>
+<p>33,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Hoteles, hostales y pensiones.</p>
+</td>
+<td>
+<p>33,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Hospitales, sanatorios, clínicas, preventorios, casas de salud, instituciones de reposo, residencias para enfermos convalecientes y demás establecimientos análogos privados.</p>
+</td>
+<td>
+<p>33,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.7</p>
+</td>
+<td>
+<p>Consultorios para animales y centros de guarda y custodia de los mismos.</p>
+</td>
+<td>
+<p>33,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos, incluidas sus instalaciones, destinados a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de criptas.</p>
+<p>Viviendas, apartamentos, bungalows y villas en régimen de alquiler.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,19</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación e inspección de establecimientos destinados a tanatorios y demás establecimientos de empresas funerarias.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52,85</p>
+<p>15,11</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Traslado de cadáveres sin inhumar.</p>
+<p>Centros de enseñanza, institutos, academias y demás establecimientos análogos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,88 por cadáver</p>
+<p>15,11</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Exhumación de cadáveres antes de transcurridos tres años desde su enterramiento:</p>
+<p>Gimnasios, establecimientos para la práctica de deportes y escuelas de educación física.</p>
+</td>
+<td>
+<p>15,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Institutos de belleza, casas de baños, piscinas y peluquerías.</p>
+</td>
+<td>
+<p>15,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Centros culturales, casinos y sociedades de recreo.</p>
+</td>
+<td>
+<p>15,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Almacenes de productos farmacéuticos, farmacias y laboratorios de análisis.</p>
+</td>
+<td>
+<p>15,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Comprobación e inspección de las condiciones higiénico-sanitarias de locales y establecimientos, incluidas sus instalaciones, destinados a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Para su reinhumación en la misma localidad.</p>
+<p>Locales o inmuebles de pública concurrencia autorizados o que hayan solicitado la autorización para el ejercicio en los mismos de actividades de prostitución.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,11 por cadáver</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para su traslado a otra localidad de la Comunitat Valenciana.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22,65 por cadáver</p>
+<p>32,64</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.3</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Para su traslado a otra comunidad autónoma.</p>
+<p>Comprobación e inspección de las condiciones higiénico-sanitarias de cualesquiera otros establecimientos, no incluidos en las tarifas anteriores, que realicen actividades molestas, insalubres o peligrosas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,19 por cadáver</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inhumación de cadáveres en cripta dentro de cementerios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11 por cadáver</p>
+<p>15,11</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6</p>
+<p>Grupo III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inhumación de cadáveres en cripta fuera de cementerios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">150,98 por cadáver</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comprobación sanitaria de actos tanatológicos, sin intervención en la práctica de los mismos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,11 por acto</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">Grupo IV</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de práctica tanatológica.</p>
+<p>Servicios de policía funeraria.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
-<td> </td>
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Embalsamamiento.</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">658,20</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">2. Conservación transitoria.</p>
+<p>Comprobación e inspección de criptas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">79,36</p>
+<p>30,19</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo V</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Descripción.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>Comprobación e inspección de establecimientos destinados a tanatorios y demás establecimientos de empresas funerarias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización, inscripción, comprobación e inspección de laboratorios que hacen estudios no clínicos sobre medicamentos o productos cosméticos y sus productos:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inscripción en el registro de laboratorios incluidos en el programa de verificación del cumplimiento de buenas prácticas de laboratorio (BPL) y visita de preinscripción.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">279,76</p>
+<p>52,85</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y comprobación del laboratorio y sus productos.</p>
+<p>Traslado de cadáveres sin inhumar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">458,86</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización de laboratorios farmacéuticos que fabrican medicamentos a base de extractos alergénicos individualizados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">929,34</p>
+<p>18,88 por cadáver</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y control de la industria farmacéutica.</p>
+<p>Exhumación de cadáveres antes de transcurridos tres años desde su enterramiento:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección del laboratorio farmacéutico.</p>
+<p>Para su reinhumación en la misma localidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">473,95</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En el caso de laboratorios de medicamentos a base de especies vegetales medicinales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">308,62</p>
+<p>15,11 por cadáver</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Toma de muestras.</p>
+<p>Para su traslado a otra localidad de la Comunitat Valenciana.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">308,62</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de un certificado de cumplimiento de las normas de fabricación correcta de medicamentos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93,26</p>
+<p>22,65 por cadáver</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.4</p>
+<p>4.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de otro tipo de certificados.</p>
+<p>Para su traslado a otra comunidad autónoma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">54,44</p>
+<p>30,19 por cadáver</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y control de industrias de productos cosméticos, similares y afines.</p>
+<p>Inhumación de cadáveres en cripta dentro de cementerios.</p>
+</td>
+<td>
+<p>15,11 por cadáver</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Inhumación de cadáveres en cripta fuera de cementerios.</p>
+</td>
+<td>
+<p>150,98 por cadáver</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Comprobación sanitaria de actos tanatológicos, sin intervención en la práctica de los mismos.</p>
+</td>
+<td>
+<p>15,11 por acto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo IV</p>
+</td>
+<td>
+<p>Servicios de práctica tanatológica.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
+<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>1. Embalsamamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección de la industria.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">308,62</p>
+<p>658,20</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
+<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">3.2</p>
+<p>2. Conservación transitoria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Toma de muestras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">308,62</p>
+<p>79,36</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>Grupo V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición del certificado de cumplimiento de las normas de correcta fabricación y/o sistema de garantía de calidad de estos productos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93,26</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de otro tipo de certificados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,29</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de tramitación y resolución de las solicitudes de autorización de estudios postautorización observacionales prospectivos de medicamentos de uso humano.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">568,82</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización.</p>
+<p>Descripción.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Modificación de la autorización derivada de cambios estructurales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">473,95</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inspección y control de las autorizaciones concedidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">473,95</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">Grupo VI</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios y actuaciones inherentes a productos sanitarios.</p>
+<p>Autorización, inscripción, comprobación e inspección de laboratorios que hacen estudios no clínicos sobre medicamentos o productos cosméticos y sus productos:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones inspectoras individualizadas a petición de parte, salvo en los supuestos de denuncia o a petición de una asociación de usuarios o de consumidores representativa.</p>
+<p>Inscripción en el registro de laboratorios incluidos en el programa de verificación del cumplimiento de buenas prácticas de laboratorio (BPL) y visita de preinscripción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">690,01</p>
-</td>
-</tr>
-<tr class="row_column_72">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Procedimiento de expedición de certificaciones y de resoluciones de reconocimiento oficial de la experiencia profesional en actividades de venta, con adaptación individualizada, de productos ortoprotésicos y audioprotésicos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">111,02</p>
+<p>279,76</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Procedimiento de otorgamiento de licencia previa a la apertura y funcionamiento de establecimientos de óptica, de fabricación «a medida» y de venta al público, con adaptación individualizada, de productos sanitarios.</p>
+<p>Inspección y comprobación del laboratorio y sus productos.</p>
+</td>
+<td>
+<p>458,86</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>Autorización de laboratorios farmacéuticos que fabrican medicamentos a base de extractos alergénicos individualizados.</p>
+</td>
+<td>
+<p>929,34</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Inspección y control de la industria farmacéutica.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Establecimientos de óptica.</p>
+<p>Inspección del laboratorio farmacéutico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">156</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Establecimientos de fabricación «a medida».</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">703,81</p>
+<p>473,95</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>2.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Establecimientos de venta al público, con adaptación individualizada.</p>
+<p>En el caso de laboratorios de medicamentos a base de especies vegetales medicinales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">156</p>
+<p>308,62</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Procedimiento de modificación de la licencia de apertura y funcionamiento de establecimientos de óptica, de fabricación «a medida» y de venta al público, con adaptación individualizada, de productos sanitarios inherentes a variaciones estructurales en sus locales o a traslados de domicilio.</p>
+<p>Toma de muestras.</p>
+</td>
+<td>
+<p>308,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Expedición de un certificado de cumplimiento de las normas de fabricación correcta de medicamentos.</p>
+</td>
+<td>
+<p>93,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Expedición de otro tipo de certificados.</p>
+</td>
+<td>
+<p>54,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Inspección y control de industrias de productos cosméticos, similares y afines.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Establecimientos de óptica.</p>
+<p>Inspección de la industria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">152,95</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Establecimientos de fabricación «a medida».</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">690,01</p>
+<p>308,62</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.3</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Establecimientos de venta al público, con adaptación individualizada.</p>
+<p>Toma de muestras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">152,95</p>
+<p>308,62</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Procedimiento de revalidación de la licencia de apertura y funcionamiento de establecimientos de fabricación «a medida» y de venta al público, con adaptación individualizada, de productos sanitarios.</p>
+<p>Expedición del certificado de cumplimiento de las normas de correcta fabricación y/o sistema de garantía de calidad de estos productos.</p>
+</td>
+<td>
+<p>93,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.4</p>
+</td>
+<td>
+<p>Expedición de otro tipo de certificados.</p>
+</td>
+<td>
+<p>41,29</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Servicios de tramitación y resolución de las solicitudes de autorización de estudios postautorización observacionales prospectivos de medicamentos de uso humano.</p>
+</td>
+<td>
+<p>568,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.1</p>
+</td>
+<td>
+<p>Autorización.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1</p>
+<p>5.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Establecimientos de fabricación «a medida».</p>
+<p>Modificación de la autorización derivada de cambios estructurales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">497,95</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">5.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Establecimientos de venta al público, con adaptación individualizada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">110,38</p>
+<p>473,95</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6</p>
+<p>5.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuación en el procedimiento de autorización previa para la difusión pública a través de cualquier medio, de mensajes publicitarios relacionados con los productos sanitarios.</p>
+<p>Inspección y control de las autorizaciones concedidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">145,1</p>
+<p>473,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo VI</p>
+</td>
+<td>
+<p>Servicios y actuaciones inherentes a productos sanitarios.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Actuaciones inspectoras individualizadas a petición de parte, salvo en los supuestos de denuncia o a petición de una asociación de usuarios o de consumidores representativa.</p>
+</td>
+<td>
+<p>690,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Procedimiento de expedición de certificaciones y de resoluciones de reconocimiento oficial de la experiencia profesional en actividades de venta, con adaptación individualizada, de productos ortoprotésicos y audioprotésicos.</p>
+</td>
+<td>
+<p>111,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Procedimiento de otorgamiento de licencia previa a la apertura y funcionamiento de establecimientos de óptica, de fabricación «a medida» y de venta al público, con adaptación individualizada, de productos sanitarios.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Establecimientos de óptica.</p>
+</td>
+<td>
+<p>156</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>Establecimientos de fabricación «a medida».</p>
+</td>
+<td>
+<p>703,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3</p>
+</td>
+<td>
+<p>Establecimientos de venta al público, con adaptación individualizada.</p>
+</td>
+<td>
+<p>156</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Procedimiento de modificación de la licencia de apertura y funcionamiento de establecimientos de óptica, de fabricación «a medida» y de venta al público, con adaptación individualizada, de productos sanitarios inherentes a variaciones estructurales en sus locales o a traslados de domicilio.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>4.1</p>
+</td>
+<td>
+<p>Establecimientos de óptica.</p>
+</td>
+<td>
+<p>152,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.2</p>
+</td>
+<td>
+<p>Establecimientos de fabricación «a medida».</p>
+</td>
+<td>
+<p>690,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.3</p>
+</td>
+<td>
+<p>Establecimientos de venta al público, con adaptación individualizada.</p>
+</td>
+<td>
+<p>152,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Procedimiento de revalidación de la licencia de apertura y funcionamiento de establecimientos de fabricación «a medida» y de venta al público, con adaptación individualizada, de productos sanitarios.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>5.1</p>
+</td>
+<td>
+<p>Establecimientos de fabricación «a medida».</p>
+</td>
+<td>
+<p>497,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.2</p>
+</td>
+<td>
+<p>Establecimientos de venta al público, con adaptación individualizada.</p>
+</td>
+<td>
+<p>110,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Actuación en el procedimiento de autorización previa para la difusión pública a través de cualquier medio, de mensajes publicitarios relacionados con los productos sanitarios.</p>
+</td>
+<td>
+<p>145,1</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_25">
-<col class="row_column_149">
-<col class="row_column_122">
-<col class="row_column_101">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_150">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio (descripción)</p>
+<p>Tipo de servicio (descripción)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe parámetro (euros)</p>
+<p>Importe parámetro (euros)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe preparación de muestras (euros)</p>
+<p>Importe preparación de muestras (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo VII</p>
+<p>Grupo VII</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por la realización de análisis por los laboratorios de salud pública de la conselleria competente en materia de sanidad, cuando tales análisis vengan impuestos por las disposiciones normativas vigentes en el ámbito del control oficial de alimentos, aguas y otras muestras ambientales.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ANÁLISIS FÍSICO-QUÍMICO.</p>
+<p>Por la realización de análisis por los laboratorios de salud pública de la conselleria competente en materia de sanidad, cuando tales análisis vengan impuestos por las disposiciones normativas vigentes en el ámbito del control oficial de alimentos, aguas y otras muestras ambientales.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alimentos.</p>
+<p>ANÁLISIS FÍSICO-QUÍMICO.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Determinaciones por volumetría.</p>
+<p>Alimentos.</p>
 </td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.2</p>
+<p>1.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Determinaciones gravimétricas.</p>
+<p>Determinaciones por volumetría.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Determinaciones por espetrofotometría UV-VIS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Determinacines por CL-DAD, CL-conduc. o CL-Fl.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Metales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Compuestos polares.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">72</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ensayos de migración global de materiales a ser destinados a estar en contacto con los alimentos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ensayos de migración especifica de materiales a ser destinados a estar en contacto con los alimentos por LC-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ensayos de migración especifica de materiales a ser destinados a estar en contacto con los alimentos por LC-DAD.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ensayos de migración especifica de materiales a ser destinados a estar en contacto con los alimentos por CG.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.1.11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ensayos de migración específica de materiales a ser destinados a estar en contacto con los alimentos por ICP-MS (metales).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">526</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos y contaminantes por GC-MS distintos a los plaguicidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos y contaminantes por LC-MS distintos a los plaguicidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de plaguicidas por CG-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">531</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de plaguicidas por CL-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Micotoxinas por CL-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Micotoxinas por CL-DAD o LC-FL.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">53</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1.18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos zoosanitarios por LC-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">584</p>
+<p>80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1.19</p>
+<p>1.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Determinación de dioxinas, furanos y PCBs similares a las dioxinas mediante GC–HRMS, reguladas por el Reglamento (CE) n.º 1881/2006:</p>
+<p>Determinaciones gravimétricas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">460</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>30</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2</p>
+<p>1.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aguas.</p>
+<p>Determinaciones por espetrofotometría UV-VIS.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.4</p>
+</td>
+<td>
+<p>Determinacines por CL-DAD, CL-conduc. o CL-Fl.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.5</p>
+</td>
+<td>
+<p>Metales.</p>
+</td>
+<td>
+<p>31</p>
+</td>
+<td>
+<p>70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.6</p>
+</td>
+<td>
+<p>Compuestos polares.</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.7</p>
+</td>
+<td>
+<p>Ensayos de migración global de materiales a ser destinados a estar en contacto con los alimentos.</p>
+</td>
+<td>
+<p>101</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.8</p>
+</td>
+<td>
+<p>Ensayos de migración especifica de materiales a ser destinados a estar en contacto con los alimentos por LC-MS.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.9</p>
+</td>
+<td>
+<p>Ensayos de migración especifica de materiales a ser destinados a estar en contacto con los alimentos por LC-DAD.</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.10</p>
+</td>
+<td>
+<p>Ensayos de migración especifica de materiales a ser destinados a estar en contacto con los alimentos por CG.</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.11</p>
+</td>
+<td>
+<p>Ensayos de migración específica de materiales a ser destinados a estar en contacto con los alimentos por ICP-MS (metales).</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>526</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.12</p>
+</td>
+<td>
+<p>Residuos y contaminantes por GC-MS distintos a los plaguicidas.</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.13</p>
+</td>
+<td>
+<p>Residuos y contaminantes por LC-MS distintos a los plaguicidas.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.14</p>
+</td>
+<td>
+<p>Residuos de plaguicidas por CG-MS.</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>531</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.15</p>
+</td>
+<td>
+<p>Residuos de plaguicidas por CL-MS.</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.16</p>
+</td>
+<td>
+<p>Micotoxinas por CL-MS.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.17</p>
+</td>
+<td>
+<p>Micotoxinas por CL-DAD o LC-FL.</p>
+</td>
+<td>
+<p>53</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.18</p>
+</td>
+<td>
+<p>Residuos zoosanitarios por LC-MS.</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>584</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.19</p>
+</td>
+<td>
+<p>Determinación de dioxinas, furanos y PCBs similares a las dioxinas mediante GC–HRMS, reguladas por el Reglamento (CE) n.º 1881/2006:</p>
+</td>
+<td>
+<p>460</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2</p>
+</td>
+<td>
+<p>Aguas.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.1</p>
+<p>1.2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Determinaciones por volumetría.</p>
+<p>Determinaciones por volumetría.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Determinaciones por gravimetría.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.3</p>
+<p>1.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Determinaciones por espectrofotometría UVVIS.</p>
+<p>Determinaciones por gravimetría.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Determinaciones por espectrofotometría con digestión o destilación previa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>30</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.5</p>
+<p>1.2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aniones o cationes por IC en aguas de consumo humano.</p>
+<p>Determinaciones por espectrofotometría UVVIS.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aniones o cationes por IC en aguas superficiales o vertidos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.7</p>
+<p>1.2.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Metales.</p>
+<p>Determinaciones por espectrofotometría con digestión o destilación previa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Índice de Langelier.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>20</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.9</p>
+<p>1.2.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compuestos orgánicos volátiles por GC.</p>
+<p>Aniones o cationes por IC en aguas de consumo humano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Contaminantes orgánicos por CG-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">260</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2.11</p>
+<p>1.2.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de plaguicidas por CG-MS.</p>
+<p>Aniones o cationes por IC en aguas superficiales o vertidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">212</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de plaguicidas por CL-MS.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>20</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
+<td>
+<p>1.2.7</p>
+</td>
+<td>
+<p>Metales.</p>
+</td>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.8</p>
+</td>
+<td>
+<p>Índice de Langelier.</p>
+</td>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.9</p>
+</td>
+<td>
+<p>Compuestos orgánicos volátiles por GC.</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.10</p>
+</td>
+<td>
+<p>Contaminantes orgánicos por CG-MS.</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>260</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.11</p>
+</td>
+<td>
+<p>Residuos de plaguicidas por CG-MS.</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>212</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.12</p>
+</td>
+<td>
+<p>Residuos de plaguicidas por CL-MS.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
 <td> </td>
 <td> </td>
 <td colspan="2">
-<p class="cabeza_tabla">Parámetro (euros)</p>
+<p>Parámetro (euros)</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.</p>
+<p>2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2. ANÁLISIS MICROBIOLÓGICO.</p>
+<p>2. ANÁLISIS MICROBIOLÓGICO.</p>
 </td>
 <td colspan="2"> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aguas y alimentos.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detección de microorganismos.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección de <em>Legionella pneumophila.</em></p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">37</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección y recuento de microorganismos.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección y recuento de <em>Legionella pneumophila.</em></p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recuento de microorganismos.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recuento de legionella spp.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recuento de mohos y levaduras.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección Parásitos (<em>Trichinella</em>, huevos nematodos en aguas).</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">2.1.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección y/o cuantificación de microorganismos patógenas por RT-PCR, cada microorganismo.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">282</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección de virus entéricos por RT-PCR.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">282</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bioensayo in Vitro.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">227</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Determinación de una sustancia por análisis enzimático/inmunoensayo.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">101</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba microbiológica de cribado de inhibidores del crecimiento bacteriano.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detección enterotoxina estafilocócica.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-</tr>
-<tr class="row_column_32">
-<td> </td>
-<td> </td>
-<td colspan="2">
-<p class="cabeza_tabla">Parámetro (euros)</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Serotipado de (Salmonella).</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">32</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis cualitativo de organismos modificados genéticamente (OMG).</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">159</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.1.17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Análisis cuantitativo de OMG.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">318</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OTROS.</p>
+<p>Aguas y alimentos.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Investigación y recuento de microorganismos en superficies.</p>
+<p>Detección de microorganismos.</p>
 </td>
-<td>
-<p class="cuerpo_tabla_centro">37,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">----</p>
+<td colspan="2">
+<p>27</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2</p>
+<p>2.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detección de microorganismos en superficies por RT-PCR.</p>
+<p>Detección de <em>Legionella pneumophila.</em></p>
 </td>
-<td>
-<p class="cuerpo_tabla_centro">283</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">----</p>
+<td colspan="2">
+<p>37</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>2.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fracción PM en aire ambiente.</p>
+<p>Detección y recuento de microorganismos.</p>
+</td>
+<td colspan="2">
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>Detección y recuento de <em>Legionella pneumophila.</em></p>
+</td>
+<td colspan="2">
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.5</p>
+</td>
+<td>
+<p>Recuento de microorganismos.</p>
+</td>
+<td colspan="2">
+<p>27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.6</p>
+</td>
+<td>
+<p>Recuento de legionella spp.</p>
+</td>
+<td colspan="2">
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.7</p>
+</td>
+<td>
+<p>Recuento de mohos y levaduras.</p>
+</td>
+<td colspan="2">
+<p>21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.8</p>
+</td>
+<td>
+<p>Detección Parásitos (<em>Trichinella</em>, huevos nematodos en aguas).</p>
+</td>
+<td colspan="2">
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.9</p>
+</td>
+<td>
+<p>Detección y/o cuantificación de microorganismos patógenas por RT-PCR, cada microorganismo.</p>
+</td>
+<td colspan="2">
+<p>282</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.10</p>
+</td>
+<td>
+<p>Detección de virus entéricos por RT-PCR.</p>
+</td>
+<td colspan="2">
+<p>282</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.11</p>
+</td>
+<td>
+<p>Bioensayo in Vitro.</p>
+</td>
+<td colspan="2">
+<p>227</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.12</p>
+</td>
+<td>
+<p>Determinación de una sustancia por análisis enzimático/inmunoensayo.</p>
+</td>
+<td colspan="2">
+<p>101</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.13</p>
+</td>
+<td>
+<p>Prueba microbiológica de cribado de inhibidores del crecimiento bacteriano.</p>
+</td>
+<td colspan="2">
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.14</p>
+</td>
+<td>
+<p>Detección enterotoxina estafilocócica.</p>
+</td>
+<td colspan="2">
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="2">
+<p>Parámetro (euros)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.15</p>
+</td>
+<td>
+<p>Serotipado de (Salmonella).</p>
+</td>
+<td colspan="2">
+<p>32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.16</p>
+</td>
+<td>
+<p>Análisis cualitativo de organismos modificados genéticamente (OMG).</p>
+</td>
+<td colspan="2">
+<p>159</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.17</p>
+</td>
+<td>
+<p>Análisis cuantitativo de OMG.</p>
+</td>
+<td colspan="2">
+<p>318</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>OTROS.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>Investigación y recuento de microorganismos en superficies.</p>
+</td>
+<td>
+<p>37,5</p>
+</td>
+<td>
+<p>----</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>Detección de microorganismos en superficies por RT-PCR.</p>
+</td>
+<td>
+<p>283</p>
+</td>
+<td>
+<p>----</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3</p>
+</td>
+<td>
+<p>Fracción PM en aire ambiente.</p>
+</td>
+<td>
+<p>21</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.4</p>
+<p>3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Metales en aire ambiente.</p>
+<p>Metales en aire ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">PAH en aire ambiente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">260</p>
+<p>70</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.6</p>
+<p>3.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de plaguicidas por CG-MS en aire ambiente.</p>
+<p>PAH en aire ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">212</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de plaguicidas por CL-MS en aire ambiente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>260</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.8</p>
+<p>3.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras determinaciones.</p>
+<p>Residuos de plaguicidas por CG-MS en aire ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>212</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.7</p>
+</td>
+<td>
+<p>Residuos de plaguicidas por CL-MS en aire ambiente.</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.8</p>
+</td>
+<td>
+<p>Otras determinaciones.</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_19">
-<col class="row_column_151">
-<col class="row_column_103">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio (descripción)</p>
+<p>Tipo de servicio (descripción)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Grupo IX</td>
-<td class="cuerpo_tabla_izq">Servicios de tramitación de autorizaciones sanitarias de centros, servicios y establecimientos sanitarios, autorizaciones sanitarias de centros para la práctica de actividades de extracción y trasplante de órganos, tejidos y células, certificaciones sanitarias de transporte sanitario y emisión de duplicados de resoluciones y certificados de inscripción en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Grupo IX</td>
+<td>Servicios de tramitación de autorizaciones sanitarias de centros, servicios y establecimientos sanitarios, autorizaciones sanitarias de centros para la práctica de actividades de extracción y trasplante de órganos, tejidos y células, certificaciones sanitarias de transporte sanitario y emisión de duplicados de resoluciones y certificados de inscripción en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq">Por el estudio de la documentación, emisión de informes, inspección, en los casos en que esta proceda, e inscripción en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios de la Comunitat Valenciana, a realizar por los servicios correspondientes de la conselleria competente en materia de sanidad en los procedimientos de autorización sanitaria de instalación, funcionamiento, modificación y cierre de centros, servicios y establecimientos sanitarios en el ámbito territorial de la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>Por el estudio de la documentación, emisión de informes, inspección, en los casos en que esta proceda, e inscripción en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios de la Comunitat Valenciana, a realizar por los servicios correspondientes de la conselleria competente en materia de sanidad en los procedimientos de autorización sanitaria de instalación, funcionamiento, modificación y cierre de centros, servicios y establecimientos sanitarios en el ámbito territorial de la Comunitat Valenciana:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1</td>
-<td class="cuerpo_tabla_izq">Servicios de tramitación de la autorización sanitaria de instalación y funcionamiento de nuevos centros y servicios sanitarios, y de las autorizaciones de traslado y modificación de centros y servicios ya autorizados que suponga alteraciones sustanciales en su estructura o instalaciones:</td>
-<td class="cuerpo_tabla_centro">Suma de los importes 1.1.1, 1.1.2 y 1.1.3</td>
+<td>1.1</td>
+<td>Servicios de tramitación de la autorización sanitaria de instalación y funcionamiento de nuevos centros y servicios sanitarios, y de las autorizaciones de traslado y modificación de centros y servicios ya autorizados que suponga alteraciones sustanciales en su estructura o instalaciones:</td>
+<td>Suma de los importes 1.1.1, 1.1.2 y 1.1.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1</td>
-<td class="cuerpo_tabla_izq">Por tramitación de la autorización sanitaria en función del grupo de clasificación del centro o servicio sanitario:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1.1</td>
+<td>Por tramitación de la autorización sanitaria en función del grupo de clasificación del centro o servicio sanitario:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1</td>
-<td class="cuerpo_tabla_izq">Grupo C.1. Hospitales (centros con internamiento).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1.1.1</td>
+<td>Grupo C.1. Hospitales (centros con internamiento).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.1</td>
-<td class="cuerpo_tabla_izq">C.1.1. Hospitales generales.</td>
-<td class="cuerpo_tabla_coma">2.624,69</td>
+<td>1.1.1.1.1</td>
+<td>C.1.1. Hospitales generales.</td>
+<td>2.624,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.2</td>
-<td class="cuerpo_tabla_izq">C.1.2. Hospitales especializados.</td>
-<td class="cuerpo_tabla_coma">2.099,75</td>
+<td>1.1.1.1.2</td>
+<td>C.1.2. Hospitales especializados.</td>
+<td>2.099,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.3</td>
-<td class="cuerpo_tabla_izq">C.1.3. Hospitales de media y larga estancia.</td>
-<td class="cuerpo_tabla_coma">1.574,81</td>
+<td>1.1.1.1.3</td>
+<td>C.1.3. Hospitales de media y larga estancia.</td>
+<td>1.574,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.4</td>
-<td class="cuerpo_tabla_izq">C.1.4. Hospitales de salud mental y tratamiento de toxicomanías.</td>
-<td class="cuerpo_tabla_coma">1.574,81</td>
+<td>1.1.1.1.4</td>
+<td>C.1.4. Hospitales de salud mental y tratamiento de toxicomanías.</td>
+<td>1.574,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5</td>
-<td class="cuerpo_tabla_izq">C.1.90. Otros centros con internamiento.</td>
-<td class="cuerpo_tabla_coma">1.574,81</td>
+<td>1.1.1.1.5</td>
+<td>C.1.90. Otros centros con internamiento.</td>
+<td>1.574,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2</td>
-<td class="cuerpo_tabla_izq">Grupo C.2. Proveedores de asistencia sanitaria sin internamiento.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1.1.2</td>
+<td>Grupo C.2. Proveedores de asistencia sanitaria sin internamiento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.1</td>
-<td class="cuerpo_tabla_izq">C.2.1. Consultas médicas.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.1.1.2.1</td>
+<td>C.2.1. Consultas médicas.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.2</td>
-<td class="cuerpo_tabla_izq">C.2.2. Consultas de otros profesionales sanitarios.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.1.1.2.2</td>
+<td>C.2.2. Consultas de otros profesionales sanitarios.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.3</td>
-<td class="cuerpo_tabla_izq">C.2.3. Centros de atención primaria.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1.1.2.3</td>
+<td>C.2.3. Centros de atención primaria.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.3.1</td>
-<td class="cuerpo_tabla_izq">C.2.3.1. Centros de salud.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.2.3.1</td>
+<td>C.2.3.1. Centros de salud.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.3.2</td>
-<td class="cuerpo_tabla_izq">C.2.3.2. Consultorios de atención primaria.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.2.3.2</td>
+<td>C.2.3.2. Consultorios de atención primaria.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.4</td>
-<td class="cuerpo_tabla_izq">C.2.4. Centros polivalentes.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.2.4</td>
+<td>C.2.4. Centros polivalentes.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.2.5</td>
-<td class="cuerpo_tabla_izq">C.2.5. Centros especializados.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1.1.2.5</td>
+<td>C.2.5. Centros especializados.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.1</td>
-<td class="cuerpo_tabla_izq">C.2.5.1. Clínicas dentales.</td>
-<td class="cuerpo_tabla_coma">623,69</td>
+<td>1.1.1.1.5.1</td>
+<td>C.2.5.1. Clínicas dentales.</td>
+<td>623,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.2</td>
-<td class="cuerpo_tabla_izq">C.2.5.2. Centros de reproducción humana asistida.</td>
-<td class="cuerpo_tabla_coma">944,89</td>
+<td>1.1.1.1.5.2</td>
+<td>C.2.5.2. Centros de reproducción humana asistida.</td>
+<td>944,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.3</td>
-<td class="cuerpo_tabla_izq">C.2.5.3. Centros de interrupción voluntaria del embarazo.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.1.5.3</td>
+<td>C.2.5.3. Centros de interrupción voluntaria del embarazo.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.4</td>
-<td class="cuerpo_tabla_izq">C.2.5.4. Centros de cirugía mayor ambulatoria.</td>
-<td class="cuerpo_tabla_coma">944,89</td>
+<td>1.1.1.1.5.4</td>
+<td>C.2.5.4. Centros de cirugía mayor ambulatoria.</td>
+<td>944,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.5</td>
-<td class="cuerpo_tabla_izq">C.2.5.5. Centros de diálisis.</td>
-<td class="cuerpo_tabla_coma">944,89</td>
+<td>1.1.1.1.5.5</td>
+<td>C.2.5.5. Centros de diálisis.</td>
+<td>944,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.6</td>
-<td class="cuerpo_tabla_izq">C.2.5.6. Centros de diagnóstico.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.1.5.6</td>
+<td>C.2.5.6. Centros de diagnóstico.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.7</td>
-<td class="cuerpo_tabla_izq">C.2.5.7. Centros móviles de asistencia sanitaria.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.1.5.7</td>
+<td>C.2.5.7. Centros móviles de asistencia sanitaria.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.8</td>
-<td class="cuerpo_tabla_izq">C.2.5.8. Centros de transfusión.</td>
-<td class="cuerpo_tabla_coma">944,89</td>
+<td>1.1.1.1.5.8</td>
+<td>C.2.5.8. Centros de transfusión.</td>
+<td>944,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.9</td>
-<td class="cuerpo_tabla_izq">C.2.5.9. Bancos de tejidos.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.1.5.9</td>
+<td>C.2.5.9. Bancos de tejidos.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.10</td>
-<td class="cuerpo_tabla_izq">C.2.5.10. Centros de reconocimiento médico.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.1.5.10</td>
+<td>C.2.5.10. Centros de reconocimiento médico.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.11</td>
-<td class="cuerpo_tabla_izq">C.2.5.11. Centros de salud mental.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.1.5.11</td>
+<td>C.2.5.11. Centros de salud mental.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.1.5.12</td>
-<td class="cuerpo_tabla_izq">C.2.5.90. Otros centros especializados.</td>
-<td class="cuerpo_tabla_coma">944,89</td>
+<td>1.1.1.1.5.12</td>
+<td>C.2.5.90. Otros centros especializados.</td>
+<td>944,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1.4</td>
-<td class="cuerpo_tabla_izq">Grupo C.3. Servicios sanitarios integrados en una organización no sanitaria.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>1.1.1.4</td>
+<td>Grupo C.3. Servicios sanitarios integrados en una organización no sanitaria.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.2</td>
-<td class="cuerpo_tabla_izq">Por cada servicio o unidad asistencial que integren o vayan a integrar la oferta asistencial del centro sanitario.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>1.1.2</td>
+<td>Por cada servicio o unidad asistencial que integren o vayan a integrar la oferta asistencial del centro sanitario.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.3</td>
-<td class="cuerpo_tabla_izq">Por cada programa de garantía de calidad asistencial.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>1.1.3</td>
+<td>Por cada programa de garantía de calidad asistencial.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2</td>
-<td class="cuerpo_tabla_izq">Tramitación de las autorizaciones sanitarias de modificación por cambio de titularidad, modificación de centros y servicios ya autorizados, que no supongan alteraciones sustanciales en su estructura o instalaciones, cierre o supresión de centros y servicios sanitarios:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2</td>
+<td>Tramitación de las autorizaciones sanitarias de modificación por cambio de titularidad, modificación de centros y servicios ya autorizados, que no supongan alteraciones sustanciales en su estructura o instalaciones, cierre o supresión de centros y servicios sanitarios:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.1</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la autorización sanitaria de modificación, cuando se trate exclusivamente de modificación de la titularidad del centro o servicio sanitario:</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>1.2.1</td>
+<td>Por la tramitación de la autorización sanitaria de modificación, cuando se trate exclusivamente de modificación de la titularidad del centro o servicio sanitario:</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la autorización sanitaria de modificación de centros y servicios ya autorizados que no suponga alteraciones sustanciales en su estructura o instalaciones, se exigirán los siguientes importes en función en función del grupo de clasificación del centro o servicio sanitario:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2.2</td>
+<td>Por la tramitación de la autorización sanitaria de modificación de centros y servicios ya autorizados que no suponga alteraciones sustanciales en su estructura o instalaciones, se exigirán los siguientes importes en función en función del grupo de clasificación del centro o servicio sanitario:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.1</td>
-<td class="cuerpo_tabla_izq">Grupo C.1. Hospitales (centros con internamiento).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2.2.1</td>
+<td>Grupo C.1. Hospitales (centros con internamiento).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.1.1</td>
-<td class="cuerpo_tabla_izq">C.1.1. Hospitales generales.</td>
-<td class="cuerpo_tabla_coma">787,41</td>
+<td>1.2.2.1.1</td>
+<td>C.1.1. Hospitales generales.</td>
+<td>787,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.1.2</td>
-<td class="cuerpo_tabla_izq">C.1.2. Hospitales especializados.</td>
-<td class="cuerpo_tabla_coma">787,41</td>
+<td>1.2.2.1.2</td>
+<td>C.1.2. Hospitales especializados.</td>
+<td>787,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.1.3</td>
-<td class="cuerpo_tabla_izq">C.1.3. Hospitales de media y larga estancia.</td>
-<td class="cuerpo_tabla_coma">787,41</td>
+<td>1.2.2.1.3</td>
+<td>C.1.3. Hospitales de media y larga estancia.</td>
+<td>787,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.1.4</td>
-<td class="cuerpo_tabla_izq">C.1.4. Hospitales de salud mental y tratamiento de toxicomanías.</td>
-<td class="cuerpo_tabla_coma">787,41</td>
+<td>1.2.2.1.4</td>
+<td>C.1.4. Hospitales de salud mental y tratamiento de toxicomanías.</td>
+<td>787,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.1.5</td>
-<td class="cuerpo_tabla_izq">C.1.90. Otros centros con internamiento.</td>
-<td class="cuerpo_tabla_coma">787,41</td>
+<td>1.2.2.1.5</td>
+<td>C.1.90. Otros centros con internamiento.</td>
+<td>787,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2</td>
-<td class="cuerpo_tabla_izq">Grupo C.2. Proveedores de asistencia sanitaria sin internamiento.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2.2.2</td>
+<td>Grupo C.2. Proveedores de asistencia sanitaria sin internamiento.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.1</td>
-<td class="cuerpo_tabla_izq">C.2.1. Consultas médicas.</td>
-<td class="cuerpo_tabla_coma">157,49</td>
+<td>1.2.2.2.1</td>
+<td>C.2.1. Consultas médicas.</td>
+<td>157,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.2</td>
-<td class="cuerpo_tabla_izq">C.2.2. Consultas de otros profesionales sanitarios.</td>
-<td class="cuerpo_tabla_coma">157,49</td>
+<td>1.2.2.2.2</td>
+<td>C.2.2. Consultas de otros profesionales sanitarios.</td>
+<td>157,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.3</td>
-<td class="cuerpo_tabla_izq">C.2.3. Centros de atención primaria.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2.2.2.3</td>
+<td>C.2.3. Centros de atención primaria.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.3.1</td>
-<td class="cuerpo_tabla_izq">C.2.3.1. Centros de salud.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.3.1</td>
+<td>C.2.3.1. Centros de salud.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.3.2</td>
-<td class="cuerpo_tabla_izq">C.2.3.2. Consultorios de atención primaria.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.3.2</td>
+<td>C.2.3.2. Consultorios de atención primaria.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.4</td>
-<td class="cuerpo_tabla_izq">C.2.4. Centros polivalentes.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.4</td>
+<td>C.2.4. Centros polivalentes.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5</td>
-<td class="cuerpo_tabla_izq">C.2.5. Centros especializados.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.2.2.2.5</td>
+<td>C.2.5. Centros especializados.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.1</td>
-<td class="cuerpo_tabla_izq">C.2.5.1. Clínicas dentales.</td>
-<td class="cuerpo_tabla_coma">311,84</td>
+<td>1.2.2.2.5.1</td>
+<td>C.2.5.1. Clínicas dentales.</td>
+<td>311,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.2</td>
-<td class="cuerpo_tabla_izq">C.2.5.2. Centros de reproducción humana asistida.</td>
-<td class="cuerpo_tabla_coma">472,45</td>
+<td>1.2.2.2.5.2</td>
+<td>C.2.5.2. Centros de reproducción humana asistida.</td>
+<td>472,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.3</td>
-<td class="cuerpo_tabla_izq">C.2.5.3. Centros de interrupción voluntaria del embarazo.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.5.3</td>
+<td>C.2.5.3. Centros de interrupción voluntaria del embarazo.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.4</td>
-<td class="cuerpo_tabla_izq">C.2.5.4. Centros de cirugía mayor ambulatoria.</td>
-<td class="cuerpo_tabla_coma">472,45</td>
+<td>1.2.2.2.5.4</td>
+<td>C.2.5.4. Centros de cirugía mayor ambulatoria.</td>
+<td>472,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.5</td>
-<td class="cuerpo_tabla_izq">C.2.5.5. Centros de diálisis.</td>
-<td class="cuerpo_tabla_coma">472,45</td>
+<td>1.2.2.2.5.5</td>
+<td>C.2.5.5. Centros de diálisis.</td>
+<td>472,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.6</td>
-<td class="cuerpo_tabla_izq">C.2.5.6. Centros de diagnóstico.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.5.6</td>
+<td>C.2.5.6. Centros de diagnóstico.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.7</td>
-<td class="cuerpo_tabla_izq">C.2.5.7. Centros móviles de asistencia sanitaria.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.5.7</td>
+<td>C.2.5.7. Centros móviles de asistencia sanitaria.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.8</td>
-<td class="cuerpo_tabla_izq">C.2.5.8. Centros de transfusión.</td>
-<td class="cuerpo_tabla_coma">472,45</td>
+<td>1.2.2.2.5.8</td>
+<td>C.2.5.8. Centros de transfusión.</td>
+<td>472,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.9</td>
-<td class="cuerpo_tabla_izq">C.2.5.9. Bancos de tejidos.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.5.9</td>
+<td>C.2.5.9. Bancos de tejidos.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.10</td>
-<td class="cuerpo_tabla_izq">C.2.5.10. Centros de reconocimiento médico.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.5.10</td>
+<td>C.2.5.10. Centros de reconocimiento médico.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.11</td>
-<td class="cuerpo_tabla_izq">C.2.5.11. Centros de salud mental.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.5.11</td>
+<td>C.2.5.11. Centros de salud mental.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.5.12</td>
-<td class="cuerpo_tabla_izq">C.2.5.90. Otros centros especializados.</td>
-<td class="cuerpo_tabla_coma">472,45</td>
+<td>1.2.2.2.5.12</td>
+<td>C.2.5.90. Otros centros especializados.</td>
+<td>472,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.2.6</td>
-<td class="cuerpo_tabla_izq">C.2.90. Otros proveedores de asistencia sanitaria sin internamiento.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.2.6</td>
+<td>C.2.90. Otros proveedores de asistencia sanitaria sin internamiento.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.2.3</td>
-<td class="cuerpo_tabla_izq">Grupo C.3. Servicios sanitarios integrados en una organización no sanitaria.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>1.2.2.3</td>
+<td>Grupo C.3. Servicios sanitarios integrados en una organización no sanitaria.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2.3</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la autorización sanitaria de cierre de hospitales y centros con internamiento (código centro C.1) en la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>1.2.3</td>
+<td>Por la tramitación de la autorización sanitaria de cierre de hospitales y centros con internamiento (código centro C.1) en la Comunitat Valenciana:</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la autorización sanitaria de centros sanitarios para la práctica de actividades de extracción y trasplante de órganos, tejidos y células en la Comunitat Valenciana, así como por la tramitación de la renovación de la autorización:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2</td>
+<td>Por la tramitación de la autorización sanitaria de centros sanitarios para la práctica de actividades de extracción y trasplante de órganos, tejidos y células en la Comunitat Valenciana, así como por la tramitación de la renovación de la autorización:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la autorización sanitaria de centros sanitarios para la práctica de las actividades de banco de tejidos, extracción y trasplante de órganos, tejidos y células:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.1</td>
+<td>Por la tramitación de la autorización sanitaria de centros sanitarios para la práctica de las actividades de banco de tejidos, extracción y trasplante de órganos, tejidos y células:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.1</td>
-<td class="cuerpo_tabla_izq">Banco de tejidos.</td>
-<td class="cuerpo_tabla_coma">629,93</td>
+<td>2.1.1</td>
+<td>Banco de tejidos.</td>
+<td>629,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.2</td>
-<td class="cuerpo_tabla_izq">Extracción de tejidos.</td>
-<td class="cuerpo_tabla_coma">104,99</td>
+<td>2.1.2</td>
+<td>Extracción de tejidos.</td>
+<td>104,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.3</td>
-<td class="cuerpo_tabla_izq">Trasplante de tejidos.</td>
-<td class="cuerpo_tabla_coma">262,47</td>
+<td>2.1.3</td>
+<td>Trasplante de tejidos.</td>
+<td>262,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.4</td>
-<td class="cuerpo_tabla_izq">Extracción de órganos.</td>
-<td class="cuerpo_tabla_coma">104,99</td>
+<td>2.1.4</td>
+<td>Extracción de órganos.</td>
+<td>104,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1.5</td>
-<td class="cuerpo_tabla_izq">Trasplante de órganos.</td>
-<td class="cuerpo_tabla_coma">262,47</td>
+<td>2.1.5</td>
+<td>Trasplante de órganos.</td>
+<td>262,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la renovación de la autorización sanitaria de centros sanitarios para la práctica de las actividades de banco de tejidos, extracción y trasplante de órganos, tejidos y células:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2.2</td>
+<td>Por la tramitación de la renovación de la autorización sanitaria de centros sanitarios para la práctica de las actividades de banco de tejidos, extracción y trasplante de órganos, tejidos y células:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2.1</td>
-<td class="cuerpo_tabla_izq">Banco de tejidos.</td>
-<td class="cuerpo_tabla_coma">314,96</td>
+<td>2.2.1</td>
+<td>Banco de tejidos.</td>
+<td>314,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2.2</td>
-<td class="cuerpo_tabla_izq">Extracción de tejidos.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>2.2.2</td>
+<td>Extracción de tejidos.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2.3</td>
-<td class="cuerpo_tabla_izq">Trasplante de tejidos.</td>
-<td class="cuerpo_tabla_coma">131,24</td>
+<td>2.2.3</td>
+<td>Trasplante de tejidos.</td>
+<td>131,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2.4</td>
-<td class="cuerpo_tabla_izq">Extracción de órganos.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>2.2.4</td>
+<td>Extracción de órganos.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2.5</td>
-<td class="cuerpo_tabla_izq">Trasplante de órganos.</td>
-<td class="cuerpo_tabla_coma">131,24</td>
+<td>2.2.5</td>
+<td>Trasplante de órganos.</td>
+<td>131,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3</td>
-<td class="cuerpo_tabla_izq">Por el estudio y el informe previo a la resolución de los expedientes de certificaciones sanitarias de transporte sanitario y de renovación de las mismas:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3</td>
+<td>Por el estudio y el informe previo a la resolución de los expedientes de certificaciones sanitarias de transporte sanitario y de renovación de las mismas:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1</td>
-<td class="cuerpo_tabla_izq">Estudio e informe previo a la resolución de los expedientes de certificaciones sanitarias de los siguientes tipos de transporte sanitario:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3.1</td>
+<td>Estudio e informe previo a la resolución de los expedientes de certificaciones sanitarias de los siguientes tipos de transporte sanitario:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1.1</td>
-<td class="cuerpo_tabla_izq">Ambulancias asistenciales.</td>
-<td class="cuerpo_tabla_coma">84,00</td>
+<td>3.1.1</td>
+<td>Ambulancias asistenciales.</td>
+<td>84,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1.2</td>
-<td class="cuerpo_tabla_izq">Ambulancias para el transporte individual.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>3.1.2</td>
+<td>Ambulancias para el transporte individual.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1.3</td>
-<td class="cuerpo_tabla_izq">Ambulancias para el transporte colectivo.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>3.1.3</td>
+<td>Ambulancias para el transporte colectivo.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2</td>
-<td class="cuerpo_tabla_izq">Estudio e informe previo a la resolución de renovación de los expedientes de certificaciones sanitarias de los siguientes tipos de transporte sanitario:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3.2</td>
+<td>Estudio e informe previo a la resolución de renovación de los expedientes de certificaciones sanitarias de los siguientes tipos de transporte sanitario:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2.1</td>
-<td class="cuerpo_tabla_izq">Ambulancias asistenciales.</td>
-<td class="cuerpo_tabla_coma">84,00</td>
+<td>3.2.1</td>
+<td>Ambulancias asistenciales.</td>
+<td>84,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2.2</td>
-<td class="cuerpo_tabla_izq">Ambulancias para el transporte individual.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>3.2.2</td>
+<td>Ambulancias para el transporte individual.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2.2</td>
-<td class="cuerpo_tabla_izq">Ambulancias para el transporte colectivo.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>3.2.2</td>
+<td>Ambulancias para el transporte colectivo.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4</td>
-<td class="cuerpo_tabla_izq">Por la emisión, a solicitud del interesado, de duplicados de resoluciones de autorización de centros, servicios y establecimientos sanitarios, expedición de certificados de inscripción en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios y emisión de listados de centros, servicios y establecimientos sanitarios inscritos en dicho Registro:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4</td>
+<td>Por la emisión, a solicitud del interesado, de duplicados de resoluciones de autorización de centros, servicios y establecimientos sanitarios, expedición de certificados de inscripción en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios y emisión de listados de centros, servicios y establecimientos sanitarios inscritos en dicho Registro:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1</td>
-<td class="cuerpo_tabla_izq">Emisión de duplicados de resoluciones de autorización de centros, servicios o establecimientos sanitarios.</td>
-<td class="cuerpo_tabla_coma">26,25</td>
+<td>4.1</td>
+<td>Emisión de duplicados de resoluciones de autorización de centros, servicios o establecimientos sanitarios.</td>
+<td>26,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2</td>
-<td class="cuerpo_tabla_izq">Expedición de certificados de inscripción de centros, servicios o establecimientos sanitarios en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.</td>
-<td class="cuerpo_tabla_coma">26,25</td>
+<td>4.2</td>
+<td>Expedición de certificados de inscripción de centros, servicios o establecimientos sanitarios en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.</td>
+<td>26,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3</td>
-<td class="cuerpo_tabla_izq">Emisión de listados de centros, servicios o establecimientos sanitarios inscritos en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.</td>
-<td class="cuerpo_tabla_coma">52,50</td>
+<td>4.3</td>
+<td>Emisión de listados de centros, servicios o establecimientos sanitarios inscritos en el Registro Autonómico de Centros, Servicios y Establecimientos Sanitarios.</td>
+<td>52,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de la autorización y registro para la creación de biobancos en la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>5</td>
+<td>Por la tramitación de la autorización y registro para la creación de biobancos en la Comunitat Valenciana:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1</td>
-<td class="cuerpo_tabla_izq">Por la autorización para la creación, constitución y funcionamiento de un biobanco en la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma">623,69</td>
+<td>5.1</td>
+<td>Por la autorización para la creación, constitución y funcionamiento de un biobanco en la Comunitat Valenciana:</td>
+<td>623,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2</td>
-<td class="cuerpo_tabla_izq">Por la autorización para la modificación de un biobanco en la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma">311,84</td>
+<td>5.2</td>
+<td>Por la autorización para la modificación de un biobanco en la Comunitat Valenciana:</td>
+<td>311,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.3</td>
-<td class="cuerpo_tabla_izq">Por la emisión de duplicados de resoluciones de autorización y certificados de inscripción en el registro de biobancos de la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma">25,98</td>
+<td>5.3</td>
+<td>Por la emisión de duplicados de resoluciones de autorización y certificados de inscripción en el registro de biobancos de la Comunitat Valenciana:</td>
+<td>25,98</td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo X</p>
+<p>Grupo X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones relativas a la autorización y el registro de servicios y establecimientos sanitarios de atención farmacéutica.</p>
+<p>Actuaciones relativas a la autorización y el registro de servicios y establecimientos sanitarios de atención farmacéutica.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación y resolución de las solicitudes referentes a:</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Establecimiento, traslado y modificación de locales y cierre de las oficinas de farmacia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255,03</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Visita de inspección de apertura y cierre de botiquín farmacéutico permanente y de botiquines turísticos o temporales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255,03</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Apertura, traslado y modificación de locales y cierre de los almacenes de distribución al por mayor de medicamentos de uso humano y productos sanitarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255,03</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Apertura, traslado, y modificación de los locales y cierre de los servicios de farmacia y depósitos de medicamentos de hospitales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255,03</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Apertura, traslado, y modificación de los locales de los servicios de farmacia, depósitos de medicamentos y botiquines farmacéuticos de centros socio-sanitarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255,03</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">1.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorización de apertura, modificación de instalaciones, traslado de establecimientos comerciales detallistas veterinarios, agrupaciones ganaderas y almacenes de distribución de medicamentos veterinarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255,03</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tramitación y resolución de las solicitudes referentes a:</p>
+<p>Tramitación y resolución de las solicitudes referentes a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cambio de titularidad de las oficinas de farmacia.</p>
+<p>Establecimiento, traslado y modificación de locales y cierre de las oficinas de farmacia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">127,51</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nombramiento de regente de las oficinas de farmacia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">127,51</p>
+<p>255,03</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización para la continuidad de funcionamiento por estudios de las oficinas de farmacia.</p>
+<p>Visita de inspección de apertura y cierre de botiquín farmacéutico permanente y de botiquines turísticos o temporales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">127,51</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Apertura de depósito de medicamentos para uso de toxina botulínica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">127,51</p>
+<p>255,03</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.5</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Validación del sistema informático para la emisión de recetas veterinarias.</p>
+<p>Apertura, traslado y modificación de locales y cierre de los almacenes de distribución al por mayor de medicamentos de uso humano y productos sanitarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">127,51</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cierre temporal de oficina de farmacia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">127,51</p>
+<p>255,03</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación y resolución de las solicitudes referentes a:</p>
+<p>Apertura, traslado, y modificación de los locales y cierre de los servicios de farmacia y depósitos de medicamentos de hospitales.</p>
+</td>
+<td>
+<p>255,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Apertura, traslado, y modificación de los locales de los servicios de farmacia, depósitos de medicamentos y botiquines farmacéuticos de centros socio-sanitarios.</p>
+</td>
+<td>
+<p>255,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Autorización de apertura, modificación de instalaciones, traslado de establecimientos comerciales detallistas veterinarios, agrupaciones ganaderas y almacenes de distribución de medicamentos veterinarios.</p>
+</td>
+<td>
+<p>255,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Tramitación y resolución de las solicitudes referentes a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Comunicación de cambio de adscripción a oficina de farmacia.</p>
+<p>Cambio de titularidad de las oficinas de farmacia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Comunicación de cambio de farmacéutico responsable.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,50</p>
+<p>127,51</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación y resolución de las solicitudes referentes a:</p>
+<p>Nombramiento de regente de las oficinas de farmacia.</p>
+</td>
+<td>
+<p>127,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Autorización para la continuidad de funcionamiento por estudios de las oficinas de farmacia.</p>
+</td>
+<td>
+<p>127,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Apertura de depósito de medicamentos para uso de toxina botulínica.</p>
+</td>
+<td>
+<p>127,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Validación del sistema informático para la emisión de recetas veterinarias.</p>
+</td>
+<td>
+<p>127,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Cierre temporal de oficina de farmacia.</p>
+</td>
+<td>
+<p>127,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Tramitación y resolución de las solicitudes referentes a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de laboratorios de fórmulas magistrales para terceros.</p>
+<p>Comunicación de cambio de adscripción a oficina de farmacia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">510,05</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Certificación de cumplimiento de BPD (Buenas Prácticas de Distribución).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">510,05</p>
+<p>25,50</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tramitación y resolución de las solicitudes referentes a:</p>
+<p>Comunicación de cambio de farmacéutico responsable.</p>
+</td>
+<td>
+<p>25,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Tramitación y resolución de las solicitudes referentes a:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de duplicados de resoluciones de autorización de servicios y establecimientos farmacéuticos.</p>
+<p>Autorización de laboratorios de fórmulas magistrales para terceros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,50</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">5.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de certificados de inscripción de servicios y establecimientos farmacéuticos en el Registro de Establecimientos y Servicios Sanitarios de Atención Farmacéutica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,50</p>
+<p>510,05</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.3</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros certificados relativos a servicios y establecimientos sanitarios de atención farmacéutica.</p>
+<p>Certificación de cumplimiento de BPD (Buenas Prácticas de Distribución).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,50</p>
+<p>510,05</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de listados de servicios y establecimientos farmacéuticos inscritos en el Registro de Establecimientos y Servicios Sanitarios de Atención Farmacéutica.</p>
+<p>Tramitación y resolución de las solicitudes referentes a:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51,01</p>
+<p>Emisión de duplicados de resoluciones de autorización de servicios y establecimientos farmacéuticos.</p>
+</td>
+<td>
+<p>25,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.2</p>
+</td>
+<td>
+<p>Expedición de certificados de inscripción de servicios y establecimientos farmacéuticos en el Registro de Establecimientos y Servicios Sanitarios de Atención Farmacéutica.</p>
+</td>
+<td>
+<p>25,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.3</p>
+</td>
+<td>
+<p>Otros certificados relativos a servicios y establecimientos sanitarios de atención farmacéutica.</p>
+</td>
+<td>
+<p>25,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Emisión de listados de servicios y establecimientos farmacéuticos inscritos en el Registro de Establecimientos y Servicios Sanitarios de Atención Farmacéutica.</p>
+</td>
+<td>
+<p>51,01</p>
 </td>
 </tr>
 </tbody>
@@ -20622,312 +20380,312 @@ Son contribuyentes de esta tasa las personas solicitantes de las actuaciones adm
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">(euros)</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
-<td class="cuerpo_tabla_izq">Admisión a procedimientos de concurrencia selectiva.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>Admisión a procedimientos de concurrencia selectiva.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1</td>
-<td class="cuerpo_tabla_izq">Admisión a las pruebas de selección de personal de centros e instituciones sanitarias:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1.1</td>
+<td>Admisión a las pruebas de selección de personal de centros e instituciones sanitarias:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.1</td>
-<td class="cuerpo_tabla_izq">Subgrupo A1.</td>
-<td class="cuerpo_tabla_coma">45,86</td>
+<td>1.1.1</td>
+<td>Subgrupo A1.</td>
+<td>45,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.2</td>
-<td class="cuerpo_tabla_izq">Subgrupo A2.</td>
-<td class="cuerpo_tabla_coma">35,67</td>
+<td>1.1.2</td>
+<td>Subgrupo A2.</td>
+<td>35,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.3</td>
-<td class="cuerpo_tabla_izq">Subgrupo C1.</td>
-<td class="cuerpo_tabla_coma">25,48</td>
+<td>1.1.3</td>
+<td>Subgrupo C1.</td>
+<td>25,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.4</td>
-<td class="cuerpo_tabla_izq">Subgrupo C2.</td>
-<td class="cuerpo_tabla_coma">15,29</td>
+<td>1.1.4</td>
+<td>Subgrupo C2.</td>
+<td>15,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1.5</td>
-<td class="cuerpo_tabla_izq">Agrupación profesional.</td>
-<td class="cuerpo_tabla_coma">10,19</td>
+<td>1.1.5</td>
+<td>Agrupación profesional.</td>
+<td>10,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2</td>
-<td class="cuerpo_tabla_izq">Admisión al proceso de adjudicación de autorizaciones de apertura de nuevas oficinas de farmacia.</td>
-<td class="cuerpo_tabla_coma">105,36</td>
+<td>1.2</td>
+<td>Admisión al proceso de adjudicación de autorizaciones de apertura de nuevas oficinas de farmacia.</td>
+<td>105,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq">Por la impartición de cursos por la Escuela Valenciana de Estudios de Salud y por las escuelas de enfermería dependientes de la Conselleria de Sanidad, no encuadrables en los servicios académicos universitarios regulados en el capítulo VI del título V de esta ley.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2</td>
+<td>Por la impartición de cursos por la Escuela Valenciana de Estudios de Salud y por las escuelas de enfermería dependientes de la Conselleria de Sanidad, no encuadrables en los servicios académicos universitarios regulados en el capítulo VI del título V de esta ley.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1</td>
-<td class="cuerpo_tabla_izq">Cursos de hasta 30 horas de duración.</td>
-<td class="cuerpo_tabla_coma">110,71</td>
+<td>2.1</td>
+<td>Cursos de hasta 30 horas de duración.</td>
+<td>110,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2</td>
-<td class="cuerpo_tabla_izq">Cursos entre 30 y 60 horas de duración.</td>
-<td class="cuerpo_tabla_coma">221,81</td>
+<td>2.2</td>
+<td>Cursos entre 30 y 60 horas de duración.</td>
+<td>221,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3</td>
-<td class="cuerpo_tabla_izq">Cursos de más de 60 horas de duración.</td>
-<td class="cuerpo_tabla_coma">443,63</td>
+<td>2.3</td>
+<td>Cursos de más de 60 horas de duración.</td>
+<td>443,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3</td>
-<td class="cuerpo_tabla_izq">Otras actuaciones administrativas.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3</td>
+<td>Otras actuaciones administrativas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1</td>
-<td class="cuerpo_tabla_izq">Expedición de otros certificados distintos de aquellos que tengan establecida una cantidad fija en el cuadro del apartado 1 del artículo 29.3.5 o en el punto 6 del cuadro del artículo 29.4-5.</td>
-<td class="cuerpo_tabla_centro">4,60 cada uno</td>
+<td>3.1</td>
+<td>Expedición de otros certificados distintos de aquellos que tengan establecida una cantidad fija en el cuadro del apartado 1 del artículo 29.3.5 o en el punto 6 del cuadro del artículo 29.4-5.</td>
+<td>4,60 cada uno</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2</td>
-<td class="cuerpo_tabla_izq">Compulsa de documentos, salvo en aquellos casos en que esté establecida una cuota fija en el punto 6 del cuadro del artículo 29.4-5.</td>
-<td class="cuerpo_tabla_centro">1,55 cada una</td>
+<td>3.2</td>
+<td>Compulsa de documentos, salvo en aquellos casos en que esté establecida una cuota fija en el punto 6 del cuadro del artículo 29.4-5.</td>
+<td>1,55 cada una</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.3</td>
-<td class="cuerpo_tabla_izq">Diligenciado y sellado de libros.</td>
-<td class="cuerpo_tabla_centro">3,87 cada uno</td>
+<td>3.3</td>
+<td>Diligenciado y sellado de libros.</td>
+<td>3,87 cada uno</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.4</td>
-<td class="cuerpo_tabla_izq">Emisión de duplicados de autorizaciones, salvo en aquellos casos en que esté establecida una cantidad fija en el cuadro del apartado 1 del artículo 29.3.5.</td>
-<td class="cuerpo_tabla_centro">3,87 cada uno</td>
+<td>3.4</td>
+<td>Emisión de duplicados de autorizaciones, salvo en aquellos casos en que esté establecida una cantidad fija en el cuadro del apartado 1 del artículo 29.3.5.</td>
+<td>3,87 cada uno</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.5</td>
-<td class="cuerpo_tabla_izq">Práctica de exámenes de salud (incluyendo expedición de certificado correspondiente, pero no el impreso) análisis y pruebas radiográficas o exploraciones especiales.</td>
-<td class="cuerpo_tabla_centro">7,29 cada uno</td>
+<td>3.5</td>
+<td>Práctica de exámenes de salud (incluyendo expedición de certificado correspondiente, pero no el impreso) análisis y pruebas radiográficas o exploraciones especiales.</td>
+<td>7,29 cada uno</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.6</td>
-<td class="cuerpo_tabla_izq">Inscripción de sociedades médico-farmaceúticas que ejerzan sus actividades exclusivamente en la Comunitat Valenciana.</td>
-<td class="cuerpo_tabla_centro">7,29 cada uno</td>
+<td>3.6</td>
+<td>Inscripción de sociedades médico-farmaceúticas que ejerzan sus actividades exclusivamente en la Comunitat Valenciana.</td>
+<td>7,29 cada uno</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.7</td>
-<td class="cuerpo_tabla_izq">Emisión de informes que requieran estudio o exámenes de proyectos y expedientes tramitados a petición de parte, salvo los comprendidos en los epígrafes 5 y 6 anteriores.</td>
-<td class="cuerpo_tabla_centro">13,88 cada una</td>
+<td>3.7</td>
+<td>Emisión de informes que requieran estudio o exámenes de proyectos y expedientes tramitados a petición de parte, salvo los comprendidos en los epígrafes 5 y 6 anteriores.</td>
+<td>13,88 cada una</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.8</td>
-<td class="cuerpo_tabla_izq">Emisión de informes previos sobre instalaciones industriales y establecimientos, cuando sean requeridos para la autorización y funcionamiento.</td>
-<td class="cuerpo_tabla_centro">38,46 cada una</td>
+<td>3.8</td>
+<td>Emisión de informes previos sobre instalaciones industriales y establecimientos, cuando sean requeridos para la autorización y funcionamiento.</td>
+<td>38,46 cada una</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.9</td>
-<td class="cuerpo_tabla_izq">Expedición de certificados de disponibilidad de cámara hiperbárica para el ejercicio de actividades subacuáticas.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3.9</td>
+<td>Expedición de certificados de disponibilidad de cámara hiperbárica para el ejercicio de actividades subacuáticas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.9.1</td>
-<td class="cuerpo_tabla_izq">Tarifa mínima.</td>
-<td class="cuerpo_tabla_coma">65,54</td>
+<td>3.9.1</td>
+<td>Tarifa mínima.</td>
+<td>65,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.9.2</td>
-<td class="cuerpo_tabla_izq">Tarifa total.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3.9.2</td>
+<td>Tarifa total.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Sobre la base de la tarifa mínima, el importe a exigir por la expedición de cada certificado se establece en función del número de personas que vayan a realizar la actividad subacuática y del número de meses de duración prevista de la misma.</td>
-<td class="cuerpo_tabla_centro">Tarifa total = Importe tarifa mínima x número de buceadores x número de meses de duración de la actividad (*)</td>
+<td> </td>
+<td>Sobre la base de la tarifa mínima, el importe a exigir por la expedición de cada certificado se establece en función del número de personas que vayan a realizar la actividad subacuática y del número de meses de duración prevista de la misma.</td>
+<td>Tarifa total = Importe tarifa mínima x número de buceadores x número de meses de duración de la actividad (*)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.9.3</td>
-<td class="cuerpo_tabla_izq">El importe a exigir por la emisión de cada certificado no podrá superar la cantidad de:</td>
-<td class="cuerpo_tabla_coma">4.096,49</td>
+<td>3.9.3</td>
+<td>El importe a exigir por la emisión de cada certificado no podrá superar la cantidad de:</td>
+<td>4.096,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.10</td>
-<td class="cuerpo_tabla_izq">Expedición de duplicados de tarjeta sanitaria individual a solicitud del interesado, salvo en los casos en los que el titular de la tarjeta sanitaria individual cuyo duplicado se solicita esté en situación de alta en el Sistema de Información Poblacional de la Conselleria de Sanitat (SIP) y tenga acreditado el derecho a las prestaciones del sistema sanitario público de la Comunitat Valenciana por encontrarse en las situaciones contempladas en los artículos 8, apartado 1, letra b, y 9, apartado 2, de la Ley 6/2008, de 2 de junio, de aseguramiento sanitario del sistema sanitario público de la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma">3,15</td>
+<td>3.10</td>
+<td>Expedición de duplicados de tarjeta sanitaria individual a solicitud del interesado, salvo en los casos en los que el titular de la tarjeta sanitaria individual cuyo duplicado se solicita esté en situación de alta en el Sistema de Información Poblacional de la Conselleria de Sanitat (SIP) y tenga acreditado el derecho a las prestaciones del sistema sanitario público de la Comunitat Valenciana por encontrarse en las situaciones contempladas en los artículos 8, apartado 1, letra b, y 9, apartado 2, de la Ley 6/2008, de 2 de junio, de aseguramiento sanitario del sistema sanitario público de la Comunitat Valenciana:</td>
+<td>3,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4</td>
-<td class="cuerpo_tabla_izq">Venta de talonarios, comunicaciones de puesta en mercado de productos cosméticos y libros de control de actividades sanitarias.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4</td>
+<td>Venta de talonarios, comunicaciones de puesta en mercado de productos cosméticos y libros de control de actividades sanitarias.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1</td>
-<td class="cuerpo_tabla_izq">Talonarios.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4.1</td>
+<td>Talonarios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1.1</td>
-<td class="cuerpo_tabla_izq">Oficiales de vales para dispensa de sustancias psicotrópicas.</td>
-<td class="cuerpo_tabla_coma">2,40</td>
+<td>4.1.1</td>
+<td>Oficiales de vales para dispensa de sustancias psicotrópicas.</td>
+<td>2,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1.2</td>
-<td class="cuerpo_tabla_izq">De control de estupefacientes.</td>
-<td class="cuerpo_tabla_coma">0,79</td>
+<td>4.1.2</td>
+<td>De control de estupefacientes.</td>
+<td>0,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2</td>
-<td class="cuerpo_tabla_izq">Comunicaciones de puesta en mercado de productos cosméticos.</td>
-<td class="cuerpo_tabla_coma">1,42</td>
+<td>4.2</td>
+<td>Comunicaciones de puesta en mercado de productos cosméticos.</td>
+<td>1,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3.</td>
-<td class="cuerpo_tabla_izq">Libros de control de actividades sanitarias.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4.3.</td>
+<td>Libros de control de actividades sanitarias.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3.1</td>
-<td class="cuerpo_tabla_izq">Libro de visitas (control sanitario de comedores colectivos).</td>
-<td class="cuerpo_tabla_coma">4,09</td>
+<td>4.3.1</td>
+<td>Libro de visitas (control sanitario de comedores colectivos).</td>
+<td>4,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3.2</td>
-<td class="cuerpo_tabla_izq">Libro oficial de contabilidad de estupefacientes de farmacia.</td>
-<td class="cuerpo_tabla_coma">16,31</td>
+<td>4.3.2</td>
+<td>Libro oficial de contabilidad de estupefacientes de farmacia.</td>
+<td>16,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5</td>
-<td class="cuerpo_tabla_izq">Acreditación de actividades de formación continuada de las profesiones sanitarias.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>5</td>
+<td>Acreditación de actividades de formación continuada de las profesiones sanitarias.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1</td>
-<td class="cuerpo_tabla_izq">Por la tramitación de las solicitudes de acreditación de las actividades de formación continuada de las profesiones sanitarias.</td>
-<td class="cuerpo_tabla_coma">139,29</td>
+<td>5.1</td>
+<td>Por la tramitación de las solicitudes de acreditación de las actividades de formación continuada de las profesiones sanitarias.</td>
+<td>139,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2</td>
-<td class="cuerpo_tabla_izq">Por la tramitación del reconocimiento de interés sanitario para los actos de carácter científico en la Comunitat Valenciana.</td>
-<td class="cuerpo_tabla_coma">51,98</td>
+<td>5.2</td>
+<td>Por la tramitación del reconocimiento de interés sanitario para los actos de carácter científico en la Comunitat Valenciana.</td>
+<td>51,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6</td>
-<td class="cuerpo_tabla_izq">Actuaciones administrativas relativas a empresas alimentarias, alimentos y establecimientos alimentarios.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>6</td>
+<td>Actuaciones administrativas relativas a empresas alimentarias, alimentos y establecimientos alimentarios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1</td>
-<td class="cuerpo_tabla_izq">Emisión de certificado de libre venta de los productos alimenticios de empresa inscrita en el Registro General Sanitario de Empresas Alimentarias y Alimentos.</td>
-<td class="cuerpo_tabla_coma">15,59</td>
+<td>6.1</td>
+<td>Emisión de certificado de libre venta de los productos alimenticios de empresa inscrita en el Registro General Sanitario de Empresas Alimentarias y Alimentos.</td>
+<td>15,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2</td>
-<td class="cuerpo_tabla_izq">Emisión de certificado de libre venta de los productos alimenticios de empresa inscrita en el Registro General Sanitario de Empresas Alimentarias y Alimentos, que requiere visita de control oficial.</td>
-<td class="cuerpo_tabla_coma">31,18</td>
+<td>6.2</td>
+<td>Emisión de certificado de libre venta de los productos alimenticios de empresa inscrita en el Registro General Sanitario de Empresas Alimentarias y Alimentos, que requiere visita de control oficial.</td>
+<td>31,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.3</td>
-<td class="cuerpo_tabla_izq">Emisión de certificado de inscripción de empresa inscrita en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Registro Sanitario de Establecimientos Alimentarios Menores.</td>
-<td class="cuerpo_tabla_coma">15,59</td>
+<td>6.3</td>
+<td>Emisión de certificado de inscripción de empresa inscrita en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Registro Sanitario de Establecimientos Alimentarios Menores.</td>
+<td>15,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.4</td>
-<td class="cuerpo_tabla_izq">Emisión de certificado sanitario para la exportación de los productos alimenticios.</td>
-<td class="cuerpo_tabla_coma">31,18</td>
+<td>6.4</td>
+<td>Emisión de certificado sanitario para la exportación de los productos alimenticios.</td>
+<td>31,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.5</td>
-<td class="cuerpo_tabla_izq">Emisión de copia compulsada del documento de autorización e inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Registro Sanitario de Establecimientos Alimentarios Menores.</td>
-<td class="cuerpo_tabla_coma">15,59</td>
+<td>6.5</td>
+<td>Emisión de copia compulsada del documento de autorización e inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Registro Sanitario de Establecimientos Alimentarios Menores.</td>
+<td>15,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.6</td>
-<td class="cuerpo_tabla_izq">Solicitud de inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, ampliación de actividad, cambio de domicilio de la actividad o anotación de almacén de productos envasados para uso propio de la empresa cuyo establecimiento está sujeto a autorización.</td>
-<td class="cuerpo_tabla_coma">109,13</td>
+<td>6.6</td>
+<td>Solicitud de inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos, ampliación de actividad, cambio de domicilio de la actividad o anotación de almacén de productos envasados para uso propio de la empresa cuyo establecimiento está sujeto a autorización.</td>
+<td>109,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.7</td>
-<td class="cuerpo_tabla_izq">Comunicación de inicio de actividad de empresas y establecimientos alimentarios para su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos y de modificación de los datos de inscripción, cuando no proceda una autorización previa.</td>
-<td class="cuerpo_tabla_coma">46,77</td>
+<td>6.7</td>
+<td>Comunicación de inicio de actividad de empresas y establecimientos alimentarios para su inscripción en el Registro General Sanitario de Empresas Alimentarias y Alimentos y de modificación de los datos de inscripción, cuando no proceda una autorización previa.</td>
+<td>46,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.8</td>
-<td class="cuerpo_tabla_izq">Comunicación de inicio de actividad de empresas y establecimientos alimentarios para su inscripción en el Registro Sanitario de Establecimientos Alimentarios Menores y de modificación de los datos de inscripción, cuando no proceda una autorización previa.</td>
-<td class="cuerpo_tabla_coma">31,18</td>
+<td>6.8</td>
+<td>Comunicación de inicio de actividad de empresas y establecimientos alimentarios para su inscripción en el Registro Sanitario de Establecimientos Alimentarios Menores y de modificación de los datos de inscripción, cuando no proceda una autorización previa.</td>
+<td>31,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.9</td>
-<td class="cuerpo_tabla_izq">Notificación de primera puesta en el mercado español de complementos alimenticios y comunicación de primera puesta en el mercado español de alimentos para grupos específicos de población.</td>
-<td class="cuerpo_tabla_coma">93,54</td>
+<td>6.9</td>
+<td>Notificación de primera puesta en el mercado español de complementos alimenticios y comunicación de primera puesta en el mercado español de alimentos para grupos específicos de población.</td>
+<td>93,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.10</td>
-<td class="cuerpo_tabla_izq">Notificación de modificaciones significativas de datos de la puesta en el mercado español de complementos alimenticios y comunicación de modificaciones significativas de datos de la puesta en el mercado español de alimentos para grupos específicos, entendiéndose como modificaciones significativas las relativas al cambio de composición o ingredientes, cambio de forma de presentación, nueva información nutricional, inclusión de declaraciones nutricionales y/o de propiedades saludables y cambio de nombre comercial que sugiere declaraciones nutricionales y/o de propiedades saludables.</td>
-<td class="cuerpo_tabla_coma">62,36</td>
+<td>6.10</td>
+<td>Notificación de modificaciones significativas de datos de la puesta en el mercado español de complementos alimenticios y comunicación de modificaciones significativas de datos de la puesta en el mercado español de alimentos para grupos específicos, entendiéndose como modificaciones significativas las relativas al cambio de composición o ingredientes, cambio de forma de presentación, nueva información nutricional, inclusión de declaraciones nutricionales y/o de propiedades saludables y cambio de nombre comercial que sugiere declaraciones nutricionales y/o de propiedades saludables.</td>
+<td>62,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.11</td>
-<td class="cuerpo_tabla_izq">Notificación de modificaciones menores de datos de la puesta en el mercado español de complementos alimenticios y comunicación de modificaciones menores de datos de la puesta en el mercado español de alimentos para grupos específicos, entendiéndose como modificaciones menores (sin modificar composición, ni forma de presentación) las relativas al cambio de razón social, cambio de domicilio, cambio de diseño de la etiqueta, cambio de marca, adición de otras marcas y cambios en los elementos relativos a la forma de presentación.</td>
-<td class="cuerpo_tabla_coma">31,18</td>
+<td>6.11</td>
+<td>Notificación de modificaciones menores de datos de la puesta en el mercado español de complementos alimenticios y comunicación de modificaciones menores de datos de la puesta en el mercado español de alimentos para grupos específicos, entendiéndose como modificaciones menores (sin modificar composición, ni forma de presentación) las relativas al cambio de razón social, cambio de domicilio, cambio de diseño de la etiqueta, cambio de marca, adición de otras marcas y cambios en los elementos relativos a la forma de presentación.</td>
+<td>31,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.12</td>
-<td class="cuerpo_tabla_izq">Control oficial no previsto originalmente por seguimiento, evaluación del alcance, impacto y comprobación de la subsanación de incumplimientos; control oficial por reclamación formulada contra una empresa o establecimiento alimentario con resultado final de un incumplimiento, o control oficial a petición de la razón social titular de empresa alimentaria.</td>
-<td class="cuerpo_tabla_coma">74,09</td>
+<td>6.12</td>
+<td>Control oficial no previsto originalmente por seguimiento, evaluación del alcance, impacto y comprobación de la subsanación de incumplimientos; control oficial por reclamación formulada contra una empresa o establecimiento alimentario con resultado final de un incumplimiento, o control oficial a petición de la razón social titular de empresa alimentaria.</td>
+<td>74,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.13</td>
-<td class="cuerpo_tabla_izq">Control oficial a petición de la razón social titular de la empresa alimentaria por exigencias de países terceros.</td>
-<td class="cuerpo_tabla_coma">74,09</td>
+<td>6.13</td>
+<td>Control oficial a petición de la razón social titular de la empresa alimentaria por exigencias de países terceros.</td>
+<td>74,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.14</td>
-<td class="cuerpo_tabla_izq">Solicitud de inscripción en el Registro sanitario de establecimientos alimentarios menores, ampliación de actividad y cambio de domicilio de la actividad para establecimientos sujetos a autorización sanitaria previa, de acuerdo con el anexo del Decreto 134/2018, de 7 de septiembre, del Consell por el que se regula el Registro sanitario de establecimientos alimentarios menores y el procedimiento de autorización de determinados establecimientos.</td>
-<td class="cuerpo_tabla_coma">74,09</td>
+<td>6.14</td>
+<td>Solicitud de inscripción en el Registro sanitario de establecimientos alimentarios menores, ampliación de actividad y cambio de domicilio de la actividad para establecimientos sujetos a autorización sanitaria previa, de acuerdo con el anexo del Decreto 134/2018, de 7 de septiembre, del Consell por el que se regula el Registro sanitario de establecimientos alimentarios menores y el procedimiento de autorización de determinados establecimientos.</td>
+<td>74,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7</td>
-<td class="cuerpo_tabla_izq">Actuaciones administrativas relativas a entidades con actividades relacionadas con la comercialización y el uso de productos biocidas</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>7</td>
+<td>Actuaciones administrativas relativas a entidades con actividades relacionadas con la comercialización y el uso de productos biocidas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1</td>
-<td class="cuerpo_tabla_izq">Solicitud de inscripción, modificación, cancelación de la inscripción en el ROESB para establecimientos y servicios biocidas en la Comunitat Valenciana:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>7.1</td>
+<td>Solicitud de inscripción, modificación, cancelación de la inscripción en el ROESB para establecimientos y servicios biocidas en la Comunitat Valenciana:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1.1</td>
-<td class="cuerpo_tabla_izq">Solicitud de inscripción: Revisión de la instancia normalizada y documentación preceptiva, gestión del expediente en los Centros de Salud Pública y la Dirección General de Salud Pública y Adicciones y emisión del documento de Resolución de inscripción, controles oficiales in situ y de forma indirecta (Seguridad Alimentaria y Sanidad Ambiental).</td>
-<td class="cuerpo_tabla_coma">125,00</td>
+<td>7.1.1</td>
+<td>Solicitud de inscripción: Revisión de la instancia normalizada y documentación preceptiva, gestión del expediente en los Centros de Salud Pública y la Dirección General de Salud Pública y Adicciones y emisión del documento de Resolución de inscripción, controles oficiales in situ y de forma indirecta (Seguridad Alimentaria y Sanidad Ambiental).</td>
+<td>125,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1.2</td>
-<td class="cuerpo_tabla_izq">Solicitud de modificaciones por cambio de titularidad y/o cambio de la denominación de la entidad (nombre comercial) y/o cambio de dirección social y/o cambio de la descripción de la actividad y/o cambio en el tipo de biocidas y/o cambio en la clasificación de los biocidas y/o cambio del responsable técnico: Revisión de la instancia normalizada y documentación preceptiva, gestión del expediente en los Centros de Salud Pública y la Dirección General de Salud Pública y Adicciones y emisión del documento de autorización.</td>
-<td class="cuerpo_tabla_coma">30,00</td>
+<td>7.1.2</td>
+<td>Solicitud de modificaciones por cambio de titularidad y/o cambio de la denominación de la entidad (nombre comercial) y/o cambio de dirección social y/o cambio de la descripción de la actividad y/o cambio en el tipo de biocidas y/o cambio en la clasificación de los biocidas y/o cambio del responsable técnico: Revisión de la instancia normalizada y documentación preceptiva, gestión del expediente en los Centros de Salud Pública y la Dirección General de Salud Pública y Adicciones y emisión del documento de autorización.</td>
+<td>30,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.2</td>
-<td class="cuerpo_tabla_izq">Comunicación de inicio de actividad de servicios biocidas inscritos en el ROESB de otra Comunidad autónoma que quieran desarrollar su actividad en la Comunitat Valenciana y modificación de las condiciones de la comunicación inicial: Revisión de la instancia normalizada y documentación preceptiva, gestión del expediente en la Dirección General de Salud Pública y Adicciones y emisión del documento de conformidad.</td>
-<td class="cuerpo_tabla_coma">45,00</td>
+<td>7.2</td>
+<td>Comunicación de inicio de actividad de servicios biocidas inscritos en el ROESB de otra Comunidad autónoma que quieran desarrollar su actividad en la Comunitat Valenciana y modificación de las condiciones de la comunicación inicial: Revisión de la instancia normalizada y documentación preceptiva, gestión del expediente en la Dirección General de Salud Pública y Adicciones y emisión del documento de conformidad.</td>
+<td>45,00</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Para el cálculo de la tarifa total, la duración de la actividad se tomará por meses enteros, computándose como un mes entero los períodos de actividad inferior a un mes. Los certificados se emitirán por un período máximo de doce meses, sin perjuicio de su posterior renovación a la conclusión de dicho período máximo.</p>
+<p>(*) Para el cálculo de la tarifa total, la duración de la actividad se tomará por meses enteros, computándose como un mes entero los períodos de actividad inferior a un mes. Los certificados se emitirán por un período máximo de doce meses, sin perjuicio de su posterior renovación a la conclusión de dicho período máximo.</p>
 </td>
 </tr>
 </tfoot>
@@ -21181,72 +20939,67 @@ Son contribuyentes de esta tasa los contratistas de los servicios públicos de t
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Adjudicación o modificación de contratos relativos a los servicios públicos de transporte.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>Adjudicación o modificación de contratos relativos a los servicios públicos de transporte.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.1</td>
-<td class="cuerpo_tabla_izq">Adjudicación de una concesión.</td>
-<td class="cuerpo_tabla_coma">29,48</td>
+<td>1.1</td>
+<td>Adjudicación de una concesión.</td>
+<td>29,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.2</td>
-<td class="cuerpo_tabla_izq">Ampliación o modificación de tráficos.</td>
-<td class="cuerpo_tabla_coma">29,48</td>
+<td>1.2</td>
+<td>Ampliación o modificación de tráficos.</td>
+<td>29,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.3</td>
-<td class="cuerpo_tabla_izq">Revisión de la tarifa base.</td>
-<td class="cuerpo_tabla_coma">29,48</td>
+<td>1.3</td>
+<td>Revisión de la tarifa base.</td>
+<td>29,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Aprobación o modificación del documento de condiciones concretas de prestación del servicio de transporte.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2</td>
+<td>Aprobación o modificación del documento de condiciones concretas de prestación del servicio de transporte.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.1</td>
-<td class="cuerpo_tabla_izq">Ampliaciones o modificaciones de itinerarios o paradas.</td>
-<td class="cuerpo_tabla_coma">29,48</td>
+<td>2.1</td>
+<td>Ampliaciones o modificaciones de itinerarios o paradas.</td>
+<td>29,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.2</td>
-<td class="cuerpo_tabla_izq">Modificación de expedientes o horarios (por cada línea o ruta).</td>
-<td class="cuerpo_tabla_coma">10,12</td>
+<td>2.2</td>
+<td>Modificación de expedientes o horarios (por cada línea o ruta).</td>
+<td>10,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.3</td>
-<td class="cuerpo_tabla_izq">Modificación material móvil adscrito (por cada vehículo).</td>
-<td class="cuerpo_tabla_coma">6,75</td>
+<td>2.3</td>
+<td>Modificación material móvil adscrito (por cada vehículo).</td>
+<td>6,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.4</td>
-<td class="cuerpo_tabla_izq">Diligenciado para aplicación y entrada en vigor de cuadros de tarifas.</td>
-<td class="cuerpo_tabla_coma">17,45</td>
+<td>2.4</td>
+<td>Diligenciado para aplicación y entrada en vigor de cuadros de tarifas.</td>
+<td>17,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.5</td>
-<td class="cuerpo_tabla_izq">Diligenciado para aplicación de cuadros de horarios (por cada línea).</td>
-<td class="cuerpo_tabla_coma">6,75</td>
+<td>2.5</td>
+<td>Diligenciado para aplicación de cuadros de horarios (por cada línea).</td>
+<td>6,75</td>
 </tr>
 </tbody>
 </table>
@@ -21291,103 +21044,98 @@ Son contribuyentes de esta tasa las personas que soliciten o a las que se preste
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">Importe (euros)</th>
+<th colspan="2">Tipo de servicio</th>
+<th>Importe (euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_der">1</td>
-<td class="cuerpo_tabla_izq">Primera expedición de la tarjeta identificativa.</td>
-<td class="cuerpo_tabla_der">38,06</td>
+<td>1</td>
+<td>Primera expedición de la tarjeta identificativa.</td>
+<td>38,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">2</td>
-<td class="cuerpo_tabla_izq">Expedición de autorización para transporte regular de uso especial.</td>
-<td class="cuerpo_tabla_der">28,24</td>
+<td>2</td>
+<td>Expedición de autorización para transporte regular de uso especial.</td>
+<td>28,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">3</td>
-<td class="cuerpo_tabla_izq">Transmisión de autorización de transporte de mercancías y/o viajeros, en cualquier clase de vehículos.</td>
-<td class="cuerpo_tabla_der">28,24</td>
+<td>3</td>
+<td>Transmisión de autorización de transporte de mercancías y/o viajeros, en cualquier clase de vehículos.</td>
+<td>28,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">4</td>
-<td class="cuerpo_tabla_izq">Expedición de certificado o título de conseller de seguridad (y su renovación), y de capacitación para realizar la actividad de transporte.</td>
-<td class="cuerpo_tabla_der">28,24</td>
+<td>4</td>
+<td>Expedición de certificado o título de conseller de seguridad (y su renovación), y de capacitación para realizar la actividad de transporte.</td>
+<td>28,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">5</td>
-<td class="cuerpo_tabla_izq">Expedición, visado, rehabilitación, modificación y suspensión de autorizaciones de transporte y actividades auxiliares y complementarias.</td>
-<td class="cuerpo_tabla_der">27,40</td>
+<td>5</td>
+<td>Expedición, visado, rehabilitación, modificación y suspensión de autorizaciones de transporte y actividades auxiliares y complementarias.</td>
+<td>27,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">6</td>
-<td class="cuerpo_tabla_izq">Expedición de autorización de transporte sanitario, y su visado y rehabilitación.</td>
-<td class="cuerpo_tabla_der">27,40</td>
+<td>6</td>
+<td>Expedición de autorización de transporte sanitario, y su visado y rehabilitación.</td>
+<td>27,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">7</td>
-<td class="cuerpo_tabla_izq">Expedición de copias certificadas de las autorizaciones de empresa, para los vehículos de transporte de mercancías y/o viajeros en cualquier clase de vehículos; otras autorizaciones referidas a vehículos, incluida sustitución provisional de vehículos por averías.</td>
-<td class="cuerpo_tabla_der">23,01</td>
+<td>7</td>
+<td>Expedición de copias certificadas de las autorizaciones de empresa, para los vehículos de transporte de mercancías y/o viajeros en cualquier clase de vehículos; otras autorizaciones referidas a vehículos, incluida sustitución provisional de vehículos por averías.</td>
+<td>23,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">8</td>
-<td class="cuerpo_tabla_izq">Expedición de certificados y autorizaciones para conductores de terceros países y otros exigibles.</td>
-<td class="cuerpo_tabla_der">23,01</td>
+<td>8</td>
+<td>Expedición de certificados y autorizaciones para conductores de terceros países y otros exigibles.</td>
+<td>23,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">9</td>
-<td class="cuerpo_tabla_izq">Admisión a exámenes y pruebas.</td>
-<td class="cuerpo_tabla_der">14,19</td>
+<td>9</td>
+<td>Admisión a exámenes y pruebas.</td>
+<td>14,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">10</td>
-<td class="cuerpo_tabla_izq">Expedición de las tarjetas de tacógrafo digital.</td>
-<td class="cuerpo_tabla_der">32,47</td>
+<td>10</td>
+<td>Expedición de las tarjetas de tacógrafo digital.</td>
+<td>32,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">11</td>
-<td class="cuerpo_tabla_izq">Autorización de centros de formación de certificados de aptitud profesional, CAP.</td>
-<td class="cuerpo_tabla_der">311,10</td>
+<td>11</td>
+<td>Autorización de centros de formación de certificados de aptitud profesional, CAP.</td>
+<td>311,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">12</td>
-<td class="cuerpo_tabla_izq">Homologación de cursos del Certificado de Aptitud Profesional CAP.</td>
-<td class="cuerpo_tabla_der">107,22</td>
+<td>12</td>
+<td>Homologación de cursos del Certificado de Aptitud Profesional CAP.</td>
+<td>107,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">13</td>
-<td class="cuerpo_tabla_izq">Expedición o renovación de la tarjeta CAP.</td>
-<td class="cuerpo_tabla_der">31,88</td>
+<td>13</td>
+<td>Expedición o renovación de la tarjeta CAP.</td>
+<td>31,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">14</td>
-<td class="cuerpo_tabla_izq">Comprobación de centro de formación del Certificado de Aptitud Profesional, CAP.</td>
-<td class="cuerpo_tabla_der">311,10</td>
+<td>14</td>
+<td>Comprobación de centro de formación del Certificado de Aptitud Profesional, CAP.</td>
+<td>311,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">15</td>
-<td class="cuerpo_tabla_izq">Renovación de la homologación de cursos del Certificado de Aptitud Profesional, CAP.</td>
-<td class="cuerpo_tabla_der">102,00</td>
+<td>15</td>
+<td>Renovación de la homologación de cursos del Certificado de Aptitud Profesional, CAP.</td>
+<td>102,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">16</td>
-<td class="cuerpo_tabla_izq">Modificación de datos de alumnos de cursos de Certificado de Aptitud Profesional, CAP.</td>
-<td class="cuerpo_tabla_der">2,30</td>
+<td>16</td>
+<td>Modificación de datos de alumnos de cursos de Certificado de Aptitud Profesional, CAP.</td>
+<td>2,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der">17</td>
-<td class="cuerpo_tabla_izq">Modificación de autorización de centro de formación de CAP.</td>
-<td class="cuerpo_tabla_der">6,88</td>
+<td>17</td>
+<td>Modificación de autorización de centro de formación de CAP.</td>
+<td>6,88</td>
 </tr>
 </tbody>
 </table>
@@ -21422,65 +21170,60 @@ Son contribuyentes de esta tasa las personas que sean objeto del reconocimiento,
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_64">
-<col class="row_column_156">
-<col class="row_column_52">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Inspección y reconocimiento de instalaciones fijas, inauguración de concesiones, expedición de acta de constancia de hechos externos y realización de informes con datos de campo.</p>
+<p>Inspección y reconocimiento de instalaciones fijas, inauguración de concesiones, expedición de acta de constancia de hechos externos y realización de informes con datos de campo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">67,11</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por cada día adicional de inspección, reconocimiento o elaboración de informe.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,55</p>
+<p>67,11</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Realización de informes facultativos sin datos de campo.</p>
+<p>Por cada día adicional de inspección, reconocimiento o elaboración de informe.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26,64</p>
+<p>43,55</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de copia, certificado, acta de constancia de hechos y diligenciado o compulsa de documentos.</p>
+<p>Realización de informes facultativos sin datos de campo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 2,04</p>
+<p>26,64</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Expedición de copia, certificado, acta de constancia de hechos y diligenciado o compulsa de documentos.</p>
+</td>
+<td>
+<p> 2,04</p>
 </td>
 </tr>
 </tbody>
@@ -21514,54 +21257,49 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando, del siguiente cuadro, bien la cantidad fija señalada, bien el tipo de gravamen porcentual a la base que se indica:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_20">
-<col class="row_column_157">
-<col class="row_column_158">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_32">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compulsa de documentos técnicos.</p>
+<p>Compulsa de documentos técnicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,50</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de certificados o de informes a instancia de parte (por certificado o informe).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>1,50</p>
 </td>
 </tr>
-<tr class="row_column_31">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Registro de concesiones y autorizaciones administrativas.</p>
+<p>Expedición de certificados o de informes a instancia de parte (por certificado o informe).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">El 0,5 por 1000 del valor de la expropiación realizada por el establecimiento de concesión, o, en defecto de ella, del valor del suelo ocupado o beneficiado por aquella, con un mínimo de 2,50 €</p>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Registro de concesiones y autorizaciones administrativas.</p>
+</td>
+<td>
+<p>El 0,5 por 1000 del valor de la expropiación realizada por el establecimiento de concesión, o, en defecto de ella, del valor del suelo ocupado o beneficiado por aquella, con un mínimo de 2,50 €</p>
 </td>
 </tr>
 </tbody>
@@ -21587,43 +21325,38 @@ Son contribuyentes de esta las entidades ferroviarias a las que se refiere el ce
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_20">
-<col class="row_column_45">
-<col class="row_column_135">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición del certificado de seguridad.</p>
+<p>Expedición del certificado de seguridad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9.000,00</p>
+<p>9.000,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Modificación, renovación o revisión del certificado de seguridad.</p>
+<p>Modificación, renovación o revisión del certificado de seguridad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.000,00</p>
+<p>5.000,00</p>
 </td>
 </tr>
 </tbody>
@@ -21661,94 +21394,89 @@ Son contribuyentes de esta tasa las personas físicas o jurídicas que soliciten
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_17">
-<col class="row_column_159">
-<col class="row_column_160">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Homologación de centros médicos o de formación del personal ferroviario.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Nuevas homologaciones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ampliación, modificación o renovación de la homologación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de habilitaciones del personal ferroviario.</p>
+<p>Homologación de centros médicos o de formación del personal ferroviario.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Primera expedición.</p>
+<p>Nuevas homologaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110,00</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de duplicados, renovación o modificación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">60,00</p>
+<p>5.000,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Autorización de vehículos ferroviarios.</p>
+<p>Ampliación, modificación o renovación de la homologación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000,00</p>
+<p>2.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Expedición de habilitaciones del personal ferroviario.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>2.1</p>
+</td>
+<td>
+<p>Primera expedición.</p>
+</td>
+<td>
+<p>110,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Emisión de duplicados, renovación o modificación.</p>
+</td>
+<td>
+<p>60,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Autorización de vehículos ferroviarios.</p>
+</td>
+<td>
+<p>3.000,00</p>
 </td>
 </tr>
 </tbody>
@@ -21778,67 +21506,62 @@ Son contribuyentes de esta tasa las entidades ferroviarias que sean objeto de lo
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_17">
-<col class="row_column_161">
-<col class="row_column_101">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">
+<p>
 <em>Tipo de servicio</em>
 </p>
 </td>
 <td>
-<p class="cabeza_tabla">
+<p>
 <em>Importe (euros)</em>
 </p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Entidad administradora de infraestructuras (Importe por tren por km totales de tráficos que circulan por la red que gestiona).</p>
+<p>Entidad administradora de infraestructuras (Importe por tren por km totales de tráficos que circulan por la red que gestiona).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100,00</p>
+<p>100,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Entidad operadora de infraestructura.</p>
+<p>Entidad operadora de infraestructura.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte de viajeros (importe por tren por km).</p>
+<p>Transporte de viajeros (importe por tren por km).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150,00</p>
+<p>150,00</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte de mercancías (importe por tren por km).</p>
+<p>Transporte de mercancías (importe por tren por km).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100,00</p>
+<p>100,00</p>
 </td>
 </tr>
 </tbody>
@@ -21918,105 +21641,100 @@ Son contribuyentes de esta tasa las personas o entidades fabricantes, las entida
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_77">
-<col class="row_column_162">
-<col class="row_column_121">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones de inspección para el reconocimiento de distintivos de calidad (por cada visita de inspección). Este concepto incluye: examen de autocontrol de fabricación, costes del personal técnico y redacción del acta e informe correspondientes.</p>
+<p>Actuaciones de inspección para el reconocimiento de distintivos de calidad (por cada visita de inspección). Este concepto incluye: examen de autocontrol de fabricación, costes del personal técnico y redacción del acta e informe correspondientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">193,00</p>
+<p>193,00</p>
 </td>
 </tr>
-<tr class="row_column_26">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones para la inspección de entidades de control y de laboratorios de ensayo para el control de la calidad de la edificación. Este concepto incluye: los costes de personal técnico, desplazamiento y, en su caso, acta de inspección e informe final.</p>
+<p>Actuaciones para la inspección de entidades de control y de laboratorios de ensayo para el control de la calidad de la edificación. Este concepto incluye: los costes de personal técnico, desplazamiento y, en su caso, acta de inspección e informe final.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Evaluación de la documentación administrativa y jurídica de la entidad o laboratorio, y, en su caso, evaluación de la idoneidad de los documentos aportados:</p>
+<p>Evaluación de la documentación administrativa y jurídica de la entidad o laboratorio, y, en su caso, evaluación de la idoneidad de los documentos aportados:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.1</p>
+<p>2.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Entidades: Por un campo de actuación de los definidos en el Anexo I-A del Real decreto 410/2010, de 31 de marzo.</p>
+<p>Entidades: Por un campo de actuación de los definidos en el Anexo I-A del Real decreto 410/2010, de 31 de marzo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">357,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Entidades: Por cada campo de actuación adicional de los definidos en el Anexo I-A del Real decreto 410/2010.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">178,00</p>
+<p>357,00</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1.3</p>
+<p>2.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laboratorios: Por una agrupación de ensayos de los definidos en el Anexo II-A del Real decreto 410/2010.</p>
+<p>Entidades: Por cada campo de actuación adicional de los definidos en el Anexo I-A del Real decreto 410/2010.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">357,00</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">2.1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Laboratorios: Por cada agrupación de ensayos adicional de los definidos en el Anexo II-A del Real decreto 410/2010.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">178,00</p>
+<p>178,00</p>
 </td>
 </tr>
-<tr class="row_column_72">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2</p>
+<p>2.1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Evaluación presencial del cumplimiento de los requisitos que corresponden según sean entidades o laboratorios, con comprobación de los resultados de la asistencia técnica, así como inspección de las instalaciones, procesos y otras circunstancias en que se desarrolla la actividad (por día de evaluación presencial).</p>
+<p>Laboratorios: Por una agrupación de ensayos de los definidos en el Anexo II-A del Real decreto 410/2010.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">540,00</p>
+<p>357,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.4</p>
+</td>
+<td>
+<p>Laboratorios: Por cada agrupación de ensayos adicional de los definidos en el Anexo II-A del Real decreto 410/2010.</p>
+</td>
+<td>
+<p>178,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Evaluación presencial del cumplimiento de los requisitos que corresponden según sean entidades o laboratorios, con comprobación de los resultados de la asistencia técnica, así como inspección de las instalaciones, procesos y otras circunstancias en que se desarrolla la actividad (por día de evaluación presencial).</p>
+</td>
+<td>
+<p>540,00</p>
 </td>
 </tr>
 </tbody>
@@ -22162,54 +21880,49 @@ La base liquidable se calculará reduciendo la base imponible en el importe del 
 
 La cuota íntegra se obtendrá aplicando sobre la base liquidable el tipo de gravamen porcentual señalado en el cuadro siguiente:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_132">
-<col class="row_column_163">
-<col class="row_column_164">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_14">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo de gravamen (porcentaje)</p>
+<p>Tipo de gravamen (porcentaje)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Supuestos de la letra a del apartado 1 del artículo 33.4.1.</p>
+<p>Supuestos de la letra a del apartado 1 del artículo 33.4.1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,15 %</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Supuestos de la letra b del apartado 1 del artículo 33.4.1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,15 %</p>
+<p>0,15 %</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Supuestos de la letra c del apartado 1 del artículo 33.4.1.</p>
+<p>Supuestos de la letra b del apartado 1 del artículo 33.4.1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05 %</p>
+<p>0,15 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Supuestos de la letra c del apartado 1 del artículo 33.4.1.</p>
+</td>
+<td>
+<p>0,05 %</p>
 </td>
 </tr>
 </tbody>
@@ -22263,111 +21976,106 @@ Son contribuyentes de esta tasa las personas que soliciten los servicios que con
 
 La cuota íntegra se obtendrá aplicando, del siguiente cuadro, bien la cantidad fija señalada, bien el tipo de gravamen porcentual a la base que se indica:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_64">
-<col class="row_column_165">
-<col class="row_column_102">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_30">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">
+<p>
 <em>Tipo de servicio</em>
 </p>
 </td>
 <td>
-<p class="cabeza_tabla">
+<p>
 <em>Importe (euros)</em>
 </p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de certificados a instancia de parte en relación con:</p>
+<p>Expedición de certificados a instancia de parte en relación con:</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La no obtención de ayudas de vivienda (por certificado).</p>
+<p>La no obtención de ayudas de vivienda (por certificado).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La finalización del plazo de protección (por certificado).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>2,50</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La solicitud de la libertad de cesión de vivienda protegida (por certificado).</p>
+<p>La finalización del plazo de protección (por certificado).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,50</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por solicitar los precios legales de vivienda protegida (por certificado).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>2,50</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Compulsa de documentos técnicos.</p>
+<p>La solicitud de la libertad de cesión de vivienda protegida (por certificado).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,50</p>
-</td>
-</tr>
-<tr class="row_column_97">
-<td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Registro de concesiones y autorizaciones administrativas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">El 0,5 por 1000 del valor de la expropiación realizada por el establecimiento de concesión, o, en defecto de ella, del valor del suelo ocupado o beneficiado por aquella, con un mínimo de 2,50</p>
+<p>2,50</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición de otros certificados no incluidos en el apartado 1, o de informes a instancia de parte (por certificado o informe).</p>
+<p>Por solicitar los precios legales de vivienda protegida (por certificado).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Compulsa de documentos técnicos.</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Registro de concesiones y autorizaciones administrativas.</p>
+</td>
+<td>
+<p>El 0,5 por 1000 del valor de la expropiación realizada por el establecimiento de concesión, o, en defecto de ella, del valor del suelo ocupado o beneficiado por aquella, con un mínimo de 2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Expedición de otros certificados no incluidos en el apartado 1, o de informes a instancia de parte (por certificado o informe).</p>
+</td>
+<td>
+<p>2,50</p>
 </td>
 </tr>
 </tbody>
@@ -22433,36 +22141,31 @@ Son contribuyentes las personas que se presenten a las pruebas físicas o psicot
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla">
-<colgroup>
-<col width="3%">
-<col width="82%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de servicio</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe</p>
-<p class="cabeza_tabla">(euros)</p>
+<th colspan="2">Tipo de servicio</th>
+<th>
+<p>Importe</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Pruebas físicas.</td>
-<td class="cuerpo_tabla_coma">75,00</td>
+<td>1</td>
+<td>Pruebas físicas.</td>
+<td>75,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Pruebas psicotécnicas.</td>
-<td class="cuerpo_tabla_coma">75,00</td>
+<td>2</td>
+<td>Pruebas psicotécnicas.</td>
+<td>75,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Certificación individual de acreditación para la presentación en los procesos selectivos.</td>
-<td class="cuerpo_tabla_coma">10,00</td>
+<td>3</td>
+<td>Certificación individual de acreditación para la presentación en los procesos selectivos.</td>
+<td>10,00</td>
 </tr>
 </tbody>
 </table>
@@ -22525,65 +22228,60 @@ Son contribuyentes las personas integrantes de los cuerpos de la policía local 
 
 La cuota íntegra se obtendrá aplicando la cantidad fija señalada en el siguiente cuadro:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_27">
-<col class="row_column_14">
-<col class="row_column_18">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tipo de servicio</p>
+<p>Tipo de servicio</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe (euros)</p>
+<p>Importe (euros)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Expedición del carnet profesional (para quienes se hallen en servicio activo o en situación de jubilación).</p>
+<p>Expedición del carnet profesional (para quienes se hallen en servicio activo o en situación de jubilación).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,00 €</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Expedición de la placa de policía local (para quienes se hallen en servicio activo o en situación de jubilación).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10,00 €</p>
+<p>5,00 €</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cartera.</p>
+<p>Expedición de la placa de policía local (para quienes se hallen en servicio activo o en situación de jubilación).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,00 €</p>
+<p>10,00 €</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Renovación por pérdida o sustracción del carnet profesional o placa de policía local.</p>
+<p>Cartera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,00 €</p>
+<p>10,00 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Renovación por pérdida o sustracción del carnet profesional o placa de policía local.</p>
+</td>
+<td>
+<p>10,00 €</p>
 </td>
 </tr>
 </tbody>

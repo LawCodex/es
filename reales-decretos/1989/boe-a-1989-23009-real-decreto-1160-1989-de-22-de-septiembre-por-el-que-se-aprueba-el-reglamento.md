@@ -218,22 +218,22 @@ Las características generales de este sistema son las siguientes:
 
 2.9.2 (a) Duración de la señal de supresión de línea:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">12 {</p>
+<p>12 {</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+ 0,0</p>
+<p>+ 0,0</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">(µs)</p>
+<p>(µs)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">– 0,3</p>
+<p>– 0,3</p>
 </td>
 </tr>
 </tbody>
@@ -243,22 +243,22 @@ Las características generales de este sistema son las siguientes:
 
 2.9.4 (c) Pórtico anterior:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">1,5 {</p>
+<p>1,5 {</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+ 0,3</p>
+<p>+ 0,3</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">(µs)</p>
+<p>(µs)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">– 0,0</p>
+<p>– 0,0</p>
 </td>
 </tr>
 </tbody>
@@ -358,31 +358,31 @@ a) Valor nominal y tolerancia: 4.433.616,75 ± 5 (Hz).
 
 b) Relación entre la frecuencia de la subportadora de crominancia f<sub>SC</sub> y la frecuencia de línea f<sub>H</sub> :
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">f<sub>SC </sub>= (</p>
+<p>f<sub>SC </sub>= (</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1135</p>
+<p>1135</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">) f<sub>H</sub></p>
+<p>) f<sub>H</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">525</p>
+<p>525</p>
 </td>
 </tr>
 </tbody>
@@ -390,22 +390,22 @@ b) Relación entre la frecuencia de la subportadora de crominancia f<sub>SC</sub
 
 3.10 Anchura de banda de las bandas laterales de crominancia (modulación en cuadratura de la subportadora).
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">f<sub>SC</sub> {</p>
+<p>f<sub>SC</sub> {</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+ 570</p>
+<p>+ 570</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">(kHz)</p>
+<p>(kHz)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">– 1300</p>
+<p>– 1300</p>
 </td>
 </tr>
 </tbody>
@@ -427,129 +427,129 @@ G = √(E’<sub>U</sub> <sup>2</sup> + E’<sub>V</sub> <sup>2</sup>)
 
 135º con relación al eje E’<sub>U</sub> con el siguiente signo (Véase la fig. 4);
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Línea</p>
+<p>Línea</p>
 </td>
 <td colspan="8">
-<p class="cabeza_tabla">Número de la trama (Nota 3)</p>
+<p>Número de la trama (Nota 3)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cabeza_tabla">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cabeza_tabla">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cabeza_tabla">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cabeza_tabla">8</p>
+<p>8</p>
 </td>
 </tr>
 <tr>
 <td colspan="8">
-<p class="cabeza_tabla">Secuencia de supresión de la ráfaga (Véase la fig. 5)</p>
+<p>Secuencia de supresión de la ráfaga (Véase la fig. 5)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cabeza_tabla">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cabeza_tabla">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cabeza_tabla">IV</p>
+<p>IV</p>
 </td>
 <td>
-<p class="cabeza_tabla">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cabeza_tabla">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cabeza_tabla">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cabeza_tabla">IV</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Par</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">+</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">+</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">+</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">+</p>
+<p>IV</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Impar</p>
+<p>Par</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>+</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>+</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">+</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>+</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Impar</p>
+</td>
+<td>
+<p>+</p>
+</td>
+<td>
+<p>+</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>+</p>
+</td>
+<td>
+<p>+</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -729,80 +729,80 @@ Para cambiar a una nueva aplicación, los bits de control cambian en la trama 1 
 
 ## TABLA 1 — Aplicaciones de los bloques de 704 bits de sonido/datos
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Bits de control de aplicación</p>
+<p>Bits de control de aplicación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Contenido del bloque sonido/datos de 704 bits</p>
+<p>Contenido del bloque sonido/datos de 704 bits</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3*</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Señal estéreo, compuesta de muestras alternadas de canales A y B.</p>
+<p>C3*</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Dos señales monofónicas independientes transmitidas en tramas alternas (designadas como M1 y M2).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Una señal monofónica y un canal transparente de datos de 352 Kb/s transmitidos en tramas alternas.</p>
+<p>Señal estéreo, compuesta de muestras alternadas de canales A y B.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Un canal transparente de datos de 704 Kb/s.</p>
+<p>Dos señales monofónicas independientes transmitidas en tramas alternas (designadas como M1 y M2).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>Una señal monofónica y un canal transparente de datos de 352 Kb/s transmitidos en tramas alternas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>Un canal transparente de datos de 704 Kb/s.</p>
 </td>
 </tr>
 </table>
@@ -861,163 +861,163 @@ Además de indicar el rango de codificación, el factor de escala indica siete r
 
 TABLA 3
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Rango codificación</p>
+<p>Rango codificación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Rango protección</p>
+<p>Rango protección</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Factor Escala</p>
+<p>Factor Escala</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">R2</p>
+<p>R2</p>
 </td>
 <td>
-<p class="cabeza_tabla">R1</p>
+<p>R1</p>
 </td>
 <td>
-<p class="cabeza_tabla">R0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Primer rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Primer rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>R0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Segundo rango</p>
+<p>Primer rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Segundo rango</p>
+<p>Primer rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tercer rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tercer rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuarto rango</p>
+<p>Segundo rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuarto rango</p>
+<p>Segundo rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Quinto rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Quinto rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Quinto rango</p>
+<p>Tercer rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sexto rango</p>
+<p>Tercer rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Quinto rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Séptimo rango</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Quinto rango</p>
+<p>Cuarto rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Séptimo rango*</p>
+<p>Cuarto rango</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Quinto rango</p>
+</td>
+<td>
+<p>Quinto rango</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Quinto rango</p>
+</td>
+<td>
+<p>Sexto rango</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Quinto rango</p>
+</td>
+<td>
+<p>Séptimo rango</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Quinto rango</p>
+</td>
+<td>
+<p>Séptimo rango*</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0</p>
 </td>
 </tr>
 </table>
@@ -1106,68 +1106,68 @@ II) Codificación de los cambios de fase transmitidos.
 
 Las magnitudes de los cambios de fase de portadora que corresponden a los cuatro posibles valores de los pares de bits de entrada (An, Bn) son:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Par de bits de entrada</p>
+<p>Par de bits de entrada</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor del cambio de fase de la portadora (En grados)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Bn</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Valor del cambio de fase de la portadora (En grados)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>Bn</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0º (no cambia)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">–90º</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">–270º</p>
+<p>0º (no cambia)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">–180º</p>
+<p>–90º</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>–270º</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>–180º</p>
 </td>
 </tr>
 </table>

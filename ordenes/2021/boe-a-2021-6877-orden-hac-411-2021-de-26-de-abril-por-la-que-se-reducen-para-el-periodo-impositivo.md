@@ -1,0 +1,72 @@
+---
+title: "Orden HAC/411/2021, de 26 de abril, por la que se reducen para el período impositivo 2020 los índices de rendimiento neto aplicables en el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas para las actividades agrícolas y ganaderas afectadas por diversas circunstancias excepcionales"
+identifier: "BOE-A-2021-6877"
+eli: "https://www.boe.es/eli/es/o/2021/04/26/hac411"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2021-04-26
+published: 2021-04-28
+in_force_from: 2021-04-29
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 101"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-6877"
+retrieved: 2026-10-11
+---
+
+# Orden HAC/411/2021, de 26 de abril, por la que se reducen para el período impositivo 2020 los índices de rendimiento neto aplicables en el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas para las actividades agrícolas y ganaderas afectadas por diversas circunstancias excepcionales
+
+En el anexo I de la Orden HAC/1164/2019, de 22 de noviembre, por la que se desarrollan para el año 2020 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, se aprobaron los signos, índices o módulos aplicables a las actividades agrícolas, ganaderas y forestales que determinen el rendimiento neto de su actividad económica con arreglo a dicho método.
+
+En el artículo 37.4.1.º del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo, se establece que cuando el desarrollo de actividades económicas, a las que fuese de aplicación el método de estimación objetiva, se viese alterado por incendios, inundaciones u otras circunstancias excepcionales que afectasen a un sector o zona determinada, la Ministra de Hacienda podrá autorizar, con carácter excepcional, la reducción de los signos, índices o módulos.
+
+A este respecto, el Ministerio de Agricultura, Pesca y Alimentación ha emitido informe por el que se pone de manifiesto que durante 2020 se han producido circunstancias excepcionales en el desarrollo de actividades agrícolas y ganaderas que aconsejan hacer uso de la autorización contenida en el citado artículo 37.4.1.º del Reglamento del Impuesto sobre la Renta de las Personas Físicas.
+
+De esta forma, en el artículo único esta Orden se aprueba la reducción de los índices de rendimiento neto aplicables en 2020 por las actividades agrícolas y ganaderas afectadas por circunstancias excepcionales, las cuales se localizan en determinadas zonas geográficas.
+
+Por razones de una mayor claridad para aplicar esta medida se ha optado por englobar estas reducciones en un anexo, en el cual se agrupan las reducciones por Comunidades Autónomas, Provincias, ámbitos territoriales y actividades.
+
+En su virtud, dispongo:
+
+## Artículo único. Reducción de los índices de rendimiento neto, aplicables en 2020, por las actividades agrícolas y ganaderas afectadas por circunstancias excepcionales.
+
+Los índices de rendimiento neto aplicables en 2020 a las actividades agrícolas y ganaderas desarrolladas en los ámbitos territoriales definidos en el anexo de la presente Orden serán los contenidos en este.
+
+## Disposición final única. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 26 de abril de 2021.–La Ministra de Hacienda, María Jesús Montero Cuadrado.
+
+## ANEXO
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_13.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/101/6877_9263123_14.png)

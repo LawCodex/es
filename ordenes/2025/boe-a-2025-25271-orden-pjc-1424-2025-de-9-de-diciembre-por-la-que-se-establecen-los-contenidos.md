@@ -507,95 +507,90 @@ b) Reconocer la importancia de seguir los consejos indicados a través de la rad
 
 c) Efectuar una consulta médica por radio simulada, utilizando la historia clínica básica, guía sanitaria y botiquines reglamentarios a bordo.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Temporalización</p>
+<p>Temporalización</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Temario</th>
-<th class="cabeza_tabla">Horas de Teoría</th>
-<th class="cabeza_tabla">Horas de Prácticas</th>
+<th>Temario</th>
+<th>Horas de Teoría</th>
+<th>Horas de Prácticas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Recursos sanitarios para las personas trabajadoras del mar.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Recursos sanitarios para las personas trabajadoras del mar.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estructura y funciones del cuerpo humano.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Estructura y funciones del cuerpo humano.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Examen del/de la paciente.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">1 hora y 30 minutos.</td>
+<td>Examen del/de la paciente.</td>
+<td>1 hora.</td>
+<td>1 hora y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asfixia y parada cardíaca.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">2 horas.</td>
+<td>Asfixia y parada cardíaca.</td>
+<td>1 hora.</td>
+<td>2 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hemorragias. Heridas y Quemaduras.</td>
-<td class="cuerpo_tabla_izq">1 hora y 30 minutos.</td>
-<td class="cuerpo_tabla_izq">2 horas.</td>
+<td>Hemorragias. Heridas y Quemaduras.</td>
+<td>1 hora y 30 minutos.</td>
+<td>2 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Choque.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
+<td>Choque.</td>
+<td>30 minutos.</td>
+<td>30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trastornos por calor y frío.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Trastornos por calor y frío.</td>
+<td>30 minutos.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Traumatismos y transporte personas heridas y accidentadas.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">2 horas.</td>
+<td>Traumatismos y transporte personas heridas y accidentadas.</td>
+<td>1 hora.</td>
+<td>2 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Intoxicaciones a bordo.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Intoxicaciones a bordo.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Accidentes de trabajo y enfermedades profesionales.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Accidentes de trabajo y enfermedades profesionales.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Higiene individual y colectiva.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Higiene individual y colectiva.</td>
+<td>30 minutos.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración de medicamentos. Botiquines a bordo.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">1 hora y 30 minutos.</td>
+<td>Administración de medicamentos. Botiquines a bordo.</td>
+<td>30 minutos.</td>
+<td>1 hora y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consulta médica por radio.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">1 hora y 30 minutos.</td>
+<td>Consulta médica por radio.</td>
+<td>30 minutos.</td>
+<td>1 hora y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2"> Total (incluida la evaluación).</td>
-<td class="cuerpo_tabla_izq">11 horas.</td>
-<td class="cuerpo_tabla_izq">11 horas.</td>
+<td rowspan="2"> Total (incluida la evaluación).</td>
+<td>11 horas.</td>
+<td>11 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">22 horas</td>
+<td colspan="2">22 horas</td>
 </tr>
 </tbody>
 </table>
@@ -996,130 +991,125 @@ d) Cumplimentar correctamente las fichas médicas de evacuación e informes.
 
 e) Efectuar una consulta médica por radio simulada, utilizando la historia clínica básica y los botiquines reglamentarios a bordo.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Temporalización</p>
+<p>Temporalización</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Temario</th>
-<th class="cabeza_tabla">Horas de teoría</th>
-<th class="cabeza_tabla">Horas de prácticas</th>
+<th>Temario</th>
+<th>Horas de teoría</th>
+<th>Horas de prácticas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Recursos sanitarios para las personas trabajadoras del mar.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Recursos sanitarios para las personas trabajadoras del mar.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estructura y funciones del cuerpo humano.</td>
-<td class="cuerpo_tabla_izq">1 hora y 30 minutos.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
+<td>Estructura y funciones del cuerpo humano.</td>
+<td>1 hora y 30 minutos.</td>
+<td>30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Historia clínica elemental y examen del/de la paciente.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">2 horas.</td>
+<td>Historia clínica elemental y examen del/de la paciente.</td>
+<td>1 hora.</td>
+<td>2 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asfixia y parada cardíaca.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">2 horas.</td>
+<td>Asfixia y parada cardíaca.</td>
+<td>1 hora.</td>
+<td>2 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hemorragias y choque.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
+<td>Hemorragias y choque.</td>
+<td>1 hora.</td>
+<td>30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Heridas.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">2 horas.</td>
+<td>Heridas.</td>
+<td>1 hora.</td>
+<td>2 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Quemaduras y congelaciones.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">1 hora y 30 minutos.</td>
+<td>Quemaduras y congelaciones.</td>
+<td>1 hora.</td>
+<td>1 hora y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trastornos generales por calor y frío.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Trastornos generales por calor y frío.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Intoxicaciones a bordo.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Intoxicaciones a bordo.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Esguinces, luxaciones y fracturas.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">2 horas y 30 minutos.</td>
+<td>Esguinces, luxaciones y fracturas.</td>
+<td>1 hora.</td>
+<td>2 horas y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Accidentes de trabajo y enfermedades profesionales.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Accidentes de trabajo y enfermedades profesionales.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Higiene personal y del buque.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Higiene personal y del buque.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enfermedades de transmisión sexual y enfermedades tropicales.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Enfermedades de transmisión sexual y enfermedades tropicales.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lesiones en los oídos, la nariz, la garganta y los ojos. Odontología.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Lesiones en los oídos, la nariz, la garganta y los ojos. Odontología.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso indebido de drogas, alcohol y otras urgencias psiquiátricas.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Uso indebido de drogas, alcohol y otras urgencias psiquiátricas.</td>
+<td>1 hora.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Muerte en el mar.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">0 horas.</td>
+<td>Muerte en el mar.</td>
+<td>30 minutos.</td>
+<td>0 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Atención al parto.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
+<td>Atención al parto.</td>
+<td>30 minutos.</td>
+<td>1 hora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Administración de medicamentos. Botiquines a bordo.</td>
-<td class="cuerpo_tabla_izq">1 hora.</td>
-<td class="cuerpo_tabla_izq">4 horas.</td>
+<td>Administración de medicamentos. Botiquines a bordo.</td>
+<td>1 hora.</td>
+<td>4 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transporte de personas heridas.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">2 horas y 30 minutos.</td>
+<td>Transporte de personas heridas.</td>
+<td>30 minutos.</td>
+<td>2 horas y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Consulta médica por radio.</td>
-<td class="cuerpo_tabla_izq">30 minutos.</td>
-<td class="cuerpo_tabla_izq">3 horas.</td>
+<td>Consulta médica por radio.</td>
+<td>30 minutos.</td>
+<td>3 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2"> Total (incluida la evaluación).</td>
-<td class="cuerpo_tabla_izq">18 horas y 30 minutos.</td>
-<td class="cuerpo_tabla_izq">21 horas y 30 minutos.</td>
+<td rowspan="2"> Total (incluida la evaluación).</td>
+<td>18 horas y 30 minutos.</td>
+<td>21 horas y 30 minutos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">40 horas</td>
+<td colspan="2">40 horas</td>
 </tr>
 </tbody>
 </table>
@@ -1932,60 +1922,56 @@ Fecha de impartición del curso:
 
 ## ANEXO V — Relación de Títulos Académicos de la Marina Civil
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Certificado</th>
-<th class="cabeza_tabla">Título Académico</th>
+<th>Certificado</th>
+<th>Título Académico</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de formación sanitaria específica inicial.</td>
-<td class="cuerpo_tabla_izq">Técnico en Navegación y Pesca de Litoral.</td>
+<td>Certificado de formación sanitaria específica inicial.</td>
+<td>Técnico en Navegación y Pesca de Litoral.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Certificado de formación sanitaria específica avanzada.</td>
-<td class="cuerpo_tabla_izq">Técnico Superior en Transporte Marítimo y Pesca de Altura.</td>
+<td rowspan="3">Certificado de formación sanitaria específica avanzada.</td>
+<td>Técnico Superior en Transporte Marítimo y Pesca de Altura.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Náutica y Transporte Marítimo.</td>
+<td>Grado en Náutica y Transporte Marítimo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Ingeniería Náutica y Transporte Marítimo.</td>
+<td>Grado en Ingeniería Náutica y Transporte Marítimo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">Certificado de formación sanitaria específica inicial – máquinas.</td>
-<td class="cuerpo_tabla_izq">Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones.</td>
+<td rowspan="7">Certificado de formación sanitaria específica inicial – máquinas.</td>
+<td>Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones.</td>
+<td>Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Tecnologías Marinas.</td>
+<td>Grado en Tecnologías Marinas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Tecnologías Marinas-Mención en Electrotecnia Marina (ETO).</td>
+<td>Grado en Tecnologías Marinas-Mención en Electrotecnia Marina (ETO).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Ingeniería Marina.</td>
+<td>Grado en Ingeniería Marina.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Marina (incluidas las especializaciones para oficiales de máquinas y ETO).</td>
+<td>Grado en Marina (incluidas las especializaciones para oficiales de máquinas y ETO).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Máquinas y Mantenimiento Naval.</td>
+<td>Grado en Máquinas y Mantenimiento Naval.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Certificado de formación sanitaria específica inicial – radio.</td>
-<td class="cuerpo_tabla_izq">Grado en Ingeniería Radioelectrónica Naval.</td>
+<td rowspan="2">Certificado de formación sanitaria específica inicial – radio.</td>
+<td>Grado en Ingeniería Radioelectrónica Naval.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grado en Ingeniería Radioelectrónica.</td>
+<td>Grado en Ingeniería Radioelectrónica.</td>
 </tr>
 </tbody>
 </table>

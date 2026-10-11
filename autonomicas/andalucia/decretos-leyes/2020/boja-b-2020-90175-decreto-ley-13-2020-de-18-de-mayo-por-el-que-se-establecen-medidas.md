@@ -2663,112 +2663,100 @@ En el cómputo de la dimensión mínima de la unidad de alojamiento se incluyen 
 
 1\. Grupos Hoteles, Hostales, Pensiones y Albergues
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="38%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="6%">
-<col width="10%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Dimensiones en Unidades de Alojamiento</th>
-<th class="cabeza_tabla">Hotel 5*</th>
-<th class="cabeza_tabla">Hotel 4*</th>
-<th class="cabeza_tabla">Hotel 3*</th>
-<th class="cabeza_tabla">Hotel 2*</th>
-<th class="cabeza_tabla">Hotel 1*</th>
-<th class="cabeza_tabla">Hostal 2*</th>
-<th class="cabeza_tabla">Hostal 1*</th>
-<th class="cabeza_tabla">Pensión (1)</th>
-<th class="cabeza_tabla">Albergue(2)</th>
+<th>Dimensiones en Unidades de Alojamiento</th>
+<th>Hotel 5*</th>
+<th>Hotel 4*</th>
+<th>Hotel 3*</th>
+<th>Hotel 2*</th>
+<th>Hotel 1*</th>
+<th>Hostal 2*</th>
+<th>Hostal 1*</th>
+<th>Pensión (1)</th>
+<th>Albergue(2)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Individuales.</td>
-<td class="cuerpo_tabla_centro">15 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">13 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">12 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">9 m2</td>
-<td class="cuerpo_tabla_centro">9 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">9 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">9 m<sup>2</sup></td>
+<td>Individuales.</td>
+<td>15 m<sup>2</sup></td>
+<td>13 m<sup>2</sup></td>
+<td>12 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
+<td>9 m2</td>
+<td>9 m<sup>2</sup></td>
+<td>9 m<sup>2</sup></td>
+<td>9 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dobles.</td>
-<td class="cuerpo_tabla_centro">20 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">18 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">17 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">15m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">14 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">14 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">13 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">13 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">13 m<sup>2</sup></td>
+<td>Dobles.</td>
+<td>20 m<sup>2</sup></td>
+<td>18 m<sup>2</sup></td>
+<td>17 m<sup>2</sup></td>
+<td>15m<sup>2</sup></td>
+<td>14 m<sup>2</sup></td>
+<td>14 m<sup>2</sup></td>
+<td>13 m<sup>2</sup></td>
+<td>13 m<sup>2</sup></td>
+<td>13 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Triple.</td>
-<td class="cuerpo_tabla_centro">25 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">22 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">21 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">19 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">17 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">17 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">17m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">16 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">No</td>
+<td>Triple.</td>
+<td>25 m<sup>2</sup></td>
+<td>22 m<sup>2</sup></td>
+<td>21 m<sup>2</sup></td>
+<td>19 m<sup>2</sup></td>
+<td>17 m<sup>2</sup></td>
+<td>17 m<sup>2</sup></td>
+<td>17m<sup>2</sup></td>
+<td>16 m<sup>2</sup></td>
+<td>No</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuádruple.</td>
-<td class="cuerpo_tabla_centro">29 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">26 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">25 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">22 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">20 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">20 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">18 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">18 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">No</td>
+<td>Cuádruple.</td>
+<td>29 m<sup>2</sup></td>
+<td>26 m<sup>2</sup></td>
+<td>25 m<sup>2</sup></td>
+<td>22 m<sup>2</sup></td>
+<td>20 m<sup>2</sup></td>
+<td>20 m<sup>2</sup></td>
+<td>18 m<sup>2</sup></td>
+<td>18 m<sup>2</sup></td>
+<td>No</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Salón.</td>
-<td class="cuerpo_tabla_centro">12 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">9 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">8 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">8 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">8 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">8 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">No</td>
+<td>Salón.</td>
+<td>12 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
+<td>9 m<sup>2</sup></td>
+<td>8 m<sup>2</sup></td>
+<td>8 m<sup>2</sup></td>
+<td>8 m<sup>2</sup></td>
+<td>8 m<sup>2</sup></td>
+<td>No</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Múltiples.</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">No</td>
-<td class="cuerpo_tabla_centro">Sí</td>
+<td>Múltiples.</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>Sí</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="10">
-<p class="cita">(1) Si no tiene baño dentro de la unidad de alojamiento se podrá aplicar una reducción de 3 metros.</p>
-<p class="cita">(2) Ver especificaciones en las notas del anexo III.</p>
+<p>(1) Si no tiene baño dentro de la unidad de alojamiento se podrá aplicar una reducción de 3 metros.</p>
+<p>(2) Ver especificaciones en las notas del anexo III.</p>
 </td>
 </tr>
 </tfoot>
@@ -2776,80 +2764,72 @@ En el cómputo de la dimensión mínima de la unidad de alojamiento se incluyen 
 
 2\. Grupos Hoteles-apartamentos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="50%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Dimensiones mínimas en Unidades de Alojamiento de Hoteles-Apartamentos</th>
-<th class="cabeza_tabla">5*</th>
-<th class="cabeza_tabla">4*</th>
-<th class="cabeza_tabla">3*</th>
-<th class="cabeza_tabla">2*</th>
-<th class="cabeza_tabla">1*</th>
+<th>Dimensiones mínimas en Unidades de Alojamiento de Hoteles-Apartamentos</th>
+<th>5*</th>
+<th>4*</th>
+<th>3*</th>
+<th>2*</th>
+<th>1*</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Dormitorio individual.</td>
-<td class="cuerpo_tabla_centro">15 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">13 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">12 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
+<td>Dormitorio individual.</td>
+<td>15 m<sup>2</sup></td>
+<td>13 m<sup>2</sup></td>
+<td>12 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dormitorio Doble.</td>
-<td class="cuerpo_tabla_centro">18 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">16 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">15 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">14 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">14 m<sup>2</sup></td>
+<td>Dormitorio Doble.</td>
+<td>18 m<sup>2</sup></td>
+<td>16 m<sup>2</sup></td>
+<td>15 m<sup>2</sup></td>
+<td>14 m<sup>2</sup></td>
+<td>14 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dormitorio Triple.</td>
-<td class="cuerpo_tabla_centro">22 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">19 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">18 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">17 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">17 m<sup>2</sup></td>
+<td>Dormitorio Triple.</td>
+<td>22 m<sup>2</sup></td>
+<td>19 m<sup>2</sup></td>
+<td>18 m<sup>2</sup></td>
+<td>17 m<sup>2</sup></td>
+<td>17 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dormitorio Cuádruple.</td>
-<td class="cuerpo_tabla_centro">25 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">22 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">21 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">20 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">20 m<sup>2</sup></td>
+<td>Dormitorio Cuádruple.</td>
+<td>25 m<sup>2</sup></td>
+<td>22 m<sup>2</sup></td>
+<td>21 m<sup>2</sup></td>
+<td>20 m<sup>2</sup></td>
+<td>20 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estudios (1).</td>
-<td class="cuerpo_tabla_centro">33 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">28 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">27 m2</td>
-<td class="cuerpo_tabla_centro">23 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">23 m<sup>2</sup></td>
+<td>Estudios (1).</td>
+<td>33 m<sup>2</sup></td>
+<td>28 m<sup>2</sup></td>
+<td>27 m2</td>
+<td>23 m<sup>2</sup></td>
+<td>23 m<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Salón-Comedor superficie mínima hasta 4 personas (2).</td>
-<td class="cuerpo_tabla_centro">17 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">16 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">12 m2</td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
-<td class="cuerpo_tabla_centro">10 m<sup>2</sup></td>
+<td>Salón-Comedor superficie mínima hasta 4 personas (2).</td>
+<td>17 m<sup>2</sup></td>
+<td>16 m<sup>2</sup></td>
+<td>12 m2</td>
+<td>10 m<sup>2</sup></td>
+<td>10 m<sup>2</sup></td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">(1) Capacidad de dos personas hasta un máximo de cuatro personas en camas convertibles adicionales. No se admite cama-litera.</p>
-<p class="cita">(2) Si la unidad de alojamiento excede las cuatro plazas se incrementará 2,5 m<sup>2</sup> por plaza adicional.</p>
+<p>(1) Capacidad de dos personas hasta un máximo de cuatro personas en camas convertibles adicionales. No se admite cama-litera.</p>
+<p>(2) Si la unidad de alojamiento excede las cuatro plazas se incrementará 2,5 m<sup>2</sup> por plaza adicional.</p>
 </td>
 </tr>
 </tfoot>
@@ -2859,55 +2839,43 @@ B. Áreas Sociales.
 
 Se considerarán áreas sociales los vestíbulos, comedores, bares (no computan las superficies de las barras), salas de lectura, de televisión y de juegos, así como cualquier otra dependencia destinada al uso y disfrute colectivo de las personas usuarias.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="45%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="10%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Superficie conjunta mínima</th>
-<th class="cabeza_tabla" colspan="5">Hoteles Hoteles-apartamento</th>
-<th class="cabeza_tabla" colspan="2">Hostales</th>
-<th class="cabeza_tabla" rowspan="2">Pensiones</th>
-<th class="cabeza_tabla" rowspan="2">Albergues (*)</th>
+<th rowspan="2">Superficie conjunta mínima</th>
+<th colspan="5">Hoteles Hoteles-apartamento</th>
+<th colspan="2">Hostales</th>
+<th rowspan="2">Pensiones</th>
+<th rowspan="2">Albergues (*)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">5*</th>
-<th class="cabeza_tabla">4*</th>
-<th class="cabeza_tabla">3*</th>
-<th class="cabeza_tabla">2*</th>
-<th class="cabeza_tabla">1*</th>
-<th class="cabeza_tabla">2*</th>
-<th class="cabeza_tabla">1*</th>
+<th>5*</th>
+<th>4*</th>
+<th>3*</th>
+<th>2*</th>
+<th>1*</th>
+<th>2*</th>
+<th>1*</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Expresados en m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_centro">4 m<sup>2</sup> por u.a.</td>
-<td class="cuerpo_tabla_centro">3,2 m<sup>2</sup> por u.a.</td>
-<td class="cuerpo_tabla_centro">3 m<sup>2</sup> por u.a</td>
-<td class="cuerpo_tabla_centro">2 m<sup>2</sup> por u.a</td>
-<td class="cuerpo_tabla_centro">2 m<sup>2</sup> por u.a</td>
-<td class="cuerpo_tabla_centro">1,5 m<sup>2</sup> por u.a</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1 m<sup>2</sup> por plaza (*)</td>
+<td>Expresados en m<sup>2</sup>.</td>
+<td>4 m<sup>2</sup> por u.a.</td>
+<td>3,2 m<sup>2</sup> por u.a.</td>
+<td>3 m<sup>2</sup> por u.a</td>
+<td>2 m<sup>2</sup> por u.a</td>
+<td>2 m<sup>2</sup> por u.a</td>
+<td>1,5 m<sup>2</sup> por u.a</td>
+<td>-</td>
+<td>-</td>
+<td>1 m<sup>2</sup> por plaza (*)</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="10">
-<p class="cita">(*) Ver especificaciones en las notas del anexo III.</p>
+<p>(*) Ver especificaciones en las notas del anexo III.</p>
 </td>
 </tr>
 </tfoot>
@@ -2947,17 +2915,7 @@ Camas supletorias
 
 ## ANEXO II — Tablas puntuación sistema clasificación Hoteles y Hoteles-apartamentos
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>Área/Sub-Área/ Requisitos</th>
@@ -2972,4474 +2930,4466 @@ Camas supletorias
 </thead>
 <tbody>
 <tr>
-<td class="sombra" colspan="8">I. Condiciones generales/Áreas Comunes</td>
+<td colspan="8">I. Condiciones generales/Áreas Comunes</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.1 Condiciones generales</td>
+<td colspan="8">I.1 Condiciones generales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Todo el establecimiento debe estar en condiciones de limpieza e higiene.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">NP</p>
+<td>Todo el establecimiento debe estar en condiciones de limpieza e higiene.</td>
+<td>1</td>
+<td>
+<p>NP</p>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Todos los mecanismos y equipos (mobiliario, material de oficina, etc.) funcionan perfectamente.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">NP</p>
+<td>Todos los mecanismos y equipos (mobiliario, material de oficina, etc.) funcionan perfectamente.</td>
+<td>2</td>
+<td>
+<p>NP</p>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Las características del establecimiento deben concordar con su categoría*.</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">NP</p>
+<td>Las características del establecimiento deben concordar con su categoría*.</td>
+<td>3</td>
+<td>
+<p>NP</p>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Establecimiento ubicado en un edificio que cuenta con alguna catalogación en los planes de ordenación urbana o se ubica en zonas de especial protección o tiene acceso directo a la playa.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">
+<td>Establecimiento ubicado en un edificio que cuenta con alguna catalogación en los planes de ordenación urbana o se ubica en zonas de especial protección o tiene acceso directo a la playa.</td>
+<td rowspan="2">4</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Establecimiento ubicado en un edificio y/o finca declarado de interés cultural.</td>
-<td class="cuerpo_tabla_centro">
+<td>Establecimiento ubicado en un edificio y/o finca declarado de interés cultural.</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.2 Áreas Públicas</td>
+<td colspan="8">I.2 Áreas Públicas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entrada principal dotada de marquesina.</td>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_centro">
+<td>Entrada principal dotada de marquesina.</td>
+<td>5</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Existe calefacción/refrigeración por elementos fijos en las áreas públicas del establecimiento (restaurante, vestíbulo, entrada...)*.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">
+<td>Existe calefacción/refrigeración por elementos fijos en las áreas públicas del establecimiento (restaurante, vestíbulo, entrada...)*.</td>
+<td rowspan="2">6</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Existe climatización en las áreas públicas del establecimiento (restaurante, vestíbulo, entrada...).</td>
-<td class="cuerpo_tabla_centro">
+<td>Existe climatización en las áreas públicas del establecimiento (restaurante, vestíbulo, entrada...).</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Existen servicios sanitarios/aseos separados independiente para hombres y mujeres en las zonas comunes, salones o lugares de reunión*.</td>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_centro">
+<td>Existen servicios sanitarios/aseos separados independiente para hombres y mujeres en las zonas comunes, salones o lugares de reunión*.</td>
+<td>7</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de TV.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de TV.</td>
+<td>8</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de audiovisuales.</td>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de audiovisuales.</td>
+<td>9</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de lectura/escritura/biblioteca.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de lectura/escritura/biblioteca.</td>
+<td>10</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Obras de arte originales en las zonas comunes*.</td>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_centro">
+<td>Obras de arte originales en las zonas comunes*.</td>
+<td>11</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plantas o flores naturales.</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_centro">
+<td>Plantas o flores naturales.</td>
+<td>12</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Terminal de internet accesible para clientes (1 por cada 50 unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_centro">
+<td>Terminal de internet accesible para clientes (1 por cada 50 unidades de alojamiento)*.</td>
+<td>13</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acceso de internet en las áreas públicas (por ejemplo banda ancha, WLAN, Wi-Fi)*.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_centro">
+<td>Acceso de internet en las áreas públicas (por ejemplo banda ancha, WLAN, Wi-Fi)*.</td>
+<td>14</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bar*.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">15</td>
-<td class="cuerpo_tabla_centro">
+<td>Bar*.</td>
+<td rowspan="2">15</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bar* abierto los mismos días de apertura del hotel.</td>
-<td class="cuerpo_tabla_centro">
+<td>Bar* abierto los mismos días de apertura del hotel.</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Existe zona de mostradores/mesas de información para empresas de intermediación de servicios turísticos.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_centro">
+<td>Existe zona de mostradores/mesas de información para empresas de intermediación de servicios turísticos.</td>
+<td>16</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.3 Recepción</td>
+<td colspan="8">I.3 Recepción</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Área funcionalmente independiente para el servicio de recepción (visualmente separados).</td>
-<td class="cuerpo_tabla_coma" rowspan="2">17</td>
-<td class="cuerpo_tabla_centro">
+<td>Área funcionalmente independiente para el servicio de recepción (visualmente separados).</td>
+<td rowspan="2">17</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mostrador de recepción separado e independiente para el servicio.</td>
-<td class="cuerpo_tabla_centro">
+<td>Mostrador de recepción separado e independiente para el servicio.</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vestíbulo con asientos.</td>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_centro">
+<td>Vestíbulo con asientos.</td>
+<td>18</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vestíbulo con asientos y servicio de bebida de cortesía.</td>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_centro">
+<td>Vestíbulo con asientos y servicio de bebida de cortesía.</td>
+<td>19</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teléfono a disposición de los clientes.</td>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_centro">
+<td>Teléfono a disposición de los clientes.</td>
+<td>20</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de impresora/fotocopiadora.</td>
-<td class="cuerpo_tabla_coma">21</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de impresora/fotocopiadora.</td>
+<td>21</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de información de servicios multilingüe (paneles/directorios).</td>
-<td class="cuerpo_tabla_coma" rowspan="2">22</td>
-<td class="cuerpo_tabla_centro">
+<td>Zona de información de servicios multilingüe (paneles/directorios).</td>
+<td rowspan="2">22</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de información de servicios multilingüe en soporte electrónico.</td>
-<td class="cuerpo_tabla_centro">
+<td>Zona de información de servicios multilingüe en soporte electrónico.</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Material de Información sobre los recursos turísticos regional disponible en la recepción.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_centro">
+<td>Material de Información sobre los recursos turísticos regional disponible en la recepción.</td>
+<td>23</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Personal bilingüe.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">24</td>
-<td class="cuerpo_tabla_centro">
+<td>Personal bilingüe.</td>
+<td rowspan="2">24</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Personal multilingüe.</td>
-<td class="cuerpo_tabla_centro">
+<td>Personal multilingüe.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de recepción 24 horas de forma presencial*.</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de recepción 24 horas de forma presencial*.</td>
+<td>25</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Personal conocedor del lenguaje de signos.</td>
-<td class="cuerpo_tabla_coma">26</td>
-<td class="cuerpo_tabla_centro">
+<td>Personal conocedor del lenguaje de signos.</td>
+<td>26</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manual de bienvenida o información del hotel en braille.</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_centro">
+<td>Manual de bienvenida o información del hotel en braille.</td>
+<td>27</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Personal para aparcar vehículos.</td>
-<td class="cuerpo_tabla_coma">28</td>
-<td class="cuerpo_tabla_centro">
+<td>Personal para aparcar vehículos.</td>
+<td>28</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Portero (con personal separado).</td>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_centro">
+<td>Portero (con personal separado).</td>
+<td>29</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conserje (con personal separado).</td>
-<td class="cuerpo_tabla_coma">30</td>
-<td class="cuerpo_tabla_centro">
+<td>Conserje (con personal separado).</td>
+<td>30</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Botones (con personal separado).</td>
-<td class="cuerpo_tabla_coma">31</td>
-<td class="cuerpo_tabla_centro">
+<td>Botones (con personal separado).</td>
+<td>31</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de equipajes, a petición del cliente.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">32</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de equipajes, a petición del cliente.</td>
+<td rowspan="2">32</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de equipajes (entrega y recogida en la habitación).</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de equipajes (entrega y recogida en la habitación).</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de guarda de equipajes a la llegada o salida de clientes.</td>
-<td class="cuerpo_tabla_coma">33</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de guarda de equipajes a la llegada o salida de clientes.</td>
+<td>33</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de relaciones públicas independiente del servicio de recepción y conserjería.</td>
-<td class="cuerpo_tabla_coma">34</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de relaciones públicas independiente del servicio de recepción y conserjería.</td>
+<td>34</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.4 Instalaciones para personas con discapacidad</td>
+<td colspan="8">I.4 Instalaciones para personas con discapacidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colgantes avisadores de urgencias conectados con recepción a disposición de los clientes.</td>
-<td class="cuerpo_tabla_coma">35</td>
-<td class="cuerpo_tabla_centro">
+<td>Colgantes avisadores de urgencias conectados con recepción a disposición de los clientes.</td>
+<td>35</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instalación de bucle magnético para personas con discapacidad auditiva.</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_centro">
+<td>Instalación de bucle magnético para personas con discapacidad auditiva.</td>
+<td>36</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivos complementarios para personas con discapacidad auditiva para realizar el servicio de despertador.</td>
-<td class="cuerpo_tabla_coma">37</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivos complementarios para personas con discapacidad auditiva para realizar el servicio de despertador.</td>
+<td>37</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordenadores adaptados a personas con discapacidad.</td>
-<td class="cuerpo_tabla_coma">38</td>
-<td class="cuerpo_tabla_centro">
+<td>Ordenadores adaptados a personas con discapacidad.</td>
+<td>38</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sujeta bastones en zonas comunes.</td>
-<td class="cuerpo_tabla_coma">39</td>
-<td class="cuerpo_tabla_centro">
+<td>Sujeta bastones en zonas comunes.</td>
+<td>39</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Disponibilidad de taburete bajo que facilite el acceso a lavabos e inodoros.</td>
-<td class="cuerpo_tabla_coma">40</td>
-<td class="cuerpo_tabla_centro">
+<td>Disponibilidad de taburete bajo que facilite el acceso a lavabos e inodoros.</td>
+<td>40</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inodoros empotrados en pared.</td>
-<td class="cuerpo_tabla_coma">41</td>
-<td class="cuerpo_tabla_centro">
+<td>Inodoros empotrados en pared.</td>
+<td>41</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cambiadores de bebés en aseos generales masculinos y femeninos.</td>
-<td class="cuerpo_tabla_coma">42</td>
-<td class="cuerpo_tabla_centro">
+<td>Cambiadores de bebés en aseos generales masculinos y femeninos.</td>
+<td>42</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instalación de lavabos regulables en altura.</td>
-<td class="cuerpo_tabla_coma">43</td>
-<td class="cuerpo_tabla_centro">
+<td>Instalación de lavabos regulables en altura.</td>
+<td>43</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mecanismos de apertura puertas mediante tarjeta magnética por aproximación.(evitando sistema de inserción de tarjetas).</td>
-<td class="cuerpo_tabla_coma">44</td>
-<td class="cuerpo_tabla_centro">
+<td>Mecanismos de apertura puertas mediante tarjeta magnética por aproximación.(evitando sistema de inserción de tarjetas).</td>
+<td>44</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marco de acceso a terraza desde habitación embebido en el suelo.</td>
-<td class="cuerpo_tabla_coma">45</td>
-<td class="cuerpo_tabla_centro">
+<td>Marco de acceso a terraza desde habitación embebido en el suelo.</td>
+<td>45</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Termostatos limitadores de temperatura de agua caliente a un máximo de 40°*.</td>
-<td class="cuerpo_tabla_coma">46</td>
-<td class="cuerpo_tabla_centro">
+<td>Termostatos limitadores de temperatura de agua caliente a un máximo de 40°*.</td>
+<td>46</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camas regulables en altura e inclinación de cabeza y pies.</td>
-<td class="cuerpo_tabla_coma">47</td>
-<td class="cuerpo_tabla_centro">
+<td>Camas regulables en altura e inclinación de cabeza y pies.</td>
+<td>47</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistemas domóticos de detección de caídas.</td>
-<td class="cuerpo_tabla_coma">48</td>
-<td class="cuerpo_tabla_centro">
+<td>Sistemas domóticos de detección de caídas.</td>
+<td>48</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aislamiento en tuberías de agua caliente en lavabos*.</td>
-<td class="cuerpo_tabla_coma">49</td>
-<td class="cuerpo_tabla_centro">
+<td>Aislamiento en tuberías de agua caliente en lavabos*.</td>
+<td>49</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apoyo isquiático en zonas exteriores y áreas comunes.</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_centro">
+<td>Apoyo isquiático en zonas exteriores y áreas comunes.</td>
+<td>50</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espejos sobre la barra del buffet que faciliten la visualización de los alimentos disponibles.</td>
-<td class="cuerpo_tabla_coma">51</td>
-<td class="cuerpo_tabla_centro">
+<td>Espejos sobre la barra del buffet que faciliten la visualización de los alimentos disponibles.</td>
+<td>51</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plazas de parking con superficie suficiente para el uso de plataformas elevadoras.</td>
-<td class="cuerpo_tabla_coma">52</td>
-<td class="cuerpo_tabla_centro">
+<td>Plazas de parking con superficie suficiente para el uso de plataformas elevadoras.</td>
+<td>52</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teléfonos adaptados con sistemas de amplificación de sonidos.</td>
-<td class="cuerpo_tabla_coma">53</td>
-<td class="cuerpo_tabla_centro">
+<td>Teléfonos adaptados con sistemas de amplificación de sonidos.</td>
+<td>53</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asiento abatible y de retorno automático en ascensores.</td>
-<td class="cuerpo_tabla_coma">54</td>
-<td class="cuerpo_tabla_centro">
+<td>Asiento abatible y de retorno automático en ascensores.</td>
+<td>54</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de información general adaptado para personas con discapacidad audiovisual.</td>
-<td class="cuerpo_tabla_coma">55</td>
-<td class="cuerpo_tabla_centro">
+<td>Sistema de información general adaptado para personas con discapacidad audiovisual.</td>
+<td>55</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manuales/códigos de conducta para la atención de personas con discapacidad.</td>
-<td class="cuerpo_tabla_coma">56</td>
-<td class="cuerpo_tabla_centro">
+<td>Manuales/códigos de conducta para la atención de personas con discapacidad.</td>
+<td>56</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.5 Aparcamiento</td>
+<td colspan="8">I.5 Aparcamiento</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aparcamiento para uso del establecimiento (para un mínimo del 20% de las unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_coma" rowspan="3">57</td>
-<td class="cuerpo_tabla_centro">
+<td>Aparcamiento para uso del establecimiento (para un mínimo del 20% de las unidades de alojamiento)*.</td>
+<td rowspan="3">57</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aparcamiento para uso del establecimiento (para un mínimo del 50% de las unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_centro">
+<td>Aparcamiento para uso del establecimiento (para un mínimo del 50% de las unidades de alojamiento)*.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aparcamiento para uso del establecimiento (para el 100% de las unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_centro">
+<td>Aparcamiento para uso del establecimiento (para el 100% de las unidades de alojamiento)*.</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aparcamiento para autobuses.</td>
-<td class="cuerpo_tabla_coma">58</td>
-<td class="cuerpo_tabla_centro">
+<td>Aparcamiento para autobuses.</td>
+<td>58</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Garaje (para un mínimo del 20% de las unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_coma" rowspan="3">59</td>
-<td class="cuerpo_tabla_centro">
+<td>Garaje (para un mínimo del 20% de las unidades de alojamiento)*.</td>
+<td rowspan="3">59</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Garaje (para un mínimo del 50% de las unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_centro">
+<td>Garaje (para un mínimo del 50% de las unidades de alojamiento)*.</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Garaje (para un mínimo del 100% de las unidades de alojamiento)*.</td>
-<td class="cuerpo_tabla_centro">
+<td>Garaje (para un mínimo del 100% de las unidades de alojamiento)*.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estación de carga para vehículos eléctricos (coches, bicicletas, etc.).</td>
-<td class="cuerpo_tabla_coma">60</td>
-<td class="cuerpo_tabla_centro">
+<td>Estación de carga para vehículos eléctricos (coches, bicicletas, etc.).</td>
+<td>60</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.6 Otras instalaciones generales</td>
+<td colspan="8">I.6 Otras instalaciones generales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El acceso de los clientes es independiente del acceso de servicios y mercancías*.</td>
-<td class="cuerpo_tabla_coma">61</td>
-<td class="cuerpo_tabla_centro">
+<td>El acceso de los clientes es independiente del acceso de servicios y mercancías*.</td>
+<td>61</td>
+<td>
 <strong>12</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oficio por cada tres plantas*.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">62</td>
-<td class="cuerpo_tabla_centro">
+<td>Oficio por cada tres plantas*.</td>
+<td rowspan="2">62</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oficio en cada planta*.</td>
-<td class="cuerpo_tabla_centro">
+<td>Oficio en cada planta*.</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escalera de servicios.</td>
-<td class="cuerpo_tabla_coma">63</td>
-<td class="cuerpo_tabla_centro">
+<td>Escalera de servicios.</td>
+<td>63</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ascensor-montacargas de servicio.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_centro">
+<td>Ascensor-montacargas de servicio.</td>
+<td>64</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jardines propios 5 m2 por plaza.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">65</td>
-<td class="cuerpo_tabla_centro">
+<td>Jardines propios 5 m2 por plaza.</td>
+<td rowspan="2">65</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jardines propios 10 m2 por plaza.</td>
-<td class="cuerpo_tabla_centro">
+<td>Jardines propios 10 m2 por plaza.</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pasillos de ancho superior a 1,50 metros.</td>
-<td class="cuerpo_tabla_coma">66</td>
-<td class="cuerpo_tabla_centro">
+<td>Pasillos de ancho superior a 1,50 metros.</td>
+<td>66</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escalera de clientes con ancho superior a 1,50 metros.</td>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_centro">
+<td>Escalera de clientes con ancho superior a 1,50 metros.</td>
+<td>67</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">I.7 Servicios</td>
+<td colspan="8">I.7 Servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza diaria de la habitación.</td>
-<td class="cuerpo_tabla_coma">68</td>
-<td class="cuerpo_tabla_centro">
+<td>Limpieza diaria de la habitación.</td>
+<td>68</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cambio diario de toallas a petición del cliente.</td>
-<td class="cuerpo_tabla_coma">69</td>
-<td class="cuerpo_tabla_centro">
+<td>Cambio diario de toallas a petición del cliente.</td>
+<td>69</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cambio de ropa de la cama cada cinco días de estancia.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">70</td>
-<td class="cuerpo_tabla_centro">
+<td>Cambio de ropa de la cama cada cinco días de estancia.</td>
+<td rowspan="2">70</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cambio de la ropa de la cama cada tres días de estancia.</td>
-<td class="cuerpo_tabla_centro">
+<td>Cambio de la ropa de la cama cada tres días de estancia.</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cambio diario de la ropa de cama a petición del cliente.</td>
-<td class="cuerpo_tabla_coma">71</td>
-<td class="cuerpo_tabla_centro">
+<td>Cambio diario de la ropa de cama a petición del cliente.</td>
+<td>71</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pago mediante tarjeta bancaria publicitando claramente los medios de pago.</td>
-<td class="cuerpo_tabla_coma">72</td>
-<td class="cuerpo_tabla_centro">
+<td>Pago mediante tarjeta bancaria publicitando claramente los medios de pago.</td>
+<td>72</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Envío de objetos olvidados a petición del cliente, que deberá abonarlo.</td>
-<td class="cuerpo_tabla_coma">73</td>
-<td class="cuerpo_tabla_centro">
+<td>Envío de objetos olvidados a petición del cliente, que deberá abonarlo.</td>
+<td>73</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de despertador.</td>
-<td class="cuerpo_tabla_coma">74</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de despertador.</td>
+<td>74</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Paraguas en la recepción/habitación.</td>
-<td class="cuerpo_tabla_coma">75</td>
-<td class="cuerpo_tabla_centro">
+<td>Paraguas en la recepción/habitación.</td>
+<td>75</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revistas actualizadas y gratuitas.</td>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_centro">
+<td>Revistas actualizadas y gratuitas.</td>
+<td>76</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prensa diaria nacional y/o internacional.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_centro">
+<td>Prensa diaria nacional y/o internacional.</td>
+<td>77</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de costura.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de costura.</td>
+<td>78</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de transporte (traslado de clientes).</td>
-<td class="cuerpo_tabla_coma">79</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de transporte (traslado de clientes).</td>
+<td>79</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de limpieza de zapatos.</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de limpieza de zapatos.</td>
+<td>80</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de mantenimiento 24 horas.</td>
-<td class="cuerpo_tabla_coma">81</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de mantenimiento 24 horas.</td>
+<td>81</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">WC/Ducha de cortesía para salidas tardías.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">82</td>
-<td class="cuerpo_tabla_centro">
+<td>WC/Ducha de cortesía para salidas tardías.</td>
+<td rowspan="2">82</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Habitación de cortesía para entradas y salidas (únicamente para este uso).</td>
-<td class="cuerpo_tabla_centro">
+<td>Habitación de cortesía para entradas y salidas (únicamente para este uso).</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oferta de productos sanitarios en habitación de cortesía.</td>
-<td class="cuerpo_tabla_coma">83</td>
-<td class="cuerpo_tabla_centro">
+<td>Oferta de productos sanitarios en habitación de cortesía.</td>
+<td>83</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Saludo personal a cada cliente con flores frescas o un detalle en la habitación (no solo un mensaje de bienvenida en la TV).</td>
-<td class="cuerpo_tabla_coma">84</td>
-<td class="cuerpo_tabla_centro">
+<td>Saludo personal a cada cliente con flores frescas o un detalle en la habitación (no solo un mensaje de bienvenida en la TV).</td>
+<td>84</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acompañar al cliente a la habitación a su llegada.</td>
-<td class="cuerpo_tabla_coma">85</td>
-<td class="cuerpo_tabla_centro">
+<td>Acompañar al cliente a la habitación a su llegada.</td>
+<td>85</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de alquiler de silla de ruedas.</td>
-<td class="cuerpo_tabla_coma">86</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de alquiler de silla de ruedas.</td>
+<td>86</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de peso de maletas (básculas).</td>
-<td class="cuerpo_tabla_coma">87</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de peso de maletas (básculas).</td>
+<td>87</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plantas y/o flores naturales en las habitaciones.</td>
-<td class="cuerpo_tabla_coma">88</td>
-<td class="cuerpo_tabla_centro">
+<td>Plantas y/o flores naturales en las habitaciones.</td>
+<td>88</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de tarde adicional (segundo servicio) para la revisión de las habitaciones (cambio de toallas, apertura de colcha, limpieza de papeleras, etc.).</td>
-<td class="cuerpo_tabla_coma">89</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de tarde adicional (segundo servicio) para la revisión de las habitaciones (cambio de toallas, apertura de colcha, limpieza de papeleras, etc.).</td>
+<td>89</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de plancha (devolución en una hora).</td>
-<td class="cuerpo_tabla_coma">90</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de plancha (devolución en una hora).</td>
+<td>90</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavandería y servicio de plancha (devolución según acuerdo).</td>
-<td class="cuerpo_tabla_coma" rowspan="3">91</td>
-<td class="cuerpo_tabla_centro">
+<td>Lavandería y servicio de plancha (devolución según acuerdo).</td>
+<td rowspan="3">91</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavandería y servicio de plancha (entrega antes de las 9:00 h., devolución en 24 horas, salvo el fin de semana).</td>
-<td class="cuerpo_tabla_centro">
+<td>Lavandería y servicio de plancha (entrega antes de las 9:00 h., devolución en 24 horas, salvo el fin de semana).</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavandería y servicio de plancha (entrega antes de las 9:OOh, devolución en 12 horas).</td>
-<td class="cuerpo_tabla_centro">
+<td>Lavandería y servicio de plancha (entrega antes de las 9:OOh, devolución en 12 horas).</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavandería para el uso de clientes.</td>
-<td class="cuerpo_tabla_coma">92</td>
-<td class="cuerpo_tabla_centro">
+<td>Lavandería para el uso de clientes.</td>
+<td>92</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza química/limpieza en seco (recogida antes de las 9:00 h, entrega en 48 horas).</td>
-<td class="cuerpo_tabla_coma" rowspan="2">93</td>
-<td class="cuerpo_tabla_centro">
+<td>Limpieza química/limpieza en seco (recogida antes de las 9:00 h, entrega en 48 horas).</td>
+<td rowspan="2">93</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza química /limpieza en seco (recogida antes de las 9:OOh, entrega en 24 h.).</td>
-<td class="cuerpo_tabla_centro">
+<td>Limpieza química /limpieza en seco (recogida antes de las 9:OOh, entrega en 24 h.).</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de cambio de moneda.</td>
-<td class="cuerpo_tabla_coma">94</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de cambio de moneda.</td>
+<td>94</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de enfermería-instalaciones propias para prestar atención sanitaria.</td>
-<td class="cuerpo_tabla_coma">95</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de enfermería-instalaciones propias para prestar atención sanitaria.</td>
+<td>95</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio externo de atención médica a demanda.</td>
-<td class="cuerpo_tabla_coma">96</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio externo de atención médica a demanda.</td>
+<td>96</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de alquiler de coches u otros elementos de transporte.</td>
-<td class="cuerpo_tabla_coma">97</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de alquiler de coches u otros elementos de transporte.</td>
+<td>97</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de alquiler de cochecito para bebés.</td>
-<td class="cuerpo_tabla_coma">98</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de alquiler de cochecito para bebés.</td>
+<td>98</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II. Unidades de alojamiento (u.a.)</td>
+<td colspan="8">II. Unidades de alojamiento (u.a.)</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.1 Dimensiones</td>
+<td colspan="8">II.1 Dimensiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Al menos el 80% de las u.a, con dimensiones requeridas para su categoría.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">99</td>
-<td class="cuerpo_tabla_centro">
+<td>Al menos el 80% de las u.a, con dimensiones requeridas para su categoría.</td>
+<td rowspan="2">99</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El 100% de las u.a, con dimensiones requeridas para su categoría.</td>
-<td class="cuerpo_tabla_centro">
+<td>El 100% de las u.a, con dimensiones requeridas para su categoría.</td>
+<td>
 <strong>25</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Junior suite (doble con sala).</td>
-<td class="cuerpo_tabla_coma">100</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Junior suite (doble con sala).</td>
+<td>100</td>
+<td>
+<p>
 <strong>1 por suite jr.</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máx. 10)</p>
+<p>(máx. 10)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">M</p>
-<p class="cuerpo_tabla_centro">(mín. 2)</p>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>M</p>
+<p>(mín. 2)</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">M</p>
-<p class="cuerpo_tabla_centro">(mín. 2)</p>
+<td>
+<p>M</p>
+<p>(mín. 2)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Suite.</td>
-<td class="cuerpo_tabla_coma">101</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Suite.</td>
+<td>101</td>
+<td>
+<p>
 <strong>2 por suite</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máx. 14)</p>
+<p>(máx. 14)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">M</p>
-<p class="cuerpo_tabla_centro">(mín. 5% u.a.)</p>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>M</p>
+<p>(mín. 5% u.a.)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Unidades de alojamiento comunicadas.</td>
-<td class="cuerpo_tabla_coma">102</td>
-<td class="cuerpo_tabla_centro">
+<td>Unidades de alojamiento comunicadas.</td>
+<td>102</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Balcones o terrazas en un mínimo del 20% de las u.a.</td>
-<td class="cuerpo_tabla_coma" rowspan="3">103</td>
-<td class="cuerpo_tabla_centro">
+<td>Balcones o terrazas en un mínimo del 20% de las u.a.</td>
+<td rowspan="3">103</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Balcones o terrazas en un mínimo del 50% de las u.a.</td>
-<td class="cuerpo_tabla_centro">
+<td>Balcones o terrazas en un mínimo del 50% de las u.a.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Balcones o terrazas en un mínimo del 75% de las u.a.</td>
-<td class="cuerpo_tabla_centro">
+<td>Balcones o terrazas en un mínimo del 75% de las u.a.</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mobiliario de terraza (al menos 3 elementos de mobiliario), en al menos el 85% de las terrazas de las habitaciones.</td>
-<td class="cuerpo_tabla_coma">104</td>
-<td class="cuerpo_tabla_centro">
+<td>Mobiliario de terraza (al menos 3 elementos de mobiliario), en al menos el 85% de las terrazas de las habitaciones.</td>
+<td>104</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hamacas en terrazas (en al menos el 50% de las terrazas de las habitaciones).</td>
-<td class="cuerpo_tabla_coma">105</td>
-<td class="cuerpo_tabla_centro">
+<td>Hamacas en terrazas (en al menos el 50% de las terrazas de las habitaciones).</td>
+<td>105</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.2 Dimensiones salones en Hoteles - apartamentos</td>
+<td colspan="8">II.2 Dimensiones salones en Hoteles - apartamentos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Al menos el 80% de las u.a, con dimensiones requeridas a su categoría.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">HA1</td>
-<td class="cuerpo_tabla_centro">
+<td>Al menos el 80% de las u.a, con dimensiones requeridas a su categoría.</td>
+<td rowspan="2">HA1</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El 100% de las u.a, con dimensiones requeridas a su categoría.</td>
-<td class="cuerpo_tabla_centro">
+<td>El 100% de las u.a, con dimensiones requeridas a su categoría.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.3 Equipamientos Cocina en Hoteles - apartamentos</td>
+<td colspan="8">II.3 Equipamientos Cocina en Hoteles - apartamentos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cocina.</td>
-<td class="cuerpo_tabla_coma">HA2</td>
-<td class="cuerpo_tabla_centro">
+<td>Cocina.</td>
+<td>HA2</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Horno.</td>
-<td class="cuerpo_tabla_coma">HA3</td>
-<td class="cuerpo_tabla_centro">
+<td>Horno.</td>
+<td>HA3</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campana extractora.</td>
-<td class="cuerpo_tabla_coma">HA4</td>
-<td class="cuerpo_tabla_centro">
+<td>Campana extractora.</td>
+<td>HA4</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fregadero.</td>
-<td class="cuerpo_tabla_coma">HA5</td>
-<td class="cuerpo_tabla_centro">
+<td>Fregadero.</td>
+<td>HA5</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cafetera y tetera con monodosis de café e infusiones.</td>
-<td class="cuerpo_tabla_coma">HA6</td>
-<td class="cuerpo_tabla_centro">
+<td>Cafetera y tetera con monodosis de café e infusiones.</td>
+<td>HA6</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Microondas.</td>
-<td class="cuerpo_tabla_coma">HA7</td>
-<td class="cuerpo_tabla_centro">
+<td>Microondas.</td>
+<td>HA7</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utensilios de cocina y comedor (vajilla, cubertería, cristalería, etc.).</td>
-<td class="cuerpo_tabla_coma">HA8</td>
-<td class="cuerpo_tabla_centro">
+<td>Utensilios de cocina y comedor (vajilla, cubertería, cristalería, etc.).</td>
+<td>HA8</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Refrigerador.</td>
-<td class="cuerpo_tabla_coma">HA9</td>
-<td class="cuerpo_tabla_centro">
+<td>Refrigerador.</td>
+<td>HA9</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utensilios de limpieza.</td>
-<td class="cuerpo_tabla_coma">HA10</td>
-<td class="cuerpo_tabla_centro">
+<td>Utensilios de limpieza.</td>
+<td>HA10</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pequeños electrodomésticos (batidora, tostadora, exprimidor...).</td>
-<td class="cuerpo_tabla_coma">HA11</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Pequeños electrodomésticos (batidora, tostadora, exprimidor...).</td>
+<td>HA11</td>
+<td>
+<p>
 <strong>2 por ítem</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máximo 14)</p>
+<p>(máximo 14)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavadora.</td>
-<td class="cuerpo_tabla_coma">HAl2</td>
-<td class="cuerpo_tabla_centro">
+<td>Lavadora.</td>
+<td>HAl2</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavavajillas.</td>
-<td class="cuerpo_tabla_coma">HA13</td>
-<td class="cuerpo_tabla_centro">
+<td>Lavavajillas.</td>
+<td>HA13</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.4 Comodidades para dormir</td>
+<td colspan="8">II.4 Comodidades para dormir</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camas individuales de dimensiones mínimas de 0,90 m x 1,90 m y camas dobles de dimensiones mínimas de 1,35x1,90 m.</td>
-<td class="cuerpo_tabla_coma" rowspan="4">106</td>
-<td class="cuerpo_tabla_centro">
+<td>Camas individuales de dimensiones mínimas de 0,90 m x 1,90 m y camas dobles de dimensiones mínimas de 1,35x1,90 m.</td>
+<td rowspan="4">106</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camas individuales de dimensiones mínimas de 1,00 m x1,90 m y camas dobles de dimensiones mínimas de 1,50x1,90 m.</td>
-<td class="cuerpo_tabla_centro">
+<td>Camas individuales de dimensiones mínimas de 1,00 m x1,90 m y camas dobles de dimensiones mínimas de 1,50x1,90 m.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camas individuales de dimensiones mínimas de 1,00 m x2,00 m y camas dobles de dimensiones mínimas de 1,50x2,00 m.</td>
-<td class="cuerpo_tabla_centro">
+<td>Camas individuales de dimensiones mínimas de 1,00 m x2,00 m y camas dobles de dimensiones mínimas de 1,50x2,00 m.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Camas individuales de dimensiones mínimas de 1,00 m x2,00 m y camas dobles de dimensiones mínimas de 2,00x2,00 m.</td>
-<td class="cuerpo_tabla_centro">
+<td>Camas individuales de dimensiones mínimas de 1,00 m x2,00 m y camas dobles de dimensiones mínimas de 2,00x2,00 m.</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10% de las camas con una longitud mínima de 2,10 m.</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_centro">
+<td>10% de las camas con una longitud mínima de 2,10 m.</td>
+<td>107</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colchones bien conservados de un mínimo de 18 cm de grosor.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">108</td>
-<td class="cuerpo_tabla_centro">
+<td>Colchones bien conservados de un mínimo de 18 cm de grosor.</td>
+<td rowspan="2">108</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colchones de grosor mayor o igual a 22 cm.</td>
-<td class="cuerpo_tabla_centro">
+<td>Colchones de grosor mayor o igual a 22 cm.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colchones ergonómicamente ajustables.</td>
-<td class="cuerpo_tabla_coma">109</td>
-<td class="cuerpo_tabla_centro">
+<td>Colchones ergonómicamente ajustables.</td>
+<td>109</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de fundas nórdicas.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de fundas nórdicas.</td>
+<td>110</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábanas y funda para colchones.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">111</td>
-<td class="cuerpo_tabla_centro">
+<td>Sábanas y funda para colchones.</td>
+<td rowspan="2">111</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fundas higiénicas para colchones (lavables con productos termoquímicos, transpirables, libres de ácaros y sus excrementos). No se admite una simple sábana muletón.</td>
-<td class="cuerpo_tabla_centro">
+<td>Fundas higiénicas para colchones (lavables con productos termoquímicos, transpirables, libres de ácaros y sus excrementos). No se admite una simple sábana muletón.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza en profundidad de los colchones con periodicidad anual mediante sistemas no químicos que garanticen la desaparición de ácaros verificable mediante verificación expresa.</td>
-<td class="cuerpo_tabla_coma">112</td>
-<td class="cuerpo_tabla_centro">
+<td>Limpieza en profundidad de los colchones con periodicidad anual mediante sistemas no químicos que garanticen la desaparición de ácaros verificable mediante verificación expresa.</td>
+<td>112</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuna a petición del cliente.</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_centro">
+<td>Cuna a petición del cliente.</td>
+<td>113</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivo despertador en la habitación.</td>
-<td class="cuerpo_tabla_coma">114</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivo despertador en la habitación.</td>
+<td>114</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mantas o nórdicos bien conservados.</td>
-<td class="cuerpo_tabla_coma">115</td>
-<td class="cuerpo_tabla_centro">
+<td>Mantas o nórdicos bien conservados.</td>
+<td>115</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almohadas bien conservadas.</td>
-<td class="cuerpo_tabla_coma">116</td>
-<td class="cuerpo_tabla_centro">
+<td>Almohadas bien conservadas.</td>
+<td>116</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fundas higiénicas para almohadas.</td>
-<td class="cuerpo_tabla_coma">117</td>
-<td class="cuerpo_tabla_centro">
+<td>Fundas higiénicas para almohadas.</td>
+<td>117</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almohada adicional a petición del cliente.</td>
-<td class="cuerpo_tabla_coma">118</td>
-<td class="cuerpo_tabla_centro">
+<td>Almohada adicional a petición del cliente.</td>
+<td>118</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos almohadas por persona.</td>
-<td class="cuerpo_tabla_coma">119</td>
-<td class="cuerpo_tabla_centro">
+<td>Dos almohadas por persona.</td>
+<td>119</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Los clientes pueden elegir entre diferentes tipos de almohadas (carta de almohadas).</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_centro">
+<td>Los clientes pueden elegir entre diferentes tipos de almohadas (carta de almohadas).</td>
+<td>120</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manta adicional a petición del cliente.</td>
-<td class="cuerpo_tabla_coma">121</td>
-<td class="cuerpo_tabla_centro">
+<td>Manta adicional a petición del cliente.</td>
+<td>121</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Posibilidad de oscurecer la habitación.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">122</td>
-<td class="cuerpo_tabla_centro">
+<td>Posibilidad de oscurecer la habitación.</td>
+<td rowspan="2">122</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Posibilidad de oscurecer completamente la habitación.</td>
-<td class="cuerpo_tabla_centro">
+<td>Posibilidad de oscurecer completamente la habitación.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.5 Equipamientos de la unidad de alojamiento</td>
+<td colspan="8">II.5 Equipamientos de la unidad de alojamiento</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Visillo.</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_centro">
+<td>Visillo.</td>
+<td>123</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alfombra.</td>
-<td class="cuerpo_tabla_coma">124</td>
-<td class="cuerpo_tabla_centro">
+<td>Alfombra.</td>
+<td>124</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colgador.</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_centro">
+<td>Colgador.</td>
+<td>125</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galán de noche.</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_centro">
+<td>Galán de noche.</td>
+<td>126</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Armario adecuado o espacio destinado a la ropa.</td>
-<td class="cuerpo_tabla_coma">127</td>
-<td class="cuerpo_tabla_centro">
+<td>Armario adecuado o espacio destinado a la ropa.</td>
+<td>127</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estantería para la ropa.</td>
-<td class="cuerpo_tabla_coma">128</td>
-<td class="cuerpo_tabla_centro">
+<td>Estantería para la ropa.</td>
+<td>128</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Perchas de material y color homogéneo.</td>
-<td class="cuerpo_tabla_coma">129</td>
-<td class="cuerpo_tabla_centro">
+<td>Perchas de material y color homogéneo.</td>
+<td>129</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Control apropiado del ruido exterior a través de las ventanas.</td>
-<td class="cuerpo_tabla_coma">130</td>
-<td class="cuerpo_tabla_centro">
+<td>Control apropiado del ruido exterior a través de las ventanas.</td>
+<td>130</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Puertas que absorban el ruido o puertas dobles.</td>
-<td class="cuerpo_tabla_coma">131</td>
-<td class="cuerpo_tabla_centro">
+<td>Puertas que absorban el ruido o puertas dobles.</td>
+<td>131</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ventiladores de techo o pared.</td>
-<td class="cuerpo_tabla_coma">132</td>
-<td class="cuerpo_tabla_centro">
+<td>Ventiladores de techo o pared.</td>
+<td>132</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calefacción y refrigeración regulables por elementos fijos*.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">133</td>
-<td class="cuerpo_tabla_centro">
+<td>Calefacción y refrigeración regulables por elementos fijos*.</td>
+<td rowspan="2">133</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Climatización en las habitaciones.</td>
-<td class="cuerpo_tabla_centro">
+<td>Climatización en las habitaciones.</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un asiento.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">134</td>
-<td class="cuerpo_tabla_centro">
+<td>Un asiento.</td>
+<td rowspan="2">134</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un asiento por plaza.</td>
-<td class="cuerpo_tabla_centro">
+<td>Un asiento por plaza.</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un asiento confortable (silla o butaca) con una mesa auxiliar.</td>
-<td class="cuerpo_tabla_coma">135</td>
-<td class="cuerpo_tabla_centro">
+<td>Un asiento confortable (silla o butaca) con una mesa auxiliar.</td>
+<td>135</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un asiento confortable extra (silla o butaca tapizada) en las habitaciones dobles o suites.</td>
-<td class="cuerpo_tabla_coma">136</td>
-<td class="cuerpo_tabla_centro">
+<td>Un asiento confortable extra (silla o butaca tapizada) en las habitaciones dobles o suites.</td>
+<td>136</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mesa o escritorio.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">137</td>
-<td class="cuerpo_tabla_centro">
+<td>Mesa o escritorio.</td>
+<td rowspan="2">137</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mesa, escritorio –con tamaño mínimo de trabajo– y luz adecuada.</td>
-<td class="cuerpo_tabla_centro">
+<td>Mesa, escritorio –con tamaño mínimo de trabajo– y luz adecuada.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos enchufes de corriente en la habitación.</td>
-<td class="cuerpo_tabla_coma">138</td>
-<td class="cuerpo_tabla_centro">
+<td>Dos enchufes de corriente en la habitación.</td>
+<td>138</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enchufe adicional cerca de la mesa y escritorio.</td>
-<td class="cuerpo_tabla_coma">139</td>
-<td class="cuerpo_tabla_centro">
+<td>Enchufe adicional cerca de la mesa y escritorio.</td>
+<td>139</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos enchufes de corriente cerca de la cama.</td>
-<td class="cuerpo_tabla_coma">140</td>
-<td class="cuerpo_tabla_centro">
+<td>Dos enchufes de corriente cerca de la cama.</td>
+<td>140</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuada iluminación en la habitación.</td>
-<td class="cuerpo_tabla_coma">141</td>
-<td class="cuerpo_tabla_centro">
+<td>Adecuada iluminación en la habitación.</td>
+<td>141</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mesilla de noche.</td>
-<td class="cuerpo_tabla_coma">142</td>
-<td class="cuerpo_tabla_centro">
+<td>Mesilla de noche.</td>
+<td>142</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Luz de lectura cerca de la cama.</td>
-<td class="cuerpo_tabla_coma">143</td>
-<td class="cuerpo_tabla_centro">
+<td>Luz de lectura cerca de la cama.</td>
+<td>143</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Interruptor para toda la luz de la habitación en la entrada.</td>
-<td class="cuerpo_tabla_coma">144</td>
-<td class="cuerpo_tabla_centro">
+<td>Interruptor para toda la luz de la habitación en la entrada.</td>
+<td>144</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Interruptor de la luz de la habitación cerca de la cama.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">145</td>
-<td class="cuerpo_tabla_centro">
+<td>Interruptor de la luz de la habitación cerca de la cama.</td>
+<td rowspan="2">145</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Interruptor para toda la luz de la habitación cerca de la cama.</td>
-<td class="cuerpo_tabla_centro">
+<td>Interruptor para toda la luz de la habitación cerca de la cama.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espejo de cuerpo entero.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">146</td>
-<td class="cuerpo_tabla_centro">
+<td>Espejo de cuerpo entero.</td>
+<td rowspan="2">146</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espejo adicional de cuerpo entero.</td>
-<td class="cuerpo_tabla_centro">
+<td>Espejo adicional de cuerpo entero.</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lugar destinado al equipaje.</td>
-<td class="cuerpo_tabla_coma">147</td>
-<td class="cuerpo_tabla_centro">
+<td>Lugar destinado al equipaje.</td>
+<td>147</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Papelera.</td>
-<td class="cuerpo_tabla_coma">148</td>
-<td class="cuerpo_tabla_centro">
+<td>Papelera.</td>
+<td>148</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivo de radio (la transmisión de la radio puede realizarse vía TV o por un sistema de telecomunicación central del propio hotel).</td>
-<td class="cuerpo_tabla_coma">149</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivo de radio (la transmisión de la radio puede realizarse vía TV o por un sistema de telecomunicación central del propio hotel).</td>
+<td>149</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reproductor de audio o multimedia.</td>
-<td class="cuerpo_tabla_coma">150</td>
-<td class="cuerpo_tabla_centro">
+<td>Reproductor de audio o multimedia.</td>
+<td>150</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TV en color con mando a distancia.</td>
-<td class="cuerpo_tabla_coma" rowspan="3">151</td>
-<td class="cuerpo_tabla_centro">
+<td>TV en color con mando a distancia.</td>
+<td rowspan="3">151</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TV en color con mando a distancia, con una relación de la configuración de canales y programación nacional e internacional.</td>
-<td class="cuerpo_tabla_centro">
+<td>TV en color con mando a distancia, con una relación de la configuración de canales y programación nacional e internacional.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Smart TV con mando a distancia.</td>
-<td class="cuerpo_tabla_centro">
+<td>Smart TV con mando a distancia.</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Televisión en color adicional en los salones de las suites y suites junior con mando a distancia.</td>
-<td class="cuerpo_tabla_coma">152</td>
-<td class="cuerpo_tabla_centro">
+<td>Televisión en color adicional en los salones de las suites y suites junior con mando a distancia.</td>
+<td>152</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Televisión de pago o videojuegos con la posibilidad de bloqueo para niños con mando a distancia.</td>
-<td class="cuerpo_tabla_coma">153</td>
-<td class="cuerpo_tabla_centro">
+<td>Televisión de pago o videojuegos con la posibilidad de bloqueo para niños con mando a distancia.</td>
+<td>153</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Disponer de adaptadores de enchufes internacionales (a petición del cliente).</td>
-<td class="cuerpo_tabla_coma">154</td>
-<td class="cuerpo_tabla_centro">
+<td>Disponer de adaptadores de enchufes internacionales (a petición del cliente).</td>
+<td>154</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Obras de arte originales en las habitaciones*.</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_centro">
+<td>Obras de arte originales en las habitaciones*.</td>
+<td>155</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teléfono con línea interna y externa, a petición del cliente, en las habitaciones con manual de instrucciones (el cliente debe ser informado cuando hace el cheking).</td>
-<td class="cuerpo_tabla_coma" rowspan="2">156</td>
-<td class="cuerpo_tabla_centro">
+<td>Teléfono con línea interna y externa, a petición del cliente, en las habitaciones con manual de instrucciones (el cliente debe ser informado cuando hace el cheking).</td>
+<td rowspan="2">156</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teléfono en las habitaciones con línea interna y externa y con un manual de instrucciones multilingüe.</td>
-<td class="cuerpo_tabla_centro">
+<td>Teléfono en las habitaciones con línea interna y externa y con un manual de instrucciones multilingüe.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acceso a Internet en la habitación (banda ancha, WiFi,...)*.</td>
-<td class="cuerpo_tabla_coma">157</td>
-<td class="cuerpo_tabla_centro">
+<td>Acceso a Internet en la habitación (banda ancha, WiFi,...)*.</td>
+<td>157</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivo (pc, tablet o similar) con conexión a internet en la habitación, a petición del cliente.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">158</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivo (pc, tablet o similar) con conexión a internet en la habitación, a petición del cliente.</td>
+<td rowspan="2">158</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivo (pc, tablet o similar) con conexión a internet en la habitación.</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivo (pc, tablet o similar) con conexión a internet en la habitación.</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caja fuerte central en la recepción o en un espacio adecuado.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">159</td>
-<td class="cuerpo_tabla_centro">
+<td>Caja fuerte central en la recepción o en un espacio adecuado.</td>
+<td rowspan="2">159</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caja de seguridad /caja fuerte en la habitación.</td>
-<td class="cuerpo_tabla_centro">
+<td>Caja de seguridad /caja fuerte en la habitación.</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.6 Equipamientos y comodidades del baño</td>
+<td colspan="8">II.6 Equipamientos y comodidades del baño</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Al menos el 50% de los baños con luz natural.</td>
-<td class="cuerpo_tabla_coma">160</td>
-<td class="cuerpo_tabla_centro">
+<td>Al menos el 50% de los baños con luz natural.</td>
+<td>160</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">El 100% de los baños tienen ducha o bañera, inodoro y lavabo.</td>
-<td class="cuerpo_tabla_coma">161</td>
-<td class="cuerpo_tabla_centro">
+<td>El 100% de los baños tienen ducha o bañera, inodoro y lavabo.</td>
+<td>161</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ducha con cortina.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">162</td>
-<td class="cuerpo_tabla_centro">
+<td>Ducha con cortina.</td>
+<td rowspan="2">162</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ducha con mampara.</td>
-<td class="cuerpo_tabla_centro">
+<td>Ducha con mampara.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Columna de ducha de hidromasaje, en al menos el 30% de las habitaciones.</td>
-<td class="cuerpo_tabla_coma">165</td>
-<td class="cuerpo_tabla_centro">
+<td>Columna de ducha de hidromasaje, en al menos el 30% de las habitaciones.</td>
+<td>165</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bidé*.</td>
-<td class="cuerpo_tabla_coma">166</td>
-<td class="cuerpo_tabla_centro">
+<td>Bidé*.</td>
+<td>166</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Doble lavabo o único espacio con doble grifería en las unidades de alojamiento dobles, en las junior suites y en las suites.</td>
-<td class="cuerpo_tabla_coma">167</td>
-<td class="cuerpo_tabla_centro">
+<td>Doble lavabo o único espacio con doble grifería en las unidades de alojamiento dobles, en las junior suites y en las suites.</td>
+<td>167</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Equipamiento básico (jabón de mano, gel, champú, 1 toalla de mano por persona, una toalla de baño por persona, suelos antideslizante en duchas y bañeras, alfombra de baño lavable, luz apropiada para el baño, espejo, colgadores de toallas, rollo de papel higiénico adicional, escobilla para el inodoro, enchufe de corriente junto al espejo, estantería, secador y cubo higiénico)*.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">168</td>
-<td class="cuerpo_tabla_centro">
+<td>Equipamiento básico (jabón de mano, gel, champú, 1 toalla de mano por persona, una toalla de baño por persona, suelos antideslizante en duchas y bañeras, alfombra de baño lavable, luz apropiada para el baño, espejo, colgadores de toallas, rollo de papel higiénico adicional, escobilla para el inodoro, enchufe de corriente junto al espejo, estantería, secador y cubo higiénico)*.</td>
+<td rowspan="2">168</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Equipamiento medio (equipamiento básico, toallas/pañuelos faciales, espejo de tocador de aumento y banqueta).</td>
-<td class="cuerpo_tabla_centro">
+<td>Equipamiento medio (equipamiento básico, toallas/pañuelos faciales, espejo de tocador de aumento y banqueta).</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dotación de 2 amenities adicionales.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">169</td>
-<td class="cuerpo_tabla_centro">
+<td>Dotación de 2 amenities adicionales.</td>
+<td rowspan="2">169</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dotación de 4 amenities adicionales.</td>
-<td class="cuerpo_tabla_centro">
+<td>Dotación de 4 amenities adicionales.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toallero con calefacción incluida.</td>
-<td class="cuerpo_tabla_coma">171</td>
-<td class="cuerpo_tabla_centro">
+<td>Toallero con calefacción incluida.</td>
+<td>171</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altavoces en el baño.</td>
-<td class="cuerpo_tabla_coma">172</td>
-<td class="cuerpo_tabla_centro">
+<td>Altavoces en el baño.</td>
+<td>172</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toallas extras.</td>
-<td class="cuerpo_tabla_coma">175</td>
-<td class="cuerpo_tabla_centro">
+<td>Toallas extras.</td>
+<td>175</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Albornoz a petición de la persona usuaria.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">176</td>
-<td class="cuerpo_tabla_centro">
+<td>Albornoz a petición de la persona usuaria.</td>
+<td rowspan="2">176</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Albornoz.</td>
-<td class="cuerpo_tabla_centro">
+<td>Albornoz.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zapatillas a petición de la persona usuaria.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">177</td>
-<td class="cuerpo_tabla_centro">
+<td>Zapatillas a petición de la persona usuaria.</td>
+<td rowspan="2">177</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zapatillas.</td>
-<td class="cuerpo_tabla_centro">
+<td>Zapatillas.</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">II.7 Miscelánea en la u.a.</td>
+<td colspan="8">II.7 Miscelánea en la u.a.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Información del hotel.</td>
-<td class="cuerpo_tabla_coma" rowspan="3">178</td>
-<td class="cuerpo_tabla_centro">
+<td>Información del hotel.</td>
+<td rowspan="3">178</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manual de servicios del hotel bilingüe.</td>
-<td class="cuerpo_tabla_centro">
+<td>Manual de servicios del hotel bilingüe.</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Manual de servicios del hotel multilingue.</td>
-<td class="cuerpo_tabla_centro">
+<td>Manual de servicios del hotel multilingue.</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Revista para los clientes.</td>
-<td class="cuerpo_tabla_coma">179</td>
-<td class="cuerpo_tabla_centro">
+<td>Revista para los clientes.</td>
+<td>179</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prensa diaria (digital o en papel).</td>
-<td class="cuerpo_tabla_coma">180</td>
-<td class="cuerpo_tabla_centro">
+<td>Prensa diaria (digital o en papel).</td>
+<td>180</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utensilios para escribir y bloc de notas.</td>
-<td class="cuerpo_tabla_coma">181</td>
-<td class="cuerpo_tabla_centro">
+<td>Utensilios para escribir y bloc de notas.</td>
+<td>181</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carpeta de correspondencia.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_centro">
+<td>Carpeta de correspondencia.</td>
+<td>182</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plancha y tabla de planchar a petición del cliente.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">183</td>
-<td class="cuerpo_tabla_centro">
+<td>Plancha y tabla de planchar a petición del cliente.</td>
+<td rowspan="2">183</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plancha y tabla de plancha.</td>
-<td class="cuerpo_tabla_centro">
+<td>Plancha y tabla de plancha.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Juego de costura a petición de los clientes.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">184</td>
-<td class="cuerpo_tabla_centro">
+<td>Juego de costura a petición de los clientes.</td>
+<td rowspan="2">184</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Juego de costura.</td>
-<td class="cuerpo_tabla_centro">
+<td>Juego de costura.</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bolsa de lavandería disponible.</td>
-<td class="cuerpo_tabla_coma">185</td>
-<td class="cuerpo_tabla_centro">
+<td>Bolsa de lavandería disponible.</td>
+<td>185</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Calzador.</td>
-<td class="cuerpo_tabla_coma">186</td>
-<td class="cuerpo_tabla_centro">
+<td>Calzador.</td>
+<td>186</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utensilios de limpieza de zapatos a petición del cliente*.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">187</td>
-<td class="cuerpo_tabla_centro">
+<td>Utensilios de limpieza de zapatos a petición del cliente*.</td>
+<td rowspan="2">187</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utensilios de limpieza de zapatos*.</td>
-<td class="cuerpo_tabla_centro">
+<td>Utensilios de limpieza de zapatos*.</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mirilla en la puerta.</td>
-<td class="cuerpo_tabla_coma">188</td>
-<td class="cuerpo_tabla_centro">
+<td>Mirilla en la puerta.</td>
+<td>188</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mecanismos de cierre/cerradura adicional en la puerta de la habitación.</td>
-<td class="cuerpo_tabla_coma">189</td>
-<td class="cuerpo_tabla_centro">
+<td>Mecanismos de cierre/cerradura adicional en la puerta de la habitación.</td>
+<td>189</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerradura con tarjeta electrónica.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">190</td>
-<td class="cuerpo_tabla_centro">
+<td>Cerradura con tarjeta electrónica.</td>
+<td rowspan="2">190</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de apertura con móvil.</td>
-<td class="cuerpo_tabla_centro">
+<td>Sistema de apertura con móvil.</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">III. Restauración</td>
+<td colspan="8">III. Restauración</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">III.1 Bebidas</td>
+<td colspan="8">III.1 Bebidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oferta de bebidas en el establecimiento fuera del horario del comedor/bar o dispensador de bebidas.</td>
-<td class="cuerpo_tabla_coma">191</td>
-<td class="cuerpo_tabla_centro">
+<td>Oferta de bebidas en el establecimiento fuera del horario del comedor/bar o dispensador de bebidas.</td>
+<td>191</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Maxibar en planta.</td>
-<td class="cuerpo_tabla_coma">192</td>
-<td class="cuerpo_tabla_centro">
+<td>Maxibar en planta.</td>
+<td>192</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16 horas de servicio de bebidas para servicio de habitaciones.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">193</td>
-<td class="cuerpo_tabla_centro">
+<td>16 horas de servicio de bebidas para servicio de habitaciones.</td>
+<td rowspan="2">193</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">24 horas de servicios de bebidas para servicio de habitaciones.</td>
-<td class="cuerpo_tabla_centro">
+<td>24 horas de servicios de bebidas para servicio de habitaciones.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Minibar en unidades alojativas con carta de bebidas y snacks a petición de los clientes.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">194</td>
-<td class="cuerpo_tabla_centro">
+<td>Minibar en unidades alojativas con carta de bebidas y snacks a petición de los clientes.</td>
+<td rowspan="2">194</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Minibar en las unidades alojativas.</td>
-<td class="cuerpo_tabla_centro">
+<td>Minibar en las unidades alojativas.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nevera.</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_centro">
+<td>Nevera.</td>
+<td>195</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máquina de café y tetera con monodosis de café e infusiones en la unidad de alojamiento.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">196</td>
-<td class="cuerpo_tabla_centro">
+<td>Máquina de café y tetera con monodosis de café e infusiones en la unidad de alojamiento.</td>
+<td rowspan="2">196</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hervidor de agua o tetera con monodosis de café soluble e Infusiones en la unidad de alojamiento.</td>
-<td class="cuerpo_tabla_centro">
+<td>Hervidor de agua o tetera con monodosis de café soluble e Infusiones en la unidad de alojamiento.</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">III.2 Desayuno*</td>
+<td colspan="8">III.2 Desayuno*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desayuno continental (bebida caliente, bollería, pan, aceite/mantequilla/margarina, embutidos y mermeladas, zumos).</td>
-<td class="cuerpo_tabla_coma" rowspan="3">197</td>
-<td class="cuerpo_tabla_centro">
+<td>Desayuno continental (bebida caliente, bollería, pan, aceite/mantequilla/margarina, embutidos y mermeladas, zumos).</td>
+<td rowspan="3">197</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desayuno bufé completo (desayuno continental incluyendo además zumos variados de frutas, cereales, huevo, fruta o macedonia, bollería variada, yogures, selección de panes, quesos y fiambres).</td>
-<td class="cuerpo_tabla_centro">
+<td>Desayuno bufé completo (desayuno continental incluyendo además zumos variados de frutas, cereales, huevo, fruta o macedonia, bollería variada, yogures, selección de panes, quesos y fiambres).</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desayuno a la carta (desayuno bufé completo incluyendo además bufé de platos calientes, cocina en directo o servicios de platos calientes a la carta).</td>
-<td class="cuerpo_tabla_centro">
+<td>Desayuno a la carta (desayuno bufé completo incluyendo además bufé de platos calientes, cocina en directo o servicios de platos calientes a la carta).</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menú de desayuno a la carta equivalente para el servicio de habitaciones.</td>
-<td class="cuerpo_tabla_coma">198</td>
-<td class="cuerpo_tabla_centro">
+<td>Menú de desayuno a la carta equivalente para el servicio de habitaciones.</td>
+<td>198</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tiempo de desayuno de más dos horas y media.</td>
-<td class="cuerpo_tabla_coma">199</td>
-<td class="cuerpo_tabla_centro">
+<td>Tiempo de desayuno de más dos horas y media.</td>
+<td>199</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desayuno fuera del horario habitual.</td>
-<td class="cuerpo_tabla_coma">200</td>
-<td class="cuerpo_tabla_centro">
+<td>Desayuno fuera del horario habitual.</td>
+<td>200</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">III.3 Comidas/Restauración*</td>
+<td colspan="8">III.3 Comidas/Restauración*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oferta de comidas en el hotel (servicio mínimo de almuerzo o cena).</td>
-<td class="cuerpo_tabla_coma">201</td>
-<td class="cuerpo_tabla_centro">
+<td>Oferta de comidas en el hotel (servicio mínimo de almuerzo o cena).</td>
+<td>201</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Horario de comida dos horas como mínimo.</td>
-<td class="cuerpo_tabla_coma">202</td>
-<td class="cuerpo_tabla_centro">
+<td>Horario de comida dos horas como mínimo.</td>
+<td>202</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Horario de cena de dos horas y media como mínimo.</td>
-<td class="cuerpo_tabla_coma">203</td>
-<td class="cuerpo_tabla_centro">
+<td>Horario de cena de dos horas y media como mínimo.</td>
+<td>203</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Almuerzo/Cena fría para llegadas tardías al establecimiento.</td>
-<td class="cuerpo_tabla_coma">204</td>
-<td class="cuerpo_tabla_centro">
+<td>Almuerzo/Cena fría para llegadas tardías al establecimiento.</td>
+<td>204</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oferta de comida para servicio de habitaciones de 14 horas.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">205</td>
-<td class="cuerpo_tabla_centro">
+<td>Oferta de comida para servicio de habitaciones de 14 horas.</td>
+<td rowspan="2">205</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oferta de comida para el servicio de habitaciones las 24 horas.</td>
-<td class="cuerpo_tabla_centro">
+<td>Oferta de comida para el servicio de habitaciones las 24 horas.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Restaurantes a la carta o tipo bufé abiertos 5 días por semana (cada restaurante diferente en el concepto, en la elección de comida y en la ubicación).</td>
-<td class="cuerpo_tabla_coma" rowspan="3">206</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Restaurantes a la carta o tipo bufé abiertos 5 días por semana (cada restaurante diferente en el concepto, en la elección de comida y en la ubicación).</td>
+<td rowspan="3">206</td>
+<td>
+<p>
 <strong>5 por ud.</strong>
 </p>
-<p class="cuerpo_tabla_centro">(max. 10)</p>
+<p>(max. 10)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Restaurantes a la carta o tipo bufé abiertos 6 días por semana (cada restaurante diferente en el concepto, en la elección de comida y en la ubicación).</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Restaurantes a la carta o tipo bufé abiertos 6 días por semana (cada restaurante diferente en el concepto, en la elección de comida y en la ubicación).</td>
+<td>
+<p>
 <strong>8 por ud.</strong>
 </p>
-<p class="cuerpo_tabla_centro">(max. 16)</p>
+<p>(max. 16)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">M</p>
-<p class="cuerpo_tabla_centro">(mín. 1)</p>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>M</p>
+<p>(mín. 1)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Restaurantes a la carta o tipo bufé abiertos 7 días por semana <em>(cada restaurante diferente en el concepto, en la elección de comida y en la ubicación).</em></td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Restaurantes a la carta o tipo bufé abiertos 7 días por semana <em>(cada restaurante diferente en el concepto, en la elección de comida y en la ubicación).</em></td>
+<td>
+<p>
 <strong>10 por ud.</strong>
 </p>
-<p class="cuerpo_tabla_centro">(max. 20)</p>
+<p>(max. 20)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">M</p>
-<p class="cuerpo_tabla_centro">(mín. 1)</p>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>M</p>
+<p>(mín. 1)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comedor con terraza exterior para desayunos y cenas.</td>
-<td class="cuerpo_tabla_coma">207</td>
-<td class="cuerpo_tabla_centro">
+<td>Comedor con terraza exterior para desayunos y cenas.</td>
+<td>207</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de snack.</td>
-<td class="cuerpo_tabla_coma">208</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio de snack.</td>
+<td>208</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menús especiales bajo petición (menú infantil, celiacos, alérgicos, diabéticos, etc.).</td>
-<td class="cuerpo_tabla_coma">209</td>
-<td class="cuerpo_tabla_centro">
+<td>Menús especiales bajo petición (menú infantil, celiacos, alérgicos, diabéticos, etc.).</td>
+<td>209</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cocina de productos regionales.</td>
-<td class="cuerpo_tabla_coma">210</td>
-<td class="cuerpo_tabla_centro">
+<td>Cocina de productos regionales.</td>
+<td>210</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tronas en restaurante/comedor bajo petición.</td>
-<td class="cuerpo_tabla_coma">211</td>
-<td class="cuerpo_tabla_centro">
+<td>Tronas en restaurante/comedor bajo petición.</td>
+<td>211</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carta o información del bufé en más de un idioma.</td>
-<td class="cuerpo_tabla_coma">212</td>
-<td class="cuerpo_tabla_centro">
+<td>Carta o información del bufé en más de un idioma.</td>
+<td>212</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carta o información del bufé en braille.</td>
-<td class="cuerpo_tabla_coma">213</td>
-<td class="cuerpo_tabla_centro">
+<td>Carta o información del bufé en braille.</td>
+<td>213</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">IV. Oferta complementaria (ocio y otras actividades)</td>
+<td colspan="8">IV. Oferta complementaria (ocio y otras actividades)</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">IV.1 Deporte</td>
+<td colspan="8">IV.1 Deporte</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gimnasio con al menos cuatro tipos de máquinas de ejercicio diferentes.</td>
-<td class="cuerpo_tabla_coma">214</td>
-<td class="cuerpo_tabla_centro">
+<td>Gimnasio con al menos cuatro tipos de máquinas de ejercicio diferentes.</td>
+<td>214</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Actividades deportivas integradas en el establecimiento (con personal instructor).</td>
-<td class="cuerpo_tabla_coma">215</td>
-<td class="cuerpo_tabla_centro">
+<td>Actividades deportivas integradas en el establecimiento (con personal instructor).</td>
+<td>215</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instalaciones deportivas propias adecuadas para la práctica, interior o exterior (tenis, squash, padel, fútbol-sala, baloncesto, etc.). Las pistas polideportivas equivalen a 1 instalación.</td>
-<td class="cuerpo_tabla_coma">216</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Instalaciones deportivas propias adecuadas para la práctica, interior o exterior (tenis, squash, padel, fútbol-sala, baloncesto, etc.). Las pistas polideportivas equivalen a 1 instalación.</td>
+<td>216</td>
+<td>
+<p>
 <strong>2 por ítem</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máxim. 10)</p>
+<p>(máxim. 10)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Campo de Golf en el recinto propio del establecimiento.</td>
-<td class="cuerpo_tabla_coma">217</td>
-<td class="cuerpo_tabla_centro">
+<td>Campo de Golf en el recinto propio del establecimiento.</td>
+<td>217</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Facilitar el material para la práctica de los deportes incluidos en los criterios anteriores.</td>
-<td class="cuerpo_tabla_coma">218</td>
-<td class="cuerpo_tabla_centro">
+<td>Facilitar el material para la práctica de los deportes incluidos en los criterios anteriores.</td>
+<td>218</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alquiler de equipamiento deportivo (por ejemplo, skis, barcos, bicicletas, etc.).</td>
-<td class="cuerpo_tabla_coma">219</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Alquiler de equipamiento deportivo (por ejemplo, skis, barcos, bicicletas, etc.).</td>
+<td>219</td>
+<td>
+<p>
 <strong>2 por ítem</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máxim. 10)</p>
+<p>(máxim. 10)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Deportes náuticos: vela, surf, windsurf, buceo, etc.</td>
-<td class="cuerpo_tabla_coma">220</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Deportes náuticos: vela, surf, windsurf, buceo, etc.</td>
+<td>220</td>
+<td>
+<p>
 <strong>2 por ítem</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máxim. 10)</p>
+<p>(máxim. 10)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">IV.2 Salud-Belleza</td>
+<td colspan="8">IV.2 Salud-Belleza</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recepción atendida personalmente.</td>
-<td class="cuerpo_tabla_coma">221</td>
-<td class="cuerpo_tabla_centro">
+<td>Recepción atendida personalmente.</td>
+<td>221</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio bebidas en el balneario (spa).</td>
-<td class="cuerpo_tabla_coma">222</td>
-<td class="cuerpo_tabla_centro">
+<td>Servicio bebidas en el balneario (spa).</td>
+<td>222</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Venta de productos de cosmética o de peluquería.</td>
-<td class="cuerpo_tabla_coma">223</td>
-<td class="cuerpo_tabla_centro">
+<td>Venta de productos de cosmética o de peluquería.</td>
+<td>223</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabinas para masajes/tratamientos (tienen que tener un tamaño mínimo de 10m2).</td>
-<td class="cuerpo_tabla_coma">224</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Cabinas para masajes/tratamientos (tienen que tener un tamaño mínimo de 10m2).</td>
+<td>224</td>
+<td>
+<p>
 <strong>2 por ud</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máx.6)</p>
+<p>(máx.6)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Habitación de relajación separada (tiene que tener un tamaño mínimo de 20 m2).</td>
-<td class="cuerpo_tabla_coma">225</td>
-<td class="cuerpo_tabla_centro">
+<td>Habitación de relajación separada (tiene que tener un tamaño mínimo de 20 m2).</td>
+<td>225</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sauna con un mínimo de seis plazas.</td>
-<td class="cuerpo_tabla_coma">226</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Sauna con un mínimo de seis plazas.</td>
+<td>226</td>
+<td>
+<p>
 <strong>5 por tipo de sauna </strong>
 </p>
-<p class="cuerpo_tabla_centro">(máx. 10)</p>
+<p>(máx. 10)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jacuzzi/Hidromasaje.</td>
-<td class="cuerpo_tabla_coma">227</td>
-<td class="cuerpo_tabla_centro">
+<td>Jacuzzi/Hidromasaje.</td>
+<td>227</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estancia de belleza con un mínimo de 4 tratamientos (facial, manicura, pedicura, masaje anti stress, etc.).</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_centro">
+<td>Estancia de belleza con un mínimo de 4 tratamientos (facial, manicura, pedicura, masaje anti stress, etc.).</td>
+<td>228</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SPA con al menos 4 tipos diferentes de tratamiento (masajes, baños, hidroterapia, hamman, moor/barro, ducha aceites esenciales, baño de vapor, agua mineromedicinal, etc.).</td>
-<td class="cuerpo_tabla_coma">229</td>
-<td class="cuerpo_tabla_centro">
+<td>SPA con al menos 4 tipos diferentes de tratamiento (masajes, baños, hidroterapia, hamman, moor/barro, ducha aceites esenciales, baño de vapor, agua mineromedicinal, etc.).</td>
+<td>229</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gruta de hielo para aplicaciones locales después de la sauna.</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_centro">
+<td>Gruta de hielo para aplicaciones locales después de la sauna.</td>
+<td>230</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hamacas en la zona de baños del spa.</td>
-<td class="cuerpo_tabla_coma">231</td>
-<td class="cuerpo_tabla_centro">
+<td>Hamacas en la zona de baños del spa.</td>
+<td>231</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Piscina interior climatizada.</td>
-<td class="cuerpo_tabla_coma">232</td>
-<td class="cuerpo_tabla_centro">
+<td>Piscina interior climatizada.</td>
+<td>232</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Solárium.</td>
-<td class="cuerpo_tabla_coma">233</td>
-<td class="cuerpo_tabla_centro">
+<td>Solárium.</td>
+<td>233</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hilo musical con música de relajación.</td>
-<td class="cuerpo_tabla_coma">234</td>
-<td class="cuerpo_tabla_centro">
+<td>Hilo musical con música de relajación.</td>
+<td>234</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">IV.3 Niños</td>
+<td colspan="8">IV.3 Niños</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Área Infantil (zona de juegos infantiles).</td>
-<td class="cuerpo_tabla_coma">235</td>
-<td class="cuerpo_tabla_centro">
+<td>Área Infantil (zona de juegos infantiles).</td>
+<td>235</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instalaciones Miniclub.</td>
-<td class="cuerpo_tabla_coma">236</td>
-<td class="cuerpo_tabla_centro">
+<td>Instalaciones Miniclub.</td>
+<td>236</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Piscina infantil (vaso independiente).</td>
-<td class="cuerpo_tabla_coma">237</td>
-<td class="cuerpo_tabla_centro">
+<td>Piscina infantil (vaso independiente).</td>
+<td>237</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistente/cuidador para los niños a petición del cliente.</td>
-<td class="cuerpo_tabla_coma">238</td>
-<td class="cuerpo_tabla_centro">
+<td>Asistente/cuidador para los niños a petición del cliente.</td>
+<td>238</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuidado de los niños dentro del establecimiento (para niños de hasta 3 años), como mínimo 3 horas al día, por personal especializado.</td>
-<td class="cuerpo_tabla_coma">239</td>
-<td class="cuerpo_tabla_centro">
+<td>Cuidado de los niños dentro del establecimiento (para niños de hasta 3 años), como mínimo 3 horas al día, por personal especializado.</td>
+<td>239</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuidado de los niños por personal especializado dentro del establecimiento (para niños de más de 3 años), como mínimo 3 horas al día.</td>
-<td class="cuerpo_tabla_coma">240</td>
-<td class="cuerpo_tabla_centro">
+<td>Cuidado de los niños por personal especializado dentro del establecimiento (para niños de más de 3 años), como mínimo 3 horas al día.</td>
+<td>240</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Programa de animación infantil.</td>
-<td class="cuerpo_tabla_coma">241</td>
-<td class="cuerpo_tabla_centro">
+<td>Programa de animación infantil.</td>
+<td>241</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">IV.4 Otra oferta</td>
+<td colspan="8">IV.4 Otra oferta</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Peluquería.</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_centro">
+<td>Peluquería.</td>
+<td>242</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tiendas.</td>
-<td class="cuerpo_tabla_coma">243</td>
-<td class="cuerpo_tabla_centro">
+<td>Tiendas.</td>
+<td>243</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Venta de 3 Productos de Andalucía.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">244</td>
-<td class="cuerpo_tabla_centro">
+<td>Venta de 3 Productos de Andalucía.</td>
+<td rowspan="2">244</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Venta de más de 3 Productos de Andalucía.</td>
-<td class="cuerpo_tabla_centro">
+<td>Venta de más de 3 Productos de Andalucía.</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Piscina exterior climatizada.</td>
-<td class="cuerpo_tabla_coma">245</td>
-<td class="cuerpo_tabla_centro">
+<td>Piscina exterior climatizada.</td>
+<td>245</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Piscina exterior.</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_centro">
+<td>Piscina exterior.</td>
+<td>246</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Piscina exterior infinita.</td>
-<td class="cuerpo_tabla_coma">247</td>
-<td class="cuerpo_tabla_centro">
+<td>Piscina exterior infinita.</td>
+<td>247</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de hamacas para entre el 25% y 50% de las plazas con mesita al lado.</td>
-<td class="cuerpo_tabla_coma" rowspan="2">248</td>
-<td class="cuerpo_tabla_centro">
+<td>Número de hamacas para entre el 25% y 50% de las plazas con mesita al lado.</td>
+<td rowspan="2">248</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de hamacas para más del 50% de las plazas con mesita al lado.</td>
-<td class="cuerpo_tabla_centro">
+<td>Número de hamacas para más del 50% de las plazas con mesita al lado.</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toalla para la piscina/playa.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_centro">
+<td>Toalla para la piscina/playa.</td>
+<td>249</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Programa de animación y bienvenida.</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_centro">
+<td>Programa de animación y bienvenida.</td>
+<td>250</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">V. Servicios de reuniones y eventos*</td>
+<td colspan="8">V. Servicios de reuniones y eventos*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de Conferencias de 36 m2 a 100 m2 como mínimo y con altura del techo de un mínimo de 2,50 m.</td>
-<td class="cuerpo_tabla_coma" rowspan="4">251</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de Conferencias de 36 m2 a 100 m2 como mínimo y con altura del techo de un mínimo de 2,50 m.</td>
+<td rowspan="4">251</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de Conferencias mayor de 100 m2 con altura del techo de un mínimo de 2,75 m.</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de Conferencias mayor de 100 m2 con altura del techo de un mínimo de 2,75 m.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de Conferencias mayor de 250 m2 con altura del techo de un mínimo de 3,50 m.</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de Conferencias mayor de 250 m2 con altura del techo de un mínimo de 3,50 m.</td>
+<td>
 <strong>15</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de Conferencias mayor de 500 m2 con altura del techo de un mínimo de 3,50 m.</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de Conferencias mayor de 500 m2 con altura del techo de un mínimo de 3,50 m.</td>
+<td>
 <strong>20</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de Juntas.</td>
-<td class="cuerpo_tabla_coma">252</td>
-<td class="cuerpo_tabla_centro">
+<td>Sala de Juntas.</td>
+<td>252</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sala de grupos de trabajo, como complemento de una sala de conferencias.</td>
-<td class="cuerpo_tabla_coma">253</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>Sala de grupos de trabajo, como complemento de una sala de conferencias.</td>
+<td>253</td>
+<td>
+<p>
 <strong>2 por sala</strong>
 </p>
-<p class="cuerpo_tabla_centro">(máx.4)</p>
+<p>(máx.4)</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VI. Calidad y TIC (actividades en línea)</td>
+<td colspan="8">VI. Calidad y TIC (actividades en línea)</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VI.1 Sistemas de calidad</td>
+<td colspan="8">VI.1 Sistemas de calidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de gestión de quejas. Incluye el ciclo de aceptación, evaluación y respuesta de la queja.</td>
-<td class="cuerpo_tabla_coma">254</td>
-<td class="cuerpo_tabla_centro">
+<td>Sistema de gestión de quejas. Incluye el ciclo de aceptación, evaluación y respuesta de la queja.</td>
+<td>254</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuestionario de satisfacción de los clientes. Incluye, por parte del establecimiento, los cuestionarios de satisfacción, evaluación de los resultados, programas de mejora y seguimiento y la publicación de resultados en web propia.</td>
-<td class="cuerpo_tabla_coma">255</td>
-<td class="cuerpo_tabla_centro">
+<td>Cuestionario de satisfacción de los clientes. Incluye, por parte del establecimiento, los cuestionarios de satisfacción, evaluación de los resultados, programas de mejora y seguimiento y la publicación de resultados en web propia.</td>
+<td>255</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adhesión al sistema electrónico de quejas y reclamaciones de la Junta de Andalucía.</td>
-<td class="cuerpo_tabla_coma">256</td>
-<td class="cuerpo_tabla_centro">
+<td>Adhesión al sistema electrónico de quejas y reclamaciones de la Junta de Andalucía.</td>
+<td>256</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mistery guest («cliente misterioso»): realizada con una periodicidad mínima anual por profesionales externos con la iniciativa y a cargo del hotel, analizado y documentado. O bien, controles internos (de incógnito) como por ejemplo, controles de la cadena de hotel o de cooperadores.</td>
-<td class="cuerpo_tabla_coma">257</td>
-<td class="cuerpo_tabla_centro">
+<td>Mistery guest («cliente misterioso»): realizada con una periodicidad mínima anual por profesionales externos con la iniciativa y a cargo del hotel, analizado y documentado. O bien, controles internos (de incógnito) como por ejemplo, controles de la cadena de hotel o de cooperadores.</td>
+<td>257</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de Sistema de gestión de calidad de acuerdo con el SICTED.</td>
-<td class="cuerpo_tabla_coma">258</td>
-<td class="cuerpo_tabla_centro">
+<td>Certificado de Sistema de gestión de calidad de acuerdo con el SICTED.</td>
+<td>258</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de Sistema de gestión de calidad ISO 9001.</td>
-<td class="cuerpo_tabla_coma">259</td>
-<td class="cuerpo_tabla_centro">
+<td>Certificado de Sistema de gestión de calidad ISO 9001.</td>
+<td>259</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de Sistema de gestión de calidad UNE 182001 ("Q").</td>
-<td class="cuerpo_tabla_coma">260</td>
-<td class="cuerpo_tabla_centro">
+<td>Certificado de Sistema de gestión de calidad UNE 182001 ("Q").</td>
+<td>260</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de Sistemas de gestión ambiental (ISO 14001 o EMAS).</td>
-<td class="cuerpo_tabla_coma">261</td>
-<td class="cuerpo_tabla_centro">
+<td>Certificado de Sistemas de gestión ambiental (ISO 14001 o EMAS).</td>
+<td>261</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de Sistema de Responsabilidad Social ISO 26000.</td>
-<td class="cuerpo_tabla_coma">262</td>
-<td class="cuerpo_tabla_centro">
+<td>Certificado de Sistema de Responsabilidad Social ISO 26000.</td>
+<td>262</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Certificado de Accesibilidad Universal UNE 17001.</td>
-<td class="cuerpo_tabla_coma">263</td>
-<td class="cuerpo_tabla_centro">
+<td>Certificado de Accesibilidad Universal UNE 17001.</td>
+<td>263</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sello o certificado en materia de seguridad y protección de la salud.</td>
-<td class="cuerpo_tabla_coma">264</td>
-<td class="cuerpo_tabla_centro">
+<td>Sello o certificado en materia de seguridad y protección de la salud.</td>
+<td>264</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VI.2 TIC (actividades en línea)</td>
+<td colspan="8">VI.2 TIC (actividades en línea)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Página web propia con fotografías del establecimiento realistas y significativas (como mínimo, vistas exteriores, de las áreas públicas y de las habitaciones) Los establecimientos de 3, 4 y 5 estrellas debe estar en al menos en dos idiomas.</td>
-<td class="cuerpo_tabla_coma">265</td>
-<td class="cuerpo_tabla_centro">
+<td>Página web propia con fotografías del establecimiento realistas y significativas (como mínimo, vistas exteriores, de las áreas públicas y de las habitaciones) Los establecimientos de 3, 4 y 5 estrellas debe estar en al menos en dos idiomas.</td>
+<td>265</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Posibilidad de reservas en línea a través de un sistema de reservas electrónicas propio. Más allá de un simple correo electrónico con canal de comunicación para peticiones o consultas de clientes.</td>
-<td class="cuerpo_tabla_coma">266</td>
-<td class="cuerpo_tabla_centro">
+<td>Posibilidad de reservas en línea a través de un sistema de reservas electrónicas propio. Más allá de un simple correo electrónico con canal de comunicación para peticiones o consultas de clientes.</td>
+<td>266</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Web accesible.</td>
-<td class="cuerpo_tabla_coma">267</td>
-<td class="cuerpo_tabla_centro">
+<td>Web accesible.</td>
+<td>267</td>
+<td>
 <strong>8</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistente virtual en las u.a./app.</td>
-<td class="cuerpo_tabla_coma">268</td>
-<td class="cuerpo_tabla_centro">
+<td>Asistente virtual en las u.a./app.</td>
+<td>268</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Invitación en soporte telemático a los clientes que se marchan o se han marchado a dejar un comentario en un portal o en la página web.</td>
-<td class="cuerpo_tabla_coma">269</td>
-<td class="cuerpo_tabla_centro">
+<td>Invitación en soporte telemático a los clientes que se marchan o se han marchado a dejar un comentario en un portal o en la página web.</td>
+<td>269</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plano de situación o coordenadas de geolocalización, a petición del cliente o por Internet.</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_centro">
+<td>Plano de situación o coordenadas de geolocalización, a petición del cliente o por Internet.</td>
+<td>270</td>
+<td>
 <strong>1</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VII. Medidas Medioambientales, de Eficiencia Energética y Economía Circular*</td>
+<td colspan="8">VII. Medidas Medioambientales, de Eficiencia Energética y Economía Circular*</td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VII.1 Eficiencia energética y energías renovables</td>
+<td colspan="8">VII.1 Eficiencia energética y energías renovables</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos de detección de presencia que activen y desactiven automáticamente las luminarias en las zonas de paso.</td>
-<td class="cuerpo_tabla_coma">271</td>
-<td class="cuerpo_tabla_centro">
+<td>Elementos de detección de presencia que activen y desactiven automáticamente las luminarias en las zonas de paso.</td>
+<td>271</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de cese automático del suministro eléctrico al salir de las habitaciones.</td>
-<td class="cuerpo_tabla_coma">272</td>
-<td class="cuerpo_tabla_centro">
+<td>Sistema de cese automático del suministro eléctrico al salir de las habitaciones.</td>
+<td>272</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de conexión y desconexión basados en la detección del grado de iluminación natural en los jardines exteriores.</td>
-<td class="cuerpo_tabla_coma">273</td>
-<td class="cuerpo_tabla_centro">
+<td>Sistema de conexión y desconexión basados en la detección del grado de iluminación natural en los jardines exteriores.</td>
+<td>273</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Luminarias tipo LED exterior en las zonas de iluminación nocturna permanente.</td>
-<td class="cuerpo_tabla_coma">274</td>
-<td class="cuerpo_tabla_centro">
+<td>Luminarias tipo LED exterior en las zonas de iluminación nocturna permanente.</td>
+<td>274</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lámparas o luminarias de máxima potencia lumínica y mínimo de consumo de energía eléctrica en el interior del edificio.</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_centro">
+<td>Lámparas o luminarias de máxima potencia lumínica y mínimo de consumo de energía eléctrica en el interior del edificio.</td>
+<td>275</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utilización de energía solar para el alumbrado exterior con luminarias fotovoltaicas y autónomas.</td>
-<td class="cuerpo_tabla_coma">276</td>
-<td class="cuerpo_tabla_centro">
+<td>Utilización de energía solar para el alumbrado exterior con luminarias fotovoltaicas y autónomas.</td>
+<td>276</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utilización de energía solar para generación de agua caliente sanitaria.</td>
-<td class="cuerpo_tabla_coma">277</td>
-<td class="cuerpo_tabla_centro">
+<td>Utilización de energía solar para generación de agua caliente sanitaria.</td>
+<td>277</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utilización de otras energías renovables/alternativas distintas a la solar.</td>
-<td class="cuerpo_tabla_coma">278</td>
-<td class="cuerpo_tabla_centro">
+<td>Utilización de otras energías renovables/alternativas distintas a la solar.</td>
+<td>278</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Utilización de combustibles líquidos y gaseosos con preferencia a la energía eléctrica, dando prioridad al gas natural y eliminando los aparatos que funcionen con fueloil.</td>
-<td class="cuerpo_tabla_coma">278</td>
-<td class="cuerpo_tabla_centro">
+<td>Utilización de combustibles líquidos y gaseosos con preferencia a la energía eléctrica, dando prioridad al gas natural y eliminando los aparatos que funcionen con fueloil.</td>
+<td>278</td>
+<td>
 <strong>2</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivos de desconexión de la climatización en caso de apertura de puertas y ventanas enla u.a.</td>
-<td class="cuerpo_tabla_coma">280</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivos de desconexión de la climatización en caso de apertura de puertas y ventanas enla u.a.</td>
+<td>280</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Termostatos en todas las dependencias, zonas comunes y u.a, siempre que se disponga de climatización.</td>
-<td class="cuerpo_tabla_coma">281</td>
-<td class="cuerpo_tabla_centro">
+<td>Termostatos en todas las dependencias, zonas comunes y u.a, siempre que se disponga de climatización.</td>
+<td>281</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VII.2 Agua</td>
+<td colspan="8">VII.2 Agua</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivos de ahorro de agua en los grifos de lavabos, bañeras y duchas (grifos monomando, difusores, limitadores de presión y caudal, etc) en todo el establecimiento.</td>
-<td class="cuerpo_tabla_coma">282</td>
-<td class="cuerpo_tabla_centro">
+<td>Dispositivos de ahorro de agua en los grifos de lavabos, bañeras y duchas (grifos monomando, difusores, limitadores de presión y caudal, etc) en todo el establecimiento.</td>
+<td>282</td>
+<td>
 <strong>5</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Doble pulsador o pulsador con interrupción de la descarga de la cisterna en los inodoros en todo el establecimiento.</td>
-<td class="cuerpo_tabla_coma">283</td>
-<td class="cuerpo_tabla_centro">
+<td>Doble pulsador o pulsador con interrupción de la descarga de la cisterna en los inodoros en todo el establecimiento.</td>
+<td>283</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Grifos de la cocina con cierre electrónico para el lavado de utensilios.</td>
-<td class="cuerpo_tabla_coma">284</td>
-<td class="cuerpo_tabla_centro">
+<td>Grifos de la cocina con cierre electrónico para el lavado de utensilios.</td>
+<td>284</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aprovechamiento de las aguas regeneradas/pluviales, previamente tratadas y almacenadas para llenar cisternas de los inodoros.</td>
-<td class="cuerpo_tabla_coma">285</td>
-<td class="cuerpo_tabla_centro">
+<td>Aprovechamiento de las aguas regeneradas/pluviales, previamente tratadas y almacenadas para llenar cisternas de los inodoros.</td>
+<td>285</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VII.3 Jardines exteriores</td>
+<td colspan="8">VII.3 Jardines exteriores</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Especies autóctonas o mediterráneas y de bajo consumo hídrico en el jardín.</td>
-<td class="cuerpo_tabla_coma">286</td>
-<td class="cuerpo_tabla_centro">
+<td>Especies autóctonas o mediterráneas y de bajo consumo hídrico en el jardín.</td>
+<td>286</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Riego del jardín por la noche con sistema de goteo subterráneo y programación de aspersores.</td>
-<td class="cuerpo_tabla_coma">287</td>
-<td class="cuerpo_tabla_centro">
+<td>Riego del jardín por la noche con sistema de goteo subterráneo y programación de aspersores.</td>
+<td>287</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VII.4 Residuos</td>
+<td colspan="8">VII.4 Residuos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recogida selectiva de residuos generados por la actividad del establecimiento.</td>
-<td class="cuerpo_tabla_coma">288</td>
-<td class="cuerpo_tabla_centro">
+<td>Recogida selectiva de residuos generados por la actividad del establecimiento.</td>
+<td>288</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reutilización de los residuos en el propio establecimiento y/o compostaje.</td>
-<td class="cuerpo_tabla_coma">289</td>
-<td class="cuerpo_tabla_centro">
+<td>Reutilización de los residuos en el propio establecimiento y/o compostaje.</td>
+<td>289</td>
+<td>
 <strong>7</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Facilitación de la clasificación de residuos a los clientes, incluido pilas.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_centro">
+<td>Facilitación de la clasificación de residuos a los clientes, incluido pilas.</td>
+<td>300</td>
+<td>
 <strong>4</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="sombra" colspan="8">VII.5 Descarbonización</td>
+<td colspan="8">VII.5 Descarbonización</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Iniciada metodología para la medición de la Huella de Carbono.</td>
-<td class="cuerpo_tabla_coma" rowspan="3">301</td>
-<td class="cuerpo_tabla_centro">
+<td>Iniciada metodología para la medición de la Huella de Carbono.</td>
+<td rowspan="3">301</td>
+<td>
 <strong>3</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inscrito en el Sistema Andaluz de Compensación de Emisiones u otro equivalente con el alcance 1+2.</td>
-<td class="cuerpo_tabla_centro">
+<td>Inscrito en el Sistema Andaluz de Compensación de Emisiones u otro equivalente con el alcance 1+2.</td>
+<td>
 <strong>6</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Inscrito en el Sistema Andaluz de Compensación de Emisiones u otro equivalente con el alcance 1+2+3.</td>
-<td class="cuerpo_tabla_centro">
+<td>Inscrito en el Sistema Andaluz de Compensación de Emisiones u otro equivalente con el alcance 1+2+3.</td>
+<td>
 <strong>10</strong>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="8">
-<p class="cita">NP: No puntúa.</p>
-<p class="cita">M: Criterio mínimo y obligatorio para clasificarse en esa categoría.</p>
-<p class="cita">HA: Criterios aplicables sólo a los Hoteles-Apartamentos.</p>
+<p>NP: No puntúa.</p>
+<p>M: Criterio mínimo y obligatorio para clasificarse en esa categoría.</p>
+<p>HA: Criterios aplicables sólo a los Hoteles-Apartamentos.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>Puntuación mínima para alcanzar la categoría</th>
@@ -7452,34 +7402,34 @@ Camas supletorias
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Hoteles.</strong>
 </td>
-<td class="cuerpo_tabla_centro">180</td>
-<td class="cuerpo_tabla_centro">250</td>
-<td class="cuerpo_tabla_centro">350</td>
-<td class="cuerpo_tabla_centro">500</td>
-<td class="cuerpo_tabla_centro">650</td>
+<td>180</td>
+<td>250</td>
+<td>350</td>
+<td>500</td>
+<td>650</td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Hoteles-Apartamentos.</strong>
 </p>
-<p class="cuerpo_tabla_izq">(Incremento adicional criterios apartado 11.2 y 11.3).</p>
+<p>(Incremento adicional criterios apartado 11.2 y 11.3).</p>
 </td>
-<td class="cuerpo_tabla_centro">202</td>
-<td class="cuerpo_tabla_centro">275</td>
-<td class="cuerpo_tabla_centro">380</td>
-<td class="cuerpo_tabla_centro">535</td>
-<td class="cuerpo_tabla_centro">690</td>
+<td>202</td>
+<td>275</td>
+<td>380</td>
+<td>535</td>
+<td>690</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">(180+22)</td>
-<td class="cuerpo_tabla_centro">(250 + 25)</td>
-<td class="cuerpo_tabla_centro">(350 + 30)</td>
-<td class="cuerpo_tabla_centro">(500 + 35)</td>
-<td class="cuerpo_tabla_centro">(650 + 40)</td>
+<td>(180+22)</td>
+<td>(250 + 25)</td>
+<td>(350 + 30)</td>
+<td>(500 + 35)</td>
+<td>(650 + 40)</td>
 </tr>
 </tbody>
 </table>
@@ -7528,7 +7478,7 @@ ANOTACIONES (comentarios sobre los criterios marcados con asterisco):
 
 ## ANEXO III — Requisitos específicos Hostales, Pensiones y Albergues.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
 <th colspan="2" rowspan="2">Requisitos</th>
@@ -7543,416 +7493,416 @@ ANOTACIONES (comentarios sobre los criterios marcados con asterisco):
 </thead>
 <tbody>
 <tr>
-<td class="sombra" colspan="6">I. Áreas Comunes</td>
+<td colspan="6">I. Áreas Comunes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Existencia de servicio de recepción 24 horas*.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>1</td>
+<td>Existencia de servicio de recepción 24 horas*.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Existencia de teléfono público en el establecimiento.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>2</td>
+<td>Existencia de teléfono público en el establecimiento.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Disponer de un espacio destinado a sala de estar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>3</td>
+<td>Disponer de un espacio destinado a sala de estar.</td>
+<td> </td>
+<td>M</td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Disponer de información turística de la zona.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>4</td>
+<td>Disponer de información turística de la zona.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Manual de servicios bilingüe (en castellano e inglés).</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>5</td>
+<td>Manual de servicios bilingüe (en castellano e inglés).</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Manual de servicios multilingüe (incluyendo castellano e inglés).</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Aseo general.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>6</td>
+<td>Manual de servicios multilingüe (incluyendo castellano e inglés).</td>
 <td> </td>
+<td>M</td>
 <td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Calefacción y refrigeración regulables por elementos fijos*.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Dispondrá de facilidades de cocina, debiendo estar ésta debidamente equipada para las personas usuarias, sin perjuicio de poder ofrecer además manutención y otros servicios.</td>
+<td>7</td>
+<td>Aseo general.</td>
 <td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="sombra" colspan="6">II. Servicios</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Acceso a Internet en todo el establecimiento*.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Servicio de limpieza diario en habitaciones y zonas comunes.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Servicio de cambio de toallas a diario a petición del cliente.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Servicio de despertador.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>8</td>
+<td>Calefacción y refrigeración regulables por elementos fijos*.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Dispondrá de facilidades de cocina, debiendo estar ésta debidamente equipada para las personas usuarias, sin perjuicio de poder ofrecer además manutención y otros servicios.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+</tr>
+<tr>
+<td colspan="6">II. Servicios</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Acceso a Internet en todo el establecimiento*.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Servicio de limpieza diario en habitaciones y zonas comunes.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Servicio de cambio de toallas a diario a petición del cliente.</td>
+<td> </td>
+<td>M</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Servicio de pago mediante tarjeta bancaria publicitando claramente los medios de pago.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Servicio de guarda de equipaje a la llegada o salida de clientes*.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">El establecimiento dispondrá de 1 taquilla por plaza con sistema y/o cierre de seguridad por persona con espacio suficiente para equipaje.</td>
+<td>13</td>
+<td>Servicio de despertador.</td>
 <td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="sombra" colspan="6">III. Unidades de alojamiento</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Al menos el 80% de las habitaciones con dimensiones requeridas para su categoría.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Calefacción y refrigeración regulables por elementos fijos*.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Información del establecimiento en la habitación.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>M</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">TV en color con mando a distancia.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>14</td>
+<td>Servicio de pago mediante tarjeta bancaria publicitando claramente los medios de pago.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Servicio de guarda de equipaje a la llegada o salida de clientes*.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>16</td>
+<td>El establecimiento dispondrá de 1 taquilla por plaza con sistema y/o cierre de seguridad por persona con espacio suficiente para equipaje.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+</tr>
+<tr>
+<td colspan="6">III. Unidades de alojamiento</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Al menos el 80% de las habitaciones con dimensiones requeridas para su categoría.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Calefacción y refrigeración regulables por elementos fijos*.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Información del establecimiento en la habitación.</td>
+<td> </td>
+<td>M</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Teléfono a petición del cliente, con línea interna y externa en las habitaciones con manual de instrucciones (el cliente debe ser informado cuando hace la entrada).</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>20</td>
+<td>TV en color con mando a distancia.</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>21</td>
+<td>Teléfono a petición del cliente, con línea interna y externa en las habitaciones con manual de instrucciones (el cliente debe ser informado cuando hace la entrada).</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Camas individuales de dimensiones mínimas de 0,90 m x 1,90 m y camas dobles de dimensiones mínimas de 1,35 m x 1,90 m.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>22</td>
+<td>Camas individuales de dimensiones mínimas de 0,90 m x 1,90 m y camas dobles de dimensiones mínimas de 1,35 m x 1,90 m.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Colchones bien conservados de un mínimo de 13 cm de grosor.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>23</td>
+<td>Colchones bien conservados de un mínimo de 13 cm de grosor.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Funda para colchones y sábanas.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>24</td>
+<td>Funda para colchones y sábanas.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Mantas o nórdicos bien conservados.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>25</td>
+<td>Mantas o nórdicos bien conservados.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">Almohadas bien conservadas.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>26</td>
+<td>Almohadas bien conservadas.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">Fundas higiénicas para almohadas.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>27</td>
+<td>Fundas higiénicas para almohadas.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Posibilidad de oscurecer la habitación (por ejemplo, cortinas opacas).</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>28</td>
+<td>Posibilidad de oscurecer la habitación (por ejemplo, cortinas opacas).</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Armario adecuado o espacio destinado a la ropa.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>29</td>
+<td>Armario adecuado o espacio destinado a la ropa.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Estantería para la ropa.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>30</td>
+<td>Estantería para la ropa.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Número apropiado de perchas de material y color homogéneo.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>31</td>
+<td>Número apropiado de perchas de material y color homogéneo.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Un asiento.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>32</td>
+<td>Un asiento.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_izq">Dos enchufes de corriente en la habitación.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>33</td>
+<td>Dos enchufes de corriente en la habitación.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 <td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_izq">Un enchufe por plaza.</td>
+<td>34</td>
+<td>Un enchufe por plaza.</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">M</td>
+<td> </td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_izq">Adecuada iluminación en la habitación.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>35</td>
+<td>Adecuada iluminación en la habitación.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="sombra" colspan="6">IV. Baños*</td>
+<td colspan="6">IV. Baños*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_izq">El 100% de los baños tienen ducha o bañera, inodoro y lavabo.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>36</td>
+<td>El 100% de los baños tienen ducha o bañera, inodoro y lavabo.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">Bañera y/o ducha con cortina o mampara, salvo que se encuentre independiente de las instalaciones sanitarias y el WC.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>37</td>
+<td>Bañera y/o ducha con cortina o mampara, salvo que se encuentre independiente de las instalaciones sanitarias y el WC.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_izq">Alfombra de baño lavable.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>38</td>
+<td>Alfombra de baño lavable.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_izq">Luz apropiada para el baño.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>39</td>
+<td>Luz apropiada para el baño.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">Espejo.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>40</td>
+<td>Espejo.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Enchufe de corriente cerca del espejo.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>41</td>
+<td>Enchufe de corriente cerca del espejo.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Toallero (barra o colgador de toallas).</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>42</td>
+<td>Toallero (barra o colgador de toallas).</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Estantería.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>43</td>
+<td>Estantería.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Jabón de manos.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>44</td>
+<td>Jabón de manos.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Gel de ducha.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>45</td>
+<td>Gel de ducha.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Champú*.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>46</td>
+<td>Champú*.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Recambios de papel higiénico.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>47</td>
+<td>Recambios de papel higiénico.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Una toalla de mano por persona.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>48</td>
+<td>Una toalla de mano por persona.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">Una toalla de baño por persona.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>49</td>
+<td>Una toalla de baño por persona.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Papelera de baño.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>50</td>
+<td>Papelera de baño.</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
 </tr>
 </tbody>
 </table>
@@ -7995,13 +7945,7 @@ Las estructuras cerradas tipo cabinas, cápsulas o similar, tendrán la consider
 
 ## ANEXO IV — Requisitos de instalaciones, equipamientos y servicios para la obtención del calificativo Gran Lujo
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>Área/Sub-Área/Criterio</th>
@@ -8011,351 +7955,351 @@ Las estructuras cerradas tipo cabinas, cápsulas o similar, tendrán la consider
 </thead>
 <tbody>
 <tr>
-<td class="sombra" colspan="4">I. Condiciones generales/Áreas Comunes</td>
+<td colspan="4">I. Condiciones generales/Áreas Comunes</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">I.2 Áreas Públicas</td>
+<td colspan="4">I.2 Áreas Públicas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Música en directo todos los fines de semana.</td>
-<td class="cuerpo_tabla_centro" colspan="2" rowspan="2">GL 1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Música en directo todos los fines de semana.</td>
+<td colspan="2" rowspan="2">GL 1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Música en directo todos los días.</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Música en directo todos los días.</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mobiliario, enseres, materiales y decoración de marcas de primera calidad, o de diseño, en el mercado nacional e internacional en todas las dependencias del hotel*.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL2</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>Mobiliario, enseres, materiales y decoración de marcas de primera calidad, o de diseño, en el mercado nacional e internacional en todas las dependencias del hotel*.</td>
+<td colspan="2">GL2</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Salón con autoservicio de cafés, tés, refrescos, pastas, fruta, canapés dulce/salados, aperitivos a disposición de los clientes sin cargo.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL3</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Salón con autoservicio de cafés, tés, refrescos, pastas, fruta, canapés dulce/salados, aperitivos a disposición de los clientes sin cargo.</td>
+<td colspan="2">GL3</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de primeros auxilios que incluya desfibrilador externo automático (DEA).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL4</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Servicio de primeros auxilios que incluya desfibrilador externo automático (DEA).</td>
+<td colspan="2">GL4</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">I.3 Recepción</td>
+<td colspan="4">I.3 Recepción</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Línea de crédito para los servicios del hotel.</td>
-<td class="cuerpo_tabla_centro">GL5</td>
-<td class="cuerpo_tabla_coma" colspan="2">1</td>
+<td>Línea de crédito para los servicios del hotel.</td>
+<td>GL5</td>
+<td colspan="2">1</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">I.4 Instalaciones para personas con discapacidad</td>
+<td colspan="4">I.4 Instalaciones para personas con discapacidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Implantación de medidas de accesibilidad universal en al menos el 20% de las unidades de alojamiento.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL6</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>Implantación de medidas de accesibilidad universal en al menos el 20% de las unidades de alojamiento.</td>
+<td colspan="2">GL6</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">I.7 Servicios</td>
+<td colspan="4">I.7 Servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Personal que se ocupe de aparcar el coche y ponerlo a disposición del cliente cuando lo solicite.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL8</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>Personal que se ocupe de aparcar el coche y ponerlo a disposición del cliente cuando lo solicite.</td>
+<td colspan="2">GL8</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de traslados privado gratuito dentro de la localidad.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL9</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Servicio de traslados privado gratuito dentro de la localidad.</td>
+<td colspan="2">GL9</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de mayordomía 8 horas.</td>
-<td class="cuerpo_tabla_centro" colspan="2" rowspan="2">GL10</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Servicio de mayordomía 8 horas.</td>
+<td colspan="2" rowspan="2">GL10</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de mayordomía 24 horas.</td>
-<td class="cuerpo_tabla_coma">14</td>
+<td>Servicio de mayordomía 24 horas.</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio gratuito de compostura/arreglo de prendas de vestir.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL11</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Servicio gratuito de compostura/arreglo de prendas de vestir.</td>
+<td colspan="2">GL11</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de limpieza de zapatos manual.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL12</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Servicio de limpieza de zapatos manual.</td>
+<td colspan="2">GL12</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de preparación de equipaje.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL13</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Servicio de preparación de equipaje.</td>
+<td colspan="2">GL13</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de asistente personal.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL14</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Servicio de asistente personal.</td>
+<td colspan="2">GL14</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asistente personal de compras (Personal Shopper).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL15</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Asistente personal de compras (Personal Shopper).</td>
+<td colspan="2">GL15</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Móvil de cortesía (internet + llamadas) para clientes en un mínimo de 50% de las unidades de alojamiento.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL16</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Móvil de cortesía (internet + llamadas) para clientes en un mínimo de 50% de las unidades de alojamiento.</td>
+<td colspan="2">GL16</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">II. Unidades de alojamiento: mobiliario/equipamientos</td>
+<td colspan="4">II. Unidades de alojamiento: mobiliario/equipamientos</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">II.1 Dimensiones</td>
+<td colspan="4">II.1 Dimensiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de un 10 % de suites.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL17</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Más de un 10 % de suites.</td>
+<td colspan="2">GL17</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de un 15% de suites junior.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL18</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Más de un 15% de suites junior.</td>
+<td colspan="2">GL18</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Al menos el 3% de suites especiales, entendiendo aquella con más superficie, instalaciones y dependencias que el resto de unidades de alojamiento tipo suites.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL20</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Al menos el 3% de suites especiales, entendiendo aquella con más superficie, instalaciones y dependencias que el resto de unidades de alojamiento tipo suites.</td>
+<td colspan="2">GL20</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Por habitaciones que superen las medidas mínimas de cinco estrellas en un 20 % (0,5 puntos por unidad de alojamiento-máximo 20 puntos).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL21</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td>Por habitaciones que superen las medidas mínimas de cinco estrellas en un 20 % (0,5 puntos por unidad de alojamiento-máximo 20 puntos).</td>
+<td colspan="2">GL21</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">II.4 Comodidades para dormir (descanso)</td>
+<td colspan="4">II.4 Comodidades para dormir (descanso)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Complementos para adaptar la dureza de los colchones.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL23</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Complementos para adaptar la dureza de los colchones.</td>
+<td colspan="2">GL23</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carta de ropa de cama (algodón, seda o lino).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL24</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Carta de ropa de cama (algodón, seda o lino).</td>
+<td colspan="2">GL24</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ropa de cama 100% algodón de 320 hilos.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL25</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Ropa de cama 100% algodón de 320 hilos.</td>
+<td colspan="2">GL25</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">II.5 Equipamientos de la habitación</td>
+<td colspan="4">II.5 Equipamientos de la habitación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carta de aromas.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL26</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Carta de aromas.</td>
+<td colspan="2">GL26</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espacio de trabajo o descanso con mobiliario específico.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL27</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Espacio de trabajo o descanso con mobiliario específico.</td>
+<td colspan="2">GL27</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caja Fuerte con capacidad, al menos para un ordenador portátil.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL28</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Caja Fuerte con capacidad, al menos para un ordenador portátil.</td>
+<td colspan="2">GL28</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vestidor independiente con espejo de cuerpo entero en suites y suites junior.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL29</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Vestidor independiente con espejo de cuerpo entero en suites y suites junior.</td>
+<td colspan="2">GL29</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">II.6 Equipamientos y comodidades del baño</td>
+<td colspan="4">II.6 Equipamientos y comodidades del baño</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teleducha efecto lluvia.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL30</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Teleducha efecto lluvia.</td>
+<td colspan="2">GL30</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos de higiene hipoalergénicos o de alta gama en función a la ocupación de la unidad de alojamiento (al menos 8 elementos distintos).</td>
-<td class="cuerpo_tabla_centro" colspan="2" rowspan="3">GL31</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Elementos de higiene hipoalergénicos o de alta gama en función a la ocupación de la unidad de alojamiento (al menos 8 elementos distintos).</td>
+<td colspan="2" rowspan="3">GL31</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos de higiene hipoalergénicos o de alta gama en función a la ocupación de la unidad de alojamiento (al menos 10 elementos distintos).</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Elementos de higiene hipoalergénicos o de alta gama en función a la ocupación de la unidad de alojamiento (al menos 10 elementos distintos).</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos de higiene hipoalergénicos o de alta gama en función a la ocupación de la unidad de alojamiento (al menos 14 elementos distintos).</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Elementos de higiene hipoalergénicos o de alta gama en función a la ocupación de la unidad de alojamiento (al menos 14 elementos distintos).</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toallas con gramaje superior a 700.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL32</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Toallas con gramaje superior a 700.</td>
+<td colspan="2">GL32</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">III. Restauración</td>
+<td colspan="4">III. Restauración</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">III.1 Bebidas</td>
+<td colspan="4">III.1 Bebidas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de snack gratuito en habitación con reposición diaria.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL33</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Servicio de snack gratuito en habitación con reposición diaria.</td>
+<td colspan="2">GL33</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de cocktelería.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL34</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Servicio de cocktelería.</td>
+<td colspan="2">GL34</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">III.3 Comidas/Restauración</td>
+<td colspan="4">III.3 Comidas/Restauración</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Áreas de restauración con capacidad simultánea para el 80% de la capacidad máxima del establecimiento.</td>
-<td class="cuerpo_tabla_centro" colspan="2" rowspan="2">GL35</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Áreas de restauración con capacidad simultánea para el 80% de la capacidad máxima del establecimiento.</td>
+<td colspan="2" rowspan="2">GL35</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Áreas de restauración con capacidad simultánea para el 100% de la capacidad máxima del establecimiento.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>Áreas de restauración con capacidad simultánea para el 100% de la capacidad máxima del establecimiento.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Restaurante con distinción nacionales/internacionales.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL36</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>Restaurante con distinción nacionales/internacionales.</td>
+<td colspan="2">GL36</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Restaurante con oferta elaborada por chef con distinción nacionales/intemacionales.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL37</td>
-<td class="cuerpo_tabla_coma">6</td>
+<td>Restaurante con oferta elaborada por chef con distinción nacionales/intemacionales.</td>
+<td colspan="2">GL37</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de brunch.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL38</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Servicio de brunch.</td>
+<td colspan="2">GL38</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comedor privado/reservado.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL39</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Comedor privado/reservado.</td>
+<td colspan="2">GL39</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cocina en directo (show cooking).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL40</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Cocina en directo (show cooking).</td>
+<td colspan="2">GL40</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sumiller.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL41</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Sumiller.</td>
+<td colspan="2">GL41</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bodega de vinos.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL42</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Bodega de vinos.</td>
+<td colspan="2">GL42</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Preparación de platos a la vista del cliente (flambeados, trinchados, desespinados).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL43</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Preparación de platos a la vista del cliente (flambeados, trinchados, desespinados).</td>
+<td colspan="2">GL43</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">IV. Ocio/Tiempo libre</td>
+<td colspan="4">IV. Ocio/Tiempo libre</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">IV.1 Deportes</td>
+<td colspan="4">IV.1 Deportes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de entrenador personal.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL44</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Servicio de entrenador personal.</td>
+<td colspan="2">GL44</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acceso gratuito a las instalación deportiva (3 puntos por cada instalación - máximo 15 puntos).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL45</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Acceso gratuito a las instalación deportiva (3 puntos por cada instalación - máximo 15 puntos).</td>
+<td colspan="2">GL45</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">IV.2 Salud-Belleza</td>
+<td colspan="4">IV.2 Salud-Belleza</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acceso sin cargo a la zona de Spa (3 puntos por cada instalación - máximo 15 puntos).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL46</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Acceso sin cargo a la zona de Spa (3 puntos por cada instalación - máximo 15 puntos).</td>
+<td colspan="2">GL46</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de bebidas o frutas sin coste para el cliente en la zona de Spa.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL47</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Servicio de bebidas o frutas sin coste para el cliente en la zona de Spa.</td>
+<td colspan="2">GL47</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">IV.3 Niños</td>
+<td colspan="4">IV.3 Niños</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Obsequios para niños a su llegada.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL48</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Obsequios para niños a su llegada.</td>
+<td colspan="2">GL48</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos de higiene infantil.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL49</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Elementos de higiene infantil.</td>
+<td colspan="2">GL49</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="sombra" colspan="4">IV.4 Otra oferta</td>
+<td colspan="4">IV.4 Otra oferta</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Servicio de bar/camareros en zona de hamacas.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL51</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Servicio de bar/camareros en zona de hamacas.</td>
+<td colspan="2">GL51</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toalla para la piscina a disposición de los clientes.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL52</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>Toalla para la piscina a disposición de los clientes.</td>
+<td colspan="2">GL52</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galería comercial.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL53</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Galería comercial.</td>
+<td colspan="2">GL53</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Librería digital gratuita (on line/descargas).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL54</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td>Librería digital gratuita (on line/descargas).</td>
+<td colspan="2">GL54</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Apertura del establecimiento durante todo el año.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL55</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td>Apertura del establecimiento durante todo el año.</td>
+<td colspan="2">GL55</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Al menos 75% de las personas empleadas con contratos indefinidos.</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL56</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>Al menos 75% de las personas empleadas con contratos indefinidos.</td>
+<td colspan="2">GL56</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestación de todos los servicios mediante personal contratado por el titular de la explotación (no exigible para el servicio de lavandería industrial).</td>
-<td class="cuerpo_tabla_centro" colspan="2">GL57</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>Prestación de todos los servicios mediante personal contratado por el titular de la explotación (no exigible para el servicio de lavandería industrial).</td>
+<td colspan="2">GL57</td>
+<td>10</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">Notas:</p>
-<p class="cita">(GL2) Se valorará la puntuación siempre y cuando se acredite mediante certificado debidamente emitido por el fabricante la alta calidad o la alta gama de tales bienes o certificado de empresa acreditada de expertización.</p>
-<p class="cita">La numeración y definición de cada epígrafe de esta tabla va en correlación con los existentes en el anexo II.</p>
+<p>Notas:</p>
+<p>(GL2) Se valorará la puntuación siempre y cuando se acredite mediante certificado debidamente emitido por el fabricante la alta calidad o la alta gama de tales bienes o certificado de empresa acreditada de expertización.</p>
+<p>La numeración y definición de cada epígrafe de esta tabla va en correlación con los existentes en el anexo II.</p>
 </td>
 </tr>
 </tfoot>

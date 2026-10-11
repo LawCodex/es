@@ -2058,1873 +2058,1873 @@ Este Reglamento comenzará a regir el día 1 de enero de 1969.
 
 ## Anexo I — Disposiciones derogadas
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Anexo al Reglamento</p>
+<p>Anexo al Reglamento</p>
 </td>
 <td>
-<p class="cabeza_tabla">I. Disposiciones derogadas</p>
+<p>I. Disposiciones derogadas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8- 7-1922</p>
+<p>8- 7-1922</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Reglamento de Casas Baratas.</p>
+<p>Aprobatorio del Reglamento de Casas Baratas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7-11-1924</p>
+<p>7-11-1924</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre vigor y aplicación del Reglamento de Casas Baratas de 8 de julio de 1922.</p>
+<p>Sobre vigor y aplicación del Reglamento de Casas Baratas de 8 de julio de 1922.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30-10-1925</p>
+<p>30-10-1925</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que modifica el Reglamento de Casas Baratas de 8 de julio de 1922.</p>
+<p>Que modifica el Reglamento de Casas Baratas de 8 de julio de 1922.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20-12-1927</p>
+<p>20-12-1927</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que aprueba el Reglamento de Casas para Funcionarios.</p>
+<p>Que aprueba el Reglamento de Casas para Funcionarios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11- 5-1928</p>
+<p>11- 5-1928</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre amortización o intereses de casas baratas adquiridas en propiedad.</p>
+<p>Sobre amortización o intereses de casas baratas adquiridas en propiedad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30- 6-1931</p>
+<p>30- 6-1931</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre valoración y beneficios de casas baratas y económicas.</p>
+<p>Sobre valoración y beneficios de casas baratas y económicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5- 1-1933</p>
+<p>5- 1-1933</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre condiciones de los beneficiarlos de casas baratas y económicas.</p>
+<p>Sobre condiciones de los beneficiarlos de casas baratas y económicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14-12-1933</p>
+<p>14-12-1933</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre beneficios a casas baratas y económicas.</p>
+<p>Sobre beneficios a casas baratas y económicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15-8-1934</p>
+<p>15-8-1934</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Reglamento del Patronato de Política Social Inmobiliaria.</p>
+<p>Aprobatorio del Reglamento del Patronato de Política Social Inmobiliaria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21-12-1934</p>
+<p>21-12-1934</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre beneficiarios de casas baratas y económicas.</p>
+<p>Sobre beneficiarios de casas baratas y económicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30- 1-1935</p>
+<p>30- 1-1935</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre préstamos a las casas baratas.</p>
+<p>Sobre préstamos a las casas baratas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11- 7-1935</p>
+<p>11- 7-1935</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que estructura el Patronato de Política Social Inmobiliaria.</p>
+<p>Que estructura el Patronato de Política Social Inmobiliaria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13-10-1938</p>
+<p>13-10-1938</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre Junta Administradora Nacional de Casas Baratas y Económicas.</p>
+<p>Sobre Junta Administradora Nacional de Casas Baratas y Económicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8- 9-1939</p>
+<p>8- 9-1939</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Reglamento de Viviendas Protegidas.</p>
+<p>Aprobatorio del Reglamento de Viviendas Protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15-12-1939</p>
+<p>15-12-1939</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre anticipos a viviendas protegidas agrícolas y de labradores.</p>
+<p>Sobre anticipos a viviendas protegidas agrícolas y de labradores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27-11-1941</p>
+<p>27-11-1941</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre calefacción en edificios acogidos a la Ley del Paro.</p>
+<p>Sobre calefacción en edificios acogidos a la Ley del Paro.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10-11-1942</p>
+<p>10-11-1942</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre limitaciones de los edificios acogidos a la Ley del Paro.</p>
+<p>Sobre limitaciones de los edificios acogidos a la Ley del Paro.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10-11-1942</p>
+<p>10-11-1942</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que modifica el Reglamento de Viviendas Protegidas.</p>
+<p>Que modifica el Reglamento de Viviendas Protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27-11-1942</p>
+<p>27-11-1942</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre calefacción en viviendas acogidas a la Ley del Paro.</p>
+<p>Sobre calefacción en viviendas acogidas a la Ley del Paro.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6- 4-1943</p>
+<p>6- 4-1943</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre primas a la construcción de viviendas protegidas.</p>
+<p>Sobre primas a la construcción de viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30-10-1943</p>
+<p>30-10-1943</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre calefacción a viviendas acogidas a la Ley del Paro.</p>
+<p>Sobre calefacción a viviendas acogidas a la Ley del Paro.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15-11-1943</p>
+<p>15-11-1943</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre terrenos para viviendas protegidas.</p>
+<p>Sobre terrenos para viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31- 3-1944</p>
+<p>31- 3-1944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desvinculación, casas baratas, económicas y similares.</p>
+<p>Sobre desvinculación, casas baratas, económicas y similares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">31- 3-1944</p>
+<p>31- 3-1944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre urbanización de barriadas de viviendas protegidas.</p>
+<p>Sobre urbanización de barriadas de viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10- 5-1944</p>
+<p>10- 5-1944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desvinculación de casas baratas económicas y similares.</p>
+<p>Sobre desvinculación de casas baratas económicas y similares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29- 9-1944</p>
+<p>29- 9-1944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límites presupuestarios de casas militares.</p>
+<p>Sobre límites presupuestarios de casas militares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23-12-1944</p>
+<p>23-12-1944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límite presupuestario de viviendas protegidas.</p>
+<p>Sobre límite presupuestario de viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3- 2-1945</p>
+<p>3- 2-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre viviendas protegidas rurales.</p>
+<p>Sobre viviendas protegidas rurales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3- 2-1945</p>
+<p>3- 2-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que modifica el Reglamento de Viviendas Protegidas.</p>
+<p>Que modifica el Reglamento de Viviendas Protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3- 2-1945</p>
+<p>3- 2-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucio de viviendas protegidas por falta de pago.</p>
+<p>Sobre desahucio de viviendas protegidas por falta de pago.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10- 4-1945</p>
+<p>10- 4-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre locales comerciales en viviendas protegidas.</p>
+<p>Sobre locales comerciales en viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13- 4-1945</p>
+<p>13- 4-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucios por el Instituto Nacional de la Vivienda.</p>
+<p>Sobre desahucios por el Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25- 5-1945</p>
+<p>25- 5-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucios de Casas Baratas del Ministerio de la Gobernación.</p>
+<p>Sobre desahucios de Casas Baratas del Ministerio de la Gobernación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15- 6-1945</p>
+<p>15- 6-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre préstamos en viviendas de clase media.</p>
+<p>Sobre préstamos en viviendas de clase media.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26- 7-1945</p>
+<p>26- 7-1945</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre beneficios fiscales a viviendas de clase media.</p>
+<p>Sobre beneficios fiscales a viviendas de clase media.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22- 3-1946</p>
+<p>22- 3-1946</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre préstamos a casas de la Armada.</p>
+<p>Sobre préstamos a casas de la Armada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9- 8-1946</p>
+<p>9- 8-1946</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límite presupuestario en casas de la Armada.</p>
+<p>Sobre límite presupuestario en casas de la Armada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17- 3-1947</p>
+<p>17- 3-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre Entidades benéficas de construcción.</p>
+<p>Sobre Entidades benéficas de construcción.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 3-1947</p>
+<p>21- 3-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre viviendas rurales.</p>
+<p>Sobre viviendas rurales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29- 4-1947</p>
+<p>29- 4-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre exhibición de la Resolución de bonificables.</p>
+<p>Sobre exhibición de la Resolución de bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2- 6-1947</p>
+<p>2- 6-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre aplicación del Decreto-ley de 7 de marzo de 1947.</p>
+<p>Sobre aplicación del Decreto-ley de 7 de marzo de 1947.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6- 6-1947</p>
+<p>6- 6-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre reintegro de préstamos para viviendas protegidas.</p>
+<p>Sobre reintegro de préstamos para viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4- 7-1947</p>
+<p>4- 7-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre casas-cuartel de la Guardia Civil.</p>
+<p>Sobre casas-cuartel de la Guardia Civil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29-11-1947</p>
+<p>29-11-1947</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre sanciones en viviendas de Ley del Paro y bonificables.</p>
+<p>Sobre sanciones en viviendas de Ley del Paro y bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 2-1948</p>
+<p>12- 2-1948</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límites presupuestarios de viviendas protegidas de Empresas.</p>
+<p>Sobre límites presupuestarios de viviendas protegidas de Empresas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14- 4-1948</p>
+<p>14- 4-1948</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre normas de aplicación de la Ley de boniflcables de 25 de noviembre de 1944.</p>
+<p>Sobre normas de aplicación de la Ley de boniflcables de 25 de noviembre de 1944.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25- 6-1948</p>
+<p>25- 6-1948</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre prohibición venta por pisos en casas de Ley del Paro.</p>
+<p>Sobre prohibición venta por pisos en casas de Ley del Paro.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2- 2-1949</p>
+<p>2- 2-1949</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Normas de aplicación de la Ley de 25 de noviembre de 1944 y Decreto-ley, de 19 de noviembre de 1948, de viviendas bonificables.</p>
+<p>Normas de aplicación de la Ley de 25 de noviembre de 1944 y Decreto-ley, de 19 de noviembre de 1948, de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16- 7-1949</p>
+<p>16- 7-1949</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucio en viviendas de Auxilio Social.</p>
+<p>Sobre desahucio en viviendas de Auxilio Social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 4-1950</p>
+<p>21- 4-1950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre primas a viviendas protegidas.</p>
+<p>Sobre primas a viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19- 5-1950</p>
+<p>19- 5-1950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre cesión de las vías públicas a los Ayuntamientos.</p>
+<p>Sobre cesión de las vías públicas a los Ayuntamientos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 7-1950</p>
+<p>21- 7-1950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre bonificaciones tributarias en viviendas protegidas.</p>
+<p>Sobre bonificaciones tributarias en viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29- 7-1950</p>
+<p>29- 7-1950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre primas a la construcción de viviendas bonificables.</p>
+<p>Sobre primas a la construcción de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10-11-1950</p>
+<p>10-11-1950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límite presupuestario en viviendas protegidas.</p>
+<p>Sobre límite presupuestario en viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16-12-1950</p>
+<p>16-12-1950</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre plazo de terminación de viviendas bonificables.</p>
+<p>Sobre plazo de terminación de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16-11-1951</p>
+<p>16-11-1951</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que amplía el límite presupuestario para las viviendas protegidas con aportación de prestación personal sobre concesión de auxilios a viviendas y obras comprendidas en los planes del Instituto Nacional de Colonización.</p>
+<p>Que amplía el límite presupuestario para las viviendas protegidas con aportación de prestación personal sobre concesión de auxilios a viviendas y obras comprendidas en los planes del Instituto Nacional de Colonización.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 3-1952</p>
+<p>21- 3-1952</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre procedimiento de desahucio por las Empresas de viviendas construidas para su personal.</p>
+<p>Sobre procedimiento de desahucio por las Empresas de viviendas construidas para su personal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 7-1952</p>
+<p>21- 7-1952</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre primas a la construcción de viviendas protegidas promovidas por las Empresas para su personal.</p>
+<p>Sobre primas a la construcción de viviendas protegidas promovidas por las Empresas para su personal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 7-1952</p>
+<p>21- 7-1952</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre beneficios otorgables a las Cooperativas de edificación.</p>
+<p>Sobre beneficios otorgables a las Cooperativas de edificación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12-12-1922</p>
+<p>12-12-1922</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre garantías de auxilios o préstamos concedidos al Instituto Nacional de Colonización.</p>
+<p>Sobre garantías de auxilios o préstamos concedidos al Instituto Nacional de Colonización.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20- 7-1954</p>
+<p>20- 7-1954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que desarrolla las disposiciones transitorias de la Ley de Viviendas de Renta Limitada.</p>
+<p>Que desarrolla las disposiciones transitorias de la Ley de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26-10-1954</p>
+<p>26-10-1954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre aplicación de exenciones tributarias a las viviendas de tipo social construidas por la Obra Sindical del Hogar.</p>
+<p>Sobre aplicación de exenciones tributarias a las viviendas de tipo social construidas por la Obra Sindical del Hogar.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22-12-1954</p>
+<p>22-12-1954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre aplicación de la Ley de Viviendas de Renta Limitada a los expedientes de viviendas protegidas.</p>
+<p>Sobre aplicación de la Ley de Viviendas de Renta Limitada a los expedientes de viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14- 1-1955</p>
+<p>14- 1-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que establece los límites presupuestarios para las viviendas protegidas.</p>
+<p>Que establece los límites presupuestarios para las viviendas protegidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14- 1-1955</p>
+<p>14- 1-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre concesión de préstamos del Instituto de Crédito para la Reconstrucción Nacional a los promotores de viviendas bonificables.</p>
+<p>Sobre concesión de préstamos del Instituto de Crédito para la Reconstrucción Nacional a los promotores de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24- 6-1955</p>
+<p>24- 6-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reglamento de la Ley de Viviendas de Renta Limitada.</p>
+<p>Reglamento de la Ley de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1- 7-1955</p>
+<p>1- 7-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula la ejecución del Plan Nacional de Construcción de Viviendas de Renta Limitada.</p>
+<p>Que regula la ejecución del Plan Nacional de Construcción de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1- 7-1955</p>
+<p>1- 7-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula la ejecución del Plan de Construcción de Viviendas de Renta Limitada en el término de Madrid.</p>
+<p>Que regula la ejecución del Plan de Construcción de Viviendas de Renta Limitada en el término de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 7-1955</p>
+<p>12- 7-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre valor tipo de la construcción de viviendas de renta limitada.</p>
+<p>Sobre valor tipo de la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 7-1955</p>
+<p>12- 7-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desarrollo del Plan Nacional de Construcción de Viviendas de Renta Limitada.</p>
+<p>Sobre desarrollo del Plan Nacional de Construcción de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 7-1955</p>
+<p>12- 7-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desarrollo del Plan de Construcción de Viviendas de Renta Limitada en el término de Madrid.</p>
+<p>Sobre desarrollo del Plan de Construcción de Viviendas de Renta Limitada en el término de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3-10-1955</p>
+<p>3-10-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre la composición de los Consejos Provinciales de la Vivienda.</p>
+<p>Sobre la composición de los Consejos Provinciales de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22-10-1955</p>
+<p>22-10-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre la delegación de facultades del Director general del Instituto Nacional de la Vivienda.</p>
+<p>Sobre la delegación de facultades del Director general del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5-11-1955</p>
+<p>5-11-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcción de viviendas por las Empresas.</p>
+<p>Sobre construcción de viviendas por las Empresas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11-11-1955</p>
+<p>11-11-1955</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula la cesión en amortización de las viviendas propiedad del Instituto Nacional de la Vivienda.</p>
+<p>Que regula la cesión en amortización de las viviendas propiedad del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17- 3-1956</p>
+<p>17- 3-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre calificación definitiva de viviendas bonificables.</p>
+<p>Sobre calificación definitiva de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13- 4-1956</p>
+<p>13- 4-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coordinación con Ayuntamientos en expedientes de construcción de viviendas de renta limitada.</p>
+<p>Coordinación con Ayuntamientos en expedientes de construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13- 4-1956</p>
+<p>13- 4-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Normas de concesión de préstamos para la construcción de viviendas de renta limitada.</p>
+<p>Normas de concesión de préstamos para la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27- 7-1956</p>
+<p>27- 7-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcción de viviendas por las Empresas.</p>
+<p>Sobre construcción de viviendas por las Empresas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 8-1956</p>
+<p>21- 8-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre la concesión de préstamos bancarios para la construcción de viviendas de renta limitada.</p>
+<p>Sobre la concesión de préstamos bancarios para la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 9-1956</p>
+<p>12- 9-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcción de viviendas para su personal por Empresas radicadas en Barcelona.</p>
+<p>Sobre construcción de viviendas para su personal por Empresas radicadas en Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14- 9-1956</p>
+<p>14- 9-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcción de viviendas a través del Patronato de Casas Militares.</p>
+<p>Sobre construcción de viviendas a través del Patronato de Casas Militares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24-10-1956</p>
+<p>24-10-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre concesión de préstamos por el Instituto de Crédito para la Reconstrucción Nacional para la construcción de viviendas de renta limitada.</p>
+<p>Sobre concesión de préstamos por el Instituto de Crédito para la Reconstrucción Nacional para la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14-12-1956</p>
+<p>14-12-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre régimen transitorio de los expedientes de viviendas bonificables.</p>
+<p>Sobre régimen transitorio de los expedientes de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17- 1-1957</p>
+<p>17- 1-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre concesión de préstamos por las Cajas de Ahorro para la construcción de viviendas de renta limitada.</p>
+<p>Sobre concesión de préstamos por las Cajas de Ahorro para la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25- 1-1957</p>
+<p>25- 1-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre exención de cédulas de habitabilidad a viviendas de renta limitada.</p>
+<p>Sobre exención de cédulas de habitabilidad a viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4- 2-1957</p>
+<p>4- 2-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre concesión de préstamos por las Bancas privadas para la construcción de viviendas de renta limitada.</p>
+<p>Sobre concesión de préstamos por las Bancas privadas para la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3- 4-1957</p>
+<p>3- 4-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula la tramitación de proyectos de viviendas unifamiliares.</p>
+<p>Que regula la tramitación de proyectos de viviendas unifamiliares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5- 4-1957</p>
+<p>5- 4-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre concesión de anticipos por el Instituto Nacional de la Vivienda para la construcción de viviendas de renta limitada.</p>
+<p>Sobre concesión de anticipos por el Instituto Nacional de la Vivienda para la construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11- 4-1957</p>
+<p>11- 4-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre valor-tipo de la construcción en viviendas de renta limitada.</p>
+<p>Sobre valor-tipo de la construcción en viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4- 6-1957</p>
+<p>4- 6-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre organización de la Dirección General de la Vivienda.</p>
+<p>Sobre organización de la Dirección General de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 6-1957</p>
+<p>12- 6-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre régimen transitorio de viviendas bonificables.</p>
+<p>Sobre régimen transitorio de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14- 6-1957</p>
+<p>14- 6-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre prórroga del plazo de construcción de viviendas bonificables.</p>
+<p>Sobre prórroga del plazo de construcción de viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9-10-1957</p>
+<p>9-10-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula la sobre tasa por calefacción en viviendas bonificables.</p>
+<p>Que regula la sobre tasa por calefacción en viviendas bonificables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22-11-1957</p>
+<p>22-11-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre viviendas subvencionadas en plan de Urgencia Social de Madrid.</p>
+<p>Sobre viviendas subvencionadas en plan de Urgencia Social de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3-12-1957</p>
+<p>3-12-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reguladora de las viviendas subvencionadas en Plan de Urgencia Social de Madrid.</p>
+<p>Reguladora de las viviendas subvencionadas en Plan de Urgencia Social de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24- 1-1958</p>
+<p>24- 1-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre extensión de las viviendas subvencionadas a todo el territorio nacional.</p>
+<p>Sobre extensión de las viviendas subvencionadas a todo el territorio nacional.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1- 2-1958</p>
+<p>1- 2-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula las viviendas subvencionadas.</p>
+<p>Que regula las viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1- 3-1958</p>
+<p>1- 3-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula las viviendas subvencionadas.</p>
+<p>Que regula las viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21- 3-1958</p>
+<p>21- 3-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Plan de Urgencia Social de Barcelona.</p>
+<p>Aprobatorio del Plan de Urgencia Social de Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 7-1958</p>
+<p>12- 7-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre condiciones de venta de viviendas subvencionadas.</p>
+<p>Sobre condiciones de venta de viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5- 9-1958</p>
+<p>5- 9-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Plan Provisional de Urgencia Social de Vizcaya.</p>
+<p>Aprobatorio del Plan Provisional de Urgencia Social de Vizcaya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10-10-1958</p>
+<p>10-10-1958</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Plan de Urgencia Social de Asturias.</p>
+<p>Aprobatorio del Plan de Urgencia Social de Asturias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">169. 29- 1-1959</p>
+<p>169. 29- 1-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre alquiler de las viviendas subvencionadas.</p>
+<p>Sobre alquiler de las viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5- 3-1959</p>
+<p>5- 3-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre clasificación de las viviendas subvencionadas.</p>
+<p>Sobre clasificación de las viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">877. 27- 5-1959</p>
+<p>877. 27- 5-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límite de préstamos a Empresas obligadas a construir viviendas para su personal.</p>
+<p>Sobre límite de préstamos a Empresas obligadas a construir viviendas para su personal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">823. 27- 5-1959</p>
+<p>823. 27- 5-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre aplicación del Plan de Urgencia Social de Madrid.</p>
+<p>Sobre aplicación del Plan de Urgencia Social de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">676. 27- 5-1959</p>
+<p>676. 27- 5-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatorio del Plan de Urgencia Social de Vizcaya.</p>
+<p>Aprobatorio del Plan de Urgencia Social de Vizcaya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1126. 18- 6-1959</p>
+<p>1126. 18- 6-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre anticipos del Instituto Nacional de la Vivienda en expedientes promovidos por Patronatos de Casas de Funcionarios.</p>
+<p>Sobre anticipos del Instituto Nacional de la Vivienda en expedientes promovidos por Patronatos de Casas de Funcionarios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1130. 9- 7-1959</p>
+<p>1130. 9- 7-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre exención por Impuesto de Derechos Reales de los contratos de préstamos hipotecarios en viviendas de renta limitada.</p>
+<p>Sobre exención por Impuesto de Derechos Reales de los contratos de préstamos hipotecarios en viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1143. 9- 7-1959</p>
+<p>1143. 9- 7-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre régimen transitorio de las viviendas bonificables en Asturias.</p>
+<p>Sobre régimen transitorio de las viviendas bonificables en Asturias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23- 7-1959</p>
+<p>23- 7-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre exención por Impuesto de Derechos Reales de los contratos de préstamo hipotecario en viviendas de renta limitada.</p>
+<p>Sobre exención por Impuesto de Derechos Reales de los contratos de préstamo hipotecario en viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2332. 2412-1959</p>
+<p>2332. 2412-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre acumulación de expedientes de viviendas subvencionadas.</p>
+<p>Sobre acumulación de expedientes de viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151. 28- 1-1960</p>
+<p>151. 28- 1-1960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre alquileres de viviendas subvencionadas.</p>
+<p>Sobre alquileres de viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">241. 18- 2-1960</p>
+<p>241. 18- 2-1960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre sanciones por infracción del régimen de viviendas de protección oficial.</p>
+<p>Sobre sanciones por infracción del régimen de viviendas de protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1448. 21- 7-1980</p>
+<p>1448. 21- 7-1980</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre terminación de viviendas del Plan de Urgencia Social de Madrid.</p>
+<p>Sobre terminación de viviendas del Plan de Urgencia Social de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1451. 21- 7-1960</p>
+<p>1451. 21- 7-1960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Préstamos a subvencionadas en la Obra Sindical del Hogar.</p>
+<p>Préstamos a subvencionadas en la Obra Sindical del Hogar.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2158. 17-11-1960</p>
+<p>2158. 17-11-1960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre alquileres y venta de viviendas de renta limitada.</p>
+<p>Sobre alquileres y venta de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7- 1-1961</p>
+<p>7- 1-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre valor-tipo de la construcción en viviendas de renta limitada.</p>
+<p>Sobre valor-tipo de la construcción en viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24- 1-1961</p>
+<p>24- 1-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que modifica el artículo 109 del Reglamento de Viviendas de Renta Limitada.</p>
+<p>Que modifica el artículo 109 del Reglamento de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">607. 5- 41981</p>
+<p>607. 5- 41981</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que modifica el artículo 19 del Reglamento de Viviendas de Renta Limitada.</p>
+<p>Que modifica el artículo 19 del Reglamento de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">696. 13- 4-1961</p>
+<p>696. 13- 4-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcción de viviendas de tipo social en Barcelona.</p>
+<p>Sobre construcción de viviendas de tipo social en Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1099. 28- 6-1961</p>
+<p>1099. 28- 6-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre ampliación de beneficios a viviendas subvencionadas.</p>
+<p>Sobre ampliación de beneficios a viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9- 8-1961</p>
+<p>9- 8-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre placas en inmuebles de renta limitada.</p>
+<p>Sobre placas en inmuebles de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1617. 6- 9-1961</p>
+<p>1617. 6- 9-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aplicación del régimen de viviendas de renta limitada en Ifni, Sahara, Fernando Poo y Río Muni.</p>
+<p>Aplicación del régimen de viviendas de renta limitada en Ifni, Sahara, Fernando Poo y Río Muni.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1723. 8- 9-1961</p>
+<p>1723. 8- 9-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre ventas y arrendamiento de viviendas construidas por las Empresas para su personal.</p>
+<p>Sobre ventas y arrendamiento de viviendas construidas por las Empresas para su personal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2637.  21-12-1961</p>
+<p>2637.  21-12-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre requisitos para la enajenación de viviendas de protección estatal.</p>
+<p>Sobre requisitos para la enajenación de viviendas de protección estatal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">260. 1- 2-1962</p>
+<p>260. 1- 2-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula la construcción de viviendas de Ministerios Civiles.</p>
+<p>Que regula la construcción de viviendas de Ministerios Civiles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28- 2-1962</p>
+<p>28- 2-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre licencias municipales en viviendas de protección estatal,.</p>
+<p>Sobre licencias municipales en viviendas de protección estatal,.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">535. 15- 3-1962</p>
+<p>535. 15- 3-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que modifica el artículo 111 del Reglamento de Viviendas de Renta Limitada.</p>
+<p>Que modifica el artículo 111 del Reglamento de Viviendas de Renta Limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">534. 15- 3-1962</p>
+<p>534. 15- 3-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre alquiler de viviendas subvencionadas.</p>
+<p>Sobre alquiler de viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">655. 29- 3-1962</p>
+<p>655. 29- 3-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre Alquiler de viviendas del Instituto Nacional de la Vivienda.</p>
+<p>Sobre Alquiler de viviendas del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">654. 29- 3-1962</p>
+<p>654. 29- 3-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre beneficios a viviendas construidas por Patronatos Provinciales y Municipales de Viviendas para Funcionarios.</p>
+<p>Sobre beneficios a viviendas construidas por Patronatos Provinciales y Municipales de Viviendas para Funcionarios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10- 4-1982</p>
+<p>10- 4-1982</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre préstamos por Cajas de Ahorro.</p>
+<p>Sobre préstamos por Cajas de Ahorro.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">789. 12- 4-1962</p>
+<p>789. 12- 4-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre financiación de viviendas para atender necesidades graves y apremiantes de carácter social.</p>
+<p>Sobre financiación de viviendas para atender necesidades graves y apremiantes de carácter social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1105.  17- 5-1962</p>
+<p>1105.  17- 5-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre enajenación de terrenos por el Instituto Nacional de la Vivienda.</p>
+<p>Sobre enajenación de terrenos por el Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3331. 13-12-1962</p>
+<p>3331. 13-12-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre promoción por los Gobiernos Generales de Ifni, Sahara y Región Ecuatorial.</p>
+<p>Sobre promoción por los Gobiernos Generales de Ifni, Sahara y Región Ecuatorial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3493. 27-12-1962</p>
+<p>3493. 27-12-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre rehabilitación de calificaciones de proyectos de viviendas adjudicadas a los acreedores.</p>
+<p>Sobre rehabilitación de calificaciones de proyectos de viviendas adjudicadas a los acreedores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.    3- 1-1963</p>
+<p>9.    3- 1-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre publicidad y percibo de cantidades a cuenta en viviendas de protección estatal.</p>
+<p>Sobre publicidad y percibo de cantidades a cuenta en viviendas de protección estatal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">253.  31- 1-1963</p>
+<p>253.  31- 1-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre régimen de alojamientos provisionales construidos por el Instituto Nacional de la Vivienda.</p>
+<p>Sobre régimen de alojamientos provisionales construidos por el Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">344.   21-2-1963</p>
+<p>344.   21-2-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre ejecución de obras para subsanar defectos construcción viviendas protección oficial.</p>
+<p>Sobre ejecución de obras para subsanar defectos construcción viviendas protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">345.  21- 2-1963</p>
+<p>345.  21- 2-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por el que se determina el límite del coste de las viviendas de tipo social.</p>
+<p>Por el que se determina el límite del coste de las viviendas de tipo social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1592.   4- 7-1963</p>
+<p>1592.   4- 7-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre alquileres de ley viviendas subvencionadas.</p>
+<p>Sobre alquileres de ley viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1507.   4- 7-1963</p>
+<p>1507.   4- 7-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre límite de coste de las viviendas en las provincias africanas.</p>
+<p>Sobre límite de coste de las viviendas en las provincias africanas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2468.   7- 9-1963</p>
+<p>2468.   7- 9-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que fija la renta máxima de las viviendas de renta limitada, grupo I.</p>
+<p>Que fija la renta máxima de las viviendas de renta limitada, grupo I.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2467.   7- 9-1963</p>
+<p>2467.   7- 9-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que fija la cuantía de los préstamos en viviendas subvencionadas.</p>
+<p>Que fija la cuantía de los préstamos en viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26- 9-1963</p>
+<p>26- 9-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que fija el valor-tipo de construcción de viviendas de renta limitada.</p>
+<p>Que fija el valor-tipo de construcción de viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28- 2-1964</p>
+<p>28- 2-1964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fijando normas de enajenación de viviendas subvencionadas.</p>
+<p>Fijando normas de enajenación de viviendas subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23- 4-1964</p>
+<p>23- 4-1964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre declaración de zonas saturadas de construcción de viviendas de Protección oficial.</p>
+<p>Sobre declaración de zonas saturadas de construcción de viviendas de Protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17- 6-1964</p>
+<p>17- 6-1964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que fija las condiciones de los préstamos en viviendas limitadas para venta.</p>
+<p>Que fija las condiciones de los préstamos en viviendas limitadas para venta.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2227.   9- 7-1964</p>
+<p>2227.   9- 7-1964</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre ocupaciones indebidas de viviendas propiedad del Instituto Nacional de la Vivienda.</p>
+<p>Sobre ocupaciones indebidas de viviendas propiedad del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1479.  30- 4-1965</p>
+<p>1479.  30- 4-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucio en viviendas promovidas por Organismos militares.</p>
+<p>Sobre desahucio en viviendas promovidas por Organismos militares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D</p>
+<p>D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1443.   3- 6-1965</p>
+<p>1443.   3- 6-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Uso temporal o de más de una viviendas de protección oficial.</p>
+<p>Uso temporal o de más de una viviendas de protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1444.   3- 6-1965</p>
+<p>1444.   3- 6-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre publicidad de venta de viviendas de protección oficial.</p>
+<p>Sobre publicidad de venta de viviendas de protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1445.   3- 6-1965</p>
+<p>1445.   3- 6-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre arrendamiento forzoso de viviendas de protección oficial.</p>
+<p>Sobre arrendamiento forzoso de viviendas de protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1446.   3- 6-1965</p>
+<p>1446.   3- 6-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre alquileres y financiación de viviendas subvencionadas, salvo el párrafo último de su artículo primero.</p>
+<p>Sobre alquileres y financiación de viviendas subvencionadas, salvo el párrafo último de su artículo primero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2243.  22- 7-1965</p>
+<p>2243.  22- 7-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anulando la facultad de cambiar de régimen de protección.</p>
+<p>Anulando la facultad de cambiar de régimen de protección.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15- 6-1965</p>
+<p>15- 6-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Que regula el crédito oficial para la construcción de viviendas.</p>
+<p>Que regula el crédito oficial para la construcción de viviendas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3094. 14-10-1965</p>
+<p>3094. 14-10-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucio por el Ministerio del Aire.</p>
+<p>Sobre desahucio por el Ministerio del Aire.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3189. 28.10-1965</p>
+<p>3189. 28.10-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre desahucio por el Ministerio de Marina.</p>
+<p>Sobre desahucio por el Ministerio de Marina.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25- 1-1966</p>
+<p>25- 1-1966</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desahucio de viviendas promovidas por Organismos dependientes del Ministerio de Marina.</p>
+<p>Desahucio de viviendas promovidas por Organismos dependientes del Ministerio de Marina.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1484. 16- 6-1966</p>
+<p>1484. 16- 6-1966</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre módulo construcción viviendas segundo grupo, viviendas de renta limitada.</p>
+<p>Sobre módulo construcción viviendas segundo grupo, viviendas de renta limitada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2729. 20-10-1966</p>
+<p>2729. 20-10-1966</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por el que que incluye al Instituto Social de la Marina entre los promotores a quienes el Instituto Nacional de la Vivienda puede ceder directamente terrenos de su propiedad.</p>
+<p>Por el que que incluye al Instituto Social de la Marina entre los promotores a quienes el Instituto Nacional de la Vivienda puede ceder directamente terrenos de su propiedad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11- 1-1967</p>
+<p>11- 1-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fijando el precio de venta de las viviendas de renta limitada del grupo II, tercera categoría.</p>
+<p>Fijando el precio de venta de las viviendas de renta limitada del grupo II, tercera categoría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20- 4-1967</p>
+<p>20- 4-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre interpretación del artículo 7 del Decreto 1443/1965, de 3 de junio.</p>
+<p>Sobre interpretación del artículo 7 del Decreto 1443/1965, de 3 de junio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6- 5-1967</p>
+<p>6- 5-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre cómputo servicios comunes en la superficie útil de las viviendas de protección oficial.</p>
+<p>Sobre cómputo servicios comunes en la superficie útil de las viviendas de protección oficial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5- 7-1967</p>
+<p>5- 7-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre pago subvención en viviendas de renta limitada subvencionadas.</p>
+<p>Sobre pago subvención en viviendas de renta limitada subvencionadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2141. 22- 7-1967</p>
+<p>2141. 22- 7-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por el que se fija el límite del porcentaje de las obras de urbanización en relación con el presupuesto de las viviendas.</p>
+<p>Por el que se fija el límite del porcentaje de las obras de urbanización en relación con el presupuesto de las viviendas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1022. 9- 5-1968</p>
+<p>1022. 9- 5-1968</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre ejecución de obras para subsanar defectos de construcción en viviendas de protección oficial.</p>
+<p>Sobre ejecución de obras para subsanar defectos de construcción en viviendas de protección oficial.</p>
 </td>
 </tr>
 </tbody>
@@ -3934,436 +3934,436 @@ Este Reglamento comenzará a regir el día 1 de enero de 1969.
 
 ## Anexo II — Disposiciones que quedan vigentes
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Anexo al Reglamento</p>
+<p>Anexo al Reglamento</p>
 </td>
 <td>
-<p class="cabeza_tabla">II. Disposiciones que quedan vigentes</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">A. Poblados dirigidos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8- 3-1967</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Creación de Poblados Dirigidos en Madrid.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8-11-1957</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre Poblados Dirigidos en Madrid.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">81.   15-1-1959</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Modificando el régimen de Poblados Dirigidos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">O.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10- 2-1959</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre Gerencias de Poblados Dirigidos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">O.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12- 5-1959</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre locales comerciales en Poblados Dirigidos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2169. 17-11-1960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre locales y servicios complementarios de Poblados Dirigidos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">606.   6- 4-1961</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre financiación de Poblados Dirigidos.</p>
+<p>II. Disposiciones que quedan vigentes</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">B. Papel de fianzas</p>
+<p>A. Poblados dirigidos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11- 3-1949</p>
+<p>8- 3-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre depósito de fianzas en el Instituto Nacional de la Vivienda.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">C. Convenios</p>
+<p>Creación de Poblados Dirigidos en Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">26-10-1956</p>
+<p>8-11-1957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre convenios entre el Instituto Nacional de la Vivienda y la Dirección General de Arquitectura.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1651.  23- 9 1959</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre actuaciones del Instituto Nacional de la Vivienda y la Comisaría de Ordenación Urbana de Madrid en relación con vivienda.</p>
+<p>Sobre Poblados Dirigidos en Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25-10-1960</p>
+<p>81.   15-1-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Convenios del Instituto Nacional de la Vivienda con la Gerencia de Urbanización.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2220. 17-11-1960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Convenios del Instituto Nacional de la Vivienda con Comisaría Ordenación Urbana de Madrid.</p>
+<p>Modificando el régimen de Poblados Dirigidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28- 6-1962</p>
+<p>10- 2-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coordinación del Instituto Nacional de la Vivienda y Comisaría de Urbanismo de Barcelona.</p>
+<p>Sobre Gerencias de Poblados Dirigidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">232.  11- 2-1965</p>
+<p>12- 5-1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Modificando el de 23 de septiembre de 1959.</p>
+<p>Sobre locales comerciales en Poblados Dirigidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>2169. 17-11-1960</p>
+</td>
+<td>
+<p>Sobre locales y servicios complementarios de Poblados Dirigidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>606.   6- 4-1961</p>
+</td>
+<td>
+<p>Sobre financiación de Poblados Dirigidos.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">D. Normas orgánicas del I. N. V.</p>
+<p>B. Papel de fianzas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1317.   6- 6-1968</p>
+<p>11- 3-1949</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre reorganización del Instituto Nacional de la Vivienda.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">E. Familias numerosas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">26- 1-1944</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Premios a familia numerosa.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9-12-1955.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Que dió nueva redacción al artículo 4 de la Ley de 26 de septiembre de 1941.</p>
+<p>Sobre depósito de fianzas en el Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">F. Locales y terrenos propiedad del I. N. V.</p>
+<p>C. Convenios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7- 8-1961</p>
+<p>26-10-1956</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre adjudicación de locales en grupos propiedad del Instituto Nacional de la Vivienda.</p>
+<p>Sobre convenios entre el Instituto Nacional de la Vivienda y la Dirección General de Arquitectura.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30-10-1963</p>
+<p>1651.  23- 9 1959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre adjudicaciones de locales en grupos propiedad del Instituto Nacional de la Vivienda.</p>
+<p>Sobre actuaciones del Instituto Nacional de la Vivienda y la Comisaría de Ordenación Urbana de Madrid en relación con vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1483. 16- 6-1966</p>
+<p>25-10-1960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre enajenación terrenos servicios interés público o social.</p>
+<p>Convenios del Instituto Nacional de la Vivienda con la Gerencia de Urbanización.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1953. 22- 7-1967</p>
+<p>2220. 17-11-1960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por el que se modifica el Decreto anterior.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">G. Ordenanzas</p>
+<p>Convenios del Instituto Nacional de la Vivienda con Comisaría Ordenación Urbana de Madrid.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12- 7-1955.</p>
+<p>28- 6-1962</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre ordenanzas técnicas y normas constructivas de viviendas de renta limitada.</p>
+<p>Coordinación del Instituto Nacional de la Vivienda y Comisaría de Urbanismo de Barcelona.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22- 2-1968</p>
+<p>232.  11- 2-1965</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aprobatoria de ordenanzas adicionales sobre escaleras y chimeneas de ventilación.</p>
+<p>Modificando el de 23 de septiembre de 1959.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">H. Edificios de enseñanza</p>
+<p>D. Normas orgánicas del I. N. V.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1094. 22- 6-1961</p>
+<p>1317.   6- 6-1968</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcciones escolares.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">O.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24- 5-1962</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Que desarrolla el Decreto de 22 de julio de 1961.</p>
+<p>Sobre reorganización del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">I. Edificios del Movimiento</p>
+<p>E. Familias numerosas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">737.   5- 4-1962</p>
+<p>26- 1-1944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre construcciones de edilicios e instalaciones para Organizaciones del Movimiento en grupos de viviendas de protección estatal.</p>
+<p>Premios a familia numerosa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">D.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1187. 30- 4-1964</p>
+<p>9-12-1955.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre creación de cátedras «José Antonio» en los grupos de viviendas de protección oficial.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">J. Edificios religiosos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">D.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">736. 5- 4-1962</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sobre construcción de edificios religiosos en grupos de viviendas de protección estatal.</p>
+<p>Que dió nueva redacción al artículo 4 de la Ley de 26 de septiembre de 1941.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">K. Expedientes sancionadores</p>
+<p>F. Locales y terrenos propiedad del I. N. V.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">22-10-1963</p>
+<p>7- 8-1961</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por el que se determina la responsabilidad de los infractores de las normas de construcción de viviendas de protección oficial</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">L. Inmmobiltarias y benéficas</p>
+<p>Sobre adjudicación de locales en grupos propiedad del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>O.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5-11-1965</p>
+<p>30-10-1963</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobre Entidades benéficas de construcción.</p>
+<p>Sobre adjudicaciones de locales en grupos propiedad del Instituto Nacional de la Vivienda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5-11-1965</p>
+<p>1483. 16- 6-1966</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(Excepto el artículo cuarto.) Sobre Sociedades inmobiliarias para construcción de viviendas de renta limitada.</p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p class="cuerpo_tabla_izq">M. Módulo de construcción</p>
+<p>Sobre enajenación terrenos servicios interés público o social.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">O.</p>
+<p>D.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2- 7-1966</p>
+<p>1953. 22- 7-1967</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fijando módulo de construcción para viviendas de tercera categoría del grupo II.</p>
+<p>Por el que se modifica el Decreto anterior.</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">N. Viviendas de Empresas. Artículo 11 de la Orden 12-7-1956 sobre construcción viviendas para empleados de Empresas.</p>
+<p>G. Ordenanzas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>12- 7-1955.</p>
+</td>
+<td>
+<p>Sobre ordenanzas técnicas y normas constructivas de viviendas de renta limitada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>22- 2-1968</p>
+</td>
+<td>
+<p>Aprobatoria de ordenanzas adicionales sobre escaleras y chimeneas de ventilación.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>H. Edificios de enseñanza</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>1094. 22- 6-1961</p>
+</td>
+<td>
+<p>Sobre construcciones escolares.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>24- 5-1962</p>
+</td>
+<td>
+<p>Que desarrolla el Decreto de 22 de julio de 1961.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>I. Edificios del Movimiento</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>737.   5- 4-1962</p>
+</td>
+<td>
+<p>Sobre construcciones de edilicios e instalaciones para Organizaciones del Movimiento en grupos de viviendas de protección estatal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>1187. 30- 4-1964</p>
+</td>
+<td>
+<p>Sobre creación de cátedras «José Antonio» en los grupos de viviendas de protección oficial.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>J. Edificios religiosos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>736. 5- 4-1962</p>
+</td>
+<td>
+<p>Sobre construcción de edificios religiosos en grupos de viviendas de protección estatal.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>K. Expedientes sancionadores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>22-10-1963</p>
+</td>
+<td>
+<p>Por el que se determina la responsabilidad de los infractores de las normas de construcción de viviendas de protección oficial</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>L. Inmmobiltarias y benéficas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>5-11-1965</p>
+</td>
+<td>
+<p>Sobre Entidades benéficas de construcción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>5-11-1965</p>
+</td>
+<td>
+<p>(Excepto el artículo cuarto.) Sobre Sociedades inmobiliarias para construcción de viviendas de renta limitada.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>M. Módulo de construcción</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O.</p>
+</td>
+<td>
+<p>2- 7-1966</p>
+</td>
+<td>
+<p>Fijando módulo de construcción para viviendas de tercera categoría del grupo II.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>N. Viviendas de Empresas. Artículo 11 de la Orden 12-7-1956 sobre construcción viviendas para empleados de Empresas.</p>
 </td>
 </tr>
 </tbody>

@@ -478,32 +478,6 @@ e) Los hermanos del menor o de la persona con la capacidad modificada judicialme
 
 5\. Si no existen personas del entorno familiar o comunitario que quieran asumir la tutela, la autoridad judicial debe designar a personas jurídicas, públicas o privadas, sin ánimo de lucro, que puedan asumirla satisfactoriamente.
 
-> Téngase en cuenta que esta actualización efectuada por el art. 1 de la Ley 9/2020, de 31 de julio [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741), entra en vigor el 4 de noviembre de 2020, según establece la disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 222-10. Orden de la delación.
-
-> 1\. La designación corresponde a la autoridad judicial si no existe ninguna persona designada por un acto de delación voluntaria, si no procede su nombramiento o si se excusa o cesa por cualquier causa.
-
-> 2\. En el caso a que se refiere el apartado 1, la autoridad judicial prefiere para la tutela a:
-
-> a) El cónyuge o el conviviente en pareja estable de la persona incapacitada, si existe convivencia.
-
-> b) Los descendientes mayores de edad de la persona incapacitada.
-
-> c) Los ascendientes del menor o incapacitado, salvo que se prorrogue o rehabilite la potestad parental.
-
-> d) En caso de muerte del progenitor del menor o incapacitado, el cónyuge o el conviviente en pareja estable de aquel, si convive con la persona que debe ser puesta en tutela.
-
-> e) Los hermanos del menor o incapacitado.
-
-> 3\. No obstante lo establecido por el apartado 2, si lo estima más conveniente para los intereses de la persona menor o incapacitada, la autoridad judicial, mediante resolución motivada, puede alterar el orden establecido o elegir a la persona que ha actuado como asistente o como guardadora de hecho, a las que se presenten voluntariamente para asumir los cargos indicados u a otra persona.
-
-> 4\. Si existen varias personas que quieren asumir la tutela, la autoridad judicial puede remitirlas a una sesión informativa sobre mediación familiar, con la finalidad de que alcancen un acuerdo.
-
-> 5\. Si no existen personas del entorno familiar o comunitario que quieran asumir la tutela, la autoridad judicial debe designar personas jurídicas, públicas o privadas, sin ánimo de lucro, que puedan asumirla satisfactoriamente."
-
 > Se modifica, con efectos de 4 de noviembre de 2020, por el art. 1 de la Ley 9/2020, de 31 de julio. [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741)
 
 **Artículo 222-11. Tutela de hermanos.**
@@ -1882,38 +1856,6 @@ d) La liquidación del régimen económico matrimonial y la división de los bie
 
 7\. Además de lo establecido por los apartados 4, 5 y 6, el convenio regulador puede incluir pactos de sometimiento a mediación y otros mecanismos alternativos de resolución de conflictos».
 
-> Téngase en cuenta que esta actualización efectuada por el art. 2 de la Ley 9/2020, de 31 de julio [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741), entra en vigor el 4 de noviembre de 2020, según establece la disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 233-2. Medidas definitivas.
-
-> 1\. Si los cónyuges llegan a un acuerdo sobre las medidas reguladoras de la separación o el divorcio o sobre las consecuencias de la nulidad del matrimonio, deben formular un convenio con el contenido que proceda de conformidad con los apartados 4, 5 y 6.
-
-> 2\. Si los cónyuges tienen hijos menores no emancipados o con la capacidad modificada judicialmente que dependan de ellos, deben presentar el convenio a la autoridad judicial para que sea aprobado. También deben hacerlo, en todo caso, si se trata de un convenio regulador de las consecuencias de la nulidad del matrimonio.
-
-> 3\. Si los cónyuges no se encuentran en los supuestos del apartado 2, pueden formular el contenido del convenio ante un letrado de la Administración de Justicia o en escritura pública ante notario. En estos casos, es preciso que los cónyuges intervengan personalmente en el otorgamiento, estén asistidos por un letrado en ejercicio y expresen la voluntad inequívoca de separarse o divorciarse.
-
-> 4\. Si los cónyuges tienen hijos comunes que están bajo su potestad, el convenio regulador debe contener:
-
-> a) Un plan de parentalidad, de acuerdo con lo establecido por el artículo 233-9.
-
-> b) Los alimentos que deben prestarles, tanto respecto a las necesidades ordinarias como a las extraordinarias, indicando su periodicidad, modalidad de pago, criterios de actualización y, si lo han previsto, garantías.
-
-> c) Si procede, el régimen de relaciones personales con los abuelos y los hermanos que no convivan en el mismo domicilio.
-
-> 5\. Además de lo establecido por el apartado 4, el convenio regulador también debe contener, si procede:
-
-> a) La prestación compensatoria que se atribuye a uno de los cónyuges, indicando su modalidad de pago y, si procede, la duración, los criterios de actualización y las garantías.
-
-> b) La atribución o distribución del uso de la vivienda familiar con su ajuar.
-
-> c) La compensación económica por razón de trabajo.
-
-> d) La liquidación del régimen económico matrimonial y la división de los bienes en comunidad ordinaria indivisa.
-
-> 6\. Además de lo establecido por los apartados 4 y 5, en el convenio regulador los cónyuges también pueden acordar alimentos para los hijos mayores de edad o emancipados que no tengan recursos económicos propios."
-
 > Se modifica, con efectos de 4 de noviembre de 2020, por el art. 2 de la Ley 9/2020, de 31 de julio. [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741)
 
 > Se modifica por la disposición final 2.18 de la Ley 3/2017, de 15 de febrero. [Ref. BOE-A-2017-2466](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2466).
@@ -1959,24 +1901,6 @@ d) La liquidación del régimen económico matrimonial y la división de los bie
 7\. Los acuerdos alcanzados en la mediación, una vez incorporados en forma al proceso judicial, deben someterse a la aprobación judicial en los mismos términos que el artículo 233-3 establece para el convenio regulador.
 
 8\. Los acuerdos alcanzados en la mediación respecto al régimen de ejercicio de la responsabilidad parental se consideran adecuados para los intereses del menor. La falta de aprobación por la autoridad judicial debe fundamentarse en criterios de orden público y de interés del menor.
-
-> Téngase en cuenta que esta actualización efectuada por el art. 3 de la Ley 9/2020, de 31 de julio [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741), entra en vigor el 4 de noviembre de 2020, según establece la disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 233-6. Mediación familiar.
-
-> 1\. Los cónyuges, en cualquier fase del procedimiento matrimonial y en cualquier instancia, pueden someter las discrepancias a mediación e intentar llegar a un acuerdo total o parcial, excepto en los casos de violencia familiar o machista.
-
-> 2\. El inicio de un proceso de mediación familiar, antes de la interposición de la demanda o en cualquier fase del procedimiento matrimonial, a iniciativa de las partes o por derivación de los abogados o de otros profesionales, está sujeto a los principios de voluntariedad y confidencialidad. En caso de desistimiento, este no puede perjudicar a los litigantes que han participado en dicho proceso.
-
-> 3\. La autoridad judicial puede remitir a los cónyuges a una sesión informativa sobre mediación, si considera que, dadas las circunstancias del caso, aún es posible llegar a un acuerdo.
-
-> 4\. Las partes pueden solicitar de mutuo acuerdo la suspensión del proceso mientras dura la mediación. La comunicación a la autoridad judicial del desistimiento de cualquiera de las partes o del acuerdo obtenido en la mediación da lugar al levantamiento de la suspensión.
-
-> 5\. Los acuerdos obtenidos en la mediación, una vez incorporados en forma al proceso, deben someterse a la aprobación judicial en los mismos términos que el artículo 233-3 establece para el convenio regulador.
-
-> 6\. Los acuerdos conseguidos en mediación respecto al régimen de ejercicio de la responsabilidad parental se consideran adecuados para los intereses del menor. La falta de aprobación por la autoridad judicial debe fundamentarse en criterios de orden público e interés del menor."
 
 > Se modifica, con efectos de 4 de noviembre de 2020, por el art. 3 de la Ley 9/2020, de 31 de julio. [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741)
 
@@ -2935,18 +2859,6 @@ La potestad parental es ejercida exclusivamente por uno de los progenitores en l
 2\. Si los desacuerdos son reiterados o se produce cualquier causa que dificulte gravemente el ejercicio conjunto de la potestad parental, la autoridad judicial puede atribuir total o parcialmente el ejercicio de la potestad a los progenitores separadamente o distribuir entre ellos sus funciones temporalmente, por un período máximo de dos años.
 
 3\. En los procedimientos que se sustancian por razón de desacuerdos en el ejercicio de la potestad parental, los progenitores pueden someter las discrepancias a mediación. Asimismo, la autoridad judicial puede derivarles a una sesión previa de carácter obligatorio para que conozcan el valor, las ventajas, los principios y las características de la mediación. Si así lo acuerdan las partes, a las que debe escucharse, esta sesión puede continuar, en el mismo momento o en uno posterior, con una exploración del conflicto que les afecta. Las partes pueden participar en la sesión previa y en la mediación asistidas por sus abogados. Esta asistencia es necesaria si lo requieren las partes o si así lo dispone la autoridad judicial y debe desarrollarse siempre con pleno respeto por los principios de la mediación y por la igualdad entre las partes.
-
-> Téngase en cuenta que esta actualización efectuada por el art. 4 de la Ley 9/2020, de 31 de julio [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741), entra en vigor el 4 de noviembre de 2020, según establece la disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 236-13. Desacuerdos.
-
-> 1\. En caso de desacuerdo ocasional en el ejercicio de la potestad parental, la autoridad judicial, a instancia de cualquiera de los progenitores, debe atribuir la facultad de decidir a uno de ellos.
-
-> 2\. Si los desacuerdos son reiterados o se produce cualquier causa que dificulte gravemente el ejercicio conjunto de la potestad parental, la autoridad judicial puede atribuir total o parcialmente el ejercicio de la potestad a los progenitores separadamente o distribuir entre ellos sus funciones de modo temporal, por un plazo máximo de dos años.
-
-> 3\. En los procedimientos que se substancien por razón de desacuerdos en el ejercicio de la potestad parental, los progenitores pueden someter las discrepancias a mediación. Asimismo, la autoridad judicial puede remitirlos a una sesión informativa con la misma finalidad."
 
 > Se modifica, con efectos de 4 de noviembre de 2020, por el art. 4 de la Ley 9/2020, de 31 de julio. [Ref. BOE-A-2020-9741](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-9741)
 

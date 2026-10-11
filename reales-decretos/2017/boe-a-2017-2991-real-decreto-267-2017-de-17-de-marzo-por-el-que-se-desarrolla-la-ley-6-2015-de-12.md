@@ -84,12 +84,6 @@ b) **(Sin contenido).**
 
 c) La regulación de la indicación del uso de denominaciones de origen e indicaciones geográficas protegidas como ingrediente en productos transformados, contenida en el artículo 16, que se aplicará también a las denominaciones de origen protegidas e indicaciones geográficas protegidas cuyo ámbito territorial no exceda al de una comunidad autónoma.
 
-> Téngase en cuenta que esta actualización de la letra c), establecida por la disposición final 2.2 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "c) La modificación del Real Decreto 227/2014, de 4 de abril, por el que se aprueba el estatuto de la Agencia de Información y Control Alimentarios y del Real Decreto 66/2015, de 6 de febrero, por el que se regula el régimen de controles a aplicar por la Agencia de Información y Control Alimentarios, previstos en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria."
-
 > Se modifica la letra c) por la disposición final 2.2 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 > Se deja sin contenido el apartado b) por el art. 1.1 del Real Decreto 991/2022, de 29 de noviembre. [Ref. BOE-A-2022-19913](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19913)
@@ -170,18 +164,6 @@ En este sentido y de conformidad con el Reglamento (UE) n.º 2017/625 del Parlam
 
 El Ministerio de Agricultura, Pesca y Alimentación articulará el ejercicio de dicha potestad, conforme a su capacidad autoorganizativa, cuando establezca el sistema de control para cada DOP e IGP, y que podrá ser de manera autónoma o mediante la colaboración de sujetos externos.
 
-> Téngase en cuenta que la actualización de ese artículo, establecida por la disposición final 2.3 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 6. Designación de la autoridad competente.
-
-> De conformidad con el artículo 22.5 de la Ley 6/2015, de 12 de mayo, el control oficial es competencia de la Dirección General de la Industria Alimentaria del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente quien establece el sistema de control para cada DOP e IGP.
-
-> En este sentido y de conformidad con el Reglamento (CE) n.º 882/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar de los animales, la Dirección General de la Industria Alimentaria del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente es la unidad competente en el programa nacional de control oficial respecto a las DOPs e IGPs de ámbito territorial supraautonómico.
-
-> Asimismo, la Dirección General de la Industria Alimentaria es la autoridad competente para llevar a cabo la verificación del cumplimiento de los pliegos de condiciones sin perjuicio de la delegación a la que se refiere el artículo siguiente."
-
 > Se modifica por la disposición final 2.3 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 > Se modifica el último párrafo por el art. 1.2 del Real Decreto 991/2022, de 29 de noviembre. [Ref. BOE-A-2022-19913](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19913)
@@ -195,28 +177,6 @@ Dichos consejos reguladores acreditados actúan como organismos delegados y est�
 2\. En caso de que no exista un consejo regulador constituido como Corporación de Derecho Público, o existiendo no cumpla con los requisitos del apartado anterior o se le haya suspendido o retirado la delegación, el control podrá ejercerse, bien directamente por la autoridad competente, quien podrá en su caso delegar determinadas funciones de control oficial en personas físicas, o bien por un organismo delegado acreditado de conformidad con las normas mencionadas en el artículo 41.1 del Reglamento (UE) 2024/1143 del Parlamento Europeo y del Consejo, de 11 de abril de 2024.
 
 3\. Dichas delegaciones se aprobarán mediante resolución de la persona titular de la Dirección General de Alimentación para cada DOP e IGP.
-
-> Téngase en cuenta que la actualización de ese artículo, establecida por la disposición final 2.3 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 7. Verificación del cumplimiento de los pliegos de condiciones.
-
-> 1\. De conformidad con el artículo 23 de la Ley 6/2015, de 12 de mayo, la verificación de que un producto cumple el pliego de condiciones correspondiente podrá delegarse en uno o varios organismos de control acreditados de conformidad con la norma UNE-EN ISO/IEC 17065/2012 o norma que la substituya.
-
-> La delegación sólo podrá efectuarse sobre un organismo de control que cumpla, además, los siguientes requisitos:
-
-> a) poseer la experiencia, los equipos y la infraestructura necesarios para realizar las tareas que le han sido delegadas,
-
-> b) contar con personal suficiente y con la cualificación y experiencia adecuadas,
-
-> c) ser imparcial y no tener ningún conflicto de intereses en lo que respecta al ejercicio de las tareas que le han sido delegadas.
-
-> Dicha delegación se aprobará mediante resolución del Director General de la Industria Alimentaria para cada DOP e IGP supraautonómicas.
-
-> 2\. En caso de que el organismo de control designado no cumpla con los requisitos del artículo 8 de este real decreto, se le haya retirado o suspendido la acreditación o se verifique el incumplimiento de las obligaciones que se establecen en este real decreto, el control podrá ejercerse, bien directamente por la Dirección General de la Industria Alimentaria como autoridad competente, o bien mediante delegación expresa de dicha Dirección General en otro organismo de control que actúe como organismo de certificación de producto, acreditado de conformidad con la norma UNE-EN ISO/IEC 17065/2012 o norma que la sustituya, de conformidad con lo establecido el artículo 23 de la Ley 6/2015, de 12 de mayo. Si no existiera organismo de control acreditado, el control será ejercido por la Dirección General de la Industria Alimentaria.
-
-> 3\. Los operadores no podrán comercializar producto amparado con el logotipo de la DOP o IGP supraautonómica sin haberse sometido a la verificación del cumplimiento del pliego de condiciones."
 
 > Se modifica por la disposición final 2.3 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
@@ -252,30 +212,6 @@ Las solicitudes se presentarán por medios electrónicos en el Registro General 
 
 5\. Contra dicha resolución, que no pondrá fin a la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Recursos Agrarios y Seguridad Alimentaria en el plazo de un mes a contar desde el día siguiente al de su notificación, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre.
 
-> Téngase en cuenta que la actualización de ese artículo, establecida por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 8. Requisitos para la delegación de tareas de control oficial.
-
-> 1\. Las entidades que pretendan actuar conforme a lo señalado en el artículo anterior como organismos de control delegados deberán presentar una solicitud dirigida a la Dirección General de la Industria Alimentaria, según el modelo establecido en el anexo III, acompañada de:
-
-> a) Tarjeta de identificación fiscal, escritura de constitución o estatutos.
-
-> b) Procedimiento de certificación para el pliego de condiciones correspondiente.
-
-> c) Copia autentica o documento equivalente del certificado de acreditación expedido por un organismo nacional de acreditación para la norma UNE-EN ISO/IEC 17065/2012 o norma que la sustituya, para el pliego de condiciones correspondiente al alcance objeto de certificación, salvo lo dispuesto en la disposición adicional primera.
-
-> d) Memoria justificativa de cumplimiento de los requisitos recogidos en el artículo 7.
-
-> Las solicitudes se presentarán en el Registro General del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, o según lo previsto en los artículos 14 y 16 de la Ley 39/2015, de 1 de octubre.
-
-> 2\. Una vez recibida y examinada la solicitud, junto a la documentación acreditativa, la Dirección General de la Industria Alimentaria podrá solicitar a la entidad cuanta información complementaria le sea precisa para comprobar si cumple las condiciones establecidas en la normativa de controles oficiales.
-
-> 3\. Cuando se estime necesario, una vez verificada y evaluada la documentación presentada o por otras circunstancias concurrentes, se podrá efectuar visita de evaluación.
-
-> 4\. Las solicitudes se resolverán por la Dirección General de la Industria Alimentaria en un plazo máximo de seis meses, plazo que podrá suspenderse de acuerdo con lo dispuesto en el artículo 22 de la Ley 39/2015, de 1 de octubre. El transcurso de dicho plazo sin haberse notificado resolución expresa permitirá al interesado entender desestimada su solicitud."
-
 > Se modifica por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ### Artículo 8 bis. Requisitos para la delegación en personas físicas.
@@ -310,8 +246,6 @@ Las solicitudes se presentarán en cualquiera de los lugares previstos en el art
 
 6\. Contra dicha resolución, que no pondrá fin a la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Recursos Agrarios y Seguridad Alimentaria en el plazo de un mes a contar desde el día siguiente al de su notificación, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
 > Se añade por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ### Artículo 9. Obligaciones de los organismos delegados.
@@ -342,36 +276,6 @@ En el supuesto de que se aprecie que pudiera existir un riesgo para la salud de 
 
 Toda la documentación deberá remitirse por medios electrónicos.
 
-> Téngase en cuenta que la actualización de ese artículo, establecida por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 9. Obligaciones de los organismos de control delegados para la verificación de las tareas de control oficial.
-
-> Además de lo establecido en el artículo 25.4 de la Ley 6/2015, de 12 mayo, los organismos de control en que se haya delegado la verificación del cumplimiento del pliego de condiciones tendrán las siguientes obligaciones:
-
-> 1\. La verificación del cumplimiento del pliego de condiciones de un producto en el ámbito de las tareas de control objeto de delegación.
-
-> 2\. La emisión de los informes o resultados de ensayos preceptivos, controles, inspecciones, auditorías, tomas de muestras y determinaciones analíticas necesarias, así como la expedición del correspondiente certificado de conformidad.
-
-> 3\. La suspensión o retirada de la certificación de conformidad del operador en caso de incumplimiento del pliego de condiciones.
-
-> 4\. La comunicación inmediata con un plazo máximo de 72 horas a la Dirección General de la Industria Alimentaria del de un incumplimiento grave o muy grave una vez constatado, así como de las suspensiones o retiradas de la certificación del operador y de las medidas correctoras adoptadas.
-
-> En el supuesto de que se aprecie que pudiera existir un riesgo para la salud de las personas, la salud animal y vegetal, incluido el material de reproducción vegetal, el medio ambiente o incumplimiento en materia de producción ecológica, calidad comercial o consumo, se comunicará de forma inmediata, con un plazo máximo de 72 horas, a la Dirección General de la Industria Alimentaria, que a su vez lo trasladará a las autoridades competentes.
-
-> 5\. La obligación de informar trimestralmente a la Dirección General de la Industria Alimentaria sobre las no conformidades detectadas a los operadores para los que realice la verificación de cumplimiento del pliego de condiciones correspondiente. Igualmente deberá informar con la misma periodicidad sobre las certificaciones de conformidad de los operadores concedidas, mantenidas, suspendidas o retiradas. Así como, en su caso, las medidas correctoras adoptadas.
-
-> 6\. La gestión de los datos del registro oficial de operadores relativos a las tareas de control oficial objeto de la delegación.
-
-> 7\. La presentación a la Dirección General de la Industria Alimentaria, antes del 15 de noviembre de cada año, del plan de controles del año siguiente.
-
-> 8\. La presentación a la Dirección General de la Industria Alimentaria, antes del 1 de marzo de cada año, del informe anual del año anterior, que recoja el grado de cumplimiento del pliego de condiciones, las actuaciones de inspección o certificación de conformidad, así como el resto de información requerida en el marco del Plan Nacional de Control Oficial de la Cadena Alimentaria y otros datos estadísticos solicitados.
-
-> 9\. La remisión de copia de los informes de auditorías de mantenimiento de la acreditación efectuada por el organismo nacional de acreditación.
-
-> La conservación, durante un plazo mínimo de cinco años, de la documentación relativa a las certificaciones y/o inspecciones que efectúen a los operadores."
-
 > Se modifica por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ### Artículo 9 bis. Obligaciones de las personas físicas delegadas.
@@ -392,8 +296,6 @@ En el supuesto de que se aprecie que pudiera existir un riesgo para la salud de 
 
 Toda la documentación deberá remitirse por medios electrónicos.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
 > Se añade por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ### Artículo 10. Suspensión y retirada de la delegación de las tareas de control oficial.
@@ -411,26 +313,6 @@ c) Comisión de una infracción según lo tipificado en los artículos 31 y 32 d
 3\. Si se detectara el incumplimiento especificado en el apartado b), la Dirección General de Alimentación suspenderá la delegación y se lo comunicará al organismo de control o a la persona física para que alegue en un plazo máximo de diez días lo que considere conveniente, así como las medidas correctoras que en su caso deba tomar. La delegación se retirará sin demora si el organismo de control o la persona física no toma medidas correctoras adecuadas y oportunas.
 
 4\. Todas las resoluciones de suspensión o de retirada de la delegación de las tareas de control se comunicarán a las comunidades autónomas afectadas.
-
-> Téngase en cuenta que la actualización de ese artículo, establecida por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 10. Suspensión y retirada de la delegación de las tareas de control oficial.
-
-> 1\. Los organismos de control que soliciten la retirada de la delegación deberán comunicarlo al menos 3 meses antes de que caduquen los certificados en vigor.
-
-> 2\. Procederá la retirada de oficio en caso de:
-
-> a) Incumplimiento de los requisitos que dieron lugar a la delegación.
-
-> b) Incumplimiento de las obligaciones legalmente establecidas.
-
-> c) Comisión de una infracción grave regulada en el artículo 31.2 y 31.3, o de una infracción muy grave de las reguladas en el artículo 32.2. y 32.3 de la Ley 6/2015, de 12 de mayo.
-
-> 3\. Una vez detectada la existencia de alguna de las causas anteriores, y sin perjuicio de lo establecido en los artículos 23.4 y 29.5 de la Ley 6/2015, de 12 de mayo, la Dirección General de la Industria Alimentaria suspenderá la delegación y se lo comunicará al organismo de control para que alegue en un plazo máximo de diez días hábiles lo que considere conveniente así como las medidas correctoras que en su caso deba tomar. La delegación se retirará sin demora si el organismo de control no toma medidas correctoras adecuadas y oportunas.
-
-> 4\. Todas las resoluciones de suspensión o de retirada de la delegación de las tareas de control se comunicarán a las comunidades autónomas afectadas."
 
 > Se modifica por la disposición final 2.4 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
@@ -490,12 +372,6 @@ Dentro de dicho plazo, la entidad de gestión que se haya constituido como corpo
 
 2\. En el caso de utilización de una misma marca, en productos acogidos a una o varias DOP o IGP de ámbito territorial supraautonómico y en productos no acogidos a las mismas, los operadores presentarán todas las etiquetas y diseños ante la entidad de gestión de las DOP o IGP supraautonómicas. Ésta las remitirá, junto con sus observaciones, a la Dirección General de Alimentación que comprobará, mediante la comparación de etiquetas, formatos u otros elementos de presentación del producto amparado y no amparado por la DOP o IGP supraautonómica que comparten marca comercial, si existen elementos suficientes para diferenciar claramente su calificación y procedencia, a fin de evitar producir confusión a los consumidores. La Dirección General de Alimentación emitirá un informe al respecto en el plazo de un mes.
 
-> Téngase en cuenta que la actualización del apartado 2, establecida por la disposición final 2.5 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "2. En el caso de utilización de una misma marca o presentación, en productos acogidos a una o varias DOP o IGP de ámbito territorial supraautonómico y en productos no acogidos a las mismas, los operadores presentarán todas las etiquetas y diseños ante la entidad de gestión de las DOP o IGP supraautonómicas. Ésta las remitirá, junto con sus observaciones, a la Dirección General de la Industria Alimentaria que comprobará, mediante la comparación de etiquetas, formatos u otros elementos de presentación del producto amparado y no amparado por la DOP o IGP supraautonómica que comparten marca comercial, si existen elementos suficientes para diferenciar claramente su calificación y procedencia, a fin de evitar producir confusión a los consumidores. La Dirección General de la Industria Alimentaria emitirá un informe al respecto en el plazo de un mes."
-
 > Se modifica el apartado 2 por la disposición final 2.5 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ### Artículo 14. Solicitud y reconocimiento de paraje calificado.
@@ -545,8 +421,6 @@ Los productores de alimentos envasados que contengan como ingrediente un vino o 
 2\. Etiqueta que va a utilizar en el correspondiente alimento envasado, que contenga el porcentaje de dicho ingrediente y en la que no figure ningún otro ingrediente comparable.
 
 La agrupación de productores reconocida deberá remitir esta notificación, así como, en su caso, su acuse de recibo, a la autoridad competente, que a su vez la trasladará a las autoridades de control de la calidad comercial y control en mercado para su conocimiento.
-
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 2.6 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5. Anteriormente, este artítulo se encontraba sin contenido.
 
 > Se modifica por la disposición final 2.6 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
@@ -676,14 +550,10 @@ SORAYA SÁENZ DE SANTAMARÍA ANTÓN
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2026/64/5875_16745564_2.png)
 
-> Téngase en cuenta que la actualización de este anexo, establecida por la disposición final 2.7 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
 > Se modifica por la disposición final 2.7 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ## ANEXO IV — Solicitud de delegación de tareas de control oficial en una persona física
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2026/64/5875_16745564_3.png)
-
-> Téngase en cuenta que este anexo, añadido por la disposición final 2.8 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según establece su disposición final 5.
 
 > Se modifica por la disposición final 2.8 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)

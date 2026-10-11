@@ -1002,176 +1002,6 @@ b) La ejecución de la opción de compra a que se refieren los apartados anterio
 
 **(Derogados).**
 
-> Téngase en cuenta que la derogación de los arts. 30 a 38, establecida por la disposición derogatoria única de la Ley 5/2021, de 23 de julio. [Ref. BOE-A-2021-18039](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18039), entra en vigor el 30 de enero de 2022, según determina su disposición final 3.
-
-> Redacción anterior:<br>
-
-> **Artículo 30. Base imponible.**
-
-> 1\. La base imponible del tributo estará constituida por las cantidades que los jugadores dediquen a la participación en el juego, así como cualquier otro ingreso que se pueda obtener directamente derivado de su organización o celebración.
-
-> 2\. En los supuestos que se detallan a continuación, la base imponible será la siguiente:
-
-> a) En los casinos de juego y establecimientos de juegos de casino, la base imponible serán los ingresos brutos que se obtengan procedentes del juego. Se entenderá por ingresos brutos la diferencia entre el importe total de los ingresos obtenidos procedentes del juego y las cantidades satisfechas a los jugadores por sus ganancias.
-
-> No se computará en los citados ingresos la cantidad que, en su caso, se abone por la entrada en las salas reservadas para el juego.
-
-> b) En las modalidades del juego del bingo no electrónico la base imponible será el importe del valor facial de los cartones adquiridos. En la modalidad de juego del bingo electrónico, la base imponible será el importe jugado descontada la cantidad destinada a premios.
-
-> c) En los juegos sometidos a la tasa que se desarrollen por medios electrónicos, informáticos, telemáticos o interactivos, la base imponible estará constituida por las cantidades que los jugadores dediquen a su participación en el juego descontada la cantidad destinada a premios.
-
-> d) En los casos de explotación de máquinas o aparatos de juego, la cuota fija aplicable será determinada de acuerdo con lo establecido en el apartado 2 del artículo 31 para cada máquina o aparato, en función del tipo de máquina y del número de jugadores.
-
-> Opcionalmente, cuando la totalidad del parque de máquinas de juego de los tipos B y C de una empresa operadora esté conectado a un sistema centralizado de control que registre las cantidades jugadas y los premios abonados, la base imponible estará constituida por las cantidades que los jugadores dediquen a su participación en los juegos.
-
-> e) En el caso de que el importe sea satisfecho a través de instrumentos de tarificación adicional, se considerará que la cantidad dedicada a la participación en el juego es el importe de la tarifación adicional, excluido el impuesto indirecto correspondiente. Se considerará que la tarifación adicional es el importe de la cantidad dedicada a la participación en el juego, excluido el coste de la llamada determinado de acuerdo al valor de mercado, cuando resulte de aplicación lo previsto en el artículo 16 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, sin que se consideren a estos efectos los impuestos indirectos que recaigan sobre las operaciones.
-
-> **Artículo 31. Tipos tributarios y cuotas fijas.**
-
-> 1\. Tipos Tributarios:
-
-> a) El tipo tributario general será del 20 por ciento.
-
-> b) Para casinos de juego y establecimientos de juegos de casino, el tipo tributario será el 15 por ciento.
-
-> No obstante, el tipo aplicable será el 10 por ciento, siempre que se acredite la creación y el mantenimiento del empleo, en función de la plantilla media anual.
-
-> La plantilla media anual se calculará a la finalización de cada año en función del número de trabajadores con contrato laboral a jornada completa, así como del número de trabajadores con contrato laboral a tiempo parcial en la proporción que, en estos últimos, represente su jornada respecto a la jornada laboral completa, todo ello, de acuerdo con la normativa laboral que resulte aplicable en cada caso.
-
-> c) El tipo tributario aplicable a las diversas modalidades de bingo es el siguiente:
-
-> 1.º Las modalidades del juego del bingo no electrónico:
-
-> – Bingo tradicional: 20 por ciento.
-
-> – Bingo plus y el bingo americano: 15 por ciento.
-
-> 2.º Bingo electrónico: 20 por ciento.
-
-> d) El tipo tributario aplicable en los juegos efectuados por medios electrónicos, informáticos, telemáticos o interactivos será del 10 por ciento.
-
-> e) En los supuestos en que se hubiera ejercitado la opción establecida en el artículo 30, apartado 2, letra d), el tipo tributario a aplicar a las máquinas o aparatos de juego de los tipos B y C que estén conectadas a un sistema centralizado, será el 6 por ciento.
-
-> 2\. Cuotas fijas:
-
-> a) Máquinas o aparatos de juego del tipo B: cuota semestral de 1.850 euros.
-
-> b) Cuando se trate de máquinas o aparatos del tipo B en los que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por otros jugadores, serán de aplicación las siguientes cuotas:
-
-> 1.º Máquinas o aparatos de dos jugadores: cuota semestral de 3.700 euros.
-
-> 2.º Máquinas o aparatos de tres o más jugadores: la cuota semestral de 3.750 euros más 250 euros por cada puesto de juego, excluidos los dos primeros, de que disponga la máquina.
-
-> c) Máquinas o aparatos de juego del tipo C o de azar: cuota semestral de 2.650 euros.
-
-> d) Cuando se trate de máquinas o aparatos automáticos del tipo C en los que puedan intervenir dos o más jugadores de forma simultánea, y siempre que el juego de cada uno de ellos sea independiente del realizado por otros jugadores, serán de aplicación las siguientes cuotas:
-
-> 1.º Máquinas o aparatos de dos jugadores: cuota semestral de 5.300 euros.
-
-> 2.º Máquinas o aparatos de tres o más jugadores: Se incrementará en 350 euros a la cuota semestral indicada en el número ordinal anterior por cada puesto de juego, excluidos los dos primeros, de que disponga la máquina.
-
-> e) Para las máquinas o aparatos en situación de baja temporal se aplicará una cuota semestral de 200 euros.
-
-> **Artículo 32. Devengo.**
-
-> 1\. La tasa se devenga, con carácter general, por la obtención del título habilitante, sea este o no una autorización administrativa y, en su defecto, por la organización o celebración del juego.
-
-> 2\. En las modalidades del juego del bingo no electrónico, la tasa fiscal se devenga en el momento de suministrar los cartones al sujeto pasivo.
-
-> 3\. Cuando se trate de máquinas o aparatos aptos para la realización de juegos recreativos y de azar, la tasa será exigible por semestres naturales, devengándose el primer día de cada semestre natural en cuanto a las autorizadas en semestres anteriores. Para las máquinas de nueva autorización, el devengo del primer semestre coincidirá con la autorización.
-
-> **Artículo 33. Gestión de la tasa.**
-
-> 1\. La base imponible se determinará en régimen de estimación directa u objetiva. En el primer caso la base se determinará por el sujeto pasivo mediante autoliquidación en la forma y casos determinados por la Consejería competente en materia de hacienda.
-
-> 2\. En los supuestos de bingo electrónico, de máquinas de juego conectadas a un sistema centralizado y de juegos que se desarrollen por medios electrónicos, informáticos, telemáticos o interactivos, el sujeto pasivo deberá disponer de un sistema informático que permita a la Consejería competente en materia de hacienda el control telemático de la gestión y pago de la tasa fiscal correspondiente.
-
-> 3\. El sujeto pasivo que optara por la tributación a un tipo proporcional para las máquinas de juego o aparatos tipos B y C que estén conectadas a un sistema centralizado, deberá permanecer en dicho tipo proporcional durante un periodo de cinco años.
-
-> 4\. El titular de la Consejería competente en materia de hacienda determinará los requisitos y características de los procedimientos de cumplimentación, pago y presentación y aprobará los modelos de autoliquidación para el ingreso de las tasas reguladas en esta subsección, así como, en su caso, los modelos de solicitud necesarios para efectuar la adquisición de cartones.
-
-> **Artículo 34. Pago.**
-
-> 1\. El pago de la tasa fiscal sobre el juego, con carácter general, se efectuará mediante autoliquidación del sujeto pasivo en los términos y condiciones determinados por la Consejería competente en materia de hacienda, pudiendo establecerse por esta, con carácter obligatorio, la presentación y pago por medios electrónicos.
-
-> 2\. En los casinos de juego y establecimientos de juegos, el ingreso de la tasa se efectuará dentro de los veinte primeros días de cada uno de los meses de abril, julio, octubre y enero.
-
-> 3\. En cuanto al pago de la tasa fiscal sobre el juego del bingo:
-
-> a) En el juego del bingo electrónico, el ingreso se efectuará:
-
-> 1.º Respecto de la tasa devengada en los meses de enero a marzo: del 1 al 20 de abril.
-
-> 2.º Respecto de la tasa devengada en los meses de abril a junio: del 1 al 20 de julio.
-
-> 3.º Respecto de la tasa devengada en los meses de julio a septiembre: del 1 al 20 de octubre.
-
-> 4.º Respecto de la tasa devengada en los meses de octubre a diciembre del año anterior: del 1 al 20 de enero.
-
-> b) El pago de la tasa fiscal del resto de modalidades del juego del bingo no electrónico se efectuará con carácter previo a la adquisición de los cartones.
-
-> 4\. En el caso de máquinas o aparatos aptos para la realización de juegos recreativos y de azar:
-
-> a) El ingreso de las cuotas semestrales se realizará en pagos fraccionados trimestrales iguales, que se efectuarán entre los días 1 y 20 de los meses de abril y julio, para el primer semestre, y octubre y diciembre para el segundo semestre.
-
-> b) En el primer semestre de autorización, el pago del trimestre vencido o corriente deberá hacerse en el plazo señalado en el apartado anterior que sea inmediatamente posterior a la fecha de la autorización de la máquina.
-
-> c) El importe de los pagos fraccionados no podrá ser objeto de nuevos aplazamientos o fraccionamientos, ni en período voluntario, ni en período ejecutivo de pago. La presentación de solicitudes de aplazamiento o fraccionamiento de la totalidad o parte de los mismos, o de cualquier otro tipo de solicitud que implique una demora de su pago, no impedirá el inicio del procedimiento administrativo de apremio y se considerará un incumplimiento de las obligaciones tributarias en los términos establecidos en la normativa de aplicación. Estas normas de recaudación serán también aplicables a las liquidaciones que se practiquen por la Administración, así como a todo tipo de autoliquidaciones que se presenten por este concepto.
-
-> d) Producido el devengo de la tasa, la transmisión de la autorización de explotación de una máquina o su cambio de emplazamiento a otro establecimiento que conlleve cambio de provincia dentro de la región, no supondrán, durante el semestre natural en el que se produzcan, modificación del sujeto pasivo obligado a su pago y autoliquidación, ni de la oficina tributaria en la que esta deba presentarse.
-
-> e) Para obtener la devolución de las fianzas exigidas por el artículo 18.1.a) de la Ley 2/2013, de 25 de abril, del juego y las apuestas de Castilla-La Mancha, será requisito necesario que el sujeto pasivo haya ingresado la totalidad de la deuda tributaria devengada y de las sanciones pendientes de pago o solicitado su compensación con cargo a la citada fianza.
-
-> **Artículo 35. Base imponible.**
-
-> 1\. Con carácter general, la base imponible estará constituida por el importe total de las cantidades que los jugadores dediquen a su participación en los juegos, sin perjuicio de lo establecido en los apartados siguientes:
-
-> a) En las rifas y tómbolas la base imponible vendrá constituida por el importe total de los boletos o billetes ofrecidos.
-
-> b) En las combinaciones aleatorias la base imponible vendrá constituida por el valor de los premios ofrecidos. A estos efectos, se entenderá por valor de los premios su valor de mercado, incluyendo en el mismo la suma de todos los gastos necesarios para la puesta a disposición de los premios.
-
-> c) En las apuestas la base imponible se adecuará a las siguientes reglas:
-
-> 1.º Como regla general, la base imponible la constituirán los ingresos brutos, definidos como el importe total de las cantidades que se dediquen a la participación en el juego, así como cualquier otro ingreso que se pueda obtener, directamente derivado de su organización o celebración.
-
-> 2.º No obstante, para las apuestas hípicas y sobre acontecimientos deportivos, de competición o de otro carácter previamente determinado, la base imponible vendrá constituida por la diferencia entre la suma total de las cantidades apostadas y el importe de los premios obtenidos por los participantes.
-
-> 2\. La base imponible se determinará en régimen de estimación directa u objetiva. En el primer caso la base se determinará por el sujeto pasivo mediante autoliquidación en la forma y casos determinados por la Consejería competente en materia de hacienda.
-
-> 3\. En los supuestos de participación a través de medios electrónicos, informáticos, telemáticos o interactivos cuando la base debiera determinarse en función de dicha participación, estos medios deberán contener el procedimiento o los elementos de control necesarios que garanticen su completa exactitud.
-
-> **Artículo 36. Tipos tributarios.**
-
-> 1\. Rifas y tómbolas:
-
-> a) Las rifas y tómbolas tributarán, con carácter general, al 15 por ciento.
-
-> b) Las declaradas de interés social o benéfico tributarán al 5 por ciento.
-
-> 2\. Apuestas:
-
-> El tipo general será el 10 por ciento de las bases definidas en el artículo 35, apartado 1, letra c), números 1.º y 2.º
-
-> 3\. Combinaciones aleatorias el tipo tributario será del 10 por ciento.
-
-> **Artículo 36 bis. Exenciones.**
-
-> 1\. Sin perjuicio de las exenciones establecidas en el artículo 39 del Decreto 3059/1966, de 1 de diciembre, por el que se aprueba el texto refundido de Tasas Fiscales, quedará exenta la celebración de rifas y tómbolas por entidades sin fines lucrativos cuando el valor de los premios ofrecidos no exceda de 3.000 euros.
-
-> 2\. Asimismo, estarán exentas de la tasa sobre rifas, tómbolas, apuestas y combinaciones aleatorias, las apuestas hípicas mutuas que sean organizadas o celebradas por entes de derecho público.
-
-> **Artículo 37. Devengo.**
-
-> 1\. En las rifas, tómbolas y combinaciones aleatorias, la tasa se devengará al concederse la autorización necesaria para cada una de ellas. En defecto de autorización, la tasa se devengará cuando se celebren.
-
-> 2\. En las apuestas la tasa se devenga cuando estas se celebren u organicen.
-
-> **Artículo 38. Pago**.
-
-> 1\. En las rifas y tómbolas, los sujetos pasivos vendrán obligados a practicar la autoliquidación de las mismas en el plazo de los veinte primeros días naturales del mes siguiente a aquel en el que se produzca el devengo.
-
-> 2\. En las apuestas y combinaciones aleatorias, los sujetos pasivos deberán presentar, en los veinte primeros días naturales de cada mes, una autoliquidación referente a las apuestas y combinaciones aleatorias devengadas en el mes anterior."
-
 > Se derogan, con efectos de 30 de enero de 2022, por la disposición derogatoria única de la Ley 5/2021, de 23 de julio. [Ref. BOE-A-2021-18039](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18039)
 
 ## CAPÍTULO II — Normas para la aplicación de los tributos cedidos
@@ -1687,694 +1517,694 @@ Tarifa 1. Por la prestación de servicios de diagnóstico, análisis y dictámen
 
 Tarifa 2. Por la prestación de servicios de diagnóstico, análisis y dictámenes en materia de agricultura a solicitud de persona interesada:
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Muestra</p>
+<p>Muestra</p>
 </td>
 <td>
-<p class="cabeza_tabla">Determinación</p>
+<p>Determinación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Euros/Muestra</p>
+<p>Euros/Muestra</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Tierra.</p>
+<p>Tierra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Textura.</p>
+<p>Textura.</p>
 </td>
 <td rowspan="10">
-<p class="cuerpo_tabla_der">5,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P.H.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Conductividad Eléctrica (C.E.).</p>
+<p>P.H.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carbonatos totales (CO).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Caliza activa (CAL).</p>
+<p>Conductividad Eléctrica (C.E.).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nitrógeno total (N).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Materia orgánica (MO).</p>
+<p>Carbonatos totales (CO).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fósforo (P).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potasio (K).</p>
+<p>Caliza activa (CAL).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Relación C/N (C/N).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Completo (10 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>Nitrógeno total (N).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Abonado (MO, N, P, K, C/N).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>Materia orgánica (MO).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo plantación (PH, CE, CO, CAL).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>Fósforo (P).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agua.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cloruros (CL).</p>
+<p>Potasio (K).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Relación C/N (C/N).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Completo (10 anteriores).</p>
+</td>
+<td>
+<p>30,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Abonado (MO, N, P, K, C/N).</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Tipo plantación (PH, CE, CO, CAL).</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agua.</p>
+</td>
+<td>
+<p>Cloruros (CL).</p>
 </td>
 <td rowspan="11">
-<p class="cuerpo_tabla_der">5,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sulfatos (SO).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Carbonatos (CO).</p>
+<p>Sulfatos (SO).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bicarbonatos (HCO).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Calcio (CA).</p>
+<p>Carbonatos (CO).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Magnesio (MG).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sodio (NA).</p>
+<p>Bicarbonatos (HCO).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potasio (K).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dureza.</p>
+<p>Calcio (CA).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P.H.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Conductividad eléctrica.</p>
+<p>Magnesio (MG).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Completo (11 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">33,00</p>
+<p>Sodio (NA).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fertilizante mineral.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nitrógeno total (N).</p>
+<p>Potasio (K).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Dureza.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>P.H.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Conductividad eléctrica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Completo (11 anteriores).</p>
+</td>
+<td>
+<p>33,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fertilizante mineral.</p>
+</td>
+<td>
+<p>Nitrógeno total (N).</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_der">10,00</p>
+<p>10,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(P) soluble al agua y al Citrato amónico.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">(K) soluble al agua.</p>
+<p>(P) soluble al agua y al Citrato amónico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Completo (3 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>(K) soluble al agua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fertilizante orgánico.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Completo (3 anteriores).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>20,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Fertilizante orgánico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nitrógeno total (N).</p>
+<p>Humedad.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Nitrógeno total (N).</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_der">10,00</p>
+<p>10,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fósforo total (P).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Potasio total (K).</p>
+<p>Fósforo total (P).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materia orgánica (MO).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Completo (5 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>Potasio total (K).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Material foliar.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Materia orgánica (MO).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Completo (5 anteriores).</p>
+</td>
+<td>
+<p>30,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Material foliar.</p>
+</td>
+<td>
+<p>Humedad.</p>
 </td>
 <td rowspan="10">
-<p class="cuerpo_tabla_der">5,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Nitrógeno (N).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Fósforo (P).</p>
+<p>Nitrógeno (N).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potasio (K).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Calcio (CA).</p>
+<p>Fósforo (P).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Magnesio (MG).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cobre (CU).</p>
+<p>Potasio (K).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hierro (FE).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Manganeso (MN).</p>
+<p>Calcio (CA).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Zinc (ZN).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Completo (10 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>Magnesio (MG).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Girasol.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>Cobre (CU).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cebada.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>Hierro (FE).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proteína.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>Manganeso (MN).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calibre.</p>
+<p>Zinc (ZN).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Completo (10 anteriores).</p>
+</td>
+<td>
+<p>30,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Girasol.</p>
+</td>
+<td>
+<p>Humedad.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cebada.</p>
+</td>
+<td>
+<p>Humedad.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Proteína.</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Calibre.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_der">5,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peso de los 1.000 granos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Peso específico (kg/100).</p>
+<p>Peso de los 1.000 granos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Trigo duro.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vitrosidad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>Peso específico (kg/100).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Trigo blando.</p>
+<p>Trigo duro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Vitrosidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proteína.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Trigo blando.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Peso específico.</p>
+<p>Humedad.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Proteína.</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Peso específico.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">5,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Índice de caída.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alveograma.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>Índice de caída.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Maíz.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Alveograma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proteína.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>20,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alfalfa.</p>
+<p>Maíz.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Humedad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proteína.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>5,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grasa.</p>
+<p>Proteína.</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alfalfa.</p>
+</td>
+<td>
+<p>Humedad.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Proteína.</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Grasa.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">10,00</p>
+<p>10,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceniza.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Completo (4 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36,00</p>
+<p>Ceniza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Piensos y forrajes.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Humedad.</p>
+<p>Completo (4 anteriores).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Proteína.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
+<p>36,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Piensos y forrajes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grasa.</p>
+<p>Humedad.</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Proteína.</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Grasa.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">10,00</p>
+<p>10,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceniza.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Completo (4 anteriores).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36,00</p>
+<p>Ceniza.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuos.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Multirresiduos.</p>
+<p>Completo (4 anteriores).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,00</p>
+<p>36,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Residuos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ditiocarbamatos.</p>
+<p>Multirresiduos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80,00</p>
+<p>150,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Ditiocarbamatos.</p>
+</td>
+<td>
+<p>80,00</p>
 </td>
 </tr>
 </table>
@@ -2399,780 +2229,780 @@ e) Grupo V: Locales de inspección de caza y de reses de lidia; otros locales.
 
 Tarifa 1. Por tramitación de la primera inscripción de empresas o establecimientos alimentarios en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Censo Regional de Establecimientos de Alimentación, incluyendo la primera inspección e informe de evaluación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local en m<sup>2</sup></p>
+<p>Superficie del local en m<sup>2</sup></p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º de trabajadores</p>
+<p>N.º de trabajadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo I</p>
+<p>Grupo I</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo II</p>
+<p>Grupo II</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo III</p>
+<p>Grupo III</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo IV</p>
+<p>Grupo IV</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 15</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Uno</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,44</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49,91</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">154,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,21</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Menos de 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 ó 3</p>
+<p>Uno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,23</p>
+<p>36,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">67,38</p>
+<p>49,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119,76</p>
+<p>84,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224,55</p>
+<p>154,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">57,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">84,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">154,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">294,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 15 a 30</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 3</p>
+<p>2 ó 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">67,96</p>
+<p>47,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94,85</p>
+<p>67,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164,69</p>
+<p>119,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">304,38</p>
+<p>224,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4 ó 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">78,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">112,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">199,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">373,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">35,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 5</p>
+<p>Más de 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">89,48</p>
+<p>57,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,76</p>
+<p>84,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">234,55</p>
+<p>154,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">444,1</p>
+<p>294,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 31 a 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">311,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 15 a 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 6 a 10</p>
+<p>Hasta 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,48</p>
+<p>67,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,76</p>
+<p>94,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244,55</p>
+<p>164,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">454,11</p>
+<p>304,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">157,22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">279,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">523,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>35,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 101 a 200</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
+<p>4 ó 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120,21</p>
+<p>78,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167,22</p>
+<p>112,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">289,48</p>
+<p>199,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">533,96</p>
+<p>373,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">De 8 a 15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">130,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">184,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">324,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">603,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,21</p>
+<p>35,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 15</p>
+<p>Más de 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,57</p>
+<p>89,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,14</p>
+<p>129,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">359,33</p>
+<p>234,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">673,67</p>
+<p>444,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Más de 200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">137,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">191,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">331,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">610,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>35,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 31 a 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 8 a 20</p>
+<p>Hasta 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148,7</p>
+<p>88,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">209,14</p>
+<p>122,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">366,33</p>
+<p>209,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">680,67</p>
+<p>311,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 20</p>
+<p>De 6 a 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159,44</p>
+<p>99,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">226,63</p>
+<p>139,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">401,25</p>
+<p>244,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">750,55</p>
+<p>454,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 10</p>
+</td>
+<td>
+<p>110,21</p>
+</td>
+<td>
+<p>157,22</p>
+</td>
+<td>
+<p>279,48</p>
+</td>
+<td>
+<p>523,96</p>
+</td>
+<td>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 101 a 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>120,21</p>
+</td>
+<td>
+<p>167,22</p>
+</td>
+<td>
+<p>289,48</p>
+</td>
+<td>
+<p>533,96</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 15</p>
+</td>
+<td>
+<p>130,97</p>
+</td>
+<td>
+<p>184,69</p>
+</td>
+<td>
+<p>324,38</p>
+</td>
+<td>
+<p>603,8</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 15</p>
+</td>
+<td>
+<p>140,57</p>
+</td>
+<td>
+<p>202,14</p>
+</td>
+<td>
+<p>359,33</p>
+</td>
+<td>
+<p>673,67</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>137,97</p>
+</td>
+<td>
+<p>191,69</p>
+</td>
+<td>
+<p>331,38</p>
+</td>
+<td>
+<p>610,8</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 20</p>
+</td>
+<td>
+<p>148,7</p>
+</td>
+<td>
+<p>209,14</p>
+</td>
+<td>
+<p>366,33</p>
+</td>
+<td>
+<p>680,67</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 20</p>
+</td>
+<td>
+<p>159,44</p>
+</td>
+<td>
+<p>226,63</p>
+</td>
+<td>
+<p>401,25</p>
+</td>
+<td>
+<p>750,55</p>
+</td>
+<td>
+<p>62,21</p>
 </td>
 </tr>
 </table>
 
 Tarifa 2. Por cada modificación de la inscripción registral de empresas o establecimientos alimentarios en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Censo Regional de Establecimientos de Alimentación, incluyendo la inspección e informe de evaluación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local en m<sup>2</sup></p>
+<p>Superficie del local en m<sup>2</sup></p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º de trabajadores</p>
+<p>N.º de trabajadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo I</p>
+<p>Grupo I</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo II</p>
+<p>Grupo II</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo III</p>
+<p>Grupo III</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo IV</p>
+<p>Grupo IV</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 15</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Uno</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,44</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,91</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">145,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16,21</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Menos de 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 ó 3</p>
+<p>Uno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,23</p>
+<p>27,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">58,38</p>
+<p>40,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110,76</p>
+<p>75,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">215,55</p>
+<p>145,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">48,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">145,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">285,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16,21</p>
+<p>16,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 15 a 30</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 3</p>
+<p>2 ó 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57,96</p>
+<p>38,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,85</p>
+<p>58,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154,69</p>
+<p>110,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">294,38</p>
+<p>215,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4 ó 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">68,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">189,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">363,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,21</p>
+<p>16,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 5</p>
+<p>Más de 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79,48</p>
+<p>48,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119,76</p>
+<p>75,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224,55</p>
+<p>145,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">434,1</p>
+<p>285,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 31 a 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">311,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>16,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 15 a 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 6 a 10</p>
+<p>Hasta 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,48</p>
+<p>57,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,76</p>
+<p>84,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244,55</p>
+<p>154,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">454,11</p>
+<p>294,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">157,22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">279,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">523,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 101 a 200</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
+<p>4 ó 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120,21</p>
+<p>68,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167,22</p>
+<p>102,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">289,48</p>
+<p>189,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">533,96</p>
+<p>363,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">De 8 a 15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">130,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">184,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">324,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">603,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 15</p>
+<p>Más de 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,57</p>
+<p>79,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,14</p>
+<p>119,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">359,33</p>
+<p>224,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">673,67</p>
+<p>434,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Más de 200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">137,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">191,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">331,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">610,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 31 a 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 8 a 20</p>
+<p>Hasta 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141,7</p>
+<p>88,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,14</p>
+<p>122,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">359,33</p>
+<p>209,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">673,67</p>
+<p>311,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 20</p>
+<p>De 6 a 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152,44</p>
+<p>99,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219,63</p>
+<p>139,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">394,25</p>
+<p>244,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">743,55</p>
+<p>454,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 10</p>
+</td>
+<td>
+<p>110,21</p>
+</td>
+<td>
+<p>157,22</p>
+</td>
+<td>
+<p>279,48</p>
+</td>
+<td>
+<p>523,96</p>
+</td>
+<td>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 101 a 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>120,21</p>
+</td>
+<td>
+<p>167,22</p>
+</td>
+<td>
+<p>289,48</p>
+</td>
+<td>
+<p>533,96</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 15</p>
+</td>
+<td>
+<p>130,97</p>
+</td>
+<td>
+<p>184,69</p>
+</td>
+<td>
+<p>324,38</p>
+</td>
+<td>
+<p>603,8</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 15</p>
+</td>
+<td>
+<p>140,57</p>
+</td>
+<td>
+<p>202,14</p>
+</td>
+<td>
+<p>359,33</p>
+</td>
+<td>
+<p>673,67</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>137,97</p>
+</td>
+<td>
+<p>191,69</p>
+</td>
+<td>
+<p>331,38</p>
+</td>
+<td>
+<p>610,8</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 20</p>
+</td>
+<td>
+<p>141,7</p>
+</td>
+<td>
+<p>202,14</p>
+</td>
+<td>
+<p>359,33</p>
+</td>
+<td>
+<p>673,67</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 20</p>
+</td>
+<td>
+<p>152,44</p>
+</td>
+<td>
+<p>219,63</p>
+</td>
+<td>
+<p>394,25</p>
+</td>
+<td>
+<p>743,55</p>
+</td>
+<td>
+<p>62,21</p>
 </td>
 </tr>
 </table>

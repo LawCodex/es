@@ -1,0 +1,803 @@
+---
+title: "Ley 8/1997, de 23 de diciembre, por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de arrendamientos y suministros"
+identifier: "BOE-A-1998-2572"
+eli: "https://www.boe.es/eli/es-an/l/1997/12/23/8"
+type: act
+rank: "Ley"
+jurisdiction: es-andalucia
+language: es
+department: "Comunidad Autónoma de Andalucía"
+date: 1997-12-23
+published: 1998-02-06
+in_force_from: 1998-01-01
+last_amended: 2025-12-24
+consolidated: 2026-01-09
+gazette: "Boletín Oficial del Estado núm. 32"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-2572"
+retrieved: 2026-10-11
+---
+
+# Ley 8/1997, de 23 de diciembre, por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de arrendamientos y suministros
+
+Esta norma pasa a denominarse **"Ley 8/1997, de 23 de diciembre, por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de suministros"**, según establece la disposición final 2.1 de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
+
+A todos los que la presente vieren, sabed:
+
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley por la que se aprueban medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación, de función pública y de fianzas de arrendamientos y suministros.
+
+EXPOSICIÓN DE MOTIVOS
+
+1
+
+La presente ley aprueba medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación y de función pública, así como de fianzas de arrendamientos y suministros. Estas medidas regulan materias no relacionadas directamente con el contenido propio de la Ley del Presupuesto o de débil conexión con la esencia de la misma, lo que determina su inclusión en un texto legal de tramitación separada e independiente de aquélla, si bien constituyen, al mismo tiempo, instrumentos de utilidad para coadyuvar al cumplimiento de los objetivos de política económica plasmados en la Ley del Presupuesto de la Comunidad Autónoma.
+
+La ley contiene ochenta y nueve artículos estructurados en dos títulos, el segundo de los cuales, referido a las fianzas de arrendamientos y suministros que deben depositarse en la Administración Autonómica, contiene la regulación legal completa de este ingreso de la Comunidad Autónoma; completándose en su parte final con seis disposiciones adicionales, ocho disposiciones transitorias, una disposición derogatoria, tres disposiciones finales y un anexo.
+
+2
+
+Mediante el capítulo I del título I se crean siete tasas por la prestación de servicios o realización de actividades en materia de turismo y medio ambiente. Al tratarse de servicios que se refieren, afectan o benefician de modo particular a los sujetos pasivos, el coste de la actividad administrativa debe financiarse por los beneficiarios directos de los mismos.
+
+De otro lado, la Directiva del Consejo de la Unión Europea 96/43/CE obliga a efectuar numerosas modificaciones en la vigente tasa por inspección y control de carnes frescas creada y regulada por la Ley 9/1996, de 26 de diciembre, por la que se aprueban medidas fiscales en materia de Hacienda pública, contratación administrativa, patrimonio, función pública y asistencia jurídica a Entidades de derecho público. Ante el alcance de la reforma, la presente ley establece un nuevo texto completo que deroga el establecido por la Ley 9/1996, recogiéndose las nuevas directrices comunitarias que alcanzan a la misma denominación de esta tasa.
+
+3
+
+En el capítulo II del título I se contienen las modificaciones de la Ley General de la Hacienda Pública de la Comunidad Autónoma en la materia presupuestaria que afectan fundamentalmente a las empresas de la Junta de Andalucía y que inciden en el concepto y contenido del presupuesto de la Comunidad Autónoma. En la anterior redacción, el presupuesto de la Comunidad contenía los programas de actuación, inversión y financiación de las empresas y, en su caso, los presupuestos de explotación o de capital si las empresas percibían subvenciones de esta naturaleza con cargo al presupuesto. La presente ley define el presupuesto de la Comunidad como la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la Junta y sus organismos e instituciones y de los derechos que se prevean liquidar durante el ejercicio, así como de las estimaciones de gastos e ingresos a realizar por las empresas, contenidas en los correspondientes presupuestos de explotación y de capital que deben elaborarse aunque aquéllas no perciban subvenciones con cargo al presupuesto.
+
+Asimismo, se modifica el procedimiento de elaboración del anteproyecto de estados de gastos del presupuesto en cuanto a la fecha de remisión a la Consejería de Economía y Hacienda que se hace coincidir con la de los presupuestos de explotación y de capital de las empresas y de elaboración de los programas de actuación, inversión y financiación.
+
+De otro lado, se introduce en la citada Ley General de la Hacienda Pública el artículo 6 bis referido a los consorcios, fundaciones y demás entidades no previstas en dicha Ley en los que sea mayoritaria la representación, directa o indirecta, de la Administración de la Junta de Andalucía o de sus organismos autónomos y empresas, estableciendo las necesarias medidas de control de estas entidades; se modifican determinados preceptos referidos al nivel de vinculación de los créditos, remanentes, ampliaciones y generaciones de créditos; se establece la comunicación a la Consejería de Economía y Hacienda de la situación de los activos y pasivos financieros de los organismos y empresas de la Junta de Andalucía al objeto de mejorar la coordinación de la política financiera de la Comunidad y se regulan las transferencias corrientes a dichas empresas.
+
+4
+
+El capítulo III del título I, referido a recaudación, contiene la modificación del artículo 18 de la Ley General de la Hacienda Pública introduciendo un nuevo número con la finalidad de contemplar, con alcance general, las modificaciones ya establecidas en normas especiales de determinados ingresos, como la Ley 4/1988, de 5 de julio, de Tasas y Precios Públicos de la Comunidad Autónoma de Andalucía, que instituyó a las Consejerías en titulares de la gestión, liquidación y recaudación en período voluntario de dichos ingresos, y a la Consejería de Economía y Hacienda en departamento competente para su recaudación en período ejecutivo, incluyendo los recursos procedentes de la gestión de los organismos autónomos, instituciones y demás entidades.
+
+De esta manera, la presente ley atribuye a la Consejería de Economía y Hacienda el control de la gestión realizada por las Consejerías y entidades en relación a los recursos que tengan atribuidos, así como la recaudación en vía ejecutiva de todos los ingresos de derecho público de la Comunidad, lo que posibilita la gestión unitaria de dicha vía optimizando la misma a la vez que se permite su gestión por cualquiera de las formas previstas en el ordenamiento jurídico.
+
+Las medidas en materia de recaudación se completan, por una parte, con la modificación del artículo 71 de la citada ley general, que prevé que los ingresos puedan realizarse a través de entidad de crédito y ahorro que preste el servicio de caja en el local del órgano de recaudación, a la vez que regula el régimen de las entidades colaboradoras en la gestión recaudatoria de la Comunidad previendo que realicen los ingresos de cualquier naturaleza que la Consejería de Economía y Hacienda determine, incluidos los derivados de la actividad de las Consejerías y organismos, con la consiguiente derogación de las determinaciones contenidas al respecto en el Reglamento General de Tesorería y Ordenación de Pagos, aprobado por Decreto 46/1986, de 5 de marzo. Finalmente, la disposición transitoria primera de la ley contiene determinadas medidas respecto a los ingresos derivados de las funciones de gestión y liquidación de las oficinas liquidadoras de distrito hipotecario.
+
+5
+
+El capítulo IV del título I, relativo a las medidas en materia de contratación administrativa, determina el régimen jurídico aplicable a los contratos de aprovechamientos forestales.
+
+El título I de la ley se cierra con las medidas en materia de Función Pública contenidas en el capítulo V, que modifican los artículos 19, 34 y 37 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía.
+
+La modificación del artículo 19 de la citada Ley 6/1985 contempla la organización del personal funcionario mediante la agrupación en los Cuerpos que procedan. Los Cuerpos complementan los objetivos ordenadores de la relación de puestos de trabajo a efectos de la racionalización de las pruebas de acceso, de la determinación de la carrera administrativa y de la promoción interna.
+
+La reforma del artículo 34 de la repetida ley matiza la valoración de la prestación de servicios laborales en el correspondiente sistema selectivo y la del artículo 37 facilita la promoción interna del personal funcionario.
+
+Finalmente, se establecen cuatro disposiciones transitorias referidas al régimen de la oferta de empleo público durante 1998, al de las convocatorias para plazas correspondientes a puestos de trabajo cuya adscripción haya sido modificada de laboral a funcionario, así como al régimen de las convocatorias para plazas correspondientes a dotaciones de personal interino y de personal laboral temporal del total existente a 31 de diciembre de 1995 y a la jornada lectiva de alcaldes electos.
+
+6
+
+El título II de la ley regula las fianzas de arrendamientos y suministros.
+
+La regulación de las fianzas de los contratos de arrendamiento de vivienda y para uso distinto del de vivienda se efectúa al amparo de las competencias de la Comunidad Autónoma en materia de vivienda que le atribuye el artículo 13.8 del Estatuto de Autonomía, con pleno respeto a las determinaciones contenidas en el artículo 36 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos. En cuanto a las fianzas de los contratos de suministro de agua, gas y electricidad se efectúa en virtud de las competencias autonómicas en recursos y aprovechamientos hidráulicos y sobre régimen energético atribuidas por los artículos 13.12 y 15.5 del Estatuto, al constituir este depósito puro instrumento al servicio de las políticas que cabe entender incluidas en dichos títulos competenciales.
+
+La constitución de fianzas de arrendamientos fue establecida como una exigencia del propietario de fincas urbanas al arrendatario para que respondiera con la misma de los desperfectos ocasionados en la vivienda arrendada, estableciéndose por la Ley de 19 de abril de 1939 que la fianza fuera constituida por el arrendador en un organismo público para garantizar la devolución al arrendatario a la finalización del contrato. En desarrollo de dicha ley se dictó el Decreto de 11 de marzo de 1949 que, además de regular el depósito de las fianzas de alquiler de vivienda o locales de negocios, amplió su obligación a las empresas de suministros o servicios complementarios de la vivienda, estableciendo, al mismo tiempo, el «Papel de Fianzas» para la constitución del depósito en el organismo público recaudador.
+
+Una vez transferidas a la Comunidad Autónoma de Andalucía, mediante Real Decreto 3431/1983, de 28 de diciembre, las funciones relativas a la constitución de fianzas de alquileres y suministros, los Decretos 266/1984, de 10 de octubre, y 396/1986, de 17 de diciembre, establecieron la normativa autonómica necesaria en dicha materia completándose con determinadas disposiciones de las Leyes del Presupuesto de la Comunidad.
+
+Sin embargo, los postulados constitucionales de la garantía patrimonial de los ciudadanos determinan la necesidad de acometer una regulación legal completa de las fianzas de arrendamientos y suministros. Al constituir este depósito obligatorio una prestación patrimonial de carácter público, queda sometido al principio de reserva de ley en los términos del artículo 31.3 de la Constitución.
+
+De otro lado, la regulación de las fianzas de arrendamientos efectuada por el artículo 36 de la nueva Ley de Arrendamientos Urbanos de 1994 hace necesario adecuar a la misma la normativa autonómica, de acuerdo, asimismo, con la previsión contenida en su disposición adicional tercera, que, en sintonía con la tradición normativa en la materia, prevé que las Comunidades Autónomas establezcan la obligación de depositar el importe de la fianza, sin devengo de interés, en la Administración Autonómica.
+
+Hay que señalar que la derogación que efectúa la repetida Ley de Arrendamientos del Decreto de 11 de marzo de 1949 producirá sus efectos en esta Comunidad Autónoma a la entrada en vigor de la presente ley. A ello se añade la derogación que ésta efectúa expresamente en su disposición derogatoria única respecto a las disposiciones reglamentarias autonómicas dictadas en el marco normativo del Decreto de 1949, así como de las normas de vigencia indefinida contenidas en la Ley 7/1996, de 31 de julio, por lo que la regulación del título II de la presente ley pasa a constituir el marco normativo autonómico único de esta materia, sin perjuicio de que se establezcan las previsiones transitorias oportunas hasta que se produzca su desarrollo reglamentario.
+
+El título II se estructura en seis capítulos, distinguiéndose debidamente los aspectos referidos a la obligación de fianza, regulados en la correspondiente normativa específica, de los relativos a la obligación de su depósito obligatorio en la Administración Autonómica.
+
+La ley determina la naturaleza de ingreso de derecho público que le es propia a dichos depósitos obligatorios de fianzas y como tal su régimen de exacción, que en el período ejecutivo se llevará a cabo por la vía de apremio con arreglo a las disposiciones generales reguladoras de dicho procedimiento.
+
+Por otro lado, las fianzas deberán constituirse en efectivo como depósitos sin interés desapareciendo el «Papel de Fianzas», sin perjuicio de que la disposición transitoria sexta de la ley contenga las determinaciones oportunas en orden a garantizar la devolución de los depósitos así constituidos contra la entrega del mismo.
+
+En cuanto a la gestión de los depósitos, la ley establece el régimen general de ingreso en efectivo en la correspondiente Delegación Provincial de la Consejería de Economía y Hacienda, que procederá también a su devolución a la finalización del contrato, y la posibilidad de un régimen especial de concierto para las entidades suministradoras de los servicios de agua, gas y electricidad y determinados arrendadores de fincas urbanas en atención al volumen anual de fianzas a depositar.
+
+Las competencias en esta materia se atribuyen a la Consejería de Economía y Hacienda. No obstante, la disposición final primera autoriza al Consejo de Gobierno a que asigne a otra Consejería determinadas competencias, lo que habrá de efectuarse con aplicación en todo caso de las normas del régimen general relativas al ingreso y devolución a través de la Consejería de Economía y Hacienda.
+
+Asimismo, se autoriza al Consejo de Gobierno para asignar a empresas de la Junta de Andalucía la gestión de fianzas de arrendamientos de acuerdo con las determinaciones establecidas para el régimen concertado.
+
+## TÍTULO I — Medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades, de recaudación, de contratación administrativa y de función pública
+
+### CAPÍTULO I — Medidas en materia tributaria
+
+#### Artículos 1 a 47.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única.1.e) de la Ley 10/2021, de 28 de diciembre. [Ref. BOE-A-2022-758](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-758)
+
+#### Artículos 48 a 54.
+
+**(Sin contenido).**
+
+> Se dejan sin contenido por la disposición final 3.2 de la Ley 23/2007, de 18 de diciembre. [Ref. BOE-A-2008-3180](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3180).
+
+### CAPÍTULO II — Medidas en materia presupuestaria, de empresas de la Junta de Andalucía y otras entidades
+
+#### Artículo 55. Otras entidades.
+
+Se introduce en la ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía el artículo 6 bis, con la siguiente redacción:
+
+«Artículo 6 bis.
+
+1\. Los consorcios, fundaciones y demás entidades con personalidad jurídica propia no incluidas en los artículos anteriores, en los que sea mayoritaria la representación, directa o indirecta, de la Administración de la Junta de Andalucía, sin perjuicio de la legislación específica que les sea de aplicación, se sujetarán a los efectos de esta ley al siguiente régimen:
+
+a) Quedarán sometidos al control de carácter financiero previsto en el artículo 85.1.a) de esta ley y deberán obtener autorización de la Consejería de Economía y Hacienda para la apertura de cualquier clase de cuenta en una entidad de crédito y ahorro.
+
+b) Si percibieran subvenciones corrientes elaborarán un presupuesto de explotación. Asimismo formarán un presupuesto de capital si la subvención fuera de esta clase.
+
+Se entenderá que existe una representación mayoritaria en las citadas entidades cuando más de la mitad de los miembros de los órganos de administración, dirección o vigilancia sean nombrados por la Administración de la Junta de Andalucía o por sus organismos autónomos y empresas.
+
+2\. Para la creación y extinción de las entidades referidas en el número anterior así como para la adquisición o pérdida de la representación mayoritaria, se requerirá autorización del Consejo de Gobierno.»
+
+#### Artículo 56. Concepto del Presupuesto.
+
+Se modifica el artículo 30 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 30.
+
+El Presupuesto de la Comunidad Autónoma constituye la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la Junta y sus organismos e instituciones y de los derechos que se prevean liquidar durante el correspondiente ejercicio, así como de las estimaciones de gastos e ingresos a realizar por las empresas de la Junta de Andalucía.»
+
+#### Artículo 57. Contenido del Presupuesto.
+
+Se da nueva redacción al número 2 del artículo 32 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«2. El Presupuesto contendrá:
+
+a) Los estados de gastos de la Junta y de sus organismos autónomos de carácter administrativo, en los que se incluirán, con la debida especificación, los créditos necesarios para atender el cumplimiento de las obligaciones.
+
+b) Los estados de ingresos de la Junta y de sus organismos autónomos de carácter administrativo, en los que figuren las estimaciones de los distintos derechos económicos a liquidar durante el ejercicio.
+
+c) Los estados de ingresos y gastos de sus instituciones.
+
+d) Los estados de recursos y dotaciones, con las correspondientes estimaciones y evaluaciones de necesidades para el ejercicio, tanto de explotación como de capital, de los organismos autónomos de carácter comercial, industrial, financiero o análogo.
+
+e) Los presupuestos de explotación y de capital de las empresas de la Junta de Andalucía participadas directamente. En el caso de empresas participadas indirectamente los presupuestos de explotación y capital se presentarán de forma consolidada.»
+
+#### Artículo 58. Procedimiento de elaboración del Presupuesto.
+
+Se modifica el primer párrafo de la Regla Primera del artículo 34 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«Primera: Las Consejerías y los distintos órganos e instituciones con dotaciones diferenciadas en el Presupuesto de la Comunidad Autónoma remitirán a la Consejería de Economía y Hacienda, antes del día 1 de julio de cada año, los correspondientes estados de gastos, debidamente documentados, ajustados a las leyes que sean de aplicación y a las directrices aprobadas por el Consejo de Gobierno, a propuesta del titular de la Consejería de Economía y Hacienda.»
+
+#### Artículo 59. Vinculación de los créditos.
+
+Se modifican los párrafos segundo y tercero del número 2 del artículo 38 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que quedan redactados en los siguientes términos:
+
+«En todo caso, tendrán carácter vinculante con el nivel de desagregación con que figuren en los programas de gastos los siguientes créditos:
+
+Incentivos al rendimiento.
+
+Seguridad Social.
+
+Atenciones protocolarias y representativas.
+
+Estudios y trabajos técnicos.
+
+Subvenciones nominativas y las financiadas con transferencias de carácter finalista de la Administración del Estado.
+
+Farmacia.
+
+Créditos de operaciones corrientes financiados con fondos de la Unión Europea, excepto los del FEOGA-Garantía.
+
+Igualmente, serán vinculantes los proyectos que figuran en el Anexo de Inversiones financiados con el Fondo de Compensación Interterritorial y con fondos de la Unión Europea.
+
+A tal efecto, se entenderá por nivel de vinculación aquel que permita asegurar el cumplimiento de los proyectos incluidos en el Fondo de Compensación Interterritorial de acuerdo con lo establecido en el artículo 6.2 de la Ley 29/1990, de 26 de diciembre, reguladora del citado fondo, y de las diferentes acciones de la programación de los fondos europeos.»
+
+#### Artículo 60. Remanentes de créditos.
+
+Se añade una nueva letra d) al número 2 del artículo 40 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactada en los siguientes términos:
+
+«d) Los remanentes de créditos de operaciones de capital financiados con ingresos correspondientes a recursos propios afectados por Ley a un gasto determinado.»
+
+#### Artículo 61. Competencias del titular de la Consejería de Economía y Hacienda.
+
+Se modifica la letra b) del número 1 del artículo 47 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactada en los siguientes términos:
+
+«b) Autorizar ampliaciones de créditos hasta una suma igual a las obligaciones cuyo reconocimiento sea preceptivo. En estos supuestos el mayor gasto se financiará con ingresos no previstos inicialmente o por créditos declarados no disponibles respecto al reconocimiento de obligaciones.»
+
+#### Artículo 62. Competencias del Consejo de Gobierno.
+
+Se modifica la letra d) del artículo 48 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactada en los siguientes términos:
+
+«d) Generaciones de créditos por los resultados positivos y no aplicados de liquidaciones de Presupuestos de ejercicios anteriores o por créditos declarados no disponibles respecto al reconocimiento de obligaciones.»
+
+#### Artículo 63. Presupuestos de explotación y de capital.
+
+Se modifica el artículo 57.3 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 57.3.
+
+Las empresas elaborarán anualmente, además del programa que describe el número 1 de este artículo, un presupuesto de explotación y otro de capital en los que se detallarán los recursos y dotaciones anuales correspondientes.»
+
+#### Artículo 64. Programas de actuación, inversión y financiación.
+
+Se modifica el artículo 59 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 59.
+
+1\. Las empresas elaborarán, antes del 1 de julio de cada año, el programa de actuación, inversión y financiación correspondiente al ejercicio siguiente, complementado con una memoria explicativa del contenido del programa y de las principales modificaciones que presente en relación con el que se halle en vigor.
+
+2\. Los programas se someterán al acuerdo del Consejo de Gobierno a propuesta del titular de la Consejería de Economía y Hacienda, junto con el anteproyecto de Ley del Presupuesto de la Comunidad Autónoma.
+
+3\. Una vez aprobado el Presupuesto de la Comunidad Autónoma de cada ejercicio, durante el mes inmediato siguiente a dicha aprobación, las empresas procederán, en su caso, a ajustar los presupuestos de explotación y de capital así como los programas. Realizados los ajustes se remitirán a la Consejería de Economía y Hacienda a efectos de su publicación mediante Orden de su titular en el “Boletín Oficial de la Junta de Andalucía”.»
+
+#### Artículo 65. Presupuestos, memoria y liquidación.
+
+Se modifica el artículo 60 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 60.
+
+Los presupuestos de explotación y de capital a que se refiere el artículo 57.3 de esta ley, se remitirán por las respectivas empresas a la Consejería de Economía y Hacienda por conducto de la Consejería de que dependan, antes del día 1 de julio de cada año, acompañados de una memoria explicativa de su contenido y de la liquidación del presupuesto del ejercicio inmediato anterior.»
+
+#### Artículo 66. Activos y pasivos financieros de las empresas de la Junta de Andalucía.
+
+Se introducen los números 3 y 4 en el artículo 70 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, con la siguiente redacción:
+
+«3. Los organismos autónomos y empresas de la Junta de Andalucía, dentro de los quince primeros días de cada semestre, pondrán en conocimiento de la Consejería de Economía y Hacienda la situación de sus activos y pasivos financieros correspondiente a 30 de junio y 31 de diciembre de cada año.
+
+Asimismo, comunicarán la situación de sus activos y pasivos financieros cuando así les sea requerido.
+
+4\. Las empresas de la Junta de Andalucía previstas en el artículo 6.1.b) de esta Ley que, en virtud de su normativa específica puedan concertar operaciones de endeudamiento dentro de los límites máximos fijados por la Ley del Presupuesto de cada ejercicio, deberán ser autorizadas por el Consejo de Gobierno a propuesta del titular de la Consejería de Economía y Hacienda.»
+
+#### Artículo 67. Régimen jurídico de la [«Empresa de Gestión Medioambiental, Sociedad Anónima» (EGMASA)].
+
+**(Derogado).**
+
+> Se deroga, con efectos desde la constitución efectiva e inicio de las actividades de la Agencia de Medio Ambiente y Agua de Andalucía, por la disposición derogatoria única.2 de la Ley 1/2011, de 17 de febrero. [Ref. BOE-A-2011-4039](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4039).
+
+> Téngase en cuenta que este art. ya había sido derogado por la disposición derogatoria única.2 del Decreto-ley 5/2010, de 27 de julio y por la disposición derogatoria única.2 del Decreto-ley 6/2010, de 23 de noviembre.
+
+> Se deroga, con efectos desde la constitución efectiva e inicio de las actividades de la Agencia de Medio Ambiente y Agua de Andalucía, por la disposición derogatoria única.2 del Decreto-ley 6/2010, de 23 de noviembre. [Ref. BOJA-b-2010-90060](https://www.boe.es/buscar/doc.php?id=BOJA-b-2010-90060).
+
+> Téngase en cuenta que este art. ya había sido derogado por la disposición derogatoria única.2 del Decreto-ley 5/2010, de 27 de julio.
+
+> Se deroga, con efectos desde la constitución efectiva e inicio de las actividades de la Agencia de Medio Ambiente y Agua de Andalucía, por la disposición derogatoria única.2 del Decreto-ley 5/2010, de 27 de julio. [Ref. BOJA-b-2010-90057](https://www.boe.es/buscar/doc.php?id=BOJA-b-2010-90057).
+
+> Se añade el apartado 7 por el art. 59 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+#### Artículo 68. Ampliación del objeto de la Empresa Pública de Suelo de Andalucía,
+
+1\. **(Derogado).**
+
+2\. La gestión del patrimonio al que se refiere el apartado anterior se realizará separada e independientemente del resto del patrimonio de la citada Empresa Pública de Suelo de Andalucía.
+
+El Consejo de Gobierno establecerá las condiciones a las que la Empresa Pública de Suelo de Andalucía habrá de ajustarse en la gestión del patrimonio cedido, tanto en régimen de arrendamiento como en el caso de compraventa, quedando las viviendas, locales, garajes y edificaciones complementarias sujetos, en todo caso, a la normativa sobre adjudicación y régimen de tenencia de las viviendas de Promoción Pública vigente en cada momento.
+
+Los recursos procedentes de la gestión habrán de ser destinados a la finalidad de financiar las políticas de suelo y de vivienda de la Comunidad Autónoma de Andalucía, en la forma que reglamentariamente se establezca.
+
+> Se deroga, con efectos desde el 1 de enero de 2000, el apartado 1 por la disposición derogatoria única de la Ley 17/1999, de 28 de diciembre. [Ref. BOE-A-2000-1973](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1973).
+
+### CAPÍTULO III — Medidas en materia de recaudación
+
+#### Artículo 69. Ingresos propios de derecho público.
+
+1\. Se modifica el número 1 del artículo 18 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«1. La gestión, liquidación, recaudación, inspección y revisión de sus tributos y demás ingresos propios de derecho público corresponde a la Comunidad Autónoma ajustándose, en todo caso, a lo dispuesto en el Estatuto de Autonomía, a las leyes del Parlamento de Andalucía, a los reglamentos que sean aprobados por el Consejo de Gobierno y a las normas de desarrollo dictadas por el titular de la Consejería de Economía y Hacienda, sin perjuicio de la aplicación de las normas del Estado en los casos que procedan.»
+
+2\. Se introduce un número 4 en el artículo 18 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, con la siguiente redacción:
+
+«4. Corresponde a la Consejería de Economía y Hacienda vigilar, controlar e inspeccionar la gestión, liquidación y recaudación en período voluntario realizada por las Consejerías, organismos autónomos y demás entidades, de los recursos que tengan atribuidos.
+
+Asimismo, le corresponde la recaudación en período ejecutivo de todos los ingresos de derecho público de la Comunidad Autónoma, lo que podrá realizar directamente con sus propios medios o por las demás formas previstas en el ordenamiento jurídico.»
+
+#### Artículo 70. Sistemas de ingreso y medios de pago.
+
+Se modifica el artículo 71 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 71.
+
+1\. Los ingresos de la Tesorería podrán realizarse por los obligados al pago, según se establezca por la Consejería de Economía y Hacienda, en las cuentas de la Tesorería de la Comunidad Autónoma abiertas en el Banco de España y en las entidades de crédito y ahorro, tengan o no la condición de entidades colaboradoras, o directamente en la caja situada en la dependencia del órgano de recaudación. También podrán realizarse a través de entidad de crédito y ahorro que preste el servicio de caja en el local del órgano de recaudación.
+
+La Consejería de Economía y Hacienda podrá establecer cualquier otro lugar de pago atendiendo a las especiales condiciones del mismo y con las necesarias medidas de control.
+
+2\. Las entidades de crédito y ahorro podrán ser autorizadas por la Consejería de Economía y Hacienda como colaboradoras en la gestión recaudatoria de la Comunidad Autónoma para realizar los ingresos de los órganos de recaudación que aquélla determine, tanto de carácter tributario como de otra naturaleza, incluidos los derivados del servicio o actividad de las Consejerías, organismos autónomos y demás entidades y de las multas o sanciones que éstos impongan.
+
+3\. Los ingresos podrán realizarse mediante dinero de curso legal, giros, transferencias, cheques y cualquier otro medio o documento de pago sea o no bancario reglamentariamente establecido.
+
+4\. La Tesorería podrá, asimismo, pagar sus obligaciones por cualquiera de los medios a que se refiere el número anterior.»
+
+### CAPÍTULO IV — Medidas en materia de contratación administrativa
+
+#### Artículo 71. Reajuste de anualidades de los contratos.
+
+1\. En los contratos sujetos a la Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas, procederá, en su caso, el reajuste de las anualidades en los siguientes supuestos:
+
+a) Cuando la ejecución de un contrato haya sufrido paralizaciones o retrasos en su ritmo de ejecución.
+
+b) Cuando se hayan autorizado prórrogas de los plazos parciales o del total.
+
+c) Cuando se haya aprobado la autorización de modificaciones en el contrato que comporte un nuevo plazo de ejecución.
+
+d) Cuando se acuerde la incoación de un expediente de resolución del contrato.
+
+e) Por cualquier otra causa justificada de interés público.
+
+2\. Los reajustes de anualidades se sujetarán al siguiente procedimiento:
+
+Se iniciarán, previa propuesta técnica motivada, mediante resolución del órgano de contratación, en la que se expresarán las causas que determinan el reajuste.
+
+Deberá acreditarse, en todo caso, la existencia de crédito adecuado y suficiente para acordar el reajuste.
+
+Instruido el procedimiento e inmediatamente antes de redactar la propuesta de reajuste se dará audiencia al contratista por un plazo de diez días.
+
+Cumplido el trámite anterior, el órgano de contratación, previa fiscalización, resolverá motivadamente el reajuste de las anualidades del contrato.
+
+3\. En los contratos de obras, el reajuste de anualidades exigirá la inmediata revisión del programa de trabajo, adaptándolo a las nuevas circunstancias.
+
+4\. Cuando como consecuencia del reajuste de anualidades por causa imputable a la Administración se produzcan daños y perjuicios al contratista, éste podrá reclamar los efectivamente producidos de acuerdo con lo dispuesto en la normativa vigente.
+
+> Se modifica el apartado 2 por el art. 30 de la Ley 17/1999, de 28 de diciembre. [Ref. BOE-A-2000-1973](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1973).
+
+#### Artículo 72. Contratos administrativos de aprovechamientos forestales.
+
+Se introduce la disposición adicional cuarta en la Ley 2/1992, de 15 de junio, Forestal de Andalucía, con la siguiente redacción:
+
+«Los contratos administrativos de aprovechamientos forestales, con excepción de los apícolas, que realice la Administración de la Junta de Andalucía, se regirán por lo dispuesto en la Ley de Contratos de las Administraciones Públicas y, en especial, por las normas reguladoras del contrato de obras.»
+
+### CAPÍTULO V — Medidas en materia de función pública
+
+#### Artículo 73. Cuerpos de funcionarios.
+
+Se modifica el número 1 del artículo 19 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 19.
+
+1\. Los Cuerpos complementan los objetivos ordenadores de la relación de puestos de trabajo a efectos de la racionalización de las pruebas de acceso, de la determinación de la carrera administrativa y de la promoción interna.»
+
+#### Artículo 74. Valoración de la prestación de servicios laborales.
+
+Se modifica el artículo 34 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 34.
+
+La prestación de servicios laborales no puede ser considerada como mérito único para la adquisición de la condición de funcionario ni, tratándose de un contrato temporal, para la adquisición de la condición de personal laboral de carácter indefinido, sin perjuicio en ambos casos de su posible reconocimiento y valoración en el correspondiente sistema selectivo.»
+
+#### Artículo 75. Convocatorias y promoción interna de los funcionarios.
+
+Se modifica el artículo 37 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, que queda redactado en los siguientes términos:
+
+«Artículo 37.
+
+1\. Las convocatorias de las pruebas selectivas para los Cuerpos de personal funcionario de la Administración General de la Junta de Andalucía corresponden a la Consejería de Gobernación y Justicia.
+
+2\. La Administración de la Junta de Andalucía facilitará la promoción interna consistente en el ascenso desde Cuerpos de un Grupo de titulación a otros del inmediato superior. Los funcionarios deberán para ello poseer la titulación exigida para el ingreso en los últimos, tener una antigüedad de al menos dos años en el Cuerpo a que pertenezcan, así como reunir los requisitos y superar los procesos selectivos que para cada caso se establezca. Dichos procesos, en los que deberán respetarse los principios de igualdad, mérito y capacidad, podrán llevarse a cabo mediante convocatorias independientes de las de ingreso.
+
+3\. Los funcionarios que accedan a otros Cuerpos por el sistema de promoción interna tendrán en todo caso preferencia para cubrir los puestos de trabajo y vacantes ofertados sobre los aspirantes que no procedan de este turno.
+
+Asimismo, conservarán el grado personal que hubieran consolidado en el Cuerpo de procedencia, siempre que se encuentre incluido en el intervalo de niveles correspondientes al nuevo Cuerpo y el tiempo de servicios prestados en aquéllos será de aplicación, en su caso, para la consolidación del grado personal en éste.»
+
+#### Artículo 76. Creación del Cuerpo Superior Facultativo de Instituciones Sanitarias de la Junta de Andalucía.
+
+1\. Se crea el Cuerpo Superior Facultativo de Instituciones Sanitarias de la Junta de Andalucía, incluyéndose en el Grupo A de los señalados en la disposición adicional quinta de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía.
+
+2\. Se crean, dentro del Cuerpo señalado en el apartado anterior, las siguientes especialidades:
+
+a) Farmacia.
+
+b) Veterinaria.
+
+3\. Para el ingreso en este Cuerpo será necesario poseer la titulación superior que para cada especialidad se establece a continuación:
+
+a) Para la especialidad de Farmacia, la de Farmacia.
+
+b) Para la especialidad de Veterinaria, la de Veterinaria.
+
+4\. Se integran en este Cuerpo y en sus respectivas especialidades los funcionarios que, no estando integrados ya en otro Cuerpo o especialidad de la Junta de Andalucía, ocupan plazas o desempeñan funciones relacionadas con la salud pública en el ámbito del Servicio Andaluz de Salud, y pertenecen actualmente a los Cuerpos y Escalas transferidos a la Junta de Andalucía que a continuación se relacionan:
+
+a) En la especialidad de Farmacia:
+
+Cuerpo de Farmacéuticos Titulares.
+
+b) En la especialidad de Veterinaria:
+
+Cuerpo de Veterinarios Titulares.
+
+5\. Las funciones que se encomiendan a este Cuerpo son las propias de sus respectivas especialidades en los distintos ámbitos de las instituciones sanitarias del Servicio Andaluz de Salud, las que se desempeñarán de acuerdo con la normativa propia existente en dicho ámbito.
+
+Se autoriza al Consejo de Gobierno a propuesta de la Consejería de Salud, a la regulación y desarrollo futuros de dichas funciones.
+
+6\. El Consejo de Gobierno, a propuesta de la Consejería de Salud, regulará el acceso al Cuerpo y la provisión de los puestos y plazas que existían o se creen en su ámbito.
+
+7\. El Consejo de Gobierno, a propuesta de la Consejería de Salud y previo informe de la Consejería de Economía y Hacienda, aprobará su plantilla orgánica, y establecerá su sistema retributivo.
+
+8\. Sin perjuicio de las competencias de la Consejería de Gobernación y Justicia en materia de función pública, la adscripción del Cuerpo, la selección de su personal y su gestión y administración, así como su dependencia funcional corresponderán al Servicio Andaluz de Salud.
+
+9\. Se añade un nuevo epígrafe en la disposición adicional quinta de la ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, en el apartado correspondiente al Grupo «A» de los Cuerpos en ella relacionados, con la siguiente expresión:
+
+«A.4 Cuerpo Superior Facultativo de Instituciones Sanitarias de la Junta de Andalucía. Especialidades:
+
+A.4.1 Farmacia.
+
+A.4.2 Veterinaria.»
+
+#### Artículo 77. Provisión de puestos directivos en los Centros e Instituciones del Sistema Sanitario Público de Andalucía.
+
+1\. Tienen la condición de puestos directivos en estos Centros e Instituciones todos aquellos que aparezcan calificados como tales en la configuración de la plantilla presupuestaria de la Consejería de Salud.
+
+2\. La provisión de estos puestos podrá efectuarse mediante el correspondiente nombramiento a personal estatutario, pasando éste a la situación administrativa que proceda.
+
+3\. Cuando se proponga a personal funcionario para proveer algunos de estos puestos, la provisión se entenderá efectuada por el procedimiento de libre designación.
+
+4\. Cuando el designado no ostente la condición de funcionario de carrera o de personal estatutario fijo, su contratación se ajustará al régimen laboral de alta dirección regulado en el Real Decreto 1382/1985, de 1 de agosto.
+
+> Se modifica el apartado 3 y se añade el apartado 4 por el art. 15 de la Ley 11/1998, de 28 de diciembre. [Ref. BOE-A-1999-2942](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-2942).
+
+## TÍTULO II — Fianzas de suministros
+
+> Se modifica la denominación por la disposición final 2.2 de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+### CAPÍTULO I — Disposiciones generales
+
+#### Artículo 78. Disposiciones generales.
+
+1\. En los contratos de suministro de agua, gas y electricidad será obligatoria la exigencia y prestación de fianza.
+
+2\. Las fianzas deberán constituirse en efectivo como depósito sin interés, en la forma que se determine reglamentariamente.
+
+> Se modifica el apartado 1 por la disposición final 2.3 de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+> Se modifica por el art. 4.1 de la Ley 4/2013, de 1 de octubre. [Ref. BOE-A-2013-11497](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11497).
+
+> Se modifica por el art. 4.1 del Decreto-ley 6/2013, de 9 de abril. [Ref. BOJA-b-2013-90001](https://www.boe.es/buscar/doc.php?id=BOJA-b-2013-90001).
+
+> Se modifica el apartado 2 y se añade el apartado 3 por el art. 66 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+### CAPÍTULO II — Obligación de fianza
+
+#### Artículo 79. Cuantía de las fianzas en los contratos de arrendamiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.e) de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+#### Artículo 80. Cuantía de las fianzas en los contratos de suministro.
+
+En los contratos de suministro de agua, gas y electricidad será obligatoria la exigencia y prestación de fianza, cualquiera que fuere el número de abonados de la entidad suministradora o prestadora del servicio, en la cuantía establecida por la normativa específica para cada supuesto.
+
+#### Artículo 81. Excepciones.
+
+1\. **(Derogado)**
+
+2\. En los contratos de suministro de agua, gas y electricidad quedan exceptuados de prestar fianza la Administración de la Junta de Andalucía, sus organismos autónomos y demás entidades de Derecho Público dependientes de la misma, así como las Universidades públicas competencia de la Comunidad Autónoma.
+
+> Se deroga el apartado 1 por la disposición derogatoria única.e) de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+### CAPÍTULO III — Obligación de depósito
+
+#### Artículo 82. Sujetos obligados a efectuar el depósito.
+
+Están obligados a constituir el depósito correspondiente:
+
+a) **(Derogada)**
+
+b) Las entidades suministradoras de los servicios de agua, gas y electricidad.
+
+> Se deroga la letra a) por la disposición derogatoria única.e) de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+> Se modifica por el art. 4.2 de la Ley 4/2013, de 1 de octubre. [Ref. BOE-A-2013-11497](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11497).
+
+#### Artículo 83. Régimen general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.e) de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+> Se modifica por el art. 4.3 de la Ley 4/2013, de 1 de octubre. [Ref. BOE-A-2013-11497](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11497).
+
+> Se modifica por el art. 4.2 del Decreto-ley 6/2013, de 9 de abril. [Ref. BOJA-b-2013-90001](https://www.boe.es/buscar/doc.php?id=BOJA-b-2013-90001).
+
+> Se modifica el apartado 1 por el art. 67 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+#### Artículo 84. Régimen concertado.
+
+1\. La Consejería competente en materia de vivienda podrá autorizar la liquidación de fianzas por el sistema de régimen concertado, en atención a las condiciones especiales que concurran y al afianzamiento que se ofrezca, cuando lo soliciten:
+
+a) Las entidades suministradoras de los servicios de agua, gas y electricidad.
+
+b) **(Derogada)**
+
+2\. Las entidades suministradoras acogidas al régimen concertado deberán presentar ante la Consejería competente en materia de vivienda o, en su caso, ante sus entidades instrumentales, dentro del mes de enero de cada año, una declaración anual de concierto comprensiva de un estado demostrativo del movimiento de fianzas constituidas durante el año anterior, de las devueltas y del saldo. Se acompañarán relaciones nominales de unas y otras, de acuerdo con el fichero que al efecto sea aprobado por la Consejería competente en materia de vivienda. Dicha Consejería determinará, igualmente, el modelo de impreso de la declaración anual.
+
+Si el saldo fuera positivo, se acompañará también justificante del ingreso en la Tesorería General de la Junta de Andalucía del 90% del importe de las fianzas que tengan en su poder, reservándose el 10% restante para atender la devolución de las fianzas que se soliciten y, en su caso, las responsabilidades a que las mismas estén afectas. Para acreditar el ingreso, se entregará un resguardo conforme al modelo establecido por la Consejería competente en materia de hacienda.
+
+En caso contrario, se reintegrará por la Consejería competente en materia de hacienda la cantidad que proceda, previa aprobación de la declaración anual, en el plazo de tres meses desde la finalización del plazo de su presentación en la Consejería competente en materia de vivienda. De estas actuaciones se dará cuenta con 15 días de antelación a la Consejería competente en materia de hacienda. Transcurrido dicho plazo sin que se haya procedido al reintegro, se devengará el interés legal correspondiente. Los sujetos acogidos al régimen concertado no podrán solicitar el reintegro parcial del depósito hasta la aprobación de la declaración anual.
+
+3\. Procederá la devolución de la totalidad de los depósitos realizados cuando se produzca el cese de la actividad que implique la devolución de la totalidad de las fianzas.
+
+> Se deroga la letra b) del apartado 1 y se modifica el apartado 2 por la disposición derogatoria única.e) y la disposición final 2.4 de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+> Se modifica por el art. 4.4 de la Ley 4/2013, de 1 de octubre. [Ref. BOE-A-2013-11497](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11497).
+
+> Se modifica por el art. 4.3 del Decreto-ley 6/2013, de 9 de abril. [Ref. BOJA-b-2013-90001](https://www.boe.es/buscar/doc.php?id=BOJA-b-2013-90001).
+
+> Se modifica el apartado 1.b) por la disposición final 5 de la Ley 5/2009, de 28 de diciembre. [Ref. BOE-A-2010-886](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-886).
+
+> Se modifica el apartado 2 por el art. 68 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+### CAPÍTULO IV — Inspección y procedimiento de exacción
+
+#### Artículo 85. Competencias de inspección del depósito de fianzas y sancionadora.
+
+1\. La vigilancia del cumplimiento de las disposiciones reguladoras de la obligación del depósito de fianzas, así como las actuaciones sancionadoras en la materia, se realizará por la Consejería competente en materia de vivienda por sí o a través de sus entidades instrumentales, garantizando, en este caso, la debida reserva funcionarial.
+
+El personal designado inspector, conforme a la normativa de aplicación, tendrá en el ejercicio de sus funciones la consideración de agente de la autoridad.
+
+2\. Los sujetos obligados al depósito de la fianza deberán comparecer cuando sean requeridos ante la Inspección para facilitar los datos y documentos que resulten relevantes para verificar o comprobar el exacto cumplimiento de la obligación legal, inclusive las comprobaciones en su contabilidad que se estimen pertinentes.
+
+3\. Los procedimientos de inspección y sancionador se regularán reglamentariamente.
+
+> Se modifica por el art. 4.5 de la Ley 4/2013, de 1 de octubre. [Ref. BOE-A-2013-11497](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11497).
+
+> Se modifica por el art. 4.4 del Decreto-ley 6/2013, de 9 de abril. [Ref. BOJA-b-2013-90001](https://www.boe.es/buscar/doc.php?id=BOJA-b-2013-90001).
+
+#### Artículo 86. Procedimiento de exacción.
+
+1\. Cuando el depósito de la fianza se efectúe fuera del plazo establecido pero antes del inicio de la actuación inspectora, se exigirá un recargo del 20 por 100 con exclusión de las sanciones que, en otro caso, hubieran podido exigirse pero no de los intereses de demora. No obstante, si el ingreso se efectúa dentro de los tres, seis o doce meses siguientes al término del plazo voluntario de ingreso, se aplicará un recargo único del 5, 10 o 15 por 100, respectivamente, con exclusión de los intereses de demora y de las sanciones que hubieran podido exigirse.
+
+2\. Si en el curso de la actuación administrativa se detectara el incumplimiento de la obligación de depositar la fianza se exigirán, además de su importe, los intereses de demora y las sanciones que, en su caso, pudieran corresponder.
+
+3\. Vencido el plazo de su ingreso en periodo voluntario sin que se hubiere efectuado el mismo, su exacción se llevará a cabo por el procedimiento de apremio, con arreglo a las disposiciones generales reguladoras de dicho procedimiento.
+
+> Se modifican los apartados 1 y 2 por el art. 69 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+### CAPÍTULO V — Régimen sancionador
+
+#### Artículo 87. Infracciones.
+
+1\. Tendrán la consideración de infracciones las acciones u omisiones tipificadas en este artículo.
+
+2\. Las infracciones se clasifican en leves, graves y muy graves.
+
+3\. Tendrán la consideración de infracciones leves:
+
+a) La falta de presentación en plazo de la declaración anual en el régimen concertado.
+
+b) El incumplimiento de cualesquiera requisitos, obligaciones y prohibiciones contenidos en esta Ley así como los que, en ejecución de la misma, se establezcan en la normativa de desarrollo, siempre que no esté calificado por esta Ley como infracción grave o muy grave.
+
+4\. Tendrán la consideración de infracciones graves:
+
+a) **(Derogada)**
+
+b) El incumplimiento de la obligación de depositar la cantidad que resulte en el régimen concertado en el plazo establecido en el apartado 2 del artículo 84 de esta Ley.
+
+c) La resistencia, excusa o negativa a las actuaciones de la Administración tendentes a comprobar el efectivo cumplimiento de la obligación de depósito, ya sea en fase de gestión o de inspección.
+
+d) El incumplimiento de los deberes de suministrar datos completos y veraces, informes o antecedentes, así como la falta de aportación de documentos contables o la negativa a su exhibición.
+
+5\. Tendrá la consideración de infracción muy grave la reincidencia en la comisión de una infracción grave de la misma naturaleza en los últimos cuatro años, cuando así haya sido declarado por resolución firme.
+
+6\. Las infracciones tipificadas en este artículo prescribirán en los plazos indicados a continuación:
+
+a) Las leves, al año.
+
+b) Las graves y las muy graves, a los cuatro años.
+
+> Se deroga la letra a) del apartado 4 por la disposición derogatoria única.e) de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+> Se modifica por el art. 70 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+#### Artículo 88. Sanciones.
+
+1\. Las infracciones tipificadas en el artículo anterior se sancionarán, según los casos, mediante multa pecuniaria, fija o proporcional.
+
+2\. La reincidencia en la comisión de las infracciones relacionadas con el régimen concertado podrá llevar consigo, además de la multa pecuniaria, la exclusión del mismo.
+
+3\. Las infracciones leves serán sancionadas con multa de 30 euros hasta 1.800 euros.
+
+4\. Las infracciones graves serán sancionadas con multa pecuniaria proporcional del 50% al 150% del importe del depósito no constituido, para el supuesto contemplado en la letra b) del apartado 4 del artículo 87 de esta ley, y con multa de 300 a 6.000 euros para los supuestos contemplados en las letras c) y d) del mismo apartado y artículo.
+
+5\. Las infracciones muy graves serán sancionadas con el doble de la sanción que se hubiera impuesto por la infracción grave. En el supuesto de cometerse sucesivas infracciones de la misma naturaleza dentro del plazo de cuatro años, la sanción será igual al doble de la que correspondiera a dicha infracción grave en su cuantía máxima.
+
+6\. Las sanciones se graduarán atendiendo a los siguientes criterios:
+
+a) La utilización de medios fraudulentos en la comisión de la infracción o la comisión de ésta por medio de persona interpuesta. A estos efectos, se considerarán medios fraudulentos, principalmente, los siguientes: la existencia de anomalías sustanciales en la contabilidad y el empleo de justificantes u otros documentos falsos o falseados. Cuando esta circunstancia concurra en una infracción sancionada con multa pecuniaria proporcional, el porcentaje de la sanción mínima se incrementará en 40 puntos porcentuales.
+
+b) El tiempo transcurrido desde que debió cumplirse la obligación de depósito. Cuando concurra esta circunstancia en una infracción sancionada con multa proporcional el porcentaje de la sanción se incrementará en 20, 40 ó 60 puntos porcentuales si el tiempo transcurrido excede de uno, dos o tres años, respectivamente.
+
+c) La naturaleza de los perjuicios causados, la existencia de intencionalidad del infractor o reiteración y la reincidencia, cuando no sea determinante de la infracción, conforme se establece en el artículo 131.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+d) En el supuesto de las letras c) y d) del apartado 4 del artículo anterior, además, si los hechos cometidos impidieren la comprobación o averiguación del importe del depósito no constituido.
+
+7\. Cuando el beneficio derivado de la comisión de las infracciones tipificadas en el artículo anterior resulte superior al importe de la sanción que le corresponda de acuerdo con el presente artículo, la cuantía de la misma será incrementada hasta una cantidad equivalente al importe del beneficio obtenido.
+
+8\. El importe de las sanciones procedentes se reducirá en un 30 por 100 si el sujeto obligado acepta regularizar su situación en los términos propuestos por el órgano competente, sin perjuicio de lo previsto en el apartado anterior, que será en todo caso aplicable.
+
+9\. Las sanciones prescribirán en los plazos indicados a continuación:
+
+a) Por infracciones leves, al año.
+
+b) Por infracciones graves y muy graves, a los cuatro años.
+
+> Se modifica el apartado 4 por la disposición final 2.5 de la Ley 5/2025, de 16 de diciembre. [Ref. BOE-A-2026-423](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-423)
+
+> Se modifica por el art. 71 de la Ley 10/2002, de 21 de diciembre. [Ref. BOE-A-2003-992](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-992).
+
+### CAPÍTULO VI — Naturaleza y régimen presupuestario
+
+#### Artículo 89. Naturaleza y régimen presupuestario.
+
+1\. El depósito obligatorio sin interés tendrá la consideración de ingreso de derecho público de la Comunidad Autónoma.
+
+2\. La Consejería de Economía y Hacienda, una vez practicada la liquidación de los saldos de las cuentas de fianzas del ejercicio anterior, incluirá en el anteproyecto del Presupuesto de la Comunidad Autónoma del ejercicio siguiente, como mínimo, créditos por importe del 70 por 100 de dicho saldo para atender programas de vivienda.
+
+#### Disposición adicional primera. Enseñanza a distancia de las universidades andaluzas.
+
+Las Universidades Andaluzas por sí o de forma coordinada podrán impartir enseñanza a distancia, de acuerdo con lo que reglamentariamente se determine.
+
+#### Disposición adicional segunda. Transferencias corrientes a las empresas de la Junta de Andalucía.
+
+**(Derogada).**
+
+> Se deroga, con efectos desde el 1 de enero de 2002, por la disposición derogatoria única de la Ley 15/2001, de 26 de diciembre. [Ref. BOE-A-2002-1221](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1221).
+
+#### Disposición adicional tercera. Personal interino nombrado alto cargo o personal eventual.
+
+Lo dispuesto en el párrafo anterior también será de aplicación al personal interino que acceda a la condición de Diputado del Parlamento de Andalucía, Diputado o Senador de las Cortes Generales y cuando desempeñe cargos electivos en las Corporaciones Locales de Andalucía.
+
+> Se modifica por el art. 132 de la Ley 18/2003, de 29 de diciembre. [Ref. BOE-A-2004-1739](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1739).
+
+#### Disposición adicional cuarta. Reserva de plazas docentes.
+
+Los funcionarios pertenecientes a cuerpos docentes que ocupen puestos de administración general de la Relación de Puestos de Trabajo de las diversas Consejerías de la Junta de Andalucía, podrán obtener una reserva de su plaza docente de procedencia. A tales efectos, el Consejo de Gobierno dictará la normativa habilitante que sea necesaria para regular tal situación especial.
+
+#### Disposición adicional quinta. Condonación de deudas con el Instituto Andaluz de Reforma Agraria.
+
+1\. A aquellas Entidades Asociativas Agrarias concesionarias de tierras públicas del Instituto Andaluz de Reforma Agraria, ubicadas dentro del perímetro del Sector II de la Zona Regable Almonte-Marismas (Huelva), definido por Real Decreto 357/1984, de 8 de febrero, que hayan retirado voluntariamente de la producción de sus tierras de cultivo durante un período de veinte años, se les condonarán, mediante Orden del Consejero de Agricultura y Pesca, las deudas pendientes que mantengan con dicho Organismo hasta la fecha de entrada en vigor de la presente Ley, constituidas en base al canon de utilización de las tierras y de los gastos anticipados por el IARA en concepto de impuestos, guardería, conservación y reposición de instalaciones, canon de riego y energía.
+
+2\. Será de aplicación la condonación de deudas dispuestas en el apartado anterior, a aquellos socios de las Entidades Asociativas que, individualmente, cumplan los requisitos establecidos, afectando a la superficie que proporcionalmente les corresponda. Para ello deberán solicitar previamente la segregación del lote otorgado a la Entidad Asociativa en lotes individuales, de conformidad con lo dispuesto en el artículo 164, párrafo 2.º, del Decreto 402/1986, de 30 de diciembre, por el que se aprueba el Reglamento para la ejecución de la Ley de Reforma Agraria.
+
+#### Disposición adicional sexta. Cambio de titularidad de bienes del Instituto Andaluz de Reforma Agraria.
+
+1\. Las tierras, viviendas y derechos del Instituto Andaluz de Reforma Agraria (IARA) podrán pasar a titularidad de entidades públicas mediante venta o cesión, en la forma que reglamentariamente se determine y en cumplimiento de su función social. Asimismo, y complementariamente a lo establecido en la Ley de Reforma Agraria, podrán enajenarse a favor de las personas físicas y jurídicas para el cumplimiento de fines de interés agrario, dando un trato preferente a aquellas que reúnan los requisitos contemplados en los artículos 4, 5 y 6 de la Ley 19/1995, de 4 de julio.
+
+2\. Se autoriza al presidente del IARA al aplazamiento y fraccionamiento de las deudas de los adjudicatarios de bienes del Instituto, previo expediente de liquidación de la deuda pendiente con audiencia del interesado y por el procedimiento que reglamentariamente se establezca.
+
+Se podrá igualmente, mediante causa justificada, reducir el plazo de concesión y otorgamiento de escrituras.
+
+3\. Las actuaciones en ejecución de los planes y programas de infraestructuras agrarias y de regadíos, aprobados y cofinanciados por la Unión Europea, cualquiera que sea su ubicación en el territorio andaluz, corresponderán al Instituto Andaluz de Reforma Agraria y se determinarán mediante resolución de su Presidente.
+
+Las inversiones que deban ser reintegradas parcialmente por los beneficiarios, así como aquellas relativas a infraestructuras agrarias y de regadíos, no previstas en el párrafo anterior, corresponderán, igualmente, al IARA, previa determinación por orden del titular de la Consejería de Agricultura y Pesca.
+
+Las disposiciones previstas en los apartados anteriores se adoptarán con las mismas facultades previstas en el capítulo III del título III del Decreto 402/1986, de 30 de diciembre, y contendrán, en todo caso, la clasificación de las obras, su financiación y los titulares y beneficiarios a los que se prevé la entrega para su gestión y conservación, adecuándose el resto del procedimiento a la normativa administrativa general.
+
+> Se modifica el apartado 3 por la disposición adicional 1 de la Ley 17/1999, de 28 de diciembre. [Ref. BOE-A-2000-1973](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1973).
+
+#### Disposición transitoria primera. Ingresos derivados de las funciones de gestión y liquidación de las oficinas liquidadoras de distrito hipotecario.
+
+**(Derogada).**
+
+> Se deroga, con efectos desde el 1 de enero de 2000, por la disposición derogatoria única de la Ley 17/1999, de 28 de diciembre. [Ref. BOE-A-2000-1973](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-1973).
+
+#### Disposición transitoria segunda. Régimen de la oferta de empleo público durante 1998.
+
+1\. Durante el año 1998 se suspende la vigencia de los artículos 35 y 36 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, en lo relativo:
+
+A la obligatoriedad de publicación y al plazo de aprobación de la oferta de empleo público.
+
+A la necesidad de que la oferta de empleo público contenga la relación de las vacantes dotadas no cubiertas.
+
+2\. Durante 1998 el Consejo de Gobierno podrá autorizar, con carácter excepcional, a propuesta del titular de la Consejería de Gobernación y Justicia o, en su caso, de los organismos competentes en la materia, y con el informe favorable de la Consejería de Economía y Hacienda, la convocatoria de aquellas plazas que considere imprescindibles para el buen funcionamiento de la Administración Pública.
+
+3\. Durante 1998 no se procederá al nombramiento de nuevos funcionarios interinos en el ámbito de la Administración General, salvo en casos excepcionales y para cubrir necesidades urgentes e inaplazables y con autorización previa de las Consejerías de Gobernación y Justicia y de Economía y Hacienda.
+
+4\. Sólo en casos excepcionales y para cubrir necesidades urgentes que no puedan ser atendidas por el personal laboral fijo, podrá contratarse personal laboral temporal durante 1998 para programas específicos o relativos a necesidades estacionales no superiores al citado período. En este supuesto, deberá acreditarse por la Consejería competente la existencia de crédito para tal fin. Los citados programas necesitarán la autorización previa de la Consejería de Gobernación y Justicia.
+
+En cualquier caso, los contratos de este tipo finalizarán automáticamente al vencer su plazo temporal, o al desaparecer la causa que originó su formalización.
+
+#### Disposición transitoria tercera. Convocatorias para plazas correspondientes a puestos de trabajo cuya adscripción haya sido modificada de laboral a funcionario.
+
+1\. Durante el ejercicio 1998, la Consejería de Gobernación y Justicia convocará pruebas selectivas de acceso en relación a puestos de trabajo cuya adscripción se modifique de laboral a funcionario, conforme a la legislación vigente. En dichas pruebas podrá participar el personal laboral fijo de la Administración General de la Junta de Andalucía que ocupe puestos de trabajo cuya adscripción haya sido modificada de laboral a funcionario hasta la fecha de la publicación de la convocatoria, debiendo reunir los requisitos legales exigidos y poseer la titulación correspondiente, debiendo valorarse como mérito los servicios efectivos prestados en su condición de laboral y las pruebas selectivas superadas para acceder a la misma.
+
+2\. Lo previsto en el número anterior será también de aplicación al personal laboral en los casos de suspensión con reserva de puesto, de acuerdo con lo establecido en la normativa vigente.
+
+3\. La adscripción de un puesto de trabajo en las correspondientes relaciones a personal funcionario no implicará el cese del laboral fijo que lo viniera desempeñando, que podrá permanecer en el mismo sin menoscabo de sus expectativas de promoción profesional, sin perjuicio de que, en caso de cesar en su desempeño, sea ocupado por personal funcionario.
+
+4\. El personal afectado por la funcionarización que supere las pruebas selectivas de acceso quedará destinado en el puesto de trabajo de personal funcionario en que su puesto se haya reconvertido.
+
+#### Disposición transitoria cuarta. Convocatorias para plazas correspondientes a dotaciones de personal interino y de personal laboral temporal del total existente a 31 de diciembre de 1995.
+
+1\. **(Anulado).**
+
+2\. En las convocatorias correspondientes a dotaciones de personal laboral temporal existentes a 31 de diciembre de 1995 el sistema de selección será el de concurso libre. No obstante, de acuerdo con lo establecido en el convenio colectivo de aplicación al personal laboral, y en razón de las funciones y tareas a desempeñar, podrá exigirse además la superación de pruebas objetivas o teórico-prácticas que se determinen en las correspondientes convocatorias.
+
+En el concurso se valorarán, entre otros, los siguientes méritos, de conformidad con el baremo que se determine en la correspondiente orden de convocatoria: experiencia profesional, antigüedad en las distintas Administraciones Públicas, cursos de formación y perfeccionamiento y titulaciones académicas.
+
+> Se declara la nulidad del apartado 1 por sentencia del TC 27/2012, de 1 de marzo. [Ref. BOE-A-2012-4319](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4319).
+
+#### Disposición transitoria quinta. Jornada lectiva de alcaldes electos.
+
+Con vigencia exclusiva para 1998, los funcionarios de carrera de la Consejería de Educación y Ciencia de la Junta de Andalucía que, encontrándose en activo en centros docentes de Educación Infantil, Primaria o Secundaria, ejerzan un cargo electo como alcalde o alcaldesa en municipios cuya población sea inferior a 20.000 habitantes, sin estar en régimen de dedicación exclusiva para tal cargo ni ocupar puesto directivo en dicho centro, y que se hubieran acogido a la disposición adicional decimocuarta de la Ley 7/1996, de 31 de julio, del Presupuesto de la Comunidad Autónoma de Andalucía para 1996, deberán impartir nueve horas lectivas semanales, correspondiendo a la jefatura de estudios del centro la acomodación de esta jornada lectiva al horario que se considere más adecuado en cada caso, a fin de que pueda compatibilizarse con el ejercicio del cargo sin menoscabo para la enseñanza.
+
+#### Disposición transitoria sexta. Papel de Fianzas.
+
+1\. Los depósitos constituidos mediante «Papel de Fianzas» con anterioridad a la entrada en vigor de esta ley surtirán los mismos efectos que el ingreso en efectivo conforme al régimen general regulado en la presente Ley.
+
+2\. Los depósitos constituidos con anterioridad a la entrada en vigor de esta ley por medio del «Papel de Fianzas» serán devueltos a la finalización del contrato correspondiente contra la entrega del mismo y en el plazo y forma referidos en el artículo 83.2 de la presente ley. En caso de extravío, hurto o destrucción del «Papel de Fianzas» serán de aplicación las normas contenidas en el Código de Comercio sobre documentos de crédito al portador.
+
+3\. El «Papel de Fianzas» sin utilizar existente a la entrada en vigor de esta ley se retirará de la circulación procediéndose a su destrucción.
+
+#### Disposición transitoria séptima. Régimen concertado de liquidación de fianzas.
+
+1\. Hasta que se aprueben las disposiciones reglamentarias correspondientes, será de aplicación lo dispuesto en la Orden de 11 de diciembre de 1985, por la que se dictan normas para la declaración anual de los conciertos de fianzas de arrendamientos y suministros, en todo lo que no se oponga a lo dispuesto en el título II de la presente ley.
+
+2\. Las disposiciones sobre régimen concertado contenidas en el artículo 84.2 y 3 de esta ley se aplicarán a los sujetos que a la entrada en vigor de la misma estuvieran acogidos al régimen concertado aunque no reúnan los requisitos establecidos en el número 1 de dicho artículo.
+
+#### Disposición transitoria octava. Procedimiento de inspección de fianzas.
+
+Hasta que se aprueben las disposiciones reglamentarias previstas en el artículo 85.3 de esta ley y en lo que no se oponga a la misma, se aplicará el procedimiento previsto en el Reglamento General de la Inspección de los Tributos, aprobado por Real Decreto 939/1986, de 25 de abril.
+
+#### Disposición derogatoria única.
+
+A la entrada en vigor de la presente ley, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la misma y, expresamente, las siguientes:
+
+Las disposiciones adicionales cuarta y decimonovena de la Ley 7/1996, de 31 de julio, del Presupuesto de la Comunidad Autónoma de Andalucía para 1996.
+
+Los artículos 13 a 21, ambos inclusive, de la Ley 9/1996, de 26 de diciembre, por la que se aprueban medidas fiscales en materia de Hacienda Pública, contratación administrativa, patrimonio, Función Pública y asistencia jurídica a entidades de Derecho Público.
+
+El Decreto 266/1984, de 10 de octubre, por el que se regula la constitución de fianzas de arrendamientos y suministros.
+
+Las referencias a los «tributos» contenidas en el párrafo primero del artículo 4.6 y en el artículo 17.3 del Reglamento General de Tesorería y Ordenación de Pagos, aprobado por Decreto 46/1986, de 5 de marzo.
+
+El Decreto 396/1986, de 17 de diciembre, sobre cuantías de fianzas de arrendamientos y suministros.
+
+La Orden de 11 de diciembre de 1985, por la que se dictan normas para la declaración anual de los conciertos de fianzas de arrendamientos y suministros, sin perjuicio de lo establecido en la disposición transitoria séptima.1 de esta ley.
+
+#### Disposición final primera. Competencias en materia de fianzas.
+
+Las competencias asignadas a la Consejería competente en materia de vivienda en el título II de la presente ley y, en particular, en su artículo 85 podrán atribuirse por el Consejo de Gobierno a otra Consejería o entidad pública dependiente de la Administración autonómica.
+
+> Se modifica por el art. 4.6 de la Ley 4/2013, de 1 de octubre. [Ref. BOE-A-2013-11497](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11497).
+
+> Se modifica por el art. 4.5 del Decreto-ley 6/2013, de 9 de abril. [Ref. BOJA-b-2013-90001](https://www.boe.es/buscar/doc.php?id=BOJA-b-2013-90001).
+
+#### Disposición final segunda. Desarrollo reglamentario.
+
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de esta ley.
+
+#### Disposición final tercera. Entrada en vigor.
+
+La presente ley entrará en vigor el día 1 de enero de 1998.
+
+Sevilla, 23 de diciembre de 1997.
+
+MANUEL CHAVES GONZÁLEZ,
+
+Presidente
+
+## ANEXO — Convocatorias para plazas correspondientes a dotaciones de personal interino existentes a 31 de diciembre de 1995
+
+Fase de concurso
+
+**(Anulado).**
+
+Fase de oposición:
+
+a) Cuerpos y especialidades del Grupo A:
+
+Primer ejercicio. Consistirá en contestar a un cuestionario de preguntas de respuestas alternativas sobre el programa de materias aprobado.
+
+Segundo ejercicio. Consistirá en la exposición por escrito, durante un tiempo máximo de dos horas, de un tema general relacionado con las materias que integran el programa, y a elegir de entre tres propuestos por el Tribunal. El ejercicio será leído ante el Tribunal en sesión pública, pudiendo aquél dirigirse al candidato al final del mismo para aclarar cuestiones relacionadas con la exposición, valorándose los conocimientos, la claridad y orden de ideas y la calidad de expresión escrita.
+
+b) Cuerpos y especialidades del Grupo B:
+
+Primer ejercicio. Consistirá en contestar a un cuestionario de preguntas de respuestas alternativas sobre el programa de materias aprobado.
+
+Segundo ejercicio. Consistirá en la exposición por escrito, durante un tiempo máximo de dos horas, de un tema general relacionado con las materias que integran el programa, y a elegir de entre tres propuestos por el Tribunal. El ejercicio será leído ante el Tribunal en sesión pública, pudiendo aquél dirigirse al candidato al final del mismo para aclarar cuestiones relacionadas con la exposición, valorándose los conocimientos, la claridad y orden de ideas y la calidad de expresión escrita.
+
+c) Cuerpos del Grupo C:
+
+Primer ejercicio. Consistirá en contestar a un cuestionario de preguntas de respuestas alternativas sobre el programa de materias aprobado.
+
+Segundo ejercicio. Consistirá en realizar un ejercicio práctico adecuado a las funciones propias del Cuerpo a que se aspira, y relacionados con el programa de materias aprobado.
+
+d) Cuerpos del Grupo D:
+
+Primer ejercicio. Consistirá en contestar a un cuestionario de preguntas de respuestas alternativas sobre el programa de materias aprobado.
+
+Segundo ejercicio. Consistirá en la realización de un ejercicio práctico adecuado a las funciones propias del Cuerpo a que se aspira.
+
+> Se declara la nulidad en la parte relativa a la valoración de los méritos en la fase de concurso, por sentencia del TC 27/2012, de 1 de marzo. [Ref. BOE-A-2012-4319](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-4319).

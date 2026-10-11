@@ -1,0 +1,243 @@
+---
+title: "Orden PRA/215/2018, de 1 de marzo, por la que se regulan las funciones, facultades y cometidos de los empleos de suboficial mayor y de cabo mayor de la Guardia Civil"
+identifier: "BOE-A-2018-3082"
+eli: "https://www.boe.es/eli/es/o/2018/03/01/pra215"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia y para las Administraciones Territoriales"
+date: 2018-03-01
+published: 2018-03-06
+in_force_from: 2018-03-07
+last_amended: 2025-10-31
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 57"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-3082"
+retrieved: 2026-10-11
+---
+
+# Orden PRA/215/2018, de 1 de marzo, por la que se regulan las funciones, facultades y cometidos de los empleos de suboficial mayor y de cabo mayor de la Guardia Civil
+
+El personal de la Guardia Civil está ordenado en empleos, categorías y escalas. Los miembros de la escala de suboficiales están destinados a desarrollar acciones ejecutivas y las directivas correspondientes a su nivel, debiendo ser estrechos colaboradores de los oficiales y líderes para sus subordinados. En esta escala hay una sola categoría, siendo el empleo superior el de suboficial mayor. A este empleo se asciende por el sistema de elección, tras haber superado el correspondiente curso de capacitación.
+
+Por su parte, los miembros de la escala de cabos y guardias constituyen el elemento primordial de la estructura orgánica de la Guardia Civil, dependiendo en gran medida la eficacia del Cuerpo de su profesionalidad, iniciativa y preparación. El empleo superior de la escala de cabos y guardias es el de cabo mayor, al que también se asciende por el sistema de elección, tras haber superado el correspondiente curso de capacitación.
+
+Ambos empleos son relativamente recientes, ya que el de suboficial mayor fue creado en las Fuerzas Armadas por la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, mientras que el de cabo mayor lo fue por la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas. En la Guardia Civil el primero de ellos fue introducido por la Ley 28/1994, de 18 de octubre, por la que se completa el régimen del personal del Cuerpo de la Guardia Civil, y el de cabo mayor por la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil.
+
+El objetivo perseguido con la creación de estos empleos fue completar la trayectoria profesional de los miembros de la escala de suboficiales y de la escala de cabos y guardias, permitiendo al personal de cada una de ellas alcanzar la máxima realización profesional y servir como un referente permanente para los demás miembros de la escala respectiva.
+
+Como empleos superiores de sus correspondientes escalas, se les dota de unas facultades, funciones y cometidos con los que aprovechar sus conocimientos y experiencia en sus anteriores empleos, para que sean un factor de cohesión de cada unidad, centro u organismo perteneciente o adscrito a la Guardia Civil. Además, se constituyen como un importante elemento de apoyo y asesoramiento al mando de las mismas, para mejorar las condiciones de trabajo, y la conciliación de la vida profesional, personal y familiar.
+
+Para el mejor logro de estos fines, se promueve que, con su trato directo y personal con los miembros de la unidad, centro u organismo y asociaciones profesionales de la Guardia Civil, conozcan de primera mano las inquietudes y necesidades del personal de su escala.
+
+Por otro lado, con la finalidad de dotarles de una mayor independencia y un alto nivel de interlocución, se les hace depender directamente de los mandos de unidad de mayor nivel donde se encuentren destinados.
+
+Actualmente la Orden de 25 de julio de 2000 y la Orden PRE/3288/2006, de 23 de octubre, regulan respectivamente, el empleo y funciones del Suboficial Mayor y del Cabo Mayor en el Cuerpo de la Guardia Civil, al objeto de concretar y aclarar el papel que desempeñan cada uno de ellos en la organización interna de dicho Instituto.
+
+La experiencia acumulada tras el tiempo transcurrido, junto con los grandes cambios que se han ido introduciendo en el estatuto del personal de la Guardia Civil, hacen conveniente modificar esas órdenes para actualizar su contenido y dar soluciones prácticas a cuestiones de organización interna que han ido surgiendo en estos últimos años, además de fijar criterios que ayuden a mejorar el desempeño de las labores encomendadas a cada uno de ellos, beneficiando así al Cuerpo en su conjunto.
+
+Esta orden ha sido informada por el Consejo de la Guardia Civil, en cumplimiento de lo dispuesto en el artículo 54 de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil.
+
+En su virtud, a propuesta de los Ministros del Interior y de Defensa, con la aprobación previa del Ministro de Hacienda y Función Pública, dispongo:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+Esta orden tiene por objeto regular las funciones, facultades y cometidos que pueden desempeñar los suboficiales mayores y los cabos mayores, los criterios para determinar los puestos que les corresponden en las plantillas orgánicas y las facultades que confieren estos empleos en el Cuerpo de la Guardia Civil.
+
+### Artículo 2. Ámbito de aplicación.
+
+Esta orden es de aplicación a los suboficiales mayores y cabos mayores de la Guardia Civil en las situaciones administrativas de servicio activo y reserva, que ocupen puestos de trabajo del catálogo de la Guardia Civil con las siguientes excepciones:
+
+a) Quienes pasen a prestar servicios en la Casa de Su Majestad el Rey.
+
+b) Los que obtengan destinos en órganos ajenos a la estructura orgánica de la Guardia Civil, y demás destinos contemplados en el artículo 75.1 de la Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil.
+
+c) Los que presten servicios en el Centro Nacional de Inteligencia.
+
+d) Aquellos que ocupen un puesto en el extranjero.
+
+e) Quienes ocupen un puesto de trabajo que sea consecuencia de la suscripción de convenios u otros instrumentos de colaboración.
+
+### Artículo 3. Unidades con personal de los empleos de suboficial mayor y de cabo mayor.
+
+Cuando en la misma unidad se encuentre destinado personal de los empleos de suboficial mayor y de cabo mayor, las funciones, facultades y cometidos que se determinan en los siguientes artículos para cada uno de ellos y que sean idénticos, serán desarrollados, con carácter general, por el suboficial mayor, en lo que concierna a la escala de suboficiales y por el cabo mayor, respecto de la de cabos y guardias.
+
+## CAPÍTULO II — Del suboficial mayor
+
+### Artículo 4. Características del empleo de suboficial mayor.
+
+1\. El suboficial mayor será un referente permanente para el personal de las escalas de suboficiales y de cabos y guardias de la unidad en la que preste sus servicios mediante su ejemplo, sentido de la responsabilidad, competencia profesional, disciplina, dedicación y disponibilidad para el servicio.
+
+2\. Con la finalidad de lograr el mejor desarrollo de sus funciones, facultades y cometidos, el suboficial mayor dependerá directamente del jefe de la unidad correspondiente, con arreglo a lo establecido en el artículo 7.
+
+3\. Como empleo superior de la escala de suboficiales y único al que se asciende por el sistema de elección:
+
+a) Fomentará el espíritu de equipo y contribuirá a elevar la moral con el fin de aumentar la cohesión de su unidad y conseguir la convergencia de esfuerzos para alcanzar con ello el máximo rendimiento individual y de conjunto.
+
+b) Velará por mantener el prestigio de su unidad y que a ello contribuyan los miembros de su escala.
+
+c) Mantendrá con los suboficiales un trato directo que le permita conocer sus aptitudes y aspiraciones, atender a sus inquietudes y necesidades y velar por sus intereses profesionales y personales.
+
+d) Mantendrá con los cabos y guardias civiles de la unidad, especialmente con los cabos mayores, un trato lo más cercano posible que, le permita conocer las aspiraciones, inquietudes y necesidades de este personal.
+
+e) Con arreglo a las instrucciones que reciba de su jefe de unidad, mantendrá contacto con las asociaciones profesionales válidamente constituidas que integren personal de las escalas de suboficiales y de la de cabos y guardias.
+
+### Artículo 5. Funciones del empleo de suboficial mayor.
+
+1\. Sin perjuicio de las funciones legalmente previstas para los miembros de la escala de suboficiales, el suboficial mayor ejercerá el apoyo y asesoramiento al mando a través de las facultades y cometidos a los que se refiere el artículo 6.
+
+2\. Estas funciones las desarrollará, fundamentalmente, mediante acciones ejecutivas, y las directivas que correspondan a su nivel.
+
+### Artículo 6. Facultades y cometidos del empleo de suboficial mayor.
+
+1\. En atención a la trayectoria y experiencia acumulada, quien ostente el empleo de suboficial mayor tendrá las siguientes facultades y cometidos:
+
+a) Asistencia y acompañamiento al mando: mediante informes, iniciativas y propuestas, brindará al jefe de la unidad información precisa y objetiva que facilite el conocimiento de la situación, contribuyendo a la adopción de decisiones fundamentadas por parte de aquél, acompañándole, cuando expresamente se determine, a las visitas de inspección, relevos de mando, actos institucionales y protocolarios que correspondan.
+
+b) Gestión de personal y relaciones laborales: participará en las juntas que se constituyan para tratar aspectos relacionados con el estatuto profesional, el régimen interior y la vida y funcionamiento de la unidad que puedan afectar al personal de las escalas de suboficiales y de cabos y guardias, contribuyendo a concienciar sobre la importancia del cumplimiento de las normas de seguridad y prevención de riesgos laborales en el ejercicio de la profesión.
+
+c) Participación institucional: como referente dentro de su escala, presidirá las comisiones de suboficiales y participará en ceremonias solemnes, cuando así se determine, ocupando un lugar destacado en las formaciones, actos sociales y resto de comisiones para las que sea designado.
+
+d) Formación y docencia: prestará colaboración al delegado de enseñanza en todo lo concerniente al plan de formación continua y a la planificación de las prácticas del alumnado de los centros docentes de formación para la incorporación a las escalas de suboficiales y de cabos y guardias. Además, participará en las juntas de evaluación y tribunales de exámenes de los miembros de su escala y, cuando corresponda, de los de la de cabos y guardias.
+
+e) Organización y relaciones institucionales: colaborará en la elaboración de normas y procedimientos internos, así como en la organización de actos institucionales, asesorando y apoyando al jefe de la unidad en materia de protocolo.
+
+f) Tradiciones y buenas prácticas: velará por la conservación y difusión del historial y tradiciones de su unidad entre el personal de la escala de suboficiales, y promoverá activamente las buenas prácticas profesionales conforme a los valores, principios y comportamientos recogidos en el Código de Conducta del personal de la Guardia Civil.
+
+2\. Estará exento de todo tipo de guardias, entendiendo como tales, aquellas prestaciones personales, de duración limitada, tendentes a garantizar la seguridad, mantener la continuidad de la acción de mando y asegurar la operatividad o dar permanencia a determinados servicios necesarios para el normal funcionamiento de la unidad. Podrá ser designado para realizar comisiones de servicio, dentro y fuera del territorio nacional, en función de la idoneidad requerida.
+
+3\. Cuando en una unidad exista más de una persona de empleo suboficial mayor, la distribución de las facultades y cometidos señaladas en el apartado 1, se realizará de acuerdo con lo que determine el jefe de unidad.
+
+> Se modifica por el art. único.1 de la Orden PJC/1206/2025, de 27 de octubre. [Ref. BOE-A-2025-21922](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21922)
+
+### Artículo 7. Despliegue de puestos orgánicos de suboficial mayor.
+
+De acuerdo a las funciones, facultades y cometidos que se asignan en esta orden, podrán existir puestos para el empleo de suboficial mayor en las siguientes Unidades.
+
+a) Unidades de los órganos centrales al mando de un oficial general.
+
+b) Jefaturas de Zona, Zona/Comandancia y Comandancia.
+
+c) Centros docentes.
+
+d) Resto de unidades de entidad tipo Comandancia, Sector de Tráfico, o superior, así como aquellas otras en las que atendiendo a su entidad y al número de puestos orgánicos existentes, así se determine.
+
+e) Compañías al mando de personal de empleo comandante.
+
+> Se modifica por el art. único.2 de la Orden PJC/1206/2025, de 27 de octubre. [Ref. BOE-A-2025-21922](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21922)
+
+### Artículo 8. Criterios para la determinación de los puestos y asignación de destinos.
+
+1\. En la relación de puestos orgánicos de unidad se especificará para cada puesto de suboficial mayor su descripción, sus retribuciones complementarias y demás requisitos que se establezcan en la normativa de provisión de destinos.
+
+2\. En función de las tareas específicas que se puedan desarrollar en cada puesto o grupo de puestos de similares características, se podrán exigir determinadas titulaciones o cualificaciones profesionales para su cobertura.
+
+3\. Los puestos de suboficial mayor serán específicos para este empleo y serán cubiertos con arreglo a la normativa de provisión de destinos en la Guardia Civil.
+
+### Artículo 9. Puestos de suboficial mayor en reserva.
+
+Las funciones propias de estos destinos serán, con carácter general, las de apoyo y asesoramiento al mando, de enseñanza, de logísticas y técnico-facultativas.
+
+## CAPÍTULO III — Del cabo mayor
+
+### Artículo 10. Características del empleo de cabo mayor.
+
+1\. El cabo mayor será un referente permanente para el personal de la escala de cabos y guardias de la unidad en la que preste sus servicios mediante su ejemplo, sentido de la responsabilidad, competencia profesional, disciplina, dedicación y disponibilidad para el servicio.
+
+2\. Con la finalidad de lograr el mejor desarrollo de sus funciones, facultades y cometidos, el cabo mayor dependerá directamente del jefe de unidad correspondiente, con arreglo a lo establecido en el artículo 13.
+
+3\. Como empleo superior de la escala de cabos y guardias y único al que se asciende por el sistema de elección:
+
+a) Fomentará el espíritu de equipo y contribuirá a elevar la moral con el fin de aumentar la cohesión de su unidad y conseguir la convergencia de esfuerzos para alcanzar con ello el máximo rendimiento individual y de conjunto.
+
+b) Velará por mantener el prestigio de su unidad y que a ello contribuyan los miembros de su escala.
+
+c) Mantendrá con los cabos y guardias civiles un trato lo más cercano posible que le permita conocer sus aptitudes y aspiraciones, atender a sus inquietudes y necesidades y velar por sus intereses profesionales y personales.
+
+d) Con arreglo a las instrucciones que reciba de su jefe de unidad, mantendrá contacto con las asociaciones profesionales válidamente constituidas que integren personal de la escala de cabos y guardias.
+
+### Artículo 11. Funciones del empleo de cabo mayor.
+
+1\. Sin perjuicio de las funciones legalmente previstas para los miembros de la escala de cabos y guardias, el cabo mayor ejercerá el apoyo y asesoramiento al mando a través de las facultades y cometidos a los que se refiere el artículo 12.
+
+2\. Estas funciones las desarrollará, fundamentalmente, mediante acciones de gestión y ejecutivas, así como en el desempeño de los trabajos y cometidos en aplicación de procedimientos establecidos o que se le encomienden por órdenes concretas.
+
+### Artículo 12. Facultades y cometidos del empleo de cabo mayor.
+
+1\. En atención a la trayectoria y experiencia acumulada, quien ostente el empleo de cabo mayor tendrá las siguientes facultades y cometidos:
+
+a) Asistencia y acompañamiento al mando: mediante informes, iniciativas y propuestas, brindará al jefe de la unidad información precisa y objetiva que facilite el conocimiento de la situación, contribuyendo a la adopción de decisiones fundamentadas por parte de aquél, acompañándole, cuando expresamente se determine, a las visitas de inspección, relevos de mando, actos institucionales y protocolarios que correspondan.
+
+b) Gestión de personal y relaciones laborales: participará en las juntas que se constituyan para tratar aspectos relacionados con el estatuto profesional, el régimen interior y la vida y funcionamiento de la unidad que puedan afectar al personal de su escala, contribuyendo a concienciar sobre la importancia del cumplimiento de las normas de seguridad y prevención de riesgos laborales en el ejercicio de la profesión.
+
+c) Participación institucional: como referente dentro de su escala, presidirá las comisiones de cabos y guardias y participará en ceremonias solemnes, cuando así se determine, ocupando un lugar destacado en las formaciones, actos sociales y resto de comisiones para las que sea designado.
+
+d) Formación y docencia: prestará auxilio al delegado de enseñanza en lo concerniente al plan de formación continua y, en su caso, a la planificación de las prácticas del alumnado de los centros docentes de formación para la incorporación a la escala de cabos y guardias. Además, participará en las juntas de evaluación y tribunales de exámenes de los miembros de dicha escala.
+
+e) Organización y relaciones institucionales: colaborará en la elaboración de normas y procedimientos internos, así como en la organización de actos institucionales, asesorando y apoyando al jefe de la unidad en materia de protocolo.
+
+f) Tradiciones y buenas prácticas: velará por la conservación y difusión del historial y tradiciones de su unidad entre el personal de la escala de cabos y guardias, y promoverá activamente las buenas prácticas profesionales conforme a los valores, principios y comportamientos recogidos en el Código de Conducta del personal de la Guardia Civil.
+
+2\. Estará exento de todo tipo de guardias, entendiendo como tales, aquellas prestaciones personales, de duración limitada, tendentes a garantizar la seguridad, mantener la continuidad de la acción de mando y asegurar la operatividad o dar permanencia a determinados servicios necesarios para el normal funcionamiento de la unidad. Podrá ser designado para realizar comisiones de servicio, dentro y fuera del territorio nacional, en función de la idoneidad requerida.
+
+3\. Cuando en una unidad exista más de una persona de empleo cabo mayor, la distribución de las facultades y cometidos señaladas en el apartado 1, se realizará de acuerdo con lo que determine el jefe de unidad.
+
+> Se modifica por el art. único.3 de la Orden PJC/1206/2025, de 27 de octubre. [Ref. BOE-A-2025-21922](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21922)
+
+### Artículo 13. Despliegue de puestos orgánicos de cabo mayor.
+
+De acuerdo a las funciones, facultades y cometidos que se asignan en esta orden, podrán existir puestos para el empleo de cabo mayor en las siguientes Unidades.
+
+a) Unidades de los órganos centrales al mando de un coronel u oficial general.
+
+b) Jefaturas de Zona, Zona/Comandancia y Comandancia.
+
+c) Centros docentes.
+
+d) Resto de unidades de entidad tipo Comandancia, Sector de Tráfico, o superior, así como aquellas otras en las que atendiendo a su entidad y al número de puestos orgánicos existentes, así se determine.
+
+e) Compañías al mando de personal de empleo comandante.
+
+f) Subsectores de Tráfico.
+
+g) Compañías y Puestos Principales al mando de personal de empleo capitán.
+
+> Se modifica por el art. único.4 de la Orden PJC/1206/2025, de 27 de octubre. [Ref. BOE-A-2025-21922](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21922)
+
+### Artículo 14. Criterios para la determinación de los puestos y asignación de destinos.
+
+1\. En la relación de puestos orgánicos de unidad se especificará para cada puesto de cabo mayor su descripción, sus retribuciones complementarias y demás requisitos que se establezcan en la normativa de provisión de destinos.
+
+2\. En función de las tareas específicas que se puedan desarrollar en cada puesto o grupo de puestos de similares características, se podrán exigir determinadas titulaciones o cualificaciones profesionales para su cobertura.
+
+3\. Los puestos de cabo mayor serán específicos para este empleo y serán cubiertos con arreglo a la normativa de provisión de destinos en la Guardia Civil.
+
+### Artículo 15. Puestos de cabo mayor en reserva.
+
+Las funciones propias de estos destinos serán, con carácter general, las de apoyo y asesoramiento al mando, de enseñanza, logísticas y técnico-facultativas, sin perjuicio de las funciones asignadas a los puestos de trabajo que sean consecuencia de la suscripción de convenios u otros instrumentos de colaboración.
+
+### Disposición transitoria única. Unidades que cuenten con más de un suboficial mayor o cabo mayor.
+
+En las unidades que cuenten con más de un suboficial mayor o más de un cabo mayor, se amortizarán los puestos que vayan quedando vacantes y se podrán desplegar en las unidades que no cuenten con ningún puesto orgánico para el empleo correspondiente, de entre los que se relacionan, respectivamente, en los artículos 7 y 13.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas la Orden de 25 de julio de 2000, por la que se establecen las normas reguladoras del empleo y funciones del suboficial mayor en el Cuerpo de la Guardia Civil, y la Orden PRE/3288/2006, de 23 de octubre, por la que se establecen las normas reguladoras del empleo y funciones del cabo mayor en el Cuerpo de la Guardia Civil, así como cuantas disposiciones de igual o inferior rango que se opongan a lo dispuesto en esta norma.
+
+### Disposición final primera. Facultades de desarrollo.
+
+Se faculta al Director General de la Guardia Civil para dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de esta orden.
+
+### Disposición final segunda. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 1 de marzo de 2018.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia y para las Administraciones Territoriales,
+
+Soraya Sáenz de Santamaría Antón.

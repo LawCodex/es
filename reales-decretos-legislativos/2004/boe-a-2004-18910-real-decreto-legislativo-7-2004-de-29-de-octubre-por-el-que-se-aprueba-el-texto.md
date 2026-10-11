@@ -74,12 +74,6 @@ c) De la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema fina
 
 d) **(Derogada)**
 
-> Téngase en cuenta que la letra d) se deroga con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.b) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
-
-> Redacción anterior:
-
-> d) De la Ley 22/2003, de 9 de julio, Concursal, su disposición final vigésima sexta, "Reforma del Estatuto Legal del Consorcio de Compensación de Seguros".
-
 e) De la Ley 34/2003, de 4 de noviembre, de modificación y adaptación a la normativa comunitaria de la legislación de seguros privados, su artículo cuarto y su disposición adicional segunda, "Fraccionamiento del recargo destinado a financiar las funciones de liquidación de entidades aseguradoras por el Consorcio de Compensación de Seguros".
 
 2\. Se declaran vigentes las siguientes disposiciones:

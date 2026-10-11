@@ -2345,65 +2345,61 @@ Mantienen su vigencia como parte integrante de este Convenio los Acuerdos de la 
 
 ## ANEXO I — Encuadramiento
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Actual grupo</th>
-<th class="cabeza_tabla">Nuevo grupo</th>
+<th>Actual grupo</th>
+<th>Nuevo grupo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">M3</td>
+<td>1</td>
+<td>M3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">M2</td>
+<td>2</td>
+<td>M2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">3</p>
-<p class="cuerpo_tabla_izq">Puestos encuadrados en especialidades coincidentes con títulos de Formación Profesional de Grado Superior o con cualificaciones de Nivel 3 del Sistema Nacional de Cualificaciones excepto los puestos contenidos en el anexo II.</p>
+<td>
+<p>3</p>
+<p>Puestos encuadrados en especialidades coincidentes con títulos de Formación Profesional de Grado Superior o con cualificaciones de Nivel 3 del Sistema Nacional de Cualificaciones excepto los puestos contenidos en el anexo II.</p>
 </td>
-<td class="cuerpo_tabla_centro">M1</td>
+<td>M1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">3</p>
-<p class="cuerpo_tabla_izq">Puestos distintos de los anteriores con actividad de las relacionadas en el anexo V.</p>
+<td>
+<p>3</p>
+<p>Puestos distintos de los anteriores con actividad de las relacionadas en el anexo V.</p>
 </td>
-<td class="cuerpo_tabla_centro" rowspan="2">E2</td>
+<td rowspan="2">E2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4</p>
-<p class="cuerpo_tabla_izq">Puestos encuadrados en especialidades coincidentes con títulos de Formación Profesional de Grado Medio o con cualificaciones de Nivel 2 del Sistema Nacional de Cualificaciones excepto los puestos contenidos en el anexo II.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4</p>
-<p class="cuerpo_tabla_izq">Puestos distintos de los anteriores con actividad de las relacionadas en el anexo V.</p>
-</td>
-<td class="cuerpo_tabla_centro" rowspan="2">E1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">5</p>
-<p class="cuerpo_tabla_izq">Puestos encuadrados en especialidades coincidentes con títulos de Formación Profesional Básica o con cualificaciones de Nivel 1 del Sistema Nacional de Cualificaciones excepto los puestos contenidos en el anexo II.</p>
+<td>
+<p>4</p>
+<p>Puestos encuadrados en especialidades coincidentes con títulos de Formación Profesional de Grado Medio o con cualificaciones de Nivel 2 del Sistema Nacional de Cualificaciones excepto los puestos contenidos en el anexo II.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">5</p>
-<p class="cuerpo_tabla_izq">Puestos distintos de los anteriores con actividad de las relacionadas en el anexo V.</p>
+<td>
+<p>4</p>
+<p>Puestos distintos de los anteriores con actividad de las relacionadas en el anexo V.</p>
 </td>
-<td class="cuerpo_tabla_centro">E0</td>
+<td rowspan="2">E1</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+<p>Puestos encuadrados en especialidades coincidentes con títulos de Formación Profesional Básica o con cualificaciones de Nivel 1 del Sistema Nacional de Cualificaciones excepto los puestos contenidos en el anexo II.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+<p>Puestos distintos de los anteriores con actividad de las relacionadas en el anexo V.</p>
+</td>
+<td>E0</td>
 </tr>
 </tbody>
 </table>
@@ -2514,299 +2510,273 @@ Anexo III.b) Complementos singulares de puesto (artículo 59.5.1 IV Convenio Ún
 
 Anexo III.b).1 Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="2">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="2">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MJ</th>
-<th class="cabeza_tabla">RCT</th>
+<th>MJ</th>
+<th>RCT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">2.048,48</td>
-<td class="cuerpo_tabla_coma">2.124,05</td>
+<td>M3</td>
+<td>2.048,48</td>
+<td>2.124,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.719,29</td>
-<td class="cuerpo_tabla_coma">1.755,78</td>
+<td>M2</td>
+<td>1.719,29</td>
+<td>1.755,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">1.482,24</td>
-<td class="cuerpo_tabla_coma">1.317,44</td>
+<td>M1</td>
+<td>1.482,24</td>
+<td>1.317,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">1.360,09</td>
-<td class="cuerpo_tabla_coma">1.074,83</td>
+<td>E2</td>
+<td>1.360,09</td>
+<td>1.074,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">1.174,08</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>E1</td>
+<td>1.174,08</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">1.042,39</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>E0</td>
+<td>1.042,39</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">2.048,48</td>
-<td class="cuerpo_tabla_coma">2.124,05</td>
+<td>G1</td>
+<td>2.048,48</td>
+<td>2.124,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.719,29</td>
-<td class="cuerpo_tabla_coma">1.755,78</td>
+<td>G2</td>
+<td>1.719,29</td>
+<td>1.755,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">1.482,24</td>
-<td class="cuerpo_tabla_coma">1.317,44</td>
+<td>G3</td>
+<td>1.482,24</td>
+<td>1.317,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">1.360,09</td>
-<td class="cuerpo_tabla_coma">1.074,83</td>
+<td>G4</td>
+<td>1.360,09</td>
+<td>1.074,83</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.b).2 Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="26%">
-<col width="13%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="5">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="5">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">E1</th>
-<th class="cabeza_tabla">E2</th>
-<th class="cabeza_tabla">E3</th>
-<th class="cabeza_tabla">E4</th>
-<th class="cabeza_tabla">E6</th>
+<th>E1</th>
+<th>E2</th>
+<th>E3</th>
+<th>E4</th>
+<th>E6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma" rowspan="6">898,43</td>
-<td class="cuerpo_tabla_der" rowspan="4"> </td>
-<td class="cuerpo_tabla_coma">1.694,75</td>
-<td class="cuerpo_tabla_coma">675,14</td>
-<td class="cuerpo_tabla_coma" rowspan="6">350,00</td>
+<td>M3</td>
+<td rowspan="6">898,43</td>
+<td rowspan="4"> </td>
+<td>1.694,75</td>
+<td>675,14</td>
+<td rowspan="6">350,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.552,39</td>
-<td class="cuerpo_tabla_coma">621,18</td>
+<td>M2</td>
+<td>1.552,39</td>
+<td>621,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">1.484,50</td>
-<td class="cuerpo_tabla_coma">582,52</td>
+<td>M1</td>
+<td>1.484,50</td>
+<td>582,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">1.386,88</td>
-<td class="cuerpo_tabla_coma">544,21</td>
+<td>E2</td>
+<td>1.386,88</td>
+<td>544,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma" rowspan="2">1.613,73</td>
-<td class="cuerpo_tabla_coma">1.336,26</td>
-<td class="cuerpo_tabla_coma">526,52</td>
+<td>E1</td>
+<td rowspan="2">1.613,73</td>
+<td>1.336,26</td>
+<td>526,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">1.255,24</td>
-<td class="cuerpo_tabla_coma">495,33</td>
+<td>E0</td>
+<td>1.255,24</td>
+<td>495,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma" rowspan="4">898,43</td>
-<td class="cuerpo_tabla_der" rowspan="4"> </td>
-<td class="cuerpo_tabla_coma">1.694,75</td>
-<td class="cuerpo_tabla_coma">675,14</td>
-<td class="cuerpo_tabla_coma" rowspan="4">350,00</td>
+<td>G1</td>
+<td rowspan="4">898,43</td>
+<td rowspan="4"> </td>
+<td>1.694,75</td>
+<td>675,14</td>
+<td rowspan="4">350,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.552,39</td>
-<td class="cuerpo_tabla_coma">621,18</td>
+<td>G2</td>
+<td>1.552,39</td>
+<td>621,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">1.484,50</td>
-<td class="cuerpo_tabla_coma">582,52</td>
+<td>G3</td>
+<td>1.484,50</td>
+<td>582,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">1.386,88</td>
-<td class="cuerpo_tabla_coma">544,21</td>
+<td>G4</td>
+<td>1.386,88</td>
+<td>544,21</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.b).3 Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="10">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="10">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">E5 1</th>
-<th class="cabeza_tabla">E5 1.1</th>
-<th class="cabeza_tabla">E5 1.1 I</th>
-<th class="cabeza_tabla">E5 2</th>
-<th class="cabeza_tabla">E5 2.1</th>
-<th class="cabeza_tabla">E5 2.2</th>
-<th class="cabeza_tabla">E5 2.2 I</th>
-<th class="cabeza_tabla">E5 2I</th>
-<th class="cabeza_tabla">E5 E</th>
-<th class="cabeza_tabla">E5 H</th>
+<th>E5 1</th>
+<th>E5 1.1</th>
+<th>E5 1.1 I</th>
+<th>E5 2</th>
+<th>E5 2.1</th>
+<th>E5 2.2</th>
+<th>E5 2.2 I</th>
+<th>E5 2I</th>
+<th>E5 E</th>
+<th>E5 H</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.928,96</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.979,10</td>
-<td class="cuerpo_tabla_coma" rowspan="6">5.723,84</td>
-<td class="cuerpo_tabla_coma" rowspan="6">3.979,67</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.454,89</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.193,76</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.672,21</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.442,00</td>
-<td class="cuerpo_tabla_coma" rowspan="6">5.559,24</td>
-<td class="cuerpo_tabla_coma" rowspan="6">4.772,87</td>
+<td>M3</td>
+<td rowspan="6">4.928,96</td>
+<td rowspan="6">4.979,10</td>
+<td rowspan="6">5.723,84</td>
+<td rowspan="6">3.979,67</td>
+<td rowspan="6">4.454,89</td>
+<td rowspan="6">4.193,76</td>
+<td rowspan="6">4.672,21</td>
+<td rowspan="6">4.442,00</td>
+<td rowspan="6">5.559,24</td>
+<td rowspan="6">4.772,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
+<td>M2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
+<td>M1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
+<td>E2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
+<td>E1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
+<td>E0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.928,96</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.979,10</td>
-<td class="cuerpo_tabla_coma" rowspan="4">5.723,84</td>
-<td class="cuerpo_tabla_coma" rowspan="4">3.979,67</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.454,89</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.193,76</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.672,21</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.442,00</td>
-<td class="cuerpo_tabla_coma" rowspan="4">5.559,24</td>
-<td class="cuerpo_tabla_coma" rowspan="4">4.772,87</td>
+<td>G1</td>
+<td rowspan="4">4.928,96</td>
+<td rowspan="4">4.979,10</td>
+<td rowspan="4">5.723,84</td>
+<td rowspan="4">3.979,67</td>
+<td rowspan="4">4.454,89</td>
+<td rowspan="4">4.193,76</td>
+<td rowspan="4">4.672,21</td>
+<td rowspan="4">4.442,00</td>
+<td rowspan="4">5.559,24</td>
+<td rowspan="4">4.772,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
+<td>G2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
+<td>G3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
+<td>G4</td>
 </tr>
 </tbody>
 </table>
 
 Complemento S. XXI E5 (tabla salarial de 2023)
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="3">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="3">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">E5 A</th>
-<th class="cabeza_tabla">E5 B</th>
-<th class="cabeza_tabla">E5 C</th>
+<th>E5 A</th>
+<th>E5 B</th>
+<th>E5 C</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma" rowspan="6">7.585,92</td>
-<td class="cuerpo_tabla_coma" rowspan="6">7.295,88</td>
-<td class="cuerpo_tabla_coma" rowspan="6">6.320,64</td>
+<td>M3</td>
+<td rowspan="6">7.585,92</td>
+<td rowspan="6">7.295,88</td>
+<td rowspan="6">6.320,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
+<td>M2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
+<td>M1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
+<td>E2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
+<td>E1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
+<td>E0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma" rowspan="4">7.585,92</td>
-<td class="cuerpo_tabla_coma" rowspan="4">7.295,88</td>
-<td class="cuerpo_tabla_coma" rowspan="4">6.320,64</td>
+<td>G1</td>
+<td rowspan="4">7.585,92</td>
+<td rowspan="4">7.295,88</td>
+<td rowspan="4">6.320,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
+<td>G2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
+<td>G3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
+<td>G4</td>
 </tr>
 </tbody>
 </table>
@@ -2815,480 +2785,447 @@ Anexo III.c) Complementos por el desempeño de trabajo en horario o jornada dist
 
 Anexo III.c).1 Complemento de Nocturnidad. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="2">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="2">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">NP</th>
-<th class="cabeza_tabla">NT</th>
+<th>NP</th>
+<th>NT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">1.499,89</td>
-<td class="cuerpo_tabla_coma">2.793,86</td>
+<td>M3</td>
+<td>1.499,89</td>
+<td>2.793,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.353,52</td>
-<td class="cuerpo_tabla_coma">2.515,59</td>
+<td>M2</td>
+<td>1.353,52</td>
+<td>2.515,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">1.242,75</td>
-<td class="cuerpo_tabla_coma">2.303,61</td>
+<td>M1</td>
+<td>1.242,75</td>
+<td>2.303,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">1.161,02</td>
-<td class="cuerpo_tabla_coma">2.152,12</td>
+<td>E2</td>
+<td>1.161,02</td>
+<td>2.152,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">1.081,56</td>
-<td class="cuerpo_tabla_coma">1.998,47</td>
+<td>E1</td>
+<td>1.081,56</td>
+<td>1.998,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">1.011,96</td>
-<td class="cuerpo_tabla_coma">1.865,84</td>
+<td>E0</td>
+<td>1.011,96</td>
+<td>1.865,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">1.499,89</td>
-<td class="cuerpo_tabla_coma">2.793,86</td>
+<td>G1</td>
+<td>1.499,89</td>
+<td>2.793,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.353,52</td>
-<td class="cuerpo_tabla_coma">2.515,59</td>
+<td>G2</td>
+<td>1.353,52</td>
+<td>2.515,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">1.242,75</td>
-<td class="cuerpo_tabla_coma">2.303,61</td>
+<td>G3</td>
+<td>1.242,75</td>
+<td>2.303,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">1.161,02</td>
-<td class="cuerpo_tabla_coma">2.152,12</td>
+<td>G4</td>
+<td>1.161,02</td>
+<td>2.152,12</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.c).2 Complemento de Turnicidad. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="2">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="2">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">T12</th>
-<th class="cabeza_tabla">T24</th>
+<th>T12</th>
+<th>T24</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">1.702,18</td>
-<td class="cuerpo_tabla_coma">2.498,70</td>
+<td>M3</td>
+<td>1.702,18</td>
+<td>2.498,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.535,38</td>
-<td class="cuerpo_tabla_coma">2.250,33</td>
+<td>M2</td>
+<td>1.535,38</td>
+<td>2.250,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">1.408,84</td>
-<td class="cuerpo_tabla_coma">2.061,63</td>
+<td>M1</td>
+<td>1.408,84</td>
+<td>2.061,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">1.316,19</td>
-<td class="cuerpo_tabla_coma">1.926,06</td>
+<td>E2</td>
+<td>1.316,19</td>
+<td>1.926,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">1.224,94</td>
-<td class="cuerpo_tabla_coma">1.789,28</td>
+<td>E1</td>
+<td>1.224,94</td>
+<td>1.789,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">1.145,46</td>
-<td class="cuerpo_tabla_coma">1.671,08</td>
+<td>E0</td>
+<td>1.145,46</td>
+<td>1.671,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">1.702,18</td>
-<td class="cuerpo_tabla_coma">2.498,70</td>
+<td>G1</td>
+<td>1.702,18</td>
+<td>2.498,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.535,38</td>
-<td class="cuerpo_tabla_coma">2.250,33</td>
+<td>G2</td>
+<td>1.535,38</td>
+<td>2.250,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">1.408,84</td>
-<td class="cuerpo_tabla_coma">2.061,63</td>
+<td>G3</td>
+<td>1.408,84</td>
+<td>2.061,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">1.316,19</td>
-<td class="cuerpo_tabla_coma">1.926,06</td>
+<td>G4</td>
+<td>1.316,19</td>
+<td>1.926,06</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.c).3 Complemento de Disponibilidad Horaria. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="2">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="2">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">DH1</th>
-<th class="cabeza_tabla">DH2</th>
+<th>DH1</th>
+<th>DH2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">1.196,50</td>
-<td class="cuerpo_tabla_coma">2.327,92</td>
+<td>M3</td>
+<td>1.196,50</td>
+<td>2.327,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.080,76</td>
-<td class="cuerpo_tabla_coma">2.096,82</td>
+<td>M2</td>
+<td>1.080,76</td>
+<td>2.096,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">993,84</td>
-<td class="cuerpo_tabla_coma">1.921,53</td>
+<td>M1</td>
+<td>993,84</td>
+<td>1.921,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">928,48</td>
-<td class="cuerpo_tabla_coma">1.795,17</td>
+<td>E2</td>
+<td>928,48</td>
+<td>1.795,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">866,28</td>
-<td class="cuerpo_tabla_coma">1.667,99</td>
+<td>E1</td>
+<td>866,28</td>
+<td>1.667,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">811,38</td>
-<td class="cuerpo_tabla_coma">1.558,30</td>
+<td>E0</td>
+<td>811,38</td>
+<td>1.558,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">1.196,50</td>
-<td class="cuerpo_tabla_coma">2.327,92</td>
+<td>G1</td>
+<td>1.196,50</td>
+<td>2.327,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.080,76</td>
-<td class="cuerpo_tabla_coma">2.096,82</td>
+<td>G2</td>
+<td>1.080,76</td>
+<td>2.096,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">993,84</td>
-<td class="cuerpo_tabla_coma">1.921,53</td>
+<td>G3</td>
+<td>993,84</td>
+<td>1.921,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">928,48</td>
-<td class="cuerpo_tabla_coma">1.795,17</td>
+<td>G4</td>
+<td>928,48</td>
+<td>1.795,17</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.c).4 Complemento de Jornada Partida. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="2">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="2">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">JP2</th>
-<th class="cabeza_tabla">JP4</th>
+<th>JP2</th>
+<th>JP4</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">1.154,74</td>
-<td class="cuerpo_tabla_coma">2.244,91</td>
+<td>M3</td>
+<td>1.154,74</td>
+<td>2.244,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.043,64</td>
-<td class="cuerpo_tabla_coma">2.022,57</td>
+<td>M2</td>
+<td>1.043,64</td>
+<td>2.022,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">960,10</td>
-<td class="cuerpo_tabla_coma">1.853,52</td>
+<td>M1</td>
+<td>960,10</td>
+<td>1.853,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">896,97</td>
-<td class="cuerpo_tabla_coma">1.731,64</td>
+<td>E2</td>
+<td>896,97</td>
+<td>1.731,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">837,02</td>
-<td class="cuerpo_tabla_coma">1.609,35</td>
+<td>E1</td>
+<td>837,02</td>
+<td>1.609,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">784,05</td>
-<td class="cuerpo_tabla_coma">1.503,53</td>
+<td>E0</td>
+<td>784,05</td>
+<td>1.503,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">1.154,74</td>
-<td class="cuerpo_tabla_coma">2.244,91</td>
+<td>G1</td>
+<td>1.154,74</td>
+<td>2.244,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.043,64</td>
-<td class="cuerpo_tabla_coma">2.022,57</td>
+<td>G2</td>
+<td>1.043,64</td>
+<td>2.022,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">960,10</td>
-<td class="cuerpo_tabla_coma">1.853,52</td>
+<td>G3</td>
+<td>960,10</td>
+<td>1.853,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">896,97</td>
-<td class="cuerpo_tabla_coma">1.731,64</td>
+<td>G4</td>
+<td>896,97</td>
+<td>1.731,64</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.c).5 Complemento de Prolongación de Jornada. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th>Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">PRJ</th>
+<th>PRJ</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">1.560,62</td>
+<td>M3</td>
+<td>1.560,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">1.311,60</td>
+<td>M2</td>
+<td>1.311,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">1.136,73</td>
+<td>M1</td>
+<td>1.136,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">1.043,06</td>
+<td>E2</td>
+<td>1.043,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">897,73</td>
+<td>E1</td>
+<td>897,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">801,19</td>
+<td>E0</td>
+<td>801,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">1.560,62</td>
+<td>G1</td>
+<td>1.560,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">1.311,60</td>
+<td>G2</td>
+<td>1.311,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">1.136,73</td>
+<td>G3</td>
+<td>1.136,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">1.043,06</td>
+<td>G4</td>
+<td>1.043,06</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.c).6 Realización de trabajo en domingos y festivos. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla" colspan="2">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th colspan="2">Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">FP</th>
-<th class="cabeza_tabla">FT</th>
+<th>FP</th>
+<th>FT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">818,96</td>
-<td class="cuerpo_tabla_coma">1.014,65</td>
+<td>M3</td>
+<td>818,96</td>
+<td>1.014,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">734,33</td>
-<td class="cuerpo_tabla_coma">911,39</td>
+<td>M2</td>
+<td>734,33</td>
+<td>911,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">687,40</td>
-<td class="cuerpo_tabla_coma">827,07</td>
+<td>M1</td>
+<td>687,40</td>
+<td>827,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">645,95</td>
-<td class="cuerpo_tabla_coma">784,31</td>
+<td>E2</td>
+<td>645,95</td>
+<td>784,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">595,52</td>
-<td class="cuerpo_tabla_coma">719,09</td>
+<td>E1</td>
+<td>595,52</td>
+<td>719,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">554,65</td>
-<td class="cuerpo_tabla_coma">669,56</td>
+<td>E0</td>
+<td>554,65</td>
+<td>669,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">818,96</td>
-<td class="cuerpo_tabla_coma">1.014,65</td>
+<td>G1</td>
+<td>818,96</td>
+<td>1.014,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">734,33</td>
-<td class="cuerpo_tabla_coma">911,39</td>
+<td>G2</td>
+<td>734,33</td>
+<td>911,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">687,40</td>
-<td class="cuerpo_tabla_coma">827,07</td>
+<td>G3</td>
+<td>687,40</td>
+<td>827,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">645,95</td>
-<td class="cuerpo_tabla_coma">784,31</td>
+<td>G4</td>
+<td>645,95</td>
+<td>784,31</td>
 </tr>
 </tbody>
 </table>
 
 Anexo III.c).7 Complemento de Obra. Cuantías anuales en euros
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Grupo Profesional</th>
-<th class="cabeza_tabla">Modalidad</th>
+<th rowspan="2">Grupo Profesional</th>
+<th>Modalidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Obra</th>
+<th>Obra</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">M3</td>
-<td class="cuerpo_tabla_coma">3.227,84</td>
+<td>M3</td>
+<td>3.227,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M2</td>
-<td class="cuerpo_tabla_coma">3.009,87</td>
+<td>M2</td>
+<td>3.009,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M1</td>
-<td class="cuerpo_tabla_coma">2.833,47</td>
+<td>M1</td>
+<td>2.833,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_coma">2.647,14</td>
+<td>E2</td>
+<td>2.647,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_coma">2.590,73</td>
+<td>E1</td>
+<td>2.590,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E0</td>
-<td class="cuerpo_tabla_coma">2.499,22</td>
+<td>E0</td>
+<td>2.499,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_coma">3.227,84</td>
+<td>G1</td>
+<td>3.227,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_coma">3.009,87</td>
+<td>G2</td>
+<td>3.009,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_coma">2.833,47</td>
+<td>G3</td>
+<td>2.833,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_coma">2.647,14</td>
+<td>G4</td>
+<td>2.647,14</td>
 </tr>
 </tbody>
 </table>

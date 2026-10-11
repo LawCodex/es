@@ -1276,52 +1276,46 @@ La cuota íntegra se obtendrá aplicando a la base liquidable la siguiente escal
 
 La cuota tributaria se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de entre los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20, de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="52%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Patrimonio preexistente</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th rowspan="2">
+<p>Patrimonio preexistente</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Grupos del artículo 20</th>
+<th colspan="3">Grupos del artículo 20</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">I y II</th>
-<th class="cabeza_tabla">III</th>
-<th class="cabeza_tabla">IV</th>
+<th>I y II</th>
+<th>III</th>
+<th>IV</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">De 0 a 390.657,87.</td>
-<td class="cuerpo_tabla_coma">1,0000</td>
-<td class="cuerpo_tabla_coma">1,5882</td>
-<td class="cuerpo_tabla_coma">2,0000</td>
+<td>De 0 a 390.657,87.</td>
+<td>1,0000</td>
+<td>1,5882</td>
+<td>2,0000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 390.657,87 a 1.965.309,58.</td>
-<td class="cuerpo_tabla_coma">1,0500</td>
-<td class="cuerpo_tabla_coma">1,6676</td>
-<td class="cuerpo_tabla_coma">2,1000</td>
+<td>De 390.657,87 a 1.965.309,58.</td>
+<td>1,0500</td>
+<td>1,6676</td>
+<td>2,1000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 1.965.309,58 a 3.936.629,28.</td>
-<td class="cuerpo_tabla_coma">1,1000</td>
-<td class="cuerpo_tabla_coma">1,7471</td>
-<td class="cuerpo_tabla_coma">2,2000</td>
+<td>De 1.965.309,58 a 3.936.629,28.</td>
+<td>1,1000</td>
+<td>1,7471</td>
+<td>2,2000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De más de 3.936.629,28.</td>
-<td class="cuerpo_tabla_coma">1,2000</td>
-<td class="cuerpo_tabla_coma">1,9059</td>
-<td class="cuerpo_tabla_coma">2,4000</td>
+<td>De más de 3.936.629,28.</td>
+<td>1,2000</td>
+<td>1,9059</td>
+<td>2,4000</td>
 </tr>
 </tbody>
 </table>

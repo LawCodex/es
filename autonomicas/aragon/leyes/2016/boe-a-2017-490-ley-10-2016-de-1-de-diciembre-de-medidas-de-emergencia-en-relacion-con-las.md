@@ -132,14 +132,6 @@ La presente ley se aplicará al sector público de la Comunidad Autónoma de Ara
 
 5\. El pago de las prestaciones económicas del Sistema Público de Servicios Sociales se hará efectivo desde el primer día del mes siguiente a aquel en el que se presentó la solicitud, inclusive si el reconocimiento del derecho se produjese por silencio administrativo positivo. Todo ello sin perjuicio de la legislación sectorial y una vez validado el expediente.
 
-> Téngase en cuenta que esta última actualización del artículo establecida por el art. 21 de la Ley 2/2022, de 19 de mayo. [Ref. BOE-A-2022-9438](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9438), entra en vigor el 27 de agosto de 2022, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "**Artículo 4. Preferencia en la tramitación de las prestaciones económicas del Sistema Público de Servicios Sociales**.
-
-> Con el objetivo de garantizar la efectividad de las prestaciones económicas del Sistema Público de Servicios Sociales, definidas de carácter esencial, los órganos de la Administración pública de la Comunidad Autónoma de Aragón actuarán bajo el principio de prioridad y agilidad en la tramitación de los expedientes relativos a dichas prestaciones y en la resolución y pago de las mismas, dando preferencia a tales expedientes y adoptándose las medidas necesarias para la reducción de trámites y cargas administrativas."
-
 > Se modifica, con efectos de 27 de agosto de 2022, por el art. 21 de la Ley 2/2022, de 19 de mayo. [Ref. BOE-A-2022-9438](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9438)
 
 #### Artículo 5. Inembargabilidad de las prestaciones económicas de carácter social.

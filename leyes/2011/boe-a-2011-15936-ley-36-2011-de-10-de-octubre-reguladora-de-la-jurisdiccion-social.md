@@ -220,21 +220,9 @@ m) Sobre la responsabilidad de los sindicatos y de las asociaciones empresariale
 
 n) En impugnación de resoluciones administrativas de la autoridad laboral recaídas en los procedimientos previstos en el apartado 5 del artículo 47, en el artículo 47 bis) y en el apartado 7 del artículo 51 del Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, así como las recaídas en el ejercicio de la potestad sancionadora en materia laboral y sindical y, respecto de las demás impugnaciones de otros actos de las Administraciones públicas sujetos al Derecho Administrativo en el ejercicio de sus potestades y funciones en materia laboral y sindical que pongan fin a la vía administrativa, siempre que en este caso su conocimiento no esté atribuido a otro orden jurisdiccional.
 
-> Téngase en cuenta que esta actualización de la letra n), establecida por el art. 104.1 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "n) En impugnación de resoluciones administrativas de la autoridad laboral recaídas en los procedimientos previstos en el apartado 3 del artículo 47 y en el apartado 7 del artículo 51 del Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, así como las recaídas en el ejercicio de la potestad sancionadora en materia laboral y sindical y, respecto de las demás impugnaciones de otros actos de las Administraciones públicas sujetos al Derecho Administrativo en el ejercicio de sus potestades y funciones en materia laboral y sindical que pongan fin a la vía administrativa, siempre que en este caso su conocimiento no esté atribuido a otro orden jurisdiccional."
-
 ñ) Contra las Administraciones públicas, incluido el Fondo de Garantía Salarial, cuando les atribuya responsabilidad la legislación laboral.
 
 o) En materia de prestaciones de Seguridad Social, incluidas la protección por desempleo y la protección por cese de actividad de los trabajadores por cuenta propia, así como sobre la imputación de responsabilidades a empresarios o terceros respecto de las prestaciones de Seguridad Social en los casos legalmente establecidos. También las cuestiones referidas a aquellas prestaciones de protección social que establezcan las Comunidades Autónomas en el ejercicio de sus competencias, dirigidas a garantizar recursos económicos suficientes para la cobertura de las necesidades básicas y a prevenir el riesgo de exclusión social de las personas beneficiarias. Igualmente, las cuestiones litigiosas relativas a la valoración, reconocimiento y calificación del grado de discapacidad, así como sobre el reconocimiento de la situación de dependencia y prestaciones económicas y servicios derivados de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, teniendo a todos los efectos de esta Ley la misma consideración que las relativas a las prestaciones y los beneficiarios de la Seguridad Social.
-
-> Téngase en cuenta que esta actualización de la letra o), establecida por el art. 104.1 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "o) En materia de prestaciones de Seguridad Social, incluidas la protección por desempleo y la protección por cese de actividad de los trabajadores por cuenta propia, así como sobre la imputación de responsabilidades a empresarios o terceros respecto de las prestaciones de Seguridad Social en los casos legalmente establecidos. También las cuestiones referidas a aquellas prestaciones de protección social que establezcan las Comunidades Autónomas en el ejercicio de sus competencias, dirigidas a garantizar recursos económicos suficientes para la cobertura de las necesidades básicas y a prevenir el riesgo de exclusión social de las personas beneficiarias. Igualmente, las cuestiones litigiosas relativas a la valoración, reconocimiento y calificación del grado de discapacidad, así como sobre las prestaciones derivadas de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, teniendo a todos los efectos de esta Ley la misma consideración que las relativas a las prestaciones y los beneficiarios de la Seguridad Social."
 
 p) En materia de intermediación laboral, en los conflictos que surjan entre los trabajadores y los servicios públicos de empleo, las agencias de colocación autorizadas y otras entidades colaboradoras de aquéllos y entre estas últimas entidades y el servicio público de empleo correspondiente.
 
@@ -544,12 +532,6 @@ La persona acosada será la única legitimada en los litigios sobre acoso discri
 
 1\. Las partes podrán comparecer por sí mismas o conferir su representación a abogado, procurador, graduado social colegiado o cualquier persona que se encuentre en el pleno ejercicio de sus derechos civiles. La representación podrá conferirse mediante poder otorgado por comparecencia ante el letrado o letrada de la Administración de Justicia, a través del registro electrónico de apoderamientos apud acta o por escritura pública.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.2 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Las partes podrán comparecer por sí mismas o conferir su representación a abogado, procurador, graduado social colegiado o cualquier persona que se encuentre en el pleno ejercicio de sus derechos civiles. La representación podrá conferirse mediante poder otorgado por comparecencia ante el secretario judicial o por escritura pública."
-
 2\. En el caso de otorgarse la representación a abogado deberán seguirse los trámites previstos en el apartado 2 del artículo 21.
 
 > Se modifica el apartado 1 por el art. 104.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -561,12 +543,6 @@ La persona acosada será la única legitimada en los litigios sobre acoso discri
 1\. La demanda podrá presentarse bien individualmente, bien de modo conjunto, en un solo escrito o en varios y, en este caso, su admisión a trámite equivaldrá a la decisión de su acumulación, que no podrá denegarse salvo que las acciones no sean acumulables según esta Ley.
 
 2\. En los procesos en los que demanden de forma conjunta más de diez actores, éstos deberán designar un representante común, con el que se entenderán las sucesivas diligencias del litigio. Este representante deberá ser necesariamente abogado, procurador, graduado social colegiado, uno de los demandantes o un sindicato. Dicha representación podrá conferirse mediante poder otorgado por comparecencia ante el letrado o letrada de la Administración de Justicia, a través del registro electrónico de apoderamientos apud acta, por escritura pública o mediante comparecencia ante el servicio administrativo que tenga atribuidas las competencias de conciliación, mediación o arbitraje o el órgano que asuma estas funciones. Junto con la demanda se deberá aportar el documento correspondiente de otorgamiento de esta representación.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 104.3 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. En los procesos en los que demanden de forma conjunta más de diez actores, éstos deberán designar un representante común, con el que se entenderán las sucesivas diligencias del litigio. Este representante deberá ser necesariamente abogado, procurador, graduado social colegiado, uno de los demandantes o un sindicato. Dicha representación podrá conferirse mediante poder otorgado por comparecencia ante el secretario judicial, por escritura pública o mediante comparecencia ante el servicio administrativo que tenga atribuidas las competencias de conciliación, mediación o arbitraje o el órgano que asuma estas funciones. Junto con la demanda se deberá aportar el documento correspondiente de otorgamiento de esta representación."
 
 3\. Cuando se acuerde la acumulación de los procesos correspondientes a varias demandas presentadas contra un mismo demandado, afectando de este modo el proceso a más de diez actores, así como cuando la demanda o demandas se dirijan contra más de diez demandados, siempre que no haya contraposición de intereses entre ellos, el secretario judicial les requerirá para que designen un representante común, pudiendo recaer dicha designación en cualquiera de los sujetos mencionados en el apartado anterior. A tal efecto, junto con la comunicación a los actores de la resolución de acumulación, el secretario judicial les citará de comparecencia dentro de los cuatro días siguientes para el nombramiento del representante común; si el día de la comparecencia no asistiese alguno de los citados en forma, se procederá a la designación del representante común, entendiéndose que quien no comparezca acepta el nombramiento efectuado por el resto.
 
@@ -593,12 +569,6 @@ La persona acosada será la única legitimada en los litigios sobre acoso discri
 1\. La defensa por abogado y la representación técnica por graduado social colegiado tendrá carácter facultativo en la instancia. En el recurso de suplicación los litigantes habrán de estar defendidos por abogado o representados técnicamente por graduado social colegiado. En el recurso de casación y en las actuaciones procesales ante el Tribunal Supremo será preceptiva la defensa de abogado. Cuando la defensa sea facultativa, con excepción de lo previsto en el artículo siguiente, podrá utilizarla sin embargo cualquiera de los litigantes, en cuyo caso será de su cuenta el pago de los honorarios o derechos respectivos con las excepciones contempladas en la legislación sobre asistencia jurídica gratuita.
 
 2\. Si el demandante pretendiese comparecer en el juicio asistido de abogado, representado técnicamente por graduado social o representado por procurador, lo hará constar en la demanda, indicando los datos de contacto del profesional. Asimismo, sin perjuicio de lo establecido en el apartado 5 del artículo 81, el demandado pondrá esta circunstancia en conocimiento del juzgado o tribunal por escrito, indicando también los datos de contacto de su profesional, dentro de los dos días siguientes al de su citación para el juicio, con objeto de que, trasladada tal intención al actor, pueda éste estar representado técnicamente por graduado social o representado por procurador, designar abogado en otro plazo igual o solicitar su designación a través del turno de oficio. En este caso, el actor que no hubiese efectuado dicha designación podrá hacerlo, comunicando al juzgado o tribunal dentro de los dos días siguientes a la notificación tal circunstancia. La falta de cumplimiento de estos requisitos supone la renuncia de la parte al derecho de valerse en el acto de juicio de abogado, procurador o graduado social.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 104.4 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. Si el demandante pretendiese comparecer en el juicio asistido de abogado o representado técnicamente por graduado social colegiado o representado por procurador, lo hará constar en la demanda. Asimismo, el demandado pondrá esta circunstancia en conocimiento del juzgado o tribunal por escrito, dentro de los dos días siguientes al de su citación para el juicio, con objeto de que, trasladada tal intención al actor, pueda éste estar representado técnicamente por graduado social colegiado o representado por procurador, designar abogado en otro plazo igual o solicitar su designación a través del turno de oficio. La falta de cumplimiento de estos requisitos supone la renuncia de la parte al derecho de valerse en el acto de juicio de abogado, procurador o graduado social colegiado."
 
 3\. Si en cualquier otra actuación, diversa al acto de juicio, cualquiera de las partes pretendiese actuar asistido de letrado, el secretario judicial adoptará las medidas oportunas para garantizar la igualdad de las partes.
 
@@ -664,31 +634,13 @@ La concurrencia de los requisitos para la prestación de garantía según lo dis
 
 Si en estos casos, el actor o los actores no ejercitan conjuntamente las acciones, el juzgado deberá acordar la acumulación de los procesos, de conformidad con lo dispuesto en el artículo 28, salvo cuando aprecie, de forma motivada, que la acumulación podría ocasionar perjuicios desproporcionados a la tutela judicial efectiva del resto de intervinientes.
 
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 104.5 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. También podrán acumularse, ejercitándose simultáneamente, las acciones que uno o varios actores tengan contra uno o varios demandados, siempre que entre esas acciones exista un nexo por razón del título o causa de pedir. Se entenderá que el título o causa de pedir es idéntico o conexo cuando las acciones se funden en los mismos hechos."
-
 4\. En reclamaciones sobre accidente de trabajo y enfermedad profesional se podrán acumular todas las pretensiones de resarcimiento de daños y perjuicios derivadas de un mismo hecho, incluso sobre mejoras voluntarias, que el trabajador perjudicado o sus causahabientes dirijan contra el empresario u otros terceros que deban responder a resultas del hecho causante, incluidas las entidades aseguradoras, salvo que hayan debido tramitarse mediante procedimiento administrativo separado, en cuyo caso se estará a lo dispuesto en el artículo 30.
 
 5\. En demandas derivadas del mismo accidente de trabajo o enfermedad profesional, cuando exista más de un juzgado o sección de la misma sala y tribunal, en el momento de su presentación se repartirán al juzgado o sección que conociera o hubiere conocido del primero de dichos procesos, las demandas ulteriores relativas a dicho accidente de trabajo o enfermedad profesional. En su defecto, las partes deberán informar de esta circunstancia al juzgado o sección al que se hubiera repartido la primera demanda o recurso, en el plazo de cinco días desde la notificación de la admisión de la segunda o ulteriores demandas o recursos o en su caso, desde que la parte tenga conocimiento del juzgado o sección a la que hubiere sido turnada la primera demanda o recurso.
 
-> Téngase en cuenta que esta actualización del apartado 5, establecida por el art. 104.5 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "5. En demandas derivadas del mismo accidente de trabajo o enfermedad profesional, cuando exista más de un juzgado o sección de la misma Sala y Tribunal, en el momento de su presentación se repartirán al juzgado o sección que conociera o hubiere conocido del primero de dichos procesos, las demandas ulteriores relativas a dicho accidente de trabajo o enfermedad profesional, siempre que conste dicha circunstancia o se ponga de manifiesto en la demanda."
-
 6\. El actor podrá acumular en su demanda las pretensiones que se deduzcan en relación con un mismo acto o resolución administrativa, así como las que se refieran a varios actos o resoluciones administrativas cuando exista entre ellos conexión directa.
 
 7\. Cuando el acto administrativo impugnado afecte a una pluralidad de destinatarios, de existir más de un juzgado o sección de la misma sala y tribunal, las demandas o recursos ulteriores relativas a dicho acto se repartirán al juzgado o sección que estuviere conociendo o hubiere conocido del primero de dichos procesos, siempre que conste dicha circunstancia o se ponga de manifiesto en la demanda o en el recurso. Con tal fin, la Administración autora del acto impugnado comunicará al juzgado o tribunal, tan pronto le conste, si tiene conocimiento de la existencia de otras demandas o recursos en las que puedan concurrir los supuestos de acumulación previstos en esta ley. En su defecto, el resto de partes deberán informar de esta circunstancia al juzgado o sección al que se hubiera repartido la primera demanda o recurso, en el plazo de cinco días desde la notificación de la admisión de la segunda o ulteriores demandas o recursos.
-
-> Téngase en cuenta que esta actualización del apartado 7, establecida por el art. 104.5 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "7. Cuando el acto administrativo impugnado afecte a una pluralidad de destinatarios, de existir más de un juzgado o sección de la misma Sala y Tribunal, las demandas o recursos ulteriores relativas a dicho acto se repartirán al juzgado o sección que estuviere conociendo o hubiere conocido del primero de dichos procesos, siempre que conste dicha circunstancia o se ponga de manifiesto en la demanda. Con tal fin, la Administración autora del acto impugnado comunicará al juzgado o tribunal, tan pronto le conste, si tiene conocimiento de la existencia de otras demandas o recursos en las que puedan concurrir los supuestos de acumulación previstos en esta Ley."
 
 > Se modifican los apartados 3, 5 y 7 por el art. 104.5 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -698,25 +650,11 @@ Si en estos casos, el actor o los actores no ejercitan conjuntamente las accione
 
 1\. Sin perjuicio de lo dispuesto en los apartados 3, 5 y 8 de este artículo, en el apartado 3 del artículo 25, en el apartado 1 del artículo 32 y en el artículo 33, no podrán acumularse a otras en un mismo juicio, salvo la de responsabilidad por daños derivados, ni siquiera por vía de reconvención, las acciones de despido y demás causas de extinción del contrato de trabajo, las de modificaciones sustanciales de condiciones de trabajo, las de disfrute de vacaciones, las de materia electoral, las de impugnación de estatutos de los sindicatos o de su modificación, las de movilidad geográfica, las de derechos de conciliación de la vida personal, familiar y laboral a las que se refiere el artículo 139, las de impugnación de convenios colectivos, las de impugnación de sanciones impuestas por los empresarios a los trabajadores y las de tutela de derechos fundamentales y libertades públicas. Tampoco podrán acumularse las acciones en reclamación sobre acceso, reversión y modificación del trabajo a distancia a las que se refiere el artículo 138 bis.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.6 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Sin perjuicio de lo dispuesto en los apartados 3 y 5 de este artículo, en el apartado 1 del artículo 32 y en el artículo 33, no podrán acumularse entre sí ni a otras distintas en un mismo juicio, ni siquiera por vía de reconvención, las acciones de despido y demás causas de extinción del contrato de trabajo, las de modificaciones sustanciales de condiciones de trabajo, las de disfrute de vacaciones, las de materia electoral, las de impugnación de estatutos de los sindicatos o de su modificación, las de movilidad geográfica, las de derechos de conciliación de la vida personal, familiar y laboral a las que se refiere el artículo 139, las de impugnación de convenios colectivos, las de impugnación de sanciones impuestas por los empresarios a los trabajadores y las de tutela de derechos fundamentales y libertades públicas."
-
 2\. Lo dispuesto en el apartado anterior se entiende sin perjuicio de la posibilidad de reclamar en los anteriores juicios, cuando deban seguirse dichas modalidades procesales por imperativo de lo dispuesto en el artículo 184, la indemnización derivada de discriminación o lesión de derechos fundamentales y libertades públicas y demás pronunciamientos propios de la modalidad procesal de tutela de tales derechos fundamentales y libertades públicas, conforme a los artículos 182, 183 y 184.
 
 3\. Podrán acumularse en una misma demanda las acciones de despido y extinción del contrato siempre que la acción de despido acumulada se ejercite dentro del plazo establecido para la modalidad procesal de despido. Cuando para la acción de extinción del contrato de trabajo del artículo 50 del Texto Refundido de la Ley del Estatuto de los Trabajadores, se invoque la falta de pago del salario pactado, contemplada en la letra b) del apartado 1 de aquel precepto, la reclamación salarial podrá acumularse a la acción solicitando la extinción indemnizada del vínculo, pudiendo, en su caso, ampliarse la demanda para incluir las cantidades posteriormente adeudadas.
 
 El trabajador podrá acumular a la acción de despido la reclamación de las cantidades vencidas, exigibles y de cuantía determinada adeudadas hasta esa fecha, sin que por ello se altere el orden de intervención del apartado 1 del artículo 105 de esta ley.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 104.6 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. Podrán acumularse en una misma demanda las acciones de despido y extinción del contrato siempre que la acción de despido acumulada se ejercite dentro del plazo establecido para la modalidad procesal de despido. Cuando para la acción de extinción del contrato de trabajo del artículo 50 del Texto Refundido de la Ley del Estatuto de los Trabajadores se invoque la falta de pago del salario pactado, contemplada en la letra b) del apartado 1 de aquel precepto, la reclamación salarial podrá acumularse a la acción solicitando la extinción indemnizada del vínculo, pudiendo, en su caso, ampliarse la demanda para incluir las cantidades posteriormente adeudadas.
-
-> El trabajador podrá acumular a la acción de despido la reclamación de la liquidación de las cantidades adeudadas hasta esa fecha conforme al apartado 2 del artículo 49 del Estatuto de los Trabajadores, sin que por ello se altere el orden de intervención del apartado 1 del artículo 105 de esta Ley. No obstante, si por la especial complejidad de los conceptos reclamados se pudiesen derivar demoras excesivas al proceso por despido, el juzgado podrá disponer, acto seguido de la celebración del juicio, que se tramiten en procesos separados las pretensiones de despido y cantidad, para lo que dispondrá la deducción de testimonio o copia de las actuaciones y elementos de prueba que estime necesarios a fin de poder dictar sentencia sobre las pretensiones de cantidad en el nuevo proceso resultante."
 
 4\. Igualmente podrá acumularse a la reclamación de clasificación profesional por realización de trabajos de categoría o grupo profesional superior la reclamación de las diferencias retributivas derivadas.
 
@@ -729,8 +667,6 @@ El trabajador podrá acumular a la acción de despido la reclamación de las can
 8\. Asimismo, se podrán acumular en una misma demanda acciones de modificaciones sustanciales de condiciones de trabajo por parte de distintos actores contra un mismo demandado siempre que deriven de los mismos hechos o de una misma decisión empresarial.
 
 También se podrán acumular en una misma demanda acciones de despido por causas objetivas derivadas del apartado l) del artículo 49 del Texto Refundido del Estatuto de los Trabajadores, por parte de distintos actores contra un mismo demandado siempre que deriven de cartas de despido con idéntica causa.
-
-> Téngase en cuenta que el apartado 8, añadido por el art. 104.6 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2
 
 > Se modifican los apartados 1 y 3 y se añade el 8 por el art. 104.6 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -750,12 +686,6 @@ También se podrán acumular en una misma demanda acciones de despido por causas
 
 1\. Si en el mismo juzgado o tribunal se tramitaran varias demandas contra un mismo demandado, aunque los actores sean distintos, y se ejercitasen en ellas acciones idénticas o susceptibles de haber sido acumuladas en una misma demanda, se acordará obligatoriamente la acumulación de los procesos, salvo cuando el juzgado o tribunal aprecie, de forma motivada, que la acumulación podría ocasionar perjuicios desproporcionados a la tutela judicial efectiva del resto de intervinientes.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.7 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Si en el mismo juzgado o tribunal se tramitaran varias demandas contra un mismo demandado, aunque los actores sean distintos, y se ejercitasen en ellas acciones idénticas o susceptibles de haber sido acumuladas en una misma demanda, se acordará, de oficio o a instancia de parte, la acumulación de los procesos."
-
 2\. Cuando en materia de prestaciones de Seguridad Social o sobre recargo de prestaciones, se impugnare un mismo acto administrativo, o actos de reproducción, confirmación o ejecución de otro anterior, o actos entre los que exista conexión directa, se acordará la acumulación de los procesos aunque no coincidan todas las partes ni la posición procesal que ocupen. Dicha regla se aplicará a la impugnación de un mismo acto administrativo en las restantes materias competencia del orden social.
 
 3\. El secretario judicial velará por el cumplimiento de lo dispuesto en esta Sección, poniendo en conocimiento del juez o tribunal los procesos en los que se cumplan dichos requisitos, a fin de que se resuelva sobre la acumulación.
@@ -767,14 +697,6 @@ También se podrán acumular en una misma demanda acciones de despido por causas
 **Artículo 29. Acumulación de procesos seguidos ante distintos juzgados.**
 
 Si en el caso del artículo anterior las demandas pendieran en distintos procesos ante dos o más juzgados de lo Social de una misma circunscripción, también se acordará obligatoriamente la acumulación de todas ellas, de oficio o a petición de parte. A tal efecto, las partes deberán comunicar esta circunstancia ante el juzgado o tribunal que conociese de la demanda que hubiera tenido entrada antes en el Registro.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 104.8 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 29. Acumulación de procesos seguidos ante distintos juzgados.**
-
-> Si en el caso del artículo anterior las demandas pendieran en distintos procesos ante dos o más Juzgados de lo Social de una misma circunscripción, también se acordará la acumulación de todas ellas, de oficio o a petición de parte. Esta petición habrá de formularse ante el juzgado o tribunal que conociese de la demanda que hubiera tenido entrada antes en el Registro."
 
 > Se modifica por el art. 104.8 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -821,16 +743,6 @@ La acumulación de recursos de suplicación y casación se regirá por lo dispue
 2\. Planteada la acumulación, podrán suspenderse durante el tiempo imprescindible aquellas actuaciones cuya realización pudiera privar de efectividad a la decisión que, sobre la procedencia de la acumulación, pudiera dictarse.
 
 3\. Acordada la acumulación de procesos, no podrá ésta dejarse sin efecto por el juez, la jueza o el tribunal, respecto de uno o varios de ellos, salvo que no se hayan cumplido las prescripciones legales sobre la acumulación o cuando el juez o jueza justifique, de forma motivada, que la acumulación efectuada podría ocasionar perjuicios desproporcionados a la tutela judicial efectiva del resto de intervinientes.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 104.9 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 34. Momento de la acumulación. Separación de uno o varios procesos de una acumulación acordada.**
-
-> 1\. La acumulación de acciones y procesos deberá formularse y acordarse antes de la celebración de los actos de conciliación, en su caso, y de juicio, salvo que se proponga por vía de reconvención.
-
-> 2\. Acordada la acumulación de procesos, podrá ésta dejarse sin efecto por el juez o tribunal respecto de uno o varios de ellos, si concurren causas que justifiquen su tramitación separada."
 
 > Se modifica por el art. 104.9 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -920,16 +832,6 @@ Serán hábiles el mes de agosto y los días que median entre el 24 de diciembre
 
 Las partes habrán de presentar todos los escritos y documentos en la forma establecida en el artículo 135 de la Ley 1/2000, de 7 de enero, pudiendo los trabajadores elegir en todo momento si actúan ante la Administración de Justicia a través de medios electrónicos o no.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.10 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 44. Lugar de presentación de escritos y documentos.**
-
-> 1\. Las partes habrán de presentar todos los escritos y documentos en los Registros de la oficina judicial adscrita a los Juzgados y Salas de lo Social.
-
-> 2\. Cuando las oficinas judiciales y los sujetos intervinientes en un proceso dispongan de medios técnicos que permitan el envío y la normal recepción de escritos iniciadores y demás escritos y documentos, de forma tal que esté garantizada la autenticidad de la comunicación y quede constancia fehaciente de la remisión y recepción íntegras y de su fecha, los escritos y documentos podrán enviarse y recibirse por aquellos medios, con plenos efectos procesales, con el resguardo acreditativo que proceda de conformidad con lo dispuesto en el apartado 5 del artículo 135 de la Ley de Enjuiciamiento Civil."
-
 > Se modifica por el art. 104.10 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -982,20 +884,6 @@ Pronunciada oralmente una sentencia, si todas las personas que fueren parte en e
 
 Fuera de este caso, el plazo para recurrir comenzará a contar desde que se notificase a la parte la resolución así redactada.
 
-> Téngase en cuenta que este apartado 1, modificado por el art. 24.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El juez, en el momento de terminar el juicio, y salvo cuando por razón de la materia o de la cuantía proceda recurso de suplicación, podrá pronunciar sentencia de viva voz, con el contenido y los requisitos establecidos en el apartado 2 del artículo 97. En este supuesto, las partes podrán solicitar que se les entregue documento que contenga la transcripción por escrito de la sentencia.
-
-> Igualmente podrá aprobar mediante sentencia de viva voz, cualquiera que sea la materia y la cuantía, el allanamiento total efectuado, así como, en su caso, los términos de ejecución de la sentencia que le sean propuestos de común acuerdo por las partes, siempre que, de proceder recurso, manifestaran éstas su decisión de no recurrir.
-
-> 2\. También podrá el juez limitarse a pronunciar el fallo, cualquiera que sea la cuantía o la materia, con motivación sucinta del mismo, sin perjuicio de la redacción posterior de la sentencia dentro del plazo y en la forma legalmente previstos.
-
-> 3\. Las partes quedarán notificadas de las sentencias dictadas oralmente. Si, conocida la sentencia de viva voz o el fallo anticipado, las partes expresaran su decisión de no recurrir, el juez en el mismo acto declarará la firmeza de la sentencia.
-
-> 4\. Si alguna de las partes no hubiera comparecido se le hará la oportuna notificación."
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 24.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 **Artículo 51. Autos orales.**
@@ -1016,14 +904,6 @@ Toda resolución incluirá la mención del lugar y fecha en que se adopte, el no
 
 El domicilio y los datos de localización facilitados con tal fin surtirán plenos efectos y las notificaciones en ellos intentadas sin efecto serán válidas hasta tanto no sean facilitados otros datos alternativos, siendo carga procesal de las partes y de sus representantes mantenerlos actualizados. Asimismo, deberán comunicar los cambios relativos a su número de teléfono, fax, dirección electrónica o similares, siempre que estos últimos estén siendo utilizados como instrumentos de comunicación con el tribunal.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 104.11 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. En el primer escrito o comparecencia ante el órgano judicial, las partes o interesados, y en su caso los profesionales designados, señalarán un domicilio y datos completos para la práctica de actos de comunicación.
-
-> El domicilio y los datos de localización facilitados con tal fin surtirán plenos efectos y las notificaciones en ellos intentadas sin efecto serán válidas hasta tanto no sean facilitados otros datos alternativos, siendo carga procesal de las partes y de sus representantes mantenerlos actualizados. Asimismo deberán comunicar los cambios relativos a su número de teléfono, fax, dirección electrónica o similares, siempre que estos últimos estén siendo utilizados como instrumentos de comunicación con el tribunal."
-
 > Se modifica el apartado 2 por el art. 104.11 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1042,14 +922,6 @@ Las citaciones, notificaciones, emplazamientos y requerimientos a las partes que
 
 No obstante, si la comunicación tuviese por objeto la personación en juicio o la realización o intervención personal de las partes en determinadas actuaciones procesales se estará a lo establecido en al apartado 2 del artículo 155 de la Ley 1/2000, de 7 de enero.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.12 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 55. Lugar de las comunicaciones.**
-
-> Las citaciones, notificaciones, emplazamientos y requerimientos se harán en el local de la oficina judicial, si allí comparecieren por propia iniciativa los interesados y, en otro caso, en el domicilio señalado a estos efectos."
-
 > Se modifica por el art. 104.12 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1065,12 +937,6 @@ No obstante, si la comunicación tuviese por objeto la personación en juicio o 
 4\. Se podrá disponer que la comunicación se practique por el servicio de telégrafo, fax, correo electrónico o por cualquier otro medio idóneo de comunicación o de transmisión de textos si los interesados facilitaran los datos indicativos para utilizarlos. Se adoptarán las medidas oportunas para asegurar el contenido del envío y la unión, en su caso, del acuse de recepción del acto comunicado, de lo cual quedará constancia en autos. Igualmente se podrá dejar constancia mediante diligencia del resultado de las gestiones y llamadas telefónicas u otros medios relacionados con los actos de localización y comunicación y con el trámite de las actuaciones.
 
 5\. Cuando se trate de personas que estén legalmente obligadas a relacionarse electrónicamente con la Administración de Justicia o que hayan optado por la utilización de estos medios, la comunicación se realizará conforme a lo establecido en el artículo 162 de la Ley 1/2000, de 7 de enero, sin que quepa en el orden jurisdiccional social la posibilidad de obligar contractualmente al trabajador a dicha relación electrónica.
-
-> Téngase en cuenta que esta actualización del apartado 5, establecida por el art. 104.13 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "5. Cuando la comunicación tenga lugar utilizando medios electrónicos, telemáticos, infotelecomunicaciones o de otra clase semejante, se realizará conforme a lo establecido en el artículo 162 de la Ley de Enjuiciamiento Civil."
 
 > Se modifica el apartado 5 por el art. 104.13 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1120,16 +986,6 @@ d) Firma del funcionario o encargado de documentar la entrega.
 
 3\. La comunicación edictal se llevará a cabo de conformidad con el artículo 164 de la Ley 1/2000, de 7 de enero.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.14 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 59. Comunicación edictal.**
-
-> 1\. Cuando una vez intentado el acto de comunicación y habiendo utilizado los medios oportunos para la investigación del domicilio, incluida en su caso la averiguación a través de los Registros, organismos, Colegios profesionales, entidades y empresas, éstos hayan resultado infructuosos y no conste el domicilio del interesado o se ignore su paradero, se consignará por diligencia.
-
-> 2\. En tal caso, el secretario judicial mandará que el acto de comunicación se haga por medio de edictos, insertando un extracto suficiente de la resolución o de la cédula en el Boletín Oficial correspondiente, con la advertencia de que las siguientes comunicaciones se harán fijando copia de la resolución o de la cédula en la oficina judicial, por el medio establecido al efecto, salvo el supuesto de la comunicación de las resoluciones que deban revestir forma de auto o sentencia, o de decreto cuando ponga fin al proceso o resuelva un incidente, o cuando se trate de emplazamiento."
-
 > Se modifica por el art. 104.14 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1156,14 +1012,6 @@ El letrado o letrada de la Administración de Justicia deberá expedir oficios, 
 
 La remisión de oficios, mandamientos, exhortos y cualesquiera otros actos de comunicación por el letrado o letrada de la Administración de Justicia se realizará de forma electrónica, si fuera posible.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.15 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 62. Competencia del secretario judicial para la remisión de oficios, mandamientos y exhortos**.
-
-> El secretario judicial deberá expedir oficios, mandamientos, exhortos y cualesquiera otros actos de comunicación que se acuerden interesando la práctica de actuaciones."
-
 > Se modifica por el art. 104.15 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1180,21 +1028,9 @@ Será requisito previo para la tramitación del proceso el intento de conciliaci
 
 1\. Se exceptúan del requisito del intento de conciliación o, en su caso, de mediación los procesos que exijan el agotamiento de la vía administrativa, en su caso, los que versen sobre Seguridad Social, los relativos a la impugnación del despido colectivo por los representantes de los trabajadores, disfrute de vacaciones y a materia electoral, movilidad geográfica, modificación sustancial de las condiciones de trabajo, suspensión del contrato y reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor, procesos monitorios, derechos de conciliación de la vida personal, familiar y laboral a los que se refiere el artículo 139, los iniciados de oficio, los de impugnación de convenios colectivos, los de impugnación de los estatutos de los sindicatos o de su modificación, los de tutela de los derechos fundamentales y libertades públicas, los procesos de anulación de laudos arbitrales, los de impugnación de acuerdos de conciliaciones, de mediaciones y de transacciones, los de reclamación sobre acceso, reversión y modificación del trabajo a distancia a los que se refiere el artículo 138 bis, así como aquéllos en que se ejerciten acciones laborales de protección contra la violencia de género.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.16 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Se exceptúan del requisito del intento de conciliación o, en su caso, de mediación los procesos que exijan el agotamiento de la vía administrativa, en su caso, los que versen sobre Seguridad Social, los relativos a la impugnación del despido colectivo por los representantes de los trabajadores, disfrute de vacaciones y a materia electoral, movilidad geográfica, modificación sustancial de las condiciones de trabajo, suspensión del contrato y reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor, derechos de conciliación de la vida personal, familiar y laboral a los que se refiere el artículo 139, los iniciados de oficio, los de impugnación de convenios colectivos, los de impugnación de los estatutos de los sindicatos o de su modificación, los de tutela de los derechos fundamentales y libertades públicas, los procesos de anulación de laudos arbitrales, los de impugnación de acuerdos de conciliaciones, de mediaciones y de transacciones, así como aquellos en que se ejerciten acciones laborales de protección contra la violencia de género."
-
 2\. Igualmente, quedan exceptuados:
 
 a) Aquellos procesos en los que la representación corresponda al abogado del Estado, al letrado o letrada de la Administración de la Seguridad Social, a los representantes procesales de las Comunidades Autónomas o de las Administraciones Locales o al letrado o letrada de las Cortes Generales.
-
-> Téngase en cuenta que esta actualización de la letra a) del apartado 2, establecida por el art. 104.16 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "a) Aquellos procesos en los que siendo parte demandada el Estado u otro ente público también lo fueren personas privadas, siempre que la pretensión hubiera de someterse al agotamiento de la vía administrativa y en ésta pudiera decidirse el asunto litigioso."
 
 b) Los supuestos en que, en cualquier momento del proceso, después de haber dirigido la papeleta o la demanda contra personas determinadas, fuera necesario dirigir o ampliar la misma frente a personas distintas de las inicialmente demandadas.
 
@@ -1216,14 +1052,6 @@ b) Los supuestos en que, en cualquier momento del proceso, después de haber dir
 
 2\. En todo caso, transcurrido el plazo de treinta días hábiles sin haberse celebrado el acto de conciliación o sin haberse iniciado mediación o alcanzado acuerdo en la misma se tendrá por terminado el procedimiento y cumplido el trámite.
 
-> Téngase en cuenta que estos apartados 1 y 2, modificados por el art. 24.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. La presentación de la solicitud de conciliación o de mediación suspenderá los plazos de caducidad e interrumpirá los de prescripción. El cómputo de la caducidad se reanudará al día siguiente de intentada la conciliación o mediación o transcurridos quince días hábiles, excluyendo del cómputo los sábados, desde su presentación sin que se haya celebrado.
-
-> 2\. En todo caso, transcurridos treinta días, computados en la forma indicada en el número anterior, sin haberse celebrado el acto de conciliación o sin haberse iniciado mediación o alcanzado acuerdo en la misma se tendrá por terminado el procedimiento y cumplido el trámite."
-
 3\. También se suspenderán los plazos de caducidad y se interrumpirán los de prescripción por la suscripción de un compromiso arbitral, celebrado en virtud de los acuerdos interprofesionales y los convenios colectivos a que se refiere el artículo 83 del Texto Refundido de la Ley del Estatuto de los Trabajadores o de los derivados de los acuerdos de interés profesional conforme al apartado 4 del artículo 18 de la Ley del Estatuto del trabajo autónomo.
 
 En estos casos el cómputo de la caducidad se reanudará al día siguiente de que adquiera firmeza el laudo arbitral; de interponerse un recurso judicial de anulación del laudo, la reanudación tendrá lugar desde el día siguiente a la firmeza de la sentencia que se dicte.
@@ -1241,12 +1069,6 @@ De formularse la impugnación por el Fondo de Garantía Salarial, en relación c
 1\. La asistencia al acto de conciliación o de mediación es obligatoria para los litigantes.
 
 A efectos de ulteriores actuaciones judiciales, las partes que hayan comparecido sin profesionales designados deberán aportar su número de teléfono, dirección de correo electrónico o cualquier otro medio idóneo que permita su comunicación telemática, realizándose las notificaciones desde ese momento en la dirección telemática facilitada, siempre que se cumplan los requisitos establecidos de la Ley que regule el uso de las tecnologías de la información y la comunicación en la Administración de Justicia.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.17 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. La asistencia al acto de conciliación o de mediación es obligatoria para los litigantes."
 
 2\. Cuando estando debidamente citadas las partes para el acto de conciliación o de mediación no compareciese el solicitante ni alegase justa causa, se tendrá por no presentada la papeleta de conciliación o la solicitud de mediación, archivándose todo lo actuado.
 
@@ -1350,16 +1172,6 @@ Aquel al que se hubiere impuesto la multa prevista en el párrafo anterior podr�
 
 De apreciarse temeridad o mala fe en la sentencia o en la resolución de los recursos de suplicación o casación, se estará a lo dispuesto en sus reglas respectivas.
 
-> Téngase en cuenta que éste apartado 4, modificado por el art. 24.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "4. Todos deberán ajustarse en sus actuaciones en el proceso a las reglas de la buena fe. De vulnerarse éstas, así como en caso de formulación de pretensiones temerarias, sin perjuicio de lo dispuesto en el número anterior, el juez o tribunal podrá imponer mediante auto, en pieza separada, de forma motivada y respetando el principio de proporcionalidad, ponderando las circunstancias del hecho, la capacidad económica y los perjuicios causados al proceso y a otros intervinientes o a terceros, una multa que podrá oscilar de ciento ochenta a seis mil euros, sin que en ningún caso pueda superar la cuantía de la tercera parte del litigio.
-
-> Aquel al que se hubiere impuesto la multa prevista en el párrafo anterior podrá ser oído en justicia. La audiencia en justicia se pedirá en el plazo de los tres días siguientes al de la notificación de la multa, mediante escrito presentado ante el juez o tribunal que la haya impuesto. La audiencia será resuelta mediante auto contra el que cabrá recurso de alzada en cinco días ante la Sala de Gobierno correspondiente, que lo resolverá previo informe del juez o Sala que impuso la multa.
-
-> De apreciarse temeridad o mala fe en la sentencia o en la resolución de los recursos de suplicación o casación, se estará a lo dispuesto en sus reglas respectivas."
-
 5\. El incumplimiento de las obligaciones de colaboración con el proceso y de cumplir las resoluciones de los jueces y tribunales y de los secretarios judiciales en su función de ordenación del procedimiento y demás competencias atribuidas por el artículo 456 de la Ley Orgánica del Poder Judicial, sin perjuicio de lo previsto en los apartados 3 y 4 anteriores, darán lugar, respectivamente, a la aplicación de los apremios pecuniarios a las partes y de las multas coercitivas a los demás intervinientes o terceros, en los términos establecidos en los apartados 2 y 3 del artículo 241, pudiendo ser oídos en justicia en la forma prevista en el apartado anterior.
 
 > Se modifica el apartado 4, con efectos de 3 de abril de 2025, por el art. 24.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
@@ -1448,14 +1260,6 @@ f) Fecha y firma.
 
 2\. A la demanda se acompañará la documentación justificativa de haber intentado la previa conciliación o mediación, o de haber transcurrido el plazo exigible para su realización sin que se hubiesen celebrado, o del agotamiento de la vía administrativa, cuando proceda, o alegación de no ser necesarias éstas, así como los restantes documentos de aportación preceptiva con la demanda según la modalidad procesal aplicable.
 
-> Téngase en cuenta que ésta modificación, por la que se suprime el apartado 2 y se renumera el anterior apartado 3 como 2, por el art. 24.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "2. De la demanda y documentos que la acompañen se presentarán por el actor tantas copias como demandados y demás interesados en el proceso haya, así como para el Ministerio Fiscal, en los casos en que legalmente deba intervenir, así como de los demás documentos requeridos según la modalidad procesal aplicable.
-
-> 3\. A la demanda se acompañará la documentación justificativa de haber intentado la previa conciliación o mediación, o de haber transcurrido el plazo exigible para su realización sin que se hubiesen celebrado, o del agotamiento de la vía administrativa, cuando proceda, o alegación de no ser necesarias éstas, así como los restantes documentos de aportación preceptiva con la demanda según la modalidad procesal aplicable."
-
 > Se suprime el apartado 2 y se renumera el anterior apartado 3 como 2, con efectos de 3 de abril de 2025, por el art. 24.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 **Artículo 81. Admisión de la demanda.**
@@ -1471,20 +1275,6 @@ f) Fecha y firma.
 Si en la demanda se solicitasen diligencias de anticipación o aseguramiento de la prueba, se dará cuenta al juez, jueza o tribunal para que resuelva lo procedente, dentro de los tres días siguientes, debiendo notificarse la resolución correspondiente junto con la de admisión a trámite de la demanda y la notificación del señalamiento.
 
 5\. El letrado o letrada de la Administración de Justicia requerirá a la parte demandada para que, en el plazo de dos días desde la notificación de la demanda, designe letrado o letrada, graduado o graduada social o procurador o procuradora, salvo que litigase por sí misma.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 104.18 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 81. Admisión de la demanda.**
-
-> 1\. El secretario judicial, dentro de los tres días siguientes a la recepción de la demanda, dará cuenta al juez o tribunal, si entendiera que concurren los supuestos de falta de jurisdicción o competencia o, en otro caso, sin perjuicio de los procedimientos de señalamiento inmediato que puedan establecerse, resolverá sobre la admisión a trámite de aquélla, con señalamiento de juicio en la forma prevista en el artículo siguiente, o advertirá a la parte de los defectos u omisiones en que haya incurrido al redactar la demanda en relación con los presupuestos procesales necesarios que pudieran impedir la válida prosecución y término del proceso, así como en relación con los documentos de preceptiva aportación con la misma, salvo lo dispuesto en el apartado 3 de este mismo artículo para la conciliación o mediación previa, a fin de que los subsane dentro del plazo de cuatro días.
-
-> 2\. Realizada la subsanación, el secretario judicial dentro de los tres días siguientes admitirá la demanda. En otro caso, dará cuenta al juez o tribunal para que por el mismo se resuelva, dentro de los tres días siguientes, sobre su admisibilidad.
-
-> 3\. Si a la demanda no se acompañara certificación del acto de conciliación o mediación previa, o de la papeleta de conciliación o de la solicitud de mediación, de no haberse celebrado en plazo legal, el secretario judicial, sin perjuicio de resolver sobre la admisión y proceder al señalamiento, advertirá al demandante que ha de acreditar la celebración o el intento del expresado acto en el plazo de quince días, contados a partir del día siguiente a la recepción de la notificación, con apercibimiento de archivo de las actuaciones en caso contrario, quedando sin efecto el señalamiento efectuado.
-
-> 4\. Si la demanda fuera admisible, o una vez subsanada la misma, y en ella se solicitasen diligencias de preparación de la prueba a practicar en juicio, así como en los casos de solicitud posterior dentro del plazo legal de tales diligencias o de cualquier otra diligencia de anticipación o aseguramiento de la prueba, se dará cuenta al juez o tribunal para que resuelva lo procedente, dentro de los tres días siguientes, debiendo notificarse la resolución correspondiente junto con la admisión a tramite de la demanda y la notificación del señalamiento."
 
 > Se modifica por el art. 104.18 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1524,22 +1314,6 @@ Cuando un documento, medio o instrumento sobre hechos relativos al fondo del asu
 
 6\. Cuando la representación y defensa en juicio sea atribuida al abogado del Estado, se le concederá un plazo de veintidós días para la consulta a la Abogacía General del Estado. Cuando la representación y defensa en juicio sea atribuida al letrado o letrada de la Administración de la Seguridad Social, se le concederá igualmente un plazo de veintidós días para la consulta a la Dirección del Servicio Jurídico de la Administración de la Seguridad Social. Este mismo plazo se entenderá, respecto de las Comunidades Autónomas, para consulta al organismo que establezca su legislación propia, así como cuando la representación y presencia en juicio sea atribuida al letrado o letrada de las Cortes Generales. El señalamiento del juicio se hará de modo que tenga lugar en fecha posterior al indicado plazo.
 
-> Téngase en cuenta que la modificación de este precepto por el art. 24.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. De ser admitida la demanda, una vez verificada la concurrencia de los requisitos exigidos, en la misma resolución de admisión a trámite el secretario judicial señalará el día y la hora en que hayan de tener lugar sucesivamente los actos de conciliación y juicio, debiendo mediar un mínimo de diez días entre la citación y la efectiva celebración de dichos actos, salvo en los supuestos en que la Ley disponga otro distinto y en los supuestos de nuevo señalamiento después de una suspensión.
-
-> En el señalamiento de las vistas y juicios el secretario judicial atenderá a los criterios establecidos en el artículo 182 de la Ley de Enjuiciamiento Civil y procurará, en la medida de lo posible, señalar en un mismo día los que se refieran a los mismos interesados y no puedan ser acumulados, así como relacionar los señalamientos de los procesos en los que se deba intentar la conciliación previa por parte del secretario judicial con los exentos de dicho trámite. En especial, las audiencias y vistas que requieran la presencia del representante del Ministerio Fiscal, abogado del Estado, letrados de las Cortes Generales, letrados de la Administración de la Seguridad Social, de las Comunidades Autónomas o de la Administración Local, serán agrupadas, señalándose de forma consecutiva.
-
-> 2\. La celebración de los actos de conciliación y juicio, el primero ante el secretario judicial y el segundo ante el juez o Magistrado, tendrá lugar en única convocatoria pero en sucesivos actos, debiendo hacerse a este efecto la citación en forma, con entrega a los demandados, a los interesados y, en su caso, al Ministerio Fiscal, de copia de la demanda y demás documentos; así como requiriendo de la Administración pública la remisión del expediente administrativo, cuando proceda, dentro de los diez días siguientes a la notificación.
-
-> 3\. En las cédulas de citación se hará constar que los actos de conciliación y juicio no podrán suspenderse por incomparecencia del demandado, así como que los litigantes han de concurrir al juicio con todos los medios de prueba de que intenten valerse y que podrán formalizar conciliación en evitación del juicio, por medio de comparecencia ante la oficina judicial, sin esperar a la fecha del señalamiento, así como someter la cuestión a los procedimientos de mediación que pudieran estar constituidos de acuerdo con lo dispuesto en el artículo 63 de esta Ley, adoptando las medidas oportunas a tal fin, sin que ello dé lugar a la suspensión, salvo que de común acuerdo lo soliciten ambas partes, justificando la sumisión a la mediación, y por el tiempo máximo establecido en el procedimiento correspondiente, que en todo caso no podrá exceder de quince días.
-
-> 4\. De oficio o a petición de parte, podrá requerirse el previo traslado entre las partes o la aportación anticipada, en soporte preferiblemente informático, con cinco días de antelación al acto de juicio, de la prueba documental o pericial que, por su volumen o complejidad, sea conveniente posibilitar su examen previo al momento de la práctica de la prueba.
-
-> 5\. Cuando la representación y defensa en juicio sea atribuida al abogado del Estado, se le concederá un plazo de veintidós días para la consulta a la Abogacía General del Estado–Dirección del Servicio Jurídico del Estado. Cuando la representación y defensa en juicio sea atribuida al letrado de la Administración de la Seguridad Social, se le concederá igualmente un plazo de veintidós días para la consulta a la Dirección del Servicio Jurídico de la Administración de la Seguridad Social. Este mismo plazo se entenderá, respecto de las Comunidades Autónomas, para consulta al organismo que establezca su legislación propia, así como cuando la representación y presencia en juicio sea atribuida al letrado de las Cortes Generales. El señalamiento del juicio se hará de modo que tenga lugar en fecha posterior al indicado plazo."
-
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 24.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 ##### Sección 2.ª Conciliación y juicio
@@ -1553,12 +1327,6 @@ En caso de coincidencia de señalamientos, de no ser posible la sustitución den
 2\. Si el actor, citado en forma, no compareciese ni alegase justa causa que motive la suspensión del acto de conciliación o del juicio, el secretario judicial en el primer caso y el juez o tribunal en el segundo, le tendrán por desistido de su demanda.
 
 3\. La incomparecencia injustificada del demandado al acto de conciliación no impedirá la celebración de los actos de conciliación y juicio, continuando este sin necesidad de declarar su rebeldía y sin perjuicio de la sanción que, por esta circunstancia, se podrá imponer en sentencia en los términos establecidos en el artículo 97.3.
-
-> Téngase en cuenta que este apartado 3, modificado por el art. 24.6 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "3. La incomparecencia injustificada del demandado no impedirá la celebración de los actos de conciliación y juicio, continuando éste sin necesidad de declarar su rebeldía."
 
 4\. Las personas profesionales de la Abogacía y de la procura podrán acogerse a las mismas causas de suspensión por circunstancias personales o familiares que se recogen para cada uno de dichos profesionales en la Ley de Enjuiciamiento Civil. Tales causas de suspensión serán igualmente aplicables a los graduados y graduadas sociales.
 
@@ -1582,16 +1350,6 @@ La conciliación alcanzada ante el letrado o la letrada de la Administración de
 
 De celebrarse la conciliación anticipada prevista en el artículo 82 y resultar sin acuerdo, el letrado o la letrada de la Administración de Justicia dejará constancia en el acta de los aspectos controvertidos que hayan impedido el mismo y, de concurrir cuestiones procesales que pudieran suscitar la suspensión del acto del juicio, tales como la existencia de terceros que deban ser llamados al procedimiento o la situación concursal de cualquiera de los intervinientes, advertirá a las partes en los términos establecidos en el artículo 81.
 
-> Téngase en cuenta que los apartados 1 y 3, modificados por el art. 24.7 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El secretario judicial intentará la conciliación, llevando a cabo la labor mediadora que le es propia, y advertirá a las partes de los derechos y obligaciones que pudieran corresponderles. Si las partes alcanzan la avenencia, dictará decreto aprobándola y acordando, además, el archivo de las actuaciones. Del mismo modo, corresponderá al secretario judicial la aprobación del acuerdo alcanzado por las partes antes del día señalado para los actos de conciliación y juicio. La conciliación y la resolución aprobatoria, oral o escrita, se documentarán en la propia acta de comparecencia.
-
-> [...]
-
-> 3\. En caso de no haber avenencia ante el secretario judicial y procederse a la celebración del juicio, la aprobación del acuerdo conciliatorio que, en su caso, alcanzasen las partes en dicho momento corresponderá al juez o tribunal ante el que se hubiere obtenido mediante resolución oral o escrita documentada en el propio acuerdo. Sólo cabrá nueva intervención del secretario judicial aprobando un acuerdo entre las partes si el acto del juicio se llegase a suspender por cualquier causa."
-
 4\. Del acto de conciliación se extenderá la correspondiente acta.
 
 5\. La conciliación y los acuerdos entre las partes aprobados por el secretario judicial o, en su caso, por el juez o tribunal se llevarán a efecto por los trámites de la ejecución de sentencias.
@@ -1605,16 +1363,6 @@ De celebrarse la conciliación anticipada prevista en el artículo 82 y resultar
 1\. En el acto del juicio, habiéndose dado cuenta de lo actuado, se resolverá, en primer término, motivadamente, en forma oral y oídas las partes, sobre las cuestiones previas que se puedan formular en ese acto, así como sobre los recursos u otras incidencias pendientes de resolución, sin perjuicio de la ulterior sucinta fundamentación en la sentencia, cuando proceda. Igualmente serán oídas las partes y, en su caso, se resolverá, motivadamente y en forma oral, lo procedente sobre las cuestiones que el juez, la jueza o el tribunal pueda plantear en ese momento sobre su competencia, los presupuestos de la demanda o el alcance y límites de la pretensión formulada, respetando las garantías procesales de las partes y sin prejuzgar el fondo del asunto.
 
 A continuación, el demandante ratificará o ampliará su demanda, aunque en ningún caso podrá hacer en ella variación sustancial.
-
-> Téngase en cuenta que este apartado 1, modificado por el art. 24.8 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "Si no hubiera avenencia en conciliación, se pasará seguidamente a juicio y se dará cuenta de lo actuado.
-
-> Con carácter previo se resolverá, motivadamente, en forma oral y oídas las partes, sobre las cuestiones previas que se puedan formular en ese acto, así como sobre los recursos u otras incidencias pendientes de resolución, sin perjuicio de la ulterior sucinta fundamentación en la sentencia, cuando proceda. Igualmente serán oídas las partes y, en su caso, se resolverá, motivadamente y en forma oral, lo procedente sobre las cuestiones que el juez o tribunal pueda plantear en ese momento sobre su competencia, los presupuestos de la demanda o el alcance y límites de la pretensión formulada, respetando las garantías procesales de las partes y sin prejuzgar el fondo del asunto.
-
-> A continuación, el demandante ratificará o ampliará su demanda, aunque en ningún caso podrá hacer en ella variación sustancial."
 
 2\. El demandado contestará afirmando o negando concretamente los hechos de la demanda, y alegando cuantas excepciones estime procedentes.
 
@@ -1652,8 +1400,6 @@ No será necesaria reconvención para alegar compensación de deudas, siempre qu
 
 2\. Una vez firme la sentencia, se dejará constancia de ella en los procesos suspendidos y se notificará a las partes de los mismos a fin de que, en el plazo de cinco días, puedan interesar los demandantes la extensión de sus efectos en los términos previstos en el artículo 247 ter, la continuación del procedimiento o bien desistir de la demanda.
 
-> Téngase en cuenta que este precepto, añadido por el art. 104.19 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
 > Se añade por el art. 104.19 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Este artículo entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1690,19 +1436,7 @@ El juez o tribunal, sin apartarse de las pretensiones y causa de pedir que expre
 
 1\. El desarrollo de las sesiones del juicio oral y el resto de actuaciones orales se documentarán conforme a lo preceptuado en los artículos 146 y 147 de la Ley 1/2000, de 7 de enero. La oficina judicial deberá asegurar la correcta incorporación de la grabación al expediente judicial electrónico. Si los sistemas no proveen expediente judicial electrónico, el letrado o letrada de la Administración de Justicia deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir, a su costa, copia o en su caso acceso electrónico de las grabaciones originales.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.20 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. El desarrollo de las sesiones del juicio oral se registrará en soporte apto para la grabación y reproducción del sonido y de la imagen. El secretario judicial deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir, a su costa, copia de las grabaciones originales."
-
 2\. Siempre que se cuente con los medios tecnológicos necesarios, estos garantizarán la autenticidad e integridad de lo grabado o reproducido. A tal efecto, el letrado o letrada de la Administración de Justicia hará uso de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del letrado o letrada de la Administración de Justicia salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el letrado o letrada de la Administración de Justicia atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen. En estos casos, el letrado o letrada de la Administración de Justicia extenderá acta sucinta en los términos previstos en el apartado siguiente.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 104.20 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "2. Siempre que se cuente con los medios tecnológicos necesarios, el secretario judicial garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica reconocida u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del secretario judicial salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el secretario judicial, atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen, supuesto en el cual el secretario judicial extenderá acta sucinta en los términos previstos en el apartado siguiente."
 
 3\. Si los mecanismos de garantía previstos en el apartado anterior no se pudiesen utilizar, el secretario judicial deberá consignar en el acta, al menos, los siguientes datos: lugar y fecha de celebración, juez o tribunal que preside el acto, peticiones y propuestas de las partes, medios de prueba propuestos por ellas, declaración de su pertinencia o impertinencia, resoluciones que adopte el juez o tribunal, así como las circunstancias e incidencias que no pudieran constar en aquel soporte.
 
@@ -1747,16 +1481,6 @@ e) Declaración hecha por el juez o tribunal de conclusión de los autos, mandan
 2\. No se admitirán pruebas que tuvieran su origen o que se hubieran obtenido, directa o indirectamente, mediante procedimientos que supongan violación de derechos fundamentales o libertades públicas. Esta cuestión podrá ser suscitada por cualquiera de las partes o de oficio por el tribunal en el momento de la proposición de la prueba, salvo que se pusiese de manifiesto durante la práctica de la prueba una vez admitida. A tal efecto, se oirá a las partes y, en su caso, se practicarán las diligencias que se puedan practicar en el acto sobre este concreto extremo, recurriendo a diligencias finales solamente cuando sea estrictamente imprescindible y la cuestión aparezca suficientemente fundada. Contra la resolución que se dicte sobre la pertinencia de la práctica de la prueba y en su caso de la unión a los autos de su resultado o del elemento material que incorpore la misma, sólo cabrá recurso de reposición, que se interpondrá, se dará traslado a las demás partes y se resolverá oralmente en el mismo acto del juicio o comparecencia, quedando a salvo el derecho de las partes a reproducir la impugnación de la prueba ilícita en el recurso que, en su caso, procediera contra la sentencia.
 
 3\. Podrán asimismo solicitar, al menos con diez días de antelación a la fecha del juicio, diligencias de preparación de la prueba a practicar en juicio salvo cuando el señalamiento se deba efectuar con antelación menor, en cuyo caso el plazo será de tres días, y sin perjuicio de lo que el juez, la jueza o el tribunal decida sobre su admisión o inadmisión en el acto del juicio.
-
-> Téngase en cuenta que la rúbrica y el apartado 3, modificados por el art. 24.9 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "**Artículo 90. Admisibilidad de los medios de prueba.**
-
-> [...]
-
-> 3\. Podrán asimismo solicitar, al menos con cinco días de antelación a la fecha del juicio, aquellas pruebas que, habiendo de practicarse en el mismo, requieran diligencias de citación o requerimiento, salvo cuando el señalamiento se deba efectuar con antelación menor, en cuyo caso el plazo será de tres días."
 
 4\. Cuando sea necesario a los fines del proceso el acceso a documentos o archivos, en cualquier tipo de soporte, que pueda afectar a la intimidad personal u otro derecho fundamental, el juez o tribunal, siempre que no existan medios de prueba alternativos, podrá autorizar dicha actuación, mediante auto, previa ponderación de los intereses afectados a través de juicio de proporcionalidad y con el mínimo sacrificio, determinando las condiciones de acceso, garantías de conservación y aportación al proceso, obtención y entrega de copias e intervención de las partes o de sus representantes y expertos, en su caso.
 
@@ -1834,14 +1558,6 @@ No será necesaria autorización judicial si la actuación viniera exigida por l
 
 La imposición de las anteriores medidas se efectuará a solicitud de parte o de oficio, previa audiencia en el acto de la vista de las partes personadas. De considerarse de oficio la posibilidad de imponer la sanción pecuniaria una vez concluido el acto de juicio, se concederá a las partes un término de dos días para que puedan formular alegaciones escritas. En el caso de incomparecencia a los actos de conciliación o de mediación, incluida la conciliación ante el letrado o letrada de la Administración de Justicia, sin causa justificada, se aplicarán por el juez, la jueza o el tribunal las medidas previstas en el apartado 3 del artículo 66.
 
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 104.21 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "3. La sentencia, motivadamente, podrá imponer al litigante que obró de mala fe o con temeridad, así como al que no acudió al acto de conciliación injustificadamente, una sanción pecuniaria dentro de los límites que se fijan en el apartado 4 del artículo 75. En tales casos, y cuando el condenado fuera el empresario, deberá abonar también los honorarios de los abogados y graduados sociales de la parte contraria que hubieren intervenido, hasta el límite de seiscientos euros.
-
-> La imposición de las anteriores medidas se efectuará a solicitud de parte o de oficio, previa audiencia en el acto de la vista de las partes personadas. De considerarse de oficio la posibilidad de dicho pronunciamiento una vez concluido el acto de juicio, se concederá a las partes un término de dos días para que puedan formular alegaciones escritas. En el caso de incomparecencia a los actos de conciliación o de mediación, incluida la conciliación ante el secretario judicial, sin causa justificada, se aplicarán por el juez o tribunal las medidas previstas en el apartado 3 del artículo 66."
-
 4\. En el texto de la sentencia se indicará si la misma es o no firme y, en su caso, los recursos que procedan, el órgano ante el que deben interponerse y el plazo y los requisitos para ello, así como los depósitos y las consignaciones que sean necesarios y la forma de efectuarlos.
 
 > Se modifica el apartado 3 por el art. 104.21 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -1894,34 +1610,6 @@ e) Si no hubiera sido posible notificar personalmente en la forma exigida el req
 
 f) Si se formulase oposición sólo en cuanto a parte de la cantidad reclamada, el demandante podrá solicitar del juzgado que se dicte auto acogiendo la reclamación en cuanto a las cantidades reconocidas o no impugnadas. Este auto servirá de título de ejecución, que el demandante podrá solicitar mediante simple escrito sin necesidad de esperar a la resolución que recaiga respecto de las cantidades controvertidas.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.22 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 101. Proceso monitorio.**
-
-> En reclamaciones frente a empresarios que no se encuentren en situación de concurso, referidas a cantidades vencidas, exigibles y de cuantía determinada, derivadas de su relación laboral, excluyendo las reclamaciones de carácter colectivo que se pudieran formular por la representación de los trabajadores, así como las que se interpongan contra las Entidades gestoras o colaboradoras de la Seguridad Social, que no excedan de seis mil euros, cuando conste la posibilidad de su notificación por los procedimientos previstos en los artículos 56 y 57 de esta Ley, el trabajador podrá formular su pretensión en la forma siguiente:
-
-> a) El proceso monitorio comenzará por petición inicial en la que se expresarán la identidad completa y precisa del empresario deudor, datos de identificación fiscal, domicilio completo y demás datos de localización, y en su caso de comunicación, por medios informáticos y telefónicos, tanto del demandante como del demandado, así como el detalle y desglose de los concretos conceptos, cuantías y períodos reclamados. Deberá acompañarse copia del contrato, recibos de salarios, comunicación empresarial o reconocimiento de deuda, certificado o documento de cotización o informe de vida laboral, u otros documentos análogos de los que resulte un principio de prueba de la relación laboral y de la cuantía de la deuda, así como documentación justificativa de haber intentado la previa conciliación o mediación cuando éstas sean exigibles. La solicitud se presentará, preferentemente, por medios informáticos, de disponerse de ellos, pudiendo extenderse en el modelo o formulario que se facilite al efecto.
-
-> b) El secretario judicial procederá a la comprobación de los requisitos anteriores, completando, en su caso, los indicados en la solicitud con otros domicilios, datos de identificación o que afecten a la situación empresarial, utilizando a tal fin los medios de que disponga el juzgado, y concederá trámite de subsanación por cuatro días de cualquier defecto que apreciare, salvo que sean insubsanables. En caso de apreciar defectos insubsanables, o de no subsanarse en plazo los apreciados, dará cuenta al juez para que resuelva sobre la admisión o inadmisión de la petición.
-
-> De ser admisible la petición, requerirá al empresario para que, en el plazo de diez días, pague al trabajador, acreditándolo ante el juzgado, o comparezca ante éste y alegue sucintamente, en escrito de oposición, las razones por las que a su entender, no debe, en todo o en parte, la cantidad reclamada, con apercibimiento de que de no pagar la cantidad reclamada ni comparecer alegando las razones de la negativa al pago, se despachará ejecución contra él. Este requerimiento no podrá practicarse mediante edictos.
-
-> Del requerimiento se dará traslado por igual plazo al Fondo de Garantía Salarial, plazo que se ampliará respecto del mismo por otros diez días más, si manifestase que necesita efectuar averiguaciones sobre los hechos de la solicitud, en especial sobre la solvencia empresarial.
-
-> c) Transcurrido el plazo conferido en el requerimiento, de haberse abonado o consignado el total importe se archivará el proceso, previa entrega de la cantidad al solicitante.
-
-> De no haber mediado en dicho plazo oposición, por escrito y en forma motivada, del empresario o del Fondo de Garantía Salarial, el secretario judicial dictará decreto dando por terminado el proceso monitorio y dará traslado al demandante para que inste el despacho de ejecución, bastando para ello con la mera solicitud. Desde la fecha de este decreto se devengará el interés procesal del apartado 2 del artículo 251 de esta Ley. Contra el auto de despacho de la ejecución, conteniendo la orden general de ejecución, procederá oposición según lo previsto en el apartado 4 del artículo 239 de esta Ley y pudiendo alegarse a tal efecto la falta de notificación del requerimiento. Contra el auto resolutorio de la oposición no procederá recuso de suplicación.
-
-> d) En caso de insolvencia o concurso posteriores, el auto de despacho de la ejecución servirá de título bastante, a los fines de la garantía salarial que proceda según la naturaleza originaria de la deuda; si bien no tendrá eficacia de cosa juzgada, aunque excluirá litigio ulterior entre empresario y trabajador con idéntico objeto y sin perjuicio de la determinación de la naturaleza salarial o indemnizatoria de la deuda y demás requisitos en el expediente administrativo oportuno frente a la institución de garantía, en su caso.
-
-> e) Si se formulase oposición en el plazo y la forma expresada en la letra b) anterior, se dará traslado a la parte actora, que podrá, en los cuatro días siguientes, presentar, ante el Juzgado de lo Social, demanda en la forma prevenida en este mismo artículo, en cuyo caso se procederá seguidamente al señalamiento ulterior de los actos de conciliación y juicio en la forma ordinariamente prevista, sobreseyendo en caso contrario las actuaciones.
-
-> f) Si no hubiera sido posible notificar en la forma exigida el requerimiento de pago se procederá a dar traslado al actor para que presente demanda en el mismo plazo, si a su derecho interesare, siguiéndose el mismo trámite anterior.
-
-> g) Si se formulase oposición sólo en cuanto a parte de la cantidad reclamada, el demandante podrá solicitar del juzgado que se dicte auto acogiendo la reclamación en cuanto a las cantidades reconocidas o no impugnadas. Este auto servirá de título de ejecución, que el demandante podrá solicitar mediante simple escrito sin necesidad de esperar a la resolución que recaiga respecto de las cantidades controvertidas."
-
 > Se modifica por el art. 104.22 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1953,8 +1641,6 @@ f) Si se formulase oposición sólo en cuanto a parte de la cantidad reclamada, 
 4\. Cuando el trabajador manifieste que la empresa no ha tramitado su baja por despido en la Tesorería General de la Seguridad Social, el procedimiento será urgente y se le dará tramitación preferente. El acto de la vista habrá de señalarse dentro de los cinco días siguientes al de la admisión de la demanda. La sentencia se dictará en el plazo de cinco días.
 
 5\. La tramitación procesal establecida en el apartado anterior será de aplicación a las demandas en las que se solicite la extinción de la relación laboral invocando la causa prevista en la letra b) del apartado 1 del artículo 50 del texto refundido del Estatuto de los Trabajadores.
-
-> Téngase en cuenta que los apartados 4 y 5, añadidos por el art. 104.23 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina su disposición final 9.2
 
 > Se añaden los apartados 4 y 5 por el art. 104.23 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2500,12 +2186,6 @@ Iguales medidas se adoptarán, en el procedimiento correspondiente, en relación
 
 La remisión del expediente podrá tener lugar en forma electrónica, facilitándose la puesta a disposición en los términos previstos en el artículo 63 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.24 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Al admitirse a trámite la demanda se reclamará a la Entidad gestora o al organismo gestor o colaborador la remisión del expediente o de las actuaciones administrativas practicadas en relación con el objeto de la misma, en original o copia, en soporte escrito o preferentemente informático, y, en su caso, informe de los antecedentes que posea en relación con el contenido de la demanda, en plazo de diez días. El expediente se enviará completo, foliado y, en su caso, autentificado y acompañado de un índice de los documentos que contenga. Si se remitiera el expediente original, el secretario judicial lo devolverá a la entidad de procedencia, firme que sea la sentencia, dejando en los autos nota de ello."
-
 2\. Al solicitarse la referida remisión de expediente o actuaciones se requerirá igualmente al correspondiente organismo y éste, en su caso, deberá poner de oficio en conocimiento del juzgado o tribunal, informe de si tiene conocimiento de la existencia de otras demandas en las que se deduzcan pretensiones en relación con el mismo acto o actuación, a los efectos de posibilitar, en su caso, la acumulación de oficio o a instancia de parte.
 
 3\. A la vista del expediente, el Tribunal dispondrá el emplazamiento de las personas que pudieran ostentar un interés legítimo en el proceso o resultar afectadas por el mismo, para que puedan comparecer en el acto de juicio y ser tenidas por parte en el proceso y formular sus pretensiones, procurando que tal emplazamiento se entienda con los interesados con al menos cinco días hábiles de antelación al señalamiento a juicio y sin necesidad de que, en este caso, se cumplan los plazos generales previstos para la citación de las partes demandadas en el artículo 82.
@@ -3004,18 +2684,6 @@ A los procesos seguidos sin que haya comparecido el demandado, les serán de apl
 
 Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.25 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva.
-
-> Téngase en cuenta que el primer párrafo del apartado 1 se declara inconstitucional y nulo por Sentencia del TC 72/2018, de 21 de junio. [Ref. BOE-A-2018-10514](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10514)
-
-> Cabrá recurso directo de revisión contra los decretos que pongan fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
-
-> Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea."
-
 2\. El recurso directo de revisión deberá interponerse en el plazo de tres o cinco días, según el carácter unipersonal o colegiado del órgano en el que se haya dictado la resolución recurrida, mediante escrito en el que deberá fundamentarse la infracción en que la resolución hubiera incurrido.
 
 Cumplidos los anteriores requisitos, el secretario judicial, mediante diligencia de ordenación, admitirá el recurso, concediendo a las demás partes personadas un plazo común de tres o cinco días, según el carácter unipersonal o colegiado del órgano en el que se haya dictado la resolución recurrida, para impugnarlo si lo estiman conveniente.
@@ -3071,12 +2739,6 @@ g) Reclamaciones cuya cuantía litigiosa no exceda de 3.000 euros. Tampoco proce
 a) En procesos por despido o extinción del contrato, salvo en los procesos por despido colectivo impugnados por los representantes de los trabajadores.
 
 b) En reclamaciones, acumuladas o no, cuando la cuestión debatida afecte a todos o a un gran número de trabajadores o de beneficiarios de la Seguridad Social, siempre que tal circunstancia de afectación general fuera notoria o haya sido alegada y probada en juicio o posea claramente un contenido de generalidad no puesto en duda por ninguna de las partes; así como cuando la sentencia de instancia fuera susceptible de extensión de efectos.
-
-> Téngase en cuenta que esta actualización de la letra b) del apartado 3, establecida por el art. 104.26 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "b) En reclamaciones, acumuladas o no, cuando la cuestión debatida afecte a todos o a un gran número de trabajadores o de beneficiarios de la Seguridad Social, siempre que tal circunstancia de afectación general fuera notoria o haya sido alegada y probada en juicio o posea claramente un contenido de generalidad no puesto en duda por ninguna de las partes."
 
 c) En los procesos que versen sobre reconocimiento o denegación del derecho a obtener prestaciones de Seguridad Social, así como sobre el grado de incapacidad permanente aplicable.
 
@@ -3155,12 +2817,6 @@ Si el órgano jurisdiccional dispusiera de los medios para dar simultáneo trasl
 **Artículo 196. Escrito de interposición.**
 
 1\. El escrito interponiendo el recurso de suplicación se presentará ante el juzgado que dictó la resolución impugnada.
-
-> Téngase en cuenta que este apartado 1, modificado por el art. 24.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El escrito interponiendo el recurso de suplicación se presentará ante el juzgado que dictó la resolución impugnada, con tantas copias cuantas sean las partes recurridas."
 
 2\. En el escrito de interposición del recurso, junto con las alegaciones sobre su procedencia y sobre el cumplimiento de los requisitos exigidos, se expresarán, con suficiente precisión y claridad, el motivo o los motivos en que se ampare, citándose las normas del ordenamiento jurídico o la jurisprudencia que se consideren infringidas. En todo caso se razonará la pertinencia y fundamentación de los motivos.
 
@@ -3314,16 +2970,6 @@ b) En los motivos basados en error de hecho en la apreciación de la prueba debe
 
 4\. Si el recurso no se hubiera formalizado dentro del plazo conferido al efecto o si en el escrito se hubiesen omitido de modo manifiesto los requisitos exigidos, la Sala dictará auto poniendo fin al trámite del recurso quedando firme, en cuanto a dicha parte recurrente, la sentencia o resolución impugnada. Contra dicho auto, previa reposición ante la Sala, procederá recurso de queja ante la Sala de lo Social del Tribunal Supremo.
 
-> Téngase en cuenta que ésta modificación de los apartados 1, 3 y renumeración del anterior 3 como 4, por el art. 24.11 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El escrito de formalización se presentará ante la Sala que dictó la resolución impugnada, por el abogado designado al efecto quien, de no indicarse otra cosa, asumirá desde ese momento la representación de la parte en el recurso, con tantas copias como partes recurridas y designando un domicilio a efectos de notificaciones, con todos los datos necesarios para su práctica, con los efectos del apartado 2 del artículo 53.
-
-> [...]
-
-> 3\. Si el recurso no se hubiera formalizado dentro del plazo conferido al efecto o si en el escrito se hubiesen omitido de modo manifiesto los requisitos exigidos, la Sala dictará auto poniendo fin al trámite del recurso quedando firme, en cuanto a dicha parte recurrente, la sentencia o resolución impugnada. Contra dicho auto, previa reposición ante la Sala, procederá recurso de queja ante la Sala de lo Social del Tribunal Supremo."
-
 > Se modifican los apartados 1 y 3 y se renumera el anterior 3 como 4, con efectos de 3 de abril de 2025, por el art. 24.11 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 **Artículo 211. Traslado a las otras partes.**
@@ -3422,28 +3068,6 @@ d) Cuando no existieran aún resoluciones suficientes e idóneas sobre todas las
 
 e) Cuando la cuestión debatida presente interés casacional objetivo.
 
-> Téngase en cuenta que los apartados 1 y 3, modificados por el art. 24.12 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El recurso tendrá por objeto la unificación de doctrina con ocasión de sentencias dictadas en suplicación por las Salas de lo Social de los Tribunales Superiores de Justicia, que fueran contradictorias entre sí, con la de otra u otras Salas de los referidos Tribunales Superiores o con sentencias del Tribunal Supremo, respecto de los mismos litigantes u otros diferentes en idéntica situación donde, en mérito a hechos, fundamentos y pretensiones sustancialmente iguales, se hubiere llegado a pronunciamientos distintos.
-
-> [...]
-
-> 3\. El Ministerio Fiscal, en su función de defensa de la legalidad, de oficio o a instancia de los sindicatos, organizaciones empresariales, asociaciones representativas de los trabajadores autónomos económicamente dependientes o entidades públicas que, por las competencias que tengan atribuidas, ostenten interés legítimo en la unidad jurisprudencial sobre la cuestión litigiosa, y con independencia de la facultad que ordinariamente tiene atribuida conforme al artículo siguiente de esta Ley, podrá interponer recurso de casación para unificación de doctrina. Dicho recurso podrá interponerse cuando, sin existir doctrina unificada en la materia de que se trate, se hayan dictado pronunciamientos distintos por los Tribunales Superiores de Justicia, en interpretación de unas mismas normas sustantivas o procesales y en circunstancias sustancialmente iguales, así como cuando se constate la dificultad de que la cuestión pueda acceder a unificación de doctrina según los requisitos ordinariamente exigidos o cuando las normas cuestionadas por parte de los tribunales del orden social sean de reciente vigencia o aplicación, por llevar menos de cinco años en vigor en el momento de haberse iniciado el proceso en primera instancia, y no existieran aún resoluciones suficientes e idóneas sobre todas las cuestiones discutidas que cumplieran los requisitos exigidos en el apartado 1 de este artículo.
-
-> El recurso podrá prepararlo la Fiscalía de Sala de lo Social del Tribunal Supremo dentro de los diez días siguientes a la notificación a la Fiscalía de la Comunidad Autónoma de la sentencia impugnada, mediante escrito reducido a la manifestación del propósito de entablar el recurso y exponiendo sucintamente la fundamentación que se propondrá desarrollar en el mismo.
-
-> El escrito se presentará ante la Sala que dictó la resolución impugnada y del mismo se dará traslado a las demás partes, hayan o no preparado las mismas recurso. Las partes podrán dentro de los cinco días siguientes, solicitar que en el recurso el Ministerio Fiscal interese la alteración de la situación jurídica particular resultante de la sentencia recurrida y el contenido de las pretensiones que el ministerio público habría de formular en su nombre en tal caso.
-
-> Trascurrido el plazo anterior, aunque no se hubieran presentado escritos de las partes en el sentido expresado, dentro de los cinco días siguientes se elevarán los autos a la Sala de lo Social del Tribunal Supremo junto con los escritos de preparación que se hubieran presentado y las actuaciones que se hubieren practicado hasta ese momento en el estado en que se encuentren, previo emplazamiento por el secretario judicial a las demás partes que no hubieran recurrido para su personación por escrito por medio de letrado ante la Sala de lo Social del Tribunal Supremo dentro del plazo de los diez días siguientes, debiendo acreditarse la representación de la parte de no constar previamente en las actuaciones. La parte recurrente en su caso, y el Ministerio Fiscal se entenderán personados de derecho con la remisión de los autos.
-
-> Las actuaciones ulteriores se seguirán ante la Sala de lo Social del Tribunal Supremo conforme a las reglas establecidas en los artículos 222 a 228 con las adaptaciones necesarias teniendo en cuenta las especialidades de esta modalidad del recurso.
-
-> En caso de estimación del recurso, la sentencia fijará en el fallo la doctrina jurisprudencial y podrá afectar a la situación jurídica particular derivada de la sentencia recurrida conforme a las pretensiones oportunamente deducidas por el Ministerio Fiscal y por las partes comparecidas en el recurso que se hubieren adherido al mismo.
-
-> En defecto de solicitud de parte o en el caso de que las partes no hayan recurrido, la sentencia respetará la situación jurídica particular derivada de la sentencia recurrida y en cuanto afecte a las pretensiones deducidas por el Ministerio Fiscal, de ser estimatoria, fijará en el fallo la doctrina jurisprudencial. En este caso, el fallo se publicará en el Boletín Oficial del Estado y, a partir de su inserción en él, complementará el ordenamiento jurídico, vinculando en tal concepto a todos los jueces y tribunales del orden jurisdiccional social diferentes al Tribunal Supremo."
-
 > Se modifican los apartados 1 y 3, con efectos de 3 de abril de 2025, por el art. 24.12 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 **Artículo 220. Preparación del recurso.**
@@ -3464,12 +3088,6 @@ b) Hacer referencia detallada y precisa a los datos identificativos de la senten
 
 c) Exponer, de manera sucinta, las razones por las que la cuestión suscitada posee interés casacional objetivo.
 
-> Téngase en cuenta que la modificación del apartado 1 y la adición del apartado 2.c), por el art. 24.13 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. El recurso se preparará mediante escrito dirigido a la Sala de lo Social del Tribunal Superior de Justicia que dictó la sentencia de suplicación, con tantas copias como partes recurridas y designando un domicilio en la sede de la Sala de lo Social del Tribunal Supremo a efectos de notificaciones, con todos los datos necesarios para su práctica y con los efectos del apartado 2 del artículo 53."
-
 3\. Las sentencias invocadas como doctrina de contradicción deberán haber ganado firmeza a la fecha de finalización del plazo de interposición del recurso.
 
 4\. Las sentencias que no hayan sido objeto de expresa mención en el escrito de preparación no podrán ser posteriormente invocadas en el escrito de interposición.
@@ -3489,12 +3107,6 @@ Si el secretario judicial apreciara la existencia de defectos subsanables, reque
 1\. Preparado en tiempo y forma el recurso, el secretario judicial, dentro de los dos días siguientes, concederá a la parte o partes recurrentes el plazo común de quince días para interponer el recurso ante la misma Sala de suplicación, a partir de la notificación de la resolución al letrado o letrados designados, durante cuyo plazo los autos se encontrarán a su disposición en la oficina judicial de la Sala para su entrega o examen, si lo estiman necesario. En el caso de que la Sala disponga de los autos en soporte electrónico o pueda accederse a ellos por medios telemáticos, podrá sustituir el traslado material de las actuaciones por tales medios, conforme dispone el apartado 1 del artículo 48.
 
 2\. El escrito de interposición del recurso deberá ir firmado por abogado y reunir los requisitos del artículo 224.
-
-> Téngase en cuenta que éste apartado 2, modificado por el art. 24.14 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "2. El escrito de interposición del recurso deberá ir firmado por abogado, con tantas copias como partes recurridas, y reunir los requisitos del artículo 224."
 
 3\. De no efectuarse la interposición o si se hubiera efectuado fuera de plazo, quedará desierto el recurso y firme la sentencia, con las consecuencias establecidas en el apartado 5 del artículo 225. Contra el auto que así lo establezca, previa reposición, podrá recurrirse en queja ante la Sala de lo Social del Tribunal Supremo.
 
@@ -3523,8 +3135,6 @@ c) La exposición argumentada de la concurrencia del interés casacional objetiv
 4\. Con el escrito de interposición, de no haberse aportado con anterioridad, podrá hacerse aportación certificada de la sentencia o sentencias contrarias, acreditando su firmeza en la fecha de expiración del plazo de interposición, o con certificación posterior de que ganó firmeza dentro de dicho plazo la sentencia anteriormente aportada. Si la parte recurrente no aporta la certificación de la sentencia y de su firmeza en tiempo oportuno se reclamará de oficio por la secretaría de la Sala.
 
 5\. Será de aplicación a los escritos de interposición y de impugnación del recurso de casación para la unificación de doctrina lo preceptuado en el artículo 210.3 de esta ley.
-
-> Téngase en cuenta que esta adición de la letra c) al apartado 1 y del apartado 5, por el art. 24.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entran en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 > Se añaden la letra c) al apartado 1 y el apartado 5, con efectos de 3 de abril de 2025, por el art. 24.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -3562,36 +3172,6 @@ f) la falta de interés casacional objetivo.
 
 Cuando la inadmisión se refiera solamente a alguno de los motivos aducidos o a alguno de los recursos interpuestos, se dispondrá la continuación del trámite de los restantes recursos o motivos no afectados por la providencia de inadmisión parcial, sin que la resolución dictada al efecto sea recurrible.
 
-> Téngase en cuenta que ésta modificación de los apartados 1, 3, 4 y 5, por el art. 24.16 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1. Recibidos los autos en la Sala de lo Social del Tribunal Supremo, si el letrado o letrada de la Administración de Justicia apreciara el defecto insubsanable de haberse preparado o interpuesto fuera de plazo dictará decreto poniendo fin al trámite del recurso, contra el que sólo procederá recurso de revisión.
-
-> De apreciar defectos subsanables en la tramitación del recurso, o en su preparación e interposición, concederá a la parte un plazo de diez días para la aportación de los documentos omitidos o la subsanación de los defectos apreciados.
-
-> De no efectuarse la subsanación en el tiempo y forma establecidos, dará cuenta a la Sala para que resuelva lo que proceda y, de dictarse auto poniendo fin al trámite del recurso, declarará la firmeza en su caso de la resolución recurrida, con pérdida del depósito constituido y remisión de las actuaciones a la Sala de procedencia.
-
-> [...]
-
-> 3\. El magistrado ponente, dará cuenta a la Sala del recurso interpuesto y de las causas de inadmisión que apreciare, en su caso. Si la Sala estimare que concurre alguna de las causas de inadmisión referidas en las letras a), b) y c) del apartado siguiente, pasará los autos al Ministerio Fiscal, de no haber interpuesto el recurso, para que, en el plazo de cinco días, informe sobre la admisión o inadmisión del mismo.
-
-> Si la Sala estimare que concurre la causa de inadmisión referida en las letras d) y e) del apartado siguiente acordará oír al recurrente sobre las mismas por un plazo de cinco días, con ulterior informe del Ministerio Fiscal por otros cinco días, de no haber interpuesto el recurso.
-
-> 4\. Son causas de inadmisión:
-
-> a) el incumplimiento de manera manifiesta e insubsanable de los requisitos procesales para preparar o interponer el recurso,
-
-> b) la carencia sobrevenida del objeto del recurso,
-
-> c) la falta de contradicción entre las sentencias comparadas,
-
-> d) la falta de contenido casacional de la pretensión,
-
-> e) el haberse desestimado en el fondo otros recursos en supuestos sustancialmente iguales.
-
-> 5\. Si la Sala estimara que concurre alguna de las causas de inadmisión referidas dictará, en el plazo de tres días, auto declarando la inadmisión y la firmeza de la resolución recurrida, con imposición al recurrente de las costas causadas, de haber comparecido en el recurso las partes recurridas, en los términos establecidos en esta ley y sin que quepa recurso contra dicha resolución. El auto de inadmisión comportará, en su caso, la pérdida del depósito constituido, dándose a las consignaciones y aseguramientos prestados el destino que corresponda, de acuerdo con la sentencia de suplicación."
-
 6\. Si por la Sección de admisiones se apreciare la falta de competencia funcional para el conocimiento del litigio, se concederá audiencia a las partes y al Ministerio Fiscal por un plazo común de tres días. Finalizado el plazo, se señalará dentro de los diez días siguientes para deliberación, votación y fallo, debiendo dictarse sentencia dentro de los diez días siguientes a la celebración de la votación.
 
 7\. Para el despacho ordinario y resolución de la inadmisión de este recurso la Sala se constituirá con tres Magistrados.
@@ -3613,8 +3193,6 @@ Cuando la inadmisión se refiera solamente a alguno de los motivos aducidos o a 
 Por el contrario, si la sentencia impugnada en casación no resulta coincidente, en su fallo y razón de decidir, con lo resuelto por la sentencia o sentencias del Tribunal Supremo, se dictará auto de admisión y se remitirá el conocimiento del asunto a la Sección correspondiente, siempre que se cumplan las exigencias impuestas en los artículos 221 y 224 y presente contenido casacional.
 
 4\. Remitidas las actuaciones, la Sección resolverá si continúa con la tramitación prevista en los artículos 226 y 227 o si dicta sentencia sin más trámite, remitiéndose a lo acordado en la sentencia de referencia y adoptando los demás pronunciamientos que considere necesarios.
-
-> Téngase en cuenta que este artículo, añadido por el art. 226.3 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
 
 > Se añade por el art. 226.3 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -3728,12 +3306,6 @@ Cuando la competencia para el conocimiento de los recursos de suplicación o de 
 
 1\. La Sala acordará en resolución motivada y sin ulterior recurso, de oficio o a instancia de parte, antes del señalamiento para votación y fallo o para vista, en su caso, la acumulación de los recursos en trámite en los que exista identidad de objeto y de alguna de las partes. La acumulación podrá acordarse directamente de oficio, previo traslado a las partes para que manifiesten lo que a su derecho convenga en un plazo de cinco días. Acordada la acumulación de recursos, no podrá ésta dejarse sin efecto por el tribunal, salvo que no se hayan cumplido las prescripciones legales sobre acumulación o cuando la Sala justifique, de forma motivada, que la acumulación efectuada podría ocasionar perjuicios desproporcionados a la tutela judicial efectiva del resto de intervinientes.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 104.27 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "1. La Sala acordará en resolución motivada y sin ulterior recurso, de oficio o a instancia de parte, antes del señalamiento para votación y fallo o para vista, en su caso, la acumulación de los recursos en trámite en los que exista identidad de objeto y de alguna de las partes. No obstante, podrá dejarse sin efecto la acumulación en todo o en parte si se evidenciaren posteriormente causas que justifiquen su tramitación separada."
-
 2\. Se designará Magistrado ponente de los recursos acumulados al que, de ellos, hubiera sido primeramente nombrado, y en igualdad de fechas, al más moderno.
 
 3\. En los recursos sobre pretensiones derivadas de un mismo accidente de trabajo o enfermedad profesional, cuando exista más de una Sección, conocerá de ellos la Sección que esté conociendo del primero de dichos recursos, siempre que conste dicha circunstancia de las actuaciones o se ponga de manifiesto al Tribunal por alguna de las partes.
@@ -3775,12 +3347,6 @@ En los supuestos del apartado 2 del artículo 510 de la Ley 1/2000, de 7 de ener
 2\. El proceso de error judicial, destinado a reparar el daño producido por una resolución firme errónea que carece de posibilidad de rectificación por la vía normal de los recursos, cuando sea competencia de la Sala de lo Social del Tribunal Supremo, se seguirá por los trámites y requisitos establecidos para la declaración de error judicial en los artículos 292 y concordantes de la Ley Orgánica del Poder Judicial, con las especialidades sobre depósitos, vista y costas establecidas para la revisión y sin que la apreciación del error pueda fundamentarse en pruebas distintas de las practicadas en las actuaciones procesales origen del mismo presunto error.
 
 Si la Sala apreciara la concurrencia de cualquiera de tales causas de inadmisión dictará auto, contra el cual no cabe recurso.
-
-> Téngase en cuenta que ésta modificación, por la que se añade un párrafo a los apartados 1 y 2, por el art. 24.17 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Párrafo añadido:**
-
-> "Si la Sala apreciara la concurrencia de cualquiera de tales causas de inadmisión dictará auto, contra el cual no cabe recurso."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 24.17 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -3890,24 +3456,6 @@ b) A petición del ejecutante o de ambas partes por un máximo de tres meses, sa
 
 5\. El incumplimiento de las condiciones que se establezcan comportará, sin necesidad de declaración expresa ni de previo requerimiento, la pérdida del beneficio concedido.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.29 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Artículo 244. Supuestos de suspensión y aplazamiento de la ejecución.**
-
-> 1\. La ejecución únicamente podrá ser suspendida en los siguientes casos:
-
-> a) Cuando así lo establezca la ley.
-
-> b) A petición del ejecutante o de ambas partes por un máximo de tres meses, salvo que la ejecución derive de un procedimiento de oficio.
-
-> 2\. Suspendido o paralizado el proceso a petición del ejecutante o por causa a él imputable y transcurrido un mes sin que haya instado su continuación o llegado el plazo a que se refiere la letra b) del apartado anterior, el secretario judicial requerirá a aquél a fin de que manifieste, en el término de cinco días, si la ejecución ha de seguir adelante y solicite lo que a su derecho convenga, con la advertencia de que transcurrido este último plazo se archivarán las actuaciones.
-
-> 3\. Si el cumplimiento inmediato de la obligación que se ejecuta pudiera ocasionar a trabajadores dependientes del ejecutado perjuicios desproporcionados en relación a los que al ejecutante se derivarían del no cumplimiento exacto, por poner en peligro cierto la continuidad de las relaciones laborales subsistentes en la empresa deudora, el secretario judicial, mediante decreto recurrible directamente en revisión, podrá, previa audiencia de los interesados y en las condiciones que establezca, conceder un aplazamiento por el tiempo imprescindible.
-
-> 4\. El incumplimiento de las condiciones que se establezcan comportará, sin necesidad de declaración expresa ni de previo requerimiento, la pérdida del beneficio concedido."
-
 > Se modifica por el art. 104.29 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4002,8 +3550,6 @@ Igualmente, quedará en suspenso hasta su resolución cuando se encuentre pendie
 
 7\. El régimen de recurso del auto dictado se ajustará a las reglas generales previstas para los autos dictados en ejecución de sentencia contenidas en los artículos 191.4.d) y 206.4. En todo caso procederá recurso de suplicación, atendiendo a la pretensión instada en el incidente de extensión de efectos, cuando la misma sea susceptible de recurso conforme a lo previsto en el artículo 191.1, 2 y 3.
 
-> Téngase en cuenta que este precepto, añadido por el art. 104.30 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
 > Se añade por el art. 104.30 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Este artículo entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4015,8 +3561,6 @@ Cuando se hubiera acordado suspender la tramitación de uno o más procesos, con
 Si se solicitase la extensión de efectos de aquella sentencia, el juez, la jueza o el tribunal la acordará, salvo que concurran las circunstancias previstas en el artículo 247 bis 5, o alguna causa de inadmisibilidad propia del proceso suspendido que impida el reconocimiento de la situación jurídica individualizada.
 
 Igualmente quedará en suspenso hasta su resolución cuando se encuentre pendiente un recurso de casación para la unificación de doctrina cuya resolución pueda resultar contraria a la doctrina determinante de la sentencia firme cuya extensión se pretenda.
-
-> Téngase en cuenta que este precepto, añadido por el art. 104.31 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
 
 > Se añade por el art. 104.31 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -4122,12 +3666,6 @@ Puede ser designado depositario el ejecutante o el ejecutado, salvo oposición j
 
 2\. El tribunal, mediante auto, rechazará de plano y sin sustanciación alguna la demanda de tercería de dominio a la que no se acompañe un principio de prueba por escrito del fundamento de la pretensión del tercerista, así como la que se interponga con posterioridad al momento en que, de acuerdo con lo dispuesto en la legislación civil, se produzca la transmisión del bien al acreedor o al tercero que lo adquiera en pública subasta.
 
-> Téngase en cuenta que éste apartado 2, modificado por el art. 24.18 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "2. La solicitud, a la que se acompañará el título en que se funde la pretensión, deberá formularse por el tercerista con una antelación a la fecha señalada para la celebración de la primera subasta no inferior a quince días."
-
 3\. Admitida la solicitud, se seguirá el trámite incidental regulado en esta Ley. El secretario judicial suspenderá las actuaciones relativas a la liquidación de los bienes discutidos hasta la resolución del incidente.
 
 > Se modifica el apartado 2, con efectos de 3 de abril de 2025, por el art. 24.18 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
@@ -4163,12 +3701,6 @@ d) Por los demás procedimientos establecidos en la legislación procesal civil.
 **Artículo 264. Realización de los bienes.**
 
 La realización de los bienes embargados se ajustará a lo dispuesto en la legislación procesal civil.
-
-> Téngase en cuenta que éste precepto, modificado por el art. 24.19 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "La realización de los bienes embargados se ajustará a lo dispuesto en la legislación procesal civil, con la única excepción de que para el caso de resultar desierta la subasta tendrán los ejecutantes o, en su defecto, los responsables legales solidarios o subsidiarios, el derecho a adjudicarse los bienes por el 30 por ciento del avalúo, dándoseles, a tal fin, el plazo común de diez días. De no hacerse uso de este derecho, se alzará el embargo."
 
 > Se modifica, con efectos de 3 de abril de 2025, por el art. 24.19 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -4520,16 +4052,6 @@ La presente Ley será de aplicación a la ejecución de las sentencias y demás 
 
 El orden jurisdiccional social conocerá de los procesos de impugnación de actos administrativos dictados a partir de la vigencia de esta Ley en materia laboral, sindical y de seguridad social, cuyo conocimiento se atribuye por la misma al orden jurisdiccional social.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 104.32 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Disposición transitoria cuarta. Competencia del orden jurisdiccional social.**
-
-> 1\. El orden jurisdiccional social conocerá de los procesos de impugnación de actos administrativos dictados a partir de la vigencia de esta Ley en materia laboral, sindical y de seguridad social, cuyo conocimiento se atribuye por la misma al orden jurisdiccional social.
-
-> 2\. La impugnación de los actos administrativos en dichas materias, dictados con anterioridad a la vigencia de esta Ley, continuará atribuida al orden jurisdiccional contencioso-administrativo, y los recursos contencioso-administrativos interpuestos contra actos administrativos en materia laboral, sindical y de seguridad social, con anterioridad a la entrada en vigor de esta Ley, continuarán sustanciándose ante el orden jurisdiccional contencioso-administrativo conforme a las normas aplicables a dicho orden."
-
 > Se suprime el apartado 2 y la numeración del apartado 1 por el art. 104.32 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4601,16 +4123,6 @@ En el plazo de seis meses a partir de la entrada en vigor de esta Ley, el Gobier
 **Disposición final séptima. Entrada en vigor.**
 
 La presente Ley entrará en vigor a los dos meses de su publicación en el “Boletín Oficial del Estado”.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 104.33 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "**Disposición final séptima. Entrada en vigor.**
-
-> 1\. La presente Ley entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
-
-> 2\. Se exceptúa del plazo previsto en el apartado anterior la atribución competencial contenida en las letras o) y s) del artículo 2 en materia de prestaciones derivadas de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, cuya fecha de entrada en vigor se fijará en una ulterior Ley, cuyo Proyecto deberá remitir el Gobierno a las Cortes Generales en el plazo de tres años, teniendo en cuenta la incidencia de las distintas fases de aplicación de la Ley de Dependencia, así como la determinación de las medidas y medios adecuados para lograr una ágil respuesta judicial en estas materias."
 
 > Se suprime el apartado 2 y la numeración del apartado 1 por el art. 104.33 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 

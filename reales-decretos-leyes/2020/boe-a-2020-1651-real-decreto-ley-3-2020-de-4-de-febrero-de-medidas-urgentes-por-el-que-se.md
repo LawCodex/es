@@ -3340,12 +3340,6 @@ f) Garantizar las obligaciones frente a terceros de conformidad con lo dispuesto
 
 g) Acreditar que todas y cada una de las entidades aseguradoras con las que vaya a celebrar un contrato de agencia de seguros asumen la responsabilidad civil profesional derivada de su actuación como operador de banca-seguros, o que dicho operador dispone de un seguro de responsabilidad civil profesional o cualquier otra garantía financiera que cubra en todo el territorio de la Unión Europea las responsabilidades que pudieran surgir por negligencia profesional, de al menos 1.564.610 euros por siniestro y, en suma, 2.315.610 euros para todos los siniestros correspondientes a un determinado año, respecto a la actividad sobre la que no hubiera obtenido cobertura en virtud del contrato de agencia suscrito.
 
-> Téngase en cuenta que la actualización de los importes del apartado 1.g), establecida por el apartado 1 de la Resolución de 19 de abril de 2024, [Ref. BOE-A-2024-8516](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8516), tiene efectos de 9 de octubre de 2024, según determina su apartado 3.
-
-> Redacción anterior:
-
-> "g) Acreditar que todas y cada una de las entidades aseguradoras con las que vaya a celebrar un contrato de agencia de seguros asumen la responsabilidad civil profesional derivada de su actuación como operador de banca-seguros, o que dicho operador dispone de un seguro de responsabilidad civil profesional o cualquier otra garantía financiera que cubra en todo el territorio de la Unión Europea las responsabilidades que pudieran surgir por negligencia profesional, de al menos 1.250.000 euros por siniestro y, en suma, 1.850.000 euros para todos los siniestros correspondientes a un determinado año, respecto a la actividad sobre la que no hubiera obtenido cobertura en virtud del contrato de agencia suscrito."
-
 h) Aportar y mantener actualizada:
 
 1.º Información sobre la identidad de los accionistas o socios, ya sean personas físicas o jurídicas, que posean en el operador de banca-seguros una participación directa o indirecta del 10 por ciento o superior de los derechos de voto o del capital.
@@ -3429,20 +3423,6 @@ Lo anterior se entiende sin perjuicio de lo dispuesto en el artículo 136.4.
 g) Contratar un seguro de responsabilidad civil profesional o cualquier otra garantía financiera que cubra en todo el territorio de la Unión Europea las responsabilidades que pudieran surgir por negligencia profesional, con una cuantía de, al menos 1.564.610 euros por siniestro y, en suma, 2.315.610 euros para todos los siniestros correspondientes a un determinado año.
 
 En el caso de que el corredor de seguros ejerza su actividad en determinados productos bajo la dirección de otro corredor que asuma la total responsabilidad de los actos de aquel, deberá informar previamente por escrito de ello al cliente.
-
-> Téngase en cuenta que la actualización de los importes de las letras f) y g) del apartado 1, establecida por el apartado 2 de la Resolución de 19 de abril de 2024, [Ref. BOE-A-2024-8516](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8516), tiene efectos de 9 de octubre de 2024, según determina su apartado 3.
-
-> Redacción anterior:
-
-> "f) Disponer de una capacidad financiera que deberá en todo momento alcanzar el 4 por ciento del total de las primas anuales percibidas, sin que pueda ser inferior a 19.510 euros, salvo que contractualmente se haya pactado de forma expresa con las entidades aseguradoras que los importes abonados por los clientes se realizarán directamente en cuentas de pago de titularidad de aquellas, o que, en su caso, el corredor de seguros ofrezca al tomador una cobertura inmediata, siempre y cuando la entidad aseguradora haya autorizado al corredor a recibir en nombre y por cuenta de esta las primas satisfechas por los tomadores, entregando el recibo de prima emitido por la entidad aseguradora, y, en uno y otro caso, que las cantidades abonadas en concepto de indemnizaciones se entregarán directamente por las entidades aseguradoras a los tomadores de seguros, asegurados o beneficiarios.
-
-> La capacidad financiera podrá acreditarse mediante la contratación de un aval emitido por una entidad financiera o de un seguro de caución, con objeto de proteger a los clientes frente a la incapacidad de los corredores de seguros para transferir la prima a la entidad aseguradora o para transferir la cantidad de la indemnización o el reembolso de la prima al asegurado.
-
-> Lo anterior se entiende sin perjuicio de lo dispuesto en el artículo 136.4.
-
-> g) Contratar un seguro de responsabilidad civil profesional o cualquier otra garantía financiera que cubra en todo el territorio de la Unión Europea las responsabilidades que pudieran surgir por negligencia profesional, con una cuantía de, al menos 1.300.380 euros por siniestro y, en suma, 1.924.560 euros para todos los siniestros correspondientes a un determinado año.
-
-> En el caso de que el corredor de seguros ejerza su actividad en determinados productos bajo la dirección de otro corredor que asuma la total responsabilidad de los actos de aquel, deberá informar previamente por escrito de ello al cliente."
 
 h) Aportar y mantener actualizada:
 
@@ -6084,522 +6064,514 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
 En caso de diferentes interpretaciones entre CPV y NACE, se aplicará la nomenclatura CPV.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_15">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td colspan="5">
-<p class="cabeza_tabla">NACE Rev. 2<sup> (</sup><sup>1)</sup></p>
+<p>NACE Rev. 2<sup> (</sup><sup>1)</sup></p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción.</p>
+<p>Construcción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta división comprende:</p>
-<p class="cuerpo_tabla_izq">las construcciones nuevas, obras de restauración y reparaciones corrientes.</p>
+<p>Esta división comprende:</p>
+<p>las construcciones nuevas, obras de restauración y reparaciones corrientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45000000</p>
+<p>45000000</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.1</p>
+<p>45.1</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Preparación de obras.</p>
+<p>Preparación de obras.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">45100000</p>
+<p>45100000</p>
 </td>
 </tr>
-<tr class="row_column_17">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.11</p>
+<p>45.11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Demolición de inmuebles; movimientos de tierras.</p>
+<p>Demolición de inmuebles; movimientos de tierras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la demolición y el derribo de edificios y otras estructuras</p>
-<p class="cuerpo_tabla_izq">– la limpieza de escombros</p>
-<p class="cuerpo_tabla_izq">– los trabajos de movimiento de tierras: excavación, rellenado y nivelación de emplazamientos de obras, excavación de zanjas, despeje de rocas, voladuras, etc.</p>
-<p class="cuerpo_tabla_izq">– la preparación de explotaciones mineras:</p>
-<p class="cuerpo_tabla_izq">– obras subterráneas, despeje de montera y otras actividades de preparación de minas.</p>
-<p class="cuerpo_tabla_izq">Esta clase comprende también:</p>
-<p class="cuerpo_tabla_izq">– el drenaje de emplazamientos de obras</p>
-<p class="cuerpo_tabla_izq">– el drenaje de terrenos agrícolas y forestales.</p>
+<p>Esta clase comprende:</p>
+<p>– la demolición y el derribo de edificios y otras estructuras</p>
+<p>– la limpieza de escombros</p>
+<p>– los trabajos de movimiento de tierras: excavación, rellenado y nivelación de emplazamientos de obras, excavación de zanjas, despeje de rocas, voladuras, etc.</p>
+<p>– la preparación de explotaciones mineras:</p>
+<p>– obras subterráneas, despeje de montera y otras actividades de preparación de minas.</p>
+<p>Esta clase comprende también:</p>
+<p>– el drenaje de emplazamientos de obras</p>
+<p>– el drenaje de terrenos agrícolas y forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45110000</p>
+<p>45110000</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.12</p>
+<p>45.12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Perforaciones y sondeos.</p>
+<p>Perforaciones y sondeos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– las perforaciones, sondeos y muestreos con fines de construcción, geofísicos, geológicos u otros.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– la perforación de pozos de producción de petróleo y gas natural (véase 11.20)</p>
-<p class="cuerpo_tabla_izq">– la perforación de pozos hidráulicos (véase 45.25)</p>
-<p class="cuerpo_tabla_izq">– la excavación de pozos de minas (véase 45.25)</p>
-<p class="cuerpo_tabla_izq">– la prospección de yacimientos de petróleo y gas natural y los estudios geofísicos, geológicos o sísmicos (véase 74.20).</p>
+<p>Esta clase comprende:</p>
+<p>– las perforaciones, sondeos y muestreos con fines de construcción, geofísicos, geológicos u otros.</p>
+<p>Esta clase no comprende:</p>
+<p>– la perforación de pozos de producción de petróleo y gas natural (véase 11.20)</p>
+<p>– la perforación de pozos hidráulicos (véase 45.25)</p>
+<p>– la excavación de pozos de minas (véase 45.25)</p>
+<p>– la prospección de yacimientos de petróleo y gas natural y los estudios geofísicos, geológicos o sísmicos (véase 74.20).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45120000</p>
+<p>45120000</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.2</p>
+<p>45.2</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción general de inmuebles y obras de ingeniería civil Ingeniería civil.</p>
+<p>Construcción general de inmuebles y obras de ingeniería civil Ingeniería civil.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">45200000</p>
+<p>45200000</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.21</p>
+<p>45.21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción general de edificios y obras singulares de ingeniería civil (puentes, túneles, etc.).</p>
+<p>Construcción general de edificios y obras singulares de ingeniería civil (puentes, túneles, etc.).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la construcción de todo tipo de edificios, la construcción de obras de ingeniería civil:</p>
-<p class="cuerpo_tabla_izq">– puentes (incluidos los de carreteras elevadas), viaductos, túneles y pasos subterráneos;</p>
-<p class="cuerpo_tabla_izq">– redes de energía, comunicación y conducción de larga distancia;</p>
-<p class="cuerpo_tabla_izq">– instalaciones urbanas de tuberías, redes de energía y de comunicaciones;</p>
-<p class="cuerpo_tabla_izq">– obras urbanas anejas;</p>
-<p class="cuerpo_tabla_izq">– el montaje in situ de construcciones prefabricadas.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– los servicios relacionados con la extracción de gas y de petróleo (véase 11.20);</p>
-<p class="cuerpo_tabla_izq">– el montaje de construcciones prefabricadas completas a partir de piezas de producción propia que no sean de hormigón (véanse las divisiones 20, 26 y 28);</p>
-<p class="cuerpo_tabla_izq">– la construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios (véase 45.23);</p>
-<p class="cuerpo_tabla_izq">– las instalaciones de edificios y obras (véase 45.3);</p>
-<p class="cuerpo_tabla_izq">– el acabado de edificios y obras (véase 45.4);</p>
-<p class="cuerpo_tabla_izq">– las actividades de ingeniería, consultoría y arquitectura.</p>
-<p class="cuerpo_tabla_izq">(véase 74.20);</p>
-<p class="cuerpo_tabla_izq">– la dirección de obras de construcción (véase 74.20).</p>
+<p>Esta clase comprende:</p>
+<p>– la construcción de todo tipo de edificios, la construcción de obras de ingeniería civil:</p>
+<p>– puentes (incluidos los de carreteras elevadas), viaductos, túneles y pasos subterráneos;</p>
+<p>– redes de energía, comunicación y conducción de larga distancia;</p>
+<p>– instalaciones urbanas de tuberías, redes de energía y de comunicaciones;</p>
+<p>– obras urbanas anejas;</p>
+<p>– el montaje in situ de construcciones prefabricadas.</p>
+<p>Esta clase no comprende:</p>
+<p>– los servicios relacionados con la extracción de gas y de petróleo (véase 11.20);</p>
+<p>– el montaje de construcciones prefabricadas completas a partir de piezas de producción propia que no sean de hormigón (véanse las divisiones 20, 26 y 28);</p>
+<p>– la construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios (véase 45.23);</p>
+<p>– las instalaciones de edificios y obras (véase 45.3);</p>
+<p>– el acabado de edificios y obras (véase 45.4);</p>
+<p>– las actividades de ingeniería, consultoría y arquitectura.</p>
+<p>(véase 74.20);</p>
+<p>– la dirección de obras de construcción (véase 74.20).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45210000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45213316</p>
-<p class="cuerpo_tabla_izq">45220000</p>
-<p class="cuerpo_tabla_izq">45231000</p>
-<p class="cuerpo_tabla_izq">45232000</p>
+<p>45210000</p>
+<p>Excepto:</p>
+<p>45213316</p>
+<p>45220000</p>
+<p>45231000</p>
+<p>45232000</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.22</p>
+<p>45.22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de cubiertas y estructuras de cerramiento.</p>
+<p>Construcción de cubiertas y estructuras de cerramiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la construcción de tejados,</p>
-<p class="cuerpo_tabla_izq">– la cubierta de tejados,</p>
-<p class="cuerpo_tabla_izq">– la impermeabilización de edificios y balcones.</p>
+<p>Esta clase comprende:</p>
+<p>– la construcción de tejados,</p>
+<p>– la cubierta de tejados,</p>
+<p>– la impermeabilización de edificios y balcones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45261000</p>
+<p>45261000</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.23</p>
+<p>45.23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de autopistas, carreteras, campos de aterrizaje, vías férreas y centros deportivos.</p>
+<p>Construcción de autopistas, carreteras, campos de aterrizaje, vías férreas y centros deportivos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la construcción de autopistas, calles, carreteras y otras vías de circulación de vehículos y peatones,</p>
-<p class="cuerpo_tabla_izq">– la construcción de vías férreas,</p>
-<p class="cuerpo_tabla_izq">– la construcción de pistas de aterrizaje,</p>
-<p class="cuerpo_tabla_izq">– la construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios,</p>
-<p class="cuerpo_tabla_izq">– la pintura de señales en carreteras y aparcamientos.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– el movimiento de tierras previo (véase 45.11).</p>
+<p>Esta clase comprende:</p>
+<p>– la construcción de autopistas, calles, carreteras y otras vías de circulación de vehículos y peatones,</p>
+<p>– la construcción de vías férreas,</p>
+<p>– la construcción de pistas de aterrizaje,</p>
+<p>– la construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios,</p>
+<p>– la pintura de señales en carreteras y aparcamientos.</p>
+<p>Esta clase no comprende:</p>
+<p>– el movimiento de tierras previo (véase 45.11).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45212212 y DA03</p>
-<p class="cuerpo_tabla_izq">45230000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45231000</p>
-<p class="cuerpo_tabla_izq">45232000</p>
-<p class="cuerpo_tabla_izq">45234115</p>
+<p>45212212 y DA03</p>
+<p>45230000</p>
+<p>Excepto:</p>
+<p>45231000</p>
+<p>45232000</p>
+<p>45234115</p>
 </td>
 </tr>
-<tr class="row_column_22">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.24</p>
+<p>45.24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obras hidráulicas.</p>
+<p>Obras hidráulicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la construcción de:</p>
-<p class="cuerpo_tabla_izq">– vías navegables, instalaciones portuarias y fluviales, puertos deportivos, esclusas, etc.,</p>
-<p class="cuerpo_tabla_izq">– presas y diques,</p>
-<p class="cuerpo_tabla_izq">– dragados,</p>
-<p class="cuerpo_tabla_izq">– obras subterráneas.</p>
+<p>Esta clase comprende:</p>
+<p>– la construcción de:</p>
+<p>– vías navegables, instalaciones portuarias y fluviales, puertos deportivos, esclusas, etc.,</p>
+<p>– presas y diques,</p>
+<p>– dragados,</p>
+<p>– obras subterráneas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45240000</p>
+<p>45240000</p>
 </td>
 </tr>
-<tr class="row_column_23">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.25</p>
+<p>45.25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros trabajos de construcción especializados.</p>
+<p>Otros trabajos de construcción especializados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– las actividades de construcción que se especialicen en un aspecto común a diferentes tipos de estructura y que requieran aptitudes o materiales específicos,</p>
-<p class="cuerpo_tabla_izq">– obras de cimentación, incluida la hinca de pilotes,</p>
-<p class="cuerpo_tabla_izq">– construcción y perforación de pozos hidráulicos, excavación de pozos de minas,</p>
-<p class="cuerpo_tabla_izq">– montaje de piezas de acero que no sean de producción propia,</p>
-<p class="cuerpo_tabla_izq">– curvado del acero,</p>
-<p class="cuerpo_tabla_izq">– colocación de ladrillos y piedra,</p>
-<p class="cuerpo_tabla_izq">– montaje y desmantelamiento de andamios y plataformas de trabajo, incluido su alquiler,</p>
-<p class="cuerpo_tabla_izq">– montaje de chimeneas y hornos industriales.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– el alquiler de andamios sin montaje ni desmantelamiento (véase 71.32).</p>
+<p>Esta clase comprende:</p>
+<p>– las actividades de construcción que se especialicen en un aspecto común a diferentes tipos de estructura y que requieran aptitudes o materiales específicos,</p>
+<p>– obras de cimentación, incluida la hinca de pilotes,</p>
+<p>– construcción y perforación de pozos hidráulicos, excavación de pozos de minas,</p>
+<p>– montaje de piezas de acero que no sean de producción propia,</p>
+<p>– curvado del acero,</p>
+<p>– colocación de ladrillos y piedra,</p>
+<p>– montaje y desmantelamiento de andamios y plataformas de trabajo, incluido su alquiler,</p>
+<p>– montaje de chimeneas y hornos industriales.</p>
+<p>Esta clase no comprende:</p>
+<p>– el alquiler de andamios sin montaje ni desmantelamiento (véase 71.32).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45250000</p>
-<p class="cuerpo_tabla_izq">45262000</p>
+<p>45250000</p>
+<p>45262000</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.3</p>
+<p>45.3</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalación de edificios y obras.</p>
+<p>Instalación de edificios y obras.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">45300000</p>
+<p>45300000</p>
 </td>
 </tr>
-<tr class="row_column_24">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.31</p>
+<p>45.31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalación eléctrica.</p>
+<p>Instalación eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">– cables y material eléctrico,</p>
-<p class="cuerpo_tabla_izq">– sistemas de telecomunicación,</p>
-<p class="cuerpo_tabla_izq">– instalaciones de calefacción eléctrica,</p>
-<p class="cuerpo_tabla_izq">– antenas de viviendas,</p>
-<p class="cuerpo_tabla_izq">– alarmas contra incendios,</p>
-<p class="cuerpo_tabla_izq">– sistemas de alarma de protección contra robos,</p>
-<p class="cuerpo_tabla_izq">– ascensores y escaleras mecánicas,</p>
-<p class="cuerpo_tabla_izq">– pararrayos, etc.</p>
+<p>Esta clase comprende:</p>
+<p>– la instalación en edificios y otras obras de construcción de:</p>
+<p>– cables y material eléctrico,</p>
+<p>– sistemas de telecomunicación,</p>
+<p>– instalaciones de calefacción eléctrica,</p>
+<p>– antenas de viviendas,</p>
+<p>– alarmas contra incendios,</p>
+<p>– sistemas de alarma de protección contra robos,</p>
+<p>– ascensores y escaleras mecánicas,</p>
+<p>– pararrayos, etc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45213316</p>
-<p class="cuerpo_tabla_izq">45310000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45316000</p>
+<p>45213316</p>
+<p>45310000</p>
+<p>Excepto:</p>
+<p>45316000</p>
 </td>
 </tr>
-<tr class="row_column_25">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.32</p>
+<p>45.32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de aislamiento.</p>
+<p>Trabajos de aislamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación en edificios y otras obras de construcción de aislamiento térmico, acústico o antivibratorio.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– la impermeabilización de edificios y balcones (véase 45.22).</p>
+<p>Esta clase comprende:</p>
+<p>– la instalación en edificios y otras obras de construcción de aislamiento térmico, acústico o antivibratorio.</p>
+<p>Esta clase no comprende:</p>
+<p>– la impermeabilización de edificios y balcones (véase 45.22).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45320000</p>
+<p>45320000</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.33</p>
+<p>45.33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fontanería.</p>
+<p>Fontanería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">– fontanería y sanitarios,</p>
-<p class="cuerpo_tabla_izq">– aparatos de gas,</p>
-<p class="cuerpo_tabla_izq">– aparatos y conducciones de calefacción, ventilación, refrigeración o aire acondicionado,</p>
-<p class="cuerpo_tabla_izq">– la instalación de extintores automáticos de incendios.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación y reparación de instalaciones de calefacción eléctrica (véase 45.31).</p>
+<p>Esta clase comprende:</p>
+<p>– la instalación en edificios y otras obras de construcción de:</p>
+<p>– fontanería y sanitarios,</p>
+<p>– aparatos de gas,</p>
+<p>– aparatos y conducciones de calefacción, ventilación, refrigeración o aire acondicionado,</p>
+<p>– la instalación de extintores automáticos de incendios.</p>
+<p>Esta clase no comprende:</p>
+<p>– la instalación y reparación de instalaciones de calefacción eléctrica (véase 45.31).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45330000</p>
+<p>45330000</p>
 </td>
 </tr>
-<tr class="row_column_26">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.34</p>
+<p>45.34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras instalaciones de edificios y obras.</p>
+<p>Otras instalaciones de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación de sistemas de iluminación y señalización de carreteras, puertos y aeropuertos,</p>
-<p class="cuerpo_tabla_izq">– la instalación en edificios y otras obras de construcción de aparatos y dispositivos no clasificados en otra parte.</p>
+<p>Esta clase comprende:</p>
+<p>– la instalación de sistemas de iluminación y señalización de carreteras, puertos y aeropuertos,</p>
+<p>– la instalación en edificios y otras obras de construcción de aparatos y dispositivos no clasificados en otra parte.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45234115</p>
-<p class="cuerpo_tabla_izq">45316000</p>
-<p class="cuerpo_tabla_izq">45340000</p>
+<p>45234115</p>
+<p>45316000</p>
+<p>45340000</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.4</p>
+<p>45.4</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Acabado de edificios y obras.</p>
+<p>Acabado de edificios y obras.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">45400000</p>
+<p>45400000</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.41</p>
+<p>45.41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revocamiento.</p>
+<p>Revocamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la aplicación, en edificios y otras obras de construcción, de yeso y estuco interior y exterior, incluidos los materiales de listado correspondientes.</p>
+<p>Esta clase comprende:</p>
+<p>– la aplicación, en edificios y otras obras de construcción, de yeso y estuco interior y exterior, incluidos los materiales de listado correspondientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45410000</p>
+<p>45410000</p>
 </td>
 </tr>
-<tr class="row_column_27">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.42</p>
+<p>45.42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de carpintería.</p>
+<p>Instalaciones de carpintería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación de puertas, ventanas y marcos, cocinas equipadas, escaleras, mobiliario de trabajo y similares de madera u otros materiales, que no sean de producción propia,</p>
-<p class="cuerpo_tabla_izq">– acabados interiores, como techos, revestimientos de madera para paredes, tabiques móviles, etc.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– los revestimientos de parqué y otras maderas para suelos (véase 45.43).</p>
+<p>Esta clase comprende:</p>
+<p>– la instalación de puertas, ventanas y marcos, cocinas equipadas, escaleras, mobiliario de trabajo y similares de madera u otros materiales, que no sean de producción propia,</p>
+<p>– acabados interiores, como techos, revestimientos de madera para paredes, tabiques móviles, etc.</p>
+<p>Esta clase no comprende:</p>
+<p>– los revestimientos de parqué y otras maderas para suelos (véase 45.43).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45420000</p>
+<p>45420000</p>
 </td>
 </tr>
-<tr class="row_column_28">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.43</p>
+<p>45.43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revestimiento de suelos y paredes.</p>
+<p>Revestimiento de suelos y paredes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la colocación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">– revestimientos de cerámica, hormigón o piedra tallada para paredes y suelos,</p>
-<p class="cuerpo_tabla_izq">– revestimientos de parqué y otras maderas para suelos y revestimientos de moqueta y linóleo para suelos,</p>
-<p class="cuerpo_tabla_izq">– incluidos el caucho o los materiales plásticos,</p>
-<p class="cuerpo_tabla_izq">– revestimientos de terrazo, mármol, granito o pizarra para paredes y suelos,</p>
-<p class="cuerpo_tabla_izq">– papeles pintados.</p>
+<p>Esta clase comprende:</p>
+<p>– la colocación en edificios y otras obras de construcción de:</p>
+<p>– revestimientos de cerámica, hormigón o piedra tallada para paredes y suelos,</p>
+<p>– revestimientos de parqué y otras maderas para suelos y revestimientos de moqueta y linóleo para suelos,</p>
+<p>– incluidos el caucho o los materiales plásticos,</p>
+<p>– revestimientos de terrazo, mármol, granito o pizarra para paredes y suelos,</p>
+<p>– papeles pintados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45430000</p>
+<p>45430000</p>
 </td>
 </tr>
-<tr class="row_column_29">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.44</p>
+<p>45.44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pintura y acristalamiento.</p>
+<p>Pintura y acristalamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la pintura interior y exterior de edificios,</p>
-<p class="cuerpo_tabla_izq">– la pintura de obras de ingeniería civil,</p>
-<p class="cuerpo_tabla_izq">– la instalación de cristales, espejos, etc.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación de ventanas (véase 45.42).</p>
+<p>Esta clase comprende:</p>
+<p>– la pintura interior y exterior de edificios,</p>
+<p>– la pintura de obras de ingeniería civil,</p>
+<p>– la instalación de cristales, espejos, etc.</p>
+<p>Esta clase no comprende:</p>
+<p>– la instalación de ventanas (véase 45.42).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45440000</p>
+<p>45440000</p>
 </td>
 </tr>
-<tr class="row_column_30">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.45</p>
+<p>45.45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros acabados de edificios y obras.</p>
+<p>Otros acabados de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">– la instalación de piscinas particulares,</p>
-<p class="cuerpo_tabla_izq">– la limpieza al vapor, con chorro de arena o similares, del exterior de los edificios,</p>
-<p class="cuerpo_tabla_izq">– otras obras de acabado de edificios no citadas en otra parte.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– la limpieza interior de edificios y obras (véase 74.70).</p>
+<p>Esta clase comprende:</p>
+<p>– la instalación de piscinas particulares,</p>
+<p>– la limpieza al vapor, con chorro de arena o similares, del exterior de los edificios,</p>
+<p>– otras obras de acabado de edificios no citadas en otra parte.</p>
+<p>Esta clase no comprende:</p>
+<p>– la limpieza interior de edificios y obras (véase 74.70).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45212212 y DA04</p>
-<p class="cuerpo_tabla_izq">45450000</p>
+<p>45212212 y DA04</p>
+<p>45450000</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.5</p>
+<p>45.5</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquiler de equipo de construcción o demolición dotado de operario.</p>
+<p>Alquiler de equipo de construcción o demolición dotado de operario.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">45500000</p>
+<p>45500000</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45.50</p>
+<p>45.50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquiler de equipo de construcción o demolición dotado de operario.</p>
+<p>Alquiler de equipo de construcción o demolición dotado de operario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">– el alquiler de equipo y maquinaria de construcción o demolición desprovisto de operario (véase 71.32).</p>
+<p>Esta clase no comprende:</p>
+<p>– el alquiler de equipo y maquinaria de construcción o demolición desprovisto de operario (véase 71.32).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45500000</p>
+<p>45500000</p>
 </td>
 </tr>
 </tbody>

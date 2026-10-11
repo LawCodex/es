@@ -1,0 +1,48 @@
+---
+title: "Resolución de 29 de abril de 2020, de la Mutualidad General de Funcionarios Civiles del Estado, por la que se modifican los Anexos II y III de la Orden APU/2245/2005, de 30 de junio, por la que se regulan las prestaciones complementarias de la asistencia sanitaria en MUFACE y se establece el procedimiento de financiación de bombas portátiles de infusión subcutánea continua de insulina"
+identifier: "BOE-A-2020-4766"
+eli: "https://www.boe.es/eli/es/res/2020/04/29/(4)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Política Territorial y Función Pública"
+date: 2020-04-29
+published: 2020-05-01
+in_force_from: 2020-05-01
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 121"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4766"
+retrieved: 2026-10-11
+---
+
+# Resolución de 29 de abril de 2020, de la Mutualidad General de Funcionarios Civiles del Estado, por la que se modifican los Anexos II y III de la Orden APU/2245/2005, de 30 de junio, por la que se regulan las prestaciones complementarias de la asistencia sanitaria en MUFACE y se establece el procedimiento de financiación de bombas portátiles de infusión subcutánea continua de insulina
+
+Ante la situación de pandemia internacional declarada por la Organización Mundial de la Salud y la rapidez en la propagación del virus que afecta a gran número de ciudadanos, poniendo en riesgo su salud e incluso su vida, mediante el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, se adoptaron una serie de medidas en relación con la limitación de la movilidad.
+
+En esta situación excepcional se hace necesaria la adopción de nuevas medidas que refuercen las normas de contención y aislamiento, al mismo tiempo que permitan garantizar el acceso a las prestaciones esenciales.
+
+Mediante Resolución de 19 de febrero de 2019, de la Mutualidad General de Funcionarios Civiles del Estado, se modificaron los anexos II, III y IV de la Orden APU/2245/2005, de 30 de junio, entre otros motivos, para implementar como canal ordinario de solicitud de las prestaciones dentarias y oculares la sede electrónica de la Mutualidad, estableciendo para los mutualistas que no se encuentren en activo y otros supuestos, el mantenimiento como canal alternativo el procedimiento de solicitud en formato papel durante los días hábiles de los meses de marzo, septiembre y octubre de cada año natural.
+
+Posteriormente, la experiencia del primer año de la puesta en práctica de esta novedad aconsejaba sustituir el mes de septiembre por el mes de mayo, modificación recogida en la Resolución de 26 de diciembre de 2019.
+
+Vista la situación actual, con el estado de alarma aún vigente, se considera necesaria la supresión del mes de mayo como mes hábil para solicitar presencialmente las prestaciones dentarias y oculares a los mutualistas que no se encuentren activo a fin de proteger adecuadamente su salud, al tratarse de personal de riesgo. Esta solicitud podrá realizarse en el mes de octubre, así como en los periodos posteriores habilitados, así como, en todo momento a través de la sede electrónica de MUFACE.
+
+Por lo expuesto, en el ejercicio de las competencias atribuidas en el dispositivo undécimo de la citada Orden y en el artículo 11 del Real Decreto 577/1997, de 18 de abril, de estructura de los órganos de gobierno, administración y representación de la Mutualidad General de Funcionarios Civiles del Estado, habiendo informado al Consejo General en los términos estipulados en el artículo 3 del mismo Real Decreto, el Director General de la Mutualidad resuelve:
+
+## Primero.
+
+Modificar el epígrafe 2 de los anexos II y III de la Orden APU/2245/2005, de 30 de junio, en la redacción dada por la Resolución de 26 de diciembre de 2019, de esta Mutualidad, suprimiendo el mes de mayo a efectos del procedimiento de solicitud en formato papel de las prestaciones dentarias y oculares, que quedan redactados así:
+
+> «2. No obstante, los mutualistas que no se encuentren en situación de activo (jubilados, mutualistas voluntarios, así como beneficiarios con título propio) podrán presentar sus solicitudes ante cualquier Servicio Provincial u Oficina Delegada de MUFACE, presencialmente o por correo postal, o en cualquiera de los registros indicados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, durante los días hábiles/laborables de los meses de marzo y octubre de cada año natural.
+
+> No se admitirán solicitudes en formato papel, por ninguno de los medios indicados en el párrafo anterior, fuera de estos periodos, salvo aquellas relativas a hechos causantes cuyo derecho prescriba durante el año natural de presentación de la solicitud.
+
+> Los interesados deberán utilizar el impreso normalizado correspondiente disponible tanto en las oficinas de MUFACE, como en la página web de la Mutualidad, cuya dirección electrónica es www.muface.es, junto al que deberá acompañarse la documentación pertinente.»
+
+## Segundo.
+
+Esta resolución entrará en vigor el 1 de mayo de 2020 y será aplicable a partir de esa fecha a todas las solicitudes de prestaciones dentarias y oculares, con independencia del momento en que haya tenido lugar el correspondiente hecho causante y siempre que no haya prescrito el derecho a su reconocimiento.
+
+Madrid, 29 de abril de 2020.–La Directora General de la Mutualidad de Funcionarios Civiles del Estado, Myriam Pallarés Cortón.

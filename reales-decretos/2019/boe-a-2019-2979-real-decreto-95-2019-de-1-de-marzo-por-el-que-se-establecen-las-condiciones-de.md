@@ -986,42 +986,35 @@ d) La contabilidad de la entidad a la que pertenece la parte deberá permitir di
 
 ## ANEXO IV — Producción comercializable mínima
 
-<table class="tabla">
-<colgroup> </colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Península</th>
-<th class="cabeza_tabla">Islas Baleares, Canarias y denominaciones de calidad <sup>1</sup></th>
+<th> </th>
+<th>Península</th>
+<th>Islas Baleares, Canarias y denominaciones de calidad <sup>1</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Vaca.</td>
-<td class="cuerpo_tabla_der">75.000 toneladas.</td>
-<td class="cuerpo_tabla_der">5.000 toneladas.</td>
+<td>Vaca.</td>
+<td>75.000 toneladas.</td>
+<td>5.000 toneladas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Oveja.</td>
-<td class="cuerpo_tabla_der">30.000 toneladas.</td>
-<td class="cuerpo_tabla_der">1.000 toneladas.</td>
+<td>Oveja.</td>
+<td>30.000 toneladas.</td>
+<td>1.000 toneladas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabra.</td>
-<td class="cuerpo_tabla_der">15.000 toneladas.</td>
-<td class="cuerpo_tabla_der">1.000 toneladas.</td>
+<td>Cabra.</td>
+<td>15.000 toneladas.</td>
+<td>1.000 toneladas.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita"><sup>1</sup> Incluye las siguientes denominaciones de calidad: Indicaciones Geográficas Protegidas, Denominaciones de Origen Protegidas, Especialidades Tradicionales Garantizadas, Ganadería ecológica y Ganadería integrada.</p>
+<p><sup>1</sup> Incluye las siguientes denominaciones de calidad: Indicaciones Geográficas Protegidas, Denominaciones de Origen Protegidas, Especialidades Tradicionales Garantizadas, Ganadería ecológica y Ganadería integrada.</p>
 </td>
 </tr>
 </tfoot>

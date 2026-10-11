@@ -397,126 +397,126 @@ Desde el 1 de julio, en caso de que un consumidor con consumo anual superior a 5
 
 Consumo superior a 50.000 kWh/año e inferior o igual a 100.000 kWh/año:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">2009</p>
+<p>2009</p>
 </td>
 <td>
-<p class="cabeza_tabla">2010</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">12 julio al 30 </p>
-<p class="cabeza_tabla">de septiembre</p>
-</td>
-<td>
-<p class="cabeza_tabla">del 1 de octubre</p>
-<p class="cabeza_tabla"> al 31 de diciembre</p>
-</td>
-<td>
-<p class="cabeza_tabla">del 1 de enero al 31 de marzo</p>
+<p>2010</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">T. Fijo</p>
+<p>12 julio al 30 </p>
+<p>de septiembre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">€/Cliente/mes</p>
+<p>del 1 de octubre</p>
+<p> al 31 de diciembre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">46,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">48,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">50,87</p>
+<p>del 1 de enero al 31 de marzo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">T. Variable</p>
+<p>T. Fijo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">cts/kWh</p>
+<p>€/Cliente/mes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,721758</p>
+<p>46,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,907845</p>
+<p>48,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4,103238</p>
+<p>50,87</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Variable</p>
+</td>
+<td>
+<p>cts/kWh</p>
+</td>
+<td>
+<p>3,721758</p>
+</td>
+<td>
+<p>3,907845</p>
+</td>
+<td>
+<p>4,103238</p>
 </td>
 </tr>
 </table>
 
 Consumo superior a 100.000 kWh/año e inferior a 3 GWh/año:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">2009</p>
+<p>2009</p>
 </td>
 <td>
-<p class="cabeza_tabla">2010</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">12 julio al 30 </p>
-<p class="cabeza_tabla">de septiembre</p>
-</td>
-<td>
-<p class="cabeza_tabla">del 1 de octubre</p>
-<p class="cabeza_tabla"> al 31 de diciembre</p>
-</td>
-<td>
-<p class="cabeza_tabla">del 1 de enero al 31 de marzo</p>
+<p>2010</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">T. Fijo</p>
+<p>12 julio al 30 </p>
+<p>de septiembre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">€/Cliente/mes</p>
+<p>del 1 de octubre</p>
+<p> al 31 de diciembre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">68,79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">72,22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">75,84</p>
+<p>del 1 de enero al 31 de marzo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">T. Variable</p>
+<p>T. Fijo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">cts/kWh</p>
+<p>€/Cliente/mes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,447925</p>
+<p>68,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,620321</p>
+<p>72,22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3,801337</p>
+<p>75,84</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Variable</p>
+</td>
+<td>
+<p>cts/kWh</p>
+</td>
+<td>
+<p>3,447925</p>
+</td>
+<td>
+<p>3,620321</p>
+</td>
+<td>
+<p>3,801337</p>
 </td>
 </tr>
 </table>

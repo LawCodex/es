@@ -294,36 +294,32 @@ Se consignará el motivo de la rectificación, señalando alguna de las siguient
 
 Los datos se consignarán de acuerdo al contenido de la siguiente tabla:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Liquidación cuotas en caso de autoliquidación rectificativa</p>
+<p>Liquidación cuotas en caso de autoliquidación rectificativa</p>
 </caption>
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Cuota íntegra a ingresar o devolver autoliquidación.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Cuota íntegra a ingresar o devolver autoliquidación.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuota íntegra a ingresar o devolver autoliquidación rectificada.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Cuota íntegra a ingresar o devolver autoliquidación rectificada.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuota íntegra a ingresar o devolver total. Resultado de la rectificación. (*)</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Cuota íntegra a ingresar o devolver total. Resultado de la rectificación. (*)</td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(*) Si el importe es a ingresar deberá ser positivo.</p>
-<p class="cita">Si el importe es a devolver deberá ser negativo. Si la cuota íntegra resultante de la rectificación es a devolver como consecuencia de la autoliquidación rectificativa, deberá señalarse alguna de las opciones siguientes:</p>
-<p class="cita">– Renuncia a la devolución.</p>
-<p class="cita">– Solicito me sea abonado el importe a devolver, derivado de la normativa del impuesto, mediante transferencia bancaria a la cuenta bancaria de la que soy titular.</p>
-<p class="cita">– Solicito me sea abonado el importe a devolver, derivado de un ingreso indebido, mediante transferencia bancaria a la cuenta bancaria de la que soy titular.</p>
+<p>(*) Si el importe es a ingresar deberá ser positivo.</p>
+<p>Si el importe es a devolver deberá ser negativo. Si la cuota íntegra resultante de la rectificación es a devolver como consecuencia de la autoliquidación rectificativa, deberá señalarse alguna de las opciones siguientes:</p>
+<p>– Renuncia a la devolución.</p>
+<p>– Solicito me sea abonado el importe a devolver, derivado de la normativa del impuesto, mediante transferencia bancaria a la cuenta bancaria de la que soy titular.</p>
+<p>– Solicito me sea abonado el importe a devolver, derivado de un ingreso indebido, mediante transferencia bancaria a la cuenta bancaria de la que soy titular.</p>
 </td>
 </tr>
 </tfoot>

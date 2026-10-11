@@ -152,8 +152,6 @@ Se ha procedido a modificar el sistema legal actual de declaración de fallecimi
 
 El Título III contiene los expedientes de jurisdicción voluntaria en materia de familia y, dentro de ellos, la dispensa del impedimento de muerte dolosa del cónyuge anterior, que hasta ahora correspondía al Ministro de Justicia, y el de parentesco para contraer matrimonio, el de intervención judicial en relación con la adopción de medidas específicas para el caso de desacuerdo en el ejercicio de la patria potestad o para el caso de ejercicio inadecuado de la potestad de guarda o de administración de los bienes del menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica y también un expediente para los casos de desacuerdo conyugal y en la administración de bienes gananciales. También se ha eliminado la dispensa matrimonial de edad, al elevarla de 14 a 16 años, de acuerdo con la propuesta realizada por los Ministerios de Justicia y de Sanidad, Servicios Sociales e Igualdad.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del párrafo décimo del apartado X, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 El Título IV regula los expedientes de jurisdicción voluntaria que se atribuyen a los órganos jurisdiccionales en materia de derecho sucesorio: por un lado los que se reservan al ámbito judicial, como la rendición de cuentas del albaceazgo, las autorizaciones de actos de disposición al albacea o la autorización o aprobación de la aceptación o repudiación de la herencia en los casos determinados por la ley; y por otro los que serán a cargo del Secretario judicial con competencia compartida con los Notarios, como la renuncia o prórroga del cargo de albacea o contador-partidor, la designación de éste y la aprobación de la partición de la herencia realizada por el contador-partidor dativo. De los demás expedientes de Derecho sucesorio se hacen cargo, como hemos visto, los Notarios.
 
 El Título V contempla los expedientes relativos al Derecho de obligaciones, en concreto, para la fijación del plazo para el cumplimiento de las obligaciones cuando proceda, del que conocerá el Juez, y la consignación judicial a cargo del Secretario judicial.
@@ -216,8 +214,6 @@ La aprobación y vigencia de la Ley de la Jurisdicción Voluntaria ha de tener c
 
 Cuando no venga atribuida la competencia expresamente a ninguno de ellos, el Juez decidirá los expedientes que afecten al interés público, al estado civil de las personas, los que precisen la tutela de normas sustantivas o puedan deparar actos de disposición, reconocimiento, creación o extinción de derechos subjetivos, así como cuando afecten a los derechos de menores o personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica. El resto de expedientes serán resueltos por el Secretario judicial.
 
-> Téngase en cuenta que la sustitución de la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 3, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se sustituye la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 3, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 3. Legitimación y postulación.
@@ -232,15 +228,11 @@ En todo caso, será necesaria la actuación de Abogado y Procurador para la pres
 
 El Ministerio Fiscal intervendrá en los expedientes de jurisdicción voluntaria cuando afecten al estado civil o condición de la persona o esté comprometido el interés de un menor o una persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica, y en aquellos otros casos en que la ley expresamente así lo declare.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica", por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se sustituye la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica", con efectos desde el 3 de septiembre de 2021, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 5. Prueba.
 
 El Juez o el Secretario judicial, según quien sea el competente para el conocimiento del expediente, decidirá sobre la admisión de los medios de prueba que se le propongan, pudiendo ordenar prueba de oficio en los casos en que exista un interés público, se afecte a menores o personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica, lo estime conveniente para clarificar algún elemento relevante y determinante de la cuestión o expresamente lo prevea la ley.
-
-> Téngase en cuenta que la sustitución de la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica", por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se sustituye la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica", con efectos desde el 3 de septiembre de 2021, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -275,8 +267,6 @@ b) Se facilitará a la persona con discapacidad la asistencia o apoyos necesario
 c) Se permitirá la participación de un profesional experto que a modo de facilitador realice tareas de adaptación y ajuste necesarias para que la persona con discapacidad pueda entender y ser entendida.
 
 d) La persona con discapacidad podrá estar acompañada de una persona de su elección desde el primer contacto con las autoridades y funcionarios.
-
-> Téngase en cuenta que este artículo añadido por el art. 7.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 7.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -345,22 +335,6 @@ Se expondrá a continuación con claridad y precisión lo que se pida, así como
 3\. Cuando por ley no sea preceptiva la intervención de Abogado y Procurador, se facilitará al interesado en la Oficina judicial o a través de sede electrónica un impreso normalizado o formulario para llevar a cabo la solicitud, no siendo en este caso necesario que se concrete la fundamentación jurídica de lo solicitado.
 
 La solicitud podrá presentarse por cualquier medio, incluyendo los previstos en la normativa de acceso electrónico de los ciudadanos a la Administración de Justicia. De presentarse en papel, habrán de acompañarse tantas copias cuantos sean los interesados.
-
-> Téngase en cuenta que esta actualización del artículo, establecida por la disposición final 4.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 4.1.
-
-> Redacción anterior:
-
-> **"Artículo 14. Iniciación del expediente.**
-
-> 1\. Los expedientes se iniciarán de oficio, a instancia del Ministerio Fiscal o por solicitud formulada por persona legitimada, en la que se consignarán los datos y circunstancias de identificación del solicitante, con indicación de un domicilio a efectos de notificaciones.
-
-> Se expondrá a continuación con claridad y precisión lo que se pida, así como una exposición de los hechos y fundamentos jurídicos en que fundamenta su pretensión. También se acompañarán, en su caso, los documentos y dictámenes que el solicitante considere de interés para el expediente, y tantas copias cuantos sean los interesados.
-
-> 2\. En la solicitud se consignarán los datos y circunstancias de identificación de las personas que puedan estar interesados en el expediente, así como el domicilio o domicilios en que puedan ser citados o cualquier otro dato que permita la identificación de los mismos.
-
-> 3\. Cuando por ley no sea preceptiva la intervención de Abogado y Procurador, en la Oficina Judicial se facilitará al interesado un impreso normalizado para formular la solicitud, no siendo en este caso necesario que se concrete la fundamentación jurídica de lo solicitado.
-
-> La solicitud podrá presentarse por cualquier medio, incluyendo los previstos en la normativa de acceso electrónico de los ciudadanos a la Administración de Justicia."
 
 > Se modifica por la disposición final 4.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -446,8 +420,6 @@ En lo no previsto en este precepto, se aplicará lo dispuesto en la Ley Orgánic
 
 2\. Cuando el expediente afecte a los intereses de un menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica, la decisión se podrá fundar en cualesquiera hechos de los que se hubiese tenido conocimiento como consecuencia de las alegaciones de los interesados, las pruebas o la celebración de la comparecencia, aunque no hubieran sido invocados por el solicitante ni por otros interesados.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 2, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 3\. Resuelto un expediente de jurisdicción voluntaria y una vez firme la resolución, no podrá iniciarse otro sobre idéntico objeto, salvo que cambien las circunstancias que dieron lugar a aquél. Lo allí decidido vinculará a cualquier otra actuación o expediente posterior que resulten conexos a aquél.
 
 Esto será de aplicación también respecto a los expedientes tramitados por Notarios y Registradores en aquellas materias cuyo conocimiento sea concurrente con el de los Secretarios judiciales.
@@ -500,8 +472,6 @@ c) Por el padre, cuando el reconocimiento se hubiera realizado dentro del plazo 
 
 4\. También se instará la aprobación judicial para la validez del reconocimiento no matrimonial por una persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica.
 
-> Téngase en cuenta que la sustitución de las expresiones "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 2, 3 y 4, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se sustituyen las expresiones "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 2, 3 y 4, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 24. Competencia, legitimación y postulación.
@@ -521,8 +491,6 @@ Admitida a trámite la solicitud por el Secretario judicial, éste citará a com
 1\. El Juez resolverá lo que proceda sobre el reconocimiento de que se trate, atendiendo para ello al discernimiento del progenitor, la veracidad o autenticidad de su acto, la verosimilitud de la relación de procreación, sin necesidad de una prueba plena de la misma, y el interés del reconocido cuando sea menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica
 
 2\. Cuando se trate del reconocimiento de un menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica otorgado por quien fuere hermano o pariente consanguíneo en línea recta del otro progenitor, el Juez sólo autorizará la determinación de la filiación cuando sea en interés del menor o de la persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica. El Juez invalidará dicha determinación si se presentara un documento público en el que conste la manifestación del reconocido al respecto, realizada una vez alcanzada la plena capacidad.
-
-> Téngase en cuenta que la sustitución de las expresiones "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 1 y 2, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 3\. El testimonio de dicha resolución se remitirá al Registro Civil competente para proceder a su inscripción.
 
@@ -630,37 +598,11 @@ c) Hallarse los progenitores, tutor o persona designada para ejercer el apoyo en
 
 3\. No obstante lo dispuesto en el apartado anterior, se nombrará defensor judicial al menor o persona con discapacidad, sin necesidad de habilitación previa, para litigar contra sus progenitores, tutor o curador, o para instar expedientes de jurisdicción voluntaria, o cuando se hallare legitimado para ello cuando se inste por el Ministerio Fiscal un procedimiento para la adopción de medidas de apoyo respecto de la persona con discapacidad. No procederá la solicitud si el otro progenitor o tutor, si lo hubiere, no tuviera un interés opuesto al menor o persona con discapacidad.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 7.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 27. Ámbito de aplicación.**
-
-> 1\. Se aplicarán las disposiciones de este capítulo en los casos en que proceda conforme a la ley el nombramiento de un defensor judicial de menores o personas con capacidad modificada judicialmente o por modificar y, en todo caso, se solicitará:
-
-> a) Cuando en algún asunto exista conflicto de intereses entre los menores o personas con capacidad modificada judicialmente y sus representantes legales o su curador, salvo que con el otro progenitor o tutor, si hubiere patria potestad o tutela conjunta, no haya tal conflicto.
-
-> b) Cuando por cualquier causa, el tutor o el curador no desempeñare sus funciones hasta que cese la causa determinante o se designe otra persona para desempeñar el cargo.
-
-> c) Cuando se tenga conocimiento de que una persona respecto a la que debe constituirse la tutela o curatela, precise la adopción de medidas para la administración de sus bienes, hasta que recaiga resolución judicial que ponga fin al procedimiento.
-
-> 2\. También se aplicarán las disposiciones de este capítulo en los casos en que proceda la habilitación y ulterior nombramiento de defensor judicial. Se instará la habilitación cuando el menor no emancipado o la persona con capacidad modificada judicialmente, siendo demandado o siguiéndosele gran perjuicio de no promover la demanda, se encuentre en alguno de los casos siguientes:
-
-> a) Hallarse los progenitores, tutor o curador ausentes ignorándose su paradero, sin que haya motivo racional bastante para creer próximo su regreso.
-
-> b) Negarse ambos progenitores, tutor o curador a representar o asistir en juicio al menor o persona con capacidad modificada judicialmente.
-
-> c) Hallarse los progenitores, tutor o curador en una situación de imposibilidad de hecho para la representación o asistencia en juicio.
-
-> 3\. No obstante lo dispuesto en el apartado anterior, se nombrará defensor judicial al menor o persona con capacidad modificada judicialmente, sin necesidad de habilitación previa, para litigar contra sus progenitores, tutor o curador, o para instar expedientes de jurisdicción voluntaria, cuando se hallare legitimado para ello o para representarle cuando se inste por el Ministerio Fiscal el procedimiento para modificar judicialmente su capacidad. No procederá la solicitud si el otro progenitor o tutor, si lo hubiere, no tuviera un interés opuesto al menor o persona con capacidad modificada judicialmente."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 28. Competencia, legitimación y postulación.
 
 1\. Será competente para el conocimiento de este expediente el Secretario judicial del Juzgado de Primera Instancia del domicilio o, en su defecto, de la residencia del menor o persona con discapacidad o, en su caso, aquél correspondiente al Juzgado de Primera Instancia que esté conociendo del asunto que exija el nombramiento de defensor judicial.
-
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente o a modificar" por "persona con discapacidad" del apartado 1, por el art. 7.20.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 2\. El expediente se iniciará de oficio, a petición del Ministerio Fiscal, o por iniciativa del menor o persona con capacidad modificada judicialmente o cualquier otra persona que actúe en interés de éste.
 
@@ -674,15 +616,11 @@ Desde que se solicite la habilitación y hasta que acepte su cargo el defensor j
 
 En el caso de que el menor o persona con discapacidad haya de comparecer como demandado o haya quedado sin representación procesal durante el procedimiento, el Ministerio Fiscal asumirá su representación y defensa hasta que se produzca el nombramiento de defensor judicial.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente o a modificar" por "persona con discapacidad" del párrafo segundo, por el art. 7.20.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se sustituye la expresión "persona con capacidad modificada judicialmente o a modificar" por "persona con discapacidad" del párrafo segundo, con efectos desde el desde el 3 de septiembre de 2021, por el art. 7.20.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 30. Comparecencia y resolución.
 
 1\. El Secretario judicial convocará a comparecencia al solicitante, a los interesados que consten como tales en el expediente, a quienes estime pertinente su presencia, al menor o persona con discapacidad si tuvieren suficiente madurez y, en todo caso, al menor si tuviere más de 12 años y al Ministerio Fiscal.
-
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente o a modificar" por "persona con discapacidad" del apartado 1, por el art. 7.20.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 2\. En la resolución en que se acceda a lo solicitado se nombrará defensor judicial a quien el Secretario judicial estime más idóneo para el cargo, con determinación de las atribuciones que le confiera.
 
@@ -772,8 +710,6 @@ Si no se presentara la demanda en el plazo fijado, el Secretario judicial dictar
 
 2\. Durante la sustanciación del procedimiento, el Juez adoptará, incluso de oficio, y previa audiencia del Ministerio Fiscal, las medidas de protección oportunas sobre la persona y bienes del adoptado menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 2, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 3\. Si el adoptado fuera mayor de edad, la extinción de la adopción requerirá su consentimiento expreso.
 
 > Se sustituye la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 2, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
@@ -804,8 +740,6 @@ Deberá asentir el cónyuge del adoptante o la persona a la que esté unida por 
 
 ### CAPÍTULO III bis — Del expediente de provisión de medidas judiciales de apoyo a personas con discapacidad
 
-> Téngase en cuenta que este capítulo añadido por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 42 bis a). Ámbito de aplicación, competencia, legitimación y postulación.
@@ -823,8 +757,6 @@ Cualquier persona está facultada para poner en conocimiento del Ministerio Fisc
 4\. La persona con discapacidad podrá actuar con su propia defensa y representación. Si no fuera previsible que proceda a realizar por sí misma tal designación, con la solicitud se pedirá que se le nombre un defensor judicial, quien actuará por medio de Abogado y Procurador.
 
 5\. El letrado de la Administración de Justicia realizará las adaptaciones y los ajustes necesarios para que la persona con discapacidad comprenda el objeto, la finalidad y los trámites del expediente que le afecta, conforme a lo previsto en el artículo 7 bis de esta Ley.
-
-> Téngase en cuenta que este artículo añadido por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -848,8 +780,6 @@ Asimismo, se practicarán aquellas pruebas que hubieren sido propuestas y result
 
 No se considerará oposición a los efectos señalados en el párrafo anterior la relativa únicamente a la designación como curador de una persona concreta.
 
-> Téngase en cuenta que este artículo añadido por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 42 bis c). Auto y posterior revisión de las medidas judicialmente acordadas.
@@ -863,8 +793,6 @@ Cualquiera de las personas mencionadas en el apartado 3 del artículo 42 bis a),
 3\. En la revisión de las medidas, la autoridad judicial recabará un dictamen pericial cuando así lo considere necesario atendiendo a las circunstancias del caso, se entrevistará con la persona con discapacidad y ordenará aquellas otras actuaciones que considere necesarias. A estos efectos, la autoridad judicial podrá recabar informe de las entidades a las que se refiere el apartado 2 del artículo 42 bis b). Del resultado de dichas actuaciones se dará traslado a la persona con discapacidad, a quien ejerza las funciones de apoyo, al Ministerio Fiscal y a los interesados personados en el expediente previo, a fin de que puedan alegar lo que consideren pertinente en el plazo de diez días, así como aportar la prueba que estimen oportuna. Si alguno de los mencionados formulara oposición, se pondrá fin al expediente y se podrá instar la revisión de las medidas conforme a lo previsto en la Ley de Enjuiciamiento Civil.
 
 4\. Recibidas las alegaciones y practicada la prueba, la autoridad judicial dictará nuevo auto con el contenido que proceda atendiendo a las circunstancias concurrentes.
-
-> Téngase en cuenta que este artículo añadido por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 7.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -880,18 +808,6 @@ Cualquiera de las personas mencionadas en el apartado 3 del artículo 42 bis a),
 
 3\. En estos expedientes no será preceptiva la intervención de abogado y procurador, salvo en los relativos a la remoción del tutor o curador y a la extinción de poderes preventivos, en los que será necesaria la intervención de abogado.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 7.4 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 43. Competencia y postulación.**
-
-> 1\. Será competente para el conocimiento de este expediente el Juzgado de Primera Instancia del domicilio o, en su defecto, de la residencia del menor o persona con capacidad modificada judicialmente.
-
-> 2\. El órgano judicial que haya conocido de un expediente sobre tutela, curatela o guarda de hecho, será competente para conocer de todas las incidencias, trámites y adopción de medidas posteriores, siempre que el menor o persona con capacidad modificada judicialmente resida en la misma circunscripción. En caso contrario, para conocer de alguna de esas incidencias, será preciso que se pida testimonio completo del expediente al Juzgado que anteriormente conoció del mismo, el cual lo remitirá en los diez días siguientes a la solicitud.
-
-> 3\. En estos expedientes no será preceptiva la intervención de Abogado ni Procurador, salvo en el relativo a la remoción del tutor o curador en el que será necesaria la intervención de Abogado."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.4 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 #### Sección 2.ª De la tutela y la curatela
@@ -901,14 +817,6 @@ Cualquiera de las personas mencionadas en el apartado 3 del artículo 42 bis a),
 1\. Se aplicará lo dispuesto en esta sección para la tramitación de los expedientes relativos a la tutela y la curatela.
 
 2\. El expediente al que se refiere el artículo siguiente solamente será aplicable a la curatela cuando, tras la tramitación de un proceso sobre la adopción de medidas judiciales de apoyo a una persona con discapacidad, sea procedente el nombramiento de un nuevo curador, en sustitución de otro removido o fallecido.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 7.5 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 44. Ámbito de aplicación.**
-
-> Se aplicará lo dispuesto en esta Sección para la constitución de la tutela y de la curatela, siempre que no se solicite dicha constitución en un proceso judicial para modificar la capacidad de una persona."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.5 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -934,28 +842,6 @@ También podrá con posterioridad, de oficio o a instancia de parte interesada, 
 
 Durante la sustanciación del recurso, e incluso si se instara un proceso ordinario posterior sobre el mismo objeto, quedará a cargo del tutor o curador electo, en su caso, el cuidado del menor o persona con discapacidad y la administración de su caudal, según proceda, bajo las garantías que parecieren suficientes al Juez.
 
-> Téngase en cuenta que esta última actualización de los apartados 1, 2, 4, 5 y 6 establecida por el art. 7.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. El expediente se iniciará mediante solicitud en la que deberá expresarse el hecho que dé lugar a la tutela o curatela, acompañando los documentos acreditativos de la legitimación para promover el expediente e indicando los parientes más próximos de la persona respecto a la que deba constituirse la tutela o curatela y sus domicilios. Igualmente deberá acompañarse certificado de nacimiento de éste y, en su caso, el certificado de últimas voluntades de los progenitores, el testamento o documento público notarial otorgado por éstos en los que se disponga sobre la tutela o curatela de sus hijos menores o con la capacidad modificada judicialmente, o el documento público notarial otorgado por el propio afectado en el que se hubiera dispuesto en previsión sobre su propia tutela o curatela.
-
-> 2\. (...)
-
-> Tanto el Juez como el Ministerio Fiscal actuarán de oficio en interés del menor o persona con capacidad modificada judicialmente, adoptando y proponiendo las medidas, diligencias, informes periciales y pruebas que estimen oportunas.
-
-> 4\. (...)
-
-> En defecto de previsiones o cuando las mismas no fueran establecidas en interés del afectado, de oficio o a instancia del Ministerio Fiscal o del solicitante, en la resolución por la que se constituya la tutela o curatela u otra posterior, el Juez podrá acordar las medidas de vigilancia y control oportunas, en interés del constituido en tutela o curatela, así como exigir al tutor o curador informe sobre la situación personal del menor o persona con capacidad modificada judicialmente y el estado de la administración de sus bienes. Si se adoptaren en resolución posterior, se oirá previamente al tutor o curador, a la persona afectada si tuviere suficiente madurez y, en todo caso, al menor si tuviere más de 12 años y al Ministerio Fiscal.
-
-> 5\. El Juez, en la resolución por la que constituya la tutela o curatela o en otra posterior, podrá exigir al tutor o curador la constitución de fianza que asegure el cumplimiento de sus obligaciones, debiendo determinar, en tal caso, la modalidad y cuantía de la misma.
-
-> También podrá con posterioridad, de oficio o a instancia de parte interesada, dejar sin efecto o modificar en todo o en parte la fianza que se hubiera prestado, tras haber oído al tutor o curador, a la persona afectada si tuviera suficiente madurez y, en todo caso, al menor si tuviere más de 12 años y al Ministerio Fiscal.
-
-> 6\. (...)
-
-> Durante la sustanciación del recurso, quedará a cargo del tutor o curador electo, en su caso, el cuidado del menor o persona con capacidad modificada judicialmente y la administración de su caudal, según proceda, bajo las garantías que parecieren suficientes al Juez."
-
 > Se modifican los apartados 1, 2, 4, 5 y 6, con efectos desde el 3 de septiembre de 2021, por el art. 7.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 46. Prestación de fianza, aceptación y posesión del cargo.
@@ -967,16 +853,6 @@ Durante la sustanciación del recurso, e incluso si se instara un proceso ordina
 3\. Practicadas todas las diligencias acordadas, el nombrado aceptará en acta otorgada ante el letrado de la Administración de Justicia la obligación de cumplir los deberes de su cargo conforme a las leyes y este acordará dar posesión del cargo, le conferirá las facultades establecidas en la resolución judicial que acordó su nombramiento y le entregará certificación de esta.
 
 4\. Cuando el nombrado lo fuera para el cargo de tutor o administrador de los bienes, le requerirá para que presente el inventario de los bienes de la persona afectada en el plazo de los sesenta días siguientes. Hasta que se apruebe el inventario de bienes, en su caso, la persona nombrada quedará a cargo del cuidado del menor o persona con discapacidad y de la administración de su caudal, según proceda, bajo las garantías que parecieren suficientes al Juez.
-
-> Téngase en cuenta que esta última actualización de los apartados 2, 3 y 4 establecida por el art. 7.7 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Prestada la fianza, si se hubiera exigido, el Juez la declarará suficiente y acordará en la misma resolución las inscripciones, depósitos, medidas o diligencias que considere conveniente para la eficacia de la fianza y conservación de los bienes del menor o persona con capacidad modificada judicialmente.
-
-> 3\. Practicadas todas las diligencias acordadas, el designado aceptará en acta otorgada ante el Secretario judicial la obligación de cumplir los deberes de su cargo conforme a las leyes, y éste acordará dar posesión del cargo, le conferirá las facultades establecidas en la resolución judicial que acordó su nombramiento y le entregará certificación de ésta.
-
-> 4\. Cuando el designado lo fuera para el cargo del tutor o administrador de los bienes, le requerirá para que presente el inventario de los bienes del afectado en el plazo de los sesenta días siguientes. Hasta que se apruebe el inventario de bienes, en su caso, la persona designada quedará a cargo del cuidado del menor o persona con capacidad modificada judicialmente y la administración de su caudal, según proceda, bajo las garantías que parecieren suficientes al Juez."
 
 5\. El Juzgado que haya acordado la tutela o curatela remitirá testimonio al Registro Civil correspondiente tanto de la resolución dictada como del acta de la posesión del cargo, a los efectos oportunos.
 
@@ -998,14 +874,6 @@ La sentencia que se pronuncie sobre la inclusión o exclusión de bienes en el i
 
 El auto a que se refiere este artículo se ejecutará sin perjuicio del recurso de apelación, que no producirá efectos suspensivos.
 
-> Téngase en cuenta que esta última actualización del apartado 1 establecida por el art. 7.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Si se solicitare por el tutor o curador el establecimiento de una retribución y no estuviera fijada en la resolución que hubiera efectuado su nombramiento, el Juez la acordará siempre que el patrimonio del tutelado o asistido lo permita, fijará su importe y el modo de percibirla, atendiendo al trabajo a realizar y al valor y la rentabilidad de los bienes, después de oír al solicitante, al tutelado o asistido si tuviera suficiente madurez y, en todo caso, al menor si fuera mayor de 12 años, al Ministerio Fiscal y a cuantas personas considere oportuno. Tanto el Juez como las partes o el Ministerio Fiscal podrán proponer las diligencias, informes periciales y pruebas que estimen oportunas.
-
-> El auto a que se refiere este artículo se ejecutará sin perjuicio del recurso de apelación, que no producirá efectos suspensivos."
-
 2\. El mismo procedimiento se seguirá para modificar o extinguir dicha retribución.
 
 > Se modifica el apartado 1, con efectos desde el 3 de septiembre de 2021, por el art. 7.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
@@ -1015,14 +883,6 @@ El auto a que se refiere este artículo se ejecutará sin perjuicio del recurso 
 1\. En los casos previstos por la legislación civil aplicable, de oficio, a solicitud del Ministerio Fiscal, del tutelado, del sujeto a curatela o de otra persona interesada, se podrá acordar la remoción del tutor o del curador, previa celebración de comparecencia. En esta se oirá al tutor o curador, a las personas que puedan sustituirle en el cargo, a la persona con discapacidad, al menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años, y al Ministerio Fiscal.
 
 Si se suscitare oposición, el expediente se hará contencioso y el Secretario judicial citará a los interesados a una vista, continuando la tramitación con arreglo a lo previsto para el juicio verbal.
-
-> Téngase en cuenta que esta última actualización del párrafo primero del apartado 1 establecida por el art. 7.9 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. En los casos previstos por el Código Civil, de oficio, a solicitud del Ministerio Fiscal, del tutelado, del sujeto a curatela o de otra persona interesada, se podrá acordar la remoción del tutor o del curador, previa celebración de comparecencia, en la que se oirá también al tutor o curador, a la persona que le vaya a sustituir en el cargo y al afectado si tuviere suficiente madurez y, en todo caso, al menor si tuviere más de doce años y al Ministerio Fiscal.
-
-> (...)"
 
 2\. Durante la tramitación del expediente de remoción, el Juez podrá suspender al tutor o curador en sus funciones y el Secretario judicial nombrará al tutelado o sujeto a curatela un defensor judicial.
 
@@ -1050,16 +910,6 @@ También podrá ordenar el Juez de oficio, a costa del patrimonio del tutelado o
 
 3\. Celebrada o no la comparecencia, el juez resolverá por medio de auto sobre los informes y la rendición de cuentas.
 
-> Téngase en cuenta que esta última actualización de los apartado 1, 2 y 3 establecida por el art. 7.10 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Anualmente, desde la aceptación del cargo, el tutor o curador deberá presentar dentro de los veinte días siguientes de cumplirse el plazo un informe sobre la situación personal del menor o persona con capacidad modificada judicialmente y una rendición de cuentas de la administración de sus bienes, si procediera.
-
-> 2\. Presentados los informes, el Secretario judicial citará a comparecencia ante el Juez al titular del cargo, al tutelado o asistido si tuviera suficiente madurez y, en todo caso, al menor si tuviere más de 12 años, a aquellos que estuvieran interesados y al Ministerio Fiscal, pudiéndose proponer de oficio o a instancia de parte las diligencias y pruebas que se estimen oportunas.
-
-> 3\. Tras ello, hubiera o no oposición, el Juez resolverá sobre los informes anuales y la rendición de cuentas."
-
 4\. Estas disposiciones serán de aplicación en los supuestos de rendición final de cuentas por extinción de la tutela o curatela, debiendo ser presentada, en su caso, en el plazo de tres meses desde el cese del cargo, prorrogables por el tiempo que fuere necesario si concurre justa causa. En estos casos también se oirá, si procediera, al nuevo tutor o curador y a los herederos del tutelado o asistido, en su caso.
 
 5\. En todo caso, la aprobación judicial de las cuentas presentadas no impedirá el ejercicio de las acciones que recíprocamente puedan asistir al tutor o curador y al tutelado o sujeto a curatela o a sus causahabientes por razón de la tutela o curatela.
@@ -1072,8 +922,6 @@ También podrá ordenar el Juez de oficio, a costa del patrimonio del tutelado o
 
 2\. Admitida la solicitud, se citará a la comparecencia al solicitante, al apoderado, a la persona con discapacidad que precise apoyo y al Ministerio Fiscal. Si se suscitare oposición, el expediente se hará contencioso y el letrado de la Administración de Justicia citará a los interesados a una vista, continuando la tramitación con arreglo a lo previsto en el juicio verbal.
 
-> Téngase en cuenta que este artículo añadido por el art. 7.11 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se añade, con efectos desde el 3 de septiembre de 2021, por el art. 7.11 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 #### Sección 3.ª De la guarda de hecho
@@ -1085,14 +933,6 @@ También podrá ordenar el Juez de oficio, a costa del patrimonio del tutelado o
 2\. El Juez podrá establecer las medidas de control y de vigilancia que estime oportunas, sin perjuicio de promover expediente para la constitución de la tutela en el caso de los menores, si procediera. Tales medidas se adoptarán, previa comparecencia, citando a la persona a quien afecte la guarda de hecho, al guardador y al Ministerio Fiscal.
 
 3\. En los casos en que, de acuerdo con la legislación civil aplicable, el guardador de hecho de una persona con discapacidad deba solicitar autorización judicial, antes de tomar una decisión, la autoridad judicial entrevistará por sí misma a la persona con discapacidad y podrá solicitar un informe pericial para acreditar la situación de esta. También podrá citar a la comparecencia a cuantas personas considere necesario oír en función del acto cuya autorización se solicite.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 7.12 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. A instancia del Ministerio Fiscal, del sometido a guarda o de cualquiera que tenga un interés legítimo, el Juez que tenga conocimiento de la existencia de un guardador de hecho, podrá requerirle para que informe de la situación de la persona y bienes del menor, de la persona con capacidad modificada judicialmente o de la que hubiera de estarlo, y de su actuación en relación con los mismos.
-
-> 2\. El Juez podrá establecer las medidas de control y de vigilancia que estime oportunas, sin perjuicio de promover expediente para la constitución de la tutela o curatela. Tales medidas se adoptarán, previa comparecencia, citando a la persona a quien afecte la guarda de hecho, al guardador y al Ministerio Fiscal."
 
 > Se modifican los apartados 1 y 2 y se añade el 3, con efectos desde el 3 de septiembre de 2021, por el art. 7.12 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1166,8 +1006,6 @@ Igualmente, deberá entregarse testimonio de la resolución a la parte para su i
 
 ### CAPÍTULO VII — Del derecho al honor, a la intimidad y a la propia imagen del menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de la rúbrica de este capítulo, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se sustituye la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de la rúbrica de este capítulo, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 59. Ámbito de aplicación, competencia, legitimación y postulación.
@@ -1177,8 +1015,6 @@ Igualmente, deberá entregarse testimonio de la resolución a la parte para su i
 2\. Será competente para el conocimiento de este expediente el Juzgado de Primera Instancia del domicilio o, en su defecto, de la residencia del menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica.
 
 3\. Para promover este expediente está legitimado el representante legal del menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica, sin que sea preceptiva la intervención de Abogado ni Procurador.
-
-> Téngase en cuenta que la sustitución de las expresiones "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 1 a 3, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se sustituyen las expresiones "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 1 a 3, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1194,27 +1030,15 @@ Igualmente, deberá entregarse testimonio de la resolución a la parte para su i
 
 5\. Si los representantes legales del menor o de la persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica quisieran que se revocara el consentimiento otorgado judicialmente, lo pondrán en conocimiento del Juez, quien dictará resolución dejándolo sin efecto.
 
-> Téngase en cuenta que la sustitución de las expresiones "persona con capacidad modificada judicialmente"y "persona con la capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 2, 3 y 5, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 > Se sustituyen las expresiones "persona con capacidad modificada judicialmente" y "persona con la capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de los apartados 2, 3 y 5, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ### CAPÍTULO VIII — De la autorización o aprobación judicial para la realización de actos de disposición, gravamen u otros que se refieran a los bienes y derechos de menores y personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica
-
-> Téngase en cuenta que la sustitución de la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de la rúbrica de este capítulo, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se sustituye la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" de la rúbrica de este capítulo, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 61. Ámbito de aplicación.
 
 Se aplicarán las disposiciones de este Capítulo en todos los casos en que el representante legal del menor o la persona que preste apoyo a la persona con discapacidad o el administrador de un patrimonio protegido necesite autorización o aprobación judicial para la validez de actos de disposición, gravamen u otros que se refieran a sus bienes o derechos o al patrimonio protegido, salvo que hubiera establecida una tramitación específica.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 7.13 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 61. Ámbito de aplicación.**
-
-> Se aplicarán las disposiciones de este Capítulo en todos los casos en que, conforme al Código Civil o la Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad, el representante legal del menor o persona con capacidad modificada judicialmente o el administrador de un patrimonio protegido necesite autorización o aprobación judicial para la validez de actos de disposición, gravamen u otros que se refieran a sus bienes o derechos o al patrimonio protegido, salvo que hubiera establecida una tramitación específica."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.13 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1229,22 +1053,6 @@ Cuando se trate de la administración de bienes o derechos determinados, con fac
 Si el acto fuera respecto a los bienes del patrimonio protegido, el legitimado será su administrador.
 
 3\. No será preceptiva la intervención de abogado ni procurador siempre que el valor del acto para el que se inste el expediente no supere los 6.000 euros. Cuando lo supere, la solicitud inicial podrá realizarse sin necesidad de ambos profesionales, sin perjuicio de que el Juez pueda ordenar la actuación de todos los interesados por medio de abogado cuando la complejidad de la operación así lo requiera o comparezcan sujetos con intereses enfrentados.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 7.14 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 62. Competencia, legitimación y postulación.**
-
-> 1\. Será competente para el conocimiento de este expediente el Juzgado de Primera Instancia del domicilio o, en su defecto, de la residencia del menor o persona con capacidad modificada judicialmente.
-
-> 2\. Podrán promover este expediente quienes ostenten la representación legal del menor o persona con capacidad modificada judicialmente a los fines de realizar el acto jurídico de que se trate, el curador o el defensor judicial en su caso, así como el constituido en tutela o curatela, si no le hubiese sido prohibido.
-
-> Cuando se trate de la administración de bienes o derechos determinados, con facultades concretas sobre los mismos, conferida por su transmitente a título gratuito a favor de quien no ostente la representación legal de un menor o persona con capacidad modificada judicialmente, o cuando se ejerzan separadamente la tutela de la persona y la de los bienes deberá solicitar la autorización, si fuere precisa, el administrador designado por el transmitente o el tutor de los bienes.
-
-> Si el acto fuera respecto a los bienes del patrimonio protegido, el legitimado será su administrador.
-
-> 3\. No será preceptiva la intervención de Abogado ni Procurador siempre que el valor del acto para el que se inste el expediente no supere los 6.000 euros, siendo necesaria su actuación en otro caso."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.14 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1264,43 +1072,17 @@ Con la petición que se deduzca se presentarán los documentos y antecedentes ne
 
 2\. Cuando proceda dictamen pericial, se acordará de oficio o a instancia de parte, y se emitirá antes de celebrarse la comparecencia, debiendo citarse a ella al perito o peritos que lo hubiesen emitido, si así se acordara, para responder a las cuestiones que le planteen tanto los intervinientes como el Juez.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 7.15 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 64. Tramitación.**
-
-> 1\. Admitida a trámite la solicitud por el Secretario judicial, éste citará a comparecencia al Ministerio Fiscal, así como a todas las personas que, según los distintos casos, exijan las leyes y, en todo caso, al afectado que tuviera suficiente madurez y al menor mayor de 12 años.
-
-> 2\. Cuando proceda dictamen pericial se emitirá antes de celebrarse la comparecencia, debiendo citarse a ella al perito o peritos que lo hubiesen emitido, si así se acordara, para responder a las cuestiones que le planteen tanto los intervinientes como el Juez."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.15 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 65. Resolución.
 
 1\. El Juez, teniendo en cuenta la justificación ofrecida y valorando su conveniencia a los intereses del menor o persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica, resolverá concediendo o denegando la autorización o aprobación solicitada.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 1, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 2\. **(Suprimido).**
-
-> Téngase en cuenta que el apartado 2 queda suprimido por el art. 7.16 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. La autorización para la venta de bienes o derechos se concederá bajo la condición de efectuarse en pública subasta previo dictamen pericial de valoración de los mismos, salvo que se hubiera instado la autorización por venta directa o por persona o entidad especializada, sin necesidad de subasta y el Juez así lo autorice.
-
-> Se exceptúa el caso de que se trate de acciones, obligaciones u otros títulos admitidos a negociación en mercado secundario, en que se acordará que se enajenen con arreglo a las leyes que rigen estos mercados."
 
 3\. En el caso de autorización solicitada para transigir, si fuera concedida por el Juez, determinará la expedición de testimonio que se entregará al solicitante para el uso que corresponda.
 
 4\. Si se autorizare la realización de algún acto de gravamen sobre bienes o derechos que pertenezcan al menor o persona con discapacidad o la extinción de derechos reales a ellos pertenecientes, se ordenará seguir las mismas formalidades establecidas para la venta, con exclusión de la subasta.
-
-> Téngase en cuenta que esta última actualización del apartado 4 establecida por el art. 7.16 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4. Si se autorizare la realización de algún acto de gravamen sobre bienes o derechos que pertenezcan al menor o persona con capacidad modificada judicialmente, o la extinción de derechos reales a ellos pertenecientes, se ordenará seguir las mismas formalidades establecidas para la venta, con exclusión de la subasta."
 
 5\. La resolución será recurrible en apelación con efectos suspensivos.
 
@@ -1339,12 +1121,6 @@ No obstante lo anterior, si se tratara de la declaración de fallecimiento en lo
 1\. La declaración de ausencia legal a que se refieren los artículos 182 a 184 del Código Civil, con el consiguiente nombramiento de representante del ausente, se instará por parte interesada o por el Ministerio Fiscal, aportando las pruebas precisas que acrediten la concurrencia en el caso de cuantos requisitos exige el mencionado Código para tal declaración.
 
 2\. El letrado o letrada de la Administración de Justicia admitirá la solicitud y señalará día y hora para la comparecencia, que tendrá lugar en el plazo máximo de un mes, a la que citará al solicitante y al Ministerio fiscal, así como a los parientes indicados en la solicitud inicial y a quienes consten en el expediente como interesados, y ordenará publicar dos veces la resolución de admisión mediante edictos, con intervalo mínimo de ocho días, en la forma establecida en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en el Tablón Judicial Edictal Único y en el tablón del Ayuntamiento de la localidad en la que el ausente hubiere tenido su último domicilio. En el edicto se hará constar que podrá intervenir en la comparecencia cualquiera que pudiera tener interés en la declaración de ausencia.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 4.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 4.1.
-
-> Redacción anterior:
-
-> **"**2. El Secretario judicial admitirá la solicitud y señalará día y hora para la comparecencia, que tendrá lugar en el plazo máximo de un mes, a la que citará al solicitante y al Ministerio Fiscal, así como a los parientes indicados en la solicitud inicial y a quienes consten en el expediente como interesados, y ordenará publicar dos veces la resolución de admisión mediante edictos, con intervalo mínimo de ocho días, en la forma establecida en la Ley de Enjuiciamiento Civil, en el «Boletín Oficial del Estado» y en el tablón del Ayuntamiento de la localidad en la que el ausente hubiere tenido su último domicilio. En el edicto se hará constar que podrá intervenir en la comparecencia cualquiera que pudiera tener interés en la declaración de ausencia."
 
 3\. En estos expedientes, el Secretario judicial podrá adoptar de oficio o a instancia de interesado, con intervención del Ministerio Fiscal, cuantas medidas de averiguación e investigación considere procedentes, así como todas las de protección que juzgue útiles al desaparecido o ausente.
 
@@ -1540,8 +1316,6 @@ En el caso de concesión de la dispensa para el matrimonio, el Secretario judici
 
 1\. En los expedientes a que se refiere este Capítulo, una vez admitida la solicitud por el Secretario judicial, éste citará a la comparecencia al solicitante, al Ministerio Fiscal, a los progenitores, guardadores o tutores cuando proceda, a la persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica, en su caso o al menor si tuviere suficiente madurez y, en todo caso, si fuere mayor de 12 años. Si el titular de la patria potestad fuese un menor no emancipado, se citará también a sus progenitores y, a falta de éstos, a su tutor. Se podrá también acordar la citación de otros interesados.
 
-> Téngase en cuenta que la sustitución de la expresión "persona con capacidad modificada judicialmente" por "persona con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 1, por el art. 7.20.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
-
 2\. El Juez podrá acordar, de oficio o a instancia del solicitante, de los demás interesados o del Ministerio Fiscal, la práctica durante la comparecencia de las diligencias que considere oportunas. Si estas actuaciones tuvieran lugar después de la comparecencia, se dará traslado del acta correspondiente a los interesados para que puedan efectuar alegaciones en el plazo de cinco días.
 
 3\. No será preceptiva la intervención de Abogado ni de Procurador para promover y actuar en estos expedientes.
@@ -1559,12 +1333,6 @@ En el caso de concesión de la dispensa para el matrimonio, el Secretario judici
 3\. Están legitimados para promover este expediente ambos progenitores, individual o conjuntamente. Si el titular de la patria potestad fuese un menor no emancipado, también estarán legitimados sus progenitores y, a falta de éstos, su tutor.
 
 #### Sección 3.ª De las medidas de protección relativas al ejercicio inadecuado de la potestad de guarda o de administración de los bienes del menor o persona con discapacidad
-
-> Téngase en cuenta que esta última actualización establecida por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Sección 3.ª De las medidas de protección relativas al ejercicio inadecuado de la potestad de guarda o de administración de los bienes del menor o persona con capacidad modificada judicialmente"
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1590,53 +1358,17 @@ b) Cuando la medida de apoyo de la persona con discapacidad hubiera sido provist
 
 3\. Las medidas a que se refiere este Capítulo se adoptarán de oficio o a instancia del propio menor o persona con discapacidad, de cualquier pariente o del Ministerio Fiscal. Cuando se soliciten respecto de una persona con discapacidad, podrán adoptarse asimismo a instancia de cualquier interesado.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 87. Ámbito de aplicación, competencia y legitimación.**
-
-> 1\. Se aplicarán las disposiciones de esta Sección para adoptar medidas en relación al ejercicio inadecuado de la potestad de guarda de menores o personas con capacidad modificada judicialmente o a la administración de sus bienes en los casos a que se refieren los artículos 158, 164, 165, 167 y 216 del Código Civil. Y en concreto:
-
-> a) Para la adopción de las medidas de protección de los menores y de las personas con capacidad modificada judicialmente establecidas en el artículo 158 del Código Civil.
-
-> b) Para el nombramiento de un administrador judicial para la administración de los bienes adquiridos por el hijo por sucesión en la que el padre, la madre o ambos hubieran sido justamente desheredados o no hubieran podido heredar por causa de indignidad, y no se hubiera designado por el causante persona para ello, ni pudiera tampoco desempeñar dicha función el otro progenitor.
-
-> c) Para atribuir a los progenitores que carecieren de medios la parte de los frutos que en equidad proceda de los bienes adquiridos por el hijo por título gratuito cuando el disponente hubiere ordenado de manera expresa que no fueran para los mismos, así como de los adquiridos por sucesión en que el padre, la madre o ambos hubieran sido justamente desheredados o no hubieran podido heredar por causa de indignidad, y de aquellos donados o dejados a los hijos especialmente para su educación o carrera.
-
-> d) Para la adopción de las medidas necesarias para asegurar y proteger los bienes de los hijos, exigir caución o fianza para continuar los progenitores con su administración o incluso nombrar un Administrador cuando la administración de los progenitores ponga en peligro el patrimonio del hijo.
-
-> 2\. Será competente el Juzgado de Primera Instancia del domicilio o, en su defecto, de la residencia del menor o persona con capacidad modificada judicialmente. No obstante, si el ejercicio conjunto de la patria potestad por los progenitores o la atribución de la guarda y custodia de los hijos hubiera sido establecido por resolución judicial, así como cuando estuvieran sujetos a tutela será competente para conocer del expediente el Juzgado de Primera Instancia que hubiera conocido del inicial.
-
-> 3\. Las medidas a que se refiere este Capítulo se adoptarán de oficio o a instancia del propio afectado, de cualquier pariente o del Ministerio Fiscal. Cuando se soliciten respecto de una persona con capacidad modificada judicialmente, podrán adoptarse asimismo a instancia de cualquier interesado."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 88. Resolución.
 
 Si el Juez estimare procedente la adopción de medidas, resolverá lo que corresponda designando persona o institución que, en su caso, haya de encargarse de la custodia del menor o del apoyo a la persona con discapacidad, adoptará las medidas procedentes en el caso conforme a lo establecido en la legislación civil aplicable y podrá nombrar, si procediere, un defensor judicial.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 88. Resolución.**
-
-> Si el Juez estimare procedente la adopción de medidas, resolverá lo que corresponda designando persona o institución que, en su caso, haya de encargarse de la custodia del menor o persona con capacidad modificada judicialmente, adoptará las medidas procedentes en el caso conforme a lo establecido en los artículos 158 y 167 del Código Civil, y podrá nombrar, si procediere, un defensor judicial o un administrador."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 89. Actuación en casos de tutela y curatela.
 
 En los casos de tutela del menor o curatela de la persona con discapacidad, el Juez que haya conocido del expediente remitirá testimonio de la resolución definitiva al que hubiese conocido del nombramiento de tutor o del curador, respectivamente, cuando sea uno distinto.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 89. Actuación en casos de tutela.**
-
-> En los casos de tutela del menor o persona con capacidad modificada judicialmente, el Juez que haya conocido del expediente remitirá testimonio de la resolución definitiva al que hubiese conocido del nombramiento de tutor."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 7.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1665,8 +1397,6 @@ No será preceptiva la intervención de Abogado ni de Procurador para promover y
 4\. El Juez oirá en la comparecencia al solicitante, al cónyuge no solicitante, en su caso, y a los demás interesados, sin perjuicio de la práctica de las demás diligencias de prueba que estime pertinentes.
 
 5\. En estos expedientes se dará audiencia al Ministerio Fiscal cuando estén comprometidos los intereses de los menores o personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica.
-
-> Téngase en cuenta que la sustitución de la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 5, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 > Se sustituye la expresión "personas con capacidad modificada judicialmente" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 5, con efectos desde el 3 de septiembre de 2021, por el art. 7.20.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1720,12 +1450,6 @@ a) Los progenitores que ejerzan la patria potestad para repudiar la herencia o l
 
 b) Los tutores, los curadores representativos y, en su caso, los defensores judiciales, para aceptar sin beneficio de inventario cualquier herencia o legado o para repudiar los mismos.
 
-> Téngase en cuenta que esta última actualización de la letra b) del apartado 2 establecida por el art. 7.18 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "b) Los tutores, y en su caso, los defensores judiciales, para aceptar sin beneficio de inventario cualquier herencia o legado o para repudiar los mismos."
-
 c) Los acreedores del heredero que hubiere repudiado la herencia a la que hubiere sido llamado en perjuicio de aquellos, para aceptar la herencia en su nombre.
 
 3\. Asimismo, será necesaria la aprobación judicial para la eficacia de la repudiación de la herencia realizada por los legítimos representantes de las asociaciones, corporaciones y fundaciones capaces de adquirir.
@@ -1737,12 +1461,6 @@ c) Los acreedores del heredero que hubiere repudiado la herencia a la que hubier
 1\. Será competente para conocer de estos expedientes, cuya tramitación se ajustará a las normas comunes de esta ley, el Juzgado de Primera Instancia del último domicilio o, en su defecto, de la última residencia del causante y, si lo hubiere tenido en país extranjero, el del lugar de su último domicilio en España o donde estuviere la mayor parte de sus bienes, a elección del solicitante.
 
 Cuando sea llamado a la herencia un menor o persona con medidas judiciales de apoyo de personas con discapacidad, será competente para su conocimiento el Juzgado de Primera Instancia del lugar en que estos residan.
-
-> Téngase en cuenta que este apartado 1, modificado por la disposición final 24 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Será competente para conocer de estos expedientes, cuya tramitación se ajustará a las normas comunes de esta Ley, el Juzgado de Primera Instancia del último domicilio o, en su defecto, de la última residencia del causante y, si lo hubiere tenido en país extranjero, el del lugar de su último domicilio en España o donde estuviere la mayor parte de sus bienes, a elección del solicitante."
 
 2\. Podrán promover este expediente los llamados a la herencia y los acreedores del heredero que hubiera repudiado la herencia.
 
@@ -2120,12 +1838,6 @@ Se aplicarán las disposiciones de este Capítulo cuando se solicite la adopció
 
 2\. La Sociedad Rectora del mercado secundario oficial correspondiente lo comunicará a las restantes Sociedades Rectoras, que lo publicarán en el tablón de anuncios para impedir la transmisión del título o títulos afectados. Igualmente, se publicará la denuncia en el Tablón Judicial Edictal Único y, si lo solicitara el denunciante, en un periódico de gran circulación a su elección.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 4.3 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 4.1.
-
-> Redacción anterior:
-
-> **"**2. La Sociedad Rectora del mercado secundario oficial correspondiente lo comunicará a las restantes Sociedades Rectoras, que lo publicarán en el tablón de anuncios para impedir la transmisión del título o títulos afectados. Igualmente, se publicará la denuncia en el «Boletín Oficial del Estado» y, si lo solicitara el denunciante, en un periódico de gran circulación a su elección."
-
 3\. El denunciante deberá solicitar la iniciación del expediente regulado en este Capítulo en el plazo máximo de nueve días a contar desde la formalización de la denuncia.
 
 4\. Si no se notificase a la Sociedad Rectora del mercado secundario oficial la incoación del expediente, levantará la interdicción de los valores, lo comunicará a las Sociedades Rectoras de las restantes Bolsas o mercados oficiales y lo hará público mediante su fijación en el tablón de anuncios.
@@ -2193,8 +1905,6 @@ La utilización de este expediente para finalidades distintas de la prevista en 
 2\. No se admitirán a trámite las peticiones de conciliación que se formulen en relación con:
 
 1.º Los juicios en que estén interesados los menores y las personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica.
-
-> Téngase en cuenta que la sustitución de la expresión "personas con capacidad modificada judicialmente para la libre administración de sus bienes" por "personas con discapacidad con medidas de apoyo para el ejercicio de su capacidad jurídica" del apartado 2.1, por el art. 7.20.4 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), produce efectos a partir del 3 de septiembre de 2021, según determina su disposición final 3.
 
 2.º Los juicios en que estén interesados el Estado, las Comunidades Autónomas y las demás Administraciones públicas, Corporaciones o Instituciones de igual naturaleza.
 

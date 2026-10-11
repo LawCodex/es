@@ -1,0 +1,9658 @@
+---
+title: "Circular 1/2013, de 24 de mayo, del Banco de España, sobre la Central de Información de Riesgos y por la que se modifica la Circular 4/2004, de 22 de diciembre, a las entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros"
+identifier: "BOE-A-2013-5720"
+eli: "https://www.boe.es/eli/es/cir/2013/05/24/1"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2013-05-24
+published: 2013-05-31
+in_force_from: 2013-12-31
+last_amended: 2025-12-29
+consolidated: 2026-01-02
+gazette: "Boletín Oficial del Estado núm. 130"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-5720"
+retrieved: 2026-10-11
+---
+
+# Circular 1/2013, de 24 de mayo, del Banco de España, sobre la Central de Información de Riesgos y por la que se modifica la Circular 4/2004, de 22 de diciembre, a las entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros
+
+Incluye la corrección de errores y erratas publicada en BOE núm. 136, de 7 de junio de 2013. [Ref. BOE-A-2013-6046](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6046).
+
+El actual marco jurídico de la Central de Información de Riesgos (CIR) fue introducido por la Ley 44/2002, de 2 de noviembre, de medidas de reforma del sistema financiero (en adelante, Ley 44/2002), capítulo VI, que confiere a la CIR la naturaleza de «servicio público» y le atribuye dos finalidades claramente diferenciadas. Por un lado, permitir que el Banco de España pueda usar los datos declarados en el ejercicio de sus funciones de supervisión e inspección y contribuir al correcto desarrollo de las demás funciones que tiene legalmente atribuidas. Por otro, facilitar a las entidades declarantes los datos necesarios para el ejercicio de su actividad.
+
+La Ley 44/2002 establece los criterios básicos de la CIR en cuanto al contenido de los datos que se han de declarar, su uso por el Banco de España y las entidades declarantes, así como respecto al derecho de acceso, rectificación y cancelación de los datos declarados, y faculta al Banco de España para que, directamente o previa habilitación del ministro de Economía y Competitividad, pueda desarrollar sus normas de funcionamiento. La ley ha sido desarrollada por la Orden ECO/697/2004, de 11 de marzo, sobre la Central de Información de Riesgos. Los cambios introducidos por ambas normas fueron incorporados en la Circular del Banco de España n.º 3/1995, de 25 de septiembre, sobre la Central de Información de Riesgos (en adelante, Circular 3/1995), por la Circular n.º 1/2004, de 29 de junio.
+
+El papel de las centrales de riesgos en el mercado de crédito, que no es ajeno a diferentes estudios académicos y de organismos internacionales, contribuye a limitar la selección adversa, a acotar el nivel de riesgo agregado y, por estos canales, a favorecer la estabilidad financiera. Asimismo, las centrales de riesgos tienen una importante utilidad, no ya en la supervisión tradicional de las entidades de crédito, sino para el adecuado desarrollo de la supervisión macroprudencial, de forma que contribuyan a la preservación de la estabilidad del sistema financiero en su conjunto. La crisis financiera que a escala internacional se inició en 2007, y que ha afectado también al sector bancario español, ha enfatizado la utilidad y la relevancia de la CIR desde la óptica de la supervisión macroprudencial y del análisis de la estabilidad financiera, actividades que, por la naturaleza amplia y cambiante de los riesgos sistémicos, son muy intensivas en datos. Por ello, en 2011 el Banco de España inició un proceso de reflexión con objeto de mejorar la información que se declara a la CIR, para que en el futuro pueda contribuir de una forma más eficaz al mantenimiento de la estabilidad financiera del sistema crediticio español.
+
+En este contexto, España adquirió el compromiso de mejorar la cantidad y la calidad de los datos que se declaran a la CIR en el marco del Memorando de Entendimiento sobre Condiciones de Política Sectorial Financiera, de 23 julio de 2012, como consecuencia de la solicitud de asistencia financiera europea formulada por el Gobierno español.
+
+Para dar cumplimiento a lo anterior, se han modificado la Ley 44/2002 y la Orden ECO/697/2004, con el objeto de habilitar al Banco de España para fijar contenidos y umbrales de declaración distintos en función de las diferentes finalidades de la CIR, y para establecer que los datos se declaren en unidades de euro, lo que facilita que se puedan incrementar sustancialmente los datos necesarios para mejorar la contribución de la CIR a la estabilidad financiera del sistema crediticio español.
+
+Al amparo de las habilitaciones contenidas tanto en la propia Ley 44/2002 como en la Orden ECO/697/2004, el Banco de España, considerando los cambios tan importantes que se van a introducir con la presente reforma, ha optado por dictar una nueva circular sobre la CIR y derogar la vigente Circular 3/1995.
+
+Las principales novedades que se introducen en el funcionamiento de la CIR con respecto a la regulación anterior se concretan, básicamente, en los siguientes aspectos:
+
+– Se establece la obligación de declarar los riesgos, operación a operación, en unidades de euro, y sin que se fije, con carácter general, un umbral mínimo de declaración, en lugar de declararlos como se venía haciendo hasta ahora, de forma agregada por tipo de operación, en miles de euros y con un umbral de 6.000 euros para los titulares residentes y de 300.000 euros para los no residentes. Además, se tendrán que identificar para cada una de las operaciones todas las personas que intervienen en ellas, indicando la naturaleza en la que intervienen (titular de riesgo directo, garante, persona que subvenciona el principal o intereses, etc.), así como el importe del riesgo que, en su caso, les corresponde.
+
+– Se contempla un mayor desglose de los grandes tipos de producto que se declaran actualmente (crédito comercial, crédito financiero, etc.), para poder identificar mejor las características y riesgos de las diferentes operaciones. Asimismo, se solicitan nuevos datos, tales como los relativos a los tipos de interés y a las fechas de formalización, vencimiento, incumplimiento y liquidación de principal e intereses.
+
+– La información y el detalle de las garantías reales recibidas se incrementan considerablemente, pues se pasa de declarar simplemente el tipo de garantía personal o real recibida a facilitar una información detallada de cada uno de los activos recibidos en garantía. Estos datos son especialmente exhaustivos para las hipotecas inmobiliarias.
+
+– Se exige a las entidades de crédito que indiquen mensualmente, además del riesgo de las operaciones existente al final de cada mes –desglosado según se trate de principal, intereses ordinarios, intereses de demora o gastos exigibles–, el motivo o motivos por los que se reduce el riesgo de los préstamos (tales como pago en efectivo, refinanciación, adjudicación de activos, etc.) y, en su caso, el importe de la reducción debida a cada motivo.
+
+– Las operaciones reestructuradas, refinanciadas, renegociadas, subrogadas y segregadas tendrán que ser objeto de identificación y, además, de vinculación con los datos de las operaciones previamente declaradas a la CIR de las que, en su caso, procedan.
+
+– Las operaciones garantizadas por otras entidades declarantes a la CIR se vincularán con las operaciones declaradas por las entidades garantes. Además, la entidad beneficiaria de la garantía deberá facilitar a la entidad garante, a través de la CIR, datos de las operaciones garantizadas.
+
+– En las cesiones de préstamos a terceros en las que se conserve su gestión, las entidades cedentes seguirán declarando los riesgos cedidos como hasta ahora, pero además identificarán a los cesionarios, así como el riesgo que continúan asumiendo ellas y el que han pasado a asumir los cesionarios.
+
+– Para cada operación en la que continúen asumiendo riesgo las entidades, se facilitará información contable y de recursos propios, tales como la calificación crediticia, las provisiones específicas constituidas, la exposición ponderada por riesgo, la probabilidad de incumplimiento, etc.
+
+Con objeto de minimizar el coste administrativo que supone el importante incremento de información que se ha de declarar a la CIR, los datos se han dividido en básicos y dinámicos. Los datos básicos son aquellos que por su estabilidad en el tiempo solo se tienen que declarar una vez, salvo que se modifiquen con posterioridad, mientras que los datos dinámicos se deben declarar periódicamente: mensual, trimestral o semestralmente, según su naturaleza.
+
+Por otra parte, en aplicación del principio de proporcionalidad, se ha establecido un régimen por el que las entidades declarantes a la CIR que no están supervisadas por el Banco de España solo tienen que declarar los datos necesarios exclusivamente con la finalidad de facilitarlos al sistema crediticio. Por otra parte, las entidades supervisadas solo tendrán que declarar los datos relativos a las garantías recibidas cuando el importe acumulado de las operaciones con garantía hipotecaria sea igual o superior a 10 millones de euros, aunque deberán mantener dicha información en sus bases de datos a disposición del Banco de España. Además, para los titulares pertenecientes a los sectores «hogares», «sociedades no financieras» e «instituciones sin fines de lucro al servicio de los hogares», se establece que se declararán trimestralmente solo datos agregados cuando se cumplan determinados requisitos, entre los que se encuentra que su riesgo acumulado sea inferior a 6.000 euros.
+
+Por lo que se refiere al umbral para que los datos también se declaren con la finalidad de facilitarlos a las entidades declarantes, la presente circular lo eleva a 9.000 euros, actualizando en términos monetarios el umbral de 6.000 euros que se fijó en 1995. Asimismo, y en relación con la información que se retorna a las entidades declarantes, además del informe mensual con la información consolidada de todo el sistema para los titulares con los que la entidad mantenga un riesgo acumulado igual o superior a 9.000 euros, se establece que el Banco de España entregará a las entidades declarantes dos informes cuando le soliciten datos de un cliente potencial: Los correspondientes a la última declaración mensual cerrada y a la declaración cerrada seis meses antes. En consecuencia, los datos de los titulares cuyo riesgo acumulado en una entidad sea inferior a 9.000 euros no se facilitarán a las entidades declarantes, habida cuenta de que se declaran exclusivamente en cumplimiento de las obligaciones de información establecidas por el Banco de España en el ejercicio de sus funciones de supervisión e inspección y demás funciones que tiene legalmente atribuidas.
+
+La actividad de facilitar datos a las entidades de crédito para analizar la capacidad de cumplimiento de las obligaciones de sus clientes actuales y potenciales, que constituye una función muy relevante de la CIR desde su creación en 1962, también se realiza por los ficheros de solvencia patrimonial y crédito. La actividad de la CIR en esta materia es complementaria a la de dichos ficheros para garantizar la concurrencia de entidades de naturaleza privada que regula el artículo 69 de la Ley 44/2002. Por ello, las entidades de crédito, para cumplir con lo dispuesto en el artículo 18 de la Orden EHA/2899/2011, de 28 de octubre, de transparencia y protección del cliente de servicios bancarios, sobre acceso al «historial crediticio del cliente», antes de conceder un crédito deben tener en cuenta que los ficheros de solvencia patrimonial y crédito facilitan información adicional a la de CIR. A fin de que esta información sea realmente útil para el análisis de la capacidad de pago de una persona, además de facilitar datos de los incumplimientos del cliente (ficheros negativos), debería contener datos de su endeudamiento (ficheros positivos).
+
+Ante los cambios tan relevantes que se introducen en el funcionamiento de la CIR, la presente circular prevé una entrada en vigor escalonada de las obligaciones de declaración y fija un régimen transitorio para los nuevos datos que sean de difícil obtención y afecten a las operaciones formalizadas con anterioridad a determinadas fechas.
+
+Ante la necesidad de que las entidades envíen al Banco de España datos, operación a operación, de elementos que, suponiendo riesgo de crédito desde el punto de vista prudencial, no tienen cabida dentro del concepto de riesgo de crédito que regula la Ley 44/2002, resulta necesario modificar la Circular del Banco de España n.º 4/2004, de 22 de noviembre, sobre normas de información financiera pública y reservada, y modelos de estados financieros (en adelante, Circular 4/2004), para incluir nuevos estados con los que obtener datos individualizados de los instrumentos derivados, instrumentos de patrimonio y activos adjudicados o recibidos en pago de deudas, así como algunos datos de los valores representativos de deuda complementarios de los que se declaran a la CIR. Estos estados, en aplicación del principio de proporcionalidad, también se contempla que no los tengan que enviar las entidades cuyo importe acumulado en cada una de dichas actividades sea inferior a 10 millones de euros.
+
+Por último, también se aprovecha esta circular para modificar determinados estados de la Circular 4/2004, con objeto de solicitar información necesaria para la confección de las estadísticas de la balanza de pagos, para incluir un nuevo estado reservado con datos sobre el coste de la financiación captada en el mes correspondiente a negocios en España y otro con información sobre la entrega de viviendas adjudicadas o recibidas en pago de deudas procedentes de operaciones de crédito a los hogares para adquisición de vivienda, así como para armonizar el contenido del esquema de sectorización mínimo en la base de datos y del registro contable especial de operaciones hipotecarias con lo establecido en la nueva circular sobre la CIR.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, previo informe de la Agencia Española de Protección de Datos y de acuerdo con el Consejo de Estado, ha aprobado la presente circular, que contiene las siguientes normas:
+
+## CAPÍTULO I — Entidades declarantes y riesgos y personas declarables
+
+### Norma primera. Entidades declarantes.
+
+1\. La obligación de declarar al servicio público de la CIR alcanza a las siguientes entidades y a los prestamistas inmobiliarios (en adelante, «entidades declarantes»):
+
+a) Entidades de crédito (Instituto de Crédito Oficial, bancos, cajas de ahorros y cooperativas de crédito), incluidas las sucursales en España de entidades de crédito extranjeras y las que operen en España en régimen de libre prestación de servicios.
+
+b) Establecimientos financieros de crédito.
+
+c) Entidades de pago, incluidas las que operen en España, en el ejercicio del derecho de libertad de establecimiento y en régimen de libre prestación de servicios, que realicen la actividad de crédito señalada en el artículo 20.3 del Real Decreto-ley 19/2018, de 23 de noviembre, de servicios de pago y otras medidas urgentes en materia financiera.
+
+d) Entidades de dinero electrónico, incluidas las que operen en España, en el ejercicio del derecho de libertad de establecimiento y en régimen de libre prestación de servicios, que realicen la actividad de crédito señalada en el artículo 8.1.b) de la Ley 21/2011, de 26 de julio, de dinero electrónico.
+
+e) Sociedades de garantía recíproca y sociedades de reafianzamiento.
+
+f) Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, SA (Sareb).
+
+g) Banco de España.
+
+h) Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+i) Sociedad Anónima Estatal de Caución Agraria (Saeca).
+
+j) Los prestamistas inmobiliarios a los que se refiere la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario, no incluidos en categorías anteriores.
+
+2\. La obligación recogida en el apartado 1 alcanza, en el caso de las entidades españolas, a la totalidad de su negocio, incluido el realizado por sus sucursales en el extranjero, y al de las sociedades instrumentales integradas en su grupo consolidable cuando sean residentes en España, y su negocio, prolongación de la actividad de dicho grupo.
+
+Las sucursales en España de entidades de crédito extranjeras, así como las entidades de pago y las de dinero electrónico que operen en España en ejercicio del derecho de libertad de establecimiento, solo declararán a la CIR la operativa de sus oficinas en España.
+
+Las entidades de crédito, las entidades de pago y las entidades de dinero electrónico que operen en España en régimen de libre prestación de servicios solo declararán a la CIR la operativa realizada con residentes en España.
+
+A efectos de esta circular, y con objeto de determinar las obligaciones de remisión de la información, se entenderá como entidades sujetas a declaración reducida las siguientes entidades declarantes: las entidades de crédito que operen en España en régimen de libre prestación de servicios incluidas en la letra a) del apartado 1, las entidades de pago a las que se refiere la letra c) del apartado 1, las entidades de dinero electrónico a las que se refiere la letra d) del apartado 1 y los prestamistas inmobiliarios a los que se refiere la letra j) del apartado 1.
+
+Cuando las entidades declarantes no puedan facilitar de forma individualizada todos o parte de los datos que se han de declarar de las operaciones registradas en una sucursal en el extranjero por estar radicada en un país cuya legislación lo impida, deberán enviar al Banco de España una declaración jurada en la que se justifique suficientemente esta circunstancia, detallando de manera específica a qué datos afecta la imposibilidad legal de remisión a la CIR y la normativa en que se basa, de la que se enviará una copia junto con la referida declaración jurada. La declaración jurada se deberá actualizar al menos cada dos años si se mantiene el impedimento legal para facilitar los datos de forma individualizada. Si cesara la causa que impedía el envío de datos, las entidades declarantes deberán comunicarlo al Banco de España y, a partir de ese momento, comenzar a declararlos de forma individualizada.
+
+3\. A efectos de esta circular, la definición de agente observado será la establecida en el artículo 1.9 del Reglamento (UE) n.º 867/2016 del Banco Central Europeo, de 18 de mayo, sobre la recopilación de datos granulares de crédito y de riesgo crediticio (BCE/2016/13) [en adelante, el Reglamento (UE) 867/2016]. A tal efecto, se entenderá por agente observado:
+
+a) La parte doméstica de la entidad de crédito residente en un Estado miembro informador (negocios en el país de residencia de su sede central) y, en su caso, cada una de sus sucursales en el extranjero.
+
+b) Las sucursales en un Estado miembro informador de una entidad de crédito que sea no residente en uno de esos Estados.
+
+Se entiende por Estado miembro informador aquel que informe al Banco Central Europeo conforme a lo dispuesto en el Reglamento (UE) 867/2016.
+
+> Se modifican los apartados 1 y 2 por la norma 1.a) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se modifican los apartados 1 y 2 por la norma única.a) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifica la letra a) del apartado 1 y se añade el apartado 3 por la norma única.1 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el último párrafo por la norma 2.1 de la Circular de 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+### Norma segunda. Riesgos declarables.
+
+1\. Los riesgos declarables a la CIR son las operaciones instrumentadas en forma de préstamos, valores representativos de deuda, garantías financieras, compromisos de préstamo, otros compromisos con riesgo de crédito y préstamos de valores.
+
+La declaración de estas operaciones se realizará con las precisiones que se indican en los siguientes apartados y con el detalle que se regula en el anejo 2 de la presente circular.
+
+A efectos de esta circular, se consideran:
+
+a) Préstamos: Las financiaciones otorgadas por la entidad, cualquiera que sea la forma en la que estén instrumentadas, excepto los valores representativos de deuda, aunque los importes no se hayan dispuesto.
+
+Los préstamos se clasifican, en función de sus características, en:
+
+i) Crédito comercial: Los préstamos concedidos sobre la base de derechos de cobro (efectos u otros documentos) que surgen al aplazar el cobro de operaciones de compraventa de bienes o prestación de servicios. El crédito comercial incluye:
+
+1) Operaciones con recurso: Cuando el cedente de los derechos de cobro retiene sustancialmente todos los riesgos y beneficios, con independencia de cómo se denomine la operación en el contrato, o cuando, sin transferirlos ni retenerlos sustancialmente, la entidad declarante no adquiere el control de sus flujos de efectivo.
+
+2) Operaciones sin recurso: Cuando el cedente transfiere sustancialmente todos los riesgos y beneficios de los derechos de cobro, o cuando, sin transferirlos ni retenerlos sustancialmente, la entidad declarante adquiere el control de sus flujos de efectivo.
+
+ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o préstamo de recompra inversa.
+
+iii) Arrendamientos financieros: las operaciones de arrendamiento que la entidad declarante debe registrar contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato, aunque tengan la consideración de arrendamiento operativo para el arrendatario. Este concepto recoge las cuotas que ha de pagar el arrendatario.
+
+iv) Préstamos de recompra inversa: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo.
+
+Las operaciones que se han de declarar como préstamos a la CIR no incluyen, aunque sean derechos de cobro a favor de la entidad, los importes pendientes de cobro por cheques, los saldos frente a cámaras y organismos liquidadores por operaciones en bolsa y mercados organizados, las fianzas dadas en efectivo, los dividendos pasivos exigidos, las comisiones por garantías financieras y demás saldos deudores que no tengan la naturaleza de préstamo a efectos de los requerimientos estadísticos de la Unión Económica y Monetaria.
+
+b) Valores representativos de deuda: las obligaciones y demás valores que creen o reconozcan una deuda para su emisor, incluso los efectos negociables emitidos para su negociación entre un colectivo abierto de inversionistas, que devenguen una remuneración consistente en un interés, implícito o explícito, cuyo tipo, fijo o definido por referencia a otros, se establezca contractualmente, o incorporen un derivado implícito con características y riesgos económicos distintos a los del contrato principal, y se instrumenten en títulos o en anotaciones en cuenta, cualquiera que sea el sujeto emisor, excepto los hogares.
+
+c) Garantías financieras: Los contratos que exigen que el emisor efectúe pagos específicos para reembolsar al acreedor por la pérdida en la que incurre cuando un deudor específico incumpla su obligación de pago de acuerdo con las condiciones, originales o modificadas, de un instrumento de deuda, con independencia de su forma jurídica.
+
+d) Compromisos de préstamo: Los compromisos firmes de conceder préstamos con unas condiciones y términos preestablecidos, excepto los disponibles en operaciones que cumplen la definición de préstamo.
+
+e) Otros compromisos con riesgo de crédito: Los compromisos que cumplen la definición de riesgo de crédito declarable a la CIR no incluidos en los apartados anteriores. En concreto, en esta categoría se incluyen los avales y cauciones prestados que no cumplan la definición de garantía financiera, los créditos documentarios irrevocables y los disponibles en otros compromisos (pólizas de riesgo global-multiuso y líneas de avales, créditos documentarios y créditos por disposiciones).
+
+f) Préstamos de valores: Las operaciones en las que la entidad declarante cede al prestatario la plena titularidad de unos valores con el compromiso de devolver otros de la misma clase que los recibidos sin efectuar ningún desembolso, salvo el pago de comisiones. Cuando en una operación de préstamo de valores ambas entidades intercambien valores, se considerará entidad prestamista la que cobre las comisiones.
+
+1 bis) Las entidades de crédito y las sucursales en España de entidades de crédito extranjeras también declararán a la CIR:
+
+a) Los préstamos concedidos por la sede central a sus sucursales en el extranjero, así como los que estas tengan con la sede central u otras sucursales de la entidad.
+
+b) Los préstamos no originados por la entidad que sean administrados por alguno de sus agentes observados residente en un Estado miembro informador, siempre que: i) un deudor, al menos, sea una persona jurídica o entidad sin personalidad jurídica, y ii) el acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
+
+c) Los préstamos fiduciarios gestionados por los agentes observados, siempre que un deudor, al menos, sea una persona jurídica. A estos efectos, préstamos fiduciarios son aquellos en los que el agente observado actúa en nombre propio pero por cuenta y riesgo de un tercero distinto de un agente observado residente en un Estado miembro informador.
+
+2\. Los riesgos declarables se clasificarán, en función de la naturaleza en la que intervengan los titulares en la operación, en:
+
+a) Riesgos directos: Los riesgos contraídos con los primeros obligados al pago de los préstamos (con las precisiones que se indican en la norma tercera, apartado 4), los emisores de valores representativos de deuda, las personas sobre las que se ha concedido una garantía financiera u otro tipo de aval o caución, y las contrapartes de los restantes compromisos y de los préstamos de valores.
+
+b) Riesgos indirectos: Los riesgos contraídos con los garantes, vendedores de protección en titulizaciones sintéticas o derivados de crédito, aseguradores, afianzadores, personas que no siendo titulares de riesgos directos hayan comprometido su firma en operaciones de cartera comercial o efectos financieros y demás personas que respondan del riesgo en caso de incumplimiento de los titulares de los riesgos directos, así como los terceros que se hayan comprometido a adquirir el activo cedido en operaciones de arrendamiento financiero si no lo hacen los arrendatarios.
+
+3\. Los riesgos declarables se deben declarar de forma individualizada a la CIR, es decir, operación a operación. Para ello, las entidades declarantes asignarán a cada operación –o a cada parte en la que se tenga que dividir conforme a lo dispuesto en la norma tercera, apartado 3– un código único, que se debe mantener invariable durante su vida. Dicho código no se podrá reutilizar en el futuro para declarar otras operaciones. Cuando, por motivos de gestión interna, resulte estrictamente necesario, el Banco de España podrá permitir un cambio de código. En este caso, las entidades se atendrán a lo dispuesto en la norma undécima, letra A).
+
+No obstante lo indicado en el párrafo anterior, no se declararán las operaciones cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a veinticuatro meses), *factoring* sin recurso, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
+
+a) Pertenezcan al sector institucional hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
+
+b) no tengan otro tipo de operaciones declarables a la CIR;
+
+c) su riesgo acumulado, directo e indirecto, en la entidad declarante sea inferior a 3.000 euros, y
+
+d) no tengan importes calificados como normales en vigilancia especial o dudosos, o el importe total de las operaciones con dichas calificaciones sea inferior a 100 euros.
+
+4\. Los riesgos transferidos y los adquiridos a terceros en los que la entidad cedente continúe con su gestión ante los titulares se declararán a la CIR conforme a lo dispuesto en la norma decimocuarta.
+
+5\. No obstante lo señalado en los apartados anteriores, el Fondo de Garantía de Depósitos de Entidades de Crédito no declarará las garantías que preste ante entidades declarantes como consecuencia de esquemas de protección de activos comprendidos en planes de actuación o reestructuración, o en otras medidas de apoyo a entidades de crédito adoptadas conforme a la normativa que regula su funcionamiento.
+
+Por su parte, las sociedades de reafianzamiento no declararán las operaciones en las que reafiancen las garantías financieras y los avales y otras cauciones no financieros prestados por otras entidades declarantes a la CIR.
+
+6\. Los préstamos y valores representativos de deuda impagados continuarán declarándose a la CIR hasta la extinción de todos los derechos de la entidad (por prescripción, por condonación o por otras causas) o hasta su recuperación.
+
+> Se modifica el apartado 3 por la norma única.1 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Se modifica el apartado 1.a).iii) por la norma 2.a) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se añade el apartado 1 bis) y se modifica el primer párrafo y la letra a) del apartado 3 por la norma única.2 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el apartado 3.d) por la norma 3 de la Circular 4/2016, de 27 de abril. [Ref. BOE-A-2016-4356](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4356).
+
+> Se modifica el párrafo 2 del apartado 3 por la norma 2.2 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modican los apartados 1.a).ii) y iv), párrafo segundo del 3 y se añade un 6 por la norma 3.1 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+### Norma tercera. Titulares y otras personas declarables.
+
+1\. Las personas declarables a la CIR, con las precisiones que se indican en los siguientes apartados, son:
+
+a) Los titulares de riesgos directos e indirectos, cualesquiera que sean su naturaleza, forma jurídica, sector institucional o país de residencia.
+
+b) Las personas relacionadas con los titulares o con las operaciones en las que intervengan.
+
+La declaración de los titulares y demás personas declarables se efectuará conforme a lo dispuesto en la norma quinta.
+
+2\. Los titulares de riesgos, con carácter general, son personas físicas o jurídicas. No obstante, también pueden ser titulares declarables las entidades sin personalidad jurídica que tengan asignado un número de identificación fiscal, tales como los fondos de titulización, las parroquias y las comunidades de propietarios. Sin embargo, en los casos de las restantes comunidades de bienes, uniones temporales de empresas y sociedades civiles sin personalidad jurídica, los titulares declarables serán exclusivamente las personas físicas o jurídicas que las integran, que se declararán como titulares mancomunados o solidarios de acuerdo con el riesgo que asuman en la operación.
+
+Cuando una operación tenga varios titulares, se tendrán que declarar todos a la CIR, indicando la naturaleza de su intervención y, cuando proceda, si son titulares mancomunados o solidarios.
+
+En los riesgos con sociedades colectivas o comanditarias, agrupaciones de interés económico (AIE) y agrupaciones europeas de interés económico (AEIE), además de las sociedades y agrupaciones, también son declarables como titulares colectivos cada uno de los socios colectivos de las sociedades y de los integrantes de las agrupaciones, conforme a lo dispuesto en la norma quinta, letra A), apartado 2.b).
+
+3\. Las entidades declarantes deben asignar a cada titular exclusivamente el riesgo, directo o indirecto, que le corresponda de las operaciones en las que intervenga. En consecuencia:
+
+a) Las operaciones subvencionadas y las que tengan titulares de riesgos directos mancomunados se dividirán y declararán a la CIR con tantos códigos de operación diferentes como sean necesarios para poder asignar a cada titular, o grupo de titulares mancomunados que actúan solidariamente entre sí, el importe que le corresponda.
+
+b) Las operaciones que tengan varios titulares de riesgos indirectos se declararán mensualmente, tantas veces como sea necesario, en el módulo C.2, Datos dinámicos de los riesgos indirectos, para poder imputar a cada titular el importe que le corresponda.
+
+Lo dispuesto en este apartado no es de aplicación a las entidades sujetas a declaración reducida, cuya declaración se ajustará a los criterios establecidos para la declaración del módulo I, Datos sobre la actividad de las entidades sujetas a declaración reducida.
+
+4\. Los titulares de riesgos directos son:
+
+a) En el crédito comercial con recurso, el cedente de los derechos de cobro. Las personas que tengan comprometida su firma en los efectos son titulares de riesgo indirecto.
+
+b) En el crédito comercial sin recurso, los obligados al pago de los derechos de cobro.
+
+c) En los arrendamientos financieros, los arrendatarios, por los importes que se hayan comprometido a pagar. Las personas diferentes de los arrendatarios que se hayan comprometido a adquirir los activos cedidos, en caso de que no lo haga el arrendatario, serán titulares de riesgo indirecto por los importes que se hayan comprometido a pagar.
+
+d) En los préstamos de recompra inversa, los cedentes de los activos, sea cual sea el activo cedido.
+
+e) En los anticipos de pensiones y nóminas por cuenta de Administraciones Públicas, las personas a las que se anticipan los fondos.
+
+f) En los restantes préstamos, los obligados al pago de las operaciones.
+
+g) En los valores representativos de deuda, los emisores de los valores.
+
+h) En las garantías financieras, los avales y cauciones no financieros prestados y los créditos documentarios irrevocables, las personas por las que responde la entidad ante los beneficiarios de las operaciones.
+
+i) En el resto de compromisos, las personas que tengan derecho a efectuar las disposiciones.
+
+j) En los préstamos de valores, las contrapartes a las que se prestan los valores.
+
+k) En las operaciones subvencionadas, las personas que subvencionan el principal o el interés, por el importe que subvencionan.
+
+5\. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones no sean declarables, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 3.000 euros y formen parte de una operación de crédito comercial con recurso. Asimismo, las entidades sujetas a declaración reducida no declararán a los titulares de riesgo indirecto que intervengan en la operación en calidad de contraparte de un derivado de crédito comprado, de garante sin conocimiento del titular o de tercero comprometido a pagar importes en una operación de arrendamiento financiero.
+
+Los datos de los titulares, incluidos los de sus operaciones, cuyo riesgo acumulado en la entidad declarante sea inferior a 1.000 euros se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002. A estos efectos, el riesgo acumulado es el importe de las operaciones en las que la persona intervenga como titular de riesgo, directo o indirecto, con las siguientes precisiones:
+
+a) No se incluyen en el cálculo del riesgo acumulado los importes de las operaciones que se declaren como:
+
+1\. Garantías financieras instrumentadas como derivados de crédito o compromisos de riesgo de crédito de arrendamientos financieros para el arrendador.
+
+2\. Otros compromisos con riesgo de crédito instrumentados como compromisos de riesgo de crédito de arrendamientos operativos para el arrendador.
+
+3\. Otros arrendamientos, según la definición de otros arrendamientos establecida en la dimensión "Tipo de producto" del módulo B.2 del anejo 2.
+
+b) El importe del riesgo directo asumido en las operaciones es la suma de los importes dispuestos (principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles) pendientes de cobro más los importes disponibles (con disponibilidad inmediata y condicionada).
+
+c) El importe del riesgo indirecto que computa como riesgo acumulado es el riesgo máximo que garantiza el titular de las operaciones en las que interviene exclusivamente como garante o porque haya comprometido su firma en operaciones de cartera comercial o efectos financieros. Cuando el titular haya comprometido su firma en efectos que forman parte de operaciones de cartera comercial con recurso que no se declaren a la CIR conforme a lo dispuesto en el primer párrafo de este apartado, el riesgo no declarado por este motivo no se computará a estos efectos.
+
+d) En los préstamos sindicados y demás préstamos en los que varios prestamistas participan de forma mancomunada, cada entidad declarante computará como riesgo acumulado exclusivamente el importe del riesgo que asuma de las operaciones. En los diferentes módulos se declarará exclusivamente el importe del riesgo que la entidad asuma en estos préstamos, sin perjuicio del tratamiento específico para las garantías con las que, en su caso, cuenten, que se declararán conforme a lo señalado en la norma octava, apartados 3, 8 y 11.
+
+e) En las garantías financieras y avales y cauciones no financieros prestados concedidos solidariamente por varias entidades, cada entidad declarante computará como riesgo acumulado el importe total de la operación.
+
+f) En el riesgo acumulado, además de los importes que asume directamente la entidad declarante con el titular, se incluirán los que haya transferido a terceros de las operaciones en las que continúa con su gestión frente al titular, aunque los haya dado de baja del activo, así como los que tenga registrados en los libros de sus sociedades instrumentales residentes en España.
+
+g) En el riesgo acumulado de las entidades que hayan adquirido operaciones que continúe declarando a la CIR otra entidad, también se incluyen los importes que hayan asumido en dichas operaciones, aunque, conforme a lo dispuesto en la norma decimocuarta, letra B), no los declaren a la CIR como datos dinámicos de los riesgos directos e indirectos.
+
+h) En el riesgo acumulado no se incluirán los importes de las operaciones a las que se refiere la norma segunda, apartado 1 bis.
+
+6\. No obstante lo señalado en el apartado anterior, el Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito, la Sociedad Anónima Estatal de Caución Agraria (SAECA), las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios solo declararán las operaciones cuyos titulares pertenezcan a los sectores institucionales hogares, sociedades no financieras o instituciones sin fines de lucro al servicio de los hogares cuyo riesgo acumulado sea igual o superior a 3.000 euros.
+
+7\. Las personas que, no siendo titulares de riesgos directos o indirectos, se deben declarar a la CIR por estar relacionadas con los titulares de los riesgos o con las operaciones en las que intervienen son:
+
+a) Los acreedores y los administradores de los préstamos.
+
+b) Los originadores de los préstamos en el caso de titulizaciones y los proveedores de garantías reales de los préstamos que sean personas jurídicas.
+
+c) Las entidades dominantes, inmediata y última de los titulares de riesgos directos o indirectos y de los proveedores de garantías reales.
+
+d) Las cabeceras de los grupos de clientes relacionados a los que, en su caso, pertenezcan los titulares de riesgos directos o indirectos.
+
+e) Las entidades que, teniendo la consideración de sector público español, posean derechos de voto o participen en el capital de empresas o instituciones sin fines de lucro al servicio de los hogares que no tengan la consideración de sector público.
+
+f) Las entidades a las que pertenezcan las sucursales declarables cuya sede social radique en otro país.
+
+g) Las sociedades instrumentales residentes en España integradas en el grupo consolidable de la entidad declarante, en las que están contabilizadas las operaciones declaradas.
+
+h) Los cesionarios de operaciones transferidas a terceros.
+
+i) Las entidades que actúan como agentes en los préstamos sindicados.
+
+j) Las entidades declarantes a la CIR con las que se tengan operaciones con códigos vinculados.
+
+k) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
+
+l) Las sociedades gestoras de fondos de inversión cuando estos sean titulares de riesgos o proveedores de garantías reales y residan en un Estado miembro informador.
+
+> Se modifican los apartados 5 y 6 por la norma única.2 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Se modifican los apartados 3 y 5 por la norma 1.b) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se modifican los apartados 3, 5 y 6 por la norma única.b) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifican los apartados 5.a) y 7.l) por la norma 2.b) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se modifica por la norma única.3 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el primer párrafo del apartado 5 por la norma 2.3 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modifica el primer párrafo del apartado 2 y la letra d) del apartado 4 por la norma 3.2 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+> Se modifica el primer párrafo y la letra c) del apartado 5 por la norma 2.1 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+## CAPÍTULO II — Información que se debe rendir al Banco de España
+
+### Norma cuarta. Módulos de datos y disposiciones generales.
+
+1\. Las entidades declarantes estarán obligadas a remitir al Banco de España los siguientes módulos de datos, en tanto les sean aplicables, conforme a lo dispuesto en las normas de este capítulo:
+
+| Módulo | Denominación | Periodicidad | Plazo máximo de presentación |
+|---|---|---|---|
+| A | Datos de personas y solicitud de código. |  |  |
+| A.1 | Datos que identifican a las personas. | No periódico. | Día 5 del mes siguiente. |
+| A.2 | Solicitud de código de identificación de personas no residentes en España. | No periódico. |  |
+| B | Datos básicos de las operaciones y de las relaciones con las personas. |  |  |
+| B.1 | Datos básicos que relacionan a las personas con las operaciones. | No periódico. | Día 5 del mes siguiente. |
+| B.2 | Datos básicos de las operaciones. | No periódico. | Día 5 del mes siguiente. |
+| B.3 | Datos básicos complementaros de los préstamos a personas jurídicas. | No periódico. | Día 5 del mes siguiente. |
+| C | Datos dinámicos de las operaciones. |  |  |
+| C.1 | Datos dinámicos de los riesgos directos. | Mensual. | Día 10 del mes siguiente. |
+| C.2 | Datos dinámicos de los riesgos indirectos. | Mensual. | Día 10 del mes siguiente. |
+| C.3 | Datos dinámicos financieros de los préstamos a personas jurídicas. | Mensual. | Día 10 del mes siguiente. |
+| C.4 | Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas. | Mensual. | Día 10 del mes siguiente. |
+| D | Datos sobre garantías recibidas. |  |  |
+| D.1 | Datos básicos que relacionan las operaciones con las garantías recibidas. | No periódico. | Día 10 del mes siguiente. |
+| D.1.1 | Datos básicos de las garantías recibidas. | No periódico. | Día 10 del mes siguiente. |
+| D.2 | Datos básicos de los inmuebles recibidos en garantía. | No periódico. | Día 10 del mes siguiente. |
+| D.3 | Datos básicos de los activos financieros recibidos en garantía. | No periódico. | Día 10 del mes siguiente. |
+| D.4 | Datos dinámicos que relacionan las operaciones con las garantías recibidas. | Mensual. | Día 10 del mes siguiente. |
+| D.5 | Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía. | Trimestral. | Día 10 del mes siguiente. |
+| E | Datos sobre tipos de interés de los préstamos. | No periódico. | Día 10 del mes siguiente. |
+| F | Datos de transferencias y titulizaciones sintéticas de activos financieros. | No periódico. | Día 10 del mes siguiente. |
+| G | Datos que vinculan códigos. | No periódico. | Día 10 del mes siguiente. |
+| H | Información prudencial complementaria. |  |  |
+| H.1 | Datos contables de los préstamos. | Trimestral. | Día 15 del segundo mes siguiente. |
+| H.2 | Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas. | Trimestral. | Día 10 del mes siguiente. |
+| H.3 | Datos sobre la situación de impago (*default*) de los titulares de riesgo de los préstamos que sean personas jurídicas. | Mensual. | Día 10 del mes siguiente. |
+| I | Datos dinámicos sobre la actividad de las entidades sujetas a declaración reducida. | Mensual. | Día 10 del mes siguiente. |
+
+Los módulos de datos se incluyen como anejo 1, y las instrucciones para su elaboración, en el anejo 2. Adicionalmente, el Banco de España podrá elaborar aplicaciones técnicas para facilitar la confección de los diferentes módulos. En todo caso, la declaración de las dimensiones de la CIR que sean coincidentes con las que figuran en el Reglamento de AnaCredit, en lo no contemplado expresamente en esta circular o en las aplicaciones técnicas, se hará aplicando los criterios que, en su caso, publique el BCE.
+
+Cuando el día del plazo máximo de presentación de los módulos sea festivo en Madrid, los datos se podrán enviar el primer día hábil en dicha localidad posterior al día máximo de presentación.
+
+Los datos dinámicos (es decir, los que tienen frecuencia mensual o trimestral) serán los correspondientes a la situación del último día del mes o trimestre natural al que se refiera la declaración.
+
+Los importes se declararán en unidades de euros. Los importes denominados en monedas diferentes del euro se declararán por su contravalor en euros, utilizando para los datos básicos el tipo de cambio aplicable en la fecha de formalización de las operaciones y para los datos dinámicos el tipo de cambio de cierre correspondiente a la fecha a la que se refieran los datos, que coincidirá con el tipo que se utilice para la elaboración de los estados financieros.
+
+2\. Las siguientes entidades declarantes no tendrán que declarar los módulos que se indican a continuación, aunque tengan datos susceptibles de declarar en ellos:
+
+a) Las entidades de crédito españolas y las sucursales en España de entidades de crédito extranjeras cuya sede social no esté radicada en otro país del Espacio Económico Europeo no declararán el módulo I.
+
+b) Las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro Estado miembro informador no declararán los módulos D, H e I. No obstante, el Banco de España podrá requerir el envío de los módulos D y H cuando la información de estos módulos fuese necesaria para cumplir con las obligaciones establecidas por el Reglamento de AnaCredit. En este caso, la información a enviar sobre el módulo D será la misma que se requiere para las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea estado miembro informador. El requerimiento se efectuará por escrito, con una antelación mínima de tres meses antes del primer envío.
+
+c) Las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea Estado miembro informador no declararán los módulos D.3, D.5 e I.
+
+d) Las sociedades de garantía recíproca no declararán los módulos B.3, C.3, C.4, E, F, H e I.
+
+e) El Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito, las sociedades de reafianzamiento y la Sociedad Anónima Estatal de Caución Agraria (SAECA) no declararán los módulos B.3, C.3, C.4, D, E, F, G, H e I.
+
+f) La Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, SA (SAREB) y los establecimientos financieros de crédito, no declararán los módulos B.3, C.3, C.4, H e I.
+
+g) Las entidades sujetas a declaración reducida no declararán los módulos B, C, D, E, F, G y H.
+
+3\. Sin perjuicio de lo previsto en el apartado 2 anterior, las entidades declarantes distintas de las entidades de crédito y las sucursales en España de entidades de crédito extranjeras solo enviarán los módulos D, Datos sobre garantías, que les correspondan de acuerdo con lo establecido en el apartado anterior, cuando al final del mes al que se refieran los datos el importe acumulado (dispuesto más disponible) de sus operaciones con garantía real sea igual o superior a 10 millones de euros. No obstante, el Banco de España podrá requerir a las entidades que no superen el citado umbral que declaren todos o algunos de los módulos D, con la periodicidad y el plazo máximo de presentación establecidos con carácter general. El requerimiento se efectuará por escrito, con una antelación mínima de tres meses antes del primer envío, atendiendo a las circunstancias particulares de las entidades, en especial a su perfil de riesgo y al importe que represente la actividad que se ha de reportar en relación con su tamaño.
+
+Las entidades que vengan declarando a la CIR todos o alguno de los módulos D continuarán remitiéndolos cuando el importe acumulado de sus operaciones descienda por debajo del umbral para su remisión, hasta que el Banco de España les comunique por escrito que no tienen que enviarlos obligatoriamente.
+
+Las entidades que alcancen por primera vez el umbral para presentar los módulos D con posterioridad al 30 de septiembre de 2015 no los tendrán que enviar mientras el Banco de España no les comunique por escrito, con una antelación mínima de tres meses, que deben remitirlos.
+
+Las entidades que deban declarar los módulos D conforme a lo dispuesto en los apartados 1 y 2 de esta norma, pero que, según lo señalado en los párrafos anteriores, estén exentas de enviarlos por no alcanzar el umbral para su declaración, deberán disponer en su base de datos, como mínimo, de dicha información.
+
+4\. Todas las comunicaciones de datos entre las entidades declarantes y la CIR se realizarán por vía telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+Los datos se enviarán por la propia entidad declarante. No obstante, el Banco de España podrá autorizar que los datos sean remitidos por otra entidad declarante, en nombre y por cuenta suya, cuando lo justifiquen razones de organización administrativa de la entidad obligada a declarar, si bien ello no descargará de responsabilidad a las personas y órganos directivos de la entidad a la que se refieran los datos declarados, que tendrá la consideración de entidad declarante a todos los efectos.
+
+Las declaraciones se realizarán de la siguiente forma:
+
+a) Las declaraciones de los datos no periódicos se deberán transmitir desde el día en el que se conozcan hasta el día que se corresponda con su plazo máximo de presentación.
+
+b) Las declaraciones complementarias con rectificaciones o cancelaciones de datos previamente declarados se comunicarán, como máximo, cinco días hábiles después de que la entidad declarante tenga conocimiento de que no reflejan la situación actual a la fecha de la declaración.
+
+Las entidades declarantes deberán arbitrar la fórmula que mejor convenga a su organización para transmitir los datos, cursando diariamente una o varias declaraciones, pudiendo existir un desfase de varios días entre la fecha en la que se origine o varíe el dato y la fecha en que se comunique. Cuando el número de registros que se deben declarar sea reducido, se podrá diferir su declaración, aunque, en todo caso, se deberá realizar, como mínimo, una transmisión semanal de datos no periódicos, siempre que existan datos declarables.
+
+4 bis) Las entidades declarantes deberán continuar declarando a la CIR los préstamos mientras no se comunique la baja de la operación conforme a lo estipulado en la norma sexta, apartado 7.
+
+5\. La CIR no podrá modificar los datos declarados por las entidades declarantes, de los que estas son responsables y a las que corresponde enviar declaraciones complementarias con las rectificaciones o cancelaciones de datos declarados erróneamente.
+
+6\. Los datos que se incluyen en el anejo 3 de la presente circular se declaran con las finalidades previstas en las letras a) y b) del apartado cuarto del artículo 60 de la Ley 44/2002. Los restantes datos de los riesgos solicitados en los diferentes módulos de esta circular se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002.
+
+> Se modifican los apartados 1 y 2 por la norma única.3 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se modifican los apartados 1 y 2 por la norma 1.c) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se modifican los apartados 1 y 2 por la norma única.c) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifica el módulo H2 del apartado 1 por la norma 2.c) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se modifica por la norma única.4 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifican los apartados 1 y 2 por la norma 2.4 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+### Norma quinta. Datos de personas y solicitud de código.
+
+A) Datos que identifican a las personas:
+
+1\. El módulo A.1, Datos que identifican a las personas, se enviará para declarar los datos de:
+
+a) Los titulares de riesgos directos e indirectos para los que se tengan que declarar sus datos de forma individualizada, conforme a lo dispuesto en la norma tercera, apartado 5.
+
+b) Las personas distintas de los titulares de riesgos.
+
+2\. El módulo A.1 tiene las siguientes partes:
+
+a) Parte 1, Datos de la persona: Esta parte se enviará con los datos que le correspondan a la persona según su naturaleza.
+
+b) Parte 2, Datos de los titulares colectivos: Esta parte se enviará para vincular las sociedades colectivas, sociedades comanditarias, agrupaciones de interés económico (AIE) y agrupaciones europeas de interés económico (AEIE) con cada uno de sus socios colectivos o componentes.
+
+Los datos de los socios colectivos y los componentes de las agrupaciones de interés económico (AIE) y de las agrupaciones europeas de interés económico (AEIE) también se han de declarar en la parte 1 de este módulo.
+
+c) Parte 3, Datos que relacionan a los titulares con las entidades que integran el sector público español: Esta parte se enviará para relacionar a las personas jurídicas que sean titulares de riesgos, directos o indirectos, con las entidades que tienen la consideración de sector público español que posean derechos de voto o participen en su capital cuando no figuren sectorizadas en el sitio web de Internet del Banco de España en cualquiera de los sectores correspondientes a Administraciones Públicas españolas o clasificadas como entidades dependientes de Administraciones Públicas españolas.
+
+Los datos de las entidades que tienen la consideración de sector público relacionadas con los titulares también se han de declarar en la parte 1 de este módulo.
+
+d) Parte 4, Datos que vinculan a los titulares con los grupos de clientes relacionados: Esta parte se enviará para vincular a los titulares de riesgos con las entidades cabecera de los grupos de clientes relacionados a los que, en su caso, pertenezcan, siempre que sean diferentes de la entidad dominante del grupo económico del que puedan formar parte. A estos efectos, la definición de grupo de clientes relacionados es la misma que se utiliza para el cálculo de los límites a los grandes riesgos en la normativa europea de solvencia, aunque los importes del grupo no cumplan la definición de grandes riesgos.
+
+Los datos de las entidades cabecera también se han de declarar en la parte 1 de este módulo.
+
+3\. Cuando la entidad declarante tenga conocimiento de que la persona declarada dispone de otro u otros códigos de identificación personal por los que pueda estar declarada al Banco de España deberá utilizar el código vigente a la fecha de su declaración. Adicionalmente, informará de los códigos anteriores que pueda tener dicha persona de los que tenga constancia documental.
+
+4\. Las entidades sujetas a declaración reducida no declararán las partes 3 y 4 de este módulo.
+
+B) Solicitud de código de identificación de personas no residentes en España:
+
+5\. El módulo A.2, Solicitud de código de identificación de personas no residentes en España, se enviará para solicitar códigos de identificación para las personas, físicas o jurídicas, y entidades sin personalidad jurídica no residentes en España.
+
+6\. Cuando las entidades declarantes dispongan del código de identificación de una persona, física o jurídica, o de una entidad sin personalidad jurídica no residente, deberán enviar una actualización de los datos previamente comunicados en el módulo A.2, siempre que tengan constancia de su variación, así como cuando les corresponda declarar datos adicionales en dicho módulo en función del motivo por el que se declaren dichas personas al Banco de España.
+
+> Se modifica el apartado 4 por la norma 1.d) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se modifica el apartado 3 y se añade el apartado 4 por la norma única.d) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se suprime el apartado 4 y se modifica el apartado 6 por la norma única.5 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+### Norma sexta. Datos básicos de las operaciones y de las relaciones con las personas.
+
+A) Datos básicos que relacionan a las personas con las operaciones:
+
+1\. El módulo B.1, "Datos básicos que relacionan a las personas con las operaciones", se enviará para vincular las operaciones que se han de declarar de forma individualizada, conforme a lo dispuesto en la norma segunda, apartado 3, con todos sus titulares, por riesgo tanto directo como indirecto, así como con el resto de las personas que intervengan en ellas, excepto con las contrapartes que vendan protección crediticia en titulizaciones sintéticas, que se vincularán con las operaciones en el módulo F, "Datos de transferencias y titulizaciones sintéticas de activos financieros", y con las contrapartes que sean proveedores de garantías, que se vincularán con las garantías en el módulo D.1.1, "Datos básicos de las garantías recibidas".
+
+1 bis) El módulo B.1 tiene las siguientes partes:
+
+a) Parte 1. Datos básicos que relacionan a los titulares de riesgos con las operaciones: esta parte se enviará para vincular las operaciones con todos los titulares de riesgos directos e indirectos.
+
+b) Parte 2. Datos básicos que relacionan a las personas distintas de los titulares de riesgos con las operaciones: esta parte se enviará para vincular las operaciones con las personas que intervienen en ellas distintas de los titulares de riesgos directos e indirectos.
+
+2\. El módulo B.1 se enviará cada vez que se haya de declarar una nueva operación, o vincular o desvincular a una persona con una operación, o modificar alguno de los datos declarados previamente, pero no cuando se deje de declarar la operación.
+
+3\. Los socios colectivos de las sociedades colectivas y comanditarias, así como los integrantes de las agrupaciones de interés económico (AIE) y de las agrupaciones europeas de interés económico (AEIE), no se vincularán en el módulo B.1 con las operaciones a nombre de las sociedades o agrupaciones de las que sean socios o integrantes. En este caso, las sociedades y las agrupaciones serán las únicas que se relacionarán en dicho módulo con las operaciones.
+
+Si la sociedad o agrupación es el único titular del riesgo directo o garante de la operación, como naturaleza de la intervención se declarará “Titular de riesgo directo único” o “Garante no solidario”, sin perjuicio de la titularidad o garantía colectiva de todos los socios colectivos o componentes de la AIE o AEIE, que se comunicará en el módulo A.1, Datos que identifican a las personas, conforme a lo señalado en la norma quinta, letra A, apartado 2.b).
+
+B) Datos básicos de las operaciones:
+
+4\. El módulo B.2, Datos básicos de las operaciones, se enviará en el mes en el que se declaren por primera vez las operaciones y cuando se produzcan variaciones en alguno de los datos declarados previamente.
+
+5\. El modulo B.2 tiene las siguientes partes:
+
+a) Parte 1. Datos que deben declarar todas las entidades declarantes.
+
+b) Parte 2. Datos adicionales que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras y los establecimientos financieros de crédito.
+
+6\. Las operaciones instrumentadas como crédito comercial diferentes a las líneas comprometidas, préstamos a plazo que cumplan los criterios del segundo párrafo de la norma segunda, apartado 3, tarjetas de crédito, cuentas corrientes o de ahorro, cuentas mutuas, resto de las cuentas de corresponsalía, descubiertos, anticipos de pensiones o nóminas, activos procedentes de operaciones fuera de balance, derivados impagados, resto de los préstamos a la vista y valores representativos de deuda, son operaciones para las que por su naturaleza puede que no se tengan que declarar importes todos los meses en los módulos dinámicos. Cuando se produzca esta circunstancia, se declarará la baja de las operaciones en el módulo B.2 y la de los titulares asociados que no tengan que estar declarados por otros motivos. Cuando vuelvan a tener importes que declarar, se darán de alta los titulares, si procede, y se enviarán de nuevo los módulos de datos básicos correspondientes utilizando para identificarlas el mismo código de operación empleado anteriormente.
+
+7\. La baja de las operaciones se declarará en el módulo B.2 en el mes en el que se cancelen, sin perjuicio del tratamiento específico de las operaciones cedidas en una combinación de negocios a otras entidades declarantes regulado en la norma decimoquinta, apartado 2. Una vez efectuada la baja de las operaciones, ya sea por la declaración de la propia entidad o por parte del Banco de España según lo establecido en el último párrafo de este apartado, no se podrá volver a utilizar el código de la operación, con la excepción de lo establecido en el apartado 6.
+
+Si, debido a la gestión de cobros, existiera la posibilidad de tener que volver a declarar datos dinámicos de una operación cancelada, la entidad declarante diferirá la baja de la operación en la CIR hasta el momento en que, conforme a la normativa de servicios de pago, ya no sea posible dicha circunstancia. También se diferirá la baja de los préstamos con importes fallidos registrados en los que alguno de los titulares sea una persona jurídica y que hayan sido transferidos totalmente sin retener la gestión la entidad declarante, o se hayan condonado o se hayan dado de baja por prescripción. En estos casos, la baja se diferirá hasta el fin del trimestre en el que se haya producido la transferencia, condonación o prescripción. En cualquier caso, la baja de las operaciones también se podrá diferir siempre que la entidad considere que existen motivos operativos que así lo aconsejen.
+
+Durante el período que media entre la cancelación de las operaciones para la entidad declarante y la comunicación de su baja, se continuarán declarando los módulos dinámicos con los saldos a cero.
+
+Cuando transcurran al menos seis meses desde la última vez que se declararan saldos significativos en los datos dinámicos para cualquier operación, el Banco de España podrá darla de baja comunicando esta circunstancia a la entidad declarante.
+
+C) Datos básicos complementarios de los préstamos a personas jurídicas:
+
+8\. El módulo B.3, Datos básicos complementarios de los préstamos a personas jurídicas, se declarará para informar sobre las características específicas de los préstamos en los que al menos un deudor es una persona jurídica o entidad sin personalidad jurídica.
+
+Los importes que se han de informar en este módulo se corresponderán tanto con el riesgo asumido por la entidad como con el gestionado por cuenta de terceros en los que el acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
+
+> Se modifica el apartado 1 por la norma única.4 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se modifica el apartado 7, párrafo segundo por la norma única.e) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifican los apartados 1 y 6 por la norma 2.d) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se modifica por la norma única.6 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el apartado 6 por la norma 3.3 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+### Norma séptima. Datos dinámicos de las operaciones.
+
+A) Datos dinámicos de los riesgos directos:
+
+1\. El módulo C.1, Datos dinámicos de los riesgos directos, se enviará para declarar los riesgos directos de todas las operaciones.
+
+2\. El módulo C.1 tiene las siguientes partes:
+
+a) Parte 1. Datos de todos los riesgos directos: esta parte la enviarán las entidades declarantes con los datos de todas las operaciones, siempre que tengan su gestión frente a los titulares, aunque se trate de operaciones cuyo importe no esté registrado íntegramente en el activo.
+
+b) Parte 2. Datos de los riesgos directos asumidos por la entidad declarante: esta parte la declararán las entidades declarantes con datos de los riesgos vivos a fin de mes que asumen ellas; es decir, sin incluir los importes de las operaciones que correspondan a la parte del riesgo que, en su caso, asuman terceros.
+
+c) Parte 3. Datos que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras, los establecimientos financieros de crédito y la Sareb para los préstamos: esta parte la declararán exclusivamente estas entidades con datos adicionales para los importes de los préstamos que correspondan a los riesgos asumidos por ellas; es decir, sin tener en cuenta los importes que se hayan dado de baja del activo por corresponder a operaciones transferidas a terceros. No obstante, las dimensiones “Tipo efectivo de definición restringida (TEDR)”, “Signo del tipo efectivo de definición restringida (TEDR)” y “Fecha de la próxima revisión del tipo de interés” se tienen que declarar para todas las operaciones, incluidas aquellas para las que solo se tengan que declarar datos en la parte 4 de este módulo porque la entidad no continúe asumiendo riesgo.
+
+d) Parte 4. Datos de los riesgos directos asumidos por terceros: esta parte la declararán las entidades con los importes de las operaciones que correspondan al riesgo asumido por terceros en las que la entidad tenga la gestión frente a los titulares.
+
+3\. Las operaciones no se declaran en el módulo C.1 en el mes en el que dejan de tener riesgo declarable, salvo los préstamos, que se continuarán declarando hasta que se comunique la baja definitiva conforme a lo señalado en la norma sexta, apartado séptimo. En todo caso, para los préstamos, cuando se cancelen, se tiene que declarar en la parte 3 del módulo el motivo o los motivos por los que se reduce el riesgo. No obstante, en este módulo no se tiene que comunicar la cancelación de las operaciones a las que se refiere la norma sexta, apartado 6.
+
+B) Datos dinámicos de los riesgos indirectos:
+
+4\. El módulo C.2, Datos dinámicos de los riesgos indirectos, se enviará para declarar los importes que hayan garantizado o comprometido cada uno de los titulares de riesgos indirectos de las operaciones, excepto los importes de las operaciones de arrendamiento financiero que se hayan comprometido a pagar terceros para adquirir los activos cedidos cuando no lo hagan los arrendatarios y los garantizados por las partes que venden protección en las operaciones titulizadas sintéticamente.
+
+5\. El módulo C.2 tiene las siguientes partes:
+
+a) Parte 1. Datos de los riesgos indirectos asumidos por la entidad declarante: en esta parte se declaran los importes de las operaciones garantizados por cada uno de los titulares de riesgo indirecto que correspondan al riesgo que asume la entidad declarante en las operaciones.
+
+b) Parte 2. Datos de los riesgos indirectos asumidos por terceros: en esta parte se declararán los importes de las operaciones garantizados por cada uno de los titulares de riesgo indirecto que correspondan al riesgo asumido por terceros en las que la entidad tenga la gestión frente a los titulares.
+
+C) Datos dinámicos financieros de los préstamos a personas jurídicas:
+
+6\. El módulo C.3, Datos dinámicos financieros de los préstamos a personas jurídicas, se declarará con información financiera de los préstamos en los que al menos un deudor es una persona jurídica o entidad sin personalidad jurídica.
+
+Los importes que se han de informar en este módulo se corresponderán tanto con el riesgo asumido por la entidad como con el gestionado por cuenta de terceros en los que el acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
+
+Este módulo se declarará aunque la operación sea considerada íntegramente fallida.
+
+D) Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas:
+
+7\. El módulo C.4, Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas, se declarará para los préstamos en los que al menos un deudor es una persona jurídica o entidad sin personalidad jurídica, para informar del importe de la responsabilidad conjunta que corresponda a cada deudor solidario declarado en el módulo B.1, exclusivamente cuando los deudores respondan de distinto importe.
+
+Los importes que se han de informar en este módulo se corresponderán tanto con el riesgo asumido por la entidad como con el gestionado por cuenta de terceros, en los que el acreedor sea una persona distinta de un agente observado residente en un Estado miembro informador.
+
+> Se modifica por la norma única.7 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el apartado 4 por la norma 2.5 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+### Norma octava. Datos sobre garantías recibidas.
+
+A) Datos básicos que relacionan las operaciones con las garantías recibidas:
+
+1\. El módulo D.1, Datos básicos que relacionan las operaciones con las garantías recibidas, se enviará para vincular las operaciones declaradas a la CIR con los activos recibidos en garantía y con las garantías financieras recibidas, siempre que estas últimas garanticen préstamos a personas jurídicas. También se vincularán en este módulo los arrendamientos financieros con los activos cedidos en arrendamiento y los préstamos de recompra inversa con los activos subyacentes recibidos.
+
+Los datos del módulo D.1 se enviarán cada vez que se declare alguna de las operaciones citadas en el párrafo anterior –aunque la garantía sea parcial–, así como cuando se modifique cualquiera de los datos declarados previamente.
+
+Los datos que relacionan las operaciones declaradas a la CIR con las garantías financieras recibidas solo los enviarán las entidades de crédito españolas y las sucursales en España de entidades de crédito extranjeras cuya sede social no esté radicada en otro Estado miembro informador.
+
+2\. Cuando una operación esté cubierta con varias garantías, en el módulo D.1 se declararán de forma separada los datos de cada una de ellas.
+
+B) Datos básicos de las garantías recibidas:
+
+3\. El módulo D.1.1, Datos básicos de las garantías recibidas, se enviará en el mes en el que se declaren por primera vez las garantías recibidas a las que se refiere el apartado 1 de esta norma y con el alcance que se expresa en él.
+
+4\. El módulo D.1.1 tiene las siguientes partes:
+
+a) Parte 1: Datos de las garantías recibidas.
+
+b) Parte 2: Datos adicionales de las garantías recibidas para préstamos a personas jurídicas.
+
+5\. Las garantías recibidas se declararán en el módulo D.1.1 solo una vez, con independencia de que sirvan de garantía de varias operaciones de la entidad declarante.
+
+6\. Los establecimientos financieros de crédito, las sociedades de garantía recíproca y la Sareb no declararán la parte 2 de este módulo.
+
+C) Datos básicos de los inmuebles recibidos en garantía:
+
+7\. El módulo D.2, Datos básicos de los inmuebles recibidos en garantía, se enviará para indicar las características de los inmuebles que garantizan las operaciones concedidas por la entidad declarante, así como los cedidos en arrendamiento financiero.
+
+8\. El módulo D.2 tiene las siguientes partes, que se declararán en función del tipo de activo recibido en garantía o cedido en arrendamiento financiero:
+
+a) Parte 1: Datos para los inmuebles.
+
+b) Parte 2: Datos adicionales para los edificios y elementos de edificios.
+
+c) Parte 3: Datos adicionales para el suelo urbano y urbanizable.
+
+d) Parte 4: Datos adicionales para las fincas rústicas.
+
+e) Parte 5: Datos del valor de las garantías.
+
+9\. Los activos se declararán en el módulo D.2 solo una vez, con independencia de que sirvan de garantía de varias operaciones de la entidad declarante.
+
+10\. Los importes que se declaren en el módulo D.2 de los activos afectos a préstamos sindicados serán los que correspondan a la operación total concedida al prestatario por todos los prestamistas y no el porcentaje que corresponda al importe financiado por la entidad declarante, excepto los importes correspondientes a la responsabilidad hipotecaria, que serán los que le correspondan a la entidad declarante en función del porcentaje con el que participe en el importe total del préstamo.
+
+11\. Las sucursales en España de entidades de crédito cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea Estado miembro informador no declararán las partes 1, 2, 3, 4 y 5 de este módulo.
+
+D) Datos básicos de los activos financieros recibidos en garantía:
+
+12\. El módulo D.3, Datos básicos de los activos financieros recibidos en garantía, se enviará para indicar las características de los activos financieros que garantizan las operaciones concedidas por la entidad declarante, así como los adquiridos temporalmente en préstamos de recompra inversa.
+
+13\. Los activos se declararán solo una vez en el módulo D.3, con independencia de que sirvan de garantía de varias operaciones de la entidad declarante.
+
+14\. Los importes que se declaren en el módulo D.3 para los activos afectos a préstamos sindicados serán los que correspondan a la operación total concedida al prestatario por todos los prestamistas y no el porcentaje que corresponda al importe financiado por la entidad declarante.
+
+E) Datos dinámicos que relacionan las operaciones con las garantías recibidas:
+
+15\. El módulo D.4, Datos dinámicos que relacionan las operaciones con las garantías recibidas, se enviará para indicar el importe del valor de la garantía atribuido a la operación.
+
+16\. El módulo D.4 tiene dos partes, que se declararán en función del tipo de las operaciones garantizadas y de la garantía recibida:
+
+a) Parte 1: Datos para las operaciones garantizadas con inmuebles y activos financieros.
+
+b) Parte 2: Datos adicionales sobre las garantías de los préstamos a personas jurídicas.
+
+17\. Las sucursales en España de entidades de crédito cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea Estado miembro informador no declararán la parte 1 de este módulo.
+
+18\. Los establecimientos financieros de crédito, las sociedades de garantía recíproca y la Sareb no declararán la parte 2 de este módulo.
+
+F) Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía:
+
+19\. El módulo D.5, Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía, se enviará con información de los activos recibidos en garantía que sean edificios en construcción o rehabilitación, así como de las financiaciones cuya finalidad sea la promoción inmobiliaria.
+
+> Se modifica por la norma única.f) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifica por la norma única.8 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el apartado 4 por la norma 3.4 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+### Norma novena. Datos sobre tipos de interés de los préstamos.
+
+1\. El módulo E, Datos sobre tipos de interés de los préstamos, se enviará en el mes en el que se declare por primera vez un préstamo, así como cuando se modifique alguno de los datos declarados previamente.
+
+> Se añade por la norma única.9 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se suprime por la norma 2.6 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+### Norma décima. Datos de transferencias y titulizaciones sintéticas de activos financieros.
+
+1\. El módulo F, Datos de transferencias y titulizaciones sintéticas de activos financieros, se enviará por la entidad declarante en el mes en el que transfiera, total o parcialmente, préstamos o valores a terceros, siempre que continúe con la gestión de las operaciones frente al titular, salvo las que se instrumenten como cesiones temporales, así como cuando se realice una titulización sintética. En concreto, se declararán:
+
+a) Todas las titulizaciones tradicionales de activos, es decir, las titulizaciones que implican la transferencia económica de las operaciones titulizadas a una sociedad o fondo de titulización, con independencia de si la entidad declarante mantiene registrados los importes transferidos de las operaciones en el activo o los ha dado de baja total o parcialmente.
+
+b) Las restantes transferencias de préstamos que supongan la baja de la totalidad de los importes transferidos del activo de la entidad declarante.
+
+c) Las titulizaciones sintéticas, es decir, aquellas titulizaciones en las que la división del riesgo de crédito en tramos y su transmisión se llevan a cabo mediante la compra de protección crediticia sobre las exposiciones titulizadas, bien sea a través de derivados de crédito o de garantías.
+
+Cuando la entidad adquirente del riesgo transferido sea otra entidad declarante a la CIR, como excepción a lo dispuesto en la norma cuarta, apartado 1, el módulo F se enviará al Banco de España no más tarde del día 5 del mes siguiente al que se refieran los datos.
+
+2\. El módulo F tiene las siguientes partes:
+
+a) Parte 1, Datos que identifican las transferencias y titulaciones sintéticas: Estos datos se enviarán una sola vez por cada transferencia o titulización sintética, con independencia del número de operaciones transferidas o titulizadas en el mismo contrato.
+
+b) Parte 2, Datos que vinculan las transferencias y titulaciones sintéticas con las operaciones: Estos datos se enviarán para vincular cada transferencia o titulización sintética con todas las operaciones transferidas o titulizadas.
+
+Las operaciones que se cancelen totalmente antes de que finalice la transferencia o titulización sintética no se darán de baja; no obstante, si se excluyen antes de su cancelación, será necesario declarar su baja.
+
+Las operaciones que se incorporen en una transferencia o titulización sintética con posterioridad a su fecha original se darán de alta cuando se incluyan en el conjunto de operaciones que forman parte de aquella.
+
+### Norma undécima. Vinculación de códigos.
+
+1\. El módulo G, Datos que vinculan códigos, se enviará para vincular los nuevos códigos con otros códigos declarados a la CIR por la propia entidad o por otras entidades declarantes por los motivos que se indican en los siguientes apartados. Los datos del módulo se tendrán que remitir cuando se realice la primera declaración de los códigos que se han de vincular.
+
+2\. El código de una operación se vinculará con el de otra u otras operaciones declaradas por la propia entidad cuando:
+
+a) La operación tenga como origen una subrogación del deudor o refinanciación o renovación de otra u otras operaciones de la propia entidad. Las operaciones se vincularán con los códigos de todas las operaciones subrogadas, refinanciadas o renovadas.
+
+b) Se registren activos por incumplimiento de los titulares de operaciones fuera de balance; por ejemplo, porque se ejecute una garantía financiera u otro compromiso o el titular impague las comisiones comprometidas en el contrato.
+
+c) La operación proceda de un crédito documentario irrevocable.
+
+d) Se utilice el disponible de una póliza de riesgo global-multiuso o línea de avales, créditos documentarios o créditos por disposiciones.
+
+e) Se trate de operaciones segregadas o con titulares mancomunados.
+
+f) Se cambie el código de la operación por motivos de gestión interna.
+
+2 bis) El código de la operación se vinculará con el código del contrato en caso de que la entidad asigne a la operación un código de contrato distinto al «Código de la operación» declarado en el módulo B.2, “Datos básicos de las operaciones”.
+
+3\. El código de una operación de la entidad declarante se vinculará con los códigos de operaciones declaradas a la CIR por otras entidades cuando:
+
+a) Las operaciones sean garantías financieras o avales y cauciones no financieros prestados ante otra entidad declarante.
+
+b) Las operaciones tengan como origen la adquisición de operaciones a otra entidad declarante que mantenga la gestión frente a los titulares.
+
+c) Las operaciones tengan como origen una fusión, traspaso de la actividad financiera o adquisición de negocio realizada con otra entidad declarante.
+
+4\. En el módulo G también se vincularán los códigos que se utilicen para identificar los códigos de los valores, transferencias de activos, garantías reales de máximo, garantías recibidas y promociones inmobiliarias cuando se tengan que modificar.
+
+5\. El Banco de España, siempre que sea necesario para facilitar la gestión de los datos que le declaren las entidades, podrá solicitarles que vinculen en el módulo G cualquier código nuevo con el que se hubiese utilizado para declararlo previamente por ella u otra entidad.
+
+6\. Cuando en el módulo G por razones de gestión, fusión, traspaso total de la actividad financiera o adquisición de negocio se vinculen por cambio de código dos códigos de operación, de garantías recibidas o de activos adjudicados, el nuevo código no se declarará como variación de datos en los restantes módulos.
+
+> Se suprime el título del apartado A) y los apartados 7 a 10 que componen el B) y se modiifican los apartados 1, 3, 4, 5 y 6 por la norma única.5 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se modifica el apartado 2 bis) por la norma 2.e) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se añade el apartado 2 bis) y se modifican los apartados 4 y 6 por la norma única.10 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica el letra e) del apartado 2 por la norma 3.5 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+> Se modifican las letras b) y c) del apartado 7 por la norma 2.2 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+### Norma duodécima. Información prudencial complementaria.
+
+A) Datos contables de los préstamos.
+
+1\. El módulo H.1, Datos contables de los préstamos, se declarará para informar sobre datos contables de los préstamos.
+
+Los importes que se han informar, en su caso, serán exclusivamente los que correspondan al riesgo asumido por la entidad.
+
+B) Datos sobre el riesgo de las personas jurídicas que sean contrapartes en préstamos.
+
+2\. El módulo H.2, Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas, se enviará para informar sobre la probabilidad de impago (default) de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR, excepto para aquellos titulares de riesgo indirecto que intervengan en la operación en calidad de tercero comprometido a pagar importes en una operación de arrendamiento financiero.
+
+Este módulo lo enviarán las entidades exclusivamente cuando estimen dicha probabilidad para las contrapartes conforme a los artículos 160, 163, 179 y 180 del Reglamento (UE) n.º 575/2013.
+
+C) Datos sobre la situación de impago de las personas jurídicas que sean contrapartes en préstamos.
+
+3\. El módulo H.3, Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas, se enviará para informar sobre la situación de impago de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR, excepto para aquellos titulares de riesgo indirecto que intervengan en la operación en calidad de tercero comprometido a pagar importes en una operación de arrendamiento financiero.
+
+En este módulo se declararán exclusivamente las contrapartes para las que la entidad haya determinado su situación de impago en base a sus obligaciones totales conforme al artículo 178 del Reglamento (UE) n.º 575/2013.
+
+> Se modifica por la norma única.6 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se añade por la norma única.11 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se suprime por la norma 2.6 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modifica el apartado 7 por la norma 3.6 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+### Norma decimotercera. Datos dinámicos sobre la actividad de las entidades sujetas a declaración reducida.
+
+1\. El módulo I, Datos dinámicos sobre la actividad de las entidades sujetas a declaración reducida, se enviará para declarar los riesgos directos e indirectos de las operaciones declarables por las entidades de crédito que operen en España en régimen de libre prestación de servicios, las entidades de pago a las que se refiere la letra c) del apartado 1 de la norma primera, las entidades de dinero electrónico a las que se refiere la letra d) del apartado 1 de la norma primera y los prestamistas inmobiliarios. Los riesgos directos e indirectos incluyen los riesgos transferidos a los que se refiere el apartado 4 de la norma segunda.
+
+2\. Las operaciones se declararán en este módulo tantas veces como sea necesario para poder imputar a cada titular de riesgo directo e indirecto –ya sea único, solidario o mancomunado– el importe que le corresponda. Es decir, cada operación se declarará tantas veces como titulares de riesgo directo e indirecto tenga.
+
+3\. El módulo I tiene las siguientes partes:
+
+a) Parte 1: Datos de los riesgos directos e indirectos.
+
+b) Parte 2: Datos de los riesgos directos: en esta parte se declararán los datos de los riesgos vivos a fin de mes con los titulares de riesgo directo. En caso de que existan varios titulares solidarios, se imputará el importe total del riesgo a cada uno de ellos. En caso de que existan varios titulares mancomunados, a cada uno de ellos se le imputará únicamente el importe por el que responda.
+
+c) Parte 3: Datos de los riesgos indirectos: en esta parte se declararán los importes que hayan garantizado o comprometido cada uno de los titulares de riesgos indirectos de las operaciones.
+
+4\. En caso de no existir ninguna operación declarable a fin del mes de la declaración, la entidad declarante comunicará esta circunstancia de acuerdo con el procedimiento establecido en las instrucciones técnicas correspondientes.
+
+> Se modifica el título y el apartado 1 por la norma 1.e) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se añade por la norma única.g) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se suprime por la norma 2.6 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+### Norma decimocuarta. Operaciones transferidas a terceros.
+
+A) Entidades cedentes:
+
+1\. Las entidades declarantes que transfieran operaciones a terceros (en adelante, entidades cedentes), si retienen la gestión frente a los titulares, tienen que continuar declarándolas a la CIR en los diferentes módulos, con las precisiones que, en su caso, les sean aplicables, como si no las hubiesen transferido, con independencia de si las mantienen íntegramente en el balance o las han dado de baja total o parcialmente conforme a la normativa contable aplicable a las transferencias de activos, salvo cuando las operaciones cedidas no fuesen declarables individualmente a la CIR conforme a lo dispuesto en la norma segunda, apartado 3.
+
+Además, las entidades cedentes tienen que comunicar la transferencia en el módulo F, Datos de transferencias y titulizaciones sintéticas de activos financieros, conforme a lo señalado en la norma décima.
+
+Los datos dinámicos de los riesgos directos e indirectos los declararán las entidades cedentes en los módulos C.1, C.2 y, cuando proceda, C.3, asignando los importes a la propia entidad declarante o a los terceros a los que se les hayan transferido, conforme a lo señalado en la norma séptima.
+
+Cuando la operación se haya transferido a otro agente observado que sea declarante a la CIR, las entidades cedentes dejarán de enviar, en su caso, los módulos H.
+
+Cuando la operación se haya transferido a otro agente observado que no sea declarante a la CIR, las entidades cedentes dejarán de enviar, en su caso, los módulos B.3, C.3, C.4 y H y, respecto de los datos sobre garantías recibidas, la parte 2 del módulo D.1.1 y la parte 2 del módulo D.4.
+
+Sin perjuicio de lo dispuesto en la norma cuarta, cuando la operación transferida sea un préstamo a persona jurídica:
+
+a) Si la entidad cedente no es una entidad de crédito ni una sucursal en España de una entidad de crédito extranjera y la entidad adquirente es un agente observado declarante a la CIR, la entidad cedente declarará también los módulos B.3, C.3, C.4 y, respecto de los datos sobre garantías recibidas, la parte 2 del módulo D.1.1 y la parte 2 del módulo D.4.
+
+b) Si la entidad cedente es una sucursal en España de una entidad de crédito extranjera cuya sede social esté radicada en otro Estado miembro informador y la entidad adquirente es un agente observado declarante a la CIR distinto de una sucursal en España de una entidad de crédito extranjera cuya sede social esté radicada en otro Estado Miembro informador, la entidad cedente declarará también el módulo D.1, el módulo D.1.1, el módulo D.2 –excepto las partes 1 a 5– y la parte 2 del módulo D.4.
+
+2\. Las entidades que hayan realizado titulizaciones tradicionales declararán en los módulos B, Datos básicos de las operaciones y de las relaciones con las personas, y C.1, Datos dinámicos de los riesgos directos, los valores representativos de deuda de su propiedad emitidos por las sociedades o fondos de titulización a los que hayan transferido operaciones, así como los préstamos que les hayan facilitado, aunque conforme a la normativa contable los hayan deducido del pasivo en lugar de registrarlos en el activo.
+
+B) Entidades adquirentes:
+
+3\. Las entidades declarantes que hayan adquirido préstamos a otras entidades que continúen con su gestión frente a los titulares actuarán de la siguiente forma:
+
+a) Si la entidad cedente declara a la CIR, la entidad adquirente deberá relacionar en el módulo G, Datos que vinculan códigos, los códigos que asigne a las operaciones con los códigos que utilice para ellas la entidad cedente. La entidad adquirente tendrá que declarar exclusivamente el módulo H, Información prudencial complementaria, cuando cumpla con los requisitos establecidos para su declaración.
+
+b) Si la entidad cedente no declara a la CIR las operaciones cedidas, porque no sea una entidad declarante o porque, siéndolo, no tuviese que declararlas individualmente, la entidad adquirente declarará todos los módulos como si ella tuviera la gestión directa del riesgo. Los importes que se declararen en los diferentes módulos serán los que correspondan al riesgo que asuma la entidad en las operaciones.
+
+4\. Cuando las entidades cedente y adquirente sean declarantes a la CIR, el Banco de España pondrá a disposición de la entidad adquirente los datos de las partes 1 y 4 del módulo C.1, Datos dinámicos de los riesgos directos, la parte 2 del módulo C.2, Datos dinámicos de los riesgos indirectos, y el módulo C.3, Datos dinámicos financieros de los préstamos a personas jurídicas, que haya declarado la entidad cedente para las operaciones que le haya transferido.
+
+> Se modifican los apartados 1 y 3 por la norma única.7 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se modifica el apartado 1 por la norma única.h) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifica por la norma única.12 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifican los apartados 1 y 3.a) por la norma 2.7 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modifica el primer párrafo del apartado 1 y la letra b) del apartado 3 por la norma 2.3 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+### Norma decimoquinta. Combinaciones de negocios.
+
+1\. Las entidades que adquieran operaciones como consecuencia de una fusión, traspaso de la actividad financiera u otra combinación de negocios realizada con otras entidades declarantes relacionarán en el módulo G, Datos que vinculan códigos, los códigos que asignen a las operaciones que hayan adquirido con los códigos utilizados para ellas por las entidades cedentes, pero no tienen que declarar, en el momento de la adquisición, los datos de los módulos A, B y D, relativos a las operaciones adquiridas y personas que intervienen en ellas, sin perjuicio de que realicen las actualizaciones que, en su caso, procedan. No obstante, cuando la entidad cedente no haya declarado individualmente las operaciones a la CIR, estas no se tendrán que declarar en el módulo G, debiendo la entidad adquirente realizar la declaración completa de las personas y operaciones que cumplan con los requisitos para declararlas individualmente.
+
+2\. Las entidades que adquieran operaciones en una combinación de negocios a otras entidades declarantes que continúen inscritas con el mismo código en el registro de entidades del Banco de España pueden solicitar, junto con la entidad cedente, que se les autorice a que esta última continúe declarando transitoriamente las operaciones por un máximo de seis meses desde la fecha de la cesión mientras mantenga su gestión informática como si no las hubiese cedido. En el caso de adquisición de operaciones como consecuencia de fusiones u otras combinaciones de negocios que conlleven la extinción de al menos una de las entidades declarantes, la entidad adquirente de las operaciones podrá solicitar que se le autorice a declarar transitoriamente y por un máximo de seis meses desde la fecha de la combinación de negocios las operaciones procedentes de la entidad o entidades extinguidas con el código de entidad que esta o estas venían utilizando. En el caso de una escisión total de una entidad declarante en el que dos o más entidades adquieren las operaciones, estas podrán solicitar que se les autorice a declarar de manera conjunta y transitoria, y por un máximo de seis meses desde la fecha de la escisión, las operaciones procedentes de la entidad extinguida con el código de entidad que esta venía utilizando.
+
+> Se modifica por la norma única.8 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se modifica el apartado 2 por la norma 2.f) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se modifica el primer párrafo del apartado 1 por la norma 2.8 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se añade un párrafo al apartado 1 por la norma 2.4 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+## CAPÍTULO III — Uso y cesión de datos de la CIR
+
+### Norma decimosexta. Uso de la CIR por las entidades declarantes y los intermediarios de crédito inmobiliario.
+
+1\. La CIR facilitará a las entidades declarantes y a los intermediarios de crédito inmobiliario a los que se refiere el artículo 4.5) de la Ley 5/2019 la siguiente información:
+
+a) Mensualmente remitirá a cada entidad declarante información de los titulares con los que la propia entidad declarante tenga algún tipo de riesgo al final del mes al que se refieran los datos.
+
+Dicha información contendrá los datos que se incluyen como anejo 3, sin identificar las entidades que hayan declarado los datos, e incluirá la información consolidada de todas las entidades declarantes en las que los titulares mantengan un riesgo acumulado al final del mes al que se refieran los datos igual o superior a 1.000 euros. A estos efectos, se entenderá como riesgo acumulado el que se define en la norma tercera, apartado 5.
+
+Las operaciones se agregarán siempre que coincidan todos los valores de las dimensiones de las que se informa, y se indicará la naturaleza en la que interviene el titular en las diferentes operaciones, así como los importes de los que él responda. Estos se facilitarán en miles de euros redondeados, con la equidistancia al alza.
+
+Con objeto de imputar a los titulares exclusivamente el riesgo de crédito consolidado que efectivamente mantiene todo el sistema con ellos, en la elaboración de los informes de riesgos se aplicarán los siguientes criterios:
+
+1\. No se incluirán las garantías financieras ni los avales y cauciones no financieros prestados ante entidades declarantes.
+
+2\. Se informará solo una vez del importe de las garantías financieras y de los avales y cauciones no financieros prestados solidariamente por varias entidades declarantes.
+
+3\. Se incluirán como riesgo de las empresas las operaciones declaradas a nombre de sus sucursales. Sin embargo, en los informes de riesgos de las sucursales solo se incluirán las operaciones declaradas a su nombre.
+
+Las operaciones cuyo tipo de producto sea “derechos de cobro sobre tarifas reguladas” no se incluirán en la información que se facilita a las entidades declarantes.
+
+b) Previa solicitud en la que consten el nombre del titular y su código de identificación, el Banco de España proporcionará a las entidades declarantes información de todo titular que haya solicitado una operación de riesgo o que figure como obligado al pago o garante en los documentos cambiarios o de crédito cuya adquisición o negociación haya sido solicitada a la entidad.
+
+Igualmente, el Banco de España proporcionará a los intermediarios de crédito inmobiliario información de los titulares en cuyo nombre esté realizando la labor de intermediación a la que se refiere el artículo 4.5) de la Ley 5/2019.
+
+Las entidades declarantes y los intermediarios de crédito inmobiliario únicamente podrán tratar la información que les facilite el Banco de España para la valoración del riesgo relacionado con las operaciones que justifican la solicitud del informe; no podrán emplear los datos para ninguna otra finalidad.
+
+Los datos que se facilitarán serán los indicados en la letra a) anterior correspondientes a la última declaración mensual y a la declaración referida a seis meses antes.
+
+Cuando sea el titular quien solicite la operación de riesgo a la entidad declarante, para que esta pueda pedir a la CIR sus datos y, en su caso, los de cualquier garante, será suficiente con que conste una cláusula que informe del derecho de la entidad a consultarlos en la solicitud –o en un documento adicional– que firmen el solicitante y, cuando proceda, el garante cuyos datos se quieren solicitar.
+
+Igualmente, el intermediario de crédito inmobiliario deberá recabar la firma del titular (y, en su caso, del garante) en un documento en el que informe de la consulta que va a efectuar. En dicho documento deberá comunicar el uso que dará a los datos y, en su caso, recabar del interesado el consentimiento a su cesión para la labor de intermediación.
+
+Cuando se ofrezca a la entidad declarante la adquisición o negociación de documentos cambiarios o de crédito, para que esta pueda pedir a la CIR los datos de los obligados al pago o garantes de dichos documentos, serán suficientes la solicitud de cesión y la fotocopia de aquellos.
+
+A estos efectos, la firma electrónica será admisible en los términos previstos en la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, y en la Ley 59/2003, de 19 de diciembre, de firma electrónica, así como en la restante normativa reguladora de su eficacia.
+
+De conformidad con lo dispuesto en el artículo 30 del Código de Comercio, las entidades declarantes y los intermediarios de crédito inmobiliario conservarán la documentación concerniente a las operaciones que justifican la solicitud del informe de riesgos durante un plazo de seis años, incluidos los justificantes de las solicitudes de datos a la CIR motivadas por operaciones que hubiesen sido denegadas.
+
+A fin de asegurar el correcto cumplimiento de lo dispuesto en el párrafo anterior, el Banco de España podrá solicitar a las entidades declarantes y a los intermediarios de crédito inmobiliario la remisión de la citada documentación, así como requerirles la implantación de los procedimientos y controles necesarios a tal efecto, sin perjuicio de las competencias de inspección y, en su caso, sanción de la Agencia Española de Protección de Datos, como establece el artículo 67 de la Ley 44/2002.
+
+En las solicitudes de informes sobre titulares no residentes en España, si la entidad peticionaria desconociese su código de identificación, deberá aportar, junto con la solicitud, la información exigida en el módulo A.2, Solicitud de código de identificación de personas no residentes, para la identificación de titulares de riesgos declarables a la CIR.
+
+c) Tan pronto como reciba declaraciones complementarias con rectificaciones o cancelaciones de datos previamente declarados, comunicará los datos corregidos a las entidades a las que previamente les hubiese cedido los erróneos.
+
+2\. El Fondo de Garantía de Depósitos de Entidades de Crédito y las sociedades de reafianzamiento podrán solicitar que el Banco de España les envíe los informes de riesgos de los titulares de operaciones en las que figuren como titulares de riesgos indirectos.
+
+3\. No obstante lo anterior, y de conformidad con lo dispuesto en el artículo 61, apartado cuarto, de la Ley 44/2002, la CIR no facilitará a las entidades declarantes ni a los intermediarios de crédito inmobiliario los datos de los titulares de riesgos, directos e indirectos, ni de sus operaciones, que, de acuerdo con lo dispuesto en las normas tercera, apartado 5, y cuarta, apartado 6, de esta circular, se declaran al Banco de España exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de dicha ley.
+
+4\. Todas las solicitudes y comunicaciones de informes de riesgos entre las entidades declarantes, los intermediarios de crédito inmobiliario y la CIR se realizarán por vía telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+5\. La información que remite el Banco de España a las entidades declarantes y a los intermediarios de crédito inmobiliario tiene carácter confidencial y solo podrá ser usada o cedida conforme a lo dispuesto en el artículo 62 de la Ley 44/2002 y en la normativa de protección de datos de carácter personal.
+
+6\. En cumplimiento de lo dispuesto en el último párrafo del artículo 61, apartado segundo, de la Ley 44/2002, el Banco de España podrá impedir temporalmente el acceso de una entidad declarante a los informes de la CIR cuando haya incumplido sus obligaciones de información con la calidad y exactitud necesarias a juicio del Banco de España. Se entenderá, en cualquier caso, que se han incumplido dichas obligaciones cuando se produzca la falta de remisión o la remisión extemporánea de la información fuera del plazo previsto en la norma cuarta.
+
+7\. La CIR pondrá a disposición de las entidades declarantes y de los intermediarios de crédito inmobiliario la información a la que se refieren las letras a) y b) del apartado 1 de esta norma como máximo el vigésimo primer día natural del mes siguiente al que se refiera la última información declarada o, si este fuera inhábil, el día siguiente hábil.»
+
+> Se modifica el apartado 1 y se añade el 7 por la norma 1.f) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se modifica por la norma única.i) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se añade un párrafo a la letra a) del apartado 1 por la disposición final 2.a) de la Circular de 29 de noviembre de 2016. [Ref. BOE-A-2016-11483](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11483).
+
+### Norma decimoséptima. Cesión de datos al Ministerio de Hacienda y Función Pública.
+
+1\. El Banco de España facilitará al Ministerio de Hacienda y Función Pública la siguiente información declarada a nombre de titulares de riesgos, directos e indirectos, que pertenezcan a los sectores institucionales Administraciones Públicas españolas o sean entidades dependientes de dichas administraciones: datos que identifican a las personas, datos básicos de las operaciones y de las relaciones con las personas, datos dinámicos de las operaciones en las que intervengan, datos sobre tipos de interés y datos que vinculan códigos. Adicionalmente, también enviará los datos que relacionan a los titulares con las entidades que integran el sector público español.
+
+> Se modifica por la norma única.9 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se modifica por la norma única.13 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+### Norma decimoctava. Cesión de datos a otras centrales de riesgos.
+
+El Banco de España cederá datos de la CIR a los organismos o entidades de carácter público que cumplan funciones semejantes a las de la CIR en un Estado miembro de la Unión Europea, así como a las entidades declarantes o miembros de aquellos, en los términos de los acuerdos, o memorandos de entendimiento, firmados al amparo del artículo 63 de la Ley 44/2002.
+
+## CAPÍTULO IV — Derechos de los titulares
+
+### Norma decimonovena. Derecho de acceso de los titulares.
+
+1\. Conforme a lo dispuesto en el artículo 65, primero, de la Ley 44/2002, cualquier persona, física o jurídica, que figure como titular de un riesgo declarable a la CIR podrá acceder a toda la información que le afecte, salvo a aquellos datos que, de acuerdo con lo dispuesto en las normas tercera, apartado 5, y cuarta, apartado 6, de esta circular, hayan sido facilitados al Banco de España exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002. Cuando todos los datos de un titular hayan sido aportados a la CIR exclusivamente en cumplimiento de las obligaciones de información establecidas en las citadas normas, en el informe de riesgos se indicará únicamente el nombre de la entidad declarante que ha declarado los riesgos, a fin de que el titular pueda ejercer el derecho de acceso ante ella.
+
+En los demás supuestos, y con el objeto de facilitar la comprensión de los datos a los que se refiere el párrafo anterior, el Banco de España entregará a los titulares dos informes de riesgos referidos a la última fecha con datos disponibles. En uno, se incluirá la misma información que se facilita a las entidades declarantes al final de cada proceso mensual y, en el otro, se desglosará dicha información operación a operación, indicando el nombre de la entidad declarante y expresando los importes en unidades de euro.
+
+Adicionalmente, las personas físicas podrán solicitar el nombre y la dirección de los cesionarios a los que la CIR hubiese comunicado sus datos durante los últimos seis meses, junto con la información cedida en cada caso.
+
+2\. El derecho de acceso a los datos de la CIR se podrá ejercer telemáticamente a través de la Oficina Virtual del Banco de España, siendo el único requisito imprescindible para ello disponer de firma digital admitida por el Banco de España.
+
+3\. El derecho de acceso a los datos de la CIR también se podrá ejercer por los titulares o sus representantes personalmente ante la propia CIR o cualquier sucursal del Banco de España, o enviando una solicitud firmada por alguna de dichas personas a la CIR (Banco de España, calle de Alcalá, 48 – 28014 Madrid). En todo caso, será requisito indispensable que el interesado se identifique suficientemente, facilitando la siguiente información y documentación:
+
+a) Si se trata de personas físicas:
+
+1\. Nombre y apellidos completos del titular.
+
+2\. Documento Nacional de Identidad (DNI), pasaporte u otro documento válido que identifique al titular y, en su caso, Número de Identificación Fiscal (NIF) o Número de Identificación de Extranjero (NIE).
+
+3\. DNI, pasaporte o documento válido que identifique al representante del titular que solicite sus datos, así como un documento en el que se acredite fehacientemente su derecho a obtener la información en su nombre.
+
+4\. Domicilio a efectos de notificación de los datos. Con carácter general, debería coincidir con el domicilio particular.
+
+5\. Teléfono de contacto para incidencias.
+
+b) Si se trata de personas jurídicas:
+
+1\. Denominación social completa del titular.
+
+2\. NIF del titular, cuando lo tenga asignado.
+
+3\. DNI, pasaporte u otro documento válido que identifique al representante del titular, así como el poder u otro documento público que acredite, a juicio de la CIR, su derecho a obtener la información en su nombre.
+
+4\. Domicilio de la persona jurídica a efectos de notificación. Con carácter general, debería coincidir con su domicilio social o aquel en el que estén efectivamente centralizadas la gestión y la dirección de las ocupaciones y negocios del titular.
+
+5\. Teléfono de contacto para incidencias.
+
+Cuando la solicitud de los informes se realice por correo, se habrá de remitir, junto con la solicitud debidamente firmada, copia de ambas caras de los documentos citados en los anteriores párrafos.
+
+Los datos solicitados serán suministrados por la CIR en el plazo máximo de diez días hábiles desde la recepción de la solicitud en el Banco de España.
+
+### Norma vigésima. Derecho de rectificación o supresión.
+
+1\. Si el titular considera que los datos declarados a la CIR a su nombre son inexactos o incompletos, podrá dirigirse directamente a la entidad o entidades declarantes y requerir su rectificación o supresión, o solicitar al Banco de España que tramite su reclamación, para lo cual deberá identificar los datos que considera erróneos, así como justificar por escrito las razones y el alcance de su petición, indicando en su solicitud a qué datos se refiere y la corrección que haya de realizarse; podrá aportar, en su caso, documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento.
+
+2\. La solicitud de rectificación o supresión ante el Banco de España puede realizarse telemáticamente –a través de la Oficina Virtual– o personalmente –en la propia CIR o en cualquier sucursal del Banco de España–, o enviarse por escrito a la CIR, siendo los requisitos de identificación y firma de solicitud los mencionados en la norma decimonovena.
+
+El Banco de España dará traslado inmediato de las solicitudes de rectificación o supresión a la entidad o entidades declarantes de los datos supuestamente inexactos o incompletos. En tanto las entidades declarantes dan respuesta a la solicitud de rectificación o supresión presentada a través del Banco de España, la CIR suspenderá la cesión a terceros de los datos sobre los que verse la solicitud, así como de los congruentes con ellos que consten en sus ficheros como consecuencia de declaraciones anteriores y posteriores.
+
+3\. Las entidades deberán contestar al titular y, en su caso, a la CIR (cuando la reclamación se hubiese tramitado a través del Banco de España) en el plazo máximo de quince días hábiles si el reclamante es una persona física o de veinte días hábiles si se trata de una persona jurídica. El plazo se contará desde la recepción de la reclamación en cualquiera de las oficinas de la entidad.
+
+Si la entidad accediese a lo solicitado por el reclamante, esta deberá enviar de inmediato a la CIR una declaración complementaria con las rectificaciones o supresiones de todos los datos declarados erróneamente. La CIR, a su vez, procesará las rectificaciones comunicadas por las entidades, desbloqueará la cesión de datos y comunicará los datos corregidos a las entidades a las que previamente les hubiese cedido los datos erróneos. Si, por el contrario, la entidad se ratifica en su declaración, deberá justificar los motivos de su decisión. En este último caso, la CIR prorrogará la suspensión de la cesión de los datos controvertidos durante dos meses más, salvo que el titular admita la justificación dada por la entidad, en cuyo caso se desbloquearán inmediatamente.
+
+4\. Las personas físicas podrán formular contra las entidades declarantes la reclamación ante la Agencia Española de Protección de Datos a la que se refiere el artículo 63 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, cuando aquellas no accedan a la rectificación o supresión solicitada por el afectado, o no haya sido contestada su solicitud dentro del plazo previsto al efecto.
+
+5\. La suspensión de la cesión de datos a terceros también procederá, con el mismo alcance señalado en el segundo párrafo del apartado 2 de esta norma, cuando se acredite ante el Banco de España la admisión a trámite de cualquier acción judicial que se dirija a declarar la inexactitud de los datos declarados o cuando la Agencia Española de Protección de Datos le comunique haber recibido una reclamación. En ambos casos, el Banco de España informará de la suspensión a los terceros a los que, durante los seis meses anteriores a la fecha de aquella, se hubiesen cedido los datos afectados y congruentes con ellos. La suspensión de la cesión de los datos sobre los que verse la acción judicial o la reclamación ante la Agencia Española de Protección de Datos se mantendrá hasta que el Banco de España tenga constancia de la sentencia firme o resolución acordada por la Agencia Española de Protección de Datos.
+
+6\. Las decisiones tomadas por las autoridades judiciales y por la Agencia Española de Protección de Datos serán de obligado cumplimiento para las entidades declarantes, que deberán, en su caso, realizar inmediatamente declaraciones complementarias a la CIR con las rectificaciones o supresiones de los datos en cuestión, así como de los congruentes con ellos que se contengan en otras declaraciones realizadas a la CIR, todo ello con arreglo al alcance de la correspondiente sentencia o resolución. Dichas sentencias o resoluciones se tendrán en cuenta en las sucesivas declaraciones que se remitan. La CIR, una vez recibidos los datos correctos, procesará las rectificaciones comunicadas por las entidades, desbloqueará la cesión de los datos y comunicará la nueva situación a las entidades a las que previamente hubiese cedido datos erróneos.
+
+> Se modifica por la norma 1.g) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se modifica el apartado 1 por la norma única.j) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+### Disposición adicional única.
+
+1\. El módulo A.1, Datos que identifican a las personas, de la presente circular también se utilizará para declarar los datos de personas que se soliciten en cualquier estado o información requeridos por otras circulares del Banco de España, de acuerdo con las especificaciones técnicas que se publiquen a tal efecto.
+
+2\. El módulo A.2, Solicitud de código de identificación de personas no residentes en España, de la presente circular también se utilizará para solicitar el código de identificación personal de los no residentes cuando este sea necesario para declarar sus datos en cualquier estado o información requeridos por otras circulares del Banco de España, de acuerdo con las especificaciones técnicas que se publiquen a tal efecto.
+
+3\. El módulo G. Datos que vinculan códigos, de la presente circular también se utilizará para relacionar códigos declarados en cualquier estado o información requeridos por otras circulares del Banco de España, de acuerdo con las especificaciones técnicas que se publiquen a tal efecto.
+
+> Se modifica el apartado 3 por la norma única.10 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+### Disposición transitoria primera.
+
+1\. Las entidades declarantes continuarán declarando a la CIR conforme a lo dispuesto en la Circular 3/1995, de 25 de septiembre, hasta el cierre de la declaración relativa a los datos de 31 de marzo de 2016, inclusive, con independencia de que también tengan que comenzar a declarar los datos, según lo dispuesto en la presente circular, desde los plazos que se indican en el siguiente apartado.
+
+No obstante lo dispuesto en el párrafo anterior, las altas y las modificaciones de datos de los titulares de riesgos, directos e indirectos, así como las solicitudes de código de no residentes, se comenzarán a realizar desde el 1 de junio de 2014 exclusivamente conforme a lo dispuesto en la norma quinta de la presente circular, con independencia de que sus riesgos se continúen declarando de acuerdo con la Circular 3/1995.
+
+2\. La declaración de datos a la CIR con arreglo a lo dispuesto en la presente circular se realizará conforme al siguiente calendario:
+
+a) Los módulos B.1 y B.2, desde los datos correspondientes a 30 de abril inclusive. No obstante, los datos de las operaciones que presumiblemente se tengan que declarar a dicha fecha se podrán comenzar a declarar desde el 1 de abril de 2015.
+
+b) Los módulos F, G.1 y G.2, desde los datos correspondientes a 30 de abril de 2015, inclusive. No obstante, los datos de las operaciones que presumiblemente se tengan que declarar a dicha fecha se podrán comenzar a enviar desde el 1 de abril de 2015.
+
+c) Los módulos C.1, C.2 y G.3, desde los datos correspondientes a 30 de abril de 2015, inclusive.
+
+d) **(Suprimida).**
+
+e) Los módulos D, desde los datos correspondientes a 31 de diciembre de 2016. No obstante, los datos de los módulos D 1 a D 3 correspondientes a las operaciones que presumiblemente se tengan que declarar a dicha fecha se podrán comenzar a declarar desde el 1 de noviembre de 2016.
+
+3\. La declaración a la CIR de los datos básicos que establece la presente circular correspondientes a las personas y operaciones declarables a 30 de abril de 2015 se hará conforme a lo dispuesto en las siguientes letras:
+
+a) Cuando la entidad no disponga de los nuevos datos que se solicitan para las personas en el módulo A.1 y estas no se los faciliten antes de su remisión al Banco de España, se indicará como motivo de declaración «Titulares de riesgos sin datos». La entidad no necesitará solicitar los datos que le falten de las personas cuando todas sus operaciones venzan antes del 31 de diciembre de 2015 y no se prevea que existan problemas para su cancelación en las fechas de vencimiento.
+
+b) Cuando la entidad no pueda obtener alguno de los datos del módulo D.2 para garantías formalizadas antes del 1 de julio de 2014, porque no fuese exigible en la normativa aplicable y no lo tenga en su expediente ni lo pueda obtener fácilmente, podrá indicar ‟Carga inicial. Dato no disponible" en la dimensión para la que no pueda facilitar el dato.
+
+c) En el módulo G.1 no se vincularán las operaciones vivas a 30 de abril de 2015 con las operaciones concedidas por la propia entidad declarante u otras entidades que no estén vivas a dicha fecha.
+
+d) Las operaciones vivas a 30 de abril de 2015 que hayan sido subrogadas o segregadas hasta dicha fecha, inclusive, se declararán con el valor ‟Carga inicial" en la dimensión ‟Origen de la operación" de la parte 2 del módulo B.2. Este mismo valor se puede utilizar para declarar el resto de las operaciones, siempre que la entidad declarante no pueda asignarlo a los otros valores.
+
+e) Las operaciones vivas a 30 de abril de 2015 se declararán en la dimensión ‟Estado de refinanciaciones y reestructuraciones" de la parte 2 del módulo B.2 con el valor ‟Carga inicial. Refinanciaciones", cuando la operación cumpla la definición de refinanciación o refinanciada, con el valor ‟Carga inicial. Reestructuraciones", cuando la operación cumpla la definición de reestructuración, y con el valor ‟Carga inicial. Resto de las operaciones", en los demás casos.
+
+f) Los datos de la parte 3 del módulo C.1 no se declararán en la declaración de dicho módulo correspondiente a datos de 30 de abril de 2015.
+
+g) **(Suprimida).**
+
+h) Cuando la entidad no pueda obtener fácilmente el dato de la dimensión "Financiación de construcciones o promociones inmobiliarias. Licencia" para las operaciones formalizadas antes del 31 de diciembre de 2014 podrá indicar el valor "Carga inicial. Dato no disponible"
+
+> Se modifica por la norma 2.9 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modifican los apartados 2.a) y 3 por la norma 3.7 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+> Se modifica por la norma 2.5 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+### Disposición transitoria segunda.
+
+1\. Los primeros estados que se deben remitir al Banco de España de los introducidos o modificados por la disposición final primera de la presente circular en la Circular 4/2004, de 22 de diciembre, a las entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros, serán:
+
+a) Para los estados M.10-2 a M.10-4, A.2 y C.23, los correspondientes a datos de 31 de diciembre de 2013. Los estados M.10-2 a M.10-4, excepcionalmente, se podrán enviar hasta el 10 de febrero de 2014. Los datos del estado M.10-1 no se comenzarán a declarar hasta el 1 de junio de 2014 en dicho formato; hasta dicha fecha, únicamente se declararán código del emisor, nombre, sector y actividad económica (CNAE), utilizando el procedimiento para comunicar los datos de los titulares que se recoge en la Circular 3/1995, de 25 de septiembre, sobre la Central de Información de Riesgos.
+
+b) Para el estado T.22, los correspondientes a datos de 31 de diciembre de 2015.
+
+c) Para los estados M.11, T.19 y T.20, los correspondientes a datos de 31 de marzo de 2016.
+
+2\. En la primera declaración de los estados M.11 y T.19-2 de la Circular 4/2004 se enviarán los datos de todos los activos e instrumentos derivados con saldo vivo a 31 de marzo de 2016.
+
+Cuando la entidad no pueda obtener alguno de los datos del estado M.11 para los activos recibidos antes del 1 de julio de 2014, porque no fuese exigible en la normativa aplicable y no lo tenga en su expediente ni lo pueda obtener fácilmente, podrá indicar ‟Carga inicial. Dato no disponible" en la columna para la que no pueda facilitar el dato.
+
+3\. El nuevo estado S.11, excepcionalmente, también se enviará con los datos relativos a 31 de diciembre de 2012. Esta información, así como la correspondiente a 30 de junio de 2013, se podrá remitir hasta el 20 de octubre de 2013.
+
+4\. La adaptación del registro contable especial de operaciones hipotecarias a las modificaciones realizadas por la presente circular en la Circular 4/2004 deberá estar terminada antes del 30 de septiembre de 2015. Cuando la entidad no pueda obtener alguno de los datos de los apartados ‟Garantía hipotecaria" y ‟Datos de las tasaciones" para las garantías formalizadas antes del 1 de julio de 2014, porque no fuese exigible en la normativa aplicable y no lo tenga en su expediente ni lo pueda obtener fácilmente, podrá indicar ‟Carga inicial. Dato no disponible" en la dimensión para la que no disponga del dato. Los datos del apartado ‟Características del inmueble" del registro solo serán obligatorios para las garantías que se formalicen desde el 1 de julio de 2014.
+
+5\. La adaptación de la información relativa a activos adjudicados o recibidos en pago de deudas a la modificación realizada por la presente circular en la norma septuagésima segunda de la Circular 4/2004 deberá estar terminada antes del 30 de septiembre de 2015. Cuando la entidad no pueda obtener alguno de los datos para los activos recibidos antes del 1 de julio de 2014, porque no fuese exigible en la normativa aplicable y no lo tenga en su expediente ni lo pueda obtener fácilmente, podrá indicar ‟Carga inicial. Dato no disponible" en la dimensión para la que no disponga del dato.
+
+> Se modifican los apartados 1, 2, 4 y 5 por la norma 2.6 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+### Disposición derogatoria.
+
+La presente Circular deroga la Circular del Banco de España n.º 3/1995, de 25 de septiembre, sobre la Central de Información de Riesgos.
+
+### Disposición final primera.
+
+Se introducen las siguientes modificaciones en la Circular del Banco de España n.º 4/2004, de 22 de diciembre, a las entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros:
+
+1\. En la norma sexagésima sexta, Sectorización de saldos personales según titulares, se introducen las siguientes modificaciones:
+
+a) Se sustituye el apartado 1 por el siguiente texto:
+
+«1. Las entidades de crédito incluirán en sus bases de datos, como mínimo, todos los atributos de las personas y operaciones con saldos deudores o acreedores necesarios para elaborar los estados contables y estadísticos, así como las demás informaciones que deban facilitar al Banco de España.
+
+El esquema de sectorización mínima en la base de datos de las personas será el que se incluye en el anejo VIII.1.
+
+En las operaciones, cualquiera que sea su naturaleza, que supongan riesgo de crédito para la entidad, cuando tengan varios titulares de riesgo directo solidarios, a efectos de la asignación de sus atributos en la confección de los estados contables y estadísticos, se considerará como contraparte directa el titular al que la entidad considere como determinante o más relevante para la concesión de la operación de entre todos los titulares directos. Este criterio también se aplicará cuando haya varias contrapartes finales solidarias.
+
+Para los débitos representados por valores negociables se llevará registro, al menos, de los primeros adquirentes.»
+
+b) El tercer párrafo del apartado 5 queda redactado como sigue:
+
+«Los organismos internacionales y supranacionales, distintos de los bancos multilaterales de desarrollo, se clasificarán en el sector Administraciones Públicas, excepto el “Mecanismo Europeo de Estabilidad”, que se clasificará en el sector “Otros intermediarios financieros”. Estos organismos no se asignarán a ningún país concreto, sin perjuicio de que en los estados reservados los organismos de la Unión Europea se clasifiquen como residentes en países de la Unión Europea no miembros de la Unión Económica y Monetaria, excepto el “Mecanismo Europeo de Estabilidad”, que se clasificará como residente en la Unión Económica y Monetaria. Los restantes organismos internacionales se clasificarán como pertenecientes al resto del mundo.»
+
+2\. En la norma sexagésima séptima, Estados reservados individuales de las entidades de depósito, se introducen las siguientes modificaciones:
+
+a) En el cuadro del apartado 1 se añaden los siguientes estados: M.10, Detalle de valores, con periodicidad mensual y plazo máximo de presentación el día 10 del mes siguiente; M.11, Datos básicos de activos adjudicados o recibidos en pago de deudas, con periodicidad mensual y plazo máximo de presentación el día 25 del mes siguiente; M.12, Derivados financieros y de crédito. Detalle de operaciones realizadas, variaciones de precio y valores razonables. Información mensual (negocios en España), con periodicidad mensual y plazo máximo de presentación a fin del mes siguiente; M.13, Coste de la financiación captada en el mes (negocios en España), con periodicidad mensual y plazo máximo de presentación el día 15 del mes siguiente; los estados T.19, Datos de instrumentos derivados, T.20, Datos dinámicos de inmuebles adjudicados o recibidos en pago de deudas, y T.22, Detalle complementario de valores, todos ellos con periodicidad trimestral y plazo máximo de presentación el día 25 del mes siguiente; y el estado S.11, Información sobre la entrega de viviendas adjudicadas o recibidas en pago de deudas procedentes de operaciones de crédito a los hogares para adquisición de vivienda (negocios en España), con periodicidad semestral y plazo máximo de presentación el día 20 del mes siguiente. Asimismo, el estado T.6 pasa a denominarse T.6, Derivados financieros y de crédito. Detalle de operaciones realizadas, variaciones de precio y valores razonables. Información trimestral (negocios en España).
+
+b) En el apartado 1 se sustituye el segundo párrafo por el siguiente texto:
+
+«Las entidades de crédito que no formen parte de un grupo consolidable de entidades de crédito español, siempre que formen parte de un grupo económico, también enviarán trimestralmente el estado C.5 en el formato del anejo V, antes del día 10 del segundo mes siguiente a la fecha a la que corresponda, incluyendo exclusivamente la información de la entidad dominante cabecera del grupo económico de la que formen parte y de las entidades a través de las que esta tenga la participación en su capital.
+
+Las entidades a las que se refiere el párrafo anterior, así como las sucursales en España de entidades de crédito extranjeras, también enviarán trimestralmente el detalle de los recursos de clientes fuera de balance, en el formato del estado C.8 del anejo V, antes del día 10 del segundo mes siguiente a la fecha a la que corresponda.»
+
+c) Se suprime el apartado 13, el apartado 14 pasa a ser el 17 y se añaden los apartados 13 a 16, con el siguiente texto:
+
+«13. En los estados M.10-2 y T.22-1 se incluirá información de los valores representativos de deuda propiedad de la entidad cuando, al final del mes al que se refieran los datos, su valor contable (excluidos los ajustes por valoración) acumulado sea igual o superior a 10 millones de euros.
+
+En los estados M.10-3 y T.22-2 se incluirá información de los instrumentos de patrimonio propiedad de la entidad cuando, al final del mes al que se refieran los datos, su valor contable (excluidos los ajustes por valoración) acumulado sea igual o superior a 10 millones de euros.
+
+Cuando se envíen al Banco de España los estados M.10-2 y M.10-3, también se incluirán los valores para los que se hubiesen cobrado intereses o dividendos, o efectuado saneamientos o –solo para el estado M.10-3– ventas en el mes, aunque la entidad no tenga registrado en el activo ningún importe para ellos a fin de mes.
+
+En el estado M.10-4 se incluirá información de los valores para los que la entidad tenga importes adquiridos o cedidos temporalmente, recibidos en préstamo, prestados, entregados o recibidos en garantía de préstamos de valores, o mantenga posiciones cortas cuando, al final del mes al que se refieran los datos, su importe nominal acumulado sea igual o superior a 10 millones de euros.
+
+14\. El estado M.11 se tiene que enviar con los datos básicos de todos los inmuebles e instrumentos de capital no cotizados en un mercado activo que se hayan adquirido para la cancelación, total o parcial, de una o más operaciones registradas contablemente en los libros de la entidad de crédito o de sus sociedades instrumentales españolas, con independencia de cómo se haya adquirido la propiedad y de la partida de balance en la que estén registrados contablemente, excepto los clasificados como activo material de uso propio, cuando su valor bruto contable acumulado sea igual o superior a 10 millones de euros. En este estado se informará de todos los activos de dicha naturaleza, incluso de los que estén registrados contablemente en otras entidades del mismo grupo económico.
+
+Los datos del estado M.11, en lugar de enviarse íntegramente cada mes, se actualizarán mensualmente para incorporar exclusivamente las adquisiciones de activos y modificaciones de datos que, en su caso, se produzcan en el mes.
+
+El estado T.20 se tiene que enviar con información dinámica de los inmuebles declarados en el estado M.11.
+
+15\. Los estados M.12, T.6 y T.19 incluyen todos los instrumentos financieros que cumplan la definición de derivado, incluso los derivados implícitos segregados a efectos contables de los instrumentos financieros híbridos, con independencia de si su valor razonable es positivo o negativo para la entidad y de si se han contratado en un mercado organizado.
+
+El estado M.12 lo enviarán aquellas entidades que, al final del mes al que se refieren los datos, tengan derivados cuyo importe nocional acumulado sea igual o superior a 150.000 millones de euros.
+
+Los estados T.6 y T.19 lo enviarán las entidades cuando, al final del trimestre al que se refieran los datos, su importe nocional acumulado sea igual o superior a 10 millones de euros.
+
+16\. El Banco de España podrá requerir a las entidades que no superen a 31 de diciembre de 2013 los umbrales que se establecen en los apartados anteriores para enviar los estados M.10, M.12, T.6, T.11 y T.12, a 31 de marzo de 2015 los umbrales para enviar el estado T.22, y a 30 de septiembre de 2015 los umbrales para enviar los estados M.11, T.19 y T.20, que se presenten todos o algunos de dichos estados, con la periodicidad y el plazo máximo de presentación establecidos con carácter general. El requerimiento se efectuará por escrito, con una antelación mínima de tres meses antes del primer envío, atendiendo a las circunstancias particulares de las entidades, en especial a su perfil de riesgo y al importe que represente la actividad que se ha de reportar en relación con su tamaño.
+
+Las entidades que vengan presentando todos o alguno de los citados estados continuarán remitiéndolos cuando su importe descienda por debajo del umbral para su remisión hasta que el Banco de España les comunique por escrito que no tienen que enviarlos obligatoriamente.
+
+Las entidades que alcancen por primera vez el umbral para presentar dichos estados con posterioridad a las fechas indicadas en el primer párrafo de este apartado no los tendrán que enviar mientras el Banco de España no les comunique por escrito, con una antelación mínima de tres meses, que deben remitirlos.
+
+Las entidades, aunque no tengan la obligación de enviar los estados anteriores al Banco de España, deberán disponer en su base de datos, como mínimo, de dicha información.»
+
+3\. En la norma sexagésima octava, Estados reservados individuales de los establecimientos financieros de crédito, se realizan las siguientes modificaciones:
+
+a) En el cuadro del apartado 1 se añaden los siguientes estados: M.10, Detalle de valores, con periodicidad mensual y plazo máximo de presentación el día 10 del mes siguiente; M.11, Datos básicos de activos adjudicados o recibidos en pago de deudas, con periodicidad mensual y plazo máximo de presentación el día 25 del mes siguiente; los estados T.19, Datos de instrumentos derivados, T.20, Datos dinámicos de inmuebles adjudicados o recibidos en pago de deudas, y T.22, Detalle complementario de valores, todos ellos con periodicidad trimestral y plazo máximo de presentación el día 25 del mes siguiente; y el estado S.11, Información sobre la entrega de viviendas adjudicadas o recibidas en pago de deudas procedentes de operaciones de crédito a los hogares para adquisición de vivienda (negocios en España), con periodicidad semestral y plazo máximo de presentación el día 20 del mes siguiente.
+
+b) El segundo párrafo del apartado 1 se sustituye por el siguiente texto:
+
+«Los establecimientos financieros de crédito que no formen parte de un grupo consolidable de entidades de crédito español, siempre que formen parte de un grupo económico, también enviarán trimestralmente el estado C.5 en el formato del anejo V, antes del día 10 del segundo mes siguiente a la fecha a la que correspondan, incluyendo exclusivamente la información de la entidad dominante cabecera del grupo económico del que formen parte y de las entidades a través de las que esta tenga la participación en su capital.»
+
+c) El primer párrafo del apartado 2 se sustituye por el siguiente texto:
+
+«En la confección de los estados financieros, además de lo señalado en la norma sexagésima séptima para los diferentes estados, se tendrán en cuenta las siguientes reglas específicas:»
+
+4\. En la norma sexagésima novena, Estados reservados de los grupos consolidables de entidades de crédito, se realizan las siguientes modificaciones:
+
+a) En el cuadro del apartado 1 se añade el estado C.23, Detalle de valores con código ISIN, con periodicidad trimestral.
+
+b) El apartado 9 pasa a ser el 10 y se añade un nuevo apartado 9, con el siguiente texto:
+
+«9. En el estado C.23 se enviarán los datos, valor a valor, de los valores propiedad de las entidades que formen parte del grupo consolidable de entidades de crédito que no envíen el estado M.10, cualesquiera que sean su país de residencia y su actividad. Entre los datos se comunicarán los valores propiedad de las entidades emitidos por otras entidades del mismo grupo.
+
+Este estado solo lo remitirán las entidades a las que el Banco de España les comunique por escrito que el Consejo de Gobierno del Banco Central Europeo ha decidido que deben facilitar los datos porque cumplen alguno de los criterios que establece el artículo 2, apartado 4, del Reglamento (UE) n.º 1011/2012, del Banco Central Europeo, de 17 de octubre, relativo a las estadísticas sobre carteras de valores.
+
+Las entidades a las que se les comunique que deben enviar este estado comenzarán a remitirlo, a más tardar, seis meses después de la fecha de la notificación, y deberán continuar enviándolo mientras el Banco de España no les comunique por escrito que ya no lo tienen que enviar.»
+
+5\. En la norma septuagésima primera, Estados reservados relativos a los requerimientos estadísticos de la Unión Económica y Monetaria, el número i) de la letra b) del apartado 2 queda redactado como sigue:
+
+«i) El sector no residentes en España se subdivide en residentes en otros países de la Unión Económica y Monetaria (UEM), residentes en países de la Unión Europea (UE) no UEM y residentes en países no miembros de la UE. La asignación a estos subsectores se realizará aplicando criterios equivalentes a los establecidos en el apartado 3 de la norma sexagésima sexta para los residentes en España.»
+
+6\. En la norma septuagésima segunda, Desarrollo contable interno y control de gestión, se añade un nuevo apartado 14, con el siguiente texto:
+
+«14. Las entidades, excepto las sucursales de entidades de crédito extranjeras cuya sede central se encuentre en un Estado miembro del Espacio Económico Europeo, que tengan activos adjudicados o recibidos en pago de deudas, aunque no estén obligadas a remitir al Banco de España los estados M.11 y T.20, deberán disponer en su base de datos, como mínimo, de la información que se exige para confeccionar dichos estados y la que se incluye para los inmuebles en el anejo de la Circular 8/2012, de 21 de diciembre, del Banco de España, a entidades de crédito, sobre bases de datos de activos transferibles a las sociedades previstas en el capítulo II de la Ley 8/2012, de 30 de octubre, sobre saneamiento y venta de los activos inmobiliarios del sector financiero.»
+
+7\. Se introducen las siguientes modificaciones en los anejos IV, V y VII:
+
+a) En el estado M.1-2, Balance reservado. Informaciones complementarias al balance, las partidas «2.1.1, 2.2.1, 3.2.1 y 3.3.1 Residentes en otros Estados UEM» pasan a denominarse «2.1.1, 2.2.1, 3.2.1 y 3.3.1 Residentes en otros países UEM»; las partidas «2.1.2, 2.2.2, 3.2.2 y 3.3.2 Resto del mundo» se sustituyen por las partidas «2.1.2, 2.2.2, 3.2.2 y 3.3.2 Residentes en países de la UE no UEM»; y se añaden las partidas «26.1.2.1, 26.2.2.1, 27.1.2.1 y 27.2.2.1 Residentes en otros países UEM», «26.1.2.2, 26.2.2.2, 27.1.2.2 y 27.2.2.2 Residentes en países de la UE no UEM» y «2.1.3, 2.2.3, 3.2.3, 3.3.3, 26.1.2.3, 26.2.2.3, 27.1.2.3 y 27.2.2.3 Residentes en países no miembros de la UE».
+
+b) Se añaden los estados: M.10, Detalle de valores; M.11, Datos básicos de activos adjudicados o recibidos en pago de deudas; M.12, Derivados financieros y de crédito. Detalle de operaciones realizadas, variaciones de precio y valores razonables. Información mensual (negocios en España); M.13, Coste de la financiación captada en el mes (negocios en España); T.19, Datos de instrumentos derivados; T.20, Datos dinámicos de inmuebles adjudicados o recibidos en pago de deudas; T.22, Detalle complementario de valores; S.11, Información sobre la entrega de viviendas adjudicadas o recibidas en pago de deudas procedentes de operaciones de crédito a los hogares para adquisición de vivienda (negocios en España), y C.23, Detalle de valores con código ISIN, con los formatos que se incluyen en el bloque Anejos de la Circular 4/2004 de la presente circular.
+
+c) En el estado T.1-3, Cuenta de pérdidas y ganancias reservada. Informaciones complementarias, la partida «Residentes en otros Estados UEM» del cuadro «Detalles de productos y costes por sujetos» pasa a denominarse «Residentes en otros países UEM», y la partida «Resto del mundo» se sustituye por las partidas «Residentes en países de la UE no UEM» y «Residentes en países no miembros de la UE».
+
+d) En el estado T.6, que pasa a denominarse «T.6, Derivados financieros y de crédito. Detalle de operaciones realizadas, variaciones de precio y valores razonables. Información trimestral (negocios en España)», se sustituye el término «período» por «trimestre» en todo el estado; se suprime la numeración de las columnas; se añaden las letras (a), (b) y (c) a las columnas «Operaciones contratadas (valor distinto de cero)», «Cancelaciones (vencimientos o compensaciones)» y «Liquidadas al producirse (liquidación diaria)», respectivamente; la partida «Resto del mundo» con su desglose se sustituye por las partidas «Residentes en países de la UE no UEM» y «Residentes en países no miembros de la UE», ambas con el mismo desglose que la partida sustituida, y se sustituyen en la numeración de las notas del estado los cardinales por letras.
+
+e) En el estado T.11, Clasificación por monedas y países de las inversiones y recursos (negocios en España), se añaden las columnas «Derivados», con el número 27 en el cuadro del Activo, a continuación de la columna 15, y con el número 28 en el cuadro del Pasivo, a continuación de la columna 24.
+
+f) En los estados T.12, Actividad clasificada por países (negocios totales), y C.10, Actividad consolidada clasificada por países (negocios totales), la partida 5.6 «Activos reestructurados» pasa a denominarse «Saldos vigentes de refinanciaciones y reestructuraciones».
+
+g) En el estado A.2, Información complementaria anual, se añade la partida «Importe pagado por remuneraciones a trabajadores de empresas de trabajo temporal» como última partida del estado.
+
+h) En el estado C.19-3, Financiación relacionada con la construcción y promoción inmobiliaria concedida por las entidades de crédito (negocios en España). Utilización de la cobertura de los apartados 42 y 43 del anejo IX, se añade la partida «Sin garantía real» como desglose de la partida «Riesgo normal a 31.12.2011. Resto».
+
+i) En los estados del anejo VII, Estados reservados relativos a los requerimientos estadísticos de la Unión Económica y Monetaria, se sustituyen las referencias a «Residentes en otros Estados UEM» por «Residentes en otros países UEM».
+
+j) En el estado UEM.2, Clasificación por sujetos y residencia de algunos activos y pasivos, la información recogida en los cuadros «Todos los sectores-Activo» y «Todos los sectores-Pasivo» se suprime, y se añade al final del estado el cuadro que se incluye en el bloque Anejos de la Circular 4/2004 de esta circular, así como la nota f), con el siguiente texto:
+
+«f) A efectos de este estado, incluye los saldos mantenidos frente a entidades que pertenezcan al mismo grupo económico de la entidad declarante, aunque esta no participe directamente en su capital, o cuando, no perteneciendo al mismo grupo económico, se encuentren en alguna de las siguientes situaciones: a) estén participadas, directa o indirectamente, por la entidad declarante en un porcentaje igual o superior al 10 % de su capital, o b) participen en la entidad declarante, directa o indirectamente, en un porcentaje igual o superior al 10 % de su capital.
+
+Las entidades a las que se refiere el párrafo anterior deben ser auxiliares financieros, sociedades emisoras de participaciones preferentes, entidades holding que gestionan filiales mayoritariamente financieras, entidades de seguros, fondos de pensiones o sociedades no financieras.»
+
+k) En el estado UEM.5, Clasificación por países de algunos activos y pasivos, se añade el organismo internacional «Mecanismo Europeo de Estabilidad», con las celdas abiertas para enviar datos exclusivamente para las columnas «Préstamos y créditos a no IFM», «Valores distintos de acciones emitidos por no IFM», «Acciones y otras participaciones» y «Depósitos de no IFM».
+
+l) En el estado UEM.8, Detalle del resto de instituciones financieras no monetarias residentes en España, la partida «Sociedades emisoras de participaciones preferentes u otros instrumentos financieros» pasa a denominarse «Sociedades emisoras de participaciones preferentes», se suprime la partida «Mediadores en los mercados de dinero» y la nota (3) pasa a tener la siguiente redacción:
+
+«(3) Esta línea incluye los datos relativos a Bolsas y Mercados Españoles, sociedad holding de mercados y sistemas financieros y entidades de pago.»
+
+m) En el estado UEM.11, Titulizaciones y otras transferencias de préstamos. Datos mensuales, se añade la partida «De los que: Crédito a la vivienda» como detalle de la partida «Residentes en España. Hogares e ISFLSH», con la celda abierta para enviar datos exclusivamente para la columna «Saldos vivos de préstamos transferidos dados de baja del balance (f)», y, en esta columna, se incluye el desglose «Cesionarios residentes en España» y «Cesionarios no residentes en España».
+
+8\. El anejo VIII se sustituye por el que se incluye en el bloque Anejos de la Circular 4/2004 de la presente circular.
+
+9\. En el anejo X se sustituye el «Registro contable especial de operaciones hipotecarias» por el que se incluye en el bloque Anejos de la Circular 4/2004 de la presente circular.
+
+### Disposición final segunda. Entrada en vigor.
+
+La presente circular entrará en vigor el 31 de diciembre de 2013, salvo las modificaciones que se introducen en la Circular n.º 4/2004, de 22 de diciembre, a las entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros, relativas a los estados M.1-2, M.12, T.1-3, T.6, T.11, T.12, S.11, C.10, C.19-3 y UEM, que entrarán en vigor el 30 de junio de 2013, y al estado M.13, que entrará en vigor el 31 de mayo de 2013, sin perjuicio de lo señalado en la disposición transitoria primera para la remisión de los datos a la CIR y en la disposición transitoria segunda para el envío de determinados estados de la Circular del Banco de España n.º 4/2004.
+
+Madrid, 24 de mayo de 2013.
+
+El Gobernador del Banco de España,
+
+Luis María Linde de Castro
+
+## ANEJO 1 — Módulos de datos
+
+A. Datos de personas y solicitud de código
+
+A.1 Datos que identifican a las personas
+
+Parte 1. Datos de la persona:
+
+– Código de la persona.
+
+– Motivo por el que se declara a la persona.
+
+– Nombre.
+
+– Domicilio.
+
+– Provincia de la persona.
+
+– Sector institucional.
+
+– Parte vinculada.
+
+– Actividad económica.
+
+– Estado del procedimiento legal.
+
+– Fecha de incoación del procedimiento legal.
+
+Datos adicionales para las personas físicas:
+
+– Fecha de nacimiento.
+
+– País de nacimiento.
+
+– Sexo.
+
+Datos adicionales para las personas jurídicas y entidades sin personalidad jurídica:
+
+– Forma jurídica.
+
+– Código LEI.
+
+– Sede central.
+
+– Código de la entidad matriz inmediata.
+
+– Código de la entidad matriz última.
+
+– Vinculación con Administraciones Públicas españolas.
+
+Datos adicionales para empresas:
+
+– Tamaño de la empresa.
+
+– Fecha del tamaño de la empresa.
+
+– Número de empleados.
+
+– Balance total.
+
+– Importe neto de la cifra de negocio en los estados financieros individuales.
+
+– Fecha de los datos financieros individuales.
+
+– Importe neto de la cifra de negocio en los estados financieros consolidados.
+
+– Fecha de los datos financieros consolidados.
+
+Datos adicionales para las personas con varios códigos:
+
+– Código NIF o NIE anterior.
+
+– Código asignado por el Banco de España.
+
+Parte 2. Datos de los titulares colectivos:
+
+– Código de la sociedad o AIE.
+
+– Código del socio colectivo o integrante de la AIE.
+
+Parte 3. Datos que relacionan a los titulares con las entidades que integran el Sector Público Español:
+
+– Código del titular.
+
+– Código de la entidad que integra el sector público español.
+
+Parte 4. Datos que vinculan a los titulares con los grupos de clientes relacionados:
+
+– Código del titular.
+
+– Código del grupo de clientes relacionados.
+
+A.2 Solicitud de código de identificación de personas no residentes en España
+
+– Motivo por el que se solicita un código para la persona.
+
+– Naturaleza de la persona.
+
+– Nombre.
+
+– Domicilio.
+
+– Sector institucional.
+
+– País de residencia.
+
+Datos adicionales para las personas físicas:
+
+– Fecha de nacimiento.
+
+– País de nacimiento.
+
+– Sexo.
+
+– Número de pasaporte o de identidad válido en el país de origen de la persona.
+
+– Código NIE o NIF.
+
+– Código asignado por el Banco de España.
+
+Datos adicionales para las personas jurídicas y entidades sin personalidad jurídica:
+
+– Código LEI.
+
+– Identificador nacional.
+
+– Tipo de identificador.
+
+– Forma jurídica (código).
+
+– Forma jurídica (abreviatura).
+
+– Código SWIFT.
+
+Datos adicionales para emisores de valores cotizados:
+
+– Código ISIN.
+
+Otros datos:
+
+– Información cualitativa.
+
+B. Datos básicos de las operaciones y de las relaciones con las personas
+
+B.1 Datos básicos que relacionan a las personas con las operaciones
+
+Parte 1. Datos básicos que relacionan a los titulares de riesgos con las operaciones:
+
+– Código de la operación.
+
+– Código de la persona.
+
+– Naturaleza de la intervención en la operación.
+
+Parte 2. Datos básicos que relacionan a las personas distintas de los titulares de riesgos con las operaciones:
+
+– Código de la operación.
+
+– Código de la persona.
+
+– Naturaleza de la intervención en la operación.
+
+B.2 Datos básicos de las operaciones
+
+– Código de la operación.
+
+– Relación entre contrato y operación.
+
+– Código del valor.
+
+– Es ISIN.
+
+– Localización de la actividad (país de la operación).
+
+Parte 1. Datos que deben declarar todas las entidades declarantes:
+
+– Tipo de producto.
+
+– Subordinación del producto.
+
+– Operación para la financiación de un proyecto.
+
+– Tipo de riesgo asociado a los derivados.
+
+– Finalidad de la operación.
+
+– Trámites legales realizados para recuperar la operación.
+
+– Principal o nocional al inicio de la operación.
+
+– Límite máximo a disposición del prestatario al inicio de la operación.
+
+– Fecha de formalización o emisión.
+
+– Fecha de vencimiento.
+
+– Operación reestructurada por Real Decreto-ley 5/2021. Aumento de plazo.
+
+– Operación reestructurada por Real Decreto-ley 5/2021. Aumento de plazo. Fecha de aplicación.
+
+– Operación reestructurada por Real Decreto-ley 5/2021. Transformación en préstamos participativos.
+
+– Operación reestructurada por Real Decreto-ley 5/2021. Transformación en préstamos participativos. Fecha de aplicación.
+
+– Operación reestructurada por Real Decreto-ley 5/2021. Reducción de principal.
+
+– Operación reestructurada por Real Decreto-ley 5/2021. Reducción de principal. Fecha de aplicación.
+
+Parte 2. Datos adicionales que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras y los establecimientos financieros de crédito:
+
+– Origen de la operación.
+
+– Estado de refinanciaciones y reestructuraciones.
+
+– Fecha del estado de refinanciaciones y reestructuraciones.
+
+– Canal de contratación.
+
+– Canal de distribución.
+
+– Código del agente o intermediario registrado.
+
+– Operación pre-concedida.
+
+– Provincia en la que se realiza la inversión.
+
+– Esquema de amortización.
+
+– Porcentaje de participación en los préstamos sindicados (%).
+
+– Valores adquiridos temporalmente o prestados. Nominal.
+
+– Financiación de construcciones o promociones inmobiliarias. Estado de la construcción.
+
+– Financiación de construcciones o promociones inmobiliarias. Licencia.
+
+– Financiación de construcciones o promociones inmobiliarias. Número de viviendas previstas.
+
+– Financiación de construcciones o promociones inmobiliarias. Código de la promoción inmobiliaria.
+
+– Subvención de la operación.
+
+– Renta disponible anual del titular al inicio de la operación.
+
+– Moratoria COVID-19.
+
+– Fecha de comienzo de la moratoria COVID-19.
+
+– Fecha de finalización de la moratoria COVID-19.
+
+– Modificación de los términos de las operaciones. Real Decreto-ley 34/2020.
+
+– Fecha de la modificación. Real Decreto-ley 34/2020.
+
+B.3 Datos básicos complementarios de los préstamos a personas jurídicas
+
+– Código de la operación.
+
+– Clasificación de las operaciones de la norma segunda, 1 bis.
+
+– Importe del compromiso al inicio.
+
+– Identificador de contrato sindicado.
+
+– Instrumento fiduciario.
+
+– Recurso.
+
+– Derechos de reembolso.
+
+– Fecha de liquidación.
+
+– Frecuencia de pago.
+
+– Cambios en el valor razonable debidos a cambios en el riesgo crediticio antes de la adquisición.
+
+C. Datos dinámicos de las operaciones
+
+C.1 Datos dinámicos de los riesgos directos
+
+– Código de la operación.
+
+Parte 1. Datos de todos los riesgos directos:
+
+– Moneda.
+
+– Plazo residual.
+
+– Garantía real principal. Tipo de garantía real principal.
+
+– Garantía real principal. Cobertura de la garantía real principal.
+
+– Garantía personal principal. Tipo de garantía personal principal.
+
+– Garantía personal principal. Cobertura de la garantía personal principal.
+
+– Situación de la operación.
+
+– Fecha del primer incumplimiento.
+
+– Pro memoria: fecha del primer incumplimiento antes de la refinanciación o reestructuración.
+
+– Pro memoria: fecha del primer incumplimiento excluyendo fallidos parciales.
+
+– Fecha del último incumplimiento.
+
+Parte 2. Datos de los riesgos directos asumidos por la entidad declarante:
+
+– Principal asumido por la entidad. Importe no vencido.
+
+– Principal asumido por la entidad. Importe vencido.
+
+– Intereses y comisiones vencidos asumidos por la entidad. Importe registrado en el activo.
+
+– Intereses y comisiones vencidos asumidos por la entidad. Importe no registrado en el activo.
+
+– Intereses de demora asumidos por la entidad. Importe registrado en el activo.
+
+– Intereses de demora asumidos por la entidad. Importe no registrado en el activo.
+
+– Gastos exigibles asumidos por la entidad.
+
+– Límite actual del riesgo asumido por la entidad.
+
+– Riesgo disponible asumido por la entidad. Disponibilidad inmediata.
+
+– Riesgo disponible asumido por la entidad. Disponibilidad condicionada.
+
+– Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por la entidad.
+
+– Pro memoria: importe de los fallidos parciales.
+
+Parte 3. Datos que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras, los establecimientos financieros de crédito y la Sareb para los préstamos:
+
+– Principal vencido cobrado en efectivo.
+
+– Principal vencido subvencionado.
+
+– Amortización anticipada. Importe por el que se reduce el principal.
+
+– Reducción del principal Real Decreto-ley 5/2021. Importe asumido por el avalista.
+
+– Condonación o prescripción del derecho de cobro. Importe por el que se reduce la deuda.
+
+– Activos adjudicados o recibidos en pago. Tipo de activo.
+
+– Activos adjudicados o recibidos en pago. Importe por el que se reduce la deuda.
+
+– Operación subrogada o segregada. Tipo de subrogación o segregación.
+
+– Operación subrogada o segregada. Importe por el que se reduce la deuda.
+
+– Refinanciación o renovación. Tipo de refinanciación o renovación.
+
+– Refinanciación o renovación. Importe por el que se reduce la deuda.
+
+– Operación transferida, incluida la gestión. Importe por el que se reduce la deuda.
+
+– Fecha de la última liquidación de intereses.
+
+– Fecha de la próxima liquidación de intereses.
+
+– Fecha de la última liquidación de principal.
+
+– Fecha de la próxima liquidación de principal.
+
+– Número de cuotas impagadas.
+
+– Tipo efectivo de definición restringida (TEDR).
+
+– Signo del tipo efectivo de definición restringida (TEDR).
+
+– Fecha de la próxima revisión del tipo de interés.
+
+– Clasificación de las operaciones en función del riesgo de crédito por insolvencia.
+
+– Carácter revolving.
+
+– Pro memoria: Reducción del principal Real Decreto-ley 5/2021. Avales ejecutados.
+
+Parte 4. Datos de los riesgos directos asumidos por terceros:
+
+– Principal asumido por terceros. Importe no vencido.
+
+– Principal asumido por terceros. Importe vencido.
+
+– Intereses y comisiones vencidos asumidos por terceros.
+
+– Intereses de demora asumidos por terceros.
+
+– Gastos exigibles asumidos por terceros.
+
+– Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por terceros.
+
+– Límite actual del riesgo asumido por terceros.
+
+– Riesgo disponible asumido por terceros. Disponibilidad inmediata.
+
+– Riesgo disponible asumido por terceros. Disponibilidad condicionada.
+
+C.2 Datos dinámicos de los riesgos indirectos
+
+– Código de la operación.
+
+– Código del titular del riesgo indirecto.
+
+Parte 1. Datos de los riesgos indirectos asumidos por la entidad declarante:
+
+– Riesgo máximo garantizado asumido por la entidad.
+
+– Riesgo dispuesto garantizado asumido por la entidad. Importe total.
+
+– Riesgo dispuesto garantizado asumido por la entidad. Importe vencido.
+
+– Riesgo dispuesto garantizado asumido por la entidad. Intereses de demora y gastos exigibles.
+
+Parte 2. Datos de los riesgos indirectos asumidos por terceros:
+
+– Riesgo máximo garantizado asumido por terceros.
+
+– Riesgo dispuesto garantizado asumido por terceros. Importe total.
+
+– Riesgo dispuesto garantizado asumido por terceros. Importe vencido.
+
+– Riesgo dispuesto garantizado asumido por terceros. Intereses de demora y gastos exigibles.
+
+C.3 Datos dinámicos financieros de los préstamos a personas jurídicas
+
+– Código de la operación.
+
+– Importe transferido.
+
+– Situación de impago *(default)* de la operación.
+
+– Fecha de la situación de impago *(default)* de la operación.
+
+– Importes vencidos de la operación.
+
+– Saldo vivo nominal.
+
+– Saldo fuera de balance.
+
+– Interés devengado.
+
+C.4 Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas
+
+– Código de la operación.
+
+– Código de la persona.
+
+– Importe de la responsabilidad conjunta.
+
+D. Datos sobre garantías recibidas
+
+D.1 Datos básicos que relacionan las operaciones con las garantías recibidas
+
+– Código de la operación.
+
+– Código de la garantía recibida.
+
+– Garantía real principal asignada a la operación.
+
+D.1.1 Datos básicos de las garantías recibidas:
+
+– Código de la garantía recibida.
+
+Parte 1. Datos de las garantías recibidas:
+
+– Tipo de garantía.
+
+– Tipo de activo o garantía financiera.
+
+– Alcance de la garantía real.
+
+– Código de la garantía real de máximo.
+
+– Orden de prelación de la garantía.
+
+Parte 2. Datos adicionales de las garantías recibidas para préstamos a personas jurídicas:
+
+– Código del proveedor de la garantía.
+
+– Valor de la garantía.
+
+– Tipo de valor de la garantía.
+
+– Método de valoración de la garantía.
+
+– Fecha del valor de la garantía.
+
+– Fecha de vencimiento de la garantía.
+
+– Valor original de la garantía.
+
+– Fecha de la valoración original de la garantía.
+
+D.2 Datos básicos de los inmuebles recibidos en garantía
+
+– Código de la garantía recibida.
+
+– Consideración del inmueble en la normativa europea aplicable para el cálculo del coeficiente de recursos propios.
+
+– Localización del inmueble. País.
+
+– Localización del inmueble. Código postal.
+
+– Localización del inmueble. Código NUTS 3.
+
+Parte 1. Datos para los inmuebles:
+
+– Inmueble integrado por varias fincas.
+
+– Identificador único registral (IDUFIR/CRU).
+
+– Identificador registral.
+
+– Referencia catastral.
+
+– Importe de las cargas previas comprometidas con terceros.
+
+– Importe de la responsabilidad hipotecaria. Principal.
+
+– Importe de la responsabilidad hipotecaria. Intereses y costas.
+
+– Activos en garantía de financiaciones de promociones inmobiliarias.
+
+– Última tasación completa. Fecha de la última tasación.
+
+– Última tasación completa. Código de la sociedad de tasación o valoración.
+
+– Última tasación completa. Número de tasación.
+
+– Última tasación completa. Conforme a la Ley del Mercado Hipotecario.
+
+– Última tasación completa. Método de valoración (valor).
+
+– Última tasación completa. Condicionantes.
+
+– Última tasación completa. Advertencias.
+
+– Última tasación completa. Visita al interior del inmueble.
+
+– Última tasación completa. Tipo de datos utilizados de inmuebles comparables.
+
+– Última tasación completa. Método residual dinámico. Tipo de actualización (%).
+
+– Última tasación completa. Método residual dinámico. Tasa anualizada homogénea (%).
+
+– Última tasación completa. Método residual dinámico. Tasa anual media de variación del precio de mercado del activo (%). Importe positivo.
+
+– Última tasación completa. Método residual dinámico. Tasa anual media de variación del precio de mercado del activo (%). Importe negativo.
+
+– Última tasación completa. Método residual dinámico. Plazo máximo para finalizar la construcción (meses).
+
+– Última tasación completa. Método residual dinámico. Plazo máximo para finalizar la comercialización (meses).
+
+– Última tasación completa. Método residual estático. Margen de beneficio del promotor (%).
+
+– Última tasación completa. Valor de tasación.
+
+– Última tasación completa. Valor hipotecario.
+
+– Última tasación completa. Valor en hipótesis de edificio terminado.
+
+– Última tasación completa. Valor del terreno.
+
+– Última tasación por métodos estadísticos. Fecha de la tasación.
+
+– Última tasación por métodos estadísticos. Código de la sociedad de tasación o valoración.
+
+– Última tasación por métodos estadísticos. Número de tasación.
+
+– Última tasación por métodos estadísticos. Método de valoración.
+
+– Última tasación por métodos estadísticos. Valor de tasación.
+
+Parte 2. Datos adicionales para los edificios y elementos de edificios:
+
+– Fecha de la construcción.
+
+– Fecha de la última rehabilitación integral.
+
+– Estado de la construcción.
+
+– Licencia.
+
+– Vivienda habitual del prestatario.
+
+– Valor del terreno ajustado.
+
+– Número de viviendas.
+
+Parte 3. Datos adicionales para el suelo urbano y urbanizable:
+
+– Tipo de suelo.
+
+– Desarrollo del planeamiento.
+
+– Sistema de gestión.
+
+– Fase de gestión.
+
+– Paralización de la urbanización.
+
+– Porcentaje de la urbanización ejecutado (%).
+
+– Porcentaje del ámbito valorado (%).
+
+– Proximidad respecto del núcleo urbano.
+
+– Proyecto de obra.
+
+– Superficie del terreno (m<sup>2</sup>).
+
+– Aprovechamiento (m<sup>2</sup>).
+
+– Producto que se prevé desarrollar.
+
+Parte 4. Datos adicionales para las fincas rústicas:
+
+– Finca rústica con expectativas urbanísticas.
+
+Parte 5. Datos del valor de las garantías:
+
+– Valor de la garantía a efectos del cálculo del *loan to value.* Importe de la garantía.
+
+– Valor de la garantía a efectos del cálculo del *loan to value.* Forma de obtención.
+
+– Valor de la garantía a efectos del cálculo del deterioro. Importe de la garantía.
+
+– Valor de la garantía a efectos del cálculo del deterioro. Porcentaje de descuento (%).
+
+D.3 Datos básicos de los activos financieros recibidos en garantía
+
+– Código de la garantía recibida.
+
+– Código del emisor de los activos financieros recibidos en garantía.
+
+– Código del valor.
+
+– Cotización.
+
+– Nominal.
+
+D.4 Datos dinámicos que relacionan las operaciones con las garantías recibidas
+
+– Código de la operación.
+
+– Código de la garantía recibida.
+
+Parte 1. Datos para las operaciones garantizadas con inmuebles y activos financieros:
+
+– Importe de la garantía a efectos del cálculo del *loan to value* atribuido a la operación.
+
+Parte 2. Datos adicionales sobre las garantías de los préstamos a personas jurídicas.
+
+– Valor de la garantía asignado a la operación.
+
+– Derechos de cobro preferentes de terceros contra la garantía.
+
+D.5 Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía
+
+– Código de la garantía recibida.
+
+– Edificios en construcción o rehabilitación. Fecha del último grado de avance estimado.
+
+– Edificios en construcción o rehabilitación. Código de la sociedad de tasación o valoración que estimó el grado de avance.
+
+– Edificios en construcción o rehabilitación. Porcentaje construido (%).
+
+– Edificios en construcción o rehabilitación. Importe de los gastos de desarrollo.
+
+– Promociones inmobiliarias. Porcentaje de ventas formalizadas (%).
+
+– Promociones inmobiliarias. Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%).
+
+E. Datos sobre tipos de interés de los préstamos
+
+– Código de la operación.
+
+– Modalidad de tipo de interés.
+
+– Frecuencia de revisión del tipo de interés.
+
+– Tipo de referencia..
+
+– Tipo de referencia. Vencimiento..
+
+– Tipo de referencia sustitutivo.
+
+– Diferencial/margen del tipo de interés.
+
+– Signo del diferencial/margen del tipo de interés.
+
+– Tipo de interés máximo.
+
+– Tipo de interés mínimo.
+
+– Fecha final del período de solo interés.
+
+F. Datos de transferencias y titulizaciones sintéticas de activos financieros
+
+Parte 1. Datos que identifican las transferencias y titulizaciones sintéticas:
+
+– Código de la transferencia.
+
+– Código del cesionario o vendedor de protección.
+
+– Fecha de la transferencia.
+
+– Tipo de transferencia.
+
+– Forma jurídica de la transferencia.
+
+– Operaciones transferidas. Tratamiento contable.
+
+– Operaciones transferidas. Tratamiento a efectos de recursos propios.
+
+Parte 2. Datos que vinculan las transferencias y titulizaciones sintéticas con las operaciones:
+
+– Código de la transferencia.
+
+– Código de la operación transferida.
+
+– Porcentaje transferido de la operación (%).
+
+G. Datos que vinculan códigos
+
+– Tipo de código que se vincula.
+
+– Código que se vincula.
+
+– Tipo de vinculación.
+
+– Código REN de la entidad declarante del código vinculado.
+
+– Código vinculado.
+
+H. Información prudencial complementaria
+
+H.1 Datos contables de los préstamos
+
+– Código de la operación.
+
+– Clasificación contable de las operaciones.
+
+– Activos no corrientes en venta.
+
+– Reconocimiento en el balance.
+
+– Fallidos acumulados.
+
+– Importe del deterioro de valor acumulado.
+
+– Tipo de deterioro de valor.
+
+– Método de evaluación del deterioro de valor.
+
+– Fuentes de cargas.
+
+– Cambios acumulados en el valor razonable debidos al riesgo crediticio.
+
+– Clasificación de la operación en función del riesgo de crédito.
+
+– Fecha de la clasificación de la operación en función del riesgo de crédito.
+
+– Provisiones asociadas a exposiciones fuera de balance.
+
+– Estado de reestructuración o refinanciación y renegociación.
+
+– Fecha del estado de reestructuración o refinanciación y renegociación.
+
+– Importes recuperados acumulados desde la situación de impago.
+
+– Cartera prudencial.
+
+– Importe en libros.
+
+– Importe del riesgo no cubierto con garantías reales después de descuentos.
+
+H.2 Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas
+
+– Código de la persona.
+
+– Probabilidad de impago *(default*).
+
+H.3 Datos sobre la situación de impago *(default)* de los titulares de riesgo de los préstamos que sean personas jurídicas
+
+– Código de la persona.
+
+– Situación de impago *(default)* de la persona.
+
+– Fecha de la situación de impago *(default)* de la persona.
+
+I. Datos dinámicos sobre la actividad de las entidades sujetas a declaración reducida.
+
+Parte 1. Datos de los riesgos directos e indirectos:
+
+– Código de la operación.
+
+– Código del titular de riesgo.
+
+– Naturaleza de la intervención en la operación.
+
+– Tipo de producto.
+
+– Moneda.
+
+– Plazo residual.
+
+– Garantía real principal. Tipo de garantía real principal.
+
+– Garantía real principal. Cobertura de la garantía real principal.
+
+– Garantía personal principal. Tipo de garantía personal principal.
+
+– Garantía personal principal. Cobertura de la garantía personal principal.
+
+– Situación de la operación.
+
+– Garantía especial del Estado.
+
+– Modificación de los términos de las operaciones. Real Decreto-ley 34/2020.
+
+Parte 2. Datos de los riesgos directos:
+
+– Riesgo directo dispuesto. Total.
+
+– Riesgo directo dispuesto. Total. Del que: Importes vencidos.
+
+– Riesgo directo dispuesto. Total. Del que: Intereses de demora y gastos exigibles.
+
+– Riesgo directo disponible.
+
+Parte 3. Datos de los riesgos indirectos:
+
+– Riesgo indirecto dispuesto. Total.
+
+– Riesgo indirecto dispuesto. Total. Del que: Importes vencidos.
+
+– Riesgo indirecto dispuesto. Total. Del que: Intereses de demora y gastos exigibles.
+
+– Riesgo indirecto disponible.
+
+> Se modifica el módulo H.1 por la norma 2.a) de la Circular 1/2025, de 19 de diciembre de 2025. [Ref. BOE-A-2025-26847](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26847)
+
+> Se sustituye por el que se incluye como Anejo 1 según establece la norma única.11 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular; y la declaración de los nuevos requerimientos relativos al Código de Buenas Prácticas (Real decreto-ley 5/2021), así como la de los correspondientes a los avales del Real Decreto-ley 6/2022, en tanto que resulte aplicable.
+
+> Se sustituye por el que se incluye como Anejo 1 según establece la norma 1.h) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se sustituye por el que se incluye como Anejo 1 según establece la norma única.k) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifican los módulos C1, C2 y H1 por la norma 2.g) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se sustituye por el que se incluye como Anejo A según establece la norma única.14 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica la parte 5 del módulo D.2 por la Norma 4.a) de la Circular 4/2016, de 27 de abril. [Ref. BOE-A-2016-4356](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4356).
+
+> Se suprimen los módulos E, H e I por la norma 2.10 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modifican los módulos A.1, A.2, B.2, C.1, D.2, G.2, H.1 a H.5, I.1 e I.2 por la norma 3.8 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+> Se modifican los módulos D.2 y H.6 por la norma 2.7 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+## ANEJO 2 — Instrucciones para elaborar los módulos de datos
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_13.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_14.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_15.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_16.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_17.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_18.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_19.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_20.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_21.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_22.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_23.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_24.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_25.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_26.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_27.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_28.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_29.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_30.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_31.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_32.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_33.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_34.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_35.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_36.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_37.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_38.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_39.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_40.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_41.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_42.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_43.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_44.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_45.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_46.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_47.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_48.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_49.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_50.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_51.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_52.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_53.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_54.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_55.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_56.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_57.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_58.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_59.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_60.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_61.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_62.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_63.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_64.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_65.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_66.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_67.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_68.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_69.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_70.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_71.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_72.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_73.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_74.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_75.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_76.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_77.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_78.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_79.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_80.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_81.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_82.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_83.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_84.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/313/7662_12976654_85.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/313/7662_12976654_86.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_87.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_88.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_89.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/313/7662_12976654_90.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_91.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_92.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_93.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_94.png)
+
+> Se modifica el módulo H.1 por la norma 2.b) de la Circular 1/2025, de 19 de diciembre de 2025. [Ref. BOE-A-2025-26847](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26847)
+
+> Se sustituye por el que se incluye como Anejo 2 según establece la norma única.11 de la Circular de 17 de marzo de 2023. [Ref. BOE-A-2023-7662](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7662)
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
+
+> Se sustituye por el que se incluye como Anejo 2 según establece la norma 1.h) de la Circular 1/2021, de 28 de enero. [Ref. BOE-A-2021-1352](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1352)
+
+> Se sustituye por el que se incluye como Anejo 2 según establece la norma única.k) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifica por la norma 2.h) de la Circular de 21 de diciembre de 2018. [Ref. BOE-A-2018-17880](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17880)
+
+> Se sustituye por el que se incluye como Anejo A según establece la norma única.14 de la Circular de 30 de junio de 2017. [Ref. BOE-A-2017-7985](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7985)
+
+> Se modifica por la disposición final 2.b) y el anejo 3 de la Circular de 29 de noviembre de 2016. [Ref. BOE-A-2016-11483](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11483).
+
+> Se modifica la parte 5 del módulo D.2 por la Norma 4.b) de la Circular 4/2016, de 27 de abril. [Ref. BOE-A-2016-4356](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4356).
+
+> Se modifica el módulo B.2 parte 1 por la norma 2 de la Circular 4/2015, de 29 de julio. [Ref. BOE-A-2015-9107](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9107).
+
+> Se suprimen los módulos E, H e I y se modifican los módulos B.2 y G.2 por la norma 2.10 a 12 de la Circular 3/2015, de 29 de julio. [Ref. BOE-A-2015-9054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9054).
+
+> Se modifican los módulos A.1, A.2, B.1, B.2, C.1, D.2, G.1, G.2, H.1 a H.6, I.1 e I.2 por la norma 3.9 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+> Véase para la entrada en vigor de estas modificaciones la disposición final única.c) de la citada Circular.
+
+> Se modifican los módulos A.1, A.2, B.1, B.2, D.2, E, H.3, y H.6 por la norma 2.8 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+> Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 136, de 7 de junio de 2013. [Ref. BOE-A-2013-6046](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6046).
+
+## ANEJO 3 — Información de los riesgos que se facilitará a las entidades declarantes y a los intermediarios de crédito inmobiliario
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Dimensión</p>
+</td>
+<td>
+<p>Contenido</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Naturaleza de la intervención en la operación.</p>
+</td>
+<td>
+<p>Naturaleza con la que interviene el titular en la operación:</p>
+<p>– Titular de riesgo directo.</p>
+<p>– Garante.</p>
+<p>– Compromiso de firma en efectos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Solidario/colectivo.</p>
+</td>
+<td>
+<p>Indica si el titular participa de forma solidaria o colectiva (junto con otros socios colectivos o integrantes de agrupaciones de interés económico) en la operación:</p>
+<p>– Solidario (número de partícipes).</p>
+<p>– Colectivo (número de partícipes).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de producto.</p>
+</td>
+<td>
+<p>Tipo básico de producto al que pertenece la operación:</p>
+<p>– Crédito comercial con recurso.</p>
+<p>– Crédito comercial sin recurso.</p>
+<p>– Crédito financiero.</p>
+<p>– Arrendamiento financiero para el arrendatario.</p>
+<p>– Préstamos de recompra inversa.</p>
+<p>– Valor representativo de deuda.</p>
+<p>– Aval financiero.</p>
+<p>– Depósitos a futuro.</p>
+<p>– Avales y cauciones no financieros prestados.</p>
+<p>– Créditos documentarios irrevocables.</p>
+<p>– Disponible en otros compromisos.</p>
+<p>– Valores prestados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Moneda.</p>
+</td>
+<td>
+<p>Moneda en la que está denominada la operación:</p>
+<p>– Euro.</p>
+<p>– Libra esterlina.</p>
+<p>– Corona sueca.</p>
+<p>– Corona danesa.</p>
+<p>– Corona noruega.</p>
+<p>– Dólar USA.</p>
+<p>– Dólar canadiense.</p>
+<p>– Yen.</p>
+<p>– Franco suizo.</p>
+<p>– Otras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plazo residual.</p>
+</td>
+<td>
+<p>Plazo entre la fecha a la que se refiere la declaración y la de vencimiento de la operación:</p>
+<p>– Hasta tres meses.</p>
+<p>– Más de tres meses y hasta un año.</p>
+<p>– Más de un año y hasta cinco años.</p>
+<p>– Más de cinco años.</p>
+<p>– Vencimiento indeterminado.</p>
+<p>– No aplicable.</p>
+<p>Cuando la «Naturaleza de la intervención en la operación» del titular sea «Compromiso de firma en efectos», se indicará el valor No aplicable» en esta dimensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Garantía real principal.</p>
+<p>Tipo de garantía real principal.</p>
+</td>
+<td>
+<p>Tipo de garantía real que cubre las operaciones:</p>
+<p>– Sin garantía real.</p>
+<p>– Hipoteca inmobiliaria.</p>
+<p>– Garantía pignoraticia (activos financieros).</p>
+<p>– Resto de las garantías reales.</p>
+<p>– No aplicable.</p>
+<p>Cuando la «Naturaleza de la intervención en la operación» del titular sea «Compromiso de firma en efectos», se informará el valor «No aplicable» en esta dimensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Garantía real principal.</p>
+<p>Cobertura de la garantía real principal.</p>
+</td>
+<td>
+<p>Para el tipo de garantía de la dimensión «Tipo de garantía real principal», indica si la cobertura es:</p>
+<p>– Total.</p>
+<p>– Parcial.</p>
+<p>– No aplicable.</p>
+<p>Cuando la «Naturaleza de la intervención en la operación» del titular sea «Compromiso de firma en efectos», se informará el valor «No aplicable» en esta dimensión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Garantía personal principal.</p>
+<p>Tipo de garantía personal principal.</p>
+</td>
+<td>
+<p>Tipo de garantía personal, adicional a la de los titulares del riesgo directo, con la que cuente la operación facilitada por garantes, salvo que la garantía sea sin conocimiento del titular, o comprometida en los efectos en los que se instrumente la operación:</p>
+<p>– Garantía de Administraciones Públicas.</p>
+<p>– Garantía de CESCE o empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito.</p>
+<p>– Garantía de entidad declarante a la CIR.</p>
+<p>– Resto de las garantías personales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Garantía personal principal.</p>
+<p>Cobertura de la garantía personal principal.</p>
+</td>
+<td>
+<p>Para el tipo de garantía de la dimensión «Tipo de garantía personal principal», indica si la cobertura es:</p>
+<p>– Total.</p>
+<p>– Parcial.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Situación de la operación.</p>
+</td>
+<td>
+<p>Situación que corresponde a los importes que se informan<em>:</em></p>
+<p>– Operación en suspenso.</p>
+<p>– Operaciones con incumplimientos de más de cuatro años.</p>
+<p>– Operaciones con incumplimientos de entre más de 90 días y hasta cuatro años.</p>
+<p>– Operación incluida en un convenio de acreedores.</p>
+<p>– Operación reestructurada o reunificada al amparo del Real Decreto-ley 6/2012.</p>
+<p>– Operación de refinanciación, refinanciada o reestructurada fuera del Real Decreto-ley 6/2012.</p>
+<p>– No aplicable.</p>
+<p>Cuando la «Naturaleza de la intervención en la operación» del titular sea «Compromiso de firma en efectos», se indicará el valor «No aplicable» en esta dimensión.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Importes: Riesgos directos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riesgo dispuesto:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Total.</p>
+</td>
+<td>
+<p>Importe del riesgo correspondiente a principal vencido o no, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Del que: Importes vencidos.</em>
+</p>
+</td>
+<td>
+<p>Importe del riesgo correspondiente a principal vencido, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Del que: Intereses de demora y gastos exigibles.</em>
+</p>
+</td>
+<td>
+<p>Importe del riesgo correspondiente a intereses de demora y gastos exigibles pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riesgo disponible.</p>
+</td>
+<td>
+<p>Importe del riesgo disponible, tanto con disponibilidad inmediata como condicionada.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Importes: Riesgos indirectos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riesgo dispuesto:</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Total.</p>
+</td>
+<td>
+<p>Importe total del riesgo dispuesto garantizado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Del que: Importes vencidos.</em>
+</p>
+</td>
+<td>
+<p>Importe del riesgo dispuesto garantizado vencido cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Del que: Intereses de demora y gastos exigibles.</em>
+</p>
+</td>
+<td>
+<p>Importe del riesgo dispuesto garantizado correspondiente a intereses de demora y gastos pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riesgo disponible.</p>
+</td>
+<td>
+<p>«Riesgo máximo garantizado» menos «Riesgo dispuesto garantizado».</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se sustituye por el que se incluye como Anejo 3 según establece la norma única.k) de la Circular 1/2020, de 28 de enero. [Ref. BOE-A-2020-1653](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1653)
+
+> Se modifica por la disposición final 2.b) y el anejo 3 de la Circular de 29 de noviembre de 2016. [Ref. BOE-A-2016-11483](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11483).
+
+> Se modifica por la norma 3.10 de la Circular 5/2014, de 28 de noviembre. [Ref. BOE-A-2014-13365](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13365).
+
+> Se modifica por la norma 2.9 de la Circular 5/2013, de 30 de octubre. [Ref. BOE-A-2013-11729](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11729).
+
+## ANEJOS DE LA CIRCULAR 4/2004
+
+**ESTADO M.10-1**
+
+DETALLE DE VALORES
+
+DATOS DE EMISORES (a)
+
+| Código del emisor | Nombre | Sector | Actividad económica | Parte vinculada | Situación de la persona | Forma social | Tamaño de la empresa |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
+
+(a) Los datos de este estado se informarán al Banco de España utilizando el procedimiento de declaración del módulo A.1, Datos que identifican a las personas, de la Circular sobre la Central de Información de Riesgos, para declarar la información correspondiente a las personas jurídicas que hayan emitido valores para los que se informen datos a final de mes en los estados M.10-2, 3 y 4, excepto si la entidad los tiene ya declarados al Banco de España por este u otros motivos, en cuyo caso no será necesario declararlos de nuevo, salvo que sea preciso completar o actualizar los datos previamente declarados. Los valores que se pueden declarar en las diferentes columnas de este estado son los mismos que se pueden declarar para las dimensiones de idéntico nombre del citado módulo A.1.
+
+**ESTADO M.10-2**
+
+DETALLE DE VALORES
+
+DATOS DE VALORES REPRESENTATIVOS DE DEUDA PROPIEDAD DE LA ENTIDAD (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td colspan="9">
+<p>DATOS DE LOS VALORES</p>
+</td>
+<td colspan="3">
+<p>SALDOS A FIN DE MES</p>
+</td>
+<td colspan="2">
+<p>VARIACIÓN EN EL MES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código del emisor</p>
+</td>
+<td>
+<p>Código del valor</p>
+</td>
+<td>
+<p>Tipo de producto</p>
+</td>
+<td>
+<p>Localización de la actividad (país de la operación)</p>
+</td>
+<td>
+<p>Moneda</p>
+</td>
+<td>
+<p>Cotización</p>
+</td>
+<td>
+<p>Cartera contable</p>
+</td>
+<td>
+<p>Jerarquía</p>
+<p>del valor razonable</p>
+</td>
+<td>
+<p>Entidad depositaria</p>
+</td>
+<td>
+<p>Nominal</p>
+</td>
+<td>
+<p>Valor razonable</p>
+</td>
+<td>
+<p>Valor contable (excluidos ajustes por valoración)</p>
+</td>
+<td>
+<p>Saneamiento directo de activos en el mes</p>
+</td>
+<td>
+<p>Intereses cobrados en el mes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(b)</p>
+</td>
+<td>
+<p>(c)</p>
+</td>
+<td>
+<p>(d)</p>
+</td>
+<td>
+<p>(e)</p>
+</td>
+<td>
+<p>(f)</p>
+</td>
+<td>
+<p>(g)</p>
+</td>
+<td>
+<p>(h)</p>
+</td>
+<td>
+<p>(i)</p>
+</td>
+<td>
+<p>(j)</p>
+</td>
+<td>
+<p>(k)</p>
+</td>
+<td>
+<p>(l)</p>
+</td>
+<td>
+<p>(m)</p>
+</td>
+<td>
+<p>(n)</p>
+</td>
+<td>
+<p>(o)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado con información sobre valores representativos de deuda (en adelante, valores) lo tienen que enviar las entidades que:
+
+– Sean propietarias de valores a final de mes.
+
+– Hubiesen cobrado intereses o saneado los valores durante el mes, aunque la entidad no tenga registrado en el activo ningún importe para ellos a final de mes, porque se hubiesen dado de baja íntegramente por amortización, venta o deterioro.
+
+Los valores que declarar incluyen los emitidos por las sociedades y fondos de titulización a los que la entidad haya transferido activos financieros, aunque los deduzca del pasivo de su balance, así como los calificados como “Activos no corrientes en venta”. No se tienen que declarar los clasificados contablemente como fallidos.
+
+Para los valores con saldo vivo a final de mes, se declararán datos en todas las columnas.
+
+Para los valores sin saldo vivo a final de mes, se declararán exclusivamente las columnas: “Código del emisor”, “Código del valor”, “Tipo de producto”, “Localización de la actividad (país de la operación)”, “Moneda”, “Cotización”, “Cartera contable”, “Saneamiento directo de activos en el mes” e “Intereses cobrados en el mes”.
+
+Los importes, incluso los correspondientes a valores denominados en una moneda distinta del euro, se declararán en unidades de euros.
+
+(b) Código que identifica al emisor de los valores en el estado M.10-1.
+
+(c) Es el código ISIN que tenga asignado el valor o, si no tiene dicho código, el que utilice la entidad para identificarlo internamente.
+
+Este código será idéntico al que se utilice para identificar el valor en la restante información sobre valores que se reporte al Banco de España.
+
+Este código se debe mantener invariable durante la vida de la operación, salvo que se asigne con posterioridad un código ISIN al valor o por razones administrativas fuese necesario modificarlo, y no se podrá reutilizar en el futuro.
+
+Si fuese necesario modificar el código asignado al valor, la entidad deberá comunicar la modificación al Banco de España vinculando el nuevo código con el previo conforme a lo dispuesto en la Circular sobre la Central de Información de Riesgos.
+
+(d) Tipo de producto según la siguiente tipología:
+
+– Cédulas territoriales
+
+– Cédulas hipotecarias
+
+– Bonos hipotecarios
+
+– Bonos de titulización hipotecarios
+
+– Bonos de titulización de activos
+
+– Bonos y obligaciones convertibles en acciones
+
+– Valores representativos de deuda híbridos
+
+– Participaciones preferentes
+
+– Resto de bonos y obligaciones
+
+– Principales segregados de bonos y obligaciones
+
+– Cupones segregados de bonos y obligaciones
+
+– Pagarés de titulización
+
+– Resto de pagarés y valores emitidos al descuento
+
+(e) Código ISO alfabético del país en el que esté radicada la sucursal en la que esté registrada contablemente la operación.
+
+Cuando la operación esté registrada en España, se declara ES.
+
+(f) Código ISO de tres letras de la moneda en la que está denominado el valor.
+
+(g) Indica si los valores cotizan o no en un mercado regulado:
+
+– Valor cotizado, con mercado activo
+
+– Valor cotizado, sin mercado activo
+
+– Valor no cotizado, con ISIN
+
+– Valor no cotizado, sin ISIN
+
+La definición de mercado activo es la que se utilice a efectos de la elaboración de la información financiera conforme a lo dispuesto en la normativa contable.
+
+(h) Cartera en la que está clasificado el valor a efectos de valoración en el balance, con independencia de que se presente como un activo no corriente en venta:
+
+– Cartera de negociación
+
+– Otros activos financieros a valor razonable con cambios en pérdidas y ganancias
+
+– Activos financieros disponibles para la venta
+
+– Inversiones crediticias
+
+– Cartera de inversión a vencimiento
+
+– Deducción del pasivo: se utiliza para los valores emitidos por sociedades o fondos de titulización que se deduzcan del pasivo del balance de la entidad declarante.
+
+– No aplicable: se utiliza cuando los valores se declaren en el mes exclusivamente porque se hayan cobrado intereses o realizado saneamientos, sin que se tenga registrado en el activo ningún importe para ellos a final de mes.
+
+(i) Jerarquía del valor razonable asignado a los valores:
+
+– Nivel 1: instrumentos financieros cuyo valor razonable se obtiene de precios cotizados en mercados activos para el mismo instrumento; es decir, sin modificar o reorganizar de diferente forma.
+
+– Nivel 2: instrumentos financieros cuyo valor razonable se obtiene de precios cotizados en mercados activos para instrumentos similares u otras técnicas de valoración en las que todos los *inputs*significativos están basados en datos de mercado observables.
+
+– Nivel 3: instrumentos financieros cuyo valor razonable se obtiene de técnicas de valoración en las que algún*input* significativo no está basado en datos de mercado observables.
+
+(j) Entidad en la que están depositados los valores:
+
+– Propia entidad
+
+– Otra entidad residente en España
+
+– Entidad no residente en España
+
+(k) Nominal de los valores propiedad de la entidad a final de mes.
+
+(l) Valor razonable de los valores existentes a final de mes con independencia de si cotizan o no.
+
+(m) Importe por el que están registrados los valores en el activo excluidos los ajustes por valoración que se presenten de forma separada en el balance reservado. Para los valores emitidos por sociedades o fondos de titulización deducidos del pasivo, importe sin signo que se deduzca del pasivo.
+
+(n) Importe de los valores que se ha dado de baja del activo en el mes para corregir deterioros de valor, contabilizándolo directamente en la cuenta de pérdidas y ganancias o mediante la dotación de una cobertura que se utiliza en el mismo mes para dar de baja los valores del activo. Por tanto, este importe no está registrado a final de mes en la correspondiente partida de “Correcciones de valor por deterioro de activos”.
+
+(o) Importe de los intereses cobrados en el mes, incluido el correspondiente a los valores que se hubiesen dado de baja del activo en el propio mes.
+
+**ESTADO M.10-3**
+
+DETALLE DE VALORES
+
+DATOS DE INSTRUMENTOS DE PATRIMONIO PROPIEDAD DE LA ENTIDAD (a)
+
+(unidades de euros)
+
+<table>
+<thead>
+<tr>
+<th colspan="9">
+<p>DATOS DE LOS VALORES</p>
+</th>
+<th colspan="6">
+<p>SALDOS A FIN DE MES</p>
+</th>
+<th colspan="5">
+<p>VARIACIÓN EN EL MES</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Código del emisor</p>
+</th>
+<th>
+<p>Código del valor</p>
+</th>
+<th>
+<p>Tipo</p>
+<p>de producto</p>
+</th>
+<th>
+<p>Locali-</p>
+<p>zación de la actividad</p>
+<p>(país de la operación)</p>
+</th>
+<th>
+<p>Mone-</p>
+<p>da</p>
+</th>
+<th>
+<p>Cotiza-</p>
+<p>ción</p>
+</th>
+<th>
+<p>Cartera contable</p>
+</th>
+<th>
+<p>Jerarquía del valor razonable</p>
+</th>
+<th>
+<p>Entidad deposi-</p>
+<p>taria</p>
+</th>
+<th>
+<p>Nomi-</p>
+<p>nal</p>
+</th>
+<th>
+<p>Valor razo-</p>
+<p>nable</p>
+</th>
+<th>
+<p>Valor contable (excluidos ajustes por valoración)</p>
+</th>
+<th>
+<p>Coste de adquisi-</p>
+<p>ción</p>
+</th>
+<th>
+<p>N.º</p>
+<p>de títulos</p>
+</th>
+<th>
+<p>Porcentaje</p>
+<p>de partici-</p>
+<p>pación</p>
+<p>en el</p>
+<p>capital</p>
+<p>(%)</p>
+</th>
+<th>
+<p>Saneamiento directo de activos</p>
+<p>en el mes</p>
+</th>
+<th>
+<p>Divi-</p>
+<p>dendos cobrados</p>
+<p>en el mes</p>
+</th>
+<th>
+<p>Importe de las compras en el mes</p>
+</th>
+<th>
+<p>Importe de las ventas en el mes</p>
+</th>
+<th>
+<p>Aportaciones</p>
+<p>a la participada</p>
+<p>para cubrir pérdidas en el mes</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>(b)</p>
+</th>
+<th>
+<p>(c)</p>
+</th>
+<th>
+<p>(d)</p>
+</th>
+<th>
+<p>(e)</p>
+</th>
+<th>
+<p>(f)</p>
+</th>
+<th>
+<p>(g)</p>
+</th>
+<th>
+<p>(h)</p>
+</th>
+<th>
+<p>(i)</p>
+</th>
+<th>
+<p>(j)</p>
+</th>
+<th>
+<p>(k)</p>
+</th>
+<th>
+<p>(l)</p>
+</th>
+<th>
+<p>(m)</p>
+</th>
+<th>
+<p>(n)</p>
+</th>
+<th>
+<p>(o)</p>
+</th>
+<th>
+<p>(p)</p>
+</th>
+<th>
+<p>(q)</p>
+</th>
+<th>
+<p>(r)</p>
+</th>
+<th>
+<p>(s)</p>
+</th>
+<th>
+<p>(t)</p>
+</th>
+<th>
+<p>(u)</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado con información sobre instrumentos de capital y otros instrumentos de patrimonio diferentes del capital (en adelante, valores), incluidos los calificados como activos no corrientes en venta y los emitidos por la propia entidad (conocidos como autocartera), lo tienen que enviar las entidades que:
+
+– Sean propietarias de valores a final de mes.
+
+– Hubiesen cobrado dividendos o saneado o vendido los valores durante el mes, aunque la entidad no tenga registrado en el activo ningún importe para ellos a final de mes, porque se hubiesen dado de baja íntegramente por venta o deterioro.
+
+Para los valores con saldo vivo a final de mes, se declararán los datos de todas las columnas que les correspondan. Para los valores sin saldo vivo a final de mes, se declararán exclusivamente las columnas: “Código de emisor”, “Código de valor”, “Tipo de producto”, “Localización de la actividad (país de la operación)”, “Moneda”, “Cotización”, “Cartera contable”, “Saneamiento directo de activos en el mes”, “Dividendos cobrados en el mes”, “Importe de las compras en el mes” e “Importe de las ventas en el mes”.
+
+Los importes, incluso los correspondientes a valores denominados en una moneda distinta del euro, se declararán en unidades de euros.
+
+(b) Código que identifica al emisor de los valores en el estado M.10-1.
+
+(c) Misma definición que en el estado M.10-2.
+
+(d) Tipo de producto según la siguiente tipología:
+
+– Instrumentos de capital: instrumentos financieros, tales como acciones y participaciones, que tengan la naturaleza de instrumentos de capital para el emisor, incluidas las participaciones en entidades del grupo, multigrupo y asociadas, así como las participaciones en fondos de inversión.
+
+– Instrumentos de patrimonio diferentes de los instrumentos de capital: instrumentos financieros que, teniendo la consideración de patrimonio neto según la normativa contable aplicable a las entidades de crédito, no se puedan registrar en el balance del emisor como capital.
+
+(e) Código ISO alfabético del país en el que esté radicada la sucursal en la que esté registrada contablemente la operación. Cuando la operación esté registrada en España, se declara ES.
+
+(f) Código ISO de tres letras de la moneda en la que está denominado el valor.
+
+(g) Mismas definiciones y valores que en el estado M.10-2.
+
+(h) Cartera en la que está clasificado el valor a efectos de valoración en el balance, con independencia de que se presente como un activo no corriente en venta:
+
+– Cartera de negociación
+
+– Otros activos financieros a valor razonable con cambios en pérdidas y ganancias
+
+– Activos financieros disponibles para la venta
+
+– Participaciones
+
+– Deducción del patrimonio neto: se utiliza para los instrumentos de patrimonio emitidos por la propia entidad (autocartera)
+
+– No aplicable: se utiliza cuando los valores se declaren en el mes exclusivamente porque se hayan cobrado dividendos o realizado ventas o saneamientos, sin que se tenga registrado en el activo ningún importe para ellos a final de mes
+
+(i) Mismas definiciones y valores que en el estado M.10-2.
+
+(j) Mismas definiciones y valores que en el estado M.10-2.
+
+(k) Nominal de los valores propiedad de la entidad a final de mes.
+
+(l) Valor razonable de los valores existentes a final de mes con independencia de si cotizan o no.
+
+(m) Importe por el que están registrados los valores en el activo excluidos los ajustes por valoración que se presenten de forma separada en el balance reservado. Para los instrumentos de capital emitidos por la propia entidad (autocartera), importe sin signo que se deduzca del patrimonio neto.
+
+(n) Importe del coste por el que se registraron los valores en el activo en la fecha en la que se adquirieron menos, en su caso, el importe acumulado de los saneamientos realizados desde la fecha de adquisición que no estén registrados como correcciones de valor. En caso de compraventa de valores, el importe será el coste medio ponderado.
+
+(o) Número de títulos propiedad de la entidad a final de mes.
+
+(p) Para los instrumentos de capital propiedad de la entidad a final de mes, excepto la autocartera y los que estén incluidos en la cartera de negociación, porcentaje (con dos decimales) que representa el nominal propiedad de la entidad sobre el capital de la entidad emisora. Para el resto de los valores no se facilitará dato.
+
+(q) Importe de los valores que se ha dado de baja del activo en el mes para corregir deterioros de valor, contabilizándolo directamente en la cuenta de pérdidas y ganancias o mediante la dotación de una cobertura que se utiliza en el mismo mes para dar de baja los valores del activo. Por tanto, este importe no está registrado a final de mes en la correspondiente partida de “Correcciones de valor por deterioro de activos”.
+
+(r) Importe de los dividendos cobrados en el mes, incluido el correspondiente a los valores que se hubiesen dado de baja en el propio mes.
+
+(s) Importe total pagado por los valores comprados en el mes.
+
+(t) Importe total cobrado por los valores vendidos en el mes.
+
+(u) Importe de las aportaciones realizadas a la participada en el mes para cubrir pérdidas.
+
+**ESTADO M.10-4**
+
+DETALLE DE VALORES
+
+DATOS DE OTRAS OPERACIONES CON VALORES (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p>DATOS DE LOS VALORES</p>
+</td>
+<td colspan="4">
+<p>DATOS DE LAS OPERACIONES CON VALORES</p>
+</td>
+<td colspan="2">
+<p>SALDOS A FIN DE MES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Código</p>
+<p>del emisor</p>
+</td>
+<td rowspan="2">
+<p>Código del valor</p>
+</td>
+<td rowspan="2">
+<p>Tipo de producto</p>
+</td>
+<td rowspan="2">
+<p>Cotización</p>
+</td>
+<td rowspan="2">
+<p>Tipo de producto</p>
+</td>
+<td rowspan="2">
+<p>Localización de la actividad</p>
+<p>(país de la operación)</p>
+</td>
+<td rowspan="2">
+<p>Sector de la contraparte de la operación</p>
+</td>
+<td rowspan="2">
+<p>País de residencia de la contraparte de la operación</p>
+</td>
+<td>
+<p>VALORES</p>
+</td>
+<td>
+<p>OPERACIONES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nominal</p>
+</td>
+<td>
+<p>Valor contable (excluidos ajustes por valoración)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(b)</p>
+</td>
+<td>
+<p>(c)</p>
+</td>
+<td>
+<p>(d)</p>
+</td>
+<td>
+<p>(e)</p>
+</td>
+<td>
+<p>(f)</p>
+</td>
+<td>
+<p>(g)</p>
+</td>
+<td>
+<p>(h)</p>
+</td>
+<td>
+<p>(i)</p>
+</td>
+<td>
+<p>(j)</p>
+</td>
+<td>
+<p>(k)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado lo tienen que enviar las entidades de crédito que, a final de mes, tengan valores representativos de deuda o instrumentos de patrimonio (en adelante, valores) adquiridos temporalmente, recibidos en préstamo, prestados, cedidos temporalmente o para los que mantengan posiciones cortas, incluidos los calificados como activos no corrientes en venta o pasivos asociados con dichos activos, así como para aquellos que hubiesen entregado o recibido en garantía de préstamos de valores.
+
+Cada “Código de valor” se comunicará tantas veces como corresponda como consecuencia de la combinación de los valores de las diferentes dimensiones para los que la entidad tenga importes declarables a final de mes.
+
+Los importes, incluso los correspondientes a valores denominados en una moneda distinta del euro, se declararán en unidades de euros.
+
+(b) Código que identifica al emisor de los valores en el estado M.10-1.
+
+(c) Misma definición que en el estado M.10-2.
+
+(d) Tipo de producto objeto de la operación:
+
+– Cédulas territoriales
+
+– Cédulas hipotecarias
+
+– Bonos hipotecarios
+
+– Bonos de titulización hipotecarios
+
+– Bonos de titulización de activos
+
+– Bonos y obligaciones convertibles en acciones
+
+– Valores representativos de deuda híbridos
+
+– Participaciones preferentes
+
+– Resto de bonos y obligaciones
+
+– Principales segregados de bonos y obligaciones
+
+– Cupones segregados de bonos y obligaciones
+
+– Pagarés de titulización
+
+– Resto de pagarés y valores emitidos al descuento
+
+– Instrumentos de capital
+
+– Instrumentos de patrimonio diferentes de los instrumentos de capital
+
+La asignación de los valores anteriores se hará aplicando los mismos criterios que en los estados M.10-2 y M.10-3.
+
+(e) Mismas definiciones y valores que en el estado M.10-2.
+
+(f) Indica el tipo de operación que se declara:
+
+– Adquisiciones temporales de activos: préstamos concedidos a cambio de valores adquiridos temporalmente mediante una compra con retrocesión no opcional, así como importes entregados como garantía en efectivo de valores recibidos en préstamo. Incluye tanto las operaciones que se formalizan como simultáneas como las que se instrumentan como *repos.*
+
+– Valores recibidos en préstamo: valores recibidos en una operación de préstamo de valores en la que la entidad declarante obtiene la plena titularidad de los valores con el compromiso de devolver otros de la misma clase que los recibidos, sin efectuar ningún desembolso, salvo el pago de comisiones. No incluye las operaciones en las que la entidad declarante deba depositar una fianza dineraria, que se tratan como adquisiciones temporales de activos, ni las operaciones en las que la entidad reciba valores como garantía de valores prestados.
+
+– Valores entregados en garantía de préstamos de valores: valores que la entidad declarante entrega a la contraparte de un préstamo de valores como garantía de los valores recibidos en préstamo. Estos valores normalmente tendrán un valor razonable mayor que el de los valores recibidos en préstamo.
+
+– Cesiones temporales de activos: depósitos recibidos por la entidad en los que transfiere temporalmente valores propiedad de la entidad, adquiridos temporalmente o recibidos en préstamo mediante una venta con retrocesión no opcional, así como depósitos recibidos como garantía en efectivo de valores prestados. Se considerará pacto de retrocesión no opcional, cualquiera que sea la forma de su instrumentación, aquella operación por la que vendedor y comprador quedan comprometidos a la recompra por el primero de los mismos activos u otros tantos de la misma clase.
+
+– Las cesiones temporales incluyen tanto las que se formalizan como simultáneas como las que se instrumentan como repos.
+
+– Valores prestados: operaciones de préstamos de valores en las que la entidad declarante cede al prestatario la plena titularidad de unos valores con el compromiso de este último de devolver otros de la misma clase de los recibidos, sin que se efectúe ningún desembolso, salvo el cobro de comisiones. Cuando en una operación de préstamo de valores ambas entidades intercambien valores, se considerará entidad prestamista la que cobre las comisiones.
+
+– Valores recibidos en garantía de préstamos de valores: valores entregados a la entidad declarante como garantía por la contraparte de un préstamo de valores; es decir, por quien paga las comisiones de la operación. Estos valores normalmente tendrán un valor razonable mayor que el de los valores prestados.
+
+– Posiciones cortas. Activos adquiridos temporalmente: pasivos financieros originados por la venta en firme de valores adquiridos temporalmente.
+
+– Posiciones cortas. Activos recibidos en préstamo: pasivos financieros originados por la venta en firme de valores recibidos en préstamo.
+
+(g) Código ISO alfabético del país en el que esté radicada la sucursal en la que esté registrada contablemente la operación con los valores. Cuando la operación esté registrada en España, se declara ES.
+
+(h) Sector de la contraparte con la que se realiza la operación con los valores. Los valores que declarar en esta columna son los mismos que en la dimensión “Sector” del módulo A.1 de la Circular sobre la Central de Información de Riesgos. Para las “Posiciones cortas”, no se declara ningún valor en esta columna.
+
+(i) Código ISO alfabético del país de residencia de la contraparte con la que se realiza la operación con los valores. Para las “Posiciones cortas”, no se declara ningún valor en esta columna.
+
+(j) Para los valores objeto de las operaciones declaradas, importe nominal acumulado de las transacciones declaradas conjuntamente.
+
+(k) Para las adquisiciones y cesiones temporales, importe por el que están registradas en el balance excluidos los ajustes por valoración que se presenten de forma separada en el balance reservado. Para las posiciones cortas, valor por el que están registradas en el pasivo del balance reservado. Para los valores prestados y los entregados en garantía de préstamos de valores, importe por el que están registrados los valores prestados o entregados en el activo del balance. Para los valores recibidos en préstamo y los recibidos en garantía de préstamos de valores, valor razonable a la fecha a la que se refieren los datos.
+
+**ESTADO M.11-1**
+
+DATOS BÁSICOS DE ACTIVOS ADJUDICADOS O RECIBIDOS EN PAGO DE DEUDAS
+
+DATOS BÁSICOS DE ADJUDICACIONES
+
+M.11-1.1 DATOS DEL EXPEDIENTE DE ADJUDICACIÓN (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del expediente de adjudicación</p>
+</td>
+<td rowspan="2">
+<p>Fecha de la adjudicación</p>
+</td>
+<td colspan="3">
+<p>DATOS DE LA DEUDA CANCELADA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código de la operación</p>
+</td>
+<td>
+<p>Importe bruto</p>
+</td>
+<td>
+<p>Correcciones de valor por deterioro de activos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(b)</p>
+</td>
+<td>
+<p>(c)</p>
+</td>
+<td>
+<p>(d)</p>
+</td>
+<td>
+<p>(e)</p>
+</td>
+<td>
+<p>(f)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+M.11-1.2 RELACIÓN ENTRE EL EXPEDIENTE DE ADJUDICACIÓN Y LOS ACTIVOS ADJUDICADOS (g)
+
+| Código del expediente de adjudicación<br>(b) | Código del activo adjudicado<br>(h) |
+|---|---|
+|  |  |
+
+(a) Este estado lo tienen que enviar las entidades en el mes en el que reciban inmuebles o instrumentos de capital no cotizados en un mercado activo para la cancelación, total o parcial, de una o más operaciones de crédito, incluidas las correspondientes a sus sociedades instrumentales españolas, aunque estén registrados contablemente en otras entidades del mismo grupo económico, con independencia de cómo hayan adquirido la propiedad y de la partida de balance en la que estén registrados contablemente, excepto los clasificados como activo material de uso propio. Los datos se actualizarán cuando se modifiquen.
+
+Todas las transacciones de esta naturaleza se tienen que dar de alta en este estado, aunque no figuren a final de mes saldos registrados en el activo.
+
+Cuando se produce la venta parcial de un activo, los importes declarados se actualizarán para reducirlos en el porcentaje que representen los activos vendidos sobre los activos registrados con anterioridad a la venta.
+
+(b) Código que identifica al expediente por el que se adjudica o recibe en pago de deudas un activo o conjunto de activos para cancelar, total o parcialmente, una o varias operaciones, siempre que los activos recibidos sean inmuebles o instrumentos de capital no cotizados en un mercado activo. Cuando con el mismo expediente se cancelan varias operaciones, se vinculará en este módulo el código del expediente con cada uno de los códigos de las operaciones cuya deuda se ha cancelado total o parcialmente. Si fuese necesario modificar este código, la entidad deberá comunicar la modificación al Banco de España vinculando el nuevo código con el previo conforme a lo dispuesto en la Circular sobre la Central de Información de Riesgos.
+
+(c) Fecha en la que se adquiere la propiedad del activo o activos adjudicados conjuntamente.
+
+(d) Código de la operación cuya deuda se ha cancelado, total o parcialmente, con el activo adjudicado o recibido en pago de deuda. Cuando la fecha de adjudicación del activo sea anterior a 1 de octubre de 2015, el código de la operación se dejará en blanco y el importe y las correcciones de valor de las operaciones cuya deuda se hubiera cancelado con el mismo expediente se declararán agregados.
+
+(e) Importe bruto de los activos financieros representativos de los derechos de cobro cancelados en el momento de la adjudicación o recepción en pago de deuda, es decir, antes de deducir las correcciones de valor por deterioro de activos que estuviesen constituidas a dicha fecha.
+
+(f) Importe de la cobertura constituida por la entidad para la deuda inicial a la fecha de adjudicación o recepción de los activos.
+
+(g) Este estado se enviará en el mes en el que la entidad se adjudique o reciba activos en pago, total o parcial, de operaciones para vincular el código del expediente de adjudicación con el código o códigos de los activos que se aportan para cancelar, total o parcialmente, el importe de las deudas.
+
+En el mes en el que se segregue una finca previamente declarada, se dará de baja el código de la finca segregada y se darán de alta las fincas en las que se haya segregado.
+
+(h) Código que identifica en el estado M.11-2 o M.11-3 cada uno de los activos adjudicados o recibidos en pago, total o parcial, de deudas que se gestionan con el mismo código de expediente. Cuando los activos adjudicados o recibidos en pago de deudas estén declarados en la Central de Información de Riesgos como activos recibidos en garantía, el código del activo adjudicado coincidirá con el código con el que se hubiese declarado cuando era una garantía recibida. Cuando se trate de un único activo, este código puede coincidir con el del expediente.
+
+**ESTADO M.11-2**
+
+DATOS BÁSICOS DE ACTIVOS ADJUDICADOS O RECIBIDOS EN PAGO DE DEUDAS
+
+DATOS BÁSICOS DE INMUEBLES (a)
+
+M.11-2.1 DATOS PARA LOS INMUEBLES
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p>Código</p>
+<p>del activo adjudicado</p>
+<p>(b)</p>
+</td>
+<td colspan="7">
+<p>IDENTIFICACIÓN DEL INMUEBLE</p>
+</td>
+<td rowspan="3">
+<p>Importe de las cargas previas comprometidas con terceros</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Tipo de activo</p>
+</td>
+<td colspan="2">
+<p>Localización del inmueble</p>
+</td>
+<td rowspan="2">
+<p>Inmueble integrado</p>
+<p>por varias fincas</p>
+</td>
+<td rowspan="2">
+<p>Identificador Único</p>
+<p>de Finca Registral (IDUFIR)</p>
+</td>
+<td rowspan="2">
+<p>Identificador registral</p>
+</td>
+<td rowspan="2">
+<p>Referencia</p>
+<p>catastral</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>País</p>
+</td>
+<td>
+<p>Código postal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**M.11-2.1 (cont.) DATOS PARA LOS INMUEBLES**
+
+<table>
+<thead>
+<tr>
+<th colspan="19">
+<p>
+<strong>ÚLTIMA TASACIÓN COMPLETA</strong>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="2">
+<p>Fecha de la última tasación</p>
+</th>
+<th rowspan="2">
+<p>Código</p>
+<p>de la</p>
+<p>sociedad</p>
+<p>de tasación o valora-</p>
+<p>ción</p>
+</th>
+<th rowspan="2">
+<p>Número de tasación</p>
+</th>
+<th rowspan="2">
+<p>Conforme a la Ley del Mercado Hipotecario</p>
+</th>
+<th rowspan="2">
+<p>Método de valoración (valor)</p>
+</th>
+<th rowspan="2">
+<p>Condi-</p>
+<p>cionan-</p>
+<p>tes</p>
+</th>
+<th rowspan="2">
+<p>Adver-</p>
+<p>ten-</p>
+<p>cias</p>
+</th>
+<th rowspan="2">
+<p>Visita al interior del inmueble</p>
+</th>
+<th rowspan="2">
+<p>Tipo de datos utilizados de inmuebles comparables</p>
+</th>
+<th colspan="5">
+<p>Método residual dinámico</p>
+</th>
+<th rowspan="2">
+<p>Método residual estático. Margen de beneficio del promotor (%)</p>
+</th>
+<th rowspan="2">
+<p>Valor</p>
+<p>de tasa-</p>
+<p>ción</p>
+</th>
+<th rowspan="2">
+<p>Valor hipo-</p>
+<p>tecario</p>
+</th>
+<th rowspan="2">
+<p>Valor en hipótesis de edificio terminado</p>
+</th>
+<th rowspan="2">
+<p>Valor del terreno</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Tipo</p>
+<p>de actua-</p>
+<p>lización (%)</p>
+</th>
+<th>
+<p>Tasa</p>
+<p>anua-</p>
+<p>lizada homogénea (%)</p>
+</th>
+<th>
+<p>Tasa anual media de variación del precio de mercado del activo (%)</p>
+</th>
+<th>
+<p>Plazo máximo para finalizar la construcción (meses)</p>
+</th>
+<th>
+<p>Plazo máximo para finalizar la comercialización (meses)</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**M.11-2.1 (cont.) DATOS PARA LOS INMUEBLES**
+
+<table>
+<tbody>
+<tr>
+<td colspan="5">
+<p>
+<strong>ÚLTIMA TASACIÓN POR MÉTODOS ESTADÍSTICOS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de la última tasación</p>
+</td>
+<td>
+<p>Código de la sociedad de tasación o valoración</p>
+</td>
+<td>
+<p>Número de tasación</p>
+</td>
+<td>
+<p>Método de valoración</p>
+</td>
+<td>
+<p>Valor de tasación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**ESTADO M.11-2 (cont).**
+
+DATOS BÁSICOS DE ACTIVOS ADJUDICADOS O RECIBIDOS EN PAGO DE DEUDAS
+
+DATOS BÁSICOS DE INMUEBLES
+
+**M.11-2.2 DATOS ADICIONALES PARA LOS EDIFICIOS Y ELEMENTOS DE EDIFICIOS**
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado</p>
+<p>(b)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="7">
+<p>
+<strong>DATOS DE LOS EDIFICIOS Y ELEMENTOS DE EDIFICIOS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de la construcción</p>
+</td>
+<td>
+<p>Fecha de la última rehabilitación integral</p>
+</td>
+<td>
+<p>Estado de la construcción</p>
+</td>
+<td>
+<p>Licencia</p>
+</td>
+<td>
+<p>Uso polivalente</p>
+</td>
+<td>
+<p>Vivienda habitual del prestatario</p>
+</td>
+<td>
+<p>Valor del terreno ajustado</p>
+</td>
+<td>
+<p>Número de viviendas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**M.11-2.3 DATOS ADICIONALES PARA EL SUELO URBANO Y URBANIZABLE**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado (b)</p>
+</td>
+<td colspan="12">
+<p>DATOS DEL SUELO URBANO Y URBANIZABLE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo de suelo</p>
+</td>
+<td>
+<p>Desarrollo del planeamiento</p>
+</td>
+<td>
+<p>Sistema de gestión</p>
+</td>
+<td>
+<p>Fase</p>
+<p>de gestión</p>
+</td>
+<td>
+<p>Paralización de la urbanización</p>
+</td>
+<td>
+<p>Porcentaje de la urbanización ejecutado (%)</p>
+</td>
+<td>
+<p>Porcentaje del ámbito valorado (%)</p>
+</td>
+<td>
+<p>Proximidad respecto del núcleo urbano</p>
+</td>
+<td>
+<p>Proyecto de obra</p>
+</td>
+<td>
+<p>Superficie terreno (m<sup>2</sup>)</p>
+</td>
+<td>
+<p>Aprovechamiento</p>
+<p>(m<sup>2</sup>)</p>
+</td>
+<td>
+<p>Producto que se prevé desarrollar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**M.11-2.4 DATOS ADICIONALES PARA LAS FINCAS RÚSTICAS**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado</p>
+<p>(b)</p>
+</td>
+<td colspan="2">
+<p>
+<strong>DATOS DE LAS FINCAS RÚSTICAS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Uso actual de la finca rústica</p>
+</td>
+<td>
+<p>Finca rústica con expectativas urbanísticas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**M.11-2.5 DATOS COMPLEMENTARIOS PARA LOS EDIFICIOS Y TERRENOS ADJUDICADOS**
+
+| Código del activo adjudicado | Código de la entidad tenedora | Origen del inmueble | Inmueble disponible para la venta | Precio neto por el que el inmueble está en venta | Coste de adquisición | Valor de tasación en la fecha de adjudicación | Valor de adquisición en escrituras |
+|---|---|---|---|---|---|---|---|
+| (b) | (c) | (d) | (e) | (f) | (g) | (h) | (i) |
+|  |  |  |  |  |  |  |  |
+
+(a) Este estado lo tienen que enviar las entidades en el mes en el que reciban inmuebles para la cancelación, total o parcial, de operaciones de crédito, incluidas las correspondientes a sus sociedades instrumentales españolas, aunque estén registrados contablemente en otras entidades del mismo grupo económico, con independencia de cómo hayan adquirido la propiedad y de la partida de balance en la que estén registrados contablemente, excepto los clasificados como activo material de uso propio. Los datos se actualizarán cuando se modifiquen.
+
+Cuando los activos adjudicados o recibidos en pago de deudas estuvieran declarados como garantías reales recibidas en la Central de Información de Riesgos (en adelante, la CIR), los activos no se declararán en los estados M.11-2.1 a 2.4, sin perjuicio de que se tengan que realizar las actualizaciones de datos que procedan.
+
+Cuando se produzca el alta y la baja de un activo en el mismo mes, no se declaran datos en este estado; no obstante, las bajas se tienen que declarar en el estado T.20-2.
+
+Cuando se produce la venta parcial de un activo, los importes declarados no se actualizarán en este estado para reducirlos en el porcentaje que representen los activos vendidos sobre los activos registrados con anterioridad a la venta.
+
+Las definiciones de las columnas, así como los valores que pueden tomar, son las mismas que las de las dimensiones de igual nombre del módulo D.2, Datos básicos de los inmuebles recibidos en garantía, de la Circular sobre la CIR.
+
+(b) Código que identifica los inmuebles adjudicados o recibidos en pago de deudas. Este código debe ser único para cada activo. Cuando los activos adjudicados o recibidos en pago de deudas se hubiesen declarado a la CIR como activos recibidos en garantía, el código del activo adjudicado coincidirá con el código con el que se hubiese declarado cuando era una garantía recibida. Si fuese necesario modificar este código, la entidad deberá comunicar la modificación al Banco de España vinculando el nuevo código con el previo conforme a lo dispuesto en la Circular sobre la CIR.
+
+(c) Cuando la entidad tenedora de los activos sea distinta de la entidad declarante, código de la entidad tenedora. Cuando la entidad tenedora sea la entidad declarante, no se comunicará dato en esta columna.
+
+(d) Indica el origen del inmueble antes de su adjudicación:
+
+– Financiación a la construcción o promoción inmobiliaria
+
+– Viviendas que sean o hayan sido residencia habitual del prestatario
+
+– Viviendas procedentes de financiaciones a los hogares que no hayan sido residencia habitual del prestatario
+
+– Resto de las situaciones
+
+(e) Indica si el inmueble, en sus condiciones actuales, está en venta o disponible para la venta: “Sí” o “No”.
+
+(f) Precio por el que está a la venta el inmueble después de deducir los costes estimados de venta, excluido el coste de adquisición.
+
+(g) Importe por el que se registran los activos en el balance en la fecha en la que se adjudiquen o reciban en pago de deudas.
+
+(h) Valor de tasación de los activos en la fecha de su adjudicación o recepción en pago de deudas.
+
+(i) Importe por el que figuran valorados los activos en las escrituras en las que la entidad se haga con su propiedad.
+
+**ESTADO M.11-3**
+
+DATOS BÁSICOS DE ACTIVOS ADJUDICADOS O RECIBIDOS EN PAGO DE DEUDAS
+
+DATOS BÁSICOS DE INSTRUMENTOS DE CAPITAL NO COTIZADOS (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado</p>
+</td>
+<td rowspan="2">
+<p>Código de la entidad tenedora</p>
+</td>
+<td colspan="4">
+<p>DATOS DE LOS INSTRUMENTOS DE CAPITAL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Código del emisor</p>
+</td>
+<td>
+<p>Código del valor</p>
+</td>
+<td>
+<p>Nominal</p>
+</td>
+<td>
+<p>Coste de adquisición</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(b)</p>
+</td>
+<td>
+<p>(c)</p>
+</td>
+<td>
+<p>(d)</p>
+</td>
+<td>
+<p>(e )</p>
+</td>
+<td>
+<p>(f)</p>
+</td>
+<td>
+<p>(g)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado lo tienen que enviar las entidades en el mes en el que reciban instrumentos de capital no cotizados en un mercado activo para la cancelación, total o parcial, de operaciones declaradas a la Central de Información de Riesgos (CIR) por la entidad declarante, incluidas las correspondientes a sus sociedades instrumentales españolas, aunque estén registrados contablemente en otras entidades del mismo grupo económico, con independencia de cómo hayan adquirido la propiedad y de la partida de balance en la que estén registrados contablemente. Los datos se actualizarán cuando se modifiquen.
+
+Cuando se produzca el alta y la baja de un activo en el mismo mes, no se declaran datos en este estado; no obstante, el importe del alta y de la baja de los valores se tiene que declarar en el estado M.10-3 cuando sean propiedad de la entidad.
+
+(b) Código que identifica los instrumentos de capital no cotizados en un mercado activo adjudicados o recibidos en pago de deudas en el estado M.11-1.2. Si fuese necesario modificar este código, la entidad deberá comunicar la modificación al Banco de España vinculando el nuevo código con el previo conforme a lo dispuesto en la Circular sobre la CIR.
+
+(c) Cuando la entidad tenedora de los activos sea distinta de la entidad declarante, código de la entidad tenedora. Cuando la entidad tenedora sea la entidad declarante, no se comunicará dato en esta columna.
+
+(d) Código que identifica al emisor de los valores en el estado M.10-1. Cuando los valores no sean propiedad de la entidad, se deberá declarar al Banco de España la información de los emisores que figura en dicho estado utilizando el procedimiento de declaración del módulo A.1, Datos que identifican a las personas, de la Circular sobre la CIR.
+
+(e) Código ISIN correspondiente a los valores que sean propiedad de una entidad diferente de la declarante. Cuando los valores sean propiedad de esta, código asignado al valor en el estado M.10-3.
+
+(f) Nominal de los valores.
+
+(g) Precio por el que se registran los valores en el activo en la fecha de su adquisición.
+
+**ESTADO M.12**
+
+DERIVADOS FINANCIEROS Y DE CRÉDITO
+
+DETALLE DE OPERACIONES REALIZADAS, VARIACIONES DE PRECIOS Y VALORES RAZONABLES
+
+INFORMACIÓN MENSUAL (NEGOCIOS EN ESPAÑA)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p>Operaciones del mes</p>
+</td>
+<td colspan="3">
+<p>Variaciones de precios del mes</p>
+</td>
+<td colspan="2">
+<p>Valores razonables</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Operaciones contratadas (valor distinto de cero)</p>
+</td>
+<td>
+<p>Cancelaciones (vencimientos o compensaciones)</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>Liquidadas al producirse (liquidación diaria)</p>
+</td>
+<td>
+<p>Resto</p>
+</td>
+<td>
+<p>Positivos</p>
+</td>
+<td>
+<p>Negativos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(a)</p>
+</td>
+<td>
+<p>(b)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(c)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CLASIFICACIÓN POR CONTRAPARTE</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residentes en España</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residentes en otros países de la UEM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residentes en países de la UE no UEM</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residentes en países no miembros de la UE</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Importe de las nuevas operaciones de derivados contratadas en el mes.
+
+(b) Importe de las operaciones de derivados registradas en el balance que se cancelan a su vencimiento o por compensación.
+
+(c) Variaciones de precios de los productos derivados que, al liquidarse diariamente, no tienen reflejo en las partidas del balance.
+
+**ESTADO M.13-1**
+
+COSTE DE LA FINANCIACIÓN CAPTADA EN EL MES (NEGOCIOS EN ESPAÑA)
+
+TIPO DE REFERENCIA (TR) (a)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="4">
+<p> </p>
+</td>
+<td colspan="3" rowspan="2">
+<p>OPERACIONES CAPTADAS POR TRAMOS DE TIPO DE INTERÉS (b)</p>
+</td>
+<td colspan="9">
+<p>PRO MEMORIA</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">
+<p>SALDO A FINAL</p>
+<p>DE MES</p>
+<p>(d)</p>
+</td>
+<td colspan="6">
+<p>OPERACIONES CON REMUNERACIÓN HASTA EL 0,75 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>(c)</p>
+</td>
+<td colspan="3">
+<p>OPERACIONES CAPTADAS</p>
+<p>EN EL MES</p>
+<p>(b)</p>
+</td>
+<td colspan="3">
+<p>SALDO A FINAL</p>
+<p>DE MES</p>
+<p>d)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+<td>
+<p>Tipo medio ponderado (e)</p>
+</td>
+<td>
+<p>Número de operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+<td>
+<p>Tipo medio ponderado (e)</p>
+</td>
+<td>
+<p>Número de operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+<td>
+<p>Tipo medio ponderado (e)</p>
+</td>
+<td>
+<p>Número de operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+<td>
+<p>Tipo medio ponderado (e)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. DEPÓSITOS</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>1.1 Administraciones Públicas</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1 Depósitos a la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1.1 Instrumentados como depósitos a plazo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1.2 Resto de depósitos a la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2 Depósitos a plazo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3 Cesiones temporales de activos</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>1.2 Sociedades no financieras</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.1 Depósitos a la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.1.1 Instrumentados como depósitos a plazo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.1.2 Resto de depósitos a la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2 Depósitos a plazo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.3 Cesiones temporales de activos</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.3.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.3.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.3.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.3.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>1.3 Hogares e ISFLSH</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.1 Depósitos a la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.1.1 Instrumentados como depósitos a plazo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.1.2 Resto de depósitos a la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.2 Depósitos a plazo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.2.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.2.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.2.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.2.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.3 Cesiones temporales de activos</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.3.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.3.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.3.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.3.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**ESTADO M.13-1 (cont.)**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>OPERACIONES CAPTADAS POR TRAMOS DE TIPO DE INTERÉS (B)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>(c)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Número de operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+<td>
+<p>Tipo medio ponderado (e)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. DÉBITOS REPRESENTADOS POR VALORES NEGOCIABLES COLOCADOS A TRAVÉS DE LA RED COMERCIAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>2.1 Administraciones Públicas</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>2.2 Sociedades no financieras</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>2.3 Hogares e ISFLSH</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. VALORES EMITIDOS POR EMPRESAS DEL GRUPO COLOCADOS A TRAVÉS DE LA RED COMERCIAL (f)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>3.1 Administraciones Públicas</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>3.2 Sociedades no financieras</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>3.3 Hogares e ISFLSH</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3.1 Hasta tres meses</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3.2 Más de tres meses y hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3.3 Más de un año y hasta dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3.4 Más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+NOTAS
+
+(a) El tipo de referencia (TR) es el tipo medio ponderado de las operaciones principales de financiación publicado por el Banco Central Europeo que esté vigente el último día del mes anterior al que se refieren los datos.
+
+(b) Los datos se refieren a los depósitos, así como a los débitos representados por valores negociables emitidos por la entidad, colocados a través de la red comercial en España (oficinas, agentes y banca electrónica y telefónica), excluidos los pasivos subordinados, cualquiera que sea la remuneración de las operaciones (incluidas las de tipo cero), la residencia y la vinculación con la entidad de los depositantes o tenedores. No se informará de las operaciones con aquellos clientes que individualmente considerados tengan un saldo acumulado (depósitos en la entidad y valores emitidos por la entidad o por otras entidades del grupo no declarantes del estado M.13 y depositados en la entidad), computando el importe de las nuevas operaciones contratadas, superior a 10 millones de euros, ni de las cuentas que mantengan los empleados cuya retribución esté amparada en el convenio colectivo vigente.
+
+Los depósitos a plazo, que incluirán los depósitos con preaviso, así como las cesiones temporales de activos, son los correspondientes a operaciones contratadas o renovadas (se hayan modificado o no los tipos) durante el mes al que se refieren los datos. En la clasificación por plazos, las operaciones se clasificarán por su plazo hasta el vencimiento en el momento de la contratación o renovación, teniendo en cuenta también los demás criterios específicos señalados en estas notas.
+
+Los depósitos a la vista, que no comprenden los saldos que cumplen la definición de “Otros fondos a la vista”, son los correspondientes a cuentas abiertas en el mes, así como a las abiertas en meses anteriores en las que se produzca una revisión del tipo de interés distinta de la mera actualización del tipo de referencia, aunque esta revisión suponga un mantenimiento del mismo; asimismo, se incluirán aquellos depósitos en los que, estando prevista contractualmente la posibilidad de modificar el tipo mediante un preaviso en cualquier momento, la entidad no ejerza ese derecho; estos depósitos se declararán en el mes en que se pudiera hacer la comunicación y posteriormente con una periodicidad semestral, mientras no se formule el preaviso. Se incluirán en el tramo correspondiente al tipo resultante de la renovación, o al tipo que siga rigiendo por el no ejercicio del preaviso, en su caso. En las partidas “Instrumentados como depósitos a plazo”, se incluirán todos los depósitos instrumentados como depósitos a plazo que, según la norma 64.ª de la Circular 4/2004, se contabilicen como depósitos a la vista.
+
+Los depósitos a plazo y las cesiones temporales de activos se declararán por su importe en el momento de la contratación o renovación, y los depósitos a la vista, incluidos los instrumentados como depósitos a plazo, por el saldo a fin del mes. Cuando se renueven más de una vez en el mes, se incluirán en el estado una sola vez, en el tramo correspondiente al tipo de interés más alto del período.
+
+En los depósitos a plazo con vencimiento superior al año que tengan reconocida contractualmente la posibilidad de cancelación anticipada, se considerará que el vencimiento es la primera fecha en la que pueda ejercerse ese derecho y se harán figurar en el tramo correspondiente al tipo de interés más alto de todos los que pudieran resultar si se ejerce la opción de cancelación y subsiguiente penalización, de existir. Se exceptúa el caso de que la penalización pactada sea:
+
+• Igual o superior a 50 puntos básicos si se ejerce la opción en el primer año cuando el vencimiento original sea igual o inferior a dos años (100 puntos básicos si el plazo original es superior a dos años), e
+
+• igual o superior a 50 puntos básicos si se ejerce la opción en el segundo año.
+
+En esta excepción la entidad declarará la operación por el plazo original y en el tramo correspondiente al tipo efectivamente contratado. Este criterio también se aplicará a los depósitos a plazo con penalización pactada contratados antes del 31 de diciembre de 2012.
+
+Las operaciones contratadas simultáneamente con un mismo cliente y a un mismo plazo se tratarán e informarán como una única operación y se comunicarán en el tramo correspondiente al tipo medio ponderado resultante.
+
+Las operaciones nuevas contratadas al amparo de convenios vigentes suscritos con anterioridad al 1 de febrero de 2013 no se declararán por primera vez hasta la fecha en la que la entidad tenga la posibilidad contractual de modificar las condiciones del convenio. A partir de esa fecha seguirán el régimen general de declaración.
+
+Los depósitos a plazo que tengan naturaleza de instrumentos financieros híbridos, con independencia de si está o no garantizada la devolución del principal, se incluirán por el importe efectivo desembolsado por el cliente.
+
+Los débitos representados por valores negociables, así como los valores emitidos por entidades del grupo económico mencionados en la letra f), que incluir en este estado son los colocados en el mes a través de la red comercial existente en España a los sectores Administraciones Públicas, sociedades no financieras y hogares, con independencia de quién sea el tenedor de dichos valores al final del mes al que se refieren los datos.
+
+(c) Las operaciones se distribuirán en los siguientes tramos en función de su tipo de interés: hasta TR - 100 pb, más de TR - 100 pb y hasta TR - 50 pb, más de TR - 50 pb y hasta TR, más de TR y hasta TR + 50 pb, más de TR + 50 pb y hasta TR + 100 pb, más de TR + 100 pb y hasta TR + 150 pb, más de TR + 150 pb y hasta TR + 200 pb, más de TR + 200 pb y hasta TR + 250 pb, más de TR + 250 pb y hasta TR + 300 pb, más de TR + 300 pb y total. Donde TR es el tipo de referencia, pb son puntos básicos y cada tramo incluye su extremo superior.
+
+(d) Los datos de las columnas del “Saldo a final de mes” son los correspondientes a todas las operaciones vivas a final de mes, excluidos los pasivos subordinados, tanto las contratadas en el propio mes como en meses anteriores. En estos saldos se incluyen las operaciones con todos los clientes, con independencia del importe de la financiación recibida o de su condición de empleados. Las operaciones se declararán por el importe en el que aparecen en el balance reservado de la entidad a la fecha del estado, excluidos los “Ajustes por valoración”.
+
+(e) El tipo de interés de cada operación será el Tipo Efectivo Definición Restringida (TEDR) según se define en la Circular 1/2010, de 27 de enero, sobre estadísticas de los tipos de interés que se aplican a los depósitos y a los créditos frente a los hogares y las sociedades no financieras, con las precisiones que se indican en estas notas.
+
+En el caso de remuneración en especie, esta se computará por el valor monetario atribuido, es decir, por el coste que tenga para la entidad, incluyendo, cuando sea a su cargo, el ingreso a cuenta que esta deba efectuar por dicha remuneración.
+
+En los contratos con tipo de interés variable con un tipo mínimo garantizado, el tipo a declarar no podrá ser inferior al mínimo garantizado.
+
+Los depósitos a la vista con remuneraciones distintas en función del saldo alcanzado o del saldo medio se incluirán en el momento inicial en el tramo correspondiente al TEDR que se obtenga teniendo en cuenta el saldo en el momento de la contratación; en el caso de que la operación se vuelva a comunicar por revisión de tipos, se informará el TEDR que resulte de aplicar el saldo medio de la última liquidación a la estructura de tipos existente en ese momento.
+
+En los depósitos a la vista con un tipo de interés base y una prima adicional por fidelidad o suscripción de otros productos de la entidad, u otras circunstancias análogas, para el cálculo del TEDR en la declaración inicial no se tendrá en cuenta esta prima adicional, salvo que ya empiece a devengarse en el mes en el que se declare la operación; en declaraciones posteriores se informará el TEDR añadiendo la prima pagada en la última liquidación. Los depósitos a plazo se comunicarán a su tipo de interés original, y cuando se cambie el tipo de interés se considerará una nueva operación, que habrá de ser comunicada al plazo que se vaya a utilizar para la liquidación al tipo primado.
+
+En los contratos en los que el valor concreto del tipo de interés no se conoce (por ejemplo, porque el cliente puede optar entre varios tipos de referencia diferentes), el TEDR que declarar en el momento inicial será el más alto posible y se producirá una nueva declaración cada vez que se produzca un cambio del tipo de interés distinto de la mera actualización del tipo de referencia.
+
+En los depósitos a plazo que tengan naturaleza de instrumentos financieros híbridos, el tipo de interés que declarar será el que se aplique a los contratos principales a efectos del cálculo de intereses en los estados contables. Cuando un instrumento híbrido se comercialice conjuntamente con un depósito que no tenga tal naturaleza, ambas operaciones se tratarán separadamente.
+
+Para el resto de los productos cuyo tratamiento no esté expresamente recogido en esta nota y existan varias alternativas para calcular el TEDR o falte información para calcularlo en el momento de la declaración, la entidad optará por la opción más prudente, entendiendo como tal la que maximiza el valor del TEDR.
+
+El tipo medio ponderado se expresará con cuatro decimales. El redondeo se realizará a la unidad más cercana con la equidistancia al alza.
+
+(f) Si la entidad declarante del estado es la dominante del grupo en España, en estas partidas se incluirán los valores representativos de deuda negociables emitidos por otras entidades del grupo económico, cualquiera que sea su actividad y residencia, que no estén obligadas a presentar este estado, cuando hayan sido comercializados por la entidad o su grupo a través de su red comercial en España, siempre que el importe total de las operaciones con el cliente no supere los 10 millones de euros.
+
+**ESTADO M.13-2**
+
+FINANCIACIÓN CAPTADA EN EL MES DE NO RESIDENTES EN ESPAÑA (NEGOCIOS EN ESPAÑA) (a)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="2" rowspan="2">
+<p>OPERACIONES CAPTADAS EN EL MES</p>
+</td>
+<td colspan="2">
+<p>PRO MEMORIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>SALDO A FINAL DE MES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+<td>
+<p>Número operaciones</p>
+</td>
+<td>
+<p>Importe total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. DEPÓSITOS</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1 Administraciones Públicas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2 Sociedades no financieras</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3 Hogares e ISFLSH</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. DÉBITOS REPRESENTADOS POR VALORES NEGOCIABLES COLOCADOS A TRAVÉS DE LA RED COMERCIAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1 Administraciones Públicas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2 Sociedades no financieras</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.3 Hogares e ISFLSH</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. VALORES EMITIDOS POR EMPRESAS DEL GRUPO COLOCADOS A TRAVÉS DE LA RED COMERCIAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1 Administraciones Públicas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2 Sociedades no financieras</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3 Hogares e ISFLSH</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Los datos de este estado son los que figuran en el estado M.13-1 que corresponden a clientes no residentes en España.
+
+**ESTADO T.19-1**
+
+DATOS DE INSTRUMENTOS DERIVADOS
+
+DATOS DE LAS CONTRAPARTES (a)
+
+| Código de la contraparte<br>(b) | Nombre | Sector | Actividad<br>económica | Parte<br>vinculada | Situación<br>de la persona | Forma social | Tamaño de<br>la empresa |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
+
+(a) Los datos de este estado se informarán al Banco de España utilizando el procedimiento para declarar del módulo A.1, Datos que identifican a las personas, de la Circular sobre la Central de Información de Riesgos, para declarar la información correspondiente a las contrapartes de los instrumentos derivados, excepto cuando la entidad los tenga ya declarados al Banco de España por este u otros motivos, en cuyo caso no será necesario declararlos de nuevo, salvo que sea preciso completar o actualizar los datos previamente declarados. Los valores que se pueden declarar en las diferentes columnas de este estado son los mismos que se pueden declarar para las dimensiones de idéntico nombre del citado módulo A.1.
+
+(b) Código de la contraparte de los instrumentos derivados. Cuando la persona a la que se haya imputado la exposición que origina el instrumento derivado a efectos del cálculo de requerimientos de recursos propios después de aplicar las técnicas de reducción de riesgo en la asignación de exposiciones sea diferente de la contraparte del derivado declarada en el estado T.19-2, también se declararán en este estado los datos de dicha persona.
+
+**ESTADO T.19-2**
+
+DATOS DE INSTRUMENTOS DERIVADOS
+
+DATOS BÁSICOS DE LOS DERIVADOS (a)
+
+| Código<br>de la operación | Código<br>de la contraparte | Localización de la actividad (país de la operación) | Tipo de derivado | Tipo de riesgo asociado al derivado | Tipo de producto | Moneda | Fecha de formalización | Fecha de vencimiento | Tipo de garantía real principal | Tipo de mercado | Cartera contable | Jerarquía del valor razonable | Categoría de la exposición |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| (b) | (c ) | (d) | (e) | (f) | (g) | (h) | (i) | (j) | (k) | (l) | (m) | (n) | (o) |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+(a) Este estado lo enviarán las entidades que al final del trimestre al que se refieran los datos tengan registrados en su balance instrumentos financieros que cumplan la definición de derivado, incluidos los derivados implícitos segregados a efectos contables de los instrumentos financieros híbridos, con independencia de que su valor razonable sea favorable o desfavorable para la entidad y de si se han contratado en un mercado organizado. Los datos de los derivados solo es necesario incluirlos en este estado en el trimestre en el que se declaren por primera vez, sin perjuicio de que se actualicen en caso de que se modifiquen.
+
+(b) Código alfanumérico que identifica al derivado. Este código se debe mantener invariable durante la vida de la operación, salvo que por razones administrativas fuese necesario modificarlo, y no se podrá reutilizar en el futuro. El código será normalmente el que la entidad utilice a efectos de gestión en su base de datos.
+
+Si fuese necesario modificar el código, la entidad deberá comunicar la modificación al Banco de España vinculando el nuevo código con el previo conforme a lo dispuesto en la Circular sobre la Central de Información de Riesgos (CIR).
+
+(c) Código que identifica en el estado T.19-1 a la contraparte con la que se haya contratado el derivado. Si hubiese dos o más contrapartes, se indicará el código de la persona a la que la entidad haya considerado como contraparte directa a efectos de la elaboración de los estados contables. Cuando se trate de un derivado implícito segregado de un débito representado por valores negociables, si no se conoce al tenedor de los valores, excepcionalmente se declarará el NIF de la entidad que envía el estado.
+
+(d) Código ISO alfabético del país en el que esté radicada la sucursal en la que esté registrada contablemente la operación. Cuando la operación esté registrada en España en los libros de la entidad declarante, se declara ES.
+
+(e) Indica si el derivado se comercializa de forma separada o se ha segregado de un instrumento financiero híbrido:
+
+– Derivado explicito
+
+– Derivado implícito segregado de un préstamo
+
+– Derivado implícito segregado de un valor representativo de deuda
+
+– Derivado implícito segregado de un depósito
+
+– Derivado implícito segregado de un débito representado por valores negociables
+
+La asignación de los valores anteriores, cuando se trate de un derivado implícito, se hará en función del tipo de instrumento al que corresponda el contrato principal del instrumento híbrido.
+
+(f) Tipo de riesgo asociado en los contratos de derivados:
+
+– Riesgo de tipo de interés
+
+– Riesgo de cambio
+
+– Riesgo de crédito (protección comprada)
+
+– Riesgo de crédito (protección vendida)
+
+– Riesgo de acciones
+
+– Riesgo de materias primas
+
+– Otro riesgo
+
+La asignación de los valores anteriores se realizará utilizando los criterios para clasificar a los derivados en función del tipo de riesgo en los estados contables conforme a lo dispuesto en la CBE 4/2004.
+
+(g) Tipo de producto del derivado:
+
+Para los derivados sobre riesgo de crédito:
+
+– Credit default swap
+
+– Credit spread option
+
+– Total return swap
+
+– Otros
+
+Para los restantes derivados:
+
+– Futuros financieros
+
+– Operaciones a plazo
+
+– Permutas
+
+– Opciones compradas
+
+– Opciones vendidas
+
+– Resto
+
+(h) Código ISO de tres letras de la moneda en la que se vaya a efectuar la liquidación de la operación o del activo que se vaya a recibir o entregar.
+
+(i) Fecha de formalización del derivado.
+
+(j) Fecha de vencimiento final del derivado.
+
+(k) Mismas definiciones y valores que en la dimensión de igual nombre del módulo C.1 de la Circular sobre la CIR.
+
+(l) Tipo de mercado en el que se negocian los contratos:
+
+– Mercado organizado
+
+– Mercado no organizado
+
+(m) Cartera en la que está clasificada la operación a efectos de su valoración en el balance:
+
+– Cartera de negociación. Sin ser cobertura económica: Derivados que están incluidos en la cartera de negociación tanto a efectos contables como prudenciales; es decir, derivados que se mantienen con la intención de negociación o de cubrir posiciones que se tienen con dicha intención.
+
+– Cartera de negociación. Cobertura económica: Derivados que, aunque en los estados financieros están incluidos en la cartera de negociación, a efectos del cálculo de recursos propios no forman parte de la cartera de negociación prudencial.
+
+– Cobertura del valor razonable
+
+– Cobertura del flujo de efectivo
+
+– Cobertura de inversiones netas en negocios en el extranjero
+
+– Cobertura de valor razonable del riesgo de tipo de interés de una cartera
+
+– Cobertura de flujo de efectivo del riesgo de tipo de interés de una cartera
+
+(n) Mismas definiciones y valores que en la columna de igual nombre del estado M.10-2.
+
+(o) Mismas definiciones y valores que en la dimensión de igual nombre del módulo H.6 de la Circular de la CIR.
+
+**ESTADO T.19-3**
+
+DATOS DE INSTRUMENTOS DERIVADOS
+
+DATOS DINÁMICOS DE LOS DERIVADOS (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p>Código de la operación</p>
+<p>(b)</p>
+</td>
+<td colspan="4">
+<p>SALDOS A FIN DE TRIMESTRE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Nocional</p>
+<p>(c)</p>
+</td>
+<td colspan="2">
+<p>Valor razonable</p>
+</td>
+<td rowspan="2">
+<p>Exposición original</p>
+<p>(f)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Positivo</p>
+<p>(d)</p>
+</td>
+<td>
+<p>Negativo</p>
+<p>(e)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado lo enviarán las entidades que al final del trimestre al que se refieran los datos declarados en el estado tengan registrados en su balance instrumentos financieros que cumplan la definición de derivado, incluidos los derivados implícitos segregados a efectos contables de los instrumentos financieros híbridos, con independencia de que su valor razonable sea favorable o desfavorable para la entidad y de si se han contratado en un mercado organizado.
+
+(b) Código alfanumérico que identifica al derivado en el estado T.19-2.
+
+(c) Nocional del derivado a la fecha de la declaración registrado en los estados financieros.
+
+(d) Para los contratos con saldo favorable para la entidad declarante, valor razonable del derivado registrado en el activo.
+
+(e) Para los contratos con saldo desfavorable para la entidad declarante, valor razonable sin signo del derivado registrado en el pasivo.
+
+(f) Importe de la exposición original por el que se valora el derivado a efectos del cálculo de recursos propios antes de aplicar las técnicas de reducción del riesgo en la asignación de la exposición y de efectuar las deducciones que, en su caso, se apliquen para el cálculo de la exposición ponderada por riesgo.
+
+**ESTADO T.19-4**
+
+DATOS DE INSTRUMENTOS DERIVADOS
+
+DATOS DINÁMICOS ADICIONALES DE LOS DERIVADOS (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código de la operación</p>
+<p>(b)</p>
+</td>
+<td rowspan="2">
+<p>Código de la persona a la que se asigna la exposición</p>
+<p>(c)</p>
+</td>
+<td colspan="3">
+<p>SALDOS A FIN DE TRIMESTRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exposición original reasignada</p>
+<p>(d)</p>
+</td>
+<td>
+<p>Reducción del importe de la exposición por acuerdos de compensación contractual entre productos</p>
+<p>(e)</p>
+</td>
+<td>
+<p>Exposición ponderada por riesgo</p>
+<p>(f)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado lo enviarán las entidades que a fin del trimestre al que se refieran los datos tengan registrados en su balance instrumentos financieros que cumplan la definición de derivado, incluidos los derivados implícitos segregados a efectos contables de los instrumentos financieros híbridos, con independencia de que su valor razonable sea favorable o desfavorable para la entidad y de si se han contratado en un mercado organizado.
+
+(b) Código alfanumérico que identifica al derivado en el estado T.19-2.
+
+(c) Código de la persona a la que se haya imputado la exposición a efectos del cálculo de requerimientos de recursos propios después de aplicar las técnicas de reducción de riesgo en la asignación de exposiciones. Cuando esta persona sea diferente de la contraparte del derivado declarada en estado T.19-2, los datos de esta persona se declararán en el estado T.19-1.
+
+(d) Importe de la exposición original reasignada a la persona a la que se asigna la exposición (es decir, después de aplicar las técnicas de reducción de riesgo en la asignación de la exposición) por el que se valora el instrumento derivado a efectos del cálculo de recursos propios antes de efectuar las deducciones que, en su caso, se hayan aplicado para el cálculo de la exposición ponderada por riesgo.
+
+(e) Importe que se deduce de la exposición para el cálculo de los requerimientos de recursos propios como consecuencia de un contrato de compensación. El importe será el que la entidad le haya asignado a la exposición del importe total de la compensación aplicable al conjunto de operaciones, sin que en ningún caso se pueda asignar un importe de la compensación simultáneamente a varias exposiciones.
+
+(f) Importe de la “exposición ponderada por riesgo” del instrumento derivado imputada a la persona a la que se asigna la exposición en el cálculo del coeficiente de recursos propios; es decir, después de aplicar las técnicas de reducción de riesgo en la asignación de la exposición.
+
+**ESTADO T.20-1**
+
+DATOS DINÁMICOS DE INMUEBLES ADJUDICADOS O RECIBIDOS EN PAGO DE DEUDAS
+
+DATOS DE INMUEBLES EN CARTERA (a)
+
+**T.20-1.1 DATOS PARA LOS EDIFICIOS Y TERRENOS**
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado</p>
+<p>(b)</p>
+</td>
+<td rowspan="2">
+<p>Cartera contable</p>
+<p>(c)</p>
+</td>
+<td colspan="2">
+<p>SALDOS A FIN DE TRIMESTRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Valor contable bruto</p>
+<p>(d)</p>
+</td>
+<td>
+<p>Correcciones de valor por deterioro de activos</p>
+<p>(e)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**T.20-1.2 DATOS ADICIONALES PARA LOS EDIFICIOS EN CONSTRUCCIÓN**
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado</p>
+<p>(b)</p>
+</td>
+<td colspan="6">
+<p>EDIFICIOS EN CONSTRUCCIÓN O REHABILITACIÓN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha del último grado del avance estimado</p>
+</td>
+<td>
+<p>Código de la sociedad de tasación o valoración que estimó el grado de avance</p>
+</td>
+<td>
+<p>Porcentaje construido (%)</p>
+</td>
+<td>
+<p>Importe de los gastos de desarrollo</p>
+</td>
+<td>
+<p>Fecha estimada para terminar la obra</p>
+</td>
+<td>
+<p>Coste estimado para terminar la obra</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado se enviará con información de los inmuebles adjudicados o recibidos en pago de deudas declarados en el estado M.11-1.2 que tengan saldo a final del trimestre al que se refieren los datos.
+
+Las definiciones de las columnas, así como los valores que pueden tomar, son las mismas que las de las dimensiones de igual nombre de la Circular sobre la Central de Información de Riesgos.
+
+(b) Código que identifica a los activos adjudicados o recibidos en pago de deudas en el estado M.11-1.2.
+
+(c) Cartera en la que están incluidos los inmuebles en el balance de la entidad tenedora:
+
+– Activos no corrientes en venta
+
+– Inversiones inmobiliarias
+
+– Existencias
+
+(d) Importe por el que se registran los activos en el balance al final del trimestre al que se refieren los datos antes de deducir las correcciones de valor constituidas para su cobertura.
+
+(e) Importe acumulado de la cobertura que, en su caso, se haya constituido para corregir el coste inicial de los activos con posterioridad a la fecha de adjudicación o recepción en pago de deudas.
+
+**ESTADO T.20-2**
+
+DATOS DINÁMICOS DE INMUEBLES ADJUDICADOS O RECIBIDOS EN PAGO DE DEUDAS
+
+DATOS DE BAJAS DE INMUEBLES (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del activo adjudicado</p>
+<p>(b)</p>
+</td>
+<td colspan="6">
+<p>DATOS DE LAS BAJAS DE INMUEBLES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de la última baja</p>
+<p>(c)</p>
+</td>
+<td>
+<p>Precio de venta acumulado</p>
+<p>(d)</p>
+</td>
+<td>
+<p>Porcentaje acumulado de los activos que se den de baja (%)</p>
+<p>(e)</p>
+</td>
+<td>
+<p>Coste por el que se destina a uso propio</p>
+<p>(f)</p>
+</td>
+<td>
+<p>Financiación otorgada: Código de la operación</p>
+<p>(g)</p>
+</td>
+<td>
+<p>Número de viviendas pendientes de venta</p>
+<p>(h)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado se enviará con datos de los inmuebles adjudicados o recibidos en pago de deudas que se hayan dado de baja, total o parcialmente, del activo o se hayan destinado a uso propio en el trimestre al que se refieren los datos.
+
+Los importes que declarar son los acumulados desde la fecha de adjudicación o recepción en pago de deudas.
+
+Cuando se produce el alta y la baja de un activo en el mismo mes, se declararán datos en este estado, aunque no se hubiesen declarado en el estado M.11-2.
+
+(b) Código que identifica a los activos adjudicados o recibidos en pago de deudas en el estado M.11-1.2.
+
+(c) Fecha en la que se haya producido la última venta del activo o se destine a uso propio en el trimestre al que se refieren los datos.
+
+(d) Precio acumulado de las ventas realizadas desde la fecha de la adjudicación o recepción en pago de deudas, neto de los costes de venta en los que haya incurrido la entidad, excluido el coste de adquisición del inmueble.
+
+(e) Porcentaje con dos decimales que representa el importe del coste inicial atribuido a los activos vendidos o destinados a uso propio desde la fecha de la adjudicación o recepción en pago de deudas sobre el importe del coste inicial total por el que estén registrados en la columna “Coste de adquisición” del estado M.11-2.5.
+
+(f) Coste por el que el activo se haya registrado en el activo material como destinado a uso propio.
+
+(g) Cuando el activo se venda con financiación de la entidad declarante por un importe superior al 50 % del precio de venta, código de la operación u operaciones que la financien.
+
+(h) Cuando en el activo existan viviendas, número total de viviendas pendientes de venta a final del trimestre al que se refieren los datos.
+
+**ESTADO T.22-1**
+
+DETALLE COMPLEMENTARIO DE VALORES
+
+DATOS DE VALORES REPRESENTATIVOS DE DEUDA PROPIEDAD DE LA ENTIDAD (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código del valor</p>
+<p>(b)</p>
+</td>
+<td rowspan="2">
+<p>Cartera contable</p>
+<p>(c)</p>
+</td>
+<td rowspan="2">
+<p>Activos no corrientes en venta</p>
+<p>(d)</p>
+</td>
+<td colspan="2">
+<p>Correcciones de valor por deterioro de activos. Coberturas específicas</p>
+</td>
+<td rowspan="2">
+<p>Activos a valor razonable</p>
+<p>Importe negativo de la variación de valor atribuible a cambios en el riesgo de crédito</p>
+<p>(g)</p>
+</td>
+<td rowspan="2">
+<p>Intereses devengados pendientes de vencimiento</p>
+<p>(h)</p>
+</td>
+<td colspan="2">
+<p>Operaciones de micro-cobertura.</p>
+</td>
+<td rowspan="2">
+<p>Coste amortizado bruto</p>
+<p>(k)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riesgo cliente</p>
+<p>(e)</p>
+</td>
+<td>
+<p>Riesgo país</p>
+<p>(f)</p>
+</td>
+<td>
+<p>Saldo positivo</p>
+<p>(i)</p>
+</td>
+<td>
+<p>Saldo negativo</p>
+<p>(j)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+a) Este estado con información sobre valores representativos de deuda (en adelante, valores) lo tienen que enviar las entidades que, siendo propietarias de valores a final del trimestre al que se refieren los datos, envíen el estado M.10-2. Los valores que declarar en este estado incluyen los emitidos por las sociedades y fondos de titulización a los que la entidad haya transferido activos financieros exclusivamente cuando su importe no se haya deducido del pasivo del balance, así como los calificados como activos no corrientes en venta. No se tienen que declarar los valores clasificados contablemente como fallidos.
+
+Los importes, incluso los correspondientes a valores denominados en una moneda distinta del euro, se declararán en unidades de euros.
+
+b) Código asignado al valor en el estado M.10-2.
+
+c) Mismo dato que en el estado M.10-2.
+
+d) Indica si los valores están clasificados en el balance a la fecha a la que se refieren los datos como activos no corrientes en venta: “Sí” o “No”.
+
+e) Importe de las coberturas específicas para valores clasificados como dudosos o subestandar, excepto las correspondientes a riesgo-país, registrado en el activo como correcciones de valor por deterioro del valor a la fecha a la que se refiere el estado.
+
+f) Importe de las coberturas por riesgo-país registrado en el activo como correcciones de valor por deterioro de los valores a la fecha a la que se refiere el estado.
+
+g) Para los valores representativos de deuda incluidos en la “Cartera de negociación” o en “Otros activos financieros a valor razonable con cambios en pérdidas y ganancias”, importe acumulado de la variación de valor atribuible a cambios en el riesgo de crédito.
+
+h) Importe de los intereses devengados pendientes de vencimiento a la fecha a la que se refiere el estado, con independencia de la cartera contable en la que están clasificados los valores. Su importe se calcula aplicando el tipo de interés efectivo que se utilice para registrar los intereses en la partida “Intereses y rendimientos asimilados” de la cuenta de pérdidas y ganancias.
+
+i) Importe de los ajustes por valoración realizados, en su caso, al valor como consecuencia de microcoberturas contables del valor razonable cuando el saldo sea positivo.
+
+j) Importe sin signo de los ajustes por valoración realizados, en su caso, al valor como consecuencia de microcoberturas contables del valor razonable cuando el saldo sea negativo.
+
+k) Importe del coste amortizado que corresponde a los valores antes de deducir los importes de las correcciones de valor por deterioro de activos que, en su caso, tuviesen constituidos para su cobertura. En caso de compraventa de valores, el importe será el coste medio ponderado.
+
+**ESTADO T.22-2**
+
+DETALLE COMPLEMENTARIO DE VALORES
+
+DATOS DE INSTRUMENTOS DE PATRIMONIO PROPIEDAD DE LA ENTIDAD (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p>Código del valor</p>
+<p>(b)</p>
+</td>
+<td colspan="7">
+<p>DATOS DE LOS VALORES</p>
+</td>
+<td colspan="2">
+<p>DATOS DEL EMISOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Cartera contable</p>
+<p>(c)</p>
+</td>
+<td rowspan="2">
+<p>Activos no corrientes en venta</p>
+<p>(d)</p>
+</td>
+<td rowspan="2">
+<p>Correcciones de valor por deterioro de activos</p>
+<p>(e)</p>
+</td>
+<td colspan="2">
+<p>Operaciones de micro-cobertura</p>
+</td>
+<td rowspan="2">
+<p>Importe suscrito pendiente de desembolso</p>
+<p>(h)</p>
+</td>
+<td rowspan="2">
+<p>Capital social</p>
+<p>(i)</p>
+</td>
+<td colspan="2">
+<p>Patrimonio neto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Saldo positivo</p>
+<p>(f)</p>
+</td>
+<td>
+<p>Saldo negativo</p>
+<p>(g)</p>
+</td>
+<td>
+<p>Positivo</p>
+<p>(j)</p>
+</td>
+<td>
+<p>Negativo</p>
+<p>(k)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Este estado con información sobre instrumentos de capital y otros instrumentos de patrimonio diferentes del capital (en adelante, valores) lo tienen que enviar las entidades que, siendo propietarias de valores a final del trimestre al que se refieren los datos, envíen el estado M.10-3. Los valores que declarar incluyen los calificados como activos no corrientes en venta. No se tienen que enviar los valores emitidos por la propia entidad (conocidos como autocartera).
+
+Los importes, incluso los correspondientes a valores denominados en una moneda distinta del euro, se declararán en unidades de euros.
+
+(b) Código asignado al valor en el estado M.10-3.
+
+(c) Mismo dato que el informado en el estado M.10-3.
+
+(d) Indica si los valores están clasificados en el balance a la fecha a la que se refieren los datos como activos no corrientes en venta: “Sí” o “No”.
+
+(e) Importe de las coberturas registrado en el activo como correcciones de valor por deterioro del valor a la fecha a la que se refiere el estado.
+
+(f) Importe de los ajustes por valoración realizados, en su caso, al valor como consecuencia de microcoberturas contables del valor razonable cuando el saldo sea positivo.
+
+(g) Importe sin signo de los ajustes por valoración realizados, en su caso, al valor como consecuencia de microcoberturas contables del valor razonable cuando el saldo sea negativo.
+
+(h) Importe pendiente de desembolsar por instrumentos de patrimonio suscritos por la entidad declarante cuyo desembolso no haya sido exigido por el emisor.
+
+(i) Para los instrumentos de capital propiedad de la entidad a fin de trimestre, excepto los que estén incluidos en la cartera de negociación, importe del capital suscrito, patrimonio de los fondos de inversión o instrumento de capital equivalente que figure en el balance de la entidad participada, cualquiera que sean sus derechos (acciones ordinarias, sin voto, etc.). Cuando no se disponga de otra información, se indicará el importe que figure en los últimos estados publicados.
+
+(j) Para los instrumentos de capital no cotizados propiedad de la entidad a fin de trimestre, importe del patrimonio neto de la participada correspondiente a los últimos estados financieros disponibles cuando sea positivo.
+
+(k) Para los instrumentos de capital no cotizados propiedad de la entidad a fin de trimestre, importe sin signo del patrimonio neto de la participada correspondiente a los últimos estados financieros disponibles cuando sea negativo.
+
+**ESTADO S.11-1**
+
+INFORMACIÓN SOBRE LA ENTREGA DE VIVIENDAS ADJUDICADAS O RECIBIDAS EN PAGO DE DEUDAS PROCEDENTES DE OPERACIONES DE CRÉDITO A LOS HOGARES PARA ADQUISICIÓN DE VIVIENDA (NEGOCIOS EN ESPAÑA)
+
+DETALLE DE LAS VIVIENDAS ENTREGADAS EN EL EJERCICIO
+
+<table>
+<tbody>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Número de viviendas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Vivienda habitual</p>
+<p>(a)</p>
+</td>
+<td>
+<p>Otras viviendas</p>
+</td>
+<td>
+<p>Total viviendas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Entregas de posesión (b)</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Entregas voluntarias de la posesión (c)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1 Como resultado de daciones en pago (d)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2 Otras</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Entregas de la posesión judiciales (e)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1 No ocupadas a la fecha de lanzamiento (f)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.2 Ocupadas a la fecha de lanzamiento (g)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Del que:</em> Intervención de las fuerzas de orden para el lanzamiento y entrega de la posesión (h)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Pro memoria</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número total de hipotecas concedidas a los hogares para la adquisición de vivienda (i)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Operaciones para las que no se ha tomado la posesión de la vivienda porque al ocupante se le ha reconocido título para permanecer en ella (j)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Notas
+
+a) Viviendas que hayan sido la residencia habitual de los prestatarios.
+
+b) Número de viviendas (tanto ocupadas como no ocupadas) de las que la entidad ha tomado posesión durante el año al que se refiere el estado, con independencia de la fecha de inicio de los procesos de ejecución. Se incluirán tanto las entregadas voluntariamente como por vía judicial. En esta línea no se incluirán aquellas viviendas en las que al ocupante se le haya reconocido el derecho a permanecer en la vivienda (por ejemplo, porque tuviese un contrato de alquiler previo).
+
+c) Número de viviendas que el deudor haya entregado voluntariamente; es decir, en las que se ha producido la entrega de llaves y la formalización del correspondiente documento al efecto sin que haya sido necesario solicitar la toma de posesión por la vía judicial.
+
+d) Número de viviendas con cuya entrega se canceló totalmente la deuda.
+
+e) Número de viviendas en las que, para su entrega a la entidad, se ha requerido una actuación por vía judicial, interviniendo la Comisión Judicial.
+
+f) Número de viviendas en las que, cuando acudió la Comisión Judicial, el inmueble no estaba ocupado. Se incluyen también las situaciones en las que, habiendo ocupantes al acudir la Comisión Judicial, se les concede un nuevo y último plazo, tras el que, al presentarse de nuevo la Comisión Judicial, la vivienda no está ocupada.
+
+g) Número de viviendas en las que, cuando acudió la Comisión Judicial, y sin posibilidad de plazos adicionales, la vivienda estaba ocupada.
+
+h) Número de viviendas para las que ha sido preciso la intervención de las fuerzas de orden público para su toma de posesión.
+
+i) Número total de hipotecas vivas a la fecha del estado concedidas a los hogares para la adquisición de vivienda.
+
+j) Número de viviendas en las que, habiendo tomado la entidad la posesión en el ejercicio, el ocupante tiene derecho a permanecer (por ejemplo, porque tuviese un contrato de alquiler previo).
+
+**ESTADO S.11-2**
+
+INFORMACIÓN SOBRE LA ENTREGA DE VIVIENDAS ADJUDICADAS O RECIBIDAS EN PAGO DE DEUDAS PROCEDENTES DE OPERACIONES DE CRÉDITO A LOS HOGARES PARA ADQUISICIÓN DE VIVIENDA (NEGOCIOS EN ESPAÑA)
+
+NÚMERO DE VIVIENDAS OCUPADAS A LA FECHA DE LANZAMIENTO DISTRIBUIDAS SEGÚN LA FECHA DE FORMALIZACIÓN DE LA HIPOTECA (a)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>FECHA DE FORMALIZACIÓN DE LA HIPOTECA (b)</p>
+</td>
+<td colspan="3">
+<p>Número de viviendas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vivienda habitual</p>
+</td>
+<td>
+<p>Otras viviendas</p>
+</td>
+<td>
+<p>Total viviendas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hasta 2007</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2008</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2009</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2010</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2011</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2012</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2013</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(…)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>TOTAL</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Número de viviendas en las que, cuando acudió la Comisión Judicial, y sin posibilidad de plazos adicionales, la vivienda estaba ocupada. Los importes de la línea TOTAL coincidirán con los que se informen en la línea 2.2 del estado S.11-1.
+
+(b) Las viviendas se distribuirán en función del año en el que se hubiese formalizado la operación hipotecaria. Se añadirán nuevos años conforme sea necesario.
+
+**ESTADO C.23**
+
+DETALLE DE VALORES CON CÓDIGO ISIN (a)
+
+(Unidades de euros)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Código de la entidad tenedora</p>
+<p>(b)</p>
+</td>
+<td rowspan="2">
+<p>Pertenencia de la entidad emisora al grupo económico de la entidad</p>
+<p>(c)</p>
+</td>
+<td rowspan="2">
+<p>Tipo de producto</p>
+<p>(d)</p>
+</td>
+<td rowspan="2">
+<p>Código del valor</p>
+<p>(e)</p>
+</td>
+<td colspan="3">
+<p>SALDOS A FIN DEL TRIMESTRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nominal</p>
+<p>(f)</p>
+</td>
+<td>
+<p>Valor razonable</p>
+<p>(g)</p>
+</td>
+<td>
+<p>Número de títulos</p>
+<p>(h)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) En este estado se facilitará información, valor a valor, de todos los valores que tengan asignado un código ISIN que sean propiedad de las entidades que formen parte del grupo consolidable de entidades de crédito, excepto los de aquellas entidades que envíen el estado M.10.
+
+(b) Código de identificación de la entidad tenedora de los valores.
+
+(c) Indica si la entidad emisora de los valores pertenece al grupo económico de la entidad que declara: “Sí” o “No”.
+
+(d) Indica de qué tipo de valor se trata: “Valores representativos de deuda”, “Instrumentos de capital” o “Instrumentos de patrimonio diferentes de los instrumentos de capital”.
+
+(e) Código ISIN del valor.
+
+(f) Importe del nominal de los valores.
+
+(g) Valor razonable de los valores a fin de trimestre, con independencia de si cotizan o no.
+
+(h) Esta columna solo se declarará para valores cuyo tipo de valor sea “Instrumentos de capital” o “Instrumentos de patrimonio diferentes de los instrumentos de capital”.
+
+**ESTADO UEM.2 (cont.)**
+
+CLASIFICACIÓN POR SUJETOS Y RESIDENCIA DE ALGUNOS ACTIVOS Y PASIVOS
+
+(NEGOCIOS EN ESPAÑA)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>TODOS LOS SECTORES</p>
+</td>
+<td colspan="2">
+<p>RESIDENTES EN OTROS PAÍSES UEM</p>
+</td>
+<td colspan="2">
+<p>RESIDENTES EN PAÍSES UE NO UEM</p>
+</td>
+<td colspan="2">
+<p>RESIDENTES EN PAÍSES NO MIEMBROS DE LA UE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EUROS</p>
+</td>
+<td>
+<p>MONEDA</p>
+<p>EXTRANJERA</p>
+</td>
+<td>
+<p>EUROS</p>
+</td>
+<td>
+<p>MONEDA</p>
+<p>EXTRANJERA</p>
+</td>
+<td>
+<p>EUROS</p>
+</td>
+<td>
+<p>MONEDA</p>
+<p>EXTRANJERA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>ACTIVO</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Préstamos y créditos</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instituciones financieras monetarias (IFM)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Hasta un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Más de un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resto de sectores</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Hasta un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Más de un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Del que: entidades vinculadas (f)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hasta un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de un año</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>PASIVO</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Depósitos</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instituciones financieras monetarias (IFM)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Hasta un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Más de un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resto de sectores</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Hasta un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Más de un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Del que: entidades vinculadas (f)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Hasta un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Más de un año</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Pro memoria</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A la vista</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Depósitos a plazo a más de dos años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cesiones temporales</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEJO VIII.1 — ESQUEMA DE SECTORIZACIÓN MÍNIMA EN LA BASE DE DATOS
+
+– Administración Central
+
+– Estado
+
+– Organismos autónomos y similares
+
+– Empresas
+
+– Administraciones Autonómicas o Regionales
+
+– Administración General
+
+– Organismos autónomos y similares
+
+– Empresas
+
+– Administraciones Locales
+
+– Administración General
+
+– Organismos autónomos y similares
+
+– Empresas
+
+– Administraciones de la Seguridad Social
+
+– Organismos internacionales y supranacionales (excepto bancos multilaterales de desarrollo)
+
+– Administraciones Públicas
+
+– Otros intermediarios financieros
+
+– Bancos multilaterales de desarrollo
+
+– Con actividades similares a bancos centrales
+
+– Resto
+
+– Bancos centrales (incluido el Banco Central Europeo) y autoridades monetarias nacionales
+
+– Entidades de crédito
+
+– Entidades de dinero electrónico
+
+– Fondos del Mercado Monetario (FMM)
+
+– Otras instituciones financieras monetarias
+
+– Entidades de seguros
+
+– Fondos de pensiones
+
+– Fondos de inversión mobiliaria, excepto los FMM
+
+– Sociedades y fondos de inversión libre
+
+– Sociedades de inversión mobiliaria
+
+– Sociedades y fondos de inversión inmobiliaria
+
+– Resto de las instituciones de inversión colectiva
+
+– Sociedades de valores (ESI)
+
+– Sociedades anónimas cotizadas de inversión en el mercado inmobiliario
+
+– Sociedades y fondos de capital-riesgo
+
+– Sociedades y fondos de titulización
+
+– Entidades de contrapartida central
+
+– Resto de los otros intermediarios financieros
+
+– Entidades *holding* que gestionan filiales mayoritariamente financieras
+
+– Agencias de valores (ESI)
+
+– Sociedades gestoras de cartera (ESI)
+
+– Sociedades gestoras de otros intermediarios financieros
+
+– Sociedades de garantía recíproca y reafianzamiento
+
+– Sociedades de tasación
+
+– Entidades de pago
+
+– Establecimientos de cambio de moneda
+
+– Resto de los auxiliares financieros
+
+– Sociedades emisoras de participaciones preferentes
+
+– Otras entidades financieras especializadas
+
+– Empresas *holding* que no gestionan filiales
+
+– Sociedades no financieras
+
+– Instituciones sin fines de lucro al servicio de los hogares
+
+– Hogares
+
+– Empresarios individuales
+
+– Resto
+
+## ANEJO VIII.2 — ENTIDADES CLASIFICADAS COMO «OTROS INTERMEDIARIOS FINANCIEROS» Y «AUXILIARES FINANCIEROS»
+
+A) OTROS INTERMEDIARIOS FINANCIEROS
+
+1\. Instituciones de inversión colectiva registradas en la Comisión Nacional del Mercado de Valores que no se hayan calificado como «Otras instituciones financieras monetarias»
+
+1.1 Instituciones de inversión colectiva de carácter financiero
+
+1.1.1 Fondos de inversión no IFM
+
+Fondos de inversión mobiliaria, excepto los FMM
+
+Fondos de inversión libre
+
+1.1.2 Sociedades de inversión
+
+Sociedades de inversión mobiliaria
+
+Sociedades de inversión libre
+
+1.2 Instituciones de inversión colectiva de carácter no financiero
+
+1.2.1 Sociedades y fondos de inversión inmobiliaria
+
+1.2.2 Resto de las instituciones de inversión colectiva
+
+2\. Sociedades de valores registradas en la Comisión Nacional del Mercado de Valores
+
+3\. Sociedades anónimas cotizadas de inversión en el mercado inmobiliario
+
+4\. Sociedades y fondos de capital-riesgo
+
+5\. Sociedades y fondos de titulización
+
+6\. Sociedades emisoras de participaciones preferentes
+
+7\. Entidades *holding* que gestionan filiales mayoritariamente financieras
+
+8\. Resto de los otros intermediarios financieros
+
+B) AUXILIARES FINANCIEROS
+
+1\. Agencias de valores
+
+2\. Sociedades gestoras de cartera
+
+3\. Sociedades gestoras de otros intermediarios financieros
+
+4\. Sociedades de garantía recíproca y de reafianzamiento
+
+5\. Sociedades de tasación
+
+6\. Entidades de pago
+
+7\. Establecimientos de cambio de moneda
+
+8\. Entidades de contrapartida central
+
+9\. Resto de auxiliares financieros
+
+9.1 Sociedades rectoras de los mercados
+
+9.2 Servicio de compensación y liquidación de valores
+
+9.3 Bolsas y Mercados Españoles, sociedad*holding* de mercados y sistemas financieros
+
+## ANEJO X — REGISTROS CONTABLES ESPECIALES DE LA ACTIVIDAD HIPOTECARIA (a)
+
+## REGISTRO CONTABLE ESPECIAL DE OPERACIONES HIPOTECARIAS
+
+Código de la operación
+
+Datos de los titulares (b)
+
+– Naturaleza de la intervención en la operación
+
+– N.º orden de titularidad (1,…,n)
+
+– Código de la persona
+
+– Nombre
+
+– Domicilio
+
+– Código postal
+
+– País de residencia
+
+– Grupo económico
+
+– Código de identificación de la sociedad extranjera a la que pertenece (sucursales)
+
+– Sector
+
+– Actividad económica
+
+– Situación de la persona
+
+Datos de la operación
+
+– Origen de la operación
+
+– Novaciones y refinanciaciones
+
+– Tipo de producto
+
+– Moneda
+
+– Provincia en la que se realiza la inversión
+
+– Situación (normal, morosa, dudosa, fallida)
+
+– Importes según contrato
+
+– Límite. En el origen de la operación
+
+– Límite. Importe actual
+
+– Dispuesto. Principal pendiente de vencimiento
+
+– Dispuesto. Principal vencido pendiente de cobro
+
+– Dispuesto. Intereses y comisiones vencidos pendientes de cobro registrados en el activo
+
+– Dispuesto. Intereses y comisiones vencidos pendientes de cobro registrados en cuentas de orden
+
+– Dispuesto. Intereses de demora registrados en el activo
+
+– Dispuesto. Intereses de demora registrados en cuentas de orden
+
+– Dispuesto. Gastos exigibles
+
+– Disponible. Disponibilidad inmediata
+
+– Disponible. Disponibilidad condicionada
+
+– Disponible. A disposición de terceros
+
+– Fechas
+
+– Formalización de la operación
+
+– Vencimiento de la operación
+
+– Cancelación económica
+
+– Novaciones (solo si se modifica alguna cláusula en la que figuran datos incluidos en el registro referidos al inicio de la operación)
+
+– Número (1,…, n)
+
+– Fecha
+
+– Tipo de interés
+
+– Tipo de interés de la operación
+
+– TAE en el origen
+
+– Tipo nominal vigente
+
+– Si variable:
+
+– Tipo de interés variable de referencia vigente (el pactado en el contrato; por ejemplo, euríbor, índices RPH, etc.)
+
+– Margen vigente sobre tipo de interés de referencia
+
+– Número de meses entre cada revisión
+
+– Tipo mínimo
+
+– Tipo máximo
+
+– Tipo de interés inicial inferior al del mercado para igual plazo
+
+– Tipo de interés
+
+– Número de meses
+
+– Esquema de amortización de préstamos
+
+– Periodicidad de las cuotas de los préstamos (número de meses)
+
+– Financiación a la vivienda acogida a planes especiales (plan)
+
+– Cláusulas especiales incluidas en los contratos de préstamo
+
+– Opción de incrementar el plazo de la operación (sí, no)
+
+– Opción de tener un período de carencia de principal, intereses o ambos durante la vida del préstamo (sí, no)
+
+– Opción de recargar el préstamo (sí, no)
+
+– Opción de aplazar todo o parte del principal al vencimiento del préstamo (sí, no)
+
+– Periodo de carencia inicial (número de meses)
+
+Finalidad de la operación
+
+– Finalidad
+
+– Estado de la construcción o promoción inmobiliaria
+
+– Número de viviendas previstas
+
+Garantía hipotecaria (datos básicos de los inmuebles recibidos en garantía)
+
+– Código del activo recibido en garantía
+
+– Identificación del inmueble:
+
+– Tipo de activo
+
+– Régimen legal de las viviendas (libre, protegida)
+
+– Localización del inmueble (país y código postal)
+
+– Dirección del inmueble (provincia, municipio, población, tipo de vía, nombre de la vía, n.º de la vía, bloque o portal, planta y puerta)
+
+– Inmueble integrado por varias fincas
+
+– Identificador Único de Finca Registral (IDUFIR)
+
+– Identificador registral
+
+– Referencia catastral
+
+– Geolocalización (posicionamiento geográfico SRS *-Spatial Reference System-*del inmueble, según nomenclatura definida en www.epsg.org con el código CRS: 4326, WGS84)
+
+– Importe de cargas previas comprometidas con terceros
+
+– Cobertura del bien con seguro de daños (sí, no)
+
+– Propietario de la garantía diferente del deudor (sí, no)
+
+Características del inmueble (c)
+
+Todos los inmuebles
+
+– Contaminación aparente relevante a efectos de valoración
+
+– Terreno
+
+– Construcción
+
+– Acústica
+
+– Ambiental
+
+– Otras
+
+– Conserje/portero/seguridad privada
+
+– Inmueble con características singulares
+
+Edificios y elementos de edificios
+
+– Ubicación relativa en el municipio
+
+– Ubicación relativa en el barrio o zona
+
+– Ubicación relativa en el inmueble
+
+– Superficie construida con elementos comunes (m<sup>2</sup>)
+
+– Superficie útil (m<sup>2</sup>)
+
+– Fecha de la construcción
+
+– Fecha de la última rehabilitación integral
+
+– Estado de la construcción
+
+– Licencia
+
+– Uso polivalente
+
+– Calidad de la construcción
+
+– Estado de conservación
+
+– Número de plantas sobre rasante del edificio
+
+– Valor del terreno ajustado
+
+– Edificios con viviendas
+
+– Régimen legal de las viviendas (libre, protegida)
+
+– Número de viviendas
+
+– Edificios en construcción o rehabilitación
+
+– Fecha del último grado de avance estimado
+
+– Código de la sociedad de tasación o valoración que estimó el grado de avance
+
+– Porcentaje construido (%)
+
+– Importe de los gastos de desarrollo
+
+– Promociones inmobiliarias
+
+– Porcentaje de ventas formalizadas (%)
+
+– Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%)
+
+Viviendas
+
+– Tipo de vivienda
+
+– Número de ascensores en el bloque
+
+– Número de dormitorios
+
+– Número de baños
+
+– Exterior/interior
+
+– Orientación
+
+– Superficie de terraza (m<sup>2</sup>)
+
+– Terraza tendedero
+
+– Cocina equipada
+
+– Armarios empotrados
+
+– Puerta de seguridad
+
+– Sistema de alarma
+
+– Circuito cerrado de seguridad
+
+– Agua caliente
+
+– Combustible del agua caliente
+
+– Tipo de calefacción
+
+– Aire acondicionado
+
+– Instalaciones comunes
+
+– Zona verde (m<sup>2</sup>)
+
+– Piscina
+
+– Tenis/pádel
+
+– Otras instalaciones deportivas
+
+– Vivienda habitual del prestatario
+
+Locales comerciales
+
+– Frente (m)
+
+– Fondo (m)
+
+– Altura (m)
+
+– Divisibilidad
+
+– Superficie en altillo (m<sup>2</sup>)
+
+– Superficie en planta sótano (m<sup>2</sup>)
+
+– Tipo de calle
+
+Oficinas
+
+– Tipo de edificación
+
+– Suelo técnico o falso techo para instalaciones
+
+– Divisibilidad
+
+Hoteles
+
+– Categoría
+
+– Tipo de destino
+
+– Instalaciones
+
+– Salas de convenciones/reuniones
+
+– Restaurante
+
+– Instalaciones deportivas
+
+Naves industriales
+
+– Altura libre (m)
+
+– Espacio diáfano
+
+– Luz estándar de estructura (m)
+
+– Instalaciones
+
+– Sótanos
+
+– Ubicación
+
+Suelo urbano y urbanizable
+
+– Tipo de suelo
+
+– Desarrollo del planeamiento
+
+– Sistema de gestión
+
+– Fase de gestión
+
+– Paralización de la urbanización
+
+– Porcentaje de la urbanización ejecutado (%)
+
+– Porcentaje del ámbito valorado (%)
+
+– Proximidad respecto del núcleo urbano
+
+– Proyecto de obra
+
+– Superficie del terreno (m<sup>2</sup>)
+
+Fincas rústicas
+
+– Superficie total (ha y a)
+
+– Superficie de cultivos de secano (ha y a)
+
+– Superficie de cultivos de regadío (ha y a)
+
+– Superficie de otros usos agrícolas (ha y a)
+
+– Superficie de usos ganaderos (ha y a)
+
+– Superficie construida de viviendas (m<sup>2</sup>)
+
+– Superficie construida destinada a usos agropecuarios (m<sup>2</sup>)
+
+– Agua de regadío legalizada
+
+– Energía eléctrica
+
+– Acceso a infraestructuras viales
+
+– Uso actual del suelo
+
+– Aprovechamiento esperado
+
+Edificios y suelo urbano y urbanizable:
+
+1) Aprovechamiento (unidades según uso)
+
+– Residencial (viviendas protegidas)
+
+– Residencial (viviendas libres de primera residencia)
+
+– Residencial (viviendas libres de segunda residencia)
+
+– Oficinas
+
+– Locales comerciales
+
+– Uso industrial
+
+– Uso hotelero (número de habitaciones)
+
+– Plazas de garaje
+
+– Trasteros
+
+– Otros usos
+
+**2) Aprovechamiento [superficie según uso (m****<sup>2</sup>**)]
+
+– Residencial (viviendas protegidas)
+
+– Residencial (viviendas libres de primera residencia)
+
+– Residencial (viviendas libres de segunda residencia)
+
+– Oficinas
+
+– Locales comerciales
+
+– Uso industrial
+
+– Uso hotelero
+
+– Plazas de garaje
+
+– Trasteros
+
+– Zona verde e instalaciones deportivas
+
+– Dotacional
+
+– Otros usos
+
+Datos de la escritura de la hipoteca
+
+– Inscrita en el Registro de la Propiedad (sí, pendiente)
+
+– Fecha de la escritura
+
+– Fecha de inscripción en el Registro de la Propiedad
+
+– Fecha de cancelación registral de la hipoteca (cuando sea gestionada o conocida por cualquier otra circunstancia por la entidad
+
+– Tipo de hipoteca (ordinaria, de máximo)
+
+– Código de la operación
+
+– Código de la garantía
+
+– Código del activo recibido en garantía
+
+– Orden de la hipoteca
+
+– Importe de la responsabilidad hipotecaria fijada en la escritura (cuando hay varias fincas, la suma de todas):
+
+– Principal
+
+– Intereses y costas
+
+-Activos en garantía de financiaciones de promociones inmobiliarias
+
+-Importe del valor de la garantía atribuido a la operación
+
+Datos de las tasaciones
+
+– Código del activo recibido en garantía
+
+– Tasaciones completas:
+
+– Número de tasación (original, última)
+
+– Fecha de la tasación
+
+– Código de la sociedad de tasación o valoración
+
+– Tasación conforme a la Ley del Mercado Hipotecario
+
+– Método de valoración (valor)
+
+– Condicionantes
+
+– Advertencias
+
+– Visita al interior del inmueble
+
+– Tipo de datos utilizados de inmuebles comparables
+
+– Método residual dinámico:
+
+– Tipo de actualización
+
+– Tasa anualizada homogénea
+
+– Tasa anual media de variación del precio de mercado del activo
+
+– Plazo máximo para finalizar la construcción
+
+– Plazo máximo para finalizar la comercialización
+
+– Método residual estático: margen de beneficio del promotor
+
+– Valor de tasación
+
+– Valor hipotecario
+
+– Valor en hipótesis de edificio terminado
+
+– Valor del terreno
+
+– Ultima tasación por métodos estadísticos:
+
+– Fecha de la última tasación
+
+– Código de la sociedad de tasación o valoración
+
+– Número de tasación
+
+– Método estadístico de valoración
+
+– Valor de tasación
+
+– Valor de la garantía a efectos del cálculo del loan to value:
+
+– Importe
+
+– Forma de obtención
+
+Garantías personales que cumplen los requisitos del mercado hipotecario
+
+– Actividad garante (entidad de crédito, entidad aseguradora)
+
+– Código de identificación (NIF o código asignado por la CIR)
+
+– Nombre
+
+– País de residencia
+
+– Orden del riesgo asumido por el garante (primero, último, prorrata, etc.)
+
+– Importe máximo cubierto
+
+Vínculo con mercado hipotecario
+
+– Tipo de vínculo con el mercado hipotecario
+
+– Elegible según artículo 3 del RD 716/2009 (sí, no)
+
+– Fecha de emisión
+
+– Fecha de inscripción de la emisión en el Registro Mercantil (solo bonos hipotecarios)
+
+– Fecha de vencimiento (solo participaciones hipotecarias)
+
+– Tipo de interés (solo participaciones hipotecarias)
+
+– Tipo de interés de referencia (fijo, euríbor, etc.)
+
+– Margen vigente sobre tipo de referencia
+
+– Identificación emisión (código ISIN de los valores emitidos)
+
+Tipo de transferencia
+
+– Tipo de transferencia (no transferido, dado íntegramente de baja del balance por transferencia a otra entidad de crédito española, dado íntegramente de baja del balance por otras transferencias, dado parcialmente de baja por transferencia a otra entidad de crédito española, dado parcialmente de baja del balance por otras transferencias)
+
+(a) Los datos de las dimensiones de este registro, cuyo contenido coincide con el de las dimensiones que se incluyen en los módulos de la Circular de la Central de Información de Riesgos (en adelante, CIR), deben tener, al menos, el mismo detalle que los de dicha circular, pudiendo tener las entidades un mayor desglose a efectos de la gestión, siempre que por agregación se puedan obtener los valores declarables a la CIR.
+
+Los datos de los activos que garanticen varias operaciones de la entidad se podrán incluir una sola vez en el apartado “Garantía hipotecaria” del Registro. El código que se asigne al activo en este apartado será el que se utilice en el apartado “Datos de la escritura de la hipoteca” para vincularlo con cada una de las operaciones que garantice. En este último apartado se relacionará cada operación con todos los activos recibidos como garantía hipotecaria.
+
+(b) Las entidades que, con carácter excepcional y por razones técnicas, no pudieran incluir en el Registro toda la información relativa a los datos de los titulares o del vínculo con el mercado hipotecario deberán disponer de procedimientos informáticos que permitan relacionar cada una de las operaciones con los datos de todos sus titulares y títulos hipotecarios.
+
+(c) Las datos de las dimensiones de este apartado, cuyo contenido coincide con el de las dimensiones que se incluyen en la Circular 8/2012, de 21 de diciembre, del Banco de España, a entidades de crédito, sobre bases de datos de activos transferibles a las sociedades previstas en el capítulo II de la Ley 8/2012, de 30 de octubre, sobre saneamiento y venta de los activos inmobiliarios del sector financiero, deben tener, al menos, el mismo detalle que los de dicha circular.

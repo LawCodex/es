@@ -203,56 +203,50 @@ e) Cualesquiera otros que contribuyan a mitigar las consecuencias de las medidas
 
 2\. Para el desarrollo de las actuaciones previstas, se destinan un total de 165.000.000 euros, con cargo a las siguientes partidas:
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="40%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">LÍNEA DE</p>
-<p class="cabeza_tabla">SUBVENCIÓN</p>
+<p>LÍNEA DE</p>
+<p>SUBVENCIÓN</p>
 </th>
-<th class="cabeza_tabla">COLECTIVO</th>
-<th class="cabeza_tabla">PARTIDAS PRESUPUESTARIAS</th>
+<th>COLECTIVO</th>
+<th>PARTIDAS PRESUPUESTARIAS</th>
 <th>
-<p class="cabeza_tabla">IMPORTE TOTAL</p>
-<p class="cabeza_tabla">(euros)</p>
+<p>IMPORTE TOTAL</p>
+<p>(euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Iniciativa</p>
-<p class="cuerpo_tabla_centro">AIRE</p>
+<p>Iniciativa</p>
+<p>AIRE</p>
 </td>
-<td class="cuerpo_tabla_centro">18 - 29 años</td>
-<td class="cuerpo_tabla_izq">1039160000 G/32L/46207/00 D2522103N3</td>
-<td class="cuerpo_tabla_der">63.250.000</td>
+<td>18 - 29 años</td>
+<td>1039160000 G/32L/46207/00 D2522103N3</td>
+<td>63.250.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30 - 44 años</td>
-<td class="cuerpo_tabla_izq">1039160000 G/32L/46209/00 D1115102N3</td>
-<td class="cuerpo_tabla_der">59.600.000</td>
+<td>30 - 44 años</td>
+<td>1039160000 G/32L/46209/00 D1115102N3</td>
+<td>59.600.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">&gt;45 PLD</td>
-<td class="cuerpo_tabla_izq">1039160000 G/32L/46210/00 D1212109N3</td>
-<td class="cuerpo_tabla_der">23.900.000</td>
+<td rowspan="2">&gt;45 PLD</td>
+<td>1039160000 G/32L/46210/00 D1212109N3</td>
+<td>23.900.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1039010000 G/32L/46000/00</td>
-<td class="cuerpo_tabla_der">18.250.000</td>
+<td>1039010000 G/32L/46000/00</td>
+<td>18.250.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TOTAL</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_der">165.000,000</td>
+<td>TOTAL</td>
+<td> </td>
+<td> </td>
+<td>165.000,000</td>
 </tr>
 </tbody>
 </table>
@@ -702,7094 +696,7085 @@ Sevilla, 16 de junio de 2020.–El Presidente de la Junta de Andalucía, Juan Ma
 
 ## ANEXO I — DOTACIÓN PRESUPUESTARIA MÁXIMA PARA CADA MUNICIPIO – INICIATIVA AIRE
 
-<table class="tabla">
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="30%">
-<col width="13%">
-<col width="13%">
-<col width="13%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Código Prov</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Municipio</th>
-<th class="cabeza_tabla" colspan="4">Cuantía asignada</th>
+<th rowspan="2">Código Prov</th>
+<th colspan="2" rowspan="2">Municipio</th>
+<th colspan="4">Cuantía asignada</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">18 a 29 años</th>
-<th class="cabeza_tabla">30 a 44 años</th>
-<th class="cabeza_tabla">45 a 64 años</th>
-<th class="cabeza_tabla">Total</th>
+<th>18 a 29 años</th>
+<th>30 a 44 años</th>
+<th>45 a 64 años</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04001</td>
-<td class="cuerpo_tabla_izq">Abla.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04002</td>
-<td class="cuerpo_tabla_izq">Abrucena.</td>
-<td class="cuerpo_tabla_der">17.864,74</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.384,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04003</td>
-<td class="cuerpo_tabla_izq">Adra.</td>
-<td class="cuerpo_tabla_der">196.146,70</td>
-<td class="cuerpo_tabla_der">128.411,56</td>
-<td class="cuerpo_tabla_der">88.275,96</td>
-<td class="cuerpo_tabla_der">412.834,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04004</td>
-<td class="cuerpo_tabla_izq">Albanchez.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04005</td>
-<td class="cuerpo_tabla_izq">Alboloduy.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04006</td>
-<td class="cuerpo_tabla_izq">Albox.</td>
-<td class="cuerpo_tabla_der">83.503,89</td>
-<td class="cuerpo_tabla_der">53.642,17</td>
-<td class="cuerpo_tabla_der">40.847,15</td>
-<td class="cuerpo_tabla_der">177.993,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04007</td>
-<td class="cuerpo_tabla_izq">Alcolea.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04008</td>
-<td class="cuerpo_tabla_izq">Alcóntar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04009</td>
-<td class="cuerpo_tabla_izq">Alcudia de Monteagud.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04010</td>
-<td class="cuerpo_tabla_izq">Alhabia.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04011</td>
-<td class="cuerpo_tabla_izq">Alhama de Almería.</td>
-<td class="cuerpo_tabla_der">27.575,25</td>
-<td class="cuerpo_tabla_der">16.423,25</td>
-<td class="cuerpo_tabla_der">13.707,69</td>
-<td class="cuerpo_tabla_der">57.706,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04012</td>
-<td class="cuerpo_tabla_izq">Alicún.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04013</td>
-<td class="cuerpo_tabla_izq">Almería.</td>
-<td class="cuerpo_tabla_der">1.417.726,75</td>
-<td class="cuerpo_tabla_der">939.767,25</td>
-<td class="cuerpo_tabla_der">716.658,76</td>
-<td class="cuerpo_tabla_der">3.074.152,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04014</td>
-<td class="cuerpo_tabla_izq">Almócita.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04015</td>
-<td class="cuerpo_tabla_izq">Alsodux.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04016</td>
-<td class="cuerpo_tabla_izq">Antas.</td>
-<td class="cuerpo_tabla_der">23.071,63</td>
-<td class="cuerpo_tabla_der">14.869,01</td>
-<td class="cuerpo_tabla_der">11.907,09</td>
-<td class="cuerpo_tabla_der">49.847,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04017</td>
-<td class="cuerpo_tabla_izq">Arboleas.</td>
-<td class="cuerpo_tabla_der">14.430,97</td>
-<td class="cuerpo_tabla_der">10.454,97</td>
-<td class="cuerpo_tabla_der">20.857,89</td>
-<td class="cuerpo_tabla_der">45.743,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04018</td>
-<td class="cuerpo_tabla_izq">Armuña de Almanzora.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04019</td>
-<td class="cuerpo_tabla_izq">Bacares.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04904</td>
-<td class="cuerpo_tabla_izq">Balanegra.</td>
-<td class="cuerpo_tabla_der">26.213,69</td>
-<td class="cuerpo_tabla_der">16.381,81</td>
-<td class="cuerpo_tabla_der">11.567,85</td>
-<td class="cuerpo_tabla_der">54.163,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04020</td>
-<td class="cuerpo_tabla_izq">Bayárcal.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04021</td>
-<td class="cuerpo_tabla_izq">Bayarque.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04022</td>
-<td class="cuerpo_tabla_izq">Bédar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04023</td>
-<td class="cuerpo_tabla_izq">Beires.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04024</td>
-<td class="cuerpo_tabla_izq">Benahadux.</td>
-<td class="cuerpo_tabla_der">29.774,69</td>
-<td class="cuerpo_tabla_der">24.981,95</td>
-<td class="cuerpo_tabla_der">14.686,28</td>
-<td class="cuerpo_tabla_der">69.442,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04026</td>
-<td class="cuerpo_tabla_izq">Benitagla.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04027</td>
-<td class="cuerpo_tabla_izq">Benizalón.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04028</td>
-<td class="cuerpo_tabla_izq">Bentarique.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04029</td>
-<td class="cuerpo_tabla_izq">Berja.</td>
-<td class="cuerpo_tabla_der">97.905,00</td>
-<td class="cuerpo_tabla_der">59.423,94</td>
-<td class="cuerpo_tabla_der">44.931,11</td>
-<td class="cuerpo_tabla_der">202.260,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04030</td>
-<td class="cuerpo_tabla_izq">Canjáyar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04031</td>
-<td class="cuerpo_tabla_izq">Cantoria.</td>
-<td class="cuerpo_tabla_der">17.468,29</td>
-<td class="cuerpo_tabla_der">11.884,87</td>
-<td class="cuerpo_tabla_der">12.911,78</td>
-<td class="cuerpo_tabla_der">42.264,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04032</td>
-<td class="cuerpo_tabla_izq">Carboneras.</td>
-<td class="cuerpo_tabla_der">56.744,03</td>
-<td class="cuerpo_tabla_der">40.047,73</td>
-<td class="cuerpo_tabla_der">29.939,17</td>
-<td class="cuerpo_tabla_der">126.730,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04033</td>
-<td class="cuerpo_tabla_izq">Castro de Filabres.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04036</td>
-<td class="cuerpo_tabla_izq">Chercos.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04037</td>
-<td class="cuerpo_tabla_izq">Chirivel.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04034</td>
-<td class="cuerpo_tabla_izq">Cóbdar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04035</td>
-<td class="cuerpo_tabla_izq">Cuevas del Almanzora.</td>
-<td class="cuerpo_tabla_der">101.675,47</td>
-<td class="cuerpo_tabla_der">71.754,26</td>
-<td class="cuerpo_tabla_der">46.875,24</td>
-<td class="cuerpo_tabla_der">220.304,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04038</td>
-<td class="cuerpo_tabla_izq">Dalías.</td>
-<td class="cuerpo_tabla_der">29.146,28</td>
-<td class="cuerpo_tabla_der">18.827,15</td>
-<td class="cuerpo_tabla_der">14.581,90</td>
-<td class="cuerpo_tabla_der">62.555,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04902</td>
-<td class="cuerpo_tabla_izq">Ejido, El.</td>
-<td class="cuerpo_tabla_der">650.278,92</td>
-<td class="cuerpo_tabla_der">467.733,64</td>
-<td class="cuerpo_tabla_der">279.361,22</td>
-<td class="cuerpo_tabla_der">1.397.373,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04041</td>
-<td class="cuerpo_tabla_izq">Enix.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04043</td>
-<td class="cuerpo_tabla_izq">Felix.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04044</td>
-<td class="cuerpo_tabla_izq">Fines.</td>
-<td class="cuerpo_tabla_der">23.991,75</td>
-<td class="cuerpo_tabla_der">19.645,81</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">61.397,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04045</td>
-<td class="cuerpo_tabla_izq">Fiñana.</td>
-<td class="cuerpo_tabla_der">24.463,06</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.983,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04046</td>
-<td class="cuerpo_tabla_izq">Fondón.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04047</td>
-<td class="cuerpo_tabla_izq">Gádor.</td>
-<td class="cuerpo_tabla_der">23.490,57</td>
-<td class="cuerpo_tabla_der">14.350,93</td>
-<td class="cuerpo_tabla_der">10.928,51</td>
-<td class="cuerpo_tabla_der">48.770,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04048</td>
-<td class="cuerpo_tabla_izq">Gallardos, Los.</td>
-<td class="cuerpo_tabla_der">24.620,16</td>
-<td class="cuerpo_tabla_der">20.039,55</td>
-<td class="cuerpo_tabla_der">19.143,07</td>
-<td class="cuerpo_tabla_der">63.802,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04049</td>
-<td class="cuerpo_tabla_izq">Garrucha.</td>
-<td class="cuerpo_tabla_der">68.579,12</td>
-<td class="cuerpo_tabla_der">49.435,35</td>
-<td class="cuerpo_tabla_der">32.313,88</td>
-<td class="cuerpo_tabla_der">150.328,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04050</td>
-<td class="cuerpo_tabla_izq">Gérgal.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04051</td>
-<td class="cuerpo_tabla_izq">Huécija.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04052</td>
-<td class="cuerpo_tabla_izq">Huércal de Almería.</td>
-<td class="cuerpo_tabla_der">114.400,80</td>
-<td class="cuerpo_tabla_der">103.730,20</td>
-<td class="cuerpo_tabla_der">62.062,90</td>
-<td class="cuerpo_tabla_der">280.193,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04053</td>
-<td class="cuerpo_tabla_izq">Huércal-Overa.</td>
-<td class="cuerpo_tabla_der">131.629,76</td>
-<td class="cuerpo_tabla_der">89.949,25</td>
-<td class="cuerpo_tabla_der">66.642,68</td>
-<td class="cuerpo_tabla_der">288.221,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04054</td>
-<td class="cuerpo_tabla_izq">Íllar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04055</td>
-<td class="cuerpo_tabla_izq">Instinción.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04056</td>
-<td class="cuerpo_tabla_izq">Laroya.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04057</td>
-<td class="cuerpo_tabla_izq">Láujar de Andarax.</td>
-<td class="cuerpo_tabla_der">17.864,74</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.384,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04058</td>
-<td class="cuerpo_tabla_izq">Líjar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04059</td>
-<td class="cuerpo_tabla_izq">Lubrín.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04060</td>
-<td class="cuerpo_tabla_izq">Lucainena de las Torres.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04061</td>
-<td class="cuerpo_tabla_izq">Lúcar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04062</td>
-<td class="cuerpo_tabla_izq">Macael.</td>
-<td class="cuerpo_tabla_der">38.205,88</td>
-<td class="cuerpo_tabla_der">25.064,84</td>
-<td class="cuerpo_tabla_der">22.058,29</td>
-<td class="cuerpo_tabla_der">85.329,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04063</td>
-<td class="cuerpo_tabla_izq">María.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04064</td>
-<td class="cuerpo_tabla_izq">Mojácar.</td>
-<td class="cuerpo_tabla_der">31.607,56</td>
-<td class="cuerpo_tabla_der">24.173,74</td>
-<td class="cuerpo_tabla_der">26.572,84</td>
-<td class="cuerpo_tabla_der">82.354,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04903</td>
-<td class="cuerpo_tabla_izq">Mojonera, La.</td>
-<td class="cuerpo_tabla_der">87.379,10</td>
-<td class="cuerpo_tabla_der">49.476,80</td>
-<td class="cuerpo_tabla_der">29.221,54</td>
-<td class="cuerpo_tabla_der">166.077,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04065</td>
-<td class="cuerpo_tabla_izq">Nacimiento.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04066</td>
-<td class="cuerpo_tabla_izq">Níjar.</td>
-<td class="cuerpo_tabla_der">271.032,43</td>
-<td class="cuerpo_tabla_der">177.691,39</td>
-<td class="cuerpo_tabla_der">91.368,29</td>
-<td class="cuerpo_tabla_der">540.092,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04067</td>
-<td class="cuerpo_tabla_izq">Ohanes.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04068</td>
-<td class="cuerpo_tabla_izq">Olula de Castro.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04069</td>
-<td class="cuerpo_tabla_izq">Olula del Río.</td>
-<td class="cuerpo_tabla_der">44.751,84</td>
-<td class="cuerpo_tabla_der">29.168,04</td>
-<td class="cuerpo_tabla_der">24.667,86</td>
-<td class="cuerpo_tabla_der">98.587,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04070</td>
-<td class="cuerpo_tabla_izq">Oria.</td>
-<td class="cuerpo_tabla_der">20.378,38</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">18.386,30</td>
-<td class="cuerpo_tabla_der">56.524,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04071</td>
-<td class="cuerpo_tabla_izq">Padules.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04072</td>
-<td class="cuerpo_tabla_izq">Partaloa.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04073</td>
-<td class="cuerpo_tabla_izq">Paterna del Río.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04074</td>
-<td class="cuerpo_tabla_izq">Pechina.</td>
-<td class="cuerpo_tabla_der">28.674,97</td>
-<td class="cuerpo_tabla_der">21.293,21</td>
-<td class="cuerpo_tabla_der">14.803,71</td>
-<td class="cuerpo_tabla_der">64.771,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04075</td>
-<td class="cuerpo_tabla_izq">Pulpí.</td>
-<td class="cuerpo_tabla_der">82.980,22</td>
-<td class="cuerpo_tabla_der">53.352,04</td>
-<td class="cuerpo_tabla_der">34.819,06</td>
-<td class="cuerpo_tabla_der">171.151,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04076</td>
-<td class="cuerpo_tabla_izq">Purchena.</td>
-<td class="cuerpo_tabla_der">20.221,28</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.741,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04077</td>
-<td class="cuerpo_tabla_izq">Rágol.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04078</td>
-<td class="cuerpo_tabla_izq">Rioja.</td>
-<td class="cuerpo_tabla_der">18.964,46</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.484,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04079</td>
-<td class="cuerpo_tabla_izq">Roquetas de Mar.</td>
-<td class="cuerpo_tabla_der">748.049,31</td>
-<td class="cuerpo_tabla_der">562.873,96</td>
-<td class="cuerpo_tabla_der">328.003,48</td>
-<td class="cuerpo_tabla_der">1.638.926,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04080</td>
-<td class="cuerpo_tabla_izq">Santa Cruz de Marchena.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04081</td>
-<td class="cuerpo_tabla_izq">Santa Fe de Mondújar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04082</td>
-<td class="cuerpo_tabla_izq">Senés.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04083</td>
-<td class="cuerpo_tabla_izq">Serón.</td>
-<td class="cuerpo_tabla_der">21.582,84</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">57.102,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04084</td>
-<td class="cuerpo_tabla_izq">Sierro.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04085</td>
-<td class="cuerpo_tabla_izq">Somontín.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04086</td>
-<td class="cuerpo_tabla_izq">Sorbas.</td>
-<td class="cuerpo_tabla_der">23.153,87</td>
-<td class="cuerpo_tabla_der">18.816,88</td>
-<td class="cuerpo_tabla_der">17.968,77</td>
-<td class="cuerpo_tabla_der">59.939,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04087</td>
-<td class="cuerpo_tabla_izq">Suflí.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04088</td>
-<td class="cuerpo_tabla_izq">Tabernas.</td>
-<td class="cuerpo_tabla_der">27.941,82</td>
-<td class="cuerpo_tabla_der">17.459,41</td>
-<td class="cuerpo_tabla_der">14.412,27</td>
-<td class="cuerpo_tabla_der">59.813,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04089</td>
-<td class="cuerpo_tabla_izq">Taberno.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04090</td>
-<td class="cuerpo_tabla_izq">Tahal.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04091</td>
-<td class="cuerpo_tabla_izq">Terque.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04092</td>
-<td class="cuerpo_tabla_izq">Tíjola.</td>
-<td class="cuerpo_tabla_der">27.575,25</td>
-<td class="cuerpo_tabla_der">15.076,24</td>
-<td class="cuerpo_tabla_der">13.433,69</td>
-<td class="cuerpo_tabla_der">56.085,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04901</td>
-<td class="cuerpo_tabla_izq">Tres Villas, Las.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04093</td>
-<td class="cuerpo_tabla_izq">Turre.</td>
-<td class="cuerpo_tabla_der">21.710,07</td>
-<td class="cuerpo_tabla_der">16.029,51</td>
-<td class="cuerpo_tabla_der">13.042,25</td>
-<td class="cuerpo_tabla_der">50.781,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04094</td>
-<td class="cuerpo_tabla_izq">Turrillas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04095</td>
-<td class="cuerpo_tabla_izq">Uleila del Campo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04096</td>
-<td class="cuerpo_tabla_izq">Urrácal.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04097</td>
-<td class="cuerpo_tabla_izq">Velefique.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04098</td>
-<td class="cuerpo_tabla_izq">Vélez-Blanco.</td>
-<td class="cuerpo_tabla_der">20.902,06</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.422,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04099</td>
-<td class="cuerpo_tabla_izq">Vélez-Rubio.</td>
-<td class="cuerpo_tabla_der">44.385,26</td>
-<td class="cuerpo_tabla_der">26.163,17</td>
-<td class="cuerpo_tabla_der">25.163,67</td>
-<td class="cuerpo_tabla_der">95.712,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04100</td>
-<td class="cuerpo_tabla_izq">Vera.</td>
-<td class="cuerpo_tabla_der">115.500,53</td>
-<td class="cuerpo_tabla_der">84.996,40</td>
-<td class="cuerpo_tabla_der">57.026,44</td>
-<td class="cuerpo_tabla_der">257.523,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04101</td>
-<td class="cuerpo_tabla_izq">Viator.</td>
-<td class="cuerpo_tabla_der">44.123,43</td>
-<td class="cuerpo_tabla_der">35.758,02</td>
-<td class="cuerpo_tabla_der">18.874,63</td>
-<td class="cuerpo_tabla_der">98.756,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04102</td>
-<td class="cuerpo_tabla_izq">Vícar.</td>
-<td class="cuerpo_tabla_der">230.447,51</td>
-<td class="cuerpo_tabla_der">152.782,07</td>
-<td class="cuerpo_tabla_der">82.182,63</td>
-<td class="cuerpo_tabla_der">465.412,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">04103</td>
-<td class="cuerpo_tabla_izq">Zurgena.</td>
-<td class="cuerpo_tabla_der">12.388,63</td>
-<td class="cuerpo_tabla_der">10.206,29</td>
-<td class="cuerpo_tabla_der">12.063,67</td>
-<td class="cuerpo_tabla_der">34.658,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11001</td>
-<td class="cuerpo_tabla_izq">Alcalá de los Gazules.</td>
-<td class="cuerpo_tabla_der">43.704,48</td>
-<td class="cuerpo_tabla_der">81.654,32</td>
-<td class="cuerpo_tabla_der">21.379,81</td>
-<td class="cuerpo_tabla_der">146.738,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11002</td>
-<td class="cuerpo_tabla_izq">Alcalá del Valle.</td>
-<td class="cuerpo_tabla_der">37.525,10</td>
-<td class="cuerpo_tabla_der">79.548,91</td>
-<td class="cuerpo_tabla_der">20.401,22</td>
-<td class="cuerpo_tabla_der">137.475,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11003</td>
-<td class="cuerpo_tabla_izq">Algar.</td>
-<td class="cuerpo_tabla_der">18.545,51</td>
-<td class="cuerpo_tabla_der">31.976,67</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">68.282,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11004</td>
-<td class="cuerpo_tabla_izq">Algeciras.</td>
-<td class="cuerpo_tabla_der">812.042,57</td>
-<td class="cuerpo_tabla_der">2.138.188,70</td>
-<td class="cuerpo_tabla_der">435.126,04</td>
-<td class="cuerpo_tabla_der">3.385.357,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11005</td>
-<td class="cuerpo_tabla_izq">Algodonales.</td>
-<td class="cuerpo_tabla_der">37.525,10</td>
-<td class="cuerpo_tabla_der">84.812,44</td>
-<td class="cuerpo_tabla_der">21.953,91</td>
-<td class="cuerpo_tabla_der">144.291,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11006</td>
-<td class="cuerpo_tabla_izq">Arcos de la Frontera.</td>
-<td class="cuerpo_tabla_der">222.278,15</td>
-<td class="cuerpo_tabla_der">517.925,34</td>
-<td class="cuerpo_tabla_der">117.398,68</td>
-<td class="cuerpo_tabla_der">857.602,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11007</td>
-<td class="cuerpo_tabla_izq">Barbate.</td>
-<td class="cuerpo_tabla_der">162.107,73</td>
-<td class="cuerpo_tabla_der">372.125,70</td>
-<td class="cuerpo_tabla_der">87.819,28</td>
-<td class="cuerpo_tabla_der">622.052,71</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11008</td>
-<td class="cuerpo_tabla_izq">Barrios, Los.</td>
-<td class="cuerpo_tabla_der">163.992,96</td>
-<td class="cuerpo_tabla_der">422.505,16</td>
-<td class="cuerpo_tabla_der">88.184,62</td>
-<td class="cuerpo_tabla_der">674.682,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11901</td>
-<td class="cuerpo_tabla_izq">Benalup-Casas Viejas.</td>
-<td class="cuerpo_tabla_der">50.931,22</td>
-<td class="cuerpo_tabla_der">118.348,60</td>
-<td class="cuerpo_tabla_der">28.412,58</td>
-<td class="cuerpo_tabla_der">197.692,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11009</td>
-<td class="cuerpo_tabla_izq">Benaocaz.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">25.821,56</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">61.341,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11010</td>
-<td class="cuerpo_tabla_izq">Bornos.</td>
-<td class="cuerpo_tabla_der">56.901,13</td>
-<td class="cuerpo_tabla_der">124.364,06</td>
-<td class="cuerpo_tabla_der">31.061,29</td>
-<td class="cuerpo_tabla_der">212.326,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11011</td>
-<td class="cuerpo_tabla_izq">Bosque, El.</td>
-<td class="cuerpo_tabla_der">23.520,44</td>
-<td class="cuerpo_tabla_der">47.448,60</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">88.729,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11012</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_der">701.389,74</td>
-<td class="cuerpo_tabla_der">1.721.467,91</td>
-<td class="cuerpo_tabla_der">462.017,59</td>
-<td class="cuerpo_tabla_der">2.884.875,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11013</td>
-<td class="cuerpo_tabla_izq">Castellar de la Frontera.</td>
-<td class="cuerpo_tabla_der">24.747,40</td>
-<td class="cuerpo_tabla_der">49.697,20</td>
-<td class="cuerpo_tabla_der">12.585,58</td>
-<td class="cuerpo_tabla_der">87.030,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11015</td>
-<td class="cuerpo_tabla_izq">Chiclana de la Frontera.</td>
-<td class="cuerpo_tabla_der">585.290,67</td>
-<td class="cuerpo_tabla_der">1.496.790,60</td>
-<td class="cuerpo_tabla_der">316.991,12</td>
-<td class="cuerpo_tabla_der">2.399.072,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11016</td>
-<td class="cuerpo_tabla_izq">Chipiona.</td>
-<td class="cuerpo_tabla_der">141.946,19</td>
-<td class="cuerpo_tabla_der">317.986,58</td>
-<td class="cuerpo_tabla_der">72.409,81</td>
-<td class="cuerpo_tabla_der">532.342,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11014</td>
-<td class="cuerpo_tabla_izq">Conil de la Frontera.</td>
-<td class="cuerpo_tabla_der">148.858,71</td>
-<td class="cuerpo_tabla_der">413.481,97</td>
-<td class="cuerpo_tabla_der">82.091,29</td>
-<td class="cuerpo_tabla_der">644.431,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11017</td>
-<td class="cuerpo_tabla_izq">Espera.</td>
-<td class="cuerpo_tabla_der">27.418,15</td>
-<td class="cuerpo_tabla_der">66.014,13</td>
-<td class="cuerpo_tabla_der">15.221,24</td>
-<td class="cuerpo_tabla_der">108.653,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11018</td>
-<td class="cuerpo_tabla_izq">Gastor, El.</td>
-<td class="cuerpo_tabla_der">20.221,28</td>
-<td class="cuerpo_tabla_der">37.641,55</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">75.622,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11019</td>
-<td class="cuerpo_tabla_izq">Grazalema.</td>
-<td class="cuerpo_tabla_der">22.787,29</td>
-<td class="cuerpo_tabla_der">39.711,41</td>
-<td class="cuerpo_tabla_der">18.125,34</td>
-<td class="cuerpo_tabla_der">80.624,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11020</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_der">1.403.587,49</td>
-<td class="cuerpo_tabla_der">3.476.928,67</td>
-<td class="cuerpo_tabla_der">819.097,16</td>
-<td class="cuerpo_tabla_der">5.699.613,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11021</td>
-<td class="cuerpo_tabla_izq">Jimena de la Frontera.</td>
-<td class="cuerpo_tabla_der">49.517,29</td>
-<td class="cuerpo_tabla_der">109.851,77</td>
-<td class="cuerpo_tabla_der">27.055,61</td>
-<td class="cuerpo_tabla_der">186.424,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11022</td>
-<td class="cuerpo_tabla_izq">Línea de la Concepción, La.</td>
-<td class="cuerpo_tabla_der">458.979,91</td>
-<td class="cuerpo_tabla_der">1.061.948,24</td>
-<td class="cuerpo_tabla_der">227.457,01</td>
-<td class="cuerpo_tabla_der">1.748.385,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11023</td>
-<td class="cuerpo_tabla_izq">Medina Sidonia.</td>
-<td class="cuerpo_tabla_der">81.094,98</td>
-<td class="cuerpo_tabla_der">200.835,56</td>
-<td class="cuerpo_tabla_der">45.231,21</td>
-<td class="cuerpo_tabla_der">327.161,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11024</td>
-<td class="cuerpo_tabla_izq">Olvera.</td>
-<td class="cuerpo_tabla_der">57.215,34</td>
-<td class="cuerpo_tabla_der">106.919,23</td>
-<td class="cuerpo_tabla_der">33.657,80</td>
-<td class="cuerpo_tabla_der">197.792,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11025</td>
-<td class="cuerpo_tabla_izq">Paterna de Rivera.</td>
-<td class="cuerpo_tabla_der">40.038,75</td>
-<td class="cuerpo_tabla_der">95.264,29</td>
-<td class="cuerpo_tabla_der">21.066,66</td>
-<td class="cuerpo_tabla_der">156.369,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11026</td>
-<td class="cuerpo_tabla_izq">Prado del Rey.</td>
-<td class="cuerpo_tabla_der">37.368,00</td>
-<td class="cuerpo_tabla_der">90.376,73</td>
-<td class="cuerpo_tabla_der">23.219,55</td>
-<td class="cuerpo_tabla_der">150.964,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11027</td>
-<td class="cuerpo_tabla_izq">Puerto de Santa María, El.</td>
-<td class="cuerpo_tabla_der">598.487,31</td>
-<td class="cuerpo_tabla_der">1.460.622,66</td>
-<td class="cuerpo_tabla_der">338.089,44</td>
-<td class="cuerpo_tabla_der">2.397.199,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11028</td>
-<td class="cuerpo_tabla_izq">Puerto Real.</td>
-<td class="cuerpo_tabla_der">272.236,89</td>
-<td class="cuerpo_tabla_der">741.775,54</td>
-<td class="cuerpo_tabla_der">165.649,51</td>
-<td class="cuerpo_tabla_der">1.179.661,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11029</td>
-<td class="cuerpo_tabla_izq">Puerto Serrano.</td>
-<td class="cuerpo_tabla_der">62.818,67</td>
-<td class="cuerpo_tabla_der">113.761,82</td>
-<td class="cuerpo_tabla_der">25.059,29</td>
-<td class="cuerpo_tabla_der">201.639,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11030</td>
-<td class="cuerpo_tabla_izq">Rota.</td>
-<td class="cuerpo_tabla_der">199.760,07</td>
-<td class="cuerpo_tabla_der">510.406,02</td>
-<td class="cuerpo_tabla_der">110.770,39</td>
-<td class="cuerpo_tabla_der">820.936,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11031</td>
-<td class="cuerpo_tabla_izq">San Fernando.</td>
-<td class="cuerpo_tabla_der">635.720,71</td>
-<td class="cuerpo_tabla_der">1.561.832,73</td>
-<td class="cuerpo_tabla_der">369.143,24</td>
-<td class="cuerpo_tabla_der">2.566.696,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11902</td>
-<td class="cuerpo_tabla_izq">San José del Valle.</td>
-<td class="cuerpo_tabla_der">33.440,43</td>
-<td class="cuerpo_tabla_der">71.352,85</td>
-<td class="cuerpo_tabla_der">17.387,18</td>
-<td class="cuerpo_tabla_der">122.180,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11903</td>
-<td class="cuerpo_tabla_izq">San Martín del Tesorillo.</td>
-<td class="cuerpo_tabla_der">30.694,81</td>
-<td class="cuerpo_tabla_der">57.223,72</td>
-<td class="cuerpo_tabla_der">19.586,69</td>
-<td class="cuerpo_tabla_der">107.505,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11033</td>
-<td class="cuerpo_tabla_izq">San Roque.</td>
-<td class="cuerpo_tabla_der">211.019,11</td>
-<td class="cuerpo_tabla_der">564.921,10</td>
-<td class="cuerpo_tabla_der">111.044,40</td>
-<td class="cuerpo_tabla_der">886.984,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11032</td>
-<td class="cuerpo_tabla_izq">Sanlúcar de Barrameda.</td>
-<td class="cuerpo_tabla_der">482.702,45</td>
-<td class="cuerpo_tabla_der">1.184.738,75</td>
-<td class="cuerpo_tabla_der">255.927,34</td>
-<td class="cuerpo_tabla_der">1.923.368,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11034</td>
-<td class="cuerpo_tabla_izq">Setenil de las Bodegas.</td>
-<td class="cuerpo_tabla_der">30.328,23</td>
-<td class="cuerpo_tabla_der">51.358,65</td>
-<td class="cuerpo_tabla_der">20.030,32</td>
-<td class="cuerpo_tabla_der">101.717,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11035</td>
-<td class="cuerpo_tabla_izq">Tarifa.</td>
-<td class="cuerpo_tabla_der">117.333,39</td>
-<td class="cuerpo_tabla_der">333.476,39</td>
-<td class="cuerpo_tabla_der">71.418,18</td>
-<td class="cuerpo_tabla_der">522.227,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11036</td>
-<td class="cuerpo_tabla_izq">Torre Alháquime.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">25.603,68</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">61.123,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11037</td>
-<td class="cuerpo_tabla_izq">Trebujena.</td>
-<td class="cuerpo_tabla_der">46.637,07</td>
-<td class="cuerpo_tabla_der">117.596,67</td>
-<td class="cuerpo_tabla_der">27.159,99</td>
-<td class="cuerpo_tabla_der">191.393,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11038</td>
-<td class="cuerpo_tabla_izq">Ubrique.</td>
-<td class="cuerpo_tabla_der">101.308,89</td>
-<td class="cuerpo_tabla_der">262.719,57</td>
-<td class="cuerpo_tabla_der">67.856,13</td>
-<td class="cuerpo_tabla_der">431.884,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11039</td>
-<td class="cuerpo_tabla_izq">Vejer de la Frontera.</td>
-<td class="cuerpo_tabla_der">87.640,94</td>
-<td class="cuerpo_tabla_der">200.685,17</td>
-<td class="cuerpo_tabla_der">50.476,44</td>
-<td class="cuerpo_tabla_der">338.802,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11040</td>
-<td class="cuerpo_tabla_izq">Villaluenga del Rosario.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.498,89</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">58.018,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11041</td>
-<td class="cuerpo_tabla_izq">Villamartín.</td>
-<td class="cuerpo_tabla_der">92.092,19</td>
-<td class="cuerpo_tabla_der">196.624,74</td>
-<td class="cuerpo_tabla_der">47.788,59</td>
-<td class="cuerpo_tabla_der">336.505,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11042</td>
-<td class="cuerpo_tabla_izq">Zahara.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">32.902,66</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">68.422,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14001</td>
-<td class="cuerpo_tabla_izq">Adamuz.</td>
-<td class="cuerpo_tabla_der">26.999,21</td>
-<td class="cuerpo_tabla_der">19.614,63</td>
-<td class="cuerpo_tabla_der">16.082,39</td>
-<td class="cuerpo_tabla_der">62.696,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14002</td>
-<td class="cuerpo_tabla_izq">Aguilar de la Frontera.</td>
-<td class="cuerpo_tabla_der">98.062,10</td>
-<td class="cuerpo_tabla_der">58.553,57</td>
-<td class="cuerpo_tabla_der">51.154,92</td>
-<td class="cuerpo_tabla_der">207.770,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14003</td>
-<td class="cuerpo_tabla_izq">Alcaracejos.</td>
-<td class="cuerpo_tabla_der">17.917,10</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.437,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14004</td>
-<td class="cuerpo_tabla_izq">Almedinilla.</td>
-<td class="cuerpo_tabla_der">28.233,53</td>
-<td class="cuerpo_tabla_der">18.651,10</td>
-<td class="cuerpo_tabla_der">18.438,49</td>
-<td class="cuerpo_tabla_der">65.323,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14005</td>
-<td class="cuerpo_tabla_izq">Almodóvar del Río.</td>
-<td class="cuerpo_tabla_der">56.953,50</td>
-<td class="cuerpo_tabla_der">35.177,77</td>
-<td class="cuerpo_tabla_der">29.612,98</td>
-<td class="cuerpo_tabla_der">121.744,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14006</td>
-<td class="cuerpo_tabla_izq">Añora.</td>
-<td class="cuerpo_tabla_der">18.702,62</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.222,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14007</td>
-<td class="cuerpo_tabla_izq">Baena.</td>
-<td class="cuerpo_tabla_der">165.616,36</td>
-<td class="cuerpo_tabla_der">80.727,42</td>
-<td class="cuerpo_tabla_der">71.196,37</td>
-<td class="cuerpo_tabla_der">317.540,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14008</td>
-<td class="cuerpo_tabla_izq">Belalcázar.</td>
-<td class="cuerpo_tabla_der">24.066,62</td>
-<td class="cuerpo_tabla_der">12.029,93</td>
-<td class="cuerpo_tabla_der">12.481,20</td>
-<td class="cuerpo_tabla_der">48.577,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14009</td>
-<td class="cuerpo_tabla_izq">Belmez.</td>
-<td class="cuerpo_tabla_der">29.856,93</td>
-<td class="cuerpo_tabla_der">19.790,88</td>
-<td class="cuerpo_tabla_der">20.956,71</td>
-<td class="cuerpo_tabla_der">70.604,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14010</td>
-<td class="cuerpo_tabla_izq">Benamejí.</td>
-<td class="cuerpo_tabla_der">39.096,13</td>
-<td class="cuerpo_tabla_der">20.650,79</td>
-<td class="cuerpo_tabla_der">19.670,54</td>
-<td class="cuerpo_tabla_der">79.417,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14011</td>
-<td class="cuerpo_tabla_izq">Blázquez, Los.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14012</td>
-<td class="cuerpo_tabla_izq">Bujalance.</td>
-<td class="cuerpo_tabla_der">54.963,53</td>
-<td class="cuerpo_tabla_der">30.991,68</td>
-<td class="cuerpo_tabla_der">28.386,48</td>
-<td class="cuerpo_tabla_der">114.341,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14013</td>
-<td class="cuerpo_tabla_izq">Cabra.</td>
-<td class="cuerpo_tabla_der">150.325,01</td>
-<td class="cuerpo_tabla_der">80.727,42</td>
-<td class="cuerpo_tabla_der">81.008,33</td>
-<td class="cuerpo_tabla_der">312.060,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14014</td>
-<td class="cuerpo_tabla_izq">Cañete de las Torres.</td>
-<td class="cuerpo_tabla_der">31.323,22</td>
-<td class="cuerpo_tabla_der">19.977,39</td>
-<td class="cuerpo_tabla_der">21.087,19</td>
-<td class="cuerpo_tabla_der">72.387,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14015</td>
-<td class="cuerpo_tabla_izq">Carcabuey.</td>
-<td class="cuerpo_tabla_der">27.762,22</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">19.560,60</td>
-<td class="cuerpo_tabla_der">65.082,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14016</td>
-<td class="cuerpo_tabla_izq">Cardeña.</td>
-<td class="cuerpo_tabla_der">18.807,35</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.327,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14017</td>
-<td class="cuerpo_tabla_izq">Carlota, La.</td>
-<td class="cuerpo_tabla_der">96.543,44</td>
-<td class="cuerpo_tabla_der">67.754,68</td>
-<td class="cuerpo_tabla_der">49.523,95</td>
-<td class="cuerpo_tabla_der">213.822,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14018</td>
-<td class="cuerpo_tabla_izq">Carpio, El.</td>
-<td class="cuerpo_tabla_der">28.884,44</td>
-<td class="cuerpo_tabla_der">19.220,89</td>
-<td class="cuerpo_tabla_der">17.374,13</td>
-<td class="cuerpo_tabla_der">65.479,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14019</td>
-<td class="cuerpo_tabla_izq">Castro del Río.</td>
-<td class="cuerpo_tabla_der">58.472,16</td>
-<td class="cuerpo_tabla_der">31.675,55</td>
-<td class="cuerpo_tabla_der">30.930,81</td>
-<td class="cuerpo_tabla_der">121.078,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14020</td>
-<td class="cuerpo_tabla_izq">Conquista.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14021</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
-<td class="cuerpo_tabla_der">2.164.908,31</td>
-<td class="cuerpo_tabla_der">1.417.831,31</td>
-<td class="cuerpo_tabla_der">1.242.785,83</td>
-<td class="cuerpo_tabla_der">4.825.525,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14022</td>
-<td class="cuerpo_tabla_izq">Doña Mencía.</td>
-<td class="cuerpo_tabla_der">35.325,66</td>
-<td class="cuerpo_tabla_der">18.744,25</td>
-<td class="cuerpo_tabla_der">18.222,24</td>
-<td class="cuerpo_tabla_der">72.292,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14023</td>
-<td class="cuerpo_tabla_izq">Dos Torres.</td>
-<td class="cuerpo_tabla_der">28.233,53</td>
-<td class="cuerpo_tabla_der">18.008,68</td>
-<td class="cuerpo_tabla_der">18.869,06</td>
-<td class="cuerpo_tabla_der">65.111,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14024</td>
-<td class="cuerpo_tabla_izq">Encinas Reales.</td>
-<td class="cuerpo_tabla_der">25.981,72</td>
-<td class="cuerpo_tabla_der">18.070,85</td>
-<td class="cuerpo_tabla_der">18.138,39</td>
-<td class="cuerpo_tabla_der">62.190,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14025</td>
-<td class="cuerpo_tabla_izq">Espejo.</td>
-<td class="cuerpo_tabla_der">22.024,28</td>
-<td class="cuerpo_tabla_der">12.796,69</td>
-<td class="cuerpo_tabla_der">13.133,59</td>
-<td class="cuerpo_tabla_der">47.954,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14026</td>
-<td class="cuerpo_tabla_izq">Espiel.</td>
-<td class="cuerpo_tabla_der">23.677,54</td>
-<td class="cuerpo_tabla_der">19.956,66</td>
-<td class="cuerpo_tabla_der">18.229,72</td>
-<td class="cuerpo_tabla_der">61.863,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14027</td>
-<td class="cuerpo_tabla_izq">Fernán-Núñez.</td>
-<td class="cuerpo_tabla_der">68.264,91</td>
-<td class="cuerpo_tabla_der">41.664,14</td>
-<td class="cuerpo_tabla_der">37.663,48</td>
-<td class="cuerpo_tabla_der">147.592,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14901</td>
-<td class="cuerpo_tabla_izq">Fuente Carreteros.</td>
-<td class="cuerpo_tabla_der">17.917,10</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.437,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14028</td>
-<td class="cuerpo_tabla_izq">Fuente la Lancha.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14029</td>
-<td class="cuerpo_tabla_izq">Fuente Obejuna.</td>
-<td class="cuerpo_tabla_der">31.240,98</td>
-<td class="cuerpo_tabla_der">17.107,12</td>
-<td class="cuerpo_tabla_der">19.357,40</td>
-<td class="cuerpo_tabla_der">67.705,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14030</td>
-<td class="cuerpo_tabla_izq">Fuente Palmera.</td>
-<td class="cuerpo_tabla_der">74.549,03</td>
-<td class="cuerpo_tabla_der">44.482,50</td>
-<td class="cuerpo_tabla_der">35.301,83</td>
-<td class="cuerpo_tabla_der">154.333,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14031</td>
-<td class="cuerpo_tabla_izq">Fuente-Tójar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14032</td>
-<td class="cuerpo_tabla_izq">Granjuela, La.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14033</td>
-<td class="cuerpo_tabla_izq">Guadalcázar.</td>
-<td class="cuerpo_tabla_der">20.483,12</td>
-<td class="cuerpo_tabla_der">17.842,89</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.086,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14902</td>
-<td class="cuerpo_tabla_izq">Guijarrosa, La.</td>
-<td class="cuerpo_tabla_der">18.231,31</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.751,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14034</td>
-<td class="cuerpo_tabla_izq">Guijo, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14035</td>
-<td class="cuerpo_tabla_izq">Hinojosa del Duque.</td>
-<td class="cuerpo_tabla_der">48.103,37</td>
-<td class="cuerpo_tabla_der">25.997,38</td>
-<td class="cuerpo_tabla_der">25.750,83</td>
-<td class="cuerpo_tabla_der">99.851,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14036</td>
-<td class="cuerpo_tabla_izq">Hornachuelos.</td>
-<td class="cuerpo_tabla_der">34.121,20</td>
-<td class="cuerpo_tabla_der">19.303,78</td>
-<td class="cuerpo_tabla_der">18.457,10</td>
-<td class="cuerpo_tabla_der">71.882,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14037</td>
-<td class="cuerpo_tabla_izq">Iznájar.</td>
-<td class="cuerpo_tabla_der">30.507,84</td>
-<td class="cuerpo_tabla_der">14.951,90</td>
-<td class="cuerpo_tabla_der">17.348,03</td>
-<td class="cuerpo_tabla_der">62.807,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14038</td>
-<td class="cuerpo_tabla_izq">Lucena.</td>
-<td class="cuerpo_tabla_der">328.898,68</td>
-<td class="cuerpo_tabla_der">198.165,93</td>
-<td class="cuerpo_tabla_der">151.844,92</td>
-<td class="cuerpo_tabla_der">678.909,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14039</td>
-<td class="cuerpo_tabla_izq">Luque.</td>
-<td class="cuerpo_tabla_der">34.412,91</td>
-<td class="cuerpo_tabla_der">19.148,46</td>
-<td class="cuerpo_tabla_der">21.791,78</td>
-<td class="cuerpo_tabla_der">75.353,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14040</td>
-<td class="cuerpo_tabla_izq">Montalbán de Córdoba.</td>
-<td class="cuerpo_tabla_der">25.113,97</td>
-<td class="cuerpo_tabla_der">19.573,18</td>
-<td class="cuerpo_tabla_der">17.713,37</td>
-<td class="cuerpo_tabla_der">62.400,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14041</td>
-<td class="cuerpo_tabla_izq">Montemayor.</td>
-<td class="cuerpo_tabla_der">27.103,94</td>
-<td class="cuerpo_tabla_der">16.174,58</td>
-<td class="cuerpo_tabla_der">15.403,91</td>
-<td class="cuerpo_tabla_der">58.682,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14042</td>
-<td class="cuerpo_tabla_izq">Montilla.</td>
-<td class="cuerpo_tabla_der">167.711,07</td>
-<td class="cuerpo_tabla_der">93.202,80</td>
-<td class="cuerpo_tabla_der">89.202,35</td>
-<td class="cuerpo_tabla_der">350.116,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14043</td>
-<td class="cuerpo_tabla_izq">Montoro.</td>
-<td class="cuerpo_tabla_der">69.626,47</td>
-<td class="cuerpo_tabla_der">40.027,01</td>
-<td class="cuerpo_tabla_der">34.284,10</td>
-<td class="cuerpo_tabla_der">143.937,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14044</td>
-<td class="cuerpo_tabla_izq">Monturque.</td>
-<td class="cuerpo_tabla_der">24.410,69</td>
-<td class="cuerpo_tabla_der">17.780,72</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.951,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14045</td>
-<td class="cuerpo_tabla_izq">Moriles.</td>
-<td class="cuerpo_tabla_der">29.879,43</td>
-<td class="cuerpo_tabla_der">15.262,75</td>
-<td class="cuerpo_tabla_der">15.299,53</td>
-<td class="cuerpo_tabla_der">60.441,71</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14046</td>
-<td class="cuerpo_tabla_izq">Nueva Carteya.</td>
-<td class="cuerpo_tabla_der">40.510,06</td>
-<td class="cuerpo_tabla_der">23.655,66</td>
-<td class="cuerpo_tabla_der">21.314,57</td>
-<td class="cuerpo_tabla_der">85.480,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14047</td>
-<td class="cuerpo_tabla_izq">Obejo.</td>
-<td class="cuerpo_tabla_der">23.939,38</td>
-<td class="cuerpo_tabla_der">19.521,47</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">61.220,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14048</td>
-<td class="cuerpo_tabla_izq">Palenciana.</td>
-<td class="cuerpo_tabla_der">20.011,81</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.531,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14049</td>
-<td class="cuerpo_tabla_izq">Palma del Río.</td>
-<td class="cuerpo_tabla_der">155.404,67</td>
-<td class="cuerpo_tabla_der">93.472,20</td>
-<td class="cuerpo_tabla_der">79.586,11</td>
-<td class="cuerpo_tabla_der">328.462,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14050</td>
-<td class="cuerpo_tabla_izq">Pedro Abad.</td>
-<td class="cuerpo_tabla_der">28.914,31</td>
-<td class="cuerpo_tabla_der">21.365,84</td>
-<td class="cuerpo_tabla_der">20.721,85</td>
-<td class="cuerpo_tabla_der">71.002,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14051</td>
-<td class="cuerpo_tabla_izq">Pedroche.</td>
-<td class="cuerpo_tabla_der">20.011,81</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.531,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14052</td>
-<td class="cuerpo_tabla_izq">Peñarroya-Pueblonuevo.</td>
-<td class="cuerpo_tabla_der">74.758,50</td>
-<td class="cuerpo_tabla_der">43.570,68</td>
-<td class="cuerpo_tabla_der">41.199,44</td>
-<td class="cuerpo_tabla_der">159.528,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14053</td>
-<td class="cuerpo_tabla_izq">Posadas.</td>
-<td class="cuerpo_tabla_der">53.025,92</td>
-<td class="cuerpo_tabla_der">30.224,92</td>
-<td class="cuerpo_tabla_der">29.169,35</td>
-<td class="cuerpo_tabla_der">112.420,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14054</td>
-<td class="cuerpo_tabla_izq">Pozoblanco.</td>
-<td class="cuerpo_tabla_der">128.697,17</td>
-<td class="cuerpo_tabla_der">70.635,21</td>
-<td class="cuerpo_tabla_der">68.521,57</td>
-<td class="cuerpo_tabla_der">267.853,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14055</td>
-<td class="cuerpo_tabla_izq">Priego de Córdoba.</td>
-<td class="cuerpo_tabla_der">168.967,89</td>
-<td class="cuerpo_tabla_der">86.695,71</td>
-<td class="cuerpo_tabla_der">88.067,19</td>
-<td class="cuerpo_tabla_der">343.730,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14056</td>
-<td class="cuerpo_tabla_izq">Puente Genil.</td>
-<td class="cuerpo_tabla_der">238.250,28</td>
-<td class="cuerpo_tabla_der">127.852,03</td>
-<td class="cuerpo_tabla_der">112.740,61</td>
-<td class="cuerpo_tabla_der">478.842,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14057</td>
-<td class="cuerpo_tabla_izq">Rambla, La.</td>
-<td class="cuerpo_tabla_der">54.963,53</td>
-<td class="cuerpo_tabla_der">34.411,01</td>
-<td class="cuerpo_tabla_der">29.156,31</td>
-<td class="cuerpo_tabla_der">118.530,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14058</td>
-<td class="cuerpo_tabla_izq">Rute.</td>
-<td class="cuerpo_tabla_der">69.888,31</td>
-<td class="cuerpo_tabla_der">39.923,39</td>
-<td class="cuerpo_tabla_der">37.546,05</td>
-<td class="cuerpo_tabla_der">147.357,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14059</td>
-<td class="cuerpo_tabla_izq">San Sebastián de los Ballesteros.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14061</td>
-<td class="cuerpo_tabla_izq">Santa Eufemia.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14060</td>
-<td class="cuerpo_tabla_izq">Santaella.</td>
-<td class="cuerpo_tabla_der">32.916,75</td>
-<td class="cuerpo_tabla_der">21.666,23</td>
-<td class="cuerpo_tabla_der">16.839,17</td>
-<td class="cuerpo_tabla_der">71.422,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14062</td>
-<td class="cuerpo_tabla_izq">Torrecampo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14063</td>
-<td class="cuerpo_tabla_izq">Valenzuela.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14064</td>
-<td class="cuerpo_tabla_izq">Valsequillo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14065</td>
-<td class="cuerpo_tabla_izq">Victoria, La.</td>
-<td class="cuerpo_tabla_der">22.734,93</td>
-<td class="cuerpo_tabla_der">20.060,28</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">60.555,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14066</td>
-<td class="cuerpo_tabla_izq">Villa del Río.</td>
-<td class="cuerpo_tabla_der">53.340,13</td>
-<td class="cuerpo_tabla_der">30.867,34</td>
-<td class="cuerpo_tabla_der">26.690,27</td>
-<td class="cuerpo_tabla_der">110.897,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14067</td>
-<td class="cuerpo_tabla_izq">Villafranca de Córdoba.</td>
-<td class="cuerpo_tabla_der">31.817,03</td>
-<td class="cuerpo_tabla_der">25.396,41</td>
-<td class="cuerpo_tabla_der">17.882,99</td>
-<td class="cuerpo_tabla_der">75.096,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14068</td>
-<td class="cuerpo_tabla_izq">Villaharta.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14069</td>
-<td class="cuerpo_tabla_izq">Villanueva de Córdoba.</td>
-<td class="cuerpo_tabla_der">62.452,10</td>
-<td class="cuerpo_tabla_der">35.115,60</td>
-<td class="cuerpo_tabla_der">33.957,90</td>
-<td class="cuerpo_tabla_der">131.525,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14070</td>
-<td class="cuerpo_tabla_izq">Villanueva del Duque.</td>
-<td class="cuerpo_tabla_der">18.650,25</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.170,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14071</td>
-<td class="cuerpo_tabla_izq">Villanueva del Rey.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14072</td>
-<td class="cuerpo_tabla_izq">Villaralto.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14073</td>
-<td class="cuerpo_tabla_izq">Villaviciosa de Córdoba.</td>
-<td class="cuerpo_tabla_der">20.086,68</td>
-<td class="cuerpo_tabla_der">12.610,18</td>
-<td class="cuerpo_tabla_der">12.898,73</td>
-<td class="cuerpo_tabla_der">45.595,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14074</td>
-<td class="cuerpo_tabla_izq">Viso, El.</td>
-<td class="cuerpo_tabla_der">28.600,10</td>
-<td class="cuerpo_tabla_der">18.091,57</td>
-<td class="cuerpo_tabla_der">19.260,50</td>
-<td class="cuerpo_tabla_der">65.952,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14075</td>
-<td class="cuerpo_tabla_izq">Zuheros.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18001</td>
-<td class="cuerpo_tabla_izq">Agrón.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18002</td>
-<td class="cuerpo_tabla_izq">Alamedilla.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18003</td>
-<td class="cuerpo_tabla_izq">Albolote.</td>
-<td class="cuerpo_tabla_der">142.312,76</td>
-<td class="cuerpo_tabla_der">88.892,37</td>
-<td class="cuerpo_tabla_der">73.531,93</td>
-<td class="cuerpo_tabla_der">304.737,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18004</td>
-<td class="cuerpo_tabla_izq">Albondón.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18005</td>
-<td class="cuerpo_tabla_izq">Albuñán.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18006</td>
-<td class="cuerpo_tabla_izq">Albuñol.</td>
-<td class="cuerpo_tabla_der">64.232,60</td>
-<td class="cuerpo_tabla_der">40.897,38</td>
-<td class="cuerpo_tabla_der">23.076,02</td>
-<td class="cuerpo_tabla_der">128.206,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18007</td>
-<td class="cuerpo_tabla_izq">Albuñuelas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18010</td>
-<td class="cuerpo_tabla_izq">Aldeire.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18011</td>
-<td class="cuerpo_tabla_izq">Alfacar.</td>
-<td class="cuerpo_tabla_der">43.337,91</td>
-<td class="cuerpo_tabla_der">23.220,47</td>
-<td class="cuerpo_tabla_der">22.136,58</td>
-<td class="cuerpo_tabla_der">88.694,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18012</td>
-<td class="cuerpo_tabla_izq">Algarinejo.</td>
-<td class="cuerpo_tabla_der">25.091,47</td>
-<td class="cuerpo_tabla_der">18.008,68</td>
-<td class="cuerpo_tabla_der">19.482,31</td>
-<td class="cuerpo_tabla_der">62.582,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18013</td>
-<td class="cuerpo_tabla_izq">Alhama de Granada.</td>
-<td class="cuerpo_tabla_der">46.898,91</td>
-<td class="cuerpo_tabla_der">28.318,38</td>
-<td class="cuerpo_tabla_der">22.710,68</td>
-<td class="cuerpo_tabla_der">97.927,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18014</td>
-<td class="cuerpo_tabla_izq">Alhendín.</td>
-<td class="cuerpo_tabla_der">61.561,85</td>
-<td class="cuerpo_tabla_der">59.506,84</td>
-<td class="cuerpo_tabla_der">29.469,45</td>
-<td class="cuerpo_tabla_der">150.538,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18015</td>
-<td class="cuerpo_tabla_izq">Alicún de Ortega.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18016</td>
-<td class="cuerpo_tabla_izq">Almegíjar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18017</td>
-<td class="cuerpo_tabla_izq">Almuñécar.</td>
-<td class="cuerpo_tabla_der">165.825,83</td>
-<td class="cuerpo_tabla_der">114.796,40</td>
-<td class="cuerpo_tabla_der">100.580,05</td>
-<td class="cuerpo_tabla_der">381.202,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18904</td>
-<td class="cuerpo_tabla_izq">Alpujarra de la Sierra.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18018</td>
-<td class="cuerpo_tabla_izq">Alquife.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18020</td>
-<td class="cuerpo_tabla_izq">Arenas del Rey.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18021</td>
-<td class="cuerpo_tabla_izq">Armilla.</td>
-<td class="cuerpo_tabla_der">179.807,99</td>
-<td class="cuerpo_tabla_der">127.271,78</td>
-<td class="cuerpo_tabla_der">90.924,67</td>
-<td class="cuerpo_tabla_der">398.004,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18022</td>
-<td class="cuerpo_tabla_izq">Atarfe.</td>
-<td class="cuerpo_tabla_der">124.874,33</td>
-<td class="cuerpo_tabla_der">107.377,49</td>
-<td class="cuerpo_tabla_der">60.405,82</td>
-<td class="cuerpo_tabla_der">292.657,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18023</td>
-<td class="cuerpo_tabla_izq">Baza.</td>
-<td class="cuerpo_tabla_der">152.629,19</td>
-<td class="cuerpo_tabla_der">86.695,71</td>
-<td class="cuerpo_tabla_der">77.107,03</td>
-<td class="cuerpo_tabla_der">316.431,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18024</td>
-<td class="cuerpo_tabla_izq">Beas de Granada.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18025</td>
-<td class="cuerpo_tabla_izq">Beas de Guadix.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18027</td>
-<td class="cuerpo_tabla_izq">Benalúa.</td>
-<td class="cuerpo_tabla_der">26.161,32</td>
-<td class="cuerpo_tabla_der">15.718,66</td>
-<td class="cuerpo_tabla_der">10.876,32</td>
-<td class="cuerpo_tabla_der">52.756,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18028</td>
-<td class="cuerpo_tabla_izq">Benalúa de las Villas.</td>
-<td class="cuerpo_tabla_der">18.231,31</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.751,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18029</td>
-<td class="cuerpo_tabla_izq">Benamaurel.</td>
-<td class="cuerpo_tabla_der">23.258,60</td>
-<td class="cuerpo_tabla_der">18.526,76</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.545,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18030</td>
-<td class="cuerpo_tabla_izq">Bérchules.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18032</td>
-<td class="cuerpo_tabla_izq">Bubión.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18033</td>
-<td class="cuerpo_tabla_izq">Busquístar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18034</td>
-<td class="cuerpo_tabla_izq">Cacín.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18035</td>
-<td class="cuerpo_tabla_izq">Cádiar.</td>
-<td class="cuerpo_tabla_der">18.440,78</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.960,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18036</td>
-<td class="cuerpo_tabla_izq">Cájar.</td>
-<td class="cuerpo_tabla_der">38.258,25</td>
-<td class="cuerpo_tabla_der">23.324,09</td>
-<td class="cuerpo_tabla_der">20.479,51</td>
-<td class="cuerpo_tabla_der">82.061,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18114</td>
-<td class="cuerpo_tabla_izq">Calahorra, La.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18037</td>
-<td class="cuerpo_tabla_izq">Calicasas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18038</td>
-<td class="cuerpo_tabla_izq">Campotéjar.</td>
-<td class="cuerpo_tabla_der">19.278,66</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.798,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18039</td>
-<td class="cuerpo_tabla_izq">Caniles.</td>
-<td class="cuerpo_tabla_der">28.256,03</td>
-<td class="cuerpo_tabla_der">16.236,74</td>
-<td class="cuerpo_tabla_der">15.795,34</td>
-<td class="cuerpo_tabla_der">60.288,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18040</td>
-<td class="cuerpo_tabla_izq">Cáñar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18042</td>
-<td class="cuerpo_tabla_izq">Capileira.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18043</td>
-<td class="cuerpo_tabla_izq">Carataunas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18044</td>
-<td class="cuerpo_tabla_izq">Cástaras.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18045</td>
-<td class="cuerpo_tabla_izq">Castilléjar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18046</td>
-<td class="cuerpo_tabla_izq">Castril.</td>
-<td class="cuerpo_tabla_der">23.101,50</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">58.621,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18047</td>
-<td class="cuerpo_tabla_izq">Cenes de la Vega.</td>
-<td class="cuerpo_tabla_der">58.891,10</td>
-<td class="cuerpo_tabla_der">39.736,88</td>
-<td class="cuerpo_tabla_der">34.597,24</td>
-<td class="cuerpo_tabla_der">133.225,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18059</td>
-<td class="cuerpo_tabla_izq">Chauchina.</td>
-<td class="cuerpo_tabla_der">40.091,12</td>
-<td class="cuerpo_tabla_der">25.541,47</td>
-<td class="cuerpo_tabla_der">20.857,89</td>
-<td class="cuerpo_tabla_der">86.490,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18061</td>
-<td class="cuerpo_tabla_izq">Chimeneas.</td>
-<td class="cuerpo_tabla_der">19.226,29</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.746,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18062</td>
-<td class="cuerpo_tabla_izq">Churriana de la Vega.</td>
-<td class="cuerpo_tabla_der">99.318,92</td>
-<td class="cuerpo_tabla_der">91.151,20</td>
-<td class="cuerpo_tabla_der">50.606,91</td>
-<td class="cuerpo_tabla_der">241.077,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18048</td>
-<td class="cuerpo_tabla_izq">Cijuela.</td>
-<td class="cuerpo_tabla_der">26.894,47</td>
-<td class="cuerpo_tabla_der">18.537,02</td>
-<td class="cuerpo_tabla_der">11.241,65</td>
-<td class="cuerpo_tabla_der">56.673,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18049</td>
-<td class="cuerpo_tabla_izq">Cogollos de Guadix.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18050</td>
-<td class="cuerpo_tabla_izq">Cogollos de la Vega.</td>
-<td class="cuerpo_tabla_der">24.724,90</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">60.244,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18051</td>
-<td class="cuerpo_tabla_izq">Colomera.</td>
-<td class="cuerpo_tabla_der">18.964,46</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.484,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18053</td>
-<td class="cuerpo_tabla_izq">Cortes de Baza.</td>
-<td class="cuerpo_tabla_der">19.645,24</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.165,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18054</td>
-<td class="cuerpo_tabla_izq">Cortes y Graena.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18912</td>
-<td class="cuerpo_tabla_izq">Cuevas del Campo.</td>
-<td class="cuerpo_tabla_der">21.425,74</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.945,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18056</td>
-<td class="cuerpo_tabla_izq">Cúllar.</td>
-<td class="cuerpo_tabla_der">28.360,76</td>
-<td class="cuerpo_tabla_der">15.697,94</td>
-<td class="cuerpo_tabla_der">15.847,53</td>
-<td class="cuerpo_tabla_der">59.906,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18057</td>
-<td class="cuerpo_tabla_izq">Cúllar Vega.</td>
-<td class="cuerpo_tabla_der">53.497,23</td>
-<td class="cuerpo_tabla_der">34.493,91</td>
-<td class="cuerpo_tabla_der">30.369,75</td>
-<td class="cuerpo_tabla_der">118.360,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18063</td>
-<td class="cuerpo_tabla_izq">Darro.</td>
-<td class="cuerpo_tabla_der">23.468,07</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">58.988,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18064</td>
-<td class="cuerpo_tabla_izq">Dehesas de Guadix.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18065</td>
-<td class="cuerpo_tabla_izq">Dehesas Viejas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18066</td>
-<td class="cuerpo_tabla_izq">Deifontes.</td>
-<td class="cuerpo_tabla_der">28.757,21</td>
-<td class="cuerpo_tabla_der">20.329,68</td>
-<td class="cuerpo_tabla_der">18.725,54</td>
-<td class="cuerpo_tabla_der">67.812,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18067</td>
-<td class="cuerpo_tabla_izq">Diezma.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18068</td>
-<td class="cuerpo_tabla_izq">Dílar.</td>
-<td class="cuerpo_tabla_der">22.315,99</td>
-<td class="cuerpo_tabla_der">18.733,99</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">58.809,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18069</td>
-<td class="cuerpo_tabla_izq">Dólar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18915</td>
-<td class="cuerpo_tabla_izq">Domingo Pérez de Granada.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18070</td>
-<td class="cuerpo_tabla_izq">Dúdar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18071</td>
-<td class="cuerpo_tabla_izq">Dúrcal.</td>
-<td class="cuerpo_tabla_der">51.140,69</td>
-<td class="cuerpo_tabla_der">30.535,77</td>
-<td class="cuerpo_tabla_der">28.556,11</td>
-<td class="cuerpo_tabla_der">110.232,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18072</td>
-<td class="cuerpo_tabla_izq">Escúzar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18074</td>
-<td class="cuerpo_tabla_izq">Ferreira.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18076</td>
-<td class="cuerpo_tabla_izq">Fonelas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18077</td>
-<td class="cuerpo_tabla_izq">Fornes.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18078</td>
-<td class="cuerpo_tabla_izq">Freila.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18079</td>
-<td class="cuerpo_tabla_izq">Fuente Vaqueros.</td>
-<td class="cuerpo_tabla_der">33.911,73</td>
-<td class="cuerpo_tabla_der">19.656,08</td>
-<td class="cuerpo_tabla_der">16.682,59</td>
-<td class="cuerpo_tabla_der">70.250,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18905</td>
-<td class="cuerpo_tabla_izq">Gabias, Las.</td>
-<td class="cuerpo_tabla_der">143.255,38</td>
-<td class="cuerpo_tabla_der">127.831,31</td>
-<td class="cuerpo_tabla_der">71.796,57</td>
-<td class="cuerpo_tabla_der">342.883,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18082</td>
-<td class="cuerpo_tabla_izq">Galera.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18083</td>
-<td class="cuerpo_tabla_izq">Gobernador.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18084</td>
-<td class="cuerpo_tabla_izq">Gójar.</td>
-<td class="cuerpo_tabla_der">45.851,56</td>
-<td class="cuerpo_tabla_der">25.458,58</td>
-<td class="cuerpo_tabla_der">23.754,51</td>
-<td class="cuerpo_tabla_der">95.064,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18085</td>
-<td class="cuerpo_tabla_izq">Gor.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18086</td>
-<td class="cuerpo_tabla_izq">Gorafe.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18087</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
-<td class="cuerpo_tabla_der">1.603.736,63</td>
-<td class="cuerpo_tabla_der">987.472,11</td>
-<td class="cuerpo_tabla_der">862.285,43</td>
-<td class="cuerpo_tabla_der">3.453.494,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18088</td>
-<td class="cuerpo_tabla_izq">Guadahortuna.</td>
-<td class="cuerpo_tabla_der">24.253,59</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.773,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18089</td>
-<td class="cuerpo_tabla_izq">Guadix.</td>
-<td class="cuerpo_tabla_der">134.143,41</td>
-<td class="cuerpo_tabla_der">80.810,31</td>
-<td class="cuerpo_tabla_der">69.917,68</td>
-<td class="cuerpo_tabla_der">284.871,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18906</td>
-<td class="cuerpo_tabla_izq">Guájares, Los.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18093</td>
-<td class="cuerpo_tabla_izq">Gualchos.</td>
-<td class="cuerpo_tabla_der">44.228,16</td>
-<td class="cuerpo_tabla_der">28.919,36</td>
-<td class="cuerpo_tabla_der">17.635,08</td>
-<td class="cuerpo_tabla_der">90.782,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18094</td>
-<td class="cuerpo_tabla_izq">Güéjar Sierra.</td>
-<td class="cuerpo_tabla_der">28.652,47</td>
-<td class="cuerpo_tabla_der">21.096,44</td>
-<td class="cuerpo_tabla_der">21.322,05</td>
-<td class="cuerpo_tabla_der">71.070,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18095</td>
-<td class="cuerpo_tabla_izq">Güevéjar.</td>
-<td class="cuerpo_tabla_der">29.909,29</td>
-<td class="cuerpo_tabla_der">22.319,11</td>
-<td class="cuerpo_tabla_der">18.503,73</td>
-<td class="cuerpo_tabla_der">70.732,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18096</td>
-<td class="cuerpo_tabla_izq">Huélago.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18097</td>
-<td class="cuerpo_tabla_izq">Huéneja.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18098</td>
-<td class="cuerpo_tabla_izq">Huéscar.</td>
-<td class="cuerpo_tabla_der">48.417,57</td>
-<td class="cuerpo_tabla_der">28.256,21</td>
-<td class="cuerpo_tabla_der">28.347,34</td>
-<td class="cuerpo_tabla_der">105.021,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18099</td>
-<td class="cuerpo_tabla_izq">Huétor de Santillán.</td>
-<td class="cuerpo_tabla_der">22.158,88</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">57.678,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18100</td>
-<td class="cuerpo_tabla_izq">Huétor Tájar.</td>
-<td class="cuerpo_tabla_der">83.608,63</td>
-<td class="cuerpo_tabla_der">50.761,64</td>
-<td class="cuerpo_tabla_der">36.619,66</td>
-<td class="cuerpo_tabla_der">170.989,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18101</td>
-<td class="cuerpo_tabla_izq">Huétor Vega.</td>
-<td class="cuerpo_tabla_der">89.578,54</td>
-<td class="cuerpo_tabla_der">51.735,63</td>
-<td class="cuerpo_tabla_der">52.172,65</td>
-<td class="cuerpo_tabla_der">193.486,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18102</td>
-<td class="cuerpo_tabla_izq">Íllora.</td>
-<td class="cuerpo_tabla_der">75.962,95</td>
-<td class="cuerpo_tabla_der">39.902,67</td>
-<td class="cuerpo_tabla_der">39.803,32</td>
-<td class="cuerpo_tabla_der">155.668,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18103</td>
-<td class="cuerpo_tabla_izq">Ítrabo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18105</td>
-<td class="cuerpo_tabla_izq">Iznalloz.</td>
-<td class="cuerpo_tabla_der">43.128,44</td>
-<td class="cuerpo_tabla_der">23.013,24</td>
-<td class="cuerpo_tabla_der">17.047,93</td>
-<td class="cuerpo_tabla_der">83.189,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18106</td>
-<td class="cuerpo_tabla_izq">Játar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18107</td>
-<td class="cuerpo_tabla_izq">Jayena.</td>
-<td class="cuerpo_tabla_der">18.021,84</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.541,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18108</td>
-<td class="cuerpo_tabla_izq">Jérez del Marquesado.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18109</td>
-<td class="cuerpo_tabla_izq">Jete.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18111</td>
-<td class="cuerpo_tabla_izq">Jun.</td>
-<td class="cuerpo_tabla_der">29.146,28</td>
-<td class="cuerpo_tabla_der">19.759,69</td>
-<td class="cuerpo_tabla_der">15.129,90</td>
-<td class="cuerpo_tabla_der">64.035,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18112</td>
-<td class="cuerpo_tabla_izq">Juviles.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18115</td>
-<td class="cuerpo_tabla_izq">Láchar.</td>
-<td class="cuerpo_tabla_der">27.784,72</td>
-<td class="cuerpo_tabla_der">17.086,40</td>
-<td class="cuerpo_tabla_der">12.990,06</td>
-<td class="cuerpo_tabla_der">57.861,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18116</td>
-<td class="cuerpo_tabla_izq">Lanjarón.</td>
-<td class="cuerpo_tabla_der">24.695,03</td>
-<td class="cuerpo_tabla_der">14.931,18</td>
-<td class="cuerpo_tabla_der">14.555,80</td>
-<td class="cuerpo_tabla_der">54.182,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18117</td>
-<td class="cuerpo_tabla_izq">Lanteira.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18119</td>
-<td class="cuerpo_tabla_izq">Lecrín.</td>
-<td class="cuerpo_tabla_der">23.782,28</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">18.007,91</td>
-<td class="cuerpo_tabla_der">59.550,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18120</td>
-<td class="cuerpo_tabla_izq">Lentegí.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18121</td>
-<td class="cuerpo_tabla_izq">Lobras.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18122</td>
-<td class="cuerpo_tabla_izq">Loja.</td>
-<td class="cuerpo_tabla_der">151.686,57</td>
-<td class="cuerpo_tabla_der">84.146,75</td>
-<td class="cuerpo_tabla_der">78.764,10</td>
-<td class="cuerpo_tabla_der">314.597,42</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18123</td>
-<td class="cuerpo_tabla_izq">Lugros.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18124</td>
-<td class="cuerpo_tabla_izq">Lújar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18126</td>
-<td class="cuerpo_tabla_izq">Malahá, La.</td>
-<td class="cuerpo_tabla_der">20.797,32</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.317,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18127</td>
-<td class="cuerpo_tabla_izq">Maracena.</td>
-<td class="cuerpo_tabla_der">152.995,76</td>
-<td class="cuerpo_tabla_der">107.812,67</td>
-<td class="cuerpo_tabla_der">83.213,41</td>
-<td class="cuerpo_tabla_der">344.021,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18128</td>
-<td class="cuerpo_tabla_izq">Marchal.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18132</td>
-<td class="cuerpo_tabla_izq">Moclín.</td>
-<td class="cuerpo_tabla_der">28.832,07</td>
-<td class="cuerpo_tabla_der">13.148,98</td>
-<td class="cuerpo_tabla_der">15.938,87</td>
-<td class="cuerpo_tabla_der">57.919,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18133</td>
-<td class="cuerpo_tabla_izq">Molvízar.</td>
-<td class="cuerpo_tabla_der">30.694,81</td>
-<td class="cuerpo_tabla_der">21.200,06</td>
-<td class="cuerpo_tabla_der">19.978,13</td>
-<td class="cuerpo_tabla_der">71.873,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18134</td>
-<td class="cuerpo_tabla_izq">Monachil.</td>
-<td class="cuerpo_tabla_der">56.744,03</td>
-<td class="cuerpo_tabla_der">40.420,75</td>
-<td class="cuerpo_tabla_der">30.395,85</td>
-<td class="cuerpo_tabla_der">127.560,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18135</td>
-<td class="cuerpo_tabla_izq">Montefrío.</td>
-<td class="cuerpo_tabla_der">42.238,19</td>
-<td class="cuerpo_tabla_der">19.821,86</td>
-<td class="cuerpo_tabla_der">21.927,82</td>
-<td class="cuerpo_tabla_der">83.987,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18136</td>
-<td class="cuerpo_tabla_izq">Montejícar.</td>
-<td class="cuerpo_tabla_der">24.777,26</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.942,67</td>
-<td class="cuerpo_tabla_der">60.479,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18137</td>
-<td class="cuerpo_tabla_izq">Montillana.</td>
-<td class="cuerpo_tabla_der">19.016,82</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.536,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18138</td>
-<td class="cuerpo_tabla_izq">Moraleda de Zafayona.</td>
-<td class="cuerpo_tabla_der">22.600,32</td>
-<td class="cuerpo_tabla_der">12.734,52</td>
-<td class="cuerpo_tabla_der">13.042,25</td>
-<td class="cuerpo_tabla_der">48.377,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18909</td>
-<td class="cuerpo_tabla_izq">Morelábor.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18140</td>
-<td class="cuerpo_tabla_izq">Motril.</td>
-<td class="cuerpo_tabla_der">418.290,25</td>
-<td class="cuerpo_tabla_der">271.505,42</td>
-<td class="cuerpo_tabla_der">214.409,19</td>
-<td class="cuerpo_tabla_der">904.204,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18141</td>
-<td class="cuerpo_tabla_izq">Murtas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18903</td>
-<td class="cuerpo_tabla_izq">Nevada.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18143</td>
-<td class="cuerpo_tabla_izq">Nigüelas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18144</td>
-<td class="cuerpo_tabla_izq">Nívar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18145</td>
-<td class="cuerpo_tabla_izq">Ogíjares.</td>
-<td class="cuerpo_tabla_der">103.194,13</td>
-<td class="cuerpo_tabla_der">64.708,37</td>
-<td class="cuerpo_tabla_der">56.517,58</td>
-<td class="cuerpo_tabla_der">224.420,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18146</td>
-<td class="cuerpo_tabla_izq">Orce.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18147</td>
-<td class="cuerpo_tabla_izq">Órgiva.</td>
-<td class="cuerpo_tabla_der">40.719,53</td>
-<td class="cuerpo_tabla_der">23.676,38</td>
-<td class="cuerpo_tabla_der">25.033,20</td>
-<td class="cuerpo_tabla_der">89.429,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18148</td>
-<td class="cuerpo_tabla_izq">Otívar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18150</td>
-<td class="cuerpo_tabla_izq">Padul.</td>
-<td class="cuerpo_tabla_der">62.452,10</td>
-<td class="cuerpo_tabla_der">40.627,98</td>
-<td class="cuerpo_tabla_der">32.874,93</td>
-<td class="cuerpo_tabla_der">135.955,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18151</td>
-<td class="cuerpo_tabla_izq">Pampaneira.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18152</td>
-<td class="cuerpo_tabla_izq">Pedro Martínez.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18153</td>
-<td class="cuerpo_tabla_izq">Peligros.</td>
-<td class="cuerpo_tabla_der">86.174,64</td>
-<td class="cuerpo_tabla_der">54.761,22</td>
-<td class="cuerpo_tabla_der">42.712,99</td>
-<td class="cuerpo_tabla_der">183.648,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18154</td>
-<td class="cuerpo_tabla_izq">Peza, La.</td>
-<td class="cuerpo_tabla_der">18.074,21</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.594,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18910</td>
-<td class="cuerpo_tabla_izq">Pinar, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18157</td>
-<td class="cuerpo_tabla_izq">Pinos Genil.</td>
-<td class="cuerpo_tabla_der">19.645,24</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.165,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18158</td>
-<td class="cuerpo_tabla_izq">Pinos Puente.</td>
-<td class="cuerpo_tabla_der">77.167,41</td>
-<td class="cuerpo_tabla_der">38.431,32</td>
-<td class="cuerpo_tabla_der">38.602,92</td>
-<td class="cuerpo_tabla_der">154.201,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18159</td>
-<td class="cuerpo_tabla_izq">Píñar.</td>
-<td class="cuerpo_tabla_der">18.178,94</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.698,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18161</td>
-<td class="cuerpo_tabla_izq">Polícar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18162</td>
-<td class="cuerpo_tabla_izq">Polopos.</td>
-<td class="cuerpo_tabla_der">25.772,25</td>
-<td class="cuerpo_tabla_der">18.692,55</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">62.224,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18163</td>
-<td class="cuerpo_tabla_izq">Pórtugos.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18164</td>
-<td class="cuerpo_tabla_izq">Puebla de Don Fadrique.</td>
-<td class="cuerpo_tabla_der">26.505,40</td>
-<td class="cuerpo_tabla_der">18.008,68</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">62.274,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18165</td>
-<td class="cuerpo_tabla_izq">Pulianas.</td>
-<td class="cuerpo_tabla_der">45.380,25</td>
-<td class="cuerpo_tabla_der">24.795,44</td>
-<td class="cuerpo_tabla_der">22.058,29</td>
-<td class="cuerpo_tabla_der">92.233,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18167</td>
-<td class="cuerpo_tabla_izq">Purullena.</td>
-<td class="cuerpo_tabla_der">27.709,85</td>
-<td class="cuerpo_tabla_der">19.003,39</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">64.473,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18168</td>
-<td class="cuerpo_tabla_izq">Quéntar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18170</td>
-<td class="cuerpo_tabla_izq">Rubite.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18171</td>
-<td class="cuerpo_tabla_izq">Salar.</td>
-<td class="cuerpo_tabla_der">30.118,76</td>
-<td class="cuerpo_tabla_der">19.044,84</td>
-<td class="cuerpo_tabla_der">18.842,97</td>
-<td class="cuerpo_tabla_der">68.006,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18173</td>
-<td class="cuerpo_tabla_izq">Salobreña.</td>
-<td class="cuerpo_tabla_der">87.850,41</td>
-<td class="cuerpo_tabla_der">51.051,76</td>
-<td class="cuerpo_tabla_der">48.153,93</td>
-<td class="cuerpo_tabla_der">187.056,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18174</td>
-<td class="cuerpo_tabla_izq">Santa Cruz del Comercio.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18175</td>
-<td class="cuerpo_tabla_izq">Santa Fe.</td>
-<td class="cuerpo_tabla_der">110.473,23</td>
-<td class="cuerpo_tabla_der">68.231,32</td>
-<td class="cuerpo_tabla_der">56.478,43</td>
-<td class="cuerpo_tabla_der">235.182,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18176</td>
-<td class="cuerpo_tabla_izq">Soportújar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18177</td>
-<td class="cuerpo_tabla_izq">Sorvilán.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18901</td>
-<td class="cuerpo_tabla_izq">Taha, La.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18178</td>
-<td class="cuerpo_tabla_izq">Torre-Cardela.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18916</td>
-<td class="cuerpo_tabla_izq">Torrenueva Costa.</td>
-<td class="cuerpo_tabla_der">27.029,07</td>
-<td class="cuerpo_tabla_der">22.277,66</td>
-<td class="cuerpo_tabla_der">19.612,79</td>
-<td class="cuerpo_tabla_der">68.919,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18179</td>
-<td class="cuerpo_tabla_izq">Torvizcón.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18180</td>
-<td class="cuerpo_tabla_izq">Trevélez.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18181</td>
-<td class="cuerpo_tabla_izq">Turón.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18182</td>
-<td class="cuerpo_tabla_izq">Ugíjar.</td>
-<td class="cuerpo_tabla_der">26.034,09</td>
-<td class="cuerpo_tabla_der">19.894,49</td>
-<td class="cuerpo_tabla_der">17.916,57</td>
-<td class="cuerpo_tabla_der">63.845,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18914</td>
-<td class="cuerpo_tabla_izq">Valderrubio.</td>
-<td class="cuerpo_tabla_der">23.572,81</td>
-<td class="cuerpo_tabla_der">17.822,17</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.154,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18907</td>
-<td class="cuerpo_tabla_izq">Valle del Zalabí.</td>
-<td class="cuerpo_tabla_der">24.253,59</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.773,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18902</td>
-<td class="cuerpo_tabla_izq">Valle, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18183</td>
-<td class="cuerpo_tabla_izq">Válor.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18911</td>
-<td class="cuerpo_tabla_izq">Vegas del Genil.</td>
-<td class="cuerpo_tabla_der">60.776,34</td>
-<td class="cuerpo_tabla_der">71.008,23</td>
-<td class="cuerpo_tabla_der">34.610,29</td>
-<td class="cuerpo_tabla_der">166.394,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18184</td>
-<td class="cuerpo_tabla_izq">Vélez de Benaudalla.</td>
-<td class="cuerpo_tabla_der">30.328,23</td>
-<td class="cuerpo_tabla_der">20.661,25</td>
-<td class="cuerpo_tabla_der">21.204,62</td>
-<td class="cuerpo_tabla_der">72.194,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18185</td>
-<td class="cuerpo_tabla_izq">Ventas de Huelma.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18149</td>
-<td class="cuerpo_tabla_izq">Villa de Otura.</td>
-<td class="cuerpo_tabla_der">50.774,12</td>
-<td class="cuerpo_tabla_der">28.359,83</td>
-<td class="cuerpo_tabla_der">29.991,37</td>
-<td class="cuerpo_tabla_der">109.125,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18908</td>
-<td class="cuerpo_tabla_izq">Villamena.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18187</td>
-<td class="cuerpo_tabla_izq">Villanueva de las Torres.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18188</td>
-<td class="cuerpo_tabla_izq">Villanueva Mesía.</td>
-<td class="cuerpo_tabla_der">24.829,63</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">60.349,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18189</td>
-<td class="cuerpo_tabla_izq">Víznar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18192</td>
-<td class="cuerpo_tabla_izq">Zafarraya.</td>
-<td class="cuerpo_tabla_der">22.158,88</td>
-<td class="cuerpo_tabla_der">19.189,90</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.108,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18913</td>
-<td class="cuerpo_tabla_izq">Zagra.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18193</td>
-<td class="cuerpo_tabla_izq">Zubia, La.</td>
-<td class="cuerpo_tabla_der">144.197,99</td>
-<td class="cuerpo_tabla_der">89.348,28</td>
-<td class="cuerpo_tabla_der">76.115,39</td>
-<td class="cuerpo_tabla_der">309.661,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18194</td>
-<td class="cuerpo_tabla_izq">Zújar.</td>
-<td class="cuerpo_tabla_der">28.861,94</td>
-<td class="cuerpo_tabla_der">18.630,38</td>
-<td class="cuerpo_tabla_der">19.364,88</td>
-<td class="cuerpo_tabla_der">66.857,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21001</td>
-<td class="cuerpo_tabla_izq">Alájar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21002</td>
-<td class="cuerpo_tabla_izq">Aljaraque.</td>
-<td class="cuerpo_tabla_der">143.412,48</td>
-<td class="cuerpo_tabla_der">104.434,79</td>
-<td class="cuerpo_tabla_der">82.665,40</td>
-<td class="cuerpo_tabla_der">330.512,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21003</td>
-<td class="cuerpo_tabla_izq">Almendro, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21004</td>
-<td class="cuerpo_tabla_izq">Almonaster la Real.</td>
-<td class="cuerpo_tabla_der">20.849,69</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.369,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21005</td>
-<td class="cuerpo_tabla_izq">Almonte.</td>
-<td class="cuerpo_tabla_der">183.997,40</td>
-<td class="cuerpo_tabla_der">132.659,82</td>
-<td class="cuerpo_tabla_der">88.758,73</td>
-<td class="cuerpo_tabla_der">405.415,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21006</td>
-<td class="cuerpo_tabla_izq">Alosno.</td>
-<td class="cuerpo_tabla_der">25.637,65</td>
-<td class="cuerpo_tabla_der">15.573,60</td>
-<td class="cuerpo_tabla_der">16.265,06</td>
-<td class="cuerpo_tabla_der">57.476,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21007</td>
-<td class="cuerpo_tabla_izq">Aracena.</td>
-<td class="cuerpo_tabla_der">54.230,38</td>
-<td class="cuerpo_tabla_der">36.151,76</td>
-<td class="cuerpo_tabla_der">31.178,72</td>
-<td class="cuerpo_tabla_der">121.560,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21008</td>
-<td class="cuerpo_tabla_izq">Aroche.</td>
-<td class="cuerpo_tabla_der">24.118,98</td>
-<td class="cuerpo_tabla_der">13.066,09</td>
-<td class="cuerpo_tabla_der">12.585,58</td>
-<td class="cuerpo_tabla_der">49.770,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21009</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos de León.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21010</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
-<td class="cuerpo_tabla_der">138.699,39</td>
-<td class="cuerpo_tabla_der">101.823,66</td>
-<td class="cuerpo_tabla_der">80.447,27</td>
-<td class="cuerpo_tabla_der">320.970,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21011</td>
-<td class="cuerpo_tabla_izq">Beas.</td>
-<td class="cuerpo_tabla_der">27.784,72</td>
-<td class="cuerpo_tabla_der">19.801,14</td>
-<td class="cuerpo_tabla_der">16.447,73</td>
-<td class="cuerpo_tabla_der">64.033,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21012</td>
-<td class="cuerpo_tabla_izq">Berrocal.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21013</td>
-<td class="cuerpo_tabla_izq">Bollullos Par del Condado.</td>
-<td class="cuerpo_tabla_der">101.884,94</td>
-<td class="cuerpo_tabla_der">64.459,69</td>
-<td class="cuerpo_tabla_der">51.911,70</td>
-<td class="cuerpo_tabla_der">218.256,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21014</td>
-<td class="cuerpo_tabla_izq">Bonares.</td>
-<td class="cuerpo_tabla_der">44.647,10</td>
-<td class="cuerpo_tabla_der">29.955,52</td>
-<td class="cuerpo_tabla_der">22.554,11</td>
-<td class="cuerpo_tabla_der">97.156,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21015</td>
-<td class="cuerpo_tabla_izq">Cabezas Rubias.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21016</td>
-<td class="cuerpo_tabla_izq">Cala.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21017</td>
-<td class="cuerpo_tabla_izq">Calañas.</td>
-<td class="cuerpo_tabla_der">26.138,82</td>
-<td class="cuerpo_tabla_der">22.381,28</td>
-<td class="cuerpo_tabla_der">19.938,99</td>
-<td class="cuerpo_tabla_der">68.459,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21018</td>
-<td class="cuerpo_tabla_izq">Campillo, El.</td>
-<td class="cuerpo_tabla_der">21.268,63</td>
-<td class="cuerpo_tabla_der">18.008,68</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">57.037,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21019</td>
-<td class="cuerpo_tabla_izq">Campofrío.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21020</td>
-<td class="cuerpo_tabla_izq">Cañaveral de León.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21021</td>
-<td class="cuerpo_tabla_izq">Cartaya.</td>
-<td class="cuerpo_tabla_der">152.733,92</td>
-<td class="cuerpo_tabla_der">108.372,20</td>
-<td class="cuerpo_tabla_der">71.287,70</td>
-<td class="cuerpo_tabla_der">332.393,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21022</td>
-<td class="cuerpo_tabla_izq">Castaño del Robledo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21023</td>
-<td class="cuerpo_tabla_izq">Cerro de Andévalo, El.</td>
-<td class="cuerpo_tabla_der">24.829,63</td>
-<td class="cuerpo_tabla_der">18.796,16</td>
-<td class="cuerpo_tabla_der">18.725,54</td>
-<td class="cuerpo_tabla_der">62.351,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21030</td>
-<td class="cuerpo_tabla_izq">Chucena.</td>
-<td class="cuerpo_tabla_der">26.086,46</td>
-<td class="cuerpo_tabla_der">18.464,59</td>
-<td class="cuerpo_tabla_der">17.981,81</td>
-<td class="cuerpo_tabla_der">62.532,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21024</td>
-<td class="cuerpo_tabla_izq">Corteconcepción.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21025</td>
-<td class="cuerpo_tabla_izq">Cortegana.</td>
-<td class="cuerpo_tabla_der">29.565,22</td>
-<td class="cuerpo_tabla_der">22.122,14</td>
-<td class="cuerpo_tabla_der">18.235,28</td>
-<td class="cuerpo_tabla_der">69.922,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21026</td>
-<td class="cuerpo_tabla_izq">Cortelazor.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21027</td>
-<td class="cuerpo_tabla_izq">Cumbres de Enmedio.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21028</td>
-<td class="cuerpo_tabla_izq">Cumbres de San Bartolomé.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21029</td>
-<td class="cuerpo_tabla_izq">Cumbres Mayores.</td>
-<td class="cuerpo_tabla_der">20.797,32</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.317,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21031</td>
-<td class="cuerpo_tabla_izq">Encinasola.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21032</td>
-<td class="cuerpo_tabla_izq">Escacena del Campo.</td>
-<td class="cuerpo_tabla_der">24.882,00</td>
-<td class="cuerpo_tabla_der">19.604,37</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">62.246,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21033</td>
-<td class="cuerpo_tabla_izq">Fuenteheridos.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21034</td>
-<td class="cuerpo_tabla_izq">Galaroza.</td>
-<td class="cuerpo_tabla_der">18.178,94</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.698,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21035</td>
-<td class="cuerpo_tabla_izq">Gibraleón.</td>
-<td class="cuerpo_tabla_der">79.995,26</td>
-<td class="cuerpo_tabla_der">64.521,86</td>
-<td class="cuerpo_tabla_der">46.875,24</td>
-<td class="cuerpo_tabla_der">191.392,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21036</td>
-<td class="cuerpo_tabla_izq">Granada de Río-Tinto, La.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21037</td>
-<td class="cuerpo_tabla_izq">Granado, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21038</td>
-<td class="cuerpo_tabla_izq">Higuera de la Sierra.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21039</td>
-<td class="cuerpo_tabla_izq">Hinojales.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21040</td>
-<td class="cuerpo_tabla_izq">Hinojos.</td>
-<td class="cuerpo_tabla_der">26.161,32</td>
-<td class="cuerpo_tabla_der">19.656,08</td>
-<td class="cuerpo_tabla_der">15.182,09</td>
-<td class="cuerpo_tabla_der">60.999,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21041</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_der">923.742,76</td>
-<td class="cuerpo_tabla_der">661.164,22</td>
-<td class="cuerpo_tabla_der">539.430,28</td>
-<td class="cuerpo_tabla_der">2.124.337,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21042</td>
-<td class="cuerpo_tabla_izq">Isla Cristina.</td>
-<td class="cuerpo_tabla_der">161.531,68</td>
-<td class="cuerpo_tabla_der">103.377,90</td>
-<td class="cuerpo_tabla_der">78.424,86</td>
-<td class="cuerpo_tabla_der">343.334,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21043</td>
-<td class="cuerpo_tabla_izq">Jabugo.</td>
-<td class="cuerpo_tabla_der">26.400,66</td>
-<td class="cuerpo_tabla_der">19.086,29</td>
-<td class="cuerpo_tabla_der">18.542,87</td>
-<td class="cuerpo_tabla_der">64.029,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21044</td>
-<td class="cuerpo_tabla_izq">Lepe.</td>
-<td class="cuerpo_tabla_der">211.333,32</td>
-<td class="cuerpo_tabla_der">148.886,11</td>
-<td class="cuerpo_tabla_der">98.009,63</td>
-<td class="cuerpo_tabla_der">458.229,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21045</td>
-<td class="cuerpo_tabla_izq">Linares de la Sierra.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21046</td>
-<td class="cuerpo_tabla_izq">Lucena del Puerto.</td>
-<td class="cuerpo_tabla_der">28.360,76</td>
-<td class="cuerpo_tabla_der">20.940,92</td>
-<td class="cuerpo_tabla_der">11.763,57</td>
-<td class="cuerpo_tabla_der">61.065,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21047</td>
-<td class="cuerpo_tabla_izq">Manzanilla.</td>
-<td class="cuerpo_tabla_der">24.934,37</td>
-<td class="cuerpo_tabla_der">18.402,42</td>
-<td class="cuerpo_tabla_der">17.981,81</td>
-<td class="cuerpo_tabla_der">61.318,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21048</td>
-<td class="cuerpo_tabla_izq">Marines, Los.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21049</td>
-<td class="cuerpo_tabla_izq">Minas de Riotinto.</td>
-<td class="cuerpo_tabla_der">27.732,35</td>
-<td class="cuerpo_tabla_der">15.511,43</td>
-<td class="cuerpo_tabla_der">16.330,30</td>
-<td class="cuerpo_tabla_der">59.574,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21050</td>
-<td class="cuerpo_tabla_izq">Moguer.</td>
-<td class="cuerpo_tabla_der">159.489,35</td>
-<td class="cuerpo_tabla_der">136.203,49</td>
-<td class="cuerpo_tabla_der">76.650,35</td>
-<td class="cuerpo_tabla_der">372.343,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21051</td>
-<td class="cuerpo_tabla_izq">Nava, La.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21052</td>
-<td class="cuerpo_tabla_izq">Nerva.</td>
-<td class="cuerpo_tabla_der">37.734,57</td>
-<td class="cuerpo_tabla_der">20.588,62</td>
-<td class="cuerpo_tabla_der">22.006,10</td>
-<td class="cuerpo_tabla_der">80.329,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21053</td>
-<td class="cuerpo_tabla_izq">Niebla.</td>
-<td class="cuerpo_tabla_der">30.926,78</td>
-<td class="cuerpo_tabla_der">19.365,95</td>
-<td class="cuerpo_tabla_der">15.847,53</td>
-<td class="cuerpo_tabla_der">66.140,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21054</td>
-<td class="cuerpo_tabla_izq">Palma del Condado, La.</td>
-<td class="cuerpo_tabla_der">81.828,13</td>
-<td class="cuerpo_tabla_der">47.135,07</td>
-<td class="cuerpo_tabla_der">38.315,87</td>
-<td class="cuerpo_tabla_der">167.279,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21055</td>
-<td class="cuerpo_tabla_izq">Palos de la Frontera.</td>
-<td class="cuerpo_tabla_der">91.620,88</td>
-<td class="cuerpo_tabla_der">64.625,47</td>
-<td class="cuerpo_tabla_der">36.450,03</td>
-<td class="cuerpo_tabla_der">192.696,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21056</td>
-<td class="cuerpo_tabla_izq">Paterna del Campo.</td>
-<td class="cuerpo_tabla_der">25.951,85</td>
-<td class="cuerpo_tabla_der">15.552,88</td>
-<td class="cuerpo_tabla_der">13.042,25</td>
-<td class="cuerpo_tabla_der">54.546,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21057</td>
-<td class="cuerpo_tabla_izq">Paymogo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21058</td>
-<td class="cuerpo_tabla_izq">Puebla de Guzmán.</td>
-<td class="cuerpo_tabla_der">20.034,31</td>
-<td class="cuerpo_tabla_der">14.558,16</td>
-<td class="cuerpo_tabla_der">12.076,71</td>
-<td class="cuerpo_tabla_der">46.669,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21059</td>
-<td class="cuerpo_tabla_izq">Puerto Moral.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21060</td>
-<td class="cuerpo_tabla_izq">Punta Umbría.</td>
-<td class="cuerpo_tabla_der">104.660,42</td>
-<td class="cuerpo_tabla_der">75.028,53</td>
-<td class="cuerpo_tabla_der">59.492,48</td>
-<td class="cuerpo_tabla_der">239.181,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21061</td>
-<td class="cuerpo_tabla_izq">Rociana del Condado.</td>
-<td class="cuerpo_tabla_der">58.472,16</td>
-<td class="cuerpo_tabla_der">42.078,61</td>
-<td class="cuerpo_tabla_der">26.794,65</td>
-<td class="cuerpo_tabla_der">127.345,42</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21062</td>
-<td class="cuerpo_tabla_izq">Rosal de la Frontera.</td>
-<td class="cuerpo_tabla_der">19.435,76</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.955,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21063</td>
-<td class="cuerpo_tabla_izq">San Bartolomé de la Torre.</td>
-<td class="cuerpo_tabla_der">26.213,69</td>
-<td class="cuerpo_tabla_der">19.863,31</td>
-<td class="cuerpo_tabla_der">13.172,73</td>
-<td class="cuerpo_tabla_der">59.249,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21064</td>
-<td class="cuerpo_tabla_izq">San Juan del Puerto.</td>
-<td class="cuerpo_tabla_der">61.614,22</td>
-<td class="cuerpo_tabla_der">52.378,05</td>
-<td class="cuerpo_tabla_der">31.126,53</td>
-<td class="cuerpo_tabla_der">145.118,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21066</td>
-<td class="cuerpo_tabla_izq">San Silvestre de Guzmán.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21065</td>
-<td class="cuerpo_tabla_izq">Sanlúcar de Guadiana.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21067</td>
-<td class="cuerpo_tabla_izq">Santa Ana la Real.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21068</td>
-<td class="cuerpo_tabla_izq">Santa Bárbara de Casa.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21069</td>
-<td class="cuerpo_tabla_izq">Santa Olalla del Cala.</td>
-<td class="cuerpo_tabla_der">22.734,93</td>
-<td class="cuerpo_tabla_der">18.153,74</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">58.648,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21070</td>
-<td class="cuerpo_tabla_izq">Trigueros.</td>
-<td class="cuerpo_tabla_der">50.983,59</td>
-<td class="cuerpo_tabla_der">37.685,28</td>
-<td class="cuerpo_tabla_der">28.477,82</td>
-<td class="cuerpo_tabla_der">117.146,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21071</td>
-<td class="cuerpo_tabla_izq">Valdelarco.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21072</td>
-<td class="cuerpo_tabla_izq">Valverde del Camino.</td>
-<td class="cuerpo_tabla_der">78.738,44</td>
-<td class="cuerpo_tabla_der">58.035,49</td>
-<td class="cuerpo_tabla_der">46.614,28</td>
-<td class="cuerpo_tabla_der">183.388,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21073</td>
-<td class="cuerpo_tabla_izq">Villablanca.</td>
-<td class="cuerpo_tabla_der">30.432,97</td>
-<td class="cuerpo_tabla_der">22.940,81</td>
-<td class="cuerpo_tabla_der">20.434,80</td>
-<td class="cuerpo_tabla_der">73.808,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21074</td>
-<td class="cuerpo_tabla_izq">Villalba del Alcor.</td>
-<td class="cuerpo_tabla_der">22.705,06</td>
-<td class="cuerpo_tabla_der">14.433,82</td>
-<td class="cuerpo_tabla_der">12.689,96</td>
-<td class="cuerpo_tabla_der">49.828,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21075</td>
-<td class="cuerpo_tabla_izq">Villanueva de las Cruces.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21076</td>
-<td class="cuerpo_tabla_izq">Villanueva de los Castillejos.</td>
-<td class="cuerpo_tabla_der">28.914,31</td>
-<td class="cuerpo_tabla_der">22.692,13</td>
-<td class="cuerpo_tabla_der">20.265,18</td>
-<td class="cuerpo_tabla_der">71.871,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21077</td>
-<td class="cuerpo_tabla_izq">Villarrasa.</td>
-<td class="cuerpo_tabla_der">23.729,91</td>
-<td class="cuerpo_tabla_der">18.257,36</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.747,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21078</td>
-<td class="cuerpo_tabla_izq">Zalamea la Real.</td>
-<td class="cuerpo_tabla_der">19.824,84</td>
-<td class="cuerpo_tabla_der">12.444,39</td>
-<td class="cuerpo_tabla_der">13.355,40</td>
-<td class="cuerpo_tabla_der">45.624,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21902</td>
-<td class="cuerpo_tabla_izq">Zarza-Perrunal, La.</td>
-<td class="cuerpo_tabla_der">18.859,72</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.379,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">21079</td>
-<td class="cuerpo_tabla_izq">Zufre.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23001</td>
-<td class="cuerpo_tabla_izq">Albanchez de Mágina.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">26.672,32</td>
-<td class="cuerpo_tabla_der">62.192,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23002</td>
-<td class="cuerpo_tabla_izq">Alcalá la Real.</td>
-<td class="cuerpo_tabla_der">151.581,83</td>
-<td class="cuerpo_tabla_der">85.037,85</td>
-<td class="cuerpo_tabla_der">248.109,86</td>
-<td class="cuerpo_tabla_der">484.729,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23003</td>
-<td class="cuerpo_tabla_izq">Alcaudete.</td>
-<td class="cuerpo_tabla_der">77.481,61</td>
-<td class="cuerpo_tabla_der">43.612,12</td>
-<td class="cuerpo_tabla_der">117.876,99</td>
-<td class="cuerpo_tabla_der">238.970,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23004</td>
-<td class="cuerpo_tabla_izq">Aldeaquemada.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.229,62</td>
-<td class="cuerpo_tabla_der">57.749,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23005</td>
-<td class="cuerpo_tabla_izq">Andújar.</td>
-<td class="cuerpo_tabla_der">258.726,03</td>
-<td class="cuerpo_tabla_der">159.019,76</td>
-<td class="cuerpo_tabla_der">428.629,07</td>
-<td class="cuerpo_tabla_der">846.374,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23006</td>
-<td class="cuerpo_tabla_izq">Arjona.</td>
-<td class="cuerpo_tabla_der">44.490,00</td>
-<td class="cuerpo_tabla_der">23.137,58</td>
-<td class="cuerpo_tabla_der">62.274,20</td>
-<td class="cuerpo_tabla_der">129.901,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23007</td>
-<td class="cuerpo_tabla_izq">Arjonilla.</td>
-<td class="cuerpo_tabla_der">29.827,06</td>
-<td class="cuerpo_tabla_der">14.060,81</td>
-<td class="cuerpo_tabla_der">45.245,59</td>
-<td class="cuerpo_tabla_der">89.133,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23008</td>
-<td class="cuerpo_tabla_izq">Arquillos.</td>
-<td class="cuerpo_tabla_der">22.892,03</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">31.976,63</td>
-<td class="cuerpo_tabla_der">72.628,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23905</td>
-<td class="cuerpo_tabla_izq">Arroyo del Ojanco.</td>
-<td class="cuerpo_tabla_der">26.348,29</td>
-<td class="cuerpo_tabla_der">18.547,48</td>
-<td class="cuerpo_tabla_der">36.977,07</td>
-<td class="cuerpo_tabla_der">81.872,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23009</td>
-<td class="cuerpo_tabla_izq">Baeza.</td>
-<td class="cuerpo_tabla_der">126.759,57</td>
-<td class="cuerpo_tabla_der">67.920,47</td>
-<td class="cuerpo_tabla_der">187.630,32</td>
-<td class="cuerpo_tabla_der">382.310,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23010</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_der">140.689,36</td>
-<td class="cuerpo_tabla_der">79.442,58</td>
-<td class="cuerpo_tabla_der">202.420,42</td>
-<td class="cuerpo_tabla_der">422.552,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23011</td>
-<td class="cuerpo_tabla_izq">Baños de la Encina.</td>
-<td class="cuerpo_tabla_der">25.929,35</td>
-<td class="cuerpo_tabla_der">19.728,71</td>
-<td class="cuerpo_tabla_der">40.894,44</td>
-<td class="cuerpo_tabla_der">86.552,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23012</td>
-<td class="cuerpo_tabla_izq">Beas de Segura.</td>
-<td class="cuerpo_tabla_der">38.467,72</td>
-<td class="cuerpo_tabla_der">20.588,62</td>
-<td class="cuerpo_tabla_der">62.554,01</td>
-<td class="cuerpo_tabla_der">121.610,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23902</td>
-<td class="cuerpo_tabla_izq">Bedmar y Garcíez.</td>
-<td class="cuerpo_tabla_der">30.066,40</td>
-<td class="cuerpo_tabla_der">19.086,29</td>
-<td class="cuerpo_tabla_der">41.374,13</td>
-<td class="cuerpo_tabla_der">90.526,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23014</td>
-<td class="cuerpo_tabla_izq">Begíjar.</td>
-<td class="cuerpo_tabla_der">26.056,59</td>
-<td class="cuerpo_tabla_der">12.092,10</td>
-<td class="cuerpo_tabla_der">38.490,11</td>
-<td class="cuerpo_tabla_der">76.638,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23015</td>
-<td class="cuerpo_tabla_izq">Bélmez de la Moraleda.</td>
-<td class="cuerpo_tabla_der">20.902,06</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">30.738,06</td>
-<td class="cuerpo_tabla_der">69.400,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23016</td>
-<td class="cuerpo_tabla_izq">Benatae.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">21.556,49</td>
-<td class="cuerpo_tabla_der">57.076,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23017</td>
-<td class="cuerpo_tabla_izq">Cabra del Santo Cristo.</td>
-<td class="cuerpo_tabla_der">21.897,04</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">31.949,71</td>
-<td class="cuerpo_tabla_der">71.606,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23018</td>
-<td class="cuerpo_tabla_izq">Cambil.</td>
-<td class="cuerpo_tabla_der">28.757,21</td>
-<td class="cuerpo_tabla_der">19.231,35</td>
-<td class="cuerpo_tabla_der">41.573,99</td>
-<td class="cuerpo_tabla_der">89.562,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23019</td>
-<td class="cuerpo_tabla_izq">Campillo de Arenas.</td>
-<td class="cuerpo_tabla_der">24.515,43</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">30.899,61</td>
-<td class="cuerpo_tabla_der">73.175,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23020</td>
-<td class="cuerpo_tabla_izq">Canena.</td>
-<td class="cuerpo_tabla_der">24.201,22</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">33.188,28</td>
-<td class="cuerpo_tabla_der">75.149,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23021</td>
-<td class="cuerpo_tabla_izq">Carboneros.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.741,21</td>
-<td class="cuerpo_tabla_der">58.261,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23901</td>
-<td class="cuerpo_tabla_izq">Cárcheles.</td>
-<td class="cuerpo_tabla_der">19.697,60</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">29.364,86</td>
-<td class="cuerpo_tabla_der">66.822,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23024</td>
-<td class="cuerpo_tabla_izq">Carolina, La.</td>
-<td class="cuerpo_tabla_der">104.817,53</td>
-<td class="cuerpo_tabla_der">69.702,66</td>
-<td class="cuerpo_tabla_der">173.559,74</td>
-<td class="cuerpo_tabla_der">348.079,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23025</td>
-<td class="cuerpo_tabla_izq">Castellar.</td>
-<td class="cuerpo_tabla_der">27.365,78</td>
-<td class="cuerpo_tabla_der">13.045,37</td>
-<td class="cuerpo_tabla_der">42.367,52</td>
-<td class="cuerpo_tabla_der">82.778,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23026</td>
-<td class="cuerpo_tabla_izq">Castillo de Locubín.</td>
-<td class="cuerpo_tabla_der">27.575,25</td>
-<td class="cuerpo_tabla_der">12.713,80</td>
-<td class="cuerpo_tabla_der">50.641,98</td>
-<td class="cuerpo_tabla_der">90.931,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23027</td>
-<td class="cuerpo_tabla_izq">Cazalilla.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">23.952,85</td>
-<td class="cuerpo_tabla_der">59.472,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23028</td>
-<td class="cuerpo_tabla_izq">Cazorla.</td>
-<td class="cuerpo_tabla_der">53.392,50</td>
-<td class="cuerpo_tabla_der">30.473,60</td>
-<td class="cuerpo_tabla_der">88.536,63</td>
-<td class="cuerpo_tabla_der">172.402,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23029</td>
-<td class="cuerpo_tabla_izq">Chiclana de Segura.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">25.864,56</td>
-<td class="cuerpo_tabla_der">61.384,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23030</td>
-<td class="cuerpo_tabla_izq">Chilluévar.</td>
-<td class="cuerpo_tabla_der">20.902,06</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">28.826,36</td>
-<td class="cuerpo_tabla_der">67.488,42</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23031</td>
-<td class="cuerpo_tabla_izq">Escañuela.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">24.787,54</td>
-<td class="cuerpo_tabla_der">60.307,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23032</td>
-<td class="cuerpo_tabla_izq">Espeluy.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.929,68</td>
-<td class="cuerpo_tabla_der">58.449,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23033</td>
-<td class="cuerpo_tabla_izq">Frailes.</td>
-<td class="cuerpo_tabla_der">19.540,50</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">29.741,82</td>
-<td class="cuerpo_tabla_der">67.042,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23034</td>
-<td class="cuerpo_tabla_izq">Fuensanta de Martos.</td>
-<td class="cuerpo_tabla_der">24.799,76</td>
-<td class="cuerpo_tabla_der">12.775,97</td>
-<td class="cuerpo_tabla_der">35.172,33</td>
-<td class="cuerpo_tabla_der">72.748,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23035</td>
-<td class="cuerpo_tabla_izq">Fuerte del Rey.</td>
-<td class="cuerpo_tabla_der">18.964,46</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">28.664,80</td>
-<td class="cuerpo_tabla_der">65.389,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23037</td>
-<td class="cuerpo_tabla_izq">Génave.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.687,36</td>
-<td class="cuerpo_tabla_der">58.207,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23038</td>
-<td class="cuerpo_tabla_izq">Guardia de Jaén, La.</td>
-<td class="cuerpo_tabla_der">39.619,81</td>
-<td class="cuerpo_tabla_der">21.023,81</td>
-<td class="cuerpo_tabla_der">62.074,33</td>
-<td class="cuerpo_tabla_der">122.717,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23039</td>
-<td class="cuerpo_tabla_izq">Guarromán.</td>
-<td class="cuerpo_tabla_der">29.647,46</td>
-<td class="cuerpo_tabla_der">20.702,70</td>
-<td class="cuerpo_tabla_der">42.213,56</td>
-<td class="cuerpo_tabla_der">92.563,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23041</td>
-<td class="cuerpo_tabla_izq">Higuera de Calatrava.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.848,91</td>
-<td class="cuerpo_tabla_der">58.368,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23042</td>
-<td class="cuerpo_tabla_izq">Hinojares.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">21.691,11</td>
-<td class="cuerpo_tabla_der">57.211,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23043</td>
-<td class="cuerpo_tabla_izq">Hornos.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">22.768,13</td>
-<td class="cuerpo_tabla_der">58.288,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23044</td>
-<td class="cuerpo_tabla_izq">Huelma.</td>
-<td class="cuerpo_tabla_der">43.913,95</td>
-<td class="cuerpo_tabla_der">23.033,96</td>
-<td class="cuerpo_tabla_der">67.230,88</td>
-<td class="cuerpo_tabla_der">134.178,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23045</td>
-<td class="cuerpo_tabla_izq">Huesa.</td>
-<td class="cuerpo_tabla_der">28.600,10</td>
-<td class="cuerpo_tabla_der">20.018,83</td>
-<td class="cuerpo_tabla_der">39.375,46</td>
-<td class="cuerpo_tabla_der">87.994,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23046</td>
-<td class="cuerpo_tabla_izq">Ibros.</td>
-<td class="cuerpo_tabla_der">32.684,78</td>
-<td class="cuerpo_tabla_der">20.039,55</td>
-<td class="cuerpo_tabla_der">43.652,59</td>
-<td class="cuerpo_tabla_der">96.376,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23047</td>
-<td class="cuerpo_tabla_izq">Iruela, La.</td>
-<td class="cuerpo_tabla_der">23.834,65</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">33.699,86</td>
-<td class="cuerpo_tabla_der">75.294,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23048</td>
-<td class="cuerpo_tabla_izq">Iznatoraf.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">26.106,89</td>
-<td class="cuerpo_tabla_der">61.626,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23049</td>
-<td class="cuerpo_tabla_izq">Jabalquinto.</td>
-<td class="cuerpo_tabla_der">25.248,57</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">36.417,44</td>
-<td class="cuerpo_tabla_der">79.426,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23050</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_der">823.196,88</td>
-<td class="cuerpo_tabla_der">480.768,55</td>
-<td class="cuerpo_tabla_der">1.328.427,01</td>
-<td class="cuerpo_tabla_der">2.632.392,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23051</td>
-<td class="cuerpo_tabla_izq">Jamilena.</td>
-<td class="cuerpo_tabla_der">25.951,85</td>
-<td class="cuerpo_tabla_der">14.806,84</td>
-<td class="cuerpo_tabla_der">38.889,85</td>
-<td class="cuerpo_tabla_der">79.648,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23052</td>
-<td class="cuerpo_tabla_izq">Jimena.</td>
-<td class="cuerpo_tabla_der">19.331,03</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">27.964,74</td>
-<td class="cuerpo_tabla_der">65.055,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23053</td>
-<td class="cuerpo_tabla_izq">Jódar.</td>
-<td class="cuerpo_tabla_der">96.910,01</td>
-<td class="cuerpo_tabla_der">52.854,68</td>
-<td class="cuerpo_tabla_der">132.747,04</td>
-<td class="cuerpo_tabla_der">282.511,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23040</td>
-<td class="cuerpo_tabla_izq">Lahiguera.</td>
-<td class="cuerpo_tabla_der">20.587,85</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">31.303,50</td>
-<td class="cuerpo_tabla_der">69.651,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23054</td>
-<td class="cuerpo_tabla_izq">Larva.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">20.667,95</td>
-<td class="cuerpo_tabla_der">56.187,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23055</td>
-<td class="cuerpo_tabla_izq">Linares.</td>
-<td class="cuerpo_tabla_der">412.267,97</td>
-<td class="cuerpo_tabla_der">238.493,33</td>
-<td class="cuerpo_tabla_der">685.057,49</td>
-<td class="cuerpo_tabla_der">1.335.818,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23056</td>
-<td class="cuerpo_tabla_izq">Lopera.</td>
-<td class="cuerpo_tabla_der">29.251,01</td>
-<td class="cuerpo_tabla_der">15.014,07</td>
-<td class="cuerpo_tabla_der">44.166,31</td>
-<td class="cuerpo_tabla_der">88.431,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23057</td>
-<td class="cuerpo_tabla_izq">Lupión.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">24.787,54</td>
-<td class="cuerpo_tabla_der">60.307,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23058</td>
-<td class="cuerpo_tabla_izq">Mancha Real.</td>
-<td class="cuerpo_tabla_der">90.625,89</td>
-<td class="cuerpo_tabla_der">50.740,91</td>
-<td class="cuerpo_tabla_der">123.673,12</td>
-<td class="cuerpo_tabla_der">265.039,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23059</td>
-<td class="cuerpo_tabla_izq">Marmolejo.</td>
-<td class="cuerpo_tabla_der">54.754,06</td>
-<td class="cuerpo_tabla_der">26.909,21</td>
-<td class="cuerpo_tabla_der">82.220,85</td>
-<td class="cuerpo_tabla_der">163.884,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23060</td>
-<td class="cuerpo_tabla_izq">Martos.</td>
-<td class="cuerpo_tabla_der">194.156,73</td>
-<td class="cuerpo_tabla_der">106.030,48</td>
-<td class="cuerpo_tabla_der">268.975,90</td>
-<td class="cuerpo_tabla_der">569.163,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23061</td>
-<td class="cuerpo_tabla_izq">Mengíbar.</td>
-<td class="cuerpo_tabla_der">82.456,54</td>
-<td class="cuerpo_tabla_der">45.187,09</td>
-<td class="cuerpo_tabla_der">104.925,66</td>
-<td class="cuerpo_tabla_der">232.569,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23062</td>
-<td class="cuerpo_tabla_izq">Montizón.</td>
-<td class="cuerpo_tabla_der">21.321,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">32.730,54</td>
-<td class="cuerpo_tabla_der">71.811,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23063</td>
-<td class="cuerpo_tabla_izq">Navas de San Juan.</td>
-<td class="cuerpo_tabla_der">34.487,78</td>
-<td class="cuerpo_tabla_der">19.904,76</td>
-<td class="cuerpo_tabla_der">53.080,35</td>
-<td class="cuerpo_tabla_der">107.472,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23064</td>
-<td class="cuerpo_tabla_izq">Noalejo.</td>
-<td class="cuerpo_tabla_der">25.196,21</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">33.996,04</td>
-<td class="cuerpo_tabla_der">76.952,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23065</td>
-<td class="cuerpo_tabla_izq">Orcera.</td>
-<td class="cuerpo_tabla_der">22.158,88</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">33.753,71</td>
-<td class="cuerpo_tabla_der">73.672,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23066</td>
-<td class="cuerpo_tabla_izq">Peal de Becerro.</td>
-<td class="cuerpo_tabla_der">38.886,66</td>
-<td class="cuerpo_tabla_der">21.645,51</td>
-<td class="cuerpo_tabla_der">62.514,04</td>
-<td class="cuerpo_tabla_der">123.046,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23067</td>
-<td class="cuerpo_tabla_izq">Pegalajar.</td>
-<td class="cuerpo_tabla_der">31.270,85</td>
-<td class="cuerpo_tabla_der">21.096,44</td>
-<td class="cuerpo_tabla_der">42.773,19</td>
-<td class="cuerpo_tabla_der">95.140,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23069</td>
-<td class="cuerpo_tabla_izq">Porcuna.</td>
-<td class="cuerpo_tabla_der">49.779,13</td>
-<td class="cuerpo_tabla_der">22.515,88</td>
-<td class="cuerpo_tabla_der">75.665,24</td>
-<td class="cuerpo_tabla_der">147.960,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23070</td>
-<td class="cuerpo_tabla_izq">Pozo Alcón.</td>
-<td class="cuerpo_tabla_der">35.063,82</td>
-<td class="cuerpo_tabla_der">16.837,72</td>
-<td class="cuerpo_tabla_der">54.279,55</td>
-<td class="cuerpo_tabla_der">106.181,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23071</td>
-<td class="cuerpo_tabla_izq">Puente de Génave.</td>
-<td class="cuerpo_tabla_der">22.944,40</td>
-<td class="cuerpo_tabla_der">18.443,87</td>
-<td class="cuerpo_tabla_der">34.723,03</td>
-<td class="cuerpo_tabla_der">76.111,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23072</td>
-<td class="cuerpo_tabla_izq">Puerta de Segura, La.</td>
-<td class="cuerpo_tabla_der">25.510,41</td>
-<td class="cuerpo_tabla_der">17.967,23</td>
-<td class="cuerpo_tabla_der">37.256,87</td>
-<td class="cuerpo_tabla_der">80.734,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23073</td>
-<td class="cuerpo_tabla_izq">Quesada.</td>
-<td class="cuerpo_tabla_der">41.033,73</td>
-<td class="cuerpo_tabla_der">19.469,57</td>
-<td class="cuerpo_tabla_der">64.512,70</td>
-<td class="cuerpo_tabla_der">125.016,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23074</td>
-<td class="cuerpo_tabla_izq">Rus.</td>
-<td class="cuerpo_tabla_der">26.789,73</td>
-<td class="cuerpo_tabla_der">14.723,95</td>
-<td class="cuerpo_tabla_der">44.326,20</td>
-<td class="cuerpo_tabla_der">85.839,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23075</td>
-<td class="cuerpo_tabla_izq">Sabiote.</td>
-<td class="cuerpo_tabla_der">28.779,71</td>
-<td class="cuerpo_tabla_der">16.278,19</td>
-<td class="cuerpo_tabla_der">44.286,23</td>
-<td class="cuerpo_tabla_der">89.344,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23076</td>
-<td class="cuerpo_tabla_izq">Santa Elena.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">25.729,93</td>
-<td class="cuerpo_tabla_der">61.249,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23077</td>
-<td class="cuerpo_tabla_izq">Santiago de Calatrava.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">23.172,01</td>
-<td class="cuerpo_tabla_der">58.692,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23904</td>
-<td class="cuerpo_tabla_izq">Santiago-Pontones.</td>
-<td class="cuerpo_tabla_der">30.328,23</td>
-<td class="cuerpo_tabla_der">19.334,97</td>
-<td class="cuerpo_tabla_der">47.090,30</td>
-<td class="cuerpo_tabla_der">96.753,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23079</td>
-<td class="cuerpo_tabla_izq">Santisteban del Puerto.</td>
-<td class="cuerpo_tabla_der">35.168,56</td>
-<td class="cuerpo_tabla_der">18.744,25</td>
-<td class="cuerpo_tabla_der">54.279,55</td>
-<td class="cuerpo_tabla_der">108.192,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23080</td>
-<td class="cuerpo_tabla_izq">Santo Tomé.</td>
-<td class="cuerpo_tabla_der">24.201,22</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">33.753,71</td>
-<td class="cuerpo_tabla_der">75.714,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23081</td>
-<td class="cuerpo_tabla_izq">Segura de la Sierra.</td>
-<td class="cuerpo_tabla_der">22.211,25</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">32.676,69</td>
-<td class="cuerpo_tabla_der">72.647,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23082</td>
-<td class="cuerpo_tabla_izq">Siles.</td>
-<td class="cuerpo_tabla_der">23.153,87</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">35.178,27</td>
-<td class="cuerpo_tabla_der">76.092,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23084</td>
-<td class="cuerpo_tabla_izq">Sorihuela del Guadalimar.</td>
-<td class="cuerpo_tabla_der">18.074,21</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">27.345,46</td>
-<td class="cuerpo_tabla_der">63.179,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23085</td>
-<td class="cuerpo_tabla_izq">Torreblascopedro.</td>
-<td class="cuerpo_tabla_der">28.547,73</td>
-<td class="cuerpo_tabla_der">18.506,04</td>
-<td class="cuerpo_tabla_der">41.733,88</td>
-<td class="cuerpo_tabla_der">88.787,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23086</td>
-<td class="cuerpo_tabla_izq">Torredelcampo.</td>
-<td class="cuerpo_tabla_der">113.143,98</td>
-<td class="cuerpo_tabla_der">62.387,37</td>
-<td class="cuerpo_tabla_der">161.887,55</td>
-<td class="cuerpo_tabla_der">337.418,90</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23087</td>
-<td class="cuerpo_tabla_izq">Torredonjimeno.</td>
-<td class="cuerpo_tabla_der">104.189,11</td>
-<td class="cuerpo_tabla_der">61.537,71</td>
-<td class="cuerpo_tabla_der">151.734,34</td>
-<td class="cuerpo_tabla_der">317.461,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23088</td>
-<td class="cuerpo_tabla_izq">Torreperogil.</td>
-<td class="cuerpo_tabla_der">53.497,23</td>
-<td class="cuerpo_tabla_der">30.204,20</td>
-<td class="cuerpo_tabla_der">84.219,51</td>
-<td class="cuerpo_tabla_der">167.920,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23090</td>
-<td class="cuerpo_tabla_izq">Torres.</td>
-<td class="cuerpo_tabla_der">19.540,50</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">28.907,13</td>
-<td class="cuerpo_tabla_der">66.207,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23091</td>
-<td class="cuerpo_tabla_izq">Torres de Albánchez.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">24.706,76</td>
-<td class="cuerpo_tabla_der">60.226,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23092</td>
-<td class="cuerpo_tabla_izq">Úbeda.</td>
-<td class="cuerpo_tabla_der">256.474,23</td>
-<td class="cuerpo_tabla_der">144.306,27</td>
-<td class="cuerpo_tabla_der">408.482,55</td>
-<td class="cuerpo_tabla_der">809.263,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23093</td>
-<td class="cuerpo_tabla_izq">Valdepeñas de Jaén.</td>
-<td class="cuerpo_tabla_der">29.565,22</td>
-<td class="cuerpo_tabla_der">14.205,87</td>
-<td class="cuerpo_tabla_der">44.805,89</td>
-<td class="cuerpo_tabla_der">88.576,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23094</td>
-<td class="cuerpo_tabla_izq">Vilches.</td>
-<td class="cuerpo_tabla_der">30.088,90</td>
-<td class="cuerpo_tabla_der">18.682,09</td>
-<td class="cuerpo_tabla_der">55.638,63</td>
-<td class="cuerpo_tabla_der">104.409,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23095</td>
-<td class="cuerpo_tabla_izq">Villacarrillo.</td>
-<td class="cuerpo_tabla_der">83.922,84</td>
-<td class="cuerpo_tabla_der">42.099,33</td>
-<td class="cuerpo_tabla_der">130.628,47</td>
-<td class="cuerpo_tabla_der">256.650,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23096</td>
-<td class="cuerpo_tabla_izq">Villanueva de la Reina.</td>
-<td class="cuerpo_tabla_der">26.789,73</td>
-<td class="cuerpo_tabla_der">11.242,45</td>
-<td class="cuerpo_tabla_der">40.288,91</td>
-<td class="cuerpo_tabla_der">78.321,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23097</td>
-<td class="cuerpo_tabla_izq">Villanueva del Arzobispo.</td>
-<td class="cuerpo_tabla_der">62.452,10</td>
-<td class="cuerpo_tabla_der">33.229,79</td>
-<td class="cuerpo_tabla_der">99.369,37</td>
-<td class="cuerpo_tabla_der">195.051,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23098</td>
-<td class="cuerpo_tabla_izq">Villardompardo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">26.376,14</td>
-<td class="cuerpo_tabla_der">61.896,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23099</td>
-<td class="cuerpo_tabla_izq">Villares, Los.</td>
-<td class="cuerpo_tabla_der">44.385,26</td>
-<td class="cuerpo_tabla_der">28.712,13</td>
-<td class="cuerpo_tabla_der">66.111,63</td>
-<td class="cuerpo_tabla_der">139.209,02</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23101</td>
-<td class="cuerpo_tabla_izq">Villarrodrigo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">21.448,79</td>
-<td class="cuerpo_tabla_der">56.968,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23903</td>
-<td class="cuerpo_tabla_izq">Villatorres.</td>
-<td class="cuerpo_tabla_der">33.126,22</td>
-<td class="cuerpo_tabla_der">18.806,42</td>
-<td class="cuerpo_tabla_der">47.244,25</td>
-<td class="cuerpo_tabla_der">99.176,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29001</td>
-<td class="cuerpo_tabla_izq">Alameda.</td>
-<td class="cuerpo_tabla_der">39.043,76</td>
-<td class="cuerpo_tabla_der">26.204,62</td>
-<td class="cuerpo_tabla_der">20.662,18</td>
-<td class="cuerpo_tabla_der">85.910,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29002</td>
-<td class="cuerpo_tabla_izq">Alcaucín.</td>
-<td class="cuerpo_tabla_der">20.273,65</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.851,33</td>
-<td class="cuerpo_tabla_der">55.884,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29003</td>
-<td class="cuerpo_tabla_izq">Alfarnate.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29004</td>
-<td class="cuerpo_tabla_izq">Alfarnatejo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29005</td>
-<td class="cuerpo_tabla_izq">Algarrobo.</td>
-<td class="cuerpo_tabla_der">41.714,51</td>
-<td class="cuerpo_tabla_der">28.587,79</td>
-<td class="cuerpo_tabla_der">24.237,28</td>
-<td class="cuerpo_tabla_der">94.539,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29006</td>
-<td class="cuerpo_tabla_izq">Algatocín.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29007</td>
-<td class="cuerpo_tabla_izq">Alhaurín de la Torre.</td>
-<td class="cuerpo_tabla_der">262.967,81</td>
-<td class="cuerpo_tabla_der">194.290,69</td>
-<td class="cuerpo_tabla_der">151.192,53</td>
-<td class="cuerpo_tabla_der">608.451,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29008</td>
-<td class="cuerpo_tabla_izq">Alhaurín el Grande.</td>
-<td class="cuerpo_tabla_der">173.890,45</td>
-<td class="cuerpo_tabla_der">110.631,03</td>
-<td class="cuerpo_tabla_der">89.476,36</td>
-<td class="cuerpo_tabla_der">373.997,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29009</td>
-<td class="cuerpo_tabla_izq">Almáchar.</td>
-<td class="cuerpo_tabla_der">20.744,96</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.264,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29010</td>
-<td class="cuerpo_tabla_izq">Almargen.</td>
-<td class="cuerpo_tabla_der">23.729,91</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.249,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29011</td>
-<td class="cuerpo_tabla_izq">Almogía.</td>
-<td class="cuerpo_tabla_der">27.313,41</td>
-<td class="cuerpo_tabla_der">15.532,16</td>
-<td class="cuerpo_tabla_der">15.116,86</td>
-<td class="cuerpo_tabla_der">57.962,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29012</td>
-<td class="cuerpo_tabla_izq">Álora.</td>
-<td class="cuerpo_tabla_der">92.877,70</td>
-<td class="cuerpo_tabla_der">55.693,76</td>
-<td class="cuerpo_tabla_der">50.933,11</td>
-<td class="cuerpo_tabla_der">199.504,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29013</td>
-<td class="cuerpo_tabla_izq">Alozaina.</td>
-<td class="cuerpo_tabla_der">22.996,76</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.968,77</td>
-<td class="cuerpo_tabla_der">58.725,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29014</td>
-<td class="cuerpo_tabla_izq">Alpandeire.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29015</td>
-<td class="cuerpo_tabla_izq">Antequera.</td>
-<td class="cuerpo_tabla_der">307.323,21</td>
-<td class="cuerpo_tabla_der">176.800,29</td>
-<td class="cuerpo_tabla_der">157.638,15</td>
-<td class="cuerpo_tabla_der">641.761,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29016</td>
-<td class="cuerpo_tabla_izq">Árchez.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29017</td>
-<td class="cuerpo_tabla_izq">Archidona.</td>
-<td class="cuerpo_tabla_der">58.419,79</td>
-<td class="cuerpo_tabla_der">35.219,22</td>
-<td class="cuerpo_tabla_der">32.796,65</td>
-<td class="cuerpo_tabla_der">126.435,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29018</td>
-<td class="cuerpo_tabla_izq">Ardales.</td>
-<td class="cuerpo_tabla_der">27.186,18</td>
-<td class="cuerpo_tabla_der">19.583,64</td>
-<td class="cuerpo_tabla_der">19.312,69</td>
-<td class="cuerpo_tabla_der">66.082,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29019</td>
-<td class="cuerpo_tabla_izq">Arenas.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29020</td>
-<td class="cuerpo_tabla_izq">Arriate.</td>
-<td class="cuerpo_tabla_der">28.256,03</td>
-<td class="cuerpo_tabla_der">19.552,46</td>
-<td class="cuerpo_tabla_der">15.129,90</td>
-<td class="cuerpo_tabla_der">62.938,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29021</td>
-<td class="cuerpo_tabla_izq">Atajate.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29022</td>
-<td class="cuerpo_tabla_izq">Benadalid.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29023</td>
-<td class="cuerpo_tabla_izq">Benahavís.</td>
-<td class="cuerpo_tabla_der">44.071,06</td>
-<td class="cuerpo_tabla_der">38.555,66</td>
-<td class="cuerpo_tabla_der">32.783,60</td>
-<td class="cuerpo_tabla_der">115.410,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29024</td>
-<td class="cuerpo_tabla_izq">Benalauría.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29025</td>
-<td class="cuerpo_tabla_izq">Benalmádena.</td>
-<td class="cuerpo_tabla_der">401.427,87</td>
-<td class="cuerpo_tabla_der">359.496,24</td>
-<td class="cuerpo_tabla_der">259.789,50</td>
-<td class="cuerpo_tabla_der">1.020.713,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29026</td>
-<td class="cuerpo_tabla_izq">Benamargosa.</td>
-<td class="cuerpo_tabla_der">18.964,46</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.484,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29027</td>
-<td class="cuerpo_tabla_izq">Benamocarra.</td>
-<td class="cuerpo_tabla_der">19.353,53</td>
-<td class="cuerpo_tabla_der">15.076,24</td>
-<td class="cuerpo_tabla_der">11.750,52</td>
-<td class="cuerpo_tabla_der">46.180,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29028</td>
-<td class="cuerpo_tabla_izq">Benaoján.</td>
-<td class="cuerpo_tabla_der">19.383,40</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.903,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29029</td>
-<td class="cuerpo_tabla_izq">Benarrabá.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29030</td>
-<td class="cuerpo_tabla_izq">Borge, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29031</td>
-<td class="cuerpo_tabla_izq">Burgo, El.</td>
-<td class="cuerpo_tabla_der">22.263,62</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">57.783,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29032</td>
-<td class="cuerpo_tabla_izq">Campillos.</td>
-<td class="cuerpo_tabla_der">61.928,42</td>
-<td class="cuerpo_tabla_der">37.395,16</td>
-<td class="cuerpo_tabla_der">33.044,55</td>
-<td class="cuerpo_tabla_der">132.368,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29033</td>
-<td class="cuerpo_tabla_izq">Canillas de Aceituno.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29034</td>
-<td class="cuerpo_tabla_izq">Canillas de Albaida.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29035</td>
-<td class="cuerpo_tabla_izq">Cañete la Real.</td>
-<td class="cuerpo_tabla_der">19.383,40</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.903,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29036</td>
-<td class="cuerpo_tabla_izq">Carratraca.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29037</td>
-<td class="cuerpo_tabla_izq">Cartajima.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29038</td>
-<td class="cuerpo_tabla_izq">Cártama.</td>
-<td class="cuerpo_tabla_der">164.830,85</td>
-<td class="cuerpo_tabla_der">151.621,57</td>
-<td class="cuerpo_tabla_der">85.627,25</td>
-<td class="cuerpo_tabla_der">402.079,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29039</td>
-<td class="cuerpo_tabla_izq">Casabermeja.</td>
-<td class="cuerpo_tabla_der">21.605,34</td>
-<td class="cuerpo_tabla_der">16.692,66</td>
-<td class="cuerpo_tabla_der">14.033,89</td>
-<td class="cuerpo_tabla_der">52.331,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29040</td>
-<td class="cuerpo_tabla_izq">Casarabonela.</td>
-<td class="cuerpo_tabla_der">26.976,71</td>
-<td class="cuerpo_tabla_der">18.651,10</td>
-<td class="cuerpo_tabla_der">19.717,17</td>
-<td class="cuerpo_tabla_der">65.344,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29041</td>
-<td class="cuerpo_tabla_izq">Casares.</td>
-<td class="cuerpo_tabla_der">42.028,72</td>
-<td class="cuerpo_tabla_der">33.188,34</td>
-<td class="cuerpo_tabla_der">24.380,81</td>
-<td class="cuerpo_tabla_der">99.597,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29042</td>
-<td class="cuerpo_tabla_izq">Coín.</td>
-<td class="cuerpo_tabla_der">153.414,70</td>
-<td class="cuerpo_tabla_der">103.025,61</td>
-<td class="cuerpo_tabla_der">79.142,49</td>
-<td class="cuerpo_tabla_der">335.582,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29043</td>
-<td class="cuerpo_tabla_izq">Colmenar.</td>
-<td class="cuerpo_tabla_der">23.438,21</td>
-<td class="cuerpo_tabla_der">14.599,61</td>
-<td class="cuerpo_tabla_der">13.564,17</td>
-<td class="cuerpo_tabla_der">51.601,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29044</td>
-<td class="cuerpo_tabla_izq">Comares.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29045</td>
-<td class="cuerpo_tabla_izq">Cómpeta.</td>
-<td class="cuerpo_tabla_der">21.291,13</td>
-<td class="cuerpo_tabla_der">11.781,25</td>
-<td class="cuerpo_tabla_der">17.491,56</td>
-<td class="cuerpo_tabla_der">50.563,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29046</td>
-<td class="cuerpo_tabla_izq">Cortes de la Frontera.</td>
-<td class="cuerpo_tabla_der">23.176,37</td>
-<td class="cuerpo_tabla_der">12.009,21</td>
-<td class="cuerpo_tabla_der">13.694,64</td>
-<td class="cuerpo_tabla_der">48.880,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29047</td>
-<td class="cuerpo_tabla_izq">Cuevas Bajas.</td>
-<td class="cuerpo_tabla_der">19.016,82</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.536,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29049</td>
-<td class="cuerpo_tabla_izq">Cuevas de San Marcos.</td>
-<td class="cuerpo_tabla_der">27.575,25</td>
-<td class="cuerpo_tabla_der">13.356,22</td>
-<td class="cuerpo_tabla_der">15.560,48</td>
-<td class="cuerpo_tabla_der">56.491,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29048</td>
-<td class="cuerpo_tabla_izq">Cuevas del Becerro.</td>
-<td class="cuerpo_tabla_der">20.168,91</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.688,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29050</td>
-<td class="cuerpo_tabla_izq">Cútar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29051</td>
-<td class="cuerpo_tabla_izq">Estepona.</td>
-<td class="cuerpo_tabla_der">418.499,72</td>
-<td class="cuerpo_tabla_der">339.291,09</td>
-<td class="cuerpo_tabla_der">251.047,46</td>
-<td class="cuerpo_tabla_der">1.008.838,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29052</td>
-<td class="cuerpo_tabla_izq">Faraján.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29053</td>
-<td class="cuerpo_tabla_izq">Frigiliana.</td>
-<td class="cuerpo_tabla_der">16.578,04</td>
-<td class="cuerpo_tabla_der">13.169,71</td>
-<td class="cuerpo_tabla_der">12.807,39</td>
-<td class="cuerpo_tabla_der">42.555,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29054</td>
-<td class="cuerpo_tabla_izq">Fuengirola.</td>
-<td class="cuerpo_tabla_der">501.031,13</td>
-<td class="cuerpo_tabla_der">360.718,91</td>
-<td class="cuerpo_tabla_der">298.267,50</td>
-<td class="cuerpo_tabla_der">1.160.017,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29055</td>
-<td class="cuerpo_tabla_izq">Fuente de Piedra.</td>
-<td class="cuerpo_tabla_der">27.029,07</td>
-<td class="cuerpo_tabla_der">21.220,78</td>
-<td class="cuerpo_tabla_der">19.012,59</td>
-<td class="cuerpo_tabla_der">67.262,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29056</td>
-<td class="cuerpo_tabla_izq">Gaucín.</td>
-<td class="cuerpo_tabla_der">18.074,21</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.594,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29057</td>
-<td class="cuerpo_tabla_izq">Genalguacil.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29058</td>
-<td class="cuerpo_tabla_izq">Guaro.</td>
-<td class="cuerpo_tabla_der">22.315,99</td>
-<td class="cuerpo_tabla_der">19.355,69</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.431,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29059</td>
-<td class="cuerpo_tabla_izq">Humilladero.</td>
-<td class="cuerpo_tabla_der">26.527,90</td>
-<td class="cuerpo_tabla_der">14.786,12</td>
-<td class="cuerpo_tabla_der">13.120,54</td>
-<td class="cuerpo_tabla_der">54.434,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29060</td>
-<td class="cuerpo_tabla_izq">Igualeja.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29061</td>
-<td class="cuerpo_tabla_izq">Istán.</td>
-<td class="cuerpo_tabla_der">18.178,94</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.698,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29062</td>
-<td class="cuerpo_tabla_izq">Iznate.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29063</td>
-<td class="cuerpo_tabla_izq">Jimera de Líbar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29064</td>
-<td class="cuerpo_tabla_izq">Jubrique.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29065</td>
-<td class="cuerpo_tabla_izq">Júzcar.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29066</td>
-<td class="cuerpo_tabla_izq">Macharaviaya.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29067</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_der">3.912.730,83</td>
-<td class="cuerpo_tabla_der">2.677.078,06</td>
-<td class="cuerpo_tabla_der">2.130.154,73</td>
-<td class="cuerpo_tabla_der">8.719.963,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29068</td>
-<td class="cuerpo_tabla_izq">Manilva.</td>
-<td class="cuerpo_tabla_der">91.777,98</td>
-<td class="cuerpo_tabla_der">84.851,34</td>
-<td class="cuerpo_tabla_der">56.139,19</td>
-<td class="cuerpo_tabla_der">232.768,51</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29069</td>
-<td class="cuerpo_tabla_izq">Marbella.</td>
-<td class="cuerpo_tabla_der">964.380,05</td>
-<td class="cuerpo_tabla_der">702.299,82</td>
-<td class="cuerpo_tabla_der">547.298,11</td>
-<td class="cuerpo_tabla_der">2.213.977,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29070</td>
-<td class="cuerpo_tabla_izq">Mijas.</td>
-<td class="cuerpo_tabla_der">515.903,54</td>
-<td class="cuerpo_tabla_der">432.815,00</td>
-<td class="cuerpo_tabla_der">298.358,84</td>
-<td class="cuerpo_tabla_der">1.247.077,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29071</td>
-<td class="cuerpo_tabla_izq">Moclinejo.</td>
-<td class="cuerpo_tabla_der">19.959,44</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.479,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29072</td>
-<td class="cuerpo_tabla_izq">Mollina.</td>
-<td class="cuerpo_tabla_der">29.984,16</td>
-<td class="cuerpo_tabla_der">20.795,85</td>
-<td class="cuerpo_tabla_der">20.557,80</td>
-<td class="cuerpo_tabla_der">71.337,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29073</td>
-<td class="cuerpo_tabla_izq">Monda.</td>
-<td class="cuerpo_tabla_der">28.024,06</td>
-<td class="cuerpo_tabla_der">21.013,55</td>
-<td class="cuerpo_tabla_der">18.751,63</td>
-<td class="cuerpo_tabla_der">67.789,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29903</td>
-<td class="cuerpo_tabla_izq">Montecorto.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29074</td>
-<td class="cuerpo_tabla_izq">Montejaque.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29075</td>
-<td class="cuerpo_tabla_izq">Nerja.</td>
-<td class="cuerpo_tabla_der">126.131,16</td>
-<td class="cuerpo_tabla_der">90.570,95</td>
-<td class="cuerpo_tabla_der">79.168,58</td>
-<td class="cuerpo_tabla_der">295.870,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29076</td>
-<td class="cuerpo_tabla_izq">Ojén.</td>
-<td class="cuerpo_tabla_der">22.129,01</td>
-<td class="cuerpo_tabla_der">20.049,82</td>
-<td class="cuerpo_tabla_der">14.425,32</td>
-<td class="cuerpo_tabla_der">56.604,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29077</td>
-<td class="cuerpo_tabla_izq">Parauta.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29079</td>
-<td class="cuerpo_tabla_izq">Periana.</td>
-<td class="cuerpo_tabla_der">21.814,81</td>
-<td class="cuerpo_tabla_der">12.423,67</td>
-<td class="cuerpo_tabla_der">12.937,87</td>
-<td class="cuerpo_tabla_der">47.176,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29080</td>
-<td class="cuerpo_tabla_izq">Pizarra.</td>
-<td class="cuerpo_tabla_der">59.467,15</td>
-<td class="cuerpo_tabla_der">46.119,63</td>
-<td class="cuerpo_tabla_der">34.571,15</td>
-<td class="cuerpo_tabla_der">140.157,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29081</td>
-<td class="cuerpo_tabla_izq">Pujerra.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29082</td>
-<td class="cuerpo_tabla_izq">Rincón de la Victoria.</td>
-<td class="cuerpo_tabla_der">279.044,68</td>
-<td class="cuerpo_tabla_der">237.995,97</td>
-<td class="cuerpo_tabla_der">180.980,69</td>
-<td class="cuerpo_tabla_der">698.021,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29083</td>
-<td class="cuerpo_tabla_izq">Riogordo.</td>
-<td class="cuerpo_tabla_der">28.076,43</td>
-<td class="cuerpo_tabla_der">20.226,06</td>
-<td class="cuerpo_tabla_der">19.899,84</td>
-<td class="cuerpo_tabla_der">68.202,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29084</td>
-<td class="cuerpo_tabla_izq">Ronda.</td>
-<td class="cuerpo_tabla_der">239.245,27</td>
-<td class="cuerpo_tabla_der">147.601,27</td>
-<td class="cuerpo_tabla_der">132.521,10</td>
-<td class="cuerpo_tabla_der">519.367,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29085</td>
-<td class="cuerpo_tabla_izq">Salares.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29086</td>
-<td class="cuerpo_tabla_izq">Sayalonga.</td>
-<td class="cuerpo_tabla_der">18.126,57</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.646,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29087</td>
-<td class="cuerpo_tabla_izq">Sedella.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29904</td>
-<td class="cuerpo_tabla_izq">Serrato.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29088</td>
-<td class="cuerpo_tabla_izq">Sierra de Yeguas.</td>
-<td class="cuerpo_tabla_der">23.647,68</td>
-<td class="cuerpo_tabla_der">15.179,86</td>
-<td class="cuerpo_tabla_der">12.937,87</td>
-<td class="cuerpo_tabla_der">51.765,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29089</td>
-<td class="cuerpo_tabla_izq">Teba.</td>
-<td class="cuerpo_tabla_der">28.674,97</td>
-<td class="cuerpo_tabla_der">15.594,32</td>
-<td class="cuerpo_tabla_der">16.382,49</td>
-<td class="cuerpo_tabla_der">60.651,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29090</td>
-<td class="cuerpo_tabla_izq">Tolox.</td>
-<td class="cuerpo_tabla_der">23.101,50</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">58.621,50</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29901</td>
-<td class="cuerpo_tabla_izq">Torremolinos.</td>
-<td class="cuerpo_tabla_der">398.652,38</td>
-<td class="cuerpo_tabla_der">345.963,97</td>
-<td class="cuerpo_tabla_der">263.194,98</td>
-<td class="cuerpo_tabla_der">1.007.811,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29091</td>
-<td class="cuerpo_tabla_izq">Torrox.</td>
-<td class="cuerpo_tabla_der">98.271,57</td>
-<td class="cuerpo_tabla_der">74.842,02</td>
-<td class="cuerpo_tabla_der">63.393,77</td>
-<td class="cuerpo_tabla_der">236.507,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29092</td>
-<td class="cuerpo_tabla_izq">Totalán.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29093</td>
-<td class="cuerpo_tabla_izq">Valle de Abdalajís.</td>
-<td class="cuerpo_tabla_der">26.767,23</td>
-<td class="cuerpo_tabla_der">18.899,78</td>
-<td class="cuerpo_tabla_der">19.834,60</td>
-<td class="cuerpo_tabla_der">65.501,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29094</td>
-<td class="cuerpo_tabla_izq">Vélez-Málaga.</td>
-<td class="cuerpo_tabla_der">531.718,57</td>
-<td class="cuerpo_tabla_der">397.585,52</td>
-<td class="cuerpo_tabla_der">298.176,17</td>
-<td class="cuerpo_tabla_der">1.227.480,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29095</td>
-<td class="cuerpo_tabla_izq">Villanueva de Algaidas.</td>
-<td class="cuerpo_tabla_der">28.360,76</td>
-<td class="cuerpo_tabla_der">17.459,41</td>
-<td class="cuerpo_tabla_der">16.669,55</td>
-<td class="cuerpo_tabla_der">62.489,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29902</td>
-<td class="cuerpo_tabla_izq">Villanueva de la Concepción.</td>
-<td class="cuerpo_tabla_der">23.909,51</td>
-<td class="cuerpo_tabla_der">14.495,99</td>
-<td class="cuerpo_tabla_der">13.211,87</td>
-<td class="cuerpo_tabla_der">51.617,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29098</td>
-<td class="cuerpo_tabla_izq">Villanueva de Tapia.</td>
-<td class="cuerpo_tabla_der">18.859,72</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">54.379,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29096</td>
-<td class="cuerpo_tabla_izq">Villanueva del Rosario.</td>
-<td class="cuerpo_tabla_der">22.966,90</td>
-<td class="cuerpo_tabla_der">13.687,79</td>
-<td class="cuerpo_tabla_der">13.042,25</td>
-<td class="cuerpo_tabla_der">49.696,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29097</td>
-<td class="cuerpo_tabla_izq">Villanueva del Trabuco.</td>
-<td class="cuerpo_tabla_der">38.048,78</td>
-<td class="cuerpo_tabla_der">23.303,36</td>
-<td class="cuerpo_tabla_der">20.296,84</td>
-<td class="cuerpo_tabla_der">81.648,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29099</td>
-<td class="cuerpo_tabla_izq">Viñuela.</td>
-<td class="cuerpo_tabla_der">19.016,82</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.864,38</td>
-<td class="cuerpo_tabla_der">54.641,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">29100</td>
-<td class="cuerpo_tabla_izq">Yunquera.</td>
-<td class="cuerpo_tabla_der">31.427,96</td>
-<td class="cuerpo_tabla_der">19.293,52</td>
-<td class="cuerpo_tabla_der">21.661,30</td>
-<td class="cuerpo_tabla_der">72.382,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41001</td>
-<td class="cuerpo_tabla_izq">Aguadulce.</td>
-<td class="cuerpo_tabla_der">23.729,91</td>
-<td class="cuerpo_tabla_der">17.822,17</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">59.312,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41002</td>
-<td class="cuerpo_tabla_izq">Alanís.</td>
-<td class="cuerpo_tabla_der">21.739,94</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">57.259,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41003</td>
-<td class="cuerpo_tabla_izq">Albaida del Aljarafe.</td>
-<td class="cuerpo_tabla_der">23.019,26</td>
-<td class="cuerpo_tabla_der">17.832,43</td>
-<td class="cuerpo_tabla_der">10.602,31</td>
-<td class="cuerpo_tabla_der">51.454,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41004</td>
-<td class="cuerpo_tabla_izq">Alcalá de Guadaíra.</td>
-<td class="cuerpo_tabla_der">477.518,05</td>
-<td class="cuerpo_tabla_der">380.509,59</td>
-<td class="cuerpo_tabla_der">265.008,62</td>
-<td class="cuerpo_tabla_der">1.123.036,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41005</td>
-<td class="cuerpo_tabla_izq">Alcalá del Río.</td>
-<td class="cuerpo_tabla_der">78.214,76</td>
-<td class="cuerpo_tabla_der">64.894,88</td>
-<td class="cuerpo_tabla_der">40.442,67</td>
-<td class="cuerpo_tabla_der">183.552,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41006</td>
-<td class="cuerpo_tabla_izq">Alcolea del Río.</td>
-<td class="cuerpo_tabla_der">24.380,82</td>
-<td class="cuerpo_tabla_der">16.568,32</td>
-<td class="cuerpo_tabla_der">12.168,05</td>
-<td class="cuerpo_tabla_der">53.117,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41007</td>
-<td class="cuerpo_tabla_izq">Algaba, La.</td>
-<td class="cuerpo_tabla_der">101.256,53</td>
-<td class="cuerpo_tabla_der">88.788,75</td>
-<td class="cuerpo_tabla_der">56.687,20</td>
-<td class="cuerpo_tabla_der">246.732,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41008</td>
-<td class="cuerpo_tabla_izq">Algámitas.</td>
-<td class="cuerpo_tabla_der">18.283,68</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.803,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41009</td>
-<td class="cuerpo_tabla_izq">Almadén de la Plata.</td>
-<td class="cuerpo_tabla_der">18.126,57</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.646,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41010</td>
-<td class="cuerpo_tabla_izq">Almensilla.</td>
-<td class="cuerpo_tabla_der">36.844,32</td>
-<td class="cuerpo_tabla_der">34.183,06</td>
-<td class="cuerpo_tabla_der">22.240,96</td>
-<td class="cuerpo_tabla_der">93.268,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41011</td>
-<td class="cuerpo_tabla_izq">Arahal.</td>
-<td class="cuerpo_tabla_der">145.035,88</td>
-<td class="cuerpo_tabla_der">90.840,35</td>
-<td class="cuerpo_tabla_der">69.800,25</td>
-<td class="cuerpo_tabla_der">305.676,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41012</td>
-<td class="cuerpo_tabla_izq">Aznalcázar.</td>
-<td class="cuerpo_tabla_der">33.388,06</td>
-<td class="cuerpo_tabla_der">23.531,32</td>
-<td class="cuerpo_tabla_der">15.364,76</td>
-<td class="cuerpo_tabla_der">72.284,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41013</td>
-<td class="cuerpo_tabla_izq">Aznalcóllar.</td>
-<td class="cuerpo_tabla_der">45.327,88</td>
-<td class="cuerpo_tabla_der">30.328,54</td>
-<td class="cuerpo_tabla_der">21.719,05</td>
-<td class="cuerpo_tabla_der">97.375,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41014</td>
-<td class="cuerpo_tabla_izq">Badolatosa.</td>
-<td class="cuerpo_tabla_der">26.842,10</td>
-<td class="cuerpo_tabla_der">13.563,45</td>
-<td class="cuerpo_tabla_der">12.050,62</td>
-<td class="cuerpo_tabla_der">52.456,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41015</td>
-<td class="cuerpo_tabla_izq">Benacazón.</td>
-<td class="cuerpo_tabla_der">46.479,97</td>
-<td class="cuerpo_tabla_der">40.710,87</td>
-<td class="cuerpo_tabla_der">23.676,22</td>
-<td class="cuerpo_tabla_der">110.867,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41016</td>
-<td class="cuerpo_tabla_izq">Bollullos de la Mitación.</td>
-<td class="cuerpo_tabla_der">61.142,91</td>
-<td class="cuerpo_tabla_der">58.449,95</td>
-<td class="cuerpo_tabla_der">37.193,76</td>
-<td class="cuerpo_tabla_der">156.786,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41017</td>
-<td class="cuerpo_tabla_izq">Bormujos.</td>
-<td class="cuerpo_tabla_der">136.761,79</td>
-<td class="cuerpo_tabla_der">104.144,66</td>
-<td class="cuerpo_tabla_der">86.057,83</td>
-<td class="cuerpo_tabla_der">326.964,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41018</td>
-<td class="cuerpo_tabla_izq">Brenes.</td>
-<td class="cuerpo_tabla_der">87.850,41</td>
-<td class="cuerpo_tabla_der">61.392,65</td>
-<td class="cuerpo_tabla_der">45.283,41</td>
-<td class="cuerpo_tabla_der">194.526,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41019</td>
-<td class="cuerpo_tabla_izq">Burguillos.</td>
-<td class="cuerpo_tabla_der">49.150,72</td>
-<td class="cuerpo_tabla_der">37.395,16</td>
-<td class="cuerpo_tabla_der">22.319,25</td>
-<td class="cuerpo_tabla_der">108.865,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41020</td>
-<td class="cuerpo_tabla_izq">Cabezas de San Juan, Las.</td>
-<td class="cuerpo_tabla_der">124.664,86</td>
-<td class="cuerpo_tabla_der">76.769,28</td>
-<td class="cuerpo_tabla_der">60.940,78</td>
-<td class="cuerpo_tabla_der">262.374,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41021</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_der">171.848,11</td>
-<td class="cuerpo_tabla_der">139.747,16</td>
-<td class="cuerpo_tabla_der">97.748,67</td>
-<td class="cuerpo_tabla_der">409.343,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41022</td>
-<td class="cuerpo_tabla_izq">Campana, La.</td>
-<td class="cuerpo_tabla_der">39.148,50</td>
-<td class="cuerpo_tabla_der">23.821,44</td>
-<td class="cuerpo_tabla_der">19.683,59</td>
-<td class="cuerpo_tabla_der">82.653,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41023</td>
-<td class="cuerpo_tabla_izq">Cantillana.</td>
-<td class="cuerpo_tabla_der">79.681,06</td>
-<td class="cuerpo_tabla_der">51.963,58</td>
-<td class="cuerpo_tabla_der">38.368,06</td>
-<td class="cuerpo_tabla_der">170.012,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41901</td>
-<td class="cuerpo_tabla_izq">Cañada Rosal.</td>
-<td class="cuerpo_tabla_der">25.742,38</td>
-<td class="cuerpo_tabla_der">16.257,47</td>
-<td class="cuerpo_tabla_der">12.233,29</td>
-<td class="cuerpo_tabla_der">54.233,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41024</td>
-<td class="cuerpo_tabla_izq">Carmona.</td>
-<td class="cuerpo_tabla_der">200.388,48</td>
-<td class="cuerpo_tabla_der">123.811,00</td>
-<td class="cuerpo_tabla_der">112.453,56</td>
-<td class="cuerpo_tabla_der">436.653,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41025</td>
-<td class="cuerpo_tabla_izq">Carrión de los Céspedes.</td>
-<td class="cuerpo_tabla_der">24.672,53</td>
-<td class="cuerpo_tabla_der">21.262,22</td>
-<td class="cuerpo_tabla_der">18.934,30</td>
-<td class="cuerpo_tabla_der">64.869,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41026</td>
-<td class="cuerpo_tabla_izq">Casariche.</td>
-<td class="cuerpo_tabla_der">41.033,73</td>
-<td class="cuerpo_tabla_der">25.313,52</td>
-<td class="cuerpo_tabla_der">20.544,75</td>
-<td class="cuerpo_tabla_der">86.892,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41027</td>
-<td class="cuerpo_tabla_izq">Castilblanco de los Arroyos.</td>
-<td class="cuerpo_tabla_der">33.649,90</td>
-<td class="cuerpo_tabla_der">20.816,58</td>
-<td class="cuerpo_tabla_der">19.592,26</td>
-<td class="cuerpo_tabla_der">74.058,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41028</td>
-<td class="cuerpo_tabla_izq">Castilleja de Guzmán.</td>
-<td class="cuerpo_tabla_der">30.118,76</td>
-<td class="cuerpo_tabla_der">18.153,74</td>
-<td class="cuerpo_tabla_der">22.966,08</td>
-<td class="cuerpo_tabla_der">71.238,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41029</td>
-<td class="cuerpo_tabla_izq">Castilleja de la Cuesta.</td>
-<td class="cuerpo_tabla_der">117.752,33</td>
-<td class="cuerpo_tabla_der">84.872,06</td>
-<td class="cuerpo_tabla_der">63.941,78</td>
-<td class="cuerpo_tabla_der">266.566,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41030</td>
-<td class="cuerpo_tabla_izq">Castilleja del Campo.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41031</td>
-<td class="cuerpo_tabla_izq">Castillo de las Guardas, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41032</td>
-<td class="cuerpo_tabla_izq">Cazalla de la Sierra.</td>
-<td class="cuerpo_tabla_der">30.874,41</td>
-<td class="cuerpo_tabla_der">18.785,70</td>
-<td class="cuerpo_tabla_der">20.022,83</td>
-<td class="cuerpo_tabla_der">69.682,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41033</td>
-<td class="cuerpo_tabla_izq">Constantina.</td>
-<td class="cuerpo_tabla_der">43.023,70</td>
-<td class="cuerpo_tabla_der">22.515,88</td>
-<td class="cuerpo_tabla_der">25.124,53</td>
-<td class="cuerpo_tabla_der">90.664,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41034</td>
-<td class="cuerpo_tabla_izq">Coria del Río.</td>
-<td class="cuerpo_tabla_der">209.867,02</td>
-<td class="cuerpo_tabla_der">157.921,43</td>
-<td class="cuerpo_tabla_der">108.421,79</td>
-<td class="cuerpo_tabla_der">476.210,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41035</td>
-<td class="cuerpo_tabla_izq">Coripe.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41036</td>
-<td class="cuerpo_tabla_izq">Coronil, El.</td>
-<td class="cuerpo_tabla_der">34.330,68</td>
-<td class="cuerpo_tabla_der">19.821,86</td>
-<td class="cuerpo_tabla_der">18.796,34</td>
-<td class="cuerpo_tabla_der">72.948,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41037</td>
-<td class="cuerpo_tabla_izq">Corrales, Los.</td>
-<td class="cuerpo_tabla_der">30.455,47</td>
-<td class="cuerpo_tabla_der">17.086,40</td>
-<td class="cuerpo_tabla_der">16.278,11</td>
-<td class="cuerpo_tabla_der">63.819,98</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41903</td>
-<td class="cuerpo_tabla_izq">Cuervo de Sevilla, El.</td>
-<td class="cuerpo_tabla_der">66.589,14</td>
-<td class="cuerpo_tabla_der">42.327,28</td>
-<td class="cuerpo_tabla_der">32.548,74</td>
-<td class="cuerpo_tabla_der">141.465,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41038</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_der">902.533,86</td>
-<td class="cuerpo_tabla_der">660.542,52</td>
-<td class="cuerpo_tabla_der">490.331,35</td>
-<td class="cuerpo_tabla_der">2.053.407,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41039</td>
-<td class="cuerpo_tabla_izq">Écija.</td>
-<td class="cuerpo_tabla_der">296.116,53</td>
-<td class="cuerpo_tabla_der">181.442,29</td>
-<td class="cuerpo_tabla_der">146.299,59</td>
-<td class="cuerpo_tabla_der">623.858,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41040</td>
-<td class="cuerpo_tabla_izq">Espartinas.</td>
-<td class="cuerpo_tabla_der">99.737,86</td>
-<td class="cuerpo_tabla_der">75.567,34</td>
-<td class="cuerpo_tabla_der">61.058,21</td>
-<td class="cuerpo_tabla_der">236.363,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41041</td>
-<td class="cuerpo_tabla_izq">Estepa.</td>
-<td class="cuerpo_tabla_der">98.638,14</td>
-<td class="cuerpo_tabla_der">55.465,81</td>
-<td class="cuerpo_tabla_der">47.553,73</td>
-<td class="cuerpo_tabla_der">201.657,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41042</td>
-<td class="cuerpo_tabla_izq">Fuentes de Andalucía.</td>
-<td class="cuerpo_tabla_der">52.449,88</td>
-<td class="cuerpo_tabla_der">30.888,06</td>
-<td class="cuerpo_tabla_der">26.625,03</td>
-<td class="cuerpo_tabla_der">109.962,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41043</td>
-<td class="cuerpo_tabla_izq">Garrobo, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41044</td>
-<td class="cuerpo_tabla_izq">Gelves.</td>
-<td class="cuerpo_tabla_der">71.197,50</td>
-<td class="cuerpo_tabla_der">47.259,41</td>
-<td class="cuerpo_tabla_der">42.008,40</td>
-<td class="cuerpo_tabla_der">160.465,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41045</td>
-<td class="cuerpo_tabla_izq">Gerena.</td>
-<td class="cuerpo_tabla_der">48.103,37</td>
-<td class="cuerpo_tabla_der">41.291,12</td>
-<td class="cuerpo_tabla_der">25.750,83</td>
-<td class="cuerpo_tabla_der">115.145,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41046</td>
-<td class="cuerpo_tabla_izq">Gilena.</td>
-<td class="cuerpo_tabla_der">29.146,28</td>
-<td class="cuerpo_tabla_der">16.547,59</td>
-<td class="cuerpo_tabla_der">14.568,85</td>
-<td class="cuerpo_tabla_der">60.262,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41047</td>
-<td class="cuerpo_tabla_izq">Gines.</td>
-<td class="cuerpo_tabla_der">98.742,88</td>
-<td class="cuerpo_tabla_der">55.527,98</td>
-<td class="cuerpo_tabla_der">55.578,13</td>
-<td class="cuerpo_tabla_der">209.848,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41048</td>
-<td class="cuerpo_tabla_izq">Guadalcanal.</td>
-<td class="cuerpo_tabla_der">28.338,26</td>
-<td class="cuerpo_tabla_der">19.107,01</td>
-<td class="cuerpo_tabla_der">19.938,99</td>
-<td class="cuerpo_tabla_der">67.384,26</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41049</td>
-<td class="cuerpo_tabla_izq">Guillena.</td>
-<td class="cuerpo_tabla_der">83.556,26</td>
-<td class="cuerpo_tabla_der">68.003,36</td>
-<td class="cuerpo_tabla_der">44.878,92</td>
-<td class="cuerpo_tabla_der">196.438,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41050</td>
-<td class="cuerpo_tabla_izq">Herrera.</td>
-<td class="cuerpo_tabla_der">50.878,85</td>
-<td class="cuerpo_tabla_der">28.712,13</td>
-<td class="cuerpo_tabla_der">23.741,46</td>
-<td class="cuerpo_tabla_der">103.332,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41051</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_der">21.238,76</td>
-<td class="cuerpo_tabla_der">15.242,03</td>
-<td class="cuerpo_tabla_der">10.706,69</td>
-<td class="cuerpo_tabla_der">47.187,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41902</td>
-<td class="cuerpo_tabla_izq">Isla Mayor.</td>
-<td class="cuerpo_tabla_der">39.724,54</td>
-<td class="cuerpo_tabla_der">28.712,13</td>
-<td class="cuerpo_tabla_der">22.332,30</td>
-<td class="cuerpo_tabla_der">90.768,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41052</td>
-<td class="cuerpo_tabla_izq">Lantejuela.</td>
-<td class="cuerpo_tabla_der">31.817,03</td>
-<td class="cuerpo_tabla_der">17.148,57</td>
-<td class="cuerpo_tabla_der">13.681,60</td>
-<td class="cuerpo_tabla_der">62.647,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41053</td>
-<td class="cuerpo_tabla_izq">Lebrija.</td>
-<td class="cuerpo_tabla_der">196.984,58</td>
-<td class="cuerpo_tabla_der">127.644,80</td>
-<td class="cuerpo_tabla_der">104.716,21</td>
-<td class="cuerpo_tabla_der">429.345,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41054</td>
-<td class="cuerpo_tabla_izq">Lora de Estepa.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41055</td>
-<td class="cuerpo_tabla_izq">Lora del Río.</td>
-<td class="cuerpo_tabla_der">130.425,30</td>
-<td class="cuerpo_tabla_der">84.001,69</td>
-<td class="cuerpo_tabla_der">70.583,12</td>
-<td class="cuerpo_tabla_der">285.010,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41056</td>
-<td class="cuerpo_tabla_izq">Luisiana, La.</td>
-<td class="cuerpo_tabla_der">34.749,62</td>
-<td class="cuerpo_tabla_der">21.355,38</td>
-<td class="cuerpo_tabla_der">17.374,13</td>
-<td class="cuerpo_tabla_der">73.479,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41057</td>
-<td class="cuerpo_tabla_izq">Madroño, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41058</td>
-<td class="cuerpo_tabla_izq">Mairena del Alcor.</td>
-<td class="cuerpo_tabla_der">161.060,38</td>
-<td class="cuerpo_tabla_der">123.831,73</td>
-<td class="cuerpo_tabla_der">79.742,69</td>
-<td class="cuerpo_tabla_der">364.634,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41059</td>
-<td class="cuerpo_tabla_izq">Mairena del Aljarafe.</td>
-<td class="cuerpo_tabla_der">314.759,41</td>
-<td class="cuerpo_tabla_der">223.987,07</td>
-<td class="cuerpo_tabla_der">174.887,36</td>
-<td class="cuerpo_tabla_der">713.633,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41060</td>
-<td class="cuerpo_tabla_izq">Marchena.</td>
-<td class="cuerpo_tabla_der">135.504,97</td>
-<td class="cuerpo_tabla_der">87.110,17</td>
-<td class="cuerpo_tabla_der">69.513,20</td>
-<td class="cuerpo_tabla_der">292.128,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41061</td>
-<td class="cuerpo_tabla_izq">Marinaleda.</td>
-<td class="cuerpo_tabla_der">32.789,51</td>
-<td class="cuerpo_tabla_der">20.764,87</td>
-<td class="cuerpo_tabla_der">18.895,16</td>
-<td class="cuerpo_tabla_der">72.449,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41062</td>
-<td class="cuerpo_tabla_izq">Martín de la Jara.</td>
-<td class="cuerpo_tabla_der">30.432,97</td>
-<td class="cuerpo_tabla_der">20.702,70</td>
-<td class="cuerpo_tabla_der">19.965,08</td>
-<td class="cuerpo_tabla_der">71.100,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41063</td>
-<td class="cuerpo_tabla_izq">Molares, Los.</td>
-<td class="cuerpo_tabla_der">25.218,71</td>
-<td class="cuerpo_tabla_der">17.956,77</td>
-<td class="cuerpo_tabla_der">12.611,68</td>
-<td class="cuerpo_tabla_der">55.787,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41064</td>
-<td class="cuerpo_tabla_izq">Montellano.</td>
-<td class="cuerpo_tabla_der">52.973,56</td>
-<td class="cuerpo_tabla_der">32.649,54</td>
-<td class="cuerpo_tabla_der">25.450,73</td>
-<td class="cuerpo_tabla_der">111.073,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41065</td>
-<td class="cuerpo_tabla_izq">Morón de la Frontera.</td>
-<td class="cuerpo_tabla_der">183.368,99</td>
-<td class="cuerpo_tabla_der">123.728,11</td>
-<td class="cuerpo_tabla_der">105.394,69</td>
-<td class="cuerpo_tabla_der">412.491,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41066</td>
-<td class="cuerpo_tabla_izq">Navas de la Concepción, Las.</td>
-<td class="cuerpo_tabla_der">20.221,28</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">55.741,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41067</td>
-<td class="cuerpo_tabla_izq">Olivares.</td>
-<td class="cuerpo_tabla_der">72.978,00</td>
-<td class="cuerpo_tabla_der">42.886,81</td>
-<td class="cuerpo_tabla_der">35.549,74</td>
-<td class="cuerpo_tabla_der">151.414,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41068</td>
-<td class="cuerpo_tabla_izq">Osuna.</td>
-<td class="cuerpo_tabla_der">136.814,16</td>
-<td class="cuerpo_tabla_der">73.246,34</td>
-<td class="cuerpo_tabla_der">66.355,63</td>
-<td class="cuerpo_tabla_der">276.416,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41069</td>
-<td class="cuerpo_tabla_izq">Palacios y Villafranca, Los.</td>
-<td class="cuerpo_tabla_der">295.540,49</td>
-<td class="cuerpo_tabla_der">187.638,54</td>
-<td class="cuerpo_tabla_der">128.371,90</td>
-<td class="cuerpo_tabla_der">611.550,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41904</td>
-<td class="cuerpo_tabla_izq">Palmar de Troya, El.</td>
-<td class="cuerpo_tabla_der">27.238,54</td>
-<td class="cuerpo_tabla_der">19.293,52</td>
-<td class="cuerpo_tabla_der">18.268,86</td>
-<td class="cuerpo_tabla_der">64.800,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41070</td>
-<td class="cuerpo_tabla_izq">Palomares del Río.</td>
-<td class="cuerpo_tabla_der">49.988,60</td>
-<td class="cuerpo_tabla_der">46.907,12</td>
-<td class="cuerpo_tabla_der">32.052,92</td>
-<td class="cuerpo_tabla_der">128.948,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41071</td>
-<td class="cuerpo_tabla_izq">Paradas.</td>
-<td class="cuerpo_tabla_der">47.474,95</td>
-<td class="cuerpo_tabla_der">29.395,99</td>
-<td class="cuerpo_tabla_der">26.090,07</td>
-<td class="cuerpo_tabla_der">102.961,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41072</td>
-<td class="cuerpo_tabla_izq">Pedrera.</td>
-<td class="cuerpo_tabla_der">40.719,53</td>
-<td class="cuerpo_tabla_der">23.303,36</td>
-<td class="cuerpo_tabla_der">19.318,25</td>
-<td class="cuerpo_tabla_der">83.341,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41073</td>
-<td class="cuerpo_tabla_izq">Pedroso, El.</td>
-<td class="cuerpo_tabla_der">22.682,56</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">18.138,39</td>
-<td class="cuerpo_tabla_der">58.580,95</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41074</td>
-<td class="cuerpo_tabla_izq">Peñaflor.</td>
-<td class="cuerpo_tabla_der">25.375,81</td>
-<td class="cuerpo_tabla_der">16.278,19</td>
-<td class="cuerpo_tabla_der">14.425,32</td>
-<td class="cuerpo_tabla_der">56.079,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41075</td>
-<td class="cuerpo_tabla_izq">Pilas.</td>
-<td class="cuerpo_tabla_der">106.598,03</td>
-<td class="cuerpo_tabla_der">69.433,26</td>
-<td class="cuerpo_tabla_der">47.031,81</td>
-<td class="cuerpo_tabla_der">223.063,10</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41076</td>
-<td class="cuerpo_tabla_izq">Pruna.</td>
-<td class="cuerpo_tabla_der">29.333,25</td>
-<td class="cuerpo_tabla_der">19.459,30</td>
-<td class="cuerpo_tabla_der">19.364,88</td>
-<td class="cuerpo_tabla_der">68.157,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41077</td>
-<td class="cuerpo_tabla_izq">Puebla de Cazalla, La.</td>
-<td class="cuerpo_tabla_der">79.157,38</td>
-<td class="cuerpo_tabla_der">48.585,70</td>
-<td class="cuerpo_tabla_der">39.581,51</td>
-<td class="cuerpo_tabla_der">167.324,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41078</td>
-<td class="cuerpo_tabla_izq">Puebla de los Infantes, La.</td>
-<td class="cuerpo_tabla_der">29.856,93</td>
-<td class="cuerpo_tabla_der">21.386,56</td>
-<td class="cuerpo_tabla_der">20.539,18</td>
-<td class="cuerpo_tabla_der">71.782,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41079</td>
-<td class="cuerpo_tabla_izq">Puebla del Río, La.</td>
-<td class="cuerpo_tabla_der">84.655,98</td>
-<td class="cuerpo_tabla_der">56.895,71</td>
-<td class="cuerpo_tabla_der">44.709,30</td>
-<td class="cuerpo_tabla_der">186.260,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41080</td>
-<td class="cuerpo_tabla_izq">Real de la Jara, El.</td>
-<td class="cuerpo_tabla_der">20.849,69</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">56.369,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41081</td>
-<td class="cuerpo_tabla_izq">Rinconada, La.</td>
-<td class="cuerpo_tabla_der">269.985,08</td>
-<td class="cuerpo_tabla_der">190.788,47</td>
-<td class="cuerpo_tabla_der">144.512,04</td>
-<td class="cuerpo_tabla_der">605.285,59</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41082</td>
-<td class="cuerpo_tabla_izq">Roda de Andalucía, La.</td>
-<td class="cuerpo_tabla_der">32.026,50</td>
-<td class="cuerpo_tabla_der">18.309,07</td>
-<td class="cuerpo_tabla_der">16.473,83</td>
-<td class="cuerpo_tabla_der">66.809,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41083</td>
-<td class="cuerpo_tabla_izq">Ronquillo, El.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41084</td>
-<td class="cuerpo_tabla_izq">Rubio, El.</td>
-<td class="cuerpo_tabla_der">27.208,68</td>
-<td class="cuerpo_tabla_der">14.454,55</td>
-<td class="cuerpo_tabla_der">13.720,74</td>
-<td class="cuerpo_tabla_der">55.383,97</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41085</td>
-<td class="cuerpo_tabla_izq">Salteras.</td>
-<td class="cuerpo_tabla_der">38.205,88</td>
-<td class="cuerpo_tabla_der">25.976,66</td>
-<td class="cuerpo_tabla_der">21.797,34</td>
-<td class="cuerpo_tabla_der">85.979,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41086</td>
-<td class="cuerpo_tabla_izq">San Juan de Aznalfarache.</td>
-<td class="cuerpo_tabla_der">134.981,29</td>
-<td class="cuerpo_tabla_der">104.227,56</td>
-<td class="cuerpo_tabla_der">76.011,01</td>
-<td class="cuerpo_tabla_der">315.219,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41088</td>
-<td class="cuerpo_tabla_izq">San Nicolás del Puerto.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41087</td>
-<td class="cuerpo_tabla_izq">Sanlúcar la Mayor.</td>
-<td class="cuerpo_tabla_der">95.443,72</td>
-<td class="cuerpo_tabla_der">68.169,15</td>
-<td class="cuerpo_tabla_der">50.085,00</td>
-<td class="cuerpo_tabla_der">213.697,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41089</td>
-<td class="cuerpo_tabla_izq">Santiponce.</td>
-<td class="cuerpo_tabla_der">53.340,13</td>
-<td class="cuerpo_tabla_der">42.410,18</td>
-<td class="cuerpo_tabla_der">32.000,73</td>
-<td class="cuerpo_tabla_der">127.751,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41090</td>
-<td class="cuerpo_tabla_izq">Saucejo, El.</td>
-<td class="cuerpo_tabla_der">33.283,32</td>
-<td class="cuerpo_tabla_der">17.853,16</td>
-<td class="cuerpo_tabla_der">16.238,97</td>
-<td class="cuerpo_tabla_der">67.375,45</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41091</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_der">4.532.554,27</td>
-<td class="cuerpo_tabla_der">3.084.434,48</td>
-<td class="cuerpo_tabla_der">2.572.749,69</td>
-<td class="cuerpo_tabla_der">10.189.738,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41092</td>
-<td class="cuerpo_tabla_izq">Tocina.</td>
-<td class="cuerpo_tabla_der">66.641,51</td>
-<td class="cuerpo_tabla_der">44.896,96</td>
-<td class="cuerpo_tabla_der">36.476,13</td>
-<td class="cuerpo_tabla_der">148.014,60</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41093</td>
-<td class="cuerpo_tabla_izq">Tomares.</td>
-<td class="cuerpo_tabla_der">160.693,80</td>
-<td class="cuerpo_tabla_der">119.479,85</td>
-<td class="cuerpo_tabla_der">95.987,22</td>
-<td class="cuerpo_tabla_der">376.160,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41094</td>
-<td class="cuerpo_tabla_izq">Umbrete.</td>
-<td class="cuerpo_tabla_der">50.878,85</td>
-<td class="cuerpo_tabla_der">49.704,75</td>
-<td class="cuerpo_tabla_der">30.356,70</td>
-<td class="cuerpo_tabla_der">130.940,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41095</td>
-<td class="cuerpo_tabla_izq">Utrera.</td>
-<td class="cuerpo_tabla_der">352.830,69</td>
-<td class="cuerpo_tabla_der">244.295,83</td>
-<td class="cuerpo_tabla_der">187.556,79</td>
-<td class="cuerpo_tabla_der">784.683,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41096</td>
-<td class="cuerpo_tabla_izq">Valencina de la Concepción.</td>
-<td class="cuerpo_tabla_der">55.434,84</td>
-<td class="cuerpo_tabla_der">30.369,98</td>
-<td class="cuerpo_tabla_der">33.422,94</td>
-<td class="cuerpo_tabla_der">119.227,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41097</td>
-<td class="cuerpo_tabla_izq">Villamanrique de la Condesa.</td>
-<td class="cuerpo_tabla_der">29.722,32</td>
-<td class="cuerpo_tabla_der">22.909,62</td>
-<td class="cuerpo_tabla_der">15.847,53</td>
-<td class="cuerpo_tabla_der">68.479,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41100</td>
-<td class="cuerpo_tabla_izq">Villanueva de San Juan.</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">17.760,00</td>
-<td class="cuerpo_tabla_der">53.280,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41098</td>
-<td class="cuerpo_tabla_izq">Villanueva del Ariscal.</td>
-<td class="cuerpo_tabla_der">45.642,09</td>
-<td class="cuerpo_tabla_der">30.991,68</td>
-<td class="cuerpo_tabla_der">25.646,44</td>
-<td class="cuerpo_tabla_der">102.280,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41099</td>
-<td class="cuerpo_tabla_izq">Villanueva del Río y Minas.</td>
-<td class="cuerpo_tabla_der">35.116,19</td>
-<td class="cuerpo_tabla_der">20.381,39</td>
-<td class="cuerpo_tabla_der">18.770,24</td>
-<td class="cuerpo_tabla_der">74.267,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41101</td>
-<td class="cuerpo_tabla_izq">Villaverde del Río.</td>
-<td class="cuerpo_tabla_der">58.576,90</td>
-<td class="cuerpo_tabla_der">37.871,79</td>
-<td class="cuerpo_tabla_der">28.438,68</td>
-<td class="cuerpo_tabla_der">124.887,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">41102</td>
-<td class="cuerpo_tabla_izq">Viso del Alcor, El.</td>
-<td class="cuerpo_tabla_der">138.437,55</td>
-<td class="cuerpo_tabla_der">95.067,89</td>
-<td class="cuerpo_tabla_der">65.363,99</td>
-<td class="cuerpo_tabla_der">298.869,43</td>
+<td>04</td>
+<td>04001</td>
+<td>Abla.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04002</td>
+<td>Abrucena.</td>
+<td>17.864,74</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.384,74</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04003</td>
+<td>Adra.</td>
+<td>196.146,70</td>
+<td>128.411,56</td>
+<td>88.275,96</td>
+<td>412.834,22</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04004</td>
+<td>Albanchez.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04005</td>
+<td>Alboloduy.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04006</td>
+<td>Albox.</td>
+<td>83.503,89</td>
+<td>53.642,17</td>
+<td>40.847,15</td>
+<td>177.993,21</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04007</td>
+<td>Alcolea.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04008</td>
+<td>Alcóntar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04009</td>
+<td>Alcudia de Monteagud.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04010</td>
+<td>Alhabia.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04011</td>
+<td>Alhama de Almería.</td>
+<td>27.575,25</td>
+<td>16.423,25</td>
+<td>13.707,69</td>
+<td>57.706,19</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04012</td>
+<td>Alicún.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04013</td>
+<td>Almería.</td>
+<td>1.417.726,75</td>
+<td>939.767,25</td>
+<td>716.658,76</td>
+<td>3.074.152,76</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04014</td>
+<td>Almócita.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04015</td>
+<td>Alsodux.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04016</td>
+<td>Antas.</td>
+<td>23.071,63</td>
+<td>14.869,01</td>
+<td>11.907,09</td>
+<td>49.847,73</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04017</td>
+<td>Arboleas.</td>
+<td>14.430,97</td>
+<td>10.454,97</td>
+<td>20.857,89</td>
+<td>45.743,83</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04018</td>
+<td>Armuña de Almanzora.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04019</td>
+<td>Bacares.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04904</td>
+<td>Balanegra.</td>
+<td>26.213,69</td>
+<td>16.381,81</td>
+<td>11.567,85</td>
+<td>54.163,35</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04020</td>
+<td>Bayárcal.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04021</td>
+<td>Bayarque.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04022</td>
+<td>Bédar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04023</td>
+<td>Beires.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04024</td>
+<td>Benahadux.</td>
+<td>29.774,69</td>
+<td>24.981,95</td>
+<td>14.686,28</td>
+<td>69.442,92</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04026</td>
+<td>Benitagla.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04027</td>
+<td>Benizalón.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04028</td>
+<td>Bentarique.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04029</td>
+<td>Berja.</td>
+<td>97.905,00</td>
+<td>59.423,94</td>
+<td>44.931,11</td>
+<td>202.260,05</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04030</td>
+<td>Canjáyar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04031</td>
+<td>Cantoria.</td>
+<td>17.468,29</td>
+<td>11.884,87</td>
+<td>12.911,78</td>
+<td>42.264,94</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04032</td>
+<td>Carboneras.</td>
+<td>56.744,03</td>
+<td>40.047,73</td>
+<td>29.939,17</td>
+<td>126.730,93</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04033</td>
+<td>Castro de Filabres.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04036</td>
+<td>Chercos.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04037</td>
+<td>Chirivel.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04034</td>
+<td>Cóbdar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04035</td>
+<td>Cuevas del Almanzora.</td>
+<td>101.675,47</td>
+<td>71.754,26</td>
+<td>46.875,24</td>
+<td>220.304,97</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04038</td>
+<td>Dalías.</td>
+<td>29.146,28</td>
+<td>18.827,15</td>
+<td>14.581,90</td>
+<td>62.555,33</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04902</td>
+<td>Ejido, El.</td>
+<td>650.278,92</td>
+<td>467.733,64</td>
+<td>279.361,22</td>
+<td>1.397.373,78</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04041</td>
+<td>Enix.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04043</td>
+<td>Felix.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04044</td>
+<td>Fines.</td>
+<td>23.991,75</td>
+<td>19.645,81</td>
+<td>17.760,00</td>
+<td>61.397,56</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04045</td>
+<td>Fiñana.</td>
+<td>24.463,06</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>59.983,06</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04046</td>
+<td>Fondón.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04047</td>
+<td>Gádor.</td>
+<td>23.490,57</td>
+<td>14.350,93</td>
+<td>10.928,51</td>
+<td>48.770,01</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04048</td>
+<td>Gallardos, Los.</td>
+<td>24.620,16</td>
+<td>20.039,55</td>
+<td>19.143,07</td>
+<td>63.802,78</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04049</td>
+<td>Garrucha.</td>
+<td>68.579,12</td>
+<td>49.435,35</td>
+<td>32.313,88</td>
+<td>150.328,35</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04050</td>
+<td>Gérgal.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04051</td>
+<td>Huécija.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04052</td>
+<td>Huércal de Almería.</td>
+<td>114.400,80</td>
+<td>103.730,20</td>
+<td>62.062,90</td>
+<td>280.193,90</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04053</td>
+<td>Huércal-Overa.</td>
+<td>131.629,76</td>
+<td>89.949,25</td>
+<td>66.642,68</td>
+<td>288.221,69</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04054</td>
+<td>Íllar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04055</td>
+<td>Instinción.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04056</td>
+<td>Laroya.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04057</td>
+<td>Láujar de Andarax.</td>
+<td>17.864,74</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.384,74</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04058</td>
+<td>Líjar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04059</td>
+<td>Lubrín.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04060</td>
+<td>Lucainena de las Torres.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04061</td>
+<td>Lúcar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04062</td>
+<td>Macael.</td>
+<td>38.205,88</td>
+<td>25.064,84</td>
+<td>22.058,29</td>
+<td>85.329,01</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04063</td>
+<td>María.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04064</td>
+<td>Mojácar.</td>
+<td>31.607,56</td>
+<td>24.173,74</td>
+<td>26.572,84</td>
+<td>82.354,14</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04903</td>
+<td>Mojonera, La.</td>
+<td>87.379,10</td>
+<td>49.476,80</td>
+<td>29.221,54</td>
+<td>166.077,44</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04065</td>
+<td>Nacimiento.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04066</td>
+<td>Níjar.</td>
+<td>271.032,43</td>
+<td>177.691,39</td>
+<td>91.368,29</td>
+<td>540.092,11</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04067</td>
+<td>Ohanes.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04068</td>
+<td>Olula de Castro.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04069</td>
+<td>Olula del Río.</td>
+<td>44.751,84</td>
+<td>29.168,04</td>
+<td>24.667,86</td>
+<td>98.587,74</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04070</td>
+<td>Oria.</td>
+<td>20.378,38</td>
+<td>17.760,00</td>
+<td>18.386,30</td>
+<td>56.524,68</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04071</td>
+<td>Padules.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04072</td>
+<td>Partaloa.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04073</td>
+<td>Paterna del Río.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04074</td>
+<td>Pechina.</td>
+<td>28.674,97</td>
+<td>21.293,21</td>
+<td>14.803,71</td>
+<td>64.771,89</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04075</td>
+<td>Pulpí.</td>
+<td>82.980,22</td>
+<td>53.352,04</td>
+<td>34.819,06</td>
+<td>171.151,32</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04076</td>
+<td>Purchena.</td>
+<td>20.221,28</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.741,28</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04077</td>
+<td>Rágol.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04078</td>
+<td>Rioja.</td>
+<td>18.964,46</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.484,46</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04079</td>
+<td>Roquetas de Mar.</td>
+<td>748.049,31</td>
+<td>562.873,96</td>
+<td>328.003,48</td>
+<td>1.638.926,75</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04080</td>
+<td>Santa Cruz de Marchena.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04081</td>
+<td>Santa Fe de Mondújar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04082</td>
+<td>Senés.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04083</td>
+<td>Serón.</td>
+<td>21.582,84</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>57.102,84</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04084</td>
+<td>Sierro.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04085</td>
+<td>Somontín.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04086</td>
+<td>Sorbas.</td>
+<td>23.153,87</td>
+<td>18.816,88</td>
+<td>17.968,77</td>
+<td>59.939,52</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04087</td>
+<td>Suflí.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04088</td>
+<td>Tabernas.</td>
+<td>27.941,82</td>
+<td>17.459,41</td>
+<td>14.412,27</td>
+<td>59.813,50</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04089</td>
+<td>Taberno.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04090</td>
+<td>Tahal.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04091</td>
+<td>Terque.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04092</td>
+<td>Tíjola.</td>
+<td>27.575,25</td>
+<td>15.076,24</td>
+<td>13.433,69</td>
+<td>56.085,18</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04901</td>
+<td>Tres Villas, Las.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04093</td>
+<td>Turre.</td>
+<td>21.710,07</td>
+<td>16.029,51</td>
+<td>13.042,25</td>
+<td>50.781,83</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04094</td>
+<td>Turrillas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04095</td>
+<td>Uleila del Campo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04096</td>
+<td>Urrácal.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04097</td>
+<td>Velefique.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04098</td>
+<td>Vélez-Blanco.</td>
+<td>20.902,06</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.422,06</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04099</td>
+<td>Vélez-Rubio.</td>
+<td>44.385,26</td>
+<td>26.163,17</td>
+<td>25.163,67</td>
+<td>95.712,10</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04100</td>
+<td>Vera.</td>
+<td>115.500,53</td>
+<td>84.996,40</td>
+<td>57.026,44</td>
+<td>257.523,37</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04101</td>
+<td>Viator.</td>
+<td>44.123,43</td>
+<td>35.758,02</td>
+<td>18.874,63</td>
+<td>98.756,08</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04102</td>
+<td>Vícar.</td>
+<td>230.447,51</td>
+<td>152.782,07</td>
+<td>82.182,63</td>
+<td>465.412,21</td>
+</tr>
+<tr>
+<td>04</td>
+<td>04103</td>
+<td>Zurgena.</td>
+<td>12.388,63</td>
+<td>10.206,29</td>
+<td>12.063,67</td>
+<td>34.658,59</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11001</td>
+<td>Alcalá de los Gazules.</td>
+<td>43.704,48</td>
+<td>81.654,32</td>
+<td>21.379,81</td>
+<td>146.738,61</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11002</td>
+<td>Alcalá del Valle.</td>
+<td>37.525,10</td>
+<td>79.548,91</td>
+<td>20.401,22</td>
+<td>137.475,23</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11003</td>
+<td>Algar.</td>
+<td>18.545,51</td>
+<td>31.976,67</td>
+<td>17.760,00</td>
+<td>68.282,18</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11004</td>
+<td>Algeciras.</td>
+<td>812.042,57</td>
+<td>2.138.188,70</td>
+<td>435.126,04</td>
+<td>3.385.357,31</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11005</td>
+<td>Algodonales.</td>
+<td>37.525,10</td>
+<td>84.812,44</td>
+<td>21.953,91</td>
+<td>144.291,45</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11006</td>
+<td>Arcos de la Frontera.</td>
+<td>222.278,15</td>
+<td>517.925,34</td>
+<td>117.398,68</td>
+<td>857.602,17</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11007</td>
+<td>Barbate.</td>
+<td>162.107,73</td>
+<td>372.125,70</td>
+<td>87.819,28</td>
+<td>622.052,71</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11008</td>
+<td>Barrios, Los.</td>
+<td>163.992,96</td>
+<td>422.505,16</td>
+<td>88.184,62</td>
+<td>674.682,74</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11901</td>
+<td>Benalup-Casas Viejas.</td>
+<td>50.931,22</td>
+<td>118.348,60</td>
+<td>28.412,58</td>
+<td>197.692,40</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11009</td>
+<td>Benaocaz.</td>
+<td>17.760,00</td>
+<td>25.821,56</td>
+<td>17.760,00</td>
+<td>61.341,56</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11010</td>
+<td>Bornos.</td>
+<td>56.901,13</td>
+<td>124.364,06</td>
+<td>31.061,29</td>
+<td>212.326,48</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11011</td>
+<td>Bosque, El.</td>
+<td>23.520,44</td>
+<td>47.448,60</td>
+<td>17.760,00</td>
+<td>88.729,04</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11012</td>
+<td>Cádiz.</td>
+<td>701.389,74</td>
+<td>1.721.467,91</td>
+<td>462.017,59</td>
+<td>2.884.875,24</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11013</td>
+<td>Castellar de la Frontera.</td>
+<td>24.747,40</td>
+<td>49.697,20</td>
+<td>12.585,58</td>
+<td>87.030,18</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11015</td>
+<td>Chiclana de la Frontera.</td>
+<td>585.290,67</td>
+<td>1.496.790,60</td>
+<td>316.991,12</td>
+<td>2.399.072,39</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11016</td>
+<td>Chipiona.</td>
+<td>141.946,19</td>
+<td>317.986,58</td>
+<td>72.409,81</td>
+<td>532.342,58</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11014</td>
+<td>Conil de la Frontera.</td>
+<td>148.858,71</td>
+<td>413.481,97</td>
+<td>82.091,29</td>
+<td>644.431,97</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11017</td>
+<td>Espera.</td>
+<td>27.418,15</td>
+<td>66.014,13</td>
+<td>15.221,24</td>
+<td>108.653,52</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11018</td>
+<td>Gastor, El.</td>
+<td>20.221,28</td>
+<td>37.641,55</td>
+<td>17.760,00</td>
+<td>75.622,83</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11019</td>
+<td>Grazalema.</td>
+<td>22.787,29</td>
+<td>39.711,41</td>
+<td>18.125,34</td>
+<td>80.624,04</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11020</td>
+<td>Jerez de la Frontera.</td>
+<td>1.403.587,49</td>
+<td>3.476.928,67</td>
+<td>819.097,16</td>
+<td>5.699.613,32</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11021</td>
+<td>Jimena de la Frontera.</td>
+<td>49.517,29</td>
+<td>109.851,77</td>
+<td>27.055,61</td>
+<td>186.424,67</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11022</td>
+<td>Línea de la Concepción, La.</td>
+<td>458.979,91</td>
+<td>1.061.948,24</td>
+<td>227.457,01</td>
+<td>1.748.385,16</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11023</td>
+<td>Medina Sidonia.</td>
+<td>81.094,98</td>
+<td>200.835,56</td>
+<td>45.231,21</td>
+<td>327.161,75</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11024</td>
+<td>Olvera.</td>
+<td>57.215,34</td>
+<td>106.919,23</td>
+<td>33.657,80</td>
+<td>197.792,37</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11025</td>
+<td>Paterna de Rivera.</td>
+<td>40.038,75</td>
+<td>95.264,29</td>
+<td>21.066,66</td>
+<td>156.369,70</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11026</td>
+<td>Prado del Rey.</td>
+<td>37.368,00</td>
+<td>90.376,73</td>
+<td>23.219,55</td>
+<td>150.964,28</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11027</td>
+<td>Puerto de Santa María, El.</td>
+<td>598.487,31</td>
+<td>1.460.622,66</td>
+<td>338.089,44</td>
+<td>2.397.199,41</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11028</td>
+<td>Puerto Real.</td>
+<td>272.236,89</td>
+<td>741.775,54</td>
+<td>165.649,51</td>
+<td>1.179.661,94</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11029</td>
+<td>Puerto Serrano.</td>
+<td>62.818,67</td>
+<td>113.761,82</td>
+<td>25.059,29</td>
+<td>201.639,78</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11030</td>
+<td>Rota.</td>
+<td>199.760,07</td>
+<td>510.406,02</td>
+<td>110.770,39</td>
+<td>820.936,48</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11031</td>
+<td>San Fernando.</td>
+<td>635.720,71</td>
+<td>1.561.832,73</td>
+<td>369.143,24</td>
+<td>2.566.696,68</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11902</td>
+<td>San José del Valle.</td>
+<td>33.440,43</td>
+<td>71.352,85</td>
+<td>17.387,18</td>
+<td>122.180,46</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11903</td>
+<td>San Martín del Tesorillo.</td>
+<td>30.694,81</td>
+<td>57.223,72</td>
+<td>19.586,69</td>
+<td>107.505,22</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11033</td>
+<td>San Roque.</td>
+<td>211.019,11</td>
+<td>564.921,10</td>
+<td>111.044,40</td>
+<td>886.984,61</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11032</td>
+<td>Sanlúcar de Barrameda.</td>
+<td>482.702,45</td>
+<td>1.184.738,75</td>
+<td>255.927,34</td>
+<td>1.923.368,54</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11034</td>
+<td>Setenil de las Bodegas.</td>
+<td>30.328,23</td>
+<td>51.358,65</td>
+<td>20.030,32</td>
+<td>101.717,20</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11035</td>
+<td>Tarifa.</td>
+<td>117.333,39</td>
+<td>333.476,39</td>
+<td>71.418,18</td>
+<td>522.227,96</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11036</td>
+<td>Torre Alháquime.</td>
+<td>17.760,00</td>
+<td>25.603,68</td>
+<td>17.760,00</td>
+<td>61.123,68</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11037</td>
+<td>Trebujena.</td>
+<td>46.637,07</td>
+<td>117.596,67</td>
+<td>27.159,99</td>
+<td>191.393,73</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11038</td>
+<td>Ubrique.</td>
+<td>101.308,89</td>
+<td>262.719,57</td>
+<td>67.856,13</td>
+<td>431.884,59</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11039</td>
+<td>Vejer de la Frontera.</td>
+<td>87.640,94</td>
+<td>200.685,17</td>
+<td>50.476,44</td>
+<td>338.802,55</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11040</td>
+<td>Villaluenga del Rosario.</td>
+<td>17.760,00</td>
+<td>22.498,89</td>
+<td>17.760,00</td>
+<td>58.018,89</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11041</td>
+<td>Villamartín.</td>
+<td>92.092,19</td>
+<td>196.624,74</td>
+<td>47.788,59</td>
+<td>336.505,52</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11042</td>
+<td>Zahara.</td>
+<td>17.760,00</td>
+<td>32.902,66</td>
+<td>17.760,00</td>
+<td>68.422,66</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14001</td>
+<td>Adamuz.</td>
+<td>26.999,21</td>
+<td>19.614,63</td>
+<td>16.082,39</td>
+<td>62.696,23</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14002</td>
+<td>Aguilar de la Frontera.</td>
+<td>98.062,10</td>
+<td>58.553,57</td>
+<td>51.154,92</td>
+<td>207.770,59</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14003</td>
+<td>Alcaracejos.</td>
+<td>17.917,10</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.437,10</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14004</td>
+<td>Almedinilla.</td>
+<td>28.233,53</td>
+<td>18.651,10</td>
+<td>18.438,49</td>
+<td>65.323,12</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14005</td>
+<td>Almodóvar del Río.</td>
+<td>56.953,50</td>
+<td>35.177,77</td>
+<td>29.612,98</td>
+<td>121.744,25</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14006</td>
+<td>Añora.</td>
+<td>18.702,62</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.222,62</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14007</td>
+<td>Baena.</td>
+<td>165.616,36</td>
+<td>80.727,42</td>
+<td>71.196,37</td>
+<td>317.540,15</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14008</td>
+<td>Belalcázar.</td>
+<td>24.066,62</td>
+<td>12.029,93</td>
+<td>12.481,20</td>
+<td>48.577,75</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14009</td>
+<td>Belmez.</td>
+<td>29.856,93</td>
+<td>19.790,88</td>
+<td>20.956,71</td>
+<td>70.604,52</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14010</td>
+<td>Benamejí.</td>
+<td>39.096,13</td>
+<td>20.650,79</td>
+<td>19.670,54</td>
+<td>79.417,46</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14011</td>
+<td>Blázquez, Los.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14012</td>
+<td>Bujalance.</td>
+<td>54.963,53</td>
+<td>30.991,68</td>
+<td>28.386,48</td>
+<td>114.341,69</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14013</td>
+<td>Cabra.</td>
+<td>150.325,01</td>
+<td>80.727,42</td>
+<td>81.008,33</td>
+<td>312.060,76</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14014</td>
+<td>Cañete de las Torres.</td>
+<td>31.323,22</td>
+<td>19.977,39</td>
+<td>21.087,19</td>
+<td>72.387,80</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14015</td>
+<td>Carcabuey.</td>
+<td>27.762,22</td>
+<td>17.760,00</td>
+<td>19.560,60</td>
+<td>65.082,82</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14016</td>
+<td>Cardeña.</td>
+<td>18.807,35</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.327,35</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14017</td>
+<td>Carlota, La.</td>
+<td>96.543,44</td>
+<td>67.754,68</td>
+<td>49.523,95</td>
+<td>213.822,07</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14018</td>
+<td>Carpio, El.</td>
+<td>28.884,44</td>
+<td>19.220,89</td>
+<td>17.374,13</td>
+<td>65.479,46</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14019</td>
+<td>Castro del Río.</td>
+<td>58.472,16</td>
+<td>31.675,55</td>
+<td>30.930,81</td>
+<td>121.078,52</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14020</td>
+<td>Conquista.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14021</td>
+<td>Córdoba.</td>
+<td>2.164.908,31</td>
+<td>1.417.831,31</td>
+<td>1.242.785,83</td>
+<td>4.825.525,45</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14022</td>
+<td>Doña Mencía.</td>
+<td>35.325,66</td>
+<td>18.744,25</td>
+<td>18.222,24</td>
+<td>72.292,15</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14023</td>
+<td>Dos Torres.</td>
+<td>28.233,53</td>
+<td>18.008,68</td>
+<td>18.869,06</td>
+<td>65.111,27</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14024</td>
+<td>Encinas Reales.</td>
+<td>25.981,72</td>
+<td>18.070,85</td>
+<td>18.138,39</td>
+<td>62.190,96</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14025</td>
+<td>Espejo.</td>
+<td>22.024,28</td>
+<td>12.796,69</td>
+<td>13.133,59</td>
+<td>47.954,56</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14026</td>
+<td>Espiel.</td>
+<td>23.677,54</td>
+<td>19.956,66</td>
+<td>18.229,72</td>
+<td>61.863,92</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14027</td>
+<td>Fernán-Núñez.</td>
+<td>68.264,91</td>
+<td>41.664,14</td>
+<td>37.663,48</td>
+<td>147.592,53</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14901</td>
+<td>Fuente Carreteros.</td>
+<td>17.917,10</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.437,10</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14028</td>
+<td>Fuente la Lancha.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14029</td>
+<td>Fuente Obejuna.</td>
+<td>31.240,98</td>
+<td>17.107,12</td>
+<td>19.357,40</td>
+<td>67.705,50</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14030</td>
+<td>Fuente Palmera.</td>
+<td>74.549,03</td>
+<td>44.482,50</td>
+<td>35.301,83</td>
+<td>154.333,36</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14031</td>
+<td>Fuente-Tójar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14032</td>
+<td>Granjuela, La.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14033</td>
+<td>Guadalcázar.</td>
+<td>20.483,12</td>
+<td>17.842,89</td>
+<td>17.760,00</td>
+<td>56.086,01</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14902</td>
+<td>Guijarrosa, La.</td>
+<td>18.231,31</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.751,31</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14034</td>
+<td>Guijo, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14035</td>
+<td>Hinojosa del Duque.</td>
+<td>48.103,37</td>
+<td>25.997,38</td>
+<td>25.750,83</td>
+<td>99.851,58</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14036</td>
+<td>Hornachuelos.</td>
+<td>34.121,20</td>
+<td>19.303,78</td>
+<td>18.457,10</td>
+<td>71.882,08</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14037</td>
+<td>Iznájar.</td>
+<td>30.507,84</td>
+<td>14.951,90</td>
+<td>17.348,03</td>
+<td>62.807,77</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14038</td>
+<td>Lucena.</td>
+<td>328.898,68</td>
+<td>198.165,93</td>
+<td>151.844,92</td>
+<td>678.909,53</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14039</td>
+<td>Luque.</td>
+<td>34.412,91</td>
+<td>19.148,46</td>
+<td>21.791,78</td>
+<td>75.353,15</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14040</td>
+<td>Montalbán de Córdoba.</td>
+<td>25.113,97</td>
+<td>19.573,18</td>
+<td>17.713,37</td>
+<td>62.400,52</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14041</td>
+<td>Montemayor.</td>
+<td>27.103,94</td>
+<td>16.174,58</td>
+<td>15.403,91</td>
+<td>58.682,43</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14042</td>
+<td>Montilla.</td>
+<td>167.711,07</td>
+<td>93.202,80</td>
+<td>89.202,35</td>
+<td>350.116,22</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14043</td>
+<td>Montoro.</td>
+<td>69.626,47</td>
+<td>40.027,01</td>
+<td>34.284,10</td>
+<td>143.937,58</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14044</td>
+<td>Monturque.</td>
+<td>24.410,69</td>
+<td>17.780,72</td>
+<td>17.760,00</td>
+<td>59.951,41</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14045</td>
+<td>Moriles.</td>
+<td>29.879,43</td>
+<td>15.262,75</td>
+<td>15.299,53</td>
+<td>60.441,71</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14046</td>
+<td>Nueva Carteya.</td>
+<td>40.510,06</td>
+<td>23.655,66</td>
+<td>21.314,57</td>
+<td>85.480,29</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14047</td>
+<td>Obejo.</td>
+<td>23.939,38</td>
+<td>19.521,47</td>
+<td>17.760,00</td>
+<td>61.220,85</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14048</td>
+<td>Palenciana.</td>
+<td>20.011,81</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.531,81</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14049</td>
+<td>Palma del Río.</td>
+<td>155.404,67</td>
+<td>93.472,20</td>
+<td>79.586,11</td>
+<td>328.462,98</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14050</td>
+<td>Pedro Abad.</td>
+<td>28.914,31</td>
+<td>21.365,84</td>
+<td>20.721,85</td>
+<td>71.002,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14051</td>
+<td>Pedroche.</td>
+<td>20.011,81</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.531,81</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14052</td>
+<td>Peñarroya-Pueblonuevo.</td>
+<td>74.758,50</td>
+<td>43.570,68</td>
+<td>41.199,44</td>
+<td>159.528,62</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14053</td>
+<td>Posadas.</td>
+<td>53.025,92</td>
+<td>30.224,92</td>
+<td>29.169,35</td>
+<td>112.420,19</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14054</td>
+<td>Pozoblanco.</td>
+<td>128.697,17</td>
+<td>70.635,21</td>
+<td>68.521,57</td>
+<td>267.853,95</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14055</td>
+<td>Priego de Córdoba.</td>
+<td>168.967,89</td>
+<td>86.695,71</td>
+<td>88.067,19</td>
+<td>343.730,79</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14056</td>
+<td>Puente Genil.</td>
+<td>238.250,28</td>
+<td>127.852,03</td>
+<td>112.740,61</td>
+<td>478.842,92</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14057</td>
+<td>Rambla, La.</td>
+<td>54.963,53</td>
+<td>34.411,01</td>
+<td>29.156,31</td>
+<td>118.530,85</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14058</td>
+<td>Rute.</td>
+<td>69.888,31</td>
+<td>39.923,39</td>
+<td>37.546,05</td>
+<td>147.357,75</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14059</td>
+<td>San Sebastián de los Ballesteros.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14061</td>
+<td>Santa Eufemia.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14060</td>
+<td>Santaella.</td>
+<td>32.916,75</td>
+<td>21.666,23</td>
+<td>16.839,17</td>
+<td>71.422,15</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14062</td>
+<td>Torrecampo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14063</td>
+<td>Valenzuela.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14064</td>
+<td>Valsequillo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14065</td>
+<td>Victoria, La.</td>
+<td>22.734,93</td>
+<td>20.060,28</td>
+<td>17.760,00</td>
+<td>60.555,21</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14066</td>
+<td>Villa del Río.</td>
+<td>53.340,13</td>
+<td>30.867,34</td>
+<td>26.690,27</td>
+<td>110.897,74</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14067</td>
+<td>Villafranca de Córdoba.</td>
+<td>31.817,03</td>
+<td>25.396,41</td>
+<td>17.882,99</td>
+<td>75.096,43</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14068</td>
+<td>Villaharta.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14069</td>
+<td>Villanueva de Córdoba.</td>
+<td>62.452,10</td>
+<td>35.115,60</td>
+<td>33.957,90</td>
+<td>131.525,60</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14070</td>
+<td>Villanueva del Duque.</td>
+<td>18.650,25</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.170,25</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14071</td>
+<td>Villanueva del Rey.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14072</td>
+<td>Villaralto.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14073</td>
+<td>Villaviciosa de Córdoba.</td>
+<td>20.086,68</td>
+<td>12.610,18</td>
+<td>12.898,73</td>
+<td>45.595,59</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14074</td>
+<td>Viso, El.</td>
+<td>28.600,10</td>
+<td>18.091,57</td>
+<td>19.260,50</td>
+<td>65.952,17</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14075</td>
+<td>Zuheros.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18001</td>
+<td>Agrón.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18002</td>
+<td>Alamedilla.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18003</td>
+<td>Albolote.</td>
+<td>142.312,76</td>
+<td>88.892,37</td>
+<td>73.531,93</td>
+<td>304.737,06</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18004</td>
+<td>Albondón.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18005</td>
+<td>Albuñán.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18006</td>
+<td>Albuñol.</td>
+<td>64.232,60</td>
+<td>40.897,38</td>
+<td>23.076,02</td>
+<td>128.206,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18007</td>
+<td>Albuñuelas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18010</td>
+<td>Aldeire.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18011</td>
+<td>Alfacar.</td>
+<td>43.337,91</td>
+<td>23.220,47</td>
+<td>22.136,58</td>
+<td>88.694,96</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18012</td>
+<td>Algarinejo.</td>
+<td>25.091,47</td>
+<td>18.008,68</td>
+<td>19.482,31</td>
+<td>62.582,46</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18013</td>
+<td>Alhama de Granada.</td>
+<td>46.898,91</td>
+<td>28.318,38</td>
+<td>22.710,68</td>
+<td>97.927,97</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18014</td>
+<td>Alhendín.</td>
+<td>61.561,85</td>
+<td>59.506,84</td>
+<td>29.469,45</td>
+<td>150.538,14</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18015</td>
+<td>Alicún de Ortega.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18016</td>
+<td>Almegíjar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18017</td>
+<td>Almuñécar.</td>
+<td>165.825,83</td>
+<td>114.796,40</td>
+<td>100.580,05</td>
+<td>381.202,28</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18904</td>
+<td>Alpujarra de la Sierra.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18018</td>
+<td>Alquife.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18020</td>
+<td>Arenas del Rey.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18021</td>
+<td>Armilla.</td>
+<td>179.807,99</td>
+<td>127.271,78</td>
+<td>90.924,67</td>
+<td>398.004,44</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18022</td>
+<td>Atarfe.</td>
+<td>124.874,33</td>
+<td>107.377,49</td>
+<td>60.405,82</td>
+<td>292.657,64</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18023</td>
+<td>Baza.</td>
+<td>152.629,19</td>
+<td>86.695,71</td>
+<td>77.107,03</td>
+<td>316.431,93</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18024</td>
+<td>Beas de Granada.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18025</td>
+<td>Beas de Guadix.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18027</td>
+<td>Benalúa.</td>
+<td>26.161,32</td>
+<td>15.718,66</td>
+<td>10.876,32</td>
+<td>52.756,30</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18028</td>
+<td>Benalúa de las Villas.</td>
+<td>18.231,31</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.751,31</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18029</td>
+<td>Benamaurel.</td>
+<td>23.258,60</td>
+<td>18.526,76</td>
+<td>17.760,00</td>
+<td>59.545,36</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18030</td>
+<td>Bérchules.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18032</td>
+<td>Bubión.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18033</td>
+<td>Busquístar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18034</td>
+<td>Cacín.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18035</td>
+<td>Cádiar.</td>
+<td>18.440,78</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.960,78</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18036</td>
+<td>Cájar.</td>
+<td>38.258,25</td>
+<td>23.324,09</td>
+<td>20.479,51</td>
+<td>82.061,85</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18114</td>
+<td>Calahorra, La.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18037</td>
+<td>Calicasas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18038</td>
+<td>Campotéjar.</td>
+<td>19.278,66</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.798,66</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18039</td>
+<td>Caniles.</td>
+<td>28.256,03</td>
+<td>16.236,74</td>
+<td>15.795,34</td>
+<td>60.288,11</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18040</td>
+<td>Cáñar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18042</td>
+<td>Capileira.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18043</td>
+<td>Carataunas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18044</td>
+<td>Cástaras.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18045</td>
+<td>Castilléjar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18046</td>
+<td>Castril.</td>
+<td>23.101,50</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>58.621,50</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18047</td>
+<td>Cenes de la Vega.</td>
+<td>58.891,10</td>
+<td>39.736,88</td>
+<td>34.597,24</td>
+<td>133.225,22</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18059</td>
+<td>Chauchina.</td>
+<td>40.091,12</td>
+<td>25.541,47</td>
+<td>20.857,89</td>
+<td>86.490,48</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18061</td>
+<td>Chimeneas.</td>
+<td>19.226,29</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.746,29</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18062</td>
+<td>Churriana de la Vega.</td>
+<td>99.318,92</td>
+<td>91.151,20</td>
+<td>50.606,91</td>
+<td>241.077,03</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18048</td>
+<td>Cijuela.</td>
+<td>26.894,47</td>
+<td>18.537,02</td>
+<td>11.241,65</td>
+<td>56.673,14</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18049</td>
+<td>Cogollos de Guadix.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18050</td>
+<td>Cogollos de la Vega.</td>
+<td>24.724,90</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>60.244,90</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18051</td>
+<td>Colomera.</td>
+<td>18.964,46</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.484,46</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18053</td>
+<td>Cortes de Baza.</td>
+<td>19.645,24</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.165,24</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18054</td>
+<td>Cortes y Graena.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18912</td>
+<td>Cuevas del Campo.</td>
+<td>21.425,74</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.945,74</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18056</td>
+<td>Cúllar.</td>
+<td>28.360,76</td>
+<td>15.697,94</td>
+<td>15.847,53</td>
+<td>59.906,23</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18057</td>
+<td>Cúllar Vega.</td>
+<td>53.497,23</td>
+<td>34.493,91</td>
+<td>30.369,75</td>
+<td>118.360,89</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18063</td>
+<td>Darro.</td>
+<td>23.468,07</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>58.988,07</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18064</td>
+<td>Dehesas de Guadix.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18065</td>
+<td>Dehesas Viejas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18066</td>
+<td>Deifontes.</td>
+<td>28.757,21</td>
+<td>20.329,68</td>
+<td>18.725,54</td>
+<td>67.812,43</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18067</td>
+<td>Diezma.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18068</td>
+<td>Dílar.</td>
+<td>22.315,99</td>
+<td>18.733,99</td>
+<td>17.760,00</td>
+<td>58.809,98</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18069</td>
+<td>Dólar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18915</td>
+<td>Domingo Pérez de Granada.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18070</td>
+<td>Dúdar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18071</td>
+<td>Dúrcal.</td>
+<td>51.140,69</td>
+<td>30.535,77</td>
+<td>28.556,11</td>
+<td>110.232,57</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18072</td>
+<td>Escúzar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18074</td>
+<td>Ferreira.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18076</td>
+<td>Fonelas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18077</td>
+<td>Fornes.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18078</td>
+<td>Freila.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18079</td>
+<td>Fuente Vaqueros.</td>
+<td>33.911,73</td>
+<td>19.656,08</td>
+<td>16.682,59</td>
+<td>70.250,40</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18905</td>
+<td>Gabias, Las.</td>
+<td>143.255,38</td>
+<td>127.831,31</td>
+<td>71.796,57</td>
+<td>342.883,26</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18082</td>
+<td>Galera.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18083</td>
+<td>Gobernador.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18084</td>
+<td>Gójar.</td>
+<td>45.851,56</td>
+<td>25.458,58</td>
+<td>23.754,51</td>
+<td>95.064,65</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18085</td>
+<td>Gor.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18086</td>
+<td>Gorafe.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18087</td>
+<td>Granada.</td>
+<td>1.603.736,63</td>
+<td>987.472,11</td>
+<td>862.285,43</td>
+<td>3.453.494,17</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18088</td>
+<td>Guadahortuna.</td>
+<td>24.253,59</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>59.773,59</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18089</td>
+<td>Guadix.</td>
+<td>134.143,41</td>
+<td>80.810,31</td>
+<td>69.917,68</td>
+<td>284.871,40</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18906</td>
+<td>Guájares, Los.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18093</td>
+<td>Gualchos.</td>
+<td>44.228,16</td>
+<td>28.919,36</td>
+<td>17.635,08</td>
+<td>90.782,60</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18094</td>
+<td>Güéjar Sierra.</td>
+<td>28.652,47</td>
+<td>21.096,44</td>
+<td>21.322,05</td>
+<td>71.070,96</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18095</td>
+<td>Güevéjar.</td>
+<td>29.909,29</td>
+<td>22.319,11</td>
+<td>18.503,73</td>
+<td>70.732,13</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18096</td>
+<td>Huélago.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18097</td>
+<td>Huéneja.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18098</td>
+<td>Huéscar.</td>
+<td>48.417,57</td>
+<td>28.256,21</td>
+<td>28.347,34</td>
+<td>105.021,12</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18099</td>
+<td>Huétor de Santillán.</td>
+<td>22.158,88</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>57.678,88</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18100</td>
+<td>Huétor Tájar.</td>
+<td>83.608,63</td>
+<td>50.761,64</td>
+<td>36.619,66</td>
+<td>170.989,93</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18101</td>
+<td>Huétor Vega.</td>
+<td>89.578,54</td>
+<td>51.735,63</td>
+<td>52.172,65</td>
+<td>193.486,82</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18102</td>
+<td>Íllora.</td>
+<td>75.962,95</td>
+<td>39.902,67</td>
+<td>39.803,32</td>
+<td>155.668,94</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18103</td>
+<td>Ítrabo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18105</td>
+<td>Iznalloz.</td>
+<td>43.128,44</td>
+<td>23.013,24</td>
+<td>17.047,93</td>
+<td>83.189,61</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18106</td>
+<td>Játar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18107</td>
+<td>Jayena.</td>
+<td>18.021,84</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.541,84</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18108</td>
+<td>Jérez del Marquesado.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18109</td>
+<td>Jete.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18111</td>
+<td>Jun.</td>
+<td>29.146,28</td>
+<td>19.759,69</td>
+<td>15.129,90</td>
+<td>64.035,87</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18112</td>
+<td>Juviles.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18115</td>
+<td>Láchar.</td>
+<td>27.784,72</td>
+<td>17.086,40</td>
+<td>12.990,06</td>
+<td>57.861,18</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18116</td>
+<td>Lanjarón.</td>
+<td>24.695,03</td>
+<td>14.931,18</td>
+<td>14.555,80</td>
+<td>54.182,01</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18117</td>
+<td>Lanteira.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18119</td>
+<td>Lecrín.</td>
+<td>23.782,28</td>
+<td>17.760,00</td>
+<td>18.007,91</td>
+<td>59.550,19</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18120</td>
+<td>Lentegí.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18121</td>
+<td>Lobras.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18122</td>
+<td>Loja.</td>
+<td>151.686,57</td>
+<td>84.146,75</td>
+<td>78.764,10</td>
+<td>314.597,42</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18123</td>
+<td>Lugros.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18124</td>
+<td>Lújar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18126</td>
+<td>Malahá, La.</td>
+<td>20.797,32</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.317,32</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18127</td>
+<td>Maracena.</td>
+<td>152.995,76</td>
+<td>107.812,67</td>
+<td>83.213,41</td>
+<td>344.021,84</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18128</td>
+<td>Marchal.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18132</td>
+<td>Moclín.</td>
+<td>28.832,07</td>
+<td>13.148,98</td>
+<td>15.938,87</td>
+<td>57.919,92</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18133</td>
+<td>Molvízar.</td>
+<td>30.694,81</td>
+<td>21.200,06</td>
+<td>19.978,13</td>
+<td>71.873,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18134</td>
+<td>Monachil.</td>
+<td>56.744,03</td>
+<td>40.420,75</td>
+<td>30.395,85</td>
+<td>127.560,63</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18135</td>
+<td>Montefrío.</td>
+<td>42.238,19</td>
+<td>19.821,86</td>
+<td>21.927,82</td>
+<td>83.987,87</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18136</td>
+<td>Montejícar.</td>
+<td>24.777,26</td>
+<td>17.760,00</td>
+<td>17.942,67</td>
+<td>60.479,93</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18137</td>
+<td>Montillana.</td>
+<td>19.016,82</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.536,82</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18138</td>
+<td>Moraleda de Zafayona.</td>
+<td>22.600,32</td>
+<td>12.734,52</td>
+<td>13.042,25</td>
+<td>48.377,09</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18909</td>
+<td>Morelábor.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18140</td>
+<td>Motril.</td>
+<td>418.290,25</td>
+<td>271.505,42</td>
+<td>214.409,19</td>
+<td>904.204,86</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18141</td>
+<td>Murtas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18903</td>
+<td>Nevada.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18143</td>
+<td>Nigüelas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18144</td>
+<td>Nívar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18145</td>
+<td>Ogíjares.</td>
+<td>103.194,13</td>
+<td>64.708,37</td>
+<td>56.517,58</td>
+<td>224.420,08</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18146</td>
+<td>Orce.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18147</td>
+<td>Órgiva.</td>
+<td>40.719,53</td>
+<td>23.676,38</td>
+<td>25.033,20</td>
+<td>89.429,11</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18148</td>
+<td>Otívar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18150</td>
+<td>Padul.</td>
+<td>62.452,10</td>
+<td>40.627,98</td>
+<td>32.874,93</td>
+<td>135.955,01</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18151</td>
+<td>Pampaneira.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18152</td>
+<td>Pedro Martínez.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18153</td>
+<td>Peligros.</td>
+<td>86.174,64</td>
+<td>54.761,22</td>
+<td>42.712,99</td>
+<td>183.648,85</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18154</td>
+<td>Peza, La.</td>
+<td>18.074,21</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.594,21</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18910</td>
+<td>Pinar, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18157</td>
+<td>Pinos Genil.</td>
+<td>19.645,24</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.165,24</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18158</td>
+<td>Pinos Puente.</td>
+<td>77.167,41</td>
+<td>38.431,32</td>
+<td>38.602,92</td>
+<td>154.201,65</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18159</td>
+<td>Píñar.</td>
+<td>18.178,94</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.698,94</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18161</td>
+<td>Polícar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18162</td>
+<td>Polopos.</td>
+<td>25.772,25</td>
+<td>18.692,55</td>
+<td>17.760,00</td>
+<td>62.224,80</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18163</td>
+<td>Pórtugos.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18164</td>
+<td>Puebla de Don Fadrique.</td>
+<td>26.505,40</td>
+<td>18.008,68</td>
+<td>17.760,00</td>
+<td>62.274,08</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18165</td>
+<td>Pulianas.</td>
+<td>45.380,25</td>
+<td>24.795,44</td>
+<td>22.058,29</td>
+<td>92.233,98</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18167</td>
+<td>Purullena.</td>
+<td>27.709,85</td>
+<td>19.003,39</td>
+<td>17.760,00</td>
+<td>64.473,24</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18168</td>
+<td>Quéntar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18170</td>
+<td>Rubite.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18171</td>
+<td>Salar.</td>
+<td>30.118,76</td>
+<td>19.044,84</td>
+<td>18.842,97</td>
+<td>68.006,57</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18173</td>
+<td>Salobreña.</td>
+<td>87.850,41</td>
+<td>51.051,76</td>
+<td>48.153,93</td>
+<td>187.056,10</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18174</td>
+<td>Santa Cruz del Comercio.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18175</td>
+<td>Santa Fe.</td>
+<td>110.473,23</td>
+<td>68.231,32</td>
+<td>56.478,43</td>
+<td>235.182,98</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18176</td>
+<td>Soportújar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18177</td>
+<td>Sorvilán.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18901</td>
+<td>Taha, La.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18178</td>
+<td>Torre-Cardela.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18916</td>
+<td>Torrenueva Costa.</td>
+<td>27.029,07</td>
+<td>22.277,66</td>
+<td>19.612,79</td>
+<td>68.919,52</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18179</td>
+<td>Torvizcón.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18180</td>
+<td>Trevélez.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18181</td>
+<td>Turón.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18182</td>
+<td>Ugíjar.</td>
+<td>26.034,09</td>
+<td>19.894,49</td>
+<td>17.916,57</td>
+<td>63.845,15</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18914</td>
+<td>Valderrubio.</td>
+<td>23.572,81</td>
+<td>17.822,17</td>
+<td>17.760,00</td>
+<td>59.154,98</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18907</td>
+<td>Valle del Zalabí.</td>
+<td>24.253,59</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>59.773,59</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18902</td>
+<td>Valle, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18183</td>
+<td>Válor.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18911</td>
+<td>Vegas del Genil.</td>
+<td>60.776,34</td>
+<td>71.008,23</td>
+<td>34.610,29</td>
+<td>166.394,86</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18184</td>
+<td>Vélez de Benaudalla.</td>
+<td>30.328,23</td>
+<td>20.661,25</td>
+<td>21.204,62</td>
+<td>72.194,10</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18185</td>
+<td>Ventas de Huelma.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18149</td>
+<td>Villa de Otura.</td>
+<td>50.774,12</td>
+<td>28.359,83</td>
+<td>29.991,37</td>
+<td>109.125,32</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18908</td>
+<td>Villamena.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18187</td>
+<td>Villanueva de las Torres.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18188</td>
+<td>Villanueva Mesía.</td>
+<td>24.829,63</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>60.349,63</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18189</td>
+<td>Víznar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18192</td>
+<td>Zafarraya.</td>
+<td>22.158,88</td>
+<td>19.189,90</td>
+<td>17.760,00</td>
+<td>59.108,78</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18913</td>
+<td>Zagra.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18193</td>
+<td>Zubia, La.</td>
+<td>144.197,99</td>
+<td>89.348,28</td>
+<td>76.115,39</td>
+<td>309.661,66</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18194</td>
+<td>Zújar.</td>
+<td>28.861,94</td>
+<td>18.630,38</td>
+<td>19.364,88</td>
+<td>66.857,20</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21001</td>
+<td>Alájar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21002</td>
+<td>Aljaraque.</td>
+<td>143.412,48</td>
+<td>104.434,79</td>
+<td>82.665,40</td>
+<td>330.512,67</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21003</td>
+<td>Almendro, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21004</td>
+<td>Almonaster la Real.</td>
+<td>20.849,69</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.369,69</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21005</td>
+<td>Almonte.</td>
+<td>183.997,40</td>
+<td>132.659,82</td>
+<td>88.758,73</td>
+<td>405.415,95</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21006</td>
+<td>Alosno.</td>
+<td>25.637,65</td>
+<td>15.573,60</td>
+<td>16.265,06</td>
+<td>57.476,31</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21007</td>
+<td>Aracena.</td>
+<td>54.230,38</td>
+<td>36.151,76</td>
+<td>31.178,72</td>
+<td>121.560,86</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21008</td>
+<td>Aroche.</td>
+<td>24.118,98</td>
+<td>13.066,09</td>
+<td>12.585,58</td>
+<td>49.770,65</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21009</td>
+<td>Arroyomolinos de León.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21010</td>
+<td>Ayamonte.</td>
+<td>138.699,39</td>
+<td>101.823,66</td>
+<td>80.447,27</td>
+<td>320.970,32</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21011</td>
+<td>Beas.</td>
+<td>27.784,72</td>
+<td>19.801,14</td>
+<td>16.447,73</td>
+<td>64.033,59</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21012</td>
+<td>Berrocal.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21013</td>
+<td>Bollullos Par del Condado.</td>
+<td>101.884,94</td>
+<td>64.459,69</td>
+<td>51.911,70</td>
+<td>218.256,33</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21014</td>
+<td>Bonares.</td>
+<td>44.647,10</td>
+<td>29.955,52</td>
+<td>22.554,11</td>
+<td>97.156,73</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21015</td>
+<td>Cabezas Rubias.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21016</td>
+<td>Cala.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21017</td>
+<td>Calañas.</td>
+<td>26.138,82</td>
+<td>22.381,28</td>
+<td>19.938,99</td>
+<td>68.459,09</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21018</td>
+<td>Campillo, El.</td>
+<td>21.268,63</td>
+<td>18.008,68</td>
+<td>17.760,00</td>
+<td>57.037,31</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21019</td>
+<td>Campofrío.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21020</td>
+<td>Cañaveral de León.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21021</td>
+<td>Cartaya.</td>
+<td>152.733,92</td>
+<td>108.372,20</td>
+<td>71.287,70</td>
+<td>332.393,82</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21022</td>
+<td>Castaño del Robledo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21023</td>
+<td>Cerro de Andévalo, El.</td>
+<td>24.829,63</td>
+<td>18.796,16</td>
+<td>18.725,54</td>
+<td>62.351,33</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21030</td>
+<td>Chucena.</td>
+<td>26.086,46</td>
+<td>18.464,59</td>
+<td>17.981,81</td>
+<td>62.532,86</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21024</td>
+<td>Corteconcepción.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21025</td>
+<td>Cortegana.</td>
+<td>29.565,22</td>
+<td>22.122,14</td>
+<td>18.235,28</td>
+<td>69.922,64</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21026</td>
+<td>Cortelazor.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21027</td>
+<td>Cumbres de Enmedio.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21028</td>
+<td>Cumbres de San Bartolomé.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21029</td>
+<td>Cumbres Mayores.</td>
+<td>20.797,32</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.317,32</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21031</td>
+<td>Encinasola.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21032</td>
+<td>Escacena del Campo.</td>
+<td>24.882,00</td>
+<td>19.604,37</td>
+<td>17.760,00</td>
+<td>62.246,37</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21033</td>
+<td>Fuenteheridos.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21034</td>
+<td>Galaroza.</td>
+<td>18.178,94</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.698,94</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21035</td>
+<td>Gibraleón.</td>
+<td>79.995,26</td>
+<td>64.521,86</td>
+<td>46.875,24</td>
+<td>191.392,36</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21036</td>
+<td>Granada de Río-Tinto, La.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21037</td>
+<td>Granado, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21038</td>
+<td>Higuera de la Sierra.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21039</td>
+<td>Hinojales.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21040</td>
+<td>Hinojos.</td>
+<td>26.161,32</td>
+<td>19.656,08</td>
+<td>15.182,09</td>
+<td>60.999,49</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21041</td>
+<td>Huelva.</td>
+<td>923.742,76</td>
+<td>661.164,22</td>
+<td>539.430,28</td>
+<td>2.124.337,26</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21042</td>
+<td>Isla Cristina.</td>
+<td>161.531,68</td>
+<td>103.377,90</td>
+<td>78.424,86</td>
+<td>343.334,44</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21043</td>
+<td>Jabugo.</td>
+<td>26.400,66</td>
+<td>19.086,29</td>
+<td>18.542,87</td>
+<td>64.029,82</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21044</td>
+<td>Lepe.</td>
+<td>211.333,32</td>
+<td>148.886,11</td>
+<td>98.009,63</td>
+<td>458.229,06</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21045</td>
+<td>Linares de la Sierra.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21046</td>
+<td>Lucena del Puerto.</td>
+<td>28.360,76</td>
+<td>20.940,92</td>
+<td>11.763,57</td>
+<td>61.065,25</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21047</td>
+<td>Manzanilla.</td>
+<td>24.934,37</td>
+<td>18.402,42</td>
+<td>17.981,81</td>
+<td>61.318,60</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21048</td>
+<td>Marines, Los.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21049</td>
+<td>Minas de Riotinto.</td>
+<td>27.732,35</td>
+<td>15.511,43</td>
+<td>16.330,30</td>
+<td>59.574,08</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21050</td>
+<td>Moguer.</td>
+<td>159.489,35</td>
+<td>136.203,49</td>
+<td>76.650,35</td>
+<td>372.343,19</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21051</td>
+<td>Nava, La.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21052</td>
+<td>Nerva.</td>
+<td>37.734,57</td>
+<td>20.588,62</td>
+<td>22.006,10</td>
+<td>80.329,29</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21053</td>
+<td>Niebla.</td>
+<td>30.926,78</td>
+<td>19.365,95</td>
+<td>15.847,53</td>
+<td>66.140,26</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21054</td>
+<td>Palma del Condado, La.</td>
+<td>81.828,13</td>
+<td>47.135,07</td>
+<td>38.315,87</td>
+<td>167.279,07</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21055</td>
+<td>Palos de la Frontera.</td>
+<td>91.620,88</td>
+<td>64.625,47</td>
+<td>36.450,03</td>
+<td>192.696,38</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21056</td>
+<td>Paterna del Campo.</td>
+<td>25.951,85</td>
+<td>15.552,88</td>
+<td>13.042,25</td>
+<td>54.546,98</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21057</td>
+<td>Paymogo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21058</td>
+<td>Puebla de Guzmán.</td>
+<td>20.034,31</td>
+<td>14.558,16</td>
+<td>12.076,71</td>
+<td>46.669,18</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21059</td>
+<td>Puerto Moral.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21060</td>
+<td>Punta Umbría.</td>
+<td>104.660,42</td>
+<td>75.028,53</td>
+<td>59.492,48</td>
+<td>239.181,43</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21061</td>
+<td>Rociana del Condado.</td>
+<td>58.472,16</td>
+<td>42.078,61</td>
+<td>26.794,65</td>
+<td>127.345,42</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21062</td>
+<td>Rosal de la Frontera.</td>
+<td>19.435,76</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.955,76</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21063</td>
+<td>San Bartolomé de la Torre.</td>
+<td>26.213,69</td>
+<td>19.863,31</td>
+<td>13.172,73</td>
+<td>59.249,73</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21064</td>
+<td>San Juan del Puerto.</td>
+<td>61.614,22</td>
+<td>52.378,05</td>
+<td>31.126,53</td>
+<td>145.118,80</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21066</td>
+<td>San Silvestre de Guzmán.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21065</td>
+<td>Sanlúcar de Guadiana.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21067</td>
+<td>Santa Ana la Real.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21068</td>
+<td>Santa Bárbara de Casa.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21069</td>
+<td>Santa Olalla del Cala.</td>
+<td>22.734,93</td>
+<td>18.153,74</td>
+<td>17.760,00</td>
+<td>58.648,67</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21070</td>
+<td>Trigueros.</td>
+<td>50.983,59</td>
+<td>37.685,28</td>
+<td>28.477,82</td>
+<td>117.146,69</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21071</td>
+<td>Valdelarco.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21072</td>
+<td>Valverde del Camino.</td>
+<td>78.738,44</td>
+<td>58.035,49</td>
+<td>46.614,28</td>
+<td>183.388,21</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21073</td>
+<td>Villablanca.</td>
+<td>30.432,97</td>
+<td>22.940,81</td>
+<td>20.434,80</td>
+<td>73.808,58</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21074</td>
+<td>Villalba del Alcor.</td>
+<td>22.705,06</td>
+<td>14.433,82</td>
+<td>12.689,96</td>
+<td>49.828,84</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21075</td>
+<td>Villanueva de las Cruces.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21076</td>
+<td>Villanueva de los Castillejos.</td>
+<td>28.914,31</td>
+<td>22.692,13</td>
+<td>20.265,18</td>
+<td>71.871,62</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21077</td>
+<td>Villarrasa.</td>
+<td>23.729,91</td>
+<td>18.257,36</td>
+<td>17.760,00</td>
+<td>59.747,27</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21078</td>
+<td>Zalamea la Real.</td>
+<td>19.824,84</td>
+<td>12.444,39</td>
+<td>13.355,40</td>
+<td>45.624,63</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21902</td>
+<td>Zarza-Perrunal, La.</td>
+<td>18.859,72</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.379,72</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21079</td>
+<td>Zufre.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23001</td>
+<td>Albanchez de Mágina.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>26.672,32</td>
+<td>62.192,32</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23002</td>
+<td>Alcalá la Real.</td>
+<td>151.581,83</td>
+<td>85.037,85</td>
+<td>248.109,86</td>
+<td>484.729,54</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23003</td>
+<td>Alcaudete.</td>
+<td>77.481,61</td>
+<td>43.612,12</td>
+<td>117.876,99</td>
+<td>238.970,72</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23004</td>
+<td>Aldeaquemada.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>22.229,62</td>
+<td>57.749,62</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23005</td>
+<td>Andújar.</td>
+<td>258.726,03</td>
+<td>159.019,76</td>
+<td>428.629,07</td>
+<td>846.374,86</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23006</td>
+<td>Arjona.</td>
+<td>44.490,00</td>
+<td>23.137,58</td>
+<td>62.274,20</td>
+<td>129.901,78</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23007</td>
+<td>Arjonilla.</td>
+<td>29.827,06</td>
+<td>14.060,81</td>
+<td>45.245,59</td>
+<td>89.133,46</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23008</td>
+<td>Arquillos.</td>
+<td>22.892,03</td>
+<td>17.760,00</td>
+<td>31.976,63</td>
+<td>72.628,66</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23905</td>
+<td>Arroyo del Ojanco.</td>
+<td>26.348,29</td>
+<td>18.547,48</td>
+<td>36.977,07</td>
+<td>81.872,84</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23009</td>
+<td>Baeza.</td>
+<td>126.759,57</td>
+<td>67.920,47</td>
+<td>187.630,32</td>
+<td>382.310,36</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23010</td>
+<td>Bailén.</td>
+<td>140.689,36</td>
+<td>79.442,58</td>
+<td>202.420,42</td>
+<td>422.552,36</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23011</td>
+<td>Baños de la Encina.</td>
+<td>25.929,35</td>
+<td>19.728,71</td>
+<td>40.894,44</td>
+<td>86.552,50</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23012</td>
+<td>Beas de Segura.</td>
+<td>38.467,72</td>
+<td>20.588,62</td>
+<td>62.554,01</td>
+<td>121.610,35</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23902</td>
+<td>Bedmar y Garcíez.</td>
+<td>30.066,40</td>
+<td>19.086,29</td>
+<td>41.374,13</td>
+<td>90.526,82</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23014</td>
+<td>Begíjar.</td>
+<td>26.056,59</td>
+<td>12.092,10</td>
+<td>38.490,11</td>
+<td>76.638,80</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23015</td>
+<td>Bélmez de la Moraleda.</td>
+<td>20.902,06</td>
+<td>17.760,00</td>
+<td>30.738,06</td>
+<td>69.400,12</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23016</td>
+<td>Benatae.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>21.556,49</td>
+<td>57.076,49</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23017</td>
+<td>Cabra del Santo Cristo.</td>
+<td>21.897,04</td>
+<td>17.760,00</td>
+<td>31.949,71</td>
+<td>71.606,75</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23018</td>
+<td>Cambil.</td>
+<td>28.757,21</td>
+<td>19.231,35</td>
+<td>41.573,99</td>
+<td>89.562,55</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23019</td>
+<td>Campillo de Arenas.</td>
+<td>24.515,43</td>
+<td>17.760,00</td>
+<td>30.899,61</td>
+<td>73.175,04</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23020</td>
+<td>Canena.</td>
+<td>24.201,22</td>
+<td>17.760,00</td>
+<td>33.188,28</td>
+<td>75.149,50</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23021</td>
+<td>Carboneros.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>22.741,21</td>
+<td>58.261,21</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23901</td>
+<td>Cárcheles.</td>
+<td>19.697,60</td>
+<td>17.760,00</td>
+<td>29.364,86</td>
+<td>66.822,46</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23024</td>
+<td>Carolina, La.</td>
+<td>104.817,53</td>
+<td>69.702,66</td>
+<td>173.559,74</td>
+<td>348.079,93</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23025</td>
+<td>Castellar.</td>
+<td>27.365,78</td>
+<td>13.045,37</td>
+<td>42.367,52</td>
+<td>82.778,67</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23026</td>
+<td>Castillo de Locubín.</td>
+<td>27.575,25</td>
+<td>12.713,80</td>
+<td>50.641,98</td>
+<td>90.931,03</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23027</td>
+<td>Cazalilla.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>23.952,85</td>
+<td>59.472,85</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23028</td>
+<td>Cazorla.</td>
+<td>53.392,50</td>
+<td>30.473,60</td>
+<td>88.536,63</td>
+<td>172.402,73</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23029</td>
+<td>Chiclana de Segura.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>25.864,56</td>
+<td>61.384,56</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23030</td>
+<td>Chilluévar.</td>
+<td>20.902,06</td>
+<td>17.760,00</td>
+<td>28.826,36</td>
+<td>67.488,42</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23031</td>
+<td>Escañuela.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>24.787,54</td>
+<td>60.307,54</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23032</td>
+<td>Espeluy.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>22.929,68</td>
+<td>58.449,68</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23033</td>
+<td>Frailes.</td>
+<td>19.540,50</td>
+<td>17.760,00</td>
+<td>29.741,82</td>
+<td>67.042,32</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23034</td>
+<td>Fuensanta de Martos.</td>
+<td>24.799,76</td>
+<td>12.775,97</td>
+<td>35.172,33</td>
+<td>72.748,06</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23035</td>
+<td>Fuerte del Rey.</td>
+<td>18.964,46</td>
+<td>17.760,00</td>
+<td>28.664,80</td>
+<td>65.389,26</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23037</td>
+<td>Génave.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>22.687,36</td>
+<td>58.207,36</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23038</td>
+<td>Guardia de Jaén, La.</td>
+<td>39.619,81</td>
+<td>21.023,81</td>
+<td>62.074,33</td>
+<td>122.717,95</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23039</td>
+<td>Guarromán.</td>
+<td>29.647,46</td>
+<td>20.702,70</td>
+<td>42.213,56</td>
+<td>92.563,72</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23041</td>
+<td>Higuera de Calatrava.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>22.848,91</td>
+<td>58.368,91</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23042</td>
+<td>Hinojares.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>21.691,11</td>
+<td>57.211,11</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23043</td>
+<td>Hornos.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>22.768,13</td>
+<td>58.288,13</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23044</td>
+<td>Huelma.</td>
+<td>43.913,95</td>
+<td>23.033,96</td>
+<td>67.230,88</td>
+<td>134.178,79</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23045</td>
+<td>Huesa.</td>
+<td>28.600,10</td>
+<td>20.018,83</td>
+<td>39.375,46</td>
+<td>87.994,39</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23046</td>
+<td>Ibros.</td>
+<td>32.684,78</td>
+<td>20.039,55</td>
+<td>43.652,59</td>
+<td>96.376,92</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23047</td>
+<td>Iruela, La.</td>
+<td>23.834,65</td>
+<td>17.760,00</td>
+<td>33.699,86</td>
+<td>75.294,51</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23048</td>
+<td>Iznatoraf.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>26.106,89</td>
+<td>61.626,89</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23049</td>
+<td>Jabalquinto.</td>
+<td>25.248,57</td>
+<td>17.760,00</td>
+<td>36.417,44</td>
+<td>79.426,01</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23050</td>
+<td>Jaén.</td>
+<td>823.196,88</td>
+<td>480.768,55</td>
+<td>1.328.427,01</td>
+<td>2.632.392,44</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23051</td>
+<td>Jamilena.</td>
+<td>25.951,85</td>
+<td>14.806,84</td>
+<td>38.889,85</td>
+<td>79.648,54</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23052</td>
+<td>Jimena.</td>
+<td>19.331,03</td>
+<td>17.760,00</td>
+<td>27.964,74</td>
+<td>65.055,77</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23053</td>
+<td>Jódar.</td>
+<td>96.910,01</td>
+<td>52.854,68</td>
+<td>132.747,04</td>
+<td>282.511,73</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23040</td>
+<td>Lahiguera.</td>
+<td>20.587,85</td>
+<td>17.760,00</td>
+<td>31.303,50</td>
+<td>69.651,35</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23054</td>
+<td>Larva.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>20.667,95</td>
+<td>56.187,95</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23055</td>
+<td>Linares.</td>
+<td>412.267,97</td>
+<td>238.493,33</td>
+<td>685.057,49</td>
+<td>1.335.818,79</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23056</td>
+<td>Lopera.</td>
+<td>29.251,01</td>
+<td>15.014,07</td>
+<td>44.166,31</td>
+<td>88.431,39</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23057</td>
+<td>Lupión.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>24.787,54</td>
+<td>60.307,54</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23058</td>
+<td>Mancha Real.</td>
+<td>90.625,89</td>
+<td>50.740,91</td>
+<td>123.673,12</td>
+<td>265.039,92</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23059</td>
+<td>Marmolejo.</td>
+<td>54.754,06</td>
+<td>26.909,21</td>
+<td>82.220,85</td>
+<td>163.884,12</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23060</td>
+<td>Martos.</td>
+<td>194.156,73</td>
+<td>106.030,48</td>
+<td>268.975,90</td>
+<td>569.163,11</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23061</td>
+<td>Mengíbar.</td>
+<td>82.456,54</td>
+<td>45.187,09</td>
+<td>104.925,66</td>
+<td>232.569,29</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23062</td>
+<td>Montizón.</td>
+<td>21.321,00</td>
+<td>17.760,00</td>
+<td>32.730,54</td>
+<td>71.811,54</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23063</td>
+<td>Navas de San Juan.</td>
+<td>34.487,78</td>
+<td>19.904,76</td>
+<td>53.080,35</td>
+<td>107.472,89</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23064</td>
+<td>Noalejo.</td>
+<td>25.196,21</td>
+<td>17.760,00</td>
+<td>33.996,04</td>
+<td>76.952,25</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23065</td>
+<td>Orcera.</td>
+<td>22.158,88</td>
+<td>17.760,00</td>
+<td>33.753,71</td>
+<td>73.672,59</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23066</td>
+<td>Peal de Becerro.</td>
+<td>38.886,66</td>
+<td>21.645,51</td>
+<td>62.514,04</td>
+<td>123.046,21</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23067</td>
+<td>Pegalajar.</td>
+<td>31.270,85</td>
+<td>21.096,44</td>
+<td>42.773,19</td>
+<td>95.140,48</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23069</td>
+<td>Porcuna.</td>
+<td>49.779,13</td>
+<td>22.515,88</td>
+<td>75.665,24</td>
+<td>147.960,25</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23070</td>
+<td>Pozo Alcón.</td>
+<td>35.063,82</td>
+<td>16.837,72</td>
+<td>54.279,55</td>
+<td>106.181,09</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23071</td>
+<td>Puente de Génave.</td>
+<td>22.944,40</td>
+<td>18.443,87</td>
+<td>34.723,03</td>
+<td>76.111,30</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23072</td>
+<td>Puerta de Segura, La.</td>
+<td>25.510,41</td>
+<td>17.967,23</td>
+<td>37.256,87</td>
+<td>80.734,51</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23073</td>
+<td>Quesada.</td>
+<td>41.033,73</td>
+<td>19.469,57</td>
+<td>64.512,70</td>
+<td>125.016,00</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23074</td>
+<td>Rus.</td>
+<td>26.789,73</td>
+<td>14.723,95</td>
+<td>44.326,20</td>
+<td>85.839,88</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23075</td>
+<td>Sabiote.</td>
+<td>28.779,71</td>
+<td>16.278,19</td>
+<td>44.286,23</td>
+<td>89.344,13</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23076</td>
+<td>Santa Elena.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>25.729,93</td>
+<td>61.249,93</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23077</td>
+<td>Santiago de Calatrava.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>23.172,01</td>
+<td>58.692,01</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23904</td>
+<td>Santiago-Pontones.</td>
+<td>30.328,23</td>
+<td>19.334,97</td>
+<td>47.090,30</td>
+<td>96.753,50</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23079</td>
+<td>Santisteban del Puerto.</td>
+<td>35.168,56</td>
+<td>18.744,25</td>
+<td>54.279,55</td>
+<td>108.192,36</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23080</td>
+<td>Santo Tomé.</td>
+<td>24.201,22</td>
+<td>17.760,00</td>
+<td>33.753,71</td>
+<td>75.714,93</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23081</td>
+<td>Segura de la Sierra.</td>
+<td>22.211,25</td>
+<td>17.760,00</td>
+<td>32.676,69</td>
+<td>72.647,94</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23082</td>
+<td>Siles.</td>
+<td>23.153,87</td>
+<td>17.760,00</td>
+<td>35.178,27</td>
+<td>76.092,14</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23084</td>
+<td>Sorihuela del Guadalimar.</td>
+<td>18.074,21</td>
+<td>17.760,00</td>
+<td>27.345,46</td>
+<td>63.179,67</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23085</td>
+<td>Torreblascopedro.</td>
+<td>28.547,73</td>
+<td>18.506,04</td>
+<td>41.733,88</td>
+<td>88.787,65</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23086</td>
+<td>Torredelcampo.</td>
+<td>113.143,98</td>
+<td>62.387,37</td>
+<td>161.887,55</td>
+<td>337.418,90</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23087</td>
+<td>Torredonjimeno.</td>
+<td>104.189,11</td>
+<td>61.537,71</td>
+<td>151.734,34</td>
+<td>317.461,16</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23088</td>
+<td>Torreperogil.</td>
+<td>53.497,23</td>
+<td>30.204,20</td>
+<td>84.219,51</td>
+<td>167.920,94</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23090</td>
+<td>Torres.</td>
+<td>19.540,50</td>
+<td>17.760,00</td>
+<td>28.907,13</td>
+<td>66.207,63</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23091</td>
+<td>Torres de Albánchez.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>24.706,76</td>
+<td>60.226,76</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23092</td>
+<td>Úbeda.</td>
+<td>256.474,23</td>
+<td>144.306,27</td>
+<td>408.482,55</td>
+<td>809.263,05</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23093</td>
+<td>Valdepeñas de Jaén.</td>
+<td>29.565,22</td>
+<td>14.205,87</td>
+<td>44.805,89</td>
+<td>88.576,98</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23094</td>
+<td>Vilches.</td>
+<td>30.088,90</td>
+<td>18.682,09</td>
+<td>55.638,63</td>
+<td>104.409,62</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23095</td>
+<td>Villacarrillo.</td>
+<td>83.922,84</td>
+<td>42.099,33</td>
+<td>130.628,47</td>
+<td>256.650,64</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23096</td>
+<td>Villanueva de la Reina.</td>
+<td>26.789,73</td>
+<td>11.242,45</td>
+<td>40.288,91</td>
+<td>78.321,09</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23097</td>
+<td>Villanueva del Arzobispo.</td>
+<td>62.452,10</td>
+<td>33.229,79</td>
+<td>99.369,37</td>
+<td>195.051,26</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23098</td>
+<td>Villardompardo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>26.376,14</td>
+<td>61.896,14</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23099</td>
+<td>Villares, Los.</td>
+<td>44.385,26</td>
+<td>28.712,13</td>
+<td>66.111,63</td>
+<td>139.209,02</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23101</td>
+<td>Villarrodrigo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>21.448,79</td>
+<td>56.968,79</td>
+</tr>
+<tr>
+<td>23</td>
+<td>23903</td>
+<td>Villatorres.</td>
+<td>33.126,22</td>
+<td>18.806,42</td>
+<td>47.244,25</td>
+<td>99.176,89</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29001</td>
+<td>Alameda.</td>
+<td>39.043,76</td>
+<td>26.204,62</td>
+<td>20.662,18</td>
+<td>85.910,56</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29002</td>
+<td>Alcaucín.</td>
+<td>20.273,65</td>
+<td>17.760,00</td>
+<td>17.851,33</td>
+<td>55.884,98</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29003</td>
+<td>Alfarnate.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29004</td>
+<td>Alfarnatejo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29005</td>
+<td>Algarrobo.</td>
+<td>41.714,51</td>
+<td>28.587,79</td>
+<td>24.237,28</td>
+<td>94.539,58</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29006</td>
+<td>Algatocín.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29007</td>
+<td>Alhaurín de la Torre.</td>
+<td>262.967,81</td>
+<td>194.290,69</td>
+<td>151.192,53</td>
+<td>608.451,03</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29008</td>
+<td>Alhaurín el Grande.</td>
+<td>173.890,45</td>
+<td>110.631,03</td>
+<td>89.476,36</td>
+<td>373.997,84</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29009</td>
+<td>Almáchar.</td>
+<td>20.744,96</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.264,96</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29010</td>
+<td>Almargen.</td>
+<td>23.729,91</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>59.249,91</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29011</td>
+<td>Almogía.</td>
+<td>27.313,41</td>
+<td>15.532,16</td>
+<td>15.116,86</td>
+<td>57.962,43</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29012</td>
+<td>Álora.</td>
+<td>92.877,70</td>
+<td>55.693,76</td>
+<td>50.933,11</td>
+<td>199.504,57</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29013</td>
+<td>Alozaina.</td>
+<td>22.996,76</td>
+<td>17.760,00</td>
+<td>17.968,77</td>
+<td>58.725,53</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29014</td>
+<td>Alpandeire.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29015</td>
+<td>Antequera.</td>
+<td>307.323,21</td>
+<td>176.800,29</td>
+<td>157.638,15</td>
+<td>641.761,65</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29016</td>
+<td>Árchez.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29017</td>
+<td>Archidona.</td>
+<td>58.419,79</td>
+<td>35.219,22</td>
+<td>32.796,65</td>
+<td>126.435,66</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29018</td>
+<td>Ardales.</td>
+<td>27.186,18</td>
+<td>19.583,64</td>
+<td>19.312,69</td>
+<td>66.082,51</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29019</td>
+<td>Arenas.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29020</td>
+<td>Arriate.</td>
+<td>28.256,03</td>
+<td>19.552,46</td>
+<td>15.129,90</td>
+<td>62.938,39</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29021</td>
+<td>Atajate.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29022</td>
+<td>Benadalid.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29023</td>
+<td>Benahavís.</td>
+<td>44.071,06</td>
+<td>38.555,66</td>
+<td>32.783,60</td>
+<td>115.410,32</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29024</td>
+<td>Benalauría.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29025</td>
+<td>Benalmádena.</td>
+<td>401.427,87</td>
+<td>359.496,24</td>
+<td>259.789,50</td>
+<td>1.020.713,61</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29026</td>
+<td>Benamargosa.</td>
+<td>18.964,46</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.484,46</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29027</td>
+<td>Benamocarra.</td>
+<td>19.353,53</td>
+<td>15.076,24</td>
+<td>11.750,52</td>
+<td>46.180,29</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29028</td>
+<td>Benaoján.</td>
+<td>19.383,40</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.903,40</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29029</td>
+<td>Benarrabá.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29030</td>
+<td>Borge, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29031</td>
+<td>Burgo, El.</td>
+<td>22.263,62</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>57.783,62</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29032</td>
+<td>Campillos.</td>
+<td>61.928,42</td>
+<td>37.395,16</td>
+<td>33.044,55</td>
+<td>132.368,13</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29033</td>
+<td>Canillas de Aceituno.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29034</td>
+<td>Canillas de Albaida.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29035</td>
+<td>Cañete la Real.</td>
+<td>19.383,40</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.903,40</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29036</td>
+<td>Carratraca.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29037</td>
+<td>Cartajima.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29038</td>
+<td>Cártama.</td>
+<td>164.830,85</td>
+<td>151.621,57</td>
+<td>85.627,25</td>
+<td>402.079,67</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29039</td>
+<td>Casabermeja.</td>
+<td>21.605,34</td>
+<td>16.692,66</td>
+<td>14.033,89</td>
+<td>52.331,89</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29040</td>
+<td>Casarabonela.</td>
+<td>26.976,71</td>
+<td>18.651,10</td>
+<td>19.717,17</td>
+<td>65.344,98</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29041</td>
+<td>Casares.</td>
+<td>42.028,72</td>
+<td>33.188,34</td>
+<td>24.380,81</td>
+<td>99.597,87</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29042</td>
+<td>Coín.</td>
+<td>153.414,70</td>
+<td>103.025,61</td>
+<td>79.142,49</td>
+<td>335.582,80</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29043</td>
+<td>Colmenar.</td>
+<td>23.438,21</td>
+<td>14.599,61</td>
+<td>13.564,17</td>
+<td>51.601,99</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29044</td>
+<td>Comares.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29045</td>
+<td>Cómpeta.</td>
+<td>21.291,13</td>
+<td>11.781,25</td>
+<td>17.491,56</td>
+<td>50.563,94</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29046</td>
+<td>Cortes de la Frontera.</td>
+<td>23.176,37</td>
+<td>12.009,21</td>
+<td>13.694,64</td>
+<td>48.880,22</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29047</td>
+<td>Cuevas Bajas.</td>
+<td>19.016,82</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.536,82</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29049</td>
+<td>Cuevas de San Marcos.</td>
+<td>27.575,25</td>
+<td>13.356,22</td>
+<td>15.560,48</td>
+<td>56.491,95</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29048</td>
+<td>Cuevas del Becerro.</td>
+<td>20.168,91</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.688,91</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29050</td>
+<td>Cútar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29051</td>
+<td>Estepona.</td>
+<td>418.499,72</td>
+<td>339.291,09</td>
+<td>251.047,46</td>
+<td>1.008.838,27</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29052</td>
+<td>Faraján.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29053</td>
+<td>Frigiliana.</td>
+<td>16.578,04</td>
+<td>13.169,71</td>
+<td>12.807,39</td>
+<td>42.555,14</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29054</td>
+<td>Fuengirola.</td>
+<td>501.031,13</td>
+<td>360.718,91</td>
+<td>298.267,50</td>
+<td>1.160.017,54</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29055</td>
+<td>Fuente de Piedra.</td>
+<td>27.029,07</td>
+<td>21.220,78</td>
+<td>19.012,59</td>
+<td>67.262,44</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29056</td>
+<td>Gaucín.</td>
+<td>18.074,21</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.594,21</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29057</td>
+<td>Genalguacil.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29058</td>
+<td>Guaro.</td>
+<td>22.315,99</td>
+<td>19.355,69</td>
+<td>17.760,00</td>
+<td>59.431,68</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29059</td>
+<td>Humilladero.</td>
+<td>26.527,90</td>
+<td>14.786,12</td>
+<td>13.120,54</td>
+<td>54.434,56</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29060</td>
+<td>Igualeja.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29061</td>
+<td>Istán.</td>
+<td>18.178,94</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.698,94</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29062</td>
+<td>Iznate.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29063</td>
+<td>Jimera de Líbar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29064</td>
+<td>Jubrique.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29065</td>
+<td>Júzcar.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29066</td>
+<td>Macharaviaya.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29067</td>
+<td>Málaga.</td>
+<td>3.912.730,83</td>
+<td>2.677.078,06</td>
+<td>2.130.154,73</td>
+<td>8.719.963,62</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29068</td>
+<td>Manilva.</td>
+<td>91.777,98</td>
+<td>84.851,34</td>
+<td>56.139,19</td>
+<td>232.768,51</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29069</td>
+<td>Marbella.</td>
+<td>964.380,05</td>
+<td>702.299,82</td>
+<td>547.298,11</td>
+<td>2.213.977,98</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29070</td>
+<td>Mijas.</td>
+<td>515.903,54</td>
+<td>432.815,00</td>
+<td>298.358,84</td>
+<td>1.247.077,38</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29071</td>
+<td>Moclinejo.</td>
+<td>19.959,44</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.479,44</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29072</td>
+<td>Mollina.</td>
+<td>29.984,16</td>
+<td>20.795,85</td>
+<td>20.557,80</td>
+<td>71.337,81</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29073</td>
+<td>Monda.</td>
+<td>28.024,06</td>
+<td>21.013,55</td>
+<td>18.751,63</td>
+<td>67.789,24</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29903</td>
+<td>Montecorto.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29074</td>
+<td>Montejaque.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29075</td>
+<td>Nerja.</td>
+<td>126.131,16</td>
+<td>90.570,95</td>
+<td>79.168,58</td>
+<td>295.870,69</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29076</td>
+<td>Ojén.</td>
+<td>22.129,01</td>
+<td>20.049,82</td>
+<td>14.425,32</td>
+<td>56.604,15</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29077</td>
+<td>Parauta.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29079</td>
+<td>Periana.</td>
+<td>21.814,81</td>
+<td>12.423,67</td>
+<td>12.937,87</td>
+<td>47.176,35</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29080</td>
+<td>Pizarra.</td>
+<td>59.467,15</td>
+<td>46.119,63</td>
+<td>34.571,15</td>
+<td>140.157,93</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29081</td>
+<td>Pujerra.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29082</td>
+<td>Rincón de la Victoria.</td>
+<td>279.044,68</td>
+<td>237.995,97</td>
+<td>180.980,69</td>
+<td>698.021,34</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29083</td>
+<td>Riogordo.</td>
+<td>28.076,43</td>
+<td>20.226,06</td>
+<td>19.899,84</td>
+<td>68.202,33</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29084</td>
+<td>Ronda.</td>
+<td>239.245,27</td>
+<td>147.601,27</td>
+<td>132.521,10</td>
+<td>519.367,64</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29085</td>
+<td>Salares.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29086</td>
+<td>Sayalonga.</td>
+<td>18.126,57</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.646,57</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29087</td>
+<td>Sedella.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29904</td>
+<td>Serrato.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29088</td>
+<td>Sierra de Yeguas.</td>
+<td>23.647,68</td>
+<td>15.179,86</td>
+<td>12.937,87</td>
+<td>51.765,41</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29089</td>
+<td>Teba.</td>
+<td>28.674,97</td>
+<td>15.594,32</td>
+<td>16.382,49</td>
+<td>60.651,78</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29090</td>
+<td>Tolox.</td>
+<td>23.101,50</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>58.621,50</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29901</td>
+<td>Torremolinos.</td>
+<td>398.652,38</td>
+<td>345.963,97</td>
+<td>263.194,98</td>
+<td>1.007.811,33</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29091</td>
+<td>Torrox.</td>
+<td>98.271,57</td>
+<td>74.842,02</td>
+<td>63.393,77</td>
+<td>236.507,36</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29092</td>
+<td>Totalán.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29093</td>
+<td>Valle de Abdalajís.</td>
+<td>26.767,23</td>
+<td>18.899,78</td>
+<td>19.834,60</td>
+<td>65.501,61</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29094</td>
+<td>Vélez-Málaga.</td>
+<td>531.718,57</td>
+<td>397.585,52</td>
+<td>298.176,17</td>
+<td>1.227.480,26</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29095</td>
+<td>Villanueva de Algaidas.</td>
+<td>28.360,76</td>
+<td>17.459,41</td>
+<td>16.669,55</td>
+<td>62.489,72</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29902</td>
+<td>Villanueva de la Concepción.</td>
+<td>23.909,51</td>
+<td>14.495,99</td>
+<td>13.211,87</td>
+<td>51.617,37</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29098</td>
+<td>Villanueva de Tapia.</td>
+<td>18.859,72</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>54.379,72</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29096</td>
+<td>Villanueva del Rosario.</td>
+<td>22.966,90</td>
+<td>13.687,79</td>
+<td>13.042,25</td>
+<td>49.696,94</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29097</td>
+<td>Villanueva del Trabuco.</td>
+<td>38.048,78</td>
+<td>23.303,36</td>
+<td>20.296,84</td>
+<td>81.648,98</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29099</td>
+<td>Viñuela.</td>
+<td>19.016,82</td>
+<td>17.760,00</td>
+<td>17.864,38</td>
+<td>54.641,20</td>
+</tr>
+<tr>
+<td>29</td>
+<td>29100</td>
+<td>Yunquera.</td>
+<td>31.427,96</td>
+<td>19.293,52</td>
+<td>21.661,30</td>
+<td>72.382,78</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41001</td>
+<td>Aguadulce.</td>
+<td>23.729,91</td>
+<td>17.822,17</td>
+<td>17.760,00</td>
+<td>59.312,08</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41002</td>
+<td>Alanís.</td>
+<td>21.739,94</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>57.259,94</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41003</td>
+<td>Albaida del Aljarafe.</td>
+<td>23.019,26</td>
+<td>17.832,43</td>
+<td>10.602,31</td>
+<td>51.454,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41004</td>
+<td>Alcalá de Guadaíra.</td>
+<td>477.518,05</td>
+<td>380.509,59</td>
+<td>265.008,62</td>
+<td>1.123.036,26</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41005</td>
+<td>Alcalá del Río.</td>
+<td>78.214,76</td>
+<td>64.894,88</td>
+<td>40.442,67</td>
+<td>183.552,31</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41006</td>
+<td>Alcolea del Río.</td>
+<td>24.380,82</td>
+<td>16.568,32</td>
+<td>12.168,05</td>
+<td>53.117,19</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41007</td>
+<td>Algaba, La.</td>
+<td>101.256,53</td>
+<td>88.788,75</td>
+<td>56.687,20</td>
+<td>246.732,48</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41008</td>
+<td>Algámitas.</td>
+<td>18.283,68</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.803,68</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41009</td>
+<td>Almadén de la Plata.</td>
+<td>18.126,57</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.646,57</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41010</td>
+<td>Almensilla.</td>
+<td>36.844,32</td>
+<td>34.183,06</td>
+<td>22.240,96</td>
+<td>93.268,34</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41011</td>
+<td>Arahal.</td>
+<td>145.035,88</td>
+<td>90.840,35</td>
+<td>69.800,25</td>
+<td>305.676,48</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41012</td>
+<td>Aznalcázar.</td>
+<td>33.388,06</td>
+<td>23.531,32</td>
+<td>15.364,76</td>
+<td>72.284,14</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41013</td>
+<td>Aznalcóllar.</td>
+<td>45.327,88</td>
+<td>30.328,54</td>
+<td>21.719,05</td>
+<td>97.375,47</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41014</td>
+<td>Badolatosa.</td>
+<td>26.842,10</td>
+<td>13.563,45</td>
+<td>12.050,62</td>
+<td>52.456,17</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41015</td>
+<td>Benacazón.</td>
+<td>46.479,97</td>
+<td>40.710,87</td>
+<td>23.676,22</td>
+<td>110.867,06</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41016</td>
+<td>Bollullos de la Mitación.</td>
+<td>61.142,91</td>
+<td>58.449,95</td>
+<td>37.193,76</td>
+<td>156.786,62</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41017</td>
+<td>Bormujos.</td>
+<td>136.761,79</td>
+<td>104.144,66</td>
+<td>86.057,83</td>
+<td>326.964,28</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41018</td>
+<td>Brenes.</td>
+<td>87.850,41</td>
+<td>61.392,65</td>
+<td>45.283,41</td>
+<td>194.526,47</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41019</td>
+<td>Burguillos.</td>
+<td>49.150,72</td>
+<td>37.395,16</td>
+<td>22.319,25</td>
+<td>108.865,13</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41020</td>
+<td>Cabezas de San Juan, Las.</td>
+<td>124.664,86</td>
+<td>76.769,28</td>
+<td>60.940,78</td>
+<td>262.374,92</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41021</td>
+<td>Camas.</td>
+<td>171.848,11</td>
+<td>139.747,16</td>
+<td>97.748,67</td>
+<td>409.343,94</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41022</td>
+<td>Campana, La.</td>
+<td>39.148,50</td>
+<td>23.821,44</td>
+<td>19.683,59</td>
+<td>82.653,53</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41023</td>
+<td>Cantillana.</td>
+<td>79.681,06</td>
+<td>51.963,58</td>
+<td>38.368,06</td>
+<td>170.012,70</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41901</td>
+<td>Cañada Rosal.</td>
+<td>25.742,38</td>
+<td>16.257,47</td>
+<td>12.233,29</td>
+<td>54.233,14</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41024</td>
+<td>Carmona.</td>
+<td>200.388,48</td>
+<td>123.811,00</td>
+<td>112.453,56</td>
+<td>436.653,04</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41025</td>
+<td>Carrión de los Céspedes.</td>
+<td>24.672,53</td>
+<td>21.262,22</td>
+<td>18.934,30</td>
+<td>64.869,05</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41026</td>
+<td>Casariche.</td>
+<td>41.033,73</td>
+<td>25.313,52</td>
+<td>20.544,75</td>
+<td>86.892,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41027</td>
+<td>Castilblanco de los Arroyos.</td>
+<td>33.649,90</td>
+<td>20.816,58</td>
+<td>19.592,26</td>
+<td>74.058,74</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41028</td>
+<td>Castilleja de Guzmán.</td>
+<td>30.118,76</td>
+<td>18.153,74</td>
+<td>22.966,08</td>
+<td>71.238,58</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41029</td>
+<td>Castilleja de la Cuesta.</td>
+<td>117.752,33</td>
+<td>84.872,06</td>
+<td>63.941,78</td>
+<td>266.566,17</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41030</td>
+<td>Castilleja del Campo.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41031</td>
+<td>Castillo de las Guardas, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41032</td>
+<td>Cazalla de la Sierra.</td>
+<td>30.874,41</td>
+<td>18.785,70</td>
+<td>20.022,83</td>
+<td>69.682,94</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41033</td>
+<td>Constantina.</td>
+<td>43.023,70</td>
+<td>22.515,88</td>
+<td>25.124,53</td>
+<td>90.664,11</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41034</td>
+<td>Coria del Río.</td>
+<td>209.867,02</td>
+<td>157.921,43</td>
+<td>108.421,79</td>
+<td>476.210,24</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41035</td>
+<td>Coripe.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41036</td>
+<td>Coronil, El.</td>
+<td>34.330,68</td>
+<td>19.821,86</td>
+<td>18.796,34</td>
+<td>72.948,88</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41037</td>
+<td>Corrales, Los.</td>
+<td>30.455,47</td>
+<td>17.086,40</td>
+<td>16.278,11</td>
+<td>63.819,98</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41903</td>
+<td>Cuervo de Sevilla, El.</td>
+<td>66.589,14</td>
+<td>42.327,28</td>
+<td>32.548,74</td>
+<td>141.465,16</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41038</td>
+<td>Dos Hermanas.</td>
+<td>902.533,86</td>
+<td>660.542,52</td>
+<td>490.331,35</td>
+<td>2.053.407,73</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41039</td>
+<td>Écija.</td>
+<td>296.116,53</td>
+<td>181.442,29</td>
+<td>146.299,59</td>
+<td>623.858,41</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41040</td>
+<td>Espartinas.</td>
+<td>99.737,86</td>
+<td>75.567,34</td>
+<td>61.058,21</td>
+<td>236.363,41</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41041</td>
+<td>Estepa.</td>
+<td>98.638,14</td>
+<td>55.465,81</td>
+<td>47.553,73</td>
+<td>201.657,68</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41042</td>
+<td>Fuentes de Andalucía.</td>
+<td>52.449,88</td>
+<td>30.888,06</td>
+<td>26.625,03</td>
+<td>109.962,97</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41043</td>
+<td>Garrobo, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41044</td>
+<td>Gelves.</td>
+<td>71.197,50</td>
+<td>47.259,41</td>
+<td>42.008,40</td>
+<td>160.465,31</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41045</td>
+<td>Gerena.</td>
+<td>48.103,37</td>
+<td>41.291,12</td>
+<td>25.750,83</td>
+<td>115.145,32</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41046</td>
+<td>Gilena.</td>
+<td>29.146,28</td>
+<td>16.547,59</td>
+<td>14.568,85</td>
+<td>60.262,72</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41047</td>
+<td>Gines.</td>
+<td>98.742,88</td>
+<td>55.527,98</td>
+<td>55.578,13</td>
+<td>209.848,99</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41048</td>
+<td>Guadalcanal.</td>
+<td>28.338,26</td>
+<td>19.107,01</td>
+<td>19.938,99</td>
+<td>67.384,26</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41049</td>
+<td>Guillena.</td>
+<td>83.556,26</td>
+<td>68.003,36</td>
+<td>44.878,92</td>
+<td>196.438,54</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41050</td>
+<td>Herrera.</td>
+<td>50.878,85</td>
+<td>28.712,13</td>
+<td>23.741,46</td>
+<td>103.332,44</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41051</td>
+<td>Huévar del Aljarafe.</td>
+<td>21.238,76</td>
+<td>15.242,03</td>
+<td>10.706,69</td>
+<td>47.187,48</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41902</td>
+<td>Isla Mayor.</td>
+<td>39.724,54</td>
+<td>28.712,13</td>
+<td>22.332,30</td>
+<td>90.768,97</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41052</td>
+<td>Lantejuela.</td>
+<td>31.817,03</td>
+<td>17.148,57</td>
+<td>13.681,60</td>
+<td>62.647,20</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41053</td>
+<td>Lebrija.</td>
+<td>196.984,58</td>
+<td>127.644,80</td>
+<td>104.716,21</td>
+<td>429.345,59</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41054</td>
+<td>Lora de Estepa.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41055</td>
+<td>Lora del Río.</td>
+<td>130.425,30</td>
+<td>84.001,69</td>
+<td>70.583,12</td>
+<td>285.010,11</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41056</td>
+<td>Luisiana, La.</td>
+<td>34.749,62</td>
+<td>21.355,38</td>
+<td>17.374,13</td>
+<td>73.479,13</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41057</td>
+<td>Madroño, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41058</td>
+<td>Mairena del Alcor.</td>
+<td>161.060,38</td>
+<td>123.831,73</td>
+<td>79.742,69</td>
+<td>364.634,80</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41059</td>
+<td>Mairena del Aljarafe.</td>
+<td>314.759,41</td>
+<td>223.987,07</td>
+<td>174.887,36</td>
+<td>713.633,84</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41060</td>
+<td>Marchena.</td>
+<td>135.504,97</td>
+<td>87.110,17</td>
+<td>69.513,20</td>
+<td>292.128,34</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41061</td>
+<td>Marinaleda.</td>
+<td>32.789,51</td>
+<td>20.764,87</td>
+<td>18.895,16</td>
+<td>72.449,54</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41062</td>
+<td>Martín de la Jara.</td>
+<td>30.432,97</td>
+<td>20.702,70</td>
+<td>19.965,08</td>
+<td>71.100,75</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41063</td>
+<td>Molares, Los.</td>
+<td>25.218,71</td>
+<td>17.956,77</td>
+<td>12.611,68</td>
+<td>55.787,16</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41064</td>
+<td>Montellano.</td>
+<td>52.973,56</td>
+<td>32.649,54</td>
+<td>25.450,73</td>
+<td>111.073,83</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41065</td>
+<td>Morón de la Frontera.</td>
+<td>183.368,99</td>
+<td>123.728,11</td>
+<td>105.394,69</td>
+<td>412.491,79</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41066</td>
+<td>Navas de la Concepción, Las.</td>
+<td>20.221,28</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>55.741,28</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41067</td>
+<td>Olivares.</td>
+<td>72.978,00</td>
+<td>42.886,81</td>
+<td>35.549,74</td>
+<td>151.414,55</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41068</td>
+<td>Osuna.</td>
+<td>136.814,16</td>
+<td>73.246,34</td>
+<td>66.355,63</td>
+<td>276.416,13</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41069</td>
+<td>Palacios y Villafranca, Los.</td>
+<td>295.540,49</td>
+<td>187.638,54</td>
+<td>128.371,90</td>
+<td>611.550,93</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41904</td>
+<td>Palmar de Troya, El.</td>
+<td>27.238,54</td>
+<td>19.293,52</td>
+<td>18.268,86</td>
+<td>64.800,92</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41070</td>
+<td>Palomares del Río.</td>
+<td>49.988,60</td>
+<td>46.907,12</td>
+<td>32.052,92</td>
+<td>128.948,64</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41071</td>
+<td>Paradas.</td>
+<td>47.474,95</td>
+<td>29.395,99</td>
+<td>26.090,07</td>
+<td>102.961,01</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41072</td>
+<td>Pedrera.</td>
+<td>40.719,53</td>
+<td>23.303,36</td>
+<td>19.318,25</td>
+<td>83.341,14</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41073</td>
+<td>Pedroso, El.</td>
+<td>22.682,56</td>
+<td>17.760,00</td>
+<td>18.138,39</td>
+<td>58.580,95</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41074</td>
+<td>Peñaflor.</td>
+<td>25.375,81</td>
+<td>16.278,19</td>
+<td>14.425,32</td>
+<td>56.079,32</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41075</td>
+<td>Pilas.</td>
+<td>106.598,03</td>
+<td>69.433,26</td>
+<td>47.031,81</td>
+<td>223.063,10</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41076</td>
+<td>Pruna.</td>
+<td>29.333,25</td>
+<td>19.459,30</td>
+<td>19.364,88</td>
+<td>68.157,43</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41077</td>
+<td>Puebla de Cazalla, La.</td>
+<td>79.157,38</td>
+<td>48.585,70</td>
+<td>39.581,51</td>
+<td>167.324,59</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41078</td>
+<td>Puebla de los Infantes, La.</td>
+<td>29.856,93</td>
+<td>21.386,56</td>
+<td>20.539,18</td>
+<td>71.782,67</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41079</td>
+<td>Puebla del Río, La.</td>
+<td>84.655,98</td>
+<td>56.895,71</td>
+<td>44.709,30</td>
+<td>186.260,99</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41080</td>
+<td>Real de la Jara, El.</td>
+<td>20.849,69</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>56.369,69</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41081</td>
+<td>Rinconada, La.</td>
+<td>269.985,08</td>
+<td>190.788,47</td>
+<td>144.512,04</td>
+<td>605.285,59</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41082</td>
+<td>Roda de Andalucía, La.</td>
+<td>32.026,50</td>
+<td>18.309,07</td>
+<td>16.473,83</td>
+<td>66.809,40</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41083</td>
+<td>Ronquillo, El.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41084</td>
+<td>Rubio, El.</td>
+<td>27.208,68</td>
+<td>14.454,55</td>
+<td>13.720,74</td>
+<td>55.383,97</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41085</td>
+<td>Salteras.</td>
+<td>38.205,88</td>
+<td>25.976,66</td>
+<td>21.797,34</td>
+<td>85.979,88</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41086</td>
+<td>San Juan de Aznalfarache.</td>
+<td>134.981,29</td>
+<td>104.227,56</td>
+<td>76.011,01</td>
+<td>315.219,86</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41088</td>
+<td>San Nicolás del Puerto.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41087</td>
+<td>Sanlúcar la Mayor.</td>
+<td>95.443,72</td>
+<td>68.169,15</td>
+<td>50.085,00</td>
+<td>213.697,87</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41089</td>
+<td>Santiponce.</td>
+<td>53.340,13</td>
+<td>42.410,18</td>
+<td>32.000,73</td>
+<td>127.751,04</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41090</td>
+<td>Saucejo, El.</td>
+<td>33.283,32</td>
+<td>17.853,16</td>
+<td>16.238,97</td>
+<td>67.375,45</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41091</td>
+<td>Sevilla.</td>
+<td>4.532.554,27</td>
+<td>3.084.434,48</td>
+<td>2.572.749,69</td>
+<td>10.189.738,44</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41092</td>
+<td>Tocina.</td>
+<td>66.641,51</td>
+<td>44.896,96</td>
+<td>36.476,13</td>
+<td>148.014,60</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41093</td>
+<td>Tomares.</td>
+<td>160.693,80</td>
+<td>119.479,85</td>
+<td>95.987,22</td>
+<td>376.160,87</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41094</td>
+<td>Umbrete.</td>
+<td>50.878,85</td>
+<td>49.704,75</td>
+<td>30.356,70</td>
+<td>130.940,30</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41095</td>
+<td>Utrera.</td>
+<td>352.830,69</td>
+<td>244.295,83</td>
+<td>187.556,79</td>
+<td>784.683,31</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41096</td>
+<td>Valencina de la Concepción.</td>
+<td>55.434,84</td>
+<td>30.369,98</td>
+<td>33.422,94</td>
+<td>119.227,76</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41097</td>
+<td>Villamanrique de la Condesa.</td>
+<td>29.722,32</td>
+<td>22.909,62</td>
+<td>15.847,53</td>
+<td>68.479,47</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41100</td>
+<td>Villanueva de San Juan.</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>17.760,00</td>
+<td>53.280,00</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41098</td>
+<td>Villanueva del Ariscal.</td>
+<td>45.642,09</td>
+<td>30.991,68</td>
+<td>25.646,44</td>
+<td>102.280,21</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41099</td>
+<td>Villanueva del Río y Minas.</td>
+<td>35.116,19</td>
+<td>20.381,39</td>
+<td>18.770,24</td>
+<td>74.267,82</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41101</td>
+<td>Villaverde del Río.</td>
+<td>58.576,90</td>
+<td>37.871,79</td>
+<td>28.438,68</td>
+<td>124.887,37</td>
+</tr>
+<tr>
+<td>41</td>
+<td>41102</td>
+<td>Viso del Alcor, El.</td>
+<td>138.437,55</td>
+<td>95.067,89</td>
+<td>65.363,99</td>
+<td>298.869,43</td>
 </tr>
 </tbody>
 </table>

@@ -443,132 +443,127 @@ Donde:
 
 – Ratio VD es la ratio de vehículos/día y m2 de superficie (de venta o total) según la categoría del establecimiento que se indica en la siguiente tabla:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_11">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Categoría de establecimiento</p>
+<p>Categoría de establecimiento</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ratio vehículo/día/m<sup>2</sup> de superficie de venta</p>
+<p>Ratio vehículo/día/m<sup>2</sup> de superficie de venta</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gran almacén.</p>
+<p>Gran almacén.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1252</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Hipermercado.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1663</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Supermercado.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1740</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td rowspan="9">
-<p class="cuerpo_tabla_izq">Establecimientos especializados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Artículos y material deportivo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,2465</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Artículos infantiles.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1212</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Automoción.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0091</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Bricolaje.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3408</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Ocio y cultura.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,2970</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Muebles y equipamiento del hogar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0711</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Equipamiento de la persona.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1907</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Jardinería y complementos de jardín.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0150</p>
+<p>0,1252</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ferreterías.</td>
-<td class="cuerpo_tabla_centro">0,0699</td>
-</tr>
-<tr class="row_column_5">
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros.</p>
+<p>Hipermercado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3409</p>
+<p>0,1663</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Establecimiento colectivo.</p>
+<p>Supermercado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0767</p>
+<p>0,1740</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9">
+<p>Establecimientos especializados.</p>
+</td>
+<td>
+<p>Artículos y material deportivo.</p>
+</td>
+<td>
+<p>0,2465</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Artículos infantiles.</p>
+</td>
+<td>
+<p>0,1212</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Automoción.</p>
+</td>
+<td>
+<p>0,0091</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bricolaje.</p>
+</td>
+<td>
+<p>0,3408</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ocio y cultura.</p>
+</td>
+<td>
+<p>0,2970</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Muebles y equipamiento del hogar.</p>
+</td>
+<td>
+<p>0,0711</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Equipamiento de la persona.</p>
+</td>
+<td>
+<p>0,1907</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jardinería y complementos de jardín.</p>
+</td>
+<td>
+<p>0,0150</p>
+</td>
+</tr>
+<tr>
+<td>Ferreterías.</td>
+<td>0,0699</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Otros.</p>
+</td>
+<td>
+<p>0,3409</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Establecimiento colectivo.</p>
+</td>
+<td>
+<p>0,0767</p>
 </td>
 </tr>
 </tbody>
@@ -809,166 +804,153 @@ d) A partir de los datos que constan en el registro policial de las personas que
 
 a) La tarifa aplicable a partir del 1 de abril de 2026 para Barcelona ciudad y la tarifa especial son las siguientes:
 
-<table class="tabla">
-<colgroup>
-<col width="63%">
-<col width="20%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de establecimiento</th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Tarifa (en euros)</p>
+<th rowspan="2">Tipo de establecimiento</th>
+<th colspan="2">
+<p>Tarifa (en euros)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Barcelona ciudad</th>
-<th class="cabeza_tabla">Tarifa especial</th>
+<th>Barcelona ciudad</th>
+<th>Tarifa especial</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Hotel de 5 estrellas, gran lujo, <em>camping</em> de lujo y establecimiento o equipamiento de categoría equivalente.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
+<td>1. Hotel de 5 estrellas, gran lujo, <em>camping</em> de lujo y establecimiento o equipamiento de categoría equivalente.</td>
+<td>7,00</td>
+<td>10,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Hotel de 4 estrellas y 4 estrellas superior, y establecimiento o equipamiento de categoría equivalente.</td>
-<td class="cuerpo_tabla_coma">3,40</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>2. Hotel de 4 estrellas y 4 estrellas superior, y establecimiento o equipamiento de categoría equivalente.</td>
+<td>3,40</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Vivienda de uso turístico.</td>
-<td class="cuerpo_tabla_coma">4,50</td>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
+<td>3. Vivienda de uso turístico.</td>
+<td>4,50</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Albergues de juventud.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
+<td>4. Albergues de juventud.</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Resto de <em>campings</em> y resto de establecimientos y equipamientos.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
+<td>5. Resto de <em>campings</em> y resto de establecimientos y equipamientos.</td>
+<td>2,00</td>
+<td>5,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">6. Embarcación de crucero.</td>
+<td colspan="3">6. Embarcación de crucero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Más de 12 horas.</td>
-<td class="cuerpo_tabla_coma">4,00</td>
-<td class="cuerpo_tabla_coma" rowspan="2"> </td>
+<td> Más de 12 horas.</td>
+<td>4,00</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 12 horas o menos.</td>
-<td class="cuerpo_tabla_coma">6,00</td>
+<td> 12 horas o menos.</td>
+<td>6,00</td>
 </tr>
 </tbody>
 </table>
 
 b) La tarifa aplicable desde el 1 de abril de 2026 hasta el 31 de marzo de 2027 para el resto de Cataluña es la siguiente:
 
-<table class="tabla">
-<colgroup>
-<col width="75%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de establecimiento</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tarifa (en euros)</p>
+<th rowspan="2">Tipo de establecimiento</th>
+<th>
+<p>Tarifa (en euros)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Resto de Cataluña</th>
+<th>Resto de Cataluña</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Hotel de 5 estrellas, gran lujo, <em>camping</em> de lujo y establecimiento o equipamiento de categoría equivalente.</td>
-<td class="cuerpo_tabla_coma">4,50</td>
+<td>1. Hotel de 5 estrellas, gran lujo, <em>camping</em> de lujo y establecimiento o equipamiento de categoría equivalente.</td>
+<td>4,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Hotel de 4 estrellas y 4 estrellas superior, y establecimiento o equipamiento de categoría equivalente.</td>
-<td class="cuerpo_tabla_coma">1,80</td>
+<td>2. Hotel de 4 estrellas y 4 estrellas superior, y establecimiento o equipamiento de categoría equivalente.</td>
+<td>1,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Vivienda de uso turístico.</td>
-<td class="cuerpo_tabla_coma">1,75</td>
+<td>3. Vivienda de uso turístico.</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Albergues de juventud.</td>
-<td class="cuerpo_tabla_coma">0,80</td>
+<td>4. Albergues de juventud.</td>
+<td>0,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Resto de <em>campings</em> y resto de establecimientos y equipamientos.</td>
-<td class="cuerpo_tabla_coma">0,90</td>
+<td>5. Resto de <em>campings</em> y resto de establecimientos y equipamientos.</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">6. Embarcación de crucero.</td>
+<td colspan="2">6. Embarcación de crucero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Más de 12 horas.</td>
-<td class="cuerpo_tabla_coma">3,00</td>
+<td> Más de 12 horas.</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 12 horas o menos.</td>
-<td class="cuerpo_tabla_coma">4,50</td>
+<td> 12 horas o menos.</td>
+<td>4,50</td>
 </tr>
 </tbody>
 </table>
 
 c) La tarifa aplicable a partir del 1 de abril de 2027 para el resto de Cataluña es la siguiente:
 
-<table class="tabla">
-<colgroup>
-<col width="75%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de establecimiento</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tarifa (en euros)</p>
+<th rowspan="2">Tipo de establecimiento</th>
+<th>
+<p>Tarifa (en euros)</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Resto de Cataluña</th>
+<th>Resto de Cataluña</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Hotel de 5 estrellas, gran lujo, <em>camping</em> de lujo y establecimiento o equipamiento de categoría equivalente.</td>
-<td class="cuerpo_tabla_coma">6,00</td>
+<td>1. Hotel de 5 estrellas, gran lujo, <em>camping</em> de lujo y establecimiento o equipamiento de categoría equivalente.</td>
+<td>6,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Hotel de 4 estrellas y 4 estrellas superior, y establecimiento o equipamiento de categoría equivalente.</td>
-<td class="cuerpo_tabla_coma">2,40</td>
+<td>2. Hotel de 4 estrellas y 4 estrellas superior, y establecimiento o equipamiento de categoría equivalente.</td>
+<td>2,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Vivienda de uso turístico.</td>
-<td class="cuerpo_tabla_coma">2,50</td>
+<td>3. Vivienda de uso turístico.</td>
+<td>2,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Albergues de juventud.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
+<td>4. Albergues de juventud.</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Resto de <em>campings</em> y resto de establecimientos y equipamientos.</td>
-<td class="cuerpo_tabla_coma">1,20</td>
+<td>5. Resto de <em>campings</em> y resto de establecimientos y equipamientos.</td>
+<td>1,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">6. Embarcación de crucero.</td>
+<td colspan="2">6. Embarcación de crucero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Más de 12 horas.</td>
-<td class="cuerpo_tabla_coma">4,00</td>
+<td> Más de 12 horas.</td>
+<td>4,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 12 horas o menos.</td>
-<td class="cuerpo_tabla_coma">6,00</td>
+<td> 12 horas o menos.</td>
+<td>6,00</td>
 </tr>
 </tbody>
 </table>
@@ -3368,156 +3350,149 @@ Se modifica la primera tabla del apartado 3 del artículo 60 del texto articulad
 
 «En el caso de captación de un nuevo tráfico:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_29">
-<col class="row_column_30">
-<col class="row_column_31">
-<col class="row_column_32">
-<col class="row_column_33">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_11">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Porcentaje de bonificación</p>
+<p>Porcentaje de bonificación</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Grupo 1/2 (a granel: mercancía a granel)</p>
+<p>Grupo 1/2 (a granel: mercancía a granel)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Grupo 3/4/5 - Grupo 1-2 (unitizada: mercancía envasada, embalada o atada)</p>
+<p>Grupo 3/4/5 - Grupo 1-2 (unitizada: mercancía envasada, embalada o atada)</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">De toneladas</p>
+<p>De toneladas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Hasta</p>
+<p>Hasta</p>
 </td>
 <td>
-<p class="cabeza_tabla">De toneladas</p>
+<p>De toneladas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Hasta</p>
+<p>Hasta</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro"> 5</p>
+<p> 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.000</p>
+<p>10.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> 5.000</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.000</p>
+<p> 5.000</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20.001</p>
+<p>10.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40.000</p>
+<p>20.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.001</p>
+<p>5.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20.000</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40.000</p>
+<p>10.000</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80.001</p>
+<p>20.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120.000</p>
+<p>40.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40.001</p>
+<p>10.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60.000</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">120.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">160.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80.000</p>
+<p>20.000</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 160.000</p>
+<p>40.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>80.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 80.000»</p>
+<p>20.001</p>
+</td>
+<td>
+<p>40.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>80.001</p>
+</td>
+<td>
+<p>120.000</p>
+</td>
+<td>
+<p>40.001</p>
+</td>
+<td>
+<p>60.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>120.001</p>
+</td>
+<td>
+<p>160.000</p>
+</td>
+<td>
+<p>60.001</p>
+</td>
+<td>
+<p>80.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>Más de 160.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Más de 80.000»</p>
 </td>
 <td> </td>
 </tr>
@@ -6554,572 +6529,564 @@ Se modifica la disposición adicional séptima de la Ley 16/2015, que queda reda
 
 Se modifican los apartados siguientes del anexo I («Actividades sometidas a régimen de declaración responsable») de la Ley 16/2015, que quedan redactados del siguiente modo:
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_43">
-<col class="row_column_44">
-<col class="row_column_45">
-<col class="row_column_46">
-<col class="row_column_10">
-<col class="row_column_47">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Declaración responsable</p>
+<p>Declaración responsable</p>
 </td>
 <td>
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Agricultura, ganadería, silvicultura y pesca.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_19">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Viveros y cultivos de plantas ornamentales.</p>
+<p>Agricultura, ganadería, silvicultura y pesca.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_48">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">130</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Viveros y cultivos de plantas ornamentales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤120 m<sup>2</sup>.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Se excluyen las empresas que se dedican a la producción, protección y tratamiento de material vegetal y las empresas que se dedican a la limpieza de cereales de fecundación autógama y de leguminosas para dedicarlos a la siembra.</p>
-</td>
-</tr>
-<tr class="row_column_19">
-<td>
-<p class="cuerpo_tabla_centro">G</p>
-</td>
-<td> </td>
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Comercio al por mayor y al por menor.</p>
+<p>13</p>
+</td>
+<td> </td>
+<td>
+<p>Viveros y cultivos de plantas ornamentales.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>130</p>
+</td>
+<td>
+<p>Viveros y cultivos de plantas ornamentales.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤120 m<sup>2</sup>.</p>
+</td>
+<td>
+<p>Se excluyen las empresas que se dedican a la producción, protección y tratamiento de material vegetal y las empresas que se dedican a la limpieza de cereales de fecundación autógama y de leguminosas para dedicarlos a la siembra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>Comercio al por mayor y al por menor.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>45</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Venta y reparación de vehículos de motor y motocicletas.</p>
+<p>Venta y reparación de vehículos de motor y motocicletas.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Solo pueden considerarse los establecimientos comerciales propiamente, y no los de uso industrial, a los cuales es aplicable el RSCIEI.</p>
+<p>Solo pueden considerarse los establecimientos comerciales propiamente, y no los de uso industrial, a los cuales es aplicable el RSCIEI.</p>
 </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">451</p>
+<p>451</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Venta de vehículos de motor.</p>
+<p>Venta de vehículos de motor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales,</p>
-<p class="cuerpo_tabla_izq">si la superficie construida ≤120 m<sup>2</sup>.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_50">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">453</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Venta de recambios y accesorios de vehículos de motor.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales,</p>
-<p class="cuerpo_tabla_izq">si la superficie construida ≤120 m<sup>2</sup>.</p>
+<p>Si se consideran establecimientos comerciales,</p>
+<p>si la superficie construida ≤120 m<sup>2</sup>.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_50">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">454</p>
+<p>453</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Venta, mantenimiento y reparación de motocicletas y de sus recambios y accesorios.</p>
+<p>Venta de recambios y accesorios de vehículos de motor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales,</p>
-<p class="cuerpo_tabla_izq">si la superficie construida ≤120 m<sup>2</sup>.</p>
+<p>Si se consideran establecimientos comerciales,</p>
+<p>si la superficie construida ≤120 m<sup>2</sup>.</p>
 </td>
-<td>
-<p class="cuerpo_tabla_izq">Se excluye el mantenimiento y la reparación ya regulado por la Ley 20/2009.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Hostelería.</p>
-</td>
-<td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>454</p>
+</td>
+<td>
+<p>Venta, mantenimiento y reparación de motocicletas y de sus recambios y accesorios.</p>
+</td>
+<td>
+<p>Si se consideran establecimientos comerciales,</p>
+<p>si la superficie construida ≤120 m<sup>2</sup>.</p>
+</td>
+<td>
+<p>Se excluye el mantenimiento y la reparación ya regulado por la Ley 20/2009.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
 </td>
 <td> </td>
+<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de alojamiento.</p>
+<p>Hostelería.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_51">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">552</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alojamientos turísticos y otros de corta duración.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aplicable a los establecimientos de turismo rural y a las viviendas de uso turístico, y, en general, a toda modalidad de alojamiento turístico que se pueda llevar a cabo en edificios o establecimientos con uso característico residencial de vivienda.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La cédula de habitabilidad equivale al certificado técnico justificativo en los términos establecidos por el artículo 13.1.a).</p>
-</td>
-</tr>
-<tr class="row_column_52">
-<td>
-<p class="cuerpo_tabla_centro">J</p>
-</td>
-<td> </td>
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Información y comunicaciones.</p>
+<p>55</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Deben excluirse las actividades consideradas industriales: se limita a las administrativas y profesionales.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">58</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Edición.</p>
+<p>Servicios de alojamiento.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_52">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">581</p>
+<p>552</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Edición de libros, periódicos y otras actividades de edición.</p>
+<p>Alojamientos turísticos y otros de corta duración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤120 m<sup>2</sup>.</p>
+<p>Aplicable a los establecimientos de turismo rural y a las viviendas de uso turístico, y, en general, a toda modalidad de alojamiento turístico que se pueda llevar a cabo en edificios o establecimientos con uso característico residencial de vivienda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se excluyen las imprentas que están incluidas en el epígrafe 181 y, por lo tanto, no les es de aplicación.</p>
+<p>La cédula de habitabilidad equivale al certificado técnico justificativo en los términos establecidos por el artículo 13.1.a).</p>
 </td>
 </tr>
-<tr class="row_column_18">
-<td> </td>
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">59</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Cine y vídeo; grabación de sonido.</p>
+<p>J</p>
 </td>
 <td> </td>
 <td> </td>
-</tr>
-<tr class="row_column_52">
+<td>
+<p>Información y comunicaciones.</p>
+</td>
 <td> </td>
-<td> </td>
 <td>
-<p class="cuerpo_tabla_centro">592</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades de grabación de sonido y edición musical.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si se realizan grabaciones en directo, se incluye en las actividades de espectáculos (CCAE 900).</p>
+<p>Deben excluirse las actividades consideradas industriales: se limita a las administrativas y profesionales.</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
+<td> </td>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>58</p>
 </td>
 <td> </td>
-<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades profesionales, científicas y técnicas.</p>
+<p>Edición.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">71</p>
+<p>581</p>
+</td>
+<td>
+<p>Edición de libros, periódicos y otras actividades de edición.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤120 m<sup>2</sup>.</p>
+</td>
+<td>
+<p>Se excluyen las imprentas que están incluidas en el epígrafe 181 y, por lo tanto, no les es de aplicación.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>59</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios técnicos de arquitectura e ingeniería.</p>
+<p>Cine y vídeo; grabación de sonido.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_53">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">712</p>
+<p>592</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Análisis y ensayos técnicos.</p>
+<p>Actividades de grabación de sonido y edición musical.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 50 m<sup>2</sup> (excluyendo despachos, almacenes y otras áreas auxiliares, y siempre que la superficie construida ≤ 500 m<sup>2</sup>).</p>
+<p>Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Quedan excluidos los laboratorios de investigación, químicos o biológicos establecidos por la LPCAA (punto 12.23 de los anexos II y III)</p>
+<p>Si se realizan grabaciones en directo, se incluye en las actividades de espectáculos (CCAE 900).</p>
 </td>
 </tr>
-<tr class="row_column_49">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>M</p>
 </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades administrativas y servicios auxiliares.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_53">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">79</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades de las agencias de viajes, turoperadores y otros servicios de reservas y actividades relacionadas.</p>
+<p>Actividades profesionales, científicas y técnicas.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_49">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">791</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades de las agencias de viajes y turoperadores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_49">
-<td> </td>
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">799</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros servicios de reservas y actividades relacionadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_49">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">81</p>
+<p>71</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios en edificios y actividades de jardinería.</p>
+<p>Servicios técnicos de arquitectura e ingeniería.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">811</p>
+<p>712</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios integrales en edificios e instalaciones.</p>
+<p>Análisis y ensayos técnicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤500m<sup>2</sup>.</p>
+<p>Si la superficie construida ≤ 50 m<sup>2</sup> (excluyendo despachos, almacenes y otras áreas auxiliares, y siempre que la superficie construida ≤ 500 m<sup>2</sup>).</p>
 </td>
-<td> </td>
+<td>
+<p>Quedan excluidos los laboratorios de investigación, químicos o biológicos establecidos por la LPCAA (punto 12.23 de los anexos II y III)</p>
+</td>
 </tr>
-<tr class="row_column_19">
-<td> </td>
-<td> </td>
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">812</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades de limpieza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
+<p>N</p>
 </td>
 <td> </td>
-</tr>
-<tr class="row_column_19">
-<td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">813</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades de jardinería.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_5">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">85</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Educación.</p>
+<p>Actividades administrativas y servicios auxiliares.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td> </td>
-<td> </td>
 <td>
-<p class="cuerpo_tabla_centro">855</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras actividades de educación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤120m<sup>2</sup>.</p>
+<p>79</p>
 </td>
 <td> </td>
-</tr>
-<tr class="row_column_19">
-<td> </td>
-<td> </td>
 <td>
-<p class="cuerpo_tabla_centro">856</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades auxiliares de educación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
-</td>
-<td> </td>
-</tr>
-<tr class="row_column_49">
-<td>
-<p class="cuerpo_tabla_centro">R</p>
-</td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Actividades artísticas, recreativas y de entretenimiento.</p>
+<p>Actividades de las agencias de viajes, turoperadores y otros servicios de reservas y actividades relacionadas.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_49">
+<tr>
+<td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">93</p>
+<p>791</p>
+</td>
+<td>
+<p>Actividades de las agencias de viajes y turoperadores.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>799</p>
+</td>
+<td>
+<p>Otros servicios de reservas y actividades relacionadas.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>81</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades deportivas, recreativas y de entretenimiento.</p>
+<p>Servicios en edificios y actividades de jardinería.</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">931</p>
+<p>811</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades deportivas.</p>
+<p>Servicios integrales en edificios e instalaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Se excluyen los campos de golf</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">S</p>
-</td>
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Otros servicios.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_18">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">96</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Otras actividades de servicios personales.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_19">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras actividades de servicios personales.</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="row_column_54">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">9601</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lavado y limpieza de piezas textiles y de piel.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤120 m<sup>2</sup>.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">No se incluyen las lavanderías industriales o no comerciales, que son las que no tienen tienda abierta al público y se dedican a lavar grandes lotes de ropa provenientes de un solo cliente, y sus clientes principales no son particulares.</p>
-</td>
-</tr>
-<tr class="row_column_19">
-<td> </td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">9602</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Peluquería y otros tratamientos de belleza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+<p>Si la superficie construida ≤500m<sup>2</sup>.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">9604</p>
+<p>812</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actividades de mantenimiento físico.</p>
+<p>Actividades de limpieza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+<p>Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
 </td>
 <td> </td>
 </tr>
-<tr class="row_column_55">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">9609</p>
+<p>813</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras actividades de servicios personales no clasificadas en otros apartados.</p>
+<p>Actividades de jardinería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+<p>Si la superficie construida ≤ 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>85</p>
+</td>
+<td> </td>
+<td>
+<p>Educación.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Se excluyen las pompas fúnebres y actividades relacionadas. Se excluyen las perreras reguladas por la Ley 20/2009.</p>
+<p>Otras actividades de educación.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤120m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>856</p>
+</td>
+<td>
+<p>Actividades auxiliares de educación.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>R</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>Actividades artísticas, recreativas y de entretenimiento.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>93</p>
+</td>
+<td> </td>
+<td>
+<p>Actividades deportivas, recreativas y de entretenimiento.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>931</p>
+</td>
+<td>
+<p>Actividades deportivas.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+</td>
+<td>
+<p>Se excluyen los campos de golf</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>S</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>Otros servicios.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>96</p>
+</td>
+<td> </td>
+<td>
+<p>Otras actividades de servicios personales.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>960</p>
+</td>
+<td>
+<p>Otras actividades de servicios personales.</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>9601</p>
+</td>
+<td>
+<p>Lavado y limpieza de piezas textiles y de piel.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤120 m<sup>2</sup>.</p>
+</td>
+<td>
+<p>No se incluyen las lavanderías industriales o no comerciales, que son las que no tienen tienda abierta al público y se dedican a lavar grandes lotes de ropa provenientes de un solo cliente, y sus clientes principales no son particulares.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>9602</p>
+</td>
+<td>
+<p>Peluquería y otros tratamientos de belleza.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>9604</p>
+</td>
+<td>
+<p>Actividades de mantenimiento físico.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>9609</p>
+</td>
+<td>
+<p>Otras actividades de servicios personales no clasificadas en otros apartados.</p>
+</td>
+<td>
+<p>Si la superficie construida ≤ 120 m<sup>2</sup>.</p>
+</td>
+<td>
+<p>Se excluyen las pompas fúnebres y actividades relacionadas. Se excluyen las perreras reguladas por la Ley 20/2009.</p>
 </td>
 </tr>
 </tbody>

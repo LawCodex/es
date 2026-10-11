@@ -978,8 +978,6 @@ b) Cuando estén previstas por el planeamiento territorial o urbanístico sin es
 
 4\. Cuando las actuaciones específicas de interés público a que hace referencia el artículo 47.4 se refieran al depósito de residuos de la construcción para la restauración morfológica o paisajística de canteras, puede autorizarse el depósito de acuerdo con requerimientos ambientales, sin que sea exigible aprobar un proyecto de actuación específica ni un plan especial ni ningún otro instrumento urbanístico análogo si la explotación de recursos naturales procedentes de actividades extractivas en las canteras que son objeto de la restauración ya tiene un proyecto de actuación específica o un plan especial aprobado.
 
-> Téngase en cuenta que el apartado 4, añadido por la disposición final 4 de la Ley 8/2026, de 2 de julio, [Ref. BOE-A-2026-17836](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17836), entra en vigor el 3 de octubre de 2026, según establece su disposición final 7.
-
 > Se añade el apartado 4, con efectos de 3 de octubre de 2026, por la disposición final 4 de la Ley 8/2026, de 2 de julio. [Ref. BOE-A-2026-17836](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17836)
 
 > Redactado conforme a la corrección de erratas publicada en el DOGC núm. 9721, de 3 de agosto de 2026. [Ref. DOGC-f-2026-90202](https://www.boe.es/buscar/doc.php?id=DOGC-f-2026-90202)
@@ -4367,8 +4365,6 @@ Los municipios comprendidos en el ámbito territorial de un planeamiento general
 ###### Disposición adicional décima. Ampliación de los plazos de tramitación.
 
 Los plazos para la tramitación y la resolución definitiva de las figuras de planeamiento urbanístico y de gestión urbanística establecidos por esta Ley se amplían en un mes, en caso de que coincidan totalmente o parcialmente con el mes de agosto.
-
-> Téngase en cuenta que se suspende para el año 2020 la ampliación de plazos que contempla esta disposición por el art. 1 del Decreto-ley 18/2020, de 12 de mayo. [Ref. BOE-A-2020-7383](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7383)
 
 > Se suspende para el año 2020 la ampliación de plazos que contempla esta disposición por el art. 1 del Decreto-ley 18/2020, de 12 de mayo. [Ref. BOE-A-2020-7383](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7383)
 

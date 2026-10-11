@@ -626,19 +626,19 @@ El estudiantado de segundo curso de Másteres Universitarios deberá acreditar h
 
 2\. Para el cómputo de la nota media, la puntuación obtenida en cada una de las asignaturas se ponderará en función del número de créditos que la integren, de acuerdo con la siguiente fórmula:
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">V =</p>
+<p>V =</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P × NCa</p>
+<p>P × NCa</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">NCt</p>
+<p>NCt</p>
 </td>
 </tr>
 </tbody>

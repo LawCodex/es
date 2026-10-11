@@ -533,55 +533,37 @@ b) La cantidad obtenida de multiplicar la cuantía máxima de la ayuda por vivie
 
 Tabla 15.1
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ahorro energético conseguido con la actuación</th>
-<th class="cabeza_tabla" rowspan="2">Porcentaje máximo de la subvención del coste de la actuación</th>
-<th class="cabeza_tabla">Vivienda</th>
-<th class="cabeza_tabla">Locales comerciales u otros usos</th>
+<th rowspan="2">Ahorro energético conseguido con la actuación</th>
+<th rowspan="2">Porcentaje máximo de la subvención del coste de la actuación</th>
+<th>Vivienda</th>
+<th>Locales comerciales u otros usos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cuantía máxima de la ayuda<br>por vivienda (euros)</th>
-<th class="cabeza_tabla">Cuantía máxima de la ayuda<br>por m<sup>2 </sup>(euros)</th>
+<th>Cuantía máxima de la ayuda<br>por vivienda (euros)</th>
+<th>Cuantía máxima de la ayuda<br>por m<sup>2 </sup>(euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">30 % ≤ ΔC<sub>ep,nren </sub>&lt; 45 %.</td>
-<td class="cuerpo_tabla_coma">40</td>
-<td class="cuerpo_tabla_coma">8.100</td>
-<td class="cuerpo_tabla_coma">72</td>
+<td>30 % ≤ ΔC<sub>ep,nren </sub>&lt; 45 %.</td>
+<td>40</td>
+<td>8.100</td>
+<td>72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">45 % ≤ ΔC<sub>ep,nren </sub>&lt; 60 %.</td>
-<td class="cuerpo_tabla_coma">65</td>
-<td class="cuerpo_tabla_coma">14.500</td>
-<td class="cuerpo_tabla_coma">130</td>
+<td>45 % ≤ ΔC<sub>ep,nren </sub>&lt; 60 %.</td>
+<td>65</td>
+<td>14.500</td>
+<td>130</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ΔC<sub>ep,nren </sub>≥ 60 %.</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_coma">21.400</td>
-<td class="cuerpo_tabla_coma">192</td>
+<td>ΔC<sub>ep,nren </sub>≥ 60 %.</td>
+<td>80</td>
+<td>21.400</td>
+<td>192</td>
 </tr>
 </tbody>
 </table>
@@ -826,43 +808,37 @@ b) La cantidad obtenida de multiplicar la cuantía máxima de la ayuda por vivie
 
 Tabla 34.1
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ahorro energético conseguido con la actuación</th>
-<th class="cabeza_tabla" rowspan="2">Porcentaje máximo de la subvención del coste de la actuación</th>
-<th class="cabeza_tabla">Vivienda</th>
-<th class="cabeza_tabla">Locales comerciales u otros usos</th>
+<th rowspan="2">Ahorro energético conseguido con la actuación</th>
+<th rowspan="2">Porcentaje máximo de la subvención del coste de la actuación</th>
+<th>Vivienda</th>
+<th>Locales comerciales u otros usos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cuantía máxima de la ayuda por vivienda (euros)</th>
-<th class="cabeza_tabla">Cuantía máxima de la ayuda por m<sup>2 </sup>(euros)</th>
+<th>Cuantía máxima de la ayuda por vivienda (euros)</th>
+<th>Cuantía máxima de la ayuda por m<sup>2 </sup>(euros)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">30 % ≤ ΔC<sub>ep,nren </sub>&lt; 45 %.</td>
-<td class="cuerpo_tabla_coma">40</td>
-<td class="cuerpo_tabla_coma">6.300</td>
-<td class="cuerpo_tabla_coma">56</td>
+<td>30 % ≤ ΔC<sub>ep,nren </sub>&lt; 45 %.</td>
+<td>40</td>
+<td>6.300</td>
+<td>56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">45 % ≤ ΔC<sub>ep,nren </sub>&lt; 60 %.</td>
-<td class="cuerpo_tabla_coma">65</td>
-<td class="cuerpo_tabla_coma">11.600</td>
-<td class="cuerpo_tabla_coma">104</td>
+<td>45 % ≤ ΔC<sub>ep,nren </sub>&lt; 60 %.</td>
+<td>65</td>
+<td>11.600</td>
+<td>104</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ΔC<sub>ep,nren </sub>≥ 60 %.</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_coma">18.800</td>
-<td class="cuerpo_tabla_coma">168</td>
+<td>ΔC<sub>ep,nren </sub>≥ 60 %.</td>
+<td>80</td>
+<td>18.800</td>
+<td>168</td>
 </tr>
 </tbody>
 </table>
@@ -1395,48 +1371,39 @@ Este plazo se computará desde la fecha de la calificación definitiva, disposic
 
 Tabla 60.1 Valor límite C<sub>ep,nren,lim</sub>
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="6">C<sub>ep,nren,lim </sub>[kWh/m<sup>2</sup>·año]</th>
+<th rowspan="2"> </th>
+<th colspan="6">C<sub>ep,nren,lim </sub>[kWh/m<sup>2</sup>·año]</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">α</th>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
-<th class="cabeza_tabla">D</th>
-<th class="cabeza_tabla">E</th>
+<th>α</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Territorio peninsular.</td>
-<td class="cuerpo_tabla_centro">≤ 16,0</td>
-<td class="cuerpo_tabla_centro">≤ 20,0</td>
-<td class="cuerpo_tabla_centro">≤ 22,4</td>
-<td class="cuerpo_tabla_centro">≤ 25,6</td>
-<td class="cuerpo_tabla_centro">≤ 30,4</td>
-<td class="cuerpo_tabla_centro">≤ 34,4</td>
+<td>Territorio peninsular.</td>
+<td>≤ 16,0</td>
+<td>≤ 20,0</td>
+<td>≤ 22,4</td>
+<td>≤ 25,6</td>
+<td>≤ 30,4</td>
+<td>≤ 34,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla).</td>
-<td class="cuerpo_tabla_centro">≤ 20,0</td>
-<td class="cuerpo_tabla_centro">≤ 25,0</td>
-<td class="cuerpo_tabla_centro">≤ 28,0</td>
-<td class="cuerpo_tabla_centro">≤ 32,0</td>
-<td class="cuerpo_tabla_centro">≤ 38,0</td>
-<td class="cuerpo_tabla_centro">≤ 43,0</td>
+<td>Territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla).</td>
+<td>≤ 20,0</td>
+<td>≤ 25,0</td>
+<td>≤ 28,0</td>
+<td>≤ 32,0</td>
+<td>≤ 38,0</td>
+<td>≤ 43,0</td>
 </tr>
 </tbody>
 </table>

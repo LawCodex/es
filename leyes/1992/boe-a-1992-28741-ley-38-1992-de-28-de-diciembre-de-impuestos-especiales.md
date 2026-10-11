@@ -1686,24 +1686,6 @@ Epígrafe 2.20 Desechos de aceites clasificados en los códigos NC 2710.91.00 y 
 
 **(Derogado).**
 
-> Téngase en cuenta que esta derogación, establecida por el art. 82.2.1 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268), tiene efectos desde el 1 de enero de 2019:
-
-> Redacción anterior:
-
-> "1. Las Comunidades Autónomas pueden establecer un tipo impositivo autonómico del Impuesto sobre Hidrocarburos para gravar suplementariamente los productos a los que resulten de aplicación los tipos impositivos comprendidos en los epígrafes 1.1, 1.2.1, 1.2.2, 1.3, 1.4, 1.5, 1.11, 1.13, 1.14 y 1.15 del apartado 1 del artículo 50 que se consuman en sus respectivos territorios. La aplicación del tipo impositivo autonómico se efectuará de acuerdo con lo establecido en esta Ley y con los límites y condiciones establecidos en la normativa reguladora de la financiación de las Comunidades Autónomas.
-
-> 2\. El tipo impositivo autonómico a aplicar será el que corresponda a la Comunidad Autónoma en cuyo territorio se produzca el consumo final de los productos gravados. A efectos de lo establecido en este artículo, se entiende que los productos se consumen en el territorio de una Comunidad Autónoma cuando sean recibidos en alguno de los siguientes lugares:
-
-> a) Establecimientos de venta al público al por menor situados en su territorio. A estos efectos, se consideran establecimientos de venta al público al por menor los establecimientos que cuentan con instalaciones fijas para la venta al público para consumo directo de los productos y que, en su caso, están debidamente autorizadas conforme a la normativa vigente en materia de distribución de productos petrolíferos.
-
-> b) Establecimientos de consumo propio situados en su territorio, para ser consumidos en los mismos sin perjuicio de la aplicación, si procede, de lo establecido en el apartado 13.b) del artículo 7. A estos efectos, se consideran establecimientos de consumo propio los lugares o instalaciones en los que los productos se destinan al consumo y que cuentan con los elementos necesarios para su recepción y utilización así como, en su caso, con las autorizaciones administrativas que procedan.
-
-> c) Cualquier establecimiento situado en su territorio distinto de una fábrica o depósito fiscal con cualquier propósito, sin perjuicio de la aplicación, si procede, de lo establecido en el apartado 13.b) del artículo 7.
-
-> 3\. Los sujetos pasivos a que se refiere el apartado 2.f) del artículo 8 tendrán derecho a deducir, de las cuotas que se devenguen por aplicación de lo establecido en el apartado 13.b) del artículo 7, aquellas cuotas correspondientes a la aplicación del tipo autonómico que previamente hayan soportado por repercusión o incorporadas en el precio. Cuando el importe de las cuotas deducibles exceda, en cada período impositivo, el de las devengadas, el sujeto pasivo tendrá derecho a la devolución o compensación de la diferencia en las condiciones que reglamentariamente se determinen.
-
-> 4\. Cuando se cometa una irregularidad en el movimiento en régimen suspensivo entre el ámbito territorial comunitario no interno y el ámbito territorial interno, la responsabilidad de la persona que haya garantizado el pago, no comprenderá el pago del importe correspondiente al tipo impositivo autonómico, a menos que haya participado en la irregularidad o el delito."
-
 > Se deroga, con efectos de 1 de enero de 2019, por el art. 82.2.1 de la Ley 6/2018, de 3 de julio. [Ref. BOE-A-2018-9268](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9268)
 
 > Se añade, con efectos desde el 1 de enero de 2013, por la disposición final 20.4 de la Ley 2/2012, de 29 de junio. [Ref. BOE-A-2012-8745](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8745).
@@ -2719,34 +2701,6 @@ c) Vehículos comprendidos en las categorías N2 y N3 acondicionados como vivien
 d) Vehículos tipo «quad». Se entiende por vehículo tipo «quad» el vehículo de cuatro o más ruedas, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y que está dotado de un sistema de tracción adecuado a un uso fuera de carretera.
 
 e) Motos náuticas. Se entiende por «moto náutica» la embarcación propulsada por un motor y proyectada para ser manejada por una o más personas sentadas, de pie o de rodillas, sobre los límites de un casco y no dentro de él.
-
-> Téngase en cuenta que, con efectos hasta el 31 de diciembre de 2021, se modifican los epígrafes 1.º, 2.º, 3.º y 4.º del apartado 1, por la disposición adicional 5 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473), que quedan redactados en los siguientes términos:
-
-> «Epígrafe 1.º
-
-> a) Vehículos cuyas emisiones oficiales de CO<sub>2</sub> no sean superiores a 144 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en los epígrafes 6.º, 7.º, 8.º y 9.º
-
-> b) Vehículos provistos de un solo motor que no sea de combustión interna, con excepción de los vehículos tipo ''quad''.
-
-> Epígrafe 2.º
-
-> Vehículos cuyas emisiones oficiales de CO<sub>2</sub> sean superiores a 144 g/km y sean inferiores a 192 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en el epígrafe 9.º
-
-> Epígrafe 3.º
-
-> Vehículos cuyas emisiones oficiales de CO<sub>2</sub> no sean inferiores a 192 g/km y sean inferiores a 240 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en el epígrafe 9.º
-
-> Epígrafe 4.º
-
-> a) Vehículos cuyas emisiones oficiales de CO<sub>2</sub> sean iguales o superiores a 240 g/km, con excepción de los vehículos tipo ''quad'' y de los vehículos comprendidos en el epígrafe 9.º
-
-> b) Vehículos respecto de los que sea exigible la medición de sus emisiones de CO<sub>2</sub>, cuando estas no se acrediten.
-
-> c) Vehículos comprendidos en las categorías N2 y N3 acondicionados como vivienda.
-
-> d) Vehículos tipo ''quad''. Se entiende por vehículo tipo ''quad'' el vehículo de cuatro o más ruedas, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y que está dotado de un sistema de tracción adecuado a un uso fuera de carretera.
-
-> e) Motos náuticas. Se entiende por ''moto náutica'' la embarcación propulsada por un motor y proyectada para ser manejada por una o más personas sentadas, de pie o de rodillas, sobre los límites de un casco y no dentro de él.»
 
 Epígrafe 5.º
 

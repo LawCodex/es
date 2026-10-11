@@ -791,71 +791,61 @@ I.3 Composición Subcomisiones Paritarias
 
 I.4 Composición Comisiones Paritarias de Convenios colectivos de ámbitos específicos en la Administración General del Estado
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">N.º miembros</th>
-<th class="cabeza_tabla" colspan="6">Composición y distribución de miembros</th>
+<th colspan="2" rowspan="2">N.º miembros</th>
+<th colspan="6">Composición y distribución de miembros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">UGT</th>
-<th class="cabeza_tabla">CSIF</th>
-<th class="cabeza_tabla">CCOO</th>
-<th class="cabeza_tabla">USO</th>
-<th class="cabeza_tabla">SIAT</th>
-<th class="cabeza_tabla">CGT</th>
+<th>UGT</th>
+<th>CSIF</th>
+<th>CCOO</th>
+<th>USO</th>
+<th>SIAT</th>
+<th>CGT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">AEAT.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>AEAT.</td>
+<td>9</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PATRIMONIO.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>PATRIMONIO.</td>
+<td>4</td>
+<td>1</td>
+<td> </td>
+<td>1</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BOE.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>BOE.</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> TOTAL.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td> TOTAL.</td>
+<td>18</td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
@@ -960,742 +950,712 @@ IV.2 Créditos horarios
 
 IV.2.1 Datos para el cálculo Mesas Delegadas
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="10">Reparto créditos horarios</th>
+<th colspan="10">Reparto créditos horarios</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Ministerio/organismo</th>
-<th class="cabeza_tabla">Total</th>
-<th class="cabeza_tabla">CSIF</th>
-<th class="cabeza_tabla">UGT</th>
-<th class="cabeza_tabla">CCOO</th>
-<th class="cabeza_tabla">CIG</th>
-<th class="cabeza_tabla">ELA</th>
-<th class="cabeza_tabla">LAB</th>
-<th class="cabeza_tabla">SIAT</th>
-<th class="cabeza_tabla">GESTHA</th>
+<th>Ministerio/organismo</th>
+<th>Total</th>
+<th>CSIF</th>
+<th>UGT</th>
+<th>CCOO</th>
+<th>CIG</th>
+<th>ELA</th>
+<th>LAB</th>
+<th>SIAT</th>
+<th>GESTHA</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN.</td>
+<td>13</td>
+<td>5</td>
+<td>5</td>
+<td>3</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES.</td>
+<td>15</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE DEFENSA.</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE DEFENSA.</td>
+<td>33</td>
+<td>12</td>
+<td>9</td>
+<td>8</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE HACIENDA.</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE HACIENDA.</td>
+<td>26</td>
+<td>9</td>
+<td>7</td>
+<td>6</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DEL INTERIOR.</td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DEL INTERIOR.</td>
+<td>21</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE.</td>
+<td>18</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES.</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES.</td>
+<td>30</td>
+<td>12</td>
+<td>10</td>
+<td>8</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE TRABAJO Y ECONOMIA SOCIAL.</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE TRABAJO Y ECONOMIA SOCIAL.</td>
+<td>19</td>
+<td>6</td>
+<td>5</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE INDUSTRIA Y TURISMO.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE INDUSTRIA Y TURISMO.</td>
+<td>14</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACION.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACION.</td>
+<td>13</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE POLITICA TERRITORIAL Y MEMORIA DEMOCRATICA.</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE POLITICA TERRITORIAL Y MEMORIA DEMOCRATICA.</td>
+<td>23</td>
+<td>8</td>
+<td>7</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO PARA LA TRANSICION ECOLOGICA Y EL RETO DEMOGRAFICO.</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO PARA LA TRANSICION ECOLOGICA Y EL RETO DEMOGRAFICO.</td>
+<td>24</td>
+<td>9</td>
+<td>7</td>
+<td>5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE VIVIENDA Y AGENDA URBANA.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE VIVIENDA Y AGENDA URBANA.</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE CULTURA.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE CULTURA.</td>
+<td>14</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE ECONOMIA, COMERCIO Y EMPRESA.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE ECONOMIA, COMERCIO Y EMPRESA.</td>
+<td>18</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE SANIDAD.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE SANIDAD.</td>
+<td>13</td>
+<td>5</td>
+<td>5</td>
+<td>3</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030.</td>
+<td>10</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE CIENCIA, INNOVACION Y UNIVERSIDADES.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE CIENCIA, INNOVACION Y UNIVERSIDADES.</td>
+<td>14</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE IGUALDAD.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE IGUALDAD.</td>
+<td>7</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE INCLUSION, SEGURIDAD SOCIAL Y MIGRACIONES.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE INCLUSION, SEGURIDAD SOCIAL Y MIGRACIONES.</td>
+<td>18</td>
+<td>7</td>
+<td>6</td>
+<td>4</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO PARA LA TRANSFORMACION DIGITAL Y DE LA FUNCION PUBLICA.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO PARA LA TRANSFORMACION DIGITAL Y DE LA FUNCION PUBLICA.</td>
+<td>15</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE JUVENTUD E INFANCIA.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE JUVENTUD E INFANCIA.</td>
+<td>7</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AEAT.</td>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>AEAT.</td>
+<td>51</td>
+<td>16</td>
+<td>13</td>
+<td>10</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td>6</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CSIC.</td>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>CSIC.</td>
+<td>35</td>
+<td>12</td>
+<td>10</td>
+<td>9</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INGESA ESTATUTARIOS.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>INGESA ESTATUTARIOS.</td>
+<td>14</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IIPP.</td>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>IIPP.</td>
+<td>49</td>
+<td>18</td>
+<td>15</td>
+<td>13</td>
+<td>2</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TRAFICO.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>TRAFICO.</td>
+<td>15</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN DE JUSTICIA.</td>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>ADMINISTRACIÓN DE JUSTICIA.</td>
+<td>53</td>
+<td>20</td>
+<td>15</td>
+<td>14</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENTIDADES GESTORAS DE LA SEGURIDAD SOCIAL.</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>ENTIDADES GESTORAS DE LA SEGURIDAD SOCIAL.</td>
+<td>45</td>
+<td>17</td>
+<td>13</td>
+<td>12</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SPEE.</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>SPEE.</td>
+<td>25</td>
+<td>9</td>
+<td>7</td>
+<td>6</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL.</td>
-<td class="cuerpo_tabla_centro">660</td>
-<td class="cuerpo_tabla_centro">238</td>
-<td class="cuerpo_tabla_centro">194</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>TOTAL.</td>
+<td>660</td>
+<td>238</td>
+<td>194</td>
+<td>160</td>
+<td>26</td>
+<td>17</td>
+<td>15</td>
+<td>6</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
 
 IV.2.2 Datos para el cálculo Subcomisiones Paritarias
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="6">Reparto créditos horarios</th>
+<th colspan="6">Reparto créditos horarios</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Ministerio/Organismo</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Total</p>
-<p class="cabeza_tabla">Créditos</p>
+<th>Ministerio/Organismo</th>
+<th>
+<p>Total</p>
+<p>Créditos</p>
 </th>
-<th class="cabeza_tabla">CSIF</th>
-<th class="cabeza_tabla">UGT</th>
-<th class="cabeza_tabla">CCOO</th>
-<th class="cabeza_tabla">CIG</th>
+<th>CSIF</th>
+<th>UGT</th>
+<th>CCOO</th>
+<th>CIG</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE DEFENSA.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE DEFENSA.</td>
+<td>15</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE HACIENDA.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE HACIENDA.</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DEL INTERIOR.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DEL INTERIOR.</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE.</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES.</td>
+<td>15</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL.</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE INDUSTRIA Y TURISMO.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE INDUSTRIA Y TURISMO.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA.</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO.</td>
+<td>11</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE VIVIENDA Y AGENDA URBANA.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE VIVIENDA Y AGENDA URBANA.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE CULTURA.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE CULTURA.</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA.</td>
+<td>11</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE SANIDAD.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE SANIDAD.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030.</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES.</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE IGUALDAD.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE IGUALDAD.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES.</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PUBLICA.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PUBLICA.</td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MINISTERIO DE JUVENTUD E INFANCIA.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>MINISTERIO DE JUVENTUD E INFANCIA.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CSIC.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>CSIC.</td>
+<td>15</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IIPP.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>IIPP.</td>
+<td>11</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CSN.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>CSN.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIEMAT.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>CIEMAT.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ADMINISTRACIÓN DE JUSTICIA.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>ADMINISTRACIÓN DE JUSTICIA.</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENTIDADES GESTORAS DE LA SEGURIDAD SOCIAL.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>ENTIDADES GESTORAS DE LA SEGURIDAD SOCIAL.</td>
+<td>11</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL.</td>
-<td class="cuerpo_tabla_centro">244</td>
-<td class="cuerpo_tabla_centro">73</td>
-<td class="cuerpo_tabla_centro">88</td>
-<td class="cuerpo_tabla_centro">68</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>TOTAL.</td>
+<td>244</td>
+<td>73</td>
+<td>88</td>
+<td>68</td>
+<td>15</td>
 </tr>
 </tbody>
 </table>
 
 IV.2.3 Datos para el cálculo Comisiones Paritarias de Convenios colectivos de ámbitos específicos en la Administración General del Estado
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">N.º créditos horarios</th>
-<th class="cabeza_tabla" colspan="6">Distribución créditos horarios</th>
+<th colspan="2" rowspan="2">N.º créditos horarios</th>
+<th colspan="6">Distribución créditos horarios</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">UGT</th>
-<th class="cabeza_tabla">CSIF</th>
-<th class="cabeza_tabla">CCOO</th>
-<th class="cabeza_tabla">USO</th>
-<th class="cabeza_tabla">SIAT</th>
-<th class="cabeza_tabla">CGT</th>
+<th>UGT</th>
+<th>CSIF</th>
+<th>CCOO</th>
+<th>USO</th>
+<th>SIAT</th>
+<th>CGT</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">AEAT.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>AEAT.</td>
+<td>9</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PATRIMONIO.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>PATRIMONIO.</td>
+<td>4</td>
+<td>1</td>
+<td> </td>
+<td>1</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BOE.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>BOE.</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td> </td>
+<td> </td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TOTAL.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>TOTAL.</td>
+<td>18</td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>

@@ -390,18 +390,6 @@ Uso no doméstico: El consumo de agua realizado desde un establecimiento destina
 
 Vertido: Evacuación deliberada al medio (agua, aire o suelo) de productos, sustancias o compuestos de distinta naturaleza (líquidos, sólidos o gaseosos) que pueden tener una incidencia o impacto ambiental.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 19. Disposición general.**
-
-> 1\. La financiación de los gastos de gestión y explotación de las instalaciones de evacuación, tratamiento, depuración, incluyendo los sistemas antidesbordamientos de colectores generales en sistemas unitarios, a los que se refiere esta ley, así como, en su caso, de las obras de construcción de las mismas, se llevará a cabo con los recursos que se obtengan por aplicación del presente régimen económico-financiero. Asimismo, las inversiones a que se refiere el artículo 1 de esta ley y los gastos de gestión y explotación vinculados a instalaciones para reutilización de aguas regeneradas, podrán financiarse con los citados recursos, con independencia que los mismos puedan recuperarse mediante los correspondientes instrumentos de colaboración en aplicación de la normativa específica.
-
-> 2\. Las administraciones y entidades competentes para la gestión de las instalaciones y la ejecución de las obras podrán solicitar, asimismo, ayudas económicas provenientes de otras administraciones públicas, así como contraer los créditos necesarios con entidades oficiales o privadas.
-
-> 3\. El pago de intereses y la amortización de créditos podrán garantizarse con cargo a la recaudación a obtener con el canon de saneamiento."
-
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -419,16 +407,6 @@ Vertido: Evacuación deliberada al medio (agua, aire o suelo) de productos, sust
 Será compatible, no obstante, con la imposición de tributos locales para financiar la construcción de dichas obras e instalaciones, así como con la percepción de tasas o con cualquier otro precio público o recurso legalmente autorizado para costear la prestación de los servicios de alcantarillado u otras actuaciones que no sean objeto de esta.
 
 4\. No estará sujeto el consumo de agua para su posterior abastecimiento en alta a otros servicios públicos de distribución de agua potable.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "1. A los efectos previstos en el artículo anterior, se exigirá un canon de saneamiento, que tendrá la naturaleza de impuesto y la consideración de ingreso específico del régimen económico-financiero de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana, debiéndose destinar su recaudación, exclusivamente, a la realización de los fines recogidos en la presente Ley.
-
-> 2\. Su hecho imponible lo constituye la producción de aguas residuales, manifestada a través del consumo de agua de cualquier procedencia. El canon será exigible desde la entrada en vigor de la Ley y vendrá referido al volumen de agua consumida para usos domésticos o industriales, pudiendo diferenciarse en su determinación atendiendo a la clase de consumo, a la población y la carga contaminante incorporada al agua. Su aplicación afectará tanto al consumo de agua suministrada por los Ayuntamientos o por las Empresas de abastecimiento, como a los consumos no medidos por contadores o no facturados.
-
-> 3\. El canon de saneamiento es incompatible con la exacción de tasas, precios públicos u otros tributos de carácter local aplicados a la financiación efectiva de la gestión y explotación de las obras e instalaciones a que se refiere la Ley. Pero es compatible con la imposición de tributos locales para financiar la construcción de dichas obras e instalaciones, así como con la percepción de tasas o con cualquier otro precio público o recurso legalmente autorizado para costear la prestación de los servicios de alcantarillado u otras actuaciones que no sean objeto de la misma."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -456,38 +434,6 @@ g) El consumo de agua realizado por las explotaciones agrícolas.
 
 h) Los suministros propios aplicados para usos no domésticos en los sistemas de climatización por geotermia en circuito abierto.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 20 bis. Exenciones.**
-
-> Están exentos de pago del Canon de Saneamiento:
-
-> a) El consumo de agua para uso doméstico en municipios cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes. Asimismo, se encuentra exento el uso doméstico de agua en los núcleos de población separada inscritos en el Registro de Entidades Locales, cuya población de derecho, unida, en su caso, a la ponderada de concentración estacional, sea inferior a 500 habitantes.
-
-> b) El consumo de agua efectuado para sofocar incendios.
-
-> c) El consumo de agua para el riego de campos deportivos, parques y jardines de titularidad pública, siempre que se encuentren afectos a un uso o servicio público.
-
-> d) El consumo de agua para la alimentación de fuentes de titularidad pública afectas a un uso o servicio público.
-
-> e) El consumo de agua para su posterior abastecimiento en alta, sin perjuicio de las obligaciones formales previstas reglamentariamente.
-
-> f) Los consumos de agua producidos en el ámbito de la gestión de las instalaciones cuya financiación asume la Entidad de Saneamiento.
-
-> g) El consumo de agua realizado por las explotaciones ganaderas.
-
-> h) El consumo de agua realizado por las explotaciones agrícolas."
-
-> "**Artículo 21. Sujeto pasivo.**
-
-> 1\. Vendrán obligados al pago del Canon de Saneamiento, en calidad de contribuyentes, las personas físicas o jurídicas, así como las entidades que, aun careciendo de personalidad jurídica, constituyan una unidad económica o un patrimonio separado, cuando realicen cualquier consumo de agua a que se refiere el artículo anterior.
-
-> 2\. En los casos de consumos de agua obtenida a través de entidades suministradoras, éstas estarán obligadas al pago en calidad de sustitutos del contribuyente, debiendo incluir el canon en los recibos o facturas que emitan a cargo de los abonados del suministro separadamente de cualquier otro concepto.
-
-> 3\. Las reclamaciones sobre aplicación y efectividad de las tarifas del canon de saneamiento tendrán carácter económico-administrativo."
-
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -502,14 +448,6 @@ h) Los suministros propios aplicados para usos no domésticos en los sistemas de
 
 2\. En los casos de consumos de agua obtenida a través de entidades suministradoras, estas estarán obligadas, en calidad de sustitutos del contribuyente, al cumplimiento de las obligaciones materiales y formales que establezca esta ley, sin perjuicio de lo establecido en el artículo 43.3 de esta ley.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 22. Usos domésticos.**
-
-> A los efectos de la presente Ley se entiende por usos domésticos los consumos de agua realizados en viviendas que den lugar a aguas residuales generadas principalmente por el metabolismo humano y las actividades domésticas."
-
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -521,18 +459,6 @@ h) Los suministros propios aplicados para usos no domésticos en los sistemas de
 1\. Cuando no ostenten la condición de contribuyentes, en el caso de captaciones propias responderán solidariamente del pago del impuesto las personas titulares de los aprovechamientos y de las instalaciones mediante las que o desde las cuales se produzcan las captaciones o realicen los vertidos contaminantes.
 
 2\. Siempre que no ostenten la condición de contribuyentes, en el caso de suministros de red, responderán solidariamente del pago del impuesto las personas titulares de los contratos o pólizas de suministro domiciliario de agua.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 23. Usos industriales.**
-
-> Se entiende por usos industriales los consumos de aguas realizados desde locales utilizados para efectuar cualquier actividad comercial o industrial.
-
-> No obstante, los usos industriales del agua, efectuados por aquellos sujetos pasivos que reglamentariamente no están obligados a declarar la caracterización de sus vertidos, cuyo volumen, en cómputo anual, no supere los 3.000 m<sup>3</sup> de agua, tendrán, a los efectos de esta ley, la consideración de usos domésticos.
-
-> Además, son usos industriales a los efectos de esta ley los consumos de agua que se apliquen a usos distintos del doméstico y del riego de explotaciones agrarias, entendiendo estas últimas como el conjunto de bienes y derechos organizados empresarialmente para la producción agraria con fines de mercado."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -549,22 +475,6 @@ h) Los suministros propios aplicados para usos no domésticos en los sistemas de
 2\. Cuando el consumo de agua no sea susceptible de medirse con contador u otros mecanismos de control, la base imponible se determinará por el método de estimación objetiva, evaluándose el caudal con la fórmula o fórmulas que se establecen en la sección segunda de este capítulo, o por el de estimación indirecta, según proceda.
 
 3\. La rectificación de la base imponible del canon de saneamiento en los casos de una fuga en la red interna de cualquier consumidor de agua deberá ser reconocida por la EPSAR previa solicitud justificada del interesado. Solicitada la rectificación, la EPSAR comprobará si se cumplen los requisitos para ser reconocida y, en tal caso, procederá a determinar un consumo típico para el periodo o periodos afectados, tomando como tal, el consumo del mismo período del ejercicio anterior, recalculando la cuota de consumo que correspondería a la parte del consumo habitual. La EPSAR, mediante resolución, reconocerá la fuga, rectificará las facturas, lecturas o liquidaciones afectadas, lo que comunicará tanto al interesado como a la entidad suministradora, en su caso. La entidad suministradora deberá emitir una nueva factura con los datos rectificados por EPSAR y adoptar las acciones que correspondan en ejecución de la resolución dictada. Cuando no exista periodo de referencia, el consumo típico del periodo se determinará como media aritmética de los periodos no afectados por esta u otra fuga.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 24. Determinación del consumo de agua.**
-
-> Para la determinación del consumo de agua en el caso de suministros propios, los contribuyentes están obligados a instalar y mantener, a su cargo, contadores u otros mecanismos de medida directa del volumen real de agua efectivamente consumido. Tales contadores o mecanismos de medida del consumo deberán cumplir, en sus características y condiciones de instalación y funcionamiento, las especificaciones técnicas establecidas reglamentariamente.
-
-> Cuando los suministros propios o los procedentes de personas o entidades suministradoras no estén medidos de forma directa por los mecanismos a los que hace referencia el párrafo anterior, el consumo estimado se evaluará de la siguiente manera, sin perjuicio de las facultades de comprobación de la Administración:
-
-> A) Cuando se trate de consumos domésticos, a razón de 200 litros por habitante de la vivienda y día. En caso de desconocerse el número de "domiciliado" u "ocupante" de la vivienda, se estimará que existen tres habitantes por vivienda.
-
-> B) Cuando se trate de consumos industriales, el menor de los siguientes volúmenes: el obtenido a través de la fórmula o fórmulas determinadas reglamentariamente; o el que figure en la autorización o concesión administrativa de la explotación del suministro.
-
-> No obstante, cuando el volumen consumido para usos industriales no se pueda determinar conforme a lo establecido en el párrafo anterior, se tomará como tal el declarado por el contribuyente en la forma establecida reglamentariamente."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -587,46 +497,6 @@ En cada ley de presupuestos de la Generalitat se determinarán las actuaciones f
 4\. La cuota de consumo resultará de multiplicar el tipo aplicable en cada caso por el volumen que se facture o liquide, expresado en metros cúbicos (m<sup>3</sup>).
 
 5\. Cuando en un período de liquidación sean aplicables sucesivamente diferentes tipos de gravamen, estos gravarán el consumo que se impute proporcionalmente en función del número de días de vigencia de cada uno de aquellos.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 25. Cuota.**
-
-> 1\. La cuota del Canon de Saneamiento, que se integra por la suma de las cuotas de servicio y de consumo, se determinará de acuerdo con las tarifas fijadas anualmente en la Ley de Presupuestos de La Generalitat.
-
-> 2\. En los consumos para usos industriales, la cuota resultante del Canon de Saneamiento se determinará por aplicación a las cuotas de servicio y de consumo del coeficiente corrector, establecido con arreglo a los siguientes criterios:
-
-> a) La incorporación ostensible de agua a los productos fabricados.
-
-> b) Las pérdidas de agua por evaporación.
-
-> c) El volumen de agua extraído de materias primas.
-
-> d) La carga contaminante que se incorpore al agua utilizada o que se elimine de ésta.
-
-> Tales criterios darán lugar a un coeficiente corrector único, cuyos límites, inferior y superior, serán los siguientes:
-
-> A) 0,1 y 8 cuando se trate de establecimientos que viertan la totalidad de sus aguas residuales a Dominio Público Hidráulico o Dominio Público Marítimo-Terrestre.
-
-> B) 0,1 y 8 cuando se trate de establecimientos que viertan a Dominio Público Hidráulico o Dominio Público Marítimo-Terrestre más de 300.000 m3/año, siempre que dicho volumen constituya, al menos, el 80 por 100 del vertido total.
-
-> C) 0,1 y 10 cuando se trate de establecimientos que efectúen una eliminación efectiva de la carga contaminante de su vertido:
-
-> Mediante el tratamiento de las aguas residuales procedentes del proceso productivo en una estación depuradora completa.
-
-> A estos efectos, se entenderá como estación depuradora completa aquella que, además de eliminar la contaminación orgánica y/o inorgánica, disponga de un sistema de tratamiento y eliminación de fangos.
-
-> Mediante la segregación de las aguas residuales procedentes del proceso productivo para su gestión de manera independiente al resto de vertidos efectuados sobre las redes de saneamiento públicas.
-
-> D) 0,1 y 10 cuando, como consecuencia del proceso productivo, el balance de agua suponga un volumen vertido inferior al 25 por 100 del total consumido.
-
-> Para el resto de establecimientos, los límites del coeficiente corrector serán entre 0,5 y 10.
-
-> Excepcionalmente, para las actividades englobadas en los epígrafes B, C, D o E del CNAE '93 podrán establecerse coeficientes por debajo de los citados límites inferiores, en virtud de acuerdo del Consell. En tales casos, el coeficiente corrector (CC) mínimo nunca podrá ser inferior a 0,001.
-
-> 3\. Cuando una empresa, local o establecimiento dispongo de consumos para usos industriales de un sistema de climatización por geotermia en circuito abierto, debidamente autorizado por la Administración hídrica, al suministro propio resultante se le aplicarán las tarifas fijadas en la Disposición Adicional Cuarta de esta ley. La aplicación de estas tarifas no impedirá la determinación del coeficiente que, en su caso, corresponda al resto de actividades desarrolladas, excluidos los usos industriales del sistema de climatización por geotermia en circuito abierto, conforme al que se dispone en los apartados anteriores."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -658,32 +528,6 @@ El derecho a aplicar esta bonificación requerirá el reconocimiento de la EPSAR
 
 En el caso de que se dicte resolución estimatoria, esta producirá efectos desde la fecha de la solicitud y será comunicada a todos los obligados tributarios encargados de su aplicación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 25 bis. Bonificaciones en la cuota.**
-
-> Los establecimientos industriales cuya actividad esté englobada en los epígrafes B, C, D o E del CNAE´93 se podrán aplicar una bonificación del 45 por 100 de la cuota de consumo del Canon de Saneamiento en la parte que grave consumos procedentes de aguas tratadas en instalaciones públicas de saneamiento y depuración, suministradas directamente por la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
-
-> La aplicación de está bonificación estará sujeta al cumplimiento de los siguientes requisitos:
-
-> Solicitud expresa del titular de la actividad industrial, o del representante debidamente acreditado a estos efectos, y reconocimiento mediante resolución dictada por el órgano competente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
-
-> Destino del consumo de las aguas tratadas, al menos en un 70 por 100, a usos relacionados con la actividad productiva desarrollada.
-
-> Cumplimiento por el solicitante, en materia de autorización o concesión de reutilización de aguas depuradas, de lo dispuesto en la normativa sectorial aplicable.
-
-> El procedimiento para el reconocimiento de la bonificación y los requerimientos técnicos específicos para la aplicación de la misma se regularán reglamentariamente."
-
-> "**Artículo 26. Devengo.**
-
-> 1\. El canon de saneamiento se devengará con el consumo de agua, y su pago será exigible al mismo tiempo que las cuotas correspondientes al suministro de agua.
-
-> A tal efecto, en los recibos que abonen los usuarios de las redes de abastecimiento de agua deberá figurar, sin perjuicio de otros componentes, el canon de saneamiento como elemento diferenciado.
-
-> 2\. En el supuesto de usuarios no sometidos al pago de tarifas por suministro de agua, el pago del canon se realizará por la persona física o jurídica titular del aprovechamiento de agua, o propietaria de instalaciones de recogida de aguas pluviales o similares, mediante liquidaciones periódicas, en la forma que reglamentariamente se determine."
-
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -699,20 +543,6 @@ a) En el caso de abastecimientos servidos y facturados por entidades suministrad
 b) En el caso de abastecimientos no servidos por entidades suministradoras de agua, el último día del período de liquidación.
 
 c) En los casos de baja en el suministro propio, el día en que sea efectiva dicha baja, siempre que se comunique al órgano gestor del impuesto por la persona interesada.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 27. Gestión del canon de saneamiento.**
-
-> 1\. La gestión del canon de saneamiento corresponde a la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana, y su percepción se efectuará por la misma, directamente a los contribuyentes o a través de entidades suministradoras de agua, consorcios o entidades públicas, quienes ingresarán lo recaudado a favor de aquélla, en los plazos que se establezcan reglamentariamente.
-
-> 2\. La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunidad Valenciana podrá comprobar e investigar los hechos, actos, situaciones, actividades, explotaciones, valoraciones y demás circunstancias que integren o condicionen el hecho imponible, la base imponible y los demás elementos necesarios para la determinación y percepción del rendimiento del canon de saneamiento, y, en particular, el consumo del agua, las características de las aguas residuales y los demás datos necesarios para la determinación de la carga contaminante de aquéllas, así como la facturación y cobro del canon por las entidades suministradoras.
-
-> 3\. En todo caso, corresponde a la Intervención de la Generalitat Valenciana la fiscalización de la gestión del canon de saneamiento, en la forma establecida reglamentariamente.
-
-> 4\. En el supuesto de que el canon de saneamiento no sea satisfecho en el período de ingreso voluntario, podrá utilizarse la vía de apremio para su exacción."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -741,16 +571,6 @@ Los periodos de liquidación así determinados se aplicarán para todo nuevo sum
 Esta obligación se mantendrá a pesar de que durante el periodo no se haya facturado cantidad alguna.
 
 3\. Serán exigibles mediante liquidación tributaria las cuotas del canon devengadas durante el periodo de liquidación como consecuencia de la realización de suministros propios.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 28. Regimen sancionador.**
-
-> 1\. Las infracciones tributarias del Canon de Saneamiento serán calificadas y sancionadas de acuerdo con lo dispuesto en la Ley General Tributaria y demás normas de general aplicación, con las especialidades que establece la presente Ley.
-
-> 2\. La competencia para acordar e imponer sanciones tributarias corresponde al Gerente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -807,22 +627,6 @@ Esta obligación se mantendrá a pesar de que durante el periodo no se haya fact
 
 3\. Cuando el volumen consumido no pueda estimarse mediante contador u otro aparato de medida similar, la cuota de consumo se evaluará a razón de 200 litros por habitante de la vivienda y día. En caso de desconocerse el número de habitantes, se presumirá, salvo prueba en contrario, que existen tres habitantes por vivienda.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 29. Infracción tributaria por incumplimiento de la obligación de facturación del Canon de Saneamiento.**
-
-> 1\. Constituyen infracción tributaria grave las siguientes conductas:
-
-> a) El incumplimiento de la obligación de incluir el Canon de Saneamiento en la factura o recibo del suministro de agua.
-
-> b) La inclusión del Canon de Saneamiento en la factura o recibo del suministro de agua, sin la debida separación de los restantes conceptos.
-
-> La base de la sanción será el importe total indebidamente facturado por cualquiera de los dos motivos citados y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 30.000 euros.
-
-> 2\. Constituye infracción tributaria leve la inclusión del Canon de Saneamiento en documento separado de la factura o recibo del suministro de agua. La base de la sanción será el importe total del Canon de Saneamiento facturado indebidamente por este motivo y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 3.000 euros."
-
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -863,16 +667,6 @@ Desde el momento de la aprobación del coeficiente corrector quedarán sometidos
 
 c) Los usos no domésticos que utilicen la totalidad del agua suministrada al establecimiento o explotación en aparatos sanitarios y generen un único vertido de aguas residuales procedentes de aquellos, con independencia de la actividad que desarrollen, tendrán la consideración de usos domésticos, siéndoles de aplicación las tarifas previstas para estos usos. En tales casos no estarán obligados a tributar según tipos para usos no domésticos corregidos por el índice corrector ni podrán solicitar la aprobación de un coeficiente corrector.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 30. Infracción tributaria por resistencia, excusa o negativa a las actuaciones de obtención de los datos necesarios para la determinación del coeficiente corrector o de la deuda tributaria en los supuestos de suministros propios de agua.**
-
-> Constituye infracción tributaria la resistencia, excusa o negativa a las actuaciones de obtención de los datos necesarios para la determinación del coeficiente corrector o de la deuda tributaria en los supuestos de suministros propios de agua.
-
-> La infracción tributaria prevista en este artículo será grave y será sancionada con multa de 300 euros, si se ha incumplido por primera vez el requerimiento; con multa de 600 euros, si se ha incumplido por segunda vez; y con multa de 900 euros, si se incumple por tercera vez."
-
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -883,69 +677,64 @@ c) Los usos no domésticos que utilicen la totalidad del agua suministrada al es
 
 1\. La tarifa de usos no domésticos del canon de saneamiento resultará de la suma de una cuota de servicio, consistente en un importe en euros a satisfacer en función del calibre del contador, y de una cuota de consumo, en euros por metro cúbico facturado o liquidado, de acuerdo con la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Calibre del contador</p>
-<p class="cabeza_tabla">(en mm)</p>
+<th>
+<p>Calibre del contador</p>
+<p>(en mm)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota de servicio por abonado</p>
-<p class="cabeza_tabla">(euros/año)</p>
+<th>
+<p>Cuota de servicio por abonado</p>
+<p>(euros/año)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tipo cuota de consumo</p>
-<p class="cabeza_tabla">(euros/ m<sup>3</sup>)</p>
+<th>
+<p>Tipo cuota de consumo</p>
+<p>(euros/ m<sup>3</sup>)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 13.</td>
-<td class="cuerpo_tabla_coma">116,39</td>
-<td class="cuerpo_tabla_coma" rowspan="10">0.570</td>
+<td>Hasta a 13.</td>
+<td>116,39</td>
+<td rowspan="10">0.570</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 15.</td>
-<td class="cuerpo_tabla_coma">174,48</td>
+<td>Hasta a 15.</td>
+<td>174,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 20.</td>
-<td class="cuerpo_tabla_coma">290,65</td>
+<td>Hasta a 20.</td>
+<td>290,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 25.</td>
-<td class="cuerpo_tabla_coma">407,05</td>
+<td>Hasta a 25.</td>
+<td>407,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 30.</td>
-<td class="cuerpo_tabla_coma">581,67</td>
+<td>Hasta a 30.</td>
+<td>581,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 40.</td>
-<td class="cuerpo_tabla_coma">1.163,34</td>
+<td>Hasta a 40.</td>
+<td>1.163,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 50.</td>
-<td class="cuerpo_tabla_coma">1.745,02</td>
+<td>Hasta a 50.</td>
+<td>1.745,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 65.</td>
-<td class="cuerpo_tabla_coma">2.326,47</td>
+<td>Hasta a 65.</td>
+<td>2.326,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hasta a 80.</td>
-<td class="cuerpo_tabla_coma">2.908,34</td>
+<td>Hasta a 80.</td>
+<td>2.908,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayor de 80.</td>
-<td class="cuerpo_tabla_coma">4.071,50</td>
+<td>Mayor de 80.</td>
+<td>4.071,50</td>
 </tr>
 </tbody>
 </table>
@@ -963,18 +752,6 @@ c) Los usos no domésticos que utilicen la totalidad del agua suministrada al es
 | De 50.001 a 75.000. | 50 |
 | De 75.001 a 100.000. | 65 |
 | De 100.001 a 125.000: | 80 |
-
-> Téngase en cuenta que esta actualización, establecida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
-> Redacción anterior:
-
-> "**Artículo 31. Infracción tributaria por no disponer de arqueta de registro o de contador homologado.**
-
-> Constituye infracción tributaria la ausencia de arqueta de registro o dispositivo que lo sustituya o de contador homologado o de otros aparatos de medición del consumo de agua, así como su mantenimiento en condiciones no operativas.
-
-> La infracción será grave cuando medie requerimiento de instalación emitido por la Entidad de Saneamiento y será sancionada con multa de 300 euros, si se ha incumplido por primera vez el requerimiento; con 600 euros, si se ha incumplido por segunda vez; y con 900 euros, si se incumple por tercera vez.
-
-> En los supuestos no previstos en el apartado anterior la infracción será leve y será sancionada con multa fija de 200 euros."
 
 > Se modifica por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1012,8 +789,6 @@ c) Cuando exista autorización o concesión administrativa, el consumo anual de 
 
 d) Cuando el consumo no se pueda estimar conforme a lo establecido en los tres subapartados anteriores, se tomará, como volumen consumido estimado para cada periodo, el declarado por el contribuyente en la forma establecida reglamentariamente.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1021,8 +796,6 @@ d) Cuando el consumo no se pueda estimar conforme a lo establecido en los tres s
 ##### Artículo 33. Estimación del consumo en los casos de suministros propios cuando se produzca una avería del contador.
 
 Excepcionalmente, en los supuestos de consumo de agua procedente de suministros propios, cuando por avería ocasional del contador no se pueda determinar de forma directa la base imponible de un determinado periodo, y siempre que dicha circunstancia se ponga en conocimiento de la Entidad de Saneamiento en el plazo de 24 horas desde el suceso, el caudal consumido se estimará de acuerdo con la estadística del consumo histórico del mismo periodo del año anterior, si lo hubiera, aplicándose en otro caso la regla general de la letra d), del apartado segundo del artículo 32. Cuando la avería no se comunique en debido plazo o cuando, habiéndose comunicado, no exista estadística del consumo histórico del mismo periodo del año anterior, se aplicará, para la determinación de los consumos estimados, la regla que proceda de las previstas para la estimación del volumen consumido conforme al uso de que se trate.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1033,8 +806,6 @@ Excepcionalmente, en los supuestos de consumo de agua procedente de suministros 
 1\. El procedimiento para la determinación del coeficiente corrector se iniciará mediante la presentación de una declaración de inicio o modificación de producción de aguas residuales, o de oficio.
 
 2\. La EPSAR mantendrá un Registro de contribuyentes por usos no domésticos en el que se inscribirán los obligados tributarios que hayan presentado las declaraciones de producción de aguas residuales o para los que se haya determinado de oficio un coeficiente corrector. Dicho Registro se regirá por las normas contenidas en una orden aprobada por la conselleria en materia de hacienda.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1092,8 +863,6 @@ El coeficiente corrector resultante producirá efectos desde la fecha de present
 
 7\. El coeficiente corrector determinado por la Administración producirá efectos desde el momento de notificación de la resolución.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1108,8 +877,6 @@ b) En los procedimientos iniciados de oficio se producirá la caducidad, sin per
 
 2\. La resolución de determinación del coeficiente corrector producirá efectos desde el momento establecido en la normativa reguladora de cada procedimiento de determinación del coeficiente corrector y será notificada tanto al sujeto pasivo como al resto de obligados tributarios encargados de su aplicación. En la misma se incluirá información sobre el importe del Canon resultante de la aplicación del nuevo coeficiente sobre el volumen de agua declarado o el determinado por la administración.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1121,8 +888,6 @@ En el plazo de seis meses contados a partir de la fecha en que se produzca el ce
 La presentación de una declaración de cese de producción de aguas residuales dejará sin vigencia el último coeficiente corrector desde la fecha que se determine en la resolución expresa que declare la baja en el Registro de contribuyentes por usos no domésticos.
 
 La notificación de la resolución del procedimiento deberá producirse en el plazo de 6 meses. En caso de falta de resolución, esta se entenderá estimada con efectos desde la fecha de la declaración.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1136,23 +901,17 @@ La notificación de la resolución del procedimiento deberá producirse en el pl
 
 3\. En los casos de falta de arqueta de registro u otra alternativa técnica o de acondicionamiento del punto de muestreo, la Entidad de Saneamiento podrá determinar la carga contaminante del vertido a partir de la realización de un muestreo puntual.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 ### Sección 3.ª Obligaciones materiales y formales
 
-> Téngase en cuenta que esta Sección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 #### Subsección 1.ª Consumos de agua obtenida a través de entidades suministradoras
-
-> Téngase en cuenta que esta Subsección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1172,8 +931,6 @@ d) Cumplir con las obligaciones contables y registrales que permitan determinar 
 
 2\. Las declaraciones que se mencionan en el presente artículo deberán formularse con arreglo a los procedimientos y modelos aprobados mediante orden de la conselleria competente en materia de hacienda.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1184,8 +941,6 @@ Mediante orden de la persona titular de la conselleria competente en materia de 
 
 El registro se formará mediante la presentación por las entidades suministradoras de las correspondientes declaraciones de inicio, modificación o cese de la prestación del servicio en cada municipio abastecido.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1195,8 +950,6 @@ El registro se formará mediante la presentación por las entidades suministrado
 1\. Toda entidad suministradora deberá incluir el canon de saneamiento en las facturas de agua que emita a sus abonados, consumidores finales, que estarán obligados a reintegrarlo.
 
 2\. La factura contendrá, de manera diferenciada del resto de conceptos y con el suficiente detalle, expresión de los elementos determinantes del tipo aplicable, los tipos aplicados, el coeficiente corrector aplicado, en su caso, el volumen consumido, las cuotas de servicio y consumo, las bonificaciones aplicadas y la cuota a ingresar del impuesto.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1222,50 +975,45 @@ c) Que el importe del canon incluido en la factura pendiente de ingreso sea supe
 
 Dicho porcentaje se establece en función del número de abonados totales de cada entidad suministradora, de acuerdo con la tabla y la fórmula siguientes:
 
-<table class="tabla">
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="33%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tramos para calcular la bonificación</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Escalado de porcentajes</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<th colspan="2">Tramos para calcular la bonificación</th>
+<th rowspan="2">
+<p>Escalado de porcentajes</p>
+<p>–</p>
+<p>Porcentaje</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Abonados desde</th>
-<th class="cabeza_tabla">Abonados hasta</th>
+<th>Abonados desde</th>
+<th>Abonados hasta</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1.000</td>
-<td class="cuerpo_tabla_centro">3,00</td>
+<td>1</td>
+<td>1.000</td>
+<td>3,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.001</td>
-<td class="cuerpo_tabla_centro">10.000</td>
-<td class="cuerpo_tabla_centro">2,00</td>
+<td>1.001</td>
+<td>10.000</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.001</td>
-<td class="cuerpo_tabla_centro">100.000</td>
-<td class="cuerpo_tabla_centro">0,50</td>
+<td>10.001</td>
+<td>100.000</td>
+<td>0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">100.001</td>
-<td class="cuerpo_tabla_centro">500.000</td>
-<td class="cuerpo_tabla_centro">0,20</td>
+<td>100.001</td>
+<td>500.000</td>
+<td>0,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Más de 500.000</td>
-<td class="cuerpo_tabla_centro">0,10</td>
+<td colspan="2">Más de 500.000</td>
+<td>0,10</td>
 </tr>
 </tbody>
 </table>
@@ -1286,15 +1034,11 @@ A los efectos de este artículo, se considerará como número de abonados el nú
 
 La contabilidad de las personas o entidades que actúen como sustitutos del contribuyente deberá permitir determinar, en todo momento y con la debida precisión, el importe del canon de saneamiento facturado, las cuotas ingresadas por los abonados, así como el cumplimiento efectivo de la obligación de inclusión en la factura.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 #### Subsección 2.ª Consumos de agua procedentes de suministros propios.
-
-> Téngase en cuenta que esta subsección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1342,8 +1086,6 @@ Cualquier accidente o avería que comporte una modificación de las lecturas del
 
 Igual presunción se establecerá para cuando el contador se instale tras el inicio de los suministros propios.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1355,8 +1097,6 @@ Igual presunción se establecerá para cuando el contador se instale tras el ini
 2\. La presentación de la declaración censal de inicio determinará el alta del obligado tributario en el Registro de suministros propios.
 
 3\. Los obligados tributarios registrados en el Registro de Suministros Propios deberán presentar una declaración de modificación de los datos registrados o de cese en el aprovechamiento propio en el plazo de un mes contado desde el momento en que se produjo la alteración en los datos facilitados o la finalización.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1376,8 +1116,6 @@ Igual presunción se establecerá para cuando el contador se instale tras el ini
 
 ### Sección 4.ª Aplicación del canon de saneamiento.
 
-> Téngase en cuenta que esta sección, añadida por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1387,8 +1125,6 @@ Igual presunción se establecerá para cuando el contador se instale tras el ini
 1\. Las competencias relativas a la aplicación del tributo y el ejercicio de la potestad sancionadora en el ámbito del canon de saneamiento, corresponden a la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana.
 
 2\. Corresponde a la Presidencia de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana el dictado de los actos de gestión tributaria y, en particular, la concesión de beneficios de carácter rogado, la resolución de los procedimientos de determinación o cese de vigencia del coeficiente corrector; los actos de recaudación e inspección tributaria del canon de saneamiento, la resolución de los recursos de reposición y la tramitación de los procedimientos especiales de revisión en vía administrativa de los actos dictados en el ejercicio de las funciones anteriores.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1400,8 +1136,6 @@ Igual presunción se establecerá para cuando el contador se instale tras el ini
 
 2\. Las actuaciones de comprobación e investigación del canon de saneamiento serán realizadas por el personal inspector de la Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana de conformidad con la Ley general tributaria y su normativa de desarrollo, ostentando en su ejercicio de las facultades atribuidas al personal inspector.
 
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
-
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
@@ -1409,8 +1143,6 @@ Igual presunción se establecerá para cuando el contador se instale tras el ini
 ##### Artículo 51. Convenios de recaudación.
 
 La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana podrá encomendar el ejercicio de las funciones relacionadas con la recaudación en período ejecutivo a otras entidades de derecho público con las que se haya formalizado el correspondiente convenio o en las que se haya delegado esta facultad.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959)
 
@@ -1423,8 +1155,6 @@ La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valen
 2\. La inclusión del canon de saneamiento en la factura del agua podrá ser objeto de reclamación económico-administrativa ante el Jurat Economicoadministratiu.
 
 3\. Corresponde a la Presidencia del Consejo de Administración de Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valenciana la resolución de los procedimientos especiales de revisión que puedan plantearse con relación a los actos de aplicación del tributo.
-
-> Téngase en cuenta que este artículo, añadido por el art. 35 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, en la redacción dada por la disposición final 2 del Decreto-ley 8/2025, de 10 de junio. [Ref. DOGV-r-2025-90135](https://www.boe.es/buscar/doc.php?id=DOGV-r-2025-90135)
 
 > Se añade por el art. 35 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959).
 
@@ -1442,8 +1172,6 @@ La Entidad Pública de Saneamiento de las Aguas Residuales de la Comunitat Valen
 
 2\. La competencia para acordar el inicio del procedimiento sancionador e imponer sanciones tributarias corresponde al Gerente de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunitat Valenciana.
 
-> Téngase en cuenta que este artículo, añadido por el art. 36 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
-
 > Se añade por el art. 36 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959).
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
@@ -1460,8 +1188,6 @@ La base de la sanción será el importe total indebidamente facturado por cualqu
 
 2\. Constituye infracción tributaria leve la inclusión del canon de saneamiento en documento separado de la factura o recibo del suministro de agua. La base de la sanción será el importe total de las cuotas a ingresar del canon facturadas de manera separada durante el período de liquidación y la sanción consistirá en multa pecuniaria proporcional del 1 por ciento, sin que esta cantidad pueda exceder de 3.000 euros.
 
-> Téngase en cuenta que este artículo, añadido por el art. 36 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
-
 > Se añade por el art. 36 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959).
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
@@ -1473,8 +1199,6 @@ Constituye infracción tributaria la ausencia de arqueta de registro o dispositi
 La infracción será grave cuando medie requerimiento de instalación emitido por la Entidad de Saneamiento y será sancionada con multa de 300 euros, si se ha incumplido por primera vez el requerimiento; con 600 euros, si se ha incumplido por segunda vez; y con 900 euros, si se incumple por tercera vez.
 
 En los supuestos no previstos en el apartado anterior la infracción será leve y será sancionada con multa fija de 200 euros.
-
-> Téngase en cuenta que este artículo, añadido por el art. 36 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
 
 > Se añade por el art. 36 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959).
 
@@ -1817,8 +1541,6 @@ b. La totalidad del volumen de aguas residuales generadas en el proceso producti
 
 c. El volumen vertido no genere un impacto negativo sobre el medio ambiente.
 
-> Téngase en cuenta que este anexo, añadido por el art. 37 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
-
 > Se añade por el art. 37 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959).
 
 > Esta modificación entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
@@ -1954,8 +1676,6 @@ Esta tercera muestra se analizará dentro del plazo de caducidad de esta, en un 
 En el caso de que el valor de la suma del *ICC* y del *ICE* resultantes del análisis inicial sea inferior al valor de la suma de los mismos índices obtenidos del análisis contradictorio, se tomará como valor definitivo el primero.
 
 La tercera muestra no podrá analizarse transcurrido un mes desde el muestreo, dado su carácter perecedero, debiendo destruirse tras el transcurrido dicho plazo.
-
-> Téngase en cuenta que este anexo, añadido por el art. 38 de la Ley 5/2025, de 30 de mayo, [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959), entra en vigor el 1 de enero de 2026, según establece la disposición final 3 de la citada Ley, redactada conforme a la corrección de errores publicada en el DOGV núm. 8549, de 16 de mayo de 2019. [Ref. BOE-A-2025-12535](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12535)
 
 > Se añade por el art. 38 de la Ley 5/2025, de 30 de mayo. [Ref. BOE-A-2025-11959](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11959).
 

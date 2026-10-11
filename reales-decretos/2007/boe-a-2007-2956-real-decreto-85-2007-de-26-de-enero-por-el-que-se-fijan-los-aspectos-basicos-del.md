@@ -230,61 +230,61 @@ La nota media será la media aritmética de las calificaciones de todas las asig
 
 La no superación de cualquiera de las asignaturas que se detallan a continuación impedirá en todos los casos la promoción al curso siguiente:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Especialidad</p>
+<p>Especialidad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Asignaturas</p>
+<p>Asignaturas</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Baile flamenco.</p>
+<p>Baile flamenco.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Danza española.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Baile flamenco.</p>
+<p>Danza española.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Danza clásica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Danza clásica.</p>
+<p>Baile flamenco.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Danza contemporánea.</p>
+<p>Danza clásica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Técnicas de danza contemporánea.</p>
+<p>Danza clásica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Danza contemporánea.</p>
+</td>
+<td>
+<p>Técnicas de danza contemporánea.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Danza española.</p>
+<p>Danza española.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escuela bolera.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Danza estilizada.</p>
+<p>Escuela bolera.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Flamenco.</p>
+<p>Danza estilizada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Flamenco.</p>
 </td>
 </tr>
 </tbody>
@@ -942,196 +942,196 @@ Práctica de la Danza Contemporánea para adquirir una sólida base técnica que
 
 ## ANEXO II — Horario escolar mínimo de las enseñanzas profesionales de danza
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Asignaturas</p>
+<p>Asignaturas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tiempos mínimos</p>
-<p class="cabeza_tabla">por grado</p>
-<p class="cabeza_tabla">expresados</p>
-<p class="cabeza_tabla">en horas</p>
+<p>Tiempos mínimos</p>
+<p>por grado</p>
+<p>expresados</p>
+<p>en horas</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="centro_cursiva">Especialidad de Baile Flamenco</p>
+<p>Especialidad de Baile Flamenco</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Técnicas Básicas de danza</p>
+<p>Técnicas Básicas de danza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">905</p>
+<p>905</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Danza Española</p>
+<p>Danza Española</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">445</p>
+<p>445</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Baile Flamenco</p>
+<p>Baile Flamenco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">780</p>
+<p>780</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Estudio del Cante de Acompañamiento</p>
+<p>Estudio del Cante de Acompañamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
+<p>130</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Estudio de la Guitarra de Acompañamiento</p>
+<p>Estudio de la Guitarra de Acompañamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
+<p>130</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Música</p>
+<p>Música</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="centro_cursiva">Especialidad de Danza Clásica</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Danza Clásica</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.662</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Danza Contemporánea</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">342</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Música</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">130</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Repertorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">386</p>
+<p>130</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="centro_cursiva">Especialidad de Danza Española</p>
+<p>Especialidad de Danza Clásica</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Danza Clásica</p>
+<p>Danza Clásica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.175</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escuela Bolera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">420</p>
+<p>1.662</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Danza Estilizada</p>
+<p>Danza Contemporánea</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">320</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Flamenco</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">320</p>
+<p>342</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Folklore</p>
+<p>Música</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">155</p>
+<p>130</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Música</p>
+<p>Repertorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
+<p>386</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="centro_cursiva">Especialidad de Danza Contemporánea</p>
+<p>Especialidad de Danza Española</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Danza Clásica</p>
+<p>Danza Clásica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Improvisación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">260</p>
+<p>1.175</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Música</p>
+<p>Escuela Bolera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
+<p>420</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Técnicas de Danza Contemporánea</p>
+<p>Danza Estilizada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.150</p>
+<p>320</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Flamenco</p>
+</td>
+<td>
+<p>320</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Folklore</p>
+</td>
+<td>
+<p>155</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Música</p>
+</td>
+<td>
+<p>130</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Especialidad de Danza Contemporánea</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Danza Clásica</p>
+</td>
+<td>
+<p>980</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Improvisación</p>
+</td>
+<td>
+<p>260</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Música</p>
+</td>
+<td>
+<p>130</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Técnicas de Danza Contemporánea</p>
+</td>
+<td>
+<p>1.150</p>
 </td>
 </tr>
 </table>

@@ -1412,25 +1412,20 @@ Tabla 2. Información requerida ante un aviso de emergencia en un TTMMP por carr
 
 a) Datos Generales.
 
-<table class="tabla">
-<colgroup>
-<col width="57%">
-<col width="33%">
-<col width="10%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha del Informe:</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td>Fecha del Informe:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Modo de transporte</td>
-<td class="cuerpo_tabla_izq">Carretera</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td rowspan="2">Modo de transporte</td>
+<td>Carretera</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ferrocarril</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Ferrocarril</td>
+<td>☐</td>
 </tr>
 </tbody>
 </table>
@@ -1444,38 +1439,32 @@ b) Localización del Suceso.
 | Término municipal. |  |
 | Provincia. |  |
 
-<table class="tabla">
-<colgroup>
-<col width="40%">
-<col width="10%">
-<col width="40%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">Modo de transporte</th>
+<th colspan="4">Modo de transporte</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Modo de transporte carretera</td>
-<td class="cuerpo_tabla_centro" colspan="2">Modo de transporte ferrocarril</td>
+<td colspan="2">Modo de transporte carretera</td>
+<td colspan="2">Modo de transporte ferrocarril</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carretera</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">Estación/es colaterales</td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
+<td>Carretera</td>
+<td> </td>
+<td rowspan="2">Estación/es colaterales</td>
+<td rowspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PK</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>PK</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RIMP</td>
-<td class="cuerpo_tabla_centro">☐</td>
-<td class="cuerpo_tabla_centro">PK</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>RIMP</td>
+<td>☐</td>
+<td>PK</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1494,28 +1483,24 @@ d) Descripción del suceso.
 
 1.º Forma del transporte:
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Forma del transporte</th>
+<th colspan="2">Forma del transporte</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Granel.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Granel.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cisterna.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Cisterna.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bulto.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Bulto.</td>
+<td>☐</td>
 </tr>
 </tbody>
 </table>
@@ -1540,38 +1525,34 @@ e) Clasificación de la situación de la emergencia: (Según el punto 2.7.1. Def
 
 f) Causas del accidente:
 
-<table class="tabla">
-<colgroup>
-<col width="50%">
-<col width="10%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Error del conductor.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Error del conductor.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Causas externas.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Causas externas.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Problemas cabeza tractora/plataforma.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Problemas cabeza tractora/plataforma.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fallo en el contenedor.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Fallo en el contenedor.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mal acondicionamiento de la carga.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Mal acondicionamiento de la carga.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desconocidas.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Desconocidas.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otras.</td>
+<td colspan="2">Otras.</td>
 </tr>
 </tbody>
 </table>
@@ -1616,34 +1597,30 @@ h) Medidas adoptadas en el accidente.
 
 1.º Medidas para mitigar los efectos del accidente.
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="10%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Contención.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Contención.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Corte de tráfico.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Corte de tráfico.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dilución.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Dilución.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Limpieza.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trasvase.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Trasvase.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otros.</td>
+<td colspan="2">Otros.</td>
 </tr>
 </tbody>
 </table>
@@ -1652,26 +1629,22 @@ Observaciones:
 
 2.º Medidas de protección a la población.
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="10%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Alejamiento.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Alejamiento.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Confinamiento.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Confinamiento.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Evacuación.</td>
-<td class="cuerpo_tabla_centro">☐</td>
+<td>Evacuación.</td>
+<td>☐</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Otros.</td>
+<td colspan="2">Otros.</td>
 </tr>
 </tbody>
 </table>

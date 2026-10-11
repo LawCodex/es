@@ -2124,52 +2124,52 @@ b) Si el primer año de ocupación del dominio público portuario la ocupación 
 
 1\. El valor de mercado de los bienes de dominio público portuario ocupados por zonas de servicio portuarias y tomando en consideración la modalidad de bien demanial afectado es el siguiente:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Zona de servicio portuaria</p>
+<th rowspan="2">
+<p>Zona de servicio portuaria</p>
 </th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Modalidad del bien de dominio público portuario ocupado</p>
+<th colspan="3">
+<p>Modalidad del bien de dominio público portuario ocupado</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Valor del metro cuadrado o lineal del terreno</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Valor del metro cuadrado o lineal del terreno</p>
+<p>-</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Valor del metro cuadrado o lineal de lámina de agua</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Valor del metro cuadrado o lineal de lámina de agua</p>
+<p>-</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Valor del metro cuadrado o lineal de las obras o instalaciones</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Valor del metro cuadrado o lineal de las obras o instalaciones</p>
+<p>-</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de servicio portuaria norte.</td>
-<td class="cuerpo_tabla_centro">412,24</td>
-<td class="cuerpo_tabla_centro">16,77</td>
-<td class="cuerpo_tabla_der">875,75</td>
+<td>Zona de servicio portuaria norte.</td>
+<td>412,24</td>
+<td>16,77</td>
+<td>875,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de servicio portuaria centro.</td>
-<td class="cuerpo_tabla_centro">617,52</td>
-<td class="cuerpo_tabla_centro">21,61</td>
-<td class="cuerpo_tabla_der">1.057,21</td>
+<td>Zona de servicio portuaria centro.</td>
+<td>617,52</td>
+<td>21,61</td>
+<td>1.057,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de servicio portuaria sur.</td>
-<td class="cuerpo_tabla_centro">363,93</td>
-<td class="cuerpo_tabla_centro">10,94</td>
-<td class="cuerpo_tabla_der">843,98</td>
+<td>Zona de servicio portuaria sur.</td>
+<td>363,93</td>
+<td>10,94</td>
+<td>843,98</td>
 </tr>
 </tbody>
 </table>
@@ -2294,114 +2294,114 @@ c) El tipo de bien de dominio público portuario ocupado.
 
 1\. La cuota íntegra de la tasa de almacenaje de mercancías se determina multiplicando las cuantías fijas de la tarifa incluidas en el siguiente cuadro por la superficie de dominio público portuario ocupada y por los días de ocupación utilizados.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tipo del bien demanial</p>
+<th>
+<p>Tipo del bien demanial</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Días de ocupación</p>
+<th>
+<p>Días de ocupación</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe por metro cuadrado</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Importe por metro cuadrado</p>
+<p>-</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1. Zona de tráfico.</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
 <td rowspan="5"> 1.1 Superficie descubierta.</td>
-<td class="cuerpo_tabla_izq">1 a 3 días.</td>
-<td class="cuerpo_tabla_centro">0,00000</td>
+<td>1 a 3 días.</td>
+<td>0,00000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 a 10 días.</td>
-<td class="cuerpo_tabla_centro">0,02500</td>
+<td>4 a 10 días.</td>
+<td>0,02500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11 a 17 días.</td>
-<td class="cuerpo_tabla_centro">0,05000</td>
+<td>11 a 17 días.</td>
+<td>0,05000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18 a 30 días.</td>
-<td class="cuerpo_tabla_centro">0,075005</td>
+<td>18 a 30 días.</td>
+<td>0,075005</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30 días.</td>
-<td class="cuerpo_tabla_centro">0,10000</td>
+<td>Más de 30 días.</td>
+<td>0,10000</td>
 </tr>
 <tr>
 <td rowspan="5"> 1.2 Superficie cubierta.</td>
-<td class="cuerpo_tabla_izq">1 a 3 días.</td>
-<td class="cuerpo_tabla_centro">0,05000</td>
+<td>1 a 3 días.</td>
+<td>0,05000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 a 10 días.</td>
-<td class="cuerpo_tabla_centro">0,07500</td>
+<td>4 a 10 días.</td>
+<td>0,07500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11 a 17 días.</td>
-<td class="cuerpo_tabla_centro">0,10000</td>
+<td>11 a 17 días.</td>
+<td>0,10000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18 a 30 días.</td>
-<td class="cuerpo_tabla_centro">0,15000</td>
+<td>18 a 30 días.</td>
+<td>0,15000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30 días.</td>
-<td class="cuerpo_tabla_centro">0,20000</td>
+<td>Más de 30 días.</td>
+<td>0,20000</td>
 </tr>
 <tr>
 <td>2. Zona de almacenaje.</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> </td>
 </tr>
 <tr>
 <td rowspan="5"> 2.1 Superficie descubierta.</td>
-<td class="cuerpo_tabla_izq">1 a 3 días.</td>
-<td class="cuerpo_tabla_centro">0,00000</td>
+<td>1 a 3 días.</td>
+<td>0,00000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 a 10 días.</td>
-<td class="cuerpo_tabla_centro">0,01300</td>
+<td>4 a 10 días.</td>
+<td>0,01300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11 a 17 días.</td>
-<td class="cuerpo_tabla_centro">0,02500</td>
+<td>11 a 17 días.</td>
+<td>0,02500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18 a 30 días.</td>
-<td class="cuerpo_tabla_centro">0,03800</td>
+<td>18 a 30 días.</td>
+<td>0,03800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30 días.</td>
-<td class="cuerpo_tabla_centro">0,05000</td>
+<td>Más de 30 días.</td>
+<td>0,05000</td>
 </tr>
 <tr>
 <td rowspan="5"> 2.2 Superficie cubierta.</td>
-<td class="cuerpo_tabla_izq">1 a 3 días.</td>
-<td class="cuerpo_tabla_centro">0,01500</td>
+<td>1 a 3 días.</td>
+<td>0,01500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 a 10 días.</td>
-<td class="cuerpo_tabla_centro">0,02500</td>
+<td>4 a 10 días.</td>
+<td>0,02500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11 a 17 días.</td>
-<td class="cuerpo_tabla_centro">0,05000</td>
+<td>11 a 17 días.</td>
+<td>0,05000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18 a 30 días.</td>
-<td class="cuerpo_tabla_centro">0,07500</td>
+<td>18 a 30 días.</td>
+<td>0,07500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 30 días.</td>
-<td class="cuerpo_tabla_centro">0,10000</td>
+<td>Más de 30 días.</td>
+<td>0,10000</td>
 </tr>
 </tbody>
 </table>
@@ -2697,44 +2697,36 @@ j) Otros buques cuya estancia sea superior a un mes.
 
 13\. Si los buques operados por un mismo naviero o de crucero turístico, o, en su caso, de diferentes compañías navieras pero que dispongan de acuerdos de explotación compartida, realizan más de doce escalas en una misma infraestructura portuaria durante el año natural, y cumplen los estándares ambientales, los obligados tributarios pueden solicitar la aplicación de las bonificaciones detalladas en la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de buque</th>
-<th class="cabeza_tabla" colspan="5">Número de escalas al año</th>
+<th rowspan="2">Tipo de buque</th>
+<th colspan="5">Número de escalas al año</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">13 a 18</th>
-<th class="cabeza_tabla">19 a 24</th>
-<th class="cabeza_tabla">25 a 40</th>
-<th class="cabeza_tabla">41 a 60</th>
-<th class="cabeza_tabla">De 61 en adelante</th>
+<th>13 a 18</th>
+<th>19 a 24</th>
+<th>25 a 40</th>
+<th>41 a 60</th>
+<th>De 61 en adelante</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Buques de arqueo de hasta 15.000 GT.</td>
-<td class="cuerpo_tabla_centro">10 %</td>
-<td class="cuerpo_tabla_centro">25 %</td>
-<td class="cuerpo_tabla_centro">40 %</td>
-<td class="cuerpo_tabla_centro">50 %</td>
-<td class="cuerpo_tabla_centro">55 %</td>
+<td>Buques de arqueo de hasta 15.000 GT.</td>
+<td>10 %</td>
+<td>25 %</td>
+<td>40 %</td>
+<td>50 %</td>
+<td>55 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Buques de arqueo superior a 15.000 GT.</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
+<td>Buques de arqueo superior a 15.000 GT.</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
+<td>55 %</td>
+<td>60 %</td>
 </tr>
 </tbody>
 </table>
@@ -2933,78 +2925,71 @@ b) Volumen manipulado.
 
 7\. La cuota íntegra de la tasa se reduce en función del volumen de mercancía anual manipulada para cada código o grupos de código asociados a un tráfico según determine Puertos de la Generalidad, de acuerdo con las siguientes tablas:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Descuento</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Porcentaje (%)</p>
+<th rowspan="2">
+<p>Descuento</p>
+<p>-</p>
+<p>Porcentaje (%)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">Grupo 1/2 (a granel)</th>
-<th class="cabeza_tabla" colspan="2">Grupo 3/4/5 - Grupo 1-2 (unitizada)</th>
+<th colspan="2">Grupo 1/2 (a granel)</th>
+<th colspan="2">Grupo 3/4/5 - Grupo 1-2 (unitizada)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">De toneladas</th>
-<th class="cabeza_tabla">hasta</th>
-<th class="cabeza_tabla">De toneladas</th>
-<th class="cabeza_tabla">hasta</th>
+<th>De toneladas</th>
+<th>hasta</th>
+<th>De toneladas</th>
+<th>hasta</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_der">0</td>
-<td class="cuerpo_tabla_der">10.000</td>
-<td class="cuerpo_tabla_der">0</td>
-<td class="cuerpo_tabla_der">5.000</td>
+<td>5</td>
+<td>0</td>
+<td>10.000</td>
+<td>0</td>
+<td>5.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_der">10.001</td>
-<td class="cuerpo_tabla_der">20.000</td>
-<td class="cuerpo_tabla_der">5.001</td>
-<td class="cuerpo_tabla_der">10.000</td>
+<td>10</td>
+<td>10.001</td>
+<td>20.000</td>
+<td>5.001</td>
+<td>10.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_der">20.001</td>
-<td class="cuerpo_tabla_der">40.000</td>
-<td class="cuerpo_tabla_der">10.001</td>
-<td class="cuerpo_tabla_der">20.000</td>
+<td>15</td>
+<td>20.001</td>
+<td>40.000</td>
+<td>10.001</td>
+<td>20.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_der">40.001</td>
-<td class="cuerpo_tabla_der">80.000</td>
-<td class="cuerpo_tabla_der">20.001</td>
-<td class="cuerpo_tabla_der">40.000</td>
+<td>20</td>
+<td>40.001</td>
+<td>80.000</td>
+<td>20.001</td>
+<td>40.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_der">80.001</td>
-<td class="cuerpo_tabla_der">120.000</td>
-<td class="cuerpo_tabla_der">40.001</td>
-<td class="cuerpo_tabla_der">60.000</td>
+<td>30</td>
+<td>80.001</td>
+<td>120.000</td>
+<td>40.001</td>
+<td>60.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_der">120.001</td>
-<td class="cuerpo_tabla_der">160.000</td>
-<td class="cuerpo_tabla_der">60.001</td>
-<td class="cuerpo_tabla_der">80.000</td>
+<td>40</td>
+<td>120.001</td>
+<td>160.000</td>
+<td>60.001</td>
+<td>80.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro" colspan="2">más de 160.000</td>
-<td class="cuerpo_tabla_centro" colspan="2">más de 80.000</td>
+<td>50</td>
+<td colspan="2">más de 160.000</td>
+<td colspan="2">más de 80.000</td>
 </tr>
 </tbody>
 </table>
@@ -3093,99 +3078,94 @@ c) Régimen de transporte.
 
 4\. En el método de estimación directa, la cuota íntegra de la tasa se determina multiplicando las cuantías fijas de la tarifa incluidas en el siguiente cuadro por el número de pasajeros y vehículos.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla"> </p>
+<th>
+<p> </p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Navegación interior en la Unión Europea</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Navegación interior en la Unión Europea</p>
+<p>-</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Navegación exterior en la Unión Europea</p>
-<p class="cabeza_tabla">-</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Navegación exterior en la Unión Europea</p>
+<p>-</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Buques ordinarios.</td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td>1. Buques ordinarios.</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A) Pasajero:</td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td>A) Pasajero:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">a) Pasajero de crucero en embarque o desembarque.</td>
-<td class="cuerpo_tabla_centro">3,19</td>
-<td class="cuerpo_tabla_centro">3,99</td>
+<td>a) Pasajero de crucero en embarque o desembarque.</td>
+<td>3,19</td>
+<td>3,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Pasajero de crucero en tránsito.</td>
-<td class="cuerpo_tabla_centro">2,55</td>
-<td class="cuerpo_tabla_centro">3,19</td>
+<td>b) Pasajero de crucero en tránsito.</td>
+<td>2,55</td>
+<td>3,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Pasajero en régimen de transporte.</td>
-<td class="cuerpo_tabla_centro">1,91</td>
-<td class="cuerpo_tabla_centro">2,39</td>
+<td>c) Pasajero en régimen de transporte.</td>
+<td>1,91</td>
+<td>2,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B) Vehículo.</td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td>B) Vehículo.</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">a) Motos y vehículos o remolques de dos ruedas.</td>
-<td class="cuerpo_tabla_centro">1,74</td>
-<td class="cuerpo_tabla_centro">2,18</td>
+<td>a) Motos y vehículos o remolques de dos ruedas.</td>
+<td>1,74</td>
+<td>2,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Coches de turismo y demás vehículos automóviles.</td>
-<td class="cuerpo_tabla_centro">6,96</td>
-<td class="cuerpo_tabla_centro">8,70</td>
+<td>b) Coches de turismo y demás vehículos automóviles.</td>
+<td>6,96</td>
+<td>8,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">c) Autocares y demás vehículos de transporte colectivo.</td>
-<td class="cuerpo_tabla_centro">27,84</td>
-<td class="cuerpo_tabla_centro">34,80</td>
+<td>c) Autocares y demás vehículos de transporte colectivo.</td>
+<td>27,84</td>
+<td>34,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">d) Otros vehículos de tracción mecánica.</td>
-<td class="cuerpo_tabla_centro">12,18</td>
-<td class="cuerpo_tabla_centro">15,23</td>
+<td>d) Otros vehículos de tracción mecánica.</td>
+<td>12,18</td>
+<td>15,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Buques turísticos locales.</td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td>2. Buques turísticos locales.</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A) Pasajero:</td>
-<td class="cuerpo_tabla_centro">0,051</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>A) Pasajero:</td>
+<td>0,051</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B) Vehículo:</td>
-<td class="cuerpo_tabla_centro" colspan="2"> </td>
+<td>B) Vehículo:</td>
+<td colspan="2"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">a) Motocicleta.</td>
-<td class="cuerpo_tabla_centro">1,30</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>a) Motocicleta.</td>
+<td>1,30</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Automóvil.</td>
-<td class="cuerpo_tabla_centro">5,22</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>b) Automóvil.</td>
+<td>5,22</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -3360,48 +3340,40 @@ c) Otros lugares en seco.
 
 1\. En las infraestructuras portuarias gestionadas directamente por Puertos de la Generalidad, la cuota íntegra de la tasa de las embarcaciones deportivas o de recreo se determina multiplicando las cuantías fijas de la tarifa incluidas en el siguiente cuadro por la superficie de dominio público portuario utilizada y el número de días de utilización.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipo de embarcación</th>
-<th class="cabeza_tabla" colspan="5">Modalidad de fondeo, atraque o estancia</th>
+<th rowspan="2">Tipo de embarcación</th>
+<th colspan="5">Modalidad de fondeo, atraque o estancia</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Anclaje con amarre a muerto</th>
-<th class="cabeza_tabla">Anclaje con medios propios</th>
-<th class="cabeza_tabla">Atraque de costado</th>
-<th class="cabeza_tabla">Atraque en punta</th>
-<th class="cabeza_tabla">Estancia en seco</th>
+<th>Anclaje con amarre a muerto</th>
+<th>Anclaje con medios propios</th>
+<th>Atraque de costado</th>
+<th>Atraque en punta</th>
+<th>Estancia en seco</th>
 </tr>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="5">Euros</th>
+<th> </th>
+<th colspan="5">Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Embarcación de base.</td>
-<td class="cuerpo_tabla_centro">0,166</td>
-<td class="cuerpo_tabla_centro">0,106</td>
-<td class="cuerpo_tabla_centro">0,437</td>
-<td class="cuerpo_tabla_centro">0,191</td>
-<td class="cuerpo_tabla_centro">0,106</td>
+<td>Embarcación de base.</td>
+<td>0,166</td>
+<td>0,106</td>
+<td>0,437</td>
+<td>0,191</td>
+<td>0,106</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Embarcación transeúnte.</td>
-<td class="cuerpo_tabla_centro">0,425</td>
-<td class="cuerpo_tabla_centro">0,340</td>
-<td class="cuerpo_tabla_centro">0,765</td>
-<td class="cuerpo_tabla_centro">0,595</td>
-<td class="cuerpo_tabla_centro">0,850</td>
+<td>Embarcación transeúnte.</td>
+<td>0,425</td>
+<td>0,340</td>
+<td>0,765</td>
+<td>0,595</td>
+<td>0,850</td>
 </tr>
 </tbody>
 </table>

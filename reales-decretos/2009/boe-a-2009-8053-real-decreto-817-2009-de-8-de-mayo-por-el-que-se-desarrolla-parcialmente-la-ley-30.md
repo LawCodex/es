@@ -954,102 +954,76 @@ e) Ventajas de la oferta adjudicataria.
 
 ## ANEXO I — Actividades a que se refiere el apartado 1 del artículo 6 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td>
 </td>
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción.</p>
+<p>Construcción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta división comprende:</p>
-<p class="cuerpo_tabla_izq">Las construcciones nuevas, obras de restauración y reparaciones corrientes.</p>
+<p>Esta división comprende:</p>
+<p>Las construcciones nuevas, obras de restauración y reparaciones corrientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45000000</p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.1</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Preparación de obras.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45100000</p>
+<p>45000000</p>
 </td>
 </tr>
 <tr>
 <td>
 </td>
 <td>
+<p>45.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Demolición de inmuebles y movimientos de tierras.</p>
+<p>Preparación de obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La demolición y derribo de edificios y otras estructuras.</p>
-<p class="cuerpo_tabla_izq">La limpieza de escombros.</p>
-<p class="cuerpo_tabla_izq">Los trabajos de movimiento de tierras: Excavación, rellenado y nivelación de emplazamientos de obras, excavación de zanjas, despeje de rocas, voladuras, etc.</p>
-<p class="cuerpo_tabla_izq">La preparación de explotaciones mineras:</p>
-<p class="cuerpo_tabla_izq">Obras subterráneas, despeje de montera y otras actividades de preparación de minas.</p>
-<p class="cuerpo_tabla_izq">Esta clase comprende también:</p>
-<p class="cuerpo_tabla_izq">El drenaje de emplazamientos de obras.</p>
-<p class="cuerpo_tabla_izq">El drenaje de terrenos agrícolas y forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45110000</p>
+<p>45100000</p>
 </td>
 </tr>
 <tr>
@@ -1058,113 +1032,103 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.12</p>
+<p>45.11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Perforaciones y sondeos.</p>
+<p>Demolición de inmuebles y movimientos de tierras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">Las perforaciones, sondeos y muestreos con fines de construcción, geofísicos, geológicos u otros.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La perforación de pozos de producción de petróleo y gas natural (véase 11.20).</p>
-<p class="cuerpo_tabla_izq">La perforación de pozos hidráulicos (véase 45.25).</p>
-<p class="cuerpo_tabla_izq">La excavación de pozos de minas (véase 45.25).</p>
-<p class="cuerpo_tabla_izq">La prospección de yacimientos de petróleo y gas natural y los estudios geofísicos, geológicos o sísmicos (véase 74.20).</p>
+<p>Esta clase comprende:</p>
+<p>La demolición y derribo de edificios y otras estructuras.</p>
+<p>La limpieza de escombros.</p>
+<p>Los trabajos de movimiento de tierras: Excavación, rellenado y nivelación de emplazamientos de obras, excavación de zanjas, despeje de rocas, voladuras, etc.</p>
+<p>La preparación de explotaciones mineras:</p>
+<p>Obras subterráneas, despeje de montera y otras actividades de preparación de minas.</p>
+<p>Esta clase comprende también:</p>
+<p>El drenaje de emplazamientos de obras.</p>
+<p>El drenaje de terrenos agrícolas y forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45120000</p>
+<p>45110000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.12</p>
+</td>
+<td>
+<p>Perforaciones y sondeos.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>Las perforaciones, sondeos y muestreos con fines de construcción, geofísicos, geológicos u otros.</p>
+<p>Esta clase no comprende:</p>
+<p>La perforación de pozos de producción de petróleo y gas natural (véase 11.20).</p>
+<p>La perforación de pozos hidráulicos (véase 45.25).</p>
+<p>La excavación de pozos de minas (véase 45.25).</p>
+<p>La prospección de yacimientos de petróleo y gas natural y los estudios geofísicos, geológicos o sísmicos (véase 74.20).</p>
+</td>
+<td>
+<p>45120000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.2</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Construcción general de inmuebles y obras de ingeniería civil</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45200000</p>
-</td>
 </tr>
 <tr>
 <td>
 </td>
 <td>
+<p>45.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción general de edificios y obras singulares de ingeniería civil (puentes, túneles, etc.).</p>
+<p>Construcción general de inmuebles y obras de ingeniería civil</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de todo tipo de edificios.</p>
-<p class="cuerpo_tabla_izq">La construcción de obras de ingeniería civil:</p>
-<p class="cuerpo_tabla_izq">Puentes (incluidos los de carreteras elevadas), viaductos, túneles y pasos subterráneos.</p>
-<p class="cuerpo_tabla_izq">Redes de energía, comunicación y conducción de larga distancia.</p>
-<p class="cuerpo_tabla_izq">Instalaciones urbanas de tuberías, redes de energía y de comunicaciones.</p>
-<p class="cuerpo_tabla_izq">Obras urbanas anejas al montaje in situ de construcciones prefabricadas.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">Los servicios relacionados con la extracción de gas y de petróleo (véase 11.20).</p>
-<p class="cuerpo_tabla_izq">El montaje de construcciones prefabricadas completas a partir de piezas de producción propia que no sean de hormigón (véanse las divisiones 20, 26 y 28).</p>
-<p class="cuerpo_tabla_izq">La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios (véase 45.23).</p>
-<p class="cuerpo_tabla_izq">Las instalaciones de edificios y obras (véase 45.3).</p>
-<p class="cuerpo_tabla_izq">Las actividades de arquitectura e ingeniería (véase 74.20).</p>
-<p class="cuerpo_tabla_izq">La dirección de obras de construcción (véase 74.20).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45210000</p>
-<p class="cuerpo_tabla_izq">(Excepto:</p>
-<p class="cuerpo_tabla_izq">45213316</p>
-<p class="cuerpo_tabla_izq">45220000</p>
-<p class="cuerpo_tabla_izq">45231000</p>
-<p class="cuerpo_tabla_izq">45232000</p>
+<p>45200000</p>
 </td>
 </tr>
 <tr>
@@ -1173,19 +1137,34 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.22</p>
+<p>45.21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de cubiertas y estructuras de cerramiento.</p>
+<p>Construcción general de edificios y obras singulares de ingeniería civil (puentes, túneles, etc.).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de tejados.</p>
-<p class="cuerpo_tabla_izq">La cubierta de tejados.</p>
-<p class="cuerpo_tabla_izq">La impermeabilización de edificios y balcones.</p>
+<p>Esta clase comprende:</p>
+<p>La construcción de todo tipo de edificios.</p>
+<p>La construcción de obras de ingeniería civil:</p>
+<p>Puentes (incluidos los de carreteras elevadas), viaductos, túneles y pasos subterráneos.</p>
+<p>Redes de energía, comunicación y conducción de larga distancia.</p>
+<p>Instalaciones urbanas de tuberías, redes de energía y de comunicaciones.</p>
+<p>Obras urbanas anejas al montaje in situ de construcciones prefabricadas.</p>
+<p>Esta clase no comprende:</p>
+<p>Los servicios relacionados con la extracción de gas y de petróleo (véase 11.20).</p>
+<p>El montaje de construcciones prefabricadas completas a partir de piezas de producción propia que no sean de hormigón (véanse las divisiones 20, 26 y 28).</p>
+<p>La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios (véase 45.23).</p>
+<p>Las instalaciones de edificios y obras (véase 45.3).</p>
+<p>Las actividades de arquitectura e ingeniería (véase 74.20).</p>
+<p>La dirección de obras de construcción (véase 74.20).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45261000</p>
+<p>45210000</p>
+<p>(Excepto:</p>
+<p>45213316</p>
+<p>45220000</p>
+<p>45231000</p>
+<p>45232000</p>
 </td>
 </tr>
 <tr>
@@ -1194,83 +1173,86 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.23</p>
+<p>45.22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de autopistas, carreteras, campos de aterrizaje, vías férreas y centros deportivos.</p>
+<p>Construcción de cubiertas y estructuras de cerramiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de autopistas, calles, carreteras y otras vías de circulación de vehículos y peatones.</p>
-<p class="cuerpo_tabla_izq">La construcción de vías férreas.</p>
-<p class="cuerpo_tabla_izq">La construcción de pistas de aterrizaje.</p>
+<p>Esta clase comprende:</p>
+<p>La construcción de tejados.</p>
+<p>La cubierta de tejados.</p>
+<p>La impermeabilización de edificios y balcones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45212212</p>
-<p class="cuerpo_tabla_centro">y</p>
-<p class="cuerpo_tabla_centro">DA03</p>
-<p class="cuerpo_tabla_izq">45230000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45231000</p>
-<p class="cuerpo_tabla_izq">45232000</p>
-<p class="cuerpo_tabla_izq">45234115</p>
+<p>45261000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.23</p>
+</td>
+<td>
+<p>Construcción de autopistas, carreteras, campos de aterrizaje, vías férreas y centros deportivos.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>La construcción de autopistas, calles, carreteras y otras vías de circulación de vehículos y peatones.</p>
+<p>La construcción de vías férreas.</p>
+<p>La construcción de pistas de aterrizaje.</p>
+</td>
+<td>
+<p>45212212</p>
+<p>y</p>
+<p>DA03</p>
+<p>45230000</p>
+<p>Excepto:</p>
+<p>45231000</p>
+<p>45232000</p>
+<p>45234115</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios.</p>
-<p class="cuerpo_tabla_izq">La pintura de señales en carreteras y aparcamientos.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">El movimiento de tierras previo (véase 45.11).</p>
-</td>
-<td>
-</td>
 </tr>
 <tr>
 <td>
@@ -1278,20 +1260,16 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obras hidráulicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de:</p>
-<p class="cuerpo_tabla_izq">Vías navegables, instalaciones portuarias y fluviales, puertos deportivos, esclusas, etc.</p>
-<p class="cuerpo_tabla_izq">Presas y diques dragados.</p>
-<p class="cuerpo_tabla_izq">Obras subterráneas.</p>
+<p>La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios.</p>
+<p>La pintura de señales en carreteras y aparcamientos.</p>
+<p>Esta clase no comprende:</p>
+<p>El movimiento de tierras previo (véase 45.11).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45240000</p>
 </td>
 </tr>
 <tr>
@@ -1300,110 +1278,102 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.25</p>
+<p>45.24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras construcciones especializadas.</p>
+<p>Obras hidráulicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">Las actividades de construcción que se especialicen en un aspecto común a diferentes tipos de estructura y que requieran aptitudes o materiales específicos:</p>
-<p class="cuerpo_tabla_izq">Obras de cimentación, incluida la hinca de pilotes construcción y perforación de pozos hidráulicos, excavación de pozos de minas.</p>
-<p class="cuerpo_tabla_izq">Montaje de piezas de acero que no sean de producción propia.</p>
-<p class="cuerpo_tabla_izq">Curvado del acero.</p>
-<p class="cuerpo_tabla_izq">Montaje y desmantelamiento de andamios y plataformas de trabajo, incluido su alquiler.</p>
-<p class="cuerpo_tabla_izq">Montaje de chimeneas y hornos industriales.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">El alquiler de andamios sin montaje ni desmantelamiento (véase 71.32).</p>
+<p>Esta clase comprende:</p>
+<p>La construcción de:</p>
+<p>Vías navegables, instalaciones portuarias y fluviales, puertos deportivos, esclusas, etc.</p>
+<p>Presas y diques dragados.</p>
+<p>Obras subterráneas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45250000</p>
-<p class="cuerpo_tabla_izq">45262000</p>
+<p>45240000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.25</p>
+</td>
+<td>
+<p>Otras construcciones especializadas.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>Las actividades de construcción que se especialicen en un aspecto común a diferentes tipos de estructura y que requieran aptitudes o materiales específicos:</p>
+<p>Obras de cimentación, incluida la hinca de pilotes construcción y perforación de pozos hidráulicos, excavación de pozos de minas.</p>
+<p>Montaje de piezas de acero que no sean de producción propia.</p>
+<p>Curvado del acero.</p>
+<p>Montaje y desmantelamiento de andamios y plataformas de trabajo, incluido su alquiler.</p>
+<p>Montaje de chimeneas y hornos industriales.</p>
+<p>Esta clase no comprende:</p>
+<p>El alquiler de andamios sin montaje ni desmantelamiento (véase 71.32).</p>
+</td>
+<td>
+<p>45250000</p>
+<p>45262000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.3</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalación de edificios y obras.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45300000</p>
-</td>
 </tr>
 <tr>
 <td>
 </td>
 <td>
+<p>45.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalación eléctrica.</p>
+<p>Instalación de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">Cables y material eléctrico.</p>
-<p class="cuerpo_tabla_izq">Sistemas de telecomunicación.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de calefacción eléctrica.</p>
-<p class="cuerpo_tabla_izq">Antenas de viviendas.</p>
-<p class="cuerpo_tabla_izq">Alarmas contra incendios.</p>
-<p class="cuerpo_tabla_izq">Sistemas de alarma de protección contra robos.</p>
-<p class="cuerpo_tabla_izq">Ascensores y escaleras mecánicas.</p>
-<p class="cuerpo_tabla_izq">Pararrayos, etc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45213316</p>
-<p class="cuerpo_tabla_izq">45310000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45316000</p>
+<p>45300000</p>
 </td>
 </tr>
 <tr>
@@ -1412,19 +1382,28 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.32</p>
+<p>45.31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aislamiento térmico, acústico y antivibratorio.</p>
+<p>Instalación eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende.</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de aislamiento térmico, acústico o antivibratorio.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La impermeabilización de edificios y balcones (véase 45.22).</p>
+<p>Esta clase comprende:</p>
+<p>La instalación en edificios y otras obras de construcción de:</p>
+<p>Cables y material eléctrico.</p>
+<p>Sistemas de telecomunicación.</p>
+<p>Instalaciones de calefacción eléctrica.</p>
+<p>Antenas de viviendas.</p>
+<p>Alarmas contra incendios.</p>
+<p>Sistemas de alarma de protección contra robos.</p>
+<p>Ascensores y escaleras mecánicas.</p>
+<p>Pararrayos, etc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45320000</p>
+<p>45213316</p>
+<p>45310000</p>
+<p>Excepto:</p>
+<p>45316000</p>
 </td>
 </tr>
 <tr>
@@ -1433,101 +1412,83 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.33</p>
+<p>45.32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fontanería.</p>
+<p>Aislamiento térmico, acústico y antivibratorio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">Fontanería y sanitarios.</p>
-<p class="cuerpo_tabla_izq">Aparatos de gas.</p>
-<p class="cuerpo_tabla_izq">Aparatos y conducciones de calefacción, ventilación, refrigeración o aire acondicionado.</p>
-<p class="cuerpo_tabla_izq">La instalación de extintores automáticos de incendios.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación y reparación de instalaciones de calefacción eléctrica (véase 45.31).</p>
+<p>Esta clase comprende.</p>
+<p>La instalación en edificios y otras obras de construcción de aislamiento térmico, acústico o antivibratorio.</p>
+<p>Esta clase no comprende:</p>
+<p>La impermeabilización de edificios y balcones (véase 45.22).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45330000</p>
+<p>45320000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.33</p>
+</td>
+<td>
+<p>Fontanería.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>La instalación en edificios y otras obras de construcción de:</p>
+<p>Fontanería y sanitarios.</p>
+<p>Aparatos de gas.</p>
+<p>Aparatos y conducciones de calefacción, ventilación, refrigeración o aire acondicionado.</p>
+<p>La instalación de extintores automáticos de incendios.</p>
+<p>Esta clase no comprende:</p>
+<p>La instalación y reparación de instalaciones de calefacción eléctrica (véase 45.31).</p>
+</td>
+<td>
+<p>45330000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras instalaciones de edificios y obras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de sistemas de iluminación y señalización de carreteras, puertos y aeropuertos.</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de aparatos y dispositivos no clasificados en otra parte.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45234115</p>
-<p class="cuerpo_tabla_izq">45316000</p>
-<p class="cuerpo_tabla_izq">45340000</p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.4</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acabado de edificios y obras.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45400000</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1535,17 +1496,37 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.41</p>
+<p>45.34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revocamiento.</p>
+<p>Otras instalaciones de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La aplicación en edificios y otras obras de construcción de yeso y estuco interior y exterior, incluidos los materiales de listado correspondientes</p>
+<p>Esta clase comprende:</p>
+<p>La instalación de sistemas de iluminación y señalización de carreteras, puertos y aeropuertos.</p>
+<p>La instalación en edificios y otras obras de construcción de aparatos y dispositivos no clasificados en otra parte.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45410000</p>
+<p>45234115</p>
+<p>45316000</p>
+<p>45340000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<p>45.4</p>
+</td>
+<td>
+</td>
+<td>
+<p>Acabado de edificios y obras.</p>
+</td>
+<td>
+</td>
+<td>
+<p>45400000</p>
 </td>
 </tr>
 <tr>
@@ -1554,20 +1535,17 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.42</p>
+<p>45.41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de carpintería.</p>
+<p>Revocamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de puertas, ventanas y marcos, cocinas equipadas, escaleras, mobiliario de trabajo y similares de madera u otros materiales, que no sean de producción propia.</p>
-<p class="cuerpo_tabla_izq">Los acabados interiores, como techos, revestimientos de madera para paredes, tabiques móviles, etc.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">Los revestimientos de parqué y otras maderas para suelos (véase 45.43).</p>
+<p>Esta clase comprende:</p>
+<p>La aplicación en edificios y otras obras de construcción de yeso y estuco interior y exterior, incluidos los materiales de listado correspondientes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45420000</p>
+<p>45410000</p>
 </td>
 </tr>
 <tr>
@@ -1576,86 +1554,85 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.43</p>
+<p>45.42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revestimiento de suelos y paredes.</p>
+<p>Instalaciones de carpintería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La colocación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">Revestimientos de cerámica, hormigón o piedra tallada para suelos.</p>
-<p class="cuerpo_tabla_izq">Revestimientos de parqué y otras maderas para suelos.</p>
-<p class="cuerpo_tabla_izq">Revestimientos de moqueta y linóleo para paredes y suelos, incluidos el caucho o los materiales plásticos.</p>
-<p class="cuerpo_tabla_izq">Revestimientos de terrazo, mármol, granito o pizarra para paredes y suelos.</p>
-<p class="cuerpo_tabla_izq">Papeles pintados.</p>
+<p>Esta clase comprende:</p>
+<p>La instalación de puertas, ventanas y marcos, cocinas equipadas, escaleras, mobiliario de trabajo y similares de madera u otros materiales, que no sean de producción propia.</p>
+<p>Los acabados interiores, como techos, revestimientos de madera para paredes, tabiques móviles, etc.</p>
+<p>Esta clase no comprende:</p>
+<p>Los revestimientos de parqué y otras maderas para suelos (véase 45.43).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45430000</p>
+<p>45420000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.43</p>
+</td>
+<td>
+<p>Revestimiento de suelos y paredes.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>La colocación en edificios y otras obras de construcción de:</p>
+<p>Revestimientos de cerámica, hormigón o piedra tallada para suelos.</p>
+<p>Revestimientos de parqué y otras maderas para suelos.</p>
+<p>Revestimientos de moqueta y linóleo para paredes y suelos, incluidos el caucho o los materiales plásticos.</p>
+<p>Revestimientos de terrazo, mármol, granito o pizarra para paredes y suelos.</p>
+<p>Papeles pintados.</p>
+</td>
+<td>
+<p>45430000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="5">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 <th>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pintura y acristalamiento.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La pintura interior y exterior de edificios.</p>
-<p class="cuerpo_tabla_izq">La pintura de obras de ingeniería civil.</p>
-<p class="cuerpo_tabla_izq">La instalación de cristales, espejos, etc.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de ventanas (véase 45.42).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45440000</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1663,39 +1640,21 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.45</p>
+<p>45.44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros acabados de edificios y obras.</p>
+<p>Pintura y acristalamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de piscinas particulares.</p>
-<p class="cuerpo_tabla_izq">La limpieza al vapor, con chorro de arena o similares, del exterior de los edificios.</p>
-<p class="cuerpo_tabla_izq">Otras obras de acabado de edificios no citadas en otra parte.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La limpieza interior de edificios y obras (véase 74.70).</p>
+<p>Esta clase comprende:</p>
+<p>La pintura interior y exterior de edificios.</p>
+<p>La pintura de obras de ingeniería civil.</p>
+<p>La instalación de cristales, espejos, etc.</p>
+<p>Esta clase no comprende:</p>
+<p>La instalación de ventanas (véase 45.42).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45212212 y DA04</p>
-<p class="cuerpo_tabla_izq">45450000</p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45.5</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alquiler de equipo de construcción o demolición dotado de operario.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45500000</p>
+<p>45440000</p>
 </td>
 </tr>
 <tr>
@@ -1704,17 +1663,58 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45.50</p>
+<p>45.45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquiler de equipo de construcción o demolición dotado de operario</p>
+<p>Otros acabados de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">El alquiler de equipo y maquinaria de construcción o demolición desprovisto de operario (véase 71.32).</p>
+<p>Esta clase comprende:</p>
+<p>La instalación de piscinas particulares.</p>
+<p>La limpieza al vapor, con chorro de arena o similares, del exterior de los edificios.</p>
+<p>Otras obras de acabado de edificios no citadas en otra parte.</p>
+<p>Esta clase no comprende:</p>
+<p>La limpieza interior de edificios y obras (véase 74.70).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45500000</p>
+<p>45212212 y DA04</p>
+<p>45450000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<p>45.5</p>
+</td>
+<td>
+</td>
+<td>
+<p>Alquiler de equipo de construcción o demolición dotado de operario.</p>
+</td>
+<td>
+</td>
+<td>
+<p>45500000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.50</p>
+</td>
+<td>
+<p>Alquiler de equipo de construcción o demolición dotado de operario</p>
+</td>
+<td>
+<p>Esta clase no comprende:</p>
+<p>El alquiler de equipo y maquinaria de construcción o demolición desprovisto de operario (véase 71.32).</p>
+</td>
+<td>
+<p>45500000</p>
 </td>
 </tr>
 </table>
@@ -1771,102 +1771,76 @@ e) Ventajas de la oferta adjudicataria.
 
 ## ANEXO I — Lista de Actividades contempladas en la letra b) del apartado 1 del artículo 2 de la Ley 31/2007, de 30 de octubre sobre procedimientos de contratación en los sectores del Agua, la Energía, los Transportes y los Servicios Postales
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45</p>
+<p>45</p>
 </td>
 <td>
 </td>
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción.</p>
+<p>Construcción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta división comprende:</p>
-<p class="cuerpo_tabla_izq">Las construcciones nuevas, obras de restauración y reparaciones corrientes.</p>
+<p>Esta división comprende:</p>
+<p>Las construcciones nuevas, obras de restauración y reparaciones corrientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45000000</p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.1</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Preparación de obras.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45100000</p>
+<p>45000000</p>
 </td>
 </tr>
 <tr>
 <td>
 </td>
 <td>
+<p>45.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Demolición de inmuebles y movimientos de tierras.</p>
+<p>Preparación de obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La demolición y derribo de edificios y otras estructuras.</p>
-<p class="cuerpo_tabla_izq">La limpieza de escombros.</p>
-<p class="cuerpo_tabla_izq">Los trabajos de movimiento de tierras: excavación, rellenado y nivelación de emplazamientos de obras, excavación de zanjas, despeje de rocas, voladuras, etc.</p>
-<p class="cuerpo_tabla_izq">La preparación de explotaciones mineras:</p>
-<p class="cuerpo_tabla_izq">Obras subterráneas, despeje de montera y otras actividades de preparación de minas.</p>
-<p class="cuerpo_tabla_izq">Esta clase comprende también:</p>
-<p class="cuerpo_tabla_izq">El drenaje de emplazamientos de obras.</p>
-<p class="cuerpo_tabla_izq">El drenaje de terrenos agrícolas y forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45110000</p>
+<p>45100000</p>
 </td>
 </tr>
 <tr>
@@ -1875,113 +1849,103 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.12</p>
+<p>45.11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Perforaciones y sondeos.</p>
+<p>Demolición de inmuebles y movimientos de tierras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">Las perforaciones, sondeos y muestreos con fines de construcción, geofísicos, geológicos u otros.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La perforación de pozos de producción de petróleo y gas natural (véase 11.20).</p>
-<p class="cuerpo_tabla_izq">La perforación de pozos hidráulicos (véase 45.25).</p>
-<p class="cuerpo_tabla_izq">La excavación de pozos de minas (véase 45.25).</p>
-<p class="cuerpo_tabla_izq">La prospección de yacimientos de petróleo y gas natural y los estudios geofísicos, geológicos o sísmicos (véase 74.20).</p>
+<p>Esta clase comprende:</p>
+<p>La demolición y derribo de edificios y otras estructuras.</p>
+<p>La limpieza de escombros.</p>
+<p>Los trabajos de movimiento de tierras: excavación, rellenado y nivelación de emplazamientos de obras, excavación de zanjas, despeje de rocas, voladuras, etc.</p>
+<p>La preparación de explotaciones mineras:</p>
+<p>Obras subterráneas, despeje de montera y otras actividades de preparación de minas.</p>
+<p>Esta clase comprende también:</p>
+<p>El drenaje de emplazamientos de obras.</p>
+<p>El drenaje de terrenos agrícolas y forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45120000</p>
+<p>45110000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.12</p>
+</td>
+<td>
+<p>Perforaciones y sondeos.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>Las perforaciones, sondeos y muestreos con fines de construcción, geofísicos, geológicos u otros.</p>
+<p>Esta clase no comprende:</p>
+<p>La perforación de pozos de producción de petróleo y gas natural (véase 11.20).</p>
+<p>La perforación de pozos hidráulicos (véase 45.25).</p>
+<p>La excavación de pozos de minas (véase 45.25).</p>
+<p>La prospección de yacimientos de petróleo y gas natural y los estudios geofísicos, geológicos o sísmicos (véase 74.20).</p>
+</td>
+<td>
+<p>45120000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.2</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Construcción general de inmuebles y obras de ingeniería civil.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45200000</p>
-</td>
 </tr>
 <tr>
 <td>
 </td>
 <td>
+<p>45.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción general de edificios y obras singulares de ingeniería civil (puentes, túneles, etc.).</p>
+<p>Construcción general de inmuebles y obras de ingeniería civil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de todo tipo de edificios.</p>
-<p class="cuerpo_tabla_izq">La construcción de obras de ingeniería civil:</p>
-<p class="cuerpo_tabla_izq">Puentes (incluidos los de carreteras elevadas), viaductos, túneles y pasos subterráneos</p>
-<p class="cuerpo_tabla_izq">Redes de energía, comunicación y conducción de larga distancia.</p>
-<p class="cuerpo_tabla_izq">Instalaciones urbanas de tuberías, redes de energía y de comunicaciones.</p>
-<p class="cuerpo_tabla_izq">Obras urbanas anejas el montaje in situ de construcciones prefabricadas.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">Los servicios relacionados con la extracción de gas y de petróleo (véase 11.20).</p>
-<p class="cuerpo_tabla_izq">El montaje de construcciones prefabricadas completas a partir de piezas de producción propia que no sean de hormigón (véanse las divisiones 20, 26 y 28).</p>
-<p class="cuerpo_tabla_izq">La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios (véase 45.23).</p>
-<p class="cuerpo_tabla_izq">Las instalaciones de edificios y obras (véase 45.3)</p>
-<p class="cuerpo_tabla_izq">Las actividades de arquitectura e ingeniería (véase 74.20).</p>
-<p class="cuerpo_tabla_izq">La dirección de obras de construcción (véase 74.20).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45210000</p>
-<p class="cuerpo_tabla_izq">(Excepto:</p>
-<p class="cuerpo_tabla_izq">45213316</p>
-<p class="cuerpo_tabla_izq">45220000</p>
-<p class="cuerpo_tabla_izq">45231000</p>
-<p class="cuerpo_tabla_izq">45232000)</p>
+<p>45200000</p>
 </td>
 </tr>
 <tr>
@@ -1990,19 +1954,34 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.22</p>
+<p>45.21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de cubiertas y estructuras de cerramiento.</p>
+<p>Construcción general de edificios y obras singulares de ingeniería civil (puentes, túneles, etc.).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de tejados.</p>
-<p class="cuerpo_tabla_izq">La cubierta de tejados.</p>
-<p class="cuerpo_tabla_izq">La impermeabilización de edificios y balcones.</p>
+<p>Esta clase comprende:</p>
+<p>La construcción de todo tipo de edificios.</p>
+<p>La construcción de obras de ingeniería civil:</p>
+<p>Puentes (incluidos los de carreteras elevadas), viaductos, túneles y pasos subterráneos</p>
+<p>Redes de energía, comunicación y conducción de larga distancia.</p>
+<p>Instalaciones urbanas de tuberías, redes de energía y de comunicaciones.</p>
+<p>Obras urbanas anejas el montaje in situ de construcciones prefabricadas.</p>
+<p>Esta clase no comprende:</p>
+<p>Los servicios relacionados con la extracción de gas y de petróleo (véase 11.20).</p>
+<p>El montaje de construcciones prefabricadas completas a partir de piezas de producción propia que no sean de hormigón (véanse las divisiones 20, 26 y 28).</p>
+<p>La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios (véase 45.23).</p>
+<p>Las instalaciones de edificios y obras (véase 45.3)</p>
+<p>Las actividades de arquitectura e ingeniería (véase 74.20).</p>
+<p>La dirección de obras de construcción (véase 74.20).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45261000</p>
+<p>45210000</p>
+<p>(Excepto:</p>
+<p>45213316</p>
+<p>45220000</p>
+<p>45231000</p>
+<p>45232000)</p>
 </td>
 </tr>
 <tr>
@@ -2011,82 +1990,85 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.23</p>
+<p>45.22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Construcción de autopistas, carreteras, campos de aterrizaje, vías férreas y centros deportivos.</p>
+<p>Construcción de cubiertas y estructuras de cerramiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de autopistas, calles, carreteras y otras vías de circulación de vehículos y peatones.</p>
-<p class="cuerpo_tabla_izq">La construcción de vías férreas.</p>
-<p class="cuerpo_tabla_izq">La construcción de pistas de aterrizaje.</p>
+<p>Esta clase comprende:</p>
+<p>La construcción de tejados.</p>
+<p>La cubierta de tejados.</p>
+<p>La impermeabilización de edificios y balcones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45212212 y</p>
-<p class="cuerpo_tabla_izq">DA03</p>
-<p class="cuerpo_tabla_izq">45230000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45231000</p>
-<p class="cuerpo_tabla_izq">45232000</p>
-<p class="cuerpo_tabla_izq">45234115</p>
+<p>45261000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.23</p>
+</td>
+<td>
+<p>Construcción de autopistas, carreteras, campos de aterrizaje, vías férreas y centros deportivos.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>La construcción de autopistas, calles, carreteras y otras vías de circulación de vehículos y peatones.</p>
+<p>La construcción de vías férreas.</p>
+<p>La construcción de pistas de aterrizaje.</p>
+</td>
+<td>
+<p>45212212 y</p>
+<p>DA03</p>
+<p>45230000</p>
+<p>Excepto:</p>
+<p>45231000</p>
+<p>45232000</p>
+<p>45234115</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios.</p>
-<p class="cuerpo_tabla_izq">La pintura de señales en carreteras y aparcamientos.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">El movimiento de tierras previo (véase 45.11).</p>
-</td>
-<td>
-</td>
 </tr>
 <tr>
 <td>
@@ -2094,21 +2076,16 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obras hidráulicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La construcción de:</p>
-<p class="cuerpo_tabla_izq">Vías navegables, instalaciones portuarias y fluviales, puertos deportivos, esclusas, etc.</p>
-<p class="cuerpo_tabla_izq">Presas y diques.</p>
-<p class="cuerpo_tabla_izq">Dragados.</p>
-<p class="cuerpo_tabla_izq">Obras subterráneas.</p>
+<p>La construcción de equipamientos de estadios, piscinas, gimnasios, pistas de tenis, campos de golf y otras instalaciones deportivas, excluidos sus edificios.</p>
+<p>La pintura de señales en carreteras y aparcamientos.</p>
+<p>Esta clase no comprende:</p>
+<p>El movimiento de tierras previo (véase 45.11).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45240000</p>
 </td>
 </tr>
 <tr>
@@ -2117,110 +2094,103 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.25</p>
+<p>45.24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras construcciones especializadas.</p>
+<p>Obras hidráulicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">Las actividades de construcción que se especialicen en un aspecto común a diferentes tipos de estructura y que requieran aptitudes o materiales específicos:</p>
-<p class="cuerpo_tabla_izq">Obras de cimentación, incluida la hinca de pilotes, construcción y perforación de pozos hidráulicos, excavación de pozos de minas.</p>
-<p class="cuerpo_tabla_izq">Montaje de piezas de acero que no sean de producción propia.</p>
-<p class="cuerpo_tabla_izq">Curvado del acero.</p>
-<p class="cuerpo_tabla_izq">Montaje y desmantelamiento de andamios y plataformas de trabajo, incluido su alquiler.</p>
-<p class="cuerpo_tabla_izq">Montaje de chimeneas y hornos industriales.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">El alquiler de andamios sin montaje ni desmantelamiento (véase 71.32).</p>
+<p>Esta clase comprende:</p>
+<p>La construcción de:</p>
+<p>Vías navegables, instalaciones portuarias y fluviales, puertos deportivos, esclusas, etc.</p>
+<p>Presas y diques.</p>
+<p>Dragados.</p>
+<p>Obras subterráneas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45250000</p>
-<p class="cuerpo_tabla_izq">45262000</p>
+<p>45240000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.25</p>
+</td>
+<td>
+<p>Otras construcciones especializadas.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>Las actividades de construcción que se especialicen en un aspecto común a diferentes tipos de estructura y que requieran aptitudes o materiales específicos:</p>
+<p>Obras de cimentación, incluida la hinca de pilotes, construcción y perforación de pozos hidráulicos, excavación de pozos de minas.</p>
+<p>Montaje de piezas de acero que no sean de producción propia.</p>
+<p>Curvado del acero.</p>
+<p>Montaje y desmantelamiento de andamios y plataformas de trabajo, incluido su alquiler.</p>
+<p>Montaje de chimeneas y hornos industriales.</p>
+<p>Esta clase no comprende:</p>
+<p>El alquiler de andamios sin montaje ni desmantelamiento (véase 71.32).</p>
+</td>
+<td>
+<p>45250000</p>
+<p>45262000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.3</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalación de edificios y obras.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45300000</p>
-</td>
 </tr>
 <tr>
 <td>
 </td>
 <td>
+<p>45.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalación eléctrica.</p>
+<p>Instalación de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">Cables y material eléctrico.</p>
-<p class="cuerpo_tabla_izq">Sistemas de telecomunicación.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de calefacción eléctrica.</p>
-<p class="cuerpo_tabla_izq">Antenas de viviendas.</p>
-<p class="cuerpo_tabla_izq">Alarmas contra incendios.</p>
-<p class="cuerpo_tabla_izq">Sistemas de alarma de protección contra robos.</p>
-<p class="cuerpo_tabla_izq">Ascensores y escaleras mecánicas.</p>
-<p class="cuerpo_tabla_izq">Pararrayos, etc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45213316</p>
-<p class="cuerpo_tabla_izq">45310000</p>
-<p class="cuerpo_tabla_izq">Excepto:</p>
-<p class="cuerpo_tabla_izq">45316000</p>
+<p>45300000</p>
 </td>
 </tr>
 <tr>
@@ -2229,19 +2199,28 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.32</p>
+<p>45.31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aislamiento térmico, acústico y antivibratorio.</p>
+<p>Instalación eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de aislamiento térmico, acústico o antivibratorio.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La impermeabilización de edificios y balcones (véase 45.22).</p>
+<p>Esta clase comprende:</p>
+<p>La instalación en edificios y otras obras de construcción de:</p>
+<p>Cables y material eléctrico.</p>
+<p>Sistemas de telecomunicación.</p>
+<p>Instalaciones de calefacción eléctrica.</p>
+<p>Antenas de viviendas.</p>
+<p>Alarmas contra incendios.</p>
+<p>Sistemas de alarma de protección contra robos.</p>
+<p>Ascensores y escaleras mecánicas.</p>
+<p>Pararrayos, etc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45320000</p>
+<p>45213316</p>
+<p>45310000</p>
+<p>Excepto:</p>
+<p>45316000</p>
 </td>
 </tr>
 <tr>
@@ -2250,100 +2229,82 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.33</p>
+<p>45.32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fontanería.</p>
+<p>Aislamiento térmico, acústico y antivibratorio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">Fontanería y sanitarios.</p>
-<p class="cuerpo_tabla_izq">Aparatos de gas.</p>
-<p class="cuerpo_tabla_izq">Aparatos y conducciones de calefacción, ventilación, refrigeración o aire acondicionado.</p>
-<p class="cuerpo_tabla_izq">La instalación de extintores automáticos de incendios.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación y reparación de instalaciones de calefacción eléctrica (véase 45.31).</p>
+<p>Esta clase comprende:</p>
+<p>La instalación en edificios y otras obras de construcción de aislamiento térmico, acústico o antivibratorio.</p>
+<p>Esta clase no comprende:</p>
+<p>La impermeabilización de edificios y balcones (véase 45.22).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45330000</p>
+<p>45320000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.33</p>
+</td>
+<td>
+<p>Fontanería.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>La instalación en edificios y otras obras de construcción de:</p>
+<p>Fontanería y sanitarios.</p>
+<p>Aparatos de gas.</p>
+<p>Aparatos y conducciones de calefacción, ventilación, refrigeración o aire acondicionado.</p>
+<p>La instalación de extintores automáticos de incendios.</p>
+<p>Esta clase no comprende:</p>
+<p>La instalación y reparación de instalaciones de calefacción eléctrica (véase 45.31).</p>
+</td>
+<td>
+<p>45330000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Sección F</p>
+<p>Sección F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <td>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras instalaciones de edificios y obras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de sistemas de iluminación y señalización de carreteras, puertos y aeropuertos.</p>
-<p class="cuerpo_tabla_izq">La instalación en edificios y otras obras de construcción de aparatos y dispositivos no clasificados en otra parte.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45234115</p>
-<p class="cuerpo_tabla_izq">45316000</p>
-<p class="cuerpo_tabla_izq">45340000</p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.4</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Acabado de edificios y obras.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45400000</p>
 </td>
 </tr>
 <tr>
@@ -2352,17 +2313,37 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.41</p>
+<p>45.34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revocamiento.</p>
+<p>Otras instalaciones de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La aplicación en edificios y otras obras de construcción de yeso y estuco interior y exterior, incluidos los materiales de listado correspondientes.</p>
+<p>Esta clase comprende:</p>
+<p>La instalación de sistemas de iluminación y señalización de carreteras, puertos y aeropuertos.</p>
+<p>La instalación en edificios y otras obras de construcción de aparatos y dispositivos no clasificados en otra parte.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45410000</p>
+<p>45234115</p>
+<p>45316000</p>
+<p>45340000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<p>45.4</p>
+</td>
+<td>
+</td>
+<td>
+<p>Acabado de edificios y obras.</p>
+</td>
+<td>
+</td>
+<td>
+<p>45400000</p>
 </td>
 </tr>
 <tr>
@@ -2371,19 +2352,17 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.42</p>
+<p>45.41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de carpintería.</p>
+<p>Revocamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de puertas, ventanas y marcos, cocinas equipadas, escaleras, mobiliario de trabajo y similares de madera u otros materiales, que no sean de producción propia. Los acabados interiores, como techos, revestimientos de madera para paredes, tabiques móviles, etc.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">Los revestimientos de parqué y otras maderas para suelos (véase 45.43).</p>
+<p>Esta clase comprende:</p>
+<p>La aplicación en edificios y otras obras de construcción de yeso y estuco interior y exterior, incluidos los materiales de listado correspondientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45420000</p>
+<p>45410000</p>
 </td>
 </tr>
 <tr>
@@ -2392,84 +2371,82 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.43</p>
+<p>45.42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revestimiento de suelos y paredes.</p>
+<p>Instalaciones de carpintería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La colocación en edificios y otras obras de construcción de:</p>
-<p class="cuerpo_tabla_izq">Revestimientos de cerámica, hormigón o piedra tallada para suelos.</p>
-<p class="cuerpo_tabla_izq">Revestimientos de parqué y otras maderas para suelos.</p>
-<p class="cuerpo_tabla_izq">Revestimientos de moqueta y linóleo para paredes y suelos, incluidos el caucho o los materiales plásticos.</p>
-<p class="cuerpo_tabla_izq">Revestimientos de terrazo, mármol, granito o pizarra para paredes y suelos.</p>
-<p class="cuerpo_tabla_izq">Papeles pintados.</p>
+<p>Esta clase comprende:</p>
+<p>La instalación de puertas, ventanas y marcos, cocinas equipadas, escaleras, mobiliario de trabajo y similares de madera u otros materiales, que no sean de producción propia. Los acabados interiores, como techos, revestimientos de madera para paredes, tabiques móviles, etc.</p>
+<p>Esta clase no comprende:</p>
+<p>Los revestimientos de parqué y otras maderas para suelos (véase 45.43).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45430000</p>
+<p>45420000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.43</p>
+</td>
+<td>
+<p>Revestimiento de suelos y paredes.</p>
+</td>
+<td>
+<p>Esta clase comprende:</p>
+<p>La colocación en edificios y otras obras de construcción de:</p>
+<p>Revestimientos de cerámica, hormigón o piedra tallada para suelos.</p>
+<p>Revestimientos de parqué y otras maderas para suelos.</p>
+<p>Revestimientos de moqueta y linóleo para paredes y suelos, incluidos el caucho o los materiales plásticos.</p>
+<p>Revestimientos de terrazo, mármol, granito o pizarra para paredes y suelos.</p>
+<p>Papeles pintados.</p>
+</td>
+<td>
+<p>45430000</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th colspan="6">
-<p class="cabeza_tabla">NACE<sup>1</sup></p>
+<p>NACE<sup>1</sup></p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Seccion F</p>
+<p>Seccion F</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Construcción</p>
+<p>Construcción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código CPV</p>
+<p>Código CPV</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">División</p>
+<p>División</p>
 </th>
 <th>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase</p>
+<p>Clase</p>
 </th>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th>
-<p class="cabeza_tabla">Notas</p>
+<p>Notas</p>
 </th>
 <th>
 </th>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pintura y acristalamiento.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La pintura interior y exterior de edificios.</p>
-<p class="cuerpo_tabla_izq">La pintura de obras de ingeniería civil.</p>
-<p class="cuerpo_tabla_izq">La instalación de cristales, espejos, etc.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de ventanas (véase 45.42).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45440000</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2477,39 +2454,21 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.45</p>
+<p>45.44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros acabados de edificios y obras.</p>
+<p>Pintura y acristalamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase comprende:</p>
-<p class="cuerpo_tabla_izq">La instalación de piscinas particulares.</p>
-<p class="cuerpo_tabla_izq">La limpieza al vapor, con chorro de arena o similares, del exterior de los edificios.</p>
-<p class="cuerpo_tabla_izq">Otras obras de acabado de edificios no citadas en otra parte.</p>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">La limpieza interior de edificios y obras (véase 74.70).</p>
+<p>Esta clase comprende:</p>
+<p>La pintura interior y exterior de edificios.</p>
+<p>La pintura de obras de ingeniería civil.</p>
+<p>La instalación de cristales, espejos, etc.</p>
+<p>Esta clase no comprende:</p>
+<p>La instalación de ventanas (véase 45.42).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45212212 y DA04</p>
-<p class="cuerpo_tabla_izq">45450000</p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45.5</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alquiler de equipo de construcción o demolición dotado de operario.</p>
-</td>
-<td>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">45500000</p>
+<p>45440000</p>
 </td>
 </tr>
 <tr>
@@ -2518,17 +2477,58 @@ e) Ventajas de la oferta adjudicataria.
 <td>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45.50</p>
+<p>45.45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquiler de equipo de construcción o demolición dotado de operario.</p>
+<p>Otros acabados de edificios y obras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Esta clase no comprende:</p>
-<p class="cuerpo_tabla_izq">El alquiler de equipo y maquinaria de construcción o demolición desprovisto de operario (véase 71.32).</p>
+<p>Esta clase comprende:</p>
+<p>La instalación de piscinas particulares.</p>
+<p>La limpieza al vapor, con chorro de arena o similares, del exterior de los edificios.</p>
+<p>Otras obras de acabado de edificios no citadas en otra parte.</p>
+<p>Esta clase no comprende:</p>
+<p>La limpieza interior de edificios y obras (véase 74.70).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">45500000</p>
+<p>45212212 y DA04</p>
+<p>45450000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<p>45.5</p>
+</td>
+<td>
+</td>
+<td>
+<p>Alquiler de equipo de construcción o demolición dotado de operario.</p>
+</td>
+<td>
+</td>
+<td>
+<p>45500000</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+<p>45.50</p>
+</td>
+<td>
+<p>Alquiler de equipo de construcción o demolición dotado de operario.</p>
+</td>
+<td>
+<p>Esta clase no comprende:</p>
+<p>El alquiler de equipo y maquinaria de construcción o demolición desprovisto de operario (véase 71.32).</p>
+</td>
+<td>
+<p>45500000</p>
 </td>
 </tr>
 </table>

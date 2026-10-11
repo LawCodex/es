@@ -640,14 +640,6 @@ En defecto de disposiciones en las leyes que regulan los procesos penales, conte
 
 2\. Las personas menores de edad no emancipadas deberán comparecer mediante la representación, asistencia o autorización exigidos por la ley. En el caso de las personas con medidas de apoyo para el ejercicio de su capacidad jurídica, se estará al alcance y contenido de estas.
 
-> Téngase en cuenta que esta modificación de los apartados 1 y 2, establecida por el art. 4.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Sólo podrán comparecer en juicio los que estén en el pleno ejercicio de sus derechos civiles.
-
-> 2\. Las personas físicas que no se hallen en el caso del apartado anterior habrán de comparecer mediante la representación o con la asistencia, la autorización, la habilitación o el defensor exigidos por la ley."
-
 3\. Por los concebidos y no nacidos comparecerán las personas que legítimamente los representarían si ya hubieren nacido.
 
 4\. Por las personas jurídicas comparecerán quienes legalmente las representen.
@@ -689,26 +681,6 @@ c) Se permitirá la participación de un profesional experto que a modo de facil
 d) La persona con discapacidad y las personas mayores podrán estar acompañadas de una persona de su elección desde el primer contacto con las autoridades y funcionarios.
 
 3\. Todos los procedimientos, tanto en fase declarativa como de ejecución, en los que alguna de las partes interesadas sea una persona con una edad de ochenta años o más, conforme a lo dispuesto en este artículo, serán de tramitación preferente.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.1 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
-
-> Redacción anterior:
-
-> "Artículo 7 bis. Ajustes para personas con discapacidad.
-
-> 1\. En los procesos en los que participen personas con discapacidad, se realizarán las adaptaciones y los ajustes que sean necesarios para garantizar su participación en condiciones de igualdad.
-
-> Dichas adaptaciones y ajustes se realizarán, tanto a petición de cualquiera de las partes o del Ministerio Fiscal, como de oficio por el propio Tribunal, y en todas las fases y actuaciones procesales en las que resulte necesario, incluyendo los actos de comunicación. Las adaptaciones podrán venir referidas a la comunicación, la comprensión y la interacción con el entorno.
-
-> 2\. Las personas con discapacidad tienen el derecho a entender y ser entendidas en cualquier actuación que deba llevarse a cabo. A tal fin:
-
-> a) Todas las comunicaciones con las personas con discapacidad, orales o escritas, se harán en un lenguaje claro, sencillo y accesible, de un modo que tenga en cuenta sus características personales y sus necesidades, haciendo uso de medios como la lectura fácil. Si fuera necesario, la comunicación también se hará a la persona que preste apoyo a la persona con discapacidad para el ejercicio de su capacidad jurídica.
-
-> b) Se facilitará a la persona con discapacidad la asistencia o apoyos necesarios para que pueda hacerse entender, lo que incluirá la interpretación en las lenguas de signos reconocidas legalmente y los medios de apoyo a la comunicación oral de personas sordas, con discapacidad auditiva y sordociegas.
-
-> c) Se permitirá la participación de un profesional experto que a modo de facilitador realice tareas de adaptación y ajuste necesarias para que la persona con discapacidad pueda entender y ser entendida.
-
-> d) La persona con discapacidad podrá estar acompañada de una persona de su elección desde el primer contacto con las autoridades y funcionarios."
 
 > Se modifica por el art. 103.1 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -783,8 +755,6 @@ Los Jueces y Tribunales aceptarán dicha lista como prueba de la capacidad de la
 2\. Cuando los trabajadores por cuenta propia o autónomos del arte y la cultura afectados sean una pluralidad indeterminada o de difícil determinación, la legitimación para demandar en juicio la defensa de estos intereses difusos corresponderá exclusivamente a las entidades profesionales indicadas en el apartado anterior.
 
 3\. El Ministerio Fiscal estará legitimado para ejercitar cualquier acción en defensa de los intereses de los trabajadores por cuenta propia o autónomos del arte y la cultura.
-
-> Téngase en cuenta que este artículo, añadido por el art. 103.2 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 103.2 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1110,16 +1080,6 @@ b) Ante notario o por comparecencia personal, sea presencial o por medios electr
 
 3\. Los apoderamientos inscritos en el Registro Electrónico de Apoderamientos de la Administración General del Estado producirán efectos en el procedimiento judicial, siempre que se ajusten a lo previsto en esta Ley y que se cumplan los requisitos técnicos previstos en la Ley que regule los usos de la tecnología en la Administración de Justicia y su desarrollo reglamentario o por normativa técnica.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.4 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El poder en que la parte otorgue su representación al procurador habrá de estar autorizado por notario o ser conferido apud acta por comparecencia personal ante el letrado de la Administración de Justicia de cualquier oficina judicial o por comparecencia electrónica en la correspondiente sede judicial.
-
-> 2\. La copia electrónica del poder notarial de representación, informática o digitalizada, se acompañará al primer escrito que el procurador presente.
-
-> 3\. El otorgamiento apud acta por comparecencia personal o electrónica deberá ser efectuado al mismo tiempo que la presentación del primer escrito o, en su caso, antes de la primera actuación, sin necesidad de que a dicho otorgamiento concurra el procurador. Este apoderamiento podrá igualmente acreditarse mediante la certificación de su inscripción en el archivo electrónico de apoderamientos apud acta de las oficinas judiciales."
-
 > Se modifica por el art. 103.4 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1328,18 +1288,6 @@ Si el tribunal no estimase la existencia de cláusulas abusivas, lo declarará a
 
 El auto que se dicte será directamente apelable en todo caso. El pronunciamiento, una vez firme, tendrá fuerza de cosa juzgada.
 
-> Téngase en cuenta que esta actualización del apartado 2 y la adición del apartado 4, establecidas por el art. 103.5 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Presentada la cuenta y admitida por el letrado de la Administración de Justicia, éste requerirá al poderdante para que pague dicha suma o impugne la cuenta por ser indebida, en el plazo de diez días, bajo apercibimiento de apremio si no pagare ni formulare impugnación.
-
-> Si, dentro de dicho plazo, se opusiere el poderdante, el letrado de la Administración de Justicia dará traslado al procurador por tres días para que se pronuncie sobre la impugnación. A continuación, el Letrado de la Administración de Justicia examinará la cuenta y las actuaciones procesales, así como la documentación aportada, y dictará, en el plazo de diez días, decreto determinando la cantidad que haya de satisfacerse al procurador, bajo apercibimiento de apremio si el pago no se efectuase dentro de los cinco días siguientes a la notificación.
-
-> **El decreto a que se refiere el párrafo anterior no será susceptible de recurso, pero no prejuzgará, ni siquiera parcialmente, la sentencia que pudiere recaer en juicio ordinario ulterior."**
-
-> Se declara la inconstitucionalidad y nulidad del párrafo tercero del apartado 2, por Sentencia del TC 34/2019, de 14 de marzo. [Ref. BOE-A-2019-5727](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5727)
-
 > Se modifica el apartado 2 y se añade el 4 por el art. 103.5 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1379,20 +1327,6 @@ De estimar el carácter abusivo de alguna de las cláusulas contractuales, el au
 Si el tribunal no estimase la existencia de cláusulas abusivas, lo declarará así y el letrado o letrada de la Administración de Justicia procederá a requerir al deudor en los términos previstos en el apartado 2.
 
 El auto que se dicte será directamente apelable en todo caso. El pronunciamiento, una vez firme, tendrá fuerza de cosa juzgada.
-
-> Téngase en cuenta que esta actualización del apartado 2 y la adición del apartado 4, establecidas por el art. 103.6 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Presentada esta reclamación, el letrado de la Administración de Justicia requerirá al deudor para que pague dicha suma o impugne la cuenta, en el plazo de diez días, bajo apercibimiento de apremio si no pagare ni formulare impugnación.
-
-> Si, dentro del citado plazo, los honorarios se impugnaren por indebidos, se estará a lo dispuesto en los párrafos segundo **y tercero** del apartado 2 del artículo anterior.
-
-> Si se impugnaran los honorarios por excesivos, el letrado de la Administración de Justicia dará traslado al abogado por tres días para que se pronuncie sobre la impugnación. Si no se aceptara la reducción de honorarios que se le reclama, el letrado de la Administración de Justicia procederá previamente a su regulación conforme a lo previsto en los artículos 241 y siguientes, salvo que el abogado acredite la existencia de presupuesto previo en escrito aceptado por el impugnante, y dictará decreto fijando la cantidad debida, bajo apercibimiento de apremio si no se pagase dentro de los cinco días siguientes a la notificación.
-
-> **Dicho decreto no será susceptible de recurso, pero no prejuzgará, ni siquiera parcialmente, la sentencia que pudiere recaer en juicio ordinario ulterior."**
-
-> Se declara la inconstitucionalidad y nulidad del inciso destacado del párrafo segundo y el párrafo cuarto del apartado 2 por Sentencia del TC 34/2019, de 14 de marzo. [Ref. BOE-A-2019-5727](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5727)
 
 > Se modifica el apartado 2 y se añade el 4 por el art. 103.6 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -1478,12 +1412,6 @@ El demandado podrá denunciar mediante declinatoria la falta de competencia inte
 
 2\. Contra el auto que acuerde la suspensión se dará recurso de apelación y contra los autos dictados en apelación acordando o confirmando la suspensión no cabrá recurso alguno.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.7 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Contra el auto que acuerde la suspensión se dará recurso de apelación y contra los autos dictados en apelación acordando o confirmando la suspensión se dará, en su caso, recurso extraordinario por infracción procesal."
-
 3\. Contra la resolución del Letrado de la Administración de Justicia que acuerde el alzamiento de la suspensión podrá ser interpuesto recurso directo de revisión.
 
 > Se modifica el apartado 2 por el art. 103.7 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -1559,12 +1487,6 @@ Los Juzgados de Primera Instancia a los que, de acuerdo con lo establecido en el
 1\. La falta de competencia objetiva se apreciará de oficio, tan pronto como se advierta, por el tribunal que esté conociendo del asunto.
 
 2\. Cuando el tribunal que conozca del asunto en segunda instancia o en trámite de recurso de casación entienda que el tribunal ante el que se siguió la primera instancia carecía de competencia objetiva, decretará la nulidad de todo lo actuado, dejando a salvo el derecho de las partes a ejercitar sus acciones ante la clase de tribunal que corresponda.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.9 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Cuando el tribunal que conozca del asunto en segunda instancia o en trámite de recurso extraordinario por infracción procesal o de casación entienda que el tribunal ante el que se siguió la primera instancia carecía de competencia objetiva, decretará la nulidad de todo lo actuado, dejando a salvo el derecho de las partes a ejercitar sus acciones ante la clase de tribunal que corresponda."
 
 3\. En los casos a que se refieren los apartados anteriores, el Letrado de la Administración de Justicia dará vista a las partes y al Ministerio Fiscal por plazo común de diez días, resolviendo el Tribunal por medio de auto.
 
@@ -1808,12 +1730,6 @@ Lo dispuesto en el párrafo anterior será también de aplicación cuando el aut
 
 2\. En los recursos de apelación y de casación sólo se admitirán alegaciones de falta de competencia territorial cuando, en el caso de que se trate, fueren de aplicación normas imperativas.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el apartado 2 por el art. 103.10 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. En los recursos de apelación y extraordinario por infracción procesal sólo se admitirán alegaciones de falta de competencia territorial cuando, en el caso de que se trate, fueren de aplicación normas imperativas."
-
 > Se modifica el apartado 2 por el art. 103.10 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -1825,12 +1741,6 @@ Lo dispuesto en el párrafo anterior será también de aplicación cuando el aut
 1\. Todos los asuntos civiles serán repartidos entre los Juzgados de Primera Instancia cuando haya más de uno en el partido. La misma regla se aplicará a los asuntos de los que deban entender las Audiencias Provinciales cuando estén divididas en Secciones.
 
 2\. Los letrados de la Administración de Justicia no permitirán que se curse ningún asunto sujeto a reparto si no constare en él la diligencia o anotación electrónica correspondiente. En caso de que no conste dicha diligencia o anotación electrónica, se anulará, a instancia de cualquiera de las partes, cualquier actuación que no consista en ordenar que el asunto pase a reparto.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.11 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Los Letrados de la Administración de Justicia no permitirán que se curse ningún asunto sujeto a reparto si no constare en él la diligencia correspondiente. En caso de que no conste dicha diligencia, se anulará, a instancia de cualquiera de las partes, cualquier actuación que no consista en ordenar que el asunto pase a reparto."
 
 3\. Contra las decisiones relativas al reparto no procederá la declinatoria, pero cualquiera de los litigantes podrá impugnar la infracción de las normas de reparto vigentes en el momento de la presentación del escrito o de la solicitud de incoación de las actuaciones.
 
@@ -1887,22 +1797,6 @@ Cuando la acción principal deba ser conocida por los Juzgados de Primera Instan
 2.º Que las acciones acumuladas no deban, por razón de su materia, ventilarse en juicios de diferente tipo. No obstante, cabrá la acumulación de la acción para instar la liquidación del régimen económico matrimonial y la acción de división de la herencia en el caso de que la disolución del régimen económico matrimonial se haya producido como consecuencia del fallecimiento de uno o ambos cónyuges y haya identidad subjetiva entre los legitimados para intervenir en uno y otro procedimiento. En caso de que se acumulen ambas acciones se sustanciarán de acuerdo con los presupuestos y trámites del procedimiento de división judicial de la herencia.
 
 3.º Que la ley no prohíba la acumulación en los casos en que se ejerciten determinadas acciones por razón de su materia o por razón del tipo de juicio que se haya de seguir.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.12 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Para que sea admisible la acumulación de acciones será preciso:
-
-> 1.º Que el Tribunal que deba entender de la acción principal posea jurisdicción y competencia por razón de la materia o por razón de la cuantía para conocer de la acumulada o acumuladas. Sin embargo, a la acción que haya de sustanciarse en juicio ordinario podrá acumularse la acción que, por sí sola, se habría de ventilar, por razón de su cuantía, en juicio verbal.
-
-> No obstante lo dispuesto en el párrafo anterior, cuando se acumulen inicialmente varias acciones conexas cuyo conocimiento se atribuya a tribunales con diferente competencia objetiva, corresponderá conocer de todas ellas a los Juzgados de lo Mercantil si éstos resultaren competentes para conocer de la principal y las demás fueren conexas o prejudiciales a ella. En caso de que no se diera tal conexión o prejudicialidad, se procederá conforme a lo establecido en el apartado 3.
-
-> Cuando la acción principal deba ser conocida por los Juzgados de Primera Instancia, no se permitirá la acumulación inicial de cualesquiera otras que no sean de su competencia objetiva, de conformidad con lo previsto en el párrafo primero de este número.
-
-> 2.º Que las acciones acumuladas no deban, por razón de su materia, ventilarse en juicios de diferente tipo.
-
-> 3.º Que la ley no prohíba la acumulación en los casos en que se ejerciten determinadas acciones en razón de su materia o por razón del tipo de juicio que se haya de seguir."
 
 2\. También se acumularán en una misma demanda distintas acciones cuando así lo dispongan las leyes, para casos determinados.
 
@@ -1969,12 +1863,6 @@ No obstante lo anterior, podrá instarse la acumulación de procesos ante el Juz
 4\. Podrán acumularse los procedimientos de división judicial de patrimonios cuando se trate de acumular al procedimiento de división judicial de la herencia el procedimiento de liquidación de régimen económico matrimonial promovido cuando uno o ambos cónyuges hubieran fallecido.
 
 5\. Para que sea admisible la acumulación de procesos será preciso que éstos se encuentren en primera instancia, y que en ninguno de ellos haya finalizado el juicio a que se refiere el artículo 433 de esta ley.
-
-> Téngase en cuenta que esta actualización por la que se renumera el apartado 4 como 5 y se añade un apartado 4 por el art. 103.13 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "4. Para que sea admisible la acumulación de procesos será preciso que éstos se encuentren en primera instancia, y que en ninguno de ellos haya finalizado el juicio a que se refiere el artículo 433 de esta Ley."
 
 > Se renumera el apartado 4 como 5 y se añade un apartado 4 por el art. 103.13 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2067,12 +1955,6 @@ El tribunal por medio de auto rechazará la solicitud de acumulación cuando no 
 1\. Denegada la acumulación, los juicios se sustanciarán separadamente.
 
 2\. El auto que deniegue la acumulación condenará a la parte que la hubiera promovido al pago de las costas del incidente si hubiere actuado con temeridad o mala fe.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.14 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. El auto que deniegue la acumulación condenará a la parte que la hubiera promovido al pago de las costas del incidente."
 
 > Se modifica el apartado 2 por el art. 103.14 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2526,12 +2408,6 @@ El régimen de condena en costas aplicable a la recusación de los peritos será
 
 #### CAPÍTULO I — Del lugar de las actuaciones judiciales y de los actos procesales mediante presencia telemática
 
-> Téngase en cuenta que esta actualización de la rúbrica, establecida por el art. 103.15 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Del lugar de las actuaciones judiciales"
-
 > Se modifica la rúbrica por el art. 103.15 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2547,12 +2423,6 @@ El régimen de condena en costas aplicable a la recusación de los peritos será
 También podrán desplazarse fuera del territorio de su circunscripción para la práctica de actuaciones de prueba, conforme a lo prevenido en esta Ley y en el artículo 275 de la Ley Orgánica del Poder Judicial.
 
 4\. Las actuaciones judiciales también se podrán realizar a través de videoconferencia, en los términos establecidos en el artículo 229 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
-
-> Téngase en cuenta que esta actualización del apartado 2 y la adición del apartado 4, establecidas por el art. 103.16 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Las actuaciones que deban realizarse fuera del partido judicial donde radique la sede del tribunal que conozca del proceso se practicarán, cuando proceda, mediante auxilio judicial."
 
 > Se modifica el apartado 2 y se añade el 4 por el art. 103.16 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2577,8 +2447,6 @@ c) En los casos en que el interviniente lo haga en su condición de autoridad o 
 4\. Lo dispuesto en este artículo será de aplicación a las actuaciones que se celebren únicamente ante los letrados de la Administración de Justicia o los representantes del Ministerio fiscal, que en estos casos podrán también resolver lo establecido en los apartados 2 y 3.
 
 5\. Se adoptarán las medidas necesarias para asegurar que en el uso de métodos electrónicos se garantizan los derechos de todas las partes del proceso. En especial, el derecho a la asistencia letrada efectiva, a la interpretación y traducción y a la información y acceso a los expedientes judiciales.
-
-> Téngase en cuenta que este artículo, añadido por el art. 103.17 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 103.17 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2660,8 +2528,6 @@ Cuando en el mes del vencimiento no hubiera día equivalente al inicial del cóm
 
 3\. También podrán interrumpirse los plazos y demorarse los términos durante un plazo de tres días hábiles cuando por los Colegios de Abogados o Procuradores o por las partes personadas se comuniquen causas objetivas de fuerza mayor que afecten a la persona profesional de la abogacía o de la procura, tales como nacimiento y cuidado de menor, enfermedad grave y accidente con hospitalización, fallecimiento de parientes hasta segundo grado de consanguinidad o afinidad o baja laboral certificada por la seguridad social o sistema sanitario o de previsión social equivalente.
 
-> Téngase en cuenta que el apartado 3, añadido por el art. 225.1 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
 > Se añade el apartado 3 por el art. 225.1 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -2695,18 +2561,6 @@ En caso de presentación de escritos y documentos en soporte papel, el funcionar
 5\. La presentación de escritos y documentos, cualquiera que fuera la forma, si estuviere sujeta a plazo, procesal o sustantivo, podrá efectuarse hasta las quince horas del día hábil siguiente al del vencimiento del plazo.
 
 En las actuaciones ante los tribunales civiles, no se admitirá la presentación de escritos en el juzgado que preste el servicio de guardia.
-
-> Téngase en cuenta que esta actualización de los apartados 2 y 5, establecida por el art. 103.18 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Cuando la presentación de escritos perentorios dentro de plazo por los medios telemáticos o electrónicos a que se refiere el apartado anterior no sea posible por interrupción no planificada del servicio de comunicaciones telemáticas o electrónicas, siempre que sea posible se dispondrán las medidas para que el usuario resulte informado de esta circunstancia, así como de los efectos de la suspensión, con indicación expresa, en su caso, de la prórroga de los plazos de inminente vencimiento. El remitente podrá proceder, en este caso, a su presentación en la oficina judicial el primer día hábil siguiente acompañando el justificante de dicha interrupción.
-
-> En los casos de interrupción planificada deberá anunciarse con la antelación suficiente, informando de los medios alternativos de presentación que en tal caso procedan.
-
-> 5\. La presentación de escritos y documentos, cualquiera que fuera la forma, si estuviere sujeta a plazo, podrá efectuarse hasta las quince horas del día hábil siguiente al del vencimiento del plazo.
-
-> En las actuaciones ante los tribunales civiles, no se admitirá la presentación de escritos en el juzgado que preste el servicio de guardia."
 
 > Se modifican los apartados 2 y 5 por el art. 103.18 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2755,8 +2609,6 @@ Las víctimas de violencia de género, violencia sexual, trata de seres humanos,
 5\. Lo dispuesto en los apartados anteriores será de aplicación también a aquellas actuaciones que hayan de realizarse únicamente ante los Letrados de la Administración de Justicia.
 
 6\. Lo dispuesto en este artículo deberá realizarse garantizando la accesibilidad universal.
-
-> Téngase en cuenta que este artículo, añadido por el art. 103.19 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 103.19 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -2884,20 +2736,6 @@ Si los mecanismos de garantía previstos en el párrafo anterior no se pudiesen 
 
 En estos casos, o cuando los medios de registro previstos en este artículo no se pudiesen utilizar por cualquier causa, el acta se extenderá por procedimientos informáticos, sin que pueda ser manuscrita más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos.
 
-> Téngase en cuenta que esta actualización de los apartados 1 y 2, establecida por el art. 103.20 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Las actuaciones procesales que no consistan en escritos y documentos se documentarán por medio de actas y diligencias. Cuando se utilicen medios técnicos de grabación o reproducción, el Letrado de la Administración de Justicia garantizará la autenticidad de lo grabado o reproducido.
-
-> 2\. Cuando la ley disponga que se levante acta, se recogerá en ella, con la necesaria extensión y detalle, todo lo actuado.
-
-> Si se tratase de actuaciones que conforme a esta ley hayan de registrarse en soporte apto para la grabación y reproducción, y el Letrado de la Administración de Justicia dispusiere de firma electrónica reconocida u otro sistema de seguridad que conforme a la ley garantice la autenticidad e integridad de lo grabado, el documento electrónico así generado constituirá el acta a todos los efectos.
-
-> Si los mecanismos de garantía previstos en el párrafo anterior no se pudiesen utilizar el Letrado de la Administración de Justicia deberá consignar en el acta los siguientes extremos: número y clase de procedimiento, lugar y fecha de celebración, tiempo de duración, asistentes al acto, peticiones y propuestas de las partes, en caso de proposición de pruebas, declaración de pertinencia y orden en la práctica de las mismas, resoluciones que adopte el Juez o Tribunal, así como las circunstancias e incidencias que no pudieran constar en aquel soporte.
-
-> En estos casos, o cuando los medios de registro previstos en este artículo no se pudiesen utilizar por cualquier causa, el acta se extenderá por procedimientos informáticos, sin que pueda ser manuscrita más que en las ocasiones en que la sala en que se esté celebrando la actuación careciera de medios informáticos."
-
 3\. Los tribunales podrán emplear medios técnicos de documentación y archivo de sus actuaciones y de los escritos y documentos que recibieren, con las garantías a que se refiere el apartado 1 del artículo 135 de esta Ley. También podrán emplear medios técnicos de seguimiento del estado de los procesos y de estadística relativa a éstos.
 
 > Se modifican los apartados 1 y 2 por el art. 103.20 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -2924,18 +2762,6 @@ Si los sistemas no proveen expediente judicial electrónico, el letrado o letrad
 
 Las partes podrán pedir, a su costa, copia o acceso electrónico de las grabaciones originales.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.21 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Las actuaciones orales en vistas, audiencias y comparecencias celebradas ante los jueces o magistrados o, en su caso, ante los letrados de la Administración de Justicia, se registrarán en soporte apto para la grabación y reproducción del sonido y la imagen y no podrán transcribirse.
-
-> Siempre que se cuente con los medios tecnológicos necesarios, el Letrado de la Administración de Justicia garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica reconocida u otro sistema de seguridad que conforme a la ley ofrezca tales garantías. En este caso, la celebración del acto no requerirá la presencia en la sala del Letrado de la Administración de Justicia salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista, o que excepcionalmente lo considere necesario el Letrado de la Administración de Justicia atendiendo a la complejidad del asunto, al número y naturaleza de las pruebas a practicar, al número de intervinientes, a la posibilidad de que se produzcan incidencias que no pudieran registrarse, o a la concurrencia de otras circunstancias igualmente excepcionales que lo justifiquen. En estos casos, el Letrado de la Administración de Justicia extenderá acta sucinta en los términos previstos en el artículo anterior.
-
-> Las actuaciones orales y vistas grabadas y documentadas en soporte digital no podrán transcribirse, salvo en aquellos casos en que una ley así lo determine.
-
-> El Letrado de la Administración de Justicia deberá custodiar el documento electrónico que sirva de soporte a la grabación. Las partes podrán pedir, a su costa, copia de las grabaciones originales."
-
 > Se modifica por el art. 103.21 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -2951,12 +2777,6 @@ Las partes podrán pedir, a su costa, copia o acceso electrónico de las grabaci
 Los letrados de la Administración de Justicia responderán de la debida formación de los autos, dejando constancia de las resoluciones que dicten los tribunales, o ellos mismos cuando así lo autorice la ley. Igualmente responderán de la conservación y custodia de los mismos, salvo el tiempo en que estuvieren en poder del juez o magistrado ponente u otros magistrados integrantes del Tribunal.
 
 En los casos en que el órgano judicial cuente con expediente judicial electrónico, responderán de su debida formación, aplicando u ordenando la aplicación, dentro del ámbito de su competencia, de la normativa sobre archivo judicial electrónico.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.22 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Los Letrados de la Administración de Justicia responderán de la debida formación de los autos dejando constancia de las resoluciones que dicten los Tribunales, o ellos mismos cuando así lo autorice la ley. Igualmente responderán de la conservación y custodia de los mismos, salvo el tiempo en que estuvieren en poder del Juez o Magistrado ponente u otros Magistrados integrantes del Tribunal."
 
 > Se modifica por el art. 103.22 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -3011,12 +2831,6 @@ Los actos procesales de comunicación serán:
 En el caso de acreditación por parte de una persona profesional de la procura de una causa de fuerza mayor a las que se refiere el artículo134, los Colegios de Procuradores podrán suspender el reenvío del servicio de notificaciones durante un plazo máximo de tres días hábiles.
 
 Alzada la suspensión, el Colegio de Procuradores restablecerá el servicio y reenviará al procurador o procuradora las notificaciones diarias junto con las acumuladas, estas últimas de forma escalonada en igual proporción a los días de suspensión empleados.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 225.2 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "2. Los actos de comunicación al Ministerio Fiscal, a la Abogacía del Estado, a los Letrados de las Cortes Generales y de las Asambleas Legislativas, o del Servicio Jurídico de la Administración de la Seguridad Social, de las demás Administraciones públicas de las Comunidades Autónomas o de los Entes Locales, así como los que se practiquen a través de los servicios de notificaciones organizados por los Colegios de Procuradores, se tendrán por realizados el día siguiente hábil a la fecha de recepción que conste en la diligencia o en el resguardo acreditativo de su recepción cuando el acto de comunicación se haya efectuado por los medios y con los requisitos que establece el artículo 162. Cuando el acto de comunicación fuera remitido con posterioridad a las 15:00 horas, se tendrá por recibido al día siguiente hábil."
 
 3\. Cuando la entrega de algún documento o despacho que deba acompañarse al acto de comunicación tenga lugar en fecha posterior a la recepción del acto de comunicación, éste se tendrá por realizado cuando conste efectuada la entrega del documento, siempre que los efectos derivados de la comunicación estén vinculados al documento.
 
@@ -3083,16 +2897,6 @@ El destinatario deberá identificar un dispositivo electrónico, servicio de men
 5\. En las notificaciones, citaciones y emplazamientos no se admitirá ni consignará respuesta alguna del interesado, a no ser que así se hubiera mandado. En los requerimientos se admitirá la respuesta que dé el requerido, consignándola sucintamente en la diligencia.
 
 6\. Si se practicase un mismo acto de comunicación dos o más veces, tendrá eficacia a efectos procesales la primera fecha en que se hubiese verificado, con independencia del medio que se hubiere empleado, a salvo los casos en los que las leyes procesales prevean expresamente la posibilidad de que una resolución se comunique más de una vez, en cuyo caso tendrá los efectos que dichas leyes determinen.
-
-> Téngase en cuenta que esta actualización del apartado 2 y la adición del apartado 6, establecidas por el art. 103.23 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Los actos de comunicación se practicarán por medios electrónicos cuando los sujetos intervinientes en un proceso estén obligados al empleo de los sistemas telemáticos o electrónicos existentes en la Administración de Justicia conforme al artículo 273, o cuando aquéllos, sin estar obligados, opten por el uso de esos medios, con sujeción, en todo caso, a las disposiciones contenidas en la normativa reguladora del uso de las tecnologías de la información y la comunicación en la Administración de Justicia.
-
-> No obstante, los actos de comunicación no se practicarán por medios electrónicos cuando el acto vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico o así lo disponga la ley.
-
-> El destinatario podrá identificar un dispositivo electrónico, servicio de mensajería simple o una dirección de correo electrónico que servirán para informarle de la puesta a su disposición de un acto de comunicación, pero no para la práctica de notificaciones. En tal caso, con independencia de la forma en que se realice el acto de comunicación, la oficina judicial enviará el referido aviso. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida."
 
 > Se modifica el apartado 2 y se añade el 6 por el art. 103.23 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -3216,12 +3020,6 @@ Al recibir estas comunicaciones, los Registros y organismos públicos procederá
 
 Cuando el destinatario del acto de comunicación no venga obligado legal o contractualmente a relacionarse por medios electrónicos con la Administración de Justicia y no pudiera acreditarse que ha recibido una comunicación que tenga por finalidad su personación en juicio o la realización o intervención personal en determinadas actuaciones procesales, se procederá a su entrega en la forma establecida en el artículo 161.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.26 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Cuando, en los casos del apartado 1 del artículo 155, no pudiera acreditarse que el destinatario ha recibido una comunicación que tenga por finalidad la personación en juicio o la realización o intervención personal de las partes en determinadas actuaciones procesales, se procederá a su entrega en la forma establecida en el artículo 161."
-
 > Se modifica por el art. 103.26 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -3252,14 +3050,6 @@ La cédula expresará con la debida precisión el objeto para el que se requiere
 
 5\. Con independencia del medio por el que se realice el acto de comunicación, los órganos de la Administración de Justicia enviarán un aviso al dispositivo electrónico de su destinatario o a la dirección de correo electrónico que les conste, informándole de la puesta a su disposición del acto de comunicación en la sede judicial electrónica o en la dirección electrónica habilitada única. La falta de práctica de este aviso no impedirá que el acto de comunicación sea considerado plenamente válido.
 
-> Téngase en cuenta que esta actualización del apartado 3 y la adición de los apartados 4 y 5, establecidas por el art. 103.27 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3. Cuando el destinatario tuviere su domicilio en el partido donde radique la sede del tribunal, y no se trate de comunicaciones de las que dependa la personación o la realización o intervención personal en las actuaciones, podrá remitirse, por cualquiera de los medios a que se refiere el apartado 1, cédula de emplazamiento para que el destinatario comparezca en dicha sede a efectos de ser notificado o requerido o de dársele traslado de algún escrito.
-
-> La cédula expresará con la debida precisión el objeto para el que se requiere la comparecencia del emplazado, indicando el procedimiento y el asunto a que se refiere, con la advertencia de que, si el emplazado no comparece, sin causa justificada, dentro del plazo señalado, se tendrá por hecha la comunicación de que se trate o por efectuado el traslado."
-
 > Se modifica el apartado 3 y se añaden los apartados 4 y 5 por el art. 103.27 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -3273,14 +3063,6 @@ La cédula expresará con la debida precisión el objeto para el que se requiere
 1\. La entrega al destinatario de la comunicación de la copia de la resolución o de la cédula se efectuará en la sede judicial electrónica, en la sede del tribunal o en el domicilio de la persona que deba ser notificada, requerida, citada o emplazada, sin perjuicio de lo previsto en el ámbito de la ejecución.
 
 La entrega domiciliaria se documentará por medio de diligencia que será firmada por el funcionario o por el procurador que la efectúe y por la persona a quien se haga, cuyos datos identificativos se harán constar.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.28 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. La entrega al destinatario de la comunicación de la copia de la resolución o de la cédula se efectuará en la sede del tribunal o en el domicilio de la persona que deba ser notificada, requerida, citada o emplazada, sin perjuicio de lo previsto en el ámbito de la ejecución.
-
-> La entrega se documentará por medio de diligencia que será firmada por el funcionario o Procurador que la efectúe y por la persona a quien se haga, cuyo nombre se hará constar."
 
 2\. Cuando el destinatario de la comunicación sea hallado en el domicilio y se niegue a recibir la copia de la resolución o la cédula o no quiera firmar la diligencia acreditativa de la entrega, el funcionario o procurador que asuma su práctica le hará saber que la copia de la resolución o la cédula queda a su disposición en la oficina judicial, produciéndose los efectos de la comunicación, de todo lo cual quedará constancia en la diligencia.
 
@@ -3326,24 +3108,6 @@ No se practicarán actos de comunicación a los y las profesionales por vía ele
 
 3\. Cuando la autenticidad de resoluciones, documentos, dictámenes o informes presentados o transmitidos por los medios a que se refiere el apartado anterior sólo pudiera ser reconocida o verificada mediante su examen directo o por otros procedimientos, podrán, no obstante, ser presentados en soporte electrónico mediante imágenes digitalizadas de los mismos, en la forma prevista en los artículos 267 y 268, si bien, en caso de que alguna de las partes, el tribunal en los procesos de familia, de medidas judiciales de apoyo de personas con discapacidad o de filiación, o el Ministerio Fiscal así lo solicitasen, habrán de aportarse aquéllos en su soporte papel original, en el plazo o momento procesal que a tal efecto se señale.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.29 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Cuando las oficinas judiciales y las partes o los destinatarios de los actos de comunicación estén obligados a enviarlos y recibirlos por medios electrónicos, telemáticos, infotelecomunicaciones o de otra clase semejante, que permitan el envío y la recepción de escritos y documentos, de forma tal que esté garantizada la autenticidad de la comunicación y de su contenido y quede constancia fehaciente de la remisión y recepción íntegras y del momento en que se hicieron, o cuando los destinatarios opten por estos medios, los actos de comunicación se efectuarán por aquellos, con el resguardo acreditativo de su recepción que proceda.
-
-> Los profesionales y destinatarios obligados a utilizar estos medios, así como los que opten por los mismos, deberán comunicar a las oficinas judiciales el hecho de disponer de los medios antes indicados y la dirección electrónica habilitada a tal efecto.
-
-> Asimismo se constituirá en el Ministerio de Justicia un registro accesible electrónicamente de los medios indicados y las direcciones correspondientes a los organismos públicos y profesionales obligados a su utilización.
-
-> 2\. En cualquiera de los supuestos a los que se refiere este artículo, cuando constando la correcta remisión del acto de comunicación por dichos medios técnicos, salvo los practicados a través de los servicios de notificaciones organizados por los Colegios de Procuradores, transcurrieran tres días sin que el destinatario acceda a su contenido, se entenderá que la comunicación ha sido efectuada legalmente desplegando plenamente sus efectos.
-
-> Se exceptuarán aquellos supuestos en los que el destinatario justifique la falta de acceso al sistema de notificaciones durante ese periodo. Si la falta de acceso se debiera a causas técnicas y éstas persistiesen en el momento de ponerlas en conocimiento, el acto de comunicación se practicará mediante entrega de copia de la resolución. En cualquier caso, la notificación se entenderá válidamente recibida en el momento en que conste la posibilidad de acceso al sistema. No obstante, caso de producirse el acceso transcurrido dicho plazo pero antes de efectuada la comunicación mediante entrega, se entenderá válidamente realizada la comunicación en la fecha que conste en el resguardo acreditativo de su recepción.
-
-> No se practicarán actos de comunicación a los profesionales por vía electrónica durante los días del mes de agosto, salvo que sean hábiles para las actuaciones que corresponda.
-
-> 3\. Cuando la autenticidad de resoluciones, documentos, dictámenes o informes presentados o transmitidos por los medios a que se refiere el apartado anterior solo pudiera ser reconocida o verificada mediante su examen directo o por otros procedimientos, podrán, no obstante, ser presentados en soporte electrónico mediante imágenes digitalizadas de los mismos, en la forma prevista en los artículos 267 y 268 de esta Ley, si bien, en caso de que alguna de las partes, el Tribunal en los procesos de familia, provisión de medidas judiciales de apoyo o filiación, o el Ministerio Fiscal, así lo solicitasen, habrán de aportarse aquellos en su soporte papel original, en el plazo o momento procesal que a tal efecto se señale."
-
 > Se modifica por el art. 103.29 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -3373,18 +3137,6 @@ Cuando, practicadas en su caso las averiguaciones a que se refiere el artículo 
 En todo caso en la comunicación o publicación a que se refiere el párrafo anterior, en atención al superior interés de los menores y para preservar su intimidad, deberán omitirse los datos personales, nombres y apellidos, domicilio, o cualquier otro dato o circunstancia que directa o indirectamente pudiera permitir su identificación.
 
 En los procesos de desahucio de finca urbana o rústica por falta de pago de rentas o cantidades debidas o por expiración legal o contractual del plazo y en los procesos de reclamación de estas rentas o cantidades debidas, cuando no pudiere hallarse al arrendatario ni efectuarle la comunicación al arrendatario en los domicilios designados en el párrafo segundo del apartado 3 del artículo 155, ni hubiese comunicado de forma fehaciente con posterioridad al contrato un nuevo domicilio al arrendador, al que éste no se hubiese opuesto, se procederá, sin más trámites, a realizar la comunicación a través del Tablón Edictal Judicial Único.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.30 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Cuando, practicadas en su caso las averiguaciones a que se refiere el artículo 156, no pudiere conocerse el domicilio del destinatario de la comunicación, o cuando no pudiere hallársele ni efectuarse la comunicación con todos sus efectos, conforme a lo establecido en los artículos anteriores, o cuando así se acuerde en el caso a que se refiere el apartado 2 del artículo 157, el Letrado de la Administración de Justicia, consignadas estas circunstancias, mandará que se haga la comunicación fijando la copia de la resolución o la cédula en el tablón de anuncios de la oficina judicial de conformidad con la Ley 18/2011, de 5 de julio, reguladora del uso de las tecnologías de la información y la comunicación en la Administración de Justicia, salvaguardando en todo caso los derechos e intereses de menores, así como otros derechos y libertades que pudieran verse afectados por la publicidad de los mismos. Tal publicidad podrá ser sustituida, en los términos que reglamentariamente se determinen, por la utilización de otros medios telemáticos, informáticos o electrónicos.
-
-> Sólo a instancia de parte, y a su costa, se publicará en el "Boletín Oficial" de la provincia, en el de la Comunidad Autónoma, en el "Boletín Oficial del Estado" o en un diario de difusión nacional o provincial.
-
-> En todo caso en la comunicación o publicación a que se refieren los párrafos anteriores, en atención al superior interés de los menores y para preservar su intimidad, deberán omitirse los datos personales, nombres y apellidos, domicilio, o cualquier otro dato o circunstancia que directa o indirectamente pudiera permitir su identificación.
-
-> En los procesos de desahucio de finca urbana o rústica por falta de pago de rentas o cantidades debidas o por expiración legal o contractual del plazo y en los procesos de reclamación de estas rentas o cantidades debidas, cuando no pudiere hallársele ni efectuarle la comunicación al arrendatario en los domicilios designados en el párrafo segundo del apartado 3 del artículo 155, ni hubiese comunicado de forma fehaciente con posterioridad al contrato un nuevo domicilio al arrendador, al que éste no se hubiese opuesto, se procederá, sin más trámites, a fijar la cédula de citación o requerimiento en el tablón de anuncios de la oficina judicial."
 
 > Se modifica por el art. 103.30 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -3458,16 +3210,6 @@ No obstante, si así lo solicitaren, las partes podrán diligenciar personalment
 
 Sólo cuando a juicio del juez o de la jueza no sea conveniente realizarlas por videoconferencia y por razón de la distancia, dificultad del desplazamiento, circunstancias personales de la parte, del testigo o del perito, o por cualquier otra causa de análogas características resulte imposible o muy gravosa la comparecencia de las personas citadas en la sede del juzgado o tribunal, se podrá solicitar el auxilio judicial para la práctica de los actos de prueba señalados en este artículo.
 
-> Téngase en cuenta que esta actualización de los apartados 2 y 4, establecida por el art. 103.31 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Se solicitará el auxilio judicial para las actuaciones que hayan de efectuarse fuera de la circunscripción del tribunal que conozca del asunto, incluidos los actos de reconocimiento judicial, cuando el tribunal no considere posible o conveniente hacer uso de la facultad que le concede esta Ley de desplazarse fuera de su circunscripción para practicarlas.
-
-> 4\. El interrogatorio de las partes, la declaración de los testigos y la ratificación de los peritos se realizará en la sede del Juzgado o tribunal que esté conociendo del asunto de que se trate, aunque el domicilio de las personas mencionadas se encuentre fuera de la circunscripción judicial correspondiente.
-
-> Sólo cuando por razón de la distancia, dificultad del desplazamiento, circunstancias personales de la parte, del testigo o del perito, o por cualquier otra causa de análogas características resulte imposible o muy gravosa la comparecencia de las personas citadas en la sede del Juzgado o tribunal, se podrá solicitar el auxilio judicial para la práctica de los actos de prueba señalados en el párrafo anterior."
-
 > Se modifican los apartados 2 y 4 por el art. 103.31 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -3475,12 +3217,6 @@ Sólo cuando a juicio del juez o de la jueza no sea conveniente realizarlas por 
 **Artículo 170. Órgano al que corresponde prestar el auxilio judicial.**
 
 Corresponderá prestar el auxilio judicial a la Oficina del Juzgado de Primera Instancia del lugar en cuya circunscripción deba practicarse. No obstante lo anterior, si en dicho lugar tuviera su sede un Juzgado de Paz, y el auxilio judicial consistiere en un acto de comunicación o la intervención en un acto procesal a través de videoconferencia en los términos regulados en el artículo 137 bis de esta ley, a éste le corresponderá practicar la actuación.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.32 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Corresponderá prestar el auxilio judicial a la Oficina del Juzgado de Primera Instancia del lugar en cuya circunscripción deba practicarse. No obstante lo anterior, si en dicho lugar tuviera su sede un Juzgado de Paz, y el auxilio judicial consistiere en un acto de comunicación, a éste le corresponderá practicar la actuación."
 
 > Se modifica por el art. 103.32 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -3509,8 +3245,6 @@ Corresponderá prestar el auxilio judicial a la Oficina del Juzgado de Primera I
 3\. Cuando el auxilio judicial tenga por objeto la petición de datos o documentos que obren en expedientes judiciales electrónicos o metadatados en sistemas electrónicos de otros órganos de la Administración de Justicia, siempre que los medios electrónicos a disposición de los órganos implicados lo permitan la solicitud podrá transmitirse y cumplirse, sin necesidad de exhorto, por los medios electrónicos que se habiliten al efecto que, en todo caso, deberán asegurar la identificación del órgano transmisor y receptor, así como del momento y contenido de la solicitud y de la transmisión.
 
 4\. Tampoco será preceptivo el exhorto en el caso de actuaciones procesales que hayan de celebrarse con participación telemática de todos o algunos de los intervinientes desde una oficina judicial.
-
-> Téngase en cuenta que los apartados 3 y 4, añadidos por el art. 103.33 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añaden los apartados 3 y 4 por el art. 103.33 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -3618,12 +3352,6 @@ Para el caso de que en el plazo por el que se solicita la suspensión estuviere 
 
 5\. El letrado o letrada de la Administración de Justicia, una vez acreditada la causa invocada, dictará a la mayor brevedad posible decreto acordando la suspensión del proceso a todos los efectos y por el plazo que corresponda, que deberá ser notificado de inmediato.
 
-> Téngase en cuenta que los apartados 3 a 5, añadidos por el art. 225.3 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), así como la modificación de la rúbrica, entran en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Artículo 179. Impulso procesal y suspensión del proceso por acuerdo de las partes."
-
 > Se modifica la rúbrica y se añaden los apartados 3 a 5 por el art. 225.3 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -3721,8 +3449,6 @@ Del mismo modo, corresponde al Juez o Presidente el señalamiento cuando la deci
 En particular, si la parte hubiese sido citada a la vista para responder al interrogatorio regulado en los artículos 301 y siguientes, el Letrado de la Administración de Justicia efectuará nuevo señalamiento, con las citaciones que sean procedentes. Lo mismo resolverá cuando esté citada para interrogatorio una parte contraria a la que alegase y acreditase la imposibilidad de asistir.
 
 3 bis. Si una de las partes o de las personas que han de intervenir en la vista es una persona con una edad de ochenta años o más, podrá solicitar y así se acordará por el letrado o la letrada de la Administración de Justicia que se practique el señalamiento en las primeras horas de audiencia o bien en las últimas, en función de las necesidades de la persona afectada.
-
-> Téngase en cuenta que el apartado 3 bis, añadido por el art. 103.34 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 4\. El Letrado de la Administración de Justicia pondrá en conocimiento del Tribunal la fecha y hora fijadas para el nuevo señalamiento, en el mismo día o en el día hábil siguiente a aquél en que hubiera sido acordado.
 
@@ -3822,36 +3548,6 @@ Lo dispuesto en el párrafo anterior no será de aplicación a las vistas relati
 
 3\. Este régimen de suspensión de las vistas será de aplicación, en lo que proceda, a los demás actos procesales que estuvieren señalados.
 
-> Téngase en cuenta que el apartado 3 y la actualización de la rúbrica y del apartado 1, establecidos por el art. 225.5 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entran en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Artículo 188. Suspensión de las vistas.
-
-> 1\. La celebración de las vistas en el día señalado sólo podrá suspenderse, en los siguientes supuestos:
-
-> 1.º Por impedirla la continuación de otra pendiente del día anterior.
-
-> 2.º Por faltar el número de Magistrados necesario para dictar resolución o por indisposición sobrevenida del Juez o del Letrado de la Administración de Justicia, si no pudiere ser sustituido.
-
-> 3.º Por solicitarlo de acuerdo las partes, alegando justa causa a juicio del Letrado de la Administración de Justicia.
-
-> 4.º Por imposibilidad absoluta de cualquiera de las partes citadas para ser interrogadas en el juicio o vista, siempre que tal imposibilidad, justificada suficientemente a juicio del Letrado de la Administración de Justicia, se hubiese producido cuando ya no fuera posible solicitar nuevo señalamiento conforme a lo dispuesto en el artículo 183.
-
-> 5.º Por muerte, enfermedad o imposibilidad absoluta o baja por maternidad o paternidad del abogado de la parte que pidiere la suspensión, justificadas suficientemente, a juicio del Letrado de la Administración de Justicia, siempre que tales hechos se hubiesen producido cuando ya no fuera posible solicitar nuevo señalamiento conforme a lo dispuesto en el artículo 183, siempre que se garantice el derecho a la tutela judicial efectiva y no se cause indefensión.
-
-> Igualmente, serán equiparables a los supuestos anteriores y con los mismos requisitos, otras situaciones análogas previstas en otros sistemas de previsión social y por el mismo tiempo por el que se otorgue la baja y la prestación de los permisos previstos en la legislación de la Seguridad Social.
-
-> 6.º Por tener el abogado defensor dos señalamientos de vista para el mismo día en distintos Tribunales, resultando imposible, por el horario fijado, su asistencia a ambos, siempre que acredite suficientemente que, al amparo del artículo 183, intentó, sin resultado, un nuevo señalamiento que evitara la coincidencia.
-
-> En este caso, tendrá preferencia la vista relativa a causa criminal con preso y, en defecto de esta actuación, la del señalamiento más antiguo, y si los dos señalamientos fuesen de la misma fecha, se suspenderá la vista correspondiente al procedimiento más moderno.
-
-> No se acordará la suspensión de la vista si la comunicación de la solicitud para que aquélla se acuerde se produce con más de tres días de retraso desde la notificación del señalamiento que se reciba en segundo lugar. A estos efectos deberá acompañarse con la solicitud copia de la notificación del citado señalamiento.
-
-> Lo dispuesto en el párrafo anterior no será de aplicación a las vistas relativas a causa criminal con preso, sin perjuicio de la responsabilidad en que se hubiere podido incurrir.
-
-> 7.º Por haberse acordado la suspensión del curso de las actuaciones o resultar procedente tal suspensión de acuerdo con lo dispuesto por esta ley."
-
 > Se modifica la rúbrica y el apartado 1 y se añade el apartado 3 por el art. 225.5 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -3869,8 +3565,6 @@ Lo dispuesto en el párrafo anterior no será de aplicación a las vistas relati
 2\. El nuevo señalamiento se hará para el día más inmediato posible, sin alterar el orden de los que ya estuvieren hechos.
 
 3\. Para los casos del artículo 179.3, y con los límites establecidos en el mismo, se respetará en la fecha del nuevo señalamiento el período de baja obligatoria que, por enfermedad, nacimiento o cuidado de menor, tuviere establecido la persona profesional de la abogacía.
-
-> Téngase en cuenta que el apartado 3, añadido por el art. 225.6 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
 
 > Se añade el apartado 3 por el art. 225.6 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -3982,12 +3676,6 @@ Cuando los pidieren varios, el que presida fijará el tiempo por el que haya de 
 
 En los tribunales colegiados se discutirán y votarán las resoluciones inmediatamente después de la vista, si ésta se celebrare y, en otro caso, señalará el Presidente el día en que se hayan de discutir y votar, dentro del plazo señalado por la Ley. En ambos casos, la deliberación y votación podrán tener lugar por medios electrónicos, cuando se cuente con ellos, de conformidad con lo que establezca la normativa que regule los usos de la tecnología en la Administración de Justicia.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.35 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "En los tribunales colegiados se discutirán y votarán las resoluciones inmediatamente después de la vista, si ésta se celebrare y, en otro caso, señalará el Presidente el día en que se hayan de discutir y votar, dentro del plazo señalado por la Ley."
-
 > Se modifica por el art. 103.35 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4089,22 +3777,6 @@ En los procesos de declaración, cuando la ley no exprese la clase de resolució
 También revestirán la forma de auto las resoluciones que versen sobre presupuestos procesales, anotaciones e inscripciones registrales y cuestiones incidentales, tengan o no señalada en esta ley tramitación especial, siempre que en tales casos la ley exigiera decisión del tribunal así como las que pongan fin a las actuaciones de una instancia o recurso antes de que concluya su tramitación ordinaria, salvo que, respecto de estas últimas, la ley hubiera dispuesto que deban finalizar por decreto. El recurso de casación podrá decidirse mediante auto en los casos previstos en el artículo 487.1.
 
 3.ª Se dictará sentencia para poner fin al proceso, en primera o segunda instancia, una vez que haya concluido su tramitación ordinaria prevista en la ley. También se resolverán mediante sentencia los recursos de casación y los procedimientos para la revisión de sentencias firmes, salvo lo dispuesto en el artículo 487.1.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.36 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Son resoluciones judiciales las providencias, autos y sentencias dictadas por los jueces y Tribunales.
-
-> En los procesos de declaración, cuando la ley no exprese la clase de resolución judicial que haya de emplearse, se observarán las siguientes reglas:
-
-> 1.ª Se dictará providencia cuando la resolución se refiera a cuestiones procesales que requieran una decisión judicial por así establecerlo la ley, siempre que en tales casos no exigiera expresamente la forma de auto.
-
-> 2.ª Se dictarán autos cuando se decidan recursos contra providencias o decretos, cuando se resuelva sobre admisión o inadmisión de demanda, reconvención, acumulación de acciones, admisión o inadmisión de la prueba, aprobación judicial de transacciones, acuerdos de mediación y convenios, medidas cautelares y nulidad o validez de las actuaciones.
-
-> También revestirán la forma de auto las resoluciones que versen sobre presupuestos procesales, anotaciones e inscripciones registrales y cuestiones incidentales, tengan o no señalada en esta Ley tramitación especial, siempre que en tales casos la ley exigiera decisión del Tribunal, así como las que pongan fin a las actuaciones de una instancia o recurso antes de que concluya su tramitación ordinaria, salvo que, respecto de estas últimas, la ley hubiera dispuesto que deban finalizar por decreto.
-
-> 3.ª Se dictará sentencia para poner fin al proceso, en primera o segunda instancia, una vez que haya concluido su tramitación ordinaria prevista en la ley. También se resolverán mediante sentencia los recursos extraordinarios y los procedimientos para la revisión de sentencias firmes."
 
 2\. Las resoluciones de los Letrados de la Administración de Justicia se denominarán diligencias y decretos.
 
@@ -4218,12 +3890,6 @@ La sentencia se dictará al concluir el mismo acto de la vista en presencia de l
 
 En los casos en que el tribunal cuente con expediente judicial electrónico, se velará por la incorporación y constancia en el mismo de la sentencia, firmada electrónicamente en los términos que prevea la normativa que regule el uso de la tecnología en la Administración de Justicia.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. 103.37 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "4. Los Letrados de la Administración de Justicia pondrán en los autos certificación literal de las sentencias y demás resoluciones definitivas."
-
 > Se modifica el apartado 4 por el art. 103.37 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4238,12 +3904,6 @@ En los casos en que el tribunal cuente con expediente judicial electrónico, se 
 
 En cada tribunal se llevará, bajo la custodia del letrado o letrada de la Administración de Justicia, un libro de sentencias, en el que se incluirán firmadas todas las definitivas, autos de igual carácter, así como los votos particulares que se hubieren formulado, que serán ordenados correlativamente según su fecha. Cuando los sistemas informáticos permitan la generación de libros electrónicos, el letrado o letrada de la Administración de Justicia velará por el adecuado uso de los sistemas.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.38 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "En cada tribunal se llevará, bajo la custodia del Letrado de la Administración de Justicia, un libro de sentencias, en el que se incluirán firmadas todas las definitivas, autos de igual carácter, así como los votos particulares que se hubieren formulado, que serán ordenados correlativamente según su fecha."
-
 > Se modifica por el art. 103.38 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4253,12 +3913,6 @@ En cada tribunal se llevará, bajo la custodia del letrado o letrada de la Admin
 **Artículo 213 bis. Libro de decretos.**
 
 En cada Tribunal se llevará, bajo la responsabilidad y custodia del letrado o letrada de la Administración de Justicia, un libro de decretos, en el que se incluirán firmados todos los definitivos, que serán ordenados cronológicamente. Cuando los sistemas informáticos permitan la generación de libros electrónicos, el letrado o letrada de la Administración de Justicia velará por el adecuado uso de los sistemas.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.39 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "En cada Tribunal se llevará, bajo la responsabilidad y custodia del Letrado de la Administración de Justicia, un libro de decretos, en el que se incluirán firmados todos los definitivos, que serán ordenados cronológicamente."
 
 > Se modifica por el art. 103.39 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -4385,16 +4039,6 @@ Se considerarán hechos nuevos y distintos, en relación con el fundamento de la
 En las sentencias sobre estado civil, matrimonio, filiación, paternidad, maternidad y de medidas de apoyo para el ejercicio de la capacidad jurídica, la cosa juzgada tendrá efectos frente a terceros a partir de su inscripción o anotación en el Registro Civil.
 
 Las sentencias que se dicten sobre impugnación de acuerdos societarios afectarán a todos los socios, aunque no hubieren litigado.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 103.40 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3. La cosa juzgada afectará a las partes del proceso en que se dicte y a sus herederos y causahabientes, así como a los sujetos, no litigantes, titulares de los derechos que fundamenten la legitimación de las partes conforme a lo previsto en los artículos 11 y 11 bis de esta ley.
-
-> En las sentencias sobre estado civil, matrimonio, filiación, paternidad, maternidad e incapacitación y reintegración de la capacidad, la cosa juzgada tendrá efectos frente a terceros a partir de su inscripción o anotación en el Registro Civil.
-
-> Las sentencias que se dicten sobre impugnación de acuerdos societarios afectarán a todos los socios, aunque no hubieren litigado."
 
 4\. Lo resuelto con fuerza de cosa juzgada en la sentencia firme que haya puesto fin a un proceso vinculará al tribunal de un proceso posterior cuando en éste aparezca como antecedente lógico de lo que sea su objeto, siempre que los litigantes de ambos procesos sean los mismos o la cosa juzgada se extienda a ellos por disposición legal.
 
@@ -4572,16 +4216,6 @@ Estos plazos se contarán desde la última notificación a las partes.
 
 2\. Contra el decreto que declare la caducidad solo cabrá recurso de revisión.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.41 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Se tendrán por abandonadas las instancias y recursos en toda clase de pleitos si, pese al impulso de oficio de las actuaciones, no se produce actividad procesal alguna en el plazo de dos años, cuando el pleito se hallare en primera instancia; y de uno, si estuviere en segunda instancia o pendiente de recurso extraordinario por infracción procesal o de recurso de casación.
-
-> Estos plazos se contarán desde la última notificación a las partes.
-
-> 2\. Contra el decreto que declare la caducidad sólo cabrá recurso de revisión."
-
 > Se modifica por el art. 103.41 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4601,12 +4235,6 @@ Estas actuaciones se podrán proseguir hasta obtener el cumplimiento de lo juzga
 **Artículo 240. Efectos de la caducidad de la instancia.**
 
 1\. Si la caducidad se produjere en la segunda instancia o en el recurso de casación, se tendrá por desistida la apelación o el recurso de casación y por firme la resolución recurrida y se devolverán las actuaciones al tribunal del que procedieren.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.42 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Si la caducidad se produjere en la segunda instancia o en los recursos extraordinarios mencionados en el artículo 237, se tendrá por desistida la apelación o dichos recursos y por firme la resolución recurrida y se devolverán las actuaciones al tribunal del que procedieren."
 
 2\. Si la caducidad se produjere en la primera instancia, se entenderá producido el desistimiento en dicha instancia, por lo que podrá interponerse nueva demanda, sin perjuicio de la caducidad de la acción.
 
@@ -4828,30 +4456,6 @@ No obstante, se estará a lo dispuesto en el numeral 12.º del apartado 1 del ar
 
 2\. Se decidirán también en el juicio ordinario las demandas cuya cuantía exceda de quince mil euros y aquéllas cuyo interés económico resulte imposible de calcular, ni siquiera de modo relativo.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.43 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Se decidirán en el juicio ordinario, cualquiera que sea su cuantía:
-
-> 1.º Las demandas relativas a derechos honoríficos de la persona.
-
-> 2.º Las que pretendan la tutela del derecho al honor, a la intimidad y a la propia imagen, y las que pidan la tutela judicial civil de cualquier otro derecho fundamental, salvo las que se refieran al derecho de rectificación. En estos procesos, será siempre parte el Ministerio Fiscal y su tramitación tendrá carácter preferente.
-
-> 3.º Las demandas sobre impugnación de acuerdos sociales adoptados por Juntas o Asambleas Generales o especiales de socios o de obligacionistas o por órganos colegiados de administración en entidades mercantiles.
-
-> 4.º Las demandas en materia de competencia desleal, defensa de la competencia, en aplicación de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea o de los artículos 1 y 2 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, propiedad industrial, propiedad intelectual y publicidad, siempre que no versen exclusivamente sobre reclamaciones de cantidad, en cuyo caso se tramitarán por el procedimiento que les corresponda en función de la cuantía que se reclame y los recursos contra las resoluciones de la Oficina Española de Patentes y Marcas en materia de propiedad industrial que pongan fin a la vía administrativa, que se tramitarán por los trámites del juicio verbal conforme a lo dispuesto en el artículo 250.3 de esta ley. No obstante, se estará a lo dispuesto en el punto 12 del apartado 1 del artículo 250 de esta ley cuando se trate del ejercicio de la acción de cesación en defensa de los intereses colectivos y de los intereses difusos de los consumidores y usuarios en materia de publicidad.
-
-> 5.º Las demandas en que se ejerciten acciones relativas a condiciones generales de contratación en los casos previstos en la legislación sobre esta materia, salvo lo dispuesto en el punto 12.º del apartado 1 del artículo 250.
-
-> 6.º Las que versen sobre cualesquiera asuntos relativos a arrendamientos urbanos o rústicos de bienes inmuebles, salvo que se trate de reclamaciones de rentas o cantidades debidas por el arrendatario o del desahucio por falta de pago o por extinción del plazo de la relación arrendaticia, o salvo que sea posible hacer una valoración de la cuantía del objeto del procedimiento, en cuyo caso el proceso será el que corresponda a tenor de las reglas generales de esta Ley.
-
-> 7.º Las que ejerciten una acción de retracto de cualquier tipo.
-
-> 8.º Cuando se ejerciten las acciones que otorga a las Juntas de Propietarios y a éstos la Ley de Propiedad Horizontal, siempre que no versen exclusivamente sobre reclamaciones de cantidad, en cuyo caso se tramitarán por el procedimiento que corresponda.
-
-> 2\. Se decidirán también en el juicio ordinario las demandas cuya cuantía excedan de seis mil euros y aquéllas cuyo interés económico resulte imposible de calcular, ni siquiera de modo relativo."
-
 > Se modifica por el art. 103.43 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -4913,44 +4517,6 @@ Podrán pedir la inmediata recuperación de la plena posesión de una vivienda o
 2\. Se decidirán también en el juicio verbal las demandas cuya cuantía no exceda de quince mil euros y no se refieran a ninguna de las materias previstas en el apartado 1 del artículo anterior.
 
 3\. Se decidirán en juicio verbal, con las especialidades establecidas en el artículo 447 bis de esta ley, los recursos contra las resoluciones que agoten la vía administrativa dictadas en materia de propiedad industrial por la Oficina Española de Patentes y Marcas.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.44 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Se decidirán en juicio verbal, cualquiera que sea su cuantía, las demandas siguientes:
-
-> 1.º Las que versen sobre reclamación de cantidades por impago de rentas y cantidades debidas y las que, igualmente, con fundamento en el impago de la renta o cantidades debidas por el arrendatario, o en la expiración del plazo fijado contractual o legalmente, pretendan que el dueño, usufructuario o cualquier otra persona con derecho a poseer una finca rústica o urbana dada en arrendamiento, ordinario o financiero o en aparcería, recuperen la posesión de dicha finca.
-
-> 2.º Las que pretendan la recuperación de la plena posesión de una finca rústica o urbana, cedida en precario, por el dueño, usufructuario o cualquier otra persona con derecho a poseer dicha finca.
-
-> 3.º Las que pretendan que el tribunal ponga en posesión de bienes a quien los hubiere adquirido por herencia si no estuvieren siendo poseídos por nadie a título de dueño o usufructuario.
-
-> 4.º Las que pretendan la tutela sumaria de la tenencia o de la posesión de una cosa o derecho por quien haya sido despojado de ellas o perturbado en su disfrute.
-
-> Podrán pedir la inmediata recuperación de la plena posesión de una vivienda o parte de ella, siempre que se hayan visto privados de ella sin su consentimiento, la persona física que sea propietaria o poseedora legítima por otro título, las entidades sin ánimo de lucro con derecho a poseerla y las entidades públicas propietarias o poseedoras legítimas de vivienda social.
-
-> 5.º Las que pretendan que el tribunal resuelva, con carácter sumario, la suspensión de una obra nueva.
-
-> 6.º Las que pretendan que el tribunal resuelva, con carácter sumario, la demolición o derribo de obra, edificio, árbol, columna o cualquier otro objeto análogo en estado de ruina y que amenace causar daños a quien demande.
-
-> 7.º Las que, instadas por los titulares de derechos reales inscritos en el Registro de la Propiedad, demanden la efectividad de esos derechos frente a quienes se oponga a ellos o perturben su ejercicio, sin disponer de título inscrito que legitime la oposición o la perturbación.
-
-> 8.º Las que soliciten alimentos debidos por disposición legal o por otro título.
-
-> 9.º Las que supongan el ejercicio de la acción de rectificación de hechos inexactos y perjudiciales.
-
-> 10.º Las que pretendan que el tribunal resuelva, con carácter sumario, sobre el incumplimiento por el comprador de las obligaciones derivadas de los contratos inscritos en el Registro de Venta a Plazos de Bienes Muebles y formalizados en el modelo oficial establecido al efecto, al objeto de obtener una sentencia condenatoria que permita dirigir la ejecución exclusivamente sobre el bien o bienes adquiridos o financiados a plazos.
-
-> 11.º Las que pretendan que el tribunal resuelva, con carácter sumario, sobre el incumplimiento de un contrato de arrendamiento financiero, de arrendamiento de bienes muebles, o de un contrato de venta a plazos con reserva de dominio, siempre que estén inscritos en el Registro de Venta a Plazos de Bienes Muebles y formalizados en el modelo oficial establecido al efecto, mediante el ejercicio de una acción exclusivamente encaminada a obtener la inmediata entrega del bien al arrendador financiero, al arrendador o al vendedor o financiador en el lugar indicado en el contrato, previa declaración de resolución de éste, en su caso.
-
-> 12.º Las que supongan el ejercicio de la acción de cesación en defensa de los intereses colectivos y difusos de los consumidores y usuarios.
-
-> 13.º Las que pretendan la efectividad de los derechos reconocidos en el artículo 160 del Código Civil. En estos casos el juicio verbal se sustanciará con las peculiaridades dispuestas en el capítulo I del título I del libro IV de esta ley.
-
-> 2\. Se decidirán también en el juicio verbal las demandas cuya cuantía no exceda de seis mil euros y no se refieran a ninguna de las materias previstas en el apartado 1 del artículo anterior.
-
-> 3\. Se decidirán en juicio verbal, con las especialidades establecidas en el artículo 447 bis de esta ley, los recursos contra las resoluciones que agoten la vía administrativa dictadas en materia de propiedad industrial por la Oficina Española de Patentes y Marcas."
 
 > Se modifica por el art. 103.44 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -5298,12 +4864,6 @@ Se habrán de acompañar a la demanda:
 
 Cuando sean públicos los documentos que hayan de aportarse conforme a lo dispuesto en el artículo 265, podrán presentarse por copia simple, ya sea en soporte papel o, en su caso, en soporte electrónico a través de imagen digitalizada conforme a la normativa técnica del Comité Técnico Estatal de la Administración Judicial Electrónica sobre imagen electrónica y, si se impugnara su autenticidad, podrá llevarse a los autos original, copia o certificación del documento con los requisitos necesarios para que surta sus efectos probatorios.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.47 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Cuando sean públicos los documentos que hayan de aportarse conforme a lo dispuesto en el artículo 265, podrán presentarse por copia simple, ya sea en soporte papel o, en su caso, en soporte electrónico a través de imagen digitalizada incorporada como anexo que habrá de ir firmado mediante firma electrónica reconocida y, si se impugnara su autenticidad, podrá llevarse a los autos original, copia o certificación del documento con los requisitos necesarios para que surta sus efectos probatorios."
-
 > Se modifica por el art. 103.47 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -5313,12 +4873,6 @@ Cuando sean públicos los documentos que hayan de aportarse conforme a lo dispue
 **Artículo 268. Forma de presentación de los documentos privados.**
 
 1\. Los documentos privados que hayan de aportarse se presentarán en original o mediante copia autenticada por el fedatario público competente y se unirán a los autos o se dejará testimonio de ellos, con devolución de los originales o copias fehacientes presentadas, si así lo solicitan los interesados. Estos documentos podrán ser también presentados mediante imágenes digitalizadas conforme a la normativa técnica del Comité Técnico Estatal de la Administración Judicial Electrónica sobre imagen electrónica y, si se impugnara su autenticidad, podrá llevarse a los autos original, copia o certificación del documento con los requisitos necesarios para que surta sus efectos probatorios.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.48 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Los documentos privados que hayan de aportarse se presentarán en original o mediante copia autenticada por el fedatario público competente y se unirán a los autos o se dejará testimonio de ellos, con devolución de los originales o copias fehacientes presentadas, si así lo solicitan los interesados. Estos documentos podrán ser también presentados mediante imágenes digitalizadas, incorporadas a anexos firmados electrónicamente."
 
 2\. Si la parte sólo posee copia simple del documento privado, podrá presentar ésta, ya sea en soporte papel o mediante imagen digitalizada en la forma descrita en el apartado anterior, que surtirá los mismos efectos que el original, siempre que la conformidad de aquélla con éste no sea cuestionada por cualquiera de las demás partes.
 
@@ -5333,8 +4887,6 @@ Cuando sean públicos los documentos que hayan de aportarse conforme a lo dispue
 **Artículo 268 bis. Presentación de documentos por medios electrónicos.**
 
 La presentación de documentos por medios electrónicos se ajustará en todo caso a lo que determine la Ley que regule el uso de las tecnologías en la Administración de Justicia.
-
-> Téngase en cuenta que este artículo, añadido por el art. 103.49 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 103.49 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -5359,8 +4911,6 @@ La presentación de documentos por medios electrónicos se ajustará en todo cas
 2\. Cuando un documento, medio o instrumento sobre hechos relativos al fondo del asunto, se presentase una vez precluidos los actos a que se refiere el apartado anterior, las demás partes podrán alegar en el juicio o en la vista la improcedencia de tomarlo en consideración, por no encontrarse en ninguno de los casos a que se refiere el apartado anterior. El tribunal resolverá en el acto y, si apreciare ánimo dilatorio o mala fe procesal en la presentación del documento, podrá, además, imponer al responsable una multa de 180 a 1.200 euros.
 
 3\. La presentación de documentos en el curso de actos judiciales o procesales celebrados por videoconferencia, en los casos en los que dicha presentación sea posible de conformidad con la presente ley, se ajustará a lo establecido por la Ley que regule el uso de las tecnologías en la Administración de Justicia.
-
-> Téngase en cuenta que el apartado 3, añadido por el art. 103.50 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade el apartado 3 por el art. 103.50 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -5456,12 +5006,6 @@ Dicha omisión se hará notar por el Letrado de la Administración de Justicia a
 
 3\. En los supuestos de presentación en soporte papel de conformidad con el apartado 4 del artículo 135, el procurador deberá trasladar de forma telemática y con carácter previo a los procuradores de las restantes partes las copias de los escritos y documentos que vaya a presentar al tribunal.
 
-> Téngase en cuenta que el apartado 4 se suprime por el art. 103.52 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "4. Lo dispuesto en los apartados anteriores de este artículo no será de aplicación cuando se trate del traslado de la demanda o de cualquier otro escrito que pueda originar la primera comparecencia en juicio. En tales casos, el procurador habrá de acompañar copias de dichos escritos y de los documentos que a ellos se acompañen y el Letrado de la Administración de Justicia efectuará el traslado conforme a lo dispuesto en los artículos 273 y 274 de esta Ley. Si el procurador omitiere la presentación de estas copias, se tendrá a los escritos por no presentados o a los documentos por no aportados, a todos los efectos."
-
 > Se suprime el apartado 4 por el art. 103.52 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -5499,12 +5043,6 @@ Cuando el acto del que se haya dado traslado en la forma establecida en el artí
 1\. Las pretensiones de las partes se deducirán en vista de las copias de los escritos, de los documentos y de las resoluciones del Tribunal o Letrado de la Administración de Justicia, que cada litigante habrá de conservar en su poder.
 
 2\. No se entregarán a las partes los autos originales en formato papel, sin perjuicio de la puesta a disposición del expediente judicial electrónico en los casos en que proceda, y de que, en los casos en que no estén obligadas a intervenir a través de medios electrónicos con la Administración de Justicia, puedan pedir y obtener copia de algún escrito o documento.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.53 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. No se entregarán a las partes los autos originales, sin perjuicio de que puedan obtener, a su costa, copias de algún escrito o documento."
 
 > Se modifica el apartado 2 por el art. 103.53 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6040,12 +5578,6 @@ Igual prevención se adoptará cuando deban ser interrogados varios litisconsort
 
 1\. En el caso de que por enfermedad que lo impida o por otras circunstancias especiales de la persona que haya de contestar a las preguntas no pudiera ésta comparecer en la sede del tribunal, o el órgano judicial no lo considere conveniente, a instancia de parte o de oficio, se podrá decidir por el órgano judicial, oídas las partes, que la declaración se realice mediante videoconferencia, si las circunstancias concurrentes garantizan la validez de la declaración, o también se podrá prestar la declaración en el domicilio o residencia del declarante ante el juez, la jueza o el miembro del tribunal que corresponda, en presencia del letrado de la Administración de Justicia.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.54 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. En el caso de que por enfermedad que lo impida o por otras circunstancias especiales de la persona que haya de contestar a las preguntas no pudiera ésta comparecer en la sede del tribunal, a instancia de parte o de oficio, la declaración se podrá prestar en el domicilio o residencia del declarante ante el Juez o el miembro del tribunal que corresponda, en presencia del Letrado de la Administración de Justicia."
-
 2\. Si las circunstancias no lo hicieran imposible o sumamente inconveniente, al interrogatorio domiciliario podrán concurrir las demás partes y sus abogados. Pero si, a juicio del tribunal, la concurrencia de éstos y aquéllas no resultare procedente teniendo en cuenta las circunstancias de la persona y del lugar, se celebrará el interrogatorio a presencia del tribunal y del Letrado de la Administración de Justicia, pudiendo presentar la parte proponente un pliego de preguntas para que, de ser consideradas pertinentes, sean formuladas por el tribunal.
 
 > Se modifica el apartado 1 por el art. 103.54 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -6060,12 +5592,6 @@ En los casos del artículo anterior, el letrado o letrada de la Administración 
 
 Siempre que se cuente con los medios tecnológicos necesarios y el juez o Tribunal aprecie que resulta posible la grabación del interrogatorio sin afectar a la protección de la intimidad o dignidad de la persona, así lo ordenará, pudiendo ser la grabación únicamente de audio. En estos casos, no será de aplicación lo establecido en el párrafo anterior, sino que el letrado o letrada de la Administración de Justicia garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.55 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "En los casos del artículo anterior, el Letrado de la Administración de Justicia extenderá acta suficientemente circunstanciada de las preguntas y de las respuestas, que podrá leer por sí misma la persona que haya declarado. Si no supiere o no quisiere hacerlo, le será leída por el Letrado de la Administración de Justicia y el tribunal preguntará al interrogado si tiene algo que agregar o variar, extendiéndose a continuación lo que manifestare. Seguidamente, firmará el declarante y los demás asistentes, bajo la fe del Letrado de la Administración de Justicia."
-
 > Se modifica por el art. 103.55 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -6077,14 +5603,6 @@ Siempre que se cuente con los medios tecnológicos necesarios y el juez o Tribun
 Cuando la parte que hubiese de responder al interrogatorio resida fuera de la demarcación judicial del tribunal, será examinada mediante videoconferencia en los términos del artículo 137 bis; en otro caso, podrá ser examinada por vía de auxilio judicial si concurre alguna de las circunstancias a que se refiere el apartado 5 del artículo 169.
 
 En tales casos, se acompañará al despacho una relación de preguntas formuladas por la parte proponente del interrogatorio, si ésta así lo hubiera solicitado por no poder concurrir al acto del interrogatorio. Las preguntas deberán ser declaradas pertinentes por el tribunal que conozca del asunto.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.56 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Cuando la parte que hubiese de responder a interrogatorio resida fuera de la demarcación judicial del tribunal, y exista alguna de las circunstancias a que se refiere el párrafo segundo del apartado cuarto del artículo 169, aquélla podrá ser examinada por vía de auxilio judicial.
-
-> En tales casos, se acompañará al despacho una relación de preguntas formuladas por la parte proponente del interrogatorio, si ésta así lo hubiera solicitado por no poder concurrir al acto del interrogatorio. Las preguntas deberán ser declaradas pertinentes por el tribunal que conozca del asunto."
 
 > Se modifica por el art. 103.56 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6159,22 +5677,6 @@ Si los documentos públicos estuvieran incorporado al expediente en soporte elec
 En los casos de documentos públicos electrónicos, el letrado o letrada de la Administración de Justicia comprobará la validez de la firma electrónica, en su caso, mediante su verificación, a través del Código Seguro de Verificación. En todo caso, podrá valerse de la asistencia de un experto que emita informe, de inicio a cargo del impugnante, sin perjuicio de lo que se determine sobre imposición de costas.
 
 3\. Cuando de un cotejo o comprobación resulte la autenticidad o exactitud de la copia o testimonio impugnados, las costas, gastos y derechos que origine el cotejo o comprobación serán exclusivamente de cargo de quien hubiese formulado la impugnación. Si, a juicio del tribunal, la impugnación hubiese sido temeraria, podrá imponerle, además, una multa de 120 a 600 euros.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.57 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Si se impugnase la autenticidad de un documento público, para que pueda hacer prueba plena se procederá de la forma siguiente:
-
-> 1.º Las copias, certificaciones o testimonios fehacientes se cotejarán o comprobarán con los originales, dondequiera que se encuentren, ya se hayan presentado en soporte papel o electrónico, informático o digital.
-
-> 2.º Las pólizas intervenidas por corredor de comercio colegiado se comprobarán con los asientos de su Libro Registro.
-
-> 2\. El cotejo o comprobación de los documentos públicos con sus originales se practicará por el Letrado de la Administración de Justicia, constituyéndose al efecto en el archivo o local donde se halle el original o matriz, a presencia, si concurrieren, de las partes y de sus defensores, que serán citados al efecto.
-
-> Si los documentos públicos estuvieran en soporte electrónico, el cotejo con los originales se practicará por el Letrado de la Administración de Justicia en la oficina judicial, a presencia, si concurrieren, de las partes y de sus defensores, que serán citados al efecto.
-
-> 3\. Cuando de un cotejo o comprobación resulte la autenticidad o exactitud de la copia o testimonio impugnados, las costas, gastos y derechos que origine el cotejo o comprobación serán exclusivamente de cargo de quien hubiese formulado la impugnación. Si, a juicio del tribunal, la impugnación hubiese sido temeraria, podrá imponerle, además, una multa de 120 a 600 euros."
 
 > Se modifica por el art. 103.57 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6282,12 +5784,6 @@ Cuando estuvieren dispuestos a exhibirlos voluntariamente, no se les obligará a
 
 Si la persona de la que se requiera la exhibición según lo dispuesto en los artículos anteriores no estuviere dispuesta a desprenderse del documento para su incorporación a los autos, se extenderá testimonio de éste por el letrado o letrada de la Administración de Justicia en la sede del tribunal, si así lo solicitare el exhibiente, o se digitalizará por funcionario competente bajo la fe del letrado o letrada de la Administración de Justicia.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.58 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Si la persona de la que se requiera la exhibición según lo dispuesto en los artículos anteriores no estuviere dispuesta a desprenderse del documento para su incorporación a los autos, se extenderá testimonio de éste por el Letrado de la Administración de Justicia en la sede del tribunal, si así lo solicitare el exhibiente."
-
 > Se modifica por el art. 103.58 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -6347,12 +5843,6 @@ Cuando se trate de dibujos, fotografías, croquis, planos, mapas y otros documen
 **Artículo 337. Anuncio de dictámenes cuando no se puedan aportar con la demanda o con la contestación. Aportación posterior.**
 
 1\. Si no les fuese posible a las partes aportar dictámenes elaborados por peritos por ellas designados, junto con la demanda o contestación, expresarán en una u otra los dictámenes de que, en su caso, pretendan valerse, que habrán de aportar, para su traslado a la parte contraria, en cuanto dispongan de ellos, y en todo caso cinco días antes de iniciarse la audiencia previa al juicio ordinario o en treinta días desde la presentación de la demanda o de la contestación en el juicio verbal. Este plazo puede ser prorrogado por el tribunal cuando la naturaleza de la prueba pericial así lo exija y exista una causa justificada.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.59 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Si no les fuese posible a las partes aportar dictámenes elaborados por peritos por ellas designados, junto con la demanda o contestación, expresarán en una u otra los dictámenes de que, en su caso, pretendan valerse, que habrán de aportar, para su traslado a la parte contraria, en cuanto dispongan de ellos, y en todo caso cinco días antes de iniciarse la audiencia previa al juicio ordinario o de la vista en el verbal."
 
 2\. Aportados los dictámenes conforme a lo dispuesto en el apartado anterior, las partes habrán de manifestar si desean que los peritos autores de los dictámenes comparezcan en el juicio regulado en los artículos 431 y siguientes de esta Ley o, en su caso, en la vista del juicio verbal, expresando si deberán exponer o explicar el dictamen o responder a preguntas, objeciones o propuestas de rectificación o intervenir de cualquier otra forma útil para entender y valorar el dictamen en relación con lo que sea objeto del pleito.
 
@@ -6480,12 +5970,6 @@ El perito que el tribunal designe emitirá por escrito su dictamen, que hará ll
 
 Cuando el perito que deba intervenir en el juicio o la vista resida fuera de la demarcación judicial del tribunal, la declaración se hará preferentemente a través de videoconferencia.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.61 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "El perito que el tribunal designe emitirá por escrito su dictamen, que hará llegar por medios electrónicos al tribunal en el plazo que se le haya señalado. De dicho dictamen se dará traslado por el Letrado de la Administración de Justicia a las partes por si consideran necesario que el perito concurra al juicio o a la vista a los efectos de que aporte las aclaraciones o explicaciones que sean oportunas. El tribunal podrá acordar, en todo caso, mediante providencia, que considera necesaria la presencia del perito en el juicio o la vista para comprender y valorar mejor el dictamen realizado."
-
 > Se modifica por el art. 103.61 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -6612,12 +6096,6 @@ La otra parte podrá, antes de la realización del reconocimiento judicial, prop
 
 Siempre que se cuente con los medios tecnológicos necesarios, no será de aplicación lo previsto en el párrafo anterior, sino que el letrado o letrada de la Administración de Justicia garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.62 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Del reconocimiento judicial practicado se levantará por el Letrado de la Administración de Justicia acta detallada, consignándose en ella con claridad las percepciones y apreciaciones del tribunal, así como las observaciones hechas por las partes y por las personas a que se refiere el artículo 354."
-
 2\. También se recogerá en acta el resultado de las demás actuaciones de prueba que se hubieran practicado en el mismo acto del reconocimiento judicial, según lo dispuesto en los artículos 356 y 357.
 
 > Se modifica el apartado 1 por el art. 103.62 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -6635,14 +6113,6 @@ Siempre que sea posible, se garantizará la autenticidad e integridad de lo grab
 Si no se pudiere garantizar la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica u otro sistema de seguridad, se confeccionará acta escrita y se consignará en ella cuanto sea necesario para la identificación de las grabaciones, reproducciones o exámenes llevados a cabo, que habrán de incorporarse al expediente judicial electrónico, o en su defecto, conservarse por el letrado o letrada de la Administración de Justicia, de modo que no sufran alteraciones.
 
 Cuando sea posible la copia, con garantías de autenticidad, de lo grabado o reproducido por los antedichos medios o instrumentos, la parte a quien interese, a su costa, podrá pedirla y obtenerla del tribunal.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.63 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Se utilizarán medios de grabación de imagen y sonido u otros instrumentos semejantes para dejar constancia de lo que sea objeto de reconocimiento judicial y de las manifestaciones de quienes intervengan en él, pero no se omitirá la confección del acta y se consignará en ella cuanto sea necesario para la identificación de las grabaciones, reproducciones o exámenes llevados a cabo, que habrán de conservarse por el Letrado de la Administración de Justicia de modo que no sufran alteraciones.
-
-> Cuando sea posible la copia, con garantías de autenticidad, de lo grabado o reproducido por los antedichos medios o instrumentos, la parte a quien interese, a su costa, podrá pedirla y obtenerla del tribunal."
 
 > Se modifica por el art. 103.63 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6685,16 +6155,6 @@ Cuando el tribunal hubiere escuchado el testimonio de al menos tres testigos con
 A la declaración podrán asistir las partes y sus abogados, y, si no pudieren comparecer, se les autorizará a que presenten interrogatorio escrito previo con las preguntas que desean formular al testigo interrogado.
 
 3\. Cuando, atendidas las circunstancias, el tribunal considere prudente no permitir a las partes y a sus abogados que concurran a la declaración domiciliaria, se dará a las partes vista de las respuestas obtenidas para que puedan solicitar, dentro del tercer día, que se formulen al testigo nuevas preguntas complementarias o que se le pidan las aclaraciones oportunas, conforme a lo prevenido en el artículo 372.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.64 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Si por enfermedad u otro motivo de los referidos en el párrafo segundo del apartado 4 del artículo 169, el tribunal considerare que algún testigo no puede comparecer en la sede de aquél, podrá tomársele declaración en su domicilio bien directamente, bien a través de auxilio judicial, según que dicho domicilio se halle o no en la demarcación del tribunal.
-
-> A la declaración podrán asistir las partes y sus abogados, y, si no pudieren comparecer, se les autorizará a que presenten interrogatorio escrito previo con las preguntas que desean formular al testigo interrogado.
-
-> 2\. Cuando, atendidas las circunstancias, el tribunal considere prudente no permitir a las partes y a sus abogados que concurran a la declaración domiciliaria, se dará a las partes vista de las respuestas obtenidas para que puedan solicitar, dentro del tercer día, que se formulen al testigo nuevas preguntas complementarias o que se le pidan las aclaraciones oportunas, conforme a lo prevenido en el artículo 372."
 
 > Se modifica por el art. 103.64 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6793,12 +6253,6 @@ En caso de inadmisión de estas preguntas, será de aplicación lo dispuesto en 
 Las declaraciones testificales prestadas en vista o juicio se documentarán conforme a lo dispuesto en el apartado 2 del artículo 146.
 
 En el caso de la declaración domiciliaria de testigo del artículo 364, siempre que se cuente con los medios tecnológicos necesarios y el juez o Tribunal aprecie que resulta posible la grabación del interrogatorio sin afectar a la protección de la intimidad o dignidad de la persona, así lo ordenará, pudiendo ser la grabación únicamente de audio. En estos casos, el letrado o letrada de la Administración de Justicia garantizará la autenticidad e integridad de lo grabado o reproducido mediante la utilización de la firma electrónica u otro sistema de seguridad que conforme a la ley ofrezca tales garantías.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.65 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Las declaraciones testificales prestadas en vista o juicio se documentarán conforme a lo dispuesto en el apartado 2 del artículo 146."
 
 > Se modifica por el art. 103.65 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -6899,12 +6353,6 @@ Recibidas las respuestas escritas, el Letrado de la Administración de Justicia 
 1\. De los actos que se realicen en aplicación del artículo anterior se levantará la oportuna acta, donde se consignará cuanto sea necesario para la identificación de las filmaciones, grabaciones y reproducciones llevadas a cabo, así como, en su caso, las justificaciones y dictámenes aportados o las pruebas practicadas.
 
 2\. El material que contenga la palabra, la imagen o el sonido reproducidos habrá de conservarse por el letrado o letrada de la Administración de Justicia, con referencia a los autos del juicio, o en su caso incorporarse al expediente judicial electrónico, de modo que no sufra alteraciones.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.66 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. El material que contenga la palabra, la imagen o el sonido reproducidos habrá de conservarse por el Letrado de la Administración de Justicia, con referencia a los autos del juicio, de modo que no sufra alteraciones."
 
 > Se modifica el apartado 2 por el art. 103.66 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -7064,16 +6512,6 @@ Lo dispuesto en el artículo 394 será de aplicación para resolver en segunda i
 
 3\. Si el recurso de casación fuere estimado total o parcialmente, no se impondrán las costas a ninguna de las partes.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.67 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Artículo 398. Costas en apelación, recurso extraordinario por infracción procesal y casación.
-
-> 1\. Cuando sean desestimadas todas las pretensiones de un recurso de apelación, extraordinario por infracción procesal o casación, se aplicará, en cuanto a las costas del recurso, lo dispuesto en el artículo 394.
-
-> 2\. En caso de estimación total o parcial de un recurso de apelación, extraordinario por infracción procesal o casación, no se condenará en las costas de dicho recurso a ninguno de los litigantes."
-
 > Se modifica por el art. 103.67 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -7163,12 +6601,6 @@ El demandado podrá oponerse en la contestación a la demanda a la acumulación 
 **Artículo 405. Contestación y forma de la contestación a la demanda.**
 
 1\. En la contestación a la demanda, que se redactará en la forma prevenida para ésta en el artículo 399, el demandado deberá asumir idéntico compromiso que la persona demandante a los efectos de recibir notificaciones, requerimientos o emplazamientos personales directamente procedentes del órgano judicial, en los supuestos legalmente previstos o cuando actúe sin procurador o procuradora y siempre que se trate de personas obligadas a relacionarse electrónicamente con la Administración de Justicia, y expondrá los fundamentos de su oposición a las pretensiones del actor, alegando las excepciones materiales que tuviere por conveniente. Si considerare inadmisible la acumulación de acciones, lo manifestará así, expresando las razones de la inadmisibilidad. También podrá manifestar en la contestación su allanamiento a alguna o algunas de las pretensiones del actor, así como a parte de la única pretensión aducida.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el apartado 1 por el art. 103.69 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. En la contestación a la demanda, que se redactará en la forma prevenida para ésta en el artículo 399, el demandado expondrá los fundamentos de su oposición a las pretensiones del actor, alegando las excepciones materiales que tuviere por conveniente. Si considerare inadmisible la acumulación de acciones, lo manifestará así, expresando las razones de la inadmisibilidad. También podrá manifestar en la contestación su allanamiento a alguna o algunas de las pretensiones del actor, así como a parte de la única pretensión aducida."
 
 2\. En la contestación a la demanda habrán de negarse o admitirse los hechos aducidos por el actor. El tribunal podrá considerar el silencio o las respuestas evasivas del demandado como admisión tácita de los hechos que le sean perjudiciales.
 
@@ -7498,12 +6930,6 @@ El juicio tendrá por objeto la práctica de las pruebas de declaración de las 
 
 Las partes y sus representantes procesales deberán comparecer por videoconferencia o mediante la utilización de medios electrónicos para la reproducción del sonido y, en su caso, de la imagen, cuando el tribunal lo acordase de oficio o a instancia de alguna de ellas, y se cumplan los requisitos establecidos en el artículo 137 bis.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.71 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Sin perjuicio de la intervención personal en el interrogatorio que se hubiera admitido, las partes comparecerán en el juicio representadas por procurador y asistidas de abogado."
-
 2\. Si no compareciere en el juicio ninguna de las partes, se levantará acta haciéndolo constar y el tribunal, sin más trámites, declarará el pleito visto para sentencia. Si sólo compareciere alguna de las partes, se procederá a la celebración del juicio.
 
 > Se modifica el apartado 1 por el art. 103.71 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -7562,12 +6988,6 @@ En este caso, en el auto en que se acuerde la práctica de las diligencias habr�
 
 2\. El plazo para dictar sentencia volverá a computarse cuando transcurra el otorgado a las partes para presentar el escrito a que se refiere el apartado anterior.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el apartado 2 por el art. 103.72 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. El plazo de veinte días para dictar sentencia volverá a computarse cuando transcurra el otorgado a las partes para presentar el escrito a que se refiere el apartado anterior."
-
 > Se modifica el apartado 2 por el art. 103.72 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -7585,14 +7005,6 @@ En este caso, en el auto en que se acuerde la práctica de las diligencias habr�
 2\. No obstante, en los juicios verbales en que no se actúe con abogado y procurador, el demandante podrá formular una demanda sucinta, donde se consignarán los datos y circunstancias de identificación del actor y del demandado y el domicilio o los domicilios en que pueden ser citados, y se fijará con claridad y precisión lo que se pida, concretando los hechos fundamentales en que se basa la petición.
 
 A tal fin, se podrán cumplimentar unos impresos normalizados que se hallarán a su disposición en el órgano judicial correspondiente o en la sede judicial electrónica.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.73 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. No obstante, en los juicios verbales en que no se actúe con abogado y procurador, el demandante podrá formular una demanda sucinta, donde se consignarán los datos y circunstancias de identificación del actor y del demandado y el domicilio o los domicilios en que pueden ser citados, y se fijará con claridad y precisión lo que se pida, concretando los hechos fundamentales en que se basa la petición.
-
-> A tal fin, se podrán cumplimentar unos impresos normalizados que se hallarán a su disposición en el órgano judicial correspondiente."
 
 3\. Si en la demanda se solicitase el desahucio de finca urbana por falta de pago de las rentas o cantidades debidas al arrendador, o por expiración legal o contractual del plazo, el demandante podrá anunciar en ella que asume el compromiso de condonar al arrendatario todo o parte de la deuda y de las costas, con expresión de la cantidad concreta, condicionándolo al desalojo voluntario de la finca dentro del plazo que se indique por el arrendador, que no podrá ser inferior al plazo de quince días desde que se notifique la demanda. Igualmente, podrá interesarse en la demanda que se tenga por solicitada la ejecución del lanzamiento en la fecha y hora que se fije por el juzgado a los efectos señalados en el apartado 3 del artículo 549.
 
@@ -7716,8 +7128,6 @@ c) La extensión de los efectos de la sentencia dictada en el procedimiento test
 
 6\. Si el demandante solicitara la extensión de los efectos de la sentencia del procedimiento testigo, se estará a lo dispuesto en el artículo 519.
 
-> Téngase en cuenta que este artículo, añadido por el art. 103.75 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 103.75 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Este artículo entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -7839,12 +7249,6 @@ En la citación se hará constar que la vista no se suspenderá por inasistencia
 1\. Interpuesta la demanda en el caso del numeral 3.º del apartado 1 del artículo 250, el letrado o letrada de la Administración de Justicia llamará a los testigos propuestos por el demandante y, según sus declaraciones, el tribunal dictará auto en el que denegará u otorgará, sin perjuicio de mejor derecho, la posesión solicitada, llevando a cabo las actuaciones que repute conducentes a tal efecto. El auto será publicado en el Tablón Edictal Judicial Único, instando a los interesados a comparecer y reclamar mediante contestación a la demanda, en el plazo de cuarenta días, si consideran tener mejor derecho que el demandante.
 
 Si nadie compareciere, se confirmará al demandante en la posesión; pero en caso de que se presentaren reclamantes, previo traslado de sus escritos al demandante, el Letrado de la Administración de Justicia le citará, con todos los comparecientes, a la vista, sustanciándose en adelante las actuaciones del modo que se dispone en los artículos siguientes.
-
-> Téngase en cuenta que esta actualización del párrafo primero del apartado 1, establecida por el art. 103.77 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Interpuesta la demanda en el caso del número 3.º del apartado 1 del artículo 250, el Letrado de la Administración de Justicia llamará a los testigos propuestos por el demandante y, según sus declaraciones, el tribunal dictará auto en el que denegará u otorgará, sin perjuicio de mejor derecho, la posesión solicitada, llevando a cabo las actuaciones que repute conducentes a tal efecto. El auto será publicado por edictos, que se insertarán en un lugar visible de la sede del tribunal, en el Boletín Oficial de la Provincia y en uno de los periódicos de mayor circulación en la misma, a costa del demandante, instando a los interesados a comparecer y reclamar mediante contestación a la demanda, en el plazo de cuarenta días, si consideran tener mejor derecho que el demandante."
 
 1 bis. Cuando se trate de una demanda de recuperación de la posesión de una vivienda o parte de ella que se tramite según lo previsto en el artículo 250.1.4.º, la notificación se hará a quien se encuentre habitando aquélla. Se podrá hacer además a los ignorados ocupantes de la vivienda. A efectos de proceder a la identificación del receptor y demás ocupantes, quien realice el acto de comunicación podrá ir acompañado de los agentes de la autoridad.
 
@@ -7994,12 +7398,6 @@ En materia de prueba, de diligencias finales y de presunciones, será de aplicac
 
 Contra las resoluciones del tribunal sobre admisión o inadmisión de pruebas en el acto de la vista solo cabrá recurso de reposición, que se sustanciará y resolverá en el acto y, si se desestimare, la parte podrá formular protesta a efecto de hacer valer sus derechos, en su caso, en la segunda instancia.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.80 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Contra las resoluciones del tribunal sobre admisión o inadmisión de pruebas sólo cabrá recurso de reposición, que se sustanciará y resolverá en el acto, y si se desestimare, la parte podrá formular protesta a efecto de hacer valer sus derechos, en su caso, en la segunda instancia."
-
 > Se modifica por el art. 103.80 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8092,22 +7490,6 @@ Si después de que la parte demandante hubiera usado del derecho establecido en 
 
 6\. En los casos de los apartados anteriores, antes de que se rechacen o declaren desiertos los recursos, se estará a lo dispuesto en el artículo 231 para que puedan ser subsanados los defectos en que hubieran incurrido los actos procesales de las partes.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.81 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. En los procesos que lleven aparejado el lanzamiento, no se admitirán al demandado los recursos de apelación, extraordinario por infracción procesal o casación si, al interponerlos, no manifiesta, acreditándolo por escrito, tener satisfechas las rentas vencidas y las que con arreglo al contrato deba pagar adelantadas.
-
-> 2\. Los recursos de apelación, extraordinario por infracción procesal o casación, a que se refiere el apartado anterior, se declararán desiertos, cualquiera que sea el estado en que se hallen, si durante la sustanciación de los mismos el demandado recurrente dejare de pagar los plazos que venzan o los que deba adelantar. El arrendatario podrá adelantar o consignar el pago de varios períodos no vencidos, los cuales se sujetarán a liquidación una vez firme la sentencia. En todo caso, el abono de dichos importes no se considerará novación del contrato.
-
-> 3\. En los procesos en que se pretenda la condena a indemnizar los daños y perjuicios derivados de la circulación de vehículos de motor no se admitirán al condenado a pagar la indemnización los recursos de apelación, extraordinario por infracción procesal o casación, si, al interponerlos, no acredita haber constituido depósito del importe de la condena más los intereses y recargos exigibles en el establecimiento destinado al efecto. Dicho depósito no impedirá, en su caso, la ejecución provisional de la resolución dictada.
-
-> 4\. En los procesos en que se pretenda la condena al pago de las cantidades debidas por un propietario a la comunidad de vecinos, no se admitirá al condenado el recurso de apelación, extraordinario por infracción procesal o casación si, al interponerlos, no acredita tener satisfecha o consignada la cantidad líquida a que se contrae la sentencia condenatoria. La consignación de la cantidad no impedirá, en su caso, la ejecución provisional de la resolución dictada.
-
-> 5\. El depósito o consignación exigidos en los apartados anteriores podrá hacerse también mediante aval solidario de duración indefinida y pagadero a primer requerimiento emitido por entidad de crédito o sociedad de garantía recíproca o por cualquier otro medio que, a juicio del tribunal, garantice la inmediata disponibilidad, en su caso, de la cantidad consignada o depositada.
-
-> 6\. En los casos de los apartados anteriores, antes de que se rechacen o declaren desiertos los recursos, se estará a lo dispuesto en el artículo 231 de esta Ley en cuanto a la acreditación documental del cumplimiento de los requisitos exigidos."
-
 > Se modifica por el art. 103.81 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8119,12 +7501,6 @@ Si después de que la parte demandante hubiera usado del derecho establecido en 
 **Artículo 450. Del desistimiento de los recursos.**
 
 1\. Todo recurrente podrá desistir del recurso antes de que sobre él recaiga resolución, excepto del recurso de casación una vez señalado día para su deliberación, votación y fallo.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.82 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Todo recurrente podrá desistir del recurso antes de que sobre él recaiga resolución."
 
 2\. Si, en caso de ser varios los recurrentes, sólo alguno o algunos de ellos desistieran, la resolución recurrida no será firme en virtud del desistimiento, pero se tendrán por abandonadas las pretensiones de impugnación que fueren exclusivas de quienes hubieren desistido.
 
@@ -8178,14 +7554,6 @@ Salvo los casos en que proceda el recurso de queja, contra el auto que resuelva 
 
 Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.83 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
-
-> Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea."
-
 2\. El recurso de revisión deberá interponerse en el plazo de cinco días mediante escrito en el que deberá citarse la infracción en que la resolución hubiera incurrido. Cumplidos los anteriores requisitos, el Letrado de la Administración de Justicia, mediante diligencia de ordenación, admitirá el recurso concediendo a las demás partes personadas un plazo común de cinco días para impugnarlo, si lo estiman conveniente.
 
 Si no se cumplieran los requisitos de admisibilidad del recurso, el Tribunal lo inadmitirá mediante providencia.
@@ -8225,8 +7593,6 @@ Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 3\. Se tramitarán preferentemente los recursos de apelación legalmente previstos contra autos que inadmitan demandas por falta de requisitos que la ley exija para casos especiales.
 
 4\. Se tramitarán también preferentemente los recursos de apelación legalmente previstos contra resoluciones definitivas dictadas en la tramitación de los procedimientos testigo, así como contra los autos en que se acuerde la suspensión del curso de las actuaciones hasta que se dicte sentencia firme en el procedimiento identificado como testigo.
-
-> Téngase en cuenta que el apartado 4, añadido por el art. 103.83 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade el apartado 4 por el art. 103.83 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -8268,20 +7634,6 @@ Si el tribunal entendiera que se cumplen los requisitos de admisión, dictará p
 
 Contra la resolución por la que se tenga por interpuesto el recurso de apelación no cabrá recurso alguno, pero la parte recurrida podrá alegar la inadmisibilidad de la apelación en el trámite de oposición al recurso a que se refiere el artículo 461 de esta ley.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.85 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El recurso de apelación se interpondrá ante el tribunal que haya dictado la resolución que se impugne dentro del plazo de veinte días contados desde el día siguiente a la notificación de aquélla.
-
-> 2\. En la interposición del recurso el apelante deberá exponer las alegaciones en que se base la impugnación, además de citar la resolución apelada y los pronunciamientos que impugna.
-
-> 3\. Si la resolución impugnada fuera apelable y el recurso se hubiere formulado dentro de plazo, en el plazo de tres días el Letrado de la Administración de Justicia tendrá por interpuesto el recurso. En caso contrario lo pondrá en conocimiento del tribunal para que se pronuncie sobre la admisión del recurso.
-
-> Si el tribunal entendiera que se cumplen los requisitos de admisión, dictará providencia teniendo por interpuesto el recurso; en caso contrario, dictará auto declarando la inadmisión. Contra este auto sólo podrá interponerse recurso de queja.
-
-> Contra la resolución por la que se tenga por interpuesto el recurso de apelación no cabrá recurso alguno, pero la parte recurrida podrá alegar la inadmisibilidad de la apelación en el trámite de oposición al recurso a que se refiere el artículo 461 de esta ley."
-
 > Se modifica por el art. 103.85 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8314,12 +7666,6 @@ En el recurso de apelación podrá alegarse infracción de normas o garantías p
 
 1\. Del escrito de interposición del recurso de apelación, el letrado o letrada de la Administración de Justicia dará traslado a las demás partes, emplazándolas por diez días para que presenten escrito de oposición al recurso o, en su caso, de impugnación de la resolución apelada en lo que le resulte desfavorable.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.86 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Del escrito de interposición del recurso de apelación, el Letrado de la Administración de Justicia dará traslado a las demás partes, emplazándolas por diez días para que presenten, ante el Tribunal que dictó la resolución apelada, escrito de oposición al recurso o, en su caso, de impugnación de la resolución apelada en lo que le resulte desfavorable."
-
 2\. Los escritos de oposición al recurso y, en su caso, de impugnación de la sentencia por quien inicialmente no hubiere recurrido, se formularán con arreglo a lo establecido para el escrito de interposición.
 
 3\. Podrán acompañarse los documentos y solicitarse las pruebas que la parte o partes apeladas consideren necesarios, con arreglo a lo dispuesto en el artículo anterior, así como formularse las alegaciones que se estimen oportunas sobre la admisibilidad de los documentos aportados y de las pruebas propuestas por el apelante.
@@ -8348,20 +7694,6 @@ Si se hubiere solicitado la ejecución provisional, quedará en el tribunal de p
 
 Cuando se hubiere solicitado después de haberse remitido los autos al tribunal competente para resolver la apelación, el solicitante deberá obtener previamente de este testimonio de lo que sea necesario para la ejecución.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.87 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Artículo 463. Remisión de los autos.
-
-> 1\. Interpuestos los recursos de apelación y presentados, en su caso, los escritos de oposición o impugnación, el Letrado de la Administración de Justicia ordenará la remisión de los autos al tribunal competente para resolver la apelación, con emplazamiento de las partes por término de diez días.
-
-> Si el apelante no compareciere dentro de plazo señalado, el Letrado de la Administración de Justicia declarará desierto el recurso de apelación y quedará firme la resolución recurrida.
-
-> 2\. Si se hubiere solicitado la ejecución provisional, quedará en el de primera instancia testimonio de lo necesario para dicha ejecución.
-
-> Cuando se hubiere solicitado después de haberse remitido los autos al Tribunal competente para resolver la apelación, el solicitante deberá obtener previamente de éste testimonio de lo que sea necesario para la ejecución."
-
 > Se modifica por el art. 103.87 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8377,12 +7709,6 @@ Cuando se hubiere solicitado después de haberse remitido los autos al tribunal 
 **Artículo 464. Admisión de pruebas y señalamiento de vista.**
 
 1\. El tribunal que haya de resolver sobre la apelación, si se hubiesen aportado nuevos documentos o propuesta prueba, acordará lo que proceda sobre su admisión en el plazo de diez días. Si hubiere de practicarse prueba, el letrado o letrada de la Administración de Justicia señalará día para la vista, que se celebrará, dentro del mes siguiente, con arreglo a lo previsto para el juicio verbal.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.88 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Recibidos los autos por el Tribunal que haya de resolver sobre la apelación, si se hubiesen aportado nuevos documentos o propuesto prueba, acordará lo que proceda sobre su admisión en el plazo de diez días. Si hubiere de practicarse prueba, el Letrado de la Administración de Justicia señalará día para la vista, que se celebrará, dentro del mes siguiente, con arreglo a lo previsto para el juicio verbal."
 
 2\. Si no se hubiere propuesto prueba o si toda la propuesta hubiere sido inadmitida, podrá acordarse también, mediante providencia, la celebración de vista siempre que así lo haya solicitado alguna de las partes o el Tribunal lo considere necesario. En caso de acordarse su celebración, el Letrado de la Administración de Justicia señalará día y hora para dicho acto.
 
@@ -8416,12 +7742,6 @@ Contra el auto de suspensión del proceso sólo se dará recurso de reposición.
 
 7\. Firme la resolución que hubiera resuelto el recurso de apelación, el letrado o letrada de la Administración de Justicia acordará la remisión de las actuaciones al órgano que hubiera dictado la resolución objeto del mismo.
 
-> Téngase en cuenta que esta actualización del apartado 2 y la adición del apartado 7, establecidas por el art. 103.89 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. La resolución deberá ser dictada dentro de los diez días siguientes a la terminación de la vista. Si no se hubiere celebrado vista, el auto o la sentencia habrán de dictarse en el plazo de un mes a contar desde el día siguiente a aquel en que se hubieran recibido los autos en el Tribunal competente para la apelación."
-
 > Se modifica el apartado 2 y se añade el 7 por el art. 103.89 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8434,16 +7754,6 @@ Contra el auto de suspensión del proceso sólo se dará recurso de reposición.
 
 Contra las sentencias dictadas por las Audiencias Provinciales en la segunda instancia de cualquier tipo de proceso civil podrán las partes legitimadas interponer el recurso de casación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.90 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Contra las sentencias dictadas por las Audiencias Provinciales en la segunda instancia de cualquier tipo de proceso civil podrán las partes legitimadas optar por interponer el recurso extraordinario por infracción procesal o el recurso de casación.
-
-> 2\. Si se preparasen por la misma parte y contra la misma resolución los dos recursos a que se refiere el apartado anterior, se tendrá por inadmitido el recurso de casación.
-
-> 3\. Cuando los distintos litigantes de un mismo proceso opten, cada uno de ellos, por distinta clase de recurso extraordinario, se estará a lo dispuesto en el artículo 488 de esta Ley."
-
 > Se modifica por el art. 103.90 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8451,12 +7761,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 **Artículo 467. Recurso de casación contra sentencias dictadas por las Audiencias Provinciales tras estimarse recurso extraordinario por infracción procesal.**
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.91 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "No obstante lo dispuesto en el artículo anterior, contra las sentencias que dicten las Audiencias Provinciales a consecuencia de haberse estimado recurso extraordinario por infracción procesal no se admitirá de nuevo este recurso extraordinario si no se fundara en infracciones y cuestiones diferentes de la que fue objeto del primer recurso."
 
 > Se deja sin contenido por el art. 103.91 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -8472,12 +7776,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia conocerán, como Salas de lo Civil, de los recursos por infracción procesal contra sentencias y autos dictados por las Audiencias Provinciales que pongan fin a la segunda instancia y contra las sentencias dictadas en los recursos contra las resoluciones que agotan la vía administrativa dictadas en materia de propiedad industrial por la Oficina Española de Patentes y Marcas."
-
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8490,22 +7788,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El recurso extraordinario por infracción procesal sólo podrá fundarse en los siguientes motivos:
-
-> 1.º Infracción de las normas sobre jurisdicción y competencia objetiva o funcional.
-
-> 2.º Infracción de las normas procesales reguladoras de la sentencia.
-
-> 3.º Infracción de las normas legales que rigen los actos y garantías del proceso cuando la infracción determinare la nulidad conforme a la ley o hubiere podido producir indefensión.
-
-> 4.º Vulneración, en el proceso civil, de derechos fundamentales reconocidos en el artículo 24 de la Constitución.
-
-> 2\. Sólo procederá el recurso extraordinario por infracción procesal cuando, de ser posible, ésta o la vulneración del artículo 24 de la Constitución se hayan denunciado en la instancia y cuando, de haberse producido en la primera, la denuncia se haya reproducido en la segunda instancia. Además, si la violación de derecho fundamental hubiere producido falta o defecto subsanable, deberá haberse pedido la subsanación en la instancia o instancias oportunas."
-
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8513,18 +7795,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 **Artículo 470. Interposición del recurso.**
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El recurso extraordinario por infracción procesal se interpondrá ante el tribunal que haya dictado la resolución que se impugne dentro del plazo de veinte días contados desde el día siguiente a la notificación de aquélla.
-
-> 2\. Presentado el escrito de interposición del recurso y transcurridos los plazos de que dispongan todas las partes para interponer el recurso, el Letrado de la Administración de Justicia, en el plazo de tres días, lo tendrá por interpuesto siempre que la resolución sea recurrible, se alegue alguno de los motivos previstos en el artículo 469 y, en su caso, se hubiese procedido con arreglo a lo dispuesto en el apartado 2 de dicho artículo. En caso contrario lo pondrá en conocimiento del tribunal para que se pronuncie sobre la admisión del recurso.
-
-> Si el tribunal entendiera que se cumplen los requisitos de admisión, dictará providencia teniendo por interpuesto el recurso; en caso contrario, dictará auto declarando la inadmisión. Contra este auto sólo podrá interponerse recurso de queja.
-
-> Contra la resolución por la que se tenga por interpuesto el recurso no cabrá recurso alguno, pero la parte recurrida podrá alegar la inadmisibilidad en el trámite de oposición."
 
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -8540,12 +7810,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "En el escrito de interposición se expondrá razonadamente la infracción o vulneración cometida, expresando, en su caso, de qué manera influyeron en el proceso. También se podrá solicitar la práctica de alguna prueba que se considere imprescindible para acreditar la infracción o vulneración producida, así como la celebración de vista."
-
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8557,14 +7821,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 **Artículo 472. Remisión de los autos.**
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Presentado el escrito de interposición, dentro de los cinco días siguientes se remitirán todos los autos originales a la sala citada en el artículo 468, con emplazamiento de las partes ante ella por término de 30 días, sin perjuicio de que, cuando un litigante o litigantes distintos de los recurrentes por infracción procesal hubiesen preparado recurso de casación contra la misma sentencia, se deban enviar a la sala competente para el recurso de casación testimonio de la sentencia y de los particulares que el recurrente en casación interese, poniéndose nota expresiva de haberse preparado recurso extraordinario por infracción procesal, a los efectos de lo que dispone el artículo 488 de esta ley.
-
-> Si el recurrente no compareciere dentro del plazo señalado, el Letrado de la Administración de Justicia declarará desierto el recurso y quedará firme la resolución recurrida."
 
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -8580,24 +7836,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Recibidos los autos en el tribunal, se pasarán las actuaciones al Magistrado ponente para que se instruya y someta a la deliberación de la Sala lo que haya de resolverse sobre la admisión o inadmisión del recurso extraordinario por infracción procesal.
-
-> 2\. El recurso extraordinario por infracción procesal se inadmitirá en los siguientes casos:
-
-> 1.º Si se apreciare en este trámite la falta de los requisitos establecidos en los artículos 467, 468 y 469.
-
-> 2.º Si el recurso careciere manifiestamente de fundamento.
-
-> La Sala, antes de resolver, pondrá de manifiesto la posible causa de inadmisión del recurso a las partes personadas para que, en el plazo de diez días, formulen las alegaciones que estimen procedentes.
-
-> Si la Sala entendiere que concurre alguna de las causas de inadmisión, dictará auto declarando la inadmisión del recurso y la firmeza de la resolución recurrida. Si la causa de inadmisión no afectara más que a alguna de las infracciones alegadas, resolverá también mediante auto la admisión del recurso respecto de las demás que el recurso denuncie.
-
-> 3\. No se dará recurso alguno contra el auto que resuelva sobre la admisión del recurso extraordinario por infracción procesal."
-
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8608,14 +7846,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Admitido, total o parcialmente, el recurso extraordinario por infracción procesal, se entregará copia del escrito de interposición a la parte o partes recurridas y personadas para que formalicen por escrito su oposición en el plazo de veinte días. Durante dicho plazo estarán de manifiesto las actuaciones en la Secretaría.
-
-> En el escrito de oposición se podrán alegar también las causas de inadmisibilidad del recurso que se consideren existentes y que no hayan sido ya rechazadas por el tribunal, solicitar las pruebas que se estimen imprescindibles y pedir la celebración de vista."
-
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8624,16 +7854,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Transcurrido el plazo a que se refiere el artículo anterior, se hayan presentado o no los escritos de oposición, la Sala señalará, mediante providencia, dentro de los treinta días siguientes, día y hora para la celebración de vista o, en su caso, para la votación y fallo del recurso extraordinario por infracción procesal.
-
-> 2\. Si se hubiere pedido y admitido la práctica de alguna prueba o si la Sala, de oficio o a instancia de parte, lo considerare oportuno para la mejor impartición de la justicia, en el recurso extraordinario, se acordará que se celebre vista, que comenzará con el informe de la parte recurrente, para después proceder al de la parte recurrida. Si fueren varias las partes recurrentes, se estará al orden de interposición de los recursos, y siendo varias las partes recurridas, al orden de las comparecencias.
-
-> 3\. La práctica de las pruebas se regirá por lo dispuesto en la ley para la vista de los juicios verbales."
-
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -8641,24 +7861,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 **Artículo 476. Sentencia. Efectos.**
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. La Sala dictará sentencia dentro de los veinte días siguientes al de finalización de la vista, o al señalado para la votación y fallo.
-
-> 2\. Si el recurso se hubiese fundado en la infracción de las normas sobre jurisdicción o competencia objetiva o funcional, se examinará y decidirá sobre este motivo en primer lugar.
-
-> Si se hubiera denunciado la falta de jurisdicción o de competencia objetiva y se estimare el recurso, la Sala casará la resolución impugnada, quedando a salvo el derecho de las partes a ejercitar las pretensiones ante quien correspondiere.
-
-> Si el recurso se hubiese interpuesto contra sentencia que confirmaba o declaraba la falta de jurisdicción o de competencia, y la Sala lo estimare, tras casar la sentencia, ordenará al tribunal de que se trate que inicie o prosiga el conocimiento del asunto, salvo que la falta de jurisdicción se hubiera estimado erróneamente una vez contestada la demanda y practicadas las pruebas, en cuyo caso se ordenará al tribunal de que se trate que resuelva sobre el fondo del asunto.
-
-> En los demás casos, de estimarse el recurso por todas o alguna de las infracciones o vulneraciones alegadas, la Sala anulará la resolución recurrida y ordenará que se repongan las actuaciones al estado y momento en que se hubiere incurrido en la infracción o vulneración.
-
-> 3\. Si la Sala no considerare procedente ninguno de los motivos alegados, desestimará el recurso y se devolverán las actuaciones al tribunal del que procedan.
-
-> 4\. Contra la sentencia que resuelva el recurso extraordinario por infracción procesal no cabrá recurso alguno, salvo lo previsto sobre el recurso en interés de la ley ante la Sala de lo Civil del Tribunal Supremo."
 
 > Se deja sin contenido por el art. 103.92 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -8671,12 +7873,6 @@ Contra las sentencias dictadas por las Audiencias Provinciales en la segunda ins
 1\. Serán recurribles en casación las sentencias que pongan fin a la segunda instancia dictadas por las Audiencias Provinciales cuando, conforme a la ley, deban actuar como órgano colegiado y los autos y sentencias dictados en apelación en procesos sobre reconocimiento y ejecución de sentencias extranjeras en materia civil y mercantil al amparo de los tratados y convenios internacionales, así como de Reglamentos de la Unión Europea u otras normas internacionales, cuando la facultad de recurrir se reconozca en el correspondiente instrumento.
 
 Serán también recurribles en casación las sentencias dictadas por las Audiencias Provinciales en los recursos contra las resoluciones que agotan la vía administrativa dictadas en materia de propiedad industrial por la Oficina Española de Patentes y Marcas.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.93 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Serán recurribles en casación las sentencias que pongan fin a la segunda instancia dictadas por las Audiencias Provinciales cuando, conforme a la ley, deban actuar como órgano colegiado y los autos y sentencias dictados en apelación en procesos sobre reconocimiento y ejecución de sentencias extranjeras en materia civil y mercantil al amparo de los tratados y convenios internacionales, así como de Reglamentos de la Unión Europea u otras normas internacionales, cuando la facultad de recurrir se reconozca en el correspondiente instrumento."
 
 2\. El recurso de casación habrá de fundarse en infracción de norma procesal o sustantiva, siempre que concurra interés casacional. No obstante, podrá interponerse en todo caso recurso de casación contra sentencias dictadas para la tutela judicial civil de derechos fundamentales susceptibles de recurso de amparo, aun cuando no concurra interés casacional.
 
@@ -8710,14 +7906,6 @@ Cuando se trate de recursos de casación de los que deba conocer un Tribunal Sup
 
 No obstante, corresponderá a las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia conocer de los recursos de casación que procedan contra las resoluciones de los tribunales civiles con sede en la Comunidad Autónoma, siempre que el recurso se funde, exclusivamente o junto a otros motivos, en infracción de las normas del Derecho civil, foral o especial propio de la Comunidad, y cuando el correspondiente Estatuto de Autonomía haya previsto esta atribución.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 225.8 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. El conocimiento del recurso de casación, en materia civil, corresponde a la Sala Primera del Tribunal Supremo.
-
-> No obstante, corresponderá a las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia conocer de los recursos de casación que procedan contra las resoluciones de los tribunales civiles con sede en la Comunidad Autónoma, siempre que el recurso se funde, exclusivamente o junto a otros motivos, en infracción de las normas del Derecho civil, foral o especial propio de la Comunidad, y cuando el correspondiente Estatuto de Autonomía haya previsto esta atribución."
-
 2\. Cuando la misma parte interponga recursos de casación contra una misma sentencia ante el Tribunal Supremo y ante el Tribunal Superior de Justicia, se tendrá, mediante providencia, por no presentado el primero de ellos, en cuanto se acredite esta circunstancia.
 
 > Se modifica el apartado 1 por el art. 225.8 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
@@ -8737,20 +7925,6 @@ Si el tribunal entendiera que se cumplen los requisitos de admisión, dictará p
 Contra la providencia por la que se tenga por interpuesto el recurso no cabrá recurso alguno, pero la parte recurrida podrá oponerse a la admisión al comparecer ante el tribunal de casación.
 
 3\. Se dará tramitación preferente a los recursos de casación legalmente previstos contra sentencias definitivas dictadas en la tramitación de los procedimientos testigo.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 225.9 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Artículo 479. Interposición del recurso.
-
-> 1\. El recurso de casación se interpondrá ante el tribunal que haya dictado la resolución que se impugne dentro del plazo de veinte días contados desde el día siguiente a la notificación de aquélla.
-
-> 2\. Si la resolución impugnada fuera susceptible de recurso y éste se hubiere formulado dentro de plazo, en el plazo de tres días el Letrado de la Administración de Justicia tendrá por interpuesto el recurso. En caso contrario lo pondrá en conocimiento del tribunal para que se pronuncie sobre la admisión del recurso.
-
-> Si el tribunal entendiera que se cumplen los requisitos de admisión, dictará providencia teniendo por interpuesto el recurso; en caso contrario, dictará auto declarando la inadmisión. Contra este auto sólo podrá interponerse recurso de queja.
-
-> Contra la resolución por la que se tenga por interpuesto el recurso no cabrá recurso alguno, pero la parte recurrida podrá oponerse a la admisión al comparecer ante el tribunal de casación."
 
 > Se modifica por el art. 225.9 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -8786,16 +7960,6 @@ Contra la providencia por la que se tenga por interpuesto el recurso no cabrá r
 
 8\. La Sala de Gobierno del Tribunal Supremo podrá determinar, mediante acuerdo que se publicará en el ''Boletín Oficial del Estado'', la extensión máxima y otras condiciones extrínsecas, incluidas las relativas al formato en el que deban ser presentados, de los escritos de interposición y de oposición de los recursos de casación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 225.10 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. En el escrito de interposición se expresará el supuesto, de los previstos por el artículo 477.2, conforme al que se pretende recurrir la sentencia. Igualmente se expondrán, con la necesaria extensión, los fundamentos y se podrá pedir la celebración de vista.
-
-> 2\. Al escrito de interposición se acompañarán certificación de la sentencia impugnada y, cuando sea procedente, texto de las sentencias que se aduzcan como fundamento del interés casacional.
-
-> 3\. En su caso, en el escrito de interposición, además de fundamentarse el recurso de casación, se habrá de manifestar razonadamente cuanto se refiera al tiempo de vigencia de la norma y a la inexistencia de doctrina jurisprudencial relativa a la norma que se estime infringida."
-
 > Se modifica por el art. 225.10 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -8809,16 +7973,6 @@ Contra la providencia por la que se tenga por interpuesto el recurso no cabrá r
 1\. Dentro de los cinco días siguientes a la resolución que tenga por interpuesto el recurso, el letrado o letrada de la Administración de Justicia remitirá todos los autos originales al tribunal competente para conocer del recurso de casación, con emplazamiento de las partes por término de treinta días.
 
 Si el recurrente no compareciere dentro del plazo señalado, el letrado o letrada de la Administración de Justicia declarará desierto el recurso y quedará firme la resolución recurrida.
-
-> Téngase en cuenta que esta actualización de la rúbrica y del apartado 1, establecida por el art. 225.11 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Artículo 482. Remisión de los autos. Negativa a expedir certificaciones.
-
-> 1\. Presentado el escrito de interposición, dentro de los cinco días siguientes el Letrado de la Administración de Justicia remitirá todos los autos originales al Tribunal competente para conocer del recurso de casación, con emplazamiento de las partes por término de treinta días.
-
-> Si el recurrente no compareciere dentro del plazo señalado, el Letrado de la Administración de Justicia declarará desierto el recurso y quedará firme la resolución recurrida."
 
 2\. Si el recurrente no hubiere podido obtener la certificación de sentencia a que se refiere el artículo 481, se efectuará no obstante la remisión de los autos dispuesta en el apartado anterior. La negativa o resistencia a expedir la certificación será corregida disciplinariamente y, si fuere necesario, la Sala de casación las reclamará del Letrado de la Administración de Justicia que deba expedirla.
 
@@ -8844,30 +7998,6 @@ Si la causa de inadmisión no afectara más que a alguna de las infracciones ale
 
 4\. Contra la providencia o el auto que resuelva sobre la admisión del recurso de casación no se dará recurso alguno.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 225.12 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. Recibidos los autos en el tribunal, se pasarán las actuaciones al Magistrado ponente para que se instruya y someta a la deliberación de la Sala lo que haya de resolverse sobre la admisión o inadmisión del recurso de casación.
-
-> 2\. Procederá la inadmisión del recurso de casación:
-
-> 1.º Si el recurso fuera improcedente, por no ser recurrible la sentencia o por cualquier otro defecto de forma no subsanable.
-
-> 2.º Si el escrito de interposición del recurso no cumpliese los requisitos establecidos, para los distintos casos, en esta Ley.
-
-> 3.º Si el asunto no alcanzase la cuantía requerida, o no existiere interés casacional por inexistencia de oposición a doctrina jurisprudencial, por falta de jurisprudencia contradictoria o si la norma que se pretende infringida llevase vigente más de cinco años o, a juicio de la Sala, existiese doctrina jurisprudencial del Tribunal Supremo sobre dicha norma o sobre otra anterior de contenido igual o similar.
-
-> Asimismo se inadmitirá el recurso en los casos del segundo párrafo del artículo 477.3, cuando el Tribunal Superior de Justicia correspondiente considere que ha sentado doctrina sobre la norma discutida o sobre otra anterior de contenido igual o similar.
-
-> 4.º Si el recurso careciere manifiestamente de fundamento o se hubiesen resuelto ya en el fondo otros recursos sustancialmente iguales.
-
-> 3\. La Sala, antes de resolver, pondrá de manifiesto mediante providencia la posible causa de inadmisión del recurso de casación a las partes personadas para que, en el plazo de diez días, formulen las alegaciones que estimen procedentes.
-
-> 4\. Si la Sala entendiere que concurre alguna de las causas de inadmisión, dictará auto declarando la inadmisión del recurso de casación y la firmeza de la resolución recurrida. Si la causa de inadmisión no afectara más que a alguna de las infracciones alegadas, resolverá también mediante auto la admisión del recurso respecto de las demás que el recurso denuncie.
-
-> 5\. Contra el auto que resuelva sobre la admisión del recurso de casación no se dará recurso alguno."
-
 > Se modifica por el art. 225.12 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -8880,12 +8010,6 @@ Si la causa de inadmisión no afectara más que a alguna de las infracciones ale
 
 1\. En el trámite de admisión a que se refiere el artículo anterior, la Sección de Admisión de la Sala Primera del Tribunal Supremo o la Sala de lo Civil y Penal del Tribunal Superior de Justicia examinará su competencia para conocer del recurso de casación, antes de pronunciarse sobre la admisibilidad del mismo. Si no se considerare competente, acordará, previa audiencia de las partes y del Ministerio Fiscal por plazo de diez días, la remisión de las actuaciones y emplazamiento de las partes para que comparezcan ante la Sala que se estime competente en el plazo de diez días.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 225.13 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. En el trámite de admisión a que se refiere el artículo anterior, la Sala examinará su competencia para conocer del recurso de casación, antes de pronunciarse sobre la admisibilidad del mismo. Si no se considerare competente, acordará, previa audiencia de las partes por plazo de diez días, la remisión de las actuaciones y emplazamiento de las partes para que comparezcan ante la Sala que se estime competente en el plazo de diez días."
-
 2\. En el caso a que se refiere el apartado anterior, recibidas las actuaciones y personadas las partes ante la Sala que se haya considerado competente, continuará la sustanciación del recurso desde el trámite de admisión.
 
 3\. Las Salas de los Tribunales Superiores de Justicia no podrán declinar su competencia para conocer de los recursos de casación que les hayan sido remitidos por la Sala Primera del Tribunal Supremo.
@@ -8897,14 +8021,6 @@ Si la causa de inadmisión no afectara más que a alguna de las infracciones ale
 **Artículo 485. Admisión y traslado a las otras partes.**
 
 Admitido el recurso de casación, el letrado o letrada de la Administración de Justicia dará traslado del escrito de interposición, con sus documentos adjuntos, a la parte o partes recurridas y personadas, para que formalicen su oposición por escrito en el plazo de veinte días y manifiesten si consideran necesaria la celebración de vista.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 225.14 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Admitido el recurso de casación, el Letrado de la Administración de Justicia dará traslado del escrito de interposición, con sus documentos adjuntos, a la parte o partes recurridas, para que formalicen su oposición por escrito en el plazo de veinte días y manifiesten si consideran necesaria la celebración de vista.
-
-> En el escrito de oposición también se podrán alegar las causas de inadmisibilidad del recurso que se consideren existentes y que no hayan sido ya rechazadas por el Tribunal."
 
 > Se modifica por el art. 225.14 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -8919,16 +8035,6 @@ Admitido el recurso de casación, el letrado o letrada de la Administración de 
 1\. Transcurrido el plazo a que se refiere el artículo anterior, háyanse presentado o no los escritos de oposición, el letrado o letrada de la Administración de Justicia señalará día y hora para la celebración de la vista cuando el tribunal hubiera resuelto, mediante providencia, por considerarlo conveniente para la mejor impartición de justicia, la celebración de dicho acto. En caso contrario, la Sala señalará día y hora para la deliberación, votación y fallo del recurso de casación.
 
 2\. En caso de celebrarse la vista, comenzará con el informe de la parte recurrente, para después proceder al de la parte recurrida. Si fueren varias las partes recurrentes, se estará al orden de interposición de los recursos, y siendo varias las partes recurridas, al orden de las comparecencias. La Sala podrá indicar a los abogados de las partes y, en su caso, al Ministerio Fiscal, el tiempo del que disponen para sus informes y las cuestiones que considera de especial interés.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 225.15 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Artículo 486. Votación y fallo. Eventual vista.
-
-> 1\. Transcurrido el plazo a que se refiere el artículo anterior, háyanse presentado o no los escritos de oposición, si todas las partes hubieren solicitado la celebración de vista el Letrado de la Administración de Justicia señalará día y hora para su celebración. De igual modo se procederá cuando el Tribunal hubiera resuelto, mediante providencia, por considerarlo conveniente para la mejor impartición de justicia, la celebración de dicho acto. En caso contrario, la Sala señalará día y hora para la votación y fallo del recurso de casación.
-
-> 2\. La vista comenzará con el informe de la parte recurrente, para después proceder al de la parte recurrida. Si fueren varias las partes recurrentes, se estará al orden de interposición de los recursos, y siendo varias las partes recurridas, al orden de las comparecencias."
 
 > Se modifica por el art. 225.15 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -8949,18 +8055,6 @@ Admitido el recurso de casación, el letrado o letrada de la Administración de 
 4\. Contra la sentencia o el auto que resuelva el recurso de casación no cabrá recurso alguno.
 
 5\. Los pronunciamientos de la sentencia que se dicte en casación en ningún caso afectarán a las situaciones jurídicas creadas por las sentencias, distintas de la impugnada, que se hubieren invocado.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 225.16 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), entra en vigor el 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. La Sala dictará sentencia sobre el recurso de casación dentro de los veinte días siguientes al de finalización de la vista, o al señalado para la votación y fallo.
-
-> 2\. Si se tratare de los recursos de casación previstos en los números 1.º y 2.º del apartado 2 del artículo 477, la sentencia que ponga fin al recurso de casación confirmará o casará, en todo o en parte, la sentencia recurrida.
-
-> 3\. Cuando el recurso de casación sea de los previstos en el número 3.o del apartado 2 del artículo 477, si la sentencia considerara fundado el recurso, casará la resolución impugnada y resolverá sobre el caso, declarando lo que corresponda según los términos en que se hubiere producido la oposición a la doctrina jurisprudencial o la contradicción o divergencia de jurisprudencia.
-
-> Los pronunciamientos de la sentencia que se dicte en casación en ningún caso afectarán a las situaciones jurídicas creadas por las sentencias, distintas de la impugnada, que se hubieren invocado."
 
 > Se modifica por el art. 225.16 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -8994,14 +8088,6 @@ Cuando distintos litigantes de un mismo proceso opten, cada uno de ellos, por di
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), con efectos de 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. Podrá interponerse recurso en interés de la ley, para la unidad de doctrina jurisprudencial, respecto de sentencias que resuelvan recursos extraordinarios por infracción de ley procesal cuando las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia sostuvieran criterios discrepantes sobre la interpretación de normas procesales.
-
-> 2\. No procederá el recurso en interés de la ley contra sentencias que hubiesen sido recurridas en amparo ante el Tribunal Constitucional."
-
 > Se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -9009,12 +8095,6 @@ Cuando distintos litigantes de un mismo proceso opten, cada uno de ellos, por di
 **Artículo 491. Legitimación para recurrir en interés de la ley.**
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), con efectos de 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "Podrán en todo caso recurrir en interés de la ley el Ministerio Fiscal y el Defensor del Pueblo. Asimismo, podrán interponer este recurso las personas jurídicas de Derecho público que, por las actividades que desarrollen y las funciones que tengan atribuidas, en relación con las cuestiones procesales sobre las que verse el recurso, acrediten interés legítimo en la unidad jurisprudencial sobre esas cuestiones."
 
 > Se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -9024,20 +8104,6 @@ Cuando distintos litigantes de un mismo proceso opten, cada uno de ellos, por di
 
 **(Sin contenido)**
 
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), con efectos de 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "1. Los recursos en interés de la ley se interpondrán, en el plazo de un año desde que se dictó la sentencia más moderna, directamente ante la Sala de lo Civil del Tribunal Supremo.
-
-> 2\. Al escrito en que se interponga el recurso en interés de la ley se acompañarán los siguientes documentos:
-
-> 1.º Copia certificada o testimonio de las resoluciones que pongan de manifiesto la discrepancia que se alegue.
-
-> 2.º Certificación expedida por el Tribunal Constitucional, que acredite que, transcurrido el plazo para recurrir en amparo, no se ha interpuesto dicho recurso contra ninguna de las sentencias alegadas.
-
-> 3\. Del escrito o escritos de interposición, con sus documentos anexos, se dará traslado por el Letrado de la Administración de Justicia a quienes se hubieren personado como partes en los procesos en que hubieran recaído las sentencias objeto del recurso, para que, en el plazo de veinte días, puedan formular alegaciones expresando los criterios jurídicos que consideren más fundados."
-
 > Se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
 > Esta modificación entra en vigor el 29 de julio de 2023, según establece la disposición final 9 del citado Real Decreto-ley.
@@ -9045,12 +8111,6 @@ Cuando distintos litigantes de un mismo proceso opten, cada uno de ellos, por di
 **Artículo 493. Sentencia.**
 
 **(Sin contenido)**
-
-> Téngase en cuenta que este artículo se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio, [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135), con efectos de 29 de julio de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "La sentencia que se dicte en los recursos en interés de la ley respetará, en todo caso, las situaciones jurídicas particulares derivadas de las sentencias alegadas y, cuando fuere estimatoria, fijará en el fallo la doctrina jurisprudencial. En este caso, se publicará en el "Boletín Oficial del Estado" y, a partir de su inserción en él, complementará el ordenamiento jurídico, vinculando en tal concepto a todos los Jueces y tribunales del orden jurisdiccional civil diferentes al Tribunal Supremo."
 
 > Se deja sin contenido por el art. 225.17 del Real Decreto-ley 5/2023, de 28 de junio. [Ref. BOE-A-2023-15135](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135)
 
@@ -9064,16 +8124,6 @@ Contra los autos en que el tribunal que haya dictado la resolución denegare la 
 
 No procederá el recurso de queja en los procesos de desahucios de finca urbana y rústica, cuando la sentencia que procediera dictar en su caso no tuviese la consideración de cosa juzgada.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.94 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 494. Resoluciones recurribles en queja.**
-
-> Contra los autos en que el tribunal que haya dictado la resolución denegare la tramitación de un recurso de apelación, extraordinario por infracción procesal o de casación, se podrá interponer recurso de queja ante el órgano al que corresponda resolver del recurso no tramitado. Los recursos de queja se tramitarán y resolverán con carácter preferente.
-
-> No procederá el recurso de queja en los procesos de desahucios de finca urbana y rústica, cuando la sentencia que procediera dictar en su caso no tuviese la consideración de cosa juzgada."
-
 > Se modifica por el art. 103.94 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -9083,12 +8133,6 @@ No procederá el recurso de queja en los procesos de desahucios de finca urbana 
 **Artículo 495. Sustanciación y decisión.**
 
 1\. El recurso de queja se interpondrá ante el órgano al que corresponda resolver el recurso no tramitado, en el plazo de diez días desde la notificación de la resolución que deniega la tramitación del recurso de casación. Con el recurso deberá acompañarse copia de la resolución recurrida.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.95 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El recurso de queja se interpondrá ante el órgano al que corresponda resolver el recurso no tramitado, en el plazo de diez días desde la notificación de la resolución que deniega la tramitación de un recurso de apelación, extraordinario por infracción procesal o de casación. Con el recurso deberá acompañarse copia de la resolución recurrida."
 
 2\. Presentado en tiempo el recurso con dicha copia, el tribunal resolverá sobre él en el plazo de cinco días. Si considerase bien denegada la tramitación del recurso, mandará ponerlo en conocimiento del tribunal correspondiente, para que conste en los autos. Si la estimase mal denegada, ordenará a dicho tribunal que continúe con la tramitación.
 
@@ -9120,24 +8164,6 @@ No procederá el recurso de queja en los procesos de desahucios de finca urbana 
 
 Lo mismo será de aplicación para las sentencias dictadas en apelación o en casación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.96 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 497. Régimen de notificaciones.**
-
-> 1\. La resolución que declare la rebeldía se notificará al demandado por correo, si su domicilio fuere conocido y, si no lo fuere, mediante edictos. Hecha esta notificación, no se llevará a cabo ninguna otra, excepto la de la resolución que ponga fin al proceso.
-
-> 2\. La sentencia o resolución que ponga fin al proceso se notificará al demandado personalmente, en la forma prevista en el artículo 161 de esta ley. Pero si el demandado se hallare en paradero desconocido, la notificación se hará publicando un extracto de la misma por medio de edicto, que se publicará en el Boletín Oficial de la Comunidad Autónoma o en el Boletín Oficial del Estado.
-
-> Lo mismo será de aplicación para las sentencias dictadas en apelación, en recurso extraordinario por infracción procesal o en casación.
-
-> Cuando se trate de sentencia condenatoria de desahucio por falta de pago de rentas o cantidades debidas, o por expiración legal o contractual del plazo, y el demandado citado en forma no hubiera comparecido en la fecha o en el plazo señalado en la citación, la notificación se hará por medio de edictos fijando copia de la sentencia en el tablón de anuncios de la Oficina Judicial.
-
-> 3\. No será necesaria la publicación de edictos en el "Boletín Oficial" de la Comunidad Autónoma o en el ''Boletín Oficial del Estado'' en aquellos procedimientos en los que la sentencia no tenga efecto de cosa juzgada y en los procesos de desahucio en los que se acumule la acción de reclamación de las rentas y cantidades debidas. En estos casos bastará la publicidad del edicto en el tablón de anuncios de la Oficina Judicial.
-
-> 4\. Esta publicación podrá ser sustituida, en los términos que reglamentariamente se determinen, por la utilización de medios telemáticos, informáticos o electrónicos, conforme a lo previsto en el artículo 236 de la Ley Orgánica del Poder Judicial."
-
 > Se modifica por el art. 103.96 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -9163,16 +8189,6 @@ Cualquiera que sea el estado del proceso en que el demandado rebelde comparezca,
 El demandado rebelde a quien haya sido notificada personalmente la sentencia sólo podrá utilizar contra ella el recurso de apelación, y el de casación, cuando procedan, si los interpone dentro del plazo legal.
 
 Los mismos recursos podrá utilizar el demandado rebelde a quien no haya sido notificada personalmente la sentencia, pero en este caso, el plazo para interponerlos se contará desde el día siguiente al de la publicación del edicto de notificación de la sentencia en el Tablón Edictal Judicial Único o, en su caso, por los medios electrónicos a que se refiere el apartado 2 del artículo 497.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.97 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 500. Ejercicio por el demandado rebelde de los recursos ordinarios.**
-
-> El demandado rebelde a quien haya sido notificada personalmente la sentencia, sólo podrá utilizar contra ella el recurso de apelación, y el extraordinario por infracción procesal o el de casación, cuando procedan, si los interpone dentro del plazo legal.
-
-> Los mismos recursos podrá utilizar el demandado rebelde a quien no haya sido notificada personalmente la sentencia, pero en este caso, el plazo para interponerlos se contará desde el día siguiente al de la publicación del edicto de notificación de la sentencia en el Boletín Oficial del Estado, Boletín Oficial de la Comunidad Autónoma o Boletín Oficial de la Provincia o, en su caso, por los medios telemáticos, informáticos o electrónicos a que se refiere el apartado 2 del artículo 497 de esta ley o del modo establecido en el apartado 3 del mismo artículo."
 
 > Se modifica por el art. 103.97 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -9304,8 +8320,6 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando la revisión est�
 
 5\. Salvo en aquellos procedimientos en que alguna de las partes esté representada y defendida por el abogado del Estado, el letrado o letrada de la Administración de Justicia dará traslado a la Abogacía General del Estado de la presentación de la demanda de revisión, así como de la decisión sobre su admisión, en los supuestos del apartado 2 del artículo 510. En tales supuestos la Abogacía del Estado podrá intervenir, sin tener la condición de parte, por propia iniciativa o a instancia del órgano judicial, mediante la aportación de información o presentación de observaciones escritas sobre cuestiones relativas a la ejecución de la Sentencia del Tribunal Europeo de Derechos Humanos.
 
-> Téngase en cuenta que el apartado 5, añadido por el art. 103.98 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
 > Se añade el apartado 5 por el art. 103.98 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -9331,8 +8345,6 @@ En este juicio, habrán de tomarse como base y no podrán discutirse las declara
 3\. Contra la sentencia que dicte el tribunal de revisión no se dará recurso alguno.
 
 4\. En el supuesto del apartado 2 del artículo 510, el letrado o letrada de la Administración de Justicia notificará igualmente la decisión a la Abogacía General del Estado. Devueltos los autos al tribunal del que procedan conforme a lo dispuesto en el apartado 1 del presente artículo, el letrado o letrada de la Administración de Justicia de dicho tribunal informará a la Abogacía del Estado de las principales actuaciones que se lleven a cabo como consecuencia de la revisión.
-
-> Téngase en cuenta que el apartado 4, añadido por el art. 103.99 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade el apartado 4 por el art. 103.99 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -9424,14 +8436,6 @@ En estos casos, la solicitud se planteará por medio de escrito en el que se ind
 
 6\. Si en el término previsto en el artículo 548 no se cumpliera voluntariamente realizando el ingreso en la cuenta designada por el solicitante, la parte interesada podrá instar la ejecución del auto que acuerde la extensión de efectos, para lo que servirá de título ejecutivo el testimonio del auto que acuerde la extensión de efectos.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.100 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 519. Acción ejecutiva de consumidores y usuarios fundada en sentencia de condena sin determinación individual de los beneficiados.**
-
-> Cuando las sentencias de condena a que se refiere la regla primera del artículo 221 no hubiesen determinado los consumidores o usuarios individuales beneficiados por aquélla, el tribunal competente para la ejecución, a solicitud de uno o varios interesados y con audiencia del condenado, dictará auto en el que resolverá si, según los datos, características y requisitos establecidos en la sentencia, reconoce a los solicitantes como beneficiarios de la condena. Con testimonio de este auto, los sujetos reconocidos podrán instar la ejecución. El Ministerio Fiscal podrá instar la ejecución de la sentencia en beneficio de los consumidores y usuarios afectados."
-
 > Se modifica por el art. 103.100 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -9461,8 +8465,6 @@ En estos casos, la solicitud se planteará por medio de escrito en el que se ind
 3\. Cuando una sentencia constitutiva contenga también pronunciamientos de condena, éstos se ejecutarán del modo previsto para ellos en esta Ley.
 
 4\. Las sentencias firmes dictadas en acciones colectivas o individuales por las que se declare la nulidad, cesación o retractación en la utilización de condiciones generales abusivas, se remitirán de oficio por el órgano judicial al Registro de Condiciones Generales de la Contratación, para su inscripción.
-
-> Téngase en cuenta que el apartado 4, añadido por la disposición final 5.1 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814), entra en vigor el 16 de junio de 2019, según establece la disposición final 16 de la citada Ley.
 
 > Se añade el apartado 4, con efectos de 16 de junio de 2019, por la disposición final 5.1 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814)
 
@@ -9543,8 +8545,6 @@ Si la ejecución provisional se hubiere solicitado antes de la remisión de los 
 4\. Contra el auto que deniegue la ejecución provisional se dará recurso de apelación, que se tramitará y resolverá con carácter preferente. Contra el auto que despache la ejecución provisional no se dará recurso alguno, sin perjuicio de la oposición que pueda formular el ejecutado conforme a lo dispuesto en el artículo siguiente.
 
 5\. No serán a cargo del ejecutado las costas del proceso de ejecución provisional siempre y cuando hubiese cumplido con lo dispuesto en el auto que despachó la ejecución dentro del plazo de veinte días desde que le fue notificado.
-
-> Téngase en cuenta que el apartado 5, añadido por el art. 103.101 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade el apartado 5 por el art. 103.101 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -9651,14 +8651,6 @@ Si la restitución fuese imposible, de hecho o de derecho, el ejecutado podrá p
 2\. En los casos a los que se refiere el apartado anterior la ejecución provisional podrá solicitarse en cualquier momento desde la notificación de la resolución que tenga por interpuesto el recurso de casación y siempre antes de que haya recaído sentencia en este recurso.
 
 La solicitud se presentará ante el tribunal que haya conocido del proceso en primera instancia, acompañando certificación de la sentencia cuya ejecución provisional se pretenda, así como testimonio de cuantos particulares se estimen necesarios, certificación y testimonio que deberán obtenerse del tribunal que haya dictado la sentencia de apelación o, en su caso, del órgano competente para conocer del recurso que se haya interpuesto contra ésta.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.102 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. En los casos a los que se refiere el apartado anterior la ejecución provisional podrá solicitarse en cualquier momento desde la notificación de la resolución que tenga por interpuesto el recurso extraordinario por infracción procesal o el recurso de casación y siempre antes de que haya recaído sentencia en estos recursos.
-
-> La solicitud se presentará ante el tribunal que haya conocido del proceso en primera instancia, acompañando certificación de la sentencia cuya ejecución provisional se pretenda, así como testimonio de cuantos particulares se estimen necesarios, certificación y testimonio que deberán obtenerse del tribunal que haya dictado la sentencia de apelación o, en su caso, del órgano competente para conocer del recurso que se haya interpuesto contra ésta."
 
 3\. La oposición a la ejecución provisional y a medidas ejecutivas concretas, en segunda instancia, se regirá por lo dispuesto en los artículos 528 a 531 de esta Ley.
 
@@ -9850,12 +8842,6 @@ No se despachará ejecución de resoluciones procesales o arbitrales o de acuerd
 
 3\. En la sentencia condenatoria de todos los tipos de desahucio, o en los decretos que pongan fin al referido desahucio si no hubiera oposición al requerimiento, la solicitud de su ejecución en la demanda de desahucio será suficiente para la ejecución directa de dichas resoluciones, sin necesidad de ningún otro trámite para proceder al lanzamiento en el día y hora exacta señalados en la propia sentencia o en el día y hora exacta que se hubiera fijado al ordenar la realización del requerimiento al demandado.
 
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 103.103 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3. En la sentencia condenatoria de todos los tipos de desahucio, o en los decretos que pongan fin al referido desahucio si no hubiera oposición al requerimiento, la solicitud de su ejecución en la demanda de desahucio será suficiente para la ejecución directa de dichas resoluciones, sin necesidad de ningún otro trámite para proceder al lanzamiento en el día y hora exacta señalados en la propia sentencia o en el día y hora exacta que se hubiera fijado al ordenar la realización del requerimiento al demandado, todo ello según el apartado 5 del artículo 440."
-
 4\. El plazo de espera legal al que se refiere el artículo anterior no será de aplicación en la ejecución de resoluciones de condena de desahucio por falta de pago de rentas o cantidades debidas, o por expiración legal o contractual del plazo, que se regirá por lo previsto en tales casos.
 
 No obstante, cuando se trate de vivienda habitual, con carácter previo al lanzamiento deberá haberse procedido en los términos de los apartados 5, 6 y 7 del artículo 441 de esta ley.
@@ -9959,12 +8945,6 @@ El letrado o letrada de la Administración de Justicia pondrá en conocimiento d
 > Se modifica por el art. 15.222 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493)
 
 **Artículo 552. Denegación del despacho de la ejecución. Control de oficio. Recursos.**
-
-> Téngase en cuenta que esta actualización de la rúbrica y la adición del apartado 4, establecidas por el art. 103.106 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 552. Denegación del despacho de la ejecución. Recursos."**
 
 1\. Si el tribunal entendiese que no concurren los presupuestos y requisitos legalmente exigidos para el despacho de la ejecución, dictará auto denegando el despacho de la ejecución.
 
@@ -10145,28 +9125,6 @@ El auto que desestime totalmente la oposición condenará en las costas de ésta
 4\. Contra el auto que resuelva la oposición podrá interponerse recurso de apelación, que no suspenderá el curso de la ejecución si la resolución recurrida fuera desestimatoria de la oposición.
 
 Cuando la resolución recurrida sea estimatoria de la oposición el ejecutante podrá solicitar que se mantengan los embargos y medidas de garantía adoptadas y que se adopten las que procedan de conformidad con lo dispuesto en el artículo 700, y el tribunal así lo acordará, mediante providencia, siempre que el ejecutante preste caución suficiente, que se fijará en la propia resolución, para asegurar la indemnización que pueda corresponder al ejecutado en caso de que la estimación de la oposición sea confirmada.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.107 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 561. Auto resolutorio de la oposición por motivos de fondo.**
-
-> 1\. Oídas las partes sobre la oposición a la ejecución no fundada en defectos procesales y, en su caso, celebrada la vista, el tribunal adoptará, mediante auto, a los solos efectos de la ejecución, alguna de las siguientes resoluciones:
-
-> 1.ª Declarar procedente que la ejecución siga adelante por la cantidad que se hubiese despachado, cuando la oposición se desestimare totalmente. En caso de que la oposición se hubiese fundado en pluspetición y ésta se desestimare parcialmente, la ejecución se declarará procedente sólo por la cantidad que corresponda.
-
-> El auto que desestime totalmente la oposición condenará en las costas de ésta al ejecutado, conforme a lo dispuesto en los artículos 394 para la condena en costas en primera instancia.
-
-> 2.ª Declarar que no procede la ejecución, cuando se estimare alguno de los motivos de oposición enumerados en los artículos 556 y 557 o se considerare enteramente fundada la pluspetición que se hubiere admitido conforme al artículo 558.
-
-> 3.ª Cuando se apreciase el carácter abusivo de una o varias cláusulas, el auto que se dicte determinará las consecuencias de tal carácter, decretando bien la improcedencia de la ejecución, bien despachando la misma sin aplicación de aquéllas consideradas abusivas.
-
-> 2\. Si se estimara la oposición a la ejecución, se dejará ésta sin efecto y se mandará alzar los embargos y las medidas de garantía de la afección que se hubieren adoptado, reintegrándose al ejecutado a la situación anterior al despacho de la ejecución, conforme a lo dispuesto en los artículos 533 y 534. También se condenará al ejecutante a pagar las costas de la oposición.
-
-> 3\. Contra el auto que resuelva la oposición podrá interponerse recurso de apelación, que no suspenderá el curso de la ejecución si la resolución recurrida fuera desestimatoria de la oposición.
-
-> Cuando la resolución recurrida sea estimatoria de la oposición el ejecutante podrá solicitar que se mantengan los embargos y medidas de garantía adoptadas y que se adopten las que procedan de conformidad con lo dispuesto en el artículo 697 de esta Ley, y el tribunal así lo acordará, mediante providencia, siempre que el ejecutante preste caución suficiente, que se fijará en la propia resolución, para asegurar la indemnización que pueda corresponder al ejecutado en caso de que la estimación de la oposición sea confirmada."
 
 > Se modifica por el art. 103.107 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -10416,16 +9374,6 @@ Cuando el título ejecutivo consista en resoluciones del Letrado de la Administr
 
 2\. No se practicará el requerimiento establecido en el apartado anterior cuando a la demanda ejecutiva se haya acompañado acta notarial que acredite haberse requerido de pago al ejecutado con al menos diez días de antelación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.108 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 581. Casos en que procede el requerimiento de pago.**
-
-> 1\. Cuando la ejecución para la entrega de cantidades determinadas de dinero no se funde en resoluciones procesales o arbitrales, despachada la ejecución, se requerirá de pago al ejecutado por la cantidad reclamada en concepto de principal e intereses devengados, en su caso, hasta la fecha de la demanda y si no pagase en el acto, el Tribunal procederá al embargo de sus bienes en la medida suficiente para responder de la cantidad por la que se haya despachado ejecución y las costas de ésta.
-
-> 2\. No se practicará el requerimiento establecido en el apartado anterior cuando a la demanda ejecutiva se haya acompañado acta notarial que acredite haberse requerido de pago al ejecutado con al menos diez días de antelación."
-
 > Se modifica por el art. 103.108 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -10437,16 +9385,6 @@ Cuando el título ejecutivo consista en resoluciones del Letrado de la Administr
 El requerimiento de pago se efectuará en el domicilio que figure en el título ejecutivo. Podrá también hacerse través de la sede judicial electrónica en el caso de que el ejecutado esté obligado a intervenir con la Administración de Justicia a través de medios electrónicos. Pero, a petición del ejecutante, el requerimiento podrá hacerse, además, en cualquier lugar en el que, incluso de forma accidental, el ejecutado pudiera ser hallado.
 
 Si no se encontrase el ejecutado en el domicilio que conste en el título ejecutivo, podrá practicarse el embargo si el ejecutante lo solicita, sin perjuicio de intentar de nuevo el requerimiento con arreglo a lo dispuesto en esta Ley para los actos de comunicación mediante entrega de la resolución o de cédula y, en su caso, para la comunicación edictal.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.109 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 582. Lugar del requerimiento de pago.**
-
-> El requerimiento de pago se efectuará en el domicilio que figure en el título ejecutivo. Pero, a petición del ejecutante, el requerimiento podrá hacerse, además, en cualquier lugar en el que, incluso de forma accidental, el ejecutado pudiera ser hallado.
-
-> Si no se encontrase el ejecutado en el domicilio que conste en el título ejecutivo, podrá practicarse el embargo si el ejecutante lo solicita, sin perjuicio de intentar de nuevo el requerimiento con arreglo a lo dispuesto en esta Ley para los actos de comunicación mediante entrega de la resolución o de cédula y, en su caso, para la comunicación edictal."
 
 > Se modifica por el art. 103.109 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -10786,14 +9724,6 @@ Cuando los bienes realizados sean inmuebles, se ingresará la cantidad que sobra
 
 1\. Además de lo dispuesto en los artículos 598 y 604 para los casos de admisión y estimación, respectivamente, de una tercería de dominio, el ejecutante podrá pedir la mejora o la modificación del embargo o de las medidas de garantía adoptadas cuando un cambio de las circunstancias permita dudar de la suficiencia de los bienes embargados en relación con la exacción de la responsabilidad del ejecutado. También el ejecutado podrá solicitar la reducción o la modificación del embargo y de sus garantías, cuando aquél o éstas pueden ser variadas sin peligro para los fines de la ejecución, conforme a los criterios establecidos en el artículo 584.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.110 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Además de lo dispuesto en los artículos 598 y 604 para los casos de admisión y estimación, respectivamente, de una tercería de dominio, el ejecutante podrá pedir la mejora o la modificación del embargo o de las medidas de garantía adoptadas cuando un cambio de las circunstancias permita dudar de la suficiencia de los bienes embargados en relación con la exacción de la responsabilidad del ejecutado. También el ejecutado podrá solicitar la reducción o la modificación del embargo y de sus garantías, cuando aquél o éstas pueden ser variadas sin peligro para los fines de la ejecución, conforme a los criterios establecidos en el artículo 584 de esta Ley.
-
-> El tribunal proveerá mediante providencia sobre estas peticiones según su criterio, sin ulterior recurso."
-
 2\. El Letrado de la Administración de Justicia resolverá mediante decreto sobre estas peticiones. Contra dicho decreto cabrá recurso directo de revisión que no producirá efectos suspensivos.
 
 3\. Podrá acordarse también la mejora del embargo en los casos previstos en el apartado cuarto del artículo siguiente.
@@ -11066,26 +9996,6 @@ De mediar oposición se resolverá tras citar a los interesados de comparecencia
 
 4\. En la ejecución de sentencias que condenen al pago de las cantidades debidas por incumplimiento de contratos de venta a plazos de bienes muebles, si el ejecutante lo solicita, el letrado o letrada de la Administración de Justicia le hará entrega inmediata del bien o bienes muebles vendidos o financiados a plazos por el valor que resulte de las tablas o índices referenciales de depreciación que se hubieran establecido en el contrato.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 103.111 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 634. Entrega directa al ejecutante.**
-
-> 1\. El Letrado de la Administración de Justicia responsable de la ejecución entregará directamente al ejecutante, por su valor nominal, los bienes embargados que sean:
-
-> 1.º Dinero efectivo.
-
-> 2.º Saldos de cuentas corrientes y de otras de inmediata disposición.
-
-> 3.º Divisas convertibles, previa conversión, en su caso.
-
-> 4.º Cualquier otro bien cuyo valor nominal coincida con su valor de mercado, o que, aunque inferior, el acreedor acepte la entrega del bien por su valor nominal.
-
-> 2\. Cuando se trate de saldos favorables en cuenta, con vencimiento diferido, el propio Letrado de la Administración de Justicia adoptará las medidas oportunas para lograr su cobro, pudiendo designar un administrador cuando fuere conveniente o necesario para su realización.
-
-> 3\. En la ejecución de sentencias que condenen al pago de las cantidades debidas por incumplimiento de contratos de venta a plazos de bienes muebles, si el ejecutante lo solicita, el Letrado de la Administración de Justicia le hará entrega inmediata del bien o bienes muebles vendidos o financiados a plazos por el valor que resulte de las tablas o índices referenciales de depreciación que se hubieran establecido en el contrato."
-
 > Se modifica por el art. 103.111 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -11105,20 +10015,6 @@ Lo mismo se hará si el bien embargado cotiza en cualquier mercado reglado o pue
 2\. Si lo embargado fueren acciones o participaciones societarias de cualquier clase, que no coticen en Bolsa, la realización se hará atendiendo a las disposiciones estatutarias y legales sobre enajenación de las acciones o participaciones y, en especial, a los derechos de adquisición preferente.
 
 A falta de disposiciones especiales, la realización se hará a través de subasta judicial.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.112 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 635. Acciones y otras formas de participación sociales.**
-
-> 1\. Si los bienes embargados fueren acciones, obligaciones u otros valores admitidos a negociación en mercado secundario, el Letrado de la Administración de Justicia ordenará que se enajenen con arreglo a las leyes que rigen estos mercados.
-
-> Lo mismo se hará si el bien embargado cotiza en cualquier mercado reglado o puede acceder a un mercado con precio oficial.
-
-> 2\. Si lo embargado fueren acciones o participaciones societarias de cualquier clase, que no coticen en Bolsa, la realización se hará atendiendo a las disposiciones estatutarias y legales sobre enajenación de las acciones o participaciones y, en especial, a los derechos de adquisición preferente.
-
-> A falta de disposiciones especiales, la realización se hará a través de notario o corredor de comercio colegiado."
 
 > Se modifica por el art. 103.112 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -11171,22 +10067,6 @@ Si los bienes embargados no fueren de aquéllos a que se refieren los artículos
 3\. La tasación de bienes o derechos se hará por su valor de mercado, sin tener en cuenta, en caso de bienes inmuebles, las cargas y gravámenes que pesen sobre ellos, respecto de las cuales se estará a lo dispuesto en el artículo 666.
 
 4\. Hasta transcurridos cinco días desde que el perito designado haya entregado la valoración de los bienes, las partes y los acreedores a que se refiere el artículo 659 podrán presentar alegaciones a dicha valoración, así como informes, suscritos por perito tasador, en los que se exprese la valoración económica del bien o bienes objeto del avalúo. En tal caso, el letrado de la Administración de Justicia, a la vista de las alegaciones formuladas y apreciando todos los informes según las reglas de la sana crítica, determinará, mediante decreto, la valoración definitiva a efectos de la ejecución.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.113 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 639. Actuación del perito designado e intervención de las partes y de los acreedores posteriores en la tasación.**
-
-> 1\. El nombramiento se notificará al perito designado, quien en el siguiente día lo aceptará, si no concurre causa de abstención que se lo impida.
-
-> 2\. El perito entregará la valoración de los bienes embargados al Tribunal en el plazo de ocho días a contar desde la aceptación del encargo. Sólo por causas justificadas, que el Letrado de la Administración de Justicia señalará mediante decreto, podrá ampliarse este plazo en función de la cuantía o complejidad de la valoración.
-
-> 3\. La tasación de bienes o derechos se hará por su valor de mercado, sin tener en cuenta, en caso de bienes inmuebles, las cargas y gravámenes que pesen sobre ellos, respecto de las cuales se estará a lo dispuesto en el artículo 666.
-
-> 4\. Hasta transcurridos cinco días desde que el perito designado haya entregado la valoración de los bienes, las partes y los acreedores a que se refiere el artículo 658 podrán presentar alegaciones a dicha valoración, así como informes, suscritos por perito tasador, en los que se exprese la valoración económica del bien o bienes objeto del avalúo. En tal caso, el Letrado de la Administración de Justicia, a la vista de las alegaciones formuladas y apreciando todos los informes según las reglas de la sana crítica, determinará, mediante decreto, la valoración definitiva a efectos de la ejecución.
-
-> La resolución dictada por el Letrado de la Administración de Justicia será susceptible de recurso directo de revisión ante el Tribunal que dictó la orden general de ejecución."
 
 > Se modifica por el art. 103.113 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -11910,18 +10790,6 @@ Los actos de comunicación se practicarán siempre por medios electrónicos cuan
 
 En la hipoteca sobre establecimientos mercantiles se tendrá necesariamente por domicilio el local en que estuviere instalado el establecimiento que se hipoteca.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.114 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Cuando se persigan bienes hipotecados, las disposiciones del presente capítulo se aplicarán siempre que, además de lo dispuesto en el apartado anterior, se cumplan los requisitos siguientes:
-
-> 1.º Que en la escritura de constitución de la hipoteca se determine el precio en que los interesados tasan la finca o bien hipotecado, para que sirva de tipo en la subasta, que no podrá ser inferior, en ningún caso, al 75 por cien del valor señalado en la tasación que, en su caso, se hubiere realizado en virtud de lo previsto en la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario.
-
-> 2.º Que, en la misma escritura, conste un domicilio, que fijará el deudor, para la práctica de los requerimientos y de las notificaciones. También podrá fijarse, además, una dirección electrónica a los efectos de recibir las correspondientes notificaciones electrónicas, en cuyo caso será de aplicación lo dispuesto en el párrafo segundo del apartado 1 del artículo 660.
-
-> En la hipoteca sobre establecimientos mercantiles se tendrá necesariamente por domicilio el local en que estuviere instalado el establecimiento que se hipoteca."
-
 3\. El Registrador hará constar en la inscripción de la hipoteca las circunstancias a que se refiere el apartado anterior.
 
 > Se modifica el apartado 2 por el art. 103.114 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -12128,12 +10996,6 @@ Lo dispuesto en este apartado y en el anterior se entiende sin perjuicio del des
 
 2\. Podrá reclamarse la totalidad de lo adeudado por capital y por intereses en los términos en los que así se hubiese convenido en la escritura de constitución y consten en el asiento respectivo. Siempre que se trate de un préstamo o crédito concluido por una persona física y que esté garantizado mediante hipoteca sobre vivienda o cuya finalidad sea la adquisición de bienes inmuebles para uso residencial, se estará a lo que prescriben el artículo 24 de la Ley 5/2019, reguladora de los contratos de crédito inmobiliario y, en su caso, el artículo 129 bis de la Ley Hipotecaria.
 
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 5.2 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814), entra en vigor el 16 de junio de 2019, según determina la disposición final 16 de la citada Ley.
-
-> Redacción anterior:
-
-> "Podrá reclamarse la totalidad de lo adeudado por capital y por intereses si se hubiese convenido el vencimiento total en caso de falta de pago de, al menos, tres plazos mensuales sin cumplir el deudor su obligación de pago o un número de cuotas tal que suponga que el deudor ha incumplido su obligación por un plazo, al menos, equivalente a tres meses, y este convenio constase en la escritura de constitución y en el asiento respectivo."
-
 3\. En el caso a que se refiere el apartado anterior, el acreedor podrá solicitar que, sin perjuicio de que la ejecución se despache por la totalidad de la deuda, se comunique al deudor que, antes de que se cierre la subasta, podrá liberar el bien mediante la consignación de la cantidad exacta que por principal e intereses estuviere vencida en la fecha de presentación de la demanda, incrementada, en su caso, con los vencimientos del préstamo y los intereses de demora que se vayan produciendo a lo largo del procedimiento y resulten impagados en todo o en parte. A estos efectos, el acreedor podrá solicitar que se proceda conforme a lo previsto en el apartado 2 del artículo 578.
 
 Si el bien hipotecado fuese la vivienda habitual, el deudor podrá, aun sin el consentimiento del acreedor, liberar el bien mediante la consignación de las cantidades expresadas en el párrafo anterior.
@@ -12183,14 +11045,6 @@ No será necesario acompañar libreta cuando el procedimiento se refiera al sald
 3\. El auto que estime la oposición basada en las causas 1.ª y 3.ª del apartado 1 de este artículo mandará sobreseer la ejecución; el que estime la oposición basada en la causa 2.ª fijará la cantidad por la que haya de seguirse la ejecución.
 
 De estimarse la causa 4.ª, se acordará el sobreseimiento de la ejecución cuando la cláusula contractual fundamente la ejecución. En otro caso, se continuará la ejecución con la inaplicación de la cláusula abusiva. El auto se pronunciará expresamente sobre el carácter abusivo de las cláusulas examinadas, y una vez firme, dicho pronunciamiento tendrá eficacia de cosa juzgada.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 103.115 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3. El auto que estime la oposición basada en las causas 1.ª y 3.ª del apartado 1 de este artículo mandará sobreseer la ejecución; el que estime la oposición basada en la causa 2.ª fijará la cantidad por la que haya de seguirse la ejecución.
-
-> De estimarse la causa 4.ª, se acordará el sobreseimiento de la ejecución cuando la cláusula contractual fundamente la ejecución. En otro caso, se continuará la ejecución con la inaplicación de la cláusula abusiva"
 
 4\. Contra el auto que ordene el sobreseimiento de la ejecución, la inaplicación de una cláusula abusiva o la desestimación de la oposición por la causa prevista en el apartado 1.4.º anterior, podrá interponerse recurso de apelación.
 
@@ -12508,12 +11362,6 @@ Las disposiciones contenidas en los artículos 718 y 719 serán aplicables al ca
 
 3\. Si, en aplicación de lo previsto en el artículo 43, el tribunal acordase la suspensión del proceso en que se ejercita la acción individual de un consumidor dirigida a obtener que se declare el carácter abusivo de una cláusula contractual, podrá acordar de oficio, sin necesidad de prestar caución, las medidas cautelares que considere necesarias para asegurar la eficacia de un eventual pronunciamiento estimatorio.
 
-> Téngase en cuenta que esta actualización del apartado 2 y la adición del apartado 3, establecidas por el art. 103.116 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entran en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Las medidas cautelares previstas en este Título no podrán en ningún caso ser acordadas de oficio por el tribunal, sin perjuicio de lo que se disponga para los procesos especiales. Tampoco podrá éste acordar medidas más gravosas que las solicitadas."
-
 > Se modifica el apartado 2 y se añade un apartado 3 por el art. 103.116 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -12533,12 +11381,6 @@ Sin perjuicio de las reglas especiales previstas en los Tratados y Convenios o e
 1\. Será tribunal competente para conocer de las solicitudes sobre medidas cautelares el que esté conociendo del asunto en primera instancia o, si el proceso no se hubiese iniciado, el que sea competente para conocer de la demanda principal.
 
 2\. Para conocer de las solicitudes relativas a medidas cautelares que se formulen durante la sustanciación de la segunda instancia o de un recurso de casación, será competente el tribunal que conozca de la segunda instancia o de dicho recurso.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.117 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Para conocer de las solicitudes relativas a medidas cautelares que se formulen durante la sustanciación de la segunda instancia o de un recurso extraordinario por infracción procesal o de casación, será competente el tribunal que conozca de la segunda instancia o de dichos recursos."
 
 > Se modifica el apartado 2 por el art. 103.117 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -12814,14 +11656,6 @@ Previo traslado del escrito al solicitante de la medida cautelar, por cinco día
 
 ### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
 
-> Téngase en cuenta que la rúbrica del Título I, modificada por el art. 4.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> TÍTULO I
-
-> De los procesos sobre capacidad, filiación, matrimonio y menores
-
 > Se modifica la rúbrica, con efectos desde el 3 de septiembre de 2021, por el art. 4.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 #### CAPÍTULO I — De las disposiciones generales
@@ -12831,12 +11665,6 @@ Previo traslado del escrito al solicitante de la medida cautelar, por cinco día
 Las disposiciones del presente Título serán aplicables a los siguientes procesos:
 
 1.º Los que versen sobre la adopción de medidas judiciales de apoyo a personas con discapacidad.
-
-> Téngase en cuenta que este apartado 1º, modificado por el art. 4.7 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1.º Los que versen sobre la capacidad de las personas y los de declaración de prodigalidad."
 
 2.º Los de filiación, paternidad y maternidad.
 
@@ -12863,14 +11691,6 @@ Las disposiciones del presente Título serán aplicables a los siguientes proces
 El Ministerio Fiscal velará a lo largo de todo el procedimiento por la salvaguarda de la voluntad, deseos, preferencias y derechos de las personas con discapacidad que participen en dichos procesos, así como por el interés superior del menor.
 
 2\. En los demás procesos a que se refiere este título será preceptiva la intervención del Ministerio Fiscal, siempre que alguno de los interesados en el procedimiento sea menor, persona con discapacidad o esté en situación de ausencia legal.
-
-> Téngase en cuenta que los apartados 1 y 2, modificados por el art. 4.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. En los procesos sobre la capacidad de las personas, en los de nulidad matrimonial, en los de sustracción internacional de menores y en los de determinación e impugnación de la filiación será siempre parte el Ministerio Fiscal, aunque no haya sido promotor de los mismos ni deba, conforme a la Ley, asumir la defensa de alguna de las partes. El Ministerio Fiscal velará durante todo el proceso por la salvaguarda del interés superior de la persona afectada.
-
-> 2\. En los demás procesos a que se refiere este título será preceptiva la intervención del Ministerio Fiscal, siempre que alguno de los interesados en el procedimiento sea menor, incapacitado o esté en situación de ausencia legal."
 
 > Se modifican los apartados 1 y 2, con efectos desde el 3 de septiembre de 2021, por el art. 4.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -12902,12 +11722,6 @@ No obstante lo dispuesto en el párrafo anterior, cuando alguno de los pactos pr
 
 4.º En los procesos de separación y divorcio.
 
-> Téngase en cuenta que este apartado 2.1º, modificado por el art. 4.9 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1.º En los procesos de declaración de prodigalidad, así como en los que se refieran a filiación, paternidad y maternidad, siempre que no existan menores, incapacitados o ausentes interesados en el procedimiento."
-
 3\. No obstante lo dispuesto en los apartados anteriores, las pretensiones que se formulen en los procesos a que se refiere este Título y que tengan por objeto materias sobre las que las partes puedan disponer libremente, según la legislación civil aplicable, podrán ser objeto de renuncia, allanamiento, transacción o desistimiento, conforme a lo previsto en el capítulo IV del Título I del Libro I de esta Ley.
 
 > Se modifica el apartado 2.1º, con efectos desde el 3 de septiembre de 2021, por el art. 4.9 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
@@ -12919,14 +11733,6 @@ No obstante lo dispuesto en el párrafo anterior, cuando alguno de los pactos pr
 Sin perjuicio de las pruebas que se practiquen a instancia del Ministerio Fiscal y de las demás partes, el tribunal podrá decretar de oficio cuantas estime pertinentes.
 
 Se podrá proponer por las partes o acordar de oficio por el tribunal la práctica de toda aquella prueba anticipada que se considere pertinente y útil al objeto del procedimiento. En este caso, se procurará que el resultado de dicha prueba admitida o acordada obre en las actuaciones con anterioridad a la celebración de la vista, estando a disposición de las partes.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.118 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Los procesos a que se refiere este Título se decidirán con arreglo a los hechos que hayan sido objeto de debate y resulten probados, con independencia del momento en que hubieren sido alegados o introducidos de otra manera en el procedimiento.
-
-> Sin perjuicio de las pruebas que se practiquen a instancia del Ministerio Fiscal y de las demás partes, el tribunal podrá decretar de oficio cuantas estime pertinentes."
 
 2\. La conformidad de las partes sobre los hechos no vinculará al tribunal, ni podrá éste decidir la cuestión litigiosa basándose exclusivamente en dicha conformidad o en el silencio o respuestas evasivas sobre los hechos alegados por la parte contraria. Tampoco estará el tribunal vinculado, en los procesos a que se refiere este título, a las disposiciones de esta Ley en materia de fuerza probatoria del interrogatorio de las partes, de los documentos públicos y de los documentos privados reconocidos.
 
@@ -12947,12 +11753,6 @@ Cuando se presente ante un juzgado civil una demanda relativa a los procesos a q
 La consulta al sistema de registros administrativos de apoyo a la Administración de Justicia y al sistema de gestión procesal correspondiente se reiterará antes de la celebración de la vista o comparecencia del procedimiento contencioso o de jurisdicción voluntaria o del acto de ratificación de los procedimientos de mutuo acuerdo.
 
 Del mismo modo, en el decreto de admisión, se requerirá a las partes para que comuniquen, en el plazo de cinco días, si existen o han existido procedimientos de violencia sobre la mujer entre los cónyuges o progenitores, su estado procesal actual, y si constan adoptadas medidas civiles o penales. Igualmente se advertirá a ambas partes de la obligación de comunicar inmediatamente cualquier procedimiento que inicien ante un juzgado de violencia sobre la mujer durante la tramitación del procedimiento civil, así como cualquier incidente de violencia sobre la mujer que se produzca.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.119 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. Salvo que expresamente se disponga otra cosa, los procesos a que se refiere este título se sustanciarán por los trámites del juicio verbal. El letrado de la Administración de Justicia dará traslado de la demanda al Ministerio Fiscal, cuando proceda, y a las demás personas que, conforme a la ley, deban ser parte en el procedimiento, hayan sido o no demandados, emplazándoles para que la contesten en el plazo de veinte días, conforme a lo establecido en el artículo 405."
 
 2\. En la celebración de la vista de juicio verbal en estos procesos y de la comparecencia a que se refiere el artículo 771 de la presente ley, una vez practicadas las pruebas el Tribunal permitirá a las partes formular oralmente sus conclusiones, siendo de aplicación a tal fin lo establecido en los apartados 2, 3 y 4 del artículo 433.
 
@@ -12980,16 +11780,6 @@ El letrado de la Administración de Justicia acordará que las sentencias y dem�
 
 A petición de parte, se comunicarán también al Registro de la Propiedad, al Registro Mercantil, al Registro de Bienes Muebles o a cualquier otro Registro público a los efectos que en cada caso correspondan. En el caso de medidas de apoyo, la comunicación se hará únicamente a petición de la persona en favor de la cual el apoyo se ha constituido.
 
-> Téngase en cuenta que este artículo, modificado por el art. 4.11 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 755. Acceso de las sentencias a Registros públicos.
-
-> Cuando proceda, el Letrado de la Administración de Justicia acordará que las sentencias y demás resoluciones dictadas en los procedimientos a que se refiere este Título se comuniquen de oficio a los Registros Civiles para la práctica de los asientos que correspondan.
-
-> A petición de parte, se comunicarán también a cualquier otro Registro público a los efectos que en cada caso procedan."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.11 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 > Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167)
@@ -12997,14 +11787,6 @@ A petición de parte, se comunicarán también al Registro de la Propiedad, al R
 > Se modifica el párrafo primero por el art. 15.340 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493)
 
 #### CAPÍTULO II — De los procesos sobre la adopción de medidas judiciales de apoyo a personas con discapacidad
-
-> Téngase en cuenta que la rúbrica de este capítulo, modificada por el art. 4.12 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "CAPÍTULO II
-
-> De los procesos sobre la capacidad de las personas"
 
 > Se modifica la rúbrica, con efectos desde el 3 de septiembre de 2021, por el art. 4.12 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13015,14 +11797,6 @@ A petición de parte, se comunicarán también al Registro de la Propiedad, al R
 2\. Será competente para conocer de las demandas sobre la adopción de medidas de apoyo a personas con discapacidad la autoridad judicial que conoció del previo expediente de jurisdicción voluntaria, salvo que la persona a la que se refiera la solicitud cambie con posterioridad de residencia, en cuyo caso lo será el juez de primera instancia del lugar en que esta resida.
 
 3\. Si antes de la celebración de la vista se produjera un cambio de la residencia habitual de la persona a que se refiera el proceso, se remitirán las actuaciones al Juzgado correspondiente en el estado en que se hallen.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.13 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 756. Competencia.
-
-> Será competente para conocer de las demandas sobre capacidad y declaración de prodigalidad el Juez de Primera Instancia del lugar en que resida la persona a la que se refiera la declaración que se solicite."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.13 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13036,22 +11810,6 @@ A petición de parte, se comunicarán también al Registro de la Propiedad, al R
 
 4\. Las personas legitimadas para instar el proceso de adopción de medidas judiciales de apoyo o que acrediten un interés legítimo podrán intervenir a su costa en el ya iniciado, con los efectos previstos en el artículo 13.
 
-> Téngase en cuenta que este artículo, modificado por el art. 4.14 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 757. Legitimación en los procesos de incapacitación y de declaración de prodigalidad.
-
-> 1\. La declaración de incapacidad puede promoverla el presunto incapaz, el cónyuge o quien se encuentre en una situación de hecho asimilable, los descendientes, los ascendientes, o los hermanos del presunto incapaz.
-
-> 2\. El Ministerio Fiscal deberá promover la incapacitación si las personas mencionadas en el apartado anterior no existieran o no la hubieran solicitado.
-
-> 3\. Cualquier persona está facultada para poner en conocimiento del Ministerio Fiscal los hechos que puedan ser determinantes de la incapacitación. Las autoridades y funcionarios públicos que, por razón de sus cargos, conocieran la existencia de posible causa de incapacitación en una persona, deberán ponerlo en conocimiento del Ministerio Fiscal.
-
-> 4\. No obstante lo dispuesto en los apartados anteriores, la incapacitación de menores de edad, en los casos en que proceda conforme a la Ley, sólo podrá ser promovida por quienes ejerzan la patria potestad o la tutela.
-
-> 5\. La declaración de prodigalidad sólo podrá ser instada por el cónyuge, los descendientes o ascendientes que perciban alimentos del presunto pródigo o se encuentren en situación de reclamárselos y los representantes legales de cualquiera de ellos. Si no la pidieren los representantes legales, lo hará el Ministerio Fiscal."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.14 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 > Se modifica el apartado 1 por el art. 14 de la Ley 41/2003, de 18 de noviembre. [Ref. BOE-A-2003-21053](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21053)
@@ -13063,16 +11821,6 @@ A petición de parte, se comunicarán también al Registro de la Propiedad, al R
 2\. Una vez notificada la demanda por medio de remisión o entrega, o por edictos cuando la persona interesada no hubiera podido ser notificada personalmente, si transcurrido el plazo previsto para la contestación a la demanda la persona interesada no compareciera ante el Juzgado con su propia defensa y representación, el letrado de la Administración de Justicia procederá a designarle un defensor judicial, a no ser que ya estuviera nombrado o su defensa corresponda al Ministerio Fiscal por no ser el promotor del procedimiento. A continuación, se le dará al defensor judicial un nuevo plazo de veinte días para que conteste a la demanda si lo considera procedente.
 
 El letrado de la Administración de Justicia llevará a cabo las actuaciones necesarias para que la persona con discapacidad comprenda el objeto, la finalidad y los trámites del procedimiento, de conformidad con lo previsto en el artículo 7 bis.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.15 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 758. Personación del demandado.
-
-> El presunto incapaz o la persona cuya declaración de prodigalidad se solicite pueden comparecer en el proceso con su propia defensa y representación.
-
-> Si no lo hicieren, serán defendidos por el Ministerio Fiscal, siempre que no haya sido éste el promotor del procedimiento. En otro caso, el Letrado de la Administración de Justicia les designará un defensor judicial, a no ser que estuviere ya nombrado."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.15 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13098,35 +11846,11 @@ El letrado de la Administración de Justicia llevará a cabo las actuaciones ne
 
 4\. Si la sentencia que decida sobre las medidas de apoyo fuere apelada, se ordenará también de oficio en la segunda instancia la práctica de las pruebas preceptivas a que se refieren los apartados anteriores de este artículo.
 
-> Téngase en cuenta que este artículo, modificado por el art. 4.16 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 759. Pruebas y audiencias preceptivas en los procesos de incapacitación.
-
-> 1\. En los procesos de incapacitación, además de las pruebas que se practiquen de conformidad con lo dispuesto en el artículo 752, el tribunal oirá a los parientes más próximos del presunto incapaz, examinará a éste por sí mismo y acordará los dictámenes periciales necesarios o pertinentes en relación con las pretensiones de la demanda y demás medidas previstas por las leyes. Nunca se decidirá sobre la incapacitación sin previo dictamen pericial médico, acordado por el tribunal.
-
-> 2\. Cuando se hubiera solicitado en la demanda de incapacitación el nombramiento de la persona o personas que hayan de asistir o representar al incapaz y velar por él, sobre esta cuestión se oirá a los parientes más próximos del presunto incapaz, a éste, si tuviera suficiente juicio, y a las demás personas que el tribunal considere oportuno.
-
-> 3\. Si la sentencia que decida sobre la incapacitación fuere apelada, se ordenará también de oficio en la segunda instancia la práctica de las pruebas preceptivas a que se refieren los apartados anteriores de este artículo."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.16 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 **Artículo 760. Sentencia.**
 
 Las medidas que adopte la autoridad judicial en la sentencia deberán ser conformes a lo dispuesto sobre esta cuestión en las normas de derecho civil que resulten aplicables.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 760. Sentencia.
-
-> 1\. La sentencia que declare la incapacitación determinará la extensión y los límites de ésta, así como el régimen de tutela o guarda a que haya de quedar sometido el incapacitado, y se pronunciará, en su caso, sobre la necesidad de internamiento, sin perjuicio de lo dispuesto en el artículo 763.
-
-> 2\. En el caso a que se refiere el apartado 2 del artículo anterior, si el tribunal accede a la solicitud, la sentencia que declare la incapacitación o la prodigalidad nombrará a la persona o personas que, con arreglo a la Ley, hayan de asistir o representar al incapaz y velar por él.
-
-> 3\. La sentencia que declare la prodigalidad determinará los actos que el pródigo no puede realizar sin el consentimiento de la persona que deba asistirle."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.17 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13135,22 +11859,6 @@ Las medidas que adopte la autoridad judicial en la sentencia deberán ser confor
 Las medidas contenidas en la sentencia dictada serán revisadas de conformidad con lo previsto en la legislación civil, debiendo seguirse los trámites previstos a tal efecto en la Ley de Jurisdicción Voluntaria.
 
 En caso de que se produjera oposición en el expediente de jurisdicción voluntaria de revisión a que se refiere el párrafo anterior, o si dicho expediente no hubiera podido resolverse, se deberá instar el correspondiente proceso contencioso conforme a lo previsto en el presente Capítulo, pudiendo promoverlo cualquiera de las personas mencionadas en el apartado 1 del artículo 757, así como quien ejerza el apoyo de la persona con discapacidad.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.18 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 761. Reintegración de la capacidad y modificación del alcance de la incapacitación.
-
-> 1\. La sentencia de incapacitación no impedirá que, sobrevenidas nuevas circunstancias, pueda instarse un nuevo proceso que tenga por objeto dejar sin efecto o modificar el alcance de la incapacitación ya establecida.
-
-> 2\. Corresponde formular la petición para iniciar el proceso a que se refiere el apartado anterior, a las personas mencionadas en el apartado 1 del artículo 757, a las que ejercieren cargo tutelar o tuvieran bajo su guarda al incapacitado, al Ministerio Fiscal y al propio incapacitado.
-
-> Si se hubiera privado al incapacitado de la capacidad para comparecer en juicio, deberá obtener expresa autorización judicial para actuar en el proceso por sí mismo.
-
-> 3\. En los procesos a que se refiere este artículo se practicarán de oficio las pruebas preceptivas a que se refiere el artículo 759, tanto en la primera instancia como, en su caso, en la segunda.
-
-> La sentencia que se dicte deberá pronunciarse sobre si procede o no dejar sin efecto la incapacitación, o sobre si deben o no modificarse la extensión y los límites de ésta."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.18 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13163,20 +11871,6 @@ En caso de que se produjera oposición en el expediente de jurisdicción volunta
 Tales medidas podrán adoptarse, de oficio o a instancia de parte, en cualquier estado del procedimiento.
 
 3\. Siempre que la urgencia de la situación no lo impida, las medidas a que se refieren los apartados anteriores se acordarán previa audiencia de las personas con discapacidad. Para ello será de aplicación lo dispuesto en los artículos 734, 735 y 736 de esta Ley.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.19 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 762. Medidas cautelares.
-
-> 1\. Cuando el tribunal competente tenga conocimiento de la existencia de posible causa de incapacitación en una persona, adoptará de oficio las medidas que estime necesarias para la adecuada protección del presunto incapaz o de su patrimonio y pondrá el hecho en conocimiento del Ministerio Fiscal para que promueva, si lo estima procedente, la incapacitación.
-
-> 2\. El Ministerio Fiscal podrá también, en cuanto tenga conocimiento de la existencia de posible causa de incapacitación de una persona, solicitar del tribunal la inmediata adopción de las medidas a que se refiere el apartado anterior.
-
-> Las mismas medidas podrán adoptarse, de oficio o a instancia de parte, en cualquier estado del procedimiento de incapacitación.
-
-> 3\. Como regla, las medidas a que se refieren los apartados anteriores se acordarán previa audiencia de las personas afectadas. Para ello será de aplicación lo dispuesto en los artículos 734, 735 y 736 de esta Ley."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.19 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13223,16 +11917,6 @@ Si la existencia de dicha sentencia firme se acreditare una vez iniciado el proc
 Si fuere persona con discapacidad con medidas de apoyo para su ejercicio, dichas acciones podrán ser ejercitadas por ella, por quien preste el apoyo y se encuentre expresamente facultado para ello o, en su defecto, por el Ministerio Fiscal.
 
 2\. En todos los procesos a que se refiere este capítulo, a la muerte del actor, sus herederos podrán continuar las acciones ya entabladas.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.20 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 765. Ejercicio de las acciones que correspondan al hijo menor o incapacitado y sucesión procesal.
-
-> 1\. Las acciones de determinación o de impugnación de la filiación que, conforme a lo dispuesto en la legislación civil, correspondan al hijo menor de edad o incapacitado podrán ser ejercitadas por su representante legal o por el Ministerio Fiscal, indistintamente.
-
-> ...
 
 > Se modifica la rúbrica y el apartado 1, con efectos desde el 3 de septiembre de 2021, por el art. 4.20 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13289,12 +11973,6 @@ Son nulos los acuerdos de las partes que se opongan a lo dispuesto en este artí
 Las demandas de separación y divorcio, salvo las previstas en el artículo 777, las de nulidad del matrimonio y las demás que se formulen al amparo del título IV del libro I del Código Civil, se sustanciarán por los trámites del juicio verbal, conforme a lo establecido en el capítulo I de este título, y con sujeción, además, a las siguientes reglas:
 
 1.ª A la demanda deberá acompañarse certificación de la inscripción del matrimonio, y en su caso, las de inscripción de nacimiento de los hijos en el Registro Civil, así como los documentos en que el cónyuge funde su derecho. Si se solicitan medidas de carácter patrimonial, tanto la parte actora como la parte demandada deberán aportar los documentos de que dispongan que permitan evaluar la situación económica de los cónyuges, y en su caso, de los hijos, tales como declaraciones tributarias, nóminas, certificaciones bancarias, títulos de propiedad o certificaciones registrales. De igual forma se deberá acreditar, de existir, la resolución judicial o acuerdo en virtud del cual corresponde el uso de la vivienda familiar.
-
-> Téngase en cuenta que esta actualización de la regla 1ª, establecida por el art. 103.120 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1.ª A la demanda deberá acompañarse la certificación de la inscripción del matrimonio y, en su caso, las de inscripción de nacimiento de los hijos en el Registro Civil, así como los documentos en que el cónyuge funde su derecho. Si se solicitaran medidas de carácter patrimonial, el actor deberá aportar los documentos de que disponga que permitan evaluar la situación económica de los cónyuges y, en su caso, de los hijos, tales como declaraciones tributarias, nóminas, certificaciones bancarias, títulos de propiedad o certificaciones registrales."
 
 2.ª La reconvención se propondrá con la contestación a la demanda. El actor dispondrá de 10 días para contestarla.
 
@@ -13418,12 +12096,6 @@ Si la vista no pudiera señalarse en el plazo indicado, el Letrado de la Adminis
 
 1\. El Ministerio Fiscal, habiendo hijos menores o hijos con discapacidad con medidas de apoyo atribuidas a sus progenitores y, en todo caso, los cónyuges, podrán solicitar del Tribunal que acordó las medidas definitivas, la modificación de las medidas convenidas por los cónyuges o de las adoptadas en defecto de acuerdo, siempre que hayan variado sustancialmente las circunstancias tenidas en cuenta al aprobarlas o acordarlas.
 
-> Téngase en cuenta que este apartado 1, modificado por el art. 4.23 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. El Ministerio Fiscal, habiendo hijos menores o incapacitados y, en todo caso, los cónyuges, podrán solicitar del tribunal que acordó las medidas definitivas, la modificación de las medidas convenidas por los cónyuges o de las adoptadas en defecto de acuerdo, siempre que hayan variado sustancialmente las circunstancias tenidas en cuenta al aprobarlas o acordarlas."
-
 2\. Estas peticiones se tramitarán conforme a lo dispuesto en el artículo 770. No obstante, si la petición se hiciera por ambos cónyuges de común acuerdo o por uno con el consentimiento del otro y acompañando propuesta de convenio regulador, regirá el procedimiento establecido en el artículo 777.
 
 3\. Las partes podrán solicitar, en la demanda o en la contestación, la modificación provisional de las medidas definitivas concedidas en un pleito anterior. Esta petición se sustanciará con arreglo a lo previsto en el artículo 773.
@@ -13445,22 +12117,6 @@ Los pronunciamientos sobre medidas se ejecutarán con arreglo a lo dispuesto en 
 3.ª El incumplimiento reiterado de las obligaciones derivadas del régimen de visitas, tanto por parte del progenitor guardador como del no guardador, podrá dar lugar a la modificación por el Tribunal del régimen de guarda y visitas siempre y cuando sea acorde con la evaluación del interés superior del menor realizada previamente.
 
 4.ª Cuando deban ser objeto de ejecución forzosa gastos extraordinarios, no expresamente previstos en las medidas definitivas o provisionales, deberá solicitarse previamente al despacho de ejecución la declaración de que la cantidad reclamada tiene la consideración de gasto extraordinario. Del escrito solicitando la declaración de gasto extraordinario se dará vista a la contraria y, en caso de oposición dentro de los cinco días siguientes, el Tribunal convocará a las partes a una vista que se sustanciará con arreglo a lo dispuesto en los artículos 440 y siguientes y que resolverá mediante auto.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.121 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 776. Ejecución forzosa de los pronunciamientos sobre medidas.**
-
-> Los pronunciamientos sobre medidas se ejecutarán con arreglo a lo dispuesto en el Libro III de esta ley, con las especialidades siguientes:
-
-> 1.ª Al cónyuge o progenitor que incumpla de manera reiterada las obligaciones de pago de cantidad que le correspondan podrán imponérsele por el Letrado de la Administración de Justicia multas coercitivas, con arreglo a lo dispuesto en el artículo 711 y sin perjuicio de hacer efectivas sobre su patrimonio las cantidades debidas y no satisfechas.
-
-> 2.ª En caso de incumplimiento de obligaciones no pecuniarias de carácter personalísimo, no procederá la sustitución automática por el equivalente pecuniario prevista en el apartado tercero del artículo 709 y podrán, si así lo juzga conveniente el Tribunal, mantenerse las multas coercitivas mensuales todo el tiempo que sea necesario más allá del plazo de un año establecido en dicho precepto.
-
-> 3.ª El incumplimiento reiterado de las obligaciones derivadas del régimen de visitas, tanto por parte del progenitor guardador como del no guardador, podrá dar lugar a la modificación por el Tribunal del régimen de guarda y visitas.
-
-> 4.ª Cuando deban ser objeto de ejecución forzosa gastos extraordinarios, no expresamente previstos en las medidas definitivas o provisionales, deberá solicitarse previamente al despacho de ejecución la declaración de que la cantidad reclamada tiene la consideración de gasto extraordinario. Del escrito solicitando la declaración de gasto extraordinario se dará vista a la contraria y, en caso de oposición dentro de los cinco días siguientes, el Tribunal convocará a las partes a una vista que se sustanciará con arreglo a lo dispuesto en los artículos 440 y siguientes y que resolverá mediante auto."
 
 > Se modifica por el art. 103.121 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -13499,30 +12155,6 @@ El decreto que formalice la propuesta del convenio regulador declarará la separ
 Si considerase que, a su juicio, alguno de los acuerdos del convenio pudiera ser dañoso o gravemente perjudicial para uno de los cónyuges o para los hijos mayores o menores emancipados afectados, lo advertirá a los otorgantes y dará por terminado el procedimiento. En este caso, los cónyuges solo podrán acudir ante el juez para la aprobación de la propuesta de convenio regulador.
 
 El decreto no será recurrible.
-
-> Téngase en cuenta que los apartados 5, 8 y 10, modificados por el art. 4.24 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior
-
-> 5\. Si hubiera hijos menores o incapacitados, el Tribunal recabará informe del Ministerio Fiscal sobre los términos del convenio relativos a los hijos y oirá a los menores si tuvieran suficiente juicio cuando se estime necesario de oficio o a petición del Fiscal, partes o miembros del Equipo Técnico Judicial o del propio menor. Estas actuaciones se practicarán durante el plazo a que se refiere el apartado anterior o, si éste no se hubiera abierto, en el plazo de cinco días.
-
-> ....
-
-> 8\. La sentencia que deniegue la separación o el divorcio y el auto que acuerde alguna medida que se aparte de los términos del convenio propuesto por los cónyuges podrán ser recurridos en apelación. El recurso contra el auto que decida sobre las medidas no suspenderá la eficacia de éstas, ni afectará a la firmeza de la sentencia relativa a la separación o al divorcio.
-
-> La sentencia o el auto que aprueben en su totalidad la propuesta de convenio sólo podrán ser recurridos, en interés de los hijos menores o incapacitados, por el Ministerio Fiscal.
-
-> ...
-
-> 10\. Si la competencia fuera del Letrado de la Administración de Justicia por no existir hijos menores no emancipados o con la capacidad modificada judicialmente que dependan de sus progenitores, inmediatamente después de la ratificación de los cónyuges ante el Letrado de la Administración de Justicia, este dictará decreto pronunciándose, sobre el convenio regulador.
-
-> El decreto que formalice la propuesta del convenio regulador declarará la separación o divorcio de los cónyuges.
-
-> Si considerase que, a su juicio, alguno de los acuerdos del convenio pudiera ser dañoso o gravemente perjudicial para uno de los cónyuges o para los hijos mayores o menores emancipados afectados, lo advertirá a los otorgantes y dará por terminado el procedimiento. En este caso, los cónyuges sólo podrán acudir ante el Juez para la aprobación de la propuesta de convenio regulador.
-
-> El decreto no será recurrible.
-
-> La modificación del convenio regulador formalizada por el Letrado de la Administración de Justicia se sustanciará conforme a lo dispuesto en este artículo cuando concurran los requisitos necesarios para ello."
 
 > Se modifican los apartados 5, 8 y 10, con efectos desde el 3 de septiembre de 2021, por el art. 4.24 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -13688,24 +12320,6 @@ c) Si hubiere de practicarse prueba o si se acordase la celebración de vista, e
 
 d) La resolución deberá ser dictada dentro de los tres días siguientes a la terminación de la vista o, en defecto de ésta, a contar desde el día siguiente a aquel en que se hubieran recibido los autos en el tribunal competente para la apelación.
 
-> Téngase en cuenta que esta actualización del apartado 11, establecida por el art. 103.122 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "11. Contra la resolución que se dicte sólo cabrá recurso de apelación con efectos suspensivos, que tendrá tramitación preferente, debiendo ser resuelto en el improrrogable plazo de veinte días.
-
-> En la tramitación del recurso de apelación se seguirán las siguientes especialidades:
-
-> a) Se interpondrá en el plazo de tres días contados desde el día siguiente a la notificación de la resolución, debiendo el órgano judicial acordar su admisión o no dentro de las 24 horas siguientes a la presentación.
-
-> b) Admitido el recurso, las demás partes tendrán tres días para presentar escrito de oposición al recurso o, en su caso, de impugnación. En este último supuesto, igualmente el apelante principal dispondrá del plazo de tres días para manifestar lo que tenga por conveniente.
-
-> c) Tras ello, el Letrado de la Administración de Justicia ordenará la remisión de los autos en el mismo día al Tribunal competente para resolver la apelación, ante el cual deberán comparecer las partes en el plazo de 24 horas.
-
-> d) Recibidos los autos, el Tribunal acordará lo que proceda sobre su admisión en el plazo de 24 horas. Si hubiere de practicarse prueba o si se acordase la celebración de vista, el Letrado de la Administración de Justicia señalará día para dentro de los tres días siguientes.
-
-> e) La resolución deberá ser dictada dentro de los tres días siguientes a la terminación de la vista o, en defecto de ésta, a contar desde el día siguiente a aquel en que se hubieran recibido los autos en el Tribunal competente para la apelación."
-
 12\. En cualquier momento del proceso, ambas partes podrán solicitar la suspensión del mismo de conformidad con lo previsto en el artículo 19.4, para someterse a mediación. También el Juez podrá en cualquier momento, de oficio o a petición de cualquiera de las partes, proponer una solución de mediación si, atendiendo a las circunstancias concurrentes, estima posible que lleguen a un acuerdo, sin que ello deba suponer un retraso injustificado del proceso. En tales casos, el Letrado de la Administración de Justicia acordará la suspensión por el tiempo necesario para tramitar la mediación. La Entidad Publica que tenga las funciones de protección del menor puede intervenir como mediadora si así se solicitase de oficio, por las partes o por el Ministerio Fiscal.
 
 La duración del procedimiento de mediación será lo más breve posible y sus actuaciones se concentrarán en el mínimo número de sesiones, sin que en ningún caso pueda la suspensión del proceso para mediación exceder del plazo legalmente previsto en este Capítulo.
@@ -13737,12 +12351,6 @@ La autoridad competente en España para emitir una decisión o una certificació
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 210, de 2 de septiembre de 2015. [Ref. BOE-A-2015-9524](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9524).
 
 #### CAPÍTULO V — De la oposición a las resoluciones administrativas en materia de protección de menores, del procedimiento para determinar la necesidad de asentimiento en la adopción y de la oposición a determinadas resoluciones y actos de la Dirección General de los Registros y del Notariado en materia de Registro Civil.
-
-> Téngase en cuenta que la redacción de esta rúbrica entra en vigor el 30 de junio de 2020, según establece la disposición final 10 de la Ley 20/2011, de 21 de julio. [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628).
-
-> Redacción anterior:
-
-> "De la oposición a las resoluciones administrativas en materia de protección de menores y del procedimiento para determinar la necesidad de asentimiento en la adopción".
 
 > Se modifica la rúbrica por la disposición final 4.2 de la Ley 20/2011, de 21 de julio. [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628).
 
@@ -13777,18 +12385,6 @@ La entidad administrativa, podrá ser requerida para aportar al Tribunal antes d
 4\. Recibido el testimonio o copia auténtica del expediente administrativo, el letrado o letrada de la Administración de Justicia, en el plazo máximo de cinco días, emplazará al actor por diez días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753.
 
 El Tribunal dictará sentencia dentro de los diez días siguientes a la terminación del juicio.
-
-> Téngase en cuenta que esta actualización de los apartados 3 y 4, establecida por el art. 103.123 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3. El Letrado de la Administración de Justicia reclamará a la entidad administrativa un testimonio completo del expediente, que deberá ser aportado en el plazo de diez días.
-
-> La entidad administrativa, podrá ser requerida para aportar al Tribunal antes de la vista, las actualizaciones que se hayan producido en el expediente del menor.
-
-> 4\. Recibido el testimonio del expediente administrativo, el Letrado de la Administración de Justicia, en el plazo máximo de cinco días, emplazará al actor por diez días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753.
-
-> El Tribunal dictará sentencia dentro de los diez días siguientes a la terminación del juicio."
 
 5\. Se suprime.
 
@@ -13834,14 +12430,6 @@ Contra el auto que deniegue la acumulación podrán interponerse los recursos de
 
 4\. Recibido el testimonio o copia auténtica del expediente administrativo, el letrado o letrada de la Administración de Justicia emplazará al actor por veinte días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753.
 
-> Téngase en cuenta que esta actualización de los apartados 3 y 4, establecida por el art. 103.124 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3. El letrado de la Administración de Justicia reclamará a la Dirección General de los Registros y del Notariado un testimonio completo del expediente, que deberá ser aportado en el plazo de veinte días.
-
-> 4\. Recibido el testimonio del expediente administrativo, el letrado de la Administración de Justicia emplazará al actor por veinte días para que presente la demanda, que se tramitará con arreglo a lo previsto en el artículo 753."
-
 > Se modifican los apartados 3 y 4 por el art. 103.124 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -13881,12 +12469,6 @@ Contra el auto que deniegue la acumulación podrán interponerse los recursos de
 3\. La citación de los interesados que estuvieren ya personados en las actuaciones se hará por medio del procurador. A los que no estuvieren personados se les citará personalmente, si su residencia fuere conocida. Si no lo fuere, se les llamará por edictos, conforme a lo dispuesto en el artículo 164.
 
 4\. El letrado de la Administración de Justicia convocará también al Ministerio Fiscal para que represente a los interesados en la herencia que sean menores y no tengan representación legítima y a los ausentes cuyo paradero se ignore. La representación del Ministerio Fiscal cesará una vez que los menores estén habilitados de representante legal y, respecto de los ausentes, cuando se presenten en el juicio o puedan ser citados personalmente, aunque vuelvan a ausentarse.
-
-> Téngase en cuenta que este apartado 4, modificado por el art. 4.25 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4. El Letrado de la Administración de Justicia convocará también al Ministerio Fiscal para que represente a los interesados en la herencia que sean menores o incapacitados y no tengan representación legítima y a los ausentes cuyo paradero se ignore. La representación del Ministerio Fiscal cesará una vez que los menores o incapacitados estén habilitados de representante legal o defensor judicial y, respecto de los ausentes, cuando se presenten en el juicio o puedan ser citados personalmente, aunque vuelvan a ausentarse."
 
 5\. Los acreedores a que se refiere el apartado 5 del artículo anterior serán convocados por el Letrado de la Administración de Justicia a la Junta cuando estuvieren personados en el procedimiento. Los que no estuvieren personados no serán citados, pero podrán participar en ella si concurren en el día señalado aportando los títulos justificativos de sus créditos.
 
@@ -13986,18 +12568,6 @@ De la misma forma procederá cuando las personas de que habla el párrafo anteri
 
 2\. En los casos a que se refiere este artículo, luego que comparezcan los parientes, o se nombre representante legal a los menores, se les hará entrega de los bienes y efectos pertenecientes al difunto, cesando la intervención judicial, salvo lo dispuesto en el artículo siguiente, debiendo acudir al Notario a fin de que proceda a la incoación del expediente de declaración de herederos.
 
-> Téngase en cuenta que este artículo, modificado por el art. 4.26 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Artículo 790. Aseguramiento de los bienes de la herencia y de los documentos del difunto.
-
-> 1\. Siempre que el Tribunal tenga noticia del fallecimiento de una persona y no conste la existencia de testamento, ni de ascendientes, descendientes o cónyuge del finado o persona que se halle en una situación de hecho asimilable, ni de colaterales dentro del cuarto grado, adoptará de oficio las medidas más indispensables para el enterramiento del difunto si fuere necesario y para la seguridad de los bienes, libros, papeles, correspondencia y efectos del difunto susceptibles de sustracción u ocultación.
-
-> De la misma forma procederá cuando las personas de que habla el párrafo anterior estuvieren ausentes o cuando alguno de ellos sea menor o tenga capacidad modificada judicialmente y no tenga representante legal.
-
-> 2\. En los casos a que se refiere este artículo, luego que comparezcan los parientes, o se nombre representante legal a los menores o personas con capacidad modificada judicialmente, se les hará entrega de los bienes y efectos pertenecientes al difunto, cesando la intervención judicial, salvo lo dispuesto en el artículo siguiente, debiendo acudir al Notario a fin de que proceda a la incoación del expediente de declaración de herederos."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.26 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 > Se modifica por la disposición final 3.15 de la ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
@@ -14062,12 +12632,6 @@ Cuando esa resolución declare a la Administración heredera abintestato, el ór
 
 6.º El abogado del Estado, o, en los casos previstos legalmente, los Servicios Jurídicos de las Comunidades Autónomas, cuando no conste la existencia de testamento ni de cónyuge o parientes que puedan tener derecho a la sucesión legítima.
 
-> Téngase en cuenta que este apartado 3.5º, modificado por el art. 4.27 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "5.º El Ministerio Fiscal, siempre que pudiere haber parientes desconocidos con derecho a la sucesión legítima, o que alguno de los parientes conocidos con derecho a la herencia o de los herederos o legatarios de parte alícuota no pudiere ser citado personalmente por no ser conocida su residencia, o cuando cualquiera de los interesados sea menor o incapacitado y no tenga representante legal."
-
 > Se modifica el apartado 3.5º, con efectos desde el 3 de septiembre de 2021, por el art. 4.27 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 > Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167)
@@ -14102,12 +12666,6 @@ Hecho el inventario, determinará el tribunal, por medio de auto, lo que según 
 
 4.º Los herederos y legatarios de parte alícuota podrán dispensar al administrador del deber de prestar caución. No habiendo acerca de esto conformidad, la caución será proporcionada al interés en el caudal de los que no otorguen su relevación. Se constituirá caución, en todo caso, respecto de la participación en la herencia de los menores que no tengan representante legal y de los ausentes a los que no se haya podido citar por ignorarse su paradero.
 
-> Téngase en cuenta que este apartado 4º, modificado por el art. 4.28 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4.º Los herederos y legatarios de parte alícuota podrán dispensar al administrador del deber de prestar caución. No habiendo acerca de esto conformidad, la caución será proporcionada al interés en el caudal de los que no otorguen su relevación. Se constituirá caución, en todo caso, respecto de la participación en la herencia de los menores o incapacitados que no tengan representante legal y de los ausentes a los que no se haya podido citar por ignorarse su paradero."
-
 > Se modifica el apartado 4º, con efectos desde el 3 de septiembre de 2021, por el art. 4.28 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 **Artículo 796. Cesación de la intervención judicial de la herencia.**
@@ -14117,12 +12675,6 @@ Hecho el inventario, determinará el tribunal, por medio de auto, lo que según 
 2\. Durante la sustanciación del procedimiento de división judicial de la herencia podrán pedir los herederos, de común acuerdo, que cese la intervención judicial. El letrado de la Administración de Justicia así lo acordará mediante decreto, salvo cuando alguno de los interesados sea menor y no tenga representante legal o cuando haya algún heredero ausente al que no haya podido citarse por ignorarse su paradero.
 
 3\. Si hubiera acreedores reconocidos en el testamento o por los coherederos o con derecho documentado en un título ejecutivo, que se hubieran opuesto a que se lleve a efecto la partición de la herencia hasta que se les pague o afiance el importe de sus créditos, no se acordará la cesación de la intervención hasta que se produzca el pago o afianzamiento.
-
-> Téngase en cuenta que este artículo, modificado por el art. 4.29 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. Durante la sustanciación del procedimiento de división judicial de la herencia podrán pedir los herederos, de común acuerdo, que cese la intervención judicial. El Letrado de la Administración de Justicia así lo acordará mediante decreto, salvo cuando alguno de los interesados sea menor o incapacitado y no tenga representante legal o cuando haya algún heredero ausente al que no haya podido citarse por ignorarse su paradero."
 
 > Se modifica el apartado 2, con efectos desde el 3 de septiembre de 2021, por el art. 4.29 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -14137,12 +12689,6 @@ Hecho el inventario, determinará el tribunal, por medio de auto, lo que según 
 1\. Nombrado el administrador y prestada por éste la caución, el Letrado de la Administración de Justicia le pondrá en posesión de su cargo, dándole a conocer a las personas que el mismo designe de aquéllas con quienes deba entenderse para su desempeño.
 
 2\. Para que pueda acreditar su representación el letrado o letrada de la Administración de Justicia le dará testimonio o copia auténtica, en que conste su nombramiento y que se halla en posesión del cargo.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. 103.125 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. Para que pueda acreditar su representación el Letrado de la Administración de Justicia le dará testimonio, en que conste su nombramiento y que se halla en posesión del cargo."
 
 3\. Podrá hacerse constar en el Registro de la Propiedad el estado de administración de las fincas de la herencia y el nombramiento de administrador mediante el correspondiente mandamiento expedido por el Letrado de la Administración de Justicia con los requisitos previstos en la legislación hipotecaria.
 
@@ -14372,14 +12918,6 @@ Si, tras la realización de las correspondientes averiguaciones por el Letrado d
 
 La petición podrá extenderse en impreso o formulario obtenido en papel o a través de la sede electrónica, que facilite la expresión de los extremos a que se refiere el apartado anterior.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 103.126 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "1. El procedimiento monitorio comenzará por petición del acreedor en la que se expresarán la identidad del deudor, el domicilio o domicilios del acreedor y del deudor o el lugar en que residieran o pudieran ser hallados y el origen y cuantía de la deuda, acompañándose el documento o documentos a que se refiere el artículo 812.
-
-> La petición podrá extenderse en impreso o formulario que facilite la expresión de los extremos a que se refiere el apartado anterior."
-
 2\. Para la presentación de la petición inicial del procedimiento monitorio no será preciso valerse de procurador y abogado.
 
 > Se modifica el apartado 1 por el art. 103.126 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
@@ -14407,32 +12945,6 @@ En otro caso se tendrá al demandante por desistido, pudiendo hacer valer su pre
 El auto que se dicte en este último caso será directamente apelable por la parte personada en el procedimiento.
 
 4\. Si el tribunal no apreciara motivo para reducir la cantidad por la que se pide el requerimiento de pago, lo declarará así y el letrado o letrada de la Administración de Justicia procederá a requerir al deudor en los términos previstos en el apartado 1.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 103.127 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Artículo 815. Admisión de la petición y requerimiento de pago.**
-
-> 1\. Si los documentos aportados con la petición fueran de los previstos en el apartado 2 del artículo 812 o constituyeren un principio de prueba del derecho del peticionario, confirmado por lo que se exponga en aquella, el Letrado de la Administración de Justicia requerirá al deudor para que, en el plazo de veinte días, pague al peticionario, acreditándolo ante el tribunal, o comparezca ante éste y alegue de forma fundada y motivada, en escrito de oposición, las razones por las que, a su entender, no debe, en todo o en parte, la cantidad reclamada. En caso contrario dará cuenta al juez para que resuelva lo que corresponda sobre la admisión a trámite de la petición inicial.
-
-> El requerimiento se notificará en la forma prevista en el artículo 161 de esta ley, con apercibimiento de que, de no pagar ni comparecer alegando razones de la negativa al pago, se despachará contra él ejecución según lo prevenido en el artículo siguiente. Sólo se admitirá el requerimiento al demandado por medio de edictos en el supuesto regulado en el siguiente apartado de este artículo.
-
-> 2\. En las reclamaciones de deuda a que se refiere el número 2.º del apartado 2 del artículo 812, la notificación deberá efectuarse en el domicilio previamente designado por el deudor para las notificaciones y citaciones de toda índole relacionadas con los asuntos de la comunidad de propietarios. Si no se hubiere designado tal domicilio, se intentará la comunicación en el piso o local, y si tampoco pudiere hacerse efectiva de este modo, se le notificará conforme a lo dispuesto en el artículo 164 de la presente Ley.
-
-> 3\. Si de la documentación aportada con la petición se desprende que la cantidad reclamada no es correcta, el Letrado de la Administración de Justicia dará traslado al juez, quien, en su caso, mediante auto podrá plantear al peticionario aceptar o rechazar una propuesta de requerimiento de pago por el importe inferior al inicialmente solicitado que especifique.
-
-> En la propuesta, se deberá informar al peticionario de que, si en un plazo no superior a diez días no envía la respuesta o la misma es de rechazo, se le tendrá por desistido.
-
-> 4\. Si la reclamación de la deuda se fundara en un contrato entre un empresario o profesional y un consumidor o usuario, el Letrado de la Administración de Justicia, previamente a efectuar el requerimiento, dará cuenta al juez para que pueda apreciar el posible carácter abusivo de cualquier cláusula que constituya el fundamento de la petición o que hubiese determinado la cantidad exigible.
-
-> El juez examinará de oficio si alguna de las cláusulas que constituye el fundamento de la petición o que hubiese determinado la cantidad exigible puede ser calificada como abusiva. Cuando apreciare que alguna cláusula puede ser calificada como tal, dará audiencia por cinco días a las partes. Oídas éstas, resolverá lo procedente mediante auto dentro de los cinco días siguientes. Para dicho trámite no será preceptiva la intervención de abogado ni de procurador.
-
-> De estimar el carácter abusivo de alguna de las cláusulas contractuales, el auto que se dicte determinará las consecuencias de tal consideración acordando, bien la improcedencia de la pretensión, bien la continuación del procedimiento sin aplicación de las consideradas abusivas.
-
-> Si el tribunal no estimase la existencia de cláusulas abusivas, lo declarará así y el Letrado de la Administración de Justicia procederá a requerir al deudor en los términos previstos en el apartado 1.
-
-> El auto que se dicte será directamente apelable en todo caso."
 
 > Se modifica por el art. 103.127 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -14688,8 +13200,6 @@ Las mismas previsiones se adoptarán cuando el desalojo de la vivienda se acuerd
 
 La remisión por parte de un tribunal, oficina judicial u oficina fiscal a otro de todo o parte de un expediente judicial electrónico se realizará, si los sistemas electrónicos lo permiten, facilitando un acceso seguro y controlado a dichos elementos.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 103.128 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 103.128 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta disposición entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -14700,8 +13210,6 @@ En los casos en los que los sistemas de gestión procesal u otros electrónicos 
 
 Las referencias que la presente ley u otras hagan a la sede de la oficina judicial, o del Juzgado o Tribunal, se entenderán efectuadas también a la sede judicial electrónica y a la Carpeta Justicia, cuando ésta o aquélla dispongan de los servicios o aplicaciones que permitan realizar el trámite, presentación o actuación telemáticamente.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 103.129 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
 > Se añade por el art. 103.129 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta disposición entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -14709,8 +13217,6 @@ Las referencias que la presente ley u otras hagan a la sede de la oficina judici
 **Disposición adicional décima. Disponibilidad de soluciones tecnológicas seguras.**
 
 El Comité técnico estatal de la Administración judicial electrónica podrá definir condiciones de seguridad que las soluciones tecnológicas deban cumplir para asegurar el cumplimiento de las finalidades pretendidas en las normas procesales.
-
-> Téngase en cuenta que esta disposición, añadida por el art. 103.130 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade por el art. 103.130 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
@@ -15214,38 +13720,6 @@ Excepcionalmente y cuando por inexistencia de técnicos en la materia de que se 
 
 **(Suprimida)**
 
-> Téngase en cuenta que esta disposición se suprime por el art. 103.131 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), con efectos de 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "**Disposición final decimosexta. Régimen transitorio en materia de recursos extraordinarios.**
-
-> 1\. En tanto no se confiera a los Tribunales Superiores de Justicia la competencia para conocer del recurso extraordinario por infracción procesal, dicho recurso procederá, por los motivos previstos en el artículo 469, respecto de las resoluciones que sean susceptibles de recurso de casación conforme a lo dispuesto en el artículo 477.
-
-> Para la interposición y resolución del recurso extraordinario por infracción procesal se seguirán las siguientes reglas:
-
-> 1.ª Será competente para conocer del recurso extraordinario por infracción procesal la Sala de lo Civil del Tribunal Supremo, pero en los casos en que la competencia para el recurso de casación corresponde a las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia, las resoluciones recurridas podrán también impugnarse por los motivos previstos en el artículo 469 de la presente Ley.
-
-> 2.ª Solamente podrá presentarse recurso extraordinario por infracción procesal sin formular recurso de casación frente a las resoluciones recurribles en casación a que se refieren los números 1.º y 2.º del apartado segundo del artículo 477 de esta Ley.
-
-> 3.ª Cuando un litigante pretenda recurrir una resolución por infracción procesal y en casación, habrá de interponer ambos recursos en un mismo escrito. A la interposición de dichos recursos y a la remisión de los autos, les serán de aplicación los plazos establecidos en los artículos 479 y 482, respectivamente.
-
-> 4.ª Siempre que se interpongan contra una misma resolución recurso por infracción procesal y recurso de casación, se tramitarán ambos en un único procedimiento. Cuando se trate de recursos presentados por distintos litigantes, se procederá a su acumulación.
-
-> 5.ª Si se tramitaren conjuntamente recurso por infracción procesal y recurso de casación, la Sala examinará, en primer lugar, si la resolución recurrida es susceptible de recurso de casación, y si no fuere así, acordará la inadmisión del recurso por infracción procesal.
-
-> Cuando el recurso por infracción procesal se hubiese formulado fundando exclusivamente su procedencia en el número 3.º del apartado segundo del artículo 477, la Sala resolverá si procede la admisión o inadmisión del recurso de casación, y si acordare la inadmisión, se inadmitirá, sin más trámites, el recurso por infracción procesal. Sólo en el caso de que el recurso de casación resultare admisible, se procederá a resolver sobre la admisión del recurso extraordinario por infracción procesal.
-
-> 6.ª Admitidos los recursos a que se refiere la regla anterior, se resolverá siempre en primer lugar el recurso extraordinario por infracción procesal y, sólo cuando éste se desestime, se examinará y resolverá el recurso de casación. En tal caso, la desestimación del recurso por infracción procesal y la decisión sobre el recurso de casación se contendrán en una misma sentencia.
-
-> 7.ª Cuando se hubiese recurrido la sentencia por infracción procesal al amparo del motivo 2.º del apartado primero del artículo 469, la Sala, de estimar el recurso por ese motivo, dictará nueva sentencia, teniendo en cuenta, en su caso, lo que se hubiere alegado como fundamento del recurso de casación. Del mismo modo resolverá la Sala si se alegare y estimare producida una vulneración del artículo 24 de la Constitución que sólo afectase a la sentencia.
-
-> 8.ª Contra las sentencias dictadas resolviendo recursos extraordinarios por infracción procesal y recursos de casación no cabrá recurso alguno.
-
-> 2\. En tanto las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia carezcan de competencia para conocer, con carácter general, de los recursos extraordinarios por infracción procesal, no serán de aplicación los artículos 466, 468 y 472, así como los artículos 488 a 493 y el apartado cuarto del artículo 476. Lo dispuesto en el último párrafo del apartado segundo del artículo 476 no será de aplicación en los casos en que se estime el recurso extraordinario por infracción procesal fundado en el motivo 2.º del apartado primero del artículo 469 o en vulneraciones del artículo 24 de la Constitución que únicamente afectaran a la sentencia recurrida.
-
-> Las referencias a los Tribunales Superiores de Justicia, contenidas en el artículo 472 se entenderán hechas a la Sala que sea competente para conocer del recurso de casación."
-
 > Se suprime por el art. 103.131 del Real Decreto-ley 6/2023, de 19 de diciembre. [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758)
 
 > Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
@@ -15329,12 +13803,6 @@ La negativa del notario a la expedición de los certificados requeridos podrá s
 La competencia territorial se determinará con arreglo a lo dispuesto en el Reglamento (CE) n.º 44/2001 del Consejo, de 22 de diciembre de 2000, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil, y, en lo no previsto, con arreglo a la legislación procesal española.
 
 2\. La petición de requerimiento europeo de pago se presentará a través del formulario que figura en el anexo I del Reglamento (CE) n.º 1896/2006, sin necesidad de aportar documentación alguna, que en su caso será inadmitida, a excepción de las peticiones de requerimiento europeo de pago que se basen en un contrato entre un empresario o profesional y un consumidor o usuario, cuando el juez lo solicite a fin de poder ejercer de oficio el control de abusividad de las cláusulas.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida el art. 103.132 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "2. La petición de requerimiento europeo de pago se presentará a través del formulario A que figura en el anexo I del Reglamento (CE) n.º 1896/2006, sin necesidad de aportar documentación alguna, que en su caso será inadmitida."
 
 3\. Formulada una petición de requerimiento europeo de pago, el Letrado de la Administración de Justicia mediante decreto y en la forma prevista en el formulario B del anexo II del Reglamento (CE) n.º 1896/2006, podrá instar al demandante para que complete o rectifique su petición, salvo que ésta sea manifiestamente infundada o inadmisible, de acuerdo con lo dispuesto en el artículo 9 del citado Reglamento, en cuyo caso resolverá el juez mediante auto.
 
@@ -15486,12 +13954,6 @@ Sin perjuicio de los motivos de oposición a la ejecución previstos en esta ley
 
 6.ª Contra dicho auto cabe recurso de apelación. Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso de casación en los términos previstos por esta ley. El órgano judicial que conozca de alguno de estos recursos podrá suspender el procedimiento si se ha presentado un recurso ordinario contra la resolución en el Estado miembro de origen o si aún no ha expirado el plazo para interponerlo, conforme al artículo 51 del Reglamento (UE) n.º 1215/2012 del Parlamento Europeo y del Consejo, de 12 de diciembre de 2012, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil. A estos efectos, cuando la resolución se haya dictado en Irlanda, Chipre o el Reino Unido, cualquier recurso previsto en alguno de estos Estados miembros de origen será considerado recurso ordinario.
 
-> Téngase en cuenta que esta actualización de la regla 6ª del apartado 4, establecida el art. 103.133 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "6.ª Contra dicho auto cabe recurso de apelación. Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso extraordinario por infracción procesal y recurso de casación en los términos previstos por esta ley. El órgano judicial que conozca de alguno de estos recursos, podrá suspender el procedimiento si se ha presentado un recurso ordinario contra la resolución en el Estado miembro de origen o si aún no ha expirado el plazo para interponerlo, conforme al artículo 51 del Reglamento (UE) n.º 1215/2012. A estos efectos, cuando la resolución se haya dictado en Irlanda, Chipre o el Reino Unido, cualquier recurso previsto en alguno de estos Estados miembros de origen será considerado recurso ordinario."
-
 5\. Expedición del certificado.
 
 1.ª A los efectos de la aplicación del artículo 53 del Reglamento (UE) n.º 1215/2012, la expedición del certificado previsto en ese precepto se podrá solicitar por medio de otrosí en la demanda, para su expedición de forma simultánea a la sentencia. En todo caso, la expedición se hará de forma separada y mediante providencia, utilizando el modelo de formulario al que se refiere dicho artículo.
@@ -15583,12 +14045,6 @@ La competencia para conocer del recurso corresponderá a la Audiencia Provincial
 2.ª Durante el plazo del recurso contra la declaración de fuerza ejecutiva y hasta que se resuelva sobre el mismo, solamente se podrán adoptar medidas cautelares sobre los bienes de la parte contra la que se haya solicitado la ejecución.
 
 3.ª Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso de casación en los términos previstos por esta ley.
-
-> Téngase en cuenta que esta actualización de la regla 3ª del apartado 5, establecida el art. 103.134 del Real Decreto-ley 6/2023, de 19 de diciembre, [Ref. BOE-A-2023-25758](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758), entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "3.ª Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso extraordinario por infracción procesal y recurso de casación en los términos previstos por esta ley."
 
 6\. Procedimiento del recurso contra la resolución sobre la solicitud de declaración de fuerza ejecutiva.
 

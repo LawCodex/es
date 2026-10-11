@@ -2209,51 +2209,42 @@ Las viviendas de nueva construcción que se acojan a las ayudas de los artículo
 
 1\. Tener un consumo de energía primaria no renovable inferior a los valores límite incluidos en la siguiente tabla, en función de la zona climática en la que se ubique el edificio, según la clasificación climática del Código Técnico de la Edificación.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Valor límite C<sub>ep,nren,lim</sub></p>
+<p>Valor límite C<sub>ep,nren,lim</sub></p>
 </caption>
-<colgroup>
-<col width="52%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="6">C<sub>ep,nren,lim </sub>[kWh/m<sup>2</sup>·año]</th>
+<th rowspan="2"> </th>
+<th colspan="6">C<sub>ep,nren,lim </sub>[kWh/m<sup>2</sup>·año]</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">α</th>
-<th class="cabeza_tabla">A</th>
-<th class="cabeza_tabla">B</th>
-<th class="cabeza_tabla">C</th>
-<th class="cabeza_tabla">D</th>
-<th class="cabeza_tabla">E</th>
+<th>α</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Territorio peninsular.</td>
-<td class="cuerpo_tabla_centro">≤ 16,0</td>
-<td class="cuerpo_tabla_centro">≤ 20,0</td>
-<td class="cuerpo_tabla_centro">≤ 22,4</td>
-<td class="cuerpo_tabla_centro">≤ 25,6</td>
-<td class="cuerpo_tabla_centro">≤ 30,4</td>
-<td class="cuerpo_tabla_centro">≤ 34,4</td>
+<td>Territorio peninsular.</td>
+<td>≤ 16,0</td>
+<td>≤ 20,0</td>
+<td>≤ 22,4</td>
+<td>≤ 25,6</td>
+<td>≤ 30,4</td>
+<td>≤ 34,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla).</td>
-<td class="cuerpo_tabla_centro">≤ 20,0</td>
-<td class="cuerpo_tabla_centro">≤ 25,0</td>
-<td class="cuerpo_tabla_centro">≤ 28,0</td>
-<td class="cuerpo_tabla_centro">≤ 32,0</td>
-<td class="cuerpo_tabla_centro">≤ 38,0</td>
-<td class="cuerpo_tabla_centro">≤ 43,0</td>
+<td>Territorio extrapeninsular (Illes Balears, Canarias, Ceuta y Melilla).</td>
+<td>≤ 20,0</td>
+<td>≤ 25,0</td>
+<td>≤ 28,0</td>
+<td>≤ 32,0</td>
+<td>≤ 38,0</td>
+<td>≤ 43,0</td>
 </tr>
 </tbody>
 </table>
@@ -2262,50 +2253,44 @@ Las viviendas de nueva construcción que se acojan a las ayudas de los artículo
 
 ## ANEXO II — Tabla para la determinación de la cuantía máxima de la ayuda de las actuaciones en materia de habitabilidad y sostenibilidad
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="26%">
-<col width="20%">
-<col width="27%">
-<col width="27%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ahorro energético conseguido con la actuación</th>
-<th class="cabeza_tabla" rowspan="2">Porcentaje máximo de la subvención del coste de la actuación</th>
-<th class="cabeza_tabla">Vivienda</th>
-<th class="cabeza_tabla">Locales comerciales u otros usos</th>
+<th rowspan="2">Ahorro energético conseguido con la actuación</th>
+<th rowspan="2">Porcentaje máximo de la subvención del coste de la actuación</th>
+<th>Vivienda</th>
+<th>Locales comerciales u otros usos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuantía máxima de la ayuda por vivienda</p>
-<p class="cabeza_tabla">(Euros)</p>
+<th>
+<p>Cuantía máxima de la ayuda por vivienda</p>
+<p>(Euros)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuantía máxima de la ayuda por m<sup>2</sup></p>
-<p class="cabeza_tabla">(Euros)</p>
+<th>
+<p>Cuantía máxima de la ayuda por m<sup>2</sup></p>
+<p>(Euros)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">45 % ≤ ΔDcal+ref o ΔC<sub>ep,nren </sub>&lt; 60 %</td>
-<td class="cuerpo_tabla_centro">65</td>
-<td class="cuerpo_tabla_centro">13.000</td>
-<td class="cuerpo_tabla_centro">145</td>
+<td>45 % ≤ ΔDcal+ref o ΔC<sub>ep,nren </sub>&lt; 60 %</td>
+<td>65</td>
+<td>13.000</td>
+<td>145</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ΔC<sub>ep,nren o </sub>ΔDcal+ref ≥ 60 %</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">20.500</td>
-<td class="cuerpo_tabla_centro">228</td>
+<td>ΔC<sub>ep,nren o </sub>ΔDcal+ref ≥ 60 %</td>
+<td>80</td>
+<td>20.500</td>
+<td>228</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">ΔDcal+ref: Reducción de demanda conjunta de calefacción y refrigeración.</p>
-<p class="cita">ΔC<sub>ep,nren</sub>: Consumo de energía primaria no renovable.</p>
+<p>ΔDcal+ref: Reducción de demanda conjunta de calefacción y refrigeración.</p>
+<p>ΔC<sub>ep,nren</sub>: Consumo de energía primaria no renovable.</p>
 </td>
 </tr>
 </tfoot>
@@ -2567,187 +2552,181 @@ En cualquier caso, el Plan de Actuaciones deberá incluir específicamente:
 
 ## ANEXO V — Especificaciones del Formato de Intercambio de Contratos de Arrendamiento de vivienda (FICCA)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="14%">
-<col width="60%">
-<col width="13%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre del campo</th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Tipo de campo (N, numérico; X, texto) y [longitud]</th>
-<th class="cabeza_tabla">Campo obligatorio (O) o voluntario (V)</th>
+<th>Nombre del campo</th>
+<th>Descripción</th>
+<th>Tipo de campo (N, numérico; X, texto) y [longitud]</th>
+<th>Campo obligatorio (O) o voluntario (V)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Datos de localización</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RefCat.</td>
-<td class="cuerpo_tabla_izq">Referencia catastral de la vivienda (20 caracteres). En caso de tratarse del alquiler de una parte, se recogerá la referencia del inmueble en que se ubica la vivienda.</td>
-<td class="cuerpo_tabla_centro">X [20]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>RefCat.</td>
+<td>Referencia catastral de la vivienda (20 caracteres). En caso de tratarse del alquiler de una parte, se recogerá la referencia del inmueble en que se ubica la vivienda.</td>
+<td>X [20]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Municipio.</td>
-<td class="cuerpo_tabla_izq">Nombre del municipio en el que se ubica el inmueble.</td>
-<td class="cuerpo_tabla_centro">X [40]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>Municipio.</td>
+<td>Nombre del municipio en el que se ubica el inmueble.</td>
+<td>X [40]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CodMunIne.</td>
-<td class="cuerpo_tabla_izq">Código INE del municipio.</td>
-<td class="cuerpo_tabla_centro">X [5]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>CodMunIne.</td>
+<td>Código INE del municipio.</td>
+<td>X [5]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CodPostal.</td>
-<td class="cuerpo_tabla_izq">Código postal.</td>
-<td class="cuerpo_tabla_centro">X [5]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>CodPostal.</td>
+<td>Código postal.</td>
+<td>X [5]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TipoVia.</td>
-<td class="cuerpo_tabla_izq">Abreviatura del tipo de vía. Ver listado de abreviaturas en el anexo I.</td>
-<td class="cuerpo_tabla_centro">X [2]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>TipoVia.</td>
+<td>Abreviatura del tipo de vía. Ver listado de abreviaturas en el anexo I.</td>
+<td>X [2]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NombreVia.</td>
-<td class="cuerpo_tabla_izq">Nombre de la vía en la que se ubica el inmueble.</td>
-<td class="cuerpo_tabla_centro">X [25]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>NombreVia.</td>
+<td>Nombre de la vía en la que se ubica el inmueble.</td>
+<td>X [25]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NP.</td>
-<td class="cuerpo_tabla_izq">Número de policía.</td>
-<td class="cuerpo_tabla_centro">N [4]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>NP.</td>
+<td>Número de policía.</td>
+<td>N [4]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NPD.</td>
-<td class="cuerpo_tabla_izq">Carácter de duplicado.</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>NPD.</td>
+<td>Carácter de duplicado.</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ES.</td>
-<td class="cuerpo_tabla_izq">Escalera o portal.</td>
-<td class="cuerpo_tabla_centro">X [3]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>ES.</td>
+<td>Escalera o portal.</td>
+<td>X [3]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PL.</td>
-<td class="cuerpo_tabla_izq">Planta.</td>
-<td class="cuerpo_tabla_centro">X [3]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>PL.</td>
+<td>Planta.</td>
+<td>X [3]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PT.</td>
-<td class="cuerpo_tabla_izq">Puerta.</td>
-<td class="cuerpo_tabla_centro">X [3]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>PT.</td>
+<td>Puerta.</td>
+<td>X [3]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Datos del contrato de arrendamiento</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FechaSCA.</td>
-<td class="cuerpo_tabla_izq">Fecha de suscripción del contrato de arrendamiento en formato AAAAMMDD.</td>
-<td class="cuerpo_tabla_centro">X [8]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>FechaSCA.</td>
+<td>Fecha de suscripción del contrato de arrendamiento en formato AAAAMMDD.</td>
+<td>X [8]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FechaICA.</td>
-<td class="cuerpo_tabla_izq">Fecha de inicio del arrendamiento objeto del contrato en formato AAAAMMDD (se cumplimentará únicamente cuando sea distinta de la fecha de suscripción del contrato).</td>
-<td class="cuerpo_tabla_centro">X [8]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>FechaICA.</td>
+<td>Fecha de inicio del arrendamiento objeto del contrato en formato AAAAMMDD (se cumplimentará únicamente cuando sea distinta de la fecha de suscripción del contrato).</td>
+<td>X [8]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Duración.</td>
-<td class="cuerpo_tabla_izq">Duración del contrato de arrendamiento expresado en años.</td>
-<td class="cuerpo_tabla_centro">X [3]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>Duración.</td>
+<td>Duración del contrato de arrendamiento expresado en años.</td>
+<td>X [3]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PArrendador.</td>
-<td class="cuerpo_tabla_izq">Personalidad del propietario/arrendador (Persona física PF/Persona jurídica PJ/Entidad pública EP).</td>
-<td class="cuerpo_tabla_centro">X [2]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>PArrendador.</td>
+<td>Personalidad del propietario/arrendador (Persona física PF/Persona jurídica PJ/Entidad pública EP).</td>
+<td>X [2]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arbitraje.</td>
-<td class="cuerpo_tabla_izq">¿El contrato incluye alguna cláusula de sumisión a mediación o arbitraje en caso de incumplimiento? (S/N).</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>Arbitraje.</td>
+<td>¿El contrato incluye alguna cláusula de sumisión a mediación o arbitraje en caso de incumplimiento? (S/N).</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PlazaAparc.</td>
-<td class="cuerpo_tabla_izq">Número de plazas de aparcamiento con la que se alquila la vivienda en el presente contrato de arrendamiento.</td>
-<td class="cuerpo_tabla_centro">N [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>PlazaAparc.</td>
+<td>Número de plazas de aparcamiento con la que se alquila la vivienda en el presente contrato de arrendamiento.</td>
+<td>N [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trastero.</td>
-<td class="cuerpo_tabla_izq">¿La vivienda se alquila con trastero? (S/N).</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>Trastero.</td>
+<td>¿La vivienda se alquila con trastero? (S/N).</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amueblado.</td>
-<td class="cuerpo_tabla_izq">¿La vivienda se alquila amueblada (A) o sin amueblar (S)?</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>Amueblado.</td>
+<td>¿La vivienda se alquila amueblada (A) o sin amueblar (S)?</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RentaMes.</td>
-<td class="cuerpo_tabla_izq">Importe de la renta mensual en euros.</td>
-<td class="cuerpo_tabla_centro">N [10]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>RentaMes.</td>
+<td>Importe de la renta mensual en euros.</td>
+<td>N [10]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ActRenta.</td>
-<td class="cuerpo_tabla_izq">¿La actualización anual de la renta se determina de acuerdo con el IPC (I), con otro indicador (O), o no se establece la actualización de renta (N)?</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>ActRenta.</td>
+<td>¿La actualización anual de la renta se determina de acuerdo con el IPC (I), con otro indicador (O), o no se establece la actualización de renta (N)?</td>
+<td>X [1]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fianza.</td>
-<td class="cuerpo_tabla_izq">Importe de la fianza establecida.</td>
-<td class="cuerpo_tabla_centro">N [10]</td>
-<td class="cuerpo_tabla_centro">O</td>
+<td>Fianza.</td>
+<td>Importe de la fianza establecida.</td>
+<td>N [10]</td>
+<td>O</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GarantiaAdic.</td>
-<td class="cuerpo_tabla_izq">¿El contrato establece como garantía adicional un aval (A) un depósito (D) o no se establecen garantías adicionales (N)?</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>GarantiaAdic.</td>
+<td>¿El contrato establece como garantía adicional un aval (A) un depósito (D) o no se establecen garantías adicionales (N)?</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ImporteGA.</td>
-<td class="cuerpo_tabla_izq">Importe del aval o depósito establecido como garantía adicional en euros.</td>
-<td class="cuerpo_tabla_centro">N [10]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>ImporteGA.</td>
+<td>Importe del aval o depósito establecido como garantía adicional en euros.</td>
+<td>N [10]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IndemDesest.</td>
-<td class="cuerpo_tabla_izq">¿El contrato establece indemnización en caso de desistimiento por parte del arrendatario? (S/N).</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>IndemDesest.</td>
+<td>¿El contrato establece indemnización en caso de desistimiento por parte del arrendatario? (S/N).</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RenunDAdqPref.</td>
-<td class="cuerpo_tabla_izq">¿Se recoge en el contrato la renuncia del derecho de adquisición preferente por parte del arrendatario? (S/N).</td>
-<td class="cuerpo_tabla_centro">X [1]</td>
-<td class="cuerpo_tabla_centro">V</td>
+<td>RenunDAdqPref.</td>
+<td>¿Se recoge en el contrato la renuncia del derecho de adquisición preferente por parte del arrendatario? (S/N).</td>
+<td>X [1]</td>
+<td>V</td>
 </tr>
 </tbody>
 </table>

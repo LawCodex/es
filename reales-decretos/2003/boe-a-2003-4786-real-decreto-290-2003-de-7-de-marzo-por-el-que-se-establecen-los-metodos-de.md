@@ -257,253 +257,253 @@ CUADRO 2
 
 Número de muestras primarias seleccionadas al azar necesario para una probabilidad determinada de detectar al menos una muestra no conforme en un lote de carne o ave, para una incidencia dada de residuos no conformes en el lote
 
-<table class="tabla">
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Incidencia de residuos no conformes en el lote</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<p>Incidencia de residuos no conformes en el lote</p>
+<p>–</p>
+<p>Porcentaje</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Número mínimo de muestras (n<sub>o</sub>) necesarias para detectar residuos no conformes con una probabilidad del:</p>
+<p>Número mínimo de muestras (n<sub>o</sub>) necesarias para detectar residuos no conformes con una probabilidad del:</p>
 </th>
 </tr>
-<tr class="row_column_12">
+<tr>
 <th>
-<p class="cabeza_tabla">90 por 100</p>
+<p>90 por 100</p>
 </th>
 <th>
-<p class="cabeza_tabla">95 por 100</p>
+<p>95 por 100</p>
 </th>
 <th>
-<p class="cabeza_tabla">99 por 100</p>
+<p>99 por 100</p>
 </th>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">90</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
+<p>2</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">70</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
+<p>3</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">50</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9</p>
+<p>4</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">35</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13</p>
+<p>5</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21</p>
+<p>7</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">29</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">44</p>
+<p>9</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">59</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">231</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">299</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">459</p>
+<p>11</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">0,5</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">460</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">598</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">919</p>
+<p>13</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_der">0,1</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.301</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.995</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.603</p>
+<p>17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>29</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>59</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>231</p>
+</td>
+<td>
+<p>299</p>
+</td>
+<td>
+<p>459</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>460</p>
+</td>
+<td>
+<p>598</p>
+</td>
+<td>
+<p>919</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>2.301</p>
+</td>
+<td>
+<p>2.995</p>
+</td>
+<td>
+<p>4.603</p>
 </td>
 </tr>
 </tbody>
@@ -537,514 +537,507 @@ CUADRO 3
 
 Carne y aves: descripción de las muestras primarias y tamaño mínimo de las muestras de laboratorio
 
-<table class="tabla_b_sica">
+<table>
 <thead>
-<tr class="row_column_18">
-<th scope="col"> </th>
-<th scope="col">
-<p class="cabeza_tabla">Clasificación de los productos (<sup>1</sup>)</p>
+<tr>
+<th> </th>
+<th>
+<p>Clasificación de los productos (<sup>1</sup>)</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Ejemplos</p>
+<th>
+<p>Ejemplos</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Naturaleza de las muestras que han de tomarse</p>
+<th>
+<p>Naturaleza de las muestras que han de tomarse</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Tamaño de cada muestra de laboratorio</p>
+<th>
+<p>Tamaño de cada muestra de laboratorio</p>
 </th>
 </tr>
 </thead>
-<colgroup>
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_15">
-<col class="row_column_16">
-<col class="row_column_17">
-</colgroup>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Productos alimenticios primarios de origen animal</p>
+<p>Productos alimenticios primarios de origen animal</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Carnes de mamíferos.</p>
+<p>Carnes de mamíferos.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Nota: para hacer cumplir los LMR de plaguicidas liposolubles, las muestras se tomarán según se indica en la sección 2 de este cuadro.</p>
+<p>Nota: para hacer cumplir los LMR de plaguicidas liposolubles, las muestras se tomarán según se indica en la sección 2 de este cuadro.</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mamíferos grandes, canales enteras o medias canales habitualmente ≥ 10 kg.</p>
+<p>Mamíferos grandes, canales enteras o medias canales habitualmente ≥ 10 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vacunos, ovinos, porcinos.</p>
+<p>Vacunos, ovinos, porcinos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Diafragmas enteros o partes de diafragma, complementados en su caso con músculo cervical.</p>
+<p>Diafragmas enteros o partes de diafragma, complementados en su caso con músculo cervical.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mamíferos pequeños, canales enteras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Conejos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Canales enteras o cuartos traseros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5 kg después de quitar la piel y los huesos.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Partes de carnes de mamíferos, frescas/refrigeradas/congeladas, evasadas o no.</p>
+<p>Mamíferos pequeños, canales enteras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuartos, chuletas, filites, espaldas.</p>
+<p>Conejos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades enteras, o bien una porción de una unidad grande.</p>
+<p>Canales enteras o cuartos traseros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg después de quitar los huesos.</p>
-</td>
-</tr>
-<tr class="row_column_19">
-<td>
-<p class="cuerpo_tabla_izq">1.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Partes de carne de mamíferos, congeladas o granel.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuartos, chuletas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">O bien una sección transversal congelada de un recipiente o la totalidad (o porciones) de partes de carnes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5 kg después de quitar los huesos.</p>
+<p>0,5 kg después de quitar la piel y los huesos.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.</p>
+<p>1.3</p>
+</td>
+<td>
+<p>Partes de carnes de mamíferos, frescas/refrigeradas/congeladas, evasadas o no.</p>
+</td>
+<td>
+<p>Cuartos, chuletas, filites, espaldas.</p>
+</td>
+<td>
+<p>Unidades enteras, o bien una porción de una unidad grande.</p>
+</td>
+<td>
+<p>0,5 kg después de quitar los huesos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Partes de carne de mamíferos, congeladas o granel.</p>
+</td>
+<td>
+<p>Cuartos, chuletas.</p>
+</td>
+<td>
+<p>O bien una sección transversal congelada de un recipiente o la totalidad (o porciones) de partes de carnes.</p>
+</td>
+<td>
+<p>0,5 kg después de quitar los huesos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Grasas de mamíferos, incluidas grasas de canal.</p>
+<p>Grasas de mamíferos, incluidas grasas de canal.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Nota: las muestras de grasa extraídas como se indica en 2.1, 2.2 y 2.3 podrán utilizarse para determinar la conformidad de la grasa o del producto entero con los LMR correspondientes.</p>
+<p>Nota: las muestras de grasa extraídas como se indica en 2.1, 2.2 y 2.3 podrán utilizarse para determinar la conformidad de la grasa o del producto entero con los LMR correspondientes.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mamíferos grandes, en el momento del sacrificio, enteros o medias canales, habitualmente ≥ 10 kg.</p>
+<p>Mamíferos grandes, en el momento del sacrificio, enteros o medias canales, habitualmente ≥ 10 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vacunos, ovinos, porcinos.</p>
+<p>Vacunos, ovinos, porcinos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Grasa renal, abdominal o subcutánea procedente de un solo animal</p>
+<p>Grasa renal, abdominal o subcutánea procedente de un solo animal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.2</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mamíferos pequeños, en el momento del sacrificio, enteros o medias canales, ≥ 10 kg.</p>
+<p>Mamíferos pequeños, en el momento del sacrificio, enteros o medias canales, ≥ 10 kg.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Grasa abdominal o subcutánea procedente de uno o más animales.</p>
+<p>Grasa abdominal o subcutánea procedente de uno o más animales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 g.</p>
+<p>0,5 g.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Partes de carnes de mamíferos.</p>
+<p>Partes de carnes de mamíferos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Patas, chuletas, filetes.</p>
+<p>Patas, chuletas, filetes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O bien grasa visible, recortada de una o varias unidades.</p>
+<p>O bien grasa visible, recortada de una o varias unidades.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">O una o varias unidades enteras o porciones de una o varias unidades enteras, cuando la grasa no sea recortable.</p>
+<p>O una o varias unidades enteras o porciones de una o varias unidades enteras, cuando la grasa no sea recortable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 kg.</p>
+<p>2 kg.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.4</p>
+<p>2.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tejido adiposo de mamíferos a granel.</p>
+<p>Tejido adiposo de mamíferos a granel.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades tomadas con un instrumento de muestreo en 3 lugares como mínimo.</p>
+<p>Unidades tomadas con un instrumento de muestreo en 3 lugares como mínimo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.</p>
+<p>3.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Despojos de mamíferos.</p>
+<p>Despojos de mamíferos.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hígado de mamíferos, fresco, refrigerado, congelado.</p>
+<p>Hígado de mamíferos, fresco, refrigerado, congelado.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Hígado o hígados enteros, o parte del hígado</p>
+<p>Hígado o hígados enteros, o parte del hígado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,4 kg.</p>
+<p>0,4 kg.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Riñón de mamíferos fresco, refrigerado, congelado.</p>
+<p>Riñón de mamíferos fresco, refrigerado, congelado.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">1 o ambos riñones, de 1 ó 2 animales.</p>
+<p>1 o ambos riñones, de 1 ó 2 animales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,2 kg.</p>
+<p>0,2 kg.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Corazón de mamíferos fresco, refrigerado, congelado.</p>
+<p>Corazón de mamíferos fresco, refrigerado, congelado.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Corazón o corazones enteros, o sólo porción del ventrículo, si éste es grande.</p>
+<p>Corazón o corazones enteros, o sólo porción del ventrículo, si éste es grande.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,4 kg.</p>
+<p>0,4 kg.</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.4</p>
+<p>3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros despojos de mamíferos frescos, refrigerados, congelados.</p>
+<p>Otros despojos de mamíferos frescos, refrigerados, congelados.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Parte o unidad entera de uno o más animales, o una sección transversal del producto congelado a granel.</p>
+<p>Parte o unidad entera de uno o más animales, o una sección transversal del producto congelado a granel.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.</p>
+<p>4.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Carnes de ave.</p>
+<p>Carnes de ave.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Nota: para hacer cumplir los LMR de plaguicidas liposolubles, las muestras se tomarán según se indica en la sección 5 de este cuadro.</p>
+<p>Nota: para hacer cumplir los LMR de plaguicidas liposolubles, las muestras se tomarán según se indica en la sección 5 de este cuadro.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aves, canales de tamaño grande &gt; 2 kg.</p>
+<p>Aves, canales de tamaño grande &gt; 2 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pavos, gansos, gallos, capones y patos.</p>
+<p>Pavos, gansos, gallos, capones y patos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Muslos, patas y otras partes de carne oscura.</p>
+<p>Muslos, patas y otras partes de carne oscura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg después de quitar la piel y los huesos.</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aves, canales de tamaño medio 500 g - 2 kg.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gallinas, gallinas de Guinea, pollos jóvenes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Muslos, patas u otras partes de carne oscura de 3 aves como mínimo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5 kg después de quitar la piel y los huesos.</p>
+<p>0,5 kg después de quitar la piel y los huesos.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.3</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aves, canales de tamaño pequeño &lt; 500 g.</p>
+<p>Aves, canales de tamaño medio 500 g - 2 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Codornices, palomas.</p>
+<p>Gallinas, gallinas de Guinea, pollos jóvenes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Canales de 6 aves como mínimo.</p>
+<p>Muslos, patas u otras partes de carne oscura de 3 aves como mínimo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,2 kg de tejido muscular.</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_izq">4.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Partes de aves frescas/refrigeradas, congeladas, envasadas al por menor o al por mayor.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patas, cuartos, pechugas y alas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades envasadas partes individuales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5 kg después de quitar la piel y los huesos.</p>
+<p>0,5 kg después de quitar la piel y los huesos.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.</p>
+<p>4.3</p>
+</td>
+<td>
+<p>Aves, canales de tamaño pequeño &lt; 500 g.</p>
+</td>
+<td>
+<p>Codornices, palomas.</p>
+</td>
+<td>
+<p>Canales de 6 aves como mínimo.</p>
+</td>
+<td>
+<p>0,2 kg de tejido muscular.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.4</p>
+</td>
+<td>
+<p>Partes de aves frescas/refrigeradas, congeladas, envasadas al por menor o al por mayor.</p>
+</td>
+<td>
+<p>Patas, cuartos, pechugas y alas.</p>
+</td>
+<td>
+<p>Unidades envasadas partes individuales.</p>
+</td>
+<td>
+<p>0,5 kg después de quitar la piel y los huesos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Grasas de aves, incluida la grasa de canales.</p>
+<p>Grasas de aves, incluida la grasa de canales.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Nota: las muestras de grasa extraídas como se indica en el 5.1 y 5.2 podrán utilizarse para determinar la conformidad de la grasa o del producto entero con los LMR correspondientes.</p>
+<p>Nota: las muestras de grasa extraídas como se indica en el 5.1 y 5.2 podrán utilizarse para determinar la conformidad de la grasa o del producto entero con los LMR correspondientes.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aves, en el momento del sacrificio, canales enteras o partes de canales.</p>
+<p>Aves, en el momento del sacrificio, canales enteras o partes de canales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pollo, pavos.</p>
+<p>Pollo, pavos.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.2</p>
+<p>5.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Partes de carne de aves.</p>
+<p>Partes de carne de aves.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Patas, músculo del pecho.</p>
+<p>Patas, músculo del pecho.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">O bien grasa visible, recortada de una o varias unidades</p>
+<p>O bien grasa visible, recortada de una o varias unidades</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td> </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">O bien una o varias unidades enteras, cuando la grasa no sea recortable.</p>
+<p>O bien una o varias unidades enteras, cuando la grasa no sea recortable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 kg.</p>
+<p>2 kg.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5.3</p>
+<p>5.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tejido adiposo de aves a granel.</p>
+<p>Tejido adiposo de aves a granel.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades tomadas con un instrumento de muestreo en 3 lugares como mínimo.</p>
+<p>Unidades tomadas con un instrumento de muestreo en 3 lugares como mínimo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.</p>
+<p>6.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Despojos de aves.</p>
+<p>Despojos de aves.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1</p>
+<p>6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Despojos de aves comestibles, excepto el hígado graso de gansos y patos y productos similares de alto valor.</p>
+<p>Despojos de aves comestibles, excepto el hígado graso de gansos y patos y productos similares de alto valor.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades de 6 aves como mínimo o sección transversal tomada de un recipiente.</p>
+<p>Unidades de 6 aves como mínimo o sección transversal tomada de un recipiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,2 kg.</p>
+<p>0,2 kg.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">6.2</p>
+<p>6.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hígado graso de gansos y patos y productos similares de alto valor.</p>
+<p>Hígado graso de gansos y patos y productos similares de alto valor.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidad de 1 ave o recipiente.</p>
+<p>Unidad de 1 ave o recipiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,05 kg.</p>
+<p>0,05 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Alimentos elaborados de origen animal</p>
+<p>Alimentos elaborados de origen animal</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.</p>
+<p>7.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Productos alimenticios secundarios de origen animal, carnes secas.</p>
+<p>Productos alimenticios secundarios de origen animal, carnes secas.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Productos derivados comestibles de origen animal, grasas animales elaboradas, incluidas las grasas fundidas o extraídas.</p>
+<p>Productos derivados comestibles de origen animal, grasas animales elaboradas, incluidas las grasas fundidas o extraídas.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Alimentos manufacturados (de un solo ingrediente) de origen animal, con o sin medio de envasado o ingredientes menores como substancias aromatizantes, especias y condimentos, generalmente preenvasados y listos para el consumo, cocidos o no.</p>
+<p>Alimentos manufacturados (de un solo ingrediente) de origen animal, con o sin medio de envasado o ingredientes menores como substancias aromatizantes, especias y condimentos, generalmente preenvasados y listos para el consumo, cocidos o no.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Alimentos manufacturados (de varios ingredientes ) de origen animal: los alimentos con varios ingredientes de origen animal y vegetal se incluirán en esta categoría en caso de predominar el o los ingredientes de origen animal.</p>
+<p>Alimentos manufacturados (de varios ingredientes ) de origen animal: los alimentos con varios ingredientes de origen animal y vegetal se incluirán en esta categoría en caso de predominar el o los ingredientes de origen animal.</p>
 </td>
 </tr>
-<tr class="row_column_22">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1</p>
+<p>7.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos de mamíferos o aves, triturados, cocinados, enlatados, deshidratados, fundidos o elaborados de otro modo, incluidos los productos de varios ingredientes.</p>
+<p>Productos de mamíferos o aves, triturados, cocinados, enlatados, deshidratados, fundidos o elaborados de otro modo, incluidos los productos de varios ingredientes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Jamón, salchichas, carne de vacuno picada, pasta de pollo.</p>
+<p>Jamón, salchichas, carne de vacuno picada, pasta de pollo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades envasadas, sección transversal representativa de un recipiente, o bien unidades (jugos incluidos, si los hay) tomadas con un instrumento de muestreo.</p>
+<p>Unidades envasadas, sección transversal representativa de un recipiente, o bien unidades (jugos incluidos, si los hay) tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg o 2 kg si el contenido de grasa es inferior al 5 por 100.</p>
+<p>0,5 kg o 2 kg si el contenido de grasa es inferior al 5 por 100.</p>
 </td>
 </tr>
 </tbody>
@@ -1056,325 +1049,318 @@ CUADRO 4
 
 Productos de origen vegetal: Descripción de las muestras primarias y tamaño mínimo de las muestras de laboratorio
 
-<table class="tabla_b_sica">
+<table>
 <thead>
-<tr class="row_column_7">
-<th scope="col"> </th>
-<th scope="col">
-<p class="cabeza_tabla">Clasificación de los productos (<sup>1</sup>)</p>
+<tr>
+<th> </th>
+<th>
+<p>Clasificación de los productos (<sup>1</sup>)</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Ejemplos</p>
+<th>
+<p>Ejemplos</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Naturaleza de las muestras que han de tomarse</p>
+<th>
+<p>Naturaleza de las muestras que han de tomarse</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Tamaño de cada muestra de laboratorio</p>
+<th>
+<p>Tamaño de cada muestra de laboratorio</p>
 </th>
 </tr>
 </thead>
-<colgroup>
-<col class="row_column_23">
-<col class="row_column_24">
-<col class="row_column_25">
-<col class="row_column_26">
-<col class="row_column_27">
-</colgroup>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Productos alimenticios primarios de origen vegetal</p>
+<p>Productos alimenticios primarios de origen vegetal</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Todas las frutas frescas</p>
+<p>Todas las frutas frescas</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Todas las hortalizas frescas, incluidas las patatas y las remolachas azucareras y exceptuadas las hierbas aromáticas.</p>
+<p>Todas las hortalizas frescas, incluidas las patatas y las remolachas azucareras y exceptuadas las hierbas aromáticas.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos frescos de tamaño pequeño, unidades generalmente &lt; 25 g.</p>
+<p>Productos frescos de tamaño pequeño, unidades generalmente &lt; 25 g.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bayas, guisantes, aceitunas.</p>
+<p>Bayas, guisantes, aceitunas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades enteras, o envasadas, o tomadas con un instrumento de muestreo.</p>
+<p>Unidades enteras, o envasadas, o tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 kg.</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Productos frescos de tamaño medio, generalmente unidades de 25-250 g.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Manzanas, naranjas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades enteras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 kg (al menos 10 unidades).</p>
+<p>1 kg.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos frescos de tamaño grande, generalmente unidades de &gt; 250 g.</p>
+<p>Productos frescos de tamaño medio, generalmente unidades de 25-250 g.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Coles, pepinos, uvas (racimos).</p>
+<p>Manzanas, naranjas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades enteras.</p>
+<p>Unidades enteras.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 kg (al menos 5 unidades).</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Legumbres.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Judías secas, guisantes secos.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">1 kg.</p>
+<p>1 kg (al menos 10 unidades).</p>
 </td>
 </tr>
-<tr class="row_column_10">
-<td> </td>
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cereales en grano.</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Arroz, trigo.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">1 kg.</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Nueces de árbol.</p>
+<p>Productos frescos de tamaño grande, generalmente unidades de &gt; 250 g.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Excepto cocos.</p>
+<p>Coles, pepinos, uvas (racimos).</p>
 </td>
-<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">1 kg.</p>
+<p>Unidades enteras.</p>
+</td>
+<td>
+<p>2 kg (al menos 5 unidades).</p>
 </td>
 </tr>
-<tr class="row_column_10">
-<td> </td>
-<td> </td>
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cocos.</p>
+<p>2.</p>
+</td>
+<td>
+<p>Legumbres.</p>
+</td>
+<td>
+<p>Judías secas, guisantes secos.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">5 unidades.</p>
+<p>1 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Semillas oleaginosas.</p>
+<p>Cereales en grano.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Maní (cacahuete).</p>
+<p>Arroz, trigo.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>1 kg.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Semillas para la fabricación de bebidas y dulces.</p>
+<p>Nueces de árbol.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Café en grano.</p>
+<p>Excepto cocos.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>1 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hierbas aromáticas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Perejil fresco.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades enteras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
-</td>
-</tr>
-<tr class="row_column_10">
+<tr>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras hierbas frescas.</p>
+<p>Cocos.</p>
 </td>
+<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades enteras.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,2 kg.</p>
+<p>5 unidades.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
+<td> </td>
+<td>
+<p>Semillas oleaginosas.</p>
+</td>
+<td>
+<p>Maní (cacahuete).</p>
+</td>
+<td> </td>
+<td>
+<p>0,5 kg.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Semillas para la fabricación de bebidas y dulces.</p>
+</td>
+<td>
+<p>Café en grano.</p>
+</td>
+<td> </td>
+<td>
+<p>0,5 kg.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td>
+<p>Hierbas aromáticas.</p>
+</td>
+<td>
+<p>Perejil fresco.</p>
+</td>
+<td>
+<p>Unidades enteras.</p>
+</td>
+<td>
+<p>0,5 kg.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Otras hierbas frescas.</p>
+</td>
+<td>
+<p>Unidades enteras.</p>
+</td>
+<td>
+<p>0,2 kg.</p>
+</td>
+</tr>
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">(Para las hierbas aromáticas secas, véase la sección 4 de este cuadro)</p>
+<p>(Para las hierbas aromáticas secas, véase la sección 4 de este cuadro)</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Especias.</p>
+<p>Especias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Secas.</p>
+<p>Secas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades enteras o tomadas con un instrumento de muestreo.</p>
+<p>Unidades enteras o tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,1 kg.</p>
+<p>0,1 kg.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Alimentos elaborados de origen vegetal</p>
+<p>Alimentos elaborados de origen vegetal</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.</p>
+<p>4.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Productos alimenticios secundarios de origen vegetal, frutos secos, hortalizas, hierbas aromáticas, lúpulos, productos cerealeros molidos.</p>
+<p>Productos alimenticios secundarios de origen vegetal, frutos secos, hortalizas, hierbas aromáticas, lúpulos, productos cerealeros molidos.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Productos derivados de origen vegetal, tés, hierbas para infusiones, aceites vegetales, zumos (jugos) y productos varios, como, por ejemplo, aceitunas transformadas y melazas de cítricos.</p>
+<p>Productos derivados de origen vegetal, tés, hierbas para infusiones, aceites vegetales, zumos (jugos) y productos varios, como, por ejemplo, aceitunas transformadas y melazas de cítricos.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Alimentos manufacturados (de un solo ingrediente) de origen vegetal, con o sin medio de envasado o ingredientes menores como sustancias aromatizantes, especias y condimentos, generalmente preenvasados y listos para el consumo, cocidos o no.</p>
+<p>Alimentos manufacturados (de un solo ingrediente) de origen vegetal, con o sin medio de envasado o ingredientes menores como sustancias aromatizantes, especias y condimentos, generalmente preenvasados y listos para el consumo, cocidos o no.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Alimentos manufacturados (de varios ingredientes) de origen vegetal, incluidos los productos con ingredientes de origen animal en los que predominan el o los ingredientes de origen vegetal, panes y otros productos cerealeros cocidos.</p>
+<p>Alimentos manufacturados (de varios ingredientes) de origen vegetal, incluidos los productos con ingredientes de origen animal en los que predominan el o los ingredientes de origen vegetal, panes y otros productos cerealeros cocidos.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos de elevado valor unitario.</p>
+<p>Productos de elevado valor unitario.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades envasadas o tomadas con un instrumento de muestreo.</p>
+<p>Unidades envasadas o tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,1 kg (<sup>2</sup>).</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Productos sólidos de poco volumen.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lúpulos, tés, hierbas para infusiones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades envasadas o tomadas con un instrumento de muestreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,2 kg.</p>
+<p>0,1 kg (<sup>2</sup>).</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.3</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros productos sólidos.</p>
+<p>Productos sólidos de poco volumen.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pan, harina, frutas secas.</p>
+<p>Lúpulos, tés, hierbas para infusiones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades envasadas u enteras, o tomadas con un instrumento de muestreo.</p>
+<p>Unidades envasadas o tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,2 kg.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">4.4</p>
+<p>4.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos líquidos.</p>
+<p>Otros productos sólidos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Aceites vegetales, jugos (zumos).</p>
+<p>Pan, harina, frutas secas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades envasadas o tomadas con un instrumento de muestreo.</p>
+<p>Unidades envasadas u enteras, o tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 I o 0,5 kg.</p>
+<p>0,5 kg.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.4</p>
+</td>
+<td>
+<p>Productos líquidos.</p>
+</td>
+<td>
+<p>Aceites vegetales, jugos (zumos).</p>
+</td>
+<td>
+<p>Unidades envasadas o tomadas con un instrumento de muestreo.</p>
+</td>
+<td>
+<p>0,5 I o 0,5 kg.</p>
 </td>
 </tr>
 </tbody>
@@ -1388,224 +1374,217 @@ CUADRO 5
 
 Productos a base de huevo y productos lácteos: Descripción de las muestras primarias y tamaño mínimo de las muestras de laboratorio
 
-<table class="tabla_b_sica">
+<table>
 <thead>
-<tr class="row_column_18">
-<th scope="col"> </th>
-<th scope="col">
-<p class="cabeza_tabla">Clasificación de los productos (<sup>1</sup>)</p>
+<tr>
+<th> </th>
+<th>
+<p>Clasificación de los productos (<sup>1</sup>)</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Ejemplos</p>
+<th>
+<p>Ejemplos</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Naturaleza de las muestras que han de tomarse</p>
+<th>
+<p>Naturaleza de las muestras que han de tomarse</p>
 </th>
-<th scope="col">
-<p class="cabeza_tabla">Tamaño de cada muestra de laboratorio</p>
+<th>
+<p>Tamaño de cada muestra de laboratorio</p>
 </th>
 </tr>
 </thead>
-<colgroup>
-<col class="row_column_28">
-<col class="row_column_29">
-<col class="row_column_15">
-<col class="row_column_30">
-<col class="row_column_31">
-</colgroup>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Productos alimenticios primarios de origen animal</p>
+<p>Productos alimenticios primarios de origen animal</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Huevos de aves.</p>
+<p>Huevos de aves.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huevos, excepto los de codornices y aves similares.</p>
+<p>Huevos, excepto los de codornices y aves similares.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Huevos enteros.</p>
+<p>Huevos enteros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">12 huevos de gallina enteros, 6 huevos de ganso o pato enteros.</p>
+<p>12 huevos de gallina enteros, 6 huevos de ganso o pato enteros.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Huevos de codornices y aves similares.</p>
+<p>Huevos de codornices y aves similares.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Huevos enteros.</p>
+<p>Huevos enteros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">24 huevos enteros.</p>
+<p>24 huevos enteros.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">2.</p>
+<p>2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Leches.</p>
+<p>Leches.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades enteras o unidades tomadas con un instrumento de muestreo.</p>
+<p>Unidades enteras o unidades tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 l.</p>
+<p>0,5 l.</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">Alimentos elaborados de origen animal</p>
+<p>Alimentos elaborados de origen animal</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.</p>
+<p>3.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Productos alimenticios secundarios de origen animal, productos lácteos secundarios, como leches desnatadas, leches evaporadas y leches en polvo.</p>
+<p>Productos alimenticios secundarios de origen animal, productos lácteos secundarios, como leches desnatadas, leches evaporadas y leches en polvo.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Productos derivados comestibles de origen animal, grasas lácteas, mantequillas, aceites de mantequilla, natas (cremas), natas (cremas) en polvo, caseínas, etc.</p>
+<p>Productos derivados comestibles de origen animal, grasas lácteas, mantequillas, aceites de mantequilla, natas (cremas), natas (cremas) en polvo, caseínas, etc.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Alimentos manufacturados (de un solo ingrediente) de origen animal, productos lácteos manufacturados, como yogur y quesos.</p>
+<p>Alimentos manufacturados (de un solo ingrediente) de origen animal, productos lácteos manufacturados, como yogur y quesos.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Alimentos manufacturados (de varios ingredientes) de origen animal, productos lácteos manufacturados (incluidos los productos con ingredientes de origen vegetal en los que predominan el o los ingredientes de origen animal como los productos manufacturados a base de queso, preparaciones a base de queso, yogur aromatizado, leche condensada edulcorada).</p>
+<p>Alimentos manufacturados (de varios ingredientes) de origen animal, productos lácteos manufacturados (incluidos los productos con ingredientes de origen vegetal en los que predominan el o los ingredientes de origen animal como los productos manufacturados a base de queso, preparaciones a base de queso, yogur aromatizado, leche condensada edulcorada).</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Leches líquidas, leches en polvo, leches evaporadas y cremas (natas), helados a base de productos lácteos, cremas (natas), yogures.</p>
+<p>Leches líquidas, leches en polvo, leches evaporadas y cremas (natas), helados a base de productos lácteos, cremas (natas), yogures.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades envasadas o unidades tomadas con un instrumento de muestreo.</p>
+<p>Unidades envasadas o unidades tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 l (producto líquido) o 0,5 kg (sólido).</p>
+<p>0,5 l (producto líquido) o 0,5 kg (sólido).</p>
 </td>
 </tr>
-<tr class="row_column_20">
-<td> </td>
-<td colspan="4">
-<p class="cuerpo_tabla_izq">Las leches evaporadas y cremas (natas) evaporadas a granel deberán mezclarse perfectamente antes del muestreo, raspando el material adherido a los lados y en el fondo de los recipientes y removiendo bien. Antes de tomar la muestra de laboratorio se extraerán unos 2-3 litros, volviendo a agitar bien los recipientes.</p>
-</td>
-</tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Las muestras de leche en polvo a granel se tomarán de modo aséptico, pasando una sonda seca a través del polvo a velocidad constante.</p>
+<p>Las leches evaporadas y cremas (natas) evaporadas a granel deberán mezclarse perfectamente antes del muestreo, raspando el material adherido a los lados y en el fondo de los recipientes y removiendo bien. Antes de tomar la muestra de laboratorio se extraerán unos 2-3 litros, volviendo a agitar bien los recipientes.</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Las natas (cremas) a granel se mezclarán perfectamente con una paleta antes del muestreo, aunque deberán evitarse la formación de espuma, nata montada o mantequilla.</p>
+<p>Las muestras de leche en polvo a granel se tomarán de modo aséptico, pasando una sonda seca a través del polvo a velocidad constante.</p>
 </td>
 </tr>
-<tr class="row_column_32">
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantequilla y aceites de mantequilla.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantequilla, mantequilla de suero, emulsiones para untar de bajo contenido de grasa y que contienen grasa de mantequilla, aceite de mantequilla deshidratada, grasa de leche deshidratada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades enteras o partes de unidades envasadas, o bien unidades tomadas con un instrumento de muestreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,2 kg. o 0,2 I.</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">3.3</p>
-</td>
-<td colspan="4">
-<p class="cuerpo_tabla_izq">Quesos, incluidos los quesos elaborados.</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades de 0,3 kg. o más.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades enteras o unidades tomadas con un instrumento de muestreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades de hasta 0,3 kg.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Unidades enteras o unidades tomadas con un instrumento de muestreo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,3 kg.</p>
-</td>
-</tr>
-<tr class="row_column_9">
+<tr>
 <td> </td>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Nota: las muestras de quesos con una base circular se tomarán haciendo dos cortes radiales desde el centro. Las muestras de quesos con una base rectangular se tomarán haciendo dos cortes paralelos a los lados.</p>
+<p>Las natas (cremas) a granel se mezclarán perfectamente con una paleta antes del muestreo, aunque deberán evitarse la formación de espuma, nata montada o mantequilla.</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3.4</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Productos a base de huevos líquidos, congelados o secos.</p>
+<p>Mantequilla y aceites de mantequilla.</p>
+</td>
+<td>
+<p>Mantequilla, mantequilla de suero, emulsiones para untar de bajo contenido de grasa y que contienen grasa de mantequilla, aceite de mantequilla deshidratada, grasa de leche deshidratada.</p>
+</td>
+<td>
+<p>Unidades enteras o partes de unidades envasadas, o bien unidades tomadas con un instrumento de muestreo.</p>
+</td>
+<td>
+<p>0,2 kg. o 0,2 I.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3</p>
+</td>
+<td colspan="4">
+<p>Quesos, incluidos los quesos elaborados.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Unidades de 0,3 kg. o más.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Unidades tomadas de manera aséptica con un instrumento de muestreo.</p>
+<p>Unidades enteras o unidades tomadas con un instrumento de muestreo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,5 kg.</p>
+<p>0,5 kg.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>Unidades de hasta 0,3 kg.</p>
+</td>
+<td> </td>
+<td>
+<p>Unidades enteras o unidades tomadas con un instrumento de muestreo.</p>
+</td>
+<td>
+<p>0,3 kg.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td colspan="4">
+<p>Nota: las muestras de quesos con una base circular se tomarán haciendo dos cortes radiales desde el centro. Las muestras de quesos con una base rectangular se tomarán haciendo dos cortes paralelos a los lados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.4</p>
+</td>
+<td>
+<p>Productos a base de huevos líquidos, congelados o secos.</p>
+</td>
+<td> </td>
+<td>
+<p>Unidades tomadas de manera aséptica con un instrumento de muestreo.</p>
+</td>
+<td>
+<p>0,5 kg.</p>
 </td>
 </tr>
 </tbody>

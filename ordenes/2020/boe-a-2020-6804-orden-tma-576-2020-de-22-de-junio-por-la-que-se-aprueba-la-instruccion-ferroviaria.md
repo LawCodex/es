@@ -1064,45 +1064,34 @@ La evaluación de la conformidad deberá abarcar las fases y requisitos técnico
 
 Cuadro 6.1.2 Módulos de evaluación para componentes
 
-<table class="tabla">
-<colgroup>
-<col width="12%">
-<col width="30%">
-<col width="5%">
-<col width="12%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="5%">
-<col width="6%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Apartado</th>
-<th class="cabeza_tabla" rowspan="2">Componente a evaluar</th>
-<th class="cabeza_tabla" colspan="7">Módulos</th>
+<th rowspan="2">Apartado</th>
+<th rowspan="2">Componente a evaluar</th>
+<th colspan="7">Módulos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">CA</th>
-<th class="cabeza_tabla">CA1 o CA2</th>
-<th class="cabeza_tabla">CB + CC</th>
-<th class="cabeza_tabla">CB + CD</th>
-<th class="cabeza_tabla">CB + CF</th>
-<th class="cabeza_tabla">CH</th>
-<th class="cabeza_tabla">CH1</th>
+<th>CA</th>
+<th>CA1 o CA2</th>
+<th>CB + CC</th>
+<th>CB + CD</th>
+<th>CB + CF</th>
+<th>CH</th>
+<th>CH1</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.2</td>
-<td class="cuerpo_tabla_izq">Sistemas embarcados de control, mando y señalización de clase B</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>4.2.13.2</td>
+<td>Sistemas embarcados de control, mando y señalización de clase B</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
 </tr>
 </tbody>
 </table>
@@ -1432,797 +1421,790 @@ Las normas recogidas en este cuadro podrán ser sustituidas por otras de las uti
 
 Cuadro C.2 Referencias normativas de la instrucción ferroviaria
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="6%">
-<col width="35%">
-<col width="12%">
-<col width="34%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Índice n.º</th>
-<th class="cabeza_tabla" colspan="2">IF MR ALC</th>
-<th class="cabeza_tabla" colspan="2">Documento normativo</th>
+<th rowspan="2">Índice n.º</th>
+<th colspan="2">IF MR ALC</th>
+<th colspan="2">Documento normativo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Característica que debe evaluarse</th>
-<th class="cabeza_tabla">Cláusula</th>
-<th class="cabeza_tabla">Documento</th>
-<th class="cabeza_tabla">Cuestiones obligatorias</th>
+<th>Característica que debe evaluarse</th>
+<th>Cláusula</th>
+<th>Documento</th>
+<th>Cuestiones obligatorias</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">[1]</td>
-<td class="cuerpo_tabla_izq">Fijación de dispositivos en la estructura de caja del vehículo</td>
-<td class="cuerpo_tabla_centro">4.2.2.7</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 12663-1</p>
-<p class="cuerpo_tabla_izq">Marzo 2015</p>
+<td>[1]</td>
+<td>Fijación de dispositivos en la estructura de caja del vehículo</td>
+<td>4.2.2.7</td>
+<td>
+<p>UNE-EN 12663-1</p>
+<p>Marzo 2015</p>
 </td>
-<td class="cuerpo_tabla_centro">6.7.3</td>
+<td>6.7.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[2]</td>
-<td class="cuerpo_tabla_izq">Compatibilidad con los sistemas de detección de trenes. Perturbaciones.</td>
-<td class="cuerpo_tabla_centro">4.2.3.3.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50121-3-1:2017/A1:2019.<br>Junio 2019.</p>
+<td>[2]</td>
+<td>Compatibilidad con los sistemas de detección de trenes. Perturbaciones.</td>
+<td>4.2.3.3.1</td>
+<td>
+<p>UNE-EN 50121-3-1:2017/A1:2019.<br>Junio 2019.</p>
 </td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[3]</td>
-<td class="cuerpo_tabla_izq">Compatibilidad con los sistemas de detección de trenes. Perturbaciones.</td>
-<td class="cuerpo_tabla_centro">4.2.3.3.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-CLC/TS 50238-2:2020.<br>Agosto 2020.</p>
+<td>[3]</td>
+<td>Compatibilidad con los sistemas de detección de trenes. Perturbaciones.</td>
+<td>4.2.3.3.1</td>
+<td>
+<p>UNE-CLC/TS 50238-2:2020.<br>Agosto 2020.</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cl. Pertinente.(<sup>1</sup>)</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[4]</td>
-<td class="cuerpo_tabla_izq">Compatibilidad con los sistemas de detección de trenes basados en contadores de ejes</td>
-<td class="cuerpo_tabla_centro">4.2.3.3.1.2</td>
-<td class="cuerpo_tabla_centro" colspan="3">Eliminado.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[5]</td>
-<td class="cuerpo_tabla_izq">Requisitos aplicables al equipo de detección embarcado</td>
-<td class="cuerpo_tabla_centro">4.2.3.3.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 12082.<br>Septiembre 2018.</p>
-</td>
-<td class="cuerpo_tabla_centro">7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[6]</td>
-<td class="cuerpo_tabla_izq">Diseño estructural del bastidor de bogie para ancho 1668 mm</td>
-<td class="cuerpo_tabla_centro">4.2.3.5.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 13749</p>
-<p class="cuerpo_tabla_izq">Julio 2012</p>
-</td>
-<td class="cuerpo_tabla_centro">Anexo F.2.2.2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[7]</td>
-<td class="cuerpo_tabla_izq">Características mecánicas de las ruedas</td>
-<td class="cuerpo_tabla_centro">4.2.3.5.2.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 13979-1</p>
-<p class="cuerpo_tabla_izq">Noviembre 2011</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4</p>
-<p class="cuerpo_tabla_centro">6</p>
-<p class="cuerpo_tabla_centro">7</p>
+<td>
+<p>Cl. Pertinente.(<sup>1</sup>)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[8]</td>
-<td class="cuerpo_tabla_izq">Focos de cabeza</td>
-<td class="cuerpo_tabla_centro">4.2.7.1.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 15153-1:2014+A1:2017</p>
-<p class="cuerpo_tabla_izq">Marzo 2017</p>
+<td>[4]</td>
+<td>Compatibilidad con los sistemas de detección de trenes basados en contadores de ejes</td>
+<td>4.2.3.3.1.2</td>
+<td colspan="3">Eliminado.</td>
+</tr>
+<tr>
+<td>[5]</td>
+<td>Requisitos aplicables al equipo de detección embarcado</td>
+<td>4.2.3.3.2.1</td>
+<td>
+<p>UNE-EN 12082.<br>Septiembre 2018.</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">5.3.4</p>
-<p class="cuerpo_tabla_centro">Tabla 2, línea segunda</p>
+<td>7</td>
+</tr>
+<tr>
+<td>[6]</td>
+<td>Diseño estructural del bastidor de bogie para ancho 1668 mm</td>
+<td>4.2.3.5.1</td>
+<td>
+<p>UNE-EN 13749</p>
+<p>Julio 2012</p>
+</td>
+<td>Anexo F.2.2.2</td>
+</tr>
+<tr>
+<td>[7]</td>
+<td>Características mecánicas de las ruedas</td>
+<td>4.2.3.5.2.2</td>
+<td>
+<p>UNE-EN 13979-1</p>
+<p>Noviembre 2011</p>
+</td>
+<td>
+<p>4</p>
+<p>6</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[9]</td>
-<td class="cuerpo_tabla_izq">Luces de posición</td>
-<td class="cuerpo_tabla_centro">4.2.7.1.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 15153-1:2014+A1:2017</p>
-<p class="cuerpo_tabla_izq">Marzo 2017</p>
+<td>[8]</td>
+<td>Focos de cabeza</td>
+<td>4.2.7.1.1</td>
+<td>
+<p>UNE-EN 15153-1:2014+A1:2017</p>
+<p>Marzo 2017</p>
 </td>
-<td class="cuerpo_tabla_centro">5.4.5</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[10]</td>
-<td class="cuerpo_tabla_izq">Luces de cola</td>
-<td class="cuerpo_tabla_centro">4.2.7.1.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 15153-1:2014+A1:2017</p>
-<p class="cuerpo_tabla_izq">Marzo 2017</p>
-</td>
-<td class="cuerpo_tabla_centro">5.5.5</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[11]</td>
-<td class="cuerpo_tabla_izq">Sistemas embarcados CMS clase A</td>
-<td class="cuerpo_tabla_centro">4.2.13.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ETC ETCS (FN): Especificación Técnica de Circulación: Funcionalidad Nacional y valores nacionales del sistema ERTMS/ETCS.</p>
-<p class="cuerpo_tabla_izq">22 de marzo de 2024 [Versión 2.0].</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[12]</td>
-<td class="cuerpo_tabla_izq">Sistemas embarcados CMS clase B</td>
-<td class="cuerpo_tabla_centro">4.2.13.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
-<p class="cuerpo_tabla_izq">[ETC ASFA FET]. Versión 1.</p>
-</td>
-<td class="cuerpo_tabla_centro">2, 4, 5.2, 6.4.2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[13]</td>
-<td class="cuerpo_tabla_izq">Interfaz entre sistemas embarcados CMS clase A y clase B</td>
-<td class="cuerpo_tabla_centro">4.2.13.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
-<p class="cuerpo_tabla_izq">[ETC ASFA FET]. Versión 1.</p>
-</td>
-<td class="cuerpo_tabla_centro">4.1.6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[14]</td>
-<td class="cuerpo_tabla_izq">Interfaz entre sistemas embarcados CMS clase A y clase B</td>
-<td class="cuerpo_tabla_centro">4.2.13.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ETC ETCS (FN): Especificación Técnica de Circulación: Funcionalidad Nacional y valores nacionales del sistema ERTMS/ETCS.</p>
-<p class="cuerpo_tabla_izq">22 de marzo de 2024 [Versión 2.0].</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[15]</td>
-<td class="cuerpo_tabla_izq">Comunicación por radiotelefonía analógica (tren-tierra)</td>
-<td class="cuerpo_tabla_centro">4.2.13.5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación: Sistema de radiotelefonía analógica (tren-tierra) [ETC TT].</p>
-<p class="cuerpo_tabla_izq">9 mayo 2023 (versión 1.1).</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>).</p>
+<td>
+<p>5.3.4</p>
+<p>Tabla 2, línea segunda</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[16]</td>
-<td class="cuerpo_tabla_izq">Comunicación por radiotelefonía analógica (tren-tierra)</td>
-<td class="cuerpo_tabla_centro">4.2.13.5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación: Sistema de radiotelefonía analógica (tren-tierra) [ETC TT].</p>
-<p class="cuerpo_tabla_izq">9 mayo 2023 (versión 1.1).</p>
+<td>[9]</td>
+<td>Luces de posición</td>
+<td>4.2.7.1.2</td>
+<td>
+<p>UNE-EN 15153-1:2014+A1:2017</p>
+<p>Marzo 2017</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>).</p>
+<td>5.4.5</td>
+</tr>
+<tr>
+<td>[10]</td>
+<td>Luces de cola</td>
+<td>4.2.7.1.3</td>
+<td>
+<p>UNE-EN 15153-1:2014+A1:2017</p>
+<p>Marzo 2017</p>
+</td>
+<td>5.5.5</td>
+</tr>
+<tr>
+<td>[11]</td>
+<td>Sistemas embarcados CMS clase A</td>
+<td>4.2.13.1</td>
+<td>
+<p>ETC ETCS (FN): Especificación Técnica de Circulación: Funcionalidad Nacional y valores nacionales del sistema ERTMS/ETCS.</p>
+<p>22 de marzo de 2024 [Versión 2.0].</p>
+</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
+</tr>
+<tr>
+<td>[12]</td>
+<td>Sistemas embarcados CMS clase B</td>
+<td>4.2.13.2</td>
+<td>
+<p>Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
+<p>[ETC ASFA FET]. Versión 1.</p>
+</td>
+<td>2, 4, 5.2, 6.4.2</td>
+</tr>
+<tr>
+<td>[13]</td>
+<td>Interfaz entre sistemas embarcados CMS clase A y clase B</td>
+<td>4.2.13.3</td>
+<td>
+<p>Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
+<p>[ETC ASFA FET]. Versión 1.</p>
+</td>
+<td>4.1.6</td>
+</tr>
+<tr>
+<td>[14]</td>
+<td>Interfaz entre sistemas embarcados CMS clase A y clase B</td>
+<td>4.2.13.3</td>
+<td>
+<p>ETC ETCS (FN): Especificación Técnica de Circulación: Funcionalidad Nacional y valores nacionales del sistema ERTMS/ETCS.</p>
+<p>22 de marzo de 2024 [Versión 2.0].</p>
+</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
+</tr>
+<tr>
+<td>[15]</td>
+<td>Comunicación por radiotelefonía analógica (tren-tierra)</td>
+<td>4.2.13.5</td>
+<td>
+<p>Especificación Técnica de Circulación: Sistema de radiotelefonía analógica (tren-tierra) [ETC TT].</p>
+<p>9 mayo 2023 (versión 1.1).</p>
+</td>
+<td>
+<p>Cl. Pertinente (<sup>1</sup>).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[17]</td>
-<td class="cuerpo_tabla_izq">Comunicación por radiotelefonía analógica (tren-tierra)</td>
-<td class="cuerpo_tabla_centro">4.2.13.5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación: Sistema de radiotelefonía analógica (tren-tierra) [ETC TT].</p>
-<p class="cuerpo_tabla_izq">9 mayo 2023 (versión 1.1).</p>
+<td>[16]</td>
+<td>Comunicación por radiotelefonía analógica (tren-tierra)</td>
+<td>4.2.13.5</td>
+<td>
+<p>Especificación Técnica de Circulación: Sistema de radiotelefonía analógica (tren-tierra) [ETC TT].</p>
+<p>9 mayo 2023 (versión 1.1).</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>).</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[18]</td>
-<td class="cuerpo_tabla_izq">Perturbaciones electromagnéticas</td>
-<td class="cuerpo_tabla_centro">4.7.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 45502-2-1</p>
-<p class="cuerpo_tabla_izq">Julio 2005</p>
-</td>
-<td class="cuerpo_tabla_centro">27.6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[19]</td>
-<td class="cuerpo_tabla_izq">Perturbaciones electromagnéticas</td>
-<td class="cuerpo_tabla_centro">4.7.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50500/A1:2015</p>
-<p class="cuerpo_tabla_izq">Mayo 2015</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4.2</p>
-<p class="cuerpo_tabla_centro">4.4.1</p>
+<td>
+<p>Cl. Pertinente (<sup>1</sup>).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[20]</td>
-<td class="cuerpo_tabla_izq">Perturbaciones electromagnéticas</td>
-<td class="cuerpo_tabla_centro">4.7.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50121-3-2:2017/A1:2019</p>
-<p class="cuerpo_tabla_izq">Junio 2019</p>
+<td>[17]</td>
+<td>Comunicación por radiotelefonía analógica (tren-tierra)</td>
+<td>4.2.13.5</td>
+<td>
+<p>Especificación Técnica de Circulación: Sistema de radiotelefonía analógica (tren-tierra) [ETC TT].</p>
+<p>9 mayo 2023 (versión 1.1).</p>
 </td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[21]</td>
-<td class="cuerpo_tabla_izq">Materiales y productos prohibidos en elementos que sufren desgaste</td>
-<td class="cuerpo_tabla_centro">4.7.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UIC 345</p>
-<p class="cuerpo_tabla_izq">Septiembre 2006 (1.ª ed.)</p>
-</td>
-<td class="cuerpo_tabla_centro">C.5.2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[22]</td>
-<td class="cuerpo_tabla_izq">Sistemas embarcados CMS clase B. Componentes</td>
-<td class="cuerpo_tabla_centro">6.1.3.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
-<p class="cuerpo_tabla_izq">[ETC ASFA FET]. Versión 1.</p>
-</td>
-<td class="cuerpo_tabla_centro">2, 4, 6.4.2.1</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[23]</td>
-<td class="cuerpo_tabla_izq">Metodología de ensayo. Compatibilidad con los sistemas de detección de trenes. Perturbaciones</td>
-<td class="cuerpo_tabla_centro">6.2.3.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-CLC/TS 50238-2:2020.</p>
-<p class="cuerpo_tabla_izq">Agosto 2020.</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cl. Pertinente. (<sup>1</sup>)</p>
+<td>
+<p>Cl. Pertinente (<sup>1</sup>).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[24]</td>
-<td class="cuerpo_tabla_izq">Metodología de ensayo. Compatibilidad con los sistemas de detección de trenes. Perturbaciones</td>
-<td class="cuerpo_tabla_centro">6.2.3.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50121-3-1:2017/A1:2019</p>
-<p class="cuerpo_tabla_izq">Junio 2019</p>
+<td>[18]</td>
+<td>Perturbaciones electromagnéticas</td>
+<td>4.7.1</td>
+<td>
+<p>UNE-EN 45502-2-1</p>
+<p>Julio 2005</p>
 </td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>27.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[25]</td>
-<td class="cuerpo_tabla_izq">Requisitos aplicables al equipo de detección embarcado</td>
-<td class="cuerpo_tabla_centro">6.2.3.5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 12082</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
+<td>[19]</td>
+<td>Perturbaciones electromagnéticas</td>
+<td>4.7.1</td>
+<td>
+<p>UNE-EN 50500/A1:2015</p>
+<p>Mayo 2015</p>
 </td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[26]</td>
-<td class="cuerpo_tabla_izq">Requisitos aplicables al equipo de detección embarcado</td>
-<td class="cuerpo_tabla_centro">6.2.3.5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 15437-2</p>
-<p class="cuerpo_tabla_izq">Septiembre 2013</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[27]</td>
-<td class="cuerpo_tabla_izq">Efectos aerodinámicos. Efecto estela</td>
-<td class="cuerpo_tabla_centro">6.2.3.9</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 14067-4</p>
-<p class="cuerpo_tabla_izq">Diciembre 2014</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4.2.4</p>
-<p class="cuerpo_tabla_centro">Tabla 7</p>
+<td>
+<p>4.2</p>
+<p>4.4.1</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[28]</td>
-<td class="cuerpo_tabla_izq">Efectos aerodinámicos. Pulso de presión por paso de cabeza</td>
-<td class="cuerpo_tabla_centro">6.2.3.9</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 14067-4</p>
-<p class="cuerpo_tabla_izq">Diciembre 2014</p>
+<td>[20]</td>
+<td>Perturbaciones electromagnéticas</td>
+<td>4.7.1</td>
+<td>
+<p>UNE-EN 50121-3-2:2017/A1:2019</p>
+<p>Junio 2019</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4.1.4</p>
-<p class="cuerpo_tabla_centro">Tabla 4</p>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
+</tr>
+<tr>
+<td>[21]</td>
+<td>Materiales y productos prohibidos en elementos que sufren desgaste</td>
+<td>4.7.2</td>
+<td>
+<p>UIC 345</p>
+<p>Septiembre 2006 (1.ª ed.)</p>
+</td>
+<td>C.5.2</td>
+</tr>
+<tr>
+<td>[22]</td>
+<td>Sistemas embarcados CMS clase B. Componentes</td>
+<td>6.1.3.1</td>
+<td>
+<p>Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
+<p>[ETC ASFA FET]. Versión 1.</p>
+</td>
+<td>2, 4, 6.4.2.1</td>
+</tr>
+<tr>
+<td>[23]</td>
+<td>Metodología de ensayo. Compatibilidad con los sistemas de detección de trenes. Perturbaciones</td>
+<td>6.2.3.3</td>
+<td>
+<p>UNE-CLC/TS 50238-2:2020.</p>
+<p>Agosto 2020.</p>
+</td>
+<td>
+<p>Cl. Pertinente. (<sup>1</sup>)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[29]</td>
-<td class="cuerpo_tabla_izq">Protección eléctrica del tren. Ensayos en banco</td>
-<td class="cuerpo_tabla_centro">6.2.3.10</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 60077-3</p>
-<p class="cuerpo_tabla_izq">Junio 2003</p>
+<td>[24]</td>
+<td>Metodología de ensayo. Compatibilidad con los sistemas de detección de trenes. Perturbaciones</td>
+<td>6.2.3.3</td>
+<td>
+<p>UNE-EN 50121-3-1:2017/A1:2019</p>
+<p>Junio 2019</p>
 </td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[30]</td>
-<td class="cuerpo_tabla_izq">Protección eléctrica del tren. Ensayos en banco</td>
-<td class="cuerpo_tabla_centro">6.2.3.10</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 60077-4</p>
-<p class="cuerpo_tabla_izq">Marzo 2004</p>
+<td>[25]</td>
+<td>Requisitos aplicables al equipo de detección embarcado</td>
+<td>6.2.3.5</td>
+<td>
+<p>UNE-EN 12082</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[31]</td>
-<td class="cuerpo_tabla_izq">Sistemas embarcados CMS clase B</td>
-<td class="cuerpo_tabla_centro">6.2.3.12</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
-<p class="cuerpo_tabla_izq">[ETC ASFA FET]. Versión 1.</p>
+<td>[26]</td>
+<td>Requisitos aplicables al equipo de detección embarcado</td>
+<td>6.2.3.5</td>
+<td>
+<p>UNE-EN 15437-2</p>
+<p>Septiembre 2013</p>
 </td>
-<td class="cuerpo_tabla_centro">5.2, 6.4.2.2</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[32]</td>
-<td class="cuerpo_tabla_izq">Perturbaciones electromagnéticas. Ensayos</td>
-<td class="cuerpo_tabla_centro">6.2.3.14</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 45502-2-1</p>
-<p class="cuerpo_tabla_izq">Julio 2005</p>
+<td>[27]</td>
+<td>Efectos aerodinámicos. Efecto estela</td>
+<td>6.2.3.9</td>
+<td>
+<p>UNE-EN 14067-4</p>
+<p>Diciembre 2014</p>
 </td>
-<td class="cuerpo_tabla_centro">27.6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[33]</td>
-<td class="cuerpo_tabla_izq">Perturbaciones electromagnéticas. Ensayos</td>
-<td class="cuerpo_tabla_centro">6.2.3.14</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50121-3-2:2017/A1:2019</p>
-<p class="cuerpo_tabla_izq">Junio 2019</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[34]</td>
-<td class="cuerpo_tabla_izq">Perturbaciones electromagnéticas. Ensayos</td>
-<td class="cuerpo_tabla_centro">6.2.3.14</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50500/A1:2015</p>
-<p class="cuerpo_tabla_izq">Mayo 2015</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[35]</td>
-<td class="cuerpo_tabla_izq">Características generales a cumplir por el conjunto de rodadura de ancho variable</td>
-<td class="cuerpo_tabla_centro">Anexo G.3.1.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 13260</p>
-<p class="cuerpo_tabla_izq">Julio 2011</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">3.2.7</p>
-<p class="cuerpo_tabla_centro">3.2.8</p>
+<td>
+<p>4.2.4</p>
+<p>Tabla 7</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[36]</td>
-<td class="cuerpo_tabla_izq">Características generales a cumplir por el bastidor del conjunto de rodadura de ancho variable</td>
-<td class="cuerpo_tabla_centro">Anexo G.3.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 13749</p>
-<p class="cuerpo_tabla_izq">Julio 2012</p>
+<td>[28]</td>
+<td>Efectos aerodinámicos. Pulso de presión por paso de cabeza</td>
+<td>6.2.3.9</td>
+<td>
+<p>UNE-EN 14067-4</p>
+<p>Diciembre 2014</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4</p>
-<p class="cuerpo_tabla_centro">6.2</p>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[37]</td>
-<td class="cuerpo_tabla_izq">Condiciones relativas a la tecnología de explotación de conjuntos de rodadura de ancho variable</td>
-<td class="cuerpo_tabla_centro">Anexo G.4</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UIC 510-4</p>
-<p class="cuerpo_tabla_izq">Abril 2002 (2.ª ed.)</p>
-</td>
-<td class="cuerpo_tabla_centro">Anejo C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[38]</td>
-<td class="cuerpo_tabla_izq">Ensayos en banco de conjuntos de rodadura de ancho variable</td>
-<td class="cuerpo_tabla_centro">Anexo G.5.2.1.a</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 13749</p>
-<p class="cuerpo_tabla_izq">Julio 2012</p>
-</td>
-<td class="cuerpo_tabla_centro">6.2.4</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[39]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
-<p class="cuerpo_tabla_izq">Requisitos</p>
-</td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50155</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4.3</p>
-<p class="cuerpo_tabla_centro">5</p>
-<p class="cuerpo_tabla_centro">7</p>
-<p class="cuerpo_tabla_centro">10</p>
-<p class="cuerpo_tabla_centro">13</p>
+<td>
+<p>4.1.4</p>
+<p>Tabla 4</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[40]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
-<p class="cuerpo_tabla_izq">Ensayos</p>
+<td>[29]</td>
+<td>Protección eléctrica del tren. Ensayos en banco</td>
+<td>6.2.3.10</td>
+<td>
+<p>UNE-EN 60077-3</p>
+<p>Junio 2003</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50155</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">13.3</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[41]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
-<p class="cuerpo_tabla_izq">Condiciones ambientales</p>
+<td>[30]</td>
+<td>Protección eléctrica del tren. Ensayos en banco</td>
+<td>6.2.3.10</td>
+<td>
+<p>UNE-EN 60077-4</p>
+<p>Marzo 2004</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50155</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">4.3.2</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[42]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
-<p class="cuerpo_tabla_izq">Vibraciones, choques y sacudidas</p>
+<td>[31]</td>
+<td>Sistemas embarcados CMS clase B</td>
+<td>6.2.3.12</td>
+<td>
+<p>Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
+<p>[ETC ASFA FET]. Versión 1.</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 61373</p>
-<p class="cuerpo_tabla_izq">Abril 2011</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
+<td>5.2, 6.4.2.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[43]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones eléctricas.</p>
-<p class="cuerpo_tabla_izq">Unidad de alimentación</p>
+<td>[32]</td>
+<td>Perturbaciones electromagnéticas. Ensayos</td>
+<td>6.2.3.14</td>
+<td>
+<p>UNE-EN 45502-2-1</p>
+<p>Julio 2005</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50155</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>27.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[44]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones eléctricas.</p>
-<p class="cuerpo_tabla_izq">Compatibilidad electromagnética</p>
+<td>[33]</td>
+<td>Perturbaciones electromagnéticas. Ensayos</td>
+<td>6.2.3.14</td>
+<td>
+<p>UNE-EN 50121-3-2:2017/A1:2019</p>
+<p>Junio 2019</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50121-3-2:2017/A1:2019</p>
-<p class="cuerpo_tabla_izq">Junio 2019</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">7</p>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[45]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones eléctricas.</p>
-<p class="cuerpo_tabla_izq">Compatibilidad electromagnética</p>
+<td>[34]</td>
+<td>Perturbaciones electromagnéticas. Ensayos</td>
+<td>6.2.3.14</td>
+<td>
+<p>UNE-EN 50500/A1:2015</p>
+<p>Mayo 2015</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50155</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
+</tr>
+<tr>
+<td>[35]</td>
+<td>Características generales a cumplir por el conjunto de rodadura de ancho variable</td>
+<td>Anexo G.3.1.1</td>
+<td>
+<p>UNE-EN 13260</p>
+<p>Julio 2011</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">5</p>
-<p class="cuerpo_tabla_centro">13</p>
+<td>
+<p>3.2.7</p>
+<p>3.2.8</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[46]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Condiciones eléctricas.</p>
-<p class="cuerpo_tabla_izq">Seguridad eléctrica</p>
+<td>[36]</td>
+<td>Características generales a cumplir por el bastidor del conjunto de rodadura de ancho variable</td>
+<td>Anexo G.3.2</td>
+<td>
+<p>UNE-EN 13749</p>
+<p>Julio 2012</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">5</p>
-<p class="cuerpo_tabla_centro">6</p>
+<td>
+<p>4</p>
+<p>6.2</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[47]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Fiabilidad del equipo</p>
+<td>[37]</td>
+<td>Condiciones relativas a la tecnología de explotación de conjuntos de rodadura de ancho variable</td>
+<td>Anexo G.4</td>
+<td>
+<p>UIC 510-4</p>
+<p>Abril 2002 (2.ª ed.)</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50126-1</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">Cl. Pertinente (<sup>1</sup>)</td>
+<td>Anejo C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[48]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Vida útil</p>
+<td>[38]</td>
+<td>Ensayos en banco de conjuntos de rodadura de ancho variable</td>
+<td>Anexo G.5.2.1.a</td>
+<td>
+<p>UNE-EN 13749</p>
+<p>Julio 2012</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.4</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50155</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4.3</p>
-<p class="cuerpo_tabla_centro">5</p>
-<p class="cuerpo_tabla_centro">7</p>
-<p class="cuerpo_tabla_centro">10</p>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
+<td>6.2.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[49]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento del equipo</p>
+<td>[39]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
+<p>Requisitos</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50126-1</p>
-<p class="cuerpo_tabla_izq">Septiembre 2018</p>
+<td>Anexo H.2.2.1</td>
+<td>
+<p>UNE-EN 50155</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">5.6.3.d)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[50]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Requisitos post-accidente</p>
-</td>
-<td class="cuerpo_tabla_centro">Anexo H.2.2.6</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50121-3-2:2017/A1:2019</p>
-<p class="cuerpo_tabla_izq">Junio 2019</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">7</p>
-<p class="cuerpo_tabla_centro">8</p>
+<td>
+<p>4.3</p>
+<p>5</p>
+<p>7</p>
+<p>10</p>
+<p>13</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[51]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas del registrador jurídico.</p>
-<p class="cuerpo_tabla_izq">Parámetros a registrar.</p>
-<p class="cuerpo_tabla_izq">ASFA digital</p>
+<td>[40]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
+<p>Ensayos</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo H.3.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
-<p class="cuerpo_tabla_izq">[ETC ASFA FET]. Versión 1.</p>
+<td>Anexo H.2.2.1</td>
+<td>
+<p>UNE-EN 50155</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">4.1.3</td>
+<td>13.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[52]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos directos</p>
-<p class="cuerpo_tabla_izq">Acceso a los armarios de equipos</p>
+<td>[41]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
+<p>Condiciones ambientales</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
+<td>Anexo H.2.2.1</td>
+<td>
+<p>UNE-EN 50155</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">5.3.1.1</td>
+<td>4.3.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[53]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos directos</p>
-<p class="cuerpo_tabla_izq">Grado de aislamiento de los equipos</p>
+<td>[42]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones de funcionamiento, diseño, construcción y ensayos.</p>
+<p>Vibraciones, choques y sacudidas</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
+<td>Anexo H.2.2.1</td>
+<td>
+<p>UNE-EN 61373</p>
+<p>Abril 2011</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">5.3.1.1</p>
-<p class="cuerpo_tabla_centro">5.3.1.2</p>
-<p class="cuerpo_tabla_centro">5.3.1.3</p>
-<p class="cuerpo_tabla_centro">5.3.2.1</p>
-</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[54]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos directos</p>
-<p class="cuerpo_tabla_izq">Grado de aislamiento de los equipos</p>
+<td>[43]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones eléctricas.</p>
+<p>Unidad de alimentación</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">UNE-EN 60529Abril 2018</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Anexo H.2.2.2</td>
+<td>
+<p>UNE-EN 50155</p>
+<p>Septiembre 2018</p>
+</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[55]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos directos</p>
-<p class="cuerpo_tabla_izq">Rótulos de advertencia</p>
+<td>[44]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones eléctricas.</p>
+<p>Compatibilidad electromagnética</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 61310-1</p>
-<p class="cuerpo_tabla_izq">Julio 2008</p>
+<td>Anexo H.2.2.2</td>
+<td>
+<p>UNE-EN 50121-3-2:2017/A1:2019</p>
+<p>Junio 2019</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">4.2</p>
-<p class="cuerpo_tabla_centro">5.2</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[56]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos indirectos</p>
-<p class="cuerpo_tabla_izq">Aislamiento</p>
-</td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">5.3.2.3</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[57]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos indirectos</p>
-<p class="cuerpo_tabla_izq">Resistencia de puesta a tierra del vehículo</p>
-</td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">6.4</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">[58]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos indirectos</p>
-<p class="cuerpo_tabla_izq">Comprobación de puestas a tierra</p>
-</td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
-</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">6.2</p>
-<p class="cuerpo_tabla_centro">6.2.1</p>
+<td>
+<p>7</p>
+<p>8</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[59]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
-<p class="cuerpo_tabla_izq">Contactos indirectos</p>
-<p class="cuerpo_tabla_izq">Antenas</p>
+<td>[45]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones eléctricas.</p>
+<p>Compatibilidad electromagnética</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 50153/A1:2018</p>
-<p class="cuerpo_tabla_izq">Enero 2018</p>
+<td>Anexo H.2.2.2</td>
+<td>
+<p>UNE-EN 50155</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">6.4.4</td>
+<td>
+<p>5</p>
+<p>13</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[60]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas para ruedas con discos de freno fijados con tornillo a su velo.</p>
-<p class="cuerpo_tabla_izq">Cargas y efectos a considerar</p>
+<td>[46]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Condiciones eléctricas.</p>
+<p>Seguridad eléctrica</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo J.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UIC 515-4</p>
-<p class="cuerpo_tabla_izq">Enero 1993 (1.ª ed.)</p>
+<td>Anexo H.2.2.2</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">3.2</td>
+<td>
+<p>5</p>
+<p>6</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[61]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas para ruedas con discos de freno fijados con tornillo a su velo.</p>
-<p class="cuerpo_tabla_izq">Cargas y efectos a considerar</p>
+<td>[47]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Fiabilidad del equipo</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo J.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UIC 615-4</p>
-<p class="cuerpo_tabla_izq">Febrero 2003 (2.ª ed.)</p>
+<td>Anexo H.2.2.3</td>
+<td>
+<p>UNE-EN 50126-1</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">4.2</td>
+<td>Cl. Pertinente (<sup>1</sup>)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">[62]</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especificaciones técnicas para ruedas con discos de freno fijados con tornillo a su velo.</p>
-<p class="cuerpo_tabla_izq">Cargas y efectos a considerar</p>
+<td>[48]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Vida útil</p>
 </td>
-<td class="cuerpo_tabla_centro">Anexo J.2.2.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">UNE-EN 13749</p>
-<p class="cuerpo_tabla_izq">Julio 2012</p>
+<td>Anexo H.2.2.4</td>
+<td>
+<p>UNE-EN 50155</p>
+<p>Septiembre 2018</p>
 </td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>
+<p>4.3</p>
+<p>5</p>
+<p>7</p>
+<p>10</p>
+<p>13</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="5">
+<td>[49]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Mantenimiento del equipo</p>
+</td>
+<td>Anexo H.2.2.5</td>
+<td>
+<p>UNE-EN 50126-1</p>
+<p>Septiembre 2018</p>
+</td>
+<td>5.6.3.d)</td>
+</tr>
+<tr>
+<td>[50]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Requisitos post-accidente</p>
+</td>
+<td>Anexo H.2.2.6</td>
+<td>
+<p>UNE-EN 50121-3-2:2017/A1:2019</p>
+<p>Junio 2019</p>
+</td>
+<td>
+<p>7</p>
+<p>8</p>
+</td>
+</tr>
+<tr>
+<td>[51]</td>
+<td>
+<p>Especificaciones técnicas del registrador jurídico.</p>
+<p>Parámetros a registrar.</p>
+<p>ASFA digital</p>
+</td>
+<td>Anexo H.3.3</td>
+<td>
+<p>Especificación Técnica de Circulación. Funcionalidad y Especificaciones Técnicas del sistema ASFA.</p>
+<p>[ETC ASFA FET]. Versión 1.</p>
+</td>
+<td>4.1.3</td>
+</tr>
+<tr>
+<td>[52]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos directos</p>
+<p>Acceso a los armarios de equipos</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
+</td>
+<td>5.3.1.1</td>
+</tr>
+<tr>
+<td>[53]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos directos</p>
+<p>Grado de aislamiento de los equipos</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
+</td>
+<td>
+<p>5.3.1.1</p>
+<p>5.3.1.2</p>
+<p>5.3.1.3</p>
+<p>5.3.2.1</p>
+</td>
+</tr>
+<tr>
+<td>[54]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos directos</p>
+<p>Grado de aislamiento de los equipos</p>
+</td>
+<td>Anexo I</td>
+<td>UNE-EN 60529Abril 2018</td>
+<td>6</td>
+</tr>
+<tr>
+<td>[55]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos directos</p>
+<p>Rótulos de advertencia</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 61310-1</p>
+<p>Julio 2008</p>
+</td>
+<td>
+<p>4.2</p>
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td>[56]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos indirectos</p>
+<p>Aislamiento</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
+</td>
+<td>5.3.2.3</td>
+</tr>
+<tr>
+<td>[57]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos indirectos</p>
+<p>Resistencia de puesta a tierra del vehículo</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
+</td>
+<td>6.4</td>
+</tr>
+<tr>
+<td>[58]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos indirectos</p>
+<p>Comprobación de puestas a tierra</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
+</td>
+<td>
+<p>6.2</p>
+<p>6.2.1</p>
+</td>
+</tr>
+<tr>
+<td>[59]</td>
+<td>
+<p>Procedimiento de verificación y ensayo de las medidas de protección relativas a riesgos eléctricos para las personas.</p>
+<p>Contactos indirectos</p>
+<p>Antenas</p>
+</td>
+<td>Anexo I</td>
+<td>
+<p>UNE-EN 50153/A1:2018</p>
+<p>Enero 2018</p>
+</td>
+<td>6.4.4</td>
+</tr>
+<tr>
+<td>[60]</td>
+<td>
+<p>Especificaciones técnicas para ruedas con discos de freno fijados con tornillo a su velo.</p>
+<p>Cargas y efectos a considerar</p>
+</td>
+<td>Anexo J.2.2.1</td>
+<td>
+<p>UIC 515-4</p>
+<p>Enero 1993 (1.ª ed.)</p>
+</td>
+<td>3.2</td>
+</tr>
+<tr>
+<td>[61]</td>
+<td>
+<p>Especificaciones técnicas para ruedas con discos de freno fijados con tornillo a su velo.</p>
+<p>Cargas y efectos a considerar</p>
+</td>
+<td>Anexo J.2.2.1</td>
+<td>
+<p>UIC 615-4</p>
+<p>Febrero 2003 (2.ª ed.)</p>
+</td>
+<td>4.2</td>
+</tr>
+<tr>
+<td>[62]</td>
+<td>
+<p>Especificaciones técnicas para ruedas con discos de freno fijados con tornillo a su velo.</p>
+<p>Cargas y efectos a considerar</p>
+</td>
+<td>Anexo J.2.2.1</td>
+<td>
+<p>UNE-EN 13749</p>
+<p>Julio 2012</p>
+</td>
+<td>6</td>
+</tr>
+<tr>
+<td colspan="5">
 <p><em>(<sup>1</sup>)</em>Cláusulas de la norma que están directamente relacionadas con el requisito expresado en la cláusula de la IF MR ALC indicada en la columna 3.</p>
 </td>
 </tr>
@@ -2251,34 +2233,27 @@ En este cuadro se dan asimismo las referencias a los apartados del capítulo 6 p
 
 Cuadro D.2 Evaluación de los componentes de interoperabilidad
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Requisitos que deben evaluarse</th>
-<th class="cabeza_tabla" colspan="2">Fase de diseño y desarrollo</th>
-<th class="cabeza_tabla">Fase de producción</th>
-<th class="cabeza_tabla" rowspan="2">Procedimientos particulares de evaluación</th>
+<th rowspan="2">Requisitos que deben evaluarse</th>
+<th colspan="2">Fase de diseño y desarrollo</th>
+<th>Fase de producción</th>
+<th rowspan="2">Procedimientos particulares de evaluación</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Análisis del diseño</th>
-<th class="cabeza_tabla">Ensayo de tipo</th>
-<th class="cabeza_tabla">Ensayo de serie</th>
+<th>Análisis del diseño</th>
+<th>Ensayo de tipo</th>
+<th>Ensayo de serie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.2 Sistemas embarcados de control, mando y señalización de clase B</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.1.3.1</td>
+<td>4.2.13.2 Sistemas embarcados de control, mando y señalización de clase B</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.1.3.1</td>
 </tr>
 </tbody>
 </table>
@@ -2293,254 +2268,247 @@ En este cuadro se dan asimismo las referencias a los apartados del capítulo 6 p
 
 Cuadro E.2 Evaluación de los vehículos ferroviarios completos
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Características que deben evaluarse</th>
-<th class="cabeza_tabla" colspan="2">Fases de diseño y desarrollo</th>
-<th class="cabeza_tabla">Fase de producción</th>
-<th class="cabeza_tabla" rowspan="2">Procedimientos particulares de evaluación</th>
+<th rowspan="2">Características que deben evaluarse</th>
+<th colspan="2">Fases de diseño y desarrollo</th>
+<th>Fase de producción</th>
+<th rowspan="2">Procedimientos particulares de evaluación</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Análisis del diseño</th>
-<th class="cabeza_tabla">Ensayo de tipo</th>
-<th class="cabeza_tabla">Ensayo de serie</th>
+<th>Análisis del diseño</th>
+<th>Ensayo de tipo</th>
+<th>Ensayo de serie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.2.5 Seguridad pasiva</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a</td>
-<td class="cuerpo_tabla_centro">n.a</td>
-<td class="cuerpo_tabla_centro">Anexo K</td>
+<td>4.2.2.5 Seguridad pasiva</td>
+<td>X</td>
+<td>n.a</td>
+<td>n.a</td>
+<td>Anexo K</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.2.7 Fijación de dispositivos en la estructura de caja del vehículo</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a</td>
-<td class="cuerpo_tabla_centro">n.a</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.2.7 Fijación de dispositivos en la estructura de caja del vehículo</td>
+<td>X</td>
+<td>n.a</td>
+<td>n.a</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.2.11 Depósitos de aire comprimido para aplicaciones diferentes del frenado</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.1</td>
+<td>4.2.2.11 Depósitos de aire comprimido para aplicaciones diferentes del frenado</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.1 Gálibo</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">6.2.3.2</td>
+<td>4.2.3.1 Gálibo</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>6.2.3.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.3.1 Características del material rodante para la compatibilidad con los sistemas de detección de trenes</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">6.2.3.3</td>
+<td>4.2.3.3.1 Características del material rodante para la compatibilidad con los sistemas de detección de trenes</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>6.2.3.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.3.1.1 Características del material rodante para la compatibilidad con los sistemas de detección de trenes basados en circuitos de vía.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.4</td>
+<td>4.2.3.3.1.1 Características del material rodante para la compatibilidad con los sistemas de detección de trenes basados en circuitos de vía.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.3.1.2 Características del material rodante para la compatibilidad con los sistemas de detección de trenes basados en contadores de ejes</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.3.3.1.2 Características del material rodante para la compatibilidad con los sistemas de detección de trenes basados en contadores de ejes</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.3.2.1 Requisitos aplicables al equipo de detección embarcado</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">6.2.3.5</td>
+<td>4.2.3.3.2.1 Requisitos aplicables al equipo de detección embarcado</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>6.2.3.5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.5.1 Diseño estructural del bogie</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.3.5.1 Diseño estructural del bogie</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.5.2.1 Características mecánicas y geométricas de los ejes montados</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">6.2.3.6</td>
+<td>4.2.3.5.2.1 Características mecánicas y geométricas de los ejes montados</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>6.2.3.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.5.2.2 Características mecánicas y geométricas de las ruedas</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.3.5.2.2 Características mecánicas y geométricas de las ruedas</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.5.2.3 Ejes montados de ancho variable</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">6.2.3.7</p>
-<p class="cuerpo_tabla_centro">Anexo G.5.2.2</p>
-<p class="cuerpo_tabla_centro">Anexo G.5.2.3</p>
-<p class="cuerpo_tabla_centro">Anexo G.5.2.4</p>
+<td>4.2.3.5.2.3 Ejes montados de ancho variable</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>
+<p>6.2.3.7</p>
+<p>Anexo G.5.2.2</p>
+<p>Anexo G.5.2.3</p>
+<p>Anexo G.5.2.4</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.3.8 Lubricación de la pestaña o del carril</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.8</td>
+<td>4.2.3.8 Lubricación de la pestaña o del carril</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.4.2.1 Requisitos funcionales (Frenado)</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.4.2.1 Requisitos funcionales (Frenado)</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.4.5.4 Cálculos relacionados con la capacidad térmica</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.4.5.4 Cálculos relacionados con la capacidad térmica</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.6.2 Efectos aerodinámicos</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">6.2.3.9</td>
+<td>4.2.6.2 Efectos aerodinámicos</td>
+<td>n.a.</td>
+<td>X</td>
+<td>n.a.</td>
+<td>6.2.3.9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.6.2.3 Variaciones máximas de presión en túneles</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.6.2.3 Variaciones máximas de presión en túneles</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.6.2.4 Viento transversal</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.6.2.4 Viento transversal</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.7.1.1 Focos de cabeza</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.7.1.1 Focos de cabeza</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.7.1.2 Luces de posición</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.7.1.2 Luces de posición</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.7.1.3 Luces de cola</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.7.1.3 Luces de cola</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.8.2.10 Protección eléctrica del tren</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.10</td>
+<td>4.2.8.2.10 Protección eléctrica del tren</td>
+<td>n.a.</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.8.3 Sistemas diésel y otros sistemas de tracción térmica</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.8.3 Sistemas diésel y otros sistemas de tracción térmica</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.9.6 Aparato registrador</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.9.6 Aparato registrador</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13 Sistemas embarcados de control, mando y señalización</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.13 Sistemas embarcados de control, mando y señalización</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.1 Sistemas embarcados de control, mando y señalización de clase A</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.11</td>
+<td>4.2.13.1 Sistemas embarcados de control, mando y señalización de clase A</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.2 Sistemas embarcados de control, mando y señalización de clase B</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.12</td>
+<td>4.2.13.2 Sistemas embarcados de control, mando y señalización de clase B</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.2 Componente de interoperabilidad: Sistemas embarcados de control, mando y señalización de clase B</td>
-<td class="cuerpo_tabla_centro" colspan="3">Expediente técnico (según Cuadro D.2)</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.13.2 Componente de interoperabilidad: Sistemas embarcados de control, mando y señalización de clase B</td>
+<td colspan="3">Expediente técnico (según Cuadro D.2)</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.3 Interfaz entre los sistemas de control, mando y señalización de clase A y clase B.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.13.3 Interfaz entre los sistemas de control, mando y señalización de clase A y clase B.</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.4 Puntos abiertos de la ETI de control, mando y señalización</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">-</td>
+<td>4.2.13.4 Puntos abiertos de la ETI de control, mando y señalización</td>
+<td>X</td>
+<td>n.a.</td>
+<td>n.a.</td>
+<td>-</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.13.5 Comunicación por radiotelefonía: tren-tierra y GSM-R.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">6.2.3.13</td>
+<td>4.2.13.5 Comunicación por radiotelefonía: tren-tierra y GSM-R.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>6.2.3.13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.7.1 Perturbaciones electromagnéticas</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">n.a.</td>
-<td class="cuerpo_tabla_centro">6.2.3.14</td>
+<td>4.7.1 Perturbaciones electromagnéticas</td>
+<td>X</td>
+<td>X</td>
+<td>n.a.</td>
+<td>6.2.3.14</td>
 </tr>
 </tbody>
 </table>
@@ -2662,53 +2630,45 @@ a) Determinación de la resistencia a fatiga del conjunto de rodadura de ancho v
 
 Cuadro G.5.2.1 Ensayo de fatiga en banco
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Fase</th>
-<th class="cabeza_tabla" rowspan="2">Número de ciclos</th>
-<th class="cabeza_tabla" colspan="2">Fuerza vertical (kN)</th>
-<th class="cabeza_tabla" colspan="2">Fuerza transversal (kN)</th>
+<th rowspan="2">Fase</th>
+<th rowspan="2">Número de ciclos</th>
+<th colspan="2">Fuerza vertical (kN)</th>
+<th colspan="2">Fuerza transversal (kN)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Estática</th>
-<th class="cabeza_tabla">Dinámica</th>
-<th class="cabeza_tabla">Estática</th>
-<th class="cabeza_tabla">Dinámica</th>
+<th>Estática</th>
+<th>Dinámica</th>
+<th>Estática</th>
+<th>Dinámica</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_centro">6*10<sup>6</sup></td>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_centro">± 0,5 P a 4 Hz</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">± 0,3 P a 2 Hz</td>
+<td>I</td>
+<td>6*10<sup>6</sup></td>
+<td>P</td>
+<td>± 0,5 P a 4 Hz</td>
+<td>0</td>
+<td>± 0,3 P a 2 Hz</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">2*10<sup>6</sup></td>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_centro">± 0,6 P a 4 Hz</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">± 0,36 P a 2 Hz</td>
+<td>II</td>
+<td>2*10<sup>6</sup></td>
+<td>P</td>
+<td>± 0,6 P a 4 Hz</td>
+<td>0</td>
+<td>± 0,36 P a 2 Hz</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">III</td>
-<td class="cuerpo_tabla_centro">2*10<sup>6</sup></td>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_centro">± 0,7 P a 4 Hz</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">± 0,42 P a 2 Hz</td>
+<td>III</td>
+<td>2*10<sup>6</sup></td>
+<td>P</td>
+<td>± 0,7 P a 4 Hz</td>
+<td>0</td>
+<td>± 0,42 P a 2 Hz</td>
 </tr>
 </tbody>
 </table>
@@ -2796,176 +2756,169 @@ Cada 1.000 Km se efectuará un control visual por lo menos (fases 1 y 2, en la f
 
 Cuadro G.5.2.3.b Controles durante los ensayos en servicio
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Después de recorrer</th>
-<th class="cabeza_tabla">Control de rodadura</th>
-<th class="cabeza_tabla">Medición fuerza traslación ruedas</th>
-<th class="cabeza_tabla">Medición rigidez ejes</th>
-<th class="cabeza_tabla">Observaciones</th>
+<th>Después de recorrer</th>
+<th>Control de rodadura</th>
+<th>Medición fuerza traslación ruedas</th>
+<th>Medición rigidez ejes</th>
+<th>Observaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">Se circulará en vía de ancho 1.668 mm con la masa máxima, hasta velocidad máxima.</p>
-<p class="cuerpo_tabla_izq">No se efectuarán cambios de ancho de vía.</p>
+<td>0</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td rowspan="8">
+<p>Se circulará en vía de ancho 1.668 mm con la masa máxima, hasta velocidad máxima.</p>
+<p>No se efectuarán cambios de ancho de vía.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>10.000</td>
+<td>x</td>
+<td> </td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>20.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>30.000</td>
+<td>x</td>
+<td> </td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>40.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>50.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">En vías de 1.668 y 1.435 mm.</p>
-<p class="cuerpo_tabla_izq">Al menos 50 cambios de ancho con la masa máxima.</p>
-<p class="cuerpo_tabla_izq">Hasta la velocidad máxima autorizada.</p>
+<td>60.000</td>
+<td>x</td>
+<td>x</td>
+<td> </td>
+<td rowspan="5">
+<p>En vías de 1.668 y 1.435 mm.</p>
+<p>Al menos 50 cambios de ancho con la masa máxima.</p>
+<p>Hasta la velocidad máxima autorizada.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>70.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">80.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>80.000</td>
+<td>x</td>
+<td>x</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">90.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>90.000</td>
+<td>x</td>
+<td>x</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">100.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>100.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">110.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq" rowspan="10">
-<p class="cuerpo_tabla_izq">En vías de 1.668 y 1.435 mm.</p>
-<p class="cuerpo_tabla_izq">Al menos 150 cambios de ancho de vía.</p>
-<p class="cuerpo_tabla_izq">Servicio comercial.</p>
-<p class="cuerpo_tabla_izq">Hasta la velocidad máxima de autorización.</p>
+<td>110.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
+<td rowspan="10">
+<p>En vías de 1.668 y 1.435 mm.</p>
+<p>Al menos 150 cambios de ancho de vía.</p>
+<p>Servicio comercial.</p>
+<p>Hasta la velocidad máxima de autorización.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">120.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>120.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">130.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>130.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">140.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>140.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">150.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>150.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">170.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>170.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">190.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>190.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">210.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>210.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">230.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>230.000</td>
+<td>x</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">250.000</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
-<td class="cuerpo_tabla_centro">x</td>
+<td>250.000</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
 </tr>
 </tbody>
 </table>
@@ -3599,638 +3552,630 @@ A continuación se detallan los datos técnicos aportados por los fabricantes de
 
 L.1 Líneas electrificadas en corriente continua (1,5 kV y 3 kV CC)
 
-<table class="tabla">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de circuito</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Frecuencia</p>
-<p class="cabeza_tabla">[Hz]</p>
+<th>Tipo de circuito</th>
+<th>
+<p>Frecuencia</p>
+<p>[Hz]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ancho de banda a 3 dB</p>
-<p class="cabeza_tabla">[Hz]</p>
+<th>
+<p>Ancho de banda a 3 dB</p>
+<p>[Hz]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Límite de corriente RMS</p>
-<p class="cabeza_tabla">[A]</p>
+<th>
+<p>Límite de corriente RMS</p>
+<p>[A]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tiempo de integración</p>
-<p class="cabeza_tabla">[s]</p>
+<th>
+<p>Tiempo de integración</p>
+<p>[s]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tiempo de superación</p>
-<p class="cabeza_tabla">[s]</p>
+<th>
+<p>Tiempo de superación</p>
+<p>[s]</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">50 Hz</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,2</td>
+<td>50 Hz</td>
+<td>50</td>
+<td>2</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">FTGS 46</td>
-<td class="cuerpo_tabla_centro">4.750</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="4">FTGS 46</td>
+<td>4.750</td>
+<td>200</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.250</td>
-<td class="cuerpo_tabla_centro">206</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.250</td>
+<td>206</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.750</td>
-<td class="cuerpo_tabla_centro">214</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.750</td>
+<td>214</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.250</td>
-<td class="cuerpo_tabla_centro">220</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>6.250</td>
+<td>220</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">FTGS 917</td>
-<td class="cuerpo_tabla_centro">9.500</td>
-<td class="cuerpo_tabla_centro">360</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="8">FTGS 917</td>
+<td>9.500</td>
+<td>360</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.500</td>
-<td class="cuerpo_tabla_centro">380</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>10.500</td>
+<td>380</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>11.500</td>
+<td>400</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.500</td>
-<td class="cuerpo_tabla_centro">425</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>12.500</td>
+<td>425</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.500</td>
-<td class="cuerpo_tabla_centro">445</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>13.500</td>
+<td>445</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.500</td>
-<td class="cuerpo_tabla_centro">470</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>14.500</td>
+<td>470</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.500</td>
-<td class="cuerpo_tabla_centro">490</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>15.500</td>
+<td>490</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.500</td>
-<td class="cuerpo_tabla_centro">510</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>16.500</td>
+<td>510</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">TI-21 I</td>
-<td class="cuerpo_tabla_centro">1.549</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,134</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="8">TI-21 I</td>
+<td>1.549</td>
+<td>12</td>
+<td>0,134</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.699</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,101</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.699</td>
+<td>12</td>
+<td>0,101</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.848</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,142</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.848</td>
+<td>12</td>
+<td>0,142</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.996</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,091</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.996</td>
+<td>12</td>
+<td>0,091</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.146</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,148</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.146</td>
+<td>12</td>
+<td>0,148</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.296</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,132</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.296</td>
+<td>12</td>
+<td>0,132</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.445</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,143</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.445</td>
+<td>12</td>
+<td>0,143</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.593</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,167</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.593</td>
+<td>12</td>
+<td>0,167</td>
+<td>2</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">TI-21 M</td>
-<td class="cuerpo_tabla_centro">6.100</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td rowspan="9">TI-21 M</td>
+<td>6.100</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.700</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>7.700</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.900</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>6.900</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.500</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>8.500</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.700</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>5.700</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.300</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>7.300</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.500</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>6.500</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.100</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>8.100</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.300</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>5.300</td>
+<td>200</td>
+<td>***</td>
+<td>**</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">FS 2000</p>
-<p class="cuerpo_tabla_izq">FS 2500</p>
-<p class="cuerpo_tabla_izq">FS 2550</p>
+<td rowspan="3">
+<p>FS 2000</p>
+<p>FS 2500</p>
+<p>FS 2550</p>
 </td>
-<td class="cuerpo_tabla_centro">1.699</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">3,7</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>1.699</td>
+<td>50</td>
+<td>3,7</td>
+<td>0,21</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.001</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">3,2</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>2.001</td>
+<td>50</td>
+<td>3,2</td>
+<td>0,21</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.299</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>2.299</td>
+<td>50</td>
+<td>3,3</td>
+<td>0,21</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">FS 2000</p>
-<p class="cuerpo_tabla_izq">FS 2500</p>
-<p class="cuerpo_tabla_izq">FS 2550</p>
+<td rowspan="8">
+<p>FS 2000</p>
+<p>FS 2500</p>
+<p>FS 2550</p>
 </td>
-<td class="cuerpo_tabla_centro">2.601</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0,21</td>
-<td class="cuerpo_tabla_centro">*</td>
+<td>2.601</td>
+<td>50</td>
+<td>2,8</td>
+<td>0,21</td>
+<td>*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.080</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>4.080</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.320</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>4.320</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.560</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>4.560</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.040</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.040</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.280</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.280</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.520</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.520</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.000</td>
-<td class="cuerpo_tabla_centro">160</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>6.000</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,4</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">FS 3000</td>
-<td class="cuerpo_tabla_centro">4.080</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,66</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td rowspan="10">FS 3000</td>
+<td>4.080</td>
+<td>124</td>
+<td>0,66</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.320</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,59</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>4.320</td>
+<td>124</td>
+<td>0,59</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.560</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,52</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>4.560</td>
+<td>124</td>
+<td>0,52</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.040</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,66</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>5.040</td>
+<td>124</td>
+<td>0,66</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.280</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,34</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>5.280</td>
+<td>124</td>
+<td>0,34</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.520</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,32</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>5.520</td>
+<td>124</td>
+<td>0,32</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.000</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,31</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>6.000</td>
+<td>124</td>
+<td>0,31</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.480</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,28</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>6.480</td>
+<td>124</td>
+<td>0,28</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.720</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>6.720</td>
+<td>124</td>
+<td>0,27</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.200</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>7.200</td>
+<td>124</td>
+<td>0,26</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ME-3015</td>
-<td class="cuerpo_tabla_centro">15.000</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,25</td>
+<td>ME-3015</td>
+<td>15.000</td>
+<td>1.200</td>
+<td>1</td>
+<td>**</td>
+<td>0,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ME-3047</td>
-<td class="cuerpo_tabla_centro">14.500</td>
-<td class="cuerpo_tabla_centro">1.000</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>ME-3047</td>
+<td>14.500</td>
+<td>1.000</td>
+<td>0,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">
-<p class="cuerpo_tabla_izq">ME-3091</p>
-<p class="cuerpo_tabla_izq">ME-3191</p>
+<td rowspan="9">
+<p>ME-3091</p>
+<p>ME-3191</p>
 </td>
-<td class="cuerpo_tabla_centro">11.000</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>11.000</td>
+<td>1.200</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.000</td>
-<td class="cuerpo_tabla_centro">1.400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>12.000</td>
+<td>1.400</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.000</td>
-<td class="cuerpo_tabla_centro">1.600</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>13.000</td>
+<td>1.600</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.000</td>
-<td class="cuerpo_tabla_centro">1.600</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>14.000</td>
+<td>1.600</td>
+<td>1,2</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.000</td>
-<td class="cuerpo_tabla_centro">1.800</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>15.000</td>
+<td>1.800</td>
+<td>1,2</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.000</td>
-<td class="cuerpo_tabla_centro">2.000</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>16.000</td>
+<td>2.000</td>
+<td>1,2</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.000</td>
-<td class="cuerpo_tabla_centro">2.600</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>17.000</td>
+<td>2.600</td>
+<td>1</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.000</td>
-<td class="cuerpo_tabla_centro">2.800</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>18.000</td>
+<td>2.800</td>
+<td>1</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.000</td>
-<td class="cuerpo_tabla_centro">3.000</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>19.000</td>
+<td>3.000</td>
+<td>1</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Digicode</td>
-<td class="cuerpo_tabla_centro">2.100</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td rowspan="8">Digicode</td>
+<td>2.100</td>
+<td>400</td>
+<td>2,2</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2.500</td>
+<td>400</td>
+<td>2,2</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.900</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2.900</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.300</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3.300</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.700</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3.700</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.100</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>4.100</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>4.500</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.900</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>4.900</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">TCM100</td>
-<td class="cuerpo_tabla_centro">4.750</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="12">TCM100</td>
+<td>4.750</td>
+<td>200</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.250</td>
-<td class="cuerpo_tabla_centro">206</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.250</td>
+<td>206</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.750</td>
-<td class="cuerpo_tabla_centro">214</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.750</td>
+<td>214</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.250</td>
-<td class="cuerpo_tabla_centro">220</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>6.250</td>
+<td>220</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.500</td>
-<td class="cuerpo_tabla_centro">360</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>9.500</td>
+<td>360</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.500</td>
-<td class="cuerpo_tabla_centro">380</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>10.500</td>
+<td>380</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>11.500</td>
+<td>400</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.500</td>
-<td class="cuerpo_tabla_centro">425</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>12.500</td>
+<td>425</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.500</td>
-<td class="cuerpo_tabla_centro">445</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>13.500</td>
+<td>445</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.500</td>
-<td class="cuerpo_tabla_centro">470</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>14.500</td>
+<td>470</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.500</td>
-<td class="cuerpo_tabla_centro">490</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>15.500</td>
+<td>490</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.500</td>
-<td class="cuerpo_tabla_centro">510</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>16.500</td>
+<td>510</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 </tbody>
 </table>
@@ -4243,500 +4188,492 @@ L.1 Líneas electrificadas en corriente continua (1,5 kV y 3 kV CC)
 
 L.2 Líneas electrificadas en corriente alterna (25 kV CA; 50 Hz).
 
-<table class="tabla">
-<colgroup>
-<col width="15%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de circuito</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Frecuencia</p>
-<p class="cabeza_tabla">[Hz]</p>
+<th>Tipo de circuito</th>
+<th>
+<p>Frecuencia</p>
+<p>[Hz]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ancho de banda a 3 dB</p>
-<p class="cabeza_tabla">[Hz]</p>
+<th>
+<p>Ancho de banda a 3 dB</p>
+<p>[Hz]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Límite de</p>
-<p class="cabeza_tabla">corriente RMS</p>
-<p class="cabeza_tabla">[A]</p>
+<th>
+<p>Límite de</p>
+<p>corriente RMS</p>
+<p>[A]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tiempo de integración</p>
-<p class="cabeza_tabla">[s]</p>
+<th>
+<p>Tiempo de integración</p>
+<p>[s]</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tiempo de superación</p>
-<p class="cabeza_tabla">[s]</p>
+<th>
+<p>Tiempo de superación</p>
+<p>[s]</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">UM</p>
-<p class="cuerpo_tabla_izq">71/2000</p>
+<td rowspan="4">
+<p>UM</p>
+<p>71/2000</p>
 </td>
-<td class="cuerpo_tabla_centro">1.700</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>1.700</td>
+<td>90</td>
+<td>0,3</td>
+<td>**</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.000</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2.000</td>
+<td>90</td>
+<td>0,3</td>
+<td>**</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.300</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2.300</td>
+<td>90</td>
+<td>0,3</td>
+<td>**</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.600</td>
-<td class="cuerpo_tabla_centro">90</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2.600</td>
+<td>90</td>
+<td>0,3</td>
+<td>**</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">FTGS 46</td>
-<td class="cuerpo_tabla_centro">4.750</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="4">FTGS 46</td>
+<td>4.750</td>
+<td>200</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.250</td>
-<td class="cuerpo_tabla_centro">206</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.250</td>
+<td>206</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.750</td>
-<td class="cuerpo_tabla_centro">214</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.750</td>
+<td>214</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.250</td>
-<td class="cuerpo_tabla_centro">220</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>6.250</td>
+<td>220</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">FGTS 917</td>
-<td class="cuerpo_tabla_centro">9.500</td>
-<td class="cuerpo_tabla_centro">360</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="7">FGTS 917</td>
+<td>9.500</td>
+<td>360</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.500</td>
-<td class="cuerpo_tabla_centro">380</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>10.500</td>
+<td>380</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>11.500</td>
+<td>400</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.500</td>
-<td class="cuerpo_tabla_centro">425</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>12.500</td>
+<td>425</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.500</td>
-<td class="cuerpo_tabla_centro">445</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>13.500</td>
+<td>445</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.500</td>
-<td class="cuerpo_tabla_centro">470</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>14.500</td>
+<td>470</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.500</td>
-<td class="cuerpo_tabla_centro">490</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>15.500</td>
+<td>490</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FTGS 917</td>
-<td class="cuerpo_tabla_centro">16.500</td>
-<td class="cuerpo_tabla_centro">510</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>FTGS 917</td>
+<td>16.500</td>
+<td>510</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">FS 3000</td>
-<td class="cuerpo_tabla_centro">4.080</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,52</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td rowspan="10">FS 3000</td>
+<td>4.080</td>
+<td>124</td>
+<td>0,52</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.320</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,45</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>4.320</td>
+<td>124</td>
+<td>0,45</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.560</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,39</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>4.560</td>
+<td>124</td>
+<td>0,39</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.040</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,66</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>5.040</td>
+<td>124</td>
+<td>0,66</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.280</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>5.280</td>
+<td>124</td>
+<td>0,27</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.520</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,27</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>5.520</td>
+<td>124</td>
+<td>0,27</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.000</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,26</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>6.000</td>
+<td>124</td>
+<td>0,26</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.480</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,25</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>6.480</td>
+<td>124</td>
+<td>0,25</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.720</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,24</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>6.720</td>
+<td>124</td>
+<td>0,24</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.200</td>
-<td class="cuerpo_tabla_centro">124</td>
-<td class="cuerpo_tabla_centro">0,24</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,016</td>
+<td>7.200</td>
+<td>124</td>
+<td>0,24</td>
+<td>**</td>
+<td>0,016</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">
-<p class="cuerpo_tabla_izq">ME-3091</p>
-<p class="cuerpo_tabla_izq">ME-3191</p>
+<td rowspan="9">
+<p>ME-3091</p>
+<p>ME-3191</p>
 </td>
-<td class="cuerpo_tabla_centro">11.000</td>
-<td class="cuerpo_tabla_centro">1.200</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>11.000</td>
+<td>1.200</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.000</td>
-<td class="cuerpo_tabla_centro">1.400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>12.000</td>
+<td>1.400</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.000</td>
-<td class="cuerpo_tabla_centro">1.600</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>13.000</td>
+<td>1.600</td>
+<td>1,5</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.000</td>
-<td class="cuerpo_tabla_centro">1.600</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>14.000</td>
+<td>1.600</td>
+<td>1,2</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.000</td>
-<td class="cuerpo_tabla_centro">1.800</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>15.000</td>
+<td>1.800</td>
+<td>1,2</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.000</td>
-<td class="cuerpo_tabla_centro">2.000</td>
-<td class="cuerpo_tabla_centro">1,2</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>16.000</td>
+<td>2.000</td>
+<td>1,2</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17.000</td>
-<td class="cuerpo_tabla_centro">2.600</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>17.000</td>
+<td>2.600</td>
+<td>1</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18.000</td>
-<td class="cuerpo_tabla_centro">2.800</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>18.000</td>
+<td>2.800</td>
+<td>1</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19.000</td>
-<td class="cuerpo_tabla_centro">3.000</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>19.000</td>
+<td>3.000</td>
+<td>1</td>
+<td>**</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Digicode</td>
-<td class="cuerpo_tabla_centro">2.100</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td rowspan="8">Digicode</td>
+<td>2.100</td>
+<td>400</td>
+<td>2,2</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2.500</td>
+<td>400</td>
+<td>2,2</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.900</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>2.900</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.300</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3.300</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.700</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>3.700</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.100</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>4.100</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>4.500</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.900</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>4.900</td>
+<td>400</td>
+<td>1,5</td>
+<td>-</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">
-<p class="cuerpo_tabla_izq">EbiTrack</p>
-<p class="cuerpo_tabla_izq">200</p>
+<td rowspan="8">
+<p>EbiTrack</p>
+<p>200</p>
 </td>
-<td class="cuerpo_tabla_centro">1.549</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,806</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.549</td>
+<td>12</td>
+<td>0,806</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.699</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,731</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.699</td>
+<td>12</td>
+<td>0,731</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.848</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,753</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.848</td>
+<td>12</td>
+<td>0,753</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.996</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,696</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>1.996</td>
+<td>12</td>
+<td>0,696</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.146</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,498</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.146</td>
+<td>12</td>
+<td>0,498</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.296</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,492</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.296</td>
+<td>12</td>
+<td>0,492</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.445</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,44</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.445</td>
+<td>12</td>
+<td>0,44</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.593</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">0,416</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>2.593</td>
+<td>12</td>
+<td>0,416</td>
+<td>-</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">TCM100</td>
-<td class="cuerpo_tabla_centro">4.750</td>
-<td class="cuerpo_tabla_centro">200</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td rowspan="12">TCM100</td>
+<td>4.750</td>
+<td>200</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.250</td>
-<td class="cuerpo_tabla_centro">206</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.250</td>
+<td>206</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.750</td>
-<td class="cuerpo_tabla_centro">214</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>5.750</td>
+<td>214</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.250</td>
-<td class="cuerpo_tabla_centro">220</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>6.250</td>
+<td>220</td>
+<td>1</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9.500</td>
-<td class="cuerpo_tabla_centro">360</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>9.500</td>
+<td>360</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10.500</td>
-<td class="cuerpo_tabla_centro">380</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>10.500</td>
+<td>380</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11.500</td>
-<td class="cuerpo_tabla_centro">400</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>11.500</td>
+<td>400</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12.500</td>
-<td class="cuerpo_tabla_centro">425</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>12.500</td>
+<td>425</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13.500</td>
-<td class="cuerpo_tabla_centro">445</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>13.500</td>
+<td>445</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14.500</td>
-<td class="cuerpo_tabla_centro">470</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>14.500</td>
+<td>470</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15.500</td>
-<td class="cuerpo_tabla_centro">490</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>15.500</td>
+<td>490</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16.500</td>
-<td class="cuerpo_tabla_centro">510</td>
-<td class="cuerpo_tabla_centro">0,33</td>
-<td class="cuerpo_tabla_centro">**</td>
-<td class="cuerpo_tabla_centro">0,04</td>
+<td>16.500</td>
+<td>510</td>
+<td>0,33</td>
+<td>**</td>
+<td>0,04</td>
 </tr>
 </tbody>
 </table>

@@ -1132,8 +1132,6 @@ i) En los demás supuestos previstos en la normativa reguladora de la subvenció
 
 2\. El interés de demora aplicable en materia de subvenciones será el interés legal del dinero incrementado en un 25 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente.
 
-> Téngase en cuenta que el interés de demora a que se refiere el apartado 2 será el 4,0625 por ciento hasta el 31 de diciembre de 2023, según establece la disposición adicional 42.3 de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
-
 3\. El destino de los reintegros de los fondos de la Unión Europea tendrá el tratamiento que en su caso determine la normativa comunitaria.
 
 4\. Los procedimientos para la exigencia del reintegro de las subvenciones, tendrán siempre carácter administrativo.

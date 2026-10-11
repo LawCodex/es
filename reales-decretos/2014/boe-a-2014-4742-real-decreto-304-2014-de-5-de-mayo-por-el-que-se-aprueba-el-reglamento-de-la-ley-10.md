@@ -280,12 +280,6 @@ En el supuesto de instrumentos jurídicos análogos al fideicomiso anglosajón, 
 
 6\. Para el cumplimiento de la obligación de identificación y comprobación de la identidad de la persona titular real establecida en este artículo, los sujetos obligados deberán acceder a la información que consta al respecto en el Registro Central de Titularidades Reales, sin perjuicio de que a estos exclusivos efectos puedan realizar consultas adicionales a la base de datos de titularidad real del Consejo General del Notariado o a otros registros que puedan recoger la información de titularidad real de las personas jurídicas o entidades inscritas.
 
-> Téngase en cuenta que este apartado 6, modificado por la disposición final 1 del Real Decreto 609/2023, de 11 de julio. [Ref. BOE-A-2023-16159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16159), entra en vigor el 19 de septiembre de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "6. Para el cumplimiento de la obligación de identificación y comprobación de la identidad del titular real establecida en este artículo, los sujetos obligados podrán acceder a la base de datos de titularidad real del Consejo General del Notariado previa celebración del correspondiente acuerdo de formalización, en los términos previstos en el artículo 8 de la Ley 10/2010, de 28 de abril."
-
 > Se modifica el apartado 6 por la disposición final 1 del Real Decreto 609/2023, de 11 de julio. [Ref. BOE-A-2023-16159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16159)
 
 > Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 186, de 1 de agosto de 2014. [Ref. BOE-A-2014-8278](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8278).

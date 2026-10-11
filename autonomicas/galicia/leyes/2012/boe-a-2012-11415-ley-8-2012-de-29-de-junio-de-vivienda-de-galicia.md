@@ -1850,123 +1850,114 @@ a) Alojamientos.
 
 Las superficies mínimas, la distancia mínima entre paramentos y, en su caso, las dimensiones del cuadrado, que ha de poder inscribirse en la pieza, se indican en la siguiente tabla:
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Tabla 1</p>
+<p>Tabla 1</p>
 </caption>
-<colgroup>
-<col width="15%">
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Pieza</th>
-<th class="cabeza_tabla" colspan="4">Superficie mínima (m<sup>2</sup>)</th>
-<th class="cabeza_tabla" rowspan="2">Figura inscribible en el interior (m)</th>
-<th class="cabeza_tabla" rowspan="2">Distancia mín. (m) entre paramentos</th>
+<th rowspan="2">Pieza</th>
+<th colspan="4">Superficie mínima (m<sup>2</sup>)</th>
+<th rowspan="2">Figura inscribible en el interior (m)</th>
+<th rowspan="2">Distancia mín. (m) entre paramentos</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Alojamiento de estancia única</th>
-<th class="cabeza_tabla">Alojamiento de 1 dormitorio</th>
-<th class="cabeza_tabla">Alojamiento de 2 dormitorios T1</th>
-<th class="cabeza_tabla">Alojamiento de 2 dormitorios T2</th>
+<th>Alojamiento de estancia única</th>
+<th>Alojamiento de 1 dormitorio</th>
+<th>Alojamiento de 2 dormitorios T1</th>
+<th>Alojamiento de 2 dormitorios T2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Cocina.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_coma">1,8</td>
+<td>Cocina.</td>
+<td> </td>
+<td>5</td>
+<td>6</td>
+<td>6</td>
+<td>–</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comedor.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Comedor.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cocina-comedor.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Cocina-comedor.</td>
+<td> </td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>–</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-<td class="cuerpo_tabla_coma">2,7</td>
+<td>Estar.</td>
+<td> </td>
+<td>10</td>
+<td>11</td>
+<td>11</td>
+<td>Cuadrado 2,80.</td>
+<td>2,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estar-comedor.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-<td class="cuerpo_tabla_coma">2,7</td>
+<td>Estar-comedor.</td>
+<td> </td>
+<td>13</td>
+<td>14</td>
+<td>14</td>
+<td>Cuadrado 2,80.</td>
+<td>2,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estar-comedor-cocina.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-<td class="cuerpo_tabla_coma">2,7</td>
+<td>Estar-comedor-cocina.</td>
+<td> </td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>Cuadrado 2,80.</td>
+<td>2,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estar, comedor, dormitorio y cocina.</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-<td class="cuerpo_tabla_coma">2,7</td>
+<td>Estar, comedor, dormitorio y cocina.</td>
+<td>26</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Cuadrado 2,80.</td>
+<td>2,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baño.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Baño.</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>–</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dormitorio 1.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Cuadrado 2,60.</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Dormitorio 1.</td>
+<td> </td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>Cuadrado 2,60.</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dormitorio 2.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cuadrado 2,20.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>Dormitorio 2.</td>
+<td> </td>
+<td>–</td>
+<td>6</td>
+<td>8</td>
+<td>Cuadrado 2,20.</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>

@@ -1510,8 +1510,6 @@ En los plenos ordinarios la parte dedicada al control de los demás órganos de 
 
 3\. Se computarán como asistentes en la sesión aquellos miembros de la Corporación, que previamente autorizados, participen telemáticamente.
 
-> Téngase en cuenta que el apartado 3 añadido por el art. 1 de la Ley 12/2022, de 18 de octubre. [Ref. BOE-A-2022-18105](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-18105), entra en vigor el 20 de enero de 2023, según establece su disposición final segunda.
-
 > Se añade el apartado 3, con efectos desde el 20 de enero de 2023, por el art. 1 de la Ley 12/2022, de 18 de octubre. [Ref. BOE-A-2022-18105](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-18105)
 
 ##### Artículo 130 bis. Participación telemática.

@@ -344,58 +344,54 @@ En el caso que la universidad decida no solicitar la simultaneidad de renovacion
 
 En los procesos para elaborar los informes de evaluación, tanto el correspondiente a la autoevaluación del centro como el emitido por el órgano de evaluación externa correspondiente, se comprobará el cumplimiento de los criterios y directrices para el aseguramiento de la calidad en el Espacio Europeo de Educación Superior (ESG), teniendo como referentes los criterios establecidos para la certificación de la implantación del SIGC, análogos a los contemplados para la renovación de la acreditación por títulos.
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Criterios (ESG)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Criterios de referencia</p>
-<p class="cabeza_tabla">(Certificación SIGC)</p>
+<th>Criterios (ESG)</th>
+<th>
+<p>Criterios de referencia</p>
+<p>(Certificación SIGC)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1.1. Política de aseguramiento de la calidad.</td>
-<td class="cuerpo_tabla_izq">Política y objetivos de calidad.</td>
+<td>1.1. Política de aseguramiento de la calidad.</td>
+<td>Política y objetivos de calidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2. Diseño y aprobación de programas.</td>
-<td class="cuerpo_tabla_izq">Garantía de calidad de los programas formativos.</td>
+<td>1.2. Diseño y aprobación de programas.</td>
+<td>Garantía de calidad de los programas formativos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3. Enseñanza, aprendizaje y evaluación centrados en el estudiante.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Orientación de sus enseñanzas al estudiantado.</td>
+<td>1.3. Enseñanza, aprendizaje y evaluación centrados en el estudiante.</td>
+<td rowspan="2">Orientación de sus enseñanzas al estudiantado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.4. Admisión, evolución, reconocimiento y certificación de los estudiantes.</td>
+<td>1.4. Admisión, evolución, reconocimiento y certificación de los estudiantes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.5. Personal docente.</td>
-<td class="cuerpo_tabla_izq">Garantía y mejora de su personal académico y de apoyo a la docencia.</td>
+<td>1.5. Personal docente.</td>
+<td>Garantía y mejora de su personal académico y de apoyo a la docencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.6. Recursos para el aprendizaje y apoyo a los estudiantes.</td>
-<td class="cuerpo_tabla_izq">Garantía y mejora de los recursos materiales y servicios.</td>
+<td>1.6. Recursos para el aprendizaje y apoyo a los estudiantes.</td>
+<td>Garantía y mejora de los recursos materiales y servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.7. Gestión de la información.</td>
-<td class="cuerpo_tabla_izq">Recopilación de la información generada.</td>
+<td>1.7. Gestión de la información.</td>
+<td>Recopilación de la información generada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.8. Información pública.</td>
-<td class="cuerpo_tabla_izq">Transparencia, difusión de actividades y programas y resultados.</td>
+<td>1.8. Información pública.</td>
+<td>Transparencia, difusión de actividades y programas y resultados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">1.9. Seguimiento continuo y evaluación periódica de los programas.</td>
-<td class="cuerpo_tabla_izq">Análisis de la información y resultados.</td>
+<td rowspan="2">1.9. Seguimiento continuo y evaluación periódica de los programas.</td>
+<td>Análisis de la información y resultados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toma de decisiones.</td>
+<td>Toma de decisiones.</td>
 </tr>
 </tbody>
 </table>

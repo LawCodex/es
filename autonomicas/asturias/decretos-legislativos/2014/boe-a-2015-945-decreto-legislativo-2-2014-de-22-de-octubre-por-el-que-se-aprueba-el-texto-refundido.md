@@ -882,8 +882,6 @@ d) Que el adquirente mantenga en su patrimonio la adquisición durante los cinco
 
 4\. Cuando no existan descendientes o adoptados, la reducción regulada en el apartado 1 del presente artículo aplicable a los adquirentes del cuarto grado será del 99 por ciento. En este supuesto, el plazo previsto en la letra d) del apartado 1 será de diez años.
 
-> Téngase en cuenta que el apartado 4, añadido por el art. 39.14 de la Ley 8/2024, de 27 de diciembre, entra en vigor el 1 de enero de 2026, según establece su disposición final 4. [Ref. BOE-A-2025-3124](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3124)
-
 > Se modifica el apartado 1 y, con efectos de 1 de enero de 2026, se añade el 4 por el 39.9 y 14 de la Ley 8/2024, de 27 de diciembre. [Ref. BOE-A-2025-3124](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3124)
 
 > Se modifica por el art. único.3 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804)
@@ -1014,8 +1012,6 @@ f) Que se mantenga el domicilio fiscal de la explotación en el territorio del P
 
 3\. En caso de incumplimiento de los requisitos anteriores, el adquirente beneficiario de esta reducción deberá comunicar tal circunstancia a la oficina liquidadora competente, dentro del plazo de treinta días hábiles desde la fecha en que se produzca el incumplimiento, y pagar la parte del impuesto que se hubiese dejado de ingresar como consecuencia de la reducción practicada, así como los correspondientes intereses de demora.
 
-> Téngase en cuenta que la incorporación de este artículo, establecida por el art. único.8 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804), tiene efectos desde 1 de enero de 2018, según determina la disposición final única.2 de la citada ley.
-
 > Se añade por el art. único.8 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804)
 
 > Esta incorporación tiene efectos desde 1 de enero de 2018, según determina la disposición final única.2 de la citada ley.
@@ -1048,8 +1044,6 @@ h) Que se mantenga la plantilla media de trabajadores respecto al año anterior 
 
 3\. En caso de incumplimiento de los requisitos anteriores, el adquirente beneficiario de esta reducción deberá comunicar tal circunstancia a la oficina liquidadora competente, dentro del plazo de treinta días hábiles desde la fecha en que se produzca el incumplimiento, y pagar la parte del impuesto que se hubiese dejado de ingresar como consecuencia de la reducción practicada, así como los correspondientes intereses de demora.
 
-> Téngase en cuenta que la incorporación de este artículo, establecida por el art. único.9 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804), tiene efectos desde 1 de enero de 2018, según determina la disposición final única.2 de la citada ley.
-
 > Se añade por el art. único.9 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804)
 
 > Esta incorporación tiene efectos desde 1 de enero de 2018, según determina la disposición final única.2 de la citada ley.
@@ -1077,8 +1071,6 @@ g) Que el donatario esté o cause alta en el censo de empresarios, profesionales
 3\. En el caso de dos o más donaciones, provenientes del mismo o de diferentes donantes relacionados en el apartado 1 de este artículo, la base de la reducción será el resultado de sumar el importe de todas ellas, sin que pueda exceder de los límites anteriormente señalados.
 
 4\. En caso de incumplimiento de los requisitos anteriores, el adquirente beneficiario de esta reducción deberá comunicar tal circunstancia a la oficina liquidadora competente, dentro del plazo de treinta días hábiles desde la fecha en que se produzca el incumplimiento, y pagar la parte del impuesto que se hubiese dejado de ingresar como consecuencia de la reducción practicada, así como los correspondientes intereses de demora.
-
-> Téngase en cuenta que la incorporación de este artículo, establecida por el art. único.10 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804), tiene efectos desde 1 de enero de 2018, según determina la disposición final única.2 de la citada ley.
 
 > Se añade por el art. único.10 de la Ley 7/2017, de 30 de junio. [Ref. BOE-A-2017-9804](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9804)
 
@@ -1476,128 +1468,128 @@ Se aplicará un tipo de gravamen del 0,1 por ciento en los documentos notariales
 
 2\. Para los casinos de juego se establece la siguiente tarifa:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Ingresos (euros)</p>
+<p>Ingresos (euros)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Tipo de gravamen</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<p>Tipo de gravamen</p>
+<p>–</p>
+<p>Porcentaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">De</p>
+<p>De</p>
 </td>
 <td>
-<p class="cabeza_tabla">Hasta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.000.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>Hasta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2.000.000,01</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.000.000,00</p>
+<p>2.000.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
+<p>22</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4.000.000,01</p>
+<p>2.000.000,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.000.000,00</p>
+<p>4.000.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49</p>
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.000.000,01</p>
+</td>
+<td>
+<p>6.000.000,00</p>
+</td>
+<td>
+<p>49</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Más de 6.000.000</p>
+<p>Más de 6.000.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 </tr>
 </table>
 
 3\. Los casinos de juego que mantengan su plantilla media durante un mismo año completo como mínimo igual a la plantilla media del primer año de actividad podrán acogerse cada ejercicio a la siguiente tarifa reducida:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Ingresos (euros)</p>
+<p>Ingresos (euros)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Tipo de gravamen</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<p>Tipo de gravamen</p>
+<p>–</p>
+<p>Porcentaje</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">De</p>
+<p>De</p>
 </td>
 <td>
-<p class="cabeza_tabla">Hasta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.000.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>Hasta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2.000.000,01</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.000.000,00</p>
+<p>2.000.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4.000.000,01</p>
+<p>2.000.000,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.000.000,00</p>
+<p>4.000.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.000.000,01</p>
+</td>
+<td>
+<p>6.000.000,00</p>
+</td>
+<td>
+<p>35</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Más de 6.000.000</p>
+<p>Más de 6.000.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 </tr>
 </table>

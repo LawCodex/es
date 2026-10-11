@@ -6318,58 +6318,53 @@ Prueba asociada: «Prueba de progresión en cascada de hielo con técnica fronta
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED–C301 Factores fisiológicos del alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">– Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td>MED–C301 Factores fisiológicos del alto rendimiento.</td>
+<td>– Educación física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED–C302 Factores Psicosociales del alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED–C303 Formación de formadores deportivos.</p>
+<td rowspan="2">
+<p>MED–C302 Factores Psicosociales del alto rendimiento.</p>
+<p>MED–C303 Formación de formadores deportivos.</p>
 </td>
-<td class="cuerpo_tabla_izq">– Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td>– Educación física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED–C304 Organización y gestión aplicada al alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Educación física.</p>
-<p class="cuerpo_tabla_izq">– Formación y organización laboral.</p>
+<td>– Educación física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+</tr>
+<tr>
+<td>MED–C304 Organización y gestión aplicada al alto rendimiento.</td>
+<td>
+<p>– Educación física.</p>
+<p>– Formación y organización laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -6379,83 +6374,78 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de Grado Superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de Grado Superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED–MOAM302 Perfeccionamiento técnico en alta montaña.</p>
-<p class="cuerpo_tabla_izq">MED–MOAM303 Guiado en alta montaña.</p>
-<p class="cuerpo_tabla_izq">MED–MOAM304 Escalada en hielo.</p>
-<p class="cuerpo_tabla_izq">MED–MOAM305 Esquí de montaña.</p>
-<p class="cuerpo_tabla_izq">MED–MOAM306 Preparación física del deportista de alta montaña.</p>
-<p class="cuerpo_tabla_izq">MED–MOAM307 Proyecto final.</p>
+<td rowspan="2">
+<p>MED–MOAM302 Perfeccionamiento técnico en alta montaña.</p>
+<p>MED–MOAM303 Guiado en alta montaña.</p>
+<p>MED–MOAM304 Escalada en hielo.</p>
+<p>MED–MOAM305 Esquí de montaña.</p>
+<p>MED–MOAM306 Preparación física del deportista de alta montaña.</p>
+<p>MED–MOAM307 Proyecto final.</p>
 </td>
-<td class="cuerpo_tabla_izq">– Educación Física con el título de Técnico Deportivo Superior en Alta Montaña.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED–MOAM308 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">– Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td>– Educación Física con el título de Técnico Deportivo Superior en Alta Montaña.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>– Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED–MORO309 Planificación en escalada deportiva.</p>
-<p class="cuerpo_tabla_izq">MED–MORO310 Entrenamiento en escalada.</p>
-<p class="cuerpo_tabla_izq">MED–MORO311 Organización de eventos de escalada.</p>
-<p class="cuerpo_tabla_izq">MED–MORO312 Escuela de escalada.</p>
-<p class="cuerpo_tabla_izq">MED–MORO313 Proyecto final.</p>
-</td>
-<td class="cuerpo_tabla_izq">– Educación Física con el título de Técnico Deportivo Superior en Escalada.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED–MOAM308 Formación práctica.</td>
+<td>– Educación Física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>– Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED–MORO314 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">– Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">
+<p>MED–MORO309 Planificación en escalada deportiva.</p>
+<p>MED–MORO310 Entrenamiento en escalada.</p>
+<p>MED–MORO311 Organización de eventos de escalada.</p>
+<p>MED–MORO312 Escuela de escalada.</p>
+<p>MED–MORO313 Proyecto final.</p>
+</td>
+<td>– Educación Física con el título de Técnico Deportivo Superior en Escalada.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>– Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED–MORO314 Formación práctica.</td>
+<td>– Educación Física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>– Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

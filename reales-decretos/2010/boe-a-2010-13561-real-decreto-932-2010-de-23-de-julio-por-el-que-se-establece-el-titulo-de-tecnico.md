@@ -3917,83 +3917,79 @@ Equipamientos: Ciclo inicial
 |---|---|
 | • Maniquíes de primeros auxilios (adulto y bebe).<br>• Material de inmovilización y movilización.<br>• Material de cura.<br>• Desfibrilador externo semiautomático.<br>• Material deportivo adaptado. | MED-C102- Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th> </th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento Aula Taller</em>
 </p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Equipo General:</p>
-<p class="cuerpo_tabla_izq">Equipo de administración de oxígeno normobárico.</p>
-<p class="cuerpo_tabla_izq">Herramientas adecuadas para el mantenimiento de los equipos.</p>
-<p class="cuerpo_tabla_izq">Repuestos de los elementos desgastables o que pueden sufrir pérdida de los equipos.</p>
-<p class="cuerpo_tabla_izq">Oxímetro.</p>
-<p class="cuerpo_tabla_izq">Manómetros.</p>
-<p class="cuerpo_tabla_izq">Botiquín.</p>
-<p class="cuerpo_tabla_izq">Libros de registro y control de equipos y botellas.</p>
-<p class="cuerpo_tabla_izq">Plan de evacuación y emergencias.</p>
+<td>
+<p>Equipo General:</p>
+<p>Equipo de administración de oxígeno normobárico.</p>
+<p>Herramientas adecuadas para el mantenimiento de los equipos.</p>
+<p>Repuestos de los elementos desgastables o que pueden sufrir pérdida de los equipos.</p>
+<p>Oxímetro.</p>
+<p>Manómetros.</p>
+<p>Botiquín.</p>
+<p>Libros de registro y control de equipos y botellas.</p>
+<p>Plan de evacuación y emergencias.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">MED-ASBD102- Entorno natural del buceo deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD103- Organización de actividades de descubrimiento y conducción de buceo deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD104- Conducción subacuática.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Equipos de buceo por alumno:</p>
-<p class="cuerpo_tabla_izq">Una botella de buceo con capacidad mínima de 12 litros, 2 reguladores, latiguillo para chaleco, manómetro y profundímetro, o bien, 1 regulador con dos segundas etapas, latiguillo para chaleco, manómetro y profundímetro, chaleco hidrostático, cinturón de lastre, gafas de buceo, tubo respirador, un elemento de corte, que pueden ser cuchillo o tijeras, traje de buceo, aletas, boya sumergible con carrete/spool con un mínimo de 20 m de cabo, tablilla/pizarra sumergible, brújula sumergible, linterna sumergible, carrete guía con un mínimo de 50 m de hilo.</p>
+<td rowspan="6">
+<p>MED-ASBD102- Entorno natural del buceo deportivo.</p>
+<p>MED-ASBD103- Organización de actividades de descubrimiento y conducción de buceo deportivo.</p>
+<p>MED-ASBD104- Conducción subacuática.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>Equipos de buceo por alumno:</p>
+<p>Una botella de buceo con capacidad mínima de 12 litros, 2 reguladores, latiguillo para chaleco, manómetro y profundímetro, o bien, 1 regulador con dos segundas etapas, latiguillo para chaleco, manómetro y profundímetro, chaleco hidrostático, cinturón de lastre, gafas de buceo, tubo respirador, un elemento de corte, que pueden ser cuchillo o tijeras, traje de buceo, aletas, boya sumergible con carrete/spool con un mínimo de 20 m de cabo, tablilla/pizarra sumergible, brújula sumergible, linterna sumergible, carrete guía con un mínimo de 50 m de hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Equipamiento Centro de Inmersión</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Almacén de equipos para el alquiler</p>
-<p class="cuerpo_tabla_izq">Estación de carga.</p>
-<p class="cuerpo_tabla_izq">Botellas de gases.</p>
-<p class="cuerpo_tabla_izq">Oxímetro.</p>
-<p class="cuerpo_tabla_izq">Manómetros.</p>
-<p class="cuerpo_tabla_izq">Botiquín.</p>
-<p class="cuerpo_tabla_izq">Herramientas adecuadas para el mantenimiento de los equipos.</p>
-<p class="cuerpo_tabla_izq">Repuestos de los elementos desgastables o que pueden perderse.</p>
+<td>
+<p>Almacén de equipos para el alquiler</p>
+<p>Estación de carga.</p>
+<p>Botellas de gases.</p>
+<p>Oxímetro.</p>
+<p>Manómetros.</p>
+<p>Botiquín.</p>
+<p>Herramientas adecuadas para el mantenimiento de los equipos.</p>
+<p>Repuestos de los elementos desgastables o que pueden perderse.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento embarcación para el transporte de buceadores</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Elementos de señalización y cabos de ascenso-descenso.</p>
-<p class="cuerpo_tabla_izq">Equipo de Comunicaciones.</p>
-<p class="cuerpo_tabla_izq">Botiquín de primeros auxilios.</p>
-<p class="cuerpo_tabla_izq">Equipo de administración de oxígeno normobárico.</p>
-<p class="cuerpo_tabla_izq">Elementos de seguridad para la estiba de los equipos.</p>
+<td>
+<p>Elementos de señalización y cabos de ascenso-descenso.</p>
+<p>Equipo de Comunicaciones.</p>
+<p>Botiquín de primeros auxilios.</p>
+<p>Equipo de administración de oxígeno normobárico.</p>
+<p>Elementos de seguridad para la estiba de los equipos.</p>
 </td>
 </tr>
 </tbody>
@@ -4016,126 +4012,122 @@ Espacios: ciclo final
 |---|---|
 | • Zona de inmersión.<br>Espacio singular para realizar inmersiones de buceo deportivo con profundidades de hasta 30 m ubicado fuera del centro de formación.<br>• Centro de inmersión.<br>Espacio singular para preparar las inmersiones de buceo deportivo que puede estar ubicado fuera del centro de formación y que consta de una estación de carga, vestuarios, almacén de material, oficinas y servicios.<br>• Embarcación despachada debidamente por su correspondiente Capitanía Marítima para el traslado de al menos 10 buceadores.<br>• Aula Taller | MED-ASBD201- Escuela de buceo deportivo.<br>MED-ASBD202- Programación de la formación en el buceo deportivo.<br>MED-ASBD203- Instrucción en el nivel básico del buceo deportivo.<br>MED-ASBD204- Instrucción en el nivel avanzado de buceo deportivo.<br>MED-ASBD205- Seguridad en los cursos de buceo deportivo.<br>MED-ASBD206- Preparación física del buceador deportivo. |
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Equipamientos: Ciclo final</p>
+<p>Equipamientos: Ciclo final</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th> </th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento del aula polivalente</em>
 </p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Equipos audiovisuales. Cañón de proyección.</p>
-<p class="cuerpo_tabla_izq">• PCs instalados en red con conexión a Internet.</p>
-<p class="cuerpo_tabla_izq">• Software específico.</p>
+<td>
+<p>• Equipos audiovisuales. Cañón de proyección.</p>
+<p>• PCs instalados en red con conexión a Internet.</p>
+<p>• Software específico.</p>
 </td>
-<td class="cuerpo_tabla_izq">Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final.</td>
+<td>Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento del gimnasio</em>
 </p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Material deportivo adaptado.</p>
-<p class="cuerpo_tabla_izq">• Material ortopédico.</p>
-<p class="cuerpo_tabla_izq">• Material deportivo.</p>
-<p class="cuerpo_tabla_izq">• Muñecos desmembrados.</p>
-<p class="cuerpo_tabla_izq">• Láminas de anatomía.</p>
-<p class="cuerpo_tabla_izq">• Pulsímetros.</p>
+<td>
+<p>• Material deportivo adaptado.</p>
+<p>• Material ortopédico.</p>
+<p>• Material deportivo.</p>
+<p>• Muñecos desmembrados.</p>
+<p>• Láminas de anatomía.</p>
+<p>• Pulsímetros.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</p>
-<p class="cuerpo_tabla_izq">MED-C202- Bases del entrenamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD206- Preparación física del buceador.deportivo.</p>
+<td>
+<p>MED-C206: Iniciación deportiva para personas con discapacidad.</p>
+<p>MED-C202- Bases del entrenamiento deportivo.</p>
+<p>MED-ASBD206- Preparación física del buceador.deportivo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento Aula Taller</em>
 </p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="7">
-<p class="cuerpo_tabla_izq">MED-ASBD201- Escuela de Buceo Deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD202- Programación de la formación en el buceo deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD203- Instrucción en el nivel básico del buceo deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD204- Instrucción en el nivel avanzado de buceo deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD205- Seguridad en los cursos de buceo deportivo.</p>
+<td rowspan="7">
+<p>MED-ASBD201- Escuela de Buceo Deportivo.</p>
+<p>MED-ASBD202- Programación de la formación en el buceo deportivo.</p>
+<p>MED-ASBD203- Instrucción en el nivel básico del buceo deportivo.</p>
+<p>MED-ASBD204- Instrucción en el nivel avanzado de buceo deportivo.</p>
+<p>MED-ASBD205- Seguridad en los cursos de buceo deportivo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Equipo General:</p>
-<p class="cuerpo_tabla_izq">Equipo de administración de oxígeno normobárico.</p>
-<p class="cuerpo_tabla_izq">Herramientas adecuadas para el mantenimiento de los equipos.</p>
-<p class="cuerpo_tabla_izq">Repuestos de los elementos desgastables o que pueden sufrir pérdida de los equipos.</p>
-<p class="cuerpo_tabla_izq">Oxímetro.</p>
-<p class="cuerpo_tabla_izq">Manómetros.</p>
-<p class="cuerpo_tabla_izq">Botiquín.</p>
-<p class="cuerpo_tabla_izq">Libros de registro y control de equipos y botellas.</p>
-<p class="cuerpo_tabla_izq">Plan de evacuación y emergencias.</p>
+<td>
+<p>Equipo General:</p>
+<p>Equipo de administración de oxígeno normobárico.</p>
+<p>Herramientas adecuadas para el mantenimiento de los equipos.</p>
+<p>Repuestos de los elementos desgastables o que pueden sufrir pérdida de los equipos.</p>
+<p>Oxímetro.</p>
+<p>Manómetros.</p>
+<p>Botiquín.</p>
+<p>Libros de registro y control de equipos y botellas.</p>
+<p>Plan de evacuación y emergencias.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Equipos de buceo por alumno:</p>
-<p class="cuerpo_tabla_izq">Una botella de buceo con capacidad mínima de 12 litros, 2 reguladores, latiguillo para chaleco, manómetro y profundímetro, o bien, 1 regulador con dos segundas etapas, latiguillo para chaleco, manómetro y profundímetro, chaleco hidrostático, cinturón de lastre, gafas de buceo, tubo respirador, un elemento de corte, que pueden ser cuchillo o tijeras, traje de buceo, aletas, boya sumergible con carrete/spool con un mínimo de 20 m de cabo, tablilla/pizarra sumergible, brújula sumergible, linterna sumergible, carrete guía con un mínimo de 50 m de hilo.</p>
+<td>
+<p>Equipos de buceo por alumno:</p>
+<p>Una botella de buceo con capacidad mínima de 12 litros, 2 reguladores, latiguillo para chaleco, manómetro y profundímetro, o bien, 1 regulador con dos segundas etapas, latiguillo para chaleco, manómetro y profundímetro, chaleco hidrostático, cinturón de lastre, gafas de buceo, tubo respirador, un elemento de corte, que pueden ser cuchillo o tijeras, traje de buceo, aletas, boya sumergible con carrete/spool con un mínimo de 20 m de cabo, tablilla/pizarra sumergible, brújula sumergible, linterna sumergible, carrete guía con un mínimo de 50 m de hilo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento Centro de inmersión</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Almacén de equipos para el alquiler.</p>
-<p class="cuerpo_tabla_izq">Estación de carga.</p>
-<p class="cuerpo_tabla_izq">Botellas de gases.</p>
-<p class="cuerpo_tabla_izq">Oxímetro.</p>
-<p class="cuerpo_tabla_izq">Manómetros.</p>
-<p class="cuerpo_tabla_izq">Botiquín.</p>
-<p class="cuerpo_tabla_izq">Herramientas adecuadas para el mantenimiento de los equipos.</p>
-<p class="cuerpo_tabla_izq">Repuestos de los elementos desgastables o que pueden sufrir pérdida de los equipos.</p>
+<td>
+<p>Almacén de equipos para el alquiler.</p>
+<p>Estación de carga.</p>
+<p>Botellas de gases.</p>
+<p>Oxímetro.</p>
+<p>Manómetros.</p>
+<p>Botiquín.</p>
+<p>Herramientas adecuadas para el mantenimiento de los equipos.</p>
+<p>Repuestos de los elementos desgastables o que pueden sufrir pérdida de los equipos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Equipamiento embarcación para el transporte de buceadores</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Elementos de señalización y cabos de ascenso-descenso.</p>
-<p class="cuerpo_tabla_izq">Equipo de Comunicaciones.</p>
-<p class="cuerpo_tabla_izq">Botiquín de primeros auxilios.</p>
-<p class="cuerpo_tabla_izq">Equipo de administración de oxígeno normobárico.</p>
-<p class="cuerpo_tabla_izq">Elementos de seguridad para la estiba de los equipos.</p>
+<td>
+<p>Elementos de señalización y cabos de ascenso-descenso.</p>
+<p>Equipo de Comunicaciones.</p>
+<p>Botiquín de primeros auxilios.</p>
+<p>Equipo de administración de oxígeno normobárico.</p>
+<p>Elementos de seguridad para la estiba de los equipos.</p>
 </td>
 </tr>
 </tbody>
@@ -4323,61 +4315,56 @@ Equipamientos y materiales:
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>–</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101-Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101-Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102- Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102- Primeros auxilios.</td>
+<td>
+<p>Educación física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">• Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104- Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>• Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C104- Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -4536,46 +4523,41 @@ La experiencia docente se acreditará mediante certificado expedido por la Comun
 
 Grado medio
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Ciclo inicial</th>
-<th class="cabeza_tabla">Ciclo final</th>
+<th> </th>
+<th>Ciclo inicial</th>
+<th>Ciclo final</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Módulos bloque común.</td>
-<td class="cuerpo_tabla_izq">MED-C101-Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">MED-C201- Bases del aprendizaje deportivo.</td>
+<td rowspan="4">Módulos bloque común.</td>
+<td>MED-C101-Bases del comportamiento deportivo.</td>
+<td>MED-C201- Bases del aprendizaje deportivo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C102- Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">MED-C202- Bases del entrenamiento deportivo.</td>
+<td>MED-C102- Primeros auxilios.</td>
+<td>MED-C202- Bases del entrenamiento deportivo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="1">MED-C104- Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-C204- Organización y legislación deportiva.</p>
-<p class="cuerpo_tabla_izq">MED-C205. Deporte y género.</p>
+<td>MED-C104- Organización deportiva.</td>
+<td>
+<p>MED-C204- Organización y legislación deportiva.</p>
+<p>MED-C205. Deporte y género.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos bloque específico.</td>
-<td class="cuerpo_tabla_izq">MED-ASBD102- Entorno natural del buceo deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-ASBD201- Escuela de buceo deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-ASBD202- Programación de la formación en el buceo deportivo.</p>
+<td>Módulos bloque específico.</td>
+<td>MED-ASBD102- Entorno natural del buceo deportivo.</td>
+<td>
+<p>MED-ASBD201- Escuela de buceo deportivo.</p>
+<p>MED-ASBD202- Programación de la formación en el buceo deportivo.</p>
 </td>
 </tr>
 </tbody>

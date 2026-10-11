@@ -134,12 +134,6 @@ La demarcación y la planta así establecidas, con criterios plenamente suficien
 
 El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia tienen jurisdicción en toda España.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "El Tribunal Supremo, la Audiencia Nacional, los Juzgados Centrales de Instrucción, los Juzgados Centrales de lo Penal, los Juzgados Centrales de lo Contencioso-administrativo, los Juzgados Centrales de Vigilancia Penitenciaria y el Juzgado Central de Menores tienen jurisdicción en toda España."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 3.1 de la Ley Orgánica 5/2003, de 27 de mayo. [Ref. BOE-A-2003-10614](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10614)
@@ -188,24 +182,6 @@ b) Las Secciones de los Tribunales de Instancia de lo Penal, de lo Contencioso-A
 
 7\. La Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen conocerán, además en segunda instancia y de forma exclusiva de todos aquellos recursos a los que se refiere el artículo 133 del Reglamento (UE) 2017/1001 del Parlamento Europeo y del Consejo, de 14 de junio de 2017, sobre la marca de la Unión Europea, y el Reglamento (CE) núm. 6/2002, del Consejo, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional y a estos solos efectos se denominarán Secciones de Marca de la Unión Europea.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Las Audiencias Provinciales, los Juzgados de lo Penal, los Juzgados de lo Contencioso Administrativo, los Juzgados de lo Social, los Juzgados de Vigilancia Penitenciaria, los Juzgados de Menores y los Juzgados de lo Mercantil tienen jurisdicción en el ámbito territorial de su respectiva provincia.
-
-> 2\. Sin embargo, tienen su jurisdicción limitada a un solo partido judicial, o a varios o, por el contrario, ampliada a varias provincias los juzgados de los órdenes a que se refiere el párrafo anterior en los casos previstos en los anexos VII, VIII, IX, X, XI y XII de esta ley.
-
-> 3\. A efectos de la demarcación judicial, las Ciudades de Ceuta y Melilla quedan integradas en la circunscripción territorial de la Sección Sexta de la Audiencia Provincial de Cádiz, con sede en Ceuta y de la Sección Octava de la Audiencia Provincial de Málaga, con sede en Melilla, respectivamente.
-
-> 4\. Los órganos judiciales que tienen su sede en Ceuta y Melilla tienen la jurisdicción limitada al respectivo partido judicial.
-
-> 5\. En los casos en que el anexo V de esta ley prevea la existencia de Secciones de una Audiencia Provincial fuera de la capital de la provincia, la jurisdicción de dichas Secciones se ejercerá en los partidos judiciales que, según el citado anexo, estén adscritos a las mismas.
-
-> 6\. Los Juzgados de lo Mercantil de Alicante que se especialicen tendrán competencia, además, para conocer, en primera instancia y de forma exclusiva, de todos aquellos litigios que se promuevan al amparo de lo previsto en los Reglamentos n.º 40/94 del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria y 6/2002, del Consejo de la Unión Europa, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia dichos juzgados extenderán su jurisdicción a todo el territorio nacional, y únicamente a estos solos efectos se denominaran Juzgados de Marca Comunitaria.
-
-> 7\. La Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen, conocerán además, en segunda instancia y de forma exclusiva de todos aquellos recursos a los que se refiere el artículo 101 del Reglamento n.º 40/94 del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria y el Reglamento 6/2002, del Consejo de la Unión Europea, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional y a estos solos efectos se denominarán Tribunales de Marca Comunitaria."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por la disposición adicional 11.1 de la Ley Orgánica 19/2003, de 23 de diciembre. [Ref. BOE-A-2003-23644](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23644).
@@ -225,16 +201,6 @@ b) Las Secciones de Instrucción de los Tribunales de Instancia.
 c) Las Secciones Civiles y de Instrucción de los Tribunales de Instancia que constituyan una Sección Única.
 
 d) Las Secciones de Familia, Infancia y Capacidad, las Secciones de Violencia contra la Infancia y la Adolescencia y las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.
-
-> Téngase en cuenta que esta actualizaciónde los apartados 1 y 2, establecida por la disposición final 8.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Los Juzgados de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer tienen jurisdicción en el ámbito territorial de su respectivo partido.
-
-> No obstante lo anterior, y atendidas las circunstancias geográficas, de ubicación y población, podrán crearse Juzgados de Violencia sobre la Mujer que atiendan a más de un partido judicial.
-
-> 2\. Los partidos judiciales tienen el ámbito territorial del municipio o municipios que los integran, conforme se establece en el Anexo I de esta Ley."
 
 3\. La modificación de los límites de los municipios actuales comporta la adaptación automática de la demarcación judicial a la nueva delimitación geográfica.
 
@@ -270,12 +236,6 @@ Los Juzgados de Paz tienen jurisdicción en el término del respectivo municipio
 
 El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia tienen su sede en la villa de Madrid.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.4 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> El Tribunal Supremo, la Audiencia Nacional, los Juzgados Centrales de Instrucción, los Juzgados Centrales de lo Penal, los Juzgados Centrales de lo Contencioso-administrativo, los Juzgados Centrales de Vigilancia Penitenciaria y el Juzgado Central de Menores tienen su sede en la villa de Madrid.
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 3.2 de la Ley Orgánica 5/2003, de 27 de mayo. [Ref. BOE-A-2003-10614](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10614).
@@ -290,16 +250,6 @@ El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia ti
 
 2\. Las Salas de lo Contencioso-Administrativo y de lo Social con jurisdicción limitada a una o varias provincias tienen su sede donde la establece el artículo 2.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.5 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Los Tribunales Superiores de Justicia tienen su sede en la ciudad que indiquen sus respectivos Estatutos de Autonomía y, si no la indicaren, en la ciudad en que la tenga la Audiencia Territorial existente en el momento de la entrada en vigor de la Ley Orgánica del Poder Judicial y, cuando no exista, en la capital de la Comunidad Autónoma.
-
-> 2\. Los Tribunales Superiores de Justicia de Castilla y León y de Andalucía tienen su sede en alguna de las sedes de las Audiencias Territoriales existentes en el momento de la entrada en vigor de la Ley Orgánica del Poder Judicial, según lo establecido por la respectiva Comunidad Autónoma.
-
-> 3\. Las Salas de lo Contencioso-Administrativo y de lo Social con jurisdicción limitada a una o varias provincias tienen su sede donde la establece el artículo 2 de esta Ley."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 8.
@@ -309,16 +259,6 @@ El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia ti
 2\. Las Secciones de las Audiencias Provinciales a que se refiere el apartado 5 del artículo 3, así como las Secciones de lo Penal, las Secciones de lo Contencioso-Administrativo, las Secciones de lo Social, las Secciones de Menores, las Secciones de lo Mercantil, las Secciones de Familia, Infancia y Capacidad, las Secciones de Violencia contra la Infancia y la Adolescencia y las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia con jurisdicción de extensión territorial inferior o superior a la de una provincia tienen su sede en la capital del partido que se señale por ley de la correspondiente comunidad autónoma y toman el nombre del municipio en que aquella esté situada.
 
 3\. La sede de las Secciones de Vigilancia Penitenciaria de los Tribunales de Instancia se establece por el Gobierno, oídos previamente la comunidad autónoma afectada y el Consejo General del Poder Judicial.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.6 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Las Audiencias Provinciales y los Juzgados con jurisdicción provincial tienen su sede en la capital de provincia.
-
-> 2\. Las Secciones de las Audiencias Provinciales a que se refiere el apartado 5 del artículo 3 de esta Ley, así como los Juzgados de lo Penal, los Juzgados de lo Contencioso-administrativo, los Juzgados de lo Social, los Juzgados de Menores, los Juzgados de lo Mercantil y los Juzgados de Violencia sobre la Mujer, con jurisdicción de extensión territorial inferior o superior a la de una provincia, tienen su sede en la capital del partido que se señale por Ley de la correspondiente Comunidad Autónoma y toman el nombre del municipio en que aquélla esté situada.
-
-> 3\. La sede de los Juzgados de Vigilancia Penitenciaria se establece por el Gobierno, oídos previamente la Comunidad Autónoma afectada y el Consejo General del Poder Judicial."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.6 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -336,12 +276,6 @@ El Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia ti
 
 La sede de las Secciones de Familia, Infancia y Capacidad, de las Secciones de Violencia contra la Infancia y la Adolescencia y de las Secciones de Violencia sobre la Mujer que extiendan su jurisdicción a más de un partido judicial se establecerá por el Gobierno, con informe previo de la comunidad autónoma afectada y el Consejo General del Poder Judicial.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.7 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "Los Juzgados de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer tienen su sede en la capital del partido."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.7 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 49 de la Ley Orgánica 1/2004, de 28 de diciembre. [Ref. BOE-A-2004-21760](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21760).
@@ -355,12 +289,6 @@ La sede de las Secciones de Familia, Infancia y Capacidad, de las Secciones de V
 ## TÍTULO II — De la planta judicial
 
 ### CAPÍTULO I — Planta de los Tribunales
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.8 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> **"Planta de los Tribunales y Juzgados**"
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.8 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -408,35 +336,11 @@ d) Las que integran todas las Secciones del Tribunal Central de Instancia.
 
 5\. El Consejo General del Poder Judicial podrá acordar, previo informe de las Salas de Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos en materia de violencia contra la infancia y la adolescencia corresponda a uno de los jueces, juezas, magistrados o magistradas de la Sección de Instrucción, o de Civil y de Instrucción que constituya una Sección Única, determinándose en esta situación que ese juez, jueza, magistrado o magistrada conozca de todos estos asuntos dentro del partido judicial, ya sea de forma exclusiva o conociendo también de otras materias.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.9 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La planta de los Juzgados Centrales de Instrucción, de los Juzgados Centrales de lo Penal, de los Juzgados de lo Penal, de los Juzgados de Primera Instancia, de los Juzgados de Instrucción y de los Juzgados de Primera Instancia e Instrucción es la establecida en los anexos VI y VII de esta Ley.
-
-> 2\. Son servidos por Magistrados los Juzgados de lo Penal, los que tienen su sede en una capital de provincia y los demás Juzgados en que así se establezca en el anexo VI."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.9 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 15. bis
 
 **(Suprimido)**
-
-> Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La planta inicial de los Juzgados de Violencia sobre la Mujer será la establecida en el anexo XIII de esta Ley.
-
-> 2\. La concreción de la planta inicial y la que sea objeto de desarrollo posterior, será realizada mediante Real Decreto de conformidad con lo establecido en el artículo 20 de la presente Ley y se ajustará a los siguientes criterios:
-
-> a) Podrán crearse Juzgados de Violencia sobre la Mujer en aquellos partidos judiciales en los que la carga de trabajo así lo aconseje.
-
-> b) En aquellos partidos judiciales en los que, en atención al volumen de asuntos, no se considere necesario el desarrollo de la planta judicial, se podrán transformar algunos de los Juzgados de Instrucción y de Primera Instancia e Instrucción en funcionamiento en Juzgados de Violencia sobre la Mujer.
-
-> c) Asimismo cuando se considere, en función de la carga de trabajo, que no es precisa la creación de un órgano judicial específico, se determinará, de existir varios, qué Juzgados de Instrucción o de Primera Instancia e Instrucción, asumirán el conocimiento de las materias de violencia sobre la mujer en los términos del artículo 1 de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género con carácter exclusivo junto con el resto de las correspondientes a la jurisdicción penal o civil, según la naturaleza del órgano en cuestión.
-
-> 3\. Serán servidos por Magistrados los Juzgados de Violencia sobre la Mujer que tengan su sede en la capital de la provincia y los demás Juzgados que así se establecen en el anexo XIII de esta Ley."
 
 > Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -446,12 +350,6 @@ d) Las que integran todas las Secciones del Tribunal Central de Instancia.
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "La planta de los Juzgados Centrales de lo Contencioso-administrativo y de los Juzgados de lo Contencioso-administrativo es la establecida en el anexo VIII de esta Ley."
-
 > Sedeja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 3 de la Ley 37/1999, de 28 de octubre. [Ref. BOE-A-1999-21088](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-21088).
@@ -460,25 +358,11 @@ d) Las que integran todas las Secciones del Tribunal Central de Instancia.
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "La planta de los Juzgados de lo Social es la establecida en el anexo IX de esta Ley."
-
 > Se deja sin contenido, desde el 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 18.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La planta de los Juzgados Centrales de Vigilancia Penitenciaria y de los Juzgados de Vigilancia Penitenciaria, en régimen de exclusividad de funciones, o compatibilizando con las del orden de jurisdicción penal, es la establecida en el anexo X de esta ley.
-
-> 2\. Los Juzgados de Vigilancia Penitenciaria son servidos por Magistrados. En el caso del artículo 94.4 de la Ley Orgánica del Poder Judicial, la categoría de sus titulares es la que corresponde a los Juzgados de Primera Instancia e Instrucción en el partido de su sede."
 
 > Se deja sin contenido, desde el 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -488,16 +372,6 @@ d) Las que integran todas las Secciones del Tribunal Central de Instancia.
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La planta del Juzgado Central de Menores y de los Juzgados de Menores es la establecida en el anexo XI de esta Ley.
-
-> 2\. El Juzgado Central de Menores y los Juzgados de Menores deberán ser servidos por Magistrados.
-
-> 3\. La provisión del Juzgado Central de Menores y de los Juzgados de Menores se hace mediante concurso, que se resuelve a favor de quienes acrediten la especialización correspondiente en la Escuela Judicial y tengan mejor puesto en el escalafón y, en su defecto, a favor de los Magistrados con mejor puesto en el escalafón."
-
 > Se deja sin contenido, desde el 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica por el art. 4.3 de la Ley Orgánica 7/2000, de 22 de diciembre. [Ref. BOE-A-2000-23659](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-23659).
@@ -505,34 +379,6 @@ d) Las que integran todas las Secciones del Tribunal Central de Instancia.
 #### Artículo 19 bis.
 
 **(Suprimido)**
-
-> Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La planta inicial de los Juzgados de lo Mercantil es la establecida en el anexo XII de esta ley.
-
-> Para la concreción de esta planta inicial y la que sea objeto de desarrollo posterior, realizado mediante real decreto de conformidad con lo establecido en el artículo 20 de esta ley, se ajustará a los siguientes criterios:
-
-> a) Creación de Juzgados de lo Mercantil.
-
-> 1.o) Podrán crearse Juzgados de lo Mercantil con sede en la capital de la provincia y jurisdicción en toda ella, cuando las cargas de trabajo así lo aconsejen.
-
-> 2.o) Igualmente se podrán establecer Juzgados de lo Mercantil en poblaciones distintas de la capital de la provincia cuando criterios poblacionales, industriales o mercantiles así lo aconsejen, con jurisdicción en uno o varios partidos judiciales.
-
-> b) Transformación de Juzgados de Primera Instancia y de Primera Instancia e Instrucción en Juzgados de lo Mercantil.
-
-> En aquellas provincias donde, en atención al volumen de asuntos no sea necesaria la ampliación de la Planta se transformarán algunos Juzgados de Primera Instancia y de Primera Instancia e Instrucción en Juzgados de lo Mercantil.
-
-> c) Compatibilización, en un mismo Juzgado de las materias mercantiles con el resto de las de la jurisdicción civil.
-
-> En aquellos supuestos en que el volumen de asuntos así lo aconseje se compatibilizarán en un mismo juzgado las materias mercantiles con el resto de las de la jurisdicción civil.
-
-> 2\. Los Juzgados de lo Mercantil son servidos por Magistrados.
-
-> 3\. La provisión de los Juzgados de lo Mercantil se hace mediante concurso, que se resolverá a favor de quienes, acreditando la especialización correspondiente en los asuntos propios de dichos Juzgados obtenida mediante la superación de las pruebas selectivas que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón. En su defecto, se cubrirá con los Magistrados que acrediten haber permanecido más años en el orden jurisdiccional civil.
-
-> A falta de estos, por el orden de antigüedad establecido en el apartado primero del artículo 329 de la Ley Orgánica del Poder Judicial."
 
 > Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.10 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -554,26 +400,6 @@ Por real decreto, a propuesta del Ministro de Justicia, previo informe del Conse
 
 5\. Para el ejercicio de las facultades que se reconocen en los apartados anteriores al Gobierno y al Ministerio de Justicia, será necesaria la previa inclusión de las dotaciones de gastos especificadas en la Ley de Presupuestos Generales del Estado del ejercicio correspondiente.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.11 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. El Gobierno podrá modificar el número y composición de los órganos judiciales establecidos por esta Ley, mediante la creación de Secciones y Juzgados, sin alterar la demarcación judicial, oído el Consejo General del Poder Judicial y, en su caso, la Comunidad Autónoma afectada.
-
-> Por Real Decreto, a propuesta del Ministro de Justicia, previo informe del Consejo General del Poder Judicial y previa audiencia con carácter preceptivo de la Comunidad Autónoma afectada, se podrán transformar Juzgados de una clase en Juzgados de clase distinta de la misma sede, cualquiera que sea su orden jurisdiccional.
-
-> Cuando el juzgado que se transforme esté en funcionamiento y tenga procedimientos pendientes, conservará su competencia sobre éstos hasta su conclusión.
-
-> 2\. En la creación de Secciones y Juzgados se tendrá en cuenta, preferentemente, el volumen de litigiosidad de la circunscripción.
-
-> 3\. El Gobierno, conforme a los mismos requisitos, podrá acordar el aumento de plazas de Magistrados cuando no se estime necesario crear una Sección completa.
-
-> 4\. El Real Decreto de creación de Secciones, Juzgados o plazas de Magistrado dispondrá la modificación que proceda de los Anexos de esta Ley relativos a la planta judicial.
-
-> 5\. La fecha de puesta en funcionamiento e inicio de actividades de las Secciones y Juzgados de nueva creación será fijada por el Ministro de Justicia, oído el Consejo General del Poder Judicial, y publicada en el «Boletín Oficial del Estado».
-
-> 6\. Para el ejercicio de las facultades que se reconocen en los apartados anteriores al Gobierno y al Ministerio de Justicia, será necesaria la previa inclusión de las dotaciones de gastos especificadas en la Ley Presupuestaria del ejercicio correspondiente."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.11 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el apartado 1 por el art. 4 de la Ley 2/1999, de 11 de enero. [Ref. BOE-A-1999-781](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-781).
@@ -590,16 +416,6 @@ Por real decreto, a propuesta del Ministro de Justicia, previo informe del Conse
 
 3\. En los casos previstos en el presente artículo se dispondrá la modificación que proceda de los anexos de esta ley relativos a la planta judicial.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.12 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. El Gobierno, a propuesta del Consejo General del Poder Judicial y con el informe previo de las Comunidades Autónomas con competencias transferidas en materia de justicia, podrá establecer la separación entre Juzgados de Primera Instancia y Juzgados de Instrucción en aquellos partidos judiciales en los que el número de Juzgados de Primera Instancia e Instrucción así lo aconseje.
-
-> 2\. El Ministro de Justicia podrá establecer que los Juzgados de Primera Instancia y de Instrucción o de Primera Instancia e Instrucción y los Juzgados de Violencia sobre la Mujer, sean servidos por Magistrados, siempre que estén radicados en un partido judicial superior a 150.000 habitantes de derecho o experimenten aumentos de población de hecho que superen dicha cifra, y el volumen de cargas competenciales así lo exija.
-
-> 3\. En los casos previstos en el presente artículo se dispondrá la modificación que proceda de los anexos de esta Ley relativos a la planta judicial."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.12 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica el apartado 2 por el art. 51 de la Ley Orgánica 1/2004, de 28 de diciembre. [Ref. BOE-A-2004-21760](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21760).
@@ -607,12 +423,6 @@ Por real decreto, a propuesta del Ministro de Justicia, previo informe del Conse
 > Se modifica el apartado 1 por la disposición adicional segunda de la Ley 38/2002, de 24 de octubre. [Ref. BOE-A-2002-20823](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-20823).
 
 ### CAPÍTULO III — Destinos de carácter técnico o con funciones exclusivas de Presidencia de Tribunales de Instancia o Tribunal Central de Instancia
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.13 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "**Destinos de carácter técnico o con funciones exclusivas de Decanato y de Registro Civil**"
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.13 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -651,14 +461,6 @@ Dichas plazas no incrementarán la relación de puestos de trabajo que tenga apr
 #### Artículo 26.
 
 La liberación total del trabajo en el orden jurisdiccional respectivo, que corresponde a quienes ostenten la Presidencia de los Tribunales de Instancia, a que se refiere el artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, se efectuará en aquellos partidos judiciales que cuenten con cuarenta o más plazas judiciales en el Tribunal de Instancia.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.14 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La liberación total del trabajo, en el orden jurisdiccional respectivo, que corresponde al titular del Decanato de los Juzgados, a que se refiere el artículo 166.3 de la Ley Orgánica del Poder Judicial, se efectuará en aquellos partidos judiciales que cuenten con cuarenta o más Juzgados de los diversos órdenes jurisdiccionales.
-
-> 2\. En las demás circunscripciones en que fuere necesario, el Decanato estará dotado de una oficina independiente para el ejercicio de las funciones que como tal le correspondan."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 8.14 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -784,31 +586,11 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "**Establecimiento de la planta de los Juzgados**"
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 41.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. El Gobierno, en el marco de la Ley de Presupuestos, previo informe del Consejo General del Poder Judicial teniendo en cuenta el desarrollo de los procesos de selección de miembros de la Carrera Judicial y atendiendo a criterios de preferencia según las mayores cargas competenciales y, asimismo, a la concentración urbana, industrial o turística del ámbito territorial de la jurisdicción, procederá de manera escalonada a la constitución, así como la conversión y supresión de Juzgados necesaria para la plena efectividad de la planta prevista en esta Ley, con sujeción a los criterios que se establecen en este artículo y en los siguientes.
-
-> 2\. La constitución de aquellos Juzgados cuya entrada en funcionamiento sea necesaria para la efectividad de los partidos de nueva creación se efectuará dentro de los plazos previstos en el artículo 42 de esta Ley.
-
-> 3\. Los límites geográficos de los actuales partidos judiciales se mantendrán a la entrada en vigor de esta Ley.
-
-> 4\. El ámbito territorial de la jurisdicción de los distintos Juzgados, conforme a la demarcación establecida por esta Ley, tendrá efectividad en la fecha que se determine con arreglo a lo dispuesto en el artículo 42.2.
-
-> 5\. La fecha de entrada en funcionamiento de los Juzgados a que se refiere el presente capítulo se fijará de conformidad con lo dispuesto en el artículo 20.5 de esta Ley."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -816,29 +598,11 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. El Gobierno, en el plazo de seis meses, a partir de la fecha de promulgación de la presente Ley, oído el Consejo General del Poder Judicial, determinará la fecha en que los Juzgados de lo Penal entrarán en funcionamiento mediante Real Decreto con arreglo a la planta inicial que se determine y sin perjuicio de lo dispuesto en el artículo 41.
-
-> 2\. En el plazo de un año, a partir de la fecha de la promulgación de la presente Ley, el Gobierno, oído el Consejo General del Poder Judicial, efectuará la conversión de los actuales Juzgados de Distrito en Juzgados de Primera Instancia, de Instrucción, de Primera Instancia e Instrucción o, en su caso, de Paz, con arreglo a lo dispuesto en la disposición transitoria tercera de la Ley Orgánica del Poder Judicial.
-
-> 3\. Cuando el Consejo General del Poder Judicial haga uso de la facultad prevista en el artículo 98 de la Ley Orgánica del Poder Judicial con ocasión de la conversión de los Juzgados de Distrito en Juzgados de Primera Instancia, de Instrucción o de Primera Instancia e Instrucción, la fecha de producción de efectos del acuerdo podrá ser la de conversión a que se refiere el apartado anterior."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 43.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. En la fecha de entrada en vigor de esta Ley dejarán de ejercer sus funciones las actuales Magistraturas de Trabajo y entrarán en funcionamiento los Juzgados de lo Social, con los correspondientes titulares y funcionarios adscritos a aquéllas.
-
-> 2\. El Gobierno, en el marco de la Ley de Presupuestos, dispondrá, previo informe del Consejo General del Poder Judicial, la constitución de los Juzgados de lo Social que resulte necesaria, hasta completar la planta prevista en esta Ley en el plazo general de programación establecido en el artículo 62."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -846,23 +610,11 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "El Gobierno, en el marco de la Ley de Presupuestos, dispondrá, previo informe del Consejo General del Poder Judicial, la constitución de los distintos Juzgados de lo Contencioso-Administrativo previstos en esta Ley, dentro del plazo general de programación establecido en el artículo 62."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 45.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "El Gobierno, en el marco de la Ley de Presupuestos, previo informe del Consejo General del Poder Judicial, acordará la constitución y determinará la sede de los Juzgados de Vigilancia Penitenciaria necesarios para alcanzar el número total fijado en esta Ley en el plazo general de programación establecido en el artículo 62."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -870,25 +622,11 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. El Gobierno, en el marco de la Ley de Presupuestos acordará la constitución de los distintos Juzgados de Menores, previo informe del Consejo General del Poder Judicial, en el plazo general de programación establecido en el artículo 62.
-
-> 2\. La fecha de entrada en funcionamiento se fijará de acuerdo con lo dispuesto en el artículo 20.5 de esta Ley."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 46 bis.
 
 **(Suprimido)**
-
-> Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "El Gobierno, dentro del marco de la respectiva ley de presupuestos, oído el Consejo General del Poder Judicial, y en su caso la comunidad autónoma afectada, procederá de forma escalonada, mediante Real Decreto, a la constitución, compatibilización y transformación de Juzgados de Primera Instancia y de Juzgados de Primera Instancia e Instrucción para la plena efectividad de la planta correspondiente a los Juzgados de lo Mercantil."
 
 > Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -898,14 +636,6 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Suprimido)**
 
-> Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. El Gobierno, dentro del marco de la Ley de Presupuestos Generales del Estado, oído el Consejo General del Poder Judicial y, en su caso, la Comunidad Autónoma afectada, procederá de forma escalonada y mediante Real Decreto a la constitución, compatibilización y transformación de Juzgados de Instrucción y de Primera Instancia e Instrucción para la plena efectividad de la planta de los Juzgados de Violencia sobre la Mujer.
-
-> 2\. En tanto las Comunidades Autónomas no fijen la sede de los Juzgados de Violencia sobre la Mujer, ésta se entenderá situada en aquellas poblaciones que se establezcan en el anexo XIII de la presente Ley."
-
 > Se suprime, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se añade por el artículo 52 de la Ley Orgánica 1/2004, de 28 de diciembre. [Ref. BOE-A-2004-21760](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21760).
@@ -914,25 +644,11 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "La entrada en funcionamiento del Juzgado o Juzgados de Menores supondrá el cese de los actuales titulares del Tribunal Tutelar de Menores cuyo ámbito territorial se corresponda con el de aquél o aquéllos y la integración del resto del personal en el Juzgado o Juzgados constituidos."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 48.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. En la fecha de entrada en vigor de esta Ley quedará suprimido y cesará en el ejercicio de su competencia el Tribunal de Apelación de los Tribunales Tutelares de Menores.
-
-> 2\. El personal que preste servicios en el Tribunal de Apelación será destinado a los órganos judiciales de Madrid que tengan competencia en materia de menores, en régimen de titularidad de la plaza o, en su defecto, de adscripción con ocupación automática de la primera vacante."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -946,45 +662,17 @@ El Consejo General del Poder Judicial, una vez hayan iniciado el ejercicio de su
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. La Secretaría de los Juzgados de Paz de poblaciones de más de 7.000 habitantes y la de aquellos otros Juzgados de Paz o Agrupaciones de Secretarías de los mismos en los que la carga de trabajo lo justifique, será desempeñada por un Oficial al servicio de la Administración de Justicia, conforme se determinen en la plantilla del Cuerpo.
-
-> 2\. La Orden de plantilla determinará las agrupaciones a que se refiere el artículo 99.2 de la Ley Orgánica del Poder Judicial.
-
-> 3\. En los demás Juzgados de Paz, el Ayuntamiento nombrará una persona idónea para el desempeño de la Secretaría y lo comunicará al Ministerio de Justicia para su aprobación.
-
-> 4\. Con sujeción al régimen local, las Comunidades Autónomas y los Ayuntamientos podrán promover y efectuar Agrupaciones de Secretarías para que sean servidas por un solo funcionario."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 51.
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. En los Juzgados de Paz se prestará servicio por personal dependiente del Ayuntamiento, sin perjuicio de la normativa aplicable al ejercicio de su función.
-
-> 2\. No obstante, en los Juzgados de Paz de poblaciones de más de 7.000 habitantes y en aquellos otros Juzgados de Paz en los que la carga de trabajo lo justifique prestarán servicio funcionarios de los Cuerpos al servicio de la Administración de Justicia, con arreglo a las plazas que se prevean en la plantilla de dichos Cuerpos.
-
-> 3\. Las instalaciones y medios instrumentales del Juzgado de Paz, salvo cuando fuere conveniente su gestión total o parcial por el Ministerio de Justicia o la Comunidad Autónoma respectiva, estarán a cargo del Ayuntamiento respectivo."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 52.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "En los Presupuestos Generales del Estado se establecerá un crédito para subvencionar a los Ayuntamientos por la atención de los conceptos a que se refieren los dos artículos anteriores. La subvención se modulará en función del numero de habitantes de derecho del municipio."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -1016,27 +704,11 @@ Los Magistrados de la Sala de lo Civil y Penal del Tribunal Superior de Justicia
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Las Audiencias Provinciales de Albacete, Asturias, Ávila, Baleares, Barcelona, Burgos, Cáceres, Cantabria, A Coruña, Granada, Guadalajara, Guipúzcoa, Madrid, Murcia, Las Palmas, Navarra, La Rioja, Santa Cruz de Tenerife, Segovia, Sevilla, Toledo, Valencia, Valladolid, Vizcaya y Zaragoza asumirán plena competencia en el orden civil a partir del día de la entrada en vigor de la presente Ley.
-
-> 2\. Las restantes Audiencias Provinciales conservarán las atribuciones de orden civil que les corresponden en el momento de la entrada en vigor de esta Ley. En el plazo de un año a partir de su vigencia, el Gobierno dispondrá lo pertinente para que todas las Audiencias Provinciales asuman la plenitud de competencias en el orden civil.
-
-> 3\. En tanto no asuman la plenitud de su competencia en el orden civil las Audiencias Provinciales a que se refiere el párrafo anterior, la competencia no asumida será ejercida por la Audiencia Provincial radicada en la localidad donde a la entrada en vigor de esta Ley existía Sala de lo Civil de la Audiencia Territorial."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 57.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia tendrán la competencia que a la entrada en vigor de esta Ley corresponde a las Salas de lo Contencioso-Administrativo de las Audiencias Territoriales, en tanto no se pongan en funcionamiento los Juzgados de lo Contencioso-Administrativo."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -1052,43 +724,17 @@ Los Magistrados de la Sala de lo Civil y Penal del Tribunal Superior de Justicia
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. En tanto no se regulen los procesos especiales de impugnación de convenios colectivos y los procesos sobre conflictos colectivos a que se refiere el artículo 67 de la Ley Orgánica del Poder Judicial, la Sala de lo Social de la Audiencia Nacional conocerá de los recursos de suplicación que se interpongan contra las sentencias dictadas por los Juzgados de lo Social en tales materias, con arreglo a la legislación vigente, siempre que el ámbito territorial de aplicación del convenio colectivo o en el que hayan de surtir efecto la resolución del conflicto colectivo sea superior al de una Comunidad Autónoma.
-
-> 2\. Las Salas de lo Social de los Tribunales Superiores de Justicia entenderán de los recursos interpuestos contra resoluciones de los Juzgados de lo Social en el ámbito de la Comunidad Autónoma, de los que en el momento de la entrada en vigor de esta Ley conoce el Tribunal Central de Trabajo, salvo los previstos en el apartado anterior.
-
-> 3\. En tanto no hubiesen iniciado el ejercicio de su competencia las Salas de lo Social de los Tribunales Superiores de Justicia respectivos, el conocimiento de los recursos previstos en el apartado anterior seguirá correspondiendo al Tribunal Central de Trabajo.
-
-> 4\. Las cuestiones de competencia entre la Sala de lo Social de la Audiencia Nacional y el Tribunal Central de Trabajo o las Salas de lo Social de los Tribunales Superiores de Justicia se resolverán con arreglo a lo dispuesto en el artículo 51 de la Ley Orgánica del Poder Judicial."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 60.
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "Los Juzgados de lo Social conocerán de todos los asuntos atribuidos a las Magistraturas de Trabajo en el momento de la entrada en vigor de esta Ley, en tanto no se promulgue la Ley Reguladora del proceso laboral."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 #### Artículo 61.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Los Juzgados de Menores tendrán la competencia establecida en la legislación reguladora de la responsabilidad penal de los menores.
-
-> 2\. Las Audiencias Provinciales conocerán de los recursos interpuestos contra las resoluciones de los Juzgados de Menores en el ámbito de su respectiva provincia, sin perjuicio de lo dispuesto en la legislación reguladora de la responsabilidad penal de los menores para la Audiencia Nacional."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -1100,14 +746,6 @@ Los Magistrados de la Sala de lo Civil y Penal del Tribunal Superior de Justicia
 
 **(Sin contenido)**
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "El Gobierno elaborará los programas necesarios para la aplicación efectiva de la nueva planta judicial, en el período comprendido entre 1989 y 1992. Corresponderá al Ministerio de Justicia su desarrollo y ejecución.
-
-> No obstante lo dispuesto en el apartado anterior, el Gobierno, previo informe del Consejo General del Poder Judicial, podrá acordar la extensión de los mencionados programas durante los años 1993 y 1994."
-
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se añade el párrafo segundo por la disposición adicional cuarta de la Ley 31/1991, de 30 de diciembre. [Ref. BOE-A-1991-30903](https://www.boe.es/buscar/doc.php?id=BOE-A-1991-30903).
@@ -1115,12 +753,6 @@ Los Magistrados de la Sala de lo Civil y Penal del Tribunal Superior de Justicia
 #### Artículo 63.
 
 **(Sin contenido)**
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "Para la determinación de los créditos a que se refiere el artículo anterior, el Gobierno elaborará anualmente los programas necesarios, de acuerdo con los criterios objetivos de prioridades a que se refieren los artículos 32, 39, 41, 43.2, 44, 45 y 46 de la presente Ley. El Ministerio de Justicia presentará, a tal efecto, Memoria de las realizaciones llevadas a cabo."
 
 > Se deja sin contenido, con efectos de 3 de abril de 2025, por la disposición final 8.15 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

@@ -78,8 +78,6 @@ Las explotaciones de ganado porcino se clasifican en tres tipos:
 
 3\. Tipo 3: resto de explotaciones.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.1 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según establece su disposición final única.
-
 > Se añade, con efectos de 9 de marzo de 2026, por el art. único.1 del Real Decreto 809/2025, de 16 de septiembre. [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205)
 
 ### Artículo 3. Condiciones de cría en las explotaciones de cerdos.
@@ -125,22 +123,6 @@ c) Para las explotaciones tipo 3:
 | Entre 85 y 110. | 0,74 |
 | Entre 110 y 130. | 1,00 |
 | Más de 130. | 1,30 |
-
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por el art. único.2 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según determina su disposición final única, y su redacción anterior, establecida por la disposición final 4.4 del Real Decreto 159/2023, de 7 de marzo, [Ref. BOE-A-2023-6083](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6083), ha sido declarada nula por Sentencia del TS de 3 de noviembre de 2025. [Ref. BOE-A-2025-23549](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23549)
-
-> Redacción original:
-
-> "1. La superficie de suelo libre de la que deberá disponer cada cochinillo destetado o cerdo de producción criado en grupo, excluidas las cerdas y las cerdas jóvenes después de la cubrición, será, al menos, de:
-
-> | Peso en vivo (en kilogramos) | Metros cuadrados |
-> |---|---|
-> | Hasta 10 | 0,15 |
-> | Entre 10 y 20 | 0,20 |
-> | Entre 20 y 30 | 0,30 |
-> | Entre 30 y 50 | 0,40 |
-> | Entre 50 y 85 | 0,55 |
-> | Entre 85 y 110 | 0,65 |
-> | Más de 110 | 1,00" |
 
 2\. La superficie total de suelo libre de la que deberá disponer cada cerda, o cada cerda joven después de la cubrición, cuando se críen en un grupo, será, al menos, de 2,25 metros cuadrados y 1,64 metros cuadrados, respectivamente. Cuando dichos animales se críen en grupos inferiores a seis individuos, la superficie de suelo libre se incrementará en un 10 por 100. Cuando los animales se críen en grupos de 40 individuos o más, la superficie de suelo libre se podrá disminuir un 10 por 100.
 
@@ -228,8 +210,6 @@ Requisito e: disponer de puntos de alimentación y bebida superior en al menos u
 
 4\. Las autoridades competentes establecerán el sistema de registro de dichas declaraciones y asimismo el correspondiente sistema de control de éstas que deberá alcanzar un mínimo del 3 % de estas explotaciones, anualmente. A la vista de los resultados de dichos controles, la autoridad competente podrá determinar una reducción de dicho porcentaje, hasta un mínimo del 1 %.
 
-> Téngase en cuenta que este artículo, añadido por el art. único.3 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según establece su disposición final única.
-
 > Se añade, con efectos de 9 de marzo de 2026, por el art. único.3 del Real Decreto 809/2025, de 16 de septiembre. [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205)
 
 ### Artículo 4. Control.
@@ -273,14 +253,6 @@ Los órganos competentes de las comunidades autónomas y de las ciudades de Ceut
 ### Artículo 8. Incumplimientos y sanciones.
 
 En caso de incumplimiento de lo dispuesto en el presente real decreto, será de aplicación el régimen de infracciones y sanciones establecido en la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, en la Ley 8/2003, de 24 de abril, de sanidad animal, y en la normativa autonómica de aplicación, sin perjuicio de las posibles responsabilidades civiles, penales o de otro orden que puedan concurrir.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. único.4 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "**Artículo 8. Incumplimientos y sanciones.**
-
-> En caso de incumplimiento de lo dispuesto en el presente real decreto, será de aplicación el régimen de infracciones y sanciones establecido en la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio y en la normativa autonómica de aplicación, sin perjuicio de las posibles responsabilidades civiles, penales o de otro orden que puedan concurrir."
 
 > Se modifica, con efectos de 9 de marzo de 2026, por el art. único.4 del Real Decreto 809/2025, de 16 de septiembre. [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205)
 
@@ -400,14 +372,6 @@ El titular debe disponer de registros de control mensual que constaten que no se
 
 En aquellas explotaciones en que se disponga de plan de bienestar animal, los rangos mencionados, estarán establecidos en su plan de bienestar animal.
 
-> Téngase en cuenta que esta actualización del punto 2 bis, establecida por la disposición final 3 del Real Decreto 346/2025, de 22 de abril, [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160), entra en vigor el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "2 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM los recintos de los edificios en los que se alojen los animales deben disponer de los sistemas adecuados como ventiladores, calefacción, aire acondicionado, ventilación natural o forzada u otros que permitan mantener los mismos los rangos de temperatura establecidos en su plan de bienestar animal para prevenir el estrés térmico para los cerdos.
-
-> Se aplicarán medidas correctoras en el caso de que los valores de temperatura en el interior de los recintos excedan de los rangos de temperatura establecidos en su plan de bienestar animal."
-
 3\. Los locales de estabulación para los cerdos se construirán de forma que se minimice el contacto de los cerdos con la orina o el estiércol y que los animales puedan:
 
 a) Tener acceso a un área de reposo, confortable, desde el punto de vista físico y térmico, adecuadamente drenada y limpia, que permita que todos los animales se tumben al mismo tiempo.
@@ -417,12 +381,6 @@ b) Descansar y levantarse normalmente,
 c) Ver otros cerdos; sin embargo, en la semana anterior al momento previsto del parto y durante el mismo, las cerdas y las cerdas jóvenes podrán mantenerse fuera de la vista de los animales de su misma especie.
 
 3 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM, al menos el 2,5 % de las plazas destinadas al alojamiento en grupo de los animales de la explotación, en función de la incidencia de patologías u otras circunstancias de la misma, debe destinarse a zonas o espacios específicos y exclusivos para la observación y aislamiento de los animales que, por razones sanitarias o de bienestar animal, deban ser apartados del resto.
-
-> Téngase en cuenta que esta última actualización del párrafo primero del punto 3 bis, establecida por el art. único.5.1 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "3 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM, al menos el 2,5 % de las plazas de la capacidad total de la explotación, en función de la incidencia de patologías u otras circunstancias de la misma, debe destinarse a zonas o espacios específicos y exclusivos para la observación y aislamiento de los animales que, por razones sanitarias o de bienestar animal deban ser apartados del resto."
 
 Las zonas o espacios específicos mencionados en el párrafo anterior deben ofrecer a los animales, salvo indicación veterinaria expresa, raciones de pienso adaptado a las circunstancias de los animales alojados y cama seca y confortable, como paja o serrín.
 
@@ -448,18 +406,6 @@ a) Cuando los cerdos se alimenten a voluntad dispondrán de al menos un punto de
 
 b) Cuando los cerdos se alimenten en grupos y no a voluntad, o mediante un sistema automático de alimentación individual, cada cerdo tendrá acceso al alimento al mismo tiempo que los demás animales del grupo. En particular, cuando se alimenten en comederos lineales debe disponerse de 18 cm por cerdo destetado de hasta 25 kg de peso vivo, de 25 cm por cerdo de hasta 50 kg de peso vivo, y de 30 cm por cerdo de más de 50 kg de peso vivo.
 
-> Téngase en cuenta que esta última actualización del punto 6, establecida por el art. único.5.2 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "6. Se alimentará a todos los cerdos, al menos, una vez al día. En explotaciones con una capacidad autorizada superior a 5,1 UGM:
-
-> a) Cuando los cerdos se alimenten a voluntad dispondrán de al menos un punto de alimentación por cada veinte animales, o por cada cinco animales si son lechones destetados de hasta 25 kg de peso vivo.
-
-> b) Cuando los cerdos se alimenten en grupos y no a voluntad, o mediante un sistema automático de alimentación individual, cada cerdo tendrá acceso al alimento al mismo tiempo que los demás animales del grupo.
-
-> c) Cuando se alimenten en comederos lineales debe disponerse de 18 cm por cerdo destetado de hasta 25 kg de peso vivo, de 25 cm por cerdo de hasta 50 kg de peso vivo, y de 30 cm por cerdo de más de 50 kg de peso vivo."
-
 7\. Todos los cerdos de más de dos semanas de edad, independientemente de su sistema de alimentación, tendrán acceso permanente a una cantidad suficiente de agua de calidad adecuada y limpia.
 
 En los grupos de animales debe disponerse de un punto de bebida, a una altura adecuada a la del animal, por cada doce cerdos. En el caso de que la alimentación de los animales sea líquida o húmeda, el número de puntos de bebida puede reducirse en un 50 %.
@@ -479,24 +425,6 @@ d) El anillado del hocico únicamente cuando los animales se mantengan en sistem
 El raboteo y la reducción de las puntas de los dientes no deberán ejecutarse por rutina sino únicamente cuando se disponga de una comunicación del resultado de los controles realizados en matadero según lo dispuesto en el artículo 4.4, o existan pruebas documentales con el contenido mínimo que se indica en el anexo II de que se han producido lesiones de las tetillas de las cerdas o las orejas o rabos de otros cerdos en el año anterior a la propuesta de raboteo realizada por el profesional veterinario de explotación o si no se dispone del mismo, de un profesional veterinario. Antes de su ejecución, se adoptarán medidas para prevenir la caudofagia y otros vicios teniendo en cuenta las condiciones ambientales y la carga ganadera. Por esta razón, las condiciones ambientales o los sistemas de gestión deberán modificarse si resultan inadecuados. Dicha modificación debe reflejarse documentalmente, con el contenido mínimo que se indica en el anexo III. En caso de demostrarse necesario realizar dichos procedimientos, se debe dejar constancia de la fecha, número de animales, edad de estos e identificación de la persona que lo realiza.
 
 Solamente un profesional veterinario o una persona formada, tal como se contempla en el artículo 5 de este real decreto, con experiencia en la ejecución de las técnicas aplicadas, podrá realizar con los medios adecuados y en condiciones higiénicas cualquiera de los procedimientos descritos anteriormente. En caso de que la castración o el raboteo se realicen a partir del séptimo día de vida se llevarán a cabo únicamente mediante una anestesia y una analgesia prolongada practicada por un profesional veterinario.
-
-> Téngase en cuenta que esta actualización del punto 8, establecida por la disposición final 3 del Real Decreto 346/2025, de 22 de abril, [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160), entra en vigor el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "8. Se prohibirán todos los procedimientos no debidos a motivos terapéuticos o de diagnóstico, o destinados a la identificación de los cerdos de conformidad con la normativa pertinente y que provoquen lesiones o la pérdida de una parte sensible del cuerpo o la alteración de la estructura ósea, con las excepciones siguientes, a propuesta motivada del veterinario de explotación y previa comunicación a la autoridad competente:
-
-> a) Una reducción uniforme de las puntas de los dientes de los lechones mediante el pulido o sección parcial, antes de que superen los siete días de vida, dejando una superficie lisa intacta; en caso necesario puede reducirse la longitud de los colmillos de los verracos para evitar lesiones a otros animales o por razones de seguridad.
-
-> b) El raboteo parcial. La longitud de cola residual debe, como mínimo, cubrir la vulva en las hembras y el esfínter anal en los machos.
-
-> c) La castración de los cerdos macho por medios que no sean el desgarre de tejidos.
-
-> d) El anillado del hocico únicamente cuando los animales se mantengan en sistemas de cría al aire libre y de acuerdo con la normativa nacional.
-
-> El raboteo y la reducción de las puntas de los dientes no deberán ejecutarse por rutina sino únicamente cuando se disponga de una comunicación del resultado de los controles realizados en matadero según lo dispuesto en el artículo 4.4, o existan pruebas documentales con el contenido mínimo que se indica en el anexo II de que se han producido lesiones de las tetillas de las cerdas o las orejas o rabos de otros cerdos en el año anterior a la propuesta de raboteo realizada por el del veterinario de explotación. Antes de su ejecución, se adoptarán medidas para prevenir la caudofagia y otros vicios teniendo en cuenta las condiciones ambientales y la carga ganadera. Por esta razón, las condiciones ambientales o los sistemas de gestión deberán modificarse si resultan inadecuados. Dicha modificación debe reflejarse documentalmente, con el contenido mínimo que se indica en el anexo III. En caso de demostrarse necesario realizar dichos procedimientos, se debe dejar constancia de la fecha, número de animales, edad de los mismos e identificación de la persona que lo realiza.
-
-> Solamente un veterinario o una persona formada, tal como se contempla en el artículo 5 de este real decreto, con experiencia en la ejecución de las técnicas aplicadas, podrá realizar con los medios adecuados y en condiciones higiénicas cualquiera de los procedimientos descritos anteriormente. En caso de que la castración o el raboteo se realicen a partir del séptimo día de vida se llevarán a cabo únicamente mediante una anestesia y una analgesia prolongada practicada por personal veterinario."
 
 9\. No deberán introducirse en las explotaciones animales raboteados a menos que:
 
@@ -599,7 +527,5 @@ b) Se contará el número de cerdos que están interactuando con otros cerdos y 
 c) Se calculará X, que es la actividad exploratoria, de acuerdo con la siguiente fórmula: X=100 A /(A+B).
 
 d) El resultado de estos cálculos será superior 86,4 %.
-
-> Téngase en cuenta que este anexo IV, añadido por el art. único.6 del Real Decreto 809/2025, de 16 de septiembre, [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205), entra en vigor el 9 de marzo de 2026, según establece su disposición final única.
 
 > Se añade, con efectos de 9 de marzo de 2026, por el art. único.6 del Real Decreto 809/2025, de 16 de septiembre. [Ref. BOE-A-2025-20205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20205)

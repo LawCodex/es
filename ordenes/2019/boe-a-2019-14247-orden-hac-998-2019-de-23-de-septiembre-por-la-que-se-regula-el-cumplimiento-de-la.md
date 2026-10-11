@@ -1,0 +1,1139 @@
+---
+title: "Orden HAC/998/2019, de 23 de septiembre, por la que se regula el cumplimiento de la obligación de llevanza de la contabilidad de los productos objeto de los Impuestos Especiales de Fabricación"
+identifier: "BOE-A-2019-14247"
+eli: "https://www.boe.es/eli/es/o/2019/09/23/hac998"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2019-09-23
+published: 2019-10-05
+in_force_from: 2020-01-01
+last_amended: 2025-01-31
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 240"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-14247"
+retrieved: 2026-10-11
+---
+
+# Orden HAC/998/2019, de 23 de septiembre, por la que se regula el cumplimiento de la obligación de llevanza de la contabilidad de los productos objeto de los Impuestos Especiales de Fabricación
+
+El artículo 50 del Reglamento del Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio, modificado por el artículo cuarto del Real Decreto 1512/2018, de 28 de diciembre, dispone que los establecimientos afectados por la normativa de los Impuestos Especiales de Fabricación deberán llevar una contabilidad de los productos objeto de dichos impuestos, así como, en su caso, de las materias primas necesarias para obtenerlos.
+
+El cumplimiento de la obligación de llevanza de la contabilidad se realizará mediante los libros contables, y con arreglo a los plazos y contenido que establezca el Ministro de Hacienda.
+
+Conforme a lo previsto en el citado artículo, en el caso de fábricas, depósitos fiscales, depósitos de recepción, almacenes fiscales y fábricas de vinagre, el cumplimiento de la obligación de llevanza de la contabilidad de los Impuestos Especiales se realizará mediante un sistema contable en soporte informático, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, con el suministro electrónico de los asientos contables en la referida Sede.
+
+No obstante, la oficina gestora podrá autorizar, a solicitud de los interesados, que los elaboradores de vino y bebidas fermentadas cuyo volumen de producción anual, computando la de todos los establecimientos de que sean titulares, no sea superior a 100.000 litros y los destiladores artesanales, cumplimenten la contabilidad mediante la utilización de libros foliados en soporte papel.
+
+Los demás establecimientos afectados por la normativa de los Impuestos Especiales de Fabricación estarán obligados al cumplimiento de la obligación de llevanza de contabilidad mediante un sistema contable en soporte informático o mediante libros foliados en soporte papel. Estos establecimientos no están obligados a la llevanza de la contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria salvo que opten por su llevanza a través de la referida Sede.
+
+A fin de facilitar el cumplimiento de las obligaciones establecidas en esta orden, y reducir las cargas administrativas para los establecimientos autorizados como elaboradores de vino y bebidas fermentadas, se han tenido en consideración las obligaciones previstas en el Real Decreto 739/2015, de 31 de julio, sobre declaraciones obligatorias del sector vitivinícola.
+
+El suministro electrónico de los asientos contables, podrá realizarse a través de servicios web o utilizando el formulario electrónico publicado en la Sede electrónica de la Agencia Estatal de Administración Tributaria, todo ello conforme al procedimiento y en los plazos y condiciones que se aprueben por el Ministro de Hacienda.
+
+Por otra parte, el Real Decreto 1075/2017, de 29 de diciembre, por el que se modifican el Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, el Reglamento del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto 828/1995, de 29 de mayo, el Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, el Reglamento del Impuesto sobre los Gases Fluorados de Efecto Invernadero, aprobado por el Real Decreto 1042/2013, de 27 de diciembre, el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, el Real Decreto 3485/2000, de 29 de diciembre, sobre franquicias y exenciones en régimen diplomático, consular y de organismos internacionales y de modificación del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, y el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, modificó el artículo 44.5 del Reglamento de los Impuestos Especiales, para exonerar a todos aquellos obligados tributarios que deban cumplir con este nuevo sistema de llevanza de la contabilidad, de la obligación de presentar las declaraciones de operaciones.
+
+Este nuevo sistema de llevanza de la contabilidad permitirá a la Agencia Estatal de Administración Tributaria disponer de información suficiente y de calidad para facilitar el control y la prevención del fraude fiscal, objetivos prioritarios, y proporcionará a los contribuyentes una herramienta de asistencia en el cumplimiento de sus obligaciones. Asimismo, el nuevo sistema conlleva la implantación, en el ámbito contable, de todas las novedades tecnológicas que van a suponer una mayor facilidad en la cumplimentación y transmisión de la información a la Administración por vía electrónica.
+
+Por otra parte, implicará mayor seguridad jurídica para todos los operadores económicos obligados, al definirse en la presente orden el contenido de los asientos que deberán ser objeto de suministro a la Administración Tributaria.
+
+Finalmente, el Real Decreto 1512/2018, de 28 de diciembre, establece que, con efectos desde el 1 de enero de 2020, las obligaciones contables previstas en los artículos 3,11, 12, 13, 53, 55, 56.2, 56 bis, 60, 66, 71, 74, 75, 75 bis, 75 ter, 76, 77, 85, 87, 88, 96, 101, 103, 105, 106, 110, 115, 126 y 129 del Reglamento de los Impuestos Especiales se cumplimentarán mediante los libros contables y en los términos que se establezcan por el Ministro de Hacienda.
+
+En cumplimiento de lo anterior, se procede en esta orden a determinar condiciones, plazos y procedimientos relativos a la llevanza de la contabilidad de los productos objeto de los Impuestos Especiales, así como las especificaciones normativas y técnicas para el suministro a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria de los asientos contables.
+
+Por lo que se refiere a la habilitación normativa, con carácter general, el artículo 98.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, atribuye competencias al Ministro de Hacienda para determinar los supuestos y condiciones en los que los obligados tributarios deberán presentar por medios telemáticos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualesquiera otros documentos con trascendencia tributaria. Por su parte, el artículo 50 del Reglamento de los Impuestos Especiales dispone que el cumplimiento de la obligación de llevanza de la contabilidad de los Impuestos Especiales se realizará mediante los libros contables, y con arreglo a los plazos y contenido que establezca el Ministro de Hacienda.
+
+El ejercicio de la potestad reglamentaria desarrollada mediante esta orden se ajusta a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+La habilitación al Ministro de Hacienda recogida en esta orden y en el Reglamento de los Impuestos Especiales debe entenderse realizada a la Ministra de Hacienda de acuerdo con la nueva estructura ministerial establecida por el Real Decreto 355/2018, de 6 de junio, por el que se reestructuran los departamentos ministeriales.
+
+En su virtud, dispongo:
+
+## TÍTULO PRELIMINAR — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+1\. La presente orden tiene por objeto la regulación de las condiciones, plazos y procedimientos relativos a la llevanza de la contabilidad de los productos objeto de los Impuestos Especiales de fabricación, y en su caso, de las materias primas necesarias para obtenerlos.
+
+2\. La contabilidad de los productos objeto de los Impuestos Especiales de fabricación deberá reflejar la imagen fiel de la realidad física de las cantidades de productos objeto de los Impuestos Especiales de fabricación y, en su caso, de materias primas necesarias para su obtención que hayan sido recibidos, expedidos, empleados, autoconsumidos, fabricados, obtenidos y almacenados en cada momento en el establecimiento. Lo anterior debe entenderse sin perjuicio de los plazos de suministro y de registro de los asientos contables previstos en los artículos 5 y 6 de esta orden y de la regularización contable que, en su caso, resulte procedente conforme a lo establecido en el apartado 1 del artículo 51 del Reglamento de los Impuestos Especiales.
+
+> Se añade el apartado 2 por el art. único.1 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+## TÍTULO I — Llevanza de la contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria
+
+### Artículo 2. Sujetos obligados.
+
+Están obligados a la llevanza de la contabilidad de los productos objeto de los Impuestos Especiales de fabricación mediante un sistema contable en soporte informático, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, los titulares de fábricas, depósitos fiscales, depósitos de recepción, almacenes fiscales y las fábricas de vinagre, sin perjuicio de lo dispuesto en el artículo 13.
+
+### Artículo 3. Objeto de la contabilidad de los productos objeto de los Impuestos Especiales de fabricación.
+
+1\. Los titulares de los establecimientos indicados en el artículo 2 deberán llevar una contabilidad de los productos objeto de los Impuestos Especiales de fabricación y, en su caso, de las materias primas necesarias para su obtención, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, mediante el suministro electrónico de los asientos contables, que se realizará con el contenido, en los plazos y con el procedimiento establecidos en esta orden.
+
+2\. La contabilidad deberá reflejar los procesos, movimientos y existencias de los productos objeto de los Impuestos Especiales de fabricación y, en su caso, de las materias primas necesarias para obtenerlos, incluidas las diferencias que se pongan de manifiesto con ocasión del almacenamiento, fabricación o circulación.
+
+En relación con el Impuesto sobre la Cerveza, no será necesario reflejar en la contabilidad los movimientos y existencias de las materias primas que se incorporen al proceso productivo que no sean objeto de los Impuestos Especiales de fabricación y no posean contenido en extracto.
+
+En relación con el Impuesto sobre el Alcohol y Bebidas Derivadas, en las operaciones relativas a la fabricación de bebidas derivadas no será necesario reflejar en la contabilidad los movimientos y existencias de las materias primas que no posean contenido alcohólico y no aporten graduación alcohólica ni volumen a la bebida obtenida.
+
+3\. A efectos contables, los productos y las materias primas se identificarán por el conjunto de campos informativos definidos en los siguientes apartados del anexo de esta orden:
+
+9.1 Epígrafe fiscal.
+
+9.2 Código de epígrafe.
+
+9.3 Código NC.
+
+9.4 Clave.
+
+9.7 Descripción.
+
+9.8 Referencia.
+
+En todo caso, deberán tener un reflejo contable diferenciado todos aquellos productos o materias primas con distinta identificación, definida por los campos informativos establecidos en el párrafo anterior.
+
+La identificación, realizada conforme a los campos informativos anteriormente señalados, deberá permitir un reflejo contable diferenciado de productos y materias primas aplicando, al menos, los siguientes criterios:
+
+a) En función de su grado de transformación: las primeras materias, los productos en proceso o en curso, los productos terminados o elaborados y, en su caso, los subproductos o residuos obtenidos cuando estén incluidos en el ámbito objetivo de los Impuestos Especiales de fabricación.
+
+b) En función de su tipo de envase, cuando se trate productos objeto de los Impuestos Especiales de fabricación a los que resulten de aplicación los porcentajes reglamentarios de pérdidas establecidos en función del tipo de envase o continente.
+
+La diferenciación contable de los productos y materias primas, conforme a lo dispuesto en los apartados a) y b) anteriores, se realizará mediante los campos informativos 9.7 Descripción y 9.8 Referencia previstos en el apartado II del anexo de esta orden.
+
+4\. La contabilidad comprenderá los movimientos de productos en los almacenes auxiliares inscritos como tales en el registro territorial, de conformidad con lo dispuesto en los artículos 65 y 70 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+> Se modifica por el art. único.2 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 4. Contenido de los asientos contables objeto de suministro electrónico.
+
+1\. Los datos que deben cumplimentarse para el suministro electrónico a la Agencia Estatal de Administración Tributaria de los asientos contables se concretan en el Anexo de la presente orden.
+
+2\. Cada asiento contable suministrado se referirá a un movimiento, proceso o existencia. No obstante, se podrán suministrar en un único asiento contable de forma agregada las siguientes operaciones y movimientos:
+
+a) Las operaciones de fabricación y transformación en procesos continuos, que se podrán suministrar de forma agregada en un único asiento referido a períodos de veinticuatro horas, admitiéndose que el inicio de cada período coincida con un cambio de turno de trabajo.
+
+b) Las operaciones de fabricación de cerveza, que se podrán suministrar de forma agregada en un único asiento por cada una de las fases de cocción, fermentación y maduración, referido a cada cocimiento o, en su caso, lote de fabricación.
+
+c) Los movimientos de entrada y salida de cerveza sin alcohol, que se podrán suministrar en un único asiento contable referido a los datos agregados mensuales.
+
+d) Los movimientos de entrada de materias primas que se empleen en el proceso de fabricación de la cerveza, dirigidas a aportar aroma o sabor, cuya contribución al producto final sea inferior a 0,5 grados plato, que se podrán suministrar en un único asiento contable referido a los datos agregados mensuales.
+
+e) Las operaciones de fabricación, transformación o autoconsumo de hidrocarburos en establecimientos autorizados como «refinerías de petróleo», que se podrán suministrar de forma agregada en un único asiento referido a los datos agregados mensuales por producto y unidad de fabricación. Lo dispuesto en el párrafo anterior será también de aplicación a los demás establecimientos censados como «las demás industrias de productos gravados» y «fábricas de biocarburantes» ubicados junto a las refinerías y que compartan con éstas vinculación funcional y operativa, previa autorización de la oficina gestora.
+
+f) Los movimientos de salidas como consecuencia de ventas al por menor de bebidas alcohólicas, en las que se produzca el devengo del impuesto y no resulte aplicable ningún supuesto de exención, que se podrán suministrar de forma agregada en un único asiento diario por cada producto.
+
+g) Los movimientos de salidas como consecuencia de ventas realizadas por establecimientos autorizados como depósitos fiscales de bebidas alcohólicas y de labores del tabaco situados en puertos y aeropuertos y que funcionen exclusivamente como establecimientos minoristas, que se podrán suministrar de forma agregada en un único asiento diario por cada producto.
+
+h) Las operaciones de adición de aditivos a productos objeto del Impuesto sobre Hidrocarburos en fábricas y depósitos fiscales, que se podrán suministrar de forma agregada en un único asiento mensual por producto objeto del impuesto y aditivo.
+
+i) Los movimientos de salidas como consecuencia de ventas realizadas por establecimientos autorizados como depósitos fiscales de líquidos para cigarrillos electrónicos, bolsas de nicotina y otros productos de nicotina situados en puertos y aeropuertos y que funcionen exclusivamente como establecimientos minoristas, que se podrán suministrar de forma agregada en un único asiento diario por cada producto.
+
+> Se añade la letra i) al apartado 2, con efectos de 1 de abril de 2025, por la disposición final 6.1 de la Orden HAC/86/2025, de 13 de enero de 2025. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se modifican las letras f) y g) del apartado 2 por el art. único.3 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 4 bis. Apertura y cierre del ejercicio contable.
+
+1\. El ejercicio contable coincidirá con el año natural. En caso de inicio de la actividad una vez iniciado el año natural, el ejercicio contable se iniciará en la fecha de alta del establecimiento en el registro territorial de la oficina gestora. En caso de cese de la actividad antes de la finalización del año natural, el ejercicio contable finalizará en la fecha de baja del establecimiento en el registro territorial de la oficina gestora.
+
+2\. Los titulares de establecimientos que lleven su contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria deberán comunicar la apertura de cada ejercicio contable, a través de la referida Sede, con carácter previo al suministro de los asientos contables del ejercicio.
+
+Una vez comunicada la apertura del ejercicio contable se suministrará un asiento de apertura en el que se informará de las existencias iniciales en el establecimiento en la fecha de inicio del ejercicio contable. No será necesario el suministro del asiento de apertura en relación con la contabilidad de los depósitos de recepción.
+
+3\. Una vez finalizado el ejercicio contable, los titulares de establecimientos que lleven su contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria deberán comunicar, a través de la referida Sede, el cierre del ejercicio contable.
+
+La comunicación de cierre del ejercicio contable se realizará dentro de los dos meses siguientes a la finalización del mes en que termine el plazo de suministro de los asientos contables correspondientes a los movimientos, operaciones o procesos realizados en el último mes del ejercicio al que se refiere el cierre.
+
+Transcurrido este plazo, si el titular del establecimiento no hubiera comunicado el cierre del ejercicio contable, éste se realizará de oficio por la Administración Tributaria.
+
+> Se añade por el art. único.4 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 5. Plazos para el suministro electrónico de los asientos contables.
+
+1\. El suministro electrónico de los asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria deberá realizarse dentro de las veinticuatro horas hábiles siguientes al momento de producirse el movimiento, operación o proceso objeto del asiento. No obstante lo anterior, el suministro del asiento de apertura al que se refiere el segundo párrafo del apartado 2 del artículo 4 bis de esta orden deberá realizarse dentro del primer mes del ejercicio contable.
+
+2\. A efectos contables, las operaciones y movimientos que se indican a continuación se podrán considerar realizadas:
+
+a) Los envíos de productos que circulen por tuberías fijas a un mismo destinatario, en el momento en que se complete el envío.
+
+b) Los envíos de productos que circulen por tuberías fijas realizados en los depósitos fiscales constituidos por redes de oleoductos, en el momento en que se complete el envío en los términos establecidos en la correspondiente autorización de la oficina gestora.
+
+c) Las operaciones de carga y descarga de buques tanque mediante tuberías fijas, en el momento en que se completen, entendiéndose completadas cuando se haya realizado la determinación de cantidades objeto de las operaciones.
+
+d) Los movimientos de entrada o salida de productos en el establecimiento que circulen por carretera, en el momento de producirse las mismas.
+
+e) Las operaciones de fabricación de alcohol en régimen de depósito precintado, en el momento de efectuarse el desprecintado, en los términos establecidos en el artículo 81 del Reglamento de los Impuestos Especiales.
+
+f) Las operaciones y movimientos suministrados en un único asiento contable de forma agregada a los que se refiere el apartado 2 del artículo 4 de esta orden, el último día del periodo objeto de agregación.
+
+3\. En las operaciones de fabricación, transformación o autoconsumo de hidrocarburos en establecimientos indicados en la letra e) del apartado 2 del artículo 4 de esta orden, los asientos contables correspondientes a dichas operaciones, referidos a los datos agregados mensuales por producto y unidad de fabricación podrán ser suministrados dentro de los siete días hábiles siguientes a la finalización del mes al que se refieran los datos.
+
+> Se modifican los apartados 1 y 2 por el art. único.5 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 6. Suministro electrónico de los asientos contables a partir del sistema contable en soporte informático de los sujetos obligados.
+
+1\. Los titulares de los establecimientos indicados en el artículo 2, que dispongan de un sistema contable en soporte informático en el que registren los movimientos, procesos y existencias de los productos objeto de los Impuestos Especiales y de las primeras materias necesarias para obtenerlos, podrán optar por la llevanza de la contabilidad y el suministro electrónico de los asientos contables a partir del mismo.
+
+En este caso, la contabilidad de los productos objeto de los Impuestos Especiales prevista en el artículo 50 del Reglamento de los Impuestos Especiales, estará integrada por los asientos contables que hayan sido suministrados electrónicamente a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+2\. Esta opción se deberá ejercer por vía electrónica, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria con anterioridad al inicio del año natural en el que deba surtir efecto. No obstante, los establecimientos que hubieran iniciado la realización de actividades en el año natural en curso, podrán optar al tiempo de presentar la declaración de comienzo de la actividad, surtiendo efecto dicha opción desde el comienzo de la actividad.
+
+Quienes opten por este sistema de llevanza de los libros contables deberán mantenerlo, al menos, durante el año natural para el que se ejercita la opción.
+
+La opción se entenderá prorrogada para los años siguientes en tanto no se produzca la renuncia a la misma. La renuncia deberá ejercitarse mediante comunicación a la oficina gestora presentada por vía electrónica con anterioridad al inicio del año natural en el que deba surtir efecto.
+
+3\. Los titulares de los establecimientos que, disponiendo de un sistema contable en soporte informático, hubiesen optado por la llevanza de la contabilidad y el suministro electrónico de los asientos contables a partir del mismo, deberán registrar los movimientos, operaciones, procesos y existencias en dicho sistema contable en los plazos indicados en el artículo 5 anterior, y realizar el suministro electrónico a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria de los mismos en el plazo de cinco días hábiles.
+
+A estos efectos, el plazo de suministro se computará desde la fecha en que se hubiera registrado el asiento en el sistema contable del establecimiento conforme a lo previsto en el artículo 5 de esta orden. En caso de que el asiento contable no se hubiera registrado dentro del plazo establecido en el artículo 5 de esta orden, el plazo de suministro se computará desde la finalización del citado plazo.
+
+Los datos de los asientos contables reflejados en el sistema contable interno deben permitir constatar que el suministro de los asientos a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria se ha realizado a partir del referido sistema contable interno, y que los asientos suministrados han sido debidamente registrados en el mismo, sin perjuicio de las operaciones y movimientos que sean objeto de suministro de forma agregada a las que se refiere el apartado 2 del artículo 4, que podrán ser registradas de forma individualizada en el sistema contable interno.
+
+4\. Los titulares de los establecimientos que disponiendo de un sistema contable en soporte informático hubiesen optado por la llevanza de la contabilidad y el suministro electrónico de los asientos contables a partir del mismo, podrán considerar el mes de agosto como inhábil exclusivamente a efectos de la referida obligación de suministro.
+
+5\. La llevanza de la contabilidad a partir del sistema contable en soporte informático del establecimiento se deberá ajustar a las disposiciones recogidas en el presente Título, salvo en lo relativo al plazo para realizar el suministro electrónico de los asientos contables, que se regirá por lo dispuesto en el apartado 3 anterior.
+
+> Se añade un párrafo al apartado 3 por el art. único.6 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 7. Condiciones generales para realizar el suministro electrónico de los asientos contables.
+
+1\. El suministro electrónico de los asientos y las comunicaciones relativas a la contabilidad de los productos objeto de los Impuestos Especiales de fabricación a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria podrá ser efectuado:
+
+a) Por el propio titular del establecimiento al que se refiere la contabilidad o, en su caso, por sus representantes legales.
+
+b) Por aquellos representantes voluntarios de los obligados tributarios con poderes o facultades para presentar electrónicamente en nombre de los mismos declaraciones y autoliquidaciones ante la Agencia Estatal de Administración Tributaria o representarles ante ésta, en los términos establecidos en cada momento por la Dirección General de la Agencia Estatal de Administración Tributaria.
+
+c) Por las personas o entidades que ostenten la condición de colaboradores sociales en la aplicación de los tributos, de acuerdo con lo dispuesto en el artículo 92 de la Ley 58/2003, de 17 de diciembre, General Tributaria, los artículos 79 a 81 del Reglamento General de las actuaciones y procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y las condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+2\. El suministro electrónico a la Agencia Estatal de Administración Tributaria de los asientos y las comunicaciones relativas a la contabilidad de los productos objeto de los Impuestos Especiales de fabricación, estará sujeto a las siguientes condiciones:
+
+a) El titular del establecimiento al que corresponden los asientos contables de Impuestos Especiales de fabricación deberá disponer de un Número de Identificación Fiscal (NIF) y estar identificado, con carácter previo a la presentación en el censo de obligados tributarios a que se refiere el artículo 3 del Reglamento General de las actuaciones y procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
+
+El titular del establecimiento podrá realizar el suministro, con carácter general, mediante un certificado electrónico reconocido, que podrá ser asociado al Documento Nacional de Identidad Electrónico (DNI-e) o mediante cualquier otro certificado electrónico reconocido que, según la normativa vigente en cada momento, resulte admisible por la Agencia Estatal de Administración Tributaria.
+
+b) Cuando el suministro se realice por apoderados o por colaboradores sociales, serán éstos quienes deberán disponer de su certificado electrónico reconocido. En estos casos, el apoderado o el colaborador social podrá realizar el suministro electrónico de los asientos contables siempre que cuente con el reconocimiento administrativo para actuar en procedimientos administrativos por vía electrónica en representación del titular del establecimiento.
+
+c) No obstante, si el titular del establecimiento o su apoderado son personas físicas y realizan el suministro electrónico de datos a través del formulario web a que se refiere el artículo 8.1.b y c) de esta orden, podrán utilizar además del certificado electrónico reconocido, el sistema Cl@ve de identificación, autentificación y firma electrónica común para todo el sector público administrativo estatal, regulado en la Orden PRE/1838/2014, de 8 de octubre, por la que se publica el Acuerdo de Consejo de Ministros, de 19 de septiembre de 2014, por el que se aprueba Cl@ve, la plataforma común del Sector Público Administrativo Estatal para la identificación, autenticación y firma electrónica mediante el uso de claves concertadas.
+
+> Se modifica por el art. único.7 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 8. Procedimiento para realizar el suministro electrónico de los asientos contables.
+
+1\. El suministro electrónico a la Agencia Estatal de Administración Tributaria de los asientos y las comunicaciones relativas a la contabilidad de los productos objeto de los Impuestos Especiales de fabricación podrá realizarse a través de una de las siguientes formas:
+
+a) Mediante los servicios web basados en el intercambio electrónico de mensajes.
+
+b) Mediante la utilización del formulario web, que permitirá el suministro de los datos de forma individual por asiento contable.
+
+c) Mediante formulario web con importación de ficheros, que permitirá el suministro de los datos de forma conjunta para un grupo de asientos contables.
+
+Estos sistemas estarán habilitados en la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+2\. En el caso del suministro electrónico de los mensajes a través de servicios web, o mediante importación de ficheros, la Agencia Estatal de Administración Tributaria remitirá un mensaje de respuesta de aceptación como justificante del suministro realizado.
+
+El mensaje de aceptación incorporará un código seguro de verificación de 16 caracteres, además de la fecha y hora de suministro, y el número asignado por la Agencia Estatal de Administración Tributaria a los asientos contables suministrados.
+
+En el caso de rechazo de los datos suministrados, la Agencia Estatal de Administración Tributaria remitirá un mensaje de respuesta de rechazo, que incluirá los motivos del rechazo, para que se puedan realizar las correcciones necesarias y proceder a su nuevo suministro.
+
+En el caso de que se utilice el formulario web previsto en el apartado 1.b) de este artículo, la Agencia Estatal de Administración Tributaria devolverá un código seguro de verificación, así como la fecha y hora del suministro y el número asignado por la Agencia Estatal de Administración Tributaria al asiento contable suministrado. En el supuesto de que el suministro fuese rechazado, se informará sobre los motivos del rechazo para que se puedan realizar las correcciones necesarias y proceder a su suministro.
+
+> Se modifica el apartado 1 por el art. único.8 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 9. Formato y diseño de los mensajes informáticos.
+
+Los mensajes informáticos por medio de los cuales se realiza la transmisión, por vía electrónica, a la Agencia Estatal de Administración Tributaria de los datos relativos a los asientos y las comunicaciones relativas a la contabilidad de los productos objeto de los Impuestos Especiales de fabricación, se ajustarán a los campos de registro en que se concreta el contenido de los mismos que figuran en el anexo, y su formato y diseño serán los que consten en la Sede electrónica de la Agencia Estatal de Administración Tributaria en Internet.
+
+> Se modifica por el art. único.9 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Artículo 10. Documentación justificativa e información relativa a las operaciones y movimientos realizados.
+
+1\. Todo asiento contable deberá estar justificado con el correspondiente documento o soporte previsto en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria de tipos de justificantes para cada tipo de operación, movimiento o proceso.
+
+2\. Los titulares de los establecimientos indicados en el artículo 2 de esta orden, deben tener en todo momento a disposición de los servicios de inspección e intervención de la Administración Tributaria, la siguiente documentación e información:
+
+a) Documentación justificativa e información relativa a las operaciones de fabricación y/o transformación desarrolladas en el establecimiento, con detalle de las fechas de inicio y finalización, las materias primas y productos empleados, los productos obtenidos y el número del parte de trabajo u operación de fabricación o transformación.
+
+b) Documentación reglamentaria y comercial justificativa de los movimientos, procesos y existencias, así como detalle de los inventarios de los productos objeto de los Impuestos Especiales de fabricación y materias primas necesarias para obtenerlos.
+
+c) Documentación justificativa e información individualizada de cada una de las operaciones que, conforme a lo establecido en el apartado 2 del artículo 4 de esta orden, hayan sido objeto de suministro en un único asiento contable de forma agregada.
+
+d) El sistema contable en soporte informático a partir del cual se haya realizado el suministro electrónico de los asientos contables conforme a lo previsto en el artículo 6 de esta orden, en su caso.
+
+3\. La documentación justificativa y la información relativa a los movimientos, productos y existencias, procesos y operaciones realizadas, así como en su caso, el sistema contable, deberán estar a disposición de los servicios de inspección y, en su caso, de intervención, en el propio establecimiento mientras no haya expirado el plazo de prescripción del derecho de la Administración para determinar la deuda tributaria mediante la oportuna liquidación.
+
+Cuando se trate de establecimientos que se extiendan por el ámbito territorial de más de una oficina gestora, la indicada documentación se conservará en el lugar donde radique el centro de gestión y control de dicho establecimiento.
+
+A estos efectos, podrá disponerse de la documentación exigible en soporte informático siempre que la consulta de la misma se pueda realizar sin dilación alguna desde el propio establecimiento.
+
+> Se modifica por el art. único.10 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+## TÍTULO II — Otros medios de llevanza de la contabilidad de los productos objeto de los Impuestos Especiales de Fabricación
+
+### Artículo 11. Medios de llevanza de la contabilidad por establecimientos no obligados a la llevanza a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+Los titulares de los establecimientos afectados por la normativa de Impuestos Especiales no incluidos en el artículo 2 de esta orden, cumplirán la obligación de llevanza de contabilidad de los productos objeto de los Impuestos Especiales mediante la utilización de un sistema contable en soporte informático o libros foliados en soporte papel.
+
+En caso de utilización de libros en soporte papel, los citados libros, con carácter previo a la realización de cualquier apunte, deberán ser presentados ante la oficina gestora correspondiente al establecimiento para su habilitación.
+
+Asimismo, podrán optar, en los términos y con los efectos previstos en el artículo 50 del Reglamento de los Impuestos Especiales, por la llevanza de la contabilidad de los Impuestos Especiales mediante un sistema contable en soporte informático, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, en cuyo caso resultarán aplicables todas las normas, condiciones, plazos y procedimientos previstos en el Título I de esta orden.
+
+### Artículo 12. Ejercicio y renuncia de la opción por la llevanza de la contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+Los establecimientos afectados por la normativa de Impuestos Especiales no obligados a la llevanza de la contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, podrán optar por su llevanza a través de la misma en los términos previstos en el artículo 50.3 del Reglamento de los Impuestos Especiales.
+
+La opción y renuncia a la misma se realizará por vía electrónica a través de la Sede electrónica de la Agencia Estatal de la Administración Tributaria.
+
+### Artículo 13. Elaboradores de vino y bebidas fermentadas y destiladores artesanales.
+
+1\. Los elaboradores de vino y bebidas fermentadas y los destiladores artesanales, con carácter general están obligados a la llevanza de la contabilidad de los productos objeto de los Impuestos Especiales y las materias primas para obtenerlos mediante un sistema contable en soporte informático, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria con arreglo a lo dispuesto el Título I de esta orden.
+
+No obstante, los elaboradores de vino y bebidas fermentadas cuyo volumen de producción anual, computando la de todos los establecimientos de que sean titulares, no sea superior a 100.000 litros en el año natural y los destiladores artesanales podrán ser autorizados por la oficina gestora, previa solicitud, para la llevanza de esta contabilidad mediante la utilización de libros foliados en soporte papel.
+
+A estos efectos, se tomará como volumen de producción anual el correspondiente al año natural inmediato anterior. Si la actividad se hubiese desarrollado durante el año natural inmediato anterior por un plazo inferior al año natural, el volumen de producción se elevará al año. En los casos en que se inicie la actividad se tendrá en cuenta el volumen de producción estimado.
+
+En este caso, los citados libros, con carácter previo a la realización de cualquier apunte, deberán ser presentados ante la oficina gestora correspondiente al establecimiento para su habilitación.
+
+2\. Los elaboradores de vino y bebidas fermentadas autorizados por la oficina gestora para la llevanza de la contabilidad de los Impuestos Especiales mediante la utilización de libros foliados en soporte papel, estarán obligados a la llevanza de un libro de materias primas y productos, en el que se registrarán las materias primas entradas en fábrica y las utilizadas en el proceso de fabricación, el vino o bebidas fermentadas obtenidos y el vino o bebidas fermentadas que salgan de la fábrica, con indicación, de su régimen fiscal y del documento de circulación expedido.
+
+La contabilidad comprenderá los movimientos de productos en los almacenes auxiliares inscritos como tales en el registro territorial, de conformidad con lo dispuesto en el artículo 65 del Reglamento de los Impuestos Especiales.
+
+3\. Los destiladores artesanales autorizados por la oficina gestora para la llevanza de la contabilidad de los productos objeto de los Impuestos Especiales mediante la utilización de libros foliados en soporte papel, a los que hace referencia el artículo 96 del Reglamento de los Impuestos Especiales, estarán obligados, a la llevanza de un libro de materias primas y productos, en el que se registrarán las materias primas entradas en fábrica y las utilizadas en el proceso de fabricación, los aguardientes obtenidos y los aguardientes que salgan de fábrica, con indicación de su régimen fiscal y del documento de circulación expedido.
+
+### Artículo 14. Objeto y contenido de la contabilidad.
+
+Los titulares de los establecimientos afectados por la normativa de Impuestos Especiales no incluidos en el artículo 2 de esta orden deberán llevar una contabilidad de los productos objeto de dichos impuestos que refleje los procesos, movimientos y existencias que les afecten, incluidas las diferencias que se pongan de manifiesto con ocasión del almacenamiento, utilización o circulación, de forma que se diferencien los diversos productos, epígrafes y regímenes fiscales.
+
+En particular, deberán llevar la contabilidad de los productos objeto de los Impuestos Especiales:
+
+1\. Los fabricantes de productos compensadores a los que hace referencia el artículo 3 del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad en que se anoten las cantidades de productos recibidos en régimen suspensivo, con indicación de fecha, proveedor y referencia del documento administrativo electrónico, las cantidades utilizadas o consumidas diariamente en el proceso de fabricación de los productos compensadores, los productos compensadores fabricados y las cantidades exportadas de estos últimos, con indicación del documento de exportación.
+
+2\. Los usuarios de alcohol totalmente desnaturalizado, los usuarios de alcohol parcialmente desnaturalizado, los laboratorios farmacéuticos y los centros de atención médica a los que hacen referencia, respectivamente, los artículos 74, 75, 76 y 77 del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad en que se reflejen los movimientos del alcohol recibido y utilizado.
+
+3\. Los establecimientos que obtengan subproductos o residuos alcohólicos a los que hacen referencia, respectivamente, los artículos 75 bis y 75 ter del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad en la que se reflejen los movimientos aquellos subproductos o residuos objeto del Impuesto Especial, con indicación de su contenido alcohólico.
+
+4\. Las plantas embotelladoras independientes a las que hace referencia el artículo 87 del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad de bebidas derivadas recibidas y de los movimientos bebidas derivadas embotelladas.
+
+5\. Los titulares de aeronaves que habitualmente utilicen instalaciones privadas para su despegue y aterrizaje a los que hace referencia el artículo 101.4 del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad en la que se reflejen los carburantes recibidos con exención del impuesto y el destino dado a los mismos.
+
+6\. Los beneficiarios de las exenciones establecidas en el artículo 51.2.c), d) e) y g) y 51.4 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, a los que hace referencia el artículo 103 del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad en la que se reflejen los productos recibidos con exención del impuesto y el destino dado a los mismos.
+
+7\. Los detallistas a los que hace referencia el artículo 106 del Reglamento de los Impuestos Especiales, que deberán llevar un registro del gasóleo recibido con aplicación del tipo reducido y de los abonos efectuados en sus cuentas bancarias por las ventas efectuadas mediante tarjetas-gasóleo bonificado o por el ingreso de cheques-gasóleo bonificado. En dicho registro se anotarán las recepciones de gasóleo, con indicación del Código Administrativo de Referencia (ARC) de los correspondientes documentos administrativos electrónicos. Asimismo, se reflejarán las entregas de gasóleo con tipo reducido realizadas diariamente con indicación de la lectura que arroje el contador del surtidor de gasóleo, las cuales se justificarán con los extractos periódicos de abono remitidos por las entidades emisoras de las tarjetas-gasóleo bonificado y con los extractos periódicos de las cuentas de abono recibidos de las entidades de crédito.
+
+8\. Los titulares de los puntos de suministro que realicen los avituallamientos de gasóleo a embarcaciones que generen el derecho a la devolución del Impuesto sobre Hidrocarburos prevista el artículo 52.b) de la Ley de Impuestos Especiales, a los que hace referencia el artículo 110 del Reglamento de los Impuestos Especiales, que deberán llevar una contabilidad en la que se refleje, el gasóleo recibido, con referencia al Código Administrativo de Referencia (ARC) del documento administrativo electrónico que amparó su circulación, y los suministros efectuados, con referencia a los recibos de entrega expedidos.
+
+9\. Los titulares de las zonas delimitadas fuera de una fábrica o depósito fiscal a las que se refieren, respectivamente, el artículo 40.2.d) y 11.2.c) del Reglamento de los Impuestos Especiales, deberán llevar una contabilidad en la que se reflejen movimientos de los productos objeto de Impuestos Especiales, con indicación del documento de circulación que los ampara.
+
+### Artículo 15. Normas para la llevanza la contabilidad.
+
+Los titulares de los establecimientos afectados por la normativa de Impuestos Especiales no incluidos en el artículo 2 de esta orden deberán registrar las operaciones objeto de las anotaciones contables en los plazos y con las condiciones establecidas en el artículo 50.4 del Reglamento de los Impuestos Especiales.
+
+### Artículo 16. Obligación de conservación y puesta a disposición de la Administración de la contabilidad y sus justificantes.
+
+Los titulares de los establecimientos afectados por la normativa de Impuestos Especiales no incluidos en el artículo 2 de esta orden, deberán tener a disposición de los servicios de inspección y, en su caso, de intervención, la contabilidad en soporte informático o en soporte papel, así como toda la documentación reglamentaria y comercial justificativa de los asientos contables.
+
+### Disposición adicional primera. Suministro de asientos contables por elaboradores de vino y bebidas fermentadas.
+
+1\. Mientras los tipos impositivos del Impuesto sobre el Vino y Bebidas Fermentadas sean cero, la llevanza de la contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria por los titulares de establecimientos autorizados como elaboradores de vino o como elaboradores de otras bebidas fermentadas, se deberá ajustar a las disposiciones recogidas en el título I de esta orden, sin perjuicio de las siguientes especialidades:
+
+a) A efectos contables, las operaciones de elaboración de vino, mosto y bebidas fermentadas, las entradas de materias primas y las salidas con impuesto devengado por ventas al por menor de vino o bebidas fermentadas efectuadas a lo largo de un mes natural, se podrán considerar realizadas el último día del mes en el que se hayan desarrollado o realizado.
+
+b) Los asientos contables relativos a las operaciones de elaboración de vino, mosto y bebidas fermentadas, las entradas de materias primas y las salidas con impuesto devengado por ventas al por menor de vino o bebidas fermentadas podrán ser objeto de suministro de forma agregada en un único asiento contable mensual.
+
+2\. Mientras el tipo impositivo del Impuesto sobre el Vino y Bebidas Fermentadas sea cero, el plazo para realizar el suministro de los asientos contables previsto en el apartado 3 del artículo 6 de esta orden por los titulares de establecimientos autorizados como elaboradores de vino o como elaboradores de otras bebidas fermentadas finalizará el último día hábil del mes siguiente a aquel en el que se realice el movimiento, operación o proceso.
+
+3\. Mientras el tipo impositivo del Impuesto sobre el Vino y Bebidas Fermentadas sea cero, el plazo para realizar el suministro de los asientos contables previsto en el apartado 3 del artículo 6 de esta orden por los titulares de establecimientos autorizados como elaboradores de vino cuyo volumen de producción anual no supere los 100.000 litros en el año natural computando la de todos los establecimientos de los que sean titulares finalizará:
+
+a) el último día hábil del mes de diciembre, en relación con los procesos, movimientos y operaciones realizados en los meses de agosto, septiembre, octubre y noviembre inmediatamente anteriores
+
+b) el último día hábil del mes de agosto, en relación con los procesos, movimientos y operaciones realizados en los meses de diciembre, enero, febrero, marzo, abril, mayo, junio y julio inmediatamente anteriores.
+
+A estos efectos, se tomará como volumen de producción anual el correspondiente al año natural inmediato anterior. Si la actividad se hubiese desarrollado durante el año natural inmediato anterior por un plazo inferior al año natural, el volumen de producción se elevará al año. En los casos en que se inicie la actividad se tendrá en cuenta el volumen de producción estimado.
+
+> Se modifica el apartado 1 por el art. único.12 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Disposición adicional segunda. Suministro de asientos contables por fábricas de cerveza cuya producción anual no supere los 50.000 hectolitros.
+
+La llevanza de la contabilidad a partir del sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden por los titulares de establecimientos autorizados como fábricas de cerveza cuyo volumen de producción anual no supere los 50.000 hectolitros en el año natural, computando la de todos los establecimientos de los que sean titulares, se deberá ajustar a las disposiciones recogidas en el Título I de esta Orden, sin perjuicio de las siguientes especialidades:
+
+a) Los asientos contables relativos a las operaciones entradas de materias primas podrán ser objeto de suministro de forma agregada en un único asiento contable mensual.
+
+b) El plazo para el suministro electrónico de los asientos contables previsto en el apartado 3 del artículo 6 de esta orden finalizará el último día hábil del mes siguiente a aquel en el que se realice el movimiento, operación o proceso.
+
+A estos efectos, se tomará como volumen de producción anual el correspondiente al año natural inmediato anterior. Si la actividad se hubiese desarrollado durante el año natural inmediato anterior por un plazo inferior al año natural, el volumen de producción se elevará al año. En los casos en que se inicie la actividad se tendrá en cuenta el volumen de producción estimado.
+
+### Disposición adicional tercera. Suministro de asientos contables por elaboradores de productos intermedios cuya producción anual no supere los 100.000 litros.
+
+La llevanza de la contabilidad a partir del sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden por los titulares de establecimientos autorizados como elaboradores de productos intermedios que no obtengan alcohol cuyo volumen de producción anual no supere los 100.000 litros en el año natural, computando la de todos los establecimientos de los que sean titulares, se deberá ajustar a las disposiciones recogidas en el Título I de esta Orden, sin perjuicio de las siguientes especialidades:
+
+a) Los asientos contables relativos a las operaciones entradas de materias primas podrán ser objeto de suministro de forma agregada en un único asiento contable mensual.
+
+b) El plazo para el suministro electrónico de los asientos contables previsto en el apartado 3 del artículo 6 de esta orden finalizará el último día hábil del mes siguiente a aquel en el que se realice el movimiento, operación o proceso.
+
+A estos efectos, se tomará como volumen de producción anual el correspondiente al año natural inmediato anterior. Si la actividad se hubiese desarrollado durante el año natural inmediato anterior por un plazo inferior al año natural, el volumen de producción se elevará al año. En los casos en que se inicie la actividad se tendrá en cuenta el volumen de producción estimado.
+
+### Disposición adicional cuarta. Establecimientos de primera transformación de tabaco crudo.
+
+Los establecimientos en los que se lleve a cabo la primera transformación del tabaco crudo a los que se refiere el artículo 129 del Reglamento de los Impuestos Especiales, llevarán la contabilidad de los productos objeto de los Impuestos Especiales a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, de conformidad con lo previsto en el Título I de esta orden, reflejando, exclusivamente, las entradas de tabaco crudo en la instalación y las salidas de producto obtenido.
+
+### Disposición adicional quinta. Gas natural.
+
+1\. El suministro electrónico de los asientos contables correspondientes a los movimientos de gas natural, por los titulares de establecimientos autorizados como depósitos fiscales constituidos por una red de gasoductos o como industrias extractoras de gas natural y otros productos gaseosos, se referirá a la información consolidada tras el cierre de los balances «m+3» de acuerdo con las normas de gestión técnica del sistema gasista.
+
+2\. El plazo para el suministro electrónico de los asientos contables previsto en el apartado anterior finalizará el último día hábil del mes siguiente al de cierre de los balances «m+3» de acuerdo con las normas de gestión técnica del sistema gasista
+
+3\. A los efectos de los dispuesto en el artículo 10 de esta orden, en particular tendrá la consideración de información justificativa de los movimientos, operaciones y procesos realizados en los movimientos de gas natural la documentación e información que reside en el Gestor Técnico del sistema gasista.
+
+### Disposición adicional sexta. Suministro de asientos contables por establecimientos autorizados como elaboradores de bebidas alcohólicas, que exclusivamente elaboren productos objeto del Impuesto sobre el Vino y Bebidas Fermentadas y del Impuesto sobre Productos Intermedios cuya producción anual no supere los 100.000 litros.
+
+Mientras los tipos impositivos del Impuesto sobre el Vino y Bebidas Fermentadas sean cero, la llevanza de la contabilidad a partir del sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden por los titulares de establecimientos autorizados como elaboradores de bebidas alcohólicas, que exclusivamente elaboren productos objeto del Impuesto sobre el Vino y Bebidas Fermentadas y del Impuesto sobre Productos Intermedios cuya producción anual de productos intermedios no supere los 100.000 litros en el año natural, se deberá ajustar a las disposiciones recogidas en el título I de esta orden, sin perjuicio de que puedan ser autorizados por la oficina gestora, previa solicitud, a aplicar las siguientes especialidades:
+
+a) Los asientos contables relativos a las operaciones de elaboración de vino y mosto y las entradas de materias primas podrán ser objeto de suministro de forma agregada en un único asiento contable mensual.
+
+b) El plazo para el suministro electrónico de los asientos contables previsto en el apartado 3 del artículo 6 de esta orden finalizará el último día hábil del mes siguiente a aquel en el que se realice el movimiento, operación o proceso.
+
+A estos efectos, se tomará como volumen de producción anual el correspondiente al año natural inmediato anterior en todos los establecimientos del mismo titular. Si la actividad se hubiese desarrollado durante el año natural inmediato anterior por un plazo inferior al año natural, el volumen de producción se elevará al año. En los casos en que se inicie la actividad se tendrá en cuenta el volumen de producción estimado.
+
+La solicitud para la aplicación de este sistema deberá ser presentada a la oficina gestora, con anterioridad al inicio del año natural en que deba surtir efecto. En caso de que se inicie la actividad, la solicitud se podrá presentar junto con la solicitud de inscripción en el registro territorial de los Impuestos Especiales.
+
+> Se añade por el art. único.13 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Disposición adicional séptima. Fábricas de vinagre.
+
+Los establecimientos autorizados como fábricas de vinagre llevarán la contabilidad de los productos objeto de los Impuestos Especiales de fabricación a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, de conformidad con lo previsto en el título I de esta orden, sin perjuicio de las siguientes especialidades:
+
+a) A efectos del cumplimiento de la obligación de llevar la contabilidad de los productos objeto de los Impuestos Especiales de fabricación prevista en el artículo 50 del Reglamento de los Impuestos Especiales, los establecimientos autorizados como fábricas de vinagre deberán suministrar a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria los asientos contables correspondientes a los movimientos y utilización del alcohol y bebidas alcohólicas recibidas en el establecimiento y el vinagre obtenido. Asimismo, y a efectos del adecuado reflejo contable de las existencias de vinagre, suministrarán al menos un asiento contable mensual correspondiente a los movimientos de vinagre realizados en cada mes, por el vinagre utilizado en el establecimiento y las salidas del vinagre.
+
+b) Adicionalmente, deberán llevar una cuenta corriente del vinagre obtenido y utilizado en el propio establecimiento, de las salidas de vinagre, y del movimiento y utilización de los vinagres producidos en otros establecimientos elaboradores e introducidos en la fábrica de vinagre. Este registro o cuenta corriente deberá estar a disposición de la Administración Tributaria en el establecimiento, junto con los justificantes de los movimientos de vinagre, no siendo necesario su suministro a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+c) Los establecimientos autorizados como fábricas de vinagre que cumplan la obligación de llevanza de la contabilidad a partir del sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden, podrán suministrar los asientos contables relativos a las operaciones de obtención de vinagre en el establecimiento mediante un único asiento agregado mensual.
+
+> Se añade por el art. único.14 de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+### Disposición transitoria primera. Obligación de suministro de asientos contables correspondientes a 2020.
+
+1\. Los establecimientos obligados a la llevanza de la contabilidad a través de la sede electrónica de la Agencia Estatal de Administración Tributaria podrán realizar el suministro de los asientos contables correspondientes al año 2020 durante el periodo comprendido entre el 1 de junio de 2020 y el 15 de enero de 2021.
+
+2\. Quienes se acojan a lo dispuesto en el apartado anterior deberán cumplir las obligaciones contables previstas en el artículo 50 del Reglamento de los Impuestos Especiales conforme a la redacción de dicho artículo vigente a 31 de diciembre de 2019, así como realizar la presentación de la declaración de operaciones prevista en el apartado 5 del artículo 44 del citado Reglamento hasta el 31 de diciembre de 2020, o hasta la finalización del período de liquidación en el que lleven íntegramente su contabilidad reglamentaria a través de la sede electrónica de la Agencia Estatal de Administración Tributaria, en caso de que esta fecha fuera anterior.
+
+A estos efectos, se entenderá que llevan íntegramente su contabilidad reglamentaria a través de la sede electrónica de la Agencia Estatal de Administración Tributaria cuando hubiesen suministrado a través de la referida sede, la totalidad de los asientos contables correspondientes a los movimientos, operaciones y procesos realizados desde el 1 de enero de 2020.
+
+3\. Los establecimientos obligados a la llevanza de la contabilidad a través de la sede electrónica de la Agencia Estatal de Administración Tributaria que se acojan a lo dispuesto en el apartado 1 anterior, podrán ejercer la opción prevista en el artículo 6 de esta orden hasta el 30 de septiembre de 2020.
+
+> Téngase en cuenta, en relación con la obligación de suministro de asientos contables correspondientes al primer semestre de 2025, lo previsto en la disposición final 6.3 de la Orden HAC/86/2025, de 13 de enero, [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732), y en la disposición transitoria única de la Orden HAC/1505/2024, de 26 de diciembre. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)
+
+> Se modifica por el art. único de la Orden HAC/566/2020, de 12 de junio. [Ref. BOE-A-2020-6744](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6744)
+
+### Disposición transitoria segunda. Plazo de suministro de asientos contables correspondientes al año 2020.
+
+El plazo previsto en el apartado 3 del artículo 6 de esta orden para suministrar los asientos contables correspondientes a los movimientos, operaciones, procesos y existencias realizados durante el año 2020 será de ocho días hábiles.
+
+> Téngase en cuenta, en relación con la obligación de suministro de asientos contables correspondientes al primer semestre de 2025 por los establecimientos del Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, lo dispuesto en la disposición final 6.4 de la Orden HAC/86/2025, de 13 de enero, [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732).
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el apartado 4 del artículo 12 de la Orden 3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos.
+
+### Disposición final primera. Modificación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+Se añade al apartado 2 de la disposición adicional única de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, la siguiente declaración:
+
+Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 50 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+### Disposición final segunda. Modificación de la Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos.
+
+Se modifica el apartado 1 del artículo 2 de la Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos, que queda redactado del siguiente modo:
+
+1\. Como complemento a las declaraciones-liquidaciones, los sujetos pasivos, dentro del plazo establecido para efectuar el ingreso en el artículo 44.3 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, están obligados a presentar por Internet las declaraciones que comprendan las operaciones realizadas, incluso cuando sólo tengan existencias, de acuerdo con los modelos aprobados en la presente orden.
+
+No será exigible la declaración de operaciones a los titulares de establecimientos que lleven su contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria ni a quienes tengan la condición de sujeto pasivo en calidad de sustitutos del contribuyente, de acuerdo con lo previsto por el párrafo segundo del apartado 3 del artículo 8 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+No obstante lo anterior, mientras el tipo impositivo del Impuesto sobre el Vino y Bebidas Fermentadas sea cero, el plazo para que los fabricantes y titulares de depósitos fiscales de productos objeto de este impuesto presenten la declaración de operaciones, será el establecido en el artículo 66.5 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
+
+### Disposición final tercera. Tratamiento de datos personales.
+
+Los datos personales aportados por el obligado tributario en el cumplimiento de sus derechos y obligaciones tributarias serán tratados con la finalidad de la aplicación del sistema tributario y aduanero. Este tratamiento se ajustará al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. En la Sede electrónica de la Agencia Estatal de Administración Tributaria se facilitará la información que exige el artículo 13 del Reglamento relativa a los posibles tratamientos y el ejercicio de los derechos sobre los mismos.
+
+### Disposición final cuarta. Entrada en vigor.
+
+La presente orden entrará en vigor el 1 de enero de 2020.
+
+Madrid, 23 de septiembre de 2019.–La Ministra de Hacienda, María Jesús Montero Cuadrado.
+
+## ANEXO
+
+I. Apertura y cierre de la contabilidad en la Sede electrónica de la Agencia Estatal de Administración Tributaria
+
+Los titulares de establecimientos que lleven su contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria deberán comunicar la apertura y el cierre de cada ejercicio contable, a través de la referida Sede, de conformidad con lo previsto en el artículo 4 bis de esta orden.
+
+Las comunicaciones de apertura y cierre del ejercicio contable se realizarán mediante el suministro de un mensaje electrónico con el siguiente contenido:
+
+1\. Datos identificativos.
+
+1.1 NIF titular establecimiento.
+
+Dato obligatorio.
+
+Se indicará el Número de Identificación Fiscal (NIF) del titular del establecimiento.
+
+1.2 Nombre/Razón social titular establecimiento.
+
+Dato obligatorio.
+
+Se indicará el nombre y apellidos o razón social del titular del establecimiento.
+
+En el caso de personas físicas, este campo se cumplimentará con el formato APELLIDO 1/APELLIDO 2/NOMBRE.
+
+1.3 CAE establecimiento.
+
+Dato obligatorio.
+
+Se indicará el Código de Actividad y Establecimiento (CAE) del titular del establecimiento.
+
+2\. Ejercicio contable.
+
+Dato obligatorio.
+
+Se indicará el ejercicio contable objeto de la comunicación de apertura o cierre, identificado por el año natural con el que coincida el ejercicio.
+
+II. Suministro de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria
+
+Los titulares de establecimientos obligados a la llevanza de la contabilidad de los productos objeto de los Impuestos Especiales de fabricación mediante un sistema contable en soporte informático a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, así como los establecimientos que opten por la llevanza de la contabilidad de los Impuestos Especiales de fabricación a través de la referida Sede, deberán suministrar por vía electrónica los asientos contables, mediante los correspondientes mensajes electrónicos, cumplimentados con el contenido y con arreglo a las instrucciones definidas en este anexo.
+
+Sólo se admitirá el suministro de asientos contables respecto de ejercicios que no hayan sido objeto de cierre conforme a lo establecido en el artículo 4 bis de esta orden. No obstante, en casos justificados, la Dependencia Regional de Aduanas correspondiente a la Comunidad Autónoma en que se encuentre situado el establecimiento podrá autorizar la reapertura de un ejercicio contable que ya estuviera cerrado y el suministro de asientos contables correspondientes al mismo durante un plazo máximo de cinco días hábiles.
+
+Cada asiento contable estará integrado por el conjunto de campos informativos que deben ser cumplimentados con carácter obligatorio, condicional u opcional, según se establece en cada caso en este apartado.
+
+A estos efectos, la cumplimentación de los campos que constituyen el contenido de los asientos contables se realizará con carácter obligatorio, condicional u opcional:
+
+a) Obligatorio: deberá cumplimentarse en todo caso.
+
+b) Condicional: deberá cumplimentarse de forma obligatoria si se cumple la condición prevista.
+
+c) Opcional: podrá cumplimentarse de forma voluntaria.
+
+Los campos informativos que constituyen el contenido de los asientos contables son los siguientes:
+
+1\. Operador.
+
+1.1 NIF titular establecimiento.
+
+Dato obligatorio.
+
+Se indicará el Número de Identificación Fiscal (NIF) del titular del establecimiento.
+
+1.2 CAE establecimiento.
+
+Dato obligatorio.
+
+Se indicará el Código de Actividad y Establecimiento (CAE) del titular del establecimiento.
+
+2\. Asiento contable.
+
+2.1 Número de referencia interno.
+
+Dato condicional.
+
+Si el titular del establecimiento opta por realizar el suministro de los asientos contables a partir de su sistema contable en soporte informático, conforme a lo dispuesto en el artículo 6 de esta orden, deberá indicar el número de referencia interno que se genere en el momento de efectuar la anotación contable en dicho sistema.
+
+El número de referencia interno deberá ser único por establecimiento.
+
+2.2 Número de asiento previo.
+
+Dato condicional.
+
+Se cumplimentará en los casos de altas de nuevos asientos que sustituyan asientos anteriores anulados.
+
+Se indicará el número de asiento asignado por la Agencia Estatal de Administración Tributaria al asiento contable anulado en el momento del suministro del mismo a través de la Sede electrónica.
+
+2.3 Número de asiento previo de salida (reintroducción).
+
+Dato condicional.
+
+Se cumplimentará para asientos contables correspondientes a operaciones de reintroducción en el establecimiento previstas en los artículos 27 y 38.1 del Reglamento de los Impuestos Especiales.
+
+Se indicará el número de asiento asignado por la Agencia Estatal de Administración Tributaria al asiento contable por el que se registró la salida desde el establecimiento de los productos objeto de reintroducción en el momento del suministro del mismo a través de la Sede electrónica.
+
+3\. Fecha.
+
+3.1 Fecha movimiento.
+
+Dato obligatorio.
+
+Se indicará la fecha en la que se produce el movimiento de productos o proceso objeto de reflejo contable, expresada en el formato DD/MM/AAAA.
+
+3.2 Fecha de registro contable.
+
+Dato condicional.
+
+Si el titular del establecimiento opta por realizar el suministro de los asientos contables a partir de su sistema contable en soporte informático, conforme a lo dispuesto en el artículo 6 de esta orden, se indicará la fecha en la que se registre el asiento en dicho sistema.
+
+4\. Datos movimiento.
+
+4.1 Tipo movimiento.
+
+Dato obligatorio.
+
+Se indicará el tipo de movimiento por el que se identifica el movimiento, operación o proceso objeto del asiento, según las opciones recogidas en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+La identificación de cada movimiento, operación o proceso debe ajustarse a las descripciones de tipos de movimientos publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+4.2 Información adicional diferencias en menos.
+
+Dato condicional.
+
+Se cumplimentará cuando el tipo de movimiento contable sea una diferencia en menos en almacenamiento o una diferencia en menos en fabricación.
+
+Se indicará el tipo de diferencia en menos contabilizada, según el valor que corresponda de los previstos en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+4.3 Régimen fiscal.
+
+Dato obligatorio.
+
+La identificación del régimen fiscal aplicable a los productos objeto del asiento contable debe ajustarse a los tipos de regímenes fiscales publicados en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+5\. Datos operaciones de fabricación/obtención.
+
+Grupo de datos condicional.
+
+Se cumplimentará este grupo de datos cuando el tipo de movimiento contabilizado sea:
+
+– Fabricado/Obtenido.
+
+– Autoconsumo/Empleado.
+
+– Autoconsumo/Empleado en operaciones propias.
+
+– Diferencias en menos en fabricación.
+
+– Diferencias en más en fabricación.
+
+En todos los asientos contables asociados a una misma operación de fabricación, deberá reflejarse el mismo contenido en todos los campos de este grupo de datos.
+
+A efectos contables, se considerarán asimismo operaciones de fabricación:
+
+– Las operaciones de envasado y/o embotellado.
+
+– En el ámbito del Impuesto sobre Hidrocarburos, las operaciones de adición de marcadores/trazadores y mezclas de hidrocarburos admitidas reglamentariamente.
+
+– En el ámbito del Impuesto sobre el Alcohol y Bebidas Derivadas, las operaciones de desnaturalización total o parcial y las operaciones de elaboración de bebidas derivadas por añejamiento.
+
+5.1 Tipo operación.
+
+Dato obligatorio.
+
+Se indicará el tipo de operación realizada, identificando el código que corresponda de las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+5.2 Número operación.
+
+Dato obligatorio.
+
+Se indicará el número asignado por la empresa a la operación realizada.
+
+5.3 Descripción unidad de fabricación.
+
+Dato condicional.
+
+Se cumplimentará en establecimientos autorizados como fábricas en las que existan varias unidades de fabricación, en relación con las operaciones de fabricación definidas en el artículo 4.19 de la Ley de Impuestos Especiales y en esta orden, realizadas en el establecimiento.
+
+Se indicará la unidad del proceso de fabricación en la que se ha realizado la operación de fabricación o transformación, o el autoconsumo.
+
+En movimientos de diferencias en fabricación o transformación se reflejará la unidad del proceso de fabricación en la que se ha producido la diferencia en menos o la diferencia en más.
+
+5.4 Código unidad de fabricación.
+
+Dato condicional.
+
+Se cumplimentará en establecimientos autorizados como fábricas en las que existan varias unidades de fabricación, en relación con las operaciones de fabricación definidas en el artículo 4.19 de la Ley de Impuestos Especiales y en esta orden, realizadas en el establecimiento.
+
+Se indicará el código asignado por el establecimiento a la unidad de fabricación en la que se ha realizado la operación.
+
+En movimientos de diferencias en fabricación o transformación se reflejará el código asignado a la unidad del proceso de fabricación en la que se ha producido la diferencia en menos o la diferencia en más.
+
+5.5 Número de operación fabricación anterior.
+
+Dato opcional.
+
+Se podrá cumplimentar en establecimientos autorizados como fábricas cuando la obtención de los productos terminados se desarrolle a través de sucesivas operaciones de fabricación asociadas a las distintas fases del proceso productivo.
+
+Se indicará el número asignado por el establecimiento a la operación de fabricación anterior.
+
+6\. Justificante.
+
+Grupo de datos obligatorio.
+
+6.1 Tipo justificante.
+
+Dato obligatorio.
+
+Se identificará el documento en soporte físico o electrónico que sirva de justificante y soporte de la anotación contable, según las siguientes indicaciones:
+
+– En el asiento de apertura, se indicará el documento que recoja el resultado del inventario de existencias en el establecimiento o documento en el que se recoja el resultado del recuento de existencias realizado el último día del ejercicio inmediato anterior.
+
+– Si el movimiento, operación o proceso supone una circulación de productos o materias primas, se indicará el documento que ampare dicha circulación (documento administrativo electrónico, documento de acompañamiento de emergencia, albarán de circulación, albarán de circulación en ventas en ruta, documento aduanero).
+
+– Si el movimiento objeto del asiento es un avituallamiento a aeronaves de carburantes exento, se indicará el comprobante de entrega que sirva de justificante del mismo conforme a lo establecido en el artículo 101 del Reglamento de los Impuestos Especiales.
+
+– Si el movimiento objeto del asiento es un avituallamiento a embarcaciones de carburantes exentos, se indicará el documento que sirva de justificante del mismo conforme a lo establecido en el artículo 102 del Reglamento de los Impuestos Especiales.
+
+– Si el movimiento, operación o proceso objeto del asiento se realiza al amparo de una autorización de la oficina gestora o una diligencia del servicio de intervención, se indicará la autorización de la oficina gestora o la diligencia del servicio de intervención.
+
+– Si el asiento contable refleja una diferencia en almacenamiento, se indicará el documento donde se recoja el resultado del recuento de existencias en el que se ponga de manifiesto la diferencia. A estos efectos, se considerará el documento que refleje el resultado del recuento realizado por el obligado tributario, o la diligencia del servicio de intervención en la que se recoja el resultado del recuento practicado por la Administración.
+
+– Si el asiento contable refleja una operación de fabricación, embotellado o envasado, se indicará el parte de fabricación o trabajo, embotellado o envasado, u otro documento utilizado por el interesado como soporte de la operación.
+
+– Si el movimiento objeto del asiento contable es una operación de fabricación de alcohol, se indicará la declaración de trabajo aprobada por la Orden EHA/3482/2007 de 20 de noviembre.
+
+– Si el asiento contable se refiere a varias operaciones o movimientos suministrados de forma agregada en un único asiento conforme a lo dispuesto en el apartado 2 del artículo 4 de esta orden, se reflejará el documento o soporte en el que se identifiquen las operaciones objeto de suministro de forma agregada.
+
+– En otras operaciones, movimientos o procesos, se indicará el documento o soporte utilizado como justificante de la anotación contable.
+
+Se consignará el tipo de documento que proceda según las anteriores instrucciones, identificado según el código de tipos de justificantes que corresponda de acuerdo con las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+6.2 Número justificante.
+
+Dato obligatorio.
+
+Se indicará el número asignado al justificante que sirva de soporte a la anotación contable, según el siguiente detalle:
+
+– Número asignado al documento justificativo de las existencias iniciales reflejadas en el asiento de apertura.
+
+– Documento Administrativo Electrónico (E-DA): Código Administrativo de Referencia (ARC) asignado por la Agencia Estatal de Administración Tributaria en el sistema EMCS interno o intracomunitario.
+
+– Documento de acompañamiento de emergencia: número de referencia local asignado al documento.
+
+– Albarán de circulación: número de referencia del albarán de circulación asignado por el establecimiento.
+
+– Albarán de circulación ventas en ruta: código de referencia electrónico asignado por la Agencia Estatal de Administración Tributaria al albarán de circulación.
+
+– Comprobante de entrega: número asignado a los comprobantes de entrega expedidos para justificar los avituallamientos a aeronaves de conformidad con lo dispuesto en el artículo 101 del RIE.
+
+– Documento de importación: número asignado al documento aduanero de importación.
+
+– Autorización de la oficina gestora: número de autorización de la oficina gestora.
+
+– Diligencia del servicio de intervención: fecha o número de diligencia.
+
+– Número asignado al documento que refleje el resultado del recuento realizado por el obligado tributario.
+
+– Número del parte de fabricación o trabajo, envasado o embotellado o número asignado al documento que sirva de soporte a las operaciones de fabricación.
+
+– Número de la declaración de trabajo.
+
+– Número asignado al documento justificativo de las operaciones objeto de suministro de forma agregada.
+
+– Otros: identificación y número asignado a otros documentos o soportes utilizados como justificantes de la anotación contable.
+
+7\. Origen/destino.
+
+Grupo de datos condicional.
+
+Se cumplimentará este grupo de datos cuando el movimiento objeto del asiento contable suponga una entrada o una salida de productos del establecimiento.
+
+No obstante lo anterior, no será necesaria la cumplimentación de este grupo de datos cuando el asiento contable se refiera a:
+
+– Varios movimientos suministrados de forma agregada en un único asiento en los supuestos establecidos en esta orden.
+
+– Salidas de productos del establecimiento como consecuencia de una venta al por menor en la que se produzca el devengo del impuesto a tipo pleno.
+
+– Salidas de productos a las que se aplique el procedimiento de ventas en ruta previsto en el artículo 27 del Reglamento de los Impuestos Especiales.
+
+7.1 Origen/destino: tipo documento identificación.
+
+Dato obligatorio.
+
+Deberá consignarse el tipo de documento de identificación del expedidor (entradas de productos) o del destinatario (salidas de productos) según la siguiente codificación:
+
+Tabla 1. Tabla de codificación tipo de documento del expedidor o destinatario
+
+| Valores | Descripción |
+|---|---|
+| 1 | NIF o NIE español. |
+| 2 | NIF IVA intracomunitario. |
+| 3 | Otros. |
+| 4 | Aduana. |
+
+7.2 Origen/destino: número documento identificación.
+
+Dato obligatorio.
+
+Si el destinatario/expedidor del movimiento objeto de la anotación contable dispone de NIF o NIE español, se consignará éste.
+
+Si el destinatario/expedidor del movimiento objeto de la anotación contable no dispone de NIF o NIE español, pero dispone de un NIF IVA asignado por las autoridades fiscales de otro Estado miembro de la Unión Europea distinto de España, se consignará el número del NIF IVA del que sea titular.
+
+En operaciones de importación/exportación en las que la circulación se realice al amparo de un documento aduanero, se identificará la aduana ante la que se hayan realizado los trámites aduaneros correspondientes, de acuerdo con los códigos identificativos de aduanas previstos en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+En otros casos, se consignará cualquier otro número que permita la identificación del destinatario/expedidor.
+
+7.3 Origen/destino: nombre o razón social.
+
+Dato obligatorio.
+
+Se indicará el nombre o razón social del destinatario del movimiento (salidas de productos del establecimiento) o del expedidor (entradas de productos en el establecimiento).
+
+En el caso de personas físicas, este campo se cumplimentará con el formato APELLIDO 1/APELLIDO 2/NOMBRE.
+
+7.4 Origen/destino: CAE/n.º SEED.
+
+Dato condicional.
+
+Se cumplimentará en aquellos movimientos en los que, según el tipo de movimiento y régimen fiscal, con arreglo a la normativa vigente, el destinatario o el expedidor deban disponer de un número CAE o SEED.
+
+En movimientos en el ámbito territorial interno, se indicará, en su caso, el número CAE del destinatario del movimiento (salidas de productos del establecimiento) o del expedidor (entradas de productos en el establecimiento).
+
+En movimientos en el ámbito territorial comunitario no interno, se indicará, en su caso, el número SEED del destinatario del movimiento (salidas de productos del establecimiento) o del expedidor (entradas de productos en el establecimiento).
+
+7.5 Número de surtidor.
+
+Dato condicional.
+
+Se cumplimentará por los titulares de establecimientos autorizados como detallistas de hidrocarburos que suministren sus asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, cuando el movimiento objeto del asiento contable suponga una salida de producto del establecimiento.
+
+Se indicará el número asignado por la empresa al surtidor desde el cual se efectúa el suministro.
+
+7.6 Lectura del contador.
+
+Dato condicional.
+
+Se cumplimentará por los titulares de establecimientos autorizados como detallistas de hidrocarburos que suministren sus asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, cuando el movimiento objeto del asiento contable suponga una salida de producto del establecimiento.
+
+Se indicará la lectura que arroje el contador del surtidor de gasóleo a tipo reducido desde el que se realiza el suministro.
+
+7.7 Identificación de la aeronave.
+
+Dato condicional.
+
+Se cumplimentará por los establecimientos autorizados como titulares de aeronaves que utilizan instalaciones privadas que suministren sus asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, cuando el movimiento objeto del asiento contable corresponda a la utilización de los productos recibidos con exención del Impuesto sobre Hidrocarburos.
+
+Se indicará la matrícula de la aeronave a la que se realiza el suministro.
+
+8\. Datos repercusión del Impuesto Especial.
+
+Grupo de datos condicional.
+
+Se cumplimentará este grupo de datos en el caso de movimientos de salidas de productos del establecimiento por los que el titular del establecimiento estuviera obligado a repercutir el Impuesto Especial de acuerdo con lo dispuesto en los artículos 14.2 de la Ley de Impuestos Especiales y 18 del Reglamento de Impuestos Especiales, cuando la fabricación, almacenamiento o transformación en régimen suspensivo se realice por cuenta ajena.
+
+Estos datos se cumplimentarán tanto en operaciones con repercusión del impuesto a tipo pleno, como a tipo reducido, así como en supuestos en que resulte aplicable una exención.
+
+Se indicarán los datos de la persona o entidad a la que se realiza la repercusión del Impuesto Especial, de acuerdo con lo dispuesto en el artículo 14.2 de la Ley de Impuestos Especiales.
+
+8.1 Destinatario repercusión IE: tipo documento identificación.
+
+Deberá consignarse el tipo de documento de identificación del destinatario de la repercusión, según la siguiente codificación:
+
+Tabla 2. Codificación tipo de documento del expedidor o destinatario
+
+| Valores | Descripción |
+|---|---|
+| 1 | NIF o NIE español. |
+| 2 | NIF IVA intracomunitario. |
+| 3 | Otros. |
+
+8.2 Destinatario repercusión IE: número documento identificación.
+
+Si el destinatario de la repercusión dispone de NIF o NIE español, se consignará éste.
+
+Si el destinatario de la repercusión no dispone de NIF o NIE español, pero dispone de un NIF IVA asignado por las autoridades fiscales de otro Estado miembro de la Unión Europea distinto de España, se consignará el número del NIF IVA del que sea titular.
+
+En otros casos, se consignará cualquier otro número que permita la identificación del destinatario de la repercusión.
+
+8.3 Destinatario repercusión IE: nombre o razón social.
+
+Se consignará el nombre o razón social del destinatario de la repercusión.
+
+En el caso de que el destinatario de la repercusión sea una persona física, se indicará el nombre de la misma en el formato APELLIDO 1/APELLIDO 2/NOMBRE.
+
+9\. Producto.
+
+La identificación de los productos objeto de los asientos contables se realizará conforme a lo establecido en el artículo 3 de esta orden.
+
+Una vez identificado un producto, todos los asientos contables relativos a las operaciones, movimientos y procesos que afecten a ese producto deben reflejar los mismos datos en todos y cada uno de los campos previstos en el artículo 3.3 de esta orden.
+
+9.1 Epígrafe fiscal.
+
+Dato condicional.
+
+Se cumplimentará cuando los productos objeto del movimiento contable estén incluidos en el ámbito objetivo de los Impuestos Especiales de fabricación.
+
+Se reflejará el epígrafe fiscal correspondiente a los productos objeto de los Impuestos Especiales de fabricación a los que se refiere el movimiento contable de acuerdo con la codificación recogida en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+9.2 Código de epígrafe.
+
+Dato condicional.
+
+Se cumplimentará cuando los productos objeto del movimiento contable estén incluidos en el ámbito objetivo de los Impuestos Especiales de fabricación.
+
+Se reflejará la clave del código de epígrafe de los productos objeto de los Impuestos Especiales de fabricación a los que se refiere el movimiento contable, de acuerdo con la codificación recogida en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+9.3 Código NC.
+
+Dato obligatorio.
+
+Se indicará el código NC correspondiente al producto objeto del movimiento contable establecido en el Reglamento (CEE) número 2658/1987, de 23 de julio, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, de conformidad con redacción vigente del anexo.
+
+En el caso de productos incluidos en el ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas y del Impuesto sobre Hidrocarburos, se indicará el Código NC a nivel de ocho dígitos.
+
+En el caso de productos incluidos en el ámbito objetivo de los Impuestos sobre el Vino y Bebidas Fermentadas y del Impuesto sobre Productos Intermedios se indicará el Código NC con el nivel de dígitos recogidos, respectivamente, en los artículos 27 y 31 de la Ley de Impuestos Especiales.
+
+En los productos incluidos en el ámbito objetivo del Impuesto sobre la Cerveza y del Impuesto sobre las Labores del Tabaco se indicará el Código NC a nivel de cuatro dígitos.
+
+En el caso de los productos incluidos en el ámbito objetivo del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco se indicará el Código NC a nivel de ocho dígitos.
+
+En el caso de productos no incluidos en el ámbito objetivo de los Impuestos Especiales de fabricación, se indicará el código NC al menos a nivel de cuatro dígitos.
+
+Cuando en los establecimientos que operen en el ámbito de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas el asiento contable se refiera a productos con un mismo epígrafe y código de epígrafe, distintos códigos NC y una única referencia de producto definida en el apartado 9.8 del anexo de esta orden, se indicará esta circunstancia cumplimentando el código “varios”.
+
+9.4 Clave.
+
+Dato condicional.
+
+Se cumplimentará cuando los productos objeto del movimiento contable sean productos incluidos en las tablas de claves de producto publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+En el caso de los productos intermedios a los que se refiere el artículo 32 de la Ley de Impuestos Especiales, además, se indicará la clave correspondiente al producto intermedio elaborado incluido en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+9.5 Cantidad.
+
+Dato obligatorio.
+
+Se indicará la cantidad, expresada en la unidad de medida prevista en las tablas recogidas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación, según el código de epígrafe correspondiente al producto.
+
+En el caso de productos en los que la base imponible del Impuesto Especial esté constituida por el volumen de producto, la puntualización de la cantidad deberá expresarse de acuerdo con la temperatura en la que se determine la base imponible del impuesto.
+
+9.6 Unidad de medida.
+
+Dato obligatorio.
+
+Se indicará el código de unidades de medida previsto en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación, según el producto objeto del asiento contable.
+
+9.7 Descripción.
+
+Dato obligatorio.
+
+Se indicará la descripción de los productos objeto del asiento contable, que podrá ser la comercial u otra que permita identificar suficientemente el producto.
+
+La descripción deberá ser única para cada producto y suficiente para identificar con precisión el producto.
+
+En el caso de productos objeto del Impuesto sobre el Alcohol y Bebidas Derivadas, se reflejará la denominación de los productos de acuerdo con las definiciones previstas en el Reglamento (UE) 2019/787 del Parlamento Europeo y del Consejo, de 17 de abril de 2019, sobre la definición, designación, presentación y etiquetado de las bebidas espirituosas, la utilización de los nombres de las bebidas espirituosas en la presentación y etiquetado de otros productos alimenticios, la protección de las indicaciones geográficas de las bebidas espirituosas y la utilización de alcohol etílico y destilados de origen agrícola en las bebidas alcohólicas, y por el que se deroga el Reglamento (CE) n.º 110/2008.
+
+En el caso de que el producto contabilizado esté incluido en una Denominación de Origen Protegida o en una Indicación Geográfica Protegida, podrá indicarse la denominación concreta del tipo de vino, vino de licor, producto vitivinícola aromatizado o bebida espirituosa incluida en la Denominación de Origen Protegida o en la Indicación Geográfica Protegida.
+
+9.8 Referencia.
+
+Dato obligatorio.
+
+Se indicará el número o código de referencia de producto asignado por el establecimiento a los productos objeto de la anotación contable.
+
+9.9 Grado alcohólico volumétrico adquirido.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean objeto de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas, se registrará el número de volúmenes de alcohol puro, a una temperatura de 20 °C, contenidos en 100 volúmenes de producto considerado a dicha temperatura, expresados con tres decimales.
+
+9.10 Cantidad de alcohol puro.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean objeto del Impuesto sobre el Alcohol y Bebidas Derivadas se registrará la cantidad de alcohol puro contenida, expresada en la unidad de medida prevista en las tablas recogidas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación, según el código de epígrafe correspondiente al producto objeto del asiento contable, con un máximo de tres decimales.
+
+La cantidad de alcohol puro será la resultante de multiplicar la cantidad de producto (campo informativo 9.5) por el grado alcohólico volumétrico adquirido (campo informativo 9.9).
+
+9.11 Densidad.
+
+Dato condicional.
+
+Cuando en la fabricación de alcohol, los productos objeto del asiento contable sean mostos o caldos fermentados obtenidos a partir de cereales u otras sustancias amiláceas o azucaradas y empleados como materia prima, se indicará su densidad expresada en KG/L, con un máximo de seis decimales.
+
+Cuando en la fabricación de cerveza, los productos objeto del asiento contable sean mostos, se indicará su densidad expresada en KG/L, con un máximo de seis decimales.
+
+Cuando los productos objeto del asiento contable sean hidrocarburos en los que la base imponible del Impuesto Especial está constituida por el volumen de producto, se indicará la densidad a 15 °C, expresada en KG/L, con un máximo de seis decimales.
+
+9.12 Poder calorífico.
+
+Dato condicional.
+
+Cuando los productos objeto del asiento contable sean hidrocarburos en los que la base imponible del Impuesto Especial está constituida por el poder calorífico del producto, se indicará el poder calorífico bruto por tonelada expresado en gigajulios (GJ), con un máximo de tres decimales.
+
+9.13 Porcentaje de extracto.
+
+Dato condicional.
+
+Cuando en la fabricación de cerveza, los productos objeto del asiento contable sean materias primas o mostos, se indicará el contenido porcentual en extracto natural que resulta de dividir los kilogramos de extracto por kilogramos de materia prima, expresado con un máximo de tres decimales.
+
+9.14 Kilogramos-extracto.
+
+Dato condicional.
+
+Cuando en la fabricación de cerveza, los productos objeto del asiento contable sean materias primas o mostos, se indicará la cantidad de extracto natural contenido en las mismas, expresada en kilogramos con un máximo de tres decimales.
+
+9.15 Grado plato medio.
+
+Dato condicional.
+
+Cuando en la fabricación de cerveza, el producto objeto del asiento contable sea el mosto pasado a fermentación, cerveza en elaboración o productos incluidos en el ámbito objetivo del Impuesto sobre la Cerveza, se indicará el grado plato medio definido en el apartado 9 del artículo 20 de la Ley de Impuestos Especiales, expresado con un máximo de tres decimales.
+
+9.16 Grado acético.
+
+Dato condicional.
+
+Cuando el producto objeto del asiento contable sea vinagre, se indicará el grado acético determinado por los gramos de ácido acético contenidos en 100 mililitros de vinagre, expresado con un máximo de tres decimales.
+
+9.17 Peso neto producto del tabaco.
+
+Dato condicional.
+
+Cuando se trate de productos objeto del Impuesto sobre las Labores del Tabaco, se deberá indicar el peso neto en kilogramos con dos decimales basados en un contenido de humedad del 14 % en peso.
+
+9.18 Valor de la labor del tabaco.
+
+Dato condicional.
+
+En caso de que los productos contabilizados sean objeto del Impuesto sobre las Labores del Tabaco, se deberá consignar su valor global en euros con dos decimales, calculado según el precio de venta al público en expendedurías de tabaco y timbre situadas en la Península o en las Islas Baleares, publicado en el «Boletín Oficial del Estado» para cada labor del tabaco.
+
+9.19 Precio de venta al público de la labor del tabaco.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean objeto del Impuesto sobre las Labores del Tabaco, se deberá indicar el precio máximo de venta al público, en expendedurías de tabaco y timbre situadas en la Península o en las Islas Baleares, publicado en el «Boletín Oficial del Estado» para cada labor del tabaco.
+
+9.20 Descripción de la unidad de venta.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean objeto del Impuesto sobre las Labores del Tabaco, se deberá consignar la descripción de cada unidad de venta, según los tipos de unidades de venta previstos en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+9.21 Contenido de la unidad de venta.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean objeto del Impuesto sobre las Labores del Tabaco, se deberá consignar la cantidad contenida en cada unidad de venta, expresada en número de cigarros, cigarritos o cigarrillos o en gramos con dos decimales en el caso de la picadura de liar y demás labores del tabaco.
+
+10\. Envases.
+
+10.1 Tipo de envase.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean productos objeto de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas que se encuentren envasados, se indicará el código del tipo de envase en el que están contenidos, según los tipos de envase especificados en las tablas publicadas en la Sede electrónica de la Agencia Estatal de Administración Tributaria para el procedimiento de la contabilidad de los Impuestos Especiales de fabricación.
+
+No será necesaria la cumplimentación de este grupo de datos por los establecimientos autorizados como fábricas de cerveza a los que se refiere el artículo 61.2 del Reglamento de los Impuestos Especiales.
+
+10.2 Capacidad envase.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean productos objeto de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas que se encuentren envasados, se indicará la capacidad en litros del envase, expresada con tres decimales.
+
+10.3 Número de envases.
+
+Dato condicional.
+
+En el caso de que los productos contabilizados sean productos objeto de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas que se encuentren envasados, se indicará el número total de envases de la operación objeto del asiento contable.
+
+10.4 Indicador de marcas fiscales.
+
+Dato opcional.
+
+En el caso de que los productos contabilizados sean productos terminados objeto del Impuesto sobre Alcohol y Bebidas Derivadas podrá indicarse si el envase que los contiene tiene adheridas las marcas fiscales, según la siguiente codificación:
+
+Tabla 3. Tabla de codificación del indicador de marcas fiscales, según existencia o no de marcas fiscales adheridas
+
+| Valores | Descripción |
+|---|---|
+| 0 | Sin marcas fiscales adheridas. |
+| 1 | Con marcas fiscales adheridas. |
+
+11\. Observaciones.
+
+Dato condicional/opcional.
+
+Condicional. Se indicará brevemente el motivo o causa que justifica el asiento contable que suministra cuando el tipo de movimiento suministrado se corresponda con alguno de los indicados a continuación:
+
+– Ajustes positivos de mediciones.
+
+– Ajustes negativos de mediciones.
+
+– Ajustes positivos por movimientos de ejercicios anteriores.
+
+– Ajustes negativos por movimientos de ejercicios anteriores.
+
+Cuando se trate de ajustes por movimientos de ejercicios anteriores se indicará la fecha del ejercicio anterior en la que se realizó el movimiento que motiva el ajuste y el motivo del ajuste.
+
+Opcional. En los asientos contables correspondientes a otro tipo de movimiento, podrá cumplimentarse este campo opcionalmente, consignando datos o información de carácter explicativo o aclaratorio del asiento contabilizado.
+
+III. Anulación de asientos contables
+
+Los asientos contables que hayan sido objeto de suministro electrónico a la Agencia Estatal de Administración Tributaria podrán ser anulados mediante el suministro, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, de un mensaje electrónico cumplimentado según las instrucciones establecidas en este apartado.
+
+Sólo se admitirá la anulación de asientos contables respecto de ejercicios que no hayan sido objeto de cierre conforme a lo establecido en el artículo 4 bis de esta orden. No obstante, en casos justificados, la Dependencia Regional de Aduanas correspondiente a la Comunidad Autónoma en que se encuentre situado el establecimiento podrá autorizar la reapertura de un ejercicio contable que ya estuviera cerrado y la anulación de asientos contables correspondientes al mismo durante un plazo máximo de cinco días hábiles.
+
+1\. Operador.
+
+Grupo de datos obligatorio.
+
+1.1 NIF titular establecimiento.
+
+Se indicará el Número de Identificación Fiscal (NIF) del titular del establecimiento.
+
+1.2 CAE titular establecimiento.
+
+Se indicará el Código de Actividad y Establecimiento (CAE) del titular del establecimiento.
+
+2\. Asiento contable anulado.
+
+2.1 Número de asiento en la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+Dato obligatorio.
+
+Número asignado al asiento contable objeto de anulación por la Agencia Estatal de Administración Tributaria en el momento del suministro del mismo a través de la Sede electrónica.
+
+3\. Asiento de anulación.
+
+3.1 Número de referencia interno.
+
+Dato condicional.
+
+Si el titular del establecimiento opta por realizar el suministro de los asientos contables a partir de su sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden, se indicará el número de referencia asignado al asiento contable de anulación en el sistema contable en soporte informático del establecimiento.
+
+3.2 Fecha de registro contable.
+
+Dato condicional.
+
+Si el titular del establecimiento opta por realizar el suministro de los asientos contables a partir de su sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden, se indicará la fecha en la que se registra el asiento de anulación en el sistema contable del establecimiento.
+
+3.3 Motivo anulación.
+
+Dato obligatorio.
+
+Se cumplimentará el motivo de la anulación, indicando el valor que corresponda de los recogidos en la siguiente tabla:
+
+Tabla 4. Motivo de anulación
+
+| Valor | Descripción |
+|---|---|
+| 1 | Error numérico. |
+| 2 | Asiento duplicado. |
+| 3 | Otro motivo. |
+
+4\. Observaciones.
+
+Dato opcional.
+
+Campo libre en el que se podrán consignar datos o información de carácter explicativo o aclaratorio del asiento contabilizado.
+
+IV. Existencias contables
+
+La Agencia Estatal de Administración Tributaria facilitará la información de las existencias contables derivadas de los asientos contables suministrados a través de su Sede electrónica.
+
+La información anterior se referirá a cada uno de los productos objeto de los asientos contables suministrados, identificados conforme a lo previsto en el artículo 3 de esta orden.
+
+La información de existencias contables se pondrá a disposición de los titulares de los establecimientos, como mínimo:
+
+– De forma instantánea, informando de las existencias resultantes hasta el último asiento suministrado.
+
+– De forma mensual, informando de las existencias resultantes de los asientos suministrados en cada mes natural, una vez finalizado el plazo de suministro de los asientos contables correspondientes al período mensual al que se refiera la información.
+
+– De forma anual, informando de las existencias resultantes de los asientos suministrados en el total del ejercicio contable, una vez finalizado éste y comunicado el cierre del mismo.
+
+> Se modifica el apartado II.9.3, con efectos desde el 1 de abril de 2025, por la disposición final 6.2 de la Orden HAC/86/2025, de 13 de enero de 2025. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se sustituye por el que figura como anexo de la Orden HAC/1505/2024, de 26 de diciembre, según establece su art. único.10. [Ref. BOE-A-2024-27529](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27529)

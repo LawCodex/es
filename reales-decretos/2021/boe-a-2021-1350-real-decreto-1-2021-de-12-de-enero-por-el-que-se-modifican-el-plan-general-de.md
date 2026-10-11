@@ -939,119 +939,102 @@ Se revelará el valor en libros de cada una de las categorías de activos financ
 
 a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del grupo, multigrupo y asociadas.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Categorías</p>
+<p>Categorías</p>
 </td>
 <td colspan="14">
-<p class="cabeza_tabla">Clases</p>
+<p>Clases</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a largo plazo</p>
+<p>Instrumentos financieros a largo plazo</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a corto plazo</p>
+<p>Instrumentos financieros a corto plazo</p>
 </td>
 <td rowspan="2" colspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Instrumentos de patrimonio</p>
+<p>Instrumentos de patrimonio</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores representativos de deuda</p>
+<p>Valores representativos de deuda</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Créditos Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Créditos Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Instrumentos de patrimonio</p>
+<p>Instrumentos de patrimonio</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores representativos</p>
-<p class="cabeza_tabla">de deuda</p>
+<p>Valores representativos</p>
+<p>de deuda</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Créditos Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Créditos Derivados</p>
+<p>Otros</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos a valor razonable con cambios en pérdidas y ganancias.</p>
-<p class="cuerpo_tabla_izq">– Cartera de negociación.</p>
-<p class="cuerpo_tabla_izq">– Designados.</p>
-<p class="cuerpo_tabla_izq">– Otros.</p>
+<p>Activos a valor razonable con cambios en pérdidas y ganancias.</p>
+<p>– Cartera de negociación.</p>
+<p>– Designados.</p>
+<p>– Otros.</p>
 </td>
 <td></td>
 <td></td>
@@ -1068,9 +1051,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos financieros a coste amortizado.</p>
+<p>Activos financieros a coste amortizado.</p>
 </td>
 <td></td>
 <td></td>
@@ -1087,9 +1070,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos financieros a coste.</p>
+<p>Activos financieros a coste.</p>
 </td>
 <td></td>
 <td></td>
@@ -1106,9 +1089,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos a valor razonable con cambios en el patrimonio neto.</p>
+<p>Activos a valor razonable con cambios en el patrimonio neto.</p>
 </td>
 <td></td>
 <td></td>
@@ -1125,9 +1108,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Derivados de cobertura.</p>
+<p>Derivados de cobertura.</p>
 </td>
 <td></td>
 <td></td>
@@ -1144,9 +1127,9 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq"> Total.</p>
+<p> Total.</p>
 </td>
 <td></td>
 <td></td>
@@ -1168,115 +1151,98 @@ a.1) Activos financieros, salvo inversiones en el patrimonio de empresas del gru
 
 a.2) Pasivos financieros.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Categorías</p>
+<p>Categorías</p>
 </td>
 <td colspan="14">
-<p class="cabeza_tabla">Clases</p>
+<p>Clases</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a largo plazo</p>
+<p>Instrumentos financieros a largo plazo</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a corto plazo</p>
+<p>Instrumentos financieros a corto plazo</p>
 </td>
 <td rowspan="2" colspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Deudas con entidades de crédito</p>
+<p>Deudas con entidades de crédito</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Obligaciones y otros valores negociables</p>
+<p>Obligaciones y otros valores negociables</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Deudas con entidades de crédito</p>
+<p>Deudas con entidades de crédito</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Obligaciones y otros valores negociables</p>
+<p>Obligaciones y otros valores negociables</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Derivados</p>
+<p>Otros</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos financieros a coste amortizado o coste.</p>
+<p>Pasivos financieros a coste amortizado o coste.</p>
 </td>
 <td></td>
 <td></td>
@@ -1293,12 +1259,12 @@ a.2) Pasivos financieros.
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos a valor razonable con cambios en pérdidas y ganancias.</p>
-<p class="cuerpo_tabla_izq">– Cartera de negociación.</p>
-<p class="cuerpo_tabla_izq">– Designados.</p>
-<p class="cuerpo_tabla_izq">– Otros.</p>
+<p>Pasivos a valor razonable con cambios en pérdidas y ganancias.</p>
+<p>– Cartera de negociación.</p>
+<p>– Designados.</p>
+<p>– Otros.</p>
 </td>
 <td></td>
 <td></td>
@@ -1315,9 +1281,9 @@ a.2) Pasivos financieros.
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Derivados de cobertura.</p>
+<p>Derivados de cobertura.</p>
 </td>
 <td></td>
 <td></td>
@@ -1334,9 +1300,9 @@ a.2) Pasivos financieros.
 <td></td>
 <td></td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq"> Total.</p>
+<p> Total.</p>
 </td>
 <td></td>
 <td></td>
@@ -2266,120 +2232,103 @@ Se revelará el valor en libros de cada una de las categorías de activos financ
 
 a.1) Activos financieros.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-<col class="row_column_10">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Categorías</p>
+<p>Categorías</p>
 </td>
 <td colspan="14">
-<p class="cabeza_tabla">Clases</p>
+<p>Clases</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a largo plazo</p>
+<p>Instrumentos financieros a largo plazo</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a corto plazo</p>
+<p>Instrumentos financieros a corto plazo</p>
 </td>
 <td colspan="2" rowspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Instrumentos de patrimonio</p>
+<p>Instrumentos de patrimonio</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores representativos</p>
-<p class="cabeza_tabla">de deuda</p>
+<p>Valores representativos</p>
+<p>de deuda</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Créditos Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Créditos Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Instrumentos de patrimonio</p>
+<p>Instrumentos de patrimonio</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores representativos</p>
-<p class="cabeza_tabla">de deuda</p>
+<p>Valores representativos</p>
+<p>de deuda</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Créditos Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Créditos Derivados</p>
+<p>Otros</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos a valor razonable con cambios en pérdidas y ganancias.</p>
-<p class="cuerpo_tabla_izq">– Cartera de negociación.</p>
-<p class="cuerpo_tabla_izq">– Designados.</p>
-<p class="cuerpo_tabla_izq">– Otros.</p>
+<p>Activos a valor razonable con cambios en pérdidas y ganancias.</p>
+<p>– Cartera de negociación.</p>
+<p>– Designados.</p>
+<p>– Otros.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2396,9 +2345,9 @@ a.1) Activos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos financieros a coste amortizado.</p>
+<p>Activos financieros a coste amortizado.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2415,9 +2364,9 @@ a.1) Activos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos financieros a coste.</p>
+<p>Activos financieros a coste.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2434,9 +2383,9 @@ a.1) Activos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Activos a valor razonable con cambios en el patrimonio neto.</p>
+<p>Activos a valor razonable con cambios en el patrimonio neto.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2453,9 +2402,9 @@ a.1) Activos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Derivados de cobertura.</p>
+<p>Derivados de cobertura.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2472,9 +2421,9 @@ a.1) Activos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Total.</p>
+<p>Total.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2496,116 +2445,99 @@ a.1) Activos financieros.
 
 a.2) Pasivos financieros.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_13">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_13">
-<col class="row_column_13">
-<col class="row_column_13">
-<col class="row_column_13">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_14">
-<col class="row_column_13">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td rowspan="4">
-<p class="cabeza_tabla">Categorías</p>
+<p>Categorías</p>
 </td>
 <td colspan="14">
-<p class="cabeza_tabla">Clases</p>
+<p>Clases</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a largo plazo</p>
+<p>Instrumentos financieros a largo plazo</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Instrumentos financieros a corto plazo</p>
+<p>Instrumentos financieros a corto plazo</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Total</p>
+<p>Total</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Deudas con entidades de crédito</p>
+<p>Deudas con entidades de crédito</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Obligaciones y otros valores negociables</p>
+<p>Obligaciones y otros valores negociables</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Deudas con entidades de crédito</p>
+<p>Deudas con entidades de crédito</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Obligaciones y otros valores negociables</p>
+<p>Obligaciones y otros valores negociables</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Derivados</p>
-<p class="cabeza_tabla">Otros</p>
+<p>Derivados</p>
+<p>Otros</p>
 </td>
 <td colspan="2"> </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x</p>
+<p>Ej x</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ej x-1</p>
+<p>Ej x-1</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos financieros a coste amortizado o coste.</p>
+<p>Pasivos financieros a coste amortizado o coste.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2622,12 +2554,12 @@ a.2) Pasivos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Pasivos a valor razonable con cambios en pérdidas y ganancias.</p>
-<p class="cuerpo_tabla_izq">– Cartera de negociación.</p>
-<p class="cuerpo_tabla_izq">– Designados.</p>
-<p class="cuerpo_tabla_izq">– Otros.</p>
+<p>Pasivos a valor razonable con cambios en pérdidas y ganancias.</p>
+<p>– Cartera de negociación.</p>
+<p>– Designados.</p>
+<p>– Otros.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2644,9 +2576,9 @@ a.2) Pasivos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Derivados de cobertura.</p>
+<p>Derivados de cobertura.</p>
 </td>
 <td> </td>
 <td> </td>
@@ -2663,9 +2595,9 @@ a.2) Pasivos financieros.
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Total.</p>
+<p>Total.</p>
 </td>
 <td> </td>
 <td> </td>

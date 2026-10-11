@@ -828,154 +828,148 @@ Cuarenta y dos. Se incluye una disposición transitoria cuadragésima segunda, q
 
 > La cuota adicional de solidaridad a la que se refiere el artículo 19 bis será el resultado de aplicar a cada tramo de retribución que supere la base máxima de cotización los siguientes porcentajes expresados en tanto por ciento, durante cada año desde el año 2025 hasta el año 2045:
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2">Año</th>
-> <th class="cabeza_tabla">Retribuciones desde base máxima hasta 10 % adicional de la base máxima</th>
-> <th class="cabeza_tabla">Retribuciones desde el 10 % adicional de la base máxima hasta 50 % adicional de la base máxima</th>
-> <th class="cabeza_tabla">Retribuciones superiores al 50 % adicional de la base máxima</th>
+> <th rowspan="2">Año</th>
+> <th>Retribuciones desde base máxima hasta 10 % adicional de la base máxima</th>
+> <th>Retribuciones desde el 10 % adicional de la base máxima hasta 50 % adicional de la base máxima</th>
+> <th>Retribuciones superiores al 50 % adicional de la base máxima</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Tipo cotización %</p>
+> <th>
+> <p>Tipo cotización %</p>
 > </th>
-> <th class="cabeza_tabla">Tipo cotización %</th>
-> <th class="cabeza_tabla">Tipo cotización %</th>
+> <th>Tipo cotización %</th>
+> <th>Tipo cotización %</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">2025</td>
-> <td class="cuerpo_tabla_centro">0,92</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1,17</td>
+> <td>2025</td>
+> <td>0,92</td>
+> <td>1</td>
+> <td>1,17</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2026</td>
-> <td class="cuerpo_tabla_centro">1,15</td>
-> <td class="cuerpo_tabla_centro">1,25</td>
-> <td class="cuerpo_tabla_centro">1,46</td>
+> <td>2026</td>
+> <td>1,15</td>
+> <td>1,25</td>
+> <td>1,46</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2027</td>
-> <td class="cuerpo_tabla_centro">1,38</td>
-> <td class="cuerpo_tabla_centro">1,5</td>
-> <td class="cuerpo_tabla_centro">1,75</td>
+> <td>2027</td>
+> <td>1,38</td>
+> <td>1,5</td>
+> <td>1,75</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2028</td>
-> <td class="cuerpo_tabla_centro">1,60</td>
-> <td class="cuerpo_tabla_centro">1,75</td>
-> <td class="cuerpo_tabla_centro">2,04</td>
+> <td>2028</td>
+> <td>1,60</td>
+> <td>1,75</td>
+> <td>2,04</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2029</td>
-> <td class="cuerpo_tabla_centro">1,83</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2,33</td>
+> <td>2029</td>
+> <td>1,83</td>
+> <td>2</td>
+> <td>2,33</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2030</td>
-> <td class="cuerpo_tabla_centro">2,06</td>
-> <td class="cuerpo_tabla_centro">2,25</td>
-> <td class="cuerpo_tabla_centro">2,63</td>
+> <td>2030</td>
+> <td>2,06</td>
+> <td>2,25</td>
+> <td>2,63</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2031</td>
-> <td class="cuerpo_tabla_centro">2,29</td>
-> <td class="cuerpo_tabla_centro">2,5</td>
-> <td class="cuerpo_tabla_centro">2,92</td>
+> <td>2031</td>
+> <td>2,29</td>
+> <td>2,5</td>
+> <td>2,92</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2032</td>
-> <td class="cuerpo_tabla_centro">2,52</td>
-> <td class="cuerpo_tabla_centro">2,75</td>
-> <td class="cuerpo_tabla_centro">3,21</td>
+> <td>2032</td>
+> <td>2,52</td>
+> <td>2,75</td>
+> <td>3,21</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2033</td>
-> <td class="cuerpo_tabla_centro">2,75</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">3,50</td>
+> <td>2033</td>
+> <td>2,75</td>
+> <td>3</td>
+> <td>3,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2034</td>
-> <td class="cuerpo_tabla_centro">2,98</td>
-> <td class="cuerpo_tabla_centro">3,25</td>
-> <td class="cuerpo_tabla_centro">3,79</td>
+> <td>2034</td>
+> <td>2,98</td>
+> <td>3,25</td>
+> <td>3,79</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2035</td>
-> <td class="cuerpo_tabla_centro">3,21</td>
-> <td class="cuerpo_tabla_centro">3,5</td>
-> <td class="cuerpo_tabla_centro">4,08</td>
+> <td>2035</td>
+> <td>3,21</td>
+> <td>3,5</td>
+> <td>4,08</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2036</td>
-> <td class="cuerpo_tabla_centro">3,44</td>
-> <td class="cuerpo_tabla_centro">3,75</td>
-> <td class="cuerpo_tabla_centro">4,38</td>
+> <td>2036</td>
+> <td>3,44</td>
+> <td>3,75</td>
+> <td>4,38</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2037</td>
-> <td class="cuerpo_tabla_centro">3,67</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">4,67</td>
+> <td>2037</td>
+> <td>3,67</td>
+> <td>4</td>
+> <td>4,67</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2038</td>
-> <td class="cuerpo_tabla_centro">3,90</td>
-> <td class="cuerpo_tabla_centro">4,25</td>
-> <td class="cuerpo_tabla_centro">4,96</td>
+> <td>2038</td>
+> <td>3,90</td>
+> <td>4,25</td>
+> <td>4,96</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2039</td>
-> <td class="cuerpo_tabla_centro">4,13</td>
-> <td class="cuerpo_tabla_centro">4,5</td>
-> <td class="cuerpo_tabla_centro">5,25</td>
+> <td>2039</td>
+> <td>4,13</td>
+> <td>4,5</td>
+> <td>5,25</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2040</td>
-> <td class="cuerpo_tabla_centro">4,35</td>
-> <td class="cuerpo_tabla_centro">4,75</td>
-> <td class="cuerpo_tabla_centro">5,54</td>
+> <td>2040</td>
+> <td>4,35</td>
+> <td>4,75</td>
+> <td>5,54</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2041</td>
-> <td class="cuerpo_tabla_centro">4,58</td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">5,83</td>
+> <td>2041</td>
+> <td>4,58</td>
+> <td>5</td>
+> <td>5,83</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2042</td>
-> <td class="cuerpo_tabla_centro">4,81</td>
-> <td class="cuerpo_tabla_centro">5,25</td>
-> <td class="cuerpo_tabla_centro">6,13</td>
+> <td>2042</td>
+> <td>4,81</td>
+> <td>5,25</td>
+> <td>6,13</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2043</td>
-> <td class="cuerpo_tabla_centro">5,04</td>
-> <td class="cuerpo_tabla_centro">5,5</td>
-> <td class="cuerpo_tabla_centro">6,42</td>
+> <td>2043</td>
+> <td>5,04</td>
+> <td>5,5</td>
+> <td>6,42</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2044</td>
-> <td class="cuerpo_tabla_centro">5,27</td>
-> <td class="cuerpo_tabla_centro">5,75</td>
-> <td class="cuerpo_tabla_centro">6,71</td>
+> <td>2044</td>
+> <td>5,27</td>
+> <td>5,75</td>
+> <td>6,71</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2045</td>
-> <td class="cuerpo_tabla_centro">5,50</td>
-> <td class="cuerpo_tabla_centro">6,00</td>
-> <td class="cuerpo_tabla_centro">7,00</td>
+> <td>2045</td>
+> <td>5,50</td>
+> <td>6,00</td>
+> <td>7,00</td>
 > </tr>
 > </tbody>
 > </table>

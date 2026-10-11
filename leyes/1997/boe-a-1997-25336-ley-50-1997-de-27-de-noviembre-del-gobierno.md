@@ -166,12 +166,6 @@ k) Ejercer cuantas otras atribuciones le confieran la Constitución, las leyes y
 
 2\. A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello, sin perjuicio de lo dispuesto en los tratados internacionales válidamente celebrados por España.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 11.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)-11, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "2. A las reuniones del Consejo de Ministros podrán asistir los Secretarios de Estado y excepcionalmente otros altos cargos, cuando sean convocados para ello."
-
 3\. Las deliberaciones del Consejo de Ministros serán secretas.
 
 > Se modifica el apartado 2, con efectos desde el 3 de abril de 2025, por la disposición final 11.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
@@ -528,24 +522,6 @@ La concurrencia de alguna o varias de estas razones, debidamente motivadas, se j
 
 La consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a quince días naturales.
 
-> Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 11.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)-11, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "2. Se sustanciará una consulta pública, a través del portal web del departamento competente, con carácter previo a la elaboración del texto, en la que se recabará opinión de los sujetos potencialmente afectados por la futura norma y de las organizaciones más representativas acerca de:
-
-> a) Los problemas que se pretenden solucionar con la nueva norma.
-
-> b) La necesidad y oportunidad de su aprobación.
-
-> c) Los objetivos de la norma.
-
-> d) Las posibles soluciones alternativas regulatorias y no regulatorias.
-
-> Podrá prescindirse del trámite de consulta pública previsto en este apartado en el caso de la elaboración de normas presupuestarias u organizativas de la Administración General del Estado o de las organizaciones dependientes o vinculadas a éstas, cuando concurran razones graves de interés público que lo justifiquen, o cuando la propuesta normativa no tenga un impacto significativo en la actividad económica, no imponga obligaciones relevantes a los destinatarios o regule aspectos parciales de una materia. También podrá prescindirse de este trámite de consulta en el caso de tramitación urgente de iniciativas normativas, tal y como se establece en el artículo 27.2. La concurrencia de alguna o varias de estas razones, debidamente motivadas, se justificarán en la Memoria del Análisis de Impacto Normativo.
-
-> La consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a quince días naturales."
-
 3\. El centro directivo competente elaborará con carácter preceptivo una Memoria del Análisis de Impacto Normativo, que deberá contener los siguientes apartados:
 
 a) Oportunidad de la propuesta y alternativas de regulación estudiadas, lo que deberá incluir una justificación de la necesidad de la nueva norma frente a la alternativa de no aprobar ninguna regulación.
@@ -697,8 +673,6 @@ El Consejo de Estado, supremo órgano consultivo del Gobierno, se ajustará en s
 ##### Disposición transitoria única. Régimen aplicable a los procedimientos de elaboración de normas con rango de ley y reglamentos ya iniciados con carácter previo a la modificación del artículo 26.2 por la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia.
 
 No será necesaria la consulta pública en aquellos procedimientos de elaboración de normas con rango de ley y reglamentos ya iniciados a la entrada en vigor de la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, en los que concurra cualquiera de las circunstancias previstas en el artículo 26.2 de esta ley.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 11.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)-11, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
 
 > Se añade, con efectos desde el 3 de abril de 2025, por la disposición final 11.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

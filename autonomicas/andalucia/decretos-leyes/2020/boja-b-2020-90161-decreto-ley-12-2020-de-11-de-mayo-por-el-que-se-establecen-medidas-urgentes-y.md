@@ -946,45 +946,38 @@ Se atenderá al riesgo que supone la realización de actividades deportivas para
 
 El grado de protección de la playa, será el resultante del valor combinado de la afluencia y el riesgo según la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">GRADO DE PROTECCIÓN DE LA PLAYA</th>
+<th colspan="5">GRADO DE PROTECCIÓN DE LA PLAYA</th>
 </tr>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">AFLUENCIA</th>
-<th class="cabeza_tabla">BAJA</th>
-<th class="cabeza_tabla">MEDIA</th>
-<th class="cabeza_tabla">ALTA</th>
+<th> </th>
+<th>AFLUENCIA</th>
+<th>BAJA</th>
+<th>MEDIA</th>
+<th>ALTA</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">RIESGO</td>
-<td class="cuerpo_tabla_centro">BAJO</td>
-<td class="cuerpo_tabla_centro">BAJO</td>
-<td class="cuerpo_tabla_centro">MODERADO</td>
-<td class="cuerpo_tabla_centro">ALTO</td>
+<td rowspan="3">RIESGO</td>
+<td>BAJO</td>
+<td>BAJO</td>
+<td>MODERADO</td>
+<td>ALTO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MEDIO</td>
-<td class="cuerpo_tabla_centro">BAJO</td>
-<td class="cuerpo_tabla_centro">MODERADO</td>
-<td class="cuerpo_tabla_centro">ALTO</td>
+<td>MEDIO</td>
+<td>BAJO</td>
+<td>MODERADO</td>
+<td>ALTO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ALTO</td>
-<td class="cuerpo_tabla_centro">MODERADO</td>
-<td class="cuerpo_tabla_centro">ALTO</td>
-<td class="cuerpo_tabla_centro">ALTO</td>
+<td>ALTO</td>
+<td>MODERADO</td>
+<td>ALTO</td>
+<td>ALTO</td>
 </tr>
 </tbody>
 </table>

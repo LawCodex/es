@@ -520,1077 +520,1077 @@ En el caso de los cementos comunes resistentes a los sulfatos y que además sean
 
 **TABLA Al.1.1a. Cementos comunes de la norma UNE-EN 197-1**
 
-<table cellpadding="0" cellspacing="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <th rowspan="5">
-<p class="cabeza_tabla">Tipos</p>
+<p>Tipos</p>
 </th>
 <th rowspan="5">
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </th>
 <th colspan="2" rowspan="5">
-<p class="cabeza_tabla">Designación</p>
+<p>Designación</p>
 </th>
 <th colspan="11">
-<p class="cabeza_tabla">Composición (proporción en masa <sup>1) 5)</sup>)</p>
+<p>Composición (proporción en masa <sup>1) 5)</sup>)</p>
 </th>
 </tr>
 <tr>
 <th colspan="10">
-<p class="cabeza_tabla">Componentes principales</p>
+<p>Componentes principales</p>
 </th>
 <th rowspan="4">
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro">Componentes.</p>
-<p class="cuerpo_tabla_centro">minoritarios</p>
+<p> </p>
+<p>Componentes.</p>
+<p>minoritarios</p>
 </th>
 </tr>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Clínker</p>
-<p class="cabeza_tabla"> </p>
-<p class="cabeza_tabla">K</p>
+<p>Clínker</p>
+<p> </p>
+<p>K</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Escoria de horno alto</p>
-<p class="cabeza_tabla">S</p>
+<p>Escoria de horno alto</p>
+<p>S</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Humo de</p>
-<p class="cabeza_tabla">sílice</p>
-<p class="cabeza_tabla">D <sup>2)</sup></p>
+<p>Humo de</p>
+<p>sílice</p>
+<p>D <sup>2)</sup></p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Puzolana</p>
+<p>Puzolana</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Cenizas volantes</p>
+<p>Cenizas volantes</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Esquistos</p>
-<p class="cabeza_tabla">calcinados</p>
-<p class="cabeza_tabla">T</p>
+<p>Esquistos</p>
+<p>calcinados</p>
+<p>T</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Caliza<sup>4)</sup></p>
+<p>Caliza<sup>4)</sup></p>
 </th>
 </tr>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Natural</p>
-<p class="cabeza_tabla">P</p>
+<p>Natural</p>
+<p>P</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Natural calcinada</p>
-<p class="cabeza_tabla">Q</p>
+<p>Natural calcinada</p>
+<p>Q</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Silíceas</p>
-<p class="cabeza_tabla">V</p>
+<p>Silíceas</p>
+<p>V</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">calcáreas</p>
-<p class="cabeza_tabla">W</p>
+<p>calcáreas</p>
+<p>W</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">L</p>
+<p>L</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">LL</p>
+<p>LL</p>
 </th>
 </tr>
 <tr> </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM I</p>
+<p>CEM I</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Cemento pórtland</p>
+<p>Cemento pórtland</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM I</p>
+<p>CEM I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">95-100</p>
+<p>95-100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="19">
-<p class="cuerpo_tabla_centro">CEM II</p>
+<p>CEM II</p>
 </td>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento pórtland con escoria</p>
+<p>Cemento pórtland con escoria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-S</p>
+<p>CEM II/A-S</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-94</p>
+<p>80-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-20</p>
+<p>6-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/B-S</p>
+<p>CEM II/B-S</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-79</p>
+<p>65-79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21-35</p>
+<p>21-35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Cemento pórtland con humo de sílice</p>
+<p>Cemento pórtland con humo de sílice</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-D</p>
+<p>CEM II/A-D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90-94</p>
+<p>90-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-10</p>
+<p>6-10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">
-<p class="cuerpo_tabla_centro">Cemento pórtland con puzolana</p>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">CEM II/A-P</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80-94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6-20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM II/B-P</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65-79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21-35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM II/A-Q</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80-94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6-20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM II/B-Q</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65-79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21-35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">
-<p class="cuerpo_tabla_centro">Cemento pórtland con ceniza volante</p>
+<p>Cemento pórtland con puzolana</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-V</p>
+<p>CEM II/A-P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-94</p>
+<p>80-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>6-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-20</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM II/B-V</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65-79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21-35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-W</p>
+<p>CEM II/B-P</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-94</p>
+<p>65-79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>21-35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-20</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/B-W</p>
+<p>CEM II/A-Q</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-79</p>
+<p>80-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>6-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21-35</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM II/B-Q</p>
+</td>
+<td>
+<p>65-79</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>21-35</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">
+<p>Cemento pórtland con ceniza volante</p>
+</td>
+<td>
+<p>CEM II/A-V</p>
+</td>
+<td>
+<p>80-94</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>6-20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM II/B-V</p>
+</td>
+<td>
+<p>65-79</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>21-35</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM II/A-W</p>
+</td>
+<td>
+<p>80-94</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>6-20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM II/B-W</p>
+</td>
+<td>
+<p>65-79</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>21-35</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento pórtland con esquistos calcinados</p>
+<p>Cemento pórtland con esquistos calcinados</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-T</p>
+<p>CEM II/A-T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-94</p>
+<p>80-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-20</p>
+<p>6-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/B-T</p>
+<p>CEM II/B-T</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-79</p>
+<p>65-79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21-35</p>
+<p>21-35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">
-<p class="cuerpo_tabla_centro">Cemento pórtland</p>
-<p class="cuerpo_tabla_centro">con caliza</p>
+<p>Cemento pórtland</p>
+<p>con caliza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-L</p>
+<p>CEM II/A-L</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-94</p>
+<p>80-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-20</p>
+<p>6-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM II/B-L</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65-79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21-35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-LL</p>
+<p>CEM II/B-L</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-94</p>
+<p>65-79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>21-35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6-20</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/B-LL</p>
+<p>CEM II/A-LL</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-79</p>
+<p>80-94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21-35</p>
+<p>6-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM II/B-LL</p>
+</td>
+<td>
+<p>65-79</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>21-35</p>
+</td>
+<td>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento pórtland compuesto<sup>3)</sup></p>
+<p>Cemento pórtland compuesto<sup>3)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/A-M</p>
+<p>CEM II/A-M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80-88</p>
+<p>80-88</p>
 </td>
 <td colspan="9">
-<p class="cuerpo_tabla_centro">12-20</p>
+<p>12-20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM II/B-M</p>
+<p>CEM II/B-M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-79</p>
+<p>65-79</p>
 </td>
 <td colspan="9">
-<p class="cuerpo_tabla_centro">&lt;--------------------------- 21-35 --------------------------------&gt;</p>
+<p>&lt;--------------------------- 21-35 --------------------------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">CEM III</p>
+<p>CEM III</p>
 </td>
 <td colspan="2" rowspan="3">
-<p class="cuerpo_tabla_centro">Cemento de horno alto</p>
+<p>Cemento de horno alto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM III/A</p>
+<p>CEM III/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35-64</p>
+<p>35-64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36-65</p>
+<p>36-65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM III/B</p>
+<p>CEM III/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20-34</p>
+<p>20-34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">66-80</p>
+<p>66-80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM III/C</p>
+<p>CEM III/C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5-19</p>
+<p>5-19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">81-95</p>
+<p>81-95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">CEM IV</p>
-</td>
-<td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento puzolánico<sup>3)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">CEM IV/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65-89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td colspan="5">
-<p class="cuerpo_tabla_centro">&lt;----------------- 11-35 ------------------&gt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM IV/B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45-64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td colspan="5">
-<p class="cuerpo_tabla_centro">&lt;----------------- 36-55 ------------------&gt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">CEM V</p>
+<p>CEM IV</p>
 </td>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento compuesto<sup>3)</sup></p>
+<p>Cemento puzolánico<sup>3)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM V/A</p>
+<p>CEM IV/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40-64</p>
+<p>65-89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18-30</p>
+<p>–</p>
+</td>
+<td colspan="5">
+<p>&lt;----------------- 11-35 ------------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td colspan="3">
-<p class="cuerpo_tabla_centro">&lt;---- 18-30 ----&gt;</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM V/B</p>
+<p>CEM IV/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20-38</p>
+<p>45-64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31-49</p>
+<p>–</p>
+</td>
+<td colspan="5">
+<p>&lt;----------------- 36-55 ------------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CEM V</p>
+</td>
+<td colspan="2" rowspan="2">
+<p>Cemento compuesto<sup>3)</sup></p>
+</td>
+<td>
+<p>CEM V/A</p>
+</td>
+<td>
+<p>40-64</p>
+</td>
+<td>
+<p>18-30</p>
+</td>
+<td>
+<p>–</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">&lt;------- 31-49 --------&gt;</p>
+<p>&lt;---- 18-30 ----&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM V/B</p>
+</td>
+<td>
+<p>20-38</p>
+</td>
+<td>
+<p>31-49</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td colspan="3">
+<p>&lt;------- 31-49 --------&gt;</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
 </td>
 </tr>
 </tbody>
@@ -1608,194 +1608,194 @@ Los requisitos para la composición se refieren a la suma de todos los component
 
 Tabla AI.1.1b. Cementos comunes resistentes a los sulfatos de la norma UNE-EN 197-1
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Tipos principales</p>
+<p>Tipos principales</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Designación</p>
+<p>Designación</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Contenido de C<sub>3</sub>A (%)<sup>(4)</sup></p>
+<p>Contenido de C<sub>3</sub>A (%)<sup>(4)</sup></p>
 </th>
 <th colspan="5">
-<p class="cabeza_tabla">Composición (proporción en masa <sup>(1)</sup>)</p>
+<p>Composición (proporción en masa <sup>(1)</sup>)</p>
 </th>
 </tr>
 <tr>
 <th colspan="4">
-<p class="cabeza_tabla">Componentes principales</p>
+<p>Componentes principales</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Componentes minoritarios adicionales</p>
+<p>Componentes minoritarios adicionales</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Clinker</p>
-<p class="cabeza_tabla">K</p>
+<p>Clinker</p>
+<p>K</p>
 </th>
 <th>
-<p class="cabeza_tabla">Escoria de horno alto</p>
-<p class="cabeza_tabla">S</p>
+<p>Escoria de horno alto</p>
+<p>S</p>
 </th>
 <th>
-<p class="cabeza_tabla">Puzolana natural</p>
-<p class="cabeza_tabla">P</p>
+<p>Puzolana natural</p>
+<p>P</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ceniza volante silícea</p>
-<p class="cabeza_tabla">V</p>
+<p>Ceniza volante silícea</p>
+<p>V</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">CEM I</p>
+<p>CEM I</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Cemento pórtland resistente a los sulfatos.</p>
+<p>Cemento pórtland resistente a los sulfatos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CEM I-SR 0</p>
+<p>CEM I-SR 0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">= 0</p>
+<p>= 0</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">95-100</p>
+<p>95-100</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CEM I-SR 3</p>
+<p>CEM I-SR 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 3</p>
+<p>≤ 3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CEM I-SR 5</p>
+<p>CEM I-SR 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">CEM III<sup>(3)</sup></p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Cemento de horno alto resistente a los sulfatos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">CEM III/B-SR</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20-34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">66-80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CEM III/C-SR</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5-19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">81-95</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>≤ 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">CEM IV</p>
+<p>CEM III<sup>(3)</sup></p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Cemento puzolánico resistente a los sulfatos <sup>(2)</sup></p>
+<p>Cemento de horno alto resistente a los sulfatos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">CEM IV/A-SR</p>
+<p>CEM III/B-SR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 9</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-79</p>
+<p>20-34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>66-80</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEM III/C-SR</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>5-19</p>
+</td>
+<td>
+<p>81-95</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0-5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CEM IV</p>
+</td>
+<td rowspan="2">
+<p>Cemento puzolánico resistente a los sulfatos <sup>(2)</sup></p>
+</td>
+<td>
+<p>CEM IV/A-SR</p>
+</td>
+<td>
+<p>≤ 9</p>
+</td>
+<td>
+<p>65-79</p>
+</td>
+<td>
+<p>–</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">21-35</p>
+<p>21-35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CEM IV/B-SR</p>
+<p>CEM IV/B-SR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 9</p>
+<p>≤ 9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45-64</p>
+<p>45-64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">36-55</p>
+<p>36-55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 </tbody>
@@ -1833,195 +1833,195 @@ Las prescripciones relativas a las características mecánicas y físicas que de
 
 Tabla AI.1.3 Prescripciones mecánicas y físicas de los cementos comunes de la norma UNE-EN 197-1
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Clase de resistencia</p>
+<p>Clase de resistencia</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Resistencia a compresión <sup>(2)</sup></p>
-<p class="cabeza_tabla">UNE-EN 196-1</p>
-<p class="cabeza_tabla">(N/mm<sup>2</sup>)</p>
+<p>Resistencia a compresión <sup>(2)</sup></p>
+<p>UNE-EN 196-1</p>
+<p>(N/mm<sup>2</sup>)</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Tiempo de principio de fraguado</p>
-<p class="cabeza_tabla">UNE-EN196-3</p>
-<p class="cabeza_tabla">(min)</p>
+<p>Tiempo de principio de fraguado</p>
+<p>UNE-EN196-3</p>
+<p>(min)</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Estabilidad de volumen</p>
-<p class="cabeza_tabla">UNE-EN196-3</p>
-<p class="cabeza_tabla">(Expansión, mm)</p>
+<p>Estabilidad de volumen</p>
+<p>UNE-EN196-3</p>
+<p>(Expansión, mm)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Calor de Hidratación <sup>(3)</sup></p>
-<p class="cabeza_tabla">(J/g)</p>
+<p>Calor de Hidratación <sup>(3)</sup></p>
+<p>(J/g)</p>
 </th>
 </tr>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Resistencia inicial</p>
+<p>Resistencia inicial</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Resistencia nominal</p>
+<p>Resistencia nominal</p>
 </th>
 <th>
-<p class="cabeza_tabla">UNE-EN 196-9</p>
+<p>UNE-EN 196-9</p>
 </th>
 <th>
-<p class="cabeza_tabla">UNE-EN 196-8</p>
+<p>UNE-EN 196-8</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">2 días</p>
+<p>2 días</p>
 </th>
 <th>
-<p class="cabeza_tabla">7 días</p>
+<p>7 días</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">28 días</p>
+<p>28 días</p>
 </th>
 <th>
-<p class="cabeza_tabla">41 horas</p>
+<p>41 horas</p>
 </th>
 <th>
-<p class="cabeza_tabla">7 días</p>
+<p>7 días</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">32,5 L <sup>(1)</sup></p>
+<p>32,5 L <sup>(1)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥12,0</p>
+<p>≥12,0</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥32,5</p>
+<p>≥32,5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≤ 52,5</p>
+<p>≤ 52,5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥75</p>
+<p>≥75</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_centro">≤ 10</p>
+<p>≤ 10</p>
 </td>
 <td colspan="2" rowspan="9">
-<p class="cuerpo_tabla_centro">≤ 270</p>
+<p>≤ 270</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">32,5 N</p>
+<p>32,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥16,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">32,5 R</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≥10,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>≥16,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42,5 L <sup>(1)</sup></p>
+<p>32,5 R</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>≥10,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥16,0</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42,5 L <sup>(1)</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>≥16,0</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥42,5</p>
+<p>≥42,5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≤ 62,5</p>
+<p>≤ 62,5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥60</p>
+<p>≥60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42,5 N</p>
+<p>42,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥10,0</p>
+<p>≥10,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">42,5 R</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≥20,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52,5 L <sup>(1)</sup></p>
+<p>42,5 R</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥10,0</p>
+<p>≥20,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>52,5 L <sup>(1)</sup></p>
+</td>
+<td>
+<p>≥10,0</p>
+</td>
+<td>
+<p>–</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥52,5</p>
+<p>≥52,5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥45</p>
+<p>≥45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52,5 N</p>
+<p>52,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥20,0</p>
+<p>≥20,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52,5 R</p>
+<p>52,5 R</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥30,0</p>
+<p>≥30,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -2037,159 +2037,159 @@ AI.1.4 Prescripciones químicas: Las prescripciones relativas a las característ
 
 Tabla AI.1.4a Prescripciones químicas de los cementos comunes de la norma UNE-EN 197-1
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Característica</p>
+<p>Característica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Norma de ensayo</p>
+<p>Norma de ensayo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipo de cemento</p>
+<p>Tipo de cemento</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase de resistencia</p>
+<p>Clase de resistencia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Prescripción<sup>(1)</sup></p>
+<p>Prescripción<sup>(1)</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Pérdida por calcinación</p>
+<p>Pérdida por calcinación</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM I</p>
+<p>CEM I</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Todas</p>
+<p>Todas</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≤ 5,0%</p>
+<p>≤ 5,0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM III</p>
+<p>CEM III</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Residuo insoluble</p>
+<p>Residuo insoluble</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2<sup>(2)</sup></p>
+<p>UNE-EN 196-2<sup>(2)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM I</p>
+<p>CEM I</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Todas</p>
+<p>Todas</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≤ 5,0%</p>
+<p>≤ 5,0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM III</p>
+<p>CEM III</p>
 </td>
 </tr>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Contenido de sulfatos (como SO<sub>3</sub>)</p>
+<p>Contenido de sulfatos (como SO<sub>3</sub>)</p>
 </td>
 <td rowspan="7">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td rowspan="6">
-<p class="cuerpo_tabla_centro">CEM I</p>
-<p class="cuerpo_tabla_centro">CEM II<sup>(3)</sup></p>
-<p class="cuerpo_tabla_centro">CEM IV</p>
-<p class="cuerpo_tabla_centro">CEM V</p>
+<p>CEM I</p>
+<p>CEM II<sup>(3)</sup></p>
+<p>CEM IV</p>
+<p>CEM V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32,5 N</p>
+<p>32,5 N</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≤ 3,5%</p>
+<p>≤ 3,5%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">32,5 R</p>
+<p>32,5 R</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42,5 N</p>
+<p>42,5 N</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42,5 R</p>
+<p>42,5 R</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≤ 4,0%</p>
+<p>≤ 4,0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52,5 N</p>
+<p>52,5 N</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">52,5 R</p>
+<p>52,5 R</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM III<sup>(4)</sup></p>
+<p>CEM III<sup>(4)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Todas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido de cloruros (Cl<sup>-</sup>)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Todos<sup>(5)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Todas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤ 0,10%<sup>(6)</sup></p>
+<p>Todas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Puzolanicidad</p>
+<p>Contenido de cloruros (Cl<sup>-</sup>)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 196-5</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM IV</p>
+<p>Todos<sup>(5)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Todas</p>
+<p>Todas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Cumplimiento del ensayo</p>
+<p>≤ 0,10%<sup>(6)</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Puzolanicidad</p>
+</td>
+<td>
+<p>UNE-EN 196-5</p>
+</td>
+<td>
+<p>CEM IV</p>
+</td>
+<td>
+<p>Todas</p>
+</td>
+<td>
+<p>Cumplimiento del ensayo</p>
 </td>
 </tr>
 </tbody>
@@ -2209,121 +2209,121 @@ Tabla AI.1.4a Prescripciones químicas de los cementos comunes de la norma UNE-E
 
 Tabla AI.1.4b Prescripciones químicas de los cementos comunes resistentes a los sulfatos de la norma UNE-EN 197-1
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Característica</p>
+<p>Característica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Norma de ensayo</p>
+<p>Norma de ensayo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipo de cemento</p>
+<p>Tipo de cemento</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase de resistencia</p>
+<p>Clase de resistencia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Prescripción <sup>(1)</sup></p>
+<p>Prescripción <sup>(1)</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Contenido de sulfatos (como SO<sub>3</sub>)</p>
+<p>Contenido de sulfatos (como SO<sub>3</sub>)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">CEM I-SR 0</p>
-<p class="cuerpo_tabla_centro">CEM I-SR 3</p>
-<p class="cuerpo_tabla_centro">CEM I-SR 5 <sup>(2)</sup></p>
-<p class="cuerpo_tabla_centro">CEM IV/A-SR</p>
-<p class="cuerpo_tabla_centro">CEM IV/B-SR</p>
+<p>CEM I-SR 0</p>
+<p>CEM I-SR 3</p>
+<p>CEM I-SR 5 <sup>(2)</sup></p>
+<p>CEM IV/A-SR</p>
+<p>CEM IV/B-SR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32,5 N</p>
-<p class="cuerpo_tabla_centro">32,5 R</p>
-<p class="cuerpo_tabla_centro">42,5 N</p>
+<p>32,5 N</p>
+<p>32,5 R</p>
+<p>42,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 3,0%</p>
+<p>≤ 3,0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42,5 R</p>
-<p class="cuerpo_tabla_centro">52,5 N</p>
-<p class="cuerpo_tabla_centro">52,5 R</p>
+<p>42,5 R</p>
+<p>52,5 N</p>
+<p>52,5 R</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 3,5%</p>
+<p>≤ 3,5%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">C<sub>3</sub>A en el clínker <sup>(3)</sup></p>
+<p>C<sub>3</sub>A en el clínker <sup>(3)</sup></p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2 <sup>(4)</sup></p>
+<p>UNE-EN 196-2 <sup>(4)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM I-SR 0</p>
+<p>CEM I-SR 0</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Todas</p>
+<p>Todas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">CEM I-SR 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤ 3%</p>
+<p>0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">CEM I-SR 5</p>
+<p>CEM I-SR 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 5%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">–<sup>(5)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">CEM IV/A-SR</p>
-<p class="cuerpo_tabla_centro">CEM IV/B-SR</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤ 9%</p>
+<p>≤ 3%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Puzolanicidad</p>
+<p>CEM I-SR 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 196-5</p>
+<p>≤ 5%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>–<sup>(5)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CEM IV/A-SR</p>
-<p class="cuerpo_tabla_centro">CEM IV/B-SR</p>
+<p>CEM IV/A-SR</p>
+<p>CEM IV/B-SR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Todas</p>
+<p>≤ 9%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Puzolanicidad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Cumplimiento del ensayo a los 8 días</p>
+<p>UNE-EN 196-5</p>
+</td>
+<td>
+<p>CEM IV/A-SR</p>
+<p>CEM IV/B-SR</p>
+</td>
+<td>
+<p>Todas</p>
+</td>
+<td>
+<p>Cumplimiento del ensayo a los 8 días</p>
 </td>
 </tr>
 </tbody>
@@ -2355,224 +2355,224 @@ Las proporciones en masa de los componentes de los cementos especiales de muy ba
 
 **TABLA AI.2.1 Cementos especiales de muy bajo calor de hidratación**
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <th rowspan="4">
-<p class="cabeza_tabla">Tipos</p>
+<p>Tipos</p>
 </th>
 <th rowspan="4">
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </th>
 <th rowspan="4">
-<p class="cabeza_tabla">Designación</p>
+<p>Designación</p>
 </th>
 <th colspan="7">
-<p class="cabeza_tabla">Composición (proporción en masa)<sup>1)</sup></p>
+<p>Composición (proporción en masa)<sup>1)</sup></p>
 </th>
 <th rowspan="4">
-<p class="cabeza_tabla">Componentes</p>
-<p class="cabeza_tabla">minoritarios</p>
+<p>Componentes</p>
+<p>minoritarios</p>
 </th>
 </tr>
 <tr>
 <th colspan="7">
-<p class="cabeza_tabla">Componentes principales</p>
+<p>Componentes principales</p>
 </th>
 </tr>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Clínker</p>
-<p class="cabeza_tabla">K</p>
+<p>Clínker</p>
+<p>K</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Escoria de horno alto</p>
-<p class="cabeza_tabla">S</p>
+<p>Escoria de horno alto</p>
+<p>S</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Humo de sílice</p>
-<p class="cabeza_tabla">D2)</p>
+<p>Humo de sílice</p>
+<p>D2)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Puzolana</p>
+<p>Puzolana</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Cenizas volantes</p>
+<p>Cenizas volantes</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Natural</p>
-<p class="cabeza_tabla">P</p>
+<p>Natural</p>
+<p>P</p>
 </th>
 <th>
-<p class="cabeza_tabla">Natural</p>
-<p class="cabeza_tabla">calcinada</p>
-<p class="cabeza_tabla">Q</p>
+<p>Natural</p>
+<p>calcinada</p>
+<p>Q</p>
 </th>
 <th>
-<p class="cabeza_tabla">Silíceas</p>
-<p class="cabeza_tabla">V</p>
+<p>Silíceas</p>
+<p>V</p>
 </th>
 <th>
-<p class="cabeza_tabla">Calcáreas</p>
-<p class="cabeza_tabla">W</p>
+<p>Calcáreas</p>
+<p>W</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">VLH III</p>
+<p>VLH III</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento de horno alto</p>
+<p>Cemento de horno alto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH III/B</p>
+<p>VLH III/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20-34</p>
+<p>20-34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">66-80</p>
+<p>66-80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">VLH III/C</p>
+<p>VLH III/C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5-19</p>
+<p>5-19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">81-95</p>
+<p>81-95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">VLH IV</p>
+<p>VLH IV</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento puzolánico<sup>3)</sup></p>
+<p>Cemento puzolánico<sup>3)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH IV/A</p>
+<p>VLH IV/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65-89</p>
+<p>65-89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">&lt;-------------------------11-35----------------------&gt;</p>
+<p>&lt;-------------------------11-35----------------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">VLH IV/B</p>
+<p>VLH IV/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45-64</p>
+<p>45-64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">&lt;-------------------------36-55---------------------&gt;</p>
+<p>&lt;-------------------------36-55---------------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">VLH V</p>
+<p>VLH V</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Cemento compuesto<sup>3)</sup></p>
+<p>Cemento compuesto<sup>3)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH V/A</p>
+<p>VLH V/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40-64</p>
+<p>40-64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18-30</p>
+<p>18-30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">&lt;------------18-30------------&gt;</p>
+<p>&lt;------------18-30------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">VLH V/B</p>
+<p>VLH V/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20-38</p>
+<p>20-38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31-49</p>
+<p>31-49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">&lt;------------31-49------------&gt;</p>
+<p>&lt;------------31-49------------&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 </tbody>
@@ -2596,62 +2596,62 @@ Las prescripciones relativas a las características mecánicas y físicas que de
 
 Tabla AI.2.3 Prescripciones mecánicas y físicas de los cementos especiales de muy bajo calor de hidratación
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Clase de resistencia</p>
+<p>Clase de resistencia</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Resistencia a compresión UNE-EN 196-1</p>
-<p class="cabeza_tabla">(N/mm<sup>2</sup>)</p>
+<p>Resistencia a compresión UNE-EN 196-1</p>
+<p>(N/mm<sup>2</sup>)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Tiempo de principio de fraguado</p>
-<p class="cabeza_tabla">UNE-EN 196-3</p>
-<p class="cabeza_tabla">(min)</p>
+<p>Tiempo de principio de fraguado</p>
+<p>UNE-EN 196-3</p>
+<p>(min)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Estabilidad de volumen</p>
-<p class="cabeza_tabla">UNE-EN 196-3 Expansión</p>
-<p class="cabeza_tabla">(mm)</p>
+<p>Estabilidad de volumen</p>
+<p>UNE-EN 196-3 Expansión</p>
+<p>(mm)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Calor de hidratación (J/g)</p>
+<p>Calor de hidratación (J/g)</p>
 </th>
 </tr>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Resistencia nominal</p>
-<p class="cabeza_tabla">28 días</p>
+<p>Resistencia nominal</p>
+<p>28 días</p>
 </th>
 <th>
-<p class="cabeza_tabla">UNE-EN 196-9 a 41 horas</p>
+<p>UNE-EN 196-9 a 41 horas</p>
 </th>
 <th>
-<p class="cabeza_tabla">UNE-EN 196-8 a 7 días</p>
+<p>UNE-EN 196-8 a 7 días</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22,5</p>
+<p>22,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥22,5</p>
+<p>≥22,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤42,5</p>
+<p>≤42,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥75</p>
+<p>≥75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤10</p>
+<p>≤10</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">≤220</p>
+<p>≤220</p>
 </td>
 </tr>
 </tbody>
@@ -2663,113 +2663,113 @@ Las prescripciones relativas a las características químicas que deben cumplir 
 
 Tabla AI.2.4 Prescripciones químicas de los cementos especiales de muy bajo calor de hidratación
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Propiedad</p>
+<p>Propiedad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayo de referencia</p>
+<p>Ensayo de referencia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Designación</p>
+<p>Designación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Prescripción<sup>(1)</sup></p>
+<p>Prescripción<sup>(1)</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Perdida por calcinación</p>
+<p>Perdida por calcinación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH III</p>
+<p>VLH III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤5,0%</p>
+<p>≤5,0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuo insoluble</p>
+<p>Residuo insoluble</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 196-2<sup>(2)</sup></p>
+<p>UNE-EN 196-2<sup>(2)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH III</p>
+<p>VLH III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤5,0%</p>
+<p>≤5,0%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Contenido de sulfatos (como SO<sub>3</sub>)</p>
+<p>Contenido de sulfatos (como SO<sub>3</sub>)</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH III/B</p>
+<p>VLH III/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤4,0%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">VLH III/C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤4,5%</p>
+<p>≤4,0%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">VLH IV</p>
+<p>VLH III/C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤3,5%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">VLH V</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤3,5%</p>
+<p>≤4,5%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de ion cloruro</p>
+<p>VLH IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Todos<sup>(3)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤0,10%</p>
+<p>≤3,5%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Puzolanidad</p>
+<p>VLH V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">UNE-EN 196-5</p>
+<p>≤3,5%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de ion cloruro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">VLH IV</p>
+<p>Todos<sup>(3)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Cumplimiento del ensayo a 8 días</p>
+<p>≤0,10%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Puzolanidad</p>
+</td>
+<td>
+<p>UNE-EN 196-5</p>
+</td>
+<td>
+<p>VLH IV</p>
+</td>
+<td>
+<p>Cumplimiento del ensayo a 8 días</p>
 </td>
 </tr>
 </tbody>
@@ -2807,35 +2807,35 @@ Las prescripciones relativas a las características mecánicas y físicas que de
 
 Tabla AI.3.3 Prescripciones mecánicas y físicas del cemento de aluminato de calcio
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Resistencia a compresión UNE-EN 196-1 y UNE-EN 14647 (apdo. 7.1) (N/mm<sup>2</sup>)</p>
+<p>Resistencia a compresión UNE-EN 196-1 y UNE-EN 14647 (apdo. 7.1) (N/mm<sup>2</sup>)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Tiempo de principio de fraguado UNE-EN 196-3 y UNE-EN 14647 (apdo. 7.2) (mín)</p>
+<p>Tiempo de principio de fraguado UNE-EN 196-3 y UNE-EN 14647 (apdo. 7.2) (mín)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">A 6 horas</p>
+<p>A 6 horas</p>
 </th>
 <th>
-<p class="cabeza_tabla">A 24 horas</p>
+<p>A 24 horas</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">≥ 18,0</p>
+<p>≥ 18,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥40,0</p>
+<p>≥40,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥90</p>
+<p>≥90</p>
 </td>
 </tr>
 </tbody>
@@ -2847,62 +2847,62 @@ Las prescripciones relativas a las características químicas que debe cumplir e
 
 Tabla AI.3.4 Prescripciones químicas del cemento de aluminato de calcio
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Propiedad</p>
+<p>Propiedad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayo de referencia</p>
+<p>Ensayo de referencia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Exigencia<sup>(1)</sup></p>
+<p>Exigencia<sup>(1)</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de alúmina (como Al<sub>2</sub>O<sub>3</sub>)</p>
+<p>Contenido de alúmina (como Al<sub>2</sub>O<sub>3</sub>)</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35 % ≤ Al<sub>2</sub>O<sub>3</sub> ≤ 58%</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido de sulfuros (como S<sup>2-</sup>)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤ 0,10 %</p>
+<p>35 % ≤ Al<sub>2</sub>O<sub>3</sub> ≤ 58%</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de ion cloruro</p>
+<p>Contenido de sulfuros (como S<sup>2-</sup>)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 0,10 %</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Contenido de álcalis <sup>(2)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤ 0,4 %</p>
+<p>≤ 0,10 %</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de sulfatos (como SO<sub>3</sub>)</p>
+<p>Contenido de ion cloruro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 0,5 %</p>
+<p>≤ 0,10 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de álcalis <sup>(2)</sup></p>
+</td>
+<td>
+<p>≤ 0,4 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de sulfatos (como SO<sub>3</sub>)</p>
+</td>
+<td>
+<p>≤ 0,5 %</p>
 </td>
 </tr>
 </tbody>
@@ -2940,61 +2940,61 @@ Los componentes inorgánicos de los cementos de albañilería deben ser material
 
 Tabla AI.4.1 Composición de los cementos de albañilería
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Tipo y clase de resistencia</p>
+<p>Tipo y clase de resistencia</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Contenido (% en masa)</p>
+<p>Contenido (% en masa)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Clínker de cemento pórtland</p>
+<p>Clínker de cemento pórtland</p>
 </th>
 <th>
-<p class="cabeza_tabla">Aditivos <sup>(1) y (2)</sup></p>
+<p>Aditivos <sup>(1) y (2)</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 5</p>
+<p>MC 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 25</p>
+<p>≥ 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 1</p>
+<p>≤ 1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5</p>
+<p>MC 12,5</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 40</p>
+<p>≥ 40</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≤ 1</p>
+<p>≤ 1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5 X <sup>(3)</sup></p>
+<p>MC 12,5 X <sup>(3)</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5</p>
+<p>MC 22,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5 X <sup>(3)</sup></p>
+<p>MC 22,5 X <sup>(3)</sup></p>
 </td>
 </tr>
 </tbody>
@@ -3018,135 +3018,135 @@ Las prescripciones relativas a las características mecánicas y físicas que de
 
 Tabla AI.4.3a Prescripciones mecánicas y físicas de los cementos de albañilería
 
-<table class="tabla_b_sica table_style_override_1" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Tipo y clase de resistencia</p>
+<p>Tipo y clase de resistencia</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Resistencia a compresión</p>
-<p class="cabeza_tabla">(N/mm<sup>2</sup>)</p>
-<p class="cabeza_tabla">UNE-EN 196-1<sup>(1)</sup></p>
+<p>Resistencia a compresión</p>
+<p>(N/mm<sup>2</sup>)</p>
+<p>UNE-EN 196-1<sup>(1)</sup></p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Tiempo de fraguado</p>
-<p class="cabeza_tabla">UNE-EN 413-2</p>
+<p>Tiempo de fraguado</p>
+<p>UNE-EN 413-2</p>
 </th>
 <th>
-<p class="cabeza_tabla">Finura sobre tamiz de 90 μm</p>
-<p class="cabeza_tabla">UNE-EN 196-6</p>
+<p>Finura sobre tamiz de 90 μm</p>
+<p>UNE-EN 196-6</p>
 </th>
 <th>
-<p class="cabeza_tabla">Estabilidad de volumen UNE-EN 196-3</p>
+<p>Estabilidad de volumen UNE-EN 196-3</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">7 días</p>
+<p>7 días</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">28 días</p>
+<p>28 días</p>
 </th>
 <th>
-<p class="cabeza_tabla">Principio</p>
-<p class="cabeza_tabla">(min)</p>
+<p>Principio</p>
+<p>(min)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Final<sup>2</sup></p>
-<p class="cabeza_tabla">(horas)</p>
+<p>Final<sup>2</sup></p>
+<p>(horas)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Residuo</p>
-<p class="cabeza_tabla">(%)</p>
+<p>Residuo</p>
+<p>(%)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Expansión</p>
-<p class="cabeza_tabla">(mm</p>
+<p>Expansión</p>
+<p>(mm</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 5</p>
+<p>MC 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥5,0</p>
+<p>≥5,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤15</p>
+<p>≤15</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">≥60</p>
+<p>≥60</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">≤15</p>
+<p>≤15</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">≤15</p>
+<p>≤15</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">≤10</p>
+<p>≤10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5</p>
+<p>MC 12,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥7</p>
+<p>≥7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥12,5</p>
+<p>≥12,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤32,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">MC 12,5 X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≥7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≥12,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≤32,5</p>
+<p>≤32,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5</p>
+<p>MC 12,5 X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥10</p>
+<p>≥7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥22,5</p>
+<p>≥12,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤42,5</p>
+<p>≤32,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5 X</p>
+<p>MC 22,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥10</p>
+<p>≥10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥22,5</p>
+<p>≥22,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤42,5</p>
+<p>≤42,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MC 22,5 X</p>
+</td>
+<td>
+<p>≥10</p>
+</td>
+<td>
+<p>≥22,5</p>
+</td>
+<td>
+<p>≤42,5</p>
 </td>
 </tr>
 </tbody>
@@ -3160,60 +3160,60 @@ Adicionalmente, para los cementos de albañilería también son de aplicación l
 
 Tabla AI.4.3b Prescripciones para el mortero fresco de los cementos de albañilería
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo y clase de resistencia</p>
+<p>Tipo y clase de resistencia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido de aire</p>
-<p class="cabeza_tabla">UNE-EN 413-2</p>
-<p class="cabeza_tabla">(% en volumen)</p>
+<p>Contenido de aire</p>
+<p>UNE-EN 413-2</p>
+<p>(% en volumen)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Retención de agua</p>
-<p class="cabeza_tabla">UNE-EN 413-2</p>
-<p class="cabeza_tabla">(% en masa)</p>
+<p>Retención de agua</p>
+<p>UNE-EN 413-2</p>
+<p>(% en masa)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 5</p>
+<p>MC 5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">8 ≤ contenido de aire ≤ 22</p>
+<p>8 ≤ contenido de aire ≤ 22</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥ 80</p>
+<p>≥ 80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5</p>
+<p>MC 12,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5</p>
+<p>MC 22,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5 X</p>
+<p>MC 12,5 X</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≤ 6<sup>(1)</sup></p>
+<p>≤ 6<sup>(1)</sup></p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">≥ 75</p>
+<p>≥ 75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5 X</p>
+<p>MC 22,5 X</p>
 </td>
 </tr>
 </tbody>
@@ -3227,94 +3227,94 @@ Las prescripciones relativas a las características químicas que deben cumplir 
 
 Tabla AI.4.4 Prescripciones químicas de los cementos de albañilería
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Característica</p>
+<p>Característica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Norma de ensayo</p>
+<p>Norma de ensayo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipo y clase del cemento</p>
+<p>Tipo y clase del cemento</p>
 </th>
 <th>
-<p class="cabeza_tabla">Valor</p>
-<p class="cabeza_tabla">(% en masa)</p>
+<p>Valor</p>
+<p>(% en masa)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">Contenido de sulfatos (expresado como SO<sub>3</sub>)</p>
+<p>Contenido de sulfatos (expresado como SO<sub>3</sub>)</p>
 </td>
 <td rowspan="10">
-<p class="cuerpo_tabla_centro">UNE-EN 196-2</p>
+<p>UNE-EN 196-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MC 5</p>
+<p>MC 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 2,5</p>
+<p>≤ 2,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5</p>
+<p>MC 12,5</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≤ 3,5</p>
+<p>≤ 3,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5 X</p>
+<p>MC 12,5 X</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5</p>
+<p>MC 22,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5 X</p>
+<p>MC 22,5 X</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">Contenido de cloruros (expresado como Cl<sup>-</sup>)</p>
+<p>Contenido de cloruros (expresado como Cl<sup>-</sup>)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MC 5</p>
+<p>MC 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Sin requisito</p>
+<p>Sin requisito</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5</p>
+<p>MC 12,5</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≤ 0,10</p>
+<p>≤ 0,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 12,5 X</p>
+<p>MC 12,5 X</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5</p>
+<p>MC 22,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">MC 22,5 X</p>
+<p>MC 22,5 X</p>
 </td>
 </tr>
 </tbody>
@@ -3412,94 +3412,86 @@ Se consideran cementos resistentes a los sulfatos aquéllos en cuya elaboración
 
 Tabla AII.2.1 Prescripciones adicionales para los cementos resistentes a los sulfatos (SRC)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipos</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Denominaciones</th>
-<th class="cabeza_tabla" rowspan="2">Designaciones</th>
-<th class="cabeza_tabla" colspan="2">Especificaciones del clínker de los cementos resistentes a los sulfatos (SRC)</th>
+<th rowspan="2">Tipos</th>
+<th colspan="2" rowspan="2">Denominaciones</th>
+<th rowspan="2">Designaciones</th>
+<th colspan="2">Especificaciones del clínker de los cementos resistentes a los sulfatos (SRC)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">C<sub>3</sub>A%</th>
-<th class="cabeza_tabla">C<sub>3</sub>A% + C<sub>4</sub>AF%</th>
+<th>C<sub>3</sub>A%</th>
+<th>C<sub>3</sub>A% + C<sub>4</sub>AF%</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro" rowspan="7">Cementos pórtland con adiciones, resistentes a sulfatos</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Con escoria de horno alto (S)</td>
-<td class="cuerpo_tabla_centro">II/A-S</td>
-<td class="cuerpo_tabla_centro" rowspan="7">≤ 6,0</td>
-<td class="cuerpo_tabla_centro" rowspan="7">≤ 22,0</td>
+<td>II</td>
+<td rowspan="7">Cementos pórtland con adiciones, resistentes a sulfatos</td>
+<td rowspan="2">Con escoria de horno alto (S)</td>
+<td>II/A-S</td>
+<td rowspan="7">≤ 6,0</td>
+<td rowspan="7">≤ 22,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">II/B-S</td>
+<td>II</td>
+<td>II/B-S</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">Con humo de sílice (D)</td>
-<td class="cuerpo_tabla_centro">II/A-D</td>
+<td>II</td>
+<td>Con humo de sílice (D)</td>
+<td>II/A-D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Con Puzolana natural (P)</td>
-<td class="cuerpo_tabla_centro">II/A-P</td>
+<td>II</td>
+<td rowspan="2">Con Puzolana natural (P)</td>
+<td>II/A-P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">II/B-P</td>
+<td>II</td>
+<td>II/B-P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Con ceniza volante (V)</td>
-<td class="cuerpo_tabla_centro">II/A-V</td>
+<td>II</td>
+<td rowspan="2">Con ceniza volante (V)</td>
+<td>II/A-V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">II/B-V</td>
+<td>II</td>
+<td>II/B-V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">III</td>
-<td class="cuerpo_tabla_centro" rowspan="4">Cementos con adiciones, resistentes a sulfatos</td>
-<td class="cuerpo_tabla_centro" rowspan="3">Con escoria de horno alto (S)</td>
-<td class="cuerpo_tabla_centro" rowspan="3">III/A</td>
-<td class="cuerpo_tabla_centro">≤ 8,0</td>
-<td class="cuerpo_tabla_centro">≤ 25,0</td>
+<td rowspan="3">III</td>
+<td rowspan="4">Cementos con adiciones, resistentes a sulfatos</td>
+<td rowspan="3">Con escoria de horno alto (S)</td>
+<td rowspan="3">III/A</td>
+<td>≤ 8,0</td>
+<td>≤ 25,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cementos compuestos</p>
-<p class="cuerpo_tabla_centro">(S+P+V)</p>
+<td>V</td>
+<td>
+<p>Cementos compuestos</p>
+<p>(S+P+V)</p>
 </td>
-<td class="cuerpo_tabla_centro">V/A</td>
-<td class="cuerpo_tabla_centro">≤ 8,0</td>
-<td class="cuerpo_tabla_centro">≤ 25,0</td>
+<td>V/A</td>
+<td>≤ 8,0</td>
+<td>≤ 25,0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">Las prescripciones sobre C<sub>3</sub>A y (C<sub>3</sub>A + C<sub>4</sub>AF) se refieren a porcentajes en masa de clínker. Los contenidos de C<sub>3</sub>A y C<sub>4</sub>AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2.</p>
+<p>Las prescripciones sobre C<sub>3</sub>A y (C<sub>3</sub>A + C<sub>4</sub>AF) se refieren a porcentajes en masa de clínker. Los contenidos de C<sub>3</sub>A y C<sub>4</sub>AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2.</p>
 </td>
 </tr>
 </tfoot>
@@ -3549,120 +3541,112 @@ Por otro lado, el cemento de referencia, tanto para el ensayo de puzolanicidad c
 
 Tabla AII.3.1 Prescripciones adicionales para los cementos resistentes al agua de mar
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Tipos</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Denominaciones</th>
-<th class="cabeza_tabla" rowspan="2">Designaciones</th>
-<th class="cabeza_tabla" colspan="2">Especificaciones del clínker de los cementos resistentes a agua de mar (MR)</th>
+<th rowspan="2">Tipos</th>
+<th colspan="2" rowspan="2">Denominaciones</th>
+<th rowspan="2">Designaciones</th>
+<th colspan="2">Especificaciones del clínker de los cementos resistentes a agua de mar (MR)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">C<sub>3</sub>A%</th>
-<th class="cabeza_tabla">C<sub>3</sub>A% + C<sub>4</sub>AF%</th>
+<th>C<sub>3</sub>A%</th>
+<th>C<sub>3</sub>A% + C<sub>4</sub>AF%</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_centro" colspan="2">Cementos pórtland resistentes a agua de mar</td>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_centro">≤ 5,0</td>
-<td class="cuerpo_tabla_centro">≤ 22,0</td>
+<td>I</td>
+<td colspan="2">Cementos pórtland resistentes a agua de mar</td>
+<td>I</td>
+<td>≤ 5,0</td>
+<td>≤ 22,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro" rowspan="7">Cementos pórtland con adiciones, resistentes a agua de mar</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Con escoria de horno alto (S)</td>
-<td class="cuerpo_tabla_centro">II/A-S</td>
-<td class="cuerpo_tabla_centro" rowspan="7">≤ 8,0</td>
-<td class="cuerpo_tabla_centro" rowspan="7">≤ 25,0</td>
+<td>II</td>
+<td rowspan="7">Cementos pórtland con adiciones, resistentes a agua de mar</td>
+<td rowspan="2">Con escoria de horno alto (S)</td>
+<td>II/A-S</td>
+<td rowspan="7">≤ 8,0</td>
+<td rowspan="7">≤ 25,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">II/B-S</td>
+<td>II</td>
+<td>II/B-S</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">Con humo de sílice (D)</td>
-<td class="cuerpo_tabla_centro">II/A-D</td>
+<td>II</td>
+<td>Con humo de sílice (D)</td>
+<td>II/A-D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Con puzolana natural (P)</td>
-<td class="cuerpo_tabla_centro">II/A-P</td>
+<td>II</td>
+<td rowspan="2">Con puzolana natural (P)</td>
+<td>II/A-P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">II/B-P</td>
+<td>II</td>
+<td>II/B-P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Con ceniza volante (V)</td>
-<td class="cuerpo_tabla_centro">II/A-V</td>
+<td>II</td>
+<td rowspan="2">Con ceniza volante (V)</td>
+<td>II/A-V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II</td>
-<td class="cuerpo_tabla_centro">II/B-V</td>
+<td>II</td>
+<td>II/B-V</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">III</td>
-<td class="cuerpo_tabla_centro" rowspan="6">Cementos con adiciones, resistentes a agua de mar</td>
-<td class="cuerpo_tabla_centro" rowspan="3">
-<p class="cuerpo_tabla_centro">Con escoria de horno alto</p>
-<p class="cuerpo_tabla_centro">(S)</p>
+<td>III</td>
+<td rowspan="6">Cementos con adiciones, resistentes a agua de mar</td>
+<td rowspan="3">
+<p>Con escoria de horno alto</p>
+<p>(S)</p>
 </td>
-<td class="cuerpo_tabla_centro">III/A</td>
-<td class="cuerpo_tabla_centro">≤10,0</td>
-<td class="cuerpo_tabla_centro">≤ 25,0</td>
+<td>III/A</td>
+<td>≤10,0</td>
+<td>≤ 25,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">III</td>
-<td class="cuerpo_tabla_centro">III/B</td>
-<td class="cuerpo_tabla_centro" colspan="2">Ninguna</td>
+<td>III</td>
+<td>III/B</td>
+<td colspan="2">Ninguna</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">III</td>
-<td class="cuerpo_tabla_centro">III/C</td>
-<td class="cuerpo_tabla_centro" colspan="2">Ninguna</td>
+<td>III</td>
+<td>III/C</td>
+<td colspan="2">Ninguna</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">IV</td>
-<td class="cuerpo_tabla_centro" rowspan="2">
-<p class="cuerpo_tabla_centro">Cementos Puzolánicos</p>
-<p class="cuerpo_tabla_centro">(D+P+V)</p>
+<td>IV</td>
+<td rowspan="2">
+<p>Cementos Puzolánicos</p>
+<p>(D+P+V)</p>
 </td>
-<td class="cuerpo_tabla_centro">IV/A</td>
-<td class="cuerpo_tabla_centro">≤9,0</td>
-<td class="cuerpo_tabla_centro">≤ 25,0</td>
+<td>IV/A</td>
+<td>≤9,0</td>
+<td>≤ 25,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">IV</td>
-<td class="cuerpo_tabla_centro">IV/B</td>
-<td class="cuerpo_tabla_centro" rowspan="2">≤ 10,0</td>
-<td class="cuerpo_tabla_centro" rowspan="2">≤ 25,0</td>
+<td>IV</td>
+<td>IV/B</td>
+<td rowspan="2">≤ 10,0</td>
+<td rowspan="2">≤ 25,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Cementos compuestos</p>
-<p class="cuerpo_tabla_centro">(S+P+V)</p>
+<td>V</td>
+<td>
+<p>Cementos compuestos</p>
+<p>(S+P+V)</p>
 </td>
-<td class="cuerpo_tabla_centro">V/A</td>
+<td>V/A</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">Las prescripciones sobre C<sub>3</sub>A y (C<sub>3</sub>A + C<sub>4</sub>AF) se refieren a porcentajes en masa de clínker. Los contenidos de C<sub>3</sub>A y C<sub>4</sub>AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2.</p>
+<p>Las prescripciones sobre C<sub>3</sub>A y (C<sub>3</sub>A + C<sub>4</sub>AF) se refieren a porcentajes en masa de clínker. Los contenidos de C<sub>3</sub>A y C<sub>4</sub>AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2.</p>
 </td>
 </tr>
 </tfoot>
@@ -3738,35 +3722,35 @@ Las proporciones en masa de los componentes del cemento de albañilería blanco 
 
 Tabla AII.4.2.1 Composición del cemento de albañilería blanco
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Tipo y clase de resistencia</p>
+<p>Tipo y clase de resistencia</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Contenido (% en masa)</p>
+<p>Contenido (% en masa)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Clínker pórtland blanco</p>
+<p>Clínker pórtland blanco</p>
 </th>
 <th>
-<p class="cabeza_tabla">Aditivos<sup>(1)</sup></p>
+<p>Aditivos<sup>(1)</sup></p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">BL 22,5 X</p>
+<p>BL 22,5 X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 40</p>
+<p>≥ 40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 1<sup>(1) (2)</sup></p>
+<p>≤ 1<sup>(1) (2)</sup></p>
 </td>
 </tr>
 </tbody>
@@ -3808,56 +3792,56 @@ Las proporciones en masa de los componentes del cemento para usos especiales se 
 
 Tabla AII.5.1 Cemento para usos especiales: composición y proporción en masa<sup>(1) (4)</sup>
 
-<table summary="Tabla de formato">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Designación</p>
+<p>Designación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clínker</p>
-<p class="cabeza_tabla">(K)</p>
+<p>Clínker</p>
+<p>(K)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Escoria de horno alto</p>
-<p class="cabeza_tabla">(S)</p>
+<p>Escoria de horno alto</p>
+<p>(S)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Puzolana natural<sup>(2)</sup></p>
-<p class="cabeza_tabla">(P)</p>
+<p>Puzolana natural<sup>(2)</sup></p>
+<p>(P)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ceniza volante silícea</p>
-<p class="cabeza_tabla">(V)</p>
+<p>Ceniza volante silícea</p>
+<p>(V)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Componentes minoritarios adicionales<sup>(3)</sup></p>
+<p>Componentes minoritarios adicionales<sup>(3)</sup></p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ESP-VI</p>
+<p>ESP-VI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cemento para usos especiales.</p>
+<p>Cemento para usos especiales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ESP VI-1</p>
+<p>ESP VI-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25-55</p>
+<p>25-55</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">45-75</p>
+<p>45-75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0-5</p>
+<p>0-5</p>
 </td>
 </tr>
 </tbody>
@@ -3885,83 +3869,83 @@ Las prescripciones relativas a las características mecánicas y físicas que de
 
 Tabla AII.5.3 Prescripciones mecánicas y físicas de los cementos para usos especiales
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Clases de resistencia</p>
+<p>Clases de resistencia</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Resistencia a compresión UNE-EN 196-1</p>
-<p class="cabeza_tabla">(N/mm<sup>2</sup>)</p>
+<p>Resistencia a compresión UNE-EN 196-1</p>
+<p>(N/mm<sup>2</sup>)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Tiempo de principio de fraguado UNE-EN 196-3</p>
-<p class="cabeza_tabla">(min)</p>
+<p>Tiempo de principio de fraguado UNE-EN 196-3</p>
+<p>(min)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Estabilidad de volumen</p>
-<p class="cabeza_tabla">UNE-EN 196-3</p>
-<p class="cabeza_tabla">(expansión)</p>
-<p class="cabeza_tabla">(mm)</p>
+<p>Estabilidad de volumen</p>
+<p>UNE-EN 196-3</p>
+<p>(expansión)</p>
+<p>(mm)</p>
 </th>
 </tr>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">28 días</p>
+<p>28 días</p>
 </th>
 <th>
-<p class="cabeza_tabla">90 días</p>
+<p>90 días</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22,5 N</p>
+<p>22,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 12,5</p>
+<p>≥ 12,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 32,5</p>
+<p>≤ 32,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 22,5</p>
+<p>≥ 22,5</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≥ 60</p>
+<p>≥ 60</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">≤ 10</p>
+<p>≤ 10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">32,5 N</p>
+<p>32,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 22,5</p>
+<p>≥ 22,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 42,5</p>
+<p>≤ 42,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 32,5</p>
+<p>≥ 32,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">42,5 N</p>
+<p>42,5 N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 32,5</p>
+<p>≥ 32,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 52,5</p>
+<p>≤ 52,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥ 42,5</p>
+<p>≥ 42,5</p>
 </td>
 </tr>
 </tbody>
@@ -3973,35 +3957,35 @@ Las prescripciones relativas a las características químicas que deben cumplir 
 
 Tabla AII.5.4 Prescripciones químicas de los cementos para usos especiales
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Tipo y designación</p>
+<p>Tipo y designación</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Prescripciones</p>
+<p>Prescripciones</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Contenido de sulfatos (como SO<sub>3</sub>) UNE-EN 196-2</p>
+<p>Contenido de sulfatos (como SO<sub>3</sub>) UNE-EN 196-2</p>
 </th>
 <th>
-<p class="cabeza_tabla">Contenido de ión cloruro UNE-EN 196-2</p>
+<p>Contenido de ión cloruro UNE-EN 196-2</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">ESP VI-1</p>
+<p>ESP VI-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤3,5 %</p>
+<p>≤3,5 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤0,10 %</p>
+<p>≤0,10 %</p>
 </td>
 </tr>
 </tbody>
@@ -4021,139 +4005,123 @@ No se tiene experiencia en el uso de cementos compuestos con adiciones de ceniza
 
 Tabla AII.6.1 Cementos comunes de la norma UNE-EN 197-5, cemento portland compuesto CEM II/C-M y cemento compuesto CEM VI: composición y proporción en masa
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="5">Tipos principales</th>
-<th class="cabeza_tabla" colspan="2" rowspan="4">Designación de los productos (tipos de cemento)</th>
-<th class="cabeza_tabla" colspan="11">Composición (% en masa<sup>a</sup>)</th>
+<th rowspan="5">Tipos principales</th>
+<th colspan="2" rowspan="4">Designación de los productos (tipos de cemento)</th>
+<th colspan="11">Composición (% en masa<sup>a</sup>)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="10">Componentes principales</th>
-<th class="cabeza_tabla" rowspan="3">Componentes adicionales minoritarios</th>
+<th colspan="10">Componentes principales</th>
+<th rowspan="3">Componentes adicionales minoritarios</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clínker</th>
-<th class="cabeza_tabla" rowspan="2">Escoria de horno alto</th>
-<th class="cabeza_tabla" rowspan="2">Humo de sílice</th>
-<th class="cabeza_tabla" colspan="2">Puzolana</th>
-<th class="cabeza_tabla" colspan="2">Cenizas volantes</th>
-<th class="cabeza_tabla" rowspan="2">Esquistos calcinados</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Caliza</th>
+<th rowspan="2">Clínker</th>
+<th rowspan="2">Escoria de horno alto</th>
+<th rowspan="2">Humo de sílice</th>
+<th colspan="2">Puzolana</th>
+<th colspan="2">Cenizas volantes</th>
+<th rowspan="2">Esquistos calcinados</th>
+<th colspan="2" rowspan="2">Caliza</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">natural</th>
-<th class="cabeza_tabla">natural calcinada</th>
-<th class="cabeza_tabla">silíceas</th>
-<th class="cabeza_tabla">calcáreas</th>
+<th>natural</th>
+<th>natural calcinada</th>
+<th>silíceas</th>
+<th>calcáreas</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Designación</th>
-<th class="cabeza_tabla">K</th>
-<th class="cabeza_tabla">S</th>
-<th class="cabeza_tabla">D <sup>b</sup></th>
-<th class="cabeza_tabla">P</th>
-<th class="cabeza_tabla">Q</th>
-<th class="cabeza_tabla">V</th>
-<th class="cabeza_tabla">W</th>
-<th class="cabeza_tabla">T</th>
-<th class="cabeza_tabla">L <sup>c</sup></th>
-<th class="cabeza_tabla">LL <sup>c</sup></th>
-<th class="cabeza_tabla"> </th>
+<th>Denominación</th>
+<th>Designación</th>
+<th>K</th>
+<th>S</th>
+<th>D <sup>b</sup></th>
+<th>P</th>
+<th>Q</th>
+<th>V</th>
+<th>W</th>
+<th>T</th>
+<th>L <sup>c</sup></th>
+<th>LL <sup>c</sup></th>
+<th> </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">CEM II</td>
-<td class="cuerpo_tabla_centro">Cemento portland compuesto<sup>d</sup></td>
-<td class="cuerpo_tabla_centro">CEM I<span class="no_partir">I/C-M</span></td>
-<td class="cuerpo_tabla_centro">50-64</td>
-<td class="cuerpo_tabla_centro" colspan="9">‹––––––––––––––––––––- 36-50 –––––––––––––-›</td>
-<td class="cuerpo_tabla_centro">0-5</td>
+<td>CEM II</td>
+<td>Cemento portland compuesto<sup>d</sup></td>
+<td>CEM I<span>I/C-M</span></td>
+<td>50-64</td>
+<td colspan="9">‹––––––––––––––––––––- 36-50 –––––––––––––-›</td>
+<td>0-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">CEM VI</td>
-<td class="cuerpo_tabla_centro" rowspan="4">Cemento compuesto</td>
-<td class="cuerpo_tabla_centro">CEM VI (<span class="no_partir">S-P</span>)</td>
-<td class="cuerpo_tabla_centro">35-49</td>
-<td class="cuerpo_tabla_centro">31-59</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">6-20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0-5</td>
+<td rowspan="4">CEM VI</td>
+<td rowspan="4">Cemento compuesto</td>
+<td>CEM VI (<span>S-P</span>)</td>
+<td>35-49</td>
+<td>31-59</td>
+<td>–</td>
+<td>6-20</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM VI (<span class="no_partir">S-V</span>)</td>
-<td class="cuerpo_tabla_centro">35-49</td>
-<td class="cuerpo_tabla_centro">31-59</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">6-20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0-5</td>
+<td>CEM VI (<span>S-V</span>)</td>
+<td>35-49</td>
+<td>31-59</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6-20</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>0-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM VI (<span class="no_partir">S-L)</span></td>
-<td class="cuerpo_tabla_centro">35-49</td>
-<td class="cuerpo_tabla_centro">31-59</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">6-20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0-5</td>
+<td>CEM VI (<span>S-L)</span></td>
+<td>35-49</td>
+<td>31-59</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6-20</td>
+<td>–</td>
+<td>0-5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM VI (<span class="no_partir">S-LL</span>)</td>
-<td class="cuerpo_tabla_centro">35-49</td>
-<td class="cuerpo_tabla_centro">31-59</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">6-20</td>
-<td class="cuerpo_tabla_centro">0-5</td>
+<td>CEM VI (<span>S-LL</span>)</td>
+<td>35-49</td>
+<td>31-59</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6-20</td>
+<td>0-5</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="14">
-<p class="cita"><sup>a</sup> Los valores de la tabla son la suma de los componentes mayoritarios y minoritarios.</p>
-<p class="cita"><sup>b</sup> En el caso del humo de sílice, el contenido de humo de sílice está limitado al 6-10 % en masa.</p>
-<p class="cita"><sup>c</sup> En el caso de la caliza, el contenido de caliza (suma de L, LL) está limitado al 6-20 % en masa.</p>
-<p class="cita"><sup>d</sup> El número de constituyentes mayoritarios además del clínker, está limitado a dos, y estos constituyentes mayoritarios deben declararse en la designación del cemento.</p>
+<p><sup>a</sup> Los valores de la tabla son la suma de los componentes mayoritarios y minoritarios.</p>
+<p><sup>b</sup> En el caso del humo de sílice, el contenido de humo de sílice está limitado al 6-10 % en masa.</p>
+<p><sup>c</sup> En el caso de la caliza, el contenido de caliza (suma de L, LL) está limitado al 6-20 % en masa.</p>
+<p><sup>d</sup> El número de constituyentes mayoritarios además del clínker, está limitado a dos, y estos constituyentes mayoritarios deben declararse en la designación del cemento.</p>
 </td>
 </tr>
 </tfoot>
@@ -4185,114 +4153,103 @@ Las prescripciones relativas a las características mecánicas y físicas que de
 
 Tabla AII.6.3.1 Prescripciones mecánicas y físicas de los cementos comunes
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">Clase de resistencia</th>
-<th class="cabeza_tabla" colspan="4">
-<p class="cabeza_tabla">Resistencia a compresión <sup>(1)</sup></p>
-<p class="cabeza_tabla">UNE-EN 196-1</p>
-<p class="cabeza_tabla">(N/mm<sup>2</sup>)</p>
+<th rowspan="3">Clase de resistencia</th>
+<th colspan="4">
+<p>Resistencia a compresión <sup>(1)</sup></p>
+<p>UNE-EN 196-1</p>
+<p>(N/mm<sup>2</sup>)</p>
 </th>
-<th class="cabeza_tabla" rowspan="3">Tiempo de principio de fraguado UNE-EN 196-3 (min)</th>
-<th class="cabeza_tabla" rowspan="3">
-<p class="cabeza_tabla">Estabilidad de volumen UNE-EN 196-3</p>
-<p class="cabeza_tabla">(Expansión, mm)</p>
+<th rowspan="3">Tiempo de principio de fraguado UNE-EN 196-3 (min)</th>
+<th rowspan="3">
+<p>Estabilidad de volumen UNE-EN 196-3</p>
+<p>(Expansión, mm)</p>
 </th>
-<th class="cabeza_tabla" colspan="2">Calor de Hidratación <sup>(2) </sup>(J/g)</th>
+<th colspan="2">Calor de Hidratación <sup>(2) </sup>(J/g)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">Resistencia inicial</th>
-<th class="cabeza_tabla" colspan="2">Resistencia nominal</th>
-<th class="cabeza_tabla">UNE-EN 196-9</th>
-<th class="cabeza_tabla">UNE-EN 196-8</th>
+<th colspan="2">Resistencia inicial</th>
+<th colspan="2">Resistencia nominal</th>
+<th>UNE-EN 196-9</th>
+<th>UNE-EN 196-8</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">2 días</th>
-<th class="cabeza_tabla">7 días</th>
-<th class="cabeza_tabla" colspan="2">28 días</th>
-<th class="cabeza_tabla">41 horas</th>
-<th class="cabeza_tabla">7 días</th>
+<th>2 días</th>
+<th>7 días</th>
+<th colspan="2">28 días</th>
+<th>41 horas</th>
+<th>7 días</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">32,5 L</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≥12,0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≥32,5</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≤52,5</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≥75</td>
-<td class="cuerpo_tabla_centro" rowspan="9">
-<p class="cuerpo_tabla_centro">≤10</p>
+<td>32,5 L</td>
+<td>–</td>
+<td>≥12,0</td>
+<td rowspan="3">≥32,5</td>
+<td rowspan="3">≤52,5</td>
+<td rowspan="3">≥75</td>
+<td rowspan="9">
+<p>≤10</p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="2" rowspan="9">
-<p class="cuerpo_tabla_centro">≤270</p>
+<td colspan="2" rowspan="9">
+<p>≤270</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32,5 N</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≥16,0</td>
+<td>32,5 N</td>
+<td>–</td>
+<td>≥16,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32,5 R</td>
-<td class="cuerpo_tabla_centro">≥10,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>32,5 R</td>
+<td>≥10,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42,5 L</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≥16,0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≥42,5</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≤62,5</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≥60</td>
+<td>42,5 L</td>
+<td>–</td>
+<td>≥16,0</td>
+<td rowspan="3">≥42,5</td>
+<td rowspan="3">≤62,5</td>
+<td rowspan="3">≥60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42,5 N</td>
-<td class="cuerpo_tabla_centro">≥10,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>42,5 N</td>
+<td>≥10,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42,5 R</td>
-<td class="cuerpo_tabla_centro">≥20,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>42,5 R</td>
+<td>≥20,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52,5 L</td>
-<td class="cuerpo_tabla_centro">≥10,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≥52,5</td>
-<td class="cuerpo_tabla_centro" rowspan="3">–</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≥45</td>
+<td>52,5 L</td>
+<td>≥10,0</td>
+<td>–</td>
+<td rowspan="3">≥52,5</td>
+<td rowspan="3">–</td>
+<td rowspan="3">≥45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52,5 N</td>
-<td class="cuerpo_tabla_centro">≥20,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>52,5 N</td>
+<td>≥20,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52,5R</td>
-<td class="cuerpo_tabla_centro">≥30,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>52,5R</td>
+<td>≥30,0</td>
+<td>–</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="9">
-<p class="cita"><sup>(1)</sup> 1 N/mm<sup>2</sup> = 1 MPa.</p>
-<p class="cita"><sup>(2)</sup> Solo para cementos de bajo calor de hidratación (LH).</p>
+<p><sup>(1)</sup> 1 N/mm<sup>2</sup> = 1 MPa.</p>
+<p><sup>(2)</sup> Solo para cementos de bajo calor de hidratación (LH).</p>
 </td>
 </tr>
 </tfoot>
@@ -4302,45 +4259,38 @@ Las prescripciones relativas a las características químicas que deben cumplir 
 
 Tabla AII.6.3.2 Prescripciones químicas de los cementos comunes portland compuesto CEM II/C-M y cemento compuesto CEM VI
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="28%">
-<col width="18%">
-<col width="18%">
-<col width="18%">
-<col width="18%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Característica</th>
-<th class="cabeza_tabla">Norma de ensayo</th>
-<th class="cabeza_tabla">Tipo de cemento</th>
-<th class="cabeza_tabla">Clase de resistencia</th>
-<th class="cabeza_tabla">Prescripción <sup>a</sup></th>
+<th>Característica</th>
+<th>Norma de ensayo</th>
+<th>Tipo de cemento</th>
+<th>Clase de resistencia</th>
+<th>Prescripción <sup>a</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido de sulfatos (como SO<sub>3</sub>).</td>
-<td class="cuerpo_tabla_centro">UNE-EN 196-2</td>
-<td class="cuerpo_tabla_centro">CEM II/C-M y CEM VI</td>
-<td class="cuerpo_tabla_centro">Todas</td>
-<td class="cuerpo_tabla_centro">≤ 4,0 % <sup>b</sup></td>
+<td>Contenido de sulfatos (como SO<sub>3</sub>).</td>
+<td>UNE-EN 196-2</td>
+<td>CEM II/C-M y CEM VI</td>
+<td>Todas</td>
+<td>≤ 4,0 % <sup>b</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Contenido de cloruros (Cl<sup>-</sup>).</td>
-<td class="cuerpo_tabla_centro">UNE-EN 196-2</td>
-<td class="cuerpo_tabla_centro">CEM II/C-M y CEM VI</td>
-<td class="cuerpo_tabla_centro">Todas</td>
-<td class="cuerpo_tabla_centro">≤ 0,10 % <sup>c</sup></td>
+<td>Contenido de cloruros (Cl<sup>-</sup>).</td>
+<td>UNE-EN 196-2</td>
+<td>CEM II/C-M y CEM VI</td>
+<td>Todas</td>
+<td>≤ 0,10 % <sup>c</sup></td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>a</sup> Los requisitos se dan en porcentaje en masa del cemento final.</p>
-<p class="cita"><sup>b</sup> Los cementos portland compuestos con un contenido de T &gt; 20 % pueden contener hasta un 4,5 % de sulfatos (expresados como SO<sub>3</sub>) para todas las clases de resistencia.</p>
-<p class="cita"><sup>c</sup> Los cementos compuestos CEM VI pueden contener más de 0,10 % en masa de cloruros. En este caso, el valor de 0,10 % en masa de cloruros se debe reemplazar por el límite superior del contenido de cloruros, expresado como un porcentaje en masa con dos cifras decimales, y este valor límite se debe de colocar en el envase o albarán.</p>
+<p><sup>a</sup> Los requisitos se dan en porcentaje en masa del cemento final.</p>
+<p><sup>b</sup> Los cementos portland compuestos con un contenido de T &gt; 20 % pueden contener hasta un 4,5 % de sulfatos (expresados como SO<sub>3</sub>) para todas las clases de resistencia.</p>
+<p><sup>c</sup> Los cementos compuestos CEM VI pueden contener más de 0,10 % en masa de cloruros. En este caso, el valor de 0,10 % en masa de cloruros se debe reemplazar por el límite superior del contenido de cloruros, expresado como un porcentaje en masa con dos cifras decimales, y este valor límite se debe de colocar en el envase o albarán.</p>
 </td>
 </tr>
 </tfoot>
@@ -4712,45 +4662,40 @@ Los datos que deben aparecer en esta declaración son los recogidos en el artíc
 
 7\. Cuadro de las prestaciones declaradas según el siguiente formato:
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="40%">
-<col width="30%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Características esenciales*</th>
-<th class="cabeza_tabla">Cumplimiento de la prestación*</th>
-<th class="cabeza_tabla">Norma armonizada*</th>
+<th>Características esenciales*</th>
+<th>Cumplimiento de la prestación*</th>
+<th>Norma armonizada*</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">*<sup> </sup>Se incluirán todas las filas que sean necesarias.</p>
+<p>*<sup> </sup>Se incluirán todas las filas que sean necesarias.</p>
 </td>
 </tr>
 </tfoot>
@@ -5042,88 +4987,88 @@ Los valores de k<sub>2</sub> se indican en la tabla AV.5.1.1
 
 Tabla AV.5.1.1
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Número de muestras de control (n)</p>
+<p>Número de muestras de control (n)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">k<sub>2</sub></p>
+<p>k<sub>2</sub></p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Para P<sub>K</sub> = 5 %</p>
+<p>Para P<sub>K</sub> = 5 %</p>
 </th>
 <th>
-<p class="cabeza_tabla">Para P<sub>K</sub> = 10 %</p>
+<p>Para P<sub>K</sub> = 10 %</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Límite inferior de resistencias iniciales y normales.</p>
-<p class="cabeza_tabla">Contenido de aire en cementos de albañilería</p>
+<p>Límite inferior de resistencias iniciales y normales.</p>
+<p>Contenido de aire en cementos de albañilería</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras propiedades</p>
+<p>Otras propiedades</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,26</p>
+<p>1,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,90</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,42</p>
+<p>0,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,54</p>
+<p>0,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,17</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">– 0,11</p>
+<p>0,42</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,09</p>
+<p>0,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">– 0,28</p>
+<p>0,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>0,26</p>
+</td>
+<td>
+<p>– 0,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>0,09</p>
+</td>
+<td>
+<p>– 0,28</p>
 </td>
 </tr>
 </tbody>
@@ -5157,199 +5102,185 @@ Además de los criterios de conformidad estadísticos, el cumplimiento de los re
 
 Tabla AV.5.1.3a Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5, incluidos los de bajo calor de hidratación (apartado AI.1 del anejo I). Valores límite para resultados individuales
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3" rowspan="3">Propiedad</th>
-<th class="cabeza_tabla" colspan="9">Valores límite para los resultados individuales</th>
+<th colspan="3" rowspan="3">Propiedad</th>
+<th colspan="9">Valores límite para los resultados individuales</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="9">Clase de resistencia</th>
+<th colspan="9">Clase de resistencia</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">32,5</p>
-<p class="cabeza_tabla">L</p>
+<th>
+<p>32,5</p>
+<p>L</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">32,5</p>
-<p class="cabeza_tabla">N</p>
+<th>
+<p>32,5</p>
+<p>N</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">32,5</p>
-<p class="cabeza_tabla">R</p>
+<th>
+<p>32,5</p>
+<p>R</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">42,5</p>
-<p class="cabeza_tabla">L</p>
+<th>
+<p>42,5</p>
+<p>L</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">42,5</p>
-<p class="cabeza_tabla">N</p>
+<th>
+<p>42,5</p>
+<p>N</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">42,5</p>
-<p class="cabeza_tabla">R</p>
+<th>
+<p>42,5</p>
+<p>R</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">52,5</p>
-<p class="cabeza_tabla">L</p>
+<th>
+<p>52,5</p>
+<p>L</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">52,5</p>
-<p class="cabeza_tabla">N</p>
+<th>
+<p>52,5</p>
+<p>N</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">52,5</p>
-<p class="cabeza_tabla">R</p>
+<th>
+<p>52,5</p>
+<p>R</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">Resistencia inicial (MPa), valor límite inferior</td>
-<td class="cuerpo_tabla_izq">2 días</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">8,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">8,0</td>
-<td class="cuerpo_tabla_centro">18,0</td>
-<td class="cuerpo_tabla_centro">8,0</td>
-<td class="cuerpo_tabla_centro">18,0</td>
-<td class="cuerpo_tabla_centro">28,0</td>
+<td colspan="2" rowspan="2">Resistencia inicial (MPa), valor límite inferior</td>
+<td>2 días</td>
+<td>–</td>
+<td>–</td>
+<td>8,0</td>
+<td>–</td>
+<td>8,0</td>
+<td>18,0</td>
+<td>8,0</td>
+<td>18,0</td>
+<td>28,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7 días</td>
-<td class="cuerpo_tabla_centro">10,0</td>
-<td class="cuerpo_tabla_centro">14,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">14,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>7 días</td>
+<td>10,0</td>
+<td>14,0</td>
+<td>–</td>
+<td>14,0</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia nominal (MPa), valor límite inferior</td>
-<td class="cuerpo_tabla_izq">28 días</td>
-<td class="cuerpo_tabla_centro" colspan="3">30,0</td>
-<td class="cuerpo_tabla_centro" colspan="3">40,0</td>
-<td class="cuerpo_tabla_centro" colspan="3">50,0</td>
+<td colspan="2">Resistencia nominal (MPa), valor límite inferior</td>
+<td>28 días</td>
+<td colspan="3">30,0</td>
+<td colspan="3">40,0</td>
+<td colspan="3">50,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Tiempo de principio de fraguado (mín.), valor límite inferior</td>
-<td class="cuerpo_tabla_centro" colspan="3">60</td>
-<td class="cuerpo_tabla_centro" colspan="3">50</td>
-<td class="cuerpo_tabla_centro" colspan="3">40</td>
+<td colspan="3">Tiempo de principio de fraguado (mín.), valor límite inferior</td>
+<td colspan="3">60</td>
+<td colspan="3">50</td>
+<td colspan="3">40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Estabilidad de volumen (expansión en mm), valor límite superior</td>
-<td class="cuerpo_tabla_centro" colspan="9">10</td>
+<td colspan="3">Estabilidad de volumen (expansión en mm), valor límite superior</td>
+<td colspan="9">10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Contenido de sulfatos (como % SO<sub>3</sub>), valor límite superior</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">CEM I</p>
-<p class="cuerpo_tabla_izq">CEM II <sup>a</sup></p>
-<p class="cuerpo_tabla_izq">CEM IV</p>
-<p class="cuerpo_tabla_izq">CEM V</p>
+<td rowspan="4">Contenido de sulfatos (como % SO<sub>3</sub>), valor límite superior</td>
+<td colspan="2">
+<p>CEM I</p>
+<p>CEM II <sup>a</sup></p>
+<p>CEM IV</p>
+<p>CEM V</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">4,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4,0</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">4,5</td>
+<td>–</td>
+<td colspan="2">4,0</td>
+<td>–</td>
+<td>4,0</td>
+<td>4,5</td>
+<td>–</td>
+<td colspan="2">4,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">CEM I-SR 0</p>
-<p class="cuerpo_tabla_izq">CEM I-SR 3</p>
-<p class="cuerpo_tabla_izq">CEM I-SR 5 <sup>b</sup></p>
-<p class="cuerpo_tabla_izq">CEM IV/A-SR</p>
-<p class="cuerpo_tabla_izq">CEM IV/B-SR</p>
+<td colspan="2">
+<p>CEM I-SR 0</p>
+<p>CEM I-SR 3</p>
+<p>CEM I-SR 5 <sup>b</sup></p>
+<p>CEM IV/A-SR</p>
+<p>CEM IV/B-SR</p>
 </td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">3,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">4,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">4,0</td>
+<td>–</td>
+<td colspan="2">3,5</td>
+<td>–</td>
+<td>3,5</td>
+<td>4,0</td>
+<td>–</td>
+<td colspan="2">4,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">CEM III/A</p>
-<p class="cuerpo_tabla_izq">CEM III/B</p>
-<p class="cuerpo_tabla_izq">CEM II/C-M</p>
-<p class="cuerpo_tabla_izq">CEM VI</p>
+<td colspan="2">
+<p>CEM III/A</p>
+<p>CEM III/B</p>
+<p>CEM II/C-M</p>
+<p>CEM VI</p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="9">4,5</td>
+<td colspan="9">4,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">CEM III/C</td>
-<td class="cuerpo_tabla_centro" colspan="9">5,0</td>
+<td colspan="2">CEM III/C</td>
+<td colspan="9">5,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C<sub>3</sub>A (%), valor límite superior</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">CEM I-SR 0</p>
-<p class="cuerpo_tabla_izq">CEM I-SR 3</p>
-<p class="cuerpo_tabla_izq">CEM I-SR 5</p>
-<p class="cuerpo_tabla_izq">CEM IV/A-SR</p>
-<p class="cuerpo_tabla_izq">CEM IV/B-SR</p>
+<td>C<sub>3</sub>A (%), valor límite superior</td>
+<td colspan="2">
+<p>CEM I-SR 0</p>
+<p>CEM I-SR 3</p>
+<p>CEM I-SR 5</p>
+<p>CEM IV/A-SR</p>
+<p>CEM IV/B-SR</p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="9">
-<p class="cuerpo_tabla_centro">1</p>
-<p class="cuerpo_tabla_centro">4</p>
-<p class="cuerpo_tabla_centro">6</p>
-<p class="cuerpo_tabla_centro">10</p>
-<p class="cuerpo_tabla_centro">10</p>
+<td colspan="9">
+<p>1</p>
+<p>4</p>
+<p>6</p>
+<p>10</p>
+<p>10</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Contenido de cloruros (%) <sup>c</sup>, valor límite superior</td>
-<td class="cuerpo_tabla_centro" colspan="9">0,10 <sup>d</sup></td>
+<td colspan="3">Contenido de cloruros (%) <sup>c</sup>, valor límite superior</td>
+<td colspan="9">0,10 <sup>d</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Puzolanicidad</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">Cumplir el ensayo a 15 días</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">Cumplir el ensayo a 15 días</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro" colspan="2">Cumplir el ensayo a 15 días</td>
+<td colspan="3">Puzolanicidad</td>
+<td>–</td>
+<td colspan="2">Cumplir el ensayo a 15 días</td>
+<td>–</td>
+<td colspan="2">Cumplir el ensayo a 15 días</td>
+<td>–</td>
+<td colspan="2">Cumplir el ensayo a 15 días</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Calor de hidratación (J/g), valor límite superior</td>
-<td class="cuerpo_tabla_izq">LH</td>
-<td class="cuerpo_tabla_centro" colspan="9">300</td>
+<td colspan="2">Calor de hidratación (J/g), valor límite superior</td>
+<td>LH</td>
+<td colspan="9">300</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="12">
-<p class="cita"><sup>a</sup> Los tipos de cemento CEM II/B-T y CEM II/B-M con un contenido de T &gt; 20 % pueden contener hasta un 5,0 % de sulfatos (como SO3) para todas las clases de resistencia.</p>
-<p class="cita"><sup>b</sup> El CEM I–SR 5 utilizado en aplicaciones específicas puede producirse con un valor mayor de contenido de sulfatos (véase la tabla 5). En este caso, el valor límite superior es de un 0,5 % por encima del valor declarado.</p>
-<p class="cita"><sup>c</sup> Los cementos tipo CEM III y CEM VI pueden contener más del 0,10 % de cloruros, pero en este caso el contenido máximo de cloruros debe ser declarado.</p>
-<p class="cita"><sup>d</sup> Para las aplicaciones de pretensado, los cementos se pueden fabricar de acuerdo con un requisito menor. Si es así, se debe reemplazar el valor de 0,10 % por dicho menor valor, el cual se debe indicar en el albarán.</p>
+<p><sup>a</sup> Los tipos de cemento CEM II/B-T y CEM II/B-M con un contenido de T &gt; 20 % pueden contener hasta un 5,0 % de sulfatos (como SO3) para todas las clases de resistencia.</p>
+<p><sup>b</sup> El CEM I–SR 5 utilizado en aplicaciones específicas puede producirse con un valor mayor de contenido de sulfatos (véase la tabla 5). En este caso, el valor límite superior es de un 0,5 % por encima del valor declarado.</p>
+<p><sup>c</sup> Los cementos tipo CEM III y CEM VI pueden contener más del 0,10 % de cloruros, pero en este caso el contenido máximo de cloruros debe ser declarado.</p>
+<p><sup>d</sup> Para las aplicaciones de pretensado, los cementos se pueden fabricar de acuerdo con un requisito menor. Si es así, se debe reemplazar el valor de 0,10 % por dicho menor valor, el cual se debe indicar en el albarán.</p>
 </td>
 </tr>
 </tfoot>
@@ -5357,91 +5288,91 @@ Tabla AV.5.1.3a Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5, incl
 
 Tabla AV.5.1.3b Cemento especiales de muy bajo calor de hidratación (Apartado AI.2 del Anejo I). Valores límite para resultados individuales
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Propiedad</p>
+<p>Propiedad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Valores límite para resultados individuales</p>
+<p>Valores límite para resultados individuales</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Resistencia nominal (MPa). Valor límite inferior a 28 días.</p>
+<p>Resistencia nominal (MPa). Valor límite inferior a 28 días.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20,0</p>
+<p>20,0</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Principio de fraguado (mín). Valor límite inferior.</p>
+<p>Principio de fraguado (mín). Valor límite inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Estabilidad de volumen (expansión en mm). Valor límite superior.</p>
+<p>Estabilidad de volumen (expansión en mm). Valor límite superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Contenido de sulfatos (como % SO<sub>3</sub>). Valor límite superior.</p>
+<p>Contenido de sulfatos (como % SO<sub>3</sub>). Valor límite superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">VLH IV, VLH V</p>
+<p>VLH IV, VLH V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,0</p>
+<p>4,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VLH III/B</p>
+<p>VLH III/B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,5</p>
+<p>4,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VLH III/C</p>
+<p>VLH III/C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,0</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Contenido de cloruros (%) <sup>(a)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,10</p>
+<p>5,0</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Calor de hidratación (J/g). Valor límite superior</p>
+<p>Contenido de cloruros (%) <sup>(a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>0,10</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Puzolanicidad</p>
+<p>Calor de hidratación (J/g). Valor límite superior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Que se cumpla el ensayo a 15 días</p>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Puzolanicidad</p>
+</td>
+<td>
+<p>Que se cumpla el ensayo a 15 días</p>
 </td>
 </tr>
 </tbody>
@@ -5451,95 +5382,95 @@ Tabla AV.5.1.3b Cemento especiales de muy bajo calor de hidratación (Apartado A
 
 Tabla AV.5.1.3c Cemento de aluminato de calcio (apartado AI.3 del Anejo I). Valores límite para resultados individuales
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Propiedad</p>
+<p>Propiedad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Valores límite aplicables</p>
-<p class="cabeza_tabla">a los resultados individuales</p>
+<p>Valores límite aplicables</p>
+<p>a los resultados individuales</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Resistencia (MPa). Valor límite inferior.</p>
+<p>Resistencia (MPa). Valor límite inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">6 h</p>
+<p>6 h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,0</p>
+<p>15,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24 h</p>
+<p>24 h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38,0</p>
+<p>38,0</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Tiempo de principio de fraguado (mín). Valor límite inferior.</p>
+<p>Tiempo de principio de fraguado (mín). Valor límite inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>75</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Contenido en alúmina (%) <sup>(a)</sup></p>
+<p>Contenido en alúmina (%) <sup>(a)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Valor límite inferior.</p>
+<p>Valor límite inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor límite superior.</p>
+<p>Valor límite superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Contenido en sulfuros (%)<sup> (a) </sup>. Valor límite inferior.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,15</p>
+<p>60</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Contenido en cloruros (%)<sup> (a)</sup>. Valor límite superior.</p>
+<p>Contenido en sulfuros (%)<sup> (a) </sup>. Valor límite inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,10</p>
+<p>0,15</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Contenido en álcalis (%)<sup> (a) (b)</sup>. Valor límite superior.</p>
+<p>Contenido en cloruros (%)<sup> (a)</sup>. Valor límite superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>0,10</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Contenido en sulfatos (%)<sup> (a)</sup>. Valor límite superior.</p>
+<p>Contenido en álcalis (%)<sup> (a) (b)</sup>. Valor límite superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Contenido en sulfatos (%)<sup> (a)</sup>. Valor límite superior.</p>
+</td>
+<td>
+<p>0,6</p>
 </td>
 </tr>
 </tbody>
@@ -5551,46 +5482,38 @@ Tabla AV.5.1.3c Cemento de aluminato de calcio (apartado AI.3 del Anejo I). Valo
 
 Tabla AV.5.1.3d. Cementos de albañilería (apartado AI.4 del Anejo I). Valores límite para resultados individuales
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-<col class="row_column_4">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Propiedad</p>
+<p>Propiedad</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Valores límite para los resultados individuales</p>
+<p>Valores límite para los resultados individuales</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cabeza_tabla">MC5</p>
+<p>MC5</p>
 </td>
 <td>
-<p class="cabeza_tabla">MC12,5</p>
+<p>MC12,5</p>
 </td>
 <td>
-<p class="cabeza_tabla">MC 22,5 X</p>
+<p>MC 22,5 X</p>
 </td>
 <td>
-<p class="cabeza_tabla">MC 12,5 X</p>
+<p>MC 12,5 X</p>
 </td>
 <td>
-<p class="cabeza_tabla">MC 22,5 X</p>
+<p>MC 22,5 X</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Resistencia (MPa):</p>
+<p>Resistencia (MPa):</p>
 </td>
 <td> </td>
 <td> </td>
@@ -5598,144 +5521,144 @@ Tabla AV.5.1.3d. Cementos de albañilería (apartado AI.4 del Anejo I). Valores 
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor límite inferior 7 días</p>
+<p>Valor límite inferior 7 días</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Valor límite inferior 28 días</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20,5</p>
+<p>9</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Resistencia (MPa): Valor límite superior 28 días</p>
+<p>Valor límite inferior 28 días</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17,5</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37,5</p>
+<p>10,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47,5</p>
+<p>20,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37,5</p>
+<p>10,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47,5</p>
+<p>20,5</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Tiempo de principio de fraguado (mín): Valor límite inferior</p>
+<p>Resistencia (MPa): Valor límite superior 28 días</p>
+</td>
+<td>
+<p>17,5</p>
+</td>
+<td>
+<p>37,5</p>
+</td>
+<td>
+<p>47,5</p>
+</td>
+<td>
+<p>37,5</p>
+</td>
+<td>
+<p>47,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiempo de principio de fraguado (mín): Valor límite inferior</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Tiempo de final de fraguado (h): Valor límite superior</p>
+<p>Tiempo de final de fraguado (h): Valor límite superior</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">17 <sup>(a)</sup></p>
+<p>17 <sup>(a)</sup></p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad de volumen (expansión de mm): Valor límite superior</p>
+<p>Estabilidad de volumen (expansión de mm): Valor límite superior</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido en sulfatos (como SO<sub>3 </sub>en %): Valor límite superior</p>
+<p>Contenido en sulfatos (como SO<sub>3 </sub>en %): Valor límite superior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,0</p>
+<p>3,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,0</p>
+<p>4,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,0</p>
+<p>4,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,0</p>
+<p>4,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,0</p>
-</td>
-</tr>
-<tr class="row_column_6">
-<td>
-<p class="cuerpo_tabla_izq">Contenido en cloruros (%): Valor límite superior</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,10</p>
+<p>4,0</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Retención de agua (%): Valor límite inferior</p>
+<p>Contenido en cloruros (%): Valor límite superior</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+<td>
+<p>0,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Retención de agua (%): Valor límite inferior</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">75</p>
+<p>75</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">70</p>
+<p>70</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido en aire (%):</p>
+<p>Contenido en aire (%):</p>
 </td>
 <td> </td>
 <td> </td>
@@ -5743,44 +5666,44 @@ Tabla AV.5.1.3d. Cementos de albañilería (apartado AI.4 del Anejo I). Valores 
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor límite inferior</p>
+<p>Valor límite inferior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Valor límite superior</p>
+<p>Valor límite superior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -5820,98 +5743,98 @@ La constante k1 toma los siguientes valores:
 
 Tabla AV.5.2.1
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Número de muestras (n)</p>
+<p>Número de muestras (n)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">k<sub>1</sub></p>
+<p>k<sub>1</sub></p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Para P<sub>K</sub> = 5 %</p>
+<p>Para P<sub>K</sub> = 5 %</p>
 </th>
 <th>
-<p class="cabeza_tabla">Para P<sub>K</sub> = 10 %</p>
+<p>Para P<sub>K</sub> = 10 %</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Límite inferior de resistencias iniciales y normales. Contenido de aire en cementos de albañilería blanco</p>
+<p>Límite inferior de resistencias iniciales y normales. Contenido de aire en cementos de albañilería blanco</p>
 </th>
 <th>
-<p class="cabeza_tabla">Otras propiedades</p>
+<p>Otras propiedades</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,11</p>
+<p>2,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,27</p>
+<p>1,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,35</p>
+<p>1,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,99</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,09</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,73</p>
+<p>1,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,64</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,27</p>
+<p>0,99</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,32</p>
+<p>1,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-0,04</p>
+<p>0,73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>0,64</p>
+</td>
+<td>
+<p>0,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>0,32</p>
+</td>
+<td>
+<p>-0,04</p>
 </td>
 </tr>
 </tbody>
@@ -5959,70 +5882,66 @@ AVI.1 Ensayos de identificación
 
 AVI.1.1 Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5.
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="75%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Cementos comunes</th>
-<th class="cabeza_tabla">Ensayos</th>
+<th>Cementos comunes</th>
+<th>Ensayos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">CEM I</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
-<p class="cuerpo_tabla_izq">– Determinación de pérdida por calcinación.</p>
-<p class="cuerpo_tabla_izq">– Determinación de componentes.</p>
+<td>CEM I</td>
+<td>
+<p>– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
+<p>– Determinación de pérdida por calcinación.</p>
+<p>– Determinación de componentes.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM II</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
-<p class="cuerpo_tabla_izq">– Determinación de componentes.</p>
-<p class="cuerpo_tabla_izq">– Ensayo de puzolanicidad a las edades de 8 o 15 días (**).</p>
+<td>CEM II</td>
+<td>
+<p>– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
+<p>– Determinación de componentes.</p>
+<p>– Ensayo de puzolanicidad a las edades de 8 o 15 días (**).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM III</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
-<p class="cuerpo_tabla_izq">– Determinación de pérdida por calcinación.</p>
-<p class="cuerpo_tabla_izq">– Determinación de componentes (*).<sup> </sup></p>
+<td>CEM III</td>
+<td>
+<p>– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
+<p>– Determinación de pérdida por calcinación.</p>
+<p>– Determinación de componentes (*).<sup> </sup></p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM IV</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
-<p class="cuerpo_tabla_izq">– Ensayo de puzolanicidad a las edades de 8 o 15 días.</p>
-<p class="cuerpo_tabla_izq">– Determinación de componentes.</p>
+<td>CEM IV</td>
+<td>
+<p>– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
+<p>– Ensayo de puzolanicidad a las edades de 8 o 15 días.</p>
+<p>– Determinación de componentes.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM V</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
-<p class="cuerpo_tabla_izq">– Determinación de componentes <sup>(*). </sup></p>
+<td>CEM V</td>
+<td>
+<p>– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
+<p>– Determinación de componentes <sup>(*). </sup></p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CEM VI</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
-<p class="cuerpo_tabla_izq">– Determinación de componentes <sup>(*). </sup></p>
+<td>CEM VI</td>
+<td>
+<p>– Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto).</p>
+<p>– Determinación de componentes <sup>(*). </sup></p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(*) La determinación de los componentes para el caso de los cementos CEM III y CEM V, será exclusivamente cualitativa, restringiéndose a comprobar que no se trata de un tipo de cemento diferente del que se ha solicitado.</p>
-<p class="cita">(**) En el caso de cementos CEM II/C-M que no contengan escorias de horno alto se deberá realizar el ensayo de puzolanicidad.</p>
+<p>(*) La determinación de los componentes para el caso de los cementos CEM III y CEM V, será exclusivamente cualitativa, restringiéndose a comprobar que no se trata de un tipo de cemento diferente del que se ha solicitado.</p>
+<p>(**) En el caso de cementos CEM II/C-M que no contengan escorias de horno alto se deberá realizar el ensayo de puzolanicidad.</p>
 </td>
 </tr>
 </tfoot>
@@ -6034,29 +5953,29 @@ AVI.1.1 Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5.
 
 AVI.1.2 Cementos comunes de la norma UNE-EN 197-1 con características adicionales:
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos resistentes a los sulfatos</p>
+<p>Cementos resistentes a los sulfatos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos</p>
+<p>Ensayos</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">CEM I a V /SR o /SRC</p>
+<p>CEM I a V /SR o /SRC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Los exigidos para la identificación de los cementos comunes con tipo homónimo (I a V).</p>
+<p>Los exigidos para la identificación de los cementos comunes con tipo homónimo (I a V).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de C<sub>3</sub>A y C<sub>3</sub>A + C<sub>4</sub>AF clínker (*).</p>
+<p>Contenido de C<sub>3</sub>A y C<sub>3</sub>A + C<sub>4</sub>AF clínker (*).</p>
 </td>
 </tr>
 </tbody>
@@ -6111,33 +6030,29 @@ AVI.2.1 Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5:
 | CEM V | – Estabilidad de volumen<br>– Tiempos de fraguado<br>– Contenido de sulfatos<br>– Contenido de cloruros |
 | CEM VI | – Estabilidad de volumen<br>– Tiempos de fraguado<br>– Contenido de sulfatos<br>– Contenido de cloruros |
 
-<table class="tabla">
-<colgroup>
-<col width="25%">
-<col width="75%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Cementos comunes de bajo calor de hidratación</th>
-<th class="cabeza_tabla">Ensayos aplicables</th>
+<th>Cementos comunes de bajo calor de hidratación</th>
+<th>Ensayos aplicables</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">CEM I a VI - LH</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Estabilidad de volumen</p>
-<p class="cuerpo_tabla_izq">– Tiempos de fraguado</p>
-<p class="cuerpo_tabla_izq">– Residuo insoluble (*)</p>
-<p class="cuerpo_tabla_izq">– Contenido de sulfatos</p>
-<p class="cuerpo_tabla_izq">– Contenido de cloruros</p>
+<td>CEM I a VI - LH</td>
+<td>
+<p>– Estabilidad de volumen</p>
+<p>– Tiempos de fraguado</p>
+<p>– Residuo insoluble (*)</p>
+<p>– Contenido de sulfatos</p>
+<p>– Contenido de cloruros</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(*) Sólo para cementos tipos I y III.</p>
+<p>(*) Sólo para cementos tipos I y III.</p>
 </td>
 </tr>
 </tfoot>
@@ -6145,87 +6060,87 @@ AVI.2.1 Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5:
 
 AVI.2.2 Cementos comunes de la norma UNE-EN 197-1 con características adicionales:
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos resistentes a los sulfatos</p>
+<p>Cementos resistentes a los sulfatos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos aplicables</p>
+<p>Ensayos aplicables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">CEM I a V /SR o /SRC</p>
+<p>CEM I a V /SR o /SRC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad de volumen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tiempos de fraguado.</p>
+<p>Estabilidad de volumen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuo insoluble (*).</p>
+<p>Tiempos de fraguado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de sulfatos.</p>
+<p>Residuo insoluble (*).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de cloruros.</p>
+<p>Contenido de sulfatos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de cloruros.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos resistentes al agua de mar</p>
+<p>Cementos resistentes al agua de mar</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos aplicables</p>
+<p>Ensayos aplicables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">I a V /MR</p>
+<p>I a V /MR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad de volumen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tiempos de fraguado.</p>
+<p>Estabilidad de volumen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuo insoluble (*).</p>
+<p>Tiempos de fraguado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de sulfatos.</p>
+<p>Residuo insoluble (*).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de cloruros.</p>
+<p>Contenido de sulfatos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de cloruros.</p>
 </td>
 </tr>
 </tbody>
@@ -6235,135 +6150,135 @@ AVI.2.2 Cementos comunes de la norma UNE-EN 197-1 con características adicional
 
 AVI.2.3 Otros cementos:
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos de escorias de horno alto de baja resistencia inicial</p>
+<p>Cementos de escorias de horno alto de baja resistencia inicial</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos aplicables</p>
+<p>Ensayos aplicables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">CEM III</p>
+<p>CEM III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad de volumen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tiempos de fraguado.</p>
+<p>Estabilidad de volumen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuo insoluble.</p>
+<p>Tiempos de fraguado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de sulfatos.</p>
+<p>Residuo insoluble.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de cloruros.</p>
+<p>Contenido de sulfatos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contenido de cloruros.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos especiales de muy bajo calor de hidratación</p>
+<p>Cementos especiales de muy bajo calor de hidratación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos aplicables</p>
+<p>Ensayos aplicables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">VLH III a V</p>
+<p>VLH III a V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad de volumen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tiempos de fraguado.</p>
+<p>Estabilidad de volumen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de sulfatos.</p>
+<p>Tiempos de fraguado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Contenido de cloruros.</p>
+<p>Contenido de sulfatos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Puzolanicidad (VLH IV).</p>
+<p>Contenido de cloruros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Puzolanicidad (VLH IV).</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos de aluminato de calcio</p>
+<p>Cementos de aluminato de calcio</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos aplicables</p>
+<p>Ensayos aplicables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_centro">CAC</p>
+<p>CAC</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tiempos de fraguado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Determinación de sulfatos.</p>
+<p>Tiempos de fraguado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Determinación de cloruros.</p>
+<p>Determinación de sulfatos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Determinación de álcalis.</p>
+<p>Determinación de cloruros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Determinación del óxido de aluminio.</p>
+<p>Determinación de álcalis.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Determinación de sulfuros.</p>
+<p>Determinación del óxido de aluminio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Determinación de sulfuros.</p>
 </td>
 </tr>
 </tbody>
@@ -6373,39 +6288,39 @@ AVI.2.3 Otros cementos:
 |---|---|
 | MC | No precisan la realización de ensayos complementarios. |
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Cementos para usos especiales</p>
+<p>Cementos para usos especiales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos aplicables</p>
+<p>Ensayos aplicables</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ESP</p>
+<p>ESP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Estabilidad de volumen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tiempos de fraguado.</p>
+<p>Estabilidad de volumen.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Determinación de sulfatos.</p>
+<p>Tiempos de fraguado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Determinación de cloruros.</p>
+<p>Determinación de sulfatos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Determinación de cloruros.</p>
 </td>
 </tr>
 </tbody>
@@ -6481,99 +6396,99 @@ La frecuencia y detalles del procedimiento de evaluación de la conformidad son 
 
 Tabla AVII.2.1 Evaluación de conformidad de los cementos según la norma UNE-EN 197-2
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Fases</p>
+<p>Fases</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Fabricante</p>
+<p>Fabricante</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Organismo Certificador</p>
+<p>Organismo Certificador</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Duración del período de control</p>
+<p>Duración del período de control</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos de muestras de autocontrol</p>
+<p>Ensayos de muestras de autocontrol</p>
 </th>
 <th>
-<p class="cabeza_tabla">Inspección de la fábrica</p>
+<p>Inspección de la fábrica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Evaluación de los ensayos de autocontrol</p>
+<p>Evaluación de los ensayos de autocontrol</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ensayos de muestras de contraste</p>
+<p>Ensayos de muestras de contraste</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Periodo inicial.</p>
+<p>Periodo inicial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3 meses UNE-EN 197-2 5.6.1</p>
+<p>3 meses UNE-EN 197-2 5.6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Según tabla en la norma de producto UNE-EN 197-2 4.3.1(*)</p>
+<p>Según tabla en la norma de producto UNE-EN 197-2 4.3.1(*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≥1/mes UNE-EN 197-2 5.4.2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Periodo normal.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12 meses UNE-EN 197-2 5.3.3 (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Según tabla en la norma de producto UNE-EN 197-2 4.3.1(*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1/año UNE-EN 197-2 5.2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≥2/año UNE-EN 197-2 5.3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">≥6/año UNE-EN 197-2 5.4.2</p>
+<p>≥1/mes UNE-EN 197-2 5.4.2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Periodo de acciones correctivas.</p>
+<p>Periodo normal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 meses</p>
-<p class="cuerpo_tabla_centro">UNE-EN 197-2 6.1</p>
+<p>12 meses UNE-EN 197-2 5.3.3 (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">El doble de lo indicado para el periodo normal</p>
-<p class="cuerpo_tabla_centro">UNE-EN 197-2 6.1</p>
+<p>Según tabla en la norma de producto UNE-EN 197-2 4.3.1(*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>1/año UNE-EN 197-2 5.2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>≥2/año UNE-EN 197-2 5.3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">El doble de lo indicado para el periodo normal (= 1/mes)</p>
-<p class="cuerpo_tabla_centro">UNE-EN 197-2 6.1</p>
+<p>≥6/año UNE-EN 197-2 5.4.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Periodo de acciones correctivas.</p>
+</td>
+<td>
+<p>2 meses</p>
+<p>UNE-EN 197-2 6.1</p>
+</td>
+<td>
+<p>El doble de lo indicado para el periodo normal</p>
+<p>UNE-EN 197-2 6.1</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>El doble de lo indicado para el periodo normal (= 1/mes)</p>
+<p>UNE-EN 197-2 6.1</p>
 </td>
 </tr>
 </tbody>
@@ -6641,77 +6556,73 @@ En la tabla AVIII.2.1 se recogen los cementos recomendados para su uso en la fab
 
 Tabla AVIII.2.1
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="28%">
-<col width="72%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Aplicación</th>
-<th class="cabeza_tabla">Cementos recomendados</th>
+<th>Aplicación</th>
+<th>Cementos recomendados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigón en masa.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM II/C-M (W/T)<sup> (5)</sup> y CEM III/C.</p>
-<p class="cuerpo_tabla_izq">Cementos para usos especiales ESP VI-1 <sup>(1)</sup>.</p>
+<td>Hormigón en masa.</td>
+<td>
+<p>Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM II/C-M (W/T)<sup> (5)</sup> y CEM III/C.</p>
+<p>Cementos para usos especiales ESP VI-1 <sup>(1)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigón armado.</td>
-<td class="cuerpo_tabla_izq">Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM II/C-M (W/T)<sup> (5)</sup> CEM III/C y CEM V/B.</td>
+<td>Hormigón armado.</td>
+<td>Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM II/C-M (W/T)<sup> (5)</sup> CEM III/C y CEM V/B.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigón pretensado incluidos los prefabricados estructurales.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes <sup>(2)</sup> de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) <sup>(3)</sup>.</td>
+<td>Hormigón pretensado incluidos los prefabricados estructurales.</td>
+<td>Cementos comunes <sup>(2)</sup> de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) <sup>(3)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos estructurales prefabricados de hormigón armado.</td>
-<td class="cuerpo_tabla_izq">Resultan muy adecuados los cementos comunes <sup>(2)</sup> de los tipos CEM I, CEM II/A y adecuado el cemento común tipo CEM IV/A cuando así se deduzca de un estudio experimental específico.</td>
+<td>Elementos estructurales prefabricados de hormigón armado.</td>
+<td>Resultan muy adecuados los cementos comunes <sup>(2)</sup> de los tipos CEM I, CEM II/A y adecuado el cemento común tipo CEM IV/A cuando así se deduzca de un estudio experimental específico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigón en masa y armado en grandes volúmenes.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Resultan muy adecuados los cementos comunes CEM III/B, CEM IV/B y adecuados los cementos comunes tipo CEM II/B, CEM III/A, CEM IV/A y CEM V/A, CEM II/C-M (excepto los CEM II/C-M (W/T)<sup> (5)</sup>) y CEM VI.</p>
-<p class="cuerpo_tabla_izq">Cementos para usos especiales ESP VI-1.</p>
-<p class="cuerpo_tabla_izq">Es muy recomendable la característica adicional de bajo calor de hidratación (LH) y de muy bajo calor de hidratación (VLH), según los casos.</p>
+<td>Hormigón en masa y armado en grandes volúmenes.</td>
+<td>
+<p>Resultan muy adecuados los cementos comunes CEM III/B, CEM IV/B y adecuados los cementos comunes tipo CEM II/B, CEM III/A, CEM IV/A y CEM V/A, CEM II/C-M (excepto los CEM II/C-M (W/T)<sup> (5)</sup>) y CEM VI.</p>
+<p>Cementos para usos especiales ESP VI-1.</p>
+<p>Es muy recomendable la característica adicional de bajo calor de hidratación (LH) y de muy bajo calor de hidratación (VLH), según los casos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigón de alta resistencia.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Muy adecuados los cementos comunes tipo CEM I y adecuados los cementos comunes tipo CEM II/A-D y CEM II/A 42,5 R.</p>
-<p class="cuerpo_tabla_izq">El resto de cementos comunes tipo CEM II/A pueden resultar adecuados cuando así se deduzca de un estudio experimental específico.</p>
+<td>Hormigón de alta resistencia.</td>
+<td>
+<p>Muy adecuados los cementos comunes tipo CEM I y adecuados los cementos comunes tipo CEM II/A-D y CEM II/A 42,5 R.</p>
+<p>El resto de cementos comunes tipo CEM II/A pueden resultar adecuados cuando así se deduzca de un estudio experimental específico.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigones para reparaciones rápidas de urgencia.</td>
-<td class="cuerpo_tabla_izq">Los cementos comunes tipo CEM I, CEM II/A-D, y el cemento de aluminato de calcio (CAC).</td>
+<td>Hormigones para reparaciones rápidas de urgencia.</td>
+<td>Los cementos comunes tipo CEM I, CEM II/A-D, y el cemento de aluminato de calcio (CAC).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigones para desencofrado y descimbrado rápido.</td>
-<td class="cuerpo_tabla_izq">Los cementos comunes <sup>(2)</sup> tipo CEM I, y CEM II (excepto CEM II/C-M).</td>
+<td>Hormigones para desencofrado y descimbrado rápido.</td>
+<td>Los cementos comunes <sup>(2)</sup> tipo CEM I, y CEM II (excepto CEM II/C-M).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigón proyectado.</td>
-<td class="cuerpo_tabla_izq">Los cementos comunes tipo CEM I, y CEM II/A.</td>
+<td>Hormigón proyectado.</td>
+<td>Los cementos comunes tipo CEM I, y CEM II/A.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hormigones con áridos potencialmente reactivos <sup>(4)</sup>.</td>
-<td class="cuerpo_tabla_izq">Resultan muy adecuados los cementos comunes tipo CEM III, CEM IV, CEM V, CEM II/A-D, CEM II/B-S y CEM II/B-V, y adecuados los cementos comunes tipo CEM II/B-P, CEM II/B-M, CEM II/C-M (excepto los cementos CEM II/C-M (W/T)<sup> (5)</sup>) y CEM VI.</td>
+<td>Hormigones con áridos potencialmente reactivos <sup>(4)</sup>.</td>
+<td>Resultan muy adecuados los cementos comunes tipo CEM III, CEM IV, CEM V, CEM II/A-D, CEM II/B-S y CEM II/B-V, y adecuados los cementos comunes tipo CEM II/B-P, CEM II/B-M, CEM II/C-M (excepto los cementos CEM II/C-M (W/T)<sup> (5)</sup>) y CEM VI.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) En el caso de grandes volúmenes de hormigón en masa.</p>
-<p class="cita">(2) Dentro de los indicados son preferibles los de alta resistencia inicial.</p>
-<p class="cita">(3) La inclusión de los cementos CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) como utilizables para la aplicación de hormigón pretensado es coherente con la posibilidad, contemplada en el Código Estructural vigente, de la utilización de adición al hormigón pretensado de cenizas volantes en una cantidad no mayor del 20 % del peso de cemento.</p>
-<p class="cita">(4) Para esta aplicación son recomendables los cementos con bajo contenido en alcalinos o aquéllos citados en la tabla.</p>
-<p class="cita">(5) Cementos portland compuestos o cementos compuestos que tengan por componentes principales las cenizas volantes calcáreas (W) o los esquistos calcinados (T).</p>
+<p>(1) En el caso de grandes volúmenes de hormigón en masa.</p>
+<p>(2) Dentro de los indicados son preferibles los de alta resistencia inicial.</p>
+<p>(3) La inclusión de los cementos CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) como utilizables para la aplicación de hormigón pretensado es coherente con la posibilidad, contemplada en el Código Estructural vigente, de la utilización de adición al hormigón pretensado de cenizas volantes en una cantidad no mayor del 20 % del peso de cemento.</p>
+<p>(4) Para esta aplicación son recomendables los cementos con bajo contenido en alcalinos o aquéllos citados en la tabla.</p>
+<p>(5) Cementos portland compuestos o cementos compuestos que tengan por componentes principales las cenizas volantes calcáreas (W) o los esquistos calcinados (T).</p>
 </td>
 </tr>
 </tfoot>
@@ -6723,38 +6634,34 @@ AVIII.2.2.1 Cimentaciones: En la tabla AVIII.2.2.1 se recogen los cementos recom
 
 Tabla AVIII.2.2.1
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="28%">
-<col width="72%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Aplicación</th>
-<th class="cabeza_tabla">Cementos recomendados</th>
+<th>Aplicación</th>
+<th>Cementos recomendados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Cimentaciones de hormigón en masa.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Muy adecuados los cementos comunes tipo CEM IV/B, siendo adecuados el resto de cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C,</p>
-<p class="cuerpo_tabla_izq">En todos los casos es recomendable la característica adicional de bajo calor de hidratación (LH).</p>
-<p class="cuerpo_tabla_izq">Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda.</p>
+<td>Cimentaciones de hormigón en masa.</td>
+<td>
+<p>Muy adecuados los cementos comunes tipo CEM IV/B, siendo adecuados el resto de cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C,</p>
+<p>En todos los casos es recomendable la característica adicional de bajo calor de hidratación (LH).</p>
+<p>Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cimentaciones de hormigón armado.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Muy adecuados los cementos comunes tipo CEM I y CEM II/A, siendo adecuados el resto de cementos comunes a excepción de los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/B, CEM III/C y CEM IV/B, CEM II/C-M y CEM VI</p>
-<p class="cuerpo_tabla_izq">Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda.</p>
+<td>Cimentaciones de hormigón armado.</td>
+<td>
+<p>Muy adecuados los cementos comunes tipo CEM I y CEM II/A, siendo adecuados el resto de cementos comunes a excepción de los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/B, CEM III/C y CEM IV/B, CEM II/C-M y CEM VI</p>
+<p>Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda.</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) De acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda.</p>
+<p>(1) De acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda.</p>
 </td>
 </tr>
 </tfoot>
@@ -6766,38 +6673,33 @@ En la tabla AVIII.2.2.2 se recogen los cementos recomendados para su uso en la f
 
 Tabla AVIII.2.2.2
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="13%">
-<col width="72%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Aplicación</th>
-<th class="cabeza_tabla">Tipo de hormigón</th>
-<th class="cabeza_tabla">Cementos recomendados</th>
+<th>Aplicación</th>
+<th>Tipo de hormigón</th>
+<th>Cementos recomendados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Obras portuarias y marítimas.</td>
-<td class="cuerpo_tabla_izq">En masa.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C, CEM II/C-M y CEM VI.</td>
+<td rowspan="3">Obras portuarias y marítimas.</td>
+<td>En masa.</td>
+<td>Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C, CEM II/C-M y CEM VI.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Armado.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C y CEM V/B. CEM II/C-M y CEM VI.</td>
+<td>Armado.</td>
+<td>Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C y CEM V/B. CEM II/C-M y CEM VI.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pretensado.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes <sup>(1)</sup> de los tipos CEM I, CEM II/A-D, CEM II/A-P, CEM II/A-V y CEM II/A-M(V-P).</td>
+<td>Pretensado.</td>
+<td>Cementos comunes <sup>(1)</sup> de los tipos CEM I, CEM II/A-D, CEM II/A-P, CEM II/A-V y CEM II/A-M(V-P).</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(1) Dentro de los indicados son preferibles los de alta resistencia inicial.</p>
+<p>(1) Dentro de los indicados son preferibles los de alta resistencia inicial.</p>
 </td>
 </tr>
 </tfoot>
@@ -6813,47 +6715,47 @@ En la tabla AVIII.2.2.3 se recogen los cementos recomendados para su uso en la f
 
 Tabla AVIII.2.2.3
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Aplicación</p>
+<p>Aplicación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cementos recomendados</p>
+<p>Cementos recomendados</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Presas de hormigón vibrado.</p>
+<p>Presas de hormigón vibrado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes de los tipos CEM II/A, CEM III/A, CEM III/B y CEM IV/A.</p>
+<p>Cementos comunes de los tipos CEM II/A, CEM III/A, CEM III/B y CEM IV/A.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Presas de hormigón compactado.</p>
+<p>Presas de hormigón compactado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes de los tipos CEM III, CEM IV y CEM V.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cementos para usos especiales ESP VI-1.</p>
+<p>Cementos comunes de los tipos CEM III, CEM IV y CEM V.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cementos especiales de muy bajo calor de hidratación VLH III, VLH IV y VLH V.</p>
+<p>Cementos para usos especiales ESP VI-1.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cementos de escoria de horno alto de baja resistencia inicial L.</p>
+<p>Cementos especiales de muy bajo calor de hidratación VLH III, VLH IV y VLH V.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cementos de escoria de horno alto de baja resistencia inicial L.</p>
 </td>
 </tr>
 </tbody>
@@ -6869,41 +6771,36 @@ En la tabla AVIII.2.2.4 se recogen los cementos recomendados para su uso en la f
 
 Tabla AVIII.2.2.4
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="13%">
-<col width="72%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Aplicación</th>
-<th class="cabeza_tabla">Tipo de hormigón</th>
-<th class="cabeza_tabla">Cementos recomendados</th>
+<th>Aplicación</th>
+<th>Tipo de hormigón</th>
+<th>Cementos recomendados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Tubos de hormigón, canales y otras aplicaciones hidráulicas</td>
-<td class="cuerpo_tabla_izq">En masa.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Cementos comunes excepto los tiposCEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C y CEM II/C-M (W/T) <sup>(5)</sup>.</p>
-<p class="cuerpo_tabla_izq">Cementos para usos especiales ESP VI-1 <sup>(1)</sup>.</p>
+<td rowspan="3">Tubos de hormigón, canales y otras aplicaciones hidráulicas</td>
+<td>En masa.</td>
+<td>
+<p>Cementos comunes excepto los tiposCEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C y CEM II/C-M (W/T) <sup>(5)</sup>.</p>
+<p>Cementos para usos especiales ESP VI-1 <sup>(1)</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Armado.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-QCEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C, CEM V/B y CEM II/C-M (W/T)<sup> (5)</sup>.</td>
+<td>Armado.</td>
+<td>Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-QCEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C, CEM V/B y CEM II/C-M (W/T)<sup> (5)</sup>.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pretensado.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P).</td>
+<td>Pretensado.</td>
+<td>Cementos comunes de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P).</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(1) En revestimentos de grandes canales con máquinas de encofrados deslizantes.</p>
+<p>(1) En revestimentos de grandes canales con máquinas de encofrados deslizantes.</p>
 </td>
 </tr>
 </tfoot>
@@ -6915,45 +6812,45 @@ En la tabla AVIII.2.3 se recogen los cementos recomendados para su uso en la fab
 
 Tabla AVIII.2.3
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Circunstancias de hormigonado</p>
+<p>Circunstancias de hormigonado</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cementos recomendados</p>
+<p>Cementos recomendados</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Hormigonado en tiempo frío <sup>(1) (2)</sup></p>
+<p>Hormigonado en tiempo frío <sup>(1) (2)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes tipo CEM I, CEM II/A y CEM IV/A.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Se recomienda la utilización de cementos de clase resistente alta o media (52,5 y 42,5).</p>
+<p>Cementos comunes tipo CEM I, CEM II/A y CEM IV/A.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hormigonado en ambientes secos y sometidos al viento y, en general, en condiciones que favorecen la desecación del hormigón <sup>(2)</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cementos comunes tipo CEM I y CEM II/A.</p>
+<p>Se recomienda la utilización de cementos de clase resistente alta o media (52,5 y 42,5).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Insolación fuerte u hormigonado en tiempo caluroso <sup>(2)</sup></p>
+<p>Hormigonado en ambientes secos y sometidos al viento y, en general, en condiciones que favorecen la desecación del hormigón <sup>(2)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes tipo CEM II, CEM III/A, CEM IV/A y CEM V/A.</p>
+<p>Cementos comunes tipo CEM I y CEM II/A.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Insolación fuerte u hormigonado en tiempo caluroso <sup>(2)</sup></p>
+</td>
+<td>
+<p>Cementos comunes tipo CEM II, CEM III/A, CEM IV/A y CEM V/A.</p>
 </td>
 </tr>
 </tbody>
@@ -6969,68 +6866,63 @@ En la tabla AVIII.2.4 se recogen los cementos recomendados para la fabricación 
 
 Tabla AVIII.2.4
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="25%">
-<col width="60%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase de exposición</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tipo de proceso</p>
-<p class="cabeza_tabla">(Agresividad debida a)</p>
+<th>Clase de exposición</th>
+<th>
+<p>Tipo de proceso</p>
+<p>(Agresividad debida a)</p>
 </th>
-<th class="cabeza_tabla">Cementos recomendados</th>
+<th>Cementos recomendados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">X0</td>
-<td class="cuerpo_tabla_izq">Sin riesgo de ataque por corrosión.</td>
-<td class="cuerpo_tabla_izq">Todos los recomendados según la aplicación prevista.</td>
+<td>X0</td>
+<td>Sin riesgo de ataque por corrosión.</td>
+<td>Todos los recomendados según la aplicación prevista.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">XC</td>
-<td class="cuerpo_tabla_izq">Corrosión de las armaduras por carbonatación.</td>
-<td class="cuerpo_tabla_izq">CEM I, cualquier CEM II (preferentemente CEM II/A) excepto CEM II/C-M, CEM III/A, CEM IV/A.</td>
+<td>XC</td>
+<td>Corrosión de las armaduras por carbonatación.</td>
+<td>CEM I, cualquier CEM II (preferentemente CEM II/A) excepto CEM II/C-M, CEM III/A, CEM IV/A.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">XS <sup>(1)</sup></td>
-<td class="cuerpo_tabla_izq">Corrosión de las armaduras por cloruros de origen marino.</td>
-<td class="cuerpo_tabla_izq">Muy adecuados los cementos CEM II/S, CEM II/V (preferentemente los CEM II/B-V), CEM II/P (preferentemente los CEM II/B-P), CEM II/A-D, CEM III, CEM IV (preferentemente los CEM IV/A) y CEM V/A.</td>
+<td>XS <sup>(1)</sup></td>
+<td>Corrosión de las armaduras por cloruros de origen marino.</td>
+<td>Muy adecuados los cementos CEM II/S, CEM II/V (preferentemente los CEM II/B-V), CEM II/P (preferentemente los CEM II/B-P), CEM II/A-D, CEM III, CEM IV (preferentemente los CEM IV/A) y CEM V/A.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">XD</td>
-<td class="cuerpo_tabla_izq">Corrosión de las armaduras por cloruros de origen no marino.</td>
-<td class="cuerpo_tabla_izq">Preferentemente, los CEM I y CEM II/A y, además, los mismos que para la clase de exposición XS.</td>
+<td>XD</td>
+<td>Corrosión de las armaduras por cloruros de origen no marino.</td>
+<td>Preferentemente, los CEM I y CEM II/A y, además, los mismos que para la clase de exposición XS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">XA <sup>(2)</sup></td>
-<td class="cuerpo_tabla_izq">Ataque químico.</td>
-<td class="cuerpo_tabla_izq">Los mismos que para la clase de exposición XS.</td>
+<td>XA <sup>(2)</sup></td>
+<td>Ataque químico.</td>
+<td>Los mismos que para la clase de exposición XS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">XA</td>
-<td class="cuerpo_tabla_izq">Lixiviación del hormigón por aguas puras, ácidas, o con CO<sub>2</sub> agresivo.</td>
-<td class="cuerpo_tabla_izq">Cementos comunes de los tipos CEM II/P, CEM II/V, CEM II/A-D, CEM II/S, CEM III, CEM IV y CEM V.</td>
+<td>XA</td>
+<td>Lixiviación del hormigón por aguas puras, ácidas, o con CO<sub>2</sub> agresivo.</td>
+<td>Cementos comunes de los tipos CEM II/P, CEM II/V, CEM II/A-D, CEM II/S, CEM III, CEM IV y CEM V.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">-<sup>(3)</sup></td>
-<td class="cuerpo_tabla_izq">Reactividad álcali-árido.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Cementos de bajo contenido en alcalinos (óxidos de sodio y de potasio) en los que:</p>
-<p class="cuerpo_tabla_izq">(Na<sub>2</sub>O)<sub>eq</sub> = Na<sub>2</sub>O (%) + 0,658 K<sub>2</sub>O (%) &lt; 0,60.</p>
+<td>-<sup>(3)</sup></td>
+<td>Reactividad álcali-árido.</td>
+<td>
+<p>Cementos de bajo contenido en alcalinos (óxidos de sodio y de potasio) en los que:</p>
+<p>(Na<sub>2</sub>O)<sub>eq</sub> = Na<sub>2</sub>O (%) + 0,658 K<sub>2</sub>O (%) &lt; 0,60.</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(1) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR), tal y como establece el Código Estructural vigente.</p>
-<p class="cita">(2) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a los sulfatos (SR/SRC, de acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda), en el caso de que la clase específica sea XA2 o XA3, tal y como establece el Código Estructural vigente. En los casos en que el elemento esté en contacto con agua de mar será necesario únicamente cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR).</p>
-<p class="cita">(3) Son especialmente recomendables los cementos citados en la tabla AVIII.2.1 para hormigones con áridos potencialmente reactivos (que deberán cumplir igualmente el requisito de bajo contenido en alcalinos).</p>
+<p>(1) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR), tal y como establece el Código Estructural vigente.</p>
+<p>(2) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a los sulfatos (SR/SRC, de acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda), en el caso de que la clase específica sea XA2 o XA3, tal y como establece el Código Estructural vigente. En los casos en que el elemento esté en contacto con agua de mar será necesario únicamente cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR).</p>
+<p>(3) Son especialmente recomendables los cementos citados en la tabla AVIII.2.1 para hormigones con áridos potencialmente reactivos (que deberán cumplir igualmente el requisito de bajo contenido en alcalinos).</p>
 </td>
 </tr>
 </tfoot>
@@ -7042,50 +6934,50 @@ En la tabla AVIII.3 se recogen los cementos recomendados para su uso en la const
 
 Tabla AVIII.3
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Aplicación</p>
+<p>Aplicación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cementos recomendados</p>
+<p>Cementos recomendados</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Pavimentos de hormigón vibrado.</p>
+<p>Pavimentos de hormigón vibrado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes excepto los tipos: CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/B, CEM III/C y CEM V/B</p>
+<p>Cementos comunes excepto los tipos: CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/B, CEM III/C y CEM V/B</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Suelocemento y gravacemento y hormigón compactado.</p>
+<p>Suelocemento y gravacemento y hormigón compactado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes de los tipos CEM II/B, CEM III, CEM IV y CEM V <sup>(1)</sup> excepto los tipos CEM II/B-Q, CEM II/B-W y CEM II/B-T.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cemento para usos especiales ESP VI-1.</p>
+<p>Cementos comunes de los tipos CEM II/B, CEM III, CEM IV y CEM V <sup>(1)</sup> excepto los tipos CEM II/B-Q, CEM II/B-W y CEM II/B-T.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cementos de escoria de horno alto de baja resistencia inicial (L).</p>
+<p>Cemento para usos especiales ESP VI-1.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Estabilización de suelos. <sup>(2)</sup></p>
+<p>Cementos de escoria de horno alto de baja resistencia inicial (L).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estabilización de suelos. <sup>(2)</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos para usos especiales ESP VI-1 y los cementos comunes tipo CEM II/B, CEM III, CEM IV/A, CEM IV/B y CEM V.</p>
+<p>Cementos para usos especiales ESP VI-1 y los cementos comunes tipo CEM II/B, CEM III, CEM IV/A, CEM IV/B y CEM V.</p>
 </td>
 </tr>
 </tbody>
@@ -7101,53 +6993,53 @@ En la tabla AVIII.4 se recogen los cementos recomendados para su uso en la fabri
 
 Tabla AVIII.4
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Aplicación</p>
+<p>Aplicación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cementos recomendados</p>
+<p>Cementos recomendados</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Prefabricados no estructurales.</p>
+<p>Prefabricados no estructurales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Solado de pavimentos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Los cementos comunes excepto los tipos CEM I, CEMII/A-D, CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEMIII/B y CEM III/C.</p>
+<p>Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hormigones de limpieza y relleno de zanjas.</p>
+<p>Solado de pavimentos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C.</p>
+<p>Los cementos comunes excepto los tipos CEM I, CEMII/A-D, CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEMIII/B y CEM III/C.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hormigones de limpieza y relleno de zanjas.</p>
+</td>
+<td>
+<p>Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Otras aplicaciones de tipo no estructural ejecutadas en obra.</p>
+<p>Otras aplicaciones de tipo no estructural ejecutadas en obra.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cemento para usos especiales ESP VI-1.</p>
+<p>Cemento para usos especiales ESP VI-1.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C.</p>
+<p>Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C.</p>
 </td>
 </tr>
 </tbody>
@@ -7159,29 +7051,29 @@ En la tabla AVIII.5 se recogen los cementos recomendados para su uso en la fabri
 
 Tabla AVIII.5
 
-<table summary="Tabla de formato">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Aplicación</p>
+<p>Aplicación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cementos recomendados</p>
+<p>Cementos recomendados</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Morteros de albañilería.</p>
+<p>Morteros de albañilería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cemento de albañilería.</p>
+<p>Cemento de albañilería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cementos comunes, excepto los tipos CEM I y CEM III.</p>
+<p>Cementos comunes, excepto los tipos CEM I y CEM III.</p>
 </td>
 </tr>
 </tbody>

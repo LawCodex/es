@@ -1,0 +1,309 @@
+---
+title: "Orden ECD/65/2018, de 29 de enero, por la que se regulan las pruebas de la evaluación final de Educación Secundaria Obligatoria, para el curso 2017/2018"
+identifier: "BOE-A-2018-1196"
+eli: "https://www.boe.es/eli/es/o/2018/01/29/ecd65"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2018-01-29
+published: 2018-01-30
+in_force_from: 2018-01-31
+last_amended: 2020-03-19
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 27"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-1196"
+retrieved: 2026-10-11
+---
+
+# Orden ECD/65/2018, de 29 de enero, por la que se regulan las pruebas de la evaluación final de Educación Secundaria Obligatoria, para el curso 2017/2018
+
+Incluye la corrección de errores publicada por Orden ECD/93/2018, de 1 de febrero de 2018. [Ref. BOE-A-2018-1484](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1484)
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, prevé en su artículo 29 la realización de una evaluación individualizada al finalizar la Educación Secundaria Obligatoria.
+
+El artículo 6 bis.2.b) de la Ley Orgánica 2/2006, de 3 de mayo, habilita al Ministerio de Educación, Cultura y Deporte para establecer las características de las pruebas, diseñarlas y establecer su contenido para cada convocatoria, en relación con las evaluaciones finales de Educación Secundaria Obligatoria y de Bachillerato.
+
+El artículo 1 del Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, modifica la disposición final quinta de la Ley Orgánica 8/2013, de 9 de diciembre, para establecer que, hasta la entrada en vigor de la normativa resultante del Pacto de Estado social y político por la educación, la evaluación de Educación Secundaria Obligatoria, regulada por el artículo 29 de la Ley Orgánica 2/2006, de 3 de mayo, tendrá finalidad diagnóstica y carácter muestral; su finalidad será por tanto la evaluación del sistema educativo en su conjunto con vistas a la mejora de su calidad y equidad.
+
+El artículo 2.4 del Real Decreto 310/2016, de 29 de julio, por el que se regulan las evaluaciones finales de Educación Secundaria Obligatoria y de Bachillerato, especifica que los estándares de aprendizaje evaluables que constituirán el objeto de evaluación procederán de la concreción de los recogidos en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
+
+El diseño y contenido de las pruebas de la evaluación final de Educación Secundaria Obligatoria establecidos en el Real Decreto 310/2016, de 29 de julio, han de considerarse ya inaplicables de conformidad con el artículo 2.2 del Real Decreto-ley 5/2016, de 9 de diciembre, que indica que durante el periodo previsto en los apartados 2 y 3 de la disposición final quinta de la Ley Orgánica 8/2013, de 9 de diciembre, la evaluación final de Educación Secundaria Obligatoria se regirá por las previsiones de este artículo y, supletoriamente, y en lo que resulte compatible con ellas, por el Real Decreto 310/2016, de 29 de julio, que la presente orden aplica a las características y el diseño de las pruebas.
+
+Procede, por tanto, ahora, determinar el diseño y el contenido de las pruebas de la evaluación final de Educación Secundaria Obligatoria para el curso escolar 2017/2018 de conformidad con lo prescrito por el Real Decreto-ley 5/2016, de 9 de diciembre.
+
+Esta orden se ajusta a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que la misma persigue un interés general al contribuir al diagnóstico del sistema educativo español y a la mejora de sus resultados, cumple estrictamente el mandato establecido en el artículo 129 de la citada Ley y, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Del mismo modo, durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue la ley.
+
+Esta orden se dicta al amparo del artículo 149.1.30ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre la regulación de las normas básicas para el desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de obligaciones de los poderes públicos en esta materia.
+
+En la elaboración de esta orden se ha consultado a las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación y ha emitido dictamen el Consejo Escolar del Estado.
+
+En su virtud, dispongo:
+
+## Artículo 1. Objeto.
+
+La presente orden tiene por objeto regular, para todos los centros docentes del Sistema Educativo Español, y para el curso 2017/18, las pruebas de la evaluación final de Educación Secundaria Obligatoria de conformidad con lo dispuesto en el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa.
+
+## Artículo 2. Ámbito de aplicación y finalidad de la evaluación final de Educación Secundaria Obligatoria.
+
+La evaluación final de Educación Secundaria Obligatoria tendrá carácter muestral y finalidad diagnóstica. Se aplicará a alumnos que se encuentren cursando cuarto curso de Educación Secundaria Obligatoria, con independencia de sus calificaciones. Esta evaluación carecerá de efectos académicos.
+
+La selección de alumnos y centros será suficiente para obtener datos representativos. No obstante, las Administraciones educativas podrán elevar el número de centros participantes por encima de las necesidades muestrales, o hacer la evaluación final con carácter censal.
+
+## Artículo 3. Competencias objeto de evaluación.
+
+Conforme a lo dispuesto en la disposición final quinta.2 de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, modificada por el Real Decreto-ley 5/2016, de 9 de diciembre, la evaluación final de Educación Secundaria Obligatoria valorará el grado de adquisición de la competencia matemática, la competencia lingüística y la competencia social y cívica, teniendo como referencia principal las materias generales del bloque de asignaturas troncales cursadas en cuarto curso de Educación Secundaria Obligatoria.
+
+A este respecto, las materias Lengua Castellana y Literatura, Primera Lengua Extranjera y, en su caso, Lengua Cooficial y Literatura, serán la referencia principal para la determinación del grado de adquisición de la competencia lingüística; las materias Matemáticas orientadas a las enseñanzas académicas y Matemáticas orientadas a las enseñanzas aplicadas serán la referencia principal para la determinación del grado de adquisición de la competencia matemática; y la materia Geografía e Historia será la referencia principal para la determinación del grado de adquisición de la competencia social y cívica.
+
+## Artículo 4. Diseño de las pruebas.
+
+1\. El diseño de las pruebas comprenderá la matriz de especificaciones, cuyos elementos deberán estar estrechamente relacionados con las competencias básicas matemática, lingüística y social y cívica, la longitud (número mínimo y máximo de preguntas), tiempo de aplicación y la tipología de preguntas (abiertas, semiabiertas y de opción múltiple).
+
+2\. Se realizará una prueba por cada una de las materias que constituyen la referencia principal de las competencias objeto de evaluación.
+
+> Se modifica el apartado 1 por la disposición final 1 de la Orden EFP/255/2020, de 11 de marzo. [Ref. BOE-A-2020-3864](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3864)
+
+## Artículo 5. Matrices de especificaciones.
+
+1\. Las matrices de especificaciones establecerán la concreción de los estándares de aprendizaje evaluables asociados a cada uno de los bloques de contenidos, de entre los fijados en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato, y darán cuerpo al proceso de evaluación. Asimismo, indicarán el peso o porcentaje orientativo que corresponde a cada uno de los bloques de contenidos. Además, en las matrices se reflejará la intersección de los bloques de contenidos con los procesos cognitivos identificados y la asociación de cada uno de los estándares con el tipo de proceso cognitivo.
+
+Las Administraciones educativas podrán completar dichas matrices asignando un peso o porcentaje a cada uno de los procesos cognitivos.
+
+Las matrices de especificaciones establecidas para cada una de las materias que se constituyen en referencia principal de las competencias incluidas en la evaluación de Educación Secundaria Obligatoria serán las recogidas en el anexo I de esta orden.
+
+2\. Las Administraciones educativas con lengua cooficial elaborarán la matriz de especificaciones correspondiente para la prueba de la materia Lengua Cooficial y Literatura.
+
+## Artículo 6. Longitud de las pruebas.
+
+1\. Cada prueba constará de un número de preguntas suficiente para poder describir los seis niveles de desarrollo competencial en los que se expresarán los resultados.
+
+2\. Cada una de las pruebas de la evaluación de Educación Secundaria Obligatoria tendrá una duración de 60 minutos. Se establecerá un descanso entre pruebas consecutivas de, como mínimo, 15 minutos.
+
+3\. La evaluación de Educación Secundaria Obligatoria tendrá una duración de un máximo de cuatro días en cada centro educativo. Aquellas Administraciones educativas con lengua cooficial podrán establecer una duración de un máximo de cinco días.
+
+## Artículo 7. Pruebas y tipología de preguntas.
+
+1\. Las pruebas se contextualizarán en entornos próximos a la vida del alumnado: situaciones personales, familiares, escolares y sociales, además de entornos científicos y humanísticos.
+
+2\. Cada una de las pruebas contendrá preguntas abiertas y semiabiertas que requerirán del alumnado capacidad de pensamiento crítico, reflexión y madurez. Además de estos tipos de preguntas, se podrán utilizar también preguntas de opción múltiple, siempre que en cada una de las pruebas el porcentaje de preguntas abiertas y semiabiertas alcance como mínimo el 20%.
+
+3\. A los efectos de la presente orden, las categorías de preguntas se definen de la siguiente manera:
+
+a) De opción múltiple: Preguntas con una sola respuesta correcta inequívoca y que no exigen construcción por parte del alumno, ya que este se limitará a elegir una de entre las opciones propuestas.
+
+b) Semiabiertas: Preguntas con respuesta correcta inequívoca y que exigen construcción por parte del alumno. Esta construcción será breve, por ejemplo, un número que da respuesta a un problema matemático o una palabra que complete una frase o dé respuesta a una cuestión siempre que no se facilite un listado de posibles respuestas.
+
+c) Abiertas: Preguntas que exigen construcción por parte del alumno y que no tienen una sola respuesta correcta inequívoca. Se engloban en este tipo las producciones escritas o las respuestas que exigen el desarrollo de procedimientos y la obtención de resultados, entre otras.
+
+## Artículo 8. Contenido de las pruebas.
+
+1\. Al menos el 80% de los estándares de aprendizaje utilizados en cada una de las pruebas deberá seleccionarse de entre los enumerados en la matriz de especificaciones de la materia correspondiente, incluida en el anexo I de la presente orden. El 20% restante de la prueba se podrá completar incluyendo estándares de entre los establecidos en el anexo I del Real Decreto 1105/2014, de 26 de diciembre.
+
+2\. En la elaboración de cada una de las pruebas de la evaluación se utilizará al menos un estándar de aprendizaje por cada uno de los bloques de contenido o agrupaciones de los mismos definidas en las matrices incluidas en el anexo I. De igual modo, se incluirá al menos un estándar correspondiente a cada uno de los procesos cognitivos establecidos en dicho anexo.
+
+## Artículo 9. Fechas de realización.
+
+Las pruebas correspondientes a la evaluación de Educación Secundaria Obligatoria se llevarán a cabo preferentemente en el último trimestre lectivo del curso 2017/2018.
+
+> Redactado conforme a la corrección de errores publicada por Orden ECD/93/2018, de 1 de febrero de 2018. [Ref. BOE-A-2018-1484](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1484)
+
+## Artículo 10. Cuestionarios de contexto.
+
+1\. Las Administraciones educativas, en el ejercicio de sus competencias, podrán administrar cuestionarios de contexto, de los tipos indicados en el artículo 5.2 del Real Decreto 310/2016, de 29 de julio.
+
+2\. El anexo II recoge una propuesta de cuestionario para el alumnado, que será de aplicación en el ámbito de gestión del Ministerio de Educación y Formación Profesional.
+
+3\. Los cuestionarios de contexto serán en todo caso anónimos. Se garantizará la confidencialidad de los datos durante todas las fases de la evaluación y se establecerán todos los mecanismos y procedimientos necesarios que aseguren dicho anonimato.
+
+4\. En caso de que alguna Administración educativa decida diseñar y aplicar tales cuestionarios, su elaboración y aplicación se llevará a cabo bajo los principios de diseño y accesibilidad universales. Asimismo, de acuerdo con el dictamen de la Comisión permanente del Consejo escolar del Estado, de 28 de noviembre de 2017, cuando se trate de cuestionarios dirigidos al alumnado, se habilitará un período en horario lectivo para su realización.
+
+> Se modifica por la disposición final 1 de la Orden EFP/255/2020, de 11 de marzo. [Ref. BOE-A-2020-3864](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3864)
+
+> Se modifica la letra d) por la disposición final 1 de la Orden EFP/196/2019, de 26 de febrero. [Ref. BOE-A-2019-2782](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2782)
+
+## Artículo 11. Resultados.
+
+Las Administraciones educativas elaborarán un informe en el que reflejarán los resultados obtenidos, expresándolos en seis niveles de desarrollo competencial, que se nombrarán del nivel 1 al 6. Los resultados en competencia lingüística podrán expresarse mediante una escala que integre varias de las lenguas evaluadas o diferenciada por cada una de ellas.
+
+> Se modifica por la disposición final 1 de la Orden EFP/255/2020, de 11 de marzo. [Ref. BOE-A-2020-3864](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3864)
+
+## Disposición adicional única. Adaptación de las normas recogidas en esta orden a las necesidades y situación de los centros situados en el exterior del territorio nacional y de la educación a distancia.
+
+Se faculta a la persona titular de la Secretaría de Estado de Educación, Formación Profesional y Universidades para adaptar la aplicación de las normas recogidas en esta orden ministerial a las necesidades y situación de los alumnos de los centros situados en el exterior del territorio nacional y de la educación a distancia.
+
+## Disposición final primera. Aplicación.
+
+Se habilita a la persona titular de la Secretaría de Estado de Educación, Formación Profesional y Universidades para dictar, en el ámbito de sus competencias, cuantas instrucciones sean precisas para la aplicación de lo establecido en esta orden.
+
+## Disposición final segunda. Título competencial.
+
+Esta orden se dicta al amparo del artículo 149.1.30ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre la regulación de las normas básicas para el desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de obligaciones de los poderes públicos en esta materia.
+
+## Disposición final tercera. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de enero de 2018.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
+
+## ANEXO I — Matrices de especificaciones de las materias de Educación Secundaria Obligatoria
+
+![13717.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13717.png)
+
+![13755.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13755.png)
+
+![13790.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13790.png)
+
+![13826.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13826.png)
+
+![13861.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13861.png)
+
+![13896.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13896.png)
+
+![13932.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13932.png)
+
+![13967.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_13967.png)
+
+![14003.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14003.png)
+
+![14038.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14038.png)
+
+![14075.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14075.png)
+
+![14111.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14111.png)
+
+![14146.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14146.png)
+
+![14183.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14183.png)
+
+![14219.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14219.png)
+
+![14255.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14255.png)
+
+![14290.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14290.png)
+
+## ANEXO II — Cuestionario para el alumnado. (Solo de aplicación en el ámbito de gestión del Ministerio de Educación y Formación Profesional)
+
+![14463.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14463.png)
+
+![14501.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14501.png)
+
+![14537.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14537.png)
+
+![14573.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14573.png)
+
+![14608.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14608.png)
+
+![14643.png](https://www.boe.es/datos/imagenes/disp/2018/27/01196_14643.png)
+
+> Se modifica el título por la disposición final 1 de la Orden EFP/255/2020, de 11 de marzo. [Ref. BOE-A-2020-3864](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3864)
+
+## ANEXO III — Indicadores de centro y/o Administración educativa. (Solo de aplicación en el ámbito de gestión del Ministerio de Educación y Formación Profesional)
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Indicadores</p>
+</td>
+<td>
+<p>Preguntas del cuestionario</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alumnado</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Porcentaje de alumnas/os.</p>
+</td>
+<td>
+<p>ACE01.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Porcentaje de alumnos que han repetido algún curso.</p>
+</td>
+<td>
+<p>ACE02, ACE05.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escolarización temprana.</p>
+</td>
+<td>
+<p>ACE03.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Absentismo escolar.</p>
+</td>
+<td>
+<p>ACE06.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Porcentaje de alumnos con condición de inmigrante.</p>
+</td>
+<td>
+<p>ACE04.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiempo dedicado a tareas escolares fuera del horario lectivo.</p>
+</td>
+<td>
+<p>ACE08.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Índice Social, Económico y Cultural.</p>
+</td>
+<td>
+<p>ACE10, ACE11, ACE12, ACE13, ACE14, ACE15.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Satisfacción de los alumnos en el centro.</p>
+</td>
+<td>
+<p>ACE09.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Utilización de medios tecnológicos para tareas escolares.</p>
+</td>
+<td>
+<p>ACE07.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resultados:.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Porcentaje de alumnado en cada nivel de competencia (seis niveles, del 1 al 6).</p>
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el título por la disposición final 1 de la Orden EFP/255/2020, de 11 de marzo. [Ref. BOE-A-2020-3864](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3864)

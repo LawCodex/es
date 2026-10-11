@@ -1,0 +1,179 @@
+---
+title: "Resolución de 25 de noviembre de 2020, de la Secretaría de Estado de Economía y Apoyo a la Empresa, por la que se publica el Acuerdo del Consejo de Ministros de 24 de noviembre de 2020, por el que se instruye al Instituto de Crédito Oficial (ICO) y se permite a la Compañía Española de Reafianzamiento, S.M.E., Sociedad Anónima (CERSA) ampliar el plazo de solicitud de avales hasta el 1 de junio de 2021 y extender el vencimiento de los avales ya liberados"
+identifier: "BOE-A-2020-14963"
+eli: "https://www.boe.es/eli/es/res/2020/11/25/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Asuntos Económicos y Transformación Digital"
+date: 2020-11-25
+published: 2020-11-26
+in_force_from: 2020-11-26
+last_amended: 2021-05-13
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 310"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-14963"
+retrieved: 2026-10-11
+---
+
+# Resolución de 25 de noviembre de 2020, de la Secretaría de Estado de Economía y Apoyo a la Empresa, por la que se publica el Acuerdo del Consejo de Ministros de 24 de noviembre de 2020, por el que se instruye al Instituto de Crédito Oficial (ICO) y se permite a la Compañía Española de Reafianzamiento, S.M.E., Sociedad Anónima (CERSA) ampliar el plazo de solicitud de avales hasta el 1 de junio de 2021 y extender el vencimiento de los avales ya liberados
+
+El Consejo de Ministros en su reunión del día 24 de noviembre de 2020, ha adoptado un Acuerdo por el que se instruye al Instituto de Crédito Oficial (ICO) y se permite a la Compañía Española de Reafianzamiento, S.M.E., Sociedad Anónima (CERSA) ampliar el plazo de solicitud de avales hasta el 1 de junio de 2021 y extender el vencimiento de los avales ya liberados.
+
+A los efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros de 24 de noviembre de 2020, esta Secretaría de Estado de Economía y Apoyo a la Empresa ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente resolución.
+
+Madrid, 25 de noviembre de 2020.–La Secretaria de Estado de Economía y Apoyo a la Empresa, Ana de la Cueva Fernández.
+
+## ANEXO
+
+El Consejo de Ministros acuerda:
+
+1\. Instruir al Instituto de Crédito Oficial para ampliar, hasta 1 de junio de 2021, el plazo de solicitud de los avales liberados al amparo de los Reales Decretos-leyes 8/2020 de 17 de marzo y 25/2020, de 3 de julio, así como los correspondientes Acuerdos de Consejo de Ministros de desarrollo.
+
+2\. Instruir al Instituto de Crédito Oficial a que extienda, en pleno cumplimiento con las condiciones establecidas en Real Decreto-ley 34/2020, de 17 de noviembre, de medidas urgentes de apoyo a la solvencia empresarial y al sector energético, y en materia tributaria, y en el anexo I de este Acuerdo, el vencimiento de los avales otorgados a empresas y autónomos en virtud del artículo 29 del Real Decreto-ley 8/2020, de 17 de marzo y los Acuerdos de Consejo de Ministros de 24 de marzo, 10 de abril, 5 de mayo, 19 de mayo y 16 de junio de 2020.
+
+3\. Permitir a la Compañía Española de Reafianzamiento, S.M.E., Sociedad Anónima (en adelante CERSA) la ampliación de los vencimientos de los avales liberados al amparo del Acuerdo de Consejo de Ministros, de 5 de mayo de 2020, por un máximo de tres años, sin poder el vencimiento total superar los ocho años. Asimismo, ampliar el plazo de solicitud de los avales para las operaciones formalizadas por CERSA hasta el 1 de junio de 2021.
+
+4\. Los importes correspondientes a los quebrantos que se produzcan por la ejecución de los avales descritos en el Anexo I se atenderán conforme a los términos establecidos en ellos y la aplicación presupuestaria 27.03.931M.359 «Otros gastos financieros». Los gastos de gestión y administración del Instituto de Crédito Oficial de los avales se atenderán desde las partidas presupuestarias del Ministerio de Asuntos Económicos y Transformación Digital establecidas al efecto y conforme a los términos indicados en el anexo I de este Acuerdo y la autorización de límites recogida en el anexo II de este Acuerdo.
+
+5\. Facultar al Instituto de Crédito Oficial para que, en el ámbito de sus competencias y a través de sus órganos competentes, resuelva cuantas incidencias prácticas pudiesen plantearse para la ejecución de los avales contemplados en este Acuerdo durante toda la vigencia de las operaciones. En aquellas cuestiones que puedan tener implicaciones presupuestarias o para su equilibrio financiero, el Instituto de Crédito Oficial podrá hacer las propuestas correspondientes a la Comisión Delegada para Asuntos Económicos para su consideración.
+
+6\. Mandatar al Instituto de Crédito Oficial y a CERSA, para que, dentro de los veinte días siguientes a la adopción de este Acuerdo de Consejo de Ministros, dispongan lo necesario para la puesta en marcha de forma efectiva de los elementos en él contenidos.
+
+7\. Instruir al Instituto de Crédito Oficial a ampliar hasta ocho años el plazo máximo de emisión de los avales aún no liberados al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y sus correspondientes Acuerdos de Consejo de Ministros de desarrollo. A estos efectos, se aplicarán las mismas condiciones que las establecidas en los Acuerdos de Consejo de Ministros, con la salvedad de la tabla de remuneraciones, resultado de aplicación para este caso la recogida en el anexo I de este Acuerdo.
+
+8\. Los avales recogidos en este Acuerdo cumplirán con la normativa de la Unión Europea en materia de Ayudas de Estado. No se concederá ni ampliará ningún aval al amparo de este Acuerdo hasta que no se cuente con la autorización expresa para ello de la Comisión Europea.
+
+EXPOSICIÓN
+
+Las medidas de contención de la epidemia de la Covid-19 han provocado una reducción significativa de los ingresos de las empresas y autónomos, generando importantes necesidades de liquidez. Las necesidades de liquidez están siendo adecuadamente cubiertas, gracias eminentemente al apoyo de las líneas de avales puestas a disposición por el gobierno. Varias instituciones internacionales reconocen ya que las líneas de avales liberadas por el gobierno de España están entre las más exitosas de la Unión Europea.
+
+Sin embargo, el incremento del endeudamiento y pérdida de ingresos pueden llevar a poner el foco en la situación de solvencia de las empresas. El problema de muchas empresas es de persistencia de sus tensiones de liquidez y de deterioro patrimonial como consecuencia de la crisis sanitaria, no de viabilidad económica, por lo que tanto desde el sector público, como desde el sector financiero, se debe hacer todo lo posible por aliviar la situación financiera de las empresas españolas y de los autónomos. Las medidas contenidas en este Acuerdo persiguen precisamente el objetivo de evitar que se den situaciones en las que una empresa viable incumpla sus obligaciones de pago, debido a esta falta de liquidez motivada por las referidas circunstancias, generando pérdidas para la entidad que concedió la financiación, para el Estado y para el conjunto del tejido productivo.
+
+El Real Decreto-ley 34/2020, de 17 de noviembre, de medidas urgentes de apoyo a la solvencia empresarial y al sector energético, y en materia tributaria, ha introducido modificaciones en los reales decretos leyes 8/2020, de 17 de marzo, y 25/2020, de 3 de julio, por las que se prevén medidas para apoyar la viabilidad financiera de empresas y autónomos. En particular, este Acuerdo de Consejo de Ministros se centra en apuntalar la situación financiera de empresas y autónomos a través de tres medidas. En primer lugar, el anexo I detalla los elementos necesarios para la implementación de las medidas de extensión del vencimiento de los préstamos con aval canalizado a través del ICO, a tenor de lo dispuesto en el artículo 1 del citado Real Decreto-ley 34/2020. En segundo lugar, se prevé la posibilidad de que CERSA amplíe el vencimiento de los avales otorgados, como medida de refuerzo de su reaval, por un máximo de tres años adicionales, sin poder superar el vencimiento total los ocho años.
+
+Además de las medidas señaladas anteriormente, este Acuerdo de Consejo de Ministros dota nuevas medidas de liquidez. En concreto, prevé la ampliación del plazo de solicitud de los avales canalizados a través de CERSA hasta 1 de junio de 2021.
+
+Por último, la cuarta modificación del Marco Temporal de Ayudas de Estado de la Unión Europea ha ampliado el plazo de disponibilidad de las ayudas liberadas a su amparo hasta el 30 de junio de 2021, extensión que se ha plasmado en el Real Decreto-ley 34/2020, de 17 de noviembre, de medidas urgentes de apoyo a la solvencia empresarial y al sector energético, y en materia tributaria. Por ello, este Acuerdo de Consejo de Ministros instruye al Instituto de Crédito Oficial para ampliar, hasta 1 de junio de 2021, el plazo de solicitud de los avales liberados al amparo de los Reales Decretos-leyes 8/2020, de 17 de marzo, y 25/2020, de 3 de julio, así como los correspondientes Acuerdos de Consejo de Ministros de desarrollo.
+
+## ANEXO I
+
+Las condiciones aplicables y requisitos para cumplir en las extensiones de plazo de avales y/o carencia que se realicen en virtud de lo establecido en el artículo 1 del Real Decreto-ley 34/2020, de 17 de noviembre, de medidas urgentes de apoyo a la solvencia empresarial y al sector energético, y en materia tributaria son las siguientes:
+
+<table>
+<tbody>
+<tr>
+<td>Remuneración del aval.</td>
+<td>
+<p>– Para operaciones con deudores que reciban ayuda pública por un total igual o inferior a 1.800.000 euros, a 270.000 si la empresa pertenece al sector de la pesca o acuicultura, o a 225.000 si la empresa pertenece al sector de producción primaria de productos agrícolas, el coste del aval para el plazo extendido desde la modificación del plazo del vencimiento será el inicialmente aplicado a la operación de financiación.</p>
+<p>– Para las operaciones de deudores que reciban ayuda pública entre 800.000 euros y 1.800.000 euros, para las que se haya formalizado una extensión de plazo de vencimiento antes de la entrada en vigor del presente Acuerdo se aplicará, a partir de la siguiente fecha de pago de la comisión de aval por la entidad al ICO, el mismo coste de aval que tenía la operación en el momento de su formalización inicial. Asimismo, la entidad debe aplicar al cliente, desde la misma fecha, el mismo coste de financiación que tenía la operación en el momento inicial de su formalización.</p>
+<p>– Para el resto de las operaciones se aplicará a partir de la extensión de plazo la siguiente tabla de remuneraciones. Adicionalmente, se abonará para cada operación el importe que corresponda por la diferencia entre el coste del aval inicialmente aplicado y el coste de aval aplicado tras la extensión, calculado para el periodo desde el inicio de la operación hasta la extensión del vencimiento.</p>
+<table>
+<thead>
+<tr>
+<th>
+<p> </p>
+</th>
+<th>
+<p>Pymes y autónomos, cobertura hasta 80 %</p>
+</th>
+<th>
+<p>Grandes empresas, cobertura hasta 70 %</p>
+</th>
+<th>
+<p>Grandes empresas, cobertura hasta 60 %</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Avales con vencimiento hasta 1 año.</td>
+<td>20 pb</td>
+<td>30 pb</td>
+<td>25 pb</td>
+</tr>
+<tr>
+<td>Avales con vencimiento superior a 1 año y hasta 3 años.</td>
+<td>30 pb</td>
+<td>60 pb</td>
+<td>50 pb</td>
+</tr>
+<tr>
+<td>Avales con vencimiento superior a 3 años y hasta 5 años.</td>
+<td>80 pb</td>
+<td>120 pb</td>
+<td>100 pb</td>
+</tr>
+<tr>
+<td>Avales con vencimiento superior a 5 años y hasta 6 años.</td>
+<td>80 pb</td>
+<td>125 pb</td>
+<td>110 pb</td>
+</tr>
+<tr>
+<td>Avales con vencimiento superior a 6 años y hasta 7 años.</td>
+<td>169 pb</td>
+<td>260 pb</td>
+<td>235 pb</td>
+</tr>
+<tr>
+<td>Avales con vencimiento superior a 7 años y hasta 8 años.</td>
+<td>188 pb</td>
+<td>285 pb</td>
+<td>260 pb</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>Análisis del cumplimiento de los requisitos de elegibilidad.</td>
+<td>
+<p>– Se modificarán los términos de las operaciones avaladas de hasta 50 millones de euros que hayan sido aprobadas por la entidad, sin perjuicio de comprobaciones posteriores sobre sus condiciones de elegibilidad.</p>
+<p>– Se modificarán los términos de las operaciones avaladas por encima de 50 millones de euros una vez que el ICO haya analizado el cumplimiento de las condiciones de elegibilidad exigidas para la extensión de manera complementaria al análisis de la entidad financiera.</p>
+<p>– Las operaciones que hagan uso de las extensiones de plazo de vencimiento previstas en el Real Decreto-ley 34/2020 que supongan una reclasificación del régimen de ayudas aplicables o dentro de diferentes apartados del Marco Temporal mantendrán la vigencia del aval en base a las condiciones de elegibilidad conforme al Marco temporal vigente aprobado por la Comisión de la Unión Europea o al régimen de ayudas aplicables, sin perjuicio de las comprobaciones posteriores sobre las condiciones de elegibilidad y requisitos aplicables a cada operación desde su formalización.</p>
+</td>
+</tr>
+<tr>
+<td>Otros trámites.</td>
+<td>
+<p>No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros. Las condiciones de este Anexo serán incorporadas en la adenda al contrato marco que las entidades hayan formalizado con ICO.</p>
+<p>El ICO informará con carácter mensual al Ministerio de Asuntos Económicos y Transformación Digital de la utilización de la línea de avales de los Reales decretos leyes 8/2020 y 25/2020.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el primer párrafo del apartado «Remuneración del aval» y se añade el último párrafo al apartado «Análisis del cumplimiento de las condiciones de elegibilidad» por el apartado segundo.a) del anexo I de la Resolución de 12 de mayo de 2021. [Ref. BOE-A-2021-7909](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7909)
+
+## ANEXO II
+
+## Primero.
+
+Los límites autorizados en el Acuerdo de Consejo de Ministros de 24 de marzo de 2020, para adquirir compromisos de gasto con cargo a ejercicios futuros en aplicación de lo dispuesto en el artículo 47.3 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, para financiar por parte del Ministerio de Asuntos Económicos y Transformación Digital los gastos de gestión y administración incurridos por ICO en la implementación del primer tramo de la línea de avales prevista en el artículo 29 del Real Decreto-ley 8/2020, de 17 de marzo, con cargo a la partida presupuestaria 27.03.931M.359 «Otros gastos financieros», y que fueron ampliados en los Acuerdos de Consejo de Ministros de 10 de abril, 5 de mayo, 19 de mayo, 16 de junio y 28 de julio de 2020, se consideran asimismo ampliados adicionalmente por los gastos de gestión y administración incurridos por ICO en la implementación de la extensión de plazo de los avales de acuerdo con lo previsto en el anexo I de este Acuerdo.
+
+**Ministerio de Asuntos Económicos y Transformación Digital: Techo máximo de gasto**
+
+Millones de euros
+
+| Años | Aval con plazo extendido<br>ACM<br>XX.11.20 |
+|---|---|
+| 2020 | 0 |
+| 2021 | 0 |
+| 2022 | 0 |
+| 2023 | 0 |
+| 2024 | 0 |
+| 2025 | 0 |
+| 2026 | 0 |
+| 2027 | 16,58 |
+| 2028 | 16,58 |
+| 2029 | 16,59 |
+| Total. | 49,75 |
+
+Comisión correspondiente a la gestión y administración de la extensión: 0,05 % flat, calculada sobre el volumen de cartera avalada con extensión de plazo de vencimiento y/o carencia prorrateada en tres años.
+
+## Segundo.
+
+ICO podrá contratar o ampliar los contratos de servicios de apoyo externo existentes directamente para la puesta en marcha y desarrollo de esta iniciativa lo antes posible, a través de la contratación de emergencia prevista en el artículo 120 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, y hasta un límite de 1 millón de euros por contrato. De estos contratos se dará cuenta, para su toma de razón, al Consejo de Ministros en los términos y plazo establecidos en el citado artículo 120 de la Ley 9/2017, de 8 de noviembre.

@@ -1,0 +1,351 @@
+---
+title: "Real Decreto 259/2002, de 8 de marzo, por el que se actualizan las medidas de seguridad en la utilización de las motos náuticas"
+identifier: "BOE-A-2002-4919"
+eli: "https://www.boe.es/eli/es/rd/2002/03/08/259"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2002-03-08
+published: 2002-03-12
+in_force_from: 2002-04-01
+last_amended: 2025-12-30
+consolidated: 2026-01-02
+gazette: "Boletín Oficial del Estado núm. 61"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-4919"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 259/2002, de 8 de marzo, por el que se actualizan las medidas de seguridad en la utilización de las motos náuticas
+
+Incluye la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).
+
+El incremento constante del parque de motos náuticas y de sus niveles de potencia impone la necesidad de aprobar las normas de seguridad necesarias para reducir el riesgo de accidentes que su utilización comporta, tanto para quienes las manejan como para los bañistas, en razón de la proximidad a la costa en donde dicha actividad se practica.
+
+Este Real Decreto viene a cumplir, en desarrollo de las previsiones contenidas en el artículo 86.1 de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, dicha finalidad. Para ello, se amplía sustancialmente el alcance de las normas de seguridad hasta ahora vigentes contenidas en la Orden de 22 de julio de 1999, por la que se establecen medidas de seguridad para el gobierno de motos náuticas, se crea una nueva titulación náutico-deportiva, dividida en tres categorías, necesaria para la navegación con dichos artefactos, hasta ahora exenta de dicho requisito, y se imponen a las empresas dedicadas al alquiler de motos unas obligaciones de funcionamiento destinadas a garantizar la utilización de las motos de las que dispongan en condiciones de seguridad.
+
+Por otra parte, la Orden de 16 de diciembre de 1998 por la que se regula el procedimiento abreviado de registro y matriculación de las motos náuticas, prevé exclusivamente el procedimiento de matriculación de motos utilizadas con fines recreativos, deportivos o comerciales. Sin embargo, la versatilidad de estos artefactos náuticos se ha traducido en que su utilización alcance también a las Administraciones públicas y entidades públicas dedicadas a funciones de salvamento de vidas humanas, cuyas embarcaciones deben inscribirse en la Lista octava del Registro de Matrícula de Buques regulado en el Real Decreto 1027/1989, de 28 de julio, sobre abanderamiento, matriculación de buques y registro marítimo, respecto de las cuales la citada Orden omite cualquier referencia. El presente Real Decreto viene a suplir dicho vacío, al establecer las normas necesarias para llevar a cabo dicha matriculación.
+
+Desde la perspectiva de su adecuación a la ordenación constitucional de competencias, las medidas establecidas en este Real Decreto constituyen, de conformidad con lo previsto en el artículo 6.1.c) de la Ley 27/1992, normas reguladoras de la marina mercante, materia que el artículo 149.1.20.ª de la Constitución atribuye, con carácter exclusivo, al Estado.
+
+En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de marzo de 2002,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este Real Decreto tiene por objeto establecer las medidas de seguridad apropiadas para el gobierno de las motos náuticas que naveguen por las aguas marítimas interiores y por el mar territorial español y regular las modalidades de su utilización.
+
+Asimismo, establece las reglas necesarias para la matriculación de las motos náuticas que sean propiedad o estén a disposición de organismos públicos y se utilicen en tareas de vigilancia, o de instituciones dedicadas al salvamento marítimo y de vidas humanas en la mar.
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).
+
+## Artículo 2. Modalidades de utilización.
+
+Las motos náuticas podrán ser utilizadas de los siguientes modos:
+
+1\. Uso particular de la moto náutica por su propietario o persona autorizada por el mismo. La zona de navegación de las motos náuticas que se gobiernen bajo esta modalidad se sujetará a lo previsto en el artículo 10 de este Real Decreto.
+
+2\. Uso en la modalidad de alquiler de una moto náutica explotada por una empresa dedicada al alquiler de las mismas, oficialmente autorizada para dicho fin. A su vez, se contemplarán tres modalidades de alquiler:
+
+a) Alquiler por horas o fracción, por empresas dedicadas a esta actividad y provistas de las instalaciones que se determinan en este real decreto. La zona de navegación de las motos náuticas que se gobiernen bajo esta modalidad se ajustará, como máximo, a los límites del circuito establecido para ello en el artículo 7.3.b), excepto en el caso de que el usuario que gobierne la moto esté provisto del título correspondiente, en cuyo caso se asimilará al arrendamiento por días.
+
+b) Alquiler por horas o fracción, por las empresas dedicadas al arrendamiento de motos náuticas, para la realización de excursiones colectivas en navegación y excursiones individuales con el monitor con titulación de motonáutica patroneando la moto náutica y el usuario de pasajero.
+
+c) Arrendamiento por días, por empresas que se dedican a dicha actividad desde instalaciones no situadas en la mar. La zona de navegación de las motos náuticas que se gobiernen bajo esta modalidad será la misma que la de las de uso particular.
+
+3\. Uso por instituciones u organismos públicos. Sólo podrán usarse en tareas de vigilancia y demás funciones policiales, así como para el auxilio y el salvamento marítimo de vidas humanas y bienes.
+
+Las motos náuticas dedicadas permanentemente a actividades de auxilio y salvamento marítimo irán pintadas de color naranja.
+
+> Se modifican las letras a) y b) del apartado 2 por el art. 1.1 del Real Decreto 1188/2025, de 26 de diciembre. [Ref. BOE-A-2025-27010](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27010)
+
+> Se modifican los apartados 2.b) y 3 por la disposición final 1.1 y 2 del Real Decreto 339/2021, de 18 de mayo. [Ref. BOE-A-2021-8268](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8268)
+
+> Se modifican los apartados 2.a) y b) por el art. 1.1 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+## Artículo 3. Matriculación y seguro de responsabilidad civil.
+
+1\. Las motos náuticas pertenecientes a personas físicas o jurídicas españolas o extranjeras residentes en España, deberán estar previamente matriculadas, registradas e identificadas, de acuerdo con la Orden de 16 de diciembre de 1998, por la que se regula el procedimiento abreviado de registro y matriculación de motos náuticas.
+
+2\. Las motos náuticas que utilicen o sean propiedad de los organismos públicos en tareas de vigilancia, o de instituciones dedicadas al salvamento marítimo y de vidas humanas en la mar, serán objeto de matriculación y se registrarán en la Lista octava del Registro de Matrícula de Buques regulado en el Real Decreto 1027/1989, de 28 de julio, sobre abanderamiento, matriculación de buques y registro marítimo, mediante el procedimiento regulado en la Orden señalada en el apartado 1 anterior.
+
+3\. Las motos náuticas deberán estar aseguradas en los términos previstos en el Reglamento del seguro de responsabilidad civil de suscripción obligatoria para embarcaciones de recreo o deportivas, aprobado por el Real Decreto 607/1999, de 16 de abril. Además, las motos náuticas destinadas al uso en cualquiera de las modalidades de alquiler recogidas en el apartado 2 del artículo 2, deberán contar con un seguro de accidentes, aplicándose con carácter supletorio para fijar la cuantía del mismo los importes de las indemnizaciones previstas en el anexo del Reglamento del Seguro Obligatorio de Viajeros, aprobado por Real Decreto 1575/1989, de 22 de diciembre.
+
+## Artículo 4. Edad mínima.
+
+Para gobernar motos náuticas en cualquiera de sus modalidades será necesario haber cumplido los dieciocho años de edad. Los menores de dicha edad que hayan cumplido los dieciséis años podrán, no obstante, manejar dichas embarcaciones, siempre que dispongan del consentimiento de sus padres o tutores. Dicho consentimiento deberá constar en un documento firmado por quien lo preste, junto con la fotocopia de su documento nacional de identidad o pasaporte, debiendo el menor que gobierne la moto náutica estar en disposición de exhibir dicho consentimiento en todo momento.
+
+## Artículo 5. Titulación exigida para el gobierno de las motos náuticas.
+
+1\. Para gobernar motos náuticas, en la modalidad de uso particular, el usuario deberá estar en posesión de algunos de los títulos de patrón para la navegación básica, patrón de embarcaciones de recreo, patrón de yate y capitán de yate, regulados por el Real Decreto 875/2014, de 10 de octubre, por el que se regulan las titulaciones náuticas para el gobierno de las embarcaciones de recreo.
+
+2\. Asimismo, se podrán gobernar las motos náuticas, sin limitación de potencia, mediante la obtención de la licencia prevista en el artículo 11 del Real Decreto 875/2014, de 10 de octubre.
+
+3\. Para el gobierno de motos náuticas arrendadas por días, de acuerdo con la modalidad prevista en el artículo 2.2.c), se requerirá estar en posesión del título correspondiente, de acuerdo con los apartados 1 y 2. En todo caso, los datos de la tarjeta acreditativa exhibida por los usuarios que vayan a gobernar la moto deberán figurar en el contrato de arrendamiento.
+
+4\. Para el gobierno de motos náuticas en las modalidades de alquiler previstas en las letras a) y b) del artículo 2.2, no será preciso que los usuarios tengan titulación alguna cuando las motos se utilicen en circuito o en excursiones colectivas en los términos previstos en el artículo 7.
+
+> Se modifica el apartado 3 por el art. 1.2 del Real Decreto 1188/2025, de 26 de diciembre. [Ref. BOE-A-2025-27010](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27010)
+
+> Se modifica por el art. 1.2 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+> Redactados los apartados 4.a) y 8.b) conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).
+
+## Artículo 6. Uso particular de las motos náuticas.
+
+1\. El Uso particular de las motos náuticas no faculta para el transporte de pasajeros o mercancías en régimen comercial, salvo las excepciones previstas en el artículo 35.4 del Real Decreto 875/2014, de 10 de octubre.
+
+2\. Las motos náuticas podrán ser utilizadas para el remolque de esquiadores náuticos o artefactos flotantes de uso deportivo o recreativo, siendo preciso cumplir con las siguientes condiciones:
+
+a) En ningún momento el número total de personas a bordo de la moto y remolcadas podrá superar el de las plazas autorizadas de la moto náutica.
+
+b) El trayecto deberá efectuarse siempre fuera de las zonas de baño, balizadas o no, y respetando la normativa de prevención de abordajes.
+
+c) Los artefactos flotantes no podrán ser ocupados por más personas que las establecidas en las instrucciones técnicas del fabricante del artefacto o, en defecto de estas, no se podrá transportar un número de personas que puedan dificultar o poner en peligro la moto náutica, de acuerdo con su potencia o características náuticas.
+
+d) Las personas que ocupen la moto remolcante y los artefactos remolcados deberán llevar chaleco salvavidas, conforme a lo dispuesto en el artículo 9.
+
+3\. En ningún caso estará permitido el arrastre o remolque de otros artefactos u objetos flotantes distintos a los reseñados en este artículo.
+
+4\. Lo dispuesto en este artículo quedará sin efecto si se produjeran circunstancias que hicieran necesario el arrastre o remolque de artefactos u objetos por razones de seguridad marítima o de la vida humana en la mar.
+
+> Se modifica el apartado 2.a) por la disposición final 1.3 del Real Decreto 339/2021, de 18 de mayo. [Ref. BOE-A-2021-8268](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8268)
+
+> Se modifica por el art. 1.3 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+## Artículo 7. Empresas de alquiler de motos náuticas por horas o fracción.
+
+1\. Las empresas que se dediquen al alquiler de motos náuticas por horas o fracción deberán estar en posesión de los preceptivos permisos de las Administraciones competentes y presentar una declaración responsable ante la Capitanía Marítima que corresponda al lugar en que se encuentre la base o instalación de que se trate.
+
+2\. La Capitanía Marítima que corresponda verificará, con posterioridad a la presentación de la declaración responsable, que la empresa cuente al menos con la siguiente infraestructura:
+
+a) Que el abastecimiento de las motos se efectué exclusivamente en puerto o en un lugar especialmente preparado para tal tarea. El mismo se deberá llevar a cabo por personal técnico de la empresa de alquiler, quedando expresamente prohibido el abastecimiento o venta de combustible a motos náuticas u otras embarcaciones distintas de las dedicadas al alquiler por la empresa o de las señaladas en la letra b) siguiente. Queda asimismo prohibido el abastecimiento en las playas.
+
+b) Una embarcación o moto náutica para el traslado de los usuarios. Si la actividad tiene su base de salida desde un puerto y tiene la autorización correspondiente para partir desde esa base, no sería necesario este requisito.
+
+c) Si fuera necesaria su utilización, una zona donde poder fondear las motos náuticas, o plataformas flotantes donde permanezcan las motos, hasta que sean utilizadas por los usuarios, de acuerdo con la ubicación que determine la Administración competente. Las motos náuticas de alquiler no podrán estar varadas o estacionadas en la playa.
+
+d) Una zona donde poder explicar el funcionamiento de la moto náutica y las normativas a cumplir a todos los usuarios que vayan a ir a bordo de las motos. Esta zona podrá estar en el puerto, plataforma flotante o cualquier otro espacio donde se evite que el usuario se pueda sentir indispuesto por la acción del mar. Dicha explicación deberá ser dada por uno de los monitores. Esta clase teórica, se realizará antes de la utilización de las motos náuticas, será sobre su manejo y normas básicas de navegación. Dichas clases teóricas tendrán la duración necesaria que asegure que los usuarios asimilen los conocimientos teóricos indispensables para su buen manejo y la seguridad en la navegación.
+
+e) Una embarcación o moto náutica de salvamento para el traslado de los usuarios y de aquellos otros que participen en los cursos de instrucción.
+
+f) Las motos náuticas, para que puedan ser alquiladas por los usuarios, estarán registradas y matriculadas en la lista sexta de acuerdo con lo dispuesto en la Orden de 16 de diciembre de 1998.
+
+g) La potencia máxima de las motos de alquiler utilizadas en las modalidades de circuito o excursiones colectivas en navegación estará limitada a 60 cv.
+
+h) Disposición de los elementos mínimos de seguridad que se especifican en el artículo 9 para los usuarios de las motos náuticas, en función del número de las mismas de que disponga la empresa de alquiler.
+
+i) Una dotación mínima de personal de dos monitores de motonáutica. Cada monitor-controlador supervisará un máximo de cuatro motos, cada una de las cuales llevará a bordo como máximo a dos usuarios, salvo en los casos en que la especificación técnica de la moto lo limite a un único usuario. La empresa deberá contar con monitores suficientes para atender al número de usuarios existentes en cada momento.
+
+3\. Las empresas de alquiler por horas o fracción, en circuitos, también deberán cumplir los siguientes requisitos:
+
+a) Un circuito de utilización delimitado por, al menos, cuatro balizas, cuyas medidas, posición y distancia a tierra serán establecidas por la Capitanía Marítima, teniendo en cuenta las características de la costa, tiempos reinantes, corrientes y demás circunstancias relacionadas con la seguridad marítima.
+
+b) Podrán instalar una base flotante, embarcación, plataforma o moto náutica, desde donde el monitor, controlará a los usuarios. Su posición deberá estar siempre en la parte exterior de dicho circuito de forma que desde la misma se pueda supervisar y controlar la adecuada utilización del circuito por parte de los usuarios. Cualquier elemento que se utilice para el control de los usuarios, deberá instalarse después del orto y retirarse antes del ocaso. Si la zona lo permite, se podrá solicitar autorización del capitán marítimo para dejar la instalación fondeada de forma temporal.
+
+c) En caso de que en una misma zona esté presente más de una empresa de alquiler, sus circuitos de utilización deberán estar alejadas unos de otros al menos una milla.
+
+Asimismo, en caso de uso de controles remotos, como dispositivos de seguridad con los que el monitor pueda parar una o varias motos simultáneamente, en caso de incumplimiento de las normas establecidas, su empleo será siempre bajo su responsabilidad, y contemplando la seguridad de los usuarios.
+
+4\. Las empresas de alquiler por horas o fracción, en excursiones colectivas, también deberán cumplir los siguientes requisitos:
+
+a) Las excursiones colectivas en navegación se llevarán a cabo, de manera preferente, con un monitor al frente de cuatro motos en posición de flecha de dos en dos, en paralelo, a continuación del monitor. La separación será como mínimo de 25 metros, dependiendo siempre del estado de la mar, y será el monitor quien decida esta distancia. Si hay más de cuatro motos, se harán con otro monitor, con la misma formación y separados de la primera. Los usuarios que vayan gobernando las motos deberán mantener siempre las distancias y formación que les haya indicado el monitor y no podrán adelantarse entre ellos. El número de usuarios a bordo de cada una de las motos será como máximo dos, salvo en aquellas en que la especificación técnica de la moto lo limite a un único usuario.
+
+b) Se deberá informar a la Capitanía Marítima correspondiente, el recorrido de las distintas excursiones que ofrezca la empresa, así como su tiempo aproximado de duración.
+
+5\. Las motos náuticas también podrán ser utilizadas para el remolque de otras motos náuticas, de embarcaciones de casco rígido o semirrígido de eslora inferior a 5 metros o de artefactos flotantes, cuando sea necesario para el ejercicio de actividades relacionadas con las empresas de alquiler de motos náuticas o por razones deportivas, siempre que las motos náuticas, las embarcaciones o artefactos flotantes remolcados no pongan en peligro la seguridad de la navegación de la moto que efectúa el remolque.
+
+> Se modifican las letras b) a e) y la letra i) del apartado 2 y la letra a) del apartado 4 por el art. 1.3 y 4 del Real Decreto 1188/2025, de 26 de diciembre. [Ref. BOE-A-2025-27010](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27010)
+
+> Se modifica el apartado 5 por la disposición final 1.4 del Real Decreto 339/2021, de 18 de mayo. [Ref. BOE-A-2021-8268](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8268)
+
+> Se modifica por el art. 1.4 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+> Se modifica el párrafo primero del apartado 2.g) por el art. único.1 del Real Decreto 2006/2009, de 23 de diciembre. [Ref. BOE-A-2010-1276](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1276).
+
+## Artículo 8. Registro de actividades.
+
+Las empresas dedicadas al alquiler de motos náuticas dispondrán de registros, a disposición de la Capitanía Marítima, en los que figurarán la identidad y la titulación náutica de los monitores y de todos los usuarios que vayan a bordo de la moto, así como la identificación de las motos alquiladas y los periodos de alquiler.
+
+> Se modifica por el art. 1.5 del Real Decreto 1188/2025, de 26 de diciembre. [Ref. BOE-A-2025-27010](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27010)
+
+> Se modifica por el art. 1.5 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+## Artículo 9. Elementos de seguridad.
+
+1\. Con independencia de la modalidad de utilización, cualquier usuario de una moto náutica, tanto si está a su gobierno como si es pasajero, deberá llevar puesto un chaleco salvavidas homologado por la autoridad que corresponda según la nacionalidad del propietario, salvo que posea el marcado de conformidad CE. El chaleco tendrá un mínimo de 100 N de flotabilidad y deberá disponer de un silbato para llamar la atención.
+
+2\. Excepcionalmente, se podrá utilizar una ayuda a la flotación de 50 N homologada por la autoridad que corresponda según la nacionalidad del propietario, salvo que posea el marcado de conformidad CE, en las modalidades de utilización de alquiler por horas o fracción en circuito y de auxilio y salvamento marítimo por instituciones u organismos públicos, así como en el resto de modalidades cuando las navegaciones se realicen en aguas costeras protegidas, puertos, radas, rías, bahías abrigadas y aguas protegidas en general. En todo caso, se seguirán las limitaciones de uso recomendadas por el fabricante de la ayuda y las definidas, en su caso, en la homologación. La ayuda deberá disponer de un silbato para llamar la atención.
+
+> Se modifica por la disposición final 1.5 del Real Decreto 339/2021, de 18 de mayo. [Ref. BOE-A-2021-8268](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8268)
+
+## Artículo 10. Zonas y períodos permitidos de navegación.
+
+1\. Las motos náuticas en la modalidad de uso particular o arrendamiento por días no navegarán en las proximidades de los circuitos de las empresas de alquiler ni de las excursiones colectivas organizadas por estas, ni tampoco en las zonas acotadas para la celebración de eventos deportivos.
+
+2\. Las motos náuticas que se alquilen por hora o fracción, excepto las utilizadas por usuarios provistos de titulación válida, circularán exclusivamente en los circuitos a los que se refiere el artículo 7.3.a) de este real decreto, por la parte interior a las cuatro balizas. Las motos navegarán siempre en el mismo sentido de giro alrededor del circuito y la distancia mínima entre ellas será de 50 metros.
+
+3\. La navegación de las motos náuticas deberá respetar las previsiones del Convenio sobre el Reglamento Internacional para prevenir los abordajes, hecho en Londres el 20 de octubre de 1972, así como las prohibiciones establecidas por la normativa en materia de costas.
+
+4\. Cuando coincida una zona en donde se permita la libre navegación de motos náuticas con otra acotada para la celebración de regatas de embarcaciones propulsadas a vela o a motor o de motos náuticas, no se permitirá en esta última la navegación de motos náuticas ajenas al evento deportivo.
+
+5\. Queda expresamente prohibida la navegación de motos náuticas dentro de las zonas de baño balizadas, las cuales contarán con canales, debidamente balizados, de lanzamiento y varada en los extremos de las playas, que se utilizarán para permitir la salida a la mar de las motos náuticas y demás artefactos de playa, hasta sobrepasar el límite exterior de la zona de baño.
+
+Cualquier moto náutica que deba ir desde la playa hasta el área permitida de navegación o viceversa, lo hará a través de los canales anteriormente citados y a velocidad que no superará los 3 nudos.
+
+6\. En los tramos de costa que carezcan de zona de baño balizada queda prohibida la navegación de motos náuticas en la franja de mar contigua a la costa en una anchura de 200 metros, salvo para vararlas en las playas o salir al mar desde ellas. En estos casos, la moto se gobernará siguiendo una trayectoria perpendicular a la línea de costa y siempre a velocidad reducida que no superará los 3 nudos.
+
+7\. Las motos náuticas y los artefactos de playa se utilizarán en condiciones de buena visibilidad y con buen tiempo, a cuyos efectos en todo momento deberá ser visible la base flotante desde tierra o viceversa. Únicamente se permitirá la navegación de motos náuticas y de artefactos de playa durante las horas de luz diurna, es decir, entre una hora posterior al orto y una hora anterior al ocaso. Se deberá gobernar la moto náutica con prudencia, evitando conductas temerarias.
+
+8\. El Capitán Marítimo, al amparo de lo previsto en el artículo 88.3.g) de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, podrá modificar los períodos y zonas de navegación e incluso prohibir ésta temporalmente, cuando las condiciones meteorológicas u otras circunstancias adversas relacionadas con la seguridad marítima y la de la vida humana en la mar así lo aconsejen.
+
+> Se modifican los apartados 1 a 3 por el art. 1.6 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+> Redactado el apartado 7 conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).
+
+## Artículo 11. Placa de Normas Básicas de Seguridad.
+
+Toda moto náutica, cualquiera que sea su modalidad de uso, deberá llevar adherida a su carrocería y en lugar visible una placa adecuadamente plastificada en la que figuren las normas básicas de funcionamiento de acuerdo con las siguientes especificaciones:
+
+A) Período de navegación: Diurno.
+
+B) Velocidad máxima: 3 nudos en:
+
+a) Canales y puertos deportivos.
+
+b) Canales de lanzamiento y varada de playas balizadas.
+
+c) Zonas de baño de playas no balizadas extremando precauciones con posibles bañistas.
+
+d) Acceso perpendicular a la playa cuando no exista balizamiento.
+
+C) Uso obligatorio de: chaleco salvavidas.
+
+D) Obligación de:
+
+a) Estar matriculada de acuerdo con la Orden de 16 de diciembre de 1998 por la que se regula el procedimiento abreviado de registro y matriculación de motos náuticas.
+
+b) Disponer de póliza de seguro de acuerdo con el Real Decreto 607/1999, de 16 de abril, por el que se aprueba el Reglamento del seguro de responsabilidad civil de suscripción obligatoria para embarcaciones de recreo o deportivas.
+
+E) Prohibición de:
+
+a) Navegación dentro de las zonas de baño balizadas.
+
+b) Acercarse a menos de 50 metros de otra moto, artefacto flotante, buques o embarcaciones, debiendo evitar la zona de buques fondeados.
+
+c) Adelantamientos en excursiones colectivas.
+
+d) Navegación dentro de los recintos portuarios, salvo puertos deportivos.
+
+F) Zona de navegación:
+
+a) Motos particulares o arrendadas por días o por horas con título, o alquiladas en la modalidad de excursiones colectivas en navegación:
+
+Fuera de la línea de balizamiento de las playas.
+
+Alejado de los circuitos de alquiler.
+
+Si no hay balizamiento, a más de 200 metros de la playa.
+
+Acceso a la playa: por los canales de lanzamiento y varada balizados. Si no los hay, perpendicular a la playa.
+
+b) Motos de alquiler por horas o fracción:
+
+Por el interior del circuito balizado (salvo excursiones colectivas).
+
+Todas las motos en el mismo sentido de giro.
+
+Distancia mínima entre motos: 50 metros.
+
+Uso inadecuado: parada remota del motor y retirada de la moto.
+
+## Artículo 12. Régimen sancionador.
+
+La utilización inadecuada de las motos náuticas contraviniendo lo dispuesto en el presente Real Decreto podrá ser objeto de sanción administrativa con sujeción al procedimiento previsto en los artículos 113 y siguientes de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+
+## Artículo 13. Condiciones de seguridad de los nuevos usos de las motos náuticas.
+
+El caso de aparición de nuevas técnicas o dispositivos en los que también se haga uso de motos náuticas su manejo deberá ajustarse a las normas de seguridad contenidas en este real decreto y las que establezca el fabricante. La utilización de estas nuevas técnicas o dispositivos está sujeta a la autorización de la Capitanía Marítima, previo informe de la Dirección General de la Marina Mercante.
+
+> Se añade por el art. 1.7 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Este artículo entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+## Disposición adicional única. Personal del Cuerpo de la Guardia Civil.
+
+El personal del Cuerpo de la Guardia Civil que haya superado el curso teórico y práctico impartido por el Servicio Marítimo de dicho Instituto con el programa aprobado por la Dirección General de la Marina Mercante, estará autorizado para el gobierno de motos náuticas sin necesidad de disponer de los títulos náuticodeportivos establecidos en el apartado 2 del artículo 5.
+
+## Disposición transitoria única. Validez de los títulos náutico-deportivos de patrón de moto náutica “A”, “B” y “C”.
+
+Los títulos náutico-deportivos de patrón de moto náutica “A”, “B” y “C” emitidos antes del 1 de julio de 2019 conservarán su validez, pudiendo ser renovados.
+
+> Se modifica por la disposición final 1.6 del Real Decreto 339/2021, de 18 de mayo. [Ref. BOE-A-2021-8268](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8268)
+
+> Se añade por el art. 1.8 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta disposición entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden de 22 de julio de 1999, por la que se establecen las medidas de seguridad para el manejo de motos náuticas y, en general, cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
+
+## Disposición final única. Habilitación normativa.
+
+Se autoriza al Ministro de Fomento para dictar, en el ámbito de sus competencias, las disposiciones necesarias para la aplicación de este real decreto, y en especial para la regulación del curso de monitor de motonáutica.
+
+> Se modifica por el art. 1.9 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta modificación entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto.
+
+Dado en Madrid a 8 de marzo de 2002.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO I — Examen teórico del título de Patrón de Moto Náutica «A»
+
+**(Suprimido).**
+
+> Se suprime por el art. 1.10 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta supresión entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).
+
+## ANEXO II — Examen teórico Patrón de Moto Náutica «B»
+
+**(Suprimido).**
+
+> Se suprime por el art. 1.10 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta supresión entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto
+
+> Redactado el apartado 6.h) conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).
+
+## ANEXO III — Pruebas prácticas
+
+**(Suprimido).**
+
+> Se suprime por el art. 1.11 del Real Decreto 238/2019, de 5 de abril. [Ref. BOE-A-2019-6481](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6481)
+
+> Esta supresión entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. [Ref. BOE-A-2002-6787](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-6787).

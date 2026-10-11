@@ -3032,50 +3032,6 @@ Las medidas que se adopten serán realizadas por los sujetos incluidos en las le
 
 **(Derogado)**
 
-> Téngase en cuenta que este artículo se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.h) del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), según establece su disposición final 13.
-
-> Redacción anterior:
-
-> "1. Las empresas, incluidos los trabajadores autónomos, que contraten de forma indefinida, incluida la modalidad fija discontinua, a una persona beneficiaria del Sistema Nacional de Garantía Juvenil disfrutarán de una bonificación mensual en la aportación empresarial a la cotización a la Seguridad Social por un importe de 300 euros.
-
-> La duración de la bonificación será de seis meses, estando obligada la empresa o el trabajador autónomo a mantener al trabajador al menos seis meses desde el inicio de la relación laboral. No se entenderá incumplida dicha obligación cuando el contrato de trabajo se extinga por causas objetivas o por despido disciplinario que no sean declarados improcedentes, ni debido a extinciones causadas por dimisión, muerte, o incapacidad permanente total, absoluta o gran invalidez de los trabajadores.
-
-> Asimismo, las empresas o trabajadores autónomos, estarán obligados a incrementar con la nueva contratación tanto el nivel de empleo indefinido como el nivel de empleo total, y mantener el nuevo nivel alcanzado con la contratación durante todo el periodo de disfrute de la bonificación. Para calcular dicho incremento, se tomará como referencia el promedio diario de trabajadores que hayan prestado servicios en los treinta días naturales anteriores a la celebración del contrato.
-
-> Esta medida será compatible con todo tipo de incentivos siempre que el importe mensual a cotizar por la empresa o el trabajador autónomo no sea negativo. Si la aportación empresarial a la cotización a la Seguridad Social del trabajador que da derecho a la bonificación fuera inferior al importe de ésta, el exceso podrá descontarse de la aportación empresarial final que resulte en la liquidación mensual en la que figure incluido el citado trabajador, siempre que la misma no resulte negativa.
-
-> 2\. El Ministerio de Empleo y Seguridad Social examinará el mantenimiento del nivel de empleo indefinido y el nivel de empleo total a los 6 meses de la celebración del contrato bonificado. Para ello, se utilizarán el promedio de trabajadores indefinidos y el promedio de trabajadores totales del mes en que proceda examinar el cumplimiento de este requisito.
-
-> A estos efectos, no se tendrán en cuenta las extinciones de contratos de trabajo por causas objetivas o por despidos disciplinarios que no hayan sido declarados improcedentes, ni las extinciones causadas por dimisión, muerte, o incapacidad permanente total, absoluta o gran invalidez de los trabajadores o por la expiración del tiempo convenido o realización de la obra o servicio objeto del contrato, o por resolución durante el periodo de prueba. En caso de incumplimiento de la obligación de mantenimiento de los niveles de empleo o de mantenimiento del trabajador contratado al menos seis meses, se deberá proceder al reintegro tanto de la bonificación como del posible excedente generado y aplicado.
-
-> 3\. En el supuesto de que la contratación sea a tiempo parcial, la jornada será como mínimo el 50 por ciento de la correspondiente a la de un trabajador a tiempo completo comparable, aplicándose la bonificación para este supuesto de la siguiente manera:
-
-> Cuando la jornada de trabajo sea, al menos, equivalente a un 75 por ciento de la correspondiente a un trabajador a tiempo completo comparable, 225 euros mensuales.
-
-> Cuando la jornada de trabajo sea, al menos, equivalente a un 50 por ciento de la correspondiente a un trabajador a tiempo completo comparable, 150 euros mensuales.
-
-> A estos efectos, se entenderá por trabajador a tiempo completo comparable lo establecido en el artículo 12.1 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
-
-> 4\. Lo dispuesto en los apartados anteriores será también de aplicación a los socios trabajadores o de trabajo de las cooperativas y sociedades laborales, así como a las empresas de inserción que contraten a trabajadores en situación de exclusión social incluidos en el artículo 2 de la Ley 44/2007, de 13 de diciembre, para la regulación del régimen de las empresas de inserción.
-
-> 5\. Las empresas, incluidos los trabajadores autónomos, sólo podrán aplicar una vez las bonificaciones previstas en este artículo por cada uno de los beneficiarios del Sistema Nacional de Garantía Juvenil que contraten, con independencia del periodo de bonificación disfrutado por la empresa por cada trabajador.
-
-> 6\. Las bonificaciones previstas para las contrataciones establecidas en este artículo se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal y dichos recursos serán objeto de cofinanciación por el Fondo Social Europeo.
-
-> 7\. La bonificación a la que refiere el presente artículo será de aplicación a todas aquellas contrataciones que se efectúen desde la entrada en vigor del Real Decreto-ley 8/2014, de 4 de julio, hasta el 30 de junio de 2016.
-
-> 8\. En lo no establecido en este artículo serán de aplicación las previsiones contenidas en la sección I del capítulo I de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, salvo lo establecido en sus artículos 2.7 y 6.2.
-
-> 9\. Además de las exclusiones contempladas con carácter general en la Sección I del capítulo I de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, no se aplicarán las bonificaciones en las cuotas a la Seguridad Social previstas en este artículo en los supuestos de contrataciones de trabajadores cuya actividad determine la inclusión en cualquiera de los sistemas especiales establecidos en el Régimen General de la Seguridad Social.
-
-> 10\. El requisito de estar al corriente en las obligaciones tributarias para poder acogerse a las bonificaciones reguladas en este artículo, se acreditará mediante la expedición del correspondiente certificado por vía telemática por el órgano competente para ello. El mencionado certificado tendrá una validez de seis meses y a todos los efectos se considerará cumplido este requisito cuando el certificado emitido en el momento del alta del trabajador sea positivo.
-
-> 11\. A los efectos de considerar cumplido el requisito de hallarse al corriente en las obligaciones tributarias por parte de las empresas beneficiarias de bonificaciones en cuotas a la Seguridad Social vigentes a la entrada en vigor de esta norma, se considerará que los certificados emitidos por vía telemática por el órgano competente para ello tendrán un plazo de validez de seis meses desde su emisión y con ellos quedará acreditado el cumplimiento de la citada obligación durante dicho plazo.
-
-> 12\. A efectos del control de las bonificaciones, la Tesorería General de la Seguridad Social facilitará mensualmente al Servicio Público de Empleo Estatal, el número de trabajadores objeto de esta bonificación de cuotas a la Seguridad Social con sus respectivas bases de cotización y las deducciones que se apliquen.
-
-> 13\. Con la misma periodicidad, la Dirección General del Servicio Público de Empleo Estatal, facilitará a la Dirección General de la Inspección de Trabajo y Seguridad Social la información necesaria sobre el número de contratos comunicados objeto de esta bonificación de cuotas, así como cuanta información relativa a las cotizaciones y deducciones aplicadas a los mismos sea precisa para controlar la adecuada aplicación de las bonificaciones previstas en este artículo."
-
 > Se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.h) del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
 ###### Artículo 108. Modificación de la Ley 11/2013, de 26 de julio, de medidas de apoyo al emprendedor y de estímulo del crecimiento y de la creación de empleo.
@@ -4237,371 +4193,371 @@ Fuentes:
 
 INGRESO DIRECTO
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">1. <strong>Militares de carrera</strong></p>
+<p>1. <strong>Militares de carrera</strong></p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Escalas de Oficiales</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ejército de Tierra</p>
+<p>Ejército de Tierra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo General (a)</p>
+<p>Cuerpo General (a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">182</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo de Intendencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6</p>
+<p>182</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo de Ingenieros Politécnicos</p>
+<p>Cuerpo de Intendencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Armada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo General (a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">40</p>
+<p>6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo de Infantería de Marina (a)</p>
+<p>Cuerpo de Ingenieros Politécnicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo de Intendencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Armada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo de Ingenieros</p>
+<p>Cuerpo General (a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ejército del Aire</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo General (b)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">49</p>
+<p>40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo de Intendencia</p>
+<p>Cuerpo de Infantería de Marina (a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo de Ingenieros</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4</p>
+<p>9</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpos comunes</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo Jurídico Militar</p>
+<p>Cuerpo de Intendencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo Militar de Intervención</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo Militar de Sanidad (c)</p>
+<p>Cuerpo de Ingenieros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo de Músicas Militares (n)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
+<p>4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total Escalas de Oficiales</p>
+<p>Ejército del Aire</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Cuerpo General (b)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">349</p>
+<p>49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cuerpo de Intendencia</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cuerpo de Ingenieros</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cuerpos comunes</p>
+</td>
+<td>
+<p>Cuerpo Jurídico Militar</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cuerpo Militar de Intervención</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cuerpo Militar de Sanidad (c)</p>
+</td>
+<td>
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Cuerpo de Músicas Militares (n)</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total Escalas de Oficiales</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>349</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Escalas Técnicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ejército de Tierra</p>
+<p>Ejército de Tierra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo de Ingenieros Politécnicos</p>
+<p>Cuerpo de Ingenieros Politécnicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ejército del Aire</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo de Ingenieros</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total Escalas Técnicas</p>
+<p>Ejército del Aire</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Cuerpo de Ingenieros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total Escalas Técnicas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Escala de Oficiales Enfermeros</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpos Comunes</p>
+<p>Cuerpos Comunes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo Militar de Sanidad</p>
+<p>Cuerpo Militar de Sanidad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total Escala de Oficiales Enfermeros</p>
+<p>Total Escala de Oficiales Enfermeros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12</p>
+<p>12</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Escalas de Suboficiales</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ejército de Tierra</p>
+<p>Ejército de Tierra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo General (s)</p>
+<p>Cuerpo General (s)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Armada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo General (s)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5</p>
+<p>14</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Armada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infantería de Marina (s)</p>
+<p>Cuerpo General (s)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ejército del Aire</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cuerpo General (s)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7</p>
+<p>5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpos Comunes</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpo de Músicas Militares (d)</p>
+<p>Infantería de Marina (s)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total Escalas de Suboficiales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total Militares de Carrera</p>
+<p>Ejército del Aire</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Cuerpo General (s)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">397</p>
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cuerpos Comunes</p>
+</td>
+<td>
+<p>Cuerpo de Músicas Militares (d)</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total Escalas de Suboficiales</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total Militares de Carrera</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>397</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">2. <strong>Militares de Complemento</strong></p>
+<p>2. <strong>Militares de Complemento</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuerpos Comunes</p>
+<p>Cuerpos Comunes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Escala de Oficiales Cuerpo Militar de Sanidad (e)</p>
+<p>Escala de Oficiales Cuerpo Militar de Sanidad (e)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total Militares de Complemento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
+<p>3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total ingreso directo</p>
+<p>Total Militares de Complemento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">400</p>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total ingreso directo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>400</p>
 </td>
 </tr>
 </tbody>
@@ -5037,11 +4993,11 @@ Donde:
 
 c) La retribución por amortización del elemento de inmovilizado «i», se obtendrá por aplicación de la siguiente fórmula:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>A=</em>
 <em>
 <sup>i</sup>
@@ -5049,7 +5005,7 @@ c) La retribución por amortización del elemento de inmovilizado «i», se obte
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>VI</em>
 <em>
 <sup>i</sup>
@@ -5059,7 +5015,7 @@ c) La retribución por amortización del elemento de inmovilizado «i», se obte
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>VU</em>
 <em>
 <sup>i</sup>

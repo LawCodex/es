@@ -83,269 +83,261 @@ La distribución de la línea de avales entre los operadores se llevará a cabo 
 
 Las condiciones aplicables y requisitos para cumplir son los siguientes:
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Definiciones y finalidad</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Definición de empresa beneficiaria.</td>
-<td class="cuerpo_tabla_izq">Se considerarán empresas beneficiarias aquellas empresas no financieras que tengan su domicilio social en España y que a la entrada en vigor del Real Decreto-ley 15/2020, de 21 de abril, de medidas urgentes complementarias para apoyar la economía y el empleo, contasen con programas de pagarés vigentes e incorporados al Mercado Alternativo de Renta Fija (MARF) y que no se encuentren en situación de empresa en crisis según lo establecido en el apartado 18 del artículo 2 del Reglamento (UE) 651/2014 de la Comisión de 17 de junio de 2014 por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado. En particular, las empresas que emiten los pagarés avalados no podrán estar sujetas a un procedimiento concursal a fecha de 17 de marzo de 2020, bien por haber presentado solicitud de declaración de concurso, o por darse las circunstancias a que se refiere el artículo 2.4 de la Ley 22/2003, de 9 de julio, Concursal, para que el concurso sea solicitado por sus acreedores.</td>
+<td>Definición de empresa beneficiaria.</td>
+<td>Se considerarán empresas beneficiarias aquellas empresas no financieras que tengan su domicilio social en España y que a la entrada en vigor del Real Decreto-ley 15/2020, de 21 de abril, de medidas urgentes complementarias para apoyar la economía y el empleo, contasen con programas de pagarés vigentes e incorporados al Mercado Alternativo de Renta Fija (MARF) y que no se encuentren en situación de empresa en crisis según lo establecido en el apartado 18 del artículo 2 del Reglamento (UE) 651/2014 de la Comisión de 17 de junio de 2014 por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado. En particular, las empresas que emiten los pagarés avalados no podrán estar sujetas a un procedimiento concursal a fecha de 17 de marzo de 2020, bien por haber presentado solicitud de declaración de concurso, o por darse las circunstancias a que se refiere el artículo 2.4 de la Ley 22/2003, de 9 de julio, Concursal, para que el concurso sea solicitado por sus acreedores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Finalidad.</td>
-<td class="cuerpo_tabla_izq">Fomentar el mantenimiento de las fuentes de liquidez proporcionadas por los mercados de capitales y no sólo a través de los canales bancarios tradicionales.</td>
+<td>Finalidad.</td>
+<td>Fomentar el mantenimiento de las fuentes de liquidez proporcionadas por los mercados de capitales y no sólo a través de los canales bancarios tradicionales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Importes del primer tramo</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe total del primer tramo de la línea de avales.</td>
-<td class="cuerpo_tabla_izq">Hasta 4.000 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital.</td>
+<td>Importe total del primer tramo de la línea de avales.</td>
+<td>Hasta 4.000 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Pagarés elegibles</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Características de los pagarés elegibles.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Pagarés emitidos en el Mercado Alternativo de Renta Fija MARF por empresas no financieras que tengan domicilio social en España siempre que:</p>
-<p class="cuerpo_tabla_izq">– Se emitan conforme a un programa de pagarés incorporado al Mercado Alternativo de Renta Fija (MARF) por empresas que tuvieran vigente un programa de pagarés en el MARF en la fecha de entrada en vigor del Real Decreto-ley 15/2020, de 21 de abril, de medidas urgentes complementarias para apoyar la economía y el empleo.</p>
-<p class="cuerpo_tabla_izq">– Se emitan tras la adopción de este Acuerdo y de la correspondiente firma del contrato de aval y no más tarde del 30 de septiembre de 2020.</p>
+<td>Características de los pagarés elegibles.</td>
+<td>
+<p>Pagarés emitidos en el Mercado Alternativo de Renta Fija MARF por empresas no financieras que tengan domicilio social en España siempre que:</p>
+<p>– Se emitan conforme a un programa de pagarés incorporado al Mercado Alternativo de Renta Fija (MARF) por empresas que tuvieran vigente un programa de pagarés en el MARF en la fecha de entrada en vigor del Real Decreto-ley 15/2020, de 21 de abril, de medidas urgentes complementarias para apoyar la economía y el empleo.</p>
+<p>– Se emitan tras la adopción de este Acuerdo y de la correspondiente firma del contrato de aval y no más tarde del 30 de septiembre de 2020.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe máximo del aval por empresa.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">El importe máximo del aval por empresa no podrá superar el importe del programa de pagarés incorporado al MARF vigente en la fecha de entrada en vigor del Real Decreto-ley 15/2020, de 21 de abril.</p>
+<td>Importe máximo del aval por empresa.</td>
+<td>
+<p>El importe máximo del aval por empresa no podrá superar el importe del programa de pagarés incorporado al MARF vigente en la fecha de entrada en vigor del Real Decreto-ley 15/2020, de 21 de abril.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Porcentajes máximos, remuneración, plazos de formalización y de vencimiento máximo del aval</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Porcentajes máximos de aval.</td>
-<td class="cuerpo_tabla_izq">– El importe de aval para cada una de las emisiones de pagarés de cada emisor será como máximo el 70% del importe de cada emisión.</td>
+<td>Porcentajes máximos de aval.</td>
+<td>– El importe de aval para cada una de las emisiones de pagarés de cada emisor será como máximo el 70% del importe de cada emisión.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remuneración del aval.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La remuneración de los avales será de:</p>
-<p class="cuerpo_tabla_izq">– 30 puntos básicos anuales sobre el importe avalado para pagarés con un vencimiento de hasta 12 meses.</p>
-<p class="cuerpo_tabla_izq">– 60 puntos básicos anuales sobre el importe avalado para pagarés con un vencimiento superior a 12 meses y hasta 24 meses.</p>
+<td>Remuneración del aval.</td>
+<td>
+<p>La remuneración de los avales será de:</p>
+<p>– 30 puntos básicos anuales sobre el importe avalado para pagarés con un vencimiento de hasta 12 meses.</p>
+<p>– 60 puntos básicos anuales sobre el importe avalado para pagarés con un vencimiento superior a 12 meses y hasta 24 meses.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plazo de solicitud de los avales y seguimiento.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los avales podrán solicitarse hasta el 30 de septiembre de 2020. El plazo podrá ampliarse, siempre en línea con la normativa de Ayudas de Estado de la UE, por Acuerdo de Consejo de Ministros.</p>
-<p class="cuerpo_tabla_izq">Los programas registrados en el MARF deberán recoger los avales que sean concedidos dentro de esta línea tras la firma del correspondiente contrato de aval.</p>
+<td>Plazo de solicitud de los avales y seguimiento.</td>
+<td>
+<p>Los avales podrán solicitarse hasta el 30 de septiembre de 2020. El plazo podrá ampliarse, siempre en línea con la normativa de Ayudas de Estado de la UE, por Acuerdo de Consejo de Ministros.</p>
+<p>Los programas registrados en el MARF deberán recoger los avales que sean concedidos dentro de esta línea tras la firma del correspondiente contrato de aval.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plazo de vencimiento máximo del aval.</td>
-<td class="cuerpo_tabla_izq">El plazo del aval emitido coincidirá con el plazo de vencimiento del pagaré avalado hasta un máximo de 24 meses.</td>
+<td>Plazo de vencimiento máximo del aval.</td>
+<td>El plazo del aval emitido coincidirá con el plazo de vencimiento del pagaré avalado hasta un máximo de 24 meses.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Derechos y obligaciones de las empresas emisoras</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Derechos y obligaciones de las empresas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Acreditar a través de las entidades colocadoras, ante Bolsas y Mercados Españoles Renta Fija S.A.U, en el ámbito de sus competencias como sociedad rectora del mercado MARF, y ante ICO el cumplimiento de los requisitos, condiciones y límites establecidos en este Acuerdo de Consejo de Ministros como empresa no financiera emisora de pagarés y el cumplimiento de las condiciones de y límites de cada emisión que pretenda acogerse al aval, conforme a la normativa aplicable en cada caso. Las empresas o las entidades colocadoras podrán recabar de Bolsas y Mercados Españoles, S.A.U. toda la información que consideren necesaria relativa a la efectiva incorporación a MARF de las emisiones avaladas de pagarés.</p>
-<p class="cuerpo_tabla_izq">– Asegurar en sus emisiones de pagarés avalados que, en todo caso y sin excepciones, la jurisdicción aplicable será la española.</p>
-<p class="cuerpo_tabla_izq">– Colaborar con el ICO y con Bolsas y Mercados Españoles Renta Fija S.A.U como sociedad rectora del mercado MARF para el buen fin de las operaciones.</p>
-<p class="cuerpo_tabla_izq">– Emplear la financiación obtenida para atender las necesidades de liquidez derivadas, entre otros, del pago de nóminas, la gestión de facturas a proveedores, necesidad de circulante y vencimientos de obligaciones financieras o tributarias u otras necesidades de liquidez. Por tanto, a modo de ejemplo, la financiación avalada por el Estado no puede ir en ningún caso destinada al pago de dividendos ni de dividendos a cuenta..</p>
-<p class="cuerpo_tabla_izq">– No tener su sede en paraísos fiscales.</p>
+<td>Derechos y obligaciones de las empresas.</td>
+<td>
+<p>– Acreditar a través de las entidades colocadoras, ante Bolsas y Mercados Españoles Renta Fija S.A.U, en el ámbito de sus competencias como sociedad rectora del mercado MARF, y ante ICO el cumplimiento de los requisitos, condiciones y límites establecidos en este Acuerdo de Consejo de Ministros como empresa no financiera emisora de pagarés y el cumplimiento de las condiciones de y límites de cada emisión que pretenda acogerse al aval, conforme a la normativa aplicable en cada caso. Las empresas o las entidades colocadoras podrán recabar de Bolsas y Mercados Españoles, S.A.U. toda la información que consideren necesaria relativa a la efectiva incorporación a MARF de las emisiones avaladas de pagarés.</p>
+<p>– Asegurar en sus emisiones de pagarés avalados que, en todo caso y sin excepciones, la jurisdicción aplicable será la española.</p>
+<p>– Colaborar con el ICO y con Bolsas y Mercados Españoles Renta Fija S.A.U como sociedad rectora del mercado MARF para el buen fin de las operaciones.</p>
+<p>– Emplear la financiación obtenida para atender las necesidades de liquidez derivadas, entre otros, del pago de nóminas, la gestión de facturas a proveedores, necesidad de circulante y vencimientos de obligaciones financieras o tributarias u otras necesidades de liquidez. Por tanto, a modo de ejemplo, la financiación avalada por el Estado no puede ir en ningún caso destinada al pago de dividendos ni de dividendos a cuenta..</p>
+<p>– No tener su sede en paraísos fiscales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Relaciones financieras entre las empresas emisoras y los tenedores de pagarés y el ICO</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relaciones de ICO con las empresas beneficiarias.</td>
-<td class="cuerpo_tabla_izq">El ICO y Bolsas y Mercados Españoles Renta Fija S.A.U. como Sociedad Rectora del mercado MARF firmarán un Contrato Marco con cada una de las empresas beneficiarias y las entidades colocadoras que participen en los programas de emisión de pagarés que pretendan contar con el aval en el que se establecerán las condiciones que regirán las relaciones entre las partes, la funciones de cada parte participante de acuerdo con lo establecido en este Acuerdo del Consejo de Ministros.</td>
+<td>Relaciones de ICO con las empresas beneficiarias.</td>
+<td>El ICO y Bolsas y Mercados Españoles Renta Fija S.A.U. como Sociedad Rectora del mercado MARF firmarán un Contrato Marco con cada una de las empresas beneficiarias y las entidades colocadoras que participen en los programas de emisión de pagarés que pretendan contar con el aval en el que se establecerán las condiciones que regirán las relaciones entre las partes, la funciones de cada parte participante de acuerdo con lo establecido en este Acuerdo del Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relaciones del ICO con los tenedores de los pagarés avalados.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">El ICO abonará, en su caso, a los tenedores de los pagarés los importes correspondientes a los avales ejecutados a través del sistema que se acuerde con Bolsas y Mercados Españoles Renta Fija S.A.U. como Sociedad Rectora de los mercados MARF, para lo que resultará necesaria identificación de los mismos</p>
-<p class="cuerpo_tabla_izq">La gestión administrativa del aval y las recuperaciones en caso de ejecución del mismo se llevará a cabo conforme al procedimiento que se establecerá por el ICO con todas las partes participantes en el Contrato Marco de avales.</p>
-<p class="cuerpo_tabla_izq">Si la emisión contase con la participación de ICO como inversor, el esquema previsto en este Acuerdo será aplicable a la participación de ICO en las mismas condiciones.</p>
+<td>Relaciones del ICO con los tenedores de los pagarés avalados.</td>
+<td>
+<p>El ICO abonará, en su caso, a los tenedores de los pagarés los importes correspondientes a los avales ejecutados a través del sistema que se acuerde con Bolsas y Mercados Españoles Renta Fija S.A.U. como Sociedad Rectora de los mercados MARF, para lo que resultará necesaria identificación de los mismos</p>
+<p>La gestión administrativa del aval y las recuperaciones en caso de ejecución del mismo se llevará a cabo conforme al procedimiento que se establecerá por el ICO con todas las partes participantes en el Contrato Marco de avales.</p>
+<p>Si la emisión contase con la participación de ICO como inversor, el esquema previsto en este Acuerdo será aplicable a la participación de ICO en las mismas condiciones.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comisiones ICO de gestión y administración.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Comisión de gestión y administración: 0,05% flat, calculada sobre volumen de cartera avalada.</p>
+<td>Comisiones ICO de gestión y administración.</td>
+<td>
+<p>Comisión de gestión y administración: 0,05% flat, calculada sobre volumen de cartera avalada.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abono de remuneración de aval.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Las empresas abonarán al ICO a través del sistema que se acuerde con Bolsa y Mercados Españoles Renta Fija S.A. como sociedad rectora de los mercados MARF los importes derivados de la remuneración del aval. El ICO a su vez transferirá estos importes, al igual que las recuperaciones de importes relativos a las emisiones de pagarés avaladas, al Fondo de Provisión aprobado por Real Decreto ley 12/1995.</p>
-<p class="cuerpo_tabla_izq">El ICO cargará en el Fondo de Provisión los importes correspondientes a la comisión de gestión y administración en el ejercicio en que se devenguen las mismas.</p>
-<p class="cuerpo_tabla_izq">Si con posterioridad a 2023, tras el abono por el Ministerio de la última certificación enviada por ICO, se produjeran recuperaciones, el ICO ingresará en el Tesoro, en el mes de enero del ejercicio siguiente los importes que haya recibido de las empresas en el año inmediatamente anterior correspondientes a operaciones impagadas para las que el Ministerio haya abonado previamente el aval.</p>
+<td>Abono de remuneración de aval.</td>
+<td>
+<p>Las empresas abonarán al ICO a través del sistema que se acuerde con Bolsa y Mercados Españoles Renta Fija S.A. como sociedad rectora de los mercados MARF los importes derivados de la remuneración del aval. El ICO a su vez transferirá estos importes, al igual que las recuperaciones de importes relativos a las emisiones de pagarés avaladas, al Fondo de Provisión aprobado por Real Decreto ley 12/1995.</p>
+<p>El ICO cargará en el Fondo de Provisión los importes correspondientes a la comisión de gestión y administración en el ejercicio en que se devenguen las mismas.</p>
+<p>Si con posterioridad a 2023, tras el abono por el Ministerio de la última certificación enviada por ICO, se produjeran recuperaciones, el ICO ingresará en el Tesoro, en el mes de enero del ejercicio siguiente los importes que haya recibido de las empresas en el año inmediatamente anterior correspondientes a operaciones impagadas para las que el Ministerio haya abonado previamente el aval.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reposición del Fondo de Provisión Real Decreto-ley 12/1995.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente o siempre que sea necesario para mantener el saldo positivo, los importes que hayan sido cargados al Fondo de Provisión 12/1995 en ejecución de los avales y los gastos y costes de gestión y administración del aval. El procedimiento de reposición será similar a lo previsto en otros Convenios recientes con las adaptaciones a lo previsto en este Capítulo de este real decreto-Ley y las referencias se entenderán hechas al Ministerio de referencia del aval.</p>
-<p class="cuerpo_tabla_izq">En el primer trimestre de cada uno de los ejercicios 2021 al 2027, se podrán revisar los importes comprometidos para «reposición garantía ICO» y «coste de administración», previa certificación por el ICO del saldo vivo a 1 de enero de cada ejercicio de las operaciones avaladas.</p>
+<td>Reposición del Fondo de Provisión Real Decreto-ley 12/1995.</td>
+<td>
+<p>El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente o siempre que sea necesario para mantener el saldo positivo, los importes que hayan sido cargados al Fondo de Provisión 12/1995 en ejecución de los avales y los gastos y costes de gestión y administración del aval. El procedimiento de reposición será similar a lo previsto en otros Convenios recientes con las adaptaciones a lo previsto en este Capítulo de este real decreto-Ley y las referencias se entenderán hechas al Ministerio de referencia del aval.</p>
+<p>En el primer trimestre de cada uno de los ejercicios 2021 al 2027, se podrán revisar los importes comprometidos para «reposición garantía ICO» y «coste de administración», previa certificación por el ICO del saldo vivo a 1 de enero de cada ejercicio de las operaciones avaladas.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Otros trámites, seguimiento de la línea y habilitaciones</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguimiento de la línea.</td>
-<td class="cuerpo_tabla_izq">El ICO con la colaboración de Bolsas y Mercados Españoles Renta Fija S.A.U. como sociedad rectora del mercado MARF informará mensualmente al Ministerio de Asuntos Económicos y Transformación Digital de la utilización y seguimiento de la línea de avales.</td>
+<td>Seguimiento de la línea.</td>
+<td>El ICO con la colaboración de Bolsas y Mercados Españoles Renta Fija S.A.U. como sociedad rectora del mercado MARF informará mensualmente al Ministerio de Asuntos Económicos y Transformación Digital de la utilización y seguimiento de la línea de avales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros trámites.</td>
-<td class="cuerpo_tabla_izq">No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
+<td>Otros trámites.</td>
+<td>No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ayudas de Estado</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas de Estado.</td>
-<td class="cuerpo_tabla_izq">La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.</td>
+<td>Ayudas de Estado.</td>
+<td>La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.</td>
 </tr>
 </tbody>
 </table>
 
 ## ANEXO III — Avales a CERSA
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Definiciones y finalidad</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Finalidad.</p>
+<p>Finalidad.</p>
 </td>
-<td class="cuerpo_tabla_izq">Para facilitar el mantenimiento del empleo y paliar los efectos económicos del COVID-19, la línea de avales tiene por objetivo apoyar la labor realizada por la Compañía Española de Reafianzamiento, SME Sociedad Anónima (CERSA), consistente en el reafianzamiento o cobertura parcial del riesgo asumido por las Sociedades de Garantía Recíproca para las pequeñas y medianas empresas, favoreciendo así la concesión de crédito que permita a éstas atender las necesidades de financiación derivadas, entre otros, de pagos de salarios, facturas, necesidad de circulante u otras necesidades de liquidez.</td>
+<td>Para facilitar el mantenimiento del empleo y paliar los efectos económicos del COVID-19, la línea de avales tiene por objetivo apoyar la labor realizada por la Compañía Española de Reafianzamiento, SME Sociedad Anónima (CERSA), consistente en el reafianzamiento o cobertura parcial del riesgo asumido por las Sociedades de Garantía Recíproca para las pequeñas y medianas empresas, favoreciendo así la concesión de crédito que permita a éstas atender las necesidades de financiación derivadas, entre otros, de pagos de salarios, facturas, necesidad de circulante u otras necesidades de liquidez.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Importes del primer tramo</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe total del primer tramo de la línea de avales.</td>
-<td class="cuerpo_tabla_izq">Hasta 500 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital en forma de reaval a las operaciones de CERSA.</td>
+<td>Importe total del primer tramo de la línea de avales.</td>
+<td>Hasta 500 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital en forma de reaval a las operaciones de CERSA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Porcentajes máximos, remuneración, plazos de formalización y de vencimiento máximo del aval</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Porcentajes máximos de aval.</td>
-<td class="cuerpo_tabla_izq">El porcentaje de reaval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital será de 80 puntos porcentuales. El porcentaje variará en cada operación para complementar el reaval aportado a CERSA por el Fondo Europeo de Inversiones con cargo a distintos programas de la Unión Europea y sin exceder conjuntamente 90 puntos porcentuales. Así, en el caso de reavales concedidos por CERSA que cuenten con un aval del 80% por parte del Fondo Europeo de Inversiones, el porcentaje de aval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital se elevará hasta 10 puntos porcentuales. Para aquellos reavales concedidos por CERSA y que no se beneficien de un aval por parte del Fondo Europeo de Inversiones, el porcentaje de aval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital será de 80 puntos porcentuales.</td>
+<td>Porcentajes máximos de aval.</td>
+<td>El porcentaje de reaval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital será de 80 puntos porcentuales. El porcentaje variará en cada operación para complementar el reaval aportado a CERSA por el Fondo Europeo de Inversiones con cargo a distintos programas de la Unión Europea y sin exceder conjuntamente 90 puntos porcentuales. Así, en el caso de reavales concedidos por CERSA que cuenten con un aval del 80% por parte del Fondo Europeo de Inversiones, el porcentaje de aval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital se elevará hasta 10 puntos porcentuales. Para aquellos reavales concedidos por CERSA y que no se beneficien de un aval por parte del Fondo Europeo de Inversiones, el porcentaje de aval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital será de 80 puntos porcentuales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plazo de solicitud de los avales.</td>
-<td class="cuerpo_tabla_izq">Los avales podrán solicitarse para todas las operaciones formalizadas por CERSA desde el 1 de abril de 2020 y hasta el 30 de septiembre de 2020. El plazo podrá ampliarse, siempre en línea con la normativa de Ayudas de Estado de la UE, por Acuerdo de Consejo de Ministros.</td>
+<td>Plazo de solicitud de los avales.</td>
+<td>Los avales podrán solicitarse para todas las operaciones formalizadas por CERSA desde el 1 de abril de 2020 y hasta el 30 de septiembre de 2020. El plazo podrá ampliarse, siempre en línea con la normativa de Ayudas de Estado de la UE, por Acuerdo de Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plazo de vencimiento máximo del aval.</td>
-<td class="cuerpo_tabla_izq">El plazo del aval emitido coincidirá con el plazo del reaval aprobado por CERSA hasta un máximo de 5 años.</td>
+<td>Plazo de vencimiento máximo del aval.</td>
+<td>El plazo del aval emitido coincidirá con el plazo del reaval aprobado por CERSA hasta un máximo de 5 años.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Relaciones financieras entre CERSA y el Ministerio de Asuntos Económicos y Transformación Digital</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Relaciones con CERSA.</td>
-<td class="cuerpo_tabla_izq">La gestión administrativa del aval entre el Ministerio de Asuntos Económicos y Transformación Digital y CERSA, y las recuperaciones en caso de ejecución de la misma, se llevarán a cabo por parte de CERSA conforme al procedimiento que se establecerá en el contrato marco entre el Ministerio de Asuntos Económicos y Transformación Digital y CERSA.</td>
+<td>Relaciones con CERSA.</td>
+<td>La gestión administrativa del aval entre el Ministerio de Asuntos Económicos y Transformación Digital y CERSA, y las recuperaciones en caso de ejecución de la misma, se llevarán a cabo por parte de CERSA conforme al procedimiento que se establecerá en el contrato marco entre el Ministerio de Asuntos Económicos y Transformación Digital y CERSA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reposición del Fondo de Provisiones Técnicas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente los importes que hayan sido cargados al Fondo de Provisiones Técnicas de CERSA (regulado en la Ley 1/1994 y el Real Decreto 1644/1997, de 31 de octubre de 1997, relativo a las normas de autorización administrativa a requisitos de solvencia de las sociedades de reafianzamiento) en ejecución de los avales netos de las recuperaciones correspondientes a las operaciones incluidas en la línea de avales por la parte reavalada por el Ministerio de Asuntos Económicos y Transformación Digital.</p>
-<p class="cuerpo_tabla_izq">En el primer trimestre de cada uno de los ejercicios 2021 al 2035, se revisarán los importes a aportar previa certificación por CERSA del saldo resultante a 31 de diciembre del ejercicio anterior.</p>
+<td>Reposición del Fondo de Provisiones Técnicas.</td>
+<td>
+<p>El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente los importes que hayan sido cargados al Fondo de Provisiones Técnicas de CERSA (regulado en la Ley 1/1994 y el Real Decreto 1644/1997, de 31 de octubre de 1997, relativo a las normas de autorización administrativa a requisitos de solvencia de las sociedades de reafianzamiento) en ejecución de los avales netos de las recuperaciones correspondientes a las operaciones incluidas en la línea de avales por la parte reavalada por el Ministerio de Asuntos Económicos y Transformación Digital.</p>
+<p>En el primer trimestre de cada uno de los ejercicios 2021 al 2035, se revisarán los importes a aportar previa certificación por CERSA del saldo resultante a 31 de diciembre del ejercicio anterior.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Otros trámites</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguimiento de la línea.</td>
-<td class="cuerpo_tabla_izq">CERSA informará con carácter mensual al Ministerio de Asuntos Económicos y Transformación Digital de la utilización de la línea de avales en cuanto a nuevas operaciones incluidas en la misma y trimestralmente de la evolución del riesgo y las ejecuciones de avales.</td>
+<td>Seguimiento de la línea.</td>
+<td>CERSA informará con carácter mensual al Ministerio de Asuntos Económicos y Transformación Digital de la utilización de la línea de avales en cuanto a nuevas operaciones incluidas en la misma y trimestralmente de la evolución del riesgo y las ejecuciones de avales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros trámites.</td>
-<td class="cuerpo_tabla_izq">No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
+<td>Otros trámites.</td>
+<td>No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ayudas de Estado</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayudas de Estado.</td>
-<td class="cuerpo_tabla_izq">La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.</td>
+<td>Ayudas de Estado.</td>
+<td>La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.</td>
 </tr>
 </tbody>
 </table>
@@ -362,140 +354,132 @@ Ministerio de Asuntos Económicos y Transformación digital: Techo Máximo de ga
 
 (Millones de euros)
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo I</p>
-<p class="cabeza_tabla">ACM 24.03.2020</p>
+<th> </th>
+<th>
+<p>Tramo I</p>
+<p>ACM 24.03.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo II</p>
-<p class="cabeza_tabla">ACM 10.04.2020</p>
+<th>
+<p>Tramo II</p>
+<p>ACM 10.04.2020</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo III</p>
-<p class="cabeza_tabla">ACM</p>
+<th>
+<p>Tramo III</p>
+<p>ACM</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tramo MARF</p>
-<p class="cabeza_tabla">ACM</p>
+<th>
+<p>Tramo MARF</p>
+<p>ACM</p>
 </th>
-<th class="cabeza_tabla">Total</th>
+<th>Total</th>
 </tr>
 </thead>
-<colgroup>
-<col width="20%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-<col width="16%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Importe avales</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">20.000</td>
-<td class="cuerpo_tabla_centro">4.000</td>
-<td class="cuerpo_tabla_centro">64.000</td>
+<td>Importe avales</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>20.000</td>
+<td>4.000</td>
+<td>64.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Años</em>
 </p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="4">
-<p class="cuerpo_tabla_centro">
+<td colspan="4">
+<p>
 <em>Otros gastos financieros 27.03.931M. 359</em>
 </p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2020</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2020</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2021</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2021</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2022</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">6.4</td>
+<td>2022</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0.4</td>
+<td>6.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2023</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">6.4</td>
+<td>2023</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0.4</td>
+<td>6.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2024</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">6.4</td>
+<td>2024</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0.4</td>
+<td>6.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2025</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">6.4</td>
+<td>2025</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0.4</td>
+<td>6.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2026</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">0.4</td>
-<td class="cuerpo_tabla_centro">6.4</td>
+<td>2026</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>0.4</td>
+<td>6.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2026</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2026</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">0</td>
+<td>2028</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_izq">Total</p>
+<td>
+<p>Total</p>
 </td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">32</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>2</td>
+<td>32</td>
 </tr>
 </tbody>
 </table>

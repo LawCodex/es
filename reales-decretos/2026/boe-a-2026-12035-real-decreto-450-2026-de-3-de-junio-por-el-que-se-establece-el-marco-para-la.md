@@ -545,319 +545,312 @@ Entre las especificaciones y normas para vincular los vehículos a la infraestru
 
 ## ANEXO II — Lista de tipos de datos
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de datos</th>
-<th class="cabeza_tabla">Ámbito geográfico</th>
-<th class="cabeza_tabla">Fecha límite para datos ya disponibles<sup>1</sup></th>
-<th class="cabeza_tabla">Fecha límite para otros datos<sup>2</sup></th>
-<th class="cabeza_tabla">Punto Acceso Nacional (NAP)</th>
+<th>Tipo de datos</th>
+<th>Ámbito geográfico</th>
+<th>Fecha límite para datos ya disponibles<sup>1</sup></th>
+<th>Fecha límite para otros datos<sup>2</sup></th>
+<th>Punto Acceso Nacional (NAP)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">1. Datos relativos a la prestación de servicios de información sobre el tráfico por carretera y de navegación en el conjunto de la Unión Europea (a que se refiere el anexo I, ámbito prioritario I, puntos 1.2 y 1.3):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="4">1. Datos relativos a la prestación de servicios de información sobre el tráfico por carretera y de navegación en el conjunto de la Unión Europea (a que se refiere el anexo I, ámbito prioritario I, puntos 1.2 y 1.3):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">1.1 Categoría: Reglamentos de tráfico estáticos y dinámicos, en su caso, relativos a:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="4">1.1 Categoría: Reglamentos de tráfico estáticos y dinámicos, en su caso, relativos a:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">– Condiciones de acceso a los túneles.</p>
-<p class="cuerpo_tabla_izq">– Condiciones de acceso a los puentes.</p>
-<p class="cuerpo_tabla_izq">– Límites de velocidad.</p>
-<p class="cuerpo_tabla_izq">– Prohibiciones de adelantamiento para vehículos pesados de mercancías.</p>
-<p class="cuerpo_tabla_izq">– Restricciones de peso/longitud/anchura/altura.</p>
+<td rowspan="2">
+<p>– Condiciones de acceso a los túneles.</p>
+<p>– Condiciones de acceso a los puentes.</p>
+<p>– Límites de velocidad.</p>
+<p>– Prohibiciones de adelantamiento para vehículos pesados de mercancías.</p>
+<p>– Restricciones de peso/longitud/anchura/altura.</p>
 </td>
-<td class="cuerpo_tabla_izq">La red básica transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2025.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2027.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>La red básica transeuropea de carreteras.</td>
+<td>31 de diciembre de 2025.</td>
+<td>31 de diciembre de 2027.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La red global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 del Parlamento Europeo y del Consejo<sup>3</sup> y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2028.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>La red global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 del Parlamento Europeo y del Consejo<sup>3</sup> y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
+<td>31 de diciembre de 2026.</td>
+<td>31 de diciembre de 2028.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Calles de sentido único.</td>
-<td class="cuerpo_tabla_izq">Infraestructura viaria en las ciudades en el centro de cada nodo urbano, tal como se define en el artículo 3, letra p), del Reglamento (UE) 1315/2013.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2025.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2027.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Calles de sentido único.</td>
+<td>Infraestructura viaria en las ciudades en el centro de cada nodo urbano, tal como se define en el artículo 3, letra p), del Reglamento (UE) 1315/2013.</td>
+<td>31 de diciembre de 2025.</td>
+<td>31 de diciembre de 2027.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Normativa sobre carga y descarga de mercancías.</td>
-<td class="cuerpo_tabla_izq">Infraestructura viaria en las ciudades en el centro de cada nodo urbano, tal como se define en el artículo 3, letra p), del Reglamento (UE) 1315/2013.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Normativa sobre carga y descarga de mercancías.</td>
+<td>Infraestructura viaria en las ciudades en el centro de cada nodo urbano, tal como se define en el artículo 3, letra p), del Reglamento (UE) 1315/2013.</td>
+<td>31 de diciembre de 2026.</td>
+<td>A fijar.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Sentido de circulación en los carriles reversibles.</td>
-<td class="cuerpo_tabla_izq">La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Sentido de circulación en los carriles reversibles.</td>
+<td>La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
+<td>31 de diciembre de 2026.</td>
+<td>A fijar.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Planes de circulación vial.</td>
-<td class="cuerpo_tabla_izq">La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2028.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Planes de circulación vial.</td>
+<td>La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
+<td>31 de diciembre de 2028.</td>
+<td>A fijar.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Restricciones de acceso permanentes.</td>
-<td class="cuerpo_tabla_izq">La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Restricciones de acceso permanentes.</td>
+<td>La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
+<td>31 de diciembre de 2026.</td>
+<td>A fijar.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Límites de las restricciones, prohibiciones u obligaciones con validez zonal, estado actual de acceso y condiciones de circulación en zonas de tráfico regulado.</td>
-<td class="cuerpo_tabla_izq">La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Límites de las restricciones, prohibiciones u obligaciones con validez zonal, estado actual de acceso y condiciones de circulación en zonas de tráfico regulado.</td>
+<td>La red básica y global transeuropea de carreteras, otras autopistas y tramos de carreteras principales, donde el tráfico diario medio anual total sea superior a 8.500 vehículos, y todas las vías públicas de las ciudades en el centro de cada nodo urbano, tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades. Se limita la cobertura en las ciudades del centro de los nodos urbanos a las calles en las que el tráfico diario medio anual sea superior a 7.000 vehículos.</td>
+<td>31 de diciembre de 2026.</td>
+<td>A fijar.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">1.2 Tipos de datos sobre el estado de la red:</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="4">1.2 Tipos de datos sobre el estado de la red:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">– Cierres de carreteras.</p>
-<p class="cuerpo_tabla_izq">– Cierres de carriles.</p>
-<p class="cuerpo_tabla_izq">– Obras en las vías.</p>
+<td rowspan="2">
+<p>– Cierres de carreteras.</p>
+<p>– Cierres de carriles.</p>
+<p>– Obras en las vías.</p>
 </td>
-<td class="cuerpo_tabla_izq">La red básica transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2025.</td>
-<td class="cuerpo_tabla_izq">Ver Nota 1.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>La red básica transeuropea de carreteras.</td>
+<td>31 de diciembre de 2025.</td>
+<td>Ver Nota 1.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="1">La red global transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">Ver Nota 1.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>La red global transeuropea de carreteras.</td>
+<td>31 de diciembre de 2026.</td>
+<td>Ver Nota 1.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Medidas temporales de gestión del tráfico.</td>
-<td class="cuerpo_tabla_izq">La red básica y global transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2028.</td>
-<td class="cuerpo_tabla_izq">Ver Nota 1.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>– Medidas temporales de gestión del tráfico.</td>
+<td>La red básica y global transeuropea de carreteras.</td>
+<td>31 de diciembre de 2028.</td>
+<td>Ver Nota 1.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">2. Datos relativos a los servicios de información y de reserva en relación con plazas de aparcamiento para los camiones y vehículos comerciales en zonas de estacionamiento seguras y protegidas (ZESP) (a que se refiere el anexo I, ámbito prioritario III, punto 3.2):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="4">2. Datos relativos a los servicios de información y de reserva en relación con plazas de aparcamiento para los camiones y vehículos comerciales en zonas de estacionamiento seguras y protegidas (ZESP) (a que se refiere el anexo I, ámbito prioritario III, punto 3.2):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Categoría: Datos estáticos.</td>
-<td class="cuerpo_tabla_izq" rowspan="1"> </td>
-<td class="cuerpo_tabla_izq" rowspan="1"> </td>
-<td class="cuerpo_tabla_izq" rowspan="1"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Categoría: Datos estáticos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">– Datos estáticos relativos a las zonas de estacionamiento.</p>
-<p class="cuerpo_tabla_izq">– Información sobre la seguridad y las instalaciones de la zona de estacionamiento.</p>
+<td rowspan="2">
+<p>– Datos estáticos relativos a las zonas de estacionamiento.</p>
+<p>– Información sobre la seguridad y las instalaciones de la zona de estacionamiento.</p>
 </td>
-<td class="cuerpo_tabla_izq">La red básica transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2025.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">NAP ZESP.</td>
+<td>La red básica transeuropea de carreteras.</td>
+<td>31 de diciembre de 2025.</td>
+<td>31 de diciembre de 2026.</td>
+<td>NAP ZESP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La red global transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2027.</td>
-<td class="cuerpo_tabla_izq">NAP ZESP.</td>
+<td>La red global transeuropea de carreteras.</td>
+<td>31 de diciembre de 2026.</td>
+<td>31 de diciembre de 2027.</td>
+<td>NAP ZESP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Categoría: Datos dinámicos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Categoría: Datos dinámicos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">– Datos dinámicos sobre la disponibilidad de plazas de aparcamiento, en particular si un aparcamiento está: completo, cerrado o el número de plazas libres disponibles.</td>
-<td class="cuerpo_tabla_izq">La red básica y global transeuropea de carreteras.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2027.</td>
-<td class="cuerpo_tabla_izq">Ver nota 1.</td>
-<td class="cuerpo_tabla_izq">NAP ZESP.</td>
+<td>– Datos dinámicos sobre la disponibilidad de plazas de aparcamiento, en particular si un aparcamiento está: completo, cerrado o el número de plazas libres disponibles.</td>
+<td>La red básica y global transeuropea de carreteras.</td>
+<td>31 de diciembre de 2027.</td>
+<td>Ver nota 1.</td>
+<td>NAP ZESP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">3. Datos sobre incidencias o condiciones detectadas relacionadas con la seguridad vial en relación con la información mínima universal sobre el tráfico en relación con la seguridad vial (a que se refiere el anexo I, ámbito prioritario III, punto 3.3):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="4">3. Datos sobre incidencias o condiciones detectadas relacionadas con la seguridad vial en relación con la información mínima universal sobre el tráfico en relación con la seguridad vial (a que se refiere el anexo I, ámbito prioritario III, punto 3.3):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Categoría: Datos dinámicos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Categoría: Datos dinámicos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Carretera temporalmente resbaladiza.</p>
-<p class="cuerpo_tabla_izq">– Presencia de animales, personas, obstáculos o escombros en la carretera.</p>
-<p class="cuerpo_tabla_izq">– Zona de accidentes no protegida.</p>
-<p class="cuerpo_tabla_izq">– Obras de corta duración en la carretera.</p>
-<p class="cuerpo_tabla_izq">– Vehículo en sentido contrario.</p>
-<p class="cuerpo_tabla_izq">– Obstrucción no gestionada de una carretera.</p>
+<td>
+<p>– Carretera temporalmente resbaladiza.</p>
+<p>– Presencia de animales, personas, obstáculos o escombros en la carretera.</p>
+<p>– Zona de accidentes no protegida.</p>
+<p>– Obras de corta duración en la carretera.</p>
+<p>– Vehículo en sentido contrario.</p>
+<p>– Obstrucción no gestionada de una carretera.</p>
 </td>
-<td class="cuerpo_tabla_izq">Red básica y global transeuropea de carreteras y otras autopistas no incluidas en dicha red.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2025.</td>
-<td class="cuerpo_tabla_izq">Ver nota 1.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>Red básica y global transeuropea de carreteras y otras autopistas no incluidas en dicha red.</td>
+<td>31 de diciembre de 2025.</td>
+<td>Ver nota 1.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Subcategoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Subcategoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Visibilidad reducida.</p>
-<p class="cuerpo_tabla_izq">– Condiciones meteorológicas excepcionales.</p>
+<td>
+<p>– Visibilidad reducida.</p>
+<p>– Condiciones meteorológicas excepcionales.</p>
 </td>
-<td class="cuerpo_tabla_izq">Red básica y global transeuropea de carreteras y otras autopistas no incluidas en dicha red.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">Ver nota 1.</td>
-<td class="cuerpo_tabla_izq">NAP Tráfico y Movilidad.</td>
+<td>Red básica y global transeuropea de carreteras y otras autopistas no incluidas en dicha red.</td>
+<td>31 de diciembre de 2026.</td>
+<td>Ver nota 1.</td>
+<td>NAP Tráfico y Movilidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="4">4. Datos estáticos sobre tráfico multimodal para los servicios de información sobre desplazamientos multimodales en el conjunto de la Unión Europea (a que se refiere el anexo I, ámbito prioritario I, puntos 1.1 y 1.3):</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="4">4. Datos estáticos sobre tráfico multimodal para los servicios de información sobre desplazamientos multimodales en el conjunto de la Unión Europea (a que se refiere el anexo I, ámbito prioritario I, puntos 1.1 y 1.3):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Categoría:</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Categoría:</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Localización de nodos de acceso identificados para todos los modos programados, incluida la información sobre la accesibilidad de los nodos de acceso y los recorridos en un intercambiador (tales como la existencia de ascensores, escaleras mecánicas).</td>
-<td class="cuerpo_tabla_izq">Nodos urbanos tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2026.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Transporte Multimodal.</td>
+<td rowspan="2">Localización de nodos de acceso identificados para todos los modos programados, incluida la información sobre la accesibilidad de los nodos de acceso y los recorridos en un intercambiador (tales como la existencia de ascensores, escaleras mecánicas).</td>
+<td>Nodos urbanos tal como se definen en el artículo 3, letra p), del Reglamento (UE) 1315/2013 y que figuran en dicho Reglamento, incluidos los administrados por las ciudades.</td>
+<td>31 de diciembre de 2026.</td>
+<td>A fijar.</td>
+<td>NAP Transporte Multimodal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Toda la red de transporte de la Unión Europea.</td>
-<td class="cuerpo_tabla_izq">31 de diciembre de 2028.</td>
-<td class="cuerpo_tabla_izq">A fijar.</td>
-<td class="cuerpo_tabla_izq">NAP Transporte Multimodal.</td>
+<td>Toda la red de transporte de la Unión Europea.</td>
+<td>31 de diciembre de 2028.</td>
+<td>A fijar.</td>
+<td>NAP Transporte Multimodal.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>1</sup> Datos correspondientes a la información subyacente, creada o actualizada antes de la fecha indicada en la columna.</p>
-<p class="cita"><sup>2</sup> Otros datos correspondientes a toda la información subyacente existente, creada o actualizada antes de la fecha indicada en la columna.</p>
-<p class="cita"><sup>3</sup> Reglamento (UE) n.º 1315/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre las orientaciones de la Unión Europea para el desarrollo de la Red Transeuropea de Transporte, y por el que se deroga la Decisión n.º 661/2010/UE (DO L 348 de 20.12.2013, p. 1).</p>
+<p><sup>1</sup> Datos correspondientes a la información subyacente, creada o actualizada antes de la fecha indicada en la columna.</p>
+<p><sup>2</sup> Otros datos correspondientes a toda la información subyacente existente, creada o actualizada antes de la fecha indicada en la columna.</p>
+<p><sup>3</sup> Reglamento (UE) n.º 1315/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre las orientaciones de la Unión Europea para el desarrollo de la Red Transeuropea de Transporte, y por el que se deroga la Decisión n.º 661/2010/UE (DO L 348 de 20.12.2013, p. 1).</p>
 </td>
 </tr>
 </tfoot>

@@ -133,66 +133,60 @@ Dos. En los estados de ingresos de los Entes referidos en el apartado anterior s
 
 (Miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Entes</th>
-<th class="cabeza_tabla" colspan="3">Capítulos económicos</th>
+<th rowspan="2">Entes</th>
+<th colspan="3">Capítulos económicos</th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Capítulos I a VII</p>
-<p class="cabeza_tabla">Ingresos no financieros</p>
+<p>Capítulos I a VII</p>
+<p>Ingresos no financieros</p>
 </th>
 <th>
-<p class="cabeza_tabla">Capítulo VIII</p>
-<p class="cabeza_tabla">Activos financieros</p>
+<p>Capítulo VIII</p>
+<p>Activos financieros</p>
 </th>
-<th class="cabeza_tabla">Total ingresos</th>
+<th>Total ingresos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Estado.</td>
-<td class="cuerpo_tabla_coma">12.972.272.800</td>
-<td class="cuerpo_tabla_coma">21.100.000</td>
-<td class="cuerpo_tabla_coma">12.993.372.800</td>
+<td>Estado.</td>
+<td>12.972.272.800</td>
+<td>21.100.000</td>
+<td>12.993.372.800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organismos autónomos administrativos.</td>
-<td class="cuerpo_tabla_coma">1.696.569.565</td>
-<td class="cuerpo_tabla_coma">53.971.414</td>
-<td class="cuerpo_tabla_coma">1.750.540.979</td>
+<td>Organismos autónomos administrativos.</td>
+<td>1.696.569.565</td>
+<td>53.971.414</td>
+<td>1.750.540.979</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organismos autónomos comerciales, industriales, financieros o análogos.</td>
-<td class="cuerpo_tabla_coma">945.890.215</td>
-<td class="cuerpo_tabla_coma">326.458</td>
-<td class="cuerpo_tabla_coma">946.216.673</td>
+<td>Organismos autónomos comerciales, industriales, financieros o análogos.</td>
+<td>945.890.215</td>
+<td>326.458</td>
+<td>946.216.673</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Social.</td>
-<td class="cuerpo_tabla_coma">6.749.054.866</td>
-<td class="cuerpo_tabla_coma">7.317.041</td>
-<td class="cuerpo_tabla_coma">6.756.371.907</td>
+<td>Seguridad Social.</td>
+<td>6.749.054.866</td>
+<td>7.317.041</td>
+<td>6.756.371.907</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entes del artículo uno.e) de la presente Ley.</td>
-<td class="cuerpo_tabla_coma">9.663.853</td>
-<td class="cuerpo_tabla_coma">786.586</td>
-<td class="cuerpo_tabla_coma">10.450.439</td>
+<td>Entes del artículo uno.e) de la presente Ley.</td>
+<td>9.663.853</td>
+<td>786.586</td>
+<td>10.450.439</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">22.373.451.299</td>
-<td class="cuerpo_tabla_coma">83.501.499</td>
-<td class="cuerpo_tabla_coma">22.456.952.798</td>
+<td>Total.</td>
+<td>22.373.451.299</td>
+<td>83.501.499</td>
+<td>22.456.952.798</td>
 </tr>
 </tbody>
 </table>
@@ -201,99 +195,90 @@ Tres. Para las transferencias internas entre los Entes referidos en el apartado 
 
 (Miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Transferencias según origen</th>
-<th class="cabeza_tabla" colspan="6">Transferencias según destino</th>
+<th rowspan="2">Transferencias según origen</th>
+<th colspan="6">Transferencias según destino</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Estado</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Organismos</p>
-<p class="cabeza_tabla">autónomos</p>
-<p class="cabeza_tabla">administrativos</p>
+<th>Estado</th>
+<th>
+<p>Organismos</p>
+<p>autónomos</p>
+<p>administrativos</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Organismos</p>
-<p class="cabeza_tabla">autónomos</p>
-<p class="cabeza_tabla">comerciales</p>
+<th>
+<p>Organismos</p>
+<p>autónomos</p>
+<p>comerciales</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Seguridad</p>
-<p class="cabeza_tabla">Social</p>
+<th>
+<p>Seguridad</p>
+<p>Social</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Entes</p>
-<p class="cabeza_tabla">del art. una.e)</p>
-<p class="cabeza_tabla">de la presente Ley</p>
+<th>
+<p>Entes</p>
+<p>del art. una.e)</p>
+<p>de la presente Ley</p>
 </th>
-<th class="cabeza_tabla">Total</th>
+<th>Total</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Estado.</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">897.824.510</td>
-<td class="cuerpo_tabla_coma">210.502.850</td>
-<td class="cuerpo_tabla_coma">2.335.810.271</td>
-<td class="cuerpo_tabla_coma">134 189.334</td>
-<td class="cuerpo_tabla_coma">3.578.326.965</td>
+<td>Estado.</td>
+<td>‒</td>
+<td>897.824.510</td>
+<td>210.502.850</td>
+<td>2.335.810.271</td>
+<td>134 189.334</td>
+<td>3.578.326.965</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organismos autónomos administrativos.</td>
-<td class="cuerpo_tabla_coma">11.928.600</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">56.718</td>
-<td class="cuerpo_tabla_coma">416.084</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">12.401.402</td>
+<td>Organismos autónomos administrativos.</td>
+<td>11.928.600</td>
+<td>‒</td>
+<td>56.718</td>
+<td>416.084</td>
+<td>‒</td>
+<td>12.401.402</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organismos autónomos comerciales, industriales, financieros o análogos.</td>
-<td class="cuerpo_tabla_coma">201.000.000</td>
-<td class="cuerpo_tabla_coma">10.186.000</td>
-<td class="cuerpo_tabla_coma">3,924.062</td>
-<td class="cuerpo_tabla_coma">30.030</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">215.140.092</td>
+<td>Organismos autónomos comerciales, industriales, financieros o análogos.</td>
+<td>201.000.000</td>
+<td>10.186.000</td>
+<td>3,924.062</td>
+<td>30.030</td>
+<td>‒</td>
+<td>215.140.092</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Social.</td>
-<td class="cuerpo_tabla_coma">135.206.259</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">212.338.000</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">347.544.259</td>
+<td>Seguridad Social.</td>
+<td>135.206.259</td>
+<td>‒</td>
+<td>‒</td>
+<td>212.338.000</td>
+<td>‒</td>
+<td>347.544.259</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entes del artículo uno.e) de la presente Ley.</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">202.520</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">202.520</td>
+<td>Entes del artículo uno.e) de la presente Ley.</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
+<td>202.520</td>
+<td>‒</td>
+<td>202.520</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">348.134.859</td>
-<td class="cuerpo_tabla_coma">908.010.510</td>
-<td class="cuerpo_tabla_coma">214.483.630</td>
-<td class="cuerpo_tabla_coma">2.548.796.905</td>
-<td class="cuerpo_tabla_coma">134.189.334</td>
-<td class="cuerpo_tabla_coma">4.153.615.238</td>
+<td>Total.</td>
+<td>348.134.859</td>
+<td>908.010.510</td>
+<td>214.483.630</td>
+<td>2.548.796.905</td>
+<td>134.189.334</td>
+<td>4.153.615.238</td>
 </tr>
 </tbody>
 </table>
@@ -1499,48 +1484,43 @@ En todo caso, serán revisables periódicamente, a instancia del interesado o de
 
 Tres. Durante 1993 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en los importes siguientes:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="2">Titulares</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="2">Titulares</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<th>
+<p>Con cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas año</p>
+<th>
+<p>Sin cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Jubilación o retiro.</td>
-<td class="cuerpo_tabla_centro">780.150</td>
-<td class="cuerpo_tabla_centro">663.040</td>
+<td>Jubilación o retiro.</td>
+<td>780.150</td>
+<td>663.040</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viudedad.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">663.040</td>
+<td>Viudedad.</td>
+<td>–</td>
+<td>663.040</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros familiares siendo N el número de beneficiarios de la pensión o pensiones.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">
-<img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PjY2My4wNDA8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0Pk48L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAlCAYAAAAQjPROAAAAAXNSR0IArs4c6QAAA1NJREFUaEPtmT2sDlEQhp9bajQUEpHo6LQSFCToKRSoaSUUIsRPREEiESRqFAqFRqJSIFFJNEIjErVOopVXzsi5Y2b37N5835W7u+XunNmZd975OeesMD8pAisN2JwEnhS5U8DTZE2rXMMv/w+RLnDM2S5A5EWf3JYC6NHi8kfgBPClB4LLwPWBa/Sv+8DVRP8gnRk4UnK8wYk+ORl7E7gE/CiO9q3ZBNwtsueAX8A+4C2wH3jXAWqme5TOCJw+JphtLXKHgQ8VMFrb56j0XggCI8e1Vt8N6BonfTuUBHWUTg+OpYClS2SEvrXK7QC+u0jLiQcJKy3COwMQLBgRe2TPMeBToHusTjw4ZsBtYDNwJsn5VjmfAWbom6Sw7wKeAe8BSynTYYy7AtyoFEvneeAhsDsAZ4zOP+o9OFaw6qJpLNlWRbtVrgbHjNS7rCCbzHMHgNZk3xSob6UWRawco/MfcCyqewPj66jdKQWzT66Orhw4UOrPo4JYlB4ZO2pwalbJcbHlRdEZgTNU59+A1szpyk1jjyJ0EbgFRHWhlvNpYT/tkhkSZdl7GnhcOpoVe1/PhuhcVQaitIpauHdIOd4ipzYcPWKSHPOdZwhwAv+lm2ci5gzR2QlO1hH8D9QZNDX71GhhjnVCpZlnVxd76xHgsxsss9FH9mmU0NwUMb1zrPDMySho79XFtH1olcuMVkH/mnSsUTNJR82xYAyenbqGwJoVcma7i3TEslpORilivnArWkopY40HetQ02wPOKJ3Z9sHoZpH3s4WfPTI5r0dyXpeBrC5Wp9mgfVAPOGbfIJ0tu/IsNTb8+xmcjhAbOK83PA2GOXhQ4jM4MWirwBmG60Sk55rTUHOWxQWbN+wo5FVyeFW3XNmWyS3U7vViTj3/+PnGHLatiI5F6x3+QgGpla8XOGLQNWAPcCQYDM3GaHM5CXC0s9ep3z1ANxPRLcekwdHR5tYCkljkd/mTB0eH+FaD/J3WDE4pIrYBrTvTDE5VYa2FWwc7G5z2TaYgq+bUd2P1HKSjjZ8zOKu5YIdfKtCt9+oLYdN6zjl2EZdd7epufJLg+DPpKPLZWfJCWBIpXTZz/N5KNmXbB32bZLdaWvTX8qNlM2ctti597QxOB+S/AWhUWjWGuZC1AAAAAElFTkSuQmCC">
+<td>Otros familiares siendo N el número de beneficiarios de la pensión o pensiones.</td>
+<td>–</td>
+<td>
+<img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PjY2My4wNDA8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0Pk48L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=" src="https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAlCAYAAAAQjPROAAAAAXNSR0IArs4c6QAAA1NJREFUaEPtmT2sDlEQhp9bajQUEpHo6LQSFCToKRSoaSUUIsRPREEiESRqFAqFRqJSIFFJNEIjErVOopVXzsi5Y2b37N5835W7u+XunNmZd975OeesMD8pAisN2JwEnhS5U8DTZE2rXMMv/w+RLnDM2S5A5EWf3JYC6NHi8kfgBPClB4LLwPWBa/Sv+8DVRP8gnRk4UnK8wYk+ORl7E7gE/CiO9q3ZBNwtsueAX8A+4C2wH3jXAWqme5TOCJw+JphtLXKHgQ8VMFrb56j0XggCI8e1Vt8N6BonfTuUBHWUTg+OpYClS2SEvrXK7QC+u0jLiQcJKy3COwMQLBgRe2TPMeBToHusTjw4ZsBtYDNwJsn5VjmfAWbom6Sw7wKeAe8BSynTYYy7AtyoFEvneeAhsDsAZ4zOP+o9OFaw6qJpLNlWRbtVrgbHjNS7rCCbzHMHgNZk3xSob6UWRawco/MfcCyqewPj66jdKQWzT66Orhw4UOrPo4JYlB4ZO2pwalbJcbHlRdEZgTNU59+A1szpyk1jjyJ0EbgFRHWhlvNpYT/tkhkSZdl7GnhcOpoVe1/PhuhcVQaitIpauHdIOd4ipzYcPWKSHPOdZwhwAv+lm2ci5gzR2QlO1hH8D9QZNDX71GhhjnVCpZlnVxd76xHgsxsss9FH9mmU0NwUMb1zrPDMySho79XFtH1olcuMVkH/mnSsUTNJR82xYAyenbqGwJoVcma7i3TEslpORilivnArWkopY40HetQ02wPOKJ3Z9sHoZpH3s4WfPTI5r0dyXpeBrC5Wp9mgfVAPOGbfIJ0tu/IsNTb8+xmcjhAbOK83PA2GOXhQ4jM4MWirwBmG60Sk55rTUHOWxQWbN+wo5FVyeFW3XNmWyS3U7vViTj3/+PnGHLatiI5F6x3+QgGpla8XOGLQNWAPcCQYDM3GaHM5CXC0s9ep3z1ANxPRLcekwdHR5tYCkljkd/mTB0eH+FaD/J3WDE4pIrYBrTvTDE5VYa2FWwc7G5z2TaYgq+bUd2P1HKSjjZ8zOKu5YIdfKtCt9+oLYdN6zjl2EZdd7epufJLg+DPpKPLZWfJCWBIpXTZz/N5KNmXbB32bZLdaWvTX8qNlM2ctti597QxOB+S/AWhUWjWGuZC1AAAAAElFTkSuQmCC">
 </td>
 </tr>
 </tbody>
@@ -1548,100 +1528,95 @@ Tres. Durante 1993 las cuantías mínimas de las pensiones de Clases Pasivas que
 
 Cuatro. Durante 1993 las cuantías mínimas de las pensiones de la Mutualidad Nacional de Previsión de la Administración Local quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en los importes siguientes:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="2">Titulares</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="2">Titulares</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<th>
+<p>Con cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<th>
+<p>Sin cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Jubilación.</td>
-<td class="cuerpo_tabla_centro">780.150</td>
-<td class="cuerpo_tabla_centro">663.040</td>
+<td>Jubilación.</td>
+<td>780.150</td>
+<td>663.040</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viudedad:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Viudedad:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayores de 65 años o menores con hijos a cargo sin derecho propio a pensión de orfandad.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">663.040</td>
+<td>Mayores de 65 años o menores con hijos a cargo sin derecho propio a pensión de orfandad.</td>
+<td>–</td>
+<td>663.040</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menores de 65 años sin hijos a cargo o con hijos con derecho propio a pensión de orfandad:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Menores de 65 años sin hijos a cargo o con hijos con derecho propio a pensión de orfandad:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entre 60-64 años.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">578.690</td>
+<td>Entre 60-64 años.</td>
+<td>–</td>
+<td>578.690</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menores de 60 años.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">441.420</td>
+<td>Menores de 60 años.</td>
+<td>–</td>
+<td>441.420</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A favor de otros familiares:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>A favor de otros familiares:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mayores de 65 años.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">505.190</td>
+<td>Mayores de 65 años.</td>
+<td>–</td>
+<td>505.190</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Menores de 65 años.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">441.420</td>
+<td>Menores de 65 años.</td>
+<td>–</td>
+<td>441.420</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Orfandad reconocida al amparo del texto refundido de Ley de Clases Pasivas:</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Orfandad reconocida al amparo del texto refundido de Ley de Clases Pasivas:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuando concurran con pensión de viudedad, por beneficiario.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">220.710</td>
+<td>Cuando concurran con pensión de viudedad, por beneficiario.</td>
+<td>–</td>
+<td>220.710</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">
-<img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PjQ0MS40MjA8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0Pk48L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAlCAYAAAAUeSRzAAAAAXNSR0IArs4c6QAAA0VJREFUaEPtmj+sD0EQxz+vlOhoJaKhQqVBQUGikVAoUAoRjYSS+FOSSASJiAqFgkQjodGQaDUSHRGlTqKVb+zIvH07u8f97p68u+ve3v5mdz77ndnZvbfE/KwgsDQyk03A15HH/OvhukDZANwBrgCfGiMcB7YA17N+an8MXC68q5ncmsY9B3x3HdcBt4DTrq1m+xJwLfX9AByr+dIFigwebRkC5MBT4Jlz3NpeAweyd60VNMc3A4JqUNR+FXjoHLNx3gPngZ/JuNnQn9a+G3gL7AHelSbRgiID+ztA0eBngF3Ax4IapLYnaRK5iiI4hwGNvz2DIgDbgBeBGr2zgnmxsKBaaNn2sP+Yq0GRI0eSk3cbSpEDXxKYbwuAYo6vB05mk9+ZFGJqMGdMASfSAkRKU38L56JaIigyeAG4l1alBkWTkcSfpzjvC0WLcRa4mRYlhxIpKw+LKKT0e+tbzEMRFJH8nOQuAxEU74AGU/LrC0Wx/zKpQfPoCiXvW8pxBrT2jhKUPGZrUE4lhSgJmlz7QNFYeiwBdoViOetRCp2WGmoqWgFFjmllZNxiNoKSO9AXiuWwBy4+ukJR4tTjk/jClOKl6xNYHj4a8FAKF+vXB4rPYb4e6QJFffZmW7HmZOpRGvDbtN51Dh8zcrBRQChjK7GqGKs9991kWluyTXJHxWCp6JJapZLS1lrbfaq1SqtOsdhsbcnq10cpEYuaUmpAzN7C65Ra+JSc+BcorWo5glIDYiWCisVBKtq+SolCUvWBaiBNXOEaldwlKFZ4Reoq1R4LP/s0Usfae90lp6w9rxseGZQ3k/O87PA+Nc9QlsNZBmUWiiMw55SCHMaEkl8hvgoqUb99aspRv8HUPSYUXwzqOlCPPwp4J1vHgsGA+EQ76CCZcbtj1TlH97bRhXPpcDrKPFdDKXYi1iX37VTR2hWid3qSUFTmb0xfAKSavNSfLBTdndgxPr8amDQUhYwd8vxOM3koAmNbse1I+o5kF9ijJFgbZDUTrXJK9ClUO9KPGcrvZfLXks1vvkPJ539SSl7cTQqKqeGG+0aTL3p0tzqUOJbZHVMppX+fiMp8TXJSu88oq91nkDGV0meeo/52hlLA/QtlHiI1rnt1qgAAAABJRU5ErkJggg==">
+<td>Máximo.</td>
+<td>–</td>
+<td>
+<img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PjQ0MS40MjA8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0Pk48L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=" src="https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAlCAYAAAAUeSRzAAAAAXNSR0IArs4c6QAAA0VJREFUaEPtmj+sD0EQxz+vlOhoJaKhQqVBQUGikVAoUAoRjYSS+FOSSASJiAqFgkQjodGQaDUSHRGlTqKVb+zIvH07u8f97p68u+ve3v5mdz77ndnZvbfE/KwgsDQyk03A15HH/OvhukDZANwBrgCfGiMcB7YA17N+an8MXC68q5ncmsY9B3x3HdcBt4DTrq1m+xJwLfX9AByr+dIFigwebRkC5MBT4Jlz3NpeAweyd60VNMc3A4JqUNR+FXjoHLNx3gPngZ/JuNnQn9a+G3gL7AHelSbRgiID+ztA0eBngF3Ax4IapLYnaRK5iiI4hwGNvz2DIgDbgBeBGr2zgnmxsKBaaNn2sP+Yq0GRI0eSk3cbSpEDXxKYbwuAYo6vB05mk9+ZFGJqMGdMASfSAkRKU38L56JaIigyeAG4l1alBkWTkcSfpzjvC0WLcRa4mRYlhxIpKw+LKKT0e+tbzEMRFJH8nOQuAxEU74AGU/LrC0Wx/zKpQfPoCiXvW8pxBrT2jhKUPGZrUE4lhSgJmlz7QNFYeiwBdoViOetRCp2WGmoqWgFFjmllZNxiNoKSO9AXiuWwBy4+ukJR4tTjk/jClOKl6xNYHj4a8FAKF+vXB4rPYb4e6QJFffZmW7HmZOpRGvDbtN51Dh8zcrBRQChjK7GqGKs9991kWluyTXJHxWCp6JJapZLS1lrbfaq1SqtOsdhsbcnq10cpEYuaUmpAzN7C65Ra+JSc+BcorWo5glIDYiWCisVBKtq+SolCUvWBaiBNXOEaldwlKFZ4Reoq1R4LP/s0Usfae90lp6w9rxseGZQ3k/O87PA+Nc9QlsNZBmUWiiMw55SCHMaEkl8hvgoqUb99aspRv8HUPSYUXwzqOlCPPwp4J1vHgsGA+EQ76CCZcbtj1TlH97bRhXPpcDrKPFdDKXYi1iX37VTR2hWid3qSUFTmb0xfAKSavNSfLBTdndgxPr8amDQUhYwd8vxOM3koAmNbse1I+o5kF9ijJFgbZDUTrXJK9ClUO9KPGcrvZfLXks1vvkPJ539SSl7cTQqKqeGG+0aTL3p0tzqUOJbZHVMppX+fiMp8TXJSu88oq91nkDGV0meeo/52hlLA/QtlHiI1rnt1qgAAAABJRU5ErkJggg==">
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuando no concurran con pensión de viudedad, siendo N el número de beneficiarios.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">
-<img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PjQ0MS40MjA8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0Pk48L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=" class="formula" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAlCAYAAAAUeSRzAAAAAXNSR0IArs4c6QAAA0VJREFUaEPtmj+sD0EQxz+vlOhoJaKhQqVBQUGikVAoUAoRjYSS+FOSSASJiAqFgkQjodGQaDUSHRGlTqKVb+zIvH07u8f97p68u+ve3v5mdz77ndnZvbfE/KwgsDQyk03A15HH/OvhukDZANwBrgCfGiMcB7YA17N+an8MXC68q5ncmsY9B3x3HdcBt4DTrq1m+xJwLfX9AByr+dIFigwebRkC5MBT4Jlz3NpeAweyd60VNMc3A4JqUNR+FXjoHLNx3gPngZ/JuNnQn9a+G3gL7AHelSbRgiID+ztA0eBngF3Ax4IapLYnaRK5iiI4hwGNvz2DIgDbgBeBGr2zgnmxsKBaaNn2sP+Yq0GRI0eSk3cbSpEDXxKYbwuAYo6vB05mk9+ZFGJqMGdMASfSAkRKU38L56JaIigyeAG4l1alBkWTkcSfpzjvC0WLcRa4mRYlhxIpKw+LKKT0e+tbzEMRFJH8nOQuAxEU74AGU/LrC0Wx/zKpQfPoCiXvW8pxBrT2jhKUPGZrUE4lhSgJmlz7QNFYeiwBdoViOetRCp2WGmoqWgFFjmllZNxiNoKSO9AXiuWwBy4+ukJR4tTjk/jClOKl6xNYHj4a8FAKF+vXB4rPYb4e6QJFffZmW7HmZOpRGvDbtN51Dh8zcrBRQChjK7GqGKs9991kWluyTXJHxWCp6JJapZLS1lrbfaq1SqtOsdhsbcnq10cpEYuaUmpAzN7C65Ra+JSc+BcorWo5glIDYiWCisVBKtq+SolCUvWBaiBNXOEaldwlKFZ4Reoq1R4LP/s0Usfae90lp6w9rxseGZQ3k/O87PA+Nc9QlsNZBmUWiiMw55SCHMaEkl8hvgoqUb99aspRv8HUPSYUXwzqOlCPPwp4J1vHgsGA+EQ76CCZcbtj1TlH97bRhXPpcDrKPFdDKXYi1iX37VTR2hWid3qSUFTmb0xfAKSavNSfLBTdndgxPr8amDQUhYwd8vxOM3koAmNbse1I+o5kF9ijJFgbZDUTrXJK9ClUO9KPGcrvZfLXks1vvkPJ539SSl7cTQqKqeGG+0aTL3p0tzqUOJbZHVMppX+fiMp8TXJSu88oq91nkDGV0meeo/52hlLA/QtlHiI1rnt1qgAAAABJRU5ErkJggg==">
+<td>Cuando no concurran con pensión de viudedad, siendo N el número de beneficiarios.</td>
+<td>–</td>
+<td>
+<img alt="MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0PjQ0MS40MjA8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG10ZXh0Pk48L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=" src="https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAlCAYAAAAUeSRzAAAAAXNSR0IArs4c6QAAA0VJREFUaEPtmj+sD0EQxz+vlOhoJaKhQqVBQUGikVAoUAoRjYSS+FOSSASJiAqFgkQjodGQaDUSHRGlTqKVb+zIvH07u8f97p68u+ve3v5mdz77ndnZvbfE/KwgsDQyk03A15HH/OvhukDZANwBrgCfGiMcB7YA17N+an8MXC68q5ncmsY9B3x3HdcBt4DTrq1m+xJwLfX9AByr+dIFigwebRkC5MBT4Jlz3NpeAweyd60VNMc3A4JqUNR+FXjoHLNx3gPngZ/JuNnQn9a+G3gL7AHelSbRgiID+ztA0eBngF3Ax4IapLYnaRK5iiI4hwGNvz2DIgDbgBeBGr2zgnmxsKBaaNn2sP+Yq0GRI0eSk3cbSpEDXxKYbwuAYo6vB05mk9+ZFGJqMGdMASfSAkRKU38L56JaIigyeAG4l1alBkWTkcSfpzjvC0WLcRa4mRYlhxIpKw+LKKT0e+tbzEMRFJH8nOQuAxEU74AGU/LrC0Wx/zKpQfPoCiXvW8pxBrT2jhKUPGZrUE4lhSgJmlz7QNFYeiwBdoViOetRCp2WGmoqWgFFjmllZNxiNoKSO9AXiuWwBy4+ukJR4tTjk/jClOKl6xNYHj4a8FAKF+vXB4rPYb4e6QJFffZmW7HmZOpRGvDbtN51Dh8zcrBRQChjK7GqGKs9991kWluyTXJHxWCp6JJapZLS1lrbfaq1SqtOsdhsbcnq10cpEYuaUmpAzN7C65Ra+JSc+BcorWo5glIDYiWCisVBKtq+SolCUvWBaiBNXOEaldwlKFZ4Reoq1R4LP/s0Usfae90lp6w9rxseGZQ3k/O87PA+Nc9QlsNZBmUWiiMw55SCHMaEkl8hvgoqUb99aspRv8HUPSYUXwzqOlCPPwp4J1vHgsGA+EQ76CCZcbtj1TlH97bRhXPpcDrKPFdDKXYi1iX37VTR2hWid3qSUFTmb0xfAKSavNSfLBTdndgxPr8amDQUhYwd8vxOM3koAmNbse1I+o5kF9ijJFgbZDUTrXJK9ClUO9KPGcrvZfLXks1vvkPJ539SSl7cTQqKqeGG+0aTL3p0tzqUOJbZHVMppX+fiMp8TXJSu88oq91nkDGV0meeo/52hlLA/QtlHiI1rnt1qgAAAABJRU5ErkJggg==">
 </td>
 </tr>
 </tbody>
@@ -1663,268 +1638,268 @@ Tres. A los efectos previstos en el número uno del presente artículo, los pens
 
 Cuatro. Durante 1993 las cuantías mínimas de las pensiones del Sistema de la Seguridad Social, en su modalidad contributiva, quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en las cuantías siguientes:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Peseas/año</p>
+<p>Con cónyuge a cargo</p>
+<p>–</p>
+<p>Peseas/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cónyuge a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Peseas/año</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Jubilación:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Sin cónyuge a cargo</p>
+<p>–</p>
+<p>Peseas/año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Jubilación:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">780.150</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">663.040</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">682.710</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">578.690</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Invalidez permanente:</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>780.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Gran invalidez con incremento del 50 por 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.170.260</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">994.560</p>
+<p>663.040</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Absoluta</p>
+<p>Titular menor de sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">780.150</p>
+<p>682.710</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">663.040</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">780.150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">663.040</p>
+<p>578.690</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</p>
+<p>Invalidez permanente:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">780.150</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">663.040</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Viudedad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Gran invalidez con incremento del 50 por 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>1.170.260</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">663.040</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">578.690</p>
+<p>994.560</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con menos de sesenta años</p>
+<p>Absoluta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>780.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">441.420</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Orfandad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>663.040</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
+<p>Total: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>780.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">196.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">En la orfandad absoluta el mínimo se incrementará en 441.420 pesetas distribuidas, en su caso, entre los beneficiarios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>663.040</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En favor de familiares:</p>
+<p>Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>780.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">196.000</p>
+<p>663.040</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Si no existe viuda ni huérfano pensionistas:</p>
+<p>Viudedad:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Un solo beneficiario, con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">505.190</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Un solo beneficiario, menor de sesenta y cinco años</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">441.420</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Varios beneficiarios: El mínimo asignado a cada uno se incrementará en el importe que resulte de prorratear 245.420 pesetas entre el número de beneficiarios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>663.040</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Subsidio de invalidez provisional y larga enfermedad</p>
+<p>Titular con edad entre sesenta y sesenta y cuatro años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">492.720</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">421.740</p>
+<p>578.690</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con menos de sesenta años</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>441.420</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Orfandad:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>196.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En la orfandad absoluta el mínimo se incrementará en 441.420 pesetas distribuidas, en su caso, entre los beneficiarios</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En favor de familiares:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>196.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Si no existe viuda ni huérfano pensionistas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Un solo beneficiario, con sesenta y cinco años</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>505.190</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Un solo beneficiario, menor de sesenta y cinco años</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>441.420</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Varios beneficiarios: El mínimo asignado a cada uno se incrementará en el importe que resulte de prorratear 245.420 pesetas entre el número de beneficiarios</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Subsidio de invalidez provisional y larga enfermedad</p>
+</td>
+<td>
+<p>492.720</p>
+</td>
+<td>
+<p>421.740</p>
 </td>
 </tr>
 </tbody>
@@ -4381,358 +4356,351 @@ Cuatro. Los créditos que sean necesarios en los programas de gastos del INSALUD
 
 ## ANEXO IV — Asunción de deuda del I. N. I. con efectos de 1 de enero de 1993
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Clase de deuda</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Importe contratado</p>
-<p class="cabeza_tabla">‒</p>
-<p class="cabeza_tabla">Pesetas</p>
+<th>Clase de deuda</th>
+<th>
+<p>Importe contratado</p>
+<p>‒</p>
+<p>Pesetas</p>
 </th>
-<th class="cabeza_tabla">Tipo de referencia</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Primer</p>
-<p class="cabeza_tabla">o único período</p>
-<p class="cabeza_tabla">de amortización</p>
+<th>Tipo de referencia</th>
+<th>
+<p>Primer</p>
+<p>o único período</p>
+<p>de amortización</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ultimo período</p>
-<p class="cabeza_tabla">de amortización</p>
+<th>
+<p>Ultimo período</p>
+<p>de amortización</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Obligaciones.</td>
-<td class="cuerpo_tabla_coma">55.000.000.000</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Obligaciones.</td>
+<td>55.000.000.000</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INI, octubre 1991.</td>
-<td class="cuerpo_tabla_coma">30.000.000.000</td>
-<td class="cuerpo_tabla_centro">11,325 por 100</td>
-<td class="cuerpo_tabla_centro">2001</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>INI, octubre 1991.</td>
+<td>30.000.000.000</td>
+<td>11,325 por 100</td>
+<td>2001</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INI, marzo 1992.</td>
-<td class="cuerpo_tabla_coma">25.000.000.000</td>
-<td class="cuerpo_tabla_centro">10,800 por 100</td>
-<td class="cuerpo_tabla_centro">2002</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>INI, marzo 1992.</td>
+<td>25.000.000.000</td>
+<td>10,800 por 100</td>
+<td>2002</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prísiarnos en pesetas.</td>
-<td class="cuerpo_tabla_coma">53.500.000.000</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Prísiarnos en pesetas.</td>
+<td>53.500.000.000</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C.A. del Mediterráneo, diciembre 1991.</td>
-<td class="cuerpo_tabla_coma">7.000.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0.25</td>
-<td class="cuerpo_tabla_centro">1999</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>C.A. del Mediterráneo, diciembre 1991.</td>
+<td>7.000.000.000</td>
+<td>MIBOR + 0.25</td>
+<td>1999</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Caixa, julio 1992.</td>
-<td class="cuerpo_tabla_coma">15.000.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0,25</td>
-<td class="cuerpo_tabla_centro">1998</td>
-<td class="cuerpo_tabla_centro">2002</td>
+<td>La Caixa, julio 1992.</td>
+<td>15.000.000.000</td>
+<td>MIBOR + 0,25</td>
+<td>1998</td>
+<td>2002</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BSN, abril 1992.</td>
-<td class="cuerpo_tabla_coma">5.000.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0,25</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>BSN, abril 1992.</td>
+<td>5.000.000.000</td>
+<td>MIBOR + 0,25</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banesto, diciembre 1991.</td>
-<td class="cuerpo_tabla_coma">5.000.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0,25</td>
-<td class="cuerpo_tabla_centro">1999</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Banesto, diciembre 1991.</td>
+<td>5.000.000.000</td>
+<td>MIBOR + 0,25</td>
+<td>1999</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Citibank, abril 1992.</td>
-<td class="cuerpo_tabla_coma">10.000.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0,25</td>
-<td class="cuerpo_tabla_centro">1999</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Citibank, abril 1992.</td>
+<td>10.000.000.000</td>
+<td>MIBOR + 0,25</td>
+<td>1999</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Fomento, enero 1992.</td>
-<td class="cuerpo_tabla_coma">6.500.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 025 o PRF</td>
-<td class="cuerpo_tabla_centro">1999</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Banco Fomento, enero 1992.</td>
+<td>6.500.000.000</td>
+<td>MIBOR + 025 o PRF</td>
+<td>1999</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Midland, septiembre 1991.</td>
-<td class="cuerpo_tabla_coma">5.000.000.000</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">2.000 M + 020</p>
-<p class="cuerpo_tabla_centro">3.000 fijo 11.39 por 100</p>
+<td>Midland, septiembre 1991.</td>
+<td>5.000.000.000</td>
+<td>
+<p>2.000 M + 020</p>
+<p>3.000 fijo 11.39 por 100</p>
 </td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>1996</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Créditos en pesetas.</td>
-<td class="cuerpo_tabla_coma">4.938.547.042</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Créditos en pesetas.</td>
+<td>4.938.547.042</td>
+<td>‒</td>
+<td>–</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caja Madrid (IBERIA), junio 1991.</td>
-<td class="cuerpo_tabla_coma">1.500.000.000</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0,25</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Caja Madrid (IBERIA), junio 1991.</td>
+<td>1.500.000.000</td>
+<td>MIBOR + 0,25</td>
+<td>1996</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banesto LC, junio 1988.</td>
-<td class="cuerpo_tabla_coma">3.438.547.042</td>
-<td class="cuerpo_tabla_centro">MIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Banesto LC, junio 1988.</td>
+<td>3.438.547.042</td>
+<td>MIBOR + 0,20</td>
+<td>1996</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Préstamos multidivisa (divisa).</td>
-<td class="cuerpo_tabla_coma">48.561.452.958</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Préstamos multidivisa (divisa).</td>
+<td>48.561.452.958</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Central, diciembre 1991.</td>
-<td class="cuerpo_tabla_coma">100 MM/US$</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>Banco Central, diciembre 1991.</td>
+<td>100 MM/US$</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Central, diciembre 1991 FS.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">34.750.000 FS</p>
-<p class="cuerpo_tabla_centro">(78.447 PTA/FS, 25-9-92)</p>
-<p class="cuerpo_tabla_centro">(2.726.033.250 PTA)</p>
+<td>Banco Central, diciembre 1991 FS.</td>
+<td>
+<p>34.750.000 FS</p>
+<p>(78.447 PTA/FS, 25-9-92)</p>
+<p>(2.726.033.250 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1998</td>
-<td class="cuerpo_tabla_centro">2001</td>
+<td>LIBOR + 0,20</td>
+<td>1998</td>
+<td>2001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Central, diciembre 1991 DM.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">39.307.500 DM</p>
-<p class="cuerpo_tabla_centro">(68,940 PTA/DM, 25-9-92)</p>
-<p class="cuerpo_tabla_centro">(2.709.859.050 PTA)</p>
+<td>Banco Central, diciembre 1991 DM.</td>
+<td>
+<p>39.307.500 DM</p>
+<p>(68,940 PTA/DM, 25-9-92)</p>
+<p>(2.709.859.050 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1998</td>
-<td class="cuerpo_tabla_centro">2001</td>
+<td>LIBOR + 0,20</td>
+<td>1998</td>
+<td>2001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Central, diciembre 1991 DM.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">39.210.000 DM</p>
-<p class="cuerpo_tabla_centro">(2.703.137.400 PTA)</p>
+<td>Banco Central, diciembre 1991 DM.</td>
+<td>
+<p>39.210.000 DM</p>
+<p>(2.703.137.400 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1998</td>
-<td class="cuerpo_tabla_centro">2001</td>
+<td>LIBOR + 0,20</td>
+<td>1998</td>
+<td>2001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Central diciembre 1991 DM.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">19.252.984.21 ECU</p>
-<p class="cuerpo_tabla_centro">(134,278 PTA/ECU. 25-9-92)</p>
-<p class="cuerpo_tabla_centro">(2.585.252.214 PTA)</p>
+<td>Banco Central diciembre 1991 DM.</td>
+<td>
+<p>19.252.984.21 ECU</p>
+<p>(134,278 PTA/ECU. 25-9-92)</p>
+<p>(2.585.252.214 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 020</td>
-<td class="cuerpo_tabla_centro">1998</td>
-<td class="cuerpo_tabla_centro">2001</td>
+<td>LIBOR + 020</td>
+<td>1998</td>
+<td>2001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano A, diciembre 1991.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">10.000 MM/PTA</p>
+<td>Hispano A, diciembre 1991.</td>
+<td>
+<p>10.000 MM/PTA</p>
 </td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano, diciembre 1991 FS.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">28.823.843.08 FS</p>
-<p class="cuerpo_tabla_centro">(2.261.144.018 PTA)</p>
+<td>Hispano, diciembre 1991 FS.</td>
+<td>
+<p>28.823.843.08 FS</p>
+<p>(2.261.144.018 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">1998</td>
+<td>LIBOR + 0,20</td>
+<td>1996</td>
+<td>1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano, diciembre 1991 FS.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">28.823.843.08 FS</p>
-<p class="cuerpo_tabla_centro">(2.261.144.018 PTA)</p>
+<td>Hispano, diciembre 1991 FS.</td>
+<td>
+<p>28.823.843.08 FS</p>
+<p>(2.261.144.018 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">1998</td>
+<td>LIBOR + 0,20</td>
+<td>1996</td>
+<td>1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano, diciembre 1991 ECU.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">15.505.799.17 ECU</p>
-<p class="cuerpo_tabla_centro">(2.082.087.701 PTA)</p>
+<td>Hispano, diciembre 1991 ECU.</td>
+<td>
+<p>15.505.799.17 ECU</p>
+<p>(2.082.087.701 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0.20</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">1998</td>
+<td>LIBOR + 0.20</td>
+<td>1996</td>
+<td>1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano, diciembre 1991 ECU.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">15.505.799,17 ECU</p>
-<p class="cuerpo_tabla_centro">(2.082.087.701 PTA)</p>
+<td>Hispano, diciembre 1991 ECU.</td>
+<td>
+<p>15.505.799,17 ECU</p>
+<p>(2.082.087.701 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">1998</td>
+<td>LIBOR + 0,20</td>
+<td>1996</td>
+<td>1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hispano, diciembre 1991 DM.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">31.716.832,12 DM</p>
-<p class="cuerpo_tabla_centro">(2.186.558.406 PTA)</p>
+<td>Hispano, diciembre 1991 DM.</td>
+<td>
+<p>31.716.832,12 DM</p>
+<p>(2.186.558.406 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1996</td>
-<td class="cuerpo_tabla_centro">1998</td>
+<td>LIBOR + 0,20</td>
+<td>1996</td>
+<td>1998</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BBL, marzo 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">50 MM/ECUs</p>
+<td>BBL, marzo 1992.</td>
+<td>
+<p>50 MM/ECUs</p>
 </td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BBL, marzo 1992 ECU.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">25.00 MM/ECU</p>
-<p class="cuerpo_tabla_centro">(3.356.950.000 PTA)</p>
+<td>BBL, marzo 1992 ECU.</td>
+<td>
+<p>25.00 MM/ECU</p>
+<p>(3.356.950.000 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BBL, marzo 1992 ECU.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">25.00 MM/ECU</p>
-<p class="cuerpo_tabla_centro">(3.356.950.000 PTA)</p>
+<td>BBL, marzo 1992 ECU.</td>
+<td>
+<p>25.00 MM/ECU</p>
+<p>(3.356.950.000 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Belga, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">6.000 MM/PTA</p>
+<td>Banco Belga, julio 1992.</td>
+<td>
+<p>6.000 MM/PTA</p>
 </td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Belga, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">36.425.449,25 FS</p>
-<p class="cuerpo_tabla_centro">(82,36 PTA/FS. 6-10-92)</p>
-<p class="cuerpo_tabla_centro">(3.000.000.000 PTA)</p>
+<td>Banco Belga, julio 1992.</td>
+<td>
+<p>36.425.449,25 FS</p>
+<p>(82,36 PTA/FS. 6-10-92)</p>
+<p>(3.000.000.000 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Banco Belga, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">41.794.371.69 DM</p>
-<p class="cuerpo_tabla_centro">(71.78 PTA/DM, 6-10-92)</p>
-<p class="cuerpo_tabla_centro">(3.000.000.000 PTA)</p>
+<td>Banco Belga, julio 1992.</td>
+<td>
+<p>41.794.371.69 DM</p>
+<p>(71.78 PTA/DM, 6-10-92)</p>
+<p>(3.000.000.000 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hill Samuel, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">140 MM/US$</p>
+<td>Hill Samuel, julio 1992.</td>
+<td>
+<p>140 MM/US$</p>
 </td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>‒</td>
+<td>‒</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hill Samuel, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">40.000.000 US$</p>
-<p class="cuerpo_tabla_centro">(101.549 PTA/US$, 25-9-92)</p>
-<p class="cuerpo_tabla_centro">(4.061.960.000 PTA)</p>
+<td>Hill Samuel, julio 1992.</td>
+<td>
+<p>40.000.000 US$</p>
+<p>(101.549 PTA/US$, 25-9-92)</p>
+<p>(4.061.960.000 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hill Samuel, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">73.935.000 DM</p>
-<p class="cuerpo_tabla_centro">(5.097.078.900 PTA)</p>
+<td>Hill Samuel, julio 1992.</td>
+<td>
+<p>73.935.000 DM</p>
+<p>(5.097.078.900 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hill Samuel, julio 1992.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">64.900.000 FS</p>
-<p class="cuerpo_tabla_centro">(5.091.210.300 PTA)</p>
+<td>Hill Samuel, julio 1992.</td>
+<td>
+<p>64.900.000 FS</p>
+<p>(5.091.210.300 PTA)</p>
 </td>
-<td class="cuerpo_tabla_centro">LIBOR + 0,20</td>
-<td class="cuerpo_tabla_centro">1997</td>
-<td class="cuerpo_tabla_centro">‒</td>
+<td>LIBOR + 0,20</td>
+<td>1997</td>
+<td>‒</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total general.</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_centro">162.000.000.000</p>
+<td>Total general.</td>
+<td>
+<p>162.000.000.000</p>
 </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
+<td colspan="3"> </td>
 </tr>
 </tbody>
 </table>
@@ -4889,89 +4857,82 @@ El límite de compromiso se fija a nivel de programa en el capítulo VI, con el 
 
 (Miles de pesetas)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Programa</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
+<th rowspan="2">Programa</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1994</th>
-<th class="cabeza_tabla">1995</th>
-<th class="cabeza_tabla">1996</th>
+<th>1994</th>
+<th>1995</th>
+<th>1996</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">513.D</td>
-<td class="cuerpo_tabla_izq">Creación de Infraestructuras Carreteras.</td>
-<td class="cuerpo_tabla_coma">378.000.000</td>
-<td class="cuerpo_tabla_coma">335.000.000</td>
-<td class="cuerpo_tabla_coma">295.000.000</td>
+<td>513.D</td>
+<td>Creación de Infraestructuras Carreteras.</td>
+<td>378.000.000</td>
+<td>335.000.000</td>
+<td>295.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">513.E</td>
-<td class="cuerpo_tabla_izq">Conservación y Explotación de Carreteras.</td>
-<td class="cuerpo_tabla_coma">75.000.000</td>
-<td class="cuerpo_tabla_coma">70.000.000</td>
-<td class="cuerpo_tabla_coma">60.000.000</td>
+<td>513.E</td>
+<td>Conservación y Explotación de Carreteras.</td>
+<td>75.000.000</td>
+<td>70.000.000</td>
+<td>60.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">512.A</td>
-<td class="cuerpo_tabla_izq">Gestión e Infraestructura de Recursos Hidráulicos.</td>
-<td class="cuerpo_tabla_coma">140.000.000</td>
-<td class="cuerpo_tabla_coma">125.000.000</td>
-<td class="cuerpo_tabla_coma">109.000.000</td>
+<td>512.A</td>
+<td>Gestión e Infraestructura de Recursos Hidráulicos.</td>
+<td>140.000.000</td>
+<td>125.000.000</td>
+<td>109.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">513.A</td>
-<td class="cuerpo_tabla_izq">Infraestructura del Transporte ferroviario.</td>
-<td class="cuerpo_tabla_coma">50.000.000</td>
-<td class="cuerpo_tabla_coma">44.000.000</td>
-<td class="cuerpo_tabla_coma">38.000.000</td>
+<td>513.A</td>
+<td>Infraestructura del Transporte ferroviario.</td>
+<td>50.000.000</td>
+<td>44.000.000</td>
+<td>38.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">514.C</td>
-<td class="cuerpo_tabla_izq">Actuación en la Costa.</td>
-<td class="cuerpo_tabla_coma">18.000.000</td>
-<td class="cuerpo_tabla_coma">12.000.000</td>
-<td class="cuerpo_tabla_coma">10.000.000</td>
+<td>514.C</td>
+<td>Actuación en la Costa.</td>
+<td>18.000.000</td>
+<td>12.000.000</td>
+<td>10.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">441.A</td>
-<td class="cuerpo_tabla_izq">Infraestructura urbana de saneamiento y calidad del agua</td>
-<td class="cuerpo_tabla_coma">18.000.000</td>
-<td class="cuerpo_tabla_coma">15.800.000</td>
-<td class="cuerpo_tabla_coma">14.000.000</td>
+<td>441.A</td>
+<td>Infraestructura urbana de saneamiento y calidad del agua</td>
+<td>18.000.000</td>
+<td>15.800.000</td>
+<td>14.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">443.D</td>
-<td class="cuerpo_tabla_izq">Protección y mejora del medio ambiente</td>
-<td class="cuerpo_tabla_coma">9.000.000</td>
-<td class="cuerpo_tabla_coma">8.000.000</td>
-<td class="cuerpo_tabla_coma">7.000.000</td>
+<td>443.D</td>
+<td>Protección y mejora del medio ambiente</td>
+<td>9.000.000</td>
+<td>8.000.000</td>
+<td>7.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">514.A</td>
-<td class="cuerpo_tabla_izq">Seguridad del tráfico marítimo y vigilancia costera</td>
-<td class="cuerpo_tabla_coma">3.000.000</td>
-<td class="cuerpo_tabla_coma">2.100.000</td>
-<td class="cuerpo_tabla_coma">1.800.000</td>
+<td>514.A</td>
+<td>Seguridad del tráfico marítimo y vigilancia costera</td>
+<td>3.000.000</td>
+<td>2.100.000</td>
+<td>1.800.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">432.A</td>
-<td class="cuerpo_tabla_izq">Ordenación y fomento de la edificación</td>
-<td class="cuerpo_tabla_coma">2.500.000</td>
-<td class="cuerpo_tabla_coma">1.900.000</td>
-<td class="cuerpo_tabla_coma">1.800.000</td>
+<td>432.A</td>
+<td>Ordenación y fomento de la edificación</td>
+<td>2.500.000</td>
+<td>1.900.000</td>
+<td>1.800.000</td>
 </tr>
 </tbody>
 </table>

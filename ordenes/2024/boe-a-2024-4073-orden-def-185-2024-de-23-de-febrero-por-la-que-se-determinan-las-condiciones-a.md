@@ -1,0 +1,543 @@
+---
+title: "Orden DEF/185/2024, de 23 de febrero, por la que se determinan las condiciones a cumplir por los cursos para que permitan alcanzar las competencias requeridas para las especialidades del segundo tramo de la carrera militar"
+identifier: "BOE-A-2024-4073"
+eli: "https://www.boe.es/eli/es/o/2024/02/23/def185"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2024-02-23
+published: 2024-03-02
+in_force_from: 2024-03-22
+last_amended: 2025-05-17
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 55"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2024-4073"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/185/2024, de 23 de febrero, por la que se determinan las condiciones a cumplir por los cursos para que permitan alcanzar las competencias requeridas para las especialidades del segundo tramo de la carrera militar
+
+El artículo 75.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, dispone que los militares, a partir de determinados empleos, reorientarán su perfil profesional para el cumplimiento de tareas en distintos campos de actividad o lo adaptarán para perfeccionarse dentro de los que vinieran ejerciendo, adquiriendo, en su caso, una nueva especialidad. La articulación de las nuevas especialidades con las de origen dará lugar a que se desarrollen trayectorias diferenciadas para ocupar distintos destinos en función de los requerimientos de los mismos, pudiendo alcanzarse los máximos empleos de cada escala. Reglamentariamente se establecerá el sistema de formación y adquisición de dichas especialidades que debe permitir el desarrollo de una carrera que reconozca los méritos y trayectoria de los miembros de las Fuerzas Armadas.
+
+Estas especialidades, que se denominan especialidades del segundo tramo de la carrera militar, incrementan los conocimientos del personal militar en determinados campos de actividad, que pueden corresponderse o no con los de su especialidad fundamental, facultándolo para el desarrollo de sus cometidos en dichos campos con mayor eficacia y responsabilidad.
+
+El Reglamento de estas especialidades del segundo tramo de la carrera militar aprobado por Real Decreto 1053/2021, de 30 de noviembre, define en sus anexos I a IV las especialidades del segundo tramo que podrán existir en los diferentes cuerpos y escalas de las Fuerzas Armadas. Asimismo, en su artículo 4, dispone que la determinación de los perfiles de egreso de los cursos para la obtención de las especialidades del segundo tramo se basarán en las capacidades profesionales necesarias para ejercer las competencias de los puestos incluidos en las diferentes relaciones de puestos militares y será competencia de las autoridades señaladas en el artículo 14.7 del Real Decreto 339/2015, de 30 de abril, por el que se ordenan las enseñanzas de perfeccionamiento y de Altos Estudios de la Defensa Nacional. Finalmente, su disposición final segunda faculta a la persona titular del Ministerio de Defensa a dictar cuantas disposiciones sean necesarias para el desarrollo de dicho real decreto.
+
+Este mismo Reglamento establece, en su disposición adicional segunda, que en la normativa que se desarrolle para determinar los cursos que permiten alcanzar las competencias requeridas para cada una de las especialidades del segundo tramo, se podrán especificar procedimientos para reconocer, con la misma finalidad, los cursos de perfeccionamiento que se realizaron con anterioridad a su aprobación.
+
+En base a lo expuesto, esta norma desarrolla el Real Decreto 1053/2021, de 30 de noviembre, considerando lo dispuesto por la Ley 39/2007, de 19 de noviembre, en su artículo 75, determinando las condiciones a cumplir por los cursos para que permitan alcanzar las competencias requeridas en las especialidades del segundo tramo.
+
+Esta norma se adecúa a los principios de buena regulación conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, como son los principios de proporcionalidad, seguridad jurídica y eficiencia, previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+A estos efectos se pone de manifiesto el cumplimiento de los principios de necesidad y eficacia y que la norma es acorde al principio de proporcionalidad, al contener la regulación imprescindible para la consecución de los objetivos previamente mencionados. Igualmente, se ajusta al principio de seguridad jurídica, ya que no contraviene el ordenamiento jurídico vigente.
+
+Con respecto al principio de eficiencia, no impone cargas administrativas innecesarias o accesorias y, con respecto al gasto público, cabe señalar que no se precisa la modificación de ninguna partida presupuestaria y, por tanto, que el impacto presupuestario es nulo.
+
+Asimismo, es conforme con las exigencias del principio de transparencia, ya que sus objetivos están claramente definidos. Así, durante su tramitación, esta orden ministerial fue informada por las asociaciones profesionales con representación en el Consejo de Personal de las Fuerzas Armadas, conforme al artículo 40.2.b) de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas, y se dio conocimiento de la misma al resto de las asociaciones profesionales inscritas en el Registro de Asociaciones Profesionales de miembros de las Fuerzas Armadas, conforme al artículo 40.1.c) de la Ley Orgánica 9/2011, de 27 de julio. Con arreglo a lo establecido en el artículo 49.1.c) de la citada ley orgánica, fue informada por el Consejo de Personal de las Fuerzas Armadas. Finalmente, y de conformidad con el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, se ha dado trámite de audiencia e información pública en el portal de transparencia del Ministerio de Defensa.
+
+En su virtud, y de conformidad con la disposición final segunda del Real Decreto 1053/2021, de 30 de noviembre, dispongo:
+
+## Artículo 1. Objeto.
+
+Determinar las condiciones a cumplir por los cursos para que permitan alcanzar las competencias requeridas en las especialidades del segundo tramo.
+
+## Artículo 2. Condiciones a cumplir por los cursos para que permitan alcanzar las competencias requeridas en las especialidades del segundo tramo.
+
+1\. Conforme a lo establecido en los artículos 12, 13 y 14 del Real Decreto 339/2015, de 30 de abril, por el que se ordenan las enseñanzas de perfeccionamiento y de Altos Estudios de la Defensa Nacional, los cursos que permitan alcanzar las competencias requeridas en las especialidades del segundo tramo se enmarcan en la enseñanza de perfeccionamiento y tendrán la consideración de cursos de especialización.
+
+2\. Dependiendo del cuerpo, escala y especialidad del segundo tramo, y de acuerdo a lo establecido en el anexo I a esta norma, los cursos podrán ser específicos, comunes o conjuntos, conforme a lo definido en el artículo 4.d) del Real Decreto 339/2015, de 30 de abril.
+
+En aquellas especialidades indicadas en el anexo I, los cursos específicos tendrán que incluir en su currículo una fase conjunta o los módulos o asignaturas que permitan alcanzar aquellas competencias que determine el Jefe de Estado Mayor de la Defensa.
+
+3\. Se procurará que la enseñanza presencial no exceda de un tercio del total de la duración de los cursos.
+
+4\. Las competencias a alcanzar en los cursos estarán únicamente relacionadas con la nueva especialidad a adquirir.
+
+5\. La duración de los cursos será la siguiente:
+
+a) Al menos 48 créditos del sistema europeo de transferencia y acumulación de créditos (ECTS): para los cursos que permitan alcanzar las competencias de las especialidades del segundo tramo de las escalas de oficiales.
+
+b) Al menos 240 horas: para los cursos que permitan alcanzar las competencias de las especialidades del segundo tramo de la escala de suboficiales.
+
+c) Al menos 120 horas: para los cursos que permitan alcanzar las competencias de las especialidades del segundo tramo de la escala de tropa o marinería.
+
+## Artículo 3. Catálogo de cursos que permiten alcanzar las competencias requeridas en las especialidades del segundo tramo para cada uno de los cuerpos y escalas.
+
+Transcurrido un plazo máximo de dos años desde la entrada en vigor de esta orden ministerial y mediante instrucción de la persona titular de la Subsecretaría de Defensa, se aprobará la relación de cursos que a propuesta de los ejércitos y de la propia Subsecretaría de Defensa, en sus respectivos ámbitos de competencia y cumpliendo con las condiciones establecidas en el artículo 2 de esta orden ministerial, permitan alcanzar las competencias requeridas para cada una de las especialidades del segundo tramo.
+
+## Disposición transitoria primera. Reconocimiento de cursos de perfeccionamiento realizados con anterioridad a la aprobación de la presente norma que proporcionan una especialidad del segundo tramo.
+
+Hasta la entrada en vigor de la instrucción con el catálogo de cursos a la que se refiere el artículo 3 de esta norma, se reconoce a los cursos que se relacionan en el anexo II de esta norma como aquellos que proporcionan las competencias para cada una de las especialidades del segundo tramo que se especifican.
+
+Mediante instrucciones particulares, los Jefes de Estado Mayor de los Ejércitos, de la Armada y la persona titular de la Subsecretaría de Defensa, en sus ámbitos competenciales, establecerán los procedimientos para reconocer la correspondiente especialidad del segundo tramo del que un militar es merecedor en función de los cursos relacionados en el anexo II que haya realizado.
+
+## Disposición transitoria segunda. Periodo de adaptación.
+
+1\. Tras la entrada en vigor de la instrucción a la que hace referencia el artículo 3 de esta orden ministerial, solo tendrán consideración de cursos que proporcionan especialidad del segundo tramo, los cursos que figuren en ese catálogo.
+
+2\. De acuerdo a lo que establece la disposición transitoria única del Reglamento de especialidades del segundo tramo de la carrera militar, aprobado por Real Decreto 1053/2021, de 30 de noviembre, durante las tres primeras convocatorias de los cursos de especialización para la obtención de una especialidad del segundo tramo que se realicen tras la aprobación de los currículos, se podrá permitir el acceso a los mismos al personal militar que ostente el cuarto empleo en su respectiva escala.
+
+## Disposición final primera. Facultades dispositivas.
+
+Se autoriza a la persona titular de la Subsecretaría de Defensa a modificar los anexos a esta orden ministerial y a dictar, en el ámbito de sus competencias, cuantas disposiciones sean necesarias para su aplicación.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 23 de febrero de 2024.–La Ministra de Defensa, Margarita Robles Fernández.
+
+## ANEXO I — Tipos de cursos (específico, común o conjunto) con los se adquieren las competencias para cada una de las especialidades del segundo tramo
+
+1\. Cuerpos Generales e Infantería de Marina
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Tipo de curso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Oficiales</td>
+</tr>
+<tr>
+<td>Operaciones.</td>
+<td>Específico*.</td>
+</tr>
+<tr>
+<td>Inteligencia.</td>
+<td>Específico*.</td>
+</tr>
+<tr>
+<td>Logística.</td>
+<td>Específico*.</td>
+</tr>
+<tr>
+<td>Recursos Humanos.</td>
+<td>Específico**.</td>
+</tr>
+<tr>
+<td>Tecnologías de la Información, Comunicaciones y Ciberdefensa.</td>
+<td>Específico/Común/Conjunto***.</td>
+</tr>
+<tr>
+<td>Técnicas de Apoyo al Mando:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Información geoespacial.</td>
+<td>Específico (ET).</td>
+</tr>
+<tr>
+<td>– Astronomía y geofísica.</td>
+<td>Específico (AR).</td>
+</tr>
+<tr>
+<td>– Ingeniería hidrográfica.</td>
+<td>Específico (AR).</td>
+</tr>
+<tr>
+<td>– Investigación Militar Operativa.</td>
+<td>Común.</td>
+</tr>
+<tr>
+<td>– Sociología.</td>
+<td>Común.</td>
+</tr>
+<tr>
+<td>– Estadística.</td>
+<td>Común.</td>
+</tr>
+<tr>
+<td colspan="2">Escalas de Suboficiales</td>
+</tr>
+<tr>
+<td>Operaciones.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Inteligencia.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Logística.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Recursos Humanos.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Tecnologías de la Información, Comunicaciones y Ciberdefensa.</td>
+<td>Específico/Común/Conjunto***.</td>
+</tr>
+<tr>
+<td>Administración.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Técnicas de Apoyo al Mando:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Prevención de riesgos laborales.</td>
+<td>Común.</td>
+</tr>
+<tr>
+<td>– Investigación Militar Operativa.</td>
+<td>Específico (EA).</td>
+</tr>
+<tr>
+<td>– Sociología.</td>
+<td>Específico (EA).</td>
+</tr>
+<tr>
+<td>– Estadística.</td>
+<td>Específico (EA).</td>
+</tr>
+<tr>
+<td colspan="2">Escalas de Tropa y Marinería</td>
+</tr>
+<tr>
+<td>Inteligencia.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Logística.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Recursos Humanos.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Tecnologías de la Información, Comunicaciones y Ciberdefensa.</td>
+<td>Específico/Común/Conjunto***.</td>
+</tr>
+<tr>
+<td>Administración.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Técnicas de Apoyo al Mando.</td>
+<td>Específico.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p>* Incluirá en su currículo una fase conjunta o los módulos o asignaturas que permitan alcanzar aquellas competencias que determine el Jefe de Estado Mayor de la Defensa.</p>
+<p>** Podrá ser enseñanza compartida, en la que un ejército forme a los alumnos de otro o del resto de ejércitos.</p>
+<p>*** Podrá ser específico, común o conjunto para la rama de Tecnologías de la Información y Comunicaciones y conjunto para la rama de la Ciberdefensa.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+2\. Cuerpos de Intendencia
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Tipo de curso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Oficiales</td>
+</tr>
+<tr>
+<td>Administración Económica.</td>
+<td>Específico**/Común.</td>
+</tr>
+<tr>
+<td>Logística.</td>
+<td>Específico.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p>** Podrá ser enseñanza compartida, en la que un ejército forme a los alumnos de otro o del resto de ejércitos.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+3\. Cuerpos de Ingenieros
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Tipo de curso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Oficiales</td>
+</tr>
+<tr>
+<td>Ingeniería Avanzada.</td>
+<td>Específico**/Común.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p>** Podrá ser enseñanza compartida, en la que un ejército forme a los alumnos de otro o del resto de ejércitos.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+4\. Cuerpo Militar de Sanidad
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Tipo de curso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Oficiales</td>
+</tr>
+<tr>
+<td>Dirección y Gestión Sanitaria.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Medicina Legal y Pericial.</td>
+<td>Específico.</td>
+</tr>
+<tr>
+<td>Gestión Logística de Apoyo Sanitario.</td>
+<td>Específico.</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica el epígrafe «Escalas de Suboficiales» de la tabla del apartado 1 por el art. 3 de la Orden DEF/494/2025, de 9 de mayo. [Ref. BOE-A-2025-9740](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9740)
+
+## ANEXO II — Cursos de perfeccionamiento realizados con anterioridad a la aprobación de la presente norma a los que se les reconoce que proporcionan una especialidad del segundo tramo
+
+1\. Cuerpos Generales e Infantería de Marina
+
+| Especialidad del segundo tramo | Ejército |
+|---|---|
+| Escala de Oficiales |  |
+| Operaciones: |  |
+| – Curso Planeamiento Operativo (CPO) o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Planeamiento Operativo» + Especialista Militar en Operaciones o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Operaciones». | ET |
+| – Curso de Operaciones Aeroespaciales. | EA |
+| Inteligencia: |  |
+| – CPO o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Planeamiento Operativo» + Especialista Militar en Inteligencia o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Inteligencia». | ET |
+| – Curso Superior de Inteligencia de las Fuerzas Armadas (CSIFAS). | AR |
+| – Curso de Inteligencia aeroespacial + CSIFAS. | EA |
+| Logística: |  |
+| – CPO o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Planeamiento Operativo» + Especialista Militar en Logística de Material o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Logística de Material». | ET |
+| – Logística. | AR |
+| – Curso de Logística Aeroespacial. | EA |
+| Recursos Humanos: |  |
+| – CPO o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Planeamiento Operativo» + Especialista Militar en Recursos Humanos o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Recursos Humanos». | ET |
+| – Curso para la obtención de la Especialidad de Segundo Tramo en Recursos Humanos. | AR y EA |
+| Tecnologías de la Información, Comunicaciones y Ciberdefensa: |  |
+| – CPO o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Planeamiento Operativo» + Especialista Militar en Sistema de Información y Telecomunicaciones o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Sistema de Información y Telecomunicaciones». | ET |
+| – Dirección y Gestión STIC y Seguridad Información. | AR y EA |
+| Técnicas de Apoyo al Mando: |  |
+| – CPO + Información Geoespacial. | ET |
+| – CPO + Investigación Militar Operativa. | ET |
+| – CPO + Estadística. | ET |
+| – CPO + Sociología. | ET |
+| – Ingeniero Hidrógrafo. /td> | AR |
+| – Doctorado en Ciencias Astronomía y Geofísica. | AR |
+| – Militar en Investigación Militar Operativa. | AR y EA |
+| – Militar en Estadística. | AR y EA |
+| – Sociología Militar. | AR y EA |
+
+Especialidad del segundo tramo
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Ejército</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Suboficiales</td>
+</tr>
+<tr>
+<td>Operaciones:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico Especialista Militar en Operaciones y Preparación.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>Inteligencia:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico Especialista Militar en Inteligencia.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Curso de Inteligencia Aeroespacial.</td>
+<td>EA</td>
+</tr>
+<tr>
+<td>Logística:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico de Especialista Militar en Gestión del Apoyo Logístico.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Técnico de Especialista Militar en Gestión del Acuartelamiento e Infraestructura.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Logística Aprovisionamiento Segundo Escalón (ASE).</td>
+<td>AR</td>
+</tr>
+<tr>
+<td>– Curso de Logística de Material para Suboficiales del EA.</td>
+<td>EA</td>
+</tr>
+<tr>
+<td>Recursos Humanos:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico de Especialista Militar en Recursos Humanos.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Curso de Recursos Humanos para Suboficiales.</td>
+<td>EA</td>
+</tr>
+<tr>
+<td>Tecnologías de la Información, Comunicaciones y Ciberdefensa:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico Especialista Militar en Sistemas de Información y Telecomunicaciones.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Técnicas de apoyo CIS/TIC (CIS).</td>
+<td>AR</td>
+</tr>
+<tr>
+<td>Administración:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico Especialista Militar en Administración Económica.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Administración, Gestión Económico-Financiera y Contratación.</td>
+<td>AR</td>
+</tr>
+<tr>
+<td>Técnicas de Apoyo al Mando:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Técnico Intermedio de PRL.</td>
+<td>AR</td>
+</tr>
+</tbody>
+</table>
+
+2\. Cuerpos de Intendencia
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Ejército</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Oficiales</td>
+</tr>
+<tr>
+<td>Administración Económica:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Especialista Militar en Administración Económica o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Administración Económica»</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Gestión y Administración Económico Financiera</td>
+<td>AR</td>
+</tr>
+<tr>
+<td>– Técnica Contable y Contractual.</td>
+<td>EA</td>
+</tr>
+<tr>
+<td>Logística:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– CPO o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Planeamiento Operativo» + Especialista Militar en Logística de Material o Especialidad de Segundo Tramo de Trayectoria (ETRAY) «Logística de Material».</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Logística</td>
+<td>AR</td>
+</tr>
+<tr>
+<td>– Técnicas de Gestión Logística del Recurso de Material</td>
+<td>EA</td>
+</tr>
+</tbody>
+</table>
+
+3\. Cuerpos de Ingenieros
+
+<table>
+<thead>
+<tr>
+<th>Especialidad del segundo tramo</th>
+<th>Ejército</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Escalas de Oficiales</td>
+</tr>
+<tr>
+<td>Ingeniería Avanzada:</td>
+<td> </td>
+</tr>
+<tr>
+<td>– Especialista Militar en Gestión de Programas y Proyectos o Especialidad de Trayectoria de Gestión de Programas y Proyectos.</td>
+<td>ET</td>
+</tr>
+<tr>
+<td>– Gestión de Programas y Proyectos</td>
+<td>EA</td>
+</tr>
+<tr>
+<td>– Dirección y Gestión de Aeronavegabilidad e Ingeniería de Sistemas de Armas</td>
+<td>EA</td>
+</tr>
+</tbody>
+</table>

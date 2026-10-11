@@ -1,0 +1,501 @@
+---
+title: "Resolución de 20 de diciembre de 2021, del Consorcio de la Zona Especial Canaria, por la que se publica el Acuerdo del Consejo Rector de 29 de noviembre de 2021, por el que se aprueba la Instrucción de organización interna y servicios"
+identifier: "BOE-A-2022-845"
+eli: "https://www.boe.es/eli/es/res/2021/12/20/(3)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Función Pública"
+date: 2021-12-20
+published: 2022-01-19
+in_force_from: 2022-01-20
+last_amended: 2025-12-01
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 16"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-845"
+retrieved: 2026-10-11
+---
+
+# Resolución de 20 de diciembre de 2021, del Consorcio de la Zona Especial Canaria, por la que se publica el Acuerdo del Consejo Rector de 29 de noviembre de 2021, por el que se aprueba la Instrucción de organización interna y servicios
+
+El Consejo Rector de la Zona Especial Canaria, en sesión celebrada el día 29 de noviembre de 2021, adoptó, entre otros, el Acuerdo número 219.2021, del 29 de noviembre, del Consejo Rector del Consorcio de la Zona Especial Canaria por el que se aprueba la Instrucción de organización interna y servicios del Consorcio de la Zona Especial Canaria, cuya disposición tercera dispone la publicación del mismo en el «Boletín Oficial del Estado».
+
+Santa Cruz de Tenerife, 20 de diciembre de 2021.–El Presidente del Consorcio de la Zona Especial Canaria, Pablo Andrés Hernández González-Barreda.
+
+## ANEXO — Acuerdo número 219.2021, del 29 de noviembre, del Consejo Rector del Consorcio de la Zona Especial Canaria por el que se aprueba la Instrucción de organización interna y servicios del Consorcio de la Zona Especial Canaria
+
+El Consejo Rector del Consorcio de la Zona Especial Canaria, en sesión del 28 de noviembre de 2018, aprobó el Acuerdo-Instrucción de organización del Consorcio de la Zona Especial Canaria. En el mismo se organizaban los servicios del Consorcio en dos direcciones de agencia provinciales, con jefatura sobre todos los servicios del Consorcio, y una dirección de administración, de carácter horizontal.
+
+El 31 de marzo de 2021 aprobó el Consejo Rector estructurar el Consorcio de la Zona Especial Canaria en torno a dos direcciones de ámbito regional: la Dirección de Régimen Interior, Vigilancia y Supervisión, y la Dirección de Promoción y Servicios a Entidades ZEC. Dicha nueva estructura pretende superar la división provincial en tanto esta genera asimetrías de criterios y funcionamientos. Además, se pretende una mayor especialización en las funciones del Consorcio, de acuerdo con lo dispuesto en la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, así como garantizar una mayor independencia y ausencia de conflictos de intereses en los mismos, sin perjuicio de la necesaria coordinación y colaboración. La instrucción que se aprueba desarrolla y aplica esa estructura.
+
+Las letras h), e i) del artículo 38 de la mencionada Ley 19/1994 atribuye al Consejo Rector de la Zona Especial Canaria la competencia para dictar las instrucciones sobre el funcionamiento de la Zona Especial Canaria, así como establecer sus normas y las de sus órganos adscritos, en materia de gestión y funcionamiento interno. Del mismo modo, los apartados 1 a) y 2 del artículo 7 del Estatuto del Consejo Rector de la ZEC, aprobado por Real Decreto 1050/1995, de 23 de junio, establecen que corresponde al Consejo Rector organizar los servicios del Consorcio, así como estructurar los servicios del Consorcio.
+
+En virtud de lo anterior, el Consejo Rector, en sesión de 29 de noviembre de 2021, y a propuesta de su Presidente, acuerda:
+
+#### Primero. Aprobación de la Instrucción de estructura interna y servicios del Consorcio de la Zona Especial Canaria.
+
+Se aprueban la Instrucción reguladora de la estructura de los servicios del Consorcio de la Zona Especial Canaria.
+
+#### Segundo. Revocación.
+
+Quedan sin efectos los acuerdos del Consejo Rector de 28 de noviembre de 2018 de organización del Consorcio de la Zona Especial Canaria; de 21 de diciembre de 2018, sobre mecanismos de coordinación del Consorcio de la Zona Especial Canaria; así como cualesquiera otros que se opongan a lo señalado en el presente.
+
+#### Tercero. Publicidad.
+
+Disponer su publicación en el «Boletín Oficial del Estado» y en el «Boletín Oficial de Canarias».
+
+#### Cuarto. Efectos.
+
+Este Acuerdo surtirá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+## ANEXO — Instrucción de estructura interna y servicios del Consorcio de la Zona Especial Canaria
+
+## CAPÍTULO I — Estructura orgánica
+
+#### Artículo 1. Estructura general.
+
+1\. El CZEC se estructura en órganos unipersonales o colegiados:
+
+– De gobierno y administración,
+
+– Directivos y
+
+– Consultivos.
+
+2\. Los órganos directivos se adscriben a alguno de los órganos unipersonales de gobierno y administración.
+
+3\. Cada uno de los órganos unipersonales, de gobierno y administración o directivos se estructura, a su vez, en las unidades administrativas que se integran en los mismos, que vendrán determinadas por los servicios establecidos en el presente reglamento y las demás unidades que se contemplen en la relación de puestos de trabajo o plantillas correspondientes.
+
+#### Artículo 2. Órganos de gobierno y administración.
+
+1\. Son órganos de gobierno y administración del Consorcio de la Zona Espacial de Canarias (CZEC):
+
+– El Consejo Rector,
+
+– La Presidencia.
+
+2\. La Vicepresidencia podrá ejercer funciones como órgano de gobierno y administración cuando las mismas le sean delegadas por el Consejo Rector o por la Presidencia o le vengan atribuidas por el Estatuto del CZEC o el presente reglamento de organización interna.
+
+#### Artículo 3. Órganos directivos.
+
+Son órganos directivos del CZEC:
+
+− La Secretaría General.
+
+− La Dirección de registro, supervisión y control.
+
+− La Dirección de promoción y servicios a entidades ZEC.
+
+> Se modifica por el apartado 1 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 4. Órganos consultivos colegiados.
+
+1\. Son órganos consultivos colegiados:
+
+– La Comisión Técnica.
+
+– La Comisión Consultiva.
+
+2\. Los órganos consultivos colegiados estarán integrados por los miembros que se establecen en su normativa reguladora y se someten al régimen competencial y de funcionamiento que en las mismas se establezca
+
+#### Artículo 4.bis. Comité de Dirección.
+
+1\. Se crea el Comité de Dirección como órgano de coordinación y apoyo de la presidencia.
+
+2\. El Comité de Dirección estará integrado por las personas titulares de la presidencia, vicepresidencia y órganos directivos.
+
+3\. La actuación del Comité de Dirección estará orientada a asegurar la coordinación y buen gobierno del organismo, y su función será asesorar a la Presidencia en el ejercicio de sus funciones de dirección, coordinación, evaluación y supervisión de las distintas direcciones y unidades del Consorcio de la Zona Especial Canaria, sin perjuicio de las funciones del Consejo Rector.
+
+4\. La persona titular de la Presidencia determinará su régimen de funcionamiento y la periodicidad de las reuniones.
+
+5\. En su seno podrá crearse un Comité de organización al que asistirán, además de los miembros referidos en el número 2 de este artículo, las personas con rango de responsables de los servicios.
+
+6\. La asistencia a los órganos a que se refiere este artículo no devengará indemnizaciones por razón del servicio.
+
+> Se añade por el apartado 2 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+## CAPÍTULO II — De los órganos de gobierno y administración
+
+#### Artículo 5. Consejo Rector.
+
+La organización, funcionamiento y competencias del Consejo Rector se regirán por lo dispuesto en la Ley 19/1994, de 6 de julio, de modificación del régimen económico y fiscal de Canarias, en el Estatuto del Consejo Rector de la Zona Especial Canaria, aprobado por Real Decreto 1050/1995, de 23 de junio (ECR) y las demás disposiciones que le sean aplicables en cuanto órgano colegiado superior de un organismo público integrado en el sector público estatal.
+
+#### Artículo 6. Presidencia.
+
+1\. Sin perjuicio de las funciones inherentes a la presidencia del Consejo Rector, corresponden a la Presidencia del CZEC las siguientes:
+
+– La representación legal del organismo.
+
+– Las que le hayan sido delegadas y cuantas otras pudieran delegarse.
+
+– Las que otras normas con rango de Ley atribuyan a los Presidentes de organismos públicos vinculados o dependientes de la Administración General del Estado.
+
+2\. La Presidencia puede delegar el ejercicio de las funciones previstas en el apartado anterior en la Vicepresidencia o en los órganos directivos del organismo, a excepción de las competencias que resulten indelegables o que ejerza, a su vez, por delegación de otro órgano.
+
+#### Artículo 7. Vicepresidencia.
+
+Sin perjuicio de las funciones inherentes a la Vicepresidencia del Consejo Rector, corresponden a la Vicepresidencia del CZEC las siguientes:
+
+– La sustitución de la persona del Presidente CZEC en caso de ausencia, vacancia o enfermedad.
+
+– Las que le hayan sido delegadas, cuando corresponda su ejercicio, y cuantas otras pudieran delegarse.
+
+## CAPÍTULO III — Órganos directivos
+
+### Sección 1.ª De la Secretaría General
+
+> Se modifica el título por el apartado 3 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 8. Dependencia.
+
+La Secretaría General se adscribe orgánicamente al Consejo Rector, sin perjuicio de su dependencia funcional de los órganos de gobierno y administración cuyas competencias ejecute.
+
+> Se modifica por el apartado 4 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 9. Funciones.
+
+Corresponden a la Secretaría General las siguientes funciones:
+
+a) La asistencia técnica y jurídica a los órganos de gobierno y administración del organismo, y al resto de órganos directivos y unidades del organismo.
+
+b) La atención a la organización, la administración, coordinación y régimen de los diferentes servicios administrativos.
+
+c) La tramitación de los asuntos que se sometan a la aprobación o informe de los órganos colegiados de organismo, así como de las rendiciones de cuenta que procedan.
+
+d) La gestión de los procedimientos de contratación, convenios y conciertos que se celebren.
+
+e) La gestión presupuestaria y coordinación económico-financiera del organismo.
+
+f) La dirección y supervisión de la gestión de los ingresos y gastos del organismo.
+
+g) La administración de los recursos humanos del organismo, sin perjuicio de la dirección funcional del personal atribuida a las distintas direcciones, así como de la jefatura superior de personal de la Presidencia y del Consejo Rector.
+
+h) La tramitación, propuesta y ejecución de las competencias atribuidas en materia de personal a los órganos de gobierno y administración.
+
+i) La instrucción o, en su caso, soporte administrativo para la instrucción de los expedientes disciplinarios.
+
+j) La elaboración y, en su caso, seguimiento, de los planes estratégicos del organismo, integrando las iniciativas y propuestas de los centros directivos, sujeta su propuesta y aprobación a los órganos de gobierno y administración.
+
+k) La coordinación de las publicaciones.
+
+l) La dirección de los servicios informáticos.
+
+m) La coordinación y adopción de las medidas que sean precisas para el cumplimiento de las obligaciones legales en materia de transparencia, acceso a la información pública y protección de datos.
+
+n) La dirección y coordinación del servicio de información y atención ciudadana del organismo.
+
+ñ) La gestión, impulso y coordinación en materia patrimonial.
+
+o) La gestión documental y archivos.
+
+p) La tramitación de las iniciativas normativas propuestas por las distintas direcciones del organismo.
+
+q) La dirección y organización de los servicios generales de registro y archivo, así como la certificación de la documentación obrante en el organismo, a excepción de aquella relativa a los procedimientos de autorización e inscripción así con al Registro Oficial de Entidades ZEC. En el caso de documentación obrante en otras direcciones, podrá requerirse la previa conformidad de la dirección correspondiente.
+
+r) La dirección y organización de las oficinas y sus espacios, así como sus servicios generales de seguridad, vigilancia, conservación y mantenimiento.
+
+> Se modifica por el apartado 5 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 10. Servicios adscritos.
+
+La Secretaría General se estructura en las siguientes unidades administrativas:
+
+a) Administración.
+
+b) Servicio Jurídico.
+
+c) Informática.
+
+> Se modifica por el apartado 6 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+> Se modifica por el apartado 1 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 5 de julio de 2024. [Ref. BOE-A-2024-14601](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14601)
+
+#### Artículo 11. Administración.
+
+Administración es el servicio al que corresponde:
+
+a) La llevanza de la contabilidad.
+
+b) La planificación financiera y presupuestaria.
+
+c) La gestión de los ingresos y gastos.
+
+d) La gestión de recursos humanos.
+
+e) La tramitación de los procedimientos de contratación, con la asistencia del servicio jurídico.
+
+f) La gestión patrimonial.
+
+> Se modifica por el apartado 7 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+> Se modifica por el apartado 2 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 5 de julio de 2024. [Ref. BOE-A-2024-14601](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14601)
+
+#### Artículo 12. Servicio Jurídico.
+
+Corresponde al Servicio Jurídico las siguientes funciones:
+
+a) El asesoramiento jurídico, de carácter preceptivo o facultativo, a los órganos y servicios del organismo.
+
+b) La asistencia jurídica en la tramitación de los recursos administrativos y reclamaciones patrimoniales.
+
+c) La asistencia jurídica en materia de procedimientos sancionadores.
+
+d) La coordinación para el cumplimiento de las obligaciones legales en materia de transparencia, acceso a la información pública y protección de datos.
+
+e) La elaboración y tramitación de los convenios, acuerdos y conciertos que haya de suscribir el organismo.
+
+f) La elaboración de los informes de las disposiciones de carácter general que promuevan otras administraciones.
+
+g) El impulso de la contratación, junto con el servicio de administración.
+
+> Se modifica por el apartado 8 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 13. Unidad informática.
+
+La unidad informática es el servicio adscrito a la Secretaría General al que corresponde:
+
+a) La gestión del sistema informático del organismo.
+
+b) La gestión del sistema de telecomunicaciones del organismo.
+
+c) La interlocución con los servicios externos de informática y comunicaciones.
+
+d) La gestión de la seguridad de la información del organismo.
+
+e) La gestión y coordinación de los desarrollos informáticos, evolutivos y mantenimientos necesarios para la actividad del organismo.
+
+f) La prestación de asistencia informática a las direcciones y unidades del organismo, así como a su personal.
+
+g) La gestión del soporte informático de la página web y la presencia digital.
+
+> Se modifica por el apartado 9 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 14. Unidad de inspección, control y datos.
+
+**(Suprimido)**
+
+> Se suprime por el apartado 10 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+### Sección 2.ª De la Dirección de Promoción y Servicios a Entidades ZEC
+
+#### Artículo 15. Dependencia.
+
+La Dirección de promoción y servicios a entidades ZEC se adscribe orgánicamente al Consejo Rector, sin perjuicio de su dependencia funcional de los respectivos órganos de gobierno y administración cuyas competencias ejecute y cumplimente.
+
+#### Artículo 16. Funciones.
+
+Corresponden a la Dirección de promoción y servicios a entidades ZEC las siguientes funciones:
+
+a) La elaboración de las propuestas de promoción.
+
+b) La coordinación y dirección de la ejecución de la actividad de promoción.
+
+c) La elaboración y diseño del material de promoción.
+
+d) La dirección y coordinación de la actividad de comunicación.
+
+e) El diseño y coordinación de la inteligencia de promoción.
+
+f) El análisis y evaluación de modelos técnicos sectoriales de promoción del incentivo, junto con la dirección de régimen interior, supervisión y control.
+
+g) La atención o prestación de servicios relacionados con la implantación de las entidades ZEC en Canarias.
+
+#### Artículo 17. Organización de la dirección de promoción y servicios a entidades ZEC.
+
+1\. La Dirección de promoción y servicios a entidades ZEC se estructura en las siguientes áreas de coordinación:
+
+a) Área de Industrias, Puertos y Externalización de Servicios.
+
+b) Área de Tecnología e Innovación.
+
+2\. El área de industrias, puertos y externalización de servicios será responsable, bajo la dirección de promoción y servicios a entidades ZEC, de coordinar, impulsar y supervisar la actividad de promoción de las actividades económicas incardinables en:
+
+– Actividad marítima.
+
+– Actividades accesorias al turismo.
+
+– Actividades portuarias.
+
+– Aeroespacial.
+
+– Biotecnología.
+
+– Energías renovables.
+
+– Externalización de servicios y servicios compartidos.
+
+– Industria.
+
+– Microelectrónica.
+
+– Tecnologías médicas.
+
+– Cualquier otra actividad análoga a las anteriores.
+
+– Las actividades relativas a tecnología, informática e investigación y desarrollo que sean complementarias de, o se refieran, a un proyecto cuya actividad principal esté comprendida en las áreas anteriores.
+
+3\. El área de tecnología en innovación y será responsable, bajo la dirección de promoción y servicios a entidades ZEC, de coordinar, impulsar y supervisar la actividad de promoción de las actividades económicas incardinables en:
+
+– Arquitectura e ingeniería.
+
+– Audiovisual.
+
+– Ciberseguridad.
+
+– Innovación.
+
+– Investigación y desarrollo.
+
+– Tecnología.
+
+– Videojuegos.
+
+– Cualquier otra actividad análoga a las anteriores.
+
+4\. La cobertura de estos puestos se efectuará mediante el sistema de libre designación, de entre personal con la experiencia, categoría y titulación que corresponda, en su caso.
+
+> Se modifica por el apartado 3 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 5 de julio de 2024. [Ref. BOE-A-2024-14601](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14601)
+
+### Sección 3.ª De la Dirección de Registro, Supervisión y Control
+
+> Se añade por el apartado 11 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 17.bis. Dependencia.
+
+La Dirección de Registro, Supervisión y Control se adscribe orgánicamente al Consejo Rector, sin perjuicio de su dependencia funcional de órganos de gobierno y administración cuyas competencias ejecute.
+
+> Se añade por el apartado 12 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 17.ter. Funciones.
+
+Corresponden a la Dirección de Registro, Supervisión y Control las siguientes funciones:
+
+a) La gestión de los procedimientos de autorización previa y de inscripción en el Registro de Entidades de la Zona Especial Canaria.
+
+b) La gestión de los demás procedimientos y servicios del organismo vinculados a la autorización e inscripción, así como vinculados a las inscripciones registrales de proyectos y entidades.
+
+c) La dirección de la Oficina de gestión del Registro de Entidades de la Zona Especial Canaria, sin perjuicio de las competencias resolutorias atribuidas a los órganos de gobierno.
+
+d) La elaboración de los muestreos y listados de entidades a proponer para su inclusión en los planes de supervisión y control.
+
+e) La ejecución de los planes de supervisión y control de las entidades de la Zona Especial Canaria.
+
+f) La tramitación de los procedimientos sancionadores.
+
+g) La tramitación de las propuestas de circulares, instrucciones y protocolos que afecten a los procedimientos de autorización, inscripción y relacionados, al Registro Oficial de Entidades de la Zona Especial Canaria y a las funciones de supervisión y control del organismo.
+
+h) La coordinación y relación con otros organismos y órganos supervisores en materia de inspección y control.
+
+i) La gestión de datos y soporte estadístico.
+
+> Se añade por el apartado 13 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 17.quater. Servicios adscritos.
+
+La Dirección de Registro, Supervisión y Control se estructura en las siguientes unidades administrativas:
+
+a) Oficina del Registro Oficial de Entidades de la Zona Especial Canaria.
+
+b) Supervisión y control de entidades.
+
+c) Datos.
+
+> Se añade por el apartado 14 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 17.quinquies. Oficina del Registro Oficial de Entidades de la Zona Especial Canaria.
+
+La Oficina del Registro Oficial de Entidades de la Zona Especial Canaria es el servicio que gestiona y administra este Registro Oficial correspondiéndole:
+
+a) La certificación del contenido de los asientos registrales.
+
+b) La certificación de documentación relativa a los procedimientos de autorización, inscripción y los vinculados a ellos.
+
+c) La custodia de la documentación electrónico o física que da soporte a los asientos.
+
+d) La tramitación de los procedimientos de autorización e inscripción y los vinculados a ellos.
+
+e) La gestión de las comunicaciones que presenten las entidades de la Zona Especial Canaria.
+
+> Se añade por el apartado 15 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 17.sexies. Supervisión y control de entidades.
+
+Corresponde a la unidad de supervisión y control:
+
+a) La ejecución de los planes ordinarios y extraordinarios de control aprobados por el Consejo Rector.
+
+b) La tramitación de los procedimientos sancionadores que se incoen contra las entidades de la Zona Especial Canaria.
+
+c) La elaboración de los muestreos y listados de entidades a proponer para su inclusión en los planes de supervisión y control.
+
+d) La elaboración de protocolos y baremos para la aplicación del régimen sancionador previsto en la ley.
+
+e) La colaboración en materia de información con otros órganos supervisores de las distintas Administraciones públicas en relación con las entidades de la Zona Especial Canaria, en el marco, en su caso, de los convenios de cooperación que se suscriban.
+
+> Se añade por el apartado 16 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 17.septies. Unidad de datos.
+
+Corresponde a la unidad de datos la gestión de la actividad estadística del organismo que comprende la obtención, recopilación, organización y, en su caso, difusión y publicación de los datos extraídos del Registro Oficial de Entidades de la Zona Especial Canaria y, en general, de la actividad desarrollada por el organismo.
+
+> Se añade por el apartado 17 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+## CAPÍTULO IV — Del personal al servicio del Consorcio de la Zona Especial Canaria
+
+#### Artículo 18. Altos cargos.
+
+Tendrán la consideración de altos cargos los titulares de la Presidencia y Vicepresidencia del CZEC, a los que será de aplicación el régimen establecido para los altos cargos de la Administración del Estado y de las entidades del sector público estatal en la Ley 53/1984, de 26 de diciembre, Incompatibilidades del personal al servicio de las Administraciones Públicas.
+
+#### Artículo 19. Personal laboral de alta dirección.
+
+1\. Las personas titulares de la Secretaría General, la Dirección de Promoción y Servicios a Entidades ZEC y la Dirección de Registro, Supervisión y Control estarán vinculados con el organismo por contrato laboral de alta dirección y les será de aplicación lo dispuesto en el artículo 4 del Real Decreto 451/2021, 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades y demás normativa de aplicación, o norma que lo sustituya.
+
+2\. La selección de personal para la provisión del puesto de Secretaría General se realizará entre personal con estudios superiores en Derecho que pertenezcan a cuerpos de personal funcionario del Grupo A1 de la Administración General del Estado y de la Administración Pública de la Comunidad Autónoma de Canarias.
+
+> Se modifica por el apartado 18 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Artículo 20. Titulares de las unidades, áreas y servicios y resto de personal.
+
+1\. Las personas titulares de las unidades, áreas o servicios de rango inferior a Dirección tendrán la clasificación profesional de responsables y la consideración de personal directivo público profesional a los efectos de lo previsto en el libro segundo título IV del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo.
+
+2\. El resto del personal al servicio del consorcio estará vinculado por relación laboral o funcionarial, en los términos establecidos en la legislación especial reguladora del mismo y sometido al régimen general que para los mismos se establece en el Texto Refundido del Estatuto Básico de Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+> Se modifica por el apartado 4 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 5 de julio de 2024. [Ref. BOE-A-2024-14601](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14601)
+
+#### Artículo 21. Selección de personal.
+
+La contratación del personal directivo y selección del personal no directivo mediante las correspondientes convocatorias públicas corresponderá al Consejo Rector, que podrá delegar esta competencia en la Presidencia.
+
+#### Disposición adicional primera. Unidad de comunicación.
+
+Se adscribe a la Dirección de Promoción y Servicios a entidades ZEC la unidad de comunicación, a salvo los criterios generales de comunicación y la dirección de la comunicación institucional, en lo que dependerá funcionalmente de la Presidencia. Corresponden a la unidad de Comunicación las siguientes funciones:
+
+– La ejecución de la estrategia de comunicación del Consorcio.
+
+– La relación con los medios de comunicación.
+
+– La gestión de redes sociales y página web.
+
+– La asistencia a la presidencia y vicepresidencia en materia de comunicación.
+
+#### Disposición adicional segunda. Funciones de la Abogacía del Estado.
+
+Las funciones de asistencia y asesoramiento jurídico asignadas al Servicio Jurídico integrado en la Secretaría General se entenderán sin perjuicio de las que, en virtud de convenio, puedan asignarse a la Abogacía del Estado.
+
+> Se modifica por el apartado 19 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Disposición adicional tercera. Seguridad de la Información.
+
+1\. El Consejo Rector aprobará la política de seguridad de la Información del organismo como el conjunto de principios básicos y líneas de actuación a los que la organización se compromete en el marco del Esquema Nacional de Seguridad (ENS).
+
+2\. El documento aprobado contendrá la designación de quienes desempeñen los distintos roles de seguridad, con responsabilidades diferenciadas, como exige el Esquema Nacional de Seguridad.
+
+> Se modifica por el apartado 20 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)
+
+#### Disposición adicional cuarta. Conflictos positivos y negativos de competencia.
+
+En los supuestos de conflictos positivos y negativos de competencia internas resolverá el Presidente del Consorcio de la Zona Especial Canaria, oídos los órganos implicados.
+
+> Se modifica por el apartado 21 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. [Ref. BOE-A-2025-24339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24339)

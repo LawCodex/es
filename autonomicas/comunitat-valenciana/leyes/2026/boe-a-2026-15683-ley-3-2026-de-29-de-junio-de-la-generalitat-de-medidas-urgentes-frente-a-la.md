@@ -4405,124 +4405,117 @@ Trece. Se añade un nuevo anexo, con la siguiente redacción:
 
 > Trámite Decreto 128/2017
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">A</td>
-> <td class="cuerpo_tabla_izq" colspan="4">DATOS DE LA ENTIDAD CONCEDENTE</td>
+> <td>A</td>
+> <td colspan="4">DATOS DE LA ENTIDAD CONCEDENTE</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">
-> <p class="cuerpo_tabla_izq">CONSELLERIA, ENTIDAD O EMPRESA PÚBLICA QUE CONCEDE LA AYUDA</p>
+> <td colspan="3">
+> <p>CONSELLERIA, ENTIDAD O EMPRESA PÚBLICA QUE CONCEDE LA AYUDA</p>
 > </td>
-> <td class="cuerpo_tabla_izq" colspan="2">ÓRGANO GESTOR RESPONSABLE DE LA TRAMITACIÓN</td>
+> <td colspan="2">ÓRGANO GESTOR RESPONSABLE DE LA TRAMITACIÓN</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">
-> <p class="cuerpo_tabla_izq">NOMBRE Y APELLIDOS DE LA PERSONA/S DE CONTACTO</p>
+> <td colspan="2">
+> <p>NOMBRE Y APELLIDOS DE LA PERSONA/S DE CONTACTO</p>
 > </td>
-> <td class="cuerpo_tabla_izq" colspan="2">TELÉFONO</td>
-> <td class="cuerpo_tabla_izq">CORREO ELECTRÓNICO</td>
+> <td colspan="2">TELÉFONO</td>
+> <td>CORREO ELECTRÓNICO</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">B</td>
-> <td class="cuerpo_tabla_izq" colspan="4">DATOS DE LA MEDIDA DE AYUDA QUE SE ADJUNTA A ESTE ANEXO</td>
+> <td>B</td>
+> <td colspan="4">DATOS DE LA MEDIDA DE AYUDA QUE SE ADJUNTA A ESTE ANEXO</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">DENOMINACIÓN LITERAL COMPLETA El órgano gestor deberá reproducir en este apartado la denominación literal establecida en el instrumento jurídico que regula la ayuda</p>
-> <p class="cuerpo_tabla_izq">FECHA PREVISTA DE ENTRADA EN VIGOR</p>
-> <p class="cuerpo_tabla_izq">FINANCIACIÓN (seleccionar el origen de los fondos, los importes y los porcentajes aplicables)</p>
-> <p class="cuerpo_tabla_izq">Fondos propios de la GVA. Importe: %</p>
-> <p class="cuerpo_tabla_izq">Fondos estatales. Importe: %</p>
-> <p class="cuerpo_tabla_izq">Fondos europeos: Fondo Importe %</p>
-> <p class="cuerpo_tabla_izq">Otros casos (especificar):</p>
-> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">C</td>
-> <td class="cuerpo_tabla_izq" colspan="4">TRÁMITE DEL DECRETO 128/2017 AL QUE SE SOMETE LA MEDIDA DE AYUDA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">No sujeta – (artículo 4.5 Decreto 128/2017)</p>
-> <p class="cuerpo_tabla_izq">No sujeta con financiación europea – (artículo 4.4.b Decreto 128/2017)</p>
-> <p class="cuerpo_tabla_izq">No sujeta – Acogida a un régimen de minimis (artículo 4.4.a Decreto 128/2017)</p>
-> <p class="cuerpo_tabla_izq">Sujeta – Acogida a un régimen de exención (artículo 4.3.b Decreto 128/2017)</p>
-> <p class="cuerpo_tabla_izq">Sujeta – Acogida a un marco temporal o una Decisión de la Comisión (artículo 4.3.c Decreto 128/2017)</p>
-> <p class="cuerpo_tabla_izq">Sujeta - Notificación previa a la Comisión Europea (artículo 4.3.a Decreto 128/2017)</p>
+> <td colspan="5">
+> <p>DENOMINACIÓN LITERAL COMPLETA El órgano gestor deberá reproducir en este apartado la denominación literal establecida en el instrumento jurídico que regula la ayuda</p>
+> <p>FECHA PREVISTA DE ENTRADA EN VIGOR</p>
+> <p>FINANCIACIÓN (seleccionar el origen de los fondos, los importes y los porcentajes aplicables)</p>
+> <p>Fondos propios de la GVA. Importe: %</p>
+> <p>Fondos estatales. Importe: %</p>
+> <p>Fondos europeos: Fondo Importe %</p>
+> <p>Otros casos (especificar):</p>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">D</td>
-> <td class="cuerpo_tabla_izq" colspan="4">CALIFICACIÓN DE LA MEDIDA - NORMATIVA DE AYUDAS DE ESTADO DE APLICACIÓN</td>
+> <td>C</td>
+> <td colspan="4">TRÁMITE DEL DECRETO 128/2017 AL QUE SE SOMETE LA MEDIDA DE AYUDA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">(seleccionar y cumplimentar en concordancia con el trámite elegido en el apartado C)</p>
-> <p class="cuerpo_tabla_izq">AYUDAS NO SUJETAS.</p>
-> <p class="cuerpo_tabla_izq">Argumentación de la no sujeción al artículo 107.1 del TFUE El órgano gestor deberá reproducir en este apartado la argumentación de no sujeción establecida en el instrumento jurídico que regula la ayuda</p>
-> <p class="cuerpo_tabla_izq">Lista de comprobación para medidas que no reúnen los requisitos del artículo 107.1 del TFUE (se deberá responder a las preguntas en sentido positivo o negativo)</p>
-> <p class="cuerpo_tabla_izq">¿Es el receptor de la ayuda una ‘empresa’? Sí No</p>
-> <p class="cuerpo_tabla_izq">Es empresa una entidad que ejerce una actividad económica, independientemente de su condición jurídica y la manera en que es financiada</p>
-> <p class="cuerpo_tabla_izq">¿Implica el proyecto una transferencia de fondos públicos? Sí No</p>
-> <p class="cuerpo_tabla_izq">Hay transferencia cuando autoridades públicas conceden la ayuda o si nombran a entidades privadas o públicas para administrar la concesión</p>
-> <p class="cuerpo_tabla_izq">¿Existe alguna ventaja económica para el receptor de la ayuda? Sí No</p>
-> <p class="cuerpo_tabla_izq">Una ventaja es cualquier beneficio económico que una empresa no hubiera obtenido en condiciones de mercado normales</p>
-> <p class="cuerpo_tabla_izq">¿Es la ayuda ‘selectiva’? Sí No</p>
-> <p class="cuerpo_tabla_izq">Es selectiva si favorece a determinadas empresas o categorías de empresas o determinados sectores económicos.</p>
-> <p class="cuerpo_tabla_izq">¿Es posible que exista un falseamiento potencial de la competencia que afecte a los intercambios comerciales entre Estados Miembros? Sí No</p>
+> <td colspan="5">
+> <p>No sujeta – (artículo 4.5 Decreto 128/2017)</p>
+> <p>No sujeta con financiación europea – (artículo 4.4.b Decreto 128/2017)</p>
+> <p>No sujeta – Acogida a un régimen de minimis (artículo 4.4.a Decreto 128/2017)</p>
+> <p>Sujeta – Acogida a un régimen de exención (artículo 4.3.b Decreto 128/2017)</p>
+> <p>Sujeta – Acogida a un marco temporal o una Decisión de la Comisión (artículo 4.3.c Decreto 128/2017)</p>
+> <p>Sujeta - Notificación previa a la Comisión Europea (artículo 4.3.a Decreto 128/2017)</p>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">Existe una distorsión potencial cuando la financiación sea susceptible de mejorar la posición competitiva del receptor.</p>
-> <p class="cuerpo_tabla_izq">AYUDAS ACOGIDAS A UN RÉGIMEN de minimis (seleccionar el/los reglamentos aplicables)</p>
+> <td>D</td>
+> <td colspan="4">CALIFICACIÓN DE LA MEDIDA - NORMATIVA DE AYUDAS DE ESTADO DE APLICACIÓN</td>
+> </tr>
+> <tr>
+> <td colspan="5">
+> <p>(seleccionar y cumplimentar en concordancia con el trámite elegido en el apartado C)</p>
+> <p>AYUDAS NO SUJETAS.</p>
+> <p>Argumentación de la no sujeción al artículo 107.1 del TFUE El órgano gestor deberá reproducir en este apartado la argumentación de no sujeción establecida en el instrumento jurídico que regula la ayuda</p>
+> <p>Lista de comprobación para medidas que no reúnen los requisitos del artículo 107.1 del TFUE (se deberá responder a las preguntas en sentido positivo o negativo)</p>
+> <p>¿Es el receptor de la ayuda una ‘empresa’? Sí No</p>
+> <p>Es empresa una entidad que ejerce una actividad económica, independientemente de su condición jurídica y la manera en que es financiada</p>
+> <p>¿Implica el proyecto una transferencia de fondos públicos? Sí No</p>
+> <p>Hay transferencia cuando autoridades públicas conceden la ayuda o si nombran a entidades privadas o públicas para administrar la concesión</p>
+> <p>¿Existe alguna ventaja económica para el receptor de la ayuda? Sí No</p>
+> <p>Una ventaja es cualquier beneficio económico que una empresa no hubiera obtenido en condiciones de mercado normales</p>
+> <p>¿Es la ayuda ‘selectiva’? Sí No</p>
+> <p>Es selectiva si favorece a determinadas empresas o categorías de empresas o determinados sectores económicos.</p>
+> <p>¿Es posible que exista un falseamiento potencial de la competencia que afecte a los intercambios comerciales entre Estados Miembros? Sí No</p>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">Reglamento general de minimis</p>
-> <p class="cuerpo_tabla_izq">Reglamento de minimis aplicable al sector de la agricultura Reglamento de minimis aplicable al sector de la pesca y la acuicultura</p>
-> <p class="cuerpo_tabla_izq">Reglamento de minimis aplicable a los servicios de interés económico general – SIEG –</p>
-> <p class="cuerpo_tabla_izq">Otro Reglamento de minimis (especificar):</p>
-> <p class="cuerpo_tabla_izq">AYUDAS SUJETAS ACOGIDAS A UN RÉGIMEN DE EXENCIÓN (seleccionar el/los reglamentos aplicables) Reglamento general de exención</p>
-> <p class="cuerpo_tabla_izq">Reglamento de exención aplicable al sector de la agricultura Reglamento de exención aplicable al sector de la pesca y la acuicultura</p>
-> <p class="cuerpo_tabla_izq">Otro Reglamento de exención (especificar):</p>
-> <p class="cuerpo_tabla_izq">MARCO TEMPORAL O DECISIÓN DE LACOMISIÓN APLICABLE (especificar):</p>
+> <td colspan="5">
+> <p>Existe una distorsión potencial cuando la financiación sea susceptible de mejorar la posición competitiva del receptor.</p>
+> <p>AYUDAS ACOGIDAS A UN RÉGIMEN de minimis (seleccionar el/los reglamentos aplicables)</p>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">NOTIFICACION PREVIA A LA COMISIÓN</p>
-> <p class="cuerpo_tabla_izq">Directrices o normativa europea de aplicación (especificar):</p>
+> <td colspan="5">
+> <p>Reglamento general de minimis</p>
+> <p>Reglamento de minimis aplicable al sector de la agricultura Reglamento de minimis aplicable al sector de la pesca y la acuicultura</p>
+> <p>Reglamento de minimis aplicable a los servicios de interés económico general – SIEG –</p>
+> <p>Otro Reglamento de minimis (especificar):</p>
+> <p>AYUDAS SUJETAS ACOGIDAS A UN RÉGIMEN DE EXENCIÓN (seleccionar el/los reglamentos aplicables) Reglamento general de exención</p>
+> <p>Reglamento de exención aplicable al sector de la agricultura Reglamento de exención aplicable al sector de la pesca y la acuicultura</p>
+> <p>Otro Reglamento de exención (especificar):</p>
+> <p>MARCO TEMPORAL O DECISIÓN DE LACOMISIÓN APLICABLE (especificar):</p>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">E</td>
-> <td class="cuerpo_tabla_izq" colspan="4">DECLARACIÓN ÓRGANO GESTOR RESPONSABLE</td>
+> <td colspan="5">
+> <p>NOTIFICACION PREVIA A LA COMISIÓN</p>
+> <p>Directrices o normativa europea de aplicación (especificar):</p>
+> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">El órgano gestor que suscribe este formulario remite el instrumento jurídico que regula la medida de ayudas descrita, a efectos del cumplimiento de lo establecido en el artículo 4 del Decreto 128/2017 para dicho tipo de ayuda.</td>
+> <td>E</td>
+> <td colspan="4">DECLARACIÓN ÓRGANO GESTOR RESPONSABLE</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">F</td>
-> <td class="cuerpo_tabla_izq" colspan="4">FIRMA DEL ÓRGANO GESTOR RESPONSABLE (nombre y apellidos, cargo y firma)</td>
+> <td colspan="5">El órgano gestor que suscribe este formulario remite el instrumento jurídico que regula la medida de ayudas descrita, a efectos del cumplimiento de lo establecido en el artículo 4 del Decreto 128/2017 para dicho tipo de ayuda.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5"> </td>
+> <td>F</td>
+> <td colspan="4">FIRMA DEL ÓRGANO GESTOR RESPONSABLE (nombre y apellidos, cargo y firma)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="5">
-> <p class="cuerpo_tabla_izq">REMITIR AL SERVICIO DE COORDINACIÓN DE AYUDAS ESTATALES – DIRECCIÓN GENERAL DE FONDOS EUROPEOS Y SECTOR PÚBLICO. –</p>
-> <p class="cuerpo_tabla_izq">Los apartados A, B, C, D y F son de obligada cumplimentación.»</p>
+> <td colspan="5"> </td>
+> </tr>
+> <tr>
+> <td colspan="5">
+> <p>REMITIR AL SERVICIO DE COORDINACIÓN DE AYUDAS ESTATALES – DIRECCIÓN GENERAL DE FONDOS EUROPEOS Y SECTOR PÚBLICO. –</p>
+> <p>Los apartados A, B, C, D y F son de obligada cumplimentación.»</p>
 > </td>
 > </tr>
 > </tbody>
@@ -8842,53 +8835,48 @@ Catorce. Se añade un nuevo anexo con la siguiente redacción:
 
 > Se considerará cumplido este criterio cuando la población turística del municipio solicitante alcance como mínimo las 10.000 personas y, además, cumpla con las siguientes condiciones:
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="32%">
-> <col width="36%">
-> <col width="32%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="3">Cumplimiento criterio a)</th>
+> <th colspan="3">Cumplimiento criterio a)</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Población del municipio</th>
-> <th class="cabeza_tabla">PT en EXCELENCIA</th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">PT en RELEVANCIA</p>
-> <p class="cabeza_tabla">PT en SINGULARIDAD</p>
+> <th>Población del municipio</th>
+> <th>PT en EXCELENCIA</th>
+> <th>
+> <p>PT en RELEVANCIA</p>
+> <p>PT en SINGULARIDAD</p>
 > </th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Municipios de hasta 5.000 habitantes</td>
-> <td class="cuerpo_tabla_izq">PT igual o superior a 10 x PR</td>
-> <td class="cuerpo_tabla_izq" rowspan="5">PT igual o superior al 50 % de lo establecido para Excelencia</td>
+> <td>Municipios de hasta 5.000 habitantes</td>
+> <td>PT igual o superior a 10 x PR</td>
+> <td rowspan="5">PT igual o superior al 50 % de lo establecido para Excelencia</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Municipios de 5.001 a 50.000 habitantes</td>
-> <td class="cuerpo_tabla_izq">PT igual o superior a 50.000 + (PR – 5.000) x 5</td>
+> <td>Municipios de 5.001 a 50.000 habitantes</td>
+> <td>PT igual o superior a 50.000 + (PR – 5.000) x 5</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Municipios de 50.001 a 100.000 habitantes</td>
-> <td class="cuerpo_tabla_izq">PT igual o superior a 275.000 + (PR – 50.000) x 3</td>
+> <td>Municipios de 50.001 a 100.000 habitantes</td>
+> <td>PT igual o superior a 275.000 + (PR – 50.000) x 3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Municipios de 100.001 a 500.000 habitantes</td>
-> <td class="cuerpo_tabla_izq">PT igual o superior a 425.000 + (PR – 100.000) x 2</td>
+> <td>Municipios de 100.001 a 500.000 habitantes</td>
+> <td>PT igual o superior a 425.000 + (PR – 100.000) x 2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Municipios de más de 500.000 habitantes</td>
-> <td class="cuerpo_tabla_izq">PT igual o superior a 1.225.000 + (PR – 500.000)</td>
+> <td>Municipios de más de 500.000 habitantes</td>
+> <td>PT igual o superior a 1.225.000 + (PR – 500.000)</td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="3">
-> <p class="cita">PR: Población residente que figura en la revisión anual del padrón municipal.</p>
-> <p class="cita">PT: Población turística total.</p>
+> <p>PR: Población residente que figura en la revisión anual del padrón municipal.</p>
+> <p>PT: Población turística total.</p>
 > </td>
 > </tr>
 > </tfoot>
@@ -8908,75 +8896,66 @@ Catorce. Se añade un nuevo anexo con la siguiente redacción:
 
 > b) Plazas de alojamiento turístico y de segunda residencia:
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="15%">
-> <col width="22%">
-> <col width="63%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2">Categoría MT</th>
-> <th class="cabeza_tabla">Opción 1</th>
-> <th class="cabeza_tabla">Opción 2</th>
+> <th rowspan="2">Categoría MT</th>
+> <th>Opción 1</th>
+> <th>Opción 2</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Plazas de alojamiento reglado</th>
-> <th class="cabeza_tabla">Plazas de alojamiento reglado + Plazas de viviendas secundarias</th>
+> <th>Plazas de alojamiento reglado</th>
+> <th>Plazas de alojamiento reglado + Plazas de viviendas secundarias</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">MT EXCELENCIA</td>
-> <td class="cuerpo_tabla_izq">1000 plazas o más</td>
-> <td class="cuerpo_tabla_izq">Mínimo 500 plazas de alojamiento reglado + VS x media plazas (*) = 1.500 plazas o más</td>
+> <td>MT EXCELENCIA</td>
+> <td>1000 plazas o más</td>
+> <td>Mínimo 500 plazas de alojamiento reglado + VS x media plazas (*) = 1.500 plazas o más</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">MT RELEVANCIA</td>
-> <td class="cuerpo_tabla_izq">500 plazas o más</td>
-> <td class="cuerpo_tabla_izq">Mínimo 250 plazas de alojamiento reglado + VS x media plazas (*) = 750 plazas o más</td>
+> <td>MT RELEVANCIA</td>
+> <td>500 plazas o más</td>
+> <td>Mínimo 250 plazas de alojamiento reglado + VS x media plazas (*) = 750 plazas o más</td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col width="37%">
-> <col width="63%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Categoría MT</th>
-> <th class="cabeza_tabla">Plazas de alojamiento reglado + Plazas de viviendas secundarias</th>
+> <th>Categoría MT</th>
+> <th>Plazas de alojamiento reglado + Plazas de viviendas secundarias</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">MT SINGULARIDAD</p>
-> <p class="cuerpo_tabla_izq">Municipios de hasta 5.000 habitantes</p>
+> <td>
+> <p>MT SINGULARIDAD</p>
+> <p>Municipios de hasta 5.000 habitantes</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Mínimo 2 plazas de alojamiento reglado</td>
+> <td>Mínimo 2 plazas de alojamiento reglado</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">MT SINGULARIDAD</p>
-> <p class="cuerpo_tabla_izq">Municipios de 5.001 a 20.000 habitantes</p>
+> <td>
+> <p>MT SINGULARIDAD</p>
+> <p>Municipios de 5.001 a 20.000 habitantes</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Mínimo 125 plazas de alojamiento reglado + VS x media plazas (*) = 375 plazas o más</td>
+> <td>Mínimo 125 plazas de alojamiento reglado + VS x media plazas (*) = 375 plazas o más</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">MT SINGULARIDAD</p>
-> <p class="cuerpo_tabla_izq">Municipios de más de 20.000 habitantes</p>
+> <td>
+> <p>MT SINGULARIDAD</p>
+> <p>Municipios de más de 20.000 habitantes</p>
 > </td>
-> <td class="cuerpo_tabla_izq">Mínimo 200 plazas de alojamiento reglado + VS x media plazas (*) = 500 plazas o más</td>
+> <td>Mínimo 200 plazas de alojamiento reglado + VS x media plazas (*) = 500 plazas o más</td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="2">
-> <p class="cita">* Media plazas: media de plazas registradas a nivel provincial en la tipología de viviendas de uso turístico en el Registro de Turismo de la Comunitat Valenciana.</p>
+> <p>* Media plazas: media de plazas registradas a nivel provincial en la tipología de viviendas de uso turístico en el Registro de Turismo de la Comunitat Valenciana.</p>
 > </td>
 > </tr>
 > </tfoot>

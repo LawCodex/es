@@ -1420,16 +1420,6 @@ Los Colegios de la Abogacía, Procura y Graduados Sociales están obligados comu
 
 El sistema será además interoperable con los Registros administrativos de apoyo a la Administración de Justicia.
 
-> Téngase en cuenta que este apartado 3, modificado por la disposición final 29.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "3. El Registro de Datos de contacto electrónico con la Administración de Justicia dispondrá un sistema específico para la constancia registral de las circunstancias determinantes de la incapacidad para el ejercicio de la Abogacía, la Procura, o la profesión de Graduado Social, así como del plazo durante el que sean de aplicación, con indicación precisa de día inicial y día final.
-
-> Los Colegios de la Abogacía, Procura y Graduados Sociales están obligados comunicar estas circunstancias a la Administración de Justicia por medios electrónicos, en los términos que se determinen por normativa técnica.
-
-> El sistema será además interoperable con los Registros administrativos de apoyo a la Administración de Justicia."
-
 4\. Las personas no obligadas a relacionarse con la Administración de Justicia por medios electrónicos podrán proporcionar sus datos de carácter personal para que se incluyan en el Registro previsto en el presente artículo, pudiendo solicitar la eliminación de los mismos en cualquier momento.
 
 5\. El Registro de Datos de contacto electrónico con la Administración de Justicia será interoperable con el sistema de contactos de la Administración General del Estado en los términos que reglamentariamente se establezca.
@@ -1455,12 +1445,6 @@ El sistema será además interoperable con los Registros administrativos de apoy
 ###### Artículo 72. Cómputo de plazos.
 
 1\. Los registros electrónicos se regirán, a efectos de cómputo de los plazos imputables tanto a los presentadores como a las oficinas judiciales, por la fecha y hora oficial de la sede judicial electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y figurar visibles. El inicio del cómputo de los plazos que hayan de cumplir los órganos judiciales, oficinas judiciales y oficinas fiscales vendrá determinado por la fecha y hora de presentación en el propio registro.
-
-> Téngase en cuenta que este apartado 1, modificado por la disposición final 29.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "1. Los registros electrónicos se regirán, a efectos de cómputo de los plazos imputables tanto a las personas interesadas como a las oficinas judiciales, por la fecha y hora oficial de la sede judicial electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y figurar visibles. El inicio del cómputo de los plazos que hayan de cumplir los órganos judiciales, oficinas judiciales y oficinas fiscales vendrá determinado por la fecha y hora de presentación en el propio registro."
 
 2\. Los registros electrónicos permitirán la presentación de escritos, documentos y comunicaciones todos los días del año durante las veinticuatro horas.
 
@@ -1703,12 +1687,6 @@ Del mismo modo, los registros electrónicos a los que se refiere este precepto, 
 1\. Corresponde al Comité técnico estatal de la Administración judicial electrónica la elaboración y actualización de la política de seguridad de la información de la Administración de Justicia, en sus aspectos organizativos, técnicos, físicos y de cumplimiento de la normativa.
 
 2\. Esta política de seguridad de la información será de aplicación a todos los sistemas de información y comunicaciones que prestan servicios a la Administración de Justicia, de manera única, y será aprobada por el Comité técnico estatal de la Administración judicial electrónica y publicada en el Punto de Acceso General de la Administración de Justicia y en las sedes judiciales electrónicas.
-
-> Téngase en cuenta que este apartado 2, modificado por la disposición final 29.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según establece su disposición final 38.1.
-
-> Redacción anterior:
-
-> "2. Esta política de seguridad de la información será de aplicación a todos los sistemas de información y comunicaciones que prestan servicios a la Administración de Justicia, de manera única, y será aprobada por el Comité técnico estatal de la Administración judicial electrónica y publicada como acuerdo del órgano de cooperación en el «Boletín Oficial del Estado» y en los Boletines o Diarios Oficiales de las Comunidades Autónomas con competencias asumidas en materia de Justicia, así como en el Punto de Acceso General de la Administración de Justicia y en las sedes judiciales electrónicas."
 
 3\. Sin perjuicio de la declaración de conformidad y la certificación con el Esquema Nacional de Seguridad, los sistemas de información de la Administración de Justicia deberán acreditar su conformidad con el Esquema Judicial de Interoperabilidad y Seguridad, de acuerdo con los términos que se establezcan en el Comité técnico estatal de la Administración judicial electrónica.
 
@@ -4482,14 +4460,6 @@ Todo anteproyecto de ley de reformas de leyes procesales deberá ir acompañado,
 ###### Disposición adicional sexta. Instrumentos de desarrollo normativo aprobados por el Comité técnico estatal de la Administración judicial electrónica.
 
 Las guías de interoperabilidad y seguridad de las tecnologías de la información y las comunicaciones que sean aprobadas en el seno del Comité técnico estatal de la Administración judicial electrónica serán obligatorias para cada una de las instituciones y administraciones con competencias en materia de Justicia a través de sus instrumentos normativos, de conformidad con sus competencias.
-
-> Téngase en cuenta que esta modificación, establecida por la disposición final 29.4 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
-
-> Redacción anterior:
-
-> "**Disposición adicional sexta. Instrumentos de desarrollo normativo aprobados por el Comité técnico estatal de la Administración judicial electrónica.**
-
-> Las guías de interoperabilidad y seguridad de las tecnologías de la información y las comunicaciones que sean aprobadas en el seno del Comité técnico estatal de la Administración judicial electrónica serán obligatorias para cada una de las instituciones y administraciones con competencias en materia de Justicia a través de sus instrumentos normativos, de conformidad con sus competencias, y serán publicadas en sus Boletines o Diarios Oficiales correspondientes para su plena eficacia jurídica."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 29.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

@@ -88,16 +88,16 @@ El presente decreto legislativo y el texto refundido que aprueba entrarán en vi
 
 Santiago de Compostela, 28 de julio de 2011.
 
-<table class="sinbordes" border="0">
-<tbody class="firma_ministro">
+<table>
+<tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">El Presidente,</p>
-<p class="cuerpo_tabla_centro">Alberto Núñez Feijó</p>
+<p>El Presidente,</p>
+<p>Alberto Núñez Feijó</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">La Consejera de Hacienda,</p>
-<p class="cuerpo_tabla_centro">Marta Fernández Currás</p>
+<p>La Consejera de Hacienda,</p>
+<p>Marta Fernández Currás</p>
 </td>
 </tr>
 <tr>
@@ -1956,12 +1956,6 @@ Quedan exentos del pago de estas tasas:
 
 5\. Los juegos enumerados en el apartado 2 del artículo 2 de la Ley reguladora de los juegos de Galicia, con excepción de lo previsto en la letra g).
 
-> Téngase en cuenta que la modificación del punto 5 del apartado 1, establecida por la disposición final 6 de la Ley 3/2023, de 4 de julio, [Ref. BOE-A-2023-19355](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-19355), entra en vigor el 6 de octubre de 2023, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "5. Los juegos excluidos del ámbito de aplicación de la Ley reguladora del juego de Galicia."
-
 Dos. Base imponible.
 
 1\. Con carácter general, la base imponible vendrá constituida por el importe total de las cantidades que los jugadores o las jugadoras dediquen a su participación en los juegos.
@@ -2407,84 +2401,78 @@ Mientras resulte de aplicación el impuesto temporal de solidaridad de las grand
 
 Uno. La base liquidable del impuesto se gravará a los tipos de la siguiente escala:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">Tarifa</th>
+<th colspan="4">Tarifa</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Base liquidable</p>
-<p class="cabeza_tabla">Hasta euros</p>
+<th>
+<p>Base liquidable</p>
+<p>Hasta euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Cuota íntegra</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>Cuota íntegra</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Resto de base liquidable</p>
-<p class="cabeza_tabla">Hasta euros</p>
+<th>
+<p>Resto de base liquidable</p>
+<p>Hasta euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Tipo aplicable</p>
-<p class="cabeza_tabla">Porcentaje</p>
+<th>
+<p>Tipo aplicable</p>
+<p>Porcentaje</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">167.129,45</td>
-<td class="cuerpo_tabla_centro">0,20</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>167.129,45</td>
+<td>0,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">167.129,45</td>
-<td class="cuerpo_tabla_coma">334,26</td>
-<td class="cuerpo_tabla_coma">167.123,43</td>
-<td class="cuerpo_tabla_centro">0,30</td>
+<td>167.129,45</td>
+<td>334,26</td>
+<td>167.123,43</td>
+<td>0,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">334.252,88</td>
-<td class="cuerpo_tabla_coma">835,63</td>
-<td class="cuerpo_tabla_coma">334.246,87</td>
-<td class="cuerpo_tabla_centro">0,50</td>
+<td>334.252,88</td>
+<td>835,63</td>
+<td>334.246,87</td>
+<td>0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">668.499,75</td>
-<td class="cuerpo_tabla_coma">2.506,86</td>
-<td class="cuerpo_tabla_coma">668.499,76</td>
-<td class="cuerpo_tabla_centro">0,90</td>
+<td>668.499,75</td>
+<td>2.506,86</td>
+<td>668.499,76</td>
+<td>0,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">1.336.999,51</td>
-<td class="cuerpo_tabla_coma">8.523,36</td>
-<td class="cuerpo_tabla_coma">1.336.999,50</td>
-<td class="cuerpo_tabla_centro">1,30</td>
+<td>1.336.999,51</td>
+<td>8.523,36</td>
+<td>1.336.999,50</td>
+<td>1,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">2.673.999,01</td>
-<td class="cuerpo_tabla_coma">25.904,35</td>
-<td class="cuerpo_tabla_coma">2.673.999,02</td>
-<td class="cuerpo_tabla_centro">1,70</td>
+<td>2.673.999,01</td>
+<td>25.904,35</td>
+<td>2.673.999,02</td>
+<td>1,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">5.347.998,03</td>
-<td class="cuerpo_tabla_coma">71.362,33</td>
-<td class="cuerpo_tabla_coma">5.347.998,03</td>
-<td class="cuerpo_tabla_centro">2,10</td>
+<td>5.347.998,03</td>
+<td>71.362,33</td>
+<td>5.347.998,03</td>
+<td>2,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">10.695.996,06</td>
-<td class="cuerpo_tabla_coma">183.670,29</td>
-<td class="cuerpo_tabla_coma">En adelante</td>
-<td class="cuerpo_tabla_centro">3,50</td>
+<td>10.695.996,06</td>
+<td>183.670,29</td>
+<td>En adelante</td>
+<td>3,50</td>
 </tr>
 </tbody>
 </table>

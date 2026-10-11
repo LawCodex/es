@@ -1112,12 +1112,6 @@ c) También quedan sometidas al derecho público las relaciones jurídicas exter
 
 4\. Sin perjuicio de que el personal de la Agencia de Residuos de Cataluña pueda ser contratado en régimen laboral o funcionarial, el régimen jurídico y la clasificación del personal de la Agencia de Residuos de Cataluña, y del que en el futuro se incorpore, se rigen por las disposiciones que les sean de aplicación atendiendo a su procedencia y a la naturaleza de su relación de empleo.
 
-> Téngase en cuenta que la actualización de este apartado, establecida por la disposición final 5 de la Ley 8/2026, de 2 de julio. [Ref. BOE-A-2026-17836](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17836), entra en vigor el 3 de octubre de 2026, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "4. Sin perjuicio que el personal de la Agencia de Residuos de Cataluña pueda ser contratado en régimen laboral, el régimen jurídico y la clasificación del personal de la Agencia de Residuos de Cataluña, y del que en el futuro se incorpore, se rigen por las disposiciones que le sean aplicables atendiendo a su procedencia y a la naturaleza de su relación de ocupación."
-
 > Se modifica el apartado 4, con efectos de 3 de octubre de 2026, por la disposición final 5 de la Ley 8/2026, de 2 de julio. [Ref. BOE-A-2026-17836](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17836)
 
 ###### Artículo 67. Régimen de recursos.

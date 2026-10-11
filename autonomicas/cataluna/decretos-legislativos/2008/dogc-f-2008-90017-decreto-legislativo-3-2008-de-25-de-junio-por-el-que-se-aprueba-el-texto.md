@@ -10253,8 +10253,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 
 ### CAPÍTULO XI — Tasa por la ejecución de obras, de edificaciones y de instalaciones en el dominio público portuario
 
-> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10262,14 +10260,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 #### Artículo 25.11-1. Hecho imponible.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.11-1. Hecho imponible.**
-
-> Constituye el hecho imponible de la tasa la tramitación de expedientes instados ante el Departamento de Política Territorial y Obras Públicas relativos a autorizaciones de obras, edificaciones e instalaciones en el dominio público portuario en puertos en régimen de concesión."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10279,14 +10269,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.11-2. Sujeto pasivo**.
-
-> Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del correspondiente expediente."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10294,14 +10276,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 #### Artículo 25.11-3. Devengo.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.11-3. Devengo.**
-
-> La tasa se devenga en el momento en que se formula la solicitud."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10311,18 +10285,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.11-4. Base imponible, tipo de gravamen y cuota.**
-
-> Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto. La determinación de la cuantía de la tasa (t, en euros) es la raíz cúbica del cuadrado del presupuesto (p, en euros) de ejecución material del proyecto, de acuerdo con la fórmula siguiente:
-
-> t = p 2/3
-
-> La cuantía de la tasa no puede ser inferior a 306 euros."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10330,14 +10292,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 #### Artículo 25.11-5. Exenciones.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.11-5. Exenciones.**
-
-> Está exenta de la tasa la tramitación de expedientes relativos a autorizaciones de obras de mantenimiento, reparación y rehabilitación de una concesión administrativa."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10385,8 +10339,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 
 ### CAPÍTULO XIV — Tasa por la tramitación de transmisión de concesiones relativas al dominio público portuario
 
-> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10394,14 +10346,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 #### Artículo 25.14-1. Hecho imponible.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.14-1. Hecho imponible.**
-
-> Constituye el hecho imponible de la tasa la tramitación de expedientes instados delante del Departamento de Política Territorial y Obras Públicas relativos a la transmisión de concesiones relativas al dominio público portuario."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10411,14 +10355,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.14-2. Sujeto pasivo.**
-
-> Es sujeto pasivo de la tasa la persona jurídica, pública o privada, que solicita la tramitación del correspondiente expediente."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10427,14 +10363,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.14-3. Devengo.**
-
-> La tasa se devenga en el momento en que se formula la solicitud."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre.[Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10442,14 +10370,6 @@ Están exentas del pago de la tasa por este concepto las administraciones públi
 #### Artículo 25.14-4. Cuota.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.14-4. Cuota.**
-
-> La cuota de la tasa es de 1.071,65 euros."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10733,8 +10653,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 ### CAPÍTULO XXI — Tasa por la ocupación privativa del dominio público portuario adscrito a servicios portuarios de la Generalidad de Cataluña
 
-> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10744,14 +10662,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 #### Artículo 25.21-1. Hecho imponible.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.21-1. Hecho imponible.**
-
-> El hecho imponible de la tasa consiste en la ocupación de cualquier bien de dominio público portuario en virtud de una autorización o una concesión otorgada por la Administración de la Generalidad."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10765,14 +10675,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.21-2. Sujeto pasivo.**
-
-> Tienen la condición de sujetos pasivos de la tasa las personas físicas o jurídicas y las entidades a las que se refiere el artículo 35.4 de la Ley del Estado 58/2003, de 17 de diciembre, general tributaria, que llevan a cabo la ocupación del dominio público portuario en virtud de una autorización o una concesión otorgada por la Administración de la Generalidad de Cataluña."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10785,20 +10687,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.21-3. Exenciones.**
-
-> Están exentos de esta tasa:
-
-> a) La Cruz Roja del Mar respecto a las actividades propias que tiene encomendadas esta institución en materia de salvamento marítimo.
-
-> b) Las entidades sin finalidades lucrativas legalmente constituidas, cuya actividad esté exclusivamente vinculada a la atención de tripulantes y pasajeros.
-
-> c) La Administración general del Estado y las comunidades autónomas que llevan a cabo actividades de vigilancia, de represión de contrabando, de salvamento y de lucha contra la contaminación marina y las relacionadas con la defensa nacional."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10809,32 +10697,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.21-4. Acreditación y exigibilidad.**
-
-> 1\. El período impositivo de esta tasa coincide con el año natural. Sin embargo, el período impositivo debe ser inferior al año en los siguientes casos:
-
-> a) Si la ocupación del dominio público portuario tiene un plazo de duración inferior al año.
-
-> b) Si el primer año de ocupación del dominio público portuario no tiene como día inicial el 1 de enero.
-
-> c) En caso de cese en la ocupación del dominio público portuario en un momento anterior al 31 de diciembre del año en curso.
-
-> En el caso al que se refiere la letra a, el período impositivo coincide con el determinado en el título habilitante correspondiente. En los casos a los que se refieren las letras b y c, el período impositivo debe comprender el período de tiempo durante el que se ocupe el dominio público portuario en el año de referencia.
-
-> 2\. Esta tasa se merita en el momento en que se inicia la ocupación de los bienes de dominio público portuario. Este momento, a tal efecto, se entiende que coincide con la fecha de formalización del título habilitante correspondiente. Sin embargo, si la ocupación del dominio público portuario ha sido autorizada durante más de un año, la meritación del segundo ejercicio y de los ejercicios siguientes debe tener lugar el 1 de enero de cada año.
-
-> 3\. Si la ocupación del dominio público portuario empieza una vez iniciado el año natural, hay que liquidar la cuota proporcional correspondiente al número de meses que quedan para finalizar el período impositivo, incluido el de la fecha de ocupación. Asimismo, si el plazo de vigencia del título habilitante es inferior a un año hay que liquidar la cuota proporcional correspondiente al número de meses autorizados.
-
-> 4\. En caso de cese en la ocupación antes de la finalización del período impositivo, la cuota debe prorratearse por meses naturales, excluido el mes en el que se produzca esta circunstancia. A tal efecto, debe considerarse como fecha de cese la fecha de la resolución que decreta la extinción del título que habilita para la ocupación del dominio público portuario y los obligados tributarios pueden solicitar la devolución de la parte de la cuota correspondiente a los meses naturales que quedan hasta el 31 de diciembre. Esta misma regla debe aplicarse en caso de extinción anticipada de los títulos habilitantes cuya duración sea inferior a un año.
-
-> 5\. La cuota íntegra de la tasa debe determinarse de acuerdo con los elementos de cuantificación vigentes en el momento de su meritación. Cuando la ocupación del dominio público portuario haya sido autorizada durante más de un año, la cuota íntegra de la tasa en el segundo ejercicio y en los ejercicios siguientes debe determinarse de acuerdo con los elementos de cuantificación vigentes el 1 de enero de cada año.
-
-> 6\. El pago de la deuda tributaria debe efectuarse por adelantado. Si la duración del título habilitante de la ocupación del dominio público portuario excede de un año, la deuda debe satisfacerse con periodicidad semestral."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10844,31 +10706,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 #### Artículo 25.21-5. Base imponible y tipo de gravamen.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.21-5. Base imponible y tipo de gravamen.**
-
-> 1\. La base imponible de la tasa está constituida por el valor de mercado de los bienes de dominio público portuario ocupados y se debe tener en cuenta la modalidad del bien de dominio público afectado. Mientras el departamento competente en materia portuaria no apruebe la valoración de mercado de los bienes de dominio público portuario tutelado por la dirección general competente en materia de puertos, debe utilizarse como valor de referencia la media del valor de mercado de los bienes de dominio público adscritos a Puertos de la Generalidad, en los siguientes términos:
-
-> – Valor medio del metro cuadrado o lineal de terrenos: 467,40 euros.
-
-> – Valor medio del metro cuadrado o lineal de lámina de agua: 15,74 euros.
-
-> – Valor medio del metro cuadrado o lineal de las obras e instalaciones: 1.000,27 euros.
-
-> La superficie de dominio público portuario ocupada se computa en metros cuadrados. Sin embargo, cuando la ocupación se efectúa mediante tuberías, líneas, canalizaciones y otros elementos de carácter similar, se computa en metros lineales.
-
-> 2\. El tipo de gravamen de la tasa se establece en función del tipo de uso portuario asignado al bien de dominio público portuario ocupado y de la modalidad del bien afectado, de acuerdo con el siguiente cuadro:
-
-> | Clase de uso | Terreno<br>-<br>% | Agua<br>-<br>% | Obras<br>-<br>% |
-> |---|---|---|---|
-> | Náutico deportivo | 3,00 | 2,70 | 3,30 |
-> | Pesquero | 2,00 | 1,80 | 2,20 |
-> | Atípico | 5,00 | 4,50 | 5,50 |
-> | Puerto deportivo íntegro en régimen de concesión | 3,00 | 2,70 | 3,30" |
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10882,42 +10719,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.21-6. Cuota tributaria.**
-
-> 1\. La cuota íntegra de la tasa se determina multiplicando el valor del metro cuadrado o lineal de la modalidad de dominio público portuario por el número de metros cuadrados o lineales realmente ocupados y por el tipo de gravamen. Si la base imponible y el tipo de gravamen aplicables a los bienes ocupados son diferentes, hay que calcular la cuota íntegra correspondiente a cada uno de modo independiente y sumar los resultados.
-
-> 2\. Reducciones de la cuota íntegra:
-
-> 2.1. La cuota íntegra de la tasa se reduce un 50 % si solamente se ocupan zonas de playa.
-
-> 2.2. La cuota íntegra de la tasa se reduce un 50 % si solamente se ocupan el vuelo o el subsuelo de los terrenos, o espacios sumergidos. Esta reducción no es aplicable si se impide la utilización de la superficie.
-
-> 2.3. La cuota íntegra de la tasa se puede reducir un 20 % en ocupaciones de superficie superiores a los 5.000 m2 destinadas a la actividad náutica deportiva y a la reparación y conservación de embarcaciones.
-
-> 3\. Bonificaciones.
-
-> 3.1 Bonificación por inversión: los obligados tributarios que realicen una inversión económica en el dominio público portuario consistente en obras vinculadas a la potenciación de la actividad náutica deportiva que afecten a la infraestructura portuaria y a la superestructura para potenciar la mejora y calidad del servicio pueden solicitar la aplicación de una bonificación del 1% de la cuota íntegra de la tasa por cada 200.000 euros objeto de inversión. Esta bonificación puede aplicarse durante todo el plazo de concesión.
-
-> 3.2 Bonificaciones para potenciar prácticas medioambientales e incentivar la calidad en la prestación de servicios: los obligados tributarios que acrediten la implantación de un sistema de gestión y auditoría medioambiental según el reglamento europeo EMAS o dispongan de un sistema de gestión medioambiental según la norma internacional ISO 14001 pueden solicitar la aplicación de una bonificación de la cuota íntegra de la tasa del 15% o del 10%, respectivamente, de forma no acumulativa. Si se dispone de la ISO 9001 de calidad, la bonificación es del 5%, acumulable a las anteriores. Esta bonificación debe aplicarse durante todo el plazo de concesión siempre y cuando las certificaciones estén en vigor.
-
-> En el caso de obligados tributarios que correspondan a puertos gestionados totalmente en régimen de concesión que, por la gestión de toda la instalación portuaria, dispongan del sistema de gestión y auditoría ambientales según el reglamento europeo EMAS o dispongan de un sistema de gestión medioambiental o de calidad según las normas internacionales ISO 14001 e ISO 9001 pueden solicitar la aplicación de una bonificación de la cuota íntegra de la tasa del 40%, del 30% o del 5%, respectivamente, de forma no acumulativa. Esta bonificación debe aplicarse durante todo el plazo de concesión siempre y cuando las certificaciones estén en vigor.
-
-> 3.3 Bonificación por fomento de la vela: los obligados tributarios que destinen espacios para el fomento de la vela pueden solicitar la aplicación de una bonificación del 50% del cómputo de los metros cuadrados destinados a esta actividad.
-
-> 3.4 Bonificación a la pesca artesanal en los puertos deportivos: los obligados tributarios que destinen espacios al mantenimiento de la actividad tradicional de pesca artesanal pueden solicitar la aplicación de una bonificación del 90% del cómputo de los metros cuadrados destinados a esta actividad, con la obligación de repercutir la bonificación en las cuotas que se giren por ocupación a los pescadores debidamente acreditados.
-
-> 3.5 Bonificación a las superficies destinadas a áreas técnicas o varaderos en los puertos deportivos gestionados íntegramente bajo el régimen de concesión: los obligados tributarios correspondientes a puertos deportivos gestionados totalmente bajo el régimen de concesión pueden solicitar la aplicación de una bonificación del 50% en el cómputo de la superficie no edificada que corresponda a área técnica o varadero y que se destine al mantenimiento y reparación de embarcaciones como actividad complementaria del puerto.
-
-> 3.6 Bonificación especial por mantenimiento de playas: los puertos deportivos que participan activamente en el mantenimiento de los tramos de costa de su entorno pueden solicitar la aplicación de una bonificación del 5% de la cuota íntegra de la tasa por cada 200.000 euros de inversión en este mantenimiento, que no esté previsto en las obligaciones de concesión. Esta bonificación puede aplicarse durante todo el plazo de concesión.
-
-> 3.7 Límite máximo de bonificaciones: la acumulación de las bonificaciones establecidas en los apartados 3.1 y 3.2 no puede exceder el 50% de la cuota íntegra.
-
-> El conjunto total de bonificaciones de los apartados 3.1, 3.2 y 3.6 no puede exceder el 75% de la cuota íntegra."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10927,8 +10728,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 > Se añade por el art. 32 de la Ley 7/2011, de 27 de julio. [Ref. BOE-A-2011-13896](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13896).
 
 ### CAPÍTULO XXII — Tasa por la ejecución de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres
-
-> Téngase en cuenta que este capítulo se deroga por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), desde el 30 de marzo de 2020, según establece su disposición final 2.1.
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10940,14 +10739,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.22-1. Hecho imponible.**
-
-> Constituye el hecho imponible de la tasa la tramitación de expedientes instados ante el Departamento de Territorio y Sostenibilidad relativos a autorizaciones de obras e instalaciones en la franja de servicio náutico de las marinas interiores de las urbanizaciones marítimo-terrestres."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10957,14 +10748,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 #### Artículo 25.22-2. Sujeto pasivo.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.22-2. Sujeto pasivo.**
-
-> Es sujeto pasivo de la tasa la persona física o jurídica, pública o privada, que solicita la tramitación del expediente correspondiente."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
@@ -10976,14 +10759,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.22-3. Acreditación.**
-
-> La tasa se acredita en el momento en que se formula la solicitud."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -10994,18 +10769,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.22-4. Base imponible, tipo de gravamen y cuota.**
-
-> Constituye la base imponible el importe del presupuesto total de ejecución material del proyecto. La determinación de la cuantía de la tasa (t, en euros) se obtiene mediante la multiplicación de la raíz cúbica del cuadrado de la base imponible (p, en euros) por un coeficiente de 0,5, de acuerdo con la siguiente fórmula:
-
-> t = 0,5 p<sup>2/3</sup>
-
-> La cuantía de la tasa no puede ser inferior a 66,30 euros."
-
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 
 > Téngase en cuenta que esta derogación entra en vigor el 30 de marzo de 2020, según establece la disposición final 2.1 de la citada ley.
@@ -11015,14 +10778,6 @@ b) Por ocupaciones superiores a un año: 386,92 euros.
 #### Artículo 25.22-5. Exenciones.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo establecida por la disposición derogatoria 1.d) de la por Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443), entra en vigor el 30 de marzo de 2020, según determina su disposición final 2.1:
-
-> Redacción anterior:
-
-> **"Artículo 25.22-5. Exenciones.**
-
-> Está exenta de la tasa la tramitación de expedientes relativos a autorizaciones de obras de mantenimiento, reparación y rehabilitación de una concesión administrativa, y las ejecutadas por el ayuntamiento para instalar mobiliario urbano cara a la integración urbanística."
 
 > Se deroga por la disposición derogatoria 1.d) de la Ley 10/2019, de 23 de diciembre. [Ref. BOE-A-2020-443](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-443).
 

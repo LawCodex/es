@@ -2496,16 +2496,6 @@ Todas las entidades citadas en este artículo podrán personarse en los procesos
 
 3\. Dicha tasa será de aplicación en todo el territorio nacional de acuerdo con lo previsto en el artículo 124, y sin perjuicio de las facultades que correspondan a las Comunidades Autónomas.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "1. Se crea la tasa por prestación de servicios y realización de actividades de la Administración General del Estado en materia de medicamentos, productos sanitarios, productos cosméticos y productos de cuidado personal.
-
-> 2\. El tributo regulado en este título se regirá por lo establecido en esta ley, en su defecto, por la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, y disposiciones reglamentarias de desarrollo.
-
-> 3\. Dicha tasa será de aplicación en todo el territorio nacional de acuerdo con lo previsto en el artículo 124, y sin perjuicio de las facultades que correspondan a las comunidades autónomas."
-
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
 > Esta modificación entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
@@ -2513,12 +2503,6 @@ Todas las entidades citadas en este artículo podrán personarse en los procesos
 #### Artículo 120. Hecho imponible.
 
 Constituye el hecho imponible de la tasa la prestación o realización, por los órganos competentes de la Administración General del Estado, de los servicios o actividades a que se refiere el artículo 123 relativos a medicamentos legalmente reconocidos, productos sanitarios, productos cosméticos y productos de cuidado personal, laboratorios farmacéuticos y entidades de distribución.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "Constituye el hecho imponible de la tasa la prestación o realización, por los órganos competentes de la Administración General del Estado, de los servicios o actividades a que se refiere el artículo 123 relativas a medicamentos legalmente reconocidos, productos sanitarios, productos cosméticos y productos de cuidado personal, laboratorios farmacéuticos y entidades de distribución."
 
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
@@ -2540,24 +2524,6 @@ Constituye el hecho imponible de la tasa la prestación o realización, por los 
 
 7\. Estarán exentos de pago de tasas los estudios clínicos que se correspondan con la definición de “investigación clínica sin ánimo comercial” conforme al artículo 2.2.e) del Real Decreto 1090/2015, de 4 de diciembre, por el que se regulan los ensayos clínicos con medicamentos, los Comités de Ética de la Investigación con medicamentos y el Registro Español de Estudios Clínicos.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "1. Estarán exentas las prestaciones de servicios o realización de actividades relativas a la fabricación de «medicamentos sin interés comercial» a que se refiere el artículo 3.3.
-
-> 2\. Estarán exentos los servicios y actividades por modificaciones en el material de acondicionamiento que tengan como objeto hacer efectiva la impresión en lenguaje braille, de acuerdo con lo previsto en el artículo 15.5.
-
-> 3\. Estarán exentos del pago de la tasa correspondiente los servicios y actividades relativas a medicamentos de terapia avanzada que hayan de ser realizadas por entidades de naturaleza pública integradas en el Sistema Nacional de Salud así como aquellos que no vayan destinados a la comercialización de dichos productos.
-
-> 4\. Estarán exentas parcialmente del pago de la tasa correspondiente las modificaciones o variaciones de autorizaciones concedidas por la Agencia Española de Medicamentos y Productos Sanitarios cuando deriven necesariamente de la aprobación, por norma reglamentaria, de una nueva regulación general. La tasa se reducirá en un 95 % de la cuantía establecida en cada caso.
-
-> 5\. Estarán exentos parcialmente del pago de la tasa correspondiente los titulares de autorizaciones de comercialización en medicamentos autorizados cuando, por razones de interés sanitario, la Agencia Española de Medicamentos y Productos Sanitarios o la Comisión Europea inste su modificación. La tasa se reducirá en un noventa y cinco por ciento de la cuantía establecida en cada caso.
-
-> 6\. Se aplicará a los medicamentos veterinarios destinados exclusivamente a mercados limitados y a las especies incluidas en los apartados c y d del artículo 39.1 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, sobre medicamentos veterinarios y por el que se deroga la Directiva 2001/82/CE, una exención del 70 % de las tasas correspondientes a las autorizaciones de comercialización, modificaciones de la autorización de comercialización que exijan evaluación, asesoramientos científicos, productos en fase de investigación clínica veterinaria, ensayos clínicos veterinarios, estudios posautorización, certificados de liberación oficial de lote según los artículos 127 y 128 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, mantenimiento en el mercado de medicamentos veterinarios autorizados por procedimiento nacional, de reconocimiento mutuo o descentralizado, así como a los procedimientos de reexamen y de armonización de los resúmenes de las características de los medicamentos veterinarios que establece el Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018. La exención prevista en este apartado no se aplicará al procedimiento de transmisión de titularidad.
-
-> 7\. Estarán exentas parcialmente del pago de la tasa correspondiente las asesorías científicas sobre medicamentos que incluyan únicamente preguntas relacionadas con el desarrollo pediátrico. La tasa se reducirá en un 95 % de la cuantía establecida en cada caso."
-
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
 > Esta modificación entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
@@ -2567,12 +2533,6 @@ Constituye el hecho imponible de la tasa la prestación o realización, por los 
 #### Artículo 122. Sujeto pasivo.
 
 Serán sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación de los servicios o la realización de las actividades que constituyen el hecho imponible.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "Serán sujetos pasivos de la tasa las personas físicas o jurídicas que soliciten la prestación de los servicios o la realización de las actividades que constituyen el hecho imponible."
 
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
@@ -2767,370 +2727,6 @@ Los tramos en función del número de UDI-DIs serán los siguientes:
 
 15\. La cuantía de las tasas por los servicios y actividades de la Administración General del Estado en materia de medicamentos, productos sanitarios, productos cosméticos y productos de cuidado personal, de acuerdo con lo previsto en la Ley 8/1989, de 13 de abril, podrá modificarse a través de la Ley de Presupuestos Generales del Estado.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "1. La cuantía de cada tasa en euros será:
-
-> Grupo I. Medicamentos de uso humano.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> |  | *Evaluación, autorización e inscripción de nuevos medicamentos* |  |
-> | 1.1 | Tasa por la evaluación, autorización e inscripción en el registro de un nuevo medicamento de uso humano (expediente de autorización presentado según el artículo 17, excepto el contemplado en el artículo 17.3). | 20.734,46 |
-> | 1.2 | Tasa por la evaluación, autorización e inscripción en el registro de un nuevo medicamento de uso humano genérico (expediente de autorización presentado según el artículo 17.3). | 8.434,22 |
-> | 1.3 | Tasa por la evaluación, autorización e inscripción en el registro de un nuevo gas medicinal. | 8.434,22 |
-> |  | *Transmisión de titularidad de un medicamento de uso humano* |  |
-> | 1.4 | Tasa por el procedimiento de transmisión de la titularidad de la autorización de un medicamento de uso humano, o por modificación del representante del titular. | 704,55 |
-> |  | *Evaluación, autorización e inscripción en el registro de una variación de un medicamento de uso humano* |  |
-> | 1.5 | Tasa por el procedimiento de modificación de la autorización de un medicamento de uso humano, calificada como de «importancia mayor» tipo II. | 7.122,25 |
-> | 1.6 | Tasa por el procedimiento de modificación de la autorización de un medicamento de uso humano, calificada como tipo IB. | 1.249,22 |
-> | 1.7 | Tasa por el procedimiento de modificación de la autorización de un medicamento de uso humano, calificada de tipo IA (incluida las tipo IA de notificación inmediata). | 724,42 |
-> |  | *Procedimientos de renovación de la autorización de comercialización* |  |
-> | 1.8 | Tasa por el procedimiento de renovación de la autorización de un medicamento de uso humano. | 2.342,71 |
-> |  | *Tasa anual de mantenimiento de medicamentos autorizados* |  |
-> | 1.9 | Tasa anual simple de un medicamento de uso humano ya autorizado. | 373,70 |
-> |  | *Tasas por importaciones paralelas* |  |
-> | 1.10 | Tasa por el procedimiento de autorización para la «importación paralela» de un medicamento de uso humano. | 905,45 |
-> | 1.11 | Tasa por el procedimiento de modificación de la autorización para la « importación paralela» de un medicamento de uso humano. | 366,49 |
-> | 1.12 | Tasa por el procedimiento de renovación de la autorización para la «importación paralela» de un medicamento de uso humano. | 366,49 |
-> | 1.13 | Tasa por notificación de importación. | 359,04 |
-> |  | *Tasas por liberación de lotes de vacunas, hemoderivados y graneles* |  |
-> | 1.14 | Tasa por la expedición de certificado europeo de liberación de lote para vacunas y hemoderivados de uso humano cuando se requiere el análisis de un medicamento por lote. | 1.212,00 |
-> | 1.15 | Tasa por liberación de lotes de hemoderivados y vacunas de acuerdo con los artículos 41.4 y 43.3 del Real Decreto 1345/2007, de 11 de octubre:. |  |
-> |  | (a) cada solicitud individualizada. | 101,00 |
-> |  | (b) entre 6 y 10 solicitudes/año (por año). | 505,00 |
-> |  | (c) entre 11 y 40 solicitudes/año (por año). | 1.515,00 |
-> |  | (d) entre 41 y 160 solicitudes/año (por año). | 3.535,00 |
-> |  | (e) por más de 160 solicitudes/año (por año). | 5.050,00 |
-> | 1.16 | Tasa por la expedición certificado europeo de liberación de lote para vacunas y hemoderivados de uso humano cuando se requiere el análisis de un granel (por granel). | 339,36 |
-> |  | *Tasa por la evaluación de innovaciones galénicas* |  |
-> | 1.17 | Tasa por la evaluación de una solicitud de declaración de innovación galénica de interés terapéutico. | 984,04 |
-> |  | *Tasa aplicable a la exportación* |  |
-> | 1.18 | Autorizaciones de exportación, a países intracomunitarios y terceros países, de medicamentos estupefacientes y psicótropos. | 171,70 |
-> |  | *Otras* |  |
-> | 1.19 | Tasa para las actuaciones previstas en el artículo 123.6. | 366,49 |
-> | 1.20 | Tasa por la reserva de una vacante para actuar como Estado miembro de Referencia en un procedimiento descentralizado o de reconocimiento mutuo. | 757,50 |
-
-> Grupo II. Medicamentos alérgenos.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> |  | *Evaluación, autorización e inscripción en el registro de un nuevo medicamento alérgeno de uso humano para uso diagnóstico* |  |
-> | 2.1 | Tasa por el Procedimiento Nacional. | 860,93 |
-> |  | *Transmisión de titularidad de un medicamento alérgeno para uso diagnóstico* |  |
-> | 2.2 | Tasa por el procedimiento de transmisión de la titularidad de la autorización de un medicamento alérgeno para uso diagnóstico. | 472,46 |
-> |  | *Evaluación, autorización e inscripción en el registro de una variación de un medicamento alérgeno para uso diagnóstico* |  |
-> | 2.3 | Tasa por el procedimiento de modificación de la autorización de un medicamento alérgeno para uso diagnóstico, calificada como de «importancia mayor» tipo II. | 502,74 |
-> | 2.4 | Tasa por el procedimiento de modificación de la autorización de un medicamento alérgeno para uso diagnóstico, definida como tipo IB. | 88,19 |
-> | 2.5 | Tasa por el procedimiento de modificación de la autorización un medicamento alérgeno para uso diagnóstico, calificada de tipo IA (incluida las tipo IA de notificación inmediata). | 51,14 |
-> |  | *Procedimientos de renovación de la autorización de comercialización* |  |
-> | 2.6 | Tasa por el procedimiento de renovación de la autorización de un medicamento alérgeno para uso diagnóstico. | 307,38 |
-> |  | *Tasa anual de mantenimiento de medicamentos alérgenos autorizados* |  |
-> | 2.7 | Tasa anual simple de un medicamento alérgeno para uso diagnóstico ya autorizado. | 373,70 |
-> |  | *Tasa por liberación de graneles* |  |
-> | 2.8 | Tasa por autorización de graneles. | 614,77 |
-
-> Grupo III. Medicamentos de plantas medicinales.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> |  | *Evaluación, autorización e inscripción en el registro de un nuevo medicamento tradicional a base de plantas (MTP)* |  |
-> | 3.1 | Tasa por un procedimiento simplificado nacional. | 2.186,94 |
-> |  | *Evaluación, autorización e inscripción en el registro de una variación de un medicamento tradicional a base de plantas (MTP)* |  |
-> | 3.2 | Tasa por el procedimiento de modificación de la autorización un medicamento tradicional a base de plantas (MTP). | 338,98 |
-> |  | *Evaluación, autorización e inscripción en el registro de un nuevo medicamento de uso humano a base de plantas por uso bien establecido* |  |
-> | 3.3 | Tasa por el Procedimiento Nacional, excepto epígrafe 3.1. | 8.434,22 |
-> |  | *Transmisión de titularidad de medicamentos a base de plantas* |  |
-> | 3.4 | Tasa por el procedimiento de transmisión de la titularidad de la autorización de un medicamento tradicional a base de plantas (MTP) o un medicamento a base de plantas autorizado por uso bien establecido. | 704,55 |
-> |  | *Evaluación, autorización e inscripción en el registro de una variación de un medicamento a base de plantas* |  |
-> | 3.5 | Tasa por el procedimiento de modificación de la autorización de un medicamento de uso humano a base de plantas, calificada como de «importancia mayor» tipo II. | 1.249,22 |
-> | 3.6 | Tasa por el procedimiento de modificación de la autorización de un medicamento de uso humano a base de plantas, calificada como tipo IB. | 557,67 |
-> | 3.7 | Tasa por el procedimiento de modificación de la autorización de un medicamento de uso humano a base de plantas, calificada de tipo IA (incluida las tipo IA de notificación inmediata). | 317,85 |
-> |  | *Procedimientos de renovación de la autorización de comercialización* |  |
-> | 3.8 | Tasa por el procedimiento de renovación de la autorización de un medicamento tradicional a base de plantas (MTP). | 307,38 |
-> | 3.9 | Tasa por el procedimiento de renovación de la autorización de un medicamento a base de plantas autorizado por uso bien establecido. | 1.522,95 |
-> |  | *Tasas anuales de mantenimiento de medicamentos a base de plantas autorizados* |  |
-> | 3.10 | Tasa anual simple de un medicamento tradicional a base de plantas (MTP) ya autorizado. | 373,70 |
-> | 3.11 | Tasa anual simple de un medicamento a base de plantas autorizado por uso bien establecido. | 373,70 |
-
-> Grupo IV. Medicamentos homeopáticos de uso humano y veterinarios.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> |  | *Evaluación, autorización e inscripción en el registro de un nuevo medicamento homeopático sin indicación terapéutica aprobada* |  |
-> |  | Tasa por un procedimiento simplificado nacional: |  |
-> | 4.1 | Una sola cepa. | 596,69 |
-> | 4.2 | Entre dos y cinco cepas. | 745,85 |
-> | 4.3 | Más de seis cepas. | 932,32 |
-> |  | *Evaluación, autorización e inscripción en el registro de una variación de un medicamento homeopático sin indicación terapéutica aprobada* |  |
-> | 4.4 | Tasa por el procedimiento de modificación de la autorización de un medicamento homeopático sin indicación terapéutica aprobada. | 329,01 |
-> |  | *Evaluación, autorización e inscripción en el registro de un nuevo medicamento homeopático con indicación terapéutica aprobada* |  |
-> | 4.5 | Tasa por el Procedimiento Nacional. | 8.434,22 |
-> |  | *Transmisión de titularidad de un medicamento homeopático con o sin indicación terapéutica aprobada* |  |
-> | 4.6 | Tasa por el procedimiento de transmisión de la titularidad de la autorización de un medicamento homeopático con o sin indicación terapéutica aprobada, o por modificación del representante del titular. | 704,55 |
-> |  | *Evaluación, autorización e inscripción en el registro de una variación de un medicamento homeopático con indicación terapéutica aprobada* |  |
-> | 4.7 | Tasa por el procedimiento de modificación de la autorización de un medicamento homeopático con indicación terapéutica aprobada, calificada como de «importancia mayor» tipo II. | 1.249,22 |
-> | 4.8 | Tasa por el procedimiento de modificación de la autorización de un medicamento homeopático con indicación terapéutica aprobada, calificada como tipo IB. | 557,67 |
-> | 4.9 | Tasa por el procedimiento de modificación de la autorización de un medicamento homeopático con indicación terapéutica aprobada, calificada de tipo IA (incluida las tipo IA de notificación inmediata). | 317,85 |
-> |  | *Procedimientos de Renovación de la autorización de comercialización* |  |
-> | 4.10 | Tasa por el procedimiento de renovación de la autorización de un medicamento homeopático sin indicación terapéutica aprobada. | 307,38 |
-> | 4.11 | Tasa por el procedimiento de renovación de la autorización de un medicamento homeopático con indicación terapéutica aprobada. | 1.522,95 |
-> |  | *Tasas anuales de mantenimiento de medicamentos homeopáticos autorizados* |  |
-> | 4.12 | Tasa anual simple de un medicamento homeopático sin indicación terapéutica aprobada ya autorizado. | 90,90 |
-> | 4.13 | Tasa anual simple de un medicamento homeopático de uso humano con indicación terapéutica aprobada ya autorizado. | 373,70 |
-
-> Grupo V. Investigación clínica.
-
-> <table border="0" class="tabla">
-> <tbody>
-> <tr>
-> <td>
-> <p class="cabeza_tabla">Epígrafe</p>
-> </td>
-> <td>
-> <p class="cabeza_tabla">Descripción</p>
-> </td>
-> <td>
-> <p class="cabeza_tabla">Euros</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_der">5.1</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Tasa por un procedimiento de evaluación del primer ensayo clínico con medicamentos no autorizados en un país perteneciente a la Conferencia Internacional de armonización (ICH) con principios activos o combinaciones de principios activos no autorizados en España.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">4.242,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_der">5.2</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Tasa por el procedimiento:</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro"> </p>
-> </td>
-> </tr>
-> <tr>
-> <td rowspan="4">
-> <p class="cuerpo_tabla_centro"> </p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">a) De autorización de un ensayo clínico con un medicamento autorizado en un país perteneciente a la Conferencia Internacional de armonización (ICH), que no sea España.</p>
-> </td>
-> <td rowspan="4">
-> <p class="cuerpo_tabla_der">404,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">b) De autorización de ensayos clínicos con medicamentos no autorizados en algún país perteneciente a la Conferencia Internacional de armonización (ICH), posteriores al primer ensayo clínico incluido en el epígrafe 5.1.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">c) De autorización de un ensayo clínico con las características indicadas en el epígrafe 5.1 en los casos de una reiteración de la solicitud de autorización cuando el resultado de la primera solicitud fue un desistimiento o la no autorización del ensayo.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">d) De autorización de un ensayo clínico con un medicamento no autorizado en un país perteneciente a la Conferencia Internacional de armonización (ICH) con principios activos autorizados en España.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_der">5.3</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Tasa por el procedimiento:</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_centro"> </p>
-> </td>
-> </tr>
-> <tr>
-> <td rowspan="2">
-> <p class="cuerpo_tabla_centro"> </p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">a) De autorización de un ensayo clínico con medicamentos autorizados e inscritos en España, con independencia del etiquetado específico de éstos para el ensayo.</p>
-> </td>
-> <td rowspan="2">
-> <p class="cuerpo_tabla_der">112,30</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">b) De autorización de un ensayo clínico cuyo promotor sea un investigador o grupo de investigadores en los que un Servicio de Farmacia sea el encargado de elaborar o enmascarar los medicamentos en investigación.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_der">5.4</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Procedimiento de calificación como producto en fase de investigación clínica de un medicamento veterinario no autorizado en España.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">278,17</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_der">5.5</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_izq">Tasa por procedimiento de ensayo clínico veterinario.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">112,30</p>
-> </td>
-> </tr>
-> </tbody>
-> </table>
-
-> Grupo VI. Laboratorios farmacéuticos, fabricantes, importadores o distribuidores de principios activos y otras entidades que desarrollen actividades con medicamentos o principios activos.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> | 6.1 | Procedimiento de autorización de apertura de un laboratorio farmacéutico. | 5.916,36 |
-> | 6.2 | Procedimiento de modificación de la autorización de un laboratorio farmacéutico por cambios menores en la misma. | 329,01 |
-> | 6.3.a) | Procedimiento de modificación de la autorización de un laboratorio farmacéutico por cambios mayores en la misma cuando las actuaciones inspectoras no incluyan visita de inspección. | 3.896,36 |
-> | 6.3.b) | Procedimiento de modificación de la autorización de un laboratorio farmacéutico por cambios mayores en la misma cuando las actuaciones inspectoras incluyan visita de inspección. | 5.916,36 |
-> | 6.4.a) | Actuaciones inspectoras individualizadas, salvo en los supuestos de denuncia o a petición de una asociación de usuarios o consumidores representativa, en el ámbito nacional. | 5.004,97 |
-> | 6.4.b) | Actuaciones inspectoras individualizadas, salvo en los supuestos de denuncia o a petición de una asociación de usuarios o consumidores representativa, en terceros países. | 10.908,00 |
-> | 6.4.c) | Actuaciones inspectoras individualizadas en terceros países, no preceptivas, a solicitud del interesado. | 20.200,00 |
-> | 6.5 | Procedimiento de autorización de fabricación de medicamentos aprobados en otros países y no registrados en España. | 643,22 |
-> | 6.6 | Procedimiento de autorización de fabricación excepcional por terceros de medicamentos de uso humano y/o veterinario. | 329,01 |
-> | 6.7 | Procedimiento de autorización y/o certificación de almacenes de medicamentos bajo control o vigilancia aduanera. | 1.313,00 |
-> | 6.8 | Resolución de autorización de cultivos de plantas que puedan destinarse a la fabricación de medicamentos estupefacientes y psicótropos. | 606,00 |
-> | 6.9 | Inscripción inicial, notificación de modificaciones preceptivas o actualización anual del registro de empresas fabricantes, importadoras o distribuidoras de principios activos. | 808,00 |
-> | 6.10 | Inscripción en el registro de personas dedicadas a la intermediación en la distribución de medicamentos de uso humano. | 252,50 |
-
-> Grupo VII. Certificaciones e informes.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> | 7.1 | Tasa por la expedición de una certificación. | 141,86 |
-> | 7.2 | Tasa por asesoramientos científicos para medicamentos que incluyan preguntas multidisciplinares sobre (a) calidad, seguridad y desarrollo clínico, o (b) calidad y desarrollo clínico, o (c) seguridad y desarrollo clínico, o (d) asesoría pre-remisión de un expediente. | 4.224,39 |
-> | 7.3 | Tasa por asesoramientos científicos para medicamentos que incluyan preguntas sobre (a) desarrollo clínico, o (b) calidad y seguridad, o (c) calidad y estudios de bioequivalencia en el caso de medicamentos genéricos. | 2.112,20 |
-> | 7.4 | Tasa por asesoramientos científicos para medicamentos que incluyan preguntas sobre (a) calidad, o (b) seguridad, o (c) estudios de bioequivalencia en el caso de medicamentos genéricos. | 633,66 |
-> | 7.5 | Tasa por asesoramiento de seguimiento de los supuestos incluidos en el epígrafe 7.2. | 2.112,20 |
-> | 7.6 | Tasa por asesoramiento de seguimiento de los supuestos incluidos en el epígrafe 7.3. | 1.056,10 |
-> | 7.7 | Tasa por asesoramiento de seguimiento de los supuestos incluidos en el epígrafe 7.4. | 316,83 |
-> | 7.8 | Tasa por asesoramiento para la clasificación de variaciones no clasificadas según el artículo 5, y para agrupamiento de variaciones, según el artículo 7 del Reglamento (CE) n.º 1234/2008 de la Comisión Europea. | 344,41 |
-> | 7.9 | Tasa por asesoramientos científicos sobre medicamentos para uso pediátrico en cualquiera de los supuestos incluidos en los epígrafes anteriores. | 205,01 |
-> | 7.10 | Asesoramiento científico/técnico sobre el diseño de instalaciones y procesos de fabricación de acuerdo con las normas de correcta fabricación. | 492,01 |
-
-> Grupo VIII. Productos sanitarios, cosméticos y productos de cuidado personal.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> | 8.1 | Procedimiento de declaración especial de cosméticos. | 487,90 |
-> | 8.2 | Procedimiento de registro y autorización individualizada para productos de cuidado personal y desinfectantes. | 487,90 |
-> | 8.3 | Procedimiento de registro e inscripción de productos sanitarios. | 101,00 |
-> | 8.4 | Procedimiento de modificación y convalidación de productos de cuidado personal y desinfectantes. | 170,02 |
-> | 8.5 | Procedimiento de expedición de una certificación. | 147,82 |
-> | 8.6 | Procedimiento de comprobación y control de la declaración responsable de la actividad de fabricación de productos cosméticos y de cuidado personal. | 717,08 |
-> | 8.7 | Procedimiento de comprobación y control de la declaración responsable de la actividad de importación de productos cosméticos y de cuidado personal. | 369,63 |
-> | 8.8 | Procedimiento de comprobación y control de la declaración responsable de modificaciones de la actividad de fabricación de productos cosméticos y de cuidado personal. | 369,63 |
-> | 8.9 | Procedimiento de comprobación y control de la declaración responsable de modificaciones de la actividad de importación de productos cosméticos y de cuidado personal. | 170,02 |
-> | 8.10 | Actuaciones inspectoras individualizadas para la comprobación de la declaración responsable. | 717,08 |
-> | 8.11 | Procedimiento de autorización de confidencialidad de ingredientes cosméticos. | 487,90 |
-> | 8.12 | Procedimiento de licencia previa de funcionamiento de productos sanitarios y desinfectantes: establecimiento de fabricación, agrupación. | 717,08 |
-> | 8.13 | Procedimiento de licencia previa de funcionamiento de productos sanitarios y desinfectantes: establecimiento de importación. | 369,63 |
-> | 8.14 | Procedimiento de modificación de la licencia previa de funcionamiento de establecimientos de productos sanitarios y desinfectantes en lo referente a su emplazamiento: establecimiento de fabricación, agrupación. | 717,08 |
-> | 8.15 | Procedimiento de modificación de la licencia previa de funcionamiento de establecimientos de productos sanitarios y desinfectantes en lo referente a su emplazamiento: establecimiento de importación. | 369,63 |
-> | 8.16 | Procedimiento de modificación de la licencia previa de funcionamiento de establecimientos de productos sanitarios y desinfectantes. | 170,02 |
-> | 8.17 | Procedimiento de revalidación de la licencia de establecimientos de productos sanitarios y desinfectantes: establecimiento de fabricación. | 517,47 |
-> | 8.18 | Procedimiento de revalidación de la licencia de establecimientos de productos sanitarios y desinfectantes: establecimiento de importación. | 317,88 |
-> | 8.19 | Autorización de investigaciones clínicas de productos sanitarios. | 808,00 |
-> | 8.20 | Informe de evaluación de principio activo incorporado en un producto sanitario. | 1.478,50 |
-> | 8.21 | Procedimiento de modificación de productos sanitarios. | 60,60 |
-
-> Grupo IX. Medicamentos veterinarios:
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> | 9.1 | Tasa por solicitud de autorización de comercialización de un medicamento veterinario, excepto para las solicitudes contempladas en el artículo 33.3. | 15.429,90 |
-> | 9.2 | Tasa por solicitud de autorización de comercialización de un medicamento veterinario genérico (expediente presentado según el artículo 33.3). | 6.454,23 |
-> | 9.3 | Tasa por solicitud de registro de un medicamento veterinario mediante un procedimiento simplificado especial. | 1.218,42 |
-> | 9.4 | Tasa por el procedimiento de transmisión de la titularidad de la autorización de un medicamento veterinario. | 396,64 |
-> | 9.5 | Tasa por el procedimiento de modificación que exige evaluación de la autorización de un medicamento veterinario. | 4.958,29 |
-> | 9.6 | Tasa por el procedimiento de modificación que exige evaluación para el procedimiento simplificado especial. | 620,05 |
-> | 9.7 | Tasa por el procedimiento de autorización para el comercio paralelo de un medicamento veterinario. | 1.346,17 |
-> | 9.8 | Tasa anual de mantenimiento de un medicamento veterinario autorizado. | 846,77 |
-> | 9.9 | Tasa anual de mantenimiento de un medicamento veterinario registrado por procedimiento simplificado especial y autorizado para comercio paralelo. | 169,35 |
-> | 9.10 | Tasa por expedición de certificado europeo liberación oficial de lote para medicamentos inmunológicos veterinarios según el artículo 128.1 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018. | 481,30 |
-> | 9.11 | Tasa por expedición de certificado europeo liberación oficial de lote para medicamentos inmunológicos veterinarios según el artículo 128.3 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018. | 1.248,72 |
-> | 9.12 | Tasa por la reserva de una vacante para actuar España como Estado miembro de referencia en un procedimiento descentralizado o de reconocimiento mutuo. | 470,45 |
-
-> Grupo X. Procedimientos de financiación con cargo a fondos públicos y fijación de precio de productos sanitarios.
-
-> | Epígrafe | Descripción | Euros |
-> |---|---|---|
-> | 10.1 | Procedimiento de inclusión de un producto sanitario en la prestación farmacéutica del Sistema Nacional de Salud. | 347,90 |
-> | 10.2 | Procedimiento de exclusión de un producto sanitario en la prestación farmacéutica del Sistema Nacional de Salud. | 347,90 |
-
-> 2\. A los efectos del apartado anterior, se entenderá por extensión de línea de medicamentos de uso humano la segunda y sucesivas solicitudes de autorización e inscripción en el registro de otras formas farmacéuticas, vías de administración y concentración de un medicamento ya autorizado e inscrito.
-
-> La cuantía de la tasa de las extensiones de línea será del setenta por ciento de la primera autorización del medicamento.
-
-> Constituirán una extensión de línea aquellas modificaciones de los medicamentos de uso humano que requieran la presentación de una nueva solicitud de autorización, de acuerdo con la norma europea que regula las modificaciones de autorización de medicamentos otorgadas por la autoridad competente de un Estado miembro.
-
-> Lo dispuesto en los párrafos anteriores referentes a las extensiones de línea es aplicable también cuando el medicamento no está todavía autorizado y se presentan en paralelo extensiones de línea de una solicitud principal.
-
-> A los efectos del apartado anterior, se entenderá por expediente simplificado especial de un medicamento veterinario aquel cuya solicitud se corresponda con el artículo 5.6 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, los medicamentos inmunológicos alérgenos para diagnóstico *in vivo,* inmunoterapia y graneles.
-
-> A los efectos de la tasa descrita en el epígrafe 8.1, tiene la consideración de:
-
-> a) «Producto cosmético sometido a declaración especial», aquel que, previa la autorización correspondiente de la Agencia Española de Medicamentos y Productos Sanitarios, incluye en su composición colorantes, agentes conservadores o filtros ultravioletas, no incluidos entre las sustancias admitidas como componentes de los productos cosméticos.
-
-> b) «Familia de productos sanitarios», el conjunto de productos sanitarios que, perteneciendo a la misma categoría, se destinan a aplicaciones sanitarias idénticas o similares.
-
-> 3\. La cuantía de las tasas por los servicios y actividades de la Administración General del Estado en materia de medicamentos, productos sanitarios, productos cosméticos y productos de cuidado personal, de acuerdo con lo previsto en la Ley 8/1989, de 13 de abril, podrá modificarse a través de la Ley de Presupuestos Generales del Estado.
-
-> 4\. Cuando la evaluación y control de un medicamento o producto sanitario requiera actuaciones en el extranjero o costes excepcionales, las correspondientes tasas se liquidarán sobre el coste real del servicio en que consiste el supuesto que determina su exigencia.
-
-> Igualmente se liquidarán sobre el coste real del servicio los gastos de desplazamiento, estancia y ensayos derivados de las actuaciones previstas en los epígrafes 6.1, 6.4 a), b) y c), 8.22, 8.24, 8.26, 8.27, 8.28, 8.29, 8.30 y 10.1.
-
-> 5\. Cuando en el procedimiento de autorización e inscripción en el registro de un medicamento de uso humano o veterinario, que se corresponde con las tasas previstas en los epígrafes 1.1, 1.2, 1.3, 1.5, 9.1, 9.2 y 9.4, la solicitud presentada sea rechazada en la fase de validación, se procederá a la devolución de un setenta por ciento de la cuantía total de la tasa.
-
-> A los efectos de lo establecido en la presente ley, se entiende por validación la acción de carácter administrativo, desarrollada con el propósito de verificar que la solicitud reúne todos los requisitos necesarios para realizar la prestación del servicio o realización de la actividad administrativa.
-
-> 6\. Las modificaciones de la autorización de un medicamento, que sean consecuencia de una decisión de la Comisión Europea y que no conlleven actividad de evaluación científica por parte de la Agencia Española de Medicamentos y Productos Sanitarios devengarán la tasa prevista en el epígrafe 1.19.
-
-> En los casos de agrupación de modificaciones independientes Tipo IA para los medicamentos de uso humano, siendo estas iguales o distintas, que afecten a varios medicamentos pertenecientes al mismo titular y siempre que se presenten al mismo tiempo y en un único formato de solicitud de acuerdo con el artículo 7 del Reglamento (CE) n.º 1234/2008 de la Comisión de 24 de noviembre de 2008, devengarán para cada uno de los tipos de modificaciones iguales una tasa principal y tasas reducidas para el resto de las modificaciones.
-
-> Cuando una modificación afecte a distintos medicamentos de uso humano o veterinario del mismo titular, y que conlleven una única evaluación científica, la segunda y siguientes devengarán la tasa prevista en el epígrafe 1.19.
-
-> Cuando se produzcan distintas modificaciones en la autorización de comercialización de un medicamento, el importe total de las mismas no podrá ser superior a la tasa prevista para el procedimiento de autorización e inscripción en el Registro del tipo de medicamento de que se trate.
-
-> En el caso de agrupación de modificaciones independientes que afecten al mismo medicamento de uso humano y siempre que todas se presenten al mismo tiempo y en un único formato de solicitud, de acuerdo con el artículo 7 del Reglamento (CE) n.º 1234/2008 de la Comisión de 24 de noviembre de 2008, se exigirá una tasa por cada una de las modificaciones solicitadas.
-
-> En el caso de grupos de modificaciones y procedimientos de reparto de trabajo de medicamentos veterinarios de acuerdo con los artículos 64 y 65 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, aunque se presenten al mismo tiempo y en un único formato de solicitud, devengarán una tasa por cada una de las modificaciones solicitadas.
-
-> La tasa correspondiente al epígrafe 7.2, «Tasa por asesoramientos científicos para medicamentos que incluyan preguntas multidisciplinares sobre (a) calidad, seguridad y desarrollo clínico, o (b) calidad y desarrollo clínico, o (c) seguridad y desarrollo clínico, o (d) asesoría pre-remisión de un expediente» se reducirá en un 25 % para los asesoramientos científicos que incluyan preguntas sobre desarrollo solo de: eficacia clínica; o calidad y seguridad preclínica; o calidad y bioequivalencias.
-
-> Las armonizaciones de los resúmenes de las características de los medicamentos veterinarios como consecuencia de la aplicación del artículo 69 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, devengarán la tasa prevista en el epígrafe 9.5, con una reducción del 70 % de la cuantía. Cuando España actúe como Estado miembro de referencia esta cuantía reducida se incrementará en un 25 %.
-
-> 7\. Las tasas de los procedimientos descentralizados para medicamentos de uso humano o veterinario, que resulten en una autorización nacional en los que España actúe como Estado miembro de referencia (tasas de los epígrafes 1.1, 1.2, 1.3, 1.5, 1.6, 1.7, 1.8, 3.1, 3.3, 3.5, 3.6, 3.7, 4.1, 4.2, 4.3, 4.5, 4.7, 4.8, 4.9, 9.1, 9.2 y 9.5) se incrementarán en un 25 % sobre el valor de la tasa correspondiente.
-
-> En los procedimientos de reconocimiento mutuo para medicamentos de uso humano o veterinario en los que España actúe como Estado miembro de referencia se abonará una tercera parte de la tasa completa de referencia (tasas 1.1, 1.2, 1.3, 3.1, 3.3, 4.1, 4.2, 4.3, 4.5, 9.1 y 9.2).
-
-> La tasa del epígrafe 1.20, que será de aplicación a cualquier medicamento de uso humano, incluidos los medicamentos especiales, será descontada del importe total que proceda abonar en el caso de que el interesado presente una solicitud relativa a un procedimiento descentralizado o de reconocimiento mutuo, actuando España como Estado miembro de referencia.
-
-> Asimismo, la tasa del epígrafe 9.12, que será de aplicación a cualquier medicamento veterinario, será descontada del importe total que proceda abonar en el caso de que el interesado presente una solicitud relativa a un procedimiento descentralizado o de reconocimiento mutuo, actuando España como Estado miembro de referencia.
-
-> Los procedimientos de reexamen de los medicamentos veterinarios, en aplicación de los artículos 50 y 66 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, en los que la Agencia Española de Medicamentos y Productos Sanitarios actúe como autoridad competente acordada, no habiendo actuado durante los procedimientos como Estado miembro de referencia, devengarán la tasa correspondiente al epígrafe 9.5. Los procedimientos de reexamen de los medicamentos veterinarios, en aplicación del artículo 24 del Reglamento (UE) 2019/6 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, devengarán la tasa correspondiente al epígrafe 9.5."
-
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
 > Esta modificación entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
@@ -3151,12 +2747,6 @@ No se tramitará solicitud alguna que no vaya acompañada del justificante de pa
 
 Las tasas correspondientes a las actividades o servicios de prestación periódica se devengarán en el momento de la notificación al interesado de la liquidación correspondiente.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "La tasa se devengará cuando la solicitud, que inicia el expediente, tenga entrada en el registro de la Agencia Española de Medicamentos y Productos Sanitarios o del Ministerio de Sanidad, Servicios Sociales e Igualdad, según su respectiva competencia, momento en el cual se inicia la prestación del servicio o la realización de la actividad administrativa."
-
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
 > Esta modificación entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
@@ -3172,24 +2762,6 @@ El pago de las tasas contempladas en esta ley se realizará, por vía o medio el
 3\. La gestión recaudatoria de las tasas reguladas en esta ley corresponde, en vía voluntaria, al Ministerio de Sanidad y a la Agencia Española de Medicamentos y Productos Sanitarios, según su respectiva competencia.
 
 4\. La Agencia Española de Medicamentos y Productos Sanitarios podrá utilizar, para obtener la efectividad de sus débitos con naturaleza de derecho público, el procedimiento administrativo de apremio, siempre que dichos débitos se encuentren en periodo ejecutivo. La Agencia Española de Medicamentos y Productos Sanitarios podrá convenir con la Agencia Estatal de Administración Tributaria la gestión recaudatoria de sus ingresos de derecho público en la forma prevista por el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "1. El pago de la tasa deberá efectuarse conforme a lo establecido en la Ley 8/1989, de 13 de abril, la Ley 58/2003, de 17 de diciembre, General Tributaria y demás normas de desarrollo.
-
-> El pago de las tasas contempladas en esta ley se realizará, preferentemente, por vía o medio electrónico, conforme a lo previsto en la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos.
-
-> 2\. No se tramitará solicitud alguna que no vaya acompañada del justificante de pago de la tasa que corresponda.
-
-> 3\. Cuando, abonada la tasa, la Administración no pueda tramitar el procedimiento correspondiente por causa no imputable al sujeto pasivo, la devolución de la misma será de un ochenta por ciento de su cuantía.
-
-> 4\. Abonada la tasa, el sujeto pasivo habrá de presentar la solicitud correspondiente dentro de los diez días siguientes al ingreso.
-
-> 5\. La gestión recaudatoria de las tasas reguladas en esta ley corresponde, en vía voluntaria, al Ministerio de Sanidad, Servicios Sociales e Igualdad y a la Agencia Española de Medicamentos y Productos Sanitarios, según su respectiva competencia.
-
-> 6\. La Agencia Española de Medicamentos y Productos Sanitarios podrá utilizar para obtener la efectividad de sus débitos con naturaleza de derecho público, el procedimiento administrativo de apremio, siempre que dichos débitos se encuentren en periodo ejecutivo. La Agencia Española de Medicamentos y Productos Sanitarios podrá convenir con la Agencia Estatal de Administración Tributaria la gestión recaudatoria de sus ingresos de derecho público en la forma prevista por el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio."
 
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
@@ -3214,12 +2786,6 @@ Cuando el sujeto pasivo desista de la solicitud, siempre que sea por causa no im
 A los efectos de lo establecido en la presente ley, se entiende por validación la acción de carácter administrativo desarrollada con el propósito de verificar que la solicitud reúne todos los requisitos necesarios para realizar la prestación del servicio o de la actividad administrativa.
 
 4\. Las autoliquidaciones presentadas por los sujetos pasivos podrán ser objeto de verificación y comprobación por la Agencia Española de Medicamentos y Productos Sanitarios, que practicará, en su caso, la liquidación que proceda y devolverá el importe de la autoliquidación presentada y abonada por el sujeto pasivo.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 6 de la Ley 38/2022, de 27 de diciembre, [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684), entra en vigor el 28 de junio de 2023, según establece la disposición final 8 de la citada Ley.
-
-> Redacción anterior:
-
-> "Procederá la devolución de ingresos por tasas, además de en los supuestos contemplados en el artículo 221 de la Ley 58/2003, de 17 de diciembre, cuando abonada la tasa, el sujeto pasivo no presente la solicitud de la prestación del servicio o realización de actividad correspondiente dentro del plazo de diez días siguientes al ingreso que establece el artículo 125.4, siempre que sea por causa no imputable al sujeto pasivo, acreditada de forma fehaciente. Esta devolución será de un ochenta por ciento de su cuantía."
 
 > Se modifica por la disposición final 6 de la Ley 38/2022, de 27 de diciembre. [Ref. BOE-A-2022-22684](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22684)
 
@@ -3269,43 +2835,43 @@ El Gobierno por real decreto, previo informe del Consejo Interterritorial del Si
 
 1\. Las personas físicas, los grupos empresariales y las personas jurídicas no integradas en ellos que se dediquen en España a la fabricación, importación u oferta al Sistema Nacional de Salud de medicamentos y/o productos sanitarios que, financiados con fondos públicos, se dispensen en oficinas de farmacia a través de receta oficial u orden de dispensación del Sistema Nacional de Salud, en territorio nacional, deberán ingresar con carácter cuatrimestral las cantidades que resulten de aplicar sobre su volumen cuatrimestral de ventas a través de dicha receta u orden de dispensación los porcentajes contemplados en la escala siguiente:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Ventas cuatrimestrales a PVL</p>
+<p>Ventas cuatrimestrales a PVL</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Porcentaje de aportación</p>
+<p>Porcentaje de aportación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Desde</p>
+<p>Desde</p>
 </td>
 <td>
-<p class="cabeza_tabla">Hasta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.000.000,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>Hasta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3.000.000,01</p>
+<p>0,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">En adelante</p>
+<p>3.000.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,0</p>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.000.000,01</p>
+</td>
+<td>
+<p>En adelante</p>
+</td>
+<td>
+<p>2,0</p>
 </td>
 </tr>
 </table>

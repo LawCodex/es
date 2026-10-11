@@ -666,8 +666,6 @@ d) El nombre y apellidos o razón social o denominación completa, número de id
 
 e) El nombre y apellidos o razón social o denominación completa, número de identificación fiscal de los sucesores de entidades extintas ya sea por trasformación o en los supuestos mencionados en el artículo 40 de la Ley 58/2003, del 17 de diciembre, General Tributaria.
 
-> Téngase en cuenta que esta última actualización por la que se añade la letra e) por el art. 1.1 del Real Decreto 1070/2017, de 29 de diciembre. [Ref. BOE-A-2017-15838](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15838), será de aplicación desde el 1 de julio de 2018, según establece su disposición transitoria única.3.
-
 > Se añade la letra e) por el art. 1.1 del Real Decreto 1070/2017, de 29 de diciembre. [Ref. BOE-A-2017-15838](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15838)
 
 > Esta modificación será de aplicación desde el 1 de julio de 2018, según establece la disposición transitoria única.3 del citado Real Decreto.
@@ -926,12 +924,6 @@ Asimismo, las personas jurídicas que no desarrollen actividades empresariales o
 
 En los supuestos mencionados en los artículos 39 y 40 de la Ley 58/2003, del 17 de diciembre, General Tributaria, se informará de los datos relativos a la identificación de los sucesores en la declaración de baja.
 
-> Téngase en cuenta que esta última actualización del apartado 2, modificado por el art. 1.2 del Real Decreto 1070/2017, de 29 de diciembre. [Ref. BOE-A-2017-15838](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15838), será de aplicación desde el 1 de julio de 2018, según establece su disposición transitoria única.3.
-
-> Redacción anterior:
-
-> "2. La declaración de baja deberá presentarse en el plazo de un mes desde que se cumplan las condiciones previstas en el apartado 1 de este artículo, sin perjuicio de que la persona o entidad afectada deba presentar las declaraciones y cumplir las obligaciones tributarias que le incumban y sin que a estos efectos deba darse de alta en el censo."
-
 3\. Cuando una sociedad o entidad se disuelva, la declaración de baja deberá ser presentada en el plazo de un mes desde que se haya realizado, en su caso, la cancelación efectiva de los correspondientes asientos en el Registro Mercantil.
 
 Si no constaran dichos asientos, la Administración tributaria pondrá en conocimiento del Registro Mercantil la solicitud de baja para que este extienda una nota marginal en la hoja registral de la entidad. En lo sucesivo, el Registro comunicará a la Administración tributaria cualquier acto relativo a dicha entidad que se presente a inscripción.
@@ -973,18 +965,6 @@ Igualmente, las entidades a las que se refiere el artículo 4.2.l) deberán comu
 En la declaración de baja se comunicarán los sucesores tal y como se establece en el artículo 11.2 de este reglamento.
 
 3\. Las personas jurídicas y demás entidades deberán presentar copia de las escrituras o documentos que modifiquen los anteriormente vigentes, en el plazo de un mes desde la inscripción en el registro correspondiente o desde su otorgamiento si dicha inscripción no fuera necesaria, cuando las variaciones introducidas impliquen la presentación de una declaración censal de modificación o de baja.
-
-> Téngase en cuenta que esta última actualización de los apartados 2 y 3, por el art. 1.3 del Real Decreto 1070/2017, de 29 de diciembre. [Ref. BOE-A-2017-15838](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15838), será de aplicación desde el 1 de julio de 2018, según establece su disposición transitoria única.3.
-
-> Redacción anterior:
-
-> "2. Las variaciones posteriores al alta censal, incluidas las relativas al inicio de la actividad, domicilio, nombre y apellidos o razón social o denominación completa y número de identificación fiscal de los socios o personas o entidades que la integren, se comunicarán mediante la declaración de modificación regulada en el artículo 10. No será necesario comunicar las variaciones relativas a los socios, miembros o partícipes de las entidades una vez que se inscriban en el registro correspondiente y obtengan el número de identificación fiscal definitivo.
-
-> No obstante, las entidades sin personalidad jurídica deberán comunicar las variaciones relativas a sus socios, comuneros o partícipes, aunque hayan obtenido un número de identificación fiscal definitivo, salvo que tengan la condición de comunidades de propietarios constituidas en régimen de propiedad horizontal y estén incluidas en el Censo de Empresarios, Profesionales y Retenedores.
-
-> Igualmente, las entidades a las que se refiere el artículo 4.2.l) deberán comunicar en el plazo de un mes desde la fecha de formalización de su transmisión las modificaciones que se hayan producido respecto de los datos consignados en las declaraciones anteriores, incluidos los relativos a los socios, miembros o partícipes.
-
-> 3\. Las personas jurídicas y demás entidades deberán presentar copia de las escrituras o documentos que modifiquen los anteriormente vigentes, en el plazo de un mes desde la inscripción en el registro correspondiente o desde su otorgamiento si dicha inscripción no fuera necesaria, cuando las variaciones introducidas impliquen la presentación de una declaración censal de modificación."
 
 > Se modifican los apartados 2 y 3 por el art. 1.3 del Real Decreto 1070/2017, de 29 de diciembre. [Ref. BOE-A-2017-15838](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15838)
 
@@ -1572,22 +1552,6 @@ La información a suministrar se referirá a todo tipo de cuentas, bancarias y n
 
 El nombre y apellidos o razón social o denominación completa y número de identificación fiscal de las personas o entidades titulares, autorizadas o beneficiarias se referirán a las que lo hayan sido en algún momento del periodo mensual al que se refiere la declaración.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.1 del Real Decreto 253/2025, de 1 de abril, [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599), entra en vigor el 1 de enero de 2026 y será de aplicación, por primera vez, en relación con las declaraciones informativas correspondientes a 2026 que deban presentarse a partir de dicha fecha, en la forma establecida por la disposición final única del citado Real Decreto.
-
-> Redacción anterior:
-
-> "**Artículo 37. Obligación de informar acerca de cuentas en entidades de crédito.**
-
-> 1\. Las entidades de crédito y las demás entidades que, de acuerdo con la normativa vigente, se dediquen al tráfico bancario o crediticio, vendrán obligadas a presentar una declaración informativa anual referente a la totalidad de las cuentas abiertas en dichas entidades o puestas por ellas a disposición de terceros en establecimientos situados dentro o fuera del territorio español.
-
-> Cuando se trate de cuentas abiertas en establecimientos situados fuera del territorio español no existirá obligación de suministrar información sobre personas o entidades no residentes sin establecimiento permanente en territorio español.
-
-> 2\. La información a suministrar a la Administración tributaria comprenderá la identificación completa de las cuentas y el nombre y apellidos o razón social o denominación completa y número de identificación fiscal de las personas o entidades titulares, autorizadas o beneficiarias de dichas cuentas, los saldos de las mismas a 31 de diciembre y el saldo medio correspondiente al último trimestre del año, así como cualquier otro dato relevante al efecto para concretar aquella información que establezca la Orden Ministerial por la que se apruebe el modelo correspondiente.
-
-> La información a suministrar se referirá a cuentas corrientes, de ahorro, imposiciones a plazo, cuentas de crédito y cualesquiera otras cuentas con independencia de la modalidad o denominación que adopten, aunque no exista retribución, retención o ingreso a cuenta.
-
-> El nombre y apellidos o razón social o denominación completa y número de identificación fiscal de las personas o entidades titulares, autorizadas o beneficiarias se referirán a las que lo hayan sido en algún momento del año al que se refiere la declaración."
-
 > Se modifica por el art. 2.1 del Real Decreto 253/2025, de 1 de abril. [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599)
 
 > Esta modificación entra en vigor el 1 de enero de 2026 y será de aplicación, por primera vez, en relación con las declaraciones informativas correspondientes a 2026 que deban presentarse a partir de dicha fecha, en la forma establecida por la disposición final única del citado Real Decreto.
@@ -1630,20 +1594,6 @@ El modelo de declaración se presentará por vía electrónica.
 
 La misma obligación recaerá sobre las sucursales en territorio español de las entidades a las que se refiere este apartado de otros Estados miembros de la Unión Europea, así como sobre las mismas entidades de otros Estados miembros de la Unión Europea que, según la normativa reguladora, operen en España en régimen de libre prestación de servicios, en este último caso respecto de las operaciones realizadas por personas o entidades residentes en territorio español o establecimientos permanentes en territorio español de personas o entidades no residentes en España.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.2 del Real Decreto 253/2025, de 1 de abril, [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599), entra en vigor el 1 de enero de 2026 y será de aplicación, por primera vez, en relación con las declaraciones informativas correspondientes a 2026 que deban presentarse a partir de dicha fecha, en la forma establecida por la disposición final única del citado Real Decreto.
-
-> Redacción anterior:
-
-> "Las entidades de crédito y demás entidades que, de acuerdo con la normativa vigente, se dediquen al tráfico bancario o crediticio, vendrán obligadas a presentar las siguientes declaraciones informativas anuales:
-
-> a) Declaración de los saldos por importe superior a 6.000 euros, existentes a 31 de diciembre, de los créditos y préstamos por ellas concedidos en la que se incluirá el nombre y apellidos o razón social o denominación completa y el número de identificación fiscal del acreditado o prestatario.
-
-> b) Declaración de las imposiciones, disposiciones de fondos y de los cobros de cualquier documento, que se realicen en moneda metálica o billetes de banco cuando su importe sea superior a 3.000 euros, cualquiera que sea el medio físico o electrónico utilizado, ya estén denominados en euros o en cualquier otra moneda.
-
-> No se incluirán en esta declaración informativa aquellas operaciones que deban ser objeto de comunicación a la Administración tributaria de acuerdo con lo previsto en el artículo 41.
-
-> La declaración contendrá el importe en euros de cada operación, su carácter de imposición, disposición o cobro, su fecha, la identificación de quien la realiza y el número de cuenta en la que se efectúan los correspondientes cargos o abonos, así como cualquier otro dato relevante al efecto para concretar aquella información que establezca la Orden Ministerial por la que se apruebe el modelo correspondiente."
-
 > Se modifica por el art. 2.2 del Real Decreto 253/2025, de 1 de abril. [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599)
 
 > Esta modificación entra en vigor el 1 de enero de 2026 y será de aplicación, por primera vez, en relación con las declaraciones informativas correspondientes a 2026 que deban presentarse a partir de dicha fecha, en la forma establecida por la disposición final única del citado Real Decreto.
@@ -1675,16 +1625,6 @@ e) La identificación de las cuentas bancarias o de pago a través de las que se
 Asimismo, deberá facilitarse cualquier otro dato relevante al efecto para concretar aquella información que establezca la orden ministerial por la que se apruebe el modelo correspondiente.
 
 El modelo de declaración se presentará por vía electrónica.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.3 del Real Decreto 253/2025, de 1 de abril, [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599), entra en vigor el 1 de enero de 2026 y será de aplicación, por primera vez, en relación con las declaraciones informativas correspondientes a 2026 que deban presentarse a partir de dicha fecha, en la forma establecida por la disposición final única del citado Real Decreto.
-
-> Redacción anterior:
-
-> "**Artículo 38 bis. Obligación de informar acerca de los cobros efectuados mediante tarjetas de crédito o débito.**
-
-> Las entidades bancarias o de crédito y demás entidades que, de acuerdo con la normativa vigente, presten el servicio de gestión de cobros a través de tarjetas de crédito o de débito a empresarios y profesionales establecidos en España vendrán obligadas a presentar una declaración informativa anual de las operaciones realizadas por los empresarios o profesionales adheridos a este sistema cuando el importe neto anual de los mencionados cobros exceda de 3.000 euros.
-
-> La declaración contendrá la identificación completa de los empresarios o profesionales, el número de comercio con el que éstos operan en el sistema, el importe anual facturado, la identificación de las cuentas a través de las que se efectúen los cobros, así como cualquier otro dato relevante al efecto para concretar aquella información que establezca la Orden Ministerial por la que se apruebe el modelo correspondiente."
 
 > Se modifica por el art. 2.3 del Real Decreto 253/2025, de 1 de abril. [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599)
 
@@ -1725,8 +1665,6 @@ h) Identificación de la cuenta, en su caso, a la que se vincula la operativa de
 Asimismo, deberá facilitarse cualquier otro dato relevante al efecto para concretar aquella información que establezca la orden ministerial por la que se apruebe el modelo correspondiente.
 
 El modelo de declaración se presentará por vía electrónica.
-
-> Téngase en cuenta que este artículo, añadido por el art. 2.4 del Real Decreto 253/2025, de 1 de abril, [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599), entra en vigor el 1 de enero de 2026 y será de aplicación, por primera vez, en relación con las declaraciones informativas correspondientes a 2026 que deban presentarse a partir de dicha fecha, en la forma establecida por la disposición final única del citado Real Decreto.
 
 > Se añade por el art. 2.4 del Real Decreto 253/2025, de 1 de abril. [Ref. BOE-A-2025-6599](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6599)
 

@@ -956,89 +956,89 @@ La presente ley entrará en vigor el día siguiente al de su publicación en el 
 
 1\. A los efectos previstos en el artículo 13 de la presente ley, la inversión mínima por plaza de alojamiento para cada categoría que se pretenda alcanzar mediante la renovación edificatoria será de:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Modalidad</p>
+<p>Modalidad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Categoría</p>
+<p>Categoría</p>
 </th>
 <th>
-<p class="cabeza_tabla">Importe mínimo por plaza de alojamiento</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">(Euros)</p>
+<p>Importe mínimo por plaza de alojamiento</p>
+<p>–</p>
+<p>(Euros)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Hotelera.</p>
+<p>Hotelera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3 Estrellas</p>
+<p>3 Estrellas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.602,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4 Estrellas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.143,00</p>
+<p>4.602,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5 Estrellas</p>
+<p>4 Estrellas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.866,00</p>
+<p>6.143,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5 G L</p>
+<p>5 Estrellas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.080,00</p>
+<p>7.866,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5 G L</p>
+</td>
+<td>
+<p>10.080,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Extrahotelera.</p>
+<p>Extrahotelera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3 Estrellas</p>
+<p>3 Estrellas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.828,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4 Estrellas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.019,00</p>
+<p>3.828,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5 Estrellas</p>
+<p>4 Estrellas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.428,00</p>
+<p>5.019,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Villas</p>
+<p>5 Estrellas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.019,00</p>
+<p>6.428,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Villas</p>
+</td>
+<td>
+<p>5.019,00</p>
 </td>
 </tr>
 </tbody>

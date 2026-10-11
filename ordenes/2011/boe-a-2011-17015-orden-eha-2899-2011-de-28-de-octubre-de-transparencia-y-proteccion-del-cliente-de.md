@@ -66,14 +66,6 @@ En su virtud, de acuerdo con el Consejo de Estado, dispongo:
 
 La presente orden ministerial tiene por objeto garantizar el adecuado nivel de protección de los clientes de productos y servicios bancarios de entidades de crédito, mediante la implantación de normas de conducta y medidas de transparencia en la prestación de servicios financieros bancarios.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.1 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de juno de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> **"Artículo 1. Objeto.**
-
-> La presente orden ministerial tiene por objeto garantizar el adecuado nivel de protección de los clientes de entidades de crédito, mediante la implantación de medidas de transparencia en la prestación de servicios financieros bancarios."
-
 > Se modifica por el art. 2.1 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta modificación entra en vigor el 16 de juno de 2019 según determina la disposición final 3 de la citada Orden.
@@ -93,20 +85,6 @@ Asimismo, a los efectos de esta orden se entenderá por servicios bancarios aque
 3\. Será de aplicación a las entidades aseguradoras lo previsto en el capítulo II bis del título III.
 
 4\. Cuando el cliente actúe en el ámbito de su actividad profesional o empresarial, las partes podrán acordar que no se aplique total o parcialmente lo previsto en esta orden, con la excepción de lo establecido en el capítulo II del título III.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 3.1 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 2 de enero de 2021, según determina su disposición final 2:
-
-> Redacción anterior:
-
-> **"Artículo 2. Ámbito de aplicación.**
-
-> 1\. La presente orden será de aplicación a los servicios bancarios dirigidos o prestados a clientes, o clientes potenciales, en territorio español por establecimientos financieros de crédito y entidades de crédito españolas, extranjeras o domiciliadas en otro Estado miembro de la Unión Europea que operen, en su caso, mediante sucursales, agente, intermediario o en régimen de libre prestación de servicios en relación con productos y servicios bancarios.
-
-> Se entenderá, a estos efectos, por clientes y clientes potenciales a las personas físicas. Asimismo, cuando a lo largo del articulado de la Orden se haga referencia a entidades o entidades de crédito, se entenderán incluidas todas las mencionadas en el párrafo anterior.
-
-> Las disposiciones previstas en las secciones 1.ª a 7.ª del capítulo II del título III serán aplicables a prestamistas inmobiliarios, a intermediarios de crédito inmobiliario y sus representantes designados, tal como se definen en el artículo 4 de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario.
-
-> Asimismo, a los efectos de esta orden se entenderá por servicios bancarios aquellos que comprenden los servicios de caja, la captación de fondos reembolsables, especialmente depósitos, la concesión de crédito y préstamo, los servicios de pago y las demás actividades incluidas en el anexo de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito apartados 7 a 13."
 
 > Se añaden los apartados 2 a 4 por el art. 3.1 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
@@ -238,16 +216,6 @@ A los efectos del presente artículo se entenderá por asesoramiento toda recome
 
 2\. Con la finalidad de destacar a los clientes los elementos esenciales de la información a la que se refieren los artículos 3 a 6 y 33 quinquies, el Banco de España podrá exigir el empleo de un formato o tipo de letra o comunicación especialmente resaltada.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 3.2 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de julio de 2021, según determina su disposición final 2.c:
-
-> Redacción anterior:
-
-> **"Artículo 11. Requisitos de forma e información resaltada.**
-
-> 1\. Toda la información, documentación y comunicaciones dirigidas a los clientes de servicios bancarios previstas en esta orden se realizarán en papel, formato electrónico o en otro soporte duradero, y estarán redactadas en términos fácilmente comprensibles, de manera claramente legible, en castellano o en cualquiera de las demás lenguas españolas oficiales de las respectivas Comunidades Autónomas en las que se preste el servicio o en cualquier otra lengua acordada entre las partes.
-
-> 2\. Con la finalidad de destacar a los clientes los elementos esenciales de la información a la que se refieren los artículos 3 a 6, el Banco de España podrá exigir el empleo de un formato o tipo de letra o comunicación especialmente resaltada."
-
 > Se modifica, con efectos de 27 de julio de 2021, por el art. 3.2 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ##### Artículo 12. Servicios bancarios vinculados.
@@ -283,14 +251,6 @@ En todo caso, se deberá proporcionar al cliente una copia de la información re
 ##### Artículo 16. Depósitos a plazo con garantía del principal.
 
 **(Sin contenido).**
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.3 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> **"Artículo 16. Depósitos a plazo con garantía del principal.**
-
-> Los documentos contractuales relativos a servicios bancarios de captación de depósitos a plazo estructurados o híbridos deberán recoger, de forma explícita y clara, la obligación de la entidad de reembolsar el principal del depósito al vencimiento, así como el tipo de interés nominal, la TAE u otra expresión equivalente de la remuneración total efectiva en términos de intereses anuales, conforme a lo que establezca el Banco de España teniendo en cuenta los efectos sobre la remuneración tanto del contrato principal como del derivado implícito."
 
 > Se deja sin contenido por el art. 2.3 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -340,51 +300,9 @@ Para ampliar el límite del crédito referido en el artículo 33 bis, la entidad
 
 6\. La evaluación de la solvencia prevista en este artículo se realizará sin perjuicio de la libertad de contratación que, en sus aspectos sustantivos y con las limitaciones que pudieran emanar de otras disposiciones legales, deba presidir las relaciones entre las entidades y los clientes y, en ningún caso afectará a su plena validez y eficacia, ni implicará el traslado a las entidades de la responsabilidad por el incumplimiento de las obligaciones de los clientes.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 3.3 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de julio de 2021, según determina su disposición final 2.c:
-
-> Redacción anterior:
-
-> **"Artículo 18. Evaluación de la solvencia.**
-
-> 1\. La entidad de crédito, antes de que se celebre cualquier contrato de crédito o préstamo, deberá evaluar la capacidad del cliente para cumplir con las obligaciones derivadas del mismo, sobre la base de la información suficiente obtenida por medios adecuados a tal fin, entre ellos, la información facilitada por el propio cliente a solicitud de la entidad.
-
-> A estos efectos, las entidades deberán contar con procedimientos internos específicamente desarrollados para llevar a cabo la evaluación de solvencia mencionada en el párrafo anterior. Estos procedimientos serán revisados periódicamente por las propias entidades, que mantendrán registros actualizados de dichas revisiones.
-
-> 2\. Los procedimientos a los que se refiere el apartado anterior, además de ajustarse a la normativa específica sobre gestión de riesgos y control interno que resulte aplicable a las entidades de crédito, deberán contemplar, al menos, los siguientes aspectos:
-
-> a) La adecuada evaluación de la situación de empleo, ingresos, patrimonial y financiera del cliente, para lo cual:
-
-> 1.º Se exigirá cuanta documentación sea adecuada para evaluar la variabilidad de los ingresos del cliente.
-
-> 2.º Se consultará el historial crediticio del cliente, para lo cual se podrá acudir a la Central de Información de Riesgos del Banco de España, así como a los ficheros de solvencia patrimonial y crédito a los que se refiere el artículo 29 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, en los términos y con los requisitos y garantías previstos en dicha ley orgánica y su normativa de desarrollo.
-
-> 3.º Se tendrá en cuenta el nivel previsible de ingresos a percibir tras la jubilación, en el caso de que se prevea que una parte sustancial del crédito o préstamo se continúe reembolsando una vez finalizada la vida laboral.
-
-> b) La valoración de la capacidad del cliente y de los garantes de cumplir con sus obligaciones de pago derivadas del crédito o préstamo, para lo que se tendrán en cuenta, además de sus ingresos, sus activos en propiedad, sus ahorros, sus obligaciones derivadas de otras deudas o compromisos, sus gastos fijos y la existencia de otras posibles garantías.
-
-> c) En el caso de créditos o préstamos a tipo de interés variable, y de otros en los que el valor de las cuotas pueda variar significativamente a lo largo de la vida de la operación, se deberá valorar cómo afectaría esta circunstancia a la capacidad del cliente de cumplir con sus obligaciones teniendo en cuenta la información a la que se refiere la letra anterior.
-
-> d) En el caso de créditos o préstamos hipotecarios o con otras garantías reales, la valoración prudente de tales garantías mediante procedimientos que eviten influencias o conflictos de interés que puedan menoscabar la calidad de la valoración.
-
-> 3\. En el supuesto de créditos o préstamos con garantía real, los criterios para determinar la concesión o no del crédito o préstamo, la cuantía máxima del mismo y las características de su tipo de interés y de su sistema de amortización deben fundamentarse, preferentemente, en la capacidad estimada del cliente para hacer frente a sus obligaciones de pago previstas a lo largo de la vida del crédito o préstamo, y no exclusivamente en el valor esperado de la garantía.
-
-> 4\. En el caso de suscripción de seguros de amortización de créditos o préstamos, tal suscripción no podrá sustituir, en ningún caso, la necesaria y completa evaluación de la solvencia del cliente y de su capacidad para cumplir con sus obligaciones de pago por sus propios medios.
-
-> 5\. En el supuesto de que una entidad rechace la concesión de un crédito o préstamo por considerar insuficiente la solvencia del cliente basándose en la consulta a los ficheros a los que se refiere el párrafo 2.º del apartado 2.a), la entidad informará al cliente del resultado de dicha consulta.
-
-> 6\. La evaluación de la solvencia prevista en este artículo se realizará sin perjuicio de la libertad de contratación que, en sus aspectos sustantivos y con las limitaciones que pudieran emanar de otras disposiciones legales, deba presidir las relaciones entre las entidades de crédito y los clientes y, en ningún caso afectará a su plena validez y eficacia, ni implicará el traslado a las entidades de la responsabilidad por el incumplimiento de las obligaciones de los clientes."
-
 > Se modifica, con efectos de 27 de julio de 2021, por el art. 3.3 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ### CAPÍTULO II — Normas relativas a los créditos y préstamos inmobiliarios regulados por la Ley 5/2019, de 15 de marzo
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.4 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**CAPÍTULO II**
-
-> Normas relativas a los créditos y préstamos hipotecarios."
 
 > Se modifica por el art. 2.4 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -397,20 +315,6 @@ Para ampliar el límite del crédito referido en el artículo 33 bis, la entidad
 1\. Este capítulo será de aplicación a las actividades realizadas por cualquier prestamista, intermediario de crédito o su representante que opere en España dirigidas o relacionadas con el diseño, el proceso de comercialización, la concesión, la gestión y el cumplimiento de los contratos de préstamo inmobiliario regulados en el artículo 2 de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de préstamo inmobiliario.
 
 2\. El Banco de España podrá adaptar las exigencias de información contenidas en el presente capítulo para su aplicación a otro tipo de préstamos diferentes de los previstos en el apartado 1 y que queden fuera del ámbito de aplicación de la Ley 16/2011, de 24 de junio, de contratos de crédito al consumo.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.5 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**Artículo 19. Ámbito de aplicación.**
-
-> 1\. Este capítulo será de aplicación a los servicios bancarios de crédito y préstamo hipotecario, en adelante préstamos, celebrados con un cliente, persona física, en los que la hipoteca recaiga sobre una vivienda o cuya finalidad sea adquirir o conservar derechos de propiedad sobre terrenos o edificios construidos o por construir.
-
-> 2\. Se presumirán sujetos a esta orden los préstamos concedidos con garantía hipotecaria sobre viviendas situadas en territorio español, otorgados a personas físicas residentes en España.
-
-> 3\. Las entidades de crédito que concedan préstamos a constructores o promotores inmobiliarios, cuando el constructor o promotor prevea una posterior subrogación de los adquirentes de las viviendas en el préstamo, deberán incluir entre los términos de su relación contractual, la obligación de los constructores o promotores de entregar a los clientes la información personalizada relativa al servicio ofrecido por las entidades en los términos previstos en esta orden.
-
-> 4\. El Banco de España podrá adaptar las exigencias de información contenidas en el presente capítulo para su aplicación a otro tipo de préstamos diferentes de los previstos en el apartado 1 y tampoco incluidos en la Ley 16/2011, de 24 de junio, de contratos de crédito al consumo."
 
 > Se modifica por el art. 2.5 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -430,16 +334,6 @@ Para ampliar el límite del crédito referido en el artículo 33 bis, la entidad
 
 2\. La ficha de información precontractual estará a disposición de los prestatarios o potenciales prestatarios, de forma gratuita, en todos los canales de comercialización utilizados por los prestamistas, intermediarios de crédito o sus representantes.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.6 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**Artículo 21. Ficha de Información Precontractual.**
-
-> 1\. Las entidades de crédito deberán proporcionar a los clientes que soliciten cualquiera de estos servicios, información clara y suficiente sobre los préstamos que ofertan. Esta información, que será gratuita y tendrá carácter orientativo, se facilitará mediante la Ficha de Información Precontractual (FIPRE) que figura en el anexo I.
-
-> 2\. La Ficha de Información Precontractual estará a disposición de los clientes de préstamos, de forma gratuita, en todos los canales de comercialización utilizados por la entidad."
-
 > Se modifica por el art. 2.6 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta modificación entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -448,18 +342,6 @@ Para ampliar el límite del crédito referido en el artículo 33 bis, la entidad
 
 El prestamista, intermediario de crédito o su representante designado, en su caso, deberá entregar al prestatario o potencial prestatario, y, en su caso, a toda persona física que sea fiadora o garante del préstamo, con una antelación mínima de diez días naturales respecto al momento de la firma del contrato de préstamo, la ficha de advertencias estandarizadas (FiAE) que figura en el anexo II.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.7 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> **"Artículo 22. Ficha de Información Personalizada**.
-
-> 1\. Las entidades de crédito, una vez que el cliente haya facilitado la información que se precise sobre sus necesidades de financiación, su situación financiera y sus preferencias, proporcionarán a este la información personalizada que resulte necesaria para dar respuesta a su demanda de crédito, de forma que le permita comparar los préstamos disponibles en el mercado, valorar sus implicaciones y adoptar una decisión fundada sobre si debe o no suscribir el contrato. Esta información se facilitará mediante la Ficha de Información Personalizada (FIPER) que figura en el anexo II.
-
-> 2\. La Ficha de Información Personalizada se entregará a todos los clientes de préstamos, de forma gratuita, con la debida antelación y, en todo caso, antes de que el cliente quede vinculado por cualquier contrato u oferta.
-
-> 3\. Toda información adicional que la entidad facilite al cliente figurará en un documento separado, que deberá adjuntarse a la Ficha de Información Personalizada."
-
 > Se modifica por el art. 2.7 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta modificación entra en vigor el 29 de julio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -467,26 +349,6 @@ El prestamista, intermediario de crédito o su representante designado, en su ca
 ##### Artículo 23. Oferta vinculante.
 
 **(Sin contenido).**
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.8 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> **"Artículo 23. Oferta vinculante.**
-
-> 1\. Una vez el cliente y la entidad hayan mostrado su voluntad de contratar un determinado servicio bancario de préstamo hipotecario, se disponga de la tasación correspondiente del inmueble y se hayan efectuado las oportunas comprobaciones sobre su situación registral y sobre la capacidad financiera del cliente conforme a lo dispuesto en el artículo 18, este podrá solicitar a la entidad la entrega de una oferta vinculante.
-
-> 2\. La oferta vinculante se facilitará mediante una Ficha de Información Personalizada como la que figura en el Anexo II en la que, adicionalmente, se especificará lo siguiente:
-
-> a) Que se trata de una oferta vinculante.
-
-> b) El plazo de vigencia de dicha oferta.
-
-> 3\. Toda información adicional que la entidad facilite al cliente en la oferta vinculante figurará en un documento separado, que deberá adjuntarse a la Ficha de Información Personalizada.
-
-> 4\. Si la oferta vinculante se hace al mismo tiempo que se entrega la Ficha de Información Personalizada y coincide íntegramente en cuanto a su contenido, podrá facilitarse al cliente en un único documento.
-
-> 5\. Salvo que medien circunstancias extraordinarias o no imputables a la entidad, la oferta vinculante tendrá un plazo de validez no inferior a catorce días naturales desde su fecha de entrega."
 
 > Se deja sin contenido por el art. 2.8 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -520,14 +382,6 @@ Dicha finalidad no podrá observarse, en ningún caso, cuando el importe nociona
 
 **(Sin contenido).**
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.8 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> **"Artículo 25. Información adicional sobre cláusulas suelo y techo.**
-
-> En el caso de préstamos en que se hubieran establecido límites a la variación del tipo de interés, como cláusulas suelo o techo, se recogerá en un anexo a la Ficha de Información Personalizada, el tipo de interés mínimo y máximo a aplicar y la cuota de amortización máxima y mínima."
-
 > Se deja sin contenido por el art. 2.8 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -545,12 +399,6 @@ b) Y que los datos que sirvan de base al índice o tipo sean agregados de acuerd
 2\. En el caso de préstamos concedidos a tipo de interés variable, el prestamista, intermediario de crédito inmobiliario o representante designado, en su caso, deberá entregar al prestatario o potencial prestatario, y, en su caso, a toda persona física que sea fiadora o garante del préstamo, con una antelación mínima de diez días naturales respecto al momento de la firma del contrato, el documento separado indicado en el artículo 14.1.c) de la Ley 5/2019, de 15 de marzo, en el que se hará una referencia especial a las cuotas periódicas a satisfacer por el cliente en diferentes escenarios de evolución de los tipos de interés y las posibilidades de cobertura frente a tales variaciones, y todo ello teniendo además en cuenta el uso o no de índices oficiales de referencia.
 
 A estos efectos, se presentarán al menos tres cuotas de amortización, calculadas mediante el empleo de los niveles máximos, medios y mínimos que el índice de referencia utilizado en la ficha europea de información normalizada (FEIN) haya presentado durante los últimos veinte años o el plazo máximo disponible si es menor. Si el tipo de interés aplicable inicialmente al préstamo se correspondiera con el nivel máximo o mínimo durante los últimos veinte años, se tomará como referencia para el cálculo dicho nivel incrementado o disminuido, según el caso, en un cincuenta por ciento.
-
-> Téngase en cuenta que la modificación del apartado 2, establecida por el art. 2.9 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "2. En el caso de préstamos concedidos a tipo de interés variable, se adjuntará a la Ficha de Información Personalizada a la que se refiere el artículo 22, en un documento separado, una referencia especial a las cuotas periódicas a satisfacer por el cliente en diferentes escenarios de evolución de los tipos de interés. A estos efectos, se presentarán al menos tres cuotas de amortización, calculadas mediante el empleo de los niveles máximos, medios y mínimos que los tipos de referencia hayan presentado durante los últimos quince años o el plazo máximo disponible si es menor."
 
 > Se modifica el apartado 2 por el art. 2.9 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -576,30 +424,6 @@ g) Cualquier otro índice establecido al efecto expresamente mediante resolució
 
 2\. Los tipos de interés oficiales se publicarán mensualmente por el Banco de España en el “Boletín Oficial del Estado” y estarán también disponibles en su página electrónica.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 3.4 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d):
-
-> Redacción anterior:
-
-> **"Artículo 27. Tipos de interés oficiales.**
-
-> 1\. A efectos de su aplicación por las entidades de crédito, en los términos previstos en esta orden ministerial, se publicarán mensualmente los siguientes tipos de interés oficiales:
-
-> a) Tipo medio de los préstamos hipotecarios a más de tres años, para adquisición de vivienda libre, concedidos por las entidades de crédito en España.
-
-> b) Tipo medio de los préstamos hipotecarios entre uno y cinco años, para adquisición de vivienda libre, concedidos por las entidades de crédito en la zona euro.
-
-> c) Tipo de rendimiento interno en el mercado secundario de la deuda pública de plazo entre dos y seis años.
-
-> d) Euribor a un año.
-
-> e) Permuta de intereses/Interest Rate Swap (IRS) al plazo de cinco años.
-
-> f) El Mibor, exclusivamente para los préstamos hipotecarios formalizados con anterioridad al 1 de enero de 2000 conforme a lo previsto en el artículo 32 de la Ley 46/1998, de 17 de diciembre, sobre introducción del euro.
-
-> 2\. Los tipos se publicarán mensualmente en el «Boletín Oficial del Estado» y estarán también disponibles en la página electrónica del Banco de España.
-
-> 3\. La forma de cálculo de los tipos anteriores se determinará mediante circular del Banco de España."
-
 > Se modifica, con efectos de 27 de enero de 2021, por el art. 3.4 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 > Se modifica el apartado 1.d), con efectos de 1 de julio de 2020, por la disposición final 3.1 de la Orden ECE/1263/2019, de 26 de diciembre. [Ref. BOE-A-2019-18677](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18677)
@@ -611,18 +435,6 @@ g) Cualquier otro índice establecido al efecto expresamente mediante resolució
 2\. Se aplicará el tipo de interés de referencia de los anteriores que más se aproxime al plazo del préstamo que reste desde la cancelación anticipada hasta la próxima fecha de revisión del tipo de interés o hasta la fecha de su vencimiento. El diferencial así calculado se incorporará al documento contractual en todos aquellos préstamos sujetos a la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario.
 
 3\. La forma de cálculo de los índices y tipos anteriores se determinará mediante circular del Banco de España.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.10 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**Artículo 28. Índices y tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés.**
-
-> 1\. A los efectos del cálculo del valor de mercado de los préstamos hipotecarios y la consiguiente compensación por riesgo de tipo de interés a los que se refiere el artículo 9.2 de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario y financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria, se considerarán índices o tipos de interés de referencia, los tipos Interest Rate Swap (IRS) a los plazos de 2, 3, 4, 5, 7, 10, 15, 20 y 30 años que publicará el Banco de España y a los que se añadirá un diferencial. Este diferencial se fijará teniendo en cuenta los más comúnmente aplicados para los préstamos hipotecarios para adquisición de vivienda en España a diferentes plazos de amortización.
-
-> 2\. Se aplicará el tipo de interés de referencia de los anteriores que más se aproxime al plazo del préstamo hipotecario que reste desde la cancelación anticipada hasta la próxima fecha de revisión del tipo de interés.
-
-> 3\. La forma de cálculo de los índices y tipos anteriores se determinará mediante circular del Banco de España."
 
 > Se modifica por el art. 2.10 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -674,12 +486,6 @@ h) Informar al cliente de los costes exactos de su intervención.
 
 #### Sección 5.ª Préstamos en moneda extranjera
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.11 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "***Sección 5.ª Tasa Anual Equivalente***"
-
 > Se modifica por el art. 2.11 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta modificación entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -692,33 +498,11 @@ Dicha información se facilitará a elección del prestatario, o bien en la mone
 
 2\. En caso de que las liquidaciones se realicen en periodos superiores al trimestre, la información relativa al préstamo inmobiliario en moneda extranjera a la que se refiere el apartado anterior se desvinculará del documento de liquidación y deberá suministrarse al prestatario dentro de los veinte días siguientes a la finalización de cada trimestre natural.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 2.11 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**Artículo 31. Cálculo de la Tasa Anual Equivalente.**
-
-> 1\. La tasa anual equivalente, que iguala, sobre una base anual, al valor actual de todos los compromisos (disposiciones de crédito, reembolsos y gastos) existentes o futuros, asumidos por la entidad y por el cliente, se calculará de acuerdo con la fórmula matemática que figura en el Anexo V.
-
-> 2\. Para calcular la tasa anual equivalente se determinará el coste total del préstamo para el cliente, exceptuando los gastos que este tendría que pagar por el incumplimiento de alguna de sus obligaciones con arreglo al contrato de crédito.
-
-> Cuando sea obligatorio abrir una cuenta para obtener el préstamo, los costes de mantenimiento de dicha cuenta, los costes relativos a la utilización de un medio de pago que permita efectuar operaciones de pago y de disposición de crédito, así como otros costes relativos a las operaciones de pago, se incluirán en el coste total del crédito para el cliente, salvo que los costes de dicha cuenta se hayan especificado de forma clara y por separado en el contrato de préstamo o cualquier otro contrato suscrito con el cliente.
-
-> 3\. El cálculo de la tasa anual equivalente se realizará partiendo del supuesto de que el contrato de préstamo estará vigente durante el período de tiempo acordado y que la entidad y el cliente cumplirán sus obligaciones en las condiciones y en los plazos que se hayan acordado en el contrato.
-
-> 4\. En los contratos de préstamo que contengan cláusulas que permitan modificaciones del tipo de interés y, en su caso, de los gastos incluidos en la tasa anual equivalente que no sean cuantificables en el momento del cálculo, la tasa anual equivalente se calculará partiendo del supuesto de que el tipo de interés y los demás gastos se computarán al nivel fijado en el momento de la firma del contrato.."
-
 > Se modifica por el art. 2.11 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta modificación entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
 
 #### Sección 6.ª Conocimientos y competencia aplicables al personal al servicio del prestamista de crédito inmobiliario, intermediario de crédito inmobiliario o representante designado
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**Sección 6.ª Hipoteca inversa**"
 
 > Se modifica por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -729,20 +513,6 @@ Dicha información se facilitará a elección del prestatario, o bien en la mone
 1\. El personal señalado en los artículos 16.1 y 16.4 de la Ley 5/2019, de 15 de marzo, incluidas las personas físicas registradas como prestamistas, intermediarios de crédito o representantes designados, deberán reunir y mantener en todo momento los conocimientos y competencia necesarios y actualizados de conformidad con lo previsto en esta sección, cualquiera que sea la naturaleza de la relación jurídica que le una con el prestamista, el intermediario de crédito o el representante designado.
 
 2\. Las personas que desempeñen funciones de apoyo que no tengan relación con el proceso de comercialización o contratación de préstamos inmobiliarios y, en particular, el personal de administración o contabilidad de préstamos, de recursos humanos, de tecnologías de la información y las telecomunicaciones no se encontrarán sujetas a lo previsto en el apartado primero.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "**Artículo 32. Régimen de transparencia.**
-
-> Esta orden se aplicará a las hipotecas inversas comercializadas en España conforme a lo previsto en la disposición adicional primera de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario y financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria, con las siguientes especificidades:
-
-> a) Será obligatoria la entrega de la oferta vinculante a la que se refiere el artículo 23.
-
-> b) Será obligatoria la prestación, a más tardar con motivo de la entrega de la oferta vinculante, de un servicio de asesoramiento independiente y previo en los términos previstos en el artículo 10.
-
-> c) Las fichas a las que se refieren los artículos 21 y 22 se ajustarán a lo previstos en el anexo III y IV y, adicionalmente, el Banco de España y la Dirección General de Seguros y Fondos de Pensiones elaborarán conjuntamente una «Guía de Acceso a la Hipoteca Inversa» en términos adaptados y análogos a los previstos en el artículo 20."
 
 > Se modifica por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -780,8 +550,6 @@ m) Un conocimiento adecuado que permita diseñar préstamos inmobiliarios.
 
 2\. Para la concreción de los conocimientos y competencia sobre las materias recogidas en el apartado anterior se tendrán en cuenta las Directrices que, en su caso, haya publicado la Autoridad Bancaria Europea.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 29 de julio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -804,8 +572,6 @@ Los requisitos mínimos exigibles al personal de conformidad con lo previsto en 
 
 7\. Una vez acreditados los conocimientos y competencia a los que se refieren los apartados anteriores, el personal incluido en el artículo 32 deberá recibir anualmente módulos de formación continuada, de contenido tanto teórico como práctico, que tendrán un mínimo de 10 horas para el personal y directivo al que se alude en los apartados 1 a 3 y 15 horas para el personal del apartado 4.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 29 de julio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -821,8 +587,6 @@ Los requisitos mínimos exigibles al personal de conformidad con lo previsto en 
 En ningún caso, la actividad de formación y la de certificación podrá realizarse por la misma entidad o empresa.
 
 4\. Sin perjuicio de los previsto en el apartado anterior, el Banco de España podrá publicar un listado de títulos o certificaciones, emitidos por universidades públicas o privadas o por entidades o empresas certificadoras que, de ser poseídos por el personal incluido en el artículo 32, acreditará los requisitos mínimos de conocimientos y competencia aplicables de conformidad con lo previsto en el artículo 32 ter.
-
-> Téngase en cuenta que este artículo, añadido por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -846,15 +610,11 @@ e) Garantizar que cuando el personal a su servicio no haya adquirido los conocim
 
 3\. Al objeto de verificar el cumplimiento de las medidas previstas en esta sección, los prestamistas, los intermediarios de crédito y representantes designados pondrán a disposición de la autoridad competente para su supervisión conforme a lo previsto en los artículos 33 y 43 de la Ley 5/2019, de 15 de marzo, la totalidad de la información a que hace referencia el apartado 1.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 29 de julio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.12 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 29 de julio de 2019 según determina la disposición final 3 de la citada Orden.
 
 #### Sección 7.ª Prácticas de ventas vinculadas
-
-> Téngase en cuenta que esta sección, añadida por el art. 2.13 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.13 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -864,23 +624,17 @@ e) Garantizar que cuando el personal a su servicio no haya adquirido los conocim
 
 En aplicación de lo previsto en el artículo 17.4 de la Ley 5/2019, de 15 de marzo, el prestamista podrá vincular el préstamo a la apertura o el mantenimiento de una cuenta de pago o de ahorro, por parte del prestatario, su cónyuge, pareja de hecho, o un pariente por consanguinidad o afinidad hasta el segundo grado de parentesco, siempre que dicha cuenta tenga como única finalidad acumular capital para efectuar reembolsos del préstamo, pagar intereses del mismo o agrupar recursos para obtener el préstamo u ofrecer una seguridad adicional para el prestamista en caso de impago.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.13 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.13 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
 
 ### CAPÍTULO II BIS — Hipoteca inversa
 
-> Téngase en cuenta que este capítulo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
 
 #### Sección 1.ª Disposiciones generales
-
-> Téngase en cuenta que esta sección, añadida por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -889,14 +643,6 @@ En aplicación de lo previsto en el artículo 17.4 de la Ley 5/2019, de 15 de ma
 ##### Artículo 32 septies. Ámbito de aplicación.
 
 Las hipotecas inversas comercializadas en España conforme a lo previsto en la disposición adicional primera de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario y financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria se regirán por este capítulo, así como por lo previsto en el título I, el artículo 24 y las secciones 3.ª y 4.ª del capítulo II del título III.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 3.5 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 2 de enero de 2021, según determina su disposición final 2:
-
-> Redacción anterior:
-
-> **"Artículo 32 septies. Ámbito de aplicación.**
-
-> Las hipotecas inversas comercializadas en España conforme a lo previsto en la disposición adicional primera de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario y financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria se regirán por este capítulo, así como por lo previsto en el título I, el artículo 24, el capítulo I y las secciones 3.ª y 4.ª del capítulo II del título III."
 
 > Se modifica por el art. 3.5 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
@@ -908,8 +654,6 @@ Las hipotecas inversas comercializadas en España conforme a lo previsto en la d
 
 #### Sección 2.ª Información precontractual
 
-> Téngase en cuenta que esta sección, añadida por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -917,8 +661,6 @@ Las hipotecas inversas comercializadas en España conforme a lo previsto en la d
 ##### Artículo 32 octies. Guía de acceso a la hipoteca inversa.
 
 El Banco de España y la Dirección General de Seguros y Fondos de Pensiones elaborará conjuntamente una «Guía de Acceso a la Hipoteca Inversa» en términos adaptados y análogos a los previstos en la disposición adicional tercera de la Ley 5/2019, de 15 de marzo.
-
-> Téngase en cuenta que este artículo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -929,8 +671,6 @@ El Banco de España y la Dirección General de Seguros y Fondos de Pensiones ela
 1\. Las entidades deberán proporcionar a los clientes que soliciten cualquiera de estos servicios, información clara y suficiente sobre los préstamos que ofertan. Esta información, que será gratuita y tendrá carácter orientativo, se facilitará mediante la ficha de información precontractual (FIPRE) que figura en el anexo III.
 
 2\. La ficha de información precontractual estará a disposición de los clientes de préstamos, de forma gratuita, en todos los canales de comercialización utilizados por la entidad.
-
-> Téngase en cuenta que este artículo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -943,8 +683,6 @@ El Banco de España y la Dirección General de Seguros y Fondos de Pensiones ela
 2\. La ficha de información personalizada se entregará a todos los clientes de préstamos, de forma gratuita, con la debida antelación y, en todo caso, antes de que el cliente quede vinculado por cualquier contrato u oferta.
 
 3\. Toda información adicional que la entidad facilite al cliente figurará en un documento separado, que deberá adjuntarse a la ficha de información personalizada.
-
-> Téngase en cuenta que este artículo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -966,8 +704,6 @@ b) El plazo de vigencia de dicha oferta.
 
 5\. Salvo que medien circunstancias extraordinarias o no imputables a la entidad, la oferta vinculante tendrá un plazo de validez no inferior a catorce días naturales desde su fecha de entrega.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -976,15 +712,11 @@ b) El plazo de vigencia de dicha oferta.
 
 En el caso de préstamos en que se hubieran establecido límites a la variación del tipo de interés, como cláusulas suelo o techo, se recogerá en un anexo a la ficha de información personalizada, el tipo de interés mínimo y máximo a aplicar y la cuota de amortización máxima y mínima.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
 
 #### Sección 3.ª Tasa anual equivalente
-
-> Téngase en cuenta que esta sección, añadida por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
 
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -1002,8 +734,6 @@ Cuando sea obligatorio abrir una cuenta para obtener el préstamo, los costes de
 
 4\. En los contratos de préstamo que contengan cláusulas que permitan modificaciones del tipo de interés y, en su caso, de los gastos incluidos en la tasa anual equivalente que no sean cuantificables en el momento del cálculo, la tasa anual equivalente se calculará partiendo del supuesto de que el tipo de interés y los demás gastos se computarán al nivel fijado en el momento de la firma del contrato.
 
-> Téngase en cuenta que este artículo, añadido por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3.
-
 > Se añade por el art. 2.14 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 > Esta actualización entra en vigor el 16 de junio de 2019 según determina la disposición final 3 de la citada Orden.
@@ -1016,15 +746,11 @@ La transparencia de los servicios bancarios de crédito al consumo celebrados po
 
 ### CAPÍTULO III BIS — Normas relativas a los créditos al consumo de duración indefinida
 
-> Téngase en cuenta que este capítulo, añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d).
-
 > Se añade, con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ##### Artículo 33 bis. Ámbito de aplicación.
 
 Este capítulo será de aplicación al crédito al consumo con interés de duración indefinida o de duración definida prorrogable de forma automática concedido a personas físicas en el que el crédito dispuesto no se satisface en su totalidad al final del período de liquidación pactado (crédito revolvente o *revolving*), sin perjuicio de lo previsto en el artículo 33.
-
-> Téngase en cuenta que este artículo añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d). Véase la disposición transitoria única de la citada orden.
 
 > Se añade, con efectos de 27 de enero de 2021,por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
@@ -1048,15 +774,11 @@ La información señalada en este apartado será proporcionará al cliente con l
 
 3\. Sin perjuicio de la sujeción de la publicidad realizada en vías públicas, lugares abiertos al público y, en particular, en centros comerciales al cumplimiento de la normativa reguladora de la publicidad sobre productos y servicios bancarios, la entidad extremará la diligencia en el cumplimiento de la obligación de asistencia previa a la formalización del contrato cuando el crédito se promocione u ofrezca a la clientela en estos casos, facilitando en ese momento explicaciones adecuadas de forma individualizada para que el potencial cliente pueda evaluar si el contrato de crédito, y en especial la modalidad de pago propuesta, se ajusta a sus intereses, a sus necesidades y a su situación financiera.
 
-> Téngase en cuenta que este artículo, añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.b) y d).
-
 > Se añade, con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ##### Artículo 33 quáter. Derecho de desistimiento.
 
 El cliente podrá ejercer el derecho de desistimiento del contrato de crédito señalado en el artículo 33 bis en los términos previstos en el artículo 28 de la Ley 16/2011, de 24 de junio, en cuyo caso dejará sin efecto el contrato de crédito celebrado.
-
-> Téngase en cuenta que este artículo añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d).
 
 > Se añade, con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
@@ -1088,8 +810,6 @@ a) Ejemplos de escenarios sobre el posible ahorro que representaría aumentar el
 
 b) El importe de la cuota mensual que permitiría liquidar toda la deuda en el plazo de un año.
 
-> Téngase en cuenta que este artículo, añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.b) y d).
-
 > Se añade, con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ##### Artículo 33 sexies. Información adicional.
@@ -1116,8 +836,6 @@ No obstante, no será necesario realizar esta comunicación cuando la entidad au
 
 3\. Cuando haya transcurrido más de un año entre el momento de la contratación y el de la activación del crédito a que se refiere el artículo 33 bis, la información normalizada europea y el ejemplo representativo de crédito señalados en el artículo 33 ter.1 se suministrarán al cliente de nuevo en el momento de su activación.
 
-> Téngase en cuenta que este artículo añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d).
-
 > Se añade,con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ##### Artículo 33 septies. Requisitos de forma y entrega de la información.
@@ -1125,8 +843,6 @@ No obstante, no será necesario realizar esta comunicación cuando la entidad au
 La información señalada en los artículos 33 quinquies y 33 sexies se redactará en los términos previstos en el artículo 11.
 
 La entidad suministrará dicha información en papel u otro soporte duradero, de conformidad con lo que se acuerde contractualmente entre la entidad y el cliente. A estos efectos, se considerará duradero todo soporte que permita al cliente al que se transmite información personalizada conservarla, recuperarla fácilmente durante un período de tiempo adaptado a los fines de dicha información y reproducirla de forma idéntica a la información recibida.
-
-> Téngase en cuenta que este artículo añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d).
 
 > Se añade, con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
@@ -1140,8 +856,6 @@ La entidad suministrará dicha información en papel u otro soporte duradero, de
 
 Cuando la entidad pueda cobrar gastos en concepto de información con arreglo a lo dispuesto en este apartado, serán razonables y acordes con los costes efectivamente soportados por la entidad.
 
-> Téngase en cuenta que este artículo, añadido por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de enero de 2021, según determina su disposición final 2.d).
-
 > Se añade, con efectos de 27 de enero de 2021, por el art. 3.6 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 ### CAPÍTULO IV — Normas relativas a los servicios de pago
@@ -1149,14 +863,6 @@ Cuando la entidad pueda cobrar gastos en concepto de información con arreglo a 
 ##### Artículo 34. Normativa de transparencia de los servicios de pago.
 
 La transparencia de las condiciones de contratación y los requisitos de información exigibles en la prestación de servicios de pago a los clientes se rige por lo previsto en la Orden de la Ministra de Economía y Empresa de 26 de diciembre de 2019, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago y por la que se modifica la Orden ECO/734/2004, de 11 de marzo, sobre los departamentos y servicios de atención al cliente y el defensor del cliente de las entidades financieras, y la Orden EHA/2899/2011, de 28 de octubre, de transparencia y protección del cliente de servicios bancarios.
-
-> Téngase en cuenta que este artículo, modificado por por la disposición final 3.2 de la Orden ECE/1263/2019, de 26 de diciembre. [Ref. BOE-A-2019-18677](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18677), entra en vigor el 1 de julio de 2020 según determina su disposición final 6.
-
-> Redacción anterior:
-
-> **"Artículo 34. Normativa de transparencia de los servicios de pago.**
-
-> La transparencia de los servicios de pago celebrados por los clientes se rige por lo previsto en la Orden EHA/1608/2010, de 14 de junio, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago. Asimismo, en lo no previsto por la citada Orden EHA/1608/2010, de 14 de junio, les resultará aplicable lo establecido en los artículos 3, 8, excepto el apartado 2, 9 y 15 de esta orden."
 
 > Se modifica, con efectos de 1 de julio de 2020, por la disposición final 3.2 de la Orden ECE/1263/2019, de 26 de diciembre. [Ref. BOE-A-2019-18677](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18677)
 
@@ -1167,28 +873,6 @@ La transparencia de las condiciones de contratación y los requisitos de informa
 1\. El Mibor continuará siendo considerado tipo de interés oficial exclusivamente a los efectos de su aplicación en los préstamos hipotecarios formalizados con anterioridad al 1 de enero de 2000, conforme a lo previsto en el artículo 32 de la Ley 46/1998, de 17 de diciembre, sobre introducción del euro.
 
 2\. El Banco de España publicará el Mibor mensualmente en su sede electrónica y en el «Boletín Oficial del Estado». Para la publicación de este índice continuará vigente la actual definición del Mibor establecida en la Circular 5/2012, de 27 de junio, del Banco de España, a entidades de crédito y proveedores de servicios de pago, sobre transparencia de los servicios bancarios y responsabilidad en la concesión de préstamos.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 3.7 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 27 de julio de 2021, según determina su disposición final 2.c):
-
-> Redacción anterior:
-
-> **"Disposición transitoria única. Régimen transitorio de índices o tipos de referencia.**
-
-> 1\. Los índices o tipos de referencia que se publicaran con carácter oficial y estuvieran siendo empleados en préstamos a interés variable a la entrada en vigor de esta orden, continuarán siendo considerados aptos a todos los efectos. La desaparición completa de los citados índices o tipos, con todos sus efectos, se producirá transcurrido un año de la entrada en vigor de la presente orden y su normativa de desarrollo, siempre que en ese plazo se hubiese establecido el correspondiente régimen de transición para los préstamos afectados.
-
-> 2\. Hasta el momento indicado en el último inciso del apartado anterior, el Banco de España se encargará de publicar mensualmente en su sede electrónica los índices y tipos de referencia siguientes:
-
-> a) Tipo medio de los préstamos hipotecarios a más de tres años, para adquisición de vivienda libre, concedidos por los bancos.
-
-> b) Tipo medio de los préstamos hipotecarios a más de tres años, para adquisición de vivienda libre, concedidos por las cajas de ahorros.
-
-> c) Tipo activo de referencia de las cajas de ahorros.
-
-> Para la publicación de estos índices continuarán vigentes las actuales definiciones de los mismos conforme a lo previsto en la Circular 8/1990 del Banco de España, de 7 de septiembre, a entidades de crédito, sobre transparencia de las operaciones y protección de la clientela, con las siguientes particularidades:
-
-> a) Las cajas de ahorro que ejerzan indirectamente su negocio financiero conforme a lo previsto en el artículo 5 del Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros declararán al Banco de España, de acuerdo con lo establecido en las especificaciones técnicas correspondientes, como tipos de interés a efectos de la elaboración de los citados índices, los que practique la entidad bancaria a la que hayan aportado su negocio financiero.
-
-> b) Las declaraciones que a tal fin hagan las entidades bancarias a través de los que se ejerza indirectamente no se tomarán en consideración para la elaboración de los índices."
 
 > Se modifica, con efectos de 27 de julio de 2021, por el art. 3.7 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
@@ -1234,14 +918,6 @@ c) Los criterios y elementos que deberán tenerse en cuenta para la formulación
 
 3\. Los criterios y elementos a los que se refieren las letras b) y c) del apartado anterior deberán fijarse por el Banco de España en el plazo de nueve meses desde la publicación de la Orden ETD/699/2020, de 24 de julio, de regulación del crédito revolvente y por la que se modifica la Orden ECO/697/2004, de 11 de marzo, sobre la Central de Información de Riesgos, la Orden EHA/1718/2010, de 11 de junio, de regulación y control de la publicidad de los servicios y productos bancarios y la Orden EHA/2899/2011, de 28 de octubre, de transparencia y protección del cliente de servicios bancarios.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 3.8 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583), entra en vigor el 2 de enero de 2021, según determina su disposición final 2:
-
-> Redacción anterior:
-
-> **"Disposición final tercera. Facultades de desarrollo.**
-
-> Se habilita al Banco de España para dictar las normas precisas para el desarrollo y ejecución de esta orden."
-
 > Se modifica por el art. 3.8 de la Orden ETD/699/2020, de 24 de julio. [Ref. BOE-A-2020-8583](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8583)
 
 > Esta modificación entra en vigor el 2 de enero de 2021 según determina la disposición final 2 de la citada Orden.
@@ -1272,126 +948,116 @@ La información que a continuación se indica, se facilitará en un sólo docume
 
 Modelo de FIPRE
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>(Texto introductorio) </strong>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El presente documento se extiende el [fecha corriente] en respuesta a su solicitud de información, y no conlleva para [nombre de la entidad] la obligación de concederle un préstamo. La información incorporada tiene carácter meramente orientativo.</p>
-<p class="cuerpo_tabla_izq">Se ha elaborado en las condiciones actuales del mercado. La oferta personalizada posterior puede diferir en función de la variación de dichas condiciones o como resultado de la obtención de la información sobre sus preferencias y condiciones financieras.</p>
+<p>El presente documento se extiende el [fecha corriente] en respuesta a su solicitud de información, y no conlleva para [nombre de la entidad] la obligación de concederle un préstamo. La información incorporada tiene carácter meramente orientativo.</p>
+<p>Se ha elaborado en las condiciones actuales del mercado. La oferta personalizada posterior puede diferir en función de la variación de dichas condiciones o como resultado de la obtención de la información sobre sus preferencias y condiciones financieras.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>1. ENTIDAD DE CRÉDITO</strong>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">● Identidad / Nombre comercial.</p>
-<p class="cuerpo_tabla_izq">● Domicilio social</p>
-<p class="cuerpo_tabla_izq">● Número de teléfono.</p>
-<p class="cuerpo_tabla_izq">● Correo electrónico.</p>
-<p class="cuerpo_tabla_izq">● Dirección de página electrónica.</p>
-<p class="cuerpo_tabla_izq">● Autoridad de supervisión: [Identidad de la autoridad de supervisión y dirección de su página electrónica.]</p>
-<p class="cuerpo_tabla_izq">● Persona de contacto: [Datos completos de la persona de contacto.]</p>
-<p class="cuerpo_tabla_izq">● Datos de contacto del servicio de atención al cliente.</p>
+<p>● Identidad / Nombre comercial.</p>
+<p>● Domicilio social</p>
+<p>● Número de teléfono.</p>
+<p>● Correo electrónico.</p>
+<p>● Dirección de página electrónica.</p>
+<p>● Autoridad de supervisión: [Identidad de la autoridad de supervisión y dirección de su página electrónica.]</p>
+<p>● Persona de contacto: [Datos completos de la persona de contacto.]</p>
+<p>● Datos de contacto del servicio de atención al cliente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>2. CARACTERÍSTICAS DEL PRÉSTAMO </strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">● Importe máximo del préstamo disponible en relación con el valor del bien inmueble.</p>
-<p class="cuerpo_tabla_izq">● Finalidad.</p>
-<p class="cuerpo_tabla_izq">● Tipo de préstamo.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>Préstamo en divisa.</p>
-<p class="cuerpo_tabla_izq">● Plazo de amortización.</p>
-<p class="cuerpo_tabla_izq">●<em>(Si ha lugar)</em> Este préstamo requiere de la aportación de una garantía hipotecaria.</p>
-<p class="cuerpo_tabla_izq">●<em>(Si ha lugar)</em> Este préstamo requiere de la aportación de una garantía pignoraticia.</p>
-<p class="cuerpo_tabla_izq">●<em>(Si ha lugar)</em> Este préstamo requiere de garantes personales.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> El prestatario tiene la opción de poder dar en pago el inmueble hipotecado en garantía del préstamo, con carácter liberatorio de la totalidad de la deuda derivada del mismo.</p>
-<p class="cuerpo_tabla_izq">● Ejemplo representativo.</p>
-<p class="cuerpo_tabla_izq">● Reembolso del préstamo.</p>
-<p class="cuerpo_tabla_izq">●<em>(Si ha lugar)</em> El incumplimiento de los términos y condiciones del contrato de préstamo no garantiza el reembolso de su importe total en virtud del contrato;</p>
-<p class="cuerpo_tabla_izq">● Consecuencias del incumplimiento del contrato de préstamo.</p>
+<td>
+<p>● Importe máximo del préstamo disponible en relación con el valor del bien inmueble.</p>
+<p>● Finalidad.</p>
+<p>● Tipo de préstamo.</p>
+<p>● <em>(Si ha lugar) </em>Préstamo en divisa.</p>
+<p>● Plazo de amortización.</p>
+<p>●<em>(Si ha lugar)</em> Este préstamo requiere de la aportación de una garantía hipotecaria.</p>
+<p>●<em>(Si ha lugar)</em> Este préstamo requiere de la aportación de una garantía pignoraticia.</p>
+<p>●<em>(Si ha lugar)</em> Este préstamo requiere de garantes personales.</p>
+<p>● <em>(Si ha lugar)</em> El prestatario tiene la opción de poder dar en pago el inmueble hipotecado en garantía del préstamo, con carácter liberatorio de la totalidad de la deuda derivada del mismo.</p>
+<p>● Ejemplo representativo.</p>
+<p>● Reembolso del préstamo.</p>
+<p>●<em>(Si ha lugar)</em> El incumplimiento de los términos y condiciones del contrato de préstamo no garantiza el reembolso de su importe total en virtud del contrato;</p>
+<p>● Consecuencias del incumplimiento del contrato de préstamo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>3. TIPO DE INTERÉS </strong>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">● Clase y nivel del tipo de interés aplicable:</p>
-<p class="cuerpo_tabla_izq">○ Fijo.</p>
-<p class="cuerpo_tabla_izq">○ Variable (expresado en tipo de interés de referencia + diferencial).</p>
-<p class="cuerpo_tabla_izq">○ Variable limitado (expresando el tipo de interés mínimo y máximo y el tipo de interés de referencia + diferencial).</p>
-<p class="cuerpo_tabla_izq">● En caso de que durante el plazo de amortización se modifique la clase de tipo de interés se deberá reflejar el plazo en que se aplicará cada tipo.</p>
+<p>● Clase y nivel del tipo de interés aplicable:</p>
+<p>○ Fijo.</p>
+<p>○ Variable (expresado en tipo de interés de referencia + diferencial).</p>
+<p>○ Variable limitado (expresando el tipo de interés mínimo y máximo y el tipo de interés de referencia + diferencial).</p>
+<p>● En caso de que durante el plazo de amortización se modifique la clase de tipo de interés se deberá reflejar el plazo en que se aplicará cada tipo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>4. VINCULACIONES Y GASTOS PREPARATORIOS </strong>
 </td>
 </tr>
 <tr> </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Listado de productos o servicios vinculados al contrato de préstamo.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Listado de productos o servicios combinados con contrato de préstamo.</p>
-<p class="cuerpo_tabla_izq">● <em>Gastos preparatorios.</em></p>
+<p>● <em>(Si ha lugar)</em> Listado de productos o servicios vinculados al contrato de préstamo.</p>
+<p>● <em>(Si ha lugar)</em> Listado de productos o servicios combinados con contrato de préstamo.</p>
+<p>● <em>Gastos preparatorios.</em></p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>5. TASA ANUAL EQUIVALENTE Y COSTE TOTAL DEL PRÉSTAMO </strong>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La TAE es el coste total del préstamo expresado en forma de porcentaje anual. La TAE sirve para ayudarle a comparar las diferentes ofertas.</p>
-<p class="cuerpo_tabla_izq">● La TAE aplicable a su préstamo es [TAE]. Comprende:</p>
-<p class="cuerpo_tabla_izq">○ Tipo de interés.</p>
-<p class="cuerpo_tabla_izq">○ Otros componentes de la TAE.</p>
-<p class="cuerpo_tabla_izq">○ Coste total del préstamo en términos absolutos.</p>
-<p class="cuerpo_tabla_izq">○ El cálculo de la TAE y del coste total del préstamo se basan en los siguientes supuestos:</p>
-<p class="cuerpo_tabla_izq">▪ Importe.</p>
-<p class="cuerpo_tabla_izq">▪ Tipo de interés.</p>
-<p class="cuerpo_tabla_izq">▪ Otros supuestos.</p>
+<p>La TAE es el coste total del préstamo expresado en forma de porcentaje anual. La TAE sirve para ayudarle a comparar las diferentes ofertas.</p>
+<p>● La TAE aplicable a su préstamo es [TAE]. Comprende:</p>
+<p>○ Tipo de interés.</p>
+<p>○ Otros componentes de la TAE.</p>
+<p>○ Coste total del préstamo en términos absolutos.</p>
+<p>○ El cálculo de la TAE y del coste total del préstamo se basan en los siguientes supuestos:</p>
+<p>▪ Importe.</p>
+<p>▪ Tipo de interés.</p>
+<p>▪ Otros supuestos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>6. AMORTIZACIÓN ANTICIPADA </strong>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>Compensación por desistimiento.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>Compensación por riesgo de tipo de interés.</p>
+<p>● <em>(Si ha lugar) </em>Compensación por desistimiento.</p>
+<p>● <em>(Si ha lugar) </em>Compensación por riesgo de tipo de interés.</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que la modificación de los apartados 2 y 4 de la parte A, establecida por el art. 2.15 y 16 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> | **2. CARACTERÍSTICAS DEL PRÉSTAMO** | ● Importe máximo del préstamo disponible en relación con el valor del bien inmueble.<br>● Finalidad.<br>● Tipo de préstamo.<br>● *(Si ha lugar)*Préstamo en divisa.<br>● Plazo de amortización.<br>● Periodicidad de los pagos. |
-> |---|---|
-
-> | **4. VINCULACIONES Y GASTOS PREPARATORIOS** | ● Listado de productos o servicios vinculados para obtener el préstamo en las condiciones ofrecidas.<br>● Gastos preparatorios. |
-> |---|---|
 
 **Parte B**
 
@@ -1436,30 +1102,6 @@ Sección “3. TIPO DE INTERÉS”.
 3\. En caso de utilizarse un índice de referencia tal como se define en el artículo 3.1.3), del Reglamento (UE) 2016/1011 del Parlamento Europeo y del Consejo, se indicará su nombre y el de su administrador, así como las posibles implicaciones para el prestatario.
 
 4\. Se especificará de forma destacada la existencia de límites al alza (techos) del tipo de interés variable o de cualquier otro tipo de instrumento que limite la variabilidad del tipo de interés.
-
-> Téngase en cuenta que la modificación de los apartados 2 y 3 de la parte B, establecida por el art. 2.15 y 16 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> "Sección «2. CARACTERÍSTICAS PRINCIPALES DEL PRÉSTAMO».
-
-> 1\. El «importe máximo de préstamo disponible en relación con el valor del bien inmueble» representará el ratio préstamo-valor de tasación. Este ratio irá acompañado de un ejemplo significativo, en valor absoluto, del importe máximo que puede tomarse en préstamo para un determinado valor de un bien inmueble.
-
-> 2\. En «finalidad», se consignará la finalidad para la que se concede el préstamo, por ejemplo, adquisición de vivienda habitual, rehabilitación u obtención de financiación para otros fines.
-
-> 3\. En la descripción de la clase de préstamo se indicará claramente de qué forma se reembolsarán el capital y los intereses durante la vigencia del préstamo (esto es, reembolsos constantes, crecientes o decrecientes).
-
-> 4\. Si el préstamo es en una moneda distinta del euro se consignará expresamente, y se advertirá con claridad que, como consecuencia de esta circunstancia, la cuota mensual puede variar. Adicionalmente, se incluirá información sobre la fórmula utilizada para calcular los diferenciales de tipo de cambio y la periodicidad de su ajuste.
-
-> Si existiera algún límite al alza o a la baja del tipo de cambio o cualquier otro tipo de instrumento de que limite la variabilidad del mismo y cuya contratación sea un requisito para obtener el préstamo en las condiciones indicadas, deberá especificarse de forma destacada en esta sección.
-
-> Sección «3. TIPO DE INTERÉS».
-
-> 1\. En esta sección se explicará si el tipo de interés es fijo, variable o variable limitado y, en su caso, los periodos en los que el tipo aplicado consistirá en cada una de estas clases. Se señalará también la periodicidad de las revisiones del tipo variable y variable limitado.
-
-> 2\. El nivel del tipo de interés variable y variable limitado se expresará como un índice de referencia más un diferencial, si fuera el caso.
-
-> 3\. Se especificará de forma destacada la existencia de límites a la baja (suelos) o al alza (techos) del tipo de interés variable limitado o de cualquier otro tipo de instrumento que limite la variabilidad del tipo de interés."
 
 Sección «4. VINCULACIONES Y GASTOS PREPARATORIOS».
 
@@ -1542,174 +1184,6 @@ c) Que el prestamista haya requerido el pago al prestatario concediéndole un pl
 6\. (Si ha lugar) El vencimiento anticipado del préstamo al que se refiere el número anterior puede suponer que el deudor tenga que asumir los gastos derivados de la ejecución del préstamo.
 
 7\. (Si ha lugar) Se está contratando un instrumento de cobertura del riesgo de tipo de interés ligado al préstamo, lo que puede suponer la asunción de mayores costes para el deudor.
-
-> Téngase en cuenta que la actualización de este Anexo, establecida por el art. 2.19 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301), entra en vigor el 16 de junio de 2019 según determina su disposición final 3:
-
-> Redacción anterior:
-
-> **"ANEXO II**
-
-> FICHA DE INFORMACIÓN PERSONALIZADA (FIPER)
-
-> El texto del presente modelo se reproducirá tal cual en las Fichas de Información Personalizada (FIPER). Las indicaciones entre corchetes se sustituirán por la información correspondiente. En la parte B se dan instrucciones sobre como cumplimentar la FIPER.
-
-> Cuando se indique «si ha lugar», la entidad de crédito cumplimentará la casilla si la información es pertinente para el contrato de préstamo. Si la información no es pertinente, la entidad suprimirá los datos correspondientes o la sección entera. En este último caso, la numeración de las secciones se adaptará en consecuencia.
-
-> La información que a continuación se indica, se facilitará en un sólo documento. Se utilizarán caracteres tipográficos claramente legibles. Cuando se trate de elementos de información que deban resaltarse, se empleará negrita, sombreado o caracteres de mayor tamaño.
-
-> **Parte A**
-
-> *Modelo de FIPER*
-
-> | **(Texto introductorio)** |
-> |---|
-> | El presente documento se extiende el [fecha corriente] en respuesta a su solicitud de información, y no conlleva para [nombre de la entidad] la obligación de concederle un préstamo hipotecario.<br>Se ha elaborado basándose en la información que usted, [nombre del cliente], ha facilitado hasta la fecha, así como en las actuales condiciones del mercado financiero. La información que sigue será válida hasta el [fecha de validez]. Después de esa fecha, puede variar con arreglo a las condiciones del mercado. |
-> | **1. ENTIDAD DE CRÉDITO** |
-> | ● Identidad / Nombre comercial.<br>● Domicilio social.<br>● Número de teléfono.<br>● Correo electrónico.<br>● Dirección de página electrónica.<br>● Autoridad de supervisión: [Identidad de la autoridad de supervisión y dirección de su página web].<br>● Persona de contacto: [Datos completos de la persona de contacto]. |
-> | **2. CARACTERÍSTICAS DEL PRÉSTAMO** |
-> | ● Importe y moneda del préstamo: [valor] [moneda]<br>● *(Si ha lugar)* El presente préstamo no se expresa en [moneda nacional]<br>● Duración del préstamo.<br>● Tipo de préstamo.<br>● Clase de tipo de interés aplicable.<br>● Importe total a reembolsar.<br>● Importe máximo de préstamo disponible en relación con el valor del bien inmueble.<br>● *(Si ha lugar)* Garantía. |
-> | **3. TIPO DE INTERÉS** |
-> | La TAE es el coste total del préstamo expresado en forma de porcentaje anual. La TAE sirve para ayudarle a comparar las diferentes ofertas.<br>● La TAE aplicable a su préstamo es [TAE]. Comprende:<br>○ El tipo de interés [valor en porcentaje o en tipo de referencia más diferencial si se tratase de un tipo variable o variable limitado]<br>○ [Otros componentes de la TAE] |
-> | **4. PERIODICIDAD Y NÚMERO DE PAGOS** |
-> | ● Periodicidad de reembolso: [periodicidad]<br>● Número de pagos: [número] |
-> | **5. IMPORTE DE CADA CUOTA HIPOTECARIA** |
-> | ● [Importe] [moneda]<br>● *(Si ha lugar)* Las cuotas hipotecarias calculadas en diferentes escenarios de evolución del tipo de interés cuando el préstamo aplica un tipo de interés variable o variable limitado.<br>● *(Si ha lugar)* El tipo de cambio utilizado para la conversión del reembolso en [moneda del préstamo] a [moneda nacional] será el publicado por [nombre del organismo encargado de la publicación del tipo de cambio] el [fecha]. |
-> | **6. TABLA DE AMORTIZACIONES** |
-> | La siguiente tabla muestra el importe que ha de pagarse cada [periodicidad]<br>● Las cuotas (columna [n.º pertinente]) son iguales a la suma de los intereses pagados (columna [n.º pertinente]), el capital pagado (columna [n.º pertinente]) *si ha lugar*, otros costes (columna [n.º pertinente]).<br>● *(Si ha lugar)*Los costes de la columna «otros costes» corresponden a [lista de costes]. El capital pendiente (columna [n.º pertinente]) es igual al importe del préstamo que queda por reembolsar.<br>● [Importe y moneda del préstamo]<br>● [Duración del préstamo]<br>● [Tipo de interés]<br>● [Tabla]<br>● *(Si ha lugar)* [Advertencia sobre la variabilidad de las cuotas] |
-> | **7. VINCULACIONES Y OTROS COSTES** |
-> | Si desea beneficiarse de las condiciones del préstamo descritas en la presente ficha, debe cumplir las obligaciones que, a continuación, se indican.<br>● Obligaciones<br>● *(Si ha lugar)*Observe que las condiciones de préstamo descritas, incluido el tipo de interés aplicable, pueden variar en caso de incumplimiento de las citadas obligaciones.<br>● Además de los costes ya incluidos en las cuotas [periodicidad], este préstamo conlleva los siguientes costes:<br>○ Costes que deben abonarse una sola vez.<br>○ Costes que deben abonarse periódicamente.<br>● Asegúrese de que tiene conocimiento de todos los demás tributos y costes (p.ej., gastos notariales) conexos al préstamo. |
-> | **8. AMORTIZACIÓN ANTICIPADA** |
-> | Si decide amortizar el préstamo anticipadamente, consúltenos a fin de determinar el nivel exacto de la compensación en ese momento.<br>● Este préstamo puede amortizarse anticipadamente, total o parcialmente:<br>○ [Condiciones]<br>○ [Procedimiento]<br>● *(Si ha lugar)* Compensación por desistimiento. |
-> | *(SI HA LUGAR)* **9. DERECHO DE SUBROGACIÓN** |
-> | Si lo desea puede llevarse a a otra entidad de crédito (subrogar) su préstamo aún sin el consentimiento de [nombre de la entidad]. |
-> | **10. DEPARTAMENTO DE ATENCIÓN AL CLIENTE** |
-> | ● Departamento de Atención al Cliente: nombre, dirección geográfica, número de teléfono, correo electrónico, persona de contacto y sus datos de contacto.<br>● *(Si ha lugar)*Defensor del cliente: nombre, dirección geográfica, número de teléfono, correo electrónico, persona de contacto y sus datos de contacto. |
-> | **11. SERVICIO DE RECLAMACIONES DEL BANCO DE ESPAÑA** |
-> | En caso de desacuerdo con el departamento de atención al cliente de la entidad de crédito, o transcurridos dos meses sin respuesta del mismo, puede dirigir una reclamación (o, siempre que lo desee, formular una consulta o queja) al Servicio de Reclamaciones del Banco de España (91.338.65.30):<br>○ Por escrito dirigido al Servicio de Reclamaciones C/ Alcalá, 48; 28014 Madrid.<br>○ Por vía electrónica en la página http://www.bde.es |
-> | **12. INCUMPLIMIENTO DE LOS COMPROMISOS VINCULADOS AL PRÉSTAMO: CONSECUENCIAS PARA EL CLIENTE** |
-> | ● [Tipos de incumplimiento]<br>● [Consecuencias financieras y/o jurídicas]<br>Si tiene dificultades para efectuar sus pagos [periodicidad], póngase en contacto con nosotros a la mayor brevedad posible para estudiar posibles soluciones. |
-> | *(SI HA LUGAR)* **13. INFORMACIÓN ADICIONAL, EN EL CASO DE VENTAS A DISTANCIA** |
-> | ● *(Si ha lugar)* La legislación escogida por la entidad de crédito como base para el establecimiento de relaciones con usted con anterioridad a la celebración del contrato de crédito es [legislación aplicable].<br>● La información y documentación contractual se facilitarán en [lengua]. Con su consentimiento, durante la vigencia del contrato de préstamo, nos comunicaremos con usted en [lengua o lenguas]. |
-> | **14. RIESGOS Y ADVERTENCIAS** |
-> | Le rogamos tome nota de los riesgos que conlleva un préstamo hipotecario.<br>● Sus ingresos pueden variar. Asegúrese de que si sus ingresos disminuyen aún seguirá pudiendo hacer frente a sus cuotas hipotecarias [periodicidad].<br>● Tiene usted derecho a examinar el proyecto de documento contractual en el despacho del notario autorizante, con la antelación de 3 días hábiles previos a **su formalización** ante el mismo.<br>● *(Si ha lugar)***Puede** usted perder su vivienda si no efectúa sus pagos puntualmente.<br>● *(Si ha lugar)* Responde usted ante [nombre de la entidad] del pago del préstamo no solo con su vivienda sino con todos sus bienes presentes y futuros.<br>● *(Si ha lugar)* Debe tener en cuenta el hecho de que el tipo de interés de este préstamo no permanece fijo durante todo su período de vigencia.<br>● *(Si ha lugar)* Debe tener en cuenta el hecho de que el tipo de interés de este préstamo a pesar de ser variable nunca se beneficiará de descensos del tipo de interés de referencia por debajo del [límite mínimo del tipo de **interés** variable limitado].<br>● *(Si ha lugar)* El presente préstamo no se expresa en euros. Tenga en cuenta que el importe en euros que necesitará para pagar cada cuota variará en función del tipo de cambio de [moneda del préstamo/euro].<br>● *(Si ha lugar)* Este es un préstamo de solo intereses. Ello quiere decir que, durante su vigencia, necesitará reunir capital suficiente para reembolsar el importe del préstamo en la fecha de vencimiento.<br>● Al margen de lo recogido en la presente ficha, tendrá que pagar otros tributos y gastos *(si ha lugar),*p.ej., gastos notariales. |
-
-> **Parte B**
-
-> *Instrucciones para cumplimentar la FIPER*
-
-> La FIPER se cumplimentará como sigue:
-
-> Sección «TEXTO INTRODUCTORIO».
-
-> La fecha de validez figurará debidamente destacada.
-
-> Sección «1. ENTIDAD DE CRÉDITO».
-
-> 1\. La identidad, el número de teléfono, el domicilio social y la dirección de la página electrónica de la entidad de crédito serán los que correspondan a la sede social de ésta. Se indicará la autoridad competente para la supervisión de los servicios bancarios de préstamo hipotecario.
-
-> 2\. La información sobre la persona de contacto es facultativa.
-
-> 3\. De conformidad con el artículo 7 de la Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores, si la operación se ofrece a distancia, la entidad indicará, en su caso, el nombre y la dirección geográfica de su representante en el Estado miembro de residencia del cliente. En estos supuestos, la indicación del número de teléfono, la dirección de correo electrónico y la dirección de página web del representante de la entidad es facultativa.
-
-> 4\. De conformidad con el artículo 7 de la Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores, si la operación se ofrece a distancia, la entidad indicará el nombre del Registro Mercantil en el que está inscrito, así como su número de inscripción u otro medio equivalente de identificación en ese registro.
-
-> Sección «2. CARACTERÍSTICAS PRINCIPALES DEL PRÉSTAMO».
-
-> 1\. La duración del préstamo se indicará en años o meses, según proceda. Si la duración del préstamo puede variar durante la vigencia del contrato, la entidad explicará cuándo y en qué circunstancias puede ocurrir.
-
-> En la descripción de la clase de préstamo se indicará claramente de qué forma se reembolsarán el capital y los intereses durante la vigencia del mismo (esto es, reembolsos constantes, crecientes o decrecientes).
-
-> 2\. En esta sección se explicará si el tipo de interés es fijo, variable o variable limitado y, en su caso, los periodos en los que el tipo aplicado consistirá en cada una de estas clases. Se señalará también la periodicidad de las revisiones del tipo variable y variable limitado. Asimismo, se explicará la fórmula utilizada para revisar el tipo de interés. La entidad indicará además dónde hallar información adicional sobre los índices o los tipos utilizados en la fórmula. El nivel del tipo de interés variable y variable limitado se expresará como un índice de referencia más un diferencial, si fuera el caso. Se especificará de forma destacada la existencia de límites a la baja (suelos) o al alza (techos) del tipo de interés variable limitado, o de cualquier otro tipo de instrumento que limite la variabilidad del tipo de interés.
-
-> Si la moneda del préstamo es diferente de la moneda nacional, la entidad incluirá información sobre la fórmula utilizada para calcular los diferenciales de tipo de cambio y la periodicidad de su ajuste.
-
-> 3\. El «importe total a reembolsar» será igual a la suma del importe del préstamo y el coste total del mismo. Dentro de este concepto se incluyen todos los gastos, incluidos los intereses, las comisiones, los impuestos y cualquier otro tipo de gastos que el cliente deba pagar en relación con el contrato de préstamo y que sean conocidos por la entidad, con excepción de los gastos de notaría. El coste de los servicios accesorios relacionados con el contrato de préstamo, en particular las primas de seguro, se incluye asimismo en este concepto si la obtención del préstamo en las condiciones ofrecidas está condicionada a la celebración de estos contratos de servicios.
-
-> Si se tratase de un préstamo en divisa o a tipo de interés variable, se calculará el importe total a reembolsar con el supuesto de que el tipo de interés o de cambio se mantiene constante durante todo el período al nivel de la fecha más próxima a la de la emisión de la FIPER.
-
-> 4\. El «importe máximo de préstamo disponible en relación con el valor del bien inmueble» representará el ratio préstamo-valor de tasación. Este ratio irá acompañado de un ejemplo significativo en valor absoluto del importe máximo que puede tomarse en préstamo para un determinado valor de un bien inmueble.
-
-> Sección «3. TIPO DE INTERÉS».
-
-> Además del tipo de interés, se especificarán todos los restantes costes que entran en la TAE.
-
-> Se especificará, asimismo, de forma destacada la existencia de límites a la baja (suelos) o al alza (techos) del tipo de interés variable limitado o de cualquier otro tipo de instrumento que limite la variabilidad del tipo de interés.
-
-> Sección «4. PERIODICIDAD Y NÚMERO DE PAGOS».
-
-> Si los pagos van a realizarse de forma periódica, se indicará la periodicidad (p.ej., mensualmente). Si la periodicidad de los pagos no fuera a ser constante, se explicará claramente al cliente las diferentes periodicidades. El número de pagos indicado abarcará todo el periodo de vigencia del préstamo.
-
-> Sección «5. IMPORTE DE CADA CUOTA HIPOTECARIA».
-
-> 1\. Se indicará claramente la moneda en que vaya expresado el préstamo.
-
-> 2\. Si el importe de la cuota hipotecaria puede variar debido a que el tipo de interés de referencia fuera variable o a que el préstamo estuviera denominado en divisa, se utilizará como referencia para el cálculo de esta cuota el tipo de interés o tipo de cambio del día más próximo a la fecha de emisión de la FIPER. Adicionalmente se consignará cuándo y con cuánta periodicidad variará posteriormente.
-
-> Si el importe de las cuotas puede variar durante la vigencia del préstamo, pero se mantiene fijo durante un determinado periodo inicial, la entidad especificará el periodo durante el cual el importe inicial de la cuota seguirá siendo válido, y cuándo y con qué periodicidad variará posteriormente.
-
-> 3\. Si el tipo de interés aplicable fuera variable o variable limitado, la entidad incluirá ejemplos numéricos que indiquen claramente de qué modo los cambios en el pertinente tipo de interés de referencia afectarán al importe de las cuotas. Estos ejemplos de variación del tipo de interés serán realistas y simétricos, y ofrecerán siempre información sobre los efectos de supuestos desfavorables. En particular, se incluirá la siguiente información y sus efectos sobre la cuota hipotecaria:
-
-> a) variación experimentada por el tipo de interés de referencia durante los últimos dos años en términos de la diferencia entre el valor máximo y el mínimo alcanzado en dicho período;
-
-> b) valores máximo y mínimo alcanzados por dicho tipo durante los últimos quince años, o el plazo máximo disponible si es menor, y las fechas en que tales valores se alcanzaron;
-
-> c) el importe de la cuota que resultaría de calcularla con dichos tipos mínimo y máximo o, si los hubiera, con los límites a la baja y/o al alza que se establecieran para el préstamo.
-
-> 4\. Si la moneda del préstamo no es el euro, la entidad incluirá ejemplos numéricos que indiquen claramente de qué modo los cambios en el pertinente tipo de cambio afectarán al importe de las cuotas. Estos ejemplos de variación del tipo de cambio serán realistas y simétricos, y ofrecerán siempre información sobre los efectos de supuestos desfavorables. En particular, se incluirá la siguiente información y sus efectos sobre la cuota hipotecaria:
-
-> a) variación experimentada por el tipo de cambio de referencia durante los últimos dos años en términos de la diferencia entre el valor máximo y el mínimo alcanzado en dicho período;
-
-> b) valores máximo y mínimo alcanzados por dicho tipo durante los últimos quince años y las fechas en que tales valores se alcanzaron;
-
-> c) el importe de la cuota que resultaría de calcularla con dichos tipos mínimo y máximo o, si los hubiera, con los límites a la baja y/o al alza que se establecieran para el préstamo.
-
-> 5\. Cuando la moneda utilizada para el pago de las cuotas difiera de la moneda del préstamo, se indicará con claridad el tipo de cambio que vaya a aplicarse. Dicha indicación incluirá el nombre del organismo encargado de publicar el tipo de cambio aplicable y el momento de cálculo de éste.
-
-> Sección «6. TABLA DE AMORTIZACIONES».
-
-> 1\. Si el interés puede variar durante la vigencia del préstamo, la entidad indicará, tras la referencia al tipo de interés, el periodo durante el cual será válido el tipo de interés inicial.
-
-> 2\. La tabla que ha de insertarse en esta sección contendrá las siguientes columnas: «fecha de amortización», «importe de la cuota hipotecaria», «intereses a abonar en cada cuota hipotecaria», «otros costes incluidos en la cuota hipotecaria » (si procede), «capital amortizado en cada cuota» y «capital pendiente después de cada cuota hipotecaria ».
-
-> 3\. La información sobre el primer año de reembolso se facilitará por cuota hipotecaria, con inclusión de un subtotal para cada una de las columnas al final del primer año. En los restantes años, la información podrá facilitarse para el conjunto del año. Al final de la tabla figurará una fila para el total general, que reflejará los importes totales de cada columna. Se destacará claramente el importe total abonado por el cliente (esto es, el importe total de la columna «importe de la cuota hipotecaria»), identificándolo como tal.
-
-> 4\. Si el tipo de interés está sujeto a revisión y se desconoce el importe de la cuota tras cada revisión, la entidad podrá indicar en la tabla el mismo importe de cuota para toda la duración del préstamo. En este caso, la entidad llamará la atención del cliente, diferenciando para ello visualmente los importes conocidos de los hipotéticos (p.ej., utilizando caracteres tipográficos, bordes o sombreado diferentes). Se incluirá también un texto claramente legible que explique en relación con qué periodos pueden variar los importes recogidos en la tabla, y por qué razón.
-
-> Sección «7. VINCULACIONES Y OTROS COSTES»
-
-> 1\. En esta sección, la entidad indicará las vinculaciones pertinentes, tales como la obligatoriedad de contratar cualquier servicio con la misma entidad o con otra. Por cada obligación, la entidad especificará frente a quién se asume y en qué plazo debe satisfacerse.
-
-> 2\. La entidad enumerará también cada coste por categoría, indicando su importe, a quién ha de abonarse y en qué momento. Si se desconoce el importe, la entidad facilitará una posible horquilla o indicará cómo va a calcularse.
-
-> Sección «8. AMORTIZACIÓN ANTICIPADA».
-
-> 1\. La entidad indicará en qué condiciones puede amortizarse total o parcialmente el préstamo. Asimismo, indicará qué trámites debe realizar el cliente para solicitar la amortización anticipada.
-
-> 2\. Si la amortización anticipada conlleva compensación para la entidad, esta indicará el importe como porcentaje del capital amortizado o en caso de que dependa de otros factores se indicará la forma de cálculo de la compensación. La entidad facilitará al menos dos ejemplos ilustrativos con el fin de mostrar al cliente el importe de los gastos de amortización anticipada según distintas hipótesis posibles.
-
-> Sección «9. DERECHO DE SUBROGACIÓN».
-
-> La entidad informará al cliente de su capacidad unilateral para subrogar su préstamo hipotecario conforme a lo previsto en la Ley 2/1994, de 30 de marzo, sobre Subrogación y Modificación de Préstamos Hipotecarios.
-
-> Sección «10. DEPARTAMENTO DE ATENCIÓN AL CLIENTE».
-
-> La información sobre las personas de contacto es facultativa.
-
-> Sección «11. SERVICIO DE RECLAMACIONES DEL BANCO DE ESPAÑA».
-
-> Sección «12. INCUMPLIMIENTO DE LOS COMPROMISOS VINCULADOS AL PRÉSTAMO: CONSECUENCIAS PARA EL CLIENTE ».
-
-> 1\. Si el incumplimiento de alguna de las obligaciones que incumben al cliente en relación con el préstamo puede acarrearle consecuencias financieras o jurídicas, la entidad describirá en esta sección los diferentes supuestos (p.ej., tipos de interés de demora, incumplimiento de las vinculaciones especificadas en la Sección 7).
-
-> 2\. La entidad especificará de forma clara y fácilmente comprensible las sanciones o las consecuencias a que puede dar lugar cada uno de estos supuestos. Se expresarán de forma destacada las consecuencias graves, especialmente, los efectos de la ejecución hipotecaria y de la responsabilidad ilimitada del cliente.
-
-> Sección «13. INFORMACIÓN ADICIONAL, EN EL CASO DE VENTAS A DISTANCIA».
-
-> Cuando proceda, en la presente sección se incluirá una cláusula que estipule la legislación aplicable al contrato de préstamo y la jurisdicción competente.
-
-> Sección «14. RIESGOS Y ADVERTENCIAS».
-
-> Se indicarán de forma destacada todas las advertencias señaladas."
 
 > Se modifica por el art. 2.19 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
@@ -1817,218 +1291,218 @@ La información que a continuación se indica, se facilitará en un sólo docume
 
 Modelo de FIPER para hipotecas inversas
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>(Texto introductorio) </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">El presente documento se extiende el [fecha corriente] en respuesta a su solicitud de información, y no conlleva para [nombre de la entidad] la obligación de concederle una hipoteca inversa.</p>
-<p class="cuerpo_tabla_izq">Se ha elaborado basándose en la información que usted, [nombre del cliente], ha facilitado hasta la fecha, así como en las actuales condiciones del mercado financiero. La información que sigue será válida hasta el [fecha de validez]. Después de esa fecha, puede variar con arreglo a las condiciones del mercado.</p>
+<p>El presente documento se extiende el [fecha corriente] en respuesta a su solicitud de información, y no conlleva para [nombre de la entidad] la obligación de concederle una hipoteca inversa.</p>
+<p>Se ha elaborado basándose en la información que usted, [nombre del cliente], ha facilitado hasta la fecha, así como en las actuales condiciones del mercado financiero. La información que sigue será válida hasta el [fecha de validez]. Después de esa fecha, puede variar con arreglo a las condiciones del mercado.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>1. ENTIDAD</strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● Identidad / Nombre comercial.</p>
-<p class="cuerpo_tabla_izq">● Domicilio social.</p>
-<p class="cuerpo_tabla_izq">● Número de teléfono.</p>
-<p class="cuerpo_tabla_izq">● Correo electrónico.</p>
-<p class="cuerpo_tabla_izq">● Dirección de página electrónica.</p>
-<p class="cuerpo_tabla_izq">● Autoridad de supervisión: [Identidad de la autoridad de supervisión y dirección de su página web].</p>
-<p class="cuerpo_tabla_izq">● Persona de contacto: [Datos completos de la persona de contacto].</p>
+<p>● Identidad / Nombre comercial.</p>
+<p>● Domicilio social.</p>
+<p>● Número de teléfono.</p>
+<p>● Correo electrónico.</p>
+<p>● Dirección de página electrónica.</p>
+<p>● Autoridad de supervisión: [Identidad de la autoridad de supervisión y dirección de su página web].</p>
+<p>● Persona de contacto: [Datos completos de la persona de contacto].</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>2. CARACTERÍSTICAS DEL PRÉSTAMO ASOCIADO A LA HIPOTECA INVERSA</strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● Importe total a reembolsar y clase de tipo de interés:</p>
-<p class="cuerpo_tabla_izq">○ <em>(Si ha lugar)</em> El tipo de interés es variable / variable limitado, con lo que el importe total a reembolsar puede variar:</p>
-<p class="cuerpo_tabla_izq">▪ Importe a reembolsar calculado en diferentes escenarios de tipo de interés.</p>
-<p class="cuerpo_tabla_izq">▪ [Fecha en la que se fija el tipo de interés para el cálculo del importe total a reembolsar definitivo].</p>
-<p class="cuerpo_tabla_izq">○ <em>(Si ha lugar) </em>El importe a reembolsar no se expresa en [moneda nacional]:</p>
-<p class="cuerpo_tabla_izq">▪ El tipo de cambio utilizado para la conversión del reembolso en [moneda del préstamo a [moneda nacional] será el publicado por el [nombre del organismo encargado de la publicación del tipo de cambio] el [fecha].</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>[Fecha de reembolso]</p>
-<p class="cuerpo_tabla_izq">● Importe máximo de préstamo disponible en relación con el valor del bien inmueble.</p>
-<p class="cuerpo_tabla_izq">● Bien hipotecable y caracteres que ha de reunir</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Garantía.</p>
+<p>● Importe total a reembolsar y clase de tipo de interés:</p>
+<p>○ <em>(Si ha lugar)</em> El tipo de interés es variable / variable limitado, con lo que el importe total a reembolsar puede variar:</p>
+<p>▪ Importe a reembolsar calculado en diferentes escenarios de tipo de interés.</p>
+<p>▪ [Fecha en la que se fija el tipo de interés para el cálculo del importe total a reembolsar definitivo].</p>
+<p>○ <em>(Si ha lugar) </em>El importe a reembolsar no se expresa en [moneda nacional]:</p>
+<p>▪ El tipo de cambio utilizado para la conversión del reembolso en [moneda del préstamo a [moneda nacional] será el publicado por el [nombre del organismo encargado de la publicación del tipo de cambio] el [fecha].</p>
+<p>● <em>(Si ha lugar) </em>[Fecha de reembolso]</p>
+<p>● Importe máximo de préstamo disponible en relación con el valor del bien inmueble.</p>
+<p>● Bien hipotecable y caracteres que ha de reunir</p>
+<p>● <em>(Si ha lugar)</em> Garantía.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>3. TIPO DE INTERÉS </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">La TAE es el coste total del préstamo expresado en forma de porcentaje anual. La TAE sirve para ayudarle a comparar las diferentes ofertas.</p>
-<p class="cuerpo_tabla_izq">● La TAE aplicable a su préstamo es [TAE]. Comprende:</p>
-<p class="cuerpo_tabla_izq">○ El tipo de interés [valor en porcentaje o en tipo de referencia más diferencial si se tratase de un tipo variable o variable limitado]</p>
-<p class="cuerpo_tabla_izq">○ [Otros componentes de la TAE]</p>
+<p>La TAE es el coste total del préstamo expresado en forma de porcentaje anual. La TAE sirve para ayudarle a comparar las diferentes ofertas.</p>
+<p>● La TAE aplicable a su préstamo es [TAE]. Comprende:</p>
+<p>○ El tipo de interés [valor en porcentaje o en tipo de referencia más diferencial si se tratase de un tipo variable o variable limitado]</p>
+<p>○ [Otros componentes de la TAE]</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>4. ABONO AL BENEFICIARIO </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● [Periodicidad del abono]</p>
-<p class="cuerpo_tabla_izq">● [Importe] [moneda]</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>la siguiente tabla muestra el importe que se recibe [periodicidad]</p>
+<p>● [Periodicidad del abono]</p>
+<p>● [Importe] [moneda]</p>
+<p>● <em>(Si ha lugar) </em>la siguiente tabla muestra el importe que se recibe [periodicidad]</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">[Fecha inicio – Fecha fin Abono 1]</td>
-<td class="cuerpo_tabla_izq">Abono 1</td>
+<td>[Fecha inicio – Fecha fin Abono 1]</td>
+<td>Abono 1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">[Fecha inicio – Fecha fin Abono 2]</td>
-<td class="cuerpo_tabla_izq">Abono 2</td>
+<td>[Fecha inicio – Fecha fin Abono 2]</td>
+<td>Abono 2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">…</td>
-<td class="cuerpo_tabla_izq">…</td>
+<td>…</td>
+<td>…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">● Usted dispone de la posibilidad de destinar total o parcialmente las disposiciones periódicas que pueda obtener como consecuencia de la hipoteca inversa a la contratación de un plan de previsión asegurado en los términos indicados en la disposición adicional cuarta de la Ley 41/2007, de 7 de diciembre.</td>
+<td colspan="2">● Usted dispone de la posibilidad de destinar total o parcialmente las disposiciones periódicas que pueda obtener como consecuencia de la hipoteca inversa a la contratación de un plan de previsión asegurado en los términos indicados en la disposición adicional cuarta de la Ley 41/2007, de 7 de diciembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>5. REQUISITOS, VINCULACIONES Y OTROS COSTES </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Si desea beneficiarse de las condiciones de la hipoteca inversa descritas en la presente ficha, debe cumplir los requisitos y obligaciones que, a continuación, se indican.</p>
-<p class="cuerpo_tabla_izq">● Requisitos</p>
-<p class="cuerpo_tabla_izq">● Obligaciones</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>Observe que las condiciones de la hipoteca inversa, incluido el tipo de interés aplicable, pueden variar en caso de incumplimiento de las citadas obligaciones.</p>
-<p class="cuerpo_tabla_izq">● Además del reembolso del principal del préstamo y los intereses del préstamo, esta hipoteca inversa conlleva los siguientes costes:</p>
-<p class="cuerpo_tabla_izq">○ Costes que deben abonarse una sola vez.</p>
-<p class="cuerpo_tabla_izq">○ Costes que deben abonarse periódicamente.</p>
-<p class="cuerpo_tabla_izq">● Asegúrese de que tiene conocimiento de todos los demás tributos y costes (p.ej., gastos notariales) conexos a la hipoteca inversa.</p>
+<p>Si desea beneficiarse de las condiciones de la hipoteca inversa descritas en la presente ficha, debe cumplir los requisitos y obligaciones que, a continuación, se indican.</p>
+<p>● Requisitos</p>
+<p>● Obligaciones</p>
+<p>● <em>(Si ha lugar) </em>Observe que las condiciones de la hipoteca inversa, incluido el tipo de interés aplicable, pueden variar en caso de incumplimiento de las citadas obligaciones.</p>
+<p>● Además del reembolso del principal del préstamo y los intereses del préstamo, esta hipoteca inversa conlleva los siguientes costes:</p>
+<p>○ Costes que deben abonarse una sola vez.</p>
+<p>○ Costes que deben abonarse periódicamente.</p>
+<p>● Asegúrese de que tiene conocimiento de todos los demás tributos y costes (p.ej., gastos notariales) conexos a la hipoteca inversa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>6. CANCELACIÓN DEL PRÉSTAMO Y AMORTIZACIÓN ANTICIPADA </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● Forma en la que se puede cancelar el préstamo por el cliente o sus herederos.</p>
-<p class="cuerpo_tabla_izq">Si decide amortizar el préstamo anticipadamente, consúltenos a fin de determinar el nivel exacto de la compensación en ese momento.</p>
-<p class="cuerpo_tabla_izq">● Este préstamo puede amortizarse anticipadamente, total o parcialmente:</p>
-<p class="cuerpo_tabla_izq">○ [Condiciones]</p>
-<p class="cuerpo_tabla_izq">○ [Procedimiento]</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Compensación por desistimiento.</p>
+<p>● Forma en la que se puede cancelar el préstamo por el cliente o sus herederos.</p>
+<p>Si decide amortizar el préstamo anticipadamente, consúltenos a fin de determinar el nivel exacto de la compensación en ese momento.</p>
+<p>● Este préstamo puede amortizarse anticipadamente, total o parcialmente:</p>
+<p>○ [Condiciones]</p>
+<p>○ [Procedimiento]</p>
+<p>● <em>(Si ha lugar)</em> Compensación por desistimiento.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>7. DISPONIBILIDAD DEL BIEN HIPOTECADO </strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">● Disponibilidad del bien hipotecado, con especial referencia a las situaciones de enajenación y arrendamiento. Requisitos que pudieran exigirse para llevar a cabo estas operaciones.</td>
+<td colspan="2">● Disponibilidad del bien hipotecado, con especial referencia a las situaciones de enajenación y arrendamiento. Requisitos que pudieran exigirse para llevar a cabo estas operaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <em>(SI HA LUGAR)</em>
 <strong> 8. DERECHO DE SUBROGACIÓN </strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Si lo desea puede llevarse a a otra entidad de crédito (subrogar) su hipoteca inversa aún sin el consentimiento de [nombre de la entidad].</td>
+<td colspan="2">Si lo desea puede llevarse a a otra entidad de crédito (subrogar) su hipoteca inversa aún sin el consentimiento de [nombre de la entidad].</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>9. DERECHO A ASESORAMIENTO INDEPENDIENTE Y A OFERTA VINCULANTE </strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">● Usted tiene derecho a recibir asesoramiento independiente y una oferta vinculante conforme a lo dispuesto en la Orden EHA/2899/2011, de transparencia y protección del cliente de servicios bancarios.</td>
+<td colspan="2">● Usted tiene derecho a recibir asesoramiento independiente y una oferta vinculante conforme a lo dispuesto en la Orden EHA/2899/2011, de transparencia y protección del cliente de servicios bancarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>10. DEPARTAMENTO DE ATENCIÓN AL CLIENTE </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● Departamento de Atención al Cliente: nombre, dirección geográfica, número de teléfono, correo electrónico, persona de contacto y sus datos de contacto.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>Defensor del cliente: nombre, dirección geográfica, número de teléfono, correo electrónico, persona de contacto y sus datos de contacto.</p>
+<p>● Departamento de Atención al Cliente: nombre, dirección geográfica, número de teléfono, correo electrónico, persona de contacto y sus datos de contacto.</p>
+<p>● <em>(Si ha lugar) </em>Defensor del cliente: nombre, dirección geográfica, número de teléfono, correo electrónico, persona de contacto y sus datos de contacto.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>11. SERVICIO DE RECLAMACIONES DEL BANCO DE ESPAÑA O DE LA DIRECCIÓN GENERAL DE SEGUROS Y FONDOS DE PENSIONES </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">En caso de desacuerdo con el departamento de atención al cliente de la entidad, o transcurridos dos meses sin respuesta del mismo, puede dirigir una reclamación (o, siempre que lo desee, formular una consulta o queja) al:</p>
-<p class="cuerpo_tabla_izq">● Servicio de Reclamaciones del Banco de España (91.338.65.30):</p>
-<p class="cuerpo_tabla_izq">○ Por escrito dirigido al Servicio de Reclamaciones C/ Alcalá, 48, 28014 Madrid.</p>
-<p class="cuerpo_tabla_izq">○ Por vía electrónica en la página http://www.bde.es</p>
-<p class="cuerpo_tabla_izq">● Servicio de Reclamaciones de la Dirección General de Seguros y Fondos de Pensiones (91 339 70 00):</p>
-<p class="cuerpo_tabla_izq">○ Por escrito dirigido al Servicio de Reclamaciones Paseo de la Castellana 44, 28046 Madrid.</p>
-<p class="cuerpo_tabla_izq">○ Por vía electrónica en la página https://www.sededgsfp.gob.es</p>
+<p>En caso de desacuerdo con el departamento de atención al cliente de la entidad, o transcurridos dos meses sin respuesta del mismo, puede dirigir una reclamación (o, siempre que lo desee, formular una consulta o queja) al:</p>
+<p>● Servicio de Reclamaciones del Banco de España (91.338.65.30):</p>
+<p>○ Por escrito dirigido al Servicio de Reclamaciones C/ Alcalá, 48, 28014 Madrid.</p>
+<p>○ Por vía electrónica en la página http://www.bde.es</p>
+<p>● Servicio de Reclamaciones de la Dirección General de Seguros y Fondos de Pensiones (91 339 70 00):</p>
+<p>○ Por escrito dirigido al Servicio de Reclamaciones Paseo de la Castellana 44, 28046 Madrid.</p>
+<p>○ Por vía electrónica en la página https://www.sededgsfp.gob.es</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>12. INCUMPLIMIENTO DE LOS COMPROMISOS VINCULADOS AL PRÉSTAMO: CONSECUENCIAS PARA EL CLIENTE </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● [Tipos de incumplimiento]</p>
-<p class="cuerpo_tabla_izq">● [Consecuencias financieras y/o jurídicas]</p>
-<p class="cuerpo_tabla_izq">Si usted o sus herederos prevén dificultades para efectuar el reembolso del préstamo póngase en contacto con nosotros a la mayor brevedad posible para estudiar posibles soluciones.</p>
+<p>● [Tipos de incumplimiento]</p>
+<p>● [Consecuencias financieras y/o jurídicas]</p>
+<p>Si usted o sus herederos prevén dificultades para efectuar el reembolso del préstamo póngase en contacto con nosotros a la mayor brevedad posible para estudiar posibles soluciones.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <em>(SI HA LUGAR)</em>
 <strong> 13. INFORMACIÓN ADICIONAL, EN EL CASO DE VENTAS A DISTANCIA </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar) </em>La legislación escogida por la entidad como base para el establecimiento de relaciones con usted con anterioridad a la celebración del contrato de crédito es [legislación aplicable].</p>
-<p class="cuerpo_tabla_izq">● La información y documentación contractual se facilitarán en [lengua]. Con su consentimiento, durante la vigencia del contrato de préstamo, nos comunicaremos con usted en [lengua o lenguas].</p>
+<p>● <em>(Si ha lugar) </em>La legislación escogida por la entidad como base para el establecimiento de relaciones con usted con anterioridad a la celebración del contrato de crédito es [legislación aplicable].</p>
+<p>● La información y documentación contractual se facilitarán en [lengua]. Con su consentimiento, durante la vigencia del contrato de préstamo, nos comunicaremos con usted en [lengua o lenguas].</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong>14. RIESGOS Y ADVERTENCIAS </strong>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Le rogamos tome nota de los riesgos que conlleva un préstamo hipotecario.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Puede usted perder su vivienda o el uso de la misma en caso de que [circunstancias contractuales que la ocasionarían].</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Responde usted ante [nombre de la entidad] del pago de la hipoteca inversa no solo con su vivienda sino con todos sus bienes presentes y futuros.</p>
-<p class="cuerpo_tabla_izq">● Tiene usted derecho a examinar el proyecto de documento contractual en el despacho del notario autorizante, con la antelación de 3 días hábiles previos a su formalización ante el mismo.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Debe tener en cuenta el hecho de que los abonos que percibirá no son vitalicios sino que tienen un límite temporal que es [fecha de último abono].</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Debe tener en cuenta el hecho de que el tipo de interés de este préstamo no permanece fijo durante todo su período de vigencia.</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> Debe tener en cuenta el hecho de que el tipo de interés de este préstamo, a pesar de ser variable, nunca se beneficiará de descensos del tipo de interés de referencia por debajo del [límite mínimo del tipo de interés variable limitado].</p>
-<p class="cuerpo_tabla_izq">● <em>(Si ha lugar)</em> El presente préstamo no se expresa en <strong>euros</strong>. Tenga en cuenta que el importe en <strong>euros</strong> que necesitará para reembolsar el préstamo variará en función del tipo de cambio de [moneda del préstamo/<strong>euro].</strong></p>
-<p class="cuerpo_tabla_izq">● Al margen de lo recogido en la presente ficha, tendrá que pagar otros tributos y gastos <em>(si ha lugar),</em> p.ej., gastos notariales.</p>
+<p>Le rogamos tome nota de los riesgos que conlleva un préstamo hipotecario.</p>
+<p>● <em>(Si ha lugar)</em> Puede usted perder su vivienda o el uso de la misma en caso de que [circunstancias contractuales que la ocasionarían].</p>
+<p>● <em>(Si ha lugar)</em> Responde usted ante [nombre de la entidad] del pago de la hipoteca inversa no solo con su vivienda sino con todos sus bienes presentes y futuros.</p>
+<p>● Tiene usted derecho a examinar el proyecto de documento contractual en el despacho del notario autorizante, con la antelación de 3 días hábiles previos a su formalización ante el mismo.</p>
+<p>● <em>(Si ha lugar)</em> Debe tener en cuenta el hecho de que los abonos que percibirá no son vitalicios sino que tienen un límite temporal que es [fecha de último abono].</p>
+<p>● <em>(Si ha lugar)</em> Debe tener en cuenta el hecho de que el tipo de interés de este préstamo no permanece fijo durante todo su período de vigencia.</p>
+<p>● <em>(Si ha lugar)</em> Debe tener en cuenta el hecho de que el tipo de interés de este préstamo, a pesar de ser variable, nunca se beneficiará de descensos del tipo de interés de referencia por debajo del [límite mínimo del tipo de interés variable limitado].</p>
+<p>● <em>(Si ha lugar)</em> El presente préstamo no se expresa en <strong>euros</strong>. Tenga en cuenta que el importe en <strong>euros</strong> que necesitará para reembolsar el préstamo variará en función del tipo de cambio de [moneda del préstamo/<strong>euro].</strong></p>
+<p>● Al margen de lo recogido en la presente ficha, tendrá que pagar otros tributos y gastos <em>(si ha lugar),</em> p.ej., gastos notariales.</p>
 </td>
 </tr>
 </tbody>

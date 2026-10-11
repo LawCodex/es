@@ -102,8 +102,6 @@ c) Los recursos de las Cámaras de Comercio, Industria y Navegación, que contin
 
 c) [Sic] Las tarifas que abonen los usuarios por la utilización de la obra o por la prestación del servicio a los concesionarios de obras y de servicios conforme a la legislación de contratos del sector público, que son prestaciones patrimoniales de carácter público no tributarias.
 
-> Téngase en cuenta que la letra c) [Sic] añadida por la disposición final 9 de la Ley 9/2017, de 8 de noviembre. [Ref. BOE-A-2017-12902](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902) entra en vigor el 9 de marzo de 2018, según determina su disposición final 16.
-
 > Se añade una letra c) [Sic], con efectos de 9 de marzo de 2018, por la disposición final 9 de la Ley 9/2017, de 8 de noviembre. [Ref. BOE-A-2017-12902](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902)
 
 ##### Artículo 3. Medidas Presupuestarias.

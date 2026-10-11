@@ -100,12 +100,6 @@ Dichas personas quedarán obligadas a comparecer en la SEDESS, a efectos de reci
 
 c) Las personas físicas no incluidas en los párrafos a) y b) que sean solicitantes o perceptoras de prestaciones por nacimiento y cuidado de menor, riesgo durante el embarazo, riesgo durante la lactancia natural o de incapacidad temporal, así como cuando la notificación o comunicación se refiera a las prestaciones por incapacidad permanente o lesiones permanentes no incapacitantes.
 
-> Téngase en cuenta que esta última actualización de la letra c) del apartado 1, establecida por el art. único.1 de la Orden ISM/541/2026, de 27 de mayo, [Ref. BOE-A-2026-11701](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11701), entra en vigor el 1 de septiembre de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "c) Las personas físicas no incluidas en los párrafos a) y b) que sean solicitantes o perceptoras de prestaciones por nacimiento y cuidado de menor, riesgo durante el embarazo y riesgo durante la lactancia natural."
-
 d) Quienes figuren inscritos en el Registro electrónico de apoderamientos de la Seguridad Social como apoderados para recibir notificaciones y comunicaciones de la Administración de la Seguridad Social, u ostenten un poder general inscrito en el Registro electrónico de apoderamientos de la Administración General del Estado, aun cuando sus poderdantes no estén obligados a relacionarse electrónicamente con la misma.
 
 2\. Las personas físicas no incluidas en el apartado anterior podrán manifestar su voluntad de recibir las notificaciones y comunicaciones de la Administración de la Seguridad Social exclusivamente por medios electrónicos, a través del servicio correspondiente de la SEDESS, quedando automáticamente obligadas a recibirlas mediante comparecencia en dicha sede electrónica desde que hayan ejercitado su opción por esa forma de notificación. No obstante, en cualquier momento podrán manifestar a través de dicho servicio su voluntad de que las notificaciones sucesivas dejen de practicarse exclusivamente por medios electrónicos.
@@ -134,18 +128,6 @@ c) Cuando resulten incompatibles con la inmediatez o celeridad que requiera la a
 
 d) Cuando, en los supuestos a que se refiere el artículo 4.1.c), la entidad gestora no disponga de datos de contacto electrónico para practicar el aviso de la puesta a disposición de la comunicación o notificación en la SEDESS previsto en el artículo 8.2. En estos casos, junto con la comunicación o notificación, se dará a conocer al interesado que, de acuerdo con lo previsto en el artículo 41.1 de la Ley 39/2015, de 1 de octubre, puede identificar un dispositivo electrónico para el aviso de la puesta a disposición de las comunicaciones y notificaciones electrónicas posteriores.
 
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por el art. único.2 de la Orden ISM/541/2026, de 27 de mayo, [Ref. BOE-A-2026-11701](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11701), entra en vigor el 1 de septiembre de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "2. La Administración de la Seguridad Social podrá practicar las notificaciones y comunicaciones por medios no electrónicos, aun cuando se trate de sujetos obligados a recibirlas por medios electrónicos:
-
-> a) Cuando se realicen con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.
-
-> b) Cuando, para asegurar la eficacia de la actuación administrativa, resulte necesario practicar la notificación o comunicación por entrega directa de un empleado público de la administración notificante.
-
-> c) Cuando resulten incompatibles con la inmediatez o celeridad que requiera la actuación administrativa para asegurar su eficacia."
-
 > Se modifica el apartado 2, con efectos de 1 de septiembre de 2026, por el art. único.2 de la Orden ISM/541/2026, de 27 de mayo. [Ref. BOE-A-2026-11701](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11701)
 
 ## Artículo 6. Puesta a disposición de las notificaciones y comunicaciones electrónicas en la SEDESS.
@@ -167,8 +149,6 @@ Del mismo modo, las notificaciones y comunicaciones dirigidas al poderdante deja
 4\. En los supuestos de multiplicidad de posibles receptores a los que se refieren los apartados anteriores, se tomará como fecha de notificación o comunicación aquella en que se hubiera producido en primer lugar el acceso al contenido de los actos, actuaciones, hechos o circunstancias puestos a disposición en SEDESS o su rechazo.
 
 5\. En los supuestos a que se refiere el artículo 4.1.c) se podrá facilitar, de forma presencial en los Centros de Atención e Información de la Seguridad Social, asistencia en el uso de los medios electrónicos, para que el acceso a la SEDESS sea válidamente realizado por un funcionario público.
-
-> Téngase en cuenta que el apartado 5, añadido por el art. único.3 de la Orden ISM/541/2026, de 27 de mayo, [Ref. BOE-A-2026-11701](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11701), entra en vigor el 1 de septiembre de 2026, según determina su disposición final única.
 
 > Se añade el apartado 5, con efectos de 1 de septiembre de 2026, por el art. único.3 de la Orden ISM/541/2026, de 27 de mayo. [Ref. BOE-A-2026-11701](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11701)
 

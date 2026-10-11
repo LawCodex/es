@@ -1,0 +1,2547 @@
+---
+title: "Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios"
+identifier: "BOE-A-2017-6606"
+eli: "https://www.boe.es/eli/es/rd/2017/05/22/513"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía, Industria y Competitividad"
+date: 2017-05-22
+published: 2017-06-12
+in_force_from: 2017-12-12
+last_amended: 2025-09-03
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 139"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios
+
+Incluye corrección de errores publicada en BOE núm. 230, de 23 de septiembre de 2017. [Ref. BOE-A-2017-10837](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10837)
+
+El vigente Reglamento de instalaciones de protección contra incendios, aprobado por el Real Decreto 1942/1993, de 5 de noviembre, contempla todos los aspectos a tener en cuenta en relación con el diseño, instalación y mantenimiento de los sistemas de protección activa contra incendios. En su ejecución fue aprobada la Orden del Ministerio de Industria y Energía, de 16 de abril de 1998, sobre normas de procedimiento y desarrollo del Real Decreto 1942/1993, de 5 de noviembre.
+
+No obstante, la evolución, tanto de la técnica como del marco normativo, hace imprescindible actualizar y revisar los requisitos establecidos en el citado Reglamento de instalaciones de protección contra incendios. En concreto, cabe mencionar el Reglamento (UE) n.º 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, por el que se establecen condiciones armonizadas para la comercialización de productos de construcción. Asimismo, el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y el Consejo, de 9 de julio de 2008, establece los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y deroga el Reglamento (CEE) n.º 339/93.
+
+El Reglamento de seguridad contra incendios en los establecimientos industriales, aprobado por Real Decreto 2267/2004, de 3 de diciembre, y el Código Técnico de la Edificación (CTE), aprobado por Real Decreto 314/2006, de 17 de marzo, establecen que el diseño, la ejecución, la puesta en funcionamiento y el mantenimiento de las instalaciones de protección contra incendios, así como sus materiales, componentes y equipos, deben cumplir lo establecido en su reglamentación específica.
+
+Se hace necesario, en consecuencia, establecer las condiciones que deben reunir los equipos y sistemas que conforman las instalaciones de protección contra incendios para lograr que su funcionamiento, en caso de incendio, sea eficaz. En este sentido, el Reglamento de seguridad industrial que, de acuerdo con lo establecido en la Ley 21/1992, de 16 de julio, de Industria, se aprueba por este real decreto se estructura en dos partes: la primera comprende el Reglamento de instalaciones de protección contra incendios y la segunda, constituida por tres anexos, contiene las disposiciones técnicas. El primer anexo establece las exigencias relativas al diseño e instalación de los equipos y sistemas de protección contra incendios, el segundo el mantenimiento mínimo de los mismos y el tercero los medios humanos mínimos con que deberán contar las empresas instaladoras y mantenedoras de instalaciones de protección contra incendios.
+
+Por otra parte, la Ley 21/1992, de 16 de julio, no solo prevé los Reglamentos de seguridad industrial, sino que define el marco en el que ha de desenvolverse la seguridad industrial, estableciendo los instrumentos necesarios para su puesta en aplicación, de conformidad con las competencias que corresponden a las distintas Administraciones públicas. Así, el artículo 12.5 de la referida Ley de Industria establece que: «Los Reglamentos de Seguridad Industrial de ámbito estatal se aprobarán por el Gobierno de la Nación, sin perjuicio de que las Comunidades Autónomas, con competencia legislativa sobre industria, puedan introducir requisitos adicionales sobre las mismas materias cuando se trate de instalaciones radicadas en su territorio».
+
+Por otra parte, también cabe citar el artículo 12.1.e) del mismo texto legal, que, en relación con el contenido de los Reglamentos de seguridad industrial, prevé que podrán establecer: «Cuando exista un riesgo directo y concreto para la salud o para la seguridad del destinatario o de un tercero, la exigencia de suscribir seguros de responsabilidad civil profesional por parte de las personas o empresas que intervengan en el proyecto, dirección de obra, ejecución, montaje, conservación y mantenimiento de instalaciones y productos industriales. La garantía exigida deberá ser proporcionada a la naturaleza y alcance del riesgo cubierto».
+
+Además, de conformidad con el artículo 12.3 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio y el artículo 12.1.b) de la Ley de Industria, el Reglamento aprobado por este real decreto establece un régimen de declaración responsable previa al inicio de la actividad de las empresas instaladoras y mantenedoras de equipos y sistemas de protección contra incendios, justificado por razones de orden público, seguridad, salud pública y protección al medioambiente.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado las competencias exclusivas sobre bases y coordinación de la planificación general de la actividad económica, sin perjuicio de las competencias de las comunidades autónomas en materia de industria.
+
+Esta regulación tiene carácter de normativa básica y recoge previsiones de carácter marcadamente técnico, por lo que la ley no resulta el instrumento idóneo para su establecimiento y se encuentra justificada su aprobación mediante real decreto.
+
+En la fase de proyecto, este real decreto ha sido sometido al trámite de audiencia que prescribe la Ley 50/1997, de 27 de noviembre, del Gobierno, así como al procedimiento de información de normas y reglamentaciones técnicas y de Reglamentos relativos a la sociedad de la información, regulado por Real Decreto 1337/1999, de 31 de julio, a los efectos de dar cumplimiento a lo dispuesto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE, del Parlamento Europeo y del Consejo, de 20 julio de 1998 y en la más reciente Directiva (UE) 2015/1535, del Parlamento Europeo y del Consejo, de 9 de septiembre de 2015, por la que se establece un procedimiento de información en materia de reglamentaciones técnicas y de reglas relativas a los servicios de la sociedad de la información.
+
+En su virtud, a propuesta del Ministro de Economía, Industria y Competitividad, con la aprobación previa del Ministro de Hacienda y Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de mayo de 2017,
+
+DISPONGO:
+
+#### Artículo único. Aprobación del Reglamento.
+
+Se aprueba el Reglamento de instalaciones de protección contra incendios, así como los tres anexos relativos a las disposiciones técnicas, que se insertan a continuación.
+
+#### Disposición adicional única. Gastos de personal.
+
+Las medidas incluidas en esta norma serán atendidas con las dotaciones presupuestarias ordinarias y no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogados el Real Decreto 1942/1993, de 5 de noviembre, por el que se aprueba el Reglamento de instalaciones de protección contra incendios y la Orden del Ministerio de Industria y Energía, de 16 de abril de 1998, sobre normas de procedimiento y desarrollo del citado real decreto.
+
+2\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango contradigan lo dispuesto en este real decreto.
+
+#### Disposición final primera. Carácter básico y título competencial.
+
+Este real decreto tiene carácter de normativa básica y se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.
+
+#### Disposición final segunda. Habilitaciones normativas.
+
+1\. El Ministro de Economía, Industria y Competitividad dictará, en el ámbito de sus competencias, las disposiciones necesarias para asegurar la adecuada ejecución y desarrollo de este real decreto.
+
+2\. Se faculta al Ministro de Economía, Industria y Competitividad para modificar y actualizar el Reglamento que se aprueba por este real decreto, a fin de adaptarlo al progreso de la técnica y a las disposiciones del derecho internacional o europeo de índole técnica en la materia.
+
+#### Disposición final tercera. Medidas de aplicación.
+
+1\. La Dirección General de Industria y de la Pequeña y Mediana Empresa elaborará y mantendrá actualizada una guía técnica, de carácter no vinculante, para la aplicación práctica de las disposiciones del Reglamento y los anexos que se aprueban por este real decreto, que podrá establecer aclaraciones en conceptos de carácter general.
+
+2\. **(Suprimido)**
+
+3\. **(Suprimido)**
+
+> Se suprimen los apartados 2 y 3 por la disposición final 1 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+#### Disposición final cuarta. Normas UNE y otras reconocidas internacionalmente.
+
+1\. El apéndice del anexo I del Reglamento de instalaciones de protección contra incendios incluye un listado de normas UNE y otras reconocidas internacionalmente, de obligado cumplimiento, de manera total o parcial, a fin de facilitar la adaptación al estado de la técnica en cada momento. Dichas normas se identifican por sus títulos y numeración, incluyendo el año de edición.
+
+2\. Cuando una o varias normas varíen su año de edición, se editen modificaciones posteriores a las mismas o se publiquen nuevas normas, deberán ser objeto de actualización en el listado de normas, mediante resolución del titular de la Dirección General de Industria y de la Pequeña y Mediana Empresa, en la que deberá hacerse constar la fecha a partir de la cual la utilización de la antigua edición de la norma dejará de tener efectos reglamentarios.
+
+Cuando no haya recaído dicha resolución, se entenderá que también cumple las condiciones reglamentarias la edición de la norma posterior a la que figure en el listado de normas, siempre que la misma no modifique criterios básicos y se limite a actualizar ensayos o incremente la seguridad intrínseca del material correspondiente.
+
+#### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 22 de mayo de 2017.
+
+FELIPE R.
+
+El Ministro de Economía, Industria y Competitividad,
+
+LUIS DE GUINDOS JURADO
+
+## REGLAMENTO DE INSTALACIONES DE PROTECCIÓN CONTRA INCENDIOS
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto y ámbito de aplicación material.
+
+1\. Constituye el objeto de este Reglamento la determinación de las condiciones y los requisitos exigibles al diseño, instalación/aplicación, mantenimiento e inspección de los equipos, sistemas y componentes que conforman las instalaciones de protección activa contra incendios.
+
+2\. Asimismo, el presente Reglamento se aplicará con carácter supletorio en aquellos aspectos relacionados con las instalaciones de protección activa contra incendios no regulados en las legislaciones específicas, con la excepción de los túneles de carreteras del Estado, cuya regulación en materia de seguridad se regirá por el Real Decreto 635/2006, de 26 de mayo, sobre requisitos mínimos de seguridad en los túneles de carreteras del Estado.
+
+#### Artículo 2. Ámbito de aplicación subjetivo.
+
+1\. Estarán sujetos a las disposiciones de este Reglamento tanto las empresas instaladoras como las empresas mantenedoras de instalaciones de protección contra incendios.
+
+2\. Asimismo, las exigencias técnicas de este Reglamento se aplicarán a los fabricantes, importadores, distribuidores u organismos que intervengan en la certificación o evaluación técnica de los productos, y a todos aquellos que pudieran verse afectados por esta regulación.
+
+#### Artículo 3. Definiciones.
+
+A los efectos de este Reglamento, se atenderá a las siguientes definiciones:
+
+a) Protección activa contra incendios: es el conjunto de medios, equipos y sistemas, ya sean manuales o automáticos, cuyas funciones específicas son la detección, control y/o extinción de un incendio, facilitando la evacuación de los ocupantes e impidiendo que el incendio se propague, minimizando así las pérdidas personales y materiales.
+
+b) Productos de protección contra incendios: equipos, sistemas y componentes que integran las instalaciones de protección activa contra incendios.
+
+c) Marcado CE: marcado por el que el fabricante indica que el producto es conforme a todos los requisitos aplicables establecidos en la legislación comunitaria y armonización que prevé su colocación.
+
+d) Evaluación técnica: valoración de los requisitos básicos relacionados con el uso previsto y evaluación y seguimiento del control de producción en fábrica de productos (equipos, sistemas o sus componentes) de protección contra incendios.
+
+e) Organismos habilitados para la evaluación técnica: aquellos que desempeñan actividades de evaluación de los requisitos básicos del producto relacionados con el uso previsto, de evaluación del control en fábrica y de seguimiento anual del control de producción en fábrica. Dichos organismos deberán cumplir los siguientes criterios:
+
+1.º Actuarán con imparcialidad, objetividad y transparencia, disponiendo de la organización adecuada y de personal técnico competente para la evaluación técnica de equipos, sistemas o sus componentes de protección contra incendios.
+
+2.º Tendrán experiencia contrastada en la realización de ensayos, inspecciones y/o evaluaciones, avalada por la adecuada implantación de sistemas de gestión de la calidad aplicados a las actividades que realicen.
+
+3.º Dispondrán de procedimientos específicos, expresamente validados por la Comunidad Autónoma donde la entidad presente la declaración responsable, que recojan la sistemática establecida para la valoración y seguimiento de las evaluaciones técnicas que realicen.
+
+4.º Mantendrán una información permanente al público sobre el alcance y la vigencia de las evaluaciones técnicas realizadas.
+
+f) Empresa instaladora: entidad que, siguiendo las indicaciones del proyecto o de la documentación técnica y cumpliendo las condiciones establecidas en este Reglamento, realiza una o varias de las siguientes actividades:
+
+1.º Ubica y/o instala equipos y/o sistemas de protección activa contra incendios.
+
+2.º Coloca las señales, balizamientos y/o planos de evacuación de los sistemas de señalización luminiscente.
+
+g) Empresa mantenedora: entidad que, cumpliendo las condiciones establecidas en este Reglamento, realiza las operaciones de mantenimiento de los equipos y/o sistemas de protección activa contra incendios.
+
+## CAPÍTULO II — Productos de protección contra incendios
+
+#### Artículo 4. Requisitos de los productos de protección contra incendios.
+
+Los equipos, sistemas y componentes que conforman las instalaciones de protección activa contra incendios deberán cumplir las condiciones y los requisitos que se establecen en las normas de la Unión Europea, en la Ley 21/1992, de 16 de julio, de Industria y sus normas de desarrollo, así como en este Reglamento y sus anexos.
+
+#### Artículo 5. Acreditación del cumplimiento de los requisitos de seguridad de los productos de protección contra incendios.
+
+1\. Los productos (equipos, sistemas o sus componentes) de protección contra incendios, incluidos en el ámbito de aplicación del Reglamento (UE) n.º 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, de productos de la construcción, u otras directivas europeas que les sean de aplicación, llevarán el marcado CE siempre que dispongan de una especificación técnica armonizada, ya sea norma armonizada o documento de evaluación europeo.
+
+2\. Los productos (equipos, sistemas o sus componentes) de protección contra incendios no incluidos en el ámbito de aplicación del Reglamento (UE) n.º 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, u otras directivas europeas de aplicación, o que, estando incluidos en dicho ámbito de aplicación, no dispongan de especificación técnica armonizada, deberán justificar el cumplimiento de las exigencias establecidas en este Reglamento.
+
+Esta justificación se realizará mediante la correspondiente marca de conformidad a norma, concedida por un organismo de certificación acreditado por la Entidad Nacional de Acreditación (ENAC), que cumpla las exigencias establecidas en el Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial.
+
+3\. Los productos (equipos, sistemas o componentes) de protección contra incendios no tradicionales o innovadores para los que no existe norma y exista riesgo, deberán justificar el cumplimiento de las exigencias establecidas en este Reglamento mediante una evaluación técnica favorable de la idoneidad para su uso previsto, realizada por los organismos habilitados para ello por las Administraciones públicas competentes.
+
+La evaluación técnica favorable de la idoneidad deberá incluir, al menos, lo siguiente:
+
+– La evaluación de los requisitos básicos relacionados con el uso previsto (por ejemplo: fiabilidad operativa, tiempo de respuesta, comportamiento bajo condiciones de incendio, durabilidad, fuentes de energía, etc.).
+
+– La evaluación del control de producción en fábrica, así como un seguimiento anual del control de producción en fábrica.
+
+– Las condiciones de uso previstas y el programa de mantenimiento periódico con las operaciones que, como mínimo, requiera el producto durante su vida útil para poder ser usado de forma fiable.
+
+4\. Los organismos a los que se refieren los apartados 2 y 3 remitirán al Ministerio de Economía, Industria y Competitividad la relación de productos a los que se les ha concedido la marca de conformidad a norma o el certificado de evaluación técnica favorable de la idoneidad.
+
+5\. Los requisitos señalados en el anexo I del reglamento que no sean relativos a los productos, sino que aborden aspectos relativos al diseño de las instalaciones, deberán justificar el cumplimiento con lo indicado allí por medio de sus respectivos proyectos, documentación técnica y certificados de la empresa instaladora.
+
+6\. Respecto al cumplimiento de los requisitos de diseño indicados en el apartado 5 anterior, se admitirá el uso de soluciones técnicas alternativas a las recogidas en las normas UNE, EN e ISO citadas en el anexo I, siempre que se cumplan los requisitos mínimos recogidos en el texto de dicho anexo y en el resto de reglamentación específica aplicable. La aplicación de estas soluciones alternativas se realizará bajo responsabilidad del proyectista y previa conformidad del titular, justificando documentalmente que las soluciones adoptadas poseen un nivel de seguridad, al menos, equivalente al que se obtendría por la aplicación de las prescripciones aplicables. Adicionalmente, junto al proyecto deberá anexarse un informe de tercera parte independiente, emitido por un organismo de control habilitado para dichas tareas conforme al Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, aprobado por el Real Decreto 2200/1995, de 28 de diciembre, donde se valide positivamente la eficacia y adecuación de dichas soluciones técnicas.
+
+> Se añaden los apartados 5 y 6 por la disposición final 1.1 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+#### Artículo 6. Modelos únicos.
+
+No será necesaria la marca de conformidad a norma o el certificado de evaluación técnica favorable de la idoneidad de equipos y sistemas de protección contra incendios cuando estos se diseñen y fabriquen como modelo único para una instalación determinada. No obstante, deberá disponerse, antes de la puesta en servicio del equipo o el sistema, de un proyecto firmado por técnico titulado competente, en el que se especifiquen sus características técnicas de diseño, de funcionamiento, de instalación y de mantenimiento, y se demuestre el cumplimiento de todas las prescripciones de seguridad exigidas por este reglamento, en su caso mediante la realización de los ensayos y pruebas que correspondan. Junto al proyecto deberá anexarse un informe de tercera parte independiente, emitido por un organismo de control habilitado para dichas tareas conforme al Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, aprobado por el Real Decreto 2200/1995, de 28 de diciembre, donde se valide positivamente la eficacia y adecuación de dichas características.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+#### Artículo 7. Procedimiento de reclamación ante la denegación o retirada de las marcas de conformidad y evaluaciones técnicas de idoneidad.
+
+1\. Si un fabricante o importador se considera perjudicado por la no concesión o la retirada de la marca de conformidad, o por la no emisión o anulación del documento que recoge la evaluación técnica, podrá manifestar su disconformidad ante el organismo que la conceda.
+
+2\. En caso de desacuerdo con la decisión de dicho organismo, podrá reclamar manifestando su disconformidad ante los servicios competentes en materia de industria de la Comunidad Autónoma que habilitó a dicho organismo, a efectos de lo previsto en el artículo 16.2 de la Ley 21/1992, de 16 de julio.
+
+#### Artículo 8. Control de productos.
+
+1\. De conformidad con el artículo 14 de la Ley 21/1992, de 16 de julio, la Comunidad Autónoma correspondiente podrá llevar a cabo, por sí misma o a través de las entidades que designe, comprobaciones de tipo técnico, realizando los muestreos y ensayos que estime necesarios, a fin de verificar la adecuación del producto a los requisitos de seguridad establecidos en la presente reglamentación.
+
+Cuando se compruebe que la utilización de un producto, cuya conformidad se ha determinado según lo indicado en el artículo 5, resulta manifiestamente peligrosa, las autoridades de vigilancia de mercado instarán sin demora al agente económico pertinente a que adopte todas las medidas correctoras adecuadas para adaptar el equipo o sistema a los citados requisitos, retirarlo del mercado o recuperarlo en un plazo de tiempo razonable, proporcional a la naturaleza del riesgo, que ellas prescriban.
+
+2\. Si, como consecuencia de los controles de productos en el mercado, se comprobase el incumplimiento de los requisitos establecidos en este Reglamento, el fabricante, importador, distribuidor, organismo que intervenga en su certificación o evaluación técnica o la empresa instaladora del producto, cuyos incumplimientos se hayan puesto de manifiesto, será sancionado de acuerdo con las responsabilidades que se deriven, de conformidad con lo dispuesto en el título V de la Ley 21/1992, de 16 de julio.
+
+3\. En caso de retirada de la marca de conformidad o de anulación del documento que recoge la evaluación técnica, el fabricante, importador o persona responsable adoptará inmediatamente las medidas correctoras necesarias para que sea conforme, para que sea retirado del mercado o para que sea recuperado, en caso necesario.
+
+## CAPÍTULO III — Empresas instaladoras y empresas mantenedoras de instalaciones de protección contra incendios
+
+### Sección 1.ª Empresas instaladoras
+
+#### Artículo 9. Ámbito de actuación de las empresas instaladoras.
+
+1\. La instalación de equipos y sistemas a los que se refiere este Reglamento se realizará por empresas instaladoras, debidamente habilitadas ante el órgano competente de la Comunidad Autónoma en la que solicita el alta como empresa instaladora, en los equipos o sistemas que vayan a instalar.
+
+2\. Se exceptúan de lo establecido en el apartado anterior:
+
+a) Los extintores, que deberán ser colocados por empresas instaladoras de sistemas de protección contra incendios o por empresas mantenedoras de extintores. Cuando la superficie del establecimiento no sea mayor de 100 m<sup>2</sup> o se trate de una vivienda unifamiliar, también podrán ser colocados por la persona usuaria.
+
+b) Las mantas ignífugas, que deberán ser colocadas por empresas instaladoras o mantenedoras de sistemas de protección contra incendios. Cuando la superficie del establecimiento no sea mayor de 100 m<sup>2</sup> o se trate de una vivienda unifamiliar, también podrán ser colocadas por la persona usuaria.
+
+c) Los planos de evacuación (planos de situación), que deberán ser colocados por empresas instaladoras de sistemas de señalización o también podrán ser colocados por la persona usuaria.
+
+d) Los sistemas de protección contra incendios que formen parte de máquinas tales como aerogeneradores, cubiertos por el Real Decreto 1644/2008, de 10 de octubre, por el que se establecen las normas para la comercialización y puesta en servicio de las máquinas, por el cual, estas deben ser diseñadas y fabricadas de forma que se evite cualquier riesgo de incendio o sobrecalentamiento. Debido a lo anterior, los sistemas de protección contra incendios propios de dichas maquinas quedan dentro de su evaluación de la conformidad y marcado CE como máquina, bajo responsabilidad del fabricante, y estableciéndose también allí las condiciones de instalación, puesta en servicio y mantenimiento. En todo caso, respecto a los extintores que puedan estar presentes en estas máquinas, estos deben cumplir con los requisitos de producto aplicables en el presente reglamento y su mantenimiento debe adaptarse a las condiciones específicas del lugar, debiendo como mínimo ser supervisados de forma regular por el titular para verificar su correcto estado y debiendo realizarse las operaciones recogidas en la tabla II del anexo II.
+
+> Se modifica el apartado 2 por la disposición final 1.3 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+#### Artículo 10. Requisitos de las empresas instaladoras.
+
+1\. Para poder ejercer las funciones de empresa instaladora, la empresa deberá cumplir los siguientes requisitos:
+
+a) Disponer de la documentación que identifique a la empresa instaladora, que, en el caso de ser persona jurídica, deberá estar constituida legalmente.
+
+b) Contar con los medios humanos necesarios para realizar su actividad en condiciones de seguridad que, como mínimo, serán los que se determinan en el anexo III de este reglamento.
+
+c) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
+
+d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 800.000 euros por siniestro. Esta cuantía mínima se actualizará por orden de la persona titular del Ministerio Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+e) Disponer de un certificado de calidad del sistema de gestión de la calidad implantado, emitido por una entidad de certificación acreditada, según los procedimientos establecidos en el Reglamento de la Infraestructura para la Calidad y Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre. El alcance del correspondiente certificado deberá incluir, explícitamente, el diseño, si procede, e instalación de todos y cada uno de los equipos o sistemas para los que se solicita la habilitación.
+
+En el inicio de actividad, y por un periodo máximo de un año, se considerará cumplido este requisito con la acreditación de tener contratado el desarrollo e implantación de dicho sistema de gestión de la calidad, en los términos indicados en el párrafo anterior.
+
+f) Para la instalación de sistemas de extinción mediante agentes gaseosos fluorados, se deberá estar en posesión de los certificados de cualificación previstos en el Reglamento (CE) n.º 517/2014, del Parlamento Europeo y del Consejo, de 16 de abril de 2014, y en el Real Decreto 115/2017, de 17 de febrero, por el que se regula la comercialización y manipulación de gases fluorados y equipos basados en los mismos, así como la certificación de los profesionales que los utilizan y por el que se establecen los requisitos técnicos para las instalaciones que desarrollen actividades que emitan gases fluorados.
+
+g) En el caso de los sistemas de alumbrado de emergencia, las empresas instaladoras deberán cumplir únicamente lo establecido en el Reglamento Electrotécnico de Baja Tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, y en la instrucción técnica complementaria correspondiente.
+
+2\. La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizados por ella misma.
+
+3\. El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+> Se modifican las letras b), c) y d) del apartado 1, con efectos de 1 de julio de 2021, por el art. 11.1 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+#### Artículo 11. Habilitación de empresas instaladoras.
+
+1\. Antes de comenzar sus actividades como empresas instaladoras, las personas físicas o jurídicas que deseen establecerse en España, así como las empresas instaladoras, legalmente establecidas en cualquier otro Estado miembro de la Unión Europea y que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar ante el órgano competente de la Comunidad Autónoma en la que se establezcan, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare:
+
+a) La relación de equipos y sistemas de protección contra incendios para cuya instalación desea estar habilitada,
+
+b) Que cumple los requisitos que se exigen en el artículo 10 de este Reglamento,
+
+c) Que dispone de los medios materiales necesarios para la instalación de dichos sistemas en condiciones de seguridad y de la documentación que así lo acredita,
+
+d) Que se compromete a mantenerlos durante la vigencia de la actividad y
+
+e) Que se responsabiliza de que la ejecución de las instalaciones se efectúa de acuerdo con los requisitos que se establezcan en este Reglamento, sus anexos y sus órdenes de desarrollo.
+
+2\. Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI). La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
+
+3\. Las Comunidades Autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente, cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+4\. El órgano competente de la Comunidad Autónoma, asignará, de oficio, un número de identificación a la empresa y la inscribirá en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992, de 16 de julio.
+
+5\. De acuerdo con la Ley 21/1992, de 16 de julio, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+> Se modifica el apartado 2, con efectos de 1 de julio de 2021, por el art. 11.2 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+#### Artículo 12. Obligaciones de las empresas instaladoras.
+
+Las obligaciones de las empresas instaladoras son las siguientes:
+
+a) Las obligaciones derivadas del cumplimiento de las prescripciones establecidas en este Reglamento, relacionadas con la instalación de equipos y sistemas de protección activa contra incendios que ejecuten las empresas instaladoras.
+
+b) Las empresas instaladoras deberán abstenerse de instalar los equipos y sistemas de protección contra incendios que no cumplan las disposiciones vigentes que les son aplicables, poniendo los hechos en conocimiento del comprador o usuario de los mismos, por escrito y de forma fehaciente. No serán reanudados los trabajos hasta que no sean corregidas las deficiencias advertidas.
+
+c) Si en el curso de la ejecución de la instalación, la empresa instaladora considerase que el proyecto o documentación técnica no se ajusta a lo establecido en el Reglamento, deberá, por escrito, poner tal circunstancia en conocimiento del autor de dicho proyecto o documentación, y del titular. Si no hubiera acuerdo entre las partes, se someterá la cuestión al órgano competente de la Comunidad Autónoma, para que ésta resuelva en un plazo máximo de dos meses.
+
+d) Una vez concluida la instalación, la empresa instaladora facilitará al titular o usuario de la misma, así como a la dirección facultativa, la documentación técnica e instrucciones de mantenimiento correspondientes a la instalación, necesarias para su buen uso y conservación.
+
+#### Artículo 13. Cese de la actividad, prohibición temporal de presentar nueva declaración responsable y modificación de datos.
+
+1\. La no presentación de la declaración a la que se hace referencia en el artículo 11, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones, que deban figurar en dicha declaración, habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare el cese de la actividad y, si procede, en caso de infracciones muy graves según el artículo 31 de la Ley 21/1992, de 16 de julio, de Industria, o en función de la gravedad de la omisión, falsedad o inexactitud en que se haya incurrido, se imposibilite la presentación de una nueva declaración responsable durante el plazo de un año, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
+
+2\. Cualquier hecho que suponga la modificación sobrevenida de alguno de los datos incluidos en la declaración responsable, así como el cese de las actividades, o la prohibición temporal de presentar nueva declaración responsable, deberá ser comunicado por el interesado al órgano competente de la Comunidad Autónoma donde presentó la declaración originaria, en el plazo máximo de un mes.
+
+3\. En el caso de cese de la actividad, prohibición temporal de presentar una nueva declaración responsable o en el caso de modificaciones de datos a los que se refieren los apartados anteriores, el órgano competente de la Comunidad Autónoma actualizará los datos en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992.
+
+### Sección 2.ª Empresas mantenedoras
+
+#### Artículo 14. Ámbito de actuación de las empresas mantenedoras.
+
+1\. El mantenimiento de equipos y sistemas a los que se refiere este Reglamento se realizará por empresas mantenedoras, debidamente habilitadas ante el órgano competente de la Comunidad Autónoma en la que solicita el alta como empresa mantenedora, en los equipos o sistemas que vayan a mantener.
+
+2\. El usuario de equipos o sistemas de protección contra incendios que disponga de medios técnicos y humanos suficientes para efectuar su correcto mantenimiento, así como de un seguro de responsabilidad civil, según el apartado e) del artículo 15, podrá adquirir la condición de mantenedor de éstos, presentando la declaración responsable a la que se hace referencia en el artículo 16 ante el órgano competente de la Comunidad Autónoma.
+
+3\. Se exceptúan de lo establecido en el apartado 1 las mantas ignífugas.
+
+#### Artículo 15. Requisitos de las empresas mantenedoras.
+
+1\. Para poder ejercer las funciones de empresa mantenedora, la empresa deberá cumplir los siguientes requisitos:
+
+a) Disponer de la documentación que identifique a la empresa mantenedora, que en el caso de persona jurídica, deberá estar constituida legalmente.
+
+b) Contar con los medios humanos necesarios para realizar su actividad en condiciones de seguridad que, como mínimo, serán los que se determinan en el anexo III de este reglamento.
+
+c) Para el mantenimiento de sistemas de extinción mediante agentes gaseosos fluorados, se deberá estar en posesión de los certificados de cualificación previstos en el Reglamento (UE) n.º 517/2014, del Parlamento Europeo y del Consejo, de 16 de abril de 2014, y en el Real Decreto 115/2017, de 17 de febrero.
+
+d) Disponer de los medios materiales técnicos para el desarrollo de su actividad, incluyendo, en todo caso, el utillaje y repuestos suficientes e idóneos para la ejecución eficaz de las operaciones de mantenimiento en condiciones de seguridad.
+
+e) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 800.000 euros por siniestro. Esta cuantía mínima se actualizará por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+f) Disponer de un certificado de calidad del sistema de gestión de la calidad implantado, emitido por una entidad de certificación acreditada, según los procedimientos establecidos en el Reglamento de la Infraestructura para la Calidad y Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre. El alcance del correspondiente certificado, deberá incluir, explícitamente, el mantenimiento de todos y cada uno de los equipos o sistemas para los que se solicita la habilitación.
+
+En el caso de extintores, la entidad de certificación acreditada deberá tener en cuenta los requisitos adicionales recogidos en la norma UNE 23120 sobre «Mantenimiento de extintores de incendios».
+
+En el inicio de actividad, y por un periodo máximo de un año, se considerará cumplido este requisito con la acreditación de tener contratado el desarrollo e implantación de dicho sistema de gestión de la calidad, en los términos indicados en el párrafo anterior.
+
+g) En el caso de los sistemas de alumbrado de emergencia, las empresas mantenedoras deberán cumplir únicamente lo establecido en el Reglamento Electrotécnico de Baja Tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y en la instrucción técnica complementaria correspondiente.
+
+2\. La empresa mantenedora habilitada no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
+
+3\. El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+> Se modifica la letra f) del apartado 1 por la disposición final 1.4 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+> Se modifican la letras b) y e) del apartado 1, con efectos de 1 de julio de 2021, por el art. 11.3 y 4 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+#### Artículo 16. Habilitación de empresas mantenedoras.
+
+1\. Antes de comenzar sus actividades como empresas mantenedoras, las personas físicas o jurídicas que deseen establecerse en España, así como las empresas mantenedoras legalmente establecidas en cualquier otro Estado miembro de la Unión Europea y que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar ante el órgano competente de la Comunidad Autónoma en la que se establezcan, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare:
+
+a) La relación de equipos y sistemas de protección contra incendios para cuyo mantenimiento desea estar habilitada,
+
+b) Que cumple los requisitos que se exigen por este Reglamento,
+
+c) Que dispone de los medios materiales necesarios para la instalación de dichos sistemas en condiciones de seguridad y de la documentación que así lo acredita,
+
+d) Que se compromete a mantenerlos durante la vigencia de la actividad y
+
+e) Que se responsabiliza de que la actividad de mantenimiento se efectúa de acuerdo con los requisitos que se establezcan en este Reglamento, sus anexos y sus órdenes de desarrollo.
+
+2\. Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
+
+3\. Las Comunidades Autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente, cuando ésta así lo requiera, en el ejercicio de sus facultades de inspección, comprobación y control.
+
+4\. El órgano competente de la Comunidad Autónoma asignará, de oficio, un número de identificación a la empresa y la inscribirá en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992, de 16 de julio.
+
+5\. De acuerdo con la Ley 21/1992, de 16 de julio, la declaración responsable habilita por tiempo indefinido a la empresa mantenedora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+> Se modifica el apartado 2, con efectos de 1 de julio de 2021, por el art. 11.5 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+#### Artículo 17. Obligaciones de las empresas mantenedoras.
+
+Las empresas mantenedoras adquirirán las siguientes obligaciones en relación con los equipos o sistemas, cuyo mantenimiento les sea encomendado:
+
+a) Realizar las actividades de mantenimiento exigidas en este Reglamento a los equipos o sistemas, de acuerdo con los plazos reglamentarios, utilizando recambios y piezas originales, siempre y cuando afecten a la certificación del producto.
+
+b) Corregir, a petición del titular de la instalación, las deficiencias o averías que se produzcan en los equipos o sistemas, cuyo mantenimiento tiene encomendado.
+
+c) Entregar un informe técnico al titular, en el que se relacionen los equipos o sistemas que no ofrezcan garantía de correcto funcionamiento, presenten deficiencias, que no puedan ser corregidas durante el mantenimiento, que no cumplan con las disposiciones vigentes que les sean aplicables o no sean adecuados al riesgo de incendio del edificio, sector o área de incendio destinada a proteger.
+
+d) Conservar, al menos durante cinco años, la documentación justificativa de las operaciones de reparación y mantenimiento que realicen, sus fechas de ejecución, resultados e incidencias, elementos sustituidos y cuanto se considere digno de mención para conocer el estado de operatividad del equipo o sistema cuya conservación se realice.
+
+e) Emitir un certificado del mantenimiento periódico efectuado, en el que conste o se haga referencia a los equipos y sistemas objeto del mantenimiento, anexando copia de las listas de comprobación utilizadas, durante las operaciones y comprobaciones ejecutadas, con las anotaciones realizadas y los resultados obtenidos.
+
+f) Comunicar al titular de los equipos o sistemas las fechas en que corresponde efectuar las operaciones de mantenimiento periódicas establecidas en este Reglamento.
+
+g) En el caso de extintores de incendio, la empresa mantenedora colocará en todo extintor que haya mantenido, fuera de la etiqueta del fabricante del mismo, una etiqueta con su número de identificación, nombre, dirección, fecha en la que se ha realizado la operación, fecha en que debe realizarse la próxima revisión. Asimismo, las empresas mantenedoras de extintores de incendio llevarán un registro en el que figurarán los extintores y las operaciones realizadas a los mismos.
+
+#### Artículo 18. Cese de la actividad, prohibición temporal de presentar nueva declaración responsable y modificación de datos
+
+1\. La no presentación de la declaración a la que se hace referencia en el artículo 16, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones, que deban figurar en dicha declaración, habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare el cese de la actividad y, si procede, en caso de infracciones muy graves según el artículo 31 de la Ley 21/1992, de 16 de julio, de Industria, o en función de la gravedad de la omisión, falsedad o inexactitud en que se haya incurrido, se imposibilite la presentación de una nueva declaración responsable durante el plazo de un año, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
+
+2\. Cualquier hecho que suponga la modificación de alguno de los datos incluidos en la declaración responsable, así como el cese de las actividades, o la prohibición temporal de presentar nueva declaración responsable, deberá ser comunicado por el interesado al órgano competente de la Comunidad Autónoma donde presentó la declaración originaria, en el plazo de un mes.
+
+3\. En el caso de cese de la actividad, prohibición temporal de presentar una nueva declaración responsable o en el caso de modificaciones de datos a los que se refieren los apartados anteriores, el órgano competente de la Comunidad Autónoma actualizará los datos en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992.
+
+## CAPÍTULO IV — Instalación, puesta en servicio y mantenimiento de instalaciones de protección contra incendios
+
+#### Artículo 19. Instalación.
+
+1\. En los establecimientos y zonas de uso industrial que se encuentran dentro del ámbito de aplicación del Reglamento de seguridad contra incendios en establecimientos industriales, aprobado por Real Decreto 2267/2004, de 3 de diciembre, la instalación de los equipos y sistemas de protección contra incendios incluidos en el presente Reglamento requerirá la presentación de un proyecto o documentación técnica, ante los servicios competentes en materia de industria de la Comunidad Autónoma, de acuerdo con lo establecido en el citado Reglamento.
+
+El citado proyecto o documentación será redactado y firmado por técnico titulado competente, debiendo indicar los equipos y sistemas o sus componentes que ostenten el marcado CE, los sujetos a marca de conformidad a normas o los que dispongan de una evaluación técnica de la idoneidad para su uso previsto.
+
+El proyecto, en su estructuración y contenido, será conforme a lo establecido en la norma UNE 157001, sin perjuicio de lo que, en materia de contenido mínimo de proyectos, establezcan las Administraciones públicas competentes.
+
+2\. En los edificios a los que sea de aplicación el Código Técnico de la Edificación, Documento Básico «Seguridad en caso de incendio (SI)», las instalaciones de protección contra incendios se atendrán a lo dispuesto en el mismo.
+
+#### Artículo 20. Puesta en servicio.
+
+1\. Para la puesta en servicio de las instalaciones de protección activa contra incendios señaladas en el apartado 1 del artículo anterior, se requiere:
+
+a) La presentación, ante el órgano competente de la comunidad autónoma en materia de industria, antes de la puesta en funcionamiento de las mismas de un certificado de la empresa instaladora, emitido por un técnico titulado competente designado por la misma, en el que se hará constar que la instalación se ha realizado de conformidad con lo establecido en este Reglamento y de acuerdo al proyecto o documentación técnica.
+
+b) Tener suscrito un contrato de mantenimiento con una empresa mantenedora debidamente habilitada, que cubra, al menos, los mantenimientos de los equipos y sistemas sujetos a este Reglamento, según corresponda.
+
+Excepcionalmente, si el titular de la instalación se habilita como mantenedor y dispone de los medios y organización necesarios para efectuar su propio mantenimiento, y asume su ejecución y la responsabilidad del mismo, será eximido de su contratación.
+
+Para la puesta en servicio de las instalaciones de protección activa contra incendios señaladas en el apartado 2 del artículo anterior, serán también de aplicación los requisitos fijados en el presente artículo.
+
+2\. No será necesaria la puesta en servicio de las instalaciones que consten únicamente de los equipos citados en el artículo 9.2.
+
+> Se modifica por la disposición final 1.5 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+#### Artículo 21. Mantenimiento y conservación.
+
+1\. Los equipos y sistemas de protección activa contra incendios, sujetos a este Reglamento, se someterán a las revisiones de mantenimiento que se establecen en el anexo II, en el cual se determina, en cada caso, el tiempo máximo que podrá transcurrir entre dos mantenimientos consecutivos.
+
+2\. Las actas de estos mantenimientos, firmadas por el personal cualificado que los ha llevado a cabo, estarán a disposición de los servicios competentes en materia de industria de la Comunidad Autónoma, al menos, durante cinco años a partir de la fecha de su expedición.
+
+## CAPÍTULO V — Inspecciones periódicas de Instalaciones de protección contra incendios
+
+#### Artículo 22. Inspecciones periódicas.
+
+1\. En aquellos casos en los que la inspección de las instalaciones de protección activa contra incendios no esté regulada por reglamentación específica, los titulares de las mismas deberán solicitar, al menos, cada diez años, a un organismo de control acreditado, conforme a los procedimientos establecidos en el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre, la inspección de sus instalaciones de protección contra incendios, evaluando el cumplimiento de la legislación aplicable.
+
+Las inspecciones se realizarán siguiendo los procedimientos establecidos en la norma UNE 192005-2 en todo lo que no contradiga al presente reglamento, u otras especificaciones que aporten un nivel de seguridad equivalente a esta, o bien, el protocolo equivalente que cada comunidad autónoma tenga establecido.
+
+2\. Se exceptúan de lo dispuesto en el apartado anterior las instalaciones de protección activa contra incendios de los establecimientos destinados a:
+
+a) Uso residencial vivienda,
+
+b) Uso administrativo con superficie construida menor de 2.000 m<sup>2</sup>,
+
+c) Uso docente con superficie construida menor de 2.000 m<sup>2</sup>,
+
+d) Uso comercial con superficie construida menor de 500 m<sup>2</sup>,
+
+e) Uso pública concurrencia con superficie construida menor de 500 m<sup>2</sup> y
+
+f) Uso aparcamiento con superficie construida menor de 500 m<sup>2</sup>.
+
+A condición de que no confluyan en ninguno de estos casos zonas o locales de riesgo especial alto, o zonas de uso almacén, con independencia de la función inspectora asignada a los servicios competentes en materia de industria de la comunidad autónoma y de las operaciones de mantenimiento previstas en este reglamento.
+
+Estas inspecciones tampoco serán obligatorias para aquellos lugares cuyas instalaciones consten únicamente de los equipos indicados en el artículo 20.2 o de Sistemas de alumbrado de emergencia, salvo que su reglamentación específica lo exija.
+
+3\. De dichas inspecciones se levantará un acta, firmada por el técnico titulado competente del organismo de control que ha procedido a la inspección y por el titular de la instalación, quienes conservarán una copia, que estará a disposición de los servicios competentes en materia de industria de la Comunidad Autónoma.
+
+4\. En caso de que se detecten incumplimientos respecto al presente Reglamento, el organismo de control que ha realizado la inspección fijará los plazos para su subsanación y, en caso de que éstos sean de carácter muy grave o no se corrijan en dichos plazos, lo pondrá en conocimiento de los servicios competentes en materia de industria de la comunidad autónoma.
+
+> Se modifican los apartados 1 y 2 por la disposición final 1.6 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+## CAPÍTULO VI — Régimen sancionador
+
+#### Artículo 23. Infracciones y sanciones.
+
+Las infracciones a lo dispuesto en este Reglamento y sus anexos se clasificarán y sancionarán de acuerdo con lo dispuesto en el título V de la Ley 21/1992, de 16 de julio, de Industria, en la redacción dada por la disposición final tercera de la Ley 32/2014, de 22 de diciembre, de Metrología.
+
+#### Disposición adicional primera. Reconocimiento mutuo.
+
+Se considerarán conformes con este reglamento los productos comercializados legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializados legalmente en él, siempre que garanticen un nivel equivalente al exigido en el presente reglamento en cuanto a su seguridad y al uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) n.º 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.
+
+> Se modifica, con efectos desde el 1 de julio de 2023, por el art. 8 del Real Decreto 145/2023, de 28 de febrero. [Ref. BOE-A-2023-7056](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7056)
+
+#### Disposición adicional segunda. Cobertura de seguro u otra garantía equivalente suscritos en otro Estado.
+
+1\. Se considerará cumplida la exigencia establecida en los artículos 10 y 15 de este Reglamento cuando la empresa instaladora o mantenedora, que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecida.
+
+2\. Si la equivalencia con los requisitos es solo parcial, la empresa instaladora o mantenedora deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.
+
+#### Disposición adicional tercera. Aceptación de documentos de otros Estados miembros a efectos de acreditación del cumplimiento de requisitos.
+
+A los efectos de acreditar el cumplimiento de los requisitos exigidos a las empresas instaladoras o mantenedoras, se aceptarán los documentos procedentes de otro Estado miembro, de los que se desprenda que se cumplen tales requisitos, en los términos previstos en el artículo 17 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+#### Disposición adicional cuarta. Modelo de declaración responsable.
+
+Corresponderá a las Comunidades Autónomas elaborar y mantener disponibles los modelos de declaración responsable a que se hace referencia en los artículos 11 y 16.
+
+A efectos de facilitar la introducción de datos en el Registro Integrado Industrial, regulado en el título IV, de la Ley 21/1992, de 16 de julio, dichos modelos de declaración responsable deberán incluir los datos que se suministrarán al indicado registro.
+
+En la sede electrónica del Ministerio de Economía, Industria y Competitividad podrán situarse modelos orientativos a disposición de las Comunidades Autónomas.
+
+#### Disposición adicional quinta. Obligaciones en materia de información y reclamaciones.
+
+Las empresas instaladoras y las mantenedoras deberán cumplir las obligaciones de información de los prestadores y las obligaciones en materia de reclamaciones establecidas, respectivamente, en los artículos 22 y 23 de la Ley 17/2009, de 23 de noviembre.
+
+#### Disposición transitoria primera. Aplicación de este Reglamento a equipos o sistemas sujetos a nuevas exigencias.
+
+Los productos cuya conformidad se determine según lo indicado en el artículo 5, apartados 2 y 3, a los que no fueran de aplicación los requisitos exigidos en el anterior Reglamento de instalaciones de protección contra incendios, aprobado por Real Decreto 1942/1993, de 5 de noviembre, dispondrán de un plazo de dos años, a partir de la fecha de entrada en vigor de este real decreto, para cumplir los requisitos establecidos en el Reglamento que se aprueba por el presente real decreto.
+
+#### Disposición transitoria segunda. Aplicación de este Reglamento a equipos o sistemas ya instalados.
+
+A los equipos o sistemas ya instalados o con fecha de solicitud de licencia de obra, con anterioridad a la entrada en vigor del presente Reglamento, únicamente les será de aplicación aquellas disposiciones relativas a su mantenimiento y a su inspección. Las actividades de mantenimiento no previstas en el Real Decreto 1942/1993, de 5 de noviembre, deberán comenzar a realizarse en un plazo máximo de un año, a partir de la entrada en vigor del presente Reglamento.
+
+#### Disposición transitoria tercera. Aplicación de este Reglamento a empresas instaladoras y mantenedoras ya autorizadas.
+
+Las empresas instaladoras y mantenedoras que ejercían su actividad de conformidad con las condiciones y requisitos exigidos por el Real Decreto 1942/1993, de 5 de noviembre, y la Orden del Ministerio de Industria y Energía de 16 de abril de 1998 dispondrán de un plazo máximo de un año a partir de la entrada en vigor del presente Reglamento para su adaptación a lo dispuesto en el presente Reglamento.
+
+#### Disposición transitoria cuarta. Primera inspección de las instalaciones existentes.
+
+1\. Las instalaciones de protección contra incendios existentes a la entrada en vigor del presente Reglamento, sujetas a las inspecciones periódicas establecidas en el artículo 22 del mismo, deberán someterse a la primera inspección a los diez años de su puesta en servicio.
+
+2\. Las instalaciones de protección contra incendios existentes con diez o más años desde su puesta en servicio, a la entrada en vigor del presente Reglamento, deberán someterse a la primera inspección en los siguientes plazos máximos:
+
+a) Instalaciones con una antigüedad mayor o igual a 20 años: en el plazo de un año.
+
+b) Instalaciones con una antigüedad mayor o igual a 15 años y menor a 20 años: en el plazo de dos años.
+
+c) Instalaciones con una antigüedad mayor o igual a 10 años y menor a 15 años: en el plazo de tres años.
+
+## ANEXO I — Características e instalación de los equipos y sistemas de protección contra incendios
+
+### Sección 1.ª Protección activa contra incendios
+
+Los equipos y sistemas de protección activa contra incendios, así como sus partes o componentes, y la instalación de los mismos, deben reunir las características que se especifican a continuación:
+
+1\. Sistemas de detección y de alarma de incendios
+
+1\. La norma UNE-EN 54-1, describe los componentes de los sistemas de detección y alarma de incendio, sujetos al cumplimiento de este Reglamento.
+
+El diseño, la instalación, la puesta en servicio y el uso de los sistemas de detección y alarma de incendio, serán conformes a la norma UNE 23007-14.
+
+La compatibilidad de los componentes del sistema se verificará según lo establecido en la norma UNE-EN 54-13.
+
+El diseño, instalación y puesta en servicio de los sistemas de alarma por voz, será conforme a la norma UNE 23007-32.
+
+2\. El equipo de suministro de alimentación (e.s.a.) deberá llevar el marcado CE, de conformidad con la norma EN 54-4, adoptada como UNE 23007-4.
+
+3\. Los dispositivos para la activación automática de alarma de incendio, esto es, detectores de calor puntuales, detectores de humo puntuales, detectores de llama puntuales, detectores de humo lineales y detectores de humos por aspiración, de que se dispongan, deberán llevar el marcado CE, de conformidad con las normas UNE-EN 54-5, UNE-EN 54-7, UNE-EN 54-10, UNE-EN 54-12 y UNE-EN 54-20, respectivamente.
+
+Los detectores con fuente de alimentación autónoma deberán llevar el marcado CE, de conformidad con la norma UNE-EN 14604.
+
+4\. Los dispositivos para la activación manual de alarma de incendio, es decir, los pulsadores de alarma, deberán llevar el marcado CE, de conformidad con la norma EN 54-11.
+
+Los pulsadores de alarma se situarán de modo que la distancia máxima a recorrer, desde cualquier punto que deba ser considerado como origen de evacuación, hasta alcanzar un pulsador, no supere los 25 m. Los pulsadores se situarán de manera que la parte superior del dispositivo quede a una altura entre 80 cm. y 120 cm.
+
+Los pulsadores de alarma estarán señalizados conforme indica el anexo I, sección 2.ª del presente Reglamento.
+
+5\. Los equipos de control e indicación (e.c.i.) deberán llevar el marcado CE, de conformidad con la norma EN 54-2, adoptada como UNE 23007-2.
+
+El e.c.i. estará diseñado de manera que sea fácilmente identificable la zona donde se haya activado un pulsador de alarma o un detector de incendios.
+
+6\. Tanto el nivel sonoro, como el óptico de los dispositivos acústicos de alarma de incendio y de los dispositivos visuales (incorporados cuando así lo exija otra legislación aplicable o cuando el nivel de ruido donde deba ser percibida supere los 60 dB(A), o cuando los ocupantes habituales del edificio/establecimiento sean personas sordas o sea probable que lleven protección auditiva), serán tales que permitirán que sean percibidos en el ámbito de cada sector de detección de incendio donde estén instalados.
+
+Los dispositivos acústicos de alarma de incendio deberán llevar el marcado CE, de conformidad con la norma UNE-EN 54-3.
+
+Los sistemas de control de alarma de incendio por voz y sus equipos indicadores deberán llevar el marcado CE, de conformidad con la norma UNE-EN 54-16. Los altavoces del sistema de alarma de incendio por voz deberán llevar el marcado CE, de conformidad con la norma UNE-EN 54-24.
+
+Los dispositivos visuales de alarma de incendio deberán llevar el marcado CE, de conformidad con la norma UNE-EN 54-23.
+
+7\. El sistema de comunicación de la alarma permitirá transmitir señales diferenciadas, que serán generadas, bien manualmente desde un puesto de control, o bien de forma automática, y su gestión será controlada, en cualquier caso, por el e.c.i.
+
+Los equipos de transmisión de alarmas y avisos de fallo deberán llevar el marcado CE, de conformidad con la norma EN 54-21.
+
+Cuando las señales sean transmitidas a un sistema integrado, los sistemas de protección contra incendios tendrán un nivel de prioridad máximo.
+
+8\. El resto de componentes de los sistemas automáticos de detección de incendios y alarma de incendio, deberán llevar el marcado CE, de conformidad con las normas de la serie UNE-EN 54, una vez entre en vigor dicho marcado. Hasta entonces, dichos componentes podrán optar por llevar el marcado CE, cuando las normas europeas armonizadas estén disponibles, o justificar el cumplimiento de lo establecido en las normas europeas UNE-EN que les sean aplicables, mediante un certificado o marca de conformidad a las correspondientes normas, de acuerdo al artículo 5.2 del presente Reglamento.
+
+En caso de utilizar sistemas anti-intrusión, éstos deberán ser compatibles con el sistema de apertura de emergencia del sistema de sectorización automática.
+
+2\. Sistemas de abastecimiento de agua contra incendios
+
+El sistema de abastecimiento de agua contra incendios estará formado por un conjunto de fuentes de agua, equipos de impulsión y una red general de incendios destinada a asegurar, para uno o varios sistemas específicos de protección, el caudal y presión de agua necesarios durante el tiempo de autonomía requerido.
+
+Cuando se exija un sistema de abastecimiento de agua contra incendios, sus características y especificaciones serán conformes a lo establecido en la norma UNE 23500.
+
+Para los sistemas de extinción de incendios que dispongan de una evaluación técnica favorable de la idoneidad para su uso previsto, según se establece en el artículo 5.3 de este Reglamento, los sistemas de abastecimiento de agua contra incendios, contemplados en dichos documentos, se considerarán conformes con este Reglamento.
+
+A falta de requisitos específicos, en los sistemas de protección contra incendios abastecidos con agua (tales como BIE), las tuberías de dichos sistemas deben cumplir con los requisitos recogidos en la norma UNE 23500 sobre la red general de distribución. Como excepción a lo anterior, en el caso de que en el epígrafe correspondiente de dichos sistemas se establezcan requisitos específicos para sus tuberías (como en el caso de los sistemas de rociadores), prevalecerá lo que se establezca allí.
+
+3\. Sistemas de hidrantes contra incendios
+
+1\. Los sistemas de hidrantes contra incendios, estarán compuestos por una red de tuberías para agua de alimentación y los hidrantes necesarios.
+
+Los hidrantes contra incendios, serán del tipo de columna o bajo tierra.
+
+2\. Los hidrantes de columna deberán llevar el marcado CE, de conformidad con la norma UNE-EN 14384.
+
+Los hidrantes bajo tierra deberán llevar el marcado CE, de conformidad con la norma UNE-EN 14339.
+
+Para asegurar los niveles de protección de los distintos hidrantes contra incendios, solo se admiten hidrantes de columna de rango de par «2» y de tipos «B» o «C». Cuando se prevean riesgos de heladas, solo se admitirán los de tipo «C». El mST, requerido para el tipo «C» será de 250 N·m. Solo se admiten hidrantes bajo tierra, con PFA de 1600 kPa (16 kg/cm<sup>2</sup>).
+
+Los hidrantes contra incendios, alcanzarán el coeficiente de flujo, Kv (presión en bar y caudal en m3/h), indicado en la tabla siguiente, en función de las conexiones de entrada, de las salidas y de su número.
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Salidas: Número y DN</p>
+</td>
+<td colspan="2">
+<p>Kv mínimo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrante de columna</p>
+</td>
+<td>
+<p>Hidrante bajo tierra</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>1 de 45</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>33</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2 de 45</p>
+</td>
+<td>
+<p>66</p>
+</td>
+<td>
+<p>66</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 de 70</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2 de 70</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 de 90/100</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>150</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Los racores y mangueras, utilizados en los hidrantes contra incendios, necesitarán, antes de su fabricación o importación, ser aprobados, de acuerdo con lo dispuesto en el artículo 5.2 de este Reglamento, justificándose el cumplimiento de lo establecido en las normas UNE 23400 y UNE 23091, respectivamente.
+
+3\. Para considerar una zona protegida por hidrantes contra incendios se harán cumplir las condiciones que se indican a continuación, salvo que otra legislación aplicable imponga requisitos diferentes:
+
+a) La distancia de recorrido real, medida horizontalmente, a cualquier hidrante, será inferior a 100 m en zonas urbanas y 40 m en el resto.
+
+b) Al menos, uno de los hidrantes (situado, a ser posible, en la entrada del edificio) deberá tener una salida de 100 mm, orientada perpendicular a la fachada y de espaldas a la misma.
+
+c) En el caso de hidrantes que no estén situados en la vía pública, la distancia entre el emplazamiento de cada hidrante y el límite exterior del edificio o zona protegidos, medida perpendicularmente a la fachada, debe estar comprendida entre 5 m y 15 m.
+
+En cualquier caso, se deberá cumplir que:
+
+a) Los hidrantes contra incendios deberán estar situados en lugares fácilmente accesibles, fuera de espacios destinados a la circulación y estacionamiento de vehículos y debidamente señalizados, conforme a lo indicado en el anexo I, sección 2.ª, del presente Reglamento.
+
+b) En lugares donde el nivel de las aguas subterráneas quede por encima de la válvula de drenaje, ésta debe taponarse antes de la instalación. En estos casos, si se trata de zonas con peligro de heladas, el agua de la columna deberá sacarse por otros medios después de cada utilización. Se identificarán estos hidrantes para indicar esta necesidad.
+
+c) El caudal ininterrumpido mínimo a suministrar por cada boca de hidrante contra incendios será de 500 l/min. En zonas urbanas, donde la utilización prevista del hidrante contra incendios sea únicamente el llenado de camiones, la presión mínima requerida será 100 kPa (1 kg/cm<sup>2</sup>) en la boca de salida. En el resto de zonas, la presión mínima requerida en la boca de salida será 500 kPa (5 kg/cm<sup>2</sup>), para contrarrestar la pérdida de carga de las mangueras y lanzas, durante la impulsión directa del agua sobre el incendio.
+
+4\. Los hidrantes cuyo único uso previsto sea el llenado de camiones (aquellos no previstos para impulsión directa), podrán estar conectados a la red pública de suministro de agua, sin necesidad de depósitos ni de equipos de bombeo, siempre que esta sea capaz de proporcionar la presión y caudal requeridos. Alternativamente, en el caso de disponerse de depósitos, la capacidad de estos deberá dimensionarse para garantizar una autonomía de, al menos, 60 minutos, salvo que la legislación específica disponga otra cosa.
+
+5\. A falta de indicaciones en las normas europeas que fijen los requisitos del mecanismo de accionamiento de los hidrantes, este mecanismo estará formado por una tuerca en la que se roscará la parte superior del eje que transmitirá el movimiento axial al elemento móvil del cierre. Este mecanismo deberá ser accionado mediante llave de cuadradillo de 25 mm x 25 mm para hidrantes bajo tierra, y de 30 mm x 30 mm para hidrantes de columna, girando para cerrar en el sentido de las agujas del reloj.
+
+En el caso de existir válvulas intermedias en el ramal del hidrante (en la unión entre la red de distribución y la tubería de conexión al hidrante), su mecanismo de apertura deberá poder ser accionado mediante llave de cuadradillo de 25x25 o 30x30. Estas válvulas deberán estar preferentemente en posición abierta para asegurar que llega agua al hidrante o, en caso contrario, deberán ser accesibles y estar señalizadas para permitir su rápida localización y apertura.
+
+Las tapas de los hidrantes bajo tierra deberán ser fácilmente visibles y estar preferentemente pintadas de color rojo (RAL 3001 o equivalente), o bien tener la inscripción «incendios» o un texto equivalente que permita la rápida identificación del hidrante. Asimismo, las tapas deberán permitir su apertura por los Servicios de Extinción de Incendios y Salvamento.
+
+6\. En el caso de los hidrantes situados en la vía pública cuya gestión asuma el municipio («hidrantes municipales») o administración pública correspondiente, los requisitos de producto, así como el diseño de la instalación, deberán cumplir con lo dispuesto en el presente reglamento, no obstante, respecto a la puesta en servicio, operaciones de mantenimiento e inspecciones, serán los determinados por el propio municipio o Administración pública correspondiente.
+
+4\. Extintores de incendio
+
+1\. El extintor de incendio es un equipo que contiene un agente extintor, que puede proyectarse y dirigirse sobre un fuego, por la acción de una presión interna. Esta presión puede producirse por una compresión previa permanente o mediante la liberación de un gas auxiliar.
+
+En función de la carga, los extintores se clasifican de la siguiente forma:
+
+a) Extintor portátil: Diseñado para que puedan ser llevados y utilizados a mano, teniendo en condiciones de funcionamiento una masa igual o inferior a 20 kg.
+
+b) Extintor móvil: Diseñado para ser transportado y accionado a mano, está montado sobre ruedas y tiene una masa total de más de 20 kg.
+
+2\. Los extintores de incendio, sus características y especificaciones serán conformes a las exigidas en el Real Decreto 709/2015, de 24 de julio, por el que se establecen los requisitos esenciales de seguridad para la comercialización de los equipos a presión.
+
+3\. Los extintores de incendio portátiles necesitarán, antes de su fabricación o importación, ser certificados, de acuerdo con lo establecido en el artículo 5.2 de este Reglamento, a efectos de justificar el cumplimiento de lo dispuesto en la norma UNE-EN 3-7 y UNE-EN 3-10. Los extintores móviles deberán cumplir lo dispuesto en la norma UNE-EN 1866-1.
+
+4\. El emplazamiento de los extintores permitirá que sean fácilmente visibles y accesibles, estarán situados próximos a los puntos donde se estime mayor probabilidad de iniciarse el incendio, a ser posible, próximos a las salidas de evacuación y, preferentemente, sobre soportes fijados a paramentos verticales, de modo que la parte superior del extintor quede situada entre 80 cm y 120 cm sobre el suelo.
+
+Su distribución será tal que el recorrido máximo horizontal, desde cualquier punto del sector de incendio, que deba ser considerado origen de evacuación, hasta el extintor, no supere 15 m.
+
+5\. Los agentes extintores deben ser adecuados para cada una de las clases de fuego normalizadas, según la norma UNE-EN 2:
+
+a) Clase A: Fuegos de materiales sólidos, generalmente de naturaleza orgánica, cuya combinación se realiza normalmente con la formación de brasas.
+
+b) Clase B: Fuegos de líquidos o de sólidos licuables.
+
+c) Clase C: Fuegos de gases.
+
+d) Clase D: Fuegos de metales.
+
+e) Clase F: Fuegos derivados de la utilización de ingredientes para cocinar (aceites y grasas vegetales o animales) en los aparatos de cocina.
+
+6\. Los generadores de aerosoles podrán utilizarse como extintores, siempre que cumplan el Real Decreto 1381/2009, de 28 de agosto, por el que se establecen los requisitos para la fabricación y comercialización de los generadores de aerosoles, modificado por el Real Decreto 473/2014, de 13 de junio y dispongan de una evaluación técnica favorable de la idoneidad para su uso previsto, de acuerdo con lo establecido en el artículo 5.3 de este Reglamento. Dentro de esta evaluación se deberá tomar en consideración que estos productos deben de cumplir con los requisitos que se les exigen a los extintores portátiles en las normas de aplicación, de forma que su capacidad de extinción, su fiabilidad y su seguridad de uso sea, al menos, la misma que la de un extintor portátil convencional. Adicionalmente, deberá realizarse un mantenimiento periódico a estos productos donde se verifique que el producto está en buen estado de conservación, que su contenido está intacto y que se puede usar de forma fiable y segura. La periodicidad y el personal que realice estas verificaciones será el mismo que el que le correspondería a un extintor portátil convencional.
+
+7\. Los extintores de incendio estarán señalizados conforme indica el anexo I, sección 2.ª, del presente Reglamento. En el caso de que el extintor esté situado dentro de un armario, la señalización se colocará inmediatamente junto al armario, y no sobre la superficie del mismo, de manera que sea visible y aclare la situación del extintor.
+
+5\. Sistemas de bocas de incendio equipadas
+
+1\. Los sistemas de bocas de incendio equipadas (BIE) estarán compuestos por una red de tuberías para la alimentación de agua y las BIE necesarias.
+
+Las BIE pueden estar equipadas con manguera plana o con manguera semirrígida.
+
+La toma adicional de 45 mm de las BIE con manguera semirrígida, para ser usada por los servicios profesionales de extinción, estará equipada con válvula, racor y tapón para uso normal.
+
+2\. Las BIE con manguera semirrígida y con manguera plana deberán llevar el marcado CE, de conformidad con las normas UNE-EN 671-1 y UNE EN 671-2, respectivamente.
+
+Los racores deberán, antes de su fabricación o importación, ser aprobados, de acuerdo con lo dispuesto en el artículo 5.2 de este Reglamento, justificándose el cumplimiento de lo establecido en la norma UNE 23400 correspondiente.
+
+De los diámetros de mangueras contemplados en las normas UNE-EN 671-1 y UNE-EN 671-2, para las BIE, solo se admitirán 25 milímetros de diámetro interior, para mangueras semirrígidas y 45 milímetros de diámetro interior, para mangueras planas.
+
+Para asegurar los niveles de protección, el factor K mínimo, según se define en la norma de aplicación, para las BIE con manguera semirrígida será de 42, y para las BIE con manguera plana de 85.
+
+Los sistemas de BIE de alta presión demostrarán su conformidad con este Reglamento mediante una evaluación técnica favorable, según lo indicado en el artículo 5.3 de este Reglamento. Las mangueras que equipan estas BIE deben ser de diámetro interior nominal no superior a 12 mm. Se admitirán diámetros superiores siempre que en la evaluación técnica se justifique su manejabilidad.
+
+3\. Las BIE deberán montarse sobre un soporte rígido, de forma que la boquilla y la válvula de apertura manual y el sistema de apertura del armario, si existen, estén situadas, como máximo, a 1,50 m. sobre el nivel del suelo.
+
+En el caso de que por normativa de dotación de protección contra incendios se exija instalar BIE, estas se situarán preferentemente cerca de las puertas o salidas. Se situará siempre una BIE a una distancia máxima de 5 metros de distancia de cada salida de sector de incendio, medida sobre un recorrido de evacuación, sin que constituyan obstáculo para su utilización; salvo en los casos donde ya exista otra BIE situada en otra salida de dicho sector y esta cubra toda la superficie a proteger, o salvo que la legislación específica disponga otra cosa.
+
+El número y distribución de las BIE tanto en un espacio diáfano como compartimentado, será tal que la totalidad de la superficie del sector de incendio en que estén instaladas quede cubierta por, al menos, una BIE, considerando como radio de acción de ésta la longitud de su manguera incrementada en 5 m.
+
+Para las BIE con manguera semirrígida o manguera plana, la separación máxima entre cada BIE y su más cercana será de 50 m. La distancia desde cualquier punto del área protegida hasta la BIE más próxima no deberá exceder del radio de acción de la misma. Tanto la separación, como la distancia máxima y el radio de acción se medirán siguiendo recorridos de evacuación.
+
+Para facilitar su manejo, la longitud máxima de la manguera de las BIE con manguera plana será de 20 m y con manguera semirrígida será de 30 m.
+
+Para las BIE de alta presión, la separación máxima entre cada BIE y su más cercana será el doble de su radio de acción. La distancia desde cualquier punto del local protegido hasta la BIE más próxima no deberá exceder del radio de acción de la misma. Tanto la separación, como la distancia máxima y el radio de acción, se medirán siguiendo recorridos de evacuación. La longitud máxima de las mangueras que se utilicen en estas B.I.E de alta presión, será de 30 m.
+
+Se deberá mantener alrededor de cada BIE una zona libre de obstáculos, que permita el acceso a ella y su maniobra sin dificultad.
+
+4\. Para las BIE con manguera semirrígida o con manguera plana, la red de BIE deberá asegurar, durante una hora como mínimo, el caudal descargado por las dos hidráulicamente más desfavorables (salvo que solo exista una BIE en la red, en cuyo caso aplicará solo a esa), cumpliendo con las siguientes condiciones:
+
+a) Para BIE con manguera semirrígida (25 mm), esta debe proporcionar un caudal mínimo de 85 litros/minuto, lo cual para el caso de K=42 implica tener una presión mínima a la entrada de la BIE de 4 bar (400 kPa) medida en el manómetro con el flujo de agua completamente abierto y punta de lanza en posición de chorro compacto. (Este tipo de BIE está diseñado para permitir a las personas no especializadas una intervención inmediata y eficaz sobre el inicio de un incendio, a la espera, si fuese necesario, de que sean puestas en marcha otras medidas más potentes).
+
+b) Para BIE con manguera plana (45 mm), esta debe proporcionar un caudal mínimo de 160 litros/minuto, lo cual para el caso de K=85 implica tener una presión mínima a la entrada de 3,5 bar (350 kPa) medida en el manómetro con el flujo de agua completamente abierto y punta de lanza en posición de chorro compacto. (Este tipo de BIE es capaz de proporcionar un caudal superior, pero para su uso se requiere de mayor formación/entrenamiento).
+
+c) Respecto a la presión máxima, esta estará condicionada por las características técnicas del sistema (presión máxima de servicio) y por la maniobrabilidad de las mangueras durante su uso. En consecuencia, la presión máxima a la entrada de la BIE con manguera semirrígida o con manguera plana no deberá superar los 9 bar (900 kPa) medida en el manómetro con el flujo de agua completamente abierto y punta de lanza en posición de chorro compacto.
+
+d) Los requisitos anteriores de presión y caudal deben cumplirse en todas las BIE del sistema.
+
+Para las BIE de alta presión, la red de tuberías deberá proporcionar, durante una hora como mínimo, en la hipótesis de funcionamiento simultáneo de las dos BIE hidráulicamente más desfavorables, una presión dinámica mínima de 3.450 kPa (35 kg/cm<sup>2</sup>), en el orificio de salida de cualquier BIE
+
+Las condiciones establecidas de presión, caudal y reserva de agua deberán estar adecuadamente garantizadas.
+
+5\. Para las BIE con manguera semirrígida o con manguera plana, el sistema de BIE se someterá, antes de su puesta en servicio, a una prueba de estanquidad y resistencia mecánica, sometiendo a la red a una presión estática igual a la máxima de servicio y, como mínimo, a 980 kPa (10 kg/cm<sup>2</sup>), manteniendo dicha presión de prueba durante dos horas, como mínimo, no debiendo aparecer fugas en ningún punto de la instalación.
+
+En el caso de las BIE de alta presión, el sistema de BIE se someterá, antes de su puesta en servicio, a una prueba de estanquidad y resistencia mecánica, sometiendo a la red a una presión de 1,5 veces la presión de trabajo máxima, manteniendo dicha presión de prueba durante dos horas, como mínimo, no debiendo aparecer fugas en ningún punto de la instalación.
+
+6\. Las BIE estarán señalizadas conforme indica el anexo I, sección 2.ª, del presente Reglamento. La señalización se colocará inmediatamente junto al armario de la BIE y no sobre el mismo.
+
+6\. Sistemas de columna seca
+
+1\. El sistema de columna seca, estará compuesto por:
+
+a) Toma de agua en fachada o en zona fácilmente accesible a los Servicios de Extinción de Incendios y Salvamento, con la indicación de «USO EXCLUSIVO SERVICIOS DE EXTINCIÓN DE INCENDIOS», provista de conexión siamesa, con llaves incorporadas y racores de 70 mm, con tapa y llave de purga de 25 mm.
+
+b) Columna de tubería de acero galvanizado DN80.
+
+1.º Los sistemas de columna seca ascendentes constarán de salidas en las plantas pares hasta la octava y en todas a partir de ésta, provistas de conexión siamesa, con llaves incorporadas y racores de 45 mm con tapa; cada cuatro plantas, se instalará una válvula de seccionamiento, por encima de la salida de planta correspondiente.
+
+2.º En los sistemas de columna seca descendentes se instalará válvula de seccionamiento y salida en cada planta; la llave justo por debajo de la salida; la salida estará provista, en todas las plantas, de conexión siamesa con llaves incorporadas y racores de 45 mm con tapa.
+
+2\. Las bocas de salida de la columna seca estarán situadas en recintos de escaleras o en vestíbulos previos a ellas.
+
+La toma situada en el exterior y las salidas en las plantas tendrán el centro de sus bocas a 0,90 m sobre el nivel del suelo.
+
+Las válvulas serán de bola, con palanca de accionamiento incorporada.
+
+Los racores deberán, antes de su fabricación o importación, ser aprobados, de acuerdo con lo dispuesto en el artículo 5.2 de este Reglamento, justificándose el cumplimiento de lo establecido en la norma UNE 23400.
+
+3\. Cada edificio contará con el número de columnas secas suficientes para que el recorrido máximo hasta las mismas, siguiendo recorridos de evacuación, sea menor de 60 metros. Cada columna, ascendente o descendente, dispondrá de su toma independiente en fachada, o en una zona fácilmente accesible a los Servicios de Extinción de Incendios y Salvamento.
+
+La zona próxima a la toma de fachada de la columna seca, se deberá mantener libre de obstáculos, reservando un emplazamiento, debidamente señalizado, para el camión de bombeo.
+
+4\. El sistema de columna seca, se someterá, antes de su puesta en servicio, a una prueba de estanquidad y resistencia mecánica, sometiéndolo a una presión estática igual a la máxima de servicio y, como mínimo de 1470 kPa (15 kg/cm<sup>2</sup>) en columnas de hasta 30 m y de 2.450 kPa (25 kg/cm<sup>2</sup>) en columnas de más de 30 m de altura, durante dos horas, como mínimo, no debiendo aparecer fugas en ningún punto de la instalación.
+
+5\. El sistema de columna seca estará señalizado, conforme indica el anexo I, sección 2.ª, del presente reglamento, con el texto «USO EXCLUSIVO SERVICIOS DE EXTINCIÓN DE INCENDIOS». La señalización se colocará inmediatamente junto al armario del sistema de columna seca, o bien, inscrita sobre la puerta el mismo. Además, en las tomas de entrada, se identificarán las plantas o zonas a las que da servicio cada toma de agua, así como la presión máxima de servicio. Dicha información adicional podrá situarse en la propia señalización o bien en el interior del armario de forma que esta se encuentre protegida y sea visible cuando este se abra.
+
+7\. Sistemas fijos de extinción por rociadores automáticos y agua pulverizada
+
+1\. Los sistemas de extinción por rociadores automáticos y agua pulverizada, estarán compuestos por los siguientes componentes principales:
+
+a) Red de tuberías para la alimentación de agua.
+
+b) Puesto de control.
+
+c) Boquillas de descarga necesarias.
+
+Los componentes de los sistemas de extinción por rociadores automáticos y agua pulverizada deberán llevar el marcado CE, de conformidad con las normas de la serie UNE-EN 12259, una vez entre en vigor dicho marcado. Hasta entonces, dichos componentes podrán optar por llevar el marcado CE, cuando las normas europeas armonizadas estén disponibles, o justificar el cumplimiento de lo establecido en las normas europeas UNE-EN que les sean aplicables, mediante un certificado o marca de conformidad a las correspondientes normas, de acuerdo con el artículo 5.2 del presente Reglamento.
+
+El diseño y las condiciones de instalación de los sistemas de extinción por rociadores automáticos, serán conformes a la norma UNE-EN 12845.
+
+2\. Los sistemas de diluvio o inundación total con rociadores y/o boquillas de pulverización abiertas, sus características y especificaciones, así como las condiciones de instalación, serán conformes a las normas UNE 23501, UNE 23502, UNE 23503, UNE 23504, UNE 23505, UNE 23506 y UNE 23507.
+
+3\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+8\. Sistemas fijos de extinción por agua nebulizada
+
+1\. Los sistemas de extinción por agua nebulizada, estarán conectados a un suministro de agua (almacenada en botellas o bien en depósito con sistema de bombeo), mediante un sistema de tuberías equipadas de una o más boquillas, capaces de nebulizar el agua en su descarga. Estos sistemas podrán descargar agua nebulizada pura o una mezcla de ésta con otros agentes.
+
+2\. Los sistemas de extinción por agua nebulizada, sus características y especificaciones, así como las condiciones de su instalación, serán conformes a la norma UNE-CEN/TS 14972.
+
+3\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+9\. Sistemas fijos de extinción por espuma física
+
+1\. Los sistemas de extinción por espuma física, estarán compuestos por los siguientes componentes principales:
+
+a) Red de tuberías.
+
+b) Tanque de almacenamiento de espumógeno.
+
+c) Dosificador o proporcionador.
+
+d) Boquillas de descarga.
+
+2\. El diseño y las condiciones de instalación de los sistemas de extinción por espuma física serán conformes a la norma UNE-EN 13565-2.
+
+Los componentes de los sistemas fijos de extinción por espuma física serán conformes a la norma UNE-EN 13565-1.
+
+Los espumógenos de alta, media y baja expansión, serán conformes a las normas UNE-EN 1568-1, UNE-EN 1568-2, UNE-EN 1568-3 y UNE-EN 1568-4.
+
+3\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+10\. Sistemas fijos de extinción por polvo
+
+1\. Los sistemas de extinción por polvo estarán compuestos por los siguientes componentes principales:
+
+a) Recipiente de polvo.
+
+b) Recipientes de gas propelente.
+
+c) Tuberías de distribución.
+
+d) Válvulas selectoras.
+
+e) Dispositivos de accionamiento y control.
+
+f) Boquillas de descarga.
+
+Son sistemas en los que el polvo se transporta mediante gas a presión, a través de un sistema de tuberías, y se descarga mediante boquillas.
+
+Estos sistemas solo serán utilizables cuando quede garantizada la seguridad o la evacuación del personal. Además, el mecanismo de disparo incluirá un retardo en su acción y un sistema de prealarma, de forma que permita la evacuación de dichos ocupantes, antes de la descarga del agente extintor.
+
+2\. El diseño y las condiciones de instalación de los sistemas de extinción por polvo serán conformes a la norma UNE-EN 12416-2.
+
+Los componentes de los sistemas de extinción por polvo serán conformes a la norma UNE-EN 12416-1.
+
+El polvo empleado en el sistema será conforme a la norma UNE-EN 615.
+
+3\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+11\. Sistemas fijos de extinción por agentes extintores gaseosos
+
+1\. Los sistemas por agentes extintores gaseosos estarán compuestos, como mínimo, por los siguientes elementos:
+
+a) Dispositivos de accionamiento.
+
+b) Equipos de control de funcionamiento.
+
+c) Recipientes para gas a presión.
+
+d) Tuberías de distribución.
+
+e) Difusores de descarga.
+
+Los dispositivos de accionamiento serán por medio de sistemas de detección automática, apropiados para la instalación y el riesgo, o mediante accionamiento manual, en lugar accesible.
+
+Las concentraciones de aplicación se definirán en función del riesgo y la capacidad de los recipientes será la suficiente para asegurar la extinción del incendio, debiendo quedar justificados ambos requisitos.
+
+Estos sistemas solo serán utilizables cuando quede garantizada la seguridad o la evacuación del personal. Además, el mecanismo de disparo incluirá un retardo en su acción y un sistema de prealarma, de forma que permita la evacuación de dichos ocupantes, antes de la descarga del agente extintor.
+
+2\. El diseño y las condiciones de su instalación serán conformes con la norma UNE-EN 15004-1, o bien, con la norma UNE ISO 6183, según sea el agente extintor. En caso de utilizar la norma UNE-EN 15004-1, esta se aplicará conjuntamente, según el agente extintor empleado, con las normas de la serie UNE-EN 15004.
+
+Los componentes de los sistemas de extinción mediante agentes gaseosos deberán llevar el marcado CE, de conformidad con las normas de la serie UNE-EN 12094, una vez entre en vigor dicho marcado. Hasta entonces, dichos componentes podrán optar por llevar el marcado CE, cuando las normas europeas armonizadas estén disponibles, o justificar el cumplimiento de lo establecido en las normas europeas UNE-EN que les sean aplicables, mediante un certificado o marca de conformidad a las correspondientes normas, de acuerdo al artículo 5.2 del presente Reglamento.
+
+3\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+12\. Sistemas fijos de extinción por aerosoles condensados
+
+1\. Los sistemas fijos de extinción por aerosoles condensados, estarán compuestos por: dispositivos de accionamiento, equipos de control de funcionamiento y unidades de generadores de aerosol.
+
+2\. Estos sistemas deben diseñarse conforme a la norma UNE-EN 15276-2 y sus componentes deben disponer de marca de conformidad a la norma UNE-EN 15276-1 de acuerdo al artículo 5.2 del presente reglamento.
+
+3\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+13\. Sistemas para el control de humos y de calor
+
+1\. Los sistemas de control de calor y humos limitan los efectos del calor y de los humos en caso de incendio. Estos sistemas pueden extraer los gases calientes generados al inicio de un incendio y crear áreas libres de humo por debajo de capas de humo flotante, favoreciendo así las condiciones de evacuación y facilitando las labores de extinción.
+
+Los sistemas de control de calor y humos pueden adoptar cuatro principales estrategias para el movimiento de los gases de combustión: flotabilidad de los gases calientes (edificios de techo alto), presurización diferencial (vías de evacuación), ventilación horizontal (edificios de reducida esbeltez, como túneles o aparcamientos) y extracción de humos (en aparcamientos o tras la actuación de un sistema de supresión del incendio).
+
+a) Los sistemas de ventilación para evacuación de humos y calor basados en estrategias de flotabilidad, estarán compuestos por un conjunto de aberturas (aireadores naturales) o equipos mecánicos de extracción (aireadores mecánicos) para la evacuación de los humos y gases calientes de la combustión de un incendio, por aberturas de admisión de aire limpio o ventiladores mecánicos de aportación de aire limpio y, en su caso, por barreras de control de humo, dimensionadas de manera que se genere una capa libre de humos por encima del nivel de piso del incendio y se mantenga la temperatura media de los humos dentro de unos niveles aceptables.
+
+Los sistemas de control de temperatura y evacuación de humos por flotabilidad se proyectarán de acuerdo con lo indicado en la UNE 23585. La instalación, puesta en marcha y mantenimiento de los sistemas de control de humos, cuando sean aplicados a edificios de una planta, multiplanta con atrios, multiplanta con escaleras o a emplazamientos subterráneos, se realizará según lo indicado en la UNE 23584.
+
+b) Los sistemas de control de humos y calor por presión diferencial son sistemas concebidos para limitar la propagación de humo de un espacio a otro, dentro de un edificio, a través de resquicios entre las barreras físicas (por ej.: rendijas alrededor de puertas cerradas), o por las puertas abiertas. Estos sistemas permiten mantener condiciones seguras para las personas y los servicios de extinción en los espacios protegidos.
+
+El diseño y la instalación de los sistemas de presurización diferencial, para establecer las rutas de escape de las personas y de protección a los Servicios de Extinción de Incendios, especialmente en los edificios multiplanta con escaleras comunes, se realizará de acuerdo con la UNE-EN12101-6 y con la UNE 23584, en los aspectos que la anterior no prevea.
+
+c) Los sistemas de control de humos y calor por ventilación horizontal son sistemas concebidos para limitar la propagación del humo desde un espacio a otro dentro de un edificio con reducida esbeltez.
+
+Hasta el momento de entrada en vigor de normas europeas UNE-EN para el diseño de los sistemas de control de humos y calor por ventilación horizontal, se podrá hacer uso de otras normas o documentos técnicos de referencia, de reconocida solvencia, que sean reconocidos por el Ministerio de Economía, Industria y Competitividad. A estos efectos, pueden considerarse las normas o documentos técnicos cuya utilización haya sido aprobada en otros Estados Miembros.
+
+d) Los sistemas de ventilación para extracción de humos son sistemas concebidos para extraer el humo generado durante un incendio, funcionando durante y/o tras el mismo. Su diseño se realizará según la capacidad de extracción, a partir de un ratio del volumen del edificio (renovaciones por hora) o a través de otros parámetros, según el método escogido.
+
+También pueden utilizarse para la extracción del humo tras el incendio, cuando se instala un sistema de supresión del incendio incompatible con un sistema de control de humos de los otros tipos indicados.
+
+2\. Las barreras de humo que forman parte de un sistema de extracción de calor y humos deberán llevar el marcado CE, de conformidad con la UNE-EN 12101-1. Los aireadores de extracción natural que forman parte de un sistema de extracción de calor y humos deberán llevar el marcado CE, de conformidad con la UNE-EN 12101-2. Los extractores mecánicos que forman parte de un sistema de extracción de calor y humos deberán llevar el marcado CE, de conformidad con la UNE-EN 12101-3.
+
+El resto de componentes de los sistemas para el control de humo y de calor deberán llevar el marcado CE, de conformidad con las normas de la serie UNE-EN 12101, una vez entre en vigor dicho marcado. Hasta entonces, dichos componentes podrán optar por llevar el marcado CE, cuando las normas europeas armonizadas estén disponibles, o justificar el cumplimiento de lo establecido en las normas europeas UNE-EN que les sean aplicables, mediante un certificado o marca de conformidad a las correspondientes normas, de acuerdo al artículo 5.2 del presente Reglamento.
+
+14\. Mantas ignífugas
+
+1\. Las mantas ignífugas son láminas de material flexible destinadas a extinguir por sofocación pequeños fuegos.
+
+2\. Las mantas ignífugas necesitarán, antes de su fabricación o importación, ser aprobadas, de acuerdo con lo establecido en el artículo 5.2 de este Reglamento, a efectos de justificar el cumplimiento de lo dispuesto en la norma UNE-EN 1869.
+
+3\. Las mantas ignífugas deberán mantenerse adecuadamente envasadas hasta su uso, con el fin de protegerlas de condiciones ambientales adversas.
+
+En el envase o en el folleto que acompaña al producto, se indicarán las instrucciones de mantenimiento previstas por el fabricante.
+
+Dada la naturaleza de este producto, deberá indicarse la caducidad del mismo, que no debe exceder los 20 años.
+
+4\. El emplazamiento de las mantas ignífugas permitirá que sean fácilmente visibles y accesibles. Estarán situadas próximas a los puntos donde se estime mayor probabilidad de uso.
+
+5\. Las mantas ignífugas estarán señalizadas, conforme indica el anexo I, sección 2.ª, del presente Reglamento.
+
+15\. Alumbrado de emergencia
+
+Las instalaciones destinadas a alumbrado de emergencia, deben asegurar, en caso de fallo del alumbrado normal, la iluminación en los locales y accesos hasta las salidas, para garantizar la seguridad de las personas que evacuen una zona, y permitir la identificación de los equipos y medios de protección existentes.
+
+Las instalaciones de alumbrado de emergencia serán conformes a las especificaciones establecidas en el Reglamento Electrotécnico de Baja Tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, y en la Instrucción Técnica Complementaria ITC-BT-28.
+
+16\. Sistemas fijos de extinción en cocinas comerciales.
+
+1\. Los sistemas fijos automáticos para la extinción de incendios en cocinas comerciales son sistemas de extinción diseñados específicamente para dichos lugares y que se encuentran instalados habitualmente, por ejemplo, en restaurantes, hoteles y hospitales. Estos sistemas necesitarán, antes de su instalación, ser certificados de acuerdo con lo establecido en el artículo 5.2 de este reglamento, a efectos de justificar el cumplimiento de lo dispuesto en la norma UNE-EN 17446. Asimismo, las condiciones de su diseño e instalación serán conformes a dicha norma.
+
+2\. El funcionamiento de estos sistemas puede estar basado, total o parcialmente, en alguno de los siguientes sistemas, según la tecnología y agentes extintores que utilicen:
+
+a) Sistemas fijos de extinción por rociadores automáticos y agua pulverizada.
+
+b) Sistemas fijos de extinción por agua nebulizada.
+
+c) Sistemas fijos de extinción por espuma física.
+
+d) Sistemas fijos de extinción por polvo.
+
+e) Sistemas fijos de extinción por agentes extintores gaseosos.
+
+f) Sistemas fijos de extinción por aerosoles condensados.
+
+g) Sistemas fijos que utilicen otro tipo tecnologías y agentes extintores, como los agentes químicos acuosos, los cuales se componen principalmente de recipientes para agentes químicos acuosos, dispositivos de detección y accionamiento, equipos de control de funcionamiento (manual, eléctrico o neumático), tuberías de distribución y boquillas de descarga.
+
+3\. En función de lo anterior, los componentes que integren los sistemas fijos para extinción de incendios en cocinas comerciales, deberán cumplir con los requisitos que les apliquen en cada caso. Los requisitos específicos de cada componente pueden aparecer detallados en el presente reglamento o en otros lugares como, por ejemplo, en directivas o reglamentos europeos relativos al marcado CE. En el caso de sistemas cuyos componentes no dispongan de requisitos específicos, la evaluación de dichos componentes deberá incluirse dentro de la certificación del sistema completo requerida en el apartado 1 de este epígrafe.
+
+4\. Los mecanismos de disparo y paro manuales estarán señalizados, conforme indica el anexo I, sección 2.ª, del presente reglamento.
+
+5\. La instalación y mantenimiento de estos sistemas deberá ser realizada por empresas habilitadas para el sistema fijo correspondiente en el que se base, según lo recogido en el apartado 2. En el caso de usarse agentes químicos acuosos u otros, mientras no exista un epígrafe especifico de empresas para dichos sistemas, la instalación y mantenimiento se realizará por empresas habilitadas para alguno de los sistemas fijos de extinción indicados anteriormente. Las operaciones de mantenimiento a realizar para todos estos sistemas serán las indicadas en las tablas del anexo II para sistemas fijos de extinción.
+
+> Se modifican los epígrafes 1, 2, 3, 5, 6, 11 y 12 y se añade el 16 por la disposición final 1.7 a 14 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+> Redactados los apartados 4.2 y 12.2 conforme a la corrección de errores publicada en BOE núm. 230, de 23 de septiembre de 2017. [Ref. BOE-A-2017-10837](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10837)
+
+### Sección 2.ª Sistemas de señalización luminiscente
+
+Se incluirán en esta sección los sistemas de señalización luminiscente, cuya finalidad sea señalizar las instalaciones de protección contra incendios.
+
+Los sistemas de señalización luminiscente deben reunir las características siguientes:
+
+1\. Los sistemas de señalización luminiscente tendrán como función informar sobre la situación de los equipos e instalaciones de protección contra incendios, de utilización manual, aun en caso de fallo en el suministro del alumbrado normal.
+
+Los sistemas de señalización luminiscente incluyen las señales que identifican la posición de los equipos o instalaciones de protección contra incendios.
+
+Los sistemas de señalización podrán ser fotoluminiscentes o bien sistemas alimentados eléctricamente (fluorescencia, diodos de emisión de luz, electroluminiscencia…).
+
+Las señales deben colocarse de forma que sean claramente visibles (posición, tamaño y tipo de señal), teniendo en cuenta las características del lugar donde vayan a estar situadas. La señalización también puede ser reforzada mediante balizamientos y planos de evacuación.
+
+Pueden utilizarse señales no luminiscentes cuando no se vea perjudicada su visibilidad, así como también en el exterior de edificios y en vías públicas. Para las señales situadas dentro de edificios, si estas no fueran luminiscentes, deberán estar iluminadas exteriormente, debiendo ser visibles incluso en caso de fallo en el suministro al alumbrado normal.
+
+Cuando las condiciones medioambientales no sean adecuadas para garantizar el estado de conservación de la señal (por ejemplo, en climas adversos) se debe utilizar el material soporte y protecciones adecuados.
+
+Las señales no deben contener símbolos ni inscripciones ajenas al mensaje a transmitir por la propia señal o que puedan dificultar la lectura de la misma, salvo los que sean estrictamente necesarios para la identificación de esta (según se recoge en el apartado 3 para las señales fotoluminiscentes), los cuales en ningún caso deben invadir el pictograma de la señal, debiéndose situar en los márgenes de la misma y no debiendo ocupar más del 3 por ciento de su superficie total.
+
+2\. La señalización de los medios de protección contra incendios de utilización manual y de los sistemas de alerta y alarma, deberán cumplir la norma UNE 23033-1. Las señales no definidas en esta norma se podrán diseñar con los mismos criterios establecidos en la norma UNE 23033-1, en la UNE 23032 y a la UNE-EN ISO 7010.
+
+En caso de disponerse de planos de evacuación (anteriormente llamados planos de situación, «usted está aquí»), éstos serán conformes con la norma UNE 23032 y representarán los medios manuales de protección contra incendios, mediante las señales definidas en la norma UNE 23033-1. Los planos de evacuación deberán ser visibles incluso en caso de fallo en el suministro al alumbrado normal, con las mismas consideraciones que se señalan en el apartado 1 anterior.
+
+3\. Los sistemas de señalización fotoluminiscente (excluidos los sistemas alimentados electrónicamente) serán conformes a la UNE 23035-4, en cuanto a características, composición, propiedades, categorías (A o B), identificación y demás exigencias contempladas en la citada norma. La identificación realizada sobre la señal, que deberá incluir el número de lote de fabricación, se ubicará de modo que sea visible una vez instalada. La justificación de este cumplimiento se realizará mediante un informe de ensayo, emitido por un laboratorio acreditado, conforme a lo dispuesto en el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre.
+
+Los sistemas de señalización fotoluminiscente serán de la categoría A, en los centros donde se desarrollen las actividades descritas en el anexo I de la norma Básica de Autoprotección, aprobado por Real Decreto 393/2007, de 23 de marzo.
+
+4\. Los sistemas de señalización alimentados eléctricamente deben cumplir requisitos análogos a los exigidos al alumbrado de emergencia, en cuanto a su funcionamiento. Además, deben cumplir los requisitos de diseño de señales establecidos en el apartado 2 anterior.
+
+> Se modifican los apartados 1, 2 y 4 por la disposición final 1.15 y 16 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+## APÉNDICE DEL ANEXO I — Relación de normas UNE y otras reconocidas internacionalmente
+
+<table>
+<thead>
+<tr>
+<th>Documento</th>
+<th>Título</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">GENERAL</td>
+</tr>
+<tr>
+<td>UNE 157001:2014</td>
+<td>Criterios generales para la elaboración formal de los documentos que constituyen un proyecto técnico.</td>
+</tr>
+<tr>
+<td>UNE 192005-2:2021</td>
+<td>Procedimiento para la inspección reglamentaria. Seguridad contra incendios. Parte 2: Instalaciones de protección contra incendios.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS DE DETECCIÓN Y DE ALARMA DE INCENDIOS</td>
+</tr>
+<tr>
+<td>UNE-EN 54-1:2011</td>
+<td>Sistemas de detección y de alarma de incendio. Parte 1: Introducción.</td>
+</tr>
+<tr>
+<td>
+<p>EN 54-2:1997, adoptada como UNE 23007-2:1998.</p>
+<p>EN 54-2:1997/A1:2006, adoptada como UNE 23007-2:1998/1M:2008.</p>
+<p>EN 54-2:1997/AC:1999, adoptada como UNE 23007-2:1998/erratum:2004.</p>
+</td>
+<td>Sistemas de detección y de alarma de incendios. Parte 2: Equipos de control e indicación.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 54-3:2001</p>
+<p>UNE-EN 54-3/A1:2002</p>
+<p>UNE-EN 54-3:2001/A2:2007</p>
+</td>
+<td>Sistemas de detección y alarma de incendios. Parte 3: Dispositivos de alarma de incendios. Dispositivos acústicos.</td>
+</tr>
+<tr>
+<td>
+<p>EN 54-4:1997, adoptada como UNE 23007-4:1998.</p>
+<p>EN 54-4/AC:1999, adoptada como UNE 23007-4:1998/ erratum:1999.</p>
+<p>EN 54-4/A1:2003, adoptada como UNE 23007-4:1998/1M:2003.</p>
+<p>EN 54-4:1997/A2:2007, adoptada como UNE 23007-4:1998/2M:2007.</p>
+</td>
+<td>Sistemas de detección y alarma de incendios.Parte 4: Equipos de suministro de alimentación.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-5:2017+A1:2019</td>
+<td>Sistemas de detección y alarma de incendios. Parte 5: Detectores de calor. Detectores puntuales.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-7:2019</td>
+<td>Sistemas de detección y alarma de incendios. Parte 7: Detectores de humo: Detectores puntuales que funcionan según el principio de luz difusa, luz transmitida o por ionización.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 54-10:2002</p>
+<p>UNE-EN 54-10:2002/A1:2007</p>
+</td>
+<td>Sistemas de detección y alarma de incendios. Parte 10: Detectores de llama. Detectores puntuales.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 54-11:2001</p>
+<p>UNE-EN 54-11:2001/A1:2007</p>
+</td>
+<td>Sistemas de detección y alarma de incendios. Parte 11: Pulsadores manuales de alarma.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-12:2019</td>
+<td>Sistemas de detección y alarma de incendios. Parte 12: Detectores de humo. Detectores de línea que utilizan un haz óptico de luz.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-13:2019+A1:2021</td>
+<td>Sistemas de detección y alarma de incendios. Parte 13: Evaluación de la compatibilidad de los componentes de un sistema.</td>
+</tr>
+<tr>
+<td>UNE 23007-14:2014</td>
+<td>Sistemas de detección y de alarma de incendios. Parte 14: Planificación, diseño, instalación, puesta en servicio, uso y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-16:2010</td>
+<td>Sistemas de detección y alarma de incendios. Parte 16: Control de la alarma por voz y equipos indicadores.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-17:2007</td>
+<td>Sistemas de detección y alarma de incendios. Parte 17: Aisladores de cortocircuito.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-18:2007</td>
+<td>Sistemas de detección y alarma de incendios. Parte 18: Dispositivos de entrada/salida.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 54-20:2007</p>
+<p>UNE-EN 54-20:2007/AC:2009</p>
+</td>
+<td>Sistemas de detección y alarma de incendios. Parte 20: Detectores de aspiración de humos.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-21:2007</td>
+<td>Sistemas de detección y alarma de incendios. Parte 21: Equipos de transmisión de alarmas y avisos de fallo.</td>
+</tr>
+<tr>
+<td>UNE-EN 54-23:2011</td>
+<td>Sistemas de detección y alarma de incendios. Parte 23: Dispositivos de alarma de incendios. Dispositivos de alarma visual (VAD).</td>
+</tr>
+<tr>
+<td>UNE-EN 54-24:2009</td>
+<td>Sistemas de detección y alarma de incendios. Parte 24: Componentes de los sistemas de alarma por voz. Altavoces.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 54-25:2009</p>
+<p>UNE-EN 54-25:2009/AC:2012</p>
+</td>
+<td>Sistemas de detección y alarma de incendios. Parte 25: Componentes que utilizan enlaces radioeléctricos.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 14604:2006</p>
+<p>UNE-EN 14604:2006/AC:2009</p>
+</td>
+<td>Alarmas de humo autónomas.</td>
+</tr>
+<tr>
+<td>UNE 23007-32:2020 (ver notas)</td>
+<td>Sistemas de detección y alarma de incendios – Parte 32: Planificación, diseño, instalación, puesta en marcha, uso y mantenimiento de sistemas de alarma por voz.</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Notas relativas a la aplicación de la norma UNE 23007-32:2020:</p>
+<p>Nota 1: Respecto a las distancias de los altavoces a instalar cuando se usa el método prescriptivo (apartado 6.5.3), estas podrán ser superiores a las que se establecen como recomendación en dicho apartado siempre que se verifique que con el número de dispositivos instalados se alcanza el nivel y calidad necesarios de sonido.</p>
+<p>Nota 2: Como alternativa a la norma UNE 23007-32, también se admite el uso de la norma UNE-EN 60849:2002, Sistemas electroacústicos para servicios de emergencia.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS DE ABASTECIMIENTO DE AGUA CONTRA INCENDIOS</td>
+</tr>
+<tr>
+<td>UNE 23500:2021 (ver nota)</td>
+<td>Sistemas de abastecimiento de agua contra incendios.</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Nota: Para la aplicación de la norma UNE 23500:2021 se tomarán las siguientes consideraciones:</p>
+<p>1. Cuando la categoría del abastecimiento requerida sea I, se aceptan las combinaciones de fuentes de agua y sistemas de impulsión de las figuras 11, 13, 15, 16 y 17 de las tablas 4A y 4B del apartado 5.3 de Clases de abastecimiento, siempre que la instalación no requiera un abastecimiento doble conforme a otra reglamentación en vigor y no se den cualquiera de las siguientes condiciones:</p>
+<p>a) La longitud medida en línea recta desde el punto de abastecimiento y el sistema más alejado del mismo supera los 2.000 m.</p>
+<p>b) La superficie total protegida con rociadores automáticos supera 250.000 m<sup>2</sup>.</p>
+<p>2. En cuanto a las combinaciones de fuentes de agua y sistemas de impulsión y categorías resultantes de tablas 4A y 4B del apartado 5.3 de Clases de abastecimiento, la red de uso público tipo 1 se podrá considerar clase de abastecimiento superior y se podrá usar para abastecimientos de categoría II.</p>
+<p>3. Las referencias a «Hidrantes» contenidas en la norma UNE 23500, para aquellos cuyo único uso previsto sea el llenado de camiones (aquellos no previstos para impulsión directa), se considerarán de categoría III y, por tanto, bastará la clase de abastecimiento de tipo «SENCILLO» (tablas 3, 4A y 4B de la citada norma).</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS DE HIDRANTES CONTRA INCENDIOS</td>
+</tr>
+<tr>
+<td>UNE-EN 14384:2006</td>
+<td>Hidrantes de columna.</td>
+</tr>
+<tr>
+<td>UNE-EN 14339:2006</td>
+<td>Hidrantes contra incendios bajo tierra.</td>
+</tr>
+<tr>
+<td colspan="2">MANGUERAS</td>
+</tr>
+<tr>
+<td>UNE 23091-1:1989</td>
+<td>Mangueras de impulsión para la lucha contra incendios. Parte 1: Generalidades.</td>
+</tr>
+<tr>
+<td>UNE 23091-2A:1996</td>
+<td>Mangueras de impulsión para la lucha contra incendios. Parte 2A: Manguera flexible plana para servicio ligero, de diámetros 45 mm y 70 mm.</td>
+</tr>
+<tr>
+<td>UNE 23091-2B:1981</td>
+<td>Mangueras de impulsión para la lucha contra incendios. Parte 2B: Manguera flexible plana para servicio duro, de diámetros 25, 45, 70 y 100 mm.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 23091-4:1990.</p>
+<p>UNE 23091-4/1M:1994</p>
+<p>UNE 23091-4/2M:1996</p>
+</td>
+<td>Mangueras de impulsión para la lucha contra incendios. Parte 4: Descripción de procesos y aparatos para pruebas y ensayos.</td>
+</tr>
+<tr>
+<td colspan="2">RACORES</td>
+</tr>
+<tr>
+<td>UNE 23400-1:1998</td>
+<td>Material de lucha contra incendios. Racores de conexión de 25 mm.</td>
+</tr>
+<tr>
+<td>UNE 23400-2:1998</td>
+<td>Material de lucha contra incendios. Racores de conexión de 45 mm.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 23400-3:1998</p>
+<p>UNE 23400-3:1999 ERRATUM</p>
+</td>
+<td>Material de lucha contra incendios. Racores de conexión de 70 mm.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 23400-4:1998</p>
+<p>UNE 23400-4:1999 ERRATUM</p>
+</td>
+<td>Material de lucha contra incendios. Racores de conexión de 100 mm.</td>
+</tr>
+<tr>
+<td>
+<p>UNE 23400-5:1998</p>
+<p>UNE 23400-5:1999 ERRATUM</p>
+</td>
+<td>Material contra incendio. Racores de conexión. Procedimientos de verificación.</td>
+</tr>
+<tr>
+<td colspan="2">EXTINTORES DE INCENDIO</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 2:1994</p>
+<p>UNE-EN 2:1994/A1:2005</p>
+</td>
+<td>Clases de fuego.</td>
+</tr>
+<tr>
+<td>UNE-EN 3-7:2004+A1:2008</td>
+<td>Extintores portátiles de incendios. Parte 7: Características, requisitos de funcionamiento y métodos de ensayo.</td>
+</tr>
+<tr>
+<td>UNE-EN 3-10:2010</td>
+<td>Extintores portátiles de incendios. Parte 10: Prescripciones para la evaluación de la conformidad de un extintor portátil de incendios de acuerdo con la Norma europea EN 3-7.</td>
+</tr>
+<tr>
+<td>UNE 23120:2012</td>
+<td>Mantenimiento de extintores de incendios.</td>
+</tr>
+<tr>
+<td>UNE-EN 1866-1:2008</td>
+<td>Extintores de incendio móviles. Parte 1: Características, comportamiento y métodos de ensayo.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS DE BOCAS DE INCENDIO EQUIPADAS</td>
+</tr>
+<tr>
+<td>UNE-EN 671-1:2013</td>
+<td>Instalaciones fijas de lucha contra de incendios. Sistemas equipados con mangueras. Parte 1: Bocas de incendio equipadas con mangueras semirrígidas.</td>
+</tr>
+<tr>
+<td>UNE-EN 671-2:2013</td>
+<td>Instalaciones fijas de lucha contra de incendios. Sistemas equipados con mangueras. Parte 2: Bocas de incendio equipadas con mangueras planas.</td>
+</tr>
+<tr>
+<td>UNE-EN 671-3:2009</td>
+<td>Instalaciones fijas de lucha contra incendios. Sistemas equipados con mangueras. Parte 2: Mantenimiento de las bocas de incendio equipadas con mangueras semirrígidas y planas.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN POR ROCIADORES AUTOMÁTICOS Y AGUA PULVERIZADA</td>
+</tr>
+<tr>
+<td>UNE-EN 12845:2016+A1:2021</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de rociadores automáticos. Diseño, instalación y mantenimiento.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12259-1:2002</p>
+<p>UNE-EN 12259-1:2002/A2:2005</p>
+<p>UNE-EN 12259-1:2002/A3:2007</p>
+</td>
+<td>Protección contra incendios. Sistemas fijos de lucha contra incendios. Componentes para sistemas de rociadores y agua pulverizada. Parte 1: Rociadores automáticos.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12259-2:2000</p>
+<p>UNE-EN 12259-2/A1:2001</p>
+<p>UNE-EN 12259-2/AC:2002</p>
+<p>UNE-EN 12259-2:2000/A2:2007</p>
+</td>
+<td>Protección contra incendios. Sistemas fijos de lucha contra incendios. Componentes para sistemas de rociadores y agua pulverizada. Parte 2: Conjuntos de válvula de alarma de tubería mojada y cámaras de retardo.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12259-3:2001</p>
+<p>UNE-EN 12259-3:2001/A1:2001</p>
+<p>UNE-EN 12259-3:2001/A2:2007</p>
+</td>
+<td>Protección contra incendios. Sistemas fijos de lucha contra incendios. Componentes para sistemas de rociadores y agua pulverizada. Parte 3: Conjuntos de válvula de alarma para sistemas de tubería seca.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12259-4:2000</p>
+<p>UNE-EN 12259-4/A1:2001</p>
+</td>
+<td>Protección contra incendios. Sistemas fijos de lucha contra incendios. Componentes para sistemas de rociadores y agua pulverizada. Parte 4: Alarmas hidromecánicas.</td>
+</tr>
+<tr>
+<td>UNE-EN 12259-5:2003</td>
+<td>Protección contra incendios. Sistemas fijos de lucha contra incendios. Componentes para sistemas de rociadores y agua pulverizada. Parte 5: Detectores de flujo de agua.</td>
+</tr>
+<tr>
+<td>UNE-EN 12259-9:2019</td>
+<td>Sistemas de fijos de lucha contra incendios. Componentes para sistemas de rociadores y agua pulverizada. Parte 9: Válvulas de alarma por inundación.</td>
+</tr>
+<tr>
+<td>UNE 23501:1988</td>
+<td>Sistemas fijos de agua pulverizada. Generalidades.</td>
+</tr>
+<tr>
+<td>UNE 23502:1986</td>
+<td>Sistemas fijos de agua pulverizada. Componentes del sistema.</td>
+</tr>
+<tr>
+<td>UNE 23503:1989</td>
+<td>Sistemas fijos de agua pulverizada. Diseño e instalaciones.</td>
+</tr>
+<tr>
+<td>UNE 23504:1986</td>
+<td>Sistemas fijos de agua pulverizada. Ensayos de recepción.</td>
+</tr>
+<tr>
+<td>UNE 23505:1986</td>
+<td>Sistemas fijos de agua pulverizada. Ensayos periódicos y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE 23506:1989</td>
+<td>Sistemas fijos de agua pulverizada. Planos, especificaciones y cálculos hidráulicos.</td>
+</tr>
+<tr>
+<td>UNE 23507:1989</td>
+<td>Sistemas fijos de agua pulverizada. Equipos de detección automática.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN POR AGUA NEBULIZADA</td>
+</tr>
+<tr>
+<td>UNE-EN 14972-1:2021 (sustituye a UNE CEN/TS 14972)</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de agua nebulizada. Parte 1: Diseño, instalación, inspección y mantenimiento.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN POR ESPUMA FÍSICA</td>
+</tr>
+<tr>
+<td>UNE-EN 13565-1:2019</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas espumantes. Parte 1: Requisitos y métodos de ensayo de los componentes.</td>
+</tr>
+<tr>
+<td>UNE-EN 13565-2:2018+AC:2019/AC:2021</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas espumantes. Parte 2: Diseño, construcción y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE-EN 1568-1:2019</td>
+<td>Agentes extintores. Concentrados de espuma. Parte 1: Especificación para concentrados de espuma de media expansión para aplicación sobre la superficie en líquidos no miscibles con el agua.</td>
+</tr>
+<tr>
+<td>UNE-EN 1568-2:2019</td>
+<td>Agentes extintores. Concentrados de espuma. Parte 2: Especificación para concentrados de espuma de alta expansión para aplicación sobre la superficie en líquidos no miscibles con agua.</td>
+</tr>
+<tr>
+<td>UNE-EN 1568-3:2019</td>
+<td>Agentes extintores. Concentrados de espuma. Parte 3: Especificación para concentrados de espuma de baja expansión para aplicación sobre la superficie de líquidos no miscibles con agua.</td>
+</tr>
+<tr>
+<td>UNE-EN 1568-4:2019</td>
+<td>Agentes extintores. Concentrados de espuma. Parte 4: Especificación para concentrados de espuma de baja expansión para aplicación sobre la superficie en líquidos miscibles con agua.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN POR POLVO</td>
+</tr>
+<tr>
+<td>UNE-EN 12416-1:2001+A2:2008</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción por polvo. Parte 1: Especificaciones y métodos de ensayo para los componentes.</td>
+</tr>
+<tr>
+<td>UNE-EN 12416-2:2001+A1:2008</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción por polvo. Parte 2: Diseño, construcción y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE-EN 615:2009</td>
+<td>Protección contra incendios. Agentes extintores. Especificaciones para polvos extintores (excepto polvos de clase D).</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN POR AGENTES GASEOSOS</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-1:2019</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 1: Diseño, instalación y mantenimiento.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-2:2021</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 2: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con FK-5-1-12.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-3:2009</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 3: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con HCFC, mezcla A.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-4:2021</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 4: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con HFC 125.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-5:2021</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 5: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con HFC 227 ea.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-6:2021</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 6: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con HFC 23.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-7:2018</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 7: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con IG-01.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-8:2018</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 8: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con IG-100.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-9:2018</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 9: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con IG-55.</td>
+</tr>
+<tr>
+<td>UNE-EN 15004-10:2018</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción mediante agentes gaseosos. Parte 10: Propiedades físicas y diseño de sistemas de extinción mediante agentes gaseosos con IG-541.</td>
+</tr>
+<tr>
+<td>UNE-ISO 6183:2015</td>
+<td>Equipos de protección contra incendios. Sistemas de extinción con dióxido de carbono para uso en edificios. Diseño e instalación.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-1:2004</td>
+<td>Sistemas fijos de lucha contra incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 1: Requisitos y métodos de ensayo para los dispositivos automáticos y eléctricos de control y retardo.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-2:2004</td>
+<td>Sistemas fijos de lucha contra incendios. Componentes para sistemas de extinción mediante agentes gaseosos. Parte 2: Requisitos y métodos de ensayo para los dispositivos automáticos no eléctricos de control y de retardo.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-3:2003</td>
+<td>Sistemas fijos de lucha contra incendios. Componentes para sistemas de extinción mediante agentes gaseosos. Parte 3: Requisitos y métodos de ensayo para los dispositivos manuales de disparo y de paro.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-4:2005</td>
+<td>Sistemas fijos de lucha contra incendios. Componentes para sistemas de extinción mediante agentes gaseosos. Parte 4: Requisitos y métodos de ensayo para depósitos y sus actuadores.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-5:2007</td>
+<td>Sistemas fijos de lucha contra incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 5: Requisitos y métodos de ensayo para válvulas direccionales alta y baja presión y sus actuadores.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-6:2007</td>
+<td>Sistemas fijos de lucha contra incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 6: Requisitos y métodos de ensayo para los dispositivos de desactivación no eléctricos.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12094-7:2001</p>
+<p>UNE-EN 12094-7/A1:2005</p>
+</td>
+<td>Sistemas fijos de extinción de incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 7: Requisitos y métodos de ensayo para difusores para sistemas de CO2.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-8:2007</td>
+<td>Sistemas fijos de lucha contra incendios. Componentes para sistemas de extinción mediante agentes gaseosos. Parte 8: Requisitos y métodos de ensayo para conectores.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-9:2003</td>
+<td>Sistemas fijos de lucha contra incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 9: Requisitos y métodos de ensayo para detectores especiales de incendios.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-10:2004</td>
+<td>Sistemas fijos de lucha contra incendios. Componentes para sistemas de extinción mediante agentes gaseosos. Parte 10: Requisitos y métodos de ensayo para presostatos y manómetros.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-11:2003</td>
+<td>Sistemas fijos de lucha contra incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 11: Requisitos y métodos de ensayo para dispositivos mecánicos de pesaje.</td>
+</tr>
+<tr>
+<td>UNE-EN 12094-12:2004</td>
+<td>Sistemas fijos de extinción de incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte 12: Requisitos y métodos de ensayo para dispositivos neumáticos de alarma.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12094-13:2001</p>
+<p>UNE-EN 12094-13/AC:2002</p>
+</td>
+<td>Sistemas fijos de lucha contra incendios — Componentes para sistemas de extinción mediante agentes gaseosos — Parte13: Requisitos y métodos de ensayo para válvulas de retención y válvulas anti-retorno.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN POR AEROSOLES CONDENSADOS</td>
+</tr>
+<tr>
+<td>UNE-EN 15276-1:2022</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción por aerosoles condensados. Parte 1: Requisitos y métodos de ensayo para los componentes.</td>
+</tr>
+<tr>
+<td>UNE-EN 15276-2:2022</td>
+<td>Sistemas fijos de lucha contra incendios. Sistemas de extinción por aerosoles condensados. Parte 2: Diseño, instalación y mantenimiento.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS PARA EL CONTROL DE HUMOS Y DE CALOR</td>
+</tr>
+<tr>
+<td>UNE 23584:2008</td>
+<td>Seguridad contra incendios. Sistemas de control de temperatura y evacuación de humos (SCTEH). Requisitos para la instalación, puesta en marcha y mantenimiento periódico de los SCTEH.</td>
+</tr>
+<tr>
+<td>UNE 23585:2017</td>
+<td>Seguridad contra incendios. Sistemas de control de humo y calor. Requisitos y métodos de cálculo y diseño para proyectar un sistema de control de temperatura y de evacuación de humos (SCTEH) en caso de incendio estacionario.</td>
+</tr>
+<tr>
+<td>
+<p>UNE-EN 12101-1:2007</p>
+<p>UNE-EN 12101-1:2007/A1:2007</p>
+</td>
+<td>Sistemas para el control de humo y de calor. Parte 1: Especificaciones para barreras para control de humo.</td>
+</tr>
+<tr>
+<td>UNE-EN 12101-2:2004</td>
+<td>Sistemas para el control de humos y de calor. Parte 2: Especificaciones para aireadores de extracción natural de humos y calor.</td>
+</tr>
+<tr>
+<td>UNE-EN 12101-3:2016</td>
+<td>Sistemas de control de humos y calor. Parte 3: Especificaciones para aireadores extractores de humos y calor mecánicos.</td>
+</tr>
+<tr>
+<td>UNE-EN 12101-6:2006</td>
+<td>Sistemas para el control de humo y de calor. Parte 6: Especificaciones para los sistemas de diferencial de presión. Equipos.</td>
+</tr>
+<tr>
+<td>UNE-EN 12101-7:2013</td>
+<td>Sistemas para el control de humo y de calor. Parte 7: Secciones de conducto de humo.</td>
+</tr>
+<tr>
+<td>UNE-EN 12101-8:2015</td>
+<td>Sistemas para el control de humo y de calor. Parte 8: Compuertas para el control de humo.</td>
+</tr>
+<tr>
+<td>UNE-EN 12101-10:2007</td>
+<td>Sistemas para el control de humo y de calor. Parte 10: Equipos de alimentación de energía.</td>
+</tr>
+<tr>
+<td colspan="2">MANTAS IGNÍFUGAS</td>
+</tr>
+<tr>
+<td>UNE-EN 1869:2021</td>
+<td>Mantas ignífugas.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS FIJOS DE EXTINCIÓN EN COCINAS COMERCIALES</td>
+</tr>
+<tr>
+<td>UNE-EN 17446:2022</td>
+<td>Sistemas de extinción de incendios en cocinas comerciales. Requisitos de diseño, documentación y ensayo.</td>
+</tr>
+<tr>
+<td colspan="2">SISTEMAS DE SEÑALIZACIÓN LUMINISCENTE</td>
+</tr>
+<tr>
+<td>UNE-EN ISO 7010:2020</td>
+<td>Símbolos gráficos. Colores y señales de seguridad. Señales de seguridad registradas.</td>
+</tr>
+<tr>
+<td>UNE 23032:2015</td>
+<td>Seguridad contra incendios. Símbolos gráficos para su utilización en los planos de proyecto, planes de autoprotección y planos de evacuación.</td>
+</tr>
+<tr>
+<td>UNE 23033-1:2019</td>
+<td>Seguridad contra incendios. Señalización de seguridad. Parte 1: Señales y balizamiento de los sistemas y equipos de protección contra incendios.</td>
+</tr>
+<tr>
+<td>UNE 23035-2:2003</td>
+<td>Seguridad contra incendios. Señalización fotoluminiscente. Parte 2: Medida de productos en el lugar de utilización.</td>
+</tr>
+<tr>
+<td>UNE 23035-4:2003</td>
+<td>Seguridad contra incendios. Señalización fotoluminiscente. Parte 4: Condiciones generales. Mediciones y clasificación.</td>
+</tr>
+<tr>
+<td colspan="2">ACTAS DE MANTENIMIENTO</td>
+</tr>
+<tr>
+<td>UNE 23580-1:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 1: Generalidades.</td>
+</tr>
+<tr>
+<td>UNE 23580-2:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 2: Sistemas de detección y alarma de incendios.</td>
+</tr>
+<tr>
+<td>UNE 23580-3:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 3: Abastecimiento de agua.</td>
+</tr>
+<tr>
+<td>UNE 23580-4:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 4: Red general: hidrantes y válvulas.</td>
+</tr>
+<tr>
+<td>UNE 23580-5:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 5: Red de bocas de incendio equipadas.</td>
+</tr>
+<tr>
+<td>UNE 23580-6:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 6: Sistemas de rociadores.</td>
+</tr>
+<tr>
+<td>UNE 23580-7:2005</td>
+<td>Seguridad contra incendios. Actas para la revisión de las instalaciones y equipos de protección contra incendios. Inspección técnica para mantenimiento. Parte 7: Sistemas de espuma.</td>
+</tr>
+<tr>
+<td>UNE 23580-8:2005</td>
+<td>Seguridad contra incendios. Actas para la revisión de las instalaciones y equipos de protección contra incendios. Inspección técnica para mantenimiento. Parte 8: Sistemas de gases.</td>
+</tr>
+<tr>
+<td>UNE 23580-9:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 9: Extintores.</td>
+</tr>
+<tr>
+<td>UNE 23580-10:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 10: Sistemas de columna seca.</td>
+</tr>
+<tr>
+<td>UNE 23580-11:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 11: Sistemas de agua nebulizada.</td>
+</tr>
+<tr>
+<td>UNE 23580-12:2023</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 12: Sistemas de extinción por polvo.</td>
+</tr>
+<tr>
+<td>UNE 23580-13:2023</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 13: Aerosoles condensados.</td>
+</tr>
+<tr>
+<td>UNE 23580-14:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 14: Sistemas de control de temperatura y evacuación de humos.</td>
+</tr>
+<tr>
+<td>UNE 23580-15:2022</td>
+<td>Seguridad contra incendios. Actas de mantenimiento de las instalaciones y equipos de protección contra incendios. Parte 15: Señalización.</td>
+</tr>
+<tr>
+<td>UNE 23580-16:2023</td>
+<td>Actas para la revisión de las instalaciones y equipos de protección contra incendios. Inspección técnica para mantenimiento. Parte 16: Sistemas de Agua pulverizada.</td>
+</tr>
+</tbody>
+</table>
+
+Nota: En el caso de normas citadas en el Diario Oficial de la Unión Europea para la aplicación de legislación armonizada de productos según reglamentos o directivas europeas, dichas normas (referencia y versión) prevalecerán sobre las indicadas en la presente tabla.
+
+> Se sustituye por el que figura en la disposición final 1.17 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+## ANEXO II — Mantenimiento mínimo de las instalaciones de protección contra incendios
+
+1\. Los equipos y sistemas de protección activa contra incendios, se someterán al programa de mantenimiento establecido por el fabricante. Como mínimo, se realizarán las operaciones que se establecen en las tablas I y II.
+
+2\. Los sistemas de señalización luminiscente, se someterán al programa de mantenimiento establecido por el fabricante. Como mínimo, se realizarán las operaciones que se establecen en la tabla III.
+
+3\. Las operaciones de mantenimiento recogidas en las tablas I y III, serán efectuadas por personal del fabricante o de la empresa mantenedora, si cumplen con los requisitos establecidos en el artículo 16 del presente Reglamento; o bien por el personal del usuario o titular de la instalación.
+
+4\. Las operaciones de mantenimiento recogidas en la tabla II serán efectuadas por personal del fabricante o de la empresa mantenedora, si cumplen con los requisitos establecidos en el artículo 16 del presente Reglamento.
+
+5\. Para el seguimiento de los programas de mantenimiento de los equipos y sistemas de protección contra incendios, establecidos en las tablas I, II y III, se deberá elaborar la documentación que se recoge en la letra e) del artículo 17, y que consistirá en un certificado donde conste o se haga referencia a la información general, firmado por un responsable técnico de la empresa, y debiendo llevar anexas las listas de comprobación con los detalles de las operaciones realizadas. Para la elaboración de estos documentos se podrán usar los formatos de actas recogidos en la serie de normas UNE 23580, debiéndose adaptar estas a lo dispuesto en el presente anexo, o bien, usar otro formato equivalente. En todo caso, su contenido mínimo incluirá lo siguiente:
+
+a) Información general.
+
+1.º Nombre y domicilio de la propiedad de la instalación.
+
+2.º Nombre y cargo del representante de la propiedad responsable de la instalación.
+
+3.º Nombre y cargo del representante de la propiedad responsable ante las operaciones de mantenimiento que se van a llevar a cabo.
+
+4.º Domicilio de localización de la instalación y fecha de instalación.
+
+5.º Empresa responsable de la última inspección y fecha de la misma.
+
+6.º Empresa responsable del último mantenimiento y fecha del mismo.
+
+7.º Nombre, n.º de identificación y domicilio de la empresa mantenedora. Declaración de que se está habilitada para todos y cada uno de los productos y sistemas sobre los que va a efectuar el mantenimiento.
+
+8.º Nombre de la/s persona/s responsable/s de realizar las operaciones de mantenimiento. Declaración de que dicha/s persona/s se encuentra/n cualificada/s para realizar los mantenimientos.
+
+9.º Tipos de productos y sistemas que van a ser objeto de mantenimiento.
+
+b) Para cada producto o sistema sobre el que se realice mantenimiento.
+
+1.º Tipo de producto o sistema, marca y modelo.
+
+2.º Identificación unívoca del producto o sistema (ej.: mediante identificación de número de serie, ubicación…).
+
+3.º Operaciones de mantenimiento realizadas y resultado. En caso de presentarse incidencias, acciones propuestas.
+
+Dichas actas deben ir firmadas por la empresa mantenedora y el representante de la propiedad de la instalación.
+
+En el caso de que una o varias operaciones de mantenimiento las realice el usuario o titular de la instalación, tal y como se permite para las operaciones recogidas en las tablas I y III, no será obligatorio que las actas de tales operaciones sean conformes con lo dispuesto en la norma UNE 23580, sino que será suficiente con que estas contengan, al menos, la información citada anteriormente (salvo los apartados a.6, a.7 y a.8, que deben sustituirse por los datos del último mantenimiento y el nombre de la/s persona/s responsable/s de realizar las operaciones).
+
+Dichas actas deben ir firmadas por la/s persona/s responsable/s de realizar las operaciones y el representante de la propiedad de la instalación.
+
+6\. En todos los casos, tanto la empresa que ha llevado a cabo el mantenimiento, como el usuario o titular de la instalación, conservarán constancia documental del cumplimiento del programa de mantenimiento preventivo, al menos durante cinco años, indicando, como mínimo, las operaciones y comprobaciones efectuadas, el resultado de las verificaciones y pruebas y la sustitución de elementos defectuosos, que se hayan realizado. Las anotaciones, deberán llevarse al día y estarán a disposición de los servicios de inspección de la Comunidad Autónoma correspondiente.
+
+7\. Las empresas mantenedoras de los sistemas fijos de protección contra incendios y extintores que contengan gases fluorados de efecto invernadero, contemplados en el anexo I del Reglamento (CE) n.º 517/2014, del Parlamento Europeo y del Consejo, de 16 de abril de 2014, deberán cumplir, para las operaciones de control de fugas, reciclado, regeneración o destrucción de los mismos, lo establecido en dicho Reglamento.
+
+8\. En el caso de los sistemas de alumbrado de emergencia, la instalación deberá ser mantenida, según lo establecido en el Reglamento Electrotécnico para Baja Tensión, aprobado por Real Decreto 842/2002, de 2 de agosto.
+
+9\. El documento que recoja la evaluación técnica de aquellos productos y sistemas cuya conformidad con este Reglamento se ha determinado en base a lo establecido en el artículo 5.3 contendrá las operaciones de mantenimiento necesarias. La empresa instaladora deberá entregar al usuario o titular de la instalación la documentación que recoja dicha información. Además, dicha documentación estará a disposición de los servicios competentes en materia de industria de la Comunidad Autónoma.
+
+10\. En los sistemas de detección, alarma y extinción, se acepta la conexión remota a un centro de gestión de servicios de mantenimiento. En cualquier caso, la implantación de estos sistemas debe hacerse de tal modo que garantice la integridad del sistema de detección y alarma de incendios. El fin de este sistema adicional será el de facilitar las tareas de mantenimiento y gestión del sistema, así como proporcionar servicios añadidos a los ya suministrados por los sistemas automáticos. Dicho centro de gestión remota deberá pertenecer a una empresa mantenedora de protección contra incendios debidamente habilitada.
+
+11\. En aplicación del artículo 1 del presente Reglamento, el mantenimiento establecido en el mismo, se entenderá que no es aplicable a las instalaciones situadas en establecimientos regulados por el Real Decreto 863/1985, de 2 de abril, por el que se aprueba el Reglamento General de normas Básicas de Seguridad Minera, y en todas aquellas que posean reglamentación específica, en la que se establezca el correspondiente programa de mantenimiento, que supere las exigencias mínimas que establece este Reglamento.
+
+Asimismo, quedan excluidas aquellas partes de las instalaciones de protección contra incendios de las instalaciones nucleares que, por su relación con el riesgo nuclear y/o radiológico, se encuentren sometidas a los requisitos específicos de vigilancia y mantenimiento establecidos en el documento «Especificaciones Técnicas de Funcionamiento», «Manual de Requisitos de Operación» o documento equivalente, que se recogen en sus correspondientes Permisos de Explotación, o en otros documentos que pudieran derivarse de éste y cuya vigilancia de cumplimiento corresponde al Consejo de Seguridad Nuclear. El mantenimiento del resto de las instalaciones de protección contra incendios de las instalaciones nucleares se realizará según se establece en este Reglamento.
+
+> Se modifica el primer párrafo del apartado 5 por la disposición final 1.18 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+### Sección 1.ª Protección activa contra incendios
+
+Tabla I. Programa de mantenimiento trimestral y semestral de los sistemas de protección activa contra incendios
+
+Operaciones a realizar por personal especializado del fabricante, de una empresa mantenedora, o bien, por el personal del usuario o titular de la instalación:
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Equipo o sistema</p>
+</td>
+<td colspan="2">
+<p>Cada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tres meses</p>
+</td>
+<td>
+<p>Seis meses</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Requisitos generales.</p>
+</td>
+<td>
+<p>Paso previo: Revisión y/o implementación de medidas para evitar acciones o maniobras no deseadas durante las tareas de inspección.</p>
+<p>Verificar si se han realizado cambios o modificaciones en cualquiera de las componentes del sistema desde la última revisión realizada y proceder a su documentación.</p>
+<p>Comprobación de funcionamiento de las instalaciones (con cada fuente de suministro). Sustitución de pilotos, fusibles, y otros elementos defectuosos.</p>
+<p>Revisión de indicaciones luminosas de alarma, avería, desconexión e información en la central.</p>
+<p>Mantenimiento de acumuladores (limpieza de bornas, reposición de agua destilada, etc.).</p>
+<p>Verificar equipos de centralización y de transmisión de alarma.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Fuentes de alimentación.</p>
+</td>
+<td>
+<p>Revisión de sistemas de baterías:</p>
+<p>Prueba de conmutación del sistema en fallo de red, funcionamiento del sistema bajo baterías, detección de avería y restitución a modo normal.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Dispositivos para la activación manual de alarma.</p>
+</td>
+<td>
+<p>Comprobación de la señalización de los pulsadores de alarma manuales.</p>
+</td>
+<td>
+<p>Verificación de la ubicación, identificación, visibilidad y accesibilidad de los pulsadores.</p>
+<p>Verificación del estado de los pulsadores (fijación, limpieza, corrosión, aspecto exterior).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Dispositivos de transmisión de alarma.</p>
+</td>
+<td>
+<p>Comprobar el funcionamiento de los avisadores luminosos y acústicos.</p>
+<p>Si es aplicable, verificar el funcionamiento del sistema de megafonía.</p>
+<p>Si es aplicable, verificar la inteligibilidad del audio en cada zona de extinción.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Extintores de incendio.</p>
+</td>
+<td>
+<p>Realizar las siguientes verificaciones:</p>
+<p>– Que los extintores están en su lugar asignado y que no presentan muestras aparentes de daños.</p>
+<p>– Que son adecuados conforme al riesgo a proteger.</p>
+<p>– Que no tienen el acceso obstruido, son visibles o están señalizados y tienen sus instrucciones de manejo en la parte delantera.</p>
+<p>– Que las instrucciones de manejo son legibles.</p>
+<p>– Que el indicador de presión se encuentra en la zona de operación.</p>
+<p>– Que las partes metálicas (boquillas, válvula, manguera…) están en buen estado.</p>
+<p>– Que no faltan ni están rotos los precintos o los tapones indicadores de uso.</p>
+<p>– Que no han sido descargados total o parcialmente.</p>
+<p>También se entenderá cumplido este requisito si se realizan las operaciones que se indican en el «Programa de Mantenimiento Trimestral» de la norma UNE 23120.</p>
+<p>Comprobación de la señalización de los extintores.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Bocas de incendio equipadas (BIE).</p>
+</td>
+<td>
+<p>Comprobación de la señalización de las BIE.</p>
+<p>Comprobación de la buena accesibilidad de los equipos.</p>
+<p>Comprobación, por lectura del manómetro, de la presión.</p>
+<p>Comprobación de todos los componentes (lanza, válvula, manguera…) verificando que no presentan muestras aparentes de daños y que están en buen estado.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Hidrantes.</p>
+</td>
+<td>
+<p>Comprobar la accesibilidad a su entorno y la señalización en los hidrantes enterrados.</p>
+<p>Inspección visual, comprobando la estanquidad del conjunto.</p>
+<p>Quitar las tapas de las salidas, engrasar las roscas y comprobar el estado de las juntas de los racores.</p>
+<p>Comprobación de la señalización de los hidrantes.</p>
+</td>
+<td>
+<p>Engrasar la tuerca de accionamiento o rellenar la cámara de aceite del mismo.</p>
+<p>Abrir y cerrar el hidrante, comprobando el funcionamiento correcto de la válvula principal y del sistema de drenaje.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Columnas secas.</p>
+</td>
+<td> </td>
+<td>
+<p>Comprobación de la accesibilidad de la entrada de la calle y tomas de piso.</p>
+<p>Comprobación de la señalización.</p>
+<p>Comprobación de las tapas y correcto funcionamiento de sus cierres (engrase si es necesario).</p>
+<p>Maniobrar todas las llaves de la instalación, verificando el funcionamiento correcto de las mismas.</p>
+<p>Comprobar que las llaves de las conexiones siamesas están cerradas.</p>
+<p>Comprobar que las válvulas de seccionamiento están abiertas.</p>
+<p>Comprobar que todas las tapas de racores están bien colocadas y ajustadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sistemas fijos de extinción:</p>
+<p>Rociadores automáticos de agua.</p>
+<p>Agua pulverizada.</p>
+<p>Agua nebulizada.</p>
+<p>Espuma física.</p>
+<p>Polvo.</p>
+<p>Agentes extintores gaseosos.</p>
+<p>Aerosoles condensados.</p>
+</td>
+<td>
+<p>Comprobación de que los dispositivos de descarga del agente extintor (boquillas, rociadores, difusores, …) están en buen estado y libres de obstáculos para su funcionamiento correcto.</p>
+<p>Comprobación visual del buen estado general de los componentes del sistema, especialmente de los dispositivos de puesta en marcha y las conexiones.</p>
+<p>Lectura de manómetros y comprobación de que los niveles de presión se encuentran dentro de los márgenes permitidos.</p>
+<p>Comprobación de los circuitos de señalización, pilotos, etc.; en los sistemas con indicaciones de control.</p>
+<p>Comprobación de la señalización de los mandos manuales de paro y disparo.</p>
+<p>Limpieza general de todos los componentes.</p>
+</td>
+<td>
+<p>Comprobación visual de las tuberías, depósitos y latiguillos contra la corrosión, deterioro o manipulación.</p>
+<p>En sistemas que utilizan agua, verificar que las válvulas, cuyo cierre podría impedir que el agua llegase a los rociadores o pudiera perjudicar el correcto funcionamiento de una alarma o dispositivo de indicación, se encuentran completamente abiertas.</p>
+<p>Verificar el suministro eléctrico a los grupos de bombeo eléctricos u otros equipos eléctricos críticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sistemas de abastecimiento de agua contra incendios.</p>
+</td>
+<td>
+<p>Verificación por inspección de todos los elementos, depósitos, válvulas, mandos, alarmas motobombas, accesorios, señales, etc.</p>
+<p>Comprobación del funcionamiento automático y manual de la instalación, de acuerdo con las instrucciones del fabricante o instalador.</p>
+<p>Mantenimiento de acumuladores, limpieza de bornas (reposición de agua destilada, etc.). Verificación de niveles (combustible, agua, aceite, etc.).</p>
+<p>Verificación de accesibilidad a los elementos, limpieza general, ventilación de salas de bombas, etc.</p>
+</td>
+<td>
+<p>Accionamiento y engrase de las válvulas. Verificación y ajuste de los prensaestopas.</p>
+<p>Verificación de la velocidad de los motores con diferentes cargas.</p>
+<p>Comprobación de la alimentación eléctrica, líneas y protecciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sistemas para el control de humos y de calor.</p>
+</td>
+<td>
+<p>Comprobar que no se han colocado obstrucciones o introducido cambios en la geometría del edificio (tabiques, falsos techos, aperturas al exterior, desplazamiento de mobiliario, etc.) que modifiquen las condiciones de utilización del sistema o impidan el descenso completo de las barreras activas de control de humos.</p>
+<p>Inspección visual general.</p>
+</td>
+<td>
+<p>Comprobación del funcionamiento de los componentes del sistema mediante la activación manual de los mismos.</p>
+<p>Limpieza de los componentes y elementos del sistema.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tabla II. Programa de mantenimiento anual y quinquenal de los sistemas de protección activa contra incendios
+
+Operaciones a realizar por el personal especializado del fabricante o por el personal de la empresa mantenedora:
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">Equipo o sistema</th>
+<th colspan="2">Cada</th>
+</tr>
+<tr>
+<th>Año</th>
+<th>Cinco años</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Requisitos generales.</p>
+</td>
+<td>
+<p>Comprobación del funcionamiento de maniobras programadas, en función de la zona de detección.</p>
+<p>Verificación y actualización de la versión de «software» de la central, de acuerdo con las recomendaciones del fabricante.</p>
+<p>Comprobar todas las maniobras existentes: Avisadores luminosos y acústicos, paro de aire, paro de máquinas, paro de ascensores, extinción automática, compuertas cortafuego, equipos de extracción de humos y otras partes del sistema de protección contra incendios.</p>
+<p>Se deberán realizar las operaciones indicadas en la norma UNE-EN 23007-14.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Detectores.</p>
+</td>
+<td>
+<p>Verificación del espacio libre, debajo del detector puntual y en todas las direcciones, como mínimo 500 mm.</p>
+<p>Verificación del estado de los detectores (fijación, limpieza, corrosión, aspecto exterior).</p>
+<p>Prueba individual de funcionamiento de todos los detectores automáticos, de acuerdo con las especificaciones de sus fabricantes.</p>
+<p>Verificación de la capacidad de alcanzar y activar el elemento sensor del interior de la cámara del detector. Deben emplearse métodos de verificación que no dañen o perjudiquen el rendimiento del detector.</p>
+<p>La vida útil de los detectores de incendio será la que establezca el fabricante de los mismos. En el caso de que el fabricante no establezca una vida útil, esta se considerará de 10 años desde su puesta en servicio. Una vez superada su vida útil, se sustituirán, salvo que se verifique que su estado de funcionamiento (fiabilidad, sensibilidad, tiempo de respuesta y estado de los componentes internos) sigue siendo apto para el servicio. Esta verificación se realizará una vez superada su vida útil y cada 5 años sucesivamente, tomando una muestra de unidades representativa. En el caso de detectores instalados con anterioridad a la publicación del Real Decreto 513/2017, de 22 de mayo, y que no tengan fijada una vida útil por su fabricante, esta verificación se realizará a partir de que lleven diez o más años en funcionamiento.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Sistemas de detección y alarma de incendios.</p>
+<p>Dispositivos para la activación manual de alarma.</p>
+</td>
+<td>Prueba de funcionamiento de todos los pulsadores.</td>
+<td> </td>
+</tr>
+<tr>
+<td>Sistemas de abastecimiento de agua contra incendios.</td>
+<td>
+<p>Comprobación de la reserva de agua.</p>
+<p>Limpieza de filtros y elementos de retención de suciedad en la alimentación de agua. Comprobación del estado de carga de baterías y electrolito.</p>
+<p>Prueba, en las condiciones de recepción, con realización de curvas de abastecimiento con cada fuente de agua y de energía.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>Extintores de incendio.</td>
+<td>
+<p>Realizar las operaciones de mantenimiento según lo establecido en el «Programa de Mantenimiento Anual» de la norma UNE 23120.</p>
+<p>En extintores móviles, se comprobará, adicionalmente, el buen estado del sistema de traslado.</p>
+</td>
+<td>
+<p>Realizar una prueba de nivel C (timbrado), de acuerdo a lo establecido en el anexo III del Reglamento de Equipos a Presión, aprobado por Real Decreto 809/2021, de 21 de septiembre.</p>
+<p>A partir de la fecha de timbrado del extintor (y por tres veces) se procederá al retimbrado del mismo de acuerdo a lo establecido en el anexo III del Reglamento de Equipos a Presión.</p>
+</td>
+</tr>
+<tr>
+<td>Bocas de incendios equipadas (BIE).</td>
+<td>
+<p>Realizar las operaciones de inspección y mantenimiento anuales según lo establecido la UNE-EN 671-3.</p>
+<p>Las mangueras contra incendios deberán sustituirse al menos cada 20 años, a contar desde su puesta en servicio, salvo que su fabricante certifique para ellas una durabilidad mayor.</p>
+</td>
+<td>Realizar las operaciones de inspección y mantenimiento quinquenales sobre la manguera según lo establecido la UNE-EN 671-3.</td>
+</tr>
+<tr>
+<td>Hidrantes.</td>
+<td>Verificar la estanquidad de los tapones.</td>
+<td>Cambio de las juntas de los racores.</td>
+</tr>
+<tr>
+<td>Sistemas de columna seca.</td>
+<td> </td>
+<td>Prueba de la instalación en las condiciones de su recepción.</td>
+</tr>
+<tr>
+<td>
+<p>Sistemas fijos de extinción:</p>
+<p>Rociadores automáticos de agua.</p>
+<p>Agua pulverizada.</p>
+<p>Agua nebulizada.</p>
+<p>Espuma física.</p>
+<p>Polvo.</p>
+<p>Agentes extintores gaseosos.</p>
+<p>Aerosoles condensados.</p>
+</td>
+<td>
+<p>Comprobación de la respuesta del sistema a las señales de activación manual y automáticas.</p>
+<p>En sistemas fijos de extinción por agua o por espuma, comprobar que el suministro de agua está garantizado, en las condiciones de presión y caudal previstas.</p>
+<p>En sistemas fijos de extinción por polvo, comprobar que la cantidad de agente extintor se encuentra dentro de los márgenes permitidos.</p>
+<p>En sistemas fijos de extinción por espuma, comprobar que el espumógeno no se ha degradado.</p>
+<p>Para sistemas fijos de inundación total de agentes extintores gaseosos, verificar la estanquidad de la sala protegida. Para ello debe comprobarse si en el recinto a proteger se han producido penetraciones u otros cambios que puedan afectar a fugas o a las prestaciones del agente extintor. Esta verificación se podrá realizar por medio de una comprobación visual, sin necesidad de realizar una prueba de estanqueidad en condiciones de descarga, siempre y cuando no se hayan realizado obras ni cambios en la sala que hayan podido afectar a su estanqueidad desde la última prueba realizada. En la comprobación visual se revisará que la sala no ha sido modificada, y en caso de modificaciones, que estén documentadas y que no afectan a la estanqueidad.</p>
+<p>Los sistemas fijos de extinción mediante rociadores automáticos deben ser inspeccionados, según lo indicado en «Programa anual» de la UNE-EN 12845.</p>
+<p>Los sistemas fijos de extinción mediante rociadores automáticos deben ser inspeccionados cada 3 años, según lo indicado en «Programa cada 3 años» de la UNE-EN 12845.</p>
+<p>Nota: los sistemas que incorporen componentes a presión que se encuentren dentro del ámbito de aplicación del Reglamento de Equipos a Presión, aprobado mediante el Real Decreto 809/2021, de 21 de septiembre, serán sometidos a las pruebas establecidas en dicho Reglamento con la periodicidad que en él se especifique.</p>
+</td>
+<td>
+<p>En sistemas fijos de extinción mediante agentes gaseosos la realización de prueba de estanqueidad de la sala protegida en condiciones de descarga, para sistemas de inundación total, según lo indicado en la norma UNE-EN 15004-1, o bien, UNE-ISO 6183.</p>
+<p>En sistemas fijos de extinción mediante aerosoles condensados la realización de prueba de estanqueidad de la sala protegida en condiciones de descarga, según lo indicado en la norma UNE-EN 15276-2.</p>
+<p>En sistemas fijos de extinción por espuma, determinación del coeficiente de expansión, tiempo de drenaje y concentración, según la parte de la norma UNE-EN 1568 que corresponda, de una muestra representativa de la instalación. Los valores obtenidos han de encontrarse dentro de los valores permitidos por el fabricante.</p>
+<p>Los sistemas fijos de extinción mediante rociadores automáticos deben ser inspeccionados cada 10 años, según lo indicado en «Programa de 10 años» de la UNE-EN 12845.</p>
+<p>Los sistemas fijos de extinción mediante rociadores automáticos deben ser inspeccionados cada 25 años, según lo indicado en el anexo K, de la UNE-EN 12845.</p>
+</td>
+</tr>
+<tr>
+<td>Sistemas para el control de humos y de calor.</td>
+<td>
+<p>Comprobación del funcionamiento del sistema en sus posiciones de activación y descanso, incluyendo su respuesta a las señales de activación manuales y automáticas y comprobando que el tiempo de respuesta está dentro de los parámetros de diseño.</p>
+<p>Si el sistema dispone de barreras de control de humo, comprobar que los espaciados de cabecera, borde y junta (según UNE-EN 12101-1) no superan los valores indicados por el fabricante.</p>
+<p>Comprobación de la correcta disponibilidad de la fuente de alimentación principal y auxiliar.</p>
+<p>Engrase de los componentes y elementos del sistema.</p>
+<p>Verificación de señales de alarma y avería e interacción con el sistema de detección de incendios.</p>
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+> Se modifican la sexta fila de la tabla I y la tabla II por la disposición final 1.19 y 20 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+### Sección 2.ª Señalización luminiscente
+
+Tabla III. Programa de mantenimiento de los sistemas de señalización luminiscente
+
+Operaciones a realizar por personal especializado del fabricante, de una empresa mantenedora, o bien, por el personal del usuario o titular de la instalación:
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Equipo o sistema</p>
+</td>
+<td>
+<p>Cada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Año</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Sistemas de señalización luminiscente.</p>
+</td>
+<td>
+<p>Comprobación visual de la existencia, correcta ubicación y buen estado en cuanto a limpieza, legibilidad e iluminación (en la oscuridad) de las señales, balizamientos y planos de evacuación.</p>
+<p>Verificación del estado de los elementos de sujeción (anclajes, varillas, angulares, tornillería, adhesivos, etc.).</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Para señales fotoluminiscentes, a partir de los 20 años desde su fabricación, estas deberán ser sustituidas salvo que se justifique que la medición sobre una muestra representativa, conforme a la norma UNE 23035-2, aporta valores no inferiores al 80 por ciento de aquellos para los que fue fabricada la señal (según UNE 23035-4). Posteriormente, estas mediciones se repetirán cada 10 años.
+
+> Se modifica el último párrafo por la disposición final 1.21 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+## ANEXO III — Medios humanos mínimos en empresas instaladoras y mantenedoras de equipos y sistemas de protección contra incendios
+
+1\. Contar con el personal contratado necesario para realizar la actividad en condiciones de seguridad, en número suficiente y durante el tiempo necesario para atender las instalaciones que tengan contratadas, con un mínimo de:
+
+a) Una persona técnica titulada universitaria con competencias específicas en la materia objeto del presente reglamento que será la persona responsable técnica de la empresa.
+
+b) Una persona operaria cualificada para cada uno de los sistemas para los que está habilitada, o una misma persona operaria si esta está cualificada en todos los sistemas.
+
+Se entenderá satisfecho el requisito de los párrafos a) y b) anteriores cuando el referido personal necesario para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales permitidas en derecho, pudiendo recaer la figura de la persona técnica titulada universitaria competente y la de la persona operaria cualificada en una misma persona si esta cumple los requisitos respectivos en ambos casos.
+
+2\. Tal y como se establecen en los artículos 11 y 16 de este Reglamento, el personal cualificado citado en el apartado anterior, deberá poder acreditar ante la Administración competente:
+
+a) El cumplimiento con lo establecido en el Real Decreto 842/2002, de 2 de agosto, en el caso de operarios cualificados para la instalación/mantenimiento de alumbrado de emergencia.
+
+b) El cumplimiento con lo establecido en el Reglamento (CE) n.º 517/2014, del Parlamento Europeo y del Consejo, de 16 de abril de 2014, y el Real Decreto 115/2017, de 17 de febrero, por el que se regula la comercialización y manipulación de gases fluorados y equipos basados en los mismos, así como la certificación de los profesionales que los utilizan y por el que se establecen los requisitos técnicos para las instalaciones que desarrollen actividades que emitan gases fluorados, en el caso de operarios cualificados para la instalación/mantenimiento de sistemas de extinción basados en agentes gaseosos fluorados.
+
+c) Una de las siguientes situaciones, para los operarios cualificados para la instalación y/o mantenimiento del resto de instalaciones de protección contra incendios:
+
+1.º Disponer de un título universitario cuyo ámbito competencial, atribuciones legales o plan de estudios cubra las materias objeto del presente Reglamento, para las que acredita su cualificación.
+
+2.º Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto de este Reglamento, para las que acredita su cualificación.
+
+3.º Poseer una certificación otorgada por entidad acreditada para la certificación de personas por ENAC o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, de acuerdo a la norma UNE-EN ISO/IEC 17024.
+
+Todas las entidades acreditadas para la certificación de personas que quieran otorgar estas certificaciones deberán incluir en su esquema de certificación un sistema de evaluación que incluya los contenidos mínimos que se indican en el anexo IV de este Reglamento.
+
+4.º Haber realizado, con aprovechamiento, un curso de formación que incluya los contenidos mínimos que se indican en el anexo IV de este Reglamento, impartido por entidades habilitadas por el órgano competente en materia de industria de la Comunidad Autónoma correspondiente.
+
+5.º Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto de este reglamento.
+
+6.º Tener reconocida la cualificación profesional de operario cualificado para la instalación y/o mantenimiento de protección contra incendios adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).
+
+7.º Los trabajadores que presten o hayan prestado servicios como personal cualificado en la instalación y/o mantenimiento para cada uno de los sistemas para los que solicita la habilitación durante al menos 12 meses, anteriores a la entrada en vigor de este Reglamento, podrán solicitar certificación acreditativa de la cualificación ante el órgano competente de la Comunidad Autónoma donde residan. La justificación de esta experiencia se hará con los siguientes documentos:
+
+i. Vida laboral del trabajador, expedida por la Tesorería General de la Seguridad Social.
+
+ii. Contrato de trabajo o certificación de las empresas donde haya adquirido la experiencia laboral, en la que conste específicamente la duración de los períodos de prestación del contrato, la actividad desarrollada y el intervalo de tiempo en el que se ha realizado dicha actividad.
+
+De acuerdo con la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, el personal habilitado por una Comunidad Autónoma podrá ejecutar esta actividad dentro de una empresa instaladora en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+> Se modifica el apartado 1 por el art. 7 del Real Decreto 770/2025, de 2 de septiembre. [Ref. BOE-A-2025-17507](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17507)
+
+> Se modifica el punto 1º de la letra c) del apartado 2 por la disposición final 1.22 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2021, por el art. 11.6 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+## ANEXO IV — Conocimientos mínimos necesarios para los operarios cualificados de protección contra incendios
+
+Los conocimientos mínimos quedan agrupados en dos módulos:
+
+– Módulo I “Parte general”; y
+
+– Módulo II “Parte específica”.
+
+Todos los operarios cualificados deben poseer los conocimientos mínimos indicados en el Módulo I. Asimismo, deberán contar con los conocimientos específicos del Módulo II en función del sistema o sistemas concretos para los que se encuentren cualificados.
+
+No obstante lo anterior, para los operarios cualificados únicamente en sistemas de señalización luminiscente, solo serán aplicables los conocimientos relativos a señalización indicados en el Módulo I y los indicados en el epígrafe de «Sistemas de señalización luminiscente» del Módulo II.
+
+Los contenidos de cada módulo son los siguientes:
+
+Módulo I. Parte general:
+
+1\. Matemáticas: números enteros y decimales, operaciones básicas, números quebrados, números negativos, proporcionalidades, escalas, reglas de tres simple, porcentaje, Sistema internacional de medidas, potencias y raíces. Magnitudes, unidades, conversiones.
+
+2\. Física y química: propiedades físicas de la materia, calor y temperatura, expansión térmica, transmisión de calor, principios básicos de química, combustión, combustibles.
+
+3\. Fundamentos de la extinción de incendio: clasificación, factores de incendios, fases y evolución de un incendio, principios de extinción de incendios, métodos de extinción.
+
+4\. Materiales, uniones y accesorios, marcados.
+
+5\. Clases de fuego según la Norma UNE-EN 2.
+
+6\. Señalización e interpretación de planos.
+
+7\. Estabilidad al Fuego de las Estructuras.
+
+8\. Sectorización y Compartimentación de Edificios.
+
+9\. Reacción al Fuego de los Materiales.
+
+10\. Clasificación de las instalaciones de protección contra incendios:
+
+a) Instalaciones de Extinción de Incendios.
+
+b) Instalaciones de Detección de Incendios.
+
+c) Instalaciones de Emergencia: señalización, alumbrado, alarma.
+
+d) Sistemas de control de temperatura y evacuación de humos.
+
+11\. Legislación y Proyectos de Seguridad contra Incendios:
+
+a) Reglamento de Instalaciones de protección contra incendios, aprobado por Real Decreto 513/2017, de 22 de mayo.
+
+b) Reglamento de Seguridad contra Incendios en Establecimientos Industriales, aprobado por Real Decreto 2267/2004, de 3 de diciembre.
+
+c) Instalaciones de protección contra incendios en el ámbito de aplicación del Reglamento de Almacenamiento de Productos Químicos, aprobado por Real Decreto 656/2017, de 23 de junio, y sus instrucciones técnicas complementarias.
+
+d) Instalaciones de protección contra incendios en el ámbito de aplicación del Reglamento de Instalaciones Petrolíferas, aprobado por Real Decreto 2085/1994, de 20 de octubre, y sus instrucciones técnicas complementarias.
+
+e) Código Técnico de la Edificación. Documento básico de Seguridad contra Incendios DB SI.
+
+Módulo II. Parte específica:
+
+– Sistemas de detección y de alarma de incendios:
+
+a. Normativa de aplicación.
+
+b. Diseño, instalación, puesta en servicio y uso de los sistemas de detección de alarma de incendio según la Norma UNE 23007-14.
+
+c. Sistema de barreras.
+
+d. Sistema de aspiración.
+
+e. Detectores térmicos.
+
+f. Detectores de humo.
+
+g. Detectores lineales.
+
+h. Vídeo detección.
+
+i. Áreas clasificadas.
+
+j. Detección en áreas especiales.
+
+k. Integración y centralización de sistemas de detección.
+
+l. Determinación de vida útil de detectores.
+
+m. Mantenimiento y conservación, procedimiento de actuación, periodicidades y cumplimentación de las actas correspondientes.
+
+– Sistemas de abastecimiento de agua contra incendios:
+
+a. Normativa de aplicación.
+
+b. Características y especificaciones según Norma UNE 23500.
+
+c. Conjunto de fuentes de agua.
+
+d. Equipos de impulsión.
+
+e. Red general de agua.
+
+f. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas de hidrantes contra incendios:
+
+a. Normativa de aplicación.
+
+b. Características y especificaciones según Normas UNE-EN 14384 y UNE- EN 14339.
+
+c. Tipología. Descripción por modelos.
+
+d. Identificación de marcas, grabados.
+
+e. Ubicación, idoneidad, cobertura, e instalación.
+
+f. Inspección del abastecimiento de hidrantes.
+
+g. Tapas, racores, juntas.
+
+h. Válvula de drenaje.
+
+i. Prueba hidrostática de red de hidrantes.
+
+j. Pruebas de caudal/presión.
+
+k. Válvulas y postes indicadores corte de línea.
+
+l. Soportes y uniones de tubería.
+
+m. Limpieza y protección de tubería de hidrantes.
+
+n. Caseta y material auxiliar.
+
+o. Tomas de monitor y conexiones a hidrantes. Tipología y aplicaciones.
+
+p. Señalización.
+
+q. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas de bocas de incendio equipadas:
+
+a. Normativa de aplicación.
+
+b. Descripción de operaciones de instalación.
+
+c. Tipologías. Descripción por modelos.
+
+d. Identificación de marcas, grabados, etiquetado de uso.
+
+e. Ubicación, idoneidad, cobertura, e instalación.
+
+f. Inspección del abastecimiento de bies.
+
+g. Presiones de trabajo y reguladores de presión.
+
+h. Pruebas de caudal/presión.
+
+i. Válvulas manuales de corte de línea.
+
+j. Prueba hidrostática de bies de 25 y 45 mm.
+
+k. Soportes y uniones de tubería.
+
+l. Limpieza y protección de tuberías de bies.
+
+m. Señalización.
+
+n. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas de columna seca:
+
+a. Normativa de aplicación.
+
+b. Descripción de operaciones de instalación.
+
+c. Descripción y mantenimiento de los componentes.
+
+d. Tipologías de diseño y armarios.
+
+e. Prueba hidrostática.
+
+f. Ubicación, idoneidad, cobertura, e instalación.
+
+g. Soportes y uniones de tubería.
+
+h. Rotulación y limpieza.
+
+i. Señalización.
+
+j. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas fijos de extinción por rociadores automáticos y agua pulverizada:
+
+a. Normativa de aplicación.
+
+b. Diseño e instalación según normas UNE 12845 y UNE 23503.
+
+c. Red de tuberías para la alimentación de agua.
+
+d. Puesto de control.
+
+e. Boquillas de descarga necesarias.
+
+f. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas fijos de extinción por agua nebulizada:
+
+a. Normativa de aplicación.
+
+b. Diseño e instalación según norma UNE–CEN/TS 14972.
+
+c. Suministro de agua.
+
+d. Sistema de tuberías.
+
+e. Boquillas de descarga.
+
+f. Mecanismos de disparo y paro.
+
+g. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas fijos de extinción por espuma física:
+
+a. Normativa de aplicación.
+
+b. Diseño e instalación según norma UNE-EN 13565-2.
+
+c. Tipos de espumógeno y aplicaciones, caducidad y análisis en laboratorios.
+
+d. Dosificadores: venturimétricos, membrana, volumétricos. Tipología. Descripción por modelos.
+
+e. Tanques de espumógeno, reservas.
+
+f. Relación de expansión.
+
+g. Equipos generadores: cámaras de espuma, lanzas, rociadores… tipología.
+
+h. Ubicación, idoneidad, cobertura, e instalación de los equipos.
+
+i. Inspección del abastecimiento del sistema de espuma.
+
+j. Prueba hidrostática de red de espuma.
+
+k. Prueba descarga de espuma.
+
+l. Soportes y uniones de tubería.
+
+m. Limpieza de la tubería de espuma.
+
+n. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas fijos de extinción por polvo:
+
+a. Normativa de aplicación.
+
+b. Diseño e instalación según norma UNE 12416-2.
+
+c. Recipiente de polvo.
+
+d. Recipientes de gas propelente.
+
+e. Tuberías de distribución.
+
+f. Válvulas selectoras.
+
+g. Dispositivos de accionamiento y control.
+
+h. Boquillas de descarga.
+
+i. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas fijos de extinción por agentes extintores gaseosos:
+
+a. Normativa de aplicación.
+
+b. Diseño y condiciones de instalación según UNE-EN 15004-1.
+
+c. Mecanismo de disparo.
+
+d. Equipos de control de funcionamiento eléctrico o neumático.
+
+e. Recipientes para gas a presión.
+
+f. Conductos para el agente extintor.
+
+g. Difusores de descarga.
+
+h. Manipulación de sistemas y equipos de protección contra incendios que emplean gases fluorados o bromados como agente extintor.
+
+i. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas fijos de extinción por aerosoles condensados:
+
+a. Normativa de aplicación.
+
+b. Descripción de operaciones de instalación y mantenimiento.
+
+c. Dispositivos de accionamiento.
+
+d. Equipos de control de funcionamiento.
+
+e. Unidades de generadores de aerosol.
+
+f. Real Decreto 1381/2009, de 28 de agosto, por el que se establecen los requisitos para la fabricación y comercialización de los generadores de aerosoles.
+
+g. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas para el control de humos y de calor:
+
+a. Normativa de aplicación.
+
+b. Instalación y puesta en macha según la UNE 23584.
+
+c. Flotabilidad de los gases calientes.
+
+d. Presurización diferencial.
+
+e. Ventilación horizontal.
+
+f. Extracción de humos.
+
+g. Mantenimiento y conservación, procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Extintores de incendio:
+
+a. Normativa de aplicación.
+
+b. Descripción de operaciones de instalación y mantenimiento.
+
+c. Tipologías, descripción por modelos y agente extintor.
+
+d. Identificación de marcas, grabados, etiquetado.
+
+e. Ubicación, idoneidad, cobertura, e instalación.
+
+f. Tolerancias peso/presión.
+
+g. Señalización.
+
+h. Pruebas de presión de nivel C a extintores de incendios.
+
+i. Procedimiento de actuación, periodicidades, y cumplimentación de las actas correspondientes.
+
+– Sistemas de señalización luminiscente:
+
+a. Normativa de aplicación.
+
+b. Descripción de operaciones de instalación y mantenimiento.
+
+c. Símbolos gráficos.
+
+d. Sistemas de sujeción.
+
+e. Planos de evacuación.
+
+f. Sistemas fotoluminiscentes.
+
+g. Sistemas eléctricos.
+
+h. Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan dar origen a situaciones de emergencia.
+
+> Se añade, con efectos de 1 de julio de 2021, por el art. 11.7 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Información relacionada
+
+> Téngase en cuenta, en cuanto al uso del lenguaje no sexista, las referencias que se establecen en la disposición adicional única del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)

@@ -228,14 +228,6 @@ g) Facilitar las inspecciones que las autoridades competentes lleven a cabo para
 
 h) Constituir un Área de Seguridad del Operador, de la manera que reglamentariamente se determine
 
-> Téngase en cuenta que esta última actualización por las que se modifican las letras c), d) y se añade la letra h), por la disposición final 2 de la Ley Orgánica 9/2022, de 28 de julio. [Ref. BOE-A-2022-12644](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12644), entrará en vigor el 29 de agosto de 2022, según establece su disposición final 11.
-
-> Redacción anterior:
-
-> "c) Elaborar el Plan de Seguridad del Operador en los términos y con los contenidos que se determinen reglamentariamente.
-
-> d) Elaborar, según se disponga reglamentariamente, un Plan de Protección Específico por cada una de las infraestructuras consideradas como críticas en el Catálogo."
-
 2\. Será requisito para la designación de los operadores críticos, tanto del sector público como del privado, que al menos una de las infraestructuras que gestionen reúna la consideración de Infraestructura Crítica, mediante la correspondiente propuesta de la que, en todo caso, el CNPIC informará al operador antes de proceder a su clasificación definitiva.
 
 3\. La designación como tales de los operadores críticos en cada uno de los sectores o subsectores estratégicos definidos se efectuará en los términos que reglamentariamente se establezcan.
@@ -350,179 +342,179 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
 ## ANEXO — Sectores estratégicos y Ministerios/Organismos del sistema competentes
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Sector</p>
+<p>Sector</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ministerio/Organismo del sistema</p>
+<p>Ministerio/Organismo del sistema</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Administración.</p>
+<p>Administración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Presidencia.</p>
+<p>Ministerio Presidencia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Interior.</p>
+<p>Ministerio Interior.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Defensa.</p>
+<p>Ministerio Defensa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Centro Nacional de Inteligencia.</p>
+<p>Centro Nacional de Inteligencia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Política Territorial y Administración Pública.</p>
+<p>Ministerio Política Territorial y Administración Pública.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Espacio.</p>
+<p>Espacio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Defensa.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Industria nuclear.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ministerio Industria, Turismo y Comercio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Consejo de Seguridad Nuclear.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Industria química.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ministerio Interior.</p>
+<p>Ministerio Defensa.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones de investigación.</p>
+<p>Industria nuclear.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Ciencia e Innovación.</p>
+<p>Ministerio Industria, Turismo y Comercio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Medio Ambiente, y Medio Rural y Marino.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Agua.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ministerio Medio Ambiente, y Medio Rural y Marino.</p>
+<p>Consejo de Seguridad Nuclear.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Sanidad, Política Social e Igualdad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Energía.</p>
+<p>Industria química.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Industria, Turismo y Comercio.</p>
+<p>Ministerio Interior.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Salud.</p>
+<p>Instalaciones de investigación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Sanidad, Política Social e Igualdad.</p>
+<p>Ministerio Ciencia e Innovación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Ciencia e Innovación.</p>
+<p>Ministerio Medio Ambiente, y Medio Rural y Marino.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Agua.</p>
+</td>
+<td>
+<p>Ministerio Medio Ambiente, y Medio Rural y Marino.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ministerio Sanidad, Política Social e Igualdad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Energía.</p>
+</td>
+<td>
+<p>Ministerio Industria, Turismo y Comercio.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Salud.</p>
+</td>
+<td>
+<p>Ministerio Sanidad, Política Social e Igualdad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ministerio Ciencia e Innovación.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Tecnologías de la Información y las Comunicaciones (TIC).</p>
+<p>Tecnologías de la Información y las Comunicaciones (TIC).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Industria, Turismo y Comercio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ministerio Defensa.</p>
+<p>Ministerio Industria, Turismo y Comercio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Centro Nacional de Inteligencia.</p>
+<p>Ministerio Defensa.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Ciencia e Innovación.</p>
+<p>Centro Nacional de Inteligencia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Política Territorial y Administración Pública.</p>
+<p>Ministerio Ciencia e Innovación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Transporte.</p>
+<p>Ministerio Política Territorial y Administración Pública.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Transporte.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Fomento.</p>
+<p>Ministerio Fomento.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Alimentación.</p>
+<p>Alimentación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Medio Ambiente, y Medio Rural y Marino.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ministerio Sanidad, Política Social e Igualdad.</p>
+<p>Ministerio Medio Ambiente, y Medio Rural y Marino.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Industria, Turismo y Comercio.</p>
+<p>Ministerio Sanidad, Política Social e Igualdad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Sistema financiero y tributario.</p>
+<p>Ministerio Industria, Turismo y Comercio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sistema financiero y tributario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ministerio Economía y Hacienda.</p>
+<p>Ministerio Economía y Hacienda.</p>
 </td>
 </tr>
 </table>

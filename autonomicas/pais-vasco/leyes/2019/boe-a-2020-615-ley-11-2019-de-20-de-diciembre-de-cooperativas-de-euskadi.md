@@ -754,12 +754,6 @@ b) El órgano de administración.
 
 4\. Las sociedades cooperativas y sus estructuras asociativas procurarán la presencia equilibrada de las personas socias en los órganos de que dispongan.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por la disposición final 2.1 de la Ley 15/2023, de 21 de diciembre, [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024 según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "4. Las sociedades cooperativas y sus estructuras asociativas procurarán la presencia equilibrada de las personas socias en los órganos de que dispongan, así como el establecimiento de medidas de igualdad de género, especialmente, las dirigidas a la conciliación de la vida personal, familiar y laboral."
-
 > Se modifica el apartado 4 por la disposición final 2.1 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 
 > Esta modificación tiene efectos desde el 29 de junio de 2024, según establece la disposición final 5 de la citada Ley.
@@ -775,8 +769,6 @@ b) El órgano de administración.
 El plan de igualdad cooperativo será voluntario para las demás sociedades cooperativas.
 
 3\. Los planes de igualdad cooperativos serán objeto de inscripción obligatoria en registro público. A tal efecto, se crea el registro de planes de igualdad cooperativos, a fin de que sean depositados y registrados en él los planes de igualdad cooperativos. Su funcionamiento y regulación se desarrollarán reglamentariamente.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 2.2 de la Ley 15/2023, de 21 de diciembre, [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899), entra en vigor el 29 de junio de 2024 según determina su disposición final 5.
 
 > Se añade, con efectos de 29 de junio de 2024, por la disposición final 2.2 de la Ley 15/2023, de 21 de diciembre. [Ref. BOE-A-2024-899](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-899)
 

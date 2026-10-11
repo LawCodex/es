@@ -773,47 +773,47 @@ Artículo 54 septies. Regulación.
 
 4\. La cuantía de la tasa se ajustará a la siguiente tarifa:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Concepto</p>
+<p>Concepto</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tarifa<br> -<br> Euros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Procedimiento de reconocimiento de competencias profesionales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>Tarifa<br> -<br> Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1.1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participación en el procedimiento.</p>
+<p>Procedimiento de reconocimiento de competencias profesionales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1.2</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Evaluación (tarifa exigida por cada una de las unidades de competencia).</p>
+<p>Participación en el procedimiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2</p>
+</td>
+<td>
+<p>Evaluación (tarifa exigida por cada una de las unidades de competencia).</p>
+</td>
+<td>
+<p>12</p>
 </td>
 </tr>
 </tbody>

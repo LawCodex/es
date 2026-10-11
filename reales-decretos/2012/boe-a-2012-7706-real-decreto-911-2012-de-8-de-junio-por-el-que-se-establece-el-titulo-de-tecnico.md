@@ -4716,59 +4716,54 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Módulo de enseñanza deportiva
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101: Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101: Bases del comportamiento deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102: Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación Física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102: Primeros auxilios.</td>
+<td>
+<p>Educación Física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104: Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación Física.</td>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C104: Organización deportiva.</td>
+<td>Educación Física.</td>
+<td>
+<p>Catedrático de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -4790,79 +4785,69 @@ Serán impartidas por quienes posean la especialidad o condición que a continua
 
 Módulo de enseñanza deportiva
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ciclo inicial</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Ciclo inicial</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-ESES102: Técnica de Espada.</p>
-<p class="cuerpo_tabla_izq">MED-ESES103: Técnica de Florete.</p>
-<p class="cuerpo_tabla_izq">MED-ESES104: Técnica de Sable.</p>
-<p class="cuerpo_tabla_izq">MED-ESES105: Didáctica en la iniciación en la esgrima.</p>
-<p class="cuerpo_tabla_izq">MED-ESES106: Reglamento, historia y material.</p>
-<p class="cuerpo_tabla_izq">MED-ESES107: Organización de eventos.</p>
-<p class="cuerpo_tabla_izq">MED-ESES108: Formación práctica.</p>
+<td rowspan="2">
+<p>MED-ESES102: Técnica de Espada.</p>
+<p>MED-ESES103: Técnica de Florete.</p>
+<p>MED-ESES104: Técnica de Sable.</p>
+<p>MED-ESES105: Didáctica en la iniciación en la esgrima.</p>
+<p>MED-ESES106: Reglamento, historia y material.</p>
+<p>MED-ESES107: Organización de eventos.</p>
+<p>MED-ESES108: Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad Educación Física con el Título de Técnico Deportivo Superior en Esgrima.</p>
+<td>
+<p>Especialidad Educación Física con el Título de Técnico Deportivo Superior en Esgrima.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ciclo final</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Ciclo final</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-ESES201: Escuela de la esgrima.</p>
-<p class="cuerpo_tabla_izq">MED-ESES202: Preparación física del esgrimista.</p>
-<p class="cuerpo_tabla_izq">MED-SES203: Esgrima adaptada.</p>
-<p class="cuerpo_tabla_izq">MED-ESES204: Organización de eventos.</p>
-<p class="cuerpo_tabla_izq">MED-ESES205: Técnica de Espada.</p>
-<p class="cuerpo_tabla_izq">MED-ESES206: Técnica de Florete.</p>
-<p class="cuerpo_tabla_izq">MED-ESES207: Técnica de Sable.</p>
-<p class="cuerpo_tabla_izq">MED-ESES208: Formación práctica.</p>
+<td rowspan="2">
+<p>MED-ESES201: Escuela de la esgrima.</p>
+<p>MED-ESES202: Preparación física del esgrimista.</p>
+<p>MED-SES203: Esgrima adaptada.</p>
+<p>MED-ESES204: Organización de eventos.</p>
+<p>MED-ESES205: Técnica de Espada.</p>
+<p>MED-ESES206: Técnica de Florete.</p>
+<p>MED-ESES207: Técnica de Sable.</p>
+<p>MED-ESES208: Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">Especialidad Educación Física con el Título de Técnico Deportivo Superior en Esgrima.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Especialidad Educación Física con el Título de Técnico Deportivo Superior en Esgrima.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -729,8 +729,6 @@ La venta en pública subasta realizada de forma ocasional deberá ser puesta en 
 
 3\. Quedan exceptuadas de esta obligación de indicar el precio anterior los productos perecederos, como alimentos frescos y las bebidas con plazos cortos de caducidad que puedan deteriorarse o caducar con rapidez.
 
-> Téngase en cuenta que este artículo, añadido por la disposición adicional 9.1 de la Ley 4/2025, de 15 de diciembre, [Ref. BOE-A-2026-422](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-422), entra en vigor el 23 de marzo de 2026, según establece su disposición final 6.
-
 > Se añade, con efectos de 23 de marzo de 2026, por la disposición adicional 9.1 de la Ley 4/2025, de 15 de diciembre. [Ref. BOE-A-2026-422](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-422)
 
 ##### Artículo 61. Publicidad.
@@ -1034,8 +1032,6 @@ i) En cuanto a las ventas promocionales:
 13\. La venta en liquidación efectuada fuera del establecimiento comercial en el que los productos han sido objeto de venta, salvo en los casos establecidos legalmente.
 
 14\. El falseamiento de la publicidad de su oferta, en los términos del artículo 60 bis del presente texto refundido.
-
-> Téngase en cuenta que el apartado 14, añadido por la disposición adicional 9.2 de la Ley 4/2025, de 15 de diciembre, [Ref. BOE-A-2026-422](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-422), entra en vigor el 23 de marzo de 2026, según establece su disposición final 6.
 
 j) El incumplimiento del deber de insertar expresamente en todos sus instrumentos promocionales la fórmula «establecimiento de venta de restos de fábrica» por parte de aquellos establecimientos que desarrollen la actividad comercial referida en el artículo 74 del presente texto refundido.
 

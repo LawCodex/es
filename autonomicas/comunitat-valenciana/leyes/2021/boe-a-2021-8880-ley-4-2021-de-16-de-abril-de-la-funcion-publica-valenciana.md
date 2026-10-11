@@ -4313,460 +4313,456 @@ La agrupación profesional funcionarial de la Administración de la Generalitat,
 
 El personal funcionario perteneciente a los cuerpos, escalas o agrupación profesionales funcionariales vigentes a la entrada en vigor de la presente ley se integrarán en la agrupación profesional funcionarial, cuerpos o escalas siguientes:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">NUEVA LEY</th>
-<th class="cabeza_tabla">LEY 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gestión de la Función Pública Valenciana</th>
+<th>NUEVA LEY</th>
+<th>LEY 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gestión de la Función Pública Valenciana</th>
 </tr>
 </thead>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>CUERPOS GENERALES</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-01. Cuerpo Superior de Administración.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A1-01: Cuerpo Superior técnico de administración general de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A1-10. Cuerpo Superior técnico en relaciones laborales de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A1-05. Cuerpo Superior técnico de comunicación y relaciones informativas de la Administración de la Generalitat.</p>
+<td>A1-01. Cuerpo Superior de Administración.</td>
+<td>
+<p>A1-01: Cuerpo Superior técnico de administración general de la Administración de la Generalitat.</p>
+<p>A1-10. Cuerpo Superior técnico en relaciones laborales de la Administración de la Generalitat.</p>
+<p>A1-05. Cuerpo Superior técnico de comunicación y relaciones informativas de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-01. Cuerpo de Gestión.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-01. Cuerpo Superior de gestión de administración general de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-06. Cuerpo Superior de gestión en relaciones laborales de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-07. Cuerpo Superior de gestión en formación e inserción profesional de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-29: Cuerpo Superior de gestión en actividades turísticas de la Administración de la Generalitat.</p>
+<td>A2-01. Cuerpo de Gestión.</td>
+<td>
+<p>A2-01. Cuerpo Superior de gestión de administración general de la Administración de la Generalitat.</p>
+<p>A2-06. Cuerpo Superior de gestión en relaciones laborales de la Administración de la Generalitat.</p>
+<p>A2-07. Cuerpo Superior de gestión en formación e inserción profesional de la Administración de la Generalitat.</p>
+<p>A2-29: Cuerpo Superior de gestión en actividades turísticas de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-01. Cuerpo Administrativo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">C1-01. Cuerpo Administrativo de la Administración de la Generalitat</p>
-<p class="cuerpo_tabla_izq">C1-20. Agentes Tributarios de la Generalitat</p>
+<td>C1-01. Cuerpo Administrativo.</td>
+<td>
+<p>C1-01. Cuerpo Administrativo de la Administración de la Generalitat</p>
+<p>C1-20. Agentes Tributarios de la Generalitat</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-01. Cuerpo Auxiliar.</td>
-<td class="cuerpo_tabla_izq">C2-01: Cuerpo Auxiliar de la Administración de la Generalitat.</td>
+<td>C2-01. Cuerpo Auxiliar.</td>
+<td>C2-01: Cuerpo Auxiliar de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>CUERPOS ESPECIALES</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">SUBGRUPO A1</td>
+<td colspan="2">SUBGRUPO A1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-02. Cuerpo de la Abogacía de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">A1-02 Cuerpo de la abogacía de la Generalitat.</td>
+<td>A1-02. Cuerpo de la Abogacía de la Generalitat.</td>
+<td>A1-02 Cuerpo de la abogacía de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-03. Cuerpo Superior de Intervención y Auditoria de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">A1-03 Cuerpo superior de intervención y auditoría de la Generalitat.</td>
+<td>A1-03. Cuerpo Superior de Intervención y Auditoria de la Generalitat.</td>
+<td>A1-03 Cuerpo superior de intervención y auditoría de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04 Cuerpo Superior Facultativo.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A1-04 Cuerpo Superior Facultativo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-01. Superior de traducción e interpretación lingüística.</td>
-<td class="cuerpo_tabla_izq">A1-07 Cuerpo Superior técnico de traducción e interpretación lingüística de la Administración de la Generalitat.</td>
+<td>A1-04-01. Superior de traducción e interpretación lingüística.</td>
+<td>A1-07 Cuerpo Superior técnico de traducción e interpretación lingüística de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-02. Superior de archivística, biblioteconomía, documentación y edición.</td>
-<td class="cuerpo_tabla_izq">A1-08 Cuerpo Superior técnico de archivística, biblioteconomía y documentación de la Administración de la Generalitat.</td>
+<td>A1-04-02. Superior de archivística, biblioteconomía, documentación y edición.</td>
+<td>A1-08 Cuerpo Superior técnico de archivística, biblioteconomía y documentación de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-03. Ingeniería en Caminos, Canales y Puertos.</td>
-<td class="cuerpo_tabla_izq">A1-11 Cuerpo Superior técnico de ingeniería de caminos, canales y puertos de la Administración de la Generalitat.</td>
+<td>A1-04-03. Ingeniería en Caminos, Canales y Puertos.</td>
+<td>A1-11 Cuerpo Superior técnico de ingeniería de caminos, canales y puertos de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-04. Ingeniería industrial.</td>
-<td class="cuerpo_tabla_izq">A1-12 Cuerpo Superior técnico de ingeniería industrial de la administración de la Generalitat.</td>
+<td>A1-04-04. Ingeniería industrial.</td>
+<td>A1-12 Cuerpo Superior técnico de ingeniería industrial de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-05. Ingeniería de Minas.</td>
-<td class="cuerpo_tabla_izq">A1-13 Cuerpo Superior técnico de ingeniería de minas de la Administración de la Generalitat.</td>
+<td>A1-04-05. Ingeniería de Minas.</td>
+<td>A1-13 Cuerpo Superior técnico de ingeniería de minas de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-06. Sistemas y tecnología de la información.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A1-06 Cuerpo Superior técnico de ingeniería en informática.</p>
-<p class="cuerpo_tabla_izq">A1-14 Cuerpo Superior técnico de ingeniería de telecomunicación de la Administración de la Generalitat.</p>
+<td>A1-04-06. Sistemas y tecnología de la información.</td>
+<td>
+<p>A1-06 Cuerpo Superior técnico de ingeniería en informática.</p>
+<p>A1-14 Cuerpo Superior técnico de ingeniería de telecomunicación de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-07. Ingeniería Agrónoma.</td>
-<td class="cuerpo_tabla_izq">A1-15 Cuerpo Superior técnico de ingeniería agrónoma de la Administración de la Generalitat.</td>
+<td>A1-04-07. Ingeniería Agrónoma.</td>
+<td>A1-15 Cuerpo Superior técnico de ingeniería agrónoma de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-08. Ingeniería en Geodesia y cartografía.</td>
-<td class="cuerpo_tabla_izq">A1-16 Cuerpo Superior técnico de geodesia y cartografía de la Administración de la Generalitat.</td>
+<td>A1-04-08. Ingeniería en Geodesia y cartografía.</td>
+<td>A1-16 Cuerpo Superior técnico de geodesia y cartografía de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-09. Ingeniería de Montes.</td>
-<td class="cuerpo_tabla_izq">A1-17 Cuerpo Superior técnico de ingeniería de montes de la Administración de la Generalitat.</td>
+<td>A1-04-09. Ingeniería de Montes.</td>
+<td>A1-17 Cuerpo Superior técnico de ingeniería de montes de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-10. Arquitectura.</td>
-<td class="cuerpo_tabla_izq">A1-18 Cuerpo Superior técnico de arquitectura de la Administración de la Generalitat.</td>
+<td>A1-04-10. Arquitectura.</td>
+<td>A1-18 Cuerpo Superior técnico de arquitectura de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-11. Medio ambiente.</td>
-<td class="cuerpo_tabla_izq">A1-27 Cuerpo Superior técnico de la administración del medio ambiente de la Administración de la Generalitat.</td>
+<td>A1-04-11. Medio ambiente.</td>
+<td>A1-27 Cuerpo Superior técnico de la administración del medio ambiente de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-12. Veterinaria.</td>
-<td class="cuerpo_tabla_izq">A1-23 Cuerpo Superior técnico de veterinaria de la Administración de la Generalitat.</td>
+<td>A1-04-12. Veterinaria.</td>
+<td>A1-23 Cuerpo Superior técnico de veterinaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-13. Superior Facultativa de estadística.</td>
-<td class="cuerpo_tabla_izq">A1-29 Cuerpo Superior técnico de estadística de la Administración de la Generalitat.</td>
+<td>A1-04-13. Superior Facultativa de estadística.</td>
+<td>A1-29 Cuerpo Superior técnico de estadística de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-14. Administración cultural.</td>
-<td class="cuerpo_tabla_izq">A1-21 Cuerpo Superior técnico de administración cultural de la administración de la Generalitat.</td>
+<td>A1-04-14. Administración cultural.</td>
+<td>A1-21 Cuerpo Superior técnico de administración cultural de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-04-15. Actividad física y deporte.</td>
-<td class="cuerpo_tabla_izq">A1-22 Cuerpo Superior técnico de actividad física y deporte de la Administración de la Generalitat.</td>
+<td>A1-04-15. Actividad física y deporte.</td>
+<td>A1-22 Cuerpo Superior técnico de actividad física y deporte de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-05 Cuerpo Superior Facultativo de investigación científica.</td>
-<td class="cuerpo_tabla_izq">A1-28 Cuerpo Superior técnico de investigadores científicos de la Administración de la Generalitat.</td>
+<td>A1-05 Cuerpo Superior Facultativo de investigación científica.</td>
+<td>A1-28 Cuerpo Superior técnico de investigadores científicos de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-05-01. Científico o científica titular.</td>
-<td class="cuerpo_tabla_izq">A1-28-01. Científico titular.</td>
+<td>A1-05-01. Científico o científica titular.</td>
+<td>A1-28-01. Científico titular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-05-02. Investigador o Investigadora.</td>
-<td class="cuerpo_tabla_izq">A1-28-02. Investigador.</td>
+<td>A1-05-02. Investigador o Investigadora.</td>
+<td>A1-28-02. Investigador.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-05-03. Profesor o Profesora de investigación.</td>
-<td class="cuerpo_tabla_izq">A1-28-03. Profesor de investigación.</td>
+<td>A1-05-03. Profesor o Profesora de investigación.</td>
+<td>A1-28-03. Profesor de investigación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-06. Cuerpo Superior Facultativo de prevención de riesgos laborales, seguridad y salud en el trabajo.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A1-06. Cuerpo Superior Facultativo de prevención de riesgos laborales, seguridad y salud en el trabajo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-06-01. Riesgos laborales, seguridad y salud en el trabajo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A1-09 Cuerpo Superior técnico de seguridad y salud en el trabajo de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A1-25-01. Riesgos laborales.</p>
+<td>A1-06-01. Riesgos laborales, seguridad y salud en el trabajo.</td>
+<td>
+<p>A1-09 Cuerpo Superior técnico de seguridad y salud en el trabajo de la Administración de la Generalitat.</p>
+<p>A1-25-01. Riesgos laborales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-06-02. Medicina del Trabajo.</td>
-<td class="cuerpo_tabla_izq">A1-25-02. Medicina del trabajo.</td>
+<td>A1-06-02. Medicina del Trabajo.</td>
+<td>A1-25-02. Medicina del trabajo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-07. Cuerpo Superior Facultativo de acción social, administración de servicios sociales y sociosanitarios.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A1-07. Cuerpo Superior Facultativo de acción social, administración de servicios sociales y sociosanitarios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-07-01. Acción social y administración de servicios sociales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A1-19 Cuerpo Superior técnico en acción social y administración de servicios sociales de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A1-30 Cuerpo Superior técnico de psicopedagogía de la Administración de la Generalitat.</p>
+<td>A1-07-01. Acción social y administración de servicios sociales.</td>
+<td>
+<p>A1-19 Cuerpo Superior técnico en acción social y administración de servicios sociales de la Administración de la Generalitat.</p>
+<p>A1-30 Cuerpo Superior técnico de psicopedagogía de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-07-02. Psicología.</td>
-<td class="cuerpo_tabla_izq">A1-20 Cuerpo Superior técnico de psicología de la Administración de la Generalitat.</td>
+<td>A1-07-02. Psicología.</td>
+<td>A1-20 Cuerpo Superior técnico de psicología de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-07-03. Medicina.</td>
-<td class="cuerpo_tabla_izq">A1-24 Cuerpo Superior técnico de Medicina de la Administración de la Generalitat.</td>
+<td>A1-07-03. Medicina.</td>
+<td>A1-24 Cuerpo Superior técnico de Medicina de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-08. Cuerpo Superior Facultativo de laboratorio y de tecnología agroalimentaria.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A1-08. Cuerpo Superior Facultativo de laboratorio y de tecnología agroalimentaria.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-08-01. Tecnología agroalimentaria.</td>
-<td class="cuerpo_tabla_izq">A1-31 Cuerpo Superior técnico de tecnología agroalimentaria de la Administración de la Generalitat.</td>
+<td>A1-08-01. Tecnología agroalimentaria.</td>
+<td>A1-31 Cuerpo Superior técnico de tecnología agroalimentaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-08-02. Superior técnica de laboratorio.</td>
-<td class="cuerpo_tabla_izq">A1-32 Cuerpo Superior técnico de laboratorio de la Administración de la Generalitat.</td>
+<td>A1-08-02. Superior técnica de laboratorio.</td>
+<td>A1-32 Cuerpo Superior técnico de laboratorio de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-09 Cuerpo Superior Facultativo de Inspección de Tributos.</td>
-<td class="cuerpo_tabla_izq">A1-04 Cuerpo Superior Técnico de Inspectores de Tributos de la Administración de la Generalitat.</td>
+<td>A1-09 Cuerpo Superior Facultativo de Inspección de Tributos.</td>
+<td>A1-04 Cuerpo Superior Técnico de Inspectores de Tributos de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-10. Cuerpo Superior Facultativo de Emergencias y Protección civil.</td>
-<td class="cuerpo_tabla_izq">A1-33 Cuerpo Superior técnico de Gestión de Emergencias y Protección Civil de la Administración de la Generalitat.</td>
+<td>A1-10. Cuerpo Superior Facultativo de Emergencias y Protección civil.</td>
+<td>A1-33 Cuerpo Superior técnico de Gestión de Emergencias y Protección Civil de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">SUBGRUPO A2</td>
+<td colspan="2">SUBGRUPO A2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02 Cuerpo técnico facultativo.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A2-02 Cuerpo técnico facultativo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-01. Técnica de Sistemas y tecnología de la información.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-02 Cuerpo Superior de gestión en ingeniería técnica en informática de la administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-11 Cuerpo Superior de gestión en ingeniería técnica de telecomunicaciones de la Administración de la Generalitat.</p>
+<td>A2-02-01. Técnica de Sistemas y tecnología de la información.</td>
+<td>
+<p>A2-02 Cuerpo Superior de gestión en ingeniería técnica en informática de la administración de la Generalitat.</p>
+<p>A2-11 Cuerpo Superior de gestión en ingeniería técnica de telecomunicaciones de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-02. Ingeniería Técnica en Obras Públicas.</td>
-<td class="cuerpo_tabla_izq">A2-08 Cuerpo Superior de gestión en ingeniería técnica en obras públicas de la Administración de la Generalitat.</td>
+<td>A2-02-02. Ingeniería Técnica en Obras Públicas.</td>
+<td>A2-08 Cuerpo Superior de gestión en ingeniería técnica en obras públicas de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-03. Ingeniería Técnica Industrial.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-09 Cuerpo Superior de gestión en ingeniería técnica industrial de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-25 Cuerpo Superior de gestión de seguridad pública de la administración de la Generalitat.</p>
+<td>A2-02-03. Ingeniería Técnica Industrial.</td>
+<td>
+<p>A2-09 Cuerpo Superior de gestión en ingeniería técnica industrial de la Administración de la Generalitat.</p>
+<p>A2-25 Cuerpo Superior de gestión de seguridad pública de la administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-04. Ingeniería Técnica de Minas.</td>
-<td class="cuerpo_tabla_izq">A2-10 Cuerpo Superior de gestión en ingeniería técnica de minas de la Administración de la Generalitat.</td>
+<td>A2-02-04. Ingeniería Técnica de Minas.</td>
+<td>A2-10 Cuerpo Superior de gestión en ingeniería técnica de minas de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-05. Ingeniería Técnica Forestal.</td>
-<td class="cuerpo_tabla_izq">A2-13 Cuerpo Superior de gestión en ingeniería técnica forestal de la Administración de la Generalitat.</td>
+<td>A2-02-05. Ingeniería Técnica Forestal.</td>
+<td>A2-13 Cuerpo Superior de gestión en ingeniería técnica forestal de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-06. Ingeniería Técnica Agrícola.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-14 Cuerpo Superior de gestión en Ingeniería Técnica Agrícola de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-22 Cuerpo Superior de gestión en economía doméstica de la Administración de la Generalitat.</p>
+<td>A2-02-06. Ingeniería Técnica Agrícola.</td>
+<td>
+<p>A2-14 Cuerpo Superior de gestión en Ingeniería Técnica Agrícola de la Administración de la Generalitat.</p>
+<p>A2-22 Cuerpo Superior de gestión en economía doméstica de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-07. Arquitectura Técnica.</td>
-<td class="cuerpo_tabla_izq">A2-17 Cuerpo Superior de gestión en arquitectura de la Administración de la Generalitat.</td>
+<td>A2-02-07. Arquitectura Técnica.</td>
+<td>A2-17 Cuerpo Superior de gestión en arquitectura de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-08. Técnica de medio ambiente.</td>
-<td class="cuerpo_tabla_izq">A2-23 Cuerpo Superior de gestión de la administración del medio ambiente de la Administración de la Generalitat.</td>
+<td>A2-02-08. Técnica de medio ambiente.</td>
+<td>A2-23 Cuerpo Superior de gestión de la administración del medio ambiente de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-09. Técnica Facultativa de promoción lingüística.</td>
-<td class="cuerpo_tabla_izq">A2-03 Cuerpo Superior de gestión de promoción lingüística de la administración de la Generalitat.</td>
+<td>A2-02-09. Técnica Facultativa de promoción lingüística.</td>
+<td>A2-03 Cuerpo Superior de gestión de promoción lingüística de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-10. Técnica archivística, biblioteconomía y documentación.</td>
-<td class="cuerpo_tabla_izq">A2-04 Cuerpo Superior de gestión de archivística, biblioteconomía y documentación de la Administración de la Generalitat.</td>
+<td>A2-02-10. Técnica archivística, biblioteconomía y documentación.</td>
+<td>A2-04 Cuerpo Superior de gestión de archivística, biblioteconomía y documentación de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-11. Técnica Facultativa de gestión estadística.</td>
-<td class="cuerpo_tabla_izq">A2-27 Cuerpo Superior de gestión estadística de la Administración de la Generalitat.</td>
+<td>A2-02-11. Técnica Facultativa de gestión estadística.</td>
+<td>A2-27 Cuerpo Superior de gestión estadística de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-12. Ingeniería Técnica en Topografía.</td>
-<td class="cuerpo_tabla_izq">A2-12 Cuerpo Superior de gestión en geodesia y cartografía de la Administración de la Generalitat.</td>
+<td>A2-02-12. Ingeniería Técnica en Topografía.</td>
+<td>A2-12 Cuerpo Superior de gestión en geodesia y cartografía de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-13. Técnica Facultativa de administración cultural.</td>
-<td class="cuerpo_tabla_izq">A2-15 Cuerpo Superior de gestión en administración cultural de la Administración de la Generalitat.</td>
+<td>A2-02-13. Técnica Facultativa de administración cultural.</td>
+<td>A2-15 Cuerpo Superior de gestión en administración cultural de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-02-15. Técnica Agroalimentaria.</td>
-<td class="cuerpo_tabla_izq">A2-31 Cuerpo superior técnico de control analítico y seguridad agroalimentaria de la Administración de la Generalitat.</td>
+<td>A2-02-15. Técnica Agroalimentaria.</td>
+<td>A2-31 Cuerpo superior técnico de control analítico y seguridad agroalimentaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-03. Cuerpo Técnico Facultativo de prevención de riesgos laborales, seguridad y salud en el trabajo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-05 Cuerpo Superior de gestión en seguridad y salud en el trabajo de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-21 Cuerpo Superior de gestión en prevención de riesgos laborales de la Administración de la Generalitat.</p>
+<td>A2-03. Cuerpo Técnico Facultativo de prevención de riesgos laborales, seguridad y salud en el trabajo.</td>
+<td>
+<p>A2-05 Cuerpo Superior de gestión en seguridad y salud en el trabajo de la Administración de la Generalitat.</p>
+<p>A2-21 Cuerpo Superior de gestión en prevención de riesgos laborales de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04. Cuerpo Técnico Facultativo de acción social, administración de servicios sociales y sociosanitarios.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>A2-04. Cuerpo Técnico Facultativo de acción social, administración de servicios sociales y sociosanitarios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04-01. Sociosanitaria.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-16-01. Acción social y administración de servicios sociales.</p>
-<p class="cuerpo_tabla_izq">A2-16-04. Logopedia.</p>
+<td>A2-04-01. Sociosanitaria.</td>
+<td>
+<p>A2-16-01. Acción social y administración de servicios sociales.</p>
+<p>A2-16-04. Logopedia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04-02. Enfermería.</td>
-<td class="cuerpo_tabla_izq">A2-19 Cuerpo Superior de gestión de administración socio-sanitaria de la Administración de la Generalitat.</td>
+<td>A2-04-02. Enfermería.</td>
+<td>A2-19 Cuerpo Superior de gestión de administración socio-sanitaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04-03. Fisioterapia.</td>
-<td class="cuerpo_tabla_izq">A2-20 Cuerpo Superior de gestión en fisioterapia de la Administración de la Generalitat.</td>
+<td>A2-04-03. Fisioterapia.</td>
+<td>A2-20 Cuerpo Superior de gestión en fisioterapia de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04-04. Trabajo Social.</td>
-<td class="cuerpo_tabla_izq">A2-16-03. Trabajo social.</td>
+<td>A2-04-04. Trabajo Social.</td>
+<td>A2-16-03. Trabajo social.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04-05. Educación social.</td>
-<td class="cuerpo_tabla_izq">A2-16-02. Educación social.</td>
+<td>A2-04-05. Educación social.</td>
+<td>A2-16-02. Educación social.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-04-06. Terapia ocupacional.</td>
-<td class="cuerpo_tabla_izq">A2-16-05. Terapia ocupacional.</td>
+<td>A2-04-06. Terapia ocupacional.</td>
+<td>A2-16-05. Terapia ocupacional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-05. Cuerpo Técnico Facultativo de Tributos.</td>
-<td class="cuerpo_tabla_izq">A2-30 Cuerpo Superior de gestión de Tributos de la Administración de la Generalitat.</td>
+<td>A2-05. Cuerpo Técnico Facultativo de Tributos.</td>
+<td>A2-30 Cuerpo Superior de gestión de Tributos de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-06 Cuerpo Técnico Facultativo de Emergencias y Protección civil.</td>
-<td class="cuerpo_tabla_izq">A2-24 Cuerpo Superior de gestión de emergencias de la administración de la Generalitat.</td>
+<td>A2-06 Cuerpo Técnico Facultativo de Emergencias y Protección civil.</td>
+<td>A2-24 Cuerpo Superior de gestión de emergencias de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">GRUPO B</td>
+<td colspan="2">GRUPO B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B-01. Cuerpo Técnico de gestión de sistemas y tecnologías de la información de la administración.</td>
-<td class="cuerpo_tabla_izq">Cuerpo B-02: Técnico de gestión de sistemas y tecnologías de la información de la Administración de la Generalitat.</td>
+<td>B-01. Cuerpo Técnico de gestión de sistemas y tecnologías de la información de la administración.</td>
+<td>Cuerpo B-02: Técnico de gestión de sistemas y tecnologías de la información de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B-02. Cuerpo Técnico de gestión de la administración del medio ambiente.</td>
-<td class="cuerpo_tabla_izq">Cuerpo B-03: Técnico de gestión de la administración del medio ambiente de la Administración de la Generalitat.</td>
+<td>B-02. Cuerpo Técnico de gestión de la administración del medio ambiente.</td>
+<td>Cuerpo B-03: Técnico de gestión de la administración del medio ambiente de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B-03. Cuerpo Técnico de gestión en prevención de riesgos laborales, seguridad y salud en el trabajo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Cuerpo B-04: Técnico de gestión en prevención de riesgos laborales de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo B-05: Técnico de gestión en seguridad y salud en el trabajo de la Administración de la Generalitat.</p>
+<td>B-03. Cuerpo Técnico de gestión en prevención de riesgos laborales, seguridad y salud en el trabajo.</td>
+<td>
+<p>Cuerpo B-04: Técnico de gestión en prevención de riesgos laborales de la Administración de la Generalitat.</p>
+<p>Cuerpo B-05: Técnico de gestión en seguridad y salud en el trabajo de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B-04. Cuerpo Técnico de gestión de proyectos de urbanismo y construcción.</td>
-<td class="cuerpo_tabla_izq">Cuerpo B-08: Técnico de gestión de proyectos de urbanismo y construcción de la Administración de la Generalitat.</td>
+<td>B-04. Cuerpo Técnico de gestión de proyectos de urbanismo y construcción.</td>
+<td>Cuerpo B-08: Técnico de gestión de proyectos de urbanismo y construcción de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B-05. Cuerpo Técnico de gestión de navegación y pesca marítima.</td>
-<td class="cuerpo_tabla_izq">Cuerpo B-09: Técnico de gestión de navegación y pesca marítima de la Administración de la Generalitat.</td>
+<td>B-05. Cuerpo Técnico de gestión de navegación y pesca marítima.</td>
+<td>Cuerpo B-09: Técnico de gestión de navegación y pesca marítima de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B-06. Cuerpo Técnico de gestión de Servicios Socioculturales y a la Comunidad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>B-06. Cuerpo Técnico de gestión de Servicios Socioculturales y a la Comunidad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B6-06-01. Técnico en gestión en Educación Infantil.</td>
-<td class="cuerpo_tabla_izq">Cuerpo B-07: Técnico de gestión de educación infantil de la Administración de la Generalitat.</td>
+<td>B6-06-01. Técnico en gestión en Educación Infantil.</td>
+<td>Cuerpo B-07: Técnico de gestión de educación infantil de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B6-06-02. Técnico en gestión en Integración Social y Educación Especial.</td>
-<td class="cuerpo_tabla_izq">Cuerpo B-06: Técnico de gestión de integración social y educación especial de la Administración de la Generalitat.</td>
+<td>B6-06-02. Técnico en gestión en Integración Social y Educación Especial.</td>
+<td>Cuerpo B-06: Técnico de gestión de integración social y educación especial de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">SUBGRUPO C1</td>
+<td colspan="2">SUBGRUPO C1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-02. Cuerpo Especialistas en sistemas y tecnologías.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C1-02: Especialistas en sistemas y tecnologías de la información de la Administración de la Generalitat.</td>
+<td>C1-02. Cuerpo Especialistas en sistemas y tecnologías.</td>
+<td>Cuerpo C1-02: Especialistas en sistemas y tecnologías de la información de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-03. Cuerpo Especialista Técnico.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C1-03. Cuerpo Especialista Técnico.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-03-01. Especialista técnica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Cuerpo C1-06: Especialistas en analítica de laboratorio de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-07: Especialistas en pesca marítima de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-10: Especialistas en prevención de riesgos laborales de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-11: Especialistas en comunicaciones y emergencias de la.</p>
-<p class="cuerpo_tabla_izq">Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-08: Especialistas en campos y cosechas de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-09: Capataz agrícola de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-14: Especialistas técnicos en investigación de la Administración de la Generalitat.</p>
+<td>C1-03-01. Especialista técnica.</td>
+<td>
+<p>Cuerpo C1-06: Especialistas en analítica de laboratorio de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-07: Especialistas en pesca marítima de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-10: Especialistas en prevención de riesgos laborales de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-11: Especialistas en comunicaciones y emergencias de la.</p>
+<p>Administración de la Generalitat.</p>
+<p>Cuerpo C1-08: Especialistas en campos y cosechas de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-09: Capataz agrícola de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-14: Especialistas técnicos en investigación de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-03-02. Especialista cocina.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C1-19: Especialistas de cocina de la Administración de la Generalitat.</td>
+<td>C1-03-02. Especialista cocina.</td>
+<td>Cuerpo C1-19: Especialistas de cocina de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-03-03. Edificación y obra civil.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C1-05: Especialistas en delineación de la Administración de la Generalitat.</td>
+<td>C1-03-03. Edificación y obra civil.</td>
+<td>Cuerpo C1-05: Especialistas en delineación de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-04. Cuerpo Especialistas de atención sociosanitaria, educación especial y cuidados auxiliares de enfermería.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C1-04. Cuerpo Especialistas de atención sociosanitaria, educación especial y cuidados auxiliares de enfermería.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-04-01. Atención sociosanitaria.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C1-12: Especialistas de atención sociosanitaria de la Administración de la Generalitat.</td>
+<td>C1-04-01. Atención sociosanitaria.</td>
+<td>Cuerpo C1-12: Especialistas de atención sociosanitaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-04-02. Cuidados auxiliares de enfermería.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C1-18: Especialistas de enfermería de la Administración de la Generalitat.</td>
+<td>C1-04-02. Cuidados auxiliares de enfermería.</td>
+<td>Cuerpo C1-18: Especialistas de enfermería de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-04-03. Educación especial.</td>
-<td class="cuerpo_tabla_izq">C1-03. Especialistas en Educación Especial.</td>
+<td>C1-04-03. Educación especial.</td>
+<td>C1-03. Especialistas en Educación Especial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-05. Cuerpo Especialistas en la administración del medio ambiente.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C1-13: Especialistas en la administración del medio ambiente de la Administración de la Generalitat.</td>
+<td>C1-05. Cuerpo Especialistas en la administración del medio ambiente.</td>
+<td>Cuerpo C1-13: Especialistas en la administración del medio ambiente de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-06 Cuerpo Especialistas de mantenimiento, mecánica y obras públicas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Cuerpo C1-15: Especialistas de mantenimiento de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-16: Especialistas mecánicos de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C1-17: Especialistas obras públicas de la Administración de la Generalitat.</p>
+<td>C1-06 Cuerpo Especialistas de mantenimiento, mecánica y obras públicas.</td>
+<td>
+<p>Cuerpo C1-15: Especialistas de mantenimiento de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-16: Especialistas mecánicos de la Administración de la Generalitat.</p>
+<p>Cuerpo C1-17: Especialistas obras públicas de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">SUBGRUPO C2</td>
+<td colspan="2">SUBGRUPO C2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-02. Cuerpo de Servicios auxiliares de conducción de vehículos.</td>
-<td class="cuerpo_tabla_izq">Cuerpo C2-02: Servicios auxiliares generales de la Administración de la Generalitat.</td>
+<td>C2-02. Cuerpo de Servicios auxiliares de conducción de vehículos.</td>
+<td>Cuerpo C2-02: Servicios auxiliares generales de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-03. Cuerpo de Servicios auxiliares.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>C2-03. Cuerpo de Servicios auxiliares.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-03-01 servicios auxiliares generales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Cuerpo C2-03: Servicios auxiliares de mantenimiento de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-04: Servicios auxiliares de infraestructura y transporte de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-05: Servicios Auxiliares socio-sanitarios y educativos de la Administración de la Generalitat. Escalas C2-05-03 y C2-05-04.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-06: Servicios auxiliares de infraestructuras culturales y deportivas de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-07: Servicios auxiliares de agricultura, pesca y medio ambiente de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-08: Servicios auxiliares de seguridad y salud laborales de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-09: Servicios auxiliares de la investigación científica de la Administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">Cuerpo C2-10: Servicios auxiliares de la administración de justicia de la Administración de la Generalitat.</p>
+<td>C2-03-01 servicios auxiliares generales.</td>
+<td>
+<p>Cuerpo C2-03: Servicios auxiliares de mantenimiento de la Administración de la Generalitat.</p>
+<p>Cuerpo C2-04: Servicios auxiliares de infraestructura y transporte de la Administración de la Generalitat.</p>
+<p>Cuerpo C2-05: Servicios Auxiliares socio-sanitarios y educativos de la Administración de la Generalitat. Escalas C2-05-03 y C2-05-04.</p>
+<p>Cuerpo C2-06: Servicios auxiliares de infraestructuras culturales y deportivas de la Administración de la Generalitat.</p>
+<p>Cuerpo C2-07: Servicios auxiliares de agricultura, pesca y medio ambiente de la Administración de la Generalitat.</p>
+<p>Cuerpo C2-08: Servicios auxiliares de seguridad y salud laborales de la Administración de la Generalitat.</p>
+<p>Cuerpo C2-09: Servicios auxiliares de la investigación científica de la Administración de la Generalitat.</p>
+<p>Cuerpo C2-10: Servicios auxiliares de la administración de justicia de la Administración de la Generalitat.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-03-02 Auxiliar Cocina.</td>
-<td class="cuerpo_tabla_izq">Escala C2-05-02. Auxiliares de cocina.</td>
+<td>C2-03-02 Auxiliar Cocina.</td>
+<td>Escala C2-05-02. Auxiliares de cocina.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-03-03 Auxiliares de enfermería.</td>
-<td class="cuerpo_tabla_izq">EscalaC2-05-01. Auxiliares de enfermería.</td>
+<td>C2-03-03 Auxiliares de enfermería.</td>
+<td>EscalaC2-05-01. Auxiliares de enfermería.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>AGRUPACIÓN PROFESIONAL FUNCIONARIAL</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Agrupación profesional funcionarial.</td>
-<td class="cuerpo_tabla_izq">Todas las Agrupaciones profesionales funcionariales existentes.</td>
+<td>Agrupación profesional funcionarial.</td>
+<td>Todas las Agrupaciones profesionales funcionariales existentes.</td>
 </tr>
 </tbody>
 </table>
@@ -5169,148 +5165,144 @@ Funciones: Informar sobre la ubicación de locales y controlar los accesos a los
 
 Los funcionarios pertenecientes a los cuerpos, escalas o agrupación profesionales funcionariales vigentes a la entrada en vigor de la presente ley se integrarán en los cuerpos, escalas o agrupación profesional funcionarial siguientes:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">NUEVA LEY</th>
-<th class="cabeza_tabla">LEY 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gestión de la Función Pública valenciana</th>
+<th>NUEVA LEY</th>
+<th>LEY 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gestión de la Función Pública valenciana</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>CUERPOS GENERALES</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-S01: Cuerpo Superior de administración general sanitaria de la Administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">A1-S01: Cuerpo Superior de administración general sanitaria de la Administración de la Generalitat.</td>
+<td>A1-S01: Cuerpo Superior de administración general sanitaria de la Administración de la Generalitat.</td>
+<td>A1-S01: Cuerpo Superior de administración general sanitaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A2-S01: Cuerpo de gestión de administración general sanitaria de la Administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">A2-S01: Cuerpo de gestión de administración general sanitaria de la Administración de la Generalitat.</td>
+<td>A2-S01: Cuerpo de gestión de administración general sanitaria de la Administración de la Generalitat.</td>
+<td>A2-S01: Cuerpo de gestión de administración general sanitaria de la Administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desaparece.</td>
-<td class="cuerpo_tabla_izq">B-S01.</td>
+<td>Desaparece.</td>
+<td>B-S01.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-S01: Cuerpo Administrativo de gestión sanitaria de la administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">C1-S01: Cuerpo Administrativo de gestión sanitaria de la administración de la Generalitat.</td>
+<td>C1-S01: Cuerpo Administrativo de gestión sanitaria de la administración de la Generalitat.</td>
+<td>C1-S01: Cuerpo Administrativo de gestión sanitaria de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-S01: Cuerpo Auxiliar de gestión sanitaria de la administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">C2-S01: Cuerpo Auxiliar de gestión sanitaria de la administración de la Generalitat.</td>
+<td>C2-S01: Cuerpo Auxiliar de gestión sanitaria de la administración de la Generalitat.</td>
+<td>C2-S01: Cuerpo Auxiliar de gestión sanitaria de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>CUERPOS ESPECIALES</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">GRUPO A1</td>
+<td colspan="2">GRUPO A1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A1-S02: Cuerpo Superior Técnico de Inspección de Servicios Sanitarios.</td>
-<td class="cuerpo_tabla_izq">A1-S04: Cuerpo Superior Técnico de Inspección de Servicios Sanitarios.</td>
+<td>A1-S02: Cuerpo Superior Técnico de Inspección de Servicios Sanitarios.</td>
+<td>A1-S04: Cuerpo Superior Técnico de Inspección de Servicios Sanitarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A1-S03: Cuerpo Superior Técnico de Administración Sanitaria y Salud Pública.</p>
-<p class="cuerpo_tabla_izq">A1-S03-01: Médico de Administración Sanitaria y Salud Pública.</p>
-<p class="cuerpo_tabla_izq">A1-S03-02: Farmacia y Gestión Sanitaria y Salud Pública.</p>
-<p class="cuerpo_tabla_izq">A1-S03-03: Seguridad Alimentaria.</p>
-<p class="cuerpo_tabla_izq">A1-S03-04: Sanidad Ambiental.</p>
-<p class="cuerpo_tabla_izq">A1-S03-05: Laboratorio de análisis microbiológico.</p>
-<p class="cuerpo_tabla_izq">A1-S03-06: Laboratorio de análisis químico.</p>
-<p class="cuerpo_tabla_izq">A1-S03-07: Veterinarios de salud pública.</p>
-<p class="cuerpo_tabla_izq">A1-S03-08: Análisis epidemiológicos y estadísticas sanitarias.</p>
+<td>
+<p>A1-S03: Cuerpo Superior Técnico de Administración Sanitaria y Salud Pública.</p>
+<p>A1-S03-01: Médico de Administración Sanitaria y Salud Pública.</p>
+<p>A1-S03-02: Farmacia y Gestión Sanitaria y Salud Pública.</p>
+<p>A1-S03-03: Seguridad Alimentaria.</p>
+<p>A1-S03-04: Sanidad Ambiental.</p>
+<p>A1-S03-05: Laboratorio de análisis microbiológico.</p>
+<p>A1-S03-06: Laboratorio de análisis químico.</p>
+<p>A1-S03-07: Veterinarios de salud pública.</p>
+<p>A1-S03-08: Análisis epidemiológicos y estadísticas sanitarias.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A1-S02: Cuerpo Superior técnico de la administración sanitaria de la administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A1-S03: Cuerpo Superior técnico de salud pública de la administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A1-S02-01: Médico de administración sanitaria.</p>
-<p class="cuerpo_tabla_izq">A1-S03-01: Médicos de salud pública.</p>
-<p class="cuerpo_tabla_izq">A1-S02-02: Farmacéuticos de administración sanitaria.</p>
-<p class="cuerpo_tabla_izq">A1-S03-02: Farmacéuticos de salud pública.</p>
-<p class="cuerpo_tabla_izq">A1-S03-03: Seguridad Alimentaria.</p>
-<p class="cuerpo_tabla_izq">A1-S03-04: Sanidad Ambiental.</p>
-<p class="cuerpo_tabla_izq">A1-S03-05: Laboratorio de análisis microbiológico.</p>
-<p class="cuerpo_tabla_izq">A1-S03-06: Laboratorio de análisis químico.</p>
-<p class="cuerpo_tabla_izq">A1-S03-07: Veterinarios de salud pública.</p>
-<p class="cuerpo_tabla_izq">A1-S03-08: Análisis epidemiológicos y estadísticas sanitarias.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A1-S04: Cuerpo de Farmacéuticos titulares al servicio de la sanidad local de la administración de la Generalitat (a extinguir).</td>
-<td class="cuerpo_tabla_izq">A1-S04: Cuerpo de Farmacéuticos titulares al servicio de la sanidad local de la administración de la Generalitat (a extinguir).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" colspan="2">GRUPO A2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">A2-S02: Cuerpo Enfermero Inspector Servicios Sanitarios.</td>
-<td class="cuerpo_tabla_izq">A2-S04: Cuerpo Enfermero Inspector Servicios Sanitarios.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-S03: Cuerpo Superior de Gestión de la Administración Sanitaria y Salud Pública.</p>
-<p class="cuerpo_tabla_izq">A2-S03-01: Enfermeros de Gestión Sanitaria y Salud Pública.</p>
-<p class="cuerpo_tabla_izq">A2-S03-02: Seguridad Alimentaria y Laboratorio.</p>
-<p class="cuerpo_tabla_izq">A2-S03-03: Sanidad Ambiental.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">A2-S02: Cuerpo Superior técnico de administración sanitaria de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-S03: Cuerpo Superior de gestión de salud pública de la administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-S02: Cuerpo Superior técnico de administración sanitaria de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">A2-S03-01: Enfermeros/as de salud pública.</p>
-<p class="cuerpo_tabla_izq">A2-S03-02: Seguridad Alimentaria y Laboratorio.</p>
-<p class="cuerpo_tabla_izq">A2-S03-03: Sanidad Ambiental.</p>
+<td>
+<p>A1-S02: Cuerpo Superior técnico de la administración sanitaria de la administración de la Generalitat.</p>
+<p>A1-S03: Cuerpo Superior técnico de salud pública de la administración de la Generalitat.</p>
+<p>A1-S02-01: Médico de administración sanitaria.</p>
+<p>A1-S03-01: Médicos de salud pública.</p>
+<p>A1-S02-02: Farmacéuticos de administración sanitaria.</p>
+<p>A1-S03-02: Farmacéuticos de salud pública.</p>
+<p>A1-S03-03: Seguridad Alimentaria.</p>
+<p>A1-S03-04: Sanidad Ambiental.</p>
+<p>A1-S03-05: Laboratorio de análisis microbiológico.</p>
+<p>A1-S03-06: Laboratorio de análisis químico.</p>
+<p>A1-S03-07: Veterinarios de salud pública.</p>
+<p>A1-S03-08: Análisis epidemiológicos y estadísticas sanitarias.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">GRUPO B</td>
+<td>A1-S04: Cuerpo de Farmacéuticos titulares al servicio de la sanidad local de la administración de la Generalitat (a extinguir).</td>
+<td>A1-S04: Cuerpo de Farmacéuticos titulares al servicio de la sanidad local de la administración de la Generalitat (a extinguir).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">B-S02: Cuerpo Técnico gestión de salud pública de la administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">B-S02-01: Vigilancia, prevención y promoción en salud pública.</p>
-<p class="cuerpo_tabla_izq">B-S02-02: Seguridad alimentaria y sanidad ambiental.</p>
-<p class="cuerpo_tabla_izq">B-S02-03: Laboratorio en salud pública.</p>
+<td colspan="2">GRUPO A2</td>
+</tr>
+<tr>
+<td>A2-S02: Cuerpo Enfermero Inspector Servicios Sanitarios.</td>
+<td>A2-S04: Cuerpo Enfermero Inspector Servicios Sanitarios.</td>
+</tr>
+<tr>
+<td>
+<p>A2-S03: Cuerpo Superior de Gestión de la Administración Sanitaria y Salud Pública.</p>
+<p>A2-S03-01: Enfermeros de Gestión Sanitaria y Salud Pública.</p>
+<p>A2-S03-02: Seguridad Alimentaria y Laboratorio.</p>
+<p>A2-S03-03: Sanidad Ambiental.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">B-S02: Cuerpo Técnico gestión de salud pública de la administración de la Generalitat.</p>
-<p class="cuerpo_tabla_izq">B-S02-01: Vigilancia, prevención y promoción en salud pública.</p>
-<p class="cuerpo_tabla_izq">B-S02-02: Seguridad alimentaria y sanidad ambiental.</p>
-<p class="cuerpo_tabla_izq">B-S02-03: Laboratorio en salud pública.</p>
+<td>
+<p>A2-S02: Cuerpo Superior técnico de administración sanitaria de la Generalitat.</p>
+<p>A2-S03: Cuerpo Superior de gestión de salud pública de la administración de la Generalitat.</p>
+<p>A2-S02: Cuerpo Superior técnico de administración sanitaria de la Generalitat.</p>
+<p>A2-S03-01: Enfermeros/as de salud pública.</p>
+<p>A2-S03-02: Seguridad Alimentaria y Laboratorio.</p>
+<p>A2-S03-03: Sanidad Ambiental.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">GRUPO C1</td>
+<td colspan="2">GRUPO B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C1-S02: Cuerpo Especialistas en salud pública de la administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">C1-S02: Cuerpo Especialistas en salud pública de la administración de la Generalitat.</td>
+<td>
+<p>B-S02: Cuerpo Técnico gestión de salud pública de la administración de la Generalitat.</p>
+<p>B-S02-01: Vigilancia, prevención y promoción en salud pública.</p>
+<p>B-S02-02: Seguridad alimentaria y sanidad ambiental.</p>
+<p>B-S02-03: Laboratorio en salud pública.</p>
+</td>
+<td>
+<p>B-S02: Cuerpo Técnico gestión de salud pública de la administración de la Generalitat.</p>
+<p>B-S02-01: Vigilancia, prevención y promoción en salud pública.</p>
+<p>B-S02-02: Seguridad alimentaria y sanidad ambiental.</p>
+<p>B-S02-03: Laboratorio en salud pública.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">GRUPO C2</td>
+<td colspan="2">GRUPO C1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C2-S02: Cuerpo Auxiliares de salud pública de la administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">C2-S02: Cuerpo Auxiliares de salud pública de la administración de la Generalitat.</td>
+<td>C1-S02: Cuerpo Especialistas en salud pública de la administración de la Generalitat.</td>
+<td>C1-S02: Cuerpo Especialistas en salud pública de la administración de la Generalitat.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">GRUPO C2</td>
+</tr>
+<tr>
+<td>C2-S02: Cuerpo Auxiliares de salud pública de la administración de la Generalitat.</td>
+<td>C2-S02: Cuerpo Auxiliares de salud pública de la administración de la Generalitat.</td>
+</tr>
+<tr>
+<td colspan="2">
 <em>APF</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APF-S01: Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.</td>
-<td class="cuerpo_tabla_izq">APF-S01: Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.</td>
+<td>APF-S01: Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.</td>
+<td>APF-S01: Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.</td>
 </tr>
 </tbody>
 </table>

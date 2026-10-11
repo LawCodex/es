@@ -1215,227 +1215,216 @@ Segundo semiperiodo regulatorio: años 2017, 2018 y 2019
 
 1\. Parámetros retributivos de la instalación tipo aplicables en 2017, 2018 y 2019: retribución a la inversión, número de horas equivalentes de funcionamiento mínimo, umbral de funcionamiento y otros parámetros retributivos.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_17">
-<col class="row_column_12">
-<col class="row_column_12">
-<col class="row_column_24">
-<col class="row_column_25">
-<col class="row_column_26">
-<col class="row_column_17">
-<col class="row_column_17">
-<col class="row_column_17">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_27">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de identificación</p>
+<p>Código de identificación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Vida Útil Regulatoria (años)</p>
+<p>Vida Útil Regulatoria (años)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Coeficiente de ajuste C1,a</p>
+<p>Coeficiente de ajuste C1,a</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Retribución a la Inversión Rinv 2017-2019 (€/MW)</p>
+<p>Retribución a la Inversión Rinv 2017-2019 (€/MW)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh Anual 2017-2019 (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh Anual 2017-2019 (h)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Umbral de funcionamiento Uf Anual 2017-2019 (h)</p>
+<p>Umbral de funcionamiento Uf Anual 2017-2019 (h)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
 </td>
 </tr>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01529</p>
+<p>IT-01529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">168.064</p>
+<p>168.064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.100</p>
+<p>2.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">640</p>
+<p>640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15 %</p>
+<p>15 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30 %</p>
+<p>30 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45 %</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">IT-01530</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">169.744</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">640</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15 %</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30 %</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45 %</p>
+<p>45 %</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02079</p>
+<p>IT-01530</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">168.064</p>
+<p>169.744</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.100</p>
+<p>2.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">640</p>
+<p>640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15 %</p>
+<p>15 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30 %</p>
+<p>30 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45 %</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">IT-02080</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">169.744</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">640</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15 %</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30 %</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45 %</p>
+<p>45 %</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-04028</p>
+<p>IT-02079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,8704</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">117.162</p>
+<p>168.064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.100</p>
+<p>2.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">560</p>
+<p>640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20 %</p>
+<p>15 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40 %</p>
+<p>30 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50 %</p>
+<p>45 %</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-04029</p>
+<p>IT-02080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,8691</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">119.082</p>
+<p>169.744</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.100</p>
+<p>2.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">560</p>
+<p>640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20 %</p>
+<p>15 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40 %</p>
+<p>30 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50 %</p>
+<p>45 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-04028</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>0,8704</p>
+</td>
+<td>
+<p>117.162</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>560</p>
+</td>
+<td>
+<p>20 %</p>
+</td>
+<td>
+<p>40 %</p>
+</td>
+<td>
+<p>50 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-04029</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>0,8691</p>
+</td>
+<td>
+<p>119.082</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>560</p>
+</td>
+<td>
+<p>20 %</p>
+</td>
+<td>
+<p>40 %</p>
+</td>
+<td>
+<p>50 %</p>
 </td>
 </tr>
 </tbody>
@@ -1443,134 +1432,121 @@ Segundo semiperiodo regulatorio: años 2017, 2018 y 2019
 
 2\. Parámetros retributivos de las instalaciones tipo cuyos costes de explotación dependen esencialmente del precio de combustible: retribución a la operación para el primer y segundo semestre de 2017 y primer semestre de 2018 y parámetros A, B, y C de aplicación al segundo semestre de 2017 y primer semestre de 2018.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_29">
-<col class="row_column_23">
-<col class="row_column_14">
-<col class="row_column_30">
-<col class="row_column_31">
-<col class="row_column_30">
-<col class="row_column_26">
-<col class="row_column_30">
-<col class="row_column_16">
-<col class="row_column_30">
-<col class="row_column_32">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código IT</p>
+<p>Código IT</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Horas de funcionamiento máximo para la percepción de Ro Anual (h)</p>
+<p>Horas de funcionamiento máximo para la percepción de Ro Anual (h)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Retribución a la operación Ro (€/MWh) 1º semestre 2017</p>
+<p>Retribución a la operación Ro (€/MWh) 1º semestre 2017</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">2.º sem. 2017</p>
+<p>2.º sem. 2017</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Retribución a la operación Ro (€/MWh) 2.º semestre 2017</p>
+<p>Retribución a la operación Ro (€/MWh) 2.º semestre 2017</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">1.º sem. 2018</p>
+<p>1.º sem. 2018</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Retribución a la operación Ro (€/MWh) 1º semestre 2018</p>
+<p>Retribución a la operación Ro (€/MWh) 1º semestre 2018</p>
 </td>
 </tr>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cabeza_tabla">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cabeza_tabla">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
+<p>C</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01529</p>
+<p>IT-01529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,898</p>
+<p>70,898</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,825</p>
+<p>1,825</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,496</p>
+<p>70,496</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,836</p>
+<p>1,836</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,005</p>
+<p>1,005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,774</p>
+<p>1,774</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">71,788</p>
+<p>71,788</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01530</p>
+<p>IT-01530</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">71,474</p>
+<p>71,474</p>
 </td>
 </tr>
 </tbody>
@@ -1578,127 +1554,115 @@ Segundo semiperiodo regulatorio: años 2017, 2018 y 2019
 
 3\. Parámetros retributivos de las instalaciones tipo cuyos costes de explotación dependen esencialmente del precio de combustible: parámetros A, B, y C de aplicación al segundo semestre de 2018 y primer y segundo semestre de 2019.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_34">
-<col class="row_column_35">
-<col class="row_column_36">
-<col class="row_column_12">
-<col class="row_column_17">
-<col class="row_column_37">
-<col class="row_column_38">
-<col class="row_column_36">
-<col class="row_column_39">
-<col class="row_column_21">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_28">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Código IT</p>
+<p>Código IT</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">2.º sem. 2018</p>
+<p>2.º sem. 2018</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">1.º sem. 2019</p>
+<p>1.º sem. 2019</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">2.º sem. 2019</p>
+<p>2.º sem. 2019</p>
 </td>
 </tr>
-<tr class="row_column_28">
+<tr>
 <td>
-<p class="cabeza_tabla">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cabeza_tabla">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cabeza_tabla">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
+<p>C</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01529</p>
+<p>IT-01529</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,836</p>
+<p>1,836</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,844</p>
+<p>1,844</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,004</p>
+<p>1,004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,101</p>
+<p>0,101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,844</p>
+<p>1,844</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 </tr>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01530</p>
+<p>IT-01530</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,825</p>
+<p>1,825</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,836</p>
+<p>1,836</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,005</p>
+<p>1,005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,099</p>
+<p>0,099</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,836</p>
+<p>1,836</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,000</p>
+<p>1,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 </tr>
 </tbody>

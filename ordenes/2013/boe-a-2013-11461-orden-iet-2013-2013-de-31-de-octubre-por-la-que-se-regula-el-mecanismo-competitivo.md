@@ -122,8 +122,6 @@ a) 240 horas anuales para el producto 5 MW, con un máximo de cuarenta horas men
 
 b) 360 horas anuales para el producto 40 MW, con un máximo de sesenta horas mensuales.
 
-> Téngase en cuenta que la sustitución de las referencias al producto «90 MW» por «40 MW» establecida por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751), será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
-
 > Se sustituyen las referencias al producto «90 MW» por «40 MW» por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751)
 
 > Esta modificación será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
@@ -200,8 +198,6 @@ e) Un consumidor podrá ser habilitado para participar en la subasta de asignaci
 
 En el caso en que un consumidor solicite ser habilitado para ambos productos, deberá hacerlo constar en su solicitud.
 
-> Téngase en cuenta que se amplían los plazos para solicitar la habilitación para participar en la subasta para la prestación del servicio de gestión de la demanda de interrumpibilidad a partir del 1 de enero de 2020, a los que hace referencia el apartado b) y los apartados c) y d) hasta el 30 de noviembre de 2019 y hasta el 15 de diciembre de 2019, respectivamente, según establece el art. único de la Orden TEC/897/2019, de 7 de agosto. [Ref. BOE-A-2019-12361](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12361)
-
 2\. Una vez obtenida la habilitación emitida por el operador del sistema, el consumidor podrá adherirse formalmente al marco legal establecido para la participación en la correspondiente subasta.
 
 La adhesión formal del consumidor al marco legal establecido para la subasta comportará la adhesión a las condiciones del servicio, y la obligación de prestar el mismo, en caso de resultar adjudicatario, salvo lo previsto para la exclusión del servicio en el artículo 11.9.
@@ -235,8 +231,6 @@ b) Criterios económicos: En situaciones en que la aplicación del servicio supo
 3\. Para la ejecución de la opción, el operador del sistema enviará, a través del sistema establecido para este fin, y de acuerdo a los procedimientos y plazos establecidos al efecto, una orden de reducción de potencia a los proveedores del servicio y éstos, en respuesta a dicha orden, reducirán su potencia activa demandada hasta cumplir con los valores de potencia residual comprometidos.
 
 En el caso de consumidores que hayan resultado adjudicatarios tanto del producto de 40 MW como del producto de 5 MW, la ejecución de la opción conllevará la prestación del servicio por la totalidad del potencial adjudicado en ambos productos.
-
-> Téngase en cuenta que la sustitución de las referencias al producto «90 MW» por «40 MW» establecida por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751), será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
 
 4\. La orden de reducción podrá ser cancelada con anterioridad al inicio del periodo de preaviso mínimo por el operador del sistema. En este caso la ejecución no se contabilizará a efectos del cómputo del número de horas al que se refiere el apartado 5 del artículo 5.
 
@@ -287,8 +281,6 @@ b) Para el producto de 40 MW: El consumo medio horario, menos el valor de la pot
 Estos valores serán sin perjuicio de lo establecido para las indisponibilidades en los siguientes apartados.
 
 c) En el caso de que el proveedor haya resultado adjudicatario de ambos productos, la comprobación del cumplimiento de los requisitos se realizará considerando lo dispuesto en el apartado b) anterior para el producto de 40 MW y, adicionalmente, lo dispuesto en el apartado a) considerando el recurso asignado para el producto de 5 MW por encima del asignado en el producto de 40 MW.
-
-> Téngase en cuenta que la sustitución de las referencias al producto «90 MW» por «40 MW» establecida por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751), será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
 
 3\. Los periodos de ejecución de la opción, así como la hora anterior y dos horas posteriores a la ejecución de la opción, no se contabilizarán en el cómputo del apartado 2 del presente artículo.
 
@@ -389,8 +381,6 @@ Para el producto de 5 MW se verificará que al menos el 55 % de la energía se c
 Para el producto de 5 MW, cuando el período de entrega sea diferente al establecido con carácter general en el artículo 5.2, el porcentaje de consumo de energía que se verificará en las horas correspondientes al periodo tarifario 6, se calculará como el producto del valor del 55 % por un porcentaje. Este porcentaje se calculará como el porcentaje de horas del periodo 6 que haya en ese periodo de entrega dividido entre el porcentaje total de horas del periodo 6 del período de entrega establecido con carácter general en el artículo 5.2.
 
 A los efectos de aplicación de este requisito, los períodos tarifarios a que se hace referencia en el mismo serán los definidos en el apartado 3.3 del anexo II de la Orden ITC/2794/2007, de 27 de septiembre.
-
-> Téngase en cuenta que la sustitución de las referencias al producto «90 MW» por «40 MW» establecida por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751), será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
 
 b) El número de horas con disponibilidad en las comunicaciones será superior al 90% de las horas de cada mes natural y al 95% de las horas en el periodo de entrega.
 
@@ -540,8 +530,6 @@ No obstante lo anterior, la Dirección General de Política Energética y Minas 
 
 No obstante, la Dirección General de Política Energética y Minas podrá autorizar la participación en el proceso de habilitación de las subastas para continuar prestando el servicio en el período de entrega siguiente a aquel en que se haya producido el desistimiento o el incumplimiento cuando el mismo se hubiese producido por motivos excepcionales debidamente justificados por el interesado.
 
-> Téngase en cuenta que la sustitución de las referencias al producto «90 MW» por «40 MW» establecida por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751), será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
-
 > Se sustituyen las referencias al producto «90 MW» por «40 MW» por el art. único.1 de la Orden ETU/362/2018, de 6 de abril. [Ref. BOE-A-2018-4751](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4751)
 
 > Esta modificación será de aplicación a partir del periodo de entrega que comienza el 1 de junio de 2018.
@@ -606,38 +594,6 @@ Donde:
 
 Dichos valores deberán aparecer publicados en la página web del operador del sistema, previa aprobación por resolución de la Secretaría de Estado de Energía en el “Boletín Oficial del Estado”.
 
-> Téngase en cuenta que esta última actualización, establecida por el art.único.9 de la Orden ETU/1133/2017, de 21 de noviembre. [Ref. BOE-A-2017-13479](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13479), entra en vigor el 1 de enero de 2018, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. La retribución del servicio de interrumpibilidad estará constituida por dos términos, uno fijo asociado a la disponibilidad de potencia y otro variable asociado a la ejecución efectiva de una orden de reducción de potencia:
-
-> 2\. El proveedor recibirá una retribución mensual asociada a la disponibilidad de potencia correspondiente a una doceava parte de la cantidad resultante de multiplicar la cantidad de potencia expresada en MW adjudicada en la subasta, por el precio resultante de la misma en euros/MW y año, según la fórmula siguiente:
-
-> R<sub>mmax </sub>= (1/12)*P<sub>sub</sub>* Precio
-
-> Donde:
-
-> P<sub>sub</sub>=Potencia asignada en la subasta (MW).
-
-> Precio=Precio de adjudicación en la subasta (€/MW año).
-
-> 3\. El proveedor recibirá una retribución asociada a la ejecución de la opción de reducción de demanda. Dicho pago se calculará como:
-
-> R<sub>eoi </sub>= P<sub>sub</sub> * t<sub>eoi</sub> * Pr<sub>eoi</sub>
-
-> Dónde:
-
-> R<sub>eoi </sub>es la retribución en € de la ejecución de la opción i para el proveedor.
-
-> P<sub>sub </sub>es la potencia asignada en la subasta.
-
-> t<sub>eoi </sub>es el periodo de ejecución de la opción i en horas.
-
-> Pr<sub>eoi </sub>es el precio de referencia en €/MWh para la ejecución de la opción i y que se calculará como un valor indexado al precio estimado de la reserva de regulación terciaria ponderado por un coeficiente k<sub>a</sub>, k<sub>b</sub> o k<sub>c</sub> función de la opción de ejecución A, B o C solicitada por el operador del sistema.
-
-> El operador del sistema enviará a la Secretaría de Estado de Energía, junto a la información a la que se refiere el artículo 4.2 de la presente orden, una propuesta de valores de los coeficientes k<sub>a</sub>, k<sub>b</sub> y k<sub>c </sub>para cada periodo de entrega."
-
 > Se modifica, con efectos de 1 de enero de 2018, por el art.único.9 de la Orden ETU/1133/2017, de 21 de noviembre. [Ref. BOE-A-2017-13479](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13479)
 
 ### Artículo 13. Liquidación del servicio.
@@ -659,32 +615,6 @@ b) El coste variable horario y la energía reducida se liquidarán según el pro
 4\. Los proveedores adjudicatarios de la subasta no podrán ceder, en todo o en parte, ni los derechos ni las obligaciones de pago derivados de la prestación del servicio.
 
 5\. El coste imputable a la organización de las subastas al que hace referencia el artículo 4.6, será facturado por el operador del sistema una vez finalizado el procedimiento de subastas para cada periodo de entrega a los proveedores adjudicatarios del mismo.
-
-> Téngase en cuenta que esta última actualización, establecida por el art.único.10 de la Orden ETU/1133/2017, de 21 de noviembre. [Ref. BOE-A-2017-13479](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13479), entra en vigor el 1 de enero de 2018, excepto el apartado 5, que tiene efectos desde el 24 de noviembre de 2017, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Corresponderá al operador del sistema la liquidación tanto del servicio de gestión de la demanda de interrumpibilidad que presten los proveedores adjudicatarios de la subasta, como de las obligaciones de pago que se deriven del incumplimiento de los requisitos y condiciones, de acuerdo a lo establecido en la presente orden.
-
-> Por resolución de la Secretaría de Estado de Energía se aprobará el correspondiente procedimiento de liquidación.
-
-> 2\. El esquema de liquidaciones será el siguiente:
-
-> 2.1 La liquidación del servicio de interrumpibilidad se realizará de forma mensual.
-
-> 2.2 La liquidación del servicio se realizará tomando en consideración los siguientes elementos:
-
-> a) El coste del servicio de interrumpibilidad será soportado por:
-
-> i. La demanda asumirá la totalidad del coste fijo mensual de manera proporcional a su consumo en barras de central, integrándose a efectos de su liquidación por el operador del sistema como un coste de energía en el mercado.
-
-> ii. El coste variable horario y la energía reducida se integrarán con las energías de balance según el procedimiento de operación de liquidación de desvíos.
-
-> b) La liquidación efectuada por el operador del sistema incorporará al menos los siguientes conceptos:
-
-> i. La retribución del servicio de acuerdo a lo establecido en el artículo 12.
-
-> ii. En su caso, las obligaciones de pago derivadas de los correspondientes incumplimientos."
 
 > Se modifica, con efectos de 1 de enero de 2018, excepto el apartado 5 que tiene efectos desde el 24 de noviembre de 2017, por el art.único.10 de la Orden ETU/1133/2017, de 21 de noviembre. [Ref. BOE-A-2017-13479](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13479)
 
@@ -765,16 +695,6 @@ Del cálculo resultante del párrafo anterior se detraerá, para cada proveedor,
 3\. Los requisitos del cumplimiento y las repercusiones del incumplimiento por parte de los proveedores del servicio de estas órdenes de reducción de potencia serán los establecidos en los artículos 9, 10 y 11 de la presente orden. Asimismo, el operador del sistema enviará estas órdenes a través del sistema, procedimientos y plazos, así como con la información que determinan los artículos 8.3 y 8.5 de la presente orden.
 
 4\. Las opciones de ejecución que el operador del sistema emita por criterios técnicos y económicos al amparo de lo dispuesto en el artículo 8, que resulten correctamente cumplidas, computarán como opciones de ejecución de prueba a efectos de lo dispuesto en el apartado 1.
-
-> Téngase en cuenta que esta última actualización, establecida por el art.único.11 de la Orden ETU/1133/2017, de 21 de noviembre. [Ref. BOE-A-2017-13479](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13479), entra en vigor el 1 de enero de 2018, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "A los efectos de comprobar el funcionamiento efectivo del servicio de gestión de la demanda de interrumpibilidad, el operador del sistema aplicará de manera aleatoria dicho servicio en cada período de entrega, en el 1 por ciento de las horas del año.
-
-> En estos casos la muestra elegida de proveedores del servicio deberá representar al menos un porcentaje de reducción de la potencia activa demandada del 5 por ciento sobre el conjunto de reducción de la potencia activa contratada para el conjunto de proveedores del servicio. La aplicación se realizará de forma que se compruebe el funcionamiento efectivo del servicio para todos los proveedores sin que pueda existir discriminación de ningún tipo.
-
-> En estos casos no se percibirá retribución por el término variable asociado a la aplicación efectiva del servicio, regulado en el apartado 3 del artículo 12.Los requisitos del cumplimiento y las repercusiones del incumplimiento por parte de los proveedores del servicio de estas órdenes de reducción de potencia serán los establecidos en los artículos 9, 10 y 11 de la presente orden. Asimismo, el operador del sistema enviará estas órdenes a través del sistema, procedimientos y plazos, así como con la información que determinan los apartados 3 y 5 del artículo 8 de la presente orden."
 
 > Se modifica, con efectos de 1 de enero de 2018, por el art.único.11 de la Orden ETU/1133/2017, de 21 de noviembre. [Ref. BOE-A-2017-13479](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13479)
 

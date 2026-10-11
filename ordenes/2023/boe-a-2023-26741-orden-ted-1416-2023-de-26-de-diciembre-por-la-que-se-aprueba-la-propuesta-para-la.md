@@ -150,286 +150,279 @@ Los espacios que se proponen como LIC en el artículo 3 albergan los siguientes 
 
 Los espacios marinos declarados ZEPA en el artículo 4 albergan las siguientes especies de aves marinas incluidas en el anexo IV de la Ley 42/2007, de 13 de diciembre y especies de aves marinas migratorias de presencia regular:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col width="10%">
-<col width="20%">
-<col width="30%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre</th>
-<th class="cabeza_tabla">Código ZEPA</th>
-<th class="cabeza_tabla">Especies aves anexo IV</th>
-<th class="cabeza_tabla">Especies migratorias de presencia regular (no anexo IV)</th>
-<th class="cabeza_tabla">Nombre común</th>
+<th>Nombre</th>
+<th>Código ZEPA</th>
+<th>Especies aves anexo IV</th>
+<th>Especies migratorias de presencia regular (no anexo IV)</th>
+<th>Nombre común</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="28">Corredor migratorio galaico-cantábrico occidental.</td>
-<td class="cuerpo_tabla_centro" rowspan="28">ES0000554</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td rowspan="28">Corredor migratorio galaico-cantábrico occidental.</td>
+<td rowspan="28">ES0000554</td>
+<td> </td>
+<td>
 <em>Alca torda.</em>
 </td>
-<td class="cuerpo_tabla_izq">Alca común.</td>
+<td>Alca común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Anas acuta.</em>
 </td>
-<td class="cuerpo_tabla_izq">Ánade rabudo.</td>
+<td>Ánade rabudo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Calonectris borealis.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Pardela cenicienta atlántica.</td>
+<td> </td>
+<td>Pardela cenicienta atlántica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Chlidonias niger.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fumarel común.</td>
+<td> </td>
+<td>Fumarel común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Chroicocephalus ridibundus.</em>
 </td>
-<td class="cuerpo_tabla_izq">Gaviota reidora.</td>
+<td>Gaviota reidora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Gavia arctica.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Colimbo ártico.</td>
+<td> </td>
+<td>Colimbo ártico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Gavia immer.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Colimbo grande.</td>
+<td> </td>
+<td>Colimbo grande.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Gavia stellata.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Colimbo chico.</td>
+<td> </td>
+<td>Colimbo chico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Gulosus aristotelis aristotelis.</em>
 </td>
-<td class="cuerpo_tabla_izq">Cormorán moñudo atlántico.</td>
+<td>Cormorán moñudo atlántico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Hydrobates leucorhous.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Paíño boreal.</td>
+<td> </td>
+<td>Paíño boreal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Hydrobates pelagicus.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Paíño europeo.</td>
+<td> </td>
+<td>Paíño europeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Hydrocoloeus minutus.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Gaviota enana.</td>
+<td> </td>
+<td>Gaviota enana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Larus fuscus.</em>
 </td>
-<td class="cuerpo_tabla_izq">Gaviota sombría.</td>
+<td>Gaviota sombría.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Larus marinus.</em>
 </td>
-<td class="cuerpo_tabla_izq">Gavión atlántico.</td>
+<td>Gavión atlántico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Larus melanocephalus.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Gaviota cabecinegra.</td>
+<td> </td>
+<td>Gaviota cabecinegra.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Larus michahellis.</em>
 </td>
-<td class="cuerpo_tabla_izq">Gaviota patiamarilla.</td>
+<td>Gaviota patiamarilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Mareca penelope.</em>
 </td>
-<td class="cuerpo_tabla_izq">Silbón europeo.</td>
+<td>Silbón europeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Melanitta nigra.</em>
 </td>
-<td class="cuerpo_tabla_izq">Negrón común.</td>
+<td>Negrón común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Mergus serrator.</em>
 </td>
-<td class="cuerpo_tabla_izq">Serreta mediana.</td>
+<td>Serreta mediana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Puffinus mauretanicus.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Pardela balear.</td>
+<td> </td>
+<td>Pardela balear.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Pterodroma madeira.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Petrel de Madeira.</td>
+<td> </td>
+<td>Petrel de Madeira.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Rissa tridactyla.</em>
 </td>
-<td class="cuerpo_tabla_izq">Gaviota tridáctila.</td>
+<td>Gaviota tridáctila.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Sterna hirundo.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrán común.</td>
+<td> </td>
+<td>Charrán común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Sterna paradisaea.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrán ártico.</td>
+<td> </td>
+<td>Charrán ártico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Sternula albifrons.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrancito común.</td>
+<td> </td>
+<td>Charrancito común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Thalasseus sandvicensis.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrán patinegro.</td>
+<td> </td>
+<td>Charrán patinegro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Uria aalge.</em>
 </td>
-<td class="cuerpo_tabla_izq">Arao común.</td>
+<td>Arao común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Uria aalge albionis.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Arao ibérico.</td>
+<td> </td>
+<td>Arao ibérico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">Estrecho Occidental.</td>
-<td class="cuerpo_tabla_centro" rowspan="9">ESZZ12004</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td rowspan="9">Estrecho Occidental.</td>
+<td rowspan="9">ESZZ12004</td>
+<td> </td>
+<td>
 <em>Alca torda.</em>
 </td>
-<td class="cuerpo_tabla_izq">Alca común.</td>
+<td>Alca común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Calonectris diomedea.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Pardela cenicienta mediterránea.</td>
+<td> </td>
+<td>Pardela cenicienta mediterránea.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Chlidonias niger.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fumarel común.</td>
+<td> </td>
+<td>Fumarel común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
+<td> </td>
+<td>
 <em>Chroicocephalus ridibundus.</em>
 </td>
-<td class="cuerpo_tabla_izq">Gaviota reidora.</td>
+<td>Gaviota reidora.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Larus audouinii.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Gaviota de Audouin.</td>
+<td> </td>
+<td>Gaviota de Audouin.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Puffinus mauretanicus.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Pardela balear.</td>
+<td> </td>
+<td>Pardela balear.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Sternula albifrons.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrancito común.</td>
+<td> </td>
+<td>Charrancito común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Sterna hirundo.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrán común.</td>
+<td> </td>
+<td>Charrán común.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Thalasseus sandvicensis.</em>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Charrán patinegro.</td>
+<td> </td>
+<td>Charrán patinegro.</td>
 </tr>
 </tbody>
 </table>

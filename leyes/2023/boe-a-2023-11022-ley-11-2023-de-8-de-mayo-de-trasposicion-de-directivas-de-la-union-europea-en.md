@@ -3946,392 +3946,376 @@ k) Privacidad. Cuando el producto o servicio presente características que permi
 
 #### Sección I. Ejemplos relacionados con los requisitos generales de accesibilidad de todos los productos incluidos en el ámbito de aplicación del título I de la presente ley de conformidad con el artículo 2.1
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Requisitos de la sección I del anexo I</th>
-<th class="cabeza_tabla">Ejemplos</th>
+<th>Requisitos de la sección I del anexo I</th>
+<th>Ejemplos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">1. Suministro de información.</td>
+<td colspan="2">1. Suministro de información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> a)</td>
+<td colspan="2"> a)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando información visual y táctil o información visual y auditiva en el lugar en el que debe insertarse la tarjeta en un terminal de autoservicio, de manera que las personas ciegas y las personas sordas puedan hacer uso del terminal.</td>
+<td> 1.º)</td>
+<td>Proporcionando información visual y táctil o información visual y auditiva en el lugar en el que debe insertarse la tarjeta en un terminal de autoservicio, de manera que las personas ciegas y las personas sordas puedan hacer uso del terminal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor. Lo anterior puede cumplirse utilizando la técnica de lectura fácil.</td>
+<td> 2.º)</td>
+<td>Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor. Lo anterior puede cumplirse utilizando la técnica de lectura fácil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando un formato con relieve táctil o un sonido además de una advertencia de texto, de manera que las personas ciegas puedan percibirla.</td>
+<td> 3.º)</td>
+<td>Proporcionando un formato con relieve táctil o un sonido además de una advertencia de texto, de manera que las personas ciegas puedan percibirla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 4.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
+<td> 4.º)</td>
+<td>Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> b)</td>
+<td colspan="2"> b)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando archivos electrónicos que puedan ser leídos por ordenadores mediante el uso de lectores de pantalla, de manera que las personas ciegas puedan hacer uso de la información.</td>
+<td> 1.º)</td>
+<td>Proporcionando archivos electrónicos que puedan ser leídos por ordenadores mediante el uso de lectores de pantalla, de manera que las personas ciegas puedan hacer uso de la información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor. Ofreciendo tiempos de respuesta suficientes y reduciendo estímulos distractores o molestos.</td>
+<td> 2.º)</td>
+<td>Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor. Ofreciendo tiempos de respuesta suficientes y reduciendo estímulos distractores o molestos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Incluyendo subtítulos e interpretación en lengua de signos cuando se proporcionen instrucciones en vídeo.</td>
+<td> 3.º)</td>
+<td>Incluyendo subtítulos e interpretación en lengua de signos cuando se proporcionen instrucciones en vídeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 4.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
+<td> 4.º)</td>
+<td>Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 5.º)</td>
-<td class="cuerpo_tabla_izq">Imprimiendo en Braille, de manera que una persona ciega pueda usar la información.</td>
+<td> 5.º)</td>
+<td>Imprimiendo en Braille, de manera que una persona ciega pueda usar la información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 6.º)</td>
-<td class="cuerpo_tabla_izq">Acompañando un diagrama con un texto descriptivo que defina los elementos principales o describa las acciones clave.</td>
+<td> 6.º)</td>
+<td>Acompañando un diagrama con un texto descriptivo que defina los elementos principales o describa las acciones clave.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 7.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 7.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 8.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 8.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 9.º)</td>
-<td class="cuerpo_tabla_izq">Incluyendo en un cajero automático una toma de conexión y un programa informático que permita enchufar un auricular que reciba el texto mostrado en la pantalla en forma de sonido.</td>
+<td> 9.º)</td>
+<td>Incluyendo en un cajero automático una toma de conexión y un programa informático que permita enchufar un auricular que reciba el texto mostrado en la pantalla en forma de sonido.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">2. Interfaz de usuario y diseño de funcionalidad.</td>
+<td colspan="2">2. Interfaz de usuario y diseño de funcionalidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> a)</td>
-<td class="cuerpo_tabla_izq">Facilitando instrucciones en forma de voz y de texto, o incorporando señales táctiles en un teclado, de forma que las personas ciegas o con discapacidad auditiva puedan interactuar con el producto.</td>
+<td> a)</td>
+<td>Facilitando instrucciones en forma de voz y de texto, o incorporando señales táctiles en un teclado, de forma que las personas ciegas o con discapacidad auditiva puedan interactuar con el producto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> b)</td>
-<td class="cuerpo_tabla_izq">Ofreciendo en un terminal de autoservicio además de instrucciones orales por ejemplo instrucciones en forma de texto o imágenes, de manera que una persona sorda pueda realizar también la acción requerida.</td>
+<td> b)</td>
+<td>Ofreciendo en un terminal de autoservicio además de instrucciones orales por ejemplo instrucciones en forma de texto o imágenes, de manera que una persona sorda pueda realizar también la acción requerida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> c)</td>
-<td class="cuerpo_tabla_izq">Permitiendo a los usuarios ampliar el texto, enfocar en primer plano un pictograma particular aumentar el contraste o cambiar a modo oscuro, de manera que las personas con discapacidad visual puedan percibir la información.</td>
+<td> c)</td>
+<td>Permitiendo a los usuarios ampliar el texto, enfocar en primer plano un pictograma particular aumentar el contraste o cambiar a modo oscuro, de manera que las personas con discapacidad visual puedan percibir la información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> d)</td>
-<td class="cuerpo_tabla_izq">Además de dar a elegir entre pulsar el botón verde o el rojo para seleccionar una opción, escribiendo las opciones sobre los botones para permitir a las personas daltónicas elegir la opción deseada.</td>
+<td> d)</td>
+<td>Además de dar a elegir entre pulsar el botón verde o el rojo para seleccionar una opción, escribiendo las opciones sobre los botones para permitir a las personas daltónicas elegir la opción deseada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> e)</td>
-<td class="cuerpo_tabla_izq">Cuando un ordenador emite una señal de error, mostrando un texto escrito o una imagen que indique el error para que las personas sordas puedan percibir que se está produciendo un error.</td>
+<td> e)</td>
+<td>Cuando un ordenador emite una señal de error, mostrando un texto escrito o una imagen que indique el error para que las personas sordas puedan percibir que se está produciendo un error.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> f)</td>
-<td class="cuerpo_tabla_izq">Permitiendo aumentar el contraste en las imágenes en primer plano, de forma que las personas con baja visión puedan verlas.</td>
+<td> f)</td>
+<td>Permitiendo aumentar el contraste en las imágenes en primer plano, de forma que las personas con baja visión puedan verlas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> g)</td>
-<td class="cuerpo_tabla_izq">Permitiendo al usuario de un teléfono seleccionar el volumen del sonido y reducir las interferencias con las prótesis auditivas, de forma que las personas con discapacidad auditiva puedan usar el teléfono.</td>
+<td> g)</td>
+<td>Permitiendo al usuario de un teléfono seleccionar el volumen del sonido y reducir las interferencias con las prótesis auditivas, de forma que las personas con discapacidad auditiva puedan usar el teléfono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> h)</td>
-<td class="cuerpo_tabla_izq">Haciendo más grandes y separando bien los botones de las pantallas táctiles, de forma que las personas con temblores puedan pulsarlos.</td>
+<td> h)</td>
+<td>Haciendo más grandes y separando bien los botones de las pantallas táctiles, de forma que las personas con temblores puedan pulsarlos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> i)</td>
-<td class="cuerpo_tabla_izq">Velando por que los botones que se deban pulsar no requieran mucha fuerza, de modo que las personas con incapacidad motora puedan usarlos.</td>
+<td> i)</td>
+<td>Velando por que los botones que se deban pulsar no requieran mucha fuerza, de modo que las personas con incapacidad motora puedan usarlos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> j)</td>
-<td class="cuerpo_tabla_izq">Evitando las imágenes parpadeantes, de forma que las personas que sufren ataques epilépticos no corran riesgos.</td>
+<td> j)</td>
+<td>Evitando las imágenes parpadeantes, de forma que las personas que sufren ataques epilépticos no corran riesgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> k)</td>
-<td class="cuerpo_tabla_izq">Permitiendo el uso de auriculares cuando se ofrece información oral en un cajero automático.</td>
+<td> k)</td>
+<td>Permitiendo el uso de auriculares cuando se ofrece información oral en un cajero automático.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> l)</td>
-<td class="cuerpo_tabla_izq">Como alternativa al reconocimiento por huellas dactilares, permitiendo a los usuarios que no puedan hacer uso de sus manos elegir una contraseña para bloquear o desbloquear un teléfono.</td>
+<td> l)</td>
+<td>Como alternativa al reconocimiento por huellas dactilares, permitiendo a los usuarios que no puedan hacer uso de sus manos elegir una contraseña para bloquear o desbloquear un teléfono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> m)</td>
-<td class="cuerpo_tabla_izq">Velando por que el programa informático reaccione de manera predecible cuando se realiza una acción particular y dando tiempo suficiente para introducir una contraseña de manera que resulte fácil de utilizar para personas con discapacidad intelectual.</td>
+<td> m)</td>
+<td>Velando por que el programa informático reaccione de manera predecible cuando se realiza una acción particular y dando tiempo suficiente para introducir una contraseña de manera que resulte fácil de utilizar para personas con discapacidad intelectual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> n)</td>
-<td class="cuerpo_tabla_izq">Ofreciendo una conexión con una pantalla Braille, de forma que las personas ciegas puedan hacer uso del ordenador.</td>
+<td> n)</td>
+<td>Ofreciendo una conexión con una pantalla Braille, de forma que las personas ciegas puedan hacer uso del ordenador.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> o)</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> o)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 1.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 2.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º) i)</td>
-<td class="cuerpo_tabla_izq">Facilitando que un teléfono móvil pueda gestionar conversaciones en tiempo real, de forma que las personas con problemas auditivos puedan intercambiar información de manera interactiva.</td>
+<td> 3.º) i)</td>
+<td>Facilitando que un teléfono móvil pueda gestionar conversaciones en tiempo real, de forma que las personas con problemas auditivos puedan intercambiar información de manera interactiva.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º) iv)</td>
-<td class="cuerpo_tabla_izq">Permitiendo el uso simultáneo del vídeo para mostrar lengua de signos y texto para escribir un mensaje, de manera que dos personas sordas puedan comunicarse entre sí o con otra persona sin problemas auditivos.</td>
+<td> 3.º) iv)</td>
+<td>Permitiendo el uso simultáneo del vídeo para mostrar lengua de signos y texto para escribir un mensaje, de manera que dos personas sordas puedan comunicarse entre sí o con otra persona sin problemas auditivos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 4.º)</td>
-<td class="cuerpo_tabla_izq">Velando por que los subtítulos se transmitan a través del módulo de conexión para su uso por personas sordas.</td>
+<td> 4.º)</td>
+<td>Velando por que los subtítulos se transmitan a través del módulo de conexión para su uso por personas sordas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">3. Servicios de apoyo: No se aporta ejemplo.</td>
+<td colspan="2">3. Servicios de apoyo: No se aporta ejemplo.</td>
 </tr>
 </tbody>
 </table>
 
 #### Sección II. Ejemplos relacionados con los requisitos de accesibilidad de los productos del artículo 2.1, excepto los terminales de autoservicio a que se refiere el artículo 2.1.b)
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Requisitos de la sección II del anexo I</th>
-<th class="cabeza_tabla">Ejemplos</th>
+<th>Requisitos de la sección II del anexo I</th>
+<th>Ejemplos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Embalajes, etiquetado o envases e instrucciones de los productos.</td>
+<td colspan="2">Embalajes, etiquetado o envases e instrucciones de los productos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> a)</td>
-<td class="cuerpo_tabla_izq">Indicando en el embalaje que el teléfono incluye características de accesibilidad para personas con discapacidad.</td>
+<td> a)</td>
+<td>Indicando en el embalaje que el teléfono incluye características de accesibilidad para personas con discapacidad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> b)</td>
+<td colspan="2"> b)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando archivos electrónicos que puedan ser leídos por ordenadores mediante el uso de lectores de pantalla, de manera que las personas ciegas puedan hacer uso de la información.</td>
+<td> 1.º)</td>
+<td>Proporcionando archivos electrónicos que puedan ser leídos por ordenadores mediante el uso de lectores de pantalla, de manera que las personas ciegas puedan hacer uso de la información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor.</td>
+<td> 2.º)</td>
+<td>Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando un formato con relieve táctil o un sonido cuando se muestre una advertencia en el texto, de manera que las personas ciegas puedan apreciar la advertencia.</td>
+<td> 3.º)</td>
+<td>Proporcionando un formato con relieve táctil o un sonido cuando se muestre una advertencia en el texto, de manera que las personas ciegas puedan apreciar la advertencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 4.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
+<td> 4.º)</td>
+<td>Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 5.º)</td>
-<td class="cuerpo_tabla_izq">Imprimiendo en Braille, de manera que una persona ciega pueda leerlo.</td>
+<td> 5.º)</td>
+<td>Imprimiendo en Braille, de manera que una persona ciega pueda leerlo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 6.º)</td>
-<td class="cuerpo_tabla_izq">Complementando un diagrama, una fotografía o cualquier otra imagen con un texto descriptivo que defina los elementos principales o describa las acciones clave.</td>
+<td> 6.º)</td>
+<td>Complementando un diagrama, una fotografía o cualquier otra imagen con un texto descriptivo que defina los elementos principales o describa las acciones clave.</td>
 </tr>
 </tbody>
 </table>
 
 #### Sección III. Ejemplos relacionados con los requisitos generales de accesibilidad para todos los servicios incluidos en el ámbito de aplicación de la presente ley de conformidad con el artículo 2.2
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Requisitos de la sección III del anexo I</th>
-<th class="cabeza_tabla">Ejemplos</th>
+<th>Requisitos de la sección III del anexo I</th>
+<th>Ejemplos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Prestación de servicios.</td>
+<td colspan="2">Prestación de servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> a)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> a)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> b)</td>
+<td colspan="2"> b)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando archivos electrónicos que puedan ser leídos por ordenadores mediante el uso de lectores de pantalla, de manera que las personas ciegas puedan hacer uso de la información.</td>
+<td> 1.º)</td>
+<td>Proporcionando archivos electrónicos que puedan ser leídos por ordenadores mediante el uso de lectores de pantalla, de manera que las personas ciegas puedan hacer uso de la información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor.</td>
+<td> 2.º)</td>
+<td>Empleando las mismas palabras de forma sistemática o con una estructura clara y lógica, de manera que las personas con discapacidad intelectual puedan entenderlas mejor.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Proporcionando subtítulos e interpretación en lengua de signos cuando se presenta un vídeo con instrucciones.</td>
+<td> 3.º)</td>
+<td>Proporcionando subtítulos e interpretación en lengua de signos cuando se presenta un vídeo con instrucciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 4.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que una persona ciega pueda hacer uso de un archivo imprimiendo en Braille.</td>
+<td> 4.º)</td>
+<td>Facilitando que una persona ciega pueda hacer uso de un archivo imprimiendo en Braille.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 5.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
+<td> 5.º)</td>
+<td>Facilitando que el texto pueda ser leído por personas con discapacidad visual.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 6.º)</td>
-<td class="cuerpo_tabla_izq">Complementando un diagrama, u otro elemento visual, con un texto descriptivo que defina los elementos principales o describa las acciones clave.</td>
+<td> 6.º)</td>
+<td>Complementando un diagrama, u otro elemento visual, con un texto descriptivo que defina los elementos principales o describa las acciones clave.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 7.º)</td>
-<td class="cuerpo_tabla_izq">Cuando un prestador de servicios ofrezca una llave USB con información sobre el servicio, facilitando que esta información sea accesible.</td>
+<td> 7.º)</td>
+<td>Cuando un prestador de servicios ofrezca una llave USB con información sobre el servicio, facilitando que esta información sea accesible.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> c)</td>
-<td class="cuerpo_tabla_izq">Proporcionando un texto descriptivo de las imágenes, haciendo que todas las funcionalidades estén disponibles desde un teclado, proporcionando a los usuarios tiempo suficiente para leer, haciendo que el contenido se muestre y opere de forma predecible o proporcionando compatibilidad con tecnologías de apoyo, de manera que personas con discapacidades diversas puedan leer e interactuar con un sitio web.</td>
+<td> c)</td>
+<td>Proporcionando un texto descriptivo de las imágenes, haciendo que todas las funcionalidades estén disponibles desde un teclado, proporcionando a los usuarios tiempo suficiente para leer, haciendo que el contenido se muestre y opere de forma predecible o proporcionando compatibilidad con tecnologías de apoyo, de manera que personas con discapacidades diversas puedan leer e interactuar con un sitio web.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> d)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> d)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 </tbody>
 </table>
 
 #### Sección IV. Ejemplos relacionados con los requisitos adicionales de accesibilidad de servicios específicos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="10%">
-<col width="90%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Requisitos de la sección IV del anexo I</th>
-<th class="cabeza_tabla">Ejemplos</th>
+<th>Requisitos de la sección IV del anexo I</th>
+<th>Ejemplos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Servicios específicos.</td>
+<td colspan="2">Servicios específicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> a)</td>
+<td colspan="2"> a)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que las personas con problemas auditivos puedan escribir y recibir texto de forma interactiva y en tiempo real.</td>
+<td> 1.º)</td>
+<td>Facilitando que las personas con problemas auditivos puedan escribir y recibir texto de forma interactiva y en tiempo real.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que las personas sordas puedan utilizar la lengua de signos para comunicarse entre ellos.</td>
+<td> 2.º)</td>
+<td>Facilitando que las personas sordas puedan utilizar la lengua de signos para comunicarse entre ellos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que una persona con discapacidad de habla y auditiva que opta por utilizar una combinación de texto, voz y vídeo sepa que la comunicación es transmitida a través de la red a un servicio de emergencia.</td>
+<td> 3.º)</td>
+<td>Facilitando que una persona con discapacidad de habla y auditiva que opta por utilizar una combinación de texto, voz y vídeo sepa que la comunicación es transmitida a través de la red a un servicio de emergencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> b)</td>
+<td colspan="2"> b)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que una persona ciega pueda seleccionar programas en la televisión.</td>
+<td> 1.º)</td>
+<td>Facilitando que una persona ciega pueda seleccionar programas en la televisión.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Ofreciendo la posibilidad de seleccionar, personalizar y visualizar «servicios de acceso», como subtítulos para personas sordas o con problemas auditivos, descripción de audio, subtítulos hablados e interpretación de lengua de signos, ofreciendo medios que permitan una conexión inalámbrica eficaz con las tecnologías auditivas o bien poniendo a disposición de los usuarios los controles necesarios para activar «servicios de acceso» a servicios de comunicación audiovisual con el mismo grado de importancia que los controles de medios primarios.</td>
+<td> 2.º)</td>
+<td>Ofreciendo la posibilidad de seleccionar, personalizar y visualizar «servicios de acceso», como subtítulos para personas sordas o con problemas auditivos, descripción de audio, subtítulos hablados e interpretación de lengua de signos, ofreciendo medios que permitan una conexión inalámbrica eficaz con las tecnologías auditivas o bien poniendo a disposición de los usuarios los controles necesarios para activar «servicios de acceso» a servicios de comunicación audiovisual con el mismo grado de importancia que los controles de medios primarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> c)</td>
+<td colspan="2"> c)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 1.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 2.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> d)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> d)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> e)</td>
+<td colspan="2"> e)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Velando por que los diálogos de identificación en pantalla sean legibles mediante el uso de lectores de pantalla, de forma que las personas ciegas puedan usarlos.</td>
+<td> 1.º)</td>
+<td>Velando por que los diálogos de identificación en pantalla sean legibles mediante el uso de lectores de pantalla, de forma que las personas ciegas puedan usarlos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 2.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> f)</td>
+<td colspan="2"> f)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que una persona con dislexia pueda leer y escuchar el texto al mismo tiempo.</td>
+<td> 1.º)</td>
+<td>Facilitando que una persona con dislexia pueda leer y escuchar el texto al mismo tiempo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Habilitando la salida sincronizada del texto y el audio o una transcripción en una pantalla Braille.</td>
+<td> 2.º)</td>
+<td>Habilitando la salida sincronizada del texto y el audio o una transcripción en una pantalla Braille.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Facilitando que una persona ciega pueda acceder al índice o cambiar de capítulo.</td>
+<td> 3.º)</td>
+<td>Facilitando que una persona ciega pueda acceder al índice o cambiar de capítulo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 4.º)</td>
-<td class="cuerpo_tabla_izq">No se aporta ejemplo.</td>
+<td> 4.º)</td>
+<td>No se aporta ejemplo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 5.º)</td>
-<td class="cuerpo_tabla_izq">Garantizando que la información sobre sus características de accesibilidad esté disponible en el archivo electrónico, de manera que las personas con discapacidad puedan estar informadas.</td>
+<td> 5.º)</td>
+<td>Garantizando que la información sobre sus características de accesibilidad esté disponible en el archivo electrónico, de manera que las personas con discapacidad puedan estar informadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 6.º)</td>
-<td class="cuerpo_tabla_izq">Asegurándose de que no se bloquee, por ejemplo, de que las medidas de protección técnica, la información sobre gestión de derechos o las cuestiones de interoperabilidad no impidan que el texto pueda ser leído en voz alta por dispositivos de apoyo, de forma que las personas usuarias ciegas puedan leer el libro.</td>
+<td> 6.º)</td>
+<td>Asegurándose de que no se bloquee, por ejemplo, de que las medidas de protección técnica, la información sobre gestión de derechos o las cuestiones de interoperabilidad no impidan que el texto pueda ser leído en voz alta por dispositivos de apoyo, de forma que las personas usuarias ciegas puedan leer el libro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> g)</td>
+<td colspan="2"> g)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 1.º)</td>
-<td class="cuerpo_tabla_izq">Asegurándose de que la información disponible sobre las características de accesibilidad de un producto no se suprima.</td>
+<td> 1.º)</td>
+<td>Asegurándose de que la información disponible sobre las características de accesibilidad de un producto no se suprima.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 2.º)</td>
-<td class="cuerpo_tabla_izq">Haciendo que la interfaz de usuario del servicio de pago esté disponible por voz, de forma que las personas ciegas puedan hacer compras en línea de forma autónoma.</td>
+<td> 2.º)</td>
+<td>Haciendo que la interfaz de usuario del servicio de pago esté disponible por voz, de forma que las personas ciegas puedan hacer compras en línea de forma autónoma.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> 3.º)</td>
-<td class="cuerpo_tabla_izq">Velando por que los diálogos de identificación en pantalla sean legibles mediante el uso de lectores de pantalla, de forma que las personas ciegas puedan usarlos.</td>
+<td> 3.º)</td>
+<td>Velando por que los diálogos de identificación en pantalla sean legibles mediante el uso de lectores de pantalla, de forma que las personas ciegas puedan usarlos.</td>
 </tr>
 </tbody>
 </table>

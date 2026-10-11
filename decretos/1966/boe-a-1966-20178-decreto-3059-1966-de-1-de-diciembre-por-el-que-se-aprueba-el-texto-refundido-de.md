@@ -118,324 +118,324 @@ Estarán obligados al pago de esta tasa las personas físicas o jurídicas, así
 
 La tasa se exigirá conforme a las bases y tipos contenidos en las siguientes tarifas:
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Pesetas</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 1.ª Permisos de investigación en general.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por cada pertenencia y año se pagará:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para los permisos de minerales no metálicos, in­cluidos en la sección B) del artículo segundo de la Ley de Minas, excepto los combustibles minerales y las piedras preciosas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para los combustibles minerales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para los de minas de piedras preciosas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para los de minerales metálicos incluidos en la sección B) del artículo segundo de la Ley de Minas, excepto el hierro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">5.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para los de minerales de hierro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>Pesetas</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 2.ª Permisos de investigación de hidrocarburos.</p>
+<p>Tarifa 1.ª Permisos de investigación en general.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada hectárea y año, con exclusión de cual­quier área que sea objeto de concesión de explotación, se pagará:</p>
+<p>Por cada pertenencia y año se pagará:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante el periodo de vigencia del permiso</p>
+<p>Para los permisos de minerales no metálicos, in­cluidos en la sección B) del artículo segundo de la Ley de Minas, excepto los combustibles minerales y las piedras preciosas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>4,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.</p>
+<p>2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante la primera prórroga</p>
+<p>Para los combustibles minerales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.</p>
+<p>3.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante la segunda prórroga, si se concede</p>
+<p>Para los de minas de piedras preciosas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,00</p>
+<p>11,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4.</p>
+<p>4.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante la posible y excepcional tercera pró­rroga</p>
+<p>Para los de minerales metálicos incluidos en la sección B) del artículo segundo de la Ley de Minas, excepto el hierro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 3.ª Concesiones de explotación en general.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>11,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>5.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por cada pertenencia y año se pagará:</p>
+<p>Para los de minerales de hierro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para las concesiones de minerales no metálicos in­cluidos en la sección B) del artículo segundo de la Ley de Minas, excepto los combustibles mine­rales y las piedras preciosas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para las de combustibles minerales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para las de minas de piedras preciosas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para las de minerales metálicos incluidos en la sección B) del artículo 2.º de la Ley de Minas, ex­cepto el hierro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">23,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">5.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Para las de minas de hierro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>4,50</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 4.ª Concesiones de explotación de hidrocar­buros.</p>
+<p>Tarifa 2.ª Permisos de investigación de hidrocarburos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por cada hectárea y año:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante los cinco primeros años</p>
+<p>Por cada hectárea y año, con exclusión de cual­quier área que sea objeto de concesión de explotación, se pagará:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Durante los siguientes cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">47,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.</p>
+<p>1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante los siguientes cinco años</p>
+<p>Durante el periodo de vigencia del permiso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Durante los siguientes cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">156,80</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5.</p>
+<p>2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Durante los siguientes cinco años</p>
+<p>Durante la primera prórroga</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Durante los siguientes cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">62,70</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7.</p>
+<p>3.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde este momento hasta el final de la concesión</p>
+<p>Durante la segunda prórroga, si se concede</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,00</p>
+<p>4,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.</p>
+</td>
+<td>
+<p>Durante la posible y excepcional tercera pró­rroga</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Tarifa 3.ª Concesiones de explotación en general.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Por cada pertenencia y año se pagará:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.</p>
+</td>
+<td>
+<p>Para las concesiones de minerales no metálicos in­cluidos en la sección B) del artículo segundo de la Ley de Minas, excepto los combustibles mine­rales y las piedras preciosas</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td>
+<p>Para las de combustibles minerales</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td>
+<p>Para las de minas de piedras preciosas</p>
+</td>
+<td>
+<p>23,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.</p>
+</td>
+<td>
+<p>Para las de minerales metálicos incluidos en la sección B) del artículo 2.º de la Ley de Minas, ex­cepto el hierro</p>
+</td>
+<td>
+<p>23,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.</p>
+</td>
+<td>
+<p>Para las de minas de hierro</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Tarifa 4.ª Concesiones de explotación de hidrocar­buros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Por cada hectárea y año:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.</p>
+</td>
+<td>
+<p>Durante los cinco primeros años</p>
+</td>
+<td>
+<p>15,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td>
+<p>Durante los siguientes cinco años</p>
+</td>
+<td>
+<p>47,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td>
+<p>Durante los siguientes cinco años</p>
+</td>
+<td>
+<p>125,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.</p>
+</td>
+<td>
+<p>Durante los siguientes cinco años</p>
+</td>
+<td>
+<p>156,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.</p>
+</td>
+<td>
+<p>Durante los siguientes cinco años</p>
+</td>
+<td>
+<p>125,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.</p>
+</td>
+<td>
+<p>Durante los siguientes cinco años</p>
+</td>
+<td>
+<p>62,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.</p>
+</td>
+<td>
+<p>Desde este momento hasta el final de la concesión</p>
+</td>
+<td>
+<p>47,00</p>
 </td>
 </tr>
 </tbody>
@@ -517,253 +517,253 @@ Se exigirán estas tasas por el otorgamiento de las autoriza­ciones, prestacion
 
 La tasa se exigirá conforme a los tipos consignados en las siguientes tarifas:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Pesetas</p>
+<p>Pesetas</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 1.ª Concesiones y autorizaciones en materia de propiedad industrial.</p>
+<p>Tarifa 1.ª Concesiones y autorizaciones en materia de propiedad industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulos de concesiones mineras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">b)</p>
+<p>a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Titulos de concesiones mineras</p>
+</td>
+<td>
+<p>500,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b)</p>
+</td>
+<td>
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">c)</p>
+<p>c)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">d)</p>
+<p>d)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">e)</p>
+<p>e)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 2.ª Concesiones y autorizaciones en mate­ria de navegación marítima y aérea</p>
+<p>Tarifa 2.ª Concesiones y autorizaciones en mate­ria de navegación marítima y aérea</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patentes de navegación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">350,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">b)</p>
+<p>a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>Patentes de navegación</p>
+</td>
+<td>
+<p>350,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b)</p>
+</td>
+<td>
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">c)</p>
+<p>c)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">d)</p>
+<p>d)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>(Derogado)</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Tarifa 3.ª Registro de especialidades farmacéu­ticas.</p>
+<p>Tarifa 3.ª Registro de especialidades farmacéu­ticas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Autorizaciones de apertura y transferencia de laboratorios:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De laboratorios individuales</p>
+<p>Autorizaciones de apertura y transferencia de laboratorios:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De laboratorios colectivos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">b)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Registro y transferencia de especialidades:</p>
+<p>De laboratorios individuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">De autor español, cada una</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500,00</p>
+<p>500,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De autor extranjero, cada una</p>
+<p>De laboratorios colectivos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Informes o certificados expedidos a favor del in­teresado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p>1.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">c)</p>
+<p>b)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Toma de razón de los nombramientos de los far­macéuticos que dirijan los laboratorios de espe­cialidades o que legitimen éstas cuando sean ex­tranjeros..</p>
+<p>Registro y transferencia de especialidades:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">d)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por derechos de certificado y autorización para la preparación y venta cuando la especialidad se autorice</p>
+<p>De autor español, cada una</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p>500,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De autor extranjero, cada una</p>
+</td>
+<td>
+<p>1.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Informes o certificados expedidos a favor del in­teresado</p>
+</td>
+<td>
+<p>100,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c)</p>
+</td>
+<td>
+<p>Toma de razón de los nombramientos de los far­macéuticos que dirijan los laboratorios de espe­cialidades o que legitimen éstas cuando sean ex­tranjeros..</p>
+</td>
+<td>
+<p>100,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d)</p>
+</td>
+<td>
+<p>Por derechos de certificado y autorización para la preparación y venta cuando la especialidad se autorice</p>
+</td>
+<td>
+<p>100,00</p>
 </td>
 </tr>
 </tbody>

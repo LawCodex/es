@@ -2564,932 +2564,927 @@ b) Respecto a las cuotas del Impuesto soportadas en bienes de inversión cuyo in
 
 ## ANEXO 2.º — Relación de bienes muebles corporales cuya entrega o importación determina la realización del hecho imponible del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">P. Estadística</th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Tipo</th>
+<th>P. Estadística</th>
+<th>Descripción</th>
+<th>Tipo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Agricultura, ganadería, silvicultura y pesca</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0203.11</td>
-<td class="cuerpo_tabla_izq">En canales o medias canales. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0203.11</td>
+<td>En canales o medias canales. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0203.12</td>
-<td class="cuerpo_tabla_izq">Piernas, paletas y sus trozos sin deshuesar. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0203.12</td>
+<td>Piernas, paletas y sus trozos sin deshuesar. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0203.19</td>
-<td class="cuerpo_tabla_izq">Las demás. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0203.19</td>
+<td>Las demás. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0204.50</td>
-<td class="cuerpo_tabla_izq">Carne de animales de la especie caprina, fresca, refrigerada o congelada.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0204.50</td>
+<td>Carne de animales de la especie caprina, fresca, refrigerada o congelada.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0207.11</td>
-<td class="cuerpo_tabla_izq">Sin trocear, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0207.11</td>
+<td>Sin trocear, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0207.13</td>
-<td class="cuerpo_tabla_izq">Trozos y despojos, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0207.13</td>
+<td>Trozos y despojos, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0407.21.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás huevos frescos de gallina de la especie Gallus domesticus.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0407.21.00.00</td>
+<td>Los demás huevos frescos de gallina de la especie Gallus domesticus.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0603.11.00.00</td>
-<td class="cuerpo_tabla_izq">Rosas frescas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0603.11.00.00</td>
+<td>Rosas frescas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0701.90</td>
-<td class="cuerpo_tabla_izq">Patatas frescas o refrigeradas, excepto para siembra.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0701.90</td>
+<td>Patatas frescas o refrigeradas, excepto para siembra.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0703</td>
-<td class="cuerpo_tabla_izq">Cebollas, chalotes, ajos, puerros y demás hortalizas aliáceas, frescos o refrigerados. Solamente gravadas las cebollas.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0703</td>
+<td>Cebollas, chalotes, ajos, puerros y demás hortalizas aliáceas, frescos o refrigerados. Solamente gravadas las cebollas.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0706</td>
-<td class="cuerpo_tabla_izq">Zanahorias, nabos, remolachas para ensalada, salsifíes, apionabos, rábanos y raíces comestibles similares, frescos o refrigerados. Solamente gravadas las zanahorias.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0706</td>
+<td>Zanahorias, nabos, remolachas para ensalada, salsifíes, apionabos, rábanos y raíces comestibles similares, frescos o refrigerados. Solamente gravadas las zanahorias.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0708</td>
-<td class="cuerpo_tabla_izq">Hortalizas de vaina, aunque estén desvainadas, frescas o refrigeradas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0708</td>
+<td>Hortalizas de vaina, aunque estén desvainadas, frescas o refrigeradas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0810.10.00.00</td>
-<td class="cuerpo_tabla_izq">Fresas (frutillas), frescas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0810.10.00.00</td>
+<td>Fresas (frutillas), frescas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Minas y canteras</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2516.90.00.00</td>
-<td class="cuerpo_tabla_izq">Las demás piedras de talla o de construcción. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2516.90.00.00</td>
+<td>Las demás piedras de talla o de construcción. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6801</td>
-<td class="cuerpo_tabla_izq">Adoquines, encintado (bordillos) y losas para pavimentos, de piedra natural (excepto la pizarra). Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6801</td>
+<td>Adoquines, encintado (bordillos) y losas para pavimentos, de piedra natural (excepto la pizarra). Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6802</td>
-<td class="cuerpo_tabla_izq">Piedras de talla o de construcción trabajadas (excluida la pizarra) y sus manufacturas excepto de la partida 6801; cubos, dados y artículos similares para mosaicos, de piedra natural, incluida la pizarra, aunque estén sobre soporte; gránulos, tasquiles (fragmentos) y polvo de piedra natural (incluida la pizarra), coloreados artificialmente. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6802</td>
+<td>Piedras de talla o de construcción trabajadas (excluida la pizarra) y sus manufacturas excepto de la partida 6801; cubos, dados y artículos similares para mosaicos, de piedra natural, incluida la pizarra, aunque estén sobre soporte; gránulos, tasquiles (fragmentos) y polvo de piedra natural (incluida la pizarra), coloreados artificialmente. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6810</td>
-<td class="cuerpo_tabla_izq">Manufacturas de cemento, hormigón o piedra artificial, incluso armadas. Solamente gravada las manufacturas de hormigón prefabricadas, incluso armadas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6810</td>
+<td>Manufacturas de cemento, hormigón o piedra artificial, incluso armadas. Solamente gravada las manufacturas de hormigón prefabricadas, incluso armadas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Materiales de Construcción</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2523.29.00.00</td>
-<td class="cuerpo_tabla_izq">Cementos hidráulicos, cemento portland que no sea blanco.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2523.29.00.00</td>
+<td>Cementos hidráulicos, cemento portland que no sea blanco.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2523.90</td>
-<td class="cuerpo_tabla_izq">Los demás cementos hidráulicos que no sean clinker, portland o aluminosos.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2523.90</td>
+<td>Los demás cementos hidráulicos que no sean clinker, portland o aluminosos.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3816</td>
-<td class="cuerpo_tabla_izq">Cementos, morteros, hormigones y preparaciones similares, refractarios (excepto los productos de la partida 3801).</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3816</td>
+<td>Cementos, morteros, hormigones y preparaciones similares, refractarios (excepto los productos de la partida 3801).</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.40.00.00</td>
-<td class="cuerpo_tabla_izq">Aditivos preparados para cementos, morteros u hormigones.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3824.40.00.00</td>
+<td>Aditivos preparados para cementos, morteros u hormigones.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.50</td>
-<td class="cuerpo_tabla_izq">Morteros y hormigones, no refractarios.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3824.50</td>
+<td>Morteros y hormigones, no refractarios.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.99.70.00</td>
-<td class="cuerpo_tabla_izq">Preparaciones ignífugas, hidrófugas y otras, utilizadas para la protección de construcciones.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3824.99.70.00</td>
+<td>Preparaciones ignífugas, hidrófugas y otras, utilizadas para la protección de construcciones.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.99.96.99</td>
-<td class="cuerpo_tabla_izq">Los demás. Solamente gravados los convertidores, neutralizadores y transformadores del óxido.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3824.99.96.99</td>
+<td>Los demás. Solamente gravados los convertidores, neutralizadores y transformadores del óxido.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6809</td>
-<td class="cuerpo_tabla_izq">Manufacturas de yeso fraguable o de preparaciones a base de yeso fraguable.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6809</td>
+<td>Manufacturas de yeso fraguable o de preparaciones a base de yeso fraguable.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7006.00.90</td>
-<td class="cuerpo_tabla_izq">Los demás vidrios de las partidas 7003, 7004 o 7005, curvado, biselado, grabado, taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>7006.00.90</td>
+<td>Los demás vidrios de las partidas 7003, 7004 o 7005, curvado, biselado, grabado, taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7007.19</td>
-<td class="cuerpo_tabla_izq">Los demás vidrios de seguridad constituidos por vidrio templado.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>7007.19</td>
+<td>Los demás vidrios de seguridad constituidos por vidrio templado.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7008</td>
-<td class="cuerpo_tabla_izq">Vidrieras aislantes de paredes múltiples.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>7008</td>
+<td>Vidrieras aislantes de paredes múltiples.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7010</td>
-<td class="cuerpo_tabla_izq">Bombonas (damajuanas), botellas, frascos, bocales, tarros, envases tubulares, ampollas y demás recipientes para el transporte o envasado, de vidrio; bocales para conservas, de vidrio; tapones, tapas y demás dispositivos de cierre, de vidrio. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>7010</td>
+<td>Bombonas (damajuanas), botellas, frascos, bocales, tarros, envases tubulares, ampollas y demás recipientes para el transporte o envasado, de vidrio; bocales para conservas, de vidrio; tapones, tapas y demás dispositivos de cierre, de vidrio. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Química</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2804.30.00.00</td>
-<td class="cuerpo_tabla_izq">Nitrógeno.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2804.30.00.00</td>
+<td>Nitrógeno.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2804.40.00.00</td>
-<td class="cuerpo_tabla_izq">Oxígeno.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2804.40.00.00</td>
+<td>Oxígeno.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2807</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico; óleum. Solamente gravado el ácido sulfúrico con una concentración en peso menor o igual al 40%.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2807</td>
+<td>Ácido sulfúrico; óleum. Solamente gravado el ácido sulfúrico con una concentración en peso menor o igual al 40%.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2811.21.00.00</td>
-<td class="cuerpo_tabla_izq">Dióxido de carbono.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2811.21.00.00</td>
+<td>Dióxido de carbono.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2828.90.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Solamente gravado el hipoclorito de sodio.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>2828.90.00.00</td>
+<td>Los demás. Solamente gravado el hipoclorito de sodio.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3102.10.90.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Solamente gravado la urea en disolución acuosa con una concentración en peso igual o inferior al 41% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3102.10.90.00</td>
+<td>Los demás. Solamente gravado la urea en disolución acuosa con una concentración en peso igual o inferior al 41% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3105.20.90.00</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los demás. Abonos minerales o químicos con los tres elementos fertilizantes: nitrógeno, fósforo y potasio.</p>
-<p class="cuerpo_tabla_izq">Solamente gravados los productos a base de algas.</p>
+<td>3105.20.90.00</td>
+<td>
+<p>Los demás. Abonos minerales o químicos con los tres elementos fertilizantes: nitrógeno, fósforo y potasio.</p>
+<p>Solamente gravados los productos a base de algas.</p>
 </td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3208</td>
-<td class="cuerpo_tabla_izq">Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio no acuoso; disoluciones definidas en la nota 4 del capítulo. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3208</td>
+<td>Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio no acuoso; disoluciones definidas en la nota 4 del capítulo. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3209</td>
-<td class="cuerpo_tabla_izq">Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio acuoso. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>3209</td>
+<td>Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio acuoso. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3212.90.00.00</td>
-<td class="cuerpo_tabla_izq">Las demás. Solamente gravados los tintes y demás materiales colorantes en formas o envases para la venta al por menor.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3212.90.00.00</td>
+<td>Las demás. Solamente gravados los tintes y demás materiales colorantes en formas o envases para la venta al por menor.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3213</td>
-<td class="cuerpo_tabla_izq">Colores para la pintura artística, la enseñanza, la pintura de carteles, para matizar o para entretenimiento y colores similares, en pastillas, tubos, botes, frascos o en formas o envases similares.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3213</td>
+<td>Colores para la pintura artística, la enseñanza, la pintura de carteles, para matizar o para entretenimiento y colores similares, en pastillas, tubos, botes, frascos o en formas o envases similares.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3214</td>
-<td class="cuerpo_tabla_izq">Masilla, cementos de resina y demás mástiques; plastes (enduidos) utilizados en pintura, plastes (enduidos) no refractarios de los tipos utilizados en albañilería.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3214</td>
+<td>Masilla, cementos de resina y demás mástiques; plastes (enduidos) utilizados en pintura, plastes (enduidos) no refractarios de los tipos utilizados en albañilería.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3304.99.00.00</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones de belleza, maquillaje y para el cuidado de la piel (excepto los medicamentos), incluidas las preparaciones antisolares y las bronceadoras, preparaciones para manicuras o pedicuras. Solamente gravadas aquellas preparaciones con un contenido de aloe vera igual o superior al 30% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3304.99.00.00</td>
+<td>Las demás preparaciones de belleza, maquillaje y para el cuidado de la piel (excepto los medicamentos), incluidas las preparaciones antisolares y las bronceadoras, preparaciones para manicuras o pedicuras. Solamente gravadas aquellas preparaciones con un contenido de aloe vera igual o superior al 30% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3401</td>
-<td class="cuerpo_tabla_izq">Jabón; productos y preparaciones orgánicos tensoactivos usados como jabón, en barras, panes, trozos, o piezas troqueladas o moldeadas, aunque contengan jabón; productos y preparaciones orgánicos tensoactivos para el.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3401</td>
+<td>Jabón; productos y preparaciones orgánicos tensoactivos usados como jabón, en barras, panes, trozos, o piezas troqueladas o moldeadas, aunque contengan jabón; productos y preparaciones orgánicos tensoactivos para el.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">lavado de la piel, líquidos o en crema, acondicionados para la venta al por menor, aunque contengan jabón; papel, guata, fieltro y tela sin tejer, impregnados, recubiertos o revestidos de jabón o de detergentes.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>lavado de la piel, líquidos o en crema, acondicionados para la venta al por menor, aunque contengan jabón; papel, guata, fieltro y tela sin tejer, impregnados, recubiertos o revestidos de jabón o de detergentes.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3402</td>
-<td class="cuerpo_tabla_izq">Agentes de superficie orgánica (excepto el jabón), preparaciones tensoactivas, preparaciones para lavar, incluidas las preparaciones auxiliares de lavado, y preparaciones de limpieza, aunque contengan jabón, excepto las de la partida 3401. Se excluyen las partidas 3402.11, 3402.12, 3402.13 y 3402.19. Solamente gravados los productos en envases de contenido neto inferior a 200 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3402</td>
+<td>Agentes de superficie orgánica (excepto el jabón), preparaciones tensoactivas, preparaciones para lavar, incluidas las preparaciones auxiliares de lavado, y preparaciones de limpieza, aunque contengan jabón, excepto las de la partida 3401. Se excluyen las partidas 3402.11, 3402.12, 3402.13 y 3402.19. Solamente gravados los productos en envases de contenido neto inferior a 200 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3406</td>
-<td class="cuerpo_tabla_izq">Velas; cirios y artículos similares.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>3406</td>
+<td>Velas; cirios y artículos similares.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3814.00.90</td>
-<td class="cuerpo_tabla_izq">Los demás. Disolventes y diluyentes orgánicos compuestos, no expresados en otras partidas; preparaciones para quitar pinturas o barnices.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3814.00.90</td>
+<td>Los demás. Disolventes y diluyentes orgánicos compuestos, no expresados en otras partidas; preparaciones para quitar pinturas o barnices.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3916.90</td>
-<td class="cuerpo_tabla_izq">De los demás plásticos. Monofilamentos cuya mayor dimensión del corte transversal sea superior a 1mm, barras, varillas y perfiles, incluso trabajados en la superficie pero sin otra labor, de plástico.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3916.90</td>
+<td>De los demás plásticos. Monofilamentos cuya mayor dimensión del corte transversal sea superior a 1mm, barras, varillas y perfiles, incluso trabajados en la superficie pero sin otra labor, de plástico.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.21</td>
-<td class="cuerpo_tabla_izq">Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm. Excepto los destinados a la agricultura con gotero insertado.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3917.21</td>
+<td>Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm. Excepto los destinados a la agricultura con gotero insertado.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.21</td>
-<td class="cuerpo_tabla_izq">Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm y los destinados a la agricultura con gotero insertado.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3917.21</td>
+<td>Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm y los destinados a la agricultura con gotero insertado.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.23</td>
-<td class="cuerpo_tabla_izq">Tubos rígidos de polímeros de cloruro de vinilo de pared compacta (excepto los tubos rígidos de polímeros de cloruro de vinilo orientado). Solamente gravados los de diámetro inferior o igual a 500 mm.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3917.23</td>
+<td>Tubos rígidos de polímeros de cloruro de vinilo de pared compacta (excepto los tubos rígidos de polímeros de cloruro de vinilo orientado). Solamente gravados los de diámetro inferior o igual a 500 mm.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.32.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin accesorios (excepto los tubos de polímeros de etileno reticulados y los destinados a la agricultura con gotero insertado). Solamente gravados los tubos de polímeros de etileno de diámetro inferior o igual a 300 mm y los tubos de polímeros de cloruro de vinilo de pared compacta de diámetro inferior o igual a 63 mm.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3917.32.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin accesorios (excepto los tubos de polímeros de etileno reticulados y los destinados a la agricultura con gotero insertado). Solamente gravados los tubos de polímeros de etileno de diámetro inferior o igual a 300 mm y los tubos de polímeros de cloruro de vinilo de pared compacta de diámetro inferior o igual a 63 mm.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.32.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3917.32.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">accesorios. Solamente gravados los destinados a la agricultura con gotero insertado.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td> </td>
+<td>accesorios. Solamente gravados los destinados a la agricultura con gotero insertado.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.33.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, con accesorios. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3917.33.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, con accesorios. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.39.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, reforzados o combinados con otras materias. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3917.39.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, reforzados o combinados con otras materias. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3920</td>
-<td class="cuerpo_tabla_izq">Las demás placas, láminas, películas, hojas y tiras, de plástico no celular y sin refuerzo, estratificación ni soporte o combinación similar con otras materias. Excepto el film estirable y las bobinas de ancho igual o superior a 1,80 metros y las bobinas de plástico destinadas a la fabricación de envases de venta o envases primarios destinados a la alimentación.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3920</td>
+<td>Las demás placas, láminas, películas, hojas y tiras, de plástico no celular y sin refuerzo, estratificación ni soporte o combinación similar con otras materias. Excepto el film estirable y las bobinas de ancho igual o superior a 1,80 metros y las bobinas de plástico destinadas a la fabricación de envases de venta o envases primarios destinados a la alimentación.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.10</td>
-<td class="cuerpo_tabla_izq">Cajas, cajones, jaulas y artículos similares de plástico. De base poligonal con alguno de los lados igual o superior a 30 cm, o de base curva plana cerrada con alguno de los diámetros igual o superior a 30 cm.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3923.10</td>
+<td>Cajas, cajones, jaulas y artículos similares de plástico. De base poligonal con alguno de los lados igual o superior a 30 cm, o de base curva plana cerrada con alguno de los diámetros igual o superior a 30 cm.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.21.00</td>
-<td class="cuerpo_tabla_izq">Sacos (bolsas), bolsitas y cucuruchos de polímeros de etileno. Excepto los destinados a uso sanitario.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3923.21.00</td>
+<td>Sacos (bolsas), bolsitas y cucuruchos de polímeros de etileno. Excepto los destinados a uso sanitario.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.29</td>
-<td class="cuerpo_tabla_izq">Sacos (bolsas), bolsitas y cucuruchos de los demás plásticos distintos de los de polímeros de etileno. Solamente gravados las biodegradables y compostables. Excepto los destinados a uso sanitario.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3923.29</td>
+<td>Sacos (bolsas), bolsitas y cucuruchos de los demás plásticos distintos de los de polímeros de etileno. Solamente gravados las biodegradables y compostables. Excepto los destinados a uso sanitario.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.30.10</td>
-<td class="cuerpo_tabla_izq">Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad inferior o igual a 2 litros. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>3923.30.10</td>
+<td>Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad inferior o igual a 2 litros. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.30.90</td>
-<td class="cuerpo_tabla_izq">Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad superior a 2 litros. Excepto los destinados a uso sanitario y los artículos con una capacidad igual o superior a 20 litros.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3923.30.90</td>
+<td>Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad superior a 2 litros. Excepto los destinados a uso sanitario y los artículos con una capacidad igual o superior a 20 litros.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.90.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3923.90.00.00</td>
+<td>Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3925.20.00.00</td>
-<td class="cuerpo_tabla_izq">Puertas, ventanas, y sus marcos, contramarcos y umbrales, de plástico.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3925.20.00.00</td>
+<td>Puertas, ventanas, y sus marcos, contramarcos y umbrales, de plástico.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3925.90.80.00</td>
-<td class="cuerpo_tabla_izq">Los demás artículos para la construcción, de plástico, no expresados ni comprendidos en otra parte.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>3925.90.80.00</td>
+<td>Los demás artículos para la construcción, de plástico, no expresados ni comprendidos en otra parte.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4012.12.00</td>
-<td class="cuerpo_tabla_izq">Neumáticos (llantas neumáticas) recauchutados del tipo de los utilizados en autobuses y camiones.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>4012.12.00</td>
+<td>Neumáticos (llantas neumáticas) recauchutados del tipo de los utilizados en autobuses y camiones.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Industrias metálicas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7308</td>
-<td class="cuerpo_tabla_izq">Construcciones y sus partes (por ejemplo: puentes y sus partes, compuertas de esclusas, torres, castilletes, pilares, columnas, armazones para techumbre, techados, puertas y ventanas y sus marcos, contramarcos y umbrales, cortinas de cierre y barandillas); de fundición, hierro o acero (excepto las construcciones prefabricadas de la partida 9406); chapas, barras, perfiles, tubos y similares, de fundición, de hierro o acero; preparados para la construcción. Excepto las barreras metálicas horizontales (biondas) de seguridad en carreteras.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>7308</td>
+<td>Construcciones y sus partes (por ejemplo: puentes y sus partes, compuertas de esclusas, torres, castilletes, pilares, columnas, armazones para techumbre, techados, puertas y ventanas y sus marcos, contramarcos y umbrales, cortinas de cierre y barandillas); de fundición, hierro o acero (excepto las construcciones prefabricadas de la partida 9406); chapas, barras, perfiles, tubos y similares, de fundición, de hierro o acero; preparados para la construcción. Excepto las barreras metálicas horizontales (biondas) de seguridad en carreteras.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7309.00</td>
-<td class="cuerpo_tabla_izq">Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, de capacidad superior a 300 litros, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo, excepto los comprendidos en la partida 7309.00.90.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>7309.00</td>
+<td>Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, de capacidad superior a 300 litros, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo, excepto los comprendidos en la partida 7309.00.90.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7604</td>
-<td class="cuerpo_tabla_izq">Barras y perfiles, de aluminio.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>7604</td>
+<td>Barras y perfiles, de aluminio.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7608</td>
-<td class="cuerpo_tabla_izq">Tubos de aluminio.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>7608</td>
+<td>Tubos de aluminio.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7610.10.00.00</td>
-<td class="cuerpo_tabla_izq">Puertas y ventanas y sus marcos, contramarcos y umbrales, de aluminio.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>7610.10.00.00</td>
+<td>Puertas y ventanas y sus marcos, contramarcos y umbrales, de aluminio.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8424.82</td>
-<td class="cuerpo_tabla_izq">Los demás aparatos para la agricultura u horticultura. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>8424.82</td>
+<td>Los demás aparatos para la agricultura u horticultura. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8424.90.80.80</td>
-<td class="cuerpo_tabla_izq">Las demás partes de aparatos mecánicos, incluso manuales, para proyectar, dispersar o pulverizar materias líquidas o en polvo; extintores, incluso cargados; pistolas aerográficas y aparatos similares; máquinas y aparatos de chorro de arena o de vapor y aparatos de chorro similares. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>8424.90.80.80</td>
+<td>Las demás partes de aparatos mecánicos, incluso manuales, para proyectar, dispersar o pulverizar materias líquidas o en polvo; extintores, incluso cargados; pistolas aerográficas y aparatos similares; máquinas y aparatos de chorro de arena o de vapor y aparatos de chorro similares. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8907.90.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás artefactos flotantes (por ejemplo: balsas, depósitos, cajones, incluso de amarre, boyas y balizas).</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>8907.90.00.00</td>
+<td>Los demás artefactos flotantes (por ejemplo: balsas, depósitos, cajones, incluso de amarre, boyas y balizas).</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9401</td>
-<td class="cuerpo_tabla_izq">Asientos (excepto los de la partida 9402), incluso los transformables en cama, y sus partes.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>9401</td>
+<td>Asientos (excepto los de la partida 9402), incluso los transformables en cama, y sus partes.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9403</td>
-<td class="cuerpo_tabla_izq">Los demás muebles y sus partes. Excepto las estanterías metálicas y sus partes.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>9403</td>
+<td>Los demás muebles y sus partes. Excepto las estanterías metálicas y sus partes.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9403</td>
-<td class="cuerpo_tabla_izq">Los demás muebles y sus partes. Solamente gravadas las estanterías metálicas y sus partes.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>9403</td>
+<td>Los demás muebles y sus partes. Solamente gravadas las estanterías metálicas y sus partes.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9404</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufs o almohadas); bien con muelles (resortes), o bien rellenos o guarnecidos interiormente con cualquier materia, incluidos los de caucho o plástico celulares, recubiertos o no.</p>
-<p class="cuerpo_tabla_izq">Excepto las partidas 9404.10.00.00 y 9404.30.00.00.</p>
+<td>9404</td>
+<td>
+<p>Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufs o almohadas); bien con muelles (resortes), o bien rellenos o guarnecidos interiormente con cualquier materia, incluidos los de caucho o plástico celulares, recubiertos o no.</p>
+<p>Excepto las partidas 9404.10.00.00 y 9404.30.00.00.</p>
 </td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9406.90.90.00</td>
-<td class="cuerpo_tabla_izq">Construcciones prefabricadas de las demás materias, distintas de madera, hierro o acero.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>9406.90.90.00</td>
+<td>Construcciones prefabricadas de las demás materias, distintas de madera, hierro o acero.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Alimentación y Bebidas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.11.11.00</td>
-<td class="cuerpo_tabla_izq">Jamones y trozos de jamón salados o en salmuera.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0210.11.11.00</td>
+<td>Jamones y trozos de jamón salados o en salmuera.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.11.31.00</td>
-<td class="cuerpo_tabla_izq">Jamones y trozos de jamón secos o ahumados.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0210.11.31.00</td>
+<td>Jamones y trozos de jamón secos o ahumados.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.12.11.00</td>
-<td class="cuerpo_tabla_izq">Tocino entreverado de panza (panceta) y sus trozos salados o en salmuera.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0210.12.11.00</td>
+<td>Tocino entreverado de panza (panceta) y sus trozos salados o en salmuera.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.12.19.00</td>
-<td class="cuerpo_tabla_izq">Tocino entreverado de panza (panceta) y sus trozos secos o ahumados.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0210.12.19.00</td>
+<td>Tocino entreverado de panza (panceta) y sus trozos secos o ahumados.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.19.40.00</td>
-<td class="cuerpo_tabla_izq">Chuleteros y trozos de chuleteros salados o en salmuera.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0210.19.40.00</td>
+<td>Chuleteros y trozos de chuleteros salados o en salmuera.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.19.50</td>
-<td class="cuerpo_tabla_izq">Las demás carnes de la especie porcina doméstica, salados o en salmuera.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0210.19.50</td>
+<td>Las demás carnes de la especie porcina doméstica, salados o en salmuera.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.19.81</td>
-<td class="cuerpo_tabla_izq">Deshuesados (carne de la especie porcina doméstica, secos o ahumados).</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>0210.19.81</td>
+<td>Deshuesados (carne de la especie porcina doméstica, secos o ahumados).</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0305.41.00</td>
-<td class="cuerpo_tabla_izq">Salmones del Pacífico, salmones del Atlántico y salmones del Danubio. Solamente gravados los salmones ahumados.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0305.41.00</td>
+<td>Salmones del Pacífico, salmones del Atlántico y salmones del Danubio. Solamente gravados los salmones ahumados.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0305.43.00.90</td>
-<td class="cuerpo_tabla_izq">Las demás truchas. Solamente gravadas las truchas ahumadas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0305.43.00.90</td>
+<td>Las demás truchas. Solamente gravadas las truchas ahumadas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0403</td>
-<td class="cuerpo_tabla_izq">Suero de mantequilla (de manteca), leche y nata (crema) cuajadas, yogur, kefir y demás leches y natas (cremas) fermentadas o acidificadas, incluso concentrados, con adición de azúcar u otro edulcorante, aromatizados o con frutas u otros frutos o cacao.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0403</td>
+<td>Suero de mantequilla (de manteca), leche y nata (crema) cuajadas, yogur, kefir y demás leches y natas (cremas) fermentadas o acidificadas, incluso concentrados, con adición de azúcar u otro edulcorante, aromatizados o con frutas u otros frutos o cacao.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.10.30.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos de la mozzarella y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5 kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.10.30.90</td>
+<td>Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos de la mozzarella y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5 kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.10.50.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos del skyr y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5 kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.10.50.90</td>
+<td>Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos del skyr y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5 kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.10.80.80</td>
-<td class="cuerpo_tabla_izq">Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas superior 40% en peso. Distintos del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.10.80.80</td>
+<td>Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas superior 40% en peso. Distintos del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.69.00</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia no grasa inferior o igual al 47%.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.90.69.00</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia no grasa inferior o igual al 47%.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.86.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia no grasa superior al 47%, pero inferior o igual al 52% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.90.86.90</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia no grasa superior al 47%, pero inferior o igual al 52% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.89.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso y un contenido de agua en la materia no grasa superior al 52%, pero inferior o igual al 62% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.90.89.90</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso y un contenido de agua en la materia no grasa superior al 52%, pero inferior o igual al 62% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.92.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 62%, pero inferior o igual al 72% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.90.92.90</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 62%, pero inferior o igual al 72% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.93.00</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 72% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.90.93.00</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 72% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.99.00</td>
-<td class="cuerpo_tabla_izq">Los demás quesos.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0406.90.99.00</td>
+<td>Los demás quesos.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0901.21</td>
-<td class="cuerpo_tabla_izq">Café tostado sin descafeinar.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>0901.21</td>
+<td>Café tostado sin descafeinar.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0901.22.00.00</td>
-<td class="cuerpo_tabla_izq">Café tostado descafeinado.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0901.22.00.00</td>
+<td>Café tostado descafeinado.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0901.90.90</td>
-<td class="cuerpo_tabla_izq">Sucedáneos del café que contengan café.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>0901.90.90</td>
+<td>Sucedáneos del café que contengan café.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1101</td>
-<td class="cuerpo_tabla_izq">Harina de trigo y de morcajo o tranquillón.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1101</td>
+<td>Harina de trigo y de morcajo o tranquillón.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1102</td>
-<td class="cuerpo_tabla_izq">Harina de cereales, excepto de trigo o de morcajo (tranquillón).</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1102</td>
+<td>Harina de cereales, excepto de trigo o de morcajo (tranquillón).</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1601</td>
-<td class="cuerpo_tabla_izq">Embutidos y productos similares de carne, despojos o sangre; preparaciones alimenticias a base de estos productos.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1601</td>
+<td>Embutidos y productos similares de carne, despojos o sangre; preparaciones alimenticias a base de estos productos.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1602</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones y conservas de carne, despojos o sangre. Excepto la partida 1602.50.31.00, corned beef en envases herméticamente cerrados.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1602</td>
+<td>Las demás preparaciones y conservas de carne, despojos o sangre. Excepto la partida 1602.50.31.00, corned beef en envases herméticamente cerrados.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1604</td>
-<td class="cuerpo_tabla_izq">Preparaciones y conservas de pescado; caviar y sus sucedáneos preparados con huevas de pescado. Excepto las conservas de pescado.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1604</td>
+<td>Preparaciones y conservas de pescado; caviar y sus sucedáneos preparados con huevas de pescado. Excepto las conservas de pescado.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1702.90.95.00</td>
-<td class="cuerpo_tabla_izq">Los demás azúcares, incluido el azúcar invertido, y demás azúcares y jarabes de azúcar con un contenido de fructosa sobre producto seco del 50% en peso. Solamente gravado el azúcar invertido.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1702.90.95.00</td>
+<td>Los demás azúcares, incluido el azúcar invertido, y demás azúcares y jarabes de azúcar con un contenido de fructosa sobre producto seco del 50% en peso. Solamente gravado el azúcar invertido.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.30.00</td>
-<td class="cuerpo_tabla_izq">Preparación llamada chocolate blanco.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1704.90.30.00</td>
+<td>Preparación llamada chocolate blanco.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.51.00</td>
-<td class="cuerpo_tabla_izq">Pastas y masas, incluido el mazapán, en envases inmediatos con un contenido neto igual o superior a 1 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1704.90.51.00</td>
+<td>Pastas y masas, incluido el mazapán, en envases inmediatos con un contenido neto igual o superior a 1 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.61.00</td>
-<td class="cuerpo_tabla_izq">Grageas, peladillas y dulces con recubrimiento similar.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1704.90.61.00</td>
+<td>Grageas, peladillas y dulces con recubrimiento similar.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.71.00</td>
-<td class="cuerpo_tabla_izq">Caramelos de azúcar cocido, incluso rellenos.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1704.90.71.00</td>
+<td>Caramelos de azúcar cocido, incluso rellenos.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.75.00</td>
-<td class="cuerpo_tabla_izq">Los demás caramelos.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1704.90.75.00</td>
+<td>Los demás caramelos.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1806</td>
-<td class="cuerpo_tabla_izq">Chocolate y demás preparaciones alimenticias que contengan cacao; excepto la 1806.20.95. En las partidas 1806.20.50, 1806.20.70, 1806.20.80 y 1806.90 solamente gravados los productos en envases de peso neto inferior a 20 kg.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1806</td>
+<td>Chocolate y demás preparaciones alimenticias que contengan cacao; excepto la 1806.20.95. En las partidas 1806.20.50, 1806.20.70, 1806.20.80 y 1806.90 solamente gravados los productos en envases de peso neto inferior a 20 kg.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.20.00.00</td>
-<td class="cuerpo_tabla_izq">Mezclas y pastas para la preparación de productos de panadería, pastelería o galletería de la partida 1905, excepto sin materias grasas de la leche o con ella en una proporción inferior al 1,5% en peso, con un contenido de almidón o de fécula igual o superior al 50% e inferior al 75% en peso. Solamente gravados los productos en envase de peso neto inferior a 5 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1901.20.00.00</td>
+<td>Mezclas y pastas para la preparación de productos de panadería, pastelería o galletería de la partida 1905, excepto sin materias grasas de la leche o con ella en una proporción inferior al 1,5% en peso, con un contenido de almidón o de fécula igual o superior al 50% e inferior al 75% en peso. Solamente gravados los productos en envase de peso neto inferior a 5 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.90.91.00</td>
-<td class="cuerpo_tabla_izq">Las demás. Sin materias grasas de la leche o con un contenido inferior al 1,5% en peso; sin sacarosa, incluido el azúcar invertido, o isoglucosa o con un contenido inferior al 5% en peso, sin almidón o fécula o glucosa o con menos del 5% en peso (excepto las preparaciones alimenticias en polvo de productos de las partidas 0401 a 0404). Que no contengan cacao (Mix para helados). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1901.90.91.00</td>
+<td>Las demás. Sin materias grasas de la leche o con un contenido inferior al 1,5% en peso; sin sacarosa, incluido el azúcar invertido, o isoglucosa o con un contenido inferior al 5% en peso, sin almidón o fécula o glucosa o con menos del 5% en peso (excepto las preparaciones alimenticias en polvo de productos de las partidas 0401 a 0404). Que no contengan cacao (Mix para helados). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.90.95</td>
-<td class="cuerpo_tabla_izq">Preparaciones alimenticias en polvo, constituidas por una mezcla de leche desnatada o de lactosuero y de grasas o aceites vegetales, con un contenido de grasas o aceites inferior o igual al 30% en peso. Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1901.90.95</td>
+<td>Preparaciones alimenticias en polvo, constituidas por una mezcla de leche desnatada o de lactosuero y de grasas o aceites vegetales, con un contenido de grasas o aceites inferior o igual al 30% en peso. Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.90.99</td>
-<td class="cuerpo_tabla_izq">Las demás (Extracto de malta; preparaciones alimenticias de harina, grañones, sémola, fécula o extracto de malta…). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1901.90.99</td>
+<td>Las demás (Extracto de malta; preparaciones alimenticias de harina, grañones, sémola, fécula o extracto de malta…). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1902</td>
-<td class="cuerpo_tabla_izq">Pastas alimenticias, incluso cocidas o rellenas (de carne u otras sustancias) o bien preparadas de otra forma, tales como espaguetis, fideos, macarrones, tallarines, lasañas, ñoquis, ravioles, canelones; cuscús, incluso preparado.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>1902</td>
+<td>Pastas alimenticias, incluso cocidas o rellenas (de carne u otras sustancias) o bien preparadas de otra forma, tales como espaguetis, fideos, macarrones, tallarines, lasañas, ñoquis, ravioles, canelones; cuscús, incluso preparado.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1904.10.10</td>
-<td class="cuerpo_tabla_izq">Productos a base de cereales obtenidos por inflado o tostado a base de maíz.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>1904.10.10</td>
+<td>Productos a base de cereales obtenidos por inflado o tostado a base de maíz.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1905</td>
-<td class="cuerpo_tabla_izq">Productos de panadería, pastelería o galletería, incluso con adición de cacao; hostias, sellos vacíos del tipo de los utilizados para medicamentos, obleas para sellar, pastas secas de harina, almidón o fécula, en hojas, y productos similares. Excluidos los pellets de patata, los pellets de maíz y los pellets de trigo.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1905</td>
+<td>Productos de panadería, pastelería o galletería, incluso con adición de cacao; hostias, sellos vacíos del tipo de los utilizados para medicamentos, obleas para sellar, pastas secas de harina, almidón o fécula, en hojas, y productos similares. Excluidos los pellets de patata, los pellets de maíz y los pellets de trigo.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2002.90</td>
-<td class="cuerpo_tabla_izq">Los demás tomates preparados o conservados (excepto en vinagre o en ácido acético). Solamente gravadas las preparaciones alimenticias a base de tomate denominadas tomate frito.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2002.90</td>
+<td>Los demás tomates preparados o conservados (excepto en vinagre o en ácido acético). Solamente gravadas las preparaciones alimenticias a base de tomate denominadas tomate frito.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2005.20.20</td>
-<td class="cuerpo_tabla_izq">Patatas (papas) en rodajas finas, fritas, incluso saladas o aromatizadas, en envases herméticamente cerrados, idóneos para su consumo inmediato. Solamente gravadas las papas fritas tipo chips.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2005.20.20</td>
+<td>Patatas (papas) en rodajas finas, fritas, incluso saladas o aromatizadas, en envases herméticamente cerrados, idóneos para su consumo inmediato. Solamente gravadas las papas fritas tipo chips.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2006.00.31</td>
-<td class="cuerpo_tabla_izq">Cerezas confitadas con azúcar (almibaradas, glaseadas o escarchadas).</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2006.00.31</td>
+<td>Cerezas confitadas con azúcar (almibaradas, glaseadas o escarchadas).</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2007.10.10.95</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones homogeneizadas con un contenido de azúcares superior al 13% en peso. Confituras, jaleas y mermeladas, purés y pastas de frutas u otros frutos, obtenidos por cocción, incluso con adición de azúcar u otro edulcorante.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2007.10.10.95</td>
+<td>Las demás preparaciones homogeneizadas con un contenido de azúcares superior al 13% en peso. Confituras, jaleas y mermeladas, purés y pastas de frutas u otros frutos, obtenidos por cocción, incluso con adición de azúcar u otro edulcorante.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.11.96.00</td>
-<td class="cuerpo_tabla_izq">Cacahuetes tostados en envases de peso neto inferior o igual a 1 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2008.11.96.00</td>
+<td>Cacahuetes tostados en envases de peso neto inferior o igual a 1 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.11.98.00</td>
-<td class="cuerpo_tabla_izq">Los demás cacahuetes en envases de peso neto inferior o igual a 1 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2008.11.98.00</td>
+<td>Los demás cacahuetes en envases de peso neto inferior o igual a 1 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.92</td>
-<td class="cuerpo_tabla_izq">Frutos de cáscara y demás semillas, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg: Nueces tropicales; mezclas con un contenido de nueces tropicales superior o igual al 50% en peso.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2008.19.92</td>
+<td>Frutos de cáscara y demás semillas, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg: Nueces tropicales; mezclas con un contenido de nueces tropicales superior o igual al 50% en peso.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.93</td>
-<td class="cuerpo_tabla_izq">Almendras y pistachos tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2008.19.93</td>
+<td>Almendras y pistachos tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.95</td>
-<td class="cuerpo_tabla_izq">Los demás frutos de cáscara tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2008.19.95</td>
+<td>Los demás frutos de cáscara tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.99</td>
-<td class="cuerpo_tabla_izq">Frutos de cáscara sin tostar y demás semillas, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2008.19.99</td>
+<td>Frutos de cáscara sin tostar y demás semillas, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.12.00</td>
-<td class="cuerpo_tabla_izq">Jugo de naranja sin congelar de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.12.00</td>
+<td>Jugo de naranja sin congelar de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.41</td>
-<td class="cuerpo_tabla_izq">Jugo de piña de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.41</td>
+<td>Jugo de piña de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.50</td>
-<td class="cuerpo_tabla_izq">Jugo de tomate. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.50</td>
+<td>Jugo de tomate. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.61</td>
-<td class="cuerpo_tabla_izq">Jugo de uva (incluido el mosto), de valor Brix inferior o igual a 30. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.61</td>
+<td>Jugo de uva (incluido el mosto), de valor Brix inferior o igual a 30. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.71</td>
-<td class="cuerpo_tabla_izq">Jugo de manzana de valor Brix inferior o igual a 20. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.71</td>
+<td>Jugo de manzana de valor Brix inferior o igual a 20. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.89</td>
-<td class="cuerpo_tabla_izq">Los demás jugos de cualquier otra fruta o fruto, u hortaliza. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.89</td>
+<td>Los demás jugos de cualquier otra fruta o fruto, u hortaliza. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.90</td>
-<td class="cuerpo_tabla_izq">Mezclas de jugos. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2009.90</td>
+<td>Mezclas de jugos. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.20.00.00</td>
-<td class="cuerpo_tabla_izq">Ketchup y demás salsas de tomate.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2103.20.00.00</td>
+<td>Ketchup y demás salsas de tomate.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.30</td>
-<td class="cuerpo_tabla_izq">Harina de mostaza y mostaza preparada, excepto la harina de mostaza clasificada en la posición 2103.30.10 en envases de peso neto igual o superior a 20 kg.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2103.30</td>
+<td>Harina de mostaza y mostaza preparada, excepto la harina de mostaza clasificada en la posición 2103.30.10 en envases de peso neto igual o superior a 20 kg.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.90.90</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Las demás preparaciones para salsas y salsas preparadas, condimentos, sazonadores y compuestos, excepto:</p>
-<p class="cuerpo_tabla_izq">La mayonesa.</p>
-<p class="cuerpo_tabla_izq">Los condimentos, sazonadores y compuestos en envases de peso neto igual o superior a 5 kg.</p>
+<td>2103.90.90</td>
+<td>
+<p>Las demás preparaciones para salsas y salsas preparadas, condimentos, sazonadores y compuestos, excepto:</p>
+<p>La mayonesa.</p>
+<p>Los condimentos, sazonadores y compuestos en envases de peso neto igual o superior a 5 kg.</p>
 </td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.90.90</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones para salsas y salsas preparadas, condimentos y sazonadores. Solamente gravada la mayonesa.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2103.90.90</td>
+<td>Las demás preparaciones para salsas y salsas preparadas, condimentos y sazonadores. Solamente gravada la mayonesa.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2105</td>
-<td class="cuerpo_tabla_izq">Helados, incluso con cacao.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2105</td>
+<td>Helados, incluso con cacao.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2106.90.98</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones alimenticias no expresadas ni comprendidas en otra parte. Excepto: Alimentos para niños que contengan leche y productos a base de leche. Excluidos los destinados a uso sanitario. Solamente gravados los productos en envases de peso neto inferior a 5 kg.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2106.90.98</td>
+<td>Las demás preparaciones alimenticias no expresadas ni comprendidas en otra parte. Excepto: Alimentos para niños que contengan leche y productos a base de leche. Excluidos los destinados a uso sanitario. Solamente gravados los productos en envases de peso neto inferior a 5 kg.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2201</td>
-<td class="cuerpo_tabla_izq">Agua, incluidas el agua mineral natural o artificial y la gaseada, sin adición de azúcar u otro edulcorante ni aromatizada; hielo y nieve.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>2201</td>
+<td>Agua, incluidas el agua mineral natural o artificial y la gaseada, sin adición de azúcar u otro edulcorante ni aromatizada; hielo y nieve.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2202</td>
-<td class="cuerpo_tabla_izq">Agua, incluidas el agua mineral y la gaseada, con adición de azúcar u otro edulcorante o aromatizada y las demás bebidas no alcohólicas (excepto los jugos de frutas u otros frutos o de hortalizas de la partida 2009). Excepto los destinados a uso sanitario.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2202</td>
+<td>Agua, incluidas el agua mineral y la gaseada, con adición de azúcar u otro edulcorante o aromatizada y las demás bebidas no alcohólicas (excepto los jugos de frutas u otros frutos o de hortalizas de la partida 2009). Excepto los destinados a uso sanitario.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2203</td>
-<td class="cuerpo_tabla_izq">Cerveza de malta.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2203</td>
+<td>Cerveza de malta.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2204</td>
-<td class="cuerpo_tabla_izq">Vino de uvas frescas, incluso encabezado; mosto de uva, excepto el de la partida 2009.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>2204</td>
+<td>Vino de uvas frescas, incluso encabezado; mosto de uva, excepto el de la partida 2009.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2208.40</td>
-<td class="cuerpo_tabla_izq">Ron y demás aguardientes procedentes de la destilación, previa fermentación, de productos de la caña de azúcar.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2208.40</td>
+<td>Ron y demás aguardientes procedentes de la destilación, previa fermentación, de productos de la caña de azúcar.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2208.70.10</td>
-<td class="cuerpo_tabla_izq">Licores en recipientes de contenido inferior o igual a 2 l.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>2208.70.10</td>
+<td>Licores en recipientes de contenido inferior o igual a 2 l.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2309</td>
-<td class="cuerpo_tabla_izq">Preparaciones del tipo de las usadas para la alimentación de los animales. Solamente gravados los piensos compuestos, excepto los piensos de lactancia, destinados a los animales comprendidos en las partidas de la 0101 a la 0105, 0106.13.00.00 y 0106.14.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>2309</td>
+<td>Preparaciones del tipo de las usadas para la alimentación de los animales. Solamente gravados los piensos compuestos, excepto los piensos de lactancia, destinados a los animales comprendidos en las partidas de la 0101 a la 0105, 0106.13.00.00 y 0106.14.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Tabaco</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2402</td>
-<td class="cuerpo_tabla_izq">Cigarros (puros), incluso despuntados, cigarritos (puritos) y cigarrillos, de tabaco o de sucedáneos del tabaco.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2402</td>
+<td>Cigarros (puros), incluso despuntados, cigarritos (puritos) y cigarrillos, de tabaco o de sucedáneos del tabaco.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Textil, cuero y calzado</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6112.12.00.00</td>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales), de fibras sintéticas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6112.12.00.00</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales), de fibras sintéticas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6112.31</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto para hombres o niños de fibras sintéticas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6112.31</td>
+<td>Bañadores de punto para hombres o niños de fibras sintéticas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6112.41</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto para mujeres o niñas de fibras sintéticas.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6112.41</td>
+<td>Bañadores de punto para mujeres o niñas de fibras sintéticas.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6213</td>
-<td class="cuerpo_tabla_izq">Pañuelos de bolsillo.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6213</td>
+<td>Pañuelos de bolsillo.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6303</td>
-<td class="cuerpo_tabla_izq">Visillos y cortinas; guardamalletas y rodapiés de cama.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6303</td>
+<td>Visillos y cortinas; guardamalletas y rodapiés de cama.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6304</td>
-<td class="cuerpo_tabla_izq">Los demás artículos de tapicería (excepto los de la partida 9404).</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>6304</td>
+<td>Los demás artículos de tapicería (excepto los de la partida 9404).</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Madera y sus transformados</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4418</td>
-<td class="cuerpo_tabla_izq">Obras y piezas de carpintería para construcciones, incluidos los tableros celulares, los tableros ensamblados para revestimiento de suelo y tablillas para cubierta de tejados o fachadas («singles» y «shakes»), de madera.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>4418</td>
+<td>Obras y piezas de carpintería para construcciones, incluidos los tableros celulares, los tableros ensamblados para revestimiento de suelo y tablillas para cubierta de tejados o fachadas («singles» y «shakes»), de madera.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Transformados de papel</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4808</td>
-<td class="cuerpo_tabla_izq">Papel y cartón corrugados, incluso revestidos por encolado, rizados (crepés), plisados, gofrados, estampados o perforados, en bobinas (rollos) o en hojas (excepto el papel de los tipos descritos en el texto de la partida 4803).</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>4808</td>
+<td>Papel y cartón corrugados, incluso revestidos por encolado, rizados (crepés), plisados, gofrados, estampados o perforados, en bobinas (rollos) o en hojas (excepto el papel de los tipos descritos en el texto de la partida 4803).</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4811.51.00.00</td>
-<td class="cuerpo_tabla_izq">Papel y cartón recubierto, impregnados o revestidos de plástico (excepto los adhesivos), blanqueados, de peso superior a 150g/m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>4811.51.00.00</td>
+<td>Papel y cartón recubierto, impregnados o revestidos de plástico (excepto los adhesivos), blanqueados, de peso superior a 150g/m<sup>2</sup>.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4818</td>
-<td class="cuerpo_tabla_izq">Papel del tipo utilizado para papel higiénico y papeles similares, guata de celulosa o napa de fibras de celulosa, de los tipos utilizados para fines domésticos o sanitarios, en bobinas (rollos) de una anchura inferior o igual a 36 cm o cortados en formato; pañuelos, toallitas de desmaquillar, toallas, manteles, servilletas, sábanas y artículos similares para uso doméstico, de tocador, higiénico o de hospital, prendas y complementos (accesorios), de vestir, de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa. Excepto los productos de la partida 4818.50.00.00.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>4818</td>
+<td>Papel del tipo utilizado para papel higiénico y papeles similares, guata de celulosa o napa de fibras de celulosa, de los tipos utilizados para fines domésticos o sanitarios, en bobinas (rollos) de una anchura inferior o igual a 36 cm o cortados en formato; pañuelos, toallitas de desmaquillar, toallas, manteles, servilletas, sábanas y artículos similares para uso doméstico, de tocador, higiénico o de hospital, prendas y complementos (accesorios), de vestir, de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa. Excepto los productos de la partida 4818.50.00.00.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4819</td>
-<td class="cuerpo_tabla_izq">Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Excepto los envases «tetrabrik» y «tetrapack» de la 4819.20, los productos de la partida 4819.40 y los agrupadores de envases.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>4819</td>
+<td>Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Excepto los envases «tetrabrik» y «tetrapack» de la 4819.20, los productos de la partida 4819.40 y los agrupadores de envases.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4819</td>
-<td class="cuerpo_tabla_izq">Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Solamente gravados los productos de la partida 4819.40, excepto las bolsas para aspiradoras.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>4819</td>
+<td>Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Solamente gravados los productos de la partida 4819.40, excepto las bolsas para aspiradoras.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4821</td>
-<td class="cuerpo_tabla_izq">Etiquetas de todas clases, de papel o cartón, incluso impresas.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>4821</td>
+<td>Etiquetas de todas clases, de papel o cartón, incluso impresas.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4823.90.40.00</td>
-<td class="cuerpo_tabla_izq">Los demás papeles y cartones de los tipos utilizados en la escritura, impresión u otros fines gráficos. Excepto los impresos, estampados o perforados.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>4823.90.40.00</td>
+<td>Los demás papeles y cartones de los tipos utilizados en la escritura, impresión u otros fines gráficos. Excepto los impresos, estampados o perforados.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Artes gráficas y su edición</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4902</td>
-<td class="cuerpo_tabla_izq">Diarios y publicaciones periódicas, impresos incluso ilustrados o con publicidad.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>4902</td>
+<td>Diarios y publicaciones periódicas, impresos incluso ilustrados o con publicidad.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4909</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres.</p>
-<p class="cuerpo_tabla_izq">Excepto las tarjetas postales lenticulares con efecto 3D.</p>
+<td>4909</td>
+<td>
+<p>Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres.</p>
+<p>Excepto las tarjetas postales lenticulares con efecto 3D.</p>
 </td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4910</td>
-<td class="cuerpo_tabla_izq">Calendarios de cualquier clase impresos, incluidos los tacos de calendario.</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>4910</td>
+<td>Calendarios de cualquier clase impresos, incluidos los tacos de calendario.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4911</td>
-<td class="cuerpo_tabla_izq">Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos.</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>4911</td>
+<td>Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos.</td>
+<td>15</td>
 </tr>
 </tbody>
 </table>
@@ -3498,729 +3493,725 @@ b) Respecto a las cuotas del Impuesto soportadas en bienes de inversión cuyo in
 
 ## ANEXO 3.º — Relación de bienes muebles corporales cuya entrega está exenta del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">P. Estadística</th>
-<th class="cabeza_tabla">Descripción</th>
+<th>P. Estadística</th>
+<th>Descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Agricultura, ganadería, silvicultura y pesca</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0203.11</td>
-<td class="cuerpo_tabla_izq">En canales o medias canales. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
+<td>0203.11</td>
+<td>En canales o medias canales. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0203.12</td>
-<td class="cuerpo_tabla_izq">Piernas, paletas y sus trozos sin deshuesar. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
+<td>0203.12</td>
+<td>Piernas, paletas y sus trozos sin deshuesar. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0203.19</td>
-<td class="cuerpo_tabla_izq">Las demás. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
+<td>0203.19</td>
+<td>Las demás. Solamente gravada la carne de la especie porcina fresca o refrigerada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0204.50</td>
-<td class="cuerpo_tabla_izq">Carne de animales de la especie caprina, fresca, refrigerada o congelada.</td>
+<td>0204.50</td>
+<td>Carne de animales de la especie caprina, fresca, refrigerada o congelada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0207.11</td>
-<td class="cuerpo_tabla_izq">Sin trocear, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
+<td>0207.11</td>
+<td>Sin trocear, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0207.13</td>
-<td class="cuerpo_tabla_izq">Trozos y despojos, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
+<td>0207.13</td>
+<td>Trozos y despojos, frescos o refrigerados, de aves de la especie Gallus domesticus.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0407.21.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás huevos frescos de gallina de la especie Gallus domesticus.</td>
+<td>0407.21.00.00</td>
+<td>Los demás huevos frescos de gallina de la especie Gallus domesticus.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0603.11.00.00</td>
-<td class="cuerpo_tabla_izq">Rosas frescas.</td>
+<td>0603.11.00.00</td>
+<td>Rosas frescas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0701.90</td>
-<td class="cuerpo_tabla_izq">Patatas frescas o refrigeradas, excepto para siembra.</td>
+<td>0701.90</td>
+<td>Patatas frescas o refrigeradas, excepto para siembra.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0703</td>
-<td class="cuerpo_tabla_izq">Cebollas, chalotes, ajos, puerros y demás hortalizas aliáceas, frescos o refrigerados. Solamente gravadas las cebollas.</td>
+<td>0703</td>
+<td>Cebollas, chalotes, ajos, puerros y demás hortalizas aliáceas, frescos o refrigerados. Solamente gravadas las cebollas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0706</td>
-<td class="cuerpo_tabla_izq">Zanahorias, nabos, remolachas para ensalada, salsifíes, apionabos, rábanos y raíces comestibles similares, frescos o refrigerados. Solamente gravadas las zanahorias.</td>
+<td>0706</td>
+<td>Zanahorias, nabos, remolachas para ensalada, salsifíes, apionabos, rábanos y raíces comestibles similares, frescos o refrigerados. Solamente gravadas las zanahorias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0708</td>
-<td class="cuerpo_tabla_izq">Hortalizas de vaina, aunque estén desvainadas, frescas o refrigeradas.</td>
+<td>0708</td>
+<td>Hortalizas de vaina, aunque estén desvainadas, frescas o refrigeradas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0810.10.00.00</td>
-<td class="cuerpo_tabla_izq">Fresas (frutillas), frescas.</td>
+<td>0810.10.00.00</td>
+<td>Fresas (frutillas), frescas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Minas y canteras</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2516.90.00.00</td>
-<td class="cuerpo_tabla_izq">Las demás piedras de talla o de construcción. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
+<td>2516.90.00.00</td>
+<td>Las demás piedras de talla o de construcción. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6801</td>
-<td class="cuerpo_tabla_izq">Adoquines, encintado (bordillos) y losas para pavimentos, de piedra natural (excepto la pizarra). Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
+<td>6801</td>
+<td>Adoquines, encintado (bordillos) y losas para pavimentos, de piedra natural (excepto la pizarra). Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6802</td>
-<td class="cuerpo_tabla_izq">Piedras de talla o de construcción trabajadas (excluida la pizarra) y sus manufacturas (excepto de la partida 6801); cubos, dados y artículos similares para mosaicos, de piedra natural, incluida la pizarra, aunque estén sobre soporte; gránulos, tasquiles (fragmentos) y polvo de piedra natural, incluida la pizarra, coloreados artificialmente. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
+<td>6802</td>
+<td>Piedras de talla o de construcción trabajadas (excluida la pizarra) y sus manufacturas (excepto de la partida 6801); cubos, dados y artículos similares para mosaicos, de piedra natural, incluida la pizarra, aunque estén sobre soporte; gránulos, tasquiles (fragmentos) y polvo de piedra natural, incluida la pizarra, coloreados artificialmente. Solamente gravadas las piedras basáltica, fonolita, ignimbrita y traquita.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6810</td>
-<td class="cuerpo_tabla_izq">Manufacturas de cemento, hormigón o piedra artificial, incluso armadas. Solamente gravada las manufacturas de hormigón prefabricadas, incluso armadas.</td>
+<td>6810</td>
+<td>Manufacturas de cemento, hormigón o piedra artificial, incluso armadas. Solamente gravada las manufacturas de hormigón prefabricadas, incluso armadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Materiales de Construcción</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2523.29.00.00</td>
-<td class="cuerpo_tabla_izq">Cementos hidráulicos, cemento portland que no sea blanco.</td>
+<td>2523.29.00.00</td>
+<td>Cementos hidráulicos, cemento portland que no sea blanco.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2523.90</td>
-<td class="cuerpo_tabla_izq">Los demás cementos hidráulicos que no sean clinker, portland o aluminosos.</td>
+<td>2523.90</td>
+<td>Los demás cementos hidráulicos que no sean clinker, portland o aluminosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3816</td>
-<td class="cuerpo_tabla_izq">Cementos, morteros, hormigones y preparaciones similares, refractarios (excepto los productos de la partida 3801).</td>
+<td>3816</td>
+<td>Cementos, morteros, hormigones y preparaciones similares, refractarios (excepto los productos de la partida 3801).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.40.00.00</td>
-<td class="cuerpo_tabla_izq">Aditivos preparados para cementos, morteros u hormigones.</td>
+<td>3824.40.00.00</td>
+<td>Aditivos preparados para cementos, morteros u hormigones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.50</td>
-<td class="cuerpo_tabla_izq">Morteros y hormigones, no refractarios.</td>
+<td>3824.50</td>
+<td>Morteros y hormigones, no refractarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.99.70.00</td>
-<td class="cuerpo_tabla_izq">Preparaciones ignífugas, hidrófugas y otras, utilizadas para la protección de construcciones.</td>
+<td>3824.99.70.00</td>
+<td>Preparaciones ignífugas, hidrófugas y otras, utilizadas para la protección de construcciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3824.99.96.99</td>
-<td class="cuerpo_tabla_izq">Los demás. Solamente gravados los convertidores, neutralizadores y transformadores del óxido.</td>
+<td>3824.99.96.99</td>
+<td>Los demás. Solamente gravados los convertidores, neutralizadores y transformadores del óxido.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6809</td>
-<td class="cuerpo_tabla_izq">Manufacturas de yeso fraguable o de preparaciones a base de yeso fraguable.</td>
+<td>6809</td>
+<td>Manufacturas de yeso fraguable o de preparaciones a base de yeso fraguable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7006.00.90</td>
-<td class="cuerpo_tabla_izq">Los demás vidrios de las partidas 7003, 7004 o 7005, curvado, biselado, grabado, taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.</td>
+<td>7006.00.90</td>
+<td>Los demás vidrios de las partidas 7003, 7004 o 7005, curvado, biselado, grabado, taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7007.19</td>
-<td class="cuerpo_tabla_izq">Los demás vidrios de seguridad constituidos por vidrio templado.</td>
+<td>7007.19</td>
+<td>Los demás vidrios de seguridad constituidos por vidrio templado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7008</td>
-<td class="cuerpo_tabla_izq">Vidrieras aislantes de paredes múltiples.</td>
+<td>7008</td>
+<td>Vidrieras aislantes de paredes múltiples.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7010</td>
-<td class="cuerpo_tabla_izq">Bombonas (damajuanas), botellas, frascos, bocales, tarros, envases tubulares, ampollas y demás recipientes para el transporte o envasado, de vidrio; bocales para conservas, de vidrio; tapones, tapas y demás dispositivos de cierre, de vidrio. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
+<td>7010</td>
+<td>Bombonas (damajuanas), botellas, frascos, bocales, tarros, envases tubulares, ampollas y demás recipientes para el transporte o envasado, de vidrio; bocales para conservas, de vidrio; tapones, tapas y demás dispositivos de cierre, de vidrio. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Química</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2804.30.00.00</td>
-<td class="cuerpo_tabla_izq">Nitrógeno.</td>
+<td>2804.30.00.00</td>
+<td>Nitrógeno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2804.40.00.00</td>
-<td class="cuerpo_tabla_izq">Oxígeno.</td>
+<td>2804.40.00.00</td>
+<td>Oxígeno.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2807</td>
-<td class="cuerpo_tabla_izq">Ácido sulfúrico; óleum. Solamente gravado el ácido sulfúrico con una concentración en peso menor o igual al 40%.</td>
+<td>2807</td>
+<td>Ácido sulfúrico; óleum. Solamente gravado el ácido sulfúrico con una concentración en peso menor o igual al 40%.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2811.21.00.00</td>
-<td class="cuerpo_tabla_izq">Dióxido de carbono.</td>
+<td>2811.21.00.00</td>
+<td>Dióxido de carbono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2828.90.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Solamente gravado el hipoclorito de sodio.</td>
+<td>2828.90.00.00</td>
+<td>Los demás. Solamente gravado el hipoclorito de sodio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3102.10.90.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Solamente gravado la urea en disolución acuosa con una concentración en peso igual o inferior al 41% en peso.</td>
+<td>3102.10.90.00</td>
+<td>Los demás. Solamente gravado la urea en disolución acuosa con una concentración en peso igual o inferior al 41% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3105.20.90.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Abonos minerales o químicos con los tres elementos fertilizantes: nitrógeno, fósforo y potasio. Solamente gravados los productos a base de algas.</td>
+<td>3105.20.90.00</td>
+<td>Los demás. Abonos minerales o químicos con los tres elementos fertilizantes: nitrógeno, fósforo y potasio. Solamente gravados los productos a base de algas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3208</td>
-<td class="cuerpo_tabla_izq">Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio no acuoso; disoluciones definidas en la nota 4 del capítulo. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
+<td>3208</td>
+<td>Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio no acuoso; disoluciones definidas en la nota 4 del capítulo. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3209</td>
-<td class="cuerpo_tabla_izq">Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio acuoso. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
+<td>3209</td>
+<td>Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio acuoso. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3212.90.00.00</td>
-<td class="cuerpo_tabla_izq">Las demás. Solamente gravados los tintes y demás materiales colorantes en formas o envases para la venta al por menor.</td>
+<td>3212.90.00.00</td>
+<td>Las demás. Solamente gravados los tintes y demás materiales colorantes en formas o envases para la venta al por menor.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3213</td>
-<td class="cuerpo_tabla_izq">Colores para pintura artística, la enseñanza, la pintura de carteles, para matizar o para entretenimiento y colores similares, en pastillas, tubos, botes, frascos o en formas o envases similares.</td>
+<td>3213</td>
+<td>Colores para pintura artística, la enseñanza, la pintura de carteles, para matizar o para entretenimiento y colores similares, en pastillas, tubos, botes, frascos o en formas o envases similares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3214</td>
-<td class="cuerpo_tabla_izq">Masilla, cementos de resina y demás mastiques; plastes (enduidos) utilizados en pintura, plastes (enduidos) no refractarios de los tipos utilizados en albañilería.</td>
+<td>3214</td>
+<td>Masilla, cementos de resina y demás mastiques; plastes (enduidos) utilizados en pintura, plastes (enduidos) no refractarios de los tipos utilizados en albañilería.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3304.99.00.00</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones de belleza, maquillaje y para el cuidado de la piel (excepto los medicamentos), incluidas las preparaciones antisolares y las bronceadoras, preparaciones para manicuras o pedicuras. Solamente gravadas aquellas preparaciones con un contenido de aloe vera igual o superior al 30% en peso.</td>
+<td>3304.99.00.00</td>
+<td>Las demás preparaciones de belleza, maquillaje y para el cuidado de la piel (excepto los medicamentos), incluidas las preparaciones antisolares y las bronceadoras, preparaciones para manicuras o pedicuras. Solamente gravadas aquellas preparaciones con un contenido de aloe vera igual o superior al 30% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3401</td>
-<td class="cuerpo_tabla_izq">Jabón; productos y preparaciones orgánicos tensoactivos usados como jabón, en barras, panes, trozos, o piezas troqueladas o moldeadas, aunque contengan jabón; productos y preparaciones orgánicos tensoactivos para el lavado de la piel, líquidos o en crema, acondicionados para la venta al por menor, aunque contengan jabón; papel, guata, fieltro y tela sin tejer, impregnados, recubiertos o revestidos de jabón o de detergentes.</td>
+<td>3401</td>
+<td>Jabón; productos y preparaciones orgánicos tensoactivos usados como jabón, en barras, panes, trozos, o piezas troqueladas o moldeadas, aunque contengan jabón; productos y preparaciones orgánicos tensoactivos para el lavado de la piel, líquidos o en crema, acondicionados para la venta al por menor, aunque contengan jabón; papel, guata, fieltro y tela sin tejer, impregnados, recubiertos o revestidos de jabón o de detergentes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3402</td>
-<td class="cuerpo_tabla_izq">Agentes de superficie orgánica (excepto el jabón), preparaciones tensoactivas, preparaciones para lavar, incluidas las preparaciones auxiliares de lavado, y preparaciones de limpieza, aunque contengan jabón, excepto las de la partida 3401. Se excluyen las partidas 3402.11, 3402.12, 3402.13 y 3402.19. Solamente gravados los productos en envases de contenido neto inferior a 200 kg.</td>
+<td>3402</td>
+<td>Agentes de superficie orgánica (excepto el jabón), preparaciones tensoactivas, preparaciones para lavar, incluidas las preparaciones auxiliares de lavado, y preparaciones de limpieza, aunque contengan jabón, excepto las de la partida 3401. Se excluyen las partidas 3402.11, 3402.12, 3402.13 y 3402.19. Solamente gravados los productos en envases de contenido neto inferior a 200 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3406</td>
-<td class="cuerpo_tabla_izq">Velas, cirios y artículos similares.</td>
+<td>3406</td>
+<td>Velas, cirios y artículos similares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3814.00.90</td>
-<td class="cuerpo_tabla_izq">Los demás. Disolventes y diluyentes orgánicos compuestos, no expresados en otras partidas; preparaciones para quitar pinturas o barnices.</td>
+<td>3814.00.90</td>
+<td>Los demás. Disolventes y diluyentes orgánicos compuestos, no expresados en otras partidas; preparaciones para quitar pinturas o barnices.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.21</td>
-<td class="cuerpo_tabla_izq">Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm. Excepto los destinados a la agricultura con gotero insertado.</td>
+<td>3917.21</td>
+<td>Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm. Excepto los destinados a la agricultura con gotero insertado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.21</td>
-<td class="cuerpo_tabla_izq">Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm y los destinados a la agricultura con gotero insertado.</td>
+<td>3917.21</td>
+<td>Tubos rígidos de polímeros de etileno. Solamente gravados los de diámetro inferior o igual a 300 mm y los destinados a la agricultura con gotero insertado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.23</td>
-<td class="cuerpo_tabla_izq">Tubos rígidos de polímeros de cloruro de vinilo de pared compacta (excepto los tubos rígidos de polímeros de cloruro de vinilo orientado). Solamente gravados los de diámetro inferior o igual a 500 mm.</td>
+<td>3917.23</td>
+<td>Tubos rígidos de polímeros de cloruro de vinilo de pared compacta (excepto los tubos rígidos de polímeros de cloruro de vinilo orientado). Solamente gravados los de diámetro inferior o igual a 500 mm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.32.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin accesorios (excepto los tubos de polímeros de etileno reticulados y los destinados a la agricultura con gotero insertado). Solamente gravados los tubos de polímeros de etileno de diámetro inferior o igual a 300 mm y los tubos de polímeros de cloruro de vinilo de pared compacta de diámetro inferior o igual a 63 mm.</td>
+<td>3917.32.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin accesorios (excepto los tubos de polímeros de etileno reticulados y los destinados a la agricultura con gotero insertado). Solamente gravados los tubos de polímeros de etileno de diámetro inferior o igual a 300 mm y los tubos de polímeros de cloruro de vinilo de pared compacta de diámetro inferior o igual a 63 mm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.32.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin accesorios. Solamente gravados los destinados a la agricultura con gotero insertado.</td>
+<td>3917.32.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, sin accesorios. Solamente gravados los destinados a la agricultura con gotero insertado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.33.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, con accesorios. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
+<td>3917.33.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, sin reforzar ni combinar con otras materias, con accesorios. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3917.39.00</td>
-<td class="cuerpo_tabla_izq">Los demás tubos flexibles para una presión inferior a 27,6 Mpa, reforzados o combinados con otras materias. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
+<td>3917.39.00</td>
+<td>Los demás tubos flexibles para una presión inferior a 27,6 Mpa, reforzados o combinados con otras materias. Solamente gravados los de diámetro inferior o igual a 250 mm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3920</td>
-<td class="cuerpo_tabla_izq">Las demás placas, láminas, películas, hojas y tiras, de plástico no celular y sin refuerzo, estratificación ni soporte o combinación similar con otras materias. Excepto el film estirable y las bobinas de ancho igual o superior a 1,80 metros y las bobinas de plástico destinadas a la fabricación de envases de venta o envases primarios destinados a la alimentación.</td>
+<td>3920</td>
+<td>Las demás placas, láminas, películas, hojas y tiras, de plástico no celular y sin refuerzo, estratificación ni soporte o combinación similar con otras materias. Excepto el film estirable y las bobinas de ancho igual o superior a 1,80 metros y las bobinas de plástico destinadas a la fabricación de envases de venta o envases primarios destinados a la alimentación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.10</td>
-<td class="cuerpo_tabla_izq">Cajas, cajones, jaulas y artículos similares de plástico. De base poligonal con alguno de los lados igual o superior a 30 cm, o de base curva plana cerrada con alguno de los diámetros igual o superior a 30 cm.</td>
+<td>3923.10</td>
+<td>Cajas, cajones, jaulas y artículos similares de plástico. De base poligonal con alguno de los lados igual o superior a 30 cm, o de base curva plana cerrada con alguno de los diámetros igual o superior a 30 cm.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.21.00</td>
-<td class="cuerpo_tabla_izq">Sacos (bolsas), bolsitas y cucuruchos de polímeros de etileno. Excepto los destinados a uso sanitario.</td>
+<td>3923.21.00</td>
+<td>Sacos (bolsas), bolsitas y cucuruchos de polímeros de etileno. Excepto los destinados a uso sanitario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.29</td>
-<td class="cuerpo_tabla_izq">Sacos (bolsas), bolsitas y cucuruchos de los demás plásticos distintos de los de polímeros de etileno. Solamente gravados las biodegradables y compostables. Excepto los destinados a uso sanitario.</td>
+<td>3923.29</td>
+<td>Sacos (bolsas), bolsitas y cucuruchos de los demás plásticos distintos de los de polímeros de etileno. Solamente gravados las biodegradables y compostables. Excepto los destinados a uso sanitario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.30.10</td>
-<td class="cuerpo_tabla_izq">Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad inferior o igual a 2 litros. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
+<td>3923.30.10</td>
+<td>Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad inferior o igual a 2 litros. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.30.90</td>
-<td class="cuerpo_tabla_izq">Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad superior a 2 litros. Excepto los destinados a uso sanitario y los artículos con una capacidad igual o superior a 20 litros.</td>
+<td>3923.30.90</td>
+<td>Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad superior a 2 litros. Excepto los destinados a uso sanitario y los artículos con una capacidad igual o superior a 20 litros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3923.90.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos.</td>
+<td>3923.90.00.00</td>
+<td>Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3925.20.00.00</td>
-<td class="cuerpo_tabla_izq">Puertas, ventanas, y sus marcos, contramarcos y umbrales, de plástico.</td>
+<td>3925.20.00.00</td>
+<td>Puertas, ventanas, y sus marcos, contramarcos y umbrales, de plástico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3925.90.80.00</td>
-<td class="cuerpo_tabla_izq">Los demás artículos para la construcción, de plástico, no expresados ni comprendidos en otra parte.</td>
+<td>3925.90.80.00</td>
+<td>Los demás artículos para la construcción, de plástico, no expresados ni comprendidos en otra parte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4012.12.00</td>
-<td class="cuerpo_tabla_izq">Neumáticos (llantas neumáticas) recauchutados del tipo de los utilizados en autobuses y camiones.</td>
+<td>4012.12.00</td>
+<td>Neumáticos (llantas neumáticas) recauchutados del tipo de los utilizados en autobuses y camiones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Industrias metálicas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7308</td>
-<td class="cuerpo_tabla_izq">Construcciones y sus partes (por ejemplo: puentes y sus partes, compuertas de esclusas, torres, castilletes, pilares, columnas, armazones para techumbre, techados, puertas y ventanas y sus marcos, contramarcos y umbrales, cortinas de cierre y barandillas); de fundición, hierro o acero, (excepto las construcciones prefabricadas de la partida 9406); chapas, barras, perfiles, tubos y similares, de fundición, de hierro o acero; preparados para la construcción. Excepto las barreras metálicas horizontales (biondas) de seguridad en carreteras.</td>
+<td>7308</td>
+<td>Construcciones y sus partes (por ejemplo: puentes y sus partes, compuertas de esclusas, torres, castilletes, pilares, columnas, armazones para techumbre, techados, puertas y ventanas y sus marcos, contramarcos y umbrales, cortinas de cierre y barandillas); de fundición, hierro o acero, (excepto las construcciones prefabricadas de la partida 9406); chapas, barras, perfiles, tubos y similares, de fundición, de hierro o acero; preparados para la construcción. Excepto las barreras metálicas horizontales (biondas) de seguridad en carreteras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7309.00</td>
-<td class="cuerpo_tabla_izq">Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, de capacidad superior a 300 litros, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo, excepto los comprendidos en la partida 7309.00.90.</td>
+<td>7309.00</td>
+<td>Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, de capacidad superior a 300 litros, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo, excepto los comprendidos en la partida 7309.00.90.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7604</td>
-<td class="cuerpo_tabla_izq">Barras y perfiles, de aluminio.</td>
+<td>7604</td>
+<td>Barras y perfiles, de aluminio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7608</td>
-<td class="cuerpo_tabla_izq">Tubos de aluminio.</td>
+<td>7608</td>
+<td>Tubos de aluminio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7610.10.00.00</td>
-<td class="cuerpo_tabla_izq">Puertas y ventanas y sus marcos, contramarcos y umbrales, de aluminio.</td>
+<td>7610.10.00.00</td>
+<td>Puertas y ventanas y sus marcos, contramarcos y umbrales, de aluminio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8424.82</td>
-<td class="cuerpo_tabla_izq">Los demás aparatos para la agricultura u horticultura. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
+<td>8424.82</td>
+<td>Los demás aparatos para la agricultura u horticultura. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8424.90.80.80</td>
-<td class="cuerpo_tabla_izq">Las demás partes de aparatos mecánicos, incluso manuales, para proyectar, dispersar o pulverizar materias líquidas o en polvo; extintores, incluso cargados; pistolas aerográficas y aparatos similares; máquinas y aparatos de chorro de arena o de vapor y aparatos de chorro similares. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
+<td>8424.90.80.80</td>
+<td>Las demás partes de aparatos mecánicos, incluso manuales, para proyectar, dispersar o pulverizar materias líquidas o en polvo; extintores, incluso cargados; pistolas aerográficas y aparatos similares; máquinas y aparatos de chorro de arena o de vapor y aparatos de chorro similares. Solamente gravados los conductos y tubos, de plástico, para sistemas de riego.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8907.90.00.00</td>
-<td class="cuerpo_tabla_izq">Los demás artefactos flotantes (por ejemplo: balsas, depósitos, cajones, incluso de amarre, boyas y balizas).</td>
+<td>8907.90.00.00</td>
+<td>Los demás artefactos flotantes (por ejemplo: balsas, depósitos, cajones, incluso de amarre, boyas y balizas).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9403</td>
-<td class="cuerpo_tabla_izq">Los demás muebles y sus partes. Excepto las estanterías metálicas y sus partes.</td>
+<td>9403</td>
+<td>Los demás muebles y sus partes. Excepto las estanterías metálicas y sus partes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9403</td>
-<td class="cuerpo_tabla_izq">Los demás muebles y sus partes. Solamente gravadas las estanterías metálicas partes.</td>
+<td>9403</td>
+<td>Los demás muebles y sus partes. Solamente gravadas las estanterías metálicas partes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9403</td>
-<td class="cuerpo_tabla_izq">Los demás muebles y sus partes. Solamente gravadas las estanterías metálicas y sus partes.</td>
+<td>9403</td>
+<td>Los demás muebles y sus partes. Solamente gravadas las estanterías metálicas y sus partes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9404</td>
-<td class="cuerpo_tabla_izq">Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufs o almohadas); bien con muelles (resortes), o bien rellenos o guarnecidos interiormente con cualquier materia, incluidos los de caucho o plástico celulares, recubiertos o no. Excepto las partidas 9404.10.00.00 y 9404.30.00.00.</td>
+<td>9404</td>
+<td>Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufs o almohadas); bien con muelles (resortes), o bien rellenos o guarnecidos interiormente con cualquier materia, incluidos los de caucho o plástico celulares, recubiertos o no. Excepto las partidas 9404.10.00.00 y 9404.30.00.00.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9406.90.90.00</td>
-<td class="cuerpo_tabla_izq">Construcciones prefabricadas de las demás materias, distintas de madera, hierro o acero.</td>
+<td>9406.90.90.00</td>
+<td>Construcciones prefabricadas de las demás materias, distintas de madera, hierro o acero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Alimentación y Bebidas</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.11.11.00</td>
-<td class="cuerpo_tabla_izq">Jamones y trozos de jamón salados o en salmuera.</td>
+<td>0210.11.11.00</td>
+<td>Jamones y trozos de jamón salados o en salmuera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.11.31.00</td>
-<td class="cuerpo_tabla_izq">Jamones y trozos de jamón secos o ahumados.</td>
+<td>0210.11.31.00</td>
+<td>Jamones y trozos de jamón secos o ahumados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.12.11.00</td>
-<td class="cuerpo_tabla_izq">Tocino entreverado de panza (panceta) y sus trozos salados o en salmuera.</td>
+<td>0210.12.11.00</td>
+<td>Tocino entreverado de panza (panceta) y sus trozos salados o en salmuera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.12.19.00</td>
-<td class="cuerpo_tabla_izq">Tocino entreverado de panza (panceta) y sus trozos secos o ahumados.</td>
+<td>0210.12.19.00</td>
+<td>Tocino entreverado de panza (panceta) y sus trozos secos o ahumados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.19.40.00</td>
-<td class="cuerpo_tabla_izq">Chuleteros y trozos de chuleteros salados o en salmuera.</td>
+<td>0210.19.40.00</td>
+<td>Chuleteros y trozos de chuleteros salados o en salmuera.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0210.19.81</td>
-<td class="cuerpo_tabla_izq">Deshuesados (carne de la especie porcina doméstica, secos o ahumados).</td>
+<td>0210.19.81</td>
+<td>Deshuesados (carne de la especie porcina doméstica, secos o ahumados).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0305.41.00</td>
-<td class="cuerpo_tabla_izq">Salmones del Pacífico, salmones del Atlántico y salmones del Danubio. Solamente gravados los salmones ahumados.</td>
+<td>0305.41.00</td>
+<td>Salmones del Pacífico, salmones del Atlántico y salmones del Danubio. Solamente gravados los salmones ahumados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0403</td>
-<td class="cuerpo_tabla_izq">Suero de mantequilla (de manteca), leche y nata (crema) cuajadas, yogur, kefir y demás leches y natas (cremas) fermentadas o acidificadas, incluso concentrados, con adición de azúcar u otro edulcorante, aromatizados o con frutas u otros frutos o cacao.</td>
+<td>0403</td>
+<td>Suero de mantequilla (de manteca), leche y nata (crema) cuajadas, yogur, kefir y demás leches y natas (cremas) fermentadas o acidificadas, incluso concentrados, con adición de azúcar u otro edulcorante, aromatizados o con frutas u otros frutos o cacao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.10.30.90</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos de la mozzarella y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%.</p>
-<p class="cuerpo_tabla_izq">Solamente gravado el queso fresco.</p>
+<td>0406.10.30.90</td>
+<td>
+<p>Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos de la mozzarella y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%.</p>
+<p>Solamente gravado el queso fresco.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.10.50.90</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos del skyr y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%.</p>
-<p class="cuerpo_tabla_izq">Solamente gravado el queso fresco.</p>
+<td>0406.10.50.90</td>
+<td>
+<p>Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas inferior o igual al 40% en peso. Distintos del skyr y del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%.</p>
+<p>Solamente gravado el queso fresco.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.10.80.80</td>
-<td class="cuerpo_tabla_izq">Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas superior 40% en peso. Distintos del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
+<td>0406.10.80.80</td>
+<td>Los demás quesos frescos (sin madurar), incluido el del lactosuero y requesón, con un contenido de materias grasas superior 40% en peso. Distintos del queso para pizza, congelado, cortado en trozos de peso inferior o igual a 1gr, en envases de contenido neto igual o superior a 5kg, con un contenido en peso de agua igual o superior al 52% y un contenido en peso de grasa en la materia seca igual o superior al 38%. Solamente gravado el queso fresco.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.69.00</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al.</p>
-<p class="cuerpo_tabla_izq">40% en peso, y un contenido de agua en la materia no grasa inferior o igual al.</p>
-<p class="cuerpo_tabla_izq">47%.</p>
+<td>0406.90.69.00</td>
+<td>
+<p>Los demás quesos con un contenido de materias grasas inferior o igual al.</p>
+<p>40% en peso, y un contenido de agua en la materia no grasa inferior o igual al.</p>
+<p>47%.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.86.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia no grasa superior al 47%, pero inferior o igual al 52% en peso.</td>
+<td>0406.90.86.90</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia no grasa superior al 47%, pero inferior o igual al 52% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.89.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso y un contenido de agua en la materia no grasa superior al 52%, pero inferior o igual al 62% en peso.</td>
+<td>0406.90.89.90</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso y un contenido de agua en la materia no grasa superior al 52%, pero inferior o igual al 62% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.92.90</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 62%, pero inferior o igual al 72% en peso.</td>
+<td>0406.90.92.90</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 62%, pero inferior o igual al 72% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.93.00</td>
-<td class="cuerpo_tabla_izq">Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 72% en peso.</td>
+<td>0406.90.93.00</td>
+<td>Los demás quesos con un contenido de materias grasas inferior o igual al 40% en peso, y un contenido de agua en la materia grasa superior al 72% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0406.90.99.00</td>
-<td class="cuerpo_tabla_izq">Los demás quesos.</td>
+<td>0406.90.99.00</td>
+<td>Los demás quesos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0901.21</td>
-<td class="cuerpo_tabla_izq">Café tostado sin descafeinar.</td>
+<td>0901.21</td>
+<td>Café tostado sin descafeinar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0901.22.00.00</td>
-<td class="cuerpo_tabla_izq">Café tostado descafeinado.</td>
+<td>0901.22.00.00</td>
+<td>Café tostado descafeinado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1101</td>
-<td class="cuerpo_tabla_izq">Harina de trigo y de morcajo o tranquillón.</td>
+<td>1101</td>
+<td>Harina de trigo y de morcajo o tranquillón.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1102</td>
-<td class="cuerpo_tabla_izq">Harina de cereales, excepto de trigo o de morcajo (tranquillón).</td>
+<td>1102</td>
+<td>Harina de cereales, excepto de trigo o de morcajo (tranquillón).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1601</td>
-<td class="cuerpo_tabla_izq">Embutidos y productos similares de carne, de despojos o sangre; preparaciones alimenticias a base de estos productos.</td>
+<td>1601</td>
+<td>Embutidos y productos similares de carne, de despojos o sangre; preparaciones alimenticias a base de estos productos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1602</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones y conservas de carne, despojos o sangre. Excepto la partida 1602.50.31.00, corned beef en envases herméticamente cerrados.</td>
+<td>1602</td>
+<td>Las demás preparaciones y conservas de carne, despojos o sangre. Excepto la partida 1602.50.31.00, corned beef en envases herméticamente cerrados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1702.90.95.00</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Los demás azúcares, incluido el azúcar invertido, y demás azúcares y jarabes de azúcar con un contenido de fructosa sobre producto seco del 50% en peso.</p>
-<p class="cuerpo_tabla_izq">Solamente gravado el azúcar invertido.</p>
+<td>1702.90.95.00</td>
+<td>
+<p>Los demás azúcares, incluido el azúcar invertido, y demás azúcares y jarabes de azúcar con un contenido de fructosa sobre producto seco del 50% en peso.</p>
+<p>Solamente gravado el azúcar invertido.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.30.00</td>
-<td class="cuerpo_tabla_izq">Preparación llamada chocolate blanco.</td>
+<td>1704.90.30.00</td>
+<td>Preparación llamada chocolate blanco.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.51.00</td>
-<td class="cuerpo_tabla_izq">Pastas y masas, incluido el mazapán, en envases inmediatos con un contenido neto igual o superior a 1 kg.</td>
+<td>1704.90.51.00</td>
+<td>Pastas y masas, incluido el mazapán, en envases inmediatos con un contenido neto igual o superior a 1 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.71.00</td>
-<td class="cuerpo_tabla_izq">Caramelos de azúcar cocido, incluso rellenos.</td>
+<td>1704.90.71.00</td>
+<td>Caramelos de azúcar cocido, incluso rellenos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1704.90.75.00</td>
-<td class="cuerpo_tabla_izq">Los demás caramelos.</td>
+<td>1704.90.75.00</td>
+<td>Los demás caramelos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1806</td>
-<td class="cuerpo_tabla_izq">Chocolate y demás preparaciones alimenticias que contengan cacao; excepto la 1806.20.95. En las partidas 1806.20.50, 1806.20.70, 1806.20.80 y 1806.90 solamente gravados los productos en envases de peso neto inferior a 20 kg.</td>
+<td>1806</td>
+<td>Chocolate y demás preparaciones alimenticias que contengan cacao; excepto la 1806.20.95. En las partidas 1806.20.50, 1806.20.70, 1806.20.80 y 1806.90 solamente gravados los productos en envases de peso neto inferior a 20 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.20.00.00</td>
-<td class="cuerpo_tabla_izq">Mezclas y pastas para la preparación de productos de panadería, pastelería o.</td>
+<td>1901.20.00.00</td>
+<td>Mezclas y pastas para la preparación de productos de panadería, pastelería o.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">galletería de la partida 1905, excepto sin materias grasas de la leche o con ella en una proporción inferior al 1,5% en peso, con un contenido de almidón o de fécula igual o superior al 50% e inferior al 75% en peso. Solamente gravados los productos en envases de peso neto inferior a 5 kg.</td>
+<td> </td>
+<td>galletería de la partida 1905, excepto sin materias grasas de la leche o con ella en una proporción inferior al 1,5% en peso, con un contenido de almidón o de fécula igual o superior al 50% e inferior al 75% en peso. Solamente gravados los productos en envases de peso neto inferior a 5 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.90.91.00</td>
-<td class="cuerpo_tabla_izq">Las demás. Sin materias grasas de la leche o con un contenido inferior al 1,5% en peso; sin sacarosa (incluido el azúcar invertido) o isoglucosa o con un contenido inferior al 5% en peso, sin almidón o fécula o glucosa o con menos del 5% en peso, excepto las preparaciones alimenticias en polvo de productos de las partidas 0401 a 0404. Que no contengan cacao (Mix para helados). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
+<td>1901.90.91.00</td>
+<td>Las demás. Sin materias grasas de la leche o con un contenido inferior al 1,5% en peso; sin sacarosa (incluido el azúcar invertido) o isoglucosa o con un contenido inferior al 5% en peso, sin almidón o fécula o glucosa o con menos del 5% en peso, excepto las preparaciones alimenticias en polvo de productos de las partidas 0401 a 0404. Que no contengan cacao (Mix para helados). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.90.95</td>
-<td class="cuerpo_tabla_izq">Preparaciones alimenticias en polvo, constituidas por una mezcla de leche desnatada o de lactosuero y de grasas o aceites vegetales, con un contenido de grasas o aceites inferior o igual al 30% en peso. Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
+<td>1901.90.95</td>
+<td>Preparaciones alimenticias en polvo, constituidas por una mezcla de leche desnatada o de lactosuero y de grasas o aceites vegetales, con un contenido de grasas o aceites inferior o igual al 30% en peso. Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1901.90.99</td>
-<td class="cuerpo_tabla_izq">Las demás (Extracto de malta; preparaciones alimenticias de harina, grañones, sémola, fécula o extracto de malta….). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
+<td>1901.90.99</td>
+<td>Las demás (Extracto de malta; preparaciones alimenticias de harina, grañones, sémola, fécula o extracto de malta….). Solamente gravados los productos en envases de peso neto inferior a 15 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1902</td>
-<td class="cuerpo_tabla_izq">Pastas alimenticias, incluso cocidas o rellenas (de carne u otras sustancias) o bien preparadas de otra forma, tales como espaguetis, fideos, macarrones, tallarines, lasañas, ñoquis, ravioles, canelones; cuscús, incluso preparado.</td>
+<td>1902</td>
+<td>Pastas alimenticias, incluso cocidas o rellenas (de carne u otras sustancias) o bien preparadas de otra forma, tales como espaguetis, fideos, macarrones, tallarines, lasañas, ñoquis, ravioles, canelones; cuscús, incluso preparado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1904.10.10</td>
-<td class="cuerpo_tabla_izq">Productos a base de cereales, obtenidos por inflado o tostado a base de maíz.</td>
+<td>1904.10.10</td>
+<td>Productos a base de cereales, obtenidos por inflado o tostado a base de maíz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1905</td>
-<td class="cuerpo_tabla_izq">Productos de panadería, pastelería o galletería, incluso con adición de cacao; hostias, sellos vacíos del tipo de los utilizados para medicamentos, obleas para sellar, pastas secas de harina, almidón o fécula, en hojas, y productos similares. Excluidos los pellets de patata, los pellets de maíz y los pellets de trigo.</td>
+<td>1905</td>
+<td>Productos de panadería, pastelería o galletería, incluso con adición de cacao; hostias, sellos vacíos del tipo de los utilizados para medicamentos, obleas para sellar, pastas secas de harina, almidón o fécula, en hojas, y productos similares. Excluidos los pellets de patata, los pellets de maíz y los pellets de trigo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2002.90</td>
-<td class="cuerpo_tabla_izq">Los demás tomates preparados o conservados (excepto en vinagre o en ácido acético). Solamente gravadas las preparaciones alimenticias a base de tomate denominadas tomate frito.</td>
+<td>2002.90</td>
+<td>Los demás tomates preparados o conservados (excepto en vinagre o en ácido acético). Solamente gravadas las preparaciones alimenticias a base de tomate denominadas tomate frito.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2005.20.20</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Patatas (papas) en rodajas finas, fritas, incluso saladas o aromatizadas, en envases herméticamente cerrados, idóneos para su consumo inmediato.</p>
-<p class="cuerpo_tabla_izq">Solamente gravadas las papas fritas tipo chips.</p>
+<td>2005.20.20</td>
+<td>
+<p>Patatas (papas) en rodajas finas, fritas, incluso saladas o aromatizadas, en envases herméticamente cerrados, idóneos para su consumo inmediato.</p>
+<p>Solamente gravadas las papas fritas tipo chips.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2006.00.31</td>
-<td class="cuerpo_tabla_izq">Cerezas confitadas con azúcar (almibaradas, glaseadas o escarchadas).</td>
+<td>2006.00.31</td>
+<td>Cerezas confitadas con azúcar (almibaradas, glaseadas o escarchadas).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2007.10.10.95</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones homogeneizadas con un contenido de azúcares superior al 13% en peso. Confituras, jaleas y mermeladas, purés y pastas de frutas u otros frutos, obtenidos por cocción, incluso con adición de azúcar u otro edulcorante.</td>
+<td>2007.10.10.95</td>
+<td>Las demás preparaciones homogeneizadas con un contenido de azúcares superior al 13% en peso. Confituras, jaleas y mermeladas, purés y pastas de frutas u otros frutos, obtenidos por cocción, incluso con adición de azúcar u otro edulcorante.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.11.96.00</td>
-<td class="cuerpo_tabla_izq">Cacahuetes tostados en envases de peso neto inferior o igual a 1 kg.</td>
+<td>2008.11.96.00</td>
+<td>Cacahuetes tostados en envases de peso neto inferior o igual a 1 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.11.98.00</td>
-<td class="cuerpo_tabla_izq">Los demás cacahuetes en envases de peso neto inferior o igual a 1 kg.</td>
+<td>2008.11.98.00</td>
+<td>Los demás cacahuetes en envases de peso neto inferior o igual a 1 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.92</td>
-<td class="cuerpo_tabla_izq">Frutos de cáscara y demás semillas, incluidas las mezclas, en envases.</td>
+<td>2008.19.92</td>
+<td>Frutos de cáscara y demás semillas, incluidas las mezclas, en envases.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">inmediatos con un contenido neto igual o inferior a 1 kg: Nueces tropicales; mezclas con un contenido de nueces tropicales superior o igual al 50% en peso.</td>
+<td> </td>
+<td>inmediatos con un contenido neto igual o inferior a 1 kg: Nueces tropicales; mezclas con un contenido de nueces tropicales superior o igual al 50% en peso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.93</td>
-<td class="cuerpo_tabla_izq">Almendras y pistachos tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1 kg.</td>
+<td>2008.19.93</td>
+<td>Almendras y pistachos tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.95</td>
-<td class="cuerpo_tabla_izq">Los demás frutos de cáscara tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1 kg.</td>
+<td>2008.19.95</td>
+<td>Los demás frutos de cáscara tostados, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2008.19.99</td>
-<td class="cuerpo_tabla_izq">Frutos de cáscara sin tostar y demás semillas, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1 kg.</td>
+<td>2008.19.99</td>
+<td>Frutos de cáscara sin tostar y demás semillas, incluidas las mezclas, en envases inmediatos con un contenido neto igual o inferior a 1 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.12.00</td>
-<td class="cuerpo_tabla_izq">Jugo de naranja sin congelar de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
+<td>2009.12.00</td>
+<td>Jugo de naranja sin congelar de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.41</td>
-<td class="cuerpo_tabla_izq">Jugo de piña de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
+<td>2009.41</td>
+<td>Jugo de piña de valor Brix inferior o igual a 20. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.50</td>
-<td class="cuerpo_tabla_izq">Jugo de tomate. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
+<td>2009.50</td>
+<td>Jugo de tomate. Solamente gravados los productos en envases de peso neto inferior a 150 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.61</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Jugo de uva (incluido el mosto), de valor Brix inferior o igual a 30.</p>
-<p class="cuerpo_tabla_izq">Solamente gravados los productos en envase de peso neto inferior a 150 kg.</p>
+<td>2009.61</td>
+<td>
+<p>Jugo de uva (incluido el mosto), de valor Brix inferior o igual a 30.</p>
+<p>Solamente gravados los productos en envase de peso neto inferior a 150 kg.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.71</td>
-<td class="cuerpo_tabla_izq">Jugo de manzana de valor Brix inferior o igual a 20. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>2009.71</td>
+<td>Jugo de manzana de valor Brix inferior o igual a 20. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.89</td>
-<td class="cuerpo_tabla_izq">Los demás jugos de cualquier otra fruta o fruto, u hortaliza. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>2009.89</td>
+<td>Los demás jugos de cualquier otra fruta o fruto, u hortaliza. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2009.90</td>
-<td class="cuerpo_tabla_izq">Mezclas de jugos. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
+<td>2009.90</td>
+<td>Mezclas de jugos. Solamente gravados los productos en envase de peso neto inferior a 150 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.20.00.00</td>
-<td class="cuerpo_tabla_izq">Ketchup y demás salsas de tomate.</td>
+<td>2103.20.00.00</td>
+<td>Ketchup y demás salsas de tomate.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.30</td>
-<td class="cuerpo_tabla_izq">Harina de mostaza y mostaza preparada, excepto la harina de mostaza clasificada en la posición 2103.30.10, en envases de peso neto igual o superior a 20 kg.</td>
+<td>2103.30</td>
+<td>Harina de mostaza y mostaza preparada, excepto la harina de mostaza clasificada en la posición 2103.30.10, en envases de peso neto igual o superior a 20 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.90.90</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Las demás preparaciones para salsas y salsas preparadas, condimentos, sazonadores y compuestos, excepto:</p>
-<p class="cuerpo_tabla_izq">La mayonesa.</p>
-<p class="cuerpo_tabla_izq">Los condimentos, sazonadores y compuestos en envases de peso neto igual o superior a 5 kg.</p>
+<td>2103.90.90</td>
+<td>
+<p>Las demás preparaciones para salsas y salsas preparadas, condimentos, sazonadores y compuestos, excepto:</p>
+<p>La mayonesa.</p>
+<p>Los condimentos, sazonadores y compuestos en envases de peso neto igual o superior a 5 kg.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2103.90.90</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones para salsas y salsas preparadas, condimentos y sazonadores. Solamente gravada la mayonesa.</td>
+<td>2103.90.90</td>
+<td>Las demás preparaciones para salsas y salsas preparadas, condimentos y sazonadores. Solamente gravada la mayonesa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2105</td>
-<td class="cuerpo_tabla_izq">Helados, incluso con cacao.</td>
+<td>2105</td>
+<td>Helados, incluso con cacao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2106.90.98</td>
-<td class="cuerpo_tabla_izq">Las demás preparaciones alimenticias no expresadas ni comprendidas en otra parte. Excepto: Alimentos para niños que contengan leche y productos a base de leche. Excluidos los destinados a uso sanitario. Solamente gravados los productos en envases de peso neto inferior a 5 kg.</td>
+<td>2106.90.98</td>
+<td>Las demás preparaciones alimenticias no expresadas ni comprendidas en otra parte. Excepto: Alimentos para niños que contengan leche y productos a base de leche. Excluidos los destinados a uso sanitario. Solamente gravados los productos en envases de peso neto inferior a 5 kg.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2201</td>
-<td class="cuerpo_tabla_izq">Agua, incluidas el agua mineral natural o artificial y la gaseada, sin adición de azúcar u otro edulcorante ni aromatizada; hielo y nieve.</td>
+<td>2201</td>
+<td>Agua, incluidas el agua mineral natural o artificial y la gaseada, sin adición de azúcar u otro edulcorante ni aromatizada; hielo y nieve.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2202</td>
-<td class="cuerpo_tabla_izq">Agua, incluidas el agua mineral y la gaseada, con adición de azúcar u otro edulcorante o aromatizada y las demás bebidas no alcohólicas (excepto los jugos de frutas u otros frutos o de hortalizas de la partida 2009). Excepto los destinados a uso sanitario.</td>
+<td>2202</td>
+<td>Agua, incluidas el agua mineral y la gaseada, con adición de azúcar u otro edulcorante o aromatizada y las demás bebidas no alcohólicas (excepto los jugos de frutas u otros frutos o de hortalizas de la partida 2009). Excepto los destinados a uso sanitario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2203</td>
-<td class="cuerpo_tabla_izq">Cerveza de malta.</td>
+<td>2203</td>
+<td>Cerveza de malta.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2204</td>
-<td class="cuerpo_tabla_izq">Vino de uvas frescas, incluso encabezado; mosto de uva, excepto el de la partida 2009.</td>
+<td>2204</td>
+<td>Vino de uvas frescas, incluso encabezado; mosto de uva, excepto el de la partida 2009.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2208.40</td>
-<td class="cuerpo_tabla_izq">Ron y demás aguardientes procedentes de la destilación, previa fermentación, de productos de la caña de azúcar.</td>
+<td>2208.40</td>
+<td>Ron y demás aguardientes procedentes de la destilación, previa fermentación, de productos de la caña de azúcar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2208.70.10</td>
-<td class="cuerpo_tabla_izq">Licores en recipientes de contenido inferior o igual a 2 l.</td>
+<td>2208.70.10</td>
+<td>Licores en recipientes de contenido inferior o igual a 2 l.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2309</td>
-<td class="cuerpo_tabla_izq">Preparaciones del tipo de las usadas para la alimentación de los animales. Solamente gravados los piensos compuestos, excepto los piensos de lactancia, destinados a los animales comprendidos en las partidas de la 0101 a la 0105, 0106.13.00.00 y 0106.14.</td>
+<td>2309</td>
+<td>Preparaciones del tipo de las usadas para la alimentación de los animales. Solamente gravados los piensos compuestos, excepto los piensos de lactancia, destinados a los animales comprendidos en las partidas de la 0101 a la 0105, 0106.13.00.00 y 0106.14.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Tabaco</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2402</td>
-<td class="cuerpo_tabla_izq">Cigarros (puros), incluso despuntados, cigarritos (puritos) y cigarrillos, de tabaco o de sucedáneos del tabaco.</td>
+<td>2402</td>
+<td>Cigarros (puros), incluso despuntados, cigarritos (puritos) y cigarrillos, de tabaco o de sucedáneos del tabaco.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Textil, cuero y calzado</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6112.12.00.00</td>
-<td class="cuerpo_tabla_izq">Conjuntos de abrigo para entrenamiento o deporte (chándales), de fibras sintéticas.</td>
+<td>6112.12.00.00</td>
+<td>Conjuntos de abrigo para entrenamiento o deporte (chándales), de fibras sintéticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6112.31</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto para hombres o niños de fibras sintéticas.</td>
+<td>6112.31</td>
+<td>Bañadores de punto para hombres o niños de fibras sintéticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6112.41</td>
-<td class="cuerpo_tabla_izq">Bañadores de punto para mujeres o niñas de fibras sintéticas.</td>
+<td>6112.41</td>
+<td>Bañadores de punto para mujeres o niñas de fibras sintéticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <em>Transformados de papel</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4808</td>
-<td class="cuerpo_tabla_izq">Papel y cartón corrugados, incluso recubiertos por encolado, rizados (crepés), plisados, gofrados, estampados o perforados, en bobinas (rollos) o en hojas (excepto el papel de los tipos descritos en el texto de la partida 4803).</td>
+<td>4808</td>
+<td>Papel y cartón corrugados, incluso recubiertos por encolado, rizados (crepés), plisados, gofrados, estampados o perforados, en bobinas (rollos) o en hojas (excepto el papel de los tipos descritos en el texto de la partida 4803).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4811.51.00.00</td>
-<td class="cuerpo_tabla_izq">Papel y cartón recubierto, impregnados o revestidos de plástico (excepto los adhesivos), blanqueados, de peso superior a 150 g/m².</td>
+<td>4811.51.00.00</td>
+<td>Papel y cartón recubierto, impregnados o revestidos de plástico (excepto los adhesivos), blanqueados, de peso superior a 150 g/m².</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4818</td>
-<td class="cuerpo_tabla_izq">Papel del tipo utilizado para papel higiénico y papeles similares, guata de celulosa o napa de fibras de celulosa, de los tipos utilizados para fines domésticos o sanitarios, en bobinas (rollos) de una anchura inferior o igual a 36 cm o cortados en formato; pañuelos, toallitas de desmaquillar, toallas, manteles, servilletas, sábanas y artículos similares para uso doméstico, de tocador, higiénico o de hospital, prendas y complementos (accesorios), de vestir, de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa. Excepto los productos de la partida 4818.50.00.00.</td>
+<td>4818</td>
+<td>Papel del tipo utilizado para papel higiénico y papeles similares, guata de celulosa o napa de fibras de celulosa, de los tipos utilizados para fines domésticos o sanitarios, en bobinas (rollos) de una anchura inferior o igual a 36 cm o cortados en formato; pañuelos, toallitas de desmaquillar, toallas, manteles, servilletas, sábanas y artículos similares para uso doméstico, de tocador, higiénico o de hospital, prendas y complementos (accesorios), de vestir, de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa. Excepto los productos de la partida 4818.50.00.00.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4819</td>
-<td class="cuerpo_tabla_izq">Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Excepto los envases «tetrabrik» y «tetrapack» de la 481920, los productos de la partida 481940 y los agrupadores de envases.</td>
+<td>4819</td>
+<td>Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Excepto los envases «tetrabrik» y «tetrapack» de la 481920, los productos de la partida 481940 y los agrupadores de envases.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4819</td>
-<td class="cuerpo_tabla_izq">Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón,</td>
+<td>4819</td>
+<td>Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, cartón,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Solamente gravados los productos de la partida 4819.40, excepto las bolsas para aspiradoras.</td>
+<td> </td>
+<td>guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. Solamente gravados los productos de la partida 4819.40, excepto las bolsas para aspiradoras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4821</td>
-<td class="cuerpo_tabla_izq">Etiquetas de todas clases, de papel o cartón, incluso impresas.</td>
+<td>4821</td>
+<td>Etiquetas de todas clases, de papel o cartón, incluso impresas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4823.90.40.00</td>
-<td class="cuerpo_tabla_izq">Los demás papeles y cartones de los tipos utilizados en la escritura, impresión u otros fines gráficos. Excepto los impresos, estampados o perforados.</td>
+<td>4823.90.40.00</td>
+<td>Los demás papeles y cartones de los tipos utilizados en la escritura, impresión u otros fines gráficos. Excepto los impresos, estampados o perforados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td> </td>
+<td>
+<p>
 <em>Artes gráficas y su edición</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4909</td>
-<td class="cuerpo_tabla_izq">Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres. Excepto las tarjetas postales lenticulares con efecto 3D.</td>
+<td>4909</td>
+<td>Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres. Excepto las tarjetas postales lenticulares con efecto 3D.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4910</td>
-<td class="cuerpo_tabla_izq">Calendarios de cualquier clase impresos, incluidos los tacos de calendario.</td>
+<td>4910</td>
+<td>Calendarios de cualquier clase impresos, incluidos los tacos de calendario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4911</td>
-<td class="cuerpo_tabla_izq">Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos.</td>
+<td>4911</td>
+<td>Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos.</td>
 </tr>
 </tbody>
 </table>

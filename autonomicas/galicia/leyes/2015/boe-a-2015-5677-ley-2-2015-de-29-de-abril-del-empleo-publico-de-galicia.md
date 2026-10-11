@@ -3510,437 +3510,437 @@ A efectos de la declaración del personal funcionario de carrera en la situació
 
 1\. En el cuerpo superior existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escala de letrados.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Asesoramiento en derecho y representación y defensa en juicio en todo tipo de procesos judiciales, así como ante órganos administrativos y en procedimientos arbitrales, de la Administración general de la Comunidad Autónoma de Galicia, de las entidades instrumentales del sector público autonómico y de los órganos estatutarios, en los términos establecidos por la Ley 4/2016, de 4 de abril, de ordenación de la asistencia jurídica de la Administración general de la Comunidad Autónoma de Galicia y de su sector público.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Licenciatura o grado en Derecho, de conformidad con el artículo 37 de la Ley 4/2016, de 4 de abril, de ordenación de la asistencia jurídica de la Administración general de la Comunidad Autónoma de Galicia y de su sector público.</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala superior de sistemas y tecnologías de la información.</p>
+<p>Escala de letrados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Funciones directivas en las áreas de tecnología de la información y de las comunicaciones, así como la planificación, el diseño y el desarrollo de sistemas operativos y de comunicaciones. Dirección de proyectos de desarrollo y mantenimiento de aplicaciones. Auditoría, planificación, control de calidad y seguridad informáticas y técnicas de sistemas y comunicaciones de nivel superior.</p>
+<p>– Asesoramiento en derecho y representación y defensa en juicio en todo tipo de procesos judiciales, así como ante órganos administrativos y en procedimientos arbitrales, de la Administración general de la Comunidad Autónoma de Galicia, de las entidades instrumentales del sector público autonómico y de los órganos estatutarios, en los términos establecidos por la Ley 4/2016, de 4 de abril, de ordenación de la asistencia jurídica de la Administración general de la Comunidad Autónoma de Galicia y de su sector público.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Título universitario oficial de grado, licenciado universitario o licenciada universitaria de ingeniería en: Telecomunicaciones, Informática, Matemáticas, Estadística, Física, Inteligencia artificial o Ciencia del Dato, o bien titulaciones equivalentes del nivel 3 del Marco Español de Cualificaciones para la Educación Superior (MECES) de los mismos ámbitos de conocimiento.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escala superior de finanzas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Inspección y gestión financiera y tributaria.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Inspección contable y financiera de las cajas de ahorro y demás instituciones de crédito corporativo, así como las actuaciones en materia de tutela financiera de las corporaciones locales y las de inspección y seguimiento de las subvenciones, operaciones de endeudamiento y avales efectuadas por la Xunta de Galicia.</p>
-<p class="cuerpo_tabla_izq">– Investigación y comprobación de los tributos propios, de los tributos cedidos y demás ingresos de la legislación de tasas, precios y exacciones reguladoras, así como la práctica de las liquidaciones a las que dichas funciones den lugar y la obtención de información con trascendencia para la aplicación de los tributos.</p>
-<p class="cuerpo_tabla_izq">– Gestión, liquidación, recaudación y tesorería de los tributos propios, de los tributos cedidos y demás ingresos de la legislación de tasas, precios y exacciones reguladoras, así como la revisión de los actos que en virtud de la normativa vigente sean de la competencia de los órganos que tienen encomendada la gestión tributaria.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de cualquier rama.</p>
+<p>– Licenciatura o grado en Derecho, de conformidad con el artículo 37 de la Ley 4/2016, de 4 de abril, de ordenación de la asistencia jurídica de la Administración general de la Comunidad Autónoma de Galicia y de su sector público.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Escala superior de sistemas y tecnologías de la información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Intervención.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Control de la actividad económica y financiera de la Administración general de la Comunidad Autónoma de Galicia y de las entidades instrumentales del sector público autonómico, sin perjuicio de las superiores facultades que competen al Consejo de Cuentas de Galicia y, en su caso, al Tribunal de Cuentas del Reino, así como el ejercicio de las funciones relacionadas con la contabilidad pública de Galicia.</p>
+<p>– Funciones directivas en las áreas de tecnología de la información y de las comunicaciones, así como la planificación, el diseño y el desarrollo de sistemas operativos y de comunicaciones. Dirección de proyectos de desarrollo y mantenimiento de aplicaciones. Auditoría, planificación, control de calidad y seguridad informáticas y técnicas de sistemas y comunicaciones de nivel superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>– Título universitario oficial de grado, licenciado universitario o licenciada universitaria de ingeniería en: Telecomunicaciones, Informática, Matemáticas, Estadística, Física, Inteligencia artificial o Ciencia del Dato, o bien titulaciones equivalentes del nivel 3 del Marco Español de Cualificaciones para la Educación Superior (MECES) de los mismos ámbitos de conocimiento.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala superior de estadísticos.</p>
+<p>Escala superior de finanzas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Inspección y gestión financiera y tributaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Dirección de los trabajos estadísticos, que incluye su preparación, inspección y distribución.</p>
-<p class="cuerpo_tabla_izq">– Elaboración y diseño de proyectos estadísticos.</p>
-<p class="cuerpo_tabla_izq">– Estudio y análisis de la metodología empleada en los diversos trabajos estadísticos.</p>
-<p class="cuerpo_tabla_izq">– Análisis e interpretación de los resultados estadísticos.</p>
+<p>– Inspección contable y financiera de las cajas de ahorro y demás instituciones de crédito corporativo, así como las actuaciones en materia de tutela financiera de las corporaciones locales y las de inspección y seguimiento de las subvenciones, operaciones de endeudamiento y avales efectuadas por la Xunta de Galicia.</p>
+<p>– Investigación y comprobación de los tributos propios, de los tributos cedidos y demás ingresos de la legislación de tasas, precios y exacciones reguladoras, así como la práctica de las liquidaciones a las que dichas funciones den lugar y la obtención de información con trascendencia para la aplicación de los tributos.</p>
+<p>– Gestión, liquidación, recaudación y tesorería de los tributos propios, de los tributos cedidos y demás ingresos de la legislación de tasas, precios y exacciones reguladoras, así como la revisión de los actos que en virtud de la normativa vigente sean de la competencia de los órganos que tienen encomendada la gestión tributaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de cualquier rama.</p>
+<p>– Licenciado o graduado en una titulación de cualquier rama.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Intervención.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Control de la actividad económica y financiera de la Administración general de la Comunidad Autónoma de Galicia y de las entidades instrumentales del sector público autonómico, sin perjuicio de las superiores facultades que competen al Consejo de Cuentas de Galicia y, en su caso, al Tribunal de Cuentas del Reino, así como el ejercicio de las funciones relacionadas con la contabilidad pública de Galicia.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala superior de estadísticos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>A1</p>
+</td>
+<td>
+<p>– Dirección de los trabajos estadísticos, que incluye su preparación, inspección y distribución.</p>
+<p>– Elaboración y diseño de proyectos estadísticos.</p>
+<p>– Estudio y análisis de la metodología empleada en los diversos trabajos estadísticos.</p>
+<p>– Análisis e interpretación de los resultados estadísticos.</p>
+</td>
+<td>
+<p>– Licenciado o graduado en una titulación de cualquier rama.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Escala superior de seguridad y salud en el trabajo.</p>
+<p>Escala superior de seguridad y salud en el trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad en el trabajo.</p>
+<p>Seguridad en el trabajo.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Ejercicio de los trabajos técnicos en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o en la norma que la sustituya, en las áreas, respectivamente, de seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada, sin perjuicio de las funciones que, en materia minera, ejerza el personal funcionario con competencias en materia de prevención de riesgos laborales de la consejería competente en esta área.</p>
+<p>– Ejercicio de los trabajos técnicos en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o en la norma que la sustituya, en las áreas, respectivamente, de seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada, sin perjuicio de las funciones que, en materia minera, ejerza el personal funcionario con competencias en materia de prevención de riesgos laborales de la consejería competente en esta área.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Arquitecto, graduado o máster que habilite para el ejercicio de la profesión de arquitecto, ingeniero o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
+<p>– Arquitecto, graduado o máster que habilite para el ejercicio de la profesión de arquitecto, ingeniero o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Higiene industrial.</p>
+<p>Higiene industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en Biología, licenciado o graduado en Química o licenciado en Farmacia o graduado en una titulación que habilite para la profesión de farmacéutico, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
+<p>– Licenciado o graduado en Biología, licenciado o graduado en Química o licenciado en Farmacia o graduado en una titulación que habilite para la profesión de farmacéutico, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ergonomía y psicosociología aplicada.</p>
+<p>Ergonomía y psicosociología aplicada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de cualquier rama y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
+<p>– Licenciado o graduado en una titulación de cualquier rama y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por el Real decreto 39/1997, de 17 de enero, o por la norma que lo sustituya.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala superior de orientación laboral.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">A1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Información sobre el mercado de trabajo y sobre las medidas y servicios ofrecidos por los Servicios Públicos de Empleo.</p>
-<p class="cuerpo_tabla_izq">Realización de acciones formativas e informativas dirigidas a los colectivos de personas desempleadas, particularmente a los de larga duración y a las personas jóvenes no integradas en los sistemas de formación reglada.</p>
-<p class="cuerpo_tabla_izq">Diagnosis individualizada y tutorización de las personas demandantes de empleo para medir el grado de empleabilidad.</p>
-<p class="cuerpo_tabla_izq">Diseño y seguimiento de los itinerarios individuales que faciliten la inclusión de acciones para la mejora de la empleabilidad.</p>
-<p class="cuerpo_tabla_izq">Prospección de las necesidades profesionales que requieren las empresas.</p>
-<p class="cuerpo_tabla_izq">Promoción de la formación del personal demandante según las necesidades empresariales y facilitación de la inserción laboral.</p>
-<p class="cuerpo_tabla_izq">Información y gestión de las ofertas de empleo adecuadas a cada persona usuaria, potenciando la captación y la cobertura de ofertas a través de un sistema de intermediación transparente y eficaz.</p>
-<p class="cuerpo_tabla_izq">Asesoramiento y motivación a las personas empleadas en la búsqueda de mejora del empleo, acorde a su perfil profesional y de competencias.</p>
-<p class="cuerpo_tabla_izq">Coordinación y supervisión de dichas funciones a nivel de oficina de empleo o superior en relación a los contenidos y tareas de orientación laboral.</p>
-<p class="cuerpo_tabla_izq">Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala superior de orientación laboral.</td>
+<td> </td>
+<td>A1</td>
+<td>
+<p>Información sobre el mercado de trabajo y sobre las medidas y servicios ofrecidos por los Servicios Públicos de Empleo.</p>
+<p>Realización de acciones formativas e informativas dirigidas a los colectivos de personas desempleadas, particularmente a los de larga duración y a las personas jóvenes no integradas en los sistemas de formación reglada.</p>
+<p>Diagnosis individualizada y tutorización de las personas demandantes de empleo para medir el grado de empleabilidad.</p>
+<p>Diseño y seguimiento de los itinerarios individuales que faciliten la inclusión de acciones para la mejora de la empleabilidad.</p>
+<p>Prospección de las necesidades profesionales que requieren las empresas.</p>
+<p>Promoción de la formación del personal demandante según las necesidades empresariales y facilitación de la inserción laboral.</p>
+<p>Información y gestión de las ofertas de empleo adecuadas a cada persona usuaria, potenciando la captación y la cobertura de ofertas a través de un sistema de intermediación transparente y eficaz.</p>
+<p>Asesoramiento y motivación a las personas empleadas en la búsqueda de mejora del empleo, acorde a su perfil profesional y de competencias.</p>
+<p>Coordinación y supervisión de dichas funciones a nivel de oficina de empleo o superior en relación a los contenidos y tareas de orientación laboral.</p>
+<p>Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">-– Licenciado o graduado en una titulación de cualquier rama.</td>
+<td>-– Licenciado o graduado en una titulación de cualquier rama.</td>
 </tr>
 </tbody>
 </table>
 
 2\. En el cuerpo de gestión existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de gestión de sistemas y tecnologías de la información.</p>
+<p>Escala de gestión de sistemas y tecnologías de la información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Análisis funcional de nuevas aplicaciones, mantenimiento de aplicaciones en explotación, análisis y programación de las aplicaciones en el desarrollo y control de desarrollos informáticos.</p>
+<p>– Análisis funcional de nuevas aplicaciones, mantenimiento de aplicaciones en explotación, análisis y programación de las aplicaciones en el desarrollo y control de desarrollos informáticos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Título universitario oficial de grado, ingeniería, diplomado universitario o diplomada universitaria o de Ingeniería Técnica en: Telecomunicaciones, Informática Matemáticas, Estadística, Física, Inteligencia Artificial o Ciencia del Dato, o bien titulaciones equivalentes de los niveles 2 y 3 del Marco Español de Cualificaciones para la Educación Superior (MECES) de los mismos ámbitos de conocimiento.</p>
+<p>– Título universitario oficial de grado, ingeniería, diplomado universitario o diplomada universitaria o de Ingeniería Técnica en: Telecomunicaciones, Informática Matemáticas, Estadística, Física, Inteligencia Artificial o Ciencia del Dato, o bien titulaciones equivalentes de los niveles 2 y 3 del Marco Español de Cualificaciones para la Educación Superior (MECES) de los mismos ámbitos de conocimiento.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Escala técnica de finanzas.</p>
+<p>Escala técnica de finanzas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Técnica de inspección y gestión financiera y tributaria.</p>
+<p>Técnica de inspección y gestión financiera y tributaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Asistencia y colaboración en el ejercicio de las funciones que tiene encomendadas la especialidad del mismo nombre en la escala superior de finanzas.</p>
+<p>– Asistencia y colaboración en el ejercicio de las funciones que tiene encomendadas la especialidad del mismo nombre en la escala superior de finanzas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Técnica de contabilidad e intervención.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Asistencia y colaboración en el ejercicio de las funciones que tiene encomendadas la especialidad del mismo nombre en la escala superior de finanzas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>– Diplomado o graduado en una titulación de cualquier rama.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala técnica de estadísticos.</p>
+<p>Técnica de contabilidad e intervención.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>– Asistencia y colaboración en el ejercicio de las funciones que tiene encomendadas la especialidad del mismo nombre en la escala superior de finanzas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ejecución técnica y realización de los trabajos estadísticos bajo la dirección y supervisión del personal funcionario de la escala superior.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama.</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de inspectoras e inspectores de consumo.</p>
+<p>Escala técnica de estadísticos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Inspección de consumo en los términos establecidos por la Ley 11/2004, de 19 de noviembre, de inspección de consumo de Galicia, o norma que la sustituya.</p>
+<p>– Ejecución técnica y realización de los trabajos estadísticos bajo la dirección y supervisión del personal funcionario de la escala superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama.</p>
+<p>– Diplomado o graduado en una titulación de cualquier rama.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala de inspectoras e inspectores de consumo.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>A2</p>
+</td>
+<td>
+<p>– Inspección de consumo en los términos establecidos por la Ley 11/2004, de 19 de noviembre, de inspección de consumo de Galicia, o norma que la sustituya.</p>
+</td>
+<td>
+<p>– Diplomado o graduado en una titulación de cualquier rama.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Escala técnica de seguridad y salud en el trabajo.</p>
+<p>Escala técnica de seguridad y salud en el trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad en el trabajo.</p>
+<p>Seguridad en el trabajo.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Ejercicio de las labores técnicas en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o norma que la sustituya, en las áreas, respectivamente, de seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada, sin perjuicio de las funciones que, en materia minera, ejerza el personal funcionario con competencias en materia de prevención de riesgos laborales de la consejería competente en esta área.</p>
+<p>– Ejercicio de las labores técnicas en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o norma que la sustituya, en las áreas, respectivamente, de seguridad en el trabajo, higiene industrial y ergonomía y psicosociología aplicada, sin perjuicio de las funciones que, en materia minera, ejerza el personal funcionario con competencias en materia de prevención de riesgos laborales de la consejería competente en esta área.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Arquitecto técnico o ingeniero técnico o graduado en una titulación que habilite para el ejercicio de la profesión de arquitecto técnico o de ingeniero técnico, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por Real decreto 39/1997, de 17 de enero, o norma que lo sustituya.</p>
+<p>– Arquitecto técnico o ingeniero técnico o graduado en una titulación que habilite para el ejercicio de la profesión de arquitecto técnico o de ingeniero técnico, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por Real decreto 39/1997, de 17 de enero, o norma que lo sustituya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Higiene industrial.</p>
+<p>Higiene industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico industrial, ingeniero técnico de Minas, Ingeniero técnico agrícola o ingeniero técnico forestal o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico industrial, ingeniero técnico de minas, ingeniero técnico agrícola o ingeniero técnico forestal, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por Real decreto 39/1997, de 17 de enero, o norma que lo sustituya.</p>
+<p>– Ingeniero técnico industrial, ingeniero técnico de Minas, Ingeniero técnico agrícola o ingeniero técnico forestal o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico industrial, ingeniero técnico de minas, ingeniero técnico agrícola o ingeniero técnico forestal, y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por Real decreto 39/1997, de 17 de enero, o norma que lo sustituya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ergonomía y psicosociología aplicada.</p>
+<p>Ergonomía y psicosociología aplicada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por Real decreto 39/1997, de 17 de enero, o norma que lo sustituya.</p>
+<p>– Diplomado o graduado en una titulación de cualquier rama y título de técnico con formación en nivel superior, en las tres disciplinas preventivas, conforme a lo que establece el Reglamento de los servicios de prevención, aprobado por Real decreto 39/1997, de 17 de enero, o norma que lo sustituya.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de inspección turística.</p>
+<p>Escala de inspección turística.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ejercicio de las actividades de inspección turística en los términos establecidos por la Ley 7/2011, de 27 de octubre, del turismo de Galicia, o norma que la sustituya.</p>
+<p>– Ejercicio de las actividades de inspección turística en los términos establecidos por la Ley 7/2011, de 27 de octubre, del turismo de Galicia, o norma que la sustituya.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama.</p>
+<p>– Diplomado o graduado en una titulación de cualquier rama.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala técnica de orientación laboral</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">A2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Información sobre el mercado de trabajo y sobre las medidas y servicios ofrecidos por los servicios públicos de empleo.</p>
-<p class="cuerpo_tabla_izq">– Realización de acciones formativas e informativas dirigidas a los colectivos de personas desempleadas, particularmente a los de larga duración y a las personas jóvenes no integradas en los sistemas de formación reglada.</p>
-<p class="cuerpo_tabla_izq">– Diagnosis individualizada y tutorización de las personas demandantes de empleo para medir el grado de empleabilidad.</p>
-<p class="cuerpo_tabla_izq">– Diseño y seguimiento de los itinerarios individuales que faciliten la inclusión de acciones para la mejora de la empleabilidad.</p>
-<p class="cuerpo_tabla_izq">– Prospección de las necesidades profesionales que requieren las empresas.</p>
-<p class="cuerpo_tabla_izq">– Promoción de la formación del personal demandante según las necesidades empresariales, y facilitación de la inserción laboral.</p>
-<p class="cuerpo_tabla_izq">– Información y gestión de las ofertas de empleo adecuadas a cada persona usuaria, potenciando la captación y la cobertura de ofertas a través de un sistema de intermediación transparente y eficaz.</p>
-<p class="cuerpo_tabla_izq">– Asesoramiento y motivación a las personas empleadas en la busca de mejora del empleo, acorde a su perfil profesional y de competencias.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de contenido análogo o que tenga relación con las funciones anteriores.</p>
+<td>Escala técnica de orientación laboral</td>
+<td> </td>
+<td>A2</td>
+<td>
+<p>– Información sobre el mercado de trabajo y sobre las medidas y servicios ofrecidos por los servicios públicos de empleo.</p>
+<p>– Realización de acciones formativas e informativas dirigidas a los colectivos de personas desempleadas, particularmente a los de larga duración y a las personas jóvenes no integradas en los sistemas de formación reglada.</p>
+<p>– Diagnosis individualizada y tutorización de las personas demandantes de empleo para medir el grado de empleabilidad.</p>
+<p>– Diseño y seguimiento de los itinerarios individuales que faciliten la inclusión de acciones para la mejora de la empleabilidad.</p>
+<p>– Prospección de las necesidades profesionales que requieren las empresas.</p>
+<p>– Promoción de la formación del personal demandante según las necesidades empresariales, y facilitación de la inserción laboral.</p>
+<p>– Información y gestión de las ofertas de empleo adecuadas a cada persona usuaria, potenciando la captación y la cobertura de ofertas a través de un sistema de intermediación transparente y eficaz.</p>
+<p>– Asesoramiento y motivación a las personas empleadas en la busca de mejora del empleo, acorde a su perfil profesional y de competencias.</p>
+<p>– Cualquier otra de contenido análogo o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">- Diplomado o graduado en una titulación de cualquier rama.</td>
+<td>- Diplomado o graduado en una titulación de cualquier rama.</td>
 </tr>
 </tbody>
 </table>
 
 3\. En el cuerpo administrativo existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de técnico/a especialista en tecnologías y sistemas de la información.</p>
+<p>Escala de técnico/a especialista en tecnologías y sistemas de la información.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Desarrollo y explotación informática, tales como programación, operación y asistencia técnica básica a las personas usuarias.</p>
+<p>– Desarrollo y explotación informática, tales como programación, operación y asistencia técnica básica a las personas usuarias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Título de formación profesional de grado medio de la familia de Informática y Comunicaciones, o titulación de técnico en Instalaciones de Telecomunicaciones de la familia de Electricidad y Electrónica, o bien titulaciones equivalentes de los niveles 4 y 5 del Marco Español de Cualificación para el Aprendizaje Permanente (MECU) de dichas familias.</p>
+<p>– Título de formación profesional de grado medio de la familia de Informática y Comunicaciones, o titulación de técnico en Instalaciones de Telecomunicaciones de la familia de Electricidad y Electrónica, o bien titulaciones equivalentes de los niveles 4 y 5 del Marco Español de Cualificación para el Aprendizaje Permanente (MECU) de dichas familias.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Escala de agentes de inspección.</p>
+<p>Escala de agentes de inspección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Consumo.</p>
+<p>Consumo.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Apoyo a las labores encomendadas a los inspectores de consumo.</p>
+<p>– Apoyo a las labores encomendadas a los inspectores de consumo.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Bachiller o técnico.</p>
+<p>– Bachiller o técnico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Vigilancia de carreteras</p>
-<p class="cuerpo_tabla_izq"> </p>
+<p>Vigilancia de carreteras</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Vigilancia del estado de conservación y explotación de los elementos que integran el dominio público viario, de las obras dirigidas por la Agencia Gallega de Infraestructuras y de las obras u otros usos realizados en las zonas de protección de las carreteras por terceros</p>
-<p class="cuerpo_tabla_izq">– Denuncia o informe de cualquier incumplimiento o anomalía</p>
-<p class="cuerpo_tabla_izq">– Vigilancia del cumplimiento de la normativa vigente en materia de seguridad viaria, del medio ambiente y de la seguridad y prevención de riesgos laborales</p>
-<p class="cuerpo_tabla_izq">– Elaboración de partes de servicio, boletines de denuncias, informes y demás documentos relacionados con sus funciones</p>
-<p class="cuerpo_tabla_izq">– Cuantas otras funciones compatibles con su nivel y conocimientos le indique su superior</p>
+<p>– Vigilancia del estado de conservación y explotación de los elementos que integran el dominio público viario, de las obras dirigidas por la Agencia Gallega de Infraestructuras y de las obras u otros usos realizados en las zonas de protección de las carreteras por terceros</p>
+<p>– Denuncia o informe de cualquier incumplimiento o anomalía</p>
+<p>– Vigilancia del cumplimiento de la normativa vigente en materia de seguridad viaria, del medio ambiente y de la seguridad y prevención de riesgos laborales</p>
+<p>– Elaboración de partes de servicio, boletines de denuncias, informes y demás documentos relacionados con sus funciones</p>
+<p>– Cuantas otras funciones compatibles con su nivel y conocimientos le indique su superior</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Movilidad</p>
+<p>Movilidad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Control y vigilancia del cumplimento de la norma en materia de transporte terrestre y marítimo en aguas interiores</p>
-<p class="cuerpo_tabla_izq">– Realización de la inspección en las instalaciones de empresas que realicen actividades de transporte o de formación en materia de transportes, en estaciones de transporte o en toda clase de vías terrestres</p>
-<p class="cuerpo_tabla_izq">– Constatación de hechos que puedan ser constitutivos de infracción y formulación de actas de infracción</p>
-<p class="cuerpo_tabla_izq">– Elaboración de informes en los expedientes que se requieran</p>
-<p class="cuerpo_tabla_izq">– Calificación de hechos constitutivos de infracciones y tramitación de expedientes sancionadores</p>
-<p class="cuerpo_tabla_izq">– Asesoramiento a los intervinientes en el sector del transporte para facilitar el cumplimiento de la legalidad</p>
-<p class="cuerpo_tabla_izq">– Elaboración de estadísticas de inspecciones, denuncias e infracciones relacionadas con las tareas de inspección</p>
-<p class="cuerpo_tabla_izq">– Realización de las tareas administrativas que se deriven de sus funciones</p>
+<p>– Control y vigilancia del cumplimento de la norma en materia de transporte terrestre y marítimo en aguas interiores</p>
+<p>– Realización de la inspección en las instalaciones de empresas que realicen actividades de transporte o de formación en materia de transportes, en estaciones de transporte o en toda clase de vías terrestres</p>
+<p>– Constatación de hechos que puedan ser constitutivos de infracción y formulación de actas de infracción</p>
+<p>– Elaboración de informes en los expedientes que se requieran</p>
+<p>– Calificación de hechos constitutivos de infracciones y tramitación de expedientes sancionadores</p>
+<p>– Asesoramiento a los intervinientes en el sector del transporte para facilitar el cumplimiento de la legalidad</p>
+<p>– Elaboración de estadísticas de inspecciones, denuncias e infracciones relacionadas con las tareas de inspección</p>
+<p>– Realización de las tareas administrativas que se deriven de sus funciones</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dominio público hidráulico.</td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Vigilancia del estado de conservación de los cauces públicos y sus zonas de protección (servidumbre y policía) y de las actuaciones que se desarrollen en relación con el otorgamiento de concesiones y autorizaciones que se refieren al dominio público hidráulico y a sus zonas de protección.</p>
-<p class="cuerpo_tabla_izq">– Denuncia o informe de cualquier anomalía o infracción relativa al dominio público hidráulico o a sus zonas de protección.</p>
-<p class="cuerpo_tabla_izq">– Vigilancia de aquellas actividades susceptibles de provocar vertidos en el dominio público hidráulico o en el mar desde tierra mediante el acceso a los puntos que se presuman contaminados, tomando la correspondiente muestra según el protocolo de «tomas de muestras».</p>
-<p class="cuerpo_tabla_izq">– Vigilancia de tramos de ríos para localizar áreas que requieran limpieza de vegetación, obstrucciones, localización de vertidos y tareas semejantes.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de partes de servicio, boletines de denuncias, informes y demás documentos relacionados con sus funciones.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Dominio público hidráulico.</td>
+<td>C1</td>
+<td>
+<p>– Vigilancia del estado de conservación de los cauces públicos y sus zonas de protección (servidumbre y policía) y de las actuaciones que se desarrollen en relación con el otorgamiento de concesiones y autorizaciones que se refieren al dominio público hidráulico y a sus zonas de protección.</p>
+<p>– Denuncia o informe de cualquier anomalía o infracción relativa al dominio público hidráulico o a sus zonas de protección.</p>
+<p>– Vigilancia de aquellas actividades susceptibles de provocar vertidos en el dominio público hidráulico o en el mar desde tierra mediante el acceso a los puntos que se presuman contaminados, tomando la correspondiente muestra según el protocolo de «tomas de muestras».</p>
+<p>– Vigilancia de tramos de ríos para localizar áreas que requieran limpieza de vegetación, obstrucciones, localización de vertidos y tareas semejantes.</p>
+<p>– Elaboración de partes de servicio, boletines de denuncias, informes y demás documentos relacionados con sus funciones.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">- Título de bachiller o técnico.</td>
+<td>- Título de bachiller o técnico.</td>
 </tr>
 </tbody>
 </table>
@@ -3960,76 +3960,69 @@ A efectos de la declaración del personal funcionario de carrera en la situació
 
 3 ter. En la agrupación profesional existirán las siguientes escalas:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Especialidades</th>
-<th class="cabeza_tabla">Subgrupo</th>
-<th class="cabeza_tabla">Funciones</th>
-<th class="cabeza_tabla">Titulación</th>
+<th>Denominación</th>
+<th>Especialidades</th>
+<th>Subgrupo</th>
+<th>Funciones</th>
+<th>Titulación</th>
 </tr>
 </thead>
-<colgroup>
-<col width="18%">
-<col width="11%">
-<col width="8%">
-<col width="43%">
-<col width="15%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Escala de personal subalterno.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">AP</td>
-<td class="cuerpo_tabla_izq">Vigilancia, custodia, reparto de correspondencia y documentación, transporte manual, central telefónica, reprografía y otras semejantes.</td>
-<td class="cuerpo_tabla_izq">No se exige.</td>
+<td>Escala de personal subalterno.</td>
+<td> </td>
+<td>AP</td>
+<td>Vigilancia, custodia, reparto de correspondencia y documentación, transporte manual, central telefónica, reprografía y otras semejantes.</td>
+<td>No se exige.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Escala de personal de limpieza y recursos naturales y forestales.</td>
-<td class="cuerpo_tabla_izq">Personal de limpieza y cocina.</td>
-<td class="cuerpo_tabla_centro">AP</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Elaboración y condimentación de platos sencillos según las instrucciones de los superiores.</p>
-<p class="cuerpo_tabla_izq">– Mantenimiento y limpieza de la maquinaria, instalaciones y utensilios propios del departamento en que preste su trabajo.</p>
-<p class="cuerpo_tabla_izq">– Realización de labores de limpieza y desinfección de dependencias.</p>
-<p class="cuerpo_tabla_izq">– Comunicación de incidencias o anomalías.</p>
-<p class="cuerpo_tabla_izq">– Realización de los trabajos propios de comedor.</p>
-<p class="cuerpo_tabla_izq">– Realización de las funciones propias de lavandería-lencería.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td rowspan="2">Escala de personal de limpieza y recursos naturales y forestales.</td>
+<td>Personal de limpieza y cocina.</td>
+<td>AP</td>
+<td>
+<p>– Elaboración y condimentación de platos sencillos según las instrucciones de los superiores.</p>
+<p>– Mantenimiento y limpieza de la maquinaria, instalaciones y utensilios propios del departamento en que preste su trabajo.</p>
+<p>– Realización de labores de limpieza y desinfección de dependencias.</p>
+<p>– Comunicación de incidencias o anomalías.</p>
+<p>– Realización de los trabajos propios de comedor.</p>
+<p>– Realización de las funciones propias de lavandería-lencería.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">No se exige.</td>
+<td>No se exige.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Personal de recursos naturales y forestales.</td>
-<td class="cuerpo_tabla_centro">AP</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Desbroces manuales y mecanizados.</p>
-<p class="cuerpo_tabla_izq">– Tratamientos fitosanitarios con fitocidas y similares para el control de plagas y enfermedades.</p>
-<p class="cuerpo_tabla_izq">– Conservación de las instalaciones: pintura, reparación de cierres y obras de albañilería.</p>
-<p class="cuerpo_tabla_izq">– Manejo de herramientas manuales, eléctricas y maquinaria en general. Limpieza, reparación, mantenimiento y sustitución de la herramienta y maquinaria.</p>
-<p class="cuerpo_tabla_izq">– Colocación de vallas, señalización y elementos similares.</p>
-<p class="cuerpo_tabla_izq">– Manejo de animales de los centros: pesaje, alimentación y tratamientos sanitarios y tareas asimiladas a estas.</p>
-<p class="cuerpo_tabla_izq">– Limpieza de instalaciones y gestión de residuos.</p>
-<p class="cuerpo_tabla_izq">– Recogida de fauna viva y muerta.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de contenido análogo o que tenga relación con las funciones anteriores.</p>
+<td>Personal de recursos naturales y forestales.</td>
+<td>AP</td>
+<td>
+<p>– Desbroces manuales y mecanizados.</p>
+<p>– Tratamientos fitosanitarios con fitocidas y similares para el control de plagas y enfermedades.</p>
+<p>– Conservación de las instalaciones: pintura, reparación de cierres y obras de albañilería.</p>
+<p>– Manejo de herramientas manuales, eléctricas y maquinaria en general. Limpieza, reparación, mantenimiento y sustitución de la herramienta y maquinaria.</p>
+<p>– Colocación de vallas, señalización y elementos similares.</p>
+<p>– Manejo de animales de los centros: pesaje, alimentación y tratamientos sanitarios y tareas asimiladas a estas.</p>
+<p>– Limpieza de instalaciones y gestión de residuos.</p>
+<p>– Recogida de fauna viva y muerta.</p>
+<p>– Cualquier otra de contenido análogo o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">No se exige.</td>
+<td>No se exige.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala de personal de mantenimiento.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">AP</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Realizar las operaciones más elementales en la explotación y mantenimiento del centro y sus exteriores.</p>
-<p class="cuerpo_tabla_izq">– Ayudar al jefe de mantenimiento o a los oficiales de mantenimiento en los trabajos u operaciones que realicen.</p>
-<p class="cuerpo_tabla_izq">– Colaborar con los oficiales de mantenimiento en las tareas de limpieza de salas de máquinas, instalaciones, cuadros eléctricos, transformadores, talleres...</p>
-<p class="cuerpo_tabla_izq">– Conservación, mantenimiento y ordenación de herramientas.</p>
-<p class="cuerpo_tabla_izq">– Reparación de averías elementales en los distintos servicios del centro y en sus exteriores.</p>
-<p class="cuerpo_tabla_izq">– Reparaciones de emergencia.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala de personal de mantenimiento.</td>
+<td> </td>
+<td>AP</td>
+<td>
+<p>– Realizar las operaciones más elementales en la explotación y mantenimiento del centro y sus exteriores.</p>
+<p>– Ayudar al jefe de mantenimiento o a los oficiales de mantenimiento en los trabajos u operaciones que realicen.</p>
+<p>– Colaborar con los oficiales de mantenimiento en las tareas de limpieza de salas de máquinas, instalaciones, cuadros eléctricos, transformadores, talleres...</p>
+<p>– Conservación, mantenimiento y ordenación de herramientas.</p>
+<p>– Reparación de averías elementales en los distintos servicios del centro y en sus exteriores.</p>
+<p>– Reparaciones de emergencia.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">No se exige.</td>
+<td>No se exige.</td>
 </tr>
 </tbody>
 </table>
@@ -4056,80 +4049,80 @@ A efectos de la declaración del personal funcionario de carrera en la situació
 
 1\. En el cuerpo facultativo superior existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Escala de ingenieros.</p>
+<p>Escala de ingenieros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería de caminos, canales y puertos.</p>
+<p>Ingeniería de caminos, canales y puertos.</p>
 </td>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
+<p>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero de Caminos, Canales y Puertos o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de caminos, canales y puertos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ingeniería agronómica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Ingeniero agrónomo o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero agrónomo.</p>
+<p>– Ingeniero de Caminos, Canales y Puertos o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de caminos, canales y puertos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería industrial.</p>
+<p>Ingeniería agronómica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero industrial o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero industrial.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ingeniería de minas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Ingeniero de Minas o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de minas.</p>
+<p>– Ingeniero agrónomo o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero agrónomo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería de montes.</p>
+<p>Ingeniería industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero de Montes o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de montes.</p>
+<p>– Ingeniero industrial o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero industrial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería de telecomunicación.</p>
+<p>Ingeniería de minas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero de Telecomunicación o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de telecomunicación.</p>
+<p>– Ingeniero de Minas o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de minas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingeniería de montes.</p>
+</td>
+<td>
+<p>– Ingeniero de Montes o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de montes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingeniería de telecomunicación.</p>
+</td>
+<td>
+<p>– Ingeniero de Telecomunicación o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de telecomunicación.</p>
 </td>
 </tr>
 <tr>
@@ -4144,1347 +4137,1347 @@ A efectos de la declaración del personal funcionario de carrera en la situació
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de arquitectos.</p>
+<p>Escala de arquitectos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
+<p>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Arquitecto, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto.</p>
+<p>– Arquitecto, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de veterinarios.</p>
+<p>Escala de veterinarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
+<p>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado en Veterinaria o graduado en una titulación que habilite para el ejercicio de la profesión de veterinario.</p>
+<p>– Licenciado en Veterinaria o graduado en una titulación que habilite para el ejercicio de la profesión de veterinario.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Escala de ciencias.</p>
+<p>Escala de ciencias.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Biología.</p>
+<p>Biología.</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida e con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
+<p>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida e con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
 </td>
-<td colspan="1" rowspan="3">
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de la rama de ciencias.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Química.</p>
+<td rowspan="3">
+<p>– Licenciado o graduado en una titulación de la rama de ciencias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ciencias del mar.</p>
+<p>Química.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ciencias del mar.</p>
 </td>
 </tr>
 <tr>
 <td>Matemáticas.</td>
 <td>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</td>
-<td colspan="1">– Licenciado o graduado en una titulación de la rama de ciencias.</td>
+<td>– Licenciado o graduado en una titulación de la rama de ciencias.</td>
 </tr>
 <tr>
 <td>Física.</td>
 <td>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</td>
-<td colspan="1">– Licenciado o graduado en una titulación de la rama de ciencias.</td>
+<td>– Licenciado o graduado en una titulación de la rama de ciencias.</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de arqueólogos.</p>
+<p>Escala de arqueólogos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
+<p>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de la rama de artes y humanidades.</p>
+<p>– Licenciado o graduado en una titulación de la rama de artes y humanidades.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Escala de facultativos de archivos, bibliotecas y museos.</p>
+<p>Escala de facultativos de archivos, bibliotecas y museos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Archivos.</p>
+<p>Archivos.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
+<p>– Estudio, gestión, ejecución, propuesta e inspección de carácter facultativo superior, de acuerdo con la titulación exigida y con las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de la rama de artes y humanidades o de la rama de ciencias sociales y jurídicas.</p>
+<p>– Licenciado o graduado en una titulación de la rama de artes y humanidades o de la rama de ciencias sociales y jurídicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bibliotecas.</p>
+<p>Bibliotecas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Museos.</p>
+<p>Museos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de profesores numerarios de institutos politécnicos marítimo-pesqueros.</p>
+<p>Escala de profesores numerarios de institutos politécnicos marítimo-pesqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Impartir las enseñanzas marítimo-pesqueras en sus distintas especialidades, tanto teóricas como prácticas.</p>
+<p>– Impartir las enseñanzas marítimo-pesqueras en sus distintas especialidades, tanto teóricas como prácticas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciatura o grado en una titulación de cualquier rama y máster que habilite para el ejercicio de la profesión de profesor.</p>
+<p>– Licenciatura o grado en una titulación de cualquier rama y máster que habilite para el ejercicio de la profesión de profesor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de profesores de capacitación agraria.</p>
+<p>Escala de profesores de capacitación agraria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Impartir las enseñanzas de capacitación y formación profesional agraria, en las diferentes modalidades docentes.</p>
+<p>– Impartir las enseñanzas de capacitación y formación profesional agraria, en las diferentes modalidades docentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">–Licenciatura o grado en una titulación de cualquier rama y máster que habilite para el ejercicio de la profesión de profesor.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Escala de inspección urbanística.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Técnica.</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">A1</p>
-</td>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">– Estudio, gestión, tramitación y propuesta de resolución de los resultados de la actividad de inspección y control del cumplimiento de la normativa urbanística en los actos de edificación y uso del suelo que se realicen en la Comunidad Autónoma.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Arquitecto o ingeniero de Caminos, Canales y Puertos, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de Caminos, Canales y Puertos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Jurídica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en Derecho.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escala técnica del Servicio de Guardacostas de Galicia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de cualquier rama.</p>
+<p>–Licenciatura o grado en una titulación de cualquier rama y máster que habilite para el ejercicio de la profesión de profesor.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Escala de investigadores y expertos en desarrollo tecnológico (escala de expertos en I+DT).</p>
+<p>Escala de inspección urbanística.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Clases A1 y A2.</p>
+<p>Técnica.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">– Dirigir y realizar proyectos de investigación y desarrollo tecnológico.</p>
-<p class="cuerpo_tabla_izq">– Colaborar en tareas de formación de investigadores.</p>
-<p class="cuerpo_tabla_izq">– Colaborar en el desarrollo de proyectos de investigación y desarrollo tecnológico.</p>
-<p class="cuerpo_tabla_izq">– Elaborar e interpretar memorias e informes técnicos relacionados con su puesto de trabajo.</p>
+<p>– Estudio, gestión, tramitación y propuesta de resolución de los resultados de la actividad de inspección y control del cumplimiento de la normativa urbanística en los actos de edificación y uso del suelo que se realicen en la Comunidad Autónoma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Doctor.</p>
+<p>– Arquitecto o ingeniero de Caminos, Canales y Puertos, graduado o máster en una titulación que habilite para el ejercicio de la profesión de arquitecto o máster en una titulación que habilite para el ejercicio de la profesión de ingeniero de Caminos, Canales y Puertos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Clases A3 y A4.</p>
+<p>Jurídica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado o graduado en una titulación de cualquier rama.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escala superior de salud laboral.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Ejercicio de las labores técnicas en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o norma que la sustituya, en el área de medicina del trabajo y vigilancia de la salud.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Licenciado en Medicina o graduado en una titulación que habilite para el ejercicio de la profesión de médico y especialidad de medicina del trabajo o diplomatura en Medicina de Empresa.</p>
+<p>– Licenciado o graduado en Derecho.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de facultativos.</p>
+<p>Escala técnica del Servicio de Guardacostas de Galicia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Medicina.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A1</p>
+<p>A1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Asume la responsabilidad de los servicios médico-sanitarios en relación con las personas usuarias a través de estudios diagnósticos individuales y condiciones de salubridad del entorno, de acuerdo con los servicios de seguridad e higiene en el trabajo, que le permita una adecuada medicina preventiva y asistencial.</p>
-<p class="cuerpo_tabla_izq">– Evaluación de las condiciones de salud a efectos de los reconocimientos oficiales de discapacidad y/o dependencia, o para la derivación a recursos sociales adecuados a las necesidades de la persona.</p>
-<p class="cuerpo_tabla_izq">– Prescripción y seguimiento de tratamientos médicos y preventivos.</p>
-<p class="cuerpo_tabla_izq">– Programación y supervisión de menús y dietas alimenticias de las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Asistencia al personal con destino en el centro en los supuestos de necesidad y urgencia.</p>
-<p class="cuerpo_tabla_izq">– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Información y orientación al personal con destino en los centros de los posibles riesgos para su salud que presenten las personas usuarias, así como de las medidas profilácticas que hayan de adoptarse.</p>
-<p class="cuerpo_tabla_izq">– Orientación y participación en la formación de otros profesionales del centro y en la de los familiares de las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Participación en las juntas y sesiones de trabajo que se convoquen en el centro.</p>
-<p class="cuerpo_tabla_izq">– En general, todas aquellas actividades no especificadas anteriormente incluidas dentro de su profesión y preparación técnica.</p>
+<p>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado en Medicina o graduado en una titulación que habilite para el ejercicio de la profesión de médico.</p>
+<p>– Licenciado o graduado en una titulación de cualquier rama.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p>Escala de investigadores y expertos en desarrollo tecnológico (escala de expertos en I+DT).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Psicología.</p>
+<p>Clases A1 y A2.</p>
+</td>
+<td rowspan="2">
+<p>A1</p>
+</td>
+<td rowspan="2">
+<p>– Dirigir y realizar proyectos de investigación y desarrollo tecnológico.</p>
+<p>– Colaborar en tareas de formación de investigadores.</p>
+<p>– Colaborar en el desarrollo de proyectos de investigación y desarrollo tecnológico.</p>
+<p>– Elaborar e interpretar memorias e informes técnicos relacionados con su puesto de trabajo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Exploración, diagnóstico y valoración de los aspectos de la personalidad, inteligencia y aptitudes de las personas usuarias, y, en su caso, derivación a los recursos sociales adecuados a las necesidades de las personas.</p>
-<p class="cuerpo_tabla_izq">– Elaboración del programa de medidas terapéuticas de carácter psicológico que hayan de realizarse, con carácter individual, familiar e institucional.</p>
-<p class="cuerpo_tabla_izq">– Evaluaciones en el marco del procedimiento de reconocimiento de la situación de discapacidad y/o dependencia en los casos en que corresponda.</p>
-<p class="cuerpo_tabla_izq">– Coordinación, seguimiento y evaluación de los tratamientos dependientes de su especialidad que se realicen en el centro y de los que se realicen con recursos ajenos.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento de los recursos o servicios de carácter psicológico en el ámbito provincial y autonómico.</p>
-<p class="cuerpo_tabla_izq">– Participación en las juntas y sesiones de trabajo que se establezcan.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en las materias de su competencia en los programas que se realicen de formación e información a familias e instituciones.</p>
-<p class="cuerpo_tabla_izq">– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– En general, todas aquellas actividades no especificadas anteriormente incluidas en su profesión y preparación técnica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Licenciado en Psicología o graduado en una titulación equivalente de la rama de ciencias de la salud.</p>
+<p>– Doctor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Pedagogía.</p>
+<p>Clases A3 y A4.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>– Licenciado o graduado en una titulación de cualquier rama.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala superior de salud laboral.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Valoraciones y propuestas de intervención educativas con familias y menores en situación de riesgo social.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de informes técnicos de contenido educativo.</p>
-<p class="cuerpo_tabla_izq">– Estudio, diseño, valoración, ejecución y seguimiento de programas sociales y de intervención con menores y familias.</p>
-<p class="cuerpo_tabla_izq">– Asesoramiento a los centros de menores en la elaboración de sus proyectos educativos y supervisión de la ejecución de los mismos.</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Licenciado en Pedagogía o graduado en una titulación equivalente de la rama de ciencias sociales y jurídicas.</p>
+<p>A1</p>
+</td>
+<td>
+<p>– Ejercicio de las labores técnicas en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o norma que la sustituya, en el área de medicina del trabajo y vigilancia de la salud.</p>
+</td>
+<td>
+<p>– Licenciado en Medicina o graduado en una titulación que habilite para el ejercicio de la profesión de médico y especialidad de medicina del trabajo o diplomatura en Medicina de Empresa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala de expertos/as lingüistas.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">A1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Revisión y traducción de textos gallego-castellano, castellano-gallego.</p>
-<p class="cuerpo_tabla_izq">– Asesoramiento lingüístico.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de modelos de documentos.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de informes.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>
+<p>Escala de facultativos.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciatura en Filología Gallega; licenciatura en Filología Hispánica, especialidad.</p>
-<p class="cuerpo_tabla_izq">Gallego-Portugués; grado en Lengua y Literatura Gallegas.</p>
+<td>
+<p>Medicina.</p>
+</td>
+<td>
+<p>A1</p>
+</td>
+<td>
+<p>– Asume la responsabilidad de los servicios médico-sanitarios en relación con las personas usuarias a través de estudios diagnósticos individuales y condiciones de salubridad del entorno, de acuerdo con los servicios de seguridad e higiene en el trabajo, que le permita una adecuada medicina preventiva y asistencial.</p>
+<p>– Evaluación de las condiciones de salud a efectos de los reconocimientos oficiales de discapacidad y/o dependencia, o para la derivación a recursos sociales adecuados a las necesidades de la persona.</p>
+<p>– Prescripción y seguimiento de tratamientos médicos y preventivos.</p>
+<p>– Programación y supervisión de menús y dietas alimenticias de las personas usuarias.</p>
+<p>– Asistencia al personal con destino en el centro en los supuestos de necesidad y urgencia.</p>
+<p>– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
+<p>– Información y orientación al personal con destino en los centros de los posibles riesgos para su salud que presenten las personas usuarias, así como de las medidas profilácticas que hayan de adoptarse.</p>
+<p>– Orientación y participación en la formación de otros profesionales del centro y en la de los familiares de las personas usuarias.</p>
+<p>– Participación en las juntas y sesiones de trabajo que se convoquen en el centro.</p>
+<p>– En general, todas aquellas actividades no especificadas anteriormente incluidas dentro de su profesión y preparación técnica.</p>
+</td>
+<td>
+<p>– Licenciado en Medicina o graduado en una titulación que habilite para el ejercicio de la profesión de médico.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Escala de restauración.</td>
-<td class="cuerpo_tabla_izq">Documentos gráficos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de documentos técnicos y administrativos.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td rowspan="2">
+<p> </p>
 </td>
-<td class="cuerpo_tabla_izq">Licenciatura en Bellas Artes; grado en Bellas Artes; grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otro grado universitario del ámbito de la restauración de bienes culturales.</td>
+<td>
+<p>Psicología.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Exploración, diagnóstico y valoración de los aspectos de la personalidad, inteligencia y aptitudes de las personas usuarias, y, en su caso, derivación a los recursos sociales adecuados a las necesidades de las personas.</p>
+<p>– Elaboración del programa de medidas terapéuticas de carácter psicológico que hayan de realizarse, con carácter individual, familiar e institucional.</p>
+<p>– Evaluaciones en el marco del procedimiento de reconocimiento de la situación de discapacidad y/o dependencia en los casos en que corresponda.</p>
+<p>– Coordinación, seguimiento y evaluación de los tratamientos dependientes de su especialidad que se realicen en el centro y de los que se realicen con recursos ajenos.</p>
+<p>– Conocimiento de los recursos o servicios de carácter psicológico en el ámbito provincial y autonómico.</p>
+<p>– Participación en las juntas y sesiones de trabajo que se establezcan.</p>
+<p>– Colaboración en las materias de su competencia en los programas que se realicen de formación e información a familias e instituciones.</p>
+<p>– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
+<p>– En general, todas aquellas actividades no especificadas anteriormente incluidas en su profesión y preparación técnica.</p>
+</td>
+<td>
+<p>– Licenciado en Psicología o graduado en una titulación equivalente de la rama de ciencias de la salud.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bienes artísticos y arqueológicos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de bienes culturales.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>
+<p>Pedagogía.</p>
 </td>
-<td class="cuerpo_tabla_izq">Licenciatura en Bellas Artes; grado en Bellas Artes; grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otro grado universitario del ámbito de la restauración de bienes culturales.</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>– Valoraciones y propuestas de intervención educativas con familias y menores en situación de riesgo social.</p>
+<p>– Elaboración de informes técnicos de contenido educativo.</p>
+<p>– Estudio, diseño, valoración, ejecución y seguimiento de programas sociales y de intervención con menores y familias.</p>
+<p>– Asesoramiento a los centros de menores en la elaboración de sus proyectos educativos y supervisión de la ejecución de los mismos.</p>
+</td>
+<td>
+<p>– Licenciado en Pedagogía o graduado en una titulación equivalente de la rama de ciencias sociales y jurídicas.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala superior de sistemas de información geográfica.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">A1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Estudio y propuestas de normas técnicas cartográficas.</p>
-<p class="cuerpo_tabla_izq">– Diseño y manejo de proyectos de sistemas de información geográfica.</p>
-<p class="cuerpo_tabla_izq">– Diseño y edición de cartografía de referencia y temática.</p>
-<p class="cuerpo_tabla_izq">– Organización y diseño de proyectos de captura de información geográfica de referencia y temática.</p>
-<p class="cuerpo_tabla_izq">– Diseño y análisis de bases de datos geográficos.</p>
-<p class="cuerpo_tabla_izq">– Gestión de bases de datos geográficas.</p>
-<p class="cuerpo_tabla_izq">– Gestión de los componentes del SIG corporativo y de las infraestructuras de datos espaciales de Galicia.</p>
-<p class="cuerpo_tabla_izq">– Diseño y desarrollo de proyectos fotograméticos y de teledetección.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de análisis e informes basados en información georreferenciada y cartografía.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala de expertos/as lingüistas.</td>
+<td> </td>
+<td>A1</td>
+<td>
+<p>– Revisión y traducción de textos gallego-castellano, castellano-gallego.</p>
+<p>– Asesoramiento lingüístico.</p>
+<p>– Elaboración de modelos de documentos.</p>
+<p>– Elaboración de informes.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Licenciado o graduado en una titulación de cualquier rama.</td>
+<td>
+<p>Licenciatura en Filología Gallega; licenciatura en Filología Hispánica, especialidad.</p>
+<p>Gallego-Portugués; grado en Lengua y Literatura Gallegas.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Escala de restauración.</td>
+<td>Documentos gráficos.</td>
+<td rowspan="2">A1</td>
+<td>
+<p>– Estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de documentos técnicos y administrativos.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Licenciatura en Bellas Artes; grado en Bellas Artes; grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otro grado universitario del ámbito de la restauración de bienes culturales.</td>
+</tr>
+<tr>
+<td>Bienes artísticos y arqueológicos.</td>
+<td>
+<p>– Estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de bienes culturales.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Licenciatura en Bellas Artes; grado en Bellas Artes; grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otro grado universitario del ámbito de la restauración de bienes culturales.</td>
+</tr>
+<tr>
+<td>Escala superior de sistemas de información geográfica.</td>
+<td> </td>
+<td>A1</td>
+<td>
+<p>– Estudio y propuestas de normas técnicas cartográficas.</p>
+<p>– Diseño y manejo de proyectos de sistemas de información geográfica.</p>
+<p>– Diseño y edición de cartografía de referencia y temática.</p>
+<p>– Organización y diseño de proyectos de captura de información geográfica de referencia y temática.</p>
+<p>– Diseño y análisis de bases de datos geográficos.</p>
+<p>– Gestión de bases de datos geográficas.</p>
+<p>– Gestión de los componentes del SIG corporativo y de las infraestructuras de datos espaciales de Galicia.</p>
+<p>– Diseño y desarrollo de proyectos fotograméticos y de teledetección.</p>
+<p>– Elaboración de análisis e informes basados en información georreferenciada y cartografía.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Licenciado o graduado en una titulación de cualquier rama.</td>
 </tr>
 </tbody>
 </table>
 
 2\. En el cuerpo facultativo de grado medio existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Escala de ingenieros técnicos.</p>
+<p>Escala de ingenieros técnicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica de obras públicas.</p>
+<p>Ingeniería técnica de obras públicas.</p>
 </td>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">– Ejecución técnica y realización de los trabajos propios de la titulación exigida y de las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo, en su caso, bajo la dirección y supervisión de los funcionarios de la escala superior.</p>
+<p>– Ejecución técnica y realización de los trabajos propios de la titulación exigida y de las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo, en su caso, bajo la dirección y supervisión de los funcionarios de la escala superior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico de obras públicas o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico de obras públicas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica industrial.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico industrial o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico industrial.</p>
+<p>– Ingeniero técnico de obras públicas o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico de obras públicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica forestal.</p>
+<p>Ingeniería técnica industrial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico forestal o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico forestal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica agrícola.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico agrícola o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico agrícola.</p>
+<p>– Ingeniero técnico industrial o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico industrial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica de minas.</p>
+<p>Ingeniería técnica forestal.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico de minas o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico de minas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica de telecomunicación.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico de telecomunicación o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico de telecomunicación.</p>
+<p>– Ingeniero técnico forestal o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ingeniería técnica en topografía.</p>
+<p>Ingeniería técnica agrícola.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ingeniero técnico en topografía o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico en topografía.</p>
+<p>– Ingeniero técnico agrícola o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico agrícola.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de arquitectos técnicos.</p>
+<p>Ingeniería técnica de minas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>– Ingeniero técnico de minas o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico de minas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingeniería técnica de telecomunicación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>– Ingeniero técnico de telecomunicación o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico de telecomunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingeniería técnica en topografía.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ejecución técnica y realización de los trabajos propios de la titulación exigida y de las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo, en su caso, bajo la dirección y supervisión de los funcionarios de la escala superior.</p>
+<p>– Ingeniero técnico en topografía o graduado en una titulación que habilite para el ejercicio de la profesión de ingeniero técnico en topografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala de arquitectos técnicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Arquitecto técnico o graduado en una titulación que habilite para el ejercicio de la profesión de arquitecto técnico.</p>
+<p> </p>
+</td>
+<td>
+<p>A2</p>
+</td>
+<td>
+<p>– Ejecución técnica y realización de los trabajos propios de la titulación exigida y de las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo, en su caso, bajo la dirección y supervisión de los funcionarios de la escala superior.</p>
+</td>
+<td>
+<p>– Arquitecto técnico o graduado en una titulación que habilite para el ejercicio de la profesión de arquitecto técnico.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Escala de ayudantes de archivos, bibliotecas y museos.</p>
+<p>Escala de ayudantes de archivos, bibliotecas y museos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Archivos.</p>
+<p>Archivos.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Ejecución técnica y realización de los trabajos propios de la titulación exigida y de las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo, en su caso, bajo la dirección y supervisión de los funcionarios de la escala superior.</p>
+<p>– Ejecución técnica y realización de los trabajos propios de la titulación exigida y de las funciones concretas asignadas al desempeño del correspondiente puesto de trabajo, en su caso, bajo la dirección y supervisión de los funcionarios de la escala superior.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de la rama de artes y humanidades o de la rama de ciencias sociales y jurídicas.</p>
+<p>– Diplomado o graduado en una titulación de la rama de artes y humanidades o de la rama de ciencias sociales y jurídicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bibliotecas.</p>
+<p>Bibliotecas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Museos.</p>
+<p>Museos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de maestros de taller de Institutos Politécnicos marítimo-pesqueros.</p>
+<p>Escala de maestros de taller de Institutos Politécnicos marítimo-pesqueros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Prestar apoyo a los profesores numerarios en las prácticas de las enseñanzas marítimo-pesqueras en sus distintas especialidades.</p>
+<p>– Prestar apoyo a los profesores numerarios en las prácticas de las enseñanzas marítimo-pesqueras en sus distintas especialidades.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama y máster que habilite para el ejercicio de la profesión de profesor.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escala de agentes de extensión pesquera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Divulgación de las tecnologías aplicables al sector pesquero y de actividad de la Administración pesquera.</p>
-<p class="cuerpo_tabla_izq">– Asistencia técnica y promoción cooperativa y social del sector pesquero.</p>
-<p class="cuerpo_tabla_izq">– Enseñanza y formación ocupacional relacionadas con el sector pesquero, tanto en el ámbito de la docencia como en el de la gestión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama.</p>
+<p>– Diplomado o graduado en una titulación de cualquier rama y máster que habilite para el ejercicio de la profesión de profesor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de subinspección urbanística.</p>
+<p>Escala de agentes de extensión pesquera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ejecución de la actividad de inspección y control del cumplimiento de la normativa urbanística en los actos de edificación y uso del suelo que se realicen en la comunidad autónoma.</p>
+<p>– Divulgación de las tecnologías aplicables al sector pesquero y de actividad de la Administración pesquera.</p>
+<p>– Asistencia técnica y promoción cooperativa y social del sector pesquero.</p>
+<p>– Enseñanza y formación ocupacional relacionadas con el sector pesquero, tanto en el ámbito de la docencia como en el de la gestión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Arquitecto técnico o ingeniero técnico de Obras Públicas o graduado en una titulación que habilite para el ejercicio de la profesión de arquitecto técnico o de ingeniero técnico de obras públicas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Escala ejecutiva del Servicio de Guardacostas de Galicia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">A2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Diplomado o graduado en una titulación de cualquier rama.</p>
+<p>– Diplomado o graduado en una titulación de cualquier rama.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala técnica de salud laboral.</p>
+<p>Escala de subinspección urbanística.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ejercicio de las labores técnicas en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o norma que la sustituya, en el área de medicina del trabajo y vigilancia de la salud.</p>
+<p>– Ejecución de la actividad de inspección y control del cumplimiento de la normativa urbanística en los actos de edificación y uso del suelo que se realicen en la comunidad autónoma.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado en Enfermería o graduado en una titulación que habilite para el ejercicio de la profesión de enfermería y especialidad de enfermería del trabajo o diplomatura en Enfermería de Empresa.</p>
+<p>– Arquitecto técnico o ingeniero técnico de Obras Públicas o graduado en una titulación que habilite para el ejercicio de la profesión de arquitecto técnico o de ingeniero técnico de obras públicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala ejecutiva del Servicio de Guardacostas de Galicia.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>A2</p>
+</td>
+<td>
+<p>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</p>
+</td>
+<td>
+<p>– Diplomado o graduado en una titulación de cualquier rama.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala técnica de salud laboral.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>A2</p>
+</td>
+<td>
+<p>– Ejercicio de las labores técnicas en materia de prevención de riesgos laborales, de acuerdo con lo dispuesto en la legislación de prevención de riesgos laborales y, en particular, en los artículos 7.1 y 9.2 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, o norma que la sustituya, en el área de medicina del trabajo y vigilancia de la salud.</p>
+</td>
+<td>
+<p>– Diplomado en Enfermería o graduado en una titulación que habilite para el ejercicio de la profesión de enfermería y especialidad de enfermería del trabajo o diplomatura en Enfermería de Empresa.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Escala técnica de facultativos.</p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Escala técnica de facultativos.</p>
+<p> </p>
+<p> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Enfermería.</p>
+<p>Enfermería.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bajo la dependencia del coordinador de enfermería, director o persona en quien se delegue tiene las siguientes funciones:</p>
-<p class="cuerpo_tabla_izq">– Vigilancia y atención a las personas usuarias en sus necesidades sanitarias, en especial en el momento en que estos requieran sus servicios.</p>
-<p class="cuerpo_tabla_izq">– Preparación y administración de los medicamentos según las prescripciones facultativas, haciendo una recensión de los tratamientos.</p>
-<p class="cuerpo_tabla_izq">– Planificación y realización de los trabajos propios de enfermería.</p>
-<p class="cuerpo_tabla_izq">– Colaboración con el personal médico, preparando el material y los medicamentos que tengan que ser utilizados.</p>
-<p class="cuerpo_tabla_izq">– Ordenación del material de enfermería.</p>
-<p class="cuerpo_tabla_izq">– Ordenación de las historias clínicas, anotando en las mismas cuantos datos relacionados con la propia función deban figurar en las mismas.</p>
-<p class="cuerpo_tabla_izq">– Supervisión del aseo personal, del suministro de comidas de las personas usuarias encamadas, así como de los cambios posturales preventivos, efectuando junto con la persona auxiliar de enfermería o cuidadora la realización de los no preventivos. En casos excepcionales y en ausencia de la persona auxiliar de enfermería o cuidadora, efectuar todo lo anterior en planta o módulo.</p>
-<p class="cuerpo_tabla_izq">– Control de la higiene personal de las personas usuarias, así como de los medicamentos y alimentos que estos mantienen en las habitaciones.</p>
-<p class="cuerpo_tabla_izq">– Atención a las necesidades sanitarias que presente el personal que trabaja en el centro en caso de necesidad o urgencia.</p>
-<p class="cuerpo_tabla_izq">– Colaboración con las personas fisioterapeutas en las actividades cuyo nivel de exigencia de cualificación sea compatible con su titulación, cuando sus funciones específicas lo permitan.</p>
-<p class="cuerpo_tabla_izq">– Realización de pedidos de farmacia.</p>
-<p class="cuerpo_tabla_izq">– Realización de analíticas en los centros que estén dotados de este servicio. En ausencia de estos, realización de pedidos de analítica y radiología.</p>
-<p class="cuerpo_tabla_izq">– Vigilancia y cuidado de la ejecución de las actividades de tipo físico prescritas por el personal médico, observando las incidencias que pudieran aparecer.</p>
-<p class="cuerpo_tabla_izq">– Organización, canalización y supervisión de las consultas externas que por su naturaleza no puedan realizarse en el centro.</p>
-<p class="cuerpo_tabla_izq">– Preparación de la persona usuaria fallecida junto con la persona auxiliar de enfermería o cuidadora para su traslado a las dependencias mortuorias.</p>
-<p class="cuerpo_tabla_izq">– En general, todas aquellas actividades no especificadas anteriormente incluidas en el ejercicio de su profesión.</p>
+<p>Bajo la dependencia del coordinador de enfermería, director o persona en quien se delegue tiene las siguientes funciones:</p>
+<p>– Vigilancia y atención a las personas usuarias en sus necesidades sanitarias, en especial en el momento en que estos requieran sus servicios.</p>
+<p>– Preparación y administración de los medicamentos según las prescripciones facultativas, haciendo una recensión de los tratamientos.</p>
+<p>– Planificación y realización de los trabajos propios de enfermería.</p>
+<p>– Colaboración con el personal médico, preparando el material y los medicamentos que tengan que ser utilizados.</p>
+<p>– Ordenación del material de enfermería.</p>
+<p>– Ordenación de las historias clínicas, anotando en las mismas cuantos datos relacionados con la propia función deban figurar en las mismas.</p>
+<p>– Supervisión del aseo personal, del suministro de comidas de las personas usuarias encamadas, así como de los cambios posturales preventivos, efectuando junto con la persona auxiliar de enfermería o cuidadora la realización de los no preventivos. En casos excepcionales y en ausencia de la persona auxiliar de enfermería o cuidadora, efectuar todo lo anterior en planta o módulo.</p>
+<p>– Control de la higiene personal de las personas usuarias, así como de los medicamentos y alimentos que estos mantienen en las habitaciones.</p>
+<p>– Atención a las necesidades sanitarias que presente el personal que trabaja en el centro en caso de necesidad o urgencia.</p>
+<p>– Colaboración con las personas fisioterapeutas en las actividades cuyo nivel de exigencia de cualificación sea compatible con su titulación, cuando sus funciones específicas lo permitan.</p>
+<p>– Realización de pedidos de farmacia.</p>
+<p>– Realización de analíticas en los centros que estén dotados de este servicio. En ausencia de estos, realización de pedidos de analítica y radiología.</p>
+<p>– Vigilancia y cuidado de la ejecución de las actividades de tipo físico prescritas por el personal médico, observando las incidencias que pudieran aparecer.</p>
+<p>– Organización, canalización y supervisión de las consultas externas que por su naturaleza no puedan realizarse en el centro.</p>
+<p>– Preparación de la persona usuaria fallecida junto con la persona auxiliar de enfermería o cuidadora para su traslado a las dependencias mortuorias.</p>
+<p>– En general, todas aquellas actividades no especificadas anteriormente incluidas en el ejercicio de su profesión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado en Enfermería o graduado en una titulación que habilite para la profesión de enfermería.</p>
+<p>– Diplomado en Enfermería o graduado en una titulación que habilite para la profesión de enfermería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Educadores.</p>
+<p>Educadores.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Participación en el seguimiento y en la evaluación del proceso recuperador o asistencial de las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">Relación con los familiares de las personas usuarias, proporcionándoles orientación y apoyo.</p>
-<p class="cuerpo_tabla_izq">Coordinación de las actividades de la vida diaria de las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">Programación y participación en las áreas de ocio y tiempo libre.</p>
-<p class="cuerpo_tabla_izq">Programación y ejecución de las actividades educativas y formativas de las personas usuarias que lo requieran en centros ocupacionales y CAPD.</p>
-<p class="cuerpo_tabla_izq">Participación, cuando se les requiera, en el equipo multidisciplinar para la realización de pruebas o valoraciones relacionadas con sus funciones.</p>
-<p class="cuerpo_tabla_izq">Participación en las juntas y sesiones de trabajo en el centro.</p>
-<p class="cuerpo_tabla_izq">En general, todas aquellas actividades no especificadas anteriormente, incluidas dentro de su profesión o preparación técnica.</p>
+<p>Participación en el seguimiento y en la evaluación del proceso recuperador o asistencial de las personas usuarias.</p>
+<p>Relación con los familiares de las personas usuarias, proporcionándoles orientación y apoyo.</p>
+<p>Coordinación de las actividades de la vida diaria de las personas usuarias.</p>
+<p>Programación y participación en las áreas de ocio y tiempo libre.</p>
+<p>Programación y ejecución de las actividades educativas y formativas de las personas usuarias que lo requieran en centros ocupacionales y CAPD.</p>
+<p>Participación, cuando se les requiera, en el equipo multidisciplinar para la realización de pruebas o valoraciones relacionadas con sus funciones.</p>
+<p>Participación en las juntas y sesiones de trabajo en el centro.</p>
+<p>En general, todas aquellas actividades no especificadas anteriormente, incluidas dentro de su profesión o preparación técnica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Maestro o graduado en una titulación que habilite para el ejercicio de la profesión de maestro en Educación Infantil, primaria o diplomado en Educación Social, o primer ciclo de la titulación de licenciatura en Pedagogía, de la titulación de licenciado en Psicología o de la titulación de licenciado en Psicopedagogía, o graduado en una titulación de la rama de ciencias sociales y jurídicas o de la rama de ciencias de la salud equivalente a cualquiera de las anteriores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fisioterapia.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Realización de los tratamientos de fisioterapia dentro del ámbito de su competencia.</p>
-<p class="cuerpo_tabla_izq">– Participación, cuando se le requiera, en el equipo multidisciplinar del centro para la realización de pruebas o valoraciones relacionadas con su especialidad.</p>
-<p class="cuerpo_tabla_izq">– Seguimiento y evaluación de la aplicación del tratamiento que realice.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento, evaluación e información, en su caso, de la aplicación de tratamientos de su especialidad, cuando se produzca mediante la utilización de recursos ajenos.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento de los recursos propios de su especialidad en el ámbito provincial y autonómico.</p>
-<p class="cuerpo_tabla_izq">– Participación en juntas y sesiones de trabajo en el centro.</p>
-<p class="cuerpo_tabla_izq">– Colaboración, en materia de su competencia, en los programas de formación e información a familias e instituciones.</p>
-<p class="cuerpo_tabla_izq">– Asesoramiento a los profesionales que lo precisen sobre movilizaciones y tratamientos en los que tengan incidencias las técnicas de fisioterapia.</p>
-<p class="cuerpo_tabla_izq">– En general, todas aquellas actividades no especificadas anteriormente incluidas en el ejercicio de su profesión y preparación técnica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Diplomado en Fisioterapia o graduado en una titulación que habilite para el ejercicio de la profesión de fisioterapeuta.</p>
+<p>– Maestro o graduado en una titulación que habilite para el ejercicio de la profesión de maestro en Educación Infantil, primaria o diplomado en Educación Social, o primer ciclo de la titulación de licenciatura en Pedagogía, de la titulación de licenciado en Psicología o de la titulación de licenciado en Psicopedagogía, o graduado en una titulación de la rama de ciencias sociales y jurídicas o de la rama de ciencias de la salud equivalente a cualquiera de las anteriores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Logopedia.</p>
+<p>Fisioterapia.</p>
+</td>
+<td>
+<p>– Realización de los tratamientos de fisioterapia dentro del ámbito de su competencia.</p>
+<p>– Participación, cuando se le requiera, en el equipo multidisciplinar del centro para la realización de pruebas o valoraciones relacionadas con su especialidad.</p>
+<p>– Seguimiento y evaluación de la aplicación del tratamiento que realice.</p>
+<p>– Conocimiento, evaluación e información, en su caso, de la aplicación de tratamientos de su especialidad, cuando se produzca mediante la utilización de recursos ajenos.</p>
+<p>– Conocimiento de los recursos propios de su especialidad en el ámbito provincial y autonómico.</p>
+<p>– Participación en juntas y sesiones de trabajo en el centro.</p>
+<p>– Colaboración, en materia de su competencia, en los programas de formación e información a familias e instituciones.</p>
+<p>– Asesoramiento a los profesionales que lo precisen sobre movilizaciones y tratamientos en los que tengan incidencias las técnicas de fisioterapia.</p>
+<p>– En general, todas aquellas actividades no especificadas anteriormente incluidas en el ejercicio de su profesión y preparación técnica.</p>
+</td>
+<td>
+<p>– Diplomado en Fisioterapia o graduado en una titulación que habilite para el ejercicio de la profesión de fisioterapeuta.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Logopedia.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">A2</p>
+<p>A2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Realización de tratamientos específicos para la recuperación de los trastornos o alteraciones de la articulación de la voz o del lenguaje de las personas afectadas.</p>
-<p class="cuerpo_tabla_izq">– Participación en la realización de pruebas o valoraciones relacionadas con su especialidad.</p>
-<p class="cuerpo_tabla_izq">– Seguimiento y evaluación de la aplicación de los tratamientos que realice en el centro, en coordinación con los profesionales del equipo multidisciplinar.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento y valoración de los recursos y servicios propios de su especialidad.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento, información y evaluación, en su caso, de la aplicación de tratamientos de logopedia, cuando se produzcan mediante la utilización de recursos ajenos.</p>
-<p class="cuerpo_tabla_izq">– Participación en juntas y sesiones de trabajo en el centro.</p>
-<p class="cuerpo_tabla_izq">– Colaboración, en materias de su competencia, en los programas de formación e información a familias e instituciones.</p>
-<p class="cuerpo_tabla_izq">– En general, todas aquellas actividades no especificadas anteriormente incluidas dentro de su profesión y preparación técnica.</p>
+<p>– Realización de tratamientos específicos para la recuperación de los trastornos o alteraciones de la articulación de la voz o del lenguaje de las personas afectadas.</p>
+<p>– Participación en la realización de pruebas o valoraciones relacionadas con su especialidad.</p>
+<p>– Seguimiento y evaluación de la aplicación de los tratamientos que realice en el centro, en coordinación con los profesionales del equipo multidisciplinar.</p>
+<p>– Conocimiento y valoración de los recursos y servicios propios de su especialidad.</p>
+<p>– Conocimiento, información y evaluación, en su caso, de la aplicación de tratamientos de logopedia, cuando se produzcan mediante la utilización de recursos ajenos.</p>
+<p>– Participación en juntas y sesiones de trabajo en el centro.</p>
+<p>– Colaboración, en materias de su competencia, en los programas de formación e información a familias e instituciones.</p>
+<p>– En general, todas aquellas actividades no especificadas anteriormente incluidas dentro de su profesión y preparación técnica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado en Logopedia o graduado en una titulación que habilite para el ejercicio de la profesión de logopeda.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Trabajo social.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Planificación y organización del trabajo social del centro o de la unidad administrativa, mediante una adecuada programación de objetivos y racionalización del trabajo.</p>
-<p class="cuerpo_tabla_izq">– Colaboración y realización de estudios encaminados a investigar los aspectos sociales relativos a las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Ejecución de las labores administrativas propias de su función y realización de los informes sociales de las personas usuarias, facilitando información sobre los recursos propios y ajenos y efectuando la valoración de la situación personal, familiar y social.</p>
-<p class="cuerpo_tabla_izq">– Resolución de problemas sociales mediante la práctica de trabajo social individual, grupal y comunitario a todas las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Fomento de la integración y participación de las personas usuarias en la vida del centro y del entorno.</p>
-<p class="cuerpo_tabla_izq">– Coordinación y realización de actividades socioculturales.</p>
-<p class="cuerpo_tabla_izq">– Participación en los órganos técnicos en los que sean requeridos.</p>
-<p class="cuerpo_tabla_izq">– Realización de las gestiones necesarias para la resolución de problemas que afecten a personas usuarias y que no puedan ellos resolver personalmente.</p>
-<p class="cuerpo_tabla_izq">– Colaboración con los profesionales de su especialidad de otros centros y con los de otras entidades e instituciones.</p>
-<p class="cuerpo_tabla_izq">– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Participación en la asignación y los cambios de habitación y mesas del comedor.</p>
-<p class="cuerpo_tabla_izq">– Cualesquiera otras funciones no previstas anteriormente que le sean solicitadas por su superior y que estén incluidas en el ejercicio de su profesión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Diplomado en Trabajo Social o graduado en una titulación equivalente de la rama de ciencias sociales y jurídicas.</p>
+<p>– Diplomado en Logopedia o graduado en una titulación que habilite para el ejercicio de la profesión de logopeda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Terapia ocupacional</p>
+<p>Trabajo social.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A2</p>
+<p>– Planificación y organización del trabajo social del centro o de la unidad administrativa, mediante una adecuada programación de objetivos y racionalización del trabajo.</p>
+<p>– Colaboración y realización de estudios encaminados a investigar los aspectos sociales relativos a las personas usuarias.</p>
+<p>– Ejecución de las labores administrativas propias de su función y realización de los informes sociales de las personas usuarias, facilitando información sobre los recursos propios y ajenos y efectuando la valoración de la situación personal, familiar y social.</p>
+<p>– Resolución de problemas sociales mediante la práctica de trabajo social individual, grupal y comunitario a todas las personas usuarias.</p>
+<p>– Fomento de la integración y participación de las personas usuarias en la vida del centro y del entorno.</p>
+<p>– Coordinación y realización de actividades socioculturales.</p>
+<p>– Participación en los órganos técnicos en los que sean requeridos.</p>
+<p>– Realización de las gestiones necesarias para la resolución de problemas que afecten a personas usuarias y que no puedan ellos resolver personalmente.</p>
+<p>– Colaboración con los profesionales de su especialidad de otros centros y con los de otras entidades e instituciones.</p>
+<p>– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
+<p>– Participación en la asignación y los cambios de habitación y mesas del comedor.</p>
+<p>– Cualesquiera otras funciones no previstas anteriormente que le sean solicitadas por su superior y que estén incluidas en el ejercicio de su profesión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Evaluaciones encaminadas al reconocimiento de la situación de discapacidad y/o dependencia de la persona.</p>
-<p class="cuerpo_tabla_izq">– Realización de tratamientos específicos para la recuperación funcional de las personas usuarias a fin de alcanzar el adiestramiento en las actividades de la vida diaria, enseñanza en el manejo de aparatos y prótesis, adiestramiento en diversas actividades y diseño o elaboración de adaptaciones que ayuden a las personas en el desempeño de sus actividades, bajo la coordinación del personal médico del centro.</p>
-<p class="cuerpo_tabla_izq">– Colaboración con el equipo multidisciplinar para la realización de pruebas y valoraciones en aquellos aspectos propios de su especialidad.</p>
-<p class="cuerpo_tabla_izq">– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Seguimiento y evaluación de la aplicación de los tratamientos que lleve a cabo.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento y valoración de los recursos propios de su especialidad existentes en la provincia y comunidad.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento, información y evaluación, en su caso, de la aplicación de tratamientos de la propia especialidad cuando se produzcan mediante la aplicación de recursos ajenos.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en la ejecución y el control de programas socioculturales y recreativos, y en cuantos aspectos técnicos de su especialidad que le sean solicitados.</p>
-<p class="cuerpo_tabla_izq">– Preparación de trabajos manuales y otros, propios del departamento, para su exposición.</p>
-<p class="cuerpo_tabla_izq">– En general, todas aquellas actividades no especificadas anteriormente incluidas dentro de su profesión y preparación técnica.</p>
+<p>– Diplomado en Trabajo Social o graduado en una titulación equivalente de la rama de ciencias sociales y jurídicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Terapia ocupacional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Diplomado en Terapia Ocupacional o graduado en una titulación que habilite para el ejercicio de la profesión de terapeuta ocupacional.</p>
+<p>A2</p>
+</td>
+<td>
+<p>– Evaluaciones encaminadas al reconocimiento de la situación de discapacidad y/o dependencia de la persona.</p>
+<p>– Realización de tratamientos específicos para la recuperación funcional de las personas usuarias a fin de alcanzar el adiestramiento en las actividades de la vida diaria, enseñanza en el manejo de aparatos y prótesis, adiestramiento en diversas actividades y diseño o elaboración de adaptaciones que ayuden a las personas en el desempeño de sus actividades, bajo la coordinación del personal médico del centro.</p>
+<p>– Colaboración con el equipo multidisciplinar para la realización de pruebas y valoraciones en aquellos aspectos propios de su especialidad.</p>
+<p>– Participación en las reuniones de equipos multidisciplinares para la elaboración de programas individuales de atención y en las orientaciones que precisen las personas usuarias.</p>
+<p>– Seguimiento y evaluación de la aplicación de los tratamientos que lleve a cabo.</p>
+<p>– Conocimiento y valoración de los recursos propios de su especialidad existentes en la provincia y comunidad.</p>
+<p>– Conocimiento, información y evaluación, en su caso, de la aplicación de tratamientos de la propia especialidad cuando se produzcan mediante la aplicación de recursos ajenos.</p>
+<p>– Colaboración en la ejecución y el control de programas socioculturales y recreativos, y en cuantos aspectos técnicos de su especialidad que le sean solicitados.</p>
+<p>– Preparación de trabajos manuales y otros, propios del departamento, para su exposición.</p>
+<p>– En general, todas aquellas actividades no especificadas anteriormente incluidas dentro de su profesión y preparación técnica.</p>
+</td>
+<td>
+<p>– Diplomado en Terapia Ocupacional o graduado en una titulación que habilite para el ejercicio de la profesión de terapeuta ocupacional.</p>
 </td>
 </tr>
 <tr>
 <td>Educador social.</td>
-<td class="cuerpo_tabla_centro">A2</td>
+<td>A2</td>
 <td>
-<p class="cuerpo_tabla_izq">– Participación en el seguimiento y en la evaluación del proceso recuperador o asistencial de las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">–Relación con los familiares de las personas usuarias, proporcionándoles orientación y apoyo.</p>
-<p class="cuerpo_tabla_izq">–Coordinación de las actividades de la vida diaria de las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">–Programación y participación en las áreas de ocio y tiempo libre.</p>
-<p class="cuerpo_tabla_izq">–Programación y ejecución de las actividades formativas de las personas usuarias que lo requieran en centros ocupacionales y CAPD.</p>
-<p class="cuerpo_tabla_izq">–Participación, cuando fuesen requeridos, en el equipo mulidisciplinar para la realización de pruebas o valoraciones relacionadas con sus funciones.</p>
-<p class="cuerpo_tabla_izq">–Participación en las juntas y sesiones de trabajo en el centro.</p>
-<p class="cuerpo_tabla_izq">–En general, todas aquellas actividades, no especificadas anteriormente, incluidas dentro de su profesión o preparación técnica.</p>
+<p>– Participación en el seguimiento y en la evaluación del proceso recuperador o asistencial de las personas usuarias.</p>
+<p>–Relación con los familiares de las personas usuarias, proporcionándoles orientación y apoyo.</p>
+<p>–Coordinación de las actividades de la vida diaria de las personas usuarias.</p>
+<p>–Programación y participación en las áreas de ocio y tiempo libre.</p>
+<p>–Programación y ejecución de las actividades formativas de las personas usuarias que lo requieran en centros ocupacionales y CAPD.</p>
+<p>–Participación, cuando fuesen requeridos, en el equipo mulidisciplinar para la realización de pruebas o valoraciones relacionadas con sus funciones.</p>
+<p>–Participación en las juntas y sesiones de trabajo en el centro.</p>
+<p>–En general, todas aquellas actividades, no especificadas anteriormente, incluidas dentro de su profesión o preparación técnica.</p>
 </td>
 <td>– Maestro o graduado en una titulación que habilite para el ejercicio de la profesión de maestro en educación primaria o diplomado o graduado en Educación Social, o primer ciclo de la titulación de licenciado en Pedagogía, de la titulación de licenciado en Psicología o de la titulación de licenciado en Psicopedagogía, o graduado en una titulación de la rama de ciencias sociales y jurídicas o de la rama de ciencias de la salud equivalente a cualesquiera de las anteriores.</td>
 </tr>
 <tr>
 <td>Educador infantil.</td>
-<td class="cuerpo_tabla_centro">A2</td>
+<td>A2</td>
 <td>
-<p class="cuerpo_tabla_izq">– La atención educativa directa a los niños y niñas del primer ciclo de educación infantil.</p>
-<p class="cuerpo_tabla_izq">– Elaborar y responsabilizarse de la propuesta pedagógica de los centros que impartan el primer ciclo de educación infantil.</p>
-<p class="cuerpo_tabla_izq">– Participación en los equipos pedagógicos de los centros para garantizar la necesaria unidad de acción educativa.</p>
-<p class="cuerpo_tabla_izq">– Proporcionar información periódica a las familias sobre el progreso del alumnado y mantener con ellas actividades periódicas para intercambiar información sobre el proceso de enseñanza/aprendizaje de sus hijos e hijas.</p>
+<p>– La atención educativa directa a los niños y niñas del primer ciclo de educación infantil.</p>
+<p>– Elaborar y responsabilizarse de la propuesta pedagógica de los centros que impartan el primer ciclo de educación infantil.</p>
+<p>– Participación en los equipos pedagógicos de los centros para garantizar la necesaria unidad de acción educativa.</p>
+<p>– Proporcionar información periódica a las familias sobre el progreso del alumnado y mantener con ellas actividades periódicas para intercambiar información sobre el proceso de enseñanza/aprendizaje de sus hijos e hijas.</p>
 </td>
 <td>– Título de grado que habilite para el ejercicio de la profesión de maestro de Educación Infantil o título de maestro con la especialidad de Educación Infantil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Escala técnica de restauración.</td>
-<td class="cuerpo_tabla_izq">Documentos gráficos.</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Funciones de apoyo en materia de estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de documentos técnicos y administrativos no reservadas al cuerpo facultativo superior.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td rowspan="2">Escala técnica de restauración.</td>
+<td>Documentos gráficos.</td>
+<td>A2</td>
+<td>
+<p>– Funciones de apoyo en materia de estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de documentos técnicos y administrativos no reservadas al cuerpo facultativo superior.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Diplomatura o grado en Bellas Ates; diplomatura o grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otra diplomatura o grado universitario del ámbito de la restauración de bienes culturales.</td>
+<td>Diplomatura o grado en Bellas Ates; diplomatura o grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otra diplomatura o grado universitario del ámbito de la restauración de bienes culturales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Bienes artísticos y arqueológicos.</td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Funciones de apoyo en materia de estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de bienes culturales, no reservadas al cuerpo facultativo superior.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Bienes artísticos y arqueológicos.</td>
+<td>A2</td>
+<td>
+<p>– Funciones de apoyo en materia de estudio, informe, gestión, redacción, ejecución, dirección, supervisión, propuesta de resolución e inspección sobre intervenciones de conservación y restauración de bienes culturales, no reservadas al cuerpo facultativo superior.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Diplomatura o grado en Bellas Artes; diplomatura o grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otra diplomatura o grado universitario del ámbito de la restauración de bienes culturales.</td>
+<td>Diplomatura o grado en Bellas Artes; diplomatura o grado en Conservación y Restauración de Bienes Culturales; título superior en Conservación y Restauración de Bienes Culturales, o cualquier otra diplomatura o grado universitario del ámbito de la restauración de bienes culturales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala técnica de sistemas de información geográfica.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Análisis y desarrollo de herramientas de los sistemas de información geográfica.</p>
-<p class="cuerpo_tabla_izq">– Edición de cartografía de referencia y temática.</p>
-<p class="cuerpo_tabla_izq">– Análisis de bases de datos geográficas y datos georreferenciados.</p>
-<p class="cuerpo_tabla_izq">– Desarrollo de proyectos fotogramétricos y de teledetección.</p>
-<p class="cuerpo_tabla_izq">– Trabajos de fotointerpretación y captura de información georreferenciada (fotografías aéreas e imágenes de satélite).</p>
-<p class="cuerpo_tabla_izq">– Desarrollo de trabajos de producción de datos geográficos.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de análisis e informes de información georreferenciada y cartografía.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala técnica de sistemas de información geográfica.</td>
+<td> </td>
+<td>A2</td>
+<td>
+<p>– Análisis y desarrollo de herramientas de los sistemas de información geográfica.</p>
+<p>– Edición de cartografía de referencia y temática.</p>
+<p>– Análisis de bases de datos geográficas y datos georreferenciados.</p>
+<p>– Desarrollo de proyectos fotogramétricos y de teledetección.</p>
+<p>– Trabajos de fotointerpretación y captura de información georreferenciada (fotografías aéreas e imágenes de satélite).</p>
+<p>– Desarrollo de trabajos de producción de datos geográficos.</p>
+<p>– Elaboración de análisis e informes de información georreferenciada y cartografía.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Diplomado o graduado en una titulación de cualquier rama.</td>
+<td>Diplomado o graduado en una titulación de cualquier rama.</td>
 </tr>
 </tbody>
 </table>
 
 3\. En el cuerpo de técnicos de carácter facultativo existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala técnica de delineantes.</p>
+<p>Escala técnica de delineantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Ejecución, colaboración y apoyo a los cuerpos facultativos de grado superior y medio en las tareas propias de su profesión.</p>
+<p>– Ejecución, colaboración y apoyo a los cuerpos facultativos de grado superior y medio en las tareas propias de su profesión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Técnico superior en Proyectos de Edificación o en Proyectos de Obra Civil o en Diseño en Fabricación Mecánica o en Diseño y Edición de Publicaciones Impresas y Multimedia, o equivalentes.</p>
+<p>– Técnico superior en Proyectos de Edificación o en Proyectos de Obra Civil o en Diseño en Fabricación Mecánica o en Diseño y Edición de Publicaciones Impresas y Multimedia, o equivalentes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de agentes técnicos en gestión medioambiental.</p>
+<p>Escala de agentes técnicos en gestión medioambiental.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Desempeño de las funciones de ejecución, colaboración y apoyo a los cuerpos facultativos de grado superior y medio, así como la dirección y el control directos del personal a su cargo, y en particular:</p>
-<p class="cuerpo_tabla_izq">– La gestión pública forestal y la policía y custodia de los bienes jurídicos de naturaleza forestal.</p>
-<p class="cuerpo_tabla_izq">– La custodia y protección de los ecosistemas naturales, controlando las actividades relacionadas con la utilización y aprovechamientos de recursos naturales.</p>
-<p class="cuerpo_tabla_izq">– La participación en las tareas de defensa y prevención de los incendios forestales y cualquier otra causa que amenace los ecosistemas.</p>
-<p class="cuerpo_tabla_izq">– La custodia y protección de los espacios naturales, de la riqueza cinegética y piscícola y de la flora y fauna silvestres.</p>
-<p class="cuerpo_tabla_izq">– La ejecución y coordinación de trabajos y la adopción de las medidas que se precisen para la prestación de los servicios de custodia y protección de la riqueza forestal y medioambiental.</p>
-<p class="cuerpo_tabla_izq">– La participación en actividades de divulgación y extensión forestal y en acciones de fomento forestal que se lleven a cabo de cara a la gestión sostenible y multifuncional del monte.</p>
-<p class="cuerpo_tabla_izq">– Cualesquiera otras funciones que se le encomienden reglamentariamente en relación a la gestión y tutela de los recursos naturales renovables y con la conservación del medio ambiente.</p>
+<p>– Desempeño de las funciones de ejecución, colaboración y apoyo a los cuerpos facultativos de grado superior y medio, así como la dirección y el control directos del personal a su cargo, y en particular:</p>
+<p>– La gestión pública forestal y la policía y custodia de los bienes jurídicos de naturaleza forestal.</p>
+<p>– La custodia y protección de los ecosistemas naturales, controlando las actividades relacionadas con la utilización y aprovechamientos de recursos naturales.</p>
+<p>– La participación en las tareas de defensa y prevención de los incendios forestales y cualquier otra causa que amenace los ecosistemas.</p>
+<p>– La custodia y protección de los espacios naturales, de la riqueza cinegética y piscícola y de la flora y fauna silvestres.</p>
+<p>– La ejecución y coordinación de trabajos y la adopción de las medidas que se precisen para la prestación de los servicios de custodia y protección de la riqueza forestal y medioambiental.</p>
+<p>– La participación en actividades de divulgación y extensión forestal y en acciones de fomento forestal que se lleven a cabo de cara a la gestión sostenible y multifuncional del monte.</p>
+<p>– Cualesquiera otras funciones que se le encomienden reglamentariamente en relación a la gestión y tutela de los recursos naturales renovables y con la conservación del medio ambiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Técnico superior en Gestión Forestal y del Medio Natural, o equivalente.</p>
+<p>– Técnico superior en Gestión Forestal y del Medio Natural, o equivalente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala técnica del Servicio de Prevención y Defensa contra Incendios Forestales.</p>
+<p>Escala técnica del Servicio de Prevención y Defensa contra Incendios Forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bombero/a forestal</p>
-<p class="cuerpo_tabla_izq">Jefe/a de brigada.</p>
+<p>Bombero/a forestal</p>
+<p>Jefe/a de brigada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">B</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Coordinación y dirección del personal y medios encomendados para prevenir, combatir y extinguir los incendios de naturaleza forestal, así como la vigilancia y supervisión de las labores de prevención. En particular, coordinación de los bomberos/as forestales encargados/as de brigada y/o bomberos/as forestales a su cargo.</p>
-<p class="cuerpo_tabla_izq">Coordinación y apoyo en contingencias y situaciones de emergencia en las áreas rurales y forestales.</p>
-<p class="cuerpo_tabla_izq">Colaboración con las personas responsables del servicio de protección civil en el amparo de las personas y bienes ante la incidencia de los incendios forestales.</p>
-<p class="cuerpo_tabla_izq">Conducción de vehículos del Servicio de Prevención y Defensa Contra Incendios Forestales.</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Técnico superior en Gestión Forestal y del Medio Natural o equivalente y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</p>
+<p>Coordinación y dirección del personal y medios encomendados para prevenir, combatir y extinguir los incendios de naturaleza forestal, así como la vigilancia y supervisión de las labores de prevención. En particular, coordinación de los bomberos/as forestales encargados/as de brigada y/o bomberos/as forestales a su cargo.</p>
+<p>Coordinación y apoyo en contingencias y situaciones de emergencia en las áreas rurales y forestales.</p>
+<p>Colaboración con las personas responsables del servicio de protección civil en el amparo de las personas y bienes ante la incidencia de los incendios forestales.</p>
+<p>Conducción de vehículos del Servicio de Prevención y Defensa Contra Incendios Forestales.</p>
+</td>
+<td>
+<p>– Técnico superior en Gestión Forestal y del Medio Natural o equivalente y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Escala de agentes técnicos facultativos.</p>
+<p>Escala de agentes técnicos facultativos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Educación infantil.</p>
+<p>Educación infantil.</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Atención de forma integral e individualizada a las necesidades básicas y educativas de los niños y de las niñas menores de tres años.</p>
-<p class="cuerpo_tabla_izq">– Comunicación con las familias y los intercambios de información diaria sobre aspectos relevantes que afecten a los niños y las niñas de su grupo.</p>
+<p>– Atención de forma integral e individualizada a las necesidades básicas y educativas de los niños y de las niñas menores de tres años.</p>
+<p>– Comunicación con las familias y los intercambios de información diaria sobre aspectos relevantes que afecten a los niños y las niñas de su grupo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Técnico Superior en Educación Infantil, o equivalente.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Animación sociocultural.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Organización y realización, con una finalidad rehabilitadora o terapéutica, de actividades lúdicas, culturales y sociales, adaptadas a las características de las personas usuarias de servicios sociales, teniendo en cuenta los siguientes objetivos:</p>
-<p class="cuerpo_tabla_izq">– Fomento y gozo de actividades lúdico-deportivas.</p>
-<p class="cuerpo_tabla_izq">– Fomento de hábitos de vida saludables.</p>
-<p class="cuerpo_tabla_izq">– Fomento de actitudes de solidaridad y convivencia.</p>
-<p class="cuerpo_tabla_izq">– Fomento del desarrollo de actividades.</p>
-<p class="cuerpo_tabla_izq">– Fomento de las relaciones sociales, promoviendo y creando un espacio de relaciones interpersonales y facilitando el encuentro, la comunicación entre grupos, el trabajo en equipo y la organización de actividades de carácter comunitario.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">– Técnico Superior en Animación Sociocultural y Turística, o equivalente.</p>
+<p>– Técnico Superior en Educación Infantil, o equivalente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de brigadistas.</p>
+<p>Animación sociocultural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"> </p>
+<p>– Organización y realización, con una finalidad rehabilitadora o terapéutica, de actividades lúdicas, culturales y sociales, adaptadas a las características de las personas usuarias de servicios sociales, teniendo en cuenta los siguientes objetivos:</p>
+<p>– Fomento y gozo de actividades lúdico-deportivas.</p>
+<p>– Fomento de hábitos de vida saludables.</p>
+<p>– Fomento de actitudes de solidaridad y convivencia.</p>
+<p>– Fomento del desarrollo de actividades.</p>
+<p>– Fomento de las relaciones sociales, promoviendo y creando un espacio de relaciones interpersonales y facilitando el encuentro, la comunicación entre grupos, el trabajo en equipo y la organización de actividades de carácter comunitario.</p>
+</td>
+<td>
+<p>– Técnico Superior en Animación Sociocultural y Turística, o equivalente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Escala de brigadistas.</p>
+</td>
+<td>
+<p> </p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Coordinación del personal para prevenir, combatir y extinguir incendios de naturaleza forestal, así como vigilancia y mantenimiento de las labores de prevención. Coordinación en situaciones de emergencia en las áreas rurales y forestales y colaboración con los responsables de los servicios de protección civil en el amparo de personas y bienes ante la incidencia de los incendios forestales. Asimismo, deberá conducir cuando lo demanden las necesidades del servicio por lo que debe estar en posesión del carné de conducir B.</p>
+<p>Coordinación del personal para prevenir, combatir y extinguir incendios de naturaleza forestal, así como vigilancia y mantenimiento de las labores de prevención. Coordinación en situaciones de emergencia en las áreas rurales y forestales y colaboración con los responsables de los servicios de protección civil en el amparo de personas y bienes ante la incidencia de los incendios forestales. Asimismo, deberá conducir cuando lo demanden las necesidades del servicio por lo que debe estar en posesión del carné de conducir B.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Técnico superior en Gestión y Organización de Recursos Naturales y Paisajísticos o formación profesional de segundo o grao equivalente.</p>
+<p>– Técnico superior en Gestión y Organización de Recursos Naturales y Paisajísticos o formación profesional de segundo o grao equivalente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala técnica de interpretación de lengua de signos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">B</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Mediación comunicativa entre las personas sordas y oyentes.</p>
-<p class="cuerpo_tabla_izq">– Atención dentro del aula en la totalidad de la jornada lectiva, en las aulas de apoyo, pedagogía terapéutica y de audición y lenguaje; así como en el desarrollo de las diferentes actividades complementarias.</p>
-<p class="cuerpo_tabla_izq">– Adaptación de materiales didácticos a la lengua de signos y participación en la elaboración de materiales audiovisuales accesibles.</p>
-<p class="cuerpo_tabla_izq">– Desarrollo de labores de organización en las diferentes actividades de sensibilización sobre diversidad e inclusión en el centro.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala técnica de interpretación de lengua de signos.</td>
+<td> </td>
+<td>B</td>
+<td>
+<p>– Mediación comunicativa entre las personas sordas y oyentes.</p>
+<p>– Atención dentro del aula en la totalidad de la jornada lectiva, en las aulas de apoyo, pedagogía terapéutica y de audición y lenguaje; así como en el desarrollo de las diferentes actividades complementarias.</p>
+<p>– Adaptación de materiales didácticos a la lengua de signos y participación en la elaboración de materiales audiovisuales accesibles.</p>
+<p>– Desarrollo de labores de organización en las diferentes actividades de sensibilización sobre diversidad e inclusión en el centro.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">- Técnico/a superior en Interpretación de la Lengua de Signos.</td>
+<td>- Técnico/a superior en Interpretación de la Lengua de Signos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala de técnicos especialistas en patología forense del Imelga</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">B</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">1. Controlar y gestionar la recepción, registro y la posterior entrega del cadáver una vez finalizadas las investigaciones médico-legales pertinentes. Obtener, preparar y tramitar toda la documentación necesaria.</p>
-<p class="cuerpo_tabla_izq">2. Atender a las funerarias, familias, FOP y otras entidades o personas en relación con las actividades propias del servicio, como son: visualización de cadáveres, documentación de identificación, obtención de huella necrodactilar etc., siguiendo los protocolos establecidos.</p>
-<p class="cuerpo_tabla_izq">3. Controlar y reponer el material fungible y no fungible. Controlar el stock de material fungible y dar soporte a la previsión de pedidos.</p>
-<p class="cuerpo_tabla_izq">4. Controlar y reponer la documentación de la sala. Esterilizar el material de autopsias.</p>
-<p class="cuerpo_tabla_izq">5. Preparar y custodiar el cadáver según las disposiciones internas hasta el inicio de la necropsia.</p>
-<p class="cuerpo_tabla_izq">6. Actuar durante la necropsia siguiendo las directrices técnicas del médico o médica forense responsable.</p>
-<p class="cuerpo_tabla_izq">7. Controlar y custodiar las muestras desde la sala de autopsias hasta la entrega a la unidad responsable.</p>
-<p class="cuerpo_tabla_izq">8. Adecuar el cadáver y la sala una vez que acaba la necropsia.</p>
-<p class="cuerpo_tabla_izq">9. Controlar, custodiar y gestionar la ropa y objetos personales del cadáver según las instrucciones internas.</p>
-<p class="cuerpo_tabla_izq">10. Colaborar en otras actividades como son: gestión de muestras para su remisión a laboratorios internos o externos, asistencia a exhumaciones, tareas de esqueletización y/o preparación de piezas óseas para estudios antropológicos médico-legales, participación en simulacros de grandes catástrofes, movilización de cadáveres en los casos en que sea necesaria la práctica de pruebas de imagen (RX, TAC...).</p>
-<p class="cuerpo_tabla_izq">11. Desarrollar todas las tareas inherentes a su categoría profesional en la sección de histopatología: preparación y fijación de muestras, documentación, tareas derivadas de la disección, procesamientos, archivo de bloques, bases de datos. Preparación de reactivos, fijadores y descalcificadores.</p>
-<p class="cuerpo_tabla_izq">12. Controlar la recogida y entrega de preparación y bloques de histología tanto para el personal del servicio como para servicios externos.</p>
-<p class="cuerpo_tabla_izq">13. Mantenimiento del sistema de detección de formol y tomas de medidas de presión, con registro según el protocolo pautado.</p>
-<p class="cuerpo_tabla_izq">14. Detectar anomalías de funcionamiento de aparatos o sistemas y comunicárselo al jefe de servicio o sección o a la persona responsable.</p>
-<p class="cuerpo_tabla_izq">15. Llevar a cabo tareas básicas de mantenimiento de aparatos tanto de histopatología (limpieza, cambios de reactivos...) como en sala de autopsia.</p>
-<p class="cuerpo_tabla_izq">16. Cumplimentar las bases de datos del Servicio de Patología Forense tanto propias como las de otros organismos oficiales a los que está obligado legalmente.</p>
-<p class="cuerpo_tabla_izq">17. Colaborar en las tareas de control de calidad del Servicio de Patología Forense.</p>
-<p class="cuerpo_tabla_izq">18. Realizar los registros fotográficos y filmación de necropsias y de actuaciones complementarias y gestionar con posterioridad el material fotográfico obtenido para garantizar el control, uso y seguridad, según las disposiciones del Servicio de Patología Forense.</p>
-<p class="cuerpo_tabla_izq">19. Hacer cualquier otra función relacionada con las expuestas con anterioridad que le sean asignadas por sus superiores jerárquicos.</p>
+<td>Escala de técnicos especialistas en patología forense del Imelga</td>
+<td> </td>
+<td>B</td>
+<td>
+<p>1. Controlar y gestionar la recepción, registro y la posterior entrega del cadáver una vez finalizadas las investigaciones médico-legales pertinentes. Obtener, preparar y tramitar toda la documentación necesaria.</p>
+<p>2. Atender a las funerarias, familias, FOP y otras entidades o personas en relación con las actividades propias del servicio, como son: visualización de cadáveres, documentación de identificación, obtención de huella necrodactilar etc., siguiendo los protocolos establecidos.</p>
+<p>3. Controlar y reponer el material fungible y no fungible. Controlar el stock de material fungible y dar soporte a la previsión de pedidos.</p>
+<p>4. Controlar y reponer la documentación de la sala. Esterilizar el material de autopsias.</p>
+<p>5. Preparar y custodiar el cadáver según las disposiciones internas hasta el inicio de la necropsia.</p>
+<p>6. Actuar durante la necropsia siguiendo las directrices técnicas del médico o médica forense responsable.</p>
+<p>7. Controlar y custodiar las muestras desde la sala de autopsias hasta la entrega a la unidad responsable.</p>
+<p>8. Adecuar el cadáver y la sala una vez que acaba la necropsia.</p>
+<p>9. Controlar, custodiar y gestionar la ropa y objetos personales del cadáver según las instrucciones internas.</p>
+<p>10. Colaborar en otras actividades como son: gestión de muestras para su remisión a laboratorios internos o externos, asistencia a exhumaciones, tareas de esqueletización y/o preparación de piezas óseas para estudios antropológicos médico-legales, participación en simulacros de grandes catástrofes, movilización de cadáveres en los casos en que sea necesaria la práctica de pruebas de imagen (RX, TAC...).</p>
+<p>11. Desarrollar todas las tareas inherentes a su categoría profesional en la sección de histopatología: preparación y fijación de muestras, documentación, tareas derivadas de la disección, procesamientos, archivo de bloques, bases de datos. Preparación de reactivos, fijadores y descalcificadores.</p>
+<p>12. Controlar la recogida y entrega de preparación y bloques de histología tanto para el personal del servicio como para servicios externos.</p>
+<p>13. Mantenimiento del sistema de detección de formol y tomas de medidas de presión, con registro según el protocolo pautado.</p>
+<p>14. Detectar anomalías de funcionamiento de aparatos o sistemas y comunicárselo al jefe de servicio o sección o a la persona responsable.</p>
+<p>15. Llevar a cabo tareas básicas de mantenimiento de aparatos tanto de histopatología (limpieza, cambios de reactivos...) como en sala de autopsia.</p>
+<p>16. Cumplimentar las bases de datos del Servicio de Patología Forense tanto propias como las de otros organismos oficiales a los que está obligado legalmente.</p>
+<p>17. Colaborar en las tareas de control de calidad del Servicio de Patología Forense.</p>
+<p>18. Realizar los registros fotográficos y filmación de necropsias y de actuaciones complementarias y gestionar con posterioridad el material fotográfico obtenido para garantizar el control, uso y seguridad, según las disposiciones del Servicio de Patología Forense.</p>
+<p>19. Hacer cualquier otra función relacionada con las expuestas con anterioridad que le sean asignadas por sus superiores jerárquicos.</p>
 </td>
-<td class="cuerpo_tabla_izq">Técnico superior en Anatomía Patológica y Citodiagnóstico.</td>
+<td>Técnico superior en Anatomía Patológica y Citodiagnóstico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala de instructor o instructora de pesca.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">B</td>
-<td class="cuerpo_tabla_izq">– Función docente en los módulos de pesca de las enseñanzas regladas y no regladas de las escuelas oficiales náutico-pesqueras de la Consejería del Mar.</td>
-<td class="cuerpo_tabla_izq">– Técnico o técnica superior en Transporte Marítimo y Pesca de Altura, o equivalente, y título profesional de capitana o capitán de pesca.</td>
+<td>Escala de instructor o instructora de pesca.</td>
+<td> </td>
+<td>B</td>
+<td>– Función docente en los módulos de pesca de las enseñanzas regladas y no regladas de las escuelas oficiales náutico-pesqueras de la Consejería del Mar.</td>
+<td>– Técnico o técnica superior en Transporte Marítimo y Pesca de Altura, o equivalente, y título profesional de capitana o capitán de pesca.</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Escala operativa del Servicio de Guardacostas de Galicia.</td>
-<td class="cuerpo_tabla_centro">Patrón o patrona.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
-<td class="cuerpo_tabla_izq">– Técnico o técnica superior en Transporte Marítimo y Pesca de Altura o equivalente y el título profesional de patrón o patrona de altura de la Marina Mercante sin restricciones o superior con atribuciones de mando en buques civiles.</td>
+<td rowspan="2">Escala operativa del Servicio de Guardacostas de Galicia.</td>
+<td>Patrón o patrona.</td>
+<td rowspan="2">B</td>
+<td>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
+<td>– Técnico o técnica superior en Transporte Marítimo y Pesca de Altura o equivalente y el título profesional de patrón o patrona de altura de la Marina Mercante sin restricciones o superior con atribuciones de mando en buques civiles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Mecánico o mecánica.</td>
-<td class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
-<td class="cuerpo_tabla_izq">– Técnico o técnica superior en Organización del Mantenimiento de la Maquinaria de Buques y Embarcaciones o equivalente, y el título profesional de mecánico o mecánica mayor naval de la Marina Mercante sin restricciones o superior con atribuciones de jefe o jefa de máquinas en buques civiles.</td>
+<td>Mecánico o mecánica.</td>
+<td>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
+<td>– Técnico o técnica superior en Organización del Mantenimiento de la Maquinaria de Buques y Embarcaciones o equivalente, y el título profesional de mecánico o mecánica mayor naval de la Marina Mercante sin restricciones o superior con atribuciones de jefe o jefa de máquinas en buques civiles.</td>
 </tr>
 </tbody>
 </table>
 
 4\. En el cuerpo de ayudantes de carácter facultativo existen las siguientes escalas y especialidades:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de agentes del Servicio de Guardacostas de Galicia.</p>
+<p>Escala de agentes del Servicio de Guardacostas de Galicia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</p>
+<p>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">– Bachiller o técnico.</p>
+<p>– Bachiller o técnico.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala técnica de mantenimiento de servicios.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Calibración, regularización y seguimiento de equipos y verificación y mantenimiento de todo tipo de contadores.</p>
-<p class="cuerpo_tabla_izq">– Mantenimiento de instalaciones. Realización de trabajos de albañilería, fontanería, pintura, carpintería y solados en las instalaciones.</p>
-<p class="cuerpo_tabla_izq">– Supervisión de las operaciones de comprobación periódicas definidas en los reglamentos de las instalaciones y en las instrucciones técnicas correspondientes.</p>
-<p class="cuerpo_tabla_izq">– Montaje y reparación de los utensilios o aparatos necesarios para el funcionamiento del centro o instalación.</p>
-<p class="cuerpo_tabla_izq">– Guardia y custodia de los libros de mantenimiento, manuales de instrucciones y libro de visitas. Anotación de las operaciones y revisiones.</p>
-<p class="cuerpo_tabla_izq">– Gestión y resolución de partes de averías y firma de órdenes de trabajo. Cumplimentación de registros.</p>
-<p class="cuerpo_tabla_izq">– Realización del mantenimiento preventivo. Elaboración de planes de mantenimiento.</p>
-<p class="cuerpo_tabla_izq">– Petición de material y suministros. Realización de los informes necesarios para el funcionamiento del centro.</p>
-<p class="cuerpo_tabla_izq">– Limpieza de la sala de máquinas, instalaciones, cuadros eléctricos, transformadores, taller y similares.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">– Título técnico en la rama de Instalación y Mantenimiento o en la rama de Electricidad y Electrónica o en Mecánica y Electricidad del Automóvil</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de recursos naturales y forestales.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Coordinación, organización y mantenimiento de las instalaciones, de los establecimientos, de los edificios y de los espacios naturales correspondientes en los parques naturales, centros de recuperación de fauna silvestre, centros cinegéticos, piscícolas o análogos, y, en general, el desarrollo de las actuaciones que requieran el adecuado funcionamiento de estos.</p>
-<p class="cuerpo_tabla_izq">– Coordinación del personal de la escala auxiliar de recursos naturales y del personal de la especialidad de recursos naturales y forestales de la agrupación profesional que prestan servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
-<p class="cuerpo_tabla_izq">– Control del cumplimiento de las medidas de prevención de riesgos laborales del personal que presta servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de los cuadrantes del personal a su cargo y control del cumplimiento horario.</p>
-<p class="cuerpo_tabla_izq">– Manejo de las aplicaciones informáticas, de los equipos informáticos y de las telecomunicaciones necesarios para el desarrollo, el registro y control de las funciones que le son propias.</p>
-<p class="cuerpo_tabla_izq">– Participación en actividades divulgativas.</p>
-<p class="cuerpo_tabla_izq">– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores).</p>
-<p class="cuerpo_tabla_izq">– Manejo de embarcaciones.</p>
-<p class="cuerpo_tabla_izq">– Recogida de fauna silvestre.</p>
-<p class="cuerpo_tabla_izq">– Actuaciones en situaciones de emergencia en los establecimientos, instalaciones y, en general, en los espacios naturales en los que desarrollan sus tareas, en colaboración con los servicios de protección civil y de gestión de emergencias. A tal fin podrán impartir instrucciones al personal a su cargo.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de técnico en la rama agraria.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de cocina.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Organización, coordinación y control del personal adscrito a la unidad de cocina.</p>
-<p class="cuerpo_tabla_izq">– Organización y planificación de los menús diarios, realización de los planes mensuales.</p>
-<p class="cuerpo_tabla_izq">– Elaboración y condimentación de los platos.</p>
-<p class="cuerpo_tabla_izq">– Gestión de alérgenos, mantenimiento de la documentación de trazabilidad, gestión de residuos.</p>
-<p class="cuerpo_tabla_izq">– Control de la despensa diaria, gestión y recepción de pedidos.</p>
-<p class="cuerpo_tabla_izq">– Supervisión de la limpieza y mantenimiento de la maquinaria, instalaciones y utensilios. Gestión y supervisión de los partes de averías.</p>
-<p class="cuerpo_tabla_izq">– Control y registro diarios de temperaturas.</p>
-<p class="cuerpo_tabla_izq">– Gestión y supervisión de los gastos derivados del departamento.</p>
-<p class="cuerpo_tabla_izq">– Asistencia a reuniones y elaboración de los informes necesarios en relación con las funciones anteriores.</p>
-<p class="cuerpo_tabla_izq">– Gestión de programas informáticos propios de la unidad.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de técnico en la rama de hostelería.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de conducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Realizar el transporte de personas, de la correspondencia oficial o de equipos o de materiales, así como cualquier otro servicio que le sea asignado por el parque móvil en atención a su escala.</p>
-<p class="cuerpo_tabla_izq">Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de bachiller o equivalente y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de análisis de laboratorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Organización y gestión de la actividad del laboratorio.</p>
-<p class="cuerpo_tabla_izq">– Desarrollo de métodos de análisis y realización de ensayos y analíticas. Preparación de patrones.</p>
-<p class="cuerpo_tabla_izq">– Organización de planes de muestras y toma de estas. Etiquetado, conservación y custodia de muestras.</p>
-<p class="cuerpo_tabla_izq">– Preparación y mantenimiento de los materiales y calibración de los equipos necesarios.</p>
-<p class="cuerpo_tabla_izq">– Evaluación de datos y mantenimiento de registros.</p>
-<p class="cuerpo_tabla_izq">– Etiquetado, almacenamiento, aislamiento de los materiales y productos.</p>
-<p class="cuerpo_tabla_izq">– Gestión y control de las existencias de materiales y productos.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de técnico en la rama de sanidad, de química o marítimo-pesquera.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Escala técnica de archivos, bibliotecas y museos.</td>
-<td class="cuerpo_tabla_izq">Archivos y bibliotecas.</td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Ejecución de los trabajos necesarios para el funcionamiento de los distintos servicios y procesos del archivo/biblioteca.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en las funciones de organización y gestión técnica: gestión de la colección y proceso técnico, acceso al documento, desarrollo de actividades culturales, de promoción y de formación de personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Tareas de atención a las personas usuarias y de colaboración en la confección de estadísticas.</p>
-<p class="cuerpo_tabla_izq">– Manejo de programas y herramientas tecnológicas.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de bachiller o técnico.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Museos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Ejecución de los trabajos necesarios para el funcionamiento de los distintos servicios y procesos del museo.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en las funciones de organización y gestión técnica: gestión de la colección y proceso técnico, desarrollo de actividades culturales, de promoción y de formación de personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Tareas de atención al usuario/a y de colaboración en la confección de estadísticas.</p>
-<p class="cuerpo_tabla_izq">– Manejo de programas y herramientas tecnológicas, entre otras.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de bachiller o técnico.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica operativa del Servicio de Prevención y Defensa Contra Incendios Forestales.</td>
-<td class="cuerpo_tabla_izq">Bombero/a forestal encargado/a de brigada.</td>
-<td class="cuerpo_tabla_izq">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Coordinación y dirección de los bomberos forestales a su cargo para prevenir, combatir y extinguir incendios de naturaleza forestal, así como vigilancia y mantenimiento de las labores de prevención, coordinación en situaciones de emergencia en las áreas rurales y forestales y colaboración con los responsables de los servicios de protección civil en el amparo de personas y bienes ante la incidencia de los incendios forestales.</p>
-<p class="cuerpo_tabla_izq">Conducción de vehículos del Servicio de Prevención y Defensa Contra Incendios Forestales.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de bachiller o técnico y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de recursos naturales y forestales.</td>
-<td>Capataz.</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Coordinación, organización y mantenimiento de las instalaciones, de los establecimientos, de los edificios y de los espacios naturales correspondientes en los parques naturales y parques nacionales, centros de recuperación de fauna silvestre, centros cinegéticos, piscícolas o análogos, y, en general, el desarrollo de las actuaciones que requieran el adecuado funcionamiento de estos.</p>
-<p class="cuerpo_tabla_izq">– Coordinación del personal de la escala auxiliar de recursos naturales y del personal de la especialidad de recursos naturales y forestales de la agrupación profesional que prestan servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
-<p class="cuerpo_tabla_izq">– Control del cumplimiento de las medidas de prevención de riesgos laborales del personal que presta servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de los cuadrantes del personal a su cargo y control del cumplimiento horario.</p>
-<p class="cuerpo_tabla_izq">– Manejo de las aplicaciones informáticas, de los equipos informáticos y de las telecomunicaciones necesarios para el desarrollo, el registro y control de las funciones que le son propias.</p>
-<p class="cuerpo_tabla_izq">– Participación en actividades divulgativas.</p>
-<p class="cuerpo_tabla_izq">– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores).</p>
-<p class="cuerpo_tabla_izq">– Manejo de embarcaciones.</p>
-<p class="cuerpo_tabla_izq">– Recogida de fauna silvestre.</p>
-<p class="cuerpo_tabla_izq">– Actuaciones en situaciones de emergencia en los establecimientos, instalaciones y, en general, en los espacios naturales en que desarrollan sus tareas, en colaboración con los servicios de protección civil y de gestión de emergencias. Para tal fin podrán impartir instrucciones al personal a su cargo.</p>
-<p class="cuerpo_tabla_izq">– Apoyo en la supervisión del acceso a zonas restringidas, en la supervisión de permisos de fondeo y permisos de buceo y en el control de furtivismo.</p>
-<p class="cuerpo_tabla_izq">– Trampeo fotográfico y mecánico.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Título de técnico en la rama agraria o en la rama de recursos naturales.</p>
-<p class="cuerpo_tabla_izq">Carné, autorización o licencia que sean necesarios para el manejo de los vehículos y de la maquinaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de recursos naturales y forestales.</td>
-<td>Mecánico naval.</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Reparación, mantenimiento, planificación y operación en áreas tales como motores mecánicos marinos de embarcaciones del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas.</p>
-<p class="cuerpo_tabla_izq">– Revisiones preventivas.</p>
-<p class="cuerpo_tabla_izq">– Gestión de logística e inventario de materiales, equipos y repuestos.</p>
-<p class="cuerpo_tabla_izq">– Funciones de mecánico naval que puede desempeñar el cargo de jefe de máquina de buques con las atribuciones que la legislación vigente otorgue y con los requisitos para enrolarse en un buque.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Bachillerato o técnico y título profesional de mecánico naval mayor o equivalente.</p>
-<p class="cuerpo_tabla_izq">Formación básica en seguridad marítima.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de recursos naturales y forestales.</td>
-<td>Patrón de embarcación.</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Manejo y gobierno de las embarcaciones en las distintas maniobras: atraques, amarres, toma de combustible, travesía...</p>
-<p class="cuerpo_tabla_izq">– Organización y dirección de los trabajos de los miembros de la tripulación.</p>
-<p class="cuerpo_tabla_izq">– Responsable de decisiones relativas al trabajo dependiendo del estado del mar.</p>
-<p class="cuerpo_tabla_izq">– Uso de radares y otros equipos electrónicos del barco, en el ámbito de su competencia.</p>
-<p class="cuerpo_tabla_izq">– Responsable del buen estado de los elementos de la embarcación, organización de las labores de mantenimiento de las embarcaciones.</p>
-<p class="cuerpo_tabla_izq">– Responsable de las inspecciones obligatorias de las embarcaciones.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Bachillerato o técnico y título profesional de patrón de cabotaje, patrón de litoral o equivalente.</p>
-<p class="cuerpo_tabla_izq">Formación básica en seguridad marítima.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de recursos naturales y forestales.</td>
-<td>Guía intérprete de patrimonio natural.</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Determinar bienes naturales y patrimoniales de un espacio natural protegido para su divulgación ante el visitante, gestionando la información, valorando su potencial interpretativo, efectuando la implementación de usos, medios, servicios y actividades, y considerando la tipología del público, cumpliendo las indicaciones de la persona que ejerza la dirección del espacio natural protegido y con cumplimiento de la normativa relativa de protección del patrimonio medioambiental, planificación de la actividad preventiva, y los estándares de calidad.</p>
-<p class="cuerpo_tabla_izq">– Dirigir grupos de personas por espacios naturales protegidos de forma organizada y aplicando destrezas de comunicación estandarizadas, para garantizar una interpretación de calidad del recurso natural.</p>
-<p class="cuerpo_tabla_izq">– Realizar la actividad interpretativa del recurso natural aplicando las técnicas de los servicios guiados, tales como demostraciones, desarrollo de actividades prácticas, uso de conceptos universales, analogías y comparaciones y los mensajes planificados específicamente para la actividad guiada.</p>
-<p class="cuerpo_tabla_izq">– Comunicar a los visitantes la normativa de protección del espacio natural protegido y los bienes que lo integren a través de la intervención interpretativa para fomentar actitudes de respecto a hacia él e incidir en su conservación.</p>
-<p class="cuerpo_tabla_izq">– Contribuir a la preservación de los parques y reservas naturales.</p>
-<p class="cuerpo_tabla_izq">– Participación en el diseño, ejecución y evaluación de planes y servicios interpretativos, rutas guiadas, folletos, paneles, rutas autoguiadas, programa de señalización.</p>
-<p class="cuerpo_tabla_izq">– Participación en el diseño, ejecución y evaluación de programas de educación ambiental y actividades didácticas con escolares y otros colectivos, tales como la formación de profesionales que operan en el Parque Nacional.</p>
-<p class="cuerpo_tabla_izq">– Participación en el diseño, ejecución y evaluación de programas y materiales de divulgación relacionadas con el espacio natural protegido.</p>
-<p class="cuerpo_tabla_izq">– Participación en la realización de los informes de uso público y estudios de afluencia de visitantes y en sistemas de acreditación de turismo sostenible.</p>
-<p class="cuerpo_tabla_izq">– Atención en los centros de visitantes y dinamización de estos.</p>
-<p class="cuerpo_tabla_izq">– Participación en la planificación, ejecución y seguimiento del programa de acogida y atención a visitantes: equipos, señalización, información y accesibilidad.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Bachillerato o técnico.</p>
-<p class="cuerpo_tabla_izq">Curso de guías del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas u otra formación oficial que habilite para la realización de las funciones inherentes a esta especialidad.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de recursos naturales y forestales.</td>
-<td>Guía intérprete de patrimonio natural.</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Atención a personas con discapacidad.</p>
-<p class="cuerpo_tabla_izq">– Diseño y realización de actividades accesibles y/o específicas para colectivos con necesidades especiales.</p>
-<p class="cuerpo_tabla_izq">– Participación en la planificación, ejecución y seguimiento del programa de participación ciudadana, voluntariado y prácticas.</p>
-<p class="cuerpo_tabla_izq">– Participación en la planificación e implantación del sistema de calidad del uso público.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra función que se le encomiende relacionada con las anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Bachillerato o técnico.</p>
-<p class="cuerpo_tabla_izq">Curso de guías del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas u otra formación oficial que habilite para la realización de las funciones inherentes a esta especialidad.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala técnica de gobernantes/as.</td>
-<td>Gobernante/a.</td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Como responsable del departamento y bajo la dependencia directa del director/a del centro o persona en quien delegue se ocupará de la organización, distribución y coordinación de todo el personal adscrito al ámbito de su competencia, comunicando a la dirección cuantas deficiencias observe, cuidando de que el personal a su cargo cumpla con su labor profesional, vigilando, asimismo, la higiene y uniformidad de este.</p>
-<p class="cuerpo_tabla_izq">– A petición de la dirección, asesorará a esta en la confección de los turnos de trabajo:</p>
-<p class="cuerpo_tabla_izq">• Vigilancia de la conservación del mobiliario, lencería, utensilios y menaje, así como del buen uso y economía de los materiales, utensilios y maquinaria a su cargo, procediendo al recuento e inventario de ellos.</p>
-<p class="cuerpo_tabla_izq">• En coordinación con el departamento de cocina, se responsabilizará de la buena marcha del servicio de comedor, distribución de comidas, control de regímenes, servicios especiales, montaje, limpieza y retirada del servicio.</p>
-<p class="cuerpo_tabla_izq">– Conocimiento del número de servicios diarios realizados en el departamento.</p>
-<p class="cuerpo_tabla_izq">– En coordinación con el personal de enfermería, y contando con el personal que tiene adscrito, control del buen estado de los alimentos que los residentes mantengan en las habitaciones.</p>
-<p class="cuerpo_tabla_izq">– En los centros cuyo servicio de comedor se realice mediante concierto con terceros, colaboración en la confección de menús y supervisión de las condiciones sanitarias de las dependencias y alimentos servidos.</p>
-<p class="cuerpo_tabla_izq">– Supervisión, cuando exista contrato de mantenimiento, de sus respectivas áreas profesionales (limpieza, desratización, desinfección y desinsectación, cristales, etc.), informando a la dirección del cumplimiento de ellos.</p>
-<p class="cuerpo_tabla_izq">– Si por necesidades acuciantes o imprevisibles, la normal actividad del centro lo requiere, colaborará en las tareas propias del personal a su orden.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
-</td>
-<td class="cuerpo_tabla_izq">Título de técnico en la rama de hostelería y turismo.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Escala de técnicos especialistas en reproducción cartográfica.</td>
+<td>Escala técnica de mantenimiento de servicios.</td>
 <td> </td>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Captura de información geográfica.</p>
-<p class="cuerpo_tabla_izq">– Operaciones de fotogrametría: restitución digital.</p>
-<p class="cuerpo_tabla_izq">– Actualización de bases de datos geográficas.</p>
-<p class="cuerpo_tabla_izq">– Preparación y maquetación de información geográfica.</p>
-<p class="cuerpo_tabla_izq">– Digitalización de información geográfica.</p>
-<p class="cuerpo_tabla_izq">– Publicación e impresión de información geográfica.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>C1</td>
+<td>
+<p>– Calibración, regularización y seguimiento de equipos y verificación y mantenimiento de todo tipo de contadores.</p>
+<p>– Mantenimiento de instalaciones. Realización de trabajos de albañilería, fontanería, pintura, carpintería y solados en las instalaciones.</p>
+<p>– Supervisión de las operaciones de comprobación periódicas definidas en los reglamentos de las instalaciones y en las instrucciones técnicas correspondientes.</p>
+<p>– Montaje y reparación de los utensilios o aparatos necesarios para el funcionamiento del centro o instalación.</p>
+<p>– Guardia y custodia de los libros de mantenimiento, manuales de instrucciones y libro de visitas. Anotación de las operaciones y revisiones.</p>
+<p>– Gestión y resolución de partes de averías y firma de órdenes de trabajo. Cumplimentación de registros.</p>
+<p>– Realización del mantenimiento preventivo. Elaboración de planes de mantenimiento.</p>
+<p>– Petición de material y suministros. Realización de los informes necesarios para el funcionamiento del centro.</p>
+<p>– Limpieza de la sala de máquinas, instalaciones, cuadros eléctricos, transformadores, taller y similares.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Bachillerato o técnico.</td>
+<td>– Título técnico en la rama de Instalación y Mantenimiento o en la rama de Electricidad y Electrónica o en Mecánica y Electricidad del Automóvil</td>
+</tr>
+<tr>
+<td>Escala técnica de recursos naturales y forestales.</td>
+<td> </td>
+<td>C1</td>
+<td>
+<p>– Coordinación, organización y mantenimiento de las instalaciones, de los establecimientos, de los edificios y de los espacios naturales correspondientes en los parques naturales, centros de recuperación de fauna silvestre, centros cinegéticos, piscícolas o análogos, y, en general, el desarrollo de las actuaciones que requieran el adecuado funcionamiento de estos.</p>
+<p>– Coordinación del personal de la escala auxiliar de recursos naturales y del personal de la especialidad de recursos naturales y forestales de la agrupación profesional que prestan servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
+<p>– Control del cumplimiento de las medidas de prevención de riesgos laborales del personal que presta servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
+<p>– Elaboración de los cuadrantes del personal a su cargo y control del cumplimiento horario.</p>
+<p>– Manejo de las aplicaciones informáticas, de los equipos informáticos y de las telecomunicaciones necesarios para el desarrollo, el registro y control de las funciones que le son propias.</p>
+<p>– Participación en actividades divulgativas.</p>
+<p>– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores).</p>
+<p>– Manejo de embarcaciones.</p>
+<p>– Recogida de fauna silvestre.</p>
+<p>– Actuaciones en situaciones de emergencia en los establecimientos, instalaciones y, en general, en los espacios naturales en los que desarrollan sus tareas, en colaboración con los servicios de protección civil y de gestión de emergencias. A tal fin podrán impartir instrucciones al personal a su cargo.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de técnico en la rama agraria.</td>
+</tr>
+<tr>
+<td>Escala técnica de cocina.</td>
+<td> </td>
+<td>C1</td>
+<td>
+<p>– Organización, coordinación y control del personal adscrito a la unidad de cocina.</p>
+<p>– Organización y planificación de los menús diarios, realización de los planes mensuales.</p>
+<p>– Elaboración y condimentación de los platos.</p>
+<p>– Gestión de alérgenos, mantenimiento de la documentación de trazabilidad, gestión de residuos.</p>
+<p>– Control de la despensa diaria, gestión y recepción de pedidos.</p>
+<p>– Supervisión de la limpieza y mantenimiento de la maquinaria, instalaciones y utensilios. Gestión y supervisión de los partes de averías.</p>
+<p>– Control y registro diarios de temperaturas.</p>
+<p>– Gestión y supervisión de los gastos derivados del departamento.</p>
+<p>– Asistencia a reuniones y elaboración de los informes necesarios en relación con las funciones anteriores.</p>
+<p>– Gestión de programas informáticos propios de la unidad.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de técnico en la rama de hostelería.</td>
+</tr>
+<tr>
+<td>Escala técnica de conducción.</td>
+<td> </td>
+<td>C1</td>
+<td>
+<p>Realizar el transporte de personas, de la correspondencia oficial o de equipos o de materiales, así como cualquier otro servicio que le sea asignado por el parque móvil en atención a su escala.</p>
+<p>Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de bachiller o equivalente y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</td>
+</tr>
+<tr>
+<td>Escala técnica de análisis de laboratorio.</td>
+<td> </td>
+<td>C1</td>
+<td>
+<p>– Organización y gestión de la actividad del laboratorio.</p>
+<p>– Desarrollo de métodos de análisis y realización de ensayos y analíticas. Preparación de patrones.</p>
+<p>– Organización de planes de muestras y toma de estas. Etiquetado, conservación y custodia de muestras.</p>
+<p>– Preparación y mantenimiento de los materiales y calibración de los equipos necesarios.</p>
+<p>– Evaluación de datos y mantenimiento de registros.</p>
+<p>– Etiquetado, almacenamiento, aislamiento de los materiales y productos.</p>
+<p>– Gestión y control de las existencias de materiales y productos.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de técnico en la rama de sanidad, de química o marítimo-pesquera.</td>
+</tr>
+<tr>
+<td rowspan="2">Escala técnica de archivos, bibliotecas y museos.</td>
+<td>Archivos y bibliotecas.</td>
+<td>C1</td>
+<td>
+<p>– Ejecución de los trabajos necesarios para el funcionamiento de los distintos servicios y procesos del archivo/biblioteca.</p>
+<p>– Colaboración en las funciones de organización y gestión técnica: gestión de la colección y proceso técnico, acceso al documento, desarrollo de actividades culturales, de promoción y de formación de personas usuarias.</p>
+<p>– Tareas de atención a las personas usuarias y de colaboración en la confección de estadísticas.</p>
+<p>– Manejo de programas y herramientas tecnológicas.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de bachiller o técnico.</td>
+</tr>
+<tr>
+<td>Museos.</td>
+<td> </td>
+<td>
+<p>– Ejecución de los trabajos necesarios para el funcionamiento de los distintos servicios y procesos del museo.</p>
+<p>– Colaboración en las funciones de organización y gestión técnica: gestión de la colección y proceso técnico, desarrollo de actividades culturales, de promoción y de formación de personas usuarias.</p>
+<p>– Tareas de atención al usuario/a y de colaboración en la confección de estadísticas.</p>
+<p>– Manejo de programas y herramientas tecnológicas, entre otras.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de bachiller o técnico.</td>
+</tr>
+<tr>
+<td>Escala técnica operativa del Servicio de Prevención y Defensa Contra Incendios Forestales.</td>
+<td>Bombero/a forestal encargado/a de brigada.</td>
+<td>C1</td>
+<td>
+<p>Coordinación y dirección de los bomberos forestales a su cargo para prevenir, combatir y extinguir incendios de naturaleza forestal, así como vigilancia y mantenimiento de las labores de prevención, coordinación en situaciones de emergencia en las áreas rurales y forestales y colaboración con los responsables de los servicios de protección civil en el amparo de personas y bienes ante la incidencia de los incendios forestales.</p>
+<p>Conducción de vehículos del Servicio de Prevención y Defensa Contra Incendios Forestales.</p>
+</td>
+<td>Título de bachiller o técnico y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</td>
+</tr>
+<tr>
+<td>Escala técnica de recursos naturales y forestales.</td>
+<td>Capataz.</td>
+<td>C1</td>
+<td>
+<p>– Coordinación, organización y mantenimiento de las instalaciones, de los establecimientos, de los edificios y de los espacios naturales correspondientes en los parques naturales y parques nacionales, centros de recuperación de fauna silvestre, centros cinegéticos, piscícolas o análogos, y, en general, el desarrollo de las actuaciones que requieran el adecuado funcionamiento de estos.</p>
+<p>– Coordinación del personal de la escala auxiliar de recursos naturales y del personal de la especialidad de recursos naturales y forestales de la agrupación profesional que prestan servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
+<p>– Control del cumplimiento de las medidas de prevención de riesgos laborales del personal que presta servicios en el espacio natural, establecimiento o instalación correspondiente.</p>
+<p>– Elaboración de los cuadrantes del personal a su cargo y control del cumplimiento horario.</p>
+<p>– Manejo de las aplicaciones informáticas, de los equipos informáticos y de las telecomunicaciones necesarios para el desarrollo, el registro y control de las funciones que le son propias.</p>
+<p>– Participación en actividades divulgativas.</p>
+<p>– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores).</p>
+<p>– Manejo de embarcaciones.</p>
+<p>– Recogida de fauna silvestre.</p>
+<p>– Actuaciones en situaciones de emergencia en los establecimientos, instalaciones y, en general, en los espacios naturales en que desarrollan sus tareas, en colaboración con los servicios de protección civil y de gestión de emergencias. Para tal fin podrán impartir instrucciones al personal a su cargo.</p>
+<p>– Apoyo en la supervisión del acceso a zonas restringidas, en la supervisión de permisos de fondeo y permisos de buceo y en el control de furtivismo.</p>
+<p>– Trampeo fotográfico y mecánico.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las anteriores.</p>
+</td>
+<td>
+<p>Título de técnico en la rama agraria o en la rama de recursos naturales.</p>
+<p>Carné, autorización o licencia que sean necesarios para el manejo de los vehículos y de la maquinaria.</p>
+</td>
+</tr>
+<tr>
+<td>Escala técnica de recursos naturales y forestales.</td>
+<td>Mecánico naval.</td>
+<td>C1</td>
+<td>
+<p>– Reparación, mantenimiento, planificación y operación en áreas tales como motores mecánicos marinos de embarcaciones del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas.</p>
+<p>– Revisiones preventivas.</p>
+<p>– Gestión de logística e inventario de materiales, equipos y repuestos.</p>
+<p>– Funciones de mecánico naval que puede desempeñar el cargo de jefe de máquina de buques con las atribuciones que la legislación vigente otorgue y con los requisitos para enrolarse en un buque.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las anteriores.</p>
+</td>
+<td>
+<p>Bachillerato o técnico y título profesional de mecánico naval mayor o equivalente.</p>
+<p>Formación básica en seguridad marítima.</p>
+</td>
+</tr>
+<tr>
+<td>Escala técnica de recursos naturales y forestales.</td>
+<td>Patrón de embarcación.</td>
+<td>C1</td>
+<td>
+<p>– Manejo y gobierno de las embarcaciones en las distintas maniobras: atraques, amarres, toma de combustible, travesía...</p>
+<p>– Organización y dirección de los trabajos de los miembros de la tripulación.</p>
+<p>– Responsable de decisiones relativas al trabajo dependiendo del estado del mar.</p>
+<p>– Uso de radares y otros equipos electrónicos del barco, en el ámbito de su competencia.</p>
+<p>– Responsable del buen estado de los elementos de la embarcación, organización de las labores de mantenimiento de las embarcaciones.</p>
+<p>– Responsable de las inspecciones obligatorias de las embarcaciones.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>
+<p>Bachillerato o técnico y título profesional de patrón de cabotaje, patrón de litoral o equivalente.</p>
+<p>Formación básica en seguridad marítima.</p>
+</td>
+</tr>
+<tr>
+<td>Escala técnica de recursos naturales y forestales.</td>
+<td>Guía intérprete de patrimonio natural.</td>
+<td>C1</td>
+<td>
+<p>– Determinar bienes naturales y patrimoniales de un espacio natural protegido para su divulgación ante el visitante, gestionando la información, valorando su potencial interpretativo, efectuando la implementación de usos, medios, servicios y actividades, y considerando la tipología del público, cumpliendo las indicaciones de la persona que ejerza la dirección del espacio natural protegido y con cumplimiento de la normativa relativa de protección del patrimonio medioambiental, planificación de la actividad preventiva, y los estándares de calidad.</p>
+<p>– Dirigir grupos de personas por espacios naturales protegidos de forma organizada y aplicando destrezas de comunicación estandarizadas, para garantizar una interpretación de calidad del recurso natural.</p>
+<p>– Realizar la actividad interpretativa del recurso natural aplicando las técnicas de los servicios guiados, tales como demostraciones, desarrollo de actividades prácticas, uso de conceptos universales, analogías y comparaciones y los mensajes planificados específicamente para la actividad guiada.</p>
+<p>– Comunicar a los visitantes la normativa de protección del espacio natural protegido y los bienes que lo integren a través de la intervención interpretativa para fomentar actitudes de respecto a hacia él e incidir en su conservación.</p>
+<p>– Contribuir a la preservación de los parques y reservas naturales.</p>
+<p>– Participación en el diseño, ejecución y evaluación de planes y servicios interpretativos, rutas guiadas, folletos, paneles, rutas autoguiadas, programa de señalización.</p>
+<p>– Participación en el diseño, ejecución y evaluación de programas de educación ambiental y actividades didácticas con escolares y otros colectivos, tales como la formación de profesionales que operan en el Parque Nacional.</p>
+<p>– Participación en el diseño, ejecución y evaluación de programas y materiales de divulgación relacionadas con el espacio natural protegido.</p>
+<p>– Participación en la realización de los informes de uso público y estudios de afluencia de visitantes y en sistemas de acreditación de turismo sostenible.</p>
+<p>– Atención en los centros de visitantes y dinamización de estos.</p>
+<p>– Participación en la planificación, ejecución y seguimiento del programa de acogida y atención a visitantes: equipos, señalización, información y accesibilidad.</p>
+</td>
+<td>
+<p>Bachillerato o técnico.</p>
+<p>Curso de guías del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas u otra formación oficial que habilite para la realización de las funciones inherentes a esta especialidad.</p>
+</td>
+</tr>
+<tr>
+<td>Escala técnica de recursos naturales y forestales.</td>
+<td>Guía intérprete de patrimonio natural.</td>
+<td>C1</td>
+<td>
+<p>– Atención a personas con discapacidad.</p>
+<p>– Diseño y realización de actividades accesibles y/o específicas para colectivos con necesidades especiales.</p>
+<p>– Participación en la planificación, ejecución y seguimiento del programa de participación ciudadana, voluntariado y prácticas.</p>
+<p>– Participación en la planificación e implantación del sistema de calidad del uso público.</p>
+<p>– Cualquier otra función que se le encomiende relacionada con las anteriores.</p>
+</td>
+<td>
+<p>Bachillerato o técnico.</p>
+<p>Curso de guías del Parque Nacional Marítimo-Terrestre de las Islas Atlánticas u otra formación oficial que habilite para la realización de las funciones inherentes a esta especialidad.</p>
+</td>
+</tr>
+<tr>
+<td>Escala técnica de gobernantes/as.</td>
+<td>Gobernante/a.</td>
+<td>C1</td>
+<td>
+<p>– Como responsable del departamento y bajo la dependencia directa del director/a del centro o persona en quien delegue se ocupará de la organización, distribución y coordinación de todo el personal adscrito al ámbito de su competencia, comunicando a la dirección cuantas deficiencias observe, cuidando de que el personal a su cargo cumpla con su labor profesional, vigilando, asimismo, la higiene y uniformidad de este.</p>
+<p>– A petición de la dirección, asesorará a esta en la confección de los turnos de trabajo:</p>
+<p>• Vigilancia de la conservación del mobiliario, lencería, utensilios y menaje, así como del buen uso y economía de los materiales, utensilios y maquinaria a su cargo, procediendo al recuento e inventario de ellos.</p>
+<p>• En coordinación con el departamento de cocina, se responsabilizará de la buena marcha del servicio de comedor, distribución de comidas, control de regímenes, servicios especiales, montaje, limpieza y retirada del servicio.</p>
+<p>– Conocimiento del número de servicios diarios realizados en el departamento.</p>
+<p>– En coordinación con el personal de enfermería, y contando con el personal que tiene adscrito, control del buen estado de los alimentos que los residentes mantengan en las habitaciones.</p>
+<p>– En los centros cuyo servicio de comedor se realice mediante concierto con terceros, colaboración en la confección de menús y supervisión de las condiciones sanitarias de las dependencias y alimentos servidos.</p>
+<p>– Supervisión, cuando exista contrato de mantenimiento, de sus respectivas áreas profesionales (limpieza, desratización, desinfección y desinsectación, cristales, etc.), informando a la dirección del cumplimiento de ellos.</p>
+<p>– Si por necesidades acuciantes o imprevisibles, la normal actividad del centro lo requiere, colaborará en las tareas propias del personal a su orden.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de técnico en la rama de hostelería y turismo.</td>
+</tr>
+<tr>
+<td>Escala de técnicos especialistas en reproducción cartográfica.</td>
+<td> </td>
+<td>C1</td>
+<td>
+<p>– Captura de información geográfica.</p>
+<p>– Operaciones de fotogrametría: restitución digital.</p>
+<p>– Actualización de bases de datos geográficas.</p>
+<p>– Preparación y maquetación de información geográfica.</p>
+<p>– Digitalización de información geográfica.</p>
+<p>– Publicación e impresión de información geográfica.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Bachillerato o técnico.</td>
 </tr>
 </tbody>
 </table>
 
 4 bis. En el cuerpo de auxiliares de carácter técnico de Administración especial se crean las siguientes escalas y especialidades:
 
-<table class="tabla_ancha" summary="Tabla de formato">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Especialidades</p>
+<p>Especialidades</p>
 </th>
 <th>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Funciones</p>
+<p>Funciones</p>
 </th>
 <th>
-<p class="cabeza_tabla">Titulación</p>
+<p>Titulación</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de auxiliares de clínica.</p>
+<p>Escala de auxiliares de clínica.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todas aquellas actividades que, sin tener un carácter profesional sanitario, facilitan las funciones del médico y del enfermero o ayudante técnico sanitario.</p>
+<p>Todas aquellas actividades que, sin tener un carácter profesional sanitario, facilitan las funciones del médico y del enfermero o ayudante técnico sanitario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.</p>
+<p>Titulación que habilite para la realización de las funciones inherentes a esta escala.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de gerocultor.</p>
+<p>Escala de gerocultor.</p>
 </td>
 <td> </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Asistir al usuario en la realización de las actividades básicas e instrumentales, tanto sociales como sanitarias, de la vida cotidiana que no pueda realizar por él mismo, debido a la discapacidad o situación de dependencia o riesgo de padecerla, y efectuar aquellos trabajos encaminados a su atención personal de su entorno. En general, todas aquellas actividades que le sean encomendadas y que estén incluidas en el ejercicio de su profesión y preparación técnica.</p>
+<p>Asistir al usuario en la realización de las actividades básicas e instrumentales, tanto sociales como sanitarias, de la vida cotidiana que no pueda realizar por él mismo, debido a la discapacidad o situación de dependencia o riesgo de padecerla, y efectuar aquellos trabajos encaminados a su atención personal de su entorno. En general, todas aquellas actividades que le sean encomendadas y que estén incluidas en el ejercicio de su profesión y preparación técnica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.</p>
+<p>Titulación que habilite para la realización de las funciones inherentes a esta escala.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala auxiliar del Servicio de Prevención y Defensa</p>
-<p class="cuerpo_tabla_izq">contra incendios Forestales.</p>
+<p>Escala auxiliar del Servicio de Prevención y Defensa</p>
+<p>contra incendios Forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Operador de datos.</p>
+<p>Operador de datos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Manejo de los medios materiales para el tratamiento de la información tendentes a la ejecución de los sistemas operativos de los Spdcif.</p>
-<p class="cuerpo_tabla_izq">Cuando las circunstancias lo requieran, podrán ser dedicados a otras funciones administrativas vinculadas a la prevención y defensa contra incendios forestales.</p>
+<p>Manejo de los medios materiales para el tratamiento de la información tendentes a la ejecución de los sistemas operativos de los Spdcif.</p>
+<p>Cuando las circunstancias lo requieran, podrán ser dedicados a otras funciones administrativas vinculadas a la prevención y defensa contra incendios forestales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Graduado/a en ESO o equivalente.</p>
+<p>Graduado/a en ESO o equivalente.</p>
 </td>
 </tr>
 <tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Emisorista/ Vigilante/a fijo/a.</p>
+<p>Emisorista/ Vigilante/a fijo/a.</p>
 </td>
-<td class="cuerpo_tabla_centro">C2</td>
+<td>C2</td>
 <td>
-<p class="cuerpo_tabla_izq">Vigilar los incendios desde puntos fijos predeterminados y avisar de los que se manifiesten por los medios de comunicación disponibles.</p>
-<p class="cuerpo_tabla_izq">Realización de las transmisiones para asegurar una adecuada comunicación de los avisos, órdenes o instrucciones dentro del servicio.</p>
-<p class="cuerpo_tabla_izq">Cuando las circunstancias lo requieran, podrán ser dedicados a otras funciones administrativas vinculadas a la prevención y defensa contra incendios forestales.</p>
+<p>Vigilar los incendios desde puntos fijos predeterminados y avisar de los que se manifiesten por los medios de comunicación disponibles.</p>
+<p>Realización de las transmisiones para asegurar una adecuada comunicación de los avisos, órdenes o instrucciones dentro del servicio.</p>
+<p>Cuando las circunstancias lo requieran, podrán ser dedicados a otras funciones administrativas vinculadas a la prevención y defensa contra incendios forestales.</p>
 </td>
 <td> </td>
 </tr>
@@ -5492,223 +5485,223 @@ A efectos de la declaración del personal funcionario de carrera en la situació
 <tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Bombero forestal- conductor motobomba.</p>
+<p>Bombero forestal- conductor motobomba.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Conducir los vehículos motobomba del servicio y el mantenimiento de estos en buen estado, por lo que debe estar en posesión del carné de conducir C y B. Llevar a cabo obras de construcción, mejora y mantenimiento de infraestructuras vinculadas a la prevención y defensa contra incendios forestales, manejando a tal fin tractores y diferentes tipos de maquinaria mecanizada que demanden las referidas tareas.</p>
-</td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Bombero forestal.</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">Prevenir, combatir y extinguir incendios de naturaleza forestal así como vigilancia y mantenimiento de las labores de prevención. Atención en situación de emergencia en las áreas rurales y forestales y colaboración con los servicios de protección civil en el amparo de las personas y bienes ante la incidencia de los incendios forestales. Labores silvícolas preventivas de disminución de combustibilidad de las masas forestales y obras de construcción, mejora y mantenimiento de la infraestructura. Además, conducirá vehículos dedicados al transporte de las cuadrillas y materiales del servicio por lo que debe estar en posesión del carné de conducir B.</p>
+<p>Conducir los vehículos motobomba del servicio y el mantenimiento de estos en buen estado, por lo que debe estar en posesión del carné de conducir C y B. Llevar a cabo obras de construcción, mejora y mantenimiento de infraestructuras vinculadas a la prevención y defensa contra incendios forestales, manejando a tal fin tractores y diferentes tipos de maquinaria mecanizada que demanden las referidas tareas.</p>
 </td>
 <td> </td>
 </tr>
 <tr>
+<td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Escala de oficial 2º mecánico de máquinas de defensa contra incendios forestales.</p>
+<p>Bombero forestal.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">C2</p>
+<p>Prevenir, combatir y extinguir incendios de naturaleza forestal así como vigilancia y mantenimiento de las labores de prevención. Atención en situación de emergencia en las áreas rurales y forestales y colaboración con los servicios de protección civil en el amparo de las personas y bienes ante la incidencia de los incendios forestales. Labores silvícolas preventivas de disminución de combustibilidad de las masas forestales y obras de construcción, mejora y mantenimiento de la infraestructura. Además, conducirá vehículos dedicados al transporte de las cuadrillas y materiales del servicio por lo que debe estar en posesión del carné de conducir B.</p>
 </td>
-<td>
-<p class="cuerpo_tabla_izq">Personal que, teniendo los conocimientos que correspondan de mecanización, se ocupa de las reparaciones y mantenimiento de los vehículos y maquinaria que se puedan realizar y de los medios de los parques de maquinaria de los servicios de prevención y defensa contra incendios forestales. Asimismo, deberá conducir vehículos, trasladar vehículos averiados y efectuar otros cometidos de similares características, por lo que debe estar en posesión del carné de conducir B.XXXX</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.</p>
-</td>
+<td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Escala de guardas de recursos naturales</p>
+<p>Escala de oficial 2º mecánico de máquinas de defensa contra incendios forestales.</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">C2</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Con carácter general, realizarán las siguientes funciones:</p>
-<p class="cuerpo_tabla_izq">– Informar y asesorar a la Administración y a la ciudadanía en asuntos relacionados tanto con los aprovechamientos piscícolas en aguas continentales y los recursos cinegéticos como con la gestión de los espacios naturales.</p>
-<p class="cuerpo_tabla_izq">– Policía y custodia de la riqueza ictícola y cinegética así como de los espacios naturales, formulando las denuncias que procedan en su ámbito de actuación.</p>
-<p class="cuerpo_tabla_izq">– Vigilancia, custodia y mantenimiento de las infraestructuras de la consejería con competencias en materia de conservación de la naturaleza, ejecutadas en beneficio de la riqueza piscícola y cinegética y/o las ejecutadas en los espacios naturales, incluida la reposición del patrimonio inmobiliario y elementos de señalización de los espacios naturales y/o los relacionados con el aprovechamiento de los recursos cinegéticos y/o piscícolas.</p>
-<p class="cuerpo_tabla_izq">–Vigilancia y control de los ecosistemas, velando por la lucha y/o erradicación de las posibles amenazas a la biodiversidad.</p>
-<p class="cuerpo_tabla_izq">– Seguimiento, localización, muestreos y controles sobre los valores de los espacios naturales, especialmente de aquellos que motivaron su declaración como espacios protegidos, en su caso, así como la colaboración en la realización de labores de control, seguimiento y muestreo de la fauna y flora silvestres.</p>
-<p class="cuerpo_tabla_izq">– Ejecución de las directrices de gestión y vigilancia para el cumplimiento de las normas aplicables en materia de conservación y preservación de los valores de los espacios naturales, especialmente en lo relativo al control del uso público de estos espacios.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra función que se les encomiende, entre las que se encuentran las de apoyo a otras escalas, en relación con la gestión y tutela de los recursos naturales y con la conservación del medio ambiente.</p>
-<p class="cuerpo_tabla_izq">– Recogida y traslado de la fauna silvestre.</p>
-<p class="cuerpo_tabla_izq">– Manejo de aplicaciones informáticas básicas y equipos de comunicación.</p>
-<p class="cuerpo_tabla_izq">– Manejo de vehículos.</p>
-<p class="cuerpo_tabla_izq">– Conducción de vehículos cuando así lo demanden las necesidades del servicio.</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulación de graduado en Educación Secundaria Obligatoria o equivalente.</p>
+<p>Personal que, teniendo los conocimientos que correspondan de mecanización, se ocupa de las reparaciones y mantenimiento de los vehículos y maquinaria que se puedan realizar y de los medios de los parques de maquinaria de los servicios de prevención y defensa contra incendios forestales. Asimismo, deberá conducir vehículos, trasladar vehículos averiados y efectuar otros cometidos de similares características, por lo que debe estar en posesión del carné de conducir B.XXXX</p>
+</td>
+<td>
+<p>Titulación que habilite para la realización de las funciones inherentes a esta escala.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de cuidadores.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Prestación de servicios complementarios para la asistencia de las personas con necesidades especiales: transporte, limpieza y aseo, comedor, vigilancia y análogos.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en la inserción en la actividad social y laboral de las personas con necesidades especiales.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en la realización de tareas elementales que completen los servicios especializados, en orden a propiciar la autonomía personal y la formación de las personas con necesidades especiales.</p>
-<p class="cuerpo_tabla_izq">– Colaboración con el personal sanitario.</p>
-<p class="cuerpo_tabla_izq">– Realización de cambios posturales, entrega, recogida de análisis clínicos y limpieza y preparación de aparatos y ayudas técnicas.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>
+<p>Escala de guardas de recursos naturales</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.»</td>
+<td> </td>
+<td>
+<p>C2</p>
+</td>
+<td>
+<p>Con carácter general, realizarán las siguientes funciones:</p>
+<p>– Informar y asesorar a la Administración y a la ciudadanía en asuntos relacionados tanto con los aprovechamientos piscícolas en aguas continentales y los recursos cinegéticos como con la gestión de los espacios naturales.</p>
+<p>– Policía y custodia de la riqueza ictícola y cinegética así como de los espacios naturales, formulando las denuncias que procedan en su ámbito de actuación.</p>
+<p>– Vigilancia, custodia y mantenimiento de las infraestructuras de la consejería con competencias en materia de conservación de la naturaleza, ejecutadas en beneficio de la riqueza piscícola y cinegética y/o las ejecutadas en los espacios naturales, incluida la reposición del patrimonio inmobiliario y elementos de señalización de los espacios naturales y/o los relacionados con el aprovechamiento de los recursos cinegéticos y/o piscícolas.</p>
+<p>–Vigilancia y control de los ecosistemas, velando por la lucha y/o erradicación de las posibles amenazas a la biodiversidad.</p>
+<p>– Seguimiento, localización, muestreos y controles sobre los valores de los espacios naturales, especialmente de aquellos que motivaron su declaración como espacios protegidos, en su caso, así como la colaboración en la realización de labores de control, seguimiento y muestreo de la fauna y flora silvestres.</p>
+<p>– Ejecución de las directrices de gestión y vigilancia para el cumplimiento de las normas aplicables en materia de conservación y preservación de los valores de los espacios naturales, especialmente en lo relativo al control del uso público de estos espacios.</p>
+<p>– Cualquier otra función que se les encomiende, entre las que se encuentran las de apoyo a otras escalas, en relación con la gestión y tutela de los recursos naturales y con la conservación del medio ambiente.</p>
+<p>– Recogida y traslado de la fauna silvestre.</p>
+<p>– Manejo de aplicaciones informáticas básicas y equipos de comunicación.</p>
+<p>– Manejo de vehículos.</p>
+<p>– Conducción de vehículos cuando así lo demanden las necesidades del servicio.</p>
+</td>
+<td>
+<p>Titulación de graduado en Educación Secundaria Obligatoria o equivalente.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de cocina.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Elaboración y condimentación de los menús diarios. Aplicación de los protocolos relacionados con su unidad.</p>
-<p class="cuerpo_tabla_izq">– Elaboración de pedidos. Recepción de alimentos, comprobación del estado y trazabilidad.</p>
-<p class="cuerpo_tabla_izq">– Anotación de los registros de temperaturas y cumplimentación de la documentación necesaria.</p>
-<p class="cuerpo_tabla_izq">– Envasado, etiquetado y almacenamiento de muestras.</p>
-<p class="cuerpo_tabla_izq">– Comunicación de incidencias.</p>
-<p class="cuerpo_tabla_izq">– Colaboración en las tareas de limpieza de la maquinaria, utensilios y accesorios de cocina.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala auxiliar de cuidadores.</td>
+<td> </td>
+<td>C2</td>
+<td>
+<p>– Prestación de servicios complementarios para la asistencia de las personas con necesidades especiales: transporte, limpieza y aseo, comedor, vigilancia y análogos.</p>
+<p>– Colaboración en la inserción en la actividad social y laboral de las personas con necesidades especiales.</p>
+<p>– Colaboración en la realización de tareas elementales que completen los servicios especializados, en orden a propiciar la autonomía personal y la formación de las personas con necesidades especiales.</p>
+<p>– Colaboración con el personal sanitario.</p>
+<p>– Realización de cambios posturales, entrega, recogida de análisis clínicos y limpieza y preparación de aparatos y ayudas técnicas.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala.»</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de mantenimiento.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Realización directa de las operaciones más elementales de mantenimiento.</p>
-<p class="cuerpo_tabla_izq">– Auxilio a la escala técnica de mantenimiento en los trabajos y operaciones que realicen.</p>
-<p class="cuerpo_tabla_izq">– Realización de los trabajos de demolición, picado, apertura, acarreos, retirada de escombro, útiles, maquinaria y muebles.</p>
-<p class="cuerpo_tabla_izq">– Limpieza de la sala de máquinas, instalaciones, cuadros eléctricos, transformadores, taller y similares.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala auxiliar de cocina.</td>
+<td> </td>
+<td>C2</td>
+<td>
+<p>– Elaboración y condimentación de los menús diarios. Aplicación de los protocolos relacionados con su unidad.</p>
+<p>– Elaboración de pedidos. Recepción de alimentos, comprobación del estado y trazabilidad.</p>
+<p>– Anotación de los registros de temperaturas y cumplimentación de la documentación necesaria.</p>
+<p>– Envasado, etiquetado y almacenamiento de muestras.</p>
+<p>– Comunicación de incidencias.</p>
+<p>– Colaboración en las tareas de limpieza de la maquinaria, utensilios y accesorios de cocina.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de laboratorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Manejo elemental de datos y resultados, análisis y control de parámetros.</p>
-<p class="cuerpo_tabla_izq">– Almacenamiento, identificación y ordenación del instrumental, así como su mantenimiento y conservación.</p>
-<p class="cuerpo_tabla_izq">– Recepción y preparación de muestras y formalización de registros.</p>
-<p class="cuerpo_tabla_izq">– Mantenimiento y limpieza de las instalaciones y recintos.</p>
-<p class="cuerpo_tabla_izq">– Control e inventariado del material a su cargo.</p>
-<p class="cuerpo_tabla_izq">– Realización de procedimientos básicos en su ámbito.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala auxiliar de mantenimiento.</td>
+<td> </td>
+<td>C2</td>
+<td>
+<p>– Realización directa de las operaciones más elementales de mantenimiento.</p>
+<p>– Auxilio a la escala técnica de mantenimiento en los trabajos y operaciones que realicen.</p>
+<p>– Realización de los trabajos de demolición, picado, apertura, acarreos, retirada de escombro, útiles, maquinaria y muebles.</p>
+<p>– Limpieza de la sala de máquinas, instalaciones, cuadros eléctricos, transformadores, taller y similares.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de conducción.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Realizar el transporte de personas, de la correspondencia oficial o de equipos o de materiales, así como cualquier otro servicio que le sea asignado por el parque móvil en atención a su escala.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala auxiliar de laboratorio.</td>
+<td> </td>
+<td>C2</td>
+<td>
+<p>– Manejo elemental de datos y resultados, análisis y control de parámetros.</p>
+<p>– Almacenamiento, identificación y ordenación del instrumental, así como su mantenimiento y conservación.</p>
+<p>– Recepción y preparación de muestras y formalización de registros.</p>
+<p>– Mantenimiento y limpieza de las instalaciones y recintos.</p>
+<p>– Control e inventariado del material a su cargo.</p>
+<p>– Realización de procedimientos básicos en su ámbito.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de recursos naturales y forestales.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Manejo de las aplicaciones informáticas, equipos informáticos y de telecomunicaciones necesarios para el desarrollo, registro y control de las funciones que le son propias.</p>
-<p class="cuerpo_tabla_izq">– Desarrollo de las operaciones propias del cuidado de establecimientos, de las instalaciones y de los espacios naturales, con maquinaria o no.</p>
-<p class="cuerpo_tabla_izq">– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores) con todos sus aperos, el empleo de desbrozadoras o cualquier otro tipo de maquinaria mecanizada que precisen las tareas a realizar, así como el mantenimiento de estas.</p>
-<p class="cuerpo_tabla_izq">– Manejo de fertilizantes y productos fitosanitarios, así como de combustible, aceites y lubricantes para maquinaria y aperos.</p>
-<p class="cuerpo_tabla_izq">– Preparación, manejo, conservación y suministro de alimentos, en el caso de personal que desarrolle sus funciones en los centros de recuperación de fauna silvestre, centros ictiogénicos y otros que tengan a su cargo animales.</p>
-<p class="cuerpo_tabla_izq">– Manejo de animales, toma de muestras para controles en laboratorio de las posibles enfermedades o infecciones que se pudieran producir, colaboración en la aplicación de los tratamientos veterinarios y similares.</p>
-<p class="cuerpo_tabla_izq">– Ejecución y mantenimiento de cierres, pasarelas o elementos similares.</p>
-<p class="cuerpo_tabla_izq">– Labores de conservación y mantenimiento de pistas, desbroces de lindes o trabajos similares.</p>
-<p class="cuerpo_tabla_izq">– Realización de infraestructuras para la protección de las especies y espacios.</p>
-<p class="cuerpo_tabla_izq">– Limpieza, desinfección y conservación de las instalaciones, establecimientos y demás infraestructuras.</p>
-<p class="cuerpo_tabla_izq">– Manejo de embarcaciones.</p>
-<p class="cuerpo_tabla_izq">– Recogida de fauna.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala auxiliar de conducción.</td>
+<td> </td>
+<td>C2</td>
+<td>
+<p>– Realizar el transporte de personas, de la correspondencia oficial o de equipos o de materiales, así como cualquier otro servicio que le sea asignado por el parque móvil en atención a su escala.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala y carné, autorización o licencia que sean necesarios para el manejo de los vehículos, embarcaciones y maquinaria.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala y carné, autorización o licencia que sean necesarios para el manejo de los vehículos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Escala auxiliar de archivos, bibliotecas y museos.</td>
-<td class="cuerpo_tabla_izq">Archivos y bibliotecas.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Tareas de apoyo para el funcionamiento de los distintos servicios y procesos de los archivos y bibliotecas.</p>
-<p class="cuerpo_tabla_izq">– Apoyo en el acceso al documento.</p>
-<p class="cuerpo_tabla_izq">– Atención a las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>Escala auxiliar de recursos naturales y forestales.</td>
+<td> </td>
+<td>C2</td>
+<td>
+<p>– Manejo de las aplicaciones informáticas, equipos informáticos y de telecomunicaciones necesarios para el desarrollo, registro y control de las funciones que le son propias.</p>
+<p>– Desarrollo de las operaciones propias del cuidado de establecimientos, de las instalaciones y de los espacios naturales, con maquinaria o no.</p>
+<p>– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores) con todos sus aperos, el empleo de desbrozadoras o cualquier otro tipo de maquinaria mecanizada que precisen las tareas a realizar, así como el mantenimiento de estas.</p>
+<p>– Manejo de fertilizantes y productos fitosanitarios, así como de combustible, aceites y lubricantes para maquinaria y aperos.</p>
+<p>– Preparación, manejo, conservación y suministro de alimentos, en el caso de personal que desarrolle sus funciones en los centros de recuperación de fauna silvestre, centros ictiogénicos y otros que tengan a su cargo animales.</p>
+<p>– Manejo de animales, toma de muestras para controles en laboratorio de las posibles enfermedades o infecciones que se pudieran producir, colaboración en la aplicación de los tratamientos veterinarios y similares.</p>
+<p>– Ejecución y mantenimiento de cierres, pasarelas o elementos similares.</p>
+<p>– Labores de conservación y mantenimiento de pistas, desbroces de lindes o trabajos similares.</p>
+<p>– Realización de infraestructuras para la protección de las especies y espacios.</p>
+<p>– Limpieza, desinfección y conservación de las instalaciones, establecimientos y demás infraestructuras.</p>
+<p>– Manejo de embarcaciones.</p>
+<p>– Recogida de fauna.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Título de graduado en educación secundaria obligatoria o equivalente.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala y carné, autorización o licencia que sean necesarios para el manejo de los vehículos, embarcaciones y maquinaria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Museos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Tareas de apoyo para el funcionamiento de los distintos servicios y procesos de los museos.</p>
-<p class="cuerpo_tabla_izq">– Apoyo en el acceso a las colecciones.</p>
-<p class="cuerpo_tabla_izq">– Atención a las personas usuarias.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td rowspan="2">Escala auxiliar de archivos, bibliotecas y museos.</td>
+<td>Archivos y bibliotecas.</td>
+<td rowspan="2">C2</td>
+<td>
+<p>– Tareas de apoyo para el funcionamiento de los distintos servicios y procesos de los archivos y bibliotecas.</p>
+<p>– Apoyo en el acceso al documento.</p>
+<p>– Atención a las personas usuarias.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Título de graduado en educación secundaria obligatoria o equivalente.</td>
+<td>Título de graduado en educación secundaria obligatoria o equivalente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de recursos naturales y forestales.</td>
+<td>Museos.</td>
+<td>
+<p>– Tareas de apoyo para el funcionamiento de los distintos servicios y procesos de los museos.</p>
+<p>– Apoyo en el acceso a las colecciones.</p>
+<p>– Atención a las personas usuarias.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+</td>
+<td>Título de graduado en educación secundaria obligatoria o equivalente.</td>
+</tr>
+<tr>
+<td>Escala auxiliar de recursos naturales y forestales.</td>
 <td>Oficial.</td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Manejo de las aplicaciones informáticas, equipos informáticos y de telecomunicaciones necesarios para el desarrollo, registro y control de las funciones que le son propias.</p>
-<p class="cuerpo_tabla_izq">– Desarrollo de las operaciones propias del cuidado de establecimientos, de las instalaciones y de los espacios naturales, con maquinaria o no.</p>
-<p class="cuerpo_tabla_izq">– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores) con todos sus aperos, el empleo de desbrozadoras o cualquier otro tipo de maquinaria mecanizada que precisen las tareas a realizar, así como el mantenimiento de estas.</p>
-<p class="cuerpo_tabla_izq">– Manejo de fertilizantes y productos fitosanitarios, así como de combustible, aceites y lubricantes para maquinaria y aperos.</p>
-<p class="cuerpo_tabla_izq">– Preparación, manejo, conservación y suministro de alimentos, en el caso de personal que desarrolle sus funciones en los centros de recuperación de fauna silvestre, centros ictiogénicos y otros que tengan a su cargo animales.</p>
-<p class="cuerpo_tabla_izq">– Manejo de animales, toma de muestras para controles en laboratorio de las posibles enfermedades o infecciones que se pudieran producir, colaboración en la aplicación de los tratamientos veterinarios y similares.</p>
-<p class="cuerpo_tabla_izq">– Ejecución y mantenimiento de cierres, pasarelas o elementos similares.</p>
-<p class="cuerpo_tabla_izq">– Labores de conservación y mantenimiento de pistas, desbroces de lindes o trabajos similares.</p>
-<p class="cuerpo_tabla_izq">– Realización de infraestructuras para la protección de las especies y espacios.</p>
-<p class="cuerpo_tabla_izq">– Limpieza, desinfección y conservación de las instalaciones, establecimientos y demás infraestructuras.</p>
-<p class="cuerpo_tabla_izq">– Manejo de embarcaciones.</p>
-<p class="cuerpo_tabla_izq">– Recogida de fauna.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>C2</td>
+<td>
+<p>– Manejo de las aplicaciones informáticas, equipos informáticos y de telecomunicaciones necesarios para el desarrollo, registro y control de las funciones que le son propias.</p>
+<p>– Desarrollo de las operaciones propias del cuidado de establecimientos, de las instalaciones y de los espacios naturales, con maquinaria o no.</p>
+<p>– Manejo de vehículos y maquinaria autopropulsada agrícola o forestal (tractores) con todos sus aperos, el empleo de desbrozadoras o cualquier otro tipo de maquinaria mecanizada que precisen las tareas a realizar, así como el mantenimiento de estas.</p>
+<p>– Manejo de fertilizantes y productos fitosanitarios, así como de combustible, aceites y lubricantes para maquinaria y aperos.</p>
+<p>– Preparación, manejo, conservación y suministro de alimentos, en el caso de personal que desarrolle sus funciones en los centros de recuperación de fauna silvestre, centros ictiogénicos y otros que tengan a su cargo animales.</p>
+<p>– Manejo de animales, toma de muestras para controles en laboratorio de las posibles enfermedades o infecciones que se pudieran producir, colaboración en la aplicación de los tratamientos veterinarios y similares.</p>
+<p>– Ejecución y mantenimiento de cierres, pasarelas o elementos similares.</p>
+<p>– Labores de conservación y mantenimiento de pistas, desbroces de lindes o trabajos similares.</p>
+<p>– Realización de infraestructuras para la protección de las especies y espacios.</p>
+<p>– Limpieza, desinfección y conservación de las instalaciones, establecimientos y demás infraestructuras.</p>
+<p>– Manejo de embarcaciones.</p>
+<p>– Recogida de fauna.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">Titulación que habilite para la realización de las funciones inherentes a esta escala y carné, autorización o licencia que sean necesarios para el manejo de los vehículos y maquinaria.</td>
+<td>Titulación que habilite para la realización de las funciones inherentes a esta escala y carné, autorización o licencia que sean necesarios para el manejo de los vehículos y maquinaria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Escala auxiliar de recursos naturales y forestales.</td>
+<td>Escala auxiliar de recursos naturales y forestales.</td>
 <td>Marinero-vigilante.</td>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Quedar junto al timón cuando la embarcación esté con el piloto automático, y verificar la precisión del rumbo, utilizando un compás magnético.</p>
-<p class="cuerpo_tabla_izq">– Cargar o descargar el cargamento de la embarcación y asegurar dicho cargamento.</p>
-<p class="cuerpo_tabla_izq">– Manejar los cabos y las conexiones de amarre, las pasarelas para desembarcar y las escaleras cuando el barco atraque y desatraque.</p>
-<p class="cuerpo_tabla_izq">– Hacer guardias en la pasarela para impedir que personas no autorizadas embarquen cuando estén en el puerto.</p>
-<p class="cuerpo_tabla_izq">– Gobernar el barco bajo la dirección del comandante u oficial de navegación, siguiendo los rumbos establecidos o dirigir al timonel para que gobierne.</p>
-<p class="cuerpo_tabla_izq">– Manejar, mantener y reparar equipo y aparatos del barco y de cubierta (p. ej., cabrestantes, grúas, mecanismo de carga, aparatos, y aparatos de extinción de fuegos y salvavidas).</p>
-<p class="cuerpo_tabla_izq">– Eliminar el óxido, tratar y pintar los laterales del barco y las estructuras y ayudar en el mantenimiento y reparación de los motores del barco y el equipo mecánico.</p>
-<p class="cuerpo_tabla_izq">– Hacer una revisión general de los botes salvavidas y sus equipos, echar al agua o izar los botes salvavidas con grúas o bajándolos, y tripular los botes en emergencias.</p>
-<p class="cuerpo_tabla_izq">– Mantener la limpieza de las cubiertas y estructuras, y limpiar el agua dulce del barco, el lastre y los tanques de aceite y el compartimento de la carga.</p>
-<p class="cuerpo_tabla_izq">– Colocar y arriar la bandera del barco.</p>
-<p class="cuerpo_tabla_izq">– Control de fondeos y navegación.</p>
-<p class="cuerpo_tabla_izq">– Control de actividad pesquera y marisquera siguiendo instrucciones y las líneas señaladas en el PRUX.</p>
-<p class="cuerpo_tabla_izq">– Servicios de cubierta, manipulación de instrumentos y guardias de timón, retén de puente.</p>
-<p class="cuerpo_tabla_izq">– Manejo, carga y descarga de materiales para las islas.</p>
-<p class="cuerpo_tabla_izq">– Ayuda en el embarque y desembarque de los pasajeros.</p>
-<p class="cuerpo_tabla_izq">– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
+<td>C2</td>
+<td>
+<p>– Quedar junto al timón cuando la embarcación esté con el piloto automático, y verificar la precisión del rumbo, utilizando un compás magnético.</p>
+<p>– Cargar o descargar el cargamento de la embarcación y asegurar dicho cargamento.</p>
+<p>– Manejar los cabos y las conexiones de amarre, las pasarelas para desembarcar y las escaleras cuando el barco atraque y desatraque.</p>
+<p>– Hacer guardias en la pasarela para impedir que personas no autorizadas embarquen cuando estén en el puerto.</p>
+<p>– Gobernar el barco bajo la dirección del comandante u oficial de navegación, siguiendo los rumbos establecidos o dirigir al timonel para que gobierne.</p>
+<p>– Manejar, mantener y reparar equipo y aparatos del barco y de cubierta (p. ej., cabrestantes, grúas, mecanismo de carga, aparatos, y aparatos de extinción de fuegos y salvavidas).</p>
+<p>– Eliminar el óxido, tratar y pintar los laterales del barco y las estructuras y ayudar en el mantenimiento y reparación de los motores del barco y el equipo mecánico.</p>
+<p>– Hacer una revisión general de los botes salvavidas y sus equipos, echar al agua o izar los botes salvavidas con grúas o bajándolos, y tripular los botes en emergencias.</p>
+<p>– Mantener la limpieza de las cubiertas y estructuras, y limpiar el agua dulce del barco, el lastre y los tanques de aceite y el compartimento de la carga.</p>
+<p>– Colocar y arriar la bandera del barco.</p>
+<p>– Control de fondeos y navegación.</p>
+<p>– Control de actividad pesquera y marisquera siguiendo instrucciones y las líneas señaladas en el PRUX.</p>
+<p>– Servicios de cubierta, manipulación de instrumentos y guardias de timón, retén de puente.</p>
+<p>– Manejo, carga y descarga de materiales para las islas.</p>
+<p>– Ayuda en el embarque y desembarque de los pasajeros.</p>
+<p>– Cualquier otra de análogo contenido o que tenga relación con las funciones anteriores.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Titulación de graduado en Educación Secundaria Obligatoria o equivalente.</p>
-<p class="cuerpo_tabla_izq">Certificado de competencia marinera.</p>
-<p class="cuerpo_tabla_izq">Formación básica en seguridad marítima.</p>
+<td>
+<p>Titulación de graduado en Educación Secundaria Obligatoria o equivalente.</p>
+<p>Certificado de competencia marinera.</p>
+<p>Formación básica en seguridad marítima.</p>
 </td>
 </tr>
 </tbody>

@@ -219,52 +219,39 @@ Uno. En la tabla del apartado 1 del anexo IV se introduce una tercera línea que
 
 Dos. Al final del apartado 2 del anexo IV se introducen las siguientes tablas:
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_14">
-<col class="row_column_15">
-<col class="row_column_16">
-<col class="row_column_16">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cabeza_tabla">Código de identificación</p>
+<p>Código de identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Coeficiente de ajuste C<sub>1,a</sub></p>
+<p>Coeficiente de ajuste C<sub>1,a</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la inversión Rinv 2014-2016 (€/MW)</p>
+<p>Retribución a la inversión Rinv 2014-2016 (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la operación Ro (€/MWh) 2014 y primer semestre 2015</p>
+<p>Retribución a la operación Ro (€/MWh) 2014 y primer semestre 2015</p>
 </td>
 <td>
-<p class="cabeza_tabla">Horas de funcionamiento máximo para la percepción de Ro (h)</p>
+<p>Horas de funcionamiento máximo para la percepción de Ro (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º horas equivalentes de funcionamiento mínimo Nh anual</p>
-<p class="cabeza_tabla">2014-2016 (h)</p>
+<p>N.º horas equivalentes de funcionamiento mínimo Nh anual</p>
+<p>2014-2016 (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
+<p>Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -274,50 +261,50 @@ Dos. Al final del apartado 2 del anexo IV se introducen las siguientes tablas:
 <td> </td>
 <td> </td>
 <td>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02077</p>
+<p>IT-02077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.760</p>
+<p>2.760</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">840</p>
+<p>840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15%</p>
+<p>15%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30%</p>
+<p>30%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45%</p>
+<p>45%</p>
 </td>
 </tr>
 </tbody>
@@ -892,106 +879,92 @@ Valores de retribución a la operación para el segundo semestre de 2016 de las 
 
 ## ANEXO III — Equivalencia entre categoría, grupo y subgrupo del Real Decreto 661/2007, de 25 de mayo, con la categoría, grupo y subgrupo del Real Decreto 413/2014, de 6 de junio, para una instalación tipo y su código correspondiente
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_23">
-<col class="row_column_13">
-<col class="row_column_12">
-<col class="row_column_14">
-<col class="row_column_23">
-<col class="row_column_13">
-<col class="row_column_10">
-<col class="row_column_14">
-<col class="row_column_16">
-<col class="row_column_24">
-<col class="row_column_25">
-<col class="row_column_24">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_26">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Clasificación de las tarifas según el Real Decreto 661/2007</p>
+<p>Clasificación de las tarifas según el Real Decreto 661/2007</p>
 </td>
 <td colspan="8">
-<p class="cabeza_tabla">Clasificación de la instalación tipo según el Real Decreto 413/2014</p>
+<p>Clasificación de la instalación tipo según el Real Decreto 413/2014</p>
 </td>
 </tr>
-<tr class="row_column_27">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Modificación sustancial</p>
+<p>Modificación sustancial</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código instalación tipo</p>
+<p>Código instalación tipo</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">DT 2.ª</p>
+<p>DT 2.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lodos de aceite de oliva.</p>
+<p>Lodos de aceite de oliva.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural.</p>
+<p>Gas natural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">DT 1.ª</p>
+<p>DT 1.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lodos de aceite de oliva.</p>
+<p>Lodos de aceite de oliva.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural.</p>
+<p>Gas natural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Motor.</p>
+<p>Motor.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2004</p>
+<p>2004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01527</p>
+<p>IT-01527</p>
 </td>
 </tr>
 </tbody>
@@ -1009,52 +982,39 @@ Los valores de la retribución a la inversión, de las horas de funcionamiento m
 
 2\. Parámetros retributivos de la instalación tipo aplicables en 2014, 2015 y 2016.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_14">
-<col class="row_column_14">
-<col class="row_column_15">
-<col class="row_column_16">
-<col class="row_column_16">
-<col class="row_column_16">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_17">
+<tr>
 <td>
-<p class="cabeza_tabla">Código de identificación</p>
+<p>Código de identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Coeficiente de ajuste C<sub>1,a</sub></p>
+<p>Coeficiente de ajuste C<sub>1,a</sub></p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la inversión Rinv 2014-2016</p>
-<p class="cabeza_tabla">(€/MW)</p>
+<p>Retribución a la inversión Rinv 2014-2016</p>
+<p>(€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Operación Ro (€/MWh) 2014 y primer semestre 2015</p>
+<p>Retribución a la Operación Ro (€/MWh) 2014 y primer semestre 2015</p>
 </td>
 <td>
-<p class="cabeza_tabla">Horas de funcionamiento máximo para la percepción de Ro (h)</p>
+<p>Horas de funcionamiento máximo para la percepción de Ro (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º horas equivalentes de funcionamiento mínimo Nh anual 2014-2016 (h)</p>
+<p>N.º horas equivalentes de funcionamiento mínimo Nh anual 2014-2016 (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
+<p>Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1064,50 +1024,50 @@ Los valores de la retribución a la inversión, de las horas de funcionamiento m
 <td> </td>
 <td> </td>
 <td>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01527</p>
+<p>IT-01527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78,239</p>
+<p>78,239</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.800</p>
+<p>3.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.140</p>
+<p>1.140</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15%</p>
+<p>15%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30%</p>
+<p>30%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45%</p>
+<p>45%</p>
 </td>
 </tr>
 </tbody>
@@ -1127,933 +1087,921 @@ Valor estándar de la inversión inicial (€/MW): 640.227.
 
 Vida útil regulatoria (años): 25.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_38">
-<col class="row_column_12">
-<col class="row_column_12">
-<col class="row_column_12">
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_1">
-<col class="row_column_39">
-<col class="row_column_39">
-<col class="row_column_12">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_40">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Año</p>
+<p>Año</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Coste de combustible</p>
+<p>Coste de combustible</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Costes de explotación</p>
+<p>Costes de explotación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ingresos venta electricidad al sistema</p>
+<p>Ingresos venta electricidad al sistema</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ingresos venta electricidad al sistema por precio de mercado</p>
+<p>Ingresos venta electricidad al sistema por precio de mercado</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Otros ingresos de explotación canon/coste evitado tratamiento</p>
+<p>Otros ingresos de explotación canon/coste evitado tratamiento</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Horas equivalentes de funcionamiento</p>
+<p>Horas equivalentes de funcionamiento</p>
 </td>
 <td>
-<p class="cabeza_tabla">Relación electricidad exportada / electricidad bruta (Cogen.)</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cabeza_tabla">Histórico</p>
-</td>
-<td>
-<p class="cabeza_tabla">Futuro</p>
-</td>
-<td>
-<p class="cabeza_tabla">Histórico</p>
-</td>
-<td>
-<p class="cabeza_tabla">Futuro</p>
-</td>
-<td>
-<p class="cabeza_tabla">Histórico</p>
-</td>
-<td>
-<p class="cabeza_tabla">Futuro</p>
-</td>
-<td>
-<p class="cabeza_tabla">Futuro</p>
+<p>Relación electricidad exportada / electricidad bruta (Cogen.)</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cabeza_tabla">–</p>
+<p>Histórico</p>
 </td>
 <td>
-<p class="cabeza_tabla">€/MWhE brutos</p>
+<p>Futuro</p>
 </td>
 <td>
-<p class="cabeza_tabla">€/MWhE brutos</p>
+<p>Histórico</p>
 </td>
 <td>
-<p class="cabeza_tabla">€/MWhE brutos</p>
+<p>Futuro</p>
 </td>
 <td>
-<p class="cabeza_tabla">€/MWhE brutos</p>
+<p>Histórico</p>
 </td>
 <td>
-<p class="cabeza_tabla">€/MWhE brutos</p>
+<p>Futuro</p>
 </td>
 <td>
-<p class="cabeza_tabla">€/MWhE brutos</p>
+<p>Futuro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>–</p>
 </td>
 <td>
-<p class="cabeza_tabla">h brutas</p>
+<p>€/MWhE brutos</p>
 </td>
 <td>
-<p class="cabeza_tabla">h brutas</p>
+<p>€/MWhE brutos</p>
 </td>
 <td>
-<p class="cabeza_tabla">p.u.</p>
+<p>€/MWhE brutos</p>
+</td>
+<td>
+<p>€/MWhE brutos</p>
+</td>
+<td>
+<p>€/MWhE brutos</p>
+</td>
+<td>
+<p>€/MWhE brutos</p>
+</td>
+<td>
+<p>h brutas</p>
+</td>
+<td>
+<p>h brutas</p>
+</td>
+<td>
+<p>p.u.</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2004</p>
+<p>2004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40,03</p>
+<p>40,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,84</p>
+<p>10,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">54,99</p>
+<p>54,99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12,93</p>
+<p>12,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2005</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45,26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12,56</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">77,06</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13,16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.514</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2006</p>
+<p>2005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">66,00</p>
+<p>45,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,30</p>
+<p>12,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78,15</p>
+<p>77,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,30</p>
+<p>13,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.495</p>
+<p>7.514</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2007</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">69,04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14,04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13,43</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.476</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2008</p>
+<p>2006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80,41</p>
+<p>66,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,78</p>
+<p>13,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">98,70</p>
+<p>78,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,56</p>
+<p>13,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.472</p>
+<p>7.495</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2009</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">62,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">106,18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13,67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.468</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2010</p>
+<p>2007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68,85</p>
+<p>69,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17,07</p>
+<p>14,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">105,87</p>
+<p>93,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,77</p>
+<p>13,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.467</p>
+<p>7.476</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2011</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">117,52</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14,16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.466</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2012</p>
+<p>2008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">93,70</p>
+<p>80,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,05</p>
+<p>14,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">134,81</p>
+<p>98,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,50</p>
+<p>13,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>7.472</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2013</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">95,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">32,24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">137,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.968</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.497</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">102,59</p>
+<p>62,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>16,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33,14</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>106,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46,02</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,03</p>
+<p>13,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>7.468</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100,59</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33,40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">47,27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>68,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>17,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33,86</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>105,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">47,49</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>13,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>7.467</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">34,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2018</p>
+<p>2011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>78,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>18,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">34,76</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>117,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>14,16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>7.466</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2019</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35,19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2020</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>93,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>19,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35,68</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>134,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>14,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>7.465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2021</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2022</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>95,84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>33,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36,49</p>
+<p>32,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>137,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>48,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>14,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>3.968</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>3.497</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2023</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>0,954</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2024</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>102,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37,20</p>
+<p>33,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>46,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>15,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>7.465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2025</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>0,954</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2026</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>100,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37,81</p>
+<p>33,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>47,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>15,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>7.465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
-</td>
-</tr>
-<tr class="row_column_20">
-<td>
-<p class="cuerpo_tabla_centro">2027</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">38,11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.465</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>0,954</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2028</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>101,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38,43</p>
+<p>33,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>47,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>15,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>7.465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>0,954</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2029</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,25</p>
+<p>101,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38,74</p>
+<p>34,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49,64</p>
+<p>49,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15,02</p>
+<p>15,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.465</p>
+<p>7.465</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,954</p>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2018</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>34,76</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35,19</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35,68</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2021</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>36,08</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2022</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>36,49</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2023</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>36,90</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2024</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>37,20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2025</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>37,50</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2026</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>37,81</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2027</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>38,11</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2028</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>38,43</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2029</p>
+</td>
+<td>
+<p>101,25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>38,74</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>49,64</p>
+</td>
+<td>
+<p>15,02</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>7.465</p>
+</td>
+<td>
+<p>0,954</p>
 </td>
 </tr>
 </tbody>

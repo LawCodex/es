@@ -290,22 +290,6 @@ b) Cuando los sujetos responsables del pago no hubieran cumplido dentro de plazo
 
 2\. Las deudas con la Seguridad Social que tengan carácter de ingresos de derecho público y cuyo objeto esté constituido por recursos distintos a cuotas, cuando no se abonen dentro del plazo reglamentario que tengan establecido, se incrementarán con el recargo del 20 por ciento.
 
-> Téngase en cuenta que esta última actualización de los apartados y 1 2, establecida por la disposición final 3.1 de la Ley 6/2017, de 24 de octubre. [Ref. BOE-A-2017-12207](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207), entra en vigor el 1 de enero de 2018, según determina la disposición final 13.a) de la citada ley.
-
-> Redacción anterior:
-
-> "1. Las deudas con la Seguridad Social cuyo objeto esté constituido por cuotas, cuando no se abonen en el plazo reglamentario de ingreso, devengarán los siguientes recargos:
-
-> a) Cuando los sujetos responsables del pago hubieran cumplido dentro de plazo las obligaciones en materia de liquidación establecidas en los apartados 1 y 2 del artículo 26 del texto refundido de la Ley General de la Seguridad Social, un recargo del 20 por ciento de la deuda, si se abonasen las cuotas debidas tras el vencimiento del plazo para su ingreso.
-
-> b) Cuando los sujetos responsables del pago no hubieran cumplido dentro de plazo las obligaciones en materia de liquidación establecidas en los apartados 1 y 2 del citado artículo 26:
-
-> 1.º Recargo del 20 por ciento de la deuda, si se abonasen las cuotas debidas antes de la terminación del plazo de ingreso establecido en la reclamación de deuda o acta de liquidación.
-
-> 2.º Recargo del 35 por ciento de la deuda, si se abonasen las cuotas debidas a partir de la terminación de dicho plazo de ingreso.
-
-> 2\. Las deudas con la Seguridad Social que tengan carácter de ingresos de derecho público y cuyo objeto esté constituido por recursos distintos a cuotas, cuando no se abonen dentro del plazo reglamentario que tengan establecido se incrementarán con el recargo previsto en el apartado 1.a).
-
 3\. En ningún caso podrá aplicarse recargo sobre la deuda constituida a su vez por recargos o intereses.
 
 4\. Cuando el ingreso fuera del plazo reglamentario sea imputable a error de la Administración, sin que ésta actúe en calidad de empresario, no se aplicará recargo.
@@ -1008,12 +992,6 @@ No obstante, si la norma, el acta de conciliación, la sentencia o el título co
 
 5.º Respecto a las solicitudes de exclusión del Sistema Especial para Trabajadores por Cuenta Propia Agrarios, presentadas por los trabajadores por incumplimiento sobrevenido de los requisitos para quedar comprendidos en él, el plazo reglamentario para el ingreso de las cuotas devengadas y no ingresadas en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos finalizará el último día del mes siguiente al de la presentación de la respectiva solicitud, que habrá de formularse en el plazo indicado en el artículo 48.3.4.ª del Reglamento General sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de Trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
 
-> Téngase en cuenta que esta última actualización del punto 5º del apartado 1.c), establecida por la disposición final 1 del Real Decreto 504/2022, de 27 de junio. [Ref. BOE-A-2022-10677](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10677), entra en vigor el 1 de enero de 2023, según determina su disposición final cuarta, en la redacción dada por el art. 6.2 del Real Decreto-ley 13/2022, de 26 de julio. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482)
-
-> Redacción anterior:
-
-> "5.º Respecto a las solicitudes de exclusión del Sistema Especial para Trabajadores por Cuenta Propia Agrarios, presentadas por los trabajadores por incumplimiento sobrevenido de los requisitos para quedar comprendidos en él, el plazo reglamentario para el ingreso de las cuotas devengadas y no ingresadas en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos finalizará el último día del mes siguiente al de la presentación de la respectiva solicitud, que habrá de formularse en los plazos indicados en el apartado 3.6.ª del artículo 47 bis del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social."
-
 2\. El Director General de la Tesorería General de la Seguridad Social podrá autorizar que se efectúe el pago de las cuotas correspondientes en plazos reglamentarios distintos a los establecidos con carácter general en este reglamento cuando concurran circunstancias de índole especial que así lo aconsejen, así como revocar las autorizaciones existentes. Esta excepción en materia de ingreso de cuotas no afectará a la forma y tiempo en que, en su caso, haya de efectuarse el descuento de la aportación correspondiente a los trabajadores.
 
 3\. El pago de las cuotas de la Seguridad Social y por conceptos de recaudación conjunta podrá efectuarse, en los supuestos y condiciones que establezca el Ministerio de Empleo y Seguridad Social, mediante entregas parciales periódicas a cuenta de aquellas con posterior regularización anual o en el momento en que se extinga la obligación de cotizar, de producirse antes del transcurso de ese periodo anual.
@@ -1359,18 +1337,6 @@ Los beneficiarios del fraccionamiento indicado anteriormente deberán ingresar e
 En el supuesto de falta de ingreso del importe correspondiente a tres de los plazos de fraccionamiento concedidos, se iniciará automáticamente la vía ejecutiva, mediante la emisión de la correspondiente providencia de apremio, por la totalidad del importe que quedara por pagar. En este caso, y a efectos de determinar el cálculo de los intereses de demora que correspondan, se entenderá como plazo reglamentario de ingreso, el correspondiente al primer plazo de fraccionamiento dejado de ingresar.
 
 Concluido el período de pago del último de los plazos de fraccionamiento concedidos, si existiera alguna cantidad pendiente de abono, se iniciará igualmente, de manera automática, la vía ejecutiva, mediante la emisión de la correspondiente providencia de apremio. En este caso, y a efectos de determinar el cálculo de los intereses de demora que correspondan, se entenderá como plazo reglamentario de ingreso el correspondiente al último plazo del fraccionamiento.
-
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. 1.1 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086), entra en vigor el 1 de julio de 2024, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "4. Para el reintegro de las citadas prestaciones, la Tesorería General de la Seguridad Social expedirá reclamación de deuda en la que se fijará el plazo reglamentario para el reintegro, que comenzará con la notificación de dicha reclamación y finalizará el último día hábil del mes siguiente al de aquella notificación, pudiendo el sujeto obligado solicitar el establecimiento de diversos plazos reglamentarios para el reintegro.
-
-> Los órganos de la Tesorería General de la Seguridad Social, conforme al reparto de competencias que lleve a cabo su Director General, podrán establecer dichos plazos reglamentarios, hasta un máximo de cinco años, cuando la situación económica y demás circunstancias concurrentes, discrecionalmente apreciadas por el órgano competente para resolver, impidan efectuar el reintegro en el plazo indicado en la reclamación. En caso de denegación de la solicitud, la resolución dará un nuevo plazo de ingreso de 15 días desde la notificación de la resolución, salvo que fuere mayor la parte del plazo que reste para el pago fijado en la reclamación de deuda.
-
-> En el supuesto de falta de ingreso en el plazo indicado en la reclamación de deuda o en la resolución denegatoria de la ampliación del plazo reglamentario de ingreso, se iniciará el procedimiento ejecutivo mediante la emisión de la correspondiente providencia de apremio.
-
-> En el supuesto de falta de ingreso del importe correspondiente a alguno de los plazos reglamentarios concedidos, se entenderá revocada la autorización por la que se concedían dichos plazos, y se iniciará automáticamente la vía ejecutiva, mediante la emisión de la correspondiente providencia de apremio, por la totalidad del importe que quedara por pagar. En este caso, y a efectos de cálculo de los intereses de demora que correspondan, se entenderá como plazo reglamentario de ingreso, el primer plazo dejado de ingresar."
 
 5\. Las sentencias firmes en el orden jurisdiccional social que recaigan sobre las resoluciones o acuerdos firmes que declaren la obligación de devolver las prestaciones indebidamente percibidas serán, asimismo comunicados a la Tesorería General de la Seguridad Social, al objeto de continuar el procedimiento recaudatorio en los términos que procedan.
 
@@ -2311,16 +2277,6 @@ g) Convenio aplicable a los cuidadores no profesionales de personas en situació
 h) Convenio especial al que se refiere el artículo 5 del Real Decreto 1010/2009, de 19 de junio, por el que se establecen medidas destinadas a compensar la disminución en la cotización a la Seguridad Social de los trabajadores cuyo contrato de trabajo se extinguió como consecuencia de los expedientes de regulación de empleo 76/2000, de 8 de marzo de 2001, y 25/2001, de 31 de julio de 2001.
 
 3\. En los supuestos de domiciliación del pago de cuotas, la modificación de la cuenta en que esté domiciliado el pago tendrá efectos el mismo mes en que se comunique, de formularse la comunicación entre los días 1 y 10 de cada mes, y a partir del mes siguiente a aquel en que se comunique, de formularse la comunicación entre los días 11 y último de cada mes.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. 1.4 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086), entra en vigor el 1 de julio de 2024, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "Disposición adicional octava. Supuestos de domiciliación obligatoria del pago de cuotas.
-
-> Los sujetos responsables del cumplimiento de la obligación de cotizar incluidos en los Regímenes Especiales de los Trabajadores por Cuenta Propia o Autónomos y de los Trabajadores del Mar, en el caso de trabajadores por cuenta propia, así como en el Sistema Especial para Empleados de Hogar establecido en el Régimen General de la Seguridad Social, deberán efectuar el pago de las cuotas mediante el sistema de domiciliación en cuenta, abierta en una entidad financiera autorizada para actuar como oficina recaudadora de la Seguridad Social.
-
-> En estos supuestos, la modificación de la cuenta en que esté domiciliado el pago de las cuotas tendrá efectos el mismo mes en que se comunique, de formularse la comunicación entre los días 1 y 10 de cada mes, y a partir del mes siguiente a aquel en que se comunique, de formularse la comunicación entre los días 11 y último de cada mes."
 
 > Se modifica, con efectos de 1 de julio de 2024, por por el art. 1.4 del Real Decreto 322/2024, de 26 de marzo. [Ref. BOE-A-2024-6086](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-6086)
 

@@ -764,66 +764,61 @@ Diecisiete. Se modifica el subapartado 01 del apartado 15 del anexo 1, que queda
 
 Dieciocho. Se modifican los subapartados 03 y 04 del apartado 16 del anexo 1, que quedan redactados como sigue:
 
-> <table class="tabla" data-vertical-align="top">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="8">«03</td>
-> <td class="cuerpo_tabla_izq">Matrículas de terrenos cinegéticamente ordenados (tecor).</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td rowspan="8">«03</td>
+> <td>Matrículas de terrenos cinegéticamente ordenados (tecor).</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">La tarifa se determinará multiplicando el número de hectáreas del tecor, con la exclusión de este de las hectáreas que estén declaradas como vedado de caza (mínimo el 10 % del total) y como refugio de fauna, por 0,110000 €/ha, aplicándole las siguientes bonificaciones:</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td>La tarifa se determinará multiplicando el número de hectáreas del tecor, con la exclusión de este de las hectáreas que estén declaradas como vedado de caza (mínimo el 10 % del total) y como refugio de fauna, por 0,110000 €/ha, aplicándole las siguientes bonificaciones:</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">* Superficie afectada por la ola de incendios del verano y el otoño de 2025, solo sobre las hectáreas afectadas y para las temporadas de caza 2026-2027, 2027-2028 y 2028-2029.</td>
-> <td class="cuerpo_tabla_centro">100 %</td>
+> <td>* Superficie afectada por la ola de incendios del verano y el otoño de 2025, solo sobre las hectáreas afectadas y para las temporadas de caza 2026-2027, 2027-2028 y 2028-2029.</td>
+> <td>100 %</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">* Tecor municipal.</td>
-> <td class="cuerpo_tabla_centro">50 %</td>
+> <td>* Tecor municipal.</td>
+> <td>50 %</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">* Tecor de carácter societario con más de 200 socios, si se reúne alguno de los siguientes requisitos:</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td>* Tecor de carácter societario con más de 200 socios, si se reúne alguno de los siguientes requisitos:</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Ámbito territorial superior a las 25.000 hectáreas y/o vedado de caza superior al 30 % de la extensión del tecor.</td>
-> <td class="cuerpo_tabla_centro">25 %</td>
+> <td>– Ámbito territorial superior a las 25.000 hectáreas y/o vedado de caza superior al 30 % de la extensión del tecor.</td>
+> <td>25 %</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Limitaciones a la caza por razones de protección de especies catalogadas.</td>
-> <td class="cuerpo_tabla_centro">25 %</td>
+> <td>– Limitaciones a la caza por razones de protección de especies catalogadas.</td>
+> <td>25 %</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_centro">220,80</td>
+> <td>Mínimo.</td>
+> <td>220,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="5">04</td>
-> <td class="cuerpo_tabla_izq">Matrículas de terrenos de carácter cinegético dedicados a explotaciones cinegéticas comerciales o mixtas.</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td rowspan="5">04</td>
+> <td>Matrículas de terrenos de carácter cinegético dedicados a explotaciones cinegéticas comerciales o mixtas.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">La tarifa se determinará multiplicando el número de hectáreas de la explotación por los €/ha en función de su carácter abierto o cercado según la siguiente clasificación:</td>
-> <td class="cuerpo_tabla_centro"> </td>
+> <td>La tarifa se determinará multiplicando el número de hectáreas de la explotación por los €/ha en función de su carácter abierto o cercado según la siguiente clasificación:</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">* Grupo I. Explotaciones cinegéticas sobre terrenos abiertos.</td>
-> <td class="cuerpo_tabla_centro">0,110000</td>
+> <td>* Grupo I. Explotaciones cinegéticas sobre terrenos abiertos.</td>
+> <td>0,110000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">* Grupo II. Explotaciones cinegéticas sobre terrenos cercados.</td>
-> <td class="cuerpo_tabla_centro">0,220000</td>
+> <td>* Grupo II. Explotaciones cinegéticas sobre terrenos cercados.</td>
+> <td>0,220000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Se aplicará una bonificación sobre la superficie afectada por la ola de incendios del verano y del otoño de 2025, solo sobre las hectáreas afectadas y para las temporadas de caza 2026-2027, 2027-2028 y 2028-2029.</td>
-> <td class="cuerpo_tabla_centro">100%»</td>
+> <td>Se aplicará una bonificación sobre la superficie afectada por la ola de incendios del verano y del otoño de 2025, solo sobre las hectáreas afectadas y para las temporadas de caza 2026-2027, 2027-2028 y 2028-2029.</td>
+> <td>100%»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -995,87 +990,82 @@ Cuarenta. Se añade el apartado 55 del anexo 2, que queda redactado como sigue:
 
 Cuarenta y uno. Se añaden los subapartados 01 y 02 del apartado 18 del anexo 3, que quedan redactados como sigue:
 
-> <table class="tabla" data-vertical-align="top">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">«00</td>
-> <td class="cuerpo_tabla_izq">Instalaciones eléctricas y de gas.</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>«00</td>
+> <td>Instalaciones eléctricas y de gas.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="11">01</td>
-> <td class="cuerpo_tabla_izq">Autorización de instalaciones eléctricas y de gas.</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td rowspan="11">01</td>
+> <td>Autorización de instalaciones eléctricas y de gas.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Base aplicable. Presupuesto de ejecución material del proyecto.</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>– Base aplicable. Presupuesto de ejecución material del proyecto.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Hasta 3.000 €.</td>
-> <td class="cuerpo_tabla_coma">56,34</td>
+> <td>– Hasta 3.000 €.</td>
+> <td>56,34</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– De 3.000,01 hasta 7.500 €.</td>
-> <td class="cuerpo_tabla_coma">72,44</td>
+> <td>– De 3.000,01 hasta 7.500 €.</td>
+> <td>72,44</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– De 7.500,01 hasta 15.000 €.</td>
-> <td class="cuerpo_tabla_coma">96,58</td>
+> <td>– De 7.500,01 hasta 15.000 €.</td>
+> <td>96,58</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– De 15.000,01 hasta 30.000 €.</td>
-> <td class="cuerpo_tabla_coma">128,78</td>
+> <td>– De 15.000,01 hasta 30.000 €.</td>
+> <td>128,78</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– De 30.000,01 hasta 45.000 €.</td>
-> <td class="cuerpo_tabla_coma">160,97</td>
+> <td>– De 30.000,01 hasta 45.000 €.</td>
+> <td>160,97</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– De 45.000,01 hasta 60.000 €.</td>
-> <td class="cuerpo_tabla_coma">193,16</td>
+> <td>– De 45.000,01 hasta 60.000 €.</td>
+> <td>193,16</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Por cada 6.000 € o fracción de exceso hasta 6.000.000 €.</td>
-> <td class="cuerpo_tabla_coma">8,05.</td>
+> <td>– Por cada 6.000 € o fracción de exceso hasta 6.000.000 €.</td>
+> <td>8,05.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">– Por cada 6.000 € o fracción que exceda de 6.000.000 €.</td>
-> <td class="cuerpo_tabla_coma">1,61</td>
+> <td>– Por cada 6.000 € o fracción que exceda de 6.000.000 €.</td>
+> <td>1,61</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">En caso de denegación de la autorización, se devengará el 50 % de la tarifa anterior.</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>En caso de denegación de la autorización, se devengará el 50 % de la tarifa anterior.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="6">02</td>
-> <td class="cuerpo_tabla_izq">Regularización de instalaciones eléctricas.</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td rowspan="6">02</td>
+> <td>Regularización de instalaciones eléctricas.</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Expediente de línea eléctrica de energía eléctrica de primera, segunda o tercera categoría.</td>
-> <td class="cuerpo_tabla_coma">150</td>
+> <td>Expediente de línea eléctrica de energía eléctrica de primera, segunda o tercera categoría.</td>
+> <td>150</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Kilómetro de línea eléctrica de tercera categoría (tensión nominal igual o inferior a 30 kV y superior a 1 kV).</td>
-> <td class="cuerpo_tabla_coma">75</td>
+> <td>Kilómetro de línea eléctrica de tercera categoría (tensión nominal igual o inferior a 30 kV y superior a 1 kV).</td>
+> <td>75</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Kilómetro de línea eléctrica de primera o segunda categoría (tensión nominal inferior a 220 kV y superior a 30 kV).</td>
-> <td class="cuerpo_tabla_coma">100</td>
+> <td>Kilómetro de línea eléctrica de primera o segunda categoría (tensión nominal inferior a 220 kV y superior a 30 kV).</td>
+> <td>100</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Expediente de centro/s de transformación y/o seccionamiento en la misma localización.</td>
-> <td class="cuerpo_tabla_coma">350</td>
+> <td>Expediente de centro/s de transformación y/o seccionamiento en la misma localización.</td>
+> <td>350</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Expediente de subestación eléctrica con una o varias posiciones de salidas.</td>
-> <td class="cuerpo_tabla_coma">7.000»</td>
+> <td>Expediente de subestación eléctrica con una o varias posiciones de salidas.</td>
+> <td>7.000»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -2189,35 +2179,28 @@ Trece. Se modifica el cuadro del número 3 de la disposición adicional novena, 
 
 Catorce. Se modifica el cuadro del número 3 de la disposición adicional novena, para añadir la escala operativa del Servicio de Guardacostas de Galicia, que queda redactado como sigue:
 
-> <table class="tabla" data-vertical-align="top">
-> <colgroup>
-> <col width="18%">
-> <col width="18%">
-> <col width="12%">
-> <col width="25%">
-> <col width="27%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">«Denominación</th>
-> <th class="cabeza_tabla">Especialidades</th>
-> <th class="cabeza_tabla">Subgrupo</th>
-> <th class="cabeza_tabla">Funciones</th>
-> <th class="cabeza_tabla">Titulación</th>
+> <th>«Denominación</th>
+> <th>Especialidades</th>
+> <th>Subgrupo</th>
+> <th>Funciones</th>
+> <th>Titulación</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Escala operativa del Servicio de Guardacostas de Galicia.</td>
-> <td class="cuerpo_tabla_centro">Patrón o patrona.</td>
-> <td class="cuerpo_tabla_centro" rowspan="2">B</td>
-> <td class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
-> <td class="cuerpo_tabla_izq">Técnico o técnica superior en Transporte Marítimo y Pesca de Altura o equivalente y el título profesional de patrón o patrona de altura de la Marina Mercante sin restricciones o superior con atribuciones de mando en buques civiles.</td>
+> <td rowspan="2">Escala operativa del Servicio de Guardacostas de Galicia.</td>
+> <td>Patrón o patrona.</td>
+> <td rowspan="2">B</td>
+> <td>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
+> <td>Técnico o técnica superior en Transporte Marítimo y Pesca de Altura o equivalente y el título profesional de patrón o patrona de altura de la Marina Mercante sin restricciones o superior con atribuciones de mando en buques civiles.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">Mecánico o mecánica.</td>
-> <td class="cuerpo_tabla_izq">– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
-> <td class="cuerpo_tabla_izq">Técnico o técnica superior en Organización del Mantenimiento de la Maquinaria de Buques y Embarcaciones o equivalente, y el título profesional de mecánico o mecánica mayor naval de la Marina Mercante sin restricciones o superior con atribuciones de jefe o jefa de máquinas en buques civiles.»</td>
+> <td>Mecánico o mecánica.</td>
+> <td>– Las definidas en la Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia, o norma que la sustituya.</td>
+> <td>Técnico o técnica superior en Organización del Mantenimiento de la Maquinaria de Buques y Embarcaciones o equivalente, y el título profesional de mecánico o mecánica mayor naval de la Marina Mercante sin restricciones o superior con atribuciones de jefe o jefa de máquinas en buques civiles.»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -2894,123 +2877,114 @@ Once. Se añade una disposición adicional vigesimosexta, con la siguiente redac
 
 > Las superficies mínimas, la distancia mínima entre paramentos y, en su caso, las dimensiones del cuadrado, que ha de poder inscribirse en la pieza, se indican en la siguiente tabla:
 
-> <table class="tabla">
+> <table>
 > <caption>
-> <p class="centro_redonda">Tabla 1</p>
+> <p>Tabla 1</p>
 > </caption>
-> <colgroup>
-> <col width="15%">
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2">Pieza</th>
-> <th class="cabeza_tabla" colspan="4">Superficie mínima (m<sup>2</sup>)</th>
-> <th class="cabeza_tabla" rowspan="2">Figura inscribible en el interior (m)</th>
-> <th class="cabeza_tabla" rowspan="2">Distancia mín. (m) entre paramentos</th>
+> <th rowspan="2">Pieza</th>
+> <th colspan="4">Superficie mínima (m<sup>2</sup>)</th>
+> <th rowspan="2">Figura inscribible en el interior (m)</th>
+> <th rowspan="2">Distancia mín. (m) entre paramentos</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Alojamiento de estancia única</th>
-> <th class="cabeza_tabla">Alojamiento de 1 dormitorio</th>
-> <th class="cabeza_tabla">Alojamiento de 2 dormitorios T1</th>
-> <th class="cabeza_tabla">Alojamiento de 2 dormitorios T2</th>
+> <th>Alojamiento de estancia única</th>
+> <th>Alojamiento de 1 dormitorio</th>
+> <th>Alojamiento de 2 dormitorios T1</th>
+> <th>Alojamiento de 2 dormitorios T2</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cocina.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_coma">1,8</td>
+> <td>Cocina.</td>
+> <td> </td>
+> <td>5</td>
+> <td>6</td>
+> <td>6</td>
+> <td>–</td>
+> <td>1,8</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Comedor.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>Comedor.</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cocina-comedor.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_coma">2,2</td>
+> <td>Cocina-comedor.</td>
+> <td> </td>
+> <td>8</td>
+> <td>9</td>
+> <td>9</td>
+> <td>–</td>
+> <td>2,2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Estar.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-> <td class="cuerpo_tabla_coma">2,7</td>
+> <td>Estar.</td>
+> <td> </td>
+> <td>10</td>
+> <td>11</td>
+> <td>11</td>
+> <td>Cuadrado 2,80.</td>
+> <td>2,7</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Estar-comedor.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_centro">14</td>
-> <td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-> <td class="cuerpo_tabla_coma">2,7</td>
+> <td>Estar-comedor.</td>
+> <td> </td>
+> <td>13</td>
+> <td>14</td>
+> <td>14</td>
+> <td>Cuadrado 2,80.</td>
+> <td>2,7</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Estar-comedor-cocina.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">17</td>
-> <td class="cuerpo_tabla_centro">18</td>
-> <td class="cuerpo_tabla_centro">19</td>
-> <td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-> <td class="cuerpo_tabla_coma">2,7</td>
+> <td>Estar-comedor-cocina.</td>
+> <td> </td>
+> <td>17</td>
+> <td>18</td>
+> <td>19</td>
+> <td>Cuadrado 2,80.</td>
+> <td>2,7</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Estar, comedor, dormitorio y cocina.</td>
-> <td class="cuerpo_tabla_centro">26</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">Cuadrado 2,80.</td>
-> <td class="cuerpo_tabla_coma">2,7</td>
+> <td>Estar, comedor, dormitorio y cocina.</td>
+> <td>26</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>Cuadrado 2,80.</td>
+> <td>2,7</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Baño.</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_coma">1,6</td>
+> <td>Baño.</td>
+> <td>4</td>
+> <td>4</td>
+> <td>4</td>
+> <td>4</td>
+> <td>–</td>
+> <td>1,6</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Dormitorio 1.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_izq">Cuadrado 2,60.</td>
-> <td class="cuerpo_tabla_coma">2,2</td>
+> <td>Dormitorio 1.</td>
+> <td> </td>
+> <td>10</td>
+> <td>10</td>
+> <td>10</td>
+> <td>Cuadrado 2,60.</td>
+> <td>2,2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Dormitorio 2.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">–</td>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_centro">8</td>
-> <td class="cuerpo_tabla_izq">Cuadrado 2,20.</td>
-> <td class="cuerpo_tabla_coma">2</td>
+> <td>Dormitorio 2.</td>
+> <td> </td>
+> <td>–</td>
+> <td>6</td>
+> <td>8</td>
+> <td>Cuadrado 2,20.</td>
+> <td>2</td>
 > </tr>
 > </tbody>
 > </table>

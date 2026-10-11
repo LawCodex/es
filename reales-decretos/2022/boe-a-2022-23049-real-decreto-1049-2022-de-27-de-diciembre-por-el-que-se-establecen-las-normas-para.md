@@ -1,0 +1,915 @@
+---
+title: "Real Decreto 1049/2022, de 27 de diciembre, por el que se establecen las normas para la aplicación de la condicionalidad reforzada y de la condicionalidad social que deben cumplir las personas beneficiarias de las ayudas en el marco de la Política Agrícola Común que reciban pagos directos, determinados pagos anuales de desarrollo rural y del Programa de Opciones Específicas por la Lejanía y la Insularidad (POSEI)"
+identifier: "BOE-A-2022-23049"
+eli: "https://www.boe.es/eli/es/rd/2022/12/27/1049"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2022-12-27
+published: 2022-12-29
+in_force_from: 2023-01-01
+last_amended: 2024-10-09
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-23049"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1049/2022, de 27 de diciembre, por el que se establecen las normas para la aplicación de la condicionalidad reforzada y de la condicionalidad social que deben cumplir las personas beneficiarias de las ayudas en el marco de la Política Agrícola Común que reciban pagos directos, determinados pagos anuales de desarrollo rural y del Programa de Opciones Específicas por la Lejanía y la Insularidad (POSEI)
+
+La Política Agrícola Común (PAC) se ha visto sometida a una importante reforma que ha afectado al sistema de la condicionalidad que se ha venido aplicando hasta el año 2022, al incorporar una mayor ambición medioambiental y climática en el marco de la nueva arquitectura verde de la PAC, y contribuir al desarrollo de una agricultura socialmente sostenible mediante una mayor concienciación en cuanto a las normas de empleo y protección social.
+
+La reforma de la PAC del año 2003 introdujo el concepto de condicionalidad como un conjunto de obligaciones que tenían la finalidad garantizar la salubridad de los productos obtenidos y su adecuación a las exigencias de conservación y mejora del territorio sobre el que se asientan las explotaciones.
+
+La condicionalidad reforzada tiene como objetivo contribuir al desarrollo de una agricultura sostenible mediante una mayor concienciación de los beneficiarios sobre la necesidad de cumplir esas normas básicas, y responder mejor a las expectativas de la sociedad en general, gracias a una mayor coherencia de esta política con los objetivos en materia de medio ambiente, salud pública, fitosanidad y bienestar animal. Para ello, se prevé imponer penalizaciones proporcionadas, eficaces y disuasorias, a las personas beneficiarias de ayudas que no cumplan sus normas.
+
+El Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Reglamentos (UE) n.º 1305/2013 y (UE) n.º 1307/2013, establece el conjunto de Requisitos Legales de Gestión (RLG) y Buenas Condiciones Agrarias y Medioambientales (BCAM) que se deben aplicar en el marco de la condicionalidad reforzada, siendo necesario definir cómo se deben aplicar las BCAM en España.
+
+Por otro lado, el Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) n.º 1306/2013, establece el sistema de penalizaciones que se debe aplicar a aquellos beneficiarios de ayudas que no cumplan con las obligaciones relativas al sistema de la condicionalidad reforzada.
+
+Sobre la base de la mayor subsidiariedad a los Estados miembros en la elaboración del Plan Estratégico de la PAC que establece el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, se hace necesario regular determinados aspectos relativos al sistema de gestión y de control de la condicionalidad reforzada que con anterioridad se encontraban incluidos en la reglamentación comunitaria.
+
+En efecto, este nuevo Reglamento supone un cambio sustancial en la PAC, que pasa a ser una política orientada a la consecución de resultados concretos, vinculados a los tres objetivos generales del artículo 5 del Reglamento, esto es, fomentar un sector agrícola inteligente, competitivo, resiliente y diversificado que garantice la seguridad alimentaria a largo plazo; apoyar y reforzar la protección del medio ambiente, incluida la biodiversidad, y la acción por el clima y contribuir a alcanzar los objetivos medioambientales y climáticos de la Unión, entre ellos los compromisos contraídos en virtud del Acuerdo de París y fortalecer el tejido socioeconómico de las zonas rurales. Esta nueva orientación se articula sobre una mayor subsidiariedad a los Estados miembros, que deberán ser quienes sobre la base de la situación y necesidades específicas los que deberán diseñar sus propias intervenciones. Este conjunto de intervenciones se incluye en el correspondiente Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027. Con este nuevo enfoque, España, tras un análisis riguroso de la situación de partida, que ha permitido identificar y priorizar las necesidades vinculadas a cada uno de estos objetivos, ha propuesto un Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, que tiene como objetivo el desarrollo sostenible de la agricultura, la alimentación y las zonas rurales para garantizar la seguridad alimentaria de la sociedad a través de un sector competitivo y un medio rural vivo.
+
+Con el fin de poder realizar una correcta implantación y gestión del conjunto de intervenciones que se incluyen en el Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, se hace necesario disponer de las adecuadas herramientas jurídicas que permitan una aplicación armonizada de todas las medidas en el territorio nacional. A tal fin, durante el otoño de 2022 se han venido aprobando diversos reales decretos en que se contienen las reglas a aplicar en las intervenciones sectoriales de la PAC y otras disposiciones concomitantes, que se vienen en completar ahora con la aprobación conjunta un paquete normativo que abarca los principales aspectos relacionados con la aplicación de la PAC en nuestro país, compuesto por diversos reales decretos que regulan de manera cohonestada los aspectos necesarios para su aplicación: normas para la aplicación de las intervenciones en forma de pagos directos, requisitos comunes y solicitud única; sistema de derechos de ayuda básica a la renta para la sostenibilidad; regulación de condicionalidad reforzada y social; sistema integrado de gestión y control; y gobernanza de los fondos europeos agrícolas. Este grupo normativo encuentra en su vértice la Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas.
+
+En dicho marco, este real decreto tiene por objeto establecer la normativa básica reguladora de la condicionalidad de la PAC. Esta reforma de la PAC establece por primera vez la condicionalidad social, que se basa en el cumplimiento de determinadas obligaciones de las normas laborales aplicables y en las condiciones de trabajo y empleo por parte de las personas beneficiarias de ayudas PAC. Por ello se hace necesario establecer los procedimientos para que se puedan aplicar por parte de los organismos pagadores las penalizaciones establecidas por los organismos responsables de control con base en los incumplimientos detectados en los controles realizados por éstos, a partir de su entrada en vigor en España el 1 de enero de 2024 conforme se dispone en su normativa reguladora.
+
+Teniendo en cuenta lo anterior, es preciso derogar el Real Decreto 1078/2014, de 19 de diciembre, por el que se establecen las normas de la condicionalidad que deben cumplir los beneficiarios que reciban pagos directos, determinadas primas anuales de desarrollo rural, o pagos en virtud de determinados programas de apoyo al sector vitivinícola, y aprobar un real decreto para aplicar la nueva legislación comunitaria al respecto.
+
+Cabe señalar que todas las intervenciones del Plan Estratégico de la PAC se han diseñado en base a los criterios de coherencia y sinergia con los programas e iniciativas europeas y nacionales en relación con el agua, el aire, el suelo, la biodiversidad y la mitigación y adaptación al cambio climático, lo que se ha plasmado en la evaluación ambiental estratégica a que se ha sometido el Plan Estratégico, en el que se encuadra esta norma.
+
+Este real decreto tiene carácter de normativa básica y se dicta de conformidad con lo establecido en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+En su elaboración se ha consultado a las autoridades competentes de las comunidades autónomas y a los sectores afectados, y se ha sometido al trámite de audiencia e información públicas.
+
+En la elaboración de esta norma se han observado los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, de acuerdo con los principios de necesidad y eficacia, se justifica el proyecto en la necesidad de la aplicación coherente de la normativa de la Unión Europea en España, y evitar posibles correcciones financieras, siendo el instrumento más adecuado para garantizar su consecución, al ser necesario que la regulación se contemple en una norma básica. Se cumple el principio de proporcionalidad y la regulación se limita al mínimo imprescindible para cumplir con dicha normativa. El principio de seguridad jurídica se garantiza al establecerse en una disposición general las nuevas previsiones en coherencia con el resto del ordenamiento jurídico. Asimismo, en aplicación del principio de transparencia han sido consultadas durante la tramitación de la norma las comunidades autónomas, las entidades representativas de los sectores afectados, y se ha sustanciado el trámite de audiencia e información pública. Finalmente, el principio de eficiencia se considera cumplido toda vez que no se imponen nuevas cargas administrativas frente a la regulación actual.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2022,
+
+DISPONGO:
+
+## TÍTULO PRELIMINAR — Disposiciones generales
+
+#### Artículo 1. Objeto y ámbito de aplicación.
+
+El presente real decreto tiene por objeto establecer las normas para la aplicación de la condicionalidad reforzada y de la condicionalidad social que deberán cumplir las personas beneficiarias de ayudas que reciban:
+
+a) Pagos directos en virtud del título III, capítulo II del Reglamento (UE) n.º 2021/2115 del Parlamento europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Reglamentos (UE) n.º 1305/2013 y (UE) n.º 1307/2013.
+
+b) Pagos anuales por superficies y animales en virtud de los artículos 70, 71 y 72 del Reglamento (UE) n.º 2021/2115 del Parlamento europeo y del Consejo, de 2 de diciembre de 2021.
+
+c) Pagos directos de las ayudas incluidas en el anexo I del Programa de Opciones Específicas por la Lejanía y la Insularidad de Canarias (POSEI) con arreglo al capítulo IV del Reglamento (UE) n.º 228/2013 del Parlamento Europeo y del Consejo, de 13 de marzo de 2013, por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión y por el que se deroga el Reglamento (CE) n.º 247/2006 del Consejo.
+
+#### Artículo 2. Definiciones.
+
+A los efectos de este real decreto, serán de aplicación las definiciones contenidas en el Reglamento (UE) n.º 2021/2115 del Parlamento europeo y del Consejo, de 2 de diciembre de 2021, el Reglamento (UE) n.º 2021/2116 del Parlamento europeo y del Consejo, de 2 de diciembre de 2021, sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) n.º 1306/2013, el Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021, por el que se completa el Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo relativo a los requisitos adicionales para determinados tipos de intervención especificados por los Estados miembros en sus planes estratégicos de la PAC para el período 2023-2027 en virtud de dicho Reglamento, y a las normas sobre la proporción relativa a la norma 1 de las buenas condiciones agrarias y medioambientales (BCAM) y el Reglamento Delegado (UE) 2022/1172 de la Comisión, de 4 de mayo de 2022 por el que se completa el Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo en lo que respecta al sistema integrado de gestión y control de la política agrícola común y la aplicación y el cálculo de las sanciones administrativas en el marco de la condicionalidad, así como las siguientes:
+
+a) Año natural: es el periodo comprendido entre el 1 de enero y el 31 de diciembre.
+
+b) Incumplimiento intencionado: actuación deliberada por parte del beneficiario, existiendo falta de colaboración o mala fe por su parte. Podrán tener la consideración de incumplimientos intencionados, la falsificación de registros, cualquier tipo de ocultación o de manipulación fraudulenta, la falsificación de documentos acreditativos tales como facturas o autorizaciones, y aquellas situaciones que evidencien la existencia de algún tipo de maltrato hacia los animales, todo ello tras la pertinente investigación por la autoridad competen.
+
+c) Incumplimiento recurrente: el incumplimiento del mismo requisito o norma determinado más de una vez en un período consecutivo de tres años naturales.
+
+d) Norma: cada una de las exigencias derivadas de las Buenas Condiciones Agrarias y Medioambientales (BCAM) definidas en el anexo II.
+
+e) Obligaciones: conjunto de requisitos y normas que conforman los Requisitos Legales de Gestión (RLG) y las BCAM enumerados en los anexos I y II.
+
+f) Requisito: cada una de las exigencias derivadas de los requisitos legales de gestión recogidos en el anexo I.
+
+## TÍTULO I — Condicionalidad reforzada
+
+### CAPÍTULO I — Sistemas de control
+
+#### Artículo 3. Obligaciones con respecto a la condicionalidad reforzada.
+
+1\. Las personas beneficiarias de ayudas a las que se refiere el artículo 1 deberán cumplir los RLG que figuran en el anexo I y las normas en materia de BCAM establecidas en el anexo II en el conjunto de su explotación agraria, así como las que pudieran establecer las comunidades autónomas en el marco de sus competencias respecto de:
+
+a) El clima y el medio ambiente, incluidos el agua, el suelo y la biodiversidad de los ecosistemas;
+
+b) La salud pública y la fitosanidad;
+
+c) El bienestar animal.
+
+2\. Las comunidades autónomas informarán a las personas beneficiarias a las que se refiere el artículo 1 de las obligaciones al respecto a las que está sujeta su explotación.
+
+#### Artículo 4. Autoridades competentes del control.
+
+1\. Las comunidades autónomas, como autoridades responsables en su ámbito territorial de las actividades de gestión y control, sin perjuicio de las competencias que puedan corresponder a la Administración General del Estado, designarán los correspondientes organismos especializados de control para asegurar la observancia de las obligaciones de condicionalidad reforzada.
+
+El organismo pagador también podrá ser designado para realizar los controles de todas o algunas de las obligaciones de la condicionalidad reforzada siempre que se garantice que la eficacia de los controles sea igual, al menos, a la conseguida cuando éstos los realiza un organismo especializado de control.
+
+Los organismos pagadores comunicarán al Organismo Autónomo Fondo Español de Garantía Agraria (FEGA, O.A.) antes del 15 de enero de cada año los organismos especializados de control designados, y cuando proceda, los requisitos y normas controlados por ellos mismos. Asimismo, los organismos pagadores comunicarán al FEGA, O.A. durante el año natural, cualquier modificación que tuviera lugar en materia de autoridades competentes de control.
+
+2\. El organismo pagador comunicará a los organismos especializados de control del ámbito territorial en el que radiquen las explotaciones, la información necesaria sobre las personas beneficiarias de las ayudas contempladas en el artículo 1 para que aquéllos puedan realizar los controles pertinentes.
+
+3\. El FEGA, O.A., es el organismo de coordinación de los controles de la condicionalidad reforzada a efectos de lo dispuesto en el artículo 10 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, conforme se explicita en el Real Decreto 1047/2022, de 27 de diciembre, por el que se regula el sistema de gestión y control de las intervenciones del Plan Estratégico y otras ayudas de la Política Agrícola Común.
+
+#### Artículo 5. Sistema de control.
+
+Las comunidades autónomas, sin perjuicio de las competencias que puedan corresponder a la Administración General del Estado, establecerán un sistema de control de la condicionalidad reforzada con el fin de comprobar que las personas beneficiarias de las ayudas que figuran en el artículo 1 y cuya explotación es superior a las 10 hectáreas de superficie agraria declarada, cumplan las obligaciones establecidas en los anexos I y II.
+
+A la luz de los resultados obtenidos en la realización de los controles, efectuarán una revisión anual de su sistema de control.
+
+No obstante, las comunidades autónomas podrán, para cerciorarse de la observancia de las normas y requisitos de condicionalidad reforzada, hacer uso de sus sistemas de gestión y control existentes siempre que sean compatibles con los sistemas a los que se refiere el párrafo primero.
+
+> Se modifica el primer párrafo por el art. único.1 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Esta modificación surte efectos desde el 25 de mayo de 2024, según establece la disposición final 3.1 del citado Real Decreto.
+
+#### Artículo 6. Tipos de control.
+
+Las autoridades competentes en materia de control podrán llevar a cabo controles administrativos, así como realizar controles sobre el terreno a fin de verificar el cumplimiento por parte de las personas beneficiarias de las ayudas, de las obligaciones indicadas en el artículo 3. Asimismo, cuando proceda, se podrá hacer uso del sistema de monitorización de superficies u otras tecnologías pertinentes.
+
+Por otro lado y en función de los requisitos y normas de la condicionalidad reforzada de que se trate, se podrán utilizar los controles efectuados en el marco de los sistemas de control sectoriales respectivos, siempre que el alcance y la eficacia de esos controles sea al menos equivalente a la de los controles a que se refiere el párrafo anterior.
+
+Se llevará a cabo un cruce con los resultados definitivos de los controles de cualquier otro sistema que proceda, al efecto de determinar si existe un incumplimiento en materia de condicionalidad.
+
+#### Artículo 7. Controles administrativos.
+
+Con fin de verificar el cumplimiento de determinadas normas y requisitos como, cuando proceda, de la BCAM 1, BCAM 2, BCAM 7, BCAM 8 y BCAM 9, será necesario realizar controles administrativos al 100 % de las personas beneficiarias de ayudas que deban cumplir dichas obligaciones, llevando a cabo los cruces de resultados previstos en el artículo 6.
+
+#### Artículo 8. Controles sobre el terreno. Selección de la muestra y porcentaje mínimo de control.
+
+1\. Para la realización de los controles sobre el terreno indicados en el artículo 6, se seleccionará una muestra de control que abarcará al menos el 1 % de las personas beneficiarias de ayudas, y que estén sujetas a controles de acuerdo con el artículo 5.
+
+La muestra de control estará basada en un análisis de riesgos que tenga en cuenta la estructura de la explotación, el riesgo inherente de incumplimiento y, cuando proceda, la participación de las personas beneficiarias de las ayudas en los servicios de asesoramiento a las explotaciones a que se refiere el artículo 15 del Reglamento (UE) núm. 2021/2115, del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, debiéndose aplicar factores de ponderación a dichos elementos, incluyéndose un elemento aleatorio.
+
+2\. El porcentaje mínimo de control indicado en el apartado 1 podrá alcanzarse en el ámbito de cada organismo especializado de control o en el ámbito de cada RLG o BCAM. Cuando los controles sean realizados por el organismo pagador, ese porcentaje mínimo de control se podrá alcanzar en el ámbito de cada organismo pagador.
+
+3\. Con el fin de garantizar la representatividad de la muestra de control a la que hace referencia el apartado 1, se realizará en primer lugar una selección aleatoria de las personas beneficiarias de ayudas que se someten a controles sobre el terreno, de modo que esta selección aleatoria suponga entre el 20 y el 25 % de los beneficiarios objeto de control, siendo seleccionados el resto sobre la base de un análisis de riesgos. No obstante, si el número de personas beneficiarias de ayudas que vayan a ser objeto de un control sobre el terreno superase el porcentaje mínimo indicado en el apartado 1, el porcentaje de personas beneficiarias seleccionadas aleatoriamente en la muestra adicional no superará el 25 %.
+
+4\. Cuando proceda, se podrá efectuar una selección parcial de la muestra de control antes del final del período de solicitud de ayudas de que se trate sobre la base de la información disponible. La muestra provisional se completará cuando estén disponibles todas las solicitudes pertinentes, para alcanzar el porcentaje señalado en el apartado 1.
+
+Además, se podrá realizar una muestra de control sobre la base de las solicitudes de ayudas del año anterior, la cual deberá ser completada y consolidada una vez finalizado el plazo de presentación de las solicitudes de ayuda de la campaña en cuestión, teniendo en cuenta la totalidad de los solicitantes.
+
+5\. En lo que respecta a las obligaciones de condicionalidad reforzada en relación con la Directiva 96/22/CE del Consejo, de 29 de abril de 1996, por la que se prohíbe utilizar determinadas sustancias de efecto hormonal y tireostático y sustancias β-agonistas en la cría de ganado y se derogan las Directivas 81/602/CEE, 88/146/CEE y 88/299/CEE, transpuesta mediante el Real Decreto 2178/2004, de 12 de noviembre, por el que prohíbe utilizar determinadas sustancias de efecto hormonal y tireostático y sustancias β-agonistas de uso en la cría de ganado, se considerará que la aplicación de un nivel de muestreo específico de los planes de seguimiento cumple el requisito del porcentaje mínimo mencionado en el párrafo primero.
+
+6\. Cuando de los controles sobre el terreno, efectuados durante un año natural se deduzca un importante grado de incumplimiento en un determinado RLG o BCAM, en el periodo de control siguiente se incrementará el número de controles sobre el terreno que hay que realizar para dicho RLG o BCAM, teniendo en cuenta entre otros, el porcentaje de incumplimientos detectados, el porcentaje de reducción de la ayuda para cada RLG o BCAM, así como la intencionalidad del incumplimiento.
+
+Dentro de cada RLG o BCAM, la autoridad de control competente podrá limitar el alcance de estos controles adicionales sobre el terreno a los requisitos o normas infringidos con mayor frecuencia.
+
+> Se modifican los apartados 1 y 3 por el art. único.2 y 3 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Téngase en cuenta que la modificación del apartado 1 surte efectos desde el 25 de mayo de 2024, según establece la disposición final 3.1 del citado Real Decreto.
+
+#### Artículo 9. Realización de los controles sobre el terreno.
+
+1\. Los controles sobre el terreno se realizarán en el mismo año natural en que se presenten las solicitudes de ayuda.
+
+2\. La autoridad competente controlará para los requisitos y normas de los que es competente a todas las personas beneficiarias de ayudas de la muestra seleccionada.
+
+3\. Cada una de personas beneficiarias de ayudas seleccionadas para un control sobre el terreno será controlada en el momento en que se pueda comprobar la mayor parte de los requisitos y las normas que correspondan. No obstante, las comunidades autónomas, sin perjuicio de las competencias que puedan corresponder a la Administración General del Estado, velarán por que todos los RLG y BCAM sean objeto de controles de un nivel adecuado durante el año, de acuerdo con un calendario de controles previamente establecido.
+
+4\. La inspección de campo en el marco de un control sobre el terreno podrá limitarse a una muestra que represente al menos la mitad de las parcelas agrarias de la explotación, siempre que dicha muestra garantice un nivel de control fiable y representativo en cuanto a requisitos y normas. Cuando se detecten incumplimientos, se aumentará la muestra de parcelas agrarias a inspeccionar.
+
+#### Artículo 10. Controles por monitorización.
+
+1\. Las comunidades autónomas, sin perjuicio de las competencias que puedan corresponder a la Administración General del Estado, podrán efectuar controles de todos o algunos de los requisitos y normas que puedan ser objeto de monitorización tal y como se recoge en el artículo 83.6.c) del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
+
+2\. Se deberán efectuar controles del 1 % de las personas beneficiarias de las ayudas afectadas por los requisitos y normas aplicables a la condicionalidad reforzada que no puedan ser monitorizados. Entre el 20 y el 25 % de ese 1 % de las personas beneficiarias de las ayudas serán seleccionadas de forma aleatoria y los restantes mediante un análisis de riesgos.
+
+3\. A más tardar el 15 de enero del año natural en que comiencen a efectuar controles mediante monitorización, los organismos pagadores notificarán al FEGA, O.A. su decisión de optar por dichos controles.
+
+#### Artículo 11. Informe de control.
+
+1\. Los controles efectuados, referidos en el artículo 6, deberán recogerse en un documento que contemple los resultados de las verificaciones realizadas.
+
+2\. Posteriormente, se elaborará un informe de control sobre la base de los documentos indicados en el apartado 1 que refleje todo el conjunto de actuaciones de control llevadas a cabo.
+
+3\. Sin perjuicio del régimen de penalizaciones e infracciones que pudiere corresponder, se informará a las personas beneficiarias de las ayudas de todo incumplimiento observado en el plazo máximo de tres meses tras la fecha de finalización del control sobre el terreno y, si no lo hubiere, de la última actuación de control realizada, indicando las posibles medidas correctoras que deban adoptarse.
+
+4\. Cuando la autoridad de control competente no sea el organismo pagador, remitirá el informe de control y la documentación relevante de apoyo que requiera el mismo en el plazo máximo de un mes tras la finalización del control sobre el terreno y, si no lo hubiere, de la última actuación de control realizada.
+
+Cuando el informe no contenga ninguna constatación, podrá no remitírselo, siempre que sea directamente accesible, incluido por medios electrónicos, para el organismo pagador en el plazo máximo de un mes tras la finalización del control sobre el terreno y, si no lo hubiere, de la última actuación de control realizada.
+
+#### Artículo 12. Planes de control e informe anual de control.
+
+1\. El FEGA, O.A., en colaboración con las comunidades autónomas, elaborará un plan nacional de controles de la condicionalidad reforzada en el que se recogerá cualquier aspecto que se considere necesario para la realización coordinada de los controles y aplicación de penalizaciones. Este plan se elaborará de conformidad con los criterios especificados en la normativa europea y con lo indicado en el presente real decreto.
+
+2\. Las comunidades autónomas establecerán planes autonómicos de control en su ámbito territorial, ajustados a los criterios generales del plan nacional.
+
+3\. Los organismos pagadores remitirán al FEGA O.A. antes del 30 de septiembre un informe correspondiente al año anterior, que recoja los resultados de los controles de condicionalidad realizados por el conjunto de los organismos especializados de control y, en su caso, los organismos pagadores que lleven a cabo los controles, incluyendo las reducciones y exclusiones aplicadas.
+
+### CAPÍTULO II — Sistemas de aplicación de penalizaciones
+
+#### Artículo 13. Autoridades competentes para la aplicación de penalizaciones.
+
+Las autoridades competentes para el cálculo y aplicación de las reducciones y exclusiones a que se refiere el artículo 14 serán los organismos pagadores.
+
+#### Artículo 14. Aplicación de penalizaciones.
+
+1\. De conformidad con lo dispuesto en el capítulo IV del título IV del Reglamento (UE) n.º 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, se aplicará una penalización a aquellas personas beneficiarias de ayudas contempladas en el artículo 1 que no cumplan, en cualquier momento del año natural de que se trate, las obligaciones indicadas en el artículo 3.
+
+No obstante lo dispuesto en el párrafo anterior, no se aplicarán penalizaciones a las personas beneficiarias cuya explotación sea igual o inferior a las 10 hectáreas de superficie agraria declarada.
+
+Dicha penalización sólo se aplicará cuando el incumplimiento se deba a una acción u omisión directamente imputable a la persona beneficiaria de la ayuda de que se trate y cuando una de las siguientes condiciones, o ambas, se cumplan:
+
+a) Que el incumplimiento esté relacionado con la actividad agraria de la persona beneficiaria de la ayuda;
+
+b) Que el incumplimiento afecte a la explotación según definida en el Reglamento (UE) n.º 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, o a otras superficies gestionadas por la persona beneficiaria de la ayuda y situadas dentro del territorio español.
+
+No se aplicarán penalizaciones a las superficies forestadas cuando en éstas no se soliciten ayudas por compromisos medioambientales, climáticos y otros compromisos de gestión u estén en zonas con limitaciones naturales u otras limitaciones específicas.
+
+2\. La penalización se aplicará mediante la reducción o exclusión de los pagos que figuran en el artículo 1 concedidos o por conceder a la persona beneficiaria de las ayudas, respecto de las solicitudes de ayuda que haya presentado o presente en el transcurso del año natural en que se haya constatado el incumplimiento.
+
+3\. En los casos en que las tierras agrícolas, o una explotación agrícola, o parte de ellas, sean objeto de cesión mediante cualquier negocio jurídico válido en Derecho durante el año natural o los años de que se trate, la penalización correspondiente a los incumplimientos detectados se aplicará al cedente cuando se pueda determinar fehacientemente que es el causante del incumplimiento. En el caso de ser el cesionario el causante, éste será el que asuma la penalización. No obstante, si no es posible determinar fehacientemente el causante, la penalización se repartirá al 50 % entre cedente y cesionario.
+
+4\. La autoridad competente podrá decidir no aplicar una penalización a la persona beneficiaria de las ayudas cuando el importe de la penalización sea inferior o igual a 100 euros por año natural; no obstante, se informará a la persona beneficiaria de la ayuda del incumplimiento constatado y de la obligación de adoptar medidas correctoras para el futuro. Si en un control posterior se detectase que no se han adoptado las medidas correctoras, se tendrá en cuenta a efectos de la reincidencia o persistencia del mismo.
+
+5\. No se impondrá penalización si el incumplimiento obedece a los supuestos en los que el incumplimiento obedezca a causas de fuerza mayor o circunstancias excepcionales o se deba a una orden de una autoridad pública.
+
+6\. Cuando los controles de condicionalidad reforzada no puedan concluirse antes de realizar el pago de las ayudas a que se refiere el artículo 1 y hubiese que aplicar penalizaciones por incumplimientos, los importes se recuperarán como pagos indebidos, o mediante compensación.
+
+7\. Las comunidades autónomas podrán ingresar en sus respectivas Haciendas el 25 % de los importes resultantes de las reducciones y exclusiones recogidas en este capítulo.
+
+> Se añade el segundo párrafo al apartado 1 por el art. único.4 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Esta modificación surte efectos desde el 1 de enero de 2024, según establece la disposición final 3.1 del citado Real Decreto
+
+#### Artículo 15. Cálculo de las penalizaciones.
+
+1\. El cálculo y la aplicación de las penalizaciones se ajustarán a lo dispuesto en el artículo 85 del Reglamento (UE) n.º 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, y en el Reglamento Delegado (UE) n.º 2022/1172 de la Comisión, de 4 de mayo de 2022.
+
+Las reducciones y exclusiones se calcularán sobre la base de los pagos concedidos o que vayan a concederse en el año natural en que se haya producido el incumplimiento.
+
+No obstante, cuando no sea posible determinar el año natural en que se produjo el incumplimiento, las reducciones o exclusiones se calcularán sobre la base de los pagos concedidos o que vayan a concederse en el año natural en que se haya constatado el incumplimiento.
+
+2\. En el plan nacional de controles descrito en el artículo 12.1 se establecerán los criterios generales para la valoración de la gravedad, alcance, persistencia o la reiteración y la intencionalidad de los incumplimientos constatados de las obligaciones y la penalización correspondiente con el fin de asegurar una aplicación homogénea en todo el territorio nacional.
+
+Los organismos pagadores deberán adaptar la valoración y el cálculo de las penalizaciones en función de sus particularidades regionales.
+
+3\. La reducción de la ayuda será por norma general del 3 % del total de los pagos a los que se refiere el artículo 1.
+
+No obstante, el organismo pagador, podrá decidir que en el caso de los incumplimientos no intencionados constatados este porcentaje se pueda reducir al 1 % de acuerdo con la valoración de la gravedad, alcance y persistencia.
+
+En caso de utilizar el sistema de monitorización de superficies, la reducción que se imponga por los incumplimientos no intencionados constatados podrá ser inferior a la reducción prevista en el apartado anterior, pero como mínimo será el 0,5 %.
+
+En el caso de que el incumplimiento constatado no tenga consecuencias, o sean insignificantes para la consecución del objetivo de la norma o requisito, no se aplicará penalización, y el incumplimiento no se tendrá en cuenta a efectos de la reincidencia o persistencia del mismo, si bien se comunicará a los interesados junto con las posibles medidas correctoras que deban adoptarse.
+
+4\. En el caso de que el incumplimiento no intencionado constatado tenga consecuencias graves para la consecución del objetivo de la norma o requisito, o un riesgo grave para la salud pública o animal, el organismo pagador podrá elevar este porcentaje hasta el 10 %.
+
+5\. Cuando un incumplimiento constatado de una norma constituya también un incumplimiento de un requisito, se considerará que se trata de un único incumplimiento. A los efectos del cálculo de las reducciones, el incumplimiento se considerará incluido en el ámbito del requisito.
+
+6\. En el caso de que exista más de un incumplimiento no intencionado no recurrente en el mismo año natural, se determinarán los porcentajes de reducción que corresponda a cada uno de ellos y se sumarán. En este caso la penalización no superará:
+
+a) El 5 % en el caso de que todos los incumplimientos no tengan consecuencias graves, ni constituya un riesgo grave para la salud pública o animal.
+
+b) El 10 % en el caso de que alguno de los incumplimientos tenga consecuencias graves, o constituya un riesgo grave para la salud pública o animal.
+
+7\. Cuando el mismo incumplimiento no intencionado constatado persista o se reitere una vez en tres años naturales consecutivos, el porcentaje de reducción de las ayudas será, por norma general, del 10 % y se aplicará únicamente si la persona beneficiaria de las ayudas ha sido informada del incumplimiento constatado anterior. Las reiteraciones adicionales del mismo incumplimiento, cuando el beneficiario ha sido informado del incumplimiento, sin motivo justificado se considerarán casos de incumplimiento intencionado.
+
+8\. Cuando se haya producido más de un incumplimiento no intencionado recurrente constatado en un mismo año natural, se determinarán los porcentajes de reducción que corresponda a cada uno de ellos y se sumarán, sin que supere el 20 %.
+
+9\. En el caso de los incumplimientos intencionados constatados, la penalización será de al menos el 15 % del importe de las ayudas pudiéndose aumentar este porcentaje hasta el 100 % de las ayudas a las que tuviera derecho la persona solicitante de ayudas.
+
+Concretamente, en el caso de que exista más de un incumplimiento intencionado constatado en el mismo año natural, se determinarán los porcentajes de reducción que corresponda a cada uno de ellos y se sumarán, sin exceder del 100 %.
+
+10\. Cuando se hayan producido múltiples casos de incumplimiento no intencionados, recurrentes e intencionados en el mismo año natural, se determinarán los porcentajes de reducción que corresponda a cada uno de ellos y se sumarán pudiéndose alcanzar una reducción del 100 %.
+
+> Se modifica el último párrafo del apartado 3 por el art. 4.1 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+### CAPÍTULO III — Normas específicas aplicables a las BCAM y a los RLG
+
+> Se modifica por el art. 4.2 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Artículo 16. Proporción anual de pastos permanentes de la BCAM 1.
+
+1\. Las comunidades autónomas determinarán cada año la proporción anual de pastos permanentes en su ámbito territorial, para lo cual tendrán en cuenta lo dispuesto en el artículo 48 del Reglamento Delegado (UE) 2022/126 de la Comisión, de 7 de diciembre de 2021 y la comunicarán al FEGA, O.A. antes del 31 de enero del año inmediatamente siguiente.
+
+2\. En su caso, las comunidades autónomas comunicarán a las personas beneficiarias de ayudas la obligación de reconversión a pastos permanentes, de acuerdo con lo indicado en el anexo II.
+
+> Se modifica por el art. 4.2 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Artículo 17. Información sobre la superación del límite y sistema de autorizaciones de la BCAM 1.
+
+Si en un ejercicio se observara una reducción sobre la proporción de referencia de pastos permanentes igual o superior al 4 %, las autoridades competentes advertirán de ello a las personas beneficiarias de las ayudas y establecerán un sistema de autorizaciones previas a la conversión de los pastos permanentes para evitar alcanzar el límite del 5 % y no provocar pérdidas significativas en el carbono almacenado en los mismos.
+
+> Se modifica por el art. 4.2 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Artículo 17 bis. Seguimiento de autorizaciones para las excepciones de la BCAM 5.
+
+1\. En el caso de plantaciones de cultivos leñosos que estuvieran implantadas antes del 1 de enero de 2023, cuyo marco de plantación, sistema de riego o sistema de conducción no permita labrar transversalmente a la dirección de máxima pendiente, la autoridad competente podrá permitir excepcionalmente, mediante una autorización individualizada, cuando no exista otra alternativa y no conlleve riesgo de erosión, algún tipo de labor vertical en dicha dirección, debiendo quedar todo ello debidamente justificado. Esta autorización podrá aplicarse en las campañas sucesivas si se mantienen las condiciones que dieron lugar a su otorgamiento. Se entiende por laboreo vertical el sistema en el que el arado no invierte la tierra.
+
+Para superficies de viñedo, las autorizaciones podrán concederse de manera colectiva siempre y cuando se tenga conocimiento de manera fehaciente de que en la zona en cuestión no es posible labrar transversalmente a la dirección de máxima pendiente. En este caso y con el fin de no superar el umbral del 0,2 % de la superficie agraria útil de España, las autoridades competentes remitirán al FEGA, O.A. antes del 1 de octubre de cada año, la relación de las autorizaciones concedidas con respecto al año siguiente con indicación de la superficie afectada.
+
+2\. En el caso de superarse el umbral citado en el apartado anterior, el FEGA, O.A. establecerá un porcentaje de reducción a aplicar a las superficies autorizadas con objeto de no rebasar el umbral citado.
+
+> Se modifica el primer párrafo del apartado 1 por el art. único.5 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Esta modificación entra en vigor el 1 de enero de 2025, según establece la disposición final 3.2 del citado Real Decreto
+
+> Se añade por el art. 4.2 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Artículo 17 ter. RLG 3. Recolección mecánica nocturna.
+
+Para cumplir con las obligaciones establecidas por el RLG 3 en relación con la Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de aves silvestres, no podrá realizarse la recolección mecánica nocturna en los cultivos permanentes que presenten plantaciones intensivas en seto de porte alto, denso follaje y en los que se produzca la anidación o pernoctación de aves, con objeto de proteger a las aves durante la época de cría y reproducción, en las fechas que establezcan las comunidades autónomas.
+
+> Se añade por el art. 4.2 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+## TÍTULO II — Condicionalidad social
+
+#### Artículo 18. Obligaciones y controles.
+
+1\. Sin perjuicio de la obligatoriedad de toda la normativa vigente en materia laboral, las personas beneficiarias de ayudas a las que se refiere el artículo 1 deberán cumplir las disposiciones relativas a empleo, salud y seguridad de los trabajadores que figuran en el anexo III.
+
+2\. Las autoridades responsables en materia laboral y social en cada caso, en el marco de sus competencias legales, serán las responsables de llevar a cabo los controles de condicionalidad social para asegurar la observancia y el cumplimiento de las disposiciones que figuran en el anexo III.
+
+#### Artículo 19. Incumplimientos y penalizaciones.
+
+1\. De conformidad con lo dispuesto en el artículo 88 del Reglamento (UE) n.º 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, a partir del 1 de enero de 2024 se aplicará una penalización a todas aquellas personas beneficiarias de ayudas contempladas en el artículo 1 que no cumplan, en cualquier momento del año natural de que se trate, las disposiciones establecidas en el anexo III.
+
+2\. Las autoridades competentes para aplicación de las penalizaciones a que se refiere el apartado anterior serán los organismos pagadores, siendo además los responsables de establecer el porcentaje de la ayuda a reducir sobre la base de los incumplimientos comunicados por la autoridad responsable del control.
+
+3\. Para la aplicación de la correspondiente penalización, la autoridad responsable del control comunicará al organismo pagador antes del 31 de enero, todas las sanciones firmes acordadas en el año anterior de las personas que hayan solicitado alguna de las ayudas recogidas en el artículo 1, indicando la tipificación de las mismas.
+
+4\. En la comunicación citada en el apartado anterior se indicará una evaluación y graduación de la gravedad, alcance, persistencia y, en su caso, de la reiteración y la intencionalidad de incumplimiento.
+
+5\. No se impondrán penalizaciones en caso de fuerza mayor conforme se define en el artículo 3 del Real Decreto 1048/2022, de 27 de diciembre, sobre la aplicación, a partir de 2023, de las intervenciones en forma de pagos directos y el establecimiento de requisitos comunes en el marco del Plan Estratégico de la Política Agrícola Común, y la regulación de la solicitud única del sistema integrado de gestión y control, o se deban a una orden de una autoridad pública.
+
+6\. Asimismo, la autoridad competente podrá decidir no aplicar una penalización a la persona beneficiaria de las ayudas cuando el importe de la penalización sea inferior o igual a 100 euros por año natural; no obstante, se informará a la persona beneficiaria de la ayuda del incumplimiento constatado y de la obligación de adoptar medidas correctoras para el futuro. Si en un control posterior se detectase que no se han adoptado las medidas correctoras, se tendrá en cuenta a efectos de la reincidencia o persistencia del mismo.
+
+7\. Cuando las comunicaciones de la autoridad de control lleguen al organismo pagador después de realizar el pago de las ayudas a que se refiere el artículo 1 y hubiese que aplicar penalizaciones por incumplimientos, los importes se recuperarán como pagos indebidos o mediante compensación.
+
+> Se modifican los apartados 2, 3 y 4 por el art. 4.3 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Disposición adicional primera. Coordinación del intercambio de información.
+
+El FEGA, O.A. coordinará la implantación y puesta en marcha del procedimiento para la comunicación a que se refiere el artículo 19 para garantizar el cumplimiento de la normativa y la correcta aplicación de penalizaciones en esta materia.
+
+#### Disposición adicional segunda. Contención del gasto.
+
+Las medidas incluidas en este real decreto no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+#### Disposición adicional tercera. Penalizaciones de la condicionalidad social.
+
+El régimen de penalizaciones en materia de condicionalidad social se regirá por su normativa específica.
+
+#### Disposición transitoria primera. Excepciones para la campaña 2023.
+
+1\. De acuerdo con lo establecido en el Reglamento de ejecución (UE) 2022/1317 de la Comisión, de 27 de julio de 2022, por el que se establecen excepciones al Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo en lo que respecta a la aplicación de las normas en materia de buenas condiciones agrarias y medioambientales de la tierra (normas BCAM) 7 y 8 para el año de solicitud 2023, durante la campaña agrícola 2023 en España se establecerán las siguientes excepciones a las normas BCAM 7 y 8 incluidas en el anexo II:
+
+a) No se aplicará la norma BCAM 7 «Rotación en tierras de cultivo excepto en cultivos bajo agua».
+
+b) No se aplicará la norma BCAM 8 en lo que se refiere a la primera obligación de la misma «Porcentaje mínimo de superficie agrícola dedicada a superficies o elementos no productivos». Esta excepción afectará exclusivamente a las tierras en barbecho.
+
+2\. Las tierras de cultivo que no vayan a dedicarse a barbecho como consecuencia de la excepción contemplada en el apartado 1.b) de la presente disposición podrán ser dedicadas a cultivos destinados a la producción de alimentos, pero en ningún caso podrán destinarse a la producción de maíz, soja o árboles forestales de ciclo corto.
+
+3\. No obstante lo dispuesto en el apartado 1, a aquellas personas beneficiarias de ayudas que soliciten un ecorrégimen en virtud del artículo 31 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, vinculado a las prácticas de siembra directa y rotación de cultivos con especies mejorantes, no les será de aplicación la excepción contemplada para la rotación de cultivos de la BCAM 7, y a las que soliciten un ecorrégimen vinculado a la práctica de establecimiento de espacios de biodiversidad, no les será de aplicación la excepción contemplada en el apartado 1.b).
+
+Asimismo, a aquellas personas beneficiarias de ayudas que soliciten una ayuda vinculada a un compromiso agroambiental, climático u otro compromiso de gestión en virtud del artículo 70, apartado 3, párrafo primero, letra a) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, cuya línea de base sea la BCAM 7 o la primera obligación de la BCAM 8, no se les aplicará las excepciones contempladas en dicho apartado.
+
+#### Disposición transitoria segunda. Régimen transitorio para los beneficiarios de las ayudas incluidas en los programas para el desarrollo rural.
+
+Se establece que los beneficiarios de los programas de desarrollo rural regulados en virtud del Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (Feader) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo, que reciban pagos por superficie sobre la base de los artículos 21, apartado 1, letras a) y b), 28, 29, 30, 31 y 34 en el marco del Plan Estratégico Nacional de la Política Agrícola Común (PAC) 2023-2027 del Reino de España conforme al Reglamento (UE) n.º 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, cumplen con sus obligaciones en materia de condicionalidad establecidas en el Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, sobre financiación, gestión y seguimiento de la Política Agrícola Común, por el que se derogan los Reglamentos (CE) n.º 352/78, (CE) n.º 165/94, (CE) n.º 2799/98, (CE) n.º 814/2000, (CE) n.º 1290/2005 y (CE) n.º 485/2008 del Consejo, si cumplen con las obligaciones de la condicionalidad reforzada.
+
+#### Disposición transitoria tercera. Régimen transitorio para los beneficiarios del sector vitivinícola.
+
+En virtud del artículo 104.1 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, queda derogado el Reglamento (UE) 1306/2013, no obstante, los artículos 91 a 97, 99 y 100, del mismo seguirán siendo aplicables para los regímenes de ayuda a que se refiere el artículo 5, apartado 7 del Reglamento (UE) 2021/2117 del Parlamento Europeo y del Consejo en relación con los gastos efectuados y los pagos realizados para las operaciones ejecutadas en virtud de los artículos 46 y 47 del Reglamento (UE) 1308/2013 después del 31 de diciembre de 2022 y hasta el final de dichos regímenes de ayuda.
+
+> Se añade por el art. 4.4 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+#### Disposición transitoria cuarta. Régimen transitorio para los beneficiarios de las ayudas incluidas en los programas para el desarrollo rural en virtud del Reglamento (UE) núm. 1305/2013.
+
+Los beneficiarios de las antiguas medidas de los programas de desarrollo rural que reciban pagos sobre la base del apartado 1, letras a) y b) del artículo 21, artículos 28, 29, 30, 31, 33 y 34 en virtud del Reglamento (UE) núm. 1305/2013, y que soliciten a la vez alguna de las ayudas de las intervenciones del Plan estratégico de la PAC, únicamente deberán cumplir con las obligaciones de la condicionalidad reforzada, sin perjuicio de las obligaciones en materia de la condicionalidad social que les correspondan.
+
+> Se añade por el art. único.6 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Esta modificación surte efectos desde el 1 de enero de 2024, según establece la disposición final 3.1 del citado Real Decreto
+
+#### Disposición transitoria quinta. Operaciones de labranza de la BCAM 5 para la Solicitud Única de 2025.
+
+A partir del 1 de septiembre de 2024, y para las nuevas exenciones a la BCAM 5 que entrarán en vigor el 1 de enero de 2025, se podrán llevar a cabo las labores previstas en la en la dirección a la máxima pendiente en las parcelas siempre y cuando sean operaciones necesarias para los cultivos que se declararán en la solicitud única de 2025.
+
+> Se añade por el art. único.7 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 1078/2014, de 19 de diciembre, por el que se establecen las normas de la condicionalidad que deben cumplir los beneficiarios que reciban pagos directos, determinadas primas anuales de desarrollo rural, o pagos en virtud de determinados programas de apoyo al sector vitivinícola.
+
+#### Disposición final primera. Título competencial.
+
+Este real decreto constituye normativa básica y se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que reserva al Estado la competencia en materia de bases y coordinación de la planificación general de la actividad económica.
+
+#### Disposición final segunda. Facultad de desarrollo y modificación.
+
+Se faculta al ministro de Agricultura, Pesca y Alimentación para adoptar las normas necesarias para el cumplimiento de las BCAM relacionadas en el anexo II, para la adaptación del sistema de condicionalidad a las particularidades propias de la Comunidad Autónoma de Canarias así como para las fechas y plazos contenidos en el presente real decreto.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el 1 de enero de 2023.
+
+No obstante, el título II y el anexo III entrarán en vigor el 1 de enero de 2024.
+
+Dado en Madrid, el 27 de diciembre de 2022.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES
+
+## ANEXO I — Requisitos legales de gestión
+
+<table>
+<thead>
+<tr>
+<th>Ámbitos</th>
+<th>Aspecto principal</th>
+<th colspan="3">Requisitos</th>
+<th>Normas nacionales de referencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Clima y medio ambiente.</td>
+<td rowspan="2">Agua.</td>
+<td>RLG 1</td>
+<td>Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas (DO L 327 de 22.12.2000, p. 1).</td>
+<td>
+<p>Artículo 11, apartado 3, letras e) y h), en lo que atañe a los requisitos obligatorios para controlar las fuentes difusas de contaminación por fosfatos.</p>
+<p>Medidas de control de la captación de aguas dulces superficiales y subterráneas y de embalse de aguas dulces superficiales con inclusión de un registro o registros de las captaciones de agua y un requisito de autorización previa para la captación y el embalse y para fuentes difusas que pueden generar contaminación, medidas para evitar o controlar la entrada de contaminantes.</p>
+</td>
+<td>Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas.</td>
+</tr>
+<tr>
+<td>RLG 2</td>
+<td>Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos (DO L 375 de 31.12.1991, p. 1).</td>
+<td>Artículos 4 y 5 sobre el cumplimiento de las medidas establecidas en los programas de actuación en las explotaciones agrícolas y ganaderas situadas en zonas declaradas por la comunidad autónoma como zonas vulnerables.</td>
+<td>Real Decreto 47/2022, de 18 de enero, sobre protección de las aguas contra la contaminación difusa producida por los nitratos procedentes de fuentes agrarias.</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Biodiversidad y paisaje.</p>
+<p>(protección y calidad).</p>
+</td>
+<td>RLG 3</td>
+<td>Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres (DO L 20 de 26.1.2010, p. 7).</td>
+<td>Artículo 3, apartado 1, artículo 3, apartado 2, letra b), y artículo 4, apartados 1, 2 y 4, en relación a preservar los espacios que constituyen los hábitats naturales de las especies de aves migratorias, amenazadas y en peligro de extinción.</td>
+<td>
+<p>Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad.</p>
+<p>Real Decreto 1997/1995, de 7 de diciembre, por el que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de los hábitats naturales y de la fauna y flora silvestres.</p>
+</td>
+</tr>
+<tr>
+<td>RLG 4</td>
+<td>Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres (DO L 206 de 22.7.1992, p. 7).</td>
+<td>Artículo 6, apartados 1 y 2, en lo que atañe a la conservación de hábitats y especies de la Red Natura 2000.</td>
+<td>
+<p>Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad.</p>
+<p>Real Decreto 1997/1995, de 7 de diciembre, por el que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de los hábitats naturales y de la fauna y flora silvestres.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">Salud pública y fitosanidad.</td>
+<td rowspan="2">Seguridad alimentaria.</td>
+<td>RLG 5</td>
+<td>Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria (DO L 31 de 1.2.2002, p. 1).</td>
+<td>Artículos 14 y 15, artículo 17, apartado 1<sup><sup>(1)</sup></sup>, y artículos 18, 19 y 20, en relación a que los productos de la explotación destinados a ser comercializados como alimentos, deben ser seguros, a comprobar que en las explotaciones ganaderas destinadas a la producción de alimentos no existen ni se les da a los animales piensos que no sean seguros y sobre la higiene de los productos alimentarios y de los piensos (desarrollado por los Reglamentos (CE) n.º 852/2004 y 183/2005), y sobre higiene de los productos de origen animal (desarrollado por el Reglamento (CE) n.º 853/2004). También sobre la trazabilidad y las responsabilidades de los explotadores de expresas de piensos/alimentos.</td>
+<td>
+<p>Real Decreto 629/2019, de 31 de octubre, por el que se regula el registro general de establecimientos en el sector de la alimentación animal, las condiciones de autorización o registro de dichos establecimientos y de los puntos de entrada nacionales, la actividad de los operadores de piensos, y la Comisión nacional de coordinación en materia de alimentación animal.</p>
+<p>Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación para conseguir un uso sostenible de los productos fitosanitarios.</p>
+<p>Orden APA/326/2007, de 9 de febrero, por la que se establecen las obligaciones de los titulares de explotaciones agrícolas y forestales en materia de registro de la información sobre el uso de productos fitosanitarios.</p>
+</td>
+</tr>
+<tr>
+<td>RLG 6</td>
+<td>Directiva 96/22/CE del Consejo, de 29 de abril de 1996, por la que se prohíbe utilizar determinadas sustancias de efecto hormonal y tireostático y sustancias β-agonistas en la cría de ganado y se derogan las Directivas 81/602/CEE, 88/146/CEE y 88/299/CEE (DO L 125 de 23.5.1996, p. 3).</td>
+<td>Artículo 3, letras a), b), d) y e), y artículos 4, 5 y 7 en relación a comprobar que no hay en la explotación, salvo que exista una información, sustancias no autorizadas, no administrar dichas sustancias a los animales (salvo las excepciones para los tratamientos zootécnicos y terapéuticos) y no comercializar animales a los que se les hayan suministrado sustancias o productos no autorizados y en caso de administración de productos autorizados que se ha respetado el plazo de espera prescrito para dichos productos.</td>
+<td>Real Decreto 2178/2004, de 12 de noviembre, por el que se prohíbe utilizar determinadas sustancias de efecto hormonal y tireostático y sustancias beta-agonistas de uso en la cría de ganado.</td>
+</tr>
+<tr>
+<td rowspan="2">Productos fitosanitarios.</td>
+<td>RLG 7</td>
+<td>Reglamento (CE) n.º 1107/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, relativo a la comercialización de productos fitosanitarios y por el que se derogan las Directivas 79/117/CEE y 91/414/CEE del Consejo (DO L 309 de 24.11.2009, p. 1).</td>
+<td>Artículo 55, frases primera y segunda, relativo a la correcta utilización de productos fitosanitarios, que incluirá la aplicación de los principios de buenas prácticas fitosanitarias y el cumplimiento de las condiciones establecidas en la autorización de comercialización de productos fitosanitario y especificadas en la etiqueta.</td>
+<td>Ley 43/2002, de 20 de noviembre, de sanidad vegetal, en lo referente a las obligaciones que se deriven de las disposiciones de la normativa comunitaria específica.</td>
+</tr>
+<tr>
+<td>RLG 8</td>
+<td>Directiva 2009/128/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se establece el marco de la actuación comunitaria para conseguir un uso sostenible de los plaguicidas (DO L 309 de 24.11.2009, p. 71):</td>
+<td>
+<p>Artículo 5, apartado 2, sobre los certificados de formación para usuarios profesionales, distribuidores y asesores y artículo 8, apartados 1 a 5, sobre la inspección de los equipos.</p>
+<p>Artículo 12 en lo que respecta a las restricciones sobre el uso de plaguicidas en las zonas protegidas definidas en virtud de la Directiva 2000/60/CE y la legislación relativa a Natura 2000.</p>
+<p>Artículo 13, apartados 1 y 3, sobre la manipulación y almacenamiento de plaguicidas y la eliminación de sus restos.</p>
+</td>
+<td>
+<p>Real Decreto 1702/2011, de 18 de noviembre, de inspecciones periódicas de los equipos de aplicación de productos fitosanitarios.</p>
+<p>Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación para conseguir un uso sostenible de los productos fitosanitarios.</p>
+<p>Real Decreto 285/2021, de 20 de abril por el que se establecen las condiciones de almacenamiento, comercialización, importación o exportación, control oficial y autorización de ensayos con productos fitosanitarios.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">Bienestar animal.</td>
+<td rowspan="3">Bienestar animal.</td>
+<td>RLG 9</td>
+<td>Directiva 2008/119/CE del Consejo, de 18 de diciembre de 2008, relativa a las normas mínimas para la protección de terneros (DO L 10 de 15.1.2009, p. 7).</td>
+<td>Artículos 3 y 4, con relación a las condiciones de las explotaciones de terneros y relativas a la cría.</td>
+<td>
+<p>Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio: en lo referente a las obligaciones que se deriven de las disposiciones de la normativa comunitaria específica.</p>
+<p>Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros.</p>
+</td>
+</tr>
+<tr>
+<td>RLG 10</td>
+<td>Directiva 2008/120/CE del Consejo, de 18 de diciembre de 2008, relativa a las normas mínimas para la protección de cerdos (DO L 47 de 18.2.2009, p. 5).</td>
+<td>Artículos 3 y 4, en relación con las condiciones de las explotaciones de cerdos y relativas a la cría.</td>
+<td>
+<p>Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio: en lo referente a las obligaciones que se deriven de las disposiciones de la normativa comunitaria específica.</p>
+<p>Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos.</p>
+</td>
+</tr>
+<tr>
+<td>RLG 11</td>
+<td>Directiva 98/58/CE del Consejo, de 20 de julio de 1998, relativa a la protección de los animales en las explotaciones ganaderas (DO L 221 de 8.8.1998, p. 23).</td>
+<td>Artículo 4, sobre las condiciones de cría y mantenimiento de animales.</td>
+<td>
+<p>Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio: en lo referente a las obligaciones que se deriven de las disposiciones de la normativa comunitaria específica.</p>
+<p>Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas.</p>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6">
+<p><sup>(1)</sup> En su aplicación, en particular, en virtud de:</p>
+<p>– Artículo 14 del Reglamento (CE) n.º 470/2009 y anexo del Reglamento (CE) n.º 37/2010,</p>
+<p>– Reglamento (CE) n.º 852/2004: artículo 4, apartado 1, y anexo I, parte A [II.4 letras g), h) y j); 5, letras f) y h); 6; III.8, letras a), b), d) y e); 9, letras a) y c)],</p>
+<p>– Reglamento (CE) n.º 853/2004: artículo 3, apartado 1, anexo III, sección IX, capítulo 1 [I.1, letras b), c), d) y e); I.2, letra a), incisos i), ii) y iii), letra b), incisos i) y ii), y letra c); I.3; I.4; I.5; II.A, números 1, 2, 3, 4; II.B, 1, letras a) y d); 2, 4, letras a) y b)], anexo III, sección X, capítulo 1.1,</p>
+<p>– Reglamento (CE) n.º 183/2005: artículo 5, apartados 1, 5 y 6, anexo I, parte A [I.4, letras e) y g); II.2, letras a), b) y e)] y anexo III (bajo el título «ALIMENTACIÓN», número 1, titulado «Almacenamiento», primera y última frases, y número 2, titulado «Distribución», tercera frase), y</p>
+<p>– Reglamento (CE) nº 396/2005: artículo 18.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+## ANEXO II — Buenas condiciones agrarias y medioambientales de la tierra
+
+Ámbito de clima y medio ambiente
+
+1\. Aspecto principal: Cambio climático (mitigación del cambio climático y adaptación a este)
+
+BCAM 1. Mantenimiento de los pastos permanentes basado en una proporción de pastos permanentes con respecto a la superficie agrícola a escala regional en comparación con el año de referencia 2018. Reducción máxima del 5 % en comparación con el año de referencia.
+
+La proporción anual de pastos permanentes en cada comunidad autónoma no deberá disminuir en más de un 5 % en relación con la proporción de referencia para 2018. No obstante, cuando la superficie dedicada a pastos permanentes en un año dado, en términos absolutos, no descienda en más del 0,5 % con respecto a la superficie de pastos permanentes de referencia, se considerará cumplida la obligación de mantener la proporción de pastos permanentes.
+
+Cuando la proporción anual de pastos permanentes en cada comunidad autónoma sufra una disminución igual o superior del 5 % respecto a la proporción de referencia y la variación en términos absolutos de la superficie dedicada a pastos permanentes supere el límite establecido en el apartado anterior se deberá reconvertir la superficie necesaria a pastos permanentes.
+
+Las personas beneficiarias de las ayudas obligadas a dicha reconversión serán aquellas que, sobre la base de las solicitudes presentadas durante los dos últimos años naturales, hayan convertido superficies de pastos permanentes a otros usos.
+
+Las autoridades competentes comunicarán a las personas beneficiarias de las ayudas indicadas en el apartado anterior la obligación individual de reconversión y las normas para evitar nuevas conversiones de pastos permanentes a otros usos.
+
+La superficie a reconvertir en pastos se calculará sobre la base de la superficie de pastos eliminada en el año anterior, con el fin de restaurar la proporción de pastos permanentes dentro del margen del 5 % en el ámbito de cada comunidad autónoma. No se contabilizarán en la superficie reconvertida por las personas beneficiarias de ayudas para el cálculo del porcentaje, las superficies de pastos permanentes creadas por las personas beneficiarias de ayudas en virtud de compromisos adquiridos de conformidad con el Reglamento (CE) n.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y el Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+
+La reconversión de superficies a pastos permanentes deberá llevarse a cabo antes de la fecha de presentación de la solicitud de ayudas del año siguiente.
+
+BCAM 2. Protección de humedales y turberas.
+
+A partir del 1 de enero de 2024 se deberá cumplir con las siguientes obligaciones:
+
+– No se podrá realizar desbroce en humedales y turberas con fines agrícolas en las superficies indicadas en la correspondiente capa SIGPAC.
+
+La prohibición de realización de desbroce implicará que no se podrá:
+
+i) Drenar turberas o humedales ni llevar a cabo quema o extracción de turba de las mismas.
+
+ii) Convertir a tierra de cultivo de cualquier superficie situada sobre un humedal y/o turbera, incluidas las de pastos permanentes y de cultivos permanentes.
+
+iii) Labrar los pastos permanentes.
+
+iv) En las tierras de cultivo ya situadas sobre humedales y turberas, no se podrá labrar el suelo salvo con un laboreo superficial, entendiéndose por laboreo superficial aquel en el que la profundidad de la acción es inferior a los 20 cm, con la excepción de aquellas superficies que se destinen en la campaña agrícola en cuestión al cultivo tradicional del arroz (arrozales), sobre las que sí que se podrá realizar cualquier labor dado que dicho cultivo contribuye a la protección y mantenimiento de los humedales y la biodiversidad asociada a los mismos. Se entenderán por superficies de cultivo tradicional de arroz, aquellas áreas sembradas de arroz en alguno de los años 2018, 2019 y 2020.
+
+– Se podrá mantener una actividad agrícola ligada al pastoreo, apta para que dichas tierras sigan manteniendo la consideración de superficie agrícola, debiendo establecerse una carga ganadera máxima de una Unidad de Ganado Mayor (UGM) por hectárea.
+
+BCAM 3: Prohibición de quema de rastrojos, excepto por razones fitosanitarias.
+
+Se deberán cumplir las siguientes obligaciones:
+
+– Que no se queman rastrojos de cosechas de cultivos herbáceos en todo el ámbito nacional, salvo que, por razones fitosanitarias, la quema esté autorizada por la autoridad competente, en cuyo caso estará condicionada al cumplimiento de las normas establecidas en materia de prevención de incendios, y en particular, las relativas a la anchura mínima de una franja perimetral cuando los terrenos colinden con terrenos forestales.
+
+– Cumplir con lo establecido en el artículo 27.3 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+
+2\. Aspecto principal: Agua
+
+BCAM 4. Creación de franjas de protección en los márgenes de los ríos.
+
+Se deberán cumplir las siguientes obligaciones:
+
+– Se crearán franjas de protección a lo largo de los cursos de agua, así como de los embalses, lagos y lagunas, considerados a partir de la ribera, que estarán situadas en la parcela agrícola, de forma que los bordes de estas franjas sean paralelos al borde del cauce o masa de agua, pudiendo estar ocupadas por vegetación de ribera. Estas franjas quedarán reflejadas en la correspondiente capa SIGPAC.
+
+Se entenderá por curso de agua la corriente natural de agua que fluye durante una parte significativa del año y que desemboca en otro curso de agua, en un lago o en el mar y que se representa en la cartografía oficial correspondiente.
+
+Asimismo, se entenderá por cauce el álveo o cauce natural de una corriente continua o discontinua, el terreno cubierto por las aguas en las máximas crecidas ordinarias. Se considerará como caudal de la máxima crecida ordinaria la media de los máximos caudales anuales, en su régimen natural producidos durante diez años consecutivos, que sean representativos del comportamiento hidráulico de la corriente y que tengan en cuenta las informaciones hidrológicas, hidráulicas, fotográficas y cartográficas que existan, así como las referencias históricas disponibles.
+
+– No se podrán aplicar ni fertilizantes ni fitosanitarios en la franja de protección que tendrá al menos 5 metros de ancho. Esta anchura mínima deberá respetar cualquier otra anchura mínima superior que pudiera estar recogida en los Códigos de Buenas Prácticas Agrarias y los programas de actuación establecidos en el marco de la Directiva 91/676/CEE del Consejo de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura, u otra normativa de obligada aplicación.
+
+– En el caso de los productos fitosanitarios, esta franja deberá respetar además, cualquier limitación mayor que esté recogida en la etiqueta de dichos productos o se haya establecido en la autorización del producto en cuestión.
+
+– En la franja de protección en la que no se aplican fertilizantes y fitosanitarios, no habrá producción agrícola, excepto en el caso de los cultivos leñosos que ya estén implantados antes de que la persona beneficiaria tuviera obligación de cumplir la norma, ya que el arranque podría disminuir la protección de los márgenes.
+
+– Se mantendrá una cubierta vegetal que podrá ser sembrada o espontánea, que será distinguible del cultivo de la tierra agrícola contigua. Asimismo, se permitirá el pastoreo o la siega.
+
+– En dichas franjas se podrán realizar, en caso necesario, labores superficiales de mantenimiento, para evitar la proliferación de plagas y enfermedades que constituyan un riesgo sanitario para los cultivos adyacentes. Asimismo, las comunidades autónomas podrán autorizar tratamientos para el control de plagas por razones fitosanitarias, determinando, en cualquier caso, las condiciones en que se hayan de llevar a cabo.
+
+– En zonas con canales de riego importantes en los que se pueda producir percolación de materias nocivas, este ancho se podrá ajustar por las comunidades autónomas si está debidamente justificado y de acuerdo con las circunstancias locales específicas; en este caso deberán comunicarse estas informaciones al FEGA O.A. una vez establecida la anchura mínima de la franja de protección, no pudiendo ser inferior a 1 metro. Las obligaciones de esta BCAM no afectarán a las pequeñas acequias de riego u otras infraestructuras similares.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/312/23049_12592258_1.png)
+
+3\. Aspecto principal: Suelo (protección y calidad)
+
+BCAM 5. Gestión de la labranza, reduciendo el riesgo de degradación y erosión del suelo, lo que incluye tener en cuenta la inclinación de la pendiente.
+
+Se establece la siguiente obligación:
+
+Que en las superficies que se destinen a cultivos herbáceos o cultivos leñosos, no se labre la tierra en la dirección a la máxima pendiente cuando, en los recintos cultivados, la pendiente media sea mayor o igual al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales. En caso de existencia de bancales, será obligatorio evitar cualquier tipo de labores que afecten a la estructura de los taludes existentes.
+
+Quedan exentas del cumplimiento de esta BCAM 5, las parcelas de cultivos herbáceos y leñosos con una superficie igual o inferior a una hectárea, así como las parcelas de cultivos leñosos irregulares o alargadas cuya dimensión mínima en el sentido transversal a la pendiente sea inferior a 100 metros en cualquier punto de la parcela.
+
+En el caso de plantaciones de cultivos leñosos que estuvieran implantadas antes del 1 de enero de 2023, se tendrá en cuenta lo indicado en el artículo 17 bis. Las autoridades competentes llevarán a cabo un seguimiento de todas las excepciones que autoricen, y en el caso de las autorizaciones colectivas para superficies de viñedo se tendrá en cuenta lo indicado en el artículo 17 bis.
+
+Asimismo, como excepción a la BCAM se permite la práctica del aserpiado y el intercepas en las superficies de viñedo, al ser prácticas tradicionales acordes con el objetivo de esta BCAM.
+
+Además, las comunidades autónomas podrán autorizar labrar en la dirección de máxima pendiente cuando el labrar transversalmente pueda suponer un riesgo de vuelco de la maquinaria y por ende de la vida de los operarios.
+
+Se entiende por pendiente media de un recinto SIGPAC la inclinación media del terreno comprendido en los límites de un recinto, expresada en tanto por ciento y calculada con base en el Modelo Digital de Elevaciones perteneciente a la Información Geoespacial de Referencia del Instituto Geográfico Nacional siguiendo el método de análisis de celdas vecinas.
+
+BCAM 6. Cobertura mínima del suelo para evitar suelos desnudos en los períodos más sensibles.
+
+Para mantener una cubierta mínima del suelo, se deberán mantener las siguientes obligaciones dependiendo de los distintos sistemas de cultivo:
+
+– Cultivos herbáceos.
+
+En las parcelas agrícolas que se siembren con cultivos herbáceos de invierno que dejen rastrojo o restos de cosecha no se labrará el suelo con volteo ni se realizarán labores profundas entre la fecha de recolección de la cosecha y el 1 de septiembre, fecha que se establece como referencia del inicio de la presiembra. Se permitirá la realización de la práctica de abonado en verde sobre estas superficies.
+
+El suelo deberá mantenerse cubierto permanentemente salvo el tiempo imprescindible entre el levantamiento del rastrojo de la cosecha anterior y la siembra, teniendo en cuenta las características del cultivo siguiente.
+
+No obstante, las comunidades autónomas podrán adaptar la fecha establecida en el primer párrafo en ciertas zonas a sus condiciones climáticas locales, con vistas a mantener durante el mayor periodo posible una cubierta vegetal.
+
+Se entiende por labrar la tierra con volteo, invertir la tierra de la capa más superficial del suelo cultivado con el auxilio de arados, poniendo una parte de la tierra de un estrato inferior en un estrato superior. Se consideran labores con volteo las realizadas, entre otros, con arado de cohecho, vernetes, arados de vertedera y arados de discos de desfonde.
+
+– Cultivos leñosos.
+
+En el caso de cultivos leñosos en pendiente igual o superior al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales, será necesario mantener una cubierta vegetal que podrá ser sembrada, espontánea o inerte, de anchura mínima de 1 metro en las calles transversales a la línea de máxima pendiente o en las calles paralelas a dicha línea, cuando el diseño de la parcela o el sistema de riego impidan su establecimiento en la otra dirección, entre los meses de octubre a marzo, ambos incluidos. Este periodo podrá ser ajustado por las autoridades competentes de las comunidades autónomas en función de las condiciones locales, y sin que el mismo pueda ser inferior a cuatro meses consecutivos entre los meses de octubre a marzo.
+
+No obstante, en el momento en que pueda competir con el cultivo o imposibilite su recolección, las comunidades autónomas podrán autorizar la eliminación de dicha cubierta, pudiendo ser incorporada mediante una labor superficial, respetando en todo caso lo establecido en el apartado relativo a cultivos leñosos de la BCAM 5. No se podrá arrancar ningún pie de cultivos leñosos situados en recintos de pendiente igual o superior al 10 %, salvo en las zonas en las que así se establezca y sea objeto de reposición autorizada por la autoridad competente. En estos casos hay que respetar las normas destinadas a su reconversión cultural y varietal y a los cambios de cultivo o aprovechamiento. Quedan exceptuados aquellos recintos en los que la pendiente real del recinto esté compensada mediante terrazas de retención o bancales.
+
+No obstante, en las superficies de viñedo se podrá llevar a cabo la práctica del aserpiado como práctica tradicional beneficiosa para los objetivos perseguidos a través de la BCAM, siempre y cuando una vez finalizada la técnica del aserpiado, no se lleven a cabo labores que impidan el desarrollo de una cubierta vegetal hasta la finalización del periodo de duración de la obligación establecida.
+
+– Tierras de barbecho. Se realizarán prácticas tradicionales de manejo del suelo, prácticas de mínimo laboreo o mantenimiento de una cubierta adecuada del suelo.
+
+– En las parcelas agrícolas que se encuentren incluidas en las zonas de influencia forestal se podrá establecer la obligación de labrar una franja perimetral de la anchura necesaria para que sirva de cortafuego.
+
+BCAM 7. Rotación en tierras de cultivo, excepto en cultivos bajo agua.
+
+Los beneficiarios podrán elegir aplicar en sus tierras de cultivo una de las dos siguientes prácticas para poder cumplir con la BCAM:
+
+Práctica 1: Rotación de cultivos.
+
+Para dar cumplimiento con esta práctica de rotación de cultivos, las tierras de cultivo de la explotación deberán cumplir las siguientes obligaciones:
+
+Anualmente, al menos el 33 % de la superficie de las tierras de cultivo de la explotación presente un cultivo principal diferente con respecto al declarado el año anterior, excepto en el caso de las parcelas cultivadas con cultivos plurianuales y cultivos bajo agua.
+
+Todas las parcelas de la explotación agrícola tendrán que cambiar de cultivo al menos una vez cada tres años, debiendo quienes se acojan a esta práctica de rotación cumplir con la misma durante tres años consecutivos.
+
+Cuando exista un cultivo secundario en el mismo año que el cultivo principal, éste se considerará parte de la rotación, sin que se puedan utilizar las tierras en barbecho en estos casos. El cultivo secundario es el que se realiza entre dos cultivos principales, dando lugar a una pausa significativa entre los principales. En el caso de que se utilice el cultivo secundario como justificación a la rotación de cultivos, será necesario llevarlo a cabo durante tres años consecutivos. Se considerará cultivo principal aquél que se encuentre en la parcela entre los meses de mayo a julio, periodo que puede ser ajustado por las comunidades autónomas en función de las condiciones agroclimáticas de la región.
+
+Práctica 2: Diversificación de cultivos.
+
+Para dar cumplimiento con esta práctica de diversificación anual de cultivos, las tierras de cultivo de la explotación deberán:
+
+a) Si la tierra de cultivo de la explotación es superior a 10 hectáreas e igual o inferior a 30 hectáreas, se deben cultivar, al menos, dos cultivos diferentes sin que el mayoritario suponga más del 75 % de dicha tierra de cultivo.
+
+b) Si la tierra de cultivo de la explotación es superior a las 30 hectáreas, debe haber, al menos, tres cultivos diferentes, sin que el mayoritario suponga más del 75 % de dicha tierra de cultivo y los dos cultivos mayoritarios juntos no podrán ocupar más del 95 % de la misma.
+
+Otros aspectos relativos a la BCAM 7.
+
+A efectos del cumplimiento de esta BCAM, se entenderá por cultivo cualquiera de las siguientes acepciones:
+
+– el cultivo de cualquiera de los diferentes géneros definidos en la clasificación botánica de cultivos;
+
+– el cultivo de cualquiera de las especies, en el caso de las familias botánicas*Brassicaceae*, *Solanaceae* y *Cucurbitacea*y en el caso del género *Vicia*;
+
+– la tierra en barbecho;
+
+– la hierba u otros forrajes herbáceos.
+
+En el caso de superficies con cultivos mixtos en hileras, cada cultivo se contabilizará como un cultivo distinto si representa, al menos, el 25 % de dicha superficie. En tal caso, la superficie cubierta por cada cultivo se calculará dividiendo la superficie total dedicada al cultivo mixto por el número de cultivos presentes que cubran, como mínimo, el 25 % de dicha superficie, con independencia de la proporción real de cada cultivo.
+
+Las superficies que se siembren con una mezcla de semillas se consideran cubiertas por un solo cultivo denominado cultivo mixto. No obstante, cuando la composición de la mezcla se pueda determinar y diferenciar de otras mezclas, el cultivo mixto se podrá considerar como un cultivo distinto de los demás cultivos mixtos.
+
+No obstante, quedan exentas del cumplimiento de la BCAM las explotaciones:
+
+a) En las que más del 75 % de las tierras de cultivo se utilice para producir hierbas u otros forrajes herbáceos, se utilice para el cultivo de leguminosas, sea tierras en barbecho o esté sujeto a una combinación de esos usos.
+
+b) En las que más del 75 % de la superficie agrícola admisible sean pastos permanentes, se utilice para producir hierbas u otros forrajes herbáceos o para cultivos bajo agua durante una parte significativa del año o del ciclo de cultivo, o esté sujeto a una combinación de estos usos.
+
+c) En las que la superficie de tierra cultivable es inferior o igual a 10 hectáreas.
+
+d) Las certificadas de acuerdo con el Reglamento (UE) núm. 2018/848, sobre producción ecológica y etiquetado de los productos ecológicos.
+
+e) Las tierras de cultivo destinadas al cultivo de hortícolas y al cultivo de la patata de las explotaciones situadas en la Comunidad Autónoma de Canarias desde el 1 de enero de 2025.
+
+4\. Aspecto principal: Biodiversidad y paisaje (protección y calidad)
+
+BCAM 8. Mantenimiento de los elementos del paisaje, prohibición de cortar setos y árboles durante la temporada de cría y reproducción de las aves.
+
+Se deberán cumplir las siguientes obligaciones:
+
+1\. **(Suprimido)**
+
+2\. Mantenimiento de los elementos del paisaje.
+
+– No se podrá efectuar una alteración de las particularidades topográficas o elementos del paisaje, salvo en el caso de contar con autorización expresa de la autoridad competente.
+
+Se consideran particularidades topográficas o elementos del paisaje aquellas características del terreno tales como setos, árboles aislados, en hilera y en grupos, lindes, charcas, lagunas, estanques y abrevaderos naturales, islas y enclaves de vegetación natural o roca, pequeños humedales, terrazas de retención y, cuando la comunidad autónoma así lo determine, majanos, pequeñas construcciones tales como muretes de piedra seca, antiguos palomares u otros elementos de arquitectura tradicional que puedan servir de cobijo para la flora y la fauna, a excepción de aquellas construcciones que pudieran entrañar algún riesgo sanitario para la cabaña ganadera o para la fauna silvestre.
+
+En este sentido se consideran:
+
+– Setos: alineación densa y uniforme de arbustos que se utiliza para cercar, delimitar o cubrir zonas y terrenos.
+
+– Lindes: banda de terreno estable que discurre paralela al límite de la parcela agrícola y la separa físicamente.
+
+– Terrazas de retención: los bancales de piedra seca, los ribazos provistos de vegetación herbácea, arbustiva o arbórea, las terrazas y zanjas de contorno en el caso de laboreo a nivel y las barreras vivas vegetales perpendiculares a la pendiente que, mediante el control de las escorrentías, protegen el suelo de la erosión.
+
+Se exceptúan de la obligación establecida en el párrafo anterior, la construcción de paradas para corrección de ramblas, regueros y bancales, así como las operaciones de refinado de tierras que se realicen en aquellas parcelas que se vayan a dedicar al cultivo del arroz y otros de regadío.
+
+Se entenderá por refinado de tierras aquellas operaciones de acondicionamiento de la superficie del suelo de los bancales y tierras de regadío destinadas a mejorar la eficiencia de uso del agua y facilitar la práctica del riego, realizadas sobre parcelas de cultivo en las que se utilizan métodos de riego por gravedad, por superficie e inundación.
+
+Las comunidades autónomas establecerán las características descriptivas de los elementos del paisaje de forma justificada, atendiendo a sus particularidades paisajísticas regionales o locales, o posibles casos específicos y teniendo en cuenta los valores máximos de referencia que figuran a continuación:
+
+– Setos de una anchura de hasta 10 m.
+
+– Árboles en grupos que ocupen una superficie máxima de 0,3 ha.
+
+– Lindes de una anchura de hasta 10 metros.
+
+– Charcas, lagunas, estanques y abrevaderos naturales de hasta un máximo de 0,1 ha. No se considerarán los depósitos de cemento o de plástico.
+
+– Islas y enclaves de vegetación natural o roca: hasta un máximo de 0,1 ha.
+
+– Terrazas de retención de una anchura, en proyección horizontal, de hasta 10 metros.
+
+3\. Prohibición de cortar y podar setos y árboles no cultivados durante la temporada de cría y reproducción de las aves.
+
+No se podrán realizar operaciones de corta y poda de los setos y árboles no cultivados durante la época de cría y reproducción de las aves, salvo autorización expresa de la autoridad medioambiental. Se tomará como referencia el periodo comprendido entre los meses de marzo a agosto, pudiendo ser modificado de forma justificada por las comunidades autónomas.
+
+BCAM 9. Prohibición de convertir o arar los pastos permanentes declarados como pastos permanentes sensibles desde el punto de vista medioambiental en los espacios Natura 2000.
+
+Se deberá cumplir con las siguientes obligaciones:
+
+– No se podrán convertir ni labrar, ni efectuar labores más allá de las necesarias para su mantenimiento en los pastos permanentes designados como medioambientalmente sensibles, situados en las zonas que contemplan la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres, y la Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres.
+
+– En el caso de que un agricultor haya convertido o labrado pastos permanentes sujetos a la obligación contemplada en el apartado anterior, las personas beneficiarias de las ayudas estarán obligadas a la reconversión de dicha superficie de pastos permanentes, así como, si la autoridad competente lo determina, a respetar las instrucciones que esta establezca con la finalidad de invertir los daños causados al medio ambiente por dicha acción.
+
+5\. Aspectos principales: Agua y suelo
+
+BCAM 10. Fertilización sostenible.
+
+Se deberá cumplir con las siguientes obligaciones de acuerdo con el calendario y condiciones establecidas en el Real Decreto 1051/2022, de 27 de diciembre, por el que se establecen normas para la nutrición sostenible en los suelos agrarios.
+
+– Todas las operaciones encaminadas a aportar nutrientes o materia orgánica al suelo deben estar correctamente registradas en el cuaderno de explotación.
+
+– La explotación, cuando proceda, debe contar con un plan de abonado para cada unidad de producción de la misma.
+
+– Aplicación localizada de purines y enterrado de estiércoles sólidos en las superficies agrícolas.
+
+> Se modifica el apartado 3 por el art. 4 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
+
+> Se modifican los apartados 3 y 4 por el art. único.8 a 11 del Real Decreto 567/2024, de 18 de junio. [Ref. BOE-A-2024-12378](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12378)
+
+> Téngase en cuenta que estas modificaciones surten efectos conforme a lo que establece la disposición final 3 del citado Real Decreto
+
+> Se modifican los apartados 1, 3 y 4 por el art. 4.5 a 9 del Real Decreto 1177/2023, de 27 de diciembre. [Ref. BOE-A-2023-26460](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26460)
+
+> Se modifican los apartados 1 y 4 por la disposición final 8 del Decreto 147/2023, de 28 de febrero. [Ref. BOE-A-2023-5370](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5370)
+
+## ANEXO III — Normas de condicionalidad social
+
+<table>
+<thead>
+<tr>
+<th>Ámbitos</th>
+<th>Legislación aplicable</th>
+<th>Disposiciones pertinentes</th>
+<th>Requisitos</th>
+<th>Normas nacionales de referencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7">Empleo.</td>
+<td rowspan="7">
+<p>Condiciones laborales transparentes y previsibles.</p>
+<p>Directiva (UE) 2019/1152.</p>
+</td>
+<td>Artículo 3.</td>
+<td>Las condiciones laborales deben facilitarse por escrito («contrato de trabajo»).</td>
+<td rowspan="7">
+<p>Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.</p>
+<p>Real Decreto 1659/1998, de 24 de julio, por el que se desarrolla el artículo 8, apartado 5, de la Ley del Estatuto de los Trabajadores en materia de información al trabajador sobre los elementos esenciales del contrato de trabajo.</p>
+</td>
+</tr>
+<tr>
+<td>Artículo 4.</td>
+<td>Debe garantizarse que el empleo agrícola esté sujeto a un contrato de trabajo.</td>
+</tr>
+<tr>
+<td>Artículo 5.</td>
+<td>El contrato de trabajo debe facilitarse en los primeros siete días de trabajo.</td>
+</tr>
+<tr>
+<td>Artículo 6.</td>
+<td>Los cambios en la relación laboral deben presentarse en forma de documento.</td>
+</tr>
+<tr>
+<td>Artículo 8.</td>
+<td>Período de prueba.</td>
+</tr>
+<tr>
+<td>Artículo 10.</td>
+<td>Condiciones relativas a la previsibilidad mínima del trabajo.</td>
+</tr>
+<tr>
+<td>Artículo 13.</td>
+<td>Formación obligatoria.</td>
+</tr>
+<tr>
+<td rowspan="8">Salud y seguridad.</td>
+<td rowspan="8">
+<p>Medidas para promover la mejora de la seguridad y de la salud de los trabajadores.</p>
+<p>Directiva 89/391/CEE.</p>
+</td>
+<td>Artículo 5.</td>
+<td>Disposición general por la que se establece el deber del empresario de garantizar la seguridad y la salud de los trabajadores.</td>
+<td rowspan="8">Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.</td>
+</tr>
+<tr>
+<td>Artículo 6.</td>
+<td>Obligación general de los empresarios de adoptar las medidas necesarias para la protección de la seguridad y de la salud, incluidas las actividades de prevención de riesgos, de información y de formación.</td>
+</tr>
+<tr>
+<td>Artículo 7.</td>
+<td>Servicios de protección y prevención: designación de uno o varios trabajadores para asumir las actividades relativas a la salud y la seguridad o contratación de un servicio externo competente.</td>
+</tr>
+<tr>
+<td>Artículo 8.</td>
+<td>El empresario debe tomar medidas en materia de primeros auxilios, lucha contra incendios y evacuación de los trabajadores.</td>
+</tr>
+<tr>
+<td>Artículo 9.</td>
+<td>Obligaciones de los empresarios en materia de evaluación de riesgos, medidas y equipos de protección y registro y notificación de accidentes laborales.</td>
+</tr>
+<tr>
+<td>Artículo 10.</td>
+<td>Información a los trabajadores sobre los riesgos para la seguridad y la salud y sobre las medidas de protección y prevención.</td>
+</tr>
+<tr>
+<td>Artículo 11.</td>
+<td>Consulta y participación de los trabajadores en relación con todas las cuestiones relacionadas con la seguridad y la salud en el trabajo.</td>
+</tr>
+<tr>
+<td>Artículo 12.</td>
+<td>El empresario debe garantizar que los trabajadores reciban una formación adecuada en materia de seguridad y salud.</td>
+</tr>
+<tr>
+<td rowspan="7">Salud y seguridad.</td>
+<td rowspan="7">
+<p>Disposiciones mínimas de seguridad y de salud para la utilización por los trabajadores de los equipos de trabajo.</p>
+<p>Directiva 2009/104/CE.</p>
+</td>
+<td>Artículo 3.</td>
+<td>Obligaciones generales para garantizar que los equipos de trabajo son adecuados para el trabajo que deben realizar los trabajadores sin menoscabo de la seguridad o la salud.</td>
+<td rowspan="7">
+<p>Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.</p>
+<p>Real Decreto 1215/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo.</p>
+</td>
+</tr>
+<tr>
+<td>Artículo 4.</td>
+<td>Normas relativas a los equipos de trabajo: deben cumplir cualquier Directiva aplicable y los requisitos mínimos establecidos y ser objeto de un mantenimiento adecuado.</td>
+</tr>
+<tr>
+<td>Artículo 5.</td>
+<td>Comprobación de los equipos de trabajo: comprobación de los equipos tras su instalación y comprobaciones periódicas a cargo de personal competente.</td>
+</tr>
+<tr>
+<td>Artículo 6.</td>
+<td>El uso de equipos de trabajo que entrañen riesgos específicos se limitará a las personas encargadas de utilizarlos y todos los trabajos de reparación, transformación y mantenimiento deben llevarlos a cabo los trabajadores designados.</td>
+</tr>
+<tr>
+<td>Artículo 7.</td>
+<td>Ergonomía y salud en el trabajo.</td>
+</tr>
+<tr>
+<td>Artículo 8.</td>
+<td>Los trabajadores deben recibir información adecuada y, cuando proceda, instrucciones por escrito sobre el uso de los equipos de trabajo.</td>
+</tr>
+<tr>
+<td>Artículo 9.</td>
+<td>Los trabajadores deben recibir una formación adecuada.</td>
+</tr>
+</tbody>
+</table>

@@ -1116,84 +1116,78 @@ Los límites de ingresos anuales en el año 2025 para las personas beneficiarias
 
 No obstante, la cuantía de la asignación económica será en cómputo anual de 637,92 euros en los casos en que los ingresos familiares sean inferiores a los importes señalados en la siguiente tabla:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Integrantes del hogar</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo de ingresos</th>
-<th class="cabeza_tabla" rowspan="2">Asignación íntegra anual</th>
+<th colspan="2">Integrantes del hogar</th>
+<th rowspan="2">Intervalo de ingresos</th>
+<th rowspan="2">Asignación íntegra anual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Personas ≥ 14 años (M)</th>
-<th class="cabeza_tabla">Personas &lt; 14 años (N)</th>
+<th>Personas ≥ 14 años (M)</th>
+<th>Personas &lt; 14 años (N)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">5.685 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>1</td>
+<td>5.685 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">6.996 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>2</td>
+<td>6.996 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">8.307 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>3</td>
+<td>8.307 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">7.870 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>1</td>
+<td>7.870 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">9.181 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>2</td>
+<td>9.181 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">10.492 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>3</td>
+<td>10.492 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">10.056 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>1</td>
+<td>10.056 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">11.367 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>2</td>
+<td>11.367 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">12.677 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>3</td>
+<td>12.677 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">4.373 + [(4.373 x 0,5 x (M-1)) + (4.373 x 0,3 x N)] o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>M</td>
+<td>N</td>
+<td>4.373 + [(4.373 x 0,5 x (M-1)) + (4.373 x 0,3 x N)] o menos.</td>
+<td>637,92 x H</td>
 </tr>
 </tbody>
 </table>
@@ -1726,969 +1720,942 @@ Nueve. Se sustituye el anexo VIII, por el siguiente:
 
 > Presupuesto de explotación: Cuenta del resultado económico-patrimonial
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="6"> </th>
-> <th class="cabeza_tabla">Presupuesto 2024</th>
+> <th colspan="6"> </th>
+> <th>Presupuesto 2024</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Transferencias y subvenciones recibidas</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>1.</td>
+> <td colspan="3">Transferencias y subvenciones recibidas</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq">Del ejercicio</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td>Del ejercicio</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a.1)</td>
-> <td class="cuerpo_tabla_izq">Subvenciones recibidas para financiar gastos del ejercicio</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a.1)</td>
+> <td>Subvenciones recibidas para financiar gastos del ejercicio</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de la Administración General del Estado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de la Administración General del Estado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de los organismos autónomos de la Administración General del Estado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de los organismos autónomos de la Administración General del Estado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de otros del sector público estatal de carácter administrativo</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de otros del sector público estatal de carácter administrativo</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">del sector público estatal de carácter empresarial o fundacional</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>del sector público estatal de carácter empresarial o fundacional</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de la Unión Europea</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de la Unión Europea</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de otros (especificar)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de otros (especificar)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a.2)</td>
-> <td class="cuerpo_tabla_izq">transferencias</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a.2)</td>
+> <td>transferencias</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de la Administración General del Estado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de la Administración General del Estado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de los organismos autónomos de la Administración General del Estado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de los organismos autónomos de la Administración General del Estado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de otros del sector público estatal de carácter administrativo</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de otros del sector público estatal de carácter administrativo</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">del sector público estatal de carácter empresarial o fundacional</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>del sector público estatal de carácter empresarial o fundacional</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de la Unión Europea</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de la Unión Europea</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de otros (especificar)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de otros (especificar)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a.3)</td>
-> <td class="cuerpo_tabla_izq">subvenciones recibidas para cancelación de pasivos que no supongan financiación específica de un elemento patrimonial</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a.3)</td>
+> <td>subvenciones recibidas para cancelación de pasivos que no supongan financiación específica de un elemento patrimonial</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de la Administración General del Estado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de la Administración General del Estado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de los organismos autónomos de la Administración General del Estado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de los organismos autónomos de la Administración General del Estado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de otros del sector público estatal de carácter administrativo</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de otros del sector público estatal de carácter administrativo</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">del sector público estatal de carácter empresarial o fundacional</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>del sector público estatal de carácter empresarial o fundacional</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de la Unión Europea</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de la Unión Europea</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq">de otros (especificar)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td>de otros (especificar)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Imputación de subvenciones para activos corrientes y otras</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td colspan="2">Imputación de subvenciones para activos corrientes y otras</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">2.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Otros ingresos de gestión ordinaria</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>2.</td>
+> <td colspan="3">Otros ingresos de gestión ordinaria</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">3.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Excesos de provisiones</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>3.</td>
+> <td colspan="3">Excesos de provisiones</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">A)</td>
-> <td class="cuerpo_tabla_izq" colspan="4">TOTAL INGRESOS DE GESTIÓN ORDINARIA</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td>A)</td>
+> <td colspan="4">TOTAL INGRESOS DE GESTIÓN ORDINARIA</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">4.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Transferencias y subvenciones concedidas</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>4.</td>
+> <td colspan="3">Transferencias y subvenciones concedidas</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq" colspan="2">de otros del sector público estatal de carácter administrativo</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td colspan="2">de otros del sector público estatal de carácter administrativo</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq" colspan="2">del sector público estatal de carácter empresarial o fundacional</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td colspan="2">del sector público estatal de carácter empresarial o fundacional</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">- </td>
-> <td class="cuerpo_tabla_izq" colspan="2">de otros (especificar)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>- </td>
+> <td colspan="2">de otros (especificar)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">5.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Otros gastos de gestión ordinaria</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>5.</td>
+> <td colspan="3">Otros gastos de gestión ordinaria</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Suministros y servicios exteriores</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td colspan="2">Suministros y servicios exteriores</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq">Otros</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td>Otros</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">B)</td>
-> <td class="cuerpo_tabla_izq" colspan="4">TOTAL DE GASTOS DE GESTIÓN ORDINARIA (4+5)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td>B)</td>
+> <td colspan="4">TOTAL DE GASTOS DE GESTIÓN ORDINARIA (4+5)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">I.</td>
-> <td class="cuerpo_tabla_izq" colspan="5">Resultado (Ahorro o desahorro) de la gestión ordinaria (A+B)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td>I.</td>
+> <td colspan="5">Resultado (Ahorro o desahorro) de la gestión ordinaria (A+B)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">6.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Otras partidas no ordinarias</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>6.</td>
+> <td colspan="3">Otras partidas no ordinarias</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq">Ingresos</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td>Ingresos</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq">Gastos</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td>Gastos</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">II.</td>
-> <td class="cuerpo_tabla_izq" colspan="5">Resultado de las operaciones no financieras (I+6)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td>II.</td>
+> <td colspan="5">Resultado de las operaciones no financieras (I+6)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">7.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Ingresos financieros</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>7.</td>
+> <td colspan="3">Ingresos financieros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">De participaciones en instrumentos de patrimonio</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td colspan="2">De participaciones en instrumentos de patrimonio</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a.1)</td>
-> <td class="cuerpo_tabla_izq">En entidades del grupo, multigrupo y asociadas</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a.1)</td>
+> <td>En entidades del grupo, multigrupo y asociadas</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a.2)</td>
-> <td class="cuerpo_tabla_izq">En otras entidades</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a.2)</td>
+> <td>En otras entidades</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">De valores negociables y de créditos del activo inmovilizado</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td colspan="2">De valores negociables y de créditos del activo inmovilizado</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b.1)</td>
-> <td class="cuerpo_tabla_izq">En entidades del grupo, multigrupo y asociadas</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b.1)</td>
+> <td>En entidades del grupo, multigrupo y asociadas</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b.2)</td>
-> <td class="cuerpo_tabla_izq">Otros</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b.2)</td>
+> <td>Otros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">8.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Gastos financieros</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>8.</td>
+> <td colspan="2">Gastos financieros</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Por entidades del grupo, multigrupo y asociadas</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td colspan="2">Por entidades del grupo, multigrupo y asociadas</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq">Otros</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td>Otros</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">9.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Variación del valor razonable en activos y pasivos financieros</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>9.</td>
+> <td colspan="3">Variación del valor razonable en activos y pasivos financieros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Derivados financieros</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td colspan="2">Derivados financieros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">otros activos y pasivos a valor razonable con imputación en resultados</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td colspan="2">otros activos y pasivos a valor razonable con imputación en resultados</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">c)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Imputación al resultado del ejercicio por activos financieros disponibles para la venta</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>c)</td>
+> <td colspan="2">Imputación al resultado del ejercicio por activos financieros disponibles para la venta</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">10.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Diferencias de cambio</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>10.</td>
+> <td colspan="3">Diferencias de cambio</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">11.</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Deterioro de valor, bajas y enajenaciones de activos y pasivos financieros</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td>11.</td>
+> <td colspan="3">Deterioro de valor, bajas y enajenaciones de activos y pasivos financieros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">a)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">De entidades del grupo, multigrupo y asociadas</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>a)</td>
+> <td colspan="2">De entidades del grupo, multigrupo y asociadas</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">b)</td>
-> <td class="cuerpo_tabla_izq">Otros</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>b)</td>
+> <td>Otros</td>
+> <td> </td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">III.</td>
-> <td class="cuerpo_tabla_izq" colspan="5">Resultado de las operaciones financieras (7+8+9+10+11)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td>III.</td>
+> <td colspan="5">Resultado de las operaciones financieras (7+8+9+10+11)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">IV.</td>
-> <td class="cuerpo_tabla_izq" colspan="5">Resultado (Ahorro o desahorro) neto del ejercicio (II+III)</td>
-> <td class="cuerpo_tabla_centro">0</td>
+> <td>IV.</td>
+> <td colspan="5">Resultado (Ahorro o desahorro) neto del ejercicio (II+III)</td>
+> <td>0</td>
 > </tr>
 > </tbody>
 > </table>
 
 > Balance
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="4">Activo</th>
-> <th class="cabeza_tabla">Cierre Provis. 2024</th>
-> <th class="cabeza_tabla" colspan="3">Patrimonio Neto y Pasivo</th>
-> <th class="cabeza_tabla" colspan="2">Cierre Provis. 2024</th>
+> <th colspan="4">Activo</th>
+> <th>Cierre Provis. 2024</th>
+> <th colspan="3">Patrimonio Neto y Pasivo</th>
+> <th colspan="2">Cierre Provis. 2024</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">A)</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Activo no corriente</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq">A)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Patrimonio neto</td>
-> <td class="cuerpo_tabla_coma" colspan="2">451.000</td>
+> <td>A)</td>
+> <td colspan="3">Activo no corriente</td>
+> <td>0</td>
+> <td>A)</td>
+> <td colspan="2">Patrimonio neto</td>
+> <td colspan="2">451.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">I.</td>
-> <td class="cuerpo_tabla_izq">Patrimonio aportado</td>
-> <td class="cuerpo_tabla_coma" colspan="2">451.000</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>I.</td>
+> <td>Patrimonio aportado</td>
+> <td colspan="2">451.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">III</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Deudores y otras cuentas a cobrar a largo plazo</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td>III</td>
+> <td colspan="2">Deudores y otras cuentas a cobrar a largo plazo</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1</td>
-> <td class="cuerpo_tabla_izq">Deudores por actividad principal</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">II.</td>
-> <td class="cuerpo_tabla_izq">Patrimonio generado</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td>1</td>
+> <td>Deudores por actividad principal</td>
+> <td>0</td>
+> <td> </td>
+> <td>II.</td>
+> <td>Patrimonio generado</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">Deudores por actividad principal otras entidades</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1. Resultados de ejercicios anteriores</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>Deudores por actividad principal otras entidades</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td>1. Resultados de ejercicios anteriores</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">Correcciones valorativas por deterioro</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">2. Resultados del ejercicio</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>Correcciones valorativas por deterioro</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td>2. Resultados del ejercicio</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_izq">B)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pasivo corriente</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>B)</td>
+> <td colspan="2">Pasivo corriente</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">II.</td>
-> <td class="cuerpo_tabla_izq">Deudas a largo plazo</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>II.</td>
+> <td>Deudas a largo plazo</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">B)</td>
-> <td class="cuerpo_tabla_izq" colspan="3">Activo corriente</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td>B)</td>
+> <td colspan="3">Activo corriente</td>
+> <td>451.000</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">I.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Deudores y otras cuentas a cobrar</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq">C)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pasivo corriente</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td>I.</td>
+> <td colspan="2">Deudores y otras cuentas a cobrar</td>
+> <td>0</td>
+> <td>C)</td>
+> <td colspan="2">Pasivo corriente</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1.</td>
-> <td class="cuerpo_tabla_izq">Deudores por actividad principal</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">II.</td>
-> <td class="cuerpo_tabla_izq">Deudas a corto plazo</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td>1.</td>
+> <td>Deudores por actividad principal</td>
+> <td>0</td>
+> <td> </td>
+> <td>II.</td>
+> <td>Deudas a corto plazo</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">Deudores por actividad principal otras entidades</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1. Otros pasivos financieros</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>Deudores por actividad principal otras entidades</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td>1. Otros pasivos financieros</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">Correcciones valorativas por deterioro</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>Correcciones valorativas por deterioro</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">3.</td>
-> <td class="cuerpo_tabla_izq">Administraciones públicas</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">IV.</td>
-> <td class="cuerpo_tabla_izq">Acreedores y otras cuentas a pagar</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td>3.</td>
+> <td>Administraciones públicas</td>
+> <td>0</td>
+> <td> </td>
+> <td>IV.</td>
+> <td>Acreedores y otras cuentas a pagar</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">III.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Inversiones financieras a corto plazo</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1. Acreedores por operaciones derivadas de la actividad</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td>III.</td>
+> <td colspan="2">Inversiones financieras a corto plazo</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td>1. Acreedores por operaciones derivadas de la actividad</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">4.</td>
-> <td class="cuerpo_tabla_izq">Otras inversiones financieras</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">2. Otras cuentas a pagar</td>
-> <td class="cuerpo_tabla_coma" colspan="2">0</td>
+> <td> </td>
+> <td> </td>
+> <td>4.</td>
+> <td>Otras inversiones financieras</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td>2. Otras cuentas a pagar</td>
+> <td colspan="2">0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">V.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Efectivo y otros activos líquidos equivalentes</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td>V.</td>
+> <td colspan="2">Efectivo y otros activos líquidos equivalentes</td>
+> <td>451.000</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1.</td>
-> <td class="cuerpo_tabla_izq">Otros activos líquidos equivalentes</td>
-> <td class="cuerpo_tabla_coma">0</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td> </td>
+> <td>1.</td>
+> <td>Otros activos líquidos equivalentes</td>
+> <td>0</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">2.</td>
-> <td class="cuerpo_tabla_izq">Tesorería</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td> </td>
+> <td>2.</td>
+> <td>Tesorería</td>
+> <td>451.000</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_coma" colspan="2"> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td colspan="2"> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="4">TOTAL ACTIVO (A+B)</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
-> <td class="cuerpo_tabla_izq" colspan="3">TOTAL PATRIMONIO NETO Y PASIVO (A+C)</td>
-> <td class="cuerpo_tabla_coma" colspan="2">451.000</td>
+> <td colspan="4">TOTAL ACTIVO (A+B)</td>
+> <td>451.000</td>
+> <td colspan="3">TOTAL PATRIMONIO NETO Y PASIVO (A+C)</td>
+> <td colspan="2">451.000</td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="3">Estado de flujos de efectivo</th>
-> <th class="cabeza_tabla">Cierre Provis. 2024</th>
+> <th colspan="3">Estado de flujos de efectivo</th>
+> <th>Cierre Provis. 2024</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">I.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">FLUJOS DE EEFECTIVO DE LAS ACTIVIDADES DE GESTIÓN</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>I.</td>
+> <td colspan="2">FLUJOS DE EEFECTIVO DE LAS ACTIVIDADES DE GESTIÓN</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">A)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Cobros:</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>A)</td>
+> <td colspan="2">Cobros:</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1.</td>
-> <td class="cuerpo_tabla_izq">Transferencias y subvenciones recibidas</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td>1.</td>
+> <td>Transferencias y subvenciones recibidas</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">2.</td>
-> <td class="cuerpo_tabla_izq">Intereses y dividendos cobrados</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td>2.</td>
+> <td>Intereses y dividendos cobrados</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">3.</td>
-> <td class="cuerpo_tabla_izq">Otros cobros</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td>3.</td>
+> <td>Otros cobros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">B)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pagos:</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>B)</td>
+> <td colspan="2">Pagos:</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">4.</td>
-> <td class="cuerpo_tabla_izq">Transferencias y subvenciones concedidas</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td>4.</td>
+> <td>Transferencias y subvenciones concedidas</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">5.</td>
-> <td class="cuerpo_tabla_izq">Otros gastos de gestión</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td>5.</td>
+> <td>Otros gastos de gestión</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">6.</td>
-> <td class="cuerpo_tabla_izq">Intereses pagados</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td>6.</td>
+> <td>Intereses pagados</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">7.</td>
-> <td class="cuerpo_tabla_izq">Otros pagos</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td>7.</td>
+> <td>Otros pagos</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">Flujos netos de efectivo por actividades de gestión (+A-B)</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td colspan="3">Flujos netos de efectivo por actividades de gestión (+A-B)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">II.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE INVERSIÓN</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>II.</td>
+> <td colspan="2">FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE INVERSIÓN</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">C)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Cobros:</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>C)</td>
+> <td colspan="2">Cobros:</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq" colspan="2">Venta de activos financieros</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td colspan="2">Venta de activos financieros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">D)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pagos:</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>D)</td>
+> <td colspan="2">Pagos:</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq" colspan="2">Compra de activos financieros</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td colspan="2">Compra de activos financieros</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">Flujos netos de efectivo por actividades de inversión (+C-D)</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td colspan="3">Flujos netos de efectivo por actividades de inversión (+C-D)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">III.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE FINANCIACIÓN</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>III.</td>
+> <td colspan="2">FLUJOS DE EFECTIVO DE LAS ACTIVIDADES DE FINANCIACIÓN</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">E)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Aumentos en el patrimonio:</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
+> <td>E)</td>
+> <td colspan="2">Aumentos en el patrimonio:</td>
+> <td>451.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">1.</td>
-> <td class="cuerpo_tabla_izq">Aportaciones de la entidad en la que se integra el fondo.</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
+> <td> </td>
+> <td>1.</td>
+> <td>Aportaciones de la entidad en la que se integra el fondo.</td>
+> <td>451.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">F)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pagos a la entidad en la que se integra el fondo.</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>F)</td>
+> <td colspan="2">Pagos a la entidad en la que se integra el fondo.</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">2.</td>
-> <td class="cuerpo_tabla_izq">Devolución de aportaciones y reparto de resultados</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td>2.</td>
+> <td>Devolución de aportaciones y reparto de resultados</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">G)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Cobro por emisión de pasivos financieros:</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>G)</td>
+> <td colspan="2">Cobro por emisión de pasivos financieros:</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">3.</td>
-> <td class="cuerpo_tabla_izq">Préstamos recibidos</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td>3.</td>
+> <td>Préstamos recibidos</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">4.</td>
-> <td class="cuerpo_tabla_izq">Otras deudas</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td>4.</td>
+> <td>Otras deudas</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">H)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pagos por reembolso de pasivos financieros:</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td>H)</td>
+> <td colspan="2">Pagos por reembolso de pasivos financieros:</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">5.</td>
-> <td class="cuerpo_tabla_izq">Préstamos recibidos</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td> </td>
+> <td>5.</td>
+> <td>Préstamos recibidos</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">6.</td>
-> <td class="cuerpo_tabla_izq">Otras deudas</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td> </td>
+> <td>6.</td>
+> <td>Otras deudas</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">Flujos netos de efectivo por actividades de financiación (+E-F+G-H)</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
+> <td colspan="3">Flujos netos de efectivo por actividades de financiación (+E-F+G-H)</td>
+> <td>451.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">IV.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">FLUJOS DE EFECTIVO PENDIENTES DE CLASIFICACIÓN</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>IV.</td>
+> <td colspan="2">FLUJOS DE EFECTIVO PENDIENTES DE CLASIFICACIÓN</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">I)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Cobros pendientes de aplicación</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>I)</td>
+> <td colspan="2">Cobros pendientes de aplicación</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">J)</td>
-> <td class="cuerpo_tabla_izq" colspan="2">Pagos pendientes de aplicación</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>J)</td>
+> <td colspan="2">Pagos pendientes de aplicación</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">Flujos netos de efectivo pendientes de clasificación (+I-J)</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td colspan="3">Flujos netos de efectivo pendientes de clasificación (+I-J)</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">V.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">EFECTO DE LAS VARIACIONES DE LOS TIPOS DE CAMBIO</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td>V.</td>
+> <td colspan="2">EFECTO DE LAS VARIACIONES DE LOS TIPOS DE CAMBIO</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">VI.</td>
-> <td class="cuerpo_tabla_izq" colspan="2">INCREMENTO/DISMINUCIÓN NETA DEL EFECTIVO Y ACTIVOS LÍQUIDOS (I+II+III+IV+V)</td>
-> <td class="cuerpo_tabla_coma">451.000</td>
+> <td>VI.</td>
+> <td colspan="2">INCREMENTO/DISMINUCIÓN NETA DEL EFECTIVO Y ACTIVOS LÍQUIDOS (I+II+III+IV+V)</td>
+> <td>451.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">Efectivo y activos líquidos equivalentes al efectivo al inicio del ejercicio</td>
-> <td class="cuerpo_tabla_coma">0</td>
+> <td colspan="3">Efectivo y activos líquidos equivalentes al efectivo al inicio del ejercicio</td>
+> <td>0</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="3">Efectivo y activos líquidos equivalentes al efectivo al final del ejercicio</td>
-> <td class="cuerpo_tabla_coma">451.000»</td>
+> <td colspan="3">Efectivo y activos líquidos equivalentes al efectivo al final del ejercicio</td>
+> <td>451.000»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -2735,126 +2702,120 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
 Cuadro de cuantías mínimas de las pensiones de la modalidad contributiva para el año 2025
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="3">Titulares</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="3">Titulares</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Con cónyuge a<br> cargo<br> —<br> Euros/año</th>
-<th class="cabeza_tabla">Sin cónyuge:<br> Unidad<br> económica<br> unipersonal<br> —<br> Euros/año</th>
-<th class="cabeza_tabla">Con cónyuge<br> no a cargo<br> —<br> Euros/año</th>
+<th>Con cónyuge a<br> cargo<br> —<br> Euros/año</th>
+<th>Sin cónyuge:<br> Unidad<br> económica<br> unipersonal<br> —<br> Euros/año</th>
+<th>Con cónyuge<br> no a cargo<br> —<br> Euros/año</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Jubilación</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">12.241,60</td>
-<td class="cuerpo_tabla_coma">11.620,00</td>
+<td>Titular con sesenta y cinco años</td>
+<td>15.786,40</td>
+<td>12.241,60</td>
+<td>11.620,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">11.452,00</td>
-<td class="cuerpo_tabla_coma">10.824,80</td>
+<td>Titular menor de sesenta y cinco años</td>
+<td>15.786,40</td>
+<td>11.452,00</td>
+<td>10.824,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años procedente de gran invalidez.</td>
-<td class="cuerpo_tabla_coma">23.678,20</td>
-<td class="cuerpo_tabla_coma">18.362,40</td>
-<td class="cuerpo_tabla_coma">17.430,00</td>
+<td>Titular con sesenta y cinco años procedente de gran invalidez.</td>
+<td>23.678,20</td>
+<td>18.362,40</td>
+<td>17.430,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Incapacidad Permanente</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran invalidez</td>
-<td class="cuerpo_tabla_coma">23.678,20</td>
-<td class="cuerpo_tabla_coma">18.362,40</td>
-<td class="cuerpo_tabla_coma">17.430,00</td>
+<td>Gran invalidez</td>
+<td>23.678,20</td>
+<td>18.362,40</td>
+<td>17.430,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Absoluta</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">12.241,60</td>
-<td class="cuerpo_tabla_coma">11.620,00</td>
+<td>Absoluta</td>
+<td>15.786,40</td>
+<td>12.241,60</td>
+<td>11.620,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">12.241,60</td>
-<td class="cuerpo_tabla_coma">11.620,00</td>
+<td>Total: Titular con sesenta y cinco años</td>
+<td>15.786,40</td>
+<td>12.241,60</td>
+<td>11.620,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Titular con edad entre sesenta y sesenta y cuatro años</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">11.452,00</td>
-<td class="cuerpo_tabla_coma">10.824,80</td>
+<td>Total: Titular con edad entre sesenta y sesenta y cuatro años</td>
+<td>15.786,40</td>
+<td>11.452,00</td>
+<td>10.824,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Derivada de enfermedad común menor de sesenta años</td>
-<td class="cuerpo_tabla_coma">9.024,40</td>
-<td class="cuerpo_tabla_coma">9.024,40</td>
-<td class="cuerpo_tabla_coma">8.947,40</td>
+<td>Total: Derivada de enfermedad común menor de sesenta años</td>
+<td>9.024,40</td>
+<td>9.024,40</td>
+<td>8.947,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">12.241,60</td>
-<td class="cuerpo_tabla_coma">11.620,00</td>
+<td>Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</td>
+<td>15.786,40</td>
+<td>12.241,60</td>
+<td>11.620,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Viudedad</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con cargas familiares</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con cargas familiares</td>
+<td> </td>
+<td>15.786,40</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65 por 100</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">12.241,60</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65 por 100</td>
+<td> </td>
+<td>12.241,60</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">11.452,00</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con edad entre sesenta y sesenta y cuatro años</td>
+<td> </td>
+<td>11.452,00</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con menos de sesenta años</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">9.275,00</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con menos de sesenta años</td>
+<td> </td>
+<td>9.275,00</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2885,50 +2846,44 @@ Límite de ingresos para el reconocimiento de cuantías mínimas de pensión:
 
 Durante 2025 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, en los importes siguientes:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="3">Importe</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="3">Importe</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge: unidad económica unipersonal</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Sin cónyuge: unidad económica unipersonal</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge no a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge no a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión de jubilación o retiro.</td>
-<td class="cuerpo_tabla_coma">15.786,40</td>
-<td class="cuerpo_tabla_coma">12.241,60</td>
-<td class="cuerpo_tabla_coma">11.620,00</td>
+<td>Pensión de jubilación o retiro.</td>
+<td>15.786,40</td>
+<td>12.241,60</td>
+<td>11.620,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión de viudedad.</td>
-<td class="cuerpo_tabla_coma" colspan="3">12.241,60</td>
+<td>Pensión de viudedad.</td>
+<td colspan="3">12.241,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</td>
-<td class="cuerpo_tabla_coma" colspan="3">11.932,90/n</td>
+<td>Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</td>
+<td colspan="3">11.932,90/n</td>
 </tr>
 </tbody>
 </table>

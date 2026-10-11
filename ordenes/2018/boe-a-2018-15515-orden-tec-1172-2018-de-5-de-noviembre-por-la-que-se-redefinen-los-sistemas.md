@@ -67,13 +67,13 @@ Esta orden es de aplicación a todos los sujetos definidos en el artículo 6 de 
 
 Los sistemas eléctricos aislados de los cuatro territorios no peninsulares son los siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Canarias</th>
-<th class="cabeza_tabla">Illes Balears</th>
-<th class="cabeza_tabla">Ceuta</th>
-<th class="cabeza_tabla" colspan="2">Melilla</th>
+<th>Canarias</th>
+<th>Illes Balears</th>
+<th>Ceuta</th>
+<th colspan="2">Melilla</th>
 </tr>
 </thead>
 <tbody>

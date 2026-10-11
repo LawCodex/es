@@ -1913,93 +1913,93 @@ Tampoco será de aplicación el mínimo por operación en concepto de aterrizaje
 
 Para los vuelos de entrenamiento y escuela en maniobras u operaciones de simulación de aterrizaje y despegue sobre pista o campo de vuelo, y a los efectos de la tarifa de aterrizaje anterior, se aplicará la siguiente tabla de equivalencia entre el peso del avión y el número de aterrizajes a contabilizar en periodos de 90 minutos o fracción, independientemente del número de maniobras o pasadas que se realicen:
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Tramos de peso</p>
+<p>Tramos de peso</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Coeficiente multiplicador por periodos de 90 minutos o fracción</p>
+<p>Coeficiente multiplicador por periodos de 90 minutos o fracción</p>
 </th>
 </tr>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Porciones de peso en Kg.</p>
+<p>Porciones de peso en Kg.</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Desde</p>
+<p>Desde</p>
 </th>
 <th>
-<p class="cabeza_tabla">Hasta</p>
+<p>Hasta</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.999</p>
+<p>4.999</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">40.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">40.001</p>
+<p>5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100.000</p>
+<p>40.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">100.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">250.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">250.001</p>
+<p>40.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300.000</p>
+<p>100.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">300.001</p>
+<p>100.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>250.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>250.001</p>
+</td>
+<td>
+<p>300.000</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>300.001</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2</p>
 </td>
 </tr>
 </tbody>
@@ -2086,130 +2086,130 @@ Estas prestaciones no serán de aplicación a los pasajeros transportados a tít
 
 1\. Las cuantías serán las siguientes por cada pasajero:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Aeropuerto</p>
+<p>Aeropuerto</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Cuantía Pasajero</p>
+<p>Cuantía Pasajero</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Cuantía de Seguridad Aeroportuaria</p>
+<p>Cuantía de Seguridad Aeroportuaria</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Cuantía PMR</p>
+<p>Cuantía PMR</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">EEE</p>
+<p>EEE</p>
 </th>
 <th>
-<p class="cabeza_tabla">Internacional</p>
+<p>Internacional</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Madrid-Barajas</p>
+<p>Madrid-Barajas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,44 €</p>
+<p>14,44 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20,44 €</p>
+<p>20,44 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,46 €</p>
+<p>3,46 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Barcelona-El Prat</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13,44 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16,44 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,46 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
+<p>0,61 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alicante, Gran Canaria, Palma de Mallorca, Málaga-Costa del Sol y Tenerife Sur</p>
+<p>Barcelona-El Prat</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,99 €</p>
+<p>13,44 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,03 €</p>
+<p>16,44 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,46 €</p>
+<p>3,46 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,11 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,67 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,46 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
+<p>0,61 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A Coruña, Almería, Asturias, FGL Granada-Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza</p>
+<p>Alicante, Gran Canaria, Palma de Mallorca, Málaga-Costa del Sol y Tenerife Sur</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,66 €</p>
+<p>5,99 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,49 €</p>
+<p>9,03 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,46 €</p>
+<p>3,46 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
+<p>0,61 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, El Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.</p>
+<p>Bilbao, Fuerteventura, Girona, Ibiza, Lanzarote, Menorca, Santiago, Sevilla, Tenerife Norte y Valencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,40 €</p>
+<p>5,11 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,59 €</p>
+<p>7,67 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,46 €</p>
+<p>3,46 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,61 €</p>
+<p>0,61 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A Coruña, Almería, Asturias, FGL Granada-Jaén, Jerez, La Palma, Murcia-San Javier, Reus, Santander, Vigo y Zaragoza</p>
+</td>
+<td>
+<p>3,66 €</p>
+</td>
+<td>
+<p>5,49 €</p>
+</td>
+<td>
+<p>3,46 €</p>
+</td>
+<td>
+<p>0,61 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Albacete, Algeciras, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, El Hierro, Huesca-Pirineos, La Gomera, León, Logroño, Melilla, Pamplona, Sabadell, Salamanca, San Sebastián, Son Bonet, Torrejón, Valladolid, Vitoria y resto de aeropuertos gestionados por Aena Aeropuertos S.A.</p>
+</td>
+<td>
+<p>2,40 €</p>
+</td>
+<td>
+<p>3,59 €</p>
+</td>
+<td>
+<p>3,46 €</p>
+</td>
+<td>
+<p>0,61 €</p>
 </td>
 </tr>
 </tbody>
@@ -2330,76 +2330,76 @@ A partir del segundo día de estancia, el importe máximo de la contraprestació
 
 2\. En los aeropuertos de A Coruña, Albacete, Algeciras, Almería, Asturias, Badajoz, Burgos, Ceuta, Córdoba, Cuatro Vientos, Hierro, Huesca-Pirineos, FGL Granada-Jaén, Jerez, La Gomera, La Palma, León, Logroño, Melilla, Murcia-San Javier, Pamplona, Reus, Sabadell, Salamanca, San Sebastián, Seve Ballesteros-Santander, Son Bonet, Valladolid, Vigo, Vitoria, Zaragoza, y resto de aeropuertos que en fecha posterior puedan ser gestionados por Aena, S.A., las cuantías de la prestación de estacionamiento aplicables por día o fracción de tiempo superior a dos horas, en función del peso máximo al despegue, serán las siguientes:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <th colspan="3">
-<p class="cabeza_tabla">Aeronaves con MTOW hasta 10 Tm</p>
+<p>Aeronaves con MTOW hasta 10 Tm</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Aeronaves de más</p>
-<p class="cabeza_tabla">de 10 Tm de MTOW</p>
+<p>Aeronaves de más</p>
+<p>de 10 Tm de MTOW</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">0-1,5 Tm</p>
+<p>0-1,5 Tm</p>
 </th>
 <th>
-<p class="cabeza_tabla">1,5-2,7 Tm</p>
+<p>1,5-2,7 Tm</p>
 </th>
 <th>
-<p class="cabeza_tabla">2,7-10 Tm</p>
+<p>2,7-10 Tm</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Todos Aeropuertos</p>
+<p>Todos Aeropuertos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,72 €</p>
+<p>14,72 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,62 €</p>
+<p>19,62 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21,58 €</p>
+<p>21,58 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,881236 €/tm</p>
-<p class="cuerpo_tabla_centro">mínimo: 21,58 €</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Son Bonet (Julio y Agosto)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36,79 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">49,05 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">53,96 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,203091 €/tm</p>
-<p class="cuerpo_tabla_centro">mínimo: 53,96 €</p>
+<p>0,881236 €/tm</p>
+<p>mínimo: 21,58 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Son Bonet (Julio y Agosto)</p>
+</td>
+<td>
+<p>36,79 €</p>
+</td>
+<td>
+<p>49,05 €</p>
+</td>
+<td>
+<p>53,96 €</p>
+</td>
+<td>
+<p>2,203091 €/tm</p>
+<p>mínimo: 53,96 €</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">€ / día o fracción</p>
+<p>€ / día o fracción</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">€/ tm día o fracción</p>
+<p>€/ tm día o fracción</p>
 </td>
 </tr>
 </tbody>
@@ -2411,56 +2411,56 @@ Para las aeronaves cuyo peso máximo al despegue sea inferior a 5 Tm las cuantí
 
 Para obligados al pago que tengan algún contrato firmado con el aeropuerto donde se produce el estacionamiento:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <th colspan="3">
-<p class="cabeza_tabla">Aeronaves con MTOW hasta 10 Tm</p>
+<p>Aeronaves con MTOW hasta 10 Tm</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Aeronaves de más de 10 Tm de MTOW</p>
+<p>Aeronaves de más de 10 Tm de MTOW</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">0-1,5 Tm</p>
+<p>0-1,5 Tm</p>
 </th>
 <th>
-<p class="cabeza_tabla">1,5-2,7 Tm</p>
+<p>1,5-2,7 Tm</p>
 </th>
 <th>
-<p class="cabeza_tabla">2,7-10 Tm</p>
+<p>2,7-10 Tm</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Abono mensual</p>
+<p>Abono mensual</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">88,29 €</p>
+<p>88,29 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">147,15 €</p>
+<p>147,15 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">245,25 €</p>
+<p>245,25 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,881236 €/tm * MTOW * 30</p>
+<p>0,881236 €/tm * MTOW * 30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">€ / mes</p>
+<p>€ / mes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">€ / mes</p>
+<p>€ / mes</p>
 </td>
 </tr>
 </tbody>
@@ -2468,56 +2468,56 @@ Para obligados al pago que tengan algún contrato firmado con el aeropuerto dond
 
 Para obligados al pago que no tengan contratos firmados con el aeropuerto donde se produce el estacionamiento:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <th colspan="3">
-<p class="cabeza_tabla">Aeronaves con MTOW hasta 10 Tm</p>
+<p>Aeronaves con MTOW hasta 10 Tm</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Aeronaves de más de 10 Tm de MTOW</p>
+<p>Aeronaves de más de 10 Tm de MTOW</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">0-1,5 Tm</p>
+<p>0-1,5 Tm</p>
 </th>
 <th>
-<p class="cabeza_tabla">1,5-2,7 Tm</p>
+<p>1,5-2,7 Tm</p>
 </th>
 <th>
-<p class="cabeza_tabla">2,7-10 Tm</p>
+<p>2,7-10 Tm</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Abono mensual</p>
+<p>Abono mensual</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">132,44 €</p>
+<p>132,44 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">245,25 €</p>
+<p>245,25 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">392,4 €</p>
+<p>392,4 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,314540 €/tm * MTOW * 30</p>
+<p>1,314540 €/tm * MTOW * 30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">€ / mes</p>
+<p>€ / mes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">€ / mes</p>
+<p>€ / mes</p>
 </td>
 </tr>
 </tbody>

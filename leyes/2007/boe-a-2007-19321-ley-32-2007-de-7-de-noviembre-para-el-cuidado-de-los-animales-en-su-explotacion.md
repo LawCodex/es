@@ -74,12 +74,6 @@ Esta Ley tiene por objeto:
 
 a) Establecer las normas básicas sobre explotación, transporte, experimentación y sacrificio para el cuidado de los animales de producción, y un régimen común de infracciones y sanciones para garantizar su cumplimiento.
 
-> Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 3.1 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936), entra en vigor el 29 de septiembre de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "a) Establecer las normas básicas sobre explotación, transporte, experimentación y sacrificio para el cuidado de los animales y un régimen común de infracciones y sanciones para garantizar su cumplimiento."
-
 b) Regular la potestad sancionadora de la Administración General del Estado sobre exportación e importación de animales desde o hacia Estados no miembros de la Unión Europea en lo que respecta a su atención y cuidado y sobre los animales utilizados para experimentación y otros fines científicos en procedimientos de su competencia.
 
 > Se modifica la letra a) por la disposición final 3.1 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
@@ -104,14 +98,6 @@ c) Los espectáculos taurinos previstos en los artículos 2 y 10 de la Ley 10/19
 
 d) Los animales de compañía y aquellos animales de producción que, perdiendo su fin productivo, el propietario decidiera inscribirlos como animal de compañía en el Registro de Animales de compañía.
 
-> Téngase en cuenta que esta actualización de las letras b) y d), establecida por la disposición final 3.2 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936), entra en vigor el 29 de septiembre de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "b) La fauna silvestre, incluida aquella existente en los parques zoológicos que se regulan por la Ley 31/2003, de 27 de octubre, de conservación de la fauna silvestre en los parques zoológicos, sin perjuicio de lo previsto en el artículo 14.1.f) de esta Ley.
-
-> d) Los animales de compañía, sin perjuicio de lo previsto en la disposición adicional primera de esta Ley."
-
 > Se modifican las letra b) y d) del apartado 2 por la disposición final 3.2 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
 
 > Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
@@ -123,12 +109,6 @@ d) Los animales de compañía y aquellos animales de producción que, perdiendo 
 A los efectos de esta Ley, se entenderá por:
 
 a) Animales de producción: los animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, y los silvestres mantenidos, cebados o criados, para la producción de alimentos o productos de origen animal, o para cualquier otro fin comercial o lucrativo. Quedan excluidos los perros, gatos y hurones. Los animales de producción sólo se considerarán animales de compañía en el supuesto de que, perdiendo su fin productivo, el propietario decidiera inscribirlo como animal de compañía en el Registro de Animales de compañía.
-
-> Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 3.3 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936), entra en vigor el 29 de septiembre de 2023, según establece su disposición final 9.
-
-> Redacción anterior:
-
-> "a) Animales de producción: los animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, mantenidos, cebados o criados, para la producción de alimentos o productos de origen animal, o para cualquier otro fin comercial o lucrativo."
 
 b) Animales utilizados para experimentación y otros fines científicos: **(Sin contenido)**
 
@@ -199,8 +179,6 @@ c) Todos los animales participantes en las exposiciones o concursos deben estar 
 4\. Las personas titulares o responsables de estos animales, así como los organizadores del evento, facilitarán la actividad inspectora para revisar horarios de descanso, condiciones de salud y documentación.
 
 5\. Se prohíbe el uso de animales en exposiciones de belenes, cabalgatas o procesiones en las que se mantenga al animal inmovilizado durante la duración del evento.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 3.4 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936), entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
 
 > Se añade por la disposición final 3.4 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
 
@@ -338,12 +316,6 @@ c) **(Suprimido)**
 
 d) Suministrar de forma incompleta, inexacta o fuera del plazo señalado la información que sea requerida por la autoridad competente en el ejercicio de sus funciones.
 
-> Téngase en cuenta que las letras n), ñ) y o) del apartado 1 y las letras n), ñ) y o) del apartado 2, añadidas por la disposición final 3.5 y 6 de la Ley 7/2023, de 28 de marzo, [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936), entran en vigor el 29 de septiembre de 2023, según establece su disposición final 9. Asimismo se suprime, con los mismos efectos, la letra c) del apartado 3, por la disposición final 3.7.
-
-> Redacción anterior:
-
-> "c) Abandonar a un animal, con el resultado de la ausencia de control sobre el mismo o su efectiva posesión."
-
 > Se añaden las letras n), ñ) y o) al apartado 1, las letras n), ñ) y o) al apartado 2 y se suprime la letra c) del apartado 3 por la disposición final 3.5 a 7 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
 
 > Esta modificación entra en vigor el 29 de septiembre de 2023, según establece la disposición final 9 de la citada Ley.
@@ -453,14 +425,6 @@ El Ministerio de Agricultura, Pesca y Alimentación establecerá un punto de coo
 ##### Disposición adicional primera. Protección de los animales de compañía y domésticos.
 
 **(Suprimida)**
-
-> Téngase en cuenta que esta disposición se suprime, con efectos de 29 de septiembre de 2023, por la disposición final 3.8 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
-
-> Redacción anterior:
-
-> "1. Será aplicable a los animales de compañía y domésticos lo dispuesto en el artículo 5 en tanto el transporte se realice de forma colectiva y con fines económicos.
-
-> 2\. Serán igualmente de aplicación a los animales de compañía y domésticos las infracciones y sanciones tipificadas en los artículos 14.1, párrafos a), b), c), d), e), h), i), j) y m); 14.2, párrafos a), c), d), e), l) y m); 14.3 y 16.1."
 
 > Se suprime por la disposición final 3.8 de la Ley 7/2023, de 28 de marzo. [Ref. BOE-A-2023-7936](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7936)
 

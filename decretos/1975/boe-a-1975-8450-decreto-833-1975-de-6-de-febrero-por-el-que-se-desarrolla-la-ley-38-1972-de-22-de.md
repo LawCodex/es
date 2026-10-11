@@ -236,102 +236,102 @@ JOAQUÍN GUTIÉRREZ CANO
 
 Emisión de partículas sólidas:
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="3"> </td>
 <td colspan="5">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">(a)</p>
+<p>(a)</p>
 </td>
 <td>
-<p class="cabeza_tabla">(a)</p>
+<p>(a)</p>
 </td>
 <td>
-<p class="cabeza_tabla">(b)</p>
+<p>(b)</p>
 </td>
 <td>
-<p class="cabeza_tabla">(a)</p>
+<p>(a)</p>
 </td>
 <td>
-<p class="cabeza_tabla">(b)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Potencia: 50 MW</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">400</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>(b)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre 50 y 200 MW</p>
+<p>Potencia: 50 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">350</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>250</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">200 MW</p>
+<p>Entre 50 y 200 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">350</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>200 MW</p>
+</td>
+<td>
+<p>350</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -355,67 +355,67 @@ Para cualquier potencia y tanto para instalaciones existentes como nuevas: 2.460
 
 Emisión de partículas sólidas:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Potencia: &lt; 50 MW</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">175</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre 50 y 200 MW</p>
+<p>Potencia: &lt; 50 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">175</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>175</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 200 MW</p>
+<p>Entre 50 y 200 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">175</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>175</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 200 MW</p>
+</td>
+<td>
+<p>175</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -427,39 +427,39 @@ No se superará el número 1 de la Escala de Ringelmann. Este índice podrá alc
 
 Emisiones de SO<sub>2</sub>:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas y existentes</p>
+<p>Instalaciones nuevas y existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1977</p>
+<p>Previsión 1977</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Para cualquier potencia:</p>
+<p>Para cualquier potencia:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.500</p>
+<p>5.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.500</p>
+<p>4.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 </tr>
 </tbody>
@@ -475,67 +475,67 @@ Se aplicarán las disposiciones específicas.
 
 Emisión de partículas sólidas:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Potencia: Inferior a 500 + b/b</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Potencia: Igual o superior a 500 th/h</p>
+<p>Potencia: Inferior a 500 + b/b</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>250</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(1 + h = termia = 1.000 Kcal)</p>
+<p>Potencia: Igual o superior a 500 th/h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1 + h = termia = 1.000 Kcal)</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -563,81 +563,81 @@ Los índices de ennegrecimiento para cualquier potencia no deberán sobrepasar l
 | Instalaciones que emplean fuel-oil pesado número 1 o BIA (bajo índice de azufre) | 4 | 2 |
 | Instalaciones que emplean fuel-oil pesado número 2 | 5 | 2,5 |
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/m<sup>3</sup> N</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/m<sup>3</sup> N</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas y existentes</p>
+<p>Instalaciones nuevas y existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1977</p>
+<p>Previsión 1977</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de SO<sub>2</sub>:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones que emplean gas-oil, doméstico o fuel-oil BIA (bajo índice de azufre)</p>
+<p>Emisión de SO<sub>2</sub>:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.700</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.700</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">850</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones que emplean fuel-oil pesado número 1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.700</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones que emplean fuel-oil pesado número 2</p>
+<p>Instalaciones que emplean gas-oil, doméstico o fuel-oil BIA (bajo índice de azufre)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.800</p>
+<p>1.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.000</p>
+<p>1.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.400</p>
+<p>850</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instalaciones que emplean fuel-oil pesado número 1</p>
+</td>
+<td>
+<p>4.200</p>
+</td>
+<td>
+<p>2.500</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instalaciones que emplean fuel-oil pesado número 2</p>
+</td>
+<td>
+<p>6.800</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>3.400</p>
 </td>
 </tr>
 </tbody>
@@ -649,186 +649,186 @@ El contenido en CO en los gases de combustión, para cualquier potencia y combus
 
 3\. *Incineradores de residuos sólidos.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="6">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/m<sup>3</sup> N (1)</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/m<sup>3</sup> N (1)</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas:</p>
+<p>Emisión de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Capacidad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(b)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(b)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(b)</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta Tm/h de residuos</p>
+<p>Capacidad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">800</p>
+<p>(a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">450</p>
+<p>(b)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">700</p>
+<p>(a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">350</p>
+<p>(b)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>(a)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entre una y tres Tm/h de residuos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>(b)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre tres y siete Tm/h de residuos</p>
+<p>Hasta Tm/h de residuos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">450</p>
+<p>800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">225</p>
+<p>450</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400</p>
+<p>700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entre siete y quince Tm/h de residuos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">175</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>250</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15 Tm/h de residuos</p>
+<p>Entre una y tres Tm/h de residuos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entre tres y siete Tm/h de residuos</p>
+</td>
+<td>
+<p>450</p>
+</td>
+<td>
+<p>225</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entre siete y quince Tm/h de residuos</p>
+</td>
+<td>
+<p>350</p>
+</td>
+<td>
+<p>175</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 Tm/h de residuos</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -848,67 +848,67 @@ La opacidad de los humos no excederá el 20 por 100, que equivale a no rebasar e
 
 4.1 Preparación y aglomeración de minerales.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/m<sup>3</sup> N</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/m<sup>3</sup> N</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisiones de partículas sólidas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Aglomeración de minerales (sintetización y peletización)</p>
+<p>Emisiones de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Preparación del carbón (molienda, etcétera)</p>
+<p>Aglomeración de minerales (sintetización y peletización)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120</p>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Preparación del carbón (molienda, etcétera)</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -926,67 +926,67 @@ Recomendaciones:
 
 4.2 Baterías de coque e instalaciones de recuperación de subproductos.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/m<sup>3</sup> N</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/m<sup>3</sup> N</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisiones de partículas sólidas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">150</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">150</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión SO<sub>2</sub></p>
+<p>Emisiones de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.000</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p>150</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de H<sub>2</sub>S</p>
+<p>Emisión SO<sub>2</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.500</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.000</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de H<sub>2</sub>S</p>
+</td>
+<td>
+<p>2.500</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>2.000</p>
 </td>
 </tr>
 </tbody>
@@ -1000,39 +1000,39 @@ El encendido de las antorchas de barrilete deberá ser automático y se conducir
 
 4.3 Fabricación de arrabio (horno alto).
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/m<sup>3</sup> N</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/m<sup>3</sup> N</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 </tr>
 </tbody>
@@ -1050,39 +1050,39 @@ Convertidores de oxígeno.
 
 (Acerías Ld., Kaldo y similares.)
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión (1)</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión (1)</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -1092,67 +1092,67 @@ Convertidores de oxígeno.
 
 4.5 Acerías hornos eléctricos de arco.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión (1)</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión (1)</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas (humos rojos):</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hornos de capacidad menor de cinco toneladas métricas.</p>
+<p>Emisión de partículas sólidas (humos rojos):</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">350</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hornos de capacidad mayor de cinco toneladas métricas.</p>
+<p>Hornos de capacidad menor de cinco toneladas métricas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hornos de capacidad mayor de cinco toneladas métricas.</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -1162,39 +1162,39 @@ Convertidores de oxígeno.
 
 4.6 Acerías Martin Siemens.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -1204,67 +1204,67 @@ Estos límites deberán aplicarse a las Acerías Martin que no tengan previsto s
 
 4.7 Fundiciones Cubilotes.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisiones de partículas sólidas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Cubilotes mayores de una tonelada métrica/hora y hasta cinco toneladas/hora</p>
+<p>Emisiones de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">800</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">600</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Cubilotes mayores de cinco toneladas métricas/hora</p>
+<p>– Cubilotes mayores de una tonelada métrica/hora y hasta cinco toneladas/hora</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">600</p>
+<p>800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Cubilotes mayores de cinco toneladas métricas/hora</p>
+</td>
+<td>
+<p>600</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -1303,109 +1303,109 @@ Instalaciones de fabricación de aluminio primario
 
 5.2 Cobre:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fusión de cobre</p>
+<p>Emisión de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">400</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Refino del cobre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">300</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidrometalurgia</p>
+<p>Fusión de cobre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600</p>
+<p>400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de SO<sub>2</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.500</p>
+<p>150</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de HCI</p>
+<p>Refino del cobre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p>600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidrometalurgia</p>
+</td>
+<td>
+<p>600</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de SO<sub>2</sub></p>
+</td>
+<td>
+<p>5.700</p>
+</td>
+<td>
+<p>2.850</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de HCI</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>300</p>
 </td>
 </tr>
 </tbody>
@@ -1413,109 +1413,109 @@ Instalaciones de fabricación de aluminio primario
 
 5.3 Plomo:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cualquier proceso, excepto hornos cuba</p>
+<p>Emisión de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hornos de cuba (refino)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de plomo y sales de plomo (en Pb):</p>
+<p>Cualquier proceso, excepto hornos cuba</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Plantas pequeñas y medianas (volumen de emisión menor de 300 m<sup>3</sup>/min.)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80</p>
+<p>50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Plantas grandes (volumen de emisión superior a 300 m<sup>3</sup>/min.)</p>
+<p>Hornos de cuba (refino)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de plomo y sales de plomo (en Pb):</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plantas pequeñas y medianas (volumen de emisión menor de 300 m<sup>3</sup>/min.)</p>
+</td>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plantas grandes (volumen de emisión superior a 300 m<sup>3</sup>/min.)</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>10</p>
 </td>
 </tr>
 </tbody>
@@ -1523,39 +1523,39 @@ Instalaciones de fabricación de aluminio primario
 
 5.4 Cinc:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600</p>
+<p>600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50</p>
+<p>50</p>
 </td>
 </tr>
 </tbody>
@@ -1563,137 +1563,137 @@ Instalaciones de fabricación de aluminio primario
 
 6\. *Ferroaleaciones.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Kg/Tm de producto</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>Kg/Tm de producto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ferro-silicio</p>
+<p>Emisión de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">23</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">15</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ferro-silicio-cromo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ferro-cromo refinado</p>
+<p>Ferro-silicio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">8</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ferro-silicio-manganeso</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0,3</p>
+<p>10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ferro-molibdeno</p>
+<p>Ferro-silicio-cromo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de HF:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ferro-molibdeno</p>
+<p>Ferro-cromo refinado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ferro-silicio-manganeso</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ferro-molibdeno</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de HF:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ferro-molibdeno</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
 </td>
 </tr>
 </tbody>
@@ -1701,69 +1701,69 @@ Instalaciones de fabricación de aluminio primario
 
 7\. Refinerías de petróleo.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
 <br>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Calderas y hornos</p>
+<p>Emisión de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Regeneración de catalizadores de las unidades de craqueo catalítico en lecho fluido (FCC)</p>
+<p>Calderas y hornos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Regeneración de catalizadores de las unidades de craqueo catalítico en lecho fluido (FCC)</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>150</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -1778,76 +1778,76 @@ La opacidad no será superior al 20 por 100 o al número 1 de la escala de Riuge
 | Regeneración de catalizadores | 500 ppm |
 | Otras unidades | 1.500 ppm |
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
 <br>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de H<sub>2</sub> S</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cualquier proceso</p>
+<p>Emisión de H<sub>2</sub> S</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,5</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cualquier proceso</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla">Emisión SO<sub>2</sub></p>
+<p>Emisión SO<sub>2</sub></p>
 </td>
 </tr>
 <tr>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Otras Instalaciones (nota 1)</p>
+<p>Otras Instalaciones (nota 1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.400</p>
+<p>3.400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.400</p>
+<p>3.400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.500</p>
+<p>2.500</p>
 </td>
 </tr>
 </tbody>
@@ -1861,56 +1861,56 @@ Deberán evitarse las pérdidas de hidrocarburos volátiles de los tanques de al
 
 8\. *Fabricación de cal.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
 <br>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Trituradores, molinos, desleidores de cal, transportadores, silos, carga y descarga, etc.</p>
-<p class="cuerpo_tabla_izq">Emisión de partículos sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trituradores, molinos, desleidores de cal, transportadores, silos, carga y descarga, etc.</p>
+<p>Emisión de partículos sólidas</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -1918,83 +1918,83 @@ Deberán evitarse las pérdidas de hidrocarburos volátiles de los tanques de al
 
 9\. Cementos.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
 <br>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de polvos:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hornos de cemento</p>
+<p>Emisión de polvos:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400 (1)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250 (1)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150 (1)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Enfriadores de clinker</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">170</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Machacadoras, molinos, transportadores y ensacadoras</p>
+<p>Hornos de cemento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>400 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>250 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150 (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Enfriadores de clinker</p>
+</td>
+<td>
+<p>170</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Machacadoras, molinos, transportadores y ensacadoras</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -2008,39 +2008,39 @@ Se admitirá una opacidad del 10 por 100 como máximo en todas las fuentes.
 
 10\. Cerámica.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de polvos</p>
+<p>Emisión de polvos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -2048,39 +2048,39 @@ Se admitirá una opacidad del 10 por 100 como máximo en todas las fuentes.
 
 11\. Vidrio y fibras minerales.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de polvos</p>
+<p>Emisión de polvos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">300</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -2088,111 +2088,111 @@ Se admitirá una opacidad del 10 por 100 como máximo en todas las fuentes.
 
 11 bis. Fritas de vidrio para esmaltes.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
 <br>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de flúor en partículas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Zona húmeda de pastizales</p>
+<p>Emisión de flúor en partículas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Otras zonas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de flúor gas:</p>
+<p>Zona húmeda de pastizales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Zona húmeda de pastizales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Otras zonas</p>
+<p>Otras zonas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de flúor gas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zona húmeda de pastizales</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otras zonas</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>40</p>
 </td>
 </tr>
 </tbody>
@@ -2200,81 +2200,81 @@ Se admitirá una opacidad del 10 por 100 como máximo en todas las fuentes.
 
 12\. Plantas de aglomerados asfálticos.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Secadores rotativos, elevadores de material caliente, cribas, tolvas mezcladoras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas:</p>
+<p>Secadores rotativos, elevadores de material caliente, cribas, tolvas mezcladoras</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Plantas asfálticas situadas a menos de 500 metros de zona habitada</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">400</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">100</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Plantas asfálticas situadas a dos kilómetros por lo menos de edificaciones o actividades que puedan ser molestadas por las emisiones de las mismas. Dichas plantas pueden permanecer en el mismo sitio dos años por lo menos</p>
+<p>Emisión de partículas sólidas:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">800</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plantas asfálticas situadas a menos de 500 metros de zona habitada</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plantas asfálticas situadas a dos kilómetros por lo menos de edificaciones o actividades que puedan ser molestadas por las emisiones de las mismas. Dichas plantas pueden permanecer en el mismo sitio dos años por lo menos</p>
+</td>
+<td>
+<p>800</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>200</p>
 </td>
 </tr>
 </tbody>
@@ -2288,67 +2288,67 @@ Ninguna descarga tendrá una opacidad de más de un Ringelmann.
 
 13.1 Método de cámaras de plomo.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de SO<sub>2</sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.275</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Nieblas de H<sub>2</sub> SO<sub>4</sub></p>
+<p>Emisión de SO<sub>2</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">615</p>
+<p>5.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p>4.275</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">NO<sub>3</sub></p>
+<p>Nieblas de H<sub>2</sub> SO<sub>4</sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>615</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>NO<sub>3</sub></p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -2356,53 +2356,53 @@ Ninguna descarga tendrá una opacidad de más de un Ringelmann.
 
 13.2 Método de contacto:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SO<sub>2 </sub></p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.550</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.425</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Nieblas de H<sub>2</sub> SO<sub>4 </sub></p>
+<p>SO<sub>2 </sub></p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p>8.550</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p>1.425</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nieblas de H<sub>2</sub> SO<sub>4 </sub></p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -2410,39 +2410,39 @@ Ninguna descarga tendrá una opacidad de más de un Ringelmann.
 
 14\. *Fabricación de ácido nítrico.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Kg/Tm ácido producido</p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>Kg/Tm ácido producido</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisiones de NO<sub>3</sub> (1)</p>
+<p>Emisiones de NO<sub>3</sub> (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 </tr>
 </tbody>
@@ -2454,53 +2454,53 @@ Opacidad:
 
 Las emisiones a la atmósfera deben ser incoloras.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisiones de NO<sub>3</sub>, como NO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">410</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">205</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisiones de NO<sub>x</sub>, como NO</p>
+<p>Emisiones de NO<sub>3</sub>, como NO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">292</p>
+<p>410</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">148</p>
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisiones de NO<sub>x</sub>, como NO</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>292</p>
+</td>
+<td>
+<p>148</p>
 </td>
 </tr>
 </tbody>
@@ -2510,39 +2510,39 @@ Las emisiones a la atmósfera deben ser incoloras.
 
 15.1 Fertilizantes orgánicos.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisiones de partículas sólidas. Incinerador de residuos</p>
+<p>Emisiones de partículas sólidas. Incinerador de residuos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>120</p>
 </td>
 </tr>
 </tbody>
@@ -2556,39 +2556,39 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 15.2.1 Nitrogenados.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -2596,103 +2596,103 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 15.2.2 Fosfatados.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Kg F/Tm P<sub>2</sub>O<sub>5</sub></p>
+<p>Kg F/Tm P<sub>2</sub>O<sub>5</sub></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión flúor, ácido fluorhídrico y fluoruros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Superfosfatos simples</p>
+<p>Emisión flúor, ácido fluorhídrico y fluoruros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,4</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,07</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,07</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Superfosfatos triples</p>
+<p>Superfosfatos simples</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,3</p>
+<p>0,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,05</p>
+<p>0,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05</p>
+<p>0,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superfosfatos triples</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+<td>
+<p>0,05</p>
 </td>
 </tr>
 </tbody>
@@ -2700,67 +2700,67 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 16\. *Fabricación de carburo de calcio.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Instalación de preparación</p>
+<p>Emisión de partículas sólidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Horno</p>
+<p>Instalación de preparación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">350</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Horno</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>350</p>
+</td>
+<td>
+<p>250</p>
 </td>
 </tr>
 </tbody>
@@ -2768,39 +2768,39 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 17\. *Fabricación de negro de humo.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 </tr>
 </tbody>
@@ -2808,39 +2808,39 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 18\. *Fabricación de alúmina.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
+<p>150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>50</p>
 </td>
 </tr>
 </tbody>
@@ -2848,39 +2848,39 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 19\. *Fabricación de cloro.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de cloro</p>
+<p>Emisión de cloro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">230</p>
+<p>230</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">200</p>
+<p>200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -2888,39 +2888,39 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 20\. *Fabricación de carbonato de sosa (sosa Solvay).*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de cloro</p>
+<p>Emisión de cloro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">460</p>
+<p>460</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
+<p>300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">200</p>
+<p>200</p>
 </td>
 </tr>
 </tbody>
@@ -2928,67 +2928,67 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 21\. *Fabricación de arsénico.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de As<sub>2</sub>O<sub>3</sub>:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Volumen inferior a 2.500 l/seg.</p>
+<p>Emisión de As<sub>2</sub>O<sub>3</sub>:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Volumen superior a 2.500 l/seg.</p>
+<p>Volumen inferior a 2.500 l/seg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Volumen superior a 2.500 l/seg.</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>20</p>
 </td>
 </tr>
 </tbody>
@@ -2996,67 +2996,67 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 22\. *Fabricación de antimonio.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisión de Sb<sub>3</sub>O<sub>2</sub>:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Volumen inferior a 2.500 l/seg.</p>
+<p>Emisión de Sb<sub>3</sub>O<sub>2</sub>:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Volumen superior a 2.500 l/seg.</p>
+<p>Volumen inferior a 2.500 l/seg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Volumen superior a 2.500 l/seg.</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>20</p>
 </td>
 </tr>
 </tbody>
@@ -3064,39 +3064,39 @@ La opacidad de los humos del incinerador no será superior al 20 por 100, que eq
 
 23\. *Fabricación de cadmio.*
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">mg/Nm<sup>3</sup></p>
+<p>Niveles de emisión</p>
+<p>–</p>
+<p>mg/Nm<sup>3</sup></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de cadmio</p>
+<p>Emisión de cadmio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17</p>
+<p>17</p>
 </td>
 </tr>
 </tbody>
@@ -3108,51 +3108,51 @@ Nota: El volumen total emitido no podrá exceder de 1,36 kilogramos por 168 hora
 
 24.1 Pasta al bisulfito.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
+<p>Niveles de emisión</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Emisiones de SO<sub>2 </sub>(Kg/Tm pasta)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión partículas sólidas (combustión de lejías ) (mg/Nm<sup>3</sup>)</p>
+<p>Emisiones de SO<sub>2 </sub>(Kg/Tm pasta)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">500</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión partículas sólidas (combustión de lejías ) (mg/Nm<sup>3</sup>)</p>
+</td>
+<td>
+<p>500</p>
+</td>
+<td>
+<p>250</p>
+</td>
+<td>
+<p>150</p>
 </td>
 </tr>
 </tbody>
@@ -3160,65 +3160,65 @@ Nota: El volumen total emitido no podrá exceder de 1,36 kilogramos por 168 hora
 
 24.2 Pasta al sulfato o kraft.
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2"> </td>
 <td colspan="3">
-<p class="cabeza_tabla">Niveles de emisión</p>
+<p>Niveles de emisión</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Instalaciones existentes</p>
+<p>Instalaciones existentes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Instalaciones nuevas</p>
+<p>Instalaciones nuevas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Previsión 1980</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hornos de recuperación de lejías:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Previsión 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de partículas sólidas</p>
+<p>Hornos de recuperación de lejías:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Emisión de H<sub>2</sub> S</p>
+<p>Emisión de partículas sólidas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10 (1)</p>
+<p>500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10 (2)</p>
+<p>250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,5</p>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Emisión de H<sub>2</sub> S</p>
+</td>
+<td>
+<p>10 (1)</p>
+</td>
+<td>
+<p>10 (2)</p>
+</td>
+<td>
+<p>7,5</p>
 </td>
 </tr>
 </tbody>

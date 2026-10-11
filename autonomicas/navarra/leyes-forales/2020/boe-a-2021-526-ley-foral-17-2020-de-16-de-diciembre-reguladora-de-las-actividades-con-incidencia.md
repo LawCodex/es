@@ -1402,136 +1402,129 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 
 ## ANEJO 1 — Proyectos, instalaciones, actuaciones y actividades sometidas a autorización ambiental unificada
 
-<table class="tabla">
-<colgroup></colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 1. INSTALACIONES DE COMBUSTIÓN / ENERGÉTICAS.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Calderas, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, excepto instalaciones de generación o cogeneración eléctrica, sea esta o no su actividad principal, con una potencia térmica nominal igual o superior a 5 MW e inferior a 50 MW.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones de gasificación o licuefacción de pizarra bituminosa, con una potencia térmica inferior a 20 MW, con cualquier capacidad de procesado.</p>
+<p>Calderas, generadores de vapor o cualquier otro equipamiento o instalación de combustión existente en una industria, excepto instalaciones de generación o cogeneración eléctrica, sea esta o no su actividad principal, con una potencia térmica nominal igual o superior a 5 MW e inferior a 50 MW.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.3</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laminadores de carbón con una capacidad igual o mayor a 1 t/h.</p>
+<p>Instalaciones de gasificación o licuefacción de pizarra bituminosa, con una potencia térmica inferior a 20 MW, con cualquier capacidad de procesado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de fabricación de productos del carbón y combustibles sólidos no fumígenos.</p>
+<p>Laminadores de carbón con una capacidad igual o mayor a 1 t/h.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Instalaciones de fabricación de productos del carbón y combustibles sólidos no fumígenos.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 2. PRODUCCIÓN Y TRANSFORMACIÓN DE METALES.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la producción de fundición o de aceros brutos (lingotes de hierro o de acero) (fusión primaria o secundaria), incluidas las correspondientes instalaciones de fundición continua de una capacidad inferior o igual a 2,5 t/hora.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la transformación de metales ferrosos mediante laminado en caliente con una capacidad inferior o igual a 20 t/día.</p>
+<p>Instalaciones para la producción de fundición o de aceros brutos (lingotes de hierro o de acero) (fusión primaria o secundaria), incluidas las correspondientes instalaciones de fundición continua de una capacidad inferior o igual a 2,5 t/hora.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.3</p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la transformación de metales ferrosos mediante forjado con martillos cuya energía de impacto sea menor o igual a 50 kilojulios por martillo o cuando la potencia térmica utilizada sea menor o igual a 20 MW; o mediante cualquier otro tipo de forjado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la transformación de metales ferrosos mediante aplicación de capas de protección de metal fundido con una capacidad de tratamiento menor o igual a 2 t/hora.</p>
+<p>Instalaciones para la transformación de metales ferrosos mediante laminado en caliente con una capacidad inferior o igual a 20 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.5</p>
+<p>2.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fundiciones de metales ferrosos con una capacidad de producción menor o igual a 20 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fusión de metales plomo o cadmio, inclusive la aleación, así como los productos de recuperación y otros procesos, con una capacidad de fusión menor o igual a 4 t/día.</p>
+<p>Instalaciones para la transformación de metales ferrosos mediante forjado con martillos cuya energía de impacto sea menor o igual a 50 kilojulios por martillo o cuando la potencia térmica utilizada sea menor o igual a 20 MW; o mediante cualquier otro tipo de forjado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.7</p>
+<p>2.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fusión de otros metales no ferrosos diferentes de plomo y cadmio, inclusive la aleación, así como los productos de recuperación y otros procesos, con una capacidad menor o igual a 20 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para el tratamiento de superficie de metales y materiales plásticos por procedimiento electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas al tratamiento empleadas sea menor o igual de 30 m<sup>3</sup> y mayor de 1 m<sup>3</sup>.</p>
+<p>Instalaciones para la transformación de metales ferrosos mediante aplicación de capas de protección de metal fundido con una capacidad de tratamiento menor o igual a 2 t/hora.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.9</p>
+<p>2.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Talleres e industrias de transformación de productos metálicos mediante corte, mecanizado, troquelado, estampación, embutición, soldadura, moldeo u otras operaciones de conformación, excepto los que tengan tratamientos superficiales físico-químicos en baños líquidos o fundidos, con una superficie construida total mayor de 2.000 m<sup>2</sup>.</p>
+<p>Fundiciones de metales ferrosos con una capacidad de producción menor o igual a 20 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Instalaciones para la fusión de metales plomo o cadmio, inclusive la aleación, así como los productos de recuperación y otros procesos, con una capacidad de fusión menor o igual a 4 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.7</p>
+</td>
+<td>
+<p>Instalaciones para la fusión de otros metales no ferrosos diferentes de plomo y cadmio, inclusive la aleación, así como los productos de recuperación y otros procesos, con una capacidad menor o igual a 20 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.8</p>
+</td>
+<td>
+<p>Instalaciones para el tratamiento de superficie de metales y materiales plásticos por procedimiento electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas al tratamiento empleadas sea menor o igual de 30 m<sup>3</sup> y mayor de 1 m<sup>3</sup>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.9</p>
+</td>
+<td>
+<p>Talleres e industrias de transformación de productos metálicos mediante corte, mecanizado, troquelado, estampación, embutición, soldadura, moldeo u otras operaciones de conformación, excepto los que tengan tratamientos superficiales físico-químicos en baños líquidos o fundidos, con una superficie construida total mayor de 2.000 m<sup>2</sup>.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 3.</strong>
 <strong>INDUSTRIAS MINERALES.</strong>
 </p>
@@ -1539,79 +1532,79 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.1</p>
+<p>3.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de cemento por molienda con una capacidad de producción inferior o igual a 500 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Fabricación de clínker en hornos rotatorios con una capacidad de producción menor o igual a 500 t/día.</p>
+<p>Fabricación de cemento por molienda con una capacidad de producción inferior o igual a 500 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.3</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de clínker en hornos de otro tipo con una capacidad de producción menor o igual a 500 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Producción de cal en hornos rotatorios con una capacidad de producción menor o igual a 50 t/día.</p>
+<p>Fabricación de clínker en hornos rotatorios con una capacidad de producción menor o igual a 500 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.5</p>
+<p>3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producción de cal en otro tipo de hornos con una capacidad de producción menor o igual a 50 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Producción de óxido de magnesio en hornos con una capacidad de producción menor o igual a 50 t/día.</p>
+<p>Fabricación de clínker en hornos de otro tipo con una capacidad de producción menor o igual a 500 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.7</p>
+<p>3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación de vidrio incluida la fibra de vidrio, con una capacidad de fusión menor o igual a 20 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular tejas, ladrillos, ladrillos refractarios, azulejos, gres cerámico o productos cerámicos ornamentales o de uso doméstico con una capacidad de producción superior a 75 t/día o una capacidad de horneado menor o igual a 4 m<sup>3</sup> o una densidad menor o igual de 300 kg/m<sup>3</sup> de carga por horno.</p>
+<p>Producción de cal en hornos rotatorios con una capacidad de producción menor o igual a 50 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.9</p>
+<p>3.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación de yeso mediante horneado.</p>
+<p>Producción de cal en otro tipo de hornos con una capacidad de producción menor o igual a 50 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.6</p>
+</td>
+<td>
+<p>Producción de óxido de magnesio en hornos con una capacidad de producción menor o igual a 50 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.7</p>
+</td>
+<td>
+<p>Instalaciones para la fabricación de vidrio incluida la fibra de vidrio, con una capacidad de fusión menor o igual a 20 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.8</p>
+</td>
+<td>
+<p>Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular tejas, ladrillos, ladrillos refractarios, azulejos, gres cerámico o productos cerámicos ornamentales o de uso doméstico con una capacidad de producción superior a 75 t/día o una capacidad de horneado menor o igual a 4 m<sup>3</sup> o una densidad menor o igual de 300 kg/m<sup>3</sup> de carga por horno.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.9</p>
+</td>
+<td>
+<p>Instalaciones para la fabricación de yeso mediante horneado.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 4.</strong>
 <strong>INDUSTRIA QUÍMICA.</strong>
 </p>
@@ -1619,63 +1612,63 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación de productos pirotécnicos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la producción de pesticidas, sin desarrollar un proceso químico o biológico.</p>
+<p>Instalaciones para la fabricación de productos pirotécnicos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4.3</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de productos farmacéuticos, sin desarrollar un proceso químico o biológico.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de preparados de recubrimientos, pinturas, barnices, tintas y adhesivos, sin desarrollar un proceso químico o biológico, con un consumo de disolvente orgánico menor o igual a 200 t/año.</p>
+<p>Instalaciones industriales para la producción de pesticidas, sin desarrollar un proceso químico o biológico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4.5</p>
+<p>4.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la producción de elastómeros y para la fabricación y tratamiento de productos a base de elastómeros, sin desarrollar un proceso químico o biológico.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de lejías, detergentes y desinfectantes, sin desarrollar un proceso químico o biológico.</p>
+<p>Fabricación de productos farmacéuticos, sin desarrollar un proceso químico o biológico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4.7</p>
+<p>4.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales de tratamiento de productos intermedios y producción de productos químicos, no incluidas en las anteriores categorías.</p>
+<p>Instalaciones industriales para la fabricación de preparados de recubrimientos, pinturas, barnices, tintas y adhesivos, sin desarrollar un proceso químico o biológico, con un consumo de disolvente orgánico menor o igual a 200 t/año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.5</p>
+</td>
+<td>
+<p>Instalaciones industriales para la producción de elastómeros y para la fabricación y tratamiento de productos a base de elastómeros, sin desarrollar un proceso químico o biológico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.6</p>
+</td>
+<td>
+<p>Instalaciones industriales para la fabricación de lejías, detergentes y desinfectantes, sin desarrollar un proceso químico o biológico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.7</p>
+</td>
+<td>
+<p>Instalaciones industriales de tratamiento de productos intermedios y producción de productos químicos, no incluidas en las anteriores categorías.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 5.</strong>
 <strong>GESTIÓN DE RESIDUOS.</strong>
 </p>
@@ -1683,104 +1676,104 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones destinadas a la valorización y/o eliminación de residuos, no sometidas a autorización ambiental integrada según la normativa básica, con excepción de:</p>
-<p class="cuerpo_tabla_izq"> a) Instalaciones de compostaje a escala.</p>
-<p class="cuerpo_tabla_izq"> b) Instalaciones destinadas a la valorización de residuos no peligrosos no incluidas en otras categorías, con capacidad de tratamiento inferior a 50 t/año.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">5.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almacenamiento temporal de residuos peligrosos, excluyendo el almacenamiento temporal pendiente de recogida en el sitio donde el residuo es generado, con una capacidad total inferior o igual a 50 toneladas. Se excluyen los puntos limpios para recogida de residuos gestionados por las entidades locales y las plataformas logísticas de residuos de aparatos eléctricos y electrónicos (RAEE) tal y como se definen en la normativa sectorial vigente.</p>
+<p>Instalaciones destinadas a la valorización y/o eliminación de residuos, no sometidas a autorización ambiental integrada según la normativa básica, con excepción de:</p>
+<p> a) Instalaciones de compostaje a escala.</p>
+<p> b) Instalaciones destinadas a la valorización de residuos no peligrosos no incluidas en otras categorías, con capacidad de tratamiento inferior a 50 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5.3</p>
+<p>5.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento temporal de residuos no peligrosos, incluidas chatarras, excluyendo el almacenamiento temporal pendiente de recogida en el sitio donde el residuo es generado, con una capacidad de almacenamiento igual o superior a 100 toneladas. Se excluyen los puntos limpios para recogida de residuos gestionados por las entidades locales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">5.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almacenamiento temporal de chatarras, excluyendo el almacenamiento temporal pendiente de recogida en el sitio donde el residuo es generado, que se desarrolle en el exterior de una nave o fuera de zona industrial, y con una capacidad de almacenamiento inferior a 100 t.</p>
+<p>Almacenamiento temporal de residuos peligrosos, excluyendo el almacenamiento temporal pendiente de recogida en el sitio donde el residuo es generado, con una capacidad total inferior o igual a 50 toneladas. Se excluyen los puntos limpios para recogida de residuos gestionados por las entidades locales y las plataformas logísticas de residuos de aparatos eléctricos y electrónicos (RAEE) tal y como se definen en la normativa sectorial vigente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5.5</p>
+<p>5.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento subterráneo de residuos peligrosos, con una capacidad total inferior o igual a 50 toneladas.</p>
+<p>Almacenamiento temporal de residuos no peligrosos, incluidas chatarras, excluyendo el almacenamiento temporal pendiente de recogida en el sitio donde el residuo es generado, con una capacidad de almacenamiento igual o superior a 100 toneladas. Se excluyen los puntos limpios para recogida de residuos gestionados por las entidades locales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5.6</p>
+<p>5.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para el almacenamiento de residuos radiactivos que no estén incluidas en el anejo I de la Ley 21/2013, de 9 de diciembre, de evaluación de impacto ambiental.</p>
+<p>Almacenamiento temporal de chatarras, excluyendo el almacenamiento temporal pendiente de recogida en el sitio donde el residuo es generado, que se desarrolle en el exterior de una nave o fuera de zona industrial, y con una capacidad de almacenamiento inferior a 100 t.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.5</p>
+</td>
+<td>
+<p>Almacenamiento subterráneo de residuos peligrosos, con una capacidad total inferior o igual a 50 toneladas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.6</p>
+</td>
+<td>
+<p>Instalaciones para el almacenamiento de residuos radiactivos que no estén incluidas en el anejo I de la Ley 21/2013, de 9 de diciembre, de evaluación de impacto ambiental.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 6. INDUSTRIA DEL PAPEL, EL CARTÓN Y DERIVADA DE LA MADERA.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1</p>
+<p>6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales destinadas a la fabricación de papel o cartón con una capacidad de producción menor o igual a 20 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalación de producción de celulosa con una capacidad de producción menor o igual a 20 t/día.</p>
+<p>Instalaciones industriales destinadas a la fabricación de papel o cartón con una capacidad de producción menor o igual a 20 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.3</p>
+<p>6.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales destinadas a la fabricación de tableros de virutas de madera orientadas o tableros de aglomerados o tableros o de cartón comprimido, con una capacidad de producción menor o igual a 600 m<sup>3</sup>/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento de celulosa.</p>
+<p>Instalación de producción de celulosa con una capacidad de producción menor o igual a 20 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.5</p>
+<p>6.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laminación de madera y plástico con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
+<p>Instalaciones industriales destinadas a la fabricación de tableros de virutas de madera orientadas o tableros de aglomerados o tableros o de cartón comprimido, con una capacidad de producción menor o igual a 600 m<sup>3</sup>/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.4</p>
+</td>
+<td>
+<p>Instalaciones de tratamiento de celulosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.5</p>
+</td>
+<td>
+<p>Laminación de madera y plástico con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 7.</strong>
 <strong>INDUSTRIA TEXTIL Y DEL CALZADO.</strong>
 </p>
@@ -1788,380 +1781,380 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1</p>
+<p>7.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para el tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras textiles o productos textiles con una capacidad de tratamiento menor o igual a 10 t/día.</p>
+<p>Instalaciones para el tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras textiles o productos textiles con una capacidad de tratamiento menor o igual a 10 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7.2</p>
+<p>7.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fabricación de calzado con un consumo de disolvente orgánico menor o igual a 200 t/año.</p>
+<p>Fabricación de calzado con un consumo de disolvente orgánico menor o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 8. INDUSTRIA DEL CUERO.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">8.1</p>
+<p>8.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para el curtido de cueros con una capacidad de tratamiento inferior o igual a 12 t/día de productos acabados.</p>
+<p>Instalaciones para el curtido de cueros con una capacidad de tratamiento inferior o igual a 12 t/día de productos acabados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">8.2</p>
+<p>8.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recubrimiento de cuero con un consumo de disolvente orgánico superior a 10 t/año e inferior o igual a 200 t/año.</p>
+<p>Recubrimiento de cuero con un consumo de disolvente orgánico superior a 10 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 9. INDUSTRIAS AGROALIMENTARIAS.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.1</p>
+<p>9.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mataderos con una capacidad de producción de canales superior a 10 t/día e inferior o igual a 50 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tratamiento y transformación, distintos del mero envasado, de materia prima animal (que no sea exclusivamente la leche), tratada o no previamente, destinada a la producción de alimentos o piensos, con una capacidad de producción de producto acabado superior a 30 t/día e inferior o igual a 75 t/día.</p>
+<p>Mataderos con una capacidad de producción de canales superior a 10 t/día e inferior o igual a 50 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.3</p>
+<p>9.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento y transformación, distintos del mero envasado, de materia prima vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, con una capacidad de producción de producto acabado superior a 100 t/día e inferior o igual a 300 t/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tratamiento y transformación, distintos del mero envasado, de materia prima vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, con una capacidad de producción de producto acabado superior a 200 t/día e inferior o igual a 600 t/día, en caso de que la instalación funcione durante un periodo no superior a 90 días consecutivos en un año cualquiera.</p>
+<p>Tratamiento y transformación, distintos del mero envasado, de materia prima animal (que no sea exclusivamente la leche), tratada o no previamente, destinada a la producción de alimentos o piensos, con una capacidad de producción de producto acabado superior a 30 t/día e inferior o igual a 75 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.5</p>
+<p>9.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento y transformación, distintos del mero envasado, de materia prima animal y vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, tanto en productos combinados como por separado, con una capacidad de producción de producto acabado inferior o igual a 75 t/día, si la porción de materia animal (en porcentaje del peso) de la capacidad de producción de productos acabados es igual o superior a 10.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tratamiento y transformación, distintos del mero envasado, de materia prima animal y vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, tanto en productos combinados como por separado, con una capacidad de producción de producto acabado inferior o igual a [300 – (22,5 × A)] t/día, si la porción de materia animal (en porcentaje del peso) de la capacidad de producción de productos acabados es inferior a 10.</p>
+<p>Tratamiento y transformación, distintos del mero envasado, de materia prima vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, con una capacidad de producción de producto acabado superior a 100 t/día e inferior o igual a 300 t/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.7</p>
+<p>9.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento y transformación solamente de leche con una cantidad de leche recibida superior a 50 t/día e inferior o igual a 200 t/día (valor medio anual).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la eliminación o el aprovechamiento de carcasas o desechos de animales con una capacidad de tratamiento menor o igual a 10 t/día.</p>
+<p>Tratamiento y transformación, distintos del mero envasado, de materia prima vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, con una capacidad de producción de producto acabado superior a 200 t/día e inferior o igual a 600 t/día, en caso de que la instalación funcione durante un periodo no superior a 90 días consecutivos en un año cualquiera.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.9</p>
+<p>9.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la elaboración de grasas y aceites vegetales ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de cerveza y malta ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
+<p>Tratamiento y transformación, distintos del mero envasado, de materia prima animal y vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, tanto en productos combinados como por separado, con una capacidad de producción de producto acabado inferior o igual a 75 t/día, si la porción de materia animal (en porcentaje del peso) de la capacidad de producción de productos acabados es igual o superior a 10.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.11</p>
+<p>9.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la elaboración de confituras y almíbares ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de féculas ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
+<p>Tratamiento y transformación, distintos del mero envasado, de materia prima animal y vegetal, tratada o no previamente, destinada a la producción de alimentos o piensos, tanto en productos combinados como por separado, con una capacidad de producción de producto acabado inferior o igual a [300 – (22,5 × A)] t/día, si la porción de materia animal (en porcentaje del peso) de la capacidad de producción de productos acabados es inferior a 10.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.13</p>
+<p>9.7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de harina y aceite de pescado ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 30 t/día e inferior o igual a 75 t/día de producto acabado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9.14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Azucareras con cualquier capacidad de tratamiento.</p>
+<p>Tratamiento y transformación solamente de leche con una cantidad de leche recibida superior a 50 t/día e inferior o igual a 200 t/día (valor medio anual).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9.15</p>
+<p>9.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Extracción de aceite vegetal y grasa animal y actividades de refinado de aceite vegetal, con un consumo de disolvente orgánico superior a 10 t/año e inferior o igual a 200 t/día.</p>
+<p>Instalaciones para la eliminación o el aprovechamiento de carcasas o desechos de animales con una capacidad de tratamiento menor o igual a 10 t/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.9</p>
+</td>
+<td>
+<p>Instalaciones industriales para la elaboración de grasas y aceites vegetales ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.10</p>
+</td>
+<td>
+<p>Instalaciones industriales para la fabricación de cerveza y malta ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.11</p>
+</td>
+<td>
+<p>Instalaciones industriales para la elaboración de confituras y almíbares ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.12</p>
+</td>
+<td>
+<p>Instalaciones industriales para la fabricación de féculas ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 100 t/día e inferior o igual a 300 t/día de producto acabado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.13</p>
+</td>
+<td>
+<p>Instalaciones industriales para la fabricación de harina y aceite de pescado ubicadas fuera de polígonos industriales, a menos de 500 metros de una zona residencial y que ocupen más de 1 ha de superficie y con una capacidad de producción superior a 30 t/día e inferior o igual a 75 t/día de producto acabado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.14</p>
+</td>
+<td>
+<p>Azucareras con cualquier capacidad de tratamiento.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.15</p>
+</td>
+<td>
+<p>Extracción de aceite vegetal y grasa animal y actividades de refinado de aceite vegetal, con un consumo de disolvente orgánico superior a 10 t/año e inferior o igual a 200 t/día.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 10. EXPLOTACIONES GANADERAS.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.1</p>
+<p>10.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gallinas ponedoras, con un número de plazas mayor de 20.000 e inferior o igual a 40.000.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pollos de engorde, con un número de plazas mayor de 30.000 e inferior o igual a 85.000.</p>
+<p>Gallinas ponedoras, con un número de plazas mayor de 20.000 e inferior o igual a 40.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.3</p>
+<p>10.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Patos reproductores y/o embuchados, con un número de plazas mayor de 15.000.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Patos de cebo, con un número de plazas mayor de 30.000.</p>
+<p>Pollos de engorde, con un número de plazas mayor de 30.000 e inferior o igual a 85.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.5</p>
+<p>10.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Avestruces adultas, con un número de plazas mayor de 600.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Avestruces de cebo, con un número de plazas mayor de 2.400.</p>
+<p>Patos reproductores y/o embuchados, con un número de plazas mayor de 15.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.7</p>
+<p>10.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Codornices, con un número de plazas mayor de 240.000.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Perdices, con un número de plazas mayor de 60.000.</p>
+<p>Patos de cebo, con un número de plazas mayor de 30.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.9</p>
+<p>10.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Palomas, con un número de plazas mayor de 60.000.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Faisanes, con un número de plazas mayor de 30.000.</p>
+<p>Avestruces adultas, con un número de plazas mayor de 600.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.11</p>
+<p>10.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cerdos de cebo de más de 30 kg, con un número de plazas mayor de 1.000 e inferior o igual a 2.000.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cerdos de cebo de más de 20 kg, con un número de plazas mayor de 1.000 e inferior o igual a 2.500.</p>
+<p>Avestruces de cebo, con un número de plazas mayor de 2.400.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.13</p>
+<p>10.7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cerdas reproductoras, con un número de plazas mayor de 360 e inferior o igual a 750.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Explotaciones porcinas mixtas, precebos y cerdas reproductoras en ciclo cerrado, con un número de unidades de ganado mayor equivalente (UGM) superior a 120.</p>
+<p>Codornices, con un número de plazas mayor de 240.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.15</p>
+<p>10.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vacuno adulto de leche, con un número de plazas mayor de 120.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Vacuno adulto de carne, con un número de plazas mayor de 150.</p>
+<p>Perdices, con un número de plazas mayor de 60.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.17</p>
+<p>10.9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Vacuno de cebo, con un número de plazas mayor de 300.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ovino, con un número de plazas mayor de 1.000.</p>
+<p>Palomas, con un número de plazas mayor de 60.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.19</p>
+<p>10.10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Caprino, con un número de plazas mayor de 1.000.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Equino adulto, con un número de plazas mayor de 150.</p>
+<p>Faisanes, con un número de plazas mayor de 30.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.21</p>
+<p>10.11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Equino de cebo, con un número de plazas mayor de 300.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Conejos, con un número de plazas mayor de 10.000.</p>
+<p>Cerdos de cebo de más de 30 kg, con un número de plazas mayor de 1.000 e inferior o igual a 2.000.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.23</p>
+<p>10.12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explotaciones mixtas, con un número de unidades de ganado mayor equivalente (UGM) superior a 120.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10.24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otras instalaciones ganaderas no especificadas en otras categorías, con un número de unidades de ganado mayor equivalente (UGM) superior a 120.</p>
+<p>Cerdos de cebo de más de 20 kg, con un número de plazas mayor de 1.000 e inferior o igual a 2.500.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10.25</p>
+<p>10.13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Acuicultura intensiva con una capacidad de producción superior a 500 t/año.</p>
+<p>Cerdas reproductoras, con un número de plazas mayor de 360 e inferior o igual a 750.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.14</p>
+</td>
+<td>
+<p>Explotaciones porcinas mixtas, precebos y cerdas reproductoras en ciclo cerrado, con un número de unidades de ganado mayor equivalente (UGM) superior a 120.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.15</p>
+</td>
+<td>
+<p>Vacuno adulto de leche, con un número de plazas mayor de 120.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.16</p>
+</td>
+<td>
+<p>Vacuno adulto de carne, con un número de plazas mayor de 150.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.17</p>
+</td>
+<td>
+<p>Vacuno de cebo, con un número de plazas mayor de 300.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.18</p>
+</td>
+<td>
+<p>Ovino, con un número de plazas mayor de 1.000.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.19</p>
+</td>
+<td>
+<p>Caprino, con un número de plazas mayor de 1.000.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.20</p>
+</td>
+<td>
+<p>Equino adulto, con un número de plazas mayor de 150.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.21</p>
+</td>
+<td>
+<p>Equino de cebo, con un número de plazas mayor de 300.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.22</p>
+</td>
+<td>
+<p>Conejos, con un número de plazas mayor de 10.000.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.23</p>
+</td>
+<td>
+<p>Explotaciones mixtas, con un número de unidades de ganado mayor equivalente (UGM) superior a 120.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.24</p>
+</td>
+<td>
+<p>Otras instalaciones ganaderas no especificadas en otras categorías, con un número de unidades de ganado mayor equivalente (UGM) superior a 120.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.25</p>
+</td>
+<td>
+<p>Acuicultura intensiva con una capacidad de producción superior a 500 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 11.</strong>
 <strong>CONSUMO DE DISOLVENTES ORGÁNICOS.</strong>
 </p>
@@ -2169,102 +2162,102 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.1</p>
+<p>11.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para tratamiento de superficies de materiales, de objetos o productos con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos superior a 15 t/año e inferior o igual a 200 t/año.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Limpieza de superficies de productos y materiales fabricados, utilizando sustancias o preparados que contengan compuestos orgánicos volátiles especificados en el apartado 1 del artículo 5 del Real Decreto 117/2003, de 31 de enero (se excluye la limpieza de los equipos), con un consumo de disolvente orgánico superior a 1 t/año e inferior o igual a 200 t/año.</p>
+<p>Instalaciones para tratamiento de superficies de materiales, de objetos o productos con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos superior a 15 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.3</p>
+<p>11.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Limpieza en seco de prendas de vestir utilizando disolventes orgánicos, con un consumo de disolvente menor o igual a 200 t/año.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otra limpieza de superficies de productos y materiales fabricados (se excluye la limpieza de los equipos), con un consumo de disolvente orgánico superior a 2 t/año e inferior o igual a 200 t/año.</p>
+<p>Limpieza de superficies de productos y materiales fabricados, utilizando sustancias o preparados que contengan compuestos orgánicos volátiles especificados en el apartado 1 del artículo 5 del Real Decreto 117/2003, de 31 de enero (se excluye la limpieza de los equipos), con un consumo de disolvente orgánico superior a 1 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.5</p>
+<p>11.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recubrimiento de bobinas metálicas con una película o un recubrimiento laminado, en un proceso continuo, con un consumo de disolvente orgánico superior a 25 t/año e inferior o igual a 200 t/año.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Otros tipos de recubrimiento con una película continua, incluido el recubrimiento de metal, plástico, textil, tejidos, películas y papel, con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
+<p>Limpieza en seco de prendas de vestir utilizando disolventes orgánicos, con un consumo de disolvente menor o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.7</p>
+<p>11.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recubrimiento de alambre de bobinas, con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recubrimiento de madera, con un consumo de disolvente orgánico superior a 15 t/año e inferior o igual a 200 t/año.</p>
+<p>Otra limpieza de superficies de productos y materiales fabricados (se excluye la limpieza de los equipos), con un consumo de disolvente orgánico superior a 2 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11.9</p>
+<p>11.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recubrimiento con adhesivos, con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
+<p>Recubrimiento de bobinas metálicas con una película o un recubrimiento laminado, en un proceso continuo, con un consumo de disolvente orgánico superior a 25 t/año e inferior o igual a 200 t/año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.6</p>
+</td>
+<td>
+<p>Otros tipos de recubrimiento con una película continua, incluido el recubrimiento de metal, plástico, textil, tejidos, películas y papel, con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.7</p>
+</td>
+<td>
+<p>Recubrimiento de alambre de bobinas, con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.8</p>
+</td>
+<td>
+<p>Recubrimiento de madera, con un consumo de disolvente orgánico superior a 15 t/año e inferior o igual a 200 t/año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.9</p>
+</td>
+<td>
+<p>Recubrimiento con adhesivos, con un consumo de disolvente orgánico superior a 5 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 12. INDUSTRIA DE LA CONSERVACIÓN DE LA MADERA.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12.1</p>
+<p>12.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plantas industriales para la conservación de madera y productos derivados utilizando productos químicos, con una capacidad de producción superior a 50 m<sup>3</sup>/día e inferior o igual a 75 m<sup>3</sup>/día.</p>
+<p>Plantas industriales para la conservación de madera y productos derivados utilizando productos químicos, con una capacidad de producción superior a 50 m<sup>3</sup>/día e inferior o igual a 75 m<sup>3</sup>/día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12.2</p>
+<p>12.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Impregnación de fibras de madera, con un consumo de disolvente orgánico superior a 25 t/año e inferior o igual a 200 t/año.</p>
+<p>Impregnación de fibras de madera, con un consumo de disolvente orgánico superior a 25 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 13.</strong>
 <strong>TRATAMIENTO DE AGUAS RESIDUALES.</strong>
 </p>
@@ -2272,39 +2265,39 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13.1</p>
+<p>13.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratamiento independiente de aguas residuales, no contemplado en la legislación sobre aguas residuales urbanas, y vertidas por una instalación no sometida a autorización ambiental integrada, con capacidad superior a 300 habitantes-equivalentes.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">13.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tratamiento no independiente de aguas residuales, no contemplado en la legislación sobre aguas residuales urbanas, con capacidad superior a 300 habitantes-equivalentes.</p>
+<p>Tratamiento independiente de aguas residuales, no contemplado en la legislación sobre aguas residuales urbanas, y vertidas por una instalación no sometida a autorización ambiental integrada, con capacidad superior a 300 habitantes-equivalentes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13.3</p>
+<p>13.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento de aguas residuales urbanas con una capacidad superior a 300 habitantes-equivalentes.</p>
+<p>Tratamiento no independiente de aguas residuales, no contemplado en la legislación sobre aguas residuales urbanas, con capacidad superior a 300 habitantes-equivalentes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13.4</p>
+<p>13.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plantas de tratamiento de aguas residuales cuando puedan suponer transformaciones ecológicas negativas para el espacio, cuando se instalen en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad., con cualquier capacidad.</p>
+<p>Instalaciones de tratamiento de aguas residuales urbanas con una capacidad superior a 300 habitantes-equivalentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13.4</p>
+</td>
+<td>
+<p>Plantas de tratamiento de aguas residuales cuando puedan suponer transformaciones ecológicas negativas para el espacio, cuando se instalen en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad., con cualquier capacidad.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 14.</strong>
 <strong>CAPTURA DE CO<sub>2</sub>.</strong>
 </p>
@@ -2312,12 +2305,12 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones para la captura de flujos de CO<sub>2</sub> con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono; procedente de instalaciones no sometidas a autorización ambiental integrada.</p>
+<p>Instalaciones para la captura de flujos de CO<sub>2</sub> con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono; procedente de instalaciones no sometidas a autorización ambiental integrada.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 15.</strong>
 <strong>ARTES GRÁFICAS.</strong>
 </p>
@@ -2325,166 +2318,166 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15.1</p>
+<p>15.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Impresión en Offset de bobinas por secado al calor, con un consumo de disolvente superior a 15 t/año.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">15.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Rotograbado de publicaciones, con un consumo de disolvente superior a 25 t/año.</p>
+<p>Impresión en Offset de bobinas por secado al calor, con un consumo de disolvente superior a 15 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15.3</p>
+<p>15.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras unidades de rotograbado, flexografía, impresión serigráfica rotativa, laminado o barnizado, con un consumo de disolvente superior a 15 t/año.</p>
+<p>Rotograbado de publicaciones, con un consumo de disolvente superior a 25 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15.4</p>
+<p>15.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras unidades de impresión serigráfica rotativa sobre textil o en cartón/cartulina, con un consumo de disolvente superior a 30 t/año.</p>
+<p>Otras unidades de rotograbado, flexografía, impresión serigráfica rotativa, laminado o barnizado, con un consumo de disolvente superior a 15 t/año.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.4</p>
+</td>
+<td>
+<p>Otras unidades de impresión serigráfica rotativa sobre textil o en cartón/cartulina, con un consumo de disolvente superior a 30 t/año.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 16. OTRAS ACTIVIDADES INDUSTRIALES.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.1</p>
+<p>16.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Producción de elementos de poliéster reforzado con fibra de vidrio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tratamiento o conversión de caucho, con un consumo de disolvente orgánico, superior a 15 t/año e inferior o igual a 200 t/año.</p>
+<p>Producción de elementos de poliéster reforzado con fibra de vidrio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.3</p>
+<p>16.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para el decapado y limpieza de útiles de pintura o piezas pintadas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación, recuperación o destrucción de sustancias explosivas.</p>
+<p>Tratamiento o conversión de caucho, con un consumo de disolvente orgánico, superior a 15 t/año e inferior o igual a 200 t/año.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.5</p>
+<p>16.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Crematorios de cadáveres y restos humanos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Crematorios de cadáveres y restos humanos.</p>
+<p>Instalaciones para el decapado y limpieza de útiles de pintura o piezas pintadas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.7</p>
+<p>16.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plantas de producción de mezclas bituminosas o conglomerados asfálticos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Plantas de producción de hormigón.</p>
+<p>Instalaciones para la fabricación, recuperación o destrucción de sustancias explosivas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.9</p>
+<p>16.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lavanderías industriales que realicen vertidos de aguas residuales, con un caudal de vertido diario superior a 50 m<sup>3</sup>/día.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la construcción y reparación de aeronaves, con cualquier capacidad.</p>
+<p>Crematorios de cadáveres y restos humanos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.11</p>
+<p>16.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación de material ferroviario, con cualquier capacidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones para la fabricación y montaje de vehículos de motor y fabricación de motores para vehículos, con cualquier capacidad.</p>
+<p>Crematorios de cadáveres y restos humanos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.13</p>
+<p>16.7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones o bancos de prueba de motores, turbinas o reactores, con cualquier capacidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento de vehículos desechados (instalaciones de recepción de vehículos).</p>
+<p>Plantas de producción de mezclas bituminosas o conglomerados asfálticos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16.15</p>
+<p>16.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otras instalaciones industriales no especificadas en otras categorías, que requieran disponer de autorización de emisiones a la atmósfera.</p>
+<p>Plantas de producción de hormigón.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.9</p>
+</td>
+<td>
+<p>Lavanderías industriales que realicen vertidos de aguas residuales, con un caudal de vertido diario superior a 50 m<sup>3</sup>/día.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.10</p>
+</td>
+<td>
+<p>Instalaciones para la construcción y reparación de aeronaves, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.11</p>
+</td>
+<td>
+<p>Instalaciones para la fabricación de material ferroviario, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.12</p>
+</td>
+<td>
+<p>Instalaciones para la fabricación y montaje de vehículos de motor y fabricación de motores para vehículos, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.13</p>
+</td>
+<td>
+<p>Instalaciones o bancos de prueba de motores, turbinas o reactores, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.14</p>
+</td>
+<td>
+<p>Instalaciones de almacenamiento de vehículos desechados (instalaciones de recepción de vehículos).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16.15</p>
+</td>
+<td>
+<p>Otras instalaciones industriales no especificadas en otras categorías, que requieran disponer de autorización de emisiones a la atmósfera.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 17.</strong>
 <strong>INSTALACIONES DE ALMACENAMIENTO.</strong>
 </p>
@@ -2492,127 +2485,127 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.1</p>
+<p>17.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento de productos químicos, con una capacidad superior a 100 m<sup>3</sup>.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento de petróleo o productos petrolíferos, con una capacidad superior a 100 m<sup>3</sup>.</p>
+<p>Instalaciones de almacenamiento de productos químicos, con una capacidad superior a 100 m<sup>3</sup>.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.3</p>
+<p>17.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento de productos petroquímicos, con una capacidad superior a 100 m<sup>3</sup>.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento para el suministro de combustibles líquidos (depósitos auxiliares de suministro a procesos industriales y similares), con capacidad superior o igual a 500 m<sup>3</sup>.</p>
+<p>Instalaciones de almacenamiento de petróleo o productos petrolíferos, con una capacidad superior a 100 m<sup>3</sup>.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.6</p>
+<p>17.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento para el suministro de combustibles licuados (depósitos de GLP y similares), con capacidad superior o igual a 500 t.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Depósitos logísticos de distribución de combustibles líquidos o licuados, con cualquier capacidad.</p>
+<p>Instalaciones de almacenamiento de productos petroquímicos, con una capacidad superior a 100 m<sup>3</sup>.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.8</p>
+<p>17.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento subterráneo de petróleo con fines comerciales, con cualquier capacidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almacenamiento subterráneo de gas natural con fines comerciales, con cualquier capacidad.</p>
+<p>Instalaciones de almacenamiento para el suministro de combustibles líquidos (depósitos auxiliares de suministro a procesos industriales y similares), con capacidad superior o igual a 500 m<sup>3</sup>.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.10</p>
+<p>17.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento subterráneo de petróleo y gas natural, cuando se desarrolle en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, con cualquier capacidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almacenamiento subterráneo de gases combustibles en cualquier localización y de gas natural fuera de Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, con cualquier capacidad.</p>
+<p>Instalaciones de almacenamiento para el suministro de combustibles licuados (depósitos de GLP y similares), con capacidad superior o igual a 500 t.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.12</p>
+<p>17.7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento sobre el terreno de combustibles fósiles sólidos, con cualquier capacidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Instalaciones diseñadas para el depósito final del combustible nuclear gastado o exclusivamente el depósito final de residuos radiactivos o exclusivamente el almacenamiento (proyectado para un período superior a diez años) de combustibles nucleares irradiados o de residuos radiactivos en un lugar distinto del de producción.</p>
+<p>Depósitos logísticos de distribución de combustibles líquidos o licuados, con cualquier capacidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.14</p>
+<p>17.8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Instalaciones de almacenamiento de halocarburos y hexacloruro de azufre, con cualquier capacidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17.15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Almacenamiento independiente de estiércoles líquidos (purines), con una capacidad total superior a 5.000 m<sup>3</sup>.</p>
+<p>Almacenamiento subterráneo de petróleo con fines comerciales, con cualquier capacidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.16</p>
+<p>17.9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Almacenamiento independiente de estiércoles sólidos, con una capacidad total superior a 5.000 toneladas.</p>
+<p>Almacenamiento subterráneo de gas natural con fines comerciales, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.10</p>
+</td>
+<td>
+<p>Almacenamiento subterráneo de petróleo y gas natural, cuando se desarrolle en Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.11</p>
+</td>
+<td>
+<p>Almacenamiento subterráneo de gases combustibles en cualquier localización y de gas natural fuera de Espacios Naturales Protegidos, Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.12</p>
+</td>
+<td>
+<p>Almacenamiento sobre el terreno de combustibles fósiles sólidos, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.13</p>
+</td>
+<td>
+<p>Instalaciones diseñadas para el depósito final del combustible nuclear gastado o exclusivamente el depósito final de residuos radiactivos o exclusivamente el almacenamiento (proyectado para un período superior a diez años) de combustibles nucleares irradiados o de residuos radiactivos en un lugar distinto del de producción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.14</p>
+</td>
+<td>
+<p>Instalaciones de almacenamiento de halocarburos y hexacloruro de azufre, con cualquier capacidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.15</p>
+</td>
+<td>
+<p>Almacenamiento independiente de estiércoles líquidos (purines), con una capacidad total superior a 5.000 m<sup>3</sup>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17.16</p>
+</td>
+<td>
+<p>Almacenamiento independiente de estiércoles sólidos, con una capacidad total superior a 5.000 toneladas.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>GRUPO 18.</strong>
 <strong>ACTIVIDADES COMERCIALES Y SERVICIOS.</strong>
 </p>
@@ -2620,7 +2613,7 @@ Pamplona, 16 de diciembre de 2020.–La Presidenta de la Comunidad Foral de Nava
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Estaciones de servicio y unidades de suministro de combustibles líquidos con capacidad de almacenamiento superior o igual a 500 m<sup>3</sup>.</p>
+<p>Estaciones de servicio y unidades de suministro de combustibles líquidos con capacidad de almacenamiento superior o igual a 500 m<sup>3</sup>.</p>
 </td>
 </tr>
 </tbody>
@@ -2666,17 +2659,7 @@ I) Proyectos de restauración de espacios degradados ambientalmente no incluidos
 
 ## ANEJO 3 — Actividades sometidas a licencia de actividad clasificada
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
 <td colspan="2">

@@ -3625,37 +3625,33 @@ La experiencia laboral se acreditará mediante la certificación de la empresa d
 
 ## ANEXO XI — Formación a distancia
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Grado superior</p>
+<p>Grado superior</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Módulos bloque común.</td>
-<td class="cuerpo_tabla_izq">MED-C301 Factores fisiológicos del alto rendimiento</td>
+<td rowspan="4">Módulos bloque común.</td>
+<td>MED-C301 Factores fisiológicos del alto rendimiento</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C302 Factores psicosociales del alto rendimiento.</td>
+<td>MED-C302 Factores psicosociales del alto rendimiento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C303 Formación de formadores deportivos.</td>
+<td>MED-C303 Formación de formadores deportivos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C304 Organización y gestión aplicada al alto rendimiento.</td>
+<td>MED-C304 Organización y gestión aplicada al alto rendimiento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Módulos bloque específico.</td>
-<td class="cuerpo_tabla_izq">MED-ATAT305 Planificación técnica y condicional en atletismo.</td>
+<td rowspan="3">Módulos bloque específico.</td>
+<td>MED-ATAT305 Planificación técnica y condicional en atletismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-ATAT306 Organización y gestión en atletismo.</td>
+<td>MED-ATAT306 Organización y gestión en atletismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-ATAT307 Proyecto.</td>
+<td>MED-ATAT307 Proyecto.</td>
 </tr>
 </tbody>
 </table>

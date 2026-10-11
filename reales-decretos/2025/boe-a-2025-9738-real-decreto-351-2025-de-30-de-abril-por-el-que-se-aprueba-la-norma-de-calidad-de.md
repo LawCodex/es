@@ -288,570 +288,546 @@ Características fisicoquímicas: las características de calidad y composición
 
 Composición de ácidos grasos
 
-<table class="tabla_girada">
-<colgroup>
-<col width="15%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="3%">
-<col width="4%">
-<col width="5%">
-<col width="4%">
-<col width="3%">
-<col width="3%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-<col width="4%">
-<col width="5%">
-<col width="3%">
-<col width="5%">
-<col width="5%">
-<col width="3%">
-<col width="4%">
-<col width="5%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Producto</th>
-<th class="cabeza_tabla" colspan="21">Composición de ácidos grasos (%)</th>
+<th rowspan="2">Producto</th>
+<th colspan="21">Composición de ácidos grasos (%)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">C6:0</th>
-<th class="cabeza_tabla">C8:0</th>
-<th class="cabeza_tabla">C10:0</th>
-<th class="cabeza_tabla">C12:0</th>
-<th class="cabeza_tabla">C14:0</th>
-<th class="cabeza_tabla">C16:0</th>
-<th class="cabeza_tabla">C16:1</th>
-<th class="cabeza_tabla">C17:0</th>
-<th class="cabeza_tabla">C17:1</th>
-<th class="cabeza_tabla">C18:0</th>
-<th class="cabeza_tabla">C18:1</th>
-<th class="cabeza_tabla">C18:2</th>
-<th class="cabeza_tabla">C18:3</th>
-<th class="cabeza_tabla">C20:0</th>
-<th class="cabeza_tabla">C20:1</th>
-<th class="cabeza_tabla">C20:2</th>
-<th class="cabeza_tabla">C22:0</th>
-<th class="cabeza_tabla">C22:1</th>
-<th class="cabeza_tabla">C22:2</th>
-<th class="cabeza_tabla">C24:0</th>
-<th class="cabeza_tabla">C24:1</th>
+<th>C6:0</th>
+<th>C8:0</th>
+<th>C10:0</th>
+<th>C12:0</th>
+<th>C14:0</th>
+<th>C16:0</th>
+<th>C16:1</th>
+<th>C17:0</th>
+<th>C17:1</th>
+<th>C18:0</th>
+<th>C18:1</th>
+<th>C18:2</th>
+<th>C18:3</th>
+<th>C20:0</th>
+<th>C20:1</th>
+<th>C20:2</th>
+<th>C22:0</th>
+<th>C22:1</th>
+<th>C22:2</th>
+<th>C24:0</th>
+<th>C24:1</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Aceite de soja.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">8.0 –13.5</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.0–5.4</td>
-<td class="cuerpo_tabla_centro">17.0 –30.0</td>
-<td class="cuerpo_tabla_centro">48.0 –59.0</td>
-<td class="cuerpo_tabla_centro">4.5 –11.0</td>
-<td class="cuerpo_tabla_centro">0.1 –0.6</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.7</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>1. Aceite de soja.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>≤0.2</td>
+<td>8.0 –13.5</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>2.0–5.4</td>
+<td>17.0 –30.0</td>
+<td>48.0 –59.0</td>
+<td>4.5 –11.0</td>
+<td>0.1 –0.6</td>
+<td>≤0.5</td>
+<td>≤0.1</td>
+<td>≤0.7</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 Aceite de soja alto oleico.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">2.5 – 8.0</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.8</td>
-<td class="cuerpo_tabla_centro">≤ 1.5</td>
-<td class="cuerpo_tabla_centro">3.2 – 5.0</td>
-<td class="cuerpo_tabla_centro">65.0 – 85.0</td>
-<td class="cuerpo_tabla_centro">1.0 – 12.0</td>
-<td class="cuerpo_tabla_centro">1.1 – 2.5</td>
-<td class="cuerpo_tabla_centro">≤ 1.0</td>
-<td class="cuerpo_tabla_centro">≤ 1.0</td>
-<td class="cuerpo_tabla_centro">≤ 0.1</td>
-<td class="cuerpo_tabla_centro">≤ 0.7</td>
-<td class="cuerpo_tabla_centro">≤ 0.4</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤ 0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>1.1 Aceite de soja alto oleico.</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>≤0.5</td>
+<td>2.5 – 8.0</td>
+<td>≤0.1</td>
+<td>≤0.8</td>
+<td>≤ 1.5</td>
+<td>3.2 – 5.0</td>
+<td>65.0 – 85.0</td>
+<td>1.0 – 12.0</td>
+<td>1.1 – 2.5</td>
+<td>≤ 1.0</td>
+<td>≤ 1.0</td>
+<td>≤ 0.1</td>
+<td>≤ 0.7</td>
+<td>≤ 0.4</td>
+<td>≤0.05</td>
+<td>≤ 0.5</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Aceite de cacahuete.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0,1</td>
-<td class="cuerpo_tabla_centro">≤0,1</td>
-<td class="cuerpo_tabla_centro">5.0 – 14.0</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">1.0–4.5</td>
-<td class="cuerpo_tabla_centro">35.0 – 80.0</td>
-<td class="cuerpo_tabla_centro">4.0 – 43.0</td>
-<td class="cuerpo_tabla_centro">≤ 0.5</td>
-<td class="cuerpo_tabla_centro">0.7–2.0</td>
-<td class="cuerpo_tabla_centro">0.7–3.2</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">1.5–4.5</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">0.5–2.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
+<td>2. Aceite de cacahuete.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0,1</td>
+<td>≤0,1</td>
+<td>5.0 – 14.0</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>1.0–4.5</td>
+<td>35.0 – 80.0</td>
+<td>4.0 – 43.0</td>
+<td>≤ 0.5</td>
+<td>0.7–2.0</td>
+<td>0.7–3.2</td>
+<td>≤0.05</td>
+<td>1.5–4.5</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
+<td>0.5–2.5</td>
+<td>≤0.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Aceite de girasol.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">5.0–7.6</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.7–6.5</td>
-<td class="cuerpo_tabla_centro">14.0–43.0</td>
-<td class="cuerpo_tabla_centro">45.4–74.0</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">0.1–0.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">0.3–1.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>3. Aceite de girasol.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>≤0.2</td>
+<td>5.0–7.6</td>
+<td>≤0.3</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>2.7–6.5</td>
+<td>14.0–43.0</td>
+<td>45.4–74.0</td>
+<td>≤0.3</td>
+<td>0.1–0.5</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>0.3–1.5</td>
+<td>≤0.3</td>
+<td>≤0.3</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 Aceite de girasol alto oleico.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.6–5.0</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.0 – 6.2</td>
-<td class="cuerpo_tabla_centro">&gt;75.0</td>
-<td class="cuerpo_tabla_centro">2.1 –17.0</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">0.2–0.5</td>
-<td class="cuerpo_tabla_centro">0.1–0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">0.3 – 1.6</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>3.1 Aceite de girasol alto oleico.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>2.6–5.0</td>
+<td>≤0.2</td>
+<td>≤0.3</td>
+<td>≤0.1</td>
+<td>2.0 – 6.2</td>
+<td>&gt;75.0</td>
+<td>2.1 –17.0</td>
+<td>≤0.3</td>
+<td>0.2–0.5</td>
+<td>0.1–0.5</td>
+<td>≤0.05</td>
+<td>0.3 – 1.6</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2 Aceite de girasol medio oleico.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">4.0–5.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.1–5.0</td>
-<td class="cuerpo_tabla_centro">43.1–74.9</td>
-<td class="cuerpo_tabla_centro">18.7–45.3</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">0.2–0.4</td>
-<td class="cuerpo_tabla_centro">0.2–0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">0.6–1.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">0.3–0.4</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>3.2 Aceite de girasol medio oleico.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤1.0</td>
+<td>4.0–5.5</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>2.1–5.0</td>
+<td>43.1–74.9</td>
+<td>18.7–45.3</td>
+<td>≤0.5</td>
+<td>0.2–0.4</td>
+<td>0.2–0.3</td>
+<td>≤0.05</td>
+<td>0.6–1.1</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>0.3–0.4</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Aceite de algodón.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">0.6–1.0</td>
-<td class="cuerpo_tabla_centro">21.4–26.4</td>
-<td class="cuerpo_tabla_centro">≤1.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.1–3.3</td>
-<td class="cuerpo_tabla_centro">14.7–21.7</td>
-<td class="cuerpo_tabla_centro">46.7–58.2</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
-<td class="cuerpo_tabla_centro">0.2–0.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.6</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>4. Aceite de algodón.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>0.6–1.0</td>
+<td>21.4–26.4</td>
+<td>≤1.2</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>2.1–3.3</td>
+<td>14.7–21.7</td>
+<td>46.7–58.2</td>
+<td>≤0.4</td>
+<td>0.2–0.5</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>≤0.6</td>
+<td>≤0.3</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Aceite de germen de maíz.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">8.6–16.5</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤3.3</td>
-<td class="cuerpo_tabla_centro">20.0–42.2</td>
-<td class="cuerpo_tabla_centro">34.0–65.6</td>
-<td class="cuerpo_tabla_centro">≤2.0</td>
-<td class="cuerpo_tabla_centro">0.3–1.0</td>
-<td class="cuerpo_tabla_centro">0.2–0.6</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>5. Aceite de germen de maíz.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>≤0.3</td>
+<td>8.6–16.5</td>
+<td>≤0.5</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>≤3.3</td>
+<td>20.0–42.2</td>
+<td>34.0–65.6</td>
+<td>≤2.0</td>
+<td>0.3–1.0</td>
+<td>0.2–0.6</td>
+<td>≤0.1</td>
+<td>≤0.5</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Aceite de colza.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">2.5–7.0</td>
-<td class="cuerpo_tabla_centro">≤0.6</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">0.8–3.0</td>
-<td class="cuerpo_tabla_centro">51.0–70.0</td>
-<td class="cuerpo_tabla_centro">15.0–30.0</td>
-<td class="cuerpo_tabla_centro">5.0–14.0</td>
-<td class="cuerpo_tabla_centro">0.2–1.2</td>
-<td class="cuerpo_tabla_centro">0.1–4.3</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.6</td>
-<td class="cuerpo_tabla_centro">≤2.0</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
+<td>6. Aceite de colza.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>2.5–7.0</td>
+<td>≤0.6</td>
+<td>≤0.3</td>
+<td>≤0.3</td>
+<td>0.8–3.0</td>
+<td>51.0–70.0</td>
+<td>15.0–30.0</td>
+<td>5.0–14.0</td>
+<td>0.2–1.2</td>
+<td>0.1–4.3</td>
+<td>≤0.1</td>
+<td>≤0.6</td>
+<td>≤2.0</td>
+<td>≤0.1</td>
+<td>≤0.3</td>
+<td>≤0.4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Aceite de cártamo.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">5.3–8.0</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">1.9–2.9</td>
-<td class="cuerpo_tabla_centro">8.4–21.3</td>
-<td class="cuerpo_tabla_centro">67.8–83.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">0.2–0.4</td>
-<td class="cuerpo_tabla_centro">0.1–0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">≤1.8</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
+<td>7. Aceite de cártamo.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>5.3–8.0</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>1.9–2.9</td>
+<td>8.4–21.3</td>
+<td>67.8–83.2</td>
+<td>≤0.1</td>
+<td>0.2–0.4</td>
+<td>0.1–0.3</td>
+<td>≤0.05</td>
+<td>≤1.0</td>
+<td>≤1.8</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1 Aceite de cártamo alto oleico.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">3.6–6.0</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">1.5–2.4</td>
-<td class="cuerpo_tabla_centro">70.0–83.7</td>
-<td class="cuerpo_tabla_centro">9.0–19.9</td>
-<td class="cuerpo_tabla_centro">≤1.2</td>
-<td class="cuerpo_tabla_centro">0.3–0.6</td>
-<td class="cuerpo_tabla_centro">0.1–0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
+<td>7.1 Aceite de cártamo alto oleico.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.2</td>
+<td>3.6–6.0</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>1.5–2.4</td>
+<td>70.0–83.7</td>
+<td>9.0–19.9</td>
+<td>≤1.2</td>
+<td>0.3–0.6</td>
+<td>0.1–0.5</td>
+<td>≤0.05</td>
+<td>≤0.4</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>≤0.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Aceite de pepita de uva.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">5.5–11.0</td>
-<td class="cuerpo_tabla_centro">≤1.2</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">3.0–6.5</td>
-<td class="cuerpo_tabla_centro">12.0–28.0</td>
-<td class="cuerpo_tabla_centro">58.0 – 78.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>8. Aceite de pepita de uva.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>5.5–11.0</td>
+<td>≤1.2</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>3.0–6.5</td>
+<td>12.0–28.0</td>
+<td>58.0 – 78.0</td>
+<td>≤1.0</td>
+<td>≤1.0</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.4</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Aceite de salvado de arroz.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">14.0–23.0</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">0.9–4.0</td>
-<td class="cuerpo_tabla_centro">38.0–48.0</td>
-<td class="cuerpo_tabla_centro">21.0–42.0</td>
-<td class="cuerpo_tabla_centro">0.1–2.9</td>
-<td class="cuerpo_tabla_centro">≤0.9</td>
-<td class="cuerpo_tabla_centro">≤0.8</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.9</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>9. Aceite de salvado de arroz.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤1.0</td>
+<td>14.0–23.0</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>0.9–4.0</td>
+<td>38.0–48.0</td>
+<td>21.0–42.0</td>
+<td>0.1–2.9</td>
+<td>≤0.9</td>
+<td>≤0.8</td>
+<td>≤0.05</td>
+<td>≤1.0</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.9</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Aceite de sésamo.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">7.9–12.0</td>
-<td class="cuerpo_tabla_centro">0.1–0.2</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">4.8–6.1</td>
-<td class="cuerpo_tabla_centro">35.9–42.3</td>
-<td class="cuerpo_tabla_centro">41.5–47.9</td>
-<td class="cuerpo_tabla_centro">0.3–0.4</td>
-<td class="cuerpo_tabla_centro">0.3–0.6</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>10. Aceite de sésamo.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>7.9–12.0</td>
+<td>0.1–0.2</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>4.8–6.1</td>
+<td>35.9–42.3</td>
+<td>41.5–47.9</td>
+<td>0.3–0.4</td>
+<td>0.3–0.6</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Aceite de semilla de lino.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">4.0 –11.3</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">2.0–8.0</td>
-<td class="cuerpo_tabla_centro">9.8–36.0</td>
-<td class="cuerpo_tabla_centro">8.3–30.0</td>
-<td class="cuerpo_tabla_centro">43.8–70.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">≤1.2</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤1.2</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>11. Aceite de semilla de lino.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>≤0.2</td>
+<td>4.0 –11.3</td>
+<td>≤0.5</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>2.0–8.0</td>
+<td>9.8–36.0</td>
+<td>8.3–30.0</td>
+<td>43.8–70.0</td>
+<td>≤1.0</td>
+<td>≤1.2</td>
+<td>≤0.05</td>
+<td>≤0.5</td>
+<td>≤1.2</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Aceite de semilla de mostaza.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">0.5–4.5</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">0.5–2.0</td>
-<td class="cuerpo_tabla_centro">8.0–23.0</td>
-<td class="cuerpo_tabla_centro">10.0–24.0</td>
-<td class="cuerpo_tabla_centro">6.0–18.0</td>
-<td class="cuerpo_tabla_centro">≤1.5</td>
-<td class="cuerpo_tabla_centro">5.0–13.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">0.2–2.5</td>
-<td class="cuerpo_tabla_centro">22.0–50.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">0.5–2.5</td>
+<td>12. Aceite de semilla de mostaza.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤1.0</td>
+<td>0.5–4.5</td>
+<td>≤0.5</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>0.5–2.0</td>
+<td>8.0–23.0</td>
+<td>10.0–24.0</td>
+<td>6.0–18.0</td>
+<td>≤1.5</td>
+<td>5.0–13.0</td>
+<td>≤1.0</td>
+<td>0.2–2.5</td>
+<td>22.0–50.0</td>
+<td>≤1.0</td>
+<td>≤0.5</td>
+<td>0.5–2.5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Aceite de almendra.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">4.0–9.0</td>
-<td class="cuerpo_tabla_centro">0.2–0.8</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤3.0</td>
-<td class="cuerpo_tabla_centro">62.0–76.0</td>
-<td class="cuerpo_tabla_centro">20.0–30.0</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>13. Aceite de almendra.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>4.0–9.0</td>
+<td>0.2–0.8</td>
+<td>≤0.2</td>
+<td>≤0.2</td>
+<td>≤3.0</td>
+<td>62.0–76.0</td>
+<td>20.0–30.0</td>
+<td>≤0.5</td>
+<td>≤0.5</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14. Aceite de avellana.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">4.2–8.9</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">0.8–3.2</td>
-<td class="cuerpo_tabla_centro">74.2–86.7</td>
-<td class="cuerpo_tabla_centro">5.2–18.7</td>
-<td class="cuerpo_tabla_centro">≤0.6</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
+<td>14. Aceite de avellana.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.1</td>
+<td>4.2–8.9</td>
+<td>≤0.5</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>0.8–3.2</td>
+<td>74.2–86.7</td>
+<td>5.2–18.7</td>
+<td>≤0.6</td>
+<td>≤0.3</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15. Aceite de nuez.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">6.0–8.0</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">1.0–3.0</td>
-<td class="cuerpo_tabla_centro">14.0–23.0</td>
-<td class="cuerpo_tabla_centro">54.0–65.0</td>
-<td class="cuerpo_tabla_centro">9.0–15.4</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>15. Aceite de nuez.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>6.0–8.0</td>
+<td>≤0.4</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>1.0–3.0</td>
+<td>14.0–23.0</td>
+<td>54.0–65.0</td>
+<td>9.0–15.4</td>
+<td>≤0.3</td>
+<td>≤0.3</td>
+<td>≤0.05</td>
+<td>≤0.2</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16. Aceite de pistacho.</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.6</td>
-<td class="cuerpo_tabla_centro">8.0 –13.0</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">0.5–3.5</td>
-<td class="cuerpo_tabla_centro">50.0–70.0</td>
-<td class="cuerpo_tabla_centro">8.0–34.0</td>
-<td class="cuerpo_tabla_centro">0.1–1.0</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">≤0.6</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
+<td>16. Aceite de pistacho.</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.6</td>
+<td>8.0 –13.0</td>
+<td>≤0.2</td>
+<td>≤0.1</td>
+<td>≤0.1</td>
+<td>0.5–3.5</td>
+<td>50.0–70.0</td>
+<td>8.0–34.0</td>
+<td>0.1–1.0</td>
+<td>≤0.3</td>
+<td>≤0.6</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">17. Aceite de aguacate.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤ 0.3</td>
-<td class="cuerpo_tabla_centro">11.0 – 26.0</td>
-<td class="cuerpo_tabla_centro">4.0 – 17.1</td>
-<td class="cuerpo_tabla_centro">≤ 0.3</td>
-<td class="cuerpo_tabla_centro">≤ 0.1</td>
-<td class="cuerpo_tabla_centro">0.1 – 1.3</td>
-<td class="cuerpo_tabla_centro">42.0 – 75.0</td>
-<td class="cuerpo_tabla_centro">7.8 – 19.0</td>
-<td class="cuerpo_tabla_centro">0.5 – 2.1</td>
-<td class="cuerpo_tabla_centro">≤ 0.7</td>
-<td class="cuerpo_tabla_centro">≤ 0.3</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤ 0.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤ 0.2</td>
-<td class="cuerpo_tabla_centro">≤ 0.2</td>
+<td>17. Aceite de aguacate.</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>≤ 0.3</td>
+<td>11.0 – 26.0</td>
+<td>4.0 – 17.1</td>
+<td>≤ 0.3</td>
+<td>≤ 0.1</td>
+<td>0.1 – 1.3</td>
+<td>42.0 – 75.0</td>
+<td>7.8 – 19.0</td>
+<td>0.5 – 2.1</td>
+<td>≤ 0.7</td>
+<td>≤ 0.3</td>
+<td>–</td>
+<td>≤ 0.5</td>
+<td>–</td>
+<td>–</td>
+<td>≤ 0.2</td>
+<td>≤ 0.2</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="22">
-<p class="parrafo_2">Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma.</p>
+<p>Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma.</p>
 </td>
 </tr>
 </tfoot>
@@ -861,102 +837,94 @@ Composición de ácidos grasos
 
 III.1 Parámetros de calidad
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Humedad y materias volátiles</p>
-<p class="cabeza_tabla">(%)</p>
+<th>Producto</th>
+<th rowspan="2">
+<p>Humedad y materias volátiles</p>
+<p>(%)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Impurezas insolubles en éter de petróleo</p>
-<p class="cabeza_tabla">(%)</p>
+<th rowspan="2">
+<p>Impurezas insolubles en éter de petróleo</p>
+<p>(%)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Acidez</p>
-<p class="cabeza_tabla">(% ácido oleico)</p>
+<th rowspan="2">
+<p>Acidez</p>
+<p>(% ácido oleico)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Índice de peróxidos (meq de O<sub>2</sub> activo/Kg. de grasa)</th>
-<th class="cabeza_tabla" rowspan="2">Residuos de jabón (%)</th>
+<th rowspan="2">Índice de peróxidos (meq de O<sub>2</sub> activo/Kg. de grasa)</th>
+<th rowspan="2">Residuos de jabón (%)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceites de presión</th>
+<th>Aceites de presión</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Aceite de soja.</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 0.2</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 0.1</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 2</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 15</td>
-<td class="cuerpo_tabla_centro" rowspan="18">Ausencia</td>
+<td>1. Aceite de soja.</td>
+<td rowspan="18">≤ 0.2</td>
+<td rowspan="18">≤ 0.1</td>
+<td rowspan="18">≤ 2</td>
+<td rowspan="18">≤ 15</td>
+<td rowspan="18">Ausencia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Aceite de cacahuete.</td>
+<td>2. Aceite de cacahuete.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Aceite de girasol.</td>
+<td>3. Aceite de girasol.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Aceite de algodón.</td>
+<td>4. Aceite de algodón.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Aceite de germen de maíz.</td>
+<td>5. Aceite de germen de maíz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Aceite de colza.</td>
+<td>6. Aceite de colza.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Aceite de cártamo.</td>
+<td>7. Aceite de cártamo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Aceite de pepita de uva.</td>
+<td>8. Aceite de pepita de uva.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Aceite de salvado de arroz.</td>
+<td>9. Aceite de salvado de arroz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Aceite de sésamo.</td>
+<td>10. Aceite de sésamo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Aceite de semilla de lino.</td>
+<td>11. Aceite de semilla de lino.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Aceite de semilla de mostaza.</td>
+<td>12. Aceite de semilla de mostaza.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Aceite de semilla de cáñamo.</td>
+<td>13. Aceite de semilla de cáñamo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14. Aceite de almendra.</td>
+<td>14. Aceite de almendra.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15. Aceite de avellana.</td>
+<td>15. Aceite de avellana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16. Aceite de nuez.</td>
+<td>16. Aceite de nuez.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">17. Aceite de pistacho.</td>
+<td>17. Aceite de pistacho.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18. Aceite de aguacate.</td>
+<td>18. Aceite de aguacate.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="parrafo_2">Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma.</p>
+<p>Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma.</p>
 </td>
 </tr>
 </tfoot>
@@ -964,353 +932,337 @@ III.1 Parámetros de calidad
 
 III.2 Parámetros de composición
 
-<table class="tabla_girada">
-<colgroup>
-<col width="15%">
-<col width="4%">
-<col width="4%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="8%">
-<col width="7%">
-<col width="6%">
-<col width="7%">
-<col width="7%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Estigmastadienos (mg/kg)</th>
-<th class="cabeza_tabla" colspan="11">Composición de esteroles (%)</th>
+<th>Producto</th>
+<th colspan="2" rowspan="2">Estigmastadienos (mg/kg)</th>
+<th colspan="11">Composición de esteroles (%)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceites de presión</th>
-<th class="cabeza_tabla">Colesterol</th>
-<th class="cabeza_tabla">Brassicasterol</th>
-<th class="cabeza_tabla">Campesterol</th>
-<th class="cabeza_tabla">Estigmasterol</th>
-<th class="cabeza_tabla">β-sitosterol</th>
-<th class="cabeza_tabla">Δ5-Avenasterol</th>
-<th class="cabeza_tabla">Δ7-estigmastenol</th>
-<th class="cabeza_tabla">Δ7-Avenasterol</th>
-<th class="cabeza_tabla">Eritrodiol</th>
-<th class="cabeza_tabla">Otros esteroles</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Esteroles totales</p>
-<p class="cabeza_tabla">mg/Kg.</p>
+<th>Aceites de presión</th>
+<th>Colesterol</th>
+<th>Brassicasterol</th>
+<th>Campesterol</th>
+<th>Estigmasterol</th>
+<th>β-sitosterol</th>
+<th>Δ5-Avenasterol</th>
+<th>Δ7-estigmastenol</th>
+<th>Δ7-Avenasterol</th>
+<th>Eritrodiol</th>
+<th>Otros esteroles</th>
+<th>
+<p>Esteroles totales</p>
+<p>mg/Kg.</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Aceite de soja.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">0.2–1.4</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">15.8–24.2</td>
-<td class="cuerpo_tabla_centro">14.9–19.1</td>
-<td class="cuerpo_tabla_centro">47.0–60.0</td>
-<td class="cuerpo_tabla_centro">1.5–3.7</td>
-<td class="cuerpo_tabla_centro">1.4–5.2</td>
-<td class="cuerpo_tabla_centro">1.0–4.6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤1.8</td>
-<td class="cuerpo_tabla_centro">1800–4500</td>
+<td>1. Aceite de soja.</td>
+<td colspan="2">&lt;0.1</td>
+<td>0.2–1.4</td>
+<td>≤0.3</td>
+<td>15.8–24.2</td>
+<td>14.9–19.1</td>
+<td>47.0–60.0</td>
+<td>1.5–3.7</td>
+<td>1.4–5.2</td>
+<td>1.0–4.6</td>
+<td>–</td>
+<td>≤1.8</td>
+<td>1800–4500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 Aceite de soja alto oleico.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">0.2 – 0.4</td>
-<td class="cuerpo_tabla_centro">0.2 – 0.3</td>
-<td class="cuerpo_tabla_centro">19.9– 23.4</td>
-<td class="cuerpo_tabla_centro">18.4– 21.4</td>
-<td class="cuerpo_tabla_centro">43.1– 49.2</td>
-<td class="cuerpo_tabla_centro">1.9 – 2.1</td>
-<td class="cuerpo_tabla_centro">2.2 – 2.4</td>
-<td class="cuerpo_tabla_centro">1.3 – 1.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4.5– 6.1</td>
-<td class="cuerpo_tabla_centro">2311– 2823</td>
+<td>1.1 Aceite de soja alto oleico.</td>
+<td colspan="2">&lt;0.1</td>
+<td>0.2 – 0.4</td>
+<td>0.2 – 0.3</td>
+<td>19.9– 23.4</td>
+<td>18.4– 21.4</td>
+<td>43.1– 49.2</td>
+<td>1.9 – 2.1</td>
+<td>2.2 – 2.4</td>
+<td>1.3 – 1.5</td>
+<td>–</td>
+<td>4.5– 6.1</td>
+<td>2311– 2823</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Aceite de cacahuete.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤3.8</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">12.0–19.8</td>
-<td class="cuerpo_tabla_centro">9.0 – 15.0</td>
-<td class="cuerpo_tabla_centro">47.4–69.0</td>
-<td class="cuerpo_tabla_centro">4.0–18.8</td>
-<td class="cuerpo_tabla_centro">≤5.1</td>
-<td class="cuerpo_tabla_centro">≤5.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤1.4</td>
-<td class="cuerpo_tabla_centro">900– 2900</td>
+<td>2. Aceite de cacahuete.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤3.8</td>
+<td>≤0.2</td>
+<td>12.0–19.8</td>
+<td>9.0 – 15.0</td>
+<td>47.4–69.0</td>
+<td>4.0–18.8</td>
+<td>≤5.1</td>
+<td>≤5.5</td>
+<td>–</td>
+<td>≤1.4</td>
+<td>900– 2900</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Aceite de girasol.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.7</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">6.5–13.0</td>
-<td class="cuerpo_tabla_centro">6.0–13.0</td>
-<td class="cuerpo_tabla_centro">50.0–70.0</td>
-<td class="cuerpo_tabla_centro">≤6.9</td>
-<td class="cuerpo_tabla_centro">6.5–24.0</td>
-<td class="cuerpo_tabla_centro">3.0–7.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤5.3</td>
-<td class="cuerpo_tabla_centro">2400–5000</td>
+<td>3. Aceite de girasol.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.7</td>
+<td>≤0.2</td>
+<td>6.5–13.0</td>
+<td>6.0–13.0</td>
+<td>50.0–70.0</td>
+<td>≤6.9</td>
+<td>6.5–24.0</td>
+<td>3.0–7.5</td>
+<td>–</td>
+<td>≤5.3</td>
+<td>2400–5000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 Aceite de girasol alto oleico.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">5.0–13.0</td>
-<td class="cuerpo_tabla_centro">4.5–13.0</td>
-<td class="cuerpo_tabla_centro">42.0–70.0</td>
-<td class="cuerpo_tabla_centro">≤6.9</td>
-<td class="cuerpo_tabla_centro">6.5–24.0</td>
-<td class="cuerpo_tabla_centro">≤9.0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">3.5–9.5</td>
-<td class="cuerpo_tabla_centro">1700–5200</td>
+<td>3.1 Aceite de girasol alto oleico.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.5</td>
+<td>≤0.3</td>
+<td>5.0–13.0</td>
+<td>4.5–13.0</td>
+<td>42.0–70.0</td>
+<td>≤6.9</td>
+<td>6.5–24.0</td>
+<td>≤9.0</td>
+<td>–</td>
+<td>3.5–9.5</td>
+<td>1700–5200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2 Aceite de girasol medio oleico.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">0.1–0.2</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">9.1–9.6</td>
-<td class="cuerpo_tabla_centro">9.0–9.3</td>
-<td class="cuerpo_tabla_centro">56.0–58.0</td>
-<td class="cuerpo_tabla_centro">4.8–5.3</td>
-<td class="cuerpo_tabla_centro">7.7–7.9</td>
-<td class="cuerpo_tabla_centro">4.3–4.4</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">5.4–5.8</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>3.2 Aceite de girasol medio oleico.</td>
+<td colspan="2">&lt;0.1</td>
+<td>0.1–0.2</td>
+<td>≤0.1</td>
+<td>9.1–9.6</td>
+<td>9.0–9.3</td>
+<td>56.0–58.0</td>
+<td>4.8–5.3</td>
+<td>7.7–7.9</td>
+<td>4.3–4.4</td>
+<td>–</td>
+<td>5.4–5.8</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Aceite de algodón.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">0.7–2.3</td>
-<td class="cuerpo_tabla_centro">0.1–0.3</td>
-<td class="cuerpo_tabla_centro">6.4–14.5</td>
-<td class="cuerpo_tabla_centro">2.1–6.8</td>
-<td class="cuerpo_tabla_centro">76.0–87.1</td>
-<td class="cuerpo_tabla_centro">1.8–7.3</td>
-<td class="cuerpo_tabla_centro">≤1.4</td>
-<td class="cuerpo_tabla_centro">0.8–3.3</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤1.5</td>
-<td class="cuerpo_tabla_centro">2700–6400</td>
+<td>4. Aceite de algodón.</td>
+<td colspan="2">&lt;0.1</td>
+<td>0.7–2.3</td>
+<td>0.1–0.3</td>
+<td>6.4–14.5</td>
+<td>2.1–6.8</td>
+<td>76.0–87.1</td>
+<td>1.8–7.3</td>
+<td>≤1.4</td>
+<td>0.8–3.3</td>
+<td>–</td>
+<td>≤1.5</td>
+<td>2700–6400</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Aceite de germen de maíz.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">0.2–0.6</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">16.0–24.1</td>
-<td class="cuerpo_tabla_centro">4.3–8.0</td>
-<td class="cuerpo_tabla_centro">54.8–66.6</td>
-<td class="cuerpo_tabla_centro">1.5–8.2</td>
-<td class="cuerpo_tabla_centro">0.2–4.2</td>
-<td class="cuerpo_tabla_centro">0.3–2.7</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤2.4</td>
-<td class="cuerpo_tabla_centro">7000–22100</td>
+<td>5. Aceite de germen de maíz.</td>
+<td colspan="2">&lt;0.1</td>
+<td>0.2–0.6</td>
+<td>≤0.2</td>
+<td>16.0–24.1</td>
+<td>4.3–8.0</td>
+<td>54.8–66.6</td>
+<td>1.5–8.2</td>
+<td>0.2–4.2</td>
+<td>0.3–2.7</td>
+<td>–</td>
+<td>≤2.4</td>
+<td>7000–22100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Aceite de colza.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤1.3</td>
-<td class="cuerpo_tabla_centro">5.0–13.0</td>
-<td class="cuerpo_tabla_centro">24.7–38.6</td>
-<td class="cuerpo_tabla_centro">0.2–1.0</td>
-<td class="cuerpo_tabla_centro">45.1–57.9</td>
-<td class="cuerpo_tabla_centro">1.5–6.9</td>
-<td class="cuerpo_tabla_centro">≤1.3</td>
-<td class="cuerpo_tabla_centro">≤0.8</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤4.2</td>
-<td class="cuerpo_tabla_centro">4500–11300</td>
+<td>6. Aceite de colza.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤1.3</td>
+<td>5.0–13.0</td>
+<td>24.7–38.6</td>
+<td>0.2–1.0</td>
+<td>45.1–57.9</td>
+<td>1.5–6.9</td>
+<td>≤1.3</td>
+<td>≤0.8</td>
+<td>–</td>
+<td>≤4.2</td>
+<td>4500–11300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Aceite de cártamo.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.7</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
-<td class="cuerpo_tabla_centro">9.2–13.3</td>
-<td class="cuerpo_tabla_centro">4.5–9.6</td>
-<td class="cuerpo_tabla_centro">40.2–50.6</td>
-<td class="cuerpo_tabla_centro">0.8–4.8</td>
-<td class="cuerpo_tabla_centro">13.7–24.6</td>
-<td class="cuerpo_tabla_centro">2.2–6.3</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0.5–6.4</td>
-<td class="cuerpo_tabla_centro">2100–4600</td>
+<td>7. Aceite de cártamo.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.7</td>
+<td>≤0.4</td>
+<td>9.2–13.3</td>
+<td>4.5–9.6</td>
+<td>40.2–50.6</td>
+<td>0.8–4.8</td>
+<td>13.7–24.6</td>
+<td>2.2–6.3</td>
+<td>–</td>
+<td>0.5–6.4</td>
+<td>2100–4600</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1 Aceite de cártamo alto oleico.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤2.2</td>
-<td class="cuerpo_tabla_centro">8.9–19.9</td>
-<td class="cuerpo_tabla_centro">2.9–8.9</td>
-<td class="cuerpo_tabla_centro">40.1–66.9</td>
-<td class="cuerpo_tabla_centro">0.2–8.9</td>
-<td class="cuerpo_tabla_centro">3.4–16.4</td>
-<td class="cuerpo_tabla_centro">≤8.3</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">4.4–11.9</td>
-<td class="cuerpo_tabla_centro">2000–4100</td>
+<td>7.1 Aceite de cártamo alto oleico.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.5</td>
+<td>≤2.2</td>
+<td>8.9–19.9</td>
+<td>2.9–8.9</td>
+<td>40.1–66.9</td>
+<td>0.2–8.9</td>
+<td>3.4–16.4</td>
+<td>≤8.3</td>
+<td>–</td>
+<td>4.4–11.9</td>
+<td>2000–4100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Aceite de pepita de uva.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">7.5–14.0</td>
-<td class="cuerpo_tabla_centro">7.5–12.0</td>
-<td class="cuerpo_tabla_centro">64.0–75.0</td>
-<td class="cuerpo_tabla_centro">1.0–3.5</td>
-<td class="cuerpo_tabla_centro">0.5–3.5</td>
-<td class="cuerpo_tabla_centro">0.5–1.5</td>
-<td class="cuerpo_tabla_centro">&gt;2.0</td>
-<td class="cuerpo_tabla_centro">≤5.1</td>
-<td class="cuerpo_tabla_centro">2000–7000</td>
+<td>8. Aceite de pepita de uva.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.5</td>
+<td>≤0.2</td>
+<td>7.5–14.0</td>
+<td>7.5–12.0</td>
+<td>64.0–75.0</td>
+<td>1.0–3.5</td>
+<td>0.5–3.5</td>
+<td>0.5–1.5</td>
+<td>&gt;2.0</td>
+<td>≤5.1</td>
+<td>2000–7000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Aceite de salvado de arroz.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">11.0–35.0</td>
-<td class="cuerpo_tabla_centro">6.0–40.0</td>
-<td class="cuerpo_tabla_centro">25.067.0</td>
-<td class="cuerpo_tabla_centro">≤9.9</td>
-<td class="cuerpo_tabla_centro">≤14.1</td>
-<td class="cuerpo_tabla_centro">≤4.4</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">7.5–12.8</td>
-<td class="cuerpo_tabla_centro">10500–31000</td>
+<td>9. Aceite de salvado de arroz.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.5</td>
+<td>≤0.3</td>
+<td>11.0–35.0</td>
+<td>6.0–40.0</td>
+<td>25.067.0</td>
+<td>≤9.9</td>
+<td>≤14.1</td>
+<td>≤4.4</td>
+<td>–</td>
+<td>7.5–12.8</td>
+<td>10500–31000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Aceite de sésamo.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">0.1–0.5</td>
-<td class="cuerpo_tabla_centro">0.1–0.2</td>
-<td class="cuerpo_tabla_centro">10.1–20.0</td>
-<td class="cuerpo_tabla_centro">3.4–12.0</td>
-<td class="cuerpo_tabla_centro">57.7–61.9</td>
-<td class="cuerpo_tabla_centro">6.2–7.8</td>
-<td class="cuerpo_tabla_centro">0.5–7.6</td>
-<td class="cuerpo_tabla_centro">1.2–5.6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0.7–9.2</td>
-<td class="cuerpo_tabla_centro">4500–19000</td>
+<td>10. Aceite de sésamo.</td>
+<td colspan="2">&lt;0.1</td>
+<td>0.1–0.5</td>
+<td>0.1–0.2</td>
+<td>10.1–20.0</td>
+<td>3.4–12.0</td>
+<td>57.7–61.9</td>
+<td>6.2–7.8</td>
+<td>0.5–7.6</td>
+<td>1.2–5.6</td>
+<td>–</td>
+<td>0.7–9.2</td>
+<td>4500–19000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Aceite de semilla de lino.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤ 1.0</td>
-<td class="cuerpo_tabla_centro">25.0– 31.0</td>
-<td class="cuerpo_tabla_centro">7.0 – 9.0</td>
-<td class="cuerpo_tabla_centro">45.0–53.0</td>
-<td class="cuerpo_tabla_centro">8.0 – 12.0</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">2300–6900</td>
+<td>11. Aceite de semilla de lino.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.05</td>
+<td>≤ 1.0</td>
+<td>25.0– 31.0</td>
+<td>7.0 – 9.0</td>
+<td>45.0–53.0</td>
+<td>8.0 – 12.0</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>–</td>
+<td>≤0.05</td>
+<td>2300–6900</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Aceite de almendra.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤ 1.0</td>
-<td class="cuerpo_tabla_centro">≤ 0.3</td>
-<td class="cuerpo_tabla_centro">2.0 – 5.0</td>
-<td class="cuerpo_tabla_centro">0.4 – 4.0</td>
-<td class="cuerpo_tabla_centro">73.0–86.0</td>
-<td class="cuerpo_tabla_centro">5.0 – 14.0</td>
-<td class="cuerpo_tabla_centro">≤ 3.0</td>
-<td class="cuerpo_tabla_centro">≤ 3.0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤ 6.0</td>
-<td class="cuerpo_tabla_centro">1590–4590</td>
+<td>12. Aceite de almendra.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤ 1.0</td>
+<td>≤ 0.3</td>
+<td>2.0 – 5.0</td>
+<td>0.4 – 4.0</td>
+<td>73.0–86.0</td>
+<td>5.0 – 14.0</td>
+<td>≤ 3.0</td>
+<td>≤ 3.0</td>
+<td>–</td>
+<td>≤ 6.0</td>
+<td>1590–4590</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Aceite de avellana.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤ 1.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">3.0 – 6.2</td>
-<td class="cuerpo_tabla_centro">≤ 2.0</td>
-<td class="cuerpo_tabla_centro">76.5–96.0</td>
-<td class="cuerpo_tabla_centro">1.0 – 5.1</td>
-<td class="cuerpo_tabla_centro">≤ 4.3</td>
-<td class="cuerpo_tabla_centro">≤ 1.6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">1200–1800</td>
+<td>13. Aceite de avellana.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤ 1.1</td>
+<td>≤0.05</td>
+<td>3.0 – 6.2</td>
+<td>≤ 2.0</td>
+<td>76.5–96.0</td>
+<td>1.0 – 5.1</td>
+<td>≤ 4.3</td>
+<td>≤ 1.6</td>
+<td>–</td>
+<td>≤0.05</td>
+<td>1200–1800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14. Aceite de nuez.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">4.0 – 6.5</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">70.0–92.0</td>
-<td class="cuerpo_tabla_centro">0.5 – 6.0</td>
-<td class="cuerpo_tabla_centro">≤ 3.0</td>
-<td class="cuerpo_tabla_centro">≤ 2.0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">500–1760</td>
+<td>14. Aceite de nuez.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤0.05</td>
+<td>≤0.05</td>
+<td>4.0 – 6.5</td>
+<td>≤0.05</td>
+<td>70.0–92.0</td>
+<td>0.5 – 6.0</td>
+<td>≤ 3.0</td>
+<td>≤ 2.0</td>
+<td>–</td>
+<td>≤0.05</td>
+<td>500–1760</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15. Aceite de pistacho.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤ 1.0</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">4.0 – 6.5</td>
-<td class="cuerpo_tabla_centro">0.5 – 7.5</td>
-<td class="cuerpo_tabla_centro">75.0– 94.0</td>
-<td class="cuerpo_tabla_centro">6.0 – 8.0</td>
-<td class="cuerpo_tabla_centro">≤ 0.7</td>
-<td class="cuerpo_tabla_centro">≤ 0.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤0.05</td>
-<td class="cuerpo_tabla_centro">1840–4500</td>
+<td>15. Aceite de pistacho.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤ 1.0</td>
+<td>≤0.05</td>
+<td>4.0 – 6.5</td>
+<td>0.5 – 7.5</td>
+<td>75.0– 94.0</td>
+<td>6.0 – 8.0</td>
+<td>≤ 0.7</td>
+<td>≤ 0.5</td>
+<td>–</td>
+<td>≤0.05</td>
+<td>1840–4500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16. Aceite de aguacate.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt;0.1</td>
-<td class="cuerpo_tabla_centro">≤ 0.5</td>
-<td class="cuerpo_tabla_centro">≤ 0.5</td>
-<td class="cuerpo_tabla_centro">4.0 – 8.3</td>
-<td class="cuerpo_tabla_centro">0.3 – 2.0</td>
-<td class="cuerpo_tabla_centro">79.0– 93.4</td>
-<td class="cuerpo_tabla_centro">2.0 – 8.0</td>
-<td class="cuerpo_tabla_centro">≤ 1.5</td>
-<td class="cuerpo_tabla_centro">≤ 1.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤ 2.0</td>
-<td class="cuerpo_tabla_centro">3000–7500</td>
+<td>16. Aceite de aguacate.</td>
+<td colspan="2">&lt;0.1</td>
+<td>≤ 0.5</td>
+<td>≤ 0.5</td>
+<td>4.0 – 8.3</td>
+<td>0.3 – 2.0</td>
+<td>79.0– 93.4</td>
+<td>2.0 – 8.0</td>
+<td>≤ 1.5</td>
+<td>≤ 1.5</td>
+<td>–</td>
+<td>≤ 2.0</td>
+<td>3000–7500</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="14">
-<p class="parrafo_2">Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma.</p>
+<p>Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma.</p>
 </td>
 </tr>
 </tfoot>
@@ -1322,300 +1274,278 @@ III.2 Parámetros de composición
 
 IV.1 Parámetros de calidad
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="30%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Humedad y materias volátiles</p>
-<p class="cabeza_tabla">(%)</p>
+<th>Producto</th>
+<th rowspan="2">
+<p>Humedad y materias volátiles</p>
+<p>(%)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Impurezas insolubles en éter de petróleo</p>
-<p class="cabeza_tabla">(%)</p>
+<th rowspan="2">
+<p>Impurezas insolubles en éter de petróleo</p>
+<p>(%)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Acidez</p>
-<p class="cabeza_tabla">(% ácido oleico)</p>
+<th rowspan="2">
+<p>Acidez</p>
+<p>(% ácido oleico)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Índice de peróxidos (meq de O<sub>2</sub> activo/kg de grasa)</th>
-<th class="cabeza_tabla" rowspan="2">Residuos de jabón (%)</th>
+<th rowspan="2">Índice de peróxidos (meq de O<sub>2</sub> activo/kg de grasa)</th>
+<th rowspan="2">Residuos de jabón (%)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceites refinados</th>
+<th>Aceites refinados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Aceite de soja.</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 0.1</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 0.05</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 0.3</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 10</td>
-<td class="cuerpo_tabla_centro" rowspan="18">≤ 0.005</td>
+<td>1. Aceite de soja.</td>
+<td rowspan="18">≤ 0.1</td>
+<td rowspan="18">≤ 0.05</td>
+<td rowspan="18">≤ 0.3</td>
+<td rowspan="18">≤ 10</td>
+<td rowspan="18">≤ 0.005</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Aceite de cacahuete.</td>
+<td>2. Aceite de cacahuete.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Aceite de girasol.</td>
+<td>3. Aceite de girasol.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Aceite de algodón.</td>
+<td>4. Aceite de algodón.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Aceite de germen de maíz.</td>
+<td>5. Aceite de germen de maíz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Aceite de colza.</td>
+<td>6. Aceite de colza.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Aceite de cártamo.</td>
+<td>7. Aceite de cártamo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Aceite de pepita de uva.</td>
+<td>8. Aceite de pepita de uva.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Aceite de salvado de arroz.</td>
+<td>9. Aceite de salvado de arroz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Aceite de sésamo.</td>
+<td>10. Aceite de sésamo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Aceite de semilla de lino.</td>
+<td>11. Aceite de semilla de lino.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Aceite de semilla de mostaza.</td>
+<td>12. Aceite de semilla de mostaza.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Aceite de semilla de cáñamo.</td>
+<td>13. Aceite de semilla de cáñamo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14. Aceite de almendra.</td>
+<td>14. Aceite de almendra.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15. Aceite de avellana.</td>
+<td>15. Aceite de avellana.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16. Aceite de nuez.</td>
+<td>16. Aceite de nuez.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">17. Aceite de pistacho.</td>
+<td>17. Aceite de pistacho.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18. Aceite de aguacate.</td>
+<td>18. Aceite de aguacate.</td>
 </tr>
 </tbody>
 </table>
 
 IV.2 Parámetros de composición
 
-<table class="tabla_girada">
-<colgroup>
-<col width="17%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="7%">
-<col width="7%">
-<col width="8%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Producto</th>
-<th class="cabeza_tabla" colspan="11">Composición de esteroles (%)</th>
+<th>Producto</th>
+<th colspan="11">Composición de esteroles (%)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Aceites refinados</th>
-<th class="cabeza_tabla">Colesterol</th>
-<th class="cabeza_tabla">Brassicasterol</th>
-<th class="cabeza_tabla">Campesterol</th>
-<th class="cabeza_tabla">Estigmasterol</th>
-<th class="cabeza_tabla">β-sitosterol</th>
-<th class="cabeza_tabla">Δ5-Avenasterol</th>
-<th class="cabeza_tabla">Δ7-estigmastenol</th>
-<th class="cabeza_tabla">Δ7-Avenasterol</th>
-<th class="cabeza_tabla">Eritrodiol</th>
-<th class="cabeza_tabla">Otros esteroles</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Esteroles totales</p>
-<p class="cabeza_tabla">mg/Kg.</p>
+<th>Aceites refinados</th>
+<th>Colesterol</th>
+<th>Brassicasterol</th>
+<th>Campesterol</th>
+<th>Estigmasterol</th>
+<th>β-sitosterol</th>
+<th>Δ5-Avenasterol</th>
+<th>Δ7-estigmastenol</th>
+<th>Δ7-Avenasterol</th>
+<th>Eritrodiol</th>
+<th>Otros esteroles</th>
+<th>
+<p>Esteroles totales</p>
+<p>mg/Kg.</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Aceite de soja</td>
-<td class="cuerpo_tabla_centro">≤1.4</td>
-<td class="cuerpo_tabla_centro">≤0.3</td>
-<td class="cuerpo_tabla_centro">15.8–24.2</td>
-<td class="cuerpo_tabla_centro">14.9–19.1</td>
-<td class="cuerpo_tabla_centro">47.0–60.0</td>
-<td class="cuerpo_tabla_centro">1.5–3.7</td>
-<td class="cuerpo_tabla_centro">1.4–5.2</td>
-<td class="cuerpo_tabla_centro">1.0–4.6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤1.8</td>
-<td class="cuerpo_tabla_centro">1800–4500</td>
+<td>1. Aceite de soja</td>
+<td>≤1.4</td>
+<td>≤0.3</td>
+<td>15.8–24.2</td>
+<td>14.9–19.1</td>
+<td>47.0–60.0</td>
+<td>1.5–3.7</td>
+<td>1.4–5.2</td>
+<td>1.0–4.6</td>
+<td>–</td>
+<td>≤1.8</td>
+<td>1800–4500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Aceite de cacahuete</td>
-<td class="cuerpo_tabla_centro">≤3.8</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">12.0–19.8</td>
-<td class="cuerpo_tabla_centro">5.4–13.2</td>
-<td class="cuerpo_tabla_centro">47.7–69.0</td>
-<td class="cuerpo_tabla_centro">5.0–18.8</td>
-<td class="cuerpo_tabla_centro">≤5.1</td>
-<td class="cuerpo_tabla_centro">≤5.5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤1.4</td>
-<td class="cuerpo_tabla_centro">900–2900</td>
+<td>2. Aceite de cacahuete</td>
+<td>≤3.8</td>
+<td>≤0.2</td>
+<td>12.0–19.8</td>
+<td>5.4–13.2</td>
+<td>47.7–69.0</td>
+<td>5.0–18.8</td>
+<td>≤5.1</td>
+<td>≤5.5</td>
+<td>–</td>
+<td>≤1.4</td>
+<td>900–2900</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Aceite de girasol</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≤0.2</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≤0.2</td>
-<td class="cuerpo_tabla_centro" rowspan="3">5.0–13.0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">4.5–13.0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">42.0–70.0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">0.1–6.9</td>
-<td class="cuerpo_tabla_centro" rowspan="3">6.5–24.0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">0.1–9.0</td>
-<td class="cuerpo_tabla_centro" rowspan="3">–</td>
-<td class="cuerpo_tabla_centro" rowspan="3">≤9.5</td>
-<td class="cuerpo_tabla_centro" rowspan="3">1700–5200</td>
+<td>3. Aceite de girasol</td>
+<td rowspan="3">≤0.2</td>
+<td rowspan="3">≤0.2</td>
+<td rowspan="3">5.0–13.0</td>
+<td rowspan="3">4.5–13.0</td>
+<td rowspan="3">42.0–70.0</td>
+<td rowspan="3">0.1–6.9</td>
+<td rowspan="3">6.5–24.0</td>
+<td rowspan="3">0.1–9.0</td>
+<td rowspan="3">–</td>
+<td rowspan="3">≤9.5</td>
+<td rowspan="3">1700–5200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 Aceite de girasol alto oleico</td>
+<td>3.1 Aceite de girasol alto oleico</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2 Aceite de girasol medio oleico</td>
+<td>3.2 Aceite de girasol medio oleico</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Aceite de algodón</td>
-<td class="cuerpo_tabla_centro">0.7–2.3</td>
-<td class="cuerpo_tabla_centro">0.1–0.3</td>
-<td class="cuerpo_tabla_centro">6.4–14.5</td>
-<td class="cuerpo_tabla_centro">2.1–6.8</td>
-<td class="cuerpo_tabla_centro">70.6–87.1</td>
-<td class="cuerpo_tabla_centro">1.8–7.3</td>
-<td class="cuerpo_tabla_centro">≤1.4</td>
-<td class="cuerpo_tabla_centro">0.8–3.3</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤1.5</td>
-<td class="cuerpo_tabla_centro">2700–6400</td>
+<td>4. Aceite de algodón</td>
+<td>0.7–2.3</td>
+<td>0.1–0.3</td>
+<td>6.4–14.5</td>
+<td>2.1–6.8</td>
+<td>70.6–87.1</td>
+<td>1.8–7.3</td>
+<td>≤1.4</td>
+<td>0.8–3.3</td>
+<td>–</td>
+<td>≤1.5</td>
+<td>2700–6400</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Aceite de germen de maíz</td>
-<td class="cuerpo_tabla_centro">0.2–0.6</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">16.0–24.1</td>
-<td class="cuerpo_tabla_centro">4.3–8.0</td>
-<td class="cuerpo_tabla_centro">54.8–66.6</td>
-<td class="cuerpo_tabla_centro">1.5–8.2</td>
-<td class="cuerpo_tabla_centro">0.2–4.2</td>
-<td class="cuerpo_tabla_centro">0.3–2.7</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤2.4</td>
-<td class="cuerpo_tabla_centro">7000–22100</td>
+<td>5. Aceite de germen de maíz</td>
+<td>0.2–0.6</td>
+<td>≤0.2</td>
+<td>16.0–24.1</td>
+<td>4.3–8.0</td>
+<td>54.8–66.6</td>
+<td>1.5–8.2</td>
+<td>0.2–4.2</td>
+<td>0.3–2.7</td>
+<td>–</td>
+<td>≤2.4</td>
+<td>7000–22100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Aceite de colza</td>
-<td class="cuerpo_tabla_centro">≤1.3</td>
-<td class="cuerpo_tabla_centro">5.0–13.0</td>
-<td class="cuerpo_tabla_centro">24.7–38.6</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">45.0–57.9</td>
-<td class="cuerpo_tabla_centro">2.5–6.6</td>
-<td class="cuerpo_tabla_centro">≤1.3</td>
-<td class="cuerpo_tabla_centro">≤0.8</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤4.2</td>
-<td class="cuerpo_tabla_centro">4500–11300</td>
+<td>6. Aceite de colza</td>
+<td>≤1.3</td>
+<td>5.0–13.0</td>
+<td>24.7–38.6</td>
+<td>≤1.0</td>
+<td>45.0–57.9</td>
+<td>2.5–6.6</td>
+<td>≤1.3</td>
+<td>≤0.8</td>
+<td>–</td>
+<td>≤4.2</td>
+<td>4500–11300</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Aceite de cártamo</td>
-<td class="cuerpo_tabla_centro">≤0.7</td>
-<td class="cuerpo_tabla_centro">≤0.4</td>
-<td class="cuerpo_tabla_centro">9.2–13.3</td>
-<td class="cuerpo_tabla_centro">4.5–9.6</td>
-<td class="cuerpo_tabla_centro">40.2–50.6</td>
-<td class="cuerpo_tabla_centro">0.4–4.8</td>
-<td class="cuerpo_tabla_centro">13.7–24.6</td>
-<td class="cuerpo_tabla_centro">≤ 2.6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤6.3</td>
-<td class="cuerpo_tabla_centro">2100–4600</td>
+<td>7. Aceite de cártamo</td>
+<td>≤0.7</td>
+<td>≤0.4</td>
+<td>9.2–13.3</td>
+<td>4.5–9.6</td>
+<td>40.2–50.6</td>
+<td>0.4–4.8</td>
+<td>13.7–24.6</td>
+<td>≤ 2.6</td>
+<td>–</td>
+<td>≤6.3</td>
+<td>2100–4600</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Aceite de pepita de uva</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">7.5–14.0</td>
-<td class="cuerpo_tabla_centro">7.5–12.0</td>
-<td class="cuerpo_tabla_centro">64.0–75.0</td>
-<td class="cuerpo_tabla_centro">0.5–3.5</td>
-<td class="cuerpo_tabla_centro">0.5–3.5</td>
-<td class="cuerpo_tabla_centro">0.2–1.5</td>
-<td class="cuerpo_tabla_centro">&gt;2.0</td>
-<td class="cuerpo_tabla_centro">≤9.0</td>
-<td class="cuerpo_tabla_centro">1400–4000</td>
+<td>8. Aceite de pepita de uva</td>
+<td>≤0.5</td>
+<td>≤0.2</td>
+<td>7.5–14.0</td>
+<td>7.5–12.0</td>
+<td>64.0–75.0</td>
+<td>0.5–3.5</td>
+<td>0.5–3.5</td>
+<td>0.2–1.5</td>
+<td>&gt;2.0</td>
+<td>≤9.0</td>
+<td>1400–4000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Aceite de salvado de arroz</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.1</td>
-<td class="cuerpo_tabla_centro">11.0–35.0</td>
-<td class="cuerpo_tabla_centro">6.0–40.0</td>
-<td class="cuerpo_tabla_centro">25.0–67.0</td>
-<td class="cuerpo_tabla_centro">≤9.9</td>
-<td class="cuerpo_tabla_centro">≤14.1</td>
-<td class="cuerpo_tabla_centro">≤4.4</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10500–31000</td>
+<td>9. Aceite de salvado de arroz</td>
+<td>≤0.5</td>
+<td>≤0.1</td>
+<td>11.0–35.0</td>
+<td>6.0–40.0</td>
+<td>25.0–67.0</td>
+<td>≤9.9</td>
+<td>≤14.1</td>
+<td>≤4.4</td>
+<td>–</td>
+<td>–</td>
+<td>10500–31000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Aceite de sésamo</td>
-<td class="cuerpo_tabla_centro">≤0.5</td>
-<td class="cuerpo_tabla_centro">≤0.2</td>
-<td class="cuerpo_tabla_centro">10.1–20.0</td>
-<td class="cuerpo_tabla_centro">3.4–12</td>
-<td class="cuerpo_tabla_centro">57.7–61.9</td>
-<td class="cuerpo_tabla_centro">6.2–7.8</td>
-<td class="cuerpo_tabla_centro">0.5–7.6</td>
-<td class="cuerpo_tabla_centro">1.2–5.6</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0.7–9.2</td>
-<td class="cuerpo_tabla_centro">4500–19000</td>
+<td>10. Aceite de sésamo</td>
+<td>≤0.5</td>
+<td>≤0.2</td>
+<td>10.1–20.0</td>
+<td>3.4–12</td>
+<td>57.7–61.9</td>
+<td>6.2–7.8</td>
+<td>0.5–7.6</td>
+<td>1.2–5.6</td>
+<td>–</td>
+<td>0.7–9.2</td>
+<td>4500–19000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Aceite de semilla de lino</td>
-<td class="cuerpo_tabla_centro">≤2.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">27.0–30.0</td>
-<td class="cuerpo_tabla_centro">8.0–10.0</td>
-<td class="cuerpo_tabla_centro">42.0–53.0</td>
-<td class="cuerpo_tabla_centro">10.0–13.0</td>
-<td class="cuerpo_tabla_centro">1.0–4.0</td>
-<td class="cuerpo_tabla_centro">≤1.0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">≤6.0</td>
-<td class="cuerpo_tabla_centro">2000–5000</td>
+<td>11. Aceite de semilla de lino</td>
+<td>≤2.0</td>
+<td>≤1.0</td>
+<td>27.0–30.0</td>
+<td>8.0–10.0</td>
+<td>42.0–53.0</td>
+<td>10.0–13.0</td>
+<td>1.0–4.0</td>
+<td>≤1.0</td>
+<td>–</td>
+<td>≤6.0</td>
+<td>2000–5000</td>
 </tr>
 </tbody>
 </table>

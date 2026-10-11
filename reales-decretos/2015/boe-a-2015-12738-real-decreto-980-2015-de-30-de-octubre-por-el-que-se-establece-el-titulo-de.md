@@ -6080,107 +6080,102 @@ Espacios:
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Ciclo inicial</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101. Bases del comportamiento deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación Física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación Física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">– Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>– Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C104. Organización deportiva.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
 <em>Ciclo final</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>MED-C201. Bases del aprendizaje deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>MED-C202. Bases del entrenamiento deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204. Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>MED-C204. Organización y legislación deportiva.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad</td>
+<td>Educación Física.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -6192,79 +6187,69 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-BCBC102 Formación del jugador en etapas iniciales.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC103 Dirección de equipos en etapas iniciales.</p>
-<p class="cuerpo_tabla_izq">BCBC-103 Enseñanza del baloncesto.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC106 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-BCBC102 Formación del jugador en etapas iniciales.</p>
+<p>MED-BCBC103 Dirección de equipos en etapas iniciales.</p>
+<p>BCBC-103 Enseñanza del baloncesto.</p>
+<p>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.</p>
+<p>MED-BCBC106 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo final</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo final</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-BCBC201 Formación del jugador en la etapa de tecnificación.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC202 Dirección de equipos en la etapa de tecnificación.</p>
-<p class="cuerpo_tabla_izq">BCBC-203 Entrenamiento en baloncesto.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC205 Iniciación en baloncesto en silla de ruedas.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC206 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-BCBC201 Formación del jugador en la etapa de tecnificación.</p>
+<p>MED-BCBC202 Dirección de equipos en la etapa de tecnificación.</p>
+<p>BCBC-203 Entrenamiento en baloncesto.</p>
+<p>MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.</p>
+<p>MED-BCBC205 Iniciación en baloncesto en silla de ruedas.</p>
+<p>MED-BCBC206 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">– Profesor de Enseñanza Secundaria.</p>
+<td>Educación Física con el título de Técnico Deportivo Superior en Baloncesto.</td>
+<td>
+<p>– Catedrático de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -6377,50 +6362,45 @@ La experiencia laboral se acreditará mediante la certificación de la empresa d
 
 ## ANEXO XIV — Formación a distancia
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Grado medio</p>
+<p>Grado medio</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Módulos bloque común.</td>
-<td class="cuerpo_tabla_izq">Ciclo inicial.</td>
-<td class="cuerpo_tabla_izq">Ciclo final.</td>
+<td rowspan="2">Módulos bloque común.</td>
+<td>Ciclo inicial.</td>
+<td>Ciclo final.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-C102. Primeros auxilios.</p>
-<p class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</p>
-<p class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
+<td>
+<p>MED-C101. Bases del comportamiento deportivo.</p>
+<p>MED-C102. Primeros auxilios.</p>
+<p>MED-C104. Organización deportiva.</p>
+<p>MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-C201 Bases del aprendizaje deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-C202 Bases del entrenamiento deportivo.</p>
-<p class="cuerpo_tabla_izq">MED-C204 Organización y legislación deportiva.</p>
-<p class="cuerpo_tabla_izq">MED-C205. Deporte y género.</p>
-<p class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad</p>
+<td>
+<p>MED-C201 Bases del aprendizaje deportivo.</p>
+<p>MED-C202 Bases del entrenamiento deportivo.</p>
+<p>MED-C204 Organización y legislación deportiva.</p>
+<p>MED-C205. Deporte y género.</p>
+<p>MED-C206: Iniciación deportiva para personas con discapacidad</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Módulos bloque específico.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-BCBC102 Formación del jugador en etapas iniciales.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC103 Dirección de equipos en etapas iniciales.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC104 Enseñanza del baloncesto.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.</p>
+<td>Módulos bloque específico.</td>
+<td>
+<p>MED-BCBC102 Formación del jugador en etapas iniciales.</p>
+<p>MED-BCBC103 Dirección de equipos en etapas iniciales.</p>
+<p>MED-BCBC104 Enseñanza del baloncesto.</p>
+<p>MED-BCBC105 Táctica de ataque y defensa en etapas iniciales.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-BCBC201 Formación del jugador en la etapa de tecnificación.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC202 Dirección de equipos en la etapa de tecnificación.</p>
-<p class="cuerpo_tabla_izq">BCBC-203 Entrenamiento en baloncesto.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.</p>
-<p class="cuerpo_tabla_izq">MED-BCBC205 Iniciación en baloncesto en silla de ruedas.</p>
+<td>
+<p>MED-BCBC201 Formación del jugador en la etapa de tecnificación.</p>
+<p>MED-BCBC202 Dirección de equipos en la etapa de tecnificación.</p>
+<p>BCBC-203 Entrenamiento en baloncesto.</p>
+<p>MED-BCBC204 Táctica de ataque y defensa en la etapa de tecnificación.</p>
+<p>MED-BCBC205 Iniciación en baloncesto en silla de ruedas.</p>
 </td>
 </tr>
 </tbody>

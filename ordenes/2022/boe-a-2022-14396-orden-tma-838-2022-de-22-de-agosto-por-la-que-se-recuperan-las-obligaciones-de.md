@@ -1,0 +1,42 @@
+---
+title: "Orden TMA/838/2022, de 22 de agosto, por la que se recuperan las obligaciones de servicio público establecidas en el Acuerdo del Consejo de Ministros de 23 de febrero de 2018, por el que se aprueba la declaración de obligaciones de servicio público en las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona, dejando sin efecto las modificaciones temporales establecidas por la Orden TMA/297/2021, de 29 de marzo"
+identifier: "BOE-A-2022-14396"
+eli: "https://www.boe.es/eli/es/o/2022/08/22/tma838"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Transportes, Movilidad y Agenda Urbana"
+date: 2022-08-22
+published: 2022-09-02
+in_force_from: 2022-10-28
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 211"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-14396"
+retrieved: 2026-10-11
+---
+
+# Orden TMA/838/2022, de 22 de agosto, por la que se recuperan las obligaciones de servicio público establecidas en el Acuerdo del Consejo de Ministros de 23 de febrero de 2018, por el que se aprueba la declaración de obligaciones de servicio público en las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona, dejando sin efecto las modificaciones temporales establecidas por la Orden TMA/297/2021, de 29 de marzo
+
+Las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona, son operadas bajo Obligaciones de Servicio Público, establecidas mediante el Acuerdo del Consejo de Ministros de 23 de febrero de 2018, por el que se aprueba la declaración de obligaciones de servicio público en las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona (en lo sucesivo «Declaración de OSP»). En el Anexo de dicho Acuerdo, se determinan las condiciones que los enlaces aéreos en dichas rutas deben cumplir con respecto a continuidad, frecuencia, capacidad y calidad del servicio.
+
+Como consecuencia de la crisis sanitaria ocasionada por la COVID-19, se produjo una caída drástica de la demanda de movilidad de los ciudadanos, caída que se dio también en aquellas rutas donde hay declaradas obligaciones de servicio público (rutas OSP). Para adecuar los niveles de operación requeridos a la demanda real existente, las condiciones mínimas de operación exigibles fueron modificadas en la mayor parte de las rutas OSP aéreas existentes.
+
+En el caso particular de las rutas Badajoz-Madrid y Badajoz-Barcelona, se dictó la Orden TMA/667/2020, de 20 de julio, por la que se modifican temporalmente las obligaciones de servicio público establecidas en la declaración de OSP. Posteriormente, y mediante la Orden TMA/297/2021, de 29 de marzo, las condiciones operativas de las obligaciones de servicio público referidas se volvieron a modificar para adaptar los niveles de servicio a las necesidades de movilidad en el escenario de recuperación tras la pandemia.
+
+La Orden TMA/297/2021, publicada en BOE el 30 de marzo de 2021 y en vigor desde el día siguiente, preveía, en su apartado cuarto, Recuperación de las condiciones establecidas en las obligaciones de servicio público, la posibilidad de reversión de cambios introducidos por dicha orden, si la evolución de la demanda en la ruta fuera tal que los parámetros de operación de la misma hubieran recuperado unos valores razonablemente parecidos a los anteriores a la crisis.
+
+De acuerdo a la evolución de la demanda en las rutas Badajoz-Madrid y Badajoz-Barcelona, y a la evolución esperada de las necesidades de movilidad atendidas por ambas rutas bajo Obligaciones de Servicio Público, procede dejar sin efecto la Orden TMA/297/2021, de 29 de marzo, de forma que se reviertan las modificaciones establecidas en ella en lo relativo únicamente a las rutas Badajoz-Madrid y Badajoz-Barcelona y se recuperen, por tanto, las condiciones operativas definidas en la declaración de OSP a partir del 28 de octubre de 2022, de manera que la compañía o compañías aéreas que operen la ruta puedan adaptar su operativa a las nuevas condiciones exigidas.
+
+Por lo expuesto, de conformidad con lo previsto en el artículo 95.3 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, dispongo:
+
+## Primero. Recuperación de las obligaciones de servicio público en las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona.
+
+A partir del 28 de octubre de 2022 serán exigibles las obligaciones de servicio público establecidas en el anexo del Acuerdo del Consejo de Ministros de 23 de febrero de 2018, por el que se declaran obligaciones de servicio público en las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona, quedando sin eficacia, para estas rutas, las modificaciones temporales establecidas en la Orden TMA/297/2021, de 29 de marzo.
+
+## Segundo. Publicidad y eficacia.
+
+Esta orden se publicará en «Boletín Oficial del Estado», siendo aplicables las modificaciones en las obligaciones de servicio público a que se refiere el apartado primero a partir de la fecha referida en el mismo.
+
+Madrid, 22 de agosto de 2022.–La Ministra de Transportes, Movilidad y Agenda Urbana, Raquel Sánchez Jiménez.

@@ -840,115 +840,106 @@ Dos. Se modifica el apartado 1 del artículo 23, pasando a tener el siguiente te
 
 > «1. En virtud de lo previsto en el artículo 12 del Real Decreto 960/2020, de 3 de noviembre, y con el objetivo de dar cumplimiento a la previsto en el Plan Nacional Integrado de Energía y Clima (PNIEC) 2021-2030, se establece el calendario indicativo para la asignación del régimen económico de energías renovables, indicando los volúmenes mínimos de potencia acumulada para cada tecnología en el periodo 2022-2026, para los cuales se podrán establecer criterios distintivos en función de sus características en virtud del artículo 3.2 del Real Decreto 960/2020, de 3 de noviembre. Este calendario se actualizará, al menos, anualmente, mediante orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico.
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2"> </th>
-> <th class="cabeza_tabla" rowspan="2"> </th>
-> <th class="cabeza_tabla" colspan="5">Volúmenes mínimos de potencia (MW)</th>
+> <th rowspan="2"> </th>
+> <th rowspan="2"> </th>
+> <th colspan="5">Volúmenes mínimos de potencia (MW)</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">2022</th>
-> <th class="cabeza_tabla">2023</th>
-> <th class="cabeza_tabla">2024</th>
-> <th class="cabeza_tabla">2025</th>
-> <th class="cabeza_tabla">2026</th>
+> <th>2022</th>
+> <th>2023</th>
+> <th>2024</th>
+> <th>2025</th>
+> <th>2026</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Eólica.</td>
-> <td class="cuerpo_tabla_izq">Incremento anual.</td>
-> <td class="cuerpo_tabla_coma">1.500</td>
-> <td class="cuerpo_tabla_coma">1.500</td>
-> <td class="cuerpo_tabla_coma">1.500</td>
-> <td class="cuerpo_tabla_coma">1.500</td>
-> <td class="cuerpo_tabla_coma">1.500</td>
+> <td rowspan="2">Eólica.</td>
+> <td>Incremento anual.</td>
+> <td>1.500</td>
+> <td>1.500</td>
+> <td>1.500</td>
+> <td>1.500</td>
+> <td>1.500</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Acumulado desde 2020.</td>
-> <td class="cuerpo_tabla_coma">4.000</td>
-> <td class="cuerpo_tabla_coma">5.500</td>
-> <td class="cuerpo_tabla_coma">7.000</td>
-> <td class="cuerpo_tabla_coma">8.500</td>
-> <td class="cuerpo_tabla_coma">10.000</td>
+> <td>Acumulado desde 2020.</td>
+> <td>4.000</td>
+> <td>5.500</td>
+> <td>7.000</td>
+> <td>8.500</td>
+> <td>10.000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Fotovoltaica.</td>
-> <td class="cuerpo_tabla_izq">Incremento anual.</td>
-> <td class="cuerpo_tabla_coma">1.800</td>
-> <td class="cuerpo_tabla_coma">1.800</td>
-> <td class="cuerpo_tabla_coma">1.800</td>
-> <td class="cuerpo_tabla_coma">1.800</td>
-> <td class="cuerpo_tabla_coma">1.800</td>
+> <td rowspan="2">Fotovoltaica.</td>
+> <td>Incremento anual.</td>
+> <td>1.800</td>
+> <td>1.800</td>
+> <td>1.800</td>
+> <td>1.800</td>
+> <td>1.800</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Acumulado desde 2020.</td>
-> <td class="cuerpo_tabla_coma">4.600</td>
-> <td class="cuerpo_tabla_coma">6.400</td>
-> <td class="cuerpo_tabla_coma">8.200</td>
-> <td class="cuerpo_tabla_coma">10.000</td>
-> <td class="cuerpo_tabla_coma">11.800</td>
+> <td>Acumulado desde 2020.</td>
+> <td>4.600</td>
+> <td>6.400</td>
+> <td>8.200</td>
+> <td>10.000</td>
+> <td>11.800</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Solar Termoeléctrica.</td>
-> <td class="cuerpo_tabla_izq">Incremento anual.</td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma">200</td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma">200</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td rowspan="2">Solar Termoeléctrica.</td>
+> <td>Incremento anual.</td>
+> <td> </td>
+> <td>200</td>
+> <td> </td>
+> <td>200</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Acumulado desde 2020.</td>
-> <td class="cuerpo_tabla_coma">200</td>
-> <td class="cuerpo_tabla_coma">400</td>
-> <td class="cuerpo_tabla_coma">400</td>
-> <td class="cuerpo_tabla_coma">600</td>
-> <td class="cuerpo_tabla_coma">600</td>
+> <td>Acumulado desde 2020.</td>
+> <td>200</td>
+> <td>400</td>
+> <td>400</td>
+> <td>600</td>
+> <td>600</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Biomasa.</td>
-> <td class="cuerpo_tabla_izq">Incremento anual.</td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma">120</td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma">120</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td rowspan="2">Biomasa.</td>
+> <td>Incremento anual.</td>
+> <td> </td>
+> <td>120</td>
+> <td> </td>
+> <td>120</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Acumulado desde 2020.</td>
-> <td class="cuerpo_tabla_coma">140</td>
-> <td class="cuerpo_tabla_coma">260</td>
-> <td class="cuerpo_tabla_coma">260</td>
-> <td class="cuerpo_tabla_coma">380</td>
-> <td class="cuerpo_tabla_coma">380</td>
+> <td>Acumulado desde 2020.</td>
+> <td>140</td>
+> <td>260</td>
+> <td>260</td>
+> <td>380</td>
+> <td>380</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="2">Otras tecnologías (biogás, hidráulica, mareomotriz, etc.).</td>
-> <td class="cuerpo_tabla_izq">Incremento anual.</td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma">20</td>
-> <td class="cuerpo_tabla_coma"> </td>
-> <td class="cuerpo_tabla_coma">20</td>
-> <td class="cuerpo_tabla_coma"> </td>
+> <td rowspan="2">Otras tecnologías (biogás, hidráulica, mareomotriz, etc.).</td>
+> <td>Incremento anual.</td>
+> <td> </td>
+> <td>20</td>
+> <td> </td>
+> <td>20</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Acumulado desde 2020.</td>
-> <td class="cuerpo_tabla_coma">20</td>
-> <td class="cuerpo_tabla_coma">40</td>
-> <td class="cuerpo_tabla_coma">40</td>
-> <td class="cuerpo_tabla_coma">60</td>
-> <td class="cuerpo_tabla_coma">60</td>
+> <td>Acumulado desde 2020.</td>
+> <td>20</td>
+> <td>40</td>
+> <td>40</td>
+> <td>60</td>
+> <td>60</td>
 > </tr>
 > </tbody>
 > </table>
@@ -1021,209 +1012,204 @@ TERESA RIBERA RODRÍGUEZ
 
 A. Valores típicos y valores por defecto para los biocarburantes producidos sin emisiones netas de carbono debidas a cambios en el uso del suelo
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Proceso de producción del biocarburante</th>
-<th class="cabeza_tabla">Reducción de emisiones de gases de efecto invernadero. Valores típicos</th>
-<th class="cabeza_tabla">Reducción de emisiones de gases de efecto invernadero. Valores por defecto</th>
+<th>Proceso de producción del biocarburante</th>
+<th>Reducción de emisiones de gases de efecto invernadero. Valores típicos</th>
+<th>Reducción de emisiones de gases de efecto invernadero. Valores por defecto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">59 %</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>67 %</td>
+<td>59 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>77 %</td>
+<td>73 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">68 %</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>73 %</td>
+<td>68 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">79 %</td>
-<td class="cuerpo_tabla_centro">76 %</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>79 %</td>
+<td>76 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">58 %</td>
-<td class="cuerpo_tabla_centro">47 %</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>58 %</td>
+<td>47 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">71 %</td>
-<td class="cuerpo_tabla_centro">64 %</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>71 %</td>
+<td>64 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_centro">48 %</td>
-<td class="cuerpo_tabla_centro">40 %</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>48 %</td>
+<td>40 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">48 %</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>55 %</td>
+<td>48 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">40 %</td>
-<td class="cuerpo_tabla_centro">28 %</td>
+<td>Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>40 %</td>
+<td>28 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">68 %</td>
+<td>Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>69 %</td>
+<td>68 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_centro">47 %</td>
-<td class="cuerpo_tabla_centro">38 %</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>47 %</td>
+<td>38 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">53 %</td>
-<td class="cuerpo_tabla_centro">46 %</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>53 %</td>
+<td>46 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">37 %</td>
-<td class="cuerpo_tabla_centro">24 %</td>
+<td>Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>37 %</td>
+<td>24 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">67 %</td>
+<td>Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>67 %</td>
+<td>67 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar.</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">70 %</td>
+<td>Etanol de caña de azúcar.</td>
+<td>70 %</td>
+<td>70 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del etil-terc-butil-éter (ETBE) procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Iguales a los del proceso utilizado de producción del etanol.</td>
+<td>Parte del etil-terc-butil-éter (ETBE) procedente de fuentes renovables.</td>
+<td colspan="2">Iguales a los del proceso utilizado de producción del etanol.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del terc-amil-etil-éter (TAEE) procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Iguales a los del proceso utilizado de producción del etanol.</td>
+<td>Parte del terc-amil-etil-éter (TAEE) procedente de fuentes renovables.</td>
+<td colspan="2">Iguales a los del proceso utilizado de producción del etanol.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_centro">52 %</td>
-<td class="cuerpo_tabla_centro">47 %</td>
+<td>Biodiésel de colza.</td>
+<td>52 %</td>
+<td>47 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_centro">57 %</td>
-<td class="cuerpo_tabla_centro">52 %</td>
+<td>Biodiésel de girasol.</td>
+<td>57 %</td>
+<td>52 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">50 %</td>
+<td>Biodiésel de soja.</td>
+<td>55 %</td>
+<td>50 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_centro">33 %</td>
-<td class="cuerpo_tabla_centro">20 %</td>
+<td>Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
+<td>33 %</td>
+<td>20 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_centro">51 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>Biodiésel de aceite de palma (proceso con captura de metano en la almazara).</td>
+<td>51 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>88 %</td>
+<td>84 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
+<td>Biodiésel procedente de grasas animales fundidas (**).</td>
+<td>84 %</td>
+<td>78 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza.</td>
-<td class="cuerpo_tabla_centro">51 %</td>
-<td class="cuerpo_tabla_centro">47 %</td>
+<td>Aceite vegetal hidrotratado de colza.</td>
+<td>51 %</td>
+<td>47 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol.</td>
-<td class="cuerpo_tabla_centro">58 %</td>
-<td class="cuerpo_tabla_centro">54 %</td>
+<td>Aceite vegetal hidrotratado de girasol.</td>
+<td>58 %</td>
+<td>54 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja.</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">51 %</td>
+<td>Aceite vegetal hidrotratado de soja.</td>
+<td>55 %</td>
+<td>51 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_centro">34 %</td>
-<td class="cuerpo_tabla_centro">22 %</td>
+<td>Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
+<td>34 %</td>
+<td>22 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_centro">53 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
+<td>Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
+<td>53 %</td>
+<td>49 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>87 %</td>
+<td>83 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
+<td>Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
+<td>83 %</td>
+<td>77 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_centro">59 %</td>
-<td class="cuerpo_tabla_centro">57 %</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>59 %</td>
+<td>57 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_centro">65 %</td>
-<td class="cuerpo_tabla_centro">64 %</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>65 %</td>
+<td>64 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_centro">63 %</td>
-<td class="cuerpo_tabla_centro">61 %</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>63 %</td>
+<td>61 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_centro">40 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
+<td>Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
+<td>40 %</td>
+<td>30 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_centro">59 %</td>
-<td class="cuerpo_tabla_centro">57 %</td>
+<td>Aceite vegetal puro de palma (proceso con captura de metano en la almazara).</td>
+<td>59 %</td>
+<td>57 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_centro">98 %</td>
-<td class="cuerpo_tabla_centro">98 %</td>
+<td>Aceite puro de cocina usado.</td>
+<td>98 %</td>
+<td>98 %</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
-<p class="cita">(**) Se aplica únicamente a los biocarburantes producidos a partir de subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002, para los que no se consideran las emisiones relacionadas con la higienización como parte del procesamiento.</p>
+<p>(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
+<p>(**) Se aplica únicamente a los biocarburantes producidos a partir de subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002, para los que no se consideran las emisiones relacionadas con la higienización como parte del procesamiento.</p>
 </td>
 </tr>
 </tfoot>
@@ -1231,88 +1217,83 @@ A. Valores típicos y valores por defecto para los biocarburantes producidos sin
 
 B. Valores típicos y valores por defecto estimados para los futuros biocarburantes que no se encontraban o solo se encontraban en cantidades insignificantes en el mercado en 2016, producidos sin emisiones netas de carbono debidas a cambios en el uso del suelo
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Proceso de producción del biocarburante</th>
-<th class="cabeza_tabla">Reducción de emisiones de gases de efecto invernadero, valores típicos</th>
-<th class="cabeza_tabla">Reducción de emisiones de gases de efecto invernadero, valores por defecto</th>
+<th>Proceso de producción del biocarburante</th>
+<th>Reducción de emisiones de gases de efecto invernadero, valores típicos</th>
+<th>Reducción de emisiones de gases de efecto invernadero, valores por defecto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
+<td>85 %</td>
+<td>83 %</td>
 </tr>
 <tr>
 <td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
+<td>83 %</td>
+<td>83 %</td>
 </tr>
 <tr>
 <td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
+<td>82 %</td>
+<td>82 %</td>
 </tr>
 <tr>
 <td>Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
+<td>83 %</td>
+<td>83 %</td>
 </tr>
 <tr>
 <td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
+<td>82 %</td>
+<td>82 %</td>
 </tr>
 <tr>
 <td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
+<td>84 %</td>
+<td>84 %</td>
 </tr>
 <tr>
 <td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
+<td>83 %</td>
+<td>83 %</td>
 </tr>
 <tr>
 <td>Metanol de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
+<td>84 %</td>
+<td>84 %</td>
 </tr>
 <tr>
 <td>Metanol de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
+<td>83 %</td>
+<td>83 %</td>
 </tr>
 <tr>
 <td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
+<td>89 %</td>
+<td>89 %</td>
 </tr>
 <tr>
 <td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
+<td>89 %</td>
+<td>89 %</td>
 </tr>
 <tr>
 <td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
+<td>89 %</td>
+<td>89 %</td>
 </tr>
 <tr>
 <td>Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
+<td>89 %</td>
+<td>89 %</td>
 </tr>
 <tr>
 <td>Parte del metil-terc-butil-éter (MTBE) procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Iguales a los del proceso de producción de metanol utilizado.</td>
+<td colspan="2">Iguales a los del proceso de producción de metanol utilizado.</td>
 </tr>
 </tbody>
 </table>
@@ -1575,147 +1556,142 @@ D. Valores por defecto desagregados para los biocarburantes y biolíquidos
 
 Valores por defecto desagregados para el cultivo: «*e<sub>ec</sub>*», tal como se define en la parte C del presente anexo, incluidas las emisiones de N<sub>2</sub>O de los suelos
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera.</td>
-<td class="cuerpo_tabla_coma">9,6</td>
-<td class="cuerpo_tabla_coma">9,6</td>
+<td>Etanol de remolacha azucarera.</td>
+<td>9,6</td>
+<td>9,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz.</td>
-<td class="cuerpo_tabla_coma">25,5</td>
-<td class="cuerpo_tabla_coma">25,5</td>
+<td>Etanol de maíz.</td>
+<td>25,5</td>
+<td>25,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz.</td>
-<td class="cuerpo_tabla_coma">27,0</td>
-<td class="cuerpo_tabla_coma">27,0</td>
+<td>Etanol de otros cereales distintos del maíz.</td>
+<td>27,0</td>
+<td>27,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar.</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_coma">17,1</td>
+<td>Etanol de caña de azúcar.</td>
+<td>17,1</td>
+<td>17,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del ETBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del ETBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del TAEE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del TAEE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_coma">32,0</td>
-<td class="cuerpo_tabla_coma">32,0</td>
+<td>Biodiésel de colza.</td>
+<td>32,0</td>
+<td>32,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_coma">26,1</td>
-<td class="cuerpo_tabla_coma">26,1</td>
+<td>Biodiésel de girasol.</td>
+<td>26,1</td>
+<td>26,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_coma">21,2</td>
-<td class="cuerpo_tabla_coma">21,2</td>
+<td>Biodiésel de soja.</td>
+<td>21,2</td>
+<td>21,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma.</td>
-<td class="cuerpo_tabla_coma">26,0</td>
-<td class="cuerpo_tabla_coma">26,0</td>
+<td>Biodiésel de aceite de palma.</td>
+<td>26,0</td>
+<td>26,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Biodiésel procedente de grasas animales fundidas (**).</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza.</td>
-<td class="cuerpo_tabla_coma">33,4</td>
-<td class="cuerpo_tabla_coma">33,4</td>
+<td>Aceite vegetal hidrotratado de colza.</td>
+<td>33,4</td>
+<td>33,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol.</td>
-<td class="cuerpo_tabla_coma">26,9</td>
-<td class="cuerpo_tabla_coma">26,9</td>
+<td>Aceite vegetal hidrotratado de girasol.</td>
+<td>26,9</td>
+<td>26,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja.</td>
-<td class="cuerpo_tabla_coma">22,1</td>
-<td class="cuerpo_tabla_coma">22,1</td>
+<td>Aceite vegetal hidrotratado de soja.</td>
+<td>22,1</td>
+<td>22,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma.</td>
-<td class="cuerpo_tabla_coma">27,3</td>
-<td class="cuerpo_tabla_coma">27,3</td>
+<td>Aceite vegetal hidrotratado de palma.</td>
+<td>27,3</td>
+<td>27,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_coma">33,4</td>
-<td class="cuerpo_tabla_coma">33,4</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>33,4</td>
+<td>33,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_coma">27,2</td>
-<td class="cuerpo_tabla_coma">27,2</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>27,2</td>
+<td>27,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_coma">22,2</td>
-<td class="cuerpo_tabla_coma">22,2</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>22,2</td>
+<td>22,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma.</td>
-<td class="cuerpo_tabla_coma">27,1</td>
-<td class="cuerpo_tabla_coma">27,1</td>
+<td>Aceite vegetal puro de palma.</td>
+<td>27,1</td>
+<td>27,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite puro de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(**) Se aplica únicamente a los biocarburantes producidos por los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.º 1069/2009 cuyas emisiones relacionadas con la higienización como parte de los residuos no se toman en consideración.</p>
+<p>(**) Se aplica únicamente a los biocarburantes producidos por los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.º 1069/2009 cuyas emisiones relacionadas con la higienización como parte de los residuos no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -1723,147 +1699,142 @@ Valores por defecto desagregados para el cultivo: «*e<sub>ec</sub>*», tal como
 
 Valores por defecto desagregados para el cultivo: «*e<sub>ec</sub>*», exclusivamente para las emisiones de N<sub>2</sub>O de los suelos (ya incluidos en los valores desagregados para las emisiones de los cultivos en el cuadro «*e<sub>ec</sub>*»)
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO2eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por de fecto</p>
-<p class="cabeza_tabla">(g CO2eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO2eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por de fecto</p>
+<p>(g CO2eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera.</td>
-<td class="cuerpo_tabla_coma">4,9</td>
-<td class="cuerpo_tabla_coma">4,9</td>
+<td>Etanol de remolacha azucarera.</td>
+<td>4,9</td>
+<td>4,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz.</td>
-<td class="cuerpo_tabla_coma">13,7</td>
-<td class="cuerpo_tabla_coma">13,7</td>
+<td>Etanol de maíz.</td>
+<td>13,7</td>
+<td>13,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz.</td>
-<td class="cuerpo_tabla_coma">14,1</td>
-<td class="cuerpo_tabla_coma">14,1</td>
+<td>Etanol de otros cereales distintos del maíz.</td>
+<td>14,1</td>
+<td>14,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar.</td>
-<td class="cuerpo_tabla_coma">2,1</td>
-<td class="cuerpo_tabla_coma">2,1</td>
+<td>Etanol de caña de azúcar.</td>
+<td>2,1</td>
+<td>2,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del ETBE procedente de fuentes renovables.</td>
+<td>Parte del ETBE procedente de fuentes renovables.</td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del TAEE procedente de fuentes renovables.</td>
+<td>Parte del TAEE procedente de fuentes renovables.</td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_coma">17,6</td>
-<td class="cuerpo_tabla_coma">17,6</td>
+<td>Biodiésel de colza.</td>
+<td>17,6</td>
+<td>17,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_coma">12,2</td>
-<td class="cuerpo_tabla_coma">12,2</td>
+<td>Biodiésel de girasol.</td>
+<td>12,2</td>
+<td>12,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_coma">13,4</td>
-<td class="cuerpo_tabla_coma">13,4</td>
+<td>Biodiésel de soja.</td>
+<td>13,4</td>
+<td>13,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma.</td>
-<td class="cuerpo_tabla_coma">16,5</td>
-<td class="cuerpo_tabla_coma">16,5</td>
+<td>Biodiésel de aceite de palma.</td>
+<td>16,5</td>
+<td>16,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Biodiésel de grasas animales fundidas (**).</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado vegetal de colza.</td>
-<td class="cuerpo_tabla_coma">18,0</td>
-<td class="cuerpo_tabla_coma">18,0</td>
+<td>Aceite hidrotratado vegetal de colza.</td>
+<td>18,0</td>
+<td>18,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado vegetal de girasol.</td>
-<td class="cuerpo_tabla_coma">12,5</td>
-<td class="cuerpo_tabla_coma">12,5</td>
+<td>Aceite hidrotratado vegetal de girasol.</td>
+<td>12,5</td>
+<td>12,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado vegetal de soja.</td>
-<td class="cuerpo_tabla_coma">13,7</td>
-<td class="cuerpo_tabla_coma">13,7</td>
+<td>Aceite hidrotratado vegetal de soja.</td>
+<td>13,7</td>
+<td>13,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado vegetal de palma.</td>
-<td class="cuerpo_tabla_coma">16,9</td>
-<td class="cuerpo_tabla_coma">16,9</td>
+<td>Aceite hidrotratado vegetal de palma.</td>
+<td>16,9</td>
+<td>16,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_coma">17,6</td>
-<td class="cuerpo_tabla_coma">17,6</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>17,6</td>
+<td>17,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_coma">12,2</td>
-<td class="cuerpo_tabla_coma">12,2</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>12,2</td>
+<td>12,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_coma">13,4</td>
-<td class="cuerpo_tabla_coma">13,4</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>13,4</td>
+<td>13,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma.</td>
-<td class="cuerpo_tabla_coma">16,5</td>
-<td class="cuerpo_tabla_coma">16,5</td>
+<td>Aceite vegetal puro de palma.</td>
+<td>16,5</td>
+<td>16,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite puro de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(**) Nota: se aplica únicamente a los biocarburantes producidos por los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte de los residuos no se toman en consideración.</p>
+<p>(**) Nota: se aplica únicamente a los biocarburantes producidos por los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte de los residuos no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -1871,218 +1842,213 @@ Valores por defecto desagregados para el cultivo: «*e<sub>ec</sub>*», exclusiv
 
 Valores por defecto desagregados para transformación: «*e<sub>p</sub>*» tal como se define en la parte C del presente anexo
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">18,8</td>
-<td class="cuerpo_tabla_coma">26,3</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>18,8</td>
+<td>26,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">9,7</td>
-<td class="cuerpo_tabla_coma">13,6</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>9,7</td>
+<td>13,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">13,2</td>
-<td class="cuerpo_tabla_coma">18,5</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>13,2</td>
+<td>18,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">7,6</td>
-<td class="cuerpo_tabla_coma">10,6</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>7,6</td>
+<td>10,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">27,4</td>
-<td class="cuerpo_tabla_coma">38,3</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>27,4</td>
+<td>38,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">15,7</td>
-<td class="cuerpo_tabla_coma">22,0</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>15,7</td>
+<td>22,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">20,8</td>
-<td class="cuerpo_tabla_coma">29,1</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>20,8</td>
+<td>29,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">14,8</td>
-<td class="cuerpo_tabla_coma">20,8</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>14,8</td>
+<td>20,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">28,6</td>
-<td class="cuerpo_tabla_coma">40,1</td>
+<td>Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>28,6</td>
+<td>40,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">1,8</td>
-<td class="cuerpo_tabla_coma">2,6</td>
+<td>Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>1,8</td>
+<td>2,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">21,0</td>
-<td class="cuerpo_tabla_coma">29,3</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>21,0</td>
+<td>29,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">15,1</td>
-<td class="cuerpo_tabla_coma">21,1</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>15,1</td>
+<td>21,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">30,3</td>
-<td class="cuerpo_tabla_coma">42,5</td>
+<td>Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>30,3</td>
+<td>42,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>1,5</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar.</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,8</td>
+<td>Etanol de caña de azúcar.</td>
+<td>1,3</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del ETBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del ETBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del TAEE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del TAEE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_coma">11,7</td>
-<td class="cuerpo_tabla_coma">16,3</td>
+<td>Biodiésel de colza.</td>
+<td>11,7</td>
+<td>16,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_coma">16,5</td>
+<td>Biodiésel de girasol.</td>
+<td>11,8</td>
+<td>16,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_coma">12,1</td>
-<td class="cuerpo_tabla_coma">16,9</td>
+<td>Biodiésel de soja.</td>
+<td>12,1</td>
+<td>16,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (estanque abierto para efluen tes).</td>
-<td class="cuerpo_tabla_coma">30,4</td>
-<td class="cuerpo_tabla_coma">42,6</td>
+<td>Biodiésel de aceite de palma (estanque abierto para efluen tes).</td>
+<td>30,4</td>
+<td>42,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (proceso con captura de me tano en la almazara).</td>
-<td class="cuerpo_tabla_coma">13,2</td>
-<td class="cuerpo_tabla_coma">18,5</td>
+<td>Biodiésel de aceite de palma (proceso con captura de me tano en la almazara).</td>
+<td>13,2</td>
+<td>18,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_coma">9,3</td>
-<td class="cuerpo_tabla_coma">13,0</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>9,3</td>
+<td>13,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">13,6</td>
-<td class="cuerpo_tabla_coma">19,1</td>
+<td>Biodiésel procedente de grasas animales fundidas (**).</td>
+<td>13,6</td>
+<td>19,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza.</td>
-<td class="cuerpo_tabla_coma">10,7</td>
-<td class="cuerpo_tabla_coma">15,0</td>
+<td>Aceite vegetal hidrotratado de colza.</td>
+<td>10,7</td>
+<td>15,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol.</td>
-<td class="cuerpo_tabla_coma">10,5</td>
-<td class="cuerpo_tabla_coma">14,7</td>
+<td>Aceite vegetal hidrotratado de girasol.</td>
+<td>10,5</td>
+<td>14,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja.</td>
-<td class="cuerpo_tabla_coma">10,9</td>
-<td class="cuerpo_tabla_coma">15,2</td>
+<td>Aceite vegetal hidrotratado de soja.</td>
+<td>10,9</td>
+<td>15,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">27,8</td>
-<td class="cuerpo_tabla_coma">38,9</td>
+<td>Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
+<td>27,8</td>
+<td>38,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">9,7</td>
-<td class="cuerpo_tabla_coma">13,6</td>
+<td>Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
+<td>9,7</td>
+<td>13,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_coma">10,2</td>
-<td class="cuerpo_tabla_coma">14,3</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>10,2</td>
+<td>14,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">14,5</td>
-<td class="cuerpo_tabla_coma">20,3</td>
+<td>Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
+<td>14,5</td>
+<td>20,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_coma">3,7</td>
-<td class="cuerpo_tabla_coma">5,2</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>3,7</td>
+<td>5,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_coma">3,8</td>
-<td class="cuerpo_tabla_coma">5,4</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>3,8</td>
+<td>5,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_coma">4,2</td>
-<td class="cuerpo_tabla_coma">5,9</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>4,2</td>
+<td>5,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">22,6</td>
-<td class="cuerpo_tabla_coma">31,7</td>
+<td>Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
+<td>22,6</td>
+<td>31,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (proceso con captura de me tano en la almazara).</td>
-<td class="cuerpo_tabla_coma">4,7</td>
-<td class="cuerpo_tabla_coma">6,5</td>
+<td>Aceite vegetal puro de palma (proceso con captura de me tano en la almazara).</td>
+<td>4,7</td>
+<td>6,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0,6</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite puro de cocina usado.</td>
+<td>0,6</td>
+<td>0,8</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
-<p class="cita">(**) Nota:<em> </em>se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
+<p>(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
+<p>(**) Nota:<em> </em>se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -2090,130 +2056,125 @@ Valores por defecto desagregados para transformación: «*e<sub>p</sub>*» tal c
 
 Valores por defecto desagregados exclusivamente para la extracción de aceites (ya incluidos en los valores desagregados para las emisiones de la transformación en el cuadro «*e<sub>p</sub>*»)
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_coma">3,0</td>
-<td class="cuerpo_tabla_coma">4,2</td>
+<td>Biodiésel de colza.</td>
+<td>3,0</td>
+<td>4,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_coma">2,9</td>
-<td class="cuerpo_tabla_coma">4,0</td>
+<td>Biodiésel de girasol.</td>
+<td>2,9</td>
+<td>4,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_coma">3,2</td>
-<td class="cuerpo_tabla_coma">4,4</td>
+<td>Biodiésel de soja.</td>
+<td>3,2</td>
+<td>4,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">20,9</td>
-<td class="cuerpo_tabla_coma">29,2</td>
+<td>Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
+<td>20,9</td>
+<td>29,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (proceso con captura de me tano en la almazara).</td>
-<td class="cuerpo_tabla_coma">3,7</td>
-<td class="cuerpo_tabla_coma">5,1</td>
+<td>Biodiésel de aceite de palma (proceso con captura de me tano en la almazara).</td>
+<td>3,7</td>
+<td>5,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">4,3</td>
-<td class="cuerpo_tabla_coma">6,1</td>
+<td>Biodiésel procedente de grasas animales fundidas (**).</td>
+<td>4,3</td>
+<td>6,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza.</td>
-<td class="cuerpo_tabla_coma">3,1</td>
-<td class="cuerpo_tabla_coma">4,4</td>
+<td>Aceite vegetal hidrotratado de colza.</td>
+<td>3,1</td>
+<td>4,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol.</td>
-<td class="cuerpo_tabla_coma">3,0</td>
-<td class="cuerpo_tabla_coma">4,1</td>
+<td>Aceite vegetal hidrotratado de girasol.</td>
+<td>3,0</td>
+<td>4,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja.</td>
-<td class="cuerpo_tabla_coma">3,3</td>
-<td class="cuerpo_tabla_coma">4,6</td>
+<td>Aceite vegetal hidrotratado de soja.</td>
+<td>3,3</td>
+<td>4,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">21,9</td>
-<td class="cuerpo_tabla_coma">30,7</td>
+<td>Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
+<td>21,9</td>
+<td>30,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">3,8</td>
-<td class="cuerpo_tabla_coma">5,4</td>
+<td>Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
+<td>3,8</td>
+<td>5,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundi das (**).</td>
-<td class="cuerpo_tabla_coma">4,3</td>
-<td class="cuerpo_tabla_coma">6,0</td>
+<td>Aceite hidrotratado procedente de grasas animales fundi das (**).</td>
+<td>4,3</td>
+<td>6,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_coma">3,1</td>
-<td class="cuerpo_tabla_coma">4,4</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>3,1</td>
+<td>4,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_coma">3,0</td>
-<td class="cuerpo_tabla_coma">4,2</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>3,0</td>
+<td>4,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_coma">3,4</td>
-<td class="cuerpo_tabla_coma">4,7</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>3,4</td>
+<td>4,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">21,8</td>
-<td class="cuerpo_tabla_coma">30,5</td>
+<td>Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
+<td>21,8</td>
+<td>30,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">3,8</td>
-<td class="cuerpo_tabla_coma">5,3</td>
+<td>Aceite vegetal puro de palma (proceso con captura de metano en la almazara).</td>
+<td>3,8</td>
+<td>5,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Aceite puro de cocina usado.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
+<p>(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -2221,218 +2182,213 @@ Valores por defecto desagregados exclusivamente para la extracción de aceites (
 
 Valores por defecto desagregados para transporte y distribución: «*e<sub>td</sub>*» tal como se define en la parte C del presente anexo
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">2,3</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>2,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">2,3</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>2,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">2,3</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">2,3</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">2,3</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,3</td>
-<td class="cuerpo_tabla_coma">2,3</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">2,2</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>2,2</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar.</td>
-<td class="cuerpo_tabla_coma">9,7</td>
-<td class="cuerpo_tabla_coma">9,7</td>
+<td>Etanol de caña de azúcar.</td>
+<td>9,7</td>
+<td>9,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del ETBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del ETBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del TAEE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del TAEE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_coma">1,8</td>
-<td class="cuerpo_tabla_coma">1,8</td>
+<td>Biodiésel de colza.</td>
+<td>1,8</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_coma">2,1</td>
-<td class="cuerpo_tabla_coma">2,1</td>
+<td>Biodiésel de girasol.</td>
+<td>2,1</td>
+<td>2,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_coma">8,9</td>
-<td class="cuerpo_tabla_coma">8,9</td>
+<td>Biodiésel de soja.</td>
+<td>8,9</td>
+<td>8,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_coma">6,9</td>
+<td>Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
+<td>6,9</td>
+<td>6,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (proceso con captura de me tano en la almazara).</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_coma">6,9</td>
+<td>Biodiésel de aceite de palma (proceso con captura de me tano en la almazara).</td>
+<td>6,9</td>
+<td>6,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_coma">1,9</td>
-<td class="cuerpo_tabla_coma">1,9</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>1,9</td>
+<td>1,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Biodiésel procedente de grasas animales fundidas (**).</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza.</td>
-<td class="cuerpo_tabla_coma">1,7</td>
-<td class="cuerpo_tabla_coma">1,7</td>
+<td>Aceite vegetal hidrotratado de colza.</td>
+<td>1,7</td>
+<td>1,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Aceite vegetal hidrotratado de girasol.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja.</td>
-<td class="cuerpo_tabla_coma">9,2</td>
-<td class="cuerpo_tabla_coma">9,2</td>
+<td>Aceite vegetal hidrotratado de soja.</td>
+<td>9,2</td>
+<td>9,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">7,0</td>
-<td class="cuerpo_tabla_coma">7,0</td>
+<td>Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
+<td>7,0</td>
+<td>7,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">7,0</td>
-<td class="cuerpo_tabla_coma">7,0</td>
+<td>Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
+<td>7,0</td>
+<td>7,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_coma">1,7</td>
-<td class="cuerpo_tabla_coma">1,7</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>1,7</td>
+<td>1,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_coma">1,5</td>
+<td>Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
+<td>1,5</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_coma">1,4</td>
-<td class="cuerpo_tabla_coma">1,4</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>1,4</td>
+<td>1,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_coma">1,7</td>
-<td class="cuerpo_tabla_coma">1,7</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>1,7</td>
+<td>1,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_coma">8,8</td>
-<td class="cuerpo_tabla_coma">8,8</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>8,8</td>
+<td>8,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_coma">6,7</td>
+<td>Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
+<td>6,7</td>
+<td>6,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (proceso con captura de me tano en la almazara).</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_coma">6,7</td>
+<td>Aceite vegetal puro de palma (proceso con captura de me tano en la almazara).</td>
+<td>6,7</td>
+<td>6,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_coma">1,4</td>
-<td class="cuerpo_tabla_coma">1,4</td>
+<td>Aceite puro de cocina usado.</td>
+<td>1,4</td>
+<td>1,4</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
-<p class="cita">(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
+<p>(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
+<p>(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -2440,218 +2396,213 @@ Valores por defecto desagregados para transporte y distribución: «*e<sub>td</s
 
 Valores por defecto desagregados exclusivamente para transporte y distribución de combustible final. Si bien ya están incluidos en el cuadro de «emisiones del transporte y la distribución *e<sub>td</sub>*» tal como se definen en la parte C del presente anexo, los valores que figuran a continuación son útiles si un operador económico quiere declarar exclusivamente las emisiones reales del transporte correspondientes al transporte de cultivos o de aceites
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional)</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional)</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional)</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional)</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en caldera convencional)</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en caldera convencional)</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional)</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional)</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*))</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*))</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar</td>
-<td class="cuerpo_tabla_coma">6,0</td>
-<td class="cuerpo_tabla_coma">6,0</td>
+<td>Etanol de caña de azúcar</td>
+<td>6,0</td>
+<td>6,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del etil-terc-butil-éter (ETBE) procedente de fuentes renovables</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Se considerarán iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del etil-terc-butil-éter (ETBE) procedente de fuentes renovables</td>
+<td colspan="2">
+<p>Se considerarán iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del terc-amil-etil-éter (TAEE) procedente de fuentes renovables</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Se considerarán iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del terc-amil-etil-éter (TAEE) procedente de fuentes renovables</td>
+<td colspan="2">
+<p>Se considerarán iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel de colza</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel de girasol</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel de soja</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (estanque abierto para efluentes)</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel de aceite de palma (estanque abierto para efluentes)</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (proceso con captura de me tano en la almazara)</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel de aceite de palma (proceso con captura de me tano en la almazara)</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel de aceite de cocina usado</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**)</td>
-<td class="cuerpo_tabla_coma">1,3</td>
-<td class="cuerpo_tabla_coma">1,3</td>
+<td>Biodiésel procedente de grasas animales fundidas (**)</td>
+<td>1,3</td>
+<td>1,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite vegetal hidrotratado de colza</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite vegetal hidrotratado de girasol</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite vegetal hidrotratado de soja</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (estanque abierto para efluentes)</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite vegetal hidrotratado de palma (estanque abierto para efluentes)</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara)</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara)</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite hidrotratado de cocina usado</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundi das (**)</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Aceite hidrotratado procedente de grasas animales fundi das (**)</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza</td>
-<td class="cuerpo_tabla_coma">0,8</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite vegetal puro de colza</td>
+<td>0,8</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol</td>
-<td class="cuerpo_tabla_coma">0,8</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite vegetal puro de girasol</td>
+<td>0,8</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja</td>
-<td class="cuerpo_tabla_coma">0,8</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite vegetal puro de soja</td>
+<td>0,8</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (estanque abierto para efluentes)</td>
-<td class="cuerpo_tabla_coma">0,8</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite vegetal puro de palma (estanque abierto para efluentes)</td>
+<td>0,8</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (proceso con captura de metano en la almazara)</td>
-<td class="cuerpo_tabla_coma">0,8</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite vegetal puro de palma (proceso con captura de metano en la almazara)</td>
+<td>0,8</td>
+<td>0,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado</td>
-<td class="cuerpo_tabla_coma">0,8</td>
-<td class="cuerpo_tabla_coma">0,8</td>
+<td>Aceite puro de cocina usado</td>
+<td>0,8</td>
+<td>0,8</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
-<p class="cita">(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
+<p>(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor del proceso lo suministra la cogeneración.</p>
+<p>(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -2659,218 +2610,213 @@ Valores por defecto desagregados exclusivamente para transporte y distribución 
 
 Total para cultivo, transformación, transporte y distribución
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">30,7</td>
-<td class="cuerpo_tabla_coma">38,2</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>30,7</td>
+<td>38,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">21,6</td>
-<td class="cuerpo_tabla_coma">25,5</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en caldera convencional).</td>
+<td>21,6</td>
+<td>25,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">25,1</td>
-<td class="cuerpo_tabla_coma">30,4</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>25,1</td>
+<td>30,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">19,5</td>
-<td class="cuerpo_tabla_coma">22,5</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>19,5</td>
+<td>22,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">39,3</td>
-<td class="cuerpo_tabla_coma">50,2</td>
+<td>Etanol de remolacha azucarera (sin biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>39,3</td>
+<td>50,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">27,6</td>
-<td class="cuerpo_tabla_coma">33,9</td>
+<td>Etanol de remolacha azucarera (con biogás procedente de desechos, lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>27,6</td>
+<td>33,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">48,5</td>
-<td class="cuerpo_tabla_coma">56,8</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>48,5</td>
+<td>56,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_coma">48,5</td>
+<td>Etanol de maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>42,5</td>
+<td>48,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">56,3</td>
-<td class="cuerpo_tabla_coma">67,8</td>
+<td>Etanol de maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>56,3</td>
+<td>67,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">29,5</td>
-<td class="cuerpo_tabla_coma">30,3</td>
+<td>Etanol de maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>29,5</td>
+<td>30,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
-<td class="cuerpo_tabla_coma">50,2</td>
-<td class="cuerpo_tabla_coma">58,5</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en caldera convencional).</td>
+<td>50,2</td>
+<td>58,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">44,3</td>
-<td class="cuerpo_tabla_coma">50,3</td>
+<td>Etanol de otros cereales distintos del maíz (gas natural como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>44,3</td>
+<td>50,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_coma">71,7</td>
+<td>Etanol de otros cereales distintos del maíz (lignito como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>59,5</td>
+<td>71,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
-<td class="cuerpo_tabla_coma">30,7</td>
-<td class="cuerpo_tabla_coma">31,4</td>
+<td>Etanol de otros cereales distintos del maíz (desechos forestales como combustible de proceso en instalaciones de cogeneración (*)).</td>
+<td>30,7</td>
+<td>31,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de caña de azúcar.</td>
-<td class="cuerpo_tabla_coma">28,1</td>
-<td class="cuerpo_tabla_coma">28,6</td>
+<td>Etanol de caña de azúcar.</td>
+<td>28,1</td>
+<td>28,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del ETBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del ETBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del TAEE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso utilizado de producción del etanol.</p>
+<td>Parte del TAEE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso utilizado de producción del etanol.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de colza.</td>
-<td class="cuerpo_tabla_coma">45,5</td>
-<td class="cuerpo_tabla_coma">50,1</td>
+<td>Biodiésel de colza.</td>
+<td>45,5</td>
+<td>50,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de girasol.</td>
-<td class="cuerpo_tabla_coma">40,0</td>
-<td class="cuerpo_tabla_coma">44,7</td>
+<td>Biodiésel de girasol.</td>
+<td>40,0</td>
+<td>44,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de soja.</td>
-<td class="cuerpo_tabla_coma">42,2</td>
-<td class="cuerpo_tabla_coma">47,0</td>
+<td>Biodiésel de soja.</td>
+<td>42,2</td>
+<td>47,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">63,3</td>
-<td class="cuerpo_tabla_coma">75,5</td>
+<td>Biodiésel de aceite de palma (estanque abierto para efluentes).</td>
+<td>63,3</td>
+<td>75,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">46,1</td>
-<td class="cuerpo_tabla_coma">51,4</td>
+<td>Biodiésel de aceite de palma (proceso con captura de metano en la almazara).</td>
+<td>46,1</td>
+<td>51,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel de aceite de cocina usado.</td>
-<td class="cuerpo_tabla_coma">11,2</td>
-<td class="cuerpo_tabla_coma">14,9</td>
+<td>Biodiésel de aceite de cocina usado.</td>
+<td>11,2</td>
+<td>14,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">15,2</td>
-<td class="cuerpo_tabla_coma">20,7</td>
+<td>Biodiésel procedente de grasas animales fundidas (**).</td>
+<td>15,2</td>
+<td>20,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de colza.</td>
-<td class="cuerpo_tabla_coma">45,8</td>
-<td class="cuerpo_tabla_coma">50,1</td>
+<td>Aceite vegetal hidrotratado de colza.</td>
+<td>45,8</td>
+<td>50,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de girasol.</td>
-<td class="cuerpo_tabla_coma">39,4</td>
-<td class="cuerpo_tabla_coma">43,6</td>
+<td>Aceite vegetal hidrotratado de girasol.</td>
+<td>39,4</td>
+<td>43,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de soja.</td>
-<td class="cuerpo_tabla_coma">42,2</td>
-<td class="cuerpo_tabla_coma">46,5</td>
+<td>Aceite vegetal hidrotratado de soja.</td>
+<td>42,2</td>
+<td>46,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">62,1</td>
-<td class="cuerpo_tabla_coma">73,2</td>
+<td>Aceite vegetal hidrotratado de palma (estanque abierto para efluentes).</td>
+<td>62,1</td>
+<td>73,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">44,0</td>
-<td class="cuerpo_tabla_coma">47,9</td>
+<td>Aceite vegetal hidrotratado de palma (proceso con captura de metano en la almazara).</td>
+<td>44,0</td>
+<td>47,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado de cocina usado.</td>
-<td class="cuerpo_tabla_coma">11,9</td>
-<td class="cuerpo_tabla_coma">16,0</td>
+<td>Aceite hidrotratado de cocina usado.</td>
+<td>11,9</td>
+<td>16,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
-<td class="cuerpo_tabla_coma">16,0</td>
-<td class="cuerpo_tabla_coma">21,8</td>
+<td>Aceite hidrotratado procedente de grasas animales fundidas (**).</td>
+<td>16,0</td>
+<td>21,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de colza.</td>
-<td class="cuerpo_tabla_coma">38,5</td>
-<td class="cuerpo_tabla_coma">40,0</td>
+<td>Aceite vegetal puro de colza.</td>
+<td>38,5</td>
+<td>40,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de girasol.</td>
-<td class="cuerpo_tabla_coma">32,7</td>
-<td class="cuerpo_tabla_coma">34,3</td>
+<td>Aceite vegetal puro de girasol.</td>
+<td>32,7</td>
+<td>34,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de soja.</td>
-<td class="cuerpo_tabla_coma">35,2</td>
-<td class="cuerpo_tabla_coma">36,9</td>
+<td>Aceite vegetal puro de soja.</td>
+<td>35,2</td>
+<td>36,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
-<td class="cuerpo_tabla_coma">56,4</td>
-<td class="cuerpo_tabla_coma">65,5</td>
+<td>Aceite vegetal puro de palma (estanque abierto para efluentes).</td>
+<td>56,4</td>
+<td>65,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro de palma (proceso con captura de metano en la almazara).</td>
-<td class="cuerpo_tabla_coma">38,5</td>
-<td class="cuerpo_tabla_coma">40,3</td>
+<td>Aceite vegetal puro de palma (proceso con captura de metano en la almazara).</td>
+<td>38,5</td>
+<td>40,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite puro de cocina usado.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,2</td>
+<td>Aceite puro de cocina usado.</td>
+<td>2,0</td>
+<td>2,2</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor de proceso lo suministra la cogeneración.</p>
-<p class="cita">(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
+<p>(*) Los valores por defecto de los procesos que utilizan instalaciones de cogeneración solo son válidos si todo el calor de proceso lo suministra la cogeneración.</p>
+<p>(**) Nota: se aplica únicamente a los biocarburantes producidos a partir de los subproductos animales clasificados como material de las categorías 1 y 2 de conformidad con el Reglamento (CE) n.o 1069/2009 cuyas emisiones relacionadas con la higienización como parte del procesamiento no se toman en consideración.</p>
 </td>
 </tr>
 </tfoot>
@@ -2880,94 +2826,89 @@ E. Valores por defecto desagregados estimados para los futuros biocarburantes y 
 
 Valores por defecto desagregados para el cultivo: «*e<sub>ec</sub>*» tal como se define en la parte C del presente anexo, incluidas las emisiones de N<sub>2</sub>O (en particular, el astillado de residuos de madera o de madera cultivada)
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_coma">1,8</td>
-<td class="cuerpo_tabla_coma">1,8</td>
+<td>Etanol de paja de trigo.</td>
+<td>1,8</td>
+<td>1,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">3,3</td>
-<td class="cuerpo_tabla_coma">3,3</td>
+<td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>3,3</td>
+<td>3,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">8,2</td>
-<td class="cuerpo_tabla_coma">8,2</td>
+<td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>8,2</td>
+<td>8,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">3,3</td>
-<td class="cuerpo_tabla_coma">3,3</td>
+<td>Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>3,3</td>
+<td>3,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">8,2</td>
-<td class="cuerpo_tabla_coma">8,2</td>
+<td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>8,2</td>
+<td>8,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">3,1</td>
-<td class="cuerpo_tabla_coma">3,1</td>
+<td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
+<td>3,1</td>
+<td>3,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">7,6</td>
-<td class="cuerpo_tabla_coma">7,6</td>
+<td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
+<td>7,6</td>
+<td>7,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">3,1</td>
-<td class="cuerpo_tabla_coma">3,1</td>
+<td>Metanol de residuos de madera en instalaciones independientes.</td>
+<td>3,1</td>
+<td>3,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">7,6</td>
-<td class="cuerpo_tabla_coma">7,6</td>
+<td>Metanol de madera cultivada en instalaciones independientes.</td>
+<td>7,6</td>
+<td>7,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
+<td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,5</td>
+<td>2,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
+<td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,5</td>
+<td>2,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
+<td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,5</td>
+<td>2,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">2,5</td>
+<td>Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,5</td>
+<td>2,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del MTBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso de producción de metanol utilizado.</p>
+<td>Parte del MTBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso de producción de metanol utilizado.</p>
 </td>
 </tr>
 </tbody>
@@ -2975,94 +2916,89 @@ Valores por defecto desagregados para el cultivo: «*e<sub>ec</sub>*» tal como 
 
 Valores por defecto desagregados para las emisiones de N<sub>2</sub>O de los suelos (incluidos en los valores por defecto desagregados para las emisiones de los cultivos en el cuadro *«e<sub>ec</sub>*»)
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Etanol de paja de trigo.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">4,4</td>
-<td class="cuerpo_tabla_coma">4,4</td>
+<td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>4,4</td>
+<td>4,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">4,4</td>
-<td class="cuerpo_tabla_coma">4,4</td>
+<td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>4,4</td>
+<td>4,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">4,1</td>
-<td class="cuerpo_tabla_coma">4,1</td>
+<td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
+<td>4,1</td>
+<td>4,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de residuos de madera en instalaciones indepen dientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Metanol de residuos de madera en instalaciones indepen dientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">4,1</td>
-<td class="cuerpo_tabla_coma">4,1</td>
+<td>Metanol de madera cultivada en instalaciones independientes.</td>
+<td>4,1</td>
+<td>4,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del MTBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso de producción de metanol utilizado.</p>
+<td>Parte del MTBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso de producción de metanol utilizado.</p>
 </td>
 </tr>
 </tbody>
@@ -3070,94 +3006,89 @@ Valores por defecto desagregados para las emisiones de N<sub>2</sub>O de los sue
 
 Valores por defecto desagregados para transformación: «*e<sub>p</sub>*» tal como se define en la parte C del presente anexo
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por de fecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por de fecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_coma">4,8</td>
-<td class="cuerpo_tabla_coma">6,8</td>
+<td>Etanol de paja de trigo.</td>
+<td>4,8</td>
+<td>6,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0,1</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0,1</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de residuos de ma dera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0,1</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Gasolina Fischer-Tropsch procedente de residuos de ma dera en instalaciones independientes.</td>
+<td>0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0,1</td>
-<td class="cuerpo_tabla_coma">0,1</td>
+<td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>0,1</td>
+<td>0,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Metanol de residuos de madera en instalaciones independientes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de madera cultivada en instalaciones independien tes.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Metanol de madera cultivada en instalaciones independien tes.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del MTBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso de producción de metanol utilizado.</p>
+<td>Parte del MTBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso de producción de metanol utilizado.</p>
 </td>
 </tr>
 </tbody>
@@ -3165,94 +3096,89 @@ Valores por defecto desagregados para transformación: «*e<sub>p</sub>*» tal c
 
 Valores por defecto desagregados para transporte y distribución: «*e<sub>td</sub>*» tal como se define en la parte C del presente anexo
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_coma">7,1</td>
-<td class="cuerpo_tabla_coma">7,1</td>
+<td>Etanol de paja de trigo.</td>
+<td>7,1</td>
+<td>7,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">12,2</td>
-<td class="cuerpo_tabla_coma">12,2</td>
+<td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>12,2</td>
+<td>12,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">8,4</td>
-<td class="cuerpo_tabla_coma">8,4</td>
+<td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>8,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">12,2</td>
-<td class="cuerpo_tabla_coma">12,2</td>
+<td>Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>12,2</td>
+<td>12,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">8,4</td>
-<td class="cuerpo_tabla_coma">8,4</td>
+<td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>8,4</td>
+<td>8,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">12,1</td>
-<td class="cuerpo_tabla_coma">12,1</td>
+<td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
+<td>12,1</td>
+<td>12,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">8,6</td>
-<td class="cuerpo_tabla_coma">8,6</td>
+<td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
+<td>8,6</td>
+<td>8,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">12,1</td>
-<td class="cuerpo_tabla_coma">12,1</td>
+<td>Metanol de residuos de madera en instalaciones independientes.</td>
+<td>12,1</td>
+<td>12,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">8,6</td>
-<td class="cuerpo_tabla_coma">8,6</td>
+<td>Metanol de madera cultivada en instalaciones independientes.</td>
+<td>8,6</td>
+<td>8,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">7,7</td>
-<td class="cuerpo_tabla_coma">7,7</td>
+<td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>7,7</td>
+<td>7,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">7,9</td>
-<td class="cuerpo_tabla_coma">7,9</td>
+<td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>7,9</td>
+<td>7,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">7,7</td>
-<td class="cuerpo_tabla_coma">7,7</td>
+<td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>7,7</td>
+<td>7,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">7,9</td>
-<td class="cuerpo_tabla_coma">7,9</td>
+<td>Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>7,9</td>
+<td>7,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del MTBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso de producción de metanol utilizado.</p>
+<td>Parte del MTBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso de producción de metanol utilizado.</p>
 </td>
 </tr>
 </tbody>
@@ -3260,94 +3186,89 @@ Valores por defecto desagregados para transporte y distribución: «*e<sub>td</s
 
 Valores por defecto desagregados exclusivamente para transporte y distribución de combustible final. Si bien ya están incluidos en el cuadro «emisiones del transporte y la distribución, *e<sub>td</sub>*» tal como se definen en la parte C del presente anexo, los valores que figuran a continuación son útiles si un operador económico quiere declarar exclusivamente las emisiones reales del transporte correspondientes al transporte de materias primas
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_coma">1,6</td>
-<td class="cuerpo_tabla_coma">1,6</td>
+<td>Etanol de paja de trigo.</td>
+<td>1,6</td>
+<td>1,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">1,2</td>
-<td class="cuerpo_tabla_coma">1,2</td>
+<td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>1,2</td>
+<td>1,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Metanol de residuos de madera en instalaciones independientes.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Metanol de madera cultivada en instalaciones independientes.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">2,0</td>
-<td class="cuerpo_tabla_coma">2,0</td>
+<td>Metanol procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>2,0</td>
+<td>2,0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del MTBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso de producción de metanol utilizado.</p>
+<td>Parte del MTBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso de producción de metanol utilizado.</p>
 </td>
 </tr>
 </tbody>
@@ -3355,94 +3276,89 @@ Valores por defecto desagregados exclusivamente para transporte y distribución 
 
 Total para cultivo, transformación, transporte y distribución
 
-<table class="tabla">
-<colgroup>
-<col width="44%">
-<col width="23%">
-<col width="23%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Proceso de producción de los biocarburantes y biolíquidos</p>
+<th>
+<p>Proceso de producción de los biocarburantes y biolíquidos</p>
 </th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto</p>
-<p class="cabeza_tabla">(g CO<sub>2</sub>eq/MJ)</p>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub>eq/MJ)</th>
+<th>
+<p>Emisiones de gases de efecto invernadero, valores por defecto</p>
+<p>(g CO<sub>2</sub>eq/MJ)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol de paja de trigo.</td>
-<td class="cuerpo_tabla_coma">13,7</td>
-<td class="cuerpo_tabla_coma">15,7</td>
+<td>Etanol de paja de trigo.</td>
+<td>13,7</td>
+<td>15,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_coma">15,6</td>
+<td>Gasóleo Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>15,6</td>
+<td>15,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">16,7</td>
-<td class="cuerpo_tabla_coma">16,7</td>
+<td>Gasóleo Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>16,7</td>
+<td>16,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_coma">15,6</td>
+<td>Gasolina Fischer-Tropsch procedente de residuos de madera en instalaciones independientes.</td>
+<td>15,6</td>
+<td>15,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">16,7</td>
-<td class="cuerpo_tabla_coma">16,7</td>
+<td>Gasolina Fischer-Tropsch procedente de madera cultivada en instalaciones independientes.</td>
+<td>16,7</td>
+<td>16,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">15,2</td>
-<td class="cuerpo_tabla_coma">15,2</td>
+<td>Dimetil-éter (DME) procedente de residuos de madera en instalaciones independientes.</td>
+<td>15,2</td>
+<td>15,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">16,2</td>
-<td class="cuerpo_tabla_coma">16,2</td>
+<td>Dimetil-éter (DME) procedente de madera cultivada en instalaciones independientes.</td>
+<td>16,2</td>
+<td>16,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de residuos de madera en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">15,2</td>
-<td class="cuerpo_tabla_coma">15,2</td>
+<td>Metanol de residuos de madera en instalaciones independientes.</td>
+<td>15,2</td>
+<td>15,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol de madera cultivada en instalaciones independientes.</td>
-<td class="cuerpo_tabla_coma">16,2</td>
-<td class="cuerpo_tabla_coma">16,2</td>
+<td>Metanol de madera cultivada en instalaciones independientes.</td>
+<td>16,2</td>
+<td>16,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">10,2</td>
-<td class="cuerpo_tabla_coma">10,2</td>
+<td>Gasóleo Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>10,2</td>
+<td>10,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">10,4</td>
-<td class="cuerpo_tabla_coma">10,4</td>
+<td>Gasolina Fischer-Tropsch procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>10,4</td>
+<td>10,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">10,2</td>
-<td class="cuerpo_tabla_coma">10,2</td>
+<td>Dimetil-éter (DME) procedente de la gasificación de lejía negra integrada en fábricas de papel.</td>
+<td>10,2</td>
+<td>10,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de la gasificación de lejía negra inte grada en fábricas de papel.</td>
-<td class="cuerpo_tabla_coma">10,4</td>
-<td class="cuerpo_tabla_coma">10,4</td>
+<td>Metanol procedente de la gasificación de lejía negra inte grada en fábricas de papel.</td>
+<td>10,4</td>
+<td>10,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte del MTBE procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_coma" colspan="2">
-<p class="cuerpo_tabla_izq">Iguales a los del proceso de producción de metanol utilizado.</p>
+<td>Parte del MTBE procedente de fuentes renovables.</td>
+<td colspan="2">
+<p>Iguales a los del proceso de producción de metanol utilizado.</p>
 </td>
 </tr>
 </tbody>
@@ -3454,1277 +3370,1226 @@ Total para cultivo, transformación, transporte y distribución
 
 A. Valores típicos y valores por defecto de la reducción de emisiones de gases de efecto invernadero en caso de combustibles de biomasa producidos sin emisiones netas de carbono debidas a cambios en el uso del suelo
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Astillas de madera</p>
+<p>Astillas de madera</p>
 </caption>
-<colgroup>
-<col width="49%">
-<col width="15%">
-<col width="9%">
-<col width="9%">
-<col width="9%">
-<col width="9%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Sistema de producción de combustibles de biomasa</p>
+<th rowspan="2">
+<p>Sistema de producción de combustibles de biomasa</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Distancia de transporte</th>
-<th class="cabeza_tabla" colspan="2">Reducción de emisiones de gases de efecto invernadero, valores típicos</th>
-<th class="cabeza_tabla" colspan="2">Reducción de emisiones de gases de efecto invernadero, valores por defecto</th>
+<th rowspan="2">Distancia de transporte</th>
+<th colspan="2">Reducción de emisiones de gases de efecto invernadero, valores típicos</th>
+<th colspan="2">Reducción de emisiones de gases de efecto invernadero, valores por defecto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Calor</th>
-<th class="cabeza_tabla">Electricidad</th>
-<th class="cabeza_tabla">Calor</th>
-<th class="cabeza_tabla">Electricidad</th>
+<th>Calor</th>
+<th>Electricidad</th>
+<th>Calor</th>
+<th>Electricidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de desechos forestales.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
+<td rowspan="4">Astillas de madera de desechos forestales.</td>
+<td>1 a 500 km.</td>
+<td>93 %</td>
+<td>89 %</td>
+<td>91 %</td>
+<td>87 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
+<td>500 a 2 500 km.</td>
+<td>89 %</td>
+<td>84 %</td>
+<td>87 %</td>
+<td>81 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">67 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>82 %</td>
+<td>73 %</td>
+<td>78 %</td>
+<td>67 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">51 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
-<td class="cuerpo_tabla_centro">41 %</td>
+<td>Más de 10 000 km.</td>
+<td>67 %</td>
+<td>51 %</td>
+<td>60 %</td>
+<td>41 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Astillas de madera de monte bajo de rotación corta (eucalipto).</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">65 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
+<td>Astillas de madera de monte bajo de rotación corta (eucalipto).</td>
+<td>2 500 a 10 000 km.</td>
+<td>77 %</td>
+<td>65 %</td>
+<td>73 %</td>
+<td>60 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - con fertilización).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
+<td rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - con fertilización).</td>
+<td>1 a 500 km.</td>
+<td>89 %</td>
+<td>83 %</td>
+<td>87 %</td>
+<td>81 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">76 %</td>
+<td>500 a 2 500 km.</td>
+<td>85 %</td>
+<td>78 %</td>
+<td>84 %</td>
+<td>76 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">74 %</td>
-<td class="cuerpo_tabla_centro">62 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>78 %</td>
+<td>67 %</td>
+<td>74 %</td>
+<td>62 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">63 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
-<td class="cuerpo_tabla_centro">57 %</td>
-<td class="cuerpo_tabla_centro">35 %</td>
+<td>Más de 10 000 km.</td>
+<td>63 %</td>
+<td>45 %</td>
+<td>57 %</td>
+<td>35 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - sin fertilización).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
+<td rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - sin fertilización).</td>
+<td>1 a 500 km.</td>
+<td>91 %</td>
+<td>87 %</td>
+<td>90 %</td>
+<td>85 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-<td class="cuerpo_tabla_centro">79 %</td>
+<td>500 a 2 500 km.</td>
+<td>88 %</td>
+<td>82 %</td>
+<td>86 %</td>
+<td>79 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">80 %</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">65 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>80 %</td>
+<td>70 %</td>
+<td>77 %</td>
+<td>65 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">65 %</td>
-<td class="cuerpo_tabla_centro">48 %</td>
-<td class="cuerpo_tabla_centro">59 %</td>
-<td class="cuerpo_tabla_centro">39 %</td>
+<td>Más de 10 000 km.</td>
+<td>65 %</td>
+<td>48 %</td>
+<td>59 %</td>
+<td>39 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de tronco.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
+<td rowspan="4">Astillas de madera de tronco.</td>
+<td>1 a 500 km.</td>
+<td>93 %</td>
+<td>89 %</td>
+<td>92 %</td>
+<td>88 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
+<td>500 a 2 500 km.</td>
+<td>90 %</td>
+<td>85 %</td>
+<td>88 %</td>
+<td>82 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">79 %</td>
-<td class="cuerpo_tabla_centro">68 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>82 %</td>
+<td>73 %</td>
+<td>79 %</td>
+<td>68 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">51 %</td>
-<td class="cuerpo_tabla_centro">61 %</td>
-<td class="cuerpo_tabla_centro">42 %</td>
+<td>Más de 10 000 km.</td>
+<td>67 %</td>
+<td>51 %</td>
+<td>61 %</td>
+<td>42 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de desechos industriales.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">94 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
+<td rowspan="4">Astillas de madera de desechos industriales.</td>
+<td>1 a 500 km.</td>
+<td>94 %</td>
+<td>92 %</td>
+<td>93 %</td>
+<td>90 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
+<td>500 a 2 500 km.</td>
+<td>91 %</td>
+<td>87 %</td>
+<td>90 %</td>
+<td>85 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">80 %</td>
-<td class="cuerpo_tabla_centro">71 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>83 %</td>
+<td>75 %</td>
+<td>80 %</td>
+<td>71 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">54 %</td>
-<td class="cuerpo_tabla_centro">63 %</td>
-<td class="cuerpo_tabla_centro">44 %</td>
+<td>Más de 10 000 km.</td>
+<td>69 %</td>
+<td>54 %</td>
+<td>63 %</td>
+<td>44 %</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Pellets de madera (*)</p>
+<p>Pellets de madera (*)</p>
 </caption>
-<colgroup>
-<col width="37%">
-<col>
-<col width="15%">
-<col width="9%">
-<col width="9%">
-<col width="9%">
-<col width="9%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">
-<p class="cabeza_tabla">Sistema de producción de combustibles de biomasa</p>
+<th colspan="2" rowspan="2">
+<p>Sistema de producción de combustibles de biomasa</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Distancia de transporte</th>
-<th class="cabeza_tabla" colspan="2">Reducción de emisiones de gases de efecto invernadero, valores típicos</th>
-<th class="cabeza_tabla" colspan="2">Reducción de emisiones de gases de efecto invernadero, valores por defecto</th>
+<th rowspan="2">Distancia de transporte</th>
+<th colspan="2">Reducción de emisiones de gases de efecto invernadero, valores típicos</th>
+<th colspan="2">Reducción de emisiones de gases de efecto invernadero, valores por defecto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Calor</th>
-<th class="cabeza_tabla">Electricidad</th>
-<th class="cabeza_tabla">Calor</th>
-<th class="cabeza_tabla">Electricidad</th>
+<th>Calor</th>
+<th>Electricidad</th>
+<th>Calor</th>
+<th>Electricidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">Briquetas o pellets de madera procedentes de desechos forestales.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 1.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">58 %</td>
-<td class="cuerpo_tabla_centro">37 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
-<td class="cuerpo_tabla_centro">24 %</td>
+<td rowspan="12">Briquetas o pellets de madera procedentes de desechos forestales.</td>
+<td rowspan="4">Caso 1.</td>
+<td>1 a 500 km.</td>
+<td>58 %</td>
+<td>37 %</td>
+<td>49 %</td>
+<td>24 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">58 %</td>
-<td class="cuerpo_tabla_centro">37 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
-<td class="cuerpo_tabla_centro">25 %</td>
+<td>500 a 2 500 km.</td>
+<td>58 %</td>
+<td>37 %</td>
+<td>49 %</td>
+<td>25 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">34 %</td>
-<td class="cuerpo_tabla_centro">47 %</td>
-<td class="cuerpo_tabla_centro">21 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>55 %</td>
+<td>34 %</td>
+<td>47 %</td>
+<td>21 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">50 %</td>
-<td class="cuerpo_tabla_centro">26 %</td>
-<td class="cuerpo_tabla_centro">40 %</td>
-<td class="cuerpo_tabla_centro">11 %</td>
+<td>Más de 10 000 km.</td>
+<td>50 %</td>
+<td>26 %</td>
+<td>40 %</td>
+<td>11 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 2a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">72 %</td>
-<td class="cuerpo_tabla_centro">59 %</td>
+<td rowspan="4">Caso 2a.</td>
+<td>1 a 500 km.</td>
+<td>77 %</td>
+<td>66 %</td>
+<td>72 %</td>
+<td>59 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">72 %</td>
-<td class="cuerpo_tabla_centro">59 %</td>
+<td>500 a 2 500 km.</td>
+<td>77 %</td>
+<td>66 %</td>
+<td>72 %</td>
+<td>59 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">62 %</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">55 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>75 %</td>
+<td>62 %</td>
+<td>70 %</td>
+<td>55 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">54 %</td>
-<td class="cuerpo_tabla_centro">63 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>Más de 10 000 km.</td>
+<td>69 %</td>
+<td>54 %</td>
+<td>63 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 3a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
+<td rowspan="4">Caso 3a.</td>
+<td>1 a 500 km.</td>
+<td>92 %</td>
+<td>88 %</td>
+<td>90 %</td>
+<td>85 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
+<td>500 a 2 500 km.</td>
+<td>92 %</td>
+<td>88 %</td>
+<td>90 %</td>
+<td>86 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>90 %</td>
+<td>85 %</td>
+<td>88 %</td>
+<td>81 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">76 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
-<td class="cuerpo_tabla_centro">72 %</td>
+<td>Más de 10 000 km.</td>
+<td>84 %</td>
+<td>76 %</td>
+<td>81 %</td>
+<td>72 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto).</td>
-<td class="cuerpo_tabla_izq">Caso 1.</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">52 %</td>
-<td class="cuerpo_tabla_centro">28 %</td>
-<td class="cuerpo_tabla_centro">43 %</td>
-<td class="cuerpo_tabla_centro">15 %</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto).</td>
+<td>Caso 1.</td>
+<td>2 500 a 10 000 km.</td>
+<td>52 %</td>
+<td>28 %</td>
+<td>43 %</td>
+<td>15 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caso 2a.</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">56 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
+<td>Caso 2a.</td>
+<td>2 500 a 10 000 km.</td>
+<td>70 %</td>
+<td>56 %</td>
+<td>66 %</td>
+<td>49 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caso 3a.</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">75 %</td>
+<td>Caso 3a.</td>
+<td>2 500 a 10 000 km.</td>
+<td>85 %</td>
+<td>78 %</td>
+<td>83 %</td>
+<td>75 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Caso 1.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">54 %</td>
-<td class="cuerpo_tabla_centro">32 %</td>
-<td class="cuerpo_tabla_centro">46 %</td>
-<td class="cuerpo_tabla_centro">20 %</td>
+<td rowspan="9">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización).</td>
+<td rowspan="3">Caso 1.</td>
+<td>1 a 500 km.</td>
+<td>54 %</td>
+<td>32 %</td>
+<td>46 %</td>
+<td>20 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">52 %</td>
-<td class="cuerpo_tabla_centro">29 %</td>
-<td class="cuerpo_tabla_centro">44 %</td>
-<td class="cuerpo_tabla_centro">16 %</td>
+<td>500 a 10 000 km.</td>
+<td>52 %</td>
+<td>29 %</td>
+<td>44 %</td>
+<td>16 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">47 %</td>
-<td class="cuerpo_tabla_centro">21 %</td>
-<td class="cuerpo_tabla_centro">37 %</td>
-<td class="cuerpo_tabla_centro">7 %</td>
+<td>Más de 10 000 km.</td>
+<td>47 %</td>
+<td>21 %</td>
+<td>37 %</td>
+<td>7 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Caso 2a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">54 %</td>
+<td rowspan="3">Caso 2a.</td>
+<td>1 a 500 km.</td>
+<td>73 %</td>
+<td>60 %</td>
+<td>69 %</td>
+<td>54 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">71 %</td>
-<td class="cuerpo_tabla_centro">57 %</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">50 %</td>
+<td>500 a 10 000 km.</td>
+<td>71 %</td>
+<td>57 %</td>
+<td>67 %</td>
+<td>50 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
-<td class="cuerpo_tabla_centro">41 %</td>
+<td>Más de 10 000 km.</td>
+<td>66 %</td>
+<td>49 %</td>
+<td>60 %</td>
+<td>41 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Caso 3a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
+<td rowspan="3">Caso 3a.</td>
+<td>1 a 500 km.</td>
+<td>88 %</td>
+<td>82 %</td>
+<td>87 %</td>
+<td>81 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-<td class="cuerpo_tabla_centro">79 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
+<td>500 a 10 000 km.</td>
+<td>86 %</td>
+<td>79 %</td>
+<td>84 %</td>
+<td>77 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">80 %</td>
-<td class="cuerpo_tabla_centro">71 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="9">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Caso 1.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">56 %</td>
-<td class="cuerpo_tabla_centro">35 %</td>
-<td class="cuerpo_tabla_centro">48 %</td>
-<td class="cuerpo_tabla_centro">23 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">54 %</td>
-<td class="cuerpo_tabla_centro">32 %</td>
-<td class="cuerpo_tabla_centro">46 %</td>
-<td class="cuerpo_tabla_centro">20 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">49 %</td>
-<td class="cuerpo_tabla_centro">24 %</td>
-<td class="cuerpo_tabla_centro">40 %</td>
-<td class="cuerpo_tabla_centro">10 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Caso 2a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">76 %</td>
-<td class="cuerpo_tabla_centro">64 %</td>
-<td class="cuerpo_tabla_centro">72 %</td>
-<td class="cuerpo_tabla_centro">58 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">74 %</td>
-<td class="cuerpo_tabla_centro">61 %</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">54 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">68 %</td>
-<td class="cuerpo_tabla_centro">53 %</td>
-<td class="cuerpo_tabla_centro">63 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Caso 3a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
-<td class="cuerpo_tabla_centro">71 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="12">Madera de tronco.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 1.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">57 %</td>
-<td class="cuerpo_tabla_centro">37 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
-<td class="cuerpo_tabla_centro">24 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">58 %</td>
-<td class="cuerpo_tabla_centro">37 %</td>
-<td class="cuerpo_tabla_centro">49 %</td>
-<td class="cuerpo_tabla_centro">25 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">34 %</td>
-<td class="cuerpo_tabla_centro">47 %</td>
-<td class="cuerpo_tabla_centro">21 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">50 %</td>
-<td class="cuerpo_tabla_centro">26 %</td>
-<td class="cuerpo_tabla_centro">40 %</td>
-<td class="cuerpo_tabla_centro">11 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 2a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">63 %</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">56 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">64 %</td>
-<td class="cuerpo_tabla_centro">46 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 3a.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
+<td>Más de 10 000 km.</td>
+<td>80 %</td>
+<td>71 %</td>
+<td>78 %</td>
+<td>67 %</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">Briquetas o pellets de madera procedentes de desechos de la industria maderera.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 1</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">62 %</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">55 %</td>
+<td rowspan="9">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización).</td>
+<td rowspan="3">Caso 1.</td>
+<td>1 a 500 km.</td>
+<td>56 %</td>
+<td>35 %</td>
+<td>48 %</td>
+<td>23 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">62 %</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">55 %</td>
+<td>500 a 10 000 km.</td>
+<td>54 %</td>
+<td>32 %</td>
+<td>46 %</td>
+<td>20 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">72 %</td>
-<td class="cuerpo_tabla_centro">59 %</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">51 %</td>
+<td>Más de 10 000 km.</td>
+<td>49 %</td>
+<td>24 %</td>
+<td>40 %</td>
+<td>10 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">51 %</td>
-<td class="cuerpo_tabla_centro">61 %</td>
-<td class="cuerpo_tabla_centro">42 %</td>
+<td rowspan="3">Caso 2a.</td>
+<td>1 a 500 km.</td>
+<td>76 %</td>
+<td>64 %</td>
+<td>72 %</td>
+<td>58 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 2a</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">80 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">76 %</td>
+<td>500 a 10 000 km.</td>
+<td>74 %</td>
+<td>61 %</td>
+<td>69 %</td>
+<td>54 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">80 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
+<td>Más de 10 000 km.</td>
+<td>68 %</td>
+<td>53 %</td>
+<td>63 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
+<td rowspan="3">Caso 3a.</td>
+<td>1 a 500 km.</td>
+<td>91 %</td>
+<td>86 %</td>
+<td>90 %</td>
+<td>85 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">79 %</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">75 %</td>
-<td class="cuerpo_tabla_centro">63 %</td>
+<td>500 a 10 000 km.</td>
+<td>89 %</td>
+<td>83 %</td>
+<td>87 %</td>
+<td>81 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Caso 3a</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">95 %</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">94 %</td>
-<td class="cuerpo_tabla_centro">91 %</td>
+<td>Más de 10 000 km.</td>
+<td>83 %</td>
+<td>75 %</td>
+<td>81 %</td>
+<td>71 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">95 %</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">94 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
+<td rowspan="12">Madera de tronco.</td>
+<td rowspan="4">Caso 1.</td>
+<td>1 a 500 km.</td>
+<td>57 %</td>
+<td>37 %</td>
+<td>49 %</td>
+<td>24 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">88 %</td>
+<td>500 a 2 500 km.</td>
+<td>58 %</td>
+<td>37 %</td>
+<td>49 %</td>
+<td>25 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>55 %</td>
+<td>34 %</td>
+<td>47 %</td>
+<td>21 %</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>50 %</td>
+<td>26 %</td>
+<td>40 %</td>
+<td>11 %</td>
+</tr>
+<tr>
+<td rowspan="4">Caso 2a.</td>
+<td>1 a 500 km.</td>
+<td>77 %</td>
+<td>66 %</td>
+<td>73 %</td>
+<td>60 %</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>77 %</td>
+<td>66 %</td>
+<td>73 %</td>
+<td>60 %</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>75 %</td>
+<td>63 %</td>
+<td>70 %</td>
+<td>56 %</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>70 %</td>
+<td>55 %</td>
+<td>64 %</td>
+<td>46 %</td>
+</tr>
+<tr>
+<td rowspan="4">Caso 3a.</td>
+<td>1 a 500 km.</td>
+<td>92 %</td>
+<td>88 %</td>
+<td>91 %</td>
+<td>86 %</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>92 %</td>
+<td>88 %</td>
+<td>91 %</td>
+<td>87 %</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>90 %</td>
+<td>85 %</td>
+<td>88 %</td>
+<td>83 %</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>84 %</td>
+<td>77 %</td>
+<td>82 %</td>
+<td>73 %</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td rowspan="12">Briquetas o pellets de madera procedentes de desechos de la industria maderera.</td>
+<td rowspan="4">Caso 1</td>
+<td>1 a 500 km.</td>
+<td>75 %</td>
+<td>62 %</td>
+<td>69 %</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>75 %</td>
+<td>62 %</td>
+<td>70 %</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>72 %</td>
+<td>59 %</td>
+<td>67 %</td>
+<td>51 %</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>67 %</td>
+<td>51 %</td>
+<td>61 %</td>
+<td>42 %</td>
+</tr>
+<tr>
+<td rowspan="4">Caso 2a</td>
+<td>1 a 500 km.</td>
+<td>87 %</td>
+<td>80 %</td>
+<td>84 %</td>
+<td>76 %</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>87 %</td>
+<td>80 %</td>
+<td>84 %</td>
+<td>77 %</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>85 %</td>
+<td>77 %</td>
+<td>82 %</td>
+<td>73 %</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>79 %</td>
+<td>69 %</td>
+<td>75 %</td>
+<td>63 %</td>
+</tr>
+<tr>
+<td rowspan="4">Caso 3a</td>
+<td>1 a 500 km.</td>
+<td>95 %</td>
+<td>93 %</td>
+<td>94 %</td>
+<td>91 %</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>95 %</td>
+<td>93 %</td>
+<td>94 %</td>
+<td>92 %</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>93 %</td>
+<td>90 %</td>
+<td>92 %</td>
+<td>88 %</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>88 %</td>
+<td>82 %</td>
+<td>85 %</td>
+<td>78 %</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(*) El caso 1 engloba los procesos en los que para obtener el calor necesario para la producción de pellets de madera se utiliza una caldera de gas natural. La electricidad para la instalación de producción procede de la red.</p>
-<p class="cita">El caso 2a engloba los procesos en los que para obtener el calor necesario para la producción se utiliza una caldera de astillas de madera alimentada con astillas desecadas. La electricidad para la instalación de producción procede de la red.</p>
-<p class="cita">El caso 3a engloba los procesos en los que para generar tanto el calor como la electricidad de la instalación de producción de pellets se utiliza una caldera de cogeneración alimentada con astillas desecadas.</p>
+<p>(*) El caso 1 engloba los procesos en los que para obtener el calor necesario para la producción de pellets de madera se utiliza una caldera de gas natural. La electricidad para la instalación de producción procede de la red.</p>
+<p>El caso 2a engloba los procesos en los que para obtener el calor necesario para la producción se utiliza una caldera de astillas de madera alimentada con astillas desecadas. La electricidad para la instalación de producción procede de la red.</p>
+<p>El caso 3a engloba los procesos en los que para generar tanto el calor como la electricidad de la instalación de producción de pellets se utiliza una caldera de cogeneración alimentada con astillas desecadas.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Procesos agrícolas</p>
+<p>Procesos agrícolas</p>
 </caption>
-<colgroup>
-<col width="49%">
-<col width="15%">
-<col width="9%">
-<col width="9%">
-<col width="9%">
-<col width="9%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Sistema de producción de combustibles de biomasa</p>
+<th rowspan="2">
+<p>Sistema de producción de combustibles de biomasa</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Distancia de transporte</th>
-<th class="cabeza_tabla" colspan="2">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
-<th class="cabeza_tabla" colspan="2">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
+<th rowspan="2">Distancia de transporte</th>
+<th colspan="2">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
+<th colspan="2">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Calor</th>
-<th class="cabeza_tabla">Electricidad</th>
-<th class="cabeza_tabla">Calor</th>
-<th class="cabeza_tabla">Electricidad</th>
+<th>Calor</th>
+<th>Electricidad</th>
+<th>Calor</th>
+<th>Electricidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Desechos agrícolas con una densidad &lt; 0,2 t/m <sup>3</sup> (*).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">95 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
+<td rowspan="4">Desechos agrícolas con una densidad &lt; 0,2 t/m <sup>3</sup> (*).</td>
+<td>1 a 500 km.</td>
+<td>95 %</td>
+<td>92 %</td>
+<td>93 %</td>
+<td>90 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-<td class="cuerpo_tabla_centro">80 %</td>
+<td>500 a 2 500 km.</td>
+<td>89 %</td>
+<td>83 %</td>
+<td>86 %</td>
+<td>80 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
-<td class="cuerpo_tabla_centro">60 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>77 %</td>
+<td>66 %</td>
+<td>73 %</td>
+<td>60 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">57 %</td>
-<td class="cuerpo_tabla_centro">36 %</td>
-<td class="cuerpo_tabla_centro">48 %</td>
-<td class="cuerpo_tabla_centro">23 %</td>
+<td>Más de 10 000 km.</td>
+<td>57 %</td>
+<td>36 %</td>
+<td>48 %</td>
+<td>23 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Desechos agrícolas con una densidad &gt; 0,2 t/m <sup>3</sup> (**).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">95 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">90 %</td>
+<td rowspan="4">Desechos agrícolas con una densidad &gt; 0,2 t/m <sup>3</sup> (**).</td>
+<td>1 a 500 km.</td>
+<td>95 %</td>
+<td>92 %</td>
+<td>93 %</td>
+<td>90 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">92 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
+<td>500 a 2 500 km.</td>
+<td>93 %</td>
+<td>89 %</td>
+<td>92 %</td>
+<td>87 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
+<td>2 500 a 10 000 km.</td>
+<td>88 %</td>
+<td>82 %</td>
+<td>85 %</td>
+<td>78 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">68 %</td>
-<td class="cuerpo_tabla_centro">74 %</td>
-<td class="cuerpo_tabla_centro">61 %</td>
+<td>Más de 10 000 km.</td>
+<td>78 %</td>
+<td>68 %</td>
+<td>74 %</td>
+<td>61 %</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Gránulos de paja.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
+<td rowspan="3">Gránulos de paja.</td>
+<td>1 a 500 km.</td>
+<td>88 %</td>
+<td>82 %</td>
+<td>85 %</td>
+<td>78 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-<td class="cuerpo_tabla_centro">79 %</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">74 %</td>
+<td>500 a 10 000 km.</td>
+<td>86 %</td>
+<td>79 %</td>
+<td>83 %</td>
+<td>74 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">80 %</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">76 %</td>
-<td class="cuerpo_tabla_centro">64 %</td>
+<td>Más de 10 000 km.</td>
+<td>80 %</td>
+<td>70 %</td>
+<td>76 %</td>
+<td>64 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Briquetas de bagazo.</td>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">89 %</td>
-<td class="cuerpo_tabla_centro">91 %</td>
-<td class="cuerpo_tabla_centro">87 %</td>
+<td rowspan="2">Briquetas de bagazo.</td>
+<td>500 a 10 000 km.</td>
+<td>93 %</td>
+<td>89 %</td>
+<td>91 %</td>
+<td>87 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">87 %</td>
-<td class="cuerpo_tabla_centro">81 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
-<td class="cuerpo_tabla_centro">77 %</td>
+<td>Más de 10 000 km.</td>
+<td>87 %</td>
+<td>81 %</td>
+<td>85 %</td>
+<td>77 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Harina de palmiste.</td>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">20 %</td>
-<td class="cuerpo_tabla_centro">-18 %</td>
-<td class="cuerpo_tabla_centro">11 %</td>
-<td class="cuerpo_tabla_centro">-33 %</td>
+<td>Harina de palmiste.</td>
+<td>Más de 10 000 km.</td>
+<td>20 %</td>
+<td>-18 %</td>
+<td>11 %</td>
+<td>-33 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Harina de palmiste (sin emisiones de CH<sub>4</sub> procedentes de la almazara).</td>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">46 %</td>
-<td class="cuerpo_tabla_centro">20 %</td>
-<td class="cuerpo_tabla_centro">42 %</td>
-<td class="cuerpo_tabla_centro">14 %</td>
+<td>Harina de palmiste (sin emisiones de CH<sub>4</sub> procedentes de la almazara).</td>
+<td>Más de 10 000 km.</td>
+<td>46 %</td>
+<td>20 %</td>
+<td>42 %</td>
+<td>14 %</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">(*) Este grupo de materiales engloba los desechos agrícolas de baja densidad aparente y engloba materiales como las balas de paja, cáscaras de avena, cascarillas de arroz y balas de bagazo de caña de azúcar (la lista no es exhaustiva).</p>
-<p class="cita">(**) En el grupo de desechos agrícolas de mayor densidad aparente están materiales tales como los restos de mazorcas de maíz, cáscaras de frutos secos, cáscaras de soja, cáscaras de palmiste (la lista no es exhaustiva).</p>
+<p>(*) Este grupo de materiales engloba los desechos agrícolas de baja densidad aparente y engloba materiales como las balas de paja, cáscaras de avena, cascarillas de arroz y balas de bagazo de caña de azúcar (la lista no es exhaustiva).</p>
+<p>(**) En el grupo de desechos agrícolas de mayor densidad aparente están materiales tales como los restos de mazorcas de maíz, cáscaras de frutos secos, cáscaras de soja, cáscaras de palmiste (la lista no es exhaustiva).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Biogás para electricidad (*)</p>
+<p>Biogás para electricidad (*)</p>
 </caption>
-<colgroup>
-<col width="35%">
-<col width="10%">
-<col width="25%">
-<col width="15%">
-<col width="15%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sistema de producción de biogás</th>
-<th class="cabeza_tabla">Opción tecnológica</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
+<th colspan="2">Sistema de producción de biogás</th>
+<th>Opción tecnológica</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Estiércol húmedo <sup>(1).</sup></td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto <sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">146 %</td>
-<td class="cuerpo_tabla_centro">94 %</td>
+<td rowspan="6">Estiércol húmedo <sup>(1).</sup></td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto <sup>(2).</sup></td>
+<td>146 %</td>
+<td>94 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado <sup>(3).</sup></td>
-<td class="cuerpo_tabla_centro">246 %</td>
-<td class="cuerpo_tabla_centro">240 %</td>
+<td>Digestato en cerrado <sup>(3).</sup></td>
+<td>246 %</td>
+<td>240 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">136 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>136 %</td>
+<td>85 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">227 %</td>
-<td class="cuerpo_tabla_centro">219 %</td>
+<td>Digestato en cerrado.</td>
+<td>227 %</td>
+<td>219 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">142 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>142 %</td>
+<td>86 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">243 %</td>
-<td class="cuerpo_tabla_centro">235 %</td>
+<td>Digestato en cerrado.</td>
+<td>243 %</td>
+<td>235 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Maíz, toda la planta <sup>(4).</sup></td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">36 %</td>
-<td class="cuerpo_tabla_centro">21 %</td>
+<td rowspan="6">Maíz, toda la planta <sup>(4).</sup></td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>36 %</td>
+<td>21 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">59 %</td>
-<td class="cuerpo_tabla_centro">53 %</td>
+<td>Digestato en cerrado.</td>
+<td>59 %</td>
+<td>53 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">34 %</td>
-<td class="cuerpo_tabla_centro">18 %</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>34 %</td>
+<td>18 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">55 %</td>
-<td class="cuerpo_tabla_centro">47 %</td>
+<td>Digestato en cerrado.</td>
+<td>55 %</td>
+<td>47 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">28 %</td>
-<td class="cuerpo_tabla_centro">10 %</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>28 %</td>
+<td>10 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">52 %</td>
-<td class="cuerpo_tabla_centro">43 %</td>
+<td>Digestato en cerrado.</td>
+<td>52 %</td>
+<td>43 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Biorresiduos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">47 %</td>
-<td class="cuerpo_tabla_centro">26 %</td>
+<td rowspan="6">Biorresiduos.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>47 %</td>
+<td>26 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">84 %</td>
-<td class="cuerpo_tabla_centro">78 %</td>
+<td>Digestato en cerrado.</td>
+<td>84 %</td>
+<td>78 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">43 %</td>
-<td class="cuerpo_tabla_centro">21 %</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>43 %</td>
+<td>21 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">77 %</td>
-<td class="cuerpo_tabla_centro">68 %</td>
+<td>Digestato en cerrado.</td>
+<td>77 %</td>
+<td>68 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">38 %</td>
-<td class="cuerpo_tabla_centro">14 %</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>38 %</td>
+<td>14 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">76 %</td>
-<td class="cuerpo_tabla_centro">66 %</td>
+<td>Digestato en cerrado.</td>
+<td>76 %</td>
+<td>66 %</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(1)</sup> En los valores relativos a la producción de biogás a partir de estiércol se incluye la emisión negativa derivada de la reducción de emisiones lograda gracias a la gestión del estiércol bruto. El valor de esca considerado es igual a – 45 g CO<sub>2</sub> eq/MJ para estiércol utilizado en digestión anaeróbica.</p>
-<p class="cita"><sup>(2)</sup> El almacenamiento de digestato en abierto conlleva emisiones adicionales de CH<sub>4</sub> y N<sub>2</sub>O. La magnitud de esas emisiones varía en función de las condiciones ambientales, los tipos de sustrato y la eficiencia de la digestión.</p>
-<p class="cita"><sup>(3)</sup> El almacenamiento en cerrado significa que el digestato resultante del proceso de digestión se almacena en un tanque hermético y se da por supuesto que el biogás adicional liberado durante el almacenamiento se recupera para la producción adicional de electricidad o biometano. En ese proceso no se incluyen emisiones de gases de efecto invernadero.</p>
-<p class="cita"><sup>(4)</sup> Por “maíz, toda la planta” hay que entender el maíz cosechado para forraje y ensilado para su conservación.</p>
-<p class="cita">(*) El caso 1 alude a procesos en los que la electricidad y el calor necesarios para el proceso se obtienen del propio motor de cogeneración.</p>
-<p class="cita">El caso 2 alude a procesos en los que la electricidad necesaria para el proceso se obtiene de la red, y el calor del propio motor de cogeneración. En algunos Estados miembros los operadores no pueden optar a subvenciones para la producción bruta, por lo que el caso 1 será el más habitual.</p>
-<p class="cita">El caso 3 alude a procesos en los que la electricidad necesaria para el proceso se obtiene de la red, y el calor de una caldera de biogás. Este caso es el de algunas instalaciones en las que el motor de cogeneración no se encuentra <em>in situ</em> y el biogás se vende (sin enriquecerlo para convertirlo en biometano).</p>
+<p><sup>(1)</sup> En los valores relativos a la producción de biogás a partir de estiércol se incluye la emisión negativa derivada de la reducción de emisiones lograda gracias a la gestión del estiércol bruto. El valor de esca considerado es igual a – 45 g CO<sub>2</sub> eq/MJ para estiércol utilizado en digestión anaeróbica.</p>
+<p><sup>(2)</sup> El almacenamiento de digestato en abierto conlleva emisiones adicionales de CH<sub>4</sub> y N<sub>2</sub>O. La magnitud de esas emisiones varía en función de las condiciones ambientales, los tipos de sustrato y la eficiencia de la digestión.</p>
+<p><sup>(3)</sup> El almacenamiento en cerrado significa que el digestato resultante del proceso de digestión se almacena en un tanque hermético y se da por supuesto que el biogás adicional liberado durante el almacenamiento se recupera para la producción adicional de electricidad o biometano. En ese proceso no se incluyen emisiones de gases de efecto invernadero.</p>
+<p><sup>(4)</sup> Por “maíz, toda la planta” hay que entender el maíz cosechado para forraje y ensilado para su conservación.</p>
+<p>(*) El caso 1 alude a procesos en los que la electricidad y el calor necesarios para el proceso se obtienen del propio motor de cogeneración.</p>
+<p>El caso 2 alude a procesos en los que la electricidad necesaria para el proceso se obtiene de la red, y el calor del propio motor de cogeneración. En algunos Estados miembros los operadores no pueden optar a subvenciones para la producción bruta, por lo que el caso 1 será el más habitual.</p>
+<p>El caso 3 alude a procesos en los que la electricidad necesaria para el proceso se obtiene de la red, y el calor de una caldera de biogás. Este caso es el de algunas instalaciones en las que el motor de cogeneración no se encuentra <em>in situ</em> y el biogás se vende (sin enriquecerlo para convertirlo en biometano).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Biogás para electricidad – Mezcla de estiércol y maíz</p>
+<p>Biogás para electricidad – Mezcla de estiércol y maíz</p>
 </caption>
-<colgroup>
-<col width="35%">
-<col width="10%">
-<col width="25%">
-<col width="15%">
-<col width="15%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sistema de producción de biogás</th>
-<th class="cabeza_tabla">Opción tecnológica</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
+<th colspan="2">Sistema de producción de biogás</th>
+<th>Opción tecnológica</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">80 % - 20 %.</p>
+<td rowspan="6">
+<p>Estiércol – Maíz.</p>
+<p>80 % - 20 %.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">72 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>72 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">120 %</td>
-<td class="cuerpo_tabla_centro">114 %</td>
+<td>Digestato en cerrado.</td>
+<td>120 %</td>
+<td>114 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">67 %</td>
-<td class="cuerpo_tabla_centro">40 %</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>67 %</td>
+<td>40 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">111 %</td>
-<td class="cuerpo_tabla_centro">103 %</td>
+<td>Digestato en cerrado.</td>
+<td>111 %</td>
+<td>103 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">65 %</td>
-<td class="cuerpo_tabla_centro">35 %</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>65 %</td>
+<td>35 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">114 %</td>
-<td class="cuerpo_tabla_centro">106 %</td>
+<td>Digestato en cerrado.</td>
+<td>114 %</td>
+<td>106 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">70 % - 30 %.</p>
+<td rowspan="6">
+<p>Estiércol – Maíz.</p>
+<p>70 % - 30 %.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">60 %</td>
-<td class="cuerpo_tabla_centro">37 %</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>60 %</td>
+<td>37 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">100 %</td>
-<td class="cuerpo_tabla_centro">94 %</td>
+<td>Digestato en cerrado.</td>
+<td>100 %</td>
+<td>94 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">57 %</td>
-<td class="cuerpo_tabla_centro">32 %</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>57 %</td>
+<td>32 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">93 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
+<td>Digestato en cerrado.</td>
+<td>93 %</td>
+<td>85 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">53 %</td>
-<td class="cuerpo_tabla_centro">27 %</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>53 %</td>
+<td>27 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">94 %</td>
-<td class="cuerpo_tabla_centro">85 %</td>
+<td>Digestato en cerrado.</td>
+<td>94 %</td>
+<td>85 %</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">60 % - 40 %.</p>
+<td rowspan="6">
+<p>Estiércol – Maíz.</p>
+<p>60 % - 40 %.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">53 %</td>
-<td class="cuerpo_tabla_centro">32 %</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>53 %</td>
+<td>32 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">88 %</td>
-<td class="cuerpo_tabla_centro">82 %</td>
+<td>Digestato en cerrado.</td>
+<td>88 %</td>
+<td>82 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">50 %</td>
-<td class="cuerpo_tabla_centro">28 %</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>50 %</td>
+<td>28 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">82 %</td>
-<td class="cuerpo_tabla_centro">73 %</td>
+<td>Digestato en cerrado.</td>
+<td>82 %</td>
+<td>73 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">46 %</td>
-<td class="cuerpo_tabla_centro">22 %</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>46 %</td>
+<td>22 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">81 %</td>
-<td class="cuerpo_tabla_centro">72 %</td>
+<td>Digestato en cerrado.</td>
+<td>81 %</td>
+<td>72 %</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Biometano para el transporte (*)</p>
+<p>Biometano para el transporte (*)</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="15%">
-<col width="15%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Sistema de producción de biometano</th>
-<th class="cabeza_tabla">Opciones tecnológicas</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
+<th>Sistema de producción de biometano</th>
+<th>Opciones tecnológicas</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Estiércol húmedo.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">117 %</td>
-<td class="cuerpo_tabla_centro">72 %</td>
+<td rowspan="4">Estiércol húmedo.</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>117 %</td>
+<td>72 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">133 %</td>
-<td class="cuerpo_tabla_centro">94 %</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>133 %</td>
+<td>94 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">190 %</td>
-<td class="cuerpo_tabla_centro">179 %</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>190 %</td>
+<td>179 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">206 %</td>
-<td class="cuerpo_tabla_centro">202 %</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>206 %</td>
+<td>202 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Maíz, toda la planta.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">35 %</td>
-<td class="cuerpo_tabla_centro">17 %</td>
+<td rowspan="4">Maíz, toda la planta.</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>35 %</td>
+<td>17 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">51 %</td>
-<td class="cuerpo_tabla_centro">39 %</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>51 %</td>
+<td>39 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">52 %</td>
-<td class="cuerpo_tabla_centro">41 %</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>52 %</td>
+<td>41 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">68 %</td>
-<td class="cuerpo_tabla_centro">63 %</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>68 %</td>
+<td>63 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Biorresiduos.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">43 %</td>
-<td class="cuerpo_tabla_centro">20 %</td>
+<td rowspan="4">Biorresiduos.</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>43 %</td>
+<td>20 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">59 %</td>
-<td class="cuerpo_tabla_centro">42 %</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>59 %</td>
+<td>42 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">70 %</td>
-<td class="cuerpo_tabla_centro">58 %</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>70 %</td>
+<td>58 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">86 %</td>
-<td class="cuerpo_tabla_centro">80 %</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>86 %</td>
+<td>80 %</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">(*) La reducción de emisiones de gases de efecto invernadero correspondiente al biometano alude únicamente al biometano comprimido en relación con el combustible fósil de referencia para el transporte de 94 g CO<sub>2</sub> eq/MJ.</p>
+<p>(*) La reducción de emisiones de gases de efecto invernadero correspondiente al biometano alude únicamente al biometano comprimido en relación con el combustible fósil de referencia para el transporte de 94 g CO<sub>2</sub> eq/MJ.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Biometano – Mezcla de estiércol y maíz (*)</p>
+<p>Biometano – Mezcla de estiércol y maíz (*)</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="15%">
-<col width="15%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Sistema de producción de biometano</th>
-<th class="cabeza_tabla">Opciones tecnológicas</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
-<th class="cabeza_tabla">Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
+<th>Sistema de producción de biometano</th>
+<th>Opciones tecnológicas</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores típicos</th>
+<th>Reducción de emisiones de<br> gases de efecto invernadero,<br> valores por defecto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">80 % - 20 %.</p>
+<td rowspan="4">
+<p>Estiércol – Maíz.</p>
+<p>80 % - 20 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos <sup>(1).</sup></td>
-<td class="cuerpo_tabla_centro">62 %</td>
-<td class="cuerpo_tabla_centro">35 %</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos <sup>(1).</sup></td>
+<td>62 %</td>
+<td>35 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos <sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">78 %</td>
-<td class="cuerpo_tabla_centro">57 %</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos <sup>(2).</sup></td>
+<td>78 %</td>
+<td>57 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">97 %</td>
-<td class="cuerpo_tabla_centro">86 %</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>97 %</td>
+<td>86 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">113 %</td>
-<td class="cuerpo_tabla_centro">108 %</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>113 %</td>
+<td>108 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">70 % - 30 %.</p>
+<td rowspan="4">
+<p>Estiércol – Maíz.</p>
+<p>70 % - 30 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">53 %</td>
-<td class="cuerpo_tabla_centro">29 %</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>53 %</td>
+<td>29 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">69 %</td>
-<td class="cuerpo_tabla_centro">51 %</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>69 %</td>
+<td>51 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">83 %</td>
-<td class="cuerpo_tabla_centro">71 %</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>83 %</td>
+<td>71 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">99 %</td>
-<td class="cuerpo_tabla_centro">94 %</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>99 %</td>
+<td>94 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">60 % - 40 %.</p>
+<td rowspan="4">
+<p>Estiércol – Maíz.</p>
+<p>60 % - 40 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">48 %</td>
-<td class="cuerpo_tabla_centro">25 %</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>48 %</td>
+<td>25 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">64 %</td>
-<td class="cuerpo_tabla_centro">48 %</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>64 %</td>
+<td>48 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">74 %</td>
-<td class="cuerpo_tabla_centro">62 %</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>74 %</td>
+<td>62 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">90 %</td>
-<td class="cuerpo_tabla_centro">84 %</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>90 %</td>
+<td>84 %</td>
 </tr>
 </tbody>
 <tfoot>
-<tr class="no_repetir">
+<tr>
 <td colspan="4">
-<p class="cita"><sup>(*) </sup>La reducción de emisiones de gases de efecto invernadero correspondiente al biometano alude únicamente al biometano comprimido en relación con el combustible fósil de referencia para el transporte de 94 g CO<sub>2</sub>eq/MJ.</p>
-<p class="cita"><sup>(1)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: adsorción por cambio de presión (PSA), depuración por agua a presión (PWS), membranas, técnicas criogénicas y depuración física orgánica (OPS). Incluye una emisión de 0,03 MJ CH<sub>4</sub>/MJ biometano para la emisión de metano en los gases desprendidos.</p>
-<p class="cita"><sup>(2)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: depuración por agua a presión (PWS) cuando el agua es reciclada, adsorción por cambio de presión (PSA), depuración química, depuración física orgánica (OPS), membranas y enriquecimiento criogénico. En esta categoría no se consideran las emisiones de metano (el metano de los gases desprendidos, caso de haberlo, es objeto de combustión).</p>
+<p><sup>(*) </sup>La reducción de emisiones de gases de efecto invernadero correspondiente al biometano alude únicamente al biometano comprimido en relación con el combustible fósil de referencia para el transporte de 94 g CO<sub>2</sub>eq/MJ.</p>
+<p><sup>(1)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: adsorción por cambio de presión (PSA), depuración por agua a presión (PWS), membranas, técnicas criogénicas y depuración física orgánica (OPS). Incluye una emisión de 0,03 MJ CH<sub>4</sub>/MJ biometano para la emisión de metano en los gases desprendidos.</p>
+<p><sup>(2)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: depuración por agua a presión (PWS) cuando el agua es reciclada, adsorción por cambio de presión (PSA), depuración química, depuración física orgánica (OPS), membranas y enriquecimiento criogénico. En esta categoría no se consideran las emisiones de metano (el metano de los gases desprendidos, caso de haberlo, es objeto de combustión).</p>
 </td>
 </tr>
 </tfoot>
@@ -5062,2144 +4927,2070 @@ Para los combustibles de biomasa utilizados como combustible de transporte, a ef
 
 C. Valores por defecto desagregados para los combustibles de biomasa
 
-<table class="tabla_girada">
+<table>
 <caption>
-<p class="centro_redonda">Briquetas o pellets de madera</p>
+<p>Briquetas o pellets de madera</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de combustibles de biomasa</th>
-<th class="cabeza_tabla" rowspan="2">Distancia de transporte</th>
-<th class="cabeza_tabla" colspan="4">Emisiones de gases de efecto invernadero, valores típicos(g CO2 eq/MJ)</th>
-<th class="cabeza_tabla" colspan="4">Emisiones gases de efecto invernadero,valores por defecto (g CO2 eq/MJ)</th>
+<th rowspan="2">Sistema de producción de combustibles de biomasa</th>
+<th rowspan="2">Distancia de transporte</th>
+<th colspan="4">Emisiones de gases de efecto invernadero, valores típicos(g CO2 eq/MJ)</th>
+<th colspan="4">Emisiones gases de efecto invernadero,valores por defecto (g CO2 eq/MJ)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Transporte</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Transporte</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de desechos forestales</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,6</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td rowspan="4">Astillas de madera de desechos forestales</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>1,6</td>
+<td>3,0</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>1,9</td>
+<td>3,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,6</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">6,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>1,6</td>
+<td>5,2</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>1,9</td>
+<td>6,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,6</td>
-<td class="cuerpo_tabla_centro">10,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">12,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>1,6</td>
+<td>10,5</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>1,9</td>
+<td>12,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,6</td>
-<td class="cuerpo_tabla_centro">20,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,9</td>
-<td class="cuerpo_tabla_centro">24,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>1,6</td>
+<td>20,5</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>1,9</td>
+<td>24,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Astillas de madera procedentes de monte bajo de rotación corta (eucalipto)</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Astillas de madera procedentes de monte bajo de rotación corta (eucalipto)</td>
+<td>2 500 a 10 000 km.</td>
+<td>4,4</td>
+<td>0,0</td>
+<td>11,0</td>
+<td>0,4</td>
+<td>4,4</td>
+<td>0,0</td>
+<td>13,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td rowspan="4">Astillas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización)</td>
+<td>1 a 500 km.</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>3,5</td>
+<td>0,4</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>4,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,8</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>500 a 2 500 km.</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>5,6</td>
+<td>0,4</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>6,8</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>2 500 a 10 000 km.</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>11,0</td>
+<td>0,4</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>13,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">21,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">25,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Más de 10 000 km.</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>21,0</td>
+<td>0,4</td>
+<td>3,9</td>
+<td>0,0</td>
+<td>25,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td rowspan="4">Astillas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización)</td>
+<td>1 a 500 km.</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>3,5</td>
+<td>0,4</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>4,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,8</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>500 a 2 500 km.</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>5,6</td>
+<td>0,4</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>6,8</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>2 500 a 10 000 km.</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>11,0</td>
+<td>0,4</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>13,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">21,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">2,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">25,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Más de 10 000 km.</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>21,0</td>
+<td>0,4</td>
+<td>2,2</td>
+<td>0,0</td>
+<td>25,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de tronco</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td rowspan="4">Astillas de madera de tronco</td>
+<td>1 a 500 km.</td>
+<td>1,1</td>
+<td>0,3</td>
+<td>3,0</td>
+<td>0,4</td>
+<td>1,1</td>
+<td>0,4</td>
+<td>3,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">6,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>500 a 2 500 km.</td>
+<td>1,1</td>
+<td>0,3</td>
+<td>5,2</td>
+<td>0,4</td>
+<td>1,1</td>
+<td>0,4</td>
+<td>6,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">10,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">12,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>2 500 a 10 000 km.</td>
+<td>1,1</td>
+<td>0,3</td>
+<td>10,5</td>
+<td>0,4</td>
+<td>1,1</td>
+<td>0,4</td>
+<td>12,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">20,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">24,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Más de 10 000 km.</td>
+<td>1,1</td>
+<td>0,3</td>
+<td>20,5</td>
+<td>0,4</td>
+<td>1,1</td>
+<td>0,4</td>
+<td>24,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera procedentes de desechos de la industria maderera</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td rowspan="4">Astillas de madera procedentes de desechos de la industria maderera</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>3,0</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>0,4</td>
+<td>3,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">6,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>5,2</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>0,4</td>
+<td>6,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">10,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">12,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>10,5</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>0,4</td>
+<td>12,6</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">20,5</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">24,6</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>20,5</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>0,4</td>
+<td>24,6</td>
+<td>0,5</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_girada">
+<table>
 <caption>
-<p class="centro_redonda">Briquetas o pellets de madera</p>
+<p>Briquetas o pellets de madera</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="8%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de combustibles de biomasa</th>
-<th class="cabeza_tabla" rowspan="2">Distancia de transporte</th>
-<th class="cabeza_tabla" colspan="4">Emisiones de gases de efecto invernadero, valores típicos<br> (g CO2 eq/MJ)</th>
-<th class="cabeza_tabla" colspan="4">Emisiones de gases de efecto invernadero,<br> valores por defecto (g CO2 eq/MJ)</th>
+<th rowspan="2">Sistema de producción de combustibles de biomasa</th>
+<th rowspan="2">Distancia de transporte</th>
+<th colspan="4">Emisiones de gases de efecto invernadero, valores típicos<br> (g CO2 eq/MJ)</th>
+<th colspan="4">Emisiones de gases de efecto invernadero,<br> valores por defecto (g CO2 eq/MJ)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Transporte y<br> distribución</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Transporte y<br> distribución</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2 </sub>procedentes del combustible cuando se utiliza</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Transporte y<br> distribución</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Transporte y<br> distribución</th>
+<th>Emisiones diferentes de CO<sub>2 </sub>procedentes del combustible cuando se utiliza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera pro cedentes de desechos forestales (caso 1)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">25,8</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,9</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera pro cedentes de desechos forestales (caso 1)</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>25,8</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>30,9</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">25,8</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,9</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>25,8</td>
+<td>2,8</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>30,9</td>
+<td>3,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">25,8</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,9</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>25,8</td>
+<td>4,3</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>30,9</td>
+<td>5,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">25,8</td>
-<td class="cuerpo_tabla_centro">7,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,9</td>
-<td class="cuerpo_tabla_centro">9,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>25,8</td>
+<td>7,9</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>30,9</td>
+<td>9,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera pro cedentes de desechos forestales (caso 2a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">15,0</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera pro cedentes de desechos forestales (caso 2a)</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>12,5</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>15,0</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">15,0</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>12,5</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>15,0</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">15,0</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>12,5</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>15,0</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">8,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">15,0</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>12,5</td>
+<td>8,1</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>15,0</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera pro cedentes de desechos forestales (caso 3a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,4</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera pro cedentes de desechos forestales (caso 3a)</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>2,4</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>2,8</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,4</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>2,4</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>2,8</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,4</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>2,4</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>2,8</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,4</td>
-<td class="cuerpo_tabla_centro">8,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>2,4</td>
+<td>8,2</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>2,8</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Briquetas de madera procedentes de monte bajo de rotación corta (eucalipto – caso 1)</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,9</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Briquetas de madera procedentes de monte bajo de rotación corta (eucalipto – caso 1)</td>
+<td>2 500 a 10 000 km.</td>
+<td>3,9</td>
+<td>24,5</td>
+<td>4,3</td>
+<td>0,3</td>
+<td>3,9</td>
+<td>29,4</td>
+<td>5,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Briquetas de madera procedentes de monte bajo de rotación corta (eucalipto – caso 2a)</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Briquetas de madera procedentes de monte bajo de rotación corta (eucalipto – caso 2a)</td>
+<td>2 500 a 10 000 km.</td>
+<td>5,0</td>
+<td>10,6</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>5,0</td>
+<td>12,7</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Briquetas de madera procedentes de monte bajo de rotación corta (eucalipto – caso 3a)</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Briquetas de madera procedentes de monte bajo de rotación corta (eucalipto – caso 3a)</td>
+<td>2 500 a 10 000 km.</td>
+<td>5,3</td>
+<td>0,3</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>5,3</td>
+<td>0,4</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización – caso 1)-</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización – caso 1)-</td>
+<td>1 a 500 km.</td>
+<td>3,4</td>
+<td>24,5</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>3,4</td>
+<td>29,4</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 10 000 km.</td>
+<td>3,4</td>
+<td>24,5</td>
+<td>4,3</td>
+<td>0,3</td>
+<td>3,4</td>
+<td>29,4</td>
+<td>5,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">7,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">9,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>3,4</td>
+<td>24,5</td>
+<td>7,9</td>
+<td>0,3</td>
+<td>3,4</td>
+<td>29,4</td>
+<td>9,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización – caso 2a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización – caso 2a)</td>
+<td>1 a 500 km.</td>
+<td>4,4</td>
+<td>10,6</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>4,4</td>
+<td>12,7</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 10 000 km.</td>
+<td>4,4</td>
+<td>10,6</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>4,4</td>
+<td>12,7</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">8,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>4,4</td>
+<td>10,6</td>
+<td>8,1</td>
+<td>0,3</td>
+<td>4,4</td>
+<td>12,7</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización – caso 3a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - con fertilización – caso 3a)</td>
+<td>1 a 500 km.</td>
+<td>4,6</td>
+<td>0,3</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>4,6</td>
+<td>0,4</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 10 000 km.</td>
+<td>4,6</td>
+<td>0,3</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>4,6</td>
+<td>0,4</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">8,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>4,6</td>
+<td>0,3</td>
+<td>8,2</td>
+<td>0,3</td>
+<td>4,6</td>
+<td>0,4</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización – caso 1)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización – caso 1)</td>
+<td>1 a 500 km.</td>
+<td>2,0</td>
+<td>24,5</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>2,0</td>
+<td>29,4</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>2,0</td>
+<td>24,5</td>
+<td>4,3</td>
+<td>0,3</td>
+<td>2,0</td>
+<td>29,4</td>
+<td>5,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">24,5</td>
-<td class="cuerpo_tabla_centro">7,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,0</td>
-<td class="cuerpo_tabla_centro">29,4</td>
-<td class="cuerpo_tabla_centro">9,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>2,0</td>
+<td>24,5</td>
+<td>7,9</td>
+<td>0,3</td>
+<td>2,0</td>
+<td>29,4</td>
+<td>9,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización – caso 2a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización – caso 2a)</td>
+<td>1 a 500 km.</td>
+<td>2,5</td>
+<td>10,6</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>2,5</td>
+<td>12,7</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 10 000 km.</td>
+<td>2,5</td>
+<td>10,6</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>2,5</td>
+<td>12,7</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">10,6</td>
-<td class="cuerpo_tabla_centro">8,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro">12,7</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>2,5</td>
+<td>10,6</td>
+<td>8,1</td>
+<td>0,3</td>
+<td>2,5</td>
+<td>12,7</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización – caso 3a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Briquetas de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización – caso 3a)</td>
+<td>1 a 500 km.</td>
+<td>2,6</td>
+<td>0,3</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>2,6</td>
+<td>0,4</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 10 000 km.</td>
+<td>2,6</td>
+<td>0,3</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>2,6</td>
+<td>0,4</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">8,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>2,6</td>
+<td>0,3</td>
+<td>8,2</td>
+<td>0,3</td>
+<td>2,6</td>
+<td>0,4</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera de tronco (caso 1)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">24,8</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">29,8</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera de tronco (caso 1)</td>
+<td>1 a 500 km.</td>
+<td>1,1</td>
+<td>24,8</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>1,1</td>
+<td>29,8</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">24,8</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">29,8</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>1,1</td>
+<td>24,8</td>
+<td>2,8</td>
+<td>0,3</td>
+<td>1,1</td>
+<td>29,8</td>
+<td>3,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">24,8</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">29,8</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>1,1</td>
+<td>24,8</td>
+<td>4,3</td>
+<td>0,3</td>
+<td>1,1</td>
+<td>29,8</td>
+<td>5,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">24,8</td>
-<td class="cuerpo_tabla_centro">7,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">29,8</td>
-<td class="cuerpo_tabla_centro">9,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>1,1</td>
+<td>24,8</td>
+<td>7,9</td>
+<td>0,3</td>
+<td>1,1</td>
+<td>29,8</td>
+<td>9,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera de tronco (caso 2a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera de tronco (caso 2a)</td>
+<td>1 a 500 km.</td>
+<td>1,4</td>
+<td>11,0</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>13,2</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>1,4</td>
+<td>11,0</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>13,2</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>1,4</td>
+<td>11,0</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>13,2</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">11,0</td>
-<td class="cuerpo_tabla_centro">8,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">13,2</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>1,4</td>
+<td>11,0</td>
+<td>8,1</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>13,2</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera de tronco (caso 3a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera de tronco (caso 3a)</td>
+<td>1 a 500 km.</td>
+<td>1,4</td>
+<td>0,8</td>
+<td>3,0</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>0,9</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">2,9</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>1,4</td>
+<td>0,8</td>
+<td>2,9</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>0,9</td>
+<td>3,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">5,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>1,4</td>
+<td>0,8</td>
+<td>4,4</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>0,9</td>
+<td>5,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">8,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">1,4</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">9,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>1,4</td>
+<td>0,8</td>
+<td>8,2</td>
+<td>0,3</td>
+<td>1,4</td>
+<td>0,9</td>
+<td>9,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 1)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">14,3</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 1)</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>14,3</td>
+<td>2,8</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>17,2</td>
+<td>3,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">14,3</td>
-<td class="cuerpo_tabla_centro">2,7</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">3,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>14,3</td>
+<td>2,7</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>17,2</td>
+<td>3,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">14,3</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>14,3</td>
+<td>4,2</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>17,2</td>
+<td>5,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">14,3</td>
-<td class="cuerpo_tabla_centro">7,7</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">17,2</td>
-<td class="cuerpo_tabla_centro">9,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>14,3</td>
+<td>7,7</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>17,2</td>
+<td>9,2</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 2a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 2a)</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>2,8</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>7,2</td>
+<td>3,4</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">2,7</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>2,7</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>7,2</td>
+<td>3,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">5,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>4,2</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>7,2</td>
+<td>5,1</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">7,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">9,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>7,8</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>7,2</td>
+<td>9,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 3a)</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">2,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 3a)</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>0,2</td>
+<td>2,8</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>3,4</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">2,7</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>0,2</td>
+<td>2,7</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>3,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">5,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>0,2</td>
+<td>4,2</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>5,1</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">7,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">9,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>0,2</td>
+<td>7,8</td>
+<td>0,3</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>9,3</td>
+<td>0,3</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_girada">
+<table>
 <caption>
-<p class="centro_redonda">Procesos agrícolas</p>
+<p>Procesos agrícolas</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de combustibles de biomasa</th>
-<th class="cabeza_tabla" rowspan="2">Distancia de transporte</th>
-<th class="cabeza_tabla" colspan="4">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla" colspan="4">Emisiones de gases de efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
+<th rowspan="2">Sistema de producción de combustibles de biomasa</th>
+<th rowspan="2">Distancia de transporte</th>
+<th colspan="4">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
+<th colspan="4">Emisiones de gases de efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Transporte y<br> distribución</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Transporte y<br> distribución</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Transporte y<br> distribución</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Transporte y<br> distribución</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Desechos agrícolas con una densidad &lt; 0,2 t/m<sup>3</sup></td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">3,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Desechos agrícolas con una densidad &lt; 0,2 t/m<sup>3</sup></td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>2,6</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>3,1</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">6,5</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">7,8</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>6,5</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>7,8</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">14,2</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">17,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>14,2</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>17,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">28,3</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">34,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>28,3</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>34,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Desechos agrícolas con una densidad &gt; 0,2 t/m<sup>3</sup></td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">2,6</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">3,1</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="4">Desechos agrícolas con una densidad &gt; 0,2 t/m<sup>3</sup></td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>2,6</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>3,1</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 2 500 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>3,6</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>4,4</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">7,1</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">8,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>2 500 a 10 000 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>7,1</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>8,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">13,6</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">1,1</td>
-<td class="cuerpo_tabla_centro">16,3</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>0,9</td>
+<td>13,6</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>1,1</td>
+<td>16,3</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Gránulos de paja</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">3,0</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">3,6</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td rowspan="3">Gránulos de paja</td>
+<td>1 a 500 km.</td>
+<td>0,0</td>
+<td>5,0</td>
+<td>3,0</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>3,6</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">5,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>500 a 10 000 km.</td>
+<td>0,0</td>
+<td>5,0</td>
+<td>4,6</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>5,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,0</td>
-<td class="cuerpo_tabla_centro">8,3</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">10,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>5,0</td>
+<td>8,3</td>
+<td>0,2</td>
+<td>0,0</td>
+<td>6,0</td>
+<td>10,0</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Briquetas de bagazo</td>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td rowspan="2">Briquetas de bagazo</td>
+<td>500 a 10 000 km.</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>4,3</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>0,4</td>
+<td>5,2</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,3</td>
-<td class="cuerpo_tabla_centro">8,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,4</td>
-<td class="cuerpo_tabla_centro">9,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
+<td>Más de 10 000 km.</td>
+<td>0,0</td>
+<td>0,3</td>
+<td>8,0</td>
+<td>0,4</td>
+<td>0,0</td>
+<td>0,4</td>
+<td>9,5</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Harina de palmiste</td>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">21,1</td>
-<td class="cuerpo_tabla_centro">11,2</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">25,4</td>
-<td class="cuerpo_tabla_centro">13,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Harina de palmiste</td>
+<td>Más de 10 000 km.</td>
+<td>21,6</td>
+<td>21,1</td>
+<td>11,2</td>
+<td>0,2</td>
+<td>21,6</td>
+<td>25,4</td>
+<td>13,5</td>
+<td>0,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Harina de palmiste (sin emisiones de CH<sub>4</sub> procedentes de la almazara)</td>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">11,2</td>
-<td class="cuerpo_tabla_centro">0,2</td>
-<td class="cuerpo_tabla_centro">21,6</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">13,5</td>
-<td class="cuerpo_tabla_centro">0,3</td>
+<td>Harina de palmiste (sin emisiones de CH<sub>4</sub> procedentes de la almazara)</td>
+<td>Más de 10 000 km.</td>
+<td>21,6</td>
+<td>3,5</td>
+<td>11,2</td>
+<td>0,2</td>
+<td>21,6</td>
+<td>4,2</td>
+<td>13,5</td>
+<td>0,3</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_girada">
+<table>
 <caption>
-<p class="centro_redonda">Valores por defecto desagregados del biogás en la producción de electricidad</p>
+<p>Valores por defecto desagregados del biogás en la producción de electricidad</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de combustibles de biomasa</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Tecnología</th>
-<th class="cabeza_tabla" colspan="6">Valores típicos [g CO<sub>2 </sub>eq/MJ]</th>
-<th class="cabeza_tabla" colspan="4">Valores por defecto [g CO<sub>2</sub> eq/MJ]</th>
+<th rowspan="2">Sistema de producción de combustibles de biomasa</th>
+<th colspan="2" rowspan="2">Tecnología</th>
+<th colspan="6">Valores típicos [g CO<sub>2 </sub>eq/MJ]</th>
+<th colspan="4">Valores por defecto [g CO<sub>2</sub> eq/MJ]</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Créditos por gestión del estiércol</th>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Créditos<br> por gestión<br> del estiércol</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Transporte</th>
+<th>Créditos por gestión del estiércol</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Emisiones diferentes de CO<sub>2</sub> procedentes del combustible cuando se utiliza</th>
+<th>Transporte</th>
+<th>Créditos<br> por gestión<br> del estiércol</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Estiércol húmedo<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">69,6</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-107,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">97,4</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-107,3</td>
+<td rowspan="6">Estiércol húmedo<sup>1</sup>.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>0,0</td>
+<td>69,6</td>
+<td>8,9</td>
+<td>0,8</td>
+<td>-107,3</td>
+<td>0,0</td>
+<td>97,4</td>
+<td>12,5</td>
+<td>0,8</td>
+<td>-107,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-97,6</td>
-<td class="cuerpo_tabla_centro">0.0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12.5</td>
-<td class="cuerpo_tabla_centro">0.8</td>
-<td class="cuerpo_tabla_centro">-97.6</td>
+<td>Digestato en cerrado.</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>8,9</td>
+<td>0,8</td>
+<td>-97,6</td>
+<td>0.0</td>
+<td>0,0</td>
+<td>12.5</td>
+<td>0.8</td>
+<td>-97.6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">74,1</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-107,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">103,7</td>
-<td class="cuerpo_tabla_centro">12.5</td>
-<td class="cuerpo_tabla_centro">0.8</td>
-<td class="cuerpo_tabla_centro">-107,3</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>0,0</td>
+<td>74,1</td>
+<td>8,9</td>
+<td>0,8</td>
+<td>-107,3</td>
+<td>0,0</td>
+<td>103,7</td>
+<td>12.5</td>
+<td>0.8</td>
+<td>-107,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,2</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-97,6</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,9</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-97,6</td>
+<td>Digestato en cerrado.</td>
+<td>0,0</td>
+<td>4,2</td>
+<td>8,9</td>
+<td>0,8</td>
+<td>-97,6</td>
+<td>0,0</td>
+<td>5,9</td>
+<td>12,5</td>
+<td>0,8</td>
+<td>-97,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">83,2</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">-120,7</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">116,4</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">-120,7</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>0,0</td>
+<td>83,2</td>
+<td>8,9</td>
+<td>0,9</td>
+<td>-120,7</td>
+<td>0,0</td>
+<td>116,4</td>
+<td>12,5</td>
+<td>0,9</td>
+<td>-120,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-108,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,4</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,8</td>
-<td class="cuerpo_tabla_centro">-108,5</td>
+<td>Digestato en cerrado.</td>
+<td>0,0</td>
+<td>4,6</td>
+<td>8,9</td>
+<td>0,8</td>
+<td>-108,5</td>
+<td>0,0</td>
+<td>6,4</td>
+<td>12,5</td>
+<td>0,8</td>
+<td>-108,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Maíz, toda la planta<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">15,6</td>
-<td class="cuerpo_tabla_centro">13,5</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,0<sup>3</sup></td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15,6</td>
-<td class="cuerpo_tabla_centro">18,9</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td rowspan="6">Maíz, toda la planta<sup>2</sup>.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>15,6</td>
+<td>13,5</td>
+<td>8,9</td>
+<td>0,0<sup>3</sup></td>
+<td>–</td>
+<td>15,6</td>
+<td>18,9</td>
+<td>12,5</td>
+<td>0,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">15,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15,2</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Digestato en cerrado.</td>
+<td>15,2</td>
+<td>0,0</td>
+<td>8,9</td>
+<td>0,0</td>
+<td>–</td>
+<td>15,2</td>
+<td>0,0</td>
+<td>12,5</td>
+<td>0,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">15,6</td>
-<td class="cuerpo_tabla_centro">18,8</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15,6</td>
-<td class="cuerpo_tabla_centro">26,3</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>15,6</td>
+<td>18,8</td>
+<td>8,9</td>
+<td>0,0</td>
+<td>–</td>
+<td>15,6</td>
+<td>26,3</td>
+<td>12,5</td>
+<td>0,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">15,2</td>
-<td class="cuerpo_tabla_centro">5,2</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15,2</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Digestato en cerrado.</td>
+<td>15,2</td>
+<td>5,2</td>
+<td>8,9</td>
+<td>0,0</td>
+<td>–</td>
+<td>15,2</td>
+<td>7,2</td>
+<td>12,5</td>
+<td>0,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">17,5</td>
-<td class="cuerpo_tabla_centro">21,0</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">17,5</td>
-<td class="cuerpo_tabla_centro">29,3</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>17,5</td>
+<td>21,0</td>
+<td>8,9</td>
+<td>0,0</td>
+<td>–</td>
+<td>17,5</td>
+<td>29,3</td>
+<td>12,5</td>
+<td>0,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">17,1</td>
-<td class="cuerpo_tabla_centro">5,7</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">17,1</td>
-<td class="cuerpo_tabla_centro">7,9</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Digestato en cerrado.</td>
+<td>17,1</td>
+<td>5,7</td>
+<td>8,9</td>
+<td>0,0</td>
+<td>–</td>
+<td>17,1</td>
+<td>7,9</td>
+<td>12,5</td>
+<td>0,0</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Biorresiduos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">21,8</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,6</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td rowspan="6">Biorresiduos.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>0,0</td>
+<td>21,8</td>
+<td>8,9</td>
+<td>0,5</td>
+<td>–</td>
+<td>0,0</td>
+<td>30,6</td>
+<td>12,5</td>
+<td>0,5</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Digestato en cerrado.</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>8,9</td>
+<td>0,5</td>
+<td>–</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>12,5</td>
+<td>0,5</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">27,9</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">39,0</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>0,0</td>
+<td>27,9</td>
+<td>8,9</td>
+<td>0,5</td>
+<td>–</td>
+<td>0,0</td>
+<td>39,0</td>
+<td>12,5</td>
+<td>0,5</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,9</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">8,3</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Digestato en cerrado.</td>
+<td>0,0</td>
+<td>5,9</td>
+<td>8,9</td>
+<td>0,5</td>
+<td>–</td>
+<td>0,0</td>
+<td>8,3</td>
+<td>12,5</td>
+<td>0,5</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">31,2</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">43,7</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>0,0</td>
+<td>31,2</td>
+<td>8,9</td>
+<td>0,5</td>
+<td>–</td>
+<td>0,0</td>
+<td>43,7</td>
+<td>12,5</td>
+<td>0,5</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">6,5</td>
-<td class="cuerpo_tabla_centro">8,9</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">9,1</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Digestato en cerrado.</td>
+<td>0,0</td>
+<td>6,5</td>
+<td>8,9</td>
+<td>0,5</td>
+<td>–</td>
+<td>0,0</td>
+<td>9,1</td>
+<td>12,5</td>
+<td>0,5</td>
+<td>–</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="13">
-<p class="cita"><sup>1</sup> En los valores relativos a la producción de biogás a partir de estiércol se incluye la emisión negativa derivada de la reducción de emisiones lograda gracias a la gestión del estiércol bruto. El valor de e sca considerado es igual a -45 g CO<sub>2</sub>eq/MJ para estiércol utilizado en digestión anaeróbica.</p>
-<p class="cita"><sup>2</sup> Por «maíz, toda la planta» hay que entender el maíz cosechado para forraje y ensilado para su conservación.</p>
-<p class="cita"><sup>3</sup> El transporte de las materias primas de la agricultura a la instalación de transformación está, de acuerdo con la metodología recogida en el Informe de la Comisión, de 25 de febrero de 2010, relativo a los requisitos de sostenibilidad para el uso de fuentes de biomasa sólida y gaseosa en los sectores de la electricidad, la calefacción y la refrigeración, incluido en el valor «cultivo». El valor para el transporte del maíz ensilado corresponde a 0,4 g CO<sub>2</sub>eq/MJ (biogás).</p>
+<p><sup>1</sup> En los valores relativos a la producción de biogás a partir de estiércol se incluye la emisión negativa derivada de la reducción de emisiones lograda gracias a la gestión del estiércol bruto. El valor de e sca considerado es igual a -45 g CO<sub>2</sub>eq/MJ para estiércol utilizado en digestión anaeróbica.</p>
+<p><sup>2</sup> Por «maíz, toda la planta» hay que entender el maíz cosechado para forraje y ensilado para su conservación.</p>
+<p><sup>3</sup> El transporte de las materias primas de la agricultura a la instalación de transformación está, de acuerdo con la metodología recogida en el Informe de la Comisión, de 25 de febrero de 2010, relativo a los requisitos de sostenibilidad para el uso de fuentes de biomasa sólida y gaseosa en los sectores de la electricidad, la calefacción y la refrigeración, incluido en el valor «cultivo». El valor para el transporte del maíz ensilado corresponde a 0,4 g CO<sub>2</sub>eq/MJ (biogás).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_girada">
+<table>
 <caption>
-<p class="centro_redonda">Valores por defecto desagregados para biometano</p>
+<p>Valores por defecto desagregados para biometano</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de biometano</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Opción tecnológica</th>
-<th class="cabeza_tabla" colspan="6">Valores típicos [g CO<sub>2</sub> eq/MJ]</th>
-<th class="cabeza_tabla" colspan="6">Valores por defecto [g CO<sub>2</sub> eq/MJ]</th>
+<th rowspan="2">Sistema de producción de biometano</th>
+<th colspan="2" rowspan="2">Opción tecnológica</th>
+<th colspan="6">Valores típicos [g CO<sub>2</sub> eq/MJ]</th>
+<th colspan="6">Valores por defecto [g CO<sub>2</sub> eq/MJ]</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Enriquecimiento</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Compresión en la estación de servicio</th>
-<th class="cabeza_tabla">Créditos por gestión del estiércol</th>
-<th class="cabeza_tabla">Cultivo</th>
-<th class="cabeza_tabla">Transformación</th>
-<th class="cabeza_tabla">Enriquecimiento</th>
-<th class="cabeza_tabla">Transporte</th>
-<th class="cabeza_tabla">Compresión en la estación de servicio</th>
-<th class="cabeza_tabla">Créditos<br> por gestión<br> del estiércol</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Enriquecimiento</th>
+<th>Transporte</th>
+<th>Compresión en la estación de servicio</th>
+<th>Créditos por gestión del estiércol</th>
+<th>Cultivo</th>
+<th>Transformación</th>
+<th>Enriquecimiento</th>
+<th>Transporte</th>
+<th>Compresión en la estación de servicio</th>
+<th>Créditos<br> por gestión<br> del estiércol</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Estiércol húmedo.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Digestato en<br> abierto.</td>
-<td class="cuerpo_tabla_izq">Sin combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">84,2</td>
-<td class="cuerpo_tabla_centro">19,5</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">-124,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">117,9</td>
-<td class="cuerpo_tabla_centro">27,3</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">-124,4</td>
+<td rowspan="4">Estiércol húmedo.</td>
+<td rowspan="2">Digestato en<br> abierto.</td>
+<td>Sin combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>84,2</td>
+<td>19,5</td>
+<td>1,0</td>
+<td>3,3</td>
+<td>-124,4</td>
+<td>0,0</td>
+<td>117,9</td>
+<td>27,3</td>
+<td>1,0</td>
+<td>4,6</td>
+<td>-124,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">84,2</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">-124,4</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">117,9</td>
-<td class="cuerpo_tabla_centro">6,3</td>
-<td class="cuerpo_tabla_centro">1,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">-124,4</td>
+<td>Con combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>84,2</td>
+<td>4,5</td>
+<td>1,0</td>
+<td>3,3</td>
+<td>-124,4</td>
+<td>0,0</td>
+<td>117,9</td>
+<td>6,3</td>
+<td>1,0</td>
+<td>4,6</td>
+<td>-124,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_izq">Sin combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,2</td>
-<td class="cuerpo_tabla_centro">19,5</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">-111,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">27,3</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">-111,9</td>
+<td rowspan="2">Digestato en cerrado.</td>
+<td>Sin combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>3,2</td>
+<td>19,5</td>
+<td>0,9</td>
+<td>3,3</td>
+<td>-111,9</td>
+<td>0,0</td>
+<td>4,4</td>
+<td>27,3</td>
+<td>0,9</td>
+<td>4,6</td>
+<td>-111,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,2</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">-111,9</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,4</td>
-<td class="cuerpo_tabla_centro">6,3</td>
-<td class="cuerpo_tabla_centro">0,9</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">-111,9</td>
+<td>Con combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>3,2</td>
+<td>4,5</td>
+<td>0,9</td>
+<td>3,3</td>
+<td>-111,9</td>
+<td>0,0</td>
+<td>4,4</td>
+<td>6,3</td>
+<td>0,9</td>
+<td>4,6</td>
+<td>-111,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Maíz, toda la planta.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Digestato en<br> abierto.</td>
-<td class="cuerpo_tabla_izq">Sin combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">18,1</td>
-<td class="cuerpo_tabla_centro">20,1</td>
-<td class="cuerpo_tabla_centro">19,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">18,1</td>
-<td class="cuerpo_tabla_centro">28,1</td>
-<td class="cuerpo_tabla_centro">27,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td rowspan="4">Maíz, toda la planta.</td>
+<td rowspan="2">Digestato en<br> abierto.</td>
+<td>Sin combustión de gases desprendidos.</td>
+<td>18,1</td>
+<td>20,1</td>
+<td>19,5</td>
+<td>0,0</td>
+<td>3,3</td>
+<td>—</td>
+<td>18,1</td>
+<td>28,1</td>
+<td>27,3</td>
+<td>0,0</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">18,1</td>
-<td class="cuerpo_tabla_centro">20,1</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">18,1</td>
-<td class="cuerpo_tabla_centro">28,1</td>
-<td class="cuerpo_tabla_centro">6,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td>Con combustión de gases desprendidos.</td>
+<td>18,1</td>
+<td>20,1</td>
+<td>4,5</td>
+<td>0,0</td>
+<td>3,3</td>
+<td>—</td>
+<td>18,1</td>
+<td>28,1</td>
+<td>6,3</td>
+<td>0,0</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_izq">Sin combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">17,6</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">19,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">17,6</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">27,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td rowspan="2">Digestato en cerrado.</td>
+<td>Sin combustión de gases desprendidos.</td>
+<td>17,6</td>
+<td>4,3</td>
+<td>19,5</td>
+<td>0,0</td>
+<td>3,3</td>
+<td>—</td>
+<td>17,6</td>
+<td>6,0</td>
+<td>27,3</td>
+<td>0,0</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">17,6</td>
-<td class="cuerpo_tabla_centro">4,3</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">17,6</td>
-<td class="cuerpo_tabla_centro">6,0</td>
-<td class="cuerpo_tabla_centro">6,3</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td>Con combustión de gases desprendidos.</td>
+<td>17,6</td>
+<td>4,3</td>
+<td>4,5</td>
+<td>0,0</td>
+<td>3,3</td>
+<td>—</td>
+<td>17,6</td>
+<td>6,0</td>
+<td>6,3</td>
+<td>0,0</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Biorresiduos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Digestato en<br> abierto.</td>
-<td class="cuerpo_tabla_izq">Sin combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,6</td>
-<td class="cuerpo_tabla_centro">19,5</td>
-<td class="cuerpo_tabla_centro">0,6</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">42,8</td>
-<td class="cuerpo_tabla_centro">27,3</td>
-<td class="cuerpo_tabla_centro">0,6</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td rowspan="4">Biorresiduos.</td>
+<td rowspan="2">Digestato en<br> abierto.</td>
+<td>Sin combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>30,6</td>
+<td>19,5</td>
+<td>0,6</td>
+<td>3,3</td>
+<td>—</td>
+<td>0,0</td>
+<td>42,8</td>
+<td>27,3</td>
+<td>0,6</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">30,6</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">0,6</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">42,8</td>
-<td class="cuerpo_tabla_centro">6,3</td>
-<td class="cuerpo_tabla_centro">0,6</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td>Con combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>30,6</td>
+<td>4,5</td>
+<td>0,6</td>
+<td>3,3</td>
+<td>—</td>
+<td>0,0</td>
+<td>42,8</td>
+<td>6,3</td>
+<td>0,6</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_izq">Sin combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,1</td>
-<td class="cuerpo_tabla_centro">19,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">27,3</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td rowspan="2">Digestato en cerrado.</td>
+<td>Sin combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>5,1</td>
+<td>19,5</td>
+<td>0,5</td>
+<td>3,3</td>
+<td>—</td>
+<td>0,0</td>
+<td>7,2</td>
+<td>27,3</td>
+<td>0,5</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Con combustión de gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">5,1</td>
-<td class="cuerpo_tabla_centro">4,5</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">3,3</td>
-<td class="cuerpo_tabla_centro">—</td>
-<td class="cuerpo_tabla_centro">0,0</td>
-<td class="cuerpo_tabla_centro">7,2</td>
-<td class="cuerpo_tabla_centro">6,3</td>
-<td class="cuerpo_tabla_centro">0,5</td>
-<td class="cuerpo_tabla_centro">4,6</td>
-<td class="cuerpo_tabla_centro">—</td>
+<td>Con combustión de gases desprendidos.</td>
+<td>0,0</td>
+<td>5,1</td>
+<td>4,5</td>
+<td>0,5</td>
+<td>3,3</td>
+<td>—</td>
+<td>0,0</td>
+<td>7,2</td>
+<td>6,3</td>
+<td>0,5</td>
+<td>4,6</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>
 
 D. Valores típicos y valores por defecto para los procesos de los combustibles de biomasa
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sistema de producción de combustibles de biomasa</p>
+<th>
+<p>Sistema de producción de combustibles de biomasa</p>
 </th>
-<th class="cabeza_tabla">Distancia de transporte</th>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/ MJ)</th>
+<th>Distancia de transporte</th>
+<th>Emisiones de gases de<br> efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
+<th>Emisiones de gases de<br> efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/ MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de desechos forestales.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="4">Astillas de madera de desechos forestales.</td>
+<td>1 a 500 km.</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>500 a 2 500 km.</td>
+<td>7</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2 500 a 10 000 km.</td>
+<td>12</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">27</td>
+<td>Más de 10 000 km.</td>
+<td>22</td>
+<td>27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Astillas de madera de monte bajo de ro tación corta (eucalipto).</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Astillas de madera de monte bajo de ro tación corta (eucalipto).</td>
+<td>2 500 a 10 000 km.</td>
+<td>16</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - con fertilización).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - con fertilización).</td>
+<td>1 a 500 km.</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td>500 a 2 500 km.</td>
+<td>10</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>2 500 a 10 000 km.</td>
+<td>15</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Más de 10 000 km.</td>
+<td>25</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - sin fertilización).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td rowspan="4">Astillas de madera de monte bajo de rotación corta (álamo - sin fertilización).</td>
+<td>1 a 500 km.</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>500 a 2 500 km.</td>
+<td>8</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>2 500 a 10 000 km.</td>
+<td>14</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">28</td>
+<td>Más de 10 000 km.</td>
+<td>24</td>
+<td>28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de tronco.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="4">Astillas de madera de tronco.</td>
+<td>1 a 500 km.</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td>500 a 2 500 km.</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">15</td>
+<td>2 500 a 10 000 km.</td>
+<td>12</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">27</td>
+<td>Más de 10 000 km.</td>
+<td>22</td>
+<td>27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Astillas de madera de desechos industriales.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td rowspan="4">Astillas de madera de desechos industriales.</td>
+<td>1 a 500 km.</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
+<td>500 a 2 500 km.</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>2 500 a 10 000 km.</td>
+<td>11</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>Más de 10 000 km.</td>
+<td>21</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos forestales (caso 1).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos forestales (caso 1).</td>
+<td>1 a 500 km.</td>
+<td>29</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td>500 a 2 500 km.</td>
+<td>29</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>2 500 a 10 000 km.</td>
+<td>30</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_centro">41</td>
+<td>Más de 10 000 km.</td>
+<td>34</td>
+<td>41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos forestales (caso 2a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">19</td>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos forestales (caso 2a).</td>
+<td>1 a 500 km.</td>
+<td>16</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">19</td>
+<td>500 a 2 500 km.</td>
+<td>16</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">21</td>
+<td>2 500 a 10 000 km.</td>
+<td>17</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">25</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos forestales (caso 3a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">8</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto - caso 1).</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro">39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto - caso 2a).</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto - caso 3a).</td>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización - caso 1).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización - caso 2a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización - caso 3a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">9</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización - caso 1).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_centro">41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización - caso 2a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización - caso 3a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">9</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>Más de 10 000 km.</td>
+<td>21</td>
+<td>25</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera de tronco (caso 1).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos forestales (caso 3a).</td>
+<td>1 a 500 km.</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">34</td>
+<td>500 a 2 500 km.</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>2 500 a 10 000 km.</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_centro">41</td>
+<td>Más de 10 000 km.</td>
+<td>11</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera de tronco (caso 2a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto - caso 1).</td>
+<td>2 500 a 10 000 km.</td>
+<td>33</td>
+<td>39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto - caso 2a).</td>
+<td>2 500 a 10 000 km.</td>
+<td>20</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>Briquetas o pellets de madera procedentes de monte bajo de rotación corta (eucalipto - caso 3a).</td>
+<td>2 500 a 10 000 km.</td>
+<td>10</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización - caso 1).</td>
+<td>1 a 500 km.</td>
+<td>31</td>
+<td>37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera de tronco (caso 3a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>500 a 10 000 km.</td>
+<td>32</td>
+<td>38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>Más de 10 000 km.</td>
+<td>36</td>
+<td>43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización - caso 2a).</td>
+<td>1 a 500 km.</td>
+<td>18</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>500 a 10 000 km.</td>
+<td>20</td>
+<td>23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 1).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">21</td>
+<td>Más de 10 000 km.</td>
+<td>23</td>
+<td>27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">21</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - con fertilización - caso 3a).</td>
+<td>1 a 500 km.</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">23</td>
+<td>500 a 10 000 km.</td>
+<td>10</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">27</td>
+<td>Más de 10 000 km.</td>
+<td>13</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 2a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización - caso 1).</td>
+<td>1 a 500 km.</td>
+<td>30</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td>500 a 10 000 km.</td>
+<td>31</td>
+<td>37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>Más de 10 000 km.</td>
+<td>35</td>
+<td>41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">17</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización - caso 2a).</td>
+<td>1 a 500 km.</td>
+<td>16</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 3a).</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>500 a 10 000 km.</td>
+<td>18</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td>Más de 10 000 km.</td>
+<td>21</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="3">Briquetas o pellets de madera procedentes de monte bajo de rotación corta (álamo - sin fertilización - caso 3a).</td>
+<td>1 a 500 km.</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>500 a 10 000 km.</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>11</td>
+<td>13</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td rowspan="4">Briquetas o pellets de madera de tronco (caso 1).</td>
+<td>1 a 500 km.</td>
+<td>29</td>
+<td>35</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>29</td>
+<td>34</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>30</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>34</td>
+<td>41</td>
+</tr>
+<tr>
+<td rowspan="4">Briquetas o pellets de madera de tronco (caso 2a).</td>
+<td>1 a 500 km.</td>
+<td>16</td>
+<td>18</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>15</td>
+<td>18</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>17</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>21</td>
+<td>25</td>
+</tr>
+<tr>
+<td rowspan="4">Briquetas o pellets de madera de tronco (caso 3a).</td>
+<td>1 a 500 km.</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>11</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 1).</td>
+<td>1 a 500 km.</td>
+<td>17</td>
+<td>21</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>17</td>
+<td>21</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>19</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>22</td>
+<td>27</td>
+</tr>
+<tr>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 2a).</td>
+<td>1 a 500 km.</td>
+<td>9</td>
+<td>11</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>9</td>
+<td>11</td>
+</tr>
+<tr>
+<td>2 500 a 10 000 km.</td>
+<td>10</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>14</td>
+<td>17</td>
+</tr>
+<tr>
+<td rowspan="4">Briquetas o pellets de madera procedentes de desechos de la industria maderera (caso 3a).</td>
+<td>1 a 500 km.</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>500 a 2 500 km.</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2 500 a 10 000.</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Más de 10 000 km.</td>
+<td>8</td>
+<td>10</td>
 </tr>
 </tbody>
 </table>
@@ -7210,476 +7001,450 @@ El caso 2a engloba los procesos en los que para obtener el calor de proceso nece
 
 El caso 3a engloba los procesos en los que para generar tanto el calor como la electricidad de la instalación de producción de pellets se utiliza una caldera de cogeneración alimentada con astillas de madera.
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col width="10%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sistema de producción de combustibles de biomasa</p>
+<th>
+<p>Sistema de producción de combustibles de biomasa</p>
 </th>
-<th class="cabeza_tabla">Distancia de transporte</th>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
+<th>Distancia de transporte</th>
+<th>Emisiones de gases de<br> efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
+<th>Emisiones de gases de<br> efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Desechos agrícolas con una densidad &lt; 0,2 t/m<sup>3</sup><sup>(1).</sup></td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td rowspan="4">Desechos agrícolas con una densidad &lt; 0,2 t/m<sup>3</sup><sup>(1).</sup></td>
+<td>1 a 500 km.</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>500 a 2 500 km.</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>2 500 a 10 000 km.</td>
+<td>15</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td>Más de 10 000 km.</td>
+<td>29</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Desechos agrícolas con una densidad &gt; 0,2 t/m<sup>3</sup><sup>(2).</sup></td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">4</td>
+<td rowspan="4">Desechos agrícolas con una densidad &gt; 0,2 t/m<sup>3</sup><sup>(2).</sup></td>
+<td>1 a 500 km.</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 2 500 km.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>500 a 2 500 km.</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>2 500 a 10 000 km.</td>
+<td>8</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Más de 10 000 km.</td>
+<td>15</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Gránulos de paja.</td>
-<td class="cuerpo_tabla_izq">1 a 500 km.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="3">Gránulos de paja.</td>
+<td>1 a 500 km.</td>
+<td>8</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>500 a 10 000 km.</td>
+<td>10</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>Más de 10 000 km.</td>
+<td>14</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Briquetas de bagazo.</td>
-<td class="cuerpo_tabla_izq">500 a 10 000 km.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td rowspan="2">Briquetas de bagazo.</td>
+<td>500 a 10 000 km.</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Más de 10 000 km.</td>
+<td>9</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Harina de palmiste.</td>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_centro">61</td>
+<td>Harina de palmiste.</td>
+<td>Más de 10 000 km.</td>
+<td>54</td>
+<td>61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Harina de palmiste (sin emisiones de CH4 procedentes de la almazara).</td>
-<td class="cuerpo_tabla_izq">Más de 10 000 km.</td>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td>Harina de palmiste (sin emisiones de CH4 procedentes de la almazara).</td>
+<td>Más de 10 000 km.</td>
+<td>37</td>
+<td>40</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Este grupo de materiales engloba los desechos agrícolas de baja densidad aparente engloba materiales como las balas de paja, cáscaras de avena, cascarillas de arroz y balas de bagazo de caña de azúcar (la lista no es exhaustiva</p>
-<p class="cita"><sup>(2)</sup> En el grupo de desechos agrícolas de mayor densidad aparente están materiales tales como los restos de mazorcas de maíz, cáscaras de frutos secos, cáscaras de soja, cáscaras de palmiste (la lista no es exhaustiva).</p>
+<p><sup>(1)</sup> Este grupo de materiales engloba los desechos agrícolas de baja densidad aparente engloba materiales como las balas de paja, cáscaras de avena, cascarillas de arroz y balas de bagazo de caña de azúcar (la lista no es exhaustiva</p>
+<p><sup>(2)</sup> En el grupo de desechos agrícolas de mayor densidad aparente están materiales tales como los restos de mazorcas de maíz, cáscaras de frutos secos, cáscaras de soja, cáscaras de palmiste (la lista no es exhaustiva).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Valores típicos y valores por defecto - biogás para electricidad</p>
+<p>Valores típicos y valores por defecto - biogás para electricidad</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col width="10%">
-<col width="10%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de biogás</th>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Opción tecnológica</th>
-<th class="cabeza_tabla">Valores típicos</th>
-<th class="cabeza_tabla">Valores por defecto</th>
+<th rowspan="2">Sistema de producción de biogás</th>
+<th colspan="2" rowspan="2">Opción tecnológica</th>
+<th>Valores típicos</th>
+<th>Valores por defecto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero<br> (g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero<br> (g CO<sub>2</sub> eq/MJ)</th>
+<th>Emisiones de gases de<br> efecto invernadero<br> (g CO<sub>2</sub> eq/MJ)</th>
+<th>Emisiones de gases de<br> efecto invernadero<br> (g CO<sub>2</sub> eq/MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Biogás para electricidad procedente de estiércol húmedo.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto<sup>(1).</sup></td>
-<td class="cuerpo_tabla_centro">-28</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td rowspan="6">Biogás para electricidad procedente de estiércol húmedo.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto<sup>(1).</sup></td>
+<td>-28</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado<sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">-88</td>
-<td class="cuerpo_tabla_centro">-84</td>
+<td>Digestato en cerrado<sup>(2).</sup></td>
+<td>-88</td>
+<td>-84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">-23</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>-23</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">-84</td>
-<td class="cuerpo_tabla_centro">-78</td>
+<td>Digestato en cerrado.</td>
+<td>-84</td>
+<td>-78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">-28</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>-28</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">-94</td>
-<td class="cuerpo_tabla_centro">-89</td>
+<td>Digestato en cerrado.</td>
+<td>-94</td>
+<td>-89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Biogás para electricidad procedente del maíz, toda la planta.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_centro">47</td>
+<td rowspan="6">Biogás para electricidad procedente del maíz, toda la planta.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>38</td>
+<td>47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">28</td>
+<td>Digestato en cerrado.</td>
+<td>24</td>
+<td>28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_centro">54</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>43</td>
+<td>54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td>Digestato en cerrado.</td>
+<td>29</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_centro">59</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>47</td>
+<td>59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">38</td>
+<td>Digestato en cerrado.</td>
+<td>32</td>
+<td>38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Biogás para electricidad procedente de biorresiduos.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">44</td>
+<td rowspan="6">Biogás para electricidad procedente de biorresiduos.</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>31</td>
+<td>44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>Digestato en cerrado.</td>
+<td>9</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_centro">52</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>37</td>
+<td>52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">21</td>
+<td>Digestato en cerrado.</td>
+<td>15</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">57</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>41</td>
+<td>57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">22</td>
+<td>Digestato en cerrado.</td>
+<td>16</td>
+<td>22</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita"><sup>(1)</sup> El almacenamiento en abierto del digestato comporta emisiones adicionales de metano que varían según la climatología, el sustrato y la eficiencia de la digestión. En estos cálculos, los valores se consideran equivalentes a 0,05 MJ CH<sub>4</sub> / MJ biogás para el estiércol, 0,035 MJ CH<sub>4</sub> / MJ biogás para el maíz y 0,01 MJ CH<sub>4</sub> / MJ biogás para los biorresiduos.</p>
-<p class="cita"><sup>(2)</sup> El almacenamiento en cerrado significa que el digestato resultante del proceso de digestión se almacena en un tanque hermético y se da por supuesto que el biogás adicional liberado durante el almacenamiento se recupera para la producción adicional de electricidad o biometano</p>
+<p><sup>(1)</sup> El almacenamiento en abierto del digestato comporta emisiones adicionales de metano que varían según la climatología, el sustrato y la eficiencia de la digestión. En estos cálculos, los valores se consideran equivalentes a 0,05 MJ CH<sub>4</sub> / MJ biogás para el estiércol, 0,035 MJ CH<sub>4</sub> / MJ biogás para el maíz y 0,01 MJ CH<sub>4</sub> / MJ biogás para los biorresiduos.</p>
+<p><sup>(2)</sup> El almacenamiento en cerrado significa que el digestato resultante del proceso de digestión se almacena en un tanque hermético y se da por supuesto que el biogás adicional liberado durante el almacenamiento se recupera para la producción adicional de electricidad o biometano</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Valores típicos y valores por defecto para biometano</p>
+<p>Valores típicos y valores por defecto para biometano</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="10%">
-<col width="10%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Sistema de producción de biometano</th>
-<th class="cabeza_tabla">Opción tecnológica</th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
+<th>Sistema de producción de biometano</th>
+<th>Opción tecnológica</th>
+<th>Emisiones de gases de efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
+<th>Emisiones de gases de efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Biometano de estiércol húmedo.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos <sup>(1).</sup></td>
-<td class="cuerpo_tabla_centro">-20</td>
-<td class="cuerpo_tabla_centro">22</td>
+<td rowspan="4">Biometano de estiércol húmedo.</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos <sup>(1).</sup></td>
+<td>-20</td>
+<td>22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos <sup>(2).</sup></td>
-<td class="cuerpo_tabla_centro">-35</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos <sup>(2).</sup></td>
+<td>-35</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">-88</td>
-<td class="cuerpo_tabla_centro">-79</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>-88</td>
+<td>-79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">-103</td>
-<td class="cuerpo_tabla_centro">-100</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>-103</td>
+<td>-100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Biometano de maíz, toda la planta.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_centro">73</td>
+<td rowspan="4">Biometano de maíz, toda la planta.</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>58</td>
+<td>73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_centro">52</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>43</td>
+<td>52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">51</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>41</td>
+<td>51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">30</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>26</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Biometano de biorresiduos.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_centro">71</td>
+<td rowspan="4">Biometano de biorresiduos.</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>51</td>
+<td>71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">50</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>36</td>
+<td>50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">35</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>25</td>
+<td>35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">14</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>10</td>
+<td>14</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: adsorción por cambio de presión (PSA), depuración por agua a presión (PWS), membranas, técnicas criogénicas y depuración física orgánica (OPS). Incluye una emisión de 0,03 MJ CH<sub>4</sub> / MJ biometano para la emisión de metano en los gases desprendidos.</p>
-<p class="cita"><sup>(2)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: depuración por agua a presión (PWS) cuando el agua es reciclada, adsorción por cambio de presión (PSA), depuración química, depuración física orgánica (OPS), membranas y enriquecimiento criogénico. En esta categoría no se consideran las emisiones de metano (el metano de los gases desprendidos, caso de haberlo, es objeto de combustión).</p>
+<p><sup>(1)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: adsorción por cambio de presión (PSA), depuración por agua a presión (PWS), membranas, técnicas criogénicas y depuración física orgánica (OPS). Incluye una emisión de 0,03 MJ CH<sub>4</sub> / MJ biometano para la emisión de metano en los gases desprendidos.</p>
+<p><sup>(2)</sup> Esta categoría comprende las siguientes categorías de tecnologías para el enriquecimiento del biogás a biometano: depuración por agua a presión (PWS) cuando el agua es reciclada, adsorción por cambio de presión (PSA), depuración química, depuración física orgánica (OPS), membranas y enriquecimiento criogénico. En esta categoría no se consideran las emisiones de metano (el metano de los gases desprendidos, caso de haberlo, es objeto de combustión).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Valores típicos y valores por defecto - biogás para electricidad - mezcla de estiércol y maíz: emisiones de gases de efecto invernadero, porcentajes sobre la base de la masa en fresco</p>
+<p>Valores típicos y valores por defecto - biogás para electricidad - mezcla de estiércol y maíz: emisiones de gases de efecto invernadero, porcentajes sobre la base de la masa en fresco</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col width="10%">
-<col width="10%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Sistema de producción de biogás</th>
-<th class="cabeza_tabla">Opciones tecnológicas</th>
-<th class="cabeza_tabla">Emisiones de gases de<br> efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla">Emisiones de gases de efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
+<th colspan="2">Sistema de producción de biogás</th>
+<th>Opciones tecnológicas</th>
+<th>Emisiones de gases de<br> efecto invernadero, valores típicos (g CO<sub>2</sub> eq/MJ)</th>
+<th>Emisiones de gases de efecto invernadero, valores por defecto (g CO<sub>2</sub> eq/MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">80 % - 20 %.</p>
+<td rowspan="6">
+<p>Estiércol – Maíz.</p>
+<p>80 % - 20 %.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">33</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>17</td>
+<td>33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">-12</td>
-<td class="cuerpo_tabla_centro">-9</td>
+<td>Digestato en cerrado.</td>
+<td>-12</td>
+<td>-9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>22</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">-7</td>
-<td class="cuerpo_tabla_centro">-2</td>
+<td>Digestato en cerrado.</td>
+<td>-7</td>
+<td>-2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">43</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>23</td>
+<td>43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">-9</td>
-<td class="cuerpo_tabla_centro">-4</td>
+<td>Digestato en cerrado.</td>
+<td>-9</td>
+<td>-4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">70 % - 30 %.</p>
+<td rowspan="6">
+<p>Estiércol – Maíz.</p>
+<p>70 % - 30 %.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">37</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>24</td>
+<td>37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_centro">3</td>
+<td>Digestato en cerrado.</td>
+<td>0</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_centro">45</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>29</td>
+<td>45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Digestato en cerrado.</td>
+<td>4</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">48</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>31</td>
+<td>48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Digestato en cerrado.</td>
+<td>4</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">60 % - 40 %.</p>
+<td rowspan="6">
+<p>Estiércol – Maíz.</p>
+<p>60 % - 40 %.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 1.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_centro">40</td>
+<td rowspan="2">Caso 1.</td>
+<td>Digestato en abierto.</td>
+<td>28</td>
+<td>40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td>Digestato en cerrado.</td>
+<td>7</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 2.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_centro">47</td>
+<td rowspan="2">Caso 2.</td>
+<td>Digestato en abierto.</td>
+<td>33</td>
+<td>47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Digestato en cerrado.</td>
+<td>12</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Caso 3.</td>
-<td class="cuerpo_tabla_izq">Digestato en abierto.</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">52</td>
+<td rowspan="2">Caso 3.</td>
+<td>Digestato en abierto.</td>
+<td>36</td>
+<td>52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Digestato en cerrado.</td>
+<td>12</td>
+<td>18</td>
 </tr>
 </tbody>
 </table>
@@ -7692,100 +7457,94 @@ El caso 2 alude a procesos en los que la electricidad necesaria para el proceso 
 
 El caso 3 alude a procesos en los que la electricidad necesaria para el proceso se obtiene de la red, y el calor de una caldera de biogás. Este caso es el de algunas instalaciones en las que el motor de cogeneración no se encuentra *in situ* y el biogás se vende (sin enriquecerlo para convertirlo en biometano).
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_redonda">Valores típicos y valores por defecto - biometano - mezcla de estiércol y maíz: emisiones de gases de efecto invernadero, porcentajes sobre la base de la masa en fresco</p>
+<p>Valores típicos y valores por defecto - biometano - mezcla de estiércol y maíz: emisiones de gases de efecto invernadero, porcentajes sobre la base de la masa en fresco</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col width="10%">
-<col width="10%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Sistema de producción de biometano</th>
-<th class="cabeza_tabla" rowspan="2">Opciones tecnológicas</th>
-<th class="cabeza_tabla">Valores típicos</th>
-<th class="cabeza_tabla">Valores por defecto</th>
+<th rowspan="2">Sistema de producción de biometano</th>
+<th rowspan="2">Opciones tecnológicas</th>
+<th>Valores típicos</th>
+<th>Valores por defecto</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">(g CO<sub>2</sub> eq/MJ)</th>
-<th class="cabeza_tabla">(g CO<sub>2</sub> eq/MJ)</th>
+<th>(g CO<sub>2</sub> eq/MJ)</th>
+<th>(g CO<sub>2</sub> eq/MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">80 % - 20 %.</p>
+<td rowspan="4">
+<p>Estiércol – Maíz.</p>
+<p>80 % - 20 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_centro">57</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>32</td>
+<td>57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>17</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">-1</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>-1</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">-16</td>
-<td class="cuerpo_tabla_centro">-12</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>-16</td>
+<td>-12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">70 % - 30 %.</p>
+<td rowspan="4">
+<p>Estiércol – Maíz.</p>
+<p>70 % - 30 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">62</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>41</td>
+<td>62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">41</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>26</td>
+<td>41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">22</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>13</td>
+<td>22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">-2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>-2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">Estiércol – Maíz.</p>
-<p class="cuerpo_tabla_izq">60 % - 40 %.</p>
+<td rowspan="4">
+<p>Estiércol – Maíz.</p>
+<p>60 % - 40 %.</p>
 </td>
-<td class="cuerpo_tabla_izq">Digestato en abierto, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_centro">66</td>
+<td>Digestato en abierto, sin combustión de los gases desprendidos.</td>
+<td>46</td>
+<td>66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en abierto, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_centro">45</td>
+<td>Digestato en abierto, con combustión de los gases desprendidos.</td>
+<td>31</td>
+<td>45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, sin combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">31</td>
+<td>Digestato en cerrado, sin combustión de los gases desprendidos.</td>
+<td>22</td>
+<td>31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digestato en cerrado, con combustión de los gases desprendidos.</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Digestato en cerrado, con combustión de los gases desprendidos.</td>
+<td>7</td>
+<td>10</td>
 </tr>
 </tbody>
 </table>

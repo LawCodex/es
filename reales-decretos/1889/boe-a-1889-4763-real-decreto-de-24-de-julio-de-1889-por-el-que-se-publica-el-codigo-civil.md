@@ -796,18 +796,6 @@ Cualquier español podrá contraer matrimonio dentro o fuera de España:
 
 También podrá contraer matrimonio fuera de España con arreglo a la forma establecida por la ley del lugar de celebración.
 
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 1.3 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391) entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
-
-> Redacción anterior:
-
-> "Cualquier español podrá contraer matrimonio dentro o fuera de España:
-
-> 1.º Ante el Juez, Alcalde o funcionario señalado por este Código.
-
-> 2.º En la forma religiosa legalmente prevista.
-
-> También podrá contraer matrimonio fuera de España con arreglo a la forma establecida por la Ley del lugar de celebración."
-
 > Se modifica por la disposición final 1.3 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
 
 > Esta modificación entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015,en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
@@ -842,12 +830,6 @@ Si ambos contrayentes son extranjeros, podrá celebrarse el matrimonio en Españ
 
 1.º El Alcalde del municipio donde se celebre el matrimonio o concejal en quien éste delegue.
 
-> Téngase en cuenta que este apartado 1º, modificado por la disposición final 2.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1.º El Juez de Paz o Alcalde del municipio donde se celebre el matrimonio o concejal en quien éste delegue."
-
 2.º El Secretario judicial o Notario libremente elegido por ambos contrayentes que sea competente en el lugar de celebración.
 
 3.º El funcionario diplomático o consular Encargado del Registro Civil en el extranjero.
@@ -868,12 +850,6 @@ Podrán celebrar el matrimonio del que se halle en peligro de muerte:
 
 1.º El Alcalde o Concejal en quien delegue, letrado o letrada de la Administración de Justicia, notario o notaria, o personal funcionario a que se refiere el artículo 51.
 
-> Téngase en cuenta que este apartado 1º, modificado por la disposición final 2.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "1.º El Juez de Paz, Alcalde o Concejal en quien delegue, Secretario judicial, Notario o funcionario a que se refiere el artículo 51."
-
 2.º El Oficial o Jefe superior inmediato respecto de los militares en campaña.
 
 3.º El Capitán o Comandante respecto de los matrimonios que se celebren a bordo de nave o aeronave.
@@ -893,12 +869,6 @@ El matrimonio en peligro de muerte no requerirá para su celebración la previa 
 **Artículo 53.**
 
 La validez del matrimonio no quedará afectada por la incompetencia o falta de nombramiento del Alcalde, Concejal/a, letrado o letrada de la Administración de Justicia, notario o notaria, o personal funcionario ante quien se celebre, siempre que al menos uno de los cónyuges hubiera procedido de buena fe y aquellos ejercieran sus funciones públicamente.
-
-> Téngase en cuenta que este precepto, modificado por la disposición final 2.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "La validez del matrimonio no quedará afectada por la incompetencia o falta de nombramiento del Juez de Paz, Alcalde, Concejal, Secretario judicial, Notario o funcionario ante quien se celebre, siempre que al menos uno de los cónyuges hubiera procedido de buena fe y aquellos ejercieran sus funciones públicamente."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 2.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -924,16 +894,6 @@ En el poder se determinará la persona con quien ha de celebrarse el matrimonio,
 
 El poder se extinguirá por la revocación del poderdante, por la renuncia del apoderado o por la muerte de cualquiera de ellos. En caso de revocación por el poderdante bastará su manifestación en forma auténtica antes de la celebración del matrimonio. La revocación se notificará de inmediato al Secretario judicial, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente previo al matrimonio, y si ya estuviera finalizado a quien vaya a celebrarlo.
 
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 1.8 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391) entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
-
-> Redacción anterior:
-
-> "Podrá autorizarse en el expediente matrimonial que el contrayente que no resida en el distrito o demarcación del Juez, Alcalde o funcionario autorizante celebre el matrimonio por apoderado a quien haya concedido poder especial en forma auténtica, pero siempre será necesaria la asistencia personal del otro contrayente.
-
-> En el poder se determinará la persona con quien ha de celebrarse el matrimonio, con expresión de las circunstancias personales precisas para establecer su identidad.
-
-> El poder se extinguirá por la revocación del poderdante, por la renuncia del apoderado o por la muerte de cualquiera de ellos. En caso de revocación por el poderdante bastará su manifestación en forma auténtica antes de la celebración del matrimonio. La revocación se notificará de inmediato al Juez, Alcalde o funcionario autorizante."
-
 > Se modifica por la disposición final 1.8 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
 
 > Esta modificación entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
@@ -948,14 +908,6 @@ Quienes deseen contraer matrimonio acreditarán previamente en acta o expediente
 
 El Letrado de la Administración de Justicia, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente, cuando sea necesario, podrá recabar de las Administraciones o entidades de iniciativa social de promoción y protección de los derechos de las personas con discapacidad, la provisión de apoyos humanos, técnicos y materiales que faciliten la emisión, interpretación y recepción del consentimiento del o los contrayentes. Solo en el caso excepcional de que alguno de los contrayentes presentare una condición de salud que, de modo evidente, categórico y sustancial, pueda impedirle prestar el consentimiento matrimonial pese a las medidas de apoyo, se recabará dictamen médico sobre su aptitud para prestar el consentimiento.
 
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 1.9 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391) entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
-
-> Redacción anterior:
-
-> "Quienes deseen contraer matrimonio acreditarán previamente, en expediente tramitado conforme a la legislación del Registro Civil, que reúnen los requisitos de capacidad establecidos en este Código.
-
-> Si alguno de los contrayentes estuviere afectado por deficiencias o anomalías psíquicas, se exigirá dictamen médico sobre su aptitud para prestar el consentimiento."
-
 > Se modifica por la disposición final 1.9 de la Ley 15/2015, de 2 de julio, en la redacción dada por el art. único.2 de la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
 
 > Esta modificación entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
@@ -969,14 +921,6 @@ El Letrado de la Administración de Justicia, Notario, Encargado del Registro Ci
 El matrimonio tramitado por el letrado o letrada de la Administración de Justicia o por personal funcionario consular o diplomático podrá celebrarse ante el mismo u otro distinto, o ante Alcalde o Concejal en quien este delegue, a elección de los contrayentes. Si se hubiere tramitado por el Encargado o Encargada del Registro Civil, el matrimonio deberá celebrarse ante el Alcalde o Concejal en quien éste delegue, que designen los contrayentes.
 
 Finalmente, si fuera el notario o la notaria quien hubiera extendido el acta matrimonial, los contrayentes podrán otorgar el consentimiento, a su elección, ante el mismo notario o notaria u otro distinto del que hubiera tramitado el acta previa, Alcalde o Concejal en quien este delegue.
-
-> Téngase en cuenta que este precepto, modificado por la disposición final 2.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "El matrimonio tramitado por el Secretario judicial o por funcionario consular o diplomático podrá celebrarse ante el mismo u otro distinto, o ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, a elección de los contrayentes. Si se hubiere tramitado por el Encargado del Registro Civil, el matrimonio deberá celebrarse ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, que designen los contrayentes.
-
-> Finalmente, si fuera el Notario quien hubiera extendido el acta matrimonial, los contrayentes podrán otorgar el consentimiento, a su elección, ante el mismo Notario u otro distinto del que hubiera tramitado el acta previa, el Juez de Paz, Alcalde o Concejal en quien éste delegue."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 2.4 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -993,12 +937,6 @@ Finalmente, si fuera el notario o la notaria quien hubiera extendido el acta mat
 **Artículo 58.**
 
 El Alcalde, Concejal, letrado o letrada de la Administración de Justicia, notario o notaria, o personal funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consiente en contraer matrimonio con el otro y si efectivamente lo contrae en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá el acta o autorizará la escritura correspondiente.
-
-> Téngase en cuenta que este precepto, modificado por la disposición final 2.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "El Juez de Paz, Alcalde, Concejal, Secretario judicial, Notario o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consiente en contraer matrimonio con el otro y si efectivamente lo contrae en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá el acta o autorizará la escritura correspondiente."
 
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 2.5 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -1068,14 +1006,6 @@ La celebración del matrimonio se hará constar mediante acta o escritura públi
 
 Extendida el acta o autorizada la escritura pública, se remitirá por el autorizante copia acreditativa de la celebración del matrimonio al Registro Civil competente, para su inscripción, previa calificación por el Encargado del mismo.
 
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 1.13 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391) entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
-
-> Redacción anterior:
-
-> "El Juez, Alcalde o funcionario ante quien se celebre el matrimonio extenderá, inmediatamente después de celebrado, la inscripción o el acta correspondiente con su firma y la de los contrayentes y testigos.
-
-> Asimismo, practicada la inscripción o extendida el acta, el Juez, Alcalde o funcionario entregará a cada uno de los contrayentes documento acreditativo de la celebración del matrimonio."
-
 > Se modifica por la disposición final 1.13 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
 
 > Esta modificación entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
@@ -1111,12 +1041,6 @@ Para el reconocimiento del matrimonio secreto basta su inscripción en el libro 
 En los casos en que el matrimonio se hubiere celebrado sin haberse tramitado el correspondiente expediente o acta previa, si éste fuera necesario, el Secretario judicial, Notario, o el funcionario diplomático o consular Encargado del Registro Civil que lo haya celebrado, antes de realizar las actuaciones que procedan para su inscripción, deberá comprobar si concurren los requisitos legales para su validez, mediante la tramitación del acta o expediente al que se refiere este artículo.
 
 Si la celebración del matrimonio hubiera sido realizada ante autoridad o persona competente distinta de las indicadas en el párrafo anterior, el acta de aquélla se remitirá al Encargado del Registro Civil del lugar de celebración para que proceda a la comprobación de los requisitos de validez, mediante el expediente correspondiente. Efectuada esa comprobación, el Encargado del Registro Civil procederá a su inscripción.
-
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 1.15 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391) entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil [Ref. BOE-A-2011-12628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12628), según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. [Ref. BOE-A-2017-7483](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-7483)
-
-> Redacción anterior:
-
-> "Salvo lo dispuesto en el artículo 63, en todos los demás casos en que el matrimonio se hubiere celebrado sin haberse tramitado el correspondiente expediente, el Juez o funcionario encargado del Registro, antes de practicar la inscripción, deberá comprobar si concurren los requisitos legales para su celebración."
 
 > Se modifica por la disposición final 1.15 de la Ley 15/2015, de 2 de julio. [Ref. BOE-A-2015-7391](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7391).
 
@@ -1205,12 +1129,6 @@ Es nulo cualquiera que sea la forma de su celebración:
 2.º El matrimonio celebrado entre las personas a que se refieren los artículos 46 y 47, salvo los casos de dispensa conforme al artículo 48.
 
 3.º El que se contraiga sin la intervención del Alcalde o Concejal, letrado o letrada de la Administración de Justicia, notario o notaria, o personal funcionario ante quien deba celebrarse, o sin la de los testigos.
-
-> Téngase en cuenta que este apartado 3, modificado por la disposición final 2.6 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
-
-> **Redacción anterior:**
-
-> "3.º El que se contraiga sin la intervención del Juez de Paz, Alcalde o Concejal, Secretario judicial, Notario o funcionario ante quien deba celebrarse, o sin la de los testigos."
 
 4.º El celebrado por error en la identidad de la persona del otro contrayente o en aquellas cualidades personales que, por su entidad, hubieren sido determinantes de la prestación del consentimiento.
 
@@ -14438,28 +14356,6 @@ Con relación a determinados bienes muebles del deudor, gozan de preferencia:
 
 Si los bienes muebles sobre que recae la preferencia hubieren sido sustraídos, el acreedor podrá reclamarlos de quien los tuviese, dentro del término de treinta días, contados desde que ocurrió la sustracción.
 
-> Téngase en cuenta que la última actualización del este artículo, establecida por la disposición final 1.1 del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 8 de julio de 2022, según determina su disposición final 10.a).
-
-> Redacción anterior:
-
-> "Con relación a determinados bienes muebles del deudor, gozan de preferencia:
-
-> 1.º Los créditos por construcción, reparación, conservación o precio de venta de bienes muebles que estén en poder del deudor, hasta donde alcance el valor de los mismos.
-
-> 2.º Los garantizados con prenda que se halle en poder del acreedor, sobre la cosa empeñada y hasta donde alcance su valor.
-
-> 3.º Los garantizados con fianza de efectos o valores, constituida en establecimiento público o mercantil, sobre la fianza y por el valor de los efectos de la misma.
-
-> 4.º Los créditos por transporte, sobre los efectos transportados, por el precio del mismo, gastos y derechos de conducción y conservación, hasta la entrega y durante treinta días después de ésta.
-
-> 5.º Los de hospedaje, sobre los muebles del deudor existentes en la posada.
-
-> 6.º Los créditos por semillas y gastos de cultivo y recolección anticipados al deudor, sobre los frutos de la cosecha para que sirvieron.
-
-> 7.º Los créditos por alquileres y rentas de un año, sobre los bienes muebles del arrendatario existentes en la finca arrendada y sobre los frutos de la misma.
-
-> Si los bienes muebles sobre que recae la preferencia hubieren sido sustraídos, el acreedor podrá reclamarlos de quien los tuviese, dentro del término de treinta días, contados desde que ocurrió la sustracción."
-
 > Se modifica por la disposición final 1.1 del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 8 de julio de 2022 según determina la disposición final 10.a) del citado Real Decreto-ley.
@@ -14479,22 +14375,6 @@ Con relación a determinados bienes inmuebles y derechos reales del deudor, goza
 5.º Los refaccionarios no anotados ni inscritos, sobre los inmuebles a que la refacción se refiera y sólo respecto a otros créditos distintos de los expresados en los cuatro números anteriores.
 
 6.º Los créditos a favor de los tenedores de bonos garantizados, respecto de los préstamos y créditos hipotecarios, y otros activos que los garanticen, integrados en el conjunto de cobertura, conforme al Real Decreto-ley 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes, hasta donde alcance su valor.
-
-> Téngase en cuenta que la última actualización del este artículo, establecida por la disposición final 1.2 del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 8 de julio de 2022, según determina su disposición final 10.a).
-
-> Redacción anterior:
-
-> Con relación a determinados bienes inmuebles y derechos reales del deudor, gozan de preferencia:
-
-> 1.º Los créditos a favor del Estado, sobre los bienes de los contribuyentes, por el importe de la última anualidad, vencida y no pagada, de los impuestos que graviten sobre ellos.
-
-> 2.º Los créditos de los aseguradores, sobre los bienes asegurados, por los premios del seguro de dos años; y, si fuere el seguro mutuo, por los dos últimos dividendos que se hubiesen repartido.
-
-> 3.º Los créditos hipotecarios y los refaccionarios, anotados e inscritos en el Registro de la Propiedad, sobre los bienes hipotecados o que hubiesen sido objeto de la refacción.
-
-> 4.º Los créditos preventivamente anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados, y sólo en cuanto a créditos posteriores.
-
-> 5.º Los refaccionarios no anotados ni inscritos, sobre los inmuebles a que la refacción se refiera y sólo respecto a otros créditos distintos de los expresados en los cuatro números anteriores.
 
 > Se modifica por la disposición final 1.2 del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 

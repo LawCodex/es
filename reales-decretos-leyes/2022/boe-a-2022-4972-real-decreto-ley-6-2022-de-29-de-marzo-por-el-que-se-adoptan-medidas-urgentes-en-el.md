@@ -1735,78 +1735,78 @@ Estarán exentas del canon de utilización de los bienes del dominio público hi
 
 1\. Al objeto de financiar estas ayudas, se aprueban los siguientes créditos extraordinarios en el presupuesto vigente del Ministerio de Agricultura, Pesca y Alimentación:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Aplicación</th>
-<th class="cabeza_tabla" rowspan="2">Importe</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
+<th colspan="5">Aplicación</th>
+<th rowspan="2">Importe</th>
+<th rowspan="2">Denominación</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Sección</th>
-<th class="cabeza_tabla">Organismo</th>
-<th class="cabeza_tabla">Servicio</th>
-<th class="cabeza_tabla">Programa</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Concepto</p>
-<p class="cabeza_tabla">Subconcepto</p>
+<th>Sección</th>
+<th>Organismo</th>
+<th>Servicio</th>
+<th>Programa</th>
+<th>
+<p>Concepto</p>
+<p>Subconcepto</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">103</td>
-<td class="cuerpo_tabla_centro">00</td>
-<td class="cuerpo_tabla_centro">412M</td>
-<td class="cuerpo_tabla_centro">476</td>
-<td class="cuerpo_tabla_centro">169.000.000,00</td>
-<td class="cuerpo_tabla_izq">Concesión de ayudas de Estado Marco temporal.</td>
+<td>21</td>
+<td>103</td>
+<td>00</td>
+<td>412M</td>
+<td>476</td>
+<td>169.000.000,00</td>
+<td>Concesión de ayudas de Estado Marco temporal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">103</td>
-<td class="cuerpo_tabla_centro">00</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">40003</td>
-<td class="cuerpo_tabla_centro">169.000.000,00</td>
-<td class="cuerpo_tabla_izq">Concesión de ayudas de Estado Marco temporal.</td>
+<td>21</td>
+<td>103</td>
+<td>00</td>
+<td> </td>
+<td>40003</td>
+<td>169.000.000,00</td>
+<td>Concesión de ayudas de Estado Marco temporal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">000</td>
-<td class="cuerpo_tabla_centro">04</td>
-<td class="cuerpo_tabla_centro">000X</td>
-<td class="cuerpo_tabla_centro">416</td>
-<td class="cuerpo_tabla_centro">169.000.000,00</td>
-<td class="cuerpo_tabla_izq">Concesión de ayudas de Estado Marco temporal.</td>
+<td>21</td>
+<td>000</td>
+<td>04</td>
+<td>000X</td>
+<td>416</td>
+<td>169.000.000,00</td>
+<td>Concesión de ayudas de Estado Marco temporal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">000</td>
-<td class="cuerpo_tabla_centro">05</td>
-<td class="cuerpo_tabla_centro">412C</td>
-<td class="cuerpo_tabla_centro">453</td>
-<td class="cuerpo_tabla_centro">128.980.506,00</td>
-<td class="cuerpo_tabla_izq">Aportación Nacional Complementaria a Fondos Europeos (art. 219 OCMA).</td>
+<td>21</td>
+<td>000</td>
+<td>05</td>
+<td>412C</td>
+<td>453</td>
+<td>128.980.506,00</td>
+<td>Aportación Nacional Complementaria a Fondos Europeos (art. 219 OCMA).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">000</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">415B</td>
-<td class="cuerpo_tabla_centro">472</td>
-<td class="cuerpo_tabla_centro">18.185.491,87</td>
-<td class="cuerpo_tabla_izq">Concesión de ayudas de Estado Marco temporal.</td>
+<td>21</td>
+<td>000</td>
+<td>11</td>
+<td>415B</td>
+<td>472</td>
+<td>18.185.491,87</td>
+<td>Concesión de ayudas de Estado Marco temporal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_centro">000</td>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">415B</td>
-<td class="cuerpo_tabla_centro">473</td>
-<td class="cuerpo_tabla_centro">35.000.000,00</td>
-<td class="cuerpo_tabla_izq">Ayudas directas de costes de producción adicionales.</td>
+<td>21</td>
+<td>000</td>
+<td>11</td>
+<td>415B</td>
+<td>473</td>
+<td>35.000.000,00</td>
+<td>Ayudas directas de costes de producción adicionales.</td>
 </tr>
 </tbody>
 </table>
@@ -2003,168 +2003,150 @@ c) Puesta en marcha de programas asistenciales que, en el contexto de la crisis 
 
 a) Precios de los términos de potencia:
 
-<table class="tabla">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Segmento tarifario</th>
-<th class="cabeza_tabla" colspan="6">Término de potencia de los cargos (€/kW año)</th>
+<th rowspan="2">Segmento tarifario</th>
+<th colspan="6">Término de potencia de los cargos (€/kW año)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Periodo 1</th>
-<th class="cabeza_tabla">Periodo 2</th>
-<th class="cabeza_tabla">Periodo 3</th>
-<th class="cabeza_tabla">Periodo 4</th>
-<th class="cabeza_tabla">Periodo 5</th>
-<th class="cabeza_tabla">Periodo 6</th>
+<th>Periodo 1</th>
+<th>Periodo 2</th>
+<th>Periodo 3</th>
+<th>Periodo 4</th>
+<th>Periodo 5</th>
+<th>Periodo 6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_coma">3,175787</td>
-<td class="cuerpo_tabla_coma">0,204242</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>3,175787</td>
+<td>0,204242</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_coma">3,946179</td>
-<td class="cuerpo_tabla_coma">1,974813</td>
-<td class="cuerpo_tabla_coma">1,434747</td>
-<td class="cuerpo_tabla_coma">1,434747</td>
-<td class="cuerpo_tabla_coma">1,434747</td>
-<td class="cuerpo_tabla_coma">0,657696</td>
+<td>2</td>
+<td>3,946179</td>
+<td>1,974813</td>
+<td>1,434747</td>
+<td>1,434747</td>
+<td>1,434747</td>
+<td>0,657696</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_coma">4,096305</td>
-<td class="cuerpo_tabla_coma">2,050010</td>
-<td class="cuerpo_tabla_coma">1,489566</td>
-<td class="cuerpo_tabla_coma">1,489566</td>
-<td class="cuerpo_tabla_coma">1,489566</td>
-<td class="cuerpo_tabla_coma">0,682718</td>
+<td>3</td>
+<td>4,096305</td>
+<td>2,050010</td>
+<td>1,489566</td>
+<td>1,489566</td>
+<td>1,489566</td>
+<td>0,682718</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_coma">2,405490</td>
-<td class="cuerpo_tabla_coma">1,204026</td>
-<td class="cuerpo_tabla_coma">0,874724</td>
-<td class="cuerpo_tabla_coma">0,874724</td>
-<td class="cuerpo_tabla_coma">0,874724</td>
-<td class="cuerpo_tabla_coma">0,400915</td>
+<td>4</td>
+<td>2,405490</td>
+<td>1,204026</td>
+<td>0,874724</td>
+<td>0,874724</td>
+<td>0,874724</td>
+<td>0,400915</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_coma">1,926031</td>
-<td class="cuerpo_tabla_coma">0,963837</td>
-<td class="cuerpo_tabla_coma">0,700266</td>
-<td class="cuerpo_tabla_coma">0,700266</td>
-<td class="cuerpo_tabla_coma">0,700266</td>
-<td class="cuerpo_tabla_coma">0,321005</td>
+<td>5</td>
+<td>1,926031</td>
+<td>0,963837</td>
+<td>0,700266</td>
+<td>0,700266</td>
+<td>0,700266</td>
+<td>0,321005</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">0,942150</td>
-<td class="cuerpo_tabla_coma">0,471468</td>
-<td class="cuerpo_tabla_coma">0,342600</td>
-<td class="cuerpo_tabla_coma">0,342600</td>
-<td class="cuerpo_tabla_coma">0,342600</td>
-<td class="cuerpo_tabla_coma">0,157025</td>
+<td>6</td>
+<td>0,942150</td>
+<td>0,471468</td>
+<td>0,342600</td>
+<td>0,342600</td>
+<td>0,342600</td>
+<td>0,157025</td>
 </tr>
 </tbody>
 </table>
 
 b) Precios de los términos de energía:
 
-<table class="tabla">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Segmento tarifario</th>
-<th class="cabeza_tabla" colspan="6">Término de energía de los cargos (€/kWh)</th>
+<th rowspan="2">Segmento tarifario</th>
+<th colspan="6">Término de energía de los cargos (€/kWh)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Periodo 1</th>
-<th class="cabeza_tabla">Periodo 2</th>
-<th class="cabeza_tabla">Periodo 3</th>
-<th class="cabeza_tabla">Periodo 4</th>
-<th class="cabeza_tabla">Periodo 5</th>
-<th class="cabeza_tabla">Periodo 6</th>
+<th>Periodo 1</th>
+<th>Periodo 2</th>
+<th>Periodo 3</th>
+<th>Periodo 4</th>
+<th>Periodo 5</th>
+<th>Periodo 6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_coma">0,046622</td>
-<td class="cuerpo_tabla_coma">0,009324</td>
-<td class="cuerpo_tabla_coma">0,002331</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td>0,046622</td>
+<td>0,009324</td>
+<td>0,002331</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_coma">0,025990</td>
-<td class="cuerpo_tabla_coma">0,019244</td>
-<td class="cuerpo_tabla_coma">0,010396</td>
-<td class="cuerpo_tabla_coma">0,005198</td>
-<td class="cuerpo_tabla_coma">0,003332</td>
-<td class="cuerpo_tabla_coma">0,002079</td>
+<td>2</td>
+<td>0,025990</td>
+<td>0,019244</td>
+<td>0,010396</td>
+<td>0,005198</td>
+<td>0,003332</td>
+<td>0,002079</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_coma">0,014132</td>
-<td class="cuerpo_tabla_coma">0,010468</td>
-<td class="cuerpo_tabla_coma">0,005653</td>
-<td class="cuerpo_tabla_coma">0,002826</td>
-<td class="cuerpo_tabla_coma">0,001812</td>
-<td class="cuerpo_tabla_coma">0,001131</td>
+<td>3</td>
+<td>0,014132</td>
+<td>0,010468</td>
+<td>0,005653</td>
+<td>0,002826</td>
+<td>0,001812</td>
+<td>0,001131</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_coma">0,006631</td>
-<td class="cuerpo_tabla_coma">0,004911</td>
-<td class="cuerpo_tabla_coma">0,002652</td>
-<td class="cuerpo_tabla_coma">0,001326</td>
-<td class="cuerpo_tabla_coma">0,000850</td>
-<td class="cuerpo_tabla_coma">0,000530</td>
+<td>4</td>
+<td>0,006631</td>
+<td>0,004911</td>
+<td>0,002652</td>
+<td>0,001326</td>
+<td>0,000850</td>
+<td>0,000530</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_coma">0,005435</td>
-<td class="cuerpo_tabla_coma">0,004026</td>
-<td class="cuerpo_tabla_coma">0,002174</td>
-<td class="cuerpo_tabla_coma">0,001087</td>
-<td class="cuerpo_tabla_coma">0,000697</td>
-<td class="cuerpo_tabla_coma">0,000435</td>
+<td>5</td>
+<td>0,005435</td>
+<td>0,004026</td>
+<td>0,002174</td>
+<td>0,001087</td>
+<td>0,000697</td>
+<td>0,000435</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">0,002065</td>
-<td class="cuerpo_tabla_coma">0,001530</td>
-<td class="cuerpo_tabla_coma">0,000826</td>
-<td class="cuerpo_tabla_coma">0,000413</td>
-<td class="cuerpo_tabla_coma">0,000265</td>
-<td class="cuerpo_tabla_coma">0,000165</td>
+<td>6</td>
+<td>0,002065</td>
+<td>0,001530</td>
+<td>0,000826</td>
+<td>0,000413</td>
+<td>0,000265</td>
+<td>0,000165</td>
 </tr>
 </tbody>
 </table>
@@ -2173,152 +2155,116 @@ b) Precios de los términos de energía:
 
 a) Puntos de recarga de vehículos eléctricos conectados en baja tensión (segmento tarifario 2 VE):
 
-<table class="tabla">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Segmento tarifario</th>
-<th class="cabeza_tabla" colspan="6">Término de potencia de los cargos (€/kW año)</th>
+<th rowspan="2">Segmento tarifario</th>
+<th colspan="6">Término de potencia de los cargos (€/kW año)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Periodo 1</th>
-<th class="cabeza_tabla">Periodo 2</th>
-<th class="cabeza_tabla">Periodo 3</th>
-<th class="cabeza_tabla">Periodo 4</th>
-<th class="cabeza_tabla">Periodo 5</th>
-<th class="cabeza_tabla">Periodo 6</th>
+<th>Periodo 1</th>
+<th>Periodo 2</th>
+<th>Periodo 3</th>
+<th>Periodo 4</th>
+<th>Periodo 5</th>
+<th>Periodo 6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2 VE</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>2 VE</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Segmento tarifario</th>
-<th class="cabeza_tabla" colspan="6">Término de energía de los cargos (€/kWh)</th>
+<th rowspan="2">Segmento tarifario</th>
+<th colspan="6">Término de energía de los cargos (€/kWh)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Periodo 1</th>
-<th class="cabeza_tabla">Periodo 2</th>
-<th class="cabeza_tabla">Periodo 3</th>
-<th class="cabeza_tabla">Periodo 4</th>
-<th class="cabeza_tabla">Periodo 5</th>
-<th class="cabeza_tabla">Periodo 6</th>
+<th>Periodo 1</th>
+<th>Periodo 2</th>
+<th>Periodo 3</th>
+<th>Periodo 4</th>
+<th>Periodo 5</th>
+<th>Periodo 6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2 VE</td>
-<td class="cuerpo_tabla_coma">0,055237</td>
-<td class="cuerpo_tabla_coma">0,040900</td>
-<td class="cuerpo_tabla_coma">0,022095</td>
-<td class="cuerpo_tabla_coma">0,011047</td>
-<td class="cuerpo_tabla_coma">0,007082</td>
-<td class="cuerpo_tabla_coma">0,004419</td>
+<td>2 VE</td>
+<td>0,055237</td>
+<td>0,040900</td>
+<td>0,022095</td>
+<td>0,011047</td>
+<td>0,007082</td>
+<td>0,004419</td>
 </tr>
 </tbody>
 </table>
 
 b) Puntos de recarga de vehículos eléctricos conectados en alta tensión (segmento tarifario 3 VE):
 
-<table class="tabla">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Segmento tarifario</th>
-<th class="cabeza_tabla" colspan="6">Término de potencia de los cargos (€/kW año)</th>
+<th rowspan="2">Segmento tarifario</th>
+<th colspan="6">Término de potencia de los cargos (€/kW año)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Periodo 1</th>
-<th class="cabeza_tabla">Periodo 2</th>
-<th class="cabeza_tabla">Periodo 3</th>
-<th class="cabeza_tabla">Periodo 4</th>
-<th class="cabeza_tabla">Periodo 5</th>
-<th class="cabeza_tabla">Periodo 6</th>
+<th>Periodo 1</th>
+<th>Periodo 2</th>
+<th>Periodo 3</th>
+<th>Periodo 4</th>
+<th>Periodo 5</th>
+<th>Periodo 6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">3 VE</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>3 VE</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Segmento tarifario</th>
-<th class="cabeza_tabla" colspan="6">Término de energía de los cargos (€/kWh)</th>
+<th rowspan="2">Segmento tarifario</th>
+<th colspan="6">Término de energía de los cargos (€/kWh)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Periodo 1</th>
-<th class="cabeza_tabla">Periodo 2</th>
-<th class="cabeza_tabla">Periodo 3</th>
-<th class="cabeza_tabla">Periodo 4</th>
-<th class="cabeza_tabla">Periodo 5</th>
-<th class="cabeza_tabla">Periodo 6</th>
+<th>Periodo 1</th>
+<th>Periodo 2</th>
+<th>Periodo 3</th>
+<th>Periodo 4</th>
+<th>Periodo 5</th>
+<th>Periodo 6</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">3 VE</td>
-<td class="cuerpo_tabla_coma">0,044490</td>
-<td class="cuerpo_tabla_coma">0,032955</td>
-<td class="cuerpo_tabla_coma">0,017797</td>
-<td class="cuerpo_tabla_coma">0,008897</td>
-<td class="cuerpo_tabla_coma">0,005705</td>
-<td class="cuerpo_tabla_coma">0,003561</td>
+<td>3 VE</td>
+<td>0,044490</td>
+<td>0,032955</td>
+<td>0,017797</td>
+<td>0,008897</td>
+<td>0,005705</td>
+<td>0,003561</td>
 </tr>
 </tbody>
 </table>

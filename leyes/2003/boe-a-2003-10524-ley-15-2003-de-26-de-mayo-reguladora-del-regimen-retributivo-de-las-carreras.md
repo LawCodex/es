@@ -483,142 +483,137 @@ Destinos correspondientes a órganos judiciales servidos por jueces.
 
 ## ANEXO II.2 — Complemento de destino de los miembros de la carrera judicial
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="72%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Cuantías mensuales en euros</th>
+<th rowspan="2"> </th>
+<th colspan="2">Cuantías mensuales en euros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Por el grupo de población</th>
-<th class="cabeza_tabla">Por representación</th>
+<th>Por el grupo de población</th>
+<th>Por representación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 1:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 1:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-<td class="cuerpo_tabla_coma">3.241,57</td>
-<td class="cuerpo_tabla_coma">3.714,25</td>
+<td>Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+<td>3.241,57</td>
+<td>3.714,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-<td class="cuerpo_tabla_coma">3.241,57</td>
-<td class="cuerpo_tabla_coma">2.105,70</td>
+<td>Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+<td>3.241,57</td>
+<td>2.105,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrado de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Magistrado de la Audiencia Nacional.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados del Gabinete Técnico del Tribunal Supremo.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Magistrados del Gabinete Técnico del Tribunal Supremo.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Presidente de Tribunal Superior de Justicia.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Presidentes y Magistrados de Audiencia Provincial.</td>
+<td>3.178,02</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces Centrales, Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Jueces Centrales, Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+<td>3.178,02</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 2:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 2:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">3.112,98</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Presidente de Tribunal Superior de Justicia.</td>
+<td>3.112,98</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
+<td>2.714,50</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Presidentes y Magistrados de Audiencia Provincial.</td>
+<td>2.714,50</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+<td>2.714,50</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 3:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 3:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">3.050,72</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Presidente de Tribunal Superior de Justicia.</td>
+<td>3.050,72</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Presidentes de Sala y Magistrados del Tribunal Superior de Justicia.</td>
+<td>2.568,25</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Presidentes y Magistrados de Audiencia Provincial.</td>
+<td>2.568,25</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+<td>2.568,25</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 4:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 4:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidentes y Magistrados de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Presidentes y Magistrados de Audiencia Provincial.</td>
+<td>2.256,29</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia.</td>
+<td>2.256,29</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 5:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 5:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces.</td>
-<td class="cuerpo_tabla_coma">2.084,29</td>
-<td class="cuerpo_tabla_coma">617,32</td>
+<td>Jueces.</td>
+<td>2.084,29</td>
+<td>617,32</td>
 </tr>
 </tbody>
 </table>
@@ -662,137 +657,132 @@ Destinos correspondientes a órganos judiciales servidos por jueces.
 
 ## ANEXO III — Complemento específico de los miembros de la carrera judicial, por responsabilidad y penosidad
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="75%">
-<col width="12%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Cuantías mensuales en euros</th>
+<th rowspan="2"> </th>
+<th colspan="2">Cuantías mensuales en euros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Por responsabilidad</th>
-<th class="cabeza_tabla">Por penosidad</th>
+<th>Por responsabilidad</th>
+<th>Por penosidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-<td class="cuerpo_tabla_coma">2.269,56</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+<td>2.269,56</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
-<td class="cuerpo_tabla_coma">525,35</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo).</td>
+<td>525,35</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Sala de Apelación de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">726,03</td>
+<td>Presidente de Sala de Apelación de la Audiencia Nacional.</td>
+<td>–</td>
+<td>726,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Sección de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_coma">140,18</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de Sección de la Audiencia Nacional.</td>
+<td>140,18</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados de Sala de Apelación de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">726,03</td>
+<td>Magistrados de Sala de Apelación de la Audiencia Nacional.</td>
+<td>–</td>
+<td>726,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados de Sala de lo Penal de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">660,02</td>
+<td>Magistrados de Sala de lo Penal de la Audiencia Nacional.</td>
+<td>–</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">404,76</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de Tribunal Superior de Justicia.</td>
+<td>404,76</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Sala de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">241,35</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de Sala de Tribunal Superior de Justicia.</td>
+<td>241,35</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">301,74</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de Audiencia Provincial.</td>
+<td>301,74</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidente de Sección de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">118,07</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidente de Sección de Audiencia Provincial.</td>
+<td>118,07</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces Centrales de Instrucción.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">846,74</td>
+<td>Jueces Centrales de Instrucción.</td>
+<td>186,87</td>
+<td>846,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces Centrales de lo Penal.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">846,74</td>
+<td>Jueces Centrales de lo Penal.</td>
+<td>186,87</td>
+<td>846,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces Centrales de Menores.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">846,74</td>
+<td>Jueces Centrales de Menores.</td>
+<td>186,87</td>
+<td>846,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces Centrales de Vigilancia Penitenciaria.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Jueces Centrales de Vigilancia Penitenciaria.</td>
+<td>186,87</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueces Centrales de lo Contencioso-Administrativo.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Jueces Centrales de lo Contencioso-Administrativo.</td>
+<td>186,87</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pte. de Sección y Magistrado de Audiencia Provincial con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Pte. de Sección y Magistrado de Audiencia Provincial con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
+<td>186,87</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Magistrados de lo Mercantil con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
-<td class="cuerpo_tabla_coma">186,87</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Magistrados de lo Mercantil con ámbito de marca comunitaria y jurisdicción en todo el territorio nacional.</td>
+<td>186,87</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia con liberación conforme al artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.</td>
-<td class="cuerpo_tabla_coma">326,98</td>
-<td class="cuerpo_tabla_centro">357,74</td>
+<td>Presidencia de Tribunal de Instancia con liberación conforme al artículo 166.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.</td>
+<td>326,98</td>
+<td>357,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con diez o más plazas judiciales.</td>
-<td class="cuerpo_tabla_coma">505,81</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con diez o más plazas judiciales.</td>
+<td>505,81</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con entre dos y nueve plazas judiciales.</td>
-<td class="cuerpo_tabla_coma">326,94</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Presidencia de Tribunal de Instancia, no liberado conforme al artículo 166.2 de la Ley Orgánica del Poder Judicial, con entre dos y nueve plazas judiciales.</td>
+<td>326,94</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presidencia de Sección de Tribunal de Instancia.</td>
-<td class="cuerpo_tabla_coma">118,07</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Presidencia de Sección de Tribunal de Instancia.</td>
+<td>118,07</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Decanos designados conforme al artículo 166.1 de la Ley Orgánica del Poder Judicial.</td>
-<td class="cuerpo_tabla_coma">326,94</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Decanos designados conforme al artículo 166.1 de la Ley Orgánica del Poder Judicial.</td>
+<td>326,94</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Decanos designados conforme al artículo 166.3 de la Ley Orgánica del Poder Judicial.</td>
-<td class="cuerpo_tabla_coma">326,94</td>
-<td class="cuerpo_tabla_centro">357,74</td>
+<td>Decanos designados conforme al artículo 166.3 de la Ley Orgánica del Poder Judicial.</td>
+<td>326,94</td>
+<td>357,74</td>
 </tr>
 </tbody>
 </table>
@@ -936,227 +926,222 @@ Resto de destinos correspondientes a la tercera categoría de fiscales, excepto 
 
 ## ANEXO V.2 — Complemento de destino de los miembros de la carrera fiscal
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="72%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Cuantías mensuales en euros</th>
+<th rowspan="2"> </th>
+<th colspan="2">Cuantías mensuales en euros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Por el grupo de población</th>
-<th class="cabeza_tabla">Por representación</th>
+<th>Por el grupo de población</th>
+<th>Por representación</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 1:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 1:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal y Fiscales de la Fiscalía ante el Tribunal Constitucional.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.159,12</td>
+<td>Teniente Fiscal y Fiscales de la Fiscalía ante el Tribunal Constitucional.</td>
+<td>3.178,02</td>
+<td>2.159,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales de la Fiscalía del Tribunal Supremo.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.159,12</td>
+<td>Fiscales de la Fiscalía del Tribunal Supremo.</td>
+<td>3.178,02</td>
+<td>2.159,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal y Fiscales de la Fiscalía de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal y Fiscales de la Fiscalía de la Audiencia Nacional.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior de Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Fiscal Superior de Comunidad Autónoma.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de Fiscalía de Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal de Fiscalía de Comunidad Autónoma.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal y Fiscales de la Fiscalía del Tribunal de Cuentas.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal y Fiscales de la Fiscalía del Tribunal de Cuentas.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal Inspector e Inspectores Fiscales de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal Inspector e Inspectores Fiscales de la Fiscalía General del Estado.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal y Fiscales de la Secretaría Técnica de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal y Fiscales de la Secretaría Técnica de la Fiscalía General del Estado.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales de la Unidad de Apoyo de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Fiscales de la Unidad de Apoyo de la Fiscalía General del Estado.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales adscritos a Fiscales de Sala de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Fiscales adscritos a Fiscales de Sala de la Fiscalía General del Estado.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal, Fiscales y Abogados Fiscales de la Fiscalía Especial Antidroga.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal, Fiscales y Abogados Fiscales de la Fiscalía Especial Antidroga.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal, Fiscales y Abogados Fiscales de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal, Fiscales y Abogados Fiscales de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada.</td>
+<td>3.178,02</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
+<td>3.178,02</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Coordinadores.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Coordinadores.</td>
+<td>3.178,02</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
+<td>3.178,02</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto de destinos de la segunda categoría.</td>
-<td class="cuerpo_tabla_coma">3.178,02</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Resto de destinos de la segunda categoría.</td>
+<td>3.178,02</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 2:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 2:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior de Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_coma">3.112,98</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Fiscal Superior de Comunidad Autónoma.</td>
+<td>3.112,98</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de Fiscalía de Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal de Fiscalía de Comunidad Autónoma.</td>
+<td>2.714,50</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
+<td>2.714,50</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de la Fiscalía de Área (excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe de la Fiscalía de Área (excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).</td>
+<td>2.714,50</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Coordinadores.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Coordinadores.</td>
+<td>2.714,50</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
+<td>2.714,50</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto de destinos de la segunda categoría.</td>
-<td class="cuerpo_tabla_coma">2.714,50</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Resto de destinos de la segunda categoría.</td>
+<td>2.714,50</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 3:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 3:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Superior de Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_coma">3.050,72</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Fiscal Superior de Comunidad Autónoma.</td>
+<td>3.050,72</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de Fiscalía de Comunidad Autónoma.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">2.071,95</td>
+<td>Teniente Fiscal de Fiscalía de Comunidad Autónoma.</td>
+<td>2.568,25</td>
+<td>2.071,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
+<td>2.568,25</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de la Fiscalía de Área (excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe de la Fiscalía de Área (excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).</td>
+<td>2.568,25</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Coordinadores.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Coordinadores.</td>
+<td>2.568,25</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
+<td>2.568,25</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto de destinos de la segunda categoría.</td>
-<td class="cuerpo_tabla_coma">2.568,25</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Resto de destinos de la segunda categoría.</td>
+<td>2.568,25</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 4:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 4:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe y Teniente Fiscal de Fiscalía Provincial.</td>
+<td>2.256,29</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de la Fiscalía de Área (Excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">2.003,49</td>
+<td>Fiscal Jefe de la Fiscalía de Área (Excepto donde exista Sección de la Audiencia Provincial en sede distinta de la capital de provincia).</td>
+<td>2.256,29</td>
+<td>2.003,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Coordinadores.</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Coordinadores.</td>
+<td>2.256,29</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">1.885,50</td>
+<td>Fiscales Decanos de secciones territoriales de Fiscalía Provincial.</td>
+<td>2.256,29</td>
+<td>1.885,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto de destinos de la segunda categoría.</td>
-<td class="cuerpo_tabla_coma">2.256,29</td>
-<td class="cuerpo_tabla_coma">1.327,69</td>
+<td>Resto de destinos de la segunda categoría.</td>
+<td>2.256,29</td>
+<td>1.327,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Grupo 5:</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> Grupo 5:</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resto de destinos de la tercera categoría.</td>
-<td class="cuerpo_tabla_coma">2.084,29</td>
-<td class="cuerpo_tabla_coma">617,32</td>
+<td>Resto de destinos de la tercera categoría.</td>
+<td>2.084,29</td>
+<td>617,32</td>
 </tr>
 </tbody>
 </table>
@@ -1203,117 +1188,112 @@ Resto de destinos correspondientes a la tercera categoría de fiscales, excepto 
 
 ## ANEXO VI — Complemento específico de los miembros de la carrera fiscal por responsabilidad y penosidad
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="72%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Cuantías mensuales en euros</th>
+<th rowspan="2"> </th>
+<th colspan="2">Cuantías mensuales en euros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Por responsabilidad</th>
-<th class="cabeza_tabla">Por penosidad</th>
+<th>Por responsabilidad</th>
+<th>Por penosidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">404,76</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Fiscal Jefe de Tribunal Superior de Justicia.</td>
+<td>404,76</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de Tribunal Superior de Justicia.</td>
-<td class="cuerpo_tabla_coma">241,35</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Teniente Fiscal de Tribunal Superior de Justicia.</td>
+<td>241,35</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscal Jefe de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">301,74</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Fiscal Jefe de Audiencia Provincial.</td>
+<td>301,74</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de Audiencia Provincial.</td>
-<td class="cuerpo_tabla_coma">118,07</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Teniente Fiscal de Audiencia Provincial.</td>
+<td>118,07</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal ante la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_coma">179,1</td>
-<td class="cuerpo_tabla_coma">660,02</td>
+<td>Teniente Fiscal ante la Audiencia Nacional.</td>
+<td>179,1</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales de la Audiencia Nacional.</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">660,02</td>
+<td>Fiscales de la Audiencia Nacional.</td>
+<td>–</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal ante el Tribunal Constitucional.</td>
-<td class="cuerpo_tabla_coma">334,73</td>
-<td class="cuerpo_tabla_coma">504,39</td>
+<td>Teniente Fiscal ante el Tribunal Constitucional.</td>
+<td>334,73</td>
+<td>504,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal Inspector de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">179,1</td>
-<td class="cuerpo_tabla_coma">379,86</td>
+<td>Teniente Fiscal Inspector de la Fiscalía General del Estado.</td>
+<td>179,1</td>
+<td>379,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales Inspectores de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">140,18</td>
-<td class="cuerpo_tabla_coma">379,86</td>
+<td>Fiscales Inspectores de la Fiscalía General del Estado.</td>
+<td>140,18</td>
+<td>379,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales de la Secretaria Técnica de la Fiscalía General del Estado.</td>
-<td class="cuerpo_tabla_coma">118,07</td>
-<td class="cuerpo_tabla_coma">379,86</td>
+<td>Fiscales de la Secretaria Técnica de la Fiscalía General del Estado.</td>
+<td>118,07</td>
+<td>379,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de la Fiscalía Especial de Prevención y Represión de Tráfico ilegal de Drogas.</td>
-<td class="cuerpo_tabla_coma">179,1</td>
-<td class="cuerpo_tabla_coma">660,02</td>
+<td>Teniente Fiscal de la Fiscalía Especial de Prevención y Represión de Tráfico ilegal de Drogas.</td>
+<td>179,1</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales y Abogados Fiscales de la Fiscalía Especial de Prevención y Represión de Tráfico ilegal de Drogas.</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">660,02</td>
+<td>Fiscales y Abogados Fiscales de la Fiscalía Especial de Prevención y Represión de Tráfico ilegal de Drogas.</td>
+<td>–</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal de la Fiscalía Especial de Represión de Delitos Económicos relacionados con la Corrupción.</td>
-<td class="cuerpo_tabla_coma">179,1</td>
-<td class="cuerpo_tabla_coma">660,02</td>
+<td>Teniente Fiscal de la Fiscalía Especial de Represión de Delitos Económicos relacionados con la Corrupción.</td>
+<td>179,1</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales y Abogados Fiscales de la Fiscalía Especial de Represión de Delitos Económicos relacionados con la Corrupción.</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">660,02</td>
+<td>Fiscales y Abogados Fiscales de la Fiscalía Especial de Represión de Delitos Económicos relacionados con la Corrupción.</td>
+<td>–</td>
+<td>660,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Teniente Fiscal ante el Tribunal de Cuentas.</td>
-<td class="cuerpo_tabla_coma">179,1</td>
-<td class="cuerpo_tabla_coma">379,86</td>
+<td>Teniente Fiscal ante el Tribunal de Cuentas.</td>
+<td>179,1</td>
+<td>379,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales ante el Tribunal de Cuentas.</td>
-<td class="cuerpo_tabla_coma">–</td>
-<td class="cuerpo_tabla_coma">379,86</td>
+<td>Fiscales ante el Tribunal de Cuentas.</td>
+<td>–</td>
+<td>379,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales coordinadores.</td>
-<td class="cuerpo_tabla_coma">118,07</td>
-<td class="cuerpo_tabla_coma">–</td>
+<td>Fiscales coordinadores.</td>
+<td>118,07</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales del Tribunal Supremo.</td>
-<td class="cuerpo_tabla_coma">326,93</td>
-<td class="cuerpo_tabla_coma">504,39</td>
+<td>Fiscales del Tribunal Supremo.</td>
+<td>326,93</td>
+<td>504,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fiscales del Tribunal Constitucional.</td>
-<td class="cuerpo_tabla_coma">326,93</td>
-<td class="cuerpo_tabla_coma">504,39</td>
+<td>Fiscales del Tribunal Constitucional.</td>
+<td>326,93</td>
+<td>504,39</td>
 </tr>
 </tbody>
 </table>

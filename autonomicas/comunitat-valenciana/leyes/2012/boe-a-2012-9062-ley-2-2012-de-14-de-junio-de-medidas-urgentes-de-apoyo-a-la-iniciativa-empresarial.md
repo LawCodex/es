@@ -460,343 +460,343 @@ Valencia, 14 de junio de 2012.–El President de la Generalitat, Alberto Fabra P
 
 ## ANEXO — Líneas presupuestarias para el apoyo a los emprendedores y el fomento del emprendimiento en el ejercicio 2012
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Programa</p>
+<p>Programa</p>
 </td>
 <td>
-<p class="cabeza_tabla">Línea/aplicación presupuestaria 2012</p>
+<p>Línea/aplicación presupuestaria 2012</p>
 </td>
 <td>
-<p class="cabeza_tabla">Cuantía económica</p>
+<p>Cuantía económica</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">315.10</p>
+<p>315.10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T5266</p>
+<p>T5266</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.382.310,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">315.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T7356</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100.000,00</p>
+<p>2.382.310,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">315.10</p>
+<p>315.10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T2242</p>
+<p>T7356</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">700.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.51</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T0212</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13.767.000,00</p>
+<p>100.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322.51</p>
+<p>315.10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T2446</p>
+<p>T2242</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.51</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T2941</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11.722.000,00</p>
+<p>700.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322.51</p>
+<p>322.51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T7954</p>
+<p>T0212</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.500.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.53</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T7705</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">550.000,00</p>
+<p>13.767.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322.53</p>
+<p>322.51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T7708</p>
+<p>T2446</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">280.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.53</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T7714</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">250.000,00</p>
+<p>3.000.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322.53</p>
+<p>322.51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T7715</p>
+<p>T2941</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">450.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.53</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T7725</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">537.200,00</p>
+<p>11.722.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322.53</p>
+<p>322.51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T7726</p>
+<p>T7954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">770.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.53</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T7728</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">512.600,00</p>
+<p>6.500.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">322.53</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T7957</p>
+<p>T7705</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.500.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">322.53</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T7958</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">770.000,00</p>
+<p>550.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">612.60</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T1387</p>
+<p>T7708</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.500.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">612.60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T2683</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">266.050,00</p>
+<p>280.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">AVFGA</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">SE833000</p>
+<p>T7714</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">910.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">714.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T6145</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.100.000,00</p>
+<p>250.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">AVFGA</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">SE833000</p>
+<p>T7715</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">751.10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X0153</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.016.700,00</p>
+<p>450.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">761.10</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T5799000</p>
+<p>T7725</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IMPIVA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T6906000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.566.660,00</p>
+<p>537.200,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IMPIVA</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T6907000</p>
+<p>T7726</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.900.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IMPIVA</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">T8004000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.332.000,00</p>
+<p>770.000,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IMPIVA</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T6721000</p>
+<p>T7728</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.850.000,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IVEX, S.A.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000.000,00</p>
+<p>512.600,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IVF</p>
+<p>322.53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>T7957</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.250.000,00</p>
+<p>1.500.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>322.53</p>
+</td>
+<td>
+<p>T7958</p>
+</td>
+<td>
+<p>770.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>612.60</p>
+</td>
+<td>
+<p>T1387</p>
+</td>
+<td>
+<p>3.500.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>612.60</p>
+</td>
+<td>
+<p>T2683</p>
+</td>
+<td>
+<p>266.050,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AVFGA</p>
+</td>
+<td>
+<p>SE833000</p>
+</td>
+<td>
+<p>910.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>714.10</p>
+</td>
+<td>
+<p>T6145</p>
+</td>
+<td>
+<p>8.100.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AVFGA</p>
+</td>
+<td>
+<p>SE833000</p>
+</td>
+<td>
+<p>300.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>751.10</p>
+</td>
+<td>
+<p>X0153</p>
+</td>
+<td>
+<p>1.016.700,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>761.10</p>
+</td>
+<td>
+<p>T5799000</p>
+</td>
+<td>
+<p>1.000.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IMPIVA</p>
+</td>
+<td>
+<p>T6906000</p>
+</td>
+<td>
+<p>1.566.660,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IMPIVA</p>
+</td>
+<td>
+<p>T6907000</p>
+</td>
+<td>
+<p>2.900.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IMPIVA</p>
+</td>
+<td>
+<p>T8004000</p>
+</td>
+<td>
+<p>2.332.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IMPIVA</p>
+</td>
+<td>
+<p>T6721000</p>
+</td>
+<td>
+<p>7.850.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IVEX, S.A.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1.000.000,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IVF</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>10.250.000,00</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Total</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84.782.520,00</p>
+<p>84.782.520,00</p>
 </td>
 </tr>
 </table>

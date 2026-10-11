@@ -290,12 +290,6 @@ Dicho resultado se cotejará con la aplicación OPPES, u otras fuentes oficiales
 
 4\. En el caso de los PPYC, la convocatoria dispondrá otorgar un anticipo de entre un 25 % y un 35 % del importe aprobado del PPYC. Con posterioridad a la concesión del anticipo no se aceptarán modificaciones de los PPYC que supongan una disminución del importe de la ayuda por debajo del total del 50 % del importe aprobado del PPYC. El pago restante quedará condicionado a la justificación de la totalidad de los gastos, una vez efectuadas todas las comprobaciones necesarias por parte del órgano concedente. Potestativamente en el caso de las ayudas a los PPYC, las Administraciones competentes podrán efectuar pagos fraccionados en los porcentajes establecidos en sus convocatorias previamente justificados de los gastos efectuados de manera adicional a los anticipos.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.seis.3 del Real Decreto 786/2023, de 17 de octubre, [Ref. BOE-A-2023-21477](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21477), entra en vigor el 2 de enero de 2024, según determina su disposición final cuarta, redactada conforme a la corrección de errores publicada en el BOE núm. 256, de 26 de octubre de 2023. [Ref. BOE-A-2023-21925](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21925)
-
-> Redacción anterior:
-
-> "4. Potestativamente, y siempre que así lo recoja la convocatoria, las Administraciones competentes podrán otorgar anticipos según lo dispuesto en el artículo 66.4 del FEMP, de entre un 50 y un 100 % de los costes elegibles, previendo, en su caso, la constitución de garantías según establezca su normativa de aplicación, cuando sea consecuencia del COVID-19. En caso contrario, se aplicará el porcentaje que establezca el FEMP o fondo que le substituya."
-
 5\. En el caso de la preparación del PPYC y, en su caso, de cada informe anual, los gastos subvencionables anualmente no podrán ser superiores a 5.000 euros por cada documento. A estos efectos, las revisiones de los PPYC anuales y los de la primera anualidad de los PPYC plurianuales no se considerarán como un documento adicional sujeto a subvencionabilidad.
 
 6\. En el caso de la aplicación de los PPYC, cuando las medidas tengan carácter económico, serán subvencionables en cada medida tanto las actividades del titular del proyecto como las actividades de gestión del proyecto indicadas en el anexo, si así se ha reflejado en la resolución de aprobación del PPYC y del informe anual.
@@ -529,18 +523,6 @@ Los criterios para la valoración de los distintos tipos de actuaciones que se c
 1\. El pago de las ayudas se realizará con posterioridad a la realización y justificación de la actividad objeto de ayuda.
 
 2\. Sin perjuicio de lo establecido en el apartado anterior, en el caso de los PPYC, la convocatoria dispondrá otorgar un anticipo de entre un 25 % y un 35 % del importe aprobado del PPYC, sin necesidad de constituir aval bancario. Con posterioridad a la concesión del anticipo no se aceptarán modificaciones de los PPYC que supongan una disminución por debajo del total del 50 % del importe aprobado del PPYC. El pago restante quedará condicionado a la justificación de la totalidad de los gastos, una vez efectuadas todas las comprobaciones necesarias por parte del órgano concedente. Potestativamente en el caso de las ayudas a los PPYC, se podrán efectuar pagos fraccionados en los porcentajes establecidos en sus convocatorias previamente justificados de los gastos efectuados de manera adicional a los anticipos.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por el art. único.quince.1 del Real Decreto 786/2023, de 17 de octubre, [Ref. BOE-A-2023-21477](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21477), entra en vigor el 2 de enero de 2024, según determina su disposición final cuarta, redactada conforme a la corrección de errores publicada en el BOE núm. 256, de 26 de octubre de 2023. [Ref. BOE-A-2023-21925](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-21925)
-
-> Redacción anterior:
-
-> "2. Sin perjuicio de lo establecido en el párrafo anterior y de acuerdo a lo establecido en el artículo 66 del Reglamento FEMP, en el caso de los PPYC, la convocatoria podrá disponer la posibilidad de otorgar un anticipo de entre un 50 y un 100 % de los costes elegibles, tras la aprobación del PPYC.
-
-> **(Párrafo segundo derogado)***
-
-> Con posterioridad a la concesión del anticipo no se aceptarán modificaciones de los PPYC que supongan una disminución del importe de la ayuda anticipada."
-
-> (*) El párrafo segundo del apartado 2 se deroga, con efectos de 19 de octubre de 2023, por la disposición derogatoria única del citado Real Decreto 786/2023, de 17 de octubre.
 
 3\. La utilización de la figura del pago anticipado se ajustará al principio de eficiencia en la asignación y utilización de los recursos públicos contemplado en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
 

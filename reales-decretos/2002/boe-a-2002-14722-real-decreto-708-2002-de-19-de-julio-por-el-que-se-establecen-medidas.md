@@ -450,243 +450,243 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 ## 1. Extensión de la producción agraria
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1.1</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones cuyas parcelas se encuentren ubicadas en comarcas con Índice de Barbecho superior a 10, según la regionalización productiva española (Real Decreto 1893/1999). Este índice podrá ser elevado por la comunidad autónoma.</p>
-<p class="cuerpo_tabla_izq">Las superficies beneficiarias no habrán sido objeto de roturación o descuaje de vegetación natural con posterioridad al 31 de julio de 1992, salvo autorización por parte de la autoridad competente.</p>
+<p>Titulares de explotaciones cuyas parcelas se encuentren ubicadas en comarcas con Índice de Barbecho superior a 10, según la regionalización productiva española (Real Decreto 1893/1999). Este índice podrá ser elevado por la comunidad autónoma.</p>
+<p>Las superficies beneficiarias no habrán sido objeto de roturación o descuaje de vegetación natural con posterioridad al 31 de julio de 1992, salvo autorización por parte de la autoridad competente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mejora del barbecho tradicional: barbecho agroambiental.</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida cada comunidad atónoma en que se aplique, se constituirá un comité técnico encargado de fijar criterios y calendarios de aprovechamientos para todas las medidas encuadradas en el epígrafe 1.1.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">No realizar cultivos herbáceos durante cinco años, en una superficie mínima de acogida de 1 ha.</p>
-<p class="cuerpo_tabla_izq">Mantener la superficie de rastrojo al menos cinco meses.</p>
-<p class="cuerpo_tabla_izq">No utilizar productos fitosanitarios durante el período de no cultivo, salvo casos excepcionales establecidos por las comunidades autónomas y autorizados por el comité técnico.</p>
-<p class="cuerpo_tabla_izq">Aprovechamiento de pastos y rastrojeras. con respeto del calendario anual obligatorio de laboreo y de limitación del pastoreo, sin exceder el 80 %, que determine el comité técnico.</p>
-<p class="cuerpo_tabla_izq">Prohibición de cosechar el cereal durante la noche para evitar la muerte de aves.</p>
-<p class="cuerpo_tabla_izq">Incompatibilidades: estas medidas serán incompatibles con las correspondientes al epígrafe 9.1, Mejora y conservación del medio físico, y a las del epígrafe 1.2, Sistemas de extensificación para la protección de flora y fauna.</p>
+<p>Mejora del barbecho tradicional: barbecho agroambiental.</p>
+<p>Antes de la puesta en marcha de la medida cada comunidad atónoma en que se aplique, se constituirá un comité técnico encargado de fijar criterios y calendarios de aprovechamientos para todas las medidas encuadradas en el epígrafe 1.1.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>No realizar cultivos herbáceos durante cinco años, en una superficie mínima de acogida de 1 ha.</p>
+<p>Mantener la superficie de rastrojo al menos cinco meses.</p>
+<p>No utilizar productos fitosanitarios durante el período de no cultivo, salvo casos excepcionales establecidos por las comunidades autónomas y autorizados por el comité técnico.</p>
+<p>Aprovechamiento de pastos y rastrojeras. con respeto del calendario anual obligatorio de laboreo y de limitación del pastoreo, sin exceder el 80 %, que determine el comité técnico.</p>
+<p>Prohibición de cosechar el cereal durante la noche para evitar la muerte de aves.</p>
+<p>Incompatibilidades: estas medidas serán incompatibles con las correspondientes al epígrafe 9.1, Mejora y conservación del medio físico, y a las del epígrafe 1.2, Sistemas de extensificación para la protección de flora y fauna.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,87 €</p>
+<p>40,87 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>1.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Prima complementaria de la 1.1, consistente en dejar sobre el terreno la paja de cereal en al menos el 50% de la superficie.</em>
 </p>
-<p class="cuerpo_tabla_izq">Compromisos:</p>
-<p class="cuerpo_tabla_izq">Mantenimiento del rastrojo en todas las parcelas destinadas a barbecho medioambiental.</p>
-<p class="cuerpo_tabla_izq">Picar y dejar la paja sobre el terreno en, al menos, el 50 % de la superficie de dichas parcelas.</p>
-<p class="cuerpo_tabla_izq">Pastoreo limitado y controlado según las recomendaciones del Comité Técnico.</p>
+<p>Compromisos:</p>
+<p>Mantenimiento del rastrojo en todas las parcelas destinadas a barbecho medioambiental.</p>
+<p>Picar y dejar la paja sobre el terreno en, al menos, el 50 % de la superficie de dichas parcelas.</p>
+<p>Pastoreo limitado y controlado según las recomendaciones del Comité Técnico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">19,23 €</p>
+<p>19,23 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>1.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Incremento del índice de barbecho tradicional.</em>
 </p>
-<p class="cuerpo_tabla_izq">Se incrementará el índice de barbecho con respecto al mínimo fijado para la comarca en cuestión, según determina el documento de regionalización para España (Real Decreto 1893/1999).</p>
-<p class="cuerpo_tabla_izq">Antes de pedir la declaración de cultivos herbáceos se retirará esta superficie acogida.</p>
+<p>Se incrementará el índice de barbecho con respecto al mínimo fijado para la comarca en cuestión, según determina el documento de regionalización para España (Real Decreto 1893/1999).</p>
+<p>Antes de pedir la declaración de cultivos herbáceos se retirará esta superficie acogida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">81,74 €</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones agrarias que posean parcelas dedicadas a la producción de cultivos herbáceos de secano desde, al menos, el 31 de julio de 1992, que se acojan durante cinco años a los compromisos establecidos en esta medida.</p>
-<p class="cuerpo_tabla_izq">Podrá exigirse que los solicitantes sometan a los compromisos de esta medida a todas las parcelas de la explotación, si de este modo se asegura un mayor beneficio medioambiental.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Sistemas de extensificación para la protección de la flora y la fauna.</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida cada comunidad autónoma en que se aplique constituirá un comité técnico encargado de fijar criterios y calendarios de aprovechamientos para todas las medidas encuadradas en este epígrafe.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar un cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Utilizar semillas que no contengan productos fitosanitarios que pongan en peligro la supervivencia de la avifauna esteparia, categoría toxicológica AAA o AAB.</p>
-<p class="cuerpo_tabla_izq">El enterrado del rastrojo se llevará a cabo en la fecha que determine el comité técnico.</p>
-<p class="cuerpo_tabla_izq">Mantener linderos e islas de vegetación espontánea en, al menos, un tres % de la explotación, en forma de fajas lineales o bosquetes. Dicha superficie permanecerá sin cultivar durante el período de duración de los compromisos y podrá computar como barbecho tradicional a efectos de la declaración de cultivos herbáceos.</p>
-<p class="cuerpo_tabla_izq">Respetar el calendario de prácticas agrícolas (recolección y alzado de los rastrojos que fijará el comité técnico en función de los períodos de nidificación).</p>
-<p class="cuerpo_tabla_izq">Incremento en la dosis de semilla en 20 kg/ha, para compensar las pérdidas producidas por las aves.</p>
-<p class="cuerpo_tabla_izq">Incompatibilidad con 9.1 y 1.1.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,89 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>81,74 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>1.2</p>
+</td>
+<td>
+<p>Titulares de explotaciones agrarias que posean parcelas dedicadas a la producción de cultivos herbáceos de secano desde, al menos, el 31 de julio de 1992, que se acojan durante cinco años a los compromisos establecidos en esta medida.</p>
+<p>Podrá exigirse que los solicitantes sometan a los compromisos de esta medida a todas las parcelas de la explotación, si de este modo se asegura un mayor beneficio medioambiental.</p>
+</td>
+<td>
+<p>Sistemas de extensificación para la protección de la flora y la fauna.</p>
+<p>Antes de la puesta en marcha de la medida cada comunidad autónoma en que se aplique constituirá un comité técnico encargado de fijar criterios y calendarios de aprovechamientos para todas las medidas encuadradas en este epígrafe.</p>
+<p>Mantener y actualizar un cuaderno de explotación.</p>
+<p>Utilizar semillas que no contengan productos fitosanitarios que pongan en peligro la supervivencia de la avifauna esteparia, categoría toxicológica AAA o AAB.</p>
+<p>El enterrado del rastrojo se llevará a cabo en la fecha que determine el comité técnico.</p>
+<p>Mantener linderos e islas de vegetación espontánea en, al menos, un tres % de la explotación, en forma de fajas lineales o bosquetes. Dicha superficie permanecerá sin cultivar durante el período de duración de los compromisos y podrá computar como barbecho tradicional a efectos de la declaración de cultivos herbáceos.</p>
+<p>Respetar el calendario de prácticas agrícolas (recolección y alzado de los rastrojos que fijará el comité técnico en función de los períodos de nidificación).</p>
+<p>Incremento en la dosis de semilla en 20 kg/ha, para compensar las pérdidas producidas por las aves.</p>
+<p>Incompatibilidad con 9.1 y 1.1.</p>
+</td>
+<td>
+<p>55,89 €</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>1.2.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Barbecho semilado con leguminosas.</em>
 </p>
-<p class="cuerpo_tabla_izq">Siembra de leguminosas para su utilización en la alimentación de las aves, con enterrado en verde o pastoreo controlado, según determinaciones del comité técnico. No se permitirá ningún otro aprovechamiento.</p>
-<p class="cuerpo_tabla_izq">No utilizar abonos ni productos fitosanitarios durante el período de duración del barbecho semillado y su aprovechamiento.</p>
+<p>Siembra de leguminosas para su utilización en la alimentación de las aves, con enterrado en verde o pastoreo controlado, según determinaciones del comité técnico. No se permitirá ningún otro aprovechamiento.</p>
+<p>No utilizar abonos ni productos fitosanitarios durante el período de duración del barbecho semillado y su aprovechamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,08 €</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones que se comprometan a la siembra de girasol al menos durante cinco años. Deberán cumplir los requisitos para optar al pago por superficie del cultivo del girasol. Las superficies referidas que hayan percibido pago compensatorio por el girasol en secano durante alguna de las campañas del período 1995 a 1998/1999.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actuaciones agroambientales en la rotación de cultivos: el girasol de secano en la rotación.</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de esta medida se creará un comité técnico.</p>
-<p class="cuerpo_tabla_izq">Llevar un cuaderno de campo en el que se relacionen todas las parcelas, su utilización, labores, tratamientos, etc.</p>
-<p class="cuerpo_tabla_izq">Establecer un plan de rotación de toda la explotación que deberá ser aprobado por la comunidad autónoma.</p>
-<p class="cuerpo_tabla_izq">Establecer un plan de cultivos anual para las parcelas.</p>
-<p class="cuerpo_tabla_izq">Acreditar el respeto a la rotación de cultivos, excluyendo las parcelas sembradas de girasol en la campaña anterior; con un margen de tolerancia del 25% de la superficie de acogida.</p>
-<p class="cuerpo_tabla_izq">Sobre los rastrojos del cereal precedente puede realizarse un pastoreo controlado, según lo establecido en el código 9.1, previo al enterrado.</p>
-<p class="cuerpo_tabla_izq">Realizar la siembra en dosis no inferiores a 3,250 kg por hectárea.</p>
-<p class="cuerpo_tabla_izq">Comprometerse a no realizar escarificado y/o escarda química en el cultivo del girasol, a excepción de los casos de siembra directa o mínimo laboreo y siempre con herbicidas de baja toxicidad, clasificados AAA o AAB.</p>
-<p class="cuerpo_tabla_izq">El cañote del girasol debe triturarse y enterrarse.</p>
-<p class="cuerpo_tabla_izq">Mantener los linderos existentes al inicio del compromiso para protección de la flora y fauna.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">60,1 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>45,08 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1.4</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotación que se comprometan, durante cinco años, a retirar de la producción una superficie mínima de 1 ha. Las superficies beneficiarias no habrán sido objeto de roturación o descuaje de vegetación natural con posterioridad al 31 de julio de 1992, salvo autorización por parte de la autoridad competente.</p>
+<p>Titulares de explotaciones que se comprometan a la siembra de girasol al menos durante cinco años. Deberán cumplir los requisitos para optar al pago por superficie del cultivo del girasol. Las superficies referidas que hayan percibido pago compensatorio por el girasol en secano durante alguna de las campañas del período 1995 a 1998/1999.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Retirada de tierras de la producción para la creación de espacios reservados para la fauna y conservación de la biodiversidad.</p>
-<p class="cuerpo_tabla_izq">Antes de la aplicación de la medida se creará un comité técnico para el mejor fin y cumplimiento de la medida.</p>
-<p class="cuerpo_tabla_izq">Llevar un cuaderno de explotación en el que se recogerán todas las actuaciones que se realicen en la parcela.</p>
-<p class="cuerpo_tabla_izq">La superficie acogida será de, al menos, una hectárea y haber estado dedicada al cultivo o aprovechamiento ganadero durante los últimos cinco años, demostrada con la presentación de las cinco últimas declaraciones de ayudas por superficie y superficies forrajeras.</p>
-<p class="cuerpo_tabla_izq">Realizar las actuaciones de mantenimiento necesarias para evitar la erosión, riesgo de incendios y deterioro de la cubierta vegetal: podas del arbolado, desbroces mecánicos del material arbustivo que supere el 30% de la superficie, etc.</p>
-<p class="cuerpo_tabla_izq">Prohibición del uso de agroquímicos.</p>
-<p class="cuerpo_tabla_izq">Únicamente se podrá llevar a cabo un pastoreo controlado en las fechas y condiciones determinadas por el comité técnico.</p>
+<p>Actuaciones agroambientales en la rotación de cultivos: el girasol de secano en la rotación.</p>
+<p>Antes de la puesta en marcha de esta medida se creará un comité técnico.</p>
+<p>Llevar un cuaderno de campo en el que se relacionen todas las parcelas, su utilización, labores, tratamientos, etc.</p>
+<p>Establecer un plan de rotación de toda la explotación que deberá ser aprobado por la comunidad autónoma.</p>
+<p>Establecer un plan de cultivos anual para las parcelas.</p>
+<p>Acreditar el respeto a la rotación de cultivos, excluyendo las parcelas sembradas de girasol en la campaña anterior; con un margen de tolerancia del 25% de la superficie de acogida.</p>
+<p>Sobre los rastrojos del cereal precedente puede realizarse un pastoreo controlado, según lo establecido en el código 9.1, previo al enterrado.</p>
+<p>Realizar la siembra en dosis no inferiores a 3,250 kg por hectárea.</p>
+<p>Comprometerse a no realizar escarificado y/o escarda química en el cultivo del girasol, a excepción de los casos de siembra directa o mínimo laboreo y siempre con herbicidas de baja toxicidad, clasificados AAA o AAB.</p>
+<p>El cañote del girasol debe triturarse y enterrarse.</p>
+<p>Mantener los linderos existentes al inicio del compromiso para protección de la flora y fauna.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>60,1 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>1.4</p>
+</td>
+<td>
+<p>Titulares de explotación que se comprometan, durante cinco años, a retirar de la producción una superficie mínima de 1 ha. Las superficies beneficiarias no habrán sido objeto de roturación o descuaje de vegetación natural con posterioridad al 31 de julio de 1992, salvo autorización por parte de la autoridad competente.</p>
+</td>
+<td>
+<p>Retirada de tierras de la producción para la creación de espacios reservados para la fauna y conservación de la biodiversidad.</p>
+<p>Antes de la aplicación de la medida se creará un comité técnico para el mejor fin y cumplimiento de la medida.</p>
+<p>Llevar un cuaderno de explotación en el que se recogerán todas las actuaciones que se realicen en la parcela.</p>
+<p>La superficie acogida será de, al menos, una hectárea y haber estado dedicada al cultivo o aprovechamiento ganadero durante los últimos cinco años, demostrada con la presentación de las cinco últimas declaraciones de ayudas por superficie y superficies forrajeras.</p>
+<p>Realizar las actuaciones de mantenimiento necesarias para evitar la erosión, riesgo de incendios y deterioro de la cubierta vegetal: podas del arbolado, desbroces mecánicos del material arbustivo que supere el 30% de la superficie, etc.</p>
+<p>Prohibición del uso de agroquímicos.</p>
+<p>Únicamente se podrá llevar a cabo un pastoreo controlado en las fechas y condiciones determinadas por el comité técnico.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>1.4.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Retirada de tierras en herbáceos en secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138,23 €</p>
+<p>138,23 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>1.4.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Retirada de cultivos leñosos de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">270,46 €</p>
+<p>270,46 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -694,380 +694,380 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **2. Variedades autóctonas vegetales en riesgo de erosión genética**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2.1</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones que pertenezcan a asociaciones o agrupaciones de agricultores, productores y/o comercializadores, que tengan como objetivo la conservación o el mantenimiento de los cultivos tradicionales y/o en peligro de extinción y cultiven alguna de las variedades que sean determinadas al efecto por la administración gestora como en riesgo de erosión genética.</p>
+<p>Titulares de explotaciones que pertenezcan a asociaciones o agrupaciones de agricultores, productores y/o comercializadores, que tengan como objetivo la conservación o el mantenimiento de los cultivos tradicionales y/o en peligro de extinción y cultiven alguna de las variedades que sean determinadas al efecto por la administración gestora como en riesgo de erosión genética.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variedades autóctonas vegetales en riesgo de erosión genética con racionalización en el uso de productos químicos.</p>
-<p class="cuerpo_tabla_izq">Se crea un comité técnico de asesoramiento.</p>
-<p class="cuerpo_tabla_izq">Cumplimentar un libro o cuaderno de control.</p>
-<p class="cuerpo_tabla_izq">Selección y protección de algunas especies autóctonas y de interés ecológico en riesgo de erosión genética, incluidas en el anejo 9.3.III.</p>
-<p class="cuerpo_tabla_izq">Disponer y dedicar al cultivo en riesgo de erosión genética una superficie mínima de 0,3 ha.</p>
-<p class="cuerpo_tabla_izq">Presentar un programa o memoria del proyecto.</p>
-<p class="cuerpo_tabla_izq">Presentar datos fehacientes de erosión genética.</p>
-<p class="cuerpo_tabla_izq">Racionalizar el uso de productos químicos, reduciendo al menos un 20% la aplicación de productos fertilizantes y/o fitosanitarios, en relación a los que figuran en el anejo 9.3.VI como tabla de referencia de la medida 3.1.</p>
-<p class="cuerpo_tabla_izq">Reducción del contenido en residuos tóxicos hasta el 75% de los niveles autorizados (Real Decreto 280/ 1994).</p>
-<p class="cuerpo_tabla_izq">Aportar análisis de residuos en cosecha.</p>
-<p class="cuerpo_tabla_izq">Reservar un cinco % de los materiales vegetales de reproducción obtenidos.</p>
-<p class="cuerpo_tabla_izq">Desarrollar acciones divulgativas con la administración gestora.</p>
+<p>Variedades autóctonas vegetales en riesgo de erosión genética con racionalización en el uso de productos químicos.</p>
+<p>Se crea un comité técnico de asesoramiento.</p>
+<p>Cumplimentar un libro o cuaderno de control.</p>
+<p>Selección y protección de algunas especies autóctonas y de interés ecológico en riesgo de erosión genética, incluidas en el anejo 9.3.III.</p>
+<p>Disponer y dedicar al cultivo en riesgo de erosión genética una superficie mínima de 0,3 ha.</p>
+<p>Presentar un programa o memoria del proyecto.</p>
+<p>Presentar datos fehacientes de erosión genética.</p>
+<p>Racionalizar el uso de productos químicos, reduciendo al menos un 20% la aplicación de productos fertilizantes y/o fitosanitarios, en relación a los que figuran en el anejo 9.3.VI como tabla de referencia de la medida 3.1.</p>
+<p>Reducción del contenido en residuos tóxicos hasta el 75% de los niveles autorizados (Real Decreto 280/ 1994).</p>
+<p>Aportar análisis de residuos en cosecha.</p>
+<p>Reservar un cinco % de los materiales vegetales de reproducción obtenidos.</p>
+<p>Desarrollar acciones divulgativas con la administración gestora.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cultivos anuales.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos en riesgo erosión con reducción 20 % fitosanitarios.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">456,76 €</p>
+<p>456,76 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Alfalfa en riesgo erosión con reducción 20 % fitosanitarios.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">510,86 €</p>
+<p>510,86 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos en riesgo erosión con 20 % reducción fertilizantes.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">447,75 €</p>
+<p>447,75 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Alfalfa en riesgo erosión con 20 % fertilizantes.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">426,71 €</p>
+<p>426,71 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">570,96 €</p>
+<p>570,96 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas en riesgo erosión con reducción 20 % fertilizantes.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">513,87 €</p>
+<p>513,87 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos reducción conjunta.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600,00 €</p>
+<p>600,00 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.5</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Alfalfa reducción conjunta.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600,00 €</p>
+<p>600,00 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.6</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas reducción conjunta.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.7</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.1.8</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cultivos perennes.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">341,37 €</p>
+<p>341,37 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.2.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Perennes con reducción 20 % fitosanitarios.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">551,73 €</p>
+<p>551,73 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.2.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Perennes con reducción 20 % fertilizantes.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">521,68 €</p>
+<p>521,68 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>2.1.2.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Perennes con reducción conjunta.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">732,03 €</p>
+<p>732,03 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -1075,1000 +1075,1000 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **3. Técnicas ambientales de racionalización en el uso de productos químicos**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th colspan="2" rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones que se avengan al cumplimiento de los compromisos establecidos en esta medida por un período, al menos, de cinco años.</p>
+<p>Titulares de explotaciones que se avengan al cumplimiento de los compromisos establecidos en esta medida por un período, al menos, de cinco años.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Compromisos generales.</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida se creará un comité técnico (C.T.) que, entre otras cuestiones, realizará funciones de vigilancia y seguimiento y podrá exigir que los compromisos generales se apliquen en toda la explotación.</p>
-<p class="cuerpo_tabla_izq">Cumplimentar y mantener actualizado un cuaderno de explotación, que incluirá una contabilidad detallada y en el que se inscribirán todas las operaciones de cultivo realizadas en cada una de las parcelas.</p>
-<p class="cuerpo_tabla_izq">Podrá exigirse la formación técnica adecuada.</p>
-<p class="cuerpo_tabla_izq">No podrán acogerse los cultivos realizados por sistemas hidropónicos.</p>
-<p class="cuerpo_tabla_izq">Mantener el compromiso durante cinco años en la superficie de acogida.</p>
-<p class="cuerpo_tabla_izq">Mantener setos y ribazos, vegetación en lindes y márgenes para reserva ecológica y mantenimiento de la biodiversidad. Para superficies continuas, el C. T. determinará la superficie mínima obligatoria de reserva ecológica.</p>
-<p class="cuerpo_tabla_izq">Realización de análisis adecuados. Al menos anualmente para programar el abonado. De agua y otros, a criterio del C.T. Se cumplimentará una ficha normalizada de análisis por parcela, que determinará las prácticas de tratamiento a seguir.</p>
-<p class="cuerpo_tabla_izq">Pertenecer a una agrupación de tratamientos integrados o similar y/o disponer de asesoramiento técnico que establezca la estrategia y oportunidad de los tratamientos químicos.</p>
-<p class="cuerpo_tabla_izq">Establecer un plan de fertilización.</p>
-<p class="cuerpo_tabla_izq">El control de malas hierbas se realizará de forma mecánica o mediante pastoreo controlado.</p>
-<p class="cuerpo_tabla_izq">Solamente están autorizados los productos químicos de clasificación eco-toxicológica AAA o AAB.</p>
-<p class="cuerpo_tabla_izq">Reducción verificable de, al menos, un 20 % de los productos agroquímicos utilizados en la explotación. Se toma como referencia la tabla aneja de datos medios supeditada a la revisión del C. T. Dicha reducción se podrá realizar mediante la sustitución del abonado nitrogenado de síntesis por orgánico, no permitiéndose el uso de estiércoles frescos, añadiendo cinco t de estiércol/ha cada tres años, realizando obligatoriamente el primer aporte al comienzo del período de compromiso. En todo caso, debe reducirse el 20% de la aportación de abonos de síntesis.</p>
-<p class="cuerpo_tabla_izq">Cuando así lo determine la autoridad gestora, no se utilizarán organismos ni materias modificados genéticamente en semillas, tratamientos, etc.</p>
-<p class="cuerpo_tabla_izq">Superficie mínima de cultivo:</p>
-<p class="cuerpo_tabla_izq">Cultivos herbáceos de secano: dos ha.</p>
-<p class="cuerpo_tabla_izq">Herbáceos de regadío y arroz: 0,5 ha.</p>
-<p class="cuerpo_tabla_izq">Olivar, viña, frutos secos: una ha.</p>
-<p class="cuerpo_tabla_izq">Frutales de hueso y pepita, cítricos: 0,5 ha.</p>
-<p class="cuerpo_tabla_izq">Hortalizas: 0,3 ha.</p>
-<p class="cuerpo_tabla_izq">Excepto para la Comunidad Autónoma de Galicia donde, por sus condiciones específicas, la superficie mínima será de 0,3 ha para todos los cultivos).</p>
+<p>Compromisos generales.</p>
+<p>Antes de la puesta en marcha de la medida se creará un comité técnico (C.T.) que, entre otras cuestiones, realizará funciones de vigilancia y seguimiento y podrá exigir que los compromisos generales se apliquen en toda la explotación.</p>
+<p>Cumplimentar y mantener actualizado un cuaderno de explotación, que incluirá una contabilidad detallada y en el que se inscribirán todas las operaciones de cultivo realizadas en cada una de las parcelas.</p>
+<p>Podrá exigirse la formación técnica adecuada.</p>
+<p>No podrán acogerse los cultivos realizados por sistemas hidropónicos.</p>
+<p>Mantener el compromiso durante cinco años en la superficie de acogida.</p>
+<p>Mantener setos y ribazos, vegetación en lindes y márgenes para reserva ecológica y mantenimiento de la biodiversidad. Para superficies continuas, el C. T. determinará la superficie mínima obligatoria de reserva ecológica.</p>
+<p>Realización de análisis adecuados. Al menos anualmente para programar el abonado. De agua y otros, a criterio del C.T. Se cumplimentará una ficha normalizada de análisis por parcela, que determinará las prácticas de tratamiento a seguir.</p>
+<p>Pertenecer a una agrupación de tratamientos integrados o similar y/o disponer de asesoramiento técnico que establezca la estrategia y oportunidad de los tratamientos químicos.</p>
+<p>Establecer un plan de fertilización.</p>
+<p>El control de malas hierbas se realizará de forma mecánica o mediante pastoreo controlado.</p>
+<p>Solamente están autorizados los productos químicos de clasificación eco-toxicológica AAA o AAB.</p>
+<p>Reducción verificable de, al menos, un 20 % de los productos agroquímicos utilizados en la explotación. Se toma como referencia la tabla aneja de datos medios supeditada a la revisión del C. T. Dicha reducción se podrá realizar mediante la sustitución del abonado nitrogenado de síntesis por orgánico, no permitiéndose el uso de estiércoles frescos, añadiendo cinco t de estiércol/ha cada tres años, realizando obligatoriamente el primer aporte al comienzo del período de compromiso. En todo caso, debe reducirse el 20% de la aportación de abonos de síntesis.</p>
+<p>Cuando así lo determine la autoridad gestora, no se utilizarán organismos ni materias modificados genéticamente en semillas, tratamientos, etc.</p>
+<p>Superficie mínima de cultivo:</p>
+<p>Cultivos herbáceos de secano: dos ha.</p>
+<p>Herbáceos de regadío y arroz: 0,5 ha.</p>
+<p>Olivar, viña, frutos secos: una ha.</p>
+<p>Frutales de hueso y pepita, cítricos: 0,5 ha.</p>
+<p>Hortalizas: 0,3 ha.</p>
+<p>Excepto para la Comunidad Autónoma de Galicia donde, por sus condiciones específicas, la superficie mínima será de 0,3 ha para todos los cultivos).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3.2</p>
+<p>3.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Control integrado.</p>
+<p>Control integrado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cumplir con los compromisos generales.</p>
-<p class="cuerpo_tabla_izq">Sustitución del 50 % del número de aplicaciones de productos químicos por métodos de control y/o seguimiento biológico a base de sustancias de origen vegetal o microorganismos, suelta de insectos útiles, trampeo masivo y confusión sexual, etc., por parcelas completas.</p>
-<p class="cuerpo_tabla_izq">Aplicar preferentemente métodos de lucha natural en el resto de las parcelas mediante el mantenimiento de zonas de reserva ecológica (setos, ribazos).</p>
-<p class="cuerpo_tabla_izq">En caso de ser imprescindible la lucha química, sólo se permitirá el uso de materias activas que han sido seleccionadas por el comité técnico con base en criterios de toxicidad, efectos sobre la fauna auxiliar y menor impacto ambiental, entre otros, y que son revisadas periódicamente.</p>
-<p class="cuerpo_tabla_izq">Reducción de, al menos, un 25 % de los tratamientos con productos químicos.</p>
-<p class="cuerpo_tabla_izq">Realizar el seguimiento y control de plagas, mediante tratamientos dirigidos y localizados para preservar la fauna útil.</p>
-<p class="cuerpo_tabla_izq">No realizar tratamientos con productos químicos 15 días antes de la recolección, excepto para productos de recolección escalonada, en los que se utilizarán preferentemente sustancias naturales, o productos químicos con plazo de seguridad, al menos de cinco días.</p>
-<p class="cuerpo_tabla_izq">No realizar tratamientos postcosecha para comercializaciones inmediatas.</p>
-<p class="cuerpo_tabla_izq">Realización de análisis de residuos sobre la producción final.</p>
+<p>Cumplir con los compromisos generales.</p>
+<p>Sustitución del 50 % del número de aplicaciones de productos químicos por métodos de control y/o seguimiento biológico a base de sustancias de origen vegetal o microorganismos, suelta de insectos útiles, trampeo masivo y confusión sexual, etc., por parcelas completas.</p>
+<p>Aplicar preferentemente métodos de lucha natural en el resto de las parcelas mediante el mantenimiento de zonas de reserva ecológica (setos, ribazos).</p>
+<p>En caso de ser imprescindible la lucha química, sólo se permitirá el uso de materias activas que han sido seleccionadas por el comité técnico con base en criterios de toxicidad, efectos sobre la fauna auxiliar y menor impacto ambiental, entre otros, y que son revisadas periódicamente.</p>
+<p>Reducción de, al menos, un 25 % de los tratamientos con productos químicos.</p>
+<p>Realizar el seguimiento y control de plagas, mediante tratamientos dirigidos y localizados para preservar la fauna útil.</p>
+<p>No realizar tratamientos con productos químicos 15 días antes de la recolección, excepto para productos de recolección escalonada, en los que se utilizarán preferentemente sustancias naturales, o productos químicos con plazo de seguridad, al menos de cinco días.</p>
+<p>No realizar tratamientos postcosecha para comercializaciones inmediatas.</p>
+<p>Realización de análisis de residuos sobre la producción final.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52,89 €</p>
+<p>52,89 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos de regadío.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,14 €</p>
+<p>84,14 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70,32 €</p>
+<p>70,32 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de pepita.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141,24 €</p>
+<p>141,24 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.5</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de hueso.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">177,30 €</p>
+<p>177,30 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.6</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Olivar.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124,71 €</p>
+<p>124,71 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.7</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas al aire libre.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198,33 €</p>
+<p>198,33 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.8</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas bajo plástico.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">420,71 €</p>
+<p>420,71 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.9</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Viñedo para vinificación.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147,85 €</p>
+<p>147,85 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.10</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Uva de mesa.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">342,58 €</p>
+<p>342,58 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.2.11</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cítricos.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">273,46 €</p>
+<p>273,46 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3.3</p>
+<p>3.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Producción integrada.</p>
-<p class="cuerpo_tabla_izq">Cumplir con los compromisos generales y los de la medida 3.2.</p>
-<p class="cuerpo_tabla_izq">El Comité técnico nacional para la medida agroambiental de producción integrada verificará y velará por la homogeneidad de las distintas normas técnicas regionales y coordinará las modificaciones en esta materia.</p>
-<p class="cuerpo_tabla_izq">Reducción de los tratamientos con químicos al menos en un 30%.</p>
-<p class="cuerpo_tabla_izq">Cumplir lo establecido en las normas genéricas y específicas sobre producción integrada para los distintos cultivos promulgadas y aprobadas por la Administración General del Estado o por las distintas comunidades autónomas.</p>
-<p class="cuerpo_tabla_izq">Estar inscrito en el Registro de productores de producción integrada de la comunidad autónoma.</p>
-<p class="cuerpo_tabla_izq">Presentar una memoria inicial descriptiva de la explotación agrícola.</p>
-<p class="cuerpo_tabla_izq">Compromiso de aplicar la producción integrada en la totalidad de la superficie de la explotación dedicada a la misma orientación productiva (cultivo y/o especie, y variedades para cítricos) ubicada en cada explotación o en cada finca cuando la explotación esté formada por varias fincas.</p>
-<p class="cuerpo_tabla_izq">Utilizar material vegetal de productores oficialmente autorizados y con el correspondiente pasaporte fitosanitario.</p>
-<p class="cuerpo_tabla_izq">En la lucha contra plagas tendrán prioridad los métodos biológicos, físicos o culturales frente a los químicos.</p>
-<p class="cuerpo_tabla_izq">En caso de intervención química utilizar exclusivamente las materias activas autorizadas para cada cultivo, seleccionadas por el comité técnico con base en criterios de toxicidad, efectos sobre la fauna auxiliar y menor impacto ambiental, entre otros, y que son revisadas periódicamente.</p>
-<p class="cuerpo_tabla_izq">Obligación de efectuar rotaciones en cultivos anuales, excepto en el caso de arroz, en el caso de los hortícolas serán, al menos, de cuatro ciclos al aire libre y de tres en cultivo protegido. Se entiende por ciclo el cultivo en la misma parcela de familias y especies vegetales diferentes, independientemente de la duración de cada uno de ellos (período de siembra/plantación/recolección). Si se establece una cubierta vegetal o cultivo para abonado en verde, se considerará como parte de la rotación.</p>
-<p class="cuerpo_tabla_izq">Mantener la cubierta vegetal en cultivos perennes. En épocas de recolección se permitirá la siega o el pastoreo controlado para facilitar las labores de cosecha. No podrá realizarse escarda química.</p>
+<p>Producción integrada.</p>
+<p>Cumplir con los compromisos generales y los de la medida 3.2.</p>
+<p>El Comité técnico nacional para la medida agroambiental de producción integrada verificará y velará por la homogeneidad de las distintas normas técnicas regionales y coordinará las modificaciones en esta materia.</p>
+<p>Reducción de los tratamientos con químicos al menos en un 30%.</p>
+<p>Cumplir lo establecido en las normas genéricas y específicas sobre producción integrada para los distintos cultivos promulgadas y aprobadas por la Administración General del Estado o por las distintas comunidades autónomas.</p>
+<p>Estar inscrito en el Registro de productores de producción integrada de la comunidad autónoma.</p>
+<p>Presentar una memoria inicial descriptiva de la explotación agrícola.</p>
+<p>Compromiso de aplicar la producción integrada en la totalidad de la superficie de la explotación dedicada a la misma orientación productiva (cultivo y/o especie, y variedades para cítricos) ubicada en cada explotación o en cada finca cuando la explotación esté formada por varias fincas.</p>
+<p>Utilizar material vegetal de productores oficialmente autorizados y con el correspondiente pasaporte fitosanitario.</p>
+<p>En la lucha contra plagas tendrán prioridad los métodos biológicos, físicos o culturales frente a los químicos.</p>
+<p>En caso de intervención química utilizar exclusivamente las materias activas autorizadas para cada cultivo, seleccionadas por el comité técnico con base en criterios de toxicidad, efectos sobre la fauna auxiliar y menor impacto ambiental, entre otros, y que son revisadas periódicamente.</p>
+<p>Obligación de efectuar rotaciones en cultivos anuales, excepto en el caso de arroz, en el caso de los hortícolas serán, al menos, de cuatro ciclos al aire libre y de tres en cultivo protegido. Se entiende por ciclo el cultivo en la misma parcela de familias y especies vegetales diferentes, independientemente de la duración de cada uno de ellos (período de siembra/plantación/recolección). Si se establece una cubierta vegetal o cultivo para abonado en verde, se considerará como parte de la rotación.</p>
+<p>Mantener la cubierta vegetal en cultivos perennes. En épocas de recolección se permitirá la siega o el pastoreo controlado para facilitar las labores de cosecha. No podrá realizarse escarda química.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,89 €</p>
+<p>55,89 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos de regadío.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93,16 €</p>
+<p>93,16 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.12</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Arroz.</em>
 </p>
-<p class="cuerpo_tabla_izq">La cantidad de nitrógeno total aportado por hectárea y año, según el tipo de variedad, no podrá superar las siguientes cantidades:</p>
+<p>La cantidad de nitrógeno total aportado por hectárea y año, según el tipo de variedad, no podrá superar las siguientes cantidades:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">euros/ha</p>
-<p class="cuerpo_tabla_der">247,91 €</p>
+<p>euros/ha</p>
+<p>247,91 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Tipo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Dosis (kg/ha)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Índica</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">145</p>
+<p>Dosis (kg/ha)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Japónica</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">125</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+<td>
+<p>Índica</p>
+</td>
+<td>
+<p>145</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Japónica</p>
+</td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Alcanzar mediante las correspondientes enmiendas orgánicas un dos % de matería orgánica.</p>
-<p class="cuerpo_tabla_izq">No incrementar la superficie del cultivo por encima del límite actual en la explotación.</p>
+<p>Alcanzar mediante las correspondientes enmiendas orgánicas un dos % de matería orgánica.</p>
+<p>No incrementar la superficie del cultivo por encima del límite actual en la explotación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">73,92 €</p>
+<p>73,92 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de pepita.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153,26 €</p>
+<p>153,26 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.5</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de hueso.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198,33 €</p>
+<p>198,33 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.6</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Olivar.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">147,25 €</p>
+<p>147,25 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.7</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas al aire libre.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">213,36 €</p>
+<p>213,36 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.8</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas bajo plástico.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">480,81 €</p>
+<p>480,81 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.9</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Viñedo para vinificación.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159,87 €</p>
+<p>159,87 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.10</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Uva de mesa.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">387,65 €</p>
+<p>387,65 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.3.11</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cítricos.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">345,58 €</p>
+<p>345,58 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3.4</p>
+<p>3.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Agricultura ecológica.</p>
-<p class="cuerpo_tabla_izq">Cumplir con los compromisos generales.</p>
-<p class="cuerpo_tabla_izq">Cumplir estrictamente con todas las normas de (producción establecidas en el Reglamento CEE) N.º 2092/91 que regula la producción ecológica.</p>
-<p class="cuerpo_tabla_izq">Estar inscrito en el Consejo Regulador de Agricultura Ecológica de la comunidad autónoma correspondiente.</p>
-<p class="cuerpo_tabla_izq">Elaborar un plan de cultivo previo para toda la explotación.</p>
-<p class="cuerpo_tabla_izq">Cumplir lo establecido en las normas genéricas y específicas sobre agricultura ecológica para los distintos cultivos, promulgadas y aprobadas por las distintas comunidades autónomas.</p>
-<p class="cuerpo_tabla_izq">Notificar su actividad y someterse al control de la autoridad u organismo de control.</p>
-<p class="cuerpo_tabla_izq">Suscribir un contrato y/o solicitud en la que se comprometa a cumplir con el reglamento.</p>
-<p class="cuerpo_tabla_izq">Disponer de un certificado expedido por la autoridad u organismo de control, afirmando que ha cumplido en el período anterior satisfactoriamente con los compromisos.</p>
-<p class="cuerpo_tabla_izq">Plan de gestión de abonado orgánico, en el cual se considerará adecuado un aporte mínimo de cinco t/ha y un máximo equivalente a 170 kg de N/ha.</p>
-<p class="cuerpo_tabla_izq">Comercialización de la producción ecológica, una vez pasado el período obligatorio de reconversión.</p>
-<p class="cuerpo_tabla_izq">Obligatoriedad de la realización de análisis.</p>
+<p>Agricultura ecológica.</p>
+<p>Cumplir con los compromisos generales.</p>
+<p>Cumplir estrictamente con todas las normas de (producción establecidas en el Reglamento CEE) N.º 2092/91 que regula la producción ecológica.</p>
+<p>Estar inscrito en el Consejo Regulador de Agricultura Ecológica de la comunidad autónoma correspondiente.</p>
+<p>Elaborar un plan de cultivo previo para toda la explotación.</p>
+<p>Cumplir lo establecido en las normas genéricas y específicas sobre agricultura ecológica para los distintos cultivos, promulgadas y aprobadas por las distintas comunidades autónomas.</p>
+<p>Notificar su actividad y someterse al control de la autoridad u organismo de control.</p>
+<p>Suscribir un contrato y/o solicitud en la que se comprometa a cumplir con el reglamento.</p>
+<p>Disponer de un certificado expedido por la autoridad u organismo de control, afirmando que ha cumplido en el período anterior satisfactoriamente con los compromisos.</p>
+<p>Plan de gestión de abonado orgánico, en el cual se considerará adecuado un aporte mínimo de cinco t/ha y un máximo equivalente a 170 kg de N/ha.</p>
+<p>Comercialización de la producción ecológica, una vez pasado el período obligatorio de reconversión.</p>
+<p>Obligatoriedad de la realización de análisis.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92,32 €</p>
+<p>92,32 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Herbáceos de regadío.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">162,27 €</p>
+<p>162,27 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.12</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Arroz.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600 €</p>
+<p>600 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de secano.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119 €</p>
+<p>119 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de pepita.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">328,15 €</p>
+<p>328,15 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.5</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Frutales de hueso.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">364,21 €</p>
+<p>364,21 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.6</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Olivar.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">266,85 €</p>
+<p>266,85 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.7</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas al aire libre.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">258,44 €</p>
+<p>258,44 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.8</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Hortícolas bajo plástico.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">504,85 €</p>
+<p>504,85 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.9</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Viñedo para vinificación.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">228,38 €</p>
+<p>228,38 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.10</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Uva de mesa.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">495,83 €</p>
+<p>495,83 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.11</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cítricos.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">468,79 €</p>
+<p>468,79 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>3.4.13</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cultivo de la platanera en las Islas Canarias.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900 €</p>
+<p>900 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2076,158 +2076,158 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **4. Lucha contra la erosión en medios frágiles**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4.1</p>
+<p>4.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones con parcelas sobre laderas, terrazas y bancales localizadas en pendiente superior al ocho %. Para el olivar se exigirá que la plantación sea anteror al 1 de mayo de 1998, y que la superficie mínima de acogida sea de 0,2 ha. Además, la densidad de plantación deberá estar entre 30 y 210 árboles/ha.</p>
+<p>Titulares de explotaciones con parcelas sobre laderas, terrazas y bancales localizadas en pendiente superior al ocho %. Para el olivar se exigirá que la plantación sea anteror al 1 de mayo de 1998, y que la superficie mínima de acogida sea de 0,2 ha. Además, la densidad de plantación deberá estar entre 30 y 210 árboles/ha.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En cultivos leñosos en pendiente o terrazas:</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida se creará un comité técnico por cada comunidad autónoma en la que se aplique esta medida.</p>
-<p class="cuerpo_tabla_izq">Llevar un cuaderno de explotación en el que se reflejarán todas las labores y operaciones realizadas a lo largo del año, en cada una de las parcelas de cultivos leñosos.</p>
-<p class="cuerpo_tabla_izq">Elaboración de un plan agroambiental de la explotación que recoja y describa la totalidad de los elementos a conservar, su singularidad, significado medioambiental, dimensión y presupuesto para su mantenimiento, así como calendario para cumplir los compromisos.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan de actuación, que deberá ser aprobado por el órgano competente de la comunidad autónoma, que contemplará la totalidad de cultivos leñosos de la explotación, en relación con los compromisos medioambientales adquiridos.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento de la vegetación natural en las lindes de las parcelas, siempre que estén a más de 300 metros de una masa forestal superior a 10 hectáreas.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento y conservación de los elementos e instalaciones tradicionales relacionadas con el cultivo: muretes, terrazas, bancales, setos vegetales, etc., que quedarán reflejados en el plan de actuación agroambiental.</p>
-<p class="cuerpo_tabla_izq">Los compromisos no relacionados directamente con las pendientes/terrazas deberán cumplirse en el conjunto de la explotación, aunque para el cálculo de la ayuda sólo se tendrán en cuenta la superficie de las parcelas con pendientes superiores a las fijadas.</p>
-<p class="cuerpo_tabla_izq">En ningún caso se podrán emplear aperos de vertedera y gradas de disco que volteen el suelo.</p>
-<p class="cuerpo_tabla_izq">En las parcelas con pendientes medias superiores al 10% y con suelos con insuficiente permeabilidad, para evitar los problemas de escorrentía será obligatorio el establecimiento de cubiertas vegetales en el centro de las calles, que cubran un mínimo del 50% de la superficie, a partir de la flora espontánea o recurriendo a la siembra de especies cultivadas, siendo en todo caso obligatoria la inmediata corrección de los efectos puntuales ocasionados por las escorrentías producidas por las lluvias torrenciales.</p>
-<p class="cuerpo_tabla_izq">La cubierta vegetal se establecerá lo más próxima a las curvas de nivel y perpendicular a la máxima pendiente, en el caso de terrazas el de la dirección del lado mayor de aquélla.</p>
-<p class="cuerpo_tabla_izq">La cubierta vegetal podrá segarse a principios de primavera, para evitar la competencia de las malas hierbas, mediante procedimientos mecánicos y químicos registrados para tales usos, o con pastoreo controlado de ganado ovino, debiendo permanecer obligatoriamente sobre el terreno los restos de estas cubiertas hasta el otoño, época en la que, si procede, se podrán llevar a cabo las labores necesarias para la implantación de una nueva cubierta vegetal.</p>
-<p class="cuerpo_tabla_izq">Prohibición del uso de productos químicos para la poda y eliminación de brotes.</p>
+<p>En cultivos leñosos en pendiente o terrazas:</p>
+<p>Antes de la puesta en marcha de la medida se creará un comité técnico por cada comunidad autónoma en la que se aplique esta medida.</p>
+<p>Llevar un cuaderno de explotación en el que se reflejarán todas las labores y operaciones realizadas a lo largo del año, en cada una de las parcelas de cultivos leñosos.</p>
+<p>Elaboración de un plan agroambiental de la explotación que recoja y describa la totalidad de los elementos a conservar, su singularidad, significado medioambiental, dimensión y presupuesto para su mantenimiento, así como calendario para cumplir los compromisos.</p>
+<p>Presentar un plan de actuación, que deberá ser aprobado por el órgano competente de la comunidad autónoma, que contemplará la totalidad de cultivos leñosos de la explotación, en relación con los compromisos medioambientales adquiridos.</p>
+<p>Mantenimiento de la vegetación natural en las lindes de las parcelas, siempre que estén a más de 300 metros de una masa forestal superior a 10 hectáreas.</p>
+<p>Mantenimiento y conservación de los elementos e instalaciones tradicionales relacionadas con el cultivo: muretes, terrazas, bancales, setos vegetales, etc., que quedarán reflejados en el plan de actuación agroambiental.</p>
+<p>Los compromisos no relacionados directamente con las pendientes/terrazas deberán cumplirse en el conjunto de la explotación, aunque para el cálculo de la ayuda sólo se tendrán en cuenta la superficie de las parcelas con pendientes superiores a las fijadas.</p>
+<p>En ningún caso se podrán emplear aperos de vertedera y gradas de disco que volteen el suelo.</p>
+<p>En las parcelas con pendientes medias superiores al 10% y con suelos con insuficiente permeabilidad, para evitar los problemas de escorrentía será obligatorio el establecimiento de cubiertas vegetales en el centro de las calles, que cubran un mínimo del 50% de la superficie, a partir de la flora espontánea o recurriendo a la siembra de especies cultivadas, siendo en todo caso obligatoria la inmediata corrección de los efectos puntuales ocasionados por las escorrentías producidas por las lluvias torrenciales.</p>
+<p>La cubierta vegetal se establecerá lo más próxima a las curvas de nivel y perpendicular a la máxima pendiente, en el caso de terrazas el de la dirección del lado mayor de aquélla.</p>
+<p>La cubierta vegetal podrá segarse a principios de primavera, para evitar la competencia de las malas hierbas, mediante procedimientos mecánicos y químicos registrados para tales usos, o con pastoreo controlado de ganado ovino, debiendo permanecer obligatoriamente sobre el terreno los restos de estas cubiertas hasta el otoño, época en la que, si procede, se podrán llevar a cabo las labores necesarias para la implantación de una nueva cubierta vegetal.</p>
+<p>Prohibición del uso de productos químicos para la poda y eliminación de brotes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,22 €</p>
+<p>132,22 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">4.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones de cultivos herbáceos que apliquen técnicas de siembra directa o mínimo laboreo y lleven a cabo en el conjunto de la explotación prácticas culturales adecuadas para minimizar los efectos de la erosión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Cultivos herbáceos:</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida se creará un comité técnico por cada comunidad autónoma en la que se aplique esta medida.</p>
-<p class="cuerpo_tabla_izq">Llevar un cuaderno de explotación en el que se reflejarán todas las labores y operaciones realizadas a lo largo del año, en cada una de las parcelas de cultivos herbáceos.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan de actuación, que deberá ser aprobado por el órgano competente de la comunidad autónoma y que contemplará la totalidad de cultivos herbáceos de la explotación, en relación con los compromisos medioambientales adquiridos.</p>
-<p class="cuerpo_tabla_izq">Las parcelas acogidas tendrán una pendiente superior al ocho %.</p>
-<p class="cuerpo_tabla_izq">En ningún caso se podrán emplear en el conjunto de la explotación aperos de vertedera y gradas de disco que volteen el suelo.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento de la vegetación natural en las lindes de las parcelas.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento y conservación de los elementos e instalaciones tradicionales relacionadas con el cultivo: muretes, terrazas, bancales, setos vegetales, etc., que quedarán reflejados en el plan de actuación agroambiental.</p>
-<p class="cuerpo_tabla_izq">En las parcelas objeto de la ayuda, sobre las que se realizará la siembra directa o el mínimo laboreo:</p>
-<p class="cuerpo_tabla_izq">Prohibición de realización de labores durante el período de barbecho.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento de la paja sobre el rastrojo.</p>
-<p class="cuerpo_tabla_izq">Evitar el sobrepastoreo y la introducción del ganado en épocas de lluvia, con objeto de no producir apelmazamiento del terreno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">54,09 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4.3</p>
+<p>4.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de tierras agrícolas abandonadas, entendiendo por tales aquellas que no hayan recibido ninguna utilización ni intervención agraria en los últimos tres años.</p>
-<p class="cuerpo_tabla_izq">Como excepción, se establece que las ayudas se concederán únicamente a agricultores: los trabajos efectuados por una autoridad pública por sus propios medios no podrán percibir ayuda.</p>
+<p>Titulares de explotaciones de cultivos herbáceos que apliquen técnicas de siembra directa o mínimo laboreo y lleven a cabo en el conjunto de la explotación prácticas culturales adecuadas para minimizar los efectos de la erosión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de tierras abandonadas:</p>
-<p class="cuerpo_tabla_izq">Compromisos generales: Antes de la aplicación de la medida se creará un comité técnico por comunidad autónoma para el mejor fin y cumplimiento de la medida.</p>
-<p class="cuerpo_tabla_izq">Llevar un cuaderno de explotación en el que se reflejarán las operaciones realizadas.</p>
-<p class="cuerpo_tabla_izq">Mantener las superficies agrarias abandonadas.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento de los árboles y/o plantaciones perennes existentes, mediante la realización de podas y limpiezas de ramas secas y enfermas.</p>
-<p class="cuerpo_tabla_izq">No podrán utilizarse estas superficies con fines productivos.</p>
-<p class="cuerpo_tabla_izq">Que las parcelas tengan una pendiente mínima del 10%.</p>
-<p class="cuerpo_tabla_izq">Conservación de la cubierta vegetal, mediante limpieza, rozas y desbroces para el control de las malas hierbas, por medios mecánicos.</p>
-<p class="cuerpo_tabla_izq">No se permitirá el empleo de aperos de vertedera o de grada que volteen el suelo.</p>
+<p>Cultivos herbáceos:</p>
+<p>Antes de la puesta en marcha de la medida se creará un comité técnico por cada comunidad autónoma en la que se aplique esta medida.</p>
+<p>Llevar un cuaderno de explotación en el que se reflejarán todas las labores y operaciones realizadas a lo largo del año, en cada una de las parcelas de cultivos herbáceos.</p>
+<p>Presentar un plan de actuación, que deberá ser aprobado por el órgano competente de la comunidad autónoma y que contemplará la totalidad de cultivos herbáceos de la explotación, en relación con los compromisos medioambientales adquiridos.</p>
+<p>Las parcelas acogidas tendrán una pendiente superior al ocho %.</p>
+<p>En ningún caso se podrán emplear en el conjunto de la explotación aperos de vertedera y gradas de disco que volteen el suelo.</p>
+<p>Mantenimiento de la vegetación natural en las lindes de las parcelas.</p>
+<p>Mantenimiento y conservación de los elementos e instalaciones tradicionales relacionadas con el cultivo: muretes, terrazas, bancales, setos vegetales, etc., que quedarán reflejados en el plan de actuación agroambiental.</p>
+<p>En las parcelas objeto de la ayuda, sobre las que se realizará la siembra directa o el mínimo laboreo:</p>
+<p>Prohibición de realización de labores durante el período de barbecho.</p>
+<p>Mantenimiento de la paja sobre el rastrojo.</p>
+<p>Evitar el sobrepastoreo y la introducción del ganado en épocas de lluvia, con objeto de no producir apelmazamiento del terreno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>54,09 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>4.3</p>
+</td>
+<td>
+<p>Titulares de tierras agrícolas abandonadas, entendiendo por tales aquellas que no hayan recibido ninguna utilización ni intervención agraria en los últimos tres años.</p>
+<p>Como excepción, se establece que las ayudas se concederán únicamente a agricultores: los trabajos efectuados por una autoridad pública por sus propios medios no podrán percibir ayuda.</p>
+</td>
+<td>
+<p>Mantenimiento de tierras abandonadas:</p>
+<p>Compromisos generales: Antes de la aplicación de la medida se creará un comité técnico por comunidad autónoma para el mejor fin y cumplimiento de la medida.</p>
+<p>Llevar un cuaderno de explotación en el que se reflejarán las operaciones realizadas.</p>
+<p>Mantener las superficies agrarias abandonadas.</p>
+<p>Mantenimiento de los árboles y/o plantaciones perennes existentes, mediante la realización de podas y limpiezas de ramas secas y enfermas.</p>
+<p>No podrán utilizarse estas superficies con fines productivos.</p>
+<p>Que las parcelas tengan una pendiente mínima del 10%.</p>
+<p>Conservación de la cubierta vegetal, mediante limpieza, rozas y desbroces para el control de las malas hierbas, por medios mecánicos.</p>
+<p>No se permitirá el empleo de aperos de vertedera o de grada que volteen el suelo.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>4.3.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>En parcelas sin arbolado.</em>
 </p>
-<p class="cuerpo_tabla_izq">Cumplir los compromisos generales del código 4.3.</p>
-<p class="cuerpo_tabla_izq">Respetar en las lindes unas bandas de anchura no inferior a dos metros para proteger la biodiversidad de la flora, sobre las cuales sólo se podrá realizar pastoreo controlado posterior al secado del fruto y de la semilla, siempre que no haya peligro de incendios, conforme a lo indicado en el código 4.1.</p>
+<p>Cumplir los compromisos generales del código 4.3.</p>
+<p>Respetar en las lindes unas bandas de anchura no inferior a dos metros para proteger la biodiversidad de la flora, sobre las cuales sólo se podrá realizar pastoreo controlado posterior al secado del fruto y de la semilla, siempre que no haya peligro de incendios, conforme a lo indicado en el código 4.1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,07 €</p>
+<p>39,07 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>4.3.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>En parcelas con arbolado superior a 30 pies/ha.</em>
 </p>
-<p class="cuerpo_tabla_izq">Cumplir los compromisos generales del código 4.3.</p>
-<p class="cuerpo_tabla_izq">Mantener islotes con superficie total no inferior al uno% de la superficie acogida de vegetación para nidificación y protección de la fauna.</p>
-<p class="cuerpo_tabla_izq">Respetar en las lindes unas bandas de anchura no inferior a dos metros para proteger la biodiversidad de la flora, sobre las cuales sólo se podrá realizar pastoreo controlado posterior al secado del fruto y de la semilla, siempre que no haya peligro de incendios, conforme a lo indicado en el código 4.1.</p>
+<p>Cumplir los compromisos generales del código 4.3.</p>
+<p>Mantener islotes con superficie total no inferior al uno% de la superficie acogida de vegetación para nidificación y protección de la fauna.</p>
+<p>Respetar en las lindes unas bandas de anchura no inferior a dos metros para proteger la biodiversidad de la flora, sobre las cuales sólo se podrá realizar pastoreo controlado posterior al secado del fruto y de la semilla, siempre que no haya peligro de incendios, conforme a lo indicado en el código 4.1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,17 €</p>
+<p>99,17 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2235,107 +2235,107 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **5. Protección de flora y fauna en humedales**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5.1</p>
+<p>5.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones que se avengan al cumplimiento de los compromisos establecidos en esta medida por un período de cinco años.</p>
+<p>Titulares de explotaciones que se avengan al cumplimiento de los compromisos establecidos en esta medida por un período de cinco años.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Actuaciones sobre arrozales:</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida, se creará un comité técnico en cada una de las comunidades autónomas en las que se apliquen.</p>
-<p class="cuerpo_tabla_izq">Llevar un cuaderno de explotación en el que queden reflejadas todas las operaciones que sobre el cultivo se realicen.</p>
-<p class="cuerpo_tabla_izq">Control de los compromisos medioambientales a través de la analítica necesaria al efecto sobre suelos, cultivos en pie o producciones, en todos aquellos casos que así lo exija la Administración gestora o el comité técnico.</p>
-<p class="cuerpo_tabla_izq">Mantener inundada la superficie de cultivo por lo menos cuatro meses adicionales, durante el otoño-invierno, en las zonas tradicionales y/o colindantes a lagunas.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento del cultivo del arroz durante al menos cinco años, sin disminuir su superficie.</p>
-<p class="cuerpo_tabla_izq">Mejorar la calidad de las aguas a través de la racionalización en el uso de productos químicos.</p>
-<p class="cuerpo_tabla_izq">Disminución de la fertilización nitrogenada de síntesis al menos en un 20%. En cualquier caso las aportaciones máximas de fertilización nitrogenada no podrán ser superiores a:</p>
-<p class="cuerpo_tabla_izq">Variedades tipo Índica 130 kg/ha.</p>
-<p class="cuerpo_tabla_izq">Variedades tipo Japónica 120 kg/ha.</p>
-<p class="cuerpo_tabla_izq">Racionalización de tratamientos contra C. Supressalis mediante tratamientos biológicos. En caso de ser imprescindible la utilización de tratamientos químicos, el comité técnico autorizará materias activas de clasificación toxicológica AAA o AAB.</p>
-<p class="cuerpo_tabla_izq">Prohibido la quema de rastrojos, salvo excepción justificada por razones sanitarias y para evitar problemas fitopatológicos graves.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento y conservación de elementos de retención de agua, como pequeños diques y compuertas.</p>
-<p class="cuerpo_tabla_izq">El control mecánico de malas hierbas en el arroz se realizará mediante la técnica de enfangado, a través de inundaciones prematuras (primeros de noviembre a últimos de mayo), para incorporar restos de vegetación al suelo, eliminar algas y malas hierbas. Se realizará de forma mecánica.</p>
-<p class="cuerpo_tabla_izq">El control de malas hierbas en canales y desagües de la superficie acogida se realizará de forma mecánica y/o manual.</p>
+<p>Actuaciones sobre arrozales:</p>
+<p>Antes de la puesta en marcha de la medida, se creará un comité técnico en cada una de las comunidades autónomas en las que se apliquen.</p>
+<p>Llevar un cuaderno de explotación en el que queden reflejadas todas las operaciones que sobre el cultivo se realicen.</p>
+<p>Control de los compromisos medioambientales a través de la analítica necesaria al efecto sobre suelos, cultivos en pie o producciones, en todos aquellos casos que así lo exija la Administración gestora o el comité técnico.</p>
+<p>Mantener inundada la superficie de cultivo por lo menos cuatro meses adicionales, durante el otoño-invierno, en las zonas tradicionales y/o colindantes a lagunas.</p>
+<p>Mantenimiento del cultivo del arroz durante al menos cinco años, sin disminuir su superficie.</p>
+<p>Mejorar la calidad de las aguas a través de la racionalización en el uso de productos químicos.</p>
+<p>Disminución de la fertilización nitrogenada de síntesis al menos en un 20%. En cualquier caso las aportaciones máximas de fertilización nitrogenada no podrán ser superiores a:</p>
+<p>Variedades tipo Índica 130 kg/ha.</p>
+<p>Variedades tipo Japónica 120 kg/ha.</p>
+<p>Racionalización de tratamientos contra C. Supressalis mediante tratamientos biológicos. En caso de ser imprescindible la utilización de tratamientos químicos, el comité técnico autorizará materias activas de clasificación toxicológica AAA o AAB.</p>
+<p>Prohibido la quema de rastrojos, salvo excepción justificada por razones sanitarias y para evitar problemas fitopatológicos graves.</p>
+<p>Mantenimiento y conservación de elementos de retención de agua, como pequeños diques y compuertas.</p>
+<p>El control mecánico de malas hierbas en el arroz se realizará mediante la técnica de enfangado, a través de inundaciones prematuras (primeros de noviembre a últimos de mayo), para incorporar restos de vegetación al suelo, eliminar algas y malas hierbas. Se realizará de forma mecánica.</p>
+<p>El control de malas hierbas en canales y desagües de la superficie acogida se realizará de forma mecánica y/o manual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">397,63 €</p>
+<p>397,63 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actuaciones sobre plantaciones de caña de azúcar:</p>
-<p class="cuerpo_tabla_izq">Antes de la aplicación de la medida se creará un comité técnico para el mejor fin y cumplimiento de la medida como organismo de asesoramiento específico en el que participarán, fundamentalmente, los servicios técnicos de la comunidad autónoma y expertos de la Administración, etc., los cuales podrán solicitar información a otras unidades sociales y de investigación. Establecerá condiciones de las limpiezas, períodos de realización de las actuaciones, calendarios, etc.</p>
-<p class="cuerpo_tabla_izq">Cumplimentar y mantener actualizado un cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento de sotos de riveras de ríos y de canales no revestidos para mejora de la biodiversidad de la explotación.</p>
-<p class="cuerpo_tabla_izq">Realizar prácticas agrícolas, fundamentalmente durante la recolección, de forma tal que las máquinas cosechadoras o la corta manual respete la existencia de nidos, en cuyo caso deberá dejar sin cortar estas isletas. Asimismo deberán tomarse precauciones para evitar los accidentes en la fauna característica de este hábitat.</p>
-<p class="cuerpo_tabla_izq">Prohibido el uso de fungicidas y plaguicidas.</p>
-<p class="cuerpo_tabla_izq">Reducción de la fertilización nitrogenada al menos en un 50 %, con un máximo de 75 UF/ha y año, fraccionando la aplicación de abonos nitrogenados.</p>
-<p class="cuerpo_tabla_izq">Limitar la fertilización P-K y el uso de herbicidas al momento de la plantación, quedando prohibidas las aportaciones posteriores de estos elementos.</p>
-<p class="cuerpo_tabla_izq">Realización de análisis de suelos que permitan observar la evolución de los niveles de fertilizantes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">721,21 €</p>
-<p class="cuerpo_tabla_centro">16 % incent.</p>
-<p class="cuerpo_tabla_centro">Incluido en prima.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5.3</p>
+<p>5.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sobresiembra de cereal:</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Realización de siembras superficiales, no excediendo los tres cm de profundidad.</p>
-<p class="cuerpo_tabla_izq">Realizar la siembra coincidiendo con el paso de las grullas (finales de octubre-15 de diciembre y 20 de enero a finales de febrero), priorizando las siembras de primavera.</p>
-<p class="cuerpo_tabla_izq">Prohibido el uso de semillas tratadas con productos tóxicos para la fauna terrestre.</p>
+<p>Actuaciones sobre plantaciones de caña de azúcar:</p>
+<p>Antes de la aplicación de la medida se creará un comité técnico para el mejor fin y cumplimiento de la medida como organismo de asesoramiento específico en el que participarán, fundamentalmente, los servicios técnicos de la comunidad autónoma y expertos de la Administración, etc., los cuales podrán solicitar información a otras unidades sociales y de investigación. Establecerá condiciones de las limpiezas, períodos de realización de las actuaciones, calendarios, etc.</p>
+<p>Cumplimentar y mantener actualizado un cuaderno de explotación.</p>
+<p>Mantenimiento de sotos de riveras de ríos y de canales no revestidos para mejora de la biodiversidad de la explotación.</p>
+<p>Realizar prácticas agrícolas, fundamentalmente durante la recolección, de forma tal que las máquinas cosechadoras o la corta manual respete la existencia de nidos, en cuyo caso deberá dejar sin cortar estas isletas. Asimismo deberán tomarse precauciones para evitar los accidentes en la fauna característica de este hábitat.</p>
+<p>Prohibido el uso de fungicidas y plaguicidas.</p>
+<p>Reducción de la fertilización nitrogenada al menos en un 50 %, con un máximo de 75 UF/ha y año, fraccionando la aplicación de abonos nitrogenados.</p>
+<p>Limitar la fertilización P-K y el uso de herbicidas al momento de la plantación, quedando prohibidas las aportaciones posteriores de estos elementos.</p>
+<p>Realización de análisis de suelos que permitan observar la evolución de los niveles de fertilizantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">39,07 €</p>
+<p>721,21 €</p>
+<p>16 % incent.</p>
+<p>Incluido en prima.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.3</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Sobresiembra de cereal:</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Realización de siembras superficiales, no excediendo los tres cm de profundidad.</p>
+<p>Realizar la siembra coincidiendo con el paso de las grullas (finales de octubre-15 de diciembre y 20 de enero a finales de febrero), priorizando las siembras de primavera.</p>
+<p>Prohibido el uso de semillas tratadas con productos tóxicos para la fauna terrestre.</p>
+</td>
+<td>
+<p>39,07 €</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2343,128 +2343,128 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **6. Sistemas especiales de explotación con alto interés medioambiental**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6.1</p>
+<p>6.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sistemas especiales de explotación.</p>
-<p class="cuerpo_tabla_izq">Crear un comité técnico para el mejor fin y cumplimiento de la medida como organismo de asesoramiento específico en el que participarán, fundamentalmente, los servicios técnicos de la comunidad autónoma y expertos de la Administración, etc., los cuales podrán solicitar información a otras unidades sociales y de investigación. Establecerá condiciones de las actuaciones, limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
+<p>Sistemas especiales de explotación.</p>
+<p>Crear un comité técnico para el mejor fin y cumplimiento de la medida como organismo de asesoramiento específico en el que participarán, fundamentalmente, los servicios técnicos de la comunidad autónoma y expertos de la Administración, etc., los cuales podrán solicitar información a otras unidades sociales y de investigación. Establecerá condiciones de las actuaciones, limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>6.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Renovación del enarenado.</em>
 </p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Realizar al menos una vez al año un repaso de los muros perimetrales, reponiendo las piedras que se hayan desprendido. En ningún caso se podrá utilizar argamasa para la restauración de los muros que deberán realizarse siempre en piedra seca.</p>
-<p class="cuerpo_tabla_izq">Aportar, a lo largo del período de compromiso, al conjunto de las parcelas una capa de lápilli no inferior a los 10 cm de espesor. El lápilli procederá exclusivamente de canteras debidamente autorizadas.</p>
-<p class="cuerpo_tabla_izq">Los vehículos que transportan el lápilli no entrarán en las parcelas debiéndose distribuir el mismo manualmente o utilizando tracción animal.</p>
-<p class="cuerpo_tabla_izq">Una vez al año se realizará una escarda exclusivamente a mano.</p>
-<p class="cuerpo_tabla_izq">Se aplica en Lanzarote y Tenerife.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Realizar al menos una vez al año un repaso de los muros perimetrales, reponiendo las piedras que se hayan desprendido. En ningún caso se podrá utilizar argamasa para la restauración de los muros que deberán realizarse siempre en piedra seca.</p>
+<p>Aportar, a lo largo del período de compromiso, al conjunto de las parcelas una capa de lápilli no inferior a los 10 cm de espesor. El lápilli procederá exclusivamente de canteras debidamente autorizadas.</p>
+<p>Los vehículos que transportan el lápilli no entrarán en las parcelas debiéndose distribuir el mismo manualmente o utilizando tracción animal.</p>
+<p>Una vez al año se realizará una escarda exclusivamente a mano.</p>
+<p>Se aplica en Lanzarote y Tenerife.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600 €</p>
+<p>600 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>6.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cultivo de la Tunera para protección cochinila.</em>
 </p>
-<p class="cuerpo_tabla_izq">Antes de la aplicación de la medida se creará un comité técnico para vigilancia de su aplicación.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Una vez al año se realizará una escarda exclusivamente a mano.</p>
-<p class="cuerpo_tabla_izq">Se prohíbe la aplicación de cualquier producto fitosanitario, herbicida, fungicida o insecticida.</p>
-<p class="cuerpo_tabla_izq">Se prohíbe cualquier tipo de fertilización inorgánica. Únicamente se permite la estercoladura.</p>
-<p class="cuerpo_tabla_izq">Una vez al año se realizará la poda manual de la tuneras, extendiéndose el producto de la poda por los pasillos y entre las plantas.</p>
-<p class="cuerpo_tabla_izq">Conservación de elementos del paisaje.</p>
+<p>Antes de la aplicación de la medida se creará un comité técnico para vigilancia de su aplicación.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Una vez al año se realizará una escarda exclusivamente a mano.</p>
+<p>Se prohíbe la aplicación de cualquier producto fitosanitario, herbicida, fungicida o insecticida.</p>
+<p>Se prohíbe cualquier tipo de fertilización inorgánica. Únicamente se permite la estercoladura.</p>
+<p>Una vez al año se realizará la poda manual de la tuneras, extendiéndose el producto de la poda por los pasillos y entre las plantas.</p>
+<p>Conservación de elementos del paisaje.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198,33 €</p>
+<p>198,33 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>6.1.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cultivo del Tagasaste.</em>
 </p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Realizar anualmente una escarda, exclusivamente a mano.</p>
-<p class="cuerpo_tabla_izq">No efectuar ninguna aplicación con productos fitosanitarios, herbicidas, fungicidas o insecticidas.</p>
-<p class="cuerpo_tabla_izq">No efectuar fertilización inorgánica alguna. Únicamente se permite la estercoladura.</p>
-<p class="cuerpo_tabla_izq">Efectuar la poda de las plantas manualmente. A cada planta se le den varios pases de poda al año para evitar el estrés de una única poda. La poda se realizará siempre con herramienta manual y se transportarán las ramas podadas a hombro hasta el exterior de la parcela no debiendo tener acceso a ésta los vehículos.</p>
-<p class="cuerpo_tabla_izq">Conservación de elementos del paisaje.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Realizar anualmente una escarda, exclusivamente a mano.</p>
+<p>No efectuar ninguna aplicación con productos fitosanitarios, herbicidas, fungicidas o insecticidas.</p>
+<p>No efectuar fertilización inorgánica alguna. Únicamente se permite la estercoladura.</p>
+<p>Efectuar la poda de las plantas manualmente. A cada planta se le den varios pases de poda al año para evitar el estrés de una única poda. La poda se realizará siempre con herramienta manual y se transportarán las ramas podadas a hombro hasta el exterior de la parcela no debiendo tener acceso a ésta los vehículos.</p>
+<p>Conservación de elementos del paisaje.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198,33 €</p>
+<p>198,33 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2472,91 +2472,91 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **7. Ahorro de agua de riego y fomento de la extensificación en la producción**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7.1</p>
+<p>7.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explotaciones en acuíferos sobreexplotados y en aquellas cuencas hidrográficas o partes de éstas donde el órgano gestor haya efectuado declaración como zona sobreexplotada y la concesión o plan de extracciones de agua para riego no supere anualmente los 4.200 m<sup>3</sup>/ha.</p>
+<p>Explotaciones en acuíferos sobreexplotados y en aquellas cuencas hidrográficas o partes de éstas donde el órgano gestor haya efectuado declaración como zona sobreexplotada y la concesión o plan de extracciones de agua para riego no supere anualmente los 4.200 m<sup>3</sup>/ha.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ahorro de agua de riego en zonas de humedal y acuíferos subterráneos.</p>
-<p class="cuerpo_tabla_izq">Cumplimentar y mantener actualizado un cuaderno de explotación, en el que quedarán reflejadas todas las actuaciones y operaciones que se realicen en los cultivos.</p>
-<p class="cuerpo_tabla_izq">Elaboración de un plan de explotación que abarque todos los años de duración del compromiso y que deberá ser aprobado por la comunidad autónoma.</p>
-<p class="cuerpo_tabla_izq">Disponer de contadores de consumo de agua homologados, realizando mensualmente las correspondientes lecturas de consumo y anotaciones en el libro de explotación. Las lecturas se utilizarán para establecer una base de datos histórica que se tendrá en cuenta para la futura aplicación de la medida.</p>
-<p class="cuerpo_tabla_izq">Las explotaciones agrarias que rieguen con aguas subterráneas tomadas de alumbramientos ilegales no podrán beneficiarse de esta medida. Ello dará origen, además, a la retirada de la explotación del programa y a la devolución por su titular de la totalidad de las ayudas recibidas, sin perjuicio de otras actuaciones que en derecho correspondan.</p>
-<p class="cuerpo_tabla_izq">Adopción durante cinco años de una alternativa de cultivos menos exigentes en necesidades hídricas, en toda la explotación.</p>
-<p class="cuerpo_tabla_izq">El consumo de agua no podrá superar los 2.100 m<sup>3</sup>/ha de superficie cultivada en riego.</p>
-<p class="cuerpo_tabla_izq">La superficie agraria en barbecho (set aside) no podrá disponer de concesión de agua para riego, ni acumular su dotación teórica a otra superficie agraria, propia o de terceros.</p>
-<p class="cuerpo_tabla_izq">La dotación teórica de agua no utilizada por la superficie en barbecho se destinará, exclusivamente, a mejorar la reserva del acuífero para alcanzar la homeostasis del humedal, objetivo prioritario de esta medida.</p>
-<p class="cuerpo_tabla_izq">La superficie de regadío deberá estar inscrita como tal en el catastro de rústica.</p>
-<p class="cuerpo_tabla_izq">Pertenecer a una agrupación o comunidad de regantes.</p>
-<p class="cuerpo_tabla_izq">La reducción de agua se llevará acabo tomando como base la concesión de agua de riego por hectárea que esté asignada a esa explotación, por el organismo encargado de la gestión de la cuenca hidrográfica, respetando las restricciones que puedan establecerse (sequía u otras), y que en ningún caso la dotación podrá ser mayor a 4.200 m<sup>3</sup>/ha y año, para poder acogerse a esta medida.</p>
-<p class="cuerpo_tabla_izq">La ayuda directa por superficie para cultivos herbáceos en regadío es compatible con las dos opciones de esta medida.</p>
+<p>Ahorro de agua de riego en zonas de humedal y acuíferos subterráneos.</p>
+<p>Cumplimentar y mantener actualizado un cuaderno de explotación, en el que quedarán reflejadas todas las actuaciones y operaciones que se realicen en los cultivos.</p>
+<p>Elaboración de un plan de explotación que abarque todos los años de duración del compromiso y que deberá ser aprobado por la comunidad autónoma.</p>
+<p>Disponer de contadores de consumo de agua homologados, realizando mensualmente las correspondientes lecturas de consumo y anotaciones en el libro de explotación. Las lecturas se utilizarán para establecer una base de datos histórica que se tendrá en cuenta para la futura aplicación de la medida.</p>
+<p>Las explotaciones agrarias que rieguen con aguas subterráneas tomadas de alumbramientos ilegales no podrán beneficiarse de esta medida. Ello dará origen, además, a la retirada de la explotación del programa y a la devolución por su titular de la totalidad de las ayudas recibidas, sin perjuicio de otras actuaciones que en derecho correspondan.</p>
+<p>Adopción durante cinco años de una alternativa de cultivos menos exigentes en necesidades hídricas, en toda la explotación.</p>
+<p>El consumo de agua no podrá superar los 2.100 m<sup>3</sup>/ha de superficie cultivada en riego.</p>
+<p>La superficie agraria en barbecho (set aside) no podrá disponer de concesión de agua para riego, ni acumular su dotación teórica a otra superficie agraria, propia o de terceros.</p>
+<p>La dotación teórica de agua no utilizada por la superficie en barbecho se destinará, exclusivamente, a mejorar la reserva del acuífero para alcanzar la homeostasis del humedal, objetivo prioritario de esta medida.</p>
+<p>La superficie de regadío deberá estar inscrita como tal en el catastro de rústica.</p>
+<p>Pertenecer a una agrupación o comunidad de regantes.</p>
+<p>La reducción de agua se llevará acabo tomando como base la concesión de agua de riego por hectárea que esté asignada a esa explotación, por el organismo encargado de la gestión de la cuenca hidrográfica, respetando las restricciones que puedan establecerse (sequía u otras), y que en ningún caso la dotación podrá ser mayor a 4.200 m<sup>3</sup>/ha y año, para poder acogerse a esta medida.</p>
+<p>La ayuda directa por superficie para cultivos herbáceos en regadío es compatible con las dos opciones de esta medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">I. Reducción del 50% de la dotación. Máximo consumo autorizado: 2.100 m<sup>3</sup>/ha y año de superficie agraria cultivada en regadío.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">II. Reducción del 100% de la dotación. Ningún consumo de agua para riego en toda la explotación.</p>
+<p>I. Reducción del 50% de la dotación. Máximo consumo autorizado: 2.100 m<sup>3</sup>/ha y año de superficie agraria cultivada en regadío.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">518 €</p>
+<p>209 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>II. Reducción del 100% de la dotación. Ningún consumo de agua para riego en toda la explotación.</p>
+</td>
+<td>
+<p>518 €</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2564,191 +2564,191 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **8. Protección del paisaje y prácticas de prevención contra incendios**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8.1</p>
+<p>8.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones agrarias que se comprometan a conservar durante cinco años los elementos paisajísticos de su explotación.</p>
-<p class="cuerpo_tabla_izq">Asimismo se comprometerán a mantener, durante cinco años, la actividad agraria en la parcela donde se encuentre ubicado el elemento o elementos objeto de esta ayuda.</p>
+<p>Titulares de explotaciones agrarias que se comprometan a conservar durante cinco años los elementos paisajísticos de su explotación.</p>
+<p>Asimismo se comprometerán a mantener, durante cinco años, la actividad agraria en la parcela donde se encuentre ubicado el elemento o elementos objeto de esta ayuda.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Protección del paisaje: mantenimiento de elementos de singular valor paisajístico de la explotación.</p>
-<p class="cuerpo_tabla_izq">Antes de la aplicación de la medida, se creará un comité técnico para el mejor fin y cumplimiento de la medida, como organismo de asesoramiento específico en el que participarán, fundamentalmente, los servicios técnicos de la comunidad autónoma y expertos de la Administración, etc., los cuales podrán solicitar información a otras unidades sociales y de investigación. Establecerá condiciones de las limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación con las actuaciones realizadas, fecha de ejecución, etc.</p>
-<p class="cuerpo_tabla_izq">Elaboración de un plan agroambiental de la explotación que recoja y describa la totalidad de los elementos a conservar, su singularidad y su significado medioambiental, su dimensionado y presupuesto para su mantenimiento y calendario para cumplir los compromisos.</p>
-<p class="cuerpo_tabla_izq">Conservar la cubierta vegetal, los setos y bosquetes, mediante el:</p>
-<p class="cuerpo_tabla_izq">Control del crecimiento de la vegetación mediante pastoreo controlado.</p>
-<p class="cuerpo_tabla_izq">Eliminación de la maleza de los pies de los árboles y capa arbustiva.</p>
-<p class="cuerpo_tabla_izq">Enterrado y/o recogida o elaboración de compost con restos de poda, residuos agrícolas y restos de alimentos del ganado.</p>
-<p class="cuerpo_tabla_izq">Mantener durante cinco años la actividad agraria en la parcela donde se encuentre ubicado el elemento objeto de la ayuda.</p>
-<p class="cuerpo_tabla_izq">Contendrá, al menos, el mínimo de unidades para elegibilidad de los elementos significativos del paisaje que viene determinado en el punto correspondiente.</p>
-<p class="cuerpo_tabla_izq">Se podrán combinar varios elementos cumpliendo sus respectivos compromisos.</p>
-<p class="cuerpo_tabla_izq">En todo caso se limitará la prima a los máximos establecidos en el anejo del Reglamento (CE) n.º 1257/99.</p>
+<p>Protección del paisaje: mantenimiento de elementos de singular valor paisajístico de la explotación.</p>
+<p>Antes de la aplicación de la medida, se creará un comité técnico para el mejor fin y cumplimiento de la medida, como organismo de asesoramiento específico en el que participarán, fundamentalmente, los servicios técnicos de la comunidad autónoma y expertos de la Administración, etc., los cuales podrán solicitar información a otras unidades sociales y de investigación. Establecerá condiciones de las limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
+<p>Mantener y actualizar el cuaderno de explotación con las actuaciones realizadas, fecha de ejecución, etc.</p>
+<p>Elaboración de un plan agroambiental de la explotación que recoja y describa la totalidad de los elementos a conservar, su singularidad y su significado medioambiental, su dimensionado y presupuesto para su mantenimiento y calendario para cumplir los compromisos.</p>
+<p>Conservar la cubierta vegetal, los setos y bosquetes, mediante el:</p>
+<p>Control del crecimiento de la vegetación mediante pastoreo controlado.</p>
+<p>Eliminación de la maleza de los pies de los árboles y capa arbustiva.</p>
+<p>Enterrado y/o recogida o elaboración de compost con restos de poda, residuos agrícolas y restos de alimentos del ganado.</p>
+<p>Mantener durante cinco años la actividad agraria en la parcela donde se encuentre ubicado el elemento objeto de la ayuda.</p>
+<p>Contendrá, al menos, el mínimo de unidades para elegibilidad de los elementos significativos del paisaje que viene determinado en el punto correspondiente.</p>
+<p>Se podrán combinar varios elementos cumpliendo sus respectivos compromisos.</p>
+<p>En todo caso se limitará la prima a los máximos establecidos en el anejo del Reglamento (CE) n.º 1257/99.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>8.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Protección y mantenimiento del arbolado no productivo de la explotación.</em>
 </p>
-<p class="cuerpo_tabla_izq">Cumplimiento de los compromisos generales de la actuación, referidas en el apartado 8.1.</p>
-<p class="cuerpo_tabla_izq">Para poder acogerse a la medida será necesario que el número medio de árboles por hectárea en el conjunto de la explotación, o la parte de la explotación acogida a la misma, sea superior a cinco pies/ha.</p>
-<p class="cuerpo_tabla_izq">Conservar la vegetación natural, los árboles o arbustos aislados y las isletas de zarzas o matorral arbustivo.</p>
-<p class="cuerpo_tabla_izq">Conservar durante cinco años los elementos paisajísticos de la explotación que a continuación se especifican:</p>
-<p class="cuerpo_tabla_izq">Poda de árboles y eliminación de ramas muertas y enfermas y reposición de pies enfermos y muertos.</p>
-<p class="cuerpo_tabla_izq">Recogida de restos de poda y ramas caídas.</p>
+<p>Cumplimiento de los compromisos generales de la actuación, referidas en el apartado 8.1.</p>
+<p>Para poder acogerse a la medida será necesario que el número medio de árboles por hectárea en el conjunto de la explotación, o la parte de la explotación acogida a la misma, sea superior a cinco pies/ha.</p>
+<p>Conservar la vegetación natural, los árboles o arbustos aislados y las isletas de zarzas o matorral arbustivo.</p>
+<p>Conservar durante cinco años los elementos paisajísticos de la explotación que a continuación se especifican:</p>
+<p>Poda de árboles y eliminación de ramas muertas y enfermas y reposición de pies enfermos y muertos.</p>
+<p>Recogida de restos de poda y ramas caídas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,03 €</p>
+<p>18,03 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>8.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Mantenimiento y conservación de cercas y muretes tradicionales, antiguos caminos agrícolas y pasos de ganado.</em>
 </p>
-<p class="cuerpo_tabla_izq">Cumplimiento de los compromisos generales de la actuación, referidas en el apartado 8.1.</p>
-<p class="cuerpo_tabla_izq">Para poder acogerse a la medida será necesario que la explotación, o la parte de la explotación acogida a ella, disponga, al menos, de una longitud media de cercas y muretes de piedra de 100 ml/ha, y de caminos agrícolas y pasos de ganado de, al menos, 20 ml/ha.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento y reconstrucción de cercas y muros de piedra tradicionales que serán revisados y reparados anualmente.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento de antiguos caminos agrícolas y pasos de ganado, mediante limpieza de la vegetación de éstos y mantenimiento de las cunetas.</p>
+<p>Cumplimiento de los compromisos generales de la actuación, referidas en el apartado 8.1.</p>
+<p>Para poder acogerse a la medida será necesario que la explotación, o la parte de la explotación acogida a ella, disponga, al menos, de una longitud media de cercas y muretes de piedra de 100 ml/ha, y de caminos agrícolas y pasos de ganado de, al menos, 20 ml/ha.</p>
+<p>Mantenimiento y reconstrucción de cercas y muros de piedra tradicionales que serán revisados y reparados anualmente.</p>
+<p>Mantenimiento de antiguos caminos agrícolas y pasos de ganado, mediante limpieza de la vegetación de éstos y mantenimiento de las cunetas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,14 €</p>
+<p>84,14 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>8.1.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Conservación y mantenimiento de construcciones de pallozas o teitos y construcciones asimiladas.</em>
 </p>
-<p class="cuerpo_tabla_izq">Reparación y conservación de las obras de fábrica de pallozas o teitos de uso agroganadero, turístico, etc.</p>
-<p class="cuerpo_tabla_izq">Reparación y sustitución periódica de la cubierta vegetal.</p>
-<p class="cuerpo_tabla_izq">En el caso de que en la comunidad autónoma en que se aplique la medida existiera un registro de recursos etnográficos, se procederá a inscribir la construcción que va a ser objeto de la ayuda.</p>
-<p class="cuerpo_tabla_izq">Para poder acogerse a esta medida, será necesario que el número medio de pallozas sea de una por cada cinco hectáreas en el conjunto de la explotación o en la parte de ésta, acogida a esta medida.</p>
+<p>Reparación y conservación de las obras de fábrica de pallozas o teitos de uso agroganadero, turístico, etc.</p>
+<p>Reparación y sustitución periódica de la cubierta vegetal.</p>
+<p>En el caso de que en la comunidad autónoma en que se aplique la medida existiera un registro de recursos etnográficos, se procederá a inscribir la construcción que va a ser objeto de la ayuda.</p>
+<p>Para poder acogerse a esta medida, será necesario que el número medio de pallozas sea de una por cada cinco hectáreas en el conjunto de la explotación o en la parte de ésta, acogida a esta medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,06 €</p>
+<p>36,06 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">8.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ser titular de explotaciones ganaderas extensivas en zonas con presencia de osos y/o lobos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Compatibilización de los sistemas de pastoreo tradicionales en el entorno del lobo y el oso.</p>
-<p class="cuerpo_tabla_izq">Antes de la aplicación de la medida se creará por cada comunidad autónoma en la que se aplique un comité técnico para el mejor fin y cumplimiento de la medida, que establecerá las condiciones de limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">El ganado deberá estar correctamente identificado.</p>
-<p class="cuerpo_tabla_izq">Realizar ordenación del pastoreo para evitar el sobrepastoreo.</p>
-<p class="cuerpo_tabla_izq">Ordenar los aprovechamientos ligando la cabaña a las disponibilidades reales de terreno.</p>
-<p class="cuerpo_tabla_izq">Mantener una carga ganadera media de 1 UGM mes/ha, durante la época de utilización de los pastos.</p>
-<p class="cuerpo_tabla_izq">La permanencia del ganado en los pastos será al menos de 100 días.</p>
-<p class="cuerpo_tabla_izq">Los rebaños han de estar vigilados por un pastor que recoja diariamente el ganado en un redil.</p>
-<p class="cuerpo_tabla_izq">Se complementará la protección del ganado con la presencia de perros adiestrados y con la instalación de pastores eléctricos en las áreas de descanso y reposo dentro de los pastizales.</p>
-<p class="cuerpo_tabla_izq">Renunciar a las indemnizaciones por ataques de osos o lobos.</p>
-<p class="cuerpo_tabla_izq">Dejar en la montaña las ovejas que hayan muerto por causas naturales siempre que se cumplan las recomendaciones de sanidad animal.</p>
-<p class="cuerpo_tabla_izq">Llevar un libro de gestión del ganado, donde se inscribirán los lugares de pastos, las altas y bajas, el lugar donde ha habido un posible ataque de oso y el lugar donde se hayan dejado las ovejas muertas en caso de bajas.</p>
-<p class="cuerpo_tabla_izq">Prohibida la destrucción de construcciones tradicionales (cercas, majadas, refugios, etc.), y la quema del matorral.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,22 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8.3</p>
+<p>8.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Propietarios o arrendatarios, titulares de parcelas agrarias incluidas y limítrofes de los PPP definidos para la prevención y extinción de incendios.</p>
+<p>Ser titular de explotaciones ganaderas extensivas en zonas con presencia de osos y/o lobos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de cultivos alternativos en perímetros de protección prioritaria.</p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en práctica de la medida se creará un comité técnico para el mejor fin y cumplimiento de la medida.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación:</p>
-<p class="cuerpo_tabla_izq">Siembra en los terrenos agrícolas afectados de alfalfa y esparceta, que mantengan la masa vegetal verde durante todo el verano.</p>
-<p class="cuerpo_tabla_izq">Asegurar una densidad normal de vegetación:</p>
-<p class="cuerpo_tabla_izq">Conservación de linderos y bancales en su estado original.</p>
-<p class="cuerpo_tabla_izq">No recolectar o pastorear entre el 30 de mayo y el 15 de septiembre.</p>
-<p class="cuerpo_tabla_izq">Acreditar el respeto a la rotación de cultivos.</p>
-<p class="cuerpo_tabla_izq">Prohibición de abonos nitrogenados.</p>
-<p class="cuerpo_tabla_izq">Establecer un plan de cultivo anual para las parcelas objeto de ayuda y anotarlo en un cuaderno de registro de la explotación.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan integral de lucha contra incendios para toda la explotación.</p>
+<p>Compatibilización de los sistemas de pastoreo tradicionales en el entorno del lobo y el oso.</p>
+<p>Antes de la aplicación de la medida se creará por cada comunidad autónoma en la que se aplique un comité técnico para el mejor fin y cumplimiento de la medida, que establecerá las condiciones de limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>El ganado deberá estar correctamente identificado.</p>
+<p>Realizar ordenación del pastoreo para evitar el sobrepastoreo.</p>
+<p>Ordenar los aprovechamientos ligando la cabaña a las disponibilidades reales de terreno.</p>
+<p>Mantener una carga ganadera media de 1 UGM mes/ha, durante la época de utilización de los pastos.</p>
+<p>La permanencia del ganado en los pastos será al menos de 100 días.</p>
+<p>Los rebaños han de estar vigilados por un pastor que recoja diariamente el ganado en un redil.</p>
+<p>Se complementará la protección del ganado con la presencia de perros adiestrados y con la instalación de pastores eléctricos en las áreas de descanso y reposo dentro de los pastizales.</p>
+<p>Renunciar a las indemnizaciones por ataques de osos o lobos.</p>
+<p>Dejar en la montaña las ovejas que hayan muerto por causas naturales siempre que se cumplan las recomendaciones de sanidad animal.</p>
+<p>Llevar un libro de gestión del ganado, donde se inscribirán los lugares de pastos, las altas y bajas, el lugar donde ha habido un posible ataque de oso y el lugar donde se hayan dejado las ovejas muertas en caso de bajas.</p>
+<p>Prohibida la destrucción de construcciones tradicionales (cercas, majadas, refugios, etc.), y la quema del matorral.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102,17 €</p>
+<p>10,22 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.3</p>
+</td>
+<td>
+<p>Propietarios o arrendatarios, titulares de parcelas agrarias incluidas y limítrofes de los PPP definidos para la prevención y extinción de incendios.</p>
+</td>
+<td>
+<p>Mantenimiento de cultivos alternativos en perímetros de protección prioritaria.</p>
+<p>Antes de la puesta en práctica de la medida se creará un comité técnico para el mejor fin y cumplimiento de la medida.</p>
+<p>Mantener y actualizar el cuaderno de explotación:</p>
+<p>Siembra en los terrenos agrícolas afectados de alfalfa y esparceta, que mantengan la masa vegetal verde durante todo el verano.</p>
+<p>Asegurar una densidad normal de vegetación:</p>
+<p>Conservación de linderos y bancales en su estado original.</p>
+<p>No recolectar o pastorear entre el 30 de mayo y el 15 de septiembre.</p>
+<p>Acreditar el respeto a la rotación de cultivos.</p>
+<p>Prohibición de abonos nitrogenados.</p>
+<p>Establecer un plan de cultivo anual para las parcelas objeto de ayuda y anotarlo en un cuaderno de registro de la explotación.</p>
+<p>Presentar un plan integral de lucha contra incendios para toda la explotación.</p>
+</td>
+<td>
+<p>102,17 €</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -2756,817 +2756,817 @@ d) Ley 10/1998, de 21 de abril, de Residuos.
 
 **9. Gestión integrada de las explotaciones**
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Código</p>
+<p>Código</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Beneficiario</p>
+<p>Beneficiario</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Compromisos de las medidas</p>
+<p>Compromisos de las medidas</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Primas (Euros/ha)</p>
+<p>Primas (Euros/ha)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Básica</p>
+<p>Básica</p>
 </th>
 <th>
-<p class="cabeza_tabla">Complementaria</p>
+<p>Complementaria</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9.1</p>
+<p>9.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones dedicadas de forma estable y permanente a la producción ganadera.</p>
+<p>Titulares de explotaciones dedicadas de forma estable y permanente a la producción ganadera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mejora y conservación del medio físico.</p>
-<p class="cuerpo_tabla_izq">Cargas ganaderas a respetar:</p>
-<p class="cuerpo_tabla_izq">a) Carga ganadera mínima (UGM/ha):</p>
-<p class="cuerpo_tabla_izq">Monte comunal: 0.1.</p>
-<p class="cuerpo_tabla_izq">Pradera natural: 0.5.</p>
-<p class="cuerpo_tabla_izq">Pasto y rastrojera: 0.1.</p>
-<p class="cuerpo_tabla_izq">Dehesa: 0.1.</p>
-<p class="cuerpo_tabla_izq">Prado y pastizal: 0.2.</p>
-<p class="cuerpo_tabla_izq">b) Cargas ganaderas máximas (UGM/ha):</p>
-<p class="cuerpo_tabla_izq">Prado y pastizal:</p>
-<p class="cuerpo_tabla_izq">Comunal: 1 (1,4* Cornisa Cantábrica).</p>
-<p class="cuerpo_tabla_izq">No comunal: 1.4 (2* Cornisa Cantábrica).</p>
-<p class="cuerpo_tabla_izq">Dehesa:</p>
-<p class="cuerpo_tabla_izq">Precipitación &lt; 600 mm: 0.45.</p>
-<p class="cuerpo_tabla_izq">Precipitación &gt; 600 mm: 0.75.</p>
-<p class="cuerpo_tabla_izq">Pasto y rastrojera: 0.4.</p>
+<p>Mejora y conservación del medio físico.</p>
+<p>Cargas ganaderas a respetar:</p>
+<p>a) Carga ganadera mínima (UGM/ha):</p>
+<p>Monte comunal: 0.1.</p>
+<p>Pradera natural: 0.5.</p>
+<p>Pasto y rastrojera: 0.1.</p>
+<p>Dehesa: 0.1.</p>
+<p>Prado y pastizal: 0.2.</p>
+<p>b) Cargas ganaderas máximas (UGM/ha):</p>
+<p>Prado y pastizal:</p>
+<p>Comunal: 1 (1,4* Cornisa Cantábrica).</p>
+<p>No comunal: 1.4 (2* Cornisa Cantábrica).</p>
+<p>Dehesa:</p>
+<p>Precipitación &lt; 600 mm: 0.45.</p>
+<p>Precipitación &gt; 600 mm: 0.75.</p>
+<p>Pasto y rastrojera: 0.4.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Actuaciones sobre las zonas de pastos y rastrojeras.</em>
 </p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de siembra y aprovechamiento. La siembra se retrasará sobre el calendario habitual.</p>
-<p class="cuerpo_tabla_izq">Llevar cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan de gestión agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y refleje todos los compromisos de la medida.</p>
-<p class="cuerpo_tabla_izq">Superficie mínima de actuación 15 ha.</p>
-<p class="cuerpo_tabla_izq">Respeto a cargas ganaderas máximas y mínimas establecidas.</p>
-<p class="cuerpo_tabla_izq">No superar la carga ganadera de la explotación fijada en el plan de gestión de la explotación, durante los años que dure el compromiso.</p>
-<p class="cuerpo_tabla_izq">Aprovechamiento racional de las rastrojeras y resto de superficies pastables, respetando el calendario de pastoreo.</p>
-<p class="cuerpo_tabla_izq">No levantar los rastrojos hasta cinco meses después de la recolección de las superficies de cereales integrantes de su explotación agrícola que figuren en su declaración anual de cultivos herbáceos.</p>
-<p class="cuerpo_tabla_izq">Dejar al menos el 50% de la paja de los cultivos de cereales sobre el terreno.</p>
-<p class="cuerpo_tabla_izq">Recoger las cuerdas del atado de pacas de paja, heno o ensilado utilizadas para alimentación del ganado, almacenándolas en la explotación en sacos hasta su retirada.</p>
+<p>Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de siembra y aprovechamiento. La siembra se retrasará sobre el calendario habitual.</p>
+<p>Llevar cuaderno de explotación.</p>
+<p>Presentar un plan de gestión agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y refleje todos los compromisos de la medida.</p>
+<p>Superficie mínima de actuación 15 ha.</p>
+<p>Respeto a cargas ganaderas máximas y mínimas establecidas.</p>
+<p>No superar la carga ganadera de la explotación fijada en el plan de gestión de la explotación, durante los años que dure el compromiso.</p>
+<p>Aprovechamiento racional de las rastrojeras y resto de superficies pastables, respetando el calendario de pastoreo.</p>
+<p>No levantar los rastrojos hasta cinco meses después de la recolección de las superficies de cereales integrantes de su explotación agrícola que figuren en su declaración anual de cultivos herbáceos.</p>
+<p>Dejar al menos el 50% de la paja de los cultivos de cereales sobre el terreno.</p>
+<p>Recoger las cuerdas del atado de pacas de paja, heno o ensilado utilizadas para alimentación del ganado, almacenándolas en la explotación en sacos hasta su retirada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,27 €</p>
+<p>40,27 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Realizar un aprovechamiento de pastos racional contemplando las superficies extensificadas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20% incent 8,05 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75%, de razas autóctonas inscritas en los correspondientes libros de registro de las razas oficiales.</p>
+<p>Realizar un aprovechamiento de pastos racional contemplando las superficies extensificadas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>20% incent 8,05 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75%, de razas autóctonas inscritas en los correspondientes libros de registro de las razas oficiales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>9.1.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Transformación de cultivos herbáceos en praderas permanentes para consumo a diente.</em>
 </p>
-<p class="cuerpo_tabla_izq">Esta medida se llevará a cabo en aquellas explotaciones que se acojan a la 9.1.1. Actuaciones en pastos y rastrojeras, exigiéndose en estas superficies el cumplimiento de los compromisos generales que corresponden, pero no será acumulable la percepción de prima general.</p>
-<p class="cuerpo_tabla_izq">Comprometerse a mantener la superficie de pradera durante los cinco años que dure el compromiso.</p>
-<p class="cuerpo_tabla_izq">Sustitución de al menos una ha de cultivos herbáceos por praderas permanentes de secano o cultivos forrajeros o de grano (anejo 9.3.II).</p>
+<p>Esta medida se llevará a cabo en aquellas explotaciones que se acojan a la 9.1.1. Actuaciones en pastos y rastrojeras, exigiéndose en estas superficies el cumplimiento de los compromisos generales que corresponden, pero no será acumulable la percepción de prima general.</p>
+<p>Comprometerse a mantener la superficie de pradera durante los cinco años que dure el compromiso.</p>
+<p>Sustitución de al menos una ha de cultivos herbáceos por praderas permanentes de secano o cultivos forrajeros o de grano (anejo 9.3.II).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">76,33 €</p>
+<p>76,33 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Transformación de cultivos herbáceos en cultivos forrajeros para consumo a diente por el ganado.</em>
 </p>
-<p class="cuerpo_tabla_izq">Sustitución de al menos una ha de cultivos herbáceos por cultivos forrajeros o de grano, para consumo a diente por el ganado (anejo 9.3.II).</p>
-<p class="cuerpo_tabla_izq">Cuando se realice la transformación, se exigirá el cumplimiento de los compromisos generales que sean de aplicación, pero no será acumulable la percepción de prima general.</p>
-<p class="cuerpo_tabla_izq">Esta medida se llevará a cabo en aquellas explotaciones que se acojan a la 9.1.1. Actuaciones en pastos y rastrojeras, exigiéndose en estas superficies el cumplimiento de los compromisos generales que corresponden.</p>
-<p class="cuerpo_tabla_izq">Comprometerse a mantener la superficie de pradera durante los cinco años que dure el compromiso.</p>
+<p>Sustitución de al menos una ha de cultivos herbáceos por cultivos forrajeros o de grano, para consumo a diente por el ganado (anejo 9.3.II).</p>
+<p>Cuando se realice la transformación, se exigirá el cumplimiento de los compromisos generales que sean de aplicación, pero no será acumulable la percepción de prima general.</p>
+<p>Esta medida se llevará a cabo en aquellas explotaciones que se acojan a la 9.1.1. Actuaciones en pastos y rastrojeras, exigiéndose en estas superficies el cumplimiento de los compromisos generales que corresponden.</p>
+<p>Comprometerse a mantener la superficie de pradera durante los cinco años que dure el compromiso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63,11 €</p>
+<p>63,11 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.1.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Transformación de cultivos herbáceos en pastizales naturales.</em>
 </p>
-<p class="cuerpo_tabla_izq">Sustitución de al menos una ha de cultivos herbáceos por praderas permanentes de secano o cultivos forrajeros o de grano (anejo 9.3.II).</p>
-<p class="cuerpo_tabla_izq">Cuando se realice la transformación, se exigirá el cumplimiento de los compromisos generales que sean de aplicación, pero no será acumulable la percepción de prima general.</p>
-<p class="cuerpo_tabla_izq">Esta medida se llevará a cabo en aquellas explotaciones que se acojan a la 9.1.1. Actuaciones en pastos y rastrojeras, exigiéndose en estas superficies el cumplimiento de los compromisos generales que corresponden.</p>
-<p class="cuerpo_tabla_izq">Comprometerse a mantener la superficie de pradera durante los cinco años que dure el compromiso.</p>
+<p>Sustitución de al menos una ha de cultivos herbáceos por praderas permanentes de secano o cultivos forrajeros o de grano (anejo 9.3.II).</p>
+<p>Cuando se realice la transformación, se exigirá el cumplimiento de los compromisos generales que sean de aplicación, pero no será acumulable la percepción de prima general.</p>
+<p>Esta medida se llevará a cabo en aquellas explotaciones que se acojan a la 9.1.1. Actuaciones en pastos y rastrojeras, exigiéndose en estas superficies el cumplimiento de los compromisos generales que corresponden.</p>
+<p>Comprometerse a mantener la superficie de pradera durante los cinco años que dure el compromiso.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51,09 €</p>
+<p>51,09 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Actuaciones en sistemas adehesados.</em>
 </p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de aprovechamiento.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan de gestión agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y reflejar todos los compromisos de la medida.</p>
-<p class="cuerpo_tabla_izq">Superficie mínima de actuación de 20 ha.</p>
-<p class="cuerpo_tabla_izq">Respetar la carga ganadera establecida en el apartado 9.1.</p>
-<p class="cuerpo_tabla_izq">Al menos el 75% de la superficie agraria útil de la explotación deberá ser de pastos (incluidos los de aprovechamiento comunal) o cultivos orientados a la alimentación del ganado.</p>
-<p class="cuerpo_tabla_izq">No utilizar aperos de labranza que inviertan los horizontes del suelo.</p>
-<p class="cuerpo_tabla_izq">Prohibición de roturaciones en pendientes superiores al 10%.</p>
-<p class="cuerpo_tabla_izq">Realizar limpiezas de vegetación: eliminación de material arbustivo mediante desbroces manuales y/o mecánicos.</p>
-<p class="cuerpo_tabla_izq">Mantener o reducir la proporción superficie cultivo/superficie pasto.</p>
-<p class="cuerpo_tabla_izq">Recoger las cuerdas del atado de pacas de paja, heno o ensilado utilizadas para alimentación del ganado, almacenándolas en la explotación en sacos hasta su retirada.</p>
-<p class="cuerpo_tabla_izq">Conservar y mantener los elementos de manejo del ganado, en especial aquellos que se consideren necesarios para la consecución de los objetivos previstos en la medida (cercas, muretes, aguadas, etc.).</p>
-<p class="cuerpo_tabla_izq">Mantenimiento y conservación de la cubierta mediante manejo ganadero adecuado.</p>
-<p class="cuerpo_tabla_izq">Realizar un aprovechamiento de pastos racional.</p>
-<p class="cuerpo_tabla_izq">No levantar los rastrojos hasta cuatro meses después de la recolección de las superficies de cereales integrantes de su explotación agrícola que figuren en su declaración anual de cultivos herbáceos.</p>
+<p>Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de aprovechamiento.</p>
+<p>Presentar un plan de gestión agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y reflejar todos los compromisos de la medida.</p>
+<p>Superficie mínima de actuación de 20 ha.</p>
+<p>Respetar la carga ganadera establecida en el apartado 9.1.</p>
+<p>Al menos el 75% de la superficie agraria útil de la explotación deberá ser de pastos (incluidos los de aprovechamiento comunal) o cultivos orientados a la alimentación del ganado.</p>
+<p>No utilizar aperos de labranza que inviertan los horizontes del suelo.</p>
+<p>Prohibición de roturaciones en pendientes superiores al 10%.</p>
+<p>Realizar limpiezas de vegetación: eliminación de material arbustivo mediante desbroces manuales y/o mecánicos.</p>
+<p>Mantener o reducir la proporción superficie cultivo/superficie pasto.</p>
+<p>Recoger las cuerdas del atado de pacas de paja, heno o ensilado utilizadas para alimentación del ganado, almacenándolas en la explotación en sacos hasta su retirada.</p>
+<p>Conservar y mantener los elementos de manejo del ganado, en especial aquellos que se consideren necesarios para la consecución de los objetivos previstos en la medida (cercas, muretes, aguadas, etc.).</p>
+<p>Mantenimiento y conservación de la cubierta mediante manejo ganadero adecuado.</p>
+<p>Realizar un aprovechamiento de pastos racional.</p>
+<p>No levantar los rastrojos hasta cuatro meses después de la recolección de las superficies de cereales integrantes de su explotación agrícola que figuren en su declaración anual de cultivos herbáceos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,08 €</p>
+<p>48,08 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Dejar al menos el 50% de la paja de los cultivos de cereales sobre el terreno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20% incentivo 9,62 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75%, de razas autóctonas inscritas en los correspondientes libros de registros de las razas oficiales.</p>
+<p>Dejar al menos el 50% de la paja de los cultivos de cereales sobre el terreno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>20% incentivo 9,62 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75%, de razas autóctonas inscritas en los correspondientes libros de registros de las razas oficiales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>9.1.2.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Regeneración del arbolado de los géneros quercus (especialmente alcornoque, encina y quejigo) y olea (exclusivamente acebuche).</em>
 </p>
-<p class="cuerpo_tabla_izq">La regeneración del arbolado se realizará mediante la protección de rebrotes de raíz y semillado espontáneo, en un número no inferior a 40 pies/ha.</p>
-<p class="cuerpo_tabla_izq">La densidad mínima total (regeneración más arbolado consolidado) no deberá ser inferior a 100 pies/ha.</p>
+<p>La regeneración del arbolado se realizará mediante la protección de rebrotes de raíz y semillado espontáneo, en un número no inferior a 40 pies/ha.</p>
+<p>La densidad mínima total (regeneración más arbolado consolidado) no deberá ser inferior a 100 pies/ha.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48,08 €</p>
+<p>48,08 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.2.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Transformación de cultivos herbáceos comprendidos en el Reglamento (CE) n.º 1251/99 en praderas permanentes de secano.</em>
 </p>
-<p class="cuerpo_tabla_izq">Sustituir cultivos de cereales por la implantación de praderas permanentes de secano.</p>
-<p class="cuerpo_tabla_izq">Transformación de, al menos, una superficie de una ha.</p>
+<p>Sustituir cultivos de cereales por la implantación de praderas permanentes de secano.</p>
+<p>Transformación de, al menos, una superficie de una ha.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60,10 €</p>
+<p>60,10 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.2.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Transformación de cultivos herbáceos comprendidos en el Reglamento (CE) n.º 1251/99 en cultivos forrajeros para consumo a diente.</em>
 </p>
-<p class="cuerpo_tabla_izq">Sustituir cultivos de cereales grano por siembras de leguminosas y/o cereales para consumo a diente sobre el terreno por el ganado.</p>
-<p class="cuerpo_tabla_izq">Transformación de al menos una superficie de una ha.</p>
+<p>Sustituir cultivos de cereales grano por siembras de leguminosas y/o cereales para consumo a diente sobre el terreno por el ganado.</p>
+<p>Transformación de al menos una superficie de una ha.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43,87 €</p>
+<p>43,87 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.2.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Transformación de cultivos herbáceos comprendidos en el Reglamento (CE) n.º 1251/99 en praderas espontáneas de secano.</em>
 </p>
-<p class="cuerpo_tabla_izq">Sustituir cultivos herbáceos por praderas espontáneas en las zonas donde la desaparición del laboreo permita la regeneración del pasto natural.</p>
-<p class="cuerpo_tabla_izq">Transformación de al menos una superficie de una ha.</p>
+<p>Sustituir cultivos herbáceos por praderas espontáneas en las zonas donde la desaparición del laboreo permita la regeneración del pasto natural.</p>
+<p>Transformación de al menos una superficie de una ha.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24,04 €</p>
+<p>24,04 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Actuaciones sobre zonas de prados y pastizales.</em>
 </p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de aprovechamiento.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y reflejar todos los compromisos de la medida.</p>
-<p class="cuerpo_tabla_izq">Superficie mínima de actuación de siete hectáreas en las explotaciones con aprovechamientos de montes comunales y de tres hectáreas en las restantes.</p>
-<p class="cuerpo_tabla_izq">Mantener el aprovechamiento extensivo de las superficies afectadas, respetando el calendario de aprovechamientos.</p>
-<p class="cuerpo_tabla_izq">Comprometerse a mantener al menos el 75% de la S.A.U. de la explotación de pastos o cultivos orientados a la alimentación de volumen del ganado (incluidos los aprovechamientos comunales).</p>
-<p class="cuerpo_tabla_izq">Conservación y mantenimiento de elementos ganaderos necesarios para un adecuado manejo de los pastos (evitar sobre y sub-pastoreo).</p>
-<p class="cuerpo_tabla_izq">Respeto de las cargas ganaderas anuales máximas y mínimas del código 9.1.</p>
+<p>Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de aprovechamiento.</p>
+<p>Presentar un plan agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y reflejar todos los compromisos de la medida.</p>
+<p>Superficie mínima de actuación de siete hectáreas en las explotaciones con aprovechamientos de montes comunales y de tres hectáreas en las restantes.</p>
+<p>Mantener el aprovechamiento extensivo de las superficies afectadas, respetando el calendario de aprovechamientos.</p>
+<p>Comprometerse a mantener al menos el 75% de la S.A.U. de la explotación de pastos o cultivos orientados a la alimentación de volumen del ganado (incluidos los aprovechamientos comunales).</p>
+<p>Conservación y mantenimiento de elementos ganaderos necesarios para un adecuado manejo de los pastos (evitar sobre y sub-pastoreo).</p>
+<p>Respeto de las cargas ganaderas anuales máximas y mínimas del código 9.1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,06 €</p>
+<p>36,06 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75%, de razas autóctonas inscritas en los correspondientes libros de registros de las razas oficiales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20% incentivo 7,21 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75%, de razas autóctonas inscritas en los correspondientes libros de registros de las razas oficiales.</p>
+</td>
+<td>
+<p>20% incentivo 7,21 €</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>9.1.3.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Desbrozado.</em>
 </p>
-<p class="cuerpo_tabla_izq">Se podrán completar las acciones de pastoreo equilibrado, cuando la ocasión lo requiera, con desbroces.</p>
-<p class="cuerpo_tabla_izq">Se autorizará el desbroce cuando la superficie de matorral o la ocupada por especies rechazadas por el ganado, supere el 15% de la superficie total considerada.</p>
-<p class="cuerpo_tabla_izq">Los desbroces se podrán realizar de forma mecánica o manual; cuando la pendiente sea mayor del 10%, se podrá excepcionalmente realizar un tratamiento químico localizado con productos de baja toxicidad autorizados por el comité técnico.</p>
-<p class="cuerpo_tabla_izq">Superficie mínima de 0,2 ha.</p>
-<p class="cuerpo_tabla_izq">En los perímetros de protección prioritaria, se exigirá autorización para el desbroce, por parte de la autoridad competente.</p>
+<p>Se podrán completar las acciones de pastoreo equilibrado, cuando la ocasión lo requiera, con desbroces.</p>
+<p>Se autorizará el desbroce cuando la superficie de matorral o la ocupada por especies rechazadas por el ganado, supere el 15% de la superficie total considerada.</p>
+<p>Los desbroces se podrán realizar de forma mecánica o manual; cuando la pendiente sea mayor del 10%, se podrá excepcionalmente realizar un tratamiento químico localizado con productos de baja toxicidad autorizados por el comité técnico.</p>
+<p>Superficie mínima de 0,2 ha.</p>
+<p>En los perímetros de protección prioritaria, se exigirá autorización para el desbroce, por parte de la autoridad competente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.3.1.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cuando la superficies de matorral no supere el 50% a desbrozar.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120,20 €</p>
+<p>120,20 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.3.1.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Cuando la superficie de matorral supere el 50% a desbrozar.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180,30 € 7.300 pts/ha adicionales con siembra de forrajeras 43,87 €</p>
+<p>180,30 € 7.300 pts/ha adicionales con siembra de forrajeras 43,87 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.3.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Superficies prados inundadas.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Mantenimiento de pastizales inundados.</em>
 </p>
-<p class="cuerpo_tabla_izq">Cumplimentar cuadernos de explotación.</p>
-<p class="cuerpo_tabla_izq">Mantener los prados inundados al menos un período adicional de tres meses, a partir de mediados de marzo a mediados de junio.</p>
-<p class="cuerpo_tabla_izq">Pastoreo controlado y respeto cargas ganaderas.</p>
-<p class="cuerpo_tabla_izq">Condicionar las épocas de siega de prados a las limitaciones biológicas de las especies vegetales anuales a conservar.</p>
-<p class="cuerpo_tabla_izq">Mantenimiento y siembra de la cubierta vegetal con especies autóctonas recogidas en anejo 9.3.II.</p>
+<p>Cumplimentar cuadernos de explotación.</p>
+<p>Mantener los prados inundados al menos un período adicional de tres meses, a partir de mediados de marzo a mediados de junio.</p>
+<p>Pastoreo controlado y respeto cargas ganaderas.</p>
+<p>Condicionar las épocas de siega de prados a las limitaciones biológicas de las especies vegetales anuales a conservar.</p>
+<p>Mantenimiento y siembra de la cubierta vegetal con especies autóctonas recogidas en anejo 9.3.II.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24,04 €</p>
+<p>24,04 €</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.1.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Mejora de praderas en zona de montaña para protección del paisaje y la biodiversidad.</em>
 </p>
-<p class="cuerpo_tabla_izq">Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de siembra y aprovechamiento.</p>
-<p class="cuerpo_tabla_izq">Llevar cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan agroambiental de la explotación, que deberá ser aprobado por la comunidad autónoma.</p>
-<p class="cuerpo_tabla_izq">Superficie mínima de actuación: tres has.</p>
-<p class="cuerpo_tabla_izq">Explotaciones con pendientes superiores al 20%.</p>
-<p class="cuerpo_tabla_izq">Limpieza de bordes sin empleo de herbicidas.</p>
-<p class="cuerpo_tabla_izq">Comprometerse a mantener, al menos, el 75% de la SAU de la explotación de pastos o cultivos orientados a la alimentación del volumen del ganado, incluidos los aprovechamientos comunales.</p>
-<p class="cuerpo_tabla_izq">Realizar un solo corte al año, cuya fecha será fijada por el comité técnico, en todo caso después del semillado y pasado el período de nidificación de aves.</p>
-<p class="cuerpo_tabla_izq">Completar el aprovechamiento mediante el pastoreo controlado.</p>
-<p class="cuerpo_tabla_izq">Prohibición de cercados que impliquen barreras para el libre paso de la fauna.</p>
+<p>Antes de la puesta en marcha de la medida, se creará un comité técnico por cada comunidad autónoma que la aplique, encargado de establecer calendarios de siembra y aprovechamiento.</p>
+<p>Llevar cuaderno de explotación.</p>
+<p>Presentar un plan agroambiental de la explotación, que deberá ser aprobado por la comunidad autónoma.</p>
+<p>Superficie mínima de actuación: tres has.</p>
+<p>Explotaciones con pendientes superiores al 20%.</p>
+<p>Limpieza de bordes sin empleo de herbicidas.</p>
+<p>Comprometerse a mantener, al menos, el 75% de la SAU de la explotación de pastos o cultivos orientados a la alimentación del volumen del ganado, incluidos los aprovechamientos comunales.</p>
+<p>Realizar un solo corte al año, cuya fecha será fijada por el comité técnico, en todo caso después del semillado y pasado el período de nidificación de aves.</p>
+<p>Completar el aprovechamiento mediante el pastoreo controlado.</p>
+<p>Prohibición de cercados que impliquen barreras para el libre paso de la fauna.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108,18 €</p>
+<p>108,18 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones con razas autóctonas en peligro de extinción declarado conforme a lo establecido en el anexo I, en relación con el artículo 14 del Reglamento (CE) n.º 445/2002.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento de razas autóctonas puras en peligro de extinción.</p>
-<p class="cuerpo_tabla_izq">Realizar las actuaciones de pastoreo con animales de especies autóctonas en peligro extinción incluidas en el anejo 9.3.IV.</p>
-<p class="cuerpo_tabla_izq">Mantener el censo ganadero de las razas acogidas.</p>
-<p class="cuerpo_tabla_izq">Respetar las cargas ganaderas establecidas.</p>
-<p class="cuerpo_tabla_izq">Pertenecer a una asociación ganadera cuyos fines sean la mejora y conservación de las razas autóctonas.</p>
-<p class="cuerpo_tabla_izq">Inscripción en libro registro oficial de la raza correspondiente.</p>
-<p class="cuerpo_tabla_izq">Mantener en pureza los efectivos reproductores machos y hembras de estas razas.</p>
-<p class="cuerpo_tabla_izq">Participar en un programa de mejora genética, con la obligación de aportar información para seguimiento de la raza, así como para elaboración de valoraciones.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">120,20 €/ UGM</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9.3</p>
+<p>9.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El beneficiario de esta medida deberá cumplir a priori con los requisitos establecidos para acogida a la producción vegetal ecológica descritos en el Reglamento (CEE) n.º 2092/91 de producción ecológica.</p>
+<p>Titulares de explotaciones con razas autóctonas en peligro de extinción declarado conforme a lo establecido en el anexo I, en relación con el artículo 14 del Reglamento (CE) n.º 445/2002.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ganadería ecológica.</p>
-<p class="cuerpo_tabla_izq">Antes de la aplicación de la medida se creará un comité técnico que establecerá condiciones de las limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Presentar un plan agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y respetar todos los compromisos de estas medidas.</p>
-<p class="cuerpo_tabla_izq">Cumplir lo dispuesto en el Reglamento (CE) n.º 1804/99, de 24 de agosto de 1999, sobre producción ganadera ecológica.</p>
-<p class="cuerpo_tabla_izq">Cumplimiento de las normas de producción establecidas en el Reglamento (CEE) n.º 2092/91 sobre la producción ecológica en agricultura.</p>
-<p class="cuerpo_tabla_izq">Estar inscrito en el CRAE correspondiente.</p>
-<p class="cuerpo_tabla_izq">Llevar la contabilidad adecuada.</p>
-<p class="cuerpo_tabla_izq">Notificar su actividad y someterse al control de la autoridad u organismo de control.</p>
-<p class="cuerpo_tabla_izq">Suscribir un contrato en el que se comprometan a cumplir con el Reglamento.</p>
-<p class="cuerpo_tabla_izq">Disponer de un certificado expedido por el organismo de control acreditando, si fuera procedente, que ha venido cumpliendo satisfactoriamente con los compromisos.</p>
-<p class="cuerpo_tabla_izq">Participar en actividades de formación.</p>
-<p class="cuerpo_tabla_izq">Comercialización de la producción ecológica, pasado el periodo obligatorio de reconversión.</p>
-<p class="cuerpo_tabla_izq">Obligatoriedad de la realización de análisis.</p>
+<p>Mantenimiento de razas autóctonas puras en peligro de extinción.</p>
+<p>Realizar las actuaciones de pastoreo con animales de especies autóctonas en peligro extinción incluidas en el anejo 9.3.IV.</p>
+<p>Mantener el censo ganadero de las razas acogidas.</p>
+<p>Respetar las cargas ganaderas establecidas.</p>
+<p>Pertenecer a una asociación ganadera cuyos fines sean la mejora y conservación de las razas autóctonas.</p>
+<p>Inscripción en libro registro oficial de la raza correspondiente.</p>
+<p>Mantener en pureza los efectivos reproductores machos y hembras de estas razas.</p>
+<p>Participar en un programa de mejora genética, con la obligación de aportar información para seguimiento de la raza, así como para elaboración de valoraciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>120,20 €/ UGM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>9.3</p>
+</td>
+<td>
+<p>El beneficiario de esta medida deberá cumplir a priori con los requisitos establecidos para acogida a la producción vegetal ecológica descritos en el Reglamento (CEE) n.º 2092/91 de producción ecológica.</p>
+</td>
+<td>
+<p>Ganadería ecológica.</p>
+<p>Antes de la aplicación de la medida se creará un comité técnico que establecerá condiciones de las limpiezas, períodos de realización, especies vegetales recomendadas, calendarios de pastoreo, etc.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Presentar un plan agroambiental de la explotación que deberá ser aprobado por la comunidad autónoma y respetar todos los compromisos de estas medidas.</p>
+<p>Cumplir lo dispuesto en el Reglamento (CE) n.º 1804/99, de 24 de agosto de 1999, sobre producción ganadera ecológica.</p>
+<p>Cumplimiento de las normas de producción establecidas en el Reglamento (CEE) n.º 2092/91 sobre la producción ecológica en agricultura.</p>
+<p>Estar inscrito en el CRAE correspondiente.</p>
+<p>Llevar la contabilidad adecuada.</p>
+<p>Notificar su actividad y someterse al control de la autoridad u organismo de control.</p>
+<p>Suscribir un contrato en el que se comprometan a cumplir con el Reglamento.</p>
+<p>Disponer de un certificado expedido por el organismo de control acreditando, si fuera procedente, que ha venido cumpliendo satisfactoriamente con los compromisos.</p>
+<p>Participar en actividades de formación.</p>
+<p>Comercialización de la producción ecológica, pasado el periodo obligatorio de reconversión.</p>
+<p>Obligatoriedad de la realización de análisis.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>9.3.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Pastos y rastrojeras.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125,85 €</p>
+<p>125,85 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.3.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Sistemas adehesados.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,64 €</p>
+<p>140,64 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.3.3</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Zona de prados y pastizales.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180,3 €</p>
+<p>180,3 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.3.4</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Titulares de explotaciones apícolas que se comprometan durante cinco años, estén inscritos en el registro oficial de explotaciones apícolas, dispongan de cartilla ganadera, estén inscritos en el CRAE y comercialicen sus productos como ecológicos.</p>
+<p>Titulares de explotaciones apícolas que se comprometan durante cinco años, estén inscritos en el registro oficial de explotaciones apícolas, dispongan de cartilla ganadera, estén inscritos en el CRAE y comercialicen sus productos como ecológicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Apicultura ecológica.</em>
 </p>
-<p class="cuerpo_tabla_izq">Constitución del comité técnico.</p>
-<p class="cuerpo_tabla_izq">Gestionar cuaderno de explotación y contabilidad, y presentar un plan de explotación.</p>
-<p class="cuerpo_tabla_izq">Presentación de una memoria o plan de explotación.</p>
-<p class="cuerpo_tabla_izq">Cumplir los compromisos establecidos respecto a la apicultura dentro del Reglamento (CE) n.º 1804/99.</p>
-<p class="cuerpo_tabla_izq">Mantener más de 50 colmenas.</p>
-<p class="cuerpo_tabla_izq">Densidad: una colmena por hectárea.</p>
-<p class="cuerpo_tabla_izq">Localizar las colmenas en superficies cultivadas ecológicamente y/o pastizales ecológicos.</p>
-<p class="cuerpo_tabla_izq">No utilizar alimentos compuestos que contengan polen.</p>
-<p class="cuerpo_tabla_izq">Sólo se podrá pagar la prima, por superficie cultivada o por el pastizal, ecológicos, sobre los que pecoren las abejas.</p>
+<p>Constitución del comité técnico.</p>
+<p>Gestionar cuaderno de explotación y contabilidad, y presentar un plan de explotación.</p>
+<p>Presentación de una memoria o plan de explotación.</p>
+<p>Cumplir los compromisos establecidos respecto a la apicultura dentro del Reglamento (CE) n.º 1804/99.</p>
+<p>Mantener más de 50 colmenas.</p>
+<p>Densidad: una colmena por hectárea.</p>
+<p>Localizar las colmenas en superficies cultivadas ecológicamente y/o pastizales ecológicos.</p>
+<p>No utilizar alimentos compuestos que contengan polen.</p>
+<p>Sólo se podrá pagar la prima, por superficie cultivada o por el pastizal, ecológicos, sobre los que pecoren las abejas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23,74 €</p>
+<p>23,74 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9.4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Limitado a explotaciones que deseen disminuir su carga ganadera por debajo de las exigidas en las B.P.A.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reducción de cabaña ganadera bovina, ovina y caprina por unidad de superficie forrajera.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Tenencia de cartilla ganadera de la explotación.</p>
-<p class="cuerpo_tabla_izq">Identificación de los animales acogidos a la actuación.</p>
-<p class="cuerpo_tabla_izq">Disminución de la carga ganadera ligada a la tierra por unidad de superficie en pastos en al menos 0,3 UGM/ha, respecto a las cargas existentes al inicio del compromiso, respetando las cargas máximas de las B.P.A. Este objetivo deberá cumplirse antes de finalizar el primer año de compromiso, y manteniéndose hasta el final de ésta.</p>
-<p class="cuerpo_tabla_izq">Podrá reducirse la carga a través de siembra o aprovechamiento de pastos para disminuir aquellas sin reducción de efectivos del rebaño ampliando la superficie forrajera.</p>
-<p class="cuerpo_tabla_izq">También podrá reducirse por eliminación temporal de presencia de ganado.</p>
-<p class="cuerpo_tabla_izq">Cumplir con calendario de pastoreo establecido.</p>
-<p class="cuerpo_tabla_izq">Posibilidad de transferencia de derechos derivados de la O.C.M.</p>
-<p class="cuerpo_tabla_izq">Por sus especiales características agroecológicas, se establece para Galicia un incentivo para la prima de vacuno del 20%.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>9.4</p>
+</td>
+<td>
+<p>Limitado a explotaciones que deseen disminuir su carga ganadera por debajo de las exigidas en las B.P.A.</p>
+</td>
+<td>
+<p>Reducción de cabaña ganadera bovina, ovina y caprina por unidad de superficie forrajera.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Tenencia de cartilla ganadera de la explotación.</p>
+<p>Identificación de los animales acogidos a la actuación.</p>
+<p>Disminución de la carga ganadera ligada a la tierra por unidad de superficie en pastos en al menos 0,3 UGM/ha, respecto a las cargas existentes al inicio del compromiso, respetando las cargas máximas de las B.P.A. Este objetivo deberá cumplirse antes de finalizar el primer año de compromiso, y manteniéndose hasta el final de ésta.</p>
+<p>Podrá reducirse la carga a través de siembra o aprovechamiento de pastos para disminuir aquellas sin reducción de efectivos del rebaño ampliando la superficie forrajera.</p>
+<p>También podrá reducirse por eliminación temporal de presencia de ganado.</p>
+<p>Cumplir con calendario de pastoreo establecido.</p>
+<p>Posibilidad de transferencia de derechos derivados de la O.C.M.</p>
+<p>Por sus especiales características agroecológicas, se establece para Galicia un incentivo para la prima de vacuno del 20%.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>9.4.1</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Reducción cabaña bovina.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180,30 € para Galicia 216,36 €</p>
+<p>180,30 € para Galicia 216,36 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>9.4.2</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <em>Reducción cabaña ovina y caprina.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63,11 €</p>
+<p>63,11 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Titulares que acogidos a la 9.1 tengan cartilla ganadera, guía de traslado y aporten licencia de pastos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gestión racional de sistemas de pastoreo para protección de flora y fauna.</p>
-<p class="cuerpo_tabla_izq">Mantener y actualizar el cuaderno de explotación.</p>
-<p class="cuerpo_tabla_izq">Estar acogido a alguna de las modalidades de la medida 9.1 de mejora y conservación del medio físico.</p>
-<p class="cuerpo_tabla_izq">Realizar la práctica de la gestión tradicional de pastos con desplazamiento estacional del ganado con el mismo número de animales durante al menos cinco años consecutivos.</p>
-<p class="cuerpo_tabla_izq">Tener cartilla ganadera y que figure una guía de traslado.</p>
-<p class="cuerpo_tabla_izq">Aportar licencia de pastos.</p>
-<p class="cuerpo_tabla_izq">Realizar el movimiento del ganado de acuerdo a las prácticas tradicionales de aprovechamiento de forma óptima de los recursos naturales.</p>
-<p class="cuerpo_tabla_izq">Permanecer fuera de la explotación de origen al menos cuatro meses, a contar desde junio.</p>
-<p class="cuerpo_tabla_izq">Durante estos cuatro meses es obligatorio cambiar de pastos, desplazando los animales a pastizales de montaña con aprovechamiento estacional.</p>
-<p class="cuerpo_tabla_izq">Reducir la carga ganadera al menos en un 25% en la explotación de origen, durante el período que dura el aprovechamiento de pastos fuera de la explotación.</p>
-<p class="cuerpo_tabla_izq">No mantener el ganado en las superficies liberadas de la finca de origen entre esas fechas.</p>
-<p class="cuerpo_tabla_izq">Mantener una carga ganadera en la zona de destino que no supere 1,4 U.G.M./ha. Respeto cargas establecidas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">60,10 €</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>9.5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Titulares que acogidos a la 9.1 tengan cartilla ganadera, guía de traslado y aporten licencia de pastos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75% de razas autóctonas inscritas en los correspondientes libros de registros de las razas oficiales.</p>
+<p>Gestión racional de sistemas de pastoreo para protección de flora y fauna.</p>
+<p>Mantener y actualizar el cuaderno de explotación.</p>
+<p>Estar acogido a alguna de las modalidades de la medida 9.1 de mejora y conservación del medio físico.</p>
+<p>Realizar la práctica de la gestión tradicional de pastos con desplazamiento estacional del ganado con el mismo número de animales durante al menos cinco años consecutivos.</p>
+<p>Tener cartilla ganadera y que figure una guía de traslado.</p>
+<p>Aportar licencia de pastos.</p>
+<p>Realizar el movimiento del ganado de acuerdo a las prácticas tradicionales de aprovechamiento de forma óptima de los recursos naturales.</p>
+<p>Permanecer fuera de la explotación de origen al menos cuatro meses, a contar desde junio.</p>
+<p>Durante estos cuatro meses es obligatorio cambiar de pastos, desplazando los animales a pastizales de montaña con aprovechamiento estacional.</p>
+<p>Reducir la carga ganadera al menos en un 25% en la explotación de origen, durante el período que dura el aprovechamiento de pastos fuera de la explotación.</p>
+<p>No mantener el ganado en las superficies liberadas de la finca de origen entre esas fechas.</p>
+<p>Mantener una carga ganadera en la zona de destino que no supere 1,4 U.G.M./ha. Respeto cargas establecidas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12 €</p>
+<p>60,10 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">9.6</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Pastoreo con razas autóctonas con un 20% adicional en la prima correspondiente, cuando éste se realice con efectivos al menos en su 75% de razas autóctonas inscritas en los correspondientes libros de registros de las razas oficiales.</p>
+</td>
+<td>
+<p>12 €</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.6</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Titulares de explotaciones apícolas que se comprometan durante cinco años, estén inscritos en el registro oficial de explotaciones apícolas, dispongan de cartilla ganadera con un mínimo de 150 colmenas.</p>
+<p>Titulares de explotaciones apícolas que se comprometan durante cinco años, estén inscritos en el registro oficial de explotaciones apícolas, dispongan de cartilla ganadera con un mínimo de 150 colmenas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apicultura para mejora de la biodiversidad en zonas frágiles.</p>
-<p class="cuerpo_tabla_izq">Constitución del comité técnico.</p>
-<p class="cuerpo_tabla_izq">Presentación de un plan de explotación y gestionar cuaderno de explotación y contabilidad.</p>
-<p class="cuerpo_tabla_izq">Tener debidamente marcadas de forma indeleble todas y cada una de las colmenas para adecuado control zoosanitario.</p>
-<p class="cuerpo_tabla_izq">La superficie de acogida será de vegetación entomófila, caracterizada por ecosistemas con biodiversidad frágil propios de praderas, pastizales y agroecosistemas adehesados, así como, todas las zonas con biodiversidad frágil y vegetación autóctona que determine el comité técnico.</p>
-<p class="cuerpo_tabla_izq">Densidad: una colmena cada dos hectáreas de vegetación autóctona para pecoreo.</p>
-<p class="cuerpo_tabla_izq">Cada colmenar no tendrá más de 80 colmenas y la distancia entre ellos será superior a un km, debiendo ubicarse permanentemente en zonas de biodiversidad frágil; excepto durante los seis meses de transhumancia que pueden realizar el 80% de las colmenas, como máximo.</p>
-<p class="cuerpo_tabla_izq">No suministrar alimentación estimulante que contenga polen.</p>
-<p class="cuerpo_tabla_izq">Aplicar un sistema de lucha integrada contra la varroasis y enfermedades asociadas, incorporando métodos de manejo y lucha biológica; utilizando productos químicos de síntesis sólo cuando se considere necesario a juicio del comité técnico.</p>
+<p>Apicultura para mejora de la biodiversidad en zonas frágiles.</p>
+<p>Constitución del comité técnico.</p>
+<p>Presentación de un plan de explotación y gestionar cuaderno de explotación y contabilidad.</p>
+<p>Tener debidamente marcadas de forma indeleble todas y cada una de las colmenas para adecuado control zoosanitario.</p>
+<p>La superficie de acogida será de vegetación entomófila, caracterizada por ecosistemas con biodiversidad frágil propios de praderas, pastizales y agroecosistemas adehesados, así como, todas las zonas con biodiversidad frágil y vegetación autóctona que determine el comité técnico.</p>
+<p>Densidad: una colmena cada dos hectáreas de vegetación autóctona para pecoreo.</p>
+<p>Cada colmenar no tendrá más de 80 colmenas y la distancia entre ellos será superior a un km, debiendo ubicarse permanentemente en zonas de biodiversidad frágil; excepto durante los seis meses de transhumancia que pueden realizar el 80% de las colmenas, como máximo.</p>
+<p>No suministrar alimentación estimulante que contenga polen.</p>
+<p>Aplicar un sistema de lucha integrada contra la varroasis y enfermedades asociadas, incorporando métodos de manejo y lucha biológica; utilizando productos químicos de síntesis sólo cuando se considere necesario a juicio del comité técnico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,52 €</p>
+<p>10,52 €</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </tbody>

@@ -2157,649 +2157,649 @@ d) Sujetos pasivos: Serán sujetos pasivos de la tasa los titulares de las insta
 
 e) Tipos de gravamen y cuota: La cuota tributaria a ingresar será la resultante de multiplicar la base imponible por los tipos de gravamen siguientes para cada tipo de residuos:
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo residuo</p>
+<p>Tipo residuo</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Tipo gravamen<br> (€/unid)</p>
+<p>Tipo gravamen<br> (€/unid)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Instalación de procedencia</p>
+<p>Instalación de procedencia</p>
 </th>
 </tr>
 <tr>
 <td colspan="7">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Sólidos</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S01.</p>
+<p>S01.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos sólidos compactables (bolsas de 25 litros).</p>
+<p>Residuos sólidos compactables (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">104,74</p>
+<p>104,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S02.</p>
+<p>S02.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos no compactables (bolsas de 25 litros).</p>
+<p>Residuos no compactables (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">104,74</p>
+<p>104,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S03.</p>
+<p>S03.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Cadáveres de animales. Residuos biológicos (bolsas de 25 litros).</p>
+<p>Cadáveres de animales. Residuos biológicos (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">270,76</p>
+<p>270,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S04.</p>
+<p>S04.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Agujas hipodérmicas en contenedores rígidos (bolsas de 25 litros).</p>
+<p>Agujas hipodérmicas en contenedores rígidos (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">104,74</p>
+<p>104,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S05.</p>
+<p>S05.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Sólidos especiales:</p>
+<p>Sólidos especiales:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="2"> </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">S051.</p>
+<p>S051.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos con Ir-192 como componente activo (bolsas de 25 litros).</p>
+<p>Residuos con Ir-192 como componente activo (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">104,74</p>
+<p>104,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">S052.</p>
+<p>S052.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Sales de Uranio o Torio (bolsas de 25 litros).</p>
+<p>Sales de Uranio o Torio (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">195,82</p>
+<p>195,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Mixtos</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">M01.</p>
+<p>M01.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos mixtos compuestos por líquidos orgánicos más viales (contenedores de 25 l)</p>
+<p>Residuos mixtos compuestos por líquidos orgánicos más viales (contenedores de 25 l)</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">225,51</p>
+<p>225,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">M02.</p>
+<p>M02.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Placas y similares con líquidos o geles (bolsas de 25 litros).</p>
+<p>Placas y similares con líquidos o geles (bolsas de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">104,74</p>
+<p>104,74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Líquidos</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">L01.</p>
+<p>L01.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos líquidos orgánicos (contenedores de 25 litros).</p>
+<p>Residuos líquidos orgánicos (contenedores de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">229,53</p>
+<p>229,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">L02.</p>
+<p>L02.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos líquidos acuosos (contenedores de 25 litros).</p>
+<p>Residuos líquidos acuosos (contenedores de 25 litros).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">195,20</p>
+<p>195,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Fuentes</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F01.</p>
+<p>F01.</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_izq">Fuentes encapsuladas cuya actividad no sobrepase los límites, establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada no supere los 20 litros:</p>
+<p>Fuentes encapsuladas cuya actividad no sobrepase los límites, establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada no supere los 20 litros:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F011.</p>
+<p>F011.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F01 con elementos de semiperíodo inferior o igual al del Co-60.</p>
+<p>Las fuentes F01 con elementos de semiperíodo inferior o igual al del Co-60.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">310,07</p>
+<p>310,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F012.</p>
+<p>F012.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F01 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137 incluido éste.</p>
+<p>Las fuentes F01 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137 incluido éste.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">310,07</p>
+<p>310,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F013.</p>
+<p>F013.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F01 con elementos de semiperíodo superior al del Cs-137.</p>
+<p>Las fuentes F01 con elementos de semiperíodo superior al del Cs-137.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">310,07</p>
+<p>310,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F014.</p>
+<p>F014.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F01 con isótopo en estado gaseoso, la cual es sometida a venteo controlado.</p>
+<p>Las fuentes F01 con isótopo en estado gaseoso, la cual es sometida a venteo controlado.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">310,07</p>
+<p>310,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F02.</p>
+<p>F02.</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_izq">Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada sea superior a 20 l e inferior o igual a 80 l.</p>
+<p>Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada sea superior a 20 l e inferior o igual a 80 l.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F021</p>
+<p>F021</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F02 con elementos de semiperíodo inferior o igual al del Co-60.</p>
+<p>Las fuentes F02 con elementos de semiperíodo inferior o igual al del Co-60.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">575,85</p>
+<p>575,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F022.</p>
+<p>F022.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F02 con elementos de semiperíodo comprendido entre el del Co-60 y el Cs-137, incluido éste.</p>
+<p>Las fuentes F02 con elementos de semiperíodo comprendido entre el del Co-60 y el Cs-137, incluido éste.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">575,85</p>
+<p>575,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F023.</p>
+<p>F023.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F02 con elementos de semiperíodo superior al del Cs-137.</p>
+<p>Las fuentes F02 con elementos de semiperíodo superior al del Cs-137.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">575,85</p>
+<p>575,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F05.</p>
+<p>F05.</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_izq">Fuentes encapsuladas que sobrepasen los límites de actividad expresados para los tipos F01 y F02 y/o su volumen sea superior a 80 litros:</p>
+<p>Fuentes encapsuladas que sobrepasen los límites de actividad expresados para los tipos F01 y F02 y/o su volumen sea superior a 80 litros:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F051.</p>
+<p>F051.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F05 con elementos de semiperiodo inferior o igual al del Co-60. (La fuente sobrepasa el límite de actividad y el de volumen).</p>
+<p>Las fuentes F05 con elementos de semiperiodo inferior o igual al del Co-60. (La fuente sobrepasa el límite de actividad y el de volumen).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">27.000,00</p>
+<p>27.000,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR</p>
+<p>IR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F051X.</p>
+<p>F051X.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F051, considerando el desmontaje del cabezal (con la fuente F051) del equipo en el que opera dicho cabezal.</p>
+<p>Las fuentes F051, considerando el desmontaje del cabezal (con la fuente F051) del equipo en el que opera dicho cabezal.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">39.600,00</p>
+<p>39.600,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR</p>
+<p>IR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F052.</p>
+<p>F052.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F05 con elementos de semiperiodo comprendido entre el de Co-60 y el Cs-137, incluido éste. (La fuente sobrepasa el límite de actividad pero no supera el de volumen).</p>
+<p>Las fuentes F05 con elementos de semiperiodo comprendido entre el de Co-60 y el Cs-137, incluido éste. (La fuente sobrepasa el límite de actividad pero no supera el de volumen).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">2.400,00</p>
+<p>2.400,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">F053.</p>
+<p>F053.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Las fuentes F05 con elementos de semiperiodo superior al del Cs-137 (la fuente sobrepasa el límite de actividad pero no supera el de volumen).</p>
+<p>Las fuentes F05 con elementos de semiperiodo superior al del Cs-137 (la fuente sobrepasa el límite de actividad pero no supera el de volumen).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">2.400,00</p>
+<p>2.400,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IR, IT</p>
+<p>IR, IT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">PMM.</p>
+<p>PMM.</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_izq">Residuos contemplados en el Protocolo de vigilancia radiológica de los materiales metálicos.</p>
+<p>Residuos contemplados en el Protocolo de vigilancia radiológica de los materiales metálicos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PMMD.</p>
+<p>PMMD.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Detecciones: Caso de bidón de 220 litros o fracción de procedencia extranjera o que siendo de procedencia nacional, los residuos no puedan ser alojados en un único bidón de 220 litros. (bidón de 220 l o fracción).</p>
+<p>Detecciones: Caso de bidón de 220 litros o fracción de procedencia extranjera o que siendo de procedencia nacional, los residuos no puedan ser alojados en un único bidón de 220 litros. (bidón de 220 l o fracción).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">2.470,11</p>
+<p>2.470,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IP</p>
+<p>IP</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PMMI1.</p>
+<p>PMMI1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Incidentes: Caso de generación de residuos inferior a 200 m<sup>3</sup> (metro cúbico).</p>
+<p>Incidentes: Caso de generación de residuos inferior a 200 m<sup>3</sup> (metro cúbico).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">2.253,80</p>
+<p>2.253,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IP</p>
+<p>IP</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">PMMI2.</p>
+<p>PMMI2.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Incidentes: Caso de generación de residuos igual o superior a 200 m<sup>3</sup> (por m<sup>3</sup> y desde el primero).</p>
+<p>Incidentes: Caso de generación de residuos igual o superior a 200 m<sup>3</sup> (por m<sup>3</sup> y desde el primero).</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">11.227,80</p>
+<p>11.227,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IP</p>
+<p>IP</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">GEN1.</p>
+<p>GEN1.</p>
 </td>
 <td colspan="5">
-<p class="cuerpo_tabla_izq">Tipo genérico de residuo no contemplado en los tipos de residuo anteriores.<br> La cuota (€) resultará de la aplicación de la fórmula que se indica a continuación, adecuada a la categoría del residuo (RBMA o RBBA) y al volumen del residuo (V en m<sup>3</sup>) que corresponde gestionar.</p>
+<p>Tipo genérico de residuo no contemplado en los tipos de residuo anteriores.<br> La cuota (€) resultará de la aplicación de la fórmula que se indica a continuación, adecuada a la categoría del residuo (RBMA o RBBA) y al volumen del residuo (V en m<sup>3</sup>) que corresponde gestionar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">
-<p class="cuerpo_tabla_izq">RBMA (Residuo de Baja y Media Actividad)</p>
+<p>RBMA (Residuo de Baja y Media Actividad)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">V ≤ 2 m<sup>3</sup></p>
+<p>V ≤ 2 m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.500 + 4.020 x V</p>
+<p>1.500 + 4.020 x V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(1)</p>
+<p>(1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IG</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2 m3 &lt; V ≤ 20 m<sup>3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">9.540 + 4.170 x (V-2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>IG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20 m3 &lt; V ≤ 200 m<sup>3</sup></p>
+<p>2 m3 &lt; V ≤ 20 m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4.230 x V</p>
+<p>9.540 + 4.170 x (V-2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(1)</p>
+<p>(1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">V &gt; 200 m<sup>3</sup></p>
+<p>20 m3 &lt; V ≤ 200 m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">846.000 + 20.310 x (V-200)</p>
+<p>4.230 x V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(1)</p>
+<p>(1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V &gt; 200 m<sup>3</sup></p>
+</td>
+<td>
+<p>846.000 + 20.310 x (V-200)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">
-<p class="cuerpo_tabla_izq">RBBA (Residuo de Muy Baja Actividad)</p>
+<p>RBBA (Residuo de Muy Baja Actividad)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">V ≤ 2 m<sup>3</sup></p>
+<p>V ≤ 2 m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.500 + 500 x V</p>
+<p>1.500 + 500 x V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(1)</p>
+<p>(1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IG</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2 m3 &lt; V ≤ 20 m<sup>3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2.500 + 650 x (V-2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>IG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20 m3 &lt; V ≤ 200 m<sup>3</sup></p>
+<p>2 m3 &lt; V ≤ 20 m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">710 x V</p>
+<p>2.500 + 650 x (V-2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(1)</p>
+<p>(1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">V &gt; 200 m<sup>3</sup></p>
+<p>20 m3 &lt; V ≤ 200 m<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">142.000 + 2.710 x (V-200)</p>
+<p>710 x V</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(1)</p>
+<p>(1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V &gt; 200 m<sup>3</sup></p>
+</td>
+<td>
+<p>142.000 + 2.710 x (V-200)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<p class="cita">(1) El tipo de gravamen correspondiente, según los casos, será el resultante de la aplicación de la fórmula que figura en la columna "Descripción".</p>
+<p>(1) El tipo de gravamen correspondiente, según los casos, será el resultante de la aplicación de la fórmula que figura en la columna "Descripción".</p>
 </td>
 </tr>
 </tbody>

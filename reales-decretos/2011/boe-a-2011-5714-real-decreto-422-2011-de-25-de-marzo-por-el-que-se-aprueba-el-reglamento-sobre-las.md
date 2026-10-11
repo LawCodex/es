@@ -142,16 +142,6 @@ De igual modo, la Administración electoral correspondiente elaborará una guía
 
 3\. Los miembros de las mesas electorales velarán por que los electores con discapacidad puedan ejercer su derecho de voto con la mayor autonomía posible adoptando para ello los ajustes razonables que resulten necesarios.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 1 del Real Decreto 674/2023, de 18 de julio, [Ref. BOE-A-2023-16650](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16650), entra en vigor el 2 de enero de 2024, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. Las Administraciones públicas proporcionarán a las personas sordas o con discapacidad auditiva, usuarias de la lengua de signos española o, en su caso, de las lenguas de signos propias de las comunidades autónomas, que hayan sido designadas miembros de mesa electoral, un servicio gratuito de interpretación de lengua de signos a través del correspondiente intérprete, como apoyo complementario durante la jornada electoral, sin perjuicio del derecho de dichas personas a excusar la aceptación del cargo de miembro de una mesa electoral en los términos establecidos en el artículo 27.3 de la Ley Orgánica 5/1985, de 19 de junio.
-
-> 2\. Dichas personas podrán solicitar a la Junta Electoral de Zona dicho servicio gratuito de interpretación de lengua de signos, por escrito y en el plazo de siete días fijado por el artículo 27.3 de la Ley Orgánica 5/1985, de 19 de junio.
-
-> 3\. Los miembros de las mesas electorales velarán por que los electores con discapacidad puedan ejercer su derecho de voto con la mayor autonomía posible adoptando para ello los ajustes razonables que resulten necesarios."
-
 > Se modifica, con efectos de 2 de enero de 2024, por la disposición final 1 del Real Decreto 674/2023, de 18 de julio. [Ref. BOE-A-2023-16650](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16650)
 
 #### Artículo 5. Accesibilidad a la información electoral de carácter institucional.

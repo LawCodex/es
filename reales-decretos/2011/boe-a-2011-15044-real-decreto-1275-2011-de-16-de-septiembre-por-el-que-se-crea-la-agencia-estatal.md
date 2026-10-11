@@ -628,8 +628,6 @@ b) Doce vocales nombrados por el Consejo Rector, por un periodo de cuatro años,
 
 c) Un vocal nombrado por el Consejo Rector de la Agencia Española de Medicamentos y Productos Sanitarios, a propuesta de la persona titular de la Dirección de la Agencia, por un periodo de dos años, en representación de los intereses de los pacientes.
 
-> Téngase en cuenta que la letra c) añadida al apartado 4 por la disposición final 1.2 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960), entra en vigor el 2 de enero de 2021, según establece su disposición final 6.
-
 5\. El Presidente y Vicepresidente del Comité de Medicamentos de Uso Humano serán designados por el Consejo Rector de la Agencia de entre los ocho vocales designados a propuesta del Director de la Agencia. Actuará como Secretario del Comité de Medicamentos de Uso Humano, el Jefe de Departamento de Medicamentos de Uso Humano de la Agencia.
 
 > Se añade la letra c) al apartado 4 por la disposición final 1.2 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960)
@@ -680,8 +678,6 @@ c) Seis vocales de libre designación, seleccionados entre profesionales y exper
 
 d) Un vocal nombrado por el Consejo Rector de la Agencia Española de Medicamentos y Productos Sanitarios, a propuesta de la persona titular de la Dirección de la Agencia, por un periodo de dos años, en representación de los intereses de los pacientes.
 
-> Téngase en cuenta que la letra d) añadida al apartado 5 por la disposición final 1.3 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960), entra en vigor el 2 de enero de 2021, según establece su disposición final 6.
-
 6\. El Presidente y el Vicepresidente del Comité de Seguridad de Medicamentos de Uso Humano serán designados por el Consejo Rector de la Agencia de entre los seis vocales designados a propuesta del Director de la Agencia. Actuará como Secretario del Comité de Seguridad de Medicamentos de Uso Humano, el Jefe de Departamento de Medicamentos de Uso Humano de la Agencia.
 
 > Se añade la letra d) al apartado 5 por la disposición final 1.3 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960)
@@ -731,20 +727,6 @@ b) Doce vocales nombrados por el Consejo Rector, por un periodo de cuatro años,
 3.º Uno por el Consejo General de Colegios Oficiales de Farmacéuticos.
 
 4.º Ocho por el Consejo Rector de la Agencia Española de Medicamentos y Productos Sanitarios, a propuesta de la persona titular de la Dirección de la Agencia, previa conformidad de la persona titular de la Secretaría General de Agricultura y Alimentación del Ministerio de Agricultura, Pesca y Alimentación.
-
-> Téngase en cuenta que esta última actualización de la letra b) del apartado 4, establecida por la disposición final 1.4 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960), entra en vigor el 2 de enero de 2021, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "b) Doce vocales nombrados por el Ministro de Sanidad, Política Social e Igualdad, por un periodo de cuatro años, a propuesta del Consejo Rector; uno en representación de las organizaciones de consumidores y usuarios y los otros once entre expertos de reconocido prestigio y dedicación al ámbito de las ciencias y las técnicas relacionadas con el medicamento veterinario, a propuesta de:
-
-> 1.º Uno por la Asociación empresarial de la Industria Farmacéutica Veterinaria.
-
-> 2.º Uno por el Consejo General de Colegios Oficiales de Veterinarios.
-
-> 3.º Uno por el Consejo General de Colegios Oficiales de Farmacéuticos.
-
-> 4º. Ocho por el Director de la Agencia previa conformidad de la persona titular de la Secretaría General de Medio Rural del Ministerio de Medio Ambiente, y Medio Rural y Marino."
 
 5\. El Presidente y el Vicepresidente del Comité de Medicamentos Veterinarios será designado por el Consejo Rector de entre los ocho vocales señalados en el párrafo anterior. Actuará como Secretario del Comité de Evaluación de Medicamentos Veterinarios el Jefe del Departamento de Medicamentos Veterinarios.
 
@@ -821,34 +803,6 @@ b) Diecisiete vocales representando cada uno a un Centro Autonómico de Farmacov
 #### Artículo 23. El Comité de Coordinación de Estudios Posautorización.
 
 **(Suprimido).**
-
-> Téngase en cuenta que queda suprimido este artículo por la disposición final 1.5 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960), desde el 2 de enero de 2021, según establece su disposición final 6.
-
-> Redacción anterior:
-
-> "1. El Comité de Coordinación de Estudios Posautorización es un órgano de coordinación, cuyo objetivo la armonización y coordinación de criterios y exigencias en materia de estudios posautorización para la Agencia y las Comunidades Autónomas.
-
-> 2\. Son funciones del Comité de Coordinación de Estudios Posautorización:
-
-> a) Establecer las pautas y los procedimientos para la armonización de las actuaciones en materia de estudios posautorización de medicamentos.
-
-> b) Establecer procedimientos simplificados para estudios promovidos por las administraciones sanitarias o financiados con fondos públicos, al objeto de facilitar su realización.
-
-> c) Asesorar a las diferentes administraciones sobre estudios posautorización cuando así lo requieran.
-
-> 3\. El Comité de Coordinación de Estudios Posautorización estará compuesto por los siguientes miembros:
-
-> a) Dos vocales por razón de su cargo:
-
-> 1\. El Jefe de Departamento de Medicamentos de Uso Humano de la Agencia.
-
-> 2\. El Jefe de la División de Farmacoepidemiología y Farmacovigilancia del Departamento de Medicamentos de Uso Humano.
-
-> b) Diecisiete vocales representando cada uno a un órgano competente en materia de estudios Posautorización de las comunidades autónomas, designado oficialmente por dicho órgano.
-
-> c) Un vocal representando a la Secretaría General de Instituciones Penitenciarias del Ministerio del Interior.
-
-> 4\. El Presidente y el Vicepresidente del Comité de Coordinación de Estudios Posautorización serán elegidos, por sus miembros, de entre los representantes de las comunidades autónomas y de la Secretaría General de Instituciones Penitenciarias. Actuará como Secretario del Comité de Coordinación de Estudios Posautorización el Jefe de la División de Farmacoepidemiología y Farmacovigilancia del Departamento de Medicamentos de Uso Humano."
 
 > Se suprime, con efectos de 2 de enero de 2021, por la disposición final 1.5 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960)
 
@@ -1147,54 +1101,6 @@ c) Cuatro vocales de libre designación, seleccionados entre profesionales y exp
 d) Un vocal nombrado por la por el Consejo Rector de la Agencia Española de Medicamentos y Productos Sanitarios, a propuesta de la persona titular de la Dirección de la Agencia, por un periodo de dos años, en representación de los intereses de los pacientes.
 
 En la designación de las vocalías se atenderá al principio de presencia equilibrada entre mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
-
-> Téngase en cuenta que esta última actualización de los apartados 1, 2 y 3 establecida por la disposición final 1.6 del Real Decreto 957/2020, de 3 de noviembre. [Ref. BOE-A-2020-14960](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14960), entra en vigor el 2 de enero de 2021, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "1. El Comité de Productos Sanitarios es el órgano colegiado para el asesoramiento técnico, científico y clínico en materia de seguridad, eficacia y calidad de productos sanitarios en todos los procedimientos desarrollados por la Agencia Española de Medicamentos y Productos Sanitarios, tanto en calidad de autoridad competente, como en calidad de organismo notificado.
-
-> 2\. Son funciones del Comité de Productos Sanitarios:
-
-> a) Proponer a la Agencia Española de Medicamentos y Productos Sanitarios la realización de los estudios e investigaciones que estime necesarios en relación con los productos sanitarios.
-
-> b) Asesorar a la Agencia Española de Medicamentos y Productos Sanitarios en los aspectos relacionados con la seguridad, la eficacia clínica, el funcionamiento, la calidad, la información y el correcto uso de los productos sanitarios.
-
-> c) Asesorar a la Agencia Española de Medicamentos y Productos Sanitarios en el ejercicio de la función de evaluación de los incidentes adversos que a esta le compete en el marco del Sistema de Vigilancia de productos sanitarios, así como en la evaluación de los riesgos que puedan presentar los productos sanitarios comercializados.
-
-> d) Prestar asesoramiento técnico a los representantes españoles en los grupos de trabajo y reuniones en materia de productos sanitarios que se celebren en la Unión Europea y otros organismos internacionales.
-
-> e) Informar sobre métodos de ensayo y normas técnicas.
-
-> f) Asesorar acerca de las medidas a adoptar encaminadas a la salvaguardia de la salud pública y la protección de los pacientes y usuarios en materia de productos sanitarios, así como en las recomendaciones a emitir para la protección de la salud de la población, la utilización segura de los productos y el seguimiento y tratamiento de los pacientes.
-
-> g) Emitir informe a solicitud de la Dirección de la Agencia Española de Medicamentos y Productos Sanitarios, en los procedimientos de certificación "CE" de los productos sanitarios.
-
-> h) Informar sobre cualquier otra cuestión en materia de productos sanitarios.
-
-> 3\. El Comité de Productos Sanitarios estará constituido por los siguientes vocales:
-
-> a) Cinco vocales por razón de su cargo:
-
-> 1.º La persona titular de la Dirección de la Agencia Española de Medicamentos y Productos Sanitarios o persona en quien delegue.
-
-> 2.º La persona que ostente la jefatura del Departamento de Productos Sanitarios de la Agencia Española de Medicamentos y Productos Sanitarios.
-
-> 3.º La persona responsable del Área de vigilancia y control del mercado del Departamento de Productos Sanitarios de la Agencia Española de Medicamentos y Productos Sanitarios.
-
-> 4.º La persona responsable del Área de certificación de la Agencia Española de Medicamentos y Productos Sanitarios.
-
-> 5.º La persona que presida el Comité Técnico de Inspección.
-
-> b) Cuatro vocales en representación de:
-
-> 1.º El Ministerio de Sanidad, Servicios Sociales e Igualdad.
-
-> 2.º El Instituto de Salud Carlos III, a propuesta de su máximo órgano de dirección.
-
-> 3.º El Instituto Nacional de Toxicología y Ciencias Forenses, a propuesta de su máximo órgano de dirección.
-
-> 4.º El Consejo Superior de Investigaciones Científicas, a propuesta de su máximo órgano de dirección."
 
 4\. En virtud de lo dispuesto en el artículo 29.3, el Comité podrá requerir la colaboración de cuantos expertos considere oportunos.
 

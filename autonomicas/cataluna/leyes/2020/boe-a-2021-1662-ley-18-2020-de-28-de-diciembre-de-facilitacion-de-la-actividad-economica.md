@@ -1028,1932 +1028,1923 @@ Observaciones generales
 
 3\. Las actividades con parámetros comprendidos en las dos primeras columnas no requieren un informe de compatibilidad urbanística. Tampoco requieren permiso de vertido previo, siempre que estén conectadas al sistema público de saneamiento.
 
-<table class="tabla_girada" data-girar-pagina="true">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">División</th>
-<th class="cabeza_tabla" rowspan="2">Grupo</th>
-<th class="cabeza_tabla" rowspan="2">Clase</th>
-<th class="cabeza_tabla" rowspan="2">Descripción</th>
-<th class="cabeza_tabla">Certificado técnico</th>
-<th class="cabeza_tabla" colspan="2">Proyecto técnico + certificado técnico</th>
+<th rowspan="2">División</th>
+<th rowspan="2">Grupo</th>
+<th rowspan="2">Clase</th>
+<th rowspan="2">Descripción</th>
+<th>Certificado técnico</th>
+<th colspan="2">Proyecto técnico + certificado técnico</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">Parámetros</th>
-<th class="cabeza_tabla">Requiere informe previo de incendios</th>
+<th>Parámetros</th>
+<th>Parámetros</th>
+<th>Requiere informe previo de incendios</th>
 </tr>
 </thead>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">A</td>
-<td class="cuerpo_tabla_izq" colspan="4">
-<p class="cuerpo_tabla_izq">Agricultura, ganadería, silvicultura y pesca.</p>
-<p class="cuerpo_tabla_izq">Observación: queda excluido el autoconsumo.</p>
+<td colspan="3">A</td>
+<td colspan="4">
+<p>Agricultura, ganadería, silvicultura y pesca.</p>
+<p>Observación: queda excluido el autoconsumo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">01</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Agricultura, ganadería, caza y actividades de los servicios relacionados.</td>
+<td>01</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Agricultura, ganadería, caza y actividades de los servicios relacionados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0130</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Viveros y cultivos de plantas ornamentales.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las empresas que se dedican a la producción, la protección y el tratamiento de material vegetal y las empresas que se dedican a la limpieza de cereales de fecundación autógama y de leguminosas para la siembra.</p>
+<td> </td>
+<td> </td>
+<td>0130</td>
+<td>
+<p>Viveros y cultivos de plantas ornamentales.</p>
+<p>Observación: quedan excluidas las empresas que se dedican a la producción, la protección y el tratamiento de material vegetal y las empresas que se dedican a la limpieza de cereales de fecundación autógama y de leguminosas para la siembra.</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</p>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 120 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0141</td>
-<td class="cuerpo_tabla_izq">Explotación de ganado bovino para la producción de leche.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 5 unidades.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0141</td>
+<td>Explotación de ganado bovino para la producción de leche.</td>
+<td>Si las reses son ≤ 5 unidades.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0142</td>
-<td class="cuerpo_tabla_izq">Explotación de ganado bovino (excepto para la producción de leche) y búfalos.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 5 unidades.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0142</td>
+<td>Explotación de ganado bovino (excepto para la producción de leche) y búfalos.</td>
+<td>Si las reses son ≤ 5 unidades.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0143</td>
-<td class="cuerpo_tabla_izq">Explotación de caballos y otros equinos.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 5 unidades.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0143</td>
+<td>Explotación de caballos y otros equinos.</td>
+<td>Si las reses son ≤ 5 unidades.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0144</td>
-<td class="cuerpo_tabla_izq">Explotación de camellos y otros camélidos.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 5 unidades.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0144</td>
+<td>Explotación de camellos y otros camélidos.</td>
+<td>Si las reses son ≤ 5 unidades.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0145</td>
-<td class="cuerpo_tabla_izq">Explotación de ganado ovino y caprino.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 10 unidades.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0145</td>
+<td>Explotación de ganado ovino y caprino.</td>
+<td>Si las reses son ≤ 10 unidades.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0146</td>
-<td class="cuerpo_tabla_izq">Explotación de ganado porcino.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 10 unidades, y ≤ 5 unidades en caso de cerdas reproductoras.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0146</td>
+<td>Explotación de ganado porcino.</td>
+<td>Si las reses son ≤ 10 unidades, y ≤ 5 unidades en caso de cerdas reproductoras.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0147</td>
-<td class="cuerpo_tabla_izq">Avicultura.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 30 unidades.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0147</td>
+<td>Avicultura.</td>
+<td>Si las reses son ≤ 30 unidades.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0149</td>
-<td class="cuerpo_tabla_izq">Otras explotaciones de ganado.</td>
-<td class="cuerpo_tabla_izq">Si las reses son ≤ 5 URP (1 URP = 1 plaza de vacuno de leche).</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0149</td>
+<td>Otras explotaciones de ganado.</td>
+<td>Si las reses son ≤ 5 URP (1 URP = 1 plaza de vacuno de leche).</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">02</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Silvicultura y explotación forestal.</td>
+<td>02</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Silvicultura y explotación forestal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">0240</td>
-<td class="cuerpo_tabla_izq">Servicios de apoyo a la silvicultura.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td>0240</td>
+<td>Servicios de apoyo a la silvicultura.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">industrias manufactureras.</td>
+<td>C</td>
+<td> </td>
+<td> </td>
+<td colspan="4">industrias manufactureras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Fabricación de bebidas.</td>
+<td>11</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Fabricación de bebidas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">1107</td>
-<td class="cuerpo_tabla_izq">Fabricación de bebidas no alcohólicas; producción de aguas minerales y otros tipos de aguas embotelladas.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+<td> </td>
+<td> </td>
+<td>1107</td>
+<td>Fabricación de bebidas no alcohólicas; producción de aguas minerales y otros tipos de aguas embotelladas.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Artes gráficas y soportes grabados.</td>
+<td>18</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Artes gráficas y soportes grabados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">181</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Artes gráficas y actividades de los servicios relacionados Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+<td> </td>
+<td>181</td>
+<td> </td>
+<td>Artes gráficas y actividades de los servicios relacionados Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">182</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Reproducción de soportes grabados.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+<td> </td>
+<td>182</td>
+<td> </td>
+<td>
+<p>Reproducción de soportes grabados.</p>
+<p>Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">32</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Industrias manufactureras varias.</td>
+<td>32</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Industrias manufactureras varias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">322</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Fabricación de instrumentos musicales.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+<td> </td>
+<td>322</td>
+<td> </td>
+<td>
+<p>Fabricación de instrumentos musicales.</p>
+<p>Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">323</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fabricación de artículos deportivos. Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">324</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fabricación de juegos y juguetes. Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">325</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Fabricación de instrumentos y suministros médicos y odontológicos.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">329</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras industrias manufactureras varias. Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="3">F</td>
-<td class="cuerpo_tabla_izq" colspan="4">Construcción.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">41</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Construcción de inmuebles.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">411</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Promoción inmobiliaria.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">412</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Construcción de edificios.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">42</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Construcción de obras de ingeniería civil.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">421</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Construcción de carreteras, vías férreas, puentes y túneles.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">422</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Construcción de redes.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">429</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Construcción de otras obras de ingeniería civil.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">43</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades especializadas de la construcción.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">431</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Preparación de obras.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">432</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Instalación de edificios y obras.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">433</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Acabado de edificios.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">439</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades especializadas de la construcción.</td>
-<td class="cuerpo_tabla_izq">Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
-</td>
-<td class="cuerpo_tabla_izq">Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">G</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">
-<p class="cuerpo_tabla_izq">Comercio al por mayor y al por menor.</p>
-<p class="cuerpo_tabla_izq">Observación: los comercios al por mayor que deben considerarse establecimientos industriales son los que superan los 3 millones de MJ de carga de fuego o bien aquellos en donde no es posible el autoabastecimiento personal para superar la altura de almacenamiento que lo posibilita.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">45</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Venta y reparación de vehículos de motor y motocicletas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">451</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Venta de vehículos de motor.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">453</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Venta de recambios y accesorios de vehículos de motor.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">454</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Venta, mantenimiento y reparación de motocicletas y de sus repuestos y accesorios Observaciones: se incluye en esta actividad la venta de otros medios de transporte. Quedan excluidos el mantenimiento y la reparación ya regulados por la Ley 20/2009.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">46</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Comercio al por mayor e intermediarios, excepto vehículos de motor.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">461</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Intermediarios de comercio.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">463</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Comercio al por mayor de alimentos, bebidas y tabaco.</p>
-<p class="cuerpo_tabla_izq">Observación: queda excluido el comercio al por mayor de productos de origen animal (CCAE 4632, 4638 y 4639).</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">464</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de artículos de uso doméstico.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">465</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de equipos para las tecnologías de la información y la comunicación (TIC).</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">466</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de otras máquinas y equipos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">467</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros tipos de comercio al por mayor especializado.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">469</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor no especializado.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">47</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Comercio al por menor, excepto vehículos de motor y motocicletas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">471</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por menor en establecimientos no especializados.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">472</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Comercio al por menor de alimentos, bebidas y tabaco.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las carnicerías con obrador y las panaderías con hornos de potencia&gt; 7,5 kW ya reguladas por la Ley 20/2009.</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">474</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de equipos para las TIC.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">475</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por mayor de otros artículos de uso doméstico.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">476</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de artículos culturales y recreativos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">477</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Comercio al por menor de otros artículos en establecimientos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">H</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Transporte y almacenamiento.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">49</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Transporte terrestre; transporte por tuberías.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">494</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Transporte de mercancías por carretera y mudanzas.</td>
-<td class="cuerpo_tabla_izq">Si se trata de empresas de transporte o transportistas profesionales con un máximo de 2 vehículos y sin almacén regulador.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">En el caso de naves de empresas de camiones o furgonetas de logística, campas de aparcamiento de vehículos, etc.</p>
-</td>
-<td class="cuerpo_tabla_izq">Siempre que el almacenamiento de vehículos esté clasificado en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">52</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Almacenamiento y actividades afines al transporte.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">521</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Depósito y almacenamiento Observación: quedan excluidos los almacenes de actividades afectados por alguno de los anexos de la Ley 20/2009, de 4 de diciembre.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Las actividades incluidas en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">5221</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades afines al transporte terrestre.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades afectadas por alguno de los anexos de la Ley 20/2009, de 4 de diciembre.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Las actividades de almacenamiento de vehículos clasificadas en el anexo 2 de la Ley 3/2010: Aparcamiento de vehículos con superficie construida &gt; 2.000 m<sup>2</sup>, o bien si dispone de dos o más plantas bajo rasante, o bien si se halla situado bajo un edificio y tiene una superficie construida&gt; 750 m<sup>2</sup>. Almacenamiento (estacionamiento) de vehículos destinados al servicio de transporte de personas o mercancías, si está en el anexo 2 de la Ley 3/2010, de 18 de febrero. Terminal de transporte de personas, si dispone de superficie construida &gt; 500 m<sup>2</sup> o presenta un aforo &gt; 500 personas. Estación o intercambiador de transporte terrestre, si está situado en planta bajo rasante o presenta un aforo &gt; 500 personas.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">53</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades postales y de correos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">531</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades postales nacionales.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">532</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades postales y de correos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">I</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Hostelería.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">55</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Servicios de alojamiento.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">551</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Hoteles y alojamientos similares.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Si el número de plazas disponibles &gt; 20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">552</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Alojamientos turísticos y otros de corta duración.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Aplicable a los establecimientos de turismo rural y a las viviendas de uso turístico y, en general, a toda modalidad de alojamiento turístico que pueda llevarse a cabo en edificios o establecimientos con uso característico residencial de vivienda.</p>
-<p class="cuerpo_tabla_izq">Observación: La cédula de habitabilidad equivale al certificado técnico justificativo en los términos establecidos en el artículo 32.1.</p>
-</td>
-<td class="cuerpo_tabla_izq">Todos. Observaciones: quedan excluidas las modalidades de establecimientos de turismo rural, las viviendas de uso turístico y, en general, toda modalidad de alojamiento turístico que pueda llevarse a cabo en edificios o establecimientos con uso característico residencial de vivienda.</td>
-<td class="cuerpo_tabla_izq">Si el número de plazas disponibles &gt; 20.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">559</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros tipos de alojamiento.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Si el número de plazas disponibles &gt; 20.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">56</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Servicios de comida y bebidas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">561</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Restaurantes y establecimientos de comida.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup> o el aforo &gt; 500 personas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">562</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Provisión de comidas preparadas Observaciones: se incluyen las actividades comerciales minoristas, sin consumición en el establecimiento, y aquellas actividades no incluidas en el punto 7.2 de la Ley 20/2009, de 4 de diciembre.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">563</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de bebidas</p>
-<p class="cuerpo_tabla_izq">Observaciones: se excluyen las actividades de carácter extraordinario, las de régimen especial y con reservados anexos, todas las actividades recreativas musicales en establecimientos no permanentes desmontables, y las actividades recreativas musicales en establecimientos permanentes no desmontables con una superficie &gt; 500 m2 y un aforo &gt; 500 personas, reguladas por la Ley 11/2009, de 6 de julio.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Todos.</p>
-<p class="cuerpo_tabla_izq"> </p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m² o el aforo &gt; 500 personas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">J</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Información y comunicaciones Observación: quedan excluidas las actividades consideradas industriales.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">58</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Edición.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">581</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Edición de libros, periódicos y otras actividades de edición.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las imprentas (incluso CCAE 181).</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">582</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Edición de programas informáticos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">59</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Cine y vídeo; grabación de sonido.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">591</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de cine, vídeo y programas de televisión.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>. Observación: quedan excluidas las actividades de proyección de películas en salas cinematográficas.</td>
-<td class="cuerpo_tabla_izq">Todas las actividades de proyección de películas en salas cinematográficas. Los demás establecimientos si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Todas las actividades de proyección de películas en salas cinematográficas</p>
-<p class="cuerpo_tabla_izq">Los demás establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">592</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades de grabación de sonido y edición musical.</p>
-<p class="cuerpo_tabla_izq">Observación: si se realizan grabaciones en directo, se incluye en las actividades de espectáculos (CCAE 900).</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">60</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Radio y televisión.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">601</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de radiodifusión.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">602</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de programación y emisión de televisión.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">61</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Telecomunicaciones.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">619</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades de telecomunicaciones.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">62</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Servicios de tecnologías de la información.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">620</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Servicios de tecnologías de la información.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">63</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Servicios de información.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">631</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Procesamiento de datos y alojamiento; portales web.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">639</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros servicios de información.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">64</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Mediación financiera, excepto seguros y fondos de pensiones.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">6419</td>
-<td class="cuerpo_tabla_izq">Otros tipos de mediación monetaria.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">642</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de las sociedades holding.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">643</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Inversión colectiva, fondos y entidades similares.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">649</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros tipos de mediación financiera.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">65</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Seguros, reaseguros y fondos de pensiones, excepto la seguridad social obligatoria.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">651</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Seguros.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">652</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Reaseguros.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">653</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Fondos de contingencia.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">66</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades auxiliares de la mediación financiera y de seguros.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">661</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares de la mediación financiera, excepto seguros y fondos de pensiones.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">662</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares de seguros y fondos de pensiones.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">663</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de gestión de fondos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">L</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades inmobiliarias.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">68</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades inmobiliarias.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">681</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Compraventa de bienes inmobiliarios por cuenta propia.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">682</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Alquiler de bienes inmobiliarios por cuenta propia.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">683</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades inmobiliarias por cuenta ajena.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">M</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades profesionales, científicas y técnicas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">69</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades jurídicas y de contabilidad.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">691</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades jurídicas.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">692</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades contables, de auditoría y de asesoría fiscal.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">70</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades de sedes centrales y consultoría empresarial.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">701</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de sedes centrales.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">702</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de consultoría de gestión empresarial.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">71</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Servicios técnicos de arquitectura e ingeniería.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">711</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Servicios técnicos de arquitectura e ingeniería.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">712</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Análisis y ensayos técnicos Observación: quedan excluidos los laboratorios de análisis e investigación a que se refiere la Ley 20/2009, de 4 de diciembre (código 12.23 de los anexos II y III).</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida destinada a laboratorios es ≤ 50 m<sup>2</sup> (excluyendo despachos, almacenes y otras áreas auxiliares) y siempre que la superficie construida total sea ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida destinada a laboratorios es &gt; 50 m<sup>2</sup> (excluyendo despachos, almacenes y otras áreas auxiliares) o siempre que la superficie construida total sea &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">73</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Publicidad y estudios de mercado.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">731</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Publicidad.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">732</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Estudios de mercado y encuestas de opinión pública.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">74</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Otras actividades profesionales y técnicas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">741</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de diseño especializado.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">742</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de fotografía Observación: quedan excluidos los laboratorios industriales de fotografía a que se refiere la Ley 20/2009 (código 12.24 del anexo II).</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">743</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de traducción e interpretación.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">749</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades profesionales y técnicas no clasificadas en otros apartados.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">N</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades administrativas y servicios auxiliares.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">77</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades de alquiler.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">771</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Alquiler de vehículos a motor.</td>
-<td class="cuerpo_tabla_izq">Si sólo se dispone de zonas de uso administrativo, cuando la superficie construida ≤ 500 m<sup>2</sup>. Sin zona de aparcamiento de vehículos.</td>
-<td class="cuerpo_tabla_izq">Si las zonas de uso administrativo presentan una superficie construida &gt; 500 m<sup>2</sup>. O si dispone de aparcamiento de vehículos.</td>
-<td class="cuerpo_tabla_izq">Si dispone de aparcamiento de vehículos, siempre que esté situado en una segunda o más plantas bajo rasante, o bien si se encuentra situado bajo un edificio y tiene una superficie construida&gt; 750 m<sup>2</sup>, o bien, en cualquier otro caso, cuando tenga una superficie construida&gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">772</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Alquiler de efectos personales y enseres domésticos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">773</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Alquiler de maquinaria, equipos y bienes tangibles.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">774</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Arrendamiento de propiedad intelectual, salvo derechos de autor.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">78</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades relacionadas con el empleo.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">781</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de las agencias de colocación.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">782</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de las empresas de trabajo temporal.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">783</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros tipos de provisión de recursos humanos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">79</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades de las agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">791</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de las agencias de viajes y operadores turísticos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">799</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros servicios de reservas y actividades relacionadas.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">80</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Control de seguridad e investigación.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">801</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de seguridad privada.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">802</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Servicios de sistemas de seguridad.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">803</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de investigación.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">81</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Servicios en edificios y actividades de jardinería.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">811</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Servicios integrales en edificios e instalaciones.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">812</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de limpieza.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">813</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de jardinería.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">82</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades administrativas de oficina y auxiliares.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">821</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades administrativas y auxiliares de oficina.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">822</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de centros de atención telefónica.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">823</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Organización de convenciones y firas de muestras.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">829</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades de apoyo a las empresas.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">O</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Administración pública, defensa y seguridad social obligatoria.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">84</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Administración pública, defensa y seguridad social obligatoria.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">841</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Administración pública y de la política económica y social.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">842</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Prestación de servicios a la comunidad en general.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">843</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Seguridad social obligatoria.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">P</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Educación.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">85</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Educación.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">851</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Educación preprimaria.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todas.</td>
-<td class="cuerpo_tabla_izq">Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 300 m² construidos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">852</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Educación primaria.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todas.</td>
-<td class="cuerpo_tabla_izq">Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">853</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Educación secundaria.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todas.</td>
-<td class="cuerpo_tabla_izq">Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">854</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Educación postsecundaria.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todas.</td>
-<td class="cuerpo_tabla_izq">Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">855</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades de educación.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">856</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares de educación.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Q</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades sanitarias y de servicios sociales.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">86</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades sanitarias.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">862</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades médicas y odontológicas.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidos los hospitales, las clínicas y los establecimientos sanitarios con ingreso de pacientes regulados en la Ley 20/2009, de 4 de diciembre (código 12.25).</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Todos los establecimientos clasificados como de uso hospitalario de acuerdo con el CTE. Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">869</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Otras actividades sanitarias.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">87</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">
-<p class="cuerpo_tabla_izq">Actividades de servicios sociales con alojamiento.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidos los hospitales y las clínicas con ingreso de pacientes regulados en la Ley 20/2009, de 4 de diciembre (código 12.25).</p>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>323</td>
+<td> </td>
+<td>Fabricación de artículos deportivos. Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro">871</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Actividades de servicios sociales con alojamiento y cuidados de enfermería</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida&gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Todas las residencias asistidas para personas mayores. Todos los centros sociosanitarios. Todos los establecimientos clasificados como de uso hospitalario de acuerdo con el CTE. Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos.</td>
+<td>324</td>
+<td> </td>
+<td>Fabricación de juegos y juguetes. Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
+</td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro">872</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Actividades de servicios sociales con alojamiento para personas con discapacidad psíquica, personas con enfermedades mentales y personas drogodependientes</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Si el número de plazas disponibles &gt; 20.</td>
+<td>325</td>
+<td> </td>
+<td>
+<p>Fabricación de instrumentos y suministros médicos y odontológicos.</p>
+<p>Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
+</td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro">873</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Actividades de servicios sociales residenciales para personas mayores y personas con discapacidad física</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Si el número de plazas disponibles &gt; 20.</td>
+<td>329</td>
+<td> </td>
+<td>Otras industrias manufactureras varias. Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">F</td>
+<td colspan="4">Construcción.</td>
+</tr>
+<tr>
+<td>41</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Construcción de inmuebles.</td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro">879</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Actividades de servicios sociales con alojamiento</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-<td class="cuerpo_tabla_izq">Si el número de plazas disponibles &gt; 20.</td>
+<td>411</td>
+<td> </td>
+<td>Promoción inmobiliaria.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup>.</td>
+<td>Si disponen de oficinas y la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">88</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">
-<p class="cuerpo_tabla_izq">Actividades de servicios sociales sin alojamiento.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidos los hospitales de día y los centros de asistencia primaria regulados en la Ley 20/2009 (código 12.26).</p>
+<td> </td>
+<td>412</td>
+<td> </td>
+<td>Construcción de edificios.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td>42</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Construcción de obras de ingeniería civil.</td>
+</tr>
+<tr>
+<td> </td>
+<td>421</td>
+<td> </td>
+<td>Construcción de carreteras, vías férreas, puentes y túneles.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>422</td>
+<td> </td>
+<td>Construcción de redes.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>429</td>
+<td> </td>
+<td>Construcción de otras obras de ingeniería civil.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td>43</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades especializadas de la construcción.</td>
+</tr>
+<tr>
+<td> </td>
+<td>431</td>
+<td> </td>
+<td>Preparación de obras.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>432</td>
+<td> </td>
+<td>Instalación de edificios y obras.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>433</td>
+<td> </td>
+<td>Acabado de edificios.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>439</td>
+<td> </td>
+<td>Otras actividades especializadas de la construcción.</td>
+<td>Si disponen de oficinas y la superficie construida del local es ≤ 500 m<sup>2</sup> y no disponen de almacén de materiales.</td>
+<td>
+<p>Si disponen de oficinas de superficie construida &gt; 500 m<sup>2</sup> o si disponen de almacén de materiales.Quedan excluidas las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010.</p>
+</td>
+<td>Las actividades que dispongan de almacén industrial sometido a la aplicación del RSCIEI e incluido en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td>G</td>
+<td> </td>
+<td> </td>
+<td colspan="4">
+<p>Comercio al por mayor y al por menor.</p>
+<p>Observación: los comercios al por mayor que deben considerarse establecimientos industriales son los que superan los 3 millones de MJ de carga de fuego o bien aquellos en donde no es posible el autoabastecimiento personal para superar la altura de almacenamiento que lo posibilita.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">881</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de servicios sociales sin alojamiento para personas mayores y personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Todos los centros de día. Todos los establecimientos clasificados como de uso hospitalario de acuerdo con el CTE. Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos. Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
+<td>45</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Venta y reparación de vehículos de motor y motocicletas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">889</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otros tipos de actividades de servicios sociales sin alojamiento.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+<td> </td>
+<td>451</td>
+<td> </td>
+<td>Venta de vehículos de motor.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>453</td>
+<td> </td>
+<td>Venta de recambios y accesorios de vehículos de motor.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>454</td>
+<td> </td>
+<td>Venta, mantenimiento y reparación de motocicletas y de sus repuestos y accesorios Observaciones: se incluye en esta actividad la venta de otros medios de transporte. Quedan excluidos el mantenimiento y la reparación ya regulados por la Ley 20/2009.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td>46</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Comercio al por mayor e intermediarios, excepto vehículos de motor.</td>
+</tr>
+<tr>
+<td> </td>
+<td>461</td>
+<td> </td>
+<td>Intermediarios de comercio.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>463</td>
+<td> </td>
+<td>
+<p>Comercio al por mayor de alimentos, bebidas y tabaco.</p>
+<p>Observación: queda excluido el comercio al por mayor de productos de origen animal (CCAE 4632, 4638 y 4639).</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>464</td>
+<td> </td>
+<td>Comercio al por mayor de artículos de uso doméstico.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>465</td>
+<td> </td>
+<td>Comercio al por mayor de equipos para las tecnologías de la información y la comunicación (TIC).</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>466</td>
+<td> </td>
+<td>Comercio al por mayor de otras máquinas y equipos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>467</td>
+<td> </td>
+<td>Otros tipos de comercio al por mayor especializado.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td>469</td>
+<td> </td>
+<td>Comercio al por mayor no especializado.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos industriales, a los que es aplicable el RSCIEI, y se hallan incluidos en el anexo 2 de la Ley 3/2010, de 18 de febrero.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8891</td>
-<td class="cuerpo_tabla_izq">Actividades de atención diurna para niños.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos. Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td>47</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Comercio al por menor, excepto vehículos de motor y motocicletas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>471</td>
+<td> </td>
+<td>Comercio al por menor en establecimientos no especializados.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">8899</td>
-<td class="cuerpo_tabla_izq">Otros tipos de actividades de servicios sociales sin alojamiento ncoa.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos. Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td> </td>
+<td>472</td>
+<td> </td>
+<td>
+<p>Comercio al por menor de alimentos, bebidas y tabaco.</p>
+<p>Observación: quedan excluidas las carnicerías con obrador y las panaderías con hornos de potencia&gt; 7,5 kW ya reguladas por la Ley 20/2009.</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td>474</td>
+<td> </td>
+<td>Comercio al por menor de equipos para las TIC.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades artísticas, recreativas y de entretenimiento.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">90</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades de creación, artísticas y de espectáculos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9001</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Artes escénicas</p>
-<p class="cuerpo_tabla_izq">Observaciones: se excluyen los espectáculos públicos de carácter extraordinario, todos los espectáculos públicos en establecimientos no permanentes desmontables y los espectáculos públicos en establecimientos permanentes no desmontables con una superficie &gt; 500 m<sup>2</sup> y un aforo &gt; 500 personas, regulados por la Ley 11/2009, de 6 de julio.</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Todos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9002</td>
-<td class="cuerpo_tabla_izq">Actividades auxiliares a las artes escénicas.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9003</td>
-<td class="cuerpo_tabla_izq">Creación artística y literaria.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9004</td>
-<td class="cuerpo_tabla_izq">Gestión de salas de espectáculos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">91</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades de bibliotecas, archivos y museos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">910</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de bibliotecas, archivos y museos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m2 o un aforo de &gt; 500 personas.</p>
+<td> </td>
+<td>475</td>
+<td> </td>
+<td>Comercio al por mayor de otros artículos de uso doméstico.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">92</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Juegos de azar y apuestas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">920</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Juegos de azar y apuestas.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td> </td>
+<td>476</td>
+<td> </td>
+<td>Comercio al por menor de artículos culturales y recreativos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">93</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades deportivas, recreativas y de entretenimiento.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">931</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Actividades deportivas.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidos los campos de golf a que se refiere la Ley 20/2009, de 4 de diciembre (código 12.35 del anexo II).</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9311</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Gestión de instalaciones deportivas.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las pistas permanentes de carreras y de pruebas para vehículos motorizados a que se refiere la Ley 20/2009, de 4 de diciembre (código 12.52).</p>
-</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9312</td>
-<td class="cuerpo_tabla_izq">Actividades de clubes deportivos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td> </td>
+<td>477</td>
+<td> </td>
+<td>Comercio al por menor de otros artículos en establecimientos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9313</td>
-<td class="cuerpo_tabla_izq">Actividad de los gimnasios.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td>H</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Transporte y almacenamiento.</td>
+</tr>
+<tr>
+<td>49</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Transporte terrestre; transporte por tuberías.</td>
+</tr>
+<tr>
+<td> </td>
+<td>494</td>
+<td> </td>
+<td>Transporte de mercancías por carretera y mudanzas.</td>
+<td>Si se trata de empresas de transporte o transportistas profesionales con un máximo de 2 vehículos y sin almacén regulador.</td>
+<td>
+<p>En el caso de naves de empresas de camiones o furgonetas de logística, campas de aparcamiento de vehículos, etc.</p>
+</td>
+<td>Siempre que el almacenamiento de vehículos esté clasificado en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td>52</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Almacenamiento y actividades afines al transporte.</td>
+</tr>
+<tr>
+<td> </td>
+<td>521</td>
+<td> </td>
+<td>Depósito y almacenamiento Observación: quedan excluidos los almacenes de actividades afectados por alguno de los anexos de la Ley 20/2009, de 4 de diciembre.</td>
+<td> </td>
+<td>Todos.</td>
+<td>Las actividades incluidas en el anexo 2 de la Ley 3/2010, de 18 de febrero.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>5221</td>
+<td>
+<p>Actividades afines al transporte terrestre.</p>
+<p>Observación: quedan excluidas las actividades afectadas por alguno de los anexos de la Ley 20/2009, de 4 de diciembre.</p>
+</td>
+<td> </td>
+<td>Todas.</td>
+<td>
+<p>Las actividades de almacenamiento de vehículos clasificadas en el anexo 2 de la Ley 3/2010: Aparcamiento de vehículos con superficie construida &gt; 2.000 m<sup>2</sup>, o bien si dispone de dos o más plantas bajo rasante, o bien si se halla situado bajo un edificio y tiene una superficie construida&gt; 750 m<sup>2</sup>. Almacenamiento (estacionamiento) de vehículos destinados al servicio de transporte de personas o mercancías, si está en el anexo 2 de la Ley 3/2010, de 18 de febrero. Terminal de transporte de personas, si dispone de superficie construida &gt; 500 m<sup>2</sup> o presenta un aforo &gt; 500 personas. Estación o intercambiador de transporte terrestre, si está situado en planta bajo rasante o presenta un aforo &gt; 500 personas.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9319</td>
-<td class="cuerpo_tabla_izq">Otras actividades relacionadas con el deporte.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td>53</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades postales y de correos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>531</td>
+<td> </td>
+<td>Actividades postales nacionales.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td>532</td>
+<td> </td>
+<td>Otras actividades postales y de correos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td>I</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Hostelería.</td>
+</tr>
+<tr>
+<td>55</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Servicios de alojamiento.</td>
+</tr>
+<tr>
+<td> </td>
+<td>551</td>
+<td> </td>
+<td>Hoteles y alojamientos similares.</td>
+<td> </td>
+<td>Todos.</td>
+<td>Si el número de plazas disponibles &gt; 20</td>
+</tr>
+<tr>
+<td> </td>
+<td>552</td>
+<td> </td>
+<td>
+<p>Alojamientos turísticos y otros de corta duración.</p>
+</td>
+<td>
+<p>Aplicable a los establecimientos de turismo rural y a las viviendas de uso turístico y, en general, a toda modalidad de alojamiento turístico que pueda llevarse a cabo en edificios o establecimientos con uso característico residencial de vivienda.</p>
+<p>Observación: La cédula de habitabilidad equivale al certificado técnico justificativo en los términos establecidos en el artículo 32.1.</p>
+</td>
+<td>Todos. Observaciones: quedan excluidas las modalidades de establecimientos de turismo rural, las viviendas de uso turístico y, en general, toda modalidad de alojamiento turístico que pueda llevarse a cabo en edificios o establecimientos con uso característico residencial de vivienda.</td>
+<td>Si el número de plazas disponibles &gt; 20.</td>
+</tr>
+<tr>
+<td> </td>
+<td>559</td>
+<td> </td>
+<td>Otros tipos de alojamiento.</td>
+<td> </td>
+<td>Todos.</td>
+<td>Si el número de plazas disponibles &gt; 20.</td>
+</tr>
+<tr>
+<td>56</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Servicios de comida y bebidas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>561</td>
+<td> </td>
+<td>Restaurantes y establecimientos de comida.</td>
+<td> </td>
+<td>Todos.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup> o el aforo &gt; 500 personas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>562</td>
+<td> </td>
+<td>Provisión de comidas preparadas Observaciones: se incluyen las actividades comerciales minoristas, sin consumición en el establecimiento, y aquellas actividades no incluidas en el punto 7.2 de la Ley 20/2009, de 4 de diciembre.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td>563</td>
+<td> </td>
+<td>
+<p>Establecimientos de bebidas</p>
+<p>Observaciones: se excluyen las actividades de carácter extraordinario, las de régimen especial y con reservados anexos, todas las actividades recreativas musicales en establecimientos no permanentes desmontables, y las actividades recreativas musicales en establecimientos permanentes no desmontables con una superficie &gt; 500 m2 y un aforo &gt; 500 personas, reguladas por la Ley 11/2009, de 6 de julio.</p>
+</td>
+<td> </td>
+<td>
+<p>Todos.</p>
+<p> </p>
+</td>
+<td>Si la superficie construida &gt; 500 m² o el aforo &gt; 500 personas.</td>
+</tr>
+<tr>
+<td>J</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Información y comunicaciones Observación: quedan excluidas las actividades consideradas industriales.</td>
+</tr>
+<tr>
+<td>58</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Edición.</td>
+</tr>
+<tr>
+<td> </td>
+<td>581</td>
+<td> </td>
+<td>
+<p>Edición de libros, periódicos y otras actividades de edición.</p>
+<p>Observación: quedan excluidas las imprentas (incluso CCAE 181).</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>582</td>
+<td> </td>
+<td>Edición de programas informáticos.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>59</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Cine y vídeo; grabación de sonido.</td>
+</tr>
+<tr>
+<td> </td>
+<td>591</td>
+<td> </td>
+<td>Actividades de cine, vídeo y programas de televisión.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>. Observación: quedan excluidas las actividades de proyección de películas en salas cinematográficas.</td>
+<td>Todas las actividades de proyección de películas en salas cinematográficas. Los demás establecimientos si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>
+<p>Todas las actividades de proyección de películas en salas cinematográficas</p>
+<p>Los demás establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">932</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Otras actividades recreativas y de entretenimiento.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+<td> </td>
+<td>592</td>
+<td> </td>
+<td>
+<p>Actividades de grabación de sonido y edición musical.</p>
+<p>Observación: si se realizan grabaciones en directo, se incluye en las actividades de espectáculos (CCAE 900).</p>
+</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>60</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Radio y televisión.</td>
+</tr>
+<tr>
+<td> </td>
+<td>601</td>
+<td> </td>
+<td>Actividades de radiodifusión.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>602</td>
+<td> </td>
+<td>Actividades de programación y emisión de televisión.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
+</tr>
+<tr>
+<td>61</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Telecomunicaciones.</td>
+</tr>
+<tr>
+<td> </td>
+<td>619</td>
+<td> </td>
+<td>Otras actividades de telecomunicaciones.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td>62</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Servicios de tecnologías de la información.</td>
+</tr>
+<tr>
+<td> </td>
+<td>620</td>
+<td> </td>
+<td>Servicios de tecnologías de la información.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>63</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Servicios de información.</td>
+</tr>
+<tr>
+<td> </td>
+<td>631</td>
+<td> </td>
+<td>Procesamiento de datos y alojamiento; portales web.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>639</td>
+<td> </td>
+<td>Otros servicios de información.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>64</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Mediación financiera, excepto seguros y fondos de pensiones.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>6419</td>
+<td>Otros tipos de mediación monetaria.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>642</td>
+<td> </td>
+<td>Actividades de las sociedades holding.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>643</td>
+<td> </td>
+<td>Inversión colectiva, fondos y entidades similares.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>649</td>
+<td> </td>
+<td>Otros tipos de mediación financiera.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>65</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Seguros, reaseguros y fondos de pensiones, excepto la seguridad social obligatoria.</td>
+</tr>
+<tr>
+<td> </td>
+<td>651</td>
+<td> </td>
+<td>Seguros.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>652</td>
+<td> </td>
+<td>Reaseguros.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>653</td>
+<td> </td>
+<td>Fondos de contingencia.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>66</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades auxiliares de la mediación financiera y de seguros.</td>
+</tr>
+<tr>
+<td> </td>
+<td>661</td>
+<td> </td>
+<td>Actividades auxiliares de la mediación financiera, excepto seguros y fondos de pensiones.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>662</td>
+<td> </td>
+<td>Actividades auxiliares de seguros y fondos de pensiones.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>663</td>
+<td> </td>
+<td>Actividades de gestión de fondos.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>L</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades inmobiliarias.</td>
+</tr>
+<tr>
+<td>68</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades inmobiliarias.</td>
+</tr>
+<tr>
+<td> </td>
+<td>681</td>
+<td> </td>
+<td>Compraventa de bienes inmobiliarios por cuenta propia.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>682</td>
+<td> </td>
+<td>Alquiler de bienes inmobiliarios por cuenta propia.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>683</td>
+<td> </td>
+<td>Actividades inmobiliarias por cuenta ajena.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades profesionales, científicas y técnicas.</td>
+</tr>
+<tr>
+<td>69</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades jurídicas y de contabilidad.</td>
+</tr>
+<tr>
+<td> </td>
+<td>691</td>
+<td> </td>
+<td>Actividades jurídicas.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>692</td>
+<td> </td>
+<td>Actividades contables, de auditoría y de asesoría fiscal.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>70</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades de sedes centrales y consultoría empresarial.</td>
+</tr>
+<tr>
+<td> </td>
+<td>701</td>
+<td> </td>
+<td>Actividades de sedes centrales.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>702</td>
+<td> </td>
+<td>Actividades de consultoría de gestión empresarial.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>71</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Servicios técnicos de arquitectura e ingeniería.</td>
+</tr>
+<tr>
+<td> </td>
+<td>711</td>
+<td> </td>
+<td>Servicios técnicos de arquitectura e ingeniería.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>712</td>
+<td> </td>
+<td>Análisis y ensayos técnicos Observación: quedan excluidos los laboratorios de análisis e investigación a que se refiere la Ley 20/2009, de 4 de diciembre (código 12.23 de los anexos II y III).</td>
+<td>Si la superficie construida destinada a laboratorios es ≤ 50 m<sup>2</sup> (excluyendo despachos, almacenes y otras áreas auxiliares) y siempre que la superficie construida total sea ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida destinada a laboratorios es &gt; 50 m<sup>2</sup> (excluyendo despachos, almacenes y otras áreas auxiliares) o siempre que la superficie construida total sea &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>73</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Publicidad y estudios de mercado.</td>
+</tr>
+<tr>
+<td> </td>
+<td>731</td>
+<td> </td>
+<td>Publicidad.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>732</td>
+<td> </td>
+<td>Estudios de mercado y encuestas de opinión pública.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>74</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Otras actividades profesionales y técnicas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>741</td>
+<td> </td>
+<td>Actividades de diseño especializado.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>742</td>
+<td> </td>
+<td>Actividades de fotografía Observación: quedan excluidos los laboratorios industriales de fotografía a que se refiere la Ley 20/2009 (código 12.24 del anexo II).</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td>743</td>
+<td> </td>
+<td>Actividades de traducción e interpretación.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>749</td>
+<td> </td>
+<td>Otras actividades profesionales y técnicas no clasificadas en otros apartados.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>N</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades administrativas y servicios auxiliares.</td>
+</tr>
+<tr>
+<td>77</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades de alquiler.</td>
+</tr>
+<tr>
+<td> </td>
+<td>771</td>
+<td> </td>
+<td>Alquiler de vehículos a motor.</td>
+<td>Si sólo se dispone de zonas de uso administrativo, cuando la superficie construida ≤ 500 m<sup>2</sup>. Sin zona de aparcamiento de vehículos.</td>
+<td>Si las zonas de uso administrativo presentan una superficie construida &gt; 500 m<sup>2</sup>. O si dispone de aparcamiento de vehículos.</td>
+<td>Si dispone de aparcamiento de vehículos, siempre que esté situado en una segunda o más plantas bajo rasante, o bien si se encuentra situado bajo un edificio y tiene una superficie construida&gt; 750 m<sup>2</sup>, o bien, en cualquier otro caso, cuando tenga una superficie construida&gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td>772</td>
+<td> </td>
+<td>Alquiler de efectos personales y enseres domésticos.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>773</td>
+<td> </td>
+<td>Alquiler de maquinaria, equipos y bienes tangibles.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>774</td>
+<td> </td>
+<td>Arrendamiento de propiedad intelectual, salvo derechos de autor.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>78</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades relacionadas con el empleo.</td>
+</tr>
+<tr>
+<td> </td>
+<td>781</td>
+<td> </td>
+<td>Actividades de las agencias de colocación.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>782</td>
+<td> </td>
+<td>Actividades de las empresas de trabajo temporal.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>783</td>
+<td> </td>
+<td>Otros tipos de provisión de recursos humanos.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>79</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades de las agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>791</td>
+<td> </td>
+<td>Actividades de las agencias de viajes y operadores turísticos.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>799</td>
+<td> </td>
+<td>Otros servicios de reservas y actividades relacionadas.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>80</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Control de seguridad e investigación.</td>
+</tr>
+<tr>
+<td> </td>
+<td>801</td>
+<td> </td>
+<td>Actividades de seguridad privada.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>802</td>
+<td> </td>
+<td>Servicios de sistemas de seguridad.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>803</td>
+<td> </td>
+<td>Actividades de investigación.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>81</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Servicios en edificios y actividades de jardinería.</td>
+</tr>
+<tr>
+<td> </td>
+<td>811</td>
+<td> </td>
+<td>Servicios integrales en edificios e instalaciones.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>812</td>
+<td> </td>
+<td>Actividades de limpieza.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>813</td>
+<td> </td>
+<td>Actividades de jardinería.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>82</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades administrativas de oficina y auxiliares.</td>
+</tr>
+<tr>
+<td> </td>
+<td>821</td>
+<td> </td>
+<td>Actividades administrativas y auxiliares de oficina.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>822</td>
+<td> </td>
+<td>Actividades de centros de atención telefónica.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>823</td>
+<td> </td>
+<td>Organización de convenciones y firas de muestras.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>829</td>
+<td> </td>
+<td>Otras actividades de apoyo a las empresas.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>O</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Administración pública, defensa y seguridad social obligatoria.</td>
+</tr>
+<tr>
+<td>84</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Administración pública, defensa y seguridad social obligatoria.</td>
+</tr>
+<tr>
+<td> </td>
+<td>841</td>
+<td> </td>
+<td>Administración pública y de la política económica y social.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>842</td>
+<td> </td>
+<td>Prestación de servicios a la comunidad en general.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>843</td>
+<td> </td>
+<td>Seguridad social obligatoria.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>P</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Educación.</td>
+</tr>
+<tr>
+<td>85</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Educación.</td>
+</tr>
+<tr>
+<td> </td>
+<td>851</td>
+<td> </td>
+<td>Educación preprimaria.</td>
+<td> </td>
+<td>Todas.</td>
+<td>Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 300 m² construidos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>852</td>
+<td> </td>
+<td>Educación primaria.</td>
+<td> </td>
+<td>Todas.</td>
+<td>Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>853</td>
+<td> </td>
+<td>Educación secundaria.</td>
+<td> </td>
+<td>Todas.</td>
+<td>Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>854</td>
+<td> </td>
+<td>Educación postsecundaria.</td>
+<td> </td>
+<td>Todas.</td>
+<td>Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>855</td>
+<td> </td>
+<td>Otras actividades de educación.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9329</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Otras actividades recreativas y de entretenimiento ncaa</p>
-<p class="cuerpo_tabla_izq">Observaciones: se excluyen las actividades y los espectáculos públicos de carácter extraordinario, las de régimen especial y con reservados anexos, todas las actividades recreativas musicales y espectáculos públicos en establecimientos no permanentes desmontables, y las actividades recreativas musicales y espectáculos públicos en establecimientos permanentes no desmontables con una superficie &gt; 500 m2 y un aforo &gt; 500 personas, reguladas por la Ley 11/2009, de 6 de julio.</p>
+<td> </td>
+<td>856</td>
+<td> </td>
+<td>Actividades auxiliares de educación.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 120 m<sup>2</sup>.</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p>Si tienen una altura de evacuación de más de 15 m o una superficie &gt; 2.000 m² construidos.</p>
 </td>
-<td class="cuerpo_tabla_izq">Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m² o un aforo de &gt; 500 personas, y todos los espectáculos públicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">94</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Actividades asociativas.</td>
+<td>Q</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades sanitarias y de servicios sociales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">941</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades de organizaciones empresariales y profesionales.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>86</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades sanitarias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">942</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades sindicales.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">949</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Actividades asociativas varias.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+<td> </td>
+<td>862</td>
+<td> </td>
+<td>
+<p>Actividades médicas y odontológicas.</p>
+<p>Observación: quedan excluidos los hospitales, las clínicas y los establecimientos sanitarios con ingreso de pacientes regulados en la Ley 20/2009, de 4 de diciembre (código 12.25).</p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Todos los establecimientos clasificados como de uso hospitalario de acuerdo con el CTE. Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">95</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Reparación de ordenadores, efectos personales y enseres domésticos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">951</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Reparación de ordenadores y equipos de comunicación.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">952</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Reparación de efectos personales y enseres domésticos.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup></td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">96</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="4">Otras actividades de servicios personales.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9601</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Lavado y limpieza de prendas textiles y de piel.</p>
-<p class="cuerpo_tabla_izq">Observaciones: quedan excluidas las lavanderías industriales reguladas en la Ley 20/2009, de 4 de diciembre (código 12.39), y las instalaciones para la limpieza en seco (anexo II y III, código 12.41).</p>
+<td> </td>
+<td>869</td>
+<td> </td>
+<td>
+<p>Otras actividades sanitarias.</p>
+<p>Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9602</td>
-<td class="cuerpo_tabla_izq">Peluquería y otros tratamientos de belleza.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9603</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Pompas fúnebres y actividades relacionadas.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidas las actividades de incineración incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+<td>87</td>
+<td> </td>
+<td> </td>
+<td colspan="4">
+<p>Actividades de servicios sociales con alojamiento.</p>
+<p>Observación: quedan excluidos los hospitales y las clínicas con ingreso de pacientes regulados en la Ley 20/2009, de 4 de diciembre (código 12.25).</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos de pública concurrencia: establecimientos con una superficie construida &gt; 500 m<sup>2</sup> o un aforo &gt; 500 personas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9604</td>
-<td class="cuerpo_tabla_izq">Actividades de mantenimiento físico.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 500 m<sup>2</sup> o el aforo &gt; 500 personas.</td>
+<td> </td>
+<td>871</td>
+<td> </td>
+<td>Actividades de servicios sociales con alojamiento y cuidados de enfermería</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida&gt; 500 m<sup>2</sup>.</td>
+<td>Todas las residencias asistidas para personas mayores. Todos los centros sociosanitarios. Todos los establecimientos clasificados como de uso hospitalario de acuerdo con el CTE. Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">9609</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Otras actividades de servicios personales ncoa.</p>
-<p class="cuerpo_tabla_izq">Observación: quedan excluidos los servicios de alojamiento y adiestramiento de animales de compañía regulados en la Ley 20/2009, de 4 de diciembre (código 12.33).</p>
+<td> </td>
+<td>872</td>
+<td> </td>
+<td>Actividades de servicios sociales con alojamiento para personas con discapacidad psíquica, personas con enfermedades mentales y personas drogodependientes</td>
+<td> </td>
+<td>Todos.</td>
+<td>Si el número de plazas disponibles &gt; 20.</td>
+</tr>
+<tr>
+<td> </td>
+<td>873</td>
+<td> </td>
+<td>Actividades de servicios sociales residenciales para personas mayores y personas con discapacidad física</td>
+<td> </td>
+<td>Todos.</td>
+<td>Si el número de plazas disponibles &gt; 20.</td>
+</tr>
+<tr>
+<td> </td>
+<td>879</td>
+<td> </td>
+<td>Actividades de servicios sociales con alojamiento</td>
+<td> </td>
+<td>Todos.</td>
+<td>Si el número de plazas disponibles &gt; 20.</td>
+</tr>
+<tr>
+<td>88</td>
+<td> </td>
+<td> </td>
+<td colspan="4">
+<p>Actividades de servicios sociales sin alojamiento.</p>
+<p>Observación: quedan excluidos los hospitales de día y los centros de asistencia primaria regulados en la Ley 20/2009 (código 12.26).</p>
 </td>
-<td class="cuerpo_tabla_izq">Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_izq">Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.»</td>
+</tr>
+<tr>
+<td> </td>
+<td>881</td>
+<td> </td>
+<td>Actividades de servicios sociales sin alojamiento para personas mayores y personas con discapacidad.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>Todos los centros de día. Todos los establecimientos clasificados como de uso hospitalario de acuerdo con el CTE. Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos. Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>889</td>
+<td> </td>
+<td>Otros tipos de actividades de servicios sociales sin alojamiento.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos.</p>
+<p>Observación: quedan excluidas las actividades incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>8891</td>
+<td>Actividades de atención diurna para niños.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos. Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>8899</td>
+<td>Otros tipos de actividades de servicios sociales sin alojamiento ncoa.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de uso sanitario de carácter ambulatorio, si tienen una altura de evacuación de más de 15 m y una superficie por planta &gt; 750 m<sup>2</sup> construidos. Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td>R</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades artísticas, recreativas y de entretenimiento.</td>
+</tr>
+<tr>
+<td>90</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades de creación, artísticas y de espectáculos.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9001</td>
+<td>
+<p>Artes escénicas</p>
+<p>Observaciones: se excluyen los espectáculos públicos de carácter extraordinario, todos los espectáculos públicos en establecimientos no permanentes desmontables y los espectáculos públicos en establecimientos permanentes no desmontables con una superficie &gt; 500 m<sup>2</sup> y un aforo &gt; 500 personas, regulados por la Ley 11/2009, de 6 de julio.</p>
+</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>Todos.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9002</td>
+<td>Actividades auxiliares a las artes escénicas.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9003</td>
+<td>Creación artística y literaria.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9004</td>
+<td>Gestión de salas de espectáculos.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td>91</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades de bibliotecas, archivos y museos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>910</td>
+<td> </td>
+<td>Actividades de bibliotecas, archivos y museos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m2 o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td>92</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Juegos de azar y apuestas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>920</td>
+<td> </td>
+<td>Juegos de azar y apuestas.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td>93</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades deportivas, recreativas y de entretenimiento.</td>
+</tr>
+<tr>
+<td> </td>
+<td>931</td>
+<td> </td>
+<td>
+<p>Actividades deportivas.</p>
+<p>Observación: quedan excluidos los campos de golf a que se refiere la Ley 20/2009, de 4 de diciembre (código 12.35 del anexo II).</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9311</td>
+<td>
+<p>Gestión de instalaciones deportivas.</p>
+<p>Observación: quedan excluidas las pistas permanentes de carreras y de pruebas para vehículos motorizados a que se refiere la Ley 20/2009, de 4 de diciembre (código 12.52).</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9312</td>
+<td>Actividades de clubes deportivos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9313</td>
+<td>Actividad de los gimnasios.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9319</td>
+<td>Otras actividades relacionadas con el deporte.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>932</td>
+<td> </td>
+<td>Otras actividades recreativas y de entretenimiento.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>
+<p>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m<sup>2</sup> o un aforo de &gt; 500 personas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9329</td>
+<td>
+<p>Otras actividades recreativas y de entretenimiento ncaa</p>
+<p>Observaciones: se excluyen las actividades y los espectáculos públicos de carácter extraordinario, las de régimen especial y con reservados anexos, todas las actividades recreativas musicales y espectáculos públicos en establecimientos no permanentes desmontables, y las actividades recreativas musicales y espectáculos públicos en establecimientos permanentes no desmontables con una superficie &gt; 500 m2 y un aforo &gt; 500 personas, reguladas por la Ley 11/2009, de 6 de julio.</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 120 m<sup>2</sup>.</p>
+<p> </p>
+</td>
+<td>Establecimientos de actividades recreativas o de pública concurrencia con una superficie &gt; 500 m² o un aforo de &gt; 500 personas, y todos los espectáculos públicos.</td>
+</tr>
+<tr>
+<td>94</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Actividades asociativas.</td>
+</tr>
+<tr>
+<td> </td>
+<td>941</td>
+<td> </td>
+<td>Actividades de organizaciones empresariales y profesionales.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>942</td>
+<td> </td>
+<td>Actividades sindicales.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup>.</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>949</td>
+<td> </td>
+<td>Actividades asociativas varias.</td>
+<td>Si la superficie construida ≤ 500 m<sup>2</sup>.</td>
+<td>
+<p>Si la superficie construida &gt; 500 m<sup>2</sup>.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>95</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Reparación de ordenadores, efectos personales y enseres domésticos.</td>
+</tr>
+<tr>
+<td> </td>
+<td>951</td>
+<td> </td>
+<td>Reparación de ordenadores y equipos de comunicación.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td>952</td>
+<td> </td>
+<td>Reparación de efectos personales y enseres domésticos.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup></td>
+</tr>
+<tr>
+<td>96</td>
+<td> </td>
+<td> </td>
+<td colspan="4">Otras actividades de servicios personales.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9601</td>
+<td>
+<p>Lavado y limpieza de prendas textiles y de piel.</p>
+<p>Observaciones: quedan excluidas las lavanderías industriales reguladas en la Ley 20/2009, de 4 de diciembre (código 12.39), y las instalaciones para la limpieza en seco (anexo II y III, código 12.41).</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9602</td>
+<td>Peluquería y otros tratamientos de belleza.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9603</td>
+<td>
+<p>Pompas fúnebres y actividades relacionadas.</p>
+<p>Observación: quedan excluidas las actividades de incineración incluidas en la Ley 20/2009, de 4 de diciembre.</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si se consideran establecimientos comerciales: establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>. Si se consideran establecimientos de pública concurrencia: establecimientos con una superficie construida &gt; 500 m<sup>2</sup> o un aforo &gt; 500 personas.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9604</td>
+<td>Actividades de mantenimiento físico.</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 500 m<sup>2</sup> o el aforo &gt; 500 personas.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>9609</td>
+<td>
+<p>Otras actividades de servicios personales ncoa.</p>
+<p>Observación: quedan excluidos los servicios de alojamiento y adiestramiento de animales de compañía regulados en la Ley 20/2009, de 4 de diciembre (código 12.33).</p>
+</td>
+<td>Si la superficie construida ≤ 120 m<sup>2</sup>.</td>
+<td>Si la superficie construida &gt; 120 m<sup>2</sup>.</td>
+<td>Establecimientos situados en la parte baja de edificios de cualquier uso con una superficie construida &gt; 750 m<sup>2</sup>. En otros casos, si la superficie construida &gt; 2.000 m<sup>2</sup>.»</td>
 </tr>
 </tbody>
 </table>

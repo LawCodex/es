@@ -258,2396 +258,2286 @@ https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/estrategias-ma
 
 Estos objetivos son objeto de revisión periódica, siguiendo lo establecido en el artículo 20 de la Ley 41/2010, de 29 de diciembre.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="2%">
-<col width="26%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Actuaciones</th>
-<th class="cabeza_tabla" colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Noratlántica</th>
+<th colspan="2" rowspan="2">Actuaciones</th>
+<th colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Noratlántica</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">B.N.2</th>
-<th class="cabeza_tabla">B.N.4</th>
-<th class="cabeza_tabla">B.N.5</th>
-<th class="cabeza_tabla">B.N.8</th>
-<th class="cabeza_tabla">B.N.10</th>
-<th class="cabeza_tabla">B.N.12</th>
-<th class="cabeza_tabla">B.N.13</th>
-<th class="cabeza_tabla">C.N.1</th>
-<th class="cabeza_tabla">C.N.2</th>
-<th class="cabeza_tabla">C.N.3</th>
-<th class="cabeza_tabla">C.N.4</th>
-<th class="cabeza_tabla">C.N.5</th>
-<th class="cabeza_tabla">C.N.10</th>
-<th class="cabeza_tabla">C.N.11</th>
-<th class="cabeza_tabla">C.N.12</th>
-<th class="cabeza_tabla">C.N.13</th>
-<th class="cabeza_tabla">C.N.16</th>
-<th class="cabeza_tabla">C.N.17</th>
+<th>B.N.2</th>
+<th>B.N.4</th>
+<th>B.N.5</th>
+<th>B.N.8</th>
+<th>B.N.10</th>
+<th>B.N.12</th>
+<th>B.N.13</th>
+<th>C.N.1</th>
+<th>C.N.2</th>
+<th>C.N.3</th>
+<th>C.N.4</th>
+<th>C.N.5</th>
+<th>C.N.10</th>
+<th>C.N.11</th>
+<th>C.N.12</th>
+<th>C.N.13</th>
+<th>C.N.16</th>
+<th>C.N.17</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>A</td>
+<td>Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>B</td>
+<td>Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>C</td>
+<td>Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D</td>
+<td>Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>E</td>
+<td>Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas portuarias.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>F</td>
+<td>Infraestructuras marinas portuarias.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas de defensa de la costa.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>G</td>
+<td>Infraestructuras marinas de defensa de la costa.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H</td>
-<td class="cuerpo_tabla_izq">Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>H</td>
+<td>Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_izq">Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>I</td>
+<td>Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">J</td>
-<td class="cuerpo_tabla_izq">Minería submarina.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>J</td>
+<td>Minería submarina.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">K</td>
-<td class="cuerpo_tabla_izq">Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>K</td>
+<td>Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">L</td>
-<td class="cuerpo_tabla_izq">Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>L</td>
+<td>Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq">Energías renovables en el mar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>M</td>
+<td>Energías renovables en el mar.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N</td>
+<td>Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">O</td>
-<td class="cuerpo_tabla_izq">Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>O</td>
+<td>Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_izq">Arrecifes artificiales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>P</td>
+<td>Arrecifes artificiales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q</td>
-<td class="cuerpo_tabla_izq">Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>Q</td>
+<td>Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_izq">Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td>Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S</td>
-<td class="cuerpo_tabla_izq">Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>S</td>
+<td>Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="20">
-<p class="cita">Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
-<p class="cita">Los objetivos ambientales del segundo ciclo de la Demarcación Marina Noratlántica que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
+<p>Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
+<p>Los objetivos ambientales del segundo ciclo de la Demarcación Marina Noratlántica que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="2%">
-<col width="26%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Actuaciones</th>
-<th class="cabeza_tabla" colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Sudatlántica</th>
+<th colspan="2" rowspan="2">Actuaciones</th>
+<th colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Sudatlántica</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">B.S.2</th>
-<th class="cabeza_tabla">B.S.4</th>
-<th class="cabeza_tabla">B.S.5</th>
-<th class="cabeza_tabla">B.S.8</th>
-<th class="cabeza_tabla">B.S.10</th>
-<th class="cabeza_tabla">B.S.12</th>
-<th class="cabeza_tabla">B.S.13</th>
-<th class="cabeza_tabla">C.S.1</th>
-<th class="cabeza_tabla">C.S.2</th>
-<th class="cabeza_tabla">C.S.3</th>
-<th class="cabeza_tabla">C.S.4</th>
-<th class="cabeza_tabla">C.S.5</th>
-<th class="cabeza_tabla">C.S.10</th>
-<th class="cabeza_tabla">C.S.11</th>
-<th class="cabeza_tabla">C.S.12</th>
-<th class="cabeza_tabla">C.S.13</th>
-<th class="cabeza_tabla">C.S.16</th>
-<th class="cabeza_tabla">C.S.17</th>
+<th>B.S.2</th>
+<th>B.S.4</th>
+<th>B.S.5</th>
+<th>B.S.8</th>
+<th>B.S.10</th>
+<th>B.S.12</th>
+<th>B.S.13</th>
+<th>C.S.1</th>
+<th>C.S.2</th>
+<th>C.S.3</th>
+<th>C.S.4</th>
+<th>C.S.5</th>
+<th>C.S.10</th>
+<th>C.S.11</th>
+<th>C.S.12</th>
+<th>C.S.13</th>
+<th>C.S.16</th>
+<th>C.S.17</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>A</td>
+<td>Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>B</td>
+<td>Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>C</td>
+<td>Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D</td>
+<td>Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>E</td>
+<td>Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas portuarias.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>F</td>
+<td>Infraestructuras marinas portuarias.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas de defensa de la costa.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>G</td>
+<td>Infraestructuras marinas de defensa de la costa.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H</td>
-<td class="cuerpo_tabla_izq">Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>H</td>
+<td>Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_izq">Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>I</td>
+<td>Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">J</td>
-<td class="cuerpo_tabla_izq">Minería submarina.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>J</td>
+<td>Minería submarina.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">K</td>
-<td class="cuerpo_tabla_izq">Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>K</td>
+<td>Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">L</td>
-<td class="cuerpo_tabla_izq">Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>L</td>
+<td>Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq">Energías renovables en el mar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>M</td>
+<td>Energías renovables en el mar.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N</td>
+<td>Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">O</td>
-<td class="cuerpo_tabla_izq">Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>O</td>
+<td>Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_izq">Arrecifes artificiales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>P</td>
+<td>Arrecifes artificiales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q</td>
-<td class="cuerpo_tabla_izq">Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>Q</td>
+<td>Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_izq">Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td>Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S</td>
-<td class="cuerpo_tabla_izq">Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>S</td>
+<td>Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="20">
-<p class="cita">Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
-<p class="cita">Los objetivos ambientales del segundo ciclo de la Demarcación Marina Sudatlántica que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
+<p>Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
+<p>Los objetivos ambientales del segundo ciclo de la Demarcación Marina Sudatlántica que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="2%">
-<col width="26%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Actuaciones</th>
-<th class="cabeza_tabla" colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Estrecho y Alborán</th>
+<th colspan="2" rowspan="2">Actuaciones</th>
+<th colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Estrecho y Alborán</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">B.E.2</th>
-<th class="cabeza_tabla">B.E.4</th>
-<th class="cabeza_tabla">B.E.5</th>
-<th class="cabeza_tabla">B.E.8</th>
-<th class="cabeza_tabla">B.E.10</th>
-<th class="cabeza_tabla">B.E.14</th>
-<th class="cabeza_tabla">B.E.15</th>
-<th class="cabeza_tabla">C.E.1</th>
-<th class="cabeza_tabla">C.E.2</th>
-<th class="cabeza_tabla">C.E.3</th>
-<th class="cabeza_tabla">C.E.4</th>
-<th class="cabeza_tabla">C.E.5</th>
-<th class="cabeza_tabla">C.E.10</th>
-<th class="cabeza_tabla">C.E.11</th>
-<th class="cabeza_tabla">C.E.12</th>
-<th class="cabeza_tabla">C.E.13</th>
-<th class="cabeza_tabla">C.E.16</th>
-<th class="cabeza_tabla">C.E.17</th>
+<th>B.E.2</th>
+<th>B.E.4</th>
+<th>B.E.5</th>
+<th>B.E.8</th>
+<th>B.E.10</th>
+<th>B.E.14</th>
+<th>B.E.15</th>
+<th>C.E.1</th>
+<th>C.E.2</th>
+<th>C.E.3</th>
+<th>C.E.4</th>
+<th>C.E.5</th>
+<th>C.E.10</th>
+<th>C.E.11</th>
+<th>C.E.12</th>
+<th>C.E.13</th>
+<th>C.E.16</th>
+<th>C.E.17</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>A</td>
+<td>Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>B</td>
+<td>Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>C</td>
+<td>Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D</td>
+<td>Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>E</td>
+<td>Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas portuarias.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>F</td>
+<td>Infraestructuras marinas portuarias.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas de defensa de la costa.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>G</td>
+<td>Infraestructuras marinas de defensa de la costa.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H</td>
-<td class="cuerpo_tabla_izq">Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>H</td>
+<td>Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_izq">Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>I</td>
+<td>Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">J</td>
-<td class="cuerpo_tabla_izq">Minería submarina.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>J</td>
+<td>Minería submarina.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">K</td>
-<td class="cuerpo_tabla_izq">Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>K</td>
+<td>Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">L</td>
-<td class="cuerpo_tabla_izq">Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>L</td>
+<td>Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq">Energías renovables en el mar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>M</td>
+<td>Energías renovables en el mar.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N</td>
+<td>Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">O</td>
-<td class="cuerpo_tabla_izq">Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>O</td>
+<td>Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_izq">Arrecifes artificiales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>P</td>
+<td>Arrecifes artificiales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q</td>
-<td class="cuerpo_tabla_izq">Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>Q</td>
+<td>Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_izq">Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td>Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S</td>
-<td class="cuerpo_tabla_izq">Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>S</td>
+<td>Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="20">
-<p class="cita">Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
-<p class="cita">Los objetivos ambientales del segundo ciclo de la Demarcación Marina Estrecho y Alborán que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
+<p>Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
+<p>Los objetivos ambientales del segundo ciclo de la Demarcación Marina Estrecho y Alborán que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="2%">
-<col width="26%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Actuaciones</th>
-<th class="cabeza_tabla" colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Levantino-Balear</th>
+<th colspan="2" rowspan="2">Actuaciones</th>
+<th colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Levantino-Balear</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">B.L.2</th>
-<th class="cabeza_tabla">B.L.4</th>
-<th class="cabeza_tabla">B.L.5</th>
-<th class="cabeza_tabla">B.L.8</th>
-<th class="cabeza_tabla">B.L.10</th>
-<th class="cabeza_tabla">B.L.14</th>
-<th class="cabeza_tabla">B.L.15</th>
-<th class="cabeza_tabla">C.L.1</th>
-<th class="cabeza_tabla">C.L.2</th>
-<th class="cabeza_tabla">C.L.3</th>
-<th class="cabeza_tabla">C.L.4</th>
-<th class="cabeza_tabla">C.L.5</th>
-<th class="cabeza_tabla">C.L.10</th>
-<th class="cabeza_tabla">C.L.11</th>
-<th class="cabeza_tabla">C.L.12</th>
-<th class="cabeza_tabla">C.L.13</th>
-<th class="cabeza_tabla">C.L.16</th>
-<th class="cabeza_tabla">C.L.17</th>
+<th>B.L.2</th>
+<th>B.L.4</th>
+<th>B.L.5</th>
+<th>B.L.8</th>
+<th>B.L.10</th>
+<th>B.L.14</th>
+<th>B.L.15</th>
+<th>C.L.1</th>
+<th>C.L.2</th>
+<th>C.L.3</th>
+<th>C.L.4</th>
+<th>C.L.5</th>
+<th>C.L.10</th>
+<th>C.L.11</th>
+<th>C.L.12</th>
+<th>C.L.13</th>
+<th>C.L.16</th>
+<th>C.L.17</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>A</td>
+<td>Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>B</td>
+<td>Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>C</td>
+<td>Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D</td>
+<td>Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>E</td>
+<td>Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas portuarias.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>F</td>
+<td>Infraestructuras marinas portuarias.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas de defensa de la costa.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>G</td>
+<td>Infraestructuras marinas de defensa de la costa.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H</td>
-<td class="cuerpo_tabla_izq">Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>H</td>
+<td>Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_izq">Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>I</td>
+<td>Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">J</td>
-<td class="cuerpo_tabla_izq">Minería submarina.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>J</td>
+<td>Minería submarina.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">K</td>
-<td class="cuerpo_tabla_izq">Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>K</td>
+<td>Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">L</td>
-<td class="cuerpo_tabla_izq">Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>L</td>
+<td>Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq">Energías renovables en el mar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>M</td>
+<td>Energías renovables en el mar.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N</td>
+<td>Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">O</td>
-<td class="cuerpo_tabla_izq">Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>O</td>
+<td>Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_izq">Arrecifes artificiales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>P</td>
+<td>Arrecifes artificiales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q</td>
-<td class="cuerpo_tabla_izq">Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>Q</td>
+<td>Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_izq">Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td>Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S</td>
-<td class="cuerpo_tabla_izq">Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>S</td>
+<td>Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="20">
-<p class="cita">Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
-<p class="cita">Los objetivos ambientales del segundo ciclo de la Demarcación Marina Levantino - Balear que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
+<p>Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
+<p>Los objetivos ambientales del segundo ciclo de la Demarcación Marina Levantino - Balear que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="2%">
-<col width="26%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-<col width="4%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2" rowspan="2">Actuaciones</th>
-<th class="cabeza_tabla" colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Canaria</th>
+<th colspan="2" rowspan="2">Actuaciones</th>
+<th colspan="18">Objetivos ambientales del segundo ciclo de Estrategias Marinas de la Demarcación Canaria</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">B.C.2</th>
-<th class="cabeza_tabla">B.C.3</th>
-<th class="cabeza_tabla">B.C.4</th>
-<th class="cabeza_tabla">B.C.7</th>
-<th class="cabeza_tabla">B.C.9</th>
-<th class="cabeza_tabla">B.C.11</th>
-<th class="cabeza_tabla">B.C.12</th>
-<th class="cabeza_tabla">C.C.1</th>
-<th class="cabeza_tabla">C.C.2</th>
-<th class="cabeza_tabla">C.C.8</th>
-<th class="cabeza_tabla">C.C.9</th>
-<th class="cabeza_tabla">C.C.10</th>
-<th class="cabeza_tabla">C.C.15</th>
-<th class="cabeza_tabla">C.C.16</th>
-<th class="cabeza_tabla">C.C.17</th>
-<th class="cabeza_tabla">C.C.18</th>
-<th class="cabeza_tabla">C.C.20</th>
-<th class="cabeza_tabla">C.C.21</th>
+<th>B.C.2</th>
+<th>B.C.3</th>
+<th>B.C.4</th>
+<th>B.C.7</th>
+<th>B.C.9</th>
+<th>B.C.11</th>
+<th>B.C.12</th>
+<th>C.C.1</th>
+<th>C.C.2</th>
+<th>C.C.8</th>
+<th>C.C.9</th>
+<th>C.C.10</th>
+<th>C.C.15</th>
+<th>C.C.16</th>
+<th>C.C.17</th>
+<th>C.C.18</th>
+<th>C.C.20</th>
+<th>C.C.21</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_izq">Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>A</td>
+<td>Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_izq">Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>B</td>
+<td>Almacenamiento geológico de gas o CO<sub>2</sub>.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_izq">Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>C</td>
+<td>Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_izq">Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D</td>
+<td>Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E</td>
-<td class="cuerpo_tabla_izq">Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>E</td>
+<td>Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas portuarias.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>F</td>
+<td>Infraestructuras marinas portuarias.</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_izq">Infraestructuras marinas de defensa de la costa.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>G</td>
+<td>Infraestructuras marinas de defensa de la costa.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H</td>
-<td class="cuerpo_tabla_izq">Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>H</td>
+<td>Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de sus puertos o de sus canales de acceso.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I</td>
-<td class="cuerpo_tabla_izq">Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>I</td>
+<td>Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">J</td>
-<td class="cuerpo_tabla_izq">Minería submarina.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>J</td>
+<td>Minería submarina.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">K</td>
-<td class="cuerpo_tabla_izq">Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>K</td>
+<td>Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">L</td>
-<td class="cuerpo_tabla_izq">Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>L</td>
+<td>Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_izq">Energías renovables en el mar.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>M</td>
+<td>Energías renovables en el mar.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N</td>
+<td>Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">O</td>
-<td class="cuerpo_tabla_izq">Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>O</td>
+<td>Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P</td>
-<td class="cuerpo_tabla_izq">Arrecifes artificiales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>P</td>
+<td>Arrecifes artificiales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Q</td>
-<td class="cuerpo_tabla_izq">Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>Q</td>
+<td>Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_izq">Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>R</td>
+<td>Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S</td>
-<td class="cuerpo_tabla_izq">Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>S</td>
+<td>Otros: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="20">
-<p class="cita">Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
-<p class="cita">Los objetivos ambientales del segundo ciclo de la Demarcación Marina Canaria que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
+<p>Resolución de 11 de junio de 2019, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 7 de junio de 2019, por el que se aprueban los objetivos ambientales del segundo ciclo de las estrategias marinas españolas (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-8941).</p>
+<p>Los objetivos ambientales del segundo ciclo de la Demarcación Marina Canaria que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/anexoacuerdoccmmobjetivosambientaleseemm_web_tcm30-497743.pdf.</p>
 </td>
 </tr>
 </tfoot>
@@ -2685,80 +2575,72 @@ El cumplimiento y remisión por parte del declarante de este modelo normalizado 
 
 Declaración responsable para la actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">1. DATOS DEL DECLARANTE</td>
+<td colspan="2">1. DATOS DEL DECLARANTE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Persona física:</td>
+<td colspan="2">Persona física:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Nombre y apellidos.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Nombre y apellidos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> DNI/NIF.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> DNI/NIF.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Persona jurídica:</td>
+<td colspan="2">Persona jurídica:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Nombre de la entidad.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Nombre de la entidad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Representante legal.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Representante legal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Razón social.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Razón social.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Dirección postal.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Dirección postal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> N.º de teléfono (móvil y fijo a efectos de comunicación).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> N.º de teléfono (móvil y fijo a efectos de comunicación).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> <em>E-mail.</em></td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> <em>E-mail.</em></td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="36%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">2. DATOS DE LA ACTIVIDAD</td>
+<td colspan="2">2. DATOS DE LA ACTIVIDAD</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Denominación de la actividad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Denominación de la actividad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demarcación marina.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Demarcación marina.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Término municipal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Término municipal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Límites geográficos (coordenadas geográficas de las zonas en las que se realizará la actividad).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Límites geográficos (coordenadas geográficas de las zonas en las que se realizará la actividad).</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2794,108 +2676,100 @@ El cumplimiento y remisión por parte del declarante de este modelo normalizado 
 
 Declaración responsable para pruebas náuticas o deportivas y otros eventos y actividades de duración no superior a un día
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">1. DATOS DEL DECLARANTE</td>
+<td colspan="2">1. DATOS DEL DECLARANTE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Persona física:</td>
+<td colspan="2">Persona física:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Nombre y apellidos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Nombre y apellidos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> DNI/NIF.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> DNI/NIF.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Persona jurídica:</td>
+<td colspan="2">Persona jurídica:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Nombre de la entidad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Nombre de la entidad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Representante legal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Representante legal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Razón social.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Razón social.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Dirección postal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Dirección postal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> N.º teléfono (móvil y fijo a efectos de comunicación).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> N.º teléfono (móvil y fijo a efectos de comunicación).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Fax.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Fax.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> <em>E-mail.</em></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> <em>E-mail.</em></td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="36%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">2. DATOS DE LA ACTUACIÓN</td>
+<td colspan="2">2. DATOS DE LA ACTUACIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entidad organizadora.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Entidad organizadora.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Denominación de la prueba.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Denominación de la prueba.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo de prueba / evento / actividad (triatlón, natación aguas abiertas, regatas, motos náuticas, rodaje, etcétera).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Tipo de prueba / evento / actividad (triatlón, natación aguas abiertas, regatas, motos náuticas, rodaje, etcétera).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha/hora - comienzo/fin (se indicará si la prueba se celebra en varios días).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Fecha/hora - comienzo/fin (se indicará si la prueba se celebra en varios días).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demarcación marina.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Demarcación marina.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Término municipal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Término municipal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Disposición del balizamiento [disposición de las boyas/elementos (rectángulo, círculo, línea paralela a la costa, línea perpendicular a la costa, etcétera].</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Disposición del balizamiento [disposición de las boyas/elementos (rectángulo, círculo, línea paralela a la costa, línea perpendicular a la costa, etcétera].</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Descripción del sistema de fondeo (lastre de hormigón, rezón, etcétera).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Descripción del sistema de fondeo (lastre de hormigón, rezón, etcétera).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Límites geográficos (coordenadas geográficas de los puntos de balizamiento).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Límites geográficos (coordenadas geográficas de los puntos de balizamiento).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Croquis o mapa que recoja los elementos a instalar.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Croquis o mapa que recoja los elementos a instalar.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2929,114 +2803,106 @@ El cumplimiento y remisión por parte del declarante de este modelo normalizado 
 
 Declaración responsable para servicios de temporada
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">1. DATOS DEL DECLARANTE</td>
+<td colspan="2">1. DATOS DEL DECLARANTE</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Persona física:</td>
+<td colspan="2">Persona física:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Nombre y apellidos.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Nombre y apellidos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> DNI/NIF.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> DNI/NIF.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Persona jurídica:</td>
+<td colspan="2">Persona jurídica:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Nombre de la entidad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Nombre de la entidad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Representante legal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Representante legal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Razón social.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Razón social.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Dirección postal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Dirección postal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> N.º de teléfono (móvil y fijo a efectos de comunicación).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> N.º de teléfono (móvil y fijo a efectos de comunicación).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Fax.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> Fax.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> <em>E-mail.</em></td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td> <em>E-mail.</em></td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="36%">
-<col width="64%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">2. DATOS DE LA ACTIVIDAD</p>
+<td colspan="2">
+<p>2. DATOS DE LA ACTIVIDAD</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Denominación de la actividad.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Denominación de la actividad.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demarcación marina.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Demarcación marina.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Término municipal.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Término municipal.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Playas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Playas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporada (se indicará fecha de comienzo y finalización de la temporada).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Temporada (se indicará fecha de comienzo y finalización de la temporada).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elementos a instalar (balizamiento de zonas de baño, canales náuticos de acceso, rampas de varada, parques acuáticos, circuitos de motos náuticas, etcétera).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Elementos a instalar (balizamiento de zonas de baño, canales náuticos de acceso, rampas de varada, parques acuáticos, circuitos de motos náuticas, etcétera).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Límites geográficos (coordenadas geográficas de los puntos de balizamiento).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Límites geográficos (coordenadas geográficas de los puntos de balizamiento).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Disposición del balizamiento (disposición de las boyas/balizas rectángulo, círculo, línea paralela a la costa, línea perpendicular a la costa, etcétera).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Disposición del balizamiento (disposición de las boyas/balizas rectángulo, círculo, línea paralela a la costa, línea perpendicular a la costa, etcétera).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Descripción del sistema de fondeo (lastre de hormigón, anclaje ecológico/tipo, etcétera).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Descripción del sistema de fondeo (lastre de hormigón, anclaje ecológico/tipo, etcétera).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de boyas por tipología (balizamiento de zonas de baño, canales náuticos de acceso).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>N.º de boyas por tipología (balizamiento de zonas de baño, canales náuticos de acceso).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Croquis o mapa que recoja los elementos a instalar.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Croquis o mapa que recoja los elementos a instalar.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

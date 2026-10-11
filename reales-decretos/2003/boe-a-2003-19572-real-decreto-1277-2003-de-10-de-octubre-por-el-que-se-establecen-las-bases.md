@@ -106,14 +106,6 @@ Cada comunidad autónoma especificará respecto de cada tipo de procedimiento lo
 
 Los requisitos mínimos podrán ser complementados en cada comunidad autónoma por la Administración sanitaria correspondiente para los centros, servicios y establecimientos sanitarios de su ámbito.
 
-> Téngase en cuenta que la actualización del apartado 2, establecida por el art. único.1 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "2. Los requisitos mínimos comunes para la autorización de instalación, funcionamiento o modificación de un centro, servicio o establecimiento sanitario serán determinados por real decreto para el conjunto y para cada tipo de centro, servicio y establecimiento sanitario. Se tratará de requisitos dirigidos a garantizar que el centro, servicio o establecimiento sanitario cuenta con los medios técnicos, instalaciones y profesionales mínimos necesarios para desarrollar las actividades a las que va destinado.
-
-> Los requisitos mínimos podrán ser complementados en cada comunidad autónoma por la Administración sanitaria correspondiente para los centros, servicios y establecimientos sanitarios de su ámbito."
-
 > Se modifica el apartado 2, con efectos desde el 1 de julio de 2026, por el art. único.1 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975)
 
 ### Artículo 5. Catálogo y Registro general de centros, servicios y establecimientos sanitarios.
@@ -141,8 +133,6 @@ Los requisitos mínimos podrán ser complementados en cada comunidad autónoma p
 2\. Los centros, servicios y establecimientos sanitarios dispondrán de información actualizada de todo el personal sanitario que ejerza la actividad, cualquiera que sea su vinculación jurídica y la modalidad y el lugar de prestación de los servicios, sin perjuicio de la necesidad de comunicar y mantener actualizado los datos en el Registro Estatal de Profesionales Sanitarios en los términos establecidos en Real Decreto 640/2014, de 25 de julio, por el que se regula el Registro Estatal de Profesionales Sanitarios. Igualmente, dispondrán de un expediente personal actualizado con indicación de la titulación oficial y en su caso de la especialidad en ciencias de la salud oficial, de todo el personal sanitario que preste servicios bajo cualquier modalidad o vinculación.
 
 3\. Los centros, servicios y establecimientos sanitarios informarán a los profesionales de nueva incorporación sobre las actividades y/o prácticas seguras puestas en marcha en cada uno de ellos para garantizar la seguridad del paciente.
-
-> Téngase en cuenta que este artículo añadido por el art. único.2 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
 
 > Se añade, con efectos desde el 1 de julio de 2026, por el art. único.2 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975)
 
@@ -182,644 +172,642 @@ ANA MARÍA PASTOR JULIÁN
 
 ## ANEXO I — Clasificación de centros, servicios y establecimientos sanitarios
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Centros sanitarios</p>
+<p>Centros sanitarios</p>
 </td>
 <td>
-<p class="cabeza_tabla">Oferta asistencial</p>
+<p>Oferta asistencial</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>C.1 Hospitales (centros con internamiento).</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.1 Medicina general/de familia.</p>
+<p>U.1 Medicina general/de familia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.2 Enfermería.</p>
+<p>U.2 Enfermería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.1.1 Hospitales generales.</p>
+<p>C.1.1 Hospitales generales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.3 Enfermería obstétrico-ginecológica (matrona).</p>
+<p>U.3 Enfermería obstétrico-ginecológica (matrona).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.1.2 Hospitales especializados.</p>
+<p>C.1.2 Hospitales especializados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.4 Podología.</p>
+<p>U.4 Podología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.1.3 Hospitales de media y larga estancia.</p>
+<p>C.1.3 Hospitales de media y larga estancia.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.5 Vacunación.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">C.1.4 Hospitales de salud mental y tratamiento de toxicomanías.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.6 Alergología.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">U.7 Cardiología.</p>
+<p>U.5 Vacunación.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">C.1.90 Otros centros con internamiento.</p>
+<p>C.1.4 Hospitales de salud mental y tratamiento de toxicomanías.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.8 Dermatología.</p>
+<p>U.6 Alergología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.9 Aparato digestivo.</p>
+<p>U.7 Cardiología.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>C.1.90 Otros centros con internamiento.</p>
+</td>
+<td>
+<p>U.8 Dermatología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U.9 Aparato digestivo.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>C.2 Proveedores de asistencia sanitaria sin internamiento.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.10 Endrocrinología.</p>
+<p>U.10 Endrocrinología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.11 Nutrición y Dietética.</p>
+<p>U.11 Nutrición y Dietética.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.12 Geriatría.</p>
+<p>U.12 Geriatría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.1 Consultas médicas.</p>
+<p>C.2.1 Consultas médicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.13 Medicina interna.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.2 Consultas de otros profesionales sanitarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.14 Nefrología.</p>
+<p>U.13 Medicina interna.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.3 Centros de atención primaria.</p>
+<p>C.2.2 Consultas de otros profesionales sanitarios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.15 Diálisis.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.3.1 Centros de salud.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.16 Neumología.</p>
+<p>U.14 Nefrología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.3.2 Consultorios de atención primaria.</p>
+<p>C.2.3 Centros de atención primaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.17 Neurología.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.4 Centros Polivalentes.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.18 Neurofisiología.</p>
+<p>U.15 Diálisis.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5 Centros Especializados.</p>
+<p>C.2.3.1 Centros de salud.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.19 Oncología.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.5.1 Clínicas dentales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.20 Pediatría.</p>
+<p>U.16 Neumología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5.2 Centros de reproducción humana asistida.</p>
+<p>C.2.3.2 Consultorios de atención primaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.21 Cirugía pediátrica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.5.3 Centros de interrupción voluntaria del embarazo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.22 Cuidados intermedios neonatales.</p>
+<p>U.17 Neurología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5.4 Centros de cirugía mayor ambulatoria.</p>
+<p>C.2.4 Centros Polivalentes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.23 Cuidados intensivos neonatales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.5.5 Centros de diálisis.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.24 Reumatología.</p>
+<p>U.18 Neurofisiología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5.6 Centros de diagnóstico.</p>
+<p>C.2.5 Centros Especializados.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.25 Obstetricia.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.5.7 Centros móviles de asistencia sanitaria.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.26 Ginecología.</p>
+<p>U.19 Oncología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5.8 Centros de transfusión.</p>
+<p>C.2.5.1 Clínicas dentales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.27 Inseminación artificial.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.5.9 Bancos de tejidos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.28 Fecundación in vitro.</p>
+<p>U.20 Pediatría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5.10 Centros de reconocimiento.</p>
+<p>C.2.5.2 Centros de reproducción humana asistida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.29 Banco de semen.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">C.2.5.11 Centros de salud mental.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">U.30 Laboratorio de semen para capacitación espermática.</p>
+<p>U.21 Cirugía pediátrica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C.2.5.90 Otros centros especializados.</p>
+<p>C.2.5.3 Centros de interrupción voluntaria del embarazo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>U.22 Cuidados intermedios neonatales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.4 Centros de cirugía mayor ambulatoria.</p>
+</td>
+<td>
+<p>U.23 Cuidados intensivos neonatales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.5 Centros de diálisis.</p>
+</td>
+<td>
+<p>U.24 Reumatología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.6 Centros de diagnóstico.</p>
+</td>
+<td>
+<p>U.25 Obstetricia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.7 Centros móviles de asistencia sanitaria.</p>
+</td>
+<td>
+<p>U.26 Ginecología.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.8 Centros de transfusión.</p>
+</td>
+<td>
+<p>U.27 Inseminación artificial.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.9 Bancos de tejidos.</p>
+</td>
+<td>
+<p>U.28 Fecundación in vitro.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.10 Centros de reconocimiento.</p>
+</td>
+<td>
+<p>U.29 Banco de semen.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.11 Centros de salud mental.</p>
+</td>
+<td>
+<p>U.30 Laboratorio de semen para capacitación espermática.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C.2.5.90 Otros centros especializados.</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">C.2.90 Otros proveedores de asistencia sanitaria sin Internamiento.</p>
+<p>C.2.90 Otros proveedores de asistencia sanitaria sin Internamiento.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.31 Banco de embriones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">U.32 Recuperación de oocitos.</p>
+<p>U.31 Banco de embriones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.33 Planificación familiar.</p>
+<p>U.32 Recuperación de oocitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U.33 Planificación familiar.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <em>C.3 Servicios sanitarios integrados en una organización no sanitaria.</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.34 Interrupción voluntaria del embarazo.</p>
+<p>U.34 Interrupción voluntaria del embarazo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.35 Anestesia y Reanimación.</p>
+<p>U.35 Anestesia y Reanimación.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="74">
-<p class="cuerpo_tabla_izq"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">U.36 Tratamiento del dolor.</p>
+<p>U.36 Tratamiento del dolor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.37 Medicina intensiva.</p>
+<p>U.37 Medicina intensiva.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.38 Quemados.</p>
+<p>U.38 Quemados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.39 Angiología y Cirugía Vascular.</p>
+<p>U.39 Angiología y Cirugía Vascular.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.40 Cirugía cardiaca.</p>
+<p>U.40 Cirugía cardiaca.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.41 Hemodinámica.</p>
+<p>U.41 Hemodinámica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.42 Cirugía torácica.</p>
+<p>U.42 Cirugía torácica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.43 Cirugía general y digestivo.</p>
+<p>U.43 Cirugía general y digestivo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.44 Odontología/Estomatología.</p>
+<p>U.44 Odontología/Estomatología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.45 Cirugía maxilofacial .</p>
+<p>U.45 Cirugía maxilofacial .</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.46 Cirugía plástica y reparadora.</p>
+<p>U.46 Cirugía plástica y reparadora.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.47 Cirugía estética.</p>
+<p>U.47 Cirugía estética.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.48 Medicina estética.</p>
+<p>U.48 Medicina estética.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.49 Neurocirugía.</p>
+<p>U.49 Neurocirugía.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.50 Oftalmología.</p>
+<p>U.50 Oftalmología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.51 Cirugía refractiva.</p>
+<p>U.51 Cirugía refractiva.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.52 Otorrinolaringología.</p>
+<p>U.52 Otorrinolaringología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.53 Urología.</p>
+<p>U.53 Urología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.54 Litotricia renal.</p>
+<p>U.54 Litotricia renal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.55 Cirugía ortopédica y Traumatología.</p>
+<p>U.55 Cirugía ortopédica y Traumatología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.56 Lesionados medulares.</p>
+<p>U.56 Lesionados medulares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.57 Rehabilitación.</p>
+<p>U.57 Rehabilitación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.58 Hidrología.</p>
+<p>U.58 Hidrología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.59 Fisioterapia.</p>
+<p>U.59 Fisioterapia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.60 Terapia ocupacional.</p>
+<p>U.60 Terapia ocupacional.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.61 Logopedia.</p>
+<p>U.61 Logopedia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.62 Foniatría.</p>
+<p>U.62 Foniatría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.63 Cirugía mayor ambulatoria.</p>
+<p>U.63 Cirugía mayor ambulatoria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.64 Cirugía menor ambulatoria.</p>
+<p>U.64 Cirugía menor ambulatoria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.65 Hospital de día.</p>
+<p>U.65 Hospital de día.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.66 Atención sanitaria domiciliaria.</p>
+<p>U.66 Atención sanitaria domiciliaria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.67 Cuidados paliativos.</p>
+<p>U.67 Cuidados paliativos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.68 Atención continuada en Atención Primaria.</p>
+<p>U.68 Atención continuada en Atención Primaria.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.69 Psiquiatría.</p>
+<p>U.69 Psiquiatría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.70 Psicología clínica.</p>
+<p>U.70 Psicología clínica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.71 Atención sanitaria a drogodependientes.</p>
+<p>U.71 Atención sanitaria a drogodependientes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.72 Obtención de muestras.</p>
+<p>U.72 Obtención de muestras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.73 Laboratorio Clínico.</p>
+<p>U.73 Laboratorio Clínico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.74 <strong>(Suprimida)</strong></p>
+<p>U.74 <strong>(Suprimida)</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.75 Inmunología.</p>
+<p>U.75 Inmunología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.76 Microbiología y Parasitología.</p>
+<p>U.76 Microbiología y Parasitología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.77 Anatomía patológica.</p>
+<p>U.77 Anatomía patológica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.78 Genética.</p>
+<p>U.78 Genética.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.79 Hematología clínica.</p>
+<p>U.79 Hematología clínica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.80 Laboratorio de hematología.</p>
+<p>U.80 Laboratorio de hematología.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.81 Extracción de sangre para donación.</p>
+<p>U.81 Extracción de sangre para donación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.82 Servicio de transfusión.</p>
+<p>U.82 Servicio de transfusión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.83 Farmacia.</p>
+<p>U.83 Farmacia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.84 Depósito de medicamentos.</p>
+<p>U.84 Depósito de medicamentos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.85 Farmacología clínica.</p>
+<p>U.85 Farmacología clínica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.86 Radioterapia.</p>
+<p>U.86 Radioterapia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.87 Medicina nuclear.</p>
+<p>U.87 Medicina nuclear.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.88 Radiodiagnóstico.</p>
+<p>U.88 Radiodiagnóstico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.89 Asistencia a lesionados y contaminados por elementos radiactivos y radiaciones ionizantes.</p>
+<p>U.89 Asistencia a lesionados y contaminados por elementos radiactivos y radiaciones ionizantes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.90 Medicina preventiva.</p>
+<p>U.90 Medicina preventiva.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.91 Medicina de la educación física y el deporte.</p>
+<p>U.91 Medicina de la educación física y el deporte.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.92 Medicina hiperbárica.</p>
+<p>U.92 Medicina hiperbárica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.93 Extracción de órganos.</p>
+<p>U.93 Extracción de órganos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.94 Trasplante de órganos.</p>
+<p>U.94 Trasplante de órganos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.95 Obtención de tejidos.</p>
+<p>U.95 Obtención de tejidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.96 Implantación de tejidos.</p>
+<p>U.96 Implantación de tejidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.97 Banco de tejidos.</p>
+<p>U.97 Banco de tejidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.98 Medicina aeronáutica.</p>
+<p>U.98 Medicina aeronáutica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.99 Medicina del trabajo.</p>
+<p>U.99 Medicina del trabajo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.100 Transporte sanitario (carretera, aéreo, marítimo).</p>
+<p>U.100 Transporte sanitario (carretera, aéreo, marítimo).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">U.101 Terapias no convencionales.</p>
+<p>U.101 Terapias no convencionales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.102 Medicina Legal y Forense.</td>
+<td>U.102 Medicina Legal y Forense.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.103 Psiquiatría Infantil y de la Adolescencia.</td>
+<td>U.103 Psiquiatría Infantil y de la Adolescencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.104 Banco de oocitos.</td>
+<td>U.104 Banco de oocitos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.105 Urgencias y Emergencias.</td>
+<td>U.105 Urgencias y Emergencias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.106 Radiofísica hospitalaria.</td>
+<td>U.106 Radiofísica hospitalaria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.107 Radiofarmacia.</td>
+<td>U.107 Radiofarmacia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">U.900 Otras unidades asistenciales.</td>
+<td>U.900 Otras unidades asistenciales.</td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que las referencias U.106 y U.107, añadidas por el art. único.3 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
 
 Establecimientos sanitarios:
 
@@ -953,12 +941,6 @@ U.10*Endocrinología:*unidad asistencial en la que un médico especialista en En
 
 U.11 Nutrición y dietética: unidad asistencial que, bajo la responsabilidad de una persona graduada en Nutrición Humana y Dietética o una persona especialista en Endocrinología y Nutrición, se encarga de la adecuada nutrición de las personas en la atención sanitaria.
 
-> Téngase en cuenta que la modificación de la referencia U.11, establecida por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "U.11*Nutrición y dietética:*unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la adecuada nutrición de los pacientes ingresados y de los que precisan continuar el tratamiento tras el ingreso."
-
 U.12*Geriatría:*unidad asistencial en la que un médico especialista en Geriatría es responsable de realizar el estudio, diagnóstico y tratamiento de la patología de la edad avanzada.
 
 U.13*Medicina interna:*unidad asistencial en la que un médico especialista en Medicina interna es responsable de realizar el estudio, diagnóstico y tratamiento médico de pacientes afectados de patología diversa.
@@ -1008,14 +990,6 @@ U.34*Interrupción voluntaria del embarazo:*unidad asistencial en la que un méd
 U.35*Anestesia y reanimación:*unidad asistencial en la que un médico especialista en Anestesiología y Reanimación es responsable de aplicar al paciente técnicas y métodos para hacerle insensible al dolor y protegerle de la agresión antes, durante y después de cualquier intervención quirúrgica u obstétrica, de exploraciones diagnósticas y de traumatismos, así como de mantener sus condiciones vitales en cualquiera de las situaciones citadas.
 
 U.36*Tratamiento del dolor:*unidad asistencial multidisciplinar en la que, bajo la responsabilidad de una persona especialista en Anestesiología y Reanimación, se aplican técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente.
-
-> Téngase en cuenta que las modificaciones de las referencias U.33 y U.36, establecida por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "U.33*Planificación familiar:*unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de prestar servicios de atención, información y asesoramiento relacionados con la reproducción, concepción y contracepción humana.
-
-> U.36*Tratamiento del dolor:*unidad asistencial en la que un médico especialista es responsable de aplicar técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente."
 
 U.37*Medicina intensiva:*unidad asistencial en la que un médico especialista en Medicina intensiva es responsable de que se preste la atención sanitaria precisa, continua e inmediata, a pacientes con alteraciones fisiopatológicas que han alcanzado un nivel de severidad tal que representan una amenaza actual o potencial para su vida y, al mismo tiempo, son susceptibles de recuperación.
 
@@ -1158,12 +1132,6 @@ U.105 Urgencias y Emergencias: unidad asistencial que bajo la responsabilidad de
 U.106 Radiofísica hospitalaria: unidad asistencial en la que, bajo la responsabilidad de una persona especialista en radiofísica hospitalaria, se desarrollan las competencias correspondientes a su especialidad como la Protección Radiológica, aspectos técnicos del control de los equipos e investigación de las técnicas radiológicas implicadas en Medicina Nuclear, Radioterapia y Radiodiagnóstico, de acuerdo con el programa oficial de su especialidad.
 
 U.107 Radiofarmacia: unidad asistencial en la que bajo la responsabilidad de una persona especialista en Radiofarmacia, se lleva a cabo el diseño, la preparación, dispensación y control de calidad de los radiofármacos y otros productos sanitarios radiactivos, en el ámbito y competencias indicadas en el programa oficial de su especialidad.
-
-> Téngase en cuenta que la modificación de la referencia U.105 y las referencias U.106 y U.107 añadidas por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. [Ref. BOE-A-2026-6975](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-6975), entra en vigor el 1 de julio de 2026, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "U.105 Unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina de Urgencias y Emergencias está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata."
 
 U.900 *Otras unidades asistenciales:*unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
 

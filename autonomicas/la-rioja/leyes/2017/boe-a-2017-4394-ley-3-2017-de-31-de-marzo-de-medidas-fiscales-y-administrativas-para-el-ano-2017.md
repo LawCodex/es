@@ -1,0 +1,873 @@
+---
+title: "Ley 3/2017, de 31 de marzo, de Medidas Fiscales y Administrativas para el año 2017"
+identifier: "BOE-A-2017-4394"
+eli: "https://www.boe.es/eli/es-ri/l/2017/03/31/3"
+type: act
+rank: "Ley"
+jurisdiction: es-la-rioja
+language: es
+department: "Comunidad Autónoma de La Rioja"
+date: 2017-03-31
+published: 2017-04-22
+in_force_from: 2017-04-02
+last_amended: 2017-10-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 96"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-4394"
+retrieved: 2026-10-11
+---
+
+# Ley 3/2017, de 31 de marzo, de Medidas Fiscales y Administrativas para el año 2017
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+
+EXPOSICIÓN DE MOTIVOS
+
+I
+
+Las medidas de carácter normativo que han de aprobarse como complemento necesario a la Ley de Presupuestos no deben integrarse en la misma, sino que, según la doctrina sentada por el Tribunal Constitucional, deben incorporarse a otra ley específica con rango de ley ordinaria, de modo que los trámites parlamentarios no queden sujetos a las limitaciones propias de la especial tramitación de la norma presupuestaria.
+
+El Tribunal Supremo, por su parte, ha contribuido a finalizar el debate sobre la naturaleza de las denominadas leyes de medidas o leyes de acompañamiento de los Presupuestos, definiendo este tipo de normas como leyes ordinarias cuyo contenido está plenamente amparado por la libertad de configuración normativa de la que goza el legislador y que permiten una mejor y más eficaz ejecución del programa del Gobierno en los distintos ámbitos en los que se desenvuelve su acción. Y precisamente se diferencian de la Ley de Presupuestos en que la facultad de enmienda es plena y no se encuentra limitada. Esta doctrina ha sido posteriormente refrendada por el propio Tribunal Constitucional en su sentencia 136/2011, de 13 de septiembre.
+
+El contenido principal de esta ley lo constituyen las medidas de naturaleza tributaria, si bien se incorporan también otras de carácter administrativo.
+
+El contenido de esta norma encuentra cobertura en diversos preceptos del Estatuto de Autonomía de La Rioja, aprobado por Ley Orgánica 3/1982, de 9 de junio, en concreto, en sus artículos 8.uno, 9, 26.uno y 48.
+
+II
+
+La ley comienza con normas de naturaleza tributaria, dictadas en uso de las facultades normativas atribuidas por el artículo 48 del Estatuto de Autonomía de La Rioja y por la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+
+Ya que este marco común está siendo sometido a revisión en el seno de la Comisión de Expertos aprobada por acuerdo del Consejo de Ministros de 10 de febrero de 2017, el Gobierno se compromete a mantener al Parlamento de La Rioja puntualmente informado de los trabajos de esa comisión, bien sea directamente o a través del experto nombrado a instancia suya, y a trasladar al seno de dicha comisión las aportaciones de los grupos parlamentarios. De esta manera, a partir de septiembre de 2017, el Parlamento de La Rioja contará con toda la información necesaria para un correcto desarrollo de los trabajos presupuestarios de cara a 2018, y sus iniciativas habrán sido trasladadas a la citada Comisión de Expertos.
+
+Las medidas de carácter tributario relativas a los tributos cedidos conservan sustancialmente las ya introducidas en años anteriores por el Parlamento de La Rioja en una versión consolidada, de modo que toda la normativa a aplicar en el ejercicio 2016 se encuentre compilada en un único texto, facilitando su aplicación por los interesados y garantizando la seguridad jurídica.
+
+La deducción por nacimiento o adopción de hijos en el impuesto sobre la renta de las personas físicas se ha ampliado, de forma que puede aplicarse desde el primer hijo y no desde el segundo, como hasta ahora.
+
+Se han incorporado tres nuevos beneficios fiscales en este impuesto como novedad, que comenzarán a aplicarse durante este ejercicio 2017.
+
+Los dos primeros se han concebido para atraer población, mejorar las condiciones de vida y favorecer la conciliación de la vida familiar y laboral en las poblaciones riojanas de menor tamaño. El primero de ellos permite deducciones en la cuota íntegra por la adquisición, construcción o rehabilitación de vivienda habitual efectuadas en pequeños municipios. La segunda deducción se aplica a los gastos en escuelas infantiles, centros infantiles y personal contratado para el cuidado de hijos de 0 a 3 años, y resulta aplicable a aquellos contribuyentes que fijen su residencia habitual en uno de estos municipios durante el presente ejercicio. La seguridad jurídica de la medida queda asegurada mediante la aprobación de un segundo anexo en el artículo 3 que contiene a los municipios en los que resulta de aplicación esta medida.
+
+El tercero de los nuevos beneficios fiscales consiste en una deducción por acogimiento familiar de menores en cualquiera de las modalidades previstas en la ley. Esta deducción pretende incentivar el acogimiento de menores en el ámbito de nuestra comunidad autónoma, con la finalidad de llegar al pleno acogimiento.
+
+Resultan también relevantes como novedades los cambios incorporados en cumplimiento del Acuerdo alcanzado por la Comisión bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de La Rioja con fecha 11 de julio de 2016 en relación con la Ley 6/2015, de Medidas Fiscales y Administrativas para 2016. Dicho acuerdo instaba a adecuar la ley a la jurisprudencia del Tribunal Constitucional recogida, entre otras, en sentencias 161/2012, de 20 de noviembre, y 197/2012, de 6 de noviembre, mediante la derogación de la deducción contenida en el apartado f) del artículo 2, relativa al autoempleo.
+
+Asimismo, se acordó también suprimir los requisitos de residencia a los que se ligaba la concesión de algunos de los beneficios fiscales en materia de sucesiones y donaciones.
+
+Las modificaciones en la regulación autonómica de los impuestos sobre sucesiones y donaciones y sobre transmisiones patrimoniales y actos jurídicos documentados suponen en su mayor parte ajustes técnicos destinados a mejorar la coherencia interna de las medidas, destacando la supresión del requisito de residencia en algunos supuestos, tanto de los recogidos en el acuerdo firmado al respecto con la Administración general del Estado, como de algunos otros en aquellos artículos en los que era posible sin hacer perder su razón de ser a la deducción correspondiente.
+
+En el caso del impuesto sobre donaciones, también se han incorporado modificaciones solicitadas desde la sociedad civil, como la mejora de la reducción por donación de empresa familiar sugerida desde el Colegio de Economistas de La Rioja.
+
+El canon de saneamiento recibe una pequeña modificación, que supone trasponer a este impuesto la obligación de tramitación electrónica que la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, establece con carácter general para ciertas categorías de administrados.
+
+La ley revisa también diferentes tasas para adaptarlas a diversos cambios normativos, técnicos o procedimentales.
+
+III
+
+El segundo bloque de la ley, integrado en el título II, recoge la modificación de diversas leyes y adopta algunas medidas independientes, con el objetivo de facilitar la consecución de los fines previstos en la Ley de Presupuestos, porque por su contenido se encuentra ligado a la ejecución del gasto o por su urgencia no conviene demorar su aprobación.
+
+La modificación de la Ley 3/1990, de 29 de junio, de Función Pública de la Administración Pública de la Comunidad Autónoma de La Rioja, tiene como finalidades asumidas en compromisos durante la negociación colectiva con los representantes del personal dos objetivos: reconocer días adicionales de vacaciones y por asuntos propios en función de la antigüedad, y reintroducir la carrera horizontal de los funcionarios de carrera, que no había llegado a ponerse en marcha al coincidir su despliegue inicial con los momentos más acuciantes de la crisis económica. Adicionalmente, se ha ampliado la regulación de las comisiones de servicio de forma que, aunque se sigue remitiendo a regulación reglamentaria, se sujetan explícitamente a los principios de publicidad, concurrencia y transparencia.
+
+Los cambios introducidos en la Ley 11/2013, de 21 de octubre, de Hacienda Pública de La Rioja, tienen como primera finalidad, según la propuesta de la Intervención General, dotar de rango legal a la posibilidad de que la planificación de las actuaciones de control financiero de la Intervención General no se limite a un solo ejercicio ‒el plan anual de auditorías previsto en la redacción actual de la ley‒, sino que se permita también la planificación plurianual. De este modo, la planificación de actuaciones puede adaptarse a la existencia de instrumentos de gasto que también son de naturaleza plurianual, como los fondos europeos, sujetos a programas plurianuales. Adicionalmente, la ley corrige dos defectos formales de la redacción original que no se habían observado hasta este momento y que, aunque no han ofrecido problemas de aplicación práctica, se considera conveniente corregir.
+
+La modificación de la Ley 4/2005, de 1 de junio, de funcionamiento y régimen jurídico de la Administración de la Comunidad Autónoma de La Rioja, es consecuencia de la entrada en vigor de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. La reducción del plazo máximo por defecto a tres meses en determinados procedimientos recomienda unificar los plazos, aplicando la normativa autonómica a todos los procedimientos instruidos por esta, incluyendo a los que derivan de competencias compartidas entre el Estado y las comunidades autónomas.
+
+La Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja, se modifica con la finalidad de ajustar su redacción actual a las novedades derivadas del Estatuto de Capitalidad de Logroño y a los cambios introducidos en materia medioambiental, que han alterado la distribución de competencias para aprobación de instrumentos y emisión de informes. La modificación de su disposición transitoria primera, por su parte, intenta impedir la paralización de desarrollos urbanos siempre que estos respeten los principios incluidos en la normativa estatal, en vista de que el Texto Refundido de la Ley de Suelo y Rehabilitación Urbana, en vigor desde octubre de 2015, ya contiene reglas específicas directamente aplicables.
+
+La modificación de la Ley 3/2003, de 3 de marzo, de Organización del Sector Público de la Comunidad Autónoma de La Rioja, introduce una breve regulación del régimen de las aportaciones a las sociedades públicas, en vista de las repercusiones presupuestarias de dichas operaciones en relación con el techo de deuda y de su influencia sobre el valor de adquisición de la acción.
+
+La Ley 8/1998, de 16 de junio, de Ordenación Farmacéutica de la Comunidad Autónoma de La Rioja, se modifica para adaptarla a los cambios que se han producido en la Ley 25/1990, de 20 de diciembre, del Medicamento, de carácter básico, vigente cuando se aprobó la actual ley de ordenación farmacéutica autonómica riojana, y que ha sido modificada recientemente rompiendo las concordancias que existían entre ambas normas.
+
+La Ley 1/2007, de 12 de febrero, de Fundaciones de la Comunidad Autónoma de La Rioja, recibe cambios encaminados a permitir que los bienes liquidados de una fundación en extinción puedan destinarse tanto a entidades privadas como públicas, siempre que persigan un interés general y cumplan el resto de condiciones expresadas en el artículo. Adicionalmente, la reforma planteada aclara que la enajenación del patrimonio de la fundación puede adoptar tanto forma onerosa como gratuita, en el mismo sentido previsto en la normativa estatal sobre fundaciones.
+
+La Ley 7/2004, de 18 de octubre, de Patrimonio Cultural, Histórico y Artístico de La Rioja, se modifica al efecto de permitir, como sucede en el caso de la Ley de Patrimonio Histórico estatal, que la Administración realice de modo directo las obras u otras intervenciones necesarias sobre los bienes protegidos, en lugar de limitarse a establecer modos de colaboración económica con los propietarios del bien.
+
+La Ley 1/2006, de 28 de febrero, de Protección de Menores de La Rioja, se modifica para incluir como novedad que se admita, con carácter excepcional, la tramitación simultánea de una solicitud de adopción internacional en más de un país.
+
+Las novedades introducidas en la Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas de La Rioja, obedecen a diversas causas, desde adaptaciones derivadas de la entrada en vigor de la ya citada Ley 39/2015, hasta la regulación «ex novo» de las campañas de información y prevención, pasando por la simplificación y racionalización de algunos procedimientos de autorización, así como simples mejoras de redacción.
+
+La modificación de la Ley 7/2014, de 23 de diciembre, de Medidas Fiscales y Administrativas para el año 2015, con el fin de reforzar y facilitar la colaboración con los ayuntamientos para mejorar los accesos a los núcleos de población.
+
+## TÍTULO I — Medidas tributarias
+
+### CAPÍTULOS I a VI
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley 10/2017, de 27 de octubre. [Ref. BOE-A-2017-13750](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13750)
+
+#### Artículos 1 a 43.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley 10/2017, de 27 de octubre. [Ref. BOE-A-2017-13750](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13750)
+
+### CAPÍTULO VII — Canon de saneamiento
+
+#### Artículo 44. Modificación de la Ley 5/2000, de 25 de octubre, de Saneamiento y Depuración de Aguas Residuales de La Rioja.
+
+Se añade una nueva disposición adicional octava con la siguiente redacción:
+
+«Disposición adicional octava. Administración electrónica en el canon de saneamiento.
+
+Los usuarios no domésticos de canon de saneamiento y las entidades suministradoras de agua potable privadas que ostenten la condición de persona jurídica están obligados a relacionarse electrónicamente con la Administración tributaria autonómica a los efectos de la aplicación de este impuesto.»
+
+### CAPÍTULO VIII — Tasas
+
+#### Artículo 45. Modificación de la Ley 6/2002, de 18 de octubre, de Tasas y Precios Públicos de la Comunidad Autónoma de La Rioja.
+
+Uno. Se modifican las tarifas de la TASA 09.24. TASA POR PRESTACIÓN DEL SERVICIO DE TRANSPORTE DE AGUA POTABLE, y se introducen exenciones, que quedan redactadas del siguiente modo:
+
+«Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+Por cada transporte de agua, sin que el servicio exceda de dos horas de duración: 60,61 euros.
+
+Si se rebasa el horario consignado en los apartados anteriores, se pagará además, por hora o fracción de exceso: 20,15 euros.
+
+Exenciones.
+
+Estarán exentas del abono de esta tasa las solicitudes en las que se justifique el carácter de la prestación del servicio como urgente e inaplazable.»
+
+Dos. Se modifican las tarifas de la TASA 12.04. TASA POR ACTUACIONES ADMINISTRATIVAS EN MATERIA DE JUEGOS DE SUERTE, ENVITE O AZAR, que quedan redactadas del siguiente modo:
+
+«Tarifas:
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+1\. Homologación de modelos de máquinas y material de juego y apuestas:
+
+1.1 Máquinas de tipo ‘‘A1’’: 109,73 euros.
+
+1.2 Máquinas de juego y auxiliares: 219,44 euros.
+
+1.3 Sistemas de interconexión de máquinas: 219,44 euros.
+
+1.4 Sistemas técnicos e informáticos de juego: 500 euros.
+
+1.5 Otro tipo de material: 219,44 euros.
+
+1.6 Renovaciones y modificaciones: 50% de la tarifa correspondiente.
+
+1.7 Duplicados de la certificación registral: 20 euros.
+
+2\. Inscripción de empresas de juego y apuestas:
+
+2.1 Empresas fabricantes e importadoras: 219,44 euros.
+
+2.2 Empresas comercializadoras: 219,44 euros.
+
+2.3 Empresas operadoras: 219,44 euros.
+
+2.4 Titulares de salones de juego: 109,73 euros.
+
+2.5 Empresas de bingo: 219,44 euros.
+
+2.6 Empresas de apuestas: 219,44 euros.
+
+2.7 Entidades autorizadas para pruebas de ensayo e inspección: 219,44 euros.
+
+2.8 Renovaciones y modificaciones: 50 % de la tarifa correspondiente.
+
+2.9 Duplicados de la certificación registral: 20 euros.
+
+3\. Establecimientos de juego y apuestas:
+
+3.1 Autorización de funcionamiento de casinos de juego: 4.773,22 euros.
+
+3.2 Salas de bingo:
+
+3.2.1 Autorización de funcionamiento: 795,91 euros.
+
+3.3 Salones de juego:
+
+3.3.1 Autorización de funcionamiento: 397,96 euros.
+
+3.4 Locales de apuestas:
+
+3.4.1 Autorización de tiendas de apuestas: 397,96 euros.
+
+3.4.2 Autorización de espacios de apuestas: 397,96 euros.
+
+3.5 Autorización de instalación en establecimientos de hostelería: 86,80 euros.
+
+3.6 Renovaciones y modificaciones: 50 % de la tarifa por autorización.
+
+3.7 Duplicados de la autorización y certificación registral: 20 euros.
+
+4\. Máquinas de juego:
+
+4.1 Autorizaciones de explotación:
+
+4.1.1 Máquinas de juego y auxiliares: altas: 39,80 euros.
+
+4.1.2 Renovaciones y transmisiones: 50 % de la tarifa correspondiente.
+
+4.1.3 Canjes fiscales: 49,05 euros.
+
+4.1.4 Duplicados de la autorización: 20 euros.
+
+4.1.5 Baja temporal y definitiva: 15,91 euros.
+
+4.2 Autorizaciones de instalación:
+
+4.2.1 Autorización de instalación en establecimientos de juego: 8,75 euros.
+
+4.2.2 Extinción, renuncia y revocación: 78.05 euros.
+
+4.2.3 Duplicados de la autorización: 20 euros.
+
+4.3 Traslados: 3,97 euros.
+
+5\. Otras autorizaciones:
+
+5.1 Rifas, tómbolas y combinaciones aleatorias: 87,75 euros.
+
+5.2 Juegos y apuestas de carácter tradicional: 87,75 euros.
+
+5.3 Publicidad y organización de torneos: 87,75 euros.»
+
+Tres. Se modifica la TASA 19.04. TASA DE INDUSTRIA, que queda redactada en los siguientes términos:
+
+«TASA 19.04. TASA DE INDUSTRIA.
+
+Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación por la Consejería de Desarrollo Económico e Innovación de los servicios que se enumeran en las tarifas, bien sea de oficio o a instancia de parte.
+
+Sujeto pasivo.
+
+Serán sujetos pasivos las personas físicas o jurídicas y los entes comprendidos en el artículo 17.2 de esta ley que sean receptoras de los servicios objetos de esta tasa.
+
+Devengo.
+
+1\. La tasa se devengará en el momento de la solicitud del servicio.
+
+2\. Cuando el servicio se preste de oficio por la Administración o en aquellos casos en que por su complejidad no sea posible la liquidación de la tasa en el momento mismo de producirse el devengo de acuerdo con lo dispuesto en el número anterior, la Administración, previa valoración del hecho imponible, practicará la subsiguiente liquidación, que deberá ser debidamente notificada al interesado, con expresión de los plazos para su pago voluntario de conformidad con lo establecido en el artículo 31 de la presente ley.
+
+Tarifas.
+
+1\. Inscripción de establecimientos y/o actividades en el Registro Integrado Industrial.
+
+La tasa se exigirá de acuerdo con el siguiente detalle por actuaciones, estableciéndose una tarifa base de 57,25 euros, aplicando el porcentaje sobre ella que a continuación se indica:
+
+1.1 Nuevas inscripciones, ampliaciones, modificaciones y traslados: 100 %.
+
+1.2 Inscripción de cambio de titularidad: 80 %.
+
+2\. Autorización de funcionamiento, inscripción de puesta en servicio, cambios de titularidad y control e inspección de instalaciones sujetas a autorización o inscripción por Reglamentos de Seguridad Industrial.
+
+2.1 Para la determinación de la cuota se tomará como base el presupuesto total del proyecto o documento técnico y, con él, se obtendrá la siguiente tarifa:
+
+2.1.1 Hasta 15.000,00 euros de presupuesto: 57,25 euros.
+
+2.1.2 De 15.000,01 euros a 36.000,00 euros: 91,62 euros.
+
+2.1.3 De 36.000,01 euros a 90.000,00 euros: 137,39 euros.
+
+2.1.4 En los excesos, por cada 12.000 euros más: 9,12 euros.
+
+La cuantía máxima no excederá de 375,48 euros por actuación.
+
+2.2 Los servicios señalados en esta tarifa serán exigidos, excepto para nueva inscripción, ampliación y modificación de instalaciones eléctricas, térmicas, de equipos a presión y de almacenamiento de productos petrolíferos que no requieren proyecto, aplicando el porcentaje que a continuación se indica sobre la tarifa base determinada en el apartado 1:
+
+2.2.1 Nuevas inscripciones, ampliaciones y modificaciones de instalaciones: 100 %.
+
+2.2.2 Cambio de titularidad: 80 %.
+
+2.2.3 Inspección de instalaciones: 100 %.
+
+2.2.4 Legalización de nuevas instalaciones, ampliación y modificaciones de instalaciones clandestinas: 200 %.
+
+2.3 Instalaciones eléctricas que no requieren proyecto. Las tarifas serán:
+
+2.3.1 Instalaciones eléctricas hasta 15 Kw de potencia instalada: 28,65 euros.
+
+2.3.2 Instalaciones eléctricas a partir de 15 Kw: 28,65 € + 3,89 €/Kw.
+
+2.4 Instalaciones térmicas, de equipos a presión y de almacenamiento de productos petrolíferos que no requieren proyecto: 40 % sobre la tarifa base determinada en el apartado 1.
+
+3\. Autorización y renovación de centros técnicos de tacógrafos y limitadores de velocidad:
+
+3.1 Autorización: 31,05 euros.
+
+3.2 Renovación: 15,50 euros.
+
+4\. Metrología legal:
+
+4.1 Verificación de contadores eléctricos: 77,89 euros.
+
+4.2 Verificación de contadores de gas: 103,87 euros.
+
+4.3 Actuaciones administrativas en resolución de discrepancias entre entidades colaboradoras de la Administración autorizadas en actuaciones de control metrológico y titulares de las instalaciones verificadas: 64,92 euros.
+
+4.4 Certificación de toma de muestras de los suministros de combustibles: 64,92 euros.
+
+4.5 Registro de instrumentos de control metrológico. Emisión, diligencia y sellado de boletines: 22,05 euros.
+
+5\. Expedición de carnés, informes y certificaciones:
+
+5.1 Expedición carnés de instalador o mantenedor para profesionales y certificados de Empresa Habilitada: 22,88 euros.
+
+5.2 Renovación carnés profesionales y certificados de empresa: 11,42 euros.
+
+5.3 Certificación de puesta en práctica de patentes: 64,92 euros.
+
+6\. Expedientes de expropiación forzosa, por parcela: 45,86 euros.
+
+7\. Habilitación, renovación y supervisión de actuaciones de entidades de control reglamentario, laboratorios de ensayo y empresas colaboradoras habilitadas:
+
+7.1 Habilitación: 315,81 euros.
+
+7.2 Renovación: 131,36 euros.
+
+7.3 Comprobación y supervisión de trabajos realizados, por cada instalación: 61,66 euros.
+
+7.4 Anotación, registro y tramitación de actuaciones realizadas por entidades de control reglamentario y laboratorios de ensayo: 3,89 euros.
+
+7.5 Registro y control de revisiones realizadas en centros ITV autorizadas en régimen no concesional: 2,86 euros.»
+
+Cuatro. Se incorpora una nueva tarifa 7.7 al grupo de tarifas 7. Servicio automóviles a la TASA 19.05. TASA SERVICIOS ITV SERVICIO DE AUTOMÓVILES, en los siguientes términos:
+
+«7.7 Catalogación de vehículos históricos: 21,00 euros.»
+
+## TÍTULO II — Medidas administrativas
+
+### CAPÍTULO I — Medidas administrativas en materia de Función Pública
+
+#### Artículo 46. Modificación de la Ley 3/1990, de 29 de junio, de Función Pública de la Administración Pública de la Comunidad Autónoma de La Rioja.
+
+Uno. Se añade a la ley un nuevo artículo 32 bis con el siguiente contenido:
+
+«Artículo 32 bis. Carrera horizontal de los funcionarios de carrera.
+
+1\. Los funcionarios de carrera de la Administración general y organismos públicos de la Comunidad Autónoma de La Rioja tienen derecho a la carrera profesional horizontal.
+
+A tal objeto, la Administración Pública de la Comunidad de La Rioja impulsará la profesionalización y cualificación de sus funcionarios de carrera.
+
+2\. La carrera profesional horizontal consiste en la progresión voluntaria de grado, sin necesidad de cambiar de puesto de trabajo, previa convocatoria al efecto y a instancia del interesado.
+
+3\. Se deberá valorar de forma objetiva la trayectoria y actuación profesional, la calidad de los trabajos realizados, los conocimientos adquiridos y el resultado de la evaluación del desempeño. Podrán incluirse asimismo otros méritos y aptitudes por razón de la especificidad de la función desarrollada y la experiencia adquirida.
+
+4\. El sistema de grados se regulará mediante decreto, que establecerá los requisitos, la forma de acceso y el régimen retributivo de los mismos.
+
+5\. La permanencia en un determinado grado de carrera horizontal puede ser revisada en el supuesto de evaluación negativa del rendimiento del empleado público, con retroceso al grado inmediatamente inferior, sin perjuicio de lo dispuesto en la regulación del régimen disciplinario de los empleados públicos.»
+
+Dos. Se modifica el apartado 4 del artículo 41, que queda redactado en los siguientes términos:
+
+«4. Reglamentariamente se regularán las comisiones de servicio, que se ajustarán a los principios de publicidad, concurrencia y transparencia y que, en todo caso, solo podrán ordenarse por resolución del Consejero de Administración Pública y Hacienda.»
+
+Tres. Se da la siguiente redacción a la letra a) del apartado 1 del artículo 50:
+
+«a) Los funcionarios y el personal eventual tendrán derecho a disfrutar durante cada año completo de servicio de unas vacaciones retribuidas de veintidós días hábiles y, si el tiempo servido fuese menor, de los días que proporcionalmente correspondan, contando el tiempo por meses vencidos.
+
+Asimismo, los funcionarios tendrán derecho a un día hábil adicional al cumplir quince años de servicio, añadiéndose un día hábil más al cumplir los veinte, veinticinco y treinta años de servicio, respectivamente.
+
+Este derecho se hará efectivo a partir del año natural siguiente al del cumplimiento de los años de servicio señalados en el párrafo anterior.
+
+A los efectos previstos en el presente artículo, tampoco se considerarán como días hábiles los sábados, sin perjuicio de las adaptaciones que se establezcan en los horarios especiales.»
+
+Cuatro. Se añade una letra e) al apartado 3 del artículo 58, con el siguiente contenido:
+
+«e) El complemento de grado, destinado a retribuir el grado alcanzado en la carrera horizontal.»
+
+### CAPÍTULO II — Medidas administrativas en materia de Hacienda Pública
+
+#### Artículo 47. Modificación de la Ley 11/2013, de 21 de octubre, de Hacienda Pública de La Rioja.
+
+Uno. Se da nueva redacción a la letra i) del apartado 2 del artículo 118, que queda redactado en los siguientes términos:
+
+«i) Inspeccionar la actividad de las oficinas de contabilidad de las entidades del sector público de La Rioja sujetas a los principios contables públicos.»
+
+Dos. Se da nueva redacción al artículo 138, que queda redactado en los siguientes términos:
+
+«Artículo 138. Planes de auditorías públicas y de actuaciones de control financiero.
+
+1\. La Intervención General de la Comunidad Autónoma de La Rioja podrá elaborar un plan plurianual en el que se recojan auditorías y/o actuaciones de control financiero con el fin de planificar un escenario a medio plazo que contemple los periodos de programación de los fondos europeos, las actuaciones de auditoría pública que se realizan con anterioridad a la aprobación del plan anual y los contratos de auditoría con un plazo de vigencia de dos años o más.
+
+2\. La Intervención General de la Comunidad Autónoma de La Rioja elaborará anualmente un plan de auditorías y de actuaciones de control financiero en el que se incluirán las actuaciones a realizar durante el correspondiente ejercicio. Dicho plan anual incluirá las actuaciones correspondientes al control financiero permanente, al control financiero de las ayudas y subvenciones públicas y a la auditoría pública de la actividad económico-financiera del sector público.
+
+3\. La Intervención General de la Comunidad Autónoma de La Rioja podrá ajustar los planes plurianuales y modificar las auditorías y actuaciones de control previstas inicialmente en el plan anual cuando existan circunstancias que lo justifiquen.»
+
+Tres. Se modifica el apartado 3 del artículo 190, que queda redactado en los siguientes términos:
+
+«3. Infracciones muy graves:
+
+a) Las infracciones muy graves serán sancionadas con multa pecuniaria proporcional del doble al triple de la cantidad indebidamente obtenida, aplicada o no justificada o, en el caso de entidades colaboradoras, de los fondos indebidamente aplicados o justificados.
+
+No obstante, no se sancionarán las infracciones recogidas en los párrafos b) y d) del artículo 58 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, cuando los infractores hubieran reintegrado las cantidades y los correspondientes intereses de demora sin previo requerimiento.
+
+b) Cuando el importe del perjuicio económico correspondiente a la infracción muy grave exceda de 30.000 euros, concurriendo alguna de las circunstancias previstas en los párrafos b) y c) del apartado 1 del artículo anterior, los infractores podrán ser sancionados, además, con:
+
+1.º Pérdida, durante un plazo de hasta cinco años, de la posibilidad de obtener subvenciones, ayudas públicas y avales de la Administración u otros entes públicos.
+
+2.º Prohibición, durante un plazo de hasta cinco años, para celebrar contratos con la Administración u otros entes públicos.
+
+3.º Pérdida, durante un plazo de hasta cinco años, de la posibilidad de actuar como entidad colaboradora en relación con las subvenciones reguladas en esta ley.
+
+c) El órgano competente para imponer estas sanciones podrá acordar su publicidad en la Base de Datos Nacional de Subvenciones.»
+
+### CAPÍTULO III — Medidas administrativas en materia de procedimiento administrativo
+
+#### Artículo 48. Modificación de la Ley 4/2005, de 1 de Junio, de funcionamiento y régimen jurídico de la Administración de la Comunidad Autónoma de La Rioja.
+
+Se modifica el artículo 60, que queda redactado en los siguientes términos:
+
+«Artículo 60. Procedimiento aplicable.
+
+El procedimiento sancionador regulado en la presente Ley será aplicable a las infracciones tanto en materias de la competencia exclusiva de la Comunidad Autónoma de La Rioja como en las de desarrollo legislativo y ejecución de la legislación básica del Estado, sin perjuicio de los procedimientos específicos que puedan establecerse y de la aplicación supletoria de las normas estatales en materia de procedimiento común.»
+
+### CAPÍTULO IV — Medidas administrativas en materia de ordenación del territorio y urbanismo
+
+#### Artículo 49. Modificación de la Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja.
+
+Uno. Se da al artículo 87 la siguiente nueva redacción:
+
+«Artículo 87. Tramitación del Plan General Municipal.
+
+1\. Terminada la fase de elaboración del Plan General Municipal, el Ayuntamiento procederá a su aprobación inicial y lo someterá a información pública durante un mes, mediante anuncio en el ‘‘Boletín Oficial de La Rioja’’ y en un diario de difusión local.
+
+2\. Simultáneamente se dará traslado a los Ayuntamientos de los municipios colindantes para que puedan realizar alegaciones sobre la incidencia que el Plan General Municipal puede tener sobre sus respectivos términos municipales.
+
+Al mismo tiempo, en los supuestos de nueva redacción o de revisión, se remitirá el plan aprobado inicialmente a las Administraciones que pudieran resultar afectadas, para su informe, tanto a efectos sustantivos como ambientales, el cual deberá emitirse en el plazo de un mes salvo que la legislación sectorial establezca uno diferente. Transcurrido dicho plazo sin que se haya emitido el informe se entenderá cumplido el trámite.
+
+3\. El Ayuntamiento, en vista del resultado de la información, aprobará el Plan General Municipal provisionalmente con las modificaciones que procedieran. Si dichas modificaciones significaran un cambio sustancial del plan inicialmente aprobado, se abrirá un nuevo periodo de información pública por veinte días, antes de otorgar la aprobación provisional.
+
+4\. Aprobado provisionalmente, se remitirá el expediente completo a la Consejería competente en materia de urbanismo para su aprobación definitiva por el órgano competente, o para informe previo a la aprobación definitiva en el caso del Ayuntamiento de Logroño.
+
+5\. Cuando el plan afecte a varios municipios, será la Comisión de Ordenación del Territorio y Urbanismo la encargada de la aprobación inicial y provisional.»
+
+Dos. El artículo 88 queda redactado en los siguientes términos:
+
+«Artículo 88. Aprobación definitiva del Plan General Municipal.
+
+1\. Competencias para la aprobación definitiva de los planes generales municipales:
+
+a) La aprobación definitiva del Plan General Municipal de Logroño corresponderá al Ayuntamiento de Logroño, previo informe de la Comisión de Ordenación del Territorio y Urbanismo.
+
+b) La aprobación definitiva del Plan General Municipal del resto de municipios mayores de 25.000 habitantes o de un plan conjunto de varios municipios corresponderá al Consejero competente en materia de urbanismo, previo informe de la Comisión de Ordenación del Territorio y Urbanismo de La Rioja.
+
+c) La aprobación definitiva del Plan General Municipal del resto de municipios corresponderá a la Comisión de Ordenación del Territorio y Urbanismo de La Rioja.
+
+2\. El órgano que deba resolver sobre la aprobación definitiva examinará el expediente y, en particular, el proyecto del Plan General Municipal en todos sus aspectos.
+
+Si los Ayuntamientos colindantes discrepasen de la ordenación establecida en el Plan General Municipal, el órgano competente para la aprobación definitiva decidirá con respeto del principio de autonomía municipal y dentro del marco señalado en el párrafo siguiente.
+
+3\. Solo podrá suspenderse o denegarse, motivadamente, la aprobación definitiva del Plan General Municipal por incumplimiento de la legislación urbanística, de sus exigencias documentales y formales, por contradecir la legislación sectorial, así como por su inadecuación a los instrumentos de ordenación del territorio o a las políticas de carácter supramunicipal en materia de vivienda, protección del medio ambiente y de la salud pública, infraestructuras, patrimonio cultural o cualesquiera otras en las que haya asumido competencia la Comunidad Autónoma de La Rioja, con el fin de garantizar el adecuado respeto a los principios de equilibrio territorial y de interdicción de la arbitrariedad de los poderes públicos.
+
+4\. Cuando la competencia para la aprobación definitiva corresponda a la Comisión de Ordenación del Territorio y Urbanismo o al titular de la Consejería competente en materia de urbanismo, se entenderá producida la aprobación definitiva por el transcurso de tres meses desde la entrada del expediente completo en el registro del órgano competente para aprobarla, sin que se hubiera comunicado la resolución. En tal caso, la aprobación se acreditará en los términos establecidos por la legislación del procedimiento administrativo común.
+
+Cuando la competencia para la aprobación definitiva corresponda al Ayuntamiento de Logroño, la Comisión de Ordenación del Territorio y Urbanismo dispondrá de tres meses para emitir el informe previo, a contar desde la entrada del expediente completo en el registro de la Consejería competente en materia de urbanismo.»
+
+Tres. Se modifica el artículo 90, que queda redactado así:
+
+«Artículo 90. Tramitación de planes parciales y planes especiales que desarrollen planeamiento urbanístico y modificaciones de plan general de determinaciones de desarrollo.
+
+1\. La tramitación de planes parciales y especiales que desarrollen determinaciones del planeamiento municipal y de modificaciones de plan general de determinaciones de desarrollo se sujetará a las siguientes reglas:
+
+a) La aprobación inicial se otorgará por el Ayuntamiento que lo hubiera formulado, sometiéndolo a continuación a información pública, como mínimo, durante un mes, mediante anuncio en el ‘‘Boletín Oficial de La Rioja’’ y, al menos, en un diario de difusión local.
+
+Si hubiese algún municipio colindante con el ámbito afectado, se comunicará el acuerdo al Ayuntamiento correspondiente.
+
+El plazo para acordar o denegar la aprobación inicial, en los supuestos de planes de iniciativa particular, será de dos meses desde la presentación de la documentación completa en el Registro municipal.
+
+b) A la vista del resultado de la información pública, el Ayuntamiento lo aprobará provisionalmente, con las modificaciones que procediesen. Si dichas modificaciones significaran un cambio sustancial del plan inicialmente aprobado, se abrirá un nuevo periodo de información pública por veinte días, antes de otorgar la aprobación provisional.
+
+El plazo para acordar sobre la aprobación provisional de los planes de iniciativa pública o privada no podrá exceder de seis meses desde la aprobación inicial.
+
+c) Una vez otorgada la aprobación provisional, la aprobación definitiva corresponderá:
+
+1.º En los municipios que alcancen la población de 5.000 habitantes, al Ayuntamiento, previo informe de la Comisión de Ordenación del Territorio y Urbanismo.
+
+2.º En el resto de municipios, a la Comisión de Ordenación del Territorio y Urbanismo de La Rioja.
+
+2\. El informe de la Comisión de Ordenación del Territorio y Urbanismo se comunicará al Ayuntamiento en el plazo máximo de dos meses. El informe se entenderá favorable si no se produce en el plazo señalado, contado desde la recepción del expediente completo.
+
+3\. El plazo para la aprobación definitiva será de tres meses desde la entrada del expediente completo en el Registro del órgano competente para su otorgamiento, transcurrido el cual se entenderá producida por silencio.
+
+Cuando la aprobación definitiva corresponda al Ayuntamiento, el plazo de tres meses se contará desde el acuerdo de aprobación provisional.»
+
+Cuatro. Se modifica el apartado 5 de la disposición transitoria primera, que queda redactado en los siguientes términos:
+
+«5. Transcurridos los plazos a que se refieren los párrafos 1 y 2 de esta disposición transitoria, la Comisión de Ordenación del Territorio y Urbanismo no podrá aprobar definitivamente modificaciones puntuales de instrumentos de planeamiento no adaptados que persigan un cambio en la clasificación de suelo o un cambio de ordenación que suponga incremento de la densidad de población, a excepción de la delimitación, en suelo clasificado como urbano, de ámbitos de actuación que impliquen la necesidad de alterar la ordenación urbanística vigente, siempre y cuando cumplan con las reglas específicas previstas para ellos en el artículo 24 del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana.»
+
+### CAPÍTULO V — Medidas administrativas en materia de saneamiento del sector público empresarial
+
+#### Artículo 50. Modificación de la Ley 3/2003, de 3 de marzo, de Organización del Sector Público de la Comunidad Autónoma de La Rioja.
+
+Se crea un nuevo artículo 50 bis con la siguiente redacción:
+
+«Artículo 50 bis. Aportaciones dinerarias.
+
+Las aportaciones dinerarias que se realicen con la finalidad de fortalecer o sanear el sector público empresarial requerirán con carácter previo a su acuerdo por la consejería interesada informes de las consejerías con competencias en materia de Patrimonio y de Control Presupuestario. Estas aportaciones deberán de comunicarse para su registro en la contabilidad patrimonial de la Comunidad Autónoma y en el Inventario General de Bienes y Derechos de la misma.»
+
+### CAPÍTULO VI — Medidas administrativas en materia de farmacia
+
+#### Artículo 51. Modificación de la Ley 8/1998, de 16 de junio, de Ordenación Farmacéutica de la Comunidad Autónoma de La Rioja.
+
+La Ley 8/1998, de 16 de junio, de Ordenación Farmacéutica de la Comunidad Autónoma de La Rioja, queda modificada como sigue:
+
+Uno. El artículo 24 queda redactado en los siguientes términos:
+
+«Artículo 24. Infracciones.
+
+1\. Las infracciones en materia de ordenación farmacéutica contempladas en la presente ley serán objeto de las sanciones administrativas correspondientes, previa instrucción del oportuno expediente, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir. La competencia para imponer sanciones en materia de ordenación farmacéutica corresponde a la Consejería competente en materia de salud.
+
+2\. Cuando el instructor aprecie que las infracciones pueden ser constitutivas de delito, lo pondrá en conocimiento de la autoridad judicial competente. El expediente administrativo quedará paralizado hasta que se dicte resolución judicial firme.
+
+3\. Las infracciones se calificarán como leves, graves y muy graves atendiendo a los criterios de riesgo para la salud, valoración del beneficio obtenido, grado de intencionalidad, gravedad de la alteración sanitaria y social producida, generalización de la infracción y reincidencia. Existe reincidencia cuando en el momento de la comisión de la infracción el culpable hubiera sido sancionado por resolución firme en vía administrativa por la comisión de otra infracción de la misma naturaleza.
+
+4\. Se tipifican como infracciones leves las siguientes:
+
+a) La irregularidad en la aportación a la administración sanitaria de la información que de acuerdo a la normativa vigente sea obligatorio facilitar.
+
+b) La negativa a suministrar datos o a facilitar la información solicitada por la autoridad sanitaria.
+
+c) El incumplimiento de los requerimientos que formule la autoridad sanitaria, cuando se produzcan por primera vez.
+
+d) Los incumplimientos horarios que no causen perjuicio al servicio.
+
+e) La falta de comunicación previa por las oficinas de farmacia a la Consejería competente en materia de salud de la modificación de horario o designación de farmacéutico sustituto.
+
+f) Las irregularidades en el cumplimiento de las funciones profesionales y de cualquier otro aspecto de la normativa vigente que se cometan por simple negligencia, cuando la alteración y el riesgo sanitario causados sean de escasa entidad y no tengan trascendencia directa para la población.
+
+g) El incumplimiento de los requisitos, funciones, condiciones, obligaciones o prohibiciones que tienen encomendados los establecimientos y servicios farmacéuticos de acuerdo con lo previsto en la presente ley y demás normativa vigente, cuando, en aplicación de los criterios contemplados en el apartado 4, deba calificarse como infracción leve y no haya sido calificado como infracción grave o muy grave.
+
+h) Cualquier actuación que tenga la calificación de infracción leve en la normativa específica aplicable a cada caso.
+
+5\. Se tipifican como infracciones graves las siguientes:
+
+a) Dificultar la actuación de inspección y control mediante cualquier acción u omisión.
+
+b) La falta de respeto y consideración a los inspectores en el ejercicio de su función.
+
+c) El incumplimiento reiterado de los requerimientos que formulen la autoridad sanitaria o sus agentes.
+
+d) El funcionamiento de los servicios farmacéuticos y de las oficinas de farmacia sin la presencia y actuación profesional del farmacéutico responsable.
+
+e) El funcionamiento de los establecimientos y servicios regulados en la presente ley sin la preceptiva autorización.
+
+f) La ausencia de servicios de farmacia o depósitos de medicamentos en los centros hospitalarios, sociosanitarios o penitenciarios.
+
+g) El incumplimiento de las funciones que, de acuerdo con la normativa vigente, tienen encargados los diferentes centros de atención farmacéutica.
+
+h) El no disponer de los recursos humanos y de los medios técnicos que, de acuerdo con la presente ley y disposiciones que la desarrollen, sean necesarios para realizar las funciones propias del respectivo servicio.
+
+i) El incumplimiento de los servicios de urgencia.
+
+j) El incumplimiento del régimen de incompatibilidades dispuesto en la presente ley.
+
+k) El incumplimiento horario, siempre que suponga alteración en el servicio o su desatención.
+
+l) La reincidencia en la comisión de infracciones leves en el último año. El plazo comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución.
+
+m) El incumplimiento de los requisitos, funciones, condiciones, obligaciones o prohibiciones que tienen encomendados los establecimientos y servicios farmacéuticos de acuerdo con lo previsto en la presente ley y demás normativa vigente, cuando, en aplicación de los criterios contemplados en el apartado 4, deba calificarse como infracción grave y no haya sido calificado como infracción muy grave.
+
+n) Cualquier actuación que tenga la calificación de infracción grave en la normativa específica aplicable en cada supuesto.
+
+6\. Se tipifican como infracciones muy graves las siguientes:
+
+a) Impedir la actuación de los inspectores, debidamente acreditados, en los centros en los que se elaboren, fabriquen, distribuyan y dispensen medicamentos.
+
+b) Cualquier infracción que tenga la calificación de infracción muy grave en la normativa específica aplicable a cada caso.
+
+c) La reincidencia en la comisión de infracciones graves en el último año. El plazo comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución.
+
+d) El incumplimiento de los requisitos, funciones, condiciones, obligaciones o prohibiciones que tienen encomendados los establecimientos y servicios farmacéuticos de acuerdo con lo previsto en la presente ley y demás normativa vigente, cuando, en aplicación de los criterios contemplados en el apartado 4, deba calificarse como infracción muy grave.»
+
+Dos. El artículo 24 bis queda redactado en los siguientes términos:
+
+«Artículo 24 bis. Inspección.
+
+1\. Corresponde a la Consejería competente en materia de salud la realización de las inspecciones necesarias para garantizar el cumplimiento de lo previsto en la presente ley.
+
+2\. El personal al servicio de la Consejería competente en materia de salud que desarrolle las funciones de inspección tendrá la condición de inspector y la consideración de autoridad sanitaria y, cuando ejerza tales funciones previa acreditación de su identidad, podrá:
+
+a) Entrar libremente, sin previa notificación y en cualquier momento, en todo centro, servicio o establecimiento regulado por la presente ley.
+
+b) Practicar las pruebas, investigaciones o exámenes necesarios para comprobar el cumplimiento de la presente ley y normativa farmacéutica.
+
+c) Tomar muestras para la comprobación del cumplimiento de lo previsto en la presente ley y normativa farmacéutica.
+
+d) Realizar cuantas actividades sean precisas en orden al cumplimiento de las funciones de inspección que desarrollen.
+
+3\. El inspector actuante, al finalizar la visita de inspección, levantará acta con el resultado de la misma, que será firmada por el inspector así como por la persona que actúe en representación del establecimiento o servicio inspeccionado. Si este último no la firmase, se le advertirá de su obligación y de que puede hacerlo a los únicos efectos de la recepción del documento, lo cual se hará constar.»
+
+Tres. El artículo 25 queda redactado en los siguientes términos:
+
+«Artículo 25. Sanciones.
+
+1\. Las infracciones señaladas en la presente ley serán sancionadas conforme a lo establecido en el artículo 24, aplicando una graduación mínima, media y máxima a cada nivel de infracción en función de:
+
+a) La negligencia, el grado de culpabilidad o existencia de intencionalidad del sujeto infractor.
+
+b) El fraude, el grado de connivencia, el incumplimiento de advertencias previas, la continuidad en la conducta infractora o su persistencia.
+
+c) El perjuicio causado o el número de personas afectadas.
+
+d) Los beneficios obtenidos con la infracción, la cifra de negocio de la empresa, la duración de los riesgos, o el tipo de establecimiento o servicio sanitario implicado.
+
+e) La reincidencia por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa.
+
+Las sanciones pecuniarias son las siguientes:
+
+a) Infracciones leves:
+
+Grado mínimo: Hasta 6.000 euros.
+
+Grado medio: De 6.001 a 18.000 euros.
+
+Grado máximo: De 18.001 a 30.000 euros.
+
+b) Infracciones graves:
+
+Grado mínimo: De 30.001 a 60.000 euros.
+
+Grado medio: De 60.001 a 78.000 euros.
+
+Grado máximo: De 78.001 a 90.000 euros.
+
+c) Infracciones muy graves:
+
+Grado mínimo: De 90.001 a 300.000 euros.
+
+Grado medio: De 300.001 a 600.000 euros.
+
+Grado máximo: Desde 600.001 a 1.000.000 euros, pudiendo sobrepasar esta cantidad hasta alcanzar cinco veces el valor de los productos o los servicios objeto de la infracción.
+
+El Gobierno de La Rioja podrá acordar, además, la revocación de la autorización administrativa de apertura y funcionamiento del establecimiento o servicio farmacéutico ante la existencia de una infracción muy grave, previa tramitación del correspondiente expediente administrativo con audiencia del interesado, en especial cuando el titular de la oficina de farmacia fuera condenado por sentencia firme por la comisión de un delito en el ejercicio de su profesión.
+
+2\. Será órgano competente para imponer las sanciones correspondientes a las infracciones en materia de ordenación farmacéutica:
+
+a) El titular de la Dirección General competente en ordenación farmacéutica y productos farmacéuticos, hasta 30.000 euros.
+
+b) El titular de la Consejería competente en materia de salud, desde la cuantía de 30.001 hasta 300.000 euros.
+
+c) El Consejo de Gobierno de La Rioja, desde 300.001 euros.
+
+3\. Las infracciones a las que se refiere la presente ley calificadas como leves prescribirán al año, las calificadas como graves a los dos años y las calificadas como muy graves a los cinco años.
+
+El plazo de prescripción de la infracción empieza a contar desde el día en que se comete la infracción y se interrumpe con la iniciación, con el conocimiento del interesado, del procedimiento sancionador, reanudándose si el expediente estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+
+4\. Las sanciones impuestas prescribirán en los mismos plazos que las infracciones.
+
+El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla y se interrumpe con la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquel está paralizado durante más de un mes por causa no imputable al infractor.»
+
+Cuatro. Se incluye una nueva disposición adicional sexta:
+
+«Sexta. Corresponde a la Consejería competente en salud imponer las sanciones en materia de medicamentos y productos sanitarios, cosméticos y de cuidado personal tipificadas en el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado mediante Real Decreto Legislativo 1/2015, de 24 de julio.
+
+Son competentes para imponer las sanciones correspondientes a las infracciones en materia de medicamentos y productos sanitarios, cosméticos y de cuidado personal:
+
+a) El titular de la Dirección General competente en ordenación farmacéutica y productos farmacéuticos, hasta 30.000,00 euros.
+
+b) El titular de la Consejería competente en materia de salud desde la cuantía de 30.001,00 euros hasta 300.000,00 euros.
+
+c) El Consejo de Gobierno de La Rioja, desde 300.001,00 euros.»
+
+### CAPÍTULO VII — Acción administrativa en materia de fundaciones
+
+#### Artículo 52. Modificación de la Ley 1/2007, de 12 de febrero, de Fundaciones de la Comunidad Autónoma de La Rioja.
+
+Uno. Se da nueva redacción al apartado 1 del artículo 27, que queda redactado como sigue:
+
+«1. El patronato podrá acordar la enajenación, onerosa o gratuita, y gravamen de los bienes y derechos que constituyen el patrimonio de la fundación, cuando resulte conveniente para los intereses de la misma.»
+
+Dos. Se modifica la redacción del apartado 4 del artículo 40, que queda redactado como sigue:
+
+«4. El haber que resulte de la liquidación se adjudicará a las fundaciones o entidades privadas o públicas no lucrativas que haya designado el fundador o determine el patronato si el fundador le otorgó dicha facultad. A falta de estipulación alguna por parte del fundador o cuando las entidades designadas no reúnan los requisitos exigidos, la decisión corresponderá al Protectorado, previa petición de informe al patronato.
+
+Las fundaciones o entidades no lucrativas mencionadas en el párrafo anterior deberán tener afectados con carácter permanente sus bienes, derechos y recursos al cumplimiento de fines de interés general, incluso para el supuesto de su extinción o disolución».
+
+Tres. El apartado 5 del artículo 40 queda sin contenido.
+
+### CAPÍTULO VIII — Acción administrativa en materia de patrimonio histórico
+
+#### Artículo 53. Modificación de la Ley 7/2004, de 18 de octubre, de Patrimonio Cultural, Histórico y Artístico de La Rioja.
+
+El apartado 5 del artículo 25 queda redactado en los siguientes términos:
+
+«5. En el supuesto de inmuebles, las Entidades Locales y la Consejería competente en materia de Cultura podrán también ordenar, por motivos de interés cultural, la ejecución de obras de conservación y de reforma en el interior de edificios, a fin de conservar los valores tipológicos, estructurales, constructivos y ornamentales de los mismos, así como en sus fachadas o espacios visibles desde la vía pública, sin que estén previamente incluidos en planeamiento urbanístico alguno. Las obras se ejecutarán con cargo a los propietarios si se contuvieren en el límite del deber de conservación que les corresponde. Cuando las obras a ejecutar excedieran los límites del deber de conservación y no haya existido un incumplimiento por parte de los obligados a realizarlas, los titulares de los bienes culturales podrán solicitar la colaboración de los poderes públicos con esa finalidad. Las Administraciones Públicas, en el marco de sus competencias y de sus disponibilidades presupuestarias, cooperarán con los titulares de bienes culturales, históricos y artísticos con ese objetivo.
+
+Igualmente, podrán realizar de modo directo las obras u otras intervenciones necesarias si así lo requiriera la más eficaz conservación de los bienes integrantes del patrimonio cultural, histórico y artístico de La Rioja.»
+
+### CAPÍTULO IX — Medidas administrativas en materia de adopción internacional
+
+#### Artículo 54. Modificación de la Ley 1/2006, de 28 de febrero, de Protección de Menores de La Rioja.
+
+El apartado 2 del artículo 95 queda redactado en los siguientes términos:
+
+«2. Las personas que se ofrecen para la adopción internacional no podrán tramitar su expediente en dos países simultáneamente.
+
+No obstante lo anterior, iniciada la tramitación de un expediente de adopción internacional en un país, se podrá autorizar excepcionalmente la tramitación en un segundo país cuando concurra alguna de las siguientes circunstancias:
+
+a) Que una vez registrado el expediente en el país de primera elección, por circunstancias sobrevenidas, se produjera la paralización total de los procedimientos en dicho país, por tiempo indefinido.
+
+b) Que hayan transcurrido 4 años desde el registro del expediente en el país de primera elección sin que se haya constituido una adopción, salvo que tal circunstancia se haya producido por no aceptación de una preasignación sin causa justificada.
+
+La tramitación de un segundo expediente vendrá condicionada por:
+
+a) La entidad pública comunicará la circunstancia del doble expediente a los dos países afectados, a través de los organismos acreditados o de las entidades públicas, en su caso.
+
+b) En el momento en que se produzca una asignación en uno de los países, la entidad pública cancelará de oficio la tramitación en el otro país.
+
+c) En el momento en que se produzca la reapertura de procedimientos en el país de primera elección, los interesados están obligados a optar por uno de los dos expedientes abiertos y desistir del otro. En caso de no mediar desistimiento en un plazo de un mes desde la comunicación de la reapertura, la entidad pública cancelará de oficio la tramitación en el segundo país elegido.
+
+La autorización para la tramitación del expediente en un segundo país se realizará por Resolución del titular de la Consejería competente en materia de protección de menores, a propuesta de la Comisión de adopción, acogimiento y tutela.»
+
+### CAPÍTULO X — Medidas administrativas en materia de juego
+
+#### Artículo 55. Modificación de la Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas.
+
+Uno. El apartado b) del artículo 6 queda redactado del siguiente modo:
+
+«b) La falta de funcionamiento de los establecimientos de juego durante un tiempo superior a la mitad del periodo anual de apertura autorizada durante el mismo, salvo que su reglamentación determinase un periodo distinto.»
+
+Dos. El contenido del artículo 8 queda redactado como sigue:
+
+«1. Toda forma de publicidad que incite o estimule la práctica del juego estará sometida a autorización administrativa previa, sin perjuicio del régimen de publicidad que se desarrolle reglamentariamente.
+
+2\. Se considerará libre la publicidad indirecta, así como la realizada en los propios locales y en los medios de comunicación especializados en el sector del juego.
+
+3\. Toda actividad publicitaria o promocional de juego hará constar con claridad y de forma legible, mediante textos o imágenes, según el soporte utilizado, que el juego queda prohibido a los menores de edad y que su práctica abusiva puede generar adicción.»
+
+Tres. Se añade un nuevo artículo 8 bis, con la siguiente redacción:
+
+«Artículo 8 bis. Medidas informativas y preventivas.
+
+1\. La Administración de la Comunidad Autónoma de La Rioja promoverá políticas de juego responsable, entendidas como aquellas en las que el juego, desde una perspectiva integral de responsabilidad social, se contemple como un fenómeno complejo, en el que deben combinarse acciones preventivas, de sensibilización, intervención, control y reparación de los efectos negativos que se puedan derivar del mismo.
+
+Las acciones preventivas se dirigirán a garantizar que la actividad de la persona jugadora se realice sin menoscabo de su voluntad y libre determinación, dentro de parámetros saludables, evitando la participación desordenada en los juegos de azar y los efectos nocivos que de esta pudieran provocarse.
+
+2\. Los organizadores de juego, en el ejercicio de su actividad, prestarán especial atención a los grupos de riesgo, promoviendo actitudes de juego moderado y responsable a través de medidas informativas adecuadas, en las que se especificará la prohibición de participar a los menores de edad o a las personas incluidas en el registro de interdicción de acceso al juego.»
+
+Cuatro. Los apartados 1 y 2 del artículo 12 quedan redactados como sigue:
+
+«1. Los juegos y apuestas permitidos solo podrán practicarse en los establecimientos de juego siguientes:
+
+a) Casinos de juego.
+
+b) Salas de bingo.
+
+c) Salones de juego.
+
+d) Tiendas y espacios para la celebración de apuestas que expresamente se especifiquen en vía reglamentaria.
+
+e) Locales, recintos o espacios para la celebración de rifas o tómbolas y juego de boletos y loterías, en las condiciones que reglamentariamente se establezcan.
+
+2\. Igualmente, podrá autorizarse la explotación de máquinas de juego y de apuestas en los establecimientos de hostelería de acuerdo con lo previsto en el artículo 18 de la presente Ley.»
+
+Cinco. El contenido del artículo 18 queda redactado en los siguientes términos:
+
+«1. La instalación de máquinas de juego y de apuestas en establecimientos de hostelería requerirá la previa obtención de la autorización de instalación en los términos, condiciones y límites que reglamentariamente se determinen, que, en todo caso, incluirán un máximo de dos máquinas de tipo ‘B’ y una máquina auxiliar de apuestas.
+
+2\. La autorización de instalación habilitará la instalación de máquinas al titular de un establecimiento de hostelería por una única empresa operadora de máquinas de juego o, en caso de máquinas de apuestas, por una empresa de apuestas, que comportarán su inscripción en el Registro General del Juego de La Rioja.
+
+3\. La solicitud deberá ser suscrita por el titular del establecimiento e incluirá la legitimación tanto de su firma como de la empresa operadora o, en su caso, de apuestas, en presencia de fedatario público.
+
+No obstante, no se admitirá una solicitud de autorización de instalación en caso de que concurra alguna de las siguientes causas:
+
+a) Que no se haya extinguido la anterior por alguna de las causas previstas legal y reglamentariamente.
+
+b) Que el solicitante y la empresa operadora o de apuestas tengan responsabilidades administrativas y tributarias en materia juego.
+
+c) Que haya transcurrido un periodo superior a tres meses desde la fecha del testimonio notarial.
+
+4\. La autorización de instalación, que se extenderá por triplicado, contendrá al menos el nombre o razón social, el número de identificación fiscal, el número de inscripción del titular del establecimiento y el de la empresa operadora o de apuestas en el Registro General del Juego de La Rioja, el nombre comercial y domicilio del establecimiento, así como la fecha y vigencia de la autorización.
+
+5\. La autorización de instalación tendrá una vigencia máxima de cinco años desde la fecha de su concesión, salvo que se origine la pérdida de validez por las causas que legal o reglamentariamente se determinen, y podrá ser renovada por periodos sucesivos iguales, siempre que se cumplan los requisitos exigidos en el momento de su solicitud, conforme al procedimiento previsto reglamentariamente.
+
+6\. Los cambios de titularidad del establecimiento o de las máquinas que se produzcan durante la vigencia de la autorización de instalación no serán causa de extinción, quedando el nuevo titular subrogado en los derechos y obligaciones contraídas por el anterior.
+
+En este caso, la autorización de instalación se expedirá con los datos del nuevo titular, conservándose el periodo de finalización anterior.
+
+7\. La autorización de instalación se extinguirá automáticamente en los casos siguientes:
+
+a) Por la finalización del periodo de vigencia.
+
+b) Por mutuo acuerdo del titular y de la empresa operadora o de apuestas.
+
+c) Por renuncia expresa de su titular, que comportará la inhabilitación por el periodo que resta de vigencia.
+
+d) Por la muerte o incapacidad sobrevenida del titular, salvo transmisión ‘‘inter vivos’’ o ‘‘mortis causa’’.
+
+e) Por el cese de la actividad económica en el censo empresarial tributario durante un periodo ininterrumpido de un año o superior.
+
+f) Por revocación de la autorización.
+
+g) Por otros casos que pudiera determinar su reglamentación específica.
+
+8\. El órgano administrativo competente podrá acordar, previa audiencia de los interesados durante un plazo de quince días, la revocación de las autorizaciones de instalación, y deberá cesar en consecuencia la instalación de máquinas, por las siguientes causas:
+
+a) Por la falta comprobada o acreditada de instalación de máquinas durante un periodo superior a seis meses. En el caso de cambio de titularidad, dicho plazo se computará a partir de la expedición de la nueva autorización de instalación que prevé el apartado 6.
+
+b) Por la comprobación de falsedades o inexactitudes esenciales en alguno de los datos expresados en la solicitud, transmisión o modificación en la documentación aportada.
+
+c) Por la pérdida sobrevenida de alguno de los requisitos establecidos para su obtención.
+
+d) Por cancelación de la inscripción del Registro General del Juego de la empresa operadora.
+
+e) Por sanción firme en vía administrativa en materia de juego.
+
+f) Por sentencia judicial firme que declare la extinción de la autorización de instalación.
+
+g) Por impago total o parcial de los tributos específicos sobre el juego en periodo voluntario.
+
+h) Por otros casos que pudiera determinar su reglamentación específica.»
+
+Seis. El contenido del artículo 23 queda redactado como sigue:
+
+«Podrán ser titulares de la autorización para la explotación de casinos y salas de bingo las empresas constituidas como sociedades anónimas, siempre que tengan como objeto social la explotación de dichas autorizaciones y, en su caso, de los servicios complementarios y otros juegos que pudieran autorizarse. Su capital deberá estar suscrito y desembolsado totalmente en la cuantía y forma que se fije reglamentariamente, dividido en acciones o participaciones nominativas y contar con un órgano de administración colegiado con tres o más administradores.»
+
+Siete. El apartado 1 del artículo 40 queda redactado del siguiente modo:
+
+«1. El procedimiento sancionador aplicable a las infracciones establecidas en la presente Ley será el regulado en el Capítulo V del Título III de la Ley 4/2005, de 1 de junio, de Funcionamiento y Régimen Jurídico de la Administración de la Comunidad Autónoma de La Rioja.»
+
+Ocho. Se da la siguiente redacción al contenido del artículo 44:
+
+«La recaudación obtenida por los ingresos provenientes de las multas y sanciones previstas en la Ley se destinará, preferentemente, a la financiación de los programas de prevención y rehabilitación de ludópatas, a las asociaciones que tengan esta finalidad y a programas sociales, educativos y de salud pública de carácter general.»
+
+### CAPÍTULO XI — Medidas administrativas en materia de infraestructuras agrarias
+
+#### Artículo 56. Modificación de la Ley 7/2014, de 23 de diciembre, de Medidas Fiscales y Administrativas para el año 2015.
+
+Se modifica el apartado 1 del artículo 51, que queda redactado en los siguientes términos:
+
+«1. La Comunidad Autónoma de La Rioja podrá asumir compromisos de gasto con cargo a sus créditos de inversiones para la realización de obras declaradas de interés regional sobre infraestructuras agrarias municipales de uso general, según el procedimiento que se indica en los apartados siguientes.
+
+Cuando dichas obras sobre infraestructuras agrarias municipales de uso general afecten a infraestructuras viarias municipales que mejoren la funcionalidad de las carreteras o que supongan el acceso a los núcleos de población, no se requerirá la declaración de interés regional en materia de infraestructuras agrarias. En estos supuestos, el Pleno del Ayuntamiento afectado remitirá un acuerdo cediendo la disponibilidad del terreno al órgano encargado de la ejecución de las obras.»
+
+#### Disposición transitoria primera. Retroactividad del apartado 4 del artículo 6 de la presente ley.
+
+1\. La medida prevista en el apartado 4 del artículo 6 de la presente ley será de aplicación, con carácter retroactivo, a las viviendas que se hayan beneficiado de la reducción por adquisición de la vivienda habitual del causante prevista en la letra c) del apartado 2 del artículo 20 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+
+2\. Por tanto, las viviendas habituales adquiridas «mortis causa» con anterioridad al día 1 de enero de 2012 y a las que se les aplicó la reducción mencionada en el párrafo anterior pueden ser ya transmitidas sin abonar la parte del impuesto que se dejó de ingresar como consecuencia de la reducción practicada.
+
+3\. Las viviendas habituales adquiridas «mortis causa» con posterioridad al día 1 de enero de 2012 y a las que se aplicó la reducción mencionada en el apartado 1 de este artículo podrán ser transmitidas sin pagar la parte del impuesto que se dejó de ingresar como consecuencia de la reducción practicada a partir del día en que se cumplan cinco años desde la adquisición.
+
+#### Disposición transitoria segunda. Efectos retroactivos.
+
+Los artículos 1 a 3 de la presente ley tendrán efectos desde el 1 de enero de 2017.
+
+La modificación del artículo 50.1.a) de la Ley 3/1990, de 29 de junio, de Función Pública de la Administración Pública de la Comunidad Autónoma de La Rioja, efectuada en el artículo 46 de la presente ley, tendrá efectos desde el 1 de enero de 2016.
+
+#### Disposición derogatoria única. Derogación de otras disposiciones legales.
+
+Quedan derogados los artículos 1 a 44 de la Ley 6/2015, de 29 de diciembre, de Medidas Fiscales y Administrativas para el año 2016, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+
+Queda derogado el artículo 53 de la Ley 7/2014, de 23 de diciembre, de Medidas Fiscales y Administrativas para el año 2015, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+
+#### Disposición final única. Entrada en vigor.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de La Rioja», sin perjuicio de lo dispuesto en la disposición transitoria segunda.
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+
+Logroño, 31 de marzo de 2017.
+
+El Presidente,
+
+José Ignacio Ceniceros González.

@@ -48,251 +48,251 @@ e) Todos aquellos trabajos que resulten inadecuados para la salud de estos traba
 
 f) El trabajo de transportar, empujar o arrastrar cargas que representen un esfuerzo superior al necesario para mover en rasante de nivel los pesos (incluido el de vehículo) que se citan a continuación y en las condiciones que se expresan:
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Modo de transporte</p>
+<p>Modo de transporte</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sexo y edad</p>
+<p>Sexo y edad</p>
 </td>
 <td>
-<p class="cabeza_tabla">Peso máximo permitido – Kg.</p>
+<p>Peso máximo permitido – Kg.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Transporte a brazo</p>
+<p>Transporte a brazo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Varones hasta 16 años</p>
+<p>Varones hasta 16 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres hasta 18 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8</p>
+<p>15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Varones de 16 a 18 años</p>
+<p>Mujeres hasta 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres de 18 a 21 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
+<p>8</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres de 21 años o más</p>
+<p>Varones de 16 a 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 18 a 21 años</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 21 años o más</p>
+</td>
+<td>
+<p>20</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Vagonetas en vías férreas</p>
+<p>Vagonetas en vías férreas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Varones hasta 16 años</p>
+<p>Varones hasta 16 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres hasta 18 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200</p>
+<p>300</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Varones de 16 a 18 años</p>
+<p>Mujeres hasta 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres de 18 a 21 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">400</p>
+<p>200</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres de 21 años o más</p>
+<p>Varones de 16 a 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">600</p>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 18 a 21 años</p>
+</td>
+<td>
+<p>400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 21 años o más</p>
+</td>
+<td>
+<p>600</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Carretillas</p>
+<p>Carretillas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Varones hasta 18 años</p>
+<p>Varones hasta 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres hasta 21 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Trabajo prohibido</p>
+<p>40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres de 21 años o más</p>
+<p>Mujeres hasta 21 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40</p>
+<p>Trabajo prohibido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 21 años o más</p>
+</td>
+<td>
+<p>40</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Triciclos porteadores</p>
+<p>Triciclos porteadores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Varones hasta 16 años</p>
+<p>Varones hasta 16 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Varones de 16 a 18 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75</p>
+<p>50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres cualquier edad</p>
+<p>Varones de 16 a 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Trabajo prohibido</p>
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres cualquier edad</p>
+</td>
+<td>
+<p>Trabajo prohibido</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Carretones de mano de dos ruedas</p>
+<p>Carretones de mano de dos ruedas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Varones hasta 18 años</p>
+<p>Varones hasta 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres hasta 21 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Trabajo prohibido</p>
+<p>130</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres de 21 años o más</p>
+<p>Mujeres hasta 21 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130</p>
+<p>Trabajo prohibido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 21 años o más</p>
+</td>
+<td>
+<p>130</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Vehículos de tres o cuatro ruedas (carretones, cangrejos, etcétera)</p>
+<p>Vehículos de tres o cuatro ruedas (carretones, cangrejos, etcétera)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Varones hasta 16 años</p>
+<p>Varones hasta 16 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres hasta 18 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">35</p>
+<p>50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Varones de 16 a 18 años</p>
+<p>Mujeres hasta 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mujeres de 18 a 21 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50</p>
+<p>35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mujeres de 21 años o más</p>
+<p>Varones de 16 a 18 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60</p>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 18 a 21 años</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mujeres de 21 años o más</p>
+</td>
+<td>
+<p>60</p>
 </td>
 </tr>
 </table>
@@ -337,26 +337,21 @@ FERMÍN SANZ ORRIO
 
 ## RELACIÓN PRIMERA — Que comprende las actividades e industrias prohibidas a las mujeres cualquiera que sea su edad (artículo 1)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A) Actividad prohibida</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B) Motivo de la prohibición</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C) En su caso, las condiciones particulares de la prohibición</strong>
 </p>
 </td>
@@ -364,643 +359,638 @@ FERMÍN SANZ ORRIO
 <tr>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq">Cuando no figura mención alguna en la columna C, se entenderá, en general, prohibido el trabajo señalado en la columna A.</td>
+<td>Cuando no figura mención alguna en la columna C, se entenderá, en general, prohibido el trabajo señalado en la columna A.</td>
 </tr>
 <tr>
 <td colspan="3">Nota. La clasificación en veinticuatro grupos de industrias adoptada por la Inspección Nacional de Trabajo, señalada asimismo en la Orden de 16 de enero de 1940 (BOLETIN OFICIAL DEL ESTADO de 30 de dicho mes) sobre estadística de accidentes, es la que sirve de sistema inicial en el presente Decreto.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO I</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Agricultura y ganadería</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mataderos (Operaciones de matanza de reses mayores y descuartizamiento).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mataderos (Operaciones de matanza de reses mayores y descuartizamiento).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reses bravas (Cuidado de las).</td>
-<td class="cuerpo_tabla_izq">Trabajo peligroso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Reses bravas (Cuidado de las).</td>
+<td>Trabajo peligroso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO II</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias forestales</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cortes y aserrado de troncos.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cortes y aserrado de troncos.</td>
+<td>Trabajo penoso. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transporte de madera por flotación.</td>
-<td class="cuerpo_tabla_izq">Trabajos penosos y peligrosos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Transporte de madera por flotación.</td>
+<td>Trabajos penosos y peligrosos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO III</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias extractivas</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Excavación (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Excavación (Trabajos de).</td>
+<td>Trabajo penoso. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Minas, canteras, hornagueros (Corte y extracción de mineral; preparación mecánica, pulverización y tamizado en seco de minerales y productos de minas y canteras; instalación de material; servicio de aparatos de extracción, torniquete, ascensores y planos inclinados, etcétera; servicio de bombas y ventiladores en el interior; transporte de mineral en las galerías, trabajos de entibación).</td>
-<td class="cuerpo_tabla_izq">Condiciones especiales del trabajo. Peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Minas, canteras, hornagueros (Corte y extracción de mineral; preparación mecánica, pulverización y tamizado en seco de minerales y productos de minas y canteras; instalación de material; servicio de aparatos de extracción, torniquete, ascensores y planos inclinados, etcétera; servicio de bombas y ventiladores en el interior; transporte de mineral en las galerías, trabajos de entibación).</td>
+<td>Condiciones especiales del trabajo. Peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO IV</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Trabajos de las piedras y tierras</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espejos (Azogado).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
+<td>Espejos (Azogado).</td>
+<td>Vapores tóxicos.</td>
 <td>Talleres donde se emplee mercurio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vidrieras y cristalerías (Demolición de los hornos y limpieza de los materiales que de ellos procedan).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Vidrieras y cristalerías (Demolición de los hornos y limpieza de los materiales que de ellos procedan).</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPOS V, VI y VII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Metalurgia, trabajo del hierro y demás metales, máquinas, aparatos y vehículos</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aleaciones de antimonio, arsénicos, estaño, plomo y cinc (Fabricación y fusión).</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Aleaciones de antimonio, arsénicos, estaño, plomo y cinc (Fabricación y fusión).</td>
+<td>Polvos y vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altos hornos. Hornos de acero, convertidores y hornos de fusión en general.</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_izq">Trabajo relacionados con la fusión y colada del metal.</td>
+<td>Altos hornos. Hornos de acero, convertidores y hornos de fusión en general.</td>
+<td>Peligro de accidentes.</td>
+<td>Trabajo relacionados con la fusión y colada del metal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amalgamas (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Peligro de hidrargirismo.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Amalgamas (Fabricación).</td>
+<td>Peligro de hidrargirismo.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Forja de metales con martillos pilones.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Forja de metales con martillos pilones.</td>
+<td>Trabajo penoso. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fundiciones en segunda fusión del hierro y demás metales y sus aleaciones.</td>
-<td class="cuerpo_tabla_izq">Peligro quemaduras.</td>
-<td class="cuerpo_tabla_izq">Todas las operaciones de fusión, colada y desmoldeo.</td>
+<td>Fundiciones en segunda fusión del hierro y demás metales y sus aleaciones.</td>
+<td>Peligro quemaduras.</td>
+<td>Todas las operaciones de fusión, colada y desmoldeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Laminación de metales en caliente.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Laminación de metales en caliente.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mercurio (Tratamiento de minerales de).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mercurio (Tratamiento de minerales de).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (Fundición y laminación y trabajo del).</td>
-<td class="cuerpo_tabla_izq">Vapores y polvos tóxicos. Saturnismo.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (Fundición y laminación y trabajo del).</td>
+<td>Vapores y polvos tóxicos. Saturnismo.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (Desplatación del).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (Desplatación del).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Roblonado (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Roblonado (Trabajos de).</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soldadura autógena y corte con soplete.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Soldadura autógena y corte con soplete.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soldadura y corte con arco eléctrico.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Soldadura y corte con arco eléctrico.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tostación de arseniuros, antimoniuros y minerales sulfurosos.</td>
-<td class="cuerpo_tabla_izq">Gases nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tostación de arseniuros, antimoniuros y minerales sulfurosos.</td>
+<td>Gases nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trefilado (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Trefilado (Trabajos de).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zinc (Fusión).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zinc (Fusión).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zinc (Reducción de minerales de zinc, trabajos de hornos).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zinc (Reducción de minerales de zinc, trabajos de hornos).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO VIII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias químicas</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arsénico y sus compuestos oxigenados y sulfurados (Fabricación, manipulación y empleo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Arsénico y sus compuestos oxigenados y sulfurados (Fabricación, manipulación y empleo).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Benceno y homólogos y sus nitro y aminoderivados (Fabricación, manipulación y empleo en grande).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Benceno y homólogos y sus nitro y aminoderivados (Fabricación, manipulación y empleo en grande).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Celulosa nitrada, celuloide, colodión y sustancias derivadas (Preparación).</td>
-<td class="cuerpo_tabla_izq">Peligro explosión e incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Celulosa nitrada, celuloide, colodión y sustancias derivadas (Preparación).</td>
+<td>Peligro explosión e incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerusa o blanco de plomo (Fabricación y utilización) (Ver plomo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cerusa o blanco de plomo (Fabricación y utilización) (Ver plomo).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explosivos (dinamita, pólvoras, ácido pícrico y demás sustancias explosivas) (Fabricación y manejo).</td>
-<td class="cuerpo_tabla_izq">Peligro explosión e incendio.</td>
-<td class="cuerpo_tabla_izq">Cuando la fabricación se realice por procedimientos químicos.</td>
+<td>Explosivos (dinamita, pólvoras, ácido pícrico y demás sustancias explosivas) (Fabricación y manejo).</td>
+<td>Peligro explosión e incendio.</td>
+<td>Cuando la fabricación se realice por procedimientos químicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fosgeno (oxicloruro de carbono) (Fabricación y empleo).</td>
-<td class="cuerpo_tabla_izq">Gases tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fosgeno (oxicloruro de carbono) (Fabricación y empleo).</td>
+<td>Gases tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fulminato de mercurio (Fabricación y empleo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación y explosión.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fulminato de mercurio (Fabricación y empleo).</td>
+<td>Peligro intoxicación y explosión.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mercurio (óxido y sales) (Fabricación y empleo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mercurio (óxido y sales) (Fabricación y empleo).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (sales y óxidos) (Fabricación y manipulación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (sales y óxidos) (Fabricación y manipulación).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sulfuro de carbono (Fabricación, empleo en grande y depósitos).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos. Peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores.</td>
+<td>Sulfuro de carbono (Fabricación, empleo en grande y depósitos).</td>
+<td>Vapores tóxicos. Peligro incendio.</td>
+<td>Talleres en que se desprendan vapores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tetraetilo de plomo (Fabricación y manipulación).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tetraetilo de plomo (Fabricación y manipulación).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO IX</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias de la construcción</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andamios (Trabajos en).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Andamios (Trabajos en).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Buzos (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Buzos (Trabajos de).</td>
+<td>Peligro accidentes y trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demoliciones y apuntalamientos.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Demoliciones y apuntalamientos.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Deshollinadores.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Deshollinadores.</td>
+<td>Peligro accidentes y trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entibaciones.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Entibaciones.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fundiciones bajo el agua con cajones de aire comprimido.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajos penosos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fundiciones bajo el agua con cajones de aire comprimido.</td>
+<td>Peligro accidentes y trabajos penosos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajos subterráneos.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Trabajos subterráneos.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XVI</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Artes gráficas</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajos o manipulaciones con plomo, cobre, anilinas, benzol, xilol y demás disolventes.</td>
-<td class="cuerpo_tabla_izq">Polvos y emanaciones nocivas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Trabajos o manipulaciones con plomo, cobre, anilinas, benzol, xilol y demás disolventes.</td>
+<td>Polvos y emanaciones nocivas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XVII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Agua, gas y electricidad</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Electricidad (Empresas de producción, transformación y distribución).</td>
-<td class="cuerpo_tabla_izq">Trabajos peligrosos.</td>
-<td class="cuerpo_tabla_izq">Manejo, limpieza y entretenimiento de los cuadros de distribución; cuidado de las baterías de acumuladores, y, en general, todas las operaciones relacionadas con la toma e interrupción de corriente y el servicio de los aparatos y líneas que distribuyen y sirven el flúido.</td>
+<td>Electricidad (Empresas de producción, transformación y distribución).</td>
+<td>Trabajos peligrosos.</td>
+<td>Manejo, limpieza y entretenimiento de los cuadros de distribución; cuidado de las baterías de acumuladores, y, en general, todas las operaciones relacionadas con la toma e interrupción de corriente y el servicio de los aparatos y líneas que distribuyen y sirven el flúido.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XVIII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Servicio de transporte y comunicaciones</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enganche y desenganche de vagones.</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Enganche y desenganche de vagones.</td>
+<td>Peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XXI</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Servicios de higiene de limpieza</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fosas sépticas (Limpieza y vaciado de).</td>
-<td class="cuerpo_tabla_izq">Gases y vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fosas sépticas (Limpieza y vaciado de).</td>
+<td>Gases y vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XXIV</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Otras industrias, trabajos y servicios</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fieras (Colecciones de) y Parques zoológicos.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_izq">Cuando tengan animales feroces o venenosos.</td>
+<td>Fieras (Colecciones de) y Parques zoológicos.</td>
+<td>Peligro accidentes.</td>
+<td>Cuando tengan animales feroces o venenosos.</td>
 </tr>
 </tbody>
 </table>
 
 ## RELACIÓN SEGUNDA — Que comprende las actividades e industrias prohibidas a los varones menores de dieciocho años y a las mujeres menores de veintiuno (artículo 2)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A) Actividad prohibida.</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B) Motivo de la prohibición</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C) En su caso, las condiciones particulares de la prohibición</strong>
 </p>
 </td>
@@ -1008,1728 +998,1728 @@ FERMÍN SANZ ORRIO
 <tr>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq">Cuando no figure mención alguna en la columna C se entenderá prohibido, en general, el trabajo señalado en la columna A.</td>
+<td>Cuando no figure mención alguna en la columna C se entenderá prohibido, en general, el trabajo señalado en la columna A.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Nota. La clasificación en veinticuatro grupos de industrias adoptada por la Inspección Nacional de Trabajo señalada asimismo en la Orden de 16 de enero de 1940 (BOLETIN OFICIAL DEL ESTADO de 30 de dicho mes) sobre estadísticas de accidentes es la que sirve de sistema inicial en el presente Decreto.</td>
+<td colspan="3">Nota. La clasificación en veinticuatro grupos de industrias adoptada por la Inspección Nacional de Trabajo señalada asimismo en la Orden de 16 de enero de 1940 (BOLETIN OFICIAL DEL ESTADO de 30 de dicho mes) sobre estadísticas de accidentes es la que sirve de sistema inicial en el presente Decreto.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO I</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Agricultura y ganadería</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abonos (Depósitos y fabricación con materias animales).</td>
-<td class="cuerpo_tabla_izq">Gases y vapores nocivos y peligro de infecciones.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Abonos (Depósitos y fabricación con materias animales).</td>
+<td>Gases y vapores nocivos y peligro de infecciones.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Despojos de animales (Depósitos y manipulación para su aprovechamiento).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Despojos de animales (Depósitos y manipulación para su aprovechamiento).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fumigación y lucha contra las plagas del campo por medio de materias tóxicas.</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fumigación y lucha contra las plagas del campo por medio de materias tóxicas.</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mataderos (Operaciones de matanza de reses mayores y descuartizamiento).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mataderos (Operaciones de matanza de reses mayores y descuartizamiento).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reses bravas (Cuidado de las).</td>
-<td class="cuerpo_tabla_izq">Trabajo peligroso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Reses bravas (Cuidado de las).</td>
+<td>Trabajo peligroso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Siega a mano.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso y peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Siega a mano.</td>
+<td>Trabajo penoso y peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Siembra y abonado (Labores de).</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Siembra y abonado (Labores de).</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tractores y máquinas agrícolas con motor (Conducción y manejo).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tractores y máquinas agrícolas con motor (Conducción y manejo).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tripas y vejigas limpias y privadas de toda sustancia membranosa (Talleres para hinchado y soplado no mecánico).</td>
-<td class="cuerpo_tabla_izq">Afecciones pulmonares.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tripas y vejigas limpias y privadas de toda sustancia membranosa (Talleres para hinchado y soplado no mecánico).</td>
+<td>Afecciones pulmonares.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO II</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias forestales</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carbón vegetal (Preparación del).</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Carbón vegetal (Preparación del).</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Corcho (Arranque y elaboración, con sus distintas preparaciones).</td>
-<td class="cuerpo_tabla_izq">Trabajo peligroso. Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprende libremente polvo.</td>
+<td>Corcho (Arranque y elaboración, con sus distintas preparaciones).</td>
+<td>Trabajo peligroso. Polvos nocivos.</td>
+<td>Talleres en que se desprende libremente polvo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cortes y aserrado de troncos.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cortes y aserrado de troncos.</td>
+<td>Trabajo penoso. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carga a mano y transporte de piezas de madera, salvo las de pequeñas dimensiones.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Carga a mano y transporte de piezas de madera, salvo las de pequeñas dimensiones.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza de montes y espartizales.</td>
-<td class="cuerpo_tabla_izq">Trabajos penosos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Limpieza de montes y espartizales.</td>
+<td>Trabajos penosos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Transporte de madera por flotación.</td>
-<td class="cuerpo_tabla_izq">Trabajos penosos y peligrosos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Transporte de madera por flotación.</td>
+<td>Trabajos penosos y peligrosos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tala y poda de árboles.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tala y poda de árboles.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO III</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias extractivas</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Excavación (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Excavación (Trabajos de).</td>
+<td>Trabajo penoso. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Minas, canteras, hornagueros (Corte y extracción del mineral; preparación mecánica, pulverización y tamizado en seco de minerales y productos de minas y canteras; instalación de material; servicio de aparatos de extracción: torniquete, ascensores y planos inclinados, etcétera; servicio de bombas y ventiladores en el interior; transporte de mineral en las galerías; trabajos de entibación) .</td>
-<td class="cuerpo_tabla_izq">Condiciones especiales de trabajo. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Minas, canteras, hornagueros (Corte y extracción del mineral; preparación mecánica, pulverización y tamizado en seco de minerales y productos de minas y canteras; instalación de material; servicio de aparatos de extracción: torniquete, ascensores y planos inclinados, etcétera; servicio de bombas y ventiladores en el interior; transporte de mineral en las galerías; trabajos de entibación) .</td>
+<td>Condiciones especiales de trabajo. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO IV</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Trabajo de las piedras y tierras</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alabastro (Serrado, labrado y pulimento).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprenden libremente polvos.</td>
+<td>Alabastro (Serrado, labrado y pulimento).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprenden libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asbesto, amianto (Extracción, trabajo y molienda).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Asbesto, amianto (Extracción, trabajo y molienda).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Asperón (Extracción y picado).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Asperón (Extracción y picado).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cal (Hornos y molinos de).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos y trabajo penoso.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Cal (Hornos y molinos de).</td>
+<td>Polvos nocivos y trabajo penoso.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cemento (Hornos y molinos de).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Cemento (Hornos y molinos de).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerámica (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres de pulverización y tamizado de primeras materias. Hornos.</td>
+<td>Cerámica (Fabricación).</td>
+<td>Idem íd.</td>
+<td>Talleres de pulverización y tamizado de primeras materias. Hornos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerámica (Decorado de productos de).</td>
-<td class="cuerpo_tabla_izq">Peligro de intoxicación.</td>
-<td class="cuerpo_tabla_izq">Trabajos en que se manipulen productos tóxicos.</td>
+<td>Cerámica (Decorado de productos de).</td>
+<td>Peligro de intoxicación.</td>
+<td>Trabajos en que se manipulen productos tóxicos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cromolitografía cerámica (Empolvado en seco y desempolvado de colores).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cromolitografía cerámica (Empolvado en seco y desempolvado de colores).</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Espejos (Azogado).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se emplee mercurio.</td>
+<td>Espejos (Azogado).</td>
+<td>Vapores tóxicos.</td>
+<td>Talleres donde se emplee mercurio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mármol (Serrado, labrado y pulimento).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprenden libremente polvos.</td>
+<td>Mármol (Serrado, labrado y pulimento).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprenden libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Muelas de esmeril y materiales abrasivos artificiales (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Muelas de esmeril y materiales abrasivos artificiales (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Perlas artificiales (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprenden vapores disolventes.</td>
+<td>Perlas artificiales (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>Talleres donde se desprenden vapores disolventes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Piedras en general (Serrado, labrado, pulimentado y molienda).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprenden libremente polvos.</td>
+<td>Piedras en general (Serrado, labrado, pulimentado y molienda).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres en que se desprenden libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Puzolana artificial (Hornos y molinos de).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Puzolana artificial (Hornos y molinos de).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Talco (Molienda).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Talco (Molienda).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vidrieras y cristalerías (Hornos).</td>
-<td class="cuerpo_tabla_izq">Radiaciones perjudiciales.</td>
-<td class="cuerpo_tabla_izq">Locales donde están instalados los hornos.</td>
+<td>Vidrieras y cristalerías (Hornos).</td>
+<td>Radiaciones perjudiciales.</td>
+<td>Locales donde están instalados los hornos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vidrieras y cristalerías (Demolición de los hornos y limpieza de los materiales que de ellos procedan).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Vidrieras y cristalerías (Demolición de los hornos y limpieza de los materiales que de ellos procedan).</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vidrieras y cristalerías.</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Locales en que se efectúe la preparación y mezcla de primeras materias; locales en general, en que se desprenden libremente polvos o se utilizan materias tóxicas.</td>
+<td>Vidrieras y cristalerías.</td>
+<td>Polvos nocivos.</td>
+<td>Locales en que se efectúe la preparación y mezcla de primeras materias; locales en general, en que se desprenden libremente polvos o se utilizan materias tóxicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vidrio y cristal (Grabado y esmerilado con ácido fluorhídrico o con chorro de arena).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos y vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Vidrio y cristal (Grabado y esmerilado con ácido fluorhídrico o con chorro de arena).</td>
+<td>Polvos nocivos y vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Yeso (Hornos y molinos de).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprenden libremente polvos.</td>
+<td>Yeso (Hornos y molinos de).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprenden libremente polvos.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO V, VI y VII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Metalurgia, trabajo del hierro y demás metales, máquinas, aparatos y vehículos</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acumuladores eléctricos.</td>
-<td class="cuerpo_tabla_izq">Peligro de saturnismo.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprenden vapores o polvos de plomo.</td>
+<td>Acumuladores eléctricos.</td>
+<td>Peligro de saturnismo.</td>
+<td>Talleres en que se desprenden vapores o polvos de plomo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Afilado, aguzado, pulimentado y desbarbado de metales.</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Afilado, aguzado, pulimentado y desbarbado de metales.</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Afinado de los metales al horno.</td>
-<td class="cuerpo_tabla_izq">Emanaciones nocivas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Afinado de los metales al horno.</td>
+<td>Emanaciones nocivas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Afinado de metales preciosos por los ácidos.</td>
-<td class="cuerpo_tabla_izq">Vapores ácidos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprenden vapores o manipulen ácidos.</td>
+<td>Afinado de metales preciosos por los ácidos.</td>
+<td>Vapores ácidos.</td>
+<td>Talleres donde se desprenden vapores o manipulen ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aleaciones de antimonio, arsénico, estaño, plomo y cinc (Fabricación y fusión).</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Aleaciones de antimonio, arsénico, estaño, plomo y cinc (Fabricación y fusión).</td>
+<td>Polvos y vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altos hornos. Hornos de acero, convertidores y hornos de fusión en general.</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_izq">Trabajos relacionados directamente con la fusión y colada del metal.</td>
+<td>Altos hornos. Hornos de acero, convertidores y hornos de fusión en general.</td>
+<td>Peligro de accidentes.</td>
+<td>Trabajos relacionados directamente con la fusión y colada del metal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amalgamas (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Peligro de hidrargirismo.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Amalgamas (Fabricación).</td>
+<td>Peligro de hidrargirismo.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Barnizado de metales y planchas metálicas.</td>
-<td class="cuerpo_tabla_izq">Peligro de intoxicación.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se empleen materias tóxicas.</td>
+<td>Barnizado de metales y planchas metálicas.</td>
+<td>Peligro de intoxicación.</td>
+<td>Talleres en que se empleen materias tóxicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Botoneros y forradores en metales por medios mecánicos.</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres de carga, vaciado y envasado.</td>
+<td>Botoneros y forradores en metales por medios mecánicos.</td>
+<td>Polvos nocivos.</td>
+<td>Talleres de carga, vaciado y envasado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caracteres de imprenta (Fundición, pulimento y acabado).</td>
-<td class="cuerpo_tabla_izq">Peligro de saturnismo.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Caracteres de imprenta (Fundición, pulimento y acabado).</td>
+<td>Peligro de saturnismo.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cenizas de orfebre (Tratamiento de las mismas por el plomo).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cenizas de orfebre (Tratamiento de las mismas por el plomo).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobre y sus aleaciones (Fundición y recomposición de objetos de).</td>
-<td class="cuerpo_tabla_izq">Vapores y polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cobre y sus aleaciones (Fundición y recomposición de objetos de).</td>
+<td>Vapores y polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Chorro de arena.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Chorro de arena.</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dorado y plateado de metales.</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan vapores ácidos o mercuriales.</td>
+<td>Dorado y plateado de metales.</td>
+<td>Vapores nocivos.</td>
+<td>Talleres donde se desprendan vapores ácidos o mercuriales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dorado, plateado, cromado y niquelado galvánicos.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Dorado, plateado, cromado y niquelado galvánicos.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Esmaltes (Aplicación sobre metales).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres de trituración y tamizado de primeras materias.</td>
+<td>Esmaltes (Aplicación sobre metales).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres de trituración y tamizado de primeras materias.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estañado de placas y objetos metálicos.</td>
-<td class="cuerpo_tabla_izq">Emanaciones nocivas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Estañado de placas y objetos metálicos.</td>
+<td>Emanaciones nocivas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estaño (Hojas de fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se utilicen materias tóxicas.</td>
+<td>Estaño (Hojas de fabricación).</td>
+<td>Idem íd.</td>
+<td>Talleres en que se utilicen materias tóxicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Forja de metales con martillos pilones.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso. Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Forja de metales con martillos pilones.</td>
+<td>Trabajo penoso. Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fundiciones en segunda fusión del hierro y demás metales y sus aleaciones.</td>
-<td class="cuerpo_tabla_izq">Peligro de quemaduras.</td>
-<td class="cuerpo_tabla_izq">Todas las operaciones de fusión, colada y desmoldeo.</td>
+<td>Fundiciones en segunda fusión del hierro y demás metales y sus aleaciones.</td>
+<td>Peligro de quemaduras.</td>
+<td>Todas las operaciones de fusión, colada y desmoldeo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hierro (Galvanizado del).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores o se manipulen ácidos.</td>
+<td>Hierro (Galvanizado del).</td>
+<td>Vapores nocivos.</td>
+<td>Talleres en que se desprendan vapores o se manipulen ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hornos, estufas y secaderos.</td>
-<td class="cuerpo_tabla_izq">Alta temperatura.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Hornos, estufas y secaderos.</td>
+<td>Alta temperatura.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Laminación de metales en caliente.</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Laminación de metales en caliente.</td>
+<td>Peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza de metales con ácidos.</td>
-<td class="cuerpo_tabla_izq">Vapores y gases nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores o se manipulen ácidos.</td>
+<td>Limpieza de metales con ácidos.</td>
+<td>Vapores y gases nocivos.</td>
+<td>Talleres en que se desprendan vapores o se manipulen ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mercurio (Tratamiento de minerales de).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mercurio (Tratamiento de minerales de).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mercurio (Manipulación y empleo. Fabricación de aparatos e instrumentos que contengan mercurio).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mercurio (Manipulación y empleo. Fabricación de aparatos e instrumentos que contengan mercurio).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metales (Tratamiento por medios mecánicos).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan polvos.</td>
+<td>Metales (Tratamiento por medios mecánicos).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres en que se desprendan polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metales preciosos (Preparación con compuestos de cianógeno y cloro).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Metales preciosos (Preparación con compuestos de cianógeno y cloro).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metalización con pistola.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Metalización con pistola.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (Fundición y laminación y trabajo del).</td>
-<td class="cuerpo_tabla_izq">Vapores y polvos tóxicos. Saturnismo.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (Fundición y laminación y trabajo del).</td>
+<td>Vapores y polvos tóxicos. Saturnismo.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (Pulimento con limaduras de plomo o pastas plúmbeas).</td>
-<td class="cuerpo_tabla_izq">Polvos tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (Pulimento con limaduras de plomo o pastas plúmbeas).</td>
+<td>Polvos tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (Desplatación del).</td>
-<td class="cuerpo_tabla_izq">Vapores y polvos tóxicos. Saturnismo.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (Desplatación del).</td>
+<td>Vapores y polvos tóxicos. Saturnismo.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reblonado (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Reblonado (Trabajos de).</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soldadura autógena y corte con soplete.</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Soldadura autógena y corte con soplete.</td>
+<td>Peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soldadura y corte con arco eléctrico.</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_izq">Cuando se desprendan libremente vapores.</td>
+<td>Soldadura y corte con arco eléctrico.</td>
+<td>Peligro de accidentes.</td>
+<td>Cuando se desprendan libremente vapores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Soldadura con plomo.</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Soldadura con plomo.</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temple y cimentación de fundiciones con cianuros.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Temple y cimentación de fundiciones con cianuros.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tostación de arseniuros, antimoniuros y de minerales sulfurosos.</td>
-<td class="cuerpo_tabla_izq">Gases nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tostación de arseniuros, antimoniuros y de minerales sulfurosos.</td>
+<td>Gases nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trefilado (Trabajos de).</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Trefilado (Trabajos de).</td>
+<td>Peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trituración en seco de minerales.</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprenden libremente polvos.</td>
+<td>Trituración en seco de minerales.</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprenden libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zinc (Fusión).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zinc (Fusión).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zincado de objetos metálicos.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zincado de objetos metálicos.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zinc (Reducción de minerales de zinc, trabajo en hornos).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Zinc (Reducción de minerales de zinc, trabajo en hornos).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO VIII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias químicas</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Abonos químicos (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Operaciones en que se desprendan vapores o polvos nocivos.</td>
+<td>Abonos químicos (Fabricación).</td>
+<td>Polvos y vapores nocivos.</td>
+<td>Operaciones en que se desprendan vapores o polvos nocivos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acetona (Fabricación, manejo y depósito).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro de incendios.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acetona (Fabricación, manejo y depósito).</td>
+<td>Vapores nocivos y peligro de incendios.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido acético (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores o se manipulen ácidos.</td>
+<td>Acido acético (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>Talleres en que se desprendan vapores o se manipulen ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido clorhídrico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido clorhídrico (Fabricación).</td>
+<td>Vapores nocivos y peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido fluorhídrico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido fluorhídrico (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido nítrico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido nítrico (Fabricación).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido oxálico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido oxálico (Fabricación).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido pícrico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido pícrico (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido salicílico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido salicílico (Fabricación).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido sulfúrico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido sulfúrico (Fabricación).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Acido úrico y derivados (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Acido úrico y derivados (Fabricación).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguas grasas (Extracción de los aceites que contienen).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se utilice el sulfuro de carbono.</td>
+<td>Aguas grasas (Extracción de los aceites que contienen).</td>
+<td>Vapores nocivos y peligro incendio.</td>
+<td>Talleres en que se utilice el sulfuro de carbono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcaloides (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Alcaloides (Fabricación).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Alcohol metílico (Fabricación y depósito).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Alcohol metílico (Fabricación y depósito).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amoníaco y alcalís cáusticos (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Amoníaco y alcalís cáusticos (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anilina y derivados (Ver Benceno y homólogos).</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Anilina y derivados (Ver Benceno y homólogos).</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Arsénico y sus compuestos oxigenados y sulfurados (Fabricación, manipulación y empleo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Arsénico y sus compuestos oxigenados y sulfurados (Fabricación, manipulación y empleo).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azufre (Pulverización y tamizado).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres de pulverización, tamizado y envasado.</td>
+<td>Azufre (Pulverización y tamizado).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres de pulverización, tamizado y envasado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aguarrás (Obtención y manipulación en grande).</td>
-<td class="cuerpo_tabla_izq">Peligro incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Aguarrás (Obtención y manipulación en grande).</td>
+<td>Peligro incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Barnices (Fabricación empleando alcohol, aceites esenciales o hidrocarburos en general).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres de elaboración y envasado.</td>
+<td>Barnices (Fabricación empleando alcohol, aceites esenciales o hidrocarburos en general).</td>
+<td>Idem íd.</td>
+<td>Talleres de elaboración y envasado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Barnices (Aplicación sobre cueros, fieltros, telas y sombreros).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Barnices (Aplicación sobre cueros, fieltros, telas y sombreros).</td>
+<td>Vapores nocivos y peligro incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Benceno y homólogos y sus nitro y amino derivados (Fabricación, manipulación y empleo en grande).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Benceno y homólogos y sus nitro y amino derivados (Fabricación, manipulación y empleo en grande).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanco de cinc (Fabricación por combustión del metal).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres de combustión y condensación.</td>
+<td>Blanco de cinc (Fabricación por combustión del metal).</td>
+<td>Idem íd.</td>
+<td>Talleres de combustión y condensación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanqueo químico de telas, paja o papel.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprende cloro o anhídrido sulfuroso.</td>
+<td>Blanqueo químico de telas, paja o papel.</td>
+<td>Idem íd.</td>
+<td>Talleres donde se desprende cloro o anhídrido sulfuroso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carburo cálcico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Carburo cálcico (Fabricación).</td>
+<td>Polvos y vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caucho (Aplicación y trabajo de).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprenden vapores de sulfuro de carbono, bencina y otros hidrocarburos.</td>
+<td>Caucho (Aplicación y trabajo de).</td>
+<td>Vapores nocivos y peligro incendio.</td>
+<td>Talleres en que se desprenden vapores de sulfuro de carbono, bencina y otros hidrocarburos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Celulosa nitrada celuloide, colodión y sustancias derivadas (Preparación).</td>
-<td class="cuerpo_tabla_izq">Peligro de explosión e incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Celulosa nitrada celuloide, colodión y sustancias derivadas (Preparación).</td>
+<td>Peligro de explosión e incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerusa o blanco de plomo (Fabricación y utilización). (Ver Plomo.).</td>
-<td class="cuerpo_tabla_izq">Peligro de intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cerusa o blanco de plomo (Fabricación y utilización). (Ver Plomo.).</td>
+<td>Peligro de intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cianuros, ferro y ferricianuros alcalinos, azul de Prusia (Fabricación de).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cianuros, ferro y ferricianuros alcalinos, azul de Prusia (Fabricación de).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cianamida cálcica (Ver abonos químicos).</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cianamida cálcica (Ver abonos químicos).</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cobre (Trituración y molienda de los compuestos de).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres de trituración y molienda, tamizado y envasado.</td>
+<td>Cobre (Trituración y molienda de los compuestos de).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres de trituración y molienda, tamizado y envasado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cloro (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Gases nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cloro (Fabricación).</td>
+<td>Gases nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cloruros e hipocloritos alcalinos (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos y gases nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cloruros e hipocloritos alcalinos (Fabricación).</td>
+<td>Polvos y gases nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cloruros de azufre (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cloruros de azufre (Fabricación).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cloruro cálcico (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos y gases nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cloruro cálcico (Fabricación).</td>
+<td>Polvos y gases nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Colores y materias colorantes (Fabricación con anilina y nitrobenceno). (Ver Benceno.).</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Colores y materias colorantes (Fabricación con anilina y nitrobenceno). (Ver Benceno.).</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cromatos (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cromatos (Fabricación).</td>
+<td>Polvos y vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Drogas (Pulverización mecánica).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan libremente polvos.</td>
+<td>Drogas (Pulverización mecánica).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres en que se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eteres (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Peligro explosión e incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Eteres (Fabricación).</td>
+<td>Peligro explosión e incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explosivos: Dinamita, pólvoras, ácido pícrico y demás sustancias explosivas (Fabricación y manejo).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Cuando la fabricación se realice por procedimiento químico.</td>
+<td>Explosivos: Dinamita, pólvoras, ácido pícrico y demás sustancias explosivas (Fabricación y manejo).</td>
+<td>Idem íd.</td>
+<td>Cuando la fabricación se realice por procedimiento químico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explosivos: Dinamita, pólvoras, ácido pícrico y demás sustancias explosivas (Fabricación y manejo).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Cuando la fabricación se realice por procedimiento mecánico.</td>
+<td>Explosivos: Dinamita, pólvoras, ácido pícrico y demás sustancias explosivas (Fabricación y manejo).</td>
+<td>Idem íd.</td>
+<td>Cuando la fabricación se realice por procedimiento mecánico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fenoles (Ver Benceno).</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fenoles (Ver Benceno).</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fluoruros (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fluoruros (Fabricación).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fósforo (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Enfermedades específicas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fósforo (Fabricación).</td>
+<td>Enfermedades específicas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fosgeno (oxicloruro de carbono) (Fabricación y empleo).</td>
-<td class="cuerpo_tabla_izq">Gases tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fosgeno (oxicloruro de carbono) (Fabricación y empleo).</td>
+<td>Gases tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fulminato de mercurio (Fabricación y empleo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación y explosión.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fulminato de mercurio (Fabricación y empleo).</td>
+<td>Peligro intoxicación y explosión.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mercurio (óxido y sales) (Fabricación y empleo).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mercurio (óxido y sales) (Fabricación y empleo).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mercurio y sus compuestos (Empleo).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Mercurio y sus compuestos (Empleo).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metano (Derivados halogenados) (Preparación y empleo).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Metano (Derivados halogenados) (Preparación y empleo).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Negro mineral (Fabricación por trituración de los residuos de la destilación seca de esquistos bituminosos).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores o se manipulen ácidos.</td>
+<td>Negro mineral (Fabricación por trituración de los residuos de la destilación seca de esquistos bituminosos).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres en que se desprendan vapores o se manipulen ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitratos metálicos (Fabricación por acción directa de los ácidos).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Nitratos metálicos (Fabricación por acción directa de los ácidos).</td>
+<td>Vapores nocivos.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitrato de metilo (Fabricación y manejo).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos y peligro de explosión.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Nitrato de metilo (Fabricación y manejo).</td>
+<td>Vapores tóxicos y peligro de explosión.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nitrobenceno (Ver Benceno).</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Nitrobenceno (Ver Benceno).</td>
+<td>–</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Petróleo, aceites de esquistos, de brea, aceites esenciales y otros hidrocarburos empleados para el alumbrado, calefacción, fabricación de barnices y colores, desengrasado, extracción de aceites y otros usos (Fabricación, destilación, refino y, en general, trabajo y empleo en grande.</td>
-<td class="cuerpo_tabla_izq">Peligro incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Petróleo, aceites de esquistos, de brea, aceites esenciales y otros hidrocarburos empleados para el alumbrado, calefacción, fabricación de barnices y colores, desengrasado, extracción de aceites y otros usos (Fabricación, destilación, refino y, en general, trabajo y empleo en grande.</td>
+<td>Peligro incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pistones y cápsulas, petardos, espoletas, cartuchos de guerra y caza, de pólvora de mina, artificios y cargas de proyectiles, detonadores (Fabricación y manejo).</td>
-<td class="cuerpo_tabla_izq">Peligro de explosión.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Pistones y cápsulas, petardos, espoletas, cartuchos de guerra y caza, de pólvora de mina, artificios y cargas de proyectiles, detonadores (Fabricación y manejo).</td>
+<td>Peligro de explosión.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plásticas (materias) (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Gases y polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plásticas (materias) (Fabricación).</td>
+<td>Gases y polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (sales y óxidos) (Fabricación y manipulación).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (sales y óxidos) (Fabricación y manipulación).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Plomo (preparación y aplicación de pinturas, barnices, lacas, tinturas, esmaltes, marties a base de compuestos de plomo).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Plomo (preparación y aplicación de pinturas, barnices, lacas, tinturas, esmaltes, marties a base de compuestos de plomo).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Quinina (Pulverización de la corteza y preparación de sulfuro).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Quinina (Pulverización de la corteza y preparación de sulfuro).</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Resinas (destilación).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos y peligro incendio.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Resinas (destilación).</td>
+<td>Vapores tóxicos y peligro incendio.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rojos de Prusia y de Inglaterra (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Rojos de Prusia y de Inglaterra (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sal de sosa (Fabricación con el sulfato).</td>
-<td class="cuerpo_tabla_izq">Vapores ácidos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores.</td>
+<td>Sal de sosa (Fabricación con el sulfato).</td>
+<td>Vapores ácidos.</td>
+<td>Talleres en que se desprendan vapores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sinapismos (Fabricación con empleo de disolventes).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos. Peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se manipulen disolventes.</td>
+<td>Sinapismos (Fabricación con empleo de disolventes).</td>
+<td>Vapores nocivos. Peligro incendio.</td>
+<td>Talleres en que se manipulen disolventes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sulfato de peróxido y de protóxido de hierro (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores o se manipulen ácidos.</td>
+<td>Sulfato de peróxido y de protóxido de hierro (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>Talleres en que se desprendan vapores o se manipulen ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sulfato de sosa (Fabricación por descomposición del cloruro).</td>
-<td class="cuerpo_tabla_izq">Vapores ácidos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores.</td>
+<td>Sulfato de sosa (Fabricación por descomposición del cloruro).</td>
+<td>Vapores ácidos.</td>
+<td>Talleres en que se desprendan vapores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sulfuro de carbono (Fabricación, empleo en grande y depósito).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos. Peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Sulfuro de carbono (Fabricación, empleo en grande y depósito).</td>
+<td>Vapores tóxicos. Peligro incendio.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sulfuro de sodio (Preparación).</td>
-<td class="cuerpo_tabla_izq">Gases tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Sulfuro de sodio (Preparación).</td>
+<td>Gases tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tortas de aceitunas, orujos (Tratamiento con sulfuro de carbono).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos. Peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en el que se manipule el sulfuro de carbono.</td>
+<td>Tortas de aceitunas, orujos (Tratamiento con sulfuro de carbono).</td>
+<td>Vapores nocivos. Peligro incendio.</td>
+<td>Talleres en el que se manipule el sulfuro de carbono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tetraetilo de plomo (Fabricación y manipulación).</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tetraetilo de plomo (Fabricación y manipulación).</td>
+<td>Peligro intoxicación.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO IX</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias de la construcción</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andamios (Trabajo en).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Andamios (Trabajo en).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Buzos (Trabajo de).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Buzos (Trabajo de).</td>
+<td>Peligro accidentes y trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Demoliciones y apuntalamientos.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Demoliciones y apuntalamientos.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Deshollinadores.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Deshollinadores.</td>
+<td>Peligro accidentes y trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Entibaciones.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Entibaciones.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fundaciones bajo el agua, con cajones de aire comprimido.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fundaciones bajo el agua, con cajones de aire comprimido.</td>
+<td>Peligro accidentes y trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Machaqueo y quebrantamiento de piedra.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Machaqueo y quebrantamiento de piedra.</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Maquinaria y aparatos accionados por motor empleados en las obras de construcción, movimiento de tierra, etcétera (Conducción o manejo de).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Maquinaria y aparatos accionados por motor empleados en las obras de construcción, movimiento de tierra, etcétera (Conducción o manejo de).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Riesgos asfálticos y similares.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso y riesgo de quemaduras.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Riesgos asfálticos y similares.</td>
+<td>Trabajo penoso y riesgo de quemaduras.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajos subterráneos.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes y trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Trabajos subterráneos.</td>
+<td>Peligro accidentes y trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO X</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industria de la madera y afines</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cortes, pulido, lijado y torneado de maderas.</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan libremente polvos.</td>
+<td>Cortes, pulido, lijado y torneado de maderas.</td>
+<td>Polvos nocivos.</td>
+<td>Talleres en que se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XI</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias textiles</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Algodón, cáñamo, esparto, lino y yute (Limpieza, cardado y batido en grande).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se produzcan polvos.</td>
+<td>Algodón, cáñamo, esparto, lino y yute (Limpieza, cardado y batido en grande).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se produzcan polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Algodón (Fabricación de mantas y guatas).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres de limpieza y cardado.</td>
+<td>Algodón (Fabricación de mantas y guatas).</td>
+<td>Idem íd.</td>
+<td>Talleres de limpieza y cardado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Algodones grasos y ordinarios (Blanqueo y desengrasado).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se utilice el sulfuro de carbono.</td>
+<td>Algodones grasos y ordinarios (Blanqueo y desengrasado).</td>
+<td>Vapores nocivos y peligro incendio.</td>
+<td>Talleres en que se utilice el sulfuro de carbono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Amianto (Hilado y tejido).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan libremente polvos.</td>
+<td>Amianto (Hilado y tejido).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Blanqueo de hilos o tejidos con anhídrido sulfuroso, cloro y cloruros decolorantes.</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan vapores.</td>
+<td>Blanqueo de hilos o tejidos con anhídrido sulfuroso, cloro y cloruros decolorantes.</td>
+<td>Vapores nocivos.</td>
+<td>Talleres donde se desprendan vapores.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cáñamo impermeable (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores de sulfuro de carbono.</td>
+<td>Cáñamo impermeable (Fabricación).</td>
+<td>Idem íd.</td>
+<td>Talleres en que se desprendan vapores de sulfuro de carbono.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Crines y cerdas (Preparación).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan libremente polvos.</td>
+<td>Crines y cerdas (Preparación).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Crisálidas (Extracción de la materia sedosa).</td>
-<td class="cuerpo_tabla_izq">Emanaciones nocivas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Crisálidas (Extracción de la materia sedosa).</td>
+<td>Emanaciones nocivas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desengrasado de telas y trapos de lana con hidrocarburos.</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores nocivos. Peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se empleen los disolventes y en los que se escojan, corten o manipulen los trapos.</td>
+<td>Desengrasado de telas y trapos de lana con hidrocarburos.</td>
+<td>Polvos y vapores nocivos. Peligro incendio.</td>
+<td>Talleres en que se empleen los disolventes y en los que se escojan, corten o manipulen los trapos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Esparto (Preparación del).</td>
-<td class="cuerpo_tabla_izq">Polvos y emanaciones nocivas.</td>
-<td class="cuerpo_tabla_izq">Machacado, picado, llenado de las balsas de cocción o enriado, sacado, tendido, secado y atado.</td>
+<td>Esparto (Preparación del).</td>
+<td>Polvos y emanaciones nocivas.</td>
+<td>Machacado, picado, llenado de las balsas de cocción o enriado, sacado, tendido, secado y atado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fibras artificiales (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan libremente vapores nocivos.</td>
+<td>Fibras artificiales (Fabricación).</td>
+<td>Vapores nocivos.</td>
+<td>Talleres en que se desprendan libremente vapores nocivos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fieltros embreados (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan libremente polvos.</td>
+<td>Fieltros embreados (Fabricación).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fieltros y viseras barnizadas (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro incendio.</td>
-<td class="cuerpo_tabla_izq">Talleres de preparación y aplicación de los barnices.</td>
+<td>Fieltros y viseras barnizadas (Fabricación).</td>
+<td>Vapores nocivos y peligro incendio.</td>
+<td>Talleres de preparación y aplicación de los barnices.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hules, tafetanes, telas enceradas (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Hules, tafetanes, telas enceradas (Fabricación).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lanas, crines y plumas (Batido y limpieza).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan libremente polvos.</td>
+<td>Lanas, crines y plumas (Batido y limpieza).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lanas y paños (Disgregación por vía húmeda).</td>
-<td class="cuerpo_tabla_izq">Vapores ácidos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan vapores ácidos.</td>
+<td>Lanas y paños (Disgregación por vía húmeda).</td>
+<td>Vapores ácidos.</td>
+<td>Talleres donde se desprendan vapores ácidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lino, cáñamo y yute (Agramado).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se desprendan libremente polvos.</td>
+<td>Lino, cáñamo y yute (Agramado).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lino y cáñamo (Hilaturas).</td>
-<td class="cuerpo_tabla_izq">Enfermedades específicas.</td>
-<td class="cuerpo_tabla_izq">Talleres en que no esté bien asegurada la evacuación de aguas residuales.</td>
+<td>Lino y cáñamo (Hilaturas).</td>
+<td>Enfermedades específicas.</td>
+<td>Talleres en que no esté bien asegurada la evacuación de aguas residuales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seda (Cardado de los desperdicios y residuos).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Seda (Cardado de los desperdicios y residuos).</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tintura de hilos y tejidos con sustancias tóxicas.</td>
-<td class="cuerpo_tabla_izq">Peligro de intoxicación.</td>
-<td class="cuerpo_tabla_izq">Talleres donde se empleen materias tóxicas.</td>
+<td>Tintura de hilos y tejidos con sustancias tóxicas.</td>
+<td>Peligro de intoxicación.</td>
+<td>Talleres donde se empleen materias tóxicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tostado y chamuscado de tejidos.</td>
-<td class="cuerpo_tabla_izq">Polvos y humos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan libremente los productos de la combustión.</td>
+<td>Tostado y chamuscado de tejidos.</td>
+<td>Polvos y humos nocivos.</td>
+<td>Talleres en que se desprendan libremente los productos de la combustión.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias de la confección, vestido y tocado</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sombreros de fieltros (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">En los talleres donde se desprendan libremente polvos.</td>
+<td>Sombreros de fieltros (Fabricación).</td>
+<td>Polvos nocivos.</td>
+<td>En los talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sombreros de seda y otras materias (Fabricación, empleando barnices).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos y peligro de incendio.</td>
-<td class="cuerpo_tabla_izq">En los talleres de preparación y aplicación de los barnices.</td>
+<td>Sombreros de seda y otras materias (Fabricación, empleando barnices).</td>
+<td>Vapores nocivos y peligro de incendio.</td>
+<td>En los talleres de preparación y aplicación de los barnices.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XIII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias de cueros y pieles</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuero barnizado (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Peligro de incendio y vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Preparación y empleo de los barnices.</td>
+<td>Cuero barnizado (Fabricación).</td>
+<td>Peligro de incendio y vapores nocivos.</td>
+<td>Preparación y empleo de los barnices.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Curtidos (Fabricación).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos y trabajos insalubres.</td>
-<td class="cuerpo_tabla_izq">En los talleres donde se desprendan libremente polvos y en la sección de ribera, excepto peletería fina.</td>
+<td>Curtidos (Fabricación).</td>
+<td>Polvos nocivos y trabajos insalubres.</td>
+<td>En los talleres donde se desprendan libremente polvos y en la sección de ribera, excepto peletería fina.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Materias curtientes (Molinos de).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">En los talleres donde se desprendan libremente polvos.</td>
+<td>Materias curtientes (Molinos de).</td>
+<td>Idem íd.</td>
+<td>En los talleres donde se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pieles (Trabajo por medio de las sales de mercurio).</td>
-<td class="cuerpo_tabla_izq">Intoxicación y polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Pieles (Trabajo por medio de las sales de mercurio).</td>
+<td>Intoxicación y polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pieles, telas y desechos de lana (Desengrasado por aceites, petróleo y otros hidrocarburos).</td>
-<td class="cuerpo_tabla_izq">Peligro de incendio y polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se emplee los disolventes y aquellos en que se escojan, cortan y manipulan los desechos.</td>
+<td>Pieles, telas y desechos de lana (Desengrasado por aceites, petróleo y otros hidrocarburos).</td>
+<td>Peligro de incendio y polvos nocivos.</td>
+<td>Talleres en que se emplee los disolventes y aquellos en que se escojan, cortan y manipulan los desechos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pieles (Lustrado y apresto).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">En los talleres donde se desprendan libre los polvos.</td>
+<td>Pieles (Lustrado y apresto).</td>
+<td>Polvos nocivos.</td>
+<td>En los talleres donde se desprendan libre los polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pieles de conejos, liebres, etc. (Depilado y corte de los pelos).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Pieles de conejos, liebres, etc. (Depilado y corte de los pelos).</td>
+<td>Idem íd.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pieles de conejo y liebre (Segregado con sales de mercurio).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos y venenosos.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
+<td>Pieles de conejo y liebre (Segregado con sales de mercurio).</td>
+<td>Polvos nocivos y venenosos.</td>
+<td>Idem íd.</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XIV</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industrias de la alimentación, bebidas y tabacos</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Azúcar (Fábricas).</td>
-<td class="cuerpo_tabla_izq">Trabajos insalubres.</td>
-<td class="cuerpo_tabla_izq">Trabajos de lavado de remolacha y filtros prensas.</td>
+<td>Azúcar (Fábricas).</td>
+<td>Trabajos insalubres.</td>
+<td>Trabajos de lavado de remolacha y filtros prensas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cajas metálicas para conservas (Fabricación de las).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_izq">En los talleres de soldadura en que se desprendan libremente polvos.</td>
+<td>Cajas metálicas para conservas (Fabricación de las).</td>
+<td>Vapores tóxicos.</td>
+<td>En los talleres de soldadura en que se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cámaras frigoríficas o congeladores y análogas.</td>
-<td class="cuerpo_tabla_izq">Baja temperatura.</td>
-<td class="cuerpo_tabla_izq">Entrada y permanencia en las cámaras.</td>
+<td>Cámaras frigoríficas o congeladores y análogas.</td>
+<td>Baja temperatura.</td>
+<td>Entrada y permanencia en las cámaras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Licores espirituosos (Fabricación por destilación).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">En los locales en que se practique la destilación.</td>
+<td>Licores espirituosos (Fabricación por destilación).</td>
+<td>Vapores nocivos.</td>
+<td>En los locales en que se practique la destilación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tabacos (Manufacturas de). (Apertura de las balas o fardos, elección de las hojas en seco, fermentación y separación de los residuos de esta operación, secado en talleres cerrados, quebrantado y tamizado).</td>
-<td class="cuerpo_tabla_izq">Polvo y emanaciones nocivas.</td>
-<td class="cuerpo_tabla_izq">En los talleres donde se desprendan libremente.</td>
+<td>Tabacos (Manufacturas de). (Apertura de las balas o fardos, elección de las hojas en seco, fermentación y separación de los residuos de esta operación, secado en talleres cerrados, quebrantado y tamizado).</td>
+<td>Polvo y emanaciones nocivas.</td>
+<td>En los talleres donde se desprendan libremente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hornos, hornillos y calderas en los obradores de panadería, churrería, confitería, fabricación de pastas, elaboración del café y similares.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Hornos, hornillos y calderas en los obradores de panadería, churrería, confitería, fabricación de pastas, elaboración del café y similares.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cámaras de fermentación, bodegas y análogas.</td>
-<td class="cuerpo_tabla_izq">Emanaciones nocivas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cámaras de fermentación, bodegas y análogas.</td>
+<td>Emanaciones nocivas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XV</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Industria del papel y cartón</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Papel (Blanqueo del).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Papel (Blanqueo del).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Papel (Fabricación del).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Estancia y trabajo en los talleres de selección y preparación de los trapos.</td>
+<td>Papel (Fabricación del).</td>
+<td>Polvos nocivos.</td>
+<td>Estancia y trabajo en los talleres de selección y preparación de los trapos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Papel pintado.</td>
-<td class="cuerpo_tabla_izq">Peligro intoxicación.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se empleen materias tóxicas.</td>
+<td>Papel pintado.</td>
+<td>Peligro intoxicación.</td>
+<td>Talleres en que se empleen materias tóxicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prensado y recorte.</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Prensado y recorte.</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XVI</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Artes gráficas</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cromolitografía.</td>
-<td class="cuerpo_tabla_izq">Polvos y emanaciones nocivas.</td>
-<td class="cuerpo_tabla_izq">Estancia y trabajo en los talleres de bronceado a máquina.</td>
+<td>Cromolitografía.</td>
+<td>Polvos y emanaciones nocivas.</td>
+<td>Estancia y trabajo en los talleres de bronceado a máquina.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caracteres (Fundición y pulido de).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Caracteres (Fundición y pulido de).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Composición tipográfica a mano o a máquina.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Composición tipográfica a mano o a máquina.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estereotipia.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Estereotipia.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fotograbado.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fotograbado.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajos o manipulaciones con plomo, cobre, anilinas, benzol, xilol y demás disolventes.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Trabajos o manipulaciones con plomo, cobre, anilinas, benzol, xilol y demás disolventes.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XVII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Agua, gas y electricidad</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Electricidad (Empresas de producción, transformación y distribución).</td>
-<td class="cuerpo_tabla_izq">Trabajos peligrosos.</td>
-<td class="cuerpo_tabla_izq">Manejo, limpieza y entretenimiento de los cuadros de distribución, cuidado de las baterías y acumuladores y en general, todas las operaciones relacionadas con la toma e interrupción de corrientes y el servicio de los aparatos y líneas que distribuyen y sirven el flúido.</td>
+<td>Electricidad (Empresas de producción, transformación y distribución).</td>
+<td>Trabajos peligrosos.</td>
+<td>Manejo, limpieza y entretenimiento de los cuadros de distribución, cuidado de las baterías y acumuladores y en general, todas las operaciones relacionadas con la toma e interrupción de corrientes y el servicio de los aparatos y líneas que distribuyen y sirven el flúido.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gas (Fabricación y distribución).</td>
-<td class="cuerpo_tabla_izq">Trabajos peligrosos y penosos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Gas (Fabricación y distribución).</td>
+<td>Trabajos peligrosos y penosos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XVIII</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Servicios de transportes y comunicaciones</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículos de tracción animal (Conducción de).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Vehículos de tracción animal (Conducción de).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículos de tracción mecánica (Conducción de).</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Vehículos de tracción mecánica (Conducción de).</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Enganche y desenganche de vagones.</td>
-<td class="cuerpo_tabla_izq">Idem íd.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Enganche y desenganche de vagones.</td>
+<td>Idem íd.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XXI</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Servicios de higiene y limpieza</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Basuras (Manejo y selección).</td>
-<td class="cuerpo_tabla_izq">Peligro infección. Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Basuras (Manejo y selección).</td>
+<td>Peligro infección. Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Desinfección, desinfectación y desratización con productos tóxicos.</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Desinfección, desinfectación y desratización con productos tóxicos.</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fosas sépticas (Limpieza y vaciado de).</td>
-<td class="cuerpo_tabla_izq">Gases y vapores nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Fosas sépticas (Limpieza y vaciado de).</td>
+<td>Gases y vapores nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lavaderos de ropa.</td>
-<td class="cuerpo_tabla_izq">Peligro de enfermedades contagiosas.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Lavaderos de ropa.</td>
+<td>Peligro de enfermedades contagiosas.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tapices y alfombras (Limpieza y vareo en grande).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Tapices y alfombras (Limpieza y vareo en grande).</td>
+<td>Polvos nocivos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>GRUPO XXIV</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <strong>Otras industrias, trabajos y servicios</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>A</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>B</strong>
 </p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <strong>C</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ascensores, montacargas y aparatos mecánicos de elevación (Manejo de).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Ascensores, montacargas y aparatos mecánicos de elevación (Manejo de).</td>
+<td>Peligro accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Barnizado y pintura por pulverización o con productos que contengan sustancias tóxicas.</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Barnizado y pintura por pulverización o con productos que contengan sustancias tóxicas.</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuernos, huesos y nácar (Trabajos en seco).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres de afino y trabajos de pulimentación.</td>
+<td>Cuernos, huesos y nácar (Trabajos en seco).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres de afino y trabajos de pulimentación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fieras (Colecciones y parques zoológicos).</td>
-<td class="cuerpo_tabla_izq">Peligro accidentes.</td>
-<td class="cuerpo_tabla_izq">Cuando tengan animales feroces o venenosos.</td>
+<td>Fieras (Colecciones y parques zoológicos).</td>
+<td>Peligro accidentes.</td>
+<td>Cuando tengan animales feroces o venenosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fósforos para alumbrado (Fabricación de).</td>
-<td class="cuerpo_tabla_izq">Peligro explosión e incendio.</td>
-<td class="cuerpo_tabla_izq">Operaciones de encabezado y departamento de preparación de la masa de ignición.</td>
+<td>Fósforos para alumbrado (Fabricación de).</td>
+<td>Peligro explosión e incendio.</td>
+<td>Operaciones de encabezado y departamento de preparación de la masa de ignición.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Huesos y sustancias córneas (Selección y manejo).</td>
-<td class="cuerpo_tabla_izq">Peligro de infección. Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Locales en que están depositados los huesos y donde se efectúe el escogido.</td>
+<td>Huesos y sustancias córneas (Selección y manejo).</td>
+<td>Peligro de infección. Polvos nocivos.</td>
+<td>Locales en que están depositados los huesos y donde se efectúe el escogido.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pompas fúnebres.</td>
-<td class="cuerpo_tabla_izq">Trabajo penoso.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Pompas fúnebres.</td>
+<td>Trabajo penoso.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pintura y decorado a base de plomo, arsénico u otras materias tóxicas.</td>
-<td class="cuerpo_tabla_izq">Polvos y vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Pintura y decorado a base de plomo, arsénico u otras materias tóxicas.</td>
+<td>Polvos y vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rayos X y radiaciones de sustancias radioactivas (Exposición a los).</td>
-<td class="cuerpo_tabla_izq">Peligro de accidentes.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Rayos X y radiaciones de sustancias radioactivas (Exposición a los).</td>
+<td>Peligro de accidentes.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Refrigeración, aparatos productores de frío a base de anhídrido sulfuroso, amoníaco, cloruro de metilo y otros agentes tóxicos (Manejo de).</td>
-<td class="cuerpo_tabla_izq">Vapores tóxicos.</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Refrigeración, aparatos productores de frío a base de anhídrido sulfuroso, amoníaco, cloruro de metilo y otros agentes tóxicos (Manejo de).</td>
+<td>Vapores tóxicos.</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tintorerías y quitamanchas.</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se utilicen materias tóxicas.</td>
+<td>Tintorerías y quitamanchas.</td>
+<td>Vapores nocivos.</td>
+<td>Talleres en que se utilicen materias tóxicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trapos y desechos de papel (Selección y manejo).</td>
-<td class="cuerpo_tabla_izq">Polvos nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan libremente polvos.</td>
+<td>Trapos y desechos de papel (Selección y manejo).</td>
+<td>Polvos nocivos.</td>
+<td>Talleres en que se desprendan libremente polvos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trapos (Tratamiento por ácido clorhídrico).</td>
-<td class="cuerpo_tabla_izq">Vapores nocivos.</td>
-<td class="cuerpo_tabla_izq">Talleres en que se desprendan vapores ácidos.</td>
+<td>Trapos (Tratamiento por ácido clorhídrico).</td>
+<td>Vapores nocivos.</td>
+<td>Talleres en que se desprendan vapores ácidos.</td>
 </tr>
 </tbody>
 </table>

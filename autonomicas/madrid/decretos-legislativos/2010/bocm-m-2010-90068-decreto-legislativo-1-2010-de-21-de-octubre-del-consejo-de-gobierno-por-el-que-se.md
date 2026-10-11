@@ -1078,80 +1078,80 @@ La tarifa prevista en el artículo 21.1 de la Ley 29/1987, de 18 de diciembre, d
 
 1\. La cuota tributaria prevista en el artículo 22.1 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador en función de la cuantía del patrimonio preexistente y de los grupos de parentesco siguientes:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Patrimonio Preexistente en euros</p>
+<p>Patrimonio Preexistente en euros</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Grupos del artículo 20</p>
+<p>Grupos del artículo 20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">I y II</p>
+<p>I y II</p>
 </td>
 <td>
-<p class="cabeza_tabla">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cabeza_tabla">IV</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 403.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5882</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>IV</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De más de 403.000 a 2.008.000</p>
+<p>De 0 a 403.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,05</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6676</p>
+<p>1,5882</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De más de 2.008.000 a 4.021.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,7471</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,2</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De más de 4.021.000</p>
+<p>De más de 403.000 a 2.008.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9059</p>
+<p>1,6676</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,4</p>
+<p>2,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De más de 2.008.000 a 4.021.000</p>
+</td>
+<td>
+<p>1,10</p>
+</td>
+<td>
+<p>1,7471</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De más de 4.021.000</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td>
+<p>1,9059</p>
+</td>
+<td>
+<p>2,4</p>
 </td>
 </tr>
 </table>

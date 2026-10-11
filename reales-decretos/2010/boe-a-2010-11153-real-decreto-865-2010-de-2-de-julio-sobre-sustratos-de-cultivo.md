@@ -766,767 +766,767 @@ Los márgenes de tolerancia son los incluidos en la tabla del presente anexo. En
 
 Materiales relacionados en la lista europea de residuos. Decisión 2001/118/CE de 16 de enero de 2001
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">02</p>
+<p>02</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos de la agricultura, horticultura, acuicultura, silvicultura, caza y pesca; residuos de la preparación y elaboración de alimentos.</p>
+<p>Residuos de la agricultura, horticultura, acuicultura, silvicultura, caza y pesca; residuos de la preparación y elaboración de alimentos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 01</p>
+<p>02 01</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la agricultura, horticultura, acuicultura, silvicultura, caza y pesca.</p>
+<p>Residuos de la agricultura, horticultura, acuicultura, silvicultura, caza y pesca.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 01 02</p>
+<p>02 01 02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de tejidos animales (salvo lo exceptuado en el Reglamento 1774/2002).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 01 03</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de tejidos vegetales.</p>
+<p>Residuos de tejidos animales (salvo lo exceptuado en el Reglamento 1774/2002).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 01 06</p>
+<p>02 01 03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Deyecciones de animales, estiércoles y efluentes recogidos selectivamente y tratados fuera del lugar donde se generan.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 01 07</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de la silvicultura.</p>
+<p>Residuos de tejidos vegetales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 02</p>
+<p> </p>
+</td>
+<td>
+<p>02 01 06</p>
+</td>
+<td>
+<p>Deyecciones de animales, estiércoles y efluentes recogidos selectivamente y tratados fuera del lugar donde se generan.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 01 07</p>
+</td>
+<td>
+<p>Residuos de la silvicultura.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 02</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la preparación y elaboración de carne, pescado y otros alimentos de origen animal (salvo lo exceptuado en el Reglamento 1774/2002).</p>
+<p>Residuos de la preparación y elaboración de carne, pescado y otros alimentos de origen animal (salvo lo exceptuado en el Reglamento 1774/2002).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 02 02</p>
+<p>02 02 02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de tejidos de animales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 02 03</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Materiales inadecuados para el consumo o la elaboración.</p>
+<p>Residuos de tejidos de animales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 02 04</p>
+<p>02 02 03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes.</p>
+<p>Materiales inadecuados para el consumo o la elaboración.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 03</p>
+<p> </p>
+</td>
+<td>
+<p>02 02 04</p>
+</td>
+<td>
+<p>Lodos de tratamiento «in situ» de efluentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 03</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la preparación y elaboración de frutas, hortalizas, cereales, aceites comestibles, cacao, café, té y tabaco; producción de conservas; producción de levadura y extracto de levadura, preparación y fermentación de melazas.</p>
+<p>Residuos de la preparación y elaboración de frutas, hortalizas, cereales, aceites comestibles, cacao, café, té y tabaco; producción de conservas; producción de levadura y extracto de levadura, preparación y fermentación de melazas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 03 04</p>
+<p>02 03 04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales inadecuados para el consumo o la elaboración.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 03 05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes.</p>
+<p>Materiales inadecuados para el consumo o la elaboración.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 04</p>
+<p> </p>
+</td>
+<td>
+<p>02 03 05</p>
+</td>
+<td>
+<p>Lodos de tratamiento «in situ» de efluentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 04</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la elaboración de azúcar.</p>
+<p>Residuos de la elaboración de azúcar.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 04 03</p>
+<p>02 04 03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes.</p>
+<p>Lodos de tratamiento «in situ» de efluentes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 05</p>
+<p>02 05</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la industria de productos lácteos.</p>
+<p>Residuos de la industria de productos lácteos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 05 01</p>
+<p>02 05 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales inadecuados para el consumo o la elaboración.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 05 02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes.</p>
+<p>Materiales inadecuados para el consumo o la elaboración.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 06</p>
+<p> </p>
+</td>
+<td>
+<p>02 05 02</p>
+</td>
+<td>
+<p>Lodos de tratamiento «in situ» de efluentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 06</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la industria de panadería y pastelería.</p>
+<p>Residuos de la industria de panadería y pastelería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 06 01</p>
+<p>02 06 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales inadecuados para el consumo o la elaboración.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 06 03</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes.</p>
+<p>Materiales inadecuados para el consumo o la elaboración.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 07</p>
+<p> </p>
+</td>
+<td>
+<p>02 06 03</p>
+</td>
+<td>
+<p>Lodos de tratamiento «in situ» de efluentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 07</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la producción de bebidas alcohólicas y no alcohólicas (excepto café, té y cacao).</p>
+<p>Residuos de la producción de bebidas alcohólicas y no alcohólicas (excepto café, té y cacao).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 07 01</p>
+<p>02 07 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de lavado, limpieza y separación mecánica de materias primas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 07 02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos de la destilación de alcoholes.</p>
+<p>Residuos de lavado, limpieza y separación mecánica de materias primas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">02 07 04</p>
+<p>02 07 02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materiales inadecuados para el consumo o la elaboración.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">02 07 05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes.</p>
+<p>Residuos de la destilación de alcoholes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">03</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 07 04</p>
+</td>
+<td>
+<p>Materiales inadecuados para el consumo o la elaboración.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>02 07 05</p>
+</td>
+<td>
+<p>Lodos de tratamiento «in situ» de efluentes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>03</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos de la transformación de la madera y de la producción de tableros y muebles, pasta de papel, papel y cartón.</p>
+<p>Residuos de la transformación de la madera y de la producción de tableros y muebles, pasta de papel, papel y cartón.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">03 01</p>
+<p>03 01</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la transformación de la madera y de la producción de tableros y muebles.</p>
+<p>Residuos de la transformación de la madera y de la producción de tableros y muebles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">03 01 01</p>
+<p>03 01 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de corteza y corcho.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">03 01 05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Serrín, virutas, recortes, madera, tableros de partículas y chapas que no contienen sustancias peligrosas y sus cenizas.</p>
+<p>Residuos de corteza y corcho.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">03 03</p>
+<p> </p>
+</td>
+<td>
+<p>03 01 05</p>
+</td>
+<td>
+<p>Serrín, virutas, recortes, madera, tableros de partículas y chapas que no contienen sustancias peligrosas y sus cenizas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>03 03</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la producción y transformación de pasta de papel, papel y cartón.</p>
+<p>Residuos de la producción y transformación de pasta de papel, papel y cartón.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">03 03 01</p>
+<p>03 03 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de corteza y madera.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">03 03 08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Residuos procedentes de la clasificación de papel y cartón destinados al reciclado.</p>
+<p>Residuos de corteza y madera.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">03 03 10</p>
+<p>03 03 08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desechos de fibras y lodos de fibras, de materiales de carga y de estucado, obtenidos por separación mecánica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">03 03 11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes, distintos de los especificados en el código 03 03 10.</p>
+<p>Residuos procedentes de la clasificación de papel y cartón destinados al reciclado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">04</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>03 03 10</p>
+</td>
+<td>
+<p>Desechos de fibras y lodos de fibras, de materiales de carga y de estucado, obtenidos por separación mecánica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>03 03 11</p>
+</td>
+<td>
+<p>Lodos de tratamiento «in situ» de efluentes, distintos de los especificados en el código 03 03 10.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>04</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos de las industrias del cuero, de la piel y textil.</p>
+<p>Residuos de las industrias del cuero, de la piel y textil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">04 01</p>
+<p>04 01</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de las industrias del cuero y de la piel.</p>
+<p>Residuos de las industrias del cuero y de la piel.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">04 01 01</p>
+<p>04 01 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Carnazas y serrajes del encalado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">04 01 07</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos, en particular los procedentes del tratamiento «in situ» de efluentes, que no contienen cromo.</p>
+<p>Carnazas y serrajes del encalado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">04 01 99</p>
+<p>04 01 07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos no especificados en otra categoría: residuos del curtido de la piel (virutas), que no contienen cromo.</p>
+<p>Lodos, en particular los procedentes del tratamiento «in situ» de efluentes, que no contienen cromo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">04 02</p>
+<p> </p>
+</td>
+<td>
+<p>04 01 99</p>
+</td>
+<td>
+<p>Residuos no especificados en otra categoría: residuos del curtido de la piel (virutas), que no contienen cromo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>04 02</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de la industria textil.</p>
+<p>Residuos de la industria textil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">04 02 10</p>
+<p>04 02 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Materia orgánica de productos naturales (por ejemplo grasa, cera).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">04 02 20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lodos de tratamiento «in situ» de efluentes que no contienen sustancias peligrosas.</p>
+<p>Materia orgánica de productos naturales (por ejemplo grasa, cera).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">04 02 21</p>
+<p>04 02 20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de fibras textiles no procesadas.</p>
+<p>Lodos de tratamiento «in situ» de efluentes que no contienen sustancias peligrosas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">19</p>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>04 02 21</p>
+</td>
+<td>
+<p>Residuos de fibras textiles no procesadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos de las instalaciones para el tratamiento de residuos.</p>
+<p>Residuos de las instalaciones para el tratamiento de residuos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">19 05</p>
+<p>19 05</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos del tratamiento aeróbico de residuos sólidos.</p>
+<p>Residuos del tratamiento aeróbico de residuos sólidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">19 05 01</p>
+<p>19 05 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fracción no compostada de residuos municipales y asimilados.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">19 05 02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Fracción no compostada de residuos de procedencia animal (salvo lo exceptuado en el Reglamento 1774/2002) o vegetal.</p>
+<p>Fracción no compostada de residuos municipales y asimilados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">19 08</p>
+<p> </p>
+</td>
+<td>
+<p>19 05 02</p>
+</td>
+<td>
+<p>Fracción no compostada de residuos de procedencia animal (salvo lo exceptuado en el Reglamento 1774/2002) o vegetal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>19 08</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de plantas de tratamiento de aguas residuales no especificadas en otra categoría.</p>
+<p>Residuos de plantas de tratamiento de aguas residuales no especificadas en otra categoría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">19 08 05</p>
+<p>19 08 05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lodos del tratamiento de aguas residuales urbanas.</p>
+<p>Lodos del tratamiento de aguas residuales urbanas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20</p>
+<p>20</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Residuos municipales (residuos domésticos y residuos asimilables procedentes de los comercios, industrias e instituciones), incluidas las fracciones recogidas selectivamente.</p>
+<p>Residuos municipales (residuos domésticos y residuos asimilables procedentes de los comercios, industrias e instituciones), incluidas las fracciones recogidas selectivamente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 01</p>
+<p>20 01</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Fracciones recogidas selectivamente.</p>
+<p>Fracciones recogidas selectivamente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 01 08</p>
+<p>20 01 08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos biodegradables de cocinas y restaurantes.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">20 01 25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Aceites y grasas comestibles.</p>
+<p>Residuos biodegradables de cocinas y restaurantes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 01 38</p>
+<p>20 01 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Madera que no contiene sustancias peligrosas.</p>
+<p>Aceites y grasas comestibles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 02</p>
+<p> </p>
+</td>
+<td>
+<p>20 01 38</p>
+</td>
+<td>
+<p>Madera que no contiene sustancias peligrosas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>20 02</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos de parques y jardines.</p>
+<p>Residuos de parques y jardines.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 02 01</p>
+<p>20 02 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos biodegradables.</p>
+<p>Residuos biodegradables.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 03</p>
+<p>20 03</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Otros residuos municipales.</p>
+<p>Otros residuos municipales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 03 01</p>
+<p>20 03 01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fracción orgánica de residuos municipales no recogida separadamente.</p>
+<p>Fracción orgánica de residuos municipales no recogida separadamente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20 03 02</p>
+<p>20 03 02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos de mercados de origen vegetal y animal.</p>
+<p>Residuos de mercados de origen vegetal y animal.</p>
 </td>
 </tr>
 </table>
@@ -1551,111 +1551,111 @@ b) En los sustratos de cultivo de origen orgánico, se acreditará que no supera
 
 Se garantizará que en todos los sustratos no se superan los contenidos de metales pesados indicado en el cuadro siguiente, según sea su clase A o B:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Metal pesado</p>
+<p>Metal pesado</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Límites de concentración</p>
-<p class="cabeza_tabla">mg/kg de materia seca</p>
+<p>Límites de concentración</p>
+<p>mg/kg de materia seca</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Clase A</p>
+<p>Clase A</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase B</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cadmio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
+<p>Clase B</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cobre*</p>
+<p>Cadmio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70</p>
+<p>0,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Níquel*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Plomo</p>
+<p>Cobre*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45</p>
+<p>70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Zinc</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500</p>
+<p>300</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mercurio</p>
+<p>Níquel*</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,4</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cromo (total)*</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">250</p>
+<p>90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cromo (VI)</p>
+<p>Plomo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,5</p>
+<p>45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,5</p>
+<p>150</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zinc</p>
+</td>
+<td>
+<p>200</p>
+</td>
+<td>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mercurio</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cromo (total)*</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cromo (VI)</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,5</p>
 </td>
 </tr>
 </tbody>

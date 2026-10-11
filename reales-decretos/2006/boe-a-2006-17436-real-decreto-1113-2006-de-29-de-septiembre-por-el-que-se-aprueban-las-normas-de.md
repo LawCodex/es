@@ -108,74 +108,74 @@ Los quesos elaborados con mezcla de leche de dos o más especies, deberán inclu
 
 La palabra madurado podrá sustituirse por los calificativos según el grado de maduración alcanzado por el producto a la salida de fábrica que figuran en el siguiente cuadro:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Denominaciones facultativas</p>
+<p>Denominaciones facultativas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Peso &gt; 1,5 kg</p>
+<p>Peso &gt; 1,5 kg</p>
 </td>
 <td>
-<p class="cabeza_tabla">Peso ≤ 1,5 kg</p>
+<p>Peso ≤ 1,5 kg</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Maduración mínima en días</p>
+<p>Maduración mínima en días</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Tierno</p>
+<p>Tierno</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Semicurado</p>
+<p>Semicurado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Curado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">105</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Viejo</p>
+<p>Curado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180</p>
+<p>105</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Añejo</p>
+<p>Viejo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">270</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Añejo</p>
+</td>
+<td>
+<p>270</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>

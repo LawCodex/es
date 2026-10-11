@@ -3032,60 +3032,55 @@ En caso de que las actividades de mantenimiento se hubieran efectuado con medios
 
 A los efectos de las ayudas asociadas ganaderas, de otros pagos directos y de las situaciones de riesgo de incumplimiento de los requisitos de actividad agraria establecidos en el artículo 12 de este real decreto comunes a las superficies agrarias por las que se solicita ayuda, se aplica la siguiente tabla de conversión a Unidades de Ganado Mayor (UGM)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Bovinos.</td>
-<td class="cuerpo_tabla_izq">De menos de 1 año.</td>
-<td class="cuerpo_tabla_coma">0,400</td>
+<td rowspan="6">Bovinos.</td>
+<td>De menos de 1 año.</td>
+<td>0,400</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De un año a menos de dos años.</td>
-<td class="cuerpo_tabla_coma">0,700</td>
+<td>De un año a menos de dos años.</td>
+<td>0,700</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Machos, de dos años o más.</td>
-<td class="cuerpo_tabla_coma">1,000</td>
+<td>Machos, de dos años o más.</td>
+<td>1,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Novillas, de dos años o más.</td>
-<td class="cuerpo_tabla_coma">0,800</td>
+<td>Novillas, de dos años o más.</td>
+<td>0,800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vacas de aptitud láctea, de dos años o más.</td>
-<td class="cuerpo_tabla_coma">1,000</td>
+<td>Vacas de aptitud láctea, de dos años o más.</td>
+<td>1,000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otras vacas, de dos años o más.</td>
-<td class="cuerpo_tabla_coma">0,800</td>
+<td>Otras vacas, de dos años o más.</td>
+<td>0,800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ovinos y caprinos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma">0,100</td>
+<td>Ovinos y caprinos.</td>
+<td> </td>
+<td>0,100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Equinos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma">0,800</td>
+<td>Equinos.</td>
+<td> </td>
+<td>0,800</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Porcinos.</td>
-<td class="cuerpo_tabla_izq">Lechones&gt;20 Kg de peso vivo.</td>
-<td class="cuerpo_tabla_coma">0,027</td>
+<td rowspan="3">Porcinos.</td>
+<td>Lechones&gt;20 Kg de peso vivo.</td>
+<td>0,027</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cerdas de cría&gt;50 Kg.</td>
-<td class="cuerpo_tabla_coma">0,500</td>
+<td>Cerdas de cría&gt;50 Kg.</td>
+<td>0,500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros cerdos.</td>
-<td class="cuerpo_tabla_coma">0,300</td>
+<td>Otros cerdos.</td>
+<td>0,300</td>
 </tr>
 </tbody>
 </table>
@@ -3324,470 +3319,461 @@ V. Información y documentación adicional
 
 Intervenciones de pagos directos
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="16%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-<col width="14%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ejercicio Financiero</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
-<th class="cabeza_tabla">2028</th>
-<th class="cabeza_tabla" rowspan="2"> </th>
+<th>Ejercicio Financiero</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
+<th>2028</th>
+<th rowspan="2"> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Campaña</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th>Campaña</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Ayuda Básica a la Renta para la Sostenibilidad</th>
-<th class="cabeza_tabla">Asignación Financiera (€)</th>
-<th class="cabeza_tabla">Asignación Financiera (€)</th>
-<th class="cabeza_tabla">Asignación Financiera (€)</th>
-<th class="cabeza_tabla">Asignación Financiera (€)</th>
-<th class="cabeza_tabla">Asignación Financiera (€)</th>
-<th class="cabeza_tabla">Asignación Financiera Total 2023-2027 (€)</th>
+<th>Ayuda Básica a la Renta para la Sostenibilidad</th>
+<th>Asignación Financiera (€)</th>
+<th>Asignación Financiera (€)</th>
+<th>Asignación Financiera (€)</th>
+<th>Asignación Financiera (€)</th>
+<th>Asignación Financiera (€)</th>
+<th>Asignación Financiera Total 2023-2027 (€)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Region 1.</td>
-<td class="cuerpo_tabla_coma">366.680.383,45</td>
-<td class="cuerpo_tabla_coma">367.368.785,34</td>
-<td class="cuerpo_tabla_coma">368.055.407,68</td>
-<td class="cuerpo_tabla_coma">368.752.896,80</td>
-<td class="cuerpo_tabla_coma">368.752.896,80</td>
-<td class="cuerpo_tabla_coma">1.839.610.370,07</td>
+<td>Region 1.</td>
+<td>366.680.383,45</td>
+<td>367.368.785,34</td>
+<td>368.055.407,68</td>
+<td>368.752.896,80</td>
+<td>368.752.896,80</td>
+<td>1.839.610.370,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 2.</td>
-<td class="cuerpo_tabla_coma">192.510.190,90</td>
-<td class="cuerpo_tabla_coma">192.884.808,95</td>
-<td class="cuerpo_tabla_coma">193.239.710,26</td>
-<td class="cuerpo_tabla_coma">193.594.611,58</td>
-<td class="cuerpo_tabla_coma">193.594.611,58</td>
-<td class="cuerpo_tabla_coma">965.823.933,27</td>
+<td>Region 2.</td>
+<td>192.510.190,90</td>
+<td>192.884.808,95</td>
+<td>193.239.710,26</td>
+<td>193.594.611,58</td>
+<td>193.594.611,58</td>
+<td>965.823.933,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 3.</td>
-<td class="cuerpo_tabla_coma">224.765.436,57</td>
-<td class="cuerpo_tabla_coma">225.180.879,51</td>
-<td class="cuerpo_tabla_coma">225.596.322,44</td>
-<td class="cuerpo_tabla_coma">226.029.075,49</td>
-<td class="cuerpo_tabla_coma">226.029.075,49</td>
-<td class="cuerpo_tabla_coma">1.127.600.789,50</td>
+<td>Region 3.</td>
+<td>224.765.436,57</td>
+<td>225.180.879,51</td>
+<td>225.596.322,44</td>
+<td>226.029.075,49</td>
+<td>226.029.075,49</td>
+<td>1.127.600.789,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 4.</td>
-<td class="cuerpo_tabla_coma">89.919.120,58</td>
-<td class="cuerpo_tabla_coma">90.086.283,05</td>
-<td class="cuerpo_tabla_coma">90.167.963,42</td>
-<td class="cuerpo_tabla_coma">90.425.125,89</td>
-<td class="cuerpo_tabla_coma">90.425.125,89</td>
-<td class="cuerpo_tabla_coma">451.023.618,83</td>
+<td>Region 4.</td>
+<td>89.919.120,58</td>
+<td>90.086.283,05</td>
+<td>90.167.963,42</td>
+<td>90.425.125,89</td>
+<td>90.425.125,89</td>
+<td>451.023.618,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 5.</td>
-<td class="cuerpo_tabla_coma">1.570.973,09</td>
-<td class="cuerpo_tabla_coma">1.574.085,65</td>
-<td class="cuerpo_tabla_coma">1.577.198,21</td>
-<td class="cuerpo_tabla_coma">1.580.259,74</td>
-<td class="cuerpo_tabla_coma">1.580.259,74</td>
-<td class="cuerpo_tabla_coma">7.882.776,43</td>
+<td>Region 5.</td>
+<td>1.570.973,09</td>
+<td>1.574.085,65</td>
+<td>1.577.198,21</td>
+<td>1.580.259,74</td>
+<td>1.580.259,74</td>
+<td>7.882.776,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 6.</td>
-<td class="cuerpo_tabla_coma">55.765.669,46</td>
-<td class="cuerpo_tabla_coma">55.875.187,09</td>
-<td class="cuerpo_tabla_coma">55.984.704,71</td>
-<td class="cuerpo_tabla_coma">56.097.755,17</td>
-<td class="cuerpo_tabla_coma">56.097.755,17</td>
-<td class="cuerpo_tabla_coma">279.821.071,60</td>
+<td>Region 6.</td>
+<td>55.765.669,46</td>
+<td>55.875.187,09</td>
+<td>55.984.704,71</td>
+<td>56.097.755,17</td>
+<td>56.097.755,17</td>
+<td>279.821.071,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 7.</td>
-<td class="cuerpo_tabla_coma">99.941.185,37</td>
-<td class="cuerpo_tabla_coma">100.135.746,49</td>
-<td class="cuerpo_tabla_coma">100.335.171,65</td>
-<td class="cuerpo_tabla_coma">100.529.732,77</td>
-<td class="cuerpo_tabla_coma">100.529.732,77</td>
-<td class="cuerpo_tabla_coma">501.471.569,05</td>
+<td>Region 7.</td>
+<td>99.941.185,37</td>
+<td>100.135.746,49</td>
+<td>100.335.171,65</td>
+<td>100.529.732,77</td>
+<td>100.529.732,77</td>
+<td>501.471.569,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 8.</td>
-<td class="cuerpo_tabla_coma">145.805.452,06</td>
-<td class="cuerpo_tabla_coma">146.089.278,02</td>
-<td class="cuerpo_tabla_coma">146.378.896,35</td>
-<td class="cuerpo_tabla_coma">146.668.514,68</td>
-<td class="cuerpo_tabla_coma">146.668.514,68</td>
-<td class="cuerpo_tabla_coma">731.610.655,79</td>
+<td>Region 8.</td>
+<td>145.805.452,06</td>
+<td>146.089.278,02</td>
+<td>146.378.896,35</td>
+<td>146.668.514,68</td>
+<td>146.668.514,68</td>
+<td>731.610.655,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 9.</td>
-<td class="cuerpo_tabla_coma">167.204.895,63</td>
-<td class="cuerpo_tabla_coma">167.533.392,48</td>
-<td class="cuerpo_tabla_coma">167.865.995,54</td>
-<td class="cuerpo_tabla_coma">168.194.492,39</td>
-<td class="cuerpo_tabla_coma">168.194.492,39</td>
-<td class="cuerpo_tabla_coma">838.993.268,43</td>
+<td>Region 9.</td>
+<td>167.204.895,63</td>
+<td>167.533.392,48</td>
+<td>167.865.995,54</td>
+<td>168.194.492,39</td>
+<td>168.194.492,39</td>
+<td>838.993.268,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 10.</td>
-<td class="cuerpo_tabla_coma">19.089.624,69</td>
-<td class="cuerpo_tabla_coma">19.127.363,80</td>
-<td class="cuerpo_tabla_coma">19.164.947,61</td>
-<td class="cuerpo_tabla_coma">19.202.531,42</td>
-<td class="cuerpo_tabla_coma">19.202.531,42</td>
-<td class="cuerpo_tabla_coma">95.786.998,94</td>
+<td>Region 10.</td>
+<td>19.089.624,69</td>
+<td>19.127.363,80</td>
+<td>19.164.947,61</td>
+<td>19.202.531,42</td>
+<td>19.202.531,42</td>
+<td>95.786.998,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 11.</td>
-<td class="cuerpo_tabla_coma">52.427.436,41</td>
-<td class="cuerpo_tabla_coma">52.533.974,59</td>
-<td class="cuerpo_tabla_coma">52.635.185,85</td>
-<td class="cuerpo_tabla_coma">52.736.397,12</td>
-<td class="cuerpo_tabla_coma">52.736.397,12</td>
-<td class="cuerpo_tabla_coma">263.069.391,09</td>
+<td>Region 11.</td>
+<td>52.427.436,41</td>
+<td>52.533.974,59</td>
+<td>52.635.185,85</td>
+<td>52.736.397,12</td>
+<td>52.736.397,12</td>
+<td>263.069.391,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 12.</td>
-<td class="cuerpo_tabla_coma">261.147.123,85</td>
-<td class="cuerpo_tabla_coma">261.662.025,58</td>
-<td class="cuerpo_tabla_coma">262.176.927,31</td>
-<td class="cuerpo_tabla_coma">262.673.439,69</td>
-<td class="cuerpo_tabla_coma">262.673.439,69</td>
-<td class="cuerpo_tabla_coma">1.310.332.956,12</td>
+<td>Region 12.</td>
+<td>261.147.123,85</td>
+<td>261.662.025,58</td>
+<td>262.176.927,31</td>
+<td>262.673.439,69</td>
+<td>262.673.439,69</td>
+<td>1.310.332.956,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 13.</td>
-<td class="cuerpo_tabla_coma">205.876.849,08</td>
-<td class="cuerpo_tabla_coma">206.280.637,85</td>
-<td class="cuerpo_tabla_coma">206.684.426,61</td>
-<td class="cuerpo_tabla_coma">207.096.132,81</td>
-<td class="cuerpo_tabla_coma">207.096.132,81</td>
-<td class="cuerpo_tabla_coma">1.033.034.179,16</td>
+<td>Region 13.</td>
+<td>205.876.849,08</td>
+<td>206.280.637,85</td>
+<td>206.684.426,61</td>
+<td>207.096.132,81</td>
+<td>207.096.132,81</td>
+<td>1.033.034.179,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 14.</td>
-<td class="cuerpo_tabla_coma">169.880.013,30</td>
-<td class="cuerpo_tabla_coma">170.213.056,95</td>
-<td class="cuerpo_tabla_coma">170.550.726,20</td>
-<td class="cuerpo_tabla_coma">170.883.769,85</td>
-<td class="cuerpo_tabla_coma">170.883.769,85</td>
-<td class="cuerpo_tabla_coma">852.411.336,15</td>
+<td>Region 14.</td>
+<td>169.880.013,30</td>
+<td>170.213.056,95</td>
+<td>170.550.726,20</td>
+<td>170.883.769,85</td>
+<td>170.883.769,85</td>
+<td>852.411.336,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 15.</td>
-<td class="cuerpo_tabla_coma">95.123.225,08</td>
-<td class="cuerpo_tabla_coma">95.309.741,20</td>
-<td class="cuerpo_tabla_coma">95.496.257,33</td>
-<td class="cuerpo_tabla_coma">95.682.773,46</td>
-<td class="cuerpo_tabla_coma">95.682.773,46</td>
-<td class="cuerpo_tabla_coma">477.294.770,53</td>
+<td>Region 15.</td>
+<td>95.123.225,08</td>
+<td>95.309.741,20</td>
+<td>95.496.257,33</td>
+<td>95.682.773,46</td>
+<td>95.682.773,46</td>
+<td>477.294.770,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 16.</td>
-<td class="cuerpo_tabla_coma">160.788.928,73</td>
-<td class="cuerpo_tabla_coma">161.104.112,85</td>
-<td class="cuerpo_tabla_coma">161.419.296,97</td>
-<td class="cuerpo_tabla_coma">161.734.481,09</td>
-<td class="cuerpo_tabla_coma">161.734.481,09</td>
-<td class="cuerpo_tabla_coma">806.781.300,73</td>
+<td>Region 16.</td>
+<td>160.788.928,73</td>
+<td>161.104.112,85</td>
+<td>161.419.296,97</td>
+<td>161.734.481,09</td>
+<td>161.734.481,09</td>
+<td>806.781.300,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 17.</td>
-<td class="cuerpo_tabla_coma">74.998.369,67</td>
-<td class="cuerpo_tabla_coma">75.144.096,61</td>
-<td class="cuerpo_tabla_coma">75.289.823,55</td>
-<td class="cuerpo_tabla_coma">75.435.550,49</td>
-<td class="cuerpo_tabla_coma">75.435.550,49</td>
-<td class="cuerpo_tabla_coma">376.303.390,81</td>
+<td>Region 17.</td>
+<td>74.998.369,67</td>
+<td>75.144.096,61</td>
+<td>75.289.823,55</td>
+<td>75.435.550,49</td>
+<td>75.435.550,49</td>
+<td>376.303.390,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 18.</td>
-<td class="cuerpo_tabla_coma">42.178.170,65</td>
-<td class="cuerpo_tabla_coma">42.261.119,92</td>
-<td class="cuerpo_tabla_coma">42.347.141,39</td>
-<td class="cuerpo_tabla_coma">42.430.090,67</td>
-<td class="cuerpo_tabla_coma">42.430.090,67</td>
-<td class="cuerpo_tabla_coma">211.646.613,30</td>
+<td>Region 18.</td>
+<td>42.178.170,65</td>
+<td>42.261.119,92</td>
+<td>42.347.141,39</td>
+<td>42.430.090,67</td>
+<td>42.430.090,67</td>
+<td>211.646.613,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 19.</td>
-<td class="cuerpo_tabla_coma">5.037.967,94</td>
-<td class="cuerpo_tabla_coma">5.047.912,31</td>
-<td class="cuerpo_tabla_coma">5.057.856,67</td>
-<td class="cuerpo_tabla_coma">5.067.801,04</td>
-<td class="cuerpo_tabla_coma">5.067.801,04</td>
-<td class="cuerpo_tabla_coma">25.279.339,00</td>
+<td>Region 19.</td>
+<td>5.037.967,94</td>
+<td>5.047.912,31</td>
+<td>5.057.856,67</td>
+<td>5.067.801,04</td>
+<td>5.067.801,04</td>
+<td>25.279.339,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Region 20.</td>
-<td class="cuerpo_tabla_coma">21.935.232,20</td>
-<td class="cuerpo_tabla_coma">21.978.510,80</td>
-<td class="cuerpo_tabla_coma">22.021.789,40</td>
-<td class="cuerpo_tabla_coma">22.065.068,00</td>
-<td class="cuerpo_tabla_coma">22.065.068,00</td>
-<td class="cuerpo_tabla_coma">110.065.668,40</td>
+<td>Region 20.</td>
+<td>21.935.232,20</td>
+<td>21.978.510,80</td>
+<td>22.021.789,40</td>
+<td>22.065.068,00</td>
+<td>22.065.068,00</td>
+<td>110.065.668,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe total.</td>
-<td class="cuerpo_tabla_coma">2.452.646.248,71</td>
-<td class="cuerpo_tabla_coma">2.457.390.999,04</td>
-<td class="cuerpo_tabla_coma">2.462.045.749,15</td>
-<td class="cuerpo_tabla_coma">2.466.880.500,15</td>
-<td class="cuerpo_tabla_coma">2.466.880.500,15</td>
-<td class="cuerpo_tabla_coma">12.305.843.997,2</td>
+<td>Importe total.</td>
+<td>2.452.646.248,71</td>
+<td>2.457.390.999,04</td>
+<td>2.462.045.749,15</td>
+<td>2.466.880.500,15</td>
+<td>2.466.880.500,15</td>
+<td>12.305.843.997,2</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ejercicio financiero</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
-<th class="cabeza_tabla">2028</th>
-<th class="cabeza_tabla" rowspan="2"> </th>
+<th>Ejercicio financiero</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
+<th>2028</th>
+<th rowspan="2"> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Campaña</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th>Campaña</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Ayuda Complementaria a la Renta Redistributiva</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Asignación Financiera</p>
-<p class="cabeza_tabla">(€)</p>
+<th>Ayuda Complementaria a la Renta Redistributiva</th>
+<th>
+<p>Asignación Financiera</p>
+<p>(€)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Asignación Financiera</p>
-<p class="cabeza_tabla">(€)</p>
+<th>
+<p>Asignación Financiera</p>
+<p>(€)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Asignación Financiera</p>
-<p class="cabeza_tabla">(€)</p>
+<th>
+<p>Asignación Financiera</p>
+<p>(€)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Asignación Financiera</p>
-<p class="cabeza_tabla">(€)</p>
+<th>
+<p>Asignación Financiera</p>
+<p>(€)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Asignación Financiera</p>
-<p class="cabeza_tabla">(€)</p>
+<th>
+<p>Asignación Financiera</p>
+<p>(€)</p>
 </th>
-<th class="cabeza_tabla">Asignación Financiera Total 2023-2027 (€)</th>
+<th>Asignación Financiera Total 2023-2027 (€)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Región 1.</td>
-<td class="cuerpo_tabla_coma">70.715.073,06</td>
-<td class="cuerpo_tabla_coma">70.807.808,86</td>
-<td class="cuerpo_tabla_coma">70.910.741,53</td>
-<td class="cuerpo_tabla_coma">70.992.679,13</td>
-<td class="cuerpo_tabla_coma">70.992.679,13</td>
-<td class="cuerpo_tabla_coma">354.418.981,70</td>
+<td>Región 1.</td>
+<td>70.715.073,06</td>
+<td>70.807.808,86</td>
+<td>70.910.741,53</td>
+<td>70.992.679,13</td>
+<td>70.992.679,13</td>
+<td>354.418.981,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 2.</td>
-<td class="cuerpo_tabla_coma">36.692.310,13</td>
-<td class="cuerpo_tabla_coma">36.737.625,30</td>
-<td class="cuerpo_tabla_coma">36.782.940,54</td>
-<td class="cuerpo_tabla_coma">36.833.699,54</td>
-<td class="cuerpo_tabla_coma">36.833.699,54</td>
-<td class="cuerpo_tabla_coma">183.880.275,05</td>
+<td>Región 2.</td>
+<td>36.692.310,13</td>
+<td>36.737.625,30</td>
+<td>36.782.940,54</td>
+<td>36.833.699,54</td>
+<td>36.833.699,54</td>
+<td>183.880.275,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 3.</td>
-<td class="cuerpo_tabla_coma">42.971.871,06</td>
-<td class="cuerpo_tabla_coma">43.026.425,07</td>
-<td class="cuerpo_tabla_coma">43.076.310,31</td>
-<td class="cuerpo_tabla_coma">43.133.518,56</td>
-<td class="cuerpo_tabla_coma">43.133.518,56</td>
-<td class="cuerpo_tabla_coma">215.341.643,56</td>
+<td>Región 3.</td>
+<td>42.971.871,06</td>
+<td>43.026.425,07</td>
+<td>43.076.310,31</td>
+<td>43.133.518,56</td>
+<td>43.133.518,56</td>
+<td>215.341.643,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 4.</td>
-<td class="cuerpo_tabla_coma">17.020.717,76</td>
-<td class="cuerpo_tabla_coma">17.042.910,62</td>
-<td class="cuerpo_tabla_coma">17.063.971,15</td>
-<td class="cuerpo_tabla_coma">17.084.282,01</td>
-<td class="cuerpo_tabla_coma">17.084.282,01</td>
-<td class="cuerpo_tabla_coma">85.296.163,55</td>
+<td>Región 4.</td>
+<td>17.020.717,76</td>
+<td>17.042.910,62</td>
+<td>17.063.971,15</td>
+<td>17.084.282,01</td>
+<td>17.084.282,01</td>
+<td>85.296.163,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 5.</td>
-<td class="cuerpo_tabla_coma">314.881,22</td>
-<td class="cuerpo_tabla_coma">314.731,70</td>
-<td class="cuerpo_tabla_coma">315.343,82</td>
-<td class="cuerpo_tabla_coma">315.955,94</td>
-<td class="cuerpo_tabla_coma">315.955,94</td>
-<td class="cuerpo_tabla_coma">1.576.868,62</td>
+<td>Región 5.</td>
+<td>314.881,22</td>
+<td>314.731,70</td>
+<td>315.343,82</td>
+<td>315.955,94</td>
+<td>315.955,94</td>
+<td>1.576.868,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 6.</td>
-<td class="cuerpo_tabla_coma">11.177.962,85</td>
-<td class="cuerpo_tabla_coma">11.172.791,42</td>
-<td class="cuerpo_tabla_coma">11.195.536,37</td>
-<td class="cuerpo_tabla_coma">11.218.711,84</td>
-<td class="cuerpo_tabla_coma">11.218.711,84</td>
-<td class="cuerpo_tabla_coma">55.983.714,32</td>
+<td>Región 6.</td>
+<td>11.177.962,85</td>
+<td>11.172.791,42</td>
+<td>11.195.536,37</td>
+<td>11.218.711,84</td>
+<td>11.218.711,84</td>
+<td>55.983.714,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 7.</td>
-<td class="cuerpo_tabla_coma">20.034.421,02</td>
-<td class="cuerpo_tabla_coma">20.025.492,12</td>
-<td class="cuerpo_tabla_coma">20.064.915,39</td>
-<td class="cuerpo_tabla_coma">20.103.823,95</td>
-<td class="cuerpo_tabla_coma">20.103.823,95</td>
-<td class="cuerpo_tabla_coma">100.332.476,43</td>
+<td>Región 7.</td>
+<td>20.034.421,02</td>
+<td>20.025.492,12</td>
+<td>20.064.915,39</td>
+<td>20.103.823,95</td>
+<td>20.103.823,95</td>
+<td>100.332.476,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 8.</td>
-<td class="cuerpo_tabla_coma">29.218.759,73</td>
-<td class="cuerpo_tabla_coma">29.198.455,00</td>
-<td class="cuerpo_tabla_coma">29.256.342,50</td>
-<td class="cuerpo_tabla_coma">29.314.230,00</td>
-<td class="cuerpo_tabla_coma">29.314.230,00</td>
-<td class="cuerpo_tabla_coma">146.302.017,23</td>
+<td>Región 8.</td>
+<td>29.218.759,73</td>
+<td>29.198.455,00</td>
+<td>29.256.342,50</td>
+<td>29.314.230,00</td>
+<td>29.314.230,00</td>
+<td>146.302.017,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 9.</td>
-<td class="cuerpo_tabla_coma">33.519.329,87</td>
-<td class="cuerpo_tabla_coma">33.504.388,80</td>
-<td class="cuerpo_tabla_coma">33.570.083,68</td>
-<td class="cuerpo_tabla_coma">33.635.778,56</td>
-<td class="cuerpo_tabla_coma">33.635.778,56</td>
-<td class="cuerpo_tabla_coma">167.865.359,47</td>
+<td>Región 9.</td>
+<td>33.519.329,87</td>
+<td>33.504.388,80</td>
+<td>33.570.083,68</td>
+<td>33.635.778,56</td>
+<td>33.635.778,56</td>
+<td>167.865.359,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 10.</td>
-<td class="cuerpo_tabla_coma">2.540.045,76</td>
-<td class="cuerpo_tabla_coma">2.540.045,76</td>
-<td class="cuerpo_tabla_coma">2.540.045,76</td>
-<td class="cuerpo_tabla_coma">2.540.045,76</td>
-<td class="cuerpo_tabla_coma">2.540.045,76</td>
-<td class="cuerpo_tabla_coma">12.700.228,80</td>
+<td>Región 10.</td>
+<td>2.540.045,76</td>
+<td>2.540.045,76</td>
+<td>2.540.045,76</td>
+<td>2.540.045,76</td>
+<td>2.540.045,76</td>
+<td>12.700.228,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 11.</td>
-<td class="cuerpo_tabla_coma">10.501.711,77</td>
-<td class="cuerpo_tabla_coma">10.495.573,33</td>
-<td class="cuerpo_tabla_coma">10.514.572,64</td>
-<td class="cuerpo_tabla_coma">10.535.857,20</td>
-<td class="cuerpo_tabla_coma">10.535.857,20</td>
-<td class="cuerpo_tabla_coma">52.583.572,14</td>
+<td>Región 11.</td>
+<td>10.501.711,77</td>
+<td>10.495.573,33</td>
+<td>10.514.572,64</td>
+<td>10.535.857,20</td>
+<td>10.535.857,20</td>
+<td>52.583.572,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 12.</td>
-<td class="cuerpo_tabla_coma">52.310.721,38</td>
-<td class="cuerpo_tabla_coma">52.277.434,04</td>
-<td class="cuerpo_tabla_coma">52.377.249,95</td>
-<td class="cuerpo_tabla_coma">52.479.490,18</td>
-<td class="cuerpo_tabla_coma">52.479.490,18</td>
-<td class="cuerpo_tabla_coma">261.924.385,73</td>
+<td>Región 12.</td>
+<td>52.310.721,38</td>
+<td>52.277.434,04</td>
+<td>52.377.249,95</td>
+<td>52.479.490,18</td>
+<td>52.479.490,18</td>
+<td>261.924.385,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 13.</td>
-<td class="cuerpo_tabla_coma">41.266.537,66</td>
-<td class="cuerpo_tabla_coma">41.248.191,60</td>
-<td class="cuerpo_tabla_coma">41.327.347,60</td>
-<td class="cuerpo_tabla_coma">41.409.865,74</td>
-<td class="cuerpo_tabla_coma">41.409.865,74</td>
-<td class="cuerpo_tabla_coma">206.661.808,34</td>
+<td>Región 13.</td>
+<td>41.266.537,66</td>
+<td>41.248.191,60</td>
+<td>41.327.347,60</td>
+<td>41.409.865,74</td>
+<td>41.409.865,74</td>
+<td>206.661.808,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 14.</td>
-<td class="cuerpo_tabla_coma">34.055.758,33</td>
-<td class="cuerpo_tabla_coma">34.041.514,41</td>
-<td class="cuerpo_tabla_coma">34.108.215,78</td>
-<td class="cuerpo_tabla_coma">34.175.653,04</td>
-<td class="cuerpo_tabla_coma">34.175.653,04</td>
-<td class="cuerpo_tabla_coma">170.556.794,60</td>
+<td>Región 14.</td>
+<td>34.055.758,33</td>
+<td>34.041.514,41</td>
+<td>34.108.215,78</td>
+<td>34.175.653,04</td>
+<td>34.175.653,04</td>
+<td>170.556.794,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 15.</td>
-<td class="cuerpo_tabla_coma">19.056.890,98</td>
-<td class="cuerpo_tabla_coma">19.036.345,00</td>
-<td class="cuerpo_tabla_coma">19.077.019,81</td>
-<td class="cuerpo_tabla_coma">19.114.223,94</td>
-<td class="cuerpo_tabla_coma">19.114.223,94</td>
-<td class="cuerpo_tabla_coma">95.398.703,67</td>
+<td>Región 15.</td>
+<td>19.056.890,98</td>
+<td>19.036.345,00</td>
+<td>19.077.019,81</td>
+<td>19.114.223,94</td>
+<td>19.114.223,94</td>
+<td>95.398.703,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 16.</td>
-<td class="cuerpo_tabla_coma">32.214.132,98</td>
-<td class="cuerpo_tabla_coma">32.321.312,81</td>
-<td class="cuerpo_tabla_coma">32.283.053,94</td>
-<td class="cuerpo_tabla_coma">32.251.238,12</td>
-<td class="cuerpo_tabla_coma">32.251.238,12</td>
-<td class="cuerpo_tabla_coma">161.320.976,18</td>
+<td>Región 16.</td>
+<td>32.214.132,98</td>
+<td>32.321.312,81</td>
+<td>32.283.053,94</td>
+<td>32.251.238,12</td>
+<td>32.251.238,12</td>
+<td>161.320.976,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 17.</td>
-<td class="cuerpo_tabla_coma">15.024.804,08</td>
-<td class="cuerpo_tabla_coma">15.012.171,70</td>
-<td class="cuerpo_tabla_coma">15.041.284,93</td>
-<td class="cuerpo_tabla_coma">15.070.398,18</td>
-<td class="cuerpo_tabla_coma">15.070.398,18</td>
-<td class="cuerpo_tabla_coma">75.219.057,08</td>
+<td>Región 17.</td>
+<td>15.024.804,08</td>
+<td>15.012.171,70</td>
+<td>15.041.284,93</td>
+<td>15.070.398,18</td>
+<td>15.070.398,18</td>
+<td>75.219.057,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 18.</td>
-<td class="cuerpo_tabla_coma">8.451.984,36</td>
-<td class="cuerpo_tabla_coma">8.445.845,10</td>
-<td class="cuerpo_tabla_coma">8.464.265,70</td>
-<td class="cuerpo_tabla_coma">8.479.616,20</td>
-<td class="cuerpo_tabla_coma">8.479.616,20</td>
-<td class="cuerpo_tabla_coma">42.321.327,56</td>
+<td>Región 18.</td>
+<td>8.451.984,36</td>
+<td>8.445.845,10</td>
+<td>8.464.265,70</td>
+<td>8.479.616,20</td>
+<td>8.479.616,20</td>
+<td>42.321.327,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 19.</td>
-<td class="cuerpo_tabla_coma">1.009.649,96</td>
-<td class="cuerpo_tabla_coma">1.009.039,82</td>
-<td class="cuerpo_tabla_coma">1.010.989,95</td>
-<td class="cuerpo_tabla_coma">1.013.028,75</td>
-<td class="cuerpo_tabla_coma">1.013.028,75</td>
-<td class="cuerpo_tabla_coma">5.055.737,23</td>
+<td>Región 19.</td>
+<td>1.009.649,96</td>
+<td>1.009.039,82</td>
+<td>1.010.989,95</td>
+<td>1.013.028,75</td>
+<td>1.013.028,75</td>
+<td>5.055.737,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Región 20.</td>
-<td class="cuerpo_tabla_coma">3.421.347,82</td>
-<td class="cuerpo_tabla_coma">3.990.770,52</td>
-<td class="cuerpo_tabla_coma">3.998.603,24</td>
-<td class="cuerpo_tabla_coma">4.006.699,62</td>
-<td class="cuerpo_tabla_coma">4.006.699,62</td>
-<td class="cuerpo_tabla_coma">19.424.120,82</td>
+<td>Región 20.</td>
+<td>3.421.347,82</td>
+<td>3.990.770,52</td>
+<td>3.998.603,24</td>
+<td>4.006.699,62</td>
+<td>4.006.699,62</td>
+<td>19.424.120,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe total.</td>
-<td class="cuerpo_tabla_coma">481.518.911,78</td>
-<td class="cuerpo_tabla_coma">482.248.872,98</td>
-<td class="cuerpo_tabla_coma">482.978.834,59</td>
-<td class="cuerpo_tabla_coma">483.708.796,26</td>
-<td class="cuerpo_tabla_coma">483.708.796,26</td>
-<td class="cuerpo_tabla_coma">2.414.164.212,08</td>
+<td>Importe total.</td>
+<td>481.518.911,78</td>
+<td>482.248.872,98</td>
+<td>482.978.834,59</td>
+<td>483.708.796,26</td>
+<td>483.708.796,26</td>
+<td>2.414.164.212,08</td>
 </tr>
 </tbody>
 </table>
@@ -3821,199 +3807,194 @@ Intervenciones de pagos directos
 
 ## ANEXO VIII — Parámetros de cálculo de la ayuda redistributiva a la renta
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Región</th>
-<th class="cabeza_tabla">Tramos de hectáreas</th>
-<th class="cabeza_tabla">Importes (€/Ha)</th>
+<th>Región</th>
+<th>Tramos de hectáreas</th>
+<th>Importes (€/Ha)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_izq">0 ha a 11,92 ha.</td>
-<td class="cuerpo_tabla_coma">16,38</td>
+<td rowspan="2">1</td>
+<td>0 ha a 11,92 ha.</td>
+<td>16,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11,93 ha a 76,61 ha.</td>
-<td class="cuerpo_tabla_coma">32,77</td>
+<td>11,93 ha a 76,61 ha.</td>
+<td>32,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_izq">0 ha a 10,83 ha.</td>
-<td class="cuerpo_tabla_coma">19,64</td>
+<td rowspan="2">2</td>
+<td>0 ha a 10,83 ha.</td>
+<td>19,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10,84 ha a 71,66 ha.</td>
-<td class="cuerpo_tabla_coma">39,28</td>
+<td>10,84 ha a 71,66 ha.</td>
+<td>39,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_izq">0 ha a 7,78 ha.</td>
-<td class="cuerpo_tabla_coma">26,12</td>
+<td rowspan="2">3</td>
+<td>0 ha a 7,78 ha.</td>
+<td>26,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7,79 ha a 53,65 ha.</td>
-<td class="cuerpo_tabla_coma">52,23</td>
+<td>7,79 ha a 53,65 ha.</td>
+<td>52,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_izq">0 ha a 5,85 ha.</td>
-<td class="cuerpo_tabla_coma">40,03</td>
+<td rowspan="2">4</td>
+<td>0 ha a 5,85 ha.</td>
+<td>40,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5,86 ha a 42,66 ha.</td>
-<td class="cuerpo_tabla_coma">80,06</td>
+<td>5,86 ha a 42,66 ha.</td>
+<td>80,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_izq">0 ha a 1,21 ha.</td>
-<td class="cuerpo_tabla_coma">61,94</td>
+<td rowspan="2">5</td>
+<td>0 ha a 1,21 ha.</td>
+<td>61,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1,22 ha a 10,32 ha.</td>
-<td class="cuerpo_tabla_coma">123,94</td>
+<td>1,22 ha a 10,32 ha.</td>
+<td>123,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_izq">0 ha a 5,27 ha.</td>
-<td class="cuerpo_tabla_coma">31,76</td>
+<td rowspan="2">6</td>
+<td>0 ha a 5,27 ha.</td>
+<td>31,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5,28 ha a 55,07 ha.</td>
-<td class="cuerpo_tabla_coma">63,54</td>
+<td>5,28 ha a 55,07 ha.</td>
+<td>63,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_izq">0 ha a 4,91 ha.</td>
-<td class="cuerpo_tabla_coma">41,34</td>
+<td rowspan="2">7</td>
+<td>0 ha a 4,91 ha.</td>
+<td>41,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4,92 ha a 45,79 ha.</td>
-<td class="cuerpo_tabla_coma">82,71</td>
+<td>4,92 ha a 45,79 ha.</td>
+<td>82,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_izq">0 ha a 3,78 ha.</td>
-<td class="cuerpo_tabla_coma">50,64</td>
+<td rowspan="2">8</td>
+<td>0 ha a 3,78 ha.</td>
+<td>50,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3,79 ha a 30,25 ha.</td>
-<td class="cuerpo_tabla_coma">101,34</td>
+<td>3,79 ha a 30,25 ha.</td>
+<td>101,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
-<td class="cuerpo_tabla_izq">0 ha a 3,53 ha.</td>
-<td class="cuerpo_tabla_coma">81,92</td>
+<td rowspan="2">9</td>
+<td>0 ha a 3,53 ha.</td>
+<td>81,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3,54 ha a 33,59 ha.</td>
-<td class="cuerpo_tabla_coma">163,91</td>
+<td>3,54 ha a 33,59 ha.</td>
+<td>163,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq">0 ha a 2 ha.</td>
-<td class="cuerpo_tabla_coma">220,72</td>
+<td rowspan="2">10</td>
+<td>0 ha a 2 ha.</td>
+<td>220,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2,01 ha a 20 ha.</td>
-<td class="cuerpo_tabla_coma">220,72</td>
+<td>2,01 ha a 20 ha.</td>
+<td>220,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">11</td>
-<td class="cuerpo_tabla_izq">0 ha a 2,61 ha.</td>
-<td class="cuerpo_tabla_coma">19,80</td>
+<td rowspan="2">11</td>
+<td>0 ha a 2,61 ha.</td>
+<td>19,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2,62 ha a 17,68 ha.</td>
-<td class="cuerpo_tabla_coma">39,62</td>
+<td>2,62 ha a 17,68 ha.</td>
+<td>39,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_izq">0 ha a 1,67ha.</td>
-<td class="cuerpo_tabla_coma">28,57</td>
+<td rowspan="2">12</td>
+<td>0 ha a 1,67ha.</td>
+<td>28,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1,68 ha a 14,53 ha.</td>
-<td class="cuerpo_tabla_coma">57,17</td>
+<td>1,68 ha a 14,53 ha.</td>
+<td>57,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">13</td>
-<td class="cuerpo_tabla_izq">0 ha a 1,52 ha.</td>
-<td class="cuerpo_tabla_coma">52,31</td>
+<td rowspan="2">13</td>
+<td>0 ha a 1,52 ha.</td>
+<td>52,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1,53 ha a 13,93 ha.</td>
-<td class="cuerpo_tabla_coma">104,68</td>
+<td>1,53 ha a 13,93 ha.</td>
+<td>104,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">14</td>
-<td class="cuerpo_tabla_izq">0 ha a 1,07 ha.</td>
-<td class="cuerpo_tabla_coma">73,89</td>
+<td rowspan="2">14</td>
+<td>0 ha a 1,07 ha.</td>
+<td>73,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1,08 ha a 8,43 ha.</td>
-<td class="cuerpo_tabla_coma">147,84</td>
+<td>1,08 ha a 8,43 ha.</td>
+<td>147,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">15</td>
-<td class="cuerpo_tabla_izq">0 ha a 34,29 ha.</td>
-<td class="cuerpo_tabla_coma">11,29</td>
+<td rowspan="2">15</td>
+<td>0 ha a 34,29 ha.</td>
+<td>11,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">34,30 ha a 149,88 ha.</td>
-<td class="cuerpo_tabla_coma">22,59</td>
+<td>34,30 ha a 149,88 ha.</td>
+<td>22,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">16</td>
-<td class="cuerpo_tabla_izq">0 ha a 21,96 ha.</td>
-<td class="cuerpo_tabla_coma">14,37</td>
+<td rowspan="2">16</td>
+<td>0 ha a 21,96 ha.</td>
+<td>14,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">21,97ha a 94,62 ha.</td>
-<td class="cuerpo_tabla_coma">28,76</td>
+<td>21,97ha a 94,62 ha.</td>
+<td>28,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">17</td>
-<td class="cuerpo_tabla_izq">0 ha a 10,26 ha.</td>
-<td class="cuerpo_tabla_coma">20,71</td>
+<td rowspan="2">17</td>
+<td>0 ha a 10,26 ha.</td>
+<td>20,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10,27 ha a 51,72 ha.</td>
-<td class="cuerpo_tabla_coma">41,44</td>
+<td>10,27 ha a 51,72 ha.</td>
+<td>41,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">18</td>
-<td class="cuerpo_tabla_izq">0 ha a 4,15 ha.</td>
-<td class="cuerpo_tabla_coma">27,62</td>
+<td rowspan="2">18</td>
+<td>0 ha a 4,15 ha.</td>
+<td>27,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4,16 ha a 13,12 ha.</td>
-<td class="cuerpo_tabla_coma">55,28</td>
+<td>4,16 ha a 13,12 ha.</td>
+<td>55,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">19</td>
-<td class="cuerpo_tabla_izq">0 ha a 6,64 ha.</td>
-<td class="cuerpo_tabla_coma">39,75</td>
+<td rowspan="2">19</td>
+<td>0 ha a 6,64 ha.</td>
+<td>39,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6,65 ha a 17,62 ha.</td>
-<td class="cuerpo_tabla_coma">79,55</td>
+<td>6,65 ha a 17,62 ha.</td>
+<td>79,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">20</td>
-<td class="cuerpo_tabla_izq">0 ha a 5,53 ha.</td>
-<td class="cuerpo_tabla_coma">37,73</td>
+<td rowspan="2">20</td>
+<td>0 ha a 5,53 ha.</td>
+<td>37,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5,54 ha a 23,05 ha.</td>
-<td class="cuerpo_tabla_coma">75,56</td>
+<td>5,54 ha a 23,05 ha.</td>
+<td>75,56</td>
 </tr>
 </tbody>
 </table>
@@ -4024,2588 +4005,2552 @@ Intervenciones de pagos directos
 
 Ayuda Básica a la Renta para la Sostenibilidad
 
-<table class="tabla">
-<colgroup>
-<col width="15%">
-<col width="30%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Campaña</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th colspan="2">Campaña</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">81,47</td>
-<td class="cuerpo_tabla_coma">81,62</td>
-<td class="cuerpo_tabla_coma">81,77</td>
-<td class="cuerpo_tabla_coma">81,92</td>
-<td class="cuerpo_tabla_coma">81,92</td>
+<td rowspan="3">Región 1.</td>
+<td>Importe unitario planificado.</td>
+<td>81,47</td>
+<td>81,62</td>
+<td>81,77</td>
+<td>81,92</td>
+<td>81,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">77,4</td>
-<td class="cuerpo_tabla_coma">77,54</td>
-<td class="cuerpo_tabla_coma">77,68</td>
-<td class="cuerpo_tabla_coma">77,82</td>
-<td class="cuerpo_tabla_coma">77,82</td>
+<td>Importe unitario mínimo.</td>
+<td>77,4</td>
+<td>77,54</td>
+<td>77,68</td>
+<td>77,82</td>
+<td>77,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">93,69</td>
-<td class="cuerpo_tabla_coma">93,86</td>
-<td class="cuerpo_tabla_coma">89,95</td>
-<td class="cuerpo_tabla_coma">90,11</td>
-<td class="cuerpo_tabla_coma">90,11</td>
+<td>Importe unitario máximo.</td>
+<td>93,69</td>
+<td>93,86</td>
+<td>89,95</td>
+<td>90,11</td>
+<td>90,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">97,64</td>
-<td class="cuerpo_tabla_coma">97,83</td>
-<td class="cuerpo_tabla_coma">98,01</td>
-<td class="cuerpo_tabla_coma">98,19</td>
-<td class="cuerpo_tabla_coma">98,19</td>
+<td rowspan="3">Región 2.</td>
+<td>Importe unitario planificado.</td>
+<td>97,64</td>
+<td>97,83</td>
+<td>98,01</td>
+<td>98,19</td>
+<td>98,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">92,76</td>
-<td class="cuerpo_tabla_coma">92,94</td>
-<td class="cuerpo_tabla_coma">93,11</td>
-<td class="cuerpo_tabla_coma">93,28</td>
-<td class="cuerpo_tabla_coma">93,28</td>
+<td>Importe unitario mínimo.</td>
+<td>92,76</td>
+<td>92,94</td>
+<td>93,11</td>
+<td>93,28</td>
+<td>93,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">112,29</td>
-<td class="cuerpo_tabla_coma">112,5</td>
-<td class="cuerpo_tabla_coma">107,81</td>
-<td class="cuerpo_tabla_coma">108,01</td>
-<td class="cuerpo_tabla_coma">108,01</td>
+<td>Importe unitario máximo.</td>
+<td>112,29</td>
+<td>112,5</td>
+<td>107,81</td>
+<td>108,01</td>
+<td>108,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 3.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">129,85</td>
-<td class="cuerpo_tabla_coma">130,09</td>
-<td class="cuerpo_tabla_coma">130,33</td>
-<td class="cuerpo_tabla_coma">130,58</td>
-<td class="cuerpo_tabla_coma">130,58</td>
+<td rowspan="3">Región 3.</td>
+<td>Importe unitario planificado.</td>
+<td>129,85</td>
+<td>130,09</td>
+<td>130,33</td>
+<td>130,58</td>
+<td>130,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">123,36</td>
-<td class="cuerpo_tabla_coma">123,59</td>
-<td class="cuerpo_tabla_coma">123,81</td>
-<td class="cuerpo_tabla_coma">124,05</td>
-<td class="cuerpo_tabla_coma">124,05</td>
+<td>Importe unitario mínimo.</td>
+<td>123,36</td>
+<td>123,59</td>
+<td>123,81</td>
+<td>124,05</td>
+<td>124,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">149,33</td>
-<td class="cuerpo_tabla_coma">149,6</td>
-<td class="cuerpo_tabla_coma">143,36</td>
-<td class="cuerpo_tabla_coma">143,64</td>
-<td class="cuerpo_tabla_coma">143,64</td>
+<td>Importe unitario máximo.</td>
+<td>149,33</td>
+<td>149,6</td>
+<td>143,36</td>
+<td>143,64</td>
+<td>143,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 4.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">199,03</td>
-<td class="cuerpo_tabla_coma">199,4</td>
-<td class="cuerpo_tabla_coma">199,58</td>
-<td class="cuerpo_tabla_coma">200,15</td>
-<td class="cuerpo_tabla_coma">200,15</td>
+<td rowspan="3">Región 4.</td>
+<td>Importe unitario planificado.</td>
+<td>199,03</td>
+<td>199,4</td>
+<td>199,58</td>
+<td>200,15</td>
+<td>200,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">189,08</td>
-<td class="cuerpo_tabla_coma">189,43</td>
-<td class="cuerpo_tabla_coma">189,6</td>
-<td class="cuerpo_tabla_coma">190,14</td>
-<td class="cuerpo_tabla_coma">190,14</td>
+<td>Importe unitario mínimo.</td>
+<td>189,08</td>
+<td>189,43</td>
+<td>189,6</td>
+<td>190,14</td>
+<td>190,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">228,88</td>
-<td class="cuerpo_tabla_coma">229,31</td>
-<td class="cuerpo_tabla_coma">219,54</td>
-<td class="cuerpo_tabla_coma">220,17</td>
-<td class="cuerpo_tabla_coma">220,17</td>
+<td>Importe unitario máximo.</td>
+<td>228,88</td>
+<td>229,31</td>
+<td>219,54</td>
+<td>220,17</td>
+<td>220,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 5.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">307,88</td>
-<td class="cuerpo_tabla_coma">308,49</td>
-<td class="cuerpo_tabla_coma">309,1</td>
-<td class="cuerpo_tabla_coma">309,7</td>
-<td class="cuerpo_tabla_coma">309,7</td>
+<td rowspan="3">Región 5.</td>
+<td>Importe unitario planificado.</td>
+<td>307,88</td>
+<td>308,49</td>
+<td>309,1</td>
+<td>309,7</td>
+<td>309,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">292,49</td>
-<td class="cuerpo_tabla_coma">293,06</td>
-<td class="cuerpo_tabla_coma">293,64</td>
-<td class="cuerpo_tabla_coma">294,22</td>
-<td class="cuerpo_tabla_coma">294,22</td>
+<td>Importe unitario mínimo.</td>
+<td>292,49</td>
+<td>293,06</td>
+<td>293,64</td>
+<td>294,22</td>
+<td>294,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">354,06</td>
-<td class="cuerpo_tabla_coma">354,76</td>
-<td class="cuerpo_tabla_coma">355,46</td>
-<td class="cuerpo_tabla_coma">356,16</td>
-<td class="cuerpo_tabla_coma">356,16</td>
+<td>Importe unitario máximo.</td>
+<td>354,06</td>
+<td>354,76</td>
+<td>355,46</td>
+<td>356,16</td>
+<td>356,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 6.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">157,85</td>
-<td class="cuerpo_tabla_coma">158,16</td>
-<td class="cuerpo_tabla_coma">158,47</td>
-<td class="cuerpo_tabla_coma">158,79</td>
-<td class="cuerpo_tabla_coma">158,79</td>
+<td rowspan="3">Región 6.</td>
+<td>Importe unitario planificado.</td>
+<td>157,85</td>
+<td>158,16</td>
+<td>158,47</td>
+<td>158,79</td>
+<td>158,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">149,96</td>
-<td class="cuerpo_tabla_coma">150,25</td>
-<td class="cuerpo_tabla_coma">150,55</td>
-<td class="cuerpo_tabla_coma">150,85</td>
-<td class="cuerpo_tabla_coma">150,85</td>
+<td>Importe unitario mínimo.</td>
+<td>149,96</td>
+<td>150,25</td>
+<td>150,55</td>
+<td>150,85</td>
+<td>150,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">181,53</td>
-<td class="cuerpo_tabla_coma">181,89</td>
-<td class="cuerpo_tabla_coma">182,25</td>
-<td class="cuerpo_tabla_coma">182,6</td>
-<td class="cuerpo_tabla_coma">182,6</td>
+<td>Importe unitario máximo.</td>
+<td>181,53</td>
+<td>181,89</td>
+<td>182,25</td>
+<td>182,6</td>
+<td>182,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 7.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">205,47</td>
-<td class="cuerpo_tabla_coma">205,87</td>
-<td class="cuerpo_tabla_coma">206,28</td>
-<td class="cuerpo_tabla_coma">206,68</td>
-<td class="cuerpo_tabla_coma">206,68</td>
+<td rowspan="3">Región 7.</td>
+<td>Importe unitario planificado.</td>
+<td>205,47</td>
+<td>205,87</td>
+<td>206,28</td>
+<td>206,68</td>
+<td>206,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">195,2</td>
-<td class="cuerpo_tabla_coma">195,58</td>
-<td class="cuerpo_tabla_coma">195,97</td>
-<td class="cuerpo_tabla_coma">196,35</td>
-<td class="cuerpo_tabla_coma">196,35</td>
+<td>Importe unitario mínimo.</td>
+<td>195,2</td>
+<td>195,58</td>
+<td>195,97</td>
+<td>196,35</td>
+<td>196,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">236,29</td>
-<td class="cuerpo_tabla_coma">236,76</td>
-<td class="cuerpo_tabla_coma">237,22</td>
-<td class="cuerpo_tabla_coma">237,69</td>
-<td class="cuerpo_tabla_coma">237,69</td>
+<td>Importe unitario máximo.</td>
+<td>236,29</td>
+<td>236,76</td>
+<td>237,22</td>
+<td>237,69</td>
+<td>237,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 8.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">251,72</td>
-<td class="cuerpo_tabla_coma">252,21</td>
-<td class="cuerpo_tabla_coma">252,71</td>
-<td class="cuerpo_tabla_coma">253,21</td>
-<td class="cuerpo_tabla_coma">253,21</td>
+<td rowspan="3">Región 8.</td>
+<td>Importe unitario planificado.</td>
+<td>251,72</td>
+<td>252,21</td>
+<td>252,71</td>
+<td>253,21</td>
+<td>253,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">239,13</td>
-<td class="cuerpo_tabla_coma">239,6</td>
-<td class="cuerpo_tabla_coma">240,07</td>
-<td class="cuerpo_tabla_coma">240,55</td>
-<td class="cuerpo_tabla_coma">240,55</td>
+<td>Importe unitario mínimo.</td>
+<td>239,13</td>
+<td>239,6</td>
+<td>240,07</td>
+<td>240,55</td>
+<td>240,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">289,48</td>
-<td class="cuerpo_tabla_coma">290,05</td>
-<td class="cuerpo_tabla_coma">290,62</td>
-<td class="cuerpo_tabla_coma">291,19</td>
-<td class="cuerpo_tabla_coma">291,19</td>
+<td>Importe unitario máximo.</td>
+<td>289,48</td>
+<td>290,05</td>
+<td>290,62</td>
+<td>291,19</td>
+<td>291,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 9.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">407,2</td>
-<td class="cuerpo_tabla_coma">408</td>
-<td class="cuerpo_tabla_coma">408,81</td>
-<td class="cuerpo_tabla_coma">409,61</td>
-<td class="cuerpo_tabla_coma">409,61</td>
+<td rowspan="3">Región 9.</td>
+<td>Importe unitario planificado.</td>
+<td>407,2</td>
+<td>408</td>
+<td>408,81</td>
+<td>409,61</td>
+<td>409,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">386,84</td>
-<td class="cuerpo_tabla_coma">387,6</td>
-<td class="cuerpo_tabla_coma">388,37</td>
-<td class="cuerpo_tabla_coma">389,13</td>
-<td class="cuerpo_tabla_coma">389,13</td>
+<td>Importe unitario mínimo.</td>
+<td>386,84</td>
+<td>387,6</td>
+<td>388,37</td>
+<td>389,13</td>
+<td>389,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">468,28</td>
-<td class="cuerpo_tabla_coma">469,2</td>
-<td class="cuerpo_tabla_coma">470,13</td>
-<td class="cuerpo_tabla_coma">471,05</td>
-<td class="cuerpo_tabla_coma">471,05</td>
+<td>Importe unitario máximo.</td>
+<td>468,28</td>
+<td>469,2</td>
+<td>470,13</td>
+<td>471,05</td>
+<td>471,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 10.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">1.229,17</td>
-<td class="cuerpo_tabla_coma">1.231,60</td>
-<td class="cuerpo_tabla_coma">1.234,02</td>
-<td class="cuerpo_tabla_coma">1.236,44</td>
-<td class="cuerpo_tabla_coma">1.236,44</td>
+<td rowspan="3">Región 10.</td>
+<td>Importe unitario planificado.</td>
+<td>1.229,17</td>
+<td>1.231,60</td>
+<td>1.234,02</td>
+<td>1.236,44</td>
+<td>1.236,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">1.167,71</td>
-<td class="cuerpo_tabla_coma">1.170,02</td>
-<td class="cuerpo_tabla_coma">1.172,32</td>
-<td class="cuerpo_tabla_coma">1.174,62</td>
-<td class="cuerpo_tabla_coma">1.174,62</td>
+<td>Importe unitario mínimo.</td>
+<td>1.167,71</td>
+<td>1.170,02</td>
+<td>1.172,32</td>
+<td>1.174,62</td>
+<td>1.174,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">1.413,55</td>
-<td class="cuerpo_tabla_coma">1.416,33</td>
-<td class="cuerpo_tabla_coma">1.419,12</td>
-<td class="cuerpo_tabla_coma">1.421,91</td>
-<td class="cuerpo_tabla_coma">1.421,91</td>
+<td>Importe unitario máximo.</td>
+<td>1.413,55</td>
+<td>1.416,33</td>
+<td>1.419,12</td>
+<td>1.421,91</td>
+<td>1.421,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 11.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">98,42</td>
-<td class="cuerpo_tabla_coma">98,62</td>
-<td class="cuerpo_tabla_coma">98,81</td>
-<td class="cuerpo_tabla_coma">99</td>
-<td class="cuerpo_tabla_coma">99</td>
+<td rowspan="3">Región 11.</td>
+<td>Importe unitario planificado.</td>
+<td>98,42</td>
+<td>98,62</td>
+<td>98,81</td>
+<td>99</td>
+<td>99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">93,5</td>
-<td class="cuerpo_tabla_coma">93,68</td>
-<td class="cuerpo_tabla_coma">93,87</td>
-<td class="cuerpo_tabla_coma">94,05</td>
-<td class="cuerpo_tabla_coma">94,05</td>
+<td>Importe unitario mínimo.</td>
+<td>93,5</td>
+<td>93,68</td>
+<td>93,87</td>
+<td>94,05</td>
+<td>94,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">113,18</td>
-<td class="cuerpo_tabla_coma">113,41</td>
-<td class="cuerpo_tabla_coma">113,63</td>
-<td class="cuerpo_tabla_coma">113,85</td>
-<td class="cuerpo_tabla_coma">113,85</td>
+<td>Importe unitario máximo.</td>
+<td>113,18</td>
+<td>113,41</td>
+<td>113,63</td>
+<td>113,85</td>
+<td>113,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 12.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">142,01</td>
-<td class="cuerpo_tabla_coma">142,29</td>
-<td class="cuerpo_tabla_coma">142,57</td>
-<td class="cuerpo_tabla_coma">142,84</td>
-<td class="cuerpo_tabla_coma">142,84</td>
+<td rowspan="3">Región 12.</td>
+<td>Importe unitario planificado.</td>
+<td>142,01</td>
+<td>142,29</td>
+<td>142,57</td>
+<td>142,84</td>
+<td>142,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">134,91</td>
-<td class="cuerpo_tabla_coma">135,17</td>
-<td class="cuerpo_tabla_coma">135,44</td>
-<td class="cuerpo_tabla_coma">135,7</td>
-<td class="cuerpo_tabla_coma">135,7</td>
+<td>Importe unitario mínimo.</td>
+<td>134,91</td>
+<td>135,17</td>
+<td>135,44</td>
+<td>135,7</td>
+<td>135,7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">163,31</td>
-<td class="cuerpo_tabla_coma">163,63</td>
-<td class="cuerpo_tabla_coma">163,95</td>
-<td class="cuerpo_tabla_coma">164,27</td>
-<td class="cuerpo_tabla_coma">164,27</td>
+<td>Importe unitario máximo.</td>
+<td>163,31</td>
+<td>163,63</td>
+<td>163,95</td>
+<td>164,27</td>
+<td>164,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 13.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">260,03</td>
-<td class="cuerpo_tabla_coma">260,54</td>
-<td class="cuerpo_tabla_coma">261,05</td>
-<td class="cuerpo_tabla_coma">261,57</td>
-<td class="cuerpo_tabla_coma">261,57</td>
+<td rowspan="3">Región 13.</td>
+<td>Importe unitario planificado.</td>
+<td>260,03</td>
+<td>260,54</td>
+<td>261,05</td>
+<td>261,57</td>
+<td>261,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">247,03</td>
-<td class="cuerpo_tabla_coma">247,51</td>
-<td class="cuerpo_tabla_coma">248</td>
-<td class="cuerpo_tabla_coma">248,49</td>
-<td class="cuerpo_tabla_coma">248,49</td>
+<td>Importe unitario mínimo.</td>
+<td>247,03</td>
+<td>247,51</td>
+<td>248</td>
+<td>248,49</td>
+<td>248,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">299,03</td>
-<td class="cuerpo_tabla_coma">299,62</td>
-<td class="cuerpo_tabla_coma">300,21</td>
-<td class="cuerpo_tabla_coma">300,8</td>
-<td class="cuerpo_tabla_coma">300,8</td>
+<td>Importe unitario máximo.</td>
+<td>299,03</td>
+<td>299,62</td>
+<td>300,21</td>
+<td>300,8</td>
+<td>300,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 14.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">367,26</td>
-<td class="cuerpo_tabla_coma">367,98</td>
-<td class="cuerpo_tabla_coma">368,71</td>
-<td class="cuerpo_tabla_coma">369,43</td>
-<td class="cuerpo_tabla_coma">369,43</td>
+<td rowspan="3">Región 14.</td>
+<td>Importe unitario planificado.</td>
+<td>367,26</td>
+<td>367,98</td>
+<td>368,71</td>
+<td>369,43</td>
+<td>369,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">348,9</td>
-<td class="cuerpo_tabla_coma">349,58</td>
-<td class="cuerpo_tabla_coma">350,27</td>
-<td class="cuerpo_tabla_coma">350,96</td>
-<td class="cuerpo_tabla_coma">350,96</td>
+<td>Importe unitario mínimo.</td>
+<td>348,9</td>
+<td>349,58</td>
+<td>350,27</td>
+<td>350,96</td>
+<td>350,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">422,35</td>
-<td class="cuerpo_tabla_coma">423,18</td>
-<td class="cuerpo_tabla_coma">424,01</td>
-<td class="cuerpo_tabla_coma">424,85</td>
-<td class="cuerpo_tabla_coma">424,85</td>
+<td>Importe unitario máximo.</td>
+<td>422,35</td>
+<td>423,18</td>
+<td>424,01</td>
+<td>424,85</td>
+<td>424,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 15.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">56,1</td>
-<td class="cuerpo_tabla_coma">56,21</td>
-<td class="cuerpo_tabla_coma">56,32</td>
-<td class="cuerpo_tabla_coma">56,43</td>
-<td class="cuerpo_tabla_coma">56,43</td>
+<td rowspan="3">Región 15.</td>
+<td>Importe unitario planificado.</td>
+<td>56,1</td>
+<td>56,21</td>
+<td>56,32</td>
+<td>56,43</td>
+<td>56,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">53,29</td>
-<td class="cuerpo_tabla_coma">53,4</td>
-<td class="cuerpo_tabla_coma">53,5</td>
-<td class="cuerpo_tabla_coma">53,61</td>
-<td class="cuerpo_tabla_coma">53,61</td>
+<td>Importe unitario mínimo.</td>
+<td>53,29</td>
+<td>53,4</td>
+<td>53,5</td>
+<td>53,61</td>
+<td>53,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">64,51</td>
-<td class="cuerpo_tabla_coma">64,64</td>
-<td class="cuerpo_tabla_coma">64,77</td>
-<td class="cuerpo_tabla_coma">64,9</td>
-<td class="cuerpo_tabla_coma">64,9</td>
+<td>Importe unitario máximo.</td>
+<td>64,51</td>
+<td>64,64</td>
+<td>64,77</td>
+<td>64,9</td>
+<td>64,9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 16.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">71,42</td>
-<td class="cuerpo_tabla_coma">71,56</td>
-<td class="cuerpo_tabla_coma">71,7</td>
-<td class="cuerpo_tabla_coma">71,84</td>
-<td class="cuerpo_tabla_coma">71,84</td>
+<td rowspan="3">Región 16.</td>
+<td>Importe unitario planificado.</td>
+<td>71,42</td>
+<td>71,56</td>
+<td>71,7</td>
+<td>71,84</td>
+<td>71,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">67,85</td>
-<td class="cuerpo_tabla_coma">67,98</td>
-<td class="cuerpo_tabla_coma">68,12</td>
-<td class="cuerpo_tabla_coma">68,25</td>
-<td class="cuerpo_tabla_coma">68,25</td>
+<td>Importe unitario mínimo.</td>
+<td>67,85</td>
+<td>67,98</td>
+<td>68,12</td>
+<td>68,25</td>
+<td>68,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">82,13</td>
-<td class="cuerpo_tabla_coma">82,3</td>
-<td class="cuerpo_tabla_coma">82,46</td>
-<td class="cuerpo_tabla_coma">82,62</td>
-<td class="cuerpo_tabla_coma">82,62</td>
+<td>Importe unitario máximo.</td>
+<td>82,13</td>
+<td>82,3</td>
+<td>82,46</td>
+<td>82,62</td>
+<td>82,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 17.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">102,93</td>
-<td class="cuerpo_tabla_coma">103,13</td>
-<td class="cuerpo_tabla_coma">103,33</td>
-<td class="cuerpo_tabla_coma">103,53</td>
-<td class="cuerpo_tabla_coma">103,53</td>
+<td rowspan="3">Región 17.</td>
+<td>Importe unitario planificado.</td>
+<td>102,93</td>
+<td>103,13</td>
+<td>103,33</td>
+<td>103,53</td>
+<td>103,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">97,78</td>
-<td class="cuerpo_tabla_coma">97,97</td>
-<td class="cuerpo_tabla_coma">98,16</td>
-<td class="cuerpo_tabla_coma">98,36</td>
-<td class="cuerpo_tabla_coma">98,36</td>
+<td>Importe unitario mínimo.</td>
+<td>97,78</td>
+<td>97,97</td>
+<td>98,16</td>
+<td>98,36</td>
+<td>98,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">118,36</td>
-<td class="cuerpo_tabla_coma">118,6</td>
-<td class="cuerpo_tabla_coma">118,83</td>
-<td class="cuerpo_tabla_coma">119,06</td>
-<td class="cuerpo_tabla_coma">119,06</td>
+<td>Importe unitario máximo.</td>
+<td>118,36</td>
+<td>118,6</td>
+<td>118,83</td>
+<td>119,06</td>
+<td>119,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 18.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">137,29</td>
-<td class="cuerpo_tabla_coma">137,56</td>
-<td class="cuerpo_tabla_coma">137,84</td>
-<td class="cuerpo_tabla_coma">138,11</td>
-<td class="cuerpo_tabla_coma">138,11</td>
+<td rowspan="3">Región 18.</td>
+<td>Importe unitario planificado.</td>
+<td>137,29</td>
+<td>137,56</td>
+<td>137,84</td>
+<td>138,11</td>
+<td>138,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">130,43</td>
-<td class="cuerpo_tabla_coma">130,69</td>
-<td class="cuerpo_tabla_coma">130,94</td>
-<td class="cuerpo_tabla_coma">131,2</td>
-<td class="cuerpo_tabla_coma">131,2</td>
+<td>Importe unitario mínimo.</td>
+<td>130,43</td>
+<td>130,69</td>
+<td>130,94</td>
+<td>131,2</td>
+<td>131,2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">157,89</td>
-<td class="cuerpo_tabla_coma">158,2</td>
-<td class="cuerpo_tabla_coma">158,51</td>
-<td class="cuerpo_tabla_coma">158,82</td>
-<td class="cuerpo_tabla_coma">158,82</td>
+<td>Importe unitario máximo.</td>
+<td>157,89</td>
+<td>158,2</td>
+<td>158,51</td>
+<td>158,82</td>
+<td>158,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 19.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">197,58</td>
-<td class="cuerpo_tabla_coma">197,97</td>
-<td class="cuerpo_tabla_coma">198,36</td>
-<td class="cuerpo_tabla_coma">198,75</td>
-<td class="cuerpo_tabla_coma">198,75</td>
+<td rowspan="3">Región 19.</td>
+<td>Importe unitario planificado.</td>
+<td>197,58</td>
+<td>197,97</td>
+<td>198,36</td>
+<td>198,75</td>
+<td>198,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">187,7</td>
-<td class="cuerpo_tabla_coma">188,07</td>
-<td class="cuerpo_tabla_coma">188,44</td>
-<td class="cuerpo_tabla_coma">188,81</td>
-<td class="cuerpo_tabla_coma">188,81</td>
+<td>Importe unitario mínimo.</td>
+<td>187,7</td>
+<td>188,07</td>
+<td>188,44</td>
+<td>188,81</td>
+<td>188,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">227,22</td>
-<td class="cuerpo_tabla_coma">227,67</td>
-<td class="cuerpo_tabla_coma">228,12</td>
-<td class="cuerpo_tabla_coma">228,56</td>
-<td class="cuerpo_tabla_coma">228,56</td>
+<td>Importe unitario máximo.</td>
+<td>227,22</td>
+<td>227,67</td>
+<td>228,12</td>
+<td>228,56</td>
+<td>228,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 20.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">187,53</td>
-<td class="cuerpo_tabla_coma">187,9</td>
-<td class="cuerpo_tabla_coma">188,27</td>
-<td class="cuerpo_tabla_coma">188,64</td>
-<td class="cuerpo_tabla_coma">188,64</td>
+<td rowspan="3">Región 20.</td>
+<td>Importe unitario planificado.</td>
+<td>187,53</td>
+<td>187,9</td>
+<td>188,27</td>
+<td>188,64</td>
+<td>188,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">178,15</td>
-<td class="cuerpo_tabla_coma">178,5</td>
-<td class="cuerpo_tabla_coma">178,85</td>
-<td class="cuerpo_tabla_coma">179,21</td>
-<td class="cuerpo_tabla_coma">179,21</td>
+<td>Importe unitario mínimo.</td>
+<td>178,15</td>
+<td>178,5</td>
+<td>178,85</td>
+<td>179,21</td>
+<td>179,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">215,66</td>
-<td class="cuerpo_tabla_coma">216,08</td>
-<td class="cuerpo_tabla_coma">216,51</td>
-<td class="cuerpo_tabla_coma">216,93</td>
-<td class="cuerpo_tabla_coma">216,93</td>
+<td>Importe unitario máximo.</td>
+<td>215,66</td>
+<td>216,08</td>
+<td>216,51</td>
+<td>216,93</td>
+<td>216,93</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="15%">
-<col width="30%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-</colgroup>
+<table>
 <caption>
-<p class="centro_cursiva">Ayuda Complementaria a la Renta Redistributiva</p>
+<p>Ayuda Complementaria a la Renta Redistributiva</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Campaña</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th colspan="2">Campaña</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 1 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">16,29</td>
-<td class="cuerpo_tabla_coma">16,32</td>
-<td class="cuerpo_tabla_coma">16,35</td>
-<td class="cuerpo_tabla_coma">16,38</td>
-<td class="cuerpo_tabla_coma">16,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">15,48</td>
-<td class="cuerpo_tabla_coma">15,5</td>
-<td class="cuerpo_tabla_coma">15,53</td>
-<td class="cuerpo_tabla_coma">15,56</td>
-<td class="cuerpo_tabla_coma">15,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_coma">17,14</td>
-<td class="cuerpo_tabla_coma">17,17</td>
-<td class="cuerpo_tabla_coma">17,2</td>
-<td class="cuerpo_tabla_coma">17,2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 1 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">32,59</td>
-<td class="cuerpo_tabla_coma">32,65</td>
-<td class="cuerpo_tabla_coma">32,71</td>
-<td class="cuerpo_tabla_coma">32,77</td>
-<td class="cuerpo_tabla_coma">32,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">30,96</td>
-<td class="cuerpo_tabla_coma">31,02</td>
-<td class="cuerpo_tabla_coma">31,07</td>
-<td class="cuerpo_tabla_coma">31,13</td>
-<td class="cuerpo_tabla_coma">31,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">34,22</td>
-<td class="cuerpo_tabla_coma">34,28</td>
-<td class="cuerpo_tabla_coma">34,35</td>
-<td class="cuerpo_tabla_coma">34,41</td>
-<td class="cuerpo_tabla_coma">34,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 2 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">19,53</td>
-<td class="cuerpo_tabla_coma">19,57</td>
-<td class="cuerpo_tabla_coma">19,6</td>
-<td class="cuerpo_tabla_coma">19,64</td>
-<td class="cuerpo_tabla_coma">19,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">18,55</td>
-<td class="cuerpo_tabla_coma">18,59</td>
-<td class="cuerpo_tabla_coma">18,62</td>
-<td class="cuerpo_tabla_coma">18,66</td>
-<td class="cuerpo_tabla_coma">18,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">20,51</td>
-<td class="cuerpo_tabla_coma">20,55</td>
-<td class="cuerpo_tabla_coma">20,58</td>
-<td class="cuerpo_tabla_coma">20,62</td>
-<td class="cuerpo_tabla_coma">20,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 2 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">39,06</td>
-<td class="cuerpo_tabla_coma">39,13</td>
-<td class="cuerpo_tabla_coma">39,2</td>
-<td class="cuerpo_tabla_coma">39,28</td>
-<td class="cuerpo_tabla_coma">39,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">37,11</td>
-<td class="cuerpo_tabla_coma">37,17</td>
-<td class="cuerpo_tabla_coma">37,24</td>
-<td class="cuerpo_tabla_coma">37,32</td>
-<td class="cuerpo_tabla_coma">37,32</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">41,01</td>
-<td class="cuerpo_tabla_coma">41,09</td>
-<td class="cuerpo_tabla_coma">41,16</td>
-<td class="cuerpo_tabla_coma">41,24</td>
-<td class="cuerpo_tabla_coma">41,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 3 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">25,97</td>
-<td class="cuerpo_tabla_coma">26,02</td>
-<td class="cuerpo_tabla_coma">26,07</td>
-<td class="cuerpo_tabla_coma">26,12</td>
-<td class="cuerpo_tabla_coma">26,12</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">24,67</td>
-<td class="cuerpo_tabla_coma">24,72</td>
-<td class="cuerpo_tabla_coma">24,77</td>
-<td class="cuerpo_tabla_coma">24,81</td>
-<td class="cuerpo_tabla_coma">24,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">27,27</td>
-<td class="cuerpo_tabla_coma">27,32</td>
-<td class="cuerpo_tabla_coma">27,37</td>
-<td class="cuerpo_tabla_coma">27,43</td>
-<td class="cuerpo_tabla_coma">27,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 3 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">51,94</td>
-<td class="cuerpo_tabla_coma">52,04</td>
-<td class="cuerpo_tabla_coma">52,13</td>
-<td class="cuerpo_tabla_coma">52,23</td>
-<td class="cuerpo_tabla_coma">52,23</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">49,34</td>
-<td class="cuerpo_tabla_coma">49,44</td>
-<td class="cuerpo_tabla_coma">49,52</td>
-<td class="cuerpo_tabla_coma">49,62</td>
-<td class="cuerpo_tabla_coma">49,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">54,54</td>
-<td class="cuerpo_tabla_coma">54,64</td>
-<td class="cuerpo_tabla_coma">54,74</td>
-<td class="cuerpo_tabla_coma">54,84</td>
-<td class="cuerpo_tabla_coma">54,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 4 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">39,81</td>
-<td class="cuerpo_tabla_coma">39,88</td>
-<td class="cuerpo_tabla_coma">39,92</td>
-<td class="cuerpo_tabla_coma">40,03</td>
-<td class="cuerpo_tabla_coma">40,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">37,82</td>
-<td class="cuerpo_tabla_coma">37,89</td>
-<td class="cuerpo_tabla_coma">37,92</td>
-<td class="cuerpo_tabla_coma">38,03</td>
-<td class="cuerpo_tabla_coma">38,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">41,8</td>
-<td class="cuerpo_tabla_coma">41,87</td>
-<td class="cuerpo_tabla_coma">41,92</td>
-<td class="cuerpo_tabla_coma">42,03</td>
-<td class="cuerpo_tabla_coma">42,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 4 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">79,61</td>
-<td class="cuerpo_tabla_coma">79,76</td>
-<td class="cuerpo_tabla_coma">79,83</td>
-<td class="cuerpo_tabla_coma">80,06</td>
-<td class="cuerpo_tabla_coma">80,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">75,63</td>
-<td class="cuerpo_tabla_coma">75,77</td>
-<td class="cuerpo_tabla_coma">75,84</td>
-<td class="cuerpo_tabla_coma">76,06</td>
-<td class="cuerpo_tabla_coma">76,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">83,59</td>
-<td class="cuerpo_tabla_coma">83,75</td>
-<td class="cuerpo_tabla_coma">83,82</td>
-<td class="cuerpo_tabla_coma">84,06</td>
-<td class="cuerpo_tabla_coma">84,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 5 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">61,58</td>
-<td class="cuerpo_tabla_coma">61,7</td>
-<td class="cuerpo_tabla_coma">61,82</td>
-<td class="cuerpo_tabla_coma">61,94</td>
-<td class="cuerpo_tabla_coma">61,94</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">58,5</td>
-<td class="cuerpo_tabla_coma">58,61</td>
-<td class="cuerpo_tabla_coma">58,73</td>
-<td class="cuerpo_tabla_coma">58,84</td>
-<td class="cuerpo_tabla_coma">58,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">64,66</td>
-<td class="cuerpo_tabla_coma">64,78</td>
-<td class="cuerpo_tabla_coma">64,91</td>
-<td class="cuerpo_tabla_coma">65,04</td>
-<td class="cuerpo_tabla_coma">65,04</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 5 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">123,49</td>
-<td class="cuerpo_tabla_coma">123,4</td>
-<td class="cuerpo_tabla_coma">123,64</td>
-<td class="cuerpo_tabla_coma">123,88</td>
-<td class="cuerpo_tabla_coma">123,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">117,32</td>
-<td class="cuerpo_tabla_coma">117,23</td>
-<td class="cuerpo_tabla_coma">117,46</td>
-<td class="cuerpo_tabla_coma">117,69</td>
-<td class="cuerpo_tabla_coma">117,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">129,66</td>
-<td class="cuerpo_tabla_coma">129,57</td>
-<td class="cuerpo_tabla_coma">129,82</td>
-<td class="cuerpo_tabla_coma">130,07</td>
-<td class="cuerpo_tabla_coma">130,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 6 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">31,57</td>
-<td class="cuerpo_tabla_coma">31,63</td>
-<td class="cuerpo_tabla_coma">31,69</td>
-<td class="cuerpo_tabla_coma">31,76</td>
-<td class="cuerpo_tabla_coma">31,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">29,99</td>
-<td class="cuerpo_tabla_coma">30,05</td>
-<td class="cuerpo_tabla_coma">30,11</td>
-<td class="cuerpo_tabla_coma">30,17</td>
-<td class="cuerpo_tabla_coma">30,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">33,15</td>
-<td class="cuerpo_tabla_coma">33,21</td>
-<td class="cuerpo_tabla_coma">33,28</td>
-<td class="cuerpo_tabla_coma">33,34</td>
-<td class="cuerpo_tabla_coma">33,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 6 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">63,31</td>
-<td class="cuerpo_tabla_coma">63,26</td>
-<td class="cuerpo_tabla_coma">63,39</td>
-<td class="cuerpo_tabla_coma">63,52</td>
-<td class="cuerpo_tabla_coma">63,52</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">60,15</td>
-<td class="cuerpo_tabla_coma">60,10</td>
-<td class="cuerpo_tabla_coma">60,22</td>
-<td class="cuerpo_tabla_coma">60,34</td>
-<td class="cuerpo_tabla_coma">60,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">66,48</td>
-<td class="cuerpo_tabla_coma">66,42</td>
-<td class="cuerpo_tabla_coma">66,56</td>
-<td class="cuerpo_tabla_coma">66,70</td>
-<td class="cuerpo_tabla_coma">66,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 7 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">41,09</td>
-<td class="cuerpo_tabla_coma">41,17</td>
-<td class="cuerpo_tabla_coma">41,26</td>
-<td class="cuerpo_tabla_coma">41,34</td>
-<td class="cuerpo_tabla_coma">41,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">39,04</td>
-<td class="cuerpo_tabla_coma">39,12</td>
-<td class="cuerpo_tabla_coma">39,19</td>
-<td class="cuerpo_tabla_coma">39,27</td>
-<td class="cuerpo_tabla_coma">39,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">43,15</td>
-<td class="cuerpo_tabla_coma">43,23</td>
-<td class="cuerpo_tabla_coma">43,32</td>
-<td class="cuerpo_tabla_coma">43,4</td>
-<td class="cuerpo_tabla_coma">43,4</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 7 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">82,41</td>
-<td class="cuerpo_tabla_coma">82,35</td>
-<td class="cuerpo_tabla_coma">82,51</td>
-<td class="cuerpo_tabla_coma">82,67</td>
-<td class="cuerpo_tabla_coma">82,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">78,29</td>
-<td class="cuerpo_tabla_coma">78,23</td>
-<td class="cuerpo_tabla_coma">78,38</td>
-<td class="cuerpo_tabla_coma">78,54</td>
-<td class="cuerpo_tabla_coma">78,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">86,53</td>
-<td class="cuerpo_tabla_coma">86,47</td>
-<td class="cuerpo_tabla_coma">86,64</td>
-<td class="cuerpo_tabla_coma">86,80</td>
-<td class="cuerpo_tabla_coma">86,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 8 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">50,34</td>
-<td class="cuerpo_tabla_coma">50,44</td>
-<td class="cuerpo_tabla_coma">50,54</td>
-<td class="cuerpo_tabla_coma">50,64</td>
-<td class="cuerpo_tabla_coma">50,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">47,83</td>
-<td class="cuerpo_tabla_coma">47,92</td>
-<td class="cuerpo_tabla_coma">48,01</td>
-<td class="cuerpo_tabla_coma">48,11</td>
-<td class="cuerpo_tabla_coma">48,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">52,86</td>
-<td class="cuerpo_tabla_coma">52,97</td>
-<td class="cuerpo_tabla_coma">53,07</td>
-<td class="cuerpo_tabla_coma">53,17</td>
-<td class="cuerpo_tabla_coma">53,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 8 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">100,99</td>
-<td class="cuerpo_tabla_coma">100,88</td>
-<td class="cuerpo_tabla_coma">101,08</td>
-<td class="cuerpo_tabla_coma">101,28</td>
-<td class="cuerpo_tabla_coma">101,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">95,94</td>
-<td class="cuerpo_tabla_coma">95,84</td>
-<td class="cuerpo_tabla_coma">96,03</td>
-<td class="cuerpo_tabla_coma">96,22</td>
-<td class="cuerpo_tabla_coma">96,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">106,04</td>
-<td class="cuerpo_tabla_coma">105,92</td>
-<td class="cuerpo_tabla_coma">106,13</td>
-<td class="cuerpo_tabla_coma">106,34</td>
-<td class="cuerpo_tabla_coma">106,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 9 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">81,44</td>
-<td class="cuerpo_tabla_coma">81,6</td>
-<td class="cuerpo_tabla_coma">81,76</td>
-<td class="cuerpo_tabla_coma">81,92</td>
-<td class="cuerpo_tabla_coma">81,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">77,37</td>
-<td class="cuerpo_tabla_coma">77,52</td>
-<td class="cuerpo_tabla_coma">77,67</td>
-<td class="cuerpo_tabla_coma">77,83</td>
-<td class="cuerpo_tabla_coma">77,83</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">85,51</td>
-<td class="cuerpo_tabla_coma">85,68</td>
-<td class="cuerpo_tabla_coma">85,85</td>
-<td class="cuerpo_tabla_coma">86,02</td>
-<td class="cuerpo_tabla_coma">86,02</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 9 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">163,33</td>
-<td class="cuerpo_tabla_coma">163,2</td>
-<td class="cuerpo_tabla_coma">163,52</td>
-<td class="cuerpo_tabla_coma">163,84</td>
-<td class="cuerpo_tabla_coma">163,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">155,16</td>
-<td class="cuerpo_tabla_coma">155,04</td>
-<td class="cuerpo_tabla_coma">155,34</td>
-<td class="cuerpo_tabla_coma">155,65</td>
-<td class="cuerpo_tabla_coma">155,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">171,49</td>
-<td class="cuerpo_tabla_coma">171,36</td>
-<td class="cuerpo_tabla_coma">171,70</td>
-<td class="cuerpo_tabla_coma">172,03</td>
-<td class="cuerpo_tabla_coma">172,03</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 10 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 10 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-<td class="cuerpo_tabla_coma">209,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-<td class="cuerpo_tabla_coma">220,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 11 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">19,68</td>
-<td class="cuerpo_tabla_coma">19,72</td>
-<td class="cuerpo_tabla_coma">19,76</td>
-<td class="cuerpo_tabla_coma">19,8</td>
-<td class="cuerpo_tabla_coma">19,8</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">18,7</td>
-<td class="cuerpo_tabla_coma">18,74</td>
-<td class="cuerpo_tabla_coma">18,77</td>
-<td class="cuerpo_tabla_coma">18,81</td>
-<td class="cuerpo_tabla_coma">18,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">20,67</td>
-<td class="cuerpo_tabla_coma">20,71</td>
-<td class="cuerpo_tabla_coma">20,75</td>
-<td class="cuerpo_tabla_coma">20,79</td>
-<td class="cuerpo_tabla_coma">20,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 11 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">39,49</td>
-<td class="cuerpo_tabla_coma">39,45</td>
-<td class="cuerpo_tabla_coma">39,52</td>
-<td class="cuerpo_tabla_coma">39,6</td>
-<td class="cuerpo_tabla_coma">39,6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">37,52</td>
-<td class="cuerpo_tabla_coma">37,48</td>
-<td class="cuerpo_tabla_coma">37,54</td>
-<td class="cuerpo_tabla_coma">37,62</td>
-<td class="cuerpo_tabla_coma">37,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">41,47</td>
-<td class="cuerpo_tabla_coma">41,42</td>
-<td class="cuerpo_tabla_coma">41,50</td>
-<td class="cuerpo_tabla_coma">41,58</td>
-<td class="cuerpo_tabla_coma">41,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 12 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">28,4</td>
-<td class="cuerpo_tabla_coma">28,46</td>
-<td class="cuerpo_tabla_coma">28,51</td>
-<td class="cuerpo_tabla_coma">28,57</td>
-<td class="cuerpo_tabla_coma">28,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">26,98</td>
-<td class="cuerpo_tabla_coma">27,03</td>
-<td class="cuerpo_tabla_coma">27,09</td>
-<td class="cuerpo_tabla_coma">27,14</td>
-<td class="cuerpo_tabla_coma">27,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">29,82</td>
-<td class="cuerpo_tabla_coma">29,88</td>
-<td class="cuerpo_tabla_coma">29,94</td>
-<td class="cuerpo_tabla_coma">30</td>
-<td class="cuerpo_tabla_coma">30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 12 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">56,98</td>
-<td class="cuerpo_tabla_coma">56,92</td>
-<td class="cuerpo_tabla_coma">57,03</td>
-<td class="cuerpo_tabla_coma">57,14</td>
-<td class="cuerpo_tabla_coma">57,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">54,13</td>
-<td class="cuerpo_tabla_coma">54,07</td>
-<td class="cuerpo_tabla_coma">54,18</td>
-<td class="cuerpo_tabla_coma">54,28</td>
-<td class="cuerpo_tabla_coma">54,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">59,83</td>
-<td class="cuerpo_tabla_coma">59,77</td>
-<td class="cuerpo_tabla_coma">59,88</td>
-<td class="cuerpo_tabla_coma">60,00</td>
-<td class="cuerpo_tabla_coma">60,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 13 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">52,01</td>
-<td class="cuerpo_tabla_coma">52,11</td>
-<td class="cuerpo_tabla_coma">52,21</td>
-<td class="cuerpo_tabla_coma">52,31</td>
-<td class="cuerpo_tabla_coma">52,31</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">49,41</td>
-<td class="cuerpo_tabla_coma">49,5</td>
-<td class="cuerpo_tabla_coma">49,6</td>
-<td class="cuerpo_tabla_coma">49,7</td>
-<td class="cuerpo_tabla_coma">49,7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">54,61</td>
-<td class="cuerpo_tabla_coma">54,71</td>
-<td class="cuerpo_tabla_coma">54,82</td>
-<td class="cuerpo_tabla_coma">54,93</td>
-<td class="cuerpo_tabla_coma">54,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 13 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">104,31</td>
-<td class="cuerpo_tabla_coma">104,22</td>
-<td class="cuerpo_tabla_coma">104,42</td>
-<td class="cuerpo_tabla_coma">104,63</td>
-<td class="cuerpo_tabla_coma">104,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">99,1</td>
-<td class="cuerpo_tabla_coma">99,01</td>
-<td class="cuerpo_tabla_coma">99,20</td>
-<td class="cuerpo_tabla_coma">99,40</td>
-<td class="cuerpo_tabla_coma">99,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">109,53</td>
-<td class="cuerpo_tabla_coma">109,43</td>
-<td class="cuerpo_tabla_coma">109,64</td>
-<td class="cuerpo_tabla_coma">109,86</td>
-<td class="cuerpo_tabla_coma">109,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 14 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">73,45</td>
-<td class="cuerpo_tabla_coma">73,6</td>
-<td class="cuerpo_tabla_coma">73,74</td>
-<td class="cuerpo_tabla_coma">73,89</td>
-<td class="cuerpo_tabla_coma">73,89</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">69,78</td>
-<td class="cuerpo_tabla_coma">69,92</td>
-<td class="cuerpo_tabla_coma">70,05</td>
-<td class="cuerpo_tabla_coma">70,19</td>
-<td class="cuerpo_tabla_coma">70,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">77,12</td>
-<td class="cuerpo_tabla_coma">77,28</td>
-<td class="cuerpo_tabla_coma">77,43</td>
-<td class="cuerpo_tabla_coma">77,58</td>
-<td class="cuerpo_tabla_coma">77,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 14 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">147,32</td>
-<td class="cuerpo_tabla_coma">147,19</td>
-<td class="cuerpo_tabla_coma">147,48</td>
-<td class="cuerpo_tabla_coma">147,77</td>
-<td class="cuerpo_tabla_coma">147,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">139,96</td>
-<td class="cuerpo_tabla_coma">139,83</td>
-<td class="cuerpo_tabla_coma">140,11</td>
-<td class="cuerpo_tabla_coma">140,38</td>
-<td class="cuerpo_tabla_coma">140,38</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">154,69</td>
-<td class="cuerpo_tabla_coma">154,55</td>
-<td class="cuerpo_tabla_coma">154,85</td>
-<td class="cuerpo_tabla_coma">155,16</td>
-<td class="cuerpo_tabla_coma">155,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 15 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">11,22</td>
-<td class="cuerpo_tabla_coma">11,24</td>
-<td class="cuerpo_tabla_coma">11,26</td>
-<td class="cuerpo_tabla_coma">11,29</td>
-<td class="cuerpo_tabla_coma">11,29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">10,66</td>
-<td class="cuerpo_tabla_coma">10,68</td>
-<td class="cuerpo_tabla_coma">10,7</td>
-<td class="cuerpo_tabla_coma">10,72</td>
-<td class="cuerpo_tabla_coma">10,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">11,78</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_coma">11,83</td>
-<td class="cuerpo_tabla_coma">11,85</td>
-<td class="cuerpo_tabla_coma">11,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 15 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">22,52</td>
-<td class="cuerpo_tabla_coma">22,48</td>
-<td class="cuerpo_tabla_coma">22,53</td>
-<td class="cuerpo_tabla_coma">22,57</td>
-<td class="cuerpo_tabla_coma">22,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">21,39</td>
-<td class="cuerpo_tabla_coma">21,36</td>
-<td class="cuerpo_tabla_coma">21,40</td>
-<td class="cuerpo_tabla_coma">21,44</td>
-<td class="cuerpo_tabla_coma">21,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">23,64</td>
-<td class="cuerpo_tabla_coma">23,60</td>
-<td class="cuerpo_tabla_coma">23,66</td>
-<td class="cuerpo_tabla_coma">23,70</td>
-<td class="cuerpo_tabla_coma">23,70</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 16 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">14,28</td>
-<td class="cuerpo_tabla_coma">14,31</td>
-<td class="cuerpo_tabla_coma">14,34</td>
-<td class="cuerpo_tabla_coma">14,37</td>
-<td class="cuerpo_tabla_coma">14,37</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">13,57</td>
-<td class="cuerpo_tabla_coma">13,6</td>
-<td class="cuerpo_tabla_coma">13,62</td>
-<td class="cuerpo_tabla_coma">13,65</td>
-<td class="cuerpo_tabla_coma">13,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_coma">15,03</td>
-<td class="cuerpo_tabla_coma">15,06</td>
-<td class="cuerpo_tabla_coma">15,09</td>
-<td class="cuerpo_tabla_coma">15,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 16 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">28,67</td>
-<td class="cuerpo_tabla_coma">28,62</td>
-<td class="cuerpo_tabla_coma">28,68</td>
-<td class="cuerpo_tabla_coma">28,74</td>
-<td class="cuerpo_tabla_coma">28,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">27,23</td>
-<td class="cuerpo_tabla_coma">27,19</td>
-<td class="cuerpo_tabla_coma">27,25</td>
-<td class="cuerpo_tabla_coma">27,30</td>
-<td class="cuerpo_tabla_coma">27,30</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">30,1</td>
-<td class="cuerpo_tabla_coma">30,05</td>
-<td class="cuerpo_tabla_coma">30,11</td>
-<td class="cuerpo_tabla_coma">30,18</td>
-<td class="cuerpo_tabla_coma">30,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 17 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">20,59</td>
-<td class="cuerpo_tabla_coma">20,63</td>
-<td class="cuerpo_tabla_coma">20,67</td>
-<td class="cuerpo_tabla_coma">20,71</td>
-<td class="cuerpo_tabla_coma">20,71</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">19,56</td>
-<td class="cuerpo_tabla_coma">19,59</td>
-<td class="cuerpo_tabla_coma">19,63</td>
-<td class="cuerpo_tabla_coma">19,67</td>
-<td class="cuerpo_tabla_coma">19,67</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">21,61</td>
-<td class="cuerpo_tabla_coma">21,66</td>
-<td class="cuerpo_tabla_coma">21,7</td>
-<td class="cuerpo_tabla_coma">21,74</td>
-<td class="cuerpo_tabla_coma">21,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 17 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">41,31</td>
-<td class="cuerpo_tabla_coma">41,25</td>
-<td class="cuerpo_tabla_coma">41,33</td>
-<td class="cuerpo_tabla_coma">41,41</td>
-<td class="cuerpo_tabla_coma">41,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">39,24</td>
-<td class="cuerpo_tabla_coma">39,19</td>
-<td class="cuerpo_tabla_coma">39,26</td>
-<td class="cuerpo_tabla_coma">39,34</td>
-<td class="cuerpo_tabla_coma">39,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">43,37</td>
-<td class="cuerpo_tabla_coma">43,31</td>
-<td class="cuerpo_tabla_coma">43,40</td>
-<td class="cuerpo_tabla_coma">43,48</td>
-<td class="cuerpo_tabla_coma">43,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 18 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">27,46</td>
-<td class="cuerpo_tabla_coma">27,51</td>
-<td class="cuerpo_tabla_coma">27,57</td>
-<td class="cuerpo_tabla_coma">27,62</td>
-<td class="cuerpo_tabla_coma">27,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">26,09</td>
-<td class="cuerpo_tabla_coma">26,14</td>
-<td class="cuerpo_tabla_coma">26,19</td>
-<td class="cuerpo_tabla_coma">26,24</td>
-<td class="cuerpo_tabla_coma">26,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">28,83</td>
-<td class="cuerpo_tabla_coma">28,89</td>
-<td class="cuerpo_tabla_coma">28,95</td>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_coma">29</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 18 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">55,11</td>
-<td class="cuerpo_tabla_coma">55,02</td>
-<td class="cuerpo_tabla_coma">55,14</td>
-<td class="cuerpo_tabla_coma">55,24</td>
-<td class="cuerpo_tabla_coma">55,24</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">52,36</td>
-<td class="cuerpo_tabla_coma">52,27</td>
-<td class="cuerpo_tabla_coma">52,38</td>
-<td class="cuerpo_tabla_coma">52,48</td>
-<td class="cuerpo_tabla_coma">52,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">57,87</td>
-<td class="cuerpo_tabla_coma">57,77</td>
-<td class="cuerpo_tabla_coma">57,90</td>
-<td class="cuerpo_tabla_coma">58,00</td>
-<td class="cuerpo_tabla_coma">58,00</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 19 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">39,52</td>
-<td class="cuerpo_tabla_coma">39,59</td>
-<td class="cuerpo_tabla_coma">39,67</td>
-<td class="cuerpo_tabla_coma">39,75</td>
-<td class="cuerpo_tabla_coma">39,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">37,54</td>
-<td class="cuerpo_tabla_coma">37,61</td>
-<td class="cuerpo_tabla_coma">37,69</td>
-<td class="cuerpo_tabla_coma">37,76</td>
-<td class="cuerpo_tabla_coma">37,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">41,49</td>
-<td class="cuerpo_tabla_coma">41,57</td>
-<td class="cuerpo_tabla_coma">41,66</td>
-<td class="cuerpo_tabla_coma">41,74</td>
-<td class="cuerpo_tabla_coma">41,74</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 19 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">79,32</td>
-<td class="cuerpo_tabla_coma">79,19</td>
-<td class="cuerpo_tabla_coma">79,34</td>
-<td class="cuerpo_tabla_coma">79,5</td>
-<td class="cuerpo_tabla_coma">79,5</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">75,36</td>
-<td class="cuerpo_tabla_coma">75,23</td>
-<td class="cuerpo_tabla_coma">75,37</td>
-<td class="cuerpo_tabla_coma">75,53</td>
-<td class="cuerpo_tabla_coma">75,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">83,29</td>
-<td class="cuerpo_tabla_coma">83,15</td>
-<td class="cuerpo_tabla_coma">83,31</td>
-<td class="cuerpo_tabla_coma">83,48</td>
-<td class="cuerpo_tabla_coma">83,48</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 20 umbral 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">37,51</td>
-<td class="cuerpo_tabla_coma">37,58</td>
-<td class="cuerpo_tabla_coma">37,65</td>
-<td class="cuerpo_tabla_coma">37,73</td>
-<td class="cuerpo_tabla_coma">37,73</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">35,63</td>
-<td class="cuerpo_tabla_coma">35,7</td>
-<td class="cuerpo_tabla_coma">35,77</td>
-<td class="cuerpo_tabla_coma">35,84</td>
-<td class="cuerpo_tabla_coma">35,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">39,38</td>
-<td class="cuerpo_tabla_coma">39,46</td>
-<td class="cuerpo_tabla_coma">39,54</td>
-<td class="cuerpo_tabla_coma">39,61</td>
-<td class="cuerpo_tabla_coma">39,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 20 umbral 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">60,94</td>
-<td class="cuerpo_tabla_coma">75,16</td>
-<td class="cuerpo_tabla_coma">75,31</td>
-<td class="cuerpo_tabla_coma">75,46</td>
-<td class="cuerpo_tabla_coma">75,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">57,90</td>
-<td class="cuerpo_tabla_coma">71,40</td>
-<td class="cuerpo_tabla_coma">71,54</td>
-<td class="cuerpo_tabla_coma">71,69</td>
-<td class="cuerpo_tabla_coma">71,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">78,76</td>
-<td class="cuerpo_tabla_coma">78,92</td>
-<td class="cuerpo_tabla_coma">79,08</td>
-<td class="cuerpo_tabla_coma">79,23</td>
-<td class="cuerpo_tabla_coma">79,23</td>
+<td rowspan="3">Región 1 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>16,29</td>
+<td>16,32</td>
+<td>16,35</td>
+<td>16,38</td>
+<td>16,38</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>15,48</td>
+<td>15,5</td>
+<td>15,53</td>
+<td>15,56</td>
+<td>15,56</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>17,1</td>
+<td>17,14</td>
+<td>17,17</td>
+<td>17,2</td>
+<td>17,2</td>
+</tr>
+<tr>
+<td rowspan="3">Región 1 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>32,59</td>
+<td>32,65</td>
+<td>32,71</td>
+<td>32,77</td>
+<td>32,77</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>30,96</td>
+<td>31,02</td>
+<td>31,07</td>
+<td>31,13</td>
+<td>31,13</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>34,22</td>
+<td>34,28</td>
+<td>34,35</td>
+<td>34,41</td>
+<td>34,41</td>
+</tr>
+<tr>
+<td rowspan="3">Región 2 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>19,53</td>
+<td>19,57</td>
+<td>19,6</td>
+<td>19,64</td>
+<td>19,64</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>18,55</td>
+<td>18,59</td>
+<td>18,62</td>
+<td>18,66</td>
+<td>18,66</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>20,51</td>
+<td>20,55</td>
+<td>20,58</td>
+<td>20,62</td>
+<td>20,62</td>
+</tr>
+<tr>
+<td rowspan="3">Región 2 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>39,06</td>
+<td>39,13</td>
+<td>39,2</td>
+<td>39,28</td>
+<td>39,28</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>37,11</td>
+<td>37,17</td>
+<td>37,24</td>
+<td>37,32</td>
+<td>37,32</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>41,01</td>
+<td>41,09</td>
+<td>41,16</td>
+<td>41,24</td>
+<td>41,24</td>
+</tr>
+<tr>
+<td rowspan="3">Región 3 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>25,97</td>
+<td>26,02</td>
+<td>26,07</td>
+<td>26,12</td>
+<td>26,12</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>24,67</td>
+<td>24,72</td>
+<td>24,77</td>
+<td>24,81</td>
+<td>24,81</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>27,27</td>
+<td>27,32</td>
+<td>27,37</td>
+<td>27,43</td>
+<td>27,43</td>
+</tr>
+<tr>
+<td rowspan="3">Región 3 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>51,94</td>
+<td>52,04</td>
+<td>52,13</td>
+<td>52,23</td>
+<td>52,23</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>49,34</td>
+<td>49,44</td>
+<td>49,52</td>
+<td>49,62</td>
+<td>49,62</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>54,54</td>
+<td>54,64</td>
+<td>54,74</td>
+<td>54,84</td>
+<td>54,84</td>
+</tr>
+<tr>
+<td rowspan="3">Región 4 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>39,81</td>
+<td>39,88</td>
+<td>39,92</td>
+<td>40,03</td>
+<td>40,03</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>37,82</td>
+<td>37,89</td>
+<td>37,92</td>
+<td>38,03</td>
+<td>38,03</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>41,8</td>
+<td>41,87</td>
+<td>41,92</td>
+<td>42,03</td>
+<td>42,03</td>
+</tr>
+<tr>
+<td rowspan="3">Región 4 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>79,61</td>
+<td>79,76</td>
+<td>79,83</td>
+<td>80,06</td>
+<td>80,06</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>75,63</td>
+<td>75,77</td>
+<td>75,84</td>
+<td>76,06</td>
+<td>76,06</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>83,59</td>
+<td>83,75</td>
+<td>83,82</td>
+<td>84,06</td>
+<td>84,06</td>
+</tr>
+<tr>
+<td rowspan="3">Región 5 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>61,58</td>
+<td>61,7</td>
+<td>61,82</td>
+<td>61,94</td>
+<td>61,94</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>58,5</td>
+<td>58,61</td>
+<td>58,73</td>
+<td>58,84</td>
+<td>58,84</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>64,66</td>
+<td>64,78</td>
+<td>64,91</td>
+<td>65,04</td>
+<td>65,04</td>
+</tr>
+<tr>
+<td rowspan="3">Región 5 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>123,49</td>
+<td>123,4</td>
+<td>123,64</td>
+<td>123,88</td>
+<td>123,88</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>117,32</td>
+<td>117,23</td>
+<td>117,46</td>
+<td>117,69</td>
+<td>117,69</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>129,66</td>
+<td>129,57</td>
+<td>129,82</td>
+<td>130,07</td>
+<td>130,07</td>
+</tr>
+<tr>
+<td rowspan="3">Región 6 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>31,57</td>
+<td>31,63</td>
+<td>31,69</td>
+<td>31,76</td>
+<td>31,76</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>29,99</td>
+<td>30,05</td>
+<td>30,11</td>
+<td>30,17</td>
+<td>30,17</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>33,15</td>
+<td>33,21</td>
+<td>33,28</td>
+<td>33,34</td>
+<td>33,34</td>
+</tr>
+<tr>
+<td rowspan="3">Región 6 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>63,31</td>
+<td>63,26</td>
+<td>63,39</td>
+<td>63,52</td>
+<td>63,52</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>60,15</td>
+<td>60,10</td>
+<td>60,22</td>
+<td>60,34</td>
+<td>60,34</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>66,48</td>
+<td>66,42</td>
+<td>66,56</td>
+<td>66,70</td>
+<td>66,70</td>
+</tr>
+<tr>
+<td rowspan="3">Región 7 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>41,09</td>
+<td>41,17</td>
+<td>41,26</td>
+<td>41,34</td>
+<td>41,34</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>39,04</td>
+<td>39,12</td>
+<td>39,19</td>
+<td>39,27</td>
+<td>39,27</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>43,15</td>
+<td>43,23</td>
+<td>43,32</td>
+<td>43,4</td>
+<td>43,4</td>
+</tr>
+<tr>
+<td rowspan="3">Región 7 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>82,41</td>
+<td>82,35</td>
+<td>82,51</td>
+<td>82,67</td>
+<td>82,67</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>78,29</td>
+<td>78,23</td>
+<td>78,38</td>
+<td>78,54</td>
+<td>78,54</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>86,53</td>
+<td>86,47</td>
+<td>86,64</td>
+<td>86,80</td>
+<td>86,80</td>
+</tr>
+<tr>
+<td rowspan="3">Región 8 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>50,34</td>
+<td>50,44</td>
+<td>50,54</td>
+<td>50,64</td>
+<td>50,64</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>47,83</td>
+<td>47,92</td>
+<td>48,01</td>
+<td>48,11</td>
+<td>48,11</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>52,86</td>
+<td>52,97</td>
+<td>53,07</td>
+<td>53,17</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td rowspan="3">Región 8 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>100,99</td>
+<td>100,88</td>
+<td>101,08</td>
+<td>101,28</td>
+<td>101,28</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>95,94</td>
+<td>95,84</td>
+<td>96,03</td>
+<td>96,22</td>
+<td>96,22</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>106,04</td>
+<td>105,92</td>
+<td>106,13</td>
+<td>106,34</td>
+<td>106,34</td>
+</tr>
+<tr>
+<td rowspan="3">Región 9 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>81,44</td>
+<td>81,6</td>
+<td>81,76</td>
+<td>81,92</td>
+<td>81,92</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>77,37</td>
+<td>77,52</td>
+<td>77,67</td>
+<td>77,83</td>
+<td>77,83</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>85,51</td>
+<td>85,68</td>
+<td>85,85</td>
+<td>86,02</td>
+<td>86,02</td>
+</tr>
+<tr>
+<td rowspan="3">Región 9 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>163,33</td>
+<td>163,2</td>
+<td>163,52</td>
+<td>163,84</td>
+<td>163,84</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>155,16</td>
+<td>155,04</td>
+<td>155,34</td>
+<td>155,65</td>
+<td>155,65</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>171,49</td>
+<td>171,36</td>
+<td>171,70</td>
+<td>172,03</td>
+<td>172,03</td>
+</tr>
+<tr>
+<td rowspan="3">Región 10 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>209,68</td>
+<td>209,68</td>
+<td>209,68</td>
+<td>209,68</td>
+<td>209,68</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+</tr>
+<tr>
+<td rowspan="3">Región 10 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>209,68</td>
+<td>209,68</td>
+<td>209,68</td>
+<td>209,68</td>
+<td>209,68</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+<td>220,72</td>
+</tr>
+<tr>
+<td rowspan="3">Región 11 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>19,68</td>
+<td>19,72</td>
+<td>19,76</td>
+<td>19,8</td>
+<td>19,8</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>18,7</td>
+<td>18,74</td>
+<td>18,77</td>
+<td>18,81</td>
+<td>18,81</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>20,67</td>
+<td>20,71</td>
+<td>20,75</td>
+<td>20,79</td>
+<td>20,79</td>
+</tr>
+<tr>
+<td rowspan="3">Región 11 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>39,49</td>
+<td>39,45</td>
+<td>39,52</td>
+<td>39,6</td>
+<td>39,6</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>37,52</td>
+<td>37,48</td>
+<td>37,54</td>
+<td>37,62</td>
+<td>37,62</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>41,47</td>
+<td>41,42</td>
+<td>41,50</td>
+<td>41,58</td>
+<td>41,58</td>
+</tr>
+<tr>
+<td rowspan="3">Región 12 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>28,4</td>
+<td>28,46</td>
+<td>28,51</td>
+<td>28,57</td>
+<td>28,57</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>26,98</td>
+<td>27,03</td>
+<td>27,09</td>
+<td>27,14</td>
+<td>27,14</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>29,82</td>
+<td>29,88</td>
+<td>29,94</td>
+<td>30</td>
+<td>30</td>
+</tr>
+<tr>
+<td rowspan="3">Región 12 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>56,98</td>
+<td>56,92</td>
+<td>57,03</td>
+<td>57,14</td>
+<td>57,14</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>54,13</td>
+<td>54,07</td>
+<td>54,18</td>
+<td>54,28</td>
+<td>54,28</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>59,83</td>
+<td>59,77</td>
+<td>59,88</td>
+<td>60,00</td>
+<td>60,00</td>
+</tr>
+<tr>
+<td rowspan="3">Región 13 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>52,01</td>
+<td>52,11</td>
+<td>52,21</td>
+<td>52,31</td>
+<td>52,31</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>49,41</td>
+<td>49,5</td>
+<td>49,6</td>
+<td>49,7</td>
+<td>49,7</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>54,61</td>
+<td>54,71</td>
+<td>54,82</td>
+<td>54,93</td>
+<td>54,93</td>
+</tr>
+<tr>
+<td rowspan="3">Región 13 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>104,31</td>
+<td>104,22</td>
+<td>104,42</td>
+<td>104,63</td>
+<td>104,63</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>99,1</td>
+<td>99,01</td>
+<td>99,20</td>
+<td>99,40</td>
+<td>99,40</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>109,53</td>
+<td>109,43</td>
+<td>109,64</td>
+<td>109,86</td>
+<td>109,86</td>
+</tr>
+<tr>
+<td rowspan="3">Región 14 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>73,45</td>
+<td>73,6</td>
+<td>73,74</td>
+<td>73,89</td>
+<td>73,89</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>69,78</td>
+<td>69,92</td>
+<td>70,05</td>
+<td>70,19</td>
+<td>70,19</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>77,12</td>
+<td>77,28</td>
+<td>77,43</td>
+<td>77,58</td>
+<td>77,58</td>
+</tr>
+<tr>
+<td rowspan="3">Región 14 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>147,32</td>
+<td>147,19</td>
+<td>147,48</td>
+<td>147,77</td>
+<td>147,77</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>139,96</td>
+<td>139,83</td>
+<td>140,11</td>
+<td>140,38</td>
+<td>140,38</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>154,69</td>
+<td>154,55</td>
+<td>154,85</td>
+<td>155,16</td>
+<td>155,16</td>
+</tr>
+<tr>
+<td rowspan="3">Región 15 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>11,22</td>
+<td>11,24</td>
+<td>11,26</td>
+<td>11,29</td>
+<td>11,29</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>10,66</td>
+<td>10,68</td>
+<td>10,7</td>
+<td>10,72</td>
+<td>10,72</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>11,78</td>
+<td>11,8</td>
+<td>11,83</td>
+<td>11,85</td>
+<td>11,85</td>
+</tr>
+<tr>
+<td rowspan="3">Región 15 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>22,52</td>
+<td>22,48</td>
+<td>22,53</td>
+<td>22,57</td>
+<td>22,57</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>21,39</td>
+<td>21,36</td>
+<td>21,40</td>
+<td>21,44</td>
+<td>21,44</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>23,64</td>
+<td>23,60</td>
+<td>23,66</td>
+<td>23,70</td>
+<td>23,70</td>
+</tr>
+<tr>
+<td rowspan="3">Región 16 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>14,28</td>
+<td>14,31</td>
+<td>14,34</td>
+<td>14,37</td>
+<td>14,37</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>13,57</td>
+<td>13,6</td>
+<td>13,62</td>
+<td>13,65</td>
+<td>13,65</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>15</td>
+<td>15,03</td>
+<td>15,06</td>
+<td>15,09</td>
+<td>15,09</td>
+</tr>
+<tr>
+<td rowspan="3">Región 16 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>28,67</td>
+<td>28,62</td>
+<td>28,68</td>
+<td>28,74</td>
+<td>28,74</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>27,23</td>
+<td>27,19</td>
+<td>27,25</td>
+<td>27,30</td>
+<td>27,30</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>30,1</td>
+<td>30,05</td>
+<td>30,11</td>
+<td>30,18</td>
+<td>30,18</td>
+</tr>
+<tr>
+<td rowspan="3">Región 17 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>20,59</td>
+<td>20,63</td>
+<td>20,67</td>
+<td>20,71</td>
+<td>20,71</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>19,56</td>
+<td>19,59</td>
+<td>19,63</td>
+<td>19,67</td>
+<td>19,67</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>21,61</td>
+<td>21,66</td>
+<td>21,7</td>
+<td>21,74</td>
+<td>21,74</td>
+</tr>
+<tr>
+<td rowspan="3">Región 17 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>41,31</td>
+<td>41,25</td>
+<td>41,33</td>
+<td>41,41</td>
+<td>41,41</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>39,24</td>
+<td>39,19</td>
+<td>39,26</td>
+<td>39,34</td>
+<td>39,34</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>43,37</td>
+<td>43,31</td>
+<td>43,40</td>
+<td>43,48</td>
+<td>43,48</td>
+</tr>
+<tr>
+<td rowspan="3">Región 18 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>27,46</td>
+<td>27,51</td>
+<td>27,57</td>
+<td>27,62</td>
+<td>27,62</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>26,09</td>
+<td>26,14</td>
+<td>26,19</td>
+<td>26,24</td>
+<td>26,24</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>28,83</td>
+<td>28,89</td>
+<td>28,95</td>
+<td>29</td>
+<td>29</td>
+</tr>
+<tr>
+<td rowspan="3">Región 18 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>55,11</td>
+<td>55,02</td>
+<td>55,14</td>
+<td>55,24</td>
+<td>55,24</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>52,36</td>
+<td>52,27</td>
+<td>52,38</td>
+<td>52,48</td>
+<td>52,48</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>57,87</td>
+<td>57,77</td>
+<td>57,90</td>
+<td>58,00</td>
+<td>58,00</td>
+</tr>
+<tr>
+<td rowspan="3">Región 19 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>39,52</td>
+<td>39,59</td>
+<td>39,67</td>
+<td>39,75</td>
+<td>39,75</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>37,54</td>
+<td>37,61</td>
+<td>37,69</td>
+<td>37,76</td>
+<td>37,76</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>41,49</td>
+<td>41,57</td>
+<td>41,66</td>
+<td>41,74</td>
+<td>41,74</td>
+</tr>
+<tr>
+<td rowspan="3">Región 19 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>79,32</td>
+<td>79,19</td>
+<td>79,34</td>
+<td>79,5</td>
+<td>79,5</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>75,36</td>
+<td>75,23</td>
+<td>75,37</td>
+<td>75,53</td>
+<td>75,53</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>83,29</td>
+<td>83,15</td>
+<td>83,31</td>
+<td>83,48</td>
+<td>83,48</td>
+</tr>
+<tr>
+<td rowspan="3">Región 20 umbral 1.</td>
+<td>Importe unitario planificado.</td>
+<td>37,51</td>
+<td>37,58</td>
+<td>37,65</td>
+<td>37,73</td>
+<td>37,73</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>35,63</td>
+<td>35,7</td>
+<td>35,77</td>
+<td>35,84</td>
+<td>35,84</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>39,38</td>
+<td>39,46</td>
+<td>39,54</td>
+<td>39,61</td>
+<td>39,61</td>
+</tr>
+<tr>
+<td rowspan="3">Región 20 umbral 2.</td>
+<td>Importe unitario planificado.</td>
+<td>60,94</td>
+<td>75,16</td>
+<td>75,31</td>
+<td>75,46</td>
+<td>75,46</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>57,90</td>
+<td>71,40</td>
+<td>71,54</td>
+<td>71,69</td>
+<td>71,69</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>78,76</td>
+<td>78,92</td>
+<td>79,08</td>
+<td>79,23</td>
+<td>79,23</td>
 </tr>
 </tbody>
 </table>
 
 Ayuda Complementaria a la renta para los jóvenes agricultores
 
-<table class="tabla">
-<colgroup>
-<col width="15%">
-<col width="30%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Campaña</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th colspan="2">Campaña</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Regón 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">81,47</td>
-<td class="cuerpo_tabla_coma">81,62</td>
-<td class="cuerpo_tabla_coma">81,77</td>
-<td class="cuerpo_tabla_coma">81,92</td>
-<td class="cuerpo_tabla_coma">81,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">77,4</td>
-<td class="cuerpo_tabla_coma">77,54</td>
-<td class="cuerpo_tabla_coma">77,68</td>
-<td class="cuerpo_tabla_coma">77,82</td>
-<td class="cuerpo_tabla_coma">77,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">93,69</td>
-<td class="cuerpo_tabla_coma">93,86</td>
-<td class="cuerpo_tabla_coma">94,04</td>
-<td class="cuerpo_tabla_coma">94,21</td>
-<td class="cuerpo_tabla_coma">94,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 1.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">93,69</td>
-<td class="cuerpo_tabla_coma">93,86</td>
-<td class="cuerpo_tabla_coma">94,04</td>
-<td class="cuerpo_tabla_coma">94,21</td>
-<td class="cuerpo_tabla_coma">94,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">89,01</td>
-<td class="cuerpo_tabla_coma">89,17</td>
-<td class="cuerpo_tabla_coma">89,34</td>
-<td class="cuerpo_tabla_coma">89,5</td>
-<td class="cuerpo_tabla_coma">89,5</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">107,74</td>
-<td class="cuerpo_tabla_coma">107,94</td>
-<td class="cuerpo_tabla_coma">108,15</td>
-<td class="cuerpo_tabla_coma">108,34</td>
-<td class="cuerpo_tabla_coma">108,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">97,64</td>
-<td class="cuerpo_tabla_coma">97,83</td>
-<td class="cuerpo_tabla_coma">98,01</td>
-<td class="cuerpo_tabla_coma">98,19</td>
-<td class="cuerpo_tabla_coma">98,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">92,76</td>
-<td class="cuerpo_tabla_coma">92,94</td>
-<td class="cuerpo_tabla_coma">93,11</td>
-<td class="cuerpo_tabla_coma">93,28</td>
-<td class="cuerpo_tabla_coma">93,28</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">112,29</td>
-<td class="cuerpo_tabla_coma">112,5</td>
-<td class="cuerpo_tabla_coma">112,71</td>
-<td class="cuerpo_tabla_coma">112,92</td>
-<td class="cuerpo_tabla_coma">112,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 2.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">112,29</td>
-<td class="cuerpo_tabla_coma">112,5</td>
-<td class="cuerpo_tabla_coma">112,71</td>
-<td class="cuerpo_tabla_coma">112,92</td>
-<td class="cuerpo_tabla_coma">112,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">106,68</td>
-<td class="cuerpo_tabla_coma">106,88</td>
-<td class="cuerpo_tabla_coma">107,07</td>
-<td class="cuerpo_tabla_coma">107,27</td>
-<td class="cuerpo_tabla_coma">107,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">129,13</td>
-<td class="cuerpo_tabla_coma">129,38</td>
-<td class="cuerpo_tabla_coma">129,62</td>
-<td class="cuerpo_tabla_coma">129,86</td>
-<td class="cuerpo_tabla_coma">129,86</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 3.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">129,85</td>
-<td class="cuerpo_tabla_coma">130,09</td>
-<td class="cuerpo_tabla_coma">130,33</td>
-<td class="cuerpo_tabla_coma">130,58</td>
-<td class="cuerpo_tabla_coma">130,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">123,36</td>
-<td class="cuerpo_tabla_coma">123,59</td>
-<td class="cuerpo_tabla_coma">123,81</td>
-<td class="cuerpo_tabla_coma">124,05</td>
-<td class="cuerpo_tabla_coma">124,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">149,33</td>
-<td class="cuerpo_tabla_coma">149,6</td>
-<td class="cuerpo_tabla_coma">149,88</td>
-<td class="cuerpo_tabla_coma">150,17</td>
-<td class="cuerpo_tabla_coma">150,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 3.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">149,33</td>
-<td class="cuerpo_tabla_coma">149,6</td>
-<td class="cuerpo_tabla_coma">149,88</td>
-<td class="cuerpo_tabla_coma">150,17</td>
-<td class="cuerpo_tabla_coma">150,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">141,86</td>
-<td class="cuerpo_tabla_coma">142,12</td>
-<td class="cuerpo_tabla_coma">142,39</td>
-<td class="cuerpo_tabla_coma">142,66</td>
-<td class="cuerpo_tabla_coma">142,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">171,73</td>
-<td class="cuerpo_tabla_coma">172,04</td>
-<td class="cuerpo_tabla_coma">172,36</td>
-<td class="cuerpo_tabla_coma">172,7</td>
-<td class="cuerpo_tabla_coma">172,7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 4.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">199,03</td>
-<td class="cuerpo_tabla_coma">199,4</td>
-<td class="cuerpo_tabla_coma">199,58</td>
-<td class="cuerpo_tabla_coma">200,15</td>
-<td class="cuerpo_tabla_coma">200,15</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">189,08</td>
-<td class="cuerpo_tabla_coma">189,43</td>
-<td class="cuerpo_tabla_coma">189,6</td>
-<td class="cuerpo_tabla_coma">190,14</td>
-<td class="cuerpo_tabla_coma">190,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">228,88</td>
-<td class="cuerpo_tabla_coma">229,31</td>
-<td class="cuerpo_tabla_coma">229,52</td>
-<td class="cuerpo_tabla_coma">230,17</td>
-<td class="cuerpo_tabla_coma">230,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 4.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">228,88</td>
-<td class="cuerpo_tabla_coma">229,31</td>
-<td class="cuerpo_tabla_coma">229,52</td>
-<td class="cuerpo_tabla_coma">230,17</td>
-<td class="cuerpo_tabla_coma">230,17</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">217,44</td>
-<td class="cuerpo_tabla_coma">217,84</td>
-<td class="cuerpo_tabla_coma">218,04</td>
-<td class="cuerpo_tabla_coma">218,66</td>
-<td class="cuerpo_tabla_coma">218,66</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">263,21</td>
-<td class="cuerpo_tabla_coma">263,71</td>
-<td class="cuerpo_tabla_coma">263,95</td>
-<td class="cuerpo_tabla_coma">264,7</td>
-<td class="cuerpo_tabla_coma">264,7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 5.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">307,88</td>
-<td class="cuerpo_tabla_coma">308,49</td>
-<td class="cuerpo_tabla_coma">309,1</td>
-<td class="cuerpo_tabla_coma">309,7</td>
-<td class="cuerpo_tabla_coma">309,7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">292,49</td>
-<td class="cuerpo_tabla_coma">293,06</td>
-<td class="cuerpo_tabla_coma">293,64</td>
-<td class="cuerpo_tabla_coma">294,22</td>
-<td class="cuerpo_tabla_coma">294,22</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">354,06</td>
-<td class="cuerpo_tabla_coma">354,76</td>
-<td class="cuerpo_tabla_coma">355,46</td>
-<td class="cuerpo_tabla_coma">356,16</td>
-<td class="cuerpo_tabla_coma">356,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 5.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">354,06</td>
-<td class="cuerpo_tabla_coma">354,76</td>
-<td class="cuerpo_tabla_coma">355,46</td>
-<td class="cuerpo_tabla_coma">356,16</td>
-<td class="cuerpo_tabla_coma">356,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">336,36</td>
-<td class="cuerpo_tabla_coma">337,02</td>
-<td class="cuerpo_tabla_coma">337,69</td>
-<td class="cuerpo_tabla_coma">338,35</td>
-<td class="cuerpo_tabla_coma">338,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">407,17</td>
-<td class="cuerpo_tabla_coma">407,98</td>
-<td class="cuerpo_tabla_coma">408,78</td>
-<td class="cuerpo_tabla_coma">409,58</td>
-<td class="cuerpo_tabla_coma">409,58</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 6.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">157,85</td>
-<td class="cuerpo_tabla_coma">158,16</td>
-<td class="cuerpo_tabla_coma">158,47</td>
-<td class="cuerpo_tabla_coma">158,79</td>
-<td class="cuerpo_tabla_coma">158,79</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">149,96</td>
-<td class="cuerpo_tabla_coma">150,25</td>
-<td class="cuerpo_tabla_coma">150,55</td>
-<td class="cuerpo_tabla_coma">150,85</td>
-<td class="cuerpo_tabla_coma">150,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">181,53</td>
-<td class="cuerpo_tabla_coma">181,89</td>
-<td class="cuerpo_tabla_coma">182,25</td>
-<td class="cuerpo_tabla_coma">182,6</td>
-<td class="cuerpo_tabla_coma">182,6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 6.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">181,53</td>
-<td class="cuerpo_tabla_coma">181,89</td>
-<td class="cuerpo_tabla_coma">182,25</td>
-<td class="cuerpo_tabla_coma">182,6</td>
-<td class="cuerpo_tabla_coma">182,6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">172,45</td>
-<td class="cuerpo_tabla_coma">172,79</td>
-<td class="cuerpo_tabla_coma">173,13</td>
-<td class="cuerpo_tabla_coma">173,47</td>
-<td class="cuerpo_tabla_coma">173,47</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">208,76</td>
-<td class="cuerpo_tabla_coma">209,17</td>
-<td class="cuerpo_tabla_coma">209,58</td>
-<td class="cuerpo_tabla_coma">209,99</td>
-<td class="cuerpo_tabla_coma">209,99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 7.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">205,47</td>
-<td class="cuerpo_tabla_coma">205,87</td>
-<td class="cuerpo_tabla_coma">206,28</td>
-<td class="cuerpo_tabla_coma">206,68</td>
-<td class="cuerpo_tabla_coma">206,68</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">195,2</td>
-<td class="cuerpo_tabla_coma">195,58</td>
-<td class="cuerpo_tabla_coma">195,97</td>
-<td class="cuerpo_tabla_coma">196,35</td>
-<td class="cuerpo_tabla_coma">196,35</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">236,29</td>
-<td class="cuerpo_tabla_coma">236,76</td>
-<td class="cuerpo_tabla_coma">237,22</td>
-<td class="cuerpo_tabla_coma">237,69</td>
-<td class="cuerpo_tabla_coma">237,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 7.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">236,29</td>
-<td class="cuerpo_tabla_coma">236,76</td>
-<td class="cuerpo_tabla_coma">237,22</td>
-<td class="cuerpo_tabla_coma">237,69</td>
-<td class="cuerpo_tabla_coma">237,69</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">224,48</td>
-<td class="cuerpo_tabla_coma">224,92</td>
-<td class="cuerpo_tabla_coma">225,36</td>
-<td class="cuerpo_tabla_coma">225,8</td>
-<td class="cuerpo_tabla_coma">225,8</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">271,73</td>
-<td class="cuerpo_tabla_coma">272,27</td>
-<td class="cuerpo_tabla_coma">272,8</td>
-<td class="cuerpo_tabla_coma">273,34</td>
-<td class="cuerpo_tabla_coma">273,34</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 8.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">251,72</td>
-<td class="cuerpo_tabla_coma">252,21</td>
-<td class="cuerpo_tabla_coma">252,71</td>
-<td class="cuerpo_tabla_coma">253,21</td>
-<td class="cuerpo_tabla_coma">253,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">239,13</td>
-<td class="cuerpo_tabla_coma">239,6</td>
-<td class="cuerpo_tabla_coma">240,07</td>
-<td class="cuerpo_tabla_coma">240,55</td>
-<td class="cuerpo_tabla_coma">240,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">289,48</td>
-<td class="cuerpo_tabla_coma">290,05</td>
-<td class="cuerpo_tabla_coma">290,62</td>
-<td class="cuerpo_tabla_coma">291,19</td>
-<td class="cuerpo_tabla_coma">291,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 8.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">289,48</td>
-<td class="cuerpo_tabla_coma">290,05</td>
-<td class="cuerpo_tabla_coma">290,62</td>
-<td class="cuerpo_tabla_coma">291,19</td>
-<td class="cuerpo_tabla_coma">291,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_coma">275,54</td>
-<td class="cuerpo_tabla_coma">276,09</td>
-<td class="cuerpo_tabla_coma">276,63</td>
-<td class="cuerpo_tabla_coma">276,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">332,9</td>
-<td class="cuerpo_tabla_coma">333,55</td>
-<td class="cuerpo_tabla_coma">334,21</td>
-<td class="cuerpo_tabla_coma">334,87</td>
-<td class="cuerpo_tabla_coma">334,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 9.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">407,2</td>
-<td class="cuerpo_tabla_coma">408</td>
-<td class="cuerpo_tabla_coma">408,81</td>
-<td class="cuerpo_tabla_coma">409,61</td>
-<td class="cuerpo_tabla_coma">409,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">386,84</td>
-<td class="cuerpo_tabla_coma">387,6</td>
-<td class="cuerpo_tabla_coma">388,37</td>
-<td class="cuerpo_tabla_coma">389,13</td>
-<td class="cuerpo_tabla_coma">389,13</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">468,28</td>
-<td class="cuerpo_tabla_coma">469,2</td>
-<td class="cuerpo_tabla_coma">470,13</td>
-<td class="cuerpo_tabla_coma">471,05</td>
-<td class="cuerpo_tabla_coma">471,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 9.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">468,28</td>
-<td class="cuerpo_tabla_coma">469,2</td>
-<td class="cuerpo_tabla_coma">470,13</td>
-<td class="cuerpo_tabla_coma">471,05</td>
-<td class="cuerpo_tabla_coma">471,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">444,87</td>
-<td class="cuerpo_tabla_coma">445,74</td>
-<td class="cuerpo_tabla_coma">446,62</td>
-<td class="cuerpo_tabla_coma">447,5</td>
-<td class="cuerpo_tabla_coma">447,5</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">538,52</td>
-<td class="cuerpo_tabla_coma">539,58</td>
-<td class="cuerpo_tabla_coma">540,65</td>
-<td class="cuerpo_tabla_coma">541,71</td>
-<td class="cuerpo_tabla_coma">541,71</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 10.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">1.229,17</td>
-<td class="cuerpo_tabla_coma">1.231,60</td>
-<td class="cuerpo_tabla_coma">1.234,02</td>
-<td class="cuerpo_tabla_coma">1.236,44</td>
-<td class="cuerpo_tabla_coma">1.236,44</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">1.167,71</td>
-<td class="cuerpo_tabla_coma">1.170,02</td>
-<td class="cuerpo_tabla_coma">1.172,32</td>
-<td class="cuerpo_tabla_coma">1.174,62</td>
-<td class="cuerpo_tabla_coma">1.174,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">1.413,55</td>
-<td class="cuerpo_tabla_coma">1.416,33</td>
-<td class="cuerpo_tabla_coma">1.419,12</td>
-<td class="cuerpo_tabla_coma">1.421,91</td>
-<td class="cuerpo_tabla_coma">1.421,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 10.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">1.413,55</td>
-<td class="cuerpo_tabla_coma">1.416,33</td>
-<td class="cuerpo_tabla_coma">1.419,12</td>
-<td class="cuerpo_tabla_coma">1.421,91</td>
-<td class="cuerpo_tabla_coma">1.421,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">1.342,87</td>
-<td class="cuerpo_tabla_coma">1.345,52</td>
-<td class="cuerpo_tabla_coma">1.348,16</td>
-<td class="cuerpo_tabla_coma">1.350,81</td>
-<td class="cuerpo_tabla_coma">1.350,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">1.625,58</td>
-<td class="cuerpo_tabla_coma">1.628,79</td>
-<td class="cuerpo_tabla_coma">1.631,99</td>
-<td class="cuerpo_tabla_coma">1.635,19</td>
-<td class="cuerpo_tabla_coma">1.635,19</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 11.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">98,42</td>
-<td class="cuerpo_tabla_coma">98,62</td>
-<td class="cuerpo_tabla_coma">98,81</td>
-<td class="cuerpo_tabla_coma">99</td>
-<td class="cuerpo_tabla_coma">99</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">93,5</td>
-<td class="cuerpo_tabla_coma">93,68</td>
-<td class="cuerpo_tabla_coma">93,87</td>
-<td class="cuerpo_tabla_coma">94,05</td>
-<td class="cuerpo_tabla_coma">94,05</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">113,18</td>
-<td class="cuerpo_tabla_coma">113,41</td>
-<td class="cuerpo_tabla_coma">113,63</td>
-<td class="cuerpo_tabla_coma">113,85</td>
-<td class="cuerpo_tabla_coma">113,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 11.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">113,18</td>
-<td class="cuerpo_tabla_coma">113,41</td>
-<td class="cuerpo_tabla_coma">113,63</td>
-<td class="cuerpo_tabla_coma">113,85</td>
-<td class="cuerpo_tabla_coma">113,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">107,53</td>
-<td class="cuerpo_tabla_coma">107,74</td>
-<td class="cuerpo_tabla_coma">107,95</td>
-<td class="cuerpo_tabla_coma">108,16</td>
-<td class="cuerpo_tabla_coma">108,16</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">130,16</td>
-<td class="cuerpo_tabla_coma">130,42</td>
-<td class="cuerpo_tabla_coma">130,68</td>
-<td class="cuerpo_tabla_coma">130,93</td>
-<td class="cuerpo_tabla_coma">130,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 12.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">142,01</td>
-<td class="cuerpo_tabla_coma">142,29</td>
-<td class="cuerpo_tabla_coma">142,57</td>
-<td class="cuerpo_tabla_coma">142,84</td>
-<td class="cuerpo_tabla_coma">142,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">134,91</td>
-<td class="cuerpo_tabla_coma">135,17</td>
-<td class="cuerpo_tabla_coma">135,44</td>
-<td class="cuerpo_tabla_coma">135,7</td>
-<td class="cuerpo_tabla_coma">135,7</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">163,31</td>
-<td class="cuerpo_tabla_coma">163,63</td>
-<td class="cuerpo_tabla_coma">163,95</td>
-<td class="cuerpo_tabla_coma">164,27</td>
-<td class="cuerpo_tabla_coma">164,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 12.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">163,31</td>
-<td class="cuerpo_tabla_coma">163,63</td>
-<td class="cuerpo_tabla_coma">163,95</td>
-<td class="cuerpo_tabla_coma">164,27</td>
-<td class="cuerpo_tabla_coma">164,27</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">155,14</td>
-<td class="cuerpo_tabla_coma">155,45</td>
-<td class="cuerpo_tabla_coma">155,75</td>
-<td class="cuerpo_tabla_coma">156,06</td>
-<td class="cuerpo_tabla_coma">156,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">187,8</td>
-<td class="cuerpo_tabla_coma">188,17</td>
-<td class="cuerpo_tabla_coma">188,54</td>
-<td class="cuerpo_tabla_coma">188,91</td>
-<td class="cuerpo_tabla_coma">188,91</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 13.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">260,03</td>
-<td class="cuerpo_tabla_coma">260,54</td>
-<td class="cuerpo_tabla_coma">261,05</td>
-<td class="cuerpo_tabla_coma">261,57</td>
-<td class="cuerpo_tabla_coma">261,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">247,03</td>
-<td class="cuerpo_tabla_coma">247,51</td>
-<td class="cuerpo_tabla_coma">248</td>
-<td class="cuerpo_tabla_coma">248,49</td>
-<td class="cuerpo_tabla_coma">248,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">299,03</td>
-<td class="cuerpo_tabla_coma">299,62</td>
-<td class="cuerpo_tabla_coma">300,21</td>
-<td class="cuerpo_tabla_coma">300,8</td>
-<td class="cuerpo_tabla_coma">300,8</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 13.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">299,03</td>
-<td class="cuerpo_tabla_coma">299,62</td>
-<td class="cuerpo_tabla_coma">300,21</td>
-<td class="cuerpo_tabla_coma">300,8</td>
-<td class="cuerpo_tabla_coma">300,8</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">284,08</td>
-<td class="cuerpo_tabla_coma">284,64</td>
-<td class="cuerpo_tabla_coma">285,2</td>
-<td class="cuerpo_tabla_coma">285,76</td>
-<td class="cuerpo_tabla_coma">285,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">343,89</td>
-<td class="cuerpo_tabla_coma">344,56</td>
-<td class="cuerpo_tabla_coma">345,24</td>
-<td class="cuerpo_tabla_coma">345,92</td>
-<td class="cuerpo_tabla_coma">345,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 14.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">367,26</td>
-<td class="cuerpo_tabla_coma">367,98</td>
-<td class="cuerpo_tabla_coma">368,71</td>
-<td class="cuerpo_tabla_coma">369,43</td>
-<td class="cuerpo_tabla_coma">369,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">348,9</td>
-<td class="cuerpo_tabla_coma">349,58</td>
-<td class="cuerpo_tabla_coma">350,27</td>
-<td class="cuerpo_tabla_coma">350,96</td>
-<td class="cuerpo_tabla_coma">350,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">422,35</td>
-<td class="cuerpo_tabla_coma">423,18</td>
-<td class="cuerpo_tabla_coma">424,01</td>
-<td class="cuerpo_tabla_coma">424,85</td>
-<td class="cuerpo_tabla_coma">424,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 14.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">422,35</td>
-<td class="cuerpo_tabla_coma">423,18</td>
-<td class="cuerpo_tabla_coma">424,01</td>
-<td class="cuerpo_tabla_coma">424,85</td>
-<td class="cuerpo_tabla_coma">424,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">401,23</td>
-<td class="cuerpo_tabla_coma">402,02</td>
-<td class="cuerpo_tabla_coma">402,81</td>
-<td class="cuerpo_tabla_coma">403,6</td>
-<td class="cuerpo_tabla_coma">403,6</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">485,7</td>
-<td class="cuerpo_tabla_coma">486,66</td>
-<td class="cuerpo_tabla_coma">487,62</td>
-<td class="cuerpo_tabla_coma">488,57</td>
-<td class="cuerpo_tabla_coma">488,57</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 15.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">56,1</td>
-<td class="cuerpo_tabla_coma">56,21</td>
-<td class="cuerpo_tabla_coma">56,32</td>
-<td class="cuerpo_tabla_coma">56,43</td>
-<td class="cuerpo_tabla_coma">56,43</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">53,29</td>
-<td class="cuerpo_tabla_coma">53,4</td>
-<td class="cuerpo_tabla_coma">53,5</td>
-<td class="cuerpo_tabla_coma">53,61</td>
-<td class="cuerpo_tabla_coma">53,61</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">64,51</td>
-<td class="cuerpo_tabla_coma">64,64</td>
-<td class="cuerpo_tabla_coma">64,77</td>
-<td class="cuerpo_tabla_coma">64,9</td>
-<td class="cuerpo_tabla_coma">64,9</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 15.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">64,51</td>
-<td class="cuerpo_tabla_coma">64,64</td>
-<td class="cuerpo_tabla_coma">64,77</td>
-<td class="cuerpo_tabla_coma">64,9</td>
-<td class="cuerpo_tabla_coma">64,9</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">61,29</td>
-<td class="cuerpo_tabla_coma">61,41</td>
-<td class="cuerpo_tabla_coma">61,53</td>
-<td class="cuerpo_tabla_coma">61,65</td>
-<td class="cuerpo_tabla_coma">61,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">74,19</td>
-<td class="cuerpo_tabla_coma">74,34</td>
-<td class="cuerpo_tabla_coma">74,48</td>
-<td class="cuerpo_tabla_coma">74,63</td>
-<td class="cuerpo_tabla_coma">74,63</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 16.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">71,42</td>
-<td class="cuerpo_tabla_coma">71,56</td>
-<td class="cuerpo_tabla_coma">71,7</td>
-<td class="cuerpo_tabla_coma">71,84</td>
-<td class="cuerpo_tabla_coma">71,84</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">67,85</td>
-<td class="cuerpo_tabla_coma">67,98</td>
-<td class="cuerpo_tabla_coma">68,12</td>
-<td class="cuerpo_tabla_coma">68,25</td>
-<td class="cuerpo_tabla_coma">68,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">82,13</td>
-<td class="cuerpo_tabla_coma">82,3</td>
-<td class="cuerpo_tabla_coma">82,46</td>
-<td class="cuerpo_tabla_coma">82,62</td>
-<td class="cuerpo_tabla_coma">82,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 16.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">82,13</td>
-<td class="cuerpo_tabla_coma">82,3</td>
-<td class="cuerpo_tabla_coma">82,46</td>
-<td class="cuerpo_tabla_coma">82,62</td>
-<td class="cuerpo_tabla_coma">82,62</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">78,03</td>
-<td class="cuerpo_tabla_coma">78,18</td>
-<td class="cuerpo_tabla_coma">78,34</td>
-<td class="cuerpo_tabla_coma">78,49</td>
-<td class="cuerpo_tabla_coma">78,49</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">94,45</td>
-<td class="cuerpo_tabla_coma">94,64</td>
-<td class="cuerpo_tabla_coma">94,83</td>
-<td class="cuerpo_tabla_coma">95,01</td>
-<td class="cuerpo_tabla_coma">95,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Region 17.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">102,93</td>
-<td class="cuerpo_tabla_coma">103,13</td>
-<td class="cuerpo_tabla_coma">103,33</td>
-<td class="cuerpo_tabla_coma">103,53</td>
-<td class="cuerpo_tabla_coma">103,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">97,78</td>
-<td class="cuerpo_tabla_coma">97,97</td>
-<td class="cuerpo_tabla_coma">98,16</td>
-<td class="cuerpo_tabla_coma">98,36</td>
-<td class="cuerpo_tabla_coma">98,36</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">118,36</td>
-<td class="cuerpo_tabla_coma">118,6</td>
-<td class="cuerpo_tabla_coma">118,83</td>
-<td class="cuerpo_tabla_coma">119,06</td>
-<td class="cuerpo_tabla_coma">119,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 17.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">118,36</td>
-<td class="cuerpo_tabla_coma">118,6</td>
-<td class="cuerpo_tabla_coma">118,83</td>
-<td class="cuerpo_tabla_coma">119,06</td>
-<td class="cuerpo_tabla_coma">119,06</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">112,45</td>
-<td class="cuerpo_tabla_coma">112,67</td>
-<td class="cuerpo_tabla_coma">112,89</td>
-<td class="cuerpo_tabla_coma">113,11</td>
-<td class="cuerpo_tabla_coma">113,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">136,12</td>
-<td class="cuerpo_tabla_coma">136,39</td>
-<td class="cuerpo_tabla_coma">136,66</td>
-<td class="cuerpo_tabla_coma">136,92</td>
-<td class="cuerpo_tabla_coma">136,92</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 18.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">137,29</td>
-<td class="cuerpo_tabla_coma">137,56</td>
-<td class="cuerpo_tabla_coma">137,84</td>
-<td class="cuerpo_tabla_coma">138,11</td>
-<td class="cuerpo_tabla_coma">138,11</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">130,43</td>
-<td class="cuerpo_tabla_coma">130,69</td>
-<td class="cuerpo_tabla_coma">130,94</td>
-<td class="cuerpo_tabla_coma">131,2</td>
-<td class="cuerpo_tabla_coma">131,2</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">157,89</td>
-<td class="cuerpo_tabla_coma">158,2</td>
-<td class="cuerpo_tabla_coma">158,51</td>
-<td class="cuerpo_tabla_coma">158,82</td>
-<td class="cuerpo_tabla_coma">158,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 18.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">157,89</td>
-<td class="cuerpo_tabla_coma">158,2</td>
-<td class="cuerpo_tabla_coma">158,51</td>
-<td class="cuerpo_tabla_coma">158,82</td>
-<td class="cuerpo_tabla_coma">158,82</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">149,99</td>
-<td class="cuerpo_tabla_coma">150,29</td>
-<td class="cuerpo_tabla_coma">150,59</td>
-<td class="cuerpo_tabla_coma">150,88</td>
-<td class="cuerpo_tabla_coma">150,88</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">181,57</td>
-<td class="cuerpo_tabla_coma">181,93</td>
-<td class="cuerpo_tabla_coma">182,29</td>
-<td class="cuerpo_tabla_coma">182,65</td>
-<td class="cuerpo_tabla_coma">182,65</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 19.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">197,58</td>
-<td class="cuerpo_tabla_coma">197,97</td>
-<td class="cuerpo_tabla_coma">198,36</td>
-<td class="cuerpo_tabla_coma">198,75</td>
-<td class="cuerpo_tabla_coma">198,75</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">187,7</td>
-<td class="cuerpo_tabla_coma">188,07</td>
-<td class="cuerpo_tabla_coma">188,44</td>
-<td class="cuerpo_tabla_coma">188,81</td>
-<td class="cuerpo_tabla_coma">188,81</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">227,22</td>
-<td class="cuerpo_tabla_coma">227,67</td>
-<td class="cuerpo_tabla_coma">228,12</td>
-<td class="cuerpo_tabla_coma">228,56</td>
-<td class="cuerpo_tabla_coma">228,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 19.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">227,22</td>
-<td class="cuerpo_tabla_coma">227,67</td>
-<td class="cuerpo_tabla_coma">228,12</td>
-<td class="cuerpo_tabla_coma">228,56</td>
-<td class="cuerpo_tabla_coma">228,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">215,86</td>
-<td class="cuerpo_tabla_coma">216,28</td>
-<td class="cuerpo_tabla_coma">216,71</td>
-<td class="cuerpo_tabla_coma">217,14</td>
-<td class="cuerpo_tabla_coma">217,14</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">261,3</td>
-<td class="cuerpo_tabla_coma">261,82</td>
-<td class="cuerpo_tabla_coma">262,33</td>
-<td class="cuerpo_tabla_coma">262,85</td>
-<td class="cuerpo_tabla_coma">262,85</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Región 20.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">187,53</td>
-<td class="cuerpo_tabla_coma">187,9</td>
-<td class="cuerpo_tabla_coma">188,27</td>
-<td class="cuerpo_tabla_coma">188,64</td>
-<td class="cuerpo_tabla_coma">188,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">178,15</td>
-<td class="cuerpo_tabla_coma">178,5</td>
-<td class="cuerpo_tabla_coma">178,85</td>
-<td class="cuerpo_tabla_coma">179,21</td>
-<td class="cuerpo_tabla_coma">179,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">215,66</td>
-<td class="cuerpo_tabla_coma">216,08</td>
-<td class="cuerpo_tabla_coma">216,51</td>
-<td class="cuerpo_tabla_coma">216,93</td>
-<td class="cuerpo_tabla_coma">216,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Mujeres región 20.</td>
-<td class="cuerpo_tabla_izq">Importe unitario planificado.</td>
-<td class="cuerpo_tabla_coma">215,66</td>
-<td class="cuerpo_tabla_coma">216,08</td>
-<td class="cuerpo_tabla_coma">216,51</td>
-<td class="cuerpo_tabla_coma">216,93</td>
-<td class="cuerpo_tabla_coma">216,93</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario mínimo.</td>
-<td class="cuerpo_tabla_coma">204,88</td>
-<td class="cuerpo_tabla_coma">205,28</td>
-<td class="cuerpo_tabla_coma">205,68</td>
-<td class="cuerpo_tabla_coma">206,09</td>
-<td class="cuerpo_tabla_coma">206,09</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Importe unitario máximo.</td>
-<td class="cuerpo_tabla_coma">248,01</td>
-<td class="cuerpo_tabla_coma">248,5</td>
-<td class="cuerpo_tabla_coma">248,98</td>
-<td class="cuerpo_tabla_coma">249,47</td>
-<td class="cuerpo_tabla_coma">249,47</td>
+<td rowspan="3">Regón 1.</td>
+<td>Importe unitario planificado.</td>
+<td>81,47</td>
+<td>81,62</td>
+<td>81,77</td>
+<td>81,92</td>
+<td>81,92</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>77,4</td>
+<td>77,54</td>
+<td>77,68</td>
+<td>77,82</td>
+<td>77,82</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>93,69</td>
+<td>93,86</td>
+<td>94,04</td>
+<td>94,21</td>
+<td>94,21</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 1.</td>
+<td>Importe unitario planificado.</td>
+<td>93,69</td>
+<td>93,86</td>
+<td>94,04</td>
+<td>94,21</td>
+<td>94,21</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>89,01</td>
+<td>89,17</td>
+<td>89,34</td>
+<td>89,5</td>
+<td>89,5</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>107,74</td>
+<td>107,94</td>
+<td>108,15</td>
+<td>108,34</td>
+<td>108,34</td>
+</tr>
+<tr>
+<td rowspan="3">Región 2.</td>
+<td>Importe unitario planificado.</td>
+<td>97,64</td>
+<td>97,83</td>
+<td>98,01</td>
+<td>98,19</td>
+<td>98,19</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>92,76</td>
+<td>92,94</td>
+<td>93,11</td>
+<td>93,28</td>
+<td>93,28</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>112,29</td>
+<td>112,5</td>
+<td>112,71</td>
+<td>112,92</td>
+<td>112,92</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 2.</td>
+<td>Importe unitario planificado.</td>
+<td>112,29</td>
+<td>112,5</td>
+<td>112,71</td>
+<td>112,92</td>
+<td>112,92</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>106,68</td>
+<td>106,88</td>
+<td>107,07</td>
+<td>107,27</td>
+<td>107,27</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>129,13</td>
+<td>129,38</td>
+<td>129,62</td>
+<td>129,86</td>
+<td>129,86</td>
+</tr>
+<tr>
+<td rowspan="3">Región 3.</td>
+<td>Importe unitario planificado.</td>
+<td>129,85</td>
+<td>130,09</td>
+<td>130,33</td>
+<td>130,58</td>
+<td>130,58</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>123,36</td>
+<td>123,59</td>
+<td>123,81</td>
+<td>124,05</td>
+<td>124,05</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>149,33</td>
+<td>149,6</td>
+<td>149,88</td>
+<td>150,17</td>
+<td>150,17</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 3.</td>
+<td>Importe unitario planificado.</td>
+<td>149,33</td>
+<td>149,6</td>
+<td>149,88</td>
+<td>150,17</td>
+<td>150,17</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>141,86</td>
+<td>142,12</td>
+<td>142,39</td>
+<td>142,66</td>
+<td>142,66</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>171,73</td>
+<td>172,04</td>
+<td>172,36</td>
+<td>172,7</td>
+<td>172,7</td>
+</tr>
+<tr>
+<td rowspan="3">Región 4.</td>
+<td>Importe unitario planificado.</td>
+<td>199,03</td>
+<td>199,4</td>
+<td>199,58</td>
+<td>200,15</td>
+<td>200,15</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>189,08</td>
+<td>189,43</td>
+<td>189,6</td>
+<td>190,14</td>
+<td>190,14</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>228,88</td>
+<td>229,31</td>
+<td>229,52</td>
+<td>230,17</td>
+<td>230,17</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 4.</td>
+<td>Importe unitario planificado.</td>
+<td>228,88</td>
+<td>229,31</td>
+<td>229,52</td>
+<td>230,17</td>
+<td>230,17</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>217,44</td>
+<td>217,84</td>
+<td>218,04</td>
+<td>218,66</td>
+<td>218,66</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>263,21</td>
+<td>263,71</td>
+<td>263,95</td>
+<td>264,7</td>
+<td>264,7</td>
+</tr>
+<tr>
+<td rowspan="3">Región 5.</td>
+<td>Importe unitario planificado.</td>
+<td>307,88</td>
+<td>308,49</td>
+<td>309,1</td>
+<td>309,7</td>
+<td>309,7</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>292,49</td>
+<td>293,06</td>
+<td>293,64</td>
+<td>294,22</td>
+<td>294,22</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>354,06</td>
+<td>354,76</td>
+<td>355,46</td>
+<td>356,16</td>
+<td>356,16</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 5.</td>
+<td>Importe unitario planificado.</td>
+<td>354,06</td>
+<td>354,76</td>
+<td>355,46</td>
+<td>356,16</td>
+<td>356,16</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>336,36</td>
+<td>337,02</td>
+<td>337,69</td>
+<td>338,35</td>
+<td>338,35</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>407,17</td>
+<td>407,98</td>
+<td>408,78</td>
+<td>409,58</td>
+<td>409,58</td>
+</tr>
+<tr>
+<td rowspan="3">Región 6.</td>
+<td>Importe unitario planificado.</td>
+<td>157,85</td>
+<td>158,16</td>
+<td>158,47</td>
+<td>158,79</td>
+<td>158,79</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>149,96</td>
+<td>150,25</td>
+<td>150,55</td>
+<td>150,85</td>
+<td>150,85</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>181,53</td>
+<td>181,89</td>
+<td>182,25</td>
+<td>182,6</td>
+<td>182,6</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 6.</td>
+<td>Importe unitario planificado.</td>
+<td>181,53</td>
+<td>181,89</td>
+<td>182,25</td>
+<td>182,6</td>
+<td>182,6</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>172,45</td>
+<td>172,79</td>
+<td>173,13</td>
+<td>173,47</td>
+<td>173,47</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>208,76</td>
+<td>209,17</td>
+<td>209,58</td>
+<td>209,99</td>
+<td>209,99</td>
+</tr>
+<tr>
+<td rowspan="3">Región 7.</td>
+<td>Importe unitario planificado.</td>
+<td>205,47</td>
+<td>205,87</td>
+<td>206,28</td>
+<td>206,68</td>
+<td>206,68</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>195,2</td>
+<td>195,58</td>
+<td>195,97</td>
+<td>196,35</td>
+<td>196,35</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>236,29</td>
+<td>236,76</td>
+<td>237,22</td>
+<td>237,69</td>
+<td>237,69</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 7.</td>
+<td>Importe unitario planificado.</td>
+<td>236,29</td>
+<td>236,76</td>
+<td>237,22</td>
+<td>237,69</td>
+<td>237,69</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>224,48</td>
+<td>224,92</td>
+<td>225,36</td>
+<td>225,8</td>
+<td>225,8</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>271,73</td>
+<td>272,27</td>
+<td>272,8</td>
+<td>273,34</td>
+<td>273,34</td>
+</tr>
+<tr>
+<td rowspan="3">Región 8.</td>
+<td>Importe unitario planificado.</td>
+<td>251,72</td>
+<td>252,21</td>
+<td>252,71</td>
+<td>253,21</td>
+<td>253,21</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>239,13</td>
+<td>239,6</td>
+<td>240,07</td>
+<td>240,55</td>
+<td>240,55</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>289,48</td>
+<td>290,05</td>
+<td>290,62</td>
+<td>291,19</td>
+<td>291,19</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 8.</td>
+<td>Importe unitario planificado.</td>
+<td>289,48</td>
+<td>290,05</td>
+<td>290,62</td>
+<td>291,19</td>
+<td>291,19</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>275</td>
+<td>275,54</td>
+<td>276,09</td>
+<td>276,63</td>
+<td>276,63</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>332,9</td>
+<td>333,55</td>
+<td>334,21</td>
+<td>334,87</td>
+<td>334,87</td>
+</tr>
+<tr>
+<td rowspan="3">Región 9.</td>
+<td>Importe unitario planificado.</td>
+<td>407,2</td>
+<td>408</td>
+<td>408,81</td>
+<td>409,61</td>
+<td>409,61</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>386,84</td>
+<td>387,6</td>
+<td>388,37</td>
+<td>389,13</td>
+<td>389,13</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>468,28</td>
+<td>469,2</td>
+<td>470,13</td>
+<td>471,05</td>
+<td>471,05</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 9.</td>
+<td>Importe unitario planificado.</td>
+<td>468,28</td>
+<td>469,2</td>
+<td>470,13</td>
+<td>471,05</td>
+<td>471,05</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>444,87</td>
+<td>445,74</td>
+<td>446,62</td>
+<td>447,5</td>
+<td>447,5</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>538,52</td>
+<td>539,58</td>
+<td>540,65</td>
+<td>541,71</td>
+<td>541,71</td>
+</tr>
+<tr>
+<td rowspan="3">Región 10.</td>
+<td>Importe unitario planificado.</td>
+<td>1.229,17</td>
+<td>1.231,60</td>
+<td>1.234,02</td>
+<td>1.236,44</td>
+<td>1.236,44</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>1.167,71</td>
+<td>1.170,02</td>
+<td>1.172,32</td>
+<td>1.174,62</td>
+<td>1.174,62</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>1.413,55</td>
+<td>1.416,33</td>
+<td>1.419,12</td>
+<td>1.421,91</td>
+<td>1.421,91</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 10.</td>
+<td>Importe unitario planificado.</td>
+<td>1.413,55</td>
+<td>1.416,33</td>
+<td>1.419,12</td>
+<td>1.421,91</td>
+<td>1.421,91</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>1.342,87</td>
+<td>1.345,52</td>
+<td>1.348,16</td>
+<td>1.350,81</td>
+<td>1.350,81</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>1.625,58</td>
+<td>1.628,79</td>
+<td>1.631,99</td>
+<td>1.635,19</td>
+<td>1.635,19</td>
+</tr>
+<tr>
+<td rowspan="3">Región 11.</td>
+<td>Importe unitario planificado.</td>
+<td>98,42</td>
+<td>98,62</td>
+<td>98,81</td>
+<td>99</td>
+<td>99</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>93,5</td>
+<td>93,68</td>
+<td>93,87</td>
+<td>94,05</td>
+<td>94,05</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>113,18</td>
+<td>113,41</td>
+<td>113,63</td>
+<td>113,85</td>
+<td>113,85</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 11.</td>
+<td>Importe unitario planificado.</td>
+<td>113,18</td>
+<td>113,41</td>
+<td>113,63</td>
+<td>113,85</td>
+<td>113,85</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>107,53</td>
+<td>107,74</td>
+<td>107,95</td>
+<td>108,16</td>
+<td>108,16</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>130,16</td>
+<td>130,42</td>
+<td>130,68</td>
+<td>130,93</td>
+<td>130,93</td>
+</tr>
+<tr>
+<td rowspan="3">Región 12.</td>
+<td>Importe unitario planificado.</td>
+<td>142,01</td>
+<td>142,29</td>
+<td>142,57</td>
+<td>142,84</td>
+<td>142,84</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>134,91</td>
+<td>135,17</td>
+<td>135,44</td>
+<td>135,7</td>
+<td>135,7</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>163,31</td>
+<td>163,63</td>
+<td>163,95</td>
+<td>164,27</td>
+<td>164,27</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 12.</td>
+<td>Importe unitario planificado.</td>
+<td>163,31</td>
+<td>163,63</td>
+<td>163,95</td>
+<td>164,27</td>
+<td>164,27</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>155,14</td>
+<td>155,45</td>
+<td>155,75</td>
+<td>156,06</td>
+<td>156,06</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>187,8</td>
+<td>188,17</td>
+<td>188,54</td>
+<td>188,91</td>
+<td>188,91</td>
+</tr>
+<tr>
+<td rowspan="3">Región 13.</td>
+<td>Importe unitario planificado.</td>
+<td>260,03</td>
+<td>260,54</td>
+<td>261,05</td>
+<td>261,57</td>
+<td>261,57</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>247,03</td>
+<td>247,51</td>
+<td>248</td>
+<td>248,49</td>
+<td>248,49</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>299,03</td>
+<td>299,62</td>
+<td>300,21</td>
+<td>300,8</td>
+<td>300,8</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 13.</td>
+<td>Importe unitario planificado.</td>
+<td>299,03</td>
+<td>299,62</td>
+<td>300,21</td>
+<td>300,8</td>
+<td>300,8</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>284,08</td>
+<td>284,64</td>
+<td>285,2</td>
+<td>285,76</td>
+<td>285,76</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>343,89</td>
+<td>344,56</td>
+<td>345,24</td>
+<td>345,92</td>
+<td>345,92</td>
+</tr>
+<tr>
+<td rowspan="3">Región 14.</td>
+<td>Importe unitario planificado.</td>
+<td>367,26</td>
+<td>367,98</td>
+<td>368,71</td>
+<td>369,43</td>
+<td>369,43</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>348,9</td>
+<td>349,58</td>
+<td>350,27</td>
+<td>350,96</td>
+<td>350,96</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>422,35</td>
+<td>423,18</td>
+<td>424,01</td>
+<td>424,85</td>
+<td>424,85</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 14.</td>
+<td>Importe unitario planificado.</td>
+<td>422,35</td>
+<td>423,18</td>
+<td>424,01</td>
+<td>424,85</td>
+<td>424,85</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>401,23</td>
+<td>402,02</td>
+<td>402,81</td>
+<td>403,6</td>
+<td>403,6</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>485,7</td>
+<td>486,66</td>
+<td>487,62</td>
+<td>488,57</td>
+<td>488,57</td>
+</tr>
+<tr>
+<td rowspan="3">Región 15.</td>
+<td>Importe unitario planificado.</td>
+<td>56,1</td>
+<td>56,21</td>
+<td>56,32</td>
+<td>56,43</td>
+<td>56,43</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>53,29</td>
+<td>53,4</td>
+<td>53,5</td>
+<td>53,61</td>
+<td>53,61</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>64,51</td>
+<td>64,64</td>
+<td>64,77</td>
+<td>64,9</td>
+<td>64,9</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 15.</td>
+<td>Importe unitario planificado.</td>
+<td>64,51</td>
+<td>64,64</td>
+<td>64,77</td>
+<td>64,9</td>
+<td>64,9</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>61,29</td>
+<td>61,41</td>
+<td>61,53</td>
+<td>61,65</td>
+<td>61,65</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>74,19</td>
+<td>74,34</td>
+<td>74,48</td>
+<td>74,63</td>
+<td>74,63</td>
+</tr>
+<tr>
+<td rowspan="3">Región 16.</td>
+<td>Importe unitario planificado.</td>
+<td>71,42</td>
+<td>71,56</td>
+<td>71,7</td>
+<td>71,84</td>
+<td>71,84</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>67,85</td>
+<td>67,98</td>
+<td>68,12</td>
+<td>68,25</td>
+<td>68,25</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>82,13</td>
+<td>82,3</td>
+<td>82,46</td>
+<td>82,62</td>
+<td>82,62</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 16.</td>
+<td>Importe unitario planificado.</td>
+<td>82,13</td>
+<td>82,3</td>
+<td>82,46</td>
+<td>82,62</td>
+<td>82,62</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>78,03</td>
+<td>78,18</td>
+<td>78,34</td>
+<td>78,49</td>
+<td>78,49</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>94,45</td>
+<td>94,64</td>
+<td>94,83</td>
+<td>95,01</td>
+<td>95,01</td>
+</tr>
+<tr>
+<td rowspan="3">Region 17.</td>
+<td>Importe unitario planificado.</td>
+<td>102,93</td>
+<td>103,13</td>
+<td>103,33</td>
+<td>103,53</td>
+<td>103,53</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>97,78</td>
+<td>97,97</td>
+<td>98,16</td>
+<td>98,36</td>
+<td>98,36</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>118,36</td>
+<td>118,6</td>
+<td>118,83</td>
+<td>119,06</td>
+<td>119,06</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 17.</td>
+<td>Importe unitario planificado.</td>
+<td>118,36</td>
+<td>118,6</td>
+<td>118,83</td>
+<td>119,06</td>
+<td>119,06</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>112,45</td>
+<td>112,67</td>
+<td>112,89</td>
+<td>113,11</td>
+<td>113,11</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>136,12</td>
+<td>136,39</td>
+<td>136,66</td>
+<td>136,92</td>
+<td>136,92</td>
+</tr>
+<tr>
+<td rowspan="3">Región 18.</td>
+<td>Importe unitario planificado.</td>
+<td>137,29</td>
+<td>137,56</td>
+<td>137,84</td>
+<td>138,11</td>
+<td>138,11</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>130,43</td>
+<td>130,69</td>
+<td>130,94</td>
+<td>131,2</td>
+<td>131,2</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>157,89</td>
+<td>158,2</td>
+<td>158,51</td>
+<td>158,82</td>
+<td>158,82</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 18.</td>
+<td>Importe unitario planificado.</td>
+<td>157,89</td>
+<td>158,2</td>
+<td>158,51</td>
+<td>158,82</td>
+<td>158,82</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>149,99</td>
+<td>150,29</td>
+<td>150,59</td>
+<td>150,88</td>
+<td>150,88</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>181,57</td>
+<td>181,93</td>
+<td>182,29</td>
+<td>182,65</td>
+<td>182,65</td>
+</tr>
+<tr>
+<td rowspan="3">Región 19.</td>
+<td>Importe unitario planificado.</td>
+<td>197,58</td>
+<td>197,97</td>
+<td>198,36</td>
+<td>198,75</td>
+<td>198,75</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>187,7</td>
+<td>188,07</td>
+<td>188,44</td>
+<td>188,81</td>
+<td>188,81</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>227,22</td>
+<td>227,67</td>
+<td>228,12</td>
+<td>228,56</td>
+<td>228,56</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 19.</td>
+<td>Importe unitario planificado.</td>
+<td>227,22</td>
+<td>227,67</td>
+<td>228,12</td>
+<td>228,56</td>
+<td>228,56</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>215,86</td>
+<td>216,28</td>
+<td>216,71</td>
+<td>217,14</td>
+<td>217,14</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>261,3</td>
+<td>261,82</td>
+<td>262,33</td>
+<td>262,85</td>
+<td>262,85</td>
+</tr>
+<tr>
+<td rowspan="3">Región 20.</td>
+<td>Importe unitario planificado.</td>
+<td>187,53</td>
+<td>187,9</td>
+<td>188,27</td>
+<td>188,64</td>
+<td>188,64</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>178,15</td>
+<td>178,5</td>
+<td>178,85</td>
+<td>179,21</td>
+<td>179,21</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>215,66</td>
+<td>216,08</td>
+<td>216,51</td>
+<td>216,93</td>
+<td>216,93</td>
+</tr>
+<tr>
+<td rowspan="3">Mujeres región 20.</td>
+<td>Importe unitario planificado.</td>
+<td>215,66</td>
+<td>216,08</td>
+<td>216,51</td>
+<td>216,93</td>
+<td>216,93</td>
+</tr>
+<tr>
+<td>Importe unitario mínimo.</td>
+<td>204,88</td>
+<td>205,28</td>
+<td>205,68</td>
+<td>206,09</td>
+<td>206,09</td>
+</tr>
+<tr>
+<td>Importe unitario máximo.</td>
+<td>248,01</td>
+<td>248,5</td>
+<td>248,98</td>
+<td>249,47</td>
+<td>249,47</td>
 </tr>
 </tbody>
 </table>
@@ -6614,1790 +6559,852 @@ Ayuda Complementaria a la renta para los jóvenes agricultores
 
 ## ANEXO X — Importe mínimo, planificado y máximo para cada ecorrégimen (euros/hectárea)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ecorrégimen-tipo de superficie/práctica</th>
-<th class="cabeza_tabla">Importe unitario</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th>Ecorrégimen-tipo de superficie/práctica</th>
+<th>Importe unitario</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. PASTOREO EXTENSIVO.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">62,16</td>
-<td class="cuerpo_tabla_coma">59,09</td>
-<td class="cuerpo_tabla_coma">56,31</td>
-<td class="cuerpo_tabla_coma">53,80</td>
-<td class="cuerpo_tabla_coma">51,42</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. PASTOREO EXTENSIVO.</td>
+<td>PLANIFICADO.</td>
+<td>62,16</td>
+<td>59,09</td>
+<td>56,31</td>
+<td>53,80</td>
+<td>51,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">43,51</td>
-<td class="cuerpo_tabla_coma">43,58</td>
-<td class="cuerpo_tabla_coma">43,64</td>
-<td class="cuerpo_tabla_coma">43,71</td>
-<td class="cuerpo_tabla_coma">43,71</td>
+<td>MÍNIMO.</td>
+<td>43,51</td>
+<td>43,58</td>
+<td>43,64</td>
+<td>43,71</td>
+<td>43,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">141,74</td>
-<td class="cuerpo_tabla_coma">141,74</td>
-<td class="cuerpo_tabla_coma">141,74</td>
-<td class="cuerpo_tabla_coma">141,74</td>
-<td class="cuerpo_tabla_coma">141,74</td>
+<td>MÁXIMO.</td>
+<td>141,74</td>
+<td>141,74</td>
+<td>141,74</td>
+<td>141,74</td>
+<td>141,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. ISLAS DE BIODIVERSIDAD.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">62,16</td>
-<td class="cuerpo_tabla_coma">59,09</td>
-<td class="cuerpo_tabla_coma">56,31</td>
-<td class="cuerpo_tabla_coma">53,80</td>
-<td class="cuerpo_tabla_coma">51,42</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. ISLAS DE BIODIVERSIDAD.</td>
+<td>PLANIFICADO.</td>
+<td>62,16</td>
+<td>59,09</td>
+<td>56,31</td>
+<td>53,80</td>
+<td>51,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">43,51</td>
-<td class="cuerpo_tabla_coma">43,58</td>
-<td class="cuerpo_tabla_coma">43,64</td>
-<td class="cuerpo_tabla_coma">43,71</td>
-<td class="cuerpo_tabla_coma">43,71</td>
+<td>MÍNIMO.</td>
+<td>43,51</td>
+<td>43,58</td>
+<td>43,64</td>
+<td>43,71</td>
+<td>43,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">123,46</td>
-<td class="cuerpo_tabla_coma">123,46</td>
-<td class="cuerpo_tabla_coma">85,16</td>
-<td class="cuerpo_tabla_coma">85,16</td>
-<td class="cuerpo_tabla_coma">85,16</td>
+<td>MÁXIMO.</td>
+<td>123,46</td>
+<td>123,46</td>
+<td>85,16</td>
+<td>85,16</td>
+<td>85,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. SIEGA SOSTENIBLE.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">62,16</td>
-<td class="cuerpo_tabla_coma">59,09</td>
-<td class="cuerpo_tabla_coma">56,31</td>
-<td class="cuerpo_tabla_coma">53,80</td>
-<td class="cuerpo_tabla_coma">51,42</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos. SIEGA SOSTENIBLE.</td>
+<td>PLANIFICADO.</td>
+<td>62,16</td>
+<td>59,09</td>
+<td>56,31</td>
+<td>53,80</td>
+<td>51,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">43,51</td>
-<td class="cuerpo_tabla_coma">43,58</td>
-<td class="cuerpo_tabla_coma">43,64</td>
-<td class="cuerpo_tabla_coma">43,71</td>
-<td class="cuerpo_tabla_coma">43,71</td>
+<td>MÍNIMO.</td>
+<td>43,51</td>
+<td>43,58</td>
+<td>43,64</td>
+<td>43,71</td>
+<td>43,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">160,75</td>
-<td class="cuerpo_tabla_coma">160,75</td>
-<td class="cuerpo_tabla_coma">160,75</td>
-<td class="cuerpo_tabla_coma">160,75</td>
-<td class="cuerpo_tabla_coma">160,75</td>
+<td>MÁXIMO.</td>
+<td>160,75</td>
+<td>160,75</td>
+<td>160,75</td>
+<td>160,75</td>
+<td>160,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. PASTOREO EXTENSIVO.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">40,96</td>
-<td class="cuerpo_tabla_coma">38,92</td>
-<td class="cuerpo_tabla_coma">37,09</td>
-<td class="cuerpo_tabla_coma">35,43</td>
-<td class="cuerpo_tabla_coma">33,86</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. PASTOREO EXTENSIVO.</td>
+<td>PLANIFICADO.</td>
+<td>40,96</td>
+<td>38,92</td>
+<td>37,09</td>
+<td>35,43</td>
+<td>33,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">27,19</td>
-<td class="cuerpo_tabla_coma">27,23</td>
-<td class="cuerpo_tabla_coma">27,27</td>
-<td class="cuerpo_tabla_coma">27,31</td>
-<td class="cuerpo_tabla_coma">27,31</td>
+<td>MÍNIMO.</td>
+<td>27,19</td>
+<td>27,23</td>
+<td>27,27</td>
+<td>27,31</td>
+<td>27,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">94,97</td>
-<td class="cuerpo_tabla_coma">94,97</td>
-<td class="cuerpo_tabla_coma">94,97</td>
-<td class="cuerpo_tabla_coma">94,97</td>
-<td class="cuerpo_tabla_coma">94,97</td>
+<td>MÁXIMO.</td>
+<td>94,97</td>
+<td>94,97</td>
+<td>94,97</td>
+<td>94,97</td>
+<td>94,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. ISLAS DE BIODIVERSIDAD.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">40,96</td>
-<td class="cuerpo_tabla_coma">38,92</td>
-<td class="cuerpo_tabla_coma">37,09</td>
-<td class="cuerpo_tabla_coma">35,43</td>
-<td class="cuerpo_tabla_coma">33,86</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. ISLAS DE BIODIVERSIDAD.</td>
+<td>PLANIFICADO.</td>
+<td>40,96</td>
+<td>38,92</td>
+<td>37,09</td>
+<td>35,43</td>
+<td>33,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">27,19</td>
-<td class="cuerpo_tabla_coma">27,23</td>
-<td class="cuerpo_tabla_coma">27,27</td>
-<td class="cuerpo_tabla_coma">27,31</td>
-<td class="cuerpo_tabla_coma">27,31</td>
+<td>MÍNIMO.</td>
+<td>27,19</td>
+<td>27,23</td>
+<td>27,27</td>
+<td>27,31</td>
+<td>27,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">82,72</td>
-<td class="cuerpo_tabla_coma">82,72</td>
-<td class="cuerpo_tabla_coma">57,06</td>
-<td class="cuerpo_tabla_coma">57,06</td>
-<td class="cuerpo_tabla_coma">57,06</td>
+<td>MÁXIMO.</td>
+<td>82,72</td>
+<td>82,72</td>
+<td>57,06</td>
+<td>57,06</td>
+<td>57,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. SIEGA SOSTENIBLE.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">40,96</td>
-<td class="cuerpo_tabla_coma">38,92</td>
-<td class="cuerpo_tabla_coma">37,09</td>
-<td class="cuerpo_tabla_coma">35,43</td>
-<td class="cuerpo_tabla_coma">33,86</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos. SIEGA SOSTENIBLE.</td>
+<td>PLANIFICADO.</td>
+<td>40,96</td>
+<td>38,92</td>
+<td>37,09</td>
+<td>35,43</td>
+<td>33,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">27,19</td>
-<td class="cuerpo_tabla_coma">27,23</td>
-<td class="cuerpo_tabla_coma">27,27</td>
-<td class="cuerpo_tabla_coma">27,31</td>
-<td class="cuerpo_tabla_coma">27,31</td>
+<td>MÍNIMO.</td>
+<td>27,19</td>
+<td>27,23</td>
+<td>27,27</td>
+<td>27,31</td>
+<td>27,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>MÁXIMO.</em>
 </td>
-<td class="cuerpo_tabla_coma">107,70</td>
-<td class="cuerpo_tabla_coma">107,70</td>
-<td class="cuerpo_tabla_coma">107,70</td>
-<td class="cuerpo_tabla_coma">107,70</td>
-<td class="cuerpo_tabla_coma">107,70</td>
+<td>107,70</td>
+<td>107,70</td>
+<td>107,70</td>
+<td>107,70</td>
+<td>107,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares. PASTOREO EXTENSIVO.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">62,96</td>
-<td class="cuerpo_tabla_coma">60,92</td>
-<td class="cuerpo_tabla_coma">59,09</td>
-<td class="cuerpo_tabla_coma">57,43</td>
-<td class="cuerpo_tabla_coma">55,86</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares. PASTOREO EXTENSIVO.</td>
+<td>PLANIFICADO.</td>
+<td>62,96</td>
+<td>60,92</td>
+<td>59,09</td>
+<td>57,43</td>
+<td>55,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">49,19</td>
-<td class="cuerpo_tabla_coma">49,23</td>
-<td class="cuerpo_tabla_coma">49,27</td>
-<td class="cuerpo_tabla_coma">49,31</td>
-<td class="cuerpo_tabla_coma">49,31</td>
+<td>MÍNIMO.</td>
+<td>49,19</td>
+<td>49,23</td>
+<td>49,27</td>
+<td>49,31</td>
+<td>49,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">116,97</td>
-<td class="cuerpo_tabla_coma">116,97</td>
-<td class="cuerpo_tabla_coma">116,97</td>
-<td class="cuerpo_tabla_coma">116,97</td>
-<td class="cuerpo_tabla_coma">116,97</td>
+<td>MÁXIMO.</td>
+<td>116,97</td>
+<td>116,97</td>
+<td>116,97</td>
+<td>116,97</td>
+<td>116,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares. ISLAS DE BIODIVERSIDAD.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">62,96</td>
-<td class="cuerpo_tabla_coma">60,92</td>
-<td class="cuerpo_tabla_coma">59,09</td>
-<td class="cuerpo_tabla_coma">57,43</td>
-<td class="cuerpo_tabla_coma">55,86</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares. ISLAS DE BIODIVERSIDAD.</td>
+<td>PLANIFICADO.</td>
+<td>62,96</td>
+<td>60,92</td>
+<td>59,09</td>
+<td>57,43</td>
+<td>55,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">49,19</td>
-<td class="cuerpo_tabla_coma">49,23</td>
-<td class="cuerpo_tabla_coma">49,27</td>
-<td class="cuerpo_tabla_coma">49,31</td>
-<td class="cuerpo_tabla_coma">49,31</td>
+<td>MÍNIMO.</td>
+<td>49,19</td>
+<td>49,23</td>
+<td>49,27</td>
+<td>49,31</td>
+<td>49,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">104,72</td>
-<td class="cuerpo_tabla_coma">104,72</td>
-<td class="cuerpo_tabla_coma">79,06</td>
-<td class="cuerpo_tabla_coma">79,06</td>
-<td class="cuerpo_tabla_coma">79,06</td>
+<td>MÁXIMO.</td>
+<td>104,72</td>
+<td>104,72</td>
+<td>79,06</td>
+<td>79,06</td>
+<td>79,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos insulares. SIEGA SOSTENIBLE.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">62,96</td>
-<td class="cuerpo_tabla_coma">60,92</td>
-<td class="cuerpo_tabla_coma">59,09</td>
-<td class="cuerpo_tabla_coma">57,43</td>
-<td class="cuerpo_tabla_coma">55,86</td>
+<td rowspan="3">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos insulares. SIEGA SOSTENIBLE.</td>
+<td>PLANIFICADO.</td>
+<td>62,96</td>
+<td>60,92</td>
+<td>59,09</td>
+<td>57,43</td>
+<td>55,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">49,19</td>
-<td class="cuerpo_tabla_coma">49,23</td>
-<td class="cuerpo_tabla_coma">49,27</td>
-<td class="cuerpo_tabla_coma">49,31</td>
-<td class="cuerpo_tabla_coma">49,31</td>
+<td>MÍNIMO.</td>
+<td>49,19</td>
+<td>49,23</td>
+<td>49,27</td>
+<td>49,31</td>
+<td>49,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">129,76</td>
-<td class="cuerpo_tabla_coma">129,76</td>
-<td class="cuerpo_tabla_coma">129,76</td>
-<td class="cuerpo_tabla_coma">129,76</td>
-<td class="cuerpo_tabla_coma">129,76</td>
+<td>MÁXIMO.</td>
+<td>129,76</td>
+<td>129,76</td>
+<td>129,76</td>
+<td>129,76</td>
+<td>129,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">47,67</td>
-<td class="cuerpo_tabla_coma">45,94</td>
-<td class="cuerpo_tabla_coma">44,32</td>
-<td class="cuerpo_tabla_coma">42,81</td>
-<td class="cuerpo_tabla_coma">41,33</td>
+<td rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano.</td>
+<td>PLANIFICADO.</td>
+<td>47,67</td>
+<td>45,94</td>
+<td>44,32</td>
+<td>42,81</td>
+<td>41,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>MÍNIMO.</em>
 </td>
-<td class="cuerpo_tabla_coma">24,63</td>
-<td class="cuerpo_tabla_coma">24,68</td>
-<td class="cuerpo_tabla_coma">24,72</td>
-<td class="cuerpo_tabla_coma">24,76</td>
-<td class="cuerpo_tabla_coma">24,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">105,56</td>
-<td class="cuerpo_tabla_coma">105,56</td>
-<td class="cuerpo_tabla_coma">105,56</td>
-<td class="cuerpo_tabla_coma">105,56</td>
-<td class="cuerpo_tabla_coma">105,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">47,67</td>
-<td class="cuerpo_tabla_coma">45,94</td>
-<td class="cuerpo_tabla_coma">44,32</td>
-<td class="cuerpo_tabla_coma">42,81</td>
-<td class="cuerpo_tabla_coma">41,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">24,63</td>
-<td class="cuerpo_tabla_coma">24,68</td>
-<td class="cuerpo_tabla_coma">24,72</td>
-<td class="cuerpo_tabla_coma">24,76</td>
-<td class="cuerpo_tabla_coma">24,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano húmedo.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">85,72</td>
-<td class="cuerpo_tabla_coma">82,74</td>
-<td class="cuerpo_tabla_coma">79,96</td>
-<td class="cuerpo_tabla_coma">77,36</td>
-<td class="cuerpo_tabla_coma">74,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">46,02</td>
-<td class="cuerpo_tabla_coma">46,10</td>
-<td class="cuerpo_tabla_coma">46,18</td>
-<td class="cuerpo_tabla_coma">46,25</td>
-<td class="cuerpo_tabla_coma">46,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">114,07</td>
-<td class="cuerpo_tabla_coma">114,07</td>
-<td class="cuerpo_tabla_coma">114,07</td>
-<td class="cuerpo_tabla_coma">114,07</td>
-<td class="cuerpo_tabla_coma">114,07</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano húmedo.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">85,72</td>
-<td class="cuerpo_tabla_coma">82,74</td>
-<td class="cuerpo_tabla_coma">79,96</td>
-<td class="cuerpo_tabla_coma">77,36</td>
-<td class="cuerpo_tabla_coma">74,80</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">46,02</td>
-<td class="cuerpo_tabla_coma">46,10</td>
-<td class="cuerpo_tabla_coma">46,18</td>
-<td class="cuerpo_tabla_coma">46,25</td>
-<td class="cuerpo_tabla_coma">46,25</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">227</td>
-<td class="cuerpo_tabla_coma">227</td>
-<td class="cuerpo_tabla_coma">227</td>
-<td class="cuerpo_tabla_coma">227</td>
-<td class="cuerpo_tabla_coma">227</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">151,99</td>
-<td class="cuerpo_tabla_coma">146,81</td>
-<td class="cuerpo_tabla_coma">141,98</td>
-<td class="cuerpo_tabla_coma">137,46</td>
-<td class="cuerpo_tabla_coma">133,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">85,72</td>
-<td class="cuerpo_tabla_coma">83,14</td>
-<td class="cuerpo_tabla_coma">83,27</td>
-<td class="cuerpo_tabla_coma">83,40</td>
-<td class="cuerpo_tabla_coma">83,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">222</td>
-<td class="cuerpo_tabla_coma">222</td>
-<td class="cuerpo_tabla_coma">222</td>
-<td class="cuerpo_tabla_coma">222</td>
-<td class="cuerpo_tabla_coma">222</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">151,99</td>
-<td class="cuerpo_tabla_coma">146,81</td>
-<td class="cuerpo_tabla_coma">141,98</td>
-<td class="cuerpo_tabla_coma">137,46</td>
-<td class="cuerpo_tabla_coma">133,01</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">85,72</td>
-<td class="cuerpo_tabla_coma">83,14</td>
-<td class="cuerpo_tabla_coma">83,27</td>
-<td class="cuerpo_tabla_coma">83,40</td>
-<td class="cuerpo_tabla_coma">83,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">268</td>
-<td class="cuerpo_tabla_coma">268</td>
-<td class="cuerpo_tabla_coma">268</td>
-<td class="cuerpo_tabla_coma">268</td>
-<td class="cuerpo_tabla_coma">268</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano. Illes Balears.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">75,67</td>
-<td class="cuerpo_tabla_coma">73,94</td>
-<td class="cuerpo_tabla_coma">72,32</td>
-<td class="cuerpo_tabla_coma">70,81</td>
-<td class="cuerpo_tabla_coma">69,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">52,63</td>
-<td class="cuerpo_tabla_coma">52,68</td>
-<td class="cuerpo_tabla_coma">52,72</td>
-<td class="cuerpo_tabla_coma">52,76</td>
-<td class="cuerpo_tabla_coma">52,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">133,56</td>
-<td class="cuerpo_tabla_coma">133,56</td>
-<td class="cuerpo_tabla_coma">133,56</td>
-<td class="cuerpo_tabla_coma">133,56</td>
-<td class="cuerpo_tabla_coma">133,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano. Illes Balears.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">75,67</td>
-<td class="cuerpo_tabla_coma">73,94</td>
-<td class="cuerpo_tabla_coma">72,32</td>
-<td class="cuerpo_tabla_coma">70,81</td>
-<td class="cuerpo_tabla_coma">69,33</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">52,63</td>
-<td class="cuerpo_tabla_coma">52,68</td>
-<td class="cuerpo_tabla_coma">52,72</td>
-<td class="cuerpo_tabla_coma">52,76</td>
-<td class="cuerpo_tabla_coma">52,76</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">223</td>
-<td class="cuerpo_tabla_coma">223</td>
-<td class="cuerpo_tabla_coma">223</td>
-<td class="cuerpo_tabla_coma">223</td>
-<td class="cuerpo_tabla_coma">223</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío. Illes Balears.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">231,99</td>
-<td class="cuerpo_tabla_coma">226,81</td>
-<td class="cuerpo_tabla_coma">221,98</td>
-<td class="cuerpo_tabla_coma">217,46</td>
-<td class="cuerpo_tabla_coma">217,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">165,72</td>
-<td class="cuerpo_tabla_coma">163,14</td>
-<td class="cuerpo_tabla_coma">163,27</td>
-<td class="cuerpo_tabla_coma">163,40</td>
-<td class="cuerpo_tabla_coma">163,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">302</td>
-<td class="cuerpo_tabla_coma">302</td>
-<td class="cuerpo_tabla_coma">302</td>
-<td class="cuerpo_tabla_coma">302</td>
-<td class="cuerpo_tabla_coma">302</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío. Illes Balears.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">231,99</td>
-<td class="cuerpo_tabla_coma">226,81</td>
-<td class="cuerpo_tabla_coma">221,98</td>
-<td class="cuerpo_tabla_coma">217,46</td>
-<td class="cuerpo_tabla_coma">217,46</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">165,72</td>
-<td class="cuerpo_tabla_coma">163,14</td>
-<td class="cuerpo_tabla_coma">163,27</td>
-<td class="cuerpo_tabla_coma">163,40</td>
-<td class="cuerpo_tabla_coma">163,40</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">348</td>
-<td class="cuerpo_tabla_coma">348</td>
-<td class="cuerpo_tabla_coma">348</td>
-<td class="cuerpo_tabla_coma">348</td>
-<td class="cuerpo_tabla_coma">348</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Península. CUBIERTAS VEGETALES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">61,07</td>
-<td class="cuerpo_tabla_coma">60,08</td>
-<td class="cuerpo_tabla_coma">59,12</td>
-<td class="cuerpo_tabla_coma">58,19</td>
-<td class="cuerpo_tabla_coma">57,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">35,57</td>
-<td class="cuerpo_tabla_coma">35,64</td>
-<td class="cuerpo_tabla_coma">35,71</td>
-<td class="cuerpo_tabla_coma">35,78</td>
-<td class="cuerpo_tabla_coma">35,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">214,77</td>
-<td class="cuerpo_tabla_coma">214,77</td>
-<td class="cuerpo_tabla_coma">214,77</td>
-<td class="cuerpo_tabla_coma">214,77</td>
-<td class="cuerpo_tabla_coma">214,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Península. CUBIERTAS INERTES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">61,07</td>
-<td class="cuerpo_tabla_coma">60,08</td>
-<td class="cuerpo_tabla_coma">59,12</td>
-<td class="cuerpo_tabla_coma">58,19</td>
-<td class="cuerpo_tabla_coma">57,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">35,57</td>
-<td class="cuerpo_tabla_coma">35,64</td>
-<td class="cuerpo_tabla_coma">35,71</td>
-<td class="cuerpo_tabla_coma">35,78</td>
-<td class="cuerpo_tabla_coma">35,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">129,39</td>
-<td class="cuerpo_tabla_coma">129,39</td>
-<td class="cuerpo_tabla_coma">129,39</td>
-<td class="cuerpo_tabla_coma">129,39</td>
-<td class="cuerpo_tabla_coma">129,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Península. CUBIERTAS VEGETALES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">113,95</td>
-<td class="cuerpo_tabla_coma">112,23</td>
-<td class="cuerpo_tabla_coma">110,56</td>
-<td class="cuerpo_tabla_coma">108,94</td>
-<td class="cuerpo_tabla_coma">107,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">69,59</td>
-<td class="cuerpo_tabla_coma">69,71</td>
-<td class="cuerpo_tabla_coma">69,84</td>
-<td class="cuerpo_tabla_coma">69,96</td>
-<td class="cuerpo_tabla_coma">69,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">238,54</td>
-<td class="cuerpo_tabla_coma">238,54</td>
-<td class="cuerpo_tabla_coma">238,54</td>
-<td class="cuerpo_tabla_coma">238,54</td>
-<td class="cuerpo_tabla_coma">238,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Península. CUBIERTAS INERTES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">113,95</td>
-<td class="cuerpo_tabla_coma">112,23</td>
-<td class="cuerpo_tabla_coma">110,56</td>
-<td class="cuerpo_tabla_coma">108,94</td>
-<td class="cuerpo_tabla_coma">107,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">69,59</td>
-<td class="cuerpo_tabla_coma">69,71</td>
-<td class="cuerpo_tabla_coma">69,84</td>
-<td class="cuerpo_tabla_coma">69,96</td>
-<td class="cuerpo_tabla_coma">69,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">168,21</td>
-<td class="cuerpo_tabla_coma">168,21</td>
-<td class="cuerpo_tabla_coma">168,21</td>
-<td class="cuerpo_tabla_coma">168,21</td>
-<td class="cuerpo_tabla_coma">168,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península. CUBIERTAS VEGETALES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">165,17</td>
-<td class="cuerpo_tabla_coma">162,74</td>
-<td class="cuerpo_tabla_coma">160,39</td>
-<td class="cuerpo_tabla_coma">158,11</td>
-<td class="cuerpo_tabla_coma">155,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">102,56</td>
-<td class="cuerpo_tabla_coma">102,73</td>
-<td class="cuerpo_tabla_coma">102,91</td>
-<td class="cuerpo_tabla_coma">103,08</td>
-<td class="cuerpo_tabla_coma">103,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">272,53</td>
-<td class="cuerpo_tabla_coma">272,53</td>
-<td class="cuerpo_tabla_coma">272,53</td>
-<td class="cuerpo_tabla_coma">272,53</td>
-<td class="cuerpo_tabla_coma">272,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península. CUBIERTAS INERTES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">165,17</td>
-<td class="cuerpo_tabla_coma">162,74</td>
-<td class="cuerpo_tabla_coma">160,39</td>
-<td class="cuerpo_tabla_coma">158,11</td>
-<td class="cuerpo_tabla_coma">155,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">102,56</td>
-<td class="cuerpo_tabla_coma">102,73</td>
-<td class="cuerpo_tabla_coma">102,91</td>
-<td class="cuerpo_tabla_coma">103,08</td>
-<td class="cuerpo_tabla_coma">103,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">223,72</td>
-<td class="cuerpo_tabla_coma">223,72</td>
-<td class="cuerpo_tabla_coma">223,72</td>
-<td class="cuerpo_tabla_coma">223,72</td>
-<td class="cuerpo_tabla_coma">223,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Illes Balears. CUBIERTAS VEGETALES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">101,07</td>
-<td class="cuerpo_tabla_coma">100,08</td>
-<td class="cuerpo_tabla_coma">99,12</td>
-<td class="cuerpo_tabla_coma">98,19</td>
-<td class="cuerpo_tabla_coma">97,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">75,57</td>
-<td class="cuerpo_tabla_coma">75,64</td>
-<td class="cuerpo_tabla_coma">75,71</td>
-<td class="cuerpo_tabla_coma">75,78</td>
-<td class="cuerpo_tabla_coma">75,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">254,77</td>
-<td class="cuerpo_tabla_coma">254,77</td>
-<td class="cuerpo_tabla_coma">254,77</td>
-<td class="cuerpo_tabla_coma">254,77</td>
-<td class="cuerpo_tabla_coma">254,77</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Illes Balears. CUBIERTAS INERTES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">101,07</td>
-<td class="cuerpo_tabla_coma">100,08</td>
-<td class="cuerpo_tabla_coma">99,12</td>
-<td class="cuerpo_tabla_coma">98,19</td>
-<td class="cuerpo_tabla_coma">97,18</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">75,57</td>
-<td class="cuerpo_tabla_coma">75,64</td>
-<td class="cuerpo_tabla_coma">75,71</td>
-<td class="cuerpo_tabla_coma">75,78</td>
-<td class="cuerpo_tabla_coma">75,78</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">169,39</td>
-<td class="cuerpo_tabla_coma">169,39</td>
-<td class="cuerpo_tabla_coma">169,39</td>
-<td class="cuerpo_tabla_coma">169,39</td>
-<td class="cuerpo_tabla_coma">169,39</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Illes Balears. CUBIERTAS VEGETALES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">177,95</td>
-<td class="cuerpo_tabla_coma">176,23</td>
-<td class="cuerpo_tabla_coma">174,56</td>
-<td class="cuerpo_tabla_coma">172,94</td>
-<td class="cuerpo_tabla_coma">171,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">133,59</td>
-<td class="cuerpo_tabla_coma">133,71</td>
-<td class="cuerpo_tabla_coma">133,84</td>
-<td class="cuerpo_tabla_coma">133,96</td>
-<td class="cuerpo_tabla_coma">133,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">302,54</td>
-<td class="cuerpo_tabla_coma">302,54</td>
-<td class="cuerpo_tabla_coma">302,54</td>
-<td class="cuerpo_tabla_coma">302,54</td>
-<td class="cuerpo_tabla_coma">302,54</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. I. Balears. CUBIERTAS INERTES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">177,95</td>
-<td class="cuerpo_tabla_coma">176,23</td>
-<td class="cuerpo_tabla_coma">174,56</td>
-<td class="cuerpo_tabla_coma">172,94</td>
-<td class="cuerpo_tabla_coma">171,20</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">133,59</td>
-<td class="cuerpo_tabla_coma">133,71</td>
-<td class="cuerpo_tabla_coma">133,84</td>
-<td class="cuerpo_tabla_coma">133,96</td>
-<td class="cuerpo_tabla_coma">133,96</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">232,21</td>
-<td class="cuerpo_tabla_coma">232,21</td>
-<td class="cuerpo_tabla_coma">232,21</td>
-<td class="cuerpo_tabla_coma">232,21</td>
-<td class="cuerpo_tabla_coma">232,21</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Illes Balears. CUBIERTAS VEGETALES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">253,17</td>
-<td class="cuerpo_tabla_coma">250,74</td>
-<td class="cuerpo_tabla_coma">248,39</td>
-<td class="cuerpo_tabla_coma">246,11</td>
-<td class="cuerpo_tabla_coma">243,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">190,56</td>
-<td class="cuerpo_tabla_coma">190,73</td>
-<td class="cuerpo_tabla_coma">190,91</td>
-<td class="cuerpo_tabla_coma">191,08</td>
-<td class="cuerpo_tabla_coma">191,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">360,53</td>
-<td class="cuerpo_tabla_coma">360,53</td>
-<td class="cuerpo_tabla_coma">360,53</td>
-<td class="cuerpo_tabla_coma">360,53</td>
-<td class="cuerpo_tabla_coma">360,53</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Illes Balears. CUBIERTAS INERTES.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">253,17</td>
-<td class="cuerpo_tabla_coma">250,74</td>
-<td class="cuerpo_tabla_coma">248,39</td>
-<td class="cuerpo_tabla_coma">246,11</td>
-<td class="cuerpo_tabla_coma">243,64</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">190,56</td>
-<td class="cuerpo_tabla_coma">190,73</td>
-<td class="cuerpo_tabla_coma">190,91</td>
-<td class="cuerpo_tabla_coma">191,08</td>
-<td class="cuerpo_tabla_coma">191,08</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">311,72</td>
-<td class="cuerpo_tabla_coma">311,72</td>
-<td class="cuerpo_tabla_coma">311,72</td>
-<td class="cuerpo_tabla_coma">311,72</td>
-<td class="cuerpo_tabla_coma">311,72</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo y cultivos permanentes.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">56,04</td>
-<td class="cuerpo_tabla_coma">52,66</td>
-<td class="cuerpo_tabla_coma">49,67</td>
-<td class="cuerpo_tabla_coma">47,01</td>
-<td class="cuerpo_tabla_coma">44,56</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">8,51</td>
-<td class="cuerpo_tabla_coma">8,52</td>
-<td class="cuerpo_tabla_coma">8,53</td>
-<td class="cuerpo_tabla_coma">8,55</td>
-<td class="cuerpo_tabla_coma">8,55</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo bajo agua.</td>
-<td class="cuerpo_tabla_izq">PLANIFICADO.</td>
-<td class="cuerpo_tabla_coma">156,78</td>
-<td class="cuerpo_tabla_coma">155,19</td>
-<td class="cuerpo_tabla_coma">153,64</td>
-<td class="cuerpo_tabla_coma">152,13</td>
-<td class="cuerpo_tabla_coma">150,41</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÍNIMO.</td>
-<td class="cuerpo_tabla_coma">133,26</td>
-<td class="cuerpo_tabla_coma">133,47</td>
-<td class="cuerpo_tabla_coma">133,67</td>
-<td class="cuerpo_tabla_coma">133,87</td>
-<td class="cuerpo_tabla_coma">133,87</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MÁXIMO.</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_coma">250</td>
+<td>24,63</td>
+<td>24,68</td>
+<td>24,72</td>
+<td>24,76</td>
+<td>24,76</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>105,56</td>
+<td>105,56</td>
+<td>105,56</td>
+<td>105,56</td>
+<td>105,56</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano.</td>
+<td>PLANIFICADO.</td>
+<td>47,67</td>
+<td>45,94</td>
+<td>44,32</td>
+<td>42,81</td>
+<td>41,33</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>24,63</td>
+<td>24,68</td>
+<td>24,72</td>
+<td>24,76</td>
+<td>24,76</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>195</td>
+<td>195</td>
+<td>195</td>
+<td>195</td>
+<td>195</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano húmedo.</td>
+<td>PLANIFICADO.</td>
+<td>85,72</td>
+<td>82,74</td>
+<td>79,96</td>
+<td>77,36</td>
+<td>74,80</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>46,02</td>
+<td>46,10</td>
+<td>46,18</td>
+<td>46,25</td>
+<td>46,25</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>114,07</td>
+<td>114,07</td>
+<td>114,07</td>
+<td>114,07</td>
+<td>114,07</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano húmedo.</td>
+<td>PLANIFICADO.</td>
+<td>85,72</td>
+<td>82,74</td>
+<td>79,96</td>
+<td>77,36</td>
+<td>74,80</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>46,02</td>
+<td>46,10</td>
+<td>46,18</td>
+<td>46,25</td>
+<td>46,25</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>227</td>
+<td>227</td>
+<td>227</td>
+<td>227</td>
+<td>227</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío.</td>
+<td>PLANIFICADO.</td>
+<td>151,99</td>
+<td>146,81</td>
+<td>141,98</td>
+<td>137,46</td>
+<td>133,01</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>85,72</td>
+<td>83,14</td>
+<td>83,27</td>
+<td>83,40</td>
+<td>83,40</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>222</td>
+<td>222</td>
+<td>222</td>
+<td>222</td>
+<td>222</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío.</td>
+<td>PLANIFICADO.</td>
+<td>151,99</td>
+<td>146,81</td>
+<td>141,98</td>
+<td>137,46</td>
+<td>133,01</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>85,72</td>
+<td>83,14</td>
+<td>83,27</td>
+<td>83,40</td>
+<td>83,40</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>268</td>
+<td>268</td>
+<td>268</td>
+<td>268</td>
+<td>268</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano. Illes Balears.</td>
+<td>PLANIFICADO.</td>
+<td>75,67</td>
+<td>73,94</td>
+<td>72,32</td>
+<td>70,81</td>
+<td>69,33</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>52,63</td>
+<td>52,68</td>
+<td>52,72</td>
+<td>52,76</td>
+<td>52,76</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>133,56</td>
+<td>133,56</td>
+<td>133,56</td>
+<td>133,56</td>
+<td>133,56</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano. Illes Balears.</td>
+<td>PLANIFICADO.</td>
+<td>75,67</td>
+<td>73,94</td>
+<td>72,32</td>
+<td>70,81</td>
+<td>69,33</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>52,63</td>
+<td>52,68</td>
+<td>52,72</td>
+<td>52,76</td>
+<td>52,76</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>223</td>
+<td>223</td>
+<td>223</td>
+<td>223</td>
+<td>223</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío. Illes Balears.</td>
+<td>PLANIFICADO.</td>
+<td>231,99</td>
+<td>226,81</td>
+<td>221,98</td>
+<td>217,46</td>
+<td>217,46</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>165,72</td>
+<td>163,14</td>
+<td>163,27</td>
+<td>163,40</td>
+<td>163,40</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>302</td>
+<td>302</td>
+<td>302</td>
+<td>302</td>
+<td>302</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío. Illes Balears.</td>
+<td>PLANIFICADO.</td>
+<td>231,99</td>
+<td>226,81</td>
+<td>221,98</td>
+<td>217,46</td>
+<td>217,46</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>165,72</td>
+<td>163,14</td>
+<td>163,27</td>
+<td>163,40</td>
+<td>163,40</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>348</td>
+<td>348</td>
+<td>348</td>
+<td>348</td>
+<td>348</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Península. CUBIERTAS VEGETALES.</td>
+<td>PLANIFICADO.</td>
+<td>61,07</td>
+<td>60,08</td>
+<td>59,12</td>
+<td>58,19</td>
+<td>57,18</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>35,57</td>
+<td>35,64</td>
+<td>35,71</td>
+<td>35,78</td>
+<td>35,78</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>214,77</td>
+<td>214,77</td>
+<td>214,77</td>
+<td>214,77</td>
+<td>214,77</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Península. CUBIERTAS INERTES.</td>
+<td>PLANIFICADO.</td>
+<td>61,07</td>
+<td>60,08</td>
+<td>59,12</td>
+<td>58,19</td>
+<td>57,18</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>35,57</td>
+<td>35,64</td>
+<td>35,71</td>
+<td>35,78</td>
+<td>35,78</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>129,39</td>
+<td>129,39</td>
+<td>129,39</td>
+<td>129,39</td>
+<td>129,39</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Península. CUBIERTAS VEGETALES.</td>
+<td>PLANIFICADO.</td>
+<td>113,95</td>
+<td>112,23</td>
+<td>110,56</td>
+<td>108,94</td>
+<td>107,20</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>69,59</td>
+<td>69,71</td>
+<td>69,84</td>
+<td>69,96</td>
+<td>69,96</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>238,54</td>
+<td>238,54</td>
+<td>238,54</td>
+<td>238,54</td>
+<td>238,54</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Península. CUBIERTAS INERTES.</td>
+<td>PLANIFICADO.</td>
+<td>113,95</td>
+<td>112,23</td>
+<td>110,56</td>
+<td>108,94</td>
+<td>107,20</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>69,59</td>
+<td>69,71</td>
+<td>69,84</td>
+<td>69,96</td>
+<td>69,96</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>168,21</td>
+<td>168,21</td>
+<td>168,21</td>
+<td>168,21</td>
+<td>168,21</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península. CUBIERTAS VEGETALES.</td>
+<td>PLANIFICADO.</td>
+<td>165,17</td>
+<td>162,74</td>
+<td>160,39</td>
+<td>158,11</td>
+<td>155,64</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>102,56</td>
+<td>102,73</td>
+<td>102,91</td>
+<td>103,08</td>
+<td>103,08</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>272,53</td>
+<td>272,53</td>
+<td>272,53</td>
+<td>272,53</td>
+<td>272,53</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península. CUBIERTAS INERTES.</td>
+<td>PLANIFICADO.</td>
+<td>165,17</td>
+<td>162,74</td>
+<td>160,39</td>
+<td>158,11</td>
+<td>155,64</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>102,56</td>
+<td>102,73</td>
+<td>102,91</td>
+<td>103,08</td>
+<td>103,08</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>223,72</td>
+<td>223,72</td>
+<td>223,72</td>
+<td>223,72</td>
+<td>223,72</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Illes Balears. CUBIERTAS VEGETALES.</td>
+<td>PLANIFICADO.</td>
+<td>101,07</td>
+<td>100,08</td>
+<td>99,12</td>
+<td>98,19</td>
+<td>97,18</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>75,57</td>
+<td>75,64</td>
+<td>75,71</td>
+<td>75,78</td>
+<td>75,78</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>254,77</td>
+<td>254,77</td>
+<td>254,77</td>
+<td>254,77</td>
+<td>254,77</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. Illes Balears. CUBIERTAS INERTES.</td>
+<td>PLANIFICADO.</td>
+<td>101,07</td>
+<td>100,08</td>
+<td>99,12</td>
+<td>98,19</td>
+<td>97,18</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>75,57</td>
+<td>75,64</td>
+<td>75,71</td>
+<td>75,78</td>
+<td>75,78</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>169,39</td>
+<td>169,39</td>
+<td>169,39</td>
+<td>169,39</td>
+<td>169,39</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. Illes Balears. CUBIERTAS VEGETALES.</td>
+<td>PLANIFICADO.</td>
+<td>177,95</td>
+<td>176,23</td>
+<td>174,56</td>
+<td>172,94</td>
+<td>171,20</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>133,59</td>
+<td>133,71</td>
+<td>133,84</td>
+<td>133,96</td>
+<td>133,96</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>302,54</td>
+<td>302,54</td>
+<td>302,54</td>
+<td>302,54</td>
+<td>302,54</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. I. Balears. CUBIERTAS INERTES.</td>
+<td>PLANIFICADO.</td>
+<td>177,95</td>
+<td>176,23</td>
+<td>174,56</td>
+<td>172,94</td>
+<td>171,20</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>133,59</td>
+<td>133,71</td>
+<td>133,84</td>
+<td>133,96</td>
+<td>133,96</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>232,21</td>
+<td>232,21</td>
+<td>232,21</td>
+<td>232,21</td>
+<td>232,21</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Illes Balears. CUBIERTAS VEGETALES.</td>
+<td>PLANIFICADO.</td>
+<td>253,17</td>
+<td>250,74</td>
+<td>248,39</td>
+<td>246,11</td>
+<td>243,64</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>190,56</td>
+<td>190,73</td>
+<td>190,91</td>
+<td>191,08</td>
+<td>191,08</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>360,53</td>
+<td>360,53</td>
+<td>360,53</td>
+<td>360,53</td>
+<td>360,53</td>
+</tr>
+<tr>
+<td rowspan="3">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Illes Balears. CUBIERTAS INERTES.</td>
+<td>PLANIFICADO.</td>
+<td>253,17</td>
+<td>250,74</td>
+<td>248,39</td>
+<td>246,11</td>
+<td>243,64</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>190,56</td>
+<td>190,73</td>
+<td>190,91</td>
+<td>191,08</td>
+<td>191,08</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>311,72</td>
+<td>311,72</td>
+<td>311,72</td>
+<td>311,72</td>
+<td>311,72</td>
+</tr>
+<tr>
+<td rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo y cultivos permanentes.</td>
+<td>PLANIFICADO.</td>
+<td>56,04</td>
+<td>52,66</td>
+<td>49,67</td>
+<td>47,01</td>
+<td>44,56</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>8,51</td>
+<td>8,52</td>
+<td>8,53</td>
+<td>8,55</td>
+<td>8,55</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>250</td>
+<td>250</td>
+<td>250</td>
+<td>250</td>
+<td>250</td>
+</tr>
+<tr>
+<td rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo bajo agua.</td>
+<td>PLANIFICADO.</td>
+<td>156,78</td>
+<td>155,19</td>
+<td>153,64</td>
+<td>152,13</td>
+<td>150,41</td>
+</tr>
+<tr>
+<td>MÍNIMO.</td>
+<td>133,26</td>
+<td>133,47</td>
+<td>133,67</td>
+<td>133,87</td>
+<td>133,87</td>
+</tr>
+<tr>
+<td>MÁXIMO.</td>
+<td>250</td>
+<td>250</td>
+<td>250</td>
+<td>250</td>
+<td>250</td>
 </tr>
 </tbody>
 </table>
 
 Los importes unitarios de las prácticas de cubiertas vegetales y de siembra directa se verían incrementados en 25 euros por hectárea en el caso de que el agricultor se comprometa a llevar a cabo, alguna de las prácticas, el año siguiente.
-
-> Téngase en cuenta que esta modificación de los valores máximos, establecida por el art. 3.36 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404), será aplicable a partir de 2025.
-
-> Redacción anterior:
-
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
-> <thead>
-> <tr>
-> <th class="cabeza_tabla">Ecorrégimen-tipo de superficie/práctica</th>
-> <th class="cabeza_tabla">Importe unitario</th>
-> <th class="cabeza_tabla">2023</th>
-> <th class="cabeza_tabla">2024</th>
-> <th class="cabeza_tabla">2025</th>
-> <th class="cabeza_tabla">2026</th>
-> <th class="cabeza_tabla">2027</th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.</p>
-> <p class="cuerpo_tabla_izq">PASTOREO EXTENSIVO.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">62,16</td>
-> <td class="cuerpo_tabla_coma">59,09</td>
-> <td class="cuerpo_tabla_coma">56,31</td>
-> <td class="cuerpo_tabla_coma">53,80</td>
-> <td class="cuerpo_tabla_coma">51,42</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">43,51</td>
-> <td class="cuerpo_tabla_coma">43,58</td>
-> <td class="cuerpo_tabla_coma">43,64</td>
-> <td class="cuerpo_tabla_coma">43,71</td>
-> <td class="cuerpo_tabla_coma">43,71</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">141,74</td>
-> <td class="cuerpo_tabla_coma">141,74</td>
-> <td class="cuerpo_tabla_coma">141,74</td>
-> <td class="cuerpo_tabla_coma">141,74</td>
-> <td class="cuerpo_tabla_coma">141,74</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.</p>
-> <p class="cuerpo_tabla_izq">ISLAS DE BIODIVERSIDAD.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">62,16</td>
-> <td class="cuerpo_tabla_coma">59,09</td>
-> <td class="cuerpo_tabla_coma">56,31</td>
-> <td class="cuerpo_tabla_coma">53,80</td>
-> <td class="cuerpo_tabla_coma">51,42</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">43,51</td>
-> <td class="cuerpo_tabla_coma">43,58</td>
-> <td class="cuerpo_tabla_coma">43,64</td>
-> <td class="cuerpo_tabla_coma">43,71</td>
-> <td class="cuerpo_tabla_coma">43,71</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">123,46</td>
-> <td class="cuerpo_tabla_coma">123,46</td>
-> <td class="cuerpo_tabla_coma">123,46</td>
-> <td class="cuerpo_tabla_coma">123,46</td>
-> <td class="cuerpo_tabla_coma">123,46</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos húmedos.</p>
-> <p class="cuerpo_tabla_izq">SIEGA SOSTENIBLE.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">62,16</td>
-> <td class="cuerpo_tabla_coma">59,09</td>
-> <td class="cuerpo_tabla_coma">56,31</td>
-> <td class="cuerpo_tabla_coma">53,80</td>
-> <td class="cuerpo_tabla_coma">51,42</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">43,51</td>
-> <td class="cuerpo_tabla_coma">43,58</td>
-> <td class="cuerpo_tabla_coma">43,64</td>
-> <td class="cuerpo_tabla_coma">43,71</td>
-> <td class="cuerpo_tabla_coma">43,71</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">160,75</td>
-> <td class="cuerpo_tabla_coma">160,75</td>
-> <td class="cuerpo_tabla_coma">160,75</td>
-> <td class="cuerpo_tabla_coma">160,75</td>
-> <td class="cuerpo_tabla_coma">160,75</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos.</p>
-> <p class="cuerpo_tabla_izq">PASTOREO EXTENSIVO.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">40,96</td>
-> <td class="cuerpo_tabla_coma">38,92</td>
-> <td class="cuerpo_tabla_coma">37,09</td>
-> <td class="cuerpo_tabla_coma">35,43</td>
-> <td class="cuerpo_tabla_coma">33,86</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">27,19</td>
-> <td class="cuerpo_tabla_coma">27,23</td>
-> <td class="cuerpo_tabla_coma">27,27</td>
-> <td class="cuerpo_tabla_coma">27,31</td>
-> <td class="cuerpo_tabla_coma">27,31</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">94,97</td>
-> <td class="cuerpo_tabla_coma">94,97</td>
-> <td class="cuerpo_tabla_coma">94,97</td>
-> <td class="cuerpo_tabla_coma">94,97</td>
-> <td class="cuerpo_tabla_coma">94,97</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos.</p>
-> <p class="cuerpo_tabla_izq">ISLAS DE BIODIVERSIDAD.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">40,96</td>
-> <td class="cuerpo_tabla_coma">38,92</td>
-> <td class="cuerpo_tabla_coma">37,09</td>
-> <td class="cuerpo_tabla_coma">35,43</td>
-> <td class="cuerpo_tabla_coma">33,86</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">27,19</td>
-> <td class="cuerpo_tabla_coma">27,23</td>
-> <td class="cuerpo_tabla_coma">27,27</td>
-> <td class="cuerpo_tabla_coma">27,31</td>
-> <td class="cuerpo_tabla_coma">27,31</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">82,72</td>
-> <td class="cuerpo_tabla_coma">82,72</td>
-> <td class="cuerpo_tabla_coma">82,72</td>
-> <td class="cuerpo_tabla_coma">82,72</td>
-> <td class="cuerpo_tabla_coma">82,72</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos.</p>
-> <p class="cuerpo_tabla_izq">SIEGA SOSTENIBLE.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">40,96</td>
-> <td class="cuerpo_tabla_coma">38,92</td>
-> <td class="cuerpo_tabla_coma">37,09</td>
-> <td class="cuerpo_tabla_coma">35,43</td>
-> <td class="cuerpo_tabla_coma">33,86</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">27,19</td>
-> <td class="cuerpo_tabla_coma">27,23</td>
-> <td class="cuerpo_tabla_coma">27,27</td>
-> <td class="cuerpo_tabla_coma">27,31</td>
-> <td class="cuerpo_tabla_coma">27,31</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">107,70</td>
-> <td class="cuerpo_tabla_coma">107,70</td>
-> <td class="cuerpo_tabla_coma">107,70</td>
-> <td class="cuerpo_tabla_coma">107,70</td>
-> <td class="cuerpo_tabla_coma">107,70</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares.</p>
-> <p class="cuerpo_tabla_izq">PASTOREO EXTENSIVO.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">62,96</td>
-> <td class="cuerpo_tabla_coma">60,92</td>
-> <td class="cuerpo_tabla_coma">59,09</td>
-> <td class="cuerpo_tabla_coma">57,43</td>
-> <td class="cuerpo_tabla_coma">55,86</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">49,19</td>
-> <td class="cuerpo_tabla_coma">49,23</td>
-> <td class="cuerpo_tabla_coma">49,27</td>
-> <td class="cuerpo_tabla_coma">49,31</td>
-> <td class="cuerpo_tabla_coma">49,31</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">116,97</td>
-> <td class="cuerpo_tabla_coma">116,97</td>
-> <td class="cuerpo_tabla_coma">116,97</td>
-> <td class="cuerpo_tabla_coma">116,97</td>
-> <td class="cuerpo_tabla_coma">116,97</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos Insulares.</p>
-> <p class="cuerpo_tabla_izq">ISLAS DE BIODIVERSIDAD.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">62,96</td>
-> <td class="cuerpo_tabla_coma">60,92</td>
-> <td class="cuerpo_tabla_coma">59,09</td>
-> <td class="cuerpo_tabla_coma">57,43</td>
-> <td class="cuerpo_tabla_coma">55,86</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">49,19</td>
-> <td class="cuerpo_tabla_coma">49,23</td>
-> <td class="cuerpo_tabla_coma">49,27</td>
-> <td class="cuerpo_tabla_coma">49,31</td>
-> <td class="cuerpo_tabla_coma">49,31</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">104,72</td>
-> <td class="cuerpo_tabla_coma">104,72</td>
-> <td class="cuerpo_tabla_coma">104,72</td>
-> <td class="cuerpo_tabla_coma">104,72</td>
-> <td class="cuerpo_tabla_coma">104,72</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono y agroecología: Pastoreo extensivo, siega y biodiversidad en las superficies de pastos mediterráneos insulares.</p>
-> <p class="cuerpo_tabla_izq">SIEGA SOSTENIBLE.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">62,96</td>
-> <td class="cuerpo_tabla_coma">60,92</td>
-> <td class="cuerpo_tabla_coma">59,09</td>
-> <td class="cuerpo_tabla_coma">57,43</td>
-> <td class="cuerpo_tabla_coma">55,86</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">49,19</td>
-> <td class="cuerpo_tabla_coma">49,23</td>
-> <td class="cuerpo_tabla_coma">49,27</td>
-> <td class="cuerpo_tabla_coma">49,31</td>
-> <td class="cuerpo_tabla_coma">49,31</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">129,76</td>
-> <td class="cuerpo_tabla_coma">129,76</td>
-> <td class="cuerpo_tabla_coma">129,76</td>
-> <td class="cuerpo_tabla_coma">129,76</td>
-> <td class="cuerpo_tabla_coma">129,76</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">47,67</td>
-> <td class="cuerpo_tabla_coma">45,94</td>
-> <td class="cuerpo_tabla_coma">44,32</td>
-> <td class="cuerpo_tabla_coma">42,81</td>
-> <td class="cuerpo_tabla_coma">41,33</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">24,63</td>
-> <td class="cuerpo_tabla_coma">24,68</td>
-> <td class="cuerpo_tabla_coma">24,72</td>
-> <td class="cuerpo_tabla_coma">24,76</td>
-> <td class="cuerpo_tabla_coma">24,76</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">105,56</td>
-> <td class="cuerpo_tabla_coma">105,56</td>
-> <td class="cuerpo_tabla_coma">105,56</td>
-> <td class="cuerpo_tabla_coma">105,56</td>
-> <td class="cuerpo_tabla_coma">105,56</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">47,67</td>
-> <td class="cuerpo_tabla_coma">45,94</td>
-> <td class="cuerpo_tabla_coma">44,32</td>
-> <td class="cuerpo_tabla_coma">42,81</td>
-> <td class="cuerpo_tabla_coma">41,33</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">24,63</td>
-> <td class="cuerpo_tabla_coma">24,68</td>
-> <td class="cuerpo_tabla_coma">24,72</td>
-> <td class="cuerpo_tabla_coma">24,76</td>
-> <td class="cuerpo_tabla_coma">24,76</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">195</td>
-> <td class="cuerpo_tabla_coma">195</td>
-> <td class="cuerpo_tabla_coma">195</td>
-> <td class="cuerpo_tabla_coma">195</td>
-> <td class="cuerpo_tabla_coma">195</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano húmedo.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">85,72</td>
-> <td class="cuerpo_tabla_coma">82,74</td>
-> <td class="cuerpo_tabla_coma">79,96</td>
-> <td class="cuerpo_tabla_coma">77,36</td>
-> <td class="cuerpo_tabla_coma">74,80</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">46,02</td>
-> <td class="cuerpo_tabla_coma">46,10</td>
-> <td class="cuerpo_tabla_coma">46,18</td>
-> <td class="cuerpo_tabla_coma">46,25</td>
-> <td class="cuerpo_tabla_coma">46,25</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">114,07</td>
-> <td class="cuerpo_tabla_coma">114,07</td>
-> <td class="cuerpo_tabla_coma">114,07</td>
-> <td class="cuerpo_tabla_coma">114,07</td>
-> <td class="cuerpo_tabla_coma">114,07</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano húmedo.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">85,72</td>
-> <td class="cuerpo_tabla_coma">82,74</td>
-> <td class="cuerpo_tabla_coma">79,96</td>
-> <td class="cuerpo_tabla_coma">77,36</td>
-> <td class="cuerpo_tabla_coma">74,80</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">46,02</td>
-> <td class="cuerpo_tabla_coma">46,10</td>
-> <td class="cuerpo_tabla_coma">46,18</td>
-> <td class="cuerpo_tabla_coma">46,25</td>
-> <td class="cuerpo_tabla_coma">46,25</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">227</td>
-> <td class="cuerpo_tabla_coma">227</td>
-> <td class="cuerpo_tabla_coma">227</td>
-> <td class="cuerpo_tabla_coma">227</td>
-> <td class="cuerpo_tabla_coma">227</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">151,99</td>
-> <td class="cuerpo_tabla_coma">146,81</td>
-> <td class="cuerpo_tabla_coma">141,98</td>
-> <td class="cuerpo_tabla_coma">137,46</td>
-> <td class="cuerpo_tabla_coma">133,01</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">85,72</td>
-> <td class="cuerpo_tabla_coma">83,14</td>
-> <td class="cuerpo_tabla_coma">83,27</td>
-> <td class="cuerpo_tabla_coma">83,40</td>
-> <td class="cuerpo_tabla_coma">83,40</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">222</td>
-> <td class="cuerpo_tabla_coma">222</td>
-> <td class="cuerpo_tabla_coma">222</td>
-> <td class="cuerpo_tabla_coma">222</td>
-> <td class="cuerpo_tabla_coma">222</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">151,99</td>
-> <td class="cuerpo_tabla_coma">146,81</td>
-> <td class="cuerpo_tabla_coma">141,98</td>
-> <td class="cuerpo_tabla_coma">137,46</td>
-> <td class="cuerpo_tabla_coma">133,01</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">85,72</td>
-> <td class="cuerpo_tabla_coma">83,14</td>
-> <td class="cuerpo_tabla_coma">83,27</td>
-> <td class="cuerpo_tabla_coma">83,40</td>
-> <td class="cuerpo_tabla_coma">83,40</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">268</td>
-> <td class="cuerpo_tabla_coma">268</td>
-> <td class="cuerpo_tabla_coma">268</td>
-> <td class="cuerpo_tabla_coma">268</td>
-> <td class="cuerpo_tabla_coma">268</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de secano. Islas Baleares.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">75,67</td>
-> <td class="cuerpo_tabla_coma">73,94</td>
-> <td class="cuerpo_tabla_coma">72,32</td>
-> <td class="cuerpo_tabla_coma">70,81</td>
-> <td class="cuerpo_tabla_coma">69,33</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">52,63</td>
-> <td class="cuerpo_tabla_coma">52,68</td>
-> <td class="cuerpo_tabla_coma">52,72</td>
-> <td class="cuerpo_tabla_coma">52,76</td>
-> <td class="cuerpo_tabla_coma">52,76</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">133,56</td>
-> <td class="cuerpo_tabla_coma">133,56</td>
-> <td class="cuerpo_tabla_coma">133,56</td>
-> <td class="cuerpo_tabla_coma">133,56</td>
-> <td class="cuerpo_tabla_coma">133,56</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de secano. Islas Baleares.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">75,67</td>
-> <td class="cuerpo_tabla_coma">73,94</td>
-> <td class="cuerpo_tabla_coma">72,32</td>
-> <td class="cuerpo_tabla_coma">70,81</td>
-> <td class="cuerpo_tabla_coma">69,33</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">52,63</td>
-> <td class="cuerpo_tabla_coma">52,68</td>
-> <td class="cuerpo_tabla_coma">52,72</td>
-> <td class="cuerpo_tabla_coma">52,76</td>
-> <td class="cuerpo_tabla_coma">52,76</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">223</td>
-> <td class="cuerpo_tabla_coma">223</td>
-> <td class="cuerpo_tabla_coma">223</td>
-> <td class="cuerpo_tabla_coma">223</td>
-> <td class="cuerpo_tabla_coma">223</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: ROTACIÓN CON ESPECIES MEJORANTES en tierras de cultivo de regadío Islas Baleares.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">231,99</td>
-> <td class="cuerpo_tabla_coma">226,81</td>
-> <td class="cuerpo_tabla_coma">221,98</td>
-> <td class="cuerpo_tabla_coma">217,46</td>
-> <td class="cuerpo_tabla_coma">217,46</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">165,72</td>
-> <td class="cuerpo_tabla_coma">163,14</td>
-> <td class="cuerpo_tabla_coma">163,27</td>
-> <td class="cuerpo_tabla_coma">163,40</td>
-> <td class="cuerpo_tabla_coma">163,40</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">302</td>
-> <td class="cuerpo_tabla_coma">302</td>
-> <td class="cuerpo_tabla_coma">302</td>
-> <td class="cuerpo_tabla_coma">302</td>
-> <td class="cuerpo_tabla_coma">302</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agricultura de carbono y agroecología: SIEMBRA DIRECTA en tierras de cultivo de regadío Islas Baleares.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">231,99</td>
-> <td class="cuerpo_tabla_coma">226,81</td>
-> <td class="cuerpo_tabla_coma">221,98</td>
-> <td class="cuerpo_tabla_coma">217,46</td>
-> <td class="cuerpo_tabla_coma">217,46</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">165,72</td>
-> <td class="cuerpo_tabla_coma">163,14</td>
-> <td class="cuerpo_tabla_coma">163,27</td>
-> <td class="cuerpo_tabla_coma">163,40</td>
-> <td class="cuerpo_tabla_coma">163,40</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">348</td>
-> <td class="cuerpo_tabla_coma">348</td>
-> <td class="cuerpo_tabla_coma">348</td>
-> <td class="cuerpo_tabla_coma">348</td>
-> <td class="cuerpo_tabla_coma">348</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
-> <p class="cuerpo_tabla_izq">Península.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">61,07</td>
-> <td class="cuerpo_tabla_coma">60,08</td>
-> <td class="cuerpo_tabla_coma">59,12</td>
-> <td class="cuerpo_tabla_coma">58,19</td>
-> <td class="cuerpo_tabla_coma">57,18</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">35,57</td>
-> <td class="cuerpo_tabla_coma">35,64</td>
-> <td class="cuerpo_tabla_coma">35,71</td>
-> <td class="cuerpo_tabla_coma">35,78</td>
-> <td class="cuerpo_tabla_coma">35,78</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">214,77</td>
-> <td class="cuerpo_tabla_coma">214,77</td>
-> <td class="cuerpo_tabla_coma">214,77</td>
-> <td class="cuerpo_tabla_coma">214,77</td>
-> <td class="cuerpo_tabla_coma">214,77</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
-> <p class="cuerpo_tabla_izq">Península.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">61,07</td>
-> <td class="cuerpo_tabla_coma">60,08</td>
-> <td class="cuerpo_tabla_coma">59,12</td>
-> <td class="cuerpo_tabla_coma">58,19</td>
-> <td class="cuerpo_tabla_coma">57,18</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">35,57</td>
-> <td class="cuerpo_tabla_coma">35,64</td>
-> <td class="cuerpo_tabla_coma">35,71</td>
-> <td class="cuerpo_tabla_coma">35,78</td>
-> <td class="cuerpo_tabla_coma">35,78</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">129,39</td>
-> <td class="cuerpo_tabla_coma">129,39</td>
-> <td class="cuerpo_tabla_coma">129,39</td>
-> <td class="cuerpo_tabla_coma">129,39</td>
-> <td class="cuerpo_tabla_coma">129,39</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
-> <p class="cuerpo_tabla_izq">Península.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">113,95</td>
-> <td class="cuerpo_tabla_coma">112,23</td>
-> <td class="cuerpo_tabla_coma">110,56</td>
-> <td class="cuerpo_tabla_coma">108,94</td>
-> <td class="cuerpo_tabla_coma">107,20</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">69,59</td>
-> <td class="cuerpo_tabla_coma">69,71</td>
-> <td class="cuerpo_tabla_coma">69,84</td>
-> <td class="cuerpo_tabla_coma">69,96</td>
-> <td class="cuerpo_tabla_coma">69,96</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">238,54</td>
-> <td class="cuerpo_tabla_coma">238,54</td>
-> <td class="cuerpo_tabla_coma">238,54</td>
-> <td class="cuerpo_tabla_coma">238,54</td>
-> <td class="cuerpo_tabla_coma">238,54</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
-> <p class="cuerpo_tabla_izq">Península.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">113,95</td>
-> <td class="cuerpo_tabla_coma">112,23</td>
-> <td class="cuerpo_tabla_coma">110,56</td>
-> <td class="cuerpo_tabla_coma">108,94</td>
-> <td class="cuerpo_tabla_coma">107,20</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">69,59</td>
-> <td class="cuerpo_tabla_coma">69,71</td>
-> <td class="cuerpo_tabla_coma">69,84</td>
-> <td class="cuerpo_tabla_coma">69,96</td>
-> <td class="cuerpo_tabla_coma">69,96</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">168,21</td>
-> <td class="cuerpo_tabla_coma">168,21</td>
-> <td class="cuerpo_tabla_coma">168,21</td>
-> <td class="cuerpo_tabla_coma">168,21</td>
-> <td class="cuerpo_tabla_coma">168,21</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">165,17</td>
-> <td class="cuerpo_tabla_coma">162,74</td>
-> <td class="cuerpo_tabla_coma">160,39</td>
-> <td class="cuerpo_tabla_coma">158,11</td>
-> <td class="cuerpo_tabla_coma">155,64</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">102,56</td>
-> <td class="cuerpo_tabla_coma">102,73</td>
-> <td class="cuerpo_tabla_coma">102,91</td>
-> <td class="cuerpo_tabla_coma">103,08</td>
-> <td class="cuerpo_tabla_coma">103,08</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">272,53</td>
-> <td class="cuerpo_tabla_coma">272,53</td>
-> <td class="cuerpo_tabla_coma">272,53</td>
-> <td class="cuerpo_tabla_coma">272,53</td>
-> <td class="cuerpo_tabla_coma">272,53</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. Península.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">165,17</td>
-> <td class="cuerpo_tabla_coma">162,74</td>
-> <td class="cuerpo_tabla_coma">160,39</td>
-> <td class="cuerpo_tabla_coma">158,11</td>
-> <td class="cuerpo_tabla_coma">155,64</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">102,56</td>
-> <td class="cuerpo_tabla_coma">102,73</td>
-> <td class="cuerpo_tabla_coma">102,91</td>
-> <td class="cuerpo_tabla_coma">103,08</td>
-> <td class="cuerpo_tabla_coma">103,08</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">223,72</td>
-> <td class="cuerpo_tabla_coma">223,72</td>
-> <td class="cuerpo_tabla_coma">223,72</td>
-> <td class="cuerpo_tabla_coma">223,72</td>
-> <td class="cuerpo_tabla_coma">223,72</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
-> <p class="cuerpo_tabla_izq">I. Baleares.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">101,07</td>
-> <td class="cuerpo_tabla_coma">100,08</td>
-> <td class="cuerpo_tabla_coma">99,12</td>
-> <td class="cuerpo_tabla_coma">98,19</td>
-> <td class="cuerpo_tabla_coma">97,18</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">75,57</td>
-> <td class="cuerpo_tabla_coma">75,64</td>
-> <td class="cuerpo_tabla_coma">75,71</td>
-> <td class="cuerpo_tabla_coma">75,78</td>
-> <td class="cuerpo_tabla_coma">75,78</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">254,77</td>
-> <td class="cuerpo_tabla_coma">254,77</td>
-> <td class="cuerpo_tabla_coma">254,77</td>
-> <td class="cuerpo_tabla_coma">254,77</td>
-> <td class="cuerpo_tabla_coma">254,77</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos.</p>
-> <p class="cuerpo_tabla_izq">I. Baleares.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">101,07</td>
-> <td class="cuerpo_tabla_coma">100,08</td>
-> <td class="cuerpo_tabla_coma">99,12</td>
-> <td class="cuerpo_tabla_coma">98,19</td>
-> <td class="cuerpo_tabla_coma">97,18</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">75,57</td>
-> <td class="cuerpo_tabla_coma">75,64</td>
-> <td class="cuerpo_tabla_coma">75,71</td>
-> <td class="cuerpo_tabla_coma">75,78</td>
-> <td class="cuerpo_tabla_coma">75,78</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">169,39</td>
-> <td class="cuerpo_tabla_coma">169,39</td>
-> <td class="cuerpo_tabla_coma">169,39</td>
-> <td class="cuerpo_tabla_coma">169,39</td>
-> <td class="cuerpo_tabla_coma">169,39</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
-> <p class="cuerpo_tabla_izq">I. Baleares.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">177,95</td>
-> <td class="cuerpo_tabla_coma">176,23</td>
-> <td class="cuerpo_tabla_coma">174,56</td>
-> <td class="cuerpo_tabla_coma">172,94</td>
-> <td class="cuerpo_tabla_coma">171,20</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">133,59</td>
-> <td class="cuerpo_tabla_coma">133,71</td>
-> <td class="cuerpo_tabla_coma">133,84</td>
-> <td class="cuerpo_tabla_coma">133,96</td>
-> <td class="cuerpo_tabla_coma">133,96</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">302,54</td>
-> <td class="cuerpo_tabla_coma">302,54</td>
-> <td class="cuerpo_tabla_coma">302,54</td>
-> <td class="cuerpo_tabla_coma">302,54</td>
-> <td class="cuerpo_tabla_coma">302,54</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media.</p>
-> <p class="cuerpo_tabla_izq">I. Baleares.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">177,95</td>
-> <td class="cuerpo_tabla_coma">176,23</td>
-> <td class="cuerpo_tabla_coma">174,56</td>
-> <td class="cuerpo_tabla_coma">172,94</td>
-> <td class="cuerpo_tabla_coma">171,20</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">133,59</td>
-> <td class="cuerpo_tabla_coma">133,71</td>
-> <td class="cuerpo_tabla_coma">133,84</td>
-> <td class="cuerpo_tabla_coma">133,96</td>
-> <td class="cuerpo_tabla_coma">133,96</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">232,21</td>
-> <td class="cuerpo_tabla_coma">232,21</td>
-> <td class="cuerpo_tabla_coma">232,21</td>
-> <td class="cuerpo_tabla_coma">232,21</td>
-> <td class="cuerpo_tabla_coma">232,21</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales.</p>
-> <p class="cuerpo_tabla_izq">I. Baleares.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS VEGETALES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">253,17</td>
-> <td class="cuerpo_tabla_coma">250,74</td>
-> <td class="cuerpo_tabla_coma">248,39</td>
-> <td class="cuerpo_tabla_coma">246,11</td>
-> <td class="cuerpo_tabla_coma">243,64</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">190,56</td>
-> <td class="cuerpo_tabla_coma">190,73</td>
-> <td class="cuerpo_tabla_coma">190,91</td>
-> <td class="cuerpo_tabla_coma">191,08</td>
-> <td class="cuerpo_tabla_coma">191,08</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">360,53</td>
-> <td class="cuerpo_tabla_coma">360,53</td>
-> <td class="cuerpo_tabla_coma">360,53</td>
-> <td class="cuerpo_tabla_coma">360,53</td>
-> <td class="cuerpo_tabla_coma">360,53</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">
-> <p class="cuerpo_tabla_izq">Agricultura de carbono: cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales.</p>
-> <p class="cuerpo_tabla_izq">I. Baleares.</p>
-> <p class="cuerpo_tabla_izq">CUBIERTAS INERTES.</p>
-> </td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">253,17</td>
-> <td class="cuerpo_tabla_coma">250,74</td>
-> <td class="cuerpo_tabla_coma">248,39</td>
-> <td class="cuerpo_tabla_coma">246,11</td>
-> <td class="cuerpo_tabla_coma">243,64</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">190,56</td>
-> <td class="cuerpo_tabla_coma">190,73</td>
-> <td class="cuerpo_tabla_coma">190,91</td>
-> <td class="cuerpo_tabla_coma">191,08</td>
-> <td class="cuerpo_tabla_coma">191,08</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">311,72</td>
-> <td class="cuerpo_tabla_coma">311,72</td>
-> <td class="cuerpo_tabla_coma">311,72</td>
-> <td class="cuerpo_tabla_coma">311,72</td>
-> <td class="cuerpo_tabla_coma">311,72</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo y cultivos permanentes.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">56,04</td>
-> <td class="cuerpo_tabla_coma">52,66</td>
-> <td class="cuerpo_tabla_coma">49,67</td>
-> <td class="cuerpo_tabla_coma">47,01</td>
-> <td class="cuerpo_tabla_coma">44,56</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">8,51</td>
-> <td class="cuerpo_tabla_coma">8,52</td>
-> <td class="cuerpo_tabla_coma">8,53</td>
-> <td class="cuerpo_tabla_coma">8,55</td>
-> <td class="cuerpo_tabla_coma">8,55</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq" rowspan="3">Agroecología: espacios de biodiversidad en tierras de cultivo bajo agua.</td>
-> <td class="cuerpo_tabla_izq">Planificado.</td>
-> <td class="cuerpo_tabla_coma">156,78</td>
-> <td class="cuerpo_tabla_coma">155,19</td>
-> <td class="cuerpo_tabla_coma">153,64</td>
-> <td class="cuerpo_tabla_coma">152,13</td>
-> <td class="cuerpo_tabla_coma">150,41</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Mínimo.</td>
-> <td class="cuerpo_tabla_coma">133,26</td>
-> <td class="cuerpo_tabla_coma">133,47</td>
-> <td class="cuerpo_tabla_coma">133,67</td>
-> <td class="cuerpo_tabla_coma">133,87</td>
-> <td class="cuerpo_tabla_coma">133,87</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq">Máximo.</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> <td class="cuerpo_tabla_coma">250</td>
-> </tr>
-> </tbody>
-> </table>
-
-> Los importes unitarios de las prácticas de cubiertas vegetales y de siembra directa se verían incrementados en 25 euros por hectárea en el caso de que el agricultor se comprometa a llevar a cabo, alguna de las prácticas, el año siguiente.
 
 > Se modifican los valores máximos, con efectos a partir de 2025, por el art. 3.36 del Real Decreto 1028/2024, de 8 de octubre. [Ref. BOE-A-2024-20404](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20404)
 
@@ -8432,603 +7439,597 @@ Los importes unitarios de las prácticas de cubiertas vegetales y de siembra dir
 
 ## ANEXO XIII — Listado de comarcas con pluviometría media de diez años igual o superior a 650 mm a los efectos de determinar la superficie de pastos húmedos y de tierra de cultivo de secano húmedo
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">CCAA</th>
-<th class="cabeza_tabla">Provincia</th>
-<th class="cabeza_tabla">Código Comarca</th>
-<th class="cabeza_tabla">Denominación Comarca</th>
+<th>CCAA</th>
+<th>Provincia</th>
+<th>Código Comarca</th>
+<th>Denominación Comarca</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_centro">1101</td>
-<td class="cuerpo_tabla_izq">CAMPIÑA DE CÁDIZ.</td>
+<td>Andalucía.</td>
+<td>Cádiz.</td>
+<td>1101</td>
+<td>CAMPIÑA DE CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_centro">1103</td>
-<td class="cuerpo_tabla_izq">SIERRA DE CÁDIZ.</td>
+<td>Andalucía.</td>
+<td>Cádiz.</td>
+<td>1103</td>
+<td>SIERRA DE CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_centro">1104</td>
-<td class="cuerpo_tabla_izq">DE LA JANDA.</td>
+<td>Andalucía.</td>
+<td>Cádiz.</td>
+<td>1104</td>
+<td>DE LA JANDA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
-<td class="cuerpo_tabla_centro">1105</td>
-<td class="cuerpo_tabla_izq">CAMPO DE GIBRALTAR.</td>
+<td>Andalucía.</td>
+<td>Cádiz.</td>
+<td>1105</td>
+<td>CAMPO DE GIBRALTAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_centro">2101</td>
-<td class="cuerpo_tabla_izq">SIERRA.</td>
+<td>Andalucía.</td>
+<td>Huelva.</td>
+<td>2101</td>
+<td>SIERRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_centro">2103</td>
-<td class="cuerpo_tabla_izq">ANDEVALO ORIENTAL.</td>
+<td>Andalucía.</td>
+<td>Huelva.</td>
+<td>2103</td>
+<td>ANDEVALO ORIENTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_centro">2303</td>
-<td class="cuerpo_tabla_izq">SIERRA DE SEGURA.</td>
+<td>Andalucía.</td>
+<td>Jaén.</td>
+<td>2303</td>
+<td>SIERRA DE SEGURA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Andalucía.</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_centro">2902</td>
-<td class="cuerpo_tabla_izq">SERRANÍA DE RONDA.</td>
+<td>Andalucía.</td>
+<td>Málaga.</td>
+<td>2902</td>
+<td>SERRANÍA DE RONDA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aragón.</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_centro">2201</td>
-<td class="cuerpo_tabla_izq">JACETANIA.</td>
+<td>Aragón.</td>
+<td>Huesca.</td>
+<td>2201</td>
+<td>JACETANIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aragón.</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_centro">2202</td>
-<td class="cuerpo_tabla_izq">SOBRARBE.</td>
+<td>Aragón.</td>
+<td>Huesca.</td>
+<td>2202</td>
+<td>SOBRARBE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aragón.</td>
-<td class="cuerpo_tabla_izq">Huesca.</td>
-<td class="cuerpo_tabla_centro">2203</td>
-<td class="cuerpo_tabla_izq">RIBARGORZA.</td>
+<td>Aragón.</td>
+<td>Huesca.</td>
+<td>2203</td>
+<td>RIBARGORZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3301</td>
-<td class="cuerpo_tabla_izq">VEGADEO.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3301</td>
+<td>VEGADEO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3302</td>
-<td class="cuerpo_tabla_izq">LUARCA.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3302</td>
+<td>LUARCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3303</td>
-<td class="cuerpo_tabla_izq">CANGAS DE NARCEA.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3303</td>
+<td>CANGAS DE NARCEA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3304</td>
-<td class="cuerpo_tabla_izq">GRADO.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3304</td>
+<td>GRADO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3305</td>
-<td class="cuerpo_tabla_izq">BELMONTE DE MIRANDA.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3305</td>
+<td>BELMONTE DE MIRANDA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3306</td>
-<td class="cuerpo_tabla_izq">GIJÓN.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3306</td>
+<td>GIJÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3307</td>
-<td class="cuerpo_tabla_izq">OVIEDO.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3307</td>
+<td>OVIEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3308</td>
-<td class="cuerpo_tabla_izq">MIERES.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3308</td>
+<td>MIERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3309</td>
-<td class="cuerpo_tabla_izq">LLANES.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3309</td>
+<td>LLANES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principado de Asturias.</td>
-<td class="cuerpo_tabla_izq">Asturias.</td>
-<td class="cuerpo_tabla_centro">3310</td>
-<td class="cuerpo_tabla_izq">CANGAS DE ONÍS.</td>
+<td>Principado de Asturias.</td>
+<td>Asturias.</td>
+<td>3310</td>
+<td>CANGAS DE ONÍS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">3911</td>
-<td class="cuerpo_tabla_izq">COSTERA.</td>
+<td>Cantabria.</td>
+<td>Cantabria.</td>
+<td>3911</td>
+<td>COSTERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">3912</td>
-<td class="cuerpo_tabla_izq">SUBCOSTERA.</td>
+<td>Cantabria.</td>
+<td>Cantabria.</td>
+<td>3912</td>
+<td>SUBCOSTERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">3913</td>
-<td class="cuerpo_tabla_izq">LIÉBANA-TUDANCA-CABUÉRNIGA.</td>
+<td>Cantabria.</td>
+<td>Cantabria.</td>
+<td>3913</td>
+<td>LIÉBANA-TUDANCA-CABUÉRNIGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">3914</td>
-<td class="cuerpo_tabla_izq">PAS-IGUÑA.</td>
+<td>Cantabria.</td>
+<td>Cantabria.</td>
+<td>3914</td>
+<td>PAS-IGUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">3915</td>
-<td class="cuerpo_tabla_izq">ASÓN.</td>
+<td>Cantabria.</td>
+<td>Cantabria.</td>
+<td>3915</td>
+<td>ASÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_izq">Cantabria.</td>
-<td class="cuerpo_tabla_centro">3916</td>
-<td class="cuerpo_tabla_izq">REINOSA.</td>
+<td>Cantabria.</td>
+<td>Cantabria.</td>
+<td>3916</td>
+<td>REINOSA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla-La Mancha.</td>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_centro">1602</td>
-<td class="cuerpo_tabla_izq">SERRANÍA ALTA.</td>
+<td>Castilla-La Mancha.</td>
+<td>Cuenca.</td>
+<td>1602</td>
+<td>SERRANÍA ALTA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla-La Mancha.</td>
-<td class="cuerpo_tabla_izq">Cuenca.</td>
-<td class="cuerpo_tabla_centro">1603</td>
-<td class="cuerpo_tabla_izq">SERRANÍA MEDIA.</td>
+<td>Castilla-La Mancha.</td>
+<td>Cuenca.</td>
+<td>1603</td>
+<td>SERRANÍA MEDIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_centro">503</td>
-<td class="cuerpo_tabla_izq">BARCO ÁVILA-PIEDRAHITA.</td>
+<td>Castilla y León.</td>
+<td>Ávila.</td>
+<td>503</td>
+<td>BARCO ÁVILA-PIEDRAHITA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_centro">504</td>
-<td class="cuerpo_tabla_izq">GREDOS.</td>
+<td>Castilla y León.</td>
+<td>Ávila.</td>
+<td>504</td>
+<td>GREDOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_centro">506</td>
-<td class="cuerpo_tabla_izq">VALLE DEL TIETAR.</td>
+<td>Castilla y León.</td>
+<td>Ávila.</td>
+<td>506</td>
+<td>VALLE DEL TIETAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">901</td>
-<td class="cuerpo_tabla_izq">MERINDADES.</td>
+<td>Castilla y León.</td>
+<td>Burgos.</td>
+<td>901</td>
+<td>MERINDADES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">903</td>
-<td class="cuerpo_tabla_izq">DEMANDA.</td>
+<td>Castilla y León.</td>
+<td>Burgos.</td>
+<td>903</td>
+<td>DEMANDA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">907</td>
-<td class="cuerpo_tabla_izq">PÁRAMOS.</td>
+<td>Castilla y León.</td>
+<td>Burgos.</td>
+<td>907</td>
+<td>PÁRAMOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">*</td>
-<td class="cuerpo_tabla_izq">CONDADO DE TREVIÑO.</td>
+<td>Castilla y León.</td>
+<td>Burgos.</td>
+<td>*</td>
+<td>CONDADO DE TREVIÑO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">*</td>
-<td class="cuerpo_tabla_izq">LA PUEBLA DE ARGANZÓN</td>
+<td>Castilla y León.</td>
+<td>Burgos.</td>
+<td>*</td>
+<td>LA PUEBLA DE ARGANZÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_centro">2401</td>
-<td class="cuerpo_tabla_izq">BIERZO.</td>
+<td>Castilla y León.</td>
+<td>León.</td>
+<td>2401</td>
+<td>BIERZO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_centro">2402</td>
-<td class="cuerpo_tabla_izq">LA MONTAÑA DE LUNA.</td>
+<td>Castilla y León.</td>
+<td>León.</td>
+<td>2402</td>
+<td>LA MONTAÑA DE LUNA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_centro">2403</td>
-<td class="cuerpo_tabla_izq">LA MONTAÑA DE RIAÑO.</td>
+<td>Castilla y León.</td>
+<td>León.</td>
+<td>2403</td>
+<td>LA MONTAÑA DE RIAÑO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">León.</td>
-<td class="cuerpo_tabla_centro">2404</td>
-<td class="cuerpo_tabla_izq">LA CABRERA.</td>
+<td>Castilla y León.</td>
+<td>León.</td>
+<td>2404</td>
+<td>LA CABRERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_centro">3405</td>
-<td class="cuerpo_tabla_izq">GUARDO.</td>
+<td>Castilla y León.</td>
+<td>Palencia.</td>
+<td>3405</td>
+<td>GUARDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_centro">3406</td>
-<td class="cuerpo_tabla_izq">CERVERA.</td>
+<td>Castilla y León.</td>
+<td>Palencia.</td>
+<td>3406</td>
+<td>CERVERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Palencia.</td>
-<td class="cuerpo_tabla_centro">3407</td>
-<td class="cuerpo_tabla_izq">AGUILAR.</td>
+<td>Castilla y León.</td>
+<td>Palencia.</td>
+<td>3407</td>
+<td>AGUILAR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Salamanca.</td>
-<td class="cuerpo_tabla_centro">3707</td>
-<td class="cuerpo_tabla_izq">CIUDAD RODRIGO.</td>
+<td>Castilla y León.</td>
+<td>Salamanca.</td>
+<td>3707</td>
+<td>CIUDAD RODRIGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Salamanca.</td>
-<td class="cuerpo_tabla_centro">3708</td>
-<td class="cuerpo_tabla_izq">LA SIERRA.</td>
+<td>Castilla y León.</td>
+<td>Salamanca.</td>
+<td>3708</td>
+<td>LA SIERRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Soria.</td>
-<td class="cuerpo_tabla_centro">4201</td>
-<td class="cuerpo_tabla_izq">PINARES.</td>
+<td>Castilla y León.</td>
+<td>Soria.</td>
+<td>4201</td>
+<td>PINARES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Castilla y León.</td>
-<td class="cuerpo_tabla_izq">Zamora.</td>
-<td class="cuerpo_tabla_centro">4901</td>
-<td class="cuerpo_tabla_izq">SANABRIA.</td>
+<td>Castilla y León.</td>
+<td>Zamora.</td>
+<td>4901</td>
+<td>SANABRIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_centro">801</td>
-<td class="cuerpo_tabla_izq">BERGADÀ.</td>
+<td>Cataluña.</td>
+<td>Barcelona.</td>
+<td>801</td>
+<td>BERGADÀ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_centro">803</td>
-<td class="cuerpo_tabla_izq">OSONA.</td>
+<td>Cataluña.</td>
+<td>Barcelona.</td>
+<td>803</td>
+<td>OSONA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_centro">804</td>
-<td class="cuerpo_tabla_izq">MOIANÈS.</td>
+<td>Cataluña.</td>
+<td>Barcelona.</td>
+<td>804</td>
+<td>MOIANÈS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_centro">808</td>
-<td class="cuerpo_tabla_izq">VALLÈS ORIENTAL.</td>
+<td>Cataluña.</td>
+<td>Barcelona.</td>
+<td>808</td>
+<td>VALLÈS ORIENTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_centro">1701</td>
-<td class="cuerpo_tabla_izq">LA CERDANYA.</td>
+<td>Cataluña.</td>
+<td>Girona.</td>
+<td>1701</td>
+<td>LA CERDANYA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_centro">1702</td>
-<td class="cuerpo_tabla_izq">RIPOLLÈS.</td>
+<td>Cataluña.</td>
+<td>Girona.</td>
+<td>1702</td>
+<td>RIPOLLÈS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_centro">1703</td>
-<td class="cuerpo_tabla_izq">GARROTXA.</td>
+<td>Cataluña.</td>
+<td>Girona.</td>
+<td>1703</td>
+<td>GARROTXA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_centro">1704</td>
-<td class="cuerpo_tabla_izq">ALT EMPORDÀ.</td>
+<td>Cataluña.</td>
+<td>Girona.</td>
+<td>1704</td>
+<td>ALT EMPORDÀ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_centro">1706</td>
-<td class="cuerpo_tabla_izq">GIRONÈS.</td>
+<td>Cataluña.</td>
+<td>Girona.</td>
+<td>1706</td>
+<td>GIRONÈS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Girona.</td>
-<td class="cuerpo_tabla_centro">1707</td>
-<td class="cuerpo_tabla_izq">LA SELVA.</td>
+<td>Cataluña.</td>
+<td>Girona.</td>
+<td>1707</td>
+<td>LA SELVA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_centro">2501</td>
-<td class="cuerpo_tabla_izq">VALL D'ARAN.</td>
+<td>Cataluña.</td>
+<td>Lleida.</td>
+<td>2501</td>
+<td>VALL D'ARAN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_centro">2502</td>
-<td class="cuerpo_tabla_izq">PALLARS-RIBAGORÇA.</td>
+<td>Cataluña.</td>
+<td>Lleida.</td>
+<td>2502</td>
+<td>PALLARS-RIBAGORÇA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_centro">2503</td>
-<td class="cuerpo_tabla_izq">ALT URGELL.</td>
+<td>Cataluña.</td>
+<td>Lleida.</td>
+<td>2503</td>
+<td>ALT URGELL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_centro">2504</td>
-<td class="cuerpo_tabla_izq">CONCA.</td>
+<td>Cataluña.</td>
+<td>Lleida.</td>
+<td>2504</td>
+<td>CONCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cataluña.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
-<td class="cuerpo_tabla_centro">2505</td>
-<td class="cuerpo_tabla_izq">SOLSONÈS.</td>
+<td>Cataluña.</td>
+<td>Lleida.</td>
+<td>2505</td>
+<td>SOLSONÈS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_centro">1005</td>
-<td class="cuerpo_tabla_izq">LOGROSAN.</td>
+<td>Extremadura.</td>
+<td>Cáceres.</td>
+<td>1005</td>
+<td>LOGROSAN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_centro">1007</td>
-<td class="cuerpo_tabla_izq">JARAIZ DE LA VERA.</td>
+<td>Extremadura.</td>
+<td>Cáceres.</td>
+<td>1007</td>
+<td>JARAIZ DE LA VERA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_centro">1008</td>
-<td class="cuerpo_tabla_izq">PLASENCIA.</td>
+<td>Extremadura.</td>
+<td>Cáceres.</td>
+<td>1008</td>
+<td>PLASENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_centro">1009</td>
-<td class="cuerpo_tabla_izq">HERVÁS.</td>
+<td>Extremadura.</td>
+<td>Cáceres.</td>
+<td>1009</td>
+<td>HERVÁS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Extremadura.</td>
-<td class="cuerpo_tabla_izq">Cáceres.</td>
-<td class="cuerpo_tabla_centro">1010</td>
-<td class="cuerpo_tabla_izq">CORIA.</td>
+<td>Extremadura.</td>
+<td>Cáceres.</td>
+<td>1010</td>
+<td>CORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_centro">1501</td>
-<td class="cuerpo_tabla_izq">SEPTENTRIONAL.</td>
+<td>Galicia.</td>
+<td>A Coruña.</td>
+<td>1501</td>
+<td>SEPTENTRIONAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_centro">1502</td>
-<td class="cuerpo_tabla_izq">OCCIDENTAL.</td>
+<td>Galicia.</td>
+<td>A Coruña.</td>
+<td>1502</td>
+<td>OCCIDENTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
-<td class="cuerpo_tabla_centro">1503</td>
-<td class="cuerpo_tabla_izq">INTERIOR.</td>
+<td>Galicia.</td>
+<td>A Coruña.</td>
+<td>1503</td>
+<td>INTERIOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_centro">2701</td>
-<td class="cuerpo_tabla_izq">COSTA.</td>
+<td>Galicia.</td>
+<td>Lugo.</td>
+<td>2701</td>
+<td>COSTA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_centro">2702</td>
-<td class="cuerpo_tabla_izq">TERRA CHA.</td>
+<td>Galicia.</td>
+<td>Lugo.</td>
+<td>2702</td>
+<td>TERRA CHA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_centro">2703</td>
-<td class="cuerpo_tabla_izq">CENTRAL.</td>
+<td>Galicia.</td>
+<td>Lugo.</td>
+<td>2703</td>
+<td>CENTRAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_centro">2704</td>
-<td class="cuerpo_tabla_izq">MONTAÑA.</td>
+<td>Galicia.</td>
+<td>Lugo.</td>
+<td>2704</td>
+<td>MONTAÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Lugo.</td>
-<td class="cuerpo_tabla_centro">2705</td>
-<td class="cuerpo_tabla_izq">SUR.</td>
+<td>Galicia.</td>
+<td>Lugo.</td>
+<td>2705</td>
+<td>SUR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_centro">3201</td>
-<td class="cuerpo_tabla_izq">ORENSE.</td>
+<td>Galicia.</td>
+<td>Ourense.</td>
+<td>3201</td>
+<td>ORENSE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_centro">3202</td>
-<td class="cuerpo_tabla_izq">EL BARCO DE VALDEORRAS.</td>
+<td>Galicia.</td>
+<td>Ourense.</td>
+<td>3202</td>
+<td>EL BARCO DE VALDEORRAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Ourense.</td>
-<td class="cuerpo_tabla_centro">3203</td>
-<td class="cuerpo_tabla_izq">VERIN.</td>
+<td>Galicia.</td>
+<td>Ourense.</td>
+<td>3203</td>
+<td>VERIN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_centro">3601</td>
-<td class="cuerpo_tabla_izq">MONTAÑA.</td>
+<td>Galicia.</td>
+<td>Pontevedra.</td>
+<td>3601</td>
+<td>MONTAÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_centro">3602</td>
-<td class="cuerpo_tabla_izq">LITORAL.</td>
+<td>Galicia.</td>
+<td>Pontevedra.</td>
+<td>3602</td>
+<td>LITORAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_centro">3603</td>
-<td class="cuerpo_tabla_izq">INTERIOR.</td>
+<td>Galicia.</td>
+<td>Pontevedra.</td>
+<td>3603</td>
+<td>INTERIOR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Galicia.</td>
-<td class="cuerpo_tabla_izq">Pontevedra.</td>
-<td class="cuerpo_tabla_centro">3604</td>
-<td class="cuerpo_tabla_izq">MIÑO.</td>
+<td>Galicia.</td>
+<td>Pontevedra.</td>
+<td>3604</td>
+<td>MIÑO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
-<td class="cuerpo_tabla_izq">Navarra.</td>
-<td class="cuerpo_tabla_centro">3101</td>
-<td class="cuerpo_tabla_izq">NORD OCCIDENTAL.</td>
+<td>Foral de Navarra.</td>
+<td>Navarra.</td>
+<td>3101</td>
+<td>NORD OCCIDENTAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
-<td class="cuerpo_tabla_izq">Navarra.</td>
-<td class="cuerpo_tabla_centro">3102</td>
-<td class="cuerpo_tabla_izq">PIRINEOS.</td>
+<td>Foral de Navarra.</td>
+<td>Navarra.</td>
+<td>3102</td>
+<td>PIRINEOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
-<td class="cuerpo_tabla_izq">Navarra.</td>
-<td class="cuerpo_tabla_centro">3103</td>
-<td class="cuerpo_tabla_izq">CUENCA PAMPLONA.</td>
+<td>Foral de Navarra.</td>
+<td>Navarra.</td>
+<td>3103</td>
+<td>CUENCA PAMPLONA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Foral de Navarra.</td>
-<td class="cuerpo_tabla_izq">Navarra.</td>
-<td class="cuerpo_tabla_centro">3104</td>
-<td class="cuerpo_tabla_izq">TIERRA ESTELLA.</td>
+<td>Foral de Navarra.</td>
+<td>Navarra.</td>
+<td>3104</td>
+<td>TIERRA ESTELLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
-<td class="cuerpo_tabla_centro">101</td>
-<td class="cuerpo_tabla_izq">CANTÁBRICA.</td>
+<td>País Vasco.</td>
+<td>Álava.</td>
+<td>101</td>
+<td>CANTÁBRICA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
-<td class="cuerpo_tabla_centro">102</td>
-<td class="cuerpo_tabla_izq">ESTRIBACIONES GORBEA.</td>
+<td>País Vasco.</td>
+<td>Álava.</td>
+<td>102</td>
+<td>ESTRIBACIONES GORBEA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
-<td class="cuerpo_tabla_centro">103</td>
-<td class="cuerpo_tabla_izq">VALLES ALAVESES.</td>
+<td>País Vasco.</td>
+<td>Álava.</td>
+<td>103</td>
+<td>VALLES ALAVESES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
-<td class="cuerpo_tabla_centro">104</td>
-<td class="cuerpo_tabla_izq">LLANADA ALAVESA.</td>
+<td>País Vasco.</td>
+<td>Álava.</td>
+<td>104</td>
+<td>LLANADA ALAVESA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
-<td class="cuerpo_tabla_centro">105</td>
-<td class="cuerpo_tabla_izq">MONTAÑA ALAVESA.</td>
+<td>País Vasco.</td>
+<td>Álava.</td>
+<td>105</td>
+<td>MONTAÑA ALAVESA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Guipúzcoa.</td>
-<td class="cuerpo_tabla_centro">2001</td>
-<td class="cuerpo_tabla_izq">GUIPÚZCOA.</td>
+<td>País Vasco.</td>
+<td>Guipúzcoa.</td>
+<td>2001</td>
+<td>GUIPÚZCOA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">País Vasco.</td>
-<td class="cuerpo_tabla_izq">Vizcaya.</td>
-<td class="cuerpo_tabla_centro">4801</td>
-<td class="cuerpo_tabla_izq">VIZCAYA.</td>
+<td>País Vasco.</td>
+<td>Vizcaya.</td>
+<td>4801</td>
+<td>VIZCAYA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Rioja.</td>
-<td class="cuerpo_tabla_izq">La Rioja.</td>
-<td class="cuerpo_tabla_centro">2602</td>
-<td class="cuerpo_tabla_izq">SIERRA RIOJA ALTA.</td>
+<td>La Rioja.</td>
+<td>La Rioja.</td>
+<td>2602</td>
+<td>SIERRA RIOJA ALTA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Rioja.</td>
-<td class="cuerpo_tabla_izq">La Rioja.</td>
-<td class="cuerpo_tabla_centro">2604</td>
-<td class="cuerpo_tabla_izq">SIERRA RIOJA MEDIA.</td>
+<td>La Rioja.</td>
+<td>La Rioja.</td>
+<td>2604</td>
+<td>SIERRA RIOJA MEDIA.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">* No se incluye comarca completa, sólo municipio.</p>
+<p>* No se incluye comarca completa, sólo municipio.</p>
 </td>
 </tr>
 </tfoot>
@@ -9311,162 +8312,153 @@ Para la determinación de la superficie computable por cada una de las categorí
 
 ## ANEXO XIX — Asignación financiera total de las ayudas asociadas agrícolas (en euros)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de Ayuda</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th colspan="2">Tipo de Ayuda</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Ayuda asociada a la producción sostenible de proteínas de origen vegetal.</td>
-<td class="cuerpo_tabla_izq">Ayuda a la producción de legumbres.</td>
-<td class="cuerpo_tabla_coma">6.727.658</td>
-<td class="cuerpo_tabla_coma">6.727.658</td>
-<td class="cuerpo_tabla_coma">6.727.658</td>
-<td class="cuerpo_tabla_coma">6.727.658</td>
-<td class="cuerpo_tabla_coma">6.727.658</td>
+<td rowspan="5">Ayuda asociada a la producción sostenible de proteínas de origen vegetal.</td>
+<td>Ayuda a la producción de legumbres.</td>
+<td>6.727.658</td>
+<td>6.727.658</td>
+<td>6.727.658</td>
+<td>6.727.658</td>
+<td>6.727.658</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda a la producción del resto de leguminosas.</td>
-<td class="cuerpo_tabla_coma">40.794.452</td>
-<td class="cuerpo_tabla_coma">40.794.452</td>
-<td class="cuerpo_tabla_coma">40.794.452</td>
-<td class="cuerpo_tabla_coma">40.794.452</td>
-<td class="cuerpo_tabla_coma">40.794.452</td>
+<td>Ayuda a la producción del resto de leguminosas.</td>
+<td>40.794.452</td>
+<td>40.794.452</td>
+<td>40.794.452</td>
+<td>40.794.452</td>
+<td>40.794.452</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda a la producción de semillas certificadas de las legumbres.</td>
-<td class="cuerpo_tabla_coma">507.638</td>
-<td class="cuerpo_tabla_coma">507.638</td>
-<td class="cuerpo_tabla_coma">507.638</td>
-<td class="cuerpo_tabla_coma">507.638</td>
-<td class="cuerpo_tabla_coma">507.638</td>
+<td>Ayuda a la producción de semillas certificadas de las legumbres.</td>
+<td>507.638</td>
+<td>507.638</td>
+<td>507.638</td>
+<td>507.638</td>
+<td>507.638</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda a la producción de semillas certificadas del resto de leguminosas.</td>
-<td class="cuerpo_tabla_coma">3.222.340</td>
-<td class="cuerpo_tabla_coma">3.222.340</td>
-<td class="cuerpo_tabla_coma">3.222.340</td>
-<td class="cuerpo_tabla_coma">3.222.340</td>
-<td class="cuerpo_tabla_coma">3.222.340</td>
+<td>Ayuda a la producción de semillas certificadas del resto de leguminosas.</td>
+<td>3.222.340</td>
+<td>3.222.340</td>
+<td>3.222.340</td>
+<td>3.222.340</td>
+<td>3.222.340</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">51.252.088</td>
-<td class="cuerpo_tabla_coma">51.252.088</td>
-<td class="cuerpo_tabla_coma">51.252.088</td>
-<td class="cuerpo_tabla_coma">51.252.088</td>
-<td class="cuerpo_tabla_coma">51.252.088</td>
+<td>Total.</td>
+<td>51.252.088</td>
+<td>51.252.088</td>
+<td>51.252.088</td>
+<td>51.252.088</td>
+<td>51.252.088</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda asociada a la producción sostenible de arroz.</td>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">14.200.000</td>
-<td class="cuerpo_tabla_coma">14.200.000</td>
-<td class="cuerpo_tabla_coma">14.200.000</td>
-<td class="cuerpo_tabla_coma">14.200.000</td>
-<td class="cuerpo_tabla_coma">14.200.000</td>
+<td>Ayuda asociada a la producción sostenible de arroz.</td>
+<td>Total.</td>
+<td>14.200.000</td>
+<td>14.200.000</td>
+<td>14.200.000</td>
+<td>14.200.000</td>
+<td>14.200.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Ayuda asociada a la producción sostenible de remolacha azucarera.</td>
-<td class="cuerpo_tabla_izq">Zona de producción de remolacha azucarera de siembra primaveral.</td>
-<td class="cuerpo_tabla_coma">14.350.000</td>
-<td class="cuerpo_tabla_coma">14.350.000</td>
-<td class="cuerpo_tabla_coma">14.350.000</td>
-<td class="cuerpo_tabla_coma">14.350.000</td>
-<td class="cuerpo_tabla_coma">14.350.000</td>
+<td rowspan="3">Ayuda asociada a la producción sostenible de remolacha azucarera.</td>
+<td>Zona de producción de remolacha azucarera de siembra primaveral.</td>
+<td>14.350.000</td>
+<td>14.350.000</td>
+<td>14.350.000</td>
+<td>14.350.000</td>
+<td>14.350.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de producción de remolacha azucarera de siembra otoñal.</td>
-<td class="cuerpo_tabla_coma">2.650.000</td>
-<td class="cuerpo_tabla_coma">2.650.000</td>
-<td class="cuerpo_tabla_coma">2.650.000</td>
-<td class="cuerpo_tabla_coma">2.650.000</td>
-<td class="cuerpo_tabla_coma">2.650.000</td>
+<td>Zona de producción de remolacha azucarera de siembra otoñal.</td>
+<td>2.650.000</td>
+<td>2.650.000</td>
+<td>2.650.000</td>
+<td>2.650.000</td>
+<td>2.650.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">17.000.000</td>
-<td class="cuerpo_tabla_coma">17.000.000</td>
-<td class="cuerpo_tabla_coma">17.000.000</td>
-<td class="cuerpo_tabla_coma">17.000.000</td>
-<td class="cuerpo_tabla_coma">17.000.000</td>
+<td>Total.</td>
+<td>17.000.000</td>
+<td>17.000.000</td>
+<td>17.000.000</td>
+<td>17.000.000</td>
+<td>17.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda asociada a la producción sostenible de tomate para transformación.</td>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">9.300.000</td>
-<td class="cuerpo_tabla_coma">9.300.000</td>
-<td class="cuerpo_tabla_coma">9.300.000</td>
-<td class="cuerpo_tabla_coma">9.300.000</td>
-<td class="cuerpo_tabla_coma">9.300.000</td>
+<td>Ayuda asociada a la producción sostenible de tomate para transformación.</td>
+<td>Total.</td>
+<td>9.300.000</td>
+<td>9.300.000</td>
+<td>9.300.000</td>
+<td>9.300.000</td>
+<td>9.300.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación.</td>
-<td class="cuerpo_tabla_izq">Península.</td>
-<td class="cuerpo_tabla_coma">13.351.454</td>
-<td class="cuerpo_tabla_coma">13.351.454</td>
-<td class="cuerpo_tabla_coma">12.465.900,85</td>
-<td class="cuerpo_tabla_coma">12.465.900,85</td>
-<td class="cuerpo_tabla_coma">12.465.900,85</td>
+<td rowspan="3">Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación.</td>
+<td>Península.</td>
+<td>13.351.454</td>
+<td>13.351.454</td>
+<td>12.465.900,85</td>
+<td>12.465.900,85</td>
+<td>12.465.900,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Baleares.</td>
-<td class="cuerpo_tabla_coma">648.546</td>
-<td class="cuerpo_tabla_coma">648.546</td>
-<td class="cuerpo_tabla_coma">1.534.099,15</td>
-<td class="cuerpo_tabla_coma">1.534.099,15</td>
-<td class="cuerpo_tabla_coma">1.534.099,15</td>
+<td>Baleares.</td>
+<td>648.546</td>
+<td>648.546</td>
+<td>1.534.099,15</td>
+<td>1.534.099,15</td>
+<td>1.534.099,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">14.000.000</td>
-<td class="cuerpo_tabla_coma">14.000.000</td>
-<td class="cuerpo_tabla_coma">14.000.000</td>
-<td class="cuerpo_tabla_coma">14.000.000</td>
-<td class="cuerpo_tabla_coma">14.000.000</td>
+<td>Total.</td>
+<td>14.000.000</td>
+<td>14.000.000</td>
+<td>14.000.000</td>
+<td>14.000.000</td>
+<td>14.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda Asociada a la Producción Tradicional de Uva Pasa.</td>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">680.000</td>
-<td class="cuerpo_tabla_coma">680.000</td>
-<td class="cuerpo_tabla_coma">680.000</td>
-<td class="cuerpo_tabla_coma">680.000</td>
-<td class="cuerpo_tabla_coma">680.000</td>
+<td>Ayuda Asociada a la Producción Tradicional de Uva Pasa.</td>
+<td>Total.</td>
+<td>680.000</td>
+<td>680.000</td>
+<td>680.000</td>
+<td>680.000</td>
+<td>680.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pago Específico al cultivo del algodón.</td>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">59.690.640</td>
-<td class="cuerpo_tabla_coma">59.690.640</td>
-<td class="cuerpo_tabla_coma">59.690.640</td>
-<td class="cuerpo_tabla_coma">59.690.640</td>
-<td class="cuerpo_tabla_coma">59.690.640</td>
+<td>Pago Específico al cultivo del algodón.</td>
+<td>Total.</td>
+<td>59.690.640</td>
+<td>59.690.640</td>
+<td>59.690.640</td>
+<td>59.690.640</td>
+<td>59.690.640</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ayuda asociada al olivar con dificultades específicas y alto valor medioambiental.</td>
-<td class="cuerpo_tabla_izq">Total.</td>
-<td class="cuerpo_tabla_coma">27.594.584,30</td>
-<td class="cuerpo_tabla_coma">27.594.584,30</td>
-<td class="cuerpo_tabla_coma">27.594.584,30</td>
-<td class="cuerpo_tabla_coma">27.594.584,30</td>
-<td class="cuerpo_tabla_coma">27.594.584,30</td>
+<td>Ayuda asociada al olivar con dificultades específicas y alto valor medioambiental.</td>
+<td>Total.</td>
+<td>27.594.584,30</td>
+<td>27.594.584,30</td>
+<td>27.594.584,30</td>
+<td>27.594.584,30</td>
+<td>27.594.584,30</td>
 </tr>
 </tbody>
 </table>
@@ -9479,368 +8471,347 @@ Para la determinación de la superficie computable por cada una de las categorí
 
 ## ANEXO XX — Importes unitarios mínimos y máximos de las ayudas asociadas a agricultores (en euros por hectárea)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Tipo de Ayuda</th>
-<th class="cabeza_tabla" colspan="2">Concepto</th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th colspan="2">Tipo de Ayuda</th>
+<th colspan="2">Concepto</th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="16">Ayuda asociada a la producción sostenible de proteínas de origen vegetal.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda a la producción de legumbres.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
+<td rowspan="16">Ayuda asociada a la producción sostenible de proteínas de origen vegetal.</td>
+<td rowspan="4">Ayuda a la producción de legumbres.</td>
+<td colspan="2">Mínimo Peninsular.</td>
+<td>40,00</td>
+<td>40,00</td>
+<td>40,00</td>
+<td>40,00</td>
+<td>40,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
+<td colspan="2">Máximo Peninsular.</td>
+<td>120,00</td>
+<td>120,00</td>
+<td>120,00</td>
+<td>120,00</td>
+<td>120,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Baleares.</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
+<td colspan="2">Mínimo Baleares.</td>
+<td>46,40</td>
+<td>46,40</td>
+<td>46,40</td>
+<td>46,40</td>
+<td>46,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Baleares.</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
+<td colspan="2">Máximo Baleares.</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda a la producción del resto de leguminosas.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
+<td rowspan="4">Ayuda a la producción del resto de leguminosas.</td>
+<td colspan="2">Mínimo Peninsular.</td>
+<td>30,00</td>
+<td>30,00</td>
+<td>30,00</td>
+<td>30,00</td>
+<td>30,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
+<td colspan="2">Máximo Peninsular.</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Baleares.</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
+<td colspan="2">Mínimo Baleares.</td>
+<td>34,80</td>
+<td>34,80</td>
+<td>34,80</td>
+<td>34,80</td>
+<td>34,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Baleares.</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
+<td colspan="2">Máximo Baleares.</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Ayuda a la producción de semillas certificadas de las especies pertenecientes a la familia de leguminosas.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Legumbres.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
+<td rowspan="8">Ayuda a la producción de semillas certificadas de las especies pertenecientes a la familia de leguminosas.</td>
+<td rowspan="4">Legumbres.</td>
+<td>Mínimo Peninsular.</td>
+<td>40,00</td>
+<td>40,00</td>
+<td>40,00</td>
+<td>40,00</td>
+<td>40,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
+<td>Máximo Peninsular.</td>
+<td>120,00</td>
+<td>120,00</td>
+<td>120,00</td>
+<td>120,00</td>
+<td>120,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Baleares.</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
-<td class="cuerpo_tabla_coma">46,40</td>
+<td>Mínimo Baleares.</td>
+<td>46,40</td>
+<td>46,40</td>
+<td>46,40</td>
+<td>46,40</td>
+<td>46,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Baleares.</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
+<td>Máximo Baleares.</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Resto Leguminosas.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
+<td rowspan="4">Resto Leguminosas.</td>
+<td>Mínimo Peninsular.</td>
+<td>30,00</td>
+<td>30,00</td>
+<td>30,00</td>
+<td>30,00</td>
+<td>30,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_coma">120</td>
+<td>Máximo Peninsular.</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
+<td>120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Baleares.</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
-<td class="cuerpo_tabla_coma">34,80</td>
+<td>Mínimo Baleares.</td>
+<td>34,80</td>
+<td>34,80</td>
+<td>34,80</td>
+<td>34,80</td>
+<td>34,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Baleares.</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
-<td class="cuerpo_tabla_coma">139,20</td>
+<td>Máximo Baleares.</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
+<td>139,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="4">Ayuda asociada a la producción sostenible de arroz.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">128,91</td>
-<td class="cuerpo_tabla_coma">128,91</td>
-<td class="cuerpo_tabla_coma">128,91</td>
-<td class="cuerpo_tabla_coma">128,91</td>
-<td class="cuerpo_tabla_coma">128,91</td>
+<td colspan="2" rowspan="4">Ayuda asociada a la producción sostenible de arroz.</td>
+<td colspan="2">Mínimo Peninsular.</td>
+<td>128,91</td>
+<td>128,91</td>
+<td>128,91</td>
+<td>128,91</td>
+<td>128,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">237,47</td>
-<td class="cuerpo_tabla_coma">237,47</td>
-<td class="cuerpo_tabla_coma">237,47</td>
-<td class="cuerpo_tabla_coma">237,47</td>
-<td class="cuerpo_tabla_coma">237,47</td>
+<td colspan="2">Máximo Peninsular.</td>
+<td>237,47</td>
+<td>237,47</td>
+<td>237,47</td>
+<td>237,47</td>
+<td>237,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Baleares.</td>
-<td class="cuerpo_tabla_coma">149,54</td>
-<td class="cuerpo_tabla_coma">149,54</td>
-<td class="cuerpo_tabla_coma">149,54</td>
-<td class="cuerpo_tabla_coma">149,54</td>
-<td class="cuerpo_tabla_coma">149,54</td>
+<td colspan="2">Mínimo Baleares.</td>
+<td>149,54</td>
+<td>149,54</td>
+<td>149,54</td>
+<td>149,54</td>
+<td>149,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Baleares.</td>
-<td class="cuerpo_tabla_coma">275,47</td>
-<td class="cuerpo_tabla_coma">275,47</td>
-<td class="cuerpo_tabla_coma">275,47</td>
-<td class="cuerpo_tabla_coma">275,47</td>
-<td class="cuerpo_tabla_coma">275,47</td>
+<td colspan="2">Máximo Baleares.</td>
+<td>275,47</td>
+<td>275,47</td>
+<td>275,47</td>
+<td>275,47</td>
+<td>275,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada a la producción sostenible de remolacha azucarera.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Zona de producción de siembra primaveral.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_coma">270</td>
+<td rowspan="4">Ayuda asociada a la producción sostenible de remolacha azucarera.</td>
+<td rowspan="2">Zona de producción de siembra primaveral.</td>
+<td colspan="2">Mínimo.</td>
+<td>270</td>
+<td>270</td>
+<td>270</td>
+<td>270</td>
+<td>270</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
-<td class="cuerpo_tabla_coma">900,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
+<td colspan="2">Máximo.</td>
+<td>900,00</td>
+<td>900,00</td>
+<td>900,00</td>
+<td>900,00</td>
+<td>900,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Zona de producción de siembra otoñal.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_coma">195</td>
+<td rowspan="2">Zona de producción de siembra otoñal.</td>
+<td colspan="2">Mínimo.</td>
+<td>195</td>
+<td>195</td>
+<td>195</td>
+<td>195</td>
+<td>195</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
-<td class="cuerpo_tabla_coma">650,00</td>
-<td class="cuerpo_tabla_coma">650,00</td>
-<td class="cuerpo_tabla_coma">650,00</td>
-<td class="cuerpo_tabla_coma">650,00</td>
-<td class="cuerpo_tabla_coma">650,00</td>
+<td colspan="2">Máximo.</td>
+<td>650,00</td>
+<td>650,00</td>
+<td>650,00</td>
+<td>650,00</td>
+<td>650,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">Ayuda asociada a la producción sostenible de tomate para transformación.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
-<td class="cuerpo_tabla_coma">256,98</td>
-<td class="cuerpo_tabla_coma">256,98</td>
-<td class="cuerpo_tabla_coma">256,98</td>
-<td class="cuerpo_tabla_coma">256,98</td>
-<td class="cuerpo_tabla_coma">256,98</td>
+<td colspan="2" rowspan="2">Ayuda asociada a la producción sostenible de tomate para transformación.</td>
+<td colspan="2">Mínimo.</td>
+<td>256,98</td>
+<td>256,98</td>
+<td>256,98</td>
+<td>256,98</td>
+<td>256,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
-<td class="cuerpo_tabla_coma">314,09</td>
-<td class="cuerpo_tabla_coma">314,09</td>
-<td class="cuerpo_tabla_coma">314,09</td>
-<td class="cuerpo_tabla_coma">314,09</td>
-<td class="cuerpo_tabla_coma">314,09</td>
+<td colspan="2">Máximo.</td>
+<td>314,09</td>
+<td>314,09</td>
+<td>314,09</td>
+<td>314,09</td>
+<td>314,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="4">Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">58,12</td>
-<td class="cuerpo_tabla_coma">58,12</td>
-<td class="cuerpo_tabla_coma">56,41</td>
-<td class="cuerpo_tabla_coma">56,41</td>
-<td class="cuerpo_tabla_coma">56,41</td>
+<td colspan="2" rowspan="4">Ayuda Asociada a los productores de frutos secos en áreas con riesgo de desertificación.</td>
+<td colspan="2">Mínimo Peninsular.</td>
+<td>58,12</td>
+<td>58,12</td>
+<td>56,41</td>
+<td>56,41</td>
+<td>56,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">71,04</td>
-<td class="cuerpo_tabla_coma">71,04</td>
-<td class="cuerpo_tabla_coma">69,81</td>
-<td class="cuerpo_tabla_coma">69,81</td>
-<td class="cuerpo_tabla_coma">69,81</td>
+<td colspan="2">Máximo Peninsular.</td>
+<td>71,04</td>
+<td>71,04</td>
+<td>69,81</td>
+<td>69,81</td>
+<td>69,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">109,27</td>
-<td class="cuerpo_tabla_coma">109,27</td>
-<td class="cuerpo_tabla_coma">106,05</td>
-<td class="cuerpo_tabla_coma">106,05</td>
-<td class="cuerpo_tabla_coma">106,05</td>
+<td colspan="2">Mínimo Insular.</td>
+<td>109,27</td>
+<td>109,27</td>
+<td>106,05</td>
+<td>106,05</td>
+<td>106,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">133,55</td>
-<td class="cuerpo_tabla_coma">133,55</td>
-<td class="cuerpo_tabla_coma">131,24</td>
-<td class="cuerpo_tabla_coma">131,24</td>
-<td class="cuerpo_tabla_coma">131,24</td>
+<td colspan="2">Máximo Insular.</td>
+<td>133,55</td>
+<td>133,55</td>
+<td>131,24</td>
+<td>131,24</td>
+<td>131,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="2">Ayuda Asociada a la Producción Tradicional de Uva Pasa.</td>
-<td class="cuerpo_tabla_izq" colspan="2">Mínimo.</td>
-<td class="cuerpo_tabla_coma">686,87</td>
-<td class="cuerpo_tabla_coma">686,87</td>
-<td class="cuerpo_tabla_coma">872,32</td>
-<td class="cuerpo_tabla_coma">872,32</td>
-<td class="cuerpo_tabla_coma">872,32</td>
+<td colspan="2" rowspan="2">Ayuda Asociada a la Producción Tradicional de Uva Pasa.</td>
+<td colspan="2">Mínimo.</td>
+<td>686,87</td>
+<td>686,87</td>
+<td>872,32</td>
+<td>872,32</td>
+<td>872,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máximo.</td>
-<td class="cuerpo_tabla_coma">843,77</td>
-<td class="cuerpo_tabla_coma">843,77</td>
-<td class="cuerpo_tabla_coma">1.071,58</td>
-<td class="cuerpo_tabla_coma">1.071,58</td>
-<td class="cuerpo_tabla_coma">1.071,58</td>
+<td colspan="2">Máximo.</td>
+<td>843,77</td>
+<td>843,77</td>
+<td>1.071,58</td>
+<td>1.071,58</td>
+<td>1.071,58</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Ayuda Asociada al olivar con dificultades específicas y alto valor medioambiental.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular tramo 1.</td>
-<td class="cuerpo_tabla_coma">35,28</td>
-<td class="cuerpo_tabla_coma">35,28</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">35,28</td>
-<td class="cuerpo_tabla_coma">35,28</td>
-<td class="cuerpo_tabla_coma">35,28</td>
+<td rowspan="6">Ayuda Asociada al olivar con dificultades específicas y alto valor medioambiental.</td>
+<td>Mínimo Peninsular tramo 1.</td>
+<td>35,28</td>
+<td>35,28</td>
+<td> </td>
+<td>35,28</td>
+<td>35,28</td>
+<td>35,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular tramo 1.</td>
-<td class="cuerpo_tabla_coma">117,59</td>
-<td class="cuerpo_tabla_coma">117,59</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">117,59</td>
-<td class="cuerpo_tabla_coma">117,59</td>
-<td class="cuerpo_tabla_coma">117,59</td>
+<td>Máximo Peninsular tramo 1.</td>
+<td>117,59</td>
+<td>117,59</td>
+<td> </td>
+<td>117,59</td>
+<td>117,59</td>
+<td>117,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo tramo 2.</td>
-<td class="cuerpo_tabla_coma">17,64</td>
-<td class="cuerpo_tabla_coma">17,64</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">17,64</td>
-<td class="cuerpo_tabla_coma">17,64</td>
-<td class="cuerpo_tabla_coma">17,64</td>
+<td>Mínimo tramo 2.</td>
+<td>17,64</td>
+<td>17,64</td>
+<td> </td>
+<td>17,64</td>
+<td>17,64</td>
+<td>17,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo tramo 2.</td>
-<td class="cuerpo_tabla_coma">58,80</td>
-<td class="cuerpo_tabla_coma">58,80</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">58,80</td>
-<td class="cuerpo_tabla_coma">58,80</td>
-<td class="cuerpo_tabla_coma">58,80</td>
+<td>Máximo tramo 2.</td>
+<td>58,80</td>
+<td>58,80</td>
+<td> </td>
+<td>58,80</td>
+<td>58,80</td>
+<td>58,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">38,81</td>
-<td class="cuerpo_tabla_coma">38,81</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">38,81</td>
-<td class="cuerpo_tabla_coma">38,81</td>
-<td class="cuerpo_tabla_coma">38,81</td>
+<td>Mínimo Insular.</td>
+<td>38,81</td>
+<td>38,81</td>
+<td> </td>
+<td>38,81</td>
+<td>38,81</td>
+<td>38,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">129,35</td>
-<td class="cuerpo_tabla_coma">129,35</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">129,35</td>
-<td class="cuerpo_tabla_coma">129,35</td>
-<td class="cuerpo_tabla_coma">129,35</td>
+<td>Máximo Insular.</td>
+<td>129,35</td>
+<td>129,35</td>
+<td> </td>
+<td>129,35</td>
+<td>129,35</td>
+<td>129,35</td>
 </tr>
 </tbody>
 </table>
@@ -9861,354 +8832,345 @@ Para la determinación de la superficie computable por cada una de las categorí
 
 ## ANEXO XXII — Importes unitarios mínimos y máximos de las ayudas asociadas a ganaderos (€/animal elegible)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">2023</th>
-<th class="cabeza_tabla">2024</th>
-<th class="cabeza_tabla">2025</th>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
+<th> </th>
+<th> </th>
+<th>2023</th>
+<th>2024</th>
+<th>2025</th>
+<th>2026</th>
+<th>2027</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">Ayuda asociada para los ganaderos extensivos de vacuno de carne.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">67,36</td>
-<td class="cuerpo_tabla_coma">67,36</td>
-<td class="cuerpo_tabla_coma">67,36</td>
-<td class="cuerpo_tabla_coma">67,36</td>
-<td class="cuerpo_tabla_coma">67,36</td>
+<td rowspan="8">Ayuda asociada para los ganaderos extensivos de vacuno de carne.</td>
+<td>Mínimo Peninsular.</td>
+<td>67,36</td>
+<td>67,36</td>
+<td>67,36</td>
+<td>67,36</td>
+<td>67,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">304,38</td>
-<td class="cuerpo_tabla_coma">304,38</td>
-<td class="cuerpo_tabla_coma">304,38</td>
-<td class="cuerpo_tabla_coma">304,38</td>
-<td class="cuerpo_tabla_coma">304,38</td>
+<td>Máximo Peninsular.</td>
+<td>304,38</td>
+<td>304,38</td>
+<td>304,38</td>
+<td>304,38</td>
+<td>304,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular Raza Autóctona.</td>
-<td class="cuerpo_tabla_coma">74,10</td>
-<td class="cuerpo_tabla_coma">74,10</td>
-<td class="cuerpo_tabla_coma">74,10</td>
-<td class="cuerpo_tabla_coma">74,10</td>
-<td class="cuerpo_tabla_coma">74,10</td>
+<td>Mínimo Peninsular Raza Autóctona.</td>
+<td>74,10</td>
+<td>74,10</td>
+<td>74,10</td>
+<td>74,10</td>
+<td>74,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular Raza Autóctona.</td>
-<td class="cuerpo_tabla_coma">334,82</td>
-<td class="cuerpo_tabla_coma">334,82</td>
-<td class="cuerpo_tabla_coma">334,82</td>
-<td class="cuerpo_tabla_coma">334,82</td>
-<td class="cuerpo_tabla_coma">334,82</td>
+<td>Máximo Peninsular Raza Autóctona.</td>
+<td>334,82</td>
+<td>334,82</td>
+<td>334,82</td>
+<td>334,82</td>
+<td>334,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">76,41</td>
-<td class="cuerpo_tabla_coma">76,41</td>
-<td class="cuerpo_tabla_coma">76,41</td>
-<td class="cuerpo_tabla_coma">76,41</td>
-<td class="cuerpo_tabla_coma">76,41</td>
+<td>Mínimo Insular.</td>
+<td>76,41</td>
+<td>76,41</td>
+<td>76,41</td>
+<td>76,41</td>
+<td>76,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">456,57</td>
-<td class="cuerpo_tabla_coma">456,57</td>
-<td class="cuerpo_tabla_coma">456,57</td>
-<td class="cuerpo_tabla_coma">456,57</td>
-<td class="cuerpo_tabla_coma">456,57</td>
+<td>Máximo Insular.</td>
+<td>456,57</td>
+<td>456,57</td>
+<td>456,57</td>
+<td>456,57</td>
+<td>456,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular Raza Autóctona.</td>
-<td class="cuerpo_tabla_coma">84,05</td>
-<td class="cuerpo_tabla_coma">84,05</td>
-<td class="cuerpo_tabla_coma">84,05</td>
-<td class="cuerpo_tabla_coma">84,05</td>
-<td class="cuerpo_tabla_coma">84,05</td>
+<td>Mínimo Insular Raza Autóctona.</td>
+<td>84,05</td>
+<td>84,05</td>
+<td>84,05</td>
+<td>84,05</td>
+<td>84,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular Raza Autóctona.</td>
-<td class="cuerpo_tabla_coma">502,23</td>
-<td class="cuerpo_tabla_coma">502,23</td>
-<td class="cuerpo_tabla_coma">502,23</td>
-<td class="cuerpo_tabla_coma">502,23</td>
-<td class="cuerpo_tabla_coma">502,23</td>
+<td>Máximo Insular Raza Autóctona.</td>
+<td>502,23</td>
+<td>502,23</td>
+<td>502,23</td>
+<td>502,23</td>
+<td>502,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para el engorde de terneros en la explotación de nacimiento.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">21,17</td>
-<td class="cuerpo_tabla_coma">21,17</td>
-<td class="cuerpo_tabla_coma">21,17</td>
-<td class="cuerpo_tabla_coma">21,17</td>
-<td class="cuerpo_tabla_coma">21,17</td>
+<td rowspan="4">Ayuda asociada para el engorde de terneros en la explotación de nacimiento.</td>
+<td>Mínimo Peninsular.</td>
+<td>21,17</td>
+<td>21,17</td>
+<td>21,17</td>
+<td>21,17</td>
+<td>21,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">43,48</td>
-<td class="cuerpo_tabla_coma">43,48</td>
-<td class="cuerpo_tabla_coma">43,48</td>
-<td class="cuerpo_tabla_coma">43,48</td>
-<td class="cuerpo_tabla_coma">43,48</td>
+<td>Máximo Peninsular.</td>
+<td>43,48</td>
+<td>43,48</td>
+<td>43,48</td>
+<td>43,48</td>
+<td>43,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">28,38</td>
-<td class="cuerpo_tabla_coma">28,38</td>
-<td class="cuerpo_tabla_coma">28,38</td>
-<td class="cuerpo_tabla_coma">28,38</td>
-<td class="cuerpo_tabla_coma">28,38</td>
+<td>Mínimo Insular.</td>
+<td>28,38</td>
+<td>28,38</td>
+<td>28,38</td>
+<td>28,38</td>
+<td>28,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">113,25</td>
-<td class="cuerpo_tabla_coma">113,25</td>
-<td class="cuerpo_tabla_coma">113,25</td>
-<td class="cuerpo_tabla_coma">113,25</td>
-<td class="cuerpo_tabla_coma">113,25</td>
+<td>Máximo Insular.</td>
+<td>113,25</td>
+<td>113,25</td>
+<td>113,25</td>
+<td>113,25</td>
+<td>113,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Ayuda asociada para el engorde sostenible de terneros.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular (hasta 600 terneros).</td>
-<td class="cuerpo_tabla_coma">13,02</td>
-<td class="cuerpo_tabla_coma">13,02</td>
-<td class="cuerpo_tabla_coma">13,02</td>
-<td class="cuerpo_tabla_coma">13,02</td>
-<td class="cuerpo_tabla_coma">13,02</td>
+<td rowspan="6">Ayuda asociada para el engorde sostenible de terneros.</td>
+<td>Mínimo Peninsular (hasta 600 terneros).</td>
+<td>13,02</td>
+<td>13,02</td>
+<td>13,02</td>
+<td>13,02</td>
+<td>13,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular (hasta 600 terneros).</td>
-<td class="cuerpo_tabla_coma">76,09</td>
-<td class="cuerpo_tabla_coma">76,09</td>
-<td class="cuerpo_tabla_coma">76,09</td>
-<td class="cuerpo_tabla_coma">76,09</td>
-<td class="cuerpo_tabla_coma">76,09</td>
+<td>Máximo Peninsular (hasta 600 terneros).</td>
+<td>76,09</td>
+<td>76,09</td>
+<td>76,09</td>
+<td>76,09</td>
+<td>76,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular (601 a 1.417 terneros).</td>
-<td class="cuerpo_tabla_coma">6,51</td>
-<td class="cuerpo_tabla_coma">6,51</td>
-<td class="cuerpo_tabla_coma">6,51</td>
-<td class="cuerpo_tabla_coma">6,51</td>
-<td class="cuerpo_tabla_coma">6,51</td>
+<td>Mínimo Peninsular (601 a 1.417 terneros).</td>
+<td>6,51</td>
+<td>6,51</td>
+<td>6,51</td>
+<td>6,51</td>
+<td>6,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular (601 a 1.417 terneros).</td>
-<td class="cuerpo_tabla_coma">21,74</td>
-<td class="cuerpo_tabla_coma">21,74</td>
-<td class="cuerpo_tabla_coma">21,74</td>
-<td class="cuerpo_tabla_coma">21,74</td>
-<td class="cuerpo_tabla_coma">21,74</td>
+<td>Máximo Peninsular (601 a 1.417 terneros).</td>
+<td>21,74</td>
+<td>21,74</td>
+<td>21,74</td>
+<td>21,74</td>
+<td>21,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular (hasta 1.417 terneros).</td>
-<td class="cuerpo_tabla_coma">19,53</td>
-<td class="cuerpo_tabla_coma">19,53</td>
-<td class="cuerpo_tabla_coma">19,53</td>
-<td class="cuerpo_tabla_coma">19,53</td>
-<td class="cuerpo_tabla_coma">19,53</td>
+<td>Mínimo Insular (hasta 1.417 terneros).</td>
+<td>19,53</td>
+<td>19,53</td>
+<td>19,53</td>
+<td>19,53</td>
+<td>19,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular (hasta 1.147 teneros).</td>
-<td class="cuerpo_tabla_coma">114,14</td>
-<td class="cuerpo_tabla_coma">114,14</td>
-<td class="cuerpo_tabla_coma">114,14</td>
-<td class="cuerpo_tabla_coma">114,14</td>
-<td class="cuerpo_tabla_coma">114,14</td>
+<td>Máximo Insular (hasta 1.147 teneros).</td>
+<td>114,14</td>
+<td>114,14</td>
+<td>114,14</td>
+<td>114,14</td>
+<td>114,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">Ayuda asociada para la producción sostenible de leche de vaca.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular (hasta 150 vacas).</td>
-<td class="cuerpo_tabla_coma">153,00</td>
-<td class="cuerpo_tabla_coma">153,00</td>
-<td class="cuerpo_tabla_coma">153,00</td>
-<td class="cuerpo_tabla_coma">153,00</td>
-<td class="cuerpo_tabla_coma">153,00</td>
+<td rowspan="10">Ayuda asociada para la producción sostenible de leche de vaca.</td>
+<td>Mínimo Peninsular (hasta 150 vacas).</td>
+<td>153,00</td>
+<td>153,00</td>
+<td>153,00</td>
+<td>153,00</td>
+<td>153,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular (hasta 150).</td>
-<td class="cuerpo_tabla_coma">173,00</td>
-<td class="cuerpo_tabla_coma">173,00</td>
-<td class="cuerpo_tabla_coma">173,00</td>
-<td class="cuerpo_tabla_coma">173,00</td>
-<td class="cuerpo_tabla_coma">173,00</td>
+<td>Máximo Peninsular (hasta 150).</td>
+<td>173,00</td>
+<td>173,00</td>
+<td>173,00</td>
+<td>173,00</td>
+<td>173,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular (151 hasta 725 vacas).</td>
-<td class="cuerpo_tabla_coma">76,00</td>
-<td class="cuerpo_tabla_coma">76,00</td>
-<td class="cuerpo_tabla_coma">76,00</td>
-<td class="cuerpo_tabla_coma">76,00</td>
-<td class="cuerpo_tabla_coma">76,00</td>
+<td>Mínimo Peninsular (151 hasta 725 vacas).</td>
+<td>76,00</td>
+<td>76,00</td>
+<td>76,00</td>
+<td>76,00</td>
+<td>76,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular (151 hasta 725 vacas).</td>
-<td class="cuerpo_tabla_coma">86,50</td>
-<td class="cuerpo_tabla_coma">86,50</td>
-<td class="cuerpo_tabla_coma">86,50</td>
-<td class="cuerpo_tabla_coma">86,50</td>
-<td class="cuerpo_tabla_coma">86,50</td>
+<td>Máximo Peninsular (151 hasta 725 vacas).</td>
+<td>86,50</td>
+<td>86,50</td>
+<td>86,50</td>
+<td>86,50</td>
+<td>86,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular zonas de montaña (hasta 150 vacas).</td>
-<td class="cuerpo_tabla_coma">176,00</td>
-<td class="cuerpo_tabla_coma">176,00</td>
-<td class="cuerpo_tabla_coma">176,00</td>
-<td class="cuerpo_tabla_coma">176,00</td>
-<td class="cuerpo_tabla_coma">176,00</td>
+<td>Mínimo Peninsular zonas de montaña (hasta 150 vacas).</td>
+<td>176,00</td>
+<td>176,00</td>
+<td>176,00</td>
+<td>176,00</td>
+<td>176,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular zonas de montaña (hasta 150 vacas).</td>
-<td class="cuerpo_tabla_coma">198,95</td>
-<td class="cuerpo_tabla_coma">198,95</td>
-<td class="cuerpo_tabla_coma">198,95</td>
-<td class="cuerpo_tabla_coma">198,95</td>
-<td class="cuerpo_tabla_coma">198,95</td>
+<td>Máximo Peninsular zonas de montaña (hasta 150 vacas).</td>
+<td>198,95</td>
+<td>198,95</td>
+<td>198,95</td>
+<td>198,95</td>
+<td>198,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular zonas de montaña (151 hasta 725 vacas).</td>
-<td class="cuerpo_tabla_coma">88,00</td>
-<td class="cuerpo_tabla_coma">88,00</td>
-<td class="cuerpo_tabla_coma">88,00</td>
-<td class="cuerpo_tabla_coma">88,00</td>
-<td class="cuerpo_tabla_coma">88,00</td>
+<td>Mínimo Peninsular zonas de montaña (151 hasta 725 vacas).</td>
+<td>88,00</td>
+<td>88,00</td>
+<td>88,00</td>
+<td>88,00</td>
+<td>88,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular zonas de montaña (151 hasta 725 vacas).</td>
-<td class="cuerpo_tabla_coma">99,48</td>
-<td class="cuerpo_tabla_coma">99,48</td>
-<td class="cuerpo_tabla_coma">99,48</td>
-<td class="cuerpo_tabla_coma">99,48</td>
-<td class="cuerpo_tabla_coma">99,48</td>
+<td>Máximo Peninsular zonas de montaña (151 hasta 725 vacas).</td>
+<td>99,48</td>
+<td>99,48</td>
+<td>99,48</td>
+<td>99,48</td>
+<td>99,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular (hasta 725 vacas).</td>
-<td class="cuerpo_tabla_coma">183,00</td>
-<td class="cuerpo_tabla_coma">183,00</td>
-<td class="cuerpo_tabla_coma">183,00</td>
-<td class="cuerpo_tabla_coma">183,00</td>
-<td class="cuerpo_tabla_coma">183,00</td>
+<td>Mínimo Insular (hasta 725 vacas).</td>
+<td>183,00</td>
+<td>183,00</td>
+<td>183,00</td>
+<td>183,00</td>
+<td>183,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular (hasta 725 vacas).</td>
-<td class="cuerpo_tabla_coma">207,60</td>
-<td class="cuerpo_tabla_coma">207,60</td>
-<td class="cuerpo_tabla_coma">207,60</td>
-<td class="cuerpo_tabla_coma">207,60</td>
-<td class="cuerpo_tabla_coma">207,60</td>
+<td>Máximo Insular (hasta 725 vacas).</td>
+<td>207,60</td>
+<td>207,60</td>
+<td>207,60</td>
+<td>207,60</td>
+<td>207,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino de carne.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">12,80</td>
-<td class="cuerpo_tabla_coma">12,80</td>
-<td class="cuerpo_tabla_coma">12,80</td>
-<td class="cuerpo_tabla_coma">12,80</td>
-<td class="cuerpo_tabla_coma">12,80</td>
+<td rowspan="4">Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino de carne.</td>
+<td>Mínimo Peninsular.</td>
+<td>12,80</td>
+<td>12,80</td>
+<td>12,80</td>
+<td>12,80</td>
+<td>12,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">42,46</td>
-<td class="cuerpo_tabla_coma">42,46</td>
-<td class="cuerpo_tabla_coma">42,46</td>
-<td class="cuerpo_tabla_coma">42,46</td>
-<td class="cuerpo_tabla_coma">42,46</td>
+<td>Máximo Peninsular.</td>
+<td>42,46</td>
+<td>42,46</td>
+<td>42,46</td>
+<td>42,46</td>
+<td>42,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">19,21</td>
-<td class="cuerpo_tabla_coma">19,21</td>
-<td class="cuerpo_tabla_coma">19,21</td>
-<td class="cuerpo_tabla_coma">19,21</td>
-<td class="cuerpo_tabla_coma">19,21</td>
+<td>Mínimo Insular.</td>
+<td>19,21</td>
+<td>19,21</td>
+<td>19,21</td>
+<td>19,21</td>
+<td>19,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">63,68</td>
-<td class="cuerpo_tabla_coma">63,68</td>
-<td class="cuerpo_tabla_coma">63,68</td>
-<td class="cuerpo_tabla_coma">63,68</td>
-<td class="cuerpo_tabla_coma">63,68</td>
+<td>Máximo Insular.</td>
+<td>63,68</td>
+<td>63,68</td>
+<td>63,68</td>
+<td>63,68</td>
+<td>63,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para la producción sostenible de leche de oveja y cabra.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">10,55</td>
-<td class="cuerpo_tabla_coma">10,55</td>
-<td class="cuerpo_tabla_coma">10,55</td>
-<td class="cuerpo_tabla_coma">10,55</td>
-<td class="cuerpo_tabla_coma">10,55</td>
+<td rowspan="4">Ayuda asociada para la producción sostenible de leche de oveja y cabra.</td>
+<td>Mínimo Peninsular.</td>
+<td>10,55</td>
+<td>10,55</td>
+<td>10,55</td>
+<td>10,55</td>
+<td>10,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">30,22</td>
-<td class="cuerpo_tabla_coma">30,22</td>
-<td class="cuerpo_tabla_coma">30,22</td>
-<td class="cuerpo_tabla_coma">30,22</td>
-<td class="cuerpo_tabla_coma">30,22</td>
+<td>Máximo Peninsular.</td>
+<td>30,22</td>
+<td>30,22</td>
+<td>30,22</td>
+<td>30,22</td>
+<td>30,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">15,83</td>
-<td class="cuerpo_tabla_coma">15,83</td>
-<td class="cuerpo_tabla_coma">15,83</td>
-<td class="cuerpo_tabla_coma">15,83</td>
-<td class="cuerpo_tabla_coma">15,83</td>
+<td>Mínimo Insular.</td>
+<td>15,83</td>
+<td>15,83</td>
+<td>15,83</td>
+<td>15,83</td>
+<td>15,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">45,33</td>
-<td class="cuerpo_tabla_coma">45,33</td>
-<td class="cuerpo_tabla_coma">45,33</td>
-<td class="cuerpo_tabla_coma">45,33</td>
-<td class="cuerpo_tabla_coma">45,33</td>
+<td>Máximo Insular.</td>
+<td>45,33</td>
+<td>45,33</td>
+<td>45,33</td>
+<td>45,33</td>
+<td>45,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas.</td>
-<td class="cuerpo_tabla_izq">Mínimo Peninsular.</td>
-<td class="cuerpo_tabla_coma">2,09</td>
-<td class="cuerpo_tabla_coma">2,09</td>
-<td class="cuerpo_tabla_coma">2,09</td>
-<td class="cuerpo_tabla_coma">2,09</td>
-<td class="cuerpo_tabla_coma">2,09</td>
+<td rowspan="4">Ayuda asociada para los ganaderos extensivos y semiextensivos de ovino y caprino sin pastos a su disposición y que pastorean superficies de rastrojeras, barbechos y restos hortofrutícolas.</td>
+<td>Mínimo Peninsular.</td>
+<td>2,09</td>
+<td>2,09</td>
+<td>2,09</td>
+<td>2,09</td>
+<td>2,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Peninsular.</td>
-<td class="cuerpo_tabla_coma">30,23</td>
-<td class="cuerpo_tabla_coma">30,23</td>
-<td class="cuerpo_tabla_coma">30,23</td>
-<td class="cuerpo_tabla_coma">30,23</td>
-<td class="cuerpo_tabla_coma">30,23</td>
+<td>Máximo Peninsular.</td>
+<td>30,23</td>
+<td>30,23</td>
+<td>30,23</td>
+<td>30,23</td>
+<td>30,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Mínimo Insular.</td>
-<td class="cuerpo_tabla_coma">3,89</td>
-<td class="cuerpo_tabla_coma">3,89</td>
-<td class="cuerpo_tabla_coma">3,89</td>
-<td class="cuerpo_tabla_coma">3,89</td>
-<td class="cuerpo_tabla_coma">3,89</td>
+<td>Mínimo Insular.</td>
+<td>3,89</td>
+<td>3,89</td>
+<td>3,89</td>
+<td>3,89</td>
+<td>3,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máximo Insular.</td>
-<td class="cuerpo_tabla_coma">45,35</td>
-<td class="cuerpo_tabla_coma">45,35</td>
-<td class="cuerpo_tabla_coma">45,35</td>
-<td class="cuerpo_tabla_coma">45,35</td>
-<td class="cuerpo_tabla_coma">45,35</td>
+<td>Máximo Insular.</td>
+<td>45,35</td>
+<td>45,35</td>
+<td>45,35</td>
+<td>45,35</td>
+<td>45,35</td>
 </tr>
 </tbody>
 </table>

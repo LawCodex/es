@@ -1894,14 +1894,6 @@ La prestación ortoprotésica consiste en la utilización de productos sanitario
 
 Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las administraciones sanitarias competentes.
 
-> Téngase en cuenta que esta última actualización del Anexo VI establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "La prestación ortoprotésica consiste en la utilización de productos sanitarios, implantables o no, cuya finalidad es sustituir total o parcialmente una estructura corporal, o bien modificar, corregir o facilitar su función. Comprenderá los elementos precisos para mejorar la calidad de vida y autonomía del paciente.
-
-> Esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas, en los casos y de acuerdo con las normas que reglamentariamente se establezcan por parte de las administraciones sanitarias competentes."
-
 > Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
 
 > Se derogan los aspectos referentes a la aportación del usuario recogidos en este Anexo por la disposición derogatoria única del Real Decreto 1506/2012, de 2 de noviembre. [Ref. BOE-A-2012-13647](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13647).
@@ -1934,20 +1926,6 @@ a) El catálogo común además recoge la siguiente información para cada tipo d
 
 b) Los productos financiables correspondientes a los tipos de productos incluidos en el catálogo común no elaborados a medida se recogerán en la Oferta de productos ortoprotésicos del Sistema Nacional de Salud, de acuerdo con lo contemplado en el artículo 4 del Real Decreto 1506/2012, de 2 de noviembre.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "1.1 La prestación ortoprotésica comprende los implantes quirúrgicos, las prótesis externas, las sillas de ruedas, las ortesis y las ortoprótesis especiales.
-
-> 1.2 Los implantes quirúrgicos, prótesis externas, sillas de ruedas, ortesis y ortoprótesis especiales incluidos en la cartera común de prestación ortoprotésica figuran respectivamente en los apartados 6, 7, 8, 9 y 10 de este anexo, incluyendo en su caso, sus condiciones de uso o el tipo de discapacidad o indicación clínica que justifica su prescripción. En el apartado 6 se establecen las divisiones de los implantes quirúrgicos codificadas con dos dígitos y los grupos codificados con cuatro dígitos, así como los respectivos desgloses alcanzando diferentes niveles de desagregación que permiten agrupar productos con características similares. En el caso de los apartados 7, 8, 9 y 10 el contenido de la cartera común viene determinado por los grupos (cuatro dígitos) y subgrupos (seis dígitos). Los códigos homologados (codificación de 9 dígitos) que se recogen en dichos apartados se utilizarán únicamente para el sistema de información de la prestación ortoprotésica.
-
-> En el caso de las ortesis y ortoprótesis especiales se reflejan asimismo ayudas económicas consistentes en la diferencia entre las tarifas de los correspondientes artículos que figuran en los catálogos de cada administración sanitaria competente y las aportaciones del usuario que figuran en los apartados 9 y 10.
-
-> 1.3 En el ámbito de cada administración sanitaria competente en la gestión de la prestación ortoprotésica, el contenido de la misma estará determinado por aquellos artículos que expresamente se recojan en los catálogos que elaboren en desarrollo de lo establecido en los apartados 6, 7, 8, 9 y 10 de este anexo.
-
-> 1.4 No constituyen parte de esta prestación los efectos y accesorios, ni los artículos ortoprotésicos destinados a uso deportivo, ni los utilizados con finalidad estética, ni aquellos de los que se realice publicidad dirigida al público en general."
-
 > Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
 
 > Se modifica el apartado 1.2 por el art. 2.3 de la Orden SSI/1356/2015, de 2 de julio. [Ref. BOE-A-2015-7629](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7629).
@@ -1966,22 +1944,6 @@ c) Ortesis: Ortoprótesis externa que va destinada a modificar las condiciones e
 
 d) Ortoprótesis especial: Ortoprótesis externa que modifica o sustituye una función corporal o facilita la deambulación de personas con movilidad reducida de forma permanente, que no pueda considerarse incluida en los apartados anteriores.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "2.1 Implante quirúrgico: Producto sanitario diseñado para ser implantado total o parcialmente en el cuerpo humano mediante intervención quirúrgica y destinado a permanecer allí después de dicha intervención.
-
-> A efectos de lo dispuesto en esta norma se entiende por implante quirúrgico aquel producto sanitario implantable con finalidad terapéutica que sustituye total o parcialmente una estructura corporal o una función fisiológica que presenta algún defecto o anomalía, o que tiene finalidad diagnóstica.
-
-> 2.2 Prótesis externa: Producto sanitario que requiere una elaboración y/o adaptación individualizada y que, dirigido a sustituir total o parcialmente un órgano o una estructura corporal o su función, no precisa de implantación quirúrgica en el paciente.
-
-> 2.3 Silla de ruedas: Vehículo individual para favorecer el traslado de personas que han perdido, de forma permanente, total o parcialmente, la capacidad de deambulación y que sea adecuado a su grado de discapacidad.
-
-> 2.4 Ortesis: Producto sanitario de uso externo, no implantable que, adaptado individualmente al paciente, se destina a modificar las condiciones estructurales o funcionales del sistema neuromuscular o del esqueleto.
-
-> 2.5 Ortoprótesis especial: Producto sanitario no implantable que sustituye una estructura corporal o su función o facilita la deambulación sin que pueda considerarse incluido en los apartados anteriores."
-
 > Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
 
 ### 3. Acceso a la prestación ortoprotésica
@@ -1991,12 +1953,6 @@ d) Ortoprótesis especial: Ortoprótesis externa que modifica o sustituye una fu
 3.2 Los responsables de prestación ortoprotésica establecerán sus respectivos catálogos que contendrán, al menos, los tipos de productos del catálogo común al que se refieren los apartados 6, 7, 8, 9 y 10.
 
 3.3 El acceso a la prestación ortoprotésica se hará, garantizando las necesidades sanitarias de los usuarios, en la forma que establezca al efecto el correspondiente responsable de prestación ortoprotésica.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "El acceso a la prestación ortoprotésica se hará, garantizando las necesidades sanitarias de los pacientes, en la forma que establezca al efecto la administración sanitaria competente en la gestión de la prestación."
 
 > Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
 
@@ -2019,16 +1975,6 @@ e) Los responsables de prestación ortoprotésica establecerán el periodo de re
 f) Los establecimientos sanitarios dispensadores y adaptadores de productos ortoprotésicos (en adelante establecimientos) que opten por dispensar productos a cargo del Sistema Nacional de Salud asumirán todas las condiciones establecidas en este anexo y no podrán cobrar al usuario cantidades adicionales a la aportación que en su caso le pudiera corresponder en función del tipo de producto, salvo cuando así lo autorice el correspondiente responsable de prestación ortoprotésica de acuerdo con lo previsto en el artículo 5.5 del Real Decreto 1506/2012, de 2 de noviembre.
 
 4.3 Los responsables de prestación ortoprotésica reclamarán a los terceros obligados al pago el importe de la prestación ortoprotésica en los supuestos establecidos en el anexo IX.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "4.1 La prescripción de los productos incluidos en la prestación ortoprotésica debe ser llevada a cabo por un médico de atención especializada, especialista en la materia correspondiente a la clínica que justifique la prescripción.
-
-> 4.2 El procedimiento para la elaboración de los correspondientes catálogos en cada ámbito de gestión, adaptados en su contenido a lo establecido en los apartados 6, 7, 8, 9 y 10 de este anexo, así como las condiciones de acceso, de prescripción, de gestión, de aplicación del catálogo y, si procede, de recuperación de los artículos, serán determinados por la administración sanitaria competente en la gestión de esta prestación.
-
-> 4.3. Las administraciones sanitarias responsables de la gestión de los implantes quirúrgicos establecerán el procedimiento de adquisición de los mismos por las vías que consideren más adecuadas en cada caso para garantizar su provisión a los pacientes con la máxima eficiencia."
 
 > Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
 
@@ -2075,30 +2021,6 @@ f) Siempre que se trate de productos elaborados a medida o que requieren una ada
 g) La entrega del producto al usuario habrá de ir acompañada de la información establecida en la normativa de productos sanitarios, del certificado de garantía y de una hoja informativa, en lenguaje comprensible y accesible para personas con discapacidad, con las recomendaciones precisas para la mejor conservación del mismo en condiciones de utilización normal y las advertencias para evitar su mal uso, de acuerdo con lo que establezca el responsable de prestación ortoprotésica. Todo ello, sin perjuicio de lo dispuesto en el Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
 
 5.3 En el caso de los implantes quirúrgicos, además de la información establecida en la normativa de productos sanitarios, se ha de facilitar a los pacientes una hoja informativa con las instrucciones, así como las recomendaciones, contraindicaciones y precauciones que deben tomarse en su caso.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 2 de la Orden SCB/45/2019, de 22 de enero, [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856) entra en vigor el 1 de julio de 2019, según determina su disposición final cuarta.
-
-> Redacción anterior:
-
-> "5.1 Los productos sanitarios incluidos como prestación ortoprotésica, para poder ser suministrados y utilizados, deben cumplir los requisitos contemplados en la legislación vigente que les resulte de aplicación.
-
-> 5.2 Los establecimientos sanitarios elaboradores de ortoprótesis a medida y los que las adaptan individualizadamente deben reunir los requisitos que en cada momento establezca la administración sanitaria competente, a fin de que se salvaguarde una correcta elaboración y adecuación de la prestación prescrita al paciente.
-
-> 5.3 Para las prótesis externas, las sillas de ruedas, ortesis y ortoprótesis especiales, son de aplicación los siguientes aspectos:
-
-> 5.3.1 La entrega de uno de estos productos al usuario ha de ir acompañada del certificado de garantía y una hoja informativa con las recomendaciones precisas para la mejor conservación del mismo en condiciones de utilización normal y las advertencias para evitar su mal uso, de acuerdo con lo que establezca en cada caso la administración sanitaria competente.
-
-> 5.3.2 Cuando se trate de productos que requieren una adaptación específica al paciente:
-
-> a) Correrán a cargo del establecimiento cuantas rectificaciones imputables a la elaboración y adaptación sean precisas.
-
-> b) En la elaboración de los productos, el establecimiento se ajustará siempre a las indicaciones consignadas por el especialista prescriptor.
-
-> c) En los casos que se determine, una vez obtenida la prestación por el usuario, el especialista prescriptor comprobará que el artículo se ajusta rigurosamente a sus indicaciones y se adapta perfectamente al paciente.
-
-> 5.3.3 En el caso de artículos susceptibles de renovación, ésta puede concederse, cuando no sea debida al mal trato del usuario, en las condiciones que al efecto se determinen por la administración sanitaria competente en la gestión de la prestación. Además para aquellos productos susceptibles de renovación que requieren una elaboración y/o adaptación individualizada, se debe tener en cuenta la edad del paciente para fijar el periodo de renovación, de modo que se adecue a la etapa de crecimiento de los niños y a los cambios morfológicos derivados de la evolución de la patología.
-
-> 5.4 En el caso de los implantes quirúrgicos se ha de facilitar a los pacientes una hoja informativa con las instrucciones así como las recomendaciones, contraindicaciones y precauciones que deben tomarse en su caso."
 
 > Se sustituye, con efectos de 1 de julio de 2019, por el contenido del Anexo I de la Orden SCB/45/2019, de 22 de enero, según establece su art. 2. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
 
@@ -3574,3050 +3496,2882 @@ Grupo: 06 18 Prótesis de miembro superior, incluidas las mioeléctricas para pa
 
 Para la prescripción de prótesis mioeléctricas se seguirán los protocolos que al efecto establezcan las administraciones sanitarias competentes.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 03 Prótesis parciales de mano, incluyendo las prótesis de dedo.</p>
+<p>Subgrupo: 06 18 03 Prótesis parciales de mano, incluyendo las prótesis de dedo.</p>
 </caption>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">IMF</p>
-<p class="cabeza_tabla">(importe máximo de financiación)</p>
+<th>
+<p>IMF</p>
+<p>(importe máximo de financiación)</p>
 </th>
-<th class="cabeza_tabla">IMF si (sin impuestos)</th>
+<th>IMF si (sin impuestos)</th>
 </tr>
 </thead>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">PSM 000 Prótesis para amputación parcial de mano.</p>
+<td rowspan="3">
+<p>PSM 000 Prótesis para amputación parcial de mano.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSM 000A Prótesis pasiva para amputación parcial de mano, a medida, con guante de PVC incluido.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">917,58</td>
-<td class="cuerpo_tabla_coma">834,16</td>
+<td>PSM 000A Prótesis pasiva para amputación parcial de mano, a medida, con guante de PVC incluido.</td>
+<td>MED</td>
+<td>36</td>
+<td>917,58</td>
+<td>834,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSM 000B Prótesis pasiva para amputación parcial de mano, a medida, con guante de silicona incluido.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">1.026,23</td>
-<td class="cuerpo_tabla_coma">932,94</td>
+<td>PSM 000B Prótesis pasiva para amputación parcial de mano, a medida, con guante de silicona incluido.</td>
+<td>MED</td>
+<td>36</td>
+<td>1.026,23</td>
+<td>932,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSM 000C Prótesis para amputación parcial de mano con funcionalidad del pulgar conservada, a medida (Prescribir además un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">843,19</td>
-<td class="cuerpo_tabla_coma">766,54</td>
+<td>PSM 000C Prótesis para amputación parcial de mano con funcionalidad del pulgar conservada, a medida (Prescribir además un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>843,19</td>
+<td>766,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSM 010 Prótesis pasiva para amputación de un dedo (epítesis).</td>
-<td class="cuerpo_tabla_izq">PSM 010A Prótesis pasiva de silicona para amputación de dedo índice o medio con pulgar conservado, a medida (Especial prescripción).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.416,40</td>
-<td class="cuerpo_tabla_coma">2.196,73</td>
+<td>PSM 010 Prótesis pasiva para amputación de un dedo (epítesis).</td>
+<td>PSM 010A Prótesis pasiva de silicona para amputación de dedo índice o medio con pulgar conservado, a medida (Especial prescripción).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.416,40</td>
+<td>2.196,73</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 06 Prótesis de desarticulación de muñeca.</p>
+<p>Subgrupo: 06 18 06 Prótesis de desarticulación de muñeca.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">PSN 000 Prótesis pasiva de desarticulación de muñeca.</p>
+<td rowspan="2">
+<p>PSN 000 Prótesis pasiva de desarticulación de muñeca.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSN 000A Prótesis pasiva de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo, sistema de suspensión, mano pasiva y guante (Prescribir, si lo precisa, un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.166,38</td>
-<td class="cuerpo_tabla_coma">1.969,44</td>
+<td>PSN 000A Prótesis pasiva de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo, sistema de suspensión, mano pasiva y guante (Prescribir, si lo precisa, un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.166,38</td>
+<td>1.969,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 000B Prótesis pasiva de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo, mano pasiva y guante (Prescribir además un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.013,49</td>
-<td class="cuerpo_tabla_coma">1.830,45</td>
+<td>PSN 000B Prótesis pasiva de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo, mano pasiva y guante (Prescribir además un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.013,49</td>
+<td>1.830,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSN 010 Prótesis mecánica de desarticulación de muñeca.</td>
-<td class="cuerpo_tabla_izq">PSN 010A Prótesis mecánica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">1.344,38</td>
-<td class="cuerpo_tabla_coma">1.222,16</td>
+<td rowspan="2">PSN 010 Prótesis mecánica de desarticulación de muñeca.</td>
+<td>PSN 010A Prótesis mecánica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>1.344,38</td>
+<td>1.222,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 010B Prótesis mecánica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">1.503,75</td>
-<td class="cuerpo_tabla_coma">1.367,05</td>
+<td>PSN 010B Prótesis mecánica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, un terminal a elección y, si lo precisa, un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>1.503,75</td>
+<td>1.367,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSN 020 Prótesis mioeléctrica de desarticulación de muñeca.</td>
-<td class="cuerpo_tabla_izq">PSN 020A Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.811,45</td>
-<td class="cuerpo_tabla_coma">2.555,86</td>
+<td rowspan="2">PSN 020 Prótesis mioeléctrica de desarticulación de muñeca.</td>
+<td>PSN 020A Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje infracondilar exterior rígido de antebrazo (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.811,45</td>
+<td>2.555,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 020B Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">36</p>
+<td>PSN 020B Prótesis mioeléctrica de desarticulación de muñeca, a medida, con encaje supracondilar exterior rígido de antebrazo (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).</td>
+<td>MED</td>
+<td>
+<p>36</p>
 </td>
-<td class="cuerpo_tabla_coma">2.882,37</td>
-<td class="cuerpo_tabla_coma">2.620,34</td>
+<td>2.882,37</td>
+<td>2.620,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">PSN 900 Encaje para prótesis de desarticulación de muñeca.</p>
+<td rowspan="6">
+<p>PSN 900 Encaje para prótesis de desarticulación de muñeca.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSN 900A Encaje infracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.314,38</td>
-<td class="cuerpo_tabla_coma">1.194,89</td>
+<td>PSN 900A Encaje infracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.314,38</td>
+<td>1.194,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900B Encaje supracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.473,75</td>
-<td class="cuerpo_tabla_coma">1.339,77</td>
+<td>PSN 900B Encaje supracondilar exterior rígido para prótesis mecánica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.473,75</td>
+<td>1.339,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.711,45</td>
-<td class="cuerpo_tabla_coma">2.464,95</td>
+<td>PSN 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>2.711,45</td>
+<td>2.464,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.782,37</td>
-<td class="cuerpo_tabla_coma">2.529,43</td>
+<td>PSN 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>2.782,37</td>
+<td>2.529,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td>PSN 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">872,73</td>
-<td class="cuerpo_tabla_coma">793,39</td>
+<td>PSN 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>872,73</td>
+<td>793,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PSN 900 Encaje para prótesis de desarticulación de muñeca.</td>
-<td class="cuerpo_tabla_izq">PSN 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td rowspan="6">PSN 900 Encaje para prótesis de desarticulación de muñeca.</td>
+<td>PSN 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">878,17</td>
-<td class="cuerpo_tabla_coma">798,34</td>
+<td>PSN 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>878,17</td>
+<td>798,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td>PSN 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">987,80</td>
-<td class="cuerpo_tabla_coma">898,00</td>
+<td>PSN 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>987,80</td>
+<td>898,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td>PSN 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSN 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">990,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
+<td>PSN 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de muñeca, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>990,00</td>
+<td>900,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 09 Prótesis transradial (por debajo del codo).</p>
+<p>Subgrupo: 06 18 09 Prótesis transradial (por debajo del codo).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">PSA 000 Prótesis pasiva transradial.</p>
+<td rowspan="4">
+<p>PSA 000 Prótesis pasiva transradial.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSA 000A Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.636,15</td>
-<td class="cuerpo_tabla_coma">2.396,50</td>
+<td>PSA 000A Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.636,15</td>
+<td>2.396,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 000B Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.794,09</td>
-<td class="cuerpo_tabla_coma">2.540,08</td>
+<td>PSA 000B Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura endoesquelética, cubierta de espuma, media y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.794,09</td>
+<td>2.540,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 000C Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.206,38</td>
-<td class="cuerpo_tabla_coma">2.005,80</td>
+<td>PSA 000C Prótesis pasiva transradial, a medida, con encaje infracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.206,38</td>
+<td>2.005,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 000D Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.364,33</td>
-<td class="cuerpo_tabla_coma">2.149,39</td>
+<td>PSA 000D Prótesis pasiva transradial, a medida, con encaje supracondilar exterior rígido, estructura exoesquelética y articulación de muñeca (Prescribir además un encaje interior y/o vaina, una mano pasiva y un guante a elección).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.364,33</td>
+<td>2.149,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSA 010 Prótesis mecánica transradial.</td>
-<td class="cuerpo_tabla_izq">PSA 010A Prótesis mecánica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.157,38</td>
-<td class="cuerpo_tabla_coma">1.961,25</td>
+<td rowspan="2">PSA 010 Prótesis mecánica transradial.</td>
+<td>PSA 010A Prótesis mecánica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.157,38</td>
+<td>1.961,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 010B Prótesis mecánica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, una articulación de muñeca, un terminal a elección y, si lo precisa, un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.315,32</td>
-<td class="cuerpo_tabla_coma">2.104,84</td>
+<td>PSA 010B Prótesis mecánica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, un sistema de accionamiento cinemático, una articulación de muñeca, un terminal a elección y, si lo precisa, un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>2.315,32</td>
+<td>2.104,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSA 020 Prótesis mioeléctrica transradial.</td>
-<td class="cuerpo_tabla_izq">PSA 020A Prótesis mioeléctrica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería un encaje interior y/o vaina, y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.989,37</td>
-<td class="cuerpo_tabla_coma">3.626,70</td>
+<td rowspan="2">PSA 020 Prótesis mioeléctrica transradial.</td>
+<td>PSA 020A Prótesis mioeléctrica transradial, a medida, con encaje infracondilar exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería un encaje interior y/o vaina, y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>3.989,37</td>
+<td>3.626,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 020B Prótesis mioeléctrica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">4.142,21</td>
-<td class="cuerpo_tabla_coma">3.765,65</td>
+<td>PSA 020B Prótesis mioeléctrica transradial, a medida, con encaje supracondilar exterior rígido y estructura exoesquelética (Prescribir además un encaje interior y/o vaina, electrodos, baterías, un cargador, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>4.142,21</td>
+<td>3.765,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PSA 900 Encaje para prótesis transradial.</td>
-<td class="cuerpo_tabla_izq">PSA 900A Encaje infracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.427,57</td>
-<td class="cuerpo_tabla_coma">1.297,79</td>
+<td rowspan="6">PSA 900 Encaje para prótesis transradial.</td>
+<td>PSA 900A Encaje infracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.427,57</td>
+<td>1.297,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900B Encaje supracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.585,51</td>
-<td class="cuerpo_tabla_coma">1.441,37</td>
+<td>PSA 900B Encaje supracondilar exterior rígido para prótesis pasiva o mecánica transradial, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.585,51</td>
+<td>1.441,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.169,56</td>
-<td class="cuerpo_tabla_coma">2.881,42</td>
+<td>PSA 900C Encaje infracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>3.169,56</td>
+<td>2.881,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.322,39</td>
-<td class="cuerpo_tabla_coma">3.020,35</td>
+<td>PSA 900D Encaje supracondilar exterior rígido con cajeado para electrodos para prótesis mioeléctrica transradial, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>3.322,39</td>
+<td>3.020,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td>PSA 900E Encaje infracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">984,50</td>
-<td class="cuerpo_tabla_coma">895,00</td>
+<td>PSA 900F Encaje infracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>984,50</td>
+<td>895,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PSA 900 Encaje para prótesis transradial.</td>
-<td class="cuerpo_tabla_izq">PSA 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td rowspan="6">PSA 900 Encaje para prótesis transradial.</td>
+<td>PSA 900G Encaje infracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">990,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
+<td>PSA 900H Encaje infracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>990,00</td>
+<td>900,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td>PSA 900I Encaje supracondilar interior en termoplástico blando para prótesis pasiva o mecánica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">984,50</td>
-<td class="cuerpo_tabla_coma">895,00</td>
+<td>PSA 900J Encaje supracondilar interior en silicona para prótesis pasiva o mecánica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>984,50</td>
+<td>895,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">412,50</td>
-<td class="cuerpo_tabla_coma">375,00</td>
+<td>PSA 900K Encaje supracondilar interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>412,50</td>
+<td>375,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">990,00</td>
-<td class="cuerpo_tabla_coma">900,00</td>
+<td>PSA 900L Encaje supracondilar interior en silicona con cajeado para electrodos para prótesis mioeléctrica transradial, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>990,00</td>
+<td>900,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PSA 910 Otros componentes de prótesis transradial.</td>
-<td class="cuerpo_tabla_izq">PSA 910A Cubierta de espuma para prótesis endoesquelética transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">369,36</td>
-<td class="cuerpo_tabla_coma">335,78</td>
+<td rowspan="3">PSA 910 Otros componentes de prótesis transradial.</td>
+<td>PSA 910A Cubierta de espuma para prótesis endoesquelética transradial, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>369,36</td>
+<td>335,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 910B Media para prótesis endoesquelética transradial.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">40,91</td>
+<td>PSA 910B Media para prótesis endoesquelética transradial.</td>
+<td>MED</td>
+<td>6</td>
+<td>45,00</td>
+<td>40,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSA 910C Estructura exoesquelética para prótesis transradial, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">689,82</td>
-<td class="cuerpo_tabla_coma">627,11</td>
+<td>PSA 910C Estructura exoesquelética para prótesis transradial, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>689,82</td>
+<td>627,11</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 12 Prótesis de desarticulación de codo.</p>
+<p>Subgrupo: 06 18 12 Prótesis de desarticulación de codo.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 000 Prótesis pasiva de desarticulación de codo</td>
-<td class="cuerpo_tabla_izq">PSC 000A Prótesis pasiva de desarticulación de codo, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina)</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.408,47</td>
-<td class="cuerpo_tabla_coma">3.098,61</td>
+<td>PSC 000 Prótesis pasiva de desarticulación de codo</td>
+<td>PSC 000A Prótesis pasiva de desarticulación de codo, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina)</td>
+<td>MED</td>
+<td>36</td>
+<td>3.408,47</td>
+<td>3.098,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 010 Prótesis mecánica de desarticulación de codo</td>
-<td class="cuerpo_tabla_izq">PSC 010A Prótesis mecánica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante)</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.882,88</td>
-<td class="cuerpo_tabla_coma">2.620,80</td>
+<td>PSC 010 Prótesis mecánica de desarticulación de codo</td>
+<td>PSC 010A Prótesis mecánica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, un sistema de accionamiento cinemático, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante)</td>
+<td>MED</td>
+<td>36</td>
+<td>2.882,88</td>
+<td>2.620,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 020 Prótesis mioeléctrica de desarticulación de codo</td>
-<td class="cuerpo_tabla_izq">PSC 020A Prótesis mioeléctrica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo mecánica de barras externas, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante)</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">4.546,49</td>
-<td class="cuerpo_tabla_coma">4.133,17</td>
+<td>PSC 020 Prótesis mioeléctrica de desarticulación de codo</td>
+<td>PSC 020A Prótesis mioeléctrica de desarticulación de codo, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo mecánica de barras externas, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante)</td>
+<td>MED</td>
+<td>36</td>
+<td>4.546,49</td>
+<td>4.133,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PSC 900 Encaje para prótesis de desarticulación de codo</td>
-<td class="cuerpo_tabla_izq">PSC 900A Encaje exterior rígido para prótesis pasiva o mecánica de desarticulación de codo, a medida. Incluye adaptación y alineación</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.968,78</td>
-<td class="cuerpo_tabla_coma">1.789,80</td>
+<td rowspan="6">PSC 900 Encaje para prótesis de desarticulación de codo</td>
+<td>PSC 900A Encaje exterior rígido para prótesis pasiva o mecánica de desarticulación de codo, a medida. Incluye adaptación y alineación</td>
+<td>MED</td>
+<td>24</td>
+<td>1.968,78</td>
+<td>1.789,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida. Incluye adaptación y alineación</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.522,39</td>
-<td class="cuerpo_tabla_coma">3.202,17</td>
+<td>PSC 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida. Incluye adaptación y alineación</td>
+<td>MED</td>
+<td>24</td>
+<td>3.522,39</td>
+<td>3.202,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de codo, a medida</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PSC 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica de desarticulación de codo, a medida</td>
+<td>MED</td>
+<td>24</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 900D Encaje interior en silicona para prótesis pasiva o mecánica de desarticulación de codo, a medida</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.129,84</td>
-<td class="cuerpo_tabla_coma">1.027,13</td>
+<td>PSC 900D Encaje interior en silicona para prótesis pasiva o mecánica de desarticulación de codo, a medida</td>
+<td>MED</td>
+<td>24</td>
+<td>1.129,84</td>
+<td>1.027,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PSC 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida</td>
+<td>MED</td>
+<td>24</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.155,00</td>
-<td class="cuerpo_tabla_coma">1.050,00</td>
+<td>PSC 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de codo, a medida</td>
+<td>MED</td>
+<td>24</td>
+<td>1.155,00</td>
+<td>1.050,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSC 910 Otros componentes de prótesis de desarticulación de codo</td>
-<td class="cuerpo_tabla_izq">PSC 910A Estructura exoesquelética para desarticulación de codo, a medida</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">864,10</td>
-<td class="cuerpo_tabla_coma">785,55</td>
+<td>PSC 910 Otros componentes de prótesis de desarticulación de codo</td>
+<td>PSC 910A Estructura exoesquelética para desarticulación de codo, a medida</td>
+<td>MED</td>
+<td>24</td>
+<td>864,10</td>
+<td>785,55</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 15 Prótesis transhumeral (por encima del codo).</p>
+<p>Subgrupo: 06 18 15 Prótesis transhumeral (por encima del codo).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSB 000 Prótesis pasiva transhumeral.</td>
-<td class="cuerpo_tabla_izq">PSB 000A Prótesis pasiva transhumeral, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma y media (Prescribir además un sistema de suspensión, una articulación de codo pasiva, una articulación de muñeca pasiva, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.296,13</td>
-<td class="cuerpo_tabla_coma">2.996,48</td>
+<td rowspan="2">PSB 000 Prótesis pasiva transhumeral.</td>
+<td>PSB 000A Prótesis pasiva transhumeral, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma y media (Prescribir además un sistema de suspensión, una articulación de codo pasiva, una articulación de muñeca pasiva, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>3.296,13</td>
+<td>2.996,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 000B Prótesis pasiva transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.607,14</td>
-<td class="cuerpo_tabla_coma">3.279,22</td>
+<td>PSB 000B Prótesis pasiva transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética, articulación de muñeca y articulación de codo (Prescribir además un sistema de suspensión, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>3.607,14</td>
+<td>3.279,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 010 Prótesis mecánica transhumeral.</td>
-<td class="cuerpo_tabla_izq">PSB 010A Prótesis mecánica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.081,55</td>
-<td class="cuerpo_tabla_coma">2.801,41</td>
+<td>PSB 010 Prótesis mecánica transhumeral.</td>
+<td>PSB 010A Prótesis mecánica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de accionamiento cinemático, un sistema de suspensión, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>3.081,55</td>
+<td>2.801,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 020 Prótesis mioeléctrica transhumeral.</td>
-<td class="cuerpo_tabla_izq">PSB 020A Prótesis mioeléctrica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">4.858,89</td>
-<td class="cuerpo_tabla_coma">4.417,17</td>
+<td>PSB 020 Prótesis mioeléctrica transhumeral.</td>
+<td>PSB 020A Prótesis mioeléctrica transhumeral, a medida, con encaje exterior rígido y estructura exoesquelética (Prescribir además un sistema de suspensión, electrodos, baterías, un cargador, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>4.858,89</td>
+<td>4.417,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PSB 900 Encaje para prótesis transhumeral.</td>
-<td class="cuerpo_tabla_izq">PSB 900A Encaje exterior rígido para prótesis pasiva o mecánica transhumeral, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.975,05</td>
-<td class="cuerpo_tabla_coma">1.795,50</td>
+<td rowspan="6">PSB 900 Encaje para prótesis transhumeral.</td>
+<td>PSB 900A Encaje exterior rígido para prótesis pasiva o mecánica transhumeral, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.975,05</td>
+<td>1.795,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.622,39</td>
-<td class="cuerpo_tabla_coma">3.293,08</td>
+<td>PSB 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>3.622,39</td>
+<td>3.293,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica transhumeral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PSB 900C Encaje interior en termoplástico blando para prótesis pasiva o mecánica transhumeral, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 900D Encaje interior en silicona para prótesis pasiva o mecánica transhumeral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.117,33</td>
-<td class="cuerpo_tabla_coma">1.015,75</td>
+<td>PSB 900D Encaje interior en silicona para prótesis pasiva o mecánica transhumeral, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.117,33</td>
+<td>1.015,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PSB 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.155,00</td>
-<td class="cuerpo_tabla_coma">1.050,00</td>
+<td>PSB 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica transhumeral, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.155,00</td>
+<td>1.050,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PSB 910 Otros componentes de prótesis transhumeral.</td>
-<td class="cuerpo_tabla_izq">PSB 910A Cubierta de espuma para prótesis endoesquelética transhumeral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">368,72</td>
-<td class="cuerpo_tabla_coma">335,20</td>
+<td rowspan="3">PSB 910 Otros componentes de prótesis transhumeral.</td>
+<td>PSB 910A Cubierta de espuma para prótesis endoesquelética transhumeral, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>368,72</td>
+<td>335,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 910B Media para prótesis endoesquelética transhumeral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">40,91</td>
+<td>PSB 910B Media para prótesis endoesquelética transhumeral.</td>
+<td>MED</td>
+<td>6</td>
+<td>45,00</td>
+<td>40,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSB 910C Estructura exoesquelética para prótesis transhumeral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.046,50</td>
-<td class="cuerpo_tabla_coma">951,36</td>
+<td>PSB 910C Estructura exoesquelética para prótesis transhumeral, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.046,50</td>
+<td>951,36</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 18 Prótesis de desarticulación de hombro.</p>
+<p>Subgrupo: 06 18 18 Prótesis de desarticulación de hombro.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSH 000 Prótesis pasiva de desarticulación de hombro.</td>
-<td class="cuerpo_tabla_izq">PSH 000A Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.688,33</td>
-<td class="cuerpo_tabla_coma">3.353,03</td>
+<td rowspan="2">PSH 000 Prótesis pasiva de desarticulación de hombro.</td>
+<td>PSH 000A Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, un encaje interior y/o vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>3.688,33</td>
+<td>3.353,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 000B Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.446,16</td>
-<td class="cuerpo_tabla_coma">3.132,87</td>
+<td>PSH 000B Prótesis pasiva de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva a elección y, si lo precisa, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>36</td>
+<td>3.446,16</td>
+<td>3.132,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 010 Prótesis mioeléctrica de desarticulación de hombro.</td>
-<td class="cuerpo_tabla_izq">PSH 010A Prótesis mioeléctrica de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">36</p>
+<td>PSH 010 Prótesis mioeléctrica de desarticulación de hombro.</td>
+<td>PSH 010A Prótesis mioeléctrica de desarticulación de hombro, a medida, con encaje exterior rígido, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección y, si lo precisa, caja de conexión para alojamiento de la batería, un encaje interior y/o vaina y un guante).</td>
+<td>MED</td>
+<td>
+<p>36</p>
 </td>
-<td class="cuerpo_tabla_coma">3.796,88</td>
-<td class="cuerpo_tabla_coma">3.451,71</td>
+<td>3.796,88</td>
+<td>3.451,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">PSH 900 Encaje para prótesis de desarticulación de hombro.</p>
+<td rowspan="6">
+<p>PSH 900 Encaje para prótesis de desarticulación de hombro.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSH 900A Encaje exterior rígido para prótesis pasiva de desarticulación de hombro, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.153,69</td>
-<td class="cuerpo_tabla_coma">1.048,81</td>
+<td>PSH 900A Encaje exterior rígido para prótesis pasiva de desarticulación de hombro, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.153,69</td>
+<td>1.048,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.880,00</td>
-<td class="cuerpo_tabla_coma">1.709,09</td>
+<td>PSH 900B Encaje exterior rígido con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.880,00</td>
+<td>1.709,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 900C Encaje interior en termoplástico blando para prótesis pasiva de desarticulación de hombro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PSH 900C Encaje interior en termoplástico blando para prótesis pasiva de desarticulación de hombro, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 900D Encaje interior en silicona para prótesis pasiva de desarticulación de hombro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.197,58</td>
-<td class="cuerpo_tabla_coma">1.088,71</td>
+<td>PSH 900D Encaje interior en silicona para prótesis pasiva de desarticulación de hombro, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.197,58</td>
+<td>1.088,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PSH 900E Encaje interior en termoplástico blando con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.210,00</td>
-<td class="cuerpo_tabla_coma">1.100,00</td>
+<td>PSH 900F Encaje interior en silicona con cajeado para electrodos para prótesis mioeléctrica de desarticulación de hombro, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.210,00</td>
+<td>1.100,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PSH 910 Otros componentes de prótesis de desarticulación de hombro.</td>
-<td class="cuerpo_tabla_izq">PSH 910A Sistema de suspensión para desarticulación de hombro.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">386,84</td>
-<td class="cuerpo_tabla_coma">351,67</td>
+<td rowspan="4">PSH 910 Otros componentes de prótesis de desarticulación de hombro.</td>
+<td>PSH 910A Sistema de suspensión para desarticulación de hombro.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>386,84</td>
+<td>351,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 910B Cubierta de espuma para prótesis endoesquelética de desarticulación de hombro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">430,50</td>
-<td class="cuerpo_tabla_coma">391,36</td>
+<td>PSH 910B Cubierta de espuma para prótesis endoesquelética de desarticulación de hombro, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>430,50</td>
+<td>391,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 910C Media para prótesis endoesquelética de desarticulación de hombro.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">40,91</td>
+<td>PSH 910C Media para prótesis endoesquelética de desarticulación de hombro.</td>
+<td>MED</td>
+<td>6</td>
+<td>45,00</td>
+<td>40,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSH 910D Estructura exoesquelética para prótesis de desarticulación de hombro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.310,04</td>
-<td class="cuerpo_tabla_coma">1.190,95</td>
+<td>PSH 910D Estructura exoesquelética para prótesis de desarticulación de hombro, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.310,04</td>
+<td>1.190,95</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 21 Prótesis de amputación del cuarto superior (interescapulotorácicas) (PACS).</p>
+<p>Subgrupo: 06 18 21 Prótesis de amputación del cuarto superior (interescapulotorácicas) (PACS).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">PST 000 Prótesis pasiva interescapulotorácica.</p>
+<td rowspan="2">
+<p>PST 000 Prótesis pasiva interescapulotorácica.</p>
 </td>
-<td class="cuerpo_tabla_izq">PST 000A Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">5.853,04</td>
-<td class="cuerpo_tabla_coma">5.320,95</td>
+<td>PST 000A Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura endoesquelética, cubierta de espuma, media, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>5.853,04</td>
+<td>5.320,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 000B Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">5.596,15</td>
-<td class="cuerpo_tabla_coma">5.087,41</td>
+<td>PST 000B Prótesis pasiva interescapulotorácica, a medida, con doble encaje, estructura exoesquelética, articulación de codo, articulación de muñeca y sistema de suspensión (Prescribir además una articulación de hombro, una mano pasiva, un guante a elección y, si lo precisa, una vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>5.596,15</td>
+<td>5.087,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 010 Prótesis mioeléctrica interescapulotorácica.</td>
-<td class="cuerpo_tabla_izq">PST 010A Prótesis mioeléctrica interescapulotorácica, a medida, con doble encaje, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave o transductor lineal, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección, un guante y, si lo precisa, caja de conexión para alojamiento de la batería y una vaina).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">6.960,54</td>
-<td class="cuerpo_tabla_coma">6.327,76</td>
+<td>PST 010 Prótesis mioeléctrica interescapulotorácica.</td>
+<td>PST 010A Prótesis mioeléctrica interescapulotorácica, a medida, con doble encaje, estructura exoesquelética y sistema de suspensión (Prescribir además electrodos y/o microllave o transductor lineal, baterías, un cargador, una articulación de hombro, una articulación de codo, una articulación de muñeca, un terminal a elección, un guante y, si lo precisa, caja de conexión para alojamiento de la batería y una vaina).</td>
+<td>MED</td>
+<td>36</td>
+<td>6.960,54</td>
+<td>6.327,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PST 900 Encaje para prótesis interescapulotorácica.</td>
-<td class="cuerpo_tabla_izq">PST 900A Doble encaje para prótesis interescapulotorácica, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.069,54</td>
-<td class="cuerpo_tabla_coma">2.790,49</td>
+<td rowspan="2">PST 900 Encaje para prótesis interescapulotorácica.</td>
+<td>PST 900A Doble encaje para prótesis interescapulotorácica, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>3.069,54</td>
+<td>2.790,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 900B Doble encaje con cajeado para electrodos para prótesis mioeléctrica interescapulotorácica, a medida. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">4.809,53</td>
-<td class="cuerpo_tabla_coma">4.372,30</td>
+<td>PST 900B Doble encaje con cajeado para electrodos para prótesis mioeléctrica interescapulotorácica, a medida. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>24</td>
+<td>4.809,53</td>
+<td>4.372,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PST 910 Otros componentes de prótesis interescapulotorácica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PST 910A Sistema de suspensión para prótesis interescapulotorácica, a.</p>
-<p class="cuerpo_tabla_izq">medida.</p>
+<td rowspan="6">PST 910 Otros componentes de prótesis interescapulotorácica.</td>
+<td>
+<p>PST 910A Sistema de suspensión para prótesis interescapulotorácica, a.</p>
+<p>medida.</p>
 </td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">481,71</td>
-<td class="cuerpo_tabla_coma">437,92</td>
+<td>MED</td>
+<td>24</td>
+<td>481,71</td>
+<td>437,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 910B Cubierta de espuma para prótesis endoesquelética interescapulotorácica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">434,67</td>
-<td class="cuerpo_tabla_coma">395,15</td>
+<td>PST 910B Cubierta de espuma para prótesis endoesquelética interescapulotorácica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>434,67</td>
+<td>395,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 910C Media para prótesis endoesquelética interescapulotorácica.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">40,91</td>
+<td>PST 910C Media para prótesis endoesquelética interescapulotorácica.</td>
+<td>MED</td>
+<td>6</td>
+<td>45,00</td>
+<td>40,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 910D Estructura exoesquelética para prótesis interescapulotorácica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.449,30</td>
-<td class="cuerpo_tabla_coma">1.317,55</td>
+<td>PST 910D Estructura exoesquelética para prótesis interescapulotorácica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.449,30</td>
+<td>1.317,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 910E Estructura endoesquelética para prótesis interescapulotorácica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.148,60</td>
-<td class="cuerpo_tabla_coma">1.044,18</td>
+<td>PST 910E Estructura endoesquelética para prótesis interescapulotorácica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.148,60</td>
+<td>1.044,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PST 910F Relleno cosmético de compensación de cintura escapular, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">495,00</td>
-<td class="cuerpo_tabla_coma">450,00</td>
+<td>PST 910F Relleno cosmético de compensación de cintura escapular, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>495,00</td>
+<td>450,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 24 Prótesis de mano (terminales).</p>
+<p>Subgrupo: 06 18 24 Prótesis de mano (terminales).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PSO 000 Mano pasiva.</td>
-<td class="cuerpo_tabla_izq">PSO 000A Mano pasiva, de adulto.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">302,82</td>
-<td class="cuerpo_tabla_coma">275,29</td>
+<td rowspan="3">PSO 000 Mano pasiva.</td>
+<td>PSO 000A Mano pasiva, de adulto.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>302,82</td>
+<td>275,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 000B Mano pasiva, de adulto, con pulgar en resorte.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">445,26</td>
-<td class="cuerpo_tabla_coma">404,78</td>
+<td>PSO 000B Mano pasiva, de adulto, con pulgar en resorte.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>445,26</td>
+<td>404,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 000C Mano pasiva, infantil.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">332,33</td>
-<td class="cuerpo_tabla_coma">302,12</td>
+<td>PSO 000C Mano pasiva, infantil.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>332,33</td>
+<td>302,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSO 010 Mano mecánica.</td>
-<td class="cuerpo_tabla_izq">PSO 010A Mano de tracción cinemática, de adulto.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">604,38</td>
-<td class="cuerpo_tabla_coma">549,44</td>
+<td rowspan="2">PSO 010 Mano mecánica.</td>
+<td>PSO 010A Mano de tracción cinemática, de adulto.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>604,38</td>
+<td>549,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 010B Mano de tracción cinemática, infantil.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">732,90</td>
-<td class="cuerpo_tabla_coma">666,27</td>
+<td>PSO 010B Mano de tracción cinemática, infantil.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>732,90</td>
+<td>666,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">PSO 020 Mano eléctrica.</p>
+<td rowspan="5">
+<p>PSO 020 Mano eléctrica.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSO 020A Mano eléctrica de función constante.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">6.699,12</td>
-<td class="cuerpo_tabla_coma">6.090,11</td>
+<td>PSO 020A Mano eléctrica de función constante.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>6.699,12</td>
+<td>6.090,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 020B Mano eléctrica de función variable.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">10.158,90</td>
-<td class="cuerpo_tabla_coma">9.235,36</td>
+<td>PSO 020B Mano eléctrica de función variable.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>10.158,90</td>
+<td>9.235,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 020C Mano eléctrica con sistema de control sensórico de la presión, de adulto, incluido el procesador programable.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">12.264,35</td>
-<td class="cuerpo_tabla_coma">11.149,41</td>
+<td>PSO 020C Mano eléctrica con sistema de control sensórico de la presión, de adulto, incluido el procesador programable.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>12.264,35</td>
+<td>11.149,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 020D Mano eléctrica, infantil.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">8.723,48</td>
-<td class="cuerpo_tabla_coma">7.930,44</td>
+<td>PSO 020D Mano eléctrica, infantil.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>8.723,48</td>
+<td>7.930,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 020E Mano eléctrica multiarticulada para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_coma">30.800,00</td>
-<td class="cuerpo_tabla_coma">28.000,00</td>
+<td>PSO 020E Mano eléctrica multiarticulada para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).</td>
+<td>COMP3</td>
+<td>60</td>
+<td>30.800,00</td>
+<td>28.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">
-<p class="cuerpo_tabla_izq">PSO 900 Guante cosmético para prótesis de mano.</p>
+<td rowspan="7">
+<p>PSO 900 Guante cosmético para prótesis de mano.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSO 900A Guante estándar de PVC, de adulto, para prótesis pasiva o mecánica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">226,92</td>
-<td class="cuerpo_tabla_coma">206,29</td>
+<td>PSO 900A Guante estándar de PVC, de adulto, para prótesis pasiva o mecánica.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>226,92</td>
+<td>206,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 900B Guante estándar de PVC, infantil, para prótesis pasiva o mecánica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">226,92</td>
-<td class="cuerpo_tabla_coma">206,29</td>
+<td>PSO 900B Guante estándar de PVC, infantil, para prótesis pasiva o mecánica.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>226,92</td>
+<td>206,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 900C Guante estándar de silicona, de adulto, para prótesis pasiva o mecánica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">481,86</td>
-<td class="cuerpo_tabla_coma">438,05</td>
+<td>PSO 900C Guante estándar de silicona, de adulto, para prótesis pasiva o mecánica.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>481,86</td>
+<td>438,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 900D Guante estándar de silicona, infantil, para prótesis pasiva o mecánica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">481,86</td>
-<td class="cuerpo_tabla_coma">438,05</td>
+<td>PSO 900D Guante estándar de silicona, infantil, para prótesis pasiva o mecánica.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>481,86</td>
+<td>438,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 900E Guante estándar de PVC con recubrimiento especial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">472,61</td>
-<td class="cuerpo_tabla_coma">429,65</td>
+<td>PSO 900E Guante estándar de PVC con recubrimiento especial.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>472,61</td>
+<td>429,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 900F Guante estándar de PVC, de adulto, para prótesis mioeléctrica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">229,39</td>
-<td class="cuerpo_tabla_coma">208,54</td>
+<td>PSO 900F Guante estándar de PVC, de adulto, para prótesis mioeléctrica.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>229,39</td>
+<td>208,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSO 900G Guante estándar de PVC, infantil, para prótesis mioeléctrica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">341,05</td>
-<td class="cuerpo_tabla_coma">310,05</td>
+<td>PSO 900G Guante estándar de PVC, infantil, para prótesis mioeléctrica.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>341,05</td>
+<td>310,05</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">ategorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>ategorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 27 Pinzas y dispositivos funcionales (terminales).</p>
+<p>Subgrupo: 06 18 27 Pinzas y dispositivos funcionales (terminales).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">PSZ 000 Pinza mecánica.</p>
+<td rowspan="3">
+<p>PSZ 000 Pinza mecánica.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSZ 000A Pinza mecánica estándar, de adulto.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">529,21</td>
-<td class="cuerpo_tabla_coma">481,10</td>
+<td>PSZ 000A Pinza mecánica estándar, de adulto.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>529,21</td>
+<td>481,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSZ 000B Pinza mecánica estándar, infantil.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">647,45</td>
-<td class="cuerpo_tabla_coma">588,59</td>
+<td>PSZ 000B Pinza mecánica estándar, infantil.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>647,45</td>
+<td>588,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSZ 000C Pinza mecánica con estructura reforzada.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.877,11</td>
-<td class="cuerpo_tabla_coma">1.706,46</td>
+<td>PSZ 000C Pinza mecánica con estructura reforzada.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.877,11</td>
+<td>1.706,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">PSZ 010 Pinza eléctrica.</p>
+<td rowspan="2">
+<p>PSZ 010 Pinza eléctrica.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSZ 010A Pinza eléctrica de función constante.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">8.387,70</td>
-<td class="cuerpo_tabla_coma">7.625,18</td>
+<td>PSZ 010A Pinza eléctrica de función constante.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>8.387,70</td>
+<td>7.625,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSZ 010B Pinza eléctrica de función variable.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">10.791,45</td>
-<td class="cuerpo_tabla_coma">9.810,41</td>
+<td>PSZ 010B Pinza eléctrica de función variable.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>10.791,45</td>
+<td>9.810,41</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 30 Articulaciones de muñeca.</p>
+<p>Subgrupo: 06 18 30 Articulaciones de muñeca.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSU 000 Articulación de muñeca para terminal pasivo.</td>
-<td class="cuerpo_tabla_izq">PSU 000A Articulación de muñeca para terminal pasivo, endoesquelética.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">131,41</td>
-<td class="cuerpo_tabla_coma">119,46</td>
+<td rowspan="2">PSU 000 Articulación de muñeca para terminal pasivo.</td>
+<td>PSU 000A Articulación de muñeca para terminal pasivo, endoesquelética.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>131,41</td>
+<td>119,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSU 000B Articulación de muñeca para terminal pasivo, exoesquelética.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">69,00</td>
-<td class="cuerpo_tabla_coma">62,73</td>
+<td>PSU 000B Articulación de muñeca para terminal pasivo, exoesquelética.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>69,00</td>
+<td>62,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">PSU 010 Articulación de muñeca para terminal mecánico.</p>
+<td rowspan="3">
+<p>PSU 010 Articulación de muñeca para terminal mecánico.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSU 010A Articulación de muñeca para terminal mecánico redonda.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">184,45</td>
-<td class="cuerpo_tabla_coma">167,68</td>
+<td>PSU 010A Articulación de muñeca para terminal mecánico redonda.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>184,45</td>
+<td>167,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSU 010B Articulación de muñeca con enganche en bayoneta multiposicional.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">796,74</td>
-<td class="cuerpo_tabla_coma">724,31</td>
+<td>PSU 010B Articulación de muñeca con enganche en bayoneta multiposicional.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>796,74</td>
+<td>724,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSU 010C Articulación de muñeca con enganche en bayoneta para terminal mecánico con flexo-extensión.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.308,82</td>
-<td class="cuerpo_tabla_coma">1.189,84</td>
+<td>PSU 010C Articulación de muñeca con enganche en bayoneta para terminal mecánico con flexo-extensión.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>1.308,82</td>
+<td>1.189,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PSU 020 Articulación de muñeca para terminal eléctrico.</td>
-<td class="cuerpo_tabla_izq">PSU 020A Articulación de muñeca para terminal eléctrico de acoplamiento rápido.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">584,71</td>
-<td class="cuerpo_tabla_coma">531,55</td>
+<td rowspan="4">PSU 020 Articulación de muñeca para terminal eléctrico.</td>
+<td>PSU 020A Articulación de muñeca para terminal eléctrico de acoplamiento rápido.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>584,71</td>
+<td>531,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSU 020B Articulación de muñeca para terminal eléctrico con función pronosupinadora.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.029,60</td>
-<td class="cuerpo_tabla_coma">936,00</td>
+<td>PSU 020B Articulación de muñeca para terminal eléctrico con función pronosupinadora.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>1.029,60</td>
+<td>936,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSU 020C Articulación de muñeca para terminal eléctrico, infantil con pronosupinación pasiva.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.605,08</td>
-<td class="cuerpo_tabla_coma">1.459,16</td>
+<td>PSU 020C Articulación de muñeca para terminal eléctrico, infantil con pronosupinación pasiva.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>1.605,08</td>
+<td>1.459,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSU 020D Articulación de muñeca para mano eléctrica multiarticulada (Especial prescripción y de acuerdo a un protocolo).</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">4.290,00</td>
-<td class="cuerpo_tabla_coma">3.900,00</td>
+<td>PSU 020D Articulación de muñeca para mano eléctrica multiarticulada (Especial prescripción y de acuerdo a un protocolo).</td>
+<td>COMP3</td>
+<td>24</td>
+<td>4.290,00</td>
+<td>3.900,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 33 Articulaciones de codo.</p>
+<p>Subgrupo: 06 18 33 Articulaciones de codo.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 000 Articulación de codo pasiva.</td>
-<td class="cuerpo_tabla_izq">PSD 000A Articulación de codo con bloqueo pasivo para estructura endoesquelética.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">492,10</td>
-<td class="cuerpo_tabla_coma">447,36</td>
+<td>PSD 000 Articulación de codo pasiva.</td>
+<td>PSD 000A Articulación de codo con bloqueo pasivo para estructura endoesquelética.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>492,10</td>
+<td>447,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">PSD 010 Articulación de codo mecánica.</td>
-<td class="cuerpo_tabla_izq">PSD 010A Articulación de codo mecánica con bloqueo de flexo-extensión.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.893,26</td>
-<td class="cuerpo_tabla_coma">1.721,15</td>
+<td rowspan="9">PSD 010 Articulación de codo mecánica.</td>
+<td>PSD 010A Articulación de codo mecánica con bloqueo de flexo-extensión.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.893,26</td>
+<td>1.721,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010B Articulación de codo mecánica con bloqueo de flexo-extensión y flexión asistida.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">4.388,25</td>
-<td class="cuerpo_tabla_coma">3.989,32</td>
+<td>PSD 010B Articulación de codo mecánica con bloqueo de flexo-extensión y flexión asistida.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>4.388,25</td>
+<td>3.989,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010C Articulación de codo mecánica con bloqueo de flexo-extensión, flexión asistida y cableado interno para prótesis mioeléctricas.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">5.092,13</td>
-<td class="cuerpo_tabla_coma">4.629,21</td>
+<td>PSD 010C Articulación de codo mecánica con bloqueo de flexo-extensión, flexión asistida y cableado interno para prótesis mioeléctricas.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>5.092,13</td>
+<td>4.629,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010D Articulación de codo mecánica con bloqueo de flexo-extensión electrónico, flexión asistida y cableado interno para prótesis mioeléctricas.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">8.374,24</td>
-<td class="cuerpo_tabla_coma">7.612,95</td>
+<td>PSD 010D Articulación de codo mecánica con bloqueo de flexo-extensión electrónico, flexión asistida y cableado interno para prótesis mioeléctricas.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>8.374,24</td>
+<td>7.612,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010E Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión para desarticulación de codo o muñón humeral largo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.864,83</td>
-<td class="cuerpo_tabla_coma">1.695,30</td>
+<td>PSD 010E Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión para desarticulación de codo o muñón humeral largo.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.864,83</td>
+<td>1.695,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010F Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión y flexión asistida para desarticulación de codo o muñón humeral largo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.649,99</td>
-<td class="cuerpo_tabla_coma">2.409,08</td>
+<td>PSD 010F Articulación de codo mecánica con barras externas con bloqueo de flexo-extensión y flexión asistida para desarticulación de codo o muñón humeral largo.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>2.649,99</td>
+<td>2.409,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010G Articulación de codo mecánica multiplicadora.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">COMP2</p>
+<td>PSD 010G Articulación de codo mecánica multiplicadora.</td>
+<td>
+<p>COMP2</p>
 </td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">476,59</td>
-<td class="cuerpo_tabla_coma">433,26</td>
+<td>24</td>
+<td>476,59</td>
+<td>433,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010H Articulación de codo mecánica con bloqueo dentado.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">766,00</td>
-<td class="cuerpo_tabla_coma">696,36</td>
+<td>PSD 010H Articulación de codo mecánica con bloqueo dentado.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>766,00</td>
+<td>696,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 010I Articulación de codo de fricción.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">995,79</td>
-<td class="cuerpo_tabla_coma">905,26</td>
+<td>PSD 010I Articulación de codo de fricción.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>995,79</td>
+<td>905,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PSD 020 Articulación de codo eléctrica.</td>
-<td class="cuerpo_tabla_izq">PSD 020A Articulación de codo eléctrica con bloqueo para múltiples posiciones y flexión asistida.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">10.194,92</td>
-<td class="cuerpo_tabla_coma">9.268,11</td>
+<td rowspan="2">PSD 020 Articulación de codo eléctrica.</td>
+<td>PSD 020A Articulación de codo eléctrica con bloqueo para múltiples posiciones y flexión asistida.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>10.194,92</td>
+<td>9.268,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSD 020B Articulación de codo con control de flexo-extensión programable y proporcional, para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_coma">43.352,78</td>
-<td class="cuerpo_tabla_coma">39.411,62</td>
+<td>PSD 020B Articulación de codo con control de flexo-extensión programable y proporcional, para uso por amputados bilaterales en la extremidad dominante (Especial prescripción y de acuerdo a un protocolo).</td>
+<td>COMP3</td>
+<td>60</td>
+<td>43.352,78</td>
+<td>39.411,62</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 36 Articulaciones de hombro.</p>
+<p>Subgrupo: 06 18 36 Articulaciones de hombro.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">PSR 000 Articulación de hombro para prótesis endoesquelética.</p>
+<td rowspan="3">
+<p>PSR 000 Articulación de hombro para prótesis endoesquelética.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSR 000A Articulación de hombro pasiva multiposicional.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">427,95</td>
-<td class="cuerpo_tabla_coma">389,05</td>
+<td>PSR 000A Articulación de hombro pasiva multiposicional.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>427,95</td>
+<td>389,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSR 000B Articulación de hombro pasiva de flexo-extensión y abducción/aducción.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">403,32</td>
-<td class="cuerpo_tabla_coma">366,65</td>
+<td>PSR 000B Articulación de hombro pasiva de flexo-extensión y abducción/aducción.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>403,32</td>
+<td>366,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSR 000C Articulación de hombro pasiva de flexo-extensión y bloqueo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.500,28</td>
-<td class="cuerpo_tabla_coma">2.272,98</td>
+<td>PSR 000C Articulación de hombro pasiva de flexo-extensión y bloqueo.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>2.500,28</td>
+<td>2.272,98</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 18 90 Componentes generales de prótesis de miembro superior.</p>
+<p>Subgrupo: 06 18 90 Componentes generales de prótesis de miembro superior.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">
-<p class="cuerpo_tabla_izq">PSG 900 Vaina (liner), sistema de suspensión y sistema de accionamiento de prótesis de miembro superior.</p>
+<td rowspan="9">
+<p>PSG 900 Vaina (liner), sistema de suspensión y sistema de accionamiento de prótesis de miembro superior.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSG 900A Vaina interna (liner) de silicona para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">902,79</td>
-<td class="cuerpo_tabla_coma">820,72</td>
+<td>PSG 900A Vaina interna (liner) de silicona para prótesis de miembro superior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>902,79</td>
+<td>820,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900B Vaina interna (liner) de silicona para prótesis de miembro superior, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">1.431,65</td>
-<td class="cuerpo_tabla_coma">1.301,50</td>
+<td>PSG 900B Vaina interna (liner) de silicona para prótesis de miembro superior, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td>MED</td>
+<td>6</td>
+<td>1.431,65</td>
+<td>1.301,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900C Sistema de suspensión mediante arnés para prótesis de miembro superior, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">312,27</td>
-<td class="cuerpo_tabla_coma">283,88</td>
+<td>PSG 900C Sistema de suspensión mediante arnés para prótesis de miembro superior, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>312,27</td>
+<td>283,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900D Vaina interna (liner) de silicona con sistema de suspensión distal (para pin) para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">764,75</td>
-<td class="cuerpo_tabla_coma">695,23</td>
+<td>PSG 900D Vaina interna (liner) de silicona con sistema de suspensión distal (para pin) para prótesis de miembro superior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>764,75</td>
+<td>695,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900E Vaina interna (liner) de silicona para válvula de succión para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">750,00</td>
-<td class="cuerpo_tabla_coma">681,82</td>
+<td>PSG 900E Vaina interna (liner) de silicona para válvula de succión para prótesis de miembro superior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>750,00</td>
+<td>681,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900F Válvula de succión para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">221,60</td>
-<td class="cuerpo_tabla_coma">201,45</td>
+<td>PSG 900F Válvula de succión para prótesis de miembro superior.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>221,60</td>
+<td>201,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900G Sistema de anclaje para vaina para prótesis de miembro superior (pin).</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">419,78</td>
-<td class="cuerpo_tabla_coma">381,62</td>
+<td>PSG 900G Sistema de anclaje para vaina para prótesis de miembro superior (pin).</td>
+<td>COMP3</td>
+<td>24</td>
+<td>419,78</td>
+<td>381,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900H Sistema de anclaje para vaina para prótesis de miembro superior con conexión distal (tipo cordón o tipo adhesivo).</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">308,92</td>
-<td class="cuerpo_tabla_coma">280,84</td>
+<td>PSG 900H Sistema de anclaje para vaina para prótesis de miembro superior con conexión distal (tipo cordón o tipo adhesivo).</td>
+<td>COMP3</td>
+<td>24</td>
+<td>308,92</td>
+<td>280,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 900I Sistema de accionamiento cinemático para prótesis de miembro superior, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">414,88</td>
-<td class="cuerpo_tabla_coma">377,16</td>
+<td>PSG 900I Sistema de accionamiento cinemático para prótesis de miembro superior, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>414,88</td>
+<td>377,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">
-<p class="cuerpo_tabla_izq">PSG 910 Batería, cargador y electrodo de prótesis de miembro superior.</p>
+<td rowspan="12">
+<p>PSG 910 Batería, cargador y electrodo de prótesis de miembro superior.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSG 910A Batería de litio para prótesis de miembro superior (par).</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_coma">1.411,81</td>
-<td class="cuerpo_tabla_coma">1.283,46</td>
+<td>PSG 910A Batería de litio para prótesis de miembro superior (par).</td>
+<td>COMP0</td>
+<td>9</td>
+<td>1.411,81</td>
+<td>1.283,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910B Batería integral de litio con conector externo para la carga (unidad).</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_coma">1.331,40</td>
-<td class="cuerpo_tabla_coma">1.210,36</td>
+<td>PSG 910B Batería integral de litio con conector externo para la carga (unidad).</td>
+<td>COMP2</td>
+<td>9</td>
+<td>1.331,40</td>
+<td>1.210,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910C Batería integral de litio con conector externo para la carga, para prótesis mioeléctrica con mano multiarticulada (unidad).</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_coma">1.653,87</td>
-<td class="cuerpo_tabla_coma">1.503,52</td>
+<td>PSG 910C Batería integral de litio con conector externo para la carga, para prótesis mioeléctrica con mano multiarticulada (unidad).</td>
+<td>COMP2</td>
+<td>9</td>
+<td>1.653,87</td>
+<td>1.503,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910D Cargador de baterías de litio para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">799,32</td>
-<td class="cuerpo_tabla_coma">726,65</td>
+<td>PSG 910D Cargador de baterías de litio para prótesis de miembro superior.</td>
+<td>COMP0</td>
+<td>36</td>
+<td>799,32</td>
+<td>726,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910E Cargador para batería integral de litio para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">937,59</td>
-<td class="cuerpo_tabla_coma">852,35</td>
+<td>PSG 910E Cargador para batería integral de litio para prótesis de miembro superior.</td>
+<td>COMP0</td>
+<td>36</td>
+<td>937,59</td>
+<td>852,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910F Cargador para batería integral de litio para prótesis mioeléctrica con mano multiarticulada.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">984,05</td>
-<td class="cuerpo_tabla_coma">894,60</td>
+<td>PSG 910F Cargador para batería integral de litio para prótesis mioeléctrica con mano multiarticulada.</td>
+<td>COMP0</td>
+<td>36</td>
+<td>984,05</td>
+<td>894,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910G Electrodo de doble canal (unidad) para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.122,73</td>
-<td class="cuerpo_tabla_coma">1.020,66</td>
+<td>PSG 910G Electrodo de doble canal (unidad) para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.122,73</td>
+<td>1.020,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910H Electrodo digital (unidad) para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.713,00</td>
-<td class="cuerpo_tabla_coma">1.557,27</td>
+<td>PSG 910H Electrodo digital (unidad) para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.713,00</td>
+<td>1.557,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910I Cable para electrodo de doble canal para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">144,06</td>
-<td class="cuerpo_tabla_coma">130,96</td>
+<td>PSG 910I Cable para electrodo de doble canal para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>144,06</td>
+<td>130,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910J Cable para electrodo digital para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">147,20</td>
-<td class="cuerpo_tabla_coma">133,82</td>
+<td>PSG 910J Cable para electrodo digital para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>147,20</td>
+<td>133,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910K Cable de batería para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">97,56</td>
-<td class="cuerpo_tabla_coma">88,69</td>
+<td>PSG 910K Cable de batería para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>97,56</td>
+<td>88,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 910L Caja de conexión para alojamiento de batería para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">212,81</td>
-<td class="cuerpo_tabla_coma">193,46</td>
+<td>PSG 910L Caja de conexión para alojamiento de batería para prótesis de miembro superior.</td>
+<td>COMP3</td>
+<td>36</td>
+<td>212,81</td>
+<td>193,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">
-<p class="cuerpo_tabla_izq">PSG 920 Otros componentes generales de prótesis de miembro superior.</p>
+<td rowspan="9">
+<p>PSG 920 Otros componentes generales de prótesis de miembro superior.</p>
 </td>
-<td class="cuerpo_tabla_izq">PSG 920A Transductor lineal para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.304,27</td>
-<td class="cuerpo_tabla_coma">1.185,70</td>
+<td>PSG 920A Transductor lineal para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.304,27</td>
+<td>1.185,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920B Unidad de giro eléctrica para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.192,08</td>
-<td class="cuerpo_tabla_coma">2.901,89</td>
+<td>PSG 920B Unidad de giro eléctrica para prótesis de miembro superior.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>3.192,08</td>
+<td>2.901,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920C Procesador de 4 canales para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.316,56</td>
-<td class="cuerpo_tabla_coma">2.105,96</td>
+<td>PSG 920C Procesador de 4 canales para prótesis de miembro superior.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>2.316,56</td>
+<td>2.105,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920D Conector coaxial y corona para prótesis mioeléctrica.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">278,85</td>
-<td class="cuerpo_tabla_coma">253,50</td>
+<td>PSG 920D Conector coaxial y corona para prótesis mioeléctrica.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>278,85</td>
+<td>253,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920E Unidad de control infantil para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.003,81</td>
-<td class="cuerpo_tabla_coma">1.821,65</td>
+<td>PSG 920E Unidad de control infantil para prótesis de miembro superior.</td>
+<td>COMP3</td>
+<td>24</td>
+<td>2.003,81</td>
+<td>1.821,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920F Microllave de balancín o tracción para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">605,57</td>
-<td class="cuerpo_tabla_coma">550,52</td>
+<td>PSG 920F Microllave de balancín o tracción para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>605,57</td>
+<td>550,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920G Cable para microllave para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">127,50</td>
-<td class="cuerpo_tabla_coma">115,91</td>
+<td>PSG 920G Cable para microllave para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>127,50</td>
+<td>115,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920H Microllave de presión para prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">692,22</td>
-<td class="cuerpo_tabla_coma">629,29</td>
+<td>PSG 920H Microllave de presión para prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>692,22</td>
+<td>629,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PSG 920I Sistema BOA para encaje de prótesis de miembro superior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">472,44</td>
-<td class="cuerpo_tabla_coma">429,41</td>
+<td>PSG 920I Sistema BOA para encaje de prótesis de miembro superior.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>472,44</td>
+<td>429,41</td>
 </tr>
 </tbody>
 </table>
 
 Grupo: 06 24 Prótesis de miembro inferior.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 03 Prótesis parciales de pie, incluyendo prótesis de dedos.</p>
+<p>Subgrupo: 06 24 03 Prótesis parciales de pie, incluyendo prótesis de dedos.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIP 000 Prótesis para amputación parcial o total de dedos del pie.</td>
-<td class="cuerpo_tabla_izq">PIP 000A Prótesis para amputación total del primer dedo del pie.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">186,66</td>
-<td class="cuerpo_tabla_coma">169,69</td>
+<td rowspan="2">PIP 000 Prótesis para amputación parcial o total de dedos del pie.</td>
+<td>PIP 000A Prótesis para amputación total del primer dedo del pie.</td>
+<td>MED</td>
+<td>12</td>
+<td>186,66</td>
+<td>169,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 000B Relleno protésico para amputación parcial o total de los dedos centrales.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">195,60</td>
-<td class="cuerpo_tabla_coma">177,82</td>
+<td>PIP 000B Relleno protésico para amputación parcial o total de los dedos centrales.</td>
+<td>MED</td>
+<td>12</td>
+<td>195,60</td>
+<td>177,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PIP 010 Prótesis para amputación transmetatarsiana o de desarticulación de Lisfranc.</td>
-<td class="cuerpo_tabla_izq">PIP 010A Prótesis para amputación transmetatarsiana o desarticulación de Lisfranc. Plantilla con reconstrucción del arco transverso y fijación adecuada.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">297,00</td>
-<td class="cuerpo_tabla_coma">270,00</td>
+<td rowspan="3">PIP 010 Prótesis para amputación transmetatarsiana o de desarticulación de Lisfranc.</td>
+<td>PIP 010A Prótesis para amputación transmetatarsiana o desarticulación de Lisfranc. Plantilla con reconstrucción del arco transverso y fijación adecuada.</td>
+<td>MED</td>
+<td>12</td>
+<td>297,00</td>
+<td>270,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 010B Prótesis para amputación transmetatarsiana o de Lisfranc. Botín con plantilla de reconstrucción del arco y relleno de antepié.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">505,40</td>
-<td class="cuerpo_tabla_coma">459,45</td>
+<td>PIP 010B Prótesis para amputación transmetatarsiana o de Lisfranc. Botín con plantilla de reconstrucción del arco y relleno de antepié.</td>
+<td>MED</td>
+<td>18</td>
+<td>505,40</td>
+<td>459,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 010C Prótesis para amputación transmetatarsiana o de Lisfranc en silicona con relleno protésico anterior.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">1.485,00</td>
-<td class="cuerpo_tabla_coma">1.350,00</td>
+<td>PIP 010C Prótesis para amputación transmetatarsiana o de Lisfranc en silicona con relleno protésico anterior.</td>
+<td>MED</td>
+<td>18</td>
+<td>1.485,00</td>
+<td>1.350,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">PIP 020 Prótesis para la amputación de Chopart.</p>
+<td rowspan="5">
+<p>PIP 020 Prótesis para la amputación de Chopart.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIP 020A Prótesis para la amputación de Chopart. Botín y relleno anterior de material elástico.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">679,99</td>
-<td class="cuerpo_tabla_coma">618,17</td>
+<td>PIP 020A Prótesis para la amputación de Chopart. Botín y relleno anterior de material elástico.</td>
+<td>MED</td>
+<td>24</td>
+<td>679,99</td>
+<td>618,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 020B Prótesis para la amputación de Chopart. Botín con relleno anatómico y cubierta cosmética.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.130,03</td>
-<td class="cuerpo_tabla_coma">1.027,30</td>
+<td>PIP 020B Prótesis para la amputación de Chopart. Botín con relleno anatómico y cubierta cosmética.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.130,03</td>
+<td>1.027,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 020C Prótesis para amputación de Chopart en silicona con relleno protésico anterior.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.657,42</td>
-<td class="cuerpo_tabla_coma">1.506,75</td>
+<td>PIP 020C Prótesis para amputación de Chopart en silicona con relleno protésico anterior.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.657,42</td>
+<td>1.506,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 020D Prótesis para amputación de Chopart. Encaje laminado en resina acrílica y puntera elástica.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.386,66</td>
-<td class="cuerpo_tabla_coma">1.260,60</td>
+<td>PIP 020D Prótesis para amputación de Chopart. Encaje laminado en resina acrílica y puntera elástica.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.386,66</td>
+<td>1.260,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 020E Prótesis para amputación de Chopart. Encaje laminado en resina acrílica con relleno anatómico y cubierta cosmética.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.647,37</td>
-<td class="cuerpo_tabla_coma">1.497,61</td>
+<td>PIP 020E Prótesis para amputación de Chopart. Encaje laminado en resina acrílica con relleno anatómico y cubierta cosmética.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.647,37</td>
+<td>1.497,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PIP 030 Prótesis para la amputación de Pirogoff.</td>
-<td class="cuerpo_tabla_izq">PIP 030A Prótesis para la amputación de Pirogoff con encaje laminado con relleno protésico anterior en material elástico y base acumuladora de energía.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.626,70</td>
-<td class="cuerpo_tabla_coma">1.478,82</td>
+<td rowspan="3">PIP 030 Prótesis para la amputación de Pirogoff.</td>
+<td>PIP 030A Prótesis para la amputación de Pirogoff con encaje laminado con relleno protésico anterior en material elástico y base acumuladora de energía.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.626,70</td>
+<td>1.478,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 030B Prótesis para la amputación de Pirogoff con encaje laminado con relleno anatómico y cubierta cosmética.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.830,26</td>
-<td class="cuerpo_tabla_coma">1.663,87</td>
+<td>PIP 030B Prótesis para la amputación de Pirogoff con encaje laminado con relleno anatómico y cubierta cosmética.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.830,26</td>
+<td>1.663,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIP 030C Prótesis para la amputación de Pirogoff de silicona, con relleno anterior y base acumuladora de energía.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">MED</p>
+<td>PIP 030C Prótesis para la amputación de Pirogoff de silicona, con relleno anterior y base acumuladora de energía.</td>
+<td>
+<p>MED</p>
 </td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.025,00</td>
-<td class="cuerpo_tabla_coma">2.750,00</td>
+<td>24</td>
+<td>3.025,00</td>
+<td>2.750,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 06 Prótesis de desarticulación del tobillo.</p>
+<p>Subgrupo: 06 24 06 Prótesis de desarticulación del tobillo.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIB 000 Prótesis de desarticulación del tobillo tipo Syme.</td>
-<td class="cuerpo_tabla_izq">PIB 000A Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona, un sistema de suspensión y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.219,41</td>
-<td class="cuerpo_tabla_coma">1.108,55</td>
+<td rowspan="4">PIB 000 Prótesis de desarticulación del tobillo tipo Syme.</td>
+<td>PIB 000A Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona, un sistema de suspensión y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.219,41</td>
+<td>1.108,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIB 000B Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado bivalvo (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.245,71</td>
-<td class="cuerpo_tabla_coma">1.132,46</td>
+<td>PIB 000B Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje laminado bivalvo (Prescribir además un pie tipo Syme a elección y, si lo precisa, una vaina de silicona y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.245,71</td>
+<td>1.132,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIB 000C Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en termoplástico blando (Prescribir además un pie tipo Syme a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.346,51</td>
-<td class="cuerpo_tabla_coma">1.224,10</td>
+<td>PIB 000C Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en termoplástico blando (Prescribir además un pie tipo Syme a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.346,51</td>
+<td>1.224,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIB 000D Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en silicona (Prescribir además un pie tipo Syme a elección y, si lo precisa, una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.678,98</td>
-<td class="cuerpo_tabla_coma">1.526,35</td>
+<td>PIB 000D Prótesis (encaje) de desarticulación de tobillo tipo Syme, con encaje externo rígido y encaje interior flexible en silicona (Prescribir además un pie tipo Syme a elección y, si lo precisa, una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.678,98</td>
+<td>1.526,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIB 900 Vaina (liner) para prótesis de desarticulación de tobillo tipo Syme.</td>
-<td class="cuerpo_tabla_izq">PIB 900A Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.534,50</td>
-<td class="cuerpo_tabla_coma">1.395,00</td>
+<td rowspan="2">PIB 900 Vaina (liner) para prótesis de desarticulación de tobillo tipo Syme.</td>
+<td>PIB 900A Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.534,50</td>
+<td>1.395,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIB 900B Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">561,00</td>
-<td class="cuerpo_tabla_coma">510,00</td>
+<td>PIB 900B Vaina (liner) de silicona para prótesis de desarticulación de tobillo tipo Syme.</td>
+<td>COMP1</td>
+<td>12</td>
+<td>561,00</td>
+<td>510,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 09 Prótesis transtibiales (por debajo de la rodilla).</p>
+<p>Subgrupo: 06 24 09 Prótesis transtibiales (por debajo de la rodilla).</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (código homologado y descripción)</th>
+<th>Tipos de productos (código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIT 000 Prótesis transtibial con encaje PTB.</td>
-<td class="cuerpo_tabla_izq">PIT 000A Prótesis transtibial con encaje PTB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.411,26</td>
-<td class="cuerpo_tabla_coma">1.282,96</td>
+<td rowspan="2">PIT 000 Prótesis transtibial con encaje PTB.</td>
+<td>PIT 000A Prótesis transtibial con encaje PTB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.411,26</td>
+<td>1.282,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 000B Prótesis transtibial con encaje PTB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.324,85</td>
-<td class="cuerpo_tabla_coma">2.113,50</td>
+<td>PIT 000B Prótesis transtibial con encaje PTB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una rodillera de suspensión y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.324,85</td>
+<td>2.113,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIT 010 Prótesis transtibial con encaje TSB.</td>
-<td class="cuerpo_tabla_izq">PIT 010A Prótesis transtibial con encaje TSB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.485,12</td>
-<td class="cuerpo_tabla_coma">1.350,11</td>
+<td rowspan="2">PIT 010 Prótesis transtibial con encaje TSB.</td>
+<td>PIT 010A Prótesis transtibial con encaje TSB (Prescribir además una estructura endoesquelética, un sistema de suspensión, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.485,12</td>
+<td>1.350,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 010B Prótesis transtibial con encaje TSB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.392,74</td>
-<td class="cuerpo_tabla_coma">2.175,22</td>
+<td>PIT 010B Prótesis transtibial con encaje TSB y estructura exoesquelética (Prescribir además un sistema de suspensión, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.392,74</td>
+<td>2.175,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIT 020 Prótesis transtibial con encaje KBM.</td>
-<td class="cuerpo_tabla_izq">PIT 020A Prótesis transtibial con encaje KBM (Prescribir además una estructura endoesquelética, un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión, una funda y una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.522,35</td>
-<td class="cuerpo_tabla_coma">1.383,95</td>
+<td rowspan="2">PIT 020 Prótesis transtibial con encaje KBM.</td>
+<td>PIT 020A Prótesis transtibial con encaje KBM (Prescribir además una estructura endoesquelética, un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión, una funda y una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.522,35</td>
+<td>1.383,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 020B Prótesis transtibial con encaje KBM y estructura exoesquelética (Prescribir además un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.343,81</td>
-<td class="cuerpo_tabla_coma">2.130,74</td>
+<td>PIT 020B Prótesis transtibial con encaje KBM y estructura exoesquelética (Prescribir además un pie a elección y, si lo precisa, una vaina, una rodillera de suspensión y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.343,81</td>
+<td>2.130,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PIT 900 Estructura para prótesis transtibial.</td>
-<td class="cuerpo_tabla_izq">PIT 900A Estructura endoesquelética para prótesis transtibial, para usuarios hasta 45 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">831,64</td>
-<td class="cuerpo_tabla_coma">756,04</td>
+<td rowspan="6">PIT 900 Estructura para prótesis transtibial.</td>
+<td>PIT 900A Estructura endoesquelética para prótesis transtibial, para usuarios hasta 45 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>831,64</td>
+<td>756,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 900B Estructura endoesquelética para prótesis transtibial, para usuarios entre 45 y 66 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">855,01</td>
-<td class="cuerpo_tabla_coma">777,28</td>
+<td>PIT 900B Estructura endoesquelética para prótesis transtibial, para usuarios entre 45 y 66 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>855,01</td>
+<td>777,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 900C Estructura endoesquelética para prótesis transtibial, para usuarios entre 66 y 100 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">865,82</td>
-<td class="cuerpo_tabla_coma">787,11</td>
+<td>PIT 900C Estructura endoesquelética para prótesis transtibial, para usuarios entre 66 y 100 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>865,82</td>
+<td>787,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 900D Estructura endoesquelética para prótesis transtibial, para usuarios entre 100 y 125 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">931,51</td>
-<td class="cuerpo_tabla_coma">846,83</td>
+<td>PIT 900D Estructura endoesquelética para prótesis transtibial, para usuarios entre 100 y 125 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>931,51</td>
+<td>846,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 900E Estructura endoesquelética para prótesis transtibial, para usuarios entre 125 y 166 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.064,93</td>
-<td class="cuerpo_tabla_coma">968,12</td>
+<td>PIT 900E Estructura endoesquelética para prótesis transtibial, para usuarios entre 125 y 166 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.064,93</td>
+<td>968,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 900F Estructura exoesquelética para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.276,00</td>
-<td class="cuerpo_tabla_coma">1.160,00</td>
+<td>PIT 900F Estructura exoesquelética para prótesis transtibial.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.276,00</td>
+<td>1.160,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIT 910 Encaje tibial.</td>
-<td class="cuerpo_tabla_izq">PIT 910A Encaje PTB. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.558,33</td>
-<td class="cuerpo_tabla_coma">1.416,66</td>
+<td rowspan="4">PIT 910 Encaje tibial.</td>
+<td>PIT 910A Encaje PTB. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.558,33</td>
+<td>1.416,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 910B Encaje TSB. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.667,42</td>
-<td class="cuerpo_tabla_coma">1.515,84</td>
+<td>PIT 910B Encaje TSB. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.667,42</td>
+<td>1.515,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 910C Encaje KBM. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.731,58</td>
-<td class="cuerpo_tabla_coma">1.574,16</td>
+<td>PIT 910C Encaje KBM. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.731,58</td>
+<td>1.574,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 910D Encaje interno en termoplástico blando o semigoma para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">451,92</td>
-<td class="cuerpo_tabla_coma">410,84</td>
+<td>PIT 910D Encaje interno en termoplástico blando o semigoma para prótesis transtibial.</td>
+<td>MED</td>
+<td>12</td>
+<td>451,92</td>
+<td>410,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">PIT 920 Vaina (liner) para prótesis transtibial.</td>
-<td class="cuerpo_tabla_izq">PIT 920A Vaina interna (liner) de silicona para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">512,97</td>
-<td class="cuerpo_tabla_coma">466,34</td>
+<td rowspan="5">PIT 920 Vaina (liner) para prótesis transtibial.</td>
+<td>PIT 920A Vaina interna (liner) de silicona para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>512,97</td>
+<td>466,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 920B Vaina interna (liner) de uretano para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">486,69</td>
-<td class="cuerpo_tabla_coma">442,45</td>
+<td>PIT 920B Vaina interna (liner) de uretano para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>486,69</td>
+<td>442,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 920C Vaina interna (liner) en gel para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">439,45</td>
-<td class="cuerpo_tabla_coma">399,50</td>
+<td>PIT 920C Vaina interna (liner) en gel para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>439,45</td>
+<td>399,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 920D Vaina interna (liner) de silicona para prótesis transtibial, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">1.595,00</td>
-<td class="cuerpo_tabla_coma">1.450,00</td>
+<td>PIT 920D Vaina interna (liner) de silicona para prótesis transtibial, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td>MED</td>
+<td>6</td>
+<td>1.595,00</td>
+<td>1.450,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 920E Vaina (liner) pediátrica para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">717,82</td>
-<td class="cuerpo_tabla_coma">652,56</td>
+<td>PIT 920E Vaina (liner) pediátrica para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>717,82</td>
+<td>652,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">PIT 930 Sistemas de suspensión mecánicos para prótesis transtibial.</td>
-<td class="cuerpo_tabla_izq">PIT 930A Correa de suspensión para PTB.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">132,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
+<td rowspan="5">PIT 930 Sistemas de suspensión mecánicos para prótesis transtibial.</td>
+<td>PIT 930A Correa de suspensión para PTB.</td>
+<td>COMP1</td>
+<td>12</td>
+<td>132,00</td>
+<td>120,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 930B Correa de suspensión para PTB, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">189,20</td>
-<td class="cuerpo_tabla_coma">172,00</td>
+<td>PIT 930B Correa de suspensión para PTB, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>189,20</td>
+<td>172,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 930C Corselete femoral con barras articuladas.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">707,03</td>
-<td class="cuerpo_tabla_coma">642,75</td>
+<td>PIT 930C Corselete femoral con barras articuladas.</td>
+<td>MED</td>
+<td>12</td>
+<td>707,03</td>
+<td>642,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 930D Rodillera de suspensión elástica tipo neopreno o tejido.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">64,17</td>
-<td class="cuerpo_tabla_coma">58,34</td>
+<td>PIT 930D Rodillera de suspensión elástica tipo neopreno o tejido.</td>
+<td>COMP1</td>
+<td>12</td>
+<td>64,17</td>
+<td>58,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 930E Rodillera de suspensión para vacío.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">162,80</td>
-<td class="cuerpo_tabla_coma">148,00</td>
+<td>PIT 930E Rodillera de suspensión para vacío.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>162,80</td>
+<td>148,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIT 940 Sistemas de suspensión de vacío pasivo para prótesis transtibial.</td>
-<td class="cuerpo_tabla_izq">PIT 940A Suspensión por válvula de una vía manual para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">97,90</td>
-<td class="cuerpo_tabla_coma">89,00</td>
+<td rowspan="4">PIT 940 Sistemas de suspensión de vacío pasivo para prótesis transtibial.</td>
+<td>PIT 940A Suspensión por válvula de una vía manual para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>18</td>
+<td>97,90</td>
+<td>89,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 940B Suspensión por válvula de una vía automática para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">127,32</td>
-<td class="cuerpo_tabla_coma">115,75</td>
+<td>PIT 940B Suspensión por válvula de una vía automática para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>18</td>
+<td>127,32</td>
+<td>115,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">770,00</td>
-<td class="cuerpo_tabla_coma">700,00</td>
+<td>PIT 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>770,00</td>
+<td>700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">855,48</td>
-<td class="cuerpo_tabla_coma">777,71</td>
+<td>PIT 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>855,48</td>
+<td>777,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 950 Sistemas de suspensión de vacío activo para prótesis transtibial.</td>
-<td class="cuerpo_tabla_izq">PIT 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.870,00</td>
-<td class="cuerpo_tabla_coma">1.700,00</td>
+<td>PIT 950 Sistemas de suspensión de vacío activo para prótesis transtibial.</td>
+<td>PIT 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.870,00</td>
+<td>1.700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">PIT 960 Otros componentes y accesorios de prótesis transtibiales.</td>
-<td class="cuerpo_tabla_izq">PIT 960A Funda cosmética externa para prótesis endoesquelética transtibial.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">272,85</td>
-<td class="cuerpo_tabla_coma">248,05</td>
+<td rowspan="5">PIT 960 Otros componentes y accesorios de prótesis transtibiales.</td>
+<td>PIT 960A Funda cosmética externa para prótesis endoesquelética transtibial.</td>
+<td>MED</td>
+<td>12</td>
+<td>272,85</td>
+<td>248,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 960B Media para prótesis endoesquelética transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">32,82</td>
-<td class="cuerpo_tabla_coma">29,84</td>
+<td>PIT 960B Media para prótesis endoesquelética transtibial.</td>
+<td>COMP1</td>
+<td>12</td>
+<td>32,82</td>
+<td>29,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">540,54</td>
-<td class="cuerpo_tabla_coma">491,40</td>
+<td>PIT 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transtibial.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>540,54</td>
+<td>491,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">770,00</td>
-<td class="cuerpo_tabla_coma">700,00</td>
+<td>PIT 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transtibial.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>770,00</td>
+<td>700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIT 960E Copas distales para muñones cónicos.</td>
-<td class="cuerpo_tabla_centro">COMP 1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">242,00</td>
-<td class="cuerpo_tabla_coma">220,00</td>
+<td>PIT 960E Copas distales para muñones cónicos.</td>
+<td>COMP 1</td>
+<td>12</td>
+<td>242,00</td>
+<td>220,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 12 Prótesis de desarticulación de rodilla.</p>
+<p>Subgrupo: 06 24 12 Prótesis de desarticulación de rodilla.</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (código homologado y descripción)</th>
+<th>Tipos de productos (código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIR 000 Prótesis de desarticulación de rodilla con apoyo distal.</td>
-<td class="cuerpo_tabla_izq">PIR 000A Prótesis de desarticulación de rodilla con encaje externo con apoyo distal (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.948,54</td>
-<td class="cuerpo_tabla_coma">1.771,40</td>
+<td rowspan="2">PIR 000 Prótesis de desarticulación de rodilla con apoyo distal.</td>
+<td>PIR 000A Prótesis de desarticulación de rodilla con encaje externo con apoyo distal (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.948,54</td>
+<td>1.771,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 000B Prótesis de desarticulación de rodilla con encaje externo con apoyo distal y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.887,04</td>
-<td class="cuerpo_tabla_coma">2.624,58</td>
+<td>PIR 000B Prótesis de desarticulación de rodilla con encaje externo con apoyo distal y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.887,04</td>
+<td>2.624,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIR 010 Prótesis de desarticulación de rodilla con apoyo isquiático.</td>
-<td class="cuerpo_tabla_izq">PIR 010A Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.034,60</td>
-<td class="cuerpo_tabla_coma">1.849,64</td>
+<td rowspan="2">PIR 010 Prótesis de desarticulación de rodilla con apoyo isquiático.</td>
+<td>PIR 010A Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático (Prescribir además estructura endoesquelética, un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.034,60</td>
+<td>1.849,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 010B Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.017,04</td>
-<td class="cuerpo_tabla_coma">2.742,76</td>
+<td>PIR 010B Prótesis de desarticulación de rodilla con encaje externo con apoyo isquiático y estructura exoesquelética (Prescribir además un encaje interno y/o vaina, una articulación de rodilla, un pie a elección y, si lo precisa, un sistema de suspensión y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.017,04</td>
+<td>2.742,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PIR 900 Estructura para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_izq">PIR 900A Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios hasta 45 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">967,86</td>
-<td class="cuerpo_tabla_coma">879,87</td>
+<td rowspan="6">PIR 900 Estructura para prótesis de desarticulación de rodilla.</td>
+<td>PIR 900A Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios hasta 45 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>967,86</td>
+<td>879,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 900B Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 45 y 66 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.018,29</td>
-<td class="cuerpo_tabla_coma">925,72</td>
+<td>PIR 900B Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 45 y 66 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.018,29</td>
+<td>925,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 900C Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 66 y 100 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.054,04</td>
-<td class="cuerpo_tabla_coma">958,22</td>
+<td>PIR 900C Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 66 y 100 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.054,04</td>
+<td>958,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 900D Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 100 y 125 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.098,37</td>
-<td class="cuerpo_tabla_coma">998,52</td>
+<td>PIR 900D Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 100 y 125 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.098,37</td>
+<td>998,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 900E Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 125 y 166 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.116,70</td>
-<td class="cuerpo_tabla_coma">1.015,18</td>
+<td>PIR 900E Estructura endoesquelética para prótesis de desarticulación de rodilla, para usuarios entre 125 y 166 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.116,70</td>
+<td>1.015,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 900F Estructura exoesquelética para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.390,40</td>
-<td class="cuerpo_tabla_coma">1.264,00</td>
+<td>PIR 900F Estructura exoesquelética para prótesis de desarticulación de rodilla.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.390,40</td>
+<td>1.264,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIR 910 Encaje para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_izq">PIR 910A Encaje externo para prótesis de desarticulación de rodilla con apoyo distal. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.168,28</td>
-<td class="cuerpo_tabla_coma">1.971,16</td>
+<td rowspan="4">PIR 910 Encaje para prótesis de desarticulación de rodilla.</td>
+<td>PIR 910A Encaje externo para prótesis de desarticulación de rodilla con apoyo distal. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.168,28</td>
+<td>1.971,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 910B Encaje externo para prótesis de desarticulación de rodilla con apoyo isquiático. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.316,78</td>
-<td class="cuerpo_tabla_coma">2.106,16</td>
+<td>PIR 910B Encaje externo para prótesis de desarticulación de rodilla con apoyo isquiático. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.316,78</td>
+<td>2.106,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 910C Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">815,83</td>
-<td class="cuerpo_tabla_coma">741,66</td>
+<td>PIR 910C Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de rodilla.</td>
+<td>MED</td>
+<td>12</td>
+<td>815,83</td>
+<td>741,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 910D Encaje interno en silicona para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.862,67</td>
-<td class="cuerpo_tabla_coma">1.693,34</td>
+<td>PIR 910D Encaje interno en silicona para prótesis de desarticulación de rodilla.</td>
+<td>MED</td>
+<td>12</td>
+<td>1.862,67</td>
+<td>1.693,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">PIR 920 Vaina (liner) para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_izq">PIR 920A Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">692,11</td>
-<td class="cuerpo_tabla_coma">629,19</td>
+<td rowspan="5">PIR 920 Vaina (liner) para prótesis de desarticulación de rodilla.</td>
+<td>PIR 920A Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>692,11</td>
+<td>629,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 920B Vaina interna (liner) de uretano para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">486,69</td>
-<td class="cuerpo_tabla_coma">442,45</td>
+<td>PIR 920B Vaina interna (liner) de uretano para prótesis de desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>486,69</td>
+<td>442,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 920C Vaina interna (liner) de gel para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">506,66</td>
-<td class="cuerpo_tabla_coma">460,60</td>
+<td>PIR 920C Vaina interna (liner) de gel para prótesis de desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>506,66</td>
+<td>460,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 920D Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">1.650,00</td>
-<td class="cuerpo_tabla_coma">1.500,00</td>
+<td>PIR 920D Vaina interna (liner) de silicona para prótesis de desarticulación de rodilla, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td>MED</td>
+<td>6</td>
+<td>1.650,00</td>
+<td>1.500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 920E Vaina interna (liner) pediátrica para prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">717,82</td>
-<td class="cuerpo_tabla_coma">652,56</td>
+<td>PIR 920E Vaina interna (liner) pediátrica para prótesis de desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>717,82</td>
+<td>652,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIR 930 Otros componentes y accesorios de prótesis de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_izq">PIR 930A Funda cosmética externa para prótesis endoesquelética de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">385,00</td>
-<td class="cuerpo_tabla_coma">350,00</td>
+<td rowspan="4">PIR 930 Otros componentes y accesorios de prótesis de desarticulación de rodilla.</td>
+<td>PIR 930A Funda cosmética externa para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td>MED</td>
+<td>12</td>
+<td>385,00</td>
+<td>350,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 930B Media para prótesis endoesquelética de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">35,31</td>
-<td class="cuerpo_tabla_coma">32,10</td>
+<td>PIR 930B Media para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td>COMP1</td>
+<td>12</td>
+<td>35,31</td>
+<td>32,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 930C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">621,50</td>
-<td class="cuerpo_tabla_coma">565,00</td>
+<td>PIR 930C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>621,50</td>
+<td>565,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIR 930D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética de desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">1.045,00</td>
-<td class="cuerpo_tabla_coma">950,00</td>
+<td>PIR 930D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética de desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>1.045,00</td>
+<td>950,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 15 Prótesis transfemorales (por encima de la rodilla)</p>
+<p>Subgrupo: 06 24 15 Prótesis transfemorales (por encima de la rodilla)</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (código homologado y descripción)</th>
+<th>Tipos de productos (código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIF 000 Prótesis transfemoral con encaje cuadrangular.</td>
-<td class="cuerpo_tabla_izq">PIF 000A Prótesis transfemoral con encaje cuadrangular (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.134,89</td>
-<td class="cuerpo_tabla_coma">1.940,81</td>
+<td rowspan="2">PIF 000 Prótesis transfemoral con encaje cuadrangular.</td>
+<td>PIF 000A Prótesis transfemoral con encaje cuadrangular (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.134,89</td>
+<td>1.940,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 000B Prótesis transfemoral con encaje cuadrangular y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.189,62</td>
-<td class="cuerpo_tabla_coma">2.899,65</td>
+<td>PIF 000B Prótesis transfemoral con encaje cuadrangular y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.189,62</td>
+<td>2.899,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIF 010 Prótesis transfemoral con encaje cuadrangular ISNY.</td>
-<td class="cuerpo_tabla_izq">PIF 010A Prótesis transfemoral con encaje cuadrangular ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.391,72</td>
-<td class="cuerpo_tabla_coma">2.174,29</td>
+<td rowspan="2">PIF 010 Prótesis transfemoral con encaje cuadrangular ISNY.</td>
+<td>PIF 010A Prótesis transfemoral con encaje cuadrangular ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.391,72</td>
+<td>2.174,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 010B Prótesis transfemoral con encaje cuadrangular ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.649,21</td>
-<td class="cuerpo_tabla_coma">3.317,46</td>
+<td>PIF 010B Prótesis transfemoral con encaje cuadrangular ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.649,21</td>
+<td>3.317,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIF 020 Prótesis transfemoral con encaje CAT-CAM.</td>
-<td class="cuerpo_tabla_izq">PIF 020A Prótesis transfemoral con encaje CAT-CAM (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.460,57</td>
-<td class="cuerpo_tabla_coma">2.236,88</td>
+<td rowspan="2">PIF 020 Prótesis transfemoral con encaje CAT-CAM.</td>
+<td>PIF 020A Prótesis transfemoral con encaje CAT-CAM (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.460,57</td>
+<td>2.236,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 020B Prótesis transfemoral con encaje CAT-CAM y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.677,53</td>
-<td class="cuerpo_tabla_coma">3.343,21</td>
+<td>PIF 020B Prótesis transfemoral con encaje CAT-CAM y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.677,53</td>
+<td>3.343,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIF 030 Prótesis transfemoral con encaje CAT-CAM ISNY.</td>
-<td class="cuerpo_tabla_izq">PIF 030A Prótesis transfemoral con encaje CAT-CAM ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.198,67</td>
-<td class="cuerpo_tabla_coma">2.907,88</td>
+<td rowspan="2">PIF 030 Prótesis transfemoral con encaje CAT-CAM ISNY.</td>
+<td>PIF 030A Prótesis transfemoral con encaje CAT-CAM ISNY (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.198,67</td>
+<td>2.907,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 030B Prótesis transfemoral con encaje CAT-CAM ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">4.261,43</td>
-<td class="cuerpo_tabla_coma">3.874,03</td>
+<td>PIF 030B Prótesis transfemoral con encaje CAT-CAM ISNY y estructura exoesquelética (Prescribir además un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, una vaina y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>4.261,43</td>
+<td>3.874,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 040 Prótesis transfemoral con encaje de contacto total.</td>
-<td class="cuerpo_tabla_izq">PIF 040A Prótesis transfemoral con encaje externo de contacto total (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.296,77</td>
-<td class="cuerpo_tabla_coma">2.087,97</td>
+<td>PIF 040 Prótesis transfemoral con encaje de contacto total.</td>
+<td>PIF 040A Prótesis transfemoral con encaje externo de contacto total (Prescribir además una estructura endoesquelética, un sistema de suspensión, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno y/o vaina, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.296,77</td>
+<td>2.087,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PIF 900 Estructura para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_izq">PIF 900A Estructura endoesquelética para prótesis transfemorales, para usuarios hasta 45 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">980,69</td>
-<td class="cuerpo_tabla_coma">891,54</td>
+<td rowspan="6">PIF 900 Estructura para prótesis transfemoral.</td>
+<td>PIF 900A Estructura endoesquelética para prótesis transfemorales, para usuarios hasta 45 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>980,69</td>
+<td>891,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 900B Estructura endoesquelética para prótesis transfemorales, para usuarios entre 45 y 66 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">921,12</td>
-<td class="cuerpo_tabla_coma">837,38</td>
+<td>PIF 900B Estructura endoesquelética para prótesis transfemorales, para usuarios entre 45 y 66 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>921,12</td>
+<td>837,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 900C Estructura endoesquelética para prótesis transfemorales, para usuarios entre 66 y 100 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.068,71</td>
-<td class="cuerpo_tabla_coma">971,55</td>
+<td>PIF 900C Estructura endoesquelética para prótesis transfemorales, para usuarios entre 66 y 100 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.068,71</td>
+<td>971,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 900D Estructura endoesquelética para prótesis transfemorales, para usuarios entre 100 y 125 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.101,12</td>
-<td class="cuerpo_tabla_coma">1.001,02</td>
+<td>PIF 900D Estructura endoesquelética para prótesis transfemorales, para usuarios entre 100 y 125 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.101,12</td>
+<td>1.001,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 900E Estructura endoesquelética para prótesis transfemorales, para usuarios entre 125 y 166 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.124,95</td>
-<td class="cuerpo_tabla_coma">1.022,68</td>
+<td>PIF 900E Estructura endoesquelética para prótesis transfemorales, para usuarios entre 125 y 166 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.124,95</td>
+<td>1.022,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 900F Estructura exoesquelética para prótesis transfemorales.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.564,20</td>
-<td class="cuerpo_tabla_coma">1.422,00</td>
+<td>PIF 900F Estructura exoesquelética para prótesis transfemorales.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.564,20</td>
+<td>1.422,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">PIF 910 Encaje femoral.</td>
-<td class="cuerpo_tabla_izq">PIF 910A Encaje externo cuadrangular. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.337,50</td>
-<td class="cuerpo_tabla_coma">2.125,00</td>
+<td rowspan="6">PIF 910 Encaje femoral.</td>
+<td>PIF 910A Encaje externo cuadrangular. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.337,50</td>
+<td>2.125,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 910B Encaje externo cuadrangular ISNY. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.744,50</td>
-<td class="cuerpo_tabla_coma">2.495,00</td>
+<td>PIF 910B Encaje externo cuadrangular ISNY. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.744,50</td>
+<td>2.495,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 910C Encaje externo CAT-CAM. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.707,83</td>
-<td class="cuerpo_tabla_coma">2.461,66</td>
+<td>PIF 910C Encaje externo CAT-CAM. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.707,83</td>
+<td>2.461,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 910D Encaje externo CAT-CAM ISNY. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">3.138,67</td>
-<td class="cuerpo_tabla_coma">2.853,34</td>
+<td>PIF 910D Encaje externo CAT-CAM ISNY. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>3.138,67</td>
+<td>2.853,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 910E Encaje externo de contacto total para prótesis transfemoral. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.678,50</td>
-<td class="cuerpo_tabla_coma">2.435,00</td>
+<td>PIF 910E Encaje externo de contacto total para prótesis transfemoral. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.678,50</td>
+<td>2.435,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 910F Encaje interno de termoplástico blando o semigoma para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">491,33</td>
-<td class="cuerpo_tabla_coma">446,66</td>
+<td>PIF 910F Encaje interno de termoplástico blando o semigoma para prótesis transfemoral.</td>
+<td>MED</td>
+<td>12</td>
+<td>491,33</td>
+<td>446,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIF 920 Vaina (liner) para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_izq">PIF 920A Vaina interna (liner) de silicona para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">585,75</td>
-<td class="cuerpo_tabla_coma">532,50</td>
+<td rowspan="4">PIF 920 Vaina (liner) para prótesis transfemoral.</td>
+<td>PIF 920A Vaina interna (liner) de silicona para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>585,75</td>
+<td>532,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 920B Vaina interna (liner) en gel para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">575,83</td>
-<td class="cuerpo_tabla_coma">523,48</td>
+<td>PIF 920B Vaina interna (liner) en gel para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>575,83</td>
+<td>523,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 920C Vaina interna (liner) de silicona para prótesis transfemoral, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">1.595,00</td>
-<td class="cuerpo_tabla_coma">1.450,00</td>
+<td>PIF 920C Vaina interna (liner) de silicona para prótesis transfemoral, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</td>
+<td>MED</td>
+<td>6</td>
+<td>1.595,00</td>
+<td>1.450,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 920D Vaina interna (liner) pediátrica para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">717,82</td>
-<td class="cuerpo_tabla_coma">652,56</td>
+<td>PIF 920D Vaina interna (liner) pediátrica para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>717,82</td>
+<td>652,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIF 930 Sistemas de suspensión mecánicos para prótesis transfemoral<sup>*</sup>.</td>
-<td class="cuerpo_tabla_izq">PIF 930A Sistema de suspensión con cinturón y correa lateral para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">187,79</td>
-<td class="cuerpo_tabla_coma">170,72</td>
+<td rowspan="4">PIF 930 Sistemas de suspensión mecánicos para prótesis transfemoral<sup>*</sup>.</td>
+<td>PIF 930A Sistema de suspensión con cinturón y correa lateral para prótesis transfemoral.</td>
+<td>MED</td>
+<td>12</td>
+<td>187,79</td>
+<td>170,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 930B Sistema de suspensión con cinturón, correa lateral y medial y poleilla para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">272,36</td>
-<td class="cuerpo_tabla_coma">247,60</td>
+<td>PIF 930B Sistema de suspensión con cinturón, correa lateral y medial y poleilla para prótesis transfemoral.</td>
+<td>MED</td>
+<td>12</td>
+<td>272,36</td>
+<td>247,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 930C Sistema de suspensión por correa distal para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">298,85</td>
-<td class="cuerpo_tabla_coma">271,68</td>
+<td>PIF 930C Sistema de suspensión por correa distal para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>298,85</td>
+<td>271,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 930D Sistema de sujeción femoral elástico tipo neopreno o tejido para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">154,06</td>
-<td class="cuerpo_tabla_coma">140,05</td>
+<td>PIF 930D Sistema de sujeción femoral elástico tipo neopreno o tejido para prótesis transfemoral.</td>
+<td>COMP0</td>
+<td>18</td>
+<td>154,06</td>
+<td>140,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIF 940 Sistemas de suspensión de vacío pasivos para prótesis transfemoral<sup>*</sup>.</td>
-<td class="cuerpo_tabla_izq">PIF 940A Suspensión por válvula de una vía manual para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">97,90</td>
-<td class="cuerpo_tabla_coma">89,00</td>
+<td rowspan="4">PIF 940 Sistemas de suspensión de vacío pasivos para prótesis transfemoral<sup>*</sup>.</td>
+<td>PIF 940A Suspensión por válvula de una vía manual para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>18</td>
+<td>97,90</td>
+<td>89,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 940B Suspensión por válvula de una vía automática para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">127,32</td>
-<td class="cuerpo_tabla_coma">115,75</td>
+<td>PIF 940B Suspensión por válvula de una vía automática para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>18</td>
+<td>127,32</td>
+<td>115,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">770,00</td>
-<td class="cuerpo_tabla_coma">700,00</td>
+<td>PIF 940C Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con un aro de sellado, para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>770,00</td>
+<td>700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">985,81</td>
-<td class="cuerpo_tabla_coma">896,19</td>
+<td>PIF 940D Sistema de suspensión hipobárica mediante vaina interna (liner) de silicona con más de un aro de sellado, para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>985,81</td>
+<td>896,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 950 Sistemas de suspensión de vacío activo para prótesis transfemoral<sup>*</sup>.</td>
-<td class="cuerpo_tabla_izq">PIF 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.266,00</td>
-<td class="cuerpo_tabla_coma">2.060,00</td>
+<td>PIF 950 Sistemas de suspensión de vacío activo para prótesis transfemoral<sup>*</sup>.</td>
+<td>PIF 950A Sistema de suspensión de vacío activo de alta presión mecánico, para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>2.266,00</td>
+<td>2.060,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PIF 960 Otros componentes y accesorios de prótesis transfemorales.</td>
-<td class="cuerpo_tabla_izq">PIF 960A Funda cosmética para prótesis endoesquelética transfemoral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">550,00</td>
-<td class="cuerpo_tabla_coma">500,00</td>
+<td rowspan="4">PIF 960 Otros componentes y accesorios de prótesis transfemorales.</td>
+<td>PIF 960A Funda cosmética para prótesis endoesquelética transfemoral.</td>
+<td>MED</td>
+<td>12</td>
+<td>550,00</td>
+<td>500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 960B Media para prótesis endoesquelética transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">42,24</td>
-<td class="cuerpo_tabla_coma">38,40</td>
+<td>PIF 960B Media para prótesis endoesquelética transfemoral.</td>
+<td>COMP1</td>
+<td>12</td>
+<td>42,24</td>
+<td>38,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">605,00</td>
-<td class="cuerpo_tabla_coma">550,00</td>
+<td>PIF 960C Cubierta cosmética de revestimiento en PVC para prótesis endoesquelética transfemoral.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>605,00</td>
+<td>550,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIF 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">935,00</td>
-<td class="cuerpo_tabla_coma">850,00</td>
+<td>PIF 960D Cubierta cosmética de revestimiento en silicona para prótesis endoesquelética transfemoral.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>935,00</td>
+<td>850,00</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita"><sup>* </sup>Estos sistemas de suspensión se podrán utilizar también para las prótesis de desarticulación de rodilla.</p>
+<p><sup>* </sup>Estos sistemas de suspensión se podrán utilizar también para las prótesis de desarticulación de rodilla.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 18 Prótesis de desarticulación de cadera.</p>
+<p>Subgrupo: 06 24 18 Prótesis de desarticulación de cadera.</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (código homologado y descripción)</th>
+<th>Tipos de productos (código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 000 Prótesis de desarticulación de cadera con encaje pélvico.</td>
-<td class="cuerpo_tabla_izq">PIC 000A Prótesis de desarticulación de cadera con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.174,35</td>
-<td class="cuerpo_tabla_coma">2.885,77</td>
+<td>PIC 000 Prótesis de desarticulación de cadera con encaje pélvico.</td>
+<td>PIC 000A Prótesis de desarticulación de cadera con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.174,35</td>
+<td>2.885,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">PIC 900 Estructura para prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_izq">PIC 900A Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios hasta 45 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.697,30</td>
-<td class="cuerpo_tabla_coma">1.543,00</td>
+<td rowspan="5">PIC 900 Estructura para prótesis de desarticulación de cadera.</td>
+<td>PIC 900A Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios hasta 45 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.697,30</td>
+<td>1.543,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 900B Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 45 y 66 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.741,30</td>
-<td class="cuerpo_tabla_coma">1.583,00</td>
+<td>PIC 900B Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 45 y 66 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.741,30</td>
+<td>1.583,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 900C Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 66 y 100 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.763,30</td>
-<td class="cuerpo_tabla_coma">1.603,00</td>
+<td>PIC 900C Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 66 y 100 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.763,30</td>
+<td>1.603,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 900D Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 100 y 125 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.795,20</td>
-<td class="cuerpo_tabla_coma">1.632,00</td>
+<td>PIC 900D Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 100 y 125 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.795,20</td>
+<td>1.632,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 900E Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 125 y 166 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.815,00</td>
-<td class="cuerpo_tabla_coma">1.650,00</td>
+<td>PIC 900E Estructura endoesquelética para prótesis de desarticulación de cadera, para usuarios entre 125 y 166 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.815,00</td>
+<td>1.650,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PIC 910 Encaje para prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_izq">PIC 910A Encaje externo para prótesis de desarticulación de cadera. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">3.556,67</td>
-<td class="cuerpo_tabla_coma">3.233,34</td>
+<td rowspan="3">PIC 910 Encaje para prótesis de desarticulación de cadera.</td>
+<td>PIC 910A Encaje externo para prótesis de desarticulación de cadera. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>3.556,67</td>
+<td>3.233,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 910B Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">870,83</td>
-<td class="cuerpo_tabla_coma">791,66</td>
+<td>PIC 910B Encaje interno en termoplástico blando o semigoma para prótesis de desarticulación de cadera.</td>
+<td>MED</td>
+<td>12</td>
+<td>870,83</td>
+<td>791,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 910C Encaje interno de silicona para prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.457,58</td>
-<td class="cuerpo_tabla_coma">2.234,16</td>
+<td>PIC 910C Encaje interno de silicona para prótesis de desarticulación de cadera.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.457,58</td>
+<td>2.234,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIC 920 Otros componentes y accesorios de prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_izq">PIC 920A Funda cosmética para prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">586,29</td>
-<td class="cuerpo_tabla_coma">532,99</td>
+<td rowspan="2">PIC 920 Otros componentes y accesorios de prótesis de desarticulación de cadera.</td>
+<td>PIC 920A Funda cosmética para prótesis de desarticulación de cadera.</td>
+<td>MED</td>
+<td>12</td>
+<td>586,29</td>
+<td>532,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIC 920B Media para prótesis de desarticulación de cadera.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">99,87</td>
-<td class="cuerpo_tabla_coma">90,79</td>
+<td>PIC 920B Media para prótesis de desarticulación de cadera.</td>
+<td>MED</td>
+<td>12</td>
+<td>99,87</td>
+<td>90,79</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 21 Prótesis de hemipelvectomía.</p>
+<p>Subgrupo: 06 24 21 Prótesis de hemipelvectomía.</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 000 Prótesis de hemipelvectomía con encaje pélvico.</td>
-<td class="cuerpo_tabla_izq">PIV 000A Prótesis de hemipelvectomía con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.382,87</td>
-<td class="cuerpo_tabla_coma">3.075,34</td>
+<td>PIV 000 Prótesis de hemipelvectomía con encaje pélvico.</td>
+<td>PIV 000A Prótesis de hemipelvectomía con encaje pélvico (Prescribir además una estructura endoesquelética, una articulación de cadera, una articulación de rodilla, un pie a elección y, si lo precisa, un encaje interno, una funda y una media).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.382,87</td>
+<td>3.075,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">PIV 900 Estructura para prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_izq">PIV 900A Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios hasta 45 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.723,70</td>
-<td class="cuerpo_tabla_coma">1.567,00</td>
+<td rowspan="5">PIV 900 Estructura para prótesis de hemipelvectomía.</td>
+<td>PIV 900A Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios hasta 45 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.723,70</td>
+<td>1.567,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 900B Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 45 y 66 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.767,70</td>
-<td class="cuerpo_tabla_coma">1.607,00</td>
+<td>PIV 900B Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 45 y 66 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.767,70</td>
+<td>1.607,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 900C Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 66 y 100 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.789,70</td>
-<td class="cuerpo_tabla_coma">1.627,00</td>
+<td>PIV 900C Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 66 y 100 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.789,70</td>
+<td>1.627,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 900D Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 100 y 125 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.832,60</td>
-<td class="cuerpo_tabla_coma">1.666,00</td>
+<td>PIV 900D Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 100 y 125 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.832,60</td>
+<td>1.666,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 900E Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 125 y 166 kg de peso.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.849,10</td>
-<td class="cuerpo_tabla_coma">1.681,00</td>
+<td>PIV 900E Estructura endoesquelética para prótesis de hemipelvectomía, para usuarios entre 125 y 166 kg de peso.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.849,10</td>
+<td>1.681,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PIV 910 Encaje para prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_izq">PIV 910A Encaje externo para prótesis de hemipelvectomía. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">3.721,67</td>
-<td class="cuerpo_tabla_coma">3.383,34</td>
+<td rowspan="3">PIV 910 Encaje para prótesis de hemipelvectomía.</td>
+<td>PIV 910A Encaje externo para prótesis de hemipelvectomía. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>12</td>
+<td>3.721,67</td>
+<td>3.383,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 910B Encaje interno en termoplástico blando o semigoma para prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">906,58</td>
-<td class="cuerpo_tabla_coma">824,16</td>
+<td>PIV 910B Encaje interno en termoplástico blando o semigoma para prótesis de hemipelvectomía.</td>
+<td>MED</td>
+<td>12</td>
+<td>906,58</td>
+<td>824,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 910C Encaje interno de silicona para prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">2.731,67</td>
-<td class="cuerpo_tabla_coma">2.483,34</td>
+<td>PIV 910C Encaje interno de silicona para prótesis de hemipelvectomía.</td>
+<td>MED</td>
+<td>12</td>
+<td>2.731,67</td>
+<td>2.483,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIV 920 Otros componentes y accesorios de prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_izq">PIV 920A Funda cosmética para prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">590,35</td>
-<td class="cuerpo_tabla_coma">536,68</td>
+<td rowspan="2">PIV 920 Otros componentes y accesorios de prótesis de hemipelvectomía.</td>
+<td>PIV 920A Funda cosmética para prótesis de hemipelvectomía.</td>
+<td>MED</td>
+<td>12</td>
+<td>590,35</td>
+<td>536,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIV 920B Media para prótesis de hemipelvectomía.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">101,52</td>
-<td class="cuerpo_tabla_coma">92,29</td>
+<td>PIV 920B Media para prótesis de hemipelvectomía.</td>
+<td>MED</td>
+<td>12</td>
+<td>101,52</td>
+<td>92,29</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 27 Pies protésicos.</p>
+<p>Subgrupo: 06 24 27 Pies protésicos.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">PIE 000 Pie no articulado.</p>
+<td rowspan="6">
+<p>PIE 000 Pie no articulado.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIE 000A Pie no articulado (SACH) de adulto, de impacto bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">158,84</td>
-<td class="cuerpo_tabla_coma">144,40</td>
+<td>PIE 000A Pie no articulado (SACH) de adulto, de impacto bajo a moderado.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>158,84</td>
+<td>144,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 000B Pie no articulado (SACH) pediátrico, de impacto bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">248,80</td>
-<td class="cuerpo_tabla_coma">226,18</td>
+<td>PIE 000B Pie no articulado (SACH) pediátrico, de impacto bajo a moderado.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>248,80</td>
+<td>226,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 000C Pie no articulado (SACH) de quilla corta o dinámico, de impacto bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">318,00</td>
-<td class="cuerpo_tabla_coma">289,09</td>
+<td>PIE 000C Pie no articulado (SACH) de quilla corta o dinámico, de impacto bajo a moderado.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>318,00</td>
+<td>289,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 000D Pie no articulado geriátrico, de impacto bajo.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">198,92</td>
-<td class="cuerpo_tabla_coma">180,84</td>
+<td>PIE 000D Pie no articulado geriátrico, de impacto bajo.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>198,92</td>
+<td>180,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 000E Pie básico tipo Syme, de impacto bajo.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">879,93</td>
-<td class="cuerpo_tabla_coma">799,94</td>
+<td>PIE 000E Pie básico tipo Syme, de impacto bajo.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>879,93</td>
+<td>799,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 000F Pie especial tipo Syme, de impacto moderado a alto.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.383,29</td>
-<td class="cuerpo_tabla_coma">1.257,54</td>
+<td>PIE 000F Pie especial tipo Syme, de impacto moderado a alto.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>1.383,29</td>
+<td>1.257,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">PIE 010 Pie articulado.</p>
+<td rowspan="4">
+<p>PIE 010 Pie articulado.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIE 010A Pie articulado monoaxial, de impacto bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">458,68</td>
-<td class="cuerpo_tabla_coma">416,98</td>
+<td>PIE 010A Pie articulado monoaxial, de impacto bajo a moderado.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>458,68</td>
+<td>416,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 010B Pie de articulación e impulsión mediante sistema elástico interno, de impacto bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">669,22</td>
-<td class="cuerpo_tabla_coma">608,38</td>
+<td>PIE 010B Pie de articulación e impulsión mediante sistema elástico interno, de impacto bajo a moderado.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>669,22</td>
+<td>608,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 010C Pie de eje múltiple, de impacto moderado a alto.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">769,29</td>
-<td class="cuerpo_tabla_coma">699,35</td>
+<td>PIE 010C Pie de eje múltiple, de impacto moderado a alto.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>769,29</td>
+<td>699,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 010D Pie con regulación de altura de tacón, de impacto bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.297,19</td>
-<td class="cuerpo_tabla_coma">2.088,35</td>
+<td>PIE 010D Pie con regulación de altura de tacón, de impacto bajo a moderado.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>2.297,19</td>
+<td>2.088,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">PIE 020 Pie dinámico.</td>
-<td class="cuerpo_tabla_izq">PIE 020A Pie almacenador de energía de adulto, de impacto bajo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">721,26</td>
-<td class="cuerpo_tabla_coma">655,69</td>
+<td rowspan="7">PIE 020 Pie dinámico.</td>
+<td>PIE 020A Pie almacenador de energía de adulto, de impacto bajo.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>721,26</td>
+<td>655,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 020B Pie almacenador de energía de adulto, de impacto moderado.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.294,08</td>
-<td class="cuerpo_tabla_coma">1.176,44</td>
+<td>PIE 020B Pie almacenador de energía de adulto, de impacto moderado.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.294,08</td>
+<td>1.176,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 020C Pie almacenador de energía de adulto, de impacto alto.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.204,74</td>
-<td class="cuerpo_tabla_coma">2.004,31</td>
+<td>PIE 020C Pie almacenador de energía de adulto, de impacto alto.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>2.204,74</td>
+<td>2.004,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 020D Pie almacenador de energía pediátrico, de impacto bajo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.122,14</td>
-<td class="cuerpo_tabla_coma">1.020,13</td>
+<td>PIE 020D Pie almacenador de energía pediátrico, de impacto bajo.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.122,14</td>
+<td>1.020,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 020E Pie almacenador de energía pediátrico, de impacto moderado.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.223,41</td>
-<td class="cuerpo_tabla_coma">1.112,19</td>
+<td>PIE 020E Pie almacenador de energía pediátrico, de impacto moderado.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.223,41</td>
+<td>1.112,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 020F Pie almacenador de energía pediátrico, de impacto alto (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.438,69</td>
-<td class="cuerpo_tabla_coma">1.307,90</td>
+<td>PIE 020F Pie almacenador de energía pediátrico, de impacto alto (especial prescripción).</td>
+<td>COMP2</td>
+<td>24</td>
+<td>1.438,69</td>
+<td>1.307,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIE 020G Pie almacenador de energía regulable en altura.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.495,30</td>
-<td class="cuerpo_tabla_coma">2.268,45</td>
+<td>PIE 020G Pie almacenador de energía regulable en altura.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>2.495,30</td>
+<td>2.268,45</td>
 </tr>
 </tbody>
 <tfoot>
-<tr class="no_repetir">
+<tr>
 <td colspan="6">
-<p class="cita">Los pies protésicos de bajo impacto están indicados para usuarios considerados K1/clase 1, los de impacto moderado para K2/clase 2, los de impacto alto para K3/clase 3 y los de impacto muy alto para K4/clase 4.</p>
+<p>Los pies protésicos de bajo impacto están indicados para usuarios considerados K1/clase 1, los de impacto moderado para K2/clase 2, los de impacto alto para K3/clase 3 y los de impacto muy alto para K4/clase 4.</p>
 </td>
 </tr>
 </tfoot>
@@ -6628,613 +6382,573 @@ Grupo: 06 24 Prótesis de miembro inferior.
 | PIO 000 Rotador. | PIO 000A Rotador para prótesis transfemorales. | COMP2 | 36 | 598,56 | 544,15 |
 | PIO 010 Dispositivo de amortiguación y fuerzas de torsión. | PIO 010A Dispositivo de amortiguación y fuerzas de torsión. Incluye alineación. | COMP2 | 36 | 932,25 | 847,50 |
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 33 Articulaciones de rodilla.</p>
+<p>Subgrupo: 06 24 33 Articulaciones de rodilla.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">PIL 000 Articulación de rodilla exoesquelética monocéntrica para adulto.</p>
+<td rowspan="2">
+<p>PIL 000 Articulación de rodilla exoesquelética monocéntrica para adulto.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIL 000A Articulación de rodilla exoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">765,71</td>
-<td class="cuerpo_tabla_coma">696,10</td>
+<td>PIL 000A Articulación de rodilla exoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>765,71</td>
+<td>696,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 000B Articulación de rodilla exoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">854,16</td>
-<td class="cuerpo_tabla_coma">776,51</td>
+<td>PIL 000B Articulación de rodilla exoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>854,16</td>
+<td>776,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">
-<p class="cuerpo_tabla_izq">PIL 010 Articulación de rodilla endoesquelética monocéntrica para adulto.</p>
+<td rowspan="9">
+<p>PIL 010 Articulación de rodilla endoesquelética monocéntrica para adulto.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIL 010A Articulación de rodilla endoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">409,76</td>
-<td class="cuerpo_tabla_coma">372,51</td>
+<td>PIL 010A Articulación de rodilla endoesquelética monocéntrica mecánica, con bloqueo manual a voluntad.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>409,76</td>
+<td>372,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010B Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión y bloqueo a la carga.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_coma">935,00</p>
+<td>PIL 010B Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión y bloqueo a la carga.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>
+<p>935,00</p>
 </td>
-<td class="cuerpo_tabla_coma">850,00</td>
+<td>850,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010C Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">951,19</td>
-<td class="cuerpo_tabla_coma">864,72</td>
+<td>PIL 010C Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, control de la fase de balanceo y bloqueo a la carga.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>951,19</td>
+<td>864,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010D Articulación de rodilla endoesquelética monocéntrica mecánica, con control de la fase de balanceo, bloqueo a la carga y con opción de añadir bloqueo manual a voluntad.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.070,88</td>
-<td class="cuerpo_tabla_coma">973,53</td>
+<td>PIL 010D Articulación de rodilla endoesquelética monocéntrica mecánica, con control de la fase de balanceo, bloqueo a la carga y con opción de añadir bloqueo manual a voluntad.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.070,88</td>
+<td>973,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010E Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.103,65</td>
-<td class="cuerpo_tabla_coma">1.912,41</td>
+<td>PIL 010E Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de bajo a moderado.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.103,65</td>
+<td>1.912,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010F Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de alto a muy alto.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.530,44</td>
-<td class="cuerpo_tabla_coma">2.300,40</td>
+<td>PIL 010F Articulación de rodilla endoesquelética monocéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga, para nivel de actividad de alto a muy alto.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.530,44</td>
+<td>2.300,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010G Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">3.227,33</td>
-<td class="cuerpo_tabla_coma">2.933,94</td>
+<td>PIL 010G Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>3.227,33</td>
+<td>2.933,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010H Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">3.901,46</td>
-<td class="cuerpo_tabla_coma">3.546,78</td>
+<td>PIL 010H Articulación de rodilla endoesquelética monocéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>3.901,46</td>
+<td>3.546,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 010I Articulación de rodilla endoesquelética con sistema hidráulico rotativo para fase de balanceo y del frenado en la fase de apoyo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">4.080,32</td>
-<td class="cuerpo_tabla_coma">3.709,38</td>
+<td>PIL 010I Articulación de rodilla endoesquelética con sistema hidráulico rotativo para fase de balanceo y del frenado en la fase de apoyo.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>4.080,32</td>
+<td>3.709,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 020 Articulación de rodilla endoesquelética monocéntrica pediátrica.</td>
-<td class="cuerpo_tabla_izq">PIL 020A Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">COMP2</p>
+<td>PIL 020 Articulación de rodilla endoesquelética monocéntrica pediátrica.</td>
+<td>PIL 020A Articulación de rodilla endoesquelética monocéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.</td>
+<td>
+<p>COMP2</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">30</p>
+<td>
+<p>30</p>
 </td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_coma">989,26</p>
+<td>
+<p>989,26</p>
 </td>
-<td class="cuerpo_tabla_coma">
-<p class="cuerpo_tabla_coma">899,33</p>
+<td>
+<p>899,33</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">PIL 030 Articulación de rodilla endoesquelética policéntrica para adulto.</p>
+<td rowspan="4">
+<p>PIL 030 Articulación de rodilla endoesquelética policéntrica para adulto.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIL 030A Articulación de rodilla endoesquelética policéntrica mecánica, de entre tres y cinco ejes, con dispositivo de recuperación de la extensión.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.436,81</td>
-<td class="cuerpo_tabla_coma">1.306,19</td>
+<td>PIL 030A Articulación de rodilla endoesquelética policéntrica mecánica, de entre tres y cinco ejes, con dispositivo de recuperación de la extensión.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.436,81</td>
+<td>1.306,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 030B Articulación de rodilla endoesquelética policéntrica mecánica, de más de cinco ejes, con dispositivo de recuperación de la extensión.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.159,53</td>
-<td class="cuerpo_tabla_coma">1.963,21</td>
+<td>PIL 030B Articulación de rodilla endoesquelética policéntrica mecánica, de más de cinco ejes, con dispositivo de recuperación de la extensión.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.159,53</td>
+<td>1.963,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 030C Articulación de rodilla endoesquelética policéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.210,32</td>
-<td class="cuerpo_tabla_coma">2.009,38</td>
+<td>PIL 030C Articulación de rodilla endoesquelética policéntrica neumática, con control regulable de la fase de balanceo y bloqueo a la carga.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.210,32</td>
+<td>2.009,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 030D Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo. Especial prescripción.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">4.396,19</td>
-<td class="cuerpo_tabla_coma">3.996,54</td>
+<td>PIL 030D Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo y del frenado en la fase de apoyo. Especial prescripción.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>4.396,19</td>
+<td>3.996,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIL 040 Articulación de rodilla endoesquelética policéntrica pediátrica.</td>
-<td class="cuerpo_tabla_izq">PIL 040A Articulación de rodilla endoesquelética policéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.282,09</td>
-<td class="cuerpo_tabla_coma">2.074,63</td>
+<td rowspan="2">PIL 040 Articulación de rodilla endoesquelética policéntrica pediátrica.</td>
+<td>PIL 040A Articulación de rodilla endoesquelética policéntrica mecánica, con dispositivo de recuperación de la extensión, pediátrica.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.282,09</td>
+<td>2.074,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 040B Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo, pediátrica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.528,85</td>
-<td class="cuerpo_tabla_coma">2.298,95</td>
+<td>PIL 040B Articulación de rodilla endoesquelética policéntrica hidráulica, con control de la fase de balanceo, pediátrica.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.528,85</td>
+<td>2.298,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">
-<p class="cuerpo_tabla_izq">PIL 050 Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla.</p>
+<td rowspan="7">
+<p>PIL 050 Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIL 050A Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con bloqueo manual a voluntad.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.599,87</td>
-<td class="cuerpo_tabla_coma">1.454,43</td>
+<td>PIL 050A Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con bloqueo manual a voluntad.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.599,87</td>
+<td>1.454,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 050B Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de bajo a moderado.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.531,07</td>
-<td class="cuerpo_tabla_coma">1.391,88</td>
+<td>PIL 050B Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de bajo a moderado.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.531,07</td>
+<td>1.391,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 050C Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de alto a muy alto.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.436,90</td>
-<td class="cuerpo_tabla_coma">1.306,27</td>
+<td>PIL 050C Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, mecánica, de cuatro ejes, con dispositivo de recuperación de la extensión, para nivel de actividad de alto a muy alto.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.436,90</td>
+<td>1.306,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 050D Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.441,00</td>
-<td class="cuerpo_tabla_coma">2.219,09</td>
+<td>PIL 050D Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.441,00</td>
+<td>2.219,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 050E Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo y bloqueo a la carga.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">2.410,91</td>
-<td class="cuerpo_tabla_coma">2.191,74</td>
+<td>PIL 050E Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, neumática, de cuatro ejes, con control regulable de la fase de balanceo y bloqueo a la carga.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>2.410,91</td>
+<td>2.191,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 050F Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">3.098,97</td>
-<td class="cuerpo_tabla_coma">2.817,25</td>
+<td>PIL 050F Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>3.098,97</td>
+<td>2.817,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 050G Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo y del frenado en la fase de apoyo.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">4.396,19</td>
-<td class="cuerpo_tabla_coma">3.996,54</td>
+<td>PIL 050G Articulación de rodilla endoesquelética para muñones largos o desarticulación de rodilla, hidráulica, de cuatro ejes, con control regulable de la fase de balanceo y del frenado en la fase de apoyo.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>4.396,19</td>
+<td>3.996,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIL 060 Articulación de rodilla endoesquelética monocéntrica con control mediante microprocesador para adulto.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PIL 060A Articulación de rodilla endoesquelética monocéntrica, con control mediante microprocesador de la fase de balanceo y del frenado en la fase de apoyo. (Especial prescripción y de acuerdo a un protocolo).</p>
+<td>PIL 060 Articulación de rodilla endoesquelética monocéntrica con control mediante microprocesador para adulto.</td>
+<td>
+<p>PIL 060A Articulación de rodilla endoesquelética monocéntrica, con control mediante microprocesador de la fase de balanceo y del frenado en la fase de apoyo. (Especial prescripción y de acuerdo a un protocolo).</p>
 </td>
-<td class="cuerpo_tabla_centro">COMP3</td>
-<td class="cuerpo_tabla_centro">72</td>
-<td class="cuerpo_tabla_coma">26.412,32</td>
-<td class="cuerpo_tabla_coma">24.011,20</td>
+<td>COMP3</td>
+<td>72</td>
+<td>26.412,32</td>
+<td>24.011,20</td>
 </tr>
 </tbody>
 </table>
 
 Las articulaciones de nivel de actividad baja están indicadas para usuarios considerados K1/clase 1, los de actividad moderada para K2/clase 2, los de actividad alta para K3/clase 3 y los de actividad muy alta para K4/clase 4.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 36 Articulaciones de cadera.</p>
+<p>Subgrupo: 06 24 36 Articulaciones de cadera.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">PID 000 Articulación de cadera endoesquelética.</p>
+<td rowspan="5">
+<p>PID 000 Articulación de cadera endoesquelética.</p>
 </td>
-<td class="cuerpo_tabla_izq">PID 000A Articulación de cadera endoesquelética monocéntrica libre.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">623,03</td>
-<td class="cuerpo_tabla_coma">566,39</td>
+<td>PID 000A Articulación de cadera endoesquelética monocéntrica libre.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>623,03</td>
+<td>566,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PID 000B Articulación de cadera endoesquelética monocéntrica libre, con bloqueo manual a voluntad.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">750,00</td>
-<td class="cuerpo_tabla_coma">681,82</td>
+<td>PID 000B Articulación de cadera endoesquelética monocéntrica libre, con bloqueo manual a voluntad.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>750,00</td>
+<td>681,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PID 000C Articulación de cadera endoesquelética monocéntrica, con dispositivo interior de extensión incorporado y con sistema de alineación y anclaje anterior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.984,43</td>
-<td class="cuerpo_tabla_coma">1.804,03</td>
+<td>PID 000C Articulación de cadera endoesquelética monocéntrica, con dispositivo interior de extensión incorporado y con sistema de alineación y anclaje anterior.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.984,43</td>
+<td>1.804,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PID 000D Articulación de cadera endoesquelética monocéntrica, con asistente a la extensión, pediátrica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">1.022,09</td>
-<td class="cuerpo_tabla_coma">929,17</td>
+<td>PID 000D Articulación de cadera endoesquelética monocéntrica, con asistente a la extensión, pediátrica.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>1.022,09</td>
+<td>929,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PID 000E Articulación de cadera endoesquelética policéntrica.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_coma">5.415,23</td>
-<td class="cuerpo_tabla_coma">4.922,94</td>
+<td>PID 000E Articulación de cadera endoesquelética policéntrica.</td>
+<td>COMP2</td>
+<td>30</td>
+<td>5.415,23</td>
+<td>4.922,94</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 48 Prótesis provisionales para movilización temprana en amputación de miembro inferior.</p>
-<p class="parrafo">(Prescribir además el resto de los componentes necesarios para completar la correspondiente prótesis, que se reutilizarán para la prótesis definitiva).</p>
+<p>Subgrupo: 06 24 48 Prótesis provisionales para movilización temprana en amputación de miembro inferior.</p>
+<p>(Prescribir además el resto de los componentes necesarios para completar la correspondiente prótesis, que se reutilizarán para la prótesis definitiva).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">PIM 000 Encaje provisional para prótesis de miembro inferior*.</p>
+<td rowspan="5">
+<p>PIM 000 Encaje provisional para prótesis de miembro inferior*.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIM 000A Encaje provisional para prótesis de desarticulación de tobillo. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_coma">632,50</td>
-<td class="cuerpo_tabla_coma">575,00</td>
+<td>PIM 000A Encaje provisional para prótesis de desarticulación de tobillo. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>-</td>
+<td>632,50</td>
+<td>575,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIM 000B Encaje provisional para prótesis transtibial. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_coma">854,59</td>
-<td class="cuerpo_tabla_coma">776,90</td>
+<td>PIM 000B Encaje provisional para prótesis transtibial. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>-</td>
+<td>854,59</td>
+<td>776,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIM 000C Encaje provisional para prótesis de desarticulación de rodilla. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_coma">1.050,28</td>
-<td class="cuerpo_tabla_coma">954,80</td>
+<td>PIM 000C Encaje provisional para prótesis de desarticulación de rodilla. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>-</td>
+<td>1.050,28</td>
+<td>954,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIM 000D Encaje provisional graduable para prótesis transfemoral. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_coma">1.155,00</td>
-<td class="cuerpo_tabla_coma">1.050,00</td>
+<td>PIM 000D Encaje provisional graduable para prótesis transfemoral. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>-</td>
+<td>1.155,00</td>
+<td>1.050,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIM 000E Encaje provisional para prótesis de desarticulación de cadera. Incluye adaptación y alineación.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_coma">1.320,00</td>
-<td class="cuerpo_tabla_coma">1.200,00</td>
+<td>PIM 000E Encaje provisional para prótesis de desarticulación de cadera. Incluye adaptación y alineación.</td>
+<td>MED</td>
+<td>-</td>
+<td>1.320,00</td>
+<td>1.200,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PIM 010 Vaina (liner) conformadora y reductora de muñón.</td>
-<td class="cuerpo_tabla_izq">PIM 010A Vaina (liner) conformadora y reductora de muñón para amputación transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">357,50</td>
-<td class="cuerpo_tabla_coma">325,00</td>
+<td rowspan="3">PIM 010 Vaina (liner) conformadora y reductora de muñón.</td>
+<td>PIM 010A Vaina (liner) conformadora y reductora de muñón para amputación transtibial.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>357,50</td>
+<td>325,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIM 010B Vaina (liner) conformadora y reductora de muñón para desarticulación de rodilla.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">432,56</td>
-<td class="cuerpo_tabla_coma">393,24</td>
+<td>PIM 010B Vaina (liner) conformadora y reductora de muñón para desarticulación de rodilla.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>432,56</td>
+<td>393,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIM 010C Vaina (liner) conformadora y reductora de muñón para amputación transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">462,00</td>
-<td class="cuerpo_tabla_coma">420,00</td>
+<td>PIM 010C Vaina (liner) conformadora y reductora de muñón para amputación transfemoral.</td>
+<td>COMP2</td>
+<td>6</td>
+<td>462,00</td>
+<td>420,00</td>
 </tr>
 </tbody>
 <tfoot>
-<tr class="no_repetir">
+<tr>
 <td colspan="6">
-<p class="cita">*Prescripción única para la elaboración y adaptación de los encajes provisionales necesarios hasta la prescripción del encaje definitivo</p>
+<p>*Prescripción única para la elaboración y adaptación de los encajes provisionales necesarios hasta la prescripción del encaje definitivo</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 24 99 Componentes generales de prótesis de miembro inferior.</p>
+<p>Subgrupo: 06 24 99 Componentes generales de prótesis de miembro inferior.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">PIG 900 Componentes generales de los sistemas de suspensión.</p>
+<td rowspan="6">
+<p>PIG 900 Componentes generales de los sistemas de suspensión.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIG 900A Lanzadera con pin para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">317,58</td>
-<td class="cuerpo_tabla_coma">288,71</td>
+<td>PIG 900A Lanzadera con pin para prótesis de miembro inferior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>317,58</td>
+<td>288,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 900B Pin para lanzadera para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">49,52</td>
-<td class="cuerpo_tabla_coma">45,02</td>
+<td>PIG 900B Pin para lanzadera para prótesis de miembro inferior.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>49,52</td>
+<td>45,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 900C Lanzadera con cordón para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">121,99</td>
-<td class="cuerpo_tabla_coma">110,90</td>
+<td>PIG 900C Lanzadera con cordón para prótesis de miembro inferior.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>121,99</td>
+<td>110,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 900D Lanzadera con pin para vaina interna (liner) pediátrica para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">242,00</td>
-<td class="cuerpo_tabla_coma">220,00</td>
+<td>PIG 900D Lanzadera con pin para vaina interna (liner) pediátrica para prótesis de miembro inferior.</td>
+<td>COMP2</td>
+<td>24</td>
+<td>242,00</td>
+<td>220,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 900E Pin para lanzadera para vaina interna (liner) pediátrica para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">48,29</td>
-<td class="cuerpo_tabla_coma">43,90</td>
+<td>PIG 900E Pin para lanzadera para vaina interna (liner) pediátrica para prótesis de miembro inferior.</td>
+<td>COMP1</td>
+<td>24</td>
+<td>48,29</td>
+<td>43,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 900F Membrana de succión hipobárica para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">214,31</td>
-<td class="cuerpo_tabla_coma">194,83</td>
+<td>PIG 900F Membrana de succión hipobárica para prótesis de miembro inferior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>214,31</td>
+<td>194,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PIG 910 Calcetas.</td>
-<td class="cuerpo_tabla_izq">PIG 910A Calceta por debajo de la rodilla para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">27,36</td>
-<td class="cuerpo_tabla_coma">24,87</td>
+<td rowspan="2">PIG 910 Calcetas.</td>
+<td>PIG 910A Calceta por debajo de la rodilla para prótesis de miembro inferior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>27,36</td>
+<td>24,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 910B Calceta por encima de la rodilla para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">35,01</td>
-<td class="cuerpo_tabla_coma">31,83</td>
+<td>PIG 910B Calceta por encima de la rodilla para prótesis de miembro inferior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>35,01</td>
+<td>31,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 920 Almohadilla.</td>
-<td class="cuerpo_tabla_izq">PIG 920A Almohadilla de silicona o gel para prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">41,61</td>
-<td class="cuerpo_tabla_coma">37,83</td>
+<td>PIG 920 Almohadilla.</td>
+<td>PIG 920A Almohadilla de silicona o gel para prótesis de miembro inferior.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>41,61</td>
+<td>37,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 930 Sistema BOA.</td>
-<td class="cuerpo_tabla_izq">PIG 930A Sistema BOA para encaje de prótesis de miembro inferior.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">537,26</td>
-<td class="cuerpo_tabla_coma">488,42</td>
+<td>PIG 930 Sistema BOA.</td>
+<td>PIG 930A Sistema BOA para encaje de prótesis de miembro inferior.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>537,26</td>
+<td>488,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">PIG 940 Vaina (liner) preparada para acoplar pin distal.</p>
+<td rowspan="6">
+<p>PIG 940 Vaina (liner) preparada para acoplar pin distal.</p>
 </td>
-<td class="cuerpo_tabla_izq">PIG 940A Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">542,97</td>
-<td class="cuerpo_tabla_coma">493,61</td>
+<td>PIG 940A Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>542,97</td>
+<td>493,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 940B Vaina (liner) en gel preparada para acoplar pin distal para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">469,45</td>
-<td class="cuerpo_tabla_coma">426,77</td>
+<td>PIG 940B Vaina (liner) en gel preparada para acoplar pin distal para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>469,45</td>
+<td>426,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 940C Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transtibial.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">838,82</td>
-<td class="cuerpo_tabla_coma">762,56</td>
+<td>PIG 940C Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transtibial.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>838,82</td>
+<td>762,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 940D Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">615,75</td>
-<td class="cuerpo_tabla_coma">559,77</td>
+<td>PIG 940D Vaina (liner) de silicona preparada para acoplar pin distal para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>615,75</td>
+<td>559,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 940E Vaina (liner) en gel preparada para acoplar pin distal para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">605,83</td>
-<td class="cuerpo_tabla_coma">550,75</td>
+<td>PIG 940E Vaina (liner) en gel preparada para acoplar pin distal para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>605,83</td>
+<td>550,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PIG 940F Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transfemoral.</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">838,82</td>
-<td class="cuerpo_tabla_coma">762,56</td>
+<td>PIG 940F Vaina (liner) de silicona preparada para acoplar pin distal, pediátrica, para prótesis transfemoral.</td>
+<td>COMP2</td>
+<td>12</td>
+<td>838,82</td>
+<td>762,56</td>
 </tr>
 </tbody>
 </table>
 
 Grupo: 06 90 Ortoprótesis para agenesias.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 90 00 Ortoprótesis para agenesias.</p>
+<p>Subgrupo: 06 90 00 Ortoprótesis para agenesias.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PPA 000 Ortoprótesis para agenesia longitudinal de miembro inferior con miembro residual<sup>*.</sup></td>
-<td class="cuerpo_tabla_izq">PPA 000A Ortoprótesis endoesquelética o exoesquelética tibial con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un pie a elección y, si lo precisa, un encaje interno, una articulación ortésica de rodilla, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.600,14</td>
-<td class="cuerpo_tabla_coma">2.363,76</td>
+<td rowspan="2">PPA 000 Ortoprótesis para agenesia longitudinal de miembro inferior con miembro residual<sup>*.</sup></td>
+<td>PPA 000A Ortoprótesis endoesquelética o exoesquelética tibial con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un pie a elección y, si lo precisa, un encaje interno, una articulación ortésica de rodilla, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.600,14</td>
+<td>2.363,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PPA 000B Ortoprótesis endoesquelética o exoesquelética femoral con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un encaje interno, una articulación de rodilla, un pie a elección y, si lo precisa, una funda, una media o cubierta cosmética y una calceta).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.718,00</td>
-<td class="cuerpo_tabla_coma">3.380,00</td>
+<td>PPA 000B Ortoprótesis endoesquelética o exoesquelética femoral con encaje rígido y estructura para agenesia con miembro residual, a medida (Prescribir además un encaje interno, una articulación de rodilla, un pie a elección y, si lo precisa, una funda, una media o cubierta cosmética y una calceta).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.718,00</td>
+<td>3.380,00</td>
 </tr>
 </tbody>
 <tfoot>
-<tr class="no_repetir">
+<tr>
 <td colspan="6">
-<p class="cita"><sup>*</sup>Para las agenesias de miembro superior y las transversales de miembro inferior se prescribirán las prótesis para amputaciones del nivel correspondiente.</p>
+<p><sup>*</sup>Para las agenesias de miembro superior y las transversales de miembro inferior se prescribirán las prótesis para amputaciones del nivel correspondiente.</p>
 </td>
 </tr>
 </tfoot>
@@ -7242,619 +6956,571 @@ Grupo: 06 90 Ortoprótesis para agenesias.
 
 Grupo: 06 30 Prótesis distintas a las prótesis de miembros.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 30 18 Prótesis de mama en casos de traumatismo, enfermedad o malformación congénita (no se considera incluido el sujetador post-operatorio).</p>
+<p>Subgrupo: 06 30 18 Prótesis de mama en casos de traumatismo, enfermedad o malformación congénita (no se considera incluido el sujetador post-operatorio).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PDM 000 Prótesis externa de mama incluida, si lo precisa, la funda.</td>
-<td class="cuerpo_tabla_izq">PDM 000A Prótesis externa de mama, en silicona sólida.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">186,49</td>
-<td class="cuerpo_tabla_coma">169,54</td>
+<td rowspan="3">PDM 000 Prótesis externa de mama incluida, si lo precisa, la funda.</td>
+<td>PDM 000A Prótesis externa de mama, en silicona sólida.</td>
+<td>BAS</td>
+<td>24</td>
+<td>186,49</td>
+<td>169,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDM 000B Prótesis externa de mama, en silicona ligera.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">BAS</p>
+<td>PDM 000B Prótesis externa de mama, en silicona ligera.</td>
+<td>
+<p>BAS</p>
 </td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">200,52</td>
-<td class="cuerpo_tabla_coma">182,29</td>
+<td>24</td>
+<td>200,52</td>
+<td>182,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDM 000C Prótesis externa de mama, en silicona ultraligera.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">212,87</td>
-<td class="cuerpo_tabla_coma">193,52</td>
+<td>PDM 000C Prótesis externa de mama, en silicona ultraligera.</td>
+<td>BAS</td>
+<td>24</td>
+<td>212,87</td>
+<td>193,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDM 010 Prótesis parcial externa de mama.</td>
-<td class="cuerpo_tabla_izq">PDM 010A Prótesis parcial externa de mama.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">161,70</td>
-<td class="cuerpo_tabla_coma">147,00</td>
+<td>PDM 010 Prótesis parcial externa de mama.</td>
+<td>PDM 010A Prótesis parcial externa de mama.</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>161,70</td>
+<td>147,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 30 30 Prótesis de restauración facial, incluyendo las de nariz y/o los pabellones auriculares y/o globos oculares en casos de traumatismo, enfermedad o malformación congénita.</p>
+<p>Subgrupo: 06 30 30 Prótesis de restauración facial, incluyendo las de nariz y/o los pabellones auriculares y/o globos oculares en casos de traumatismo, enfermedad o malformación congénita.</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDC 000 Prótesis ocular.</td>
-<td class="cuerpo_tabla_izq">PDC 000A Prótesis ocular externa para cavidad anoftálmica (enucleación o evisceración), a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.033,65</td>
-<td class="cuerpo_tabla_coma">939,68</td>
+<td rowspan="2">PDC 000 Prótesis ocular.</td>
+<td>PDC 000A Prótesis ocular externa para cavidad anoftálmica (enucleación o evisceración), a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.033,65</td>
+<td>939,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 000B Prótesis ocular externa para cavidad no anoftálmica tipo cascarilla, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.215,84</td>
-<td class="cuerpo_tabla_coma">1.105,31</td>
+<td>PDC 000B Prótesis ocular externa para cavidad no anoftálmica tipo cascarilla, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.215,84</td>
+<td>1.105,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDC 010 Prótesis de restauración de órbita.</td>
-<td class="cuerpo_tabla_izq">PDC 010A Epítesis de restauración de órbita no implantosoportada, a medida (incluye prótesis ocular).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.067,35</td>
-<td class="cuerpo_tabla_coma">1.879,41</td>
+<td rowspan="2">PDC 010 Prótesis de restauración de órbita.</td>
+<td>PDC 010A Epítesis de restauración de órbita no implantosoportada, a medida (incluye prótesis ocular).</td>
+<td>MED</td>
+<td>24</td>
+<td>2.067,35</td>
+<td>1.879,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 010B Epítesis de restauración de órbita implantosoportada con dos implantes, a medida (incluye prótesis ocular).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.075,05</td>
-<td class="cuerpo_tabla_coma">2.795,50</td>
+<td>PDC 010B Epítesis de restauración de órbita implantosoportada con dos implantes, a medida (incluye prótesis ocular).</td>
+<td>MED</td>
+<td>24</td>
+<td>3.075,05</td>
+<td>2.795,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 020 Prótesis corneal.</td>
-<td class="cuerpo_tabla_izq">PDC 020A Lente corneal protésica.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">556,37</td>
-<td class="cuerpo_tabla_coma">505,79</td>
+<td>PDC 020 Prótesis corneal.</td>
+<td>PDC 020A Lente corneal protésica.</td>
+<td>ADAP2</td>
+<td>12</td>
+<td>556,37</td>
+<td>505,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDC 022 Prótesis para corrección de la afaquia.</td>
-<td class="cuerpo_tabla_izq">PDC 022A Lente de contacto blanda de hidrogel de silicona (HiSi) con o sin filtro azul, para corrección de la afaquia en catarata congénita infantil.</td>
-<td class="cuerpo_tabla_centro">ADAP 2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_coma">150,70</td>
-<td class="cuerpo_tabla_coma">137,00</td>
+<td rowspan="2">PDC 022 Prótesis para corrección de la afaquia.</td>
+<td>PDC 022A Lente de contacto blanda de hidrogel de silicona (HiSi) con o sin filtro azul, para corrección de la afaquia en catarata congénita infantil.</td>
+<td>ADAP 2</td>
+<td>3</td>
+<td>150,70</td>
+<td>137,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 022B Lente de contacto rígida de gas permeable, para corrección de la afaquia en catarata congénita infantil.</td>
-<td class="cuerpo_tabla_centro">ADAP 2</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">300,30</td>
-<td class="cuerpo_tabla_coma">273,00</td>
+<td>PDC 022B Lente de contacto rígida de gas permeable, para corrección de la afaquia en catarata congénita infantil.</td>
+<td>ADAP 2</td>
+<td>12</td>
+<td>300,30</td>
+<td>273,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDC 030 Pabellón auricular.</td>
-<td class="cuerpo_tabla_izq">PDC 030A Epítesis de pabellón auricular no implantosoportada, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.503,95</td>
-<td class="cuerpo_tabla_coma">1.367,23</td>
+<td rowspan="2">PDC 030 Pabellón auricular.</td>
+<td>PDC 030A Epítesis de pabellón auricular no implantosoportada, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.503,95</td>
+<td>1.367,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 030B Epítesis de pabellón auricular implantosoportada con dos implantes, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.512,35</td>
-<td class="cuerpo_tabla_coma">2.283,95</td>
+<td>PDC 030B Epítesis de pabellón auricular implantosoportada con dos implantes, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>2.512,35</td>
+<td>2.283,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDC 040 Prótesis de restauración de la nariz.</td>
-<td class="cuerpo_tabla_izq">PDC 040A Epítesis nasal no implantosoportada, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.989,38</td>
-<td class="cuerpo_tabla_coma">1.808,53</td>
+<td rowspan="2">PDC 040 Prótesis de restauración de la nariz.</td>
+<td>PDC 040A Epítesis nasal no implantosoportada, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.989,38</td>
+<td>1.808,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 040B Epítesis nasal implantosoportada con tres implantes, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.484,88</td>
-<td class="cuerpo_tabla_coma">3.168,07</td>
+<td>PDC 040B Epítesis nasal implantosoportada con tres implantes, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>3.484,88</td>
+<td>3.168,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 050 Prótesis facial.</td>
-<td class="cuerpo_tabla_izq">PDC 050A Epítesis facial no implantosoportada para pequeños defectos, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">550,00</td>
-<td class="cuerpo_tabla_coma">500,00</td>
+<td>PDC 050 Prótesis facial.</td>
+<td>PDC 050A Epítesis facial no implantosoportada para pequeños defectos, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>550,00</td>
+<td>500,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDC 060 Prótesis facialorbito-naso-palatina.</td>
-<td class="cuerpo_tabla_izq">PDC 060A Epítesis facial-orbito-naso-palatina no implantosoportada, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">SP</td>
-<td class="cuerpo_tabla_coma">SP</td>
+<td rowspan="2">PDC 060 Prótesis facialorbito-naso-palatina.</td>
+<td>PDC 060A Epítesis facial-orbito-naso-palatina no implantosoportada, a medida.</td>
+<td>MED</td>
+<td>18</td>
+<td>SP</td>
+<td>SP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDC 060B Epítesis facial-orbito-naso-palatina implantosoportada, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">SP</td>
-<td class="cuerpo_tabla_coma">SP</td>
+<td>PDC 060B Epítesis facial-orbito-naso-palatina implantosoportada, a medida.</td>
+<td>MED</td>
+<td>18</td>
+<td>SP</td>
+<td>SP</td>
 </tr>
 </tbody>
 </table>
 
 En el caso de las epítesis implantosoportadas que requieran mayor número de implantes, al IMF se le sumará el valor de cada implante adicional que precise (500 euros por implante mecánico y 800 euros por implante magnético).
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 30 33 Prótesis de maxilares.</p>
+<p>Subgrupo: 06 30 33 Prótesis de maxilares.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDP 000 Prótesis de maxilar superior.</td>
-<td class="cuerpo_tabla_izq">PDP 000A Prótesis de maxilar superior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">SP</td>
-<td class="cuerpo_tabla_coma">SP</td>
+<td rowspan="2">PDP 000 Prótesis de maxilar superior.</td>
+<td>PDP 000A Prótesis de maxilar superior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.</td>
+<td>MED</td>
+<td>18</td>
+<td>SP</td>
+<td>SP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDP 000B Prótesis de maxilar superior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">SP</td>
-<td class="cuerpo_tabla_coma">SP</td>
+<td>PDP 000B Prótesis de maxilar superior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).</td>
+<td>MED</td>
+<td>18</td>
+<td>SP</td>
+<td>SP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PDP 010 Prótesis de maxilar inferior.</td>
-<td class="cuerpo_tabla_izq">PDP 010A Prótesis de maxilar inferior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">SP</td>
-<td class="cuerpo_tabla_coma">SP</td>
+<td rowspan="2">PDP 010 Prótesis de maxilar inferior.</td>
+<td>PDP 010A Prótesis de maxilar inferior no implantosoportada, a medida, para malformaciones congénitas, grandes traumatismos y procesos oncológicos, que afectan a la cavidad oral.</td>
+<td>MED</td>
+<td>18</td>
+<td>SP</td>
+<td>SP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PDP 010B Prótesis de maxilar inferior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">SP</td>
-<td class="cuerpo_tabla_coma">SP</td>
+<td>PDP 010B Prótesis de maxilar inferior implantosoportada, a medida, para pacientes con procesos oncológicos que afectan a la cavidad oral que impliquen la pérdida de dientes relacionada directamente con la patología o su tratamiento, y pacientes con malformaciones congénitas que cursan con anodoncia (fisurados, malformaciones linfáticas, displasia ectodérmica, síndromes craneofaciales, etc.).</td>
+<td>MED</td>
+<td>18</td>
+<td>SP</td>
+<td>SP</td>
 </tr>
 </tbody>
 </table>
 
 Grupo 22 06 Prótesis auditivas
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 22 06 00 Audífonos para pacientes hipoacúsicos, de cero a veintiséis años de edad, afectados de hipoacusia bilateral neurosensorial, transmisiva o mixta, permanente, no susceptible de otros tratamientos, con una pérdida de audición superior a 40 dB en el mejor de los oídos (valor obtenido promediando las frecuencias de 500, 1.000 y 2.000 Hz). Las administraciones sanitarias competentes vincularán la financiación de los audífonos y de los moldes adaptadores a programas de detección precoz, tratamiento completo y seguimiento de la hipoacusia, así como al estilo de vida de los pacientes.</p>
+<p>Subgrupo: 22 06 00 Audífonos para pacientes hipoacúsicos, de cero a veintiséis años de edad, afectados de hipoacusia bilateral neurosensorial, transmisiva o mixta, permanente, no susceptible de otros tratamientos, con una pérdida de audición superior a 40 dB en el mejor de los oídos (valor obtenido promediando las frecuencias de 500, 1.000 y 2.000 Hz). Las administraciones sanitarias competentes vincularán la financiación de los audífonos y de los moldes adaptadores a programas de detección precoz, tratamiento completo y seguimiento de la hipoacusia, así como al estilo de vida de los pacientes.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PAA 000 Audífono digital intra-auricular.</td>
-<td class="cuerpo_tabla_izq">PAA 000A Audífono intra-auricular IIC (invisible in the canal).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">1.500,00</td>
-<td class="cuerpo_tabla_coma">1.363,64</td>
+<td rowspan="4">PAA 000 Audífono digital intra-auricular.</td>
+<td>PAA 000A Audífono intra-auricular IIC (invisible in the canal).</td>
+<td>ADAP3</td>
+<td>48</td>
+<td>1.500,00</td>
+<td>1.363,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 000B Audífono intra-auricular CIC (completely in the canal).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">1.500,00</td>
-<td class="cuerpo_tabla_coma">1.363,64</td>
+<td>PAA 000B Audífono intra-auricular CIC (completely in the canal).</td>
+<td>ADAP3</td>
+<td>48</td>
+<td>1.500,00</td>
+<td>1.363,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 000C Audífono intra-auricular ITC (in the canal).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">1.500,00</td>
-<td class="cuerpo_tabla_coma">1.363,64</td>
+<td>PAA 000C Audífono intra-auricular ITC (in the canal).</td>
+<td>ADAP3</td>
+<td>48</td>
+<td>1.500,00</td>
+<td>1.363,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 000D Audífono intra-auricular ITE (in the ear).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">1.500,00</td>
-<td class="cuerpo_tabla_coma">1.363,64</td>
+<td>PAA 000D Audífono intra-auricular ITE (in the ear).</td>
+<td>ADAP3</td>
+<td>48</td>
+<td>1.500,00</td>
+<td>1.363,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PAA 010 Audífono digital retro-auricular.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">PAA 010A Audífono retro-auricular RITE/RIC</p>
-<p class="cuerpo_tabla_izq">(receiver in the ear/canal).</p>
+<td rowspan="3">PAA 010 Audífono digital retro-auricular.</td>
+<td>
+<p>PAA 010A Audífono retro-auricular RITE/RIC</p>
+<p>(receiver in the ear/canal).</p>
 </td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_coma">1.200,00</td>
-<td class="cuerpo_tabla_coma">1.090,91</td>
+<td>ADAP2</td>
+<td>60</td>
+<td>1.200,00</td>
+<td>1.090,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 010B Audífono retro-auricular BTE (behind the ear).</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">1.200,00</td>
-<td class="cuerpo_tabla_coma">1.090,91</td>
+<td>PAA 010B Audífono retro-auricular BTE (behind the ear).</td>
+<td>ADAP2</td>
+<td>48</td>
+<td>1.200,00</td>
+<td>1.090,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 010C Audífono retro-auricular BTE superpotente (power).</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">1.200,00</td>
-<td class="cuerpo_tabla_coma">1.090,91</td>
+<td>PAA 010C Audífono retro-auricular BTE superpotente (power).</td>
+<td>ADAP2</td>
+<td>48</td>
+<td>1.200,00</td>
+<td>1.090,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PAA 020 Sistemas bi-cross.</td>
-<td class="cuerpo_tabla_izq">PAA 020A Sistema bi-cross de audífono intraauricular.</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">2.250,00</td>
-<td class="cuerpo_tabla_coma">2.045,45</td>
+<td rowspan="2">PAA 020 Sistemas bi-cross.</td>
+<td>PAA 020A Sistema bi-cross de audífono intraauricular.</td>
+<td>ADAP3</td>
+<td>48</td>
+<td>2.250,00</td>
+<td>2.045,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 020B Sistema bi-cross de audífono retroauricular.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_coma">1.800,00</td>
-<td class="cuerpo_tabla_coma">1.636,36</td>
+<td>PAA 020B Sistema bi-cross de audífono retroauricular.</td>
+<td>ADAP2</td>
+<td>60</td>
+<td>1.800,00</td>
+<td>1.636,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PAA 030 Varillas, diademas o bandas auditivas.</td>
-<td class="cuerpo_tabla_izq">PAA 030A Varilla o diadema auditiva aérea/ósea.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_coma">1.200,00</td>
-<td class="cuerpo_tabla_coma">1.090,91</td>
+<td rowspan="2">PAA 030 Varillas, diademas o bandas auditivas.</td>
+<td>PAA 030A Varilla o diadema auditiva aérea/ósea.</td>
+<td>ADAP2</td>
+<td>60</td>
+<td>1.200,00</td>
+<td>1.090,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAA 030B Banda elástica suave con procesador de conducción ósea incorporado para niños, previo a cirugía.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">5.171,25</td>
-<td class="cuerpo_tabla_coma">4.701,14</td>
+<td>PAA 030B Banda elástica suave con procesador de conducción ósea incorporado para niños, previo a cirugía.</td>
+<td>ADAP2</td>
+<td>84</td>
+<td>5.171,25</td>
+<td>4.701,14</td>
 </tr>
 </tbody>
 </table>
 
 Se facilitarán los audífonos con telebobina con capacidad de conexión con sistemas de inducción magnética, integrada en los mismos, en caso de que el paciente lo solicite y las características del dispositivo lo permitan.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 22 06 90 Moldes adaptadores y otros componentes de audífonos para pacientes que cumplan los requisitos para recibir audífonos.</p>
+<p>Subgrupo: 22 06 90 Moldes adaptadores y otros componentes de audífonos para pacientes que cumplan los requisitos para recibir audífonos.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PAM 000 Molde adaptador para audífono.</td>
-<td class="cuerpo_tabla_izq">PAM 000A Molde adaptador para audífono retroauricular BTE/BTE súper potente (unidad).</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">33,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
+<td rowspan="3">PAM 000 Molde adaptador para audífono.</td>
+<td>PAM 000A Molde adaptador para audífono retroauricular BTE/BTE súper potente (unidad).</td>
+<td>COMP0</td>
+<td>24</td>
+<td>33,00</td>
+<td>30,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAM 000B Micromolde para audífono retro-auricular RITE/RIC (unidad).</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">44,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
+<td>PAM 000B Micromolde para audífono retro-auricular RITE/RIC (unidad).</td>
+<td>COMP0</td>
+<td>24</td>
+<td>44,00</td>
+<td>40,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAM 000C Molde con auricular integrado para audífono retro-auricular RITE/RIC (unidad).</td>
-<td class="cuerpo_tabla_centro">COMP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">121,00</td>
-<td class="cuerpo_tabla_coma">110,00</td>
+<td>PAM 000C Molde con auricular integrado para audífono retro-auricular RITE/RIC (unidad).</td>
+<td>COMP2</td>
+<td>24</td>
+<td>121,00</td>
+<td>110,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAM 010 Otros componentes para audífonos.</td>
-<td class="cuerpo_tabla_izq">PAM 010A Tubo auricular para audífono retroauricular RITE/RIC (incluye adaptador estándar).</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">77,00</td>
-<td class="cuerpo_tabla_coma">70,00</td>
+<td>PAM 010 Otros componentes para audífonos.</td>
+<td>PAM 010A Tubo auricular para audífono retroauricular RITE/RIC (incluye adaptador estándar).</td>
+<td>COMP0</td>
+<td>12</td>
+<td>77,00</td>
+<td>70,00</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo">Subgrupo: 22 06 99 Recambios de componentes externos de implantes auditivos. El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá el mecanismo que considere más adecuado para la activación, programación y revisiones que se precisen. La solicitud de inclusión en la Oferta de un producto perteneciente a uno de los tipos de las categorías PAI 010 y PAI 030 requiere que venga acompañada o se disponga ya en la Oferta de sus correspondientes componentes de los tipos pertenecientes a las categorías PAI 020 y PAI 040, respectivamente.</p>
+<p>Subgrupo: 22 06 99 Recambios de componentes externos de implantes auditivos. El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá el mecanismo que considere más adecuado para la activación, programación y revisiones que se precisen. La solicitud de inclusión en la Oferta de un producto perteneciente a uno de los tipos de las categorías PAI 010 y PAI 030 requiere que venga acompañada o se disponga ya en la Oferta de sus correspondientes componentes de los tipos pertenecientes a las categorías PAI 020 y PAI 040, respectivamente.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PAI 000 Sistema básico completo para implante de conducción ósea.</td>
-<td class="cuerpo_tabla_izq">PAI 000A Sistema básico para implante de conducción ósea percutáneo (Incluye procesador, pilas* y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">4.730,00</td>
-<td class="cuerpo_tabla_coma">4.300,00</td>
+<td rowspan="3">PAI 000 Sistema básico completo para implante de conducción ósea.</td>
+<td>PAI 000A Sistema básico para implante de conducción ósea percutáneo (Incluye procesador, pilas* y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>4.730,00</td>
+<td>4.300,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 000B Sistema básico para implante de conducción ósea transcutáneo activo (Incluye procesador, pilas* y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">4.730,00</td>
-<td class="cuerpo_tabla_coma">4.300,00</td>
+<td>PAI 000B Sistema básico para implante de conducción ósea transcutáneo activo (Incluye procesador, pilas* y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>4.730,00</td>
+<td>4.300,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 000C Sistema básico para implante de conducción ósea transcutáneo pasivo (Incluye procesador, pilas* y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">4.730,00</td>
-<td class="cuerpo_tabla_coma">4.300,00</td>
+<td>PAI 000C Sistema básico para implante de conducción ósea transcutáneo pasivo (Incluye procesador, pilas* y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>4.730,00</td>
+<td>4.300,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PAI 010 Sistema básico completo para implante coclear.</td>
-<td class="cuerpo_tabla_izq">PAI 010A Sistema básico completo retroauricular para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">7.700,00</td>
-<td class="cuerpo_tabla_coma">7.000,00</td>
+<td rowspan="4">PAI 010 Sistema básico completo para implante coclear.</td>
+<td>PAI 010A Sistema básico completo retroauricular para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>7.700,00</td>
+<td>7.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 010B Sistema básico completo corporal para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">7.700,00</td>
-<td class="cuerpo_tabla_coma">7.000,00</td>
+<td>PAI 010B Sistema básico completo corporal para implante coclear (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>7.700,00</td>
+<td>7.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 010C Sistema básico completo de unidad única para implante coclear (Incluye procesador, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">7.700,00</td>
-<td class="cuerpo_tabla_coma">7.000,00</td>
+<td>PAI 010C Sistema básico completo de unidad única para implante coclear (Incluye procesador, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>7.700,00</td>
+<td>7.000,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 010D Sistema básico completo electroacústico para implante coclear (Incluye procesador, unidad acústica, molde, dos cables, imán, antena/bobina, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">8.580,00</td>
-<td class="cuerpo_tabla_coma">7.800,00</td>
+<td>PAI 010D Sistema básico completo electroacústico para implante coclear (Incluye procesador, unidad acústica, molde, dos cables, imán, antena/bobina, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>8.580,00</td>
+<td>7.800,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PAI 020 Otros componentes externos para implante coclear.</td>
-<td class="cuerpo_tabla_izq">PAI 020A Micrófono para implante coclear.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">176,00</td>
-<td class="cuerpo_tabla_coma">160,00</td>
+<td rowspan="4">PAI 020 Otros componentes externos para implante coclear.</td>
+<td>PAI 020A Micrófono para implante coclear.</td>
+<td>EMP0</td>
+<td>48</td>
+<td>176,00</td>
+<td>160,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 020B Antena/bobina con imán para implante coclear.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">367,50</td>
-<td class="cuerpo_tabla_coma">334,09</td>
+<td>PAI 020B Antena/bobina con imán para implante coclear.</td>
+<td>EMP0</td>
+<td>24</td>
+<td>367,50</td>
+<td>334,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 020C Cable para solución corporal para implante coclear, para niños y para usuarios con características especiales.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">152,88</td>
-<td class="cuerpo_tabla_coma">138,98</td>
+<td>PAI 020C Cable para solución corporal para implante coclear, para niños y para usuarios con características especiales.</td>
+<td>EMP0</td>
+<td>24</td>
+<td>152,88</td>
+<td>138,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 020D Cable para solución retroauricular para implante coclear.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">115,01</td>
-<td class="cuerpo_tabla_coma">104,55</td>
+<td>PAI 020D Cable para solución retroauricular para implante coclear.</td>
+<td>EMP0</td>
+<td>24</td>
+<td>115,01</td>
+<td>104,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 030 Sistema básico completo para implante de tronco cerebral.</td>
-<td class="cuerpo_tabla_izq">PAI 030A Sistema básico completo para implante de tronco cerebral (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">9.542,50</td>
-<td class="cuerpo_tabla_coma">8.675,00</td>
+<td>PAI 030 Sistema básico completo para implante de tronco cerebral.</td>
+<td>PAI 030A Sistema básico completo para implante de tronco cerebral (Incluye procesador, dos cables, antena/bobina, imán, portapilas y/o portabaterías si los precisa, pilas* o dos juegos de baterías recargables, cargador de baterías en su caso, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>9.542,50</td>
+<td>8.675,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">PAI 040 Otros componentes externos para implante de tronco cerebral.</td>
-<td class="cuerpo_tabla_izq">PAI 040A Micrófono para implante de tronco cerebral.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">176,00</td>
-<td class="cuerpo_tabla_coma">160,00</td>
+<td rowspan="4">PAI 040 Otros componentes externos para implante de tronco cerebral.</td>
+<td>PAI 040A Micrófono para implante de tronco cerebral.</td>
+<td>EMP0</td>
+<td>48</td>
+<td>176,00</td>
+<td>160,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 040B Antena/bobina para implante de tronco cerebral.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">367,50</td>
-<td class="cuerpo_tabla_coma">334,09</td>
+<td>PAI 040B Antena/bobina para implante de tronco cerebral.</td>
+<td>EMP0</td>
+<td>24</td>
+<td>367,50</td>
+<td>334,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 040C Cable para solución corporal para implante de tronco cerebral, para niños y para usuarios con características especiales.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">152,88</td>
-<td class="cuerpo_tabla_coma">138,98</td>
+<td>PAI 040C Cable para solución corporal para implante de tronco cerebral, para niños y para usuarios con características especiales.</td>
+<td>EMP0</td>
+<td>24</td>
+<td>152,88</td>
+<td>138,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 040D Cable para solución retroauricular para implante de tronco cerebral.</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">115,01</td>
-<td class="cuerpo_tabla_coma">104,55</td>
+<td>PAI 040D Cable para solución retroauricular para implante de tronco cerebral.</td>
+<td>EMP0</td>
+<td>24</td>
+<td>115,01</td>
+<td>104,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PAI 050 Sistema básico completo para implante de oído medio.</td>
-<td class="cuerpo_tabla_izq">PAI 050A Sistema básico para implante de oído medio con procesador externo (Incluye procesador, pilas* y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">4.070,00</td>
-<td class="cuerpo_tabla_coma">3.700,00</td>
+<td rowspan="3">PAI 050 Sistema básico completo para implante de oído medio.</td>
+<td>PAI 050A Sistema básico para implante de oído medio con procesador externo (Incluye procesador, pilas* y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>4.070,00</td>
+<td>3.700,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 050B Sistema básico completo para implante de oído medio con procesador externo (Incluye procesador, cargador de baterías, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">5.390,00</td>
-<td class="cuerpo_tabla_coma">4.900,00</td>
+<td>PAI 050B Sistema básico completo para implante de oído medio con procesador externo (Incluye procesador, cargador de baterías, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>5.390,00</td>
+<td>4.900,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAI 050C Sistema básico completo para implante de oído medio totalmente implantable (Incluye cargador de baterías, mando a distancia y soporte técnico).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">84</td>
-<td class="cuerpo_tabla_coma">1.540,00</td>
-<td class="cuerpo_tabla_coma">1.400,00</td>
+<td>PAI 050C Sistema básico completo para implante de oído medio totalmente implantable (Incluye cargador de baterías, mando a distancia y soporte técnico).</td>
+<td>EMP0</td>
+<td>84</td>
+<td>1.540,00</td>
+<td>1.400,00</td>
 </tr>
 </tbody>
 <tfoot>
-<tr class="no_repetir">
+<tr>
 <td colspan="6">
-<p class="cita">* Las empresas facilitarán pilas en cantidad suficiente para tres años, en una sola entrega o de forma gradual, con el fin de asegurar las mejores condiciones de uso. Con carácter general, para calcular el número de pilas se considera que:</p>
-<p class="cita">– Los productos de los tipos incluidos en la categoría PAI 000 Sistema básico completo para implante de conducción ósea, precisan 36 pilas al año.</p>
-<p class="cita">– Los productos de los tipos incluidos en las categorías PAI 010 Sistema básico completo para implante coclear y PAI 030 Sistema básico completo para implante de tronco cerebral requieren 360 pilas al año.</p>
-<p class="cita">– Los productos del tipo PAI 050A Sistema básico para implante de oído medio con procesador externo precisan 60 pilas al año.</p>
-<p class="cita">No obstante, el número de pilas a entregar dependerá del tiempo de duración de cada una de ellas informado por el fabricante.</p>
+<p>* Las empresas facilitarán pilas en cantidad suficiente para tres años, en una sola entrega o de forma gradual, con el fin de asegurar las mejores condiciones de uso. Con carácter general, para calcular el número de pilas se considera que:</p>
+<p>– Los productos de los tipos incluidos en la categoría PAI 000 Sistema básico completo para implante de conducción ósea, precisan 36 pilas al año.</p>
+<p>– Los productos de los tipos incluidos en las categorías PAI 010 Sistema básico completo para implante coclear y PAI 030 Sistema básico completo para implante de tronco cerebral requieren 360 pilas al año.</p>
+<p>– Los productos del tipo PAI 050A Sistema básico para implante de oído medio con procesador externo precisan 60 pilas al año.</p>
+<p>No obstante, el número de pilas a entregar dependerá del tiempo de duración de cada una de ellas informado por el fabricante.</p>
 </td>
 </tr>
 </tfoot>
@@ -7864,62 +7530,54 @@ Se facilitarán los procesadores con telebobina con capacidad de conexión con s
 
 Grupo: 89 99 Otros recambios de componentes externos de implantes quirúrgicos
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 89 99 00 Recambios de componentes externos del estimulador diafragmático o electroestimulador del nervio frénico. El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá los seguimientos y las revisiones que se precisen.</p>
+<p>Subgrupo: 89 99 00 Recambios de componentes externos del estimulador diafragmático o electroestimulador del nervio frénico. El procedimiento de acceso a los recambios que establezca cada administración sanitaria competente incluirá los seguimientos y las revisiones que se precisen.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">PRI 000 Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico.</td>
-<td class="cuerpo_tabla_izq">PRI 000A Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico (Incluye un controlador de estímulos, un módulo de programación, dos baterías externas de níquel manganeso, un cargador especial para las baterías externas, dos baterías recargables, un cargador para batería recargable, 4 antenas, 4 cables y una funda).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">96</td>
-<td class="cuerpo_tabla_coma">36.038,09</td>
-<td class="cuerpo_tabla_coma">32.761,90</td>
+<td>PRI 000 Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico.</td>
+<td>PRI 000A Sistema básico completo para estimulador diafragmático o electroestimulador del nervio frénico (Incluye un controlador de estímulos, un módulo de programación, dos baterías externas de níquel manganeso, un cargador especial para las baterías externas, dos baterías recargables, un cargador para batería recargable, 4 antenas, 4 cables y una funda).</td>
+<td>EMP0</td>
+<td>96</td>
+<td>36.038,09</td>
+<td>32.761,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">PRI 010 Otros componentes externos para estimulador diafragmático o electroestimulador del nervio frénico.</td>
-<td class="cuerpo_tabla_izq">PRI 010A Antena para estimulador diafragmático (unidad).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">632,50</td>
-<td class="cuerpo_tabla_coma">575,00</td>
+<td rowspan="3">PRI 010 Otros componentes externos para estimulador diafragmático o electroestimulador del nervio frénico.</td>
+<td>PRI 010A Antena para estimulador diafragmático (unidad).</td>
+<td>EMP0</td>
+<td>24</td>
+<td>632,50</td>
+<td>575,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PRI 010B Cable de transferencia de energía para estimulador diafragmático (unidad).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">339,90</td>
-<td class="cuerpo_tabla_coma">309,00</td>
+<td>PRI 010B Cable de transferencia de energía para estimulador diafragmático (unidad).</td>
+<td>EMP0</td>
+<td>24</td>
+<td>339,90</td>
+<td>309,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PRI 010C Batería de níquel manganeso para estimulador diafragmático (unidad).</td>
-<td class="cuerpo_tabla_centro">EMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">541,20</td>
-<td class="cuerpo_tabla_coma">492,00</td>
+<td>PRI 010C Batería de níquel manganeso para estimulador diafragmático (unidad).</td>
+<td>EMP0</td>
+<td>24</td>
+<td>541,20</td>
+<td>492,00</td>
 </tr>
 </tbody>
 </table>
@@ -7944,189 +7602,181 @@ Grupo: 89 99 Otros recambios de componentes externos de implantes quirúrgicos
 
 Grupo: 12 22 Sillas de ruedas de propulsión manual (No se consideran incluidas las sillas de ruedas manuales con ruedas grandes delanteras maniobradas por los dos brazos, las sillas de ruedas propulsadas con el pie, ni las sillas de ruedas con motor, salvo las incluidas en el grupo 12 23).
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo">Subgrupo: 12 22 00 Sillas de ruedas manuales para personas con patologías o discapacidades que les impidan la marcha funcional de forma permanente.</p>
+<p>Subgrupo: 12 22 00 Sillas de ruedas manuales para personas con patologías o discapacidades que les impidan la marcha funcional de forma permanente.</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">SRM 000 Silla de ruedas manual no autopropulsable no plegable (rígida).</p>
+<td rowspan="2">
+<p>SRM 000 Silla de ruedas manual no autopropulsable no plegable (rígida).</p>
 </td>
-<td class="cuerpo_tabla_izq">SRM 000A Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">258,15</td>
-<td class="cuerpo_tabla_coma">234,68</td>
+<td>SRM 000A Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td>BAS</td>
+<td>48</td>
+<td>258,15</td>
+<td>234,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 000B Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_coma">549,87</td>
-<td class="cuerpo_tabla_coma">499,88</td>
+<td>SRM 000B Silla de ruedas manual no autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td>BAS</td>
+<td>48</td>
+<td>549,87</td>
+<td>499,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SRM 010 Silla de ruedas manual no autopropulsable plegable.</td>
-<td class="cuerpo_tabla_izq">SRM 010A Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">258,15</td>
-<td class="cuerpo_tabla_coma">234,68</td>
+<td rowspan="3">SRM 010 Silla de ruedas manual no autopropulsable plegable.</td>
+<td>SRM 010A Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td>BAS</td>
+<td>36</td>
+<td>258,15</td>
+<td>234,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 010B Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">358,15</td>
-<td class="cuerpo_tabla_coma">325,59</td>
+<td>SRM 010B Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.</td>
+<td>BAS</td>
+<td>36</td>
+<td>358,15</td>
+<td>325,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 010C Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">549,87</td>
-<td class="cuerpo_tabla_coma">499,88</td>
+<td>SRM 010C Silla de ruedas manual no autopropulsable plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td>BAS</td>
+<td>36</td>
+<td>549,87</td>
+<td>499,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">SRM 020 Silla de ruedas manual no autopropulsable plegable o rígida, infantil.</p>
+<td rowspan="3">
+<p>SRM 020 Silla de ruedas manual no autopropulsable plegable o rígida, infantil.</p>
 </td>
-<td class="cuerpo_tabla_izq">SRM 020A Silla de ruedas manual no autopropulsable plegable, infantil, para alteraciones funcionales, tipo paraguas.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">515,17</td>
-<td class="cuerpo_tabla_coma">468,34</td>
+<td>SRM 020A Silla de ruedas manual no autopropulsable plegable, infantil, para alteraciones funcionales, tipo paraguas.</td>
+<td>BAS</td>
+<td>24</td>
+<td>515,17</td>
+<td>468,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 020B Silla de ruedas manual no autopropulsable, desmontable, de plegado en libro, basculante, infantil ajustable al crecimiento del niño.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.618,94</td>
-<td class="cuerpo_tabla_coma">1.471,76</td>
+<td>SRM 020B Silla de ruedas manual no autopropulsable, desmontable, de plegado en libro, basculante, infantil ajustable al crecimiento del niño.</td>
+<td>ADAP2</td>
+<td>24</td>
+<td>1.618,94</td>
+<td>1.471,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 020C Silla de ruedas manual no autopropulsable, plegable o rígida, basculante, infantil, para alteraciones neurológicas graves.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">2.146,79</td>
-<td class="cuerpo_tabla_coma">1.951,63</td>
+<td>SRM 020C Silla de ruedas manual no autopropulsable, plegable o rígida, basculante, infantil, para alteraciones neurológicas graves.</td>
+<td>ADAP2</td>
+<td>24</td>
+<td>2.146,79</td>
+<td>1.951,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">SRM 030 Silla de ruedas manual autopropulsable no plegable (rígida).</td>
-<td class="cuerpo_tabla_izq">SRM 030A Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">258,15</td>
-<td class="cuerpo_tabla_coma">234,68</td>
+<td rowspan="4">SRM 030 Silla de ruedas manual autopropulsable no plegable (rígida).</td>
+<td>SRM 030A Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td>BAS</td>
+<td>36</td>
+<td>258,15</td>
+<td>234,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 030B Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">549,87</td>
-<td class="cuerpo_tabla_coma">499,88</td>
+<td>SRM 030B Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td>BAS</td>
+<td>36</td>
+<td>549,87</td>
+<td>499,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 030C Silla de ruedas manual autopropulsable no plegable (rígida), de verticalización, con sistema de sujeción en rodilla, para usuarios activos con lesión medular congénita o adquirida y antecedentes de úlcera por decúbito recidivante a pesar de tratamiento quirúrgico (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">3.157,55</td>
-<td class="cuerpo_tabla_coma">2.870,50</td>
+<td>SRM 030C Silla de ruedas manual autopropulsable no plegable (rígida), de verticalización, con sistema de sujeción en rodilla, para usuarios activos con lesión medular congénita o adquirida y antecedentes de úlcera por decúbito recidivante a pesar de tratamiento quirúrgico (especial prescripción).</td>
+<td>ADAP1</td>
+<td>36</td>
+<td>3.157,55</td>
+<td>2.870,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 030D Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y/o protectores de ropa, reposapiés fijos o abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.000,85</td>
-<td class="cuerpo_tabla_coma">1.818,95</td>
+<td>SRM 030D Silla de ruedas manual autopropulsable no plegable (rígida), con reposabrazos desmontables y/o abatibles y/o protectores de ropa, reposapiés fijos o abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).</td>
+<td>ADAP1</td>
+<td>36</td>
+<td>2.000,85</td>
+<td>1.818,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">SRM 040 Silla de ruedas manual autopropulsable plegable.</td>
-<td class="cuerpo_tabla_izq">SRM 040A Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">258,15</td>
-<td class="cuerpo_tabla_coma">234,68</td>
+<td rowspan="6">SRM 040 Silla de ruedas manual autopropulsable plegable.</td>
+<td>SRM 040A Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables.</td>
+<td>BAS</td>
+<td>36</td>
+<td>258,15</td>
+<td>234,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 040B Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">478,85</td>
-<td class="cuerpo_tabla_coma">435,32</td>
+<td>SRM 040B Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con respaldo reclinable.</td>
+<td>BAS</td>
+<td>36</td>
+<td>478,85</td>
+<td>435,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 040C Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">549,87</td>
-<td class="cuerpo_tabla_coma">499,88</td>
+<td>SRM 040C Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, para usuarios de más de 130 kg.</td>
+<td>BAS</td>
+<td>24</td>
+<td>549,87</td>
+<td>499,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 040D Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">413,23</td>
-<td class="cuerpo_tabla_coma">375,66</td>
+<td>SRM 040D Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero.</td>
+<td>ADAP1</td>
+<td>36</td>
+<td>413,23</td>
+<td>375,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 040E Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero, infantil.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">900,00</td>
-<td class="cuerpo_tabla_coma">818,18</td>
+<td>SRM 040E Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles y reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero, infantil.</td>
+<td>ADAP1</td>
+<td>36</td>
+<td>900,00</td>
+<td>818,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 040F Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles, reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.000,85</td>
-<td class="cuerpo_tabla_coma">1.818,95</td>
+<td>SRM 040F Silla de ruedas manual autopropulsable y plegable, con reposabrazos desmontables y/o abatibles, reposapiés abatibles y regulables, con ruedas de desmontaje rápido, de material ligero para usuarios activos, con patología medular de cualquier etiología o enfermedades neuromusculares (especial prescripción).</td>
+<td>ADAP1</td>
+<td>36</td>
+<td>2.000,85</td>
+<td>1.818,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SRM 050 Chasis y silla basculante para alteraciones neurológicas graves.</td>
-<td class="cuerpo_tabla_izq">SRM 050A Chasis posicionador basculante, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">1.604,08</td>
-<td class="cuerpo_tabla_coma">1.458,25</td>
+<td rowspan="3">SRM 050 Chasis y silla basculante para alteraciones neurológicas graves.</td>
+<td>SRM 050A Chasis posicionador basculante, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).</td>
+<td>ADAP3</td>
+<td>36</td>
+<td>1.604,08</td>
+<td>1.458,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 050B Chasis posicionador basculante, de material ligero, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">1.936,00</td>
-<td class="cuerpo_tabla_coma">1.760,00</td>
+<td>SRM 050B Chasis posicionador basculante, de material ligero, incluyendo ruedas y frenos, susceptible de adaptaciones especiales, para alteraciones neurológicas graves (especial prescripción).</td>
+<td>ADAP3</td>
+<td>36</td>
+<td>1.936,00</td>
+<td>1.760,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRM 050C Silla basculante, con asiento y respaldo reclinable, reposacabezas, reposabrazos extraíbles, reposapiés elevables, y control postural de tronco, para alteraciones neurológicas graves (especial prescripción).</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.574,79</td>
-<td class="cuerpo_tabla_coma">2.340,72</td>
+<td>SRM 050C Silla basculante, con asiento y respaldo reclinable, reposacabezas, reposabrazos extraíbles, reposapiés elevables, y control postural de tronco, para alteraciones neurológicas graves (especial prescripción).</td>
+<td>ADAP2</td>
+<td>36</td>
+<td>2.574,79</td>
+<td>2.340,72</td>
 </tr>
 </tbody>
 </table>
@@ -8145,160 +7795,152 @@ c) Suficiente capacidad visual, mental y de control que les permita el manejo de
 
 Para la prescripción de las sillas de propulsión eléctrica se han de tener en cuenta los criterios que se recogen en los protocolos que se establezcan al efecto por el responsable de prestación ortoprotésica.
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">SRE 000 Silla de ruedas eléctrica.</p>
+<p>SRE 000 Silla de ruedas eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRE 000A Silla de ruedas eléctrica estándar.</p>
+<p>SRE 000A Silla de ruedas eléctrica estándar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.520,00</p>
+<p>3.520,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.200,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRE 000B Silla de ruedas eléctrica, infantil.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.015,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.650,00</p>
+<p>3.200,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRE 000C Silla de ruedas eléctrica, para usuarios de más de 130 kg.</p>
+<p>SRE 000B Silla de ruedas eléctrica, infantil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.725,72</p>
+<p>4.015,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.296,11</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRE 000D Silla de ruedas eléctrica, con basculación manual.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.125,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.750,00</p>
+<p>3.650,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRE 000E Silla de ruedas eléctrica, con basculación manual, infantil.</p>
+<p>SRE 000C Silla de ruedas eléctrica, para usuarios de más de 130 kg.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.620,00</p>
+<p>4.725,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.200,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRE 000F Silla de ruedas eléctrica, con basculación electrónica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.455,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.050,00</p>
+<p>4.296,11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRE 000G Silla de ruedas eléctrica, con basculación electrónica, infantil.</p>
+<p>SRE 000D Silla de ruedas eléctrica, con basculación manual.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.950,00</p>
+<p>4.125,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.500,00</p>
+<p>3.750,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRE 000E Silla de ruedas eléctrica, con basculación manual, infantil.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>4.620,00</p>
+</td>
+<td>
+<p>4.200,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRE 000F Silla de ruedas eléctrica, con basculación electrónica.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>4.455,00</p>
+</td>
+<td>
+<p>4.050,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRE 000G Silla de ruedas eléctrica, con basculación electrónica, infantil.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>4.950,00</p>
+</td>
+<td>
+<p>4.500,00</p>
 </td>
 </tr>
 </tbody>
@@ -8316,109 +7958,101 @@ Subgrupo: 12 24 15 Mesas o bandejas portátiles.
 
 Subgrupo: 12 24 24. Baterías.
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SAT 000 Batería para silla de ruedas eléctrica.</p>
+<p>SAT 000 Batería para silla de ruedas eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SAT 000A Batería para silla de ruedas eléctrica (par) de menos de 50A.</p>
+<p>SAT 000A Batería para silla de ruedas eléctrica (par) de menos de 50A.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">416,05</p>
+<p>416,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">378,23</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SAT 000B Batería para silla de ruedas eléctrica (par) de 50 A.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">460,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">418,23</p>
+<p>378,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SAT 000C Batería para silla de ruedas eléctrica (par) de 60 A.</p>
+<p>SAT 000B Batería para silla de ruedas eléctrica (par) de 50 A.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">566,37</p>
+<p>460,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">514,89</p>
+<p>418,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SAT 000D Batería para silla de ruedas eléctrica (par) de 70 A</p>
+<p>SAT 000C Batería para silla de ruedas eléctrica (par) de 60 A.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">668,23</p>
+<p>566,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">607,49</p>
+<p>514,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SAT 000D Batería para silla de ruedas eléctrica (par) de 70 A</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>668,23</p>
+</td>
+<td>
+<p>607,49</p>
 </td>
 </tr>
 </tbody>
@@ -8426,509 +8060,501 @@ Subgrupo: 12 24 24. Baterías.
 
 Subgrupo: 12 24 89. Otros accesorios para sillas de ruedas.
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="12">
-<p class="cuerpo_tabla_izq">SRA 000 Apoyo postural para silla de ruedas, incluidos tacos y correas.</p>
+<p>SRA 000 Apoyo postural para silla de ruedas, incluidos tacos y correas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000A Apoyos laterales para la cabeza (par).</p>
+<p>SRA 000A Apoyos laterales para la cabeza (par).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP2</p>
+<p>COMP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">156,06</p>
+<p>156,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141,87</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 000B Apoyos laterales para el tronco fijos (par).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">127,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">115,50</p>
+<p>141,87</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000C Apoyos laterales para el tronco abatibles (par).</p>
+<p>SRA 000B Apoyos laterales para el tronco fijos (par).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP2</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">166,00</p>
+<p>127,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,91</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 000D Cuña niveladora de pelvis (unidad).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">59,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">53,94</p>
+<p>115,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000E Taco abductor (unidad).</p>
+<p>SRA 000C Apoyos laterales para el tronco abatibles (par).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70,93</p>
+<p>166,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 000F Cincha para la cabeza.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">63,87</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">58,06</p>
+<p>150,91</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000G Chaleco de fijación.</p>
+<p>SRA 000D Cuña niveladora de pelvis (unidad).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP2</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101,92</p>
+<p>59,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92,65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 000H Arnés de hombros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">81,82</p>
+<p>53,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000I Cinturón de 4 puntos.</p>
+<p>SRA 000E Taco abductor (unidad).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88,07</p>
+<p>70,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80,06</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 000J Cinturón o arnés pélvico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">125,09</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">113,72</p>
+<p>64,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000K Cinchas para pies (par).</p>
+<p>SRA 000F Cincha para la cabeza.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,76</p>
+<p>63,87</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">48,87</p>
+<p>58,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 000L Soporte de fluido (unidad).</p>
+<p>SRA 000G Chaleco de fijación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,00</p>
+<p>101,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56,36</p>
+<p>92,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 000H Arnés de hombros.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>90,00</p>
+</td>
+<td>
+<p>81,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 000I Cinturón de 4 puntos.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>88,07</p>
+</td>
+<td>
+<p>80,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 000J Cinturón o arnés pélvico.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>125,09</p>
+</td>
+<td>
+<p>113,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 000K Cinchas para pies (par).</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>53,76</p>
+</td>
+<td>
+<p>48,87</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 000L Soporte de fluido (unidad).</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>62,00</p>
+</td>
+<td>
+<p>56,36</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SRA 010 Reposacabezas.</p>
+<p>SRA 010 Reposacabezas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRA 010A Reposacabezas fijo.</p>
+<p>SRA 010A Reposacabezas fijo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">85,01</p>
+<p>85,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">77,28</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 010B Reposacabezas con apoyo occipital o total, fijo u orientable.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">187,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">170,13</p>
+<p>77,28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 010C Reposacabezas con apoyo occipital o total, orientable con brazo de una articulación ajustable en altura y profundidad.</p>
+<p>SRA 010B Reposacabezas con apoyo occipital o total, fijo u orientable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP3</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">495,00</p>
+<p>187,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">450,00</p>
+<p>170,13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 010D Reposacabezas con apoyo occipital o total, orientable con brazo acodado de dos articulaciones, ajustable en altura y profundidad.</p>
+<p>SRA 010C Reposacabezas con apoyo occipital o total, orientable con brazo de una articulación ajustable en altura y profundidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP3</p>
+<p>COMP3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">610,67</p>
+<p>495,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">555,15</p>
+<p>450,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 010D Reposacabezas con apoyo occipital o total, orientable con brazo acodado de dos articulaciones, ajustable en altura y profundidad.</p>
+</td>
+<td>
+<p>COMP3</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>610,67</p>
+</td>
+<td>
+<p>555,15</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">SRA 020 Sistema para autopropulsión con un solo brazo.</p>
+<p>SRA 020 Sistema para autopropulsión con un solo brazo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRA 020A Sistema de doble aro para autopropulsión con un solo brazo.</p>
+<p>SRA 020A Sistema de doble aro para autopropulsión con un solo brazo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">383,70</p>
+<p>383,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">348,82</p>
+<p>348,82</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 020B Palanca.</p>
+<p>SRA 020B Palanca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">431,26</p>
+<p>431,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">392,05</p>
+<p>392,05</p>
 </td>
 </tr>
 <tr>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">SRA 030 Otros accesorios.</p>
+<p>SRA 030 Otros accesorios.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRA 030A Mando especial de mentón para silla de ruedas eléctrica.</p>
+<p>SRA 030A Mando especial de mentón para silla de ruedas eléctrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP3</p>
+<p>COMP3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.552,57</p>
+<p>1.552,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.411,43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 030B Otro mando especial para silla de ruedas eléctrica, de acuerdo con los protocolos de los responsables de prestación ortoprotésica (especial prescripción).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">SP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">SP</p>
+<p>1.411,43</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 030C Sistema doble amputado.</p>
+<p>SRA 030B Otro mando especial para silla de ruedas eléctrica, de acuerdo con los protocolos de los responsables de prestación ortoprotésica (especial prescripción).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65,85</p>
+<p>SP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">59,86</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 030D Dispositivo especial para respirador.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">162,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">147,27</p>
+<p>SP</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 030E Dispositivo para bombona de oxígeno.</p>
+<p>SRA 030C Sistema doble amputado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">83,78</p>
+<p>65,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">76,16</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 030F Subebordillos para silla de ruedas eléctrica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">216,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">197,13</p>
+<p>59,86</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 030G Rueda antivuelco para silla de ruedas manual.</p>
+<p>SRA 030D Dispositivo especial para respirador.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49,62</p>
+<p>162,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,11</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRA 030H Alargador de freno.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18,18</p>
+<p>147,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRA 030I Base rígida para silla de ruedas.</p>
+<p>SRA 030E Dispositivo para bombona de oxígeno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51,49</p>
+<p>83,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46,81</p>
+<p>76,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 030F Subebordillos para silla de ruedas eléctrica.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>48</p>
+</td>
+<td>
+<p>216,84</p>
+</td>
+<td>
+<p>197,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 030G Rueda antivuelco para silla de ruedas manual.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>49,62</p>
+</td>
+<td>
+<p>45,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 030H Alargador de freno.</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+<td>
+<p>18,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRA 030I Base rígida para silla de ruedas.</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>51,49</p>
+</td>
+<td>
+<p>46,81</p>
 </td>
 </tr>
 </tbody>
@@ -8936,271 +8562,263 @@ Subgrupo: 12 24 89. Otros accesorios para sillas de ruedas.
 
 Subgrupo: 12 24 90 Recambios y componentes para sillas de ruedas.
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SRC 000 Reposabrazos especial.</p>
+<p>SRC 000 Reposabrazos especial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRC 000A Reposabrazos de cazoleta.</p>
+<p>SRC 000A Reposabrazos de cazoleta.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108,63</p>
+<p>108,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRC 000B Reposabrazos envolvente con soporte palmar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">151,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">137,95</p>
+<p>98,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRC 000C Reposabrazos regulable en altura.</p>
+<p>SRC 000B Reposabrazos envolvente con soporte palmar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,38</p>
+<p>151,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,62</p>
+<p>137,95</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRC 000C Reposabrazos regulable en altura.</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>129,38</p>
+</td>
+<td>
+<p>117,62</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">SRC 010 Reposapiés especial.</p>
+<p>SRC 010 Reposapiés especial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRC 010A Reposapiés único.</p>
+<p>SRC 010A Reposapiés único.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">103,00</p>
+<p>103,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93,64</p>
+<p>93,64</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRC 010B Reposapiés con cazoleta (par).</p>
+<p>SRC 010B Reposapiés con cazoleta (par).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP2</p>
+<p>COMP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">193,00</p>
+<p>193,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">175,45</p>
+<p>175,45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRC 010C Reposapiés con elevación manual para silla de ruedas manual o eléctrica (par).</p>
+<p>SRC 010C Reposapiés con elevación manual para silla de ruedas manual o eléctrica (par).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">313,92</p>
+<p>313,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">285,38</p>
+<p>285,38</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRC 010D Reposapiés con elevación eléctrica para silla de ruedas eléctricas (par).</p>
+<p>SRC 010D Reposapiés con elevación eléctrica para silla de ruedas eléctricas (par).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">843,76</p>
+<p>843,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">767,05</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">SRC 020 Asiento-respaldo postural con carcasa, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">SRC 020A Asiento-respaldo postural con carcasa, a medida previo molde.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.500,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.272,73</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRC 020B Asiento postural con carcasa, a medida previo molde.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.291,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.174,22</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRC 020C Respaldo postural con carcasa, a medida previo molde.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.320,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.200,00</p>
+<p>767,05</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">SRC 030 Asiento-respaldo postural modular.</p>
+<p>SRC 020 Asiento-respaldo postural con carcasa, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SRC 030A Plataforma rígida ajustable para asiento postural modular.</p>
+<p>SRC 020A Asiento-respaldo postural con carcasa, a medida previo molde.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">238,50</p>
+<p>2.500,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">216,82</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">SRC 030B Asiento postural modular.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">754,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">685,45</p>
+<p>2.272,73</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">SRC 030C Respaldo postural modular.</p>
+<p>SRC 020B Asiento postural con carcasa, a medida previo molde.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP3</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">847,00</p>
+<p>1.291,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">770,00</p>
+<p>1.174,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRC 020C Respaldo postural con carcasa, a medida previo molde.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>1.320,00</p>
+</td>
+<td>
+<p>1.200,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>SRC 030 Asiento-respaldo postural modular.</p>
+</td>
+<td>
+<p>SRC 030A Plataforma rígida ajustable para asiento postural modular.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>238,50</p>
+</td>
+<td>
+<p>216,82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRC 030B Asiento postural modular.</p>
+</td>
+<td>
+<p>COMP3</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>754,00</p>
+</td>
+<td>
+<p>685,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>SRC 030C Respaldo postural modular.</p>
+</td>
+<td>
+<p>COMP3</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>847,00</p>
+</td>
+<td>
+<p>770,00</p>
 </td>
 </tr>
 </tbody>
@@ -9216,197 +8834,189 @@ Grupo: 06 03 Ortesis de columna vertebral (No se consideran incluidas las fajas 
 
 Subgrupo: 06 03 06 Ortesis lumbo-sacras (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">OTL 000 Ortesis lumbo-sacra semirrígida.</p>
+<p>OTL 000 Ortesis lumbo-sacra semirrígida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTL 000A Ortesis lumbo-sacra semirrígida elástica con flejes posteriores.</p>
+<p>OTL 000A Ortesis lumbo-sacra semirrígida elástica con flejes posteriores.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">BAS</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">68,28</p>
+<p>68,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,07</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTL 000B Ortesis lumbo-sacra semirrígida en tejido no elástico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">BAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80,18</p>
+<p>62,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTL 000C Ortesis lumbo-sacra semirrígida en tejido elástico o no elástico para abdomen péndulo.</p>
+<p>OTL 000B Ortesis lumbo-sacra semirrígida en tejido no elástico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,00</p>
+<p>88,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTL 000D Ortesis lumbo-sacra semirrígida para eventración y/u ostomía.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">99,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90,00</p>
+<p>80,18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTL 000E Ortesis lumbo-sacra semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</p>
+<p>OTL 000C Ortesis lumbo-sacra semirrígida en tejido elástico o no elástico para abdomen péndulo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">290,95</p>
+<p>99,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">264,50</p>
+<p>90,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTL 000D Ortesis lumbo-sacra semirrígida para eventración y/u ostomía.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>99,00</p>
+</td>
+<td>
+<p>90,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTL 000E Ortesis lumbo-sacra semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>290,95</p>
+</td>
+<td>
+<p>264,50</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">OTL 010 Ortesis lumbo-sacra rígida.</p>
+<p>OTL 010 Ortesis lumbo-sacra rígida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTL 010A Ortesis lumbo-sacra rígida, prefabricada.</p>
+<p>OTL 010A Ortesis lumbo-sacra rígida, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">277,31</p>
+<p>277,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">252,10</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTL 010B Ortesis lumbo-sacra rígida en termoplástico, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">538,49</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">489,54</p>
+<p>252,10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTL 010C Ortesis lumbo-sacra Knight.</p>
+<p>OTL 010B Ortesis lumbo-sacra rígida en termoplástico, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">186,30</p>
+<p>538,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">169,36</p>
+<p>489,54</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTL 010D Ortesis lumbo-sacra con armazón rígido posterior y tejido elástico.</p>
+<p>OTL 010C Ortesis lumbo-sacra Knight.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">218,10</p>
+<p>186,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">198,27</p>
+<p>169,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTL 010D Ortesis lumbo-sacra con armazón rígido posterior y tejido elástico.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>218,10</p>
+</td>
+<td>
+<p>198,27</p>
 </td>
 </tr>
 </tbody>
@@ -9414,527 +9024,519 @@ Subgrupo: 06 03 06 Ortesis lumbo-sacras (Aportación del usuario: 30 euros).
 
 Subgrupo: 06 03 09. Ortesis toraco-lumbo-sacras (dorso-lumbares) (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OTD 000 Ortesis toraco-lumbar semirrígida.</p>
+<p>OTD 000 Ortesis toraco-lumbar semirrígida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 000A Ortesis toraco-lumbar semirrígida.</p>
+<p>OTD 000A Ortesis toraco-lumbar semirrígida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">104,50</p>
+<p>104,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">95,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 000B Ortesis toraco-lumbar semirrígida para abdomen péndulo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">104,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">95,00</p>
+<p>95,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 000C Ortesis toraco-lumbar semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</p>
+<p>OTD 000B Ortesis toraco-lumbar semirrígida para abdomen péndulo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">242,18</p>
+<p>104,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">220,16</p>
+<p>95,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 000C Ortesis toraco-lumbar semirrígida, a medida, para usuarios con características especiales que no permiten adaptar las prefabricadas.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>242,18</p>
+</td>
+<td>
+<p>220,16</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTD 010 Ortesis para pectus carinatum (tórax en quilla) o excavatum.</p>
+<p>OTD 010 Ortesis para pectus carinatum (tórax en quilla) o excavatum.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 010A Corsé para pectus carinatum (tórax en quilla) o pectus excavatum, a medida.</p>
+<p>OTD 010A Corsé para pectus carinatum (tórax en quilla) o pectus excavatum, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">647,65</p>
+<p>647,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">588,77</p>
+<p>588,77</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 010B Ortesis para pectus carinatum (tórax en quilla), prefabricada.</p>
+<p>OTD 010B Ortesis para pectus carinatum (tórax en quilla), prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">495,00</p>
+<p>495,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">450,00</p>
+<p>450,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">OTD 020 Ortesis toraco-lumbar rígida.</p>
+<p>OTD 020 Ortesis toraco-lumbar rígida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 020A Ortesis toraco-lumbar rígida monovalva para inmovilización en termoplástico, prefabricada.</p>
+<p>OTD 020A Ortesis toraco-lumbar rígida monovalva para inmovilización en termoplástico, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">275,00</p>
+<p>275,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">250,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 020B Ortesis toraco-lumbar rígida bivalva con apoyo esternal para inmovilización en termoplástico, prefabricada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">448,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">407,39</p>
+<p>250,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 020C Ortesis toraco-lumbar rígida para inmovilización en termoplástico, a medida.</p>
+<p>OTD 020B Ortesis toraco-lumbar rígida bivalva con apoyo esternal para inmovilización en termoplástico, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">688,57</p>
+<p>448,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">625,97</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 020D Ortesis toraco-lumbar Taylor, prefabricada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">214,19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">194,72</p>
+<p>407,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 020E Ortesis toraco-lumbar con armazón rígido posterior y tejido elástico.</p>
+<p>OTD 020C Ortesis toraco-lumbar rígida para inmovilización en termoplástico, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">341,00</p>
+<p>688,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">310,00</p>
+<p>625,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 020D Ortesis toraco-lumbar Taylor, prefabricada.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>214,19</p>
+</td>
+<td>
+<p>194,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 020E Ortesis toraco-lumbar con armazón rígido posterior y tejido elástico.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>341,00</p>
+</td>
+<td>
+<p>310,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTD 030 Corsé rígido para cifolordosis.</p>
+<p>OTD 030 Corsé rígido para cifolordosis.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 030A Corsé rígido de corrección progresiva para cifolordosis, a medida.</p>
+<p>OTD 030A Corsé rígido de corrección progresiva para cifolordosis, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">988,80</p>
+<p>988,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">898,91</p>
+<p>898,91</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 030B Corsé rígido de corrección progresiva para cifolordosis articulado, a medida.</p>
+<p>OTD 030B Corsé rígido de corrección progresiva para cifolordosis articulado, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">988,80</p>
+<p>988,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">898,91</p>
+<p>898,91</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OTD 040 Corsé para escoliosis, a medida.</p>
+<p>OTD 040 Corsé para escoliosis, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 040A Corsé de Stagnara o Lyones, a medida.</p>
+<p>OTD 040A Corsé de Stagnara o Lyones, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">977,66</p>
+<p>977,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">888,78</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 040B Corsé de Cheneau, con almohadillas de presión, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.048,49</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">953,17</p>
+<p>888,78</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 040C Corsé de Michel, a medida.</p>
+<p>OTD 040B Corsé de Cheneau, con almohadillas de presión, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">910,80</p>
+<p>1.048,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">828,00</p>
+<p>953,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 040C Corsé de Michel, a medida.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>910,80</p>
+</td>
+<td>
+<p>828,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">OTD 050 Corsé tipo Boston.</p>
+<p>OTD 050 Corsé tipo Boston.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 050A Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, con módulo prefabricado.</p>
+<p>OTD 050A Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, con módulo prefabricado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP3</p>
+<p>ADAP3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">880,00</p>
+<p>880,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">800,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 050B Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, talla especial.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">894,83</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">813,48</p>
+<p>800,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 050C Corsé tipo Boston blando.</p>
+<p>OTD 050B Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, talla especial.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">816,42</p>
+<p>894,83</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">742,20</p>
+<p>813,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 050D Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, a medida.</p>
+<p>OTD 050C Corsé tipo Boston blando.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">909,65</p>
+<p>816,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">826,95</p>
+<p>742,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 050D Corsé tipo Boston, en termoplástico con aperturas de expansión y almohadillas de presión, a medida.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>909,65</p>
+</td>
+<td>
+<p>826,95</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTD 060 Ortesis de uso nocturno.</p>
+<p>OTD 060 Ortesis de uso nocturno.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 060A Ortesis de inclinación lateral de uso nocturno, a medida.</p>
+<p>OTD 060A Ortesis de inclinación lateral de uso nocturno, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.024,89</p>
+<p>1.024,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">931,72</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 060B Corsé de termoplástico con sistema de presión en 3 puntos y zonas de expansión de uso nocturno (tipo Providence o similar), a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.049,07</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">953,70</p>
+<p>931,72</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 070 Ortesis de Kallabis.</p>
+<p>OTD 060B Corsé de termoplástico con sistema de presión en 3 puntos y zonas de expansión de uso nocturno (tipo Providence o similar), a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 070A Ortesis de Kallabis de tres puntos.</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>1.049,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">188,99</p>
+<p>953,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 070 Ortesis de Kallabis.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">171,81</p>
+<p>OTD 070A Ortesis de Kallabis de tres puntos.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>188,99</p>
+</td>
+<td>
+<p>171,81</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OTD 080 Ortesis de hiperextensión.</p>
+<p>OTD 080 Ortesis de hiperextensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 080A Ortesis de hiperextensión de Jewett.</p>
+<p>OTD 080A Ortesis de hiperextensión de Jewett.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">216,37</p>
+<p>216,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">196,70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTD 080B Ortesis de hiperextensión cruciforme.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">225,37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">204,88</p>
+<p>196,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 080C Ortesis de hiperextensión basculante.</p>
+<p>OTD 080B Ortesis de hiperextensión cruciforme.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">234,37</p>
+<p>225,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">213,06</p>
+<p>204,88</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTD 080C Ortesis de hiperextensión basculante.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>234,37</p>
+</td>
+<td>
+<p>213,06</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTD 090 Lecho postural.</p>
+<p>OTD 090 Lecho postural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTD 090A Lecho postural Denis Browne para escoliosis del lactante.</p>
+<p>OTD 090A Lecho postural Denis Browne para escoliosis del lactante.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">442,63</p>
+<p>442,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">402,39</p>
+<p>402,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTD 090B Lecho postural en termoplástico, a medida previo molde.</p>
+<p>OTD 090B Lecho postural en termoplástico, a medida previo molde.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">600,46</p>
+<p>600,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">545,87</p>
+<p>545,87</p>
 </td>
 </tr>
 </tbody>
@@ -9949,115 +9551,107 @@ Subgrupo: 06 03 12 Ortesis cervicales (Aportación del usuario: 30 euros).
 
 Subgrupo: 06 03 15 Ortesis cérvico-torácicas (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTT 000 Ortesis cervical tipo Somi.</p>
+<p>OTT 000 Ortesis cervical tipo Somi.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTT 000A Soporte cervical tipo Somi.</p>
+<p>OTT 000A Soporte cervical tipo Somi.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">289,10</p>
+<p>289,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">262,82</p>
+<p>262,82</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTT 010 Minerva larga.</p>
+<p>OTT 010 Minerva larga.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTT 010A Minerva larga, a medida previo molde.</p>
+<p>OTT 010A Minerva larga, a medida previo molde.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">592,63</p>
+<p>592,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">538,75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTT 010B Minerva larga, prefabricada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">410,56</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">373,24</p>
+<p>538,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTT 020 Chaleco para halo.</p>
+<p>OTT 010B Minerva larga, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTT 020A Chaleco para halo.</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP3</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>410,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">273,85</p>
+<p>373,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTT 020 Chaleco para halo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">248,95</p>
+<p>OTT 020A Chaleco para halo.</p>
+</td>
+<td>
+<p>ADAP3</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>273,85</p>
+</td>
+<td>
+<p>248,95</p>
 </td>
 </tr>
 </tbody>
@@ -10065,132 +9659,124 @@ Subgrupo: 06 03 15 Ortesis cérvico-torácicas (Aportación del usuario: 30 euro
 
 Subgrupo: 06 03 18 Ortesis cérvico-toraco-lumbo-sacras (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTS 000 Corsé de Milwaukee.</p>
+<p>OTS 000 Corsé de Milwaukee.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTS 000A Corsé de Milwaukee con cesta pélvica en cuero y placas correctoras, a medida.</p>
+<p>OTS 000A Corsé de Milwaukee con cesta pélvica en cuero y placas correctoras, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.190,97</p>
+<p>1.190,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.082,70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OTS 000B Corsé de Milwaukee con cesta pélvica en termoplástico y placas correctoras, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">822,82</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">748,02</p>
+<p>1.082,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTS 900 Supraestructura.</p>
+<p>OTS 000B Corsé de Milwaukee con cesta pélvica en termoplástico y placas correctoras, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTS 900A Supraestructura de corsé de Milwaukee adaptada a otro tipo de corsé.</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP3</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>822,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">340,02</p>
+<p>748,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OTS 900 Supraestructura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">309,11</p>
+<p>OTS 900A Supraestructura de corsé de Milwaukee adaptada a otro tipo de corsé.</p>
+</td>
+<td>
+<p>ADAP3</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>340,02</p>
+</td>
+<td>
+<p>309,11</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OTS 910 Cambio de cesta pélvica.</p>
+<p>OTS 910 Cambio de cesta pélvica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OTS 910A Cesta pélvica en cuero para corsé de Milwaukee, a medida.</p>
+<p>OTS 910A Cesta pélvica en cuero para corsé de Milwaukee, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">850,95</p>
+<p>850,95</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">773,59</p>
+<p>773,59</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OTS 910B Cesta pélvica en termoplástico para corsé de Milwaukee, a medida.</p>
+<p>OTS 910B Cesta pélvica en termoplástico para corsé de Milwaukee, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">482,80</p>
+<p>482,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">438,91</p>
+<p>438,91</p>
 </td>
 </tr>
 </tbody>
@@ -10200,169 +9786,161 @@ Grupo: 06 06 Ortesis de miembro superior
 
 Subgrupo: 06 06 03 Ortesis de dedos (Aportación del usuario: 12 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSD 000 Ortesis pasiva para dedo pulgar.</p>
+<p>OSD 000 Ortesis pasiva para dedo pulgar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSD 000A Ortesis pasiva rígida para mantener el pulgar en oposición o abducción, prefabricada.</p>
+<p>OSD 000A Ortesis pasiva rígida para mantener el pulgar en oposición o abducción, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">68,50</p>
+<p>68,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,27</p>
+<p>62,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSD 000B Ortesis pasiva en termoplástico para mantener el pulgar en oposición o abducción, a medida.</p>
+<p>OSD 000B Ortesis pasiva en termoplástico para mantener el pulgar en oposición o abducción, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,60</p>
+<p>87,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79,64</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">OSD 010 Ortesis pasiva para dedo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OSD 010A Ortesis pasiva rígida para inmovilización de dedo, prefabricada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">BAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,29</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22,99</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSD 010B Ortesis pasiva en termoplástico para inmovilización de dedo, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">44,29</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">40,26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSD 020 Ortesis activa para dedo pulgar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OSD 020A Ortesis activa para dedo pulgar, prefabricada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">73,16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">66,51</p>
+<p>79,64</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSD 030 Ortesis activa flexora/extensora para dedo.</p>
+<p>OSD 010 Ortesis pasiva para dedo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSD 030A Ortesis activa extensora para dedo.</p>
+<p>OSD 010A Ortesis pasiva rígida para inmovilización de dedo, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,64</p>
+<p>25,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,76</p>
+<p>22,99</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSD 030B Ortesis activa flexora para dedo.</p>
+<p>OSD 010B Ortesis pasiva en termoplástico para inmovilización de dedo, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,64</p>
+<p>44,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,76</p>
+<p>40,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSD 020 Ortesis activa para dedo pulgar.</p>
+</td>
+<td>
+<p>OSD 020A Ortesis activa para dedo pulgar, prefabricada.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>73,16</p>
+</td>
+<td>
+<p>66,51</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>OSD 030 Ortesis activa flexora/extensora para dedo.</p>
+</td>
+<td>
+<p>OSD 030A Ortesis activa extensora para dedo.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>42,64</p>
+</td>
+<td>
+<p>38,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSD 030B Ortesis activa flexora para dedo.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>42,64</p>
+</td>
+<td>
+<p>38,76</p>
 </td>
 </tr>
 </tbody>
@@ -10370,180 +9948,172 @@ Subgrupo: 06 06 03 Ortesis de dedos (Aportación del usuario: 12 euros).
 
 Subgrupo: 06 06 06 Ortesis de mano (Aportación del usuario: 12 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OSM 000 Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada.</p>
+<p>OSM 000 Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSM 000A Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, prefabricada.</p>
+<p>OSM 000A Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107,80</p>
+<p>107,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSM 000B Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">116,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">105,57</p>
+<p>98,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSM 000C Ortesis pasiva progresiva para llevar las articulaciones metacarpofalángicas a una posición determinada.</p>
+<p>OSM 000B Ortesis pasiva para mantener las articulaciones metacarpofalángicas en una posición determinada, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">121,97</p>
+<p>116,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110,88</p>
+<p>105,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSM 000C Ortesis pasiva progresiva para llevar las articulaciones metacarpofalángicas a una posición determinada.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>121,97</p>
+</td>
+<td>
+<p>110,88</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">OSM 010 Ortesis activa flexora o extensora de articulaciones metacarpofalángicas.</p>
+<p>OSM 010 Ortesis activa flexora o extensora de articulaciones metacarpofalángicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSM 010A Ortesis activa extensora de articulaciones metacarpofalángicas.</p>
+<p>OSM 010A Ortesis activa extensora de articulaciones metacarpofalángicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122,55</p>
+<p>122,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">111,41</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSM 010B Ortesis activa flexora de articulaciones metacarpofalángicas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">111,41</p>
+<p>111,41</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSM 010C Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor de dedo/s.</p>
+<p>OSM 010B Ortesis activa flexora de articulaciones metacarpofalángicas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">146,56</p>
+<p>122,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133,24</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSM 010D Ortesis activa extensora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">148,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">135,36</p>
+<p>111,41</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSM 010E Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.</p>
+<p>OSM 010C Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor de dedo/s.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148,90</p>
+<p>146,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">135,36</p>
+<p>133,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSM 010D Ortesis activa extensora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>148,90</p>
+</td>
+<td>
+<p>135,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSM 010E Ortesis activa flexora de articulaciones metacarpofalángicas y aditamento extensor/abductor del pulgar.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>148,90</p>
+</td>
+<td>
+<p>135,36</p>
 </td>
 </tr>
 </tbody>
@@ -10551,115 +10121,107 @@ Subgrupo: 06 06 06 Ortesis de mano (Aportación del usuario: 12 euros).
 
 Subgrupo: 06 06 12 Ortesis de muñeca y mano (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSN 000 Ortesis pasiva de muñeca.</p>
+<p>OSN 000 Ortesis pasiva de muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSN 000A Ortesis pasiva de muñeca.</p>
+<p>OSN 000A Ortesis pasiva de muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61,60</p>
+<p>61,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56,00</p>
+<p>56,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSN 010 Ortesis activa de muñeca.</p>
+<p>OSN 010 Ortesis activa de muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSN 010A Ortesis activa de muñeca.</p>
+<p>OSN 010A Ortesis activa de muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,31</p>
+<p>140,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127,55</p>
+<p>127,55</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSN 020 Ortesis activa flexora o extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
+<p>OSN 020 Ortesis activa flexora o extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSN 020A Ortesis activa flexora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
+<p>OSN 020A Ortesis activa flexora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199,00</p>
+<p>199,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180,91</p>
+<p>180,91</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSN 020B Ortesis activa extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
+<p>OSN 020B Ortesis activa extensora de las articulaciones metacarpofalángicas con estabilización de la articulación de la muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">199,00</p>
+<p>199,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180,91</p>
+<p>180,91</p>
 </td>
 </tr>
 </tbody>
@@ -10667,112 +10229,104 @@ Subgrupo: 06 06 12 Ortesis de muñeca y mano (Aportación del usuario: 30 euros)
 
 Subgrupo: 06 06 13 Ortesis de muñeca, mano y dedos (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSU 000 Ortesis pasiva de muñeca, mano y dedo/s.</p>
+<p>OSU 000 Ortesis pasiva de muñeca, mano y dedo/s.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSU 000A Ortesis pasiva de muñeca, mano y dedo/s, prefabricada.</p>
+<p>OSU 000A Ortesis pasiva de muñeca, mano y dedo/s, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125,92</p>
+<p>125,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114,47</p>
+<p>114,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSU 000B Ortesis pasiva de muñeca, mano y dedo/s, a medida.</p>
+<p>OSU 000B Ortesis pasiva de muñeca, mano y dedo/s, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">168,98</p>
+<p>168,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153,62</p>
+<p>153,62</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSU 010 Ortesis activa de muñeca, mano y dedo/s.</p>
+<p>OSU 010 Ortesis activa de muñeca, mano y dedo/s.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSU 010A Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, prefabricada.</p>
+<p>OSU 010A Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">247,12</p>
+<p>247,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224,65</p>
+<p>224,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSU 010B Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, a medida.</p>
+<p>OSU 010B Ortesis activa para flexión dorsal de muñeca, extensión o flexión de articulaciones metacarpofalángicas e interfalángicas, con o sin dispositivo abductor del pulgar, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">370,80</p>
+<p>370,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">337,09</p>
+<p>337,09</p>
 </td>
 </tr>
 </tbody>
@@ -10780,112 +10334,104 @@ Subgrupo: 06 06 13 Ortesis de muñeca, mano y dedos (Aportación del usuario: 30
 
 Subgrupo: 06 06 15 Ortesis de codo (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSC 000 Ortesis pasiva de codo.</p>
+<p>OSC 000 Ortesis pasiva de codo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSC 000A Ortesis pasiva de codo sin articulación, prefabricada.</p>
+<p>OSC 000A Ortesis pasiva de codo sin articulación, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">165,57</p>
+<p>165,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150,52</p>
+<p>150,52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSC 000B Ortesis pasiva de codo sin articulación, a medida.</p>
+<p>OSC 000B Ortesis pasiva de codo sin articulación, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">205,78</p>
+<p>205,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">187,07</p>
+<p>187,07</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSC 010 Ortesis activa de codo.</p>
+<p>OSC 010 Ortesis activa de codo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSC 010A Ortesis activa de codo para flexión y/o extensión con articulación regulable incluida, prefabricada.</p>
+<p>OSC 010A Ortesis activa de codo para flexión y/o extensión con articulación regulable incluida, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">331,89</p>
+<p>331,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">301,72</p>
+<p>301,72</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSC 010B Ortesis activa de codo para flexión y/o extensión, a medida (Prescribir además una articulación regulable a elección).</p>
+<p>OSC 010B Ortesis activa de codo para flexión y/o extensión, a medida (Prescribir además una articulación regulable a elección).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">368,39</p>
+<p>368,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">334,90</p>
+<p>334,90</p>
 </td>
 </tr>
 </tbody>
@@ -10893,75 +10439,67 @@ Subgrupo: 06 06 15 Ortesis de codo (Aportación del usuario: 30 euros).
 
 Subgrupo: 06 06 20 Ortesis de antebrazo (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSA 000 Ortesis pasiva de antebrazo.</p>
+<p>OSA 000 Ortesis pasiva de antebrazo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSA 000A Ortesis pasiva de antebrazo, prefabricada.</p>
+<p>OSA 000A Ortesis pasiva de antebrazo, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">111,24</p>
+<p>111,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">101,13</p>
+<p>101,13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSA 000B Ortesis pasiva de antebrazo, a medida.</p>
+<p>OSA 000B Ortesis pasiva de antebrazo, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">169,28</p>
+<p>169,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">153,89</p>
+<p>153,89</p>
 </td>
 </tr>
 </tbody>
@@ -10969,75 +10507,67 @@ Subgrupo: 06 06 20 Ortesis de antebrazo (Aportación del usuario: 30 euros).
 
 Subgrupo: 06 06 24 Ortesis de hombro y codo (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSB 000 Ortesis pasiva de brazo.</p>
+<p>OSB 000 Ortesis pasiva de brazo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSB 000A Ortesis pasiva para inmovilización ósea de brazo en termoplástico, prefabricada.</p>
+<p>OSB 000A Ortesis pasiva para inmovilización ósea de brazo en termoplástico, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">151,80</p>
+<p>151,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">138,00</p>
+<p>138,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSB 000B Ortesis pasiva para inmovilización ósea de brazo en termoplástico, a medida.</p>
+<p>OSB 000B Ortesis pasiva para inmovilización ósea de brazo en termoplástico, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">239,91</p>
+<p>239,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">218,10</p>
+<p>218,10</p>
 </td>
 </tr>
 </tbody>
@@ -11045,166 +10575,158 @@ Subgrupo: 06 06 24 Ortesis de hombro y codo (Aportación del usuario: 30 euros).
 
 Subgrupo: 06 06 27 Ortesis de hombro, codo y muñeca (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSH 000 Ortesis pasiva de hombro, codo y muñeca, sin articulación.</p>
+<p>OSH 000 Ortesis pasiva de hombro, codo y muñeca, sin articulación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSH 000A Ortesis pasiva para mantener hombro, codo y muñeca en una posición determinada.</p>
+<p>OSH 000A Ortesis pasiva para mantener hombro, codo y muñeca en una posición determinada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">270,60</p>
+<p>270,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">246,00</p>
+<p>246,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSH 000B Ortesis pasiva para subluxación de hombro.</p>
+<p>OSH 000B Ortesis pasiva para subluxación de hombro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">132,48</p>
+<p>132,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120,44</p>
+<p>120,44</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OSH 010 Ortesis de hombro, codo y muñeca, con articulaciones.</p>
+<p>OSH 010 Ortesis de hombro, codo y muñeca, con articulaciones.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSH 010A Ortesis pasiva de hombro, codo y muñeca con articulación de codo.</p>
+<p>OSH 010A Ortesis pasiva de hombro, codo y muñeca con articulación de codo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">322,73</p>
+<p>322,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">293,39</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSH 010B Ortesis multiarticulada pasiva para control de articulaciones de hombro, codo y muñeca.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">496,56</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">451,42</p>
+<p>293,39</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSH 010C Ortesis multiarticulada activa para control de articulaciones de hombro, codo y muñeca.</p>
+<p>OSH 010B Ortesis multiarticulada pasiva para control de articulaciones de hombro, codo y muñeca.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">737,00</p>
+<p>496,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">670,00</p>
+<p>451,42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSH 010C Ortesis multiarticulada activa para control de articulaciones de hombro, codo y muñeca.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>737,00</p>
+</td>
+<td>
+<p>670,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OSH 020 Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil.</p>
+<p>OSH 020 Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSH 020A Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, prefabricada.</p>
+<p>OSH 020A Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">231,50</p>
+<p>231,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">210,45</p>
+<p>210,45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSH 020B Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, a medida.</p>
+<p>OSH 020B Ortesis pasiva para parálisis del plexo braquial, obstétrica o infantil, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">376,17</p>
+<p>376,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">341,97</p>
+<p>341,97</p>
 </td>
 </tr>
 </tbody>
@@ -11212,126 +10734,118 @@ Subgrupo: 06 06 27 Ortesis de hombro, codo y muñeca (Aportación del usuario: 3
 
 Subgrupo: 06 06 36 Articulaciones de codo (Aportación del usuario: 0 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">OSO 000 Articulación de codo</p>
+<p>OSO 000 Articulación de codo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OSO 000A Articulación de codo mecánica monocéntrica.</p>
+<p>OSO 000A Articulación de codo mecánica monocéntrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">72,73</p>
+<p>72,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">66,12</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSO 000B Articulación de codo mecánica policéntrica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">128,32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">116,65</p>
+<p>66,12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSO 000C Articulación de codo tipo tornillo sin fin.</p>
+<p>OSO 000B Articulación de codo mecánica policéntrica.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP2</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,45</p>
+<p>128,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OSO 000D Articulación de codo tipo cremallera o rueda dentada.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">195,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">178,04</p>
+<p>116,65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OSO 000E Articulación de codo dinámica y activa.</p>
+<p>OSO 000C Articulación de codo tipo tornillo sin fin.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">364,73</p>
+<p>87,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">331,57</p>
+<p>79,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSO 000D Articulación de codo tipo cremallera o rueda dentada.</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>195,84</p>
+</td>
+<td>
+<p>178,04</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OSO 000E Articulación de codo dinámica y activa.</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>364,73</p>
+</td>
+<td>
+<p>331,57</p>
 </td>
 </tr>
 </tbody>
@@ -11339,321 +10853,313 @@ Subgrupo: 06 06 36 Articulaciones de codo (Aportación del usuario: 0 euros).
 
 Grupo: 06 12 Ortesis de miembro inferior (No se consideran incluidas las ortesis de pie ni las rodilleras en tejido elástico sin flejes)
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 12 06 Ortesis de tobillo y pie (tibiales) (Aportación del usuario: 30 euros).</p>
+<p>Subgrupo: 06 12 06 Ortesis de tobillo y pie (tibiales) (Aportación del usuario: 30 euros).</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (código homologado y descripción)</th>
+<th>Tipos de productos (código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 000 Ortesis posterior pasiva tibial.</td>
-<td class="cuerpo_tabla_izq">OIT 000A Ortesis posterior pasiva tibial.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">136,06</td>
-<td class="cuerpo_tabla_coma">123,69</td>
+<td>OIT 000 Ortesis posterior pasiva tibial.</td>
+<td>OIT 000A Ortesis posterior pasiva tibial.</td>
+<td>ADAP2</td>
+<td>24</td>
+<td>136,06</td>
+<td>123,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">OIT 010 Ortesis de Denis Browne.</td>
-<td class="cuerpo_tabla_izq">OIT 010A Ortesis Denis Browne, para menores de 3 años (Prescribir además un botín o bota).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">57,90</td>
-<td class="cuerpo_tabla_coma">52,64</td>
+<td rowspan="2">OIT 010 Ortesis de Denis Browne.</td>
+<td>OIT 010A Ortesis Denis Browne, para menores de 3 años (Prescribir además un botín o bota).</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>57,90</td>
+<td>52,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 010B Ortesis Denis Browne articulada, para menores de 3 años (Prescribir además un botín o bota).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">96,54</td>
-<td class="cuerpo_tabla_coma">87,76</td>
+<td>OIT 010B Ortesis Denis Browne articulada, para menores de 3 años (Prescribir además un botín o bota).</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>96,54</td>
+<td>87,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 020 Botín multiarticulado.</td>
-<td class="cuerpo_tabla_izq">OIT 020A Botín multiarticulado (unidad).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">111,14</td>
-<td class="cuerpo_tabla_coma">101,04</td>
+<td>OIT 020 Botín multiarticulado.</td>
+<td>OIT 020A Botín multiarticulado (unidad).</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>111,14</td>
+<td>101,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 030 Ortesis para inmovilización de la articulación tibio-tarsiana.</td>
-<td class="cuerpo_tabla_izq">OIT 030A Ortesis no articulada para inmovilización medio-lateral y de la flexo-extensión de la articulación tibio-tarsiana.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">110,00</td>
-<td class="cuerpo_tabla_coma">100,00</td>
+<td>OIT 030 Ortesis para inmovilización de la articulación tibio-tarsiana.</td>
+<td>OIT 030A Ortesis no articulada para inmovilización medio-lateral y de la flexo-extensión de la articulación tibio-tarsiana.</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>110,00</td>
+<td>100,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 040 Ortesis tibial de marcha en descarga.</td>
-<td class="cuerpo_tabla_izq">OIT 040A Ortesis tibial de marcha en descarga.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">259,26</td>
-<td class="cuerpo_tabla_coma">235,69</td>
+<td>OIT 040 Ortesis tibial de marcha en descarga.</td>
+<td>OIT 040A Ortesis tibial de marcha en descarga.</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>259,26</td>
+<td>235,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">OIT 050 Ortesis de control medio-lateral de la articulación tibio-tarsiana.</p>
+<td rowspan="3">
+<p>OIT 050 Ortesis de control medio-lateral de la articulación tibio-tarsiana.</p>
 </td>
-<td class="cuerpo_tabla_izq">OIT 050A Ortesis de control medio-lateral de la articulación tibio-tarsiana con dos hemivalvas y cámara de aire o gel.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">99,72</td>
-<td class="cuerpo_tabla_coma">90,65</td>
+<td>OIT 050A Ortesis de control medio-lateral de la articulación tibio-tarsiana con dos hemivalvas y cámara de aire o gel.</td>
+<td>BAS</td>
+<td>24</td>
+<td>99,72</td>
+<td>90,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 050B Ortesis de control medio-lateral de la articulación tibio-tarsiana con sistema de contención.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">53,90</td>
-<td class="cuerpo_tabla_coma">49,00</td>
+<td>OIT 050B Ortesis de control medio-lateral de la articulación tibio-tarsiana con sistema de contención.</td>
+<td>BAS</td>
+<td>24</td>
+<td>53,90</td>
+<td>49,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 050C Ortesis dinámica para ligamentos laterales del tobillo.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">89,73</td>
-<td class="cuerpo_tabla_coma">81,57</td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="8">OIT 060 Ortesis dinámica antiequino.</td>
-<td class="cuerpo_tabla_izq">OIT 060A Ortesis posterior antiequino, «Rancho Los Amigos», prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">127,26</td>
-<td class="cuerpo_tabla_coma">115,69</td>
+<td>OIT 050C Ortesis dinámica para ligamentos laterales del tobillo.</td>
+<td>BAS</td>
+<td>24</td>
+<td>89,73</td>
+<td>81,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060B Ortesis posterior antiequino, «Rancho Los Amigos», a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">246,85</td>
-<td class="cuerpo_tabla_coma">224,41</td>
+<td rowspan="8">OIT 060 Ortesis dinámica antiequino.</td>
+<td>OIT 060A Ortesis posterior antiequino, «Rancho Los Amigos», prefabricada.</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>127,26</td>
+<td>115,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060C Ortesis antiequino, dinámica, en alambre de acero anclada a zapato.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">168,30</td>
-<td class="cuerpo_tabla_coma">153,00</td>
+<td>OIT 060B Ortesis posterior antiequino, «Rancho Los Amigos», a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>246,85</td>
+<td>224,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060D Ortesis antiequino, dinámica con tensor elástico anterior.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">124,98</td>
-<td class="cuerpo_tabla_coma">113,62</td>
+<td>OIT 060C Ortesis antiequino, dinámica, en alambre de acero anclada a zapato.</td>
+<td>ADAP2</td>
+<td>24</td>
+<td>168,30</td>
+<td>153,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060E Bitutor de Klenzack, a medida (unidad).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">433,58</td>
-<td class="cuerpo_tabla_coma">394,16</td>
+<td>OIT 060D Ortesis antiequino, dinámica con tensor elástico anterior.</td>
+<td>BAS</td>
+<td>24</td>
+<td>124,98</td>
+<td>113,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060F Ortesis tibial antiequino termoconformada, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">233,48</td>
-<td class="cuerpo_tabla_coma">212,25</td>
+<td>OIT 060E Bitutor de Klenzack, a medida (unidad).</td>
+<td>MED</td>
+<td>24</td>
+<td>433,58</td>
+<td>394,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060G Ortesis tibial antiequino termoconformada con valva anterior, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">285,03</td>
-<td class="cuerpo_tabla_coma">259,12</td>
+<td>OIT 060F Ortesis tibial antiequino termoconformada, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>233,48</td>
+<td>212,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 060H Ortesis posterior dinámica antiequino, con fleje lateral y plantilla termoplástica para interior de zapato.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">234,66</td>
-<td class="cuerpo_tabla_coma">213,33</td>
+<td>OIT 060G Ortesis tibial antiequino termoconformada con valva anterior, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>285,03</td>
+<td>259,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="8">OIT 070 Ortesis dinámica antiequino tipo DAFO*.</td>
-<td class="cuerpo_tabla_izq">OIT 070A Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente infantil con patología neurológica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">407,61</td>
-<td class="cuerpo_tabla_coma">370,55</td>
+<td>OIT 060H Ortesis posterior dinámica antiequino, con fleje lateral y plantilla termoplástica para interior de zapato.</td>
+<td>ADAP1</td>
+<td>24</td>
+<td>234,66</td>
+<td>213,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070B Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible para bloqueo de flexión plantar, para paciente infantil con patología neurológica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">407,61</td>
-<td class="cuerpo_tabla_coma">370,55</td>
+<td rowspan="8">OIT 070 Ortesis dinámica antiequino tipo DAFO*.</td>
+<td>OIT 070A Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente infantil con patología neurológica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>407,61</td>
+<td>370,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070C Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar, para paciente infantil con patología neurológical, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">493,72</td>
-<td class="cuerpo_tabla_coma">448,84</td>
+<td>OIT 070B Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible para bloqueo de flexión plantar, para paciente infantil con patología neurológica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>407,61</td>
+<td>370,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070D Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar y apoyo prepatelar, para paciente infantil con patología neurológica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">640,93</td>
-<td class="cuerpo_tabla_coma">582,66</td>
+<td>OIT 070C Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar, para paciente infantil con patología neurológical, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>493,72</td>
+<td>448,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070E Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente infantil con patología neurológica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">503,54</td>
-<td class="cuerpo_tabla_coma">457,76</td>
+<td>OIT 070D Ortesis supramaleolar tipo DAFO envolvente en medio-pie flexible con botín interior para bloqueo de flexión plantar y apoyo prepatelar, para paciente infantil con patología neurológica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>640,93</td>
+<td>582,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070F Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente infantil con patología neurológica con hiperextensión de rodilla, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">572,04</td>
-<td class="cuerpo_tabla_coma">520,04</td>
+<td>OIT 070E Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente infantil con patología neurológica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>503,54</td>
+<td>457,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070G Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente infantil con patología neurológica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">154,35</td>
-<td class="cuerpo_tabla_coma">140,32</td>
+<td>OIT 070F Ortesis supramaleolar tipo DAFO envolvente en medio-pie, flexible con botín interior, para bloqueo de flexión plantar, articulada, para paciente infantil con patología neurológica con hiperextensión de rodilla, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>572,04</td>
+<td>520,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 070H Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con bloqueo de la flexión plantar y articulación Tamarack, que asiste a la dorsiflexión, para paciente infantil con patología neurológica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">677,40</td>
-<td class="cuerpo_tabla_coma">615,82</td>
+<td>OIT 070G Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con o sin dorsiflexión, para paciente infantil con patología neurológica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>154,35</td>
+<td>140,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 080 Bitutor corto.</td>
-<td class="cuerpo_tabla_izq">OIT 080A Bitutor corto, a medida (unidad) (Prescribir además, si lo precisa, una articulación de tobillo a elección).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">325,20</td>
-<td class="cuerpo_tabla_coma">295,64</td>
+<td>OIT 070H Ortesis supramaleolar tipo DAFO envolvente para control de prono-supinación, con bloqueo de la flexión plantar y articulación Tamarack, que asiste a la dorsiflexión, para paciente infantil con patología neurológica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>677,40</td>
+<td>615,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 090 Polaina desde el tobillo hasta debajo de la rodilla.</td>
-<td class="cuerpo_tabla_izq">OIT 090A Polaina desde el tobillo hasta debajo de la rodilla, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">212,56</td>
-<td class="cuerpo_tabla_coma">193,24</td>
+<td>OIT 080 Bitutor corto.</td>
+<td>OIT 080A Bitutor corto, a medida (unidad) (Prescribir además, si lo precisa, una articulación de tobillo a elección).</td>
+<td>MED</td>
+<td>24</td>
+<td>325,20</td>
+<td>295,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">OIT 100 Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>).</td>
-<td class="cuerpo_tabla_izq">OIT 100A Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>), prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">207,28</td>
-<td class="cuerpo_tabla_coma">188,44</td>
+<td>OIT 090 Polaina desde el tobillo hasta debajo de la rodilla.</td>
+<td>OIT 090A Polaina desde el tobillo hasta debajo de la rodilla, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>212,56</td>
+<td>193,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 100B Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>), a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">422,72</td>
-<td class="cuerpo_tabla_coma">384,29</td>
+<td rowspan="2">OIT 100 Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>).</td>
+<td>OIT 100A Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>), prefabricada.</td>
+<td>ADAP2</td>
+<td>24</td>
+<td>207,28</td>
+<td>188,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 110 Ortesis para la descarga del pie, con apoyo de tendón rotuliano.</td>
-<td class="cuerpo_tabla_izq">OIT 110A Ortesis para la descarga del pie, con apoyo en tendón rotuliano y estribo deslizante, con alza contralateral, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">469,69</td>
-<td class="cuerpo_tabla_coma">426,99</td>
+<td>OIT 100B Ortesis funcional tipo PTB (<em>Patellar Tendon Bearing</em>), a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>422,72</td>
+<td>384,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">OIT 900 Botín.</td>
-<td class="cuerpo_tabla_izq">OIT 900A Botín de cuero moldeado para adaptar a ortesis, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">270,96</td>
-<td class="cuerpo_tabla_coma">246,33</td>
+<td>OIT 110 Ortesis para la descarga del pie, con apoyo de tendón rotuliano.</td>
+<td>OIT 110A Ortesis para la descarga del pie, con apoyo en tendón rotuliano y estribo deslizante, con alza contralateral, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>469,69</td>
+<td>426,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 900B Botín para Denis Browne para menores de 3 años.</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">78,11</td>
-<td class="cuerpo_tabla_coma">71,01</td>
+<td rowspan="2">OIT 900 Botín.</td>
+<td>OIT 900A Botín de cuero moldeado para adaptar a ortesis, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>270,96</td>
+<td>246,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">OIT 910 Bota tipo boxer para adaptar a ortesis de marcha (par).</td>
-<td class="cuerpo_tabla_izq">OIT 910A Bota tipo boxer para adaptar a ortesis de marcha. Hasta el número 23 (par).</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">132,00</td>
-<td class="cuerpo_tabla_coma">120,00</td>
+<td>OIT 900B Botín para Denis Browne para menores de 3 años.</td>
+<td>COMP1</td>
+<td>6</td>
+<td>78,11</td>
+<td>71,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 910B Bota tipo boxer para adaptar a ortesis de marcha. Números 24 al 29 (par).</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">137,50</td>
-<td class="cuerpo_tabla_coma">125,00</td>
+<td rowspan="5">OIT 910 Bota tipo boxer para adaptar a ortesis de marcha (par).</td>
+<td>OIT 910A Bota tipo boxer para adaptar a ortesis de marcha. Hasta el número 23 (par).</td>
+<td>COMP1</td>
+<td>12</td>
+<td>132,00</td>
+<td>120,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 910C Bota tipo boxer para adaptar a ortesis de marcha. Números 30 al 33 (par).</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">145,20</td>
-<td class="cuerpo_tabla_coma">132,00</td>
+<td>OIT 910B Bota tipo boxer para adaptar a ortesis de marcha. Números 24 al 29 (par).</td>
+<td>COMP1</td>
+<td>12</td>
+<td>137,50</td>
+<td>125,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 910D Bota tipo boxer para adaptar a ortesis de marcha. Números 34 al 37 (par).</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">152,90</td>
-<td class="cuerpo_tabla_coma">139,00</td>
+<td>OIT 910C Bota tipo boxer para adaptar a ortesis de marcha. Números 30 al 33 (par).</td>
+<td>COMP1</td>
+<td>12</td>
+<td>145,20</td>
+<td>132,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 910E Bota tipo boxer para adaptar a ortesis de marcha. Números 38 y superiores (par).</td>
-<td class="cuerpo_tabla_centro">COMP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">159,50</td>
-<td class="cuerpo_tabla_coma">145,00</td>
+<td>OIT 910D Bota tipo boxer para adaptar a ortesis de marcha. Números 34 al 37 (par).</td>
+<td>COMP1</td>
+<td>12</td>
+<td>152,90</td>
+<td>139,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIT 920 Correa en «T» para antivalgo o antivaro.</td>
-<td class="cuerpo_tabla_izq">OIT 920A Correa en «T» para antivalgo o antivaro.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">50,29</td>
-<td class="cuerpo_tabla_coma">45,72</td>
+<td>OIT 910E Bota tipo boxer para adaptar a ortesis de marcha. Números 38 y superiores (par).</td>
+<td>COMP1</td>
+<td>12</td>
+<td>159,50</td>
+<td>145,00</td>
+</tr>
+<tr>
+<td>OIT 920 Correa en «T» para antivalgo o antivaro.</td>
+<td>OIT 920A Correa en «T» para antivalgo o antivaro.</td>
+<td>COMP0</td>
+<td>24</td>
+<td>50,29</td>
+<td>45,72</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">* Para aquellos pacientes, usuarios desde niños de alguno de los tipos de productos incluidos en la categoría “OIT 070 Ortesis dinámica antiequino tipo DAFO”, se requerirá para su renovación una vez alcanzada la edad adulta, que la prescripción vaya acompañada de un informe justificativo por parte del facultativo especialista.»</p>
+<p>* Para aquellos pacientes, usuarios desde niños de alguno de los tipos de productos incluidos en la categoría “OIT 070 Ortesis dinámica antiequino tipo DAFO”, se requerirá para su renovación una vez alcanzada la edad adulta, que la prescripción vaya acompañada de un informe justificativo por parte del facultativo especialista.»</p>
 </td>
 </tr>
 </tfoot>
@@ -11661,220 +11167,212 @@ Grupo: 06 12 Ortesis de miembro inferior (No se consideran incluidas las ortesis
 
 Subgrupo: 06 12 09 Ortesis de rodilla (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OIR 000 Ortesis pasiva para la inmovilización de la rodilla.</p>
+<p>OIR 000 Ortesis pasiva para la inmovilización de la rodilla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIR 000A Ortesis pasiva para la inmovilización de rodilla sin articulación.</p>
+<p>OIR 000A Ortesis pasiva para la inmovilización de rodilla sin articulación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">BAS</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,45</p>
+<p>98,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">89,50</p>
+<p>89,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIR 000B Ortesis pasiva para la inmovilización de rodilla con articulación.</p>
+<p>OIR 000B Ortesis pasiva para la inmovilización de rodilla con articulación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">137,39</p>
+<p>137,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">124,90</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">OIR 010 Ortesis para la articulación de la rodilla, con sistema de estabilización (varillas, flejes, etc.).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OIR 010A Ortesis para la articulación de rodilla, con sistema de estabilización.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">BAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">69,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIR 010B Ortesis para la articulación de rodilla, con sistema de estabilización y rodete rotuliano de compresión intermitente.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">BAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">87,59</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">79,63</p>
+<p>124,90</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OIR 020 Ortesis de rodilla estabilizadora con articulación graduable de flexo-extensión.</p>
+<p>OIR 010 Ortesis para la articulación de la rodilla, con sistema de estabilización (varillas, flejes, etc.).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIR 020A Ortesis de rodilla estabilizadora con articulación monocéntrica graduable de flexo-extensión.</p>
+<p>OIR 010A Ortesis para la articulación de rodilla, con sistema de estabilización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">210,10</p>
+<p>75,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">191,00</p>
+<p>69,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIR 020B Ortesis de rodilla estabilizadora con articulación policéntrica graduable de flexo-extensión.</p>
+<p>OIR 010B Ortesis para la articulación de rodilla, con sistema de estabilización y rodete rotuliano de compresión intermitente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">272,59</p>
+<p>87,59</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">247,81</p>
+<p>79,63</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>OIR 020 Ortesis de rodilla estabilizadora con articulación graduable de flexo-extensión.</p>
+</td>
+<td>
+<p>OIR 020A Ortesis de rodilla estabilizadora con articulación monocéntrica graduable de flexo-extensión.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>210,10</p>
+</td>
+<td>
+<p>191,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIR 020B Ortesis de rodilla estabilizadora con articulación policéntrica graduable de flexo-extensión.</p>
+</td>
+<td>
+<p>ADAP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>272,59</p>
+</td>
+<td>
+<p>247,81</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">OIR 030 Ortesis para el control mediolateral y de flexo-extensión de la rodilla.</p>
+<p>OIR 030 Ortesis para el control mediolateral y de flexo-extensión de la rodilla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIR 030A Ortesis de rodilla para control de genu recurvatum.</p>
+<p>OIR 030A Ortesis de rodilla para control de genu recurvatum.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">377,30</p>
+<p>377,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">343,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIR 030B Ortesis de rodilla para el control de inestabilidad mediolateral (varo-valgo).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">390,17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">354,70</p>
+<p>343,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIR 030C Ortesis para el control mediolateral y de flexo-extensión de la rodilla (ligamento cruzado anterior (LCA) y/o posterior (LCP)).</p>
+<p>OIR 030B Ortesis de rodilla para el control de inestabilidad mediolateral (varo-valgo).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">417,52</p>
+<p>390,17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">379,56</p>
+<p>354,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIR 030D Ortesis para el control mediolateral y/o de flexo-extensión de la rodilla, a medida, bajo protocolo.</p>
+<p>OIR 030C Ortesis para el control mediolateral y de flexo-extensión de la rodilla (ligamento cruzado anterior (LCA) y/o posterior (LCP)).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">575,04</p>
+<p>417,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">522,76</p>
+<p>379,56</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIR 030D Ortesis para el control mediolateral y/o de flexo-extensión de la rodilla, a medida, bajo protocolo.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>575,04</p>
+</td>
+<td>
+<p>522,76</p>
 </td>
 </tr>
 </tbody>
@@ -11882,195 +11380,187 @@ Subgrupo: 06 12 09 Ortesis de rodilla (Aportación del usuario: 30 euros).
 
 Subgrupo: 06 12 12 Ortesis de rodilla, tobillo y pie (femorales) (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OIF 000 Ortesis de valva posterior de muslo y pierna rígida.</p>
+<p>OIF 000 Ortesis de valva posterior de muslo y pierna rígida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIF 000A Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con galápago de tracción sobre rodilla, en termoplástico, a medida.</p>
+<p>OIF 000A Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con galápago de tracción sobre rodilla, en termoplástico, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">350,09</p>
+<p>350,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">318,26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIF 000B Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con dispositivo de tracción dinámica sobre rodilla, en termoplástico, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">436,67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">396,97</p>
+<p>318,26</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIF 010 Ortesis de abducción.</p>
+<p>OIF 000B Ortesis para extensión de rodilla mediante valva posterior de muslo, pierna y pie, con dispositivo de tracción dinámica sobre rodilla, en termoplástico, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIF 010A Ortesis de abducción de tobillo a muslo con pletina graduable, a medida.</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>436,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">419,79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">381,63</p>
+<p>396,97</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIF 020 Muslera conformada en termoplástico.</p>
+<p>OIF 010 Ortesis de abducción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIF 020A Muslera conformada en termoplástico, a medida.</p>
+<p>OIF 010A Ortesis de abducción de tobillo a muslo con pletina graduable, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">215,19</p>
+<p>419,79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">195,63</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIF 030 Ortesis estabilizadora de rodilla.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OIF 030A Ortesis de rodilla a pie con apoyo anterior en tendón rotuliano y supracondilar, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">381,49</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">346,81</p>
+<p>381,63</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIF 040 Ortesis correctora dinámica genu-valgo o varo.</p>
+<p>OIF 020 Muslera conformada en termoplástico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIF 040A Ortesis genu-valgo o varo, con barra externa o interna unida a bota, aro de muslo y galápago elástico para corrección dinámica (unidad), a medida.</p>
+<p>OIF 020A Muslera conformada en termoplástico, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">356,94</p>
+<p>215,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">324,49</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIF 050 Ortesis de Grenier.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OIF 050A Ortesis de Grenier con dos valvas mediales de muslo, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">326,67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">296,97</p>
+<p>195,63</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIF 060 Ortesis femoral QTB (<em>Quadrilateral Thigh Bearing</em>).</p>
+<p>OIF 030 Ortesis estabilizadora de rodilla.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIF 060A Ortesis funcional QTB (<em>Quadrilateral Thigh Bearing</em>) en termoplástico, a medida (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).</p>
+<p>OIF 030A Ortesis de rodilla a pie con apoyo anterior en tendón rotuliano y supracondilar, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">551,86</p>
+<p>381,49</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">501,69</p>
+<p>346,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIF 040 Ortesis correctora dinámica genu-valgo o varo.</p>
+</td>
+<td>
+<p>OIF 040A Ortesis genu-valgo o varo, con barra externa o interna unida a bota, aro de muslo y galápago elástico para corrección dinámica (unidad), a medida.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>356,94</p>
+</td>
+<td>
+<p>324,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIF 050 Ortesis de Grenier.</p>
+</td>
+<td>
+<p>OIF 050A Ortesis de Grenier con dos valvas mediales de muslo, a medida.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>326,67</p>
+</td>
+<td>
+<p>296,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIF 060 Ortesis femoral QTB (<em>Quadrilateral Thigh Bearing</em>).</p>
+</td>
+<td>
+<p>OIF 060A Ortesis funcional QTB (<em>Quadrilateral Thigh Bearing</em>) en termoplástico, a medida (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>551,86</p>
+</td>
+<td>
+<p>501,69</p>
 </td>
 </tr>
 </tbody>
@@ -12078,463 +11568,439 @@ Subgrupo: 06 12 12 Ortesis de rodilla, tobillo y pie (femorales) (Aportación de
 
 Subgrupo: 06 12 15 Ortesis de cadera, incluyendo ortesis de abducción (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OIC 000 Ortesis de inmovilización de cadera sin articulación.</p>
+<p>OIC 000 Ortesis de inmovilización de cadera sin articulación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIC 000A Ortesis de inmovilización de cadera sin articulación, a medida.</p>
+<p>OIC 000A Ortesis de inmovilización de cadera sin articulación, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">513,12</p>
+<p>513,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">466,47</p>
+<p>466,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIC 000B Ortesis de inmovilización de cadera sin articulación, prefabricada.</p>
+<p>OIC 000B Ortesis de inmovilización de cadera sin articulación, prefabricada.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">353,41</p>
+<p>353,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">321,28</p>
+<p>321,28</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OIC 010 Ortesis para la displasia congénita de cadera.</p>
+<p>OIC 010 Ortesis para la displasia congénita de cadera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIC 010A Ortesis para mantener caderas en abducción (tipo Frejka o similar).</p>
+<p>OIC 010A Ortesis para mantener caderas en abducción (tipo Frejka o similar).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">96,06</p>
+<p>96,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,33</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIC 010B Ortesis para mantener caderas en abducción y rotación externa mediante arnés con tirantes (Arnés de Pavlik).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">132,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120,57</p>
+<p>87,33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIC 010C Ortesis multiarticulada para mantener caderas en abducción y rotación externa de forma independiente.</p>
+<p>OIC 010B Ortesis para mantener caderas en abducción y rotación externa mediante arnés con tirantes (Arnés de Pavlik).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">733,07</p>
+<p>132,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">666,43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIC 020 Ortesis modular desrotadora de cadera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OIC 020A Ortesis modular desrotadora de cadera, a medida.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">331,46</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">301,33</p>
+<p>120,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIC 030 Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta).</p>
+<p>OIC 010C Ortesis multiarticulada para mantener caderas en abducción y rotación externa de forma independiente.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIC 030A Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta), a medida.</p>
+<p>ADAP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>733,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">660,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">600,00</p>
+<p>666,43</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIC 040 Ortesis modular de abducción de cadera.</p>
+<p>OIC 020 Ortesis modular desrotadora de cadera.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIC 040A Ortesis modular de abducción de cadera regulable con control de la flexo-extensión.</p>
+<p>OIC 020A Ortesis modular desrotadora de cadera, a medida.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">579,87</p>
+<p>331,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">527,15</p>
+<p>301,33</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIC 030 Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta).</p>
+</td>
+<td>
+<p>OIC 030A Ortesis de Atlanta (o del Hospital Scottish Rite en Atlanta), a medida.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>660,00</p>
+</td>
+<td>
+<p>600,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIC 040 Ortesis modular de abducción de cadera.</p>
+</td>
+<td>
+<p>OIC 040A Ortesis modular de abducción de cadera regulable con control de la flexo-extensión.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>579,87</p>
+</td>
+<td>
+<p>527,15</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 06 12 18 Ortesis de cadera, rodilla, tobillo y pie (Aportación del usuario: 30 euros).</p>
+<p>Subgrupo: 06 12 18 Ortesis de cadera, rodilla, tobillo y pie (Aportación del usuario: 30 euros).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">OIE 000 Bitutor femoral metálico.</p>
+<td rowspan="6">
+<p>OIE 000 Bitutor femoral metálico.</p>
 </td>
-<td class="cuerpo_tabla_izq">OIE 000A Bitutor femoral metálico con aros, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">891,12</td>
-<td class="cuerpo_tabla_coma">810,11</td>
+<td>OIE 000A Bitutor femoral metálico con aros, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td>MED</td>
+<td>24</td>
+<td>891,12</td>
+<td>810,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 000B Bitutor femoral metálico con muslera de apoyo isquiático, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">991,99</td>
-<td class="cuerpo_tabla_coma">901,81</td>
+<td>OIE 000B Bitutor femoral metálico con muslera de apoyo isquiático, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td>MED</td>
+<td>24</td>
+<td>991,99</td>
+<td>901,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 000C Bitutor femoral metálico, con encaje cuadrangular, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.107,88</td>
-<td class="cuerpo_tabla_coma">1.007,16</td>
+<td>OIE 000C Bitutor femoral metálico, con encaje cuadrangular, a medida (unidad) (Prescribir además articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.107,88</td>
+<td>1.007,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 000D Bitutor femoral metálico con cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.009,04</td>
-<td class="cuerpo_tabla_coma">917,31</td>
+<td>OIE 000D Bitutor femoral metálico con cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.009,04</td>
+<td>917,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 000E Bitutor femoral metálico con muslera de apoyo isquiático y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.109,91</td>
-<td class="cuerpo_tabla_coma">1.009,01</td>
+<td>OIE 000E Bitutor femoral metálico con muslera de apoyo isquiático y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación de rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.109,91</td>
+<td>1.009,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 000F Bitutor femoral metálico con encaje cuadrangular y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.225,80</td>
-<td class="cuerpo_tabla_coma">1.114,36</td>
+<td>OIE 000F Bitutor femoral metálico con encaje cuadrangular y cinturón pélvico, a medida (unidad) (Prescribir además articulación de cadera, articulación rodilla y articulación de tobillo a elección y, si lo precisa, un botín).</td>
+<td>MED</td>
+<td>24</td>
+<td>1.225,80</td>
+<td>1.114,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 010 Monotutor femoral.</td>
-<td class="cuerpo_tabla_izq">OIE 010A Monotutor femoral laminado en resina con articulación de rodilla y articulación de tobillo o ballesta, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">3.410,00</td>
-<td class="cuerpo_tabla_coma">3.100,00</td>
+<td>OIE 010 Monotutor femoral.</td>
+<td>OIE 010A Monotutor femoral laminado en resina con articulación de rodilla y articulación de tobillo o ballesta, a medida.</td>
+<td>MED</td>
+<td>24</td>
+<td>3.410,00</td>
+<td>3.100,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 020 Ortesis femoral.</td>
-<td class="cuerpo_tabla_izq">OIE 020A Ortesis termoconformada al vacío desde pie a tercio proximal de muslo, a medida (TPV) (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">790,96</td>
-<td class="cuerpo_tabla_coma">719,05</td>
+<td>OIE 020 Ortesis femoral.</td>
+<td>OIE 020A Ortesis termoconformada al vacío desde pie a tercio proximal de muslo, a medida (TPV) (Prescribir además una articulación de rodilla y una articulación de tobillo a elección).</td>
+<td>MED</td>
+<td>24</td>
+<td>790,96</td>
+<td>719,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 030 Ortesis tipo Swash.</td>
-<td class="cuerpo_tabla_izq">OIE 030A Ortesis de abducción variable desrotadora femoral (tipo Swash), infantil.</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">956,97</td>
-<td class="cuerpo_tabla_coma">869,97</td>
+<td>OIE 030 Ortesis tipo Swash.</td>
+<td>OIE 030A Ortesis de abducción variable desrotadora femoral (tipo Swash), infantil.</td>
+<td>ADAP3</td>
+<td>24</td>
+<td>956,97</td>
+<td>869,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 040 Ortesis femoral de abducción en acero de Tachdjian.</td>
-<td class="cuerpo_tabla_izq">OIE 040A Ortesis femoral de abducción de Tachdjian (unilateral) en acero, a medida, con encaje trilateral, articulación en rodilla, control de rotación, estribo de marcha, mecanismo distractor del pie y alza contralateral.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_coma">1.200,03</td>
-<td class="cuerpo_tabla_coma">1.090,94</td>
+<td>OIE 040 Ortesis femoral de abducción en acero de Tachdjian.</td>
+<td>OIE 040A Ortesis femoral de abducción de Tachdjian (unilateral) en acero, a medida, con encaje trilateral, articulación en rodilla, control de rotación, estribo de marcha, mecanismo distractor del pie y alza contralateral.</td>
+<td>MED</td>
+<td>24</td>
+<td>1.200,03</td>
+<td>1.090,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">OIE 050 Ortesis desrotadora femoral.</td>
-<td class="cuerpo_tabla_izq">OIE 050A Ortesis desrotadora femoral (tipo twister) (unidad).</td>
-<td class="cuerpo_tabla_centro">ADAP2</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">252,67</td>
-<td class="cuerpo_tabla_coma">229,70</td>
+<td rowspan="2">OIE 050 Ortesis desrotadora femoral.</td>
+<td>OIE 050A Ortesis desrotadora femoral (tipo twister) (unidad).</td>
+<td>ADAP2</td>
+<td>18</td>
+<td>252,67</td>
+<td>229,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 050B Ortesis desrotadora femoral en tejido elástico (unidad).</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_coma">40,70</td>
-<td class="cuerpo_tabla_coma">37,00</td>
+<td>OIE 050B Ortesis desrotadora femoral en tejido elástico (unidad).</td>
+<td>ADAP1</td>
+<td>18</td>
+<td>40,70</td>
+<td>37,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OIE 900 Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral.</td>
-<td class="cuerpo_tabla_izq">OIE 900A Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral (Prescribir además una ortesis de marcha bilateral a elección).</td>
-<td class="cuerpo_tabla_centro">ADAP3</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_coma">2.750,00</td>
-<td class="cuerpo_tabla_coma">2.500,00</td>
+<td>OIE 900 Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral.</td>
+<td>OIE 900A Dispositivo estabilizador y reciprocador para adaptar a ortesis de marcha bilateral (Prescribir además una ortesis de marcha bilateral a elección).</td>
+<td>ADAP3</td>
+<td>36</td>
+<td>2.750,00</td>
+<td>2.500,00</td>
 </tr>
 </tbody>
 </table>
 
 Subgrupo: 06 12 21 Articulaciones de tobillo (Aportación del usuario: 0 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">OIO 000 Articulación de tobillo.</p>
+<p>OIO 000 Articulación de tobillo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIO 000A Articulación rígida de tobillo libre.</p>
+<p>OIO 000A Articulación rígida de tobillo libre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">125,40</p>
+<p>125,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">114,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIO 000B Articulación rígida de tobillo, con control del movimiento dorsal y plantar.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">140,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">128,00</p>
+<p>114,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIO 000C Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar.</p>
+<p>OIO 000B Articulación rígida de tobillo, con control del movimiento dorsal y plantar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">129,80</p>
+<p>140,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">118,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIO 000D Articulación rígida de tobillo con asistencia dinámica del movimiento de flexión dorsal y/o plantar tipo Klenzack.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">129,01</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">117,28</p>
+<p>128,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIO 000E Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar variable.</p>
+<p>OIO 000C Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">264,00</p>
+<p>129,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240,00</p>
+<p>118,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIO 000F Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar con tope posterior.</p>
+<p>OIO 000D Articulación rígida de tobillo con asistencia dinámica del movimiento de flexión dorsal y/o plantar tipo Klenzack.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">135,30</p>
+<p>129,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">123,00</p>
+<p>117,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIO 000E Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar variable.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>264,00</p>
+</td>
+<td>
+<p>240,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIO 000F Articulación flexible de tobillo con asistencia del movimiento de flexión dorsal y/o plantar con tope posterior.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>135,30</p>
+</td>
+<td>
+<p>123,00</p>
 </td>
 </tr>
 </tbody>
@@ -12542,172 +12008,164 @@ Subgrupo: 06 12 21 Articulaciones de tobillo (Aportación del usuario: 0 euros).
 
 Subgrupo: 06 12 24 Articulaciones de rodilla (Aportación del usuario: 0 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">OIA 000 Articulación de rodilla libre.</p>
+<p>OIA 000 Articulación de rodilla libre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIA 000A Articulación de rodilla libre.</p>
+<p>OIA 000A Articulación de rodilla libre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">163,19</p>
+<p>163,19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">148,35</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIA 000B Articulación de rodilla libre con eje desplazado.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">278,40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">253,09</p>
+<p>148,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIA 000C Articulación de rodilla libre con asistencia a la extensión.</p>
+<p>OIA 000B Articulación de rodilla libre con eje desplazado.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">554,65</p>
+<p>278,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">504,23</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIA 010 Articulación de rodilla con cierre de anillas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">OIA 010A Articulación de rodilla con cierre de anillas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">301,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">274,36</p>
+<p>253,09</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIA 020 Articulación de rodilla con cierre suizo.</p>
+<p>OIA 000C Articulación de rodilla libre con asistencia a la extensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIA 020A Articulación de rodilla con cierre suizo con o sin sistema de amortiguación.</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP2</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>554,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">435,11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">395,55</p>
+<p>504,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIA 030 Articulación de rodilla policéntrica.</p>
+<p>OIA 010 Articulación de rodilla con cierre de anillas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIA 030A Articulación de rodilla policéntrica.</p>
+<p>OIA 010A Articulación de rodilla con cierre de anillas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">484,37</p>
+<p>301,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">440,34</p>
+<p>274,36</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIA 040 Articulación de rodilla progresiva.</p>
+<p>OIA 020 Articulación de rodilla con cierre suizo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIA 040A Articulación de rodilla progresiva dentada con bloqueo en la flexión.</p>
+<p>OIA 020A Articulación de rodilla con cierre suizo con o sin sistema de amortiguación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">580,80</p>
+<p>435,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">528,00</p>
+<p>395,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIA 030 Articulación de rodilla policéntrica.</p>
+</td>
+<td>
+<p>OIA 030A Articulación de rodilla policéntrica.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>484,37</p>
+</td>
+<td>
+<p>440,34</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIA 040 Articulación de rodilla progresiva.</p>
+</td>
+<td>
+<p>OIA 040A Articulación de rodilla progresiva dentada con bloqueo en la flexión.</p>
+</td>
+<td>
+<p>COMP1</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>580,80</p>
+</td>
+<td>
+<p>528,00</p>
 </td>
 </tr>
 </tbody>
@@ -12715,112 +12173,104 @@ Subgrupo: 06 12 24 Articulaciones de rodilla (Aportación del usuario: 0 euros).
 
 Subgrupo: 06 12 27 Articulaciones de cadera (Aportación del usuario: 0 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OID 000 Articulación de cadera libre.</p>
+<p>OID 000 Articulación de cadera libre.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OID 000A Articulación de cadera libre, en acero.</p>
+<p>OID 000A Articulación de cadera libre, en acero.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">264,29</p>
+<p>264,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">240,26</p>
+<p>240,26</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OID 000B Articulación de cadera libre, en acero, con movimiento de abducción.</p>
+<p>OID 000B Articulación de cadera libre, en acero, con movimiento de abducción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">324,86</p>
+<p>324,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">295,33</p>
+<p>295,33</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">OID 010 Articulación de cadera con cierre de anillas.</p>
+<p>OID 010 Articulación de cadera con cierre de anillas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OID 010A Articulación de cadera con cierre de anillas.</p>
+<p>OID 010A Articulación de cadera con cierre de anillas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">254,43</p>
+<p>254,43</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">231,30</p>
+<p>231,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OID 010B Articulación de cadera con cierre de anillas y movimiento de abducción.</p>
+<p>OID 010B Articulación de cadera con cierre de anillas y movimiento de abducción.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP1</p>
+<p>COMP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">324,86</p>
+<p>324,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">295,33</p>
+<p>295,33</p>
 </td>
 </tr>
 </tbody>
@@ -12828,143 +12278,135 @@ Subgrupo: 06 12 27 Articulaciones de cadera (Aportación del usuario: 0 euros).
 
 Subgrupo 06 12 90: Recambios y componentes para ortesis de miembro inferior (Aportación del usuario: 0 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">OIS 900 Recambios y componentes para ortesis de miembro inferior.</p>
+<p>OIS 900 Recambios y componentes para ortesis de miembro inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">OIS 900A Cinturón pélvico para ortesis de miembro inferior.</p>
+<p>OIS 900A Cinturón pélvico para ortesis de miembro inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">117,92</p>
+<p>117,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107,20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIS 900B Cinturón pélvico con soporte glúteo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">160,36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">145,78</p>
+<p>107,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIS 900C Barra para ortesis de miembro inferior.</p>
+<p>OIS 900B Cinturón pélvico con soporte glúteo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">23,61</p>
+<p>160,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21,46</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">OIS 900D Estribo para ortesis de miembro inferior.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">COMP0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">63,27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">57,52</p>
+<p>145,78</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIS 900E Galápago, prefabricado.</p>
+<p>OIS 900C Barra para ortesis de miembro inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">COMP0</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,07</p>
+<p>23,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,52</p>
+<p>21,46</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OIS 900F Galápago, a medida.</p>
+<p>OIS 900D Estribo para ortesis de miembro inferior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>COMP0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110,00</p>
+<p>63,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">100,00</p>
+<p>57,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIS 900E Galápago, prefabricado.</p>
+</td>
+<td>
+<p>COMP0</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>17,07</p>
+</td>
+<td>
+<p>15,52</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>OIS 900F Galápago, a medida.</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>110,00</p>
+</td>
+<td>
+<p>100,00</p>
 </td>
 </tr>
 </tbody>
@@ -13011,186 +12453,178 @@ Grupo: 12 06 Productos de apoyo para caminar manejados por los dos brazos
 
 Subgrupo: 12 06 00 Andadores (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">EAN 000 Andador sin ruedas.</p>
+<p>EAN 000 Andador sin ruedas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EAN 000A Andador fijo regulable en altura.</p>
+<p>EAN 000A Andador fijo regulable en altura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">BAS</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,53</p>
+<p>75,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">68,66</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EAN 000B Andador plegable de altura regulable.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">BAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">82,40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">74,91</p>
+<p>68,66</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EAN 000C Andador deambulador plegable de altura regulable.</p>
+<p>EAN 000B Andador plegable de altura regulable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">BAS</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104,46</p>
+<p>82,40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94,96</p>
+<p>74,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EAN 000C Andador deambulador plegable de altura regulable.</p>
+</td>
+<td>
+<p>BAS</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>104,46</p>
+</td>
+<td>
+<p>94,96</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">EAN 010 Andador con ruedas.</p>
+<p>EAN 010 Andador con ruedas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EAN 010A Andador de ruedas delanteras y tacos traseros, para niños y adultos.</p>
+<p>EAN 010A Andador de ruedas delanteras y tacos traseros, para niños y adultos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">BAS</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93,91</p>
+<p>93,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">85,37</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EAN 010B Andador de ruedas delanteras y tacos traseros con asiento, para niños y adultos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">BAS</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">101,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">92,25</p>
+<p>85,37</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EAN 010C Andador con ruedas delanteras giratorias y traseras con freno, con o sin asiento (rollator), para niños y adultos.</p>
+<p>EAN 010B Andador de ruedas delanteras y tacos traseros con asiento, para niños y adultos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">BAS</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">130,52</p>
+<p>101,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">118,65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EAN 020 Andador con control postural de tronco y pelvis.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EAN 020A Andador con control postural de tronco y pelvis, graduable en altura y con freno, para niños y adultos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.414,01</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.285,46</p>
+<p>92,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EAN 030 Andador anteroposterior.</p>
+<p>EAN 010C Andador con ruedas delanteras giratorias y traseras con freno, con o sin asiento (rollator), para niños y adultos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EAN 030A Andador anteroposterior graduable en altura, con asiento abatible y freno, para niños y adultos.</p>
+<p>BAS</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP2</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>130,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">837,36</p>
+<p>118,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EAN 020 Andador con control postural de tronco y pelvis.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">761,24</p>
+<p>EAN 020A Andador con control postural de tronco y pelvis, graduable en altura y con freno, para niños y adultos.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>1.414,01</p>
+</td>
+<td>
+<p>1.285,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EAN 030 Andador anteroposterior.</p>
+</td>
+<td>
+<p>EAN 030A Andador anteroposterior graduable en altura, con asiento abatible y freno, para niños y adultos.</p>
+</td>
+<td>
+<p>ADAP2</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>837,36</p>
+</td>
+<td>
+<p>761,24</p>
 </td>
 </tr>
 </tbody>
@@ -13198,421 +12632,413 @@ Subgrupo: 12 06 00 Andadores (Aportación del usuario: 30 euros).
 
 Grupo: 04 06 Productos para la terapia del linfedema.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 04 06 06 Prendas de compresión para brazos, piernas y otras partes del cuerpo para linfedemas de miembros superiores, linfedemas graves de miembros inferiores y linfedemas de tronco (se podrán indicar dos unidades de cada producto en cada prescripción) (Aportación del usuario: 30 euros).</p>
+<p>Subgrupo: 04 06 06 Prendas de compresión para brazos, piernas y otras partes del cuerpo para linfedemas de miembros superiores, linfedemas graves de miembros inferiores y linfedemas de tronco (se podrán indicar dos unidades de cada producto en cada prescripción) (Aportación del usuario: 30 euros).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 000 Soporte de cuello para linfedema.</td>
-<td class="cuerpo_tabla_izq">EPL 000A Soporte de cuello para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">132,41</td>
-<td class="cuerpo_tabla_coma">120,37</td>
+<td>EPL 000 Soporte de cuello para linfedema.</td>
+<td>EPL 000A Soporte de cuello para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>132,41</td>
+<td>120,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EPL 010 Máscara para linfedema.</td>
-<td class="cuerpo_tabla_izq">EPL 010A Máscara abierta para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">313,98</td>
-<td class="cuerpo_tabla_coma">285,44</td>
+<td rowspan="3">EPL 010 Máscara para linfedema.</td>
+<td>EPL 010A Máscara abierta para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>313,98</td>
+<td>285,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 010B Máscara abierta con banda labial para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">334,36</td>
-<td class="cuerpo_tabla_coma">303,96</td>
+<td>EPL 010B Máscara abierta con banda labial para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>334,36</td>
+<td>303,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 010C Máscara con apertura para ojos, nariz y boca para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">421,27</td>
-<td class="cuerpo_tabla_coma">382,97</td>
+<td>EPL 010C Máscara con apertura para ojos, nariz y boca para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>421,27</td>
+<td>382,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">EPL 020 Camiseta para linfedema.</td>
-<td class="cuerpo_tabla_izq">EPL 020A Camiseta sin mangas para linfedema de tronco, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">278,93</td>
-<td class="cuerpo_tabla_coma">253,57</td>
+<td rowspan="2">EPL 020 Camiseta para linfedema.</td>
+<td>EPL 020A Camiseta sin mangas para linfedema de tronco, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>278,93</td>
+<td>253,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 020B Camiseta con mangas largas para linfedema de tronco, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">469,49</td>
-<td class="cuerpo_tabla_coma">426,81</td>
+<td>EPL 020B Camiseta con mangas largas para linfedema de tronco, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>469,49</td>
+<td>426,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 030 Soporte de mama para afectación linfática.</td>
-<td class="cuerpo_tabla_izq">EPL 030A Soporte de mama para afectación linfática, prefabricado.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">140,00</td>
-<td class="cuerpo_tabla_coma">127,27</td>
+<td>EPL 030 Soporte de mama para afectación linfática.</td>
+<td>EPL 030A Soporte de mama para afectación linfática, prefabricado.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>140,00</td>
+<td>127,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">EPL 040 Guantelete y guante para linfedema.</td>
-<td class="cuerpo_tabla_izq">EPL 040A Guantelete para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">52,53</td>
-<td class="cuerpo_tabla_coma">47,75</td>
+<td rowspan="7">EPL 040 Guantelete y guante para linfedema.</td>
+<td>EPL 040A Guantelete para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>52,53</td>
+<td>47,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 040B Guantelete para linfedema, prefabricado.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">31,74</td>
-<td class="cuerpo_tabla_coma">28,85</td>
+<td>EPL 040B Guantelete para linfedema, prefabricado.</td>
+<td>BAS</td>
+<td>6</td>
+<td>31,74</td>
+<td>28,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 040C Guante sin protección distal para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">150,07</td>
-<td class="cuerpo_tabla_coma">136,43</td>
+<td>EPL 040C Guante sin protección distal para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>150,07</td>
+<td>136,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 040D Guante sin protección distal para linfedema, prefabricado.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">125,85</td>
-<td class="cuerpo_tabla_coma">114,41</td>
+<td>EPL 040D Guante sin protección distal para linfedema, prefabricado.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>125,85</td>
+<td>114,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 040E Guante con protección distal para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">157,61</td>
-<td class="cuerpo_tabla_coma">143,28</td>
+<td>EPL 040E Guante con protección distal para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>157,61</td>
+<td>143,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 040F Guante hasta el codo sin protección distal para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">175,25</td>
-<td class="cuerpo_tabla_coma">159,32</td>
+<td>EPL 040F Guante hasta el codo sin protección distal para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>175,25</td>
+<td>159,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 040G Guante hasta el codo con protección distal para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">181,21</td>
-<td class="cuerpo_tabla_coma">164,74</td>
+<td>EPL 040G Guante hasta el codo con protección distal para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>181,21</td>
+<td>164,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">
-<p class="cuerpo_tabla_izq">EPL 050 Manga para linfedema.</p>
+<td rowspan="10">
+<p>EPL 050 Manga para linfedema.</p>
 </td>
-<td class="cuerpo_tabla_izq">EPL 050A Manga para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">108,70</td>
-<td class="cuerpo_tabla_coma">98,82</td>
+<td>EPL 050A Manga para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>108,70</td>
+<td>98,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050B Manga para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">BAS</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">105,60</td>
-<td class="cuerpo_tabla_coma">96,00</td>
+<td>EPL 050B Manga para linfedema, prefabricada.</td>
+<td>BAS</td>
+<td>6</td>
+<td>105,60</td>
+<td>96,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050C Manga con guantelete para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">147,94</td>
-<td class="cuerpo_tabla_coma">134,49</td>
+<td>EPL 050C Manga con guantelete para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>147,94</td>
+<td>134,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050D Manga con guantelete para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">109,69</td>
-<td class="cuerpo_tabla_coma">99,72</td>
+<td>EPL 050D Manga con guantelete para linfedema, prefabricada.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>109,69</td>
+<td>99,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050E Manga con guante para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">232,57</td>
-<td class="cuerpo_tabla_coma">211,43</td>
+<td>EPL 050E Manga con guante para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>232,57</td>
+<td>211,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050F Manga abarcando el hombro para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">154,47</td>
-<td class="cuerpo_tabla_coma">140,43</td>
+<td>EPL 050F Manga abarcando el hombro para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>154,47</td>
+<td>140,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050G Manga abarcando el hombro para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">121,79</td>
-<td class="cuerpo_tabla_coma">110,72</td>
+<td>EPL 050G Manga abarcando el hombro para linfedema, prefabricada.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>121,79</td>
+<td>110,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050H Manga abarcando el hombro con guantelete para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">213,66</td>
-<td class="cuerpo_tabla_coma">194,24</td>
+<td>EPL 050H Manga abarcando el hombro con guantelete para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>213,66</td>
+<td>194,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050I Manga abarcando el hombro con guantelete para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">174,96</td>
-<td class="cuerpo_tabla_coma">159,05</td>
+<td>EPL 050I Manga abarcando el hombro con guantelete para linfedema, prefabricada.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>174,96</td>
+<td>159,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 050J Manga abarcando el hombro con guante para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">298,73</td>
-<td class="cuerpo_tabla_coma">271,57</td>
+<td>EPL 050J Manga abarcando el hombro con guante para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>298,73</td>
+<td>271,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">EPL 060 Guante con dedos para pie para linfedema.</td>
-<td class="cuerpo_tabla_izq">EPL 060A Guante sin protección distal para pie para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">149,67</td>
-<td class="cuerpo_tabla_coma">136,06</td>
+<td rowspan="2">EPL 060 Guante con dedos para pie para linfedema.</td>
+<td>EPL 060A Guante sin protección distal para pie para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>149,67</td>
+<td>136,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 060B Guante con protección distal para pie para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">152,14</td>
-<td class="cuerpo_tabla_coma">138,31</td>
+<td>EPL 060B Guante con protección distal para pie para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>152,14</td>
+<td>138,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">
-<p class="cuerpo_tabla_izq">EPL 070 Media para linfedema.</p>
+<td rowspan="5">
+<p>EPL 070 Media para linfedema.</p>
 </td>
-<td class="cuerpo_tabla_izq">EPL 070A Media hasta la rodilla para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">106,82</td>
-<td class="cuerpo_tabla_coma">97,11</td>
+<td>EPL 070A Media hasta la rodilla para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>106,82</td>
+<td>97,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 070B Media hasta la rodilla para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">84,44</td>
-<td class="cuerpo_tabla_coma">76,76</td>
+<td>EPL 070B Media hasta la rodilla para linfedema, prefabricada.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>84,44</td>
+<td>76,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 070C Media entera para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">165,44</td>
-<td class="cuerpo_tabla_coma">150,40</td>
+<td>EPL 070C Media entera para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>165,44</td>
+<td>150,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 070D Media entera para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">109,14</td>
-<td class="cuerpo_tabla_coma">99,22</td>
+<td>EPL 070D Media entera para linfedema, prefabricada.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>109,14</td>
+<td>99,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 070E Media entera con sujeción a la cintura para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">173,03</td>
-<td class="cuerpo_tabla_coma">157,30</td>
+<td>EPL 070E Media entera con sujeción a la cintura para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>173,03</td>
+<td>157,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">
-<p class="cuerpo_tabla_izq">EPL 080 Panty para linfedema.</p>
+<td rowspan="4">
+<p>EPL 080 Panty para linfedema.</p>
 </td>
-<td class="cuerpo_tabla_izq">EPL 080A Panty de una extremidad para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">282,15</td>
-<td class="cuerpo_tabla_coma">256,50</td>
+<td>EPL 080A Panty de una extremidad para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>282,15</td>
+<td>256,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 080B Panty de una extremidad para linfedema, prefabricado.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">246,63</td>
-<td class="cuerpo_tabla_coma">224,21</td>
+<td>EPL 080B Panty de una extremidad para linfedema, prefabricado.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>246,63</td>
+<td>224,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 080C Panty (de dos piernas) para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">353,67</td>
-<td class="cuerpo_tabla_coma">321,52</td>
+<td>EPL 080C Panty (de dos piernas) para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>353,67</td>
+<td>321,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 080D Panty (de dos piernas) para linfedema, prefabricado.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">319,06</td>
-<td class="cuerpo_tabla_coma">290,05</td>
+<td>EPL 080D Panty (de dos piernas) para linfedema, prefabricado.</td>
+<td>ADAP1</td>
+<td>6</td>
+<td>319,06</td>
+<td>290,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">EPL 090 Pantalón para linfedema.</td>
-<td class="cuerpo_tabla_izq">EPL 090A Pantalón de pernera corta para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">251,82</td>
-<td class="cuerpo_tabla_coma">228,93</td>
+<td rowspan="2">EPL 090 Pantalón para linfedema.</td>
+<td>EPL 090A Pantalón de pernera corta para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>251,82</td>
+<td>228,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 090B Pantalón para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">309,79</td>
-<td class="cuerpo_tabla_coma">281,63</td>
+<td>EPL 090B Pantalón para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>309,79</td>
+<td>281,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">EPL 100 Prenda autoajustable para linfedema de miembro superior.</td>
-<td class="cuerpo_tabla_izq">EPL 100A Guantelete autoajustable de baja elasticidad o inelástico, prefabricado.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">52,89</td>
-<td class="cuerpo_tabla_coma">48,08</td>
+<td rowspan="4">EPL 100 Prenda autoajustable para linfedema de miembro superior.</td>
+<td>EPL 100A Guantelete autoajustable de baja elasticidad o inelástico, prefabricado.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>52,89</td>
+<td>48,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 100B Guante autoajustable de baja elasticidad o inelástico, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">143,29</td>
-<td class="cuerpo_tabla_coma">130,26</td>
+<td>EPL 100B Guante autoajustable de baja elasticidad o inelástico, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>143,29</td>
+<td>130,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 100C Prenda para brazo autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">298,62</td>
-<td class="cuerpo_tabla_coma">271,47</td>
+<td>EPL 100C Prenda para brazo autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>298,62</td>
+<td>271,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 100D Prenda para brazo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">159,85</td>
-<td class="cuerpo_tabla_coma">145,32</td>
+<td>EPL 100D Prenda para brazo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>159,85</td>
+<td>145,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="12">EPL 110 Prenda autoajustable para linfedema de miembro inferior.</td>
-<td class="cuerpo_tabla_izq">EPL 110A Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">64,78</td>
-<td class="cuerpo_tabla_coma">58,89</td>
+<td rowspan="12">EPL 110 Prenda autoajustable para linfedema de miembro inferior.</td>
+<td>EPL 110A Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>64,78</td>
+<td>58,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110B Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">54,67</td>
-<td class="cuerpo_tabla_coma">49,70</td>
+<td>EPL 110B Prenda para pie incluyendo tobillo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>54,67</td>
+<td>49,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110C Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">428,93</td>
-<td class="cuerpo_tabla_coma">389,94</td>
+<td>EPL 110C Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>428,93</td>
+<td>389,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110D Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">128,61</td>
-<td class="cuerpo_tabla_coma">116,92</td>
+<td>EPL 110D Prenda para pierna por debajo de la rodilla incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>128,61</td>
+<td>116,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110E Prenda para pierna por debajo de la rodilla autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">320,03</td>
-<td class="cuerpo_tabla_coma">290,94</td>
+<td>EPL 110E Prenda para pierna por debajo de la rodilla autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>320,03</td>
+<td>290,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110F Prenda para muslo autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">230,66</td>
-<td class="cuerpo_tabla_coma">209,69</td>
+<td>EPL 110F Prenda para muslo autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>230,66</td>
+<td>209,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110G Prenda para muslo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">140,00</td>
-<td class="cuerpo_tabla_coma">127,27</td>
+<td>EPL 110G Prenda para muslo autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>140,00</td>
+<td>127,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110H Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">326,18</td>
-<td class="cuerpo_tabla_coma">296,53</td>
+<td>EPL 110H Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>326,18</td>
+<td>296,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110I Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">143,98</td>
-<td class="cuerpo_tabla_coma">130,89</td>
+<td>EPL 110I Prenda para muslo incluyendo rodilla autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>143,98</td>
+<td>130,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110J Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">734,88</td>
-<td class="cuerpo_tabla_coma">668,07</td>
+<td>EPL 110J Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>734,88</td>
+<td>668,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110K Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.</td>
-<td class="cuerpo_tabla_centro">ADAP1</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">293,70</td>
-<td class="cuerpo_tabla_coma">267,00</td>
+<td>EPL 110K Prenda para pierna entera incluyendo pie autoajustable de baja elasticidad o inelástica, prefabricada.</td>
+<td>ADAP1</td>
+<td>12</td>
+<td>293,70</td>
+<td>267,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPL 110L Prenda para pierna entera autoajustable de baja elasticidad o inelástica, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">500,50</td>
-<td class="cuerpo_tabla_coma">455,00</td>
+<td>EPL 110L Prenda para pierna entera autoajustable de baja elasticidad o inelástica, a medida.</td>
+<td>MED</td>
+<td>12</td>
+<td>500,50</td>
+<td>455,00</td>
 </tr>
 </tbody>
 </table>
@@ -13623,649 +13049,641 @@ Grupo: 04 07 Productos para la prevención y tratamiento de cicatrices patológi
 
 Subgrupo: 04 07 00 Prendas de compresión para brazos, piernas y otras partes del cuerpo para quemados y grandes queloides (se podrán indicar dos unidades de cada producto en cada prescripción) (Aportación del usuario: 30 euros)
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">EPQ 000 Soporte de cuello y/o mentón para quemados y grandes queloides</p>
+<p>EPQ 000 Soporte de cuello y/o mentón para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 000A Soporte de cuello para quemados y grandes queloides, a medida</p>
+<p>EPQ 000A Soporte de cuello para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,41</p>
+<p>132,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120,37</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 000B Soporte de mentón para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">174,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">158,27</p>
+<p>120,37</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 000C Soporte de cuello y mentón para quemados y grandes queloides, a medida</p>
+<p>EPQ 000B Soporte de mentón para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">245,50</p>
+<p>174,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">223,18</p>
+<p>158,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 000C Soporte de cuello y mentón para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>245,50</p>
+</td>
+<td>
+<p>223,18</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">EPQ 010 Máscara para quemados y grandes queloides</p>
+<p>EPQ 010 Máscara para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 010A Máscara abierta para quemados y grandes queloides, a medida</p>
+<p>EPQ 010A Máscara abierta para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">313,98</p>
+<p>313,98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">285,44</p>
+<p>285,44</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 010B Máscara abierta con banda labial para quemados y grandes queloides, a medida</p>
+<p>EPQ 010B Máscara abierta con banda labial para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">334,36</p>
+<p>334,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">303,96</p>
+<p>303,96</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 010C Máscara con apertura para ojos, nariz y boca para quemados y grandes queloides, a medida</p>
+<p>EPQ 010C Máscara con apertura para ojos, nariz y boca para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">421,27</p>
+<p>421,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">382,97</p>
+<p>382,97</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 010D Máscara de termoplástico con silicona para quemados y grandes queloides, a medida</p>
+<p>EPQ 010D Máscara de termoplástico con silicona para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.277,46</p>
+<p>1.277,46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.161,33</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">EPQ 020 Camiseta para quemados y grandes queloides</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 020A Camiseta sin mangas para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">278,93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">253,57</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 020B Camiseta con mangas cortas para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">419,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">381,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 020C Camiseta con mangas largas para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">469,49</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">426,81</p>
+<p>1.161,33</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">EPQ 030 Tronco para quemados y grandes queloides</p>
+<p>EPQ 020 Camiseta para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 030A Tronco sin mangas para quemados y grandes queloides, a medida</p>
+<p>EPQ 020A Camiseta sin mangas para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">472,20</p>
+<p>278,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">429,27</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 030B Tronco con mangas cortas para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">567,47</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">515,88</p>
+<p>253,57</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 030C Tronco con mangas largas para quemados y grandes queloides, a medida</p>
+<p>EPQ 020B Camiseta con mangas cortas para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">580,35</p>
+<p>419,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">527,59</p>
+<p>381,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 020C Camiseta con mangas largas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>469,49</p>
+</td>
+<td>
+<p>426,81</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>EPQ 030 Tronco para quemados y grandes queloides</p>
+</td>
+<td>
+<p>EPQ 030A Tronco sin mangas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>472,20</p>
+</td>
+<td>
+<p>429,27</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 030B Tronco con mangas cortas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>567,47</p>
+</td>
+<td>
+<p>515,88</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 030C Tronco con mangas largas para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>580,35</p>
+</td>
+<td>
+<p>527,59</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">EPQ 040 Guantelete y guante para quemados y grandes queloides</p>
+<p>EPQ 040 Guantelete y guante para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 040A Guantelete para quemados y grandes queloides, a medida</p>
+<p>EPQ 040A Guantelete para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52,53</p>
+<p>52,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 040B Guante sin protección distal para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">150,07</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">136,43</p>
+<p>47,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 040C Guante con protección distal para quemados y grandes queloides, a medida</p>
+<p>EPQ 040B Guante sin protección distal para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157,61</p>
+<p>150,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">143,28</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 040D Guante hasta el codo sin protección distal para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">175,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">159,32</p>
+<p>136,43</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 040E Guante hasta el codo con protección distal para quemados y grandes queloides, a medida</p>
+<p>EPQ 040C Guante con protección distal para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">181,21</p>
+<p>157,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164,74</p>
+<p>143,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 040D Guante hasta el codo sin protección distal para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>175,25</p>
+</td>
+<td>
+<p>159,32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 040E Guante hasta el codo con protección distal para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>181,21</p>
+</td>
+<td>
+<p>164,74</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">EPQ 050 Manga para quemados y grandes queloides</p>
+<p>EPQ 050 Manga para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 050A Manga para quemados y grandes queloides, a medida</p>
+<p>EPQ 050A Manga para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108,70</p>
+<p>108,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98,82</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 050B Manga con guantelete para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">147,94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">134,49</p>
+<p>98,82</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 050C Manga con guante para quemados y grandes queloides, a medida</p>
+<p>EPQ 050B Manga con guantelete para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">232,57</p>
+<p>147,94</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">211,43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 050D Manga abarcando el hombro para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">154,47</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140,43</p>
+<p>134,49</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 050E Manga abarcando el hombro con guantelete para quemados y grandes queloides, a medida</p>
+<p>EPQ 050C Manga con guante para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">213,66</p>
+<p>232,57</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">194,24</p>
+<p>211,43</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 050F Manga abarcando el hombro con guante para quemados y grandes queloides, a medida</p>
+<p>EPQ 050D Manga abarcando el hombro para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">298,73</p>
+<p>154,47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">271,57</p>
+<p>140,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 050E Manga abarcando el hombro con guantelete para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>213,66</p>
+</td>
+<td>
+<p>194,24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 050F Manga abarcando el hombro con guante para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>298,73</p>
+</td>
+<td>
+<p>271,57</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">EPQ 060 Guante con dedos para pie para quemados y grandes queloides</p>
+<p>EPQ 060 Guante con dedos para pie para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 060A Guante con dedos sin protección distal para pie para quemados y grandes queloides, a medida</p>
+<p>EPQ 060A Guante con dedos sin protección distal para pie para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">149,67</p>
+<p>149,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">136,06</p>
+<p>136,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 060B Guante con dedos con protección distal para pie para quemados y grandes queloides, a medida</p>
+<p>EPQ 060B Guante con dedos con protección distal para pie para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152,14</p>
+<p>152,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138,31</p>
+<p>138,31</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">EPQ 070 Media para quemados y grandes queloides</p>
+<p>EPQ 070 Media para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 070A Media hasta la rodilla para quemados y grandes queloides, a medida</p>
+<p>EPQ 070A Media hasta la rodilla para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">106,82</p>
+<p>106,82</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">97,11</p>
+<p>97,11</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 070B Media entera para quemados y grandes queloides, a medida</p>
+<p>EPQ 070B Media entera para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165,44</p>
+<p>165,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,40</p>
+<p>150,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 070C Media entera con sujeción a la cintura para quemados y grandes queloides, a medida</p>
+<p>EPQ 070C Media entera con sujeción a la cintura para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">173,03</p>
+<p>173,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157,30</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">EPQ 080 Panty para quemados y grandes queloides</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 080A Panty de una extremidad para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">282,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">256,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 080B Panty (de dos piernas) para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">353,67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">321,52</p>
+<p>157,30</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">EPQ 090 Pantalón para quemados y grandes queloides</p>
+<p>EPQ 080 Panty para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 090A Pantalón de pernera corta para quemados y grandes queloides, a medida</p>
+<p>EPQ 080A Panty de una extremidad para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">251,82</p>
+<p>282,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">228,93</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">EPQ 090B Pantalón para quemados y grandes queloides, a medida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">MED</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">309,79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">281,63</p>
+<p>256,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 100 Tobillera para quemados y grandes queloides</p>
+<p>EPQ 080B Panty (de dos piernas) para quemados y grandes queloides, a medida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EPQ 100A Tobillera para quemados y grandes queloides, a medida</p>
+<p>MED</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MED</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>353,67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">82,96</p>
+<p>321,52</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>EPQ 090 Pantalón para quemados y grandes queloides</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,42</p>
+<p>EPQ 090A Pantalón de pernera corta para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>251,82</p>
+</td>
+<td>
+<p>228,93</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 090B Pantalón para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>309,79</p>
+</td>
+<td>
+<p>281,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EPQ 100 Tobillera para quemados y grandes queloides</p>
+</td>
+<td>
+<p>EPQ 100A Tobillera para quemados y grandes queloides, a medida</p>
+</td>
+<td>
+<p>MED</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>82,96</p>
+</td>
+<td>
+<p>75,42</p>
 </td>
 </tr>
 </tbody>
@@ -14275,198 +13693,190 @@ El IMF de los tipos de productos del subgrupo 04 07 00, excepto en el caso de la
 
 Grupo: 04 90 Complementos para las prendas de compresión
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categorías (Código homologado y descripción)</th>
-<th class="cabeza_tabla">Tipos de productos (Código y descripción)</th>
-<th class="cabeza_tabla">Elaboración</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<th>Categorías (Código homologado y descripción)</th>
+<th>Tipos de productos (Código y descripción)</th>
+<th>Elaboración</th>
+<th>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
-<th class="cabeza_tabla">IMF</th>
-<th class="cabeza_tabla">IMF si</th>
+<th>IMF</th>
+<th>IMF si</th>
 </tr>
 </thead>
 <caption>
-<p class="parrafo_2">Subgrupo: 04 90 00 Complementos para las prendas de compresión (para linfedema, quemados y grandes queloides) (Aportación del usuario: 0 euros).</p>
+<p>Subgrupo: 04 90 00 Complementos para las prendas de compresión (para linfedema, quemados y grandes queloides) (Aportación del usuario: 0 euros).</p>
 </caption>
-<colgroup>
-<col width="17%">
-<col width="48%">
-<col width="9%">
-<col width="7%">
-<col width="10%">
-<col width="9%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EPC 000 Cierre para prendas de compresión.</td>
-<td class="cuerpo_tabla_izq">EPC 000A Cierre de cremallera, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">30,42</td>
-<td class="cuerpo_tabla_coma">27,65</td>
+<td rowspan="3">EPC 000 Cierre para prendas de compresión.</td>
+<td>EPC 000A Cierre de cremallera, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>30,42</td>
+<td>27,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 000B Cierre de corchetes, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">18,46</td>
-<td class="cuerpo_tabla_coma">16,78</td>
+<td>EPC 000B Cierre de corchetes, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>18,46</td>
+<td>16,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 000C Cierre de velcro, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">17,99</td>
-<td class="cuerpo_tabla_coma">16,35</td>
+<td>EPC 000C Cierre de velcro, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>17,99</td>
+<td>16,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">
-<p class="cuerpo_tabla_izq">EPC 010 Adaptaciones para prendas de compresión.</p>
+<td rowspan="7">
+<p>EPC 010 Adaptaciones para prendas de compresión.</p>
 </td>
-<td class="cuerpo_tabla_izq">EPC 010A Apertura de mamas, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">18,46</td>
-<td class="cuerpo_tabla_coma">16,78</td>
+<td>EPC 010A Apertura de mamas, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>18,46</td>
+<td>16,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 010B Confección de copas, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">14,47</td>
-<td class="cuerpo_tabla_coma">13,15</td>
+<td>EPC 010B Confección de copas, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>14,47</td>
+<td>13,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 010C Confección de bolsa escrotal, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">55,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>EPC 010C Confección de bolsa escrotal, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>55,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 010D Adaptación anatómica articular, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">23,67</td>
-<td class="cuerpo_tabla_coma">21,52</td>
+<td>EPC 010D Adaptación anatómica articular, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>23,67</td>
+<td>21,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 010E Adaptación textil, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">34,13</td>
-<td class="cuerpo_tabla_coma">31,03</td>
+<td>EPC 010E Adaptación textil, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>34,13</td>
+<td>31,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 010F Inserción de bolsillo, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">31,82</td>
+<td>EPC 010F Inserción de bolsillo, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>35,00</td>
+<td>31,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 010G Almohadillas linfáticas, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">33,69</td>
-<td class="cuerpo_tabla_coma">30,63</td>
+<td>EPC 010G Almohadillas linfáticas, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>33,69</td>
+<td>30,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="13">EPC 020 Otros complementos para prendas de compresión.</td>
-<td class="cuerpo_tabla_izq">EPC 020A Banda proximal de sujeción para prendas de compresión para linfedema, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">36,52</td>
-<td class="cuerpo_tabla_coma">33,20</td>
+<td rowspan="13">EPC 020 Otros complementos para prendas de compresión.</td>
+<td>EPC 020A Banda proximal de sujeción para prendas de compresión para linfedema, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>36,52</td>
+<td>33,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020B Soporte de silicona para quemados y grandes queloides, a medida.</td>
-<td class="cuerpo_tabla_centro">MED</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_coma">16,96</td>
-<td class="cuerpo_tabla_coma">15,42</td>
+<td>EPC 020B Soporte de silicona para quemados y grandes queloides, a medida.</td>
+<td>MED</td>
+<td>6</td>
+<td>16,96</td>
+<td>15,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020C Banda adicional de sujeción para prendas autoajustables de baja elasticidad o inelásticas para linfedema, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">32,74</td>
-<td class="cuerpo_tabla_coma">29,76</td>
+<td>EPC 020C Banda adicional de sujeción para prendas autoajustables de baja elasticidad o inelásticas para linfedema, prefabricada.</td>
+<td>COMP0</td>
+<td>12</td>
+<td>32,74</td>
+<td>29,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020D Funda de protección para el brazo para uso con prendas autoajustables de compresión.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">26,44</td>
-<td class="cuerpo_tabla_coma">24,04</td>
+<td>EPC 020D Funda de protección para el brazo para uso con prendas autoajustables de compresión.</td>
+<td>COMP0</td>
+<td>12</td>
+<td>26,44</td>
+<td>24,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020E Funda de protección para la pierna para uso con prendas autoajustables de compresión.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">32,91</td>
-<td class="cuerpo_tabla_coma">29,92</td>
+<td>EPC 020E Funda de protección para la pierna para uso con prendas autoajustables de compresión.</td>
+<td>COMP0</td>
+<td>12</td>
+<td>32,91</td>
+<td>29,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020F Almohadilla acolchada para linfedema de la zona genital para hombre, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0 </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">88,94</td>
-<td class="cuerpo_tabla_coma">80,85</td>
+<td>EPC 020F Almohadilla acolchada para linfedema de la zona genital para hombre, prefabricada.</td>
+<td>COMP0 </td>
+<td>12</td>
+<td>88,94</td>
+<td>80,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020G Almohadilla acolchada para linfedema de la zona genital para mujer, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0 </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">76,78</td>
-<td class="cuerpo_tabla_coma">69,80</td>
+<td>EPC 020G Almohadilla acolchada para linfedema de la zona genital para mujer, prefabricada.</td>
+<td>COMP0 </td>
+<td>12</td>
+<td>76,78</td>
+<td>69,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020H Almohadilla acolchada para linfedema del pecho unilateral, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">56,76</td>
-<td class="cuerpo_tabla_coma">51,60</td>
+<td>EPC 020H Almohadilla acolchada para linfedema del pecho unilateral, prefabricada.</td>
+<td>COMP0</td>
+<td>12</td>
+<td>56,76</td>
+<td>51,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020I Almohadilla acolchada para linfedema de pecho bilateral, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0 </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">164,01</td>
-<td class="cuerpo_tabla_coma">149,10</td>
+<td>EPC 020I Almohadilla acolchada para linfedema de pecho bilateral, prefabricada.</td>
+<td>COMP0 </td>
+<td>12</td>
+<td>164,01</td>
+<td>149,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020J Almohadilla acolchada para linfedema de la fosa axilar, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0 </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">37,03</td>
-<td class="cuerpo_tabla_coma">33,66</td>
+<td>EPC 020J Almohadilla acolchada para linfedema de la fosa axilar, prefabricada.</td>
+<td>COMP0 </td>
+<td>12</td>
+<td>37,03</td>
+<td>33,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020K Almohadilla acolchada para linfedema del abdomen, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0 </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">53,90</td>
-<td class="cuerpo_tabla_coma">49,00</td>
+<td>EPC 020K Almohadilla acolchada para linfedema del abdomen, prefabricada.</td>
+<td>COMP0 </td>
+<td>12</td>
+<td>53,90</td>
+<td>49,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020L Almohadilla acolchada para linfedema del tobillo, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">41,03</td>
-<td class="cuerpo_tabla_coma">37,30</td>
+<td>EPC 020L Almohadilla acolchada para linfedema del tobillo, prefabricada.</td>
+<td>COMP0</td>
+<td>12</td>
+<td>41,03</td>
+<td>37,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EPC 020M Almohadilla acolchada para linfedema del dorso de la mano, prefabricada.</td>
-<td class="cuerpo_tabla_centro">COMP0 </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_coma">33,88</td>
-<td class="cuerpo_tabla_coma">30,80</td>
+<td>EPC 020M Almohadilla acolchada para linfedema del dorso de la mano, prefabricada.</td>
+<td>COMP0 </td>
+<td>12</td>
+<td>33,88</td>
+<td>30,80</td>
 </tr>
 </tbody>
 </table>
@@ -14485,75 +13895,67 @@ Grupo: 04 48 Equipo para el entrenamiento del movimiento, la fuerza y el equilib
 
 Subgrupo: 04 48 06 Aparatos de bipedestación (Aportación del usuario: 30 euros).
 
-<table class="tabla_ancha" summary="Tabla de datos">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Categorías (Código homologado y descripción)</p>
+<p>Categorías (Código homologado y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tipos de productos (Código y descripción)</p>
+<p>Tipos de productos (Código y descripción)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Elaboración</p>
+<p>Elaboración</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida media</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Meses</p>
+<p>Vida media</p>
+<p>–</p>
+<p>Meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF</p>
+<p>IMF</p>
 </th>
 <th>
-<p class="cabeza_tabla">IMF si</p>
+<p>IMF si</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">EBI 000 Aparato de bipedestación.</p>
+<p>EBI 000 Aparato de bipedestación.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">EBI 000A Bipedestador de niño.</p>
+<p>EBI 000A Bipedestador de niño.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.705,80</p>
+<p>1.705,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.550,73</p>
+<p>1.550,73</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">EBI 000B Bipedestador de adulto.</p>
+<p>EBI 000B Bipedestador de adulto.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">ADAP1</p>
+<p>ADAP1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.282,91</p>
+<p>2.282,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.075,37</p>
+<p>2.075,37</p>
 </td>
 </tr>
 </tbody>

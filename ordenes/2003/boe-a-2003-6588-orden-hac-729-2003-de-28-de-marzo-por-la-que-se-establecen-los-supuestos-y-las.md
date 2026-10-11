@@ -151,271 +151,271 @@ Ilmos. Sres. Subsecretarios, Directores o Presidentes de Organismos Públicos e 
 
 ## ANEXO I — Registro de presentación orden de pago
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </td>
 <td>
-<p class="cabeza_tabla">Pos.</p>
+<p>Pos.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Long.</p>
+<p>Long.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de Operación 007 Pago de tasas (cargo en cuenta)</p>
+<p>Tipo de Operación 007 Pago de tasas (cargo en cuenta)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>4</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alta (01), Consulta (02)</p>
+<p>Alta (01), Consulta (02)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>6</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
+<p>Ceros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>9</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espacios en blanco</p>
+<p>Ceros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de moneda de la declaración (E)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tipo de autoliquidación (I)</p>
+<p>Espacios en blanco</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.I.F. del contribuyente (XNNNNNNNX)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espacios en blanco.</p>
+<p>Tipo de moneda de la declaración (E)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Importe del ingreso (ajustado a la dcha. y relleno de ceros a la izda.)</p>
+<p>Tipo de autoliquidación (I)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>8</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>N.I.F. del contribuyente (XNNNNNNNX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Espacios en blanco.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Ceros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Importe del ingreso (ajustado a la dcha. y relleno de ceros a la izda.)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Número de justificante</p>
+<p>Número de justificante</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código Cuenta Cliente</p>
+<p>Código Cuenta Cliente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
+<p>Ceros</p>
 </td>
 </tr>
 </table>
@@ -455,441 +455,441 @@ El MAC de 8 será generado a partir de las datos de las 120 primeras posiciones.
 
 ## ANEXO III — Registro de orden de cargo
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </td>
 <td>
-<p class="cabeza_tabla">Pos.</p>
+<p>Pos.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Long.</p>
+<p>Long.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo.</p>
+<p>Tipo.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">NIF del (XNNNNNNNX) titular de la cuenta y del certificado de firma electrónica.</p>
+<p>NIF del (XNNNNNNNX) titular de la cuenta y del certificado de firma electrónica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>10</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha AAMMDD</p>
+<p>Fecha AAMMDD</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>16</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hora HHMMSSSSSS</p>
+<p>Hora HHMMSSSSSS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>26</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de Operación (007)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alta (01), Consulta (02)</p>
+<p>Tipo de Operación (007)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ceros</p>
+<p>Alta (01), Consulta (02)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espacios en blanco</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tipo de moneda de la declaración (E)</p>
+<p>Ceros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39</p>
+<p>34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de autoliquidación (I)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.I.F. del contribuyente (XNNNNNNNX) = campo I</p>
+<p>Ceros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda)</p>
+<p>Espacios en blanco</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>9</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Tipo de moneda de la declaración (E)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>39</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Tipo de autoliquidación (I)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>N.I.F. del contribuyente (XNNNNNNNX) = campo I</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>49</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Ceros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>54</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">66</p>
+<p>66</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Número de justificante</p>
+<p>Número de justificante</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">79</p>
+<p>79</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código Cuenta Cliente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">99</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Importe en la moneda en que esté denominada la Cuenta Restringida del abono.</p>
+<p>Código Cuenta Cliente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">111</p>
+<p>99</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.I.F. del Representante 1 o espacios en blanco</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">120</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">N.I.F. del Representante 2 o espacios en blanco</p>
+<p>Importe en la moneda en que esté denominada la Cuenta Restringida del abono.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">129</p>
+<p>111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">MAC de 8 con salida en hexadecimal cifrado</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">145</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espacios en blanco</p>
+<p>N.I.F. del Representante 1 o espacios en blanco</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">149</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y Nombre o Razón Social del contribuyente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">189</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Apellidos y Nombre del Representante 1 o espacios en blanco</p>
+<p>N.I.F. del Representante 2 o espacios en blanco</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">229</p>
+<p>129</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Apellidos y Nombre del Representante 2 o espacios en blanco</p>
+<p>MAC de 8 con salida en hexadecimal cifrado</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">269</p>
+<p>145</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reservado para posibles ampliaciones</p>
+<p>Espacios en blanco</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>149</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Apellidos y Nombre o Razón Social del contribuyente</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>189</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Apellidos y Nombre del Representante 1 o espacios en blanco</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>229</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Apellidos y Nombre del Representante 2 o espacios en blanco</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>269</p>
+</td>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Reservado para posibles ampliaciones</p>
 </td>
 </tr>
 </table>
@@ -898,356 +898,356 @@ Existe la posibilidad de que los datos de los campos 4 a 24 incluido se transmit
 
 ## ANEXO IV — Registro de comunicación del NRC
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">N.º</p>
+<p>N.º</p>
 </td>
 <td>
-<p class="cabeza_tabla">Pos.</p>
+<p>Pos.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Long.</p>
+<p>Long.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de Operación (007)</p>
+<p>Tipo de Operación (007)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>4</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alta (01), Consulta (02)</p>
+<p>Alta (01), Consulta (02)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>6</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
+<p>Ceros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <u>9</u>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espacios en blanco</p>
+<p>Ceros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tipo de moneda de la declaración (E)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Tipo de autoliquidación (I)</p>
+<p>Espacios en blanco</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">N.I.F. del contribuyente (XNNNNNNNX) = campo 1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espacios en blanco</p>
+<p>Tipo de moneda de la declaración (E)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ceros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Importe del ingreso (ajustado a la dcha. y relleno de ceros a la izda.)</p>
+<p>Tipo de autoliquidación (I)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>8</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>N.I.F. del contribuyente (XNNNNNNNX) = campo 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Espacios en blanco</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Ceros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Importe del ingreso (ajustado a la dcha. y relleno de ceros a la izda.)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Número de justificante</p>
+<p>Número de justificante</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código Cuenta Cliente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Importe en la moneda en que esté denominada la Cuenta Restringida del abono.</p>
+<p>Código Cuenta Cliente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Fecha de la operación (AAAAMMDD)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">98</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">An</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Número de Referencia Completo (MMMMSSSSSSCOXXXXXXXX)</p>
+<p>Importe en la moneda en que esté denominada la Cuenta Restringida del abono.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>N</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Código de retorno</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">122</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reservado para posibles ampliaciones</p>
+<p>Fecha de la operación (AAAAMMDD)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">211</p>
+<p>98</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">189</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">An</p>
+<p>An</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explicación del horario (para error 86 y 87)</p>
+<p>Número de Referencia Completo (MMMMSSSSSSCOXXXXXXXX)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Código de retorno</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>122</p>
+</td>
+<td>
+<p>89</p>
+</td>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Reservado para posibles ampliaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>211</p>
+</td>
+<td>
+<p>189</p>
+</td>
+<td>
+<p>An</p>
+</td>
+<td>
+<p>Explicación del horario (para error 86 y 87)</p>
 </td>
 </tr>
 </table>

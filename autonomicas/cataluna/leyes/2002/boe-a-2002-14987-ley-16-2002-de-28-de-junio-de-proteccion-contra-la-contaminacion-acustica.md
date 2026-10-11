@@ -638,85 +638,85 @@ A efectos de la presente Ley, se entiende por ruido producido por los medios de 
 
 Valores límite de inmisión -LAr en dB(A) Valores de atención -LAr en dB(A)Zona de sensibilidad
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Zona de sensibilidad</p>
+<p>Zona de sensibilidad</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores límite de inmisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores límite de inmisión</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores de atención</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores de atención</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
+<p>Noche</p>
 </td>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A, alta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>Noche</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B, moderada</p>
+<p>A, alta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C, baja</p>
+<p>B, moderada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C, baja</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>70</p>
 </td>
 </tr>
 </table>
@@ -799,85 +799,85 @@ Los niveles de evaluación se determinan con el cumplimiento al mismo tiempo de 
 
 3\. Niveles de inmisión
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Zona de sensibilidad</p>
+<p>Zona de sensibilidad</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores límite de inmisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores límite de inmisión</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores de atención</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores de atención</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
+<p>Noche</p>
 </td>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A, alta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>Noche</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B, moderada</p>
+<p>A, alta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C, baja</p>
+<p>B, moderada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C, baja</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>70</p>
 </td>
 </tr>
 </table>
@@ -932,85 +932,85 @@ A efectos de la presente Ley, se entiende por ruido producido por las actividade
 
 2\. Niveles de inmisión
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Zona de sensibilidad</p>
+<p>Zona de sensibilidad</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores límite de inmisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores límite de inmisión</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores de atención</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores de atención</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
+<p>Noche</p>
 </td>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A, alta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>Noche</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B, moderada</p>
+<p>A, alta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C, baja</p>
+<p>B, moderada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C, baja</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>70</p>
 </td>
 </tr>
 </table>
@@ -1175,56 +1175,56 @@ A efectos de la presente Ley, se entiende por ruido producido por las actividade
 
 2\. Niveles de inmisión
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Zona de sensibilidad</p>
+<p>Zona de sensibilidad</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores de inmisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores de inmisión</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A, alta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>Noche</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B, moderada</p>
+<p>A, alta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C, baja</p>
+<p>B, moderada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C, baja</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>30</p>
 </td>
 </tr>
 </table>
@@ -1389,85 +1389,85 @@ A efectos de la presente Ley, los niveles de inmisión se aplican al ruido de la
 
 2\. Niveles de inmisión
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Zona de sensibilidad</p>
+<p>Zona de sensibilidad</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores límite de inmisión</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores límite de inmisión</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Valores de atención</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">L<sub>Ar</sub> en dB(A)</p>
+<p>Valores de atención</p>
+<p>–</p>
+<p>L<sub>Ar</sub> en dB(A)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
+<p>Noche</p>
 </td>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A, alta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>Noche</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B, moderada</p>
+<p>A, alta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63</p>
+<p>60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">C, baja</p>
+<p>B, moderada</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C, baja</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>70</p>
 </td>
 </tr>
 </table>
@@ -1636,54 +1636,54 @@ d) Los efectos de las construcciones y los obstáculos naturales en la propagaci
 
 1\. El índice de aislamiento aparente con respecto al ruido aéreo R’w de las ventanas y de los elementos de construcción que forman parte de las mismas, como las persianas, debe presentar, en función del nivel de evaluación L<sub>Ar</sub>, al menos, los siguientes valores:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">L<sub>Ar </sub>en dB(A)</p>
+<p>L<sub>Ar </sub>en dB(A)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">R’w en dB</p>
+<p>R’w en dB</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Día</p>
+<p>Día</p>
 </td>
 <td>
-<p class="cabeza_tabla">Noche</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hasta 65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hasta 60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>Noche</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 65 a 75</p>
+<p>Hasta 65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">De 60 a 70</p>
+<p>Hasta 60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Más de 75</p>
+<p>De 65 a 75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Más de 70</p>
+<p>De 60 a 70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 75</p>
+</td>
+<td>
+<p>Más de 70</p>
+</td>
+<td>
+<p>40</p>
 </td>
 </tr>
 </table>

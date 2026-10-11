@@ -4746,25 +4746,19 @@ Espacios: Ciclo inicial
 | Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C101. Bases del comportamiento deportivo.<br>MED-C102. Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Espacio formativo</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th colspan="3">Espacio formativo</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Pista de atletismo, de al menos 300 metros de cuerda.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-ATAT105 Metodología de la iniciación en atletismo.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT103 Organización de actividades de iniciación en atletismo.</p>
+<td colspan="3">Pista de atletismo, de al menos 300 metros de cuerda.</td>
+<td>
+<p>MED-ATAT105 Metodología de la iniciación en atletismo.</p>
+<p>MED-ATAT103 Organización de actividades de iniciación en atletismo.</p>
 </td>
 </tr>
 </tbody>
@@ -4781,35 +4775,31 @@ Equipamientos: Ciclo inicial
 | • Maniquíes de primeros auxilios (adulto y bebe).<br>• Material de inmovilización y movilización.<br>• Material de cura.<br>• Desfibrilador externo semiautomático. | MED-C102. Primeros auxilios. |
 | • Material deportivo adaptado. | MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Equipamiento de la Pista de atletismo</p>
+<th>
+<p>Equipamiento de la Pista de atletismo</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">• Zonas de saltos y lanzamientos.</p>
-<p class="cuerpo_tabla_izq">• Combas, balones blandos, picas, balón medicinal, bancos suecos, vallas de diferentes alturas, colchonetas, aros.</p>
-<p class="cuerpo_tabla_izq">• Material de cada especialidad.</p>
+<td rowspan="2">
+<p>• Zonas de saltos y lanzamientos.</p>
+<p>• Combas, balones blandos, picas, balón medicinal, bancos suecos, vallas de diferentes alturas, colchonetas, aros.</p>
+<p>• Material de cada especialidad.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-ATAT105 Metodología de la iniciación en atletismo.</p>
+<td>
+<p>MED-ATAT105 Metodología de la iniciación en atletismo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-ATAT103 Organización de actividades de iniciación en atletismo.</p>
+<td>
+<p>MED-ATAT103 Organización de actividades de iniciación en atletismo.</p>
 </td>
 </tr>
 </tbody>
@@ -4827,34 +4817,28 @@ Espacios: Ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-ATAT205 Entrenamiento condicional en atletismo. |
 | Pista polideportiva.<br>44 x 22 mts. |  |  | MED-C201 Bases del aprendizaje deportivo.<br>MED-C202 Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-ATAT207 Atletismo adaptado. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Espacio de formación</p>
+<th colspan="3">
+<p>Espacio de formación</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">• Pista de atletismo de al menos 300 mts. de cuerda.</p>
+<td colspan="3">
+<p>• Pista de atletismo de al menos 300 mts. de cuerda.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-ATAT209 Tecnificación y perfeccionamiento técnico en carreras y marcha.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT210 Tecnificación y perfeccionamiento técnico en saltos.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT211 Tecnificación y perfeccionamiento técnico en lanzamientos y pruebas combinadas.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT205 Entrenamiento condicional en atletismo.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT207 Atletismo adaptado.</p>
+<td>
+<p>MED-ATAT209 Tecnificación y perfeccionamiento técnico en carreras y marcha.</p>
+<p>MED-ATAT210 Tecnificación y perfeccionamiento técnico en saltos.</p>
+<p>MED-ATAT211 Tecnificación y perfeccionamiento técnico en lanzamientos y pruebas combinadas.</p>
+<p>MED-ATAT205 Entrenamiento condicional en atletismo.</p>
+<p>MED-ATAT207 Atletismo adaptado.</p>
 </td>
 </tr>
 </tbody>
@@ -5004,102 +4988,97 @@ Equipamientos y materiales:
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva ciclo inicial</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva ciclo inicial</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101.Bases del comportamiento deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación Física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación Física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">• Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>• Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclo final.</td>
-<td class="cuerpo_tabla_izq">Especialidad.</td>
-<td class="cuerpo_tabla_izq">Cuerpo.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>Ciclo final.</td>
+<td>Especialidad.</td>
+<td>Cuerpo.</td>
+</tr>
+<tr>
+<td>MED-C201. Bases del aprendizaje deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C202. Bases del entrenamiento deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204.Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>MED-C204.Organización y legislación deportiva.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C205. Deporte y género.</td>
+<td>Educación Física.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -5111,90 +5090,80 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Ciclo inicial</p>
+<p>Ciclo inicial</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-ATAT105 Metodología de la iniciación en atletismo.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT103 Organización de actividades de iniciación en atletismo.</p>
+<td rowspan="2">
+<p>MED-ATAT105 Metodología de la iniciación en atletismo.</p>
+<p>MED-ATAT103 Organización de actividades de iniciación en atletismo.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Atletismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-ATAT106 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Atletismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>Educación Física con el título de Técnico Deportivo Superior en Atletismo.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-ATAT106 Formación práctica.</td>
+<td>Educación Física con el título de Técnico Deportivo Superior en Atletismo.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-omitir-repetir-tfoot="true" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Ciclo final</p>
+<p>Ciclo final</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-ATAT209 Tecnificación y perfeccionamiento técnico en carreras y marcha.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT210 Tecnificación y perfeccionamiento técnico en saltos.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT211 Tecnificación y perfeccionamiento técnico en lanzamientos y pruebas combinadas.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT204 Reglamento.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT205 Entrenamiento condicional en atletismo.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT206 Organización del atletismo.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT207 Atletismo adaptado.</p>
-<p class="cuerpo_tabla_izq">MED-ATAT212 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-ATAT209 Tecnificación y perfeccionamiento técnico en carreras y marcha.</p>
+<p>MED-ATAT210 Tecnificación y perfeccionamiento técnico en saltos.</p>
+<p>MED-ATAT211 Tecnificación y perfeccionamiento técnico en lanzamientos y pruebas combinadas.</p>
+<p>MED-ATAT204 Reglamento.</p>
+<p>MED-ATAT205 Entrenamiento condicional en atletismo.</p>
+<p>MED-ATAT206 Organización del atletismo.</p>
+<p>MED-ATAT207 Atletismo adaptado.</p>
+<p>MED-ATAT212 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Atletismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">• Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">• Profesor de Enseñanza Secundaria.</p>
+<td>Educación Física con el título de Técnico Deportivo Superior en Atletismo.</td>
+<td>
+<p>• Catedrático de Enseñanza Secundaria.</p>
+<p>• Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -1914,12 +1914,6 @@ Los aseguradores que hubieren asumido el riesgo de las responsabilidades pecunia
 
 1.ª En los casos de los números 1.º y 3.º, son también responsables por los hechos que ejecuten los declarados exentos de responsabilidad penal, quienes ejerzan su apoyo legal o de hecho, siempre que haya mediado culpa o negligencia por su parte y sin perjuicio de la responsabilidad civil directa que pudiera corresponder a los inimputables.
 
-> Téngase en cuenta que esta última actualización del primer párrafo de la regla 1 establecida por la disposición final 1.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1.ª En los casos de los números 1.º y 3.º, son también responsables por los hechos que ejecuten los declarados exentos de responsabilidad penal quienes los tengan bajo su potestad o guarda legal o de hecho, siempre que haya mediado culpa o negligencia por su parte y sin perjuicio de la responsabilidad civil directa que pudiera corresponder a los imputables."
-
 Los Jueces o Tribunales graduarán de forma equitativa la medida en que deba responder con sus bienes cada uno de dichos sujetos.
 
 2.ª Son igualmente responsables el ebrio y el intoxicado en el supuesto del número 2.º
@@ -1943,12 +1937,6 @@ En todos los supuestos del artículo anterior, el Juez o Tribunal que dicte sent
 Son también responsables civilmente, en defecto de los que lo sean criminalmente:
 
 1.º Los curadores con facultades de representación plena que convivan con la persona a quien prestan apoyo, siempre que haya por su parte culpa o negligencia.
-
-> Téngase en cuenta que esta última actualización del punto 1 establecida por la disposición final 1.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1.º Los padres o tutores, por los daños y perjuicios causados por los delitos cometidos por los mayores de dieciocho años sujetos a su patria potestad o tutela y que vivan en su compañía, siempre que haya por su parte culpa o negligencia."
 
 2.º Las personas naturales o jurídicas titulares de editoriales, periódicos, revistas, estaciones de radio o televisión o de cualquier otro medio de difusión escrita, hablada o visual, por los delitos cometidos utilizando los medios de los que sean titulares, dejando a salvo lo dispuesto en el artículo 212.
 
@@ -2489,12 +2477,6 @@ En los casos previstos en el número 1 del artículo anterior, el Juez o Tribuna
 4\. El que causare o cooperare activamente con actos necesarios y directos a la muerte de una persona que sufriera un padecimiento grave, crónico e imposibilitante o una enfermedad grave e incurable, con sufrimientos físicos o psíquicos constantes e insoportables, por la petición expresa, seria e inequívoca de esta, será castigado con la pena inferior en uno o dos grados a las señaladas en los apartados 2 y 3.
 
 5\. No obstante lo dispuesto en el apartado anterior, no incurrirá en responsabilidad penal quien causare o cooperare activamente a la muerte de otra persona cumpliendo lo establecido en la ley orgánica reguladora de la eutanasia.
-
-> Téngase en cuenta que los apartados 4 y 5, modificado el primero y añadido el segundo, por la disposición final 1 de la Ley Orgánica 3/2021, de 24 de marzo [Ref. BOE-A-2021-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628) entran en vigor el 25 de junio de 2021, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "4. El que causare o cooperare activamente con actos necesarios y directos a la muerte de otro, por la petición expresa, seria e inequívoca de éste, en el caso de que la víctima sufriera una enfermedad grave que conduciría necesariamente a su muerte, o que produjera graves padecimientos permanentes y difíciles de soportar, será castigado con la pena inferior en uno o dos grados a las señaladas en los números 2 y 3 de este artículo."
 
 > Se modifica el apartado 4 y se añade el 5, con efectos de 25 de junio de 2021, por la disposición final 1 de la Ley Orgánica 3/2021, de 24 de marzo. [Ref. BOE-A-2021-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628)
 
@@ -4196,16 +4178,6 @@ b) Los que, para su utilización fraudulenta, sustraigan, se apropiaren o adquie
 
 3\. Se impondrá la pena en su mitad inferior a los que, para su utilización fraudulenta y sabiendo que fueron obtenidos ilícitamente, posean, adquieran, transfieran, distribuyan o pongan a disposición de terceros tarjetas de crédito o débito, cheques de viaje o cualesquiera otros instrumentos de pago materiales o inmateriales distintos del efectivo.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.3 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 249.**
-
-> Los reos de estafa serán castigados con la pena de prisión de seis meses a tres años. Para la fijación de la pena se tendrá en cuenta el importe de lo defraudado, el quebranto económico causado al perjudicado, las relaciones entre éste y el defraudador, los medios empleados por éste y cuantas otras circunstancias sirvan para valorar la gravedad de la infracción.
-
-> Si la cuantía de lo defraudado no excediere de 400 euros, se impondrá la pena de multa de uno a tres meses."
-
 > Se modifica por el art. 1.3 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -4272,12 +4244,6 @@ Atendidas las reglas establecidas en el artículo 66 bis, los jueces y tribunale
 
 1\. Serán castigados con las penas del artículo 248 o, en su caso, con las del artículo 250, los que teniendo facultades para administrar un patrimonio ajeno, emanadas de la ley, encomendadas por la autoridad o asumidas mediante un negocio jurídico, las infrinjan excediéndose en el ejercicio de las mismas y, de esa manera, causen un perjuicio al patrimonio administrado.
 
-> Téngase en cuenta que esta última actualización del apartado 1 establecida por el art. 1.4 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "1. Serán punibles con las penas del artículo 249 o, en su caso, con las del artículo 250, los que teniendo facultades para administrar un patrimonio ajeno, emanadas de la ley, encomendadas por la autoridad o asumidas mediante un negocio jurídico, las infrinjan excediéndose en el ejercicio de las mismas y, de esa manera, causen un perjuicio al patrimonio administrado."
-
 2\. Si la cuantía del perjuicio patrimonial no excediere de 400 euros, se impondrá una pena de multa de uno a tres meses.
 
 > Se modifica el apartado 1 por el art. 1.4 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
@@ -4295,12 +4261,6 @@ Atendidas las reglas establecidas en el artículo 66 bis, los jueces y tribunale
 **Artículo 253.**
 
 1\. Serán castigados con las penas del artículo 248 o, en su caso, del artículo 250, salvo que ya estuvieran castigados con una pena más grave en otro precepto de este Código, los que, en perjuicio de otro, se apropiaren para sí o para un tercero, de dinero, efectos, valores o cualquier otra cosa mueble, que hubieran recibido en depósito, comisión, o custodia, o que les hubieran sido confiados en virtud de cualquier otro título que produzca la obligación de entregarlos o devolverlos, o negaren haberlos recibido.
-
-> Téngase en cuenta que esta última actualización del apartado 1 establecida por el art. 1.5 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "1. Serán castigados con las penas del artículo 249 o, en su caso, del artículo 250, salvo que ya estuvieran castigados con una pena más grave en otro precepto de este Código, los que, en perjuicio de otro, se apropiaren para sí o para un tercero, de dinero, efectos, valores o cualquier otra cosa mueble, que hubieran recibido en depósito, comisión, o custodia, o que les hubieran sido confiados en virtud de cualquier otro título que produzca la obligación de entregarlos o devolverlos, o negaren haberlos recibido."
 
 2\. Si la cuantía de lo apropiado no excediere de 400 euros, se impondrá una pena de multa de uno a tres meses.
 
@@ -4511,8 +4471,6 @@ b) estas sociedades o personas físicas hayan presentado una solicitud de exenci
 c) dicha solicitud se haya presentado en un momento anterior a aquel en que los directores, administradores de hecho o de Derecho, gerentes y otros miembros del personal actuales o anteriores de la sociedad, constituida o en formación, hayan sido informados de que están siendo investigados en relación con estos hechos,
 
 d) se trate de una colaboración activa también con la autoridad judicial o el Ministerio Fiscal, proporcionando indicios útiles y concretos para asegurar la prueba del delito e identificar a otros autores.
-
-> Téngase en cuenta que este apartado 3 añadido por el art. 1.6 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según establece su disposición final 6.
 
 > Se añade un apartado 3 por el art. 1.6 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -4886,12 +4844,6 @@ c) que se causara un grave impacto en la integridad del mercado.
 
 5\. Las mismas penas previstas en este artículo se impondrán cuando el responsable del hecho, sin tener acceso reservado a la información privilegiada, la obtenga de cualquier modo distinto de los previstos en el apartado anterior y la utilice conociendo que se trata de información privilegiada.
 
-> Téngase en cuenta que esta última actualización del apartado 5 establecida por el art. 1.7 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "5. Las penas previstas en este artículo se rebajarán en un grado cuando el responsable del hecho, sin tener acceso reservado a la información privilegiada, la obtenga de cualquier modo distinto de los previstos en el apartado anterior y la utilice conociendo que se trata de información privilegiada."
-
 > Se modifica el apartado 5 por el art. 1.7 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -5053,8 +5005,6 @@ b) estas sociedades o personas físicas hayan presentado una solicitud de exenci
 c) dicha solicitud se haya presentado en un momento anterior a aquel en que los directores, administradores de hecho o de Derecho, gerentes y otros miembros del personal actuales y anteriores de cualquier sociedad, constituida o en formación, que en esa condición hayan sido informados de que están siendo investigados en relación con estos hechos,
 
 d) se trate de una colaboración activa también con la autoridad judicial o el Ministerio Fiscal proporcionando indicios útiles y concretos para asegurar la prueba del delito e identificar a otros autores.
-
-> Téngase en cuenta que este artículo añadido por el art. 1.8 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según establece su disposición final 6.
 
 > Se añade por el art. 1.8 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -5487,24 +5437,6 @@ c) la totalidad de los mismos, en las empresas o centros de trabajo que ocupen a
 4.º Los que en el supuesto de transmisión de empresas, con conocimiento de los procedimientos descritos en los apartados anteriores, mantengan las referidas condiciones impuestas por otro.
 
 5.º Si las conductas reseñadas en los apartados anteriores se llevaren a cabo con violencia o intimidación se impondrán las penas superiores en grado.
-
-> Téngase en cuenta que esta última actualización de los apartados 2 a 5 establecida por el art. 1.9 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "[...]
-
-> 2.º Los que den ocupación simultáneamente a una pluralidad de trabajadores sin comunicar su alta en el régimen de la Seguridad Social que corresponda o, en su caso, sin haber obtenido la correspondiente autorización de trabajo, siempre que el número de trabajadores afectados sea al menos de:
-
-> a) el veinticinco por ciento, en las empresas o centros de trabajo que ocupen a más de cien trabajadores,
-
-> b) el cincuenta por ciento, en las empresas o centros de trabajo que ocupen a más de diez trabajadores y no más de cien, o
-
-> c) la totalidad de los mismos, en las empresas o centros de trabajo que ocupen a más de cinco y no más de diez trabajadores.
-
-> 3.º Los que en el supuesto de transmisión de empresas, con conocimiento de los procedimientos descritos en los apartados anteriores, mantengan las referidas condiciones impuestas por otro.
-
-> 4.º Si las conductas reseñadas en los apartados anteriores se llevaren a cabo con violencia o intimidación se impondrán las penas superiores en grado."
 
 > Se modifica por el art. 1.9 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -6628,12 +6560,6 @@ Este precepto no será aplicable a los certificados relativos a la Seguridad Soc
 
 ##### Sección 4.ª De la falsificación de tarjetas de crédito y débito, cheques de viaje y demás instrumentos de pago distintos del efectivo.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.10 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Sección 4.ª De la falsificación de tarjetas de crédito y débito y cheques de viaje**"
-
 > Se modifica por el art. 1.10 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -6654,22 +6580,6 @@ Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídic
 
 4\. El que, para su utilización fraudulenta y a sabiendas de su falsedad, posea u obtenga, para sí o para un tercero, tarjetas de crédito o débito, cheques de viaje o cualquier otro instrumento de pago distinto del efectivo será castigado con pena de prisión de uno a dos años.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.11 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 399 bis.**
-
-> 1\. El que altere, copie, reproduzca o de cualquier otro modo falsifique tarjetas de crédito o débito o cheques de viaje, será castigado con la pena de prisión de cuatro a ocho años. Se impondrá la pena en su mitad superior cuando los efectos falsificados afecten a una generalidad de personas o cuando los hechos se cometan en el marco de una organización criminal dedicada a estas actividades.
-
-> Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídica sea responsable de los anteriores delitos, se le impondrá la pena de multa de dos a cinco años.
-
-> Atendidas las reglas establecidas en el artículo 66 bis, los jueces y tribunales podrán asimismo imponer las penas recogidas en las letras b) a g) del apartado 7 del artículo 33.
-
-> 2\. La tenencia de tarjetas de crédito o débito o cheques de viaje falsificados destinados a la distribución o tráfico será castigada con la pena señalada a la falsificación.
-
-> 3\. El que sin haber intervenido en la falsificación usare, en perjuicio de otro y a sabiendas de la falsedad, tarjetas de crédito o débito o cheques de viaje falsificados será castigado con la pena de prisión de dos a cinco años."
-
 > Se modifica por el art. 1.11 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -6679,8 +6589,6 @@ Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídic
 **Artículo 399 ter.**
 
 A los efectos de este Código, se entiende por instrumento de pago distinto del efectivo cualquier dispositivo, objeto o registro protegido, material o inmaterial, o una combinación de estos, exceptuada la moneda de curso legal, que, por sí solo o en combinación con un procedimiento o conjunto de procedimientos, permite al titular o usuario transferir dinero o valor monetario incluso a través de medios digitales de intercambio.
-
-> Téngase en cuenta que este artículo añadido por el art. 1.12 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según establece su disposición final 6.
 
 > Se añade por el art. 1.12 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -6693,14 +6601,6 @@ A los efectos de este Código, se entiende por instrumento de pago distinto del 
 **Artículo 400.**
 
 La fabricación, recepción, obtención, tenencia, distribución, puesta a disposición o comercialización de útiles, materiales, instrumentos, sustancias, datos y programas informáticos, aparatos, elementos de seguridad o cualquier otro medio diseñado o adaptado específicamente para la comisión de los delitos descritos en los capítulos anteriores, se castigarán con la pena señalada en cada caso para los autores.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 1.13 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 400.**
-
-> La fabricación, recepción, obtención o tenencia de útiles, materiales, instrumentos, sustancias, datos y programas informáticos, aparatos, elementos de seguridad, u otros medios específicamente destinados a la comisión de los delitos descritos en los Capítulos anteriores, se castigarán con la pena señalada en cada caso para los autores."
 
 > Se modifica por el art. 1.13 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -6992,24 +6892,6 @@ Si el valor del perjuicio causado o del patrimonio público apropiado excediere 
 
 3\. Los hechos a que se refiere el presente artículo serán castigados con una pena de prisión de uno a dos años y multa de tres meses y un día a doce meses, y en todo caso inhabilitación especial para cargo o empleo público y derecho de sufragio pasivo por tiempo de uno a cinco años, cuando el perjuicio causado o el valor del patrimonio público sea inferior a 4.000 euros.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.14 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 432.**
-
-> 1\. La autoridad o funcionario público que cometiere el delito del artículo 252 sobre el patrimonio público, será castigado con una pena de prisión de dos a seis años, inhabilitación especial para cargo o empleo público y para el ejercicio del derecho de sufragio pasivo por tiempo de seis a diez años.
-
-> 2\. Se impondrá la misma pena a la autoridad o funcionario público que cometiere el delito del artículo 253 sobre el patrimonio público.
-
-> 3\. Se impondrán las penas de prisión de cuatro a ocho años e inhabilitación absoluta por tiempo de diez a veinte años si en los hechos a que se refieren los dos números anteriores hubiere concurrido alguna de las circunstancias siguientes:
-
-> a) se hubiera causado un grave daño o entorpecimiento al servicio público, o
-
-> b) el valor del perjuicio causado o de los bienes o efectos apropiados excediere de 50.000 euros.
-
-> Si el valor del perjuicio causado o de los bienes o efectos apropiados excediere de 250.000 euros, se impondrá la pena en su mitad superior, pudiéndose llegar hasta la superior en grado."
-
 > Se modifica por el art. 1.14 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -7024,8 +6906,6 @@ La autoridad o funcionario público que, sin ánimo de apropiárselo, destinare 
 
 Si el culpable no reintegrara los mismos elementos del patrimonio público distraídos dentro de los diez días siguientes al de la incoación del proceso, se le impondrán las penas del artículo anterior.
 
-> Téngase en cuenta que este artículo añadido por el art. 1.15 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según establece su disposición final 6.
-
 > Se añade por el art. 1.15 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -7033,14 +6913,6 @@ Si el culpable no reintegrara los mismos elementos del patrimonio público distr
 **Artículo 433.**
 
 La autoridad o funcionario público que, sin estar comprendido en los artículos anteriores, diere al patrimonio público que administrare una aplicación pública diferente de aquélla a la que estuviere destinado, incurrirá en las penas de prisión de uno a cuatro años e inhabilitación especial de empleo o cargo público de dos a seis años, si resultare daño o entorpecimiento graves del servicio al que estuviere consignado, y de inhabilitación de empleo o cargo público de uno a tres años y multa de tres a doce meses, si no resultare.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 1.16 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 433.**
-
-> Los hechos a que se refiere el artículo anterior serán castigados con una pena de prisión de uno a dos años y multa de tres meses y un día a doce meses, y en todo caso inhabilitación especial para cargo o empleo público y derecho de sufragio pasivo por tiempo de uno a cinco años, cuando el perjuicio causado o el valor de los bienes o valores apropiados sea inferior a 4.000 euros."
 
 > Se modifica por el art. 1.16 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -7062,8 +6934,6 @@ La autoridad o funcionario público que, sin estar comprendido en los artículos
 
 A los efectos del presente Código, se entenderá por patrimonio público todo el conjunto de bienes y derechos, de contenido económico-patrimonial, pertenecientes a las Administraciones públicas.
 
-> Téngase en cuenta que este artículo añadido por el art. 1.17 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según establece su disposición final 6.
-
 > Se añade por el art. 1.17 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -7071,14 +6941,6 @@ A los efectos del presente Código, se entenderá por patrimonio público todo e
 **Artículo 434.**
 
 Si el culpable de cualquiera de los hechos tipificados en este capítulo hubiere reparado de modo efectivo e íntegro el perjuicio causado al patrimonio público antes del inicio del juicio oral, o hubiera colaborado activa y eficazmente con las autoridades o sus agentes para obtener pruebas decisivas para la identificación o captura de otros responsables o para el completo esclarecimiento de los hechos delictivos, los jueces y tribunales impondrán al responsable de este delito la pena inferior en uno o dos grados.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 1.18 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 434.**
-
-> Si el culpable de cualquiera de los hechos tipificados en este Capítulo hubiere reparado de modo efectivo e íntegro el perjuicio causado al patrimonio público, o hubiera colaborado activamente con las autoridades o sus agentes para obtener pruebas decisivas para la identificación o captura de otros responsables o para el completo esclarecimiento de los hechos delictivos, los jueces y tribunales impondrán al responsable de este delito la pena inferior en uno o dos grados."
 
 > Se modifica por el art. 1.18 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -7141,8 +7003,6 @@ La autoridad o funcionario público que, abusando de su cargo, cometiere algún 
 **Artículo 438 bis.**
 
 La autoridad que, durante el desempeño de su función o cargo y hasta cinco años después de haber cesado en ellos, hubiera obtenido un incremento patrimonial o una cancelación de obligaciones o deudas por un valor superior a 250.000 euros respecto a sus ingresos acreditados, y se negara abiertamente a dar el debido cumplimiento a los requerimientos de los órganos competentes destinados a comprobar su justificación, será castigada con las penas de prisión de seis meses a tres años, multa del tanto al triplo del beneficio obtenido, e inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de dos a siete años.
-
-> Téngase en cuenta que este artículo añadido por el art. 1.19 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según establece su disposición final 6.
 
 > Se añade por el art. 1.19 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -8010,14 +7870,6 @@ Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comun
 
 **(Suprimido)**
 
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 544.**
-
-> Son reos de sedición los que, sin estar comprendidos en el delito de rebelión, se alcen pública y tumultuariamente para impedir, por la fuerza o fuera de las vías legales, la aplicación de las Leyes o a cualquier autoridad, corporación oficial o funcionario público, el legítimo ejercicio de sus funciones o el cumplimiento de sus acuerdos, o de las resoluciones administrativas o judiciales."
-
 > Se suprime por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -8025,16 +7877,6 @@ Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comun
 **Artículo 545.**
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 545.**
-
-> 1\. Los que hubieren inducido, sostenido o dirigido la sedición o aparecieren en ella como sus principales autores, serán castigados con la pena de prisión de ocho a diez años, y con la de diez a quince años, si fueran personas constituidas en autoridad. En ambos casos se impondrá, además, la inhabilitación absoluta por el mismo tiempo.
-
-> 2\. Fuera de estos casos, se impondrá la pena de cuatro a ocho años de prisión, y la de inhabilitación especial para empleo o cargo público por tiempo de cuatro a ocho años."
 
 > Se suprime por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -8044,14 +7886,6 @@ Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comun
 
 **(Suprimido)**
 
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 546.**
-
-> Lo dispuesto en el artículo 474 es aplicable al caso de sedición cuando ésta no haya llegado a organizarse con jefes conocidos."
-
 > Se suprime por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -8059,14 +7893,6 @@ Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comun
 **Artículo 547.**
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 547.**
-
-> En el caso de que la sedición no haya llegado a entorpecer de un modo grave el ejercicio de la autoridad pública y no haya tampoco ocasionado la perpetración de otro delito al que la Ley señale penas graves, los Jueces o Tribunales rebajarán en uno o dos grados las penas señaladas en este capítulo."
 
 > Se suprime por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -8076,14 +7902,6 @@ Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comun
 
 **(Suprimido)**
 
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 548.**
-
-> La provocación, la conspiración y la proposición para la sedición serán castigadas con las penas inferiores en uno o dos grados a las respectivamente previstas, salvo que llegue a tener efecto la sedición, en cuyo caso se castigará con la pena señalada en el primer apartado del artículo 545, y a sus autores se los considerará promotores."
-
 > Se suprime por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -8091,14 +7909,6 @@ Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comun
 **Artículo 549.**
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 549.**
-
-> Lo dispuesto en los artículos 479 a 484 es también aplicable al delito de sedición."
 
 > Se suprime por el art. 1.20 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -8196,18 +8006,6 @@ Estas penas se aplicarán en un grado superior cuando se portaran armas de fuego
 
 6\. Las penas señaladas en este artículo se impondrán sin perjuicio de las que les puedan corresponder a los actos concretos de lesiones, amenazas, coacciones o daños que se hubieran llevado a cabo.
 
-> Téngase en cuenta que esta ultima actualización establecida por el art. 1.21 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 557.**
-
-> 1\. Quienes actuando en grupo o individualmente pero amparados en él, alteraren la paz pública ejecutando actos de violencia sobre las personas o sobre las cosas, o amenazando a otros con llevarlos a cabo, serán castigados con una pena de seis meses a tres años de prisión.
-
-> Estas penas serán impuestas sin perjuicio de las que pudieran corresponder a los actos concretos de violencia o de amenazas que se hubieran llevado a cabo.
-
-> 2\. Con las mismas penas se castigará a quienes actuaren sobre el grupo o sus individuos incitándoles a realizar las acciones descritas en el apartado anterior o reforzando su disposición a llevarlas a cabo."
-
 > Se modifica por el art. 1.21 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -8220,28 +8018,6 @@ Estas penas se aplicarán en un grado superior cuando se portaran armas de fuego
 
 Los que, actuando en grupo, invadan u ocupen, contra la voluntad de su titular, el domicilio de una persona jurídica pública o privada, un despacho, oficina, establecimiento o local, aunque se encuentre abierto al público, y causen con ello una perturbación relevante de la paz pública y de su actividad normal, serán castigados con una pena de prisión de tres a seis meses o multa de seis a doce meses, salvo que los hechos ya estuvieran castigados con una pena más grave en otro precepto de este Código.
 
-> Téngase en cuenta que esta ultima actualización establecida por el art. 1.22 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 557 bis.**
-
-> 1\. Los hechos descritos en el artículo anterior serán castigados con una pena de uno a seis años de prisión cuando concurra alguna de las circunstancias siguientes:
-
-> 1.ª Cuando alguno de los partícipes en el delito portare un arma u otro instrumento peligroso, o exhibiere un arma de fuego simulada.
-
-> 2.ª Cuando el acto de violencia ejecutado resulte potencialmente peligroso para la vida de las personas o pueda causar lesiones graves. En particular, están incluidos los supuestos de lanzamiento de objetos contundentes o líquidos inflamables, el incendio y la utilización de explosivos.
-
-> 3.ª Cuando los hechos se lleven a cabo en una manifestación o reunión numerosa, o con ocasión de alguna de ellas.
-
-> 4.ª Cuando se llevaren a cabo actos de pillaje.
-
-> 5.ª Cuando el autor del hecho se prevaliera de su condición de autoridad, agente de ésta o funcionario público.
-
-> 6.ª Cuando se lleven a cabo con ocultación del rostro y así se dificulte la identificación de sus autores.
-
-> Estas penas serán impuestas sin perjuicio de las que pudieran corresponder a los actos concretos de violencia, amenazas o pillaje que se hubieran llevado a cabo."
-
 > Se modifica por el art. 1.22 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
 > Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
@@ -8251,16 +8027,6 @@ Los que, actuando en grupo, invadan u ocupen, contra la voluntad de su titular, 
 **Artículo 557 ter.**
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.23 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 557 ter.**
-
-> 1\. Los que, actuando en grupo o individualmente pero amparados en él, invadan u ocupen, contra la voluntad de su titular, el domicilio de una persona jurídica pública o privada, un despacho, oficina, establecimiento o local, aunque se encuentre abierto al público, y causen con ello una perturbación relevante de la paz pública y de su actividad normal, serán castigados con una pena de prisión de tres a seis meses o multa de seis a doce meses, salvo que los hechos ya estuvieran castigados con una pena más grave en otro precepto de este Código.
-
-> 2\. Los hechos serán castigados con la pena superior en grado cuando concurran las circunstancias 1.ª, 3.ª, 4.ª ó 5.ª del artículo 557 bis."
 
 > Se suprime por el art. 1.23 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -8277,14 +8043,6 @@ Serán castigados con la pena de prisión de tres a seis meses o multa de seis a
 **Artículo 559.**
 
 **(Suprimido)**
-
-> Téngase en cuenta que este artículo queda suprimido por el art. 1.24 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), desde el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "**Artículo 559.**
-
-> La distribución o difusión pública, a través de cualquier medio, de mensajes o consignas que inciten a la comisión de alguno de los delitos de alteración del orden público del artículo 557 bis del Código Penal, o que sirvan para reforzar la decisión de llevarlos a cabo, será castigado con una pena de multa de tres a doce meses o prisión de tres meses a un año."
 
 > Se suprime por el art. 1.24 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -8543,12 +8301,6 @@ A los efectos de este Código se considerarán organizaciones o grupos terrorist
 3\. Los delitos de terrorismo a los que se refiere el apartado 2 del artículo anterior se castigarán con la pena superior en grado a la respectivamente prevista en los correspondientes artículos.
 
 4\. El delito de desórdenes públicos previsto en los apartados 2 y 3 del artículo 557, así como el delito de rebelión, cuando se cometan por una organización o grupo terrorista o individualmente pero amparados en ellos, se castigarán con la pena superior en grado a las previstas para tales delitos.
-
-> Téngase en cuenta que esta ultima actualización del apartado 4 establecida por el art. 1.25 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800), entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "4. El delito de desórdenes públicos previsto en el artículo 557 bis, así como los delitos de rebelión y sedición, cuando se cometan por una organización o grupo terrorista o individualmente pero amparados en ellos, se castigarán con la pena superior en grado a las previstas para tales delitos."
 
 > Se modifica el apartado 4 por el art. 1.25 de la Ley Orgánica 14/2022, de 22 de diciembre. [Ref. BOE-A-2022-21800](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800)
 
@@ -9183,14 +8935,6 @@ En todo caso, la pena prevista en este artículo se impondrá sin perjuicio de l
 **Disposición adicional primera.**
 
 Cuando una persona sea declarada exenta de responsabilidad criminal por concurrir alguna de las causas previstas en los números 1.º y 3.º del artículo 20, el Ministerio Fiscal evaluará, atendiendo a las circunstancias del caso, la procedencia de promover un proceso para la adopción judicial de medidas de apoyo a la persona con discapacidad o, en el supuesto de que tales medidas hubieran sido ya anteriormente acordadas, para su revisión.
-
-> Téngase en cuenta que esta última actualización establecida por la disposición final 1.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Disposición adicional primera.**
-
-> Cuando una persona sea declarada exenta de responsabilidad criminal por concurrir alguna de las causas previstas en los números 1.º y 3.º del artículo 20 de este Código, el Ministerio Fiscal instará, si fuera procedente, la declaración de incapacidad ante la Jurisdicción Civil, salvo que la misma hubiera sido ya anteriormente acordada y, en su caso, el internamiento conforme a las normas de la legislación civil."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por la disposición final 1.3 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 

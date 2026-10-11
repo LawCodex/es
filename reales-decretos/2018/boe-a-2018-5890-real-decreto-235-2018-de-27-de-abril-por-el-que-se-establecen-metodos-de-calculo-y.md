@@ -560,246 +560,240 @@ h) Con carácter voluntario, cuando el proyecto esté relacionado con la extracc
 
 5\. Valores por defecto de la intensidad media de las emisiones de gases de efecto invernadero durante el ciclo de vida de combustibles distintos de los biocarburantes y de la electricidad.
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_13">
-<col class="row_column_14">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cabeza_tabla">Fuente de materias primas y procesos</p>
+<p>Fuente de materias primas y procesos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo de combustible comercializado</p>
+<p>Tipo de combustible comercializado</p>
 </td>
 <td>
-<p class="cabeza_tabla">Intensidad de las emisiones de GEI durante el ciclo de vida (g CO<sub>2</sub> eq/MJ)</p>
+<p>Intensidad de las emisiones de GEI durante el ciclo de vida (g CO<sub>2</sub> eq/MJ)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Intensidad ponderada de GEI durante el ciclo de vida (g CO<sub>2</sub> eq/MJ)</p>
+<p>Intensidad ponderada de GEI durante el ciclo de vida (g CO<sub>2</sub> eq/MJ)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Crudo convencional.</p>
+<p>Crudo convencional.</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Gasolina.</p>
+<p>Gasolina.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">93,2</p>
+<p>93,2</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">93,3</p>
+<p>93,3</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural a líquido.</p>
+<p>Gas natural a líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">94,3</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Carbón a líquido.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">172</p>
+<p>94,3</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Bitumen o betún natural.</p>
+<p>Carbón a líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">107</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Pizarra bituminosa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">131,3</p>
+<p>172</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Crudo convencional.</p>
+<p>Bitumen o betún natural.</p>
+</td>
+<td>
+<p>107</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pizarra bituminosa.</p>
+</td>
+<td>
+<p>131,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Crudo convencional.</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Diésel o Gasóleo.</p>
+<p>Diésel o Gasóleo.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">95</p>
+<p>95</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">95,1</p>
+<p>95,1</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural a líquido.</p>
+<p>Gas natural a líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">94,3</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Carbón a líquido.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">172</p>
+<p>94,3</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Bitumen o betún natural.</p>
+<p>Carbón a líquido.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">108,5</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_izq">Pizarra bituminosa.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">133,7</p>
+<p>172</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cualquier fuente fósil.</p>
+<p>Bitumen o betún natural.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas licuado de petróleo para motor de explosión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">73,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">73,6</p>
+<p>108,5</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural (combinación UE).</p>
+<p>Pizarra bituminosa.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural comprimido para motor de explosión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">69,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">69,3</p>
+<p>133,7</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural (combinación UE).</p>
+<p>Cualquier fuente fósil.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural licuado para motor de explosión.</p>
+<p>Gas licuado de petróleo para motor de explosión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">74,5</p>
+<p>73,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">74,5</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">Reacción de Sabatier del hidrógeno a partir de la electrólisis de energías renovables de origen no biológico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Metano sintético comprimido para motor de explosión.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,3</p>
+<p>73,6</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas natural obtenido mediante proceso de reformado con vapor.</p>
+<p>Gas natural (combinación UE).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
+<p>Gas natural comprimido para motor de explosión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104,3</p>
+<p>69,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104,3</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">Electrólisis totalmente alimentada por energías renovables de origen no biológico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,1</p>
+<p>69,3</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Carbón.</p>
+<p>Gas natural (combinación UE).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
+<p>Gas natural licuado para motor de explosión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">234,4</p>
+<p>74,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">234,4</p>
-</td>
-</tr>
-<tr class="row_column_16">
-<td>
-<p class="cuerpo_tabla_izq">Carbón con captura de carbono y almacenamiento de las emisiones del proceso.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hidrógeno comprimido para pila de combustible.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52,7</p>
+<p>74,5</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Residuos plásticos derivados de materias primas fósiles.</p>
+<p>Reacción de Sabatier del hidrógeno a partir de la electrólisis de energías renovables de origen no biológico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gasolina, diésel o gasóleo.</p>
+<p>Metano sintético comprimido para motor de explosión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">86</p>
+<p>3,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">86</p>
+<p>3,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas natural obtenido mediante proceso de reformado con vapor.</p>
+</td>
+<td>
+<p>Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p>104,3</p>
+</td>
+<td>
+<p>104,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Electrólisis totalmente alimentada por energías renovables de origen no biológico.</p>
+</td>
+<td>
+<p>Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p>9,1</p>
+</td>
+<td>
+<p>9,1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbón.</p>
+</td>
+<td>
+<p>Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p>234,4</p>
+</td>
+<td>
+<p>234,4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbón con captura de carbono y almacenamiento de las emisiones del proceso.</p>
+</td>
+<td>
+<p>Hidrógeno comprimido para pila de combustible.</p>
+</td>
+<td>
+<p>52,7</p>
+</td>
+<td>
+<p>52,7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residuos plásticos derivados de materias primas fósiles.</p>
+</td>
+<td>
+<p>Gasolina, diésel o gasóleo.</p>
+</td>
+<td>
+<p>86</p>
+</td>
+<td>
+<p>86</p>
 </td>
 </tr>
 </tbody>

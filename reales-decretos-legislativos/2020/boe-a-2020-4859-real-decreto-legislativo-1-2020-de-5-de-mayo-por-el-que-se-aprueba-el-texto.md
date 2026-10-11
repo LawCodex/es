@@ -20,8 +20,6 @@ retrieved: 2026-10-11
 
 # Real Decreto Legislativo 1/2020, de 5 de mayo, por el que se aprueba el texto refundido de la Ley Concursal
 
-Téngase en cuenta que las modificaciones introducidas por la Ley 16/2022, de 5 de septiembre, de reforma del texto refundido de la Ley Concursal, entran en vigor el 26 de septiembre de 2022, con excepción del libro tercero, que entrará en vigor el 1 de enero de 2023, salvo el apartado 2 del artículo 689, que entrará en vigor cuando se apruebe el reglamento a que se refiere la disposición transitoria segunda de la Ley 17/2014, de 30 de septiembre, según establece la disposición final decimonovena de la citada Ley 16/2022. [Ref. BOE-A-2022-14580](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14580)
-
 I
 
 La historia de la Ley Concursal es la historia de sus reformas. Es difícil encontrar una ley que, en tan pocos años, haya experimentado tantas y tan profundas modificaciones. Las esperanzas que había suscitado ese derecho de nueva planta, con la lógica aspiración a la estabilidad normativa, pronto se desvanecieron: desde la fecha de promulgación de esta ley, sucesivas leyes y decretos-leyes, con un ritmo acentuado en la décima legislatura, han sustituido principios y enmendado normas legales, a la vez que han constituido el cauce para la inclusión de nuevas instituciones y de nuevas soluciones.
@@ -1039,14 +1037,6 @@ La retribución de la administración concursal se determinará mediante un aran
 2.ª Regla de la limitación. La cantidad total máxima que la administración concursal puede percibir por su intervención en el concurso será la menor de entre la cantidad de un millón de euros un millón quinientos mil euros y la que resulte de multiplicar la valoración del activo del concursado por un cuatro por ciento.
 
 El juez, oídas las partes, podrá aprobar de forma motivada una remuneración que supere el límite anterior, cuando debido a la complejidad del concurso, lo justifiquen los costes asumidos por la administración concursal, sin que en ningún caso se pueda exceder de cincuenta por ciento de dicho límite.
-
-> Téngase en cuenta que esta última actualización de la regla 2ª del apartado 1, establecida por la disposición final 28.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "2.ª Regla de la limitación. La cantidad total máxima que la administración concursal puede percibir por su intervención en el concurso será la menor de entre la cantidad de un millón de euros y la que resulte de multiplicar la valoración del activo del concursado por un cuatro por ciento.
-
-> El juez, oídas las partes, podrá aprobar de forma motivada una remuneración que supere el límite anterior cuando, debido a la complejidad del concurso, lo justifiquen los costes asumidos por la administración concursal, sin que en ningún caso pueda exceder del cincuenta por ciento de dicho límite."
 
 3.ª Regla de la duración del concurso.
 
@@ -2580,8 +2570,6 @@ Son créditos con privilegio especial:
 
 7.º Los créditos a favor de los tenedores de bonos garantizados, respecto de los préstamos y créditos, y otros activos que los garanticen, integrados en el conjunto de cobertura, conforme al Real Decreto-ley 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes, hasta donde alcance su valor.
 
-> Téngase en cuenta que este apartado 7, añadido por la disposición final 4.1 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 8 de julio de 2022 según establece su disposición final 10.a).
-
 > Se añade el apartado 7º por la disposición final 4.1 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Téngase en cuenta que este apartado 7 entra en vigor el 8 de julio de 2022, según establece la disposición final 10.a) del citado Real Decreto-ley.
@@ -3849,12 +3837,6 @@ Además de los efectos establecidos en el capítulo III del título III del libr
 4\. Las reglas especiales de liquidación establecidas por el juez quedarán sin efecto si así lo solicitaren acreedores cuyos créditos representen más del cincuenta por ciento del pasivo ordinario o más del cincuenta por ciento del total del pasivo.
 
 5\. Cuando se presente a inscripción en los Registros de bienes, cualquier título relativo a un acto de enajenación de bienes y derechos de la masa activa realizado por la administración concursal durante la fase de liquidación, el registrador comprobará en el Registro público concursal si el juez ha fijado o no reglas especiales de la liquidación, y no solo podrá exigir a la administración concursal que acredite la existencia de tales reglas, si no constare referencia alguna a las mismas en la resolución judicial ni en el Registro Público concursal.
-
-> Téngase en cuenta que esta última actualización del apartado 5, establecida por la disposición final 28.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "5. Cuando se presente a inscripción en los registros de bienes, cualquier título relativo a un acto de enajenación de bienes y derechos de la masa activa realizado por la administración concursal durante la fase de liquidación, el registrador comprobará en el Registro público concursal si el juez ha fijado o no reglas especiales de la liquidación, y no podrá exigir a la administración concursal que acredite la existencia de tales reglas."
 
 > Se modifica el apartado 5, con efectos de 3 abril de 2025, por la disposición final 28.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
@@ -6778,12 +6760,6 @@ El experto ejercerá las funciones propias del cargo con la diligencia propia de
 
 ## LIBRO TERCERO — Procedimiento especial para microempresas
 
-> Téngase en cuenta que esta redacción del Libro Tercero, integrado por los artículos 685 a 720, añadida por el art. único.153 de la Ley 16/2022, de 5 de septiembre, produce efectos desde el 1 de enero de 2023, según establece su disposición final 19. [Ref. BOE-A-2022-14580](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14580)
-
-> En tanto no entre en vigor, se aplicará el régimen transitorio previsto en la disposición transitoria segunda de la citada Ley 16/2022.
-
-> El anterior Libro Tercero pasa a ser el Libro Cuarto.
-
 > Se añade por el art. único.153 de la Ley 16/2022, de 5 de septiembre, con efectos desde el 1 de enero de 2023, según establece su disposición final 19. [Ref. BOE-A-2022-14580](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14580)
 
 > En tanto no entre en vigor, téngase en cuenta el régimen transitorio previsto en la disposición transitoria segunda de la citada Ley.
@@ -7565,20 +7541,6 @@ En todos los casos de frustración del plan de continuación, si el deudor fuera
 2.º El juez haya observado un comportamiento que genere dudas razonables sobre la conveniencia de que el deudor realice directamente las operaciones de liquidación.
 
 3.º Concurran circunstancias objetivas que así lo aconsejen apreciadas por el juez en resolución motivada y no se hubiere solicitado su designación de conformidad con lo previsto en el apartado 1 de este artículo. En este supuesto, la retribución del administrador concursal correrá a cargo del deudor La designación del administrador concursal y su retribución se efectuará conforme a lo establecido en el capítulo II del título II del libro I de esta ley.
-
-> Téngase en cuenta que esta última actualización de los apartados 4 y 5, establecida por la disposición final 28.3 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "4. La retribución del administrador concursal se determinará de mutuo acuerdo entre el deudor y los acreedores que representen la mayoría del pasivo, salvo que la solicitud provenga de los acreedores. De no existir acuerdo o asunción voluntaria por los acreedores, la cuantía se fijará aplicando los aranceles establecidos en el reglamento por el que se establezca el arancel de derechos de los administradores concursales. La retribución del administrador concursal correrá a cargo del solicitante. Si lo hubiera solicitado el deudor, el cobro se producirá tras la satisfacción del crédito público privilegiado.
-
-> 5\. El juez podrá nombrar administrador concursal a instancia de un único acreedor cuando el deudor:
-
-> 1.º Haya provisto información insuficiente o inadecuada.
-
-> 2.º Haya observado un comportamiento que genere dudas razonables sobre la conveniencia de que el deudor realice directamente las operaciones de liquidación.
-
-> En estos supuestos, la retribución del administrador concursal correrá a cargo del deudor y el cobro se producirá tras la satisfacción del crédito público privilegiado."
 
 > Se modifican los apartados 4 y 5, con efectos de 3 abril de 2025, por la disposición final 28.3 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

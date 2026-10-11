@@ -148,384 +148,384 @@ c) Para las restantes categorías de peajes de acceso serán los previstos en el
 
 Los precios unitarios de aplicación a partir del 1 de enero de 2016 para la financiación de los pagos por capacidad regulados en el anexo III de la Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007, y en la Orden ITC/3127/2011, de 17 de noviembre, por la que se regula el servicio de disponibilidad de potencia de los pagos por capacidad y se modifica el incentivo a la inversión al que hace referencia el anexo III de la Orden ITC/2794/2007, de 27 de septiembre, aplicables por la energía adquirida por los sujetos a los que se refiere la disposición adicional séptima de la Orden ITC/3860/2007, de 28 de diciembre, por la que se revisan las tarifas eléctricas a partir del 1 de enero de 2008, serán los siguientes:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Peajes de acceso</p>
+<p>Peajes de acceso</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Precio unitario para la financiación de los pagos por capacidad</p>
-<p class="cabeza_tabla">Euro/kWh (b.c.)</p>
+<p>Precio unitario para la financiación de los pagos por capacidad</p>
+<p>Euro/kWh (b.c.)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">P1</p>
+<p>P1</p>
 </td>
 <td>
-<p class="cabeza_tabla">P2</p>
+<p>P2</p>
 </td>
 <td>
-<p class="cabeza_tabla">P3</p>
+<p>P3</p>
 </td>
 <td>
-<p class="cabeza_tabla">P4</p>
+<p>P4</p>
 </td>
 <td>
-<p class="cabeza_tabla">P5</p>
+<p>P5</p>
 </td>
 <td>
-<p class="cabeza_tabla">P6</p>
+<p>P6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Peajes de baja tensión</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.0 A (Pc ≤ 10 kW)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,004630</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.0 DHA (Pc ≤ 10 kW)</p>
+<p>2.0 A (Pc ≤ 10 kW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004771</p>
+<p>0,004630</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000805</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.0 DHS (Pc ≤ 10 kW)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,004771</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001087</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000644</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1 A (10&lt; Pc ≤ 15 kW)</p>
+<p>2.0 DHA (Pc ≤ 10 kW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004630</p>
+<p>0,004771</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>0,000805</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.1 DHA (10&lt; Pc ≤ 15 kW)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,004771</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000805</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1 DHS (10&lt; Pc ≤ 15 kW)</p>
+<p>2.0 DHS (Pc ≤ 10 kW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004771</p>
+<p>0,004771</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001087</p>
+<p>0,001087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000644</p>
+<p>0,000644</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.0 A (Pc &gt; 15 kW)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,008374</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,004304</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000058</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>2.1 A (10&lt; Pc ≤ 15 kW)</p>
+</td>
+<td>
+<p>0,004630</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1 DHA (10&lt; Pc ≤ 15 kW)</p>
+</td>
+<td>
+<p>0,004771</p>
+</td>
+<td>
+<p>0,000805</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1 DHS (10&lt; Pc ≤ 15 kW)</p>
+</td>
+<td>
+<p>0,004771</p>
+</td>
+<td>
+<p>0,001087</p>
+</td>
+<td>
+<p>0,000644</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.0 A (Pc &gt; 15 kW)</p>
+</td>
+<td>
+<p>0,008374</p>
+</td>
+<td>
+<p>0,004304</p>
+</td>
+<td>
+<p>0,000058</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Peajes de alta tensión</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.1 A (1 kV a 36 kV)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,006432</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,003463</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.1A (1 kV a 30 kV)</p>
+<p>3.1 A (1 kV a 36 kV)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,006432</p>
+<p>0,006432</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,002969</p>
+<p>0,003463</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001979</p>
+<p>0,000000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001484</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001484</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6.1B (30 kV a 36 kV)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,006432</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,002969</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001979</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001484</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001484</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000000</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.2 (36 kV a 72,5 kV)</p>
+<p>6.1A (1 kV a 30 kV)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,006432</p>
+<p>0,006432</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,002969</p>
+<p>0,002969</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001979</p>
+<p>0,001979</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001484</p>
+<p>0,001484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001484</p>
+<p>0,001484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6.3 (72,5 kV a 145 kV)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,006432</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,002969</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001979</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001484</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,001484</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,000000</p>
+<p>0,000000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.4 (Mayor o igual a 145 kV)</p>
+<p>6.1B (30 kV a 36 kV)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,006432</p>
+<p>0,006432</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,002969</p>
+<p>0,002969</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001979</p>
+<p>0,001979</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001484</p>
+<p>0,001484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,001484</p>
+<p>0,001484</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000000</p>
+<p>0,000000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.2 (36 kV a 72,5 kV)</p>
+</td>
+<td>
+<p>0,006432</p>
+</td>
+<td>
+<p>0,002969</p>
+</td>
+<td>
+<p>0,001979</p>
+</td>
+<td>
+<p>0,001484</p>
+</td>
+<td>
+<p>0,001484</p>
+</td>
+<td>
+<p>0,000000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.3 (72,5 kV a 145 kV)</p>
+</td>
+<td>
+<p>0,006432</p>
+</td>
+<td>
+<p>0,002969</p>
+</td>
+<td>
+<p>0,001979</p>
+</td>
+<td>
+<p>0,001484</p>
+</td>
+<td>
+<p>0,001484</p>
+</td>
+<td>
+<p>0,000000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.4 (Mayor o igual a 145 kV)</p>
+</td>
+<td>
+<p>0,006432</p>
+</td>
+<td>
+<p>0,002969</p>
+</td>
+<td>
+<p>0,001979</p>
+</td>
+<td>
+<p>0,001484</p>
+</td>
+<td>
+<p>0,001484</p>
+</td>
+<td>
+<p>0,000000</p>
 </td>
 </tr>
 </tbody>
@@ -709,180 +709,180 @@ En virtud de lo establecido en la Ley 24/2013, de 26 de diciembre, y en coherenc
 
 Para el cálculo de la potencia disponible se aplicará a la potencia neta o instalada en el caso tecnologías renovables, cogeneración y residuos con régimen retributivo primado o específico, de cada instalación, el valor del coeficiente de disponibilidad aplicable al régimen y tecnología que le corresponda, de acuerdo con lo establecido en el siguiente cuadro:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">% Disponibilidad</p>
+<p>% Disponibilidad</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Tecnología</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Nuclear</p>
+<p>Nuclear</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">87</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hulla+antracita</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>87</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lignito negro</p>
+<p>Hulla+antracita</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">89</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Carbón de importación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">94</p>
+<p>90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fuel-gas</p>
+<p>Lignito negro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ciclo combinado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93</p>
+<p>89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bombeo</p>
+<p>Carbón de importación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">73</p>
+<p>94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidráulica convencional</p>
+<p>Fuel-gas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">59</p>
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ciclo combinado</p>
+</td>
+<td>
+<p>93</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bombeo</p>
+</td>
+<td>
+<p>73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidráulica convencional</p>
+</td>
+<td>
+<p>59</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones con régimen retributivo específico</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidráulica</p>
+<p>Hidráulica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Biomasa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>29</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Eólica</p>
+<p>Biomasa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">R.S. Industriales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">R.S. Urbanos</p>
+<p>Eólica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Solar</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>22</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Calor Residual</p>
+<p>R.S. Industriales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Carbón</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fuel-Gasoil</p>
+<p>R.S. Urbanos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Gas de Refinería</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Solar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39</p>
+<p>11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calor Residual</p>
+</td>
+<td>
+<p>29</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbón</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fuel-Gasoil</p>
+</td>
+<td>
+<p>26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas de Refinería</p>
+</td>
+<td>
+<p>22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural</p>
+</td>
+<td>
+<p>39</p>
 </td>
 </tr>
 </tbody>
@@ -908,180 +908,180 @@ En virtud de lo establecido en la Ley 24/2013, de 26 de diciembre, y en coherenc
 
 Para el cálculo de la potencia disponible se aplicará a la potencia neta o instalada, en el caso tecnologías renovables, cogeneración y residuos con régimen retributivo primado o específico, de cada instalación el valor del coeficiente de disponibilidad aplicable al régimen y tecnología que le corresponda, de acuerdo con lo establecido en el siguiente cuadro:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">% Disponibilidad</p>
+<p>% Disponibilidad</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Tecnología</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Nuclear</p>
+<p>Nuclear</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">87</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Hulla+antracita</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>87</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lignito negro</p>
+<p>Hulla+antracita</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">89</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Carbón de importación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">94</p>
+<p>90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fuel-gas</p>
+<p>Lignito negro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ciclo combinado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93</p>
+<p>89</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Bombeo</p>
+<p>Carbón de importación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">73</p>
+<p>94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidráulica convencional</p>
+<p>Fuel-gas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">59</p>
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ciclo combinado</p>
+</td>
+<td>
+<p>93</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bombeo</p>
+</td>
+<td>
+<p>73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidráulica convencional</p>
+</td>
+<td>
+<p>59</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones con régimen retributivo específico</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hidráulica</p>
+<p>Hidráulica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Biomasa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>29</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Eólica</p>
+<p>Biomasa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">R.S. Industriales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">R.S. Urbanos</p>
+<p>Eólica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Solar</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>22</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Calor Residual</p>
+<p>R.S. Industriales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Carbón</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fuel-Gasoil</p>
+<p>R.S. Urbanos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Gas de Refinería</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Solar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39</p>
+<p>11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calor Residual</p>
+</td>
+<td>
+<p>29</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbón</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fuel-Gasoil</p>
+</td>
+<td>
+<p>26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas de Refinería</p>
+</td>
+<td>
+<p>22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural</p>
+</td>
+<td>
+<p>39</p>
 </td>
 </tr>
 </tbody>
@@ -1147,270 +1147,270 @@ Cuatro. Se añade, en el anexo II después del apartado 1.3 por el que se establ
 
 «1.4. Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva en 2017, sin perjuicio de las potenciales revisiones de aplicación al finalizar el primer semiperiodo regulatorio, son los siguientes:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema</p>
-<p class="cabeza_tabla">eléctrico / Isla</p>
+<p>Subsistema</p>
+<p>eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la Inversión inicial (€/MW)</p>
+<p>Valor estándar de la Inversión inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de Explotación (€/MWh)</p>
+<p>Costes de Explotación (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la inversión Rinv (€/MW)</p>
+<p>Retribución a la inversión Rinv (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria</p>
+<p>Gran Canaria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03124</p>
+<p>IT-03124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,03</p>
+<p>30,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.470</p>
+<p>94.470</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03125</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">103.372</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote</p>
+<p>Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03126</p>
+<p>IT-03125</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,80</p>
+<p>31,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.921</p>
+<p>103.372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03127</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88.536</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma</p>
+<p>Lanzarote</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03128</p>
+<p>IT-03126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,43</p>
+<p>30,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.665</p>
+<p>98.921</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03129</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55.024</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro</p>
+<p>Fuerteventura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03130</p>
+<p>IT-03127</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29,03</p>
+<p>29,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92.116</p>
+<p>88.536</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47»</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma</p>
+</td>
+<td>
+<p>IT-03128</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>28,43</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>87.665</p>
+</td>
+<td>
+<p>7,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera</p>
+</td>
+<td>
+<p>IT-03129</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>25,27</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>55.024</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro</p>
+</td>
+<td>
+<p>IT-03130</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>29,03</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>92.116</p>
+</td>
+<td>
+<p>11,47»</p>
 </td>
 </tr>
 </tbody>
@@ -1422,270 +1422,270 @@ Nota: Estos parámetros retributivos tienen carácter orientativo, han sido calc
 
 «1.5 Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva en 2018, sin perjuicio de las potenciales revisiones de aplicación al finalizar del primer semiperiodo regulatorio, son los siguientes:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema</p>
-<p class="cabeza_tabla">eléctrico / Isla</p>
+<p>Subsistema</p>
+<p>eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la Inversión inicial (€/MW)</p>
+<p>Valor estándar de la Inversión inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de Explotación (€/MWh)</p>
+<p>Costes de Explotación (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la inversión Rinv (€/MW)</p>
+<p>Retribución a la inversión Rinv (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria</p>
+<p>Gran Canaria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03131</p>
+<p>IT-03131</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,29</p>
+<p>30,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.277</p>
+<p>95.277</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03132</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.134</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote</p>
+<p>Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03133</p>
+<p>IT-03132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,06</p>
+<p>31,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.705</p>
+<p>104.134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03134</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29,37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">89.372</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma</p>
+<p>Lanzarote</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03135</p>
+<p>IT-03133</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,67</p>
+<p>31,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88.531</p>
+<p>99.705</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03136</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">56.055</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro</p>
+<p>Fuerteventura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03137</p>
+<p>IT-03134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29,27</p>
+<p>29,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92.960</p>
+<p>89.372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47»</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma</p>
+</td>
+<td>
+<p>IT-03135</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>28,67</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>88.531</p>
+</td>
+<td>
+<p>7,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera</p>
+</td>
+<td>
+<p>IT-03136</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>25,48</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>56.055</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro</p>
+</td>
+<td>
+<p>IT-03137</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>29,27</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>92.960</p>
+</td>
+<td>
+<p>11,47»</p>
 </td>
 </tr>
 </tbody>
@@ -1699,529 +1699,529 @@ Nota: Estos parámetros retributivos tienen carácter orientativo, han sido calc
 
 En la Orden IET/1045/2014, de 16 de junio, por la que se aprueban los parámetros retributivos de las instalaciones tipo aplicables a determinadas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, se añaden en el apartado 5 del anexo I a partir de la última fila de la tabla de la página 46471 del «Boletín Oficial del Estado» núm. 150 de 20 de junio de 2014, las filas de la siguiente tabla:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td colspan="4">
-<p class="cabeza_tabla">Clasificación de las tarifas según el Real Decreto 661/2007</p>
+<p>Clasificación de las tarifas según el Real Decreto 661/2007</p>
 </td>
 <td colspan="7">
-<p class="cabeza_tabla">Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
+<p>Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código Instalación Tipo</p>
+<p>Código Instalación Tipo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤1996</p>
+<p>≤1996</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00825</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">a.1.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">b.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">b.6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1997</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT–00826</p>
+<p>IT–00825</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1998</p>
+<p>1997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00827</p>
+<p>IT–00826</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1999</p>
+<p>1998</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00828</p>
+<p>IT–00827</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2000</p>
+<p>1999</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00829</p>
+<p>IT–00828</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2001</p>
+<p>2000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00830</p>
+<p>IT–00829</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2002</p>
+<p>2001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00831</p>
+<p>IT–00830</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2003</p>
+<p>2002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00832</p>
+<p>IT–00831</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2004</p>
+<p>2003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00833</p>
+<p>IT–00832</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2005</p>
+<p>2004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00834</p>
+<p>IT–00833</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2006</p>
+<p>2005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00835</p>
+<p>IT–00834</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2007</p>
+<p>2006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00836</p>
+<p>IT–00835</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2008</p>
+<p>2007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00837</p>
+<p>IT–00836</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2009</p>
+<p>2008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00838</p>
+<p>IT–00837</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1.</p>
+<p>a.1.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.6</p>
+<p>b.6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2010</p>
+<p>2009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT–00839</p>
+<p>IT–00838</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a.1.</p>
+</td>
+<td colspan="2">
+<p>a.1.3 dentro de la Disp. Transitoria 10.ª</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>b.6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>b.6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2010</p>
+</td>
+<td>
+<p>IT–00839</p>
 </td>
 </tr>
 </tbody>
@@ -2241,45 +2241,45 @@ Dos. En el anexo XII. 1 el número de registro RO1-1063 de la correspondiente ta
 
 Tres. En el anexo XII.3 el valor de la tecnología Turbinas de gas heavy duty con potencia neta «13≤Potencia < 25» queda redactado como sigue:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="5">
-<p class="cabeza_tabla">«Valores unitarios de la anualidad de operación y mantenimiento fijos Euros/MW</p>
+<p>«Valores unitarios de la anualidad de operación y mantenimiento fijos Euros/MW</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia NETA (MW)</p>
+<p>Potencia NETA (MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Baleares</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Canarias</p>
+<p>Canarias</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceuta y Melilla</p>
+<p>Ceuta y Melilla</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Turbinas de gas heavy duty</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">13≤Potencia &lt; 25</p>
+<p>13≤Potencia &lt; 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">27.633</p>
+<p>27.633</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">31.678</p>
+<p>31.678</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">31.678»</p>
+<p>31.678»</p>
 </td>
 </tr>
 </tbody>
@@ -2293,148 +2293,148 @@ Cuatro. En el anexo XII.7 el valor de la tecnología Turbinas de gas heavy duty 
 
 Cinco. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento 1TG de la central Ca´s Tresorer, CC1 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación</p>
-<p class="cabeza_tabla">Central</p>
+<p>Denominación</p>
+<p>Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">CA’S TRESORER, CC1</p>
+<p>CA’S TRESORER, CC1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0013</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0013</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60.436,76</p>
+<p>60.436,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11.116,77</p>
+<p>11.116,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22,0980801»</p>
+<p>22,0980801»</p>
 </td>
 </tr>
 </tbody>
@@ -2442,147 +2442,147 @@ Cinco. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento
 
 Seis. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento 1TG de la central Ca´s Tresorer, CC2 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">CA’S TRESORER, CC2</p>
+<p>CA’S TRESORER, CC2</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0013</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0013</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60.436,76</p>
+<p>60.436,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11.116,77</p>
+<p>11.116,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21,5546702»</p>
+<p>21,5546702»</p>
 </td>
 </tr>
 </tbody>
@@ -2590,123 +2590,123 @@ Seis. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento 
 
 Siete. En el anexo XIII, en el Sistema Eléctrico Balear, el número de Registro RO2-0208 relativo a la central IBIZA 24, TURBINA DE GAS Nº 6B queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0208</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IBIZA 24, TURBINA DE GAS Nº 6B</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">24</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,52</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">01/06/2012</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Gas Natural</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0006</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0208</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9.167,14</p>
+<p>IBIZA 24, TURBINA DE GAS Nº 6B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.154,04</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,59</p>
+<p>9,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8120</p>
+<p>01/06/2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,21715</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">751,045</p>
+<p>IT-0006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,29266375»</p>
+<p>9.167,14</p>
+</td>
+<td>
+<p>2.154,04</p>
+</td>
+<td>
+<p>1,59</p>
+</td>
+<td>
+<p>8120</p>
+</td>
+<td>
+<p>0,21715</p>
+</td>
+<td>
+<p>751,045</p>
+</td>
+<td>
+<p>11,29266375»</p>
 </td>
 </tr>
 </tbody>
@@ -2716,147 +2716,147 @@ Ocho. En el anexo XIII, en el Sistema Eléctrico Balear, se suprimen los número
 
 Nueve. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento 1TG de la central Son Reus, CC1 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">SON REUS, CC1</p>
+<p>SON REUS, CC1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">28,65</p>
+<p>28,65</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0014</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0014</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60.436,76</p>
+<p>60.436,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.796,09</p>
+<p>10.796,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,3273345»</p>
+<p>18,3273345»</p>
 </td>
 </tr>
 </tbody>
@@ -2864,147 +2864,147 @@ Nueve. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento
 
 Diez. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento 1TG de la central Son Reus, CC2 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">SON REUS, CC2</p>
+<p>SON REUS, CC2</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">11,32</p>
+<p>11,32</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0013</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0013</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60.436,76</p>
+<p>60.436,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11.116,77</p>
+<p>11.116,77</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,5098024»</p>
+<p>28,5098024»</p>
 </td>
 </tr>
 </tbody>
@@ -3012,147 +3012,147 @@ Diez. El anexo XIII, en el Sistema Eléctrico Balear, el modo de funcionamiento 
 
 Once. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionamiento 1TG de la central BARRANCO DE TIRAJANA, CC 1 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">costes de funcionamiento</p>
+<p>costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">costes arranque</p>
+<p>costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA, CC 1</p>
+<p>BARRANCO DE TIRAJANA, CC 1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">75,5</p>
+<p>75,5</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gasoil</p>
+<p>Gasoil</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0065</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0065</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60436,761</p>
+<p>60436,761</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13183,89364</p>
+<p>13183,89364</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20,2336195»</p>
+<p>20,2336195»</p>
 </td>
 </tr>
 </tbody>
@@ -3160,147 +3160,147 @@ Once. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionamiento
 
 Doce. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionamiento 1TG de la central BARRANCO DE TIRAJANA, CC 2 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">costes de funcionamiento</p>
+<p>costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">costes arranque</p>
+<p>costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">BARRANCO DE TIRAJANA, CC 2</p>
+<p>BARRANCO DE TIRAJANA, CC 2</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">75,5</p>
+<p>75,5</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gasoil</p>
+<p>Gasoil</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0065</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0065</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60436,761</p>
+<p>60436,761</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13183,89364</p>
+<p>13183,89364</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17,4114924»</p>
+<p>17,4114924»</p>
 </td>
 </tr>
 </tbody>
@@ -3308,123 +3308,123 @@ Doce. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionamiento
 
 Trece. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Registro RO2-0095 relativo a la central CANDELARIA 3, DIÉSEL 1 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0095</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CANDELARIA 3, DIESEL 1</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,51</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,58</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">01/05/1972</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Fueloil BIA 0,73</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0006</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0095</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.286,06</p>
+<p>CANDELARIA 3, DIESEL 1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.511,43</p>
+<p>8,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,13</p>
+<p>4,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">57.689,14</p>
+<p>01/05/1972</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,74387</p>
+<p>Fueloil BIA 0,73</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">127,9527739</p>
+<p>IT-0006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22,48735287»</p>
+<p>1.286,06</p>
+</td>
+<td>
+<p>2.511,43</p>
+</td>
+<td>
+<p>6,13</p>
+</td>
+<td>
+<p>57.689,14</p>
+</td>
+<td>
+<p>6,74387</p>
+</td>
+<td>
+<p>127,9527739</p>
+</td>
+<td>
+<p>22,48735287»</p>
 </td>
 </tr>
 </tbody>
@@ -3432,123 +3432,123 @@ Trece. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Registr
 
 Catorce. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Registro RO2-0096 relativo a la central CANDELARIA 4, DIÉSEL 2 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0096</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CANDELARIA 4, DIÉSEL 2</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,51</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,58</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">01/02/1973</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Fueloil BIA 0,73%</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0050</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0096</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.286,06</p>
+<p>CANDELARIA 4, DIÉSEL 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.511,43</p>
+<p>8,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,13</p>
+<p>4,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">57.689,14</p>
+<p>01/02/1973</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,74387</p>
+<p>Fueloil BIA 0,73%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">127,9527739</p>
+<p>IT-0050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22,48735287»</p>
+<p>1.286,06</p>
+</td>
+<td>
+<p>2.511,43</p>
+</td>
+<td>
+<p>6,13</p>
+</td>
+<td>
+<p>57.689,14</p>
+</td>
+<td>
+<p>6,74387</p>
+</td>
+<td>
+<p>127,9527739</p>
+</td>
+<td>
+<p>22,48735287»</p>
 </td>
 </tr>
 </tbody>
@@ -3556,123 +3556,123 @@ Catorce. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Regis
 
 Quince. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Registro RO2-0097 relativo a la central CANDELARIA 6, DIÉSEL 3 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0097</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">CANDELARIA 6, DIÉSEL 3</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,51</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,58</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">01/11/1973</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Fueloil BIA 0,73%</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0050</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0097</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.286,06</p>
+<p>CANDELARIA 6, DIÉSEL 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.511,43</p>
+<p>8,51</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,13</p>
+<p>4,58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">57.689,14</p>
+<p>01/11/1973</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,74387</p>
+<p>Fueloil BIA 0,73%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">127,9527739</p>
+<p>IT-0050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22,48735287»</p>
+<p>1.286,06</p>
+</td>
+<td>
+<p>2.511,43</p>
+</td>
+<td>
+<p>6,13</p>
+</td>
+<td>
+<p>57.689,14</p>
+</td>
+<td>
+<p>6,74387</p>
+</td>
+<td>
+<p>127,9527739</p>
+</td>
+<td>
+<p>22,48735287»</p>
 </td>
 </tr>
 </tbody>
@@ -3680,123 +3680,123 @@ Quince. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Regist
 
 Dieciséis. En la página 66870, en el anexo XIII, en la tabla de Sistema Eléctrico Canario, después del Número de registro RO2-0143, añadir:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0211</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">EL PALMAR 21, DIÉSEL MOVIL 3</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">05/10/2012</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Diéseloil</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0053</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0211</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630,19</p>
+<p>EL PALMAR 21, DIÉSEL MOVIL 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.780,00</p>
+<p>0,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">88,06</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.075,00</p>
+<p>05/10/2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,4429</p>
+<p>Diéseloil</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,61428497</p>
+<p>IT-0053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48,66506893»</p>
+<p>630,19</p>
+</td>
+<td>
+<p>1.780,00</p>
+</td>
+<td>
+<p>88,06</p>
+</td>
+<td>
+<p>5.075,00</p>
+</td>
+<td>
+<p>1,4429</p>
+</td>
+<td>
+<p>70,61428497</p>
+</td>
+<td>
+<p>48,66506893»</p>
 </td>
 </tr>
 </tbody>
@@ -3804,147 +3804,147 @@ Dieciséis. En la página 66870, en el anexo XIII, en la tabla de Sistema Eléct
 
 Diecisiete. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionamiento 1TG de la central GRANADILLA, CC1 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">GRANADILLA, CC1</p>
+<p>GRANADILLA, CC1</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">75,5</p>
+<p>75,5</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gasoil</p>
+<p>Gasoil</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0065</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0065</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60436,761</p>
+<p>60436,761</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13183,89364</p>
+<p>13183,89364</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19,0075198»</p>
+<p>19,0075198»</p>
 </td>
 </tr>
 </tbody>
@@ -3952,147 +3952,147 @@ Diecisiete. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funciona
 
 Dieciocho. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionamiento 1TG de la central GRANADILLA, CC2 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">Costes de funcionamiento</p>
+<p>Costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Costes arranque</p>
+<p>Costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">GRANADILLA, CC2</p>
+<p>GRANADILLA, CC2</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">74</p>
+<p>74</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Gasoil</p>
+<p>Gasoil</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">IT-0065</p>
-<p class="cuerpo_tabla_centro">1TG</p>
+<p>IT-0065</p>
+<p>1TG</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60436,761</p>
+<p>60436,761</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1925,54</p>
+<p>1925,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,53</p>
+<p>0,53</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">49.877,10</p>
+<p>49.877,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,72135</p>
+<p>0,72135</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13183,89364</p>
+<p>13183,89364</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,6949719»</p>
+<p>18,6949719»</p>
 </td>
 </tr>
 </tbody>
@@ -4100,123 +4100,123 @@ Dieciocho. El anexo XIII, en el Sistema Eléctrico Canario, el modo de funcionam
 
 Diecinueve. En el anexo XIII, en el Sistema Eléctrico Canario, el número de Registro RO2-0149 relativo a la central LLANOS BLANCOS 1, DIÉSEL MOVIL 1 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">costes de funcionamiento</p>
+<p>costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">costes arranque</p>
+<p>costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0149</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">LLANOS BLANCOS 1, DIÉSEL MOVIL 1</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,07</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,29</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">01/06/1987</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Diéseloil</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0053</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0149</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">347,82</p>
+<p>LLANOS BLANCOS 1, DIÉSEL MOVIL 1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.189,28</p>
+<p>1,07</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">57,43</p>
+<p>0,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.791,00</p>
+<p>01/06/1987</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,44307</p>
+<p>Diéseloil</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70,61428497</p>
+<p>IT-0053</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">83,8013545»</p>
+<p>347,82</p>
+</td>
+<td>
+<p>2.189,28</p>
+</td>
+<td>
+<p>57,43</p>
+</td>
+<td>
+<p>2.791,00</p>
+</td>
+<td>
+<p>1,44307</p>
+</td>
+<td>
+<p>70,61428497</p>
+</td>
+<td>
+<p>83,8013545»</p>
 </td>
 </tr>
 </tbody>
@@ -4226,123 +4226,123 @@ Veinte. En el anexo XIII, en el Sistema Eléctrico de Ceuta y Melilla, para los 
 
 Veintiuno. En el anexo XIII, en el Sistema Eléctrico de Ceuta y Melilla, el número de Registro RO2-0180 relativo a la central MELILLA 12 queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">«Número de Registro</p>
+<p>«Número de Registro</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Denominación Central</p>
+<p>Denominación Central</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Potencia Neta</p>
+<p>Potencia Neta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Mínimo Técnico declarado</p>
+<p>Mínimo Técnico declarado</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Fecha de alta</p>
+<p>Fecha de alta</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Combustible a efectos de este Real Decreto</p>
+<p>Combustible a efectos de este Real Decreto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Instalación Tipo</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos técnicos de despacho</p>
+<p>Datos técnicos de despacho</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Datos de despacho</p>
+<p>Datos de despacho</p>
 </td>
 <td>
-<p class="cabeza_tabla">Datos económicos</p>
+<p>Datos económicos</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cabeza_tabla">costes de funcionamiento</p>
+<p>costes de funcionamiento</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">costes arranque</p>
+<p>costes arranque</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes variables de operación y mantenimiento Despacho</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">A</p>
-<p class="cabeza_tabla">(th/h)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B</p>
-<p class="cabeza_tabla">(th/h.MW)</p>
-</td>
-<td>
-<p class="cabeza_tabla">C</p>
-<p class="cabeza_tabla">(th/h.MW2)</p>
-</td>
-<td>
-<p class="cabeza_tabla">A’</p>
-<p class="cabeza_tabla">(th)</p>
-</td>
-<td>
-<p class="cabeza_tabla">B’</p>
-<p class="cabeza_tabla">(horas)</p>
-</td>
-<td>
-<p class="cabeza_tabla">D</p>
-<p class="cabeza_tabla">(€/arranque)</p>
-</td>
-<td>
-<p class="cabeza_tabla">O&amp;MVDi</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<p>Costes variables de operación y mantenimiento Despacho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">RO2-0180</p>
+<p>A</p>
+<p>(th/h)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MELILLA 12</p>
+<p>B</p>
+<p>(th/h.MW)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,8</p>
+<p>C</p>
+<p>(th/h.MW2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,63</p>
+<p>A’</p>
+<p>(th)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12/02/2007</p>
+<p>B’</p>
+<p>(horas)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Fueloil BIA 1%</p>
+<p>D</p>
+<p>(€/arranque)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-0103</p>
+<p>O&amp;MVDi</p>
+<p>(€/MWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RO2-0180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.286,06</p>
+<p>MELILLA 12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.511,43</p>
+<p>11,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,13</p>
+<p>6,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15.172,71</p>
+<p>12/02/2007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,88669</p>
+<p>Fueloil BIA 1%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">161,5685504</p>
+<p>IT-0103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27,09618781»</p>
+<p>1.286,06</p>
+</td>
+<td>
+<p>2.511,43</p>
+</td>
+<td>
+<p>6,13</p>
+</td>
+<td>
+<p>15.172,71</p>
+</td>
+<td>
+<p>2,88669</p>
+</td>
+<td>
+<p>161,5685504</p>
+</td>
+<td>
+<p>27,09618781»</p>
 </td>
 </tr>
 </tbody>
@@ -4350,45 +4350,45 @@ Veintiuno. En el anexo XIII, en el Sistema Eléctrico de Ceuta y Melilla, el nú
 
 Veintidós. En el anexo XIV.2 en el valor de la tecnología Turbinas de gas heavy duty con potencia neta «Potencia < 13» queda redactado como sigue:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">«Tecnología</p>
+<p>«Tecnología</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Intervalo potencia neta (MW)</p>
+<p>Intervalo potencia neta (MW)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">2012</p>
+<p>2012</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Baleares</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Canarias</p>
+<p>Canarias</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceuta y Melilla</p>
+<p>Ceuta y Melilla</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Turbinas de gas heavy duty</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Potencia &lt; 13</p>
+<p>Potencia &lt; 13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.669,609</p>
+<p>3.669,609</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.873,332</p>
+<p>3.873,332</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.873,332»</p>
+<p>3.873,332»</p>
 </td>
 </tr>
 </tbody>
@@ -4410,45 +4410,45 @@ Veinticinco. En la página 66890, en el anexo XIV. 4 el número de registro RO1-
 
 Veintiséis. En la página 66892, en el anexo XIV.5 en el valor de la tecnología Turbinas de gas heavy duty con potencia neta «13≤Potencia < 25» queda redactado como sigue:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="5">
-<p class="cabeza_tabla">«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2012</p>
+<p>«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2012</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia NETA (MW)</p>
+<p>Potencia NETA (MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Baleares</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Canarias</p>
+<p>Canarias</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceuta y Melilla</p>
+<p>Ceuta y Melilla</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Turbinas de gas heavy duty</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13≤Potencia &lt; 25</p>
+<p>13≤Potencia &lt; 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28.336</p>
+<p>28.336</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32.483</p>
+<p>32.483</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32.483»</p>
+<p>32.483»</p>
 </td>
 </tr>
 </tbody>
@@ -4456,62 +4456,62 @@ Veintiséis. En la página 66892, en el anexo XIV.5 en el valor de la tecnologí
 
 Veintisiete. En la página 66893, en el anexo XIV. 5, en las filas diez y once, donde dice:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="5">
-<p class="cabeza_tabla">«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</p>
+<p>«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia NETA (MW)</p>
+<p>Potencia NETA (MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Baleares</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Canarias</p>
+<p>Canarias</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceuta y Melilla</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Potencia &lt; 14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36.847</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42.240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42.240</p>
+<p>Ceuta y Melilla</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Turbinas de gas heavy duty</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14≤Potencia &lt; 25</p>
+<p>Potencia &lt; 14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28.132</p>
+<p>36.847</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32.249»</p>
+<p>42.240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>42.240</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>14≤Potencia &lt; 25</p>
+</td>
+<td>
+<p>28.132</p>
+</td>
+<td>
+<p>32.249»</p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -4519,62 +4519,62 @@ Veintisiete. En la página 66893, en el anexo XIV. 5, en las filas diez y once, 
 
 Debe decir:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="5">
-<p class="cabeza_tabla">«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</p>
+<p>«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2013</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia NETA (MW)</p>
+<p>Potencia NETA (MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Baleares</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Canarias</p>
+<p>Canarias</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceuta y Melilla</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Potencia &lt; 13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36.847</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42.240</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42.240</p>
+<p>Ceuta y Melilla</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Turbinas de gas heavy duty</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13≤Potencia &lt; 25</p>
+<p>Potencia &lt; 13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28.132</p>
+<p>36.847</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32.249</p>
+<p>42.240</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32.249»</p>
+<p>42.240</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbinas de gas heavy duty</p>
+</td>
+<td>
+<p>13≤Potencia &lt; 25</p>
+</td>
+<td>
+<p>28.132</p>
+</td>
+<td>
+<p>32.249</p>
+</td>
+<td>
+<p>32.249»</p>
 </td>
 </tr>
 </tbody>
@@ -4582,45 +4582,45 @@ Debe decir:
 
 Veintiocho. En la página 66894, en el anexo XIV. 5, en el valor de la tecnología Turbinas de gas heavy duty con potencia neta «13≤Potencia< 25» queda redactado como sigue:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="5">
-<p class="cabeza_tabla">«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2014</p>
+<p>«Valores unitarios de la anualidad de operación y mantenimiento fijos (Euros/MW) año 2014</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Potencia NETA (MW)</p>
+<p>Potencia NETA (MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Baleares</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cabeza_tabla">Canarias</p>
+<p>Canarias</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceuta y Melilla</p>
+<p>Ceuta y Melilla</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Turbinas de gas heavy duty</p>
+<p>Turbinas de gas heavy duty</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13≤Potencia &lt; 25</p>
+<p>13≤Potencia &lt; 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27.873</p>
+<p>27.873</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31.952</p>
+<p>31.952</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31.952»</p>
+<p>31.952»</p>
 </td>
 </tr>
 </tbody>
@@ -4672,7 +4672,7 @@ TÉRMINOS DE ENERGÍA
 
 a) Los precios de los cargos fijos de aplicación en función de la potencia, en €/kW, serán los siguientes para cada categoría de peajes de acceso:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th> </th>
@@ -4690,137 +4690,137 @@ a) Los precios de los cargos fijos de aplicación en función de la potencia, en
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 A (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">8,682019</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 A (Pc ≤ 10 kW)</td>
+<td>8,682019</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHA (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">8,682019</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 DHA (Pc ≤ 10 kW)</td>
+<td>8,682019</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHS (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">8,682019</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 DHS (Pc ≤ 10 kW)</td>
+<td>8,682019</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 A (10&lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">15,083303</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 A (10&lt; Pc ≤ 15 kW)</td>
+<td>15,083303</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHA (10&lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">15,083303</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 DHA (10&lt; Pc ≤ 15 kW)</td>
+<td>15,083303</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHS (10&lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">15,083303</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 DHS (10&lt; Pc ≤ 15 kW)</td>
+<td>15,083303</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.0 A (Pc &gt; 15 kW)</td>
-<td class="cuerpo_tabla_centro">32,083923</td>
-<td class="cuerpo_tabla_centro">6,212601</td>
-<td class="cuerpo_tabla_centro">14,245468</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.0 A (Pc &gt; 15 kW)</td>
+<td>32,083923</td>
+<td>6,212601</td>
+<td>14,245468</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 A (1 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">36,370283</td>
-<td class="cuerpo_tabla_centro">7,253411</td>
-<td class="cuerpo_tabla_centro">5,046692</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.1 A (1 kV a 36 kV)</td>
+<td>36,370283</td>
+<td>7,253411</td>
+<td>5,046692</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1A (1 kV a 30 kV)</td>
-<td class="cuerpo_tabla_centro">22,474651</td>
-<td class="cuerpo_tabla_centro">8,056099</td>
-<td class="cuerpo_tabla_centro">9,872687</td>
-<td class="cuerpo_tabla_centro">11,969862</td>
-<td class="cuerpo_tabla_centro">14,279130</td>
-<td class="cuerpo_tabla_centro">4,911990</td>
+<td>6.1A (1 kV a 30 kV)</td>
+<td>22,474651</td>
+<td>8,056099</td>
+<td>9,872687</td>
+<td>11,969862</td>
+<td>14,279130</td>
+<td>4,911990</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1B (30 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">14,356213</td>
-<td class="cuerpo_tabla_centro">3,993364</td>
-<td class="cuerpo_tabla_centro">6,899441</td>
-<td class="cuerpo_tabla_centro">8,996616</td>
-<td class="cuerpo_tabla_centro">11,305884</td>
-<td class="cuerpo_tabla_centro">3,555405</td>
+<td>6.1B (30 kV a 36 kV)</td>
+<td>14,356213</td>
+<td>3,993364</td>
+<td>6,899441</td>
+<td>8,996616</td>
+<td>11,305884</td>
+<td>3,555405</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2 (36 kV a 72,5 kV)</td>
-<td class="cuerpo_tabla_centro">9,317256</td>
-<td class="cuerpo_tabla_centro">1,583664</td>
-<td class="cuerpo_tabla_centro">4,439480</td>
-<td class="cuerpo_tabla_centro">6,384560</td>
-<td class="cuerpo_tabla_centro">8,074483</td>
-<td class="cuerpo_tabla_centro">2,464864</td>
+<td>6.2 (36 kV a 72,5 kV)</td>
+<td>9,317256</td>
+<td>1,583664</td>
+<td>4,439480</td>
+<td>6,384560</td>
+<td>8,074483</td>
+<td>2,464864</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.3 (72,5 kV a 145 kV)</td>
-<td class="cuerpo_tabla_centro">9,452888</td>
-<td class="cuerpo_tabla_centro">2,660520</td>
-<td class="cuerpo_tabla_centro">3,963845</td>
-<td class="cuerpo_tabla_centro">5,505622</td>
-<td class="cuerpo_tabla_centro">6,894555</td>
-<td class="cuerpo_tabla_centro">1,933970</td>
+<td>6.3 (72,5 kV a 145 kV)</td>
+<td>9,452888</td>
+<td>2,660520</td>
+<td>3,963845</td>
+<td>5,505622</td>
+<td>6,894555</td>
+<td>1,933970</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.4 (Mayor o igual a 145 kV)</td>
-<td class="cuerpo_tabla_centro">3,011434</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">1,777750</td>
-<td class="cuerpo_tabla_centro">3,495529</td>
-<td class="cuerpo_tabla_centro">4,990903</td>
-<td class="cuerpo_tabla_centro">0,994354</td>
+<td>6.4 (Mayor o igual a 145 kV)</td>
+<td>3,011434</td>
+<td>0,000000</td>
+<td>1,777750</td>
+<td>3,495529</td>
+<td>4,990903</td>
+<td>0,994354</td>
 </tr>
 </tbody>
 </table>
 
 b) Los precios del término de cargo variable, en €/kWh, que se aplicará sobre el autoconsumo horario denominado cargo transitorio por energía autoconsumida serán los siguientes para cada categoría de peajes de acceso:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla"> </p>
-<p class="cabeza_tabla"> </p>
+<p> </p>
+<p> </p>
 </th>
 <th colspan="6">
-<p class="cabeza_tabla">Cargo transitorio por energía autoconsumida</p>
-<p class="cabeza_tabla">(€/kWh)</p>
+<p>Cargo transitorio por energía autoconsumida</p>
+<p>(€/kWh)</p>
 </th>
 </tr>
 <tr>
@@ -4835,121 +4835,121 @@ b) Los precios del término de cargo variable, en €/kWh, que se aplicará sobr
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 A (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,044504</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 A (Pc ≤ 10 kW)</td>
+<td>0,044504</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHA (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,058489</td>
-<td class="cuerpo_tabla_centro">0,007368</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 DHA (Pc ≤ 10 kW)</td>
+<td>0,058489</td>
+<td>0,007368</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHS (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,059269</td>
-<td class="cuerpo_tabla_centro">0,007650</td>
-<td class="cuerpo_tabla_centro">0,007344</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 DHS (Pc ≤ 10 kW)</td>
+<td>0,059269</td>
+<td>0,007650</td>
+<td>0,007344</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 A (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,056200</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 A (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,056200</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHA (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,069426</td>
-<td class="cuerpo_tabla_centro">0,016716</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 DHA (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,069426</td>
+<td>0,016716</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHS (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,070206</td>
-<td class="cuerpo_tabla_centro">0,019507</td>
-<td class="cuerpo_tabla_centro">0,012602</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 DHS (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,070206</td>
+<td>0,019507</td>
+<td>0,012602</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.0 A ( Pc &gt; 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,021957</td>
-<td class="cuerpo_tabla_centro">0,015040</td>
-<td class="cuerpo_tabla_centro">0,010183</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.0 A ( Pc &gt; 15 kW)</td>
+<td>0,021957</td>
+<td>0,015040</td>
+<td>0,010183</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 A (1 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">0,016699</td>
-<td class="cuerpo_tabla_centro">0,011411</td>
-<td class="cuerpo_tabla_centro">0,013268</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.1 A (1 kV a 36 kV)</td>
+<td>0,016699</td>
+<td>0,011411</td>
+<td>0,013268</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1A (1 kV a 30 kV)</td>
-<td class="cuerpo_tabla_centro">0,012995</td>
-<td class="cuerpo_tabla_centro">0,012837</td>
-<td class="cuerpo_tabla_centro">0,008996</td>
-<td class="cuerpo_tabla_centro">0,010431</td>
-<td class="cuerpo_tabla_centro">0,011206</td>
-<td class="cuerpo_tabla_centro">0,007951</td>
+<td>6.1A (1 kV a 30 kV)</td>
+<td>0,012995</td>
+<td>0,012837</td>
+<td>0,008996</td>
+<td>0,010431</td>
+<td>0,011206</td>
+<td>0,007951</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1B (30 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">0,012995</td>
-<td class="cuerpo_tabla_centro">0,009531</td>
-<td class="cuerpo_tabla_centro">0,008541</td>
-<td class="cuerpo_tabla_centro">0,009527</td>
-<td class="cuerpo_tabla_centro">0,010623</td>
-<td class="cuerpo_tabla_centro">0,007580</td>
+<td>6.1B (30 kV a 36 kV)</td>
+<td>0,012995</td>
+<td>0,009531</td>
+<td>0,008541</td>
+<td>0,009527</td>
+<td>0,010623</td>
+<td>0,007580</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2 (36 kV a 72,5 kV)</td>
-<td class="cuerpo_tabla_centro">0,014139</td>
-<td class="cuerpo_tabla_centro">0,012915</td>
-<td class="cuerpo_tabla_centro">0,009197</td>
-<td class="cuerpo_tabla_centro">0,009622</td>
-<td class="cuerpo_tabla_centro">0,009936</td>
-<td class="cuerpo_tabla_centro">0,007470</td>
+<td>6.2 (36 kV a 72,5 kV)</td>
+<td>0,014139</td>
+<td>0,012915</td>
+<td>0,009197</td>
+<td>0,009622</td>
+<td>0,009936</td>
+<td>0,007470</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.3 (72,5 kV a 145 kV)</td>
-<td class="cuerpo_tabla_centro">0,016527</td>
-<td class="cuerpo_tabla_centro">0,014150</td>
-<td class="cuerpo_tabla_centro">0,009832</td>
-<td class="cuerpo_tabla_centro">0,009751</td>
-<td class="cuerpo_tabla_centro">0,009893</td>
-<td class="cuerpo_tabla_centro">0,007501</td>
+<td>6.3 (72,5 kV a 145 kV)</td>
+<td>0,016527</td>
+<td>0,014150</td>
+<td>0,009832</td>
+<td>0,009751</td>
+<td>0,009893</td>
+<td>0,007501</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.4 (Mayor o igual a 145 kV)</td>
-<td class="cuerpo_tabla_centro">0,012995</td>
-<td class="cuerpo_tabla_centro">0,009871</td>
-<td class="cuerpo_tabla_centro">0,008541</td>
-<td class="cuerpo_tabla_centro">0,009030</td>
-<td class="cuerpo_tabla_centro">0,009477</td>
-<td class="cuerpo_tabla_centro">0,007328</td>
+<td>6.4 (Mayor o igual a 145 kV)</td>
+<td>0,012995</td>
+<td>0,009871</td>
+<td>0,008541</td>
+<td>0,009030</td>
+<td>0,009477</td>
+<td>0,007328</td>
 </tr>
 </tbody>
 </table>
@@ -4958,13 +4958,13 @@ Este término de cargo variable está constituido por los componentes correspond
 
 i) Componente de cargos variables asociados a los costes del sistema, estimados a partir de los términos variables de los peajes definidos en la presente orden, descontando el peaje de acceso a las redes de transporte y distribución y las pérdidas correspondientes a cada peaje de acceso y periodo tarifario. Los precios serán los siguientes:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th> </th>
 <th colspan="6">
-<p class="cabeza_tabla">Componente de cargo variable asociado a los costes del sistema</p>
-<p class="cabeza_tabla">(€/kWh)</p>
+<p>Componente de cargo variable asociado a los costes del sistema</p>
+<p>(€/kWh)</p>
 </th>
 </tr>
 <tr>
@@ -4979,121 +4979,121 @@ i) Componente de cargos variables asociados a los costes del sistema, estimados 
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 A (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,033311</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 A (Pc ≤ 10 kW)</td>
+<td>0,033311</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHA (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,047155</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 DHA (Pc ≤ 10 kW)</td>
+<td>0,047155</td>
+<td>0,000000</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHS (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,047935</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000137</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.0 DHS (Pc ≤ 10 kW)</td>
+<td>0,047935</td>
+<td>0,000000</td>
+<td>0,000137</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 A (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,045007</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 A (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,045007</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHA (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,058093</td>
-<td class="cuerpo_tabla_centro">0,009348</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 DHA (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,058093</td>
+<td>0,009348</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHS (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,058873</td>
-<td class="cuerpo_tabla_centro">0,011858</td>
-<td class="cuerpo_tabla_centro">0,005395</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2.1 DHS (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,058873</td>
+<td>0,011858</td>
+<td>0,005395</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.0 A (Pc &gt; 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,007020</td>
-<td class="cuerpo_tabla_centro">0,004173</td>
-<td class="cuerpo_tabla_centro">0,003562</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.0 A (Pc &gt; 15 kW)</td>
+<td>0,007020</td>
+<td>0,004173</td>
+<td>0,003562</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 A (1 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">0,003705</td>
-<td class="cuerpo_tabla_centro">0,001385</td>
-<td class="cuerpo_tabla_centro">0,006705</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3.1 A (1 kV a 36 kV)</td>
+<td>0,003705</td>
+<td>0,001385</td>
+<td>0,006705</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1A (1 kV a 30 kV)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,003305</td>
-<td class="cuerpo_tabla_centro">0,000454</td>
-<td class="cuerpo_tabla_centro">0,002384</td>
-<td class="cuerpo_tabla_centro">0,003159</td>
-<td class="cuerpo_tabla_centro">0,001388</td>
+<td>6.1A (1 kV a 30 kV)</td>
+<td>0,000000</td>
+<td>0,003305</td>
+<td>0,000454</td>
+<td>0,002384</td>
+<td>0,003159</td>
+<td>0,001388</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1B (30 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,001480</td>
-<td class="cuerpo_tabla_centro">0,002576</td>
-<td class="cuerpo_tabla_centro">0,001017</td>
+<td>6.1B (30 kV a 36 kV)</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,001480</td>
+<td>0,002576</td>
+<td>0,001017</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2 (36 kV a 72,5 kV)</td>
-<td class="cuerpo_tabla_centro">0,001145</td>
-<td class="cuerpo_tabla_centro">0,003383</td>
-<td class="cuerpo_tabla_centro">0,000655</td>
-<td class="cuerpo_tabla_centro">0,001575</td>
-<td class="cuerpo_tabla_centro">0,001889</td>
-<td class="cuerpo_tabla_centro">0,000907</td>
+<td>6.2 (36 kV a 72,5 kV)</td>
+<td>0,001145</td>
+<td>0,003383</td>
+<td>0,000655</td>
+<td>0,001575</td>
+<td>0,001889</td>
+<td>0,000907</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.3 (72,5 kV a 145 kV)</td>
-<td class="cuerpo_tabla_centro">0,003533</td>
-<td class="cuerpo_tabla_centro">0,004618</td>
-<td class="cuerpo_tabla_centro">0,001291</td>
-<td class="cuerpo_tabla_centro">0,001705</td>
-<td class="cuerpo_tabla_centro">0,001846</td>
-<td class="cuerpo_tabla_centro">0,000938</td>
+<td>6.3 (72,5 kV a 145 kV)</td>
+<td>0,003533</td>
+<td>0,004618</td>
+<td>0,001291</td>
+<td>0,001705</td>
+<td>0,001846</td>
+<td>0,000938</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.4 (Mayor o igual a 145 kV)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000339</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000983</td>
-<td class="cuerpo_tabla_centro">0,001430</td>
-<td class="cuerpo_tabla_centro">0,000765</td>
+<td>6.4 (Mayor o igual a 145 kV)</td>
+<td>0,000000</td>
+<td>0,000339</td>
+<td>0,000000</td>
+<td>0,000983</td>
+<td>0,001430</td>
+<td>0,000765</td>
 </tr>
 </tbody>
 </table>
@@ -5119,13 +5119,13 @@ Los precios de cada uno de los cargos variables transitorios por energía autoco
 
 2.2.1 Los precios de cada uno de los cargos variables transitorios por energía autoconsumida de aplicación al sistema eléctrico Mallorca-Menorca serán los siguientes:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th> </th>
 <th colspan="6">
-<p class="cabeza_tabla">Cargo transitorio por energía autoconsumida (€/kWh)</p>
-<p class="cabeza_tabla">MALLORCA-MENORCA</p>
+<p>Cargo transitorio por energía autoconsumida (€/kWh)</p>
+<p>MALLORCA-MENORCA</p>
 </th>
 </tr>
 <tr>
@@ -5140,103 +5140,103 @@ Los precios de cada uno de los cargos variables transitorios por energía autoco
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 A (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,013723</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>2.0 A (Pc ≤ 10 kW)</td>
+<td>0,013723</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHA (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,029533</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>2.0 DHA (Pc ≤ 10 kW)</td>
+<td>0,029533</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.0 DHS (Pc ≤ 10 kW)</td>
-<td class="cuerpo_tabla_centro">0,029417</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>2.0 DHS (Pc ≤ 10 kW)</td>
+<td>0,029417</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 A (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,025418</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>2.1 A (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,025418</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHA (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,040470</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>2.1 DHA (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,040470</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 DHS (10 &lt; Pc ≤ 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,040355</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>2.1 DHS (10 &lt; Pc ≤ 15 kW)</td>
+<td>0,040355</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.0 A (Pc &gt; 15 kW)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>3.0 A (Pc &gt; 15 kW)</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 A (1 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>3.1 A (1 kV a 36 kV)</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1A (1 kV a 30 kV)</td>
-<td class="cuerpo_tabla_centro">0,002835</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>6.1A (1 kV a 30 kV)</td>
+<td>0,002835</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1B (30 kV a 36 kV)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>6.1B (30 kV a 36 kV)</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2 (36 kV a 72,5 kV)</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
-<td class="cuerpo_tabla_centro">0,000000</td>
+<td>6.2 (36 kV a 72,5 kV)</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
+<td>0,000000</td>
 </tr>
 </tbody>
 </table>
@@ -5251,7 +5251,7 @@ Los consumidores acogidos a la modalidad de autoconsumo tipo 1 conectados en baj
 
 1\. Instalaciones del subgrupo a.1.1 del artículo 2 del Real Decreto 661/2007, de 25 de mayo:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="4">Clasificación de las tarifas según el Real Decreto 661/20007</th>
@@ -5270,32 +5270,32 @@ Los consumidores acogidos a la modalidad de autoconsumo tipo 1 conectados en baj
 <th>Modificación Sustancial</th>
 <th>Año de autorización de explotación definitiva</th>
 <th>
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Código</p>
+<p>Instalación Tipo</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">a.1</td>
-<td class="cuerpo_tabla_centro">a.1.1</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">1 &lt; P ≤ 10 MW</td>
-<td class="cuerpo_tabla_centro">a.1</td>
-<td class="cuerpo_tabla_centro">a.1.1</td>
-<td class="cuerpo_tabla_izq">Gas Natural</td>
-<td class="cuerpo_tabla_centro">1 &lt; P ≤ 10 MW</td>
-<td class="cuerpo_tabla_centro">Motor</td>
-<td class="cuerpo_tabla_centro">Modificación sustancial</td>
-<td class="cuerpo_tabla_centro">2007</td>
-<td class="cuerpo_tabla_centro">IT-01526</td>
+<td>a.1</td>
+<td>a.1.1</td>
+<td>Gas Natural</td>
+<td>1 &lt; P ≤ 10 MW</td>
+<td>a.1</td>
+<td>a.1.1</td>
+<td>Gas Natural</td>
+<td>1 &lt; P ≤ 10 MW</td>
+<td>Motor</td>
+<td>Modificación sustancial</td>
+<td>2007</td>
+<td>IT-01526</td>
 </tr>
 </tbody>
 </table>
 
 2\. Instalaciones del subgrupo b.1.1 del Real Decreto 1578/2008, de 26 de septiembre:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="4">Clasificación de las tarifas según el Real Decreto 1578/2008</th>
@@ -5313,31 +5313,31 @@ Los consumidores acogidos a la modalidad de autoconsumo tipo 1 conectados en baj
 <th>Zona Climática</th>
 <th>Año de autorización de explotación definitiva</th>
 <th>
-<p class="cabeza_tabla">Código</p>
-<p class="cabeza_tabla">Instalación Tipo</p>
+<p>Código</p>
+<p>Instalación Tipo</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">b.1</td>
-<td class="cuerpo_tabla_centro">b.1.1</td>
-<td class="cuerpo_tabla_centro">I.2</td>
-<td class="cuerpo_tabla_centro">1C 2011</td>
-<td class="cuerpo_tabla_centro">b.1</td>
-<td class="cuerpo_tabla_centro">b.1.1</td>
-<td class="cuerpo_tabla_centro">P &gt; 1MW</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">Z4</td>
-<td class="cuerpo_tabla_centro">2013</td>
-<td class="cuerpo_tabla_centro">IT-00591</td>
+<td>b.1</td>
+<td>b.1.1</td>
+<td>I.2</td>
+<td>1C 2011</td>
+<td>b.1</td>
+<td>b.1.1</td>
+<td>P &gt; 1MW</td>
+<td>-</td>
+<td>Z4</td>
+<td>2013</td>
+<td>IT-00591</td>
 </tr>
 </tbody>
 </table>
 
 3\. Correspondencia subgrupo a.1.1 con el subgrupo a.1.3 del Real Decreto 413/2014, de 6 de junio:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="8">Identificación instalación antes de la reclasificación al subgrupo a.1.3</th>
@@ -5357,15 +5357,15 @@ Los consumidores acogidos a la modalidad de autoconsumo tipo 1 conectados en baj
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">a.1</td>
-<td class="cuerpo_tabla_centro">a.1.1</td>
-<td class="cuerpo_tabla_centro">Gas Natural</td>
-<td class="cuerpo_tabla_centro">1 &lt; P ≤ 10 MW</td>
-<td class="cuerpo_tabla_centro">Motor</td>
-<td class="cuerpo_tabla_centro">Modificación sustancial</td>
-<td class="cuerpo_tabla_centro">2007</td>
-<td class="cuerpo_tabla_centro">IT-01526</td>
-<td class="cuerpo_tabla_centro">IT-02077</td>
+<td>a.1</td>
+<td>a.1.1</td>
+<td>Gas Natural</td>
+<td>1 &lt; P ≤ 10 MW</td>
+<td>Motor</td>
+<td>Modificación sustancial</td>
+<td>2007</td>
+<td>IT-01526</td>
+<td>IT-02077</td>
 </tr>
 </tbody>
 </table>
@@ -5388,70 +5388,70 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 
 2\. Parámetros retributivos de las instalaciones tipo aplicables en 2014, 2015 y 2016.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th rowspan="2">Código de identificación</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Vida Útil</p>
-<p class="cabeza_tabla">Regulatoria</p>
-<p class="cabeza_tabla">(años)</p>
+<p>Vida Útil</p>
+<p>Regulatoria</p>
+<p>(años)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Coeficiente de ajuste</p>
-<p class="cabeza_tabla">C1,a</p>
+<p>Coeficiente de ajuste</p>
+<p>C1,a</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retribución</p>
-<p class="cabeza_tabla">a la</p>
-<p class="cabeza_tabla">Inversión</p>
-<p class="cabeza_tabla">Rinv</p>
-<p class="cabeza_tabla">2014-2016</p>
-<p class="cabeza_tabla">(€/MW)</p>
+<p>Retribución</p>
+<p>a la</p>
+<p>Inversión</p>
+<p>Rinv</p>
+<p>2014-2016</p>
+<p>(€/MW)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retribución</p>
-<p class="cabeza_tabla">a la</p>
-<p class="cabeza_tabla">Operación</p>
-<p class="cabeza_tabla">Ro (*) (€/MWh) 2014.</p>
+<p>Retribución</p>
+<p>a la</p>
+<p>Operación</p>
+<p>Ro (*) (€/MWh) 2014.</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retribución</p>
-<p class="cabeza_tabla">a la</p>
-<p class="cabeza_tabla">Operación</p>
-<p class="cabeza_tabla">Ro(*) (€/MWh) 2015.</p>
-<p class="cabeza_tabla"> </p>
+<p>Retribución</p>
+<p>a la</p>
+<p>Operación</p>
+<p>Ro(*) (€/MWh) 2015.</p>
+<p> </p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retribución</p>
-<p class="cabeza_tabla">a la</p>
-<p class="cabeza_tabla">Operación</p>
-<p class="cabeza_tabla">Ro(*) (€/MWh) 2016.</p>
-<p class="cabeza_tabla"> </p>
+<p>Retribución</p>
+<p>a la</p>
+<p>Operación</p>
+<p>Ro(*) (€/MWh) 2016.</p>
+<p> </p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Horas de funcionamiento máximo para la</p>
-<p class="cabeza_tabla">percepción de Ro</p>
-<p class="cabeza_tabla">(h)</p>
+<p>Horas de funcionamiento máximo para la</p>
+<p>percepción de Ro</p>
+<p>(h)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">N.º Horas equivalentes de</p>
-<p class="cabeza_tabla">funcionamiento mínimo Nh</p>
-<p class="cabeza_tabla">Anual</p>
-<p class="cabeza_tabla">2014-2016</p>
-<p class="cabeza_tabla">(h)</p>
+<p>N.º Horas equivalentes de</p>
+<p>funcionamiento mínimo Nh</p>
+<p>Anual</p>
+<p>2014-2016</p>
+<p>(h)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Umbral de funcionamiento Uf</p>
-<p class="cabeza_tabla">Anual</p>
-<p class="cabeza_tabla">2014-2016</p>
-<p class="cabeza_tabla">(h)</p>
+<p>Umbral de funcionamiento Uf</p>
+<p>Anual</p>
+<p>2014-2016</p>
+<p>(h)</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de</p>
-<p class="cabeza_tabla">funcionamiento mínimo y del</p>
-<p class="cabeza_tabla">umbral de funcionamiento de los periodos de 3, 6 y 9 meses</p>
-<p class="cabeza_tabla">(%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de</p>
+<p>funcionamiento mínimo y del</p>
+<p>umbral de funcionamiento de los periodos de 3, 6 y 9 meses</p>
+<p>(%)</p>
 </th>
 </tr>
 <tr>
@@ -5462,71 +5462,71 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">IT-00591</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">1,0000</td>
-<td class="cuerpo_tabla_centro">319.655</td>
-<td class="cuerpo_tabla_centro">13,483</td>
-<td class="cuerpo_tabla_centro">12,669</td>
-<td class="cuerpo_tabla_centro">13,215</td>
-<td class="cuerpo_tabla_centro">1.648</td>
-<td class="cuerpo_tabla_centro">989</td>
-<td class="cuerpo_tabla_centro">577</td>
-<td class="cuerpo_tabla_centro">10%</td>
-<td class="cuerpo_tabla_centro">20%</td>
-<td class="cuerpo_tabla_centro">30%</td>
+<td>IT-00591</td>
+<td>30</td>
+<td>1,0000</td>
+<td>319.655</td>
+<td>13,483</td>
+<td>12,669</td>
+<td>13,215</td>
+<td>1.648</td>
+<td>989</td>
+<td>577</td>
+<td>10%</td>
+<td>20%</td>
+<td>30%</td>
 </tr>
 </tbody>
 </table>
 
 (*) Aplicable a las instalaciones tipo cuyos costes variables no dependen esencialmente del precio de combustible, y que por lo tanto no están sujetas a la actualización prevista en el artículo 20.3 del Real Decreto 413/2014, de 6 de junio.
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th rowspan="2">Código de identificación</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Vida Útil</p>
-<p class="cabeza_tabla">Regulatoria</p>
-<p class="cabeza_tabla">(años)</p>
+<p>Vida Útil</p>
+<p>Regulatoria</p>
+<p>(años)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Coeficiente de ajuste</p>
-<p class="cabeza_tabla">C1,a</p>
+<p>Coeficiente de ajuste</p>
+<p>C1,a</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retribución a la Inversión Rinv</p>
-<p class="cabeza_tabla">2014-2016</p>
-<p class="cabeza_tabla">(€/MW)</p>
+<p>Retribución a la Inversión Rinv</p>
+<p>2014-2016</p>
+<p>(€/MW)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retribución a la Operación Ro</p>
-<p class="cabeza_tabla">(€/MWh) 2014 y primer semestre 2015</p>
+<p>Retribución a la Operación Ro</p>
+<p>(€/MWh) 2014 y primer semestre 2015</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Horas de funcionamiento máximo para</p>
-<p class="cabeza_tabla">la percepción de Ro</p>
-<p class="cabeza_tabla">(h)</p>
+<p>Horas de funcionamiento máximo para</p>
+<p>la percepción de Ro</p>
+<p>(h)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">N.º Horas equivalentes de</p>
-<p class="cabeza_tabla">funcionamiento mínimo Nh</p>
-<p class="cabeza_tabla">Anual</p>
-<p class="cabeza_tabla">2014-2016</p>
-<p class="cabeza_tabla">(h)</p>
+<p>N.º Horas equivalentes de</p>
+<p>funcionamiento mínimo Nh</p>
+<p>Anual</p>
+<p>2014-2016</p>
+<p>(h)</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Umbral de funcionamiento</p>
-<p class="cabeza_tabla">Uf</p>
-<p class="cabeza_tabla">Anual</p>
-<p class="cabeza_tabla">2014-2016</p>
-<p class="cabeza_tabla">(h)</p>
+<p>Umbral de funcionamiento</p>
+<p>Uf</p>
+<p>Anual</p>
+<p>2014-2016</p>
+<p>(h)</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de</p>
-<p class="cabeza_tabla">funcionamiento mínimo y del</p>
-<p class="cabeza_tabla">umbral de funcionamiento de los periodos de 3, 6 y 9 meses</p>
-<p class="cabeza_tabla">(%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de</p>
+<p>funcionamiento mínimo y del</p>
+<p>umbral de funcionamiento de los periodos de 3, 6 y 9 meses</p>
+<p>(%)</p>
 </th>
 </tr>
 <tr>
@@ -5537,17 +5537,17 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">IT-01526</td>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">56,786</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">2.760</td>
-<td class="cuerpo_tabla_centro">840</td>
-<td class="cuerpo_tabla_centro">15%</td>
-<td class="cuerpo_tabla_centro">30%</td>
-<td class="cuerpo_tabla_centro">45%</td>
+<td>IT-01526</td>
+<td>25</td>
+<td>-</td>
+<td>-</td>
+<td>56,786</td>
+<td>-</td>
+<td>2.760</td>
+<td>840</td>
+<td>15%</td>
+<td>30%</td>
+<td>45%</td>
 </tr>
 </tbody>
 </table>
@@ -5556,49 +5556,36 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | IT-01526 | 1,789 | 1,000 | -0,838 | 49,908 | 1,791 | 1,000 | 0,247 | 46,340 | 1,791 | 1,000 | 0,000 |
 
-<table class="tabla_ancha" summary="Tabla de formato">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>
-<p class="cabeza_tabla">Código de identificación</p>
+<p>Código de identificación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Coeficiente de ajuste C<sub>1,a</sub></p>
+<p>Coeficiente de ajuste C<sub>1,a</sub></p>
 </th>
 <th>
-<p class="cabeza_tabla">Retribución a la inversión Rinv 2014-2016 (€/MW)</p>
+<p>Retribución a la inversión Rinv 2014-2016 (€/MW)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Retribución a la operación Ro (€/MWh) 2014 y primer semestre 2015</p>
+<p>Retribución a la operación Ro (€/MWh) 2014 y primer semestre 2015</p>
 </th>
 <th>
-<p class="cabeza_tabla">Horas de funcionamiento máximo para la percepción de Ro (h)</p>
+<p>Horas de funcionamiento máximo para la percepción de Ro (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">N.º horas equivalentes de funcionamiento mínimo Nh anual</p>
-<p class="cabeza_tabla">2014-2016 (h)</p>
+<p>N.º horas equivalentes de funcionamiento mínimo Nh anual</p>
+<p>2014-2016 (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
+<p>Umbral de funcionamiento Uf anual 2014-2016 (h)</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%)</p>
 </th>
 </tr>
 <tr>
@@ -5611,50 +5598,50 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 <td> </td>
 <td> </td>
 <th>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </th>
 <th>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02077</p>
+<p>IT-02077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,000</p>
+<p>0,000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.760</p>
+<p>2.760</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">840</p>
+<p>840</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15%</p>
+<p>15%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30%</p>
+<p>30%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45%</p>
+<p>45%</p>
 </td>
 </tr>
 </tbody>
@@ -6258,85 +6245,85 @@ Tabla retribución a la inversión
 
 Tabla retribución a la operación y mantenimiento
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N_registro</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Nombre</td>
-<td class="cuerpo_tabla_centro" colspan="6">Retribución a la O&amp;M</td>
+<td rowspan="2">N_registro</td>
+<td rowspan="2">Nombre</td>
+<td colspan="6">Retribución a la O&amp;M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">ROMAT<sub>base</sub></td>
-<td class="cuerpo_tabla_centro">ROMBT<sub>base</sub></td>
-<td class="cuerpo_tabla_centro">ROMLAE<sub>base</sub></td>
-<td class="cuerpo_tabla_centro">α<sub>base</sub></td>
-<td class="cuerpo_tabla_centro">FRROMbase</td>
-<td class="cuerpo_tabla_centro">ROM<sub>base</sub></td>
+<td>ROMAT<sub>base</sub></td>
+<td>ROMBT<sub>base</sub></td>
+<td>ROMLAE<sub>base</sub></td>
+<td>α<sub>base</sub></td>
+<td>FRROMbase</td>
+<td>ROM<sub>base</sub></td>
 </tr>
 </tbody>
 </table>
 
 Tabla de retribución a otras tareas reguladas
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N_registro</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Nombre</td>
-<td class="cuerpo_tabla_centro" rowspan="2">N.º Clientes</td>
-<td class="cuerpo_tabla_centro" colspan="8">Retribución de otras tareas reguladas</td>
+<td rowspan="2">N_registro</td>
+<td rowspan="2">Nombre</td>
+<td rowspan="2">N.º Clientes</td>
+<td colspan="8">Retribución de otras tareas reguladas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RL</td>
-<td class="cuerpo_tabla_centro">RC</td>
-<td class="cuerpo_tabla_centro">RT</td>
-<td class="cuerpo_tabla_centro">RP</td>
-<td class="cuerpo_tabla_centro">RE</td>
-<td class="cuerpo_tabla_centro">RTA</td>
-<td class="cuerpo_tabla_centro">FRROM</td>
-<td class="cuerpo_tabla_centro">ROTD</td>
+<td>RL</td>
+<td>RC</td>
+<td>RT</td>
+<td>RP</td>
+<td>RE</td>
+<td>RTA</td>
+<td>FRROM</td>
+<td>ROTD</td>
 </tr>
 </tbody>
 </table>
 
 Tabla de incentivo a la reducción de pérdidas
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N_registro</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Nombre</td>
-<td class="cuerpo_tabla_centro" colspan="6">Incentivo a la reducción de pérdidas P<sub>n</sub></td>
+<td rowspan="2">N_registro</td>
+<td rowspan="2">Nombre</td>
+<td colspan="6">Incentivo a la reducción de pérdidas P<sub>n</sub></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">α</td>
-<td class="cuerpo_tabla_centro">PE<sub>n-2→n-4</sub></td>
-<td class="cuerpo_tabla_centro">P<sub>n-3→n-5</sub></td>
-<td class="cuerpo_tabla_centro">P<sub>n-2→n-4</sub></td>
-<td class="cuerpo_tabla_centro">∑E<sub>pf</sub><sup>n-2→n-4</sup></td>
-<td class="cuerpo_tabla_centro">P<sub>n</sub></td>
+<td>α</td>
+<td>PE<sub>n-2→n-4</sub></td>
+<td>P<sub>n-3→n-5</sub></td>
+<td>P<sub>n-2→n-4</sub></td>
+<td>∑E<sub>pf</sub><sup>n-2→n-4</sup></td>
+<td>P<sub>n</sub></td>
 </tr>
 </tbody>
 </table>
 
 Tabla de incentivo de calidad
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N_registro</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Nombre</td>
-<td class="cuerpo_tabla_centro" colspan="8">Incentivo de calidad Qn</td>
+<td rowspan="2">N_registro</td>
+<td rowspan="2">Nombre</td>
+<td colspan="8">Incentivo de calidad Qn</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">β</td>
-<td class="cuerpo_tabla_centro">μ<sub>NIEPI </sub><sup>n-2→n-4</sup></td>
-<td class="cuerpo_tabla_centro">K<sub>ZONAL </sub><sup>n-2→n-4</sup></td>
-<td class="cuerpo_tabla_centro">PENS<sup> n-2→n-4</sup></td>
-<td class="cuerpo_tabla_centro">PInsti<sup> n-2→n-4</sup></td>
-<td class="cuerpo_tabla_centro">TIEPI<sup> n-3→n-5</sup></td>
-<td class="cuerpo_tabla_centro">TIEPI<sup> n-2→n-4</sup></td>
-<td class="cuerpo_tabla_centro">Q<sub>n</sub></td>
+<td>β</td>
+<td>μ<sub>NIEPI </sub><sup>n-2→n-4</sup></td>
+<td>K<sub>ZONAL </sub><sup>n-2→n-4</sup></td>
+<td>PENS<sup> n-2→n-4</sup></td>
+<td>PInsti<sup> n-2→n-4</sup></td>
+<td>TIEPI<sup> n-3→n-5</sup></td>
+<td>TIEPI<sup> n-2→n-4</sup></td>
+<td>Q<sub>n</sub></td>
 </tr>
 </tbody>
 </table>
@@ -6347,7 +6334,7 @@ Tabla de incentivo de calidad
 
 Tabla resumen de retribución
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="5">RETRIBUCIÓN TRANSPORTE</th>
@@ -6362,113 +6349,113 @@ Tabla resumen de retribución
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">Retribución instalaciones pre-1998</td>
-<td class="cuerpo_tabla_izq">Vinversion</td>
+<td rowspan="6">Retribución instalaciones pre-1998</td>
+<td>Vinversion</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VU</td>
+<td>VU</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VR</td>
+<td>VR</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RI</td>
+<td>RI</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ROM</td>
+<td>ROM</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RETRIBUCIÓN</td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
+<td>RETRIBUCIÓN</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="5">Retribución instalaciones puestas en servicio desde 1998</td>
-<td class="cuerpo_tabla_izq">RI<sub>no singulares</sub></td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">RI<sub>singulares</sub></td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">ROM<sub>no singulares</sub></td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">ROM<sub>singulares</sub></td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">RETRIBUCIÓN</td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_izq"> </td>
 </tr>
 <tr>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Incentivo disponibilidad</td>
+<td rowspan="5">Retribución instalaciones puestas en servicio desde 1998</td>
+<td>RI<sub>no singulares</sub></td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+</tr>
+<tr>
+<td>RI<sub>singulares</sub></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>ROM<sub>no singulares</sub></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>ROM<sub>singulares</sub></td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>RETRIBUCIÓN</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RETRIBUCIÓN TOTAL</td>
+<td colspan="2">Incentivo disponibilidad</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_izq"> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>RETRIBUCIÓN TOTAL</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 Tabla detallada por empresa de instalaciones puestas en servicio antes de 1998
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="3">Empresa</th>
@@ -6480,64 +6467,64 @@ Tabla detallada por empresa de instalaciones puestas en servicio antes de 1998
 <tbody>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">RI</td>
-<td class="cuerpo_tabla_izq">VU</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td rowspan="3">RI</td>
+<td>VU</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VR</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>VR</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RI</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>RI</td>
+<td> </td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">ROM</td>
-<td class="cuerpo_tabla_izq">Posiciones</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td rowspan="4">ROM</td>
+<td>Posiciones</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máquinas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Máquinas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Líneas</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Líneas</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Instalaciones singulares</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Instalaciones singulares</td>
+<td> </td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">RETRIBUCIÓN TOTAL</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2">RETRIBUCIÓN TOTAL</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 Tabla detallada por empresa de instalaciones puestas en servicio desde 1998
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="9">Empresa</th>
@@ -6556,77 +6543,35 @@ Tabla detallada por empresa de instalaciones puestas en servicio desde 1998
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">No singulares</td>
-<td class="cuerpo_tabla_izq">Posiciones</td>
+<td rowspan="3">No singulares</td>
+<td>Posiciones</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Máquinas</td>
+<td>Máquinas</td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Líneas</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
+<td>Líneas</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" rowspan="3">Singulares</td>
-<td class="cuerpo_tabla_izq">Posiciones</td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Máquinas</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Líneas</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
 </tr>
 <tr>
 <td> </td>
@@ -6634,21 +6579,41 @@ Tabla detallada por empresa de instalaciones puestas en servicio desde 1998
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Despachos</td>
+<td rowspan="3">Singulares</td>
+<td>Posiciones</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Máquinas</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Líneas</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td> </td>
@@ -6656,27 +6621,49 @@ Tabla detallada por empresa de instalaciones puestas en servicio desde 1998
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">RETRIBUCIÓN TOTAL</td>
+<td> </td>
+<td>Despachos</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="2">RETRIBUCIÓN TOTAL</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 Tablas de instalaciones de transporte
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="8">Instalaciones no singulares puestas en servicio antes de 1998</th>
@@ -6700,13 +6687,13 @@ Tablas de instalaciones de transporte
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="7">Instalaciones singulares puestas en servicio antes de 1998</th>
@@ -6728,13 +6715,13 @@ Tablas de instalaciones de transporte
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" summary="Tabla de datos">
+<table>
 <thead>
 <tr>
 <th colspan="16">Instalaciones no singulares puestas en servicio desde 1998</th>
@@ -6743,73 +6730,18 @@ Tablas de instalaciones de transporte
 <th>Empresa</th>
 <th>Identificador instalación</th>
 <th>
-<p class="cabeza_tabla">Tipo</p>
-<p class="cabeza_tabla">Instalación</p>
+<p>Tipo</p>
+<p>Instalación</p>
 </th>
 <th>Unitario asignado</th>
 <th>VI_unitario</th>
 <th>
-<p class="cabeza_tabla">VOM</p>
-<p class="cabeza_tabla">unitario</p>
+<p>VOM</p>
+<p>unitario</p>
 </th>
 <th>
-<p class="cabeza_tabla">Unidades</p>
-<p class="cabeza_tabla">físicas</p>
-</th>
-<th>Añop.s.</th>
-<th>VU</th>
-<th>VR</th>
-<th>VI</th>
-<th>Amortización</th>
-<th>R. financiera</th>
-<th>R.inversión</th>
-<th>ROM</th>
-<th>Retribución</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-</tbody>
-</table>
-
-<table class="tabla_ancha" summary="Tabla de datos">
-<thead>
-<tr>
-<th colspan="16">Instalaciones no singulares puestas en servicio desde 1998</th>
-</tr>
-<tr>
-<th>Empresa</th>
-<th>Identificador instalación</th>
-<th>
-<p class="cabeza_tabla">Tipo</p>
-<p class="cabeza_tabla">Instalación</p>
-</th>
-<th>Unitario asignado</th>
-<th>VI_unitario</th>
-<th>
-<p class="cabeza_tabla">VOM</p>
-<p class="cabeza_tabla">unitario</p>
-</th>
-<th>
-<p class="cabeza_tabla">Unidades</p>
-<p class="cabeza_tabla">físicas</p>
+<p>Unidades</p>
+<p>físicas</p>
 </th>
 <th>Añop.s.</th>
 <th>VU</th>
@@ -6838,8 +6770,63 @@ Tablas de instalaciones de transporte
 <td> </td>
 <td> </td>
 <td> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="16">Instalaciones no singulares puestas en servicio desde 1998</th>
+</tr>
+<tr>
+<th>Empresa</th>
+<th>Identificador instalación</th>
+<th>
+<p>Tipo</p>
+<p>Instalación</p>
+</th>
+<th>Unitario asignado</th>
+<th>VI_unitario</th>
+<th>
+<p>VOM</p>
+<p>unitario</p>
+</th>
+<th>
+<p>Unidades</p>
+<p>físicas</p>
+</th>
+<th>Añop.s.</th>
+<th>VU</th>
+<th>VR</th>
+<th>VI</th>
+<th>Amortización</th>
+<th>R. financiera</th>
+<th>R.inversión</th>
+<th>ROM</th>
+<th>Retribución</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>

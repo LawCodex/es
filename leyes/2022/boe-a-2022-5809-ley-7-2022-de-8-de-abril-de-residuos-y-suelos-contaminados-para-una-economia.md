@@ -3152,51 +3152,47 @@ Cuando un residuo contenga una o varias sustancias clasificadas con uno de los c
 
 Cuadro 1: Códigos de clase y categoría de peligro y códigos de indicación de peligro de componentes de residuos para la clasificación de residuos como peligrosos por HP 1
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="30%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Códigos de clase y categoría de peligro</th>
-<th class="cabeza_tabla">Códigos de indicación de peligro</th>
+<th>Códigos de clase y categoría de peligro</th>
+<th>Códigos de indicación de peligro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Unst. Expl.</td>
-<td class="cuerpo_tabla_centro">H 200</td>
+<td>Unst. Expl.</td>
+<td>H 200</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Expl. 1.1</td>
-<td class="cuerpo_tabla_centro">H 201</td>
+<td>Expl. 1.1</td>
+<td>H 201</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Expl. 1.2</td>
-<td class="cuerpo_tabla_centro">H 202</td>
+<td>Expl. 1.2</td>
+<td>H 202</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Expl. 1.3</td>
-<td class="cuerpo_tabla_centro">H 203</td>
+<td>Expl. 1.3</td>
+<td>H 203</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Expl. 1.4</td>
-<td class="cuerpo_tabla_centro">H 204</td>
+<td>Expl. 1.4</td>
+<td>H 204</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Self-react. A</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H 240</td>
+<td>Self-react. A</td>
+<td rowspan="2">H 240</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Org. Perox. A</td>
+<td>Org. Perox. A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Self-react. B</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H 241</td>
+<td>Self-react. B</td>
+<td rowspan="2">H 241</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Org. Perox. B</td>
+<td>Org. Perox. B</td>
 </tr>
 </tbody>
 </table>
@@ -3207,35 +3203,31 @@ Cuando un residuo contenga una o varias sustancias clasificadas con uno de los c
 
 Cuadro 2: Códigos de clase y categoría de peligro y códigos de indicación de peligro para la clasificación de residuos como peligrosos por HP 2
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="30%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Códigos de clase y categoría de peligro</th>
-<th class="cabeza_tabla">Códigos de indicación de peligro</th>
+<th>Códigos de clase y categoría de peligro</th>
+<th>Códigos de indicación de peligro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Ox. Gas 1</td>
-<td class="cuerpo_tabla_centro">H 270</td>
+<td>Ox. Gas 1</td>
+<td>H 270</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Ox. Liq. 1</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H 271</td>
+<td>Ox. Liq. 1</td>
+<td rowspan="2">H 271</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Ox. Sol. 1</td>
+<td>Ox. Sol. 1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Ox. Liq. 2, Ox. Liq. 3</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H 272</td>
+<td>Ox. Liq. 2, Ox. Liq. 3</td>
+<td rowspan="2">H 272</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Ox. Sol. 2, Ox. Sol. 3</td>
+<td>Ox. Sol. 2, Ox. Sol. 3</td>
 </tr>
 </tbody>
 </table>
@@ -3258,91 +3250,87 @@ Cuando un residuo contenga una o varias sustancias clasificadas con uno de los c
 
 Cuadro 3: Códigos de clase y categoría de peligro y códigos de indicación de peligro para la clasificación de residuos como peligrosos por HP 3
 
-<table class="tabla">
-<colgroup>
-<col width="30%">
-<col width="30%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Códigos de clase y categoría de peligro</th>
-<th class="cabeza_tabla">Códigos de indicación de peligro</th>
+<th>Códigos de clase y categoría de peligro</th>
+<th>Códigos de indicación de peligro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Gas 1</td>
-<td class="cuerpo_tabla_centro">H220</td>
+<td>Flam. Gas 1</td>
+<td>H220</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Gas 2</td>
-<td class="cuerpo_tabla_centro">H221</td>
+<td>Flam. Gas 2</td>
+<td>H221</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Aerosol 1</td>
-<td class="cuerpo_tabla_centro">H222</td>
+<td>Aerosol 1</td>
+<td>H222</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Aerosol 2</td>
-<td class="cuerpo_tabla_centro">H223</td>
+<td>Aerosol 2</td>
+<td>H223</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Liq. 1</td>
-<td class="cuerpo_tabla_centro">H224</td>
+<td>Flam. Liq. 1</td>
+<td>H224</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Liq.2</td>
-<td class="cuerpo_tabla_centro">H225</td>
+<td>Flam. Liq.2</td>
+<td>H225</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Liq. 3</td>
-<td class="cuerpo_tabla_centro">H226</td>
+<td>Flam. Liq. 3</td>
+<td>H226</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Sol. 1</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H228</td>
+<td>Flam. Sol. 1</td>
+<td rowspan="2">H228</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Flam. Sol. 2</td>
+<td>Flam. Sol. 2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Self-react. CD</td>
-<td class="cuerpo_tabla_centro" rowspan="4">H242</td>
+<td>Self-react. CD</td>
+<td rowspan="4">H242</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Self-react. EF</td>
+<td>Self-react. EF</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Org. Perox. CD</td>
+<td>Org. Perox. CD</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Org. Perox. EF</td>
+<td>Org. Perox. EF</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Pyr. Liq. 1</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H250</td>
+<td>Pyr. Liq. 1</td>
+<td rowspan="2">H250</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Pyr. Sol. 1</td>
+<td>Pyr. Sol. 1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Self-heat.1</td>
-<td class="cuerpo_tabla_centro">H251</td>
+<td>Self-heat.1</td>
+<td>H251</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Self-heat. 2</td>
-<td class="cuerpo_tabla_centro">H252</td>
+<td>Self-heat. 2</td>
+<td>H252</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Water-react. 1</td>
-<td class="cuerpo_tabla_centro">H260</td>
+<td>Water-react. 1</td>
+<td>H260</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Water-react. 2</p>
-<p class="cuerpo_tabla_centro">Water-react. 3</p>
+<td>
+<p>Water-react. 2</p>
+<p>Water-react. 3</p>
 </td>
-<td class="cuerpo_tabla_centro">H261</td>
+<td>H261</td>
 </tr>
 </tbody>
 </table>
@@ -3400,32 +3388,27 @@ Cuando un residuo contenga una o varias sustancias que estén clasificadas con u
 
 Cuadro 6: Códigos de clase y categoría de peligro y códigos de indicación de peligro de componentes de residuos y los límites de concentración correspondientes para la clasificación de residuos como peligrosos por HP 7
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Códigos de clase y categoría de peligro</th>
-<th class="cabeza_tabla">Códigos de indicación de peligro</th>
-<th class="cabeza_tabla">Límite de concentración</th>
+<th>Códigos de clase y categoría de peligro</th>
+<th>Códigos de indicación de peligro</th>
+<th>Límite de concentración</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Carc. 1A</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H350</td>
-<td class="cuerpo_tabla_centro" rowspan="2">0,1 %</td>
+<td>Carc. 1A</td>
+<td rowspan="2">H350</td>
+<td rowspan="2">0,1 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Carc. 1B</td>
+<td>Carc. 1B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Carc. 2</td>
-<td class="cuerpo_tabla_centro">H351</td>
-<td class="cuerpo_tabla_centro">1,0 %</td>
+<td>Carc. 2</td>
+<td>H351</td>
+<td>1,0 %</td>
 </tr>
 </tbody>
 </table>
@@ -3446,32 +3429,27 @@ Cuando un residuo contenga una sustancia que esté clasificada con uno de los si
 
 Cuadro 7: Códigos de clase y categoría de peligro y códigos de indicación de peligro de componentes de residuos y los límites de concentración correspondientes para la clasificación de residuos como peligrosos por HP 10
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Códigos de clase y categoría de peligro</th>
-<th class="cabeza_tabla">Códigos de indicación de peligro</th>
-<th class="cabeza_tabla">Límite de concentración</th>
+<th>Códigos de clase y categoría de peligro</th>
+<th>Códigos de indicación de peligro</th>
+<th>Límite de concentración</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Repr. 1A</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H360</td>
-<td class="cuerpo_tabla_centro" rowspan="2">0,3 %</td>
+<td>Repr. 1A</td>
+<td rowspan="2">H360</td>
+<td rowspan="2">0,3 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Repr. 1B</td>
+<td>Repr. 1B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Repr. 2</td>
-<td class="cuerpo_tabla_centro">H361</td>
-<td class="cuerpo_tabla_centro">3,0 %</td>
+<td>Repr. 2</td>
+<td>H361</td>
+<td>3,0 %</td>
 </tr>
 </tbody>
 </table>
@@ -3482,32 +3460,27 @@ Cuando un residuo contenga una sustancia que esté clasificada con uno de los si
 
 Cuadro 8: Códigos de clase y categoría de peligro y códigos de indicación de peligro de componentes de residuos y los límites de concentración correspondientes para la clasificación de residuos como peligrosos por HP 11
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Códigos de clase y categoría de peligro</th>
-<th class="cabeza_tabla">Códigos de indicación de peligro</th>
-<th class="cabeza_tabla">Límite de concentración</th>
+<th>Códigos de clase y categoría de peligro</th>
+<th>Códigos de indicación de peligro</th>
+<th>Límite de concentración</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">Muta. 1A</td>
-<td class="cuerpo_tabla_centro" rowspan="2">H340</td>
-<td class="cuerpo_tabla_centro" rowspan="2">0,1 %</td>
+<td>Muta. 1A</td>
+<td rowspan="2">H340</td>
+<td rowspan="2">0,1 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Muta. 1B</td>
+<td>Muta. 1B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Muta. 2</td>
-<td class="cuerpo_tabla_centro">H341</td>
-<td class="cuerpo_tabla_centro">1,0 %</td>
+<td>Muta. 2</td>
+<td>H341</td>
+<td>1,0 %</td>
 </tr>
 </tbody>
 </table>
@@ -3546,32 +3519,28 @@ DONDE: Σ = sumatorio y c = concentración de las sustancias.
 
 Cuadro 9: Indicaciones de peligro e indicaciones de peligro suplementarias de componentes de residuos para la clasificación de residuos como peligrosos por HP 15
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Indicaciones de peligro/Indicaciones de peligro suplementarias</th>
+<th colspan="2">Indicaciones de peligro/Indicaciones de peligro suplementarias</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Peligro de explosión en masa en caso de incendio.</td>
-<td class="cuerpo_tabla_centro">H205</td>
+<td>Peligro de explosión en masa en caso de incendio.</td>
+<td>H205</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Explosivo en estado seco.</td>
-<td class="cuerpo_tabla_centro">EUH001</td>
+<td>Explosivo en estado seco.</td>
+<td>EUH001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Puede formar peróxidos explosivos.</td>
-<td class="cuerpo_tabla_centro">EUH019</td>
+<td>Puede formar peróxidos explosivos.</td>
+<td>EUH019</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Riesgo de explosión al calentarlo en ambiente confinado.</td>
-<td class="cuerpo_tabla_centro">EUH044</td>
+<td>Riesgo de explosión al calentarlo en ambiente confinado.</td>
+<td>EUH044</td>
 </tr>
 </tbody>
 </table>
@@ -3586,400 +3555,396 @@ Los métodos que deberán aplicarse se describen en el Reglamento (CE) n.º 440/
 
 Las operaciones de valorización se desagregan y codifican en las siguientes operaciones específicas:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Operación de Valorización</th>
-<th class="cabeza_tabla">Tipos de instalaciones de tratamiento (lista no exhaustiva)</th>
+<th>Operación de Valorización</th>
+<th>Tipos de instalaciones de tratamiento (lista no exhaustiva)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R01 Utilización principal como combustible u otro modo de producir energía<sup>(1).</sup></p>
+<td>
+<p>R01 Utilización principal como combustible u otro modo de producir energía<sup>(1).</sup></p>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0101 Utilización principal como combustible en instalaciones de incineración de residuos (combustión).</td>
-<td class="cuerpo_tabla_izq">Instalaciones de incineración de residuos domésticos cuando superen el umbral de eficiencia energética.</td>
+<td>R0101 Utilización principal como combustible en instalaciones de incineración de residuos (combustión).</td>
+<td>Instalaciones de incineración de residuos domésticos cuando superen el umbral de eficiencia energética.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0102 Utilización principal como combustible en instalaciones de gasificación, pirolisis, plasma, y otras tecnologías similares.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de gasificación, pirólisis y plasma cuando los compuestos obtenidos se utilicen como combustible o para producir energía.</td>
+<td>R0102 Utilización principal como combustible en instalaciones de gasificación, pirolisis, plasma, y otras tecnologías similares.</td>
+<td>Instalaciones de gasificación, pirólisis y plasma cuando los compuestos obtenidos se utilicen como combustible o para producir energía.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0103 Utilización principal como combustible en instalaciones de co-incineración: cementeras.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de producción de cemento.</td>
+<td>R0103 Utilización principal como combustible en instalaciones de co-incineración: cementeras.</td>
+<td>Instalaciones de producción de cemento.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0104 Utilización principal como combustible en instalaciones de co-incineración: combustión.</td>
-<td class="cuerpo_tabla_izq">Centrales térmicas.</td>
+<td>R0104 Utilización principal como combustible en instalaciones de co-incineración: combustión.</td>
+<td>Centrales térmicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0105 Utilización principal como combustible en otras instalaciones de co-incineración.</td>
-<td class="cuerpo_tabla_izq">Acerías, ladrilleras, azulejeras, etc.</td>
+<td>R0105 Utilización principal como combustible en otras instalaciones de co-incineración.</td>
+<td>Acerías, ladrilleras, azulejeras, etc.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R02 Recuperación o regeneración de disolventes.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>R02 Recuperación o regeneración de disolventes.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0201 Recuperación o regeneración de disolventes.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de regeneración de disolventes, por ejemplo por destilación.</td>
+<td>R0201 Recuperación o regeneración de disolventes.</td>
+<td>Instalaciones de regeneración de disolventes, por ejemplo por destilación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R03 Reciclado/recuperación de sustancias orgánicas que no se utilizan como disolventes (incluido el compostaje y otros procesos de transformación biológica).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>R03 Reciclado/recuperación de sustancias orgánicas que no se utilizan como disolventes (incluido el compostaje y otros procesos de transformación biológica).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0301 Compostaje.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de compostaje de biorresiduos y otros residuos compostables recogidos separadamente.</td>
+<td>R0301 Compostaje.</td>
+<td>Instalaciones de compostaje de biorresiduos y otros residuos compostables recogidos separadamente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0302 Digestión anaerobia.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de digestión anaerobia de biorresiduos y otros residuos digeribles anaeróbicamente recogidos separadamente.</td>
+<td>R0302 Digestión anaerobia.</td>
+<td>Instalaciones de digestión anaerobia de biorresiduos y otros residuos digeribles anaeróbicamente recogidos separadamente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0303 Valorización de aceites de cocina usados, grasas animales y otros aceites vegetales para la producción de biocarburantes.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de producción de biocarburantes a partir de aceites de cocina usados, grasas animales y otros aceites vegetales.</td>
+<td>R0303 Valorización de aceites de cocina usados, grasas animales y otros aceites vegetales para la producción de biocarburantes.</td>
+<td>Instalaciones de producción de biocarburantes a partir de aceites de cocina usados, grasas animales y otros aceites vegetales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0304 Reciclado de residuos de papel para la producción de pasta para la fabricación de papel.</td>
-<td class="cuerpo_tabla_izq">Instalaciones que producen pasta de papel a partir de residuos de papel.</td>
+<td>R0304 Reciclado de residuos de papel para la producción de pasta para la fabricación de papel.</td>
+<td>Instalaciones que producen pasta de papel a partir de residuos de papel.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0305 Reciclado de residuos orgánicos en la fabricación de nuevos productos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones que fabrican nuevos productos a partir de:</p>
-<p class="cuerpo_tabla_izq">– Granza, escama u otros formatos de residuos de plásticos tratados.</p>
-<p class="cuerpo_tabla_izq">– caucho procedente de neumáticos al final de su vida útil.</p>
-<p class="cuerpo_tabla_izq">– residuos textiles.</p>
-<p class="cuerpo_tabla_izq">– residuos de madera, por ejemplo para la producción de tableros de madera, etc.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0306 Reciclado de residuos orgánicos mediante gasificación, pirólisis, y otras tecnologías similares, siempre que los compuestos obtenidos se utilicen como elementos químicos en un proceso posterior de producción de nuevas sustancias<sup>(2)</sup>. No se incluye la obtención de combustibles.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de gasificación o pirólisis que obtengan elementos químicos que se utilicen en un proceso posterior de producción de nuevas sustancias que no se vayan a usar como combustibles.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0307 Reciclado de residuos orgánicos para la producción de materiales o sustancias.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones que obtienen granza o escama u otros formatos de plástico a partir del tratamiento de residuos de plásticos cuando el material alcance el fin de la condición de residuo.</p>
-<p class="cuerpo_tabla_izq">Instalaciones que obtienen caucho a partir de neumáticos al final de su vida útil cuando el material alcance el fin de la condición de residuo.</p>
+<td>R0305 Reciclado de residuos orgánicos en la fabricación de nuevos productos.</td>
+<td>
+<p>Instalaciones que fabrican nuevos productos a partir de:</p>
+<p>– Granza, escama u otros formatos de residuos de plásticos tratados.</p>
+<p>– caucho procedente de neumáticos al final de su vida útil.</p>
+<p>– residuos textiles.</p>
+<p>– residuos de madera, por ejemplo para la producción de tableros de madera, etc.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R0308 Valorización de residuos orgánicos para la obtención de fracciones combustibles en operaciones diferentes al código R0303.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Producción de fuel recuperado a partir de residuos MARPOL para su uso como combustible cuando el material obtenido alcance el fin de la condición de residuo.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de gasificación y pirólisis, y cualquier otra tecnología disponible diferente de lo indicado en el R0303, cuando los compuestos obtenidos se utilicen como elementos químicos en un.</p>
-<p class="cuerpo_tabla_izq">proceso posterior de obtención de combustibles.</p>
-</td>
+<td>R0306 Reciclado de residuos orgánicos mediante gasificación, pirólisis, y otras tecnologías similares, siempre que los compuestos obtenidos se utilicen como elementos químicos en un proceso posterior de producción de nuevas sustancias<sup>(2)</sup>. No se incluye la obtención de combustibles.</td>
+<td>Instalaciones de gasificación o pirólisis que obtengan elementos químicos que se utilicen en un proceso posterior de producción de nuevas sustancias que no se vayan a usar como combustibles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0309 Preparación para la reutilización de sustancias orgánicas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de preparación para la reutilización de:</p>
-<p class="cuerpo_tabla_izq">– Envases de plástico o de otras sustancias orgánicas.</p>
-<p class="cuerpo_tabla_izq">– Residuos de madera.</p>
-<p class="cuerpo_tabla_izq">– Residuos textiles.</p>
-<p class="cuerpo_tabla_izq">– Neumáticos fuera de uso (recauchutado y otras formas de acondicionamiento).</p>
-<p class="cuerpo_tabla_izq">– Piezas y componentes orgánicos de vehículos fuera de uso.</p>
-<p class="cuerpo_tabla_izq">– Piezas y componentes orgánicos de residuos de aparatos eléctricos y electrónicos.</p>
+<td>R0307 Reciclado de residuos orgánicos para la producción de materiales o sustancias.</td>
+<td>
+<p>Instalaciones que obtienen granza o escama u otros formatos de plástico a partir del tratamiento de residuos de plásticos cuando el material alcance el fin de la condición de residuo.</p>
+<p>Instalaciones que obtienen caucho a partir de neumáticos al final de su vida útil cuando el material alcance el fin de la condición de residuo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0310 Recuperación de sustancias orgánicas contenidas en los residuos mediante tratamientos diferentes a los anteriores.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de biodegradación de plástico para la obtención de sustancias orgánicas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R04 Reciclado o recuperación de metales y de compuestos metálicos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0401 Reciclado de chatarra y residuos metálicos en hornos de fundición.</td>
-<td class="cuerpo_tabla_izq">Fundiciones, acerías, etc.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0402 Recuperación de metales a partir de residuos que contengan metales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de:</p>
-<p class="cuerpo_tabla_izq">– Recuperación de plomo por segunda fusión.</p>
-<p class="cuerpo_tabla_izq">– Recuperación de metales preciosos, incluida la plata.</p>
-<p class="cuerpo_tabla_izq">– Recuperación de metales mediante el tratamiento de lodos de galvanoplastia.</p>
-<p class="cuerpo_tabla_izq">– Recuperación de metales a partir de otros residuos que contengan metales.</p>
+<td>
+<p>R0308 Valorización de residuos orgánicos para la obtención de fracciones combustibles en operaciones diferentes al código R0303.</p>
+</td>
+<td>
+<p>Producción de fuel recuperado a partir de residuos MARPOL para su uso como combustible cuando el material obtenido alcance el fin de la condición de residuo.</p>
+<p>Instalaciones de gasificación y pirólisis, y cualquier otra tecnología disponible diferente de lo indicado en el R0303, cuando los compuestos obtenidos se utilicen como elementos químicos en un.</p>
+<p>proceso posterior de obtención de combustibles.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0403 Reciclado de residuos metálicos para la obtención de chatarra.</td>
-<td class="cuerpo_tabla_izq">Instalaciones que obtienen chatarra a partir de residuos metálicos cuando el material obtenido alcance el fin de la condición de residuo.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0404 Preparación para la reutilización de residuos de metales y compuestos metálicos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de preparación para la reutilización de:</p>
-<p class="cuerpo_tabla_izq">– Envases de metal o compuestos metálicos.</p>
-<p class="cuerpo_tabla_izq">– Residuos de aparatos eléctricos y electrónicos.</p>
-<p class="cuerpo_tabla_izq">– Piezas y componentes metálicos de vehículos fuera de uso.</p>
+<td>R0309 Preparación para la reutilización de sustancias orgánicas.</td>
+<td>
+<p>Instalaciones de preparación para la reutilización de:</p>
+<p>– Envases de plástico o de otras sustancias orgánicas.</p>
+<p>– Residuos de madera.</p>
+<p>– Residuos textiles.</p>
+<p>– Neumáticos fuera de uso (recauchutado y otras formas de acondicionamiento).</p>
+<p>– Piezas y componentes orgánicos de vehículos fuera de uso.</p>
+<p>– Piezas y componentes orgánicos de residuos de aparatos eléctricos y electrónicos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R05 Reciclado o recuperación de otras materias inorgánicas<sup>(3).</sup></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>R0310 Recuperación de sustancias orgánicas contenidas en los residuos mediante tratamientos diferentes a los anteriores.</td>
+<td>Instalaciones de biodegradación de plástico para la obtención de sustancias orgánicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0501 Reciclado de ácidos o bases para la obtención de otras sustancias químicas que se utilicen posteriormente en otros procesos.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de reciclado de ácido sulfúrico usado para la obtención de anhídrido sulfúrico.</td>
+<td>R04 Reciclado o recuperación de metales y de compuestos metálicos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0502 Descontaminación de suelos excavados que dé como resultado la valorización del suelo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de descontaminación de suelos (on site y off site).</p>
+<td>R0401 Reciclado de chatarra y residuos metálicos en hornos de fundición.</td>
+<td>Fundiciones, acerías, etc.</td>
+</tr>
+<tr>
+<td>R0402 Recuperación de metales a partir de residuos que contengan metales.</td>
+<td>
+<p>Instalaciones de:</p>
+<p>– Recuperación de plomo por segunda fusión.</p>
+<p>– Recuperación de metales preciosos, incluida la plata.</p>
+<p>– Recuperación de metales mediante el tratamiento de lodos de galvanoplastia.</p>
+<p>– Recuperación de metales a partir de otros residuos que contengan metales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0503 Reciclado de residuos de vidrio (calcín) para la fabricación de vidrio u otros productos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de producción de vidrio a partir de residuos de vidrio (calcín).</p>
-<p class="cuerpo_tabla_izq">Instalaciones en las que se utiliza el calcín en la fabricación de productos con fines ornamentales.</p>
+<td>R0403 Reciclado de residuos metálicos para la obtención de chatarra.</td>
+<td>Instalaciones que obtienen chatarra a partir de residuos metálicos cuando el material obtenido alcance el fin de la condición de residuo.</td>
+</tr>
+<tr>
+<td>R0404 Preparación para la reutilización de residuos de metales y compuestos metálicos.</td>
+<td>
+<p>Instalaciones de preparación para la reutilización de:</p>
+<p>– Envases de metal o compuestos metálicos.</p>
+<p>– Residuos de aparatos eléctricos y electrónicos.</p>
+<p>– Piezas y componentes metálicos de vehículos fuera de uso.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R0504 Reciclado de residuos de vidrio para la producción de calcín.</p>
-</td>
-<td class="cuerpo_tabla_izq">Instalaciones de trituración de residuos de vidrio en las que el calcín alcanza el fin de la condición de residuo.</td>
+<td>R05 Reciclado o recuperación de otras materias inorgánicas<sup>(3).</sup></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0505 Reciclado de residuos inorgánicos en sustitución de materias primas para la fabricación de cemento.</td>
-<td class="cuerpo_tabla_izq">Cementeras que utilicen áridos de RCDs o tierras de excavación, etc. para la fabricación de cemento.</td>
+<td>R0501 Reciclado de ácidos o bases para la obtención de otras sustancias químicas que se utilicen posteriormente en otros procesos.</td>
+<td>Instalaciones de reciclado de ácido sulfúrico usado para la obtención de anhídrido sulfúrico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R0506 Valorización de residuos inorgánicos para la producción de áridos.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de producción de áridos a partir de RCDs, de escorias negras de acerías de hornos de arco eléctrico de otros residuos inorgánicos cuando el material obtenido alcance el fin de la condición de residuo.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0507 Reciclado de residuos inorgánicos en sustitución de materias primas en otros procesos de fabricación.</td>
-<td class="cuerpo_tabla_izq">Utilización de áridos de RCDs, tierras de excavación, etc. en sustitución de materias primas en procesos de fabricación distintos de la fabricación de cemento.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0508 Valorización de materiales inorgánicos en operaciones de relleno (backfilling).</td>
-<td class="cuerpo_tabla_izq">Relleno con residuos no peligrosos adecuados en restauraciones de huecos mineros, con fines constructivos, de acondicionamiento, y en restauración e ingeniería paisajística.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0509 Valorización de materiales inorgánicos en operaciones distintas a las de relleno.</td>
-<td class="cuerpo_tabla_izq">Uso de residuos no peligrosos adecuados en acondicionamiento de vertederos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0510 Recuperación de sustancias inorgánicas contenidas en los residuos mediante operaciones diferentes a las anteriores.</td>
-<td class="cuerpo_tabla_izq">Instalaciones que obtienen sustancias inorgánicas a partir de residuos para su uso en la fabricación de fertilizantes.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0511 Preparación para la reutilización de residuos inorgánicos.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de clasificación y limpieza de residuos obtenidos en la demolición selectiva tales como tejas, piedras, etc. para su reutilización.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R06 Regeneración de ácidos o de bases.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0601 Regeneración de ácidos o bases.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de regeneración de ácido sulfúrico.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de regeneración de otros ácidos y bases.</p>
+<td>R0502 Descontaminación de suelos excavados que dé como resultado la valorización del suelo.</td>
+<td>
+<p>Instalaciones de descontaminación de suelos (on site y off site).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R07 Valorización de componentes utilizados para reducir la contaminación.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0701 Regeneración de carbón activo.</td>
-<td class="cuerpo_tabla_izq">Plantas de regeneración de carbón activo usado.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0702 Regeneración de resinas de intercambio iónico.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0703 Regeneración de otros componentes utilizados para reducir la contaminación.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R08 Valorización de componentes procedentes de catalizadores.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0801 Valorización de componentes procedentes de catalizadores.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de valorización de catalizadores usados basados en aluminio en la industria cementera.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R09 Regeneración u otro nuevo empleo de aceites.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0901 Regeneración de aceites usados para la obtención de aceites base lubricantes.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de regeneración de aceites usados.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0902 Reciclado de aceite usado para otros usos.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento del aceite usado para su preparación como aceite de desmoldeo o como lubricante en sistemas hidráulicos y maquinaria de corte.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R0903 Valorización de aceites industriales usados para la obtención de fracciones combustibles.</td>
-<td class="cuerpo_tabla_izq">Obtención de aceite usado procesado a partir de aceites industriales usados para su uso como combustible cuando el material obtenido alcance el fin de la condición de residuo.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R10 Tratamiento de suelos que produzca un beneficio a la agricultura o una mejora ecológica a los mismos.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1001 Valorización de residuos en suelos agrícolas y en jardinería.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1002 Valorización de residuos para la restauración de suelos degradados.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R11 Utilización de residuos obtenidos a partir de cualquiera de las operaciones numeradas de R1 a R10.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1101Utilización de residuos obtenidos a partir de cualquiera de las operaciones numeradas de R1 a R10.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">R12 Intercambio de residuos para someterlos a cualquiera de las operaciones enumeradas de R1 a R11.</p>
-<p class="cuerpo_tabla_izq">Quedan aquí incluidas operaciones previas a la valorización, incluido el tratamiento previo, previas a cualquiera de las operaciones enumeradas de R1 a R11.</p>
-</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1201 Clasificación de residuos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de clasificación de envases.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de clasificación, separación y agrupación de RAEEs.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de clasificación de chatarra.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de clasificación de otros tipos de residuos (plásticos, papel/cartón, RCDs, neumáticos fuera de uso, etc.).</p>
+<td>R0503 Reciclado de residuos de vidrio (calcín) para la fabricación de vidrio u otros productos.</td>
+<td>
+<p>Instalaciones de producción de vidrio a partir de residuos de vidrio (calcín).</p>
+<p>Instalaciones en las que se utiliza el calcín en la fabricación de productos con fines ornamentales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1202 Desmontaje y separación de los distintos componentes de los residuos, incluida la retirada de sustancias peligrosas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de desmontaje de RAEE para la separación de piezas y componentes, incluida la retirada de sustancias (no componentes) como fluidos, aceites, espumas, etc.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento de vehículos fuera de uso (CAT).</p>
+<td>
+<p>R0504 Reciclado de residuos de vidrio para la producción de calcín.</p>
+</td>
+<td>Instalaciones de trituración de residuos de vidrio en las que el calcín alcanza el fin de la condición de residuo.</td>
+</tr>
+<tr>
+<td>R0505 Reciclado de residuos inorgánicos en sustitución de materias primas para la fabricación de cemento.</td>
+<td>Cementeras que utilicen áridos de RCDs o tierras de excavación, etc. para la fabricación de cemento.</td>
+</tr>
+<tr>
+<td>R0506 Valorización de residuos inorgánicos para la producción de áridos.</td>
+<td>Instalaciones de producción de áridos a partir de RCDs, de escorias negras de acerías de hornos de arco eléctrico de otros residuos inorgánicos cuando el material obtenido alcance el fin de la condición de residuo.</td>
+</tr>
+<tr>
+<td>R0507 Reciclado de residuos inorgánicos en sustitución de materias primas en otros procesos de fabricación.</td>
+<td>Utilización de áridos de RCDs, tierras de excavación, etc. en sustitución de materias primas en procesos de fabricación distintos de la fabricación de cemento.</td>
+</tr>
+<tr>
+<td>R0508 Valorización de materiales inorgánicos en operaciones de relleno (backfilling).</td>
+<td>Relleno con residuos no peligrosos adecuados en restauraciones de huecos mineros, con fines constructivos, de acondicionamiento, y en restauración e ingeniería paisajística.</td>
+</tr>
+<tr>
+<td>R0509 Valorización de materiales inorgánicos en operaciones distintas a las de relleno.</td>
+<td>Uso de residuos no peligrosos adecuados en acondicionamiento de vertederos.</td>
+</tr>
+<tr>
+<td>R0510 Recuperación de sustancias inorgánicas contenidas en los residuos mediante operaciones diferentes a las anteriores.</td>
+<td>Instalaciones que obtienen sustancias inorgánicas a partir de residuos para su uso en la fabricación de fertilizantes.</td>
+</tr>
+<tr>
+<td>R0511 Preparación para la reutilización de residuos inorgánicos.</td>
+<td>Instalaciones de clasificación y limpieza de residuos obtenidos en la demolición selectiva tales como tejas, piedras, etc. para su reutilización.</td>
+</tr>
+<tr>
+<td>R06 Regeneración de ácidos o de bases.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R0601 Regeneración de ácidos o bases.</td>
+<td>
+<p>Instalaciones de regeneración de ácido sulfúrico.</p>
+<p>Instalaciones de regeneración de otros ácidos y bases.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1203 Tratamiento mecánico (trituración, fragmentación, corte, compactación, etc.).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Prensado de papel y cartón.</p>
-<p class="cuerpo_tabla_izq">Instalaciones que obtienen granza, escama u otros formatos de plástico a partir de residuos de plásticos cuando el material obtenido no alcance el fin de la condición de residuo.</p>
-<p class="cuerpo_tabla_izq">Instalaciones que obtienen calcín a partir de residuos de vidrio cuando el material obtenido no alcance el fin de la condición de residuo.</p>
-<p class="cuerpo_tabla_izq">Instalaciones que obtienen chatarra a partir de residuos metálicos cuando el material obtenido no alcance el fin de la condición de residuo.</p>
+<td>R07 Valorización de componentes utilizados para reducir la contaminación.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R0701 Regeneración de carbón activo.</td>
+<td>Plantas de regeneración de carbón activo usado.</td>
+</tr>
+<tr>
+<td>R0702 Regeneración de resinas de intercambio iónico.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R0703 Regeneración de otros componentes utilizados para reducir la contaminación.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R08 Valorización de componentes procedentes de catalizadores.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R0801 Valorización de componentes procedentes de catalizadores.</td>
+<td>Instalaciones de valorización de catalizadores usados basados en aluminio en la industria cementera.</td>
+</tr>
+<tr>
+<td>R09 Regeneración u otro nuevo empleo de aceites.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R0901 Regeneración de aceites usados para la obtención de aceites base lubricantes.</td>
+<td>Instalaciones de regeneración de aceites usados.</td>
+</tr>
+<tr>
+<td>R0902 Reciclado de aceite usado para otros usos.</td>
+<td>Instalaciones de tratamiento del aceite usado para su preparación como aceite de desmoldeo o como lubricante en sistemas hidráulicos y maquinaria de corte.</td>
+</tr>
+<tr>
+<td>R0903 Valorización de aceites industriales usados para la obtención de fracciones combustibles.</td>
+<td>Obtención de aceite usado procesado a partir de aceites industriales usados para su uso como combustible cuando el material obtenido alcance el fin de la condición de residuo.</td>
+</tr>
+<tr>
+<td>R10 Tratamiento de suelos que produzca un beneficio a la agricultura o una mejora ecológica a los mismos.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R1001 Valorización de residuos en suelos agrícolas y en jardinería.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R1002 Valorización de residuos para la restauración de suelos degradados.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R11 Utilización de residuos obtenidos a partir de cualquiera de las operaciones numeradas de R1 a R10.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R1101Utilización de residuos obtenidos a partir de cualquiera de las operaciones numeradas de R1 a R10.</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>R12 Intercambio de residuos para someterlos a cualquiera de las operaciones enumeradas de R1 a R11.</p>
+<p>Quedan aquí incluidas operaciones previas a la valorización, incluido el tratamiento previo, previas a cualquiera de las operaciones enumeradas de R1 a R11.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>R1201 Clasificación de residuos.</td>
+<td>
+<p>Instalaciones de clasificación de envases.</p>
+<p>Instalaciones de clasificación, separación y agrupación de RAEEs.</p>
+<p>Instalaciones de clasificación de chatarra.</p>
+<p>Instalaciones de clasificación de otros tipos de residuos (plásticos, papel/cartón, RCDs, neumáticos fuera de uso, etc.).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1204 Mezclas para obtener una materia homogénea y estable de residuos para su valorización posterior.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de mezcla de residuos sólidos y semisólidos.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1205 Combinación de residuos líquidos con residuos líquidos o residuos sólidos.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de combinación de residuos sólidos y líquidos.</p>
+<td>R1202 Desmontaje y separación de los distintos componentes de los residuos, incluida la retirada de sustancias peligrosas.</td>
+<td>
+<p>Instalaciones de desmontaje de RAEE para la separación de piezas y componentes, incluida la retirada de sustancias (no componentes) como fluidos, aceites, espumas, etc.</p>
+<p>Instalaciones de tratamiento de vehículos fuera de uso (CAT).</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1206 Reenvasado, para agrupar los residuos en envases adecuados para preparar los residuos para tratamientos posteriores.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1207 Secado, desorción térmica y evaporación previo a la valorización del residuo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de secado término de lodos para su valorización posterior.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de desorción térmica de lodos para su valorización posterior.</p>
+<td>R1203 Tratamiento mecánico (trituración, fragmentación, corte, compactación, etc.).</td>
+<td>
+<p>Prensado de papel y cartón.</p>
+<p>Instalaciones que obtienen granza, escama u otros formatos de plástico a partir de residuos de plásticos cuando el material obtenido no alcance el fin de la condición de residuo.</p>
+<p>Instalaciones que obtienen calcín a partir de residuos de vidrio cuando el material obtenido no alcance el fin de la condición de residuo.</p>
+<p>Instalaciones que obtienen chatarra a partir de residuos metálicos cuando el material obtenido no alcance el fin de la condición de residuo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1208 Acondicionamiento de residuos para la obtención de fracciones combustibles.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de pretratamiento de residuos destinadas a la obtención de fracciones combustibles:</p>
-<p class="cuerpo_tabla_izq">– Instalaciones de pretratamiento de residuos domésticos mezclados, RCDs, aceites usados, residuos líquidos orgánicos, etc. para la obtención de fracciones combustibles.</p>
+<td>R1204 Mezclas para obtener una materia homogénea y estable de residuos para su valorización posterior.</td>
+<td>Instalaciones de mezcla de residuos sólidos y semisólidos.</td>
+</tr>
+<tr>
+<td>R1205 Combinación de residuos líquidos con residuos líquidos o residuos sólidos.</td>
+<td>
+<p>Instalaciones de combinación de residuos sólidos y líquidos.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1209 Acondicionamiento fisicoquímico de residuos para la valorización de sus componentes.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento fisicoquímico de residuos líquidos para la valorización de sus componentes.</td>
+<td>R1206 Reenvasado, para agrupar los residuos en envases adecuados para preparar los residuos para tratamientos posteriores.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1210 Esterilización, pasteurización, higienización.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1211 Estabilización biológica aerobia.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento mecánico biológico aerobio siempre que se destinen a valorización al menos el 50% en peso de los residuos entrantes.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1212 Estabilización biológica anaerobia.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento mecánico biológico anaerobio siempre que se destinen a valorización al menos el 50% en peso de los residuos entrantes.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1213 Peletización.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R13 Almacenamiento de residuos en espera de cualquiera de las operaciones numeradas de R1 a R12 (excluido el almacenamiento temporal, en espera de recogida, en el lugar donde se produjo el residuo).</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">R1301 Almacenamiento de residuos, en el ámbito de la recogida.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Puntos limpios (ecoparque, deixalleria, etc.).</p>
-<p class="cuerpo_tabla_izq">Instalaciones de transferencia de residuos.</p>
+<td>R1207 Secado, desorción térmica y evaporación previo a la valorización del residuo.</td>
+<td>
+<p>Instalaciones de secado término de lodos para su valorización posterior.</p>
+<p>Instalaciones de desorción térmica de lodos para su valorización posterior.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R1302 Almacenamiento de residuos, en el ámbito de tratamiento.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>R1208 Acondicionamiento de residuos para la obtención de fracciones combustibles.</td>
+<td>
+<p>Instalaciones de pretratamiento de residuos destinadas a la obtención de fracciones combustibles:</p>
+<p>– Instalaciones de pretratamiento de residuos domésticos mezclados, RCDs, aceites usados, residuos líquidos orgánicos, etc. para la obtención de fracciones combustibles.</p>
+</td>
+</tr>
+<tr>
+<td>R1209 Acondicionamiento fisicoquímico de residuos para la valorización de sus componentes.</td>
+<td>Instalaciones de tratamiento fisicoquímico de residuos líquidos para la valorización de sus componentes.</td>
+</tr>
+<tr>
+<td>R1210 Esterilización, pasteurización, higienización.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R1211 Estabilización biológica aerobia.</td>
+<td>Instalaciones de tratamiento mecánico biológico aerobio siempre que se destinen a valorización al menos el 50% en peso de los residuos entrantes.</td>
+</tr>
+<tr>
+<td>R1212 Estabilización biológica anaerobia.</td>
+<td>Instalaciones de tratamiento mecánico biológico anaerobio siempre que se destinen a valorización al menos el 50% en peso de los residuos entrantes.</td>
+</tr>
+<tr>
+<td>R1213 Peletización.</td>
+<td> </td>
+</tr>
+<tr>
+<td>R13 Almacenamiento de residuos en espera de cualquiera de las operaciones numeradas de R1 a R12 (excluido el almacenamiento temporal, en espera de recogida, en el lugar donde se produjo el residuo).</td>
+<td> </td>
+</tr>
+<tr>
+<td>R1301 Almacenamiento de residuos, en el ámbito de la recogida.</td>
+<td>
+<p>Puntos limpios (ecoparque, deixalleria, etc.).</p>
+<p>Instalaciones de transferencia de residuos.</p>
+</td>
+</tr>
+<tr>
+<td>R1302 Almacenamiento de residuos, en el ámbito de tratamiento.</td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) Se incluyen aquí las instalaciones de incineración destinadas al tratamiento de residuos domésticos sólo cuando su eficiencia energética resulte igual o superior a:</p>
-<p class="cita">– 0,60 tratándose de instalaciones en funcionamiento y autorizadas conforme a la legislación comunitaria aplicable desde antes del 1 de enero de 2009;</p>
-<p class="cita">–0,65 tratándose de instalaciones autorizadas después del 31 de diciembre de 2008.</p>
-<p class="cita"> Aplicando la siguiente fórmula:</p>
-<p class="cita"> Eficiencia energética = [Ep –(Ef + Ei)] / [0,97 × (Ew + Ef)]</p>
-<p class="cita"> Donde:</p>
-<p class="cita"> Ep es la energía anual producida como calor o electricidad, que se calcula multiplicando la energía en forma de electricidad por 2,6 y el calor producido para usos comerciales por 1,1 (GJ/año).</p>
-<p class="cita"> Ef es la aportación anual de energía al sistema a partir de los combustibles que contribuyen a la producción de vapor (GJ/año).</p>
-<p class="cita"> Ew es la energía anual contenida en los residuos tratados, calculada utilizando el poder calorífico neto de los residuos (GJ/año).</p>
-<p class="cita"> Ei es la energía anual importada excluyendo Ew y Ef (GJ/año).</p>
-<p class="cita"> 0,97 es un factor que representa las pérdidas de energía debidas a las cenizas de fondo y la radiación.</p>
-<p class="cita"> Esta fórmula se aplicará de conformidad con el Documento de Referencia sobre las Mejores Técnicas Disponibles para la incineración de residuos</p>
-<p class="cita"> El valor de la fórmula de eficiencia energética se multiplicará por el factor de corrección climático (CCF), como se indica a continuación:</p>
-<p class="cita"> 1. CCF aplicable a las instalaciones en funcionamiento y autorizadas desde antes del 1 de septiembre de 2015 conforme a la legislación vigente de la Unión.</p>
-<p class="cita"> CCF = 1 si HDD ≥ 3 350</p>
-<p class="cita"> CCF = 1,25 si HDD ≤ 2 150</p>
-<p class="cita"> CCF = – (0,25/1 200) × HDD + 1,698 si 2 150 &lt; HDD &lt; 3 350</p>
-<p class="cita"> 2. CCF aplicable a las instalaciones autorizadas después del 31 de agosto de 2015 y a las instalaciones contempladas en el punto 1, después del 31 de diciembre de 2029:</p>
-<p class="cita"> CCF = 1 si HDD ≥ 3 350</p>
-<p class="cita"> CCF = 1,12 si HDD ≤ 2 150</p>
-<p class="cita"> CCF = – (0,12/1 200) × HDD + 1,335 si 2 150 &lt; HDD &lt; 3 350</p>
-<p class="cita"> (El valor resultante del CCF se redondeará al tercer decimal).</p>
-<p class="cita"> El valor de HDD (grados-días de calefacción) debe considerarse la media de los valores anuales de HDD del lugar donde se ubica la instalación de incineración, calculado durante un período de veinte años consecutivos anterior al año en el que se calcula el CCF. Para calcular el valor de HDD, debe aplicarse el siguiente método establecido por Eurostat: HDD es igual a (18 °C – Tm) × d si Tm es inferior o igual a 15 °C (umbral de calefacción) y es nulo si Tm es superior a 15 °C, considerando que Tm es la temperatura media (Tmin + Tmax/2) exterior durante un período de d días. Los cálculos deben realizarse sobre una base diaria (d = 1) durante un período total de un año.</p>
-<p class="cita"><sup>(2)</sup> Esto incluye la gasificación y la pirólisis que utilizan los componentes como elementos químicos</p>
-<p class="cita"><sup>(3)</sup> Esto incluye la descontaminación y recuperación del suelo que tenga como resultado la valorización del suelo y el reciclado de materiales de construcción inorgánicos.</p>
+<p>(1) Se incluyen aquí las instalaciones de incineración destinadas al tratamiento de residuos domésticos sólo cuando su eficiencia energética resulte igual o superior a:</p>
+<p>– 0,60 tratándose de instalaciones en funcionamiento y autorizadas conforme a la legislación comunitaria aplicable desde antes del 1 de enero de 2009;</p>
+<p>–0,65 tratándose de instalaciones autorizadas después del 31 de diciembre de 2008.</p>
+<p> Aplicando la siguiente fórmula:</p>
+<p> Eficiencia energética = [Ep –(Ef + Ei)] / [0,97 × (Ew + Ef)]</p>
+<p> Donde:</p>
+<p> Ep es la energía anual producida como calor o electricidad, que se calcula multiplicando la energía en forma de electricidad por 2,6 y el calor producido para usos comerciales por 1,1 (GJ/año).</p>
+<p> Ef es la aportación anual de energía al sistema a partir de los combustibles que contribuyen a la producción de vapor (GJ/año).</p>
+<p> Ew es la energía anual contenida en los residuos tratados, calculada utilizando el poder calorífico neto de los residuos (GJ/año).</p>
+<p> Ei es la energía anual importada excluyendo Ew y Ef (GJ/año).</p>
+<p> 0,97 es un factor que representa las pérdidas de energía debidas a las cenizas de fondo y la radiación.</p>
+<p> Esta fórmula se aplicará de conformidad con el Documento de Referencia sobre las Mejores Técnicas Disponibles para la incineración de residuos</p>
+<p> El valor de la fórmula de eficiencia energética se multiplicará por el factor de corrección climático (CCF), como se indica a continuación:</p>
+<p> 1. CCF aplicable a las instalaciones en funcionamiento y autorizadas desde antes del 1 de septiembre de 2015 conforme a la legislación vigente de la Unión.</p>
+<p> CCF = 1 si HDD ≥ 3 350</p>
+<p> CCF = 1,25 si HDD ≤ 2 150</p>
+<p> CCF = – (0,25/1 200) × HDD + 1,698 si 2 150 &lt; HDD &lt; 3 350</p>
+<p> 2. CCF aplicable a las instalaciones autorizadas después del 31 de agosto de 2015 y a las instalaciones contempladas en el punto 1, después del 31 de diciembre de 2029:</p>
+<p> CCF = 1 si HDD ≥ 3 350</p>
+<p> CCF = 1,12 si HDD ≤ 2 150</p>
+<p> CCF = – (0,12/1 200) × HDD + 1,335 si 2 150 &lt; HDD &lt; 3 350</p>
+<p> (El valor resultante del CCF se redondeará al tercer decimal).</p>
+<p> El valor de HDD (grados-días de calefacción) debe considerarse la media de los valores anuales de HDD del lugar donde se ubica la instalación de incineración, calculado durante un período de veinte años consecutivos anterior al año en el que se calcula el CCF. Para calcular el valor de HDD, debe aplicarse el siguiente método establecido por Eurostat: HDD es igual a (18 °C – Tm) × d si Tm es inferior o igual a 15 °C (umbral de calefacción) y es nulo si Tm es superior a 15 °C, considerando que Tm es la temperatura media (Tmin + Tmax/2) exterior durante un período de d días. Los cálculos deben realizarse sobre una base diaria (d = 1) durante un período total de un año.</p>
+<p><sup>(2)</sup> Esto incluye la gasificación y la pirólisis que utilizan los componentes como elementos químicos</p>
+<p><sup>(3)</sup> Esto incluye la descontaminación y recuperación del suelo que tenga como resultado la valorización del suelo y el reciclado de materiales de construcción inorgánicos.</p>
 </td>
 </tr>
 </tfoot>
@@ -3989,220 +3954,216 @@ Las operaciones de valorización se desagregan y codifican en las siguientes ope
 
 Las operaciones de eliminación se desagregan y codifican en las siguientes operaciones específicas:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Operación de eliminación</th>
-<th class="cabeza_tabla">Tipos de instalaciones de tratamiento (lista no exhaustiva)</th>
+<th>Operación de eliminación</th>
+<th>Tipos de instalaciones de tratamiento (lista no exhaustiva)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">D01 Depósito sobre el suelo o en su interior (por ejemplo, vertido, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D01 Depósito sobre el suelo o en su interior (por ejemplo, vertido, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0101 Depósito sobre el suelo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Depósito de residuos sólidos (por ejemplo residuos de roca) en pilas.</p>
-<p class="cuerpo_tabla_izq">Depósitos de tierras naturales cuya valorización no sea factible.</p>
+<td>D0101 Depósito sobre el suelo.</td>
+<td>
+<p>Depósito de residuos sólidos (por ejemplo residuos de roca) en pilas.</p>
+<p>Depósitos de tierras naturales cuya valorización no sea factible.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0102 Depósito en el interior del suelo.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D0102 Depósito en el interior del suelo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D02 Tratamiento en medio terrestre (por ejemplo, biodegradación de residuos líquidos o lodos en el suelo, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D02 Tratamiento en medio terrestre (por ejemplo, biodegradación de residuos líquidos o lodos en el suelo, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0201 Tratamiento en medio terrestre.</td>
-<td class="cuerpo_tabla_izq">Aplicación de residuos líquidos o semisólidos al suelo para su degradación sin que se produzca beneficio para la agricultura u otras mejoras ecológicas.</td>
+<td>D0201 Tratamiento en medio terrestre.</td>
+<td>Aplicación de residuos líquidos o semisólidos al suelo para su degradación sin que se produzca beneficio para la agricultura u otras mejoras ecológicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D03 Inyección en profundidad (por ejemplo, inyección de residuos bombeables en pozos, minas de sal o almacenes geológicos naturales, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D03 Inyección en profundidad (por ejemplo, inyección de residuos bombeables en pozos, minas de sal o almacenes geológicos naturales, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0301 Inyección en profundidad.</td>
-<td class="cuerpo_tabla_izq">Inyección de residuos bombeables en cavidades naturales (formaciones de rocas porosas, domos salinos, etc.) o artificiales (pozos, minas de sal, etc.).</td>
+<td>D0301 Inyección en profundidad.</td>
+<td>Inyección de residuos bombeables en cavidades naturales (formaciones de rocas porosas, domos salinos, etc.) o artificiales (pozos, minas de sal, etc.).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D04 Embalse superficial (por ejemplo, vertido de residuos líquidos o lodos en pozos, estanques o lagunas, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D04 Embalse superficial (por ejemplo, vertido de residuos líquidos o lodos en pozos, estanques o lagunas, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0401Embalse superficial.</td>
-<td class="cuerpo_tabla_izq">Confinamiento de residuos líquidos o semilíquidos en balsas naturales o artificiales, fosas y lagunas.</td>
+<td>D0401Embalse superficial.</td>
+<td>Confinamiento de residuos líquidos o semilíquidos en balsas naturales o artificiales, fosas y lagunas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D05 Depósito controlado en lugares especialmente diseñados (por ejemplo, colocación en celdas estancas separadas, recubiertas y aisladas entre sí y del medio ambiente).</td>
-<td class="cuerpo_tabla_izq">Se incluyen en esta operación los vertederos construidos de acuerdo con el Real Decreto 646/2020, de 7 de julio.</td>
+<td>D05 Depósito controlado en lugares especialmente diseñados (por ejemplo, colocación en celdas estancas separadas, recubiertas y aisladas entre sí y del medio ambiente).</td>
+<td>Se incluyen en esta operación los vertederos construidos de acuerdo con el Real Decreto 646/2020, de 7 de julio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0501 Depósito en vertederos de residuos inertes.</td>
-<td class="cuerpo_tabla_izq">Vertederos de residuos inertes.</td>
+<td>D0501 Depósito en vertederos de residuos inertes.</td>
+<td>Vertederos de residuos inertes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0502 Depósito en vertederos de residuos no peligrosos.</td>
-<td class="cuerpo_tabla_izq">Vertederos de residuos no peligrosos.</td>
+<td>D0502 Depósito en vertederos de residuos no peligrosos.</td>
+<td>Vertederos de residuos no peligrosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0503 Depósito en vertederos de residuos peligrosos.</td>
-<td class="cuerpo_tabla_izq">Vertederos de residuos peligrosos.</td>
+<td>D0503 Depósito en vertederos de residuos peligrosos.</td>
+<td>Vertederos de residuos peligrosos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D06 Vertido en medio acuático salvo en el mar.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D06 Vertido en medio acuático salvo en el mar.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0601 Vertido en medio acuático salvo en el mar.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D0601 Vertido en medio acuático salvo en el mar.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D07 Vertido en el mar, incluida la inserción en el lecho marino.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D07 Vertido en el mar, incluida la inserción en el lecho marino.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0701 Vertido en el mar, incluida la inserción en el lecho marino.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Descarga de residuos del procesamiento de pescado y materiales inertes de origen natural de acuerdo con la Convención OSPAR.</p>
-<p class="cuerpo_tabla_izq">Inyección de salmueras.</p>
+<td>D0701 Vertido en el mar, incluida la inserción en el lecho marino.</td>
+<td>
+<p>Descarga de residuos del procesamiento de pescado y materiales inertes de origen natural de acuerdo con la Convención OSPAR.</p>
+<p>Inyección de salmueras.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D08 Tratamiento biológico no especificado en otros apartados del presente anexo que dé como resultado compuestos o mezclas que se eliminen mediante cualquiera de las operaciones numeradas D1 a D12.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento biológico aerobio o anaerobio destinadas a preparar el residuo para su eliminación posterior.</td>
+<td>D08 Tratamiento biológico no especificado en otros apartados del presente anexo que dé como resultado compuestos o mezclas que se eliminen mediante cualquiera de las operaciones numeradas D1 a D12.</td>
+<td>Instalaciones de tratamiento biológico aerobio o anaerobio destinadas a preparar el residuo para su eliminación posterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0801 Tratamiento Biológico aerobio.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento biológico de residuos líquidos.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento mecánico biológico aerobio cuando se destine a eliminación más del 50% en peso de los residuos entrantes.</p>
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento biológico de suelos contaminados excavados, lodos u otros residuos biodegradables para su eliminación.</p>
+<td>D0801 Tratamiento Biológico aerobio.</td>
+<td>
+<p>Instalaciones de tratamiento biológico de residuos líquidos.</p>
+<p>Instalaciones de tratamiento mecánico biológico aerobio cuando se destine a eliminación más del 50% en peso de los residuos entrantes.</p>
+<p>Instalaciones de tratamiento biológico de suelos contaminados excavados, lodos u otros residuos biodegradables para su eliminación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0802 Tratamiento Biológico anaerobio.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento mecánico biológico anaerobio cuando se destine a eliminación más del 50% en peso de los residuos entrantes.</td>
+<td>D0802 Tratamiento Biológico anaerobio.</td>
+<td>Instalaciones de tratamiento mecánico biológico anaerobio cuando se destine a eliminación más del 50% en peso de los residuos entrantes.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D09 Tratamiento físico-químico no especificado en otros apartados del presente anexo y que dé como resultado compuestos o mezclas que se eliminen mediante uno de los procedimientos numerados D1 a D12.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento de residuos por procesos químicos, físicos y térmicos para su eliminación posterior.</td>
+<td>D09 Tratamiento físico-químico no especificado en otros apartados del presente anexo y que dé como resultado compuestos o mezclas que se eliminen mediante uno de los procedimientos numerados D1 a D12.</td>
+<td>Instalaciones de tratamiento de residuos por procesos químicos, físicos y térmicos para su eliminación posterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0901 Tratamiento físico-químico de residuos líquidos, sólidos y pastosos por filtración, cribado, coagulación/floculación, oxidación/reducción, precipitación, decantación/centrifugación, neutralización, destilación, extracción.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de tratamiento fisicoquímico de residuos previo a su eliminación.</td>
+<td>D0901 Tratamiento físico-químico de residuos líquidos, sólidos y pastosos por filtración, cribado, coagulación/floculación, oxidación/reducción, precipitación, decantación/centrifugación, neutralización, destilación, extracción.</td>
+<td>Instalaciones de tratamiento fisicoquímico de residuos previo a su eliminación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0902 Inmovilización (incluyendo la estabilización fisicoquímica y la solidificación).</td>
-<td class="cuerpo_tabla_izq">Instalaciones de inmovilización de residuos peligrosos mediante estabilización fisicoquímica o solidificación.</td>
+<td>D0902 Inmovilización (incluyendo la estabilización fisicoquímica y la solidificación).</td>
+<td>Instalaciones de inmovilización de residuos peligrosos mediante estabilización fisicoquímica o solidificación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0903 Esterilización.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de esterilización de residuos sanitarios.</td>
+<td>D0903 Esterilización.</td>
+<td>Instalaciones de esterilización de residuos sanitarios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0904 Evaporación.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de separación de la fracción acuosa de residuos líquidos previo a su eliminación.</td>
+<td>D0904 Evaporación.</td>
+<td>Instalaciones de separación de la fracción acuosa de residuos líquidos previo a su eliminación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0905 Secado térmico.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de secado térmico de lodos u otros residuos previo a su eliminación.</td>
+<td>D0905 Secado térmico.</td>
+<td>Instalaciones de secado térmico de lodos u otros residuos previo a su eliminación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0906 Desorción térmica.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D0906 Desorción térmica.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D0907 Otros tratamientos fisicoquímicos distintos de los especificados en las operaciones numeradas D0901 a D0906.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D0907 Otros tratamientos fisicoquímicos distintos de los especificados en las operaciones numeradas D0901 a D0906.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D10 Incineración en tierra.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D10 Incineración en tierra.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1001 Incineración en tierra.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Incineradoras de residuos municipales que no superen el valor de eficiencia energética.</p>
-<p class="cuerpo_tabla_izq">Incineradoras de residuos sanitarios, residuos peligrosos, subproductos animales, etc.</p>
-<p class="cuerpo_tabla_izq">Incineración de residuos en instalaciones de co-incineración cuando el residuo no se utiliza como combustible.</p>
+<td>D1001 Incineración en tierra.</td>
+<td>
+<p>Incineradoras de residuos municipales que no superen el valor de eficiencia energética.</p>
+<p>Incineradoras de residuos sanitarios, residuos peligrosos, subproductos animales, etc.</p>
+<p>Incineración de residuos en instalaciones de co-incineración cuando el residuo no se utiliza como combustible.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D11 Incineración en el mar<sup>(4).</sup></td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D11 Incineración en el mar<sup>(4).</sup></td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1101 Incineración en el mar.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D1101 Incineración en el mar.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D12 Almacenamiento permanente (por ejemplo: colocación de contenedores en una mina, etc.).</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D12 Almacenamiento permanente (por ejemplo: colocación de contenedores en una mina, etc.).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1201Almacenamiento permanente.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Colocación de contenedores en una mina.</p>
-<p class="cuerpo_tabla_izq">Depósitos subterráneos de residuos conforme al Real Decreto 646/2020, de 7 de julio.</p>
+<td>D1201Almacenamiento permanente.</td>
+<td>
+<p>Colocación de contenedores en una mina.</p>
+<p>Depósitos subterráneos de residuos conforme al Real Decreto 646/2020, de 7 de julio.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D13 Combinación o mezcla previa a su eliminación mediante cualquiera de las operaciones numeradas D1 a D12.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D13 Combinación o mezcla previa a su eliminación mediante cualquiera de las operaciones numeradas D1 a D12.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1301 Clasificación de residuos.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de clasificación de residuos para su eliminación posterior.</td>
+<td>D1301 Clasificación de residuos.</td>
+<td>Instalaciones de clasificación de residuos para su eliminación posterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1302 Separación de los distintos componentes de los residuos, incluida la retirada de sustancias peligrosas.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de separación de componentes de residuos, incluida la retirada de sustancias (no componentes) para su eliminación posterior.</td>
+<td>D1302 Separación de los distintos componentes de los residuos, incluida la retirada de sustancias peligrosas.</td>
+<td>Instalaciones de separación de componentes de residuos, incluida la retirada de sustancias (no componentes) para su eliminación posterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1303 Tratamiento mecánico (trituración, fragmentación, corte, compactación, etc.).</td>
-<td class="cuerpo_tabla_izq">Instalaciones de trituración de residuos para su eliminación posterior.</td>
+<td>D1303 Tratamiento mecánico (trituración, fragmentación, corte, compactación, etc.).</td>
+<td>Instalaciones de trituración de residuos para su eliminación posterior.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1304 Peletización.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D1304 Peletización.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1305 Otros tratamientos de combinación o mezcla distintos de los anteriores.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de secado, acondicionamiento o mezcla.</td>
+<td>D1305 Otros tratamientos de combinación o mezcla distintos de los anteriores.</td>
+<td>Instalaciones de secado, acondicionamiento o mezcla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D14 Reenvasado previo a cualquiera de las operaciones numeradas D1 a D13.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D14 Reenvasado previo a cualquiera de las operaciones numeradas D1 a D13.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1401 Reenvasado de residuos previo a su eliminación mediante cualquiera de las operaciones numeradas D1 a D13.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de reenvasado de residuos para su posterior tratamiento previo a su eliminación.</td>
+<td>D1401 Reenvasado de residuos previo a su eliminación mediante cualquiera de las operaciones numeradas D1 a D13.</td>
+<td>Instalaciones de reenvasado de residuos para su posterior tratamiento previo a su eliminación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D15 Almacenamiento en espera de cualquiera de las operaciones numeradas D1 a D14 excluido el almacenamiento temporal en espera de recogida en el lugar en que se produjo el residuo.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>D15 Almacenamiento en espera de cualquiera de las operaciones numeradas D1 a D14 excluido el almacenamiento temporal en espera de recogida en el lugar en que se produjo el residuo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1501 Almacenamiento, en el ámbito de la recogida.</td>
-<td class="cuerpo_tabla_izq">Puntos limpios.</td>
+<td>D1501 Almacenamiento, en el ámbito de la recogida.</td>
+<td>Puntos limpios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D1502 Almacenamiento, en el ámbito del tratamiento.</td>
-<td class="cuerpo_tabla_izq">Instalaciones de almacenamiento de residuos previo a su eliminación, en el ámbito del tratamiento.</td>
+<td>D1502 Almacenamiento, en el ámbito del tratamiento.</td>
+<td>Instalaciones de almacenamiento de residuos previo a su eliminación, en el ámbito del tratamiento.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>(4)</sup> Esta operación está prohibida por la normativa de la UE y por los convenios internacionales</p>
+<p><sup>(4)</sup> Esta operación está prohibida por la normativa de la UE y por los convenios internacionales</p>
 </td>
 </tr>
 </tfoot>
@@ -4716,16 +4677,7 @@ c) Actuaciones e inversiones realizadas en materia de prevención de la contamin
 
 ## ANEXO XV — Información requerida en la memoria anual prevista en el artículo 65
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
 <td colspan="7">Identificación de la empresa (NIMA):</td>

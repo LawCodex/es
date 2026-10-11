@@ -184,67 +184,67 @@ c) La mitad de la superficie útil de las piezas exteriores que estén unidas a 
 
 4\. Para poder acogerse a las medidas de financiación previstas en el Plan de Vivienda de Canarias 2020-2025, las superficies útiles de las viviendas tendrán que encontrarse entre los siguientes límites de acuerdo al número de sus ocupantes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">N.º de ocupantes</th>
-<th class="cabeza_tabla">Superficie útil mínima</th>
-<th class="cabeza_tabla">Superficie útil máxima subvencionable</th>
+<th>N.º de ocupantes</th>
+<th>Superficie útil mínima</th>
+<th>Superficie útil máxima subvencionable</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">75</p>
+<p>75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>45</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>55</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">90</p>
+<p>90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">85</p>
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>85</p>
 </td>
 </tr>
 </tbody>
@@ -316,52 +316,42 @@ Ps: Fracción que representa la repercusión del coste del suelo. Como máximo s
 
 Aplicando los coeficientes indicados se obtiene las cuantías del precio de referencia unitario en función de la isla y de la tipología edificatoria:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="28%">
-<col width="10%">
-<col width="12%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="8">Valores del precio máximo de venta o de referencia, incluyendo repercusión del terreno</th>
+<th colspan="8">Valores del precio máximo de venta o de referencia, incluyendo repercusión del terreno</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Valores por tipología e isla</th>
-<th class="cabeza_tabla">El Hierro</th>
-<th class="cabeza_tabla">Fuerteventura</th>
-<th class="cabeza_tabla">Gran Canaria</th>
-<th class="cabeza_tabla">La Gomera</th>
-<th class="cabeza_tabla">Lanzarote</th>
-<th class="cabeza_tabla">La Palma</th>
-<th class="cabeza_tabla">Tenerife</th>
+<th>Valores por tipología e isla</th>
+<th>El Hierro</th>
+<th>Fuerteventura</th>
+<th>Gran Canaria</th>
+<th>La Gomera</th>
+<th>Lanzarote</th>
+<th>La Palma</th>
+<th>Tenerife</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Vivienda unifamiliar entre medianeras.</td>
-<td class="cuerpo_tabla_coma">2242,30</td>
-<td class="cuerpo_tabla_coma">2242,30</td>
-<td class="cuerpo_tabla_coma">2002,05</td>
-<td class="cuerpo_tabla_coma">2242,30</td>
-<td class="cuerpo_tabla_coma">2242,30</td>
-<td class="cuerpo_tabla_coma">2242,30</td>
-<td class="cuerpo_tabla_coma">2002,05</td>
+<td>Vivienda unifamiliar entre medianeras.</td>
+<td>2242,30</td>
+<td>2242,30</td>
+<td>2002,05</td>
+<td>2242,30</td>
+<td>2242,30</td>
+<td>2242,30</td>
+<td>2002,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Edificio vivienda colectiva.</td>
-<td class="cuerpo_tabla_coma">2133,89</td>
-<td class="cuerpo_tabla_coma">2133,89</td>
-<td class="cuerpo_tabla_coma">1905,26</td>
-<td class="cuerpo_tabla_coma">2133,89</td>
-<td class="cuerpo_tabla_coma">2133,89</td>
-<td class="cuerpo_tabla_coma">2133,89</td>
-<td class="cuerpo_tabla_coma">1905,26</td>
+<td>Edificio vivienda colectiva.</td>
+<td>2133,89</td>
+<td>2133,89</td>
+<td>1905,26</td>
+<td>2133,89</td>
+<td>2133,89</td>
+<td>2133,89</td>
+<td>1905,26</td>
 </tr>
 </tbody>
 </table>

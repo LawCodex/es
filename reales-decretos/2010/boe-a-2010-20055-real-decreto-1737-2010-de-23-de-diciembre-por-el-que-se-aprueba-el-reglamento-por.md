@@ -760,314 +760,314 @@ c) cuando se presenten factores imprevistos:
 
 ## ANEXO II — Determinación del perfil de riesgo del buque (al que se refiere el artículo 10, apartado 2)
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td colspan="4" rowspan="2">
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Perfil</p>
+<p>Perfil</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Buque de riesgo alto (BRA)</p>
+<p>Buque de riesgo alto (BRA)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Buque de riesgo normal (BRN)</p>
+<p>Buque de riesgo normal (BRN)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Buque de riesgo bajo (BRB)</p>
+<p>Buque de riesgo bajo (BRB)</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="cabeza_tabla">Parámetros genéricos</p>
+<p>Parámetros genéricos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios</p>
+<p>Criterios</p>
 </td>
 <td>
-<p class="cabeza_tabla">Puntos de ponderación</p>
+<p>Puntos de ponderación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios</p>
+<p>Criterios</p>
 </td>
 <td>
-<p class="cabeza_tabla">Criterios</p>
+<p>Criterios</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Tipo de buque</p>
+<p>Tipo de buque</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Quimiquero <br>Gasero <br>Petrolero <br>Granelero <br>De pasaje</p>
+<p>Quimiquero <br>Gasero <br>Petrolero <br>Granelero <br>De pasaje</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td rowspan="17">
-<p class="cuerpo_tabla_centro">Buque de riesgo ni alto ni bajo</p>
+<p>Buque de riesgo ni alto ni bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todos los tipos</p>
+<p>Todos los tipos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Edad del buque</p>
+<p>Edad del buque</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">todos los tipos &gt; 12 años</p>
+<p>todos los tipos &gt; 12 años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Todas las edades</p>
+<p>Todas las edades</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">3a</p>
+<p>3a</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Pabe- <br>llón</p>
+<p>Pabe- <br>llón</p>
 </td>
 <td colspan="2" rowspan="2">
-<p class="cuerpo_tabla_izq">Lista NGB</p>
+<p>Lista NGB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Negra – RMA, RA, RM a RA</p>
+<p>Negra – RMA, RA, RM a RA</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Blanca</p>
+<p>Blanca</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Negra – RM</p>
+<p>Negra – RM</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">3b</p>
+<p>3b</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Auditoría de la OMI</p>
+<p>Auditoría de la OMI</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sí</p>
+<p>Sí</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">4a</p>
+<p>4a</p>
 </td>
 <td rowspan="5">
-<p class="cuerpo_tabla_centro">Organización reconocida</p>
+<p>Organización reconocida</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Historial</p>
+<p>Historial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alto</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">M</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>Alto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>Bajo</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">MB</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Muy bajo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4b</p>
+<p>MB</p>
+</td>
+<td>
+<p>Muy bajo</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4b</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Reconocida por la UE</p>
+<p>Reconocida por la UE</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sí</p>
+<p>Sí</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">Naviera</p>
+<p>Naviera</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Historial</p>
+<p>Historial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alto</p>
+<p>Alto</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bajo</p>
+<p>Bajo</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MB</p>
+<p>MB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Muy bajo</p>
+<p>Muy bajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="cuerpo_tabla_izq">Parámetros históricos</p>
+<p>Parámetros históricos</p>
 </td>
 <td colspan="2">
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Número de deficiencias registradas encada inspección en los 36 meses anteriores</p>
+<p>Número de deficiencias registradas encada inspección en los 36 meses anteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Defi <br>ciencias</p>
+<p>Defi <br>ciencias</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">No susceptible de inspección</p>
+<p>No susceptible de inspección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">&lt; 5 (y por lo menos una inspección efectuada en los 36 meses ante‑ riores)</p>
+<p>&lt; 5 (y por lo menos una inspección efectuada en los 36 meses ante‑ riores)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Número de inmovili- zaciones en los 36 meses anteriores</p>
+<p>Número de inmovili- zaciones en los 36 meses anteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Inmo-vilza- <br>ciones</p>
+<p>Inmo-vilza- <br>ciones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 2 inmovilizaciones</p>
+<p>&gt; 2 inmovilizaciones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ninguna inmovilización</p>
+<p>Ninguna inmovilización</p>
 </td>
 </tr>
 </table>

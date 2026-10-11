@@ -722,16 +722,6 @@ Las personas titulares de los bienes o derechos que soliciten la fijación de ju
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, efectuada por la disposición derogatoria única.1 de la Ley 6/2022, de 27 de diciembre. [Ref. BOE-A-2023-2941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2941), entra en vigor el 31 de marzo de 2003, según determina su disposición final 9.
-
-> Redacción anterior:
-
-> "**Artículo 25. Observatorio del Paisaje.**
-
-> 1\. La Administración autonómica creará un Observatorio del Paisaje con funciones de observación, estudio, formulación de propuestas y criterios de actuación, consulta y asesoramiento en materia de reconocimiento, definición y caracterización de los paisajes, políticas de protección y gestión, de participación pública, de integración en todas las políticas públicas, en particular las ambientales, las territoriales y las urbanísticas, y de sensibilización ciudadana e institucional, de acuerdo con y en el marco del Convenio Europeo del Paisaje.
-
-> 2\. Reglamentariamente se establecerán la estructura y el régimen jurídico y de funcionamiento de este órgano autonómico."
-
 > Se deroga, con efectos de 31 de marzo de 2023, por la disposición derogatoria única.1 de la Ley 6/2022, de 27 de diciembre. [Ref. BOE-A-2023-2941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2941)
 
 ## TÍTULO I — Régimen jurídico del suelo
@@ -6506,12 +6496,6 @@ Cuando existan motivos de urgencia reconocidos por el Gobierno que lo justifique
 
 3\. Transcurridos diez años desde la entrada en vigor de esta ley sin que la ordenación urbanística municipal se hubiera adaptado a la misma, los suelos afectados por la suspensión quedan reclasificados como suelo rústico común.
 
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por la disposición final 1 de la Ley 6/2022, de 27 de diciembre. [Ref. BOE-A-2023-2941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2941), entra en vigor el 31 de marzo de 2023, según determinada su disposición final 9.
-
-> Redaccción anterior:
-
-> "3. Transcurridos cinco años desde la entrada en vigor de esta ley sin que la ordenación urbanística municipal se hubiera adaptado a la misma, los suelos afectados por la suspensión quedan reclasificados como suelo rústico común."
-
 > Se modifica el apartado 3, con efectos de 31 de marzo de 2023, por la disposición final 1 de la Ley 6/2022, de 27 de diciembre. [Ref. BOE-A-2023-2941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2941)
 
 ##### Disposición adicional decimosexta. Ejecución de sistemas generales en suelo urbanizable no ordenado.
@@ -7259,80 +7243,74 @@ Tales determinaciones podrán contenerse, igualmente, en los instrumentos de pla
 
 Superficie mínima, en metros cuadrados, de la unidad apta para la edificación turística
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_4">
-<col class="row_column_4">
-<col class="row_column_4">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cabeza_tabla">Dimensión del establecimiento alojativo turístico</p>
+<p>Dimensión del establecimiento alojativo turístico</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de plazas alojativas turísticas</p>
+<p>Número de plazas alojativas turísticas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Situado en suelo rústico de protección agraria</p>
-<p class="cabeza_tabla">(m<sup>2</sup>)</p>
+<p>Situado en suelo rústico de protección agraria</p>
+<p>(m<sup>2</sup>)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Situado en las otras restantes categorías de suelo rústico</p>
-<p class="cabeza_tabla">(m<sup>2</sup>)</p>
+<p>Situado en las otras restantes categorías de suelo rústico</p>
+<p>(m<sup>2</sup>)</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_3">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Pequeña dimensión.</p>
+<p>Pequeña dimensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 - 10</p>
+<p>0 - 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2500</p>
+<p>2500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5000</p>
-</td>
-</tr>
-<tr class="row_column_3">
-<td>
-<p class="cuerpo_tabla_centro">11 - 20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7500</p>
+<p>5000</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">21 - 40</p>
+<p>11 - 20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6000</p>
+<p>4000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10 000</p>
+<p>7500</p>
 </td>
 </tr>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Mediana dimensión.</p>
+<p>21 - 40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41 - 200</p>
+<p>6000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">250 x P</p>
+<p>10 000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mediana dimensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">400 x P</p>
+<p>41 - 200</p>
+</td>
+<td>
+<p>250 x P</p>
+</td>
+<td>
+<p>400 x P</p>
 </td>
 </tr>
 </tbody>

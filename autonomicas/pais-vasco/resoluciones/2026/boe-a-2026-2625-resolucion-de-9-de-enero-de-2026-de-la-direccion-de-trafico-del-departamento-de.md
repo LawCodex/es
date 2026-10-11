@@ -133,253 +133,248 @@ Vitoria-Gasteiz, 9 de enero de 2026.–La Directora de Tráfico, Estibaliz Olaba
 
 Los días en que tengan lugar procesos electorales, referendos, plebiscitos o cualquier otro tipo de consultas populares, desde las 00:00 horas hasta las 24:00 horas, y los siguientes días:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Horas</th>
-<th class="cabeza_tabla">Territorios</th>
+<th>Día</th>
+<th>Horas</th>
+<th>Territorios</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1 de enero, jueves.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>1 de enero, jueves.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 de enero, viernes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>2 de enero, viernes.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6 de enero, martes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>6 de enero, martes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18 de marzo, miércoles.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>18 de marzo, miércoles.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">19 de marzo, jueves.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>19 de marzo, jueves.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">22 de marzo, domingo.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>22 de marzo, domingo.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de abril, miércoles.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>1 de abril, miércoles.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 de abril, jueves.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>2 de abril, jueves.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3 de abril, viernes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>3 de abril, viernes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6 de abril, lunes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>6 de abril, lunes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">28 de abril, martes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Araba.</td>
+<td>28 de abril, martes.</td>
+<td>00:00-24:00</td>
+<td>Araba.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">30 de abril, jueves.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>30 de abril, jueves.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de mayo, viernes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>1 de mayo, viernes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">3 de mayo, domingo.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Bizkaia.</td>
+<td rowspan="2">3 de mayo, domingo.</td>
+<td>00:00-24:00</td>
+<td>Bizkaia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Araba.</p>
-<p class="cuerpo_tabla_izq">Gipuzkoa.</p>
+<td>15:00-24:00</td>
+<td>
+<p>Araba.</p>
+<p>Gipuzkoa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8 de mayo, viernes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Gipuzkoa.</td>
+<td>8 de mayo, viernes.</td>
+<td>00:00-24:00</td>
+<td>Gipuzkoa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14 de mayo, jueves.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Gipuzkoa.</td>
+<td>14 de mayo, jueves.</td>
+<td>00:00-24:00</td>
+<td>Gipuzkoa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">25 de mayo, lunes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Gipuzkoa.</td>
+<td>25 de mayo, lunes.</td>
+<td>00:00-24:00</td>
+<td>Gipuzkoa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">26 de junio, viernes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>26 de junio, viernes.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">27 de junio, sábado.</td>
-<td class="cuerpo_tabla_centro">00:00-15:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>27 de junio, sábado.</td>
+<td>00:00-15:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14 de julio, martes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Gipuzkoa.</td>
+<td>14 de julio, martes.</td>
+<td>00:00-24:00</td>
+<td>Gipuzkoa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">24 de julio, viernes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>24 de julio, viernes.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">25 de julio, sábado.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>25 de julio, sábado.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">30 de julio, jueves.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>30 de julio, jueves.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">31 de julio, viernes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
+<td rowspan="2">31 de julio, viernes.</td>
+<td>15:00-24:00</td>
+<td>Álava.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Bizkaia.</p>
-<p class="cuerpo_tabla_izq">Gipuzkoa.</p>
+<td>00:00-24:00</td>
+<td>
+<p>Bizkaia.</p>
+<p>Gipuzkoa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de agosto, sábado.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
+<td>1 de agosto, sábado.</td>
+<td>00:00-24:00</td>
+<td>Álava.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 de agosto, domingo.</td>
-<td class="cuerpo_tabla_centro">00:0024:00</td>
-<td class="cuerpo_tabla_izq">Álava.</td>
+<td>2 de agosto, domingo.</td>
+<td>00:0024:00</td>
+<td>Álava.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15 de agosto, sábado.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>15 de agosto, sábado.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16 de agosto, domingo.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>16 de agosto, domingo.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">30 de agosto, domingo.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>30 de agosto, domingo.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9 de octubre, viernes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>9 de octubre, viernes.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10 de octubre, sábado.</td>
-<td class="cuerpo_tabla_centro">00:00-15:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>10 de octubre, sábado.</td>
+<td>00:00-15:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12 de octubre, lunes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>12 de octubre, lunes.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de noviembre, domingo.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>1 de noviembre, domingo.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11 de noviembre, miércoles.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">Gipuzkoa.</td>
+<td>11 de noviembre, miércoles.</td>
+<td>00:00-24:00</td>
+<td>Gipuzkoa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 de diciembre, viernes.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>4 de diciembre, viernes.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5 de diciembre, sábado.</td>
-<td class="cuerpo_tabla_centro">00:00-15:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>5 de diciembre, sábado.</td>
+<td>00:00-15:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6 de diciembre, domingo.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>6 de diciembre, domingo.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8 de diciembre, martes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>8 de diciembre, martes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">24 de diciembre, jueves.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>24 de diciembre, jueves.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">25 de diciembre, viernes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>25 de diciembre, viernes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">31 de diciembre, jueves.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>31 de diciembre, jueves.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de enero de 2027, viernes.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>1 de enero de 2027, viernes.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3 de enero de 2027, domingo.</td>
-<td class="cuerpo_tabla_centro">15:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>3 de enero de 2027, domingo.</td>
+<td>15:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6 de enero de 2027, miércoles.</td>
-<td class="cuerpo_tabla_centro">00:00-24:00</td>
-<td class="cuerpo_tabla_izq">CAPV.</td>
+<td>6 de enero de 2027, miércoles.</td>
+<td>00:00-24:00</td>
+<td>CAPV.</td>
 </tr>
 </tbody>
 </table>
@@ -581,97 +576,91 @@ Con motivo de desplazamientos masivos de vehículos y operaciones especiales de 
 
 A: Interrupción de las obras que afecten a la plataforma de circulación y zona de influencia.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="20%">
-<col width="10%">
-<col width="20%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Desde</th>
-<th class="cabeza_tabla" colspan="2">Hasta</th>
+<th colspan="2">Desde</th>
+<th colspan="2">Hasta</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Hora</th>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Hora</th>
+<th>Día</th>
+<th>Hora</th>
+<th>Día</th>
+<th>Hora</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">18 de marzo.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">19 de marzo.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>18 de marzo.</td>
+<td>15:00</td>
+<td>19 de marzo.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de abril.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">2 de abril.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>1 de abril.</td>
+<td>15:00</td>
+<td>2 de abril.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6 de abril.</td>
-<td class="cuerpo_tabla_centro">08:00</td>
-<td class="cuerpo_tabla_izq">6 de abril.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>6 de abril.</td>
+<td>08:00</td>
+<td>6 de abril.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">27 de junio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">28 de junio.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>27 de junio.</td>
+<td>15:00</td>
+<td>28 de junio.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">24 de julio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">25 de julio.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>24 de julio.</td>
+<td>15:00</td>
+<td>25 de julio.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">31 de julio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">1 de agosto.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>31 de julio.</td>
+<td>15:00</td>
+<td>1 de agosto.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">28 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">29 de agosto.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>28 de agosto.</td>
+<td>15:00</td>
+<td>29 de agosto.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9 de octubre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">10 de octubre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>9 de octubre.</td>
+<td>15:00</td>
+<td>10 de octubre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12 de octubre.</td>
-<td class="cuerpo_tabla_centro">08:00</td>
-<td class="cuerpo_tabla_izq">12 de octubre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>12 de octubre.</td>
+<td>08:00</td>
+<td>12 de octubre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de noviembre.</td>
-<td class="cuerpo_tabla_centro">08:00</td>
-<td class="cuerpo_tabla_izq">1 de noviembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>1 de noviembre.</td>
+<td>08:00</td>
+<td>1 de noviembre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">6 de diciembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>4 de diciembre.</td>
+<td>15:00</td>
+<td>6 de diciembre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8 de diciembre.</td>
-<td class="cuerpo_tabla_centro">08:00</td>
-<td class="cuerpo_tabla_izq">8 de diciembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>8 de diciembre.</td>
+<td>08:00</td>
+<td>8 de diciembre.</td>
+<td>24:00</td>
 </tr>
 </tbody>
 </table>

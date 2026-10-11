@@ -672,103 +672,95 @@ a) Clasificación de instalaciones tipo de referencia e inversión elegible mín
 
 La tabla siguiente define el colectivo de proyectos que engloba cada instalación tipo de referencia.
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="9%">
-<col width="10%">
-<col width="43%">
-<col width="16%">
-<col width="9%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Grupo normativo</th>
-<th class="cabeza_tabla">Combustible</th>
-<th class="cabeza_tabla">Tipología de actuación y especificidad</th>
-<th class="cabeza_tabla">Rango de potencia (P)</th>
-<th class="cabeza_tabla">Código ITR</th>
-<th class="cabeza_tabla">Inversión elegible mínima unitaria (€/kW)</th>
+<th>Grupo normativo</th>
+<th>Combustible</th>
+<th>Tipología de actuación y especificidad</th>
+<th>Rango de potencia (P)</th>
+<th>Código ITR</th>
+<th>Inversión elegible mínima unitaria (€/kW)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">a.1.1</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Gas natural.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Nuevas instalaciones del subgrupo a.1.1.</td>
-<td class="cuerpo_tabla_centro">P &lt; 1MW</td>
-<td class="cuerpo_tabla_centro">ITR-0106</td>
-<td class="cuerpo_tabla_coma">No aplica</td>
+<td rowspan="3">a.1.1</td>
+<td rowspan="3">Gas natural.</td>
+<td rowspan="3">Nuevas instalaciones del subgrupo a.1.1.</td>
+<td>P &lt; 1MW</td>
+<td>ITR-0106</td>
+<td>No aplica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1MW ≤ P &lt; 25 MW</td>
-<td class="cuerpo_tabla_centro">ITR-0107</td>
-<td class="cuerpo_tabla_coma">No aplica</td>
+<td>1MW ≤ P &lt; 25 MW</td>
+<td>ITR-0107</td>
+<td>No aplica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25MW ≤ P ≤ 100MW</td>
-<td class="cuerpo_tabla_centro">ITR-0108</td>
-<td class="cuerpo_tabla_coma">No aplica</td>
+<td>25MW ≤ P ≤ 100MW</td>
+<td>ITR-0108</td>
+<td>No aplica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">a.1.1</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Gas natural.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Modificaciones de instalaciones existentes del subgrupo a.1.1 que conlleven su mantenimiento en el subgrupo a.1.1.</td>
-<td class="cuerpo_tabla_centro">P &lt; 1MW</td>
-<td class="cuerpo_tabla_centro">ITR-0109</td>
-<td class="cuerpo_tabla_coma">740</td>
+<td rowspan="3">a.1.1</td>
+<td rowspan="3">Gas natural.</td>
+<td rowspan="3">Modificaciones de instalaciones existentes del subgrupo a.1.1 que conlleven su mantenimiento en el subgrupo a.1.1.</td>
+<td>P &lt; 1MW</td>
+<td>ITR-0109</td>
+<td>740</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1MW ≤ P &lt; 25MW</td>
-<td class="cuerpo_tabla_centro">ITR-0110</td>
-<td class="cuerpo_tabla_coma">500</td>
+<td>1MW ≤ P &lt; 25MW</td>
+<td>ITR-0110</td>
+<td>500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25MW ≤ P ≤ 100MW</td>
-<td class="cuerpo_tabla_centro">ITR-0111</td>
-<td class="cuerpo_tabla_coma">380</td>
+<td>25MW ≤ P ≤ 100MW</td>
+<td>ITR-0111</td>
+<td>380</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">a.1.1</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Gas natural.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Modificaciones de instalaciones existentes del subgrupo a.1.2 que conlleven su transformación en instalaciones del subgrupo a.1.1. con ciclo de turbinas de gas (simple o combinado) o ciclo con motor de combustión interna.</td>
-<td class="cuerpo_tabla_centro">P &lt; 1MW</td>
-<td class="cuerpo_tabla_centro">ITR-0112</td>
-<td class="cuerpo_tabla_coma">740</td>
+<td rowspan="3">a.1.1</td>
+<td rowspan="3">Gas natural.</td>
+<td rowspan="3">Modificaciones de instalaciones existentes del subgrupo a.1.2 que conlleven su transformación en instalaciones del subgrupo a.1.1. con ciclo de turbinas de gas (simple o combinado) o ciclo con motor de combustión interna.</td>
+<td>P &lt; 1MW</td>
+<td>ITR-0112</td>
+<td>740</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1MW ≤ P &lt; 25MW</td>
-<td class="cuerpo_tabla_centro">ITR-0113</td>
-<td class="cuerpo_tabla_coma">500</td>
+<td>1MW ≤ P &lt; 25MW</td>
+<td>ITR-0113</td>
+<td>500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25MW ≤ P ≤ 100MW</td>
-<td class="cuerpo_tabla_centro">ITR-0114</td>
-<td class="cuerpo_tabla_coma">380</td>
+<td>25MW ≤ P ≤ 100MW</td>
+<td>ITR-0114</td>
+<td>380</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">a.1.1</td>
-<td class="cuerpo_tabla_izq">Gas natural.</td>
-<td class="cuerpo_tabla_izq">Modificaciones de instalaciones existentes del subgrupo a.1.2 que conlleven su transformación en instalaciones del subgrupo a.1.1 con ciclo Rankine.</td>
-<td class="cuerpo_tabla_centro">P ≤ 100MW</td>
-<td class="cuerpo_tabla_centro">ITR-0115</td>
-<td class="cuerpo_tabla_coma">320</td>
+<td>a.1.1</td>
+<td>Gas natural.</td>
+<td>Modificaciones de instalaciones existentes del subgrupo a.1.2 que conlleven su transformación en instalaciones del subgrupo a.1.1 con ciclo Rankine.</td>
+<td>P ≤ 100MW</td>
+<td>ITR-0115</td>
+<td>320</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">b.6/b.8</td>
-<td class="cuerpo_tabla_izq">Biomasa.</td>
-<td class="cuerpo_tabla_izq">Nuevas instalaciones de cogeneración de biomasa de los grupos b.6 y b.8.</td>
-<td class="cuerpo_tabla_centro">P ≤ 100MW</td>
-<td class="cuerpo_tabla_centro">ITR-0116</td>
-<td class="cuerpo_tabla_coma">No aplica</td>
+<td>b.6/b.8</td>
+<td>Biomasa.</td>
+<td>Nuevas instalaciones de cogeneración de biomasa de los grupos b.6 y b.8.</td>
+<td>P ≤ 100MW</td>
+<td>ITR-0116</td>
+<td>No aplica</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">b.6/b.8</td>
-<td class="cuerpo_tabla_izq">Biomasa.</td>
-<td class="cuerpo_tabla_izq">Modificaciones de instalaciones existentes de biomasa solo eléctricas o de cogeneración, de forma que resulten en instalaciones de cogeneración de biomasa de los grupos b.6 y b.8.</td>
-<td class="cuerpo_tabla_centro">P ≤ 100MW</td>
-<td class="cuerpo_tabla_centro">ITR-0117</td>
-<td class="cuerpo_tabla_coma">740</td>
+<td>b.6/b.8</td>
+<td>Biomasa.</td>
+<td>Modificaciones de instalaciones existentes de biomasa solo eléctricas o de cogeneración, de forma que resulten en instalaciones de cogeneración de biomasa de los grupos b.6 y b.8.</td>
+<td>P ≤ 100MW</td>
+<td>ITR-0117</td>
+<td>740</td>
 </tr>
 </tbody>
 </table>
@@ -777,399 +769,393 @@ b) Clasificación de instalaciones tipo.
 
 A continuación, se establece la clasificación de las instalaciones tipo que resulten de cada instalación tipo de referencia de acuerdo con el año de autorización de explotación definitiva para la primera y para la segunda subasta.
 
-<table class="tabla">
-<colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Código ITR</th>
-<th class="cabeza_tabla">Año autorización explotación definitiva</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Código IT</p>
-<p class="cabeza_tabla">primera subasta</p>
+<th>Código ITR</th>
+<th>Año autorización explotación definitiva</th>
+<th>
+<p>Código IT</p>
+<p>primera subasta</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Código IT</p>
-<p class="cabeza_tabla">segunda subasta</p>
+<th>
+<p>Código IT</p>
+<p>segunda subasta</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0106</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04030</td>
-<td class="cuerpo_tabla_centro">IT-04102</td>
+<td rowspan="6">ITR-0106</td>
+<td>2027</td>
+<td>IT-04030</td>
+<td>IT-04102</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04031</td>
-<td class="cuerpo_tabla_centro">IT-04103</td>
+<td>2028</td>
+<td>IT-04031</td>
+<td>IT-04103</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04032</td>
-<td class="cuerpo_tabla_centro">IT-04104</td>
+<td>2029</td>
+<td>IT-04032</td>
+<td>IT-04104</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04033</td>
-<td class="cuerpo_tabla_centro">IT-04105</td>
+<td>2030</td>
+<td>IT-04033</td>
+<td>IT-04105</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04034</td>
-<td class="cuerpo_tabla_centro">IT-04106</td>
+<td>2031</td>
+<td>IT-04034</td>
+<td>IT-04106</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04035</td>
-<td class="cuerpo_tabla_centro">IT-04107</td>
+<td>2032</td>
+<td>IT-04035</td>
+<td>IT-04107</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0107</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04036</td>
-<td class="cuerpo_tabla_centro">IT-04108</td>
+<td rowspan="6">ITR-0107</td>
+<td>2027</td>
+<td>IT-04036</td>
+<td>IT-04108</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04037</td>
-<td class="cuerpo_tabla_centro">IT-04109</td>
+<td>2028</td>
+<td>IT-04037</td>
+<td>IT-04109</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04038</td>
-<td class="cuerpo_tabla_centro">IT-04110</td>
+<td>2029</td>
+<td>IT-04038</td>
+<td>IT-04110</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04039</td>
-<td class="cuerpo_tabla_centro">IT-04111</td>
+<td>2030</td>
+<td>IT-04039</td>
+<td>IT-04111</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04040</td>
-<td class="cuerpo_tabla_centro">IT-04112</td>
+<td>2031</td>
+<td>IT-04040</td>
+<td>IT-04112</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04041</td>
-<td class="cuerpo_tabla_centro">IT-04113</td>
+<td>2032</td>
+<td>IT-04041</td>
+<td>IT-04113</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0108</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04042</td>
-<td class="cuerpo_tabla_centro">IT-04114</td>
+<td rowspan="6">ITR-0108</td>
+<td>2027</td>
+<td>IT-04042</td>
+<td>IT-04114</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04043</td>
-<td class="cuerpo_tabla_centro">IT-04115</td>
+<td>2028</td>
+<td>IT-04043</td>
+<td>IT-04115</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04044</td>
-<td class="cuerpo_tabla_centro">IT-04116</td>
+<td>2029</td>
+<td>IT-04044</td>
+<td>IT-04116</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04045</td>
-<td class="cuerpo_tabla_centro">IT-04117</td>
+<td>2030</td>
+<td>IT-04045</td>
+<td>IT-04117</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04046</td>
-<td class="cuerpo_tabla_centro">IT-04118</td>
+<td>2031</td>
+<td>IT-04046</td>
+<td>IT-04118</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04047</td>
-<td class="cuerpo_tabla_centro">IT-04119</td>
+<td>2032</td>
+<td>IT-04047</td>
+<td>IT-04119</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0109</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04048</td>
-<td class="cuerpo_tabla_centro">IT-04120</td>
+<td rowspan="6">ITR-0109</td>
+<td>2027</td>
+<td>IT-04048</td>
+<td>IT-04120</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04049</td>
-<td class="cuerpo_tabla_centro">IT-04121</td>
+<td>2028</td>
+<td>IT-04049</td>
+<td>IT-04121</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04050</td>
-<td class="cuerpo_tabla_centro">IT-04122</td>
+<td>2029</td>
+<td>IT-04050</td>
+<td>IT-04122</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04051</td>
-<td class="cuerpo_tabla_centro">IT-04123</td>
+<td>2030</td>
+<td>IT-04051</td>
+<td>IT-04123</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04052</td>
-<td class="cuerpo_tabla_centro">IT-04124</td>
+<td>2031</td>
+<td>IT-04052</td>
+<td>IT-04124</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04053</td>
-<td class="cuerpo_tabla_centro">IT-04125</td>
+<td>2032</td>
+<td>IT-04053</td>
+<td>IT-04125</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0110</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04054</td>
-<td class="cuerpo_tabla_centro">IT-04126</td>
+<td rowspan="6">ITR-0110</td>
+<td>2027</td>
+<td>IT-04054</td>
+<td>IT-04126</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04055</td>
-<td class="cuerpo_tabla_centro">IT-04127</td>
+<td>2028</td>
+<td>IT-04055</td>
+<td>IT-04127</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04056</td>
-<td class="cuerpo_tabla_centro">IT-04128</td>
+<td>2029</td>
+<td>IT-04056</td>
+<td>IT-04128</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04057</td>
-<td class="cuerpo_tabla_centro">IT-04129</td>
+<td>2030</td>
+<td>IT-04057</td>
+<td>IT-04129</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04058</td>
-<td class="cuerpo_tabla_centro">IT-04130</td>
+<td>2031</td>
+<td>IT-04058</td>
+<td>IT-04130</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04059</td>
-<td class="cuerpo_tabla_centro">IT-04131</td>
+<td>2032</td>
+<td>IT-04059</td>
+<td>IT-04131</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0111</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04060</td>
-<td class="cuerpo_tabla_centro">IT-04132</td>
+<td rowspan="6">ITR-0111</td>
+<td>2027</td>
+<td>IT-04060</td>
+<td>IT-04132</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04061</td>
-<td class="cuerpo_tabla_centro">IT-04133</td>
+<td>2028</td>
+<td>IT-04061</td>
+<td>IT-04133</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04062</td>
-<td class="cuerpo_tabla_centro">IT-04134</td>
+<td>2029</td>
+<td>IT-04062</td>
+<td>IT-04134</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04063</td>
-<td class="cuerpo_tabla_centro">IT-04135</td>
+<td>2030</td>
+<td>IT-04063</td>
+<td>IT-04135</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04064</td>
-<td class="cuerpo_tabla_centro">IT-04136</td>
+<td>2031</td>
+<td>IT-04064</td>
+<td>IT-04136</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04065</td>
-<td class="cuerpo_tabla_centro">IT-04137</td>
+<td>2032</td>
+<td>IT-04065</td>
+<td>IT-04137</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0112</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04066</td>
-<td class="cuerpo_tabla_centro">IT-04138</td>
+<td rowspan="6">ITR-0112</td>
+<td>2027</td>
+<td>IT-04066</td>
+<td>IT-04138</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04067</td>
-<td class="cuerpo_tabla_centro">IT-04139</td>
+<td>2028</td>
+<td>IT-04067</td>
+<td>IT-04139</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04068</td>
-<td class="cuerpo_tabla_centro">IT-04140</td>
+<td>2029</td>
+<td>IT-04068</td>
+<td>IT-04140</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04069</td>
-<td class="cuerpo_tabla_centro">IT-04141</td>
+<td>2030</td>
+<td>IT-04069</td>
+<td>IT-04141</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04070</td>
-<td class="cuerpo_tabla_centro">IT-04142</td>
+<td>2031</td>
+<td>IT-04070</td>
+<td>IT-04142</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04071</td>
-<td class="cuerpo_tabla_centro">IT-04143</td>
+<td>2032</td>
+<td>IT-04071</td>
+<td>IT-04143</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0113</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04072</td>
-<td class="cuerpo_tabla_centro">IT-04144</td>
+<td rowspan="6">ITR-0113</td>
+<td>2027</td>
+<td>IT-04072</td>
+<td>IT-04144</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04073</td>
-<td class="cuerpo_tabla_centro">IT-04145</td>
+<td>2028</td>
+<td>IT-04073</td>
+<td>IT-04145</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04074</td>
-<td class="cuerpo_tabla_centro">IT-04146</td>
+<td>2029</td>
+<td>IT-04074</td>
+<td>IT-04146</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04075</td>
-<td class="cuerpo_tabla_centro">IT-04147</td>
+<td>2030</td>
+<td>IT-04075</td>
+<td>IT-04147</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04076</td>
-<td class="cuerpo_tabla_centro">IT-04148</td>
+<td>2031</td>
+<td>IT-04076</td>
+<td>IT-04148</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04077</td>
-<td class="cuerpo_tabla_centro">IT-04149</td>
+<td>2032</td>
+<td>IT-04077</td>
+<td>IT-04149</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0114</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04078</td>
-<td class="cuerpo_tabla_centro">IT-04150</td>
+<td rowspan="6">ITR-0114</td>
+<td>2027</td>
+<td>IT-04078</td>
+<td>IT-04150</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04079</td>
-<td class="cuerpo_tabla_centro">IT-04151</td>
+<td>2028</td>
+<td>IT-04079</td>
+<td>IT-04151</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04080</td>
-<td class="cuerpo_tabla_centro">IT-04152</td>
+<td>2029</td>
+<td>IT-04080</td>
+<td>IT-04152</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04081</td>
-<td class="cuerpo_tabla_centro">IT-04153</td>
+<td>2030</td>
+<td>IT-04081</td>
+<td>IT-04153</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04082</td>
-<td class="cuerpo_tabla_centro">IT-04154</td>
+<td>2031</td>
+<td>IT-04082</td>
+<td>IT-04154</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04083</td>
-<td class="cuerpo_tabla_centro">IT-04155</td>
+<td>2032</td>
+<td>IT-04083</td>
+<td>IT-04155</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0115</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04084</td>
-<td class="cuerpo_tabla_centro">IT-04156</td>
+<td rowspan="6">ITR-0115</td>
+<td>2027</td>
+<td>IT-04084</td>
+<td>IT-04156</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04085</td>
-<td class="cuerpo_tabla_centro">IT-04157</td>
+<td>2028</td>
+<td>IT-04085</td>
+<td>IT-04157</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04086</td>
-<td class="cuerpo_tabla_centro">IT-04158</td>
+<td>2029</td>
+<td>IT-04086</td>
+<td>IT-04158</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04087</td>
-<td class="cuerpo_tabla_centro">IT-04159</td>
+<td>2030</td>
+<td>IT-04087</td>
+<td>IT-04159</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04088</td>
-<td class="cuerpo_tabla_centro">IT-04160</td>
+<td>2031</td>
+<td>IT-04088</td>
+<td>IT-04160</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04089</td>
-<td class="cuerpo_tabla_centro">IT-04161</td>
+<td>2032</td>
+<td>IT-04089</td>
+<td>IT-04161</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0116</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04090</td>
-<td class="cuerpo_tabla_centro">IT-04162</td>
+<td rowspan="6">ITR-0116</td>
+<td>2027</td>
+<td>IT-04090</td>
+<td>IT-04162</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04091</td>
-<td class="cuerpo_tabla_centro">IT-04163</td>
+<td>2028</td>
+<td>IT-04091</td>
+<td>IT-04163</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04092</td>
-<td class="cuerpo_tabla_centro">IT-04164</td>
+<td>2029</td>
+<td>IT-04092</td>
+<td>IT-04164</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04093</td>
-<td class="cuerpo_tabla_centro">IT-04165</td>
+<td>2030</td>
+<td>IT-04093</td>
+<td>IT-04165</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04094</td>
-<td class="cuerpo_tabla_centro">IT-04166</td>
+<td>2031</td>
+<td>IT-04094</td>
+<td>IT-04166</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04095</td>
-<td class="cuerpo_tabla_centro">IT-04167</td>
+<td>2032</td>
+<td>IT-04095</td>
+<td>IT-04167</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ITR-0117</td>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_centro">IT-04096</td>
-<td class="cuerpo_tabla_centro">IT-04168</td>
+<td rowspan="6">ITR-0117</td>
+<td>2027</td>
+<td>IT-04096</td>
+<td>IT-04168</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2028</td>
-<td class="cuerpo_tabla_centro">IT-04097</td>
-<td class="cuerpo_tabla_centro">IT-04169</td>
+<td>2028</td>
+<td>IT-04097</td>
+<td>IT-04169</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2029</td>
-<td class="cuerpo_tabla_centro">IT-04098</td>
-<td class="cuerpo_tabla_centro">IT-04170</td>
+<td>2029</td>
+<td>IT-04098</td>
+<td>IT-04170</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2030</td>
-<td class="cuerpo_tabla_centro">IT-04099</td>
-<td class="cuerpo_tabla_centro">IT-04171</td>
+<td>2030</td>
+<td>IT-04099</td>
+<td>IT-04171</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2031</td>
-<td class="cuerpo_tabla_centro">IT-04100</td>
-<td class="cuerpo_tabla_centro">IT-04172</td>
+<td>2031</td>
+<td>IT-04100</td>
+<td>IT-04172</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2032</td>
-<td class="cuerpo_tabla_centro">IT-04101</td>
-<td class="cuerpo_tabla_centro">IT-04173</td>
+<td>2032</td>
+<td>IT-04101</td>
+<td>IT-04173</td>
 </tr>
 </tbody>
 </table>
@@ -1656,168 +1642,158 @@ A continuación, se muestran los parámetros retributivos relativos a la retribu
 
 (b) Solo válido para el primer trimestre de 2026.
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Código ITR</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Retribución a la inversión Rinv</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">(€/MW)</p>
+<th rowspan="2">Código ITR</th>
+<th rowspan="2">
+<p>Retribución a la inversión Rinv</p>
+<p>–</p>
+<p>(€/MW)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Retribución a la operación Ro</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">(€/MWh)</p>
+<th rowspan="2">
+<p>Retribución a la operación Ro</p>
+<p>–</p>
+<p>(€/MWh)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">N.º de horas equivalentes de funcionamiento mínimo anual 2026-2031</p>
-<p class="cabeza_tabla">Nh</p>
-<p class="cabeza_tabla">(h)</p>
+<th rowspan="2">
+<p>N.º de horas equivalentes de funcionamiento mínimo anual 2026-2031</p>
+<p>Nh</p>
+<p>(h)</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Umbral de funcionamiento anual 2026-2031</p>
-<p class="cabeza_tabla">Uf</p>
-<p class="cabeza_tabla">(h)</p>
+<th rowspan="2">
+<p>Umbral de funcionamiento anual 2026-2031</p>
+<p>Uf</p>
+<p>(h)</p>
 </th>
-<th class="cabeza_tabla" colspan="3">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses.</th>
+<th colspan="3">Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses.</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">3 meses</th>
-<th class="cabeza_tabla">6 meses</th>
-<th class="cabeza_tabla">9 meses</th>
+<th>3 meses</th>
+<th>6 meses</th>
+<th>9 meses</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0106</td>
-<td class="cuerpo_tabla_centro">378.110 (a)</td>
-<td class="cuerpo_tabla_centro">48,428 (b)</td>
-<td class="cuerpo_tabla_coma">1.565</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0106</td>
+<td>378.110 (a)</td>
+<td>48,428 (b)</td>
+<td>1.565</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0107</td>
-<td class="cuerpo_tabla_centro">253.614 (a)</td>
-<td class="cuerpo_tabla_centro">39,428 (b)</td>
-<td class="cuerpo_tabla_coma">1.950</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0107</td>
+<td>253.614 (a)</td>
+<td>39,428 (b)</td>
+<td>1.950</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0108</td>
-<td class="cuerpo_tabla_centro">193.455 (a)</td>
-<td class="cuerpo_tabla_centro">31,564 (b)</td>
-<td class="cuerpo_tabla_coma">2.165</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0108</td>
+<td>193.455 (a)</td>
+<td>31,564 (b)</td>
+<td>2.165</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0109</td>
-<td class="cuerpo_tabla_centro">264.677 (a)</td>
-<td class="cuerpo_tabla_centro">46,200 (b)</td>
-<td class="cuerpo_tabla_coma">1.565</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0109</td>
+<td>264.677 (a)</td>
+<td>46,200 (b)</td>
+<td>1.565</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0110</td>
-<td class="cuerpo_tabla_centro">177.530 (a)</td>
-<td class="cuerpo_tabla_centro">38,227 (b)</td>
-<td class="cuerpo_tabla_coma">1.950</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0110</td>
+<td>177.530 (a)</td>
+<td>38,227 (b)</td>
+<td>1.950</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0111</td>
-<td class="cuerpo_tabla_centro">135.419 (a)</td>
-<td class="cuerpo_tabla_centro">30,738 (b)</td>
-<td class="cuerpo_tabla_coma">2.165</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0111</td>
+<td>135.419 (a)</td>
+<td>30,738 (b)</td>
+<td>2.165</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0112</td>
-<td class="cuerpo_tabla_centro">264.677 (a)</td>
-<td class="cuerpo_tabla_centro">46,200 (b)</td>
-<td class="cuerpo_tabla_coma">1.565</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0112</td>
+<td>264.677 (a)</td>
+<td>46,200 (b)</td>
+<td>1.565</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0113</td>
-<td class="cuerpo_tabla_centro">177.530 (a)</td>
-<td class="cuerpo_tabla_centro">38,227 (b)</td>
-<td class="cuerpo_tabla_coma">1.950</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0113</td>
+<td>177.530 (a)</td>
+<td>38,227 (b)</td>
+<td>1.950</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0114</td>
-<td class="cuerpo_tabla_centro">135.419 (a)</td>
-<td class="cuerpo_tabla_centro">30,738 (b)</td>
-<td class="cuerpo_tabla_coma">2.165</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0114</td>
+<td>135.419 (a)</td>
+<td>30,738 (b)</td>
+<td>2.165</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0115</td>
-<td class="cuerpo_tabla_centro">122.028 (a)</td>
-<td class="cuerpo_tabla_centro">31,403 (b)</td>
-<td class="cuerpo_tabla_coma">2.165</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0115</td>
+<td>122.028 (a)</td>
+<td>31,403 (b)</td>
+<td>2.165</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0116</td>
-<td class="cuerpo_tabla_centro">467.096 (a)</td>
-<td class="cuerpo_tabla_centro">55,398 (b)</td>
-<td class="cuerpo_tabla_coma">1.950</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0116</td>
+<td>467.096 (a)</td>
+<td>55,398 (b)</td>
+<td>1.950</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ITR-0117</td>
-<td class="cuerpo_tabla_centro">326.968 (a)</td>
-<td class="cuerpo_tabla_centro">52,733 (b)</td>
-<td class="cuerpo_tabla_coma">1.950</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_centro">15 %</td>
-<td class="cuerpo_tabla_centro">30 %</td>
-<td class="cuerpo_tabla_centro">45 %</td>
+<td>ITR-0117</td>
+<td>326.968 (a)</td>
+<td>52,733 (b)</td>
+<td>1.950</td>
+<td>0</td>
+<td>15 %</td>
+<td>30 %</td>
+<td>45 %</td>
 </tr>
 </tbody>
 </table>

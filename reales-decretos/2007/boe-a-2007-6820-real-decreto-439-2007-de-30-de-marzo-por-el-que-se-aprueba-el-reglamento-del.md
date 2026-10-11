@@ -2386,54 +2386,48 @@ b) Los tipos de retención previstos en los números 3.º, 4.º y 5.º del apart
 
 1\. No se practicará retención sobre los rendimientos del trabajo cuya cuantía, determinada según lo previsto en el artículo 83.2 de este Reglamento, no supere el importe anual establecido en el cuadro siguiente en función del número de hijos y otros descendientes y de la situación del contribuyente:
 
-<table class="tabla">
-<colgroup>
-<col width="55%">
-<col width="15%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Situación del contribuyente</th>
-<th class="cabeza_tabla" colspan="3">N.º de hijos y otros descendientes</th>
+<th rowspan="2">Situación del contribuyente</th>
+<th colspan="3">N.º de hijos y otros descendientes</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">0</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>0</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">1</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>1</p>
+<p>–</p>
+<p>Euros</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">2 o más</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>
+<p>2 o más</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1.ª Contribuyente soltero, viudo, divorciado o separado legalmente.</td>
-<td class="cuerpo_tabla_centro">– </td>
-<td class="cuerpo_tabla_centro">17.644</td>
-<td class="cuerpo_tabla_centro">18.694</td>
+<td>1.ª Contribuyente soltero, viudo, divorciado o separado legalmente.</td>
+<td>– </td>
+<td>17.644</td>
+<td>18.694</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.ª Contribuyente cuyo cónyuge no obtenga rentas superiores a 1.500 euros anuales, excluidas las exentas.</td>
-<td class="cuerpo_tabla_centro">17.197</td>
-<td class="cuerpo_tabla_centro">18.130</td>
-<td class="cuerpo_tabla_centro">19.262</td>
+<td>2.ª Contribuyente cuyo cónyuge no obtenga rentas superiores a 1.500 euros anuales, excluidas las exentas.</td>
+<td>17.197</td>
+<td>18.130</td>
+<td>19.262</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.ª Otras situaciones.</td>
-<td class="cuerpo_tabla_centro">15.876</td>
-<td class="cuerpo_tabla_centro">16.342</td>
-<td class="cuerpo_tabla_centro">16.867</td>
+<td>3.ª Otras situaciones.</td>
+<td>15.876</td>
+<td>16.342</td>
+<td>16.867</td>
 </tr>
 </tbody>
 </table>

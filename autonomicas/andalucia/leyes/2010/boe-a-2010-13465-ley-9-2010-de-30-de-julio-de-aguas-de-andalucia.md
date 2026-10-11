@@ -128,8 +128,6 @@ g) El régimen sancionador por los incumplimientos de las normas reguladoras de 
 
 h) La protección, mejora y recuperación de la calidad de las aguas continentales, de transición, costeras y del resto del medio marino vinculadas a ellas, mediante la prevención, reducción y control de la contaminación, así como el régimen jurídico de los vertidos al medio hídrico, todo ello dentro del ámbito competencial de la Comunidad Autónoma de Andalucía.
 
-> Téngase en cuenta que la letra h), añadida por la disposición final 6.1 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 2\. La finalidad de la Ley es garantizar las necesidades básicas de uso de agua de la población y hacer compatible el desarrollo económico y social de Andalucía con el buen estado de los ecosistemas acuáticos y terrestres.
 
 > Se añade la letra h) al apartado 1 por la disposición final 6.1 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
@@ -171,8 +169,6 @@ A efectos de esta Ley y sin perjuicio de las definiciones contenidas en la norma
 2 sexies. Contaminación hídrica: la acción y efecto de introducir materias o formas de energía o inducir condiciones en el medio hídrico que, de modo directo o indirecto, impliquen una alteración perjudicial de su calidad en relación con los usos posteriores, con la salud humana o con los ecosistemas acuáticos o terrestres directamente asociados a los acuáticos; causen daños a los bienes y deterioren o dificulten el disfrute y los usos del medio ambiente.
 
 2 septies. Normas de calidad ambiental del medio hídrico: niveles de concentración de un determinado contaminante o grupo de contaminantes que no deben superarse en el agua, en los sedimentos o en la biota, con el fin de proteger la salud humana y el medio ambiente.
-
-> Téngase en cuenta que los apartados 2 bis al 2 septies, añadidos por la disposición final 6.2 a 7 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entran en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 3\. Almacenamiento subterráneo: almacenamiento temporal en un acuífero profundo de líquidos o gases mediante técnicas de recarga artificial.
 
@@ -398,12 +394,6 @@ u) El ejercicio de la potestad sancionadora en materia de aguas, conforme a lo e
 
 v) En general, cuantas competencias atribuye la legislación básica en materia de agua a la Administración del Agua y ostenta la Comunidad Autónoma de Andalucía, en relación con las aguas que discurren íntegramente por el territorio de Andalucía y cualesquiera otras atribuciones que le correspondan por esta ley o el resto del ordenamiento jurídico.
 
-> Téngase en cuenta que esta actualización de la letra o) y la adición de las letras p) a v), establecidas por la disposición final 6.8 a 15 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entran en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "o) En general, cuantas competencias atribuye la legislación básica en materia de agua a la Administración del Agua y ostenta la Comunidad Autónoma de Andalucía, en relación con las aguas que discurren íntegramente por el territorio de Andalucía y cualesquiera otras atribuciones que le correspondan por esta Ley o el resto del ordenamiento jurídico."
-
 2\. Las competencias establecidas en el apartado anterior se ejercerán sin perjuicio de las establecidas en materia de calidad del medio hídrico en el Capítulo III del Título IV de la Ley de Gestión Integrada de la Calidad Ambiental.
 
 3\. Las competencias de la Administración de la Junta de Andalucía serán ejercidas por el Consejo de Gobierno y la consejería competente en materia de agua, directamente o, en su caso, a través de sus entidades instrumentales, en los términos establecidos en esta Ley.
@@ -509,12 +499,6 @@ c) Planificar y programar, en colaboración con las entidades locales, las infra
 d) Coordinar las actuaciones de las Administraciones competentes en materia de abastecimiento y saneamiento en el territorio de Andalucía.
 
 e) Definir objetivos de eficiencia de las infraestructuras y criterios técnicos en su diseño, a través del Observatorio del Agua y, en ausencia de este, del Consejo Andaluz del Agua.
-
-> Téngase en cuenta que esta actualización de la letra e), establecida por la disposición final 6.16 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "e) Definir objetivos de eficiencia de las infraestructuras y criterios técnicos en su diseño, a través del Observatorio del Agua."
 
 f) Autorizar los usos de las infraestructuras de conexión entre sistemas de explotación.
 
@@ -723,22 +707,6 @@ c) Usos agrarios, industriales, turísticos y otros usos no urbanos en actividad
 d) Otros usos no establecidos en los apartados anteriores.
 
 La priorización de usos dentro del nivel correspondiente a la letra c), en la escala de preferencia anteriormente expresada, se establecerá en función de su sostenibilidad, el mantenimiento de la cohesión territorial y el mayor valor añadido en términos de creación de empleo y generación de riqueza para Andalucía, considerando preferentes frente a otros usos industriales aquellos que se desarrollen en un espacio industrial protegido, así como los necesarios para el desarrollo de los proyectos tractores de la industria de Andalucía. Reglamentariamente se establecerá un procedimiento para la determinación del orden supletorio de prioridad de usos en actividades económicas, que garantizará la audiencia a los usuarios interesados y a las organizaciones que los representen.
-
-> Téngase en cuenta que esta actualización del apartado 2, establecida por la disposición final 2 de la Ley 4/2025, de 15 de diciembre, [Ref. BOE-A-2026-422](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-422), entra en vigor el 23 de marzo de 2026, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "2. Con carácter supletorio se establecen para las aguas de competencia exclusiva de la Comunidad Autónoma de Andalucía varios niveles de uso conforme a la siguiente escala de preferencia:
-
-> a) Usos domésticos para la satisfacción de las necesidades básicas de consumo de boca y de salubridad.
-
-> b) Usos urbanos no domésticos en actividades económicas de bajo consumo de agua.
-
-> c) Usos agrarios, industriales, turísticos y otros usos no urbanos en actividades económicas y usos urbanos en actividades económicas de alto consumo.
-
-> d) Otros usos no establecidos en los apartados anteriores.
-
-> La priorización de usos dentro del nivel correspondiente a la letra c en la escala de preferencia, anteriormente expresada, se establecerá en función de su sostenibilidad, el mantenimiento de la cohesión territorial y el mayor valor añadido en términos de creación de empleo y generación de riqueza para Andalucía. Reglamentariamente se establecerá un procedimiento para la determinación del orden supletorio de prioridad de usos en actividades económicas, que garantizará la audiencia a los usuarios interesados y a las organizaciones que los representen."
 
 3\. El plan hidrológico fijará las condiciones y requisitos necesarios para la declaración de utilidad pública o interés social de las distintas clases de uso del agua, a efectos de la expropiación forzosa de los aprovechamientos de menor rango en el orden de preferencia que para cada sistema de explotación de la demarcación hidrográfica se haya determinado en el plan hidrológico. Igualmente servirá dicha declaración a los efectos establecidos en esta Ley sobre otorgamiento de derechos de concesión y autorización de cesión de derechos para usos de menor rango en el orden de prioridad.
 
@@ -953,22 +921,6 @@ La falta de integración de los entes locales en los sistemas supramunicipales d
 2\. Las entidades públicas referidas en el apartado anterior titulares de la red de abastecimiento deberán aprobar un plan de acción para mejorar el rendimiento en las mismas, que será de obligado cumplimiento para ellas y sus entidades gestoras. En el plan se deberán consignar las partidas presupuestarias y los plazos de ejecución de las inversiones necesarias con el objeto de reducir las pérdidas y mejorar la eficiencia de las redes de abastecimiento. Una vez aprobado el plan, deberá remitirse al órgano que ostente las competencias en materia de aguas de la Junta de Andalucía. La no aprobación del plan de acción o su incumplimiento implicará que la entidad titular no pueda ser beneficiaria de incentivos asociados a la ejecución de las inversiones para la mejora en el rendimiento en redes de abastecimiento.
 
 3\. En caso de incumplimiento de las previsiones del apartado anterior, el órgano competente de la Junta de Andalucía podrá condicionar temporalmente en los instrumentos de ordenación los incrementos de suelo urbanizable, así como la transformación, en su caso, de suelo urbanizable no sectorizado a suelo urbanizable sectorizado u ordenado, en tanto no se subsanen las deficiencias en el rendimiento de las redes de abastecimiento.
-
-> Téngase en cuenta que la actualización de este artículo, establecida por la disposición final 6.17 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "1. Las entidades locales y sus entidades instrumentales de titularidad íntegramente públicas, así como las sociedades de economía mixta participadas mayoritariamente por las citadas entidades, titulares o gestoras de las redes de abastecimiento cuyo rendimiento sea inferior al que se determine reglamentariamente, en los sistemas de distribución de agua de uso urbano, no podrán ser beneficiarias de financiación de la Junta de Andalucía destinada a dichas instalaciones, así como de otras medidas de fomento establecidas con la misma finalidad. Dicha medida será aplicable, una vez transcurridos los plazos establecidos reglamentariamente.
-
-> 2\. En el supuesto previsto en el apartado anterior, la consejería competente en materia de agua elaborará, previa audiencia de las entidades locales afectadas, un plan de actuación que, una vez aprobado por el Consejo de Gobierno, será de obligado cumplimiento por la entidad local y empresas suministradoras. En dicho plan se podrán limitar temporalmente en los instrumentos de ordenación los incrementos de suelo urbanizable, así como la transformación, en su caso, de suelo urbanizable no sectorizado a suelo urbanizable sectorizado u ordenado, en tanto no se subsanen las deficiencias en el rendimiento de las redes de abastecimiento.
-
-> 3\. Las pérdidas de agua que se produzcan en cuantía superior a las incluidas dentro del rendimiento mínimo de las redes de abastecimiento, establecido de acuerdo con lo dispuesto en el apartado 1, tendrán la consideración de uso urbano del agua, con los efectos previstos en el título VIII de esta Ley.
-
-> 4\. Para el cálculo del rendimiento mínimo de las redes de abastecimiento se deberá tener en consideración el consumo medio en operaciones de extinción de incendios.
-
-> 5) En las facturas que se emitan a los abonados será obligatorio recoger el rendimiento técnico de la red de abastecimiento del término municipal en el que se ubique el punto de toma que da origen a la factura.
-
-> A tal efecto, se entenderá por rendimiento técnico la diferencia, medida en porcentaje, entre el volumen de agua que haya sido objeto de aducción por la entidad suministradora y el agua efectivamente distribuida y facturada a los usuarios."
 
 > Se modifica por la disposición final 6.17 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -1418,19 +1370,13 @@ b) Las balsas situadas fuera de dominio público hidráulico en el ámbito geogr
 
 ## TÍTULO VI BIS — De la protección de la calidad del medio hídrico y del régimen de vertidos
 
-> Téngase en cuenta que este título, añadido por la disposición final 6.18 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.18 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ### CAPÍTULO I — Calidad del medio hídrico
 
-> Téngase en cuenta que este capítulo, añadido por la disposición final 6.19 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.19 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 #### Sección 1.ª Disposiciones generales
-
-> Téngase en cuenta que esta sección, añadida por la disposición final 6.20 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.20 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -1450,8 +1396,6 @@ e) Evitar la acumulación de compuestos peligrosos en el subsuelo o cualquier ot
 
 f) Alcanzar los objetivos medioambientales establecidos en la legislación vigente y, en particular, el buen estado de las aguas.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.21 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.21 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 57 ter. Programas de seguimiento del estado de las aguas.
@@ -1461,8 +1405,6 @@ f) Alcanzar los objetivos medioambientales establecidos en la legislación vigen
 2\. Se elaborarán periódicamente informes sobre el estado de las aguas para lo que se podrá recabar información de otros organismos.
 
 3\. A fin de posibilitar el seguimiento de la calidad de las aguas se podrá disponer de los dispositivos de vigilancia y control que se requieran, que serán considerados de interés público, pudiendo imponerse las servidumbres que resulten necesarias.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.22 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.22 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -1474,13 +1416,9 @@ f) Alcanzar los objetivos medioambientales establecidos en la legislación vigen
 
 3\. Los programas de actuación serán de obligado cumplimiento una vez se aprueben y hagan públicos.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.23 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.23 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 #### Sección 2.ª Vertidos
-
-> Téngase en cuenta que esta sección, añadida por la disposición final 6.24 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.24 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -1964,8 +1902,6 @@ Asimismo, en su caso, los sustitutos consignarán la cuantía correspondiente a 
 
 > Véase, sobre reducción transitoria de la cuota íntegra del canon de mejora de infraestructuras hidráulicas de interés de la Comunidad Autónoma para el ejercicio de 2023, el art. 2 y la disposición transitoria 1 del Decreto-ley 7/2022, de 20 de septiembre. [Ref. BOJA-b-2022-90287](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90287)
 
-> Véase, sobre reducción transitoria de la cuota íntegra del canon de mejora de infraestructuras hidráulicas de interés de la Comunidad Autónoma para el ejercicio de 2023, el art. 2 y la disposición transitoria 1 del Decreto-ley 7/2022, de 20 de septiembre. [Ref. BOJA-b-2022-90287](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90287)
-
 > Se modifican los apartados 1 y 3 por la disposición final 7.2 y 3 de la Ley 5/2017, de 5 de diciembre. [Ref. BOE-A-2018-1098](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1098)
 
 ##### Artículo 89 bis. Rectificación de las cuotas impositivas repercutidas.
@@ -1993,8 +1929,6 @@ b) Regularizar la situación tributaria en la autoliquidación correspondiente a
 4\. A los efectos previstos en el artículo 89.3 de esta Ley, las cuotas rectificativas se incluirán en la declaración anual del ejercicio en el que se efectúe la rectificación.
 
 No obstante, en el supuesto de que el sustituto del contribuyente presente una autoliquidación complementaria correspondiente al semestre de un ejercicio con posterioridad a la presentación de la declaración anual de dicho ejercicio, deberá presentar también una declaración anual sustitutiva.
-
-> Véase, sobre reducción transitoria de la cuota íntegra del canon de mejora de infraestructuras hidráulicas de interés de la Comunidad Autónoma para el ejercicio de 2023, el art. 2 del Decreto-ley 7/2022, de 20 de septiembre. [Ref. BOJA-b-2022-90287](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90287)
 
 > Véase, sobre reducción transitoria de la cuota íntegra del canon de mejora de infraestructuras hidráulicas de interés de la Comunidad Autónoma para el ejercicio de 2023, el art. 2 del Decreto-ley 7/2022, de 20 de septiembre. [Ref. BOJA-b-2022-90287](https://www.boe.es/buscar/doc.php?id=BOJA-b-2022-90287)
 
@@ -2124,14 +2058,6 @@ Corresponde la aplicación de estos cánones y tarifa a la Agencia Tributaria de
 
 ## TÍTULO IX — Disciplina en materia de aguas
 
-> Téngase en cuenta que la actualización de este título, establecida por la disposición final 6.30 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "TÍTULO IX
-
-> Disciplina en Materia de Agua"
-
 > Se modifica por la disposición final 6.30 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 103. Disposiciones generales.
@@ -2141,16 +2067,6 @@ Corresponde la aplicación de estos cánones y tarifa a la Agencia Tributaria de
 2\. Constituye el régimen de disciplina en materia de aguas la tipificación de infracciones administrativas y el conjunto de actuaciones de vigilancia, inspección y control del medio hídrico, medidas cautelares, coercitivas y sancionadoras que pueden ser llevadas a cabo por los órganos competentes de la Junta de Andalucía o por los entes locales, con la finalidad de proteger, conservar y restaurar la calidad del medio hídrico.
 
 3\. Se podrán establecer instrumentos de colaboración sobre disciplina en materia de calidad del medio hídrico y vertidos entre la Consejería competente en aguas y los entes locales, de conformidad con la normativa reguladora del régimen local. Tales instrumentos podrán establecer planes de inspección y control.
-
-> Téngase en cuenta que la actualización de este artículo, establecida por la disposición final 6.31 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "Artículo 103. Régimen general.
-
-> Las previsiones contenidas en este título desarrollan y complementan el régimen sancionador establecido en el Título VII del Texto Refundido de la Ley de Aguas.
-
-> Sin perjuicio de lo anterior, serán de aplicación en materia de agua las disposiciones contenidas en el Título VIII de la Ley de Gestión Integrada de la Calidad Ambiental contenidas en el Capítulo I, sobre disposiciones generales; Capítulo II, relativas a vigilancia e inspección y control ambiental; Sección 4.ª del Capítulo III, sobre infracciones y sanciones en materia de calidad del medio hídrico; Sección 7.ª, correspondiente a infracciones y sanciones de las entidades colaboradoras de la Administración, en el ejercicio de sus funciones; Sección 9ª, relativa a disposiciones comunes a las infracciones y sanciones, salvo lo dispuesto en los artículos 155, 156, 158 y 159; Capítulo IV, sobre responsabilidad por infracciones y normas comunes al procedimiento sancionador, y el Capítulo V, en materia de restauración del daño al medio ambiente."
 
 > Se modifica por la disposición final 6.31 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2178,22 +2094,6 @@ c) Tomar o sacar muestras de sustancias y materiales, realizar mediciones, obten
 
 8\. El acceso en funciones de inspección conllevará obligatoriamente el levantamiento de la correspondiente acta de visita en la que se harán constar los hechos observados y, en especial, aquellos que pudieran ser constitutivos de infracción administrativa, así como las alegaciones de la persona inspeccionada. Las actas levantadas por el personal inspector gozarán de la presunción de veracidad respecto de los hechos que en las mismas se constaten.
 
-> Téngase en cuenta que la actualización de este artículo, establecida por la disposición final 6.32 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "Artículo 104. Acceso a terrenos, instalaciones y obras hidráulicas.
-
-> 1\. Las autoridades, los agentes de la autoridad y la guardería fluvial en el ejercicio de sus funciones de inspección programadas o expresamente ordenadas por las autoridades ambientales podrán:
-
-> a) Acceder libremente, en cualquier momento y sin previo aviso, a todo tipo de terrenos e instalaciones sujetos a inspección y permanecer en ellos, con respeto, en todo caso, a la inviolabilidad del domicilio. Al efectuar una visita de inspección, deberán comunicar su presencia a la persona inspeccionada o a su representante, a menos que considere que dicha comunicación pueda perjudicar el éxito de sus funciones.
-
-> b) Proceder a practicar cualquier diligencia de investigación, examen o prueba que consideren necesaria para comprobar que las disposiciones legales se observan correctamente.
-
-> c) Tomar o sacar muestras de sustancias y materiales, realizar mediciones, obtener fotografías, vídeos, grabación de imágenes, y levantar croquis y planos, siempre que se notifique a la persona titular o a su representante, salvo casos de urgencia, en los que la notificación podrá efectuarse con posterioridad.
-
-> 2\. El acceso en funciones de inspección conllevará obligatoriamente el levantamiento de la correspondiente acta de visita de inspección, que deberá ser puesta en conocimiento de la persona titular de los terrenos e instalaciones."
-
 > Se modifica por la disposición final 6.32 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 105. Entidades colaboradoras.
@@ -2205,16 +2105,6 @@ c) Tomar o sacar muestras de sustancias y materiales, realizar mediciones, obten
 3\. Por orden de la persona titular de la Consejería competente en materia de aguas se creará un registro de entidades colaboradoras en cuanto al control de la seguridad de presas y embalses, cuya gestión corresponderá a la Consejería competente en materia de aguas.
 
 4\. Asimismo, tendrán la consideración de entidades colaboradoras de la Consejería competente en materia de aguas en cuanto al control, vigilancia y protección del dominio público hidráulico y de la calidad de las aguas las debidamente autorizadas conforme a la normativa aplicable.
-
-> Téngase en cuenta que la actualización de este artículo, establecida por la disposición final 6.33 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "1. Son entidades colaboradoras de la consejería competente en materia de agua en materia de control de la seguridad de presas y embalses las establecidas en el artículo 365 del Reglamento del Dominio Público Hidráulico.
-
-> 2\. En el ámbito de la Comunidad Autónoma de Andalucía, las condiciones y el procedimiento para obtener y renovar el título de entidad colaboradora en materia de control de la seguridad de presas y embalses, las actividades a las que se puede extender su colaboración, así como las facultades y competencias de su personal que, en todo caso, estará facultado para acceder a las instalaciones correspondientes, serán las que establezca la persona titular de la consejería competente en materia de agua mediante Orden.
-
-> 3\. Por Orden de la persona titular de la consejería competente en materia de agua se creará un registro de entidades colaboradoras en materia de control de la seguridad de presas y embalses, cuya gestión corresponderá a la consejería competente en materia de agua."
 
 > Se modifica por la disposición final 6.33 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2422,8 +2312,6 @@ d) El incumplimiento de cualquier otra de las condiciones establecidas en la aut
 
 e) El incumplimiento de las obligaciones establecidas en los programas de actuación para prevenir la contaminación por nitratos de origen agrario y otros contaminantes de origen difuso, cuando no se haya producido daño o deterioro para el medio ambiente.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.34 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.34 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 108 ter. Sanciones e indemnizaciones en materia de calidad del medio hídrico.
@@ -2465,8 +2353,6 @@ c) Revocación de la autorización o suspensión de la misma por un periodo máx
 d) Imposibilidad de obtención durante un año de préstamos, subvenciones o ayudas públicas en materia de medio ambiente.
 
 e) Imposibilidad de hacer uso del distintivo de calidad ambiental de la Administración de la Junta de Andalucía por un periodo mínimo de dos años y máximo de cinco años.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.35 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.35 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2530,18 +2416,6 @@ b) A las infracciones tipificadas en las ordenanzas les será de aplicación el 
 
 c) El importe de las sanciones pecuniarias que se establezcan en las ordenanzas municipales para las infracciones leves, graves y muy graves no excederá de lo previsto en el artículo 108 ter.1 de esta ley.
 
-> Téngase en cuenta que la actualización de las letras b) y c), establecida por la disposición final 6.36 y 37 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "b) A las infracciones tipificadas en las ordenanzas les será de aplicación el régimen sancionador establecido en las siguientes disposiciones de la Ley de Gestión Integrada de la Calidad Ambiental:
-
-> 1.ª La sección IX del capítulo III del título VIII, salvo los artículos 155, 156, 158 y 159.
-
-> 2.ª El capítulo IV y el capítulo V del título VIII, este último en cuanto a la reparación en general del daño causado.
-
-> c) El importe de las sanciones pecuniarias que se establezcan en las ordenanzas municipales para las infracciones leves, graves y muy graves no excederá de lo previsto en el artículo 108.1 de esta Ley."
-
 d) En la determinación normativa del régimen sancionador, así como en la imposición de sanciones por las entidades locales, se deberá cumplir con el principio de proporcionalidad, en los términos establecidos en el artículo 131 de la Ley 30/1992, de 26 de noviembre.
 
 > Se modifican las letras b) y c) por la disposición final 6.36 y 37 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
@@ -2594,8 +2468,6 @@ q) La reparación espontánea por parte del infractor del daño causado.
 
 5\. Por razón de la escasa o nula trascendencia del hecho sancionado o por resultar claramente desproporcionada la sanción prevista respecto a las circunstancias concurrentes, podrá aplicarse la sanción establecida para la infracción inmediatamente inferior.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.38 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.38 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 112 ter. Sujetos responsables de las infracciones en materia de calidad del medio hídrico.
@@ -2608,8 +2480,6 @@ b) Las personas físicas o jurídicas que sean propietarios, titulares de terren
 
 2\. En el caso de que una obligación legal corresponda a varias personas conjuntamente o cuando no fuera posible determinar el grado de participación de las distintas personas que hubieren intervenido en la realización de la infracción, responderán de forma solidaria de las infracciones que en su caso se cometan y de las sanciones que se impongan.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.39 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.39 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 112 quater. Prescripción de infracciones y sanciones en materia de calidad del medio hídrico.
@@ -2621,8 +2491,6 @@ b) Las personas físicas o jurídicas que sean propietarios, titulares de terren
 3\. Las sanciones impuestas por infracciones muy graves prescribirán a los tres años, las impuestas por infracciones graves a los dos años y las impuestas por infracciones leves al año.
 
 4\. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea firme la resolución por la que se imponga la sanción.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.40 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.40 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2650,15 +2518,11 @@ g) Prestación de fianza.
 
 4\. El órgano competente para resolver podrá incluir en la resolución del procedimiento alguna o algunas de las medidas incluidas en el apartado primero de este artículo, o confirmarlas en el caso de que se hubiesen acordado con carácter provisional durante la instrucción; tendrán la consideración de obligaciones no pecuniarias del infractor y su adopción deberá estar debidamente motivada.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.41 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.41 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 112 sexies. Remisión a la jurisdicción penal.
 
 En los supuestos en que las infracciones en materia de calidad del medio hídrico pudieran ser constitutivas de delito o falta, la Administración dará cuenta de los hechos al Ministerio Fiscal y se abstendrá de proseguir el procedimiento sancionador hasta que recaiga resolución judicial firme en los supuestos de identidad de sujeto, hecho y fundamento. En el caso de no haberse apreciado la existencia de delito o falta, el órgano administrativo competente continuará el expediente sancionador. Los hechos declarados probados en la resolución judicial firme vincularán al órgano administrativo.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.42 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.42 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2672,8 +2536,6 @@ En los supuestos en que las infracciones en materia de calidad del medio hídric
 
 4\. La ejecución subsidiaria se hará por cuenta de los responsables, sin perjuicio de las sanciones pecuniarias y demás indemnizaciones a que hubiera lugar.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.43 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.43 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 112 octies. Multas coercitivas por infracciones en materia de calidad del medio hídrico.
@@ -2682,15 +2544,11 @@ En los supuestos en que las infracciones en materia de calidad del medio hídric
 
 2\. Antes de la imposición de las multas coercitivas establecidas en el apartado anterior se requerirá al infractor fijándole un plazo para la ejecución voluntaria de lo ordenado, cuya duración será fijada por el órgano sancionador atendidas las circunstancias y que, en todo caso, será suficiente para efectuar dicho cumplimiento voluntario.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.44 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.44 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 112 nonies. Vía de apremio por infracciones en materia de calidad del medio hídrico.
 
 Podrán ser exigidos por la vía de apremio tanto los importes de las sanciones pecuniarias como los gastos de la ejecución subsidiaria e indemnización por daños y perjuicios.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.45 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.45 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2706,8 +2564,6 @@ Podrán ser exigidos por la vía de apremio tanto los importes de las sanciones 
 
 5\. A los efectos previstos en el apartado anterior, la solicitud de anotación se acompañará de certificación administrativa acreditativa de la resolución recaída en el procedimiento sancionador, en la que conste la firmeza de la resolución recaída y el trámite o los trámites de audiencia practicados a los responsables. Cumplida la obligación de reparación podrá solicitarse la expedición de certificación acreditativa a efectos de cancelación de la anotación registral.
 
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.46 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
-
 > Se añade por la disposición final 6.46 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
 ##### Artículo 112 undecies. Daños irreparables por infracciones en materia de calidad del medio hídrico.
@@ -2715,8 +2571,6 @@ Podrán ser exigidos por la vía de apremio tanto los importes de las sanciones 
 1\. Cuando la reparación del daño no pudiera realizarse sobre el mismo elemento o en el mismo punto geográfico, el órgano competente podrá ordenar una reparación equivalente.
 
 2\. La imposibilidad de reparar el daño causado implicará la compensación del mismo mediante el abono de indemnizaciones por parte del responsable y estas se destinarán a la realización de medidas que permitan mejorar y compensar el bien dañado.
-
-> Téngase en cuenta que este artículo, añadido por la disposición final 6.47 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según establece su disposición final 7.
 
 > Se añade por la disposición final 6.47 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -2815,8 +2669,6 @@ Los principios de utilización solidaria del agua, de igualdad de trato y de pro
 Las condiciones de prestación y acceso al derecho humano al agua, concebido como mínimo vital, serán objeto de desarrollo reglamentario en la disposición administrativa de carácter general que contemple las relaciones entre las entidades que prestan los distintos servicios que componen el ciclo integral del agua de uso urbano y los usuarios de los mismos.
 
 Las personas en situación de pobreza y riesgo de exclusión social que acrediten dicha condición ante la Administración responsable de la gestión de los servicios del ciclo integral podrán ser objeto de bonificación al suministro mínimo vital de agua y al saneamiento básico en los términos que reglamentariamente se determinen.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 4 de la Ley 8/2018, de 8 de octubre. [Ref. BOE-A-2018-15238](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15238), entra en vigor el 15 de enero de 2019, según establece su disposición final 7.
 
 > Se añade por la disposición final 4 de la Ley 8/2018, de 8 de octubre. [Ref. BOE-A-2018-15238](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15238)
 

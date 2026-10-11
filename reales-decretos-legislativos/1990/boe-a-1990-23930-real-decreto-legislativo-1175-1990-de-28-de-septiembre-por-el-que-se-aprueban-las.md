@@ -10762,149 +10762,149 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 
 (Pesetas por metro cuadrado)
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local</p>
+<p>Superficie del local</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Más de<br>500.000<br>habitantes</p>
+<p>Más de<br>500.000<br>habitantes</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 100.001 a 500.000 hbts.</p>
+<p>De 100.001 a 500.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 50.001 a 100.000 hbts.</p>
+<p>De 50.001 a 100.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 20.001 a 50.000 hbts.</p>
+<p>De 20.001 a 50.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 5.001 a 20.000 hbts.</p>
+<p>De 5.001 a 20.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Menos de 5.000 hbts.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 500 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">120</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>Menos de 5.000 hbts.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 500,1 a 3.000 m<sup>2</sup></p>
+<p>De 0 a 500 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">93</p>
+<p>120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>84</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>17</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 3.000,1 a 6.000 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">74</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">52</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 6.000,1 a 10.000 m<sup>2</sup></p>
+<p>De 500,1 a 3.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">64</p>
+<p>93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de 10.000 m<sup>2</sup></p>
+<p>De 3.000,1 a 6.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>74</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39</p>
+<p>52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 6.000,1 a 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exceso de 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>39</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>4</p>
 </td>
 </tr>
 </tbody>
@@ -10912,149 +10912,149 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 
 (Euros por metro cuadrado)
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local</p>
+<p>Superficie del local</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Más de<br>500.000<br>habitantes</p>
+<p>Más de<br>500.000<br>habitantes</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 100.001 a 500.000 hbts.</p>
+<p>De 100.001 a 500.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 50.001 a 100.000 hbts.</p>
+<p>De 50.001 a 100.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 20.001 a 50.000 hbts.</p>
+<p>De 20.001 a 50.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 5.001 a 20.000 hbts.</p>
+<p>De 5.001 a 20.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Menos de 5.000 hbts.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 500 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,721215</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,504850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,330557</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,204344</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,102172</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,042071</p>
+<p>Menos de 5.000 hbts.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 500,1 a 3.000 m<sup>2</sup></p>
+<p>De 0 a 500 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,558941</p>
+<p>0,721215</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,390658</p>
+<p>0,504850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,252425</p>
+<p>0,330557</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,150253</p>
+<p>0,204344</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,078132</p>
+<p>0,102172</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,036061</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 3.000,1 a 6.000 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,444749</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,312526</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,210354</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,126213</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,066111</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,030051</p>
+<p>0,042071</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 6.000,1 a 10.000 m<sup>2</sup></p>
+<p>De 500,1 a 3.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,384648</p>
+<p>0,558941</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,270455</p>
+<p>0,390658</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,174294</p>
+<p>0,252425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,108182</p>
+<p>0,150253</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,060101</p>
+<p>0,078132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,030051</p>
+<p>0,036061</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de 10.000 m<sup>2</sup></p>
+<p>De 3.000,1 a 6.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,330557</p>
+<p>0,444749</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,234395</p>
+<p>0,312526</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,150253</p>
+<p>0,210354</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,090152</p>
+<p>0,126213</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,048081</p>
+<p>0,066111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,024040</p>
+<p>0,030051</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 6.000,1 a 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>0,384648</p>
+</td>
+<td>
+<p>0,270455</p>
+</td>
+<td>
+<p>0,174294</p>
+</td>
+<td>
+<p>0,108182</p>
+</td>
+<td>
+<p>0,060101</p>
+</td>
+<td>
+<p>0,030051</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exceso de 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>0,330557</p>
+</td>
+<td>
+<p>0,234395</p>
+</td>
+<td>
+<p>0,150253</p>
+</td>
+<td>
+<p>0,090152</p>
+</td>
+<td>
+<p>0,048081</p>
+</td>
+<td>
+<p>0,024040</p>
 </td>
 </tr>
 </tbody>
@@ -11064,149 +11064,149 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 
 (Pesetas por metro cuadrado)
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local</p>
+<p>Superficie del local</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Más de 500.000 habitantes</p>
+<p>Más de 500.000 habitantes</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 100.001 a 500.000 hbts.</p>
+<p>De 100.001 a 500.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 50.001 a 100.000 hbts.</p>
+<p>De 50.001 a 100.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 20.001 a 50.000 hbts.</p>
+<p>De 20.001 a 50.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 5.001 a 20.000 hbts.</p>
+<p>De 5.001 a 20.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Menos de 5.000<br>hbts.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 500 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>Menos de 5.000<br>hbts.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 500,1 a 3.000 m<sup>2</sup></p>
+<p>De 0 a 500 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">69</p>
+<p>90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 3.000,1 a 6.000 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">56</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 6.000,1 a 10.000 m<sup>2</sup></p>
+<p>De 500,1 a 3.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">34</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de 10.000 m<sup>2</sup></p>
+<p>De 3.000,1 a 6.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43</p>
+<p>56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 6.000,1 a 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>48</p>
+</td>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exceso de 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>31</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>3</p>
 </td>
 </tr>
 </tbody>
@@ -11214,149 +11214,149 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 
 (Euros por metro cuadrado)
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local</p>
+<p>Superficie del local</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Más de 500.000 habitantes</p>
+<p>Más de 500.000 habitantes</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 100.001 a 500.000 hbts.</p>
+<p>De 100.001 a 500.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 50.001 a 100.000 hbts.</p>
+<p>De 50.001 a 100.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 20.001 a 50.000 hbts.</p>
+<p>De 20.001 a 50.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 5.001 a 20.000 hbts.</p>
+<p>De 5.001 a 20.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Menos de 5.000<br>hbts.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 500 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,540911</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,378638</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,246415</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,144243</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,078132</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,036061</p>
+<p>Menos de 5.000<br>hbts.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 500,1 a 3.000 m<sup>2</sup></p>
+<p>De 0 a 500 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,414698</p>
+<p>0,540911</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,288486</p>
+<p>0,378638</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,192324</p>
+<p>0,246415</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,114192</p>
+<p>0,144243</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,060101</p>
+<p>0,078132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,030051</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 3.000,1 a 6.000 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,336567</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,240405</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,156263</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,096162</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,054091</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,024040</p>
+<p>0,036061</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 6.000,1 a 10.000 m<sup>2</sup></p>
+<p>De 500,1 a 3.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,288486</p>
+<p>0,414698</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,204344</p>
+<p>0,288486</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,132223</p>
+<p>0,192324</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,084142</p>
+<p>0,114192</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,048081</p>
+<p>0,060101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,024040</p>
+<p>0,030051</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de 10.000 m<sup>2</sup></p>
+<p>De 3.000,1 a 6.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,258435</p>
+<p>0,336567</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,186314</p>
+<p>0,240405</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,120202</p>
+<p>0,156263</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,072121</p>
+<p>0,096162</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,042071</p>
+<p>0,054091</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,018030</p>
+<p>0,024040</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 6.000,1 a 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>0,288486</p>
+</td>
+<td>
+<p>0,204344</p>
+</td>
+<td>
+<p>0,132223</p>
+</td>
+<td>
+<p>0,084142</p>
+</td>
+<td>
+<p>0,048081</p>
+</td>
+<td>
+<p>0,024040</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exceso de 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>0,258435</p>
+</td>
+<td>
+<p>0,186314</p>
+</td>
+<td>
+<p>0,120202</p>
+</td>
+<td>
+<p>0,072121</p>
+</td>
+<td>
+<p>0,042071</p>
+</td>
+<td>
+<p>0,018030</p>
 </td>
 </tr>
 </tbody>
@@ -11366,149 +11366,149 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 
 (Pesetas por metro cuadrado)
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local</p>
+<p>Superficie del local</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Más de 500.000 habitantes</p>
+<p>Más de 500.000 habitantes</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 100.001<br>a 500.000 hbts.</p>
+<p>De 100.001<br>a 500.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 50.001 a 100.000 hbts.</p>
+<p>De 50.001 a 100.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 20.001 a 50.000 hbts.</p>
+<p>De 20.001 a 50.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 5.001 a 20.000 hbts.</p>
+<p>De 5.001 a 20.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Menos de 5.000<br>hbts.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 500 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">284</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">199</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">130</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>Menos de 5.000<br>hbts.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 500,1 a 3.000 m<sup>2</sup></p>
+<p>De 0 a 500 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">218</p>
+<p>284</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">153</p>
+<p>199</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">61</p>
+<p>78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 3.000,1 a 6.000 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">174</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">123</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.000,1 a 10.000 m<sup>2</sup></p>
+<p>De 500,1 a 3.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">149</p>
+<p>218</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104</p>
+<p>153</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41</p>
+<p>61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>13</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de 10.000 m<sup>2</sup></p>
+<p>De 3.000,1 a 6.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">128</p>
+<p>174</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90</p>
+<p>123</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.000,1 a 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>149</p>
+</td>
+<td>
+<p>104</p>
+</td>
+<td>
+<p>68</p>
+</td>
+<td>
+<p>41</p>
+</td>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exceso de 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>128</p>
+</td>
+<td>
+<p>90</p>
+</td>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>8</p>
 </td>
 </tr>
 </tbody>
@@ -11516,149 +11516,149 @@ d) Para cuantificar el elemento superficie, se aplicarán los siguientes cuadros
 
 (Euros por metro cuadrado)
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local</p>
+<p>Superficie del local</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Más de 500.000 habitantes</p>
+<p>Más de 500.000 habitantes</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 100.001<br>a 500.000 hbts.</p>
+<p>De 100.001<br>a 500.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 50.001 a 100.000 hbts.</p>
+<p>De 50.001 a 100.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 20.001 a 50.000 hbts.</p>
+<p>De 20.001 a 50.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 5.001 a 20.000 hbts.</p>
+<p>De 5.001 a 20.000 hbts.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Menos de 5.000<br>hbts.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 500 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,706874</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,196014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,781316</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,468789</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,240405</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,096162</p>
+<p>Menos de 5.000<br>hbts.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 500,1 a 3.000 m<sup>2</sup></p>
+<p>De 0 a 500 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,310206</p>
+<p>1,706874</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,919549</p>
+<p>1,196014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,601012</p>
+<p>0,781316</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,366617</p>
+<p>0,468789</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,186314</p>
+<p>0,240405</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,078132</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 3.000,1 a 6.000 m<sup>2</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,045761</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,739245</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,480810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,288486</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,144243</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,060101</p>
+<p>0,096162</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6.000,1 a 10.000 m<sup>2</sup></p>
+<p>De 500,1 a 3.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,895508</p>
+<p>1,310206</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,625053</p>
+<p>0,919549</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,408688</p>
+<p>0,601012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,246415</p>
+<p>0,366617</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,126213</p>
+<p>0,186314</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,054091</p>
+<p>0,078132</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Exceso de 10.000 m<sup>2</sup></p>
+<p>De 3.000,1 a 6.000 m<sup>2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,769295</p>
+<p>1,045761</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,540911</p>
+<p>0,739245</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,348587</p>
+<p>0,480810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,216364</p>
+<p>0,288486</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,108182</p>
+<p>0,144243</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,048081</p>
+<p>0,060101</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.000,1 a 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>0,895508</p>
+</td>
+<td>
+<p>0,625053</p>
+</td>
+<td>
+<p>0,408688</p>
+</td>
+<td>
+<p>0,246415</p>
+</td>
+<td>
+<p>0,126213</p>
+</td>
+<td>
+<p>0,054091</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Exceso de 10.000 m<sup>2</sup></p>
+</td>
+<td>
+<p>0,769295</p>
+</td>
+<td>
+<p>0,540911</p>
+</td>
+<td>
+<p>0,348587</p>
+</td>
+<td>
+<p>0,216364</p>
+</td>
+<td>
+<p>0,108182</p>
+</td>
+<td>
+<p>0,048081</p>
 </td>
 </tr>
 </tbody>

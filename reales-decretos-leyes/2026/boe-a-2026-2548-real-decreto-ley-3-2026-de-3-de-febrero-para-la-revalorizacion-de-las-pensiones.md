@@ -185,84 +185,78 @@ c) El límite de ingresos anuales en el año 2026 para las personas beneficiaria
 
 No obstante, la cuantía de la asignación económica será en cómputo anual de 637,92 euros en los casos en que los ingresos familiares sean inferiores a los importes señalados en la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Integrantes del hogar</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo de ingresos</th>
-<th class="cabeza_tabla" rowspan="2">Asignación integra anual</th>
+<th colspan="2">Integrantes del hogar</th>
+<th rowspan="2">Intervalo de ingresos</th>
+<th rowspan="2">Asignación integra anual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Personas ≥ 14 años (M)</th>
-<th class="cabeza_tabla">Personas &lt; 14 años (N)</th>
+<th>Personas ≥ 14 años (M)</th>
+<th>Personas &lt; 14 años (N)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">5.839 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>1</td>
+<td>5.839 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">7.185 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>2</td>
+<td>7.185 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">8.532 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>3</td>
+<td>8.532 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">8.083 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>1</td>
+<td>8.083 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">9.429 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>2</td>
+<td>9.429 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">10.776 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>3</td>
+<td>10.776 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">10.328 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>1</td>
+<td>10.328 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">11.674 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>2</td>
+<td>11.674 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">13.020 o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>3</td>
+<td>13.020 o menos</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">4.492 + [(4.492 x 0,5 x (M-1)) + (4.492 x 0,3 x N)] o menos</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>M</td>
+<td>N</td>
+<td>4.492 + [(4.492 x 0,5 x (M-1)) + (4.492 x 0,3 x N)] o menos</td>
+<td>637,92 x H</td>
 </tr>
 </tbody>
 </table>
@@ -347,1302 +341,1288 @@ Tres. Se incorpora una disposición adicional sexagésima primera en los términ
 
 > 1\. La cotización a la Seguridad Social de los empresarios, cualquiera que sea el régimen de encuadramiento y, en su caso, de las personas trabajadoras por cuenta propia incluidas en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar y en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios, establecido en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, por las contingencias de accidentes de trabajo y enfermedades profesionales se llevará a cabo, a partir del 1 de enero de 2026, en función de la correspondiente actividad económica, ocupación o situación, mediante la aplicación de la siguiente tarifa:
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_cursiva">Tarifa para la cotización por accidentes de trabajo y enfermedades profesionales</p>
-> <p class="centro_redonda">Cuadro I</p>
+> <p>Tarifa para la cotización por accidentes de trabajo y enfermedades profesionales</p>
+> <p>Cuadro I</p>
 > </caption>
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="2" rowspan="2">Códigos CNAE-2025 y título de la actividad económica</th>
-> <th class="cabeza_tabla" colspan="3">Tipos de cotización</th>
+> <th colspan="2" rowspan="2">Códigos CNAE-2025 y título de la actividad económica</th>
+> <th colspan="3">Tipos de cotización</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">IT</th>
-> <th class="cabeza_tabla">IMS</th>
-> <th class="cabeza_tabla">Total</th>
+> <th>IT</th>
+> <th>IMS</th>
+> <th>Total</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">01 </td>
-> <td class="cuerpo_tabla_izq">Agricultura, ganadería, caza y servicios relacionados con las mismas (Excepto 0113, 0119, 0129 y 0130).</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>01 </td>
+> <td>Agricultura, ganadería, caza y servicios relacionados con las mismas (Excepto 0113, 0119, 0129 y 0130).</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0113</td>
-> <td class="cuerpo_tabla_izq">Cultivo de hortalizas, raíces y tubérculos.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
+> <td>0113</td>
+> <td>Cultivo de hortalizas, raíces y tubérculos.</td>
+> <td>1,00</td>
+> <td>1,00</td>
+> <td>2,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0119</td>
-> <td class="cuerpo_tabla_izq">Otros cultivos no perennes.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
+> <td>0119</td>
+> <td>Otros cultivos no perennes.</td>
+> <td>1,00</td>
+> <td>1,00</td>
+> <td>2,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0129</td>
-> <td class="cuerpo_tabla_izq">Otros cultivos perennes.</td>
-> <td class="cuerpo_tabla_coma">2,25</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,15</td>
+> <td>0129</td>
+> <td>Otros cultivos perennes.</td>
+> <td>2,25</td>
+> <td>2,90</td>
+> <td>5,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0130</td>
-> <td class="cuerpo_tabla_izq">Propagación de plantas.</td>
-> <td class="cuerpo_tabla_coma">1,15</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,25</td>
+> <td>0130</td>
+> <td>Propagación de plantas.</td>
+> <td>1,15</td>
+> <td>1,10</td>
+> <td>2,25</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">014</td>
-> <td class="cuerpo_tabla_izq">Producción ganadera (Excepto 0147).</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>014</td>
+> <td>Producción ganadera (Excepto 0147).</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0147</td>
-> <td class="cuerpo_tabla_izq">Avicultura.</td>
-> <td class="cuerpo_tabla_coma">1,25</td>
-> <td class="cuerpo_tabla_coma">1,15</td>
-> <td class="cuerpo_tabla_coma">2,40</td>
+> <td>0147</td>
+> <td>Avicultura.</td>
+> <td>1,25</td>
+> <td>1,15</td>
+> <td>2,40</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">015</td>
-> <td class="cuerpo_tabla_izq">Producción agrícola combinada con la producción ganadera.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>015</td>
+> <td>Producción agrícola combinada con la producción ganadera.</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">016</td>
-> <td class="cuerpo_tabla_izq">Actividades de apoyo a la agricultura, a la ganadería y de preparación posterior a la cosecha (Excepto 0163).</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>016</td>
+> <td>Actividades de apoyo a la agricultura, a la ganadería y de preparación posterior a la cosecha (Excepto 0163).</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0163</td>
-> <td class="cuerpo_tabla_izq">Actividades de preparación posterior a la cosecha y tratamiento de semillas para reproducción.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,15</td>
-> <td class="cuerpo_tabla_coma">2,65</td>
+> <td>0163</td>
+> <td>Actividades de preparación posterior a la cosecha y tratamiento de semillas para reproducción.</td>
+> <td>1,50</td>
+> <td>1,15</td>
+> <td>2,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">017</td>
-> <td class="cuerpo_tabla_izq">Caza, captura de animales y servicios relacionados.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>017</td>
+> <td>Caza, captura de animales y servicios relacionados.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">02 </td>
-> <td class="cuerpo_tabla_izq">Silvicultura y explotación forestal.</td>
-> <td class="cuerpo_tabla_coma">2,25</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,15</td>
+> <td>02 </td>
+> <td>Silvicultura y explotación forestal.</td>
+> <td>2,25</td>
+> <td>2,90</td>
+> <td>5,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">03 </td>
-> <td class="cuerpo_tabla_izq">Pesca y acuicultura (Excepto v, w, 0322 y 0330).</td>
-> <td class="cuerpo_tabla_coma">3,05</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,40</td>
+> <td>03 </td>
+> <td>Pesca y acuicultura (Excepto v, w, 0322 y 0330).</td>
+> <td>3,05</td>
+> <td>3,35</td>
+> <td>6,40</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">v</td>
-> <td class="cuerpo_tabla_izq">Grupo segundo de cotización del Régimen especial del Mar.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">4,10</td>
+> <td>v</td>
+> <td>Grupo segundo de cotización del Régimen especial del Mar.</td>
+> <td>2,10</td>
+> <td>2,00</td>
+> <td>4,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">w</td>
-> <td class="cuerpo_tabla_izq">Grupo tercero de cotización del Régimen especial del Mar.</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
+> <td>w</td>
+> <td>Grupo tercero de cotización del Régimen especial del Mar.</td>
+> <td>1,65</td>
+> <td>1,70</td>
+> <td>3,35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0322</td>
-> <td class="cuerpo_tabla_izq">Acuicultura en agua dulce.</td>
-> <td class="cuerpo_tabla_coma">3,05</td>
-> <td class="cuerpo_tabla_coma">3,20</td>
-> <td class="cuerpo_tabla_coma">6,25</td>
+> <td>0322</td>
+> <td>Acuicultura en agua dulce.</td>
+> <td>3,05</td>
+> <td>3,20</td>
+> <td>6,25</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0330</td>
-> <td class="cuerpo_tabla_izq">Actividades de apoyo a la pesca y la acuicultura.</td>
-> <td class="cuerpo_tabla_coma">2,25</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,15</td>
+> <td>0330</td>
+> <td>Actividades de apoyo a la pesca y la acuicultura.</td>
+> <td>2,25</td>
+> <td>2,90</td>
+> <td>5,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">05 </td>
-> <td class="cuerpo_tabla_izq">Extracción de antracita, hulla, y lignito (Excepto y).</td>
-> <td class="cuerpo_tabla_coma">2,30</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,20</td>
+> <td>05 </td>
+> <td>Extracción de antracita, hulla, y lignito (Excepto y).</td>
+> <td>2,30</td>
+> <td>2,90</td>
+> <td>5,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">y</td>
-> <td class="cuerpo_tabla_izq">Trabajos habituales en interior de minas.</td>
-> <td class="cuerpo_tabla_coma">3,45</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
-> <td class="cuerpo_tabla_coma">7,15</td>
+> <td>y</td>
+> <td>Trabajos habituales en interior de minas.</td>
+> <td>3,45</td>
+> <td>3,70</td>
+> <td>7,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">06 </td>
-> <td class="cuerpo_tabla_izq">Extracción de crudo de petróleo y gas natural.</td>
-> <td class="cuerpo_tabla_coma">2,30</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,20</td>
+> <td>06 </td>
+> <td>Extracción de crudo de petróleo y gas natural.</td>
+> <td>2,30</td>
+> <td>2,90</td>
+> <td>5,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">07 </td>
-> <td class="cuerpo_tabla_izq">Extracción de minerales metálicos.</td>
-> <td class="cuerpo_tabla_coma">2,30</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,20</td>
+> <td>07 </td>
+> <td>Extracción de minerales metálicos.</td>
+> <td>2,30</td>
+> <td>2,90</td>
+> <td>5,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">08 </td>
-> <td class="cuerpo_tabla_izq">Otras industrias extractivas (Excepto 0811).</td>
-> <td class="cuerpo_tabla_coma">2,30</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,20</td>
+> <td>08 </td>
+> <td>Otras industrias extractivas (Excepto 0811).</td>
+> <td>2,30</td>
+> <td>2,90</td>
+> <td>5,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">0811</td>
-> <td class="cuerpo_tabla_izq">Extracción de piedra ornamental, piedra caliza, yeso, pizarra y otras piedras.</td>
-> <td class="cuerpo_tabla_coma">3,45</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
-> <td class="cuerpo_tabla_coma">7,15</td>
+> <td>0811</td>
+> <td>Extracción de piedra ornamental, piedra caliza, yeso, pizarra y otras piedras.</td>
+> <td>3,45</td>
+> <td>3,70</td>
+> <td>7,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">09 </td>
-> <td class="cuerpo_tabla_izq">Actividades de apoyo a las industrias extractivas.</td>
-> <td class="cuerpo_tabla_coma">2,30</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,20</td>
+> <td>09 </td>
+> <td>Actividades de apoyo a las industrias extractivas.</td>
+> <td>2,30</td>
+> <td>2,90</td>
+> <td>5,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">10 </td>
-> <td class="cuerpo_tabla_izq">Industria alimentaria (Excepto 101, 102, 106, 107 y 108).</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,20</td>
+> <td>10 </td>
+> <td>Industria alimentaria (Excepto 101, 102, 106, 107 y 108).</td>
+> <td>1,60</td>
+> <td>1,60</td>
+> <td>3,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">101</td>
-> <td class="cuerpo_tabla_izq">Procesado y conservación de carne y elaboración de productos cárnicos.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,90</td>
-> <td class="cuerpo_tabla_coma">3,90</td>
+> <td>101</td>
+> <td>Procesado y conservación de carne y elaboración de productos cárnicos.</td>
+> <td>2,00</td>
+> <td>1,90</td>
+> <td>3,90</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">102</td>
-> <td class="cuerpo_tabla_izq">Procesado y conservación de pescados, crustáceos y moluscos.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>102</td>
+> <td>Procesado y conservación de pescados, crustáceos y moluscos.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">106</td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos de molinería, almidones y productos amiláceos.</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>106</td>
+> <td>Fabricación de productos de molinería, almidones y productos amiláceos.</td>
+> <td>1,70</td>
+> <td>1,60</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">107</td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos de panadería y pastas alimenticias.</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">0,90</td>
-> <td class="cuerpo_tabla_coma">1,95</td>
+> <td>107</td>
+> <td>Fabricación de productos de panadería y pastas alimenticias.</td>
+> <td>1,05</td>
+> <td>0,90</td>
+> <td>1,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">108</td>
-> <td class="cuerpo_tabla_izq">Fabricación de otros productos alimenticios.</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">0,90</td>
-> <td class="cuerpo_tabla_coma">1,95</td>
+> <td>108</td>
+> <td>Fabricación de otros productos alimenticios.</td>
+> <td>1,05</td>
+> <td>0,90</td>
+> <td>1,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_izq">Fabricación de bebidas.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,20</td>
+> <td>11</td>
+> <td>Fabricación de bebidas.</td>
+> <td>1,60</td>
+> <td>1,60</td>
+> <td>3,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">12 </td>
-> <td class="cuerpo_tabla_izq">Industria del tabaco.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
+> <td>12 </td>
+> <td>Industria del tabaco.</td>
+> <td>1,00</td>
+> <td>0,80</td>
+> <td>1,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">13 </td>
-> <td class="cuerpo_tabla_izq">Industria textil (Excepto 1391).</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
+> <td>13 </td>
+> <td>Industria textil (Excepto 1391).</td>
+> <td>1,00</td>
+> <td>0,85</td>
+> <td>1,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">1391</td>
-> <td class="cuerpo_tabla_izq">Fabricación de tejidos de punto.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>1391</td>
+> <td>Fabricación de tejidos de punto.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">14 </td>
-> <td class="cuerpo_tabla_izq">Confección de prendas de vestir (Excepto 1424).</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>14 </td>
+> <td>Confección de prendas de vestir (Excepto 1424).</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">1424</td>
-> <td class="cuerpo_tabla_izq">Confección de prendas de vestir de cuero y peletería.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>1424</td>
+> <td>Confección de prendas de vestir de cuero y peletería.</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">15 </td>
-> <td class="cuerpo_tabla_izq">Industria del cuero y productos relacionados de otros materiales.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>15 </td>
+> <td>Industria del cuero y productos relacionados de otros materiales.</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">16 </td>
-> <td class="cuerpo_tabla_izq">Industria de la madera y del corcho, excepto muebles; cestería y espartería (Excepto 1624, 1626, 1627 y 1628).</td>
-> <td class="cuerpo_tabla_coma">2,25</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
-> <td class="cuerpo_tabla_coma">5,15</td>
+> <td>16 </td>
+> <td>Industria de la madera y del corcho, excepto muebles; cestería y espartería (Excepto 1624, 1626, 1627 y 1628).</td>
+> <td>2,25</td>
+> <td>2,90</td>
+> <td>5,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">1624</td>
-> <td class="cuerpo_tabla_izq">Fabricación de envases y embalajes de madera.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">4,10</td>
+> <td>1624</td>
+> <td>Fabricación de envases y embalajes de madera.</td>
+> <td>2,10</td>
+> <td>2,00</td>
+> <td>4,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">1626</td>
-> <td class="cuerpo_tabla_izq">Fabricación de combustibles sólidos a partir de biomasa vegetal.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">4,10</td>
+> <td>1626</td>
+> <td>Fabricación de combustibles sólidos a partir de biomasa vegetal.</td>
+> <td>2,10</td>
+> <td>2,00</td>
+> <td>4,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">1627</td>
-> <td class="cuerpo_tabla_izq">Acabado de productos de madera.</td>
-> <td class="cuerpo_tabla_coma">2,20</td>
-> <td class="cuerpo_tabla_coma">2,70</td>
-> <td class="cuerpo_tabla_coma">4,90</td>
+> <td>1627</td>
+> <td>Acabado de productos de madera.</td>
+> <td>2,20</td>
+> <td>2,70</td>
+> <td>4,90</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">1628</td>
-> <td class="cuerpo_tabla_izq">Fabricación de otros productos de madera, artículos de corcho, cestería y espartería.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">4,10</td>
+> <td>1628</td>
+> <td>Fabricación de otros productos de madera, artículos de corcho, cestería y espartería.</td>
+> <td>2,10</td>
+> <td>2,00</td>
+> <td>4,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">17 </td>
-> <td class="cuerpo_tabla_izq">Industria del papel (Excepto 171).</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>17 </td>
+> <td>Industria del papel (Excepto 171).</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">171</td>
-> <td class="cuerpo_tabla_izq">Fabricación de pasta papelera, papel y cartón.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,50</td>
+> <td>171</td>
+> <td>Fabricación de pasta papelera, papel y cartón.</td>
+> <td>2,00</td>
+> <td>1,50</td>
+> <td>3,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">18 </td>
-> <td class="cuerpo_tabla_izq">Artes gráficas y reproducción de soportes grabados.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
+> <td>18 </td>
+> <td>Artes gráficas y reproducción de soportes grabados.</td>
+> <td>1,00</td>
+> <td>1,00</td>
+> <td>2,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">19 </td>
-> <td class="cuerpo_tabla_izq">Coquerías y refino de petróleo.</td>
-> <td class="cuerpo_tabla_coma">1,45</td>
-> <td class="cuerpo_tabla_coma">1,90</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
+> <td>19 </td>
+> <td>Coquerías y refino de petróleo.</td>
+> <td>1,45</td>
+> <td>1,90</td>
+> <td>3,35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">20 </td>
-> <td class="cuerpo_tabla_izq">Industria química (Excepto 204 y 206).</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,40</td>
-> <td class="cuerpo_tabla_coma">3,00</td>
+> <td>20 </td>
+> <td>Industria química (Excepto 204 y 206).</td>
+> <td>1,60</td>
+> <td>1,40</td>
+> <td>3,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">204</td>
-> <td class="cuerpo_tabla_izq">Fabricación de artículos de lavado, limpieza y abrillantamiento.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,70</td>
+> <td>204</td>
+> <td>Fabricación de artículos de lavado, limpieza y abrillantamiento.</td>
+> <td>1,50</td>
+> <td>1,20</td>
+> <td>2,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">206</td>
-> <td class="cuerpo_tabla_izq">Fabricación de fibras artificiales y sintéticas.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,70</td>
+> <td>206</td>
+> <td>Fabricación de fibras artificiales y sintéticas.</td>
+> <td>1,50</td>
+> <td>1,20</td>
+> <td>2,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">21 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos farmacéuticos.</td>
-> <td class="cuerpo_tabla_coma">1,30</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,40</td>
+> <td>21 </td>
+> <td>Fabricación de productos farmacéuticos.</td>
+> <td>1,30</td>
+> <td>1,10</td>
+> <td>2,40</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">22 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos de caucho y plásticos.</td>
-> <td class="cuerpo_tabla_coma">1,75</td>
-> <td class="cuerpo_tabla_coma">1,25</td>
-> <td class="cuerpo_tabla_coma">3,00</td>
+> <td>22 </td>
+> <td>Fabricación de productos de caucho y plásticos.</td>
+> <td>1,75</td>
+> <td>1,25</td>
+> <td>3,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">23 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de otros productos minerales no metálicos (Excepto 231, 232, 2331, 234 y 237).</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">4,10</td>
+> <td>23 </td>
+> <td>Fabricación de otros productos minerales no metálicos (Excepto 231, 232, 2331, 234 y 237).</td>
+> <td>2,10</td>
+> <td>2,00</td>
+> <td>4,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">231</td>
-> <td class="cuerpo_tabla_izq">Fabricación de vidrio y productos de vidrio.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,10</td>
+> <td>231</td>
+> <td>Fabricación de vidrio y productos de vidrio.</td>
+> <td>1,60</td>
+> <td>1,50</td>
+> <td>3,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">232</td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos cerámicos refractarios.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,10</td>
+> <td>232</td>
+> <td>Fabricación de productos cerámicos refractarios.</td>
+> <td>1,60</td>
+> <td>1,50</td>
+> <td>3,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2331</td>
-> <td class="cuerpo_tabla_izq">Fabricación de azulejos y baldosas de cerámica.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,10</td>
+> <td>2331</td>
+> <td>Fabricación de azulejos y baldosas de cerámica.</td>
+> <td>1,60</td>
+> <td>1,50</td>
+> <td>3,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">234</td>
-> <td class="cuerpo_tabla_izq">Fabricación de otros productos cerámicos.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,10</td>
+> <td>234</td>
+> <td>Fabricación de otros productos cerámicos.</td>
+> <td>1,60</td>
+> <td>1,50</td>
+> <td>3,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">237</td>
-> <td class="cuerpo_tabla_izq">Corte, tallado y acabado de la piedra.</td>
-> <td class="cuerpo_tabla_coma">2,75</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,10</td>
+> <td>237</td>
+> <td>Corte, tallado y acabado de la piedra.</td>
+> <td>2,75</td>
+> <td>3,35</td>
+> <td>6,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">24 </td>
-> <td class="cuerpo_tabla_izq">Metalurgia.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>24 </td>
+> <td>Metalurgia.</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">25 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos metálicos, excepto maquinaria y equipo.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>25 </td>
+> <td>Fabricación de productos metálicos, excepto maquinaria y equipo.</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">26 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de productos informáticos, electrónicos y ópticos.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>26 </td>
+> <td>Fabricación de productos informáticos, electrónicos y ópticos.</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">27 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de material y equipo eléctrico (Excepto 279).</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>27 </td>
+> <td>Fabricación de material y equipo eléctrico (Excepto 279).</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">279</td>
-> <td class="cuerpo_tabla_izq">Fabricación de otro material y equipo eléctrico.</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
-> <td class="cuerpo_tabla_coma">1,25</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
+> <td>279</td>
+> <td>Fabricación de otro material y equipo eléctrico.</td>
+> <td>1,65</td>
+> <td>1,25</td>
+> <td>2,90</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">28 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de maquinaria y equipo n.c.o.p.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>28 </td>
+> <td>Fabricación de maquinaria y equipo n.c.o.p.</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">29</td>
-> <td class="cuerpo_tabla_izq">Fabricación de vehículos de motor, remolques y semirremolques.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>29</td>
+> <td>Fabricación de vehículos de motor, remolques y semirremolques.</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">30 </td>
-> <td class="cuerpo_tabla_izq">Fabricación de otro material de transporte (Excepto 3091 y 3092).</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>30 </td>
+> <td>Fabricación de otro material de transporte (Excepto 3091 y 3092).</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">3091</td>
-> <td class="cuerpo_tabla_izq">Fabricación de motocicletas.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>3091</td>
+> <td>Fabricación de motocicletas.</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">3092</td>
-> <td class="cuerpo_tabla_izq">Fabricación de bicicletas y de vehículos para personas con discapacidad.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>3092</td>
+> <td>Fabricación de bicicletas y de vehículos para personas con discapacidad.</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">31</td>
-> <td class="cuerpo_tabla_izq">Fabricación de muebles.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>31</td>
+> <td>Fabricación de muebles.</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">32 </td>
-> <td class="cuerpo_tabla_izq">Otras industrias manufactureras (Excepto 321 y 322).</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>32 </td>
+> <td>Otras industrias manufactureras (Excepto 321 y 322).</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">321</td>
-> <td class="cuerpo_tabla_izq">Fabricación de artículos de joyería, bisutería y similares.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
+> <td>321</td>
+> <td>Fabricación de artículos de joyería, bisutería y similares.</td>
+> <td>1,00</td>
+> <td>0,85</td>
+> <td>1,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">322</td>
-> <td class="cuerpo_tabla_izq">Fabricación de instrumentos musicales.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
+> <td>322</td>
+> <td>Fabricación de instrumentos musicales.</td>
+> <td>1,00</td>
+> <td>0,85</td>
+> <td>1,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">33 </td>
-> <td class="cuerpo_tabla_izq">Reparación, mantenimiento e instalación de maquinaria y equipos (Excepto 3313 y 3314).</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>33 </td>
+> <td>Reparación, mantenimiento e instalación de maquinaria y equipos (Excepto 3313 y 3314).</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">3313</td>
-> <td class="cuerpo_tabla_izq">Reparación y mantenimiento de equipos electrónicos y ópticos.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>3313</td>
+> <td>Reparación y mantenimiento de equipos electrónicos y ópticos.</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">3314</td>
-> <td class="cuerpo_tabla_izq">Reparación y mantenimiento de equipos eléctricos.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,80</td>
+> <td>3314</td>
+> <td>Reparación y mantenimiento de equipos eléctricos.</td>
+> <td>1,60</td>
+> <td>1,20</td>
+> <td>2,80</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">35 </td>
-> <td class="cuerpo_tabla_izq">Suministro de energía eléctrica, gas, vapor y aire acondicionado.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>35 </td>
+> <td>Suministro de energía eléctrica, gas, vapor y aire acondicionado.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">36 </td>
-> <td class="cuerpo_tabla_izq">Captación, depuración y distribución de agua.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
+> <td>36 </td>
+> <td>Captación, depuración y distribución de agua.</td>
+> <td>2,10</td>
+> <td>1,60</td>
+> <td>3,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">37 </td>
-> <td class="cuerpo_tabla_izq">Recogida y tratamiento de aguas residuales.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
+> <td>37 </td>
+> <td>Recogida y tratamiento de aguas residuales.</td>
+> <td>2,10</td>
+> <td>1,60</td>
+> <td>3,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">38 </td>
-> <td class="cuerpo_tabla_izq">Actividades de recogida, tratamiento y eliminación de residuos.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
+> <td>38 </td>
+> <td>Actividades de recogida, tratamiento y eliminación de residuos.</td>
+> <td>2,10</td>
+> <td>1,60</td>
+> <td>3,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">39 </td>
-> <td class="cuerpo_tabla_izq">Actividades de descontaminación y otros servicios de gestión de residuos.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
+> <td>39 </td>
+> <td>Actividades de descontaminación y otros servicios de gestión de residuos.</td>
+> <td>2,10</td>
+> <td>1,60</td>
+> <td>3,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">41 </td>
-> <td class="cuerpo_tabla_izq">Construcción de edificios.</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>41 </td>
+> <td>Construcción de edificios.</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">42 </td>
-> <td class="cuerpo_tabla_izq">Ingeniería civil.</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>42 </td>
+> <td>Ingeniería civil.</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">43</td>
-> <td class="cuerpo_tabla_izq">Actividades de construcción especializada (Excepto 436).</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>43</td>
+> <td>Actividades de construcción especializada (Excepto 436).</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">436</td>
-> <td class="cuerpo_tabla_izq">Actividades de intermediación para servicios de construcción especializada.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>436</td>
+> <td>Actividades de intermediación para servicios de construcción especializada.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">46</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor (Excepto 4618, 4623, 4624, 4632, 4638, 4671, 4672, 4673, 4682, 4683, 4684, 4687, 4689 y 4690).</td>
-> <td class="cuerpo_tabla_coma">1,40</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>46</td>
+> <td>Comercio al por mayor (Excepto 4618, 4623, 4624, 4632, 4638, 4671, 4672, 4673, 4682, 4683, 4684, 4687, 4689 y 4690).</td>
+> <td>1,40</td>
+> <td>1,20</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4618</td>
-> <td class="cuerpo_tabla_izq">Actividades de intermediarios del comercio al por mayor de otros productos específicos.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>4618</td>
+> <td>Actividades de intermediarios del comercio al por mayor de otros productos específicos.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4623</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de animales vivos.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>4623</td>
+> <td>Comercio al por mayor de animales vivos.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4624</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de cueros y pieles.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>4624</td>
+> <td>Comercio al por mayor de cueros y pieles.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4632</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de carne, productos cárnicos; pescado y productos del pescado.</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">1,45</td>
-> <td class="cuerpo_tabla_coma">3,15</td>
+> <td>4632</td>
+> <td>Comercio al por mayor de carne, productos cárnicos; pescado y productos del pescado.</td>
+> <td>1,70</td>
+> <td>1,45</td>
+> <td>3,15</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4638</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de otros alimentos.</td>
-> <td class="cuerpo_tabla_coma">1,60</td>
-> <td class="cuerpo_tabla_coma">1,40</td>
-> <td class="cuerpo_tabla_coma">3,00</td>
+> <td>4638</td>
+> <td>Comercio al por mayor de otros alimentos.</td>
+> <td>1,60</td>
+> <td>1,40</td>
+> <td>3,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4671</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de vehículos de motor.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>4671</td>
+> <td>Comercio al por mayor de vehículos de motor.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4672</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de repuestos y accesorios de vehículos de motor.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>4672</td>
+> <td>Comercio al por mayor de repuestos y accesorios de vehículos de motor.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4673</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de motocicletas, y repuestos y accesorios de motocicletas.</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
+> <td>4673</td>
+> <td>Comercio al por mayor de motocicletas, y repuestos y accesorios de motocicletas.</td>
+> <td>1,70</td>
+> <td>1,20</td>
+> <td>2,90</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4682</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de metales y minerales metálicos.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>4682</td>
+> <td>Comercio al por mayor de metales y minerales metálicos.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4683</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de madera, materiales de construcción y aparatos sanitarios.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>4683</td>
+> <td>Comercio al por mayor de madera, materiales de construcción y aparatos sanitarios.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4684</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de equipos y suministros de ferretería, fontanería y calefacción.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,55</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
+> <td>4684</td>
+> <td>Comercio al por mayor de equipos y suministros de ferretería, fontanería y calefacción.</td>
+> <td>1,80</td>
+> <td>1,55</td>
+> <td>3,35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4687</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor de chatarra y productos de desecho.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,55</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
+> <td>4687</td>
+> <td>Comercio al por mayor de chatarra y productos de desecho.</td>
+> <td>1,80</td>
+> <td>1,55</td>
+> <td>3,35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4689</td>
-> <td class="cuerpo_tabla_izq">Otro comercio al por mayor especializado n.c.o.p.</td>
-> <td class="cuerpo_tabla_coma">1,45</td>
-> <td class="cuerpo_tabla_coma">1,25</td>
-> <td class="cuerpo_tabla_coma">2,70</td>
+> <td>4689</td>
+> <td>Otro comercio al por mayor especializado n.c.o.p.</td>
+> <td>1,45</td>
+> <td>1,25</td>
+> <td>2,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4690</td>
-> <td class="cuerpo_tabla_izq">Comercio al por mayor no especializado.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,55</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
+> <td>4690</td>
+> <td>Comercio al por mayor no especializado.</td>
+> <td>1,80</td>
+> <td>1,55</td>
+> <td>3,35</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">47 </td>
-> <td class="cuerpo_tabla_izq">Comercio al por menor (Excepto 473, 4781, 4782 y 4783).</td>
-> <td class="cuerpo_tabla_coma">0,95</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>47 </td>
+> <td>Comercio al por menor (Excepto 473, 4781, 4782 y 4783).</td>
+> <td>0,95</td>
+> <td>0,70</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">473</td>
-> <td class="cuerpo_tabla_izq">Comercio al por menor de combustible para la automoción.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
+> <td>473</td>
+> <td>Comercio al por menor de combustible para la automoción.</td>
+> <td>1,00</td>
+> <td>0,85</td>
+> <td>1,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4781</td>
-> <td class="cuerpo_tabla_izq">Comercio al por menor de vehículos de motor.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>4781</td>
+> <td>Comercio al por menor de vehículos de motor.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4782</td>
-> <td class="cuerpo_tabla_izq">Comercio al por menor de repuestos y accesorios de vehículos de motor.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>4782</td>
+> <td>Comercio al por menor de repuestos y accesorios de vehículos de motor.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4783</td>
-> <td class="cuerpo_tabla_izq">Comercio al por menor de motocicletas, y repuestos y accesorios de motocicletas.</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
+> <td>4783</td>
+> <td>Comercio al por menor de motocicletas, y repuestos y accesorios de motocicletas.</td>
+> <td>1,70</td>
+> <td>1,20</td>
+> <td>2,90</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">49 </td>
-> <td class="cuerpo_tabla_izq">Transporte terrestre y por tubería (Excepto 494).</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>49 </td>
+> <td>Transporte terrestre y por tubería (Excepto 494).</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">494</td>
-> <td class="cuerpo_tabla_izq">Transporte de mercancías por carretera y servicios de mudanza.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">3,70</td>
+> <td>494</td>
+> <td>Transporte de mercancías por carretera y servicios de mudanza.</td>
+> <td>2,00</td>
+> <td>1,70</td>
+> <td>3,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">50 </td>
-> <td class="cuerpo_tabla_izq">Transporte marítimo y por vías navegables interiores.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>50 </td>
+> <td>Transporte marítimo y por vías navegables interiores.</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">51 </td>
-> <td class="cuerpo_tabla_izq">Transporte aéreo.</td>
-> <td class="cuerpo_tabla_coma">1,90</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">3,60</td>
+> <td>51 </td>
+> <td>Transporte aéreo.</td>
+> <td>1,90</td>
+> <td>1,70</td>
+> <td>3,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">52 </td>
-> <td class="cuerpo_tabla_izq">Depósito, almacenamiento y actividades auxiliares del transporte (Excepto x, 5221 y 5232).</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>52 </td>
+> <td>Depósito, almacenamiento y actividades auxiliares del transporte (Excepto x, 5221 y 5232).</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">x</td>
-> <td class="cuerpo_tabla_izq">Carga y descarga; estiba y desestiba.</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>x</td>
+> <td>Carga y descarga; estiba y desestiba.</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">5221</td>
-> <td class="cuerpo_tabla_izq">Actividades auxiliares del transporte terrestre.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
+> <td>5221</td>
+> <td>Actividades auxiliares del transporte terrestre.</td>
+> <td>1,00</td>
+> <td>1,10</td>
+> <td>2,10</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">5232</td>
-> <td class="cuerpo_tabla_izq">Actividades de intermediación para el transporte de pasajeros.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
+> <td>5232</td>
+> <td>Actividades de intermediación para el transporte de pasajeros.</td>
+> <td>1,00</td>
+> <td>0,85</td>
+> <td>1,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">53</td>
-> <td class="cuerpo_tabla_izq">Actividades postales y de mensajería (Excepto 5330).</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,75</td>
-> <td class="cuerpo_tabla_coma">1,75</td>
+> <td>53</td>
+> <td>Actividades postales y de mensajería (Excepto 5330).</td>
+> <td>1,00</td>
+> <td>0,75</td>
+> <td>1,75</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">5330</td>
-> <td class="cuerpo_tabla_izq">Servicios de intermediación para las actividades postales y de mensajería.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>5330</td>
+> <td>Servicios de intermediación para las actividades postales y de mensajería.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">55 </td>
-> <td class="cuerpo_tabla_izq">Servicios de alojamiento.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>55 </td>
+> <td>Servicios de alojamiento.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">56 </td>
-> <td class="cuerpo_tabla_izq">Servicios de comidas y bebidas.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>56 </td>
+> <td>Servicios de comidas y bebidas.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">58 </td>
-> <td class="cuerpo_tabla_izq">Edición.</td>
-> <td class="cuerpo_tabla_coma">0,65</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>58 </td>
+> <td>Edición.</td>
+> <td>0,65</td>
+> <td>1,00</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">59 </td>
-> <td class="cuerpo_tabla_izq">Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>59 </td>
+> <td>Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">60 </td>
-> <td class="cuerpo_tabla_izq">Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos (Excepto 6039).</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>60 </td>
+> <td>Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos (Excepto 6039).</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">6039</td>
-> <td class="cuerpo_tabla_izq">Otras actividades de distribución de contenidos.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>6039</td>
+> <td>Otras actividades de distribución de contenidos.</td>
+> <td>0,80</td>
+> <td>0,85</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">61</td>
-> <td class="cuerpo_tabla_izq">Telecomunicaciones.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>61</td>
+> <td>Telecomunicaciones.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">62 </td>
-> <td class="cuerpo_tabla_izq">Programación, consultoría y otras actividades relacionadas con la informática.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>62 </td>
+> <td>Programación, consultoría y otras actividades relacionadas con la informática.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">63</td>
-> <td class="cuerpo_tabla_izq">Infraestructura informática, tratamiento de datos, hosting y otras actividades de servicios de información.</td>
-> <td class="cuerpo_tabla_coma">0,65</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>63</td>
+> <td>Infraestructura informática, tratamiento de datos, hosting y otras actividades de servicios de información.</td>
+> <td>0,65</td>
+> <td>1,00</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">64 </td>
-> <td class="cuerpo_tabla_izq">Servicios financieros, excepto seguros y fondos de pensiones.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>64 </td>
+> <td>Servicios financieros, excepto seguros y fondos de pensiones.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">65 </td>
-> <td class="cuerpo_tabla_izq">Seguros, reaseguros y planes de pensiones, excepto seguridad social obligatoria.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>65 </td>
+> <td>Seguros, reaseguros y planes de pensiones, excepto seguridad social obligatoria.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">66 </td>
-> <td class="cuerpo_tabla_izq">Actividades auxiliares a los servicios financieros y a los seguros.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>66 </td>
+> <td>Actividades auxiliares a los servicios financieros y a los seguros.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">68 </td>
-> <td class="cuerpo_tabla_izq">Actividades inmobiliarias.</td>
-> <td class="cuerpo_tabla_coma">0,65</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>68 </td>
+> <td>Actividades inmobiliarias.</td>
+> <td>0,65</td>
+> <td>1,00</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">69 </td>
-> <td class="cuerpo_tabla_izq">Actividades jurídicas y de contabilidad.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>69 </td>
+> <td>Actividades jurídicas y de contabilidad.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">70 </td>
-> <td class="cuerpo_tabla_izq">Actividades de las sedes centrales y consultoría de gestión empresarial.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>70 </td>
+> <td>Actividades de las sedes centrales y consultoría de gestión empresarial.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">71 </td>
-> <td class="cuerpo_tabla_izq">Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos.</td>
-> <td class="cuerpo_tabla_coma">0,65</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>71 </td>
+> <td>Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos.</td>
+> <td>0,65</td>
+> <td>1,00</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">72 </td>
-> <td class="cuerpo_tabla_izq">Investigación y desarrollo.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>72 </td>
+> <td>Investigación y desarrollo.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">73 </td>
-> <td class="cuerpo_tabla_izq">Actividades de publicidad, estudios de mercado, relaciones públicas y comunicación (Excepto 7330).</td>
-> <td class="cuerpo_tabla_coma">0,90</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
+> <td>73 </td>
+> <td>Actividades de publicidad, estudios de mercado, relaciones públicas y comunicación (Excepto 7330).</td>
+> <td>0,90</td>
+> <td>0,80</td>
+> <td>1,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">7330</td>
-> <td class="cuerpo_tabla_izq">Relaciones públicas y comunicación.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>7330</td>
+> <td>Relaciones públicas y comunicación.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">74 </td>
-> <td class="cuerpo_tabla_izq">Otras actividades profesionales, científicas y técnicas (Excepto 742).</td>
-> <td class="cuerpo_tabla_coma">0,90</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,75</td>
+> <td>74 </td>
+> <td>Otras actividades profesionales, científicas y técnicas (Excepto 742).</td>
+> <td>0,90</td>
+> <td>0,85</td>
+> <td>1,75</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">742</td>
-> <td class="cuerpo_tabla_izq">Actividades de fotografía.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>742</td>
+> <td>Actividades de fotografía.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">75</td>
-> <td class="cuerpo_tabla_izq">Actividades veterinarias.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>75</td>
+> <td>Actividades veterinarias.</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">77</td>
-> <td class="cuerpo_tabla_izq">Actividades de alquiler.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
+> <td>77</td>
+> <td>Actividades de alquiler.</td>
+> <td>1,00</td>
+> <td>1,00</td>
+> <td>2,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">78</td>
-> <td class="cuerpo_tabla_izq">Actividades relacionadas con el empleo (Excepto x y781).</td>
-> <td class="cuerpo_tabla_coma">1,55</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,75</td>
+> <td>78</td>
+> <td>Actividades relacionadas con el empleo (Excepto x y781).</td>
+> <td>1,55</td>
+> <td>1,20</td>
+> <td>2,75</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">x</td>
-> <td class="cuerpo_tabla_izq">Carga y descarga; estiba y desestiba.</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>x</td>
+> <td>Carga y descarga; estiba y desestiba.</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">781</td>
-> <td class="cuerpo_tabla_izq">Actividades de las agencias de colocación.</td>
-> <td class="cuerpo_tabla_coma">0,95</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,95</td>
+> <td>781</td>
+> <td>Actividades de las agencias de colocación.</td>
+> <td>0,95</td>
+> <td>1,00</td>
+> <td>1,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">79 </td>
-> <td class="cuerpo_tabla_izq">Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>79 </td>
+> <td>Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">80 </td>
-> <td class="cuerpo_tabla_izq">Servicios de investigación y seguridad.</td>
-> <td class="cuerpo_tabla_coma">1,40</td>
-> <td class="cuerpo_tabla_coma">2,20</td>
-> <td class="cuerpo_tabla_coma">3,60</td>
+> <td>80 </td>
+> <td>Servicios de investigación y seguridad.</td>
+> <td>1,40</td>
+> <td>2,20</td>
+> <td>3,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">81</td>
-> <td class="cuerpo_tabla_izq">Servicios a edificios y actividades de jardinería (Excepto 811).</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,60</td>
+> <td>81</td>
+> <td>Servicios a edificios y actividades de jardinería (Excepto 811).</td>
+> <td>2,10</td>
+> <td>1,50</td>
+> <td>3,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">811</td>
-> <td class="cuerpo_tabla_izq">Servicios integrales a edificios e instalaciones.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
+> <td>811</td>
+> <td>Servicios integrales a edificios e instalaciones.</td>
+> <td>1,00</td>
+> <td>0,85</td>
+> <td>1,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">82 </td>
-> <td class="cuerpo_tabla_izq">Actividades administrativas de oficina y otras actividades auxiliares a las empresas (Excepto 8220 y 8292).</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>82 </td>
+> <td>Actividades administrativas de oficina y otras actividades auxiliares a las empresas (Excepto 8220 y 8292).</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">8220</td>
-> <td class="cuerpo_tabla_izq">Actividades de los centros de llamadas.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>8220</td>
+> <td>Actividades de los centros de llamadas.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">8292</td>
-> <td class="cuerpo_tabla_izq">Actividades de envasado y empaquetado.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>8292</td>
+> <td>Actividades de envasado y empaquetado.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">84 </td>
-> <td class="cuerpo_tabla_izq">Administración pública y defensa; seguridad social obligatoria (Excepto 842).</td>
-> <td class="cuerpo_tabla_coma">0,65</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>84 </td>
+> <td>Administración pública y defensa; seguridad social obligatoria (Excepto 842).</td>
+> <td>0,65</td>
+> <td>1,00</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">842</td>
-> <td class="cuerpo_tabla_izq">Prestación de servicios a la comunidad en general.</td>
-> <td class="cuerpo_tabla_coma">1,40</td>
-> <td class="cuerpo_tabla_coma">2,20</td>
-> <td class="cuerpo_tabla_coma">3,60</td>
+> <td>842</td>
+> <td>Prestación de servicios a la comunidad en general.</td>
+> <td>1,40</td>
+> <td>2,20</td>
+> <td>3,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">85 </td>
-> <td class="cuerpo_tabla_izq">Educación.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>85 </td>
+> <td>Educación.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">86 </td>
-> <td class="cuerpo_tabla_izq">Actividades sanitarias (Excepto 869).</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>86 </td>
+> <td>Actividades sanitarias (Excepto 869).</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">869</td>
-> <td class="cuerpo_tabla_izq">Otras actividades sanitarias.</td>
-> <td class="cuerpo_tabla_coma">0,95</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">1,75</td>
+> <td>869</td>
+> <td>Otras actividades sanitarias.</td>
+> <td>0,95</td>
+> <td>0,80</td>
+> <td>1,75</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">87</td>
-> <td class="cuerpo_tabla_izq">Asistencia en establecimientos residenciales.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>87</td>
+> <td>Asistencia en establecimientos residenciales.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">88 </td>
-> <td class="cuerpo_tabla_izq">Actividades de servicios sociales sin alojamiento.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>88 </td>
+> <td>Actividades de servicios sociales sin alojamiento.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">90 </td>
-> <td class="cuerpo_tabla_izq">Actividades de creación artística y artes escénicas.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>90 </td>
+> <td>Actividades de creación artística y artes escénicas.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">91 </td>
-> <td class="cuerpo_tabla_izq">Actividades de bibliotecas, archivos, museos y otras actividades culturales (Excepto 914).</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>91 </td>
+> <td>Actividades de bibliotecas, archivos, museos y otras actividades culturales (Excepto 914).</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">914</td>
-> <td class="cuerpo_tabla_izq">Actividades de los jardines botánicos, parques zoológicos y reservas naturales.</td>
-> <td class="cuerpo_tabla_coma">1,75</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,95</td>
+> <td>914</td>
+> <td>Actividades de los jardines botánicos, parques zoológicos y reservas naturales.</td>
+> <td>1,75</td>
+> <td>1,20</td>
+> <td>2,95</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">92 </td>
-> <td class="cuerpo_tabla_izq">Actividades de juegos de azar y apuestas.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>92 </td>
+> <td>Actividades de juegos de azar y apuestas.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">93 </td>
-> <td class="cuerpo_tabla_izq">Actividades deportivas, recreativas y de entretenimiento (Excepto u).</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">1,30</td>
-> <td class="cuerpo_tabla_coma">3,00</td>
+> <td>93 </td>
+> <td>Actividades deportivas, recreativas y de entretenimiento (Excepto u).</td>
+> <td>1,70</td>
+> <td>1,30</td>
+> <td>3,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">u</td>
-> <td class="cuerpo_tabla_izq">Espectáculos taurinos.</td>
-> <td class="cuerpo_tabla_coma">2,85</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_coma">6,20</td>
+> <td>u</td>
+> <td>Espectáculos taurinos.</td>
+> <td>2,85</td>
+> <td>3,35</td>
+> <td>6,20</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">94 </td>
-> <td class="cuerpo_tabla_izq">Actividades asociativas.</td>
-> <td class="cuerpo_tabla_coma">0,65</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,65</td>
+> <td>94 </td>
+> <td>Actividades asociativas.</td>
+> <td>0,65</td>
+> <td>1,00</td>
+> <td>1,65</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">95 </td>
-> <td class="cuerpo_tabla_izq">Reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas (Excepto 9524, 9531, 9532 y 9540).</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>95 </td>
+> <td>Reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas (Excepto 9524, 9531, 9532 y 9540).</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9524</td>
-> <td class="cuerpo_tabla_izq">Reparación y mantenimiento de muebles y artículos de menaje.</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">1,85</td>
-> <td class="cuerpo_tabla_coma">3,85</td>
+> <td>9524</td>
+> <td>Reparación y mantenimiento de muebles y artículos de menaje.</td>
+> <td>2,00</td>
+> <td>1,85</td>
+> <td>3,85</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9531</td>
-> <td class="cuerpo_tabla_izq">Reparación y mantenimiento de vehículos de motor.</td>
-> <td class="cuerpo_tabla_coma">2,45</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
-> <td class="cuerpo_tabla_coma">4,45</td>
+> <td>9531</td>
+> <td>Reparación y mantenimiento de vehículos de motor.</td>
+> <td>2,45</td>
+> <td>2,00</td>
+> <td>4,45</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9532</td>
-> <td class="cuerpo_tabla_izq">Reparación y mantenimiento de motocicletas.</td>
-> <td class="cuerpo_tabla_coma">1,70</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">2,90</td>
+> <td>9532</td>
+> <td>Reparación y mantenimiento de motocicletas.</td>
+> <td>1,70</td>
+> <td>1,20</td>
+> <td>2,90</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9540</td>
-> <td class="cuerpo_tabla_izq">Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_coma">1,05</td>
-> <td class="cuerpo_tabla_coma">2,05</td>
+> <td>9540</td>
+> <td>Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas.</td>
+> <td>1,00</td>
+> <td>1,05</td>
+> <td>2,05</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">96 </td>
-> <td class="cuerpo_tabla_izq">Servicios personales (Excepto 9621, 9622, 9630 y 9699).</td>
-> <td class="cuerpo_tabla_coma">0,85</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,55</td>
+> <td>96 </td>
+> <td>Servicios personales (Excepto 9621, 9622, 9630 y 9699).</td>
+> <td>0,85</td>
+> <td>0,70</td>
+> <td>1,55</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9621</td>
-> <td class="cuerpo_tabla_izq">Peluquerías y barberías.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>9621</td>
+> <td>Peluquerías y barberías.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9622</td>
-> <td class="cuerpo_tabla_izq">Actividades de cuidados de belleza y otras actividades de tratamiento de belleza.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>9622</td>
+> <td>Actividades de cuidados de belleza y otras actividades de tratamiento de belleza.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9630</td>
-> <td class="cuerpo_tabla_izq">Pompas fúnebres y actividades relacionadas.</td>
-> <td class="cuerpo_tabla_coma">1,80</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">3,30</td>
+> <td>9630</td>
+> <td>Pompas fúnebres y actividades relacionadas.</td>
+> <td>1,80</td>
+> <td>1,50</td>
+> <td>3,30</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">9699</td>
-> <td class="cuerpo_tabla_izq">Otros servicios personales n.c.o.p.</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
-> <td class="cuerpo_tabla_coma">1,10</td>
-> <td class="cuerpo_tabla_coma">2,60</td>
+> <td>9699</td>
+> <td>Otros servicios personales n.c.o.p.</td>
+> <td>1,50</td>
+> <td>1,10</td>
+> <td>2,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">97 </td>
-> <td class="cuerpo_tabla_izq">Actividades de los hogares como empleadores de personal doméstico.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_coma">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>97 </td>
+> <td>Actividades de los hogares como empleadores de personal doméstico.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">99 </td>
-> <td class="cuerpo_tabla_izq">Actividades de organizaciones y organismos extraterritoriales.</td>
-> <td class="cuerpo_tabla_coma">1,20</td>
-> <td class="cuerpo_tabla_coma">1,15</td>
-> <td class="cuerpo_tabla_coma">2,35</td>
+> <td>99 </td>
+> <td>Actividades de organizaciones y organismos extraterritoriales.</td>
+> <td>1,20</td>
+> <td>1,15</td>
+> <td>2,35</td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla_ancha">
+> <table>
 > <caption>
-> <p class="centro_redonda">Cuadro II</p>
+> <p>Cuadro II</p>
 > </caption>
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="2"> </th>
-> <th class="cabeza_tabla" colspan="3">Tipos de cotización</th>
+> <th colspan="2"> </th>
+> <th colspan="3">Tipos de cotización</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla" colspan="2">Tipos aplicables a ocupaciones y situaciones en todas las actividades</th>
-> <th class="cabeza_tabla">IT</th>
-> <th class="cabeza_tabla">IMS</th>
-> <th class="cabeza_tabla">Total</th>
+> <th colspan="2">Tipos aplicables a ocupaciones y situaciones en todas las actividades</th>
+> <th>IT</th>
+> <th>IMS</th>
+> <th>Total</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">a</td>
-> <td class="cuerpo_tabla_izq">Personal en trabajos exclusivos de oficina.</td>
-> <td class="cuerpo_tabla_coma">0,80</td>
-> <td class="cuerpo_tabla_der">0,70</td>
-> <td class="cuerpo_tabla_coma">1,50</td>
+> <td>a</td>
+> <td>Personal en trabajos exclusivos de oficina.</td>
+> <td>0,80</td>
+> <td>0,70</td>
+> <td>1,50</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">b</td>
-> <td class="cuerpo_tabla_izq">Representantes de Comercio.</td>
-> <td class="cuerpo_tabla_coma">1,00</td>
-> <td class="cuerpo_tabla_der">1,00</td>
-> <td class="cuerpo_tabla_coma">2,00</td>
+> <td>b</td>
+> <td>Representantes de Comercio.</td>
+> <td>1,00</td>
+> <td>1,00</td>
+> <td>2,00</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">d</td>
-> <td class="cuerpo_tabla_izq">Personal de oficios en instalaciones y reparaciones en edificios, obras y trabajos de construcción en general.</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_der">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>d</td>
+> <td>Personal de oficios en instalaciones y reparaciones en edificios, obras y trabajos de construcción en general.</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">f</td>
-> <td class="cuerpo_tabla_izq">Conductores de vehículo automóvil de transporte de mercancías que tenga una capacidad de carga útil superior a 3,5 Tm.</td>
-> <td class="cuerpo_tabla_coma">3,35</td>
-> <td class="cuerpo_tabla_der">3,35</td>
-> <td class="cuerpo_tabla_coma">6,70</td>
+> <td>f</td>
+> <td>Conductores de vehículo automóvil de transporte de mercancías que tenga una capacidad de carga útil superior a 3,5 Tm.</td>
+> <td>3,35</td>
+> <td>3,35</td>
+> <td>6,70</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">g</td>
-> <td class="cuerpo_tabla_izq">Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles.</td>
-> <td class="cuerpo_tabla_coma">2,10</td>
-> <td class="cuerpo_tabla_der">1,50</td>
-> <td class="cuerpo_tabla_coma">3,60</td>
+> <td>g</td>
+> <td>Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles.</td>
+> <td>2,10</td>
+> <td>1,50</td>
+> <td>3,60</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">h</td>
-> <td class="cuerpo_tabla_izq">Vigilantes, guardas, guardas jurados y personal de seguridad.</td>
-> <td class="cuerpo_tabla_coma">1,40</td>
-> <td class="cuerpo_tabla_der">2,20</td>
-> <td class="cuerpo_tabla_coma">3,60</td>
+> <td>h</td>
+> <td>Vigilantes, guardas, guardas jurados y personal de seguridad.</td>
+> <td>1,40</td>
+> <td>2,20</td>
+> <td>3,60</td>
 > </tr>
 > </tbody>
 > </table>
@@ -1709,147 +1689,141 @@ MARÍA JESÚS MONTERO CUADRADO
 
 ## ANEXO I — Sistema de la Seguridad Social
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Cuadro de cuantías mínimas de las pensiones de la modalidad contributiva para el año 2026</p>
+<p>Cuadro de cuantías mínimas de las pensiones de la modalidad contributiva para el año 2026</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="3">Titulares</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="3">Titulares</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
-<p class="cabeza_tabla">−</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge a cargo</p>
+<p>−</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge: Unidad económica unipersonal</p>
-<p class="cabeza_tabla">−</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Sin cónyuge: Unidad económica unipersonal</p>
+<p>−</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge no a cargo</p>
-<p class="cabeza_tabla">−</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge no a cargo</p>
+<p>−</p>
+<p>Euros/año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Jubilación</em>
 </p>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma">13.106,80</td>
-<td class="cuerpo_tabla_coma">12.441,80</td>
+<td>Titular con sesenta y cinco años.</td>
+<td>17.592,40</td>
+<td>13.106,80</td>
+<td>12.441,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma">12.262,60</td>
-<td class="cuerpo_tabla_coma">11.590,60</td>
+<td>Titular menor de sesenta y cinco años.</td>
+<td>17.592,40</td>
+<td>12.262,60</td>
+<td>11.590,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años procedente de gran incapacidad.</td>
-<td class="cuerpo_tabla_coma">26.385,80</td>
-<td class="cuerpo_tabla_coma">19.660,20</td>
-<td class="cuerpo_tabla_coma">18.662,00</td>
+<td>Titular con sesenta y cinco años procedente de gran incapacidad.</td>
+<td>26.385,80</td>
+<td>19.660,20</td>
+<td>18.662,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Incapacidad Permanente</em>
 </p>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran incapacidad.</td>
-<td class="cuerpo_tabla_coma">26.385,80</td>
-<td class="cuerpo_tabla_coma">19.660,20</td>
-<td class="cuerpo_tabla_coma">18.662,00</td>
+<td>Gran incapacidad.</td>
+<td>26.385,80</td>
+<td>19.660,20</td>
+<td>18.662,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Absoluta.</td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma">13.106,80</td>
-<td class="cuerpo_tabla_coma">12.441,80</td>
+<td>Absoluta.</td>
+<td>17.592,40</td>
+<td>13.106,80</td>
+<td>12.441,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma">13.106,80</td>
-<td class="cuerpo_tabla_coma">12.441,80</td>
+<td>Total: Titular con sesenta y cinco años.</td>
+<td>17.592,40</td>
+<td>13.106,80</td>
+<td>12.441,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Titular con edad entre sesenta y sesenta y cuatro años.</td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma">12.262,60</td>
-<td class="cuerpo_tabla_coma">11.590,60</td>
+<td>Total: Titular con edad entre sesenta y sesenta y cuatro años.</td>
+<td>17.592,40</td>
+<td>12.262,60</td>
+<td>11.590,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Derivada de enfermedad común menor de sesenta años.</td>
-<td class="cuerpo_tabla_coma">9.662,80</td>
-<td class="cuerpo_tabla_coma">9.662,80</td>
-<td class="cuerpo_tabla_coma">9.580,20</td>
+<td>Total: Derivada de enfermedad común menor de sesenta años.</td>
+<td>9.662,80</td>
+<td>9.662,80</td>
+<td>9.580,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma">13.106,80</td>
-<td class="cuerpo_tabla_coma">12.441,80</td>
+<td>Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años.</td>
+<td>17.592,40</td>
+<td>13.106,80</td>
+<td>12.441,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_centro">
+<td>
+<p>
 <em>Viudedad</em>
 </p>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con cargas familiares.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">17.592,40</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con cargas familiares.</td>
+<td> </td>
+<td>17.592,40</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65 por 100.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">13.106,80</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65 por 100.</td>
+<td> </td>
+<td>13.106,80</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">12.262,60</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con edad entre sesenta y sesenta y cuatro años.</td>
+<td> </td>
+<td>12.262,60</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con menos de sesenta años.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">9.931,60</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con menos de sesenta años.</td>
+<td> </td>
+<td>9.931,60</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1880,50 +1854,44 @@ Límite de ingresos para el reconocimiento de cuantías mínimas de pensión:
 
 Durante 2026 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, en los importes siguientes:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="3">Importe</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="3">Importe</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
-<p class="cabeza_tabla">−</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge a cargo</p>
+<p>−</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge: unidad económica unipersonal</p>
-<p class="cabeza_tabla">−</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Sin cónyuge: unidad económica unipersonal</p>
+<p>−</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge no a cargo</p>
-<p class="cabeza_tabla">−</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge no a cargo</p>
+<p>−</p>
+<p>Euros/año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión de jubilación o retiro.</td>
-<td class="cuerpo_tabla_coma">17.592,40.</td>
-<td class="cuerpo_tabla_coma">13.106,80</td>
-<td class="cuerpo_tabla_coma">12.441,80</td>
+<td>Pensión de jubilación o retiro.</td>
+<td>17.592,40.</td>
+<td>13.106,80</td>
+<td>12.441,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión de viudedad.</td>
-<td class="cuerpo_tabla_coma" colspan="3">13.106,80.</td>
+<td>Pensión de viudedad.</td>
+<td colspan="3">13.106,80.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</td>
-<td class="cuerpo_tabla_coma" colspan="3">12.776,40/n.</td>
+<td>Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</td>
+<td colspan="3">12.776,40/n.</td>
 </tr>
 </tbody>
 </table>

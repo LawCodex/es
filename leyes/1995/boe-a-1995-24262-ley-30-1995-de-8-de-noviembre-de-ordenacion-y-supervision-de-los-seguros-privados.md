@@ -1430,19 +1430,19 @@ La tabla VI incorpora, a su vez, en su capítulo 1, apartados “Sistema ocular�
 
 Cuando el perjudicado resulte con diferentes lesiones derivadas del mismo accidente, se otorgará una puntuación conjunta, que se obtendrá aplicando la fórmula siguiente:
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">(100 – M) × m)</p>
+<p>(100 – M) × m)</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">+ M</p>
+<p>+ M</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 </tr>
 </tbody>
@@ -1472,714 +1472,714 @@ Estas indemnizaciones serán compatibles con cualesquiera otras y se determinan 
 
 (Incluidos daños morales)
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Perjudicados beneficiarios (1) de la indemnización</p>
-<p class="cabeza_tabla">(por grupos excluyentes)</p>
+<p>Perjudicados beneficiarios (1) de la indemnización</p>
+<p>(por grupos excluyentes)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Edad de la víctima</p>
+<p>Edad de la víctima</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Hasta 65 años</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Miles de pesetas</p>
+<p>Hasta 65 años</p>
+<p>–</p>
+<p>Miles de pesetas</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 66 a 80 años</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Miles de pesetas</p>
+<p>De 66 a 80 años</p>
+<p>–</p>
+<p>Miles de pesetas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Más de 80 años</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Miles de pesetas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Grupo I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Más de 80 años</p>
+<p>–</p>
+<p>Miles de pesetas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>Grupo I</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Víctima con cónyuge (2)</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Al cónyuge</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.000</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada hijo menor</p>
+<p>Al cónyuge</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>12.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>9.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada hijo mayor:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>6.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Si es menor de veinticinco años</p>
+<p>A cada hijo menor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Si es mayor de veinticinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada padre con o sin convivencia con la víctima</p>
+<p>A cada hijo mayor:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada hermano menor huérfano y dependiente de la víctima</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Grupo II</p>
+<p>Si es menor de veinticinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>750</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>Si es mayor de veinticinco años</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada padre con o sin convivencia con la víctima</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada hermano menor huérfano y dependiente de la víctima</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo II</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Víctima sin cónyuge (3) y con hijos menores</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Sólo un hijo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18.000</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Sólo un hijo, de víctima separada legalmente</p>
+<p>Sólo un hijo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.000</p>
+<p>18.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.000</p>
+<p>18.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Por cada hijo menor más (4)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>18.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada hijo mayor que concurra con menores</p>
+<p>Sólo un hijo, de víctima separada legalmente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>14.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>14.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada padre con o sin convivencia con la víctima</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>14.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada hermano menor huérfano y dependiente de la víctima</p>
+<p>Por cada hijo menor más (4)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>5.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Grupo III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>A cada hijo mayor que concurra con menores</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>750</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada padre con o sin convivencia con la víctima</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada hermano menor huérfano y dependiente de la víctima</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo III</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Víctima sin cónyuge (3) y con todos sus hijos mayores</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">III.1 Hasta veinticinco años:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A un solo hijo</p>
+<p>III.1 Hasta veinticinco años:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.500</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A un solo hijo, de víctima separada legalmente</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.000</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por cada otro hijo menor de veinticinco años (4)</p>
+<p>A un solo hijo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>13.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>13.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.500</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada hijo mayor de veinticinco años que concurra con menores de veinticinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">500</p>
+<p>7.500</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada padre con o sin convivencia con la víctima</p>
+<p>A un solo hijo, de víctima separada legalmente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>10.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>10.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada hermano menor huérfano y dependiente de la víctima</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>6.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">III.2 Más de veinticinco años:</p>
+<p>Por cada otro hijo menor de veinticinco años (4)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A un solo hijo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.000</p>
+<p>1.500</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por cada otro hijo mayor de veinticinco años más (4)</p>
+<p>A cada hijo mayor de veinticinco años que concurra con menores de veinticinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada padre con o sin convivencia con la víctima</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>500</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada hermano menor huérfano y dependiente de la víctima</p>
+<p>A cada padre con o sin convivencia con la víctima</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Grupo IV</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>A cada hermano menor huérfano y dependiente de la víctima</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III.2 Más de veinticinco años:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A un solo hijo</p>
+</td>
+<td>
+<p>6.000</p>
+</td>
+<td>
+<p>6.000</p>
+</td>
+<td>
+<p>4.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por cada otro hijo mayor de veinticinco años más (4)</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada padre con o sin convivencia con la víctima</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada hermano menor huérfano y dependiente de la víctima</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo IV</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Víctima sin cónyuge (3) ni hijos y con ascendientes</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Padres (5):</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Conviviendo con la víctima</p>
+<p>Padres (5):</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Sin convivencia con la víctima</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Abuelo sin padres (6):</p>
+<p>Conviviendo con la víctima</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>11.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">A cada uno</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada hermano menor de edad en convivencia con la víctima en los dos casos anteriores</p>
+<p>Sin convivencia con la víctima</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>8.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>6.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Grupo V</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>Abuelo sin padres (6):</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada uno</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A cada hermano menor de edad en convivencia con la víctima en los dos casos anteriores</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo V</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
 <em>Víctima con hermanos solamente</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">V.1 Con hermanos menores de veinticinco años:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A un solo hermano</p>
+<p>V.1 Con hermanos menores de veinticinco años:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.000</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Por cada otro hermano menor de veinticinco años (7)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A cada hermano mayor de veinticinco años que concurra con hermanos menores de veinticinco años</p>
+<p>A un solo hermano</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>8.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>6.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">V.2 Sin hermanos menores de veinticinco años:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>4.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A un solo hermano</p>
+<p>Por cada otro hermano menor de veinticinco años (7)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>2.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>2.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por cada otro hermano (7)</p>
+<p>A cada hermano mayor de veinticinco años que concurra con hermanos menores de veinticinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V.2 Sin hermanos menores de veinticinco años:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A un solo hermano</p>
+</td>
+<td>
+<p>5.000</p>
+</td>
+<td>
+<p>3.000</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por cada otro hermano (7)</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+<td>
+<p>1.000</p>
 </td>
 </tr>
 </tbody>
@@ -2250,571 +2250,571 @@ En los supuestos de concurrencia con uniones conyugales de hecho o, en su caso, 
 
 Valores del punto (en pesetas)
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Puntos</p>
+<p>Puntos</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Edades</p>
+<p>Edades</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Menos de 20 años</p>
+<p>Menos de 20 años</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 21 a 40 años</p>
+<p>De 21 a 40 años</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 41 a 55 años</p>
+<p>De 41 a 55 años</p>
 </td>
 <td>
-<p class="cabeza_tabla">De 56 a 65 años</p>
+<p>De 56 a 65 años</p>
 </td>
 <td>
-<p class="cabeza_tabla">Más de 65 años</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">88.918</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">82.320</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">75.720</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">69.707</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">62.391</p>
+<p>Más de 65 años</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">91.663</p>
+<p>88.918</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">84.671</p>
+<p>82.320</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">77.679</p>
+<p>75.720</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">71.636</p>
+<p>69.707</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">63.379</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">94.125</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">86.775</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">79.421</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">73.359</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">64.379</p>
+<p>62.391</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">96.309</p>
+<p>91.663</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">88.628</p>
+<p>84.671</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80.944</p>
+<p>77.679</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">74.873</p>
+<p>71.636</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">64.919</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">98.211</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90.232</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">82.249</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">76.182</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65.471</p>
+<p>63.379</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">99.835</p>
+<p>94.125</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">91.586</p>
+<p>86.775</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">83.335</p>
+<p>79.421</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">77.280</p>
+<p>73.359</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65.879</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">101.981</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">93.428</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">84.873</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78.793</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">66.666</p>
+<p>64.379</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">103.914</p>
+<p>96.309</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">95.083</p>
+<p>88.628</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">86.247</p>
+<p>80.944</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80.150</p>
+<p>74.873</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">67.344</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">105.640</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">96.550</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">87.458</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">81.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">67.912</p>
+<p>64.919</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">10-14</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">107.156</p>
+<p>98.211</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">97.830</p>
+<p>90.232</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">88.506</p>
+<p>82.249</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">82.396</p>
+<p>76.182</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68.373</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">15-19</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">125.937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115.273</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">104.606</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">97.012</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">76.299</p>
+<p>65.471</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">20-24</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">143.186</p>
+<p>99.835</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">131.293</p>
+<p>91.586</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">119.399</p>
+<p>83.335</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">110.438</p>
+<p>77.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">83.539</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">25-29</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">160.401</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">147.268</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">134.137</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">123.830</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">90.933</p>
+<p>65.879</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">30-34</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">176.516</p>
+<p>101.981</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">162.227</p>
+<p>93.428</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">147.939</p>
+<p>84.873</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">136.369</p>
+<p>78.793</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">97.832</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">35-39</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">191.560</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">176.192</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">160.825</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">148.076</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">104.251</p>
+<p>66.666</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">40-44</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">205.561</p>
+<p>103.914</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">189.192</p>
+<p>95.083</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">172.823</p>
+<p>86.247</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">158.971</p>
+<p>80.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">110.202</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">45-49</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">218.544</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">201.248</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">183.952</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">169.075</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115.695</p>
+<p>67.344</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">50-54</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">230.540</p>
+<p>105.640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">212.389</p>
+<p>96.550</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">194.237</p>
+<p>87.458</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">178.412</p>
+<p>81.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">120.743</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">55-59</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">246.501</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">227.178</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">207.855</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">190.815</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">127.916</p>
+<p>67.912</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">60-64</p>
+<p>10-14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">262.148</p>
+<p>107.156</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">241.678</p>
+<p>97.830</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">221.209</p>
+<p>88.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">202.974</p>
+<p>82.396</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">134.948</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">65-69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">277.490</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">255.893</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">234.298</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">214.897</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">141.844</p>
+<p>68.373</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">70-74</p>
+<p>15-19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">292.530</p>
+<p>125.937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">269.831</p>
+<p>115.273</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">247.133</p>
+<p>104.606</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">226.583</p>
+<p>97.012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">148.603</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">75-79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">307.274</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">283.494</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">259.716</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">238.042</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">155.230</p>
+<p>76.299</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">80-84</p>
+<p>20-24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">321.731</p>
+<p>143.186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">296.890</p>
+<p>131.293</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">272.051</p>
+<p>119.399</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">249.277</p>
+<p>110.438</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">161.727</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">85-89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">335.902</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">310.024</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">284.145</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">260.290</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">168.098</p>
+<p>83.539</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">90-99</p>
+<p>25-29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">349.798</p>
+<p>160.401</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">322.900</p>
+<p>147.268</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">296.001</p>
+<p>134.137</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">271.089</p>
+<p>123.830</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">174.343</p>
+<p>90.933</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>30-34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">363.420</p>
+<p>176.516</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">335.522</p>
+<p>162.227</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">307.626</p>
+<p>147.939</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">281.674</p>
+<p>136.369</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">180.465</p>
+<p>97.832</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35-39</p>
+</td>
+<td>
+<p>191.560</p>
+</td>
+<td>
+<p>176.192</p>
+</td>
+<td>
+<p>160.825</p>
+</td>
+<td>
+<p>148.076</p>
+</td>
+<td>
+<p>104.251</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40-44</p>
+</td>
+<td>
+<p>205.561</p>
+</td>
+<td>
+<p>189.192</p>
+</td>
+<td>
+<p>172.823</p>
+</td>
+<td>
+<p>158.971</p>
+</td>
+<td>
+<p>110.202</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45-49</p>
+</td>
+<td>
+<p>218.544</p>
+</td>
+<td>
+<p>201.248</p>
+</td>
+<td>
+<p>183.952</p>
+</td>
+<td>
+<p>169.075</p>
+</td>
+<td>
+<p>115.695</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50-54</p>
+</td>
+<td>
+<p>230.540</p>
+</td>
+<td>
+<p>212.389</p>
+</td>
+<td>
+<p>194.237</p>
+</td>
+<td>
+<p>178.412</p>
+</td>
+<td>
+<p>120.743</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55-59</p>
+</td>
+<td>
+<p>246.501</p>
+</td>
+<td>
+<p>227.178</p>
+</td>
+<td>
+<p>207.855</p>
+</td>
+<td>
+<p>190.815</p>
+</td>
+<td>
+<p>127.916</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60-64</p>
+</td>
+<td>
+<p>262.148</p>
+</td>
+<td>
+<p>241.678</p>
+</td>
+<td>
+<p>221.209</p>
+</td>
+<td>
+<p>202.974</p>
+</td>
+<td>
+<p>134.948</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>65-69</p>
+</td>
+<td>
+<p>277.490</p>
+</td>
+<td>
+<p>255.893</p>
+</td>
+<td>
+<p>234.298</p>
+</td>
+<td>
+<p>214.897</p>
+</td>
+<td>
+<p>141.844</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>70-74</p>
+</td>
+<td>
+<p>292.530</p>
+</td>
+<td>
+<p>269.831</p>
+</td>
+<td>
+<p>247.133</p>
+</td>
+<td>
+<p>226.583</p>
+</td>
+<td>
+<p>148.603</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>75-79</p>
+</td>
+<td>
+<p>307.274</p>
+</td>
+<td>
+<p>283.494</p>
+</td>
+<td>
+<p>259.716</p>
+</td>
+<td>
+<p>238.042</p>
+</td>
+<td>
+<p>155.230</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>80-84</p>
+</td>
+<td>
+<p>321.731</p>
+</td>
+<td>
+<p>296.890</p>
+</td>
+<td>
+<p>272.051</p>
+</td>
+<td>
+<p>249.277</p>
+</td>
+<td>
+<p>161.727</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>85-89</p>
+</td>
+<td>
+<p>335.902</p>
+</td>
+<td>
+<p>310.024</p>
+</td>
+<td>
+<p>284.145</p>
+</td>
+<td>
+<p>260.290</p>
+</td>
+<td>
+<p>168.098</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90-99</p>
+</td>
+<td>
+<p>349.798</p>
+</td>
+<td>
+<p>322.900</p>
+</td>
+<td>
+<p>296.001</p>
+</td>
+<td>
+<p>271.089</p>
+</td>
+<td>
+<p>174.343</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>363.420</p>
+</td>
+<td>
+<p>335.522</p>
+</td>
+<td>
+<p>307.626</p>
+</td>
+<td>
+<p>281.674</p>
+</td>
+<td>
+<p>180.465</p>
 </td>
 </tr>
 </tbody>
@@ -3123,639 +3123,639 @@ Perjuicio estético.
 
 ### Tabla A (agudeza visual: Visión de lejos)
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="13">
-<p class="cabeza_tabla">OJO DERECHO</p>
+<p>OJO DERECHO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Agudeza visual</p>
+<p>Agudeza visual</p>
 </td>
 <td>
-<p class="cabeza_tabla">10/10</p>
+<p>10/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">9/10</p>
+<p>9/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">8/10</p>
+<p>8/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">7/10</p>
+<p>7/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">6/10</p>
+<p>6/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">5/10</p>
+<p>5/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">4/10</p>
+<p>4/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">3/10</p>
+<p>3/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">2/10</p>
+<p>2/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">1/10</p>
+<p>1/10</p>
 </td>
 <td>
-<p class="cabeza_tabla">1/20</p>
+<p>1/20</p>
 </td>
 <td>
-<p class="cabeza_tabla">Inferior a 1/20</p>
+<p>Inferior a 1/20</p>
 </td>
 <td>
-<p class="cabeza_tabla">Ceguera total</p>
+<p>Ceguera total</p>
 </td>
 </tr>
 <tr>
 <td rowspan="13">
-<p class="cabeza_tabla">OJO IZQUIERDO</p>
+<p>OJO IZQUIERDO</p>
 </td>
 <td>
-<p class="cabeza_tabla">10/10</p>
+<p>10/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">9/10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">8/10</p>
+<p>9/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">7/10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">6/10</p>
+<p>8/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">5/10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">4/10</p>
+<p>7/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">3/10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">2/10</p>
+<p>6/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">1/10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">1/20</p>
+<p>5/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">21</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">68</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">75</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Inferior a 1/20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">82</p>
+<p>40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Ceguera total</p>
+<p>4/10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">82</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">85</p>
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3/10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2/10</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1/10</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>65</p>
+</td>
+<td>
+<p>68</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1/20</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>68</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inferior a 1/20</p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ceguera total</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>26</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>65</p>
+</td>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>82</p>
+</td>
+<td>
+<p>85</p>
 </td>
 </tr>
 </tbody>
@@ -3763,556 +3763,556 @@ Perjuicio estético.
 
 ### Tabla B (agudeza visual: Visión de lejos)
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="12">
-<p class="cabeza_tabla">OJO DERECHO</p>
+<p>OJO DERECHO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Agudeza visual</p>
+<p>Agudeza visual</p>
 </td>
 <td>
-<p class="cabeza_tabla">P1,5</p>
+<p>P1,5</p>
 </td>
 <td>
-<p class="cabeza_tabla">P2</p>
+<p>P2</p>
 </td>
 <td>
-<p class="cabeza_tabla">P3</p>
+<p>P3</p>
 </td>
 <td>
-<p class="cabeza_tabla">P4</p>
+<p>P4</p>
 </td>
 <td>
-<p class="cabeza_tabla">P5</p>
+<p>P5</p>
 </td>
 <td>
-<p class="cabeza_tabla">P6</p>
+<p>P6</p>
 </td>
 <td>
-<p class="cabeza_tabla">P8</p>
+<p>P8</p>
 </td>
 <td>
-<p class="cabeza_tabla">P10</p>
+<p>P10</p>
 </td>
 <td>
-<p class="cabeza_tabla">P14</p>
+<p>P14</p>
 </td>
 <td>
-<p class="cabeza_tabla">P20</p>
+<p>P20</p>
 </td>
 <td>
-<p class="cabeza_tabla"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">0</p>
+<p>0</p>
 </td>
 </tr>
 <tr>
 <td rowspan="12">
-<p class="cabeza_tabla">OJO IZQUIERDO</p>
+<p>OJO IZQUIERDO</p>
 </td>
 <td>
-<p class="cabeza_tabla">P1,5</p>
+<p>P1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">P2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">P3</p>
+<p>P2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">P4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>28</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">P5</p>
+<p>P3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">P6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">46</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">P8</p>
+<p>P4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">62</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">P10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">46</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">58</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>42</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">P14</p>
+<p>P5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">52</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58</p>
+<p>33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">72</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">76</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">P20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">46</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">58</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla"> </p>
+<p>P6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">23</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">32</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">62</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">67</p>
+<p>37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">72</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">82</p>
+<p>55</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">0</p>
+<p>P8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">78</p>
+<p>52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80</p>
+<p>58</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">82</p>
+<p>62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">85</p>
+<p>65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>P10</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>37</p>
+</td>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>P14</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>52</p>
+</td>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>65</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>P20</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>58</p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>46</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>62</p>
+</td>
+<td>
+<p>67</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>82</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>65</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>82</p>
+</td>
+<td>
+<p>85</p>
 </td>
 </tr>
 </tbody>
@@ -4320,322 +4320,322 @@ Perjuicio estético.
 
 ### Tabla C (agudeza auditiva)
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td colspan="11">
-<p class="cuerpo_tabla_centro">OÍDO DERECHO</p>
+<p>OÍDO DERECHO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="13">
-<p class="cabeza_tabla">OÍDO IZQUIERDO</p>
+<p>OÍDO IZQUIERDO</p>
 </td>
 <td colspan="10">
-<p class="cuerpo_tabla_izq">Voz alta (distancia de percepción en metros)</p>
+<p>Voz alta (distancia de percepción en metros)</p>
 </td>
 </tr>
 <tr>
 <td colspan="4"> </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Contacto</p>
+<p>Contacto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">No percibida</p>
+<p>No percibida</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5"> </td>
 <td colspan="9">
-<p class="cuerpo_tabla_izq">Voz cuchicheada (distancia de percepción en metros)</p>
+<p>Voz cuchicheada (distancia de percepción en metros)</p>
 </td>
 </tr>
 <tr>
 <td colspan="2"> </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,80</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,50</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,25</p>
+<p>0,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Contacto</p>
+<p>Contacto</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">No percibida</p>
+<p>No percibida</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="8">
-<p class="cuerpo_tabla_izq">Pérdida auditiva (en decibelios)</p>
+<p>Pérdida auditiva (en decibelios)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0 a 25</p>
+<p>0 a 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25 a 35</p>
+<p>25 a 35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35 a 45</p>
+<p>35 a 45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45 a 55</p>
+<p>45 a 55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55 a 65</p>
+<p>55 a 65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">65 a 80</p>
+<p>65 a 80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80 a 90</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">0 a 25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>80 a 90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">5</p>
+<p>0 a 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,80</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25 a 35</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">4</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,50</p>
+<p>0,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35 a 45</p>
+<p>25 a 35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45 a 55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">1</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Contacto</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55 a 65</p>
+<p>35 a 45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Contacto</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">No percibida</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">65 a 80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">No percibida</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>0,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">80 a 90</p>
+<p>45 a 55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">70</p>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Contacto</p>
+</td>
+<td>
+<p>55 a 65</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contacto</p>
+</td>
+<td>
+<p>No percibida</p>
+</td>
+<td>
+<p>65 a 80</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>45</p>
+</td>
+<td>
+<p>55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>No percibida</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>80 a 90</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>55</p>
+</td>
+<td>
+<p>70</p>
 </td>
 </tr>
 </tbody>

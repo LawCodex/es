@@ -225,3048 +225,3040 @@ C3 = Coste del equipo consumido. El valor de este coste se especifica en la tabl
 
 El listado actualizado de equipos con sus importes podrá ser consultado en la página web de Salvamento Marítimo.
 
-<table class="tabla_ancha">
+<table>
 <caption>
-<p class="centro_cursiva">Tabla de costes de equipo</p>
+<p>Tabla de costes de equipo</p>
 </caption>
-<colgroup>
-<col width="14%">
-<col width="15%">
-<col width="37%">
-<col width="12%">
-<col width="10%">
-<col width="12%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">ID tipo</th>
-<th class="cabeza_tabla">ID</th>
-<th class="cabeza_tabla">Modelo</th>
-<th class="cabeza_tabla">UD medida</th>
-<th class="cabeza_tabla">Estado</th>
-<th class="cabeza_tabla">Euros/día</th>
+<th>ID tipo</th>
+<th>ID</th>
+<th>Modelo</th>
+<th>UD medida</th>
+<th>Estado</th>
+<th>Euros/día</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 10/3,5.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">70,68</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 10/3,5.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>70,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,39</td>
+<td>En espera.</td>
+<td>0,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 20/12,5 con faldón.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">441,18</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 20/12,5 con faldón.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>441,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,45</td>
+<td>En espera.</td>
+<td>2,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 20/12,5 sin faldón.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">297,00</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 20/12,5 sin faldón.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>297,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>En espera.</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 20/15 con faldón.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">508,17</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 20/15 con faldón.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>508,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>En espera.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 20/15 sin faldón.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">384,22</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 20/15 sin faldón.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>384,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,13</td>
+<td>En espera.</td>
+<td>2,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 20/25.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">234,12</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 20/25.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>234,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,30</td>
+<td>En espera.</td>
+<td>1,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA ABS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Barrera Ecosorb 20/5 sin faldón.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BIGBAG.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">406,79</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">BARRERA ABS.</td>
+<td rowspan="3">Barrera Ecosorb 20/5 sin faldón.</td>
+<td rowspan="3">BIGBAG.</td>
+<td>Consumido.</td>
+<td>406,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,26</td>
+<td>En espera.</td>
+<td>2,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PAÑO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Paño con cabo Microsob SH15R (0,47 x 15 m).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROLLO.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">111,66</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">PAÑO.</td>
+<td rowspan="3">Paño con cabo Microsob SH15R (0,47 x 15 m).</td>
+<td rowspan="3">ROLLO.</td>
+<td>Consumido.</td>
+<td>111,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,62</td>
+<td>En espera.</td>
+<td>0,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PAÑO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Paño OR-Mat 2 (200pcs - 40x50-200 gr./m<sup>2</sup>).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BOLSA.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">121,47</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">PAÑO.</td>
+<td rowspan="3">Paño OR-Mat 2 (200pcs - 40x50-200 gr./m<sup>2</sup>).</td>
+<td rowspan="3">BOLSA.</td>
+<td>Consumido.</td>
+<td>121,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,67</td>
+<td>En espera.</td>
+<td>0,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PAÑO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Paño OR-Mat 4 (100pcs - 40x50-400 gr./m<sup>2</sup>).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BOLSA.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">111,66</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">PAÑO.</td>
+<td rowspan="3">Paño OR-Mat 4 (100pcs - 40x50-400 gr./m<sup>2</sup>).</td>
+<td rowspan="3">BOLSA.</td>
+<td>Consumido.</td>
+<td>111,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,62</td>
+<td>En espera.</td>
+<td>0,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROLLO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Rollo paño Ecosorb OR-Roll 4100 (44 m x 100 cm.).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROLLO.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">111,66</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">ROLLO.</td>
+<td rowspan="3">Rollo paño Ecosorb OR-Roll 4100 (44 m x 100 cm.).</td>
+<td rowspan="3">ROLLO.</td>
+<td>Consumido.</td>
+<td>111,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,62</td>
+<td>En espera.</td>
+<td>0,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROLLO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Rollo paño Ecosorb OR-Roll 450 (44m x 50 cm.).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROLLO.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">66,96</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">ROLLO.</td>
+<td rowspan="3">Rollo paño Ecosorb OR-Roll 450 (44m x 50 cm.).</td>
+<td rowspan="3">ROLLO.</td>
+<td>Consumido.</td>
+<td>66,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,37</td>
+<td>En espera.</td>
+<td>0,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SACO POMPOM.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Saco Pom Pom absorbente atado (15 m).</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BOLSA.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">108,52</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">SACO POMPOM.</td>
+<td rowspan="3">Saco Pom Pom absorbente atado (15 m).</td>
+<td rowspan="3">BOLSA.</td>
+<td>Consumido.</td>
+<td>108,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,60</td>
+<td>En espera.</td>
+<td>0,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ABSORBENTES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SACO POMPOM.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Saco Pom Pom absorbente sin atar.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BOLSA.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">82,68</td>
+<td rowspan="3">ABSORBENTES.</td>
+<td rowspan="3">SACO POMPOM.</td>
+<td rowspan="3">Saco Pom Pom absorbente sin atar.</td>
+<td rowspan="3">BOLSA.</td>
+<td>Consumido.</td>
+<td>82,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,46</td>
+<td>En espera.</td>
+<td>0,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BAGS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Bolsa Big Bag BB600.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">21,78</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">BAGS.</td>
+<td rowspan="3">Bolsa Big Bag BB600.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>21,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,24</td>
+<td>En espera.</td>
+<td>0,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BAGS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Oil Bag 1 m<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">146,52</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">BAGS.</td>
+<td rowspan="3">Oil Bag 1 m<sup>3</sup>.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>146,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Uso.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,63</td>
+<td>En espera.</td>
+<td>1,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CAJAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CAJA FONDEO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">199,49</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CAJAS.</td>
+<td rowspan="3">CAJA FONDEO.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>199,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,22</td>
+<td>Uso.</td>
+<td>2,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,11</td>
+<td>En espera.</td>
+<td>1,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BR-10.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15.876,63</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">BR-10.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>15.876,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">176,41</td>
+<td>Uso.</td>
+<td>176,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">88,20</td>
+<td>En espera.</td>
+<td>88,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BR-16.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15.048,00</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">BR-16.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>15.048,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">167,20</td>
+<td>Uso.</td>
+<td>167,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">83,60</td>
+<td>En espera.</td>
+<td>83,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BR-5.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">8.727,84</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">BR-5.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>8.727,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">96,98</td>
+<td>Uso.</td>
+<td>96,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">48,49</td>
+<td>En espera.</td>
+<td>48,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BR-6.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15.048,00</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">BR-6.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>15.048,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">167,20</td>
+<td>Uso.</td>
+<td>167,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">83,60</td>
+<td>En espera.</td>
+<td>83,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETEL LAMOR.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">8.727,84</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">CARRETEL LAMOR.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>8.727,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">96,98</td>
+<td>Uso.</td>
+<td>96,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">48,49</td>
+<td>En espera.</td>
+<td>48,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETEL VIKOMA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">8.727,84</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">CARRETEL VIKOMA.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>8.727,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">96,98</td>
+<td>Uso.</td>
+<td>96,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">48,49</td>
+<td>En espera.</td>
+<td>48,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETELES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">RO_CLEAN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">8.727,84</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CARRETELES.</td>
+<td rowspan="3">RO_CLEAN.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>8.727,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">96,98</td>
+<td>Uso.</td>
+<td>96,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">48,49</td>
+<td>En espera.</td>
+<td>48,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CONTENEDORES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CONT 10 pies.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">3.069,00</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CONTENEDORES.</td>
+<td rowspan="3">CONT 10 pies.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>3.069,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">34,10</td>
+<td>Uso.</td>
+<td>34,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">17,05</td>
+<td>En espera.</td>
+<td>17,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CONTENEDORES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CONT 20 pies.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">3.440,25</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CONTENEDORES.</td>
+<td rowspan="3">CONT 20 pies.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>3.440,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">38,23</td>
+<td>Uso.</td>
+<td>38,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">19,11</td>
+<td>En espera.</td>
+<td>19,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CONTENEDORES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CONT 8 pies.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">2.376,00</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">CONTENEDORES.</td>
+<td rowspan="3">CONT 8 pies.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>2.376,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">26,40</td>
+<td>Uso.</td>
+<td>26,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">13,20</td>
+<td>En espera.</td>
+<td>13,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">JAULAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Jaula metálica estiba 1085 x 1400.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">669,78</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">JAULAS.</td>
+<td rowspan="3">Jaula metálica estiba 1085 x 1400.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>669,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">7,44</td>
+<td>Uso.</td>
+<td>7,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">3,72</td>
+<td>En espera.</td>
+<td>3,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">JAULAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Jaula metálica estiba 2170 x 1400.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">763,62</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">JAULAS.</td>
+<td rowspan="3">Jaula metálica estiba 2170 x 1400.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>763,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">8,48</td>
+<td>Uso.</td>
+<td>8,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">4,24</td>
+<td>En espera.</td>
+<td>4,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUE SEPARADOR.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Tanque filtro para hidrocarburos.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">3.856,05</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUE SEPARADOR.</td>
+<td rowspan="3">Tanque filtro para hidrocarburos.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>3.856,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">42,85</td>
+<td>Uso.</td>
+<td>42,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">21,42</td>
+<td>En espera.</td>
+<td>21,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUE SEPARADOR.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Tanque separador Agua/Hidrocarburos.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">5.111,37</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUE SEPARADOR.</td>
+<td rowspan="3">Tanque separador Agua/Hidrocarburos.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>5.111,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">56,79</td>
+<td>Uso.</td>
+<td>56,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">28,40</td>
+<td>En espera.</td>
+<td>28,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Easy Tank, 10 m<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">4.461,93</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUES.</td>
+<td rowspan="3">Easy Tank, 10 m<sup>3</sup>.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>4.461,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">99,15</td>
+<td>Uso.</td>
+<td>99,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">49,58</td>
+<td>En espera.</td>
+<td>49,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Fast Tank 10 m<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">5.064,84</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUES.</td>
+<td rowspan="3">Fast Tank 10 m<sup>3</sup>.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>5.064,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">112,55</td>
+<td>Uso.</td>
+<td>112,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">56,28</td>
+<td>En espera.</td>
+<td>56,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Fast Tank 7,5 m<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">4.294,62</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUES.</td>
+<td rowspan="3">Fast Tank 7,5 m<sup>3</sup>.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>4.294,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">95,44</td>
+<td>Uso.</td>
+<td>95,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">47,72</td>
+<td>En espera.</td>
+<td>47,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Tanque paletizado 1 m<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">51,48</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUES.</td>
+<td rowspan="3">Tanque paletizado 1 m<sup>3</sup>.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>51,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">1,14</td>
+<td>Uso.</td>
+<td>1,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,57</td>
+<td>En espera.</td>
+<td>0,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Tanque Simop.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">2.603,70</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUES.</td>
+<td rowspan="3">Tanque Simop.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>2.603,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">57,86</td>
+<td>Uso.</td>
+<td>57,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">28,93</td>
+<td>En espera.</td>
+<td>28,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">ALMACENAJE Y ESTIBA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TANQUES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Tanques flotantes.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">9.880,20</td>
+<td rowspan="3">ALMACENAJE Y ESTIBA.</td>
+<td rowspan="3">TANQUES.</td>
+<td rowspan="3">Tanques flotantes.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>9.880,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">219,56</td>
+<td>Uso.</td>
+<td>219,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">109,78</td>
+<td>En espera.</td>
+<td>109,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CERCO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI CURREN BUSTER 600.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">155.034,00</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">CERCO.</td>
+<td rowspan="3">NOFI CURREN BUSTER 600.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>155.034,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">5.167,80</td>
+<td>Uso.</td>
+<td>5.167,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2.583,90</td>
+<td>En espera.</td>
+<td>2.583,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CERCO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI OCEAN BUSTER1000.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">358.300,80</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">CERCO.</td>
+<td rowspan="3">NOFI OCEAN BUSTER1000.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>358.300,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">11.943,36</td>
+<td>Uso.</td>
+<td>11.943,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5.971,68</td>
+<td>En espera.</td>
+<td>5.971,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CERCO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI VEE SWEEP.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">133.650,00</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">CERCO.</td>
+<td rowspan="3">NOFI VEE SWEEP.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>133.650,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4.455,00</td>
+<td>Uso.</td>
+<td>4.455,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2.227,50</td>
+<td>En espera.</td>
+<td>2.227,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CERCO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">RO-SWEEP-2000.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">140.272,11</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">CERCO.</td>
+<td rowspan="3">RO-SWEEP-2000.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>140.272,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4.675,74</td>
+<td>Uso.</td>
+<td>4.675,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2.337,87</td>
+<td>En espera.</td>
+<td>2.337,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EXPANDI 4300.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">409,86</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">EXPANDI 4300.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>409,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">13,66</td>
+<td>Uso.</td>
+<td>13,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">6,83</td>
+<td>En espera.</td>
+<td>6,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FLEXY SYMMETRIC 1100.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">80,19</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">FLEXY SYMMETRIC 1100.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>80,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,67</td>
+<td>Uso.</td>
+<td>2,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,34</td>
+<td>En espera.</td>
+<td>1,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR 1200 HOB.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">314,82</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">LAMOR 1200 HOB.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>314,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">10,49</td>
+<td>Uso.</td>
+<td>10,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5,25</td>
+<td>En espera.</td>
+<td>5,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN Z 1100 HD/Z 1000/TULAMBOON Z 100/NOFI 440/.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">169,29</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">MARKLEEN Z 1100 HD/Z 1000/TULAMBOON Z 100/NOFI 440/.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>169,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">5,64</td>
+<td>Uso.</td>
+<td>5,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,82</td>
+<td>En espera.</td>
+<td>2,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NRC OIL STOP Offshore.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">400,95</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">NRC OIL STOP Offshore.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>400,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">13,37</td>
+<td>Uso.</td>
+<td>13,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">6,68</td>
+<td>En espera.</td>
+<td>6,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">REYCAU 450.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">128,70</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">REYCAU 450.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>128,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4,29</td>
+<td>Uso.</td>
+<td>4,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,15</td>
+<td>En espera.</td>
+<td>2,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">RO BOOM 1500.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">574,20</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">RO BOOM 1500.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>574,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">19,14</td>
+<td>Uso.</td>
+<td>19,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">9,57</td>
+<td>En espera.</td>
+<td>9,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA HI SPRINT 950.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">373,23</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">VIKOMA HI SPRINT 950.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>373,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">12,44</td>
+<td>Uso.</td>
+<td>12,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">6,22</td>
+<td>En espera.</td>
+<td>6,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COSTERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA SEA SENTINEL 950.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">303,93</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">COSTERA.</td>
+<td rowspan="3">VIKOMA SEA SENTINEL 950.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>303,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">10,13</td>
+<td>Uso.</td>
+<td>10,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5,07</td>
+<td>En espera.</td>
+<td>5,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OCEÁNICA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR 1500 HOB.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">314,82</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">OCEÁNICA.</td>
+<td rowspan="3">LAMOR 1500 HOB.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>314,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">7,00</td>
+<td>Uso.</td>
+<td>7,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">3,50</td>
+<td>En espera.</td>
+<td>3,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OCEÁNICA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI 800 S.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">508,86</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">OCEÁNICA.</td>
+<td rowspan="3">NOFI 800 S.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>508,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">11,31</td>
+<td>Uso.</td>
+<td>11,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5,65</td>
+<td>En espera.</td>
+<td>5,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OCEÁNICA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">RO BOOM 2000.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">574,20</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">OCEÁNICA.</td>
+<td rowspan="3">RO BOOM 2000.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>574,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">12,76</td>
+<td>Uso.</td>
+<td>12,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">6,38</td>
+<td>En espera.</td>
+<td>6,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OCEÁNICA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SEA SENTRY II 23/44.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">672,21</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">OCEÁNICA.</td>
+<td rowspan="3">SEA SENTRY II 23/44.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>672,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">14,94</td>
+<td>Uso.</td>
+<td>14,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">7,47</td>
+<td>En espera.</td>
+<td>7,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OCEÁNICA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SEA SENTRY II USS 42 HB.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">672,21</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">OCEÁNICA.</td>
+<td rowspan="3">SEA SENTRY II USS 42 HB.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>672,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">14,94</td>
+<td>Uso.</td>
+<td>14,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">7,47</td>
+<td>En espera.</td>
+<td>7,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">AERAZUR SUR BALEAR 323.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">312,84</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">AERAZUR SUR BALEAR 323.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>312,84</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">20,86</td>
+<td>Uso.</td>
+<td>20,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">10,43</td>
+<td>En espera.</td>
+<td>10,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN Z 750.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">116,82</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">MARKLEEN Z 750.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>116,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">7,79</td>
+<td>Uso.</td>
+<td>7,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">3,89</td>
+<td>En espera.</td>
+<td>3,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN C 500 HD.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">49,50</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">MARKLEEN C 500 HD.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>49,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>Uso.</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,65</td>
+<td>En espera.</td>
+<td>1,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN P 700 HD.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">92,07</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">MARKLEEN P 700 HD.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>92,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">6,14</td>
+<td>Uso.</td>
+<td>6,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">3,07</td>
+<td>En espera.</td>
+<td>3,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI Boom Bag 250.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">158,40</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">NOFI Boom Bag 250.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>158,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">10,56</td>
+<td>Uso.</td>
+<td>10,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5,28</td>
+<td>En espera.</td>
+<td>5,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI 250.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">86,13</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">NOFI 250.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>86,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">5,74</td>
+<td>Uso.</td>
+<td>5,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,87</td>
+<td>En espera.</td>
+<td>2,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NOFI 350.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">247,50</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">NOFI 350.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>247,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">16,50</td>
+<td>Uso.</td>
+<td>16,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">8,25</td>
+<td>En espera.</td>
+<td>8,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TATE 100.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">169,29</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">TATE 100.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>169,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">11,29</td>
+<td>Uso.</td>
+<td>11,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5,64</td>
+<td>En espera.</td>
+<td>5,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TROIL BOOM GP 1100.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">80,19</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">TROIL BOOM GP 1100.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>80,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">5,35</td>
+<td>Uso.</td>
+<td>5,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,67</td>
+<td>En espera.</td>
+<td>2,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TROIL BOOM GP 750.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">80,19</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">TROIL BOOM GP 750.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>80,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">5,35</td>
+<td>Uso.</td>
+<td>5,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,67</td>
+<td>En espera.</td>
+<td>2,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA PORT SENTINEL.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">59,40</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">VIKOMA PORT SENTINEL.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>59,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3,96</td>
+<td>Uso.</td>
+<td>3,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,98</td>
+<td>En espera.</td>
+<td>1,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA SEA SENTINEL 550.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">62,37</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">VIKOMA SEA SENTINEL 550.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>62,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4,16</td>
+<td>Uso.</td>
+<td>4,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,08</td>
+<td>En espera.</td>
+<td>2,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">PORTUARIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA SEA SENTINEL 750.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">62,37</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">PORTUARIA.</td>
+<td rowspan="3">VIKOMA SEA SENTINEL 750.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>62,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4,16</td>
+<td>Uso.</td>
+<td>4,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,08</td>
+<td>En espera.</td>
+<td>2,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SELLADORA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">REYCAU selladora.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">252,45</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">SELLADORA.</td>
+<td rowspan="3">REYCAU selladora.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>252,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">16,83</td>
+<td>Uso.</td>
+<td>16,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">8,42</td>
+<td>En espera.</td>
+<td>8,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SELLADORA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TEXA BOOM SELLADORA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">252,45</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">SELLADORA.</td>
+<td rowspan="3">TEXA BOOM SELLADORA.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>252,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">16,83</td>
+<td>Uso.</td>
+<td>16,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">8,42</td>
+<td>En espera.</td>
+<td>8,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SELLADORA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TULANBOOM selladora.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">490,05</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">SELLADORA.</td>
+<td rowspan="3">TULANBOOM selladora.</td>
+<td rowspan="3">METROS.</td>
+<td>Consumido.</td>
+<td>490,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">32,67</td>
+<td>Uso.</td>
+<td>32,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">16,34</td>
+<td>En espera.</td>
+<td>16,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">AUTÓNOMA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">BARRERA RECOGIDA HIDROCARBUROS AUTÓNOMAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">114.825,00</td>
+<td rowspan="3">BARRERA.</td>
+<td rowspan="3">AUTÓNOMA.</td>
+<td rowspan="3">BARRERA RECOGIDA HIDROCARBUROS AUTÓNOMAS.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>114.825,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">62,62</td>
+<td>Uso.</td>
+<td>62,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">31,31</td>
+<td>En espera.</td>
+<td>31,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GASOLINA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GEOTEC 2,2 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.768,83</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">GASOLINA.</td>
+<td rowspan="3">GEOTEC 2,2 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.768,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">19,65</td>
+<td>Uso.</td>
+<td>19,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">9,83</td>
+<td>En espera.</td>
+<td>9,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GASOLINA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROBIN SUBARU PTG 205.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">757,94</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">GASOLINA.</td>
+<td rowspan="3">ROBIN SUBARU PTG 205.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>757,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">8,42</td>
+<td>Uso.</td>
+<td>8,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">4,21</td>
+<td>En espera.</td>
+<td>4,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ELECTRICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ABS JUMBO 205 ND, 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">4.268,00</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">ELECTRICAS.</td>
+<td rowspan="3">ABS JUMBO 205 ND, 6".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>4.268,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,34</td>
+<td>Uso.</td>
+<td>2,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,17</td>
+<td>En espera.</td>
+<td>1,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ELECTRICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ABS JUMBO 54 LD, 4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">3.680,00</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">ELECTRICAS.</td>
+<td rowspan="3">ABS JUMBO 54 LD, 4".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>3.680,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,02</td>
+<td>Uso.</td>
+<td>2,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,01</td>
+<td>En espera.</td>
+<td>1,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">GASOLINA.</p>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">
+<p>GASOLINA.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">HONDA 2", GX-160-5,5 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">584,00</td>
+<td rowspan="3">HONDA 2", GX-160-5,5 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>584,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,32</td>
+<td>Uso.</td>
+<td>2,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,16</td>
+<td>En espera.</td>
+<td>0,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GASOLINA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">HONDA 3", GX-160-5,5 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">0,34</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">GASOLINA.</td>
+<td rowspan="3">HONDA 3", GX-160-5,5 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>0,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">612,00</td>
+<td>Uso.</td>
+<td>612,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,17</td>
+<td>En espera.</td>
+<td>0,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">HIDRÁULICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI 250 140 m<sup>3</sup>.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">30.179,95</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">HIDRÁULICAS.</td>
+<td rowspan="3">DESMI 250 140 m<sup>3</sup>.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>30.179,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">335,33</td>
+<td>Uso.</td>
+<td>335,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">167,67</td>
+<td>En espera.</td>
+<td>167,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">HIDRÁULICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VOGELSUNG lóbulos V100- 90 QHD 30 m<sup>3</sup> x 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">4.684,68</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">HIDRÁULICAS.</td>
+<td rowspan="3">VOGELSUNG lóbulos V100- 90 QHD 30 m<sup>3</sup> x 3".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>4.684,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">52,05</td>
+<td>Uso.</td>
+<td>52,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">26,03</td>
+<td>En espera.</td>
+<td>26,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">HIDRÁULICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VOGELSUNG lóbulos VX 136/210 60 m<sup>3</sup> x 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">10.203,53</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">HIDRÁULICAS.</td>
+<td rowspan="3">VOGELSUNG lóbulos VX 136/210 60 m<sup>3</sup> x 6".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>10.203,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">113,37</td>
+<td>Uso.</td>
+<td>113,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">56,69</td>
+<td>En espera.</td>
+<td>56,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NEUMÁTICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SAND PIPER 1".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.196,63</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">NEUMÁTICAS.</td>
+<td rowspan="3">SAND PIPER 1".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.196,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">13,30</td>
+<td>Uso.</td>
+<td>13,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">6,65</td>
+<td>En espera.</td>
+<td>6,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NEUMÁTICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SAND PIPER 2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.330,88</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">NEUMÁTICAS.</td>
+<td rowspan="3">SAND PIPER 2".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.330,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">14,79</td>
+<td>Uso.</td>
+<td>14,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">7,39</td>
+<td>En espera.</td>
+<td>7,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">BOMBAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">NEUMÁTICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SAND PIPER 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">2.504,55</td>
+<td rowspan="3">BOMBAS.</td>
+<td rowspan="3">NEUMÁTICAS.</td>
+<td rowspan="3">SAND PIPER 3".</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>2.504,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">27,83</td>
+<td>Uso.</td>
+<td>27,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">13,91</td>
+<td>En espera.</td>
+<td>13,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COMPRESORES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Compresor alta carga Bauer.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">5.949,90</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">COMPRESORES.</td>
+<td rowspan="3">Compresor alta carga Bauer.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>5.949,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">66,11</td>
+<td>Uso.</td>
+<td>66,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">33,06</td>
+<td>En espera.</td>
+<td>33,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COMPRESORES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Compresor diesel - Al. Chaves.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">11.620,62</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">COMPRESORES.</td>
+<td rowspan="3">Compresor diesel - Al. Chaves.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>11.620,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">129,12</td>
+<td>Uso.</td>
+<td>129,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">64,56</td>
+<td>En espera.</td>
+<td>64,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">COMPRESORES.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Compresor hidráulico.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.905,75</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">COMPRESORES.</td>
+<td rowspan="3">Compresor hidráulico.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.905,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">21,18</td>
+<td>Uso.</td>
+<td>21,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">10,59</td>
+<td>En espera.</td>
+<td>10,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS LANCHAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Embarcación semirrígida con motor.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">9.200,00</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">EQUIPOS LANCHAS.</td>
+<td rowspan="3">Embarcación semirrígida con motor.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>9.200,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">51,11</td>
+<td>Uso.</td>
+<td>51,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">25,56</td>
+<td>En espera.</td>
+<td>25,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBO ABIERTO 2TN GC -2.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">482,33</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">GLOBOS ELEVACIÓN.</td>
+<td rowspan="3">GLOBO ABIERTO 2TN GC -2.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>482,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">32,16</td>
+<td>Uso.</td>
+<td>32,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">16,08</td>
+<td>En espera.</td>
+<td>16,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBO ABIERTO 3TN GC -3.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">643,10</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">GLOBOS ELEVACIÓN.</td>
+<td rowspan="3">GLOBO ABIERTO 3TN GC -3.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>643,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">42,87</td>
+<td>Uso.</td>
+<td>42,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">21,44</td>
+<td>En espera.</td>
+<td>21,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBO ABIERTO 6TN GC -6.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">999,11</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">GLOBOS ELEVACIÓN.</td>
+<td rowspan="3">GLOBO ABIERTO 6TN GC -6.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>999,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">66,61</td>
+<td>Uso.</td>
+<td>66,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">33,30</td>
+<td>En espera.</td>
+<td>33,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBO CERRADO 2TN GC -2.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">574,20</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">GLOBOS ELEVACIÓN.</td>
+<td rowspan="3">GLOBO CERRADO 2TN GC -2.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>574,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">38,28</td>
+<td>Uso.</td>
+<td>38,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">19,14</td>
+<td>En espera.</td>
+<td>19,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBO CERRADO 3TN GC -3.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.025,17</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">GLOBOS ELEVACIÓN.</td>
+<td rowspan="3">GLOBO CERRADO 3TN GC -3.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.025,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">68,34</td>
+<td>Uso.</td>
+<td>68,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">34,17</td>
+<td>En espera.</td>
+<td>34,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">GLOBO CERRADO 6TN GC -6.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.917,83</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">GLOBOS ELEVACIÓN.</td>
+<td rowspan="3">GLOBO CERRADO 6TN GC -6.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.917,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">127,86</td>
+<td>Uso.</td>
+<td>127,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">63,93</td>
+<td>En espera.</td>
+<td>63,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OTROS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANALIZADOR HIDROCARBUROS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">7.010,19</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">OTROS.</td>
+<td rowspan="3">ANALIZADOR HIDROCARBUROS.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>7.010,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">77,89</td>
+<td>Uso.</td>
+<td>77,89</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">38,95</td>
+<td>En espera.</td>
+<td>38,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OTROS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CAMPANA DE BUCEO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">623.350,00</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">OTROS.</td>
+<td rowspan="3">CAMPANA DE BUCEO.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>623.350,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3.463,06</td>
+<td>Uso.</td>
+<td>3.463,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1.731,53</td>
+<td>En espera.</td>
+<td>1.731,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OTROS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Cañón calor.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">440,55</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">OTROS.</td>
+<td rowspan="3">Cañón calor.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>440,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4,90</td>
+<td>Uso.</td>
+<td>4,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,45</td>
+<td>En espera.</td>
+<td>2,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OTROS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Depuradoras de Células coalescentes.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">4.696,56</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">OTROS.</td>
+<td rowspan="3">Depuradoras de Células coalescentes.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>4.696,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">52,18</td>
+<td>Uso.</td>
+<td>52,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">26,09</td>
+<td>En espera.</td>
+<td>26,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OTROS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Maquina Limpieza barreras Lamor.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">116.575,47</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">OTROS.</td>
+<td rowspan="3">Maquina Limpieza barreras Lamor.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>116.575,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">323,82</td>
+<td>Uso.</td>
+<td>323,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROV.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROV SEABOTIX.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">36.946,00</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">ROV.</td>
+<td rowspan="3">ROV SEABOTIX.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>36.946,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">410,51</td>
+<td>Uso.</td>
+<td>410,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">205,26</td>
+<td>En espera.</td>
+<td>205,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS VARIOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROV.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ROV SUBATLANTIC.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.663.300,00</td>
+<td rowspan="3">EQUIPOS VARIOS.</td>
+<td rowspan="3">ROV.</td>
+<td rowspan="3">ROV SUBATLANTIC.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.663.300,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">9.240,56</td>
+<td>Uso.</td>
+<td>9.240,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">4.620,28</td>
+<td>En espera.</td>
+<td>4.620,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">FONDEOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANCLAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANCLAS DE 80 KG.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">396,00</td>
+<td rowspan="3">FONDEOS.</td>
+<td rowspan="3">ANCLAS.</td>
+<td rowspan="3">ANCLAS DE 80 KG.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>396,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">26,40</td>
+<td>Uso.</td>
+<td>26,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">13,20</td>
+<td>En espera.</td>
+<td>13,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">FONDEOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANCLAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 13 KG.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">356,40</td>
+<td rowspan="3">FONDEOS.</td>
+<td rowspan="3">ANCLAS.</td>
+<td rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 13 KG.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>356,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">23,76</td>
+<td>Uso.</td>
+<td>23,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">11,88</td>
+<td>En espera.</td>
+<td>11,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">FONDEOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANCLAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 20 KG.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">594,00</td>
+<td rowspan="3">FONDEOS.</td>
+<td rowspan="3">ANCLAS.</td>
+<td rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 20 KG.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>594,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">39,60</td>
+<td>Uso.</td>
+<td>39,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">19,80</td>
+<td>En espera.</td>
+<td>19,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">FONDEOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANCLAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 35 KG.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">990,00</td>
+<td rowspan="3">FONDEOS.</td>
+<td rowspan="3">ANCLAS.</td>
+<td rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 35 KG.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>990,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">66,00</td>
+<td>Uso.</td>
+<td>66,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">33,00</td>
+<td>En espera.</td>
+<td>33,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">FONDEOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ANCLAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 50 KG.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">1.213,74</td>
+<td rowspan="3">FONDEOS.</td>
+<td rowspan="3">ANCLAS.</td>
+<td rowspan="3">EQUIPOS DE FONDEO CON ANCLAS DE 50 KG.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>1.213,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">80,92</td>
+<td>Uso.</td>
+<td>80,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">40,46</td>
+<td>En espera.</td>
+<td>40,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FLEXIBLE.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">23,71</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">FLEXIBLE.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 6".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>23,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">1,58</td>
+<td>Uso.</td>
+<td>1,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,79</td>
+<td>En espera.</td>
+<td>0,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FLEXIBLE.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida conexiones Camlock 2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">6,20</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">FLEXIBLE.</td>
+<td rowspan="3">Manguera rígida conexiones Camlock 2".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>6,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,41</td>
+<td>Uso.</td>
+<td>0,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>En espera.</td>
+<td>0,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FLEXIBLE.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida conexiones Camlock 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">10,50</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">FLEXIBLE.</td>
+<td rowspan="3">Manguera rígida conexiones Camlock 3".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>10,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,70</td>
+<td>Uso.</td>
+<td>0,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,35</td>
+<td>En espera.</td>
+<td>0,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FLEXIBLE.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida conexiones Camlock 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">76,69</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">FLEXIBLE.</td>
+<td rowspan="3">Manguera rígida conexiones Camlock 6".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>76,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">5,11</td>
+<td>Uso.</td>
+<td>5,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,56</td>
+<td>En espera.</td>
+<td>2,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FLEXIBLE.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida ryltec 2200/150x170 6" (negra super reforzada.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">97,71</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">FLEXIBLE.</td>
+<td rowspan="3">Manguera rígida ryltec 2200/150x170 6" (negra super reforzada.</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>97,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">6,51</td>
+<td>Uso.</td>
+<td>6,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">3,26</td>
+<td>En espera.</td>
+<td>3,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 1".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">7,57</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 1".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>7,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,50</td>
+<td>Uso.</td>
+<td>0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,25</td>
+<td>En espera.</td>
+<td>0,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 1".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">418,92</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 1".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>418,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">13,96</td>
+<td>Uso.</td>
+<td>13,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">6,98</td>
+<td>En espera.</td>
+<td>6,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 1/2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">120,13</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 1/2".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>120,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4,00</td>
+<td>Uso.</td>
+<td>4,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,00</td>
+<td>En espera.</td>
+<td>2,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 1/2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">3,33</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 1/2".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>3,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,22</td>
+<td>Uso.</td>
+<td>0,22</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,11</td>
+<td>En espera.</td>
+<td>0,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 1/4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">2,49</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 1/4".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>2,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,17</td>
+<td>Uso.</td>
+<td>0,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,08</td>
+<td>En espera.</td>
+<td>0,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 1/4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">95,04</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 1/4".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>95,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3,17</td>
+<td>Uso.</td>
+<td>3,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,58</td>
+<td>En espera.</td>
+<td>1,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 3/4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">5,10</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 3/4".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>5,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,34</td>
+<td>Uso.</td>
+<td>0,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,17</td>
+<td>En espera.</td>
+<td>0,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 3/4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">186,23</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 3/4".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>186,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">6,21</td>
+<td>Uso.</td>
+<td>6,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">3,10</td>
+<td>En espera.</td>
+<td>3,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 3/8".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">99,59</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 3/8".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>99,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3,32</td>
+<td>Uso.</td>
+<td>3,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,66</td>
+<td>En espera.</td>
+<td>1,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Latiguillos hidráulicos de 3/8".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">2,87</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">LATIGUILLOS.</td>
+<td rowspan="3">Latiguillos hidráulicos de 3/8".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>2,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,19</td>
+<td>Uso.</td>
+<td>0,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,10</td>
+<td>En espera.</td>
+<td>0,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15,94</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 2".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>15,94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,53</td>
+<td>Uso.</td>
+<td>0,53</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,27</td>
+<td>En espera.</td>
+<td>0,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">6,38</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 2".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>6,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,43</td>
+<td>Uso.</td>
+<td>0,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,21</td>
+<td>En espera.</td>
+<td>0,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">9,54</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 3".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>9,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,64</td>
+<td>Uso.</td>
+<td>0,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,32</td>
+<td>En espera.</td>
+<td>0,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">29,47</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 3".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>29,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,98</td>
+<td>Uso.</td>
+<td>0,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,49</td>
+<td>En espera.</td>
+<td>0,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">46,08</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 4".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>46,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">1,54</td>
+<td>Uso.</td>
+<td>1,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,77</td>
+<td>En espera.</td>
+<td>0,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">METROS TOTALES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">12,95</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 4".</td>
+<td rowspan="3">METROS TOTALES.</td>
+<td>Consumido.</td>
+<td>12,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,86</td>
+<td>Uso.</td>
+<td>0,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,43</td>
+<td>En espera.</td>
+<td>0,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera flexible Oroflex con conexiones Camlock 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">94,72</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera flexible Oroflex con conexiones Camlock 6".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>94,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3,16</td>
+<td>Uso.</td>
+<td>3,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,58</td>
+<td>En espera.</td>
+<td>1,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera aspiración/descarga H/C DN 100 Camlock 4".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">65,02</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera aspiración/descarga H/C DN 100 Camlock 4".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>65,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">4,33</td>
+<td>Uso.</td>
+<td>4,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">2,17</td>
+<td>En espera.</td>
+<td>2,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera aspiración/descarga H/C DN 150 Camlock 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">169,96</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera aspiración/descarga H/C DN 150 Camlock 6".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>169,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">11,33</td>
+<td>Uso.</td>
+<td>11,33</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">5,67</td>
+<td>En espera.</td>
+<td>5,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera aspiración/descarga H/C DN 75 Camlock 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">33,76</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera aspiración/descarga H/C DN 75 Camlock 3".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>33,76</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,25</td>
+<td>Uso.</td>
+<td>2,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,13</td>
+<td>En espera.</td>
+<td>1,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera neumática 1" conexión rápida.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">17,80</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera neumática 1" conexión rápida.</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>17,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">1,19</td>
+<td>Uso.</td>
+<td>1,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,59</td>
+<td>En espera.</td>
+<td>0,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERA NEUMÁTICA 3/4'' (tramos de 20 m) con acoples expres.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">33,80</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">MANGUERA NEUMÁTICA 3/4'' (tramos de 20 m) con acoples expres.</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>33,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">2,25</td>
+<td>Uso.</td>
+<td>2,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">1,13</td>
+<td>En espera.</td>
+<td>1,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera neumática 3/4" conexión rápida.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15,05</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera neumática 3/4" conexión rápida.</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>15,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">1,00</td>
+<td>Uso.</td>
+<td>1,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,50</td>
+<td>En espera.</td>
+<td>0,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida conexiones Camlock 2".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">16,39</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera rígida conexiones Camlock 2".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>16,39</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,55</td>
+<td>Uso.</td>
+<td>0,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,27</td>
+<td>En espera.</td>
+<td>0,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida conexiones Camlock 3".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">25,72</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera rígida conexiones Camlock 3".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>25,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">0,86</td>
+<td>Uso.</td>
+<td>0,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">0,43</td>
+<td>En espera.</td>
+<td>0,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida conexiones Camlock 6".</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">287,19</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera rígida conexiones Camlock 6".</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>287,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">9,57</td>
+<td>Uso.</td>
+<td>9,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">4,79</td>
+<td>En espera.</td>
+<td>4,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MANGUERAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Manguera rígida ryltec 2200/150x170 6" (negra super reforzada.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">N.º TRAMOS.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">287,10</td>
+<td rowspan="3">LATIGUILLOS Y MANGUERAS.</td>
+<td rowspan="3">MANGUERAS.</td>
+<td rowspan="3">Manguera rígida ryltec 2200/150x170 6" (negra super reforzada.</td>
+<td rowspan="3">N.º TRAMOS.</td>
+<td>Consumido.</td>
+<td>287,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">9,57</td>
+<td>Uso.</td>
+<td>9,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">4,79</td>
+<td>En espera.</td>
+<td>4,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CEPILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR MINIMAX 30, con bomba DOP 160.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">31.925,52</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">CEPILLOS.</td>
+<td rowspan="3">LAMOR MINIMAX 30, con bomba DOP 160.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>31.925,52</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">354,73</td>
+<td>Uso.</td>
+<td>354,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">177,36</td>
+<td>En espera.</td>
+<td>177,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CEPILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR MINIMAX 30, con bomba Foilex TDS 150.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">33.062,44</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">CEPILLOS.</td>
+<td rowspan="3">LAMOR MINIMAX 30, con bomba Foilex TDS 150.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>33.062,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">367,36</td>
+<td>Uso.</td>
+<td>367,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">183,68</td>
+<td>En espera.</td>
+<td>183,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CEPILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR MINIMAX 60.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">43.587,72</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">CEPILLOS.</td>
+<td rowspan="3">LAMOR MINIMAX 60.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>43.587,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">484,31</td>
+<td>Uso.</td>
+<td>484,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">242,15</td>
+<td>En espera.</td>
+<td>242,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CEPILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LORY LMS 30.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">12.127,50</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">CEPILLOS.</td>
+<td rowspan="3">LORY LMS 30.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>12.127,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">134,75</td>
+<td>Uso.</td>
+<td>134,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">67,38</td>
+<td>En espera.</td>
+<td>67,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CEPILLOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN BS 20 sin bomba.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">13.734,27</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">CEPILLOS.</td>
+<td rowspan="3">MARKLEEN BS 20 sin bomba.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>13.734,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">152,60</td>
+<td>Uso.</td>
+<td>152,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">76,30</td>
+<td>En espera.</td>
+<td>76,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DISCOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA KOMARA 12k MK II CON UNIDAD DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">16.659,72</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">DISCOS.</td>
+<td rowspan="3">VIKOMA KOMARA 12k MK II CON UNIDAD DE POTENCIA.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>16.659,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">185,11</td>
+<td>Uso.</td>
+<td>185,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">92,55</td>
+<td>En espera.</td>
+<td>92,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DISCOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA SEASKIMMER 50.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">27.893,25</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">DISCOS.</td>
+<td rowspan="3">VIKOMA SEASKIMMER 50.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>27.893,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">309,93</td>
+<td>Uso.</td>
+<td>309,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">154,96</td>
+<td>En espera.</td>
+<td>154,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VERTEDERO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI 250 con Power Pack 1.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">47.710,08</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">VERTEDERO.</td>
+<td rowspan="3">DESMI 250 con Power Pack 1.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>47.710,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">530,11</td>
+<td>Uso.</td>
+<td>530,11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">265,06</td>
+<td>En espera.</td>
+<td>265,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VERTEDERO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX TDS 150 COAST.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">19.620,41</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">VERTEDERO.</td>
+<td rowspan="3">FOILEX TDS 150 COAST.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>19.620,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">218,00</td>
+<td>Uso.</td>
+<td>218,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">109,00</td>
+<td>En espera.</td>
+<td>109,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VERTEDERO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX TDS 200 SEA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">28.618,13</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">VERTEDERO.</td>
+<td rowspan="3">FOILEX TDS 200 SEA.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>28.618,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">317,98</td>
+<td>Uso.</td>
+<td>317,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">158,99</td>
+<td>En espera.</td>
+<td>158,99</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">SKIMMERS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VERTEDERO.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX TDS 250 OCEAN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">35.571,69</td>
+<td rowspan="3">SKIMMERS.</td>
+<td rowspan="3">VERTEDERO.</td>
+<td rowspan="3">FOILEX TDS 250 OCEAN.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>35.571,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">395,24</td>
+<td>Uso.</td>
+<td>395,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">197,62</td>
+<td>En espera.</td>
+<td>197,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">SWEEPING ARM.</p>
+<td rowspan="3">
+<p>SWEEPING ARM.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">SWEEPING ARM.</p>
-<p class="cuerpo_tabla_izq">12 M.</p>
+<td rowspan="3"> </td>
+<td rowspan="3">
+<p>SWEEPING ARM.</p>
+<p>12 M.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">693.793,00</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>693.793,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">246,93</td>
+<td>Uso.</td>
+<td>246,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">123,46</td>
+<td>En espera.</td>
+<td>123,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">SWEEPING ARM.</p>
+<td rowspan="3">
+<p>SWEEPING ARM.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3"> </td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">SWEEPING ARM.</p>
-<p class="cuerpo_tabla_izq">15 M.</p>
+<td rowspan="3"> </td>
+<td rowspan="3">
+<p>SWEEPING ARM.</p>
+<p>15 M.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">901.268,00</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>901.268,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">190,08</td>
+<td>Uso.</td>
+<td>190,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">95,04</td>
+<td>En espera.</td>
+<td>95,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI DESTROIL DPPS 26 Mk 5, 26 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">4.164,93</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">DESMI DESTROIL DPPS 26 Mk 5, 26 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>4.164,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">46,28</td>
+<td>Uso.</td>
+<td>46,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">23,14</td>
+<td>En espera.</td>
+<td>23,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI RO-BOOM PP para RO-SKIN multiusos.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">10.412,82</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">DESMI RO-BOOM PP para RO-SKIN multiusos.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>10.412,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">115,70</td>
+<td>Uso.</td>
+<td>115,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">57,85</td>
+<td>En espera.</td>
+<td>57,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX DH 20 E 20 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">21.061,66</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">FOILEX DH 20 E 20 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>21.061,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">234,02</td>
+<td>Uso.</td>
+<td>234,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">117,01</td>
+<td>En espera.</td>
+<td>117,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX DH 30 E 30 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">26.872,56</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">FOILEX DH 30 E 30 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>26.872,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">298,58</td>
+<td>Uso.</td>
+<td>298,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">149,29</td>
+<td>En espera.</td>
+<td>149,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR LPP 20 L 21 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">21.061,66</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">LAMOR LPP 20 L 21 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>21.061,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">234,02</td>
+<td>Uso.</td>
+<td>234,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">117,01</td>
+<td>En espera.</td>
+<td>117,01</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LORI LMS 30.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">20.586,06</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">LORI LMS 30.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>20.586,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">228,73</td>
+<td>Uso.</td>
+<td>228,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">114,37</td>
+<td>En espera.</td>
+<td>114,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 25 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">20.586,06</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 25 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>20.586,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">228,73</td>
+<td>Uso.</td>
+<td>228,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">114,37</td>
+<td>En espera.</td>
+<td>114,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN J 27 Combi 27 Kw. con bomba lóbulos.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">12.029,49</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">MARKLEEN J 27 Combi 27 Kw. con bomba lóbulos.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>12.029,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">133,66</td>
+<td>Uso.</td>
+<td>133,66</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">66,83</td>
+<td>En espera.</td>
+<td>66,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ENTRE 15-30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA SEA 50- 30 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">25.781,58</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">ENTRE 15-30Kw.</td>
+<td rowspan="3">VIKOMA SEA 50- 30 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>25.781,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">286,46</td>
+<td>Uso.</td>
+<td>286,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">143,23</td>
+<td>En espera.</td>
+<td>143,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX DH 32 E 32 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">35.835,82</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">FOILEX DH 32 E 32 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>35.835,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">398,18</td>
+<td>Uso.</td>
+<td>398,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">199,09</td>
+<td>En espera.</td>
+<td>199,09</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">FOILEX DH 45 E 45 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">45.740,77</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">FOILEX DH 45 E 45 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>45.740,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">508,23</td>
+<td>Uso.</td>
+<td>508,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">254,12</td>
+<td>En espera.</td>
+<td>254,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR LPP 30 D/T1 32 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">25.781,58</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">LAMOR LPP 30 D/T1 32 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>25.781,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">286,46</td>
+<td>Uso.</td>
+<td>286,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">143,23</td>
+<td>En espera.</td>
+<td>143,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR LPP 50 D 53 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">37.719,00</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">LAMOR LPP 50 D 53 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>37.719,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">419,10</td>
+<td>Uso.</td>
+<td>419,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">209,55</td>
+<td>En espera.</td>
+<td>209,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 85 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">41.342,40</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 85 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>41.342,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">459,36</td>
+<td>Uso.</td>
+<td>459,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">229,68</td>
+<td>En espera.</td>
+<td>229,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 18 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">9.037,71</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 18 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>9.037,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">100,42</td>
+<td>Uso.</td>
+<td>100,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">50,21</td>
+<td>En espera.</td>
+<td>50,21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MAYOR 30Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 90 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">37.782,36</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MAYOR 30Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 90 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>37.782,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">419,80</td>
+<td>Uso.</td>
+<td>419,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">209,90</td>
+<td>En espera.</td>
+<td>209,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CENTRAL BARRERA EXPANDI Diesel Eléctrica 7kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">11.943,36</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">CENTRAL BARRERA EXPANDI Diesel Eléctrica 7kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>11.943,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">132,70</td>
+<td>Uso.</td>
+<td>132,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">66,35</td>
+<td>En espera.</td>
+<td>66,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI 5,2 Kw. con soplador.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">14.452,61</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">DESMI 5,2 Kw. con soplador.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>14.452,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">160,58</td>
+<td>Uso.</td>
+<td>160,58</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">80,29</td>
+<td>En espera.</td>
+<td>80,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI RO-BOOM PP 10 Kw. con soplador.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">16.830,00</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">DESMI RO-BOOM PP 10 Kw. con soplador.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>16.830,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">187,00</td>
+<td>Uso.</td>
+<td>187,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">93,50</td>
+<td>En espera.</td>
+<td>93,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI RO-BOOM PP 10 Kw. con soplador y ruedas.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">18.982,26</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">DESMI RO-BOOM PP 10 Kw. con soplador y ruedas.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>18.982,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">210,91</td>
+<td>Uso.</td>
+<td>210,91</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">105,46</td>
+<td>En espera.</td>
+<td>105,46</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DESMI RO-CLEAN PP 10 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15.087,60</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">DESMI RO-CLEAN PP 10 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>15.087,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">167,64</td>
+<td>Uso.</td>
+<td>167,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">83,82</td>
+<td>En espera.</td>
+<td>83,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR LPP 12 12 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">16.536,96</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">LAMOR LPP 12 12 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>16.536,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">183,74</td>
+<td>Uso.</td>
+<td>183,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">91,87</td>
+<td>En espera.</td>
+<td>91,87</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">LAMOR LPP 7 Ha/B8 7 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">11.943,36</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">LAMOR LPP 7 Ha/B8 7 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>11.943,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">132,70</td>
+<td>Uso.</td>
+<td>132,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">66,35</td>
+<td>En espera.</td>
+<td>66,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 5,5 Kw arranque manual.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">5.747,51</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 5,5 Kw arranque manual.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>5.747,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">63,86</td>
+<td>Uso.</td>
+<td>63,86</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">31,93</td>
+<td>En espera.</td>
+<td>31,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 5,5 Kw. arranque eléctrico.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">6.201,36</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 5,5 Kw. arranque eléctrico.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>6.201,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">68,90</td>
+<td>Uso.</td>
+<td>68,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">34,45</td>
+<td>En espera.</td>
+<td>34,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN DHPP 7,5 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">6.926,83</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">MARKLEEN DHPP 7,5 Kw.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>6.926,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">76,96</td>
+<td>Uso.</td>
+<td>76,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">38,48</td>
+<td>En espera.</td>
+<td>38,48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MARKLEEN EHPP 10 Kw. eléctrico.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">15.087,60</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">MARKLEEN EHPP 10 Kw. eléctrico.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>15.087,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">167,64</td>
+<td>Uso.</td>
+<td>167,64</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">83,82</td>
+<td>En espera.</td>
+<td>83,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES DE POTENCIA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">MENOR 15 Kw.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIKOMA PP 7,5 KW. eléctrico.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma">11.943,36</td>
+<td rowspan="3">UNIDADES DE POTENCIA.</td>
+<td rowspan="3">MENOR 15 Kw.</td>
+<td rowspan="3">VIKOMA PP 7,5 KW. eléctrico.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td>11.943,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">132,70</td>
+<td>Uso.</td>
+<td>132,70</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma">66,35</td>
+<td>En espera.</td>
+<td>66,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">CARRETILLA.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Carretilla elevadora 1,2 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">CARRETILLA.</td>
+<td rowspan="3">Carretilla elevadora 1,2 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">54,30</td>
+<td>Uso.</td>
+<td>54,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Carretilla elevadora 13,5 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">EQUIPOS ELEVACIÓN.</td>
+<td rowspan="3">Carretilla elevadora 13,5 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">321,75</td>
+<td>Uso.</td>
+<td>321,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Carretilla elevadora 15 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">EQUIPOS ELEVACIÓN.</td>
+<td rowspan="3">Carretilla elevadora 15 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">302,50</td>
+<td>Uso.</td>
+<td>302,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Carretilla elevadora 2 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">EQUIPOS ELEVACIÓN.</td>
+<td rowspan="3">Carretilla elevadora 2 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">113,43</td>
+<td>Uso.</td>
+<td>113,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">EQUIPOS ELEVACIÓN.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Carretilla elevadora 3,5 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">EQUIPOS ELEVACIÓN.</td>
+<td rowspan="3">Carretilla elevadora 3,5 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">209,08</td>
+<td>Uso.</td>
+<td>209,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TRANSPALETS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Transpaleta de 1 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">TRANSPALETS.</td>
+<td rowspan="3">Transpaleta de 1 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">1,45</td>
+<td>Uso.</td>
+<td>1,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">TRANSPALETS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Transpaleta de 2,5 tons.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">TRANSPALETS.</td>
+<td rowspan="3">Transpaleta de 2,5 tons.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">3,30</td>
+<td>Uso.</td>
+<td>3,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Camión/grúa con remolque.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">Camión/grúa con remolque.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">679,00</td>
+<td>Uso.</td>
+<td>679,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VEHICULOS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Todoterreno.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">UNIDADES.</td>
-<td class="cuerpo_tabla_izq">Consumido.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">VEHICULOS.</td>
+<td rowspan="3">Todoterreno.</td>
+<td rowspan="3">UNIDADES.</td>
+<td>Consumido.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Uso.</td>
-<td class="cuerpo_tabla_coma">199,00</td>
+<td>Uso.</td>
+<td>199,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En espera.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>En espera.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

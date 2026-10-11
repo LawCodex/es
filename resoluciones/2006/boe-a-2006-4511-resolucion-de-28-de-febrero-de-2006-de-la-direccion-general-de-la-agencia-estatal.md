@@ -332,162 +332,158 @@ Deben indicarse los mismos datos que para el Responsable 1.
 
 (Código de aval «1»)
 
-<table class="sinbordes">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Número de referencia completo (NRC): ...............................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código de aval (1): ........................................................ Importe: ........................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Registrado en el R.E.A. n.º: .................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalista:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Entidad: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F.: ........................................................................ Oficina: ............................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código: ................................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Apoderados:</p>
+<td colspan="2">
+<p> </p>
+<p>Número de referencia completo (NRC): ...............................................................................................................</p>
+<p> </p>
+<p>N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
+<p> </p>
+<p>Código de aval (1): ........................................................ Importe: ........................................................................</p>
+<p> </p>
+<p>Registrado en el R.E.A. n.º: .................................................................................................................................</p>
+<p> </p>
+<p>Avalista:</p>
+<p> </p>
+<p>Entidad: ...............................................................................................................................................................</p>
+<p> </p>
+<p>N.I.F.: ........................................................................ Oficina: ............................................................................</p>
+<p> </p>
+<p>Código: ................................................................................................................................................................</p>
+<p> </p>
+<p>Apoderados:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos:</p>
+<td>
+<p>Nombre y Apellidos:</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalado/s:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos / Razón Social: </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td colspan="2">
+<p> </p>
+<p>La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
+<p> </p>
+<p>Avalado/s:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p>Nombre y Apellidos / Razón Social: </p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Deudas avaladas <sup>(1)</sup></p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Órgano liquidador: ................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Clave de liquidación: ............................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Concepto: ............................................................................... Periodo: ...............................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Importe: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(1) </sup>En el caso de que existan varias deudas avaladas, repetir el cuadro.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval cubre el importe de la liquidación recurrida en reposición, los intereses de demora que genere la suspensión y los recargos que procederían en caso de ejecución de la garantía, de conformidad con lo establecido en el artículo 224 de la Ley 58/2003, de 17 de diciembre, General Tributaria y en el artículo 25 del Reglamento general que desarrolla el citado texto legal en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo.</p>
-<p class="cuerpo_tabla_izq">El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
-<p class="cuerpo_tabla_izq">El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Extensión temporal del aval <sup>(2)</sup>:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">‒ El presente aval se presta con duración indefinida, extendiendo sus efectos exclusivamente en el procedimiento correspondiente al recurso de reposición.</p>
-<p class="cuerpo_tabla_izq">‒ El presente aval se presta con duración indefinida, extendiendo sus efectos en el procedimiento correspondiente al recurso de reposición y, en su caso, a la vía económico-administrativa, en los términos que correspondan.</p>
-<p class="cuerpo_tabla_izq">‒ El presente aval se presta con duración indefinida, extendiendo sus efectos, en los términos que correspondan, a la vía económico-administrativa y, en su caso, a la vía contencioso administrativa.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(2) </sup>Incluir únicamente el párrafo que, en cada caso, resulte procedente.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Otras cláusulas:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En todo caso, el aval permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En ............................., a ......... de.................... de .......</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_centro">Fdo.: El apoderado / Los apoderados.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>Deudas avaladas <sup>(1)</sup></p>
+<p> </p>
+<p>Órgano liquidador: ................................................................................................................................................</p>
+<p> </p>
+<p>Clave de liquidación: ............................................................................................................................................</p>
+<p> </p>
+<p>Concepto: ............................................................................... Periodo: ...............................................................</p>
+<p> </p>
+<p>Importe: ...............................................................................................................................................................</p>
+<p> </p>
+<p><sup>(1) </sup>En el caso de que existan varias deudas avaladas, repetir el cuadro.</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>El presente aval cubre el importe de la liquidación recurrida en reposición, los intereses de demora que genere la suspensión y los recargos que procederían en caso de ejecución de la garantía, de conformidad con lo establecido en el artículo 224 de la Ley 58/2003, de 17 de diciembre, General Tributaria y en el artículo 25 del Reglamento general que desarrolla el citado texto legal en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo.</p>
+<p>El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
+<p>El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
+<p> </p>
+<p>Extensión temporal del aval <sup>(2)</sup>:</p>
+<p> </p>
+<p>‒ El presente aval se presta con duración indefinida, extendiendo sus efectos exclusivamente en el procedimiento correspondiente al recurso de reposición.</p>
+<p>‒ El presente aval se presta con duración indefinida, extendiendo sus efectos en el procedimiento correspondiente al recurso de reposición y, en su caso, a la vía económico-administrativa, en los términos que correspondan.</p>
+<p>‒ El presente aval se presta con duración indefinida, extendiendo sus efectos, en los términos que correspondan, a la vía económico-administrativa y, en su caso, a la vía contencioso administrativa.</p>
+<p> </p>
+<p><sup>(2) </sup>Incluir únicamente el párrafo que, en cada caso, resulte procedente.</p>
+<p> </p>
+<p>Otras cláusulas:</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>En todo caso, el aval permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
+<p> </p>
+<p>En ............................., a ......... de.................... de .......</p>
+<p> </p>
+<p> </p>
+<p>Fdo.: El apoderado / Los apoderados.</p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -497,161 +493,157 @@ Deben indicarse los mismos datos que para el Responsable 1.
 
 (Código de aval «2»)
 
-<table class="sinbordes">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Número de referencia completo (NRC): ...............................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código de aval (2): ........................................................ Importe: .......................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Registrado en el R.E.A. n.º: .................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalista:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Entidad: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F.: ........................................................................ Oficina: ............................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código: ................................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Apoderados:</p>
+<td colspan="2">
+<p> </p>
+<p>Número de referencia completo (NRC): ...............................................................................................................</p>
+<p> </p>
+<p>N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
+<p> </p>
+<p>Código de aval (2): ........................................................ Importe: .......................................................................</p>
+<p> </p>
+<p>Registrado en el R.E.A. n.º: .................................................................................................................................</p>
+<p> </p>
+<p>Avalista:</p>
+<p> </p>
+<p>Entidad: ...............................................................................................................................................................</p>
+<p> </p>
+<p>N.I.F.: ........................................................................ Oficina: ............................................................................</p>
+<p> </p>
+<p>Código: ................................................................................................................................................................</p>
+<p> </p>
+<p>Apoderados:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos: </p>
+<td>
+<p>Nombre y Apellidos: </p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalado/s:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos / Razón Social: </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td colspan="2">
+<p> </p>
+<p>La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
+<p> </p>
+<p>Avalado/s:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p>Nombre y Apellidos / Razón Social: </p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Deudas avaladas <sup>(1)</sup>:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Órgano liquidador: ................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Clave de liquidación: ............................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Concepto: ............................................................................... Periodo: ...............................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Importe: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(1) </sup>En el caso de que existan varias deudas avaladas, repetir el cuadro.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval cubre el importe de la liquidación recurrida en la vía económico-administrativa, los intereses de demora que se originen por la suspensión y los recargos que procederían en caso de ejecución de la garantía, de conformidad con lo establecido en el artículo 233 de la Ley 58/2003, de 17 de diciembre, General Tributaria y en los artículos 41 y 43 del Reglamento general que desarrolla el citado texto legal en materia de revisión en vía administrativa (Real Decreto 520/2005, de 13 de mayo).</p>
-<p class="cuerpo_tabla_izq">El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
-<p class="cuerpo_tabla_izq">El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Extensión temporal del aval <sup>(2)</sup>:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">‒ El presente aval se presta con duración indefinida, extendiendo sus efectos exclusivamente en el procedimiento correspondiente a la reclamación económico-administrativa, incluido el posible recurso de alzada.</p>
-<p class="cuerpo_tabla_izq">‒ El presente aval se presta con duración indefinida, extendiendo sus efectos en el procedimiento correspondiente a la reclamación económico-administrativa (incluido el posible recurso de alzada) y, en su caso, a la vía contencioso-administrativa, en los términos que correspondan.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(2) </sup>Incluir únicamente el párrafo que, en cada caso, resulte procedente.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Otras cláusulas:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En todo caso, el aval permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En ............................., a ......... de.................... de .......</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_centro">Fdo.: El apoderado / Los apoderados.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>Deudas avaladas <sup>(1)</sup>:</p>
+<p> </p>
+<p>Órgano liquidador: ................................................................................................................................................</p>
+<p> </p>
+<p>Clave de liquidación: ............................................................................................................................................</p>
+<p> </p>
+<p>Concepto: ............................................................................... Periodo: ...............................................................</p>
+<p> </p>
+<p>Importe: ...............................................................................................................................................................</p>
+<p> </p>
+<p><sup>(1) </sup>En el caso de que existan varias deudas avaladas, repetir el cuadro.</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>El presente aval cubre el importe de la liquidación recurrida en la vía económico-administrativa, los intereses de demora que se originen por la suspensión y los recargos que procederían en caso de ejecución de la garantía, de conformidad con lo establecido en el artículo 233 de la Ley 58/2003, de 17 de diciembre, General Tributaria y en los artículos 41 y 43 del Reglamento general que desarrolla el citado texto legal en materia de revisión en vía administrativa (Real Decreto 520/2005, de 13 de mayo).</p>
+<p>El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
+<p>El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
+<p> </p>
+<p>Extensión temporal del aval <sup>(2)</sup>:</p>
+<p> </p>
+<p>‒ El presente aval se presta con duración indefinida, extendiendo sus efectos exclusivamente en el procedimiento correspondiente a la reclamación económico-administrativa, incluido el posible recurso de alzada.</p>
+<p>‒ El presente aval se presta con duración indefinida, extendiendo sus efectos en el procedimiento correspondiente a la reclamación económico-administrativa (incluido el posible recurso de alzada) y, en su caso, a la vía contencioso-administrativa, en los términos que correspondan.</p>
+<p> </p>
+<p><sup>(2) </sup>Incluir únicamente el párrafo que, en cada caso, resulte procedente.</p>
+<p> </p>
+<p>Otras cláusulas:</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>En todo caso, el aval permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
+<p> </p>
+<p>En ............................., a ......... de.................... de .......</p>
+<p> </p>
+<p> </p>
+<p>Fdo.: El apoderado / Los apoderados.</p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -661,148 +653,144 @@ Deben indicarse los mismos datos que para el Responsable 1.
 
 (Código de aval «3»)
 
-<table class="sinbordes">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Número de referencia completo (NRC): ...............................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: ..........</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código de aval (3): ........................................................ Importe: .......................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Registrado en el R.E.A. n.º: .................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalista:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Entidad: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F.: ........................................................................ Oficina: ............................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código: ................................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Apoderados:</p>
+<td colspan="2">
+<p> </p>
+<p>Número de referencia completo (NRC): ...............................................................................................................</p>
+<p> </p>
+<p>N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: ..........</p>
+<p> </p>
+<p>Código de aval (3): ........................................................ Importe: .......................................................................</p>
+<p> </p>
+<p>Registrado en el R.E.A. n.º: .................................................................................................................................</p>
+<p> </p>
+<p>Avalista:</p>
+<p> </p>
+<p>Entidad: ...............................................................................................................................................................</p>
+<p> </p>
+<p>N.I.F.: ........................................................................ Oficina: ............................................................................</p>
+<p> </p>
+<p>Código: ................................................................................................................................................................</p>
+<p> </p>
+<p>Apoderados:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos: </p>
+<td>
+<p>Nombre y Apellidos: </p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalado/s:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos / Razón Social:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td colspan="2">
+<p> </p>
+<p>La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
+<p> </p>
+<p>Avalado/s:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p>Nombre y Apellidos / Razón Social:</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval cubre el importe de la deuda en periodo voluntario, de los intereses de demora que genere el aplazamiento/fraccionamiento y de un 25% de la suma de ambas partidas.</p>
-<p class="cuerpo_tabla_izq">En virtud del presente aval, la referida Entidad queda obligada a pagar a la Agencia Estatal de Administración Tributaria, en defecto del pago del avalado y en el plazo señalado en el requerimiento que a éste se le haga, las cantidades aplazadas/fraccionadas más los intereses de demora y los recargos en que incurra el deudor por falta de pago en el plazo debido, según la relación que a continuación se detalla:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Deudas avaladas <sup>(1)</sup>:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.º expediente de aplazamiento: .........................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Clave de liquidación: ............................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Concepto: ............................................................................... Importe: ...............................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Periodicidad de los plazos: ............................................................... N.º de plazos: ............................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(1) </sup>En el caso de que existan varias deudas avaladas, repetir el cuadro.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
-<p class="cuerpo_tabla_izq">El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Extensión temporal del aval:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval tendrá vigencia hasta al menos seis meses después del vencimiento del último plazo concedido en el acuerdo de aplazamiento/fraccionamiento (......../......../.........). (Indicar la fecha correspondiente al último vencimiento).</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En ............................., a ......... de.................... de .......</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_centro">Fdo.: El apoderado / Los apoderados.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>El presente aval cubre el importe de la deuda en periodo voluntario, de los intereses de demora que genere el aplazamiento/fraccionamiento y de un 25% de la suma de ambas partidas.</p>
+<p>En virtud del presente aval, la referida Entidad queda obligada a pagar a la Agencia Estatal de Administración Tributaria, en defecto del pago del avalado y en el plazo señalado en el requerimiento que a éste se le haga, las cantidades aplazadas/fraccionadas más los intereses de demora y los recargos en que incurra el deudor por falta de pago en el plazo debido, según la relación que a continuación se detalla:</p>
+<p> </p>
+<p>Deudas avaladas <sup>(1)</sup>:</p>
+<p> </p>
+<p>N.º expediente de aplazamiento: .........................................................................................................................</p>
+<p> </p>
+<p>Clave de liquidación: ............................................................................................................................................</p>
+<p> </p>
+<p>Concepto: ............................................................................... Importe: ...............................................................</p>
+<p> </p>
+<p>Periodicidad de los plazos: ............................................................... N.º de plazos: ............................................</p>
+<p> </p>
+<p><sup>(1) </sup>En el caso de que existan varias deudas avaladas, repetir el cuadro.</p>
+<p> </p>
+<p>El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
+<p>El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
+<p> </p>
+<p>Extensión temporal del aval:</p>
+<p> </p>
+<p>El presente aval tendrá vigencia hasta al menos seis meses después del vencimiento del último plazo concedido en el acuerdo de aplazamiento/fraccionamiento (......../......../.........). (Indicar la fecha correspondiente al último vencimiento).</p>
+<p> </p>
+<p>En ............................., a ......... de.................... de .......</p>
+<p> </p>
+<p> </p>
+<p>Fdo.: El apoderado / Los apoderados.</p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -812,151 +800,147 @@ Deben indicarse los mismos datos que para el Responsable 1.
 
 (Código de aval «4»)
 
-<table class="sinbordes">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Número de referencia completo (NRC): ...............................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código de aval (4): ........................................................ Importe: .......................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Registrado en el R.E.A. n.º: .................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalista:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Entidad: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F.: ........................................................................ Oficina: ............................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código: ................................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Apoderados:</p>
+<td colspan="2">
+<p> </p>
+<p>Número de referencia completo (NRC): ...............................................................................................................</p>
+<p> </p>
+<p>N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
+<p> </p>
+<p>Código de aval (4): ........................................................ Importe: .......................................................................</p>
+<p> </p>
+<p>Registrado en el R.E.A. n.º: .................................................................................................................................</p>
+<p> </p>
+<p>Avalista:</p>
+<p> </p>
+<p>Entidad: ...............................................................................................................................................................</p>
+<p> </p>
+<p>N.I.F.: ........................................................................ Oficina: ............................................................................</p>
+<p> </p>
+<p>Código: ................................................................................................................................................................</p>
+<p> </p>
+<p>Apoderados:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos:</p>
+<td>
+<p>Nombre y Apellidos:</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalado/s:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos / Razón Social:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td colspan="2">
+<p> </p>
+<p>La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
+<p> </p>
+<p>Avalado/s:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p>Nombre y Apellidos / Razón Social:</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Deudas avaladas <sup>(1)</sup></p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Órgano liquidador: ................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Clave de liquidación: ............................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Concepto: I.V.A .................................................................... Periodos: ..............................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Importe: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval cubre el importe de la devolución cuya garantía ha sido exigida en virtud del artículo <sup>(1)</sup> .................. de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, de conformidad con el artículo 118 de dicho texto legal.</p>
-<p class="cuerpo_tabla_izq">El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
-<p class="cuerpo_tabla_izq">El presente documento tiene carácter ejecutivo y queda sujeto a las disposiciones reguladoras del tributo, al Reglamento General de Recaudación y demás disposiciones complementarias, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Extensión temporal del aval:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval se presta con duración indefinida y, en todo caso, permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En ............................., a ......... de.................... de .......</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_centro">Fdo.: El apoderado / Los apoderados.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(1)</sup> Indicar 115, 116 0 117, según proceda.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>Deudas avaladas <sup>(1)</sup></p>
+<p> </p>
+<p>Órgano liquidador: ................................................................................................................................................</p>
+<p> </p>
+<p>Clave de liquidación: ............................................................................................................................................</p>
+<p> </p>
+<p>Concepto: I.V.A .................................................................... Periodos: ..............................................................</p>
+<p> </p>
+<p>Importe: ...............................................................................................................................................................</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>El presente aval cubre el importe de la devolución cuya garantía ha sido exigida en virtud del artículo <sup>(1)</sup> .................. de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, de conformidad con el artículo 118 de dicho texto legal.</p>
+<p>El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
+<p>El presente documento tiene carácter ejecutivo y queda sujeto a las disposiciones reguladoras del tributo, al Reglamento General de Recaudación y demás disposiciones complementarias, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
+<p> </p>
+<p>Extensión temporal del aval:</p>
+<p> </p>
+<p>El presente aval se presta con duración indefinida y, en todo caso, permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
+<p> </p>
+<p>En ............................., a ......... de.................... de .......</p>
+<p> </p>
+<p> </p>
+<p>Fdo.: El apoderado / Los apoderados.</p>
+<p> </p>
+<p><sup>(1)</sup> Indicar 115, 116 0 117, según proceda.</p>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -1219,156 +1203,152 @@ Notas del texto del aval.
 
 (Código de aval «8»)
 
-<table class="sinbordes">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Número de referencia completo (NRC): ...............................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código de aval (8): ........................................................ Importe: .......................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Registrado en el R.E.A. n.º: .................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalista:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Entidad: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">N.I.F.: ........................................................................ Oficina: ............................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Código: ................................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Apoderados:</p>
+<td colspan="2">
+<p> </p>
+<p>Número de referencia completo (NRC): ...............................................................................................................</p>
+<p> </p>
+<p>N.I.F. (Avalado): ................................................................................................. Fecha de vencimiento: (0000)</p>
+<p> </p>
+<p>Código de aval (8): ........................................................ Importe: .......................................................................</p>
+<p> </p>
+<p>Registrado en el R.E.A. n.º: .................................................................................................................................</p>
+<p> </p>
+<p>Avalista:</p>
+<p> </p>
+<p>Entidad: ...............................................................................................................................................................</p>
+<p> </p>
+<p>N.I.F.: ........................................................................ Oficina: ............................................................................</p>
+<p> </p>
+<p>Código: ................................................................................................................................................................</p>
+<p> </p>
+<p>Apoderados:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos: </p>
+<td>
+<p>Nombre y Apellidos: </p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Avalado/s:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Nombre y Apellidos / Razón Social:</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">NIF</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td colspan="2">
+<p> </p>
+<p>La Entidad arriba expresada, y en su nombre y representación las personas mencionadas, se constituye ante la Agencia Estatal de Administración Tributaria en avalista solidario de:</p>
+<p> </p>
+<p>Avalado/s:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p>Nombre y Apellidos / Razón Social:</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p>NIF</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................................................................</p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">........................................................</p>
+<td>
+<p> </p>
+<p>........................................................</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval cubre el importe de las cantidades que puedan derivar de las actas con acuerdo que pueda suscribir el avalado con la Agencia Estatal de Administración Tributaria en virtud de lo dispuesto en el artículo 155 de la Ley 58/2003, de 17 de diciembre, General Tributaria.</p>
-<p class="cuerpo_tabla_izq">Por virtud del presente aval, la referida Entidad queda obligada a pagar a la Agencia Estatal de Administración Tributaria, en defecto de pago por el avalado y en el plazo señalado en el requerimiento que a éste se le haga, las cantidades siguientes:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Conceptos avalados <sup>(1)</sup>:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Órgano liquidador: ...............................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Concepto: ............................................................................................... Periodo: ..............................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Importe: ...............................................................................................................................................................</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"><sup>(1) </sup>En el caso de que existan varios conceptos avalados, repetir el cuadro.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
-<p class="cuerpo_tabla_izq">El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">Extensión temporal del aval:</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">El presente aval se presta con duración indefinida, y, en todo caso, permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq">En ............................., a ......... de.................... de .......</p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_izq"> </p>
-<p class="cuerpo_tabla_centro">Fdo.: El apoderado / Los apoderados.</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p>........................................................................................................</p>
+</td>
+<td>
+<p> </p>
+<p>........................................................</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+<p>El presente aval cubre el importe de las cantidades que puedan derivar de las actas con acuerdo que pueda suscribir el avalado con la Agencia Estatal de Administración Tributaria en virtud de lo dispuesto en el artículo 155 de la Ley 58/2003, de 17 de diciembre, General Tributaria.</p>
+<p>Por virtud del presente aval, la referida Entidad queda obligada a pagar a la Agencia Estatal de Administración Tributaria, en defecto de pago por el avalado y en el plazo señalado en el requerimiento que a éste se le haga, las cantidades siguientes:</p>
+<p> </p>
+<p>Conceptos avalados <sup>(1)</sup>:</p>
+<p> </p>
+<p>Órgano liquidador: ...............................................................................................................................................</p>
+<p> </p>
+<p>Concepto: ............................................................................................... Periodo: ..............................................</p>
+<p> </p>
+<p>Importe: ...............................................................................................................................................................</p>
+<p> </p>
+<p><sup>(1) </sup>En el caso de que existan varios conceptos avalados, repetir el cuadro.</p>
+<p> </p>
+<p>El aval se otorga a primer requerimiento de la A.E.A.T. con renuncia del avalista a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado. Asimismo responderá íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.</p>
+<p>El presente documento tiene carácter ejecutivo, debiendo hacerse efectivo por el procedimiento administrativo de apremio.</p>
+<p> </p>
+<p>Extensión temporal del aval:</p>
+<p> </p>
+<p>El presente aval se presta con duración indefinida, y, en todo caso, permanecerá vigente hasta que la Agencia Estatal de Administración Tributaria autorice su cancelación.</p>
+<p> </p>
+<p>En ............................., a ......... de.................... de .......</p>
+<p> </p>
+<p> </p>
+<p>Fdo.: El apoderado / Los apoderados.</p>
+<p> </p>
 </td>
 </tr>
 </tbody>

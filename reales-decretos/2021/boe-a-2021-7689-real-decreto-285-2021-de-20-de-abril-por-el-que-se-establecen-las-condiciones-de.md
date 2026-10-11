@@ -570,66 +570,62 @@ http://www.fao.org/agriculture/crops/thematic-sitemap/theme/pests/jmps/ps-new/en
 
 Tabla de tolerancias admitidas (1)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_3">
+<tr>
 <td>
-<p class="cabeza_tabla">Contenido declarado en g/kg o</p>
-<p class="cabeza_tabla">g/L a 20 ± 2 ºC</p>
+<p>Contenido declarado en g/kg o</p>
+<p>g/L a 20 ± 2 ºC</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tolerancia admitida</p>
+<p>Tolerancia admitida</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">hasta 25</p>
+<p>hasta 25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">± 15 % del contenido declarado para formulaciones homogéneas (EC, SC, SL, etc.) o ± 25% para formulaciones «heterogéneas» (GR, WG, etc.).</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">Superior a 25 y hasta 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">± 10 % del contenido declarado.</p>
+<p>± 15 % del contenido declarado para formulaciones homogéneas (EC, SC, SL, etc.) o ± 25% para formulaciones «heterogéneas» (GR, WG, etc.).</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Superior a 100 y hasta 250</p>
+<p>Superior a 25 y hasta 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">± 6 % del contenido declarado.</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">Superior a 250 y hasta 500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">± 5 % del contenido declarado.</p>
+<p>± 10 % del contenido declarado.</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Superior a 500</p>
+<p>Superior a 100 y hasta 250</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">± 25 g/kg por g/L.</p>
+<p>± 6 % del contenido declarado.</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Superior a 250 y hasta 500</p>
+</td>
+<td>
+<p>± 5 % del contenido declarado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Superior a 500</p>
+</td>
+<td>
+<p>± 25 g/kg por g/L.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Nota: En cada intervalo está incluido el límite superior.</p>
+<p>Nota: En cada intervalo está incluido el límite superior.</p>
 </td>
 </tr>
 </tbody>

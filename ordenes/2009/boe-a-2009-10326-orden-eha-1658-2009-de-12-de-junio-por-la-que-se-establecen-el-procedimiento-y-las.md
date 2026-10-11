@@ -581,490 +581,490 @@ Madrid, 12 de junio de 2009.–La Vicepresidenta Segunda del Gobierno y Ministra
 
 <br>
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Modelo</p>
+<p>Modelo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Plazo</p>
+<p>Plazo</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">100</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 2 de mayo hasta el 25 de junio.</p>
+<p>Desde el día 2 de mayo hasta el 25 de junio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">102</p>
+<p>102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 2 de mayo hasta el 25 de junio.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">111</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>Desde el día 2 de mayo hasta el 25 de junio.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">115</p>
+<p>111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">117</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">123</p>
+<p>115</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_centro">124</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">126</p>
+<p>117</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>123</p>
+</td>
+<td>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">128</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">130</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">131</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">136</p>
+<p>128</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">151</p>
+<p>130</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el inicio del plazo hasta el 25 del mes de junio.</p>
+<p>Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">200 (*)</p>
+<p>131</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 20 del mes de julio.</p>
+<p>Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">202</p>
+<p>136</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plazo: Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre.</p>
-<p class="cuerpo_tabla_izq">No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre.</p>
+<p>Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">206 (*)</p>
+<p>151</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 20 del mes de julio.</p>
+<p>Desde el inicio del plazo hasta el 25 del mes de junio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">210</p>
+<p>200 (*)</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de abril hasta el 23 de diciembre.</p>
-<p class="cuerpo_tabla_izq">– Rentas derivadas del arrendamiento o subarrendamiento de inmuebles (tipos de renta 01 o 35) con agrupación anual o sin agrupar (período 0A) (*): desde el 1 al 15 de abril.</p>
-<p class="cuerpo_tabla_izq">– Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles) (**): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero.</p>
-<p class="cita_con_pleca">(*) Exclusivamente para el tratamiento por parte de las EECC se comunicará técnicamente como 1T.</p>
-<p class="cita">(**) En caso de declaración de una renta separada, sin agrupación, exclusivamente para el tratamiento por parte de las EECC se comunicará técnicamente como NT, siendo N= 1, 2, 3 o 4).</p>
+<td>
+<p>Desde el día 1 hasta el 20 del mes de julio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">213</p>
+<p>202</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 25 del mes de enero.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">216</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>Plazo: Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre.</p>
+<p>No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">220 (*)</p>
+<p>206 (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 20 del mes de julio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">221</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 20 del mes de julio (**).</p>
+<p>Desde el día 1 hasta el 20 del mes de julio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">222</p>
+<p>210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre.</p>
-<p class="cuerpo_tabla_izq">No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">230</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+<p>– En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de abril hasta el 23 de diciembre.</p>
+<p>– Rentas derivadas del arrendamiento o subarrendamiento de inmuebles (tipos de renta 01 o 35) con agrupación anual o sin agrupar (período 0A) (*): desde el 1 al 15 de abril.</p>
+<p>– Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles) (**): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero.</p>
+<p>(*) Exclusivamente para el tratamiento por parte de las EECC se comunicará técnicamente como 1T.</p>
+<p>(**) En caso de declaración de una renta separada, sin agrupación, exclusivamente para el tratamiento por parte de las EECC se comunicará técnicamente como NT, siendo N= 1, 2, 3 o 4).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">242</p>
+<p>213</p>
+</td>
+<td>
+<p>Desde el día 1 hasta el 25 del mes de enero.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>216</p>
+</td>
+<td>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>220 (*)</p>
+</td>
+<td>
+<p>Desde el día 1 hasta el 20 del mes de julio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>221</p>
+</td>
+<td>
+<p>Desde el día 1 hasta el 20 del mes de julio (**).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>222</p>
+</td>
+<td>
+<p>Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre.</p>
+<p>No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>230</p>
+</td>
+<td>
+<p>Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>242</p>
 </td>
 <td>Desde el día 1 hasta el 20 de abril. *Solo cuando el período impositivo finalice el día 31 de diciembre. Desde el día 1 hasta el 20 de julio. ***Solo cuando el período de transición finalice el 31 de diciembre.</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">303</p>
+<p>303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plazo: Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero.</p>
+<p>Plazo: Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
+<p>Obligación mensual de presentación: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">309 (***)</p>
+<p>309 (***)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
+<p>Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">353</p>
+<p>353</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plazo: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero salvo, en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero.</p>
+<p>Plazo: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero salvo, en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">410</p>
+<p>410</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plazo: Desde el día 1 hasta el 26 del mes de julio.</p>
+<p>Plazo: Desde el día 1 hasta el 26 del mes de julio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">411</p>
+<p>411</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plazo: Desde el día 1 hasta el 26 del mes de julio.</p>
+<p>Plazo: Desde el día 1 hasta el 26 del mes de julio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">430</p>
+<p>430</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre.</p>
+<p>Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">490</p>
+<p>490</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 hasta el 25 de abril (primer trimestre), y desde el día 1 hasta el 26 de los meses de julio, octubre y enero (resto de trimestres).</p>
+<p>Obligación trimestral de presentación: Desde el día 1 hasta el 25 de abril (primer trimestre), y desde el día 1 hasta el 26 de los meses de julio, octubre y enero (resto de trimestres).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">560</p>
+<p>560</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquel en que finaliza el trimestre en que se han producido los devengos.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente al mes en que se han producido los devengos.</p>
-<p class="cuerpo_tabla_izq">Obligación anual de presentación: Desde el 1 al 15 del mes de abril del año siguiente al que se han producido los devengos.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquel en que finaliza el trimestre en que se han producido los devengos.</p>
+<p>Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente al mes en que se han producido los devengos.</p>
+<p>Obligación anual de presentación: Desde el 1 al 15 del mes de abril del año siguiente al que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">561</p>
+<p>561</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
+<p>Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">562</p>
+<p>562</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
+<p>Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">563</p>
+<p>563</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
-<p class="cuerpo_tabla_izq">Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
+<p>Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
+<p>Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">564</p>
+<p>564</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
+<p>Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">566</p>
+<p>566</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
+<p>Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">573</p>
+<p>573</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Plazo: el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda.</p>
+<p>Plazo: el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">581</p>
+<p>581</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
+<p>Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">582</p>
+<p>582</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
+<p>Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">583</p>
+<p>583</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero.</p>
-<p class="cuerpo_tabla_izq">Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre.</p>
+<p>Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero.</p>
+<p>Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">587</p>
+<p>587</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">El plazo será desde el día 1 hasta el día 20 del mes siguiente a aquel en que finaliza el período de liquidación correspondiente al trimestre natural. En caso de domiciliación bancaria del pago, el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación.</p>
+<p>El plazo será desde el día 1 hasta el día 20 del mes siguiente a aquel en que finaliza el período de liquidación correspondiente al trimestre natural. En caso de domiciliación bancaria del pago, el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">588</p>
+<p>588</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 25 del mes de noviembre.</p>
+<p>Desde el día 1 hasta el 25 del mes de noviembre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">589</p>
+<p>589</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligación semestral de presentación: desde el día 1 hasta el 15 del mes de octubre. Obligación anual de presentación: desde el día 1 hasta el 15 del mes de abril.</p>
+<p>Obligación semestral de presentación: desde el día 1 hasta el 15 del mes de octubre. Obligación anual de presentación: desde el día 1 hasta el 15 del mes de abril.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">592</td>
+<td>592</td>
 <td>Plazo: el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">593</td>
+<td>593</td>
 <td>Plazo: el plazo será desde el día 1 hasta el día 25 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda.</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">595</p>
+<p>595</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">714</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Desde el día 2 de mayo hasta el 25 de junio.</p>
+<p>Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">718</p>
+<p>714</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el día 26 del mes de julio.</p>
+<td>
+<p>Desde el día 2 de mayo hasta el 25 de junio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">780 (*)</p>
+<p>718</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Plazo: Desde el día 1 hasta el 15 de septiembre.</p>
+<td>
+<p>Desde el día 1 hasta el día 26 del mes de julio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">781 (*)</p>
+<p>780 (*)</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Plazo: Desde el día 1 hasta el 15 de febrero.</p>
+<td>
+<p>Plazo: Desde el día 1 hasta el 15 de septiembre.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">792</p>
+<p>781 (*)</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero.</p>
+<td>
+<p>Plazo: Desde el día 1 hasta el 15 de febrero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">793</p>
+<p>792</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 de los meses de abril, julio y octubre.</p>
+<td>
+<p>Desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">795</td>
-<td class="cuerpo_tabla_izq">Desde el día 1 hasta el día 15 del mes de septiembre.</td>
+<td>
+<p>793</p>
+</td>
+<td>
+<p>Desde el día 1 hasta el 15 de los meses de abril, julio y octubre.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">796</td>
-<td class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes de febrero.</td>
+<td>795</td>
+<td>Desde el día 1 hasta el día 15 del mes de septiembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">797</td>
-<td class="cuerpo_tabla_izq">Desde el día 1 hasta el día 15 del mes de septiembre.</td>
+<td>796</td>
+<td>Desde el día 1 hasta el 15 del mes de febrero.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">798</td>
-<td class="cuerpo_tabla_izq">Desde el día 1 hasta el 15 del mes de febrero.</td>
+<td>797</td>
+<td>Desde el día 1 hasta el día 15 del mes de septiembre.</td>
+</tr>
+<tr>
+<td>798</td>
+<td>Desde el día 1 hasta el 15 del mes de febrero.</td>
 </tr>
 </tbody>
 </table>
@@ -1200,101 +1200,97 @@ Longitud de registro: 300.
 
 4\. Detalle.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="42%">
-<col width="58%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">TIPO REGISTRO.</td>
-<td class="cuerpo_tabla_izq">1 posición alfanumérica (Valor = 4).</td>
+<td>TIPO REGISTRO.</td>
+<td>1 posición alfanumérica (Valor = 4).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NIF PRIMER DECLARANTE.</td>
-<td class="cuerpo_tabla_izq">9 posiciones alfanuméricas.</td>
+<td>NIF PRIMER DECLARANTE.</td>
+<td>9 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ANAGRAMA.</td>
-<td class="cuerpo_tabla_izq">4 posiciones alfanuméricas.</td>
+<td>ANAGRAMA.</td>
+<td>4 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APELLIDOS Y NOMBRE O RAZÓN SOCIAL DEL PRIMER DECLARANTE.</td>
-<td class="cuerpo_tabla_izq">40 posiciones alfanuméricas.</td>
+<td>APELLIDOS Y NOMBRE O RAZÓN SOCIAL DEL PRIMER DECLARANTE.</td>
+<td>40 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NIF SEGUNDO DECLARANTE.</td>
-<td class="cuerpo_tabla_izq">9 posiciones alfanuméricas.</td>
+<td>NIF SEGUNDO DECLARANTE.</td>
+<td>9 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APELLIDOS Y NOMBRE O RAZÓN SOCIAL DEL SEGUNDO DECLARANTE.</td>
-<td class="cuerpo_tabla_izq">40 posiciones alfanuméricas.</td>
+<td>APELLIDOS Y NOMBRE O RAZÓN SOCIAL DEL SEGUNDO DECLARANTE.</td>
+<td>40 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÓDIGO ADMINISTRACIÓN FISCAL.</td>
-<td class="cuerpo_tabla_izq">5 posiciones numéricas.</td>
+<td>CÓDIGO ADMINISTRACIÓN FISCAL.</td>
+<td>5 posiciones numéricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MODELO.</td>
-<td class="cuerpo_tabla_izq">3 posiciones numéricas.</td>
+<td>MODELO.</td>
+<td>3 posiciones numéricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EJERCICIO FISCAL.</td>
-<td class="cuerpo_tabla_izq">4 posiciones numéricas.</td>
+<td>EJERCICIO FISCAL.</td>
+<td>4 posiciones numéricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PERÍODO.</td>
-<td class="cuerpo_tabla_izq">2 posiciones alfanuméricas.</td>
+<td>PERÍODO.</td>
+<td>2 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">JUSTIFICANTE.</td>
-<td class="cuerpo_tabla_izq">13 posiciones numéricas.</td>
+<td>JUSTIFICANTE.</td>
+<td>13 posiciones numéricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IMPORTE A PAGAR.</td>
-<td class="cuerpo_tabla_izq">13 posiciones numéricas (11 enteros y 2 decimales).</td>
+<td>IMPORTE A PAGAR.</td>
+<td>13 posiciones numéricas (11 enteros y 2 decimales).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IMPORTE TOTAL DECLARACIÓN<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">13 posiciones numéricas (11 enteros y 2 decimales).</td>
+<td>IMPORTE TOTAL DECLARACIÓN<sup>1</sup>.</td>
+<td>13 posiciones numéricas (11 enteros y 2 decimales).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OPCIÓN FRACCIONAMIENTO<sup>1</sup>.</td>
-<td class="cuerpo_tabla_izq">1 posición numérica (1=no fracciona, 2=fracciona y no domicilia, 3= fracciona y domicilia 2.º plazo).</td>
+<td>OPCIÓN FRACCIONAMIENTO<sup>1</sup>.</td>
+<td>1 posición numérica (1=no fracciona, 2=fracciona y no domicilia, 3= fracciona y domicilia 2.º plazo).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÓDIGO CUENTA CARGO (CCC).</td>
-<td class="cuerpo_tabla_izq">20 posiciones numéricas.</td>
+<td>CÓDIGO CUENTA CARGO (CCC).</td>
+<td>20 posiciones numéricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NIF ALTERNATIVO.</td>
-<td class="cuerpo_tabla_izq">9 posiciones alfanuméricas (irá relleno a blancos salvo en modelos donde el titular pueda ser diferente del contribuyente).</td>
+<td>NIF ALTERNATIVO.</td>
+<td>9 posiciones alfanuméricas (irá relleno a blancos salvo en modelos donde el titular pueda ser diferente del contribuyente).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NOMBRE/RAZÓN SOCIAL DE NIF ALTERNATIVO.</td>
-<td class="cuerpo_tabla_izq">40 posiciones alfanuméricas (irá relleno a blancos salvo en modelos donde el titular pueda ser diferente del contribuyente).</td>
+<td>NOMBRE/RAZÓN SOCIAL DE NIF ALTERNATIVO.</td>
+<td>40 posiciones alfanuméricas (irá relleno a blancos salvo en modelos donde el titular pueda ser diferente del contribuyente).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMA DE PAGO.</td>
-<td class="cuerpo_tabla_izq">1 posición numérica (Valor = 0).</td>
+<td>FORMA DE PAGO.</td>
+<td>1 posición numérica (Valor = 0).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IBAN.</td>
-<td class="cuerpo_tabla_izq">4 posiciones alfanuméricas.</td>
+<td>IBAN.</td>
+<td>4 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NRC PREGENERADO INTERNAMENTE POR LA AEAT.</td>
-<td class="cuerpo_tabla_izq">22 posiciones alfanuméricas.</td>
+<td>NRC PREGENERADO INTERNAMENTE POR LA AEAT.</td>
+<td>22 posiciones alfanuméricas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LIBRE.</td>
-<td class="cuerpo_tabla_izq">47 posiciones alfanuméricas.</td>
+<td>LIBRE.</td>
+<td>47 posiciones alfanuméricas.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>1</sup> Campos que únicamente tienen contenido cuando el modelo sea el 100 (Impuesto sobre la Renta de las Personas Físicas. Declaración anual o borrador de declaración).</p>
+<p><sup>1</sup> Campos que únicamente tienen contenido cuando el modelo sea el 100 (Impuesto sobre la Renta de las Personas Físicas. Declaración anual o borrador de declaración).</p>
 </td>
 </tr>
 </tfoot>

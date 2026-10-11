@@ -97,98 +97,93 @@ El plazo máximo de finalización será de veinte días, conforme a lo estableci
 
 b) Parte presencial.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="70%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Planning del curso</th>
-<th class="cabeza_tabla" colspan="2">Horas</th>
+<th>Planning del curso</th>
+<th colspan="2">Horas</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Temas</th>
-<th class="cabeza_tabla">Formación<br>a distancia</th>
-<th class="cabeza_tabla">Formación<br>presencial</th>
+<th>Temas</th>
+<th>Formación<br>a distancia</th>
+<th>Formación<br>presencial</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Recursos sanitarios para las personas trabajadoras del mar.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>1. Recursos sanitarios para las personas trabajadoras del mar.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Estructura y funciones del cuerpo humano.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>2. Estructura y funciones del cuerpo humano.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Examen del paciente.</td>
-<td class="cuerpo_tabla_coma">1,5</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>3. Examen del paciente.</td>
+<td>1,5</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Asfixia y parada cardíaca.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>4. Asfixia y parada cardíaca.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Hemorragias. Heridas y quemaduras.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">1,5</td>
+<td>5. Hemorragias. Heridas y quemaduras.</td>
+<td>2,5</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Choque.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>6. Choque.</td>
+<td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Trastornos por calor y frío.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>7. Trastornos por calor y frío.</td>
+<td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Traumatismos y transporte de personas heridas y accidentadas.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1,5</td>
+<td>8. Traumatismos y transporte de personas heridas y accidentadas.</td>
+<td>1</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Intoxicaciones a bordo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>9. Intoxicaciones a bordo.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Accidentes de trabajo y enfermedades profesionales.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>10. Accidentes de trabajo y enfermedades profesionales.</td>
+<td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Higiene individual y colectiva.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>11. Higiene individual y colectiva.</td>
+<td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Administración de medicamentos y botiquines a bordo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>12. Administración de medicamentos y botiquines a bordo.</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Consulta médica por radio.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>13. Consulta médica por radio.</td>
+<td>2</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Evaluación (incluida).</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>Evaluación (incluida).</td>
+<td>0</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_coma">8</td>
+<td> Total.</td>
+<td>14</td>
+<td>8</td>
 </tr>
 </tbody>
 </table>
@@ -201,133 +196,128 @@ El plazo máximo de finalización será de treinta días, conforme a lo establec
 
 b) Parte presencial.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="70%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Planning del curso</th>
-<th class="cabeza_tabla" colspan="2">Horas</th>
+<th>Planning del curso</th>
+<th colspan="2">Horas</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Temas</th>
-<th class="cabeza_tabla">Formación<br>a distancia</th>
-<th class="cabeza_tabla">Formación<br>presencial</th>
+<th>Temas</th>
+<th>Formación<br>a distancia</th>
+<th>Formación<br>presencial</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. Recursos sanitarios para las personas trabajadoras del mar.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>1. Recursos sanitarios para las personas trabajadoras del mar.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Estructura y funciones del cuerpo humano.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>2. Estructura y funciones del cuerpo humano.</td>
+<td>2</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Historia clínica elemental y examen del paciente.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>3. Historia clínica elemental y examen del paciente.</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Asfixia y parada cardíaca.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>4. Asfixia y parada cardíaca.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Hemorragias y choque.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0,5</td>
+<td>5. Hemorragias y choque.</td>
+<td>1</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Heridas.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>6. Heridas.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Quemaduras y congelaciones.</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>7. Quemaduras y congelaciones.</td>
+<td>2</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Trastornos generales por frío y calor.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>8. Trastornos generales por frío y calor.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Intoxicaciones a bordo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>9. Intoxicaciones a bordo.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Esguinces, luxaciones y fracturas.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>10. Esguinces, luxaciones y fracturas.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Accidentes de trabajo y enfermedades profesionales.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>11. Accidentes de trabajo y enfermedades profesionales.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Higiene personal y del buque.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>12. Higiene personal y del buque.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Enfermedades de transmisión sexual y enfermedades tropicales.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>13. Enfermedades de transmisión sexual y enfermedades tropicales.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14. Lesiones en los oídos, la nariz, la garganta y los ojos. Odontología.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>14. Lesiones en los oídos, la nariz, la garganta y los ojos. Odontología.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15. Uso indebido de drogas, alcohol y otras urgencias psiquiátricas.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>15. Uso indebido de drogas, alcohol y otras urgencias psiquiátricas.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16. Muerte en el mar.</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>16. Muerte en el mar.</td>
+<td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">17. Atención al parto.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">0</td>
+<td>17. Atención al parto.</td>
+<td>1</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18. Administración de medicamentos y botiquines a bordo.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>18. Administración de medicamentos y botiquines a bordo.</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">19. Transporte de personas heridas.</td>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>19. Transporte de personas heridas.</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">20. Consulta médica por radio.</td>
-<td class="cuerpo_tabla_coma">2,5</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>20. Consulta médica por radio.</td>
+<td>2,5</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Evaluación (incluida).</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_coma">1,5</td>
+<td>Evaluación (incluida).</td>
+<td>0</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total.</td>
-<td class="cuerpo_tabla_coma">24</td>
-<td class="cuerpo_tabla_coma">16</td>
+<td> Total.</td>
+<td>24</td>
+<td>16</td>
 </tr>
 </tbody>
 </table>

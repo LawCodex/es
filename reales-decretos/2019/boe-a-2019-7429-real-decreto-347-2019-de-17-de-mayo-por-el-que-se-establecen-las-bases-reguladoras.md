@@ -1,0 +1,909 @@
+---
+title: "Real Decreto 347/2019, de 17 de mayo, por el que se establecen las bases reguladoras para la concesión de subvenciones destinadas a programas plurirregionales de formación dirigidos a los profesionales del medio rural"
+identifier: "BOE-A-2019-7429"
+eli: "https://www.boe.es/eli/es/rd/2019/05/17/347"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2019-05-17
+published: 2019-05-18
+in_force_from: 2019-05-19
+last_amended: 2025-11-20
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 119"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7429"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 347/2019, de 17 de mayo, por el que se establecen las bases reguladoras para la concesión de subvenciones destinadas a programas plurirregionales de formación dirigidos a los profesionales del medio rural
+
+El medio rural representa el 90 por ciento del territorio nacional pero acoge el 25 por ciento de la población, incluyendo la práctica totalidad de los recursos naturales y gran parte del patrimonio cultural, por lo que son necesarios para su desarrollo y sostenibilidad medidas y políticas multisectoriales en las que participen y se involucren los distintos agentes sociales.
+
+El objetivo de las políticas de desarrollo rural es optimizar la aplicación de los instrumentos de las políticas nacionales y europeas para mejorar las condiciones económicas, sociales y medioambientales de los territorios rurales.
+
+La cohesión económica y social favorece un desarrollo rural equilibrado con la existencia de explotaciones agropecuarias modernas y rentables, de PYMES agroalimentarias competitivas y, en particular, de una economía diversificada que posibilite la generación de empleo, que contribuya a la mejora del medio ambiente, a la eliminación de las desigualdades y a la promoción de la igualdad entre hombres y mujeres.
+
+Las ayudas a la formación en el medio rural tienen por objetivo ampliar los conocimientos y las capacidades en tal medio, permitiendo una nueva orientación al desarrollo de este ámbito.
+
+Es necesario, por tanto, establecer la oferta formativa con el fin de actualizar y fortalecer las competencias profesionales, asegurando así la adaptación permanente de los profesionales del medio rural a las exigencias del desarrollo sostenible del mismo, aumentando su competitividad y mejorando las oportunidades de empleo y trabajo.
+
+En este marco, la formación se constituye como la herramienta clave para el crecimiento, el empleo, el desarrollo y la actividad económica en los territorios rurales, propiciando el fomento del empleo y de la movilidad laboral, la inversión en capital humano, el aprendizaje permanente, la potenciación de la I+D+i en el medio rural, la contribución a una economía verde, la lucha contra el desempleo juvenil y la oportunidad para avanzar en la igualdad entre hombres y mujeres.
+
+La gestión de estas ayudas será realizada por el Ministerio de Agricultura, Pesca y Alimentación, con base en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia sobre las bases y la coordinación general de la actividad económica, a través de la Dirección General de Desarrollo Rural, Innovación y Política Forestal, de forma centralizada por el carácter supraterritorial de las ayudas, con la finalidad de financiar actuaciones de formación para profesionales del medio rural por razones de interés público y desarrolladas por entidades representativas y vinculadas con el ámbito rural. La gestión de las ayudas se realizará de acuerdo con los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia en el cumplimiento de los objetivos y eficiencia en la asignación y utilización de los recursos públicos.
+
+Así, con palabras de la sentencia del Tribunal Constitucional 45/2001, de 15 de febrero, «el artículo 149.1.13.ª CE puede amparar tanto normas estatales que fijen las líneas directrices y los criterios globales de ordenación de sectores económicos concretos, como previsiones de acciones o medidas singulares indispensables para alcanzar los fines propuestos en dicha ordenación (sentencia del Tribunal Constitucional 155/1996, de 9 de octubre, F. 4 y jurisprudencia en ella citada)». En definitiva, el Estado tiene reservada, por el mencionado artículo 149.1.13.ª, una competencia de dirección en la que tienen cobijo normas básicas y, asimismo, previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación del sector (sentencia del Tribunal Constitucional 117/1992, de 16 de septiembre).
+
+Ello se debe a su carácter transversal ya que aun existiendo una competencia sobre un subsector económico que una comunidad autónoma ha asumido como «exclusiva» en su Estatuto, esta atribución competencial no excluye la competencia estatal para establecer las bases y la coordinación de ese subsector, y que el ejercicio autonómico de esta competencia exclusiva puede estar condicionado por medidas estatales, que en ejercicio de una competencia propia y diferenciada pueden desplegarse autónomamente sobre diversos campos o materias, siempre que el fin perseguido responda efectivamente a un objetivo de planificación económica» (sentencia del Tribunal Constitucional 74/2014, de 8 de mayo).
+
+Igualmente, la sentencia del Tribunal Constitucional 11/2015, FJ 4, por remisión a la sentencia del Tribunal Constitucional 79/1992, de 28 de mayo, FJ 2, ha recordado que «el sector de la agricultura y la ganadería es de aquellos que por su importancia toleran la fijación de líneas directrices y criterios globales de ordenación así como previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación de cada sector, destacando que «… en materia de agricultura y ganadería, siendo la competencia específica de las comunidades autónomas… el Estado puede intervenir en virtud de sus competencias generales sobre la ordenación general de la economía».
+
+La doctrina sobre la utilización de la supraterritorialidad como criterio de atribución de competencias al Estado se recuerda en la sentencia del Tribunal Constitucional 27/2014, de 13 de febrero, FJ 4, en los términos siguientes: «la utilización de la supraterritorialidad como criterio determinante para la atribución o el traslado de la titularidad de competencias al Estado en ámbitos, en principio, reservados a las competencias autonómicas tiene, según nuestra doctrina, carácter excepcional, de manera que sólo podrá tener lugar “cuando no quepa establecer ningún punto de conexión que permita el ejercicio de las competencias autonómicas o cuando además del carácter supraautonómico del fenómeno objeto de la competencia, no sea posible el fraccionamiento de la actividad pública ejercida sobre él y, aun en este caso, siempre que dicha actuación tampoco pueda ejercerse mediante mecanismos de cooperación o de coordinación y, por ello, requiera un grado de homogeneidad que sólo pueda garantizar su atribución a un único titular, forzosamente el Estado, y cuando sea necesario recurrir a un ente supraordenado con capacidad de integrar intereses contrapuestos de sus componentes parciales, sin olvidar el peligro inminente de daños irreparables, que nos sitúa en el terreno del estado de necesidad (STC 102/1995, de 26 de junio, FJ 8)” (sentencia del Tribunal Constitucional 35/2012, FJ 5, con cita de la sentencia del Tribunal Constitucional 194/2011, FJ 5)».
+
+El artículo 149.1.13.ª CE puede, en determinados casos, justificar la reserva de funciones ejecutivas al Estado y también permitir el uso de la supraterritorialidad como título atributivo de competencias al Estado, pero para que dicho supuesto pueda ser considerado conforme al orden competencial han de cumplirse dos condiciones: que resulte preciso que la actuación de que se trate quede reservada al Estado para garantizar así el cumplimento de la finalidad de ordenación económica que se persigue, la cual no podría conseguirse sin dicha reserva, y, por otro lado, que el uso del criterio supraterritorial resulte justificado en los términos de nuestra doctrina, esto es, atendiendo tanto a las razones aportadas como a la congruencia de la reserva de la función con el régimen de la norma.
+
+El Estado dicta estas bases desde una perspectiva nacional y articulada que, de otro modo, no aseguraría la igualdad en la percepción por parte de los posibles destinatarios de estas ayudas. Así, no sólo se atiende al número de comunidades autónomas en que se desarrollen las actividades sino que se computa la densidad poblacional de las mismas como mecanismo de igualación frente a las diferentes perspectivas poblacionales de todo el país, en cumplimiento de los principios constitucionales de igualdad formal y material y de las competencias exclusivas del Estado que el Ministerio de Agricultura, Pesca y Alimentación ejerce en esta materia. Por otro lado, estas subvenciones no impiden a las comunidades autónomas aprobar sus correspondientes bases reguladoras, que se centren en las actividades desplegadas en su propio territorio.
+
+De acuerdo con la doctrina del Alto Tribunal, la necesidad de la gestión de estas ayudas a través del Ministerio de Agricultura, Pesca y Alimentación se fundamenta en la estructura y naturaleza jurídica de las entidades beneficiarias, que son de ámbito estatal. Las actividades objeto de desarrollo, dado su carácter y requisito normativo de plurirregionalidad, no son susceptibles de fraccionamiento, ni se considera posible alcanzar la plurirregionalidad requerida mediante mecanismos de cooperación o coordinación, al requerir un grado de homogeneidad en su tratamiento que sólo puede garantizarse mediante su gestión por un único titular, que forzosamente tiene que ser el Estado, a través de la Administración General del Estado. De esta forma se ofrecen idénticas posibilidades de obtención y disfrute por parte de los potenciales destinatarios que radican en distintas comunidades autónomas pero que se integran en una única entidad de ámbito supraterritorial, aspecto que no se conseguiría desde una gestión autonómica por lo que se deduce de forma razonable que no cabe la fijación de un punto de conexión territorial.
+
+No cabe, por lo demás, atribuir a las comunidades autónomas la gestión de tales ayudas –sin perjuicio de sus propias líneas subvencionables– porque no nos encontramos ante una actividad donde el punto de ejercicio sea criterio atributivo de competencia, sino que se afronta una situación excepcional que sólo mediante este modelo encuentra correcto acomodo para el logro de los fines, asegurando, no sólo que no se rebasen los fondos máximos que la normativa europea previene, sino que las condiciones de obtención sean efectivamente homogéneas, con independencia de las condiciones de partida y el territorio concreto en que opere de modo ordinario, garantizando con ello que la efectividad de estas medidas sea plena: superar las diferencias físicas de partida, garantizar una igualdad efectiva entre territorios y condiciones de partida, y asegurar la plena efectividad en todo el país de estas ayudas para que efectivamente ayuden a subvenir situaciones de partida a las que los poderes públicos han de enfrentarse de modo eficiente.
+
+Las ayudas reguladas en el presente real decreto tienen como finalidad última abaratar el coste de la actividad de formación que es soportado por la persona que asiste a la misma, de modo que la entidad encargada de desarrollar dichas actuaciones no obtiene beneficio directo de la subvención. Por tanto, el destinatario final y beneficiario directo de la subvención es la persona que asiste a la actividad y no la entidad prestataria del servicio.
+
+Esta norma se fundamenta en el mandato recogido en el artículo 130 de la Constitución Española que dispone que «los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos y, en particular, de la agricultura, de la ganadería, de la pesca y de la artesanía, a fin de equiparar el nivel de vida de todos los españoles» y en el artículo 131, que reconoce que el Estado podrá planificar la actividad económica general para atender a las necesidades colectivas, equilibrar y armonizar el desarrollo regional y sectorial y estimular el crecimiento de la renta y de la riqueza y su más justa distribución y se dicta en virtud de lo dispuesto en la disposición final sexta de la Ley 45/2007, de 13 de diciembre, para el desarrollo sostenible del medio rural.
+
+Este real decreto se dicta de conformidad con lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+De acuerdo con lo establecido en el segundo párrafo del artículo 17.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, este real decreto se ha informado por la Abogacía del Estado y la Intervención Delegada de la Intervención General de la Administración del Estado en el Ministerio de Agricultura, Pesca y Alimentación y la Oficina Presupuestaria.
+
+En la tramitación de la presente norma se han consultado a las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+Asimismo, en cumplimiento de lo previsto en la Ley 50/1997, de 27 de noviembre, del Gobierno, el proyecto de real decreto ha sido sometido al procedimiento de audiencia e información pública y se adecua a los principios de buena regulación a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, cumple con los principios de necesidad y eficacia, pues las ayudas supraterritoriales gestionadas por el Estado se configuran como el instrumento más adecuado para favorecer el aumento de la cualificación profesional de los trabajadores del medio rural de manera homogénea en el territorio nacional en beneficio del interés general. También se adecua al principio de proporcionalidad, pues no existe otra alternativa que imponga menos obligaciones a los destinatarios para la consecución de estos fines. En cuanto al principio de seguridad jurídica, dicha norma se adecua al mismo pues es coherente con el derecho de la Unión Europea y con el ordenamiento jurídico nacional en el que se inserta, facilitando su conocimiento y comprensión de forma clara y cierta por los destinatarios. En cuanto al principio de transparencia, se ha procurado la participación de los interesados, mediante el procedimiento de información y participación pública, así como mediante la consulta a las comunidades autónomas habiéndose definido los objetivos que se persiguen con la regulación de estas bases. Finalmente el principio de eficiencia se ha atendido por cuanto se han evitado cargas administrativas innecesarias o accesorias y se han restringido al mínimo imprescindible para alcanzar los objetivos perseguidos por este real decreto.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Política Territorial y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 17 de mayo de 2019,
+
+DISPONGO:
+
+> Se suprimen los párrafos décimo séptimo y décimo octavo por el art. único.1 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+## Artículo 1. Objeto.
+
+El objeto del presente real decreto es la concesión, en régimen de concurrencia competitiva, de subvenciones destinadas a la realización de programas formativos plurirregionales dirigidos a profesionales del medio rural.
+
+Las entidades que impartan esta formación deberán cumplir los requisitos del artículo 2.
+
+## Artículo 2. Beneficiarios y requisitos.
+
+1\. Podrán ser beneficiarios de las ayudas reguladas por la presente norma:
+
+a) Grupo A. Organizaciones profesionales agrarias, de carácter general y de ámbito estatal.
+
+b) Grupo B. Organizaciones de mujeres rurales de ámbito estatal.
+
+c) Grupo C. Entidades, organizaciones o personas jurídicas, directamente relacionadas con los sectores agrario, ganadero, agroalimentario o forestal sin ánimo de lucro. No podrán tener la condición de beneficiarias las entidades, organizaciones o personas jurídicas cuya única relación con estos sectores sea la formación.
+
+2\. El beneficiario de la ayuda será el prestador del servicio, salvo para las entidades contempladas en el apartado 1 letras a) y b), en cuyo caso podrán ser prestadores del servicio las asociaciones y organizaciones dependientes o vinculadas por estatutos a las entidades beneficiarias de ámbito estatal.
+
+3\. Las entidades beneficiarias deberán cumplir los siguientes requisitos:
+
+a) Carecer de ánimo de lucro o que, aunque desarrollen actividades de carácter comercial, inviertan la totalidad de los beneficios resultantes de las mismas en el cumplimiento de sus fines institucionales no comerciales.
+
+b) Tener ámbito de actuación e implantación en todo el territorio nacional, recogido en sus estatutos.
+
+c) Recoger explícitamente, entre sus fines estatutarios, al menos la formación y el desarrollo profesional y mejora de la cualificación en el medio rural.
+
+d) No haber recibido del Ministerio de Agricultura, Pesca y Alimentación otras ayudas para estos mismos programas de formación, o para las actividades incluidas en él.
+
+e) Cumplir las obligaciones establecidas al efecto en el artículo 14 de la Ley 38/2003 de 17 de noviembre, General de Subvenciones. No podrán adquirir la condición de beneficiarios quienes incurran en alguna de las circunstancias previstas en los apartados 2 y 3 del artículo 13 de dicha ley.
+
+En particular se deberá comunicar al órgano concedente la obtención de otras subvenciones, ayudas, ingresos o recursos que financien las actividades subvencionadas. Esta comunicación deberá efectuarse tan pronto como se conozca y, en todo caso, con anterioridad a la justificación de la aplicación dada a los fondos percibidos.
+
+f) Desarrollar una actividad estrechamente relacionada con los sectores agrario, ganadero, agroalimentario o forestal, y que esta no sea únicamente la formación.
+
+g) Disponer de medios adecuados y de personal cualificado para la ejecución de las actividades formativas y acreditar su experiencia concreta en los ámbitos específicos de conocimiento a impartir y la actualización de su formación y capacidades.
+
+h) Para las entidades del grupo C, estar constituidas como mínimo dos años antes de la fecha de publicación de la orden que convoque las ayudas a las que concurran.
+
+i) Ser prestadoras del servicio directamente o, en caso de las entidades del grupo A y grupo B, a través de sus asociaciones y organizaciones vinculadas por Estatutos.
+
+4\. No podrán ser beneficiarias de estas ayudas las asociaciones y organizaciones representativas de sectores agrario, ganadero, agroalimentario o forestal dependientes o vinculadas a las organizaciones profesionales agrarias, de carácter general y de ámbito estatal, que se citan en el apartado 1.a), salvo las que representen a colectivos de mujeres rurales.
+
+> Se modifica el apartado 2 y la letra d) del apartado 3 por el art. único.2 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.1 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifican las letras b) y c) del apartado 2 por el art. 3.1 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 3. Destinatarios de las actividades formativas.
+
+1\. Las actividades formativas irán dirigidas a personas ocupadas y no ocupadas que desarrollan su actividad, o están interesadas en desarrollar o incorporarse a la actividad agraria en los sectores agrario, ganadero, agroalimentario o forestal.
+
+2\. La edad mínima del alumnado será de dieciséis años y la máxima será la de jubilación contemplada por la normativa vigente, ambas referidas al día de comienzo de la acción formativa.
+
+> Se modifica por el art. único.2 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+## Artículo 4. Requisitos de los programas y actividades formativas subvencionables.
+
+1\. Las entidades solicitantes de las ayudas deberán presentar propuestas de programas de formación integrados por actividades formativas, de acuerdo con los objetivos y temáticas que se establecen en el artículo 5.
+
+2\. En consonancia con el ámbito plurirregional de las presentes ayudas, sólo serán subvencionables los programas presentados que contemplen la realización de actividades formativas presenciales en tres o más comunidades autónomas y en al menos ocho provincias, sin que en ninguna provincia se imparta más del 20 por ciento del total de actividades formativas propuestas.
+
+A efectos de la adscripción territorial por provincias de las actividades formativas:
+
+a) Si la actividad se desarrolla con presencia física del alumnado, se imputará a la provincia donde se desarrolle físicamente la actividad;
+
+b) Si la actividad se realiza en la modalidad semipresencial, se considerará imputable a la provincia donde se realice la parte presencial.
+
+3\. La totalidad del programa de actividades deberá tener una asistencia mínima de jóvenes (menores de 41 años) del 15 por ciento del total de los alumnos, y los programas no organizados por entidades de mujeres rurales contarán con una participación de mujeres mínima del 15 por ciento del total de los alumnos.
+
+4\. La entidad deberá contar con un plan de difusión y publicidad para informar a los participantes de las actividades que se van a llevar a cabo, así como de la financiación por parte del Ministerio de Agricultura Pesca y Alimentación.
+
+5\. La programación anual de actividades deberá permitir que todas estén finalizadas y justificadas documentalmente, en el plazo que se establezca en la correspondiente convocatoria, para cada anualidad.
+
+De acuerdo con el artículo 57 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio, se podrán convocar subvenciones plurianuales, con igual plazo para su realización y justificación.
+
+6\. Las actividades formativas deberán cumplir los siguientes requisitos:
+
+a) Deberán ser totalmente gratuitas para todos los asistentes y contar con un mínimo de diez asistentes, salvo para las jornadas de información y orientación que se contemplen por convocatoria, en cuyo caso el número de asistentes será de al menos 20. En las actividades reguladas por normativa específica se respetarán los límites de ésta si fueran más restrictivos que los anteriores.
+
+b) Podrán realizarse, de acuerdo con las especificaciones de la convocatoria, con carácter presencial, semipresencial y/o a distancia mediante un sistema de comunicación telemático de carácter síncrono ("Aula virtual") que contribuya a facilitar el acceso a la formación y la aplicación de nuevas tecnologías de la información y comunicación (TIC).
+
+A efectos de este real decreto, se entenderá por "Aula virtual" el entorno de aprendizaje donde ponente y asistentes interactúan, de forma concurrente y en tiempo real, a través de un sistema de comunicación telemático de carácter síncrono que permita llevar a cabo un proceso de intercambio de conocimientos a fin de posibilitar un aprendizaje de las personas que participan en el aula.
+
+Para la organización de las actividades mediante «Aula virtual» se deberá cumplir con los siguientes requisitos:
+
+1.º Garantizar en todo momento que exista conectividad sincronizada entre ponentes y asistentes, así como la bidireccionalidad en las comunicaciones.
+
+2.º Contar con un registro de conexiones generado por la aplicación informática que sirva de soporte al aula virtual, en el que se identifique con nombres y apellidos, para cada actividad realizada a través de este medio, los asistentes a la misma, así como sus fechas y tiempos de conexión.
+
+3.º Contar con un mecanismo que posibilite la conexión durante el tiempo de celebración del aula que pueda seguirse por los órganos de control, con el fin de realizar las actuaciones de seguimiento descritas en el artículo 19.
+
+4.º Poner a disposición de los asistentes en cada actividad un número de teléfono y una dirección de correo electrónico destinado a la resolución de dudas en el manejo e incidencias técnicas relacionadas con el aula virtual, así como proporcionar a ponentes y asistentes unas instrucciones de manejo relacionadas con el aula virtual, con anterioridad al desarrollo de la actividad.
+
+5.º Acreditar en todo momento debidamente, la identidad de los asistentes durante la actividad, además de la edad, género y profesión de los mismos.
+
+6.º Las actividades telemáticas en “aula virtual” se deberán grabar y conservar en formato digital, para lo que previamente se deberá recabar el consentimiento de todas las personas participantes como alumnado.
+
+c) Tendrán una duración total mínima de doce y máxima de doscientas horas lectivas salvo para aquellas actividades reguladas por normativa específica donde la duración se ajustará a la establecida en la misma y salvo para las jornadas de información y orientación que se contemplen por convocatoria, en cuyo caso la duración será al menos de cinco horas e inferior o igual a siete horas.
+
+Solo podrán subvencionarse las actividades con una duración diaria mínima de tres y máxima de seis horas lectivas, salvo para las jornadas de información y orientación, en cuyo caso la duración mínima diaria deberá ser de cinco horas.
+
+d) Podrán incluir la realización de viajes de carácter técnico en territorio nacional, con una duración máxima de un día de viaje por cada dos de actividad programada en presencial o en aula virtual.
+
+e) Las convocatorias podrán establecer que un porcentaje de actividades formativas del programa sean jornadas de información y orientación y en las condiciones que se establezcan por convocatoria.
+
+f) Con el fin de respetar el principio de moderación de costes, las actividades únicamente se subvencionarán hasta los límites que se establezcan por convocatoria.
+
+g) Deberán estar coordinadas por personal de la entidad principal que solicita la ayuda, así como, en su caso, por personal de sus federaciones, uniones o asociaciones vinculadas por estatutos y con implantación en el territorio donde se realiza la actividad.
+
+Esta coordinación asegurará:
+
+1.º Que el conjunto de las actividades del programa guarden concordancia con los objetivos, necesidades y metas identificadas por la entidad en el programa de formación presentado, y
+
+2.º Que, en caso de aplicarse el apartado 3 del artículo 16, el coste por alumno de las actividades de iguales características (duración y temática) pertenecientes a un mismo programa, guarden concordancia, salvo cuando dichas actividades o acciones formativas estén homologadas y reguladas por normativa específica que justifique lo contrario.
+
+h) Versarán sobre temáticas recogidas en los objetivos contemplados en el artículo 5.
+
+Así mismo las convocatorias podrán establecer que un porcentaje de las actividades del programa versen sobre temáticas concretas en el marco de los objetivos recogidos en el artículo 5 y en particular podrán establecer un límite máximo para las acciones formativas reguladas por normativa y necesarias para la obtención de un carné que acredite la capacitación para el uso de fitosanitarios, en materia de bienestar animal en sus distintas modalidades, así como de cuidador y manipulador de animales y otros relacionados.
+
+Para aquellas acciones formativas reguladas por normativa a que hace referencia el apartado anterior, las entidades beneficiarias de la ayuda deberán cumplir la legislación específica y figurar en el preceptivo registro o base de datos de la comunidad autónoma donde se desarrolla la citada acción.
+
+i) Quedan excluidas de la subvención:
+
+1.º Las acciones formativas financiadas en el marco de los programas de formación profesional reglada o de educación de enseñanza secundaria o superior.
+
+2.º Las acciones formativas de teleformación que se desarrollen de forma asíncrona, o que no permitan interactuar, de forma concurrente y en tiempo real, al formador y a los asistentes a la acción formativa.
+
+3.º Las acciones formativas cuya realización se hubiese iniciado antes de la fecha de presentación de la solicitud de subvención, salvo que sea de aplicación la modalidad de cuenta justificativa señalada en el apartado 3 del artículo 16 del presente real decreto, en cuyo caso, podrán subvencionarse actividades realizadas o ya iniciadas antes de la fecha de presentación de la solicitud.
+
+No obstante, excepcionalmente, podrán subvencionarse actividades ya finalizadas o iniciadas, pero no finalizadas, a fecha de presentación de la solicitud, cuando la Entidad haya realizado la comunicación de inicio en los términos recogidos en el apartado 2 del artículo 19 del presente real decreto y haya podido ser objeto de control sobre el terreno o que el órgano instructor tenga pruebas fehacientes de su celebración.
+
+j) Los programas de formación no podrán conllevar un fraccionamiento de la misma actividad formativa en varias actividades con la finalidad de disminuir la cuantía de la misma y eludir así los límites establecidos en el anexo I. Se entiende por fraccionamiento del gasto cuando varias acciones formativas, consideradas en su conjunto, forman una unidad funcional.
+
+Cuando haya indicio de que se ha fraccionado una actividad formativa indebidamente, el programa formativo será objeto de análisis más detallado. El enjuiciamiento del posible fraccionamiento indebido de actividades formativas de igual modalidad de impartición, temática, lugar geográfico de impartición, duración, o coincidencia de un alto porcentaje del programa, se acreditará en cada caso, tomando como base las propias circunstancias y los datos obrantes en el supuesto de que se trate.
+
+7\. Estas ayudas tienen la condición de ayuda de Estado. Las mismas respetarán todas las condiciones establecidas en el capítulo I del Reglamento 2022/2472 de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea, así como las condiciones específicas aplicables a esta categoría de ayuda establecidas en el artículo 21 del citado reglamento. Dando cumplimiento a esos aspectos, las ayudas son consideradas compatibles con el mercado interior a efectos del artículo 107, apartado 3, letra c), del Tratado, quedando exentas de la obligación de notificación establecida en el artículo 108, apartado 3, del Tratado.
+
+> Se modifican los apartados 4.2 y 6 y se añade el apartado 7 por el art. único.3 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.3 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifica la letra b) del apartado 4 por el art. 3.2 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 5. Objetivos y temáticas de las actividades formativas.
+
+Sólo podrán concederse ayudas a las entidades que programen actividades formativas cuyo contenido contribuya a los siguientes objetivos:
+
+1\. Incrementar la competitividad: reforzar la orientación hacia el mercado y aumentar la competitividad de las explotaciones o empresas del medio rural.
+
+En el marco de este objetivo las actividades formativas podrán versar, entre otras, sobre la mejora de la gestión técnica y económica destinadas a elevar la formación empresarial, asociativa o comercial de las explotaciones agrarias, sobre la manipulación, transformación y la comercialización de los productos agroganaderos, fomentando la organización de la cadena agroalimentaria, así como sobre seguridad laboral, normativa y prevención de riesgos laborales en las explotaciones.
+
+2\. Protección del medio ambiente: promover el desarrollo sostenible y la gestión eficiente de los recursos naturales tales como el agua, el suelo y el aire, y mediante la reducción de la dependencia de los productos químicos.
+
+En el marco de este objetivo las actividades formativas podrán versar, entre otras, sobre la gestión y uso eficiente de los recursos, en particular el agua, pero también el suelo, por su función como sumidero de carbono, la energía, los fertilizantes, y los fitosanitarios.
+
+3\. Conservar el paisaje y la biodiversidad: Contribuir a detener e invertir el proceso de pérdida de biodiversidad, mejorar los servicios ecosistémicos y conservar los hábitats y los paisajes.
+
+En el marco de este objetivo las actividades formativas podrán versar, entre otras, sobre sistemas productivos respetuosos con el medio ambiente y el clima, el uso de fertilización orgánica y otras medidas para la gestión y buenas prácticas agrícolas.
+
+4\. Protección de la calidad de los alimentos y de la salud: responder a las demandas de la sociedad en alimentación y salud, en particular una alimentación de alta calidad, segura, nutritiva y producida de forma sostenible, reducir el desperdicio de alimentos, mejorar el bienestar de los animales y luchar contra la resistencia a los antimicrobianos.
+
+En el marco de este objetivo, las actividades formativas podrán versar, entre otras sobre agricultura y ganadería vinculadas a sellos de calidad diferenciada y producción ecológica, así como en el manejo de productos fitosanitarios y zoosanitarios y el manejo y bienestar animal en el transporte.
+
+5\. Digitalización, innovación e incorporación de nuevas tecnologías modernizar la agricultura y las zonas rurales mediante la innovación y la digitalización.
+
+En el marco de este objetivo las actividades formativas podrán versar sobre digitalización, innovación e incorporación de nuevas tecnologías aplicadas a la producción y comercialización en las explotaciones o empresas del medio rural.
+
+6\. Información y divulgación: dar a conocer entre los profesionales que integran el sector rural, aquellos planes o normativas que, por su novedad o dificultad de desarrollo o aplicación, requieran de una acción divulgativa para que estos profesionales puedan adaptarse y beneficiarse de las oportunidades que brindan. En el marco de este objetivo se podrán realizar actividades formativas o jornadas de información y orientación que en su caso se contemplen en la convocatoria, y podrán versar entre otros sobre los aspectos que configuran el Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027 así como, en su caso, otros planes o normativas, entre ellos la Agenda 2030 y la Estrategia de Desarrollo Sostenible 2030 en cuanto a los elementos vinculados a los objetivos del PEPAC.
+
+> Se modifica por el art. único.4 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+## Artículo 6. Presentación de solicitudes y documentación necesaria.
+
+1\. Las solicitudes se dirigirán al Ministro de Agricultura, Pesca y Alimentación y se presentarán por vía electrónica mediante certificado digital válido y compatible con la sede electrónica del Departamento (https://sede.mapama.gob.es), utilizando para ello los medios disponibles en dicha sede, a través de la cual deberá cumplimentarse el formulario de solicitud y adjuntar los documentos requeridos.
+
+2\. La solicitud se formalizará según el modelo que establezca la correspondiente convocatoria y cuyo contenido mínimo será:
+
+a) Datos y domicilio del representante de la entidad.
+
+b) Datos y domicilio de la entidad solicitante.
+
+c) Documentación que se adjunta.
+
+d) Domicilio y correo electrónico a efectos de recepción de avisos conforme a lo previsto en el artículo 41.8 de la Ley 39/2015, de 1 de octubre.
+
+e) Solicitud firmada por la persona representante de la entidad. Para tal fin, el representante de la asociación deberá contar con algún medio acreditativo de identidad (sistemas de autenticación o certificación electrónica).
+
+3\. Las solicitudes se presentarán en el plazo que establezca en la convocatoria, que en ningún caso podrá sobrepasar el de un mes contado desde el día siguiente al de la publicación de su extracto en el «Boletín Oficial del Estado».
+
+4\. La solicitud deberá ir acompañada de los siguientes documentos:
+
+a) Copia simple de los estatutos de la entidad solicitante, en la que conste que la referida entidad reúne los requisitos establecidos en estas bases, y certificado de vigencia de los estatutos.
+
+b) Programa de formación, de acuerdo con lo determinado en los artículos 4 y 5, que deberá contar con los siguientes contenidos:
+
+1.º Descripción y justificación del programa formativo, incluyendo las necesidades detectadas sobre las que se va a intervenir a través de la formación y los objetivos básicos perseguidos.
+
+2.º Destinatarios del programa formativo y su perfil profesional.
+
+3.º Descripción detallada de la capacidad técnica de la entidad con la que se contará para la ejecución de las actividades programadas, indicando en especial la implantación en el territorio y los recursos humanos propios de que dispone.
+
+4.º Descripción del perfil profesional de los recursos humanos de la entidad con indicación del número de titulados universitarios y con formación profesional de grado medio o superior, o con experiencia suficiente demostrada, con los que se cuenta para la impartición de las actividades incluidas en el programa de formación presentado.
+
+5.º Justificación de que la actividad desarrollada por la entidad solicitante está estrechamente relacionada con los sectores agrario, ganadero, forestal o agroalimentario, según el modelo oficial que se recogerá en la respectiva convocatoria.
+
+6.º Relación de actividades, detallando para cada una: objetivo perseguido a que se refiere el artículo 5, modalidad de impartición, duración, número de alumnos previsto, provincia, trimestre del año en que se llevarán a cabo y subvención prevista por actividad.
+
+7.º Descripción del plan de difusión y publicidad.
+
+c) Memoria descriptiva de las actividades que se van a desarrollar y en la que se incluya para cada actividad las principales metas que pretende alcanzar y el contenido o temas a tratar.
+
+d) Cuando sea de aplicación el apartado 3 del artículo 16 del presente real decreto, presupuesto de los gastos subvencionables previstos para la realización del programa plurirregional de formación de la organización solicitante.
+
+e) Ficha resumen indicando los datos del programa presentado por la entidad para su valoración de acuerdo con los criterios establecidos en el anexo III.
+
+f) Certificado del representante de la entidad solicitante en el que asume las obligaciones y compromisos a que se refiere este real decreto y del cumplimiento de la normativa reguladora de protección de datos, en el que conste:
+
+1.º Las ayudas solicitadas y, en su caso, obtenidas, para la misma finalidad, procedentes de las administraciones públicas o de otros entes públicos o privados.
+
+2.º **(Suprimido)**
+
+3.º Que la entidad no es deudora por resolución de procedencia de reintegro de subvenciones y se compromete a mantener dicha condición durante el tiempo en que se desarrolle el procedimiento, en cumplimiento del artículo 25 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+
+4.º Que la entidad no está incursa en las prohibiciones para obtener la condición de beneficiaria de acuerdo con el artículo 13 de la Ley 38/2003, de 17 de noviembre.
+
+5.º Que la entidad conoce y se compromete a asumir las obligaciones y compromisos indicados en el artículo 14 de la Ley 38/2003, de 17 de noviembre, y en el artículo 14 del presente real decreto.
+
+5\. La Administración, según lo previsto en la disposición adicional octava de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en cuanto a la potestad de verificación de las Administraciones públicas de las solicitudes que formulen los interesados, recabará de la Agencia Tributaria información relativa al cumplimiento de sus obligaciones tributarias, de acuerdo con lo previsto en el artículo 95.1.k) de la Ley 58/2003, de 17 de diciembre, General Tributaria, y de la Tesorería General de la Seguridad Social información relativa al cumplimiento de sus obligaciones según lo previsto en el artículo 28.2 de la Ley 39/2015, de 1 de octubre.
+
+En el caso de que el beneficiario de la ayuda no autorice expresamente a que se recaben los datos a la Agencia Tributaria, deberá presentar él mismo la documentación a que se hace referencia y acreditar el cumplimiento del resto de obligaciones tributarias según lo dispuesto en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+
+La presentación de la solicitud de subvención por parte del beneficiario conllevará la autorización al órgano gestor para recabar los certificados a emitir por la Agencia Estatal de Administración Tributaria.
+
+En el caso de que el beneficiario de la ayuda expresamente se oponga a que se recaben los datos a la Seguridad Social, deberá presentar él mismo la documentación a que se hace referencia y acreditar el cumplimiento del resto de obligaciones con la Seguridad Social según lo dispuesto en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+
+Asimismo, el órgano gestor comprobará las facultades o poderes de la persona representante de la entidad, salvo oposición expresa del solicitante, en cuyo caso deberá aportar junto con la solicitud la certificación acreditativa de dichas facultades o poderes.
+
+> Se suprime el punto 2º del apartado 4.f) por el art. único.4 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica el punto 6º del apartado 4.b) por la disposición final 1.1 del Real Decreto 662/2023, de 18 de julio. [Ref. BOE-A-2023-16646](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16646)
+
+> Se modifica el apartado 4 por el art. único.5 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifican los puntos 2º y 3º del apartado 4.b) por el art. 3.3 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 7. Comunicaciones electrónicas.
+
+1\. Todos los trámites del procedimiento se realizarán a través de medios electrónicos y a través de la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación.
+
+2\. La utilización de los medios electrónicos establecidos será obligatoria tanto para la presentación de solicitudes como para las comunicaciones y escritos de los solicitantes y surtirá todos los efectos de la notificación practicada según lo dispuesto en el artículo 40 y siguientes de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+3\. Los solicitantes, al presentarse a las convocatorias, aceptan la recepción de avisos mediante correo electrónico sobre cualquier asunto relacionado con su solicitud de ayuda.
+
+4\. Las resoluciones se publicarán en la página web del Departamento, en los términos establecidos en el artículo 41.1 de la Ley 39/2015, de 1 de octubre.
+
+## Artículo 8. Instrucción del procedimiento.
+
+1\. La instrucción del procedimiento se realizará por la persona que ocupe el puesto de Director o Directora de Formación Agroalimentaria y Asuntos Horizontales de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación.
+
+Si la solicitud no reuniere los requisitos establecidos en este real decreto y en la correspondiente convocatoria, el órgano instructor requerirá a la persona interesada para que la subsane en el plazo máximo e improrrogable de diez días, indicándole que si no lo hiciere se le tendrá por desistido de su solicitud, de acuerdo con lo establecido por el artículo 23.5 de la Ley 38/2003, de 17 de noviembre.
+
+2\. El órgano instructor, a la vista del expediente y del informe de la Comisión de Valoración, formulará la propuesta de resolución provisional, debidamente motivada, que deberá publicarse en el tablón de anuncios de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación, conforme al artículo 45.1 b) de la Ley 39/2015, de 1 de octubre, concediendo un plazo de diez días desde la fecha de publicación para presentar alegaciones.
+
+La propuesta deberá contener la relación de solicitantes para los que se propone la ayuda y su cuantía.
+
+En ese mismo plazo, el órgano instructor podrá instar a los solicitantes a reformular su solicitud.
+
+No será admisible dicha reformulación en el caso de que ello conlleve la obtención de diferente puntuación que la propuesta de resolución provisional, según los criterios de valoración recogidos en el anexo III del presente real decreto.
+
+3\. El importe de la ayuda concedida será el sumatorio de los importes resultantes de multiplicar, para cada acción formativa recogida en el Programa solicitado y, en su caso, reformulado, el importe del módulo económico establecido en la convocatoria para cada tipo de acción formativa, por el número de horas lectivas y por el número de asistentes a las clases previstos de cada actividad. Si la entidad solicitara una cuantía menor por actividad y por programa a la correspondiente como resultado de aplicar el cálculo anterior, el importe de ayuda concedida será la menor de las cuantías.
+
+> Se modifica por el art. único.5 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica el apartado 2 por el art. único.6 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 282/2021, de 20 de abril. [Ref. BOE-A-2021-7688](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7688)
+
+> Téngase en cuenta, respecto a la aplicación a las subvenciones concedidas, la disposición transitoria única del citado Real Decreto.
+
+## Artículo 9. Financiación, cuantía de las ayudas, criterios de distribución y difusión.
+
+1\. La financiación y el pago se efectuará con cargo al presupuesto del Ministerio de Agricultura, Pesca y Alimentación que se fijará en las convocatorias, efectuándose con cargo a la aplicación presupuestaria que para cada ejercicio se determine en los Presupuestos Generales del Estado, estando condicionada la concesión de las subvenciones a la existencia de crédito adecuado y suficiente en el momento de la concesión.
+
+En caso de convocatorias plurianuales se determinará la ayuda correspondiente a cada año, de forma independiente y proporcional a la puntuación que haya obtenido el programa para cada anualidad.
+
+Cada entidad podrá presentar en su solicitud un programa anual o en caso de convocatorias plurianuales habrá que presentar un programa por cada anualidad que recoja la convocatoria.
+
+2\. Los fondos presupuestarios disponibles iniciales se asignarán a los programas presentados de la siguiente forma:
+
+a) El 60 por ciento del total de los créditos iniciales de los conceptos presupuestarios correspondientes se destinarán a subvencionar programas de formación de las organizaciones citadas en el artículo 2.1.a).
+
+b) El 25 por ciento de los citados conceptos se destinarán a las organizaciones citadas en el artículo 2.1.b).
+
+c) El 15 por ciento de los citados conceptos se destinará a las organizaciones citadas en el artículo 2.1.c).
+
+En el caso de que exista sobrante del presupuesto asignado a algún grupo, los fondos se podrán transferir a los otros grupos, exclusivamente si se cargan a la misma aplicación presupuestaria.
+
+3\. Las cuantías de las ayudas se calcularán de forma proporcional a las puntuaciones obtenidas dentro de cada uno de los grupos de beneficiarios establecidos en el artículo 2.1, y del presupuesto destinado a cada uno de los citados grupos de beneficiarios.
+
+Si tras la distribución de fondos resultara un sobrante en alguno de los grupos, éste se distribuirá entre las entidades beneficiarias de dichos grupos a los que no se les haya concedido la totalidad de lo solicitado y siempre proporcionalmente a los puntos de cada uno.
+
+4\. Ninguna entidad podrá solicitar y percibir una subvención que supere el 30 por ciento del presupuesto anual disponible del grupo al que pertenece según el artículo 2.1, sin poder percibir nunca más de lo solicitado.
+
+5\. Con el fin de respetar el principio de moderación de costes, las actividades únicamente se subvencionarán hasta los límites recogidos en el anexo I y, en ningún caso superará, los 15.000 euros por acción formativa.
+
+6\. En cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, o las representaciones gráficas que se determinen, conforme al modelo que se establezca en la correspondiente convocatoria.
+
+> Se añade un párrafo final al apartado 3 por el art. único.6 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.7 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifican los apartados 2 y 4 por el art. 3.4 y 5 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 10. Criterios de valoración.
+
+1\. La valoración se realizará exclusivamente sobre la información aportada por el solicitante en la fase de admisión de solicitudes. Por tratarse de procedimientos de concesión en concurrencia competitiva no se admitirán las mejoras voluntarias de la solicitud. No obstante, el órgano instructor podrá requerir aclaraciones sobre aspectos de la solicitud que no supongan reformulación ni mejora de ésta.
+
+2\. Cada una de las solicitudes se puntuará individualmente según los criterios de valoración fijados y que se adjudicarán con base en la información presentada en el artículo 6.
+
+En convocatorias plurianuales, se puntuarán individualmente los programas anuales presentados según los criterios de valoración fijados.
+
+3\. Los criterios de valoración y su ponderación que regirán el otorgamiento de subvenciones son los indicados en anexo III.
+
+4\. No podrán recibir subvención los programas que no alcancen al menos 50 puntos.
+
+## Artículo 11. Comisión de valoración.
+
+1\. La valoración de las solicitudes se llevará a cabo por la Comisión de Valoración, que estará compuesta por los siguientes miembros:
+
+a) Presidente: El Director General de Desarrollo Rural, Innovación y Política Forestal.
+
+b) Vocales: un funcionario de carrera de cada una de las Direcciones Generales de la Secretaría General de Recursos Agrarios y Seguridad Alimentaria del Ministerio de Agricultura, Pesca y Alimentación, designado por cada uno de los Directores Generales, que ocupe un puesto de trabajo de nivel 28 o superior; un vocal de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, que ocupe un puesto de trabajo de nivel 28 o superior, y dos vocales de aquellas comunidades autónomas que hayan trasladado a la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria su interés en participar. En caso de recibir más de dos solicitudes, se incluirán por el orden que determine cada convocatoria.
+
+c) Secretario: la persona que ocupe el puesto de Director o Directora de Formación Agroalimentaria y Asuntos Horizontales de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria, y actuará con voz pero sin voto.
+
+2\. La Comisión acomodará su funcionamiento al régimen jurídico previsto en la sección tercera, del capítulo II, del título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+3\. Tras la valoración, en aplicación de los criterios de valoración establecidos en el artículo 10, la Comisión emitirá un informe en el que se concretará el resultado de la valoración, que remitirá al órgano instructor.
+
+> Se modifica la letra b) del apartado 1 por la disposición final 2.1 del Real Decreto 1039/2025, de 19 de noviembre. [Ref. BOE-A-2025-23421](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23421)
+
+> Se modifica el apartado 1.c) por el art. único.7 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica el apartado 1.c) por el art. único.2 del Real Decreto 282/2021, de 20 de abril. [Ref. BOE-A-2021-7688](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7688)
+
+> Téngase en cuenta, respecto a la aplicación a las subvenciones concedidas, la disposición transitoria única del citado Real Decreto.
+
+> Se modifica la letra b) del apartado 1 por el art. 3.6 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 12. Gastos subvencionables.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.8 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+## Artículo 13. Resolución.
+
+1\. Tras el examen de las alegaciones en su caso formuladas, el órgano instructor formulará la propuesta de resolución definitiva, de conformidad con lo establecido en el artículo 22.1 y 24.4 de la Ley 38/2003, de 17 de noviembre, y la elevará al titular del departamento u otro órgano por delegación, para su aprobación.
+
+2\. El órgano competente resolverá el procedimiento de concesión en el plazo de quince días desde la fecha de elevación de la propuesta de resolución, que deberá ser motivada conforme a lo establecido en las presentes bases, y deberá contener:
+
+a) La relación de los solicitantes para los que se concede la ayuda y la cuantía de ésta.
+
+b) La relación de los solicitantes a los que se deniega la subvención con expresa indicación en cada caso de los motivos.
+
+c) El régimen de recursos.
+
+3\. Sin perjuicio de su publicación en la Base de Datos Nacional de Subvenciones, el contenido íntegro de la resolución se publicará en la página web del Departamento en el plazo de diez días a partir de la fecha en que ésta haya sido dictada, en los términos establecidos en el artículo 41.1 de la Ley 39/2015, de 1 de octubre.
+
+Contra esta resolución, que agota la vía administrativa, podrá recurrirse, potestativamente, en reposición ante el Ministro de Agricultura, Pesca y Alimentación en el plazo de un mes, contado a partir del día siguiente al de la publicación en la página web del Departamento o ser impugnada directamente ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional en el plazo de dos meses, también contado desde el día siguiente al de su publicación en la página web del Departamento. No podrán simultanearse ambas vías de recurso.
+
+4\. El plazo máximo para la resolución y publicación del procedimiento será de seis meses contados a partir del día siguiente de la fecha de publicación del extracto de la convocatoria de las subvenciones en el «Boletín Oficial del Estado», salvo que la misma posponga sus efectos a una fecha posterior de acuerdo con el artículo 25.4 de la Ley 38/2003, de 17 de noviembre. Transcurrido dicho plazo sin que se hubiera notificado la resolución expresa, se podrá entender desestimada la solicitud de ayuda por silencio administrativo de acuerdo con el artículo 25.5 de la Ley 38/2003, de 17 de noviembre, sin perjuicio de la obligación de dictar resolución expresa.
+
+## Artículo 14. Obligaciones de las entidades beneficiarias y modificación de la resolución.
+
+1\. Además de las contenidas en el artículo 14 de la Ley 38/2003, de 17 de noviembre, las entidades beneficiarias deberán cumplir las siguientes obligaciones:
+
+a) Acreditar la realización de las acciones objeto de ayuda con las características indicadas en el programa aprobado y efectuar su impartición y justificación conforme a la presente norma.
+
+b) Presentar el programa reformulado a que hace referencia el artículo 8.2, de las actividades ajustándose a la cuantía de ayuda autorizada y a la puntuación obtenida en aplicación del artículo 10.3 y el anexo III.
+
+c) Comunicar cualquier eventualidad que altere o dificulte el desarrollo del Programa formativo para que sea autorizado por el Ministerio de Agricultura, Pesca y Alimentación cualquier cambio posterior a la resolución de concesión.
+
+d) Comunicar, al órgano instructor, por el medio que se establezca en la convocatoria, antes del día previo a la realización de la actividad, la relación de los inscritos a la actividad, con sus datos personales (nombre, apellido, sexo, fecha de nacimiento, domicilio, NIF, correo electrónico y teléfono móvil).
+
+e) Impartir las acciones formativas en condiciones de calidad normalizada en cuanto a instalaciones, recursos didácticos y materiales, y plataformas de formación en aula-virtual, cumpliendo las especificaciones técnicas que establezca la convocatoria.
+
+f) Proveer profesorado con titulación universitaria o de formación profesional de grado medio o superior o con formación periódica relacionada con el tema de las acciones impartidas. Como formación periódica se admitirá: experiencia laboral, asistencia a formación; participación en congresos, seminarios, jornadas o acciones similares; publicaciones; colaboración en ensayos, trabajos, proyectos o demostraciones; asesoramiento; entre otras actividades. Se acreditará mediante *curriculum vitae* haber realizado o adquirido esta formación dentro de los últimos cinco años previos a la impartición de la actividad. La contratación por la entidad adjudicataria de personal docente para la impartición de alguna actividad formativa no se considerará subcontratación. Por contratación de personal docente se entiende exclusivamente la contratación de personas físicas.
+
+g) Asegurar a los alumnos en una entidad autorizada, frente a los riesgos que para ellos se puedan derivar de la realización de la actividad, cuando así lo exija la normativa específica.
+
+h) Adoptar las medidas de información y publicidad de las acciones que establezca la convocatoria y asegurar la gratuidad de las acciones formativas.
+
+i) Mantener un archivo en formato papel o digital, por cada acción formativa, en cuanto pueda ser objeto de control por la administración competente, con las solicitudes del alumnado, la relación de alumnado solicitante y admitido, las encuestas anónimas de valoración del alumnado, el modelo de certificado de realización de la acción entregado al alumnado, un ejemplar de la documentación y material entregados al alumnado, si procede, y los documentos de publicidad o difusión de la acción, incluidos los difundidos en medios de comunicación.
+
+j) Nombrar una persona coordinadora que actuará como interlocutora del programa ante el Ministerio de Agricultura, Pesca y Alimentación.
+
+k) Emplear medios audiovisuales en el desarrollo de las acciones formativas y entregar al alumnado, como mínimo el siguiente material didáctico de calidad estándar: bolígrafo y cuaderno, carpeta o similar, en el que deberá aparecer el logo del Ministerio de Agricultura, Pesca y Alimentación y el de Formación Agroalimentaria Siembra, Crece y Cosecha tu futuro. Así mismo se proporcionará al alumnado el contenido teórico de la acción formativa, en formato electrónico o bien el enlace a dicho contenido.
+
+l) Comunicar al Ministerio de Agricultura Pesca y Alimentación las ayudas solicitadas y, en su caso, obtenidas, para la misma finalidad, procedentes de administraciones públicas u otros entes públicos o privados.
+
+m) Comunicar el inicio de la actividad formativa, a la Delegación del Gobierno correspondiente, en los términos recogidos en el artículo 19 del presente real decreto.
+
+n) Someterse a las actuaciones de comprobación y control efectuadas por la Administración General del Estado y, en su caso, por la Intervención General del Estado, Tribunal de Cuentas o por los órganos de control de las subvenciones, según sus correspondientes normativas, debiendo el beneficiario aportar cuanta información le sea requerida en el ejercicio de las actuaciones anteriores.
+
+ñ) Llevar un sistema de contabilidad separada o identificar con una codificación adecuada en su contabilidad general los gastos imputados a cada una de las actividades formativas o cursos objeto de la ayuda. Conservar las facturas originales y los documentos de seguimiento y justificación de la realización de las actividades del programa en tanto puedan ser objeto de las actuaciones de comprobación y control por la Administración, y al menos durante cuatro años desde la realización de la acción formativa.
+
+o) Prestar su colaboración y facilitar cuanta información sea requerida por el Tribunal de Cuentas, otros órganos de control y el Ministerio de Agricultura, Pesca y Alimentación.
+
+p) Tratar los datos personales de acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y con lo previsto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos).
+
+> Se modifica la letra d) y se añade la letra p) al apartado 1 por el art. único.8 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.9 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+## Artículo 14 bis. Subcontratación de actividades.
+
+1\. Para las actividades previstas en el artículo 4, las entidades prestatarias del servicio podrán subcontratar con terceros hasta un 50 % del coste de las actividades.
+
+2\. Se entenderá que existe subcontratación cuando la entidad prestataria del servicio a que hace referencia el artículo 2 del presente real decreto, concierte con terceros la ejecución total o parcial de la actividad que constituye objeto de subvención.
+
+Queda fuera de este concepto la contratación de aquellos gastos en que tenga que incurrir la propia entidad beneficiaria o, en el caso las entidades contempladas en el apartado 1 letras a) y b) del artículo 2, para la realización por sí mismas de la actividad subvencionada.
+
+La contratación de personal docente para la impartición de alguna actividad se regirá por el artículo 14.1 f).
+
+3\. No se podrán subcontratar con terceros el diseño, planificación de las actividades, coordinación y gestión del programa de actividades previstas, así como la preparación de las justificaciones económicas.
+
+4\. Los contratistas quedarán obligados sólo ante las entidades beneficiarias o, en el caso antes las entidades contempladas en el apartado 1 letras a) y b) del artículo 2, que asumirán la total responsabilidad de la ejecución de la actividad subvencionada frente a la Administración.
+
+5\. En ningún caso se podrá subcontratar la ejecución total o parcial de las actividades subvencionadas que hayan percibido subvenciones con:
+
+a) Personas o entidades incursas en alguna de las prohibiciones del artículo 13.2 de la Ley 38/2003 de 17 de noviembre.
+
+b) Personas o entidades que hayan percibido otras subvenciones para la realización de la actividad objeto de contratación.
+
+c) Intermediarios o asesores en los que los pagos se definan como porcentaje de coste total de la operación, a menos que dicho pago esté justificado con referencia al valor de mercado del trabajo realizado o los servicios prestados.
+
+d) Personas o entidades vinculadas con la beneficiaria, salvo las que hace referencia el artículo 2.3.
+
+e) Entidades que hayan presentado solicitud de subvención en la convocatoria y no la hayan obtenido por no reunir los requisitos o no alcanzar la valoración suficiente.
+
+6\. En los demás aspectos relativos a la subcontratación se estará a lo dispuesto en el artículo 29 de la Ley 38/2003, de 17 de noviembre, y al artículo 68 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+
+7\. Las entidades beneficiarias o, en el caso las entidades contempladas en el apartado 1 letras a) y b) del artículo 2, en sus procedimientos de contratación observarán que cuando el importe contratado supere las cuantías establecidas para el contrato menor, según lo establecido en la Ley 9/2017, de 8 de noviembre, de contratos del sector público, deberán solicitar como mínimo tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso para la obra, la prestación del servicio o la entrega del bien, salvo que por sus especiales características no exista en el mercado suficiente número de entidades que los realicen, presten o suministren.
+
+8\. La elección entre las ofertas presentadas se realizará conforme a criterios de eficiencia y economía, debiendo justificarse expresamente en una memoria la elección cuando no recaiga en la propuesta económica más ventajosa.
+
+9\. Se considerarán válidas únicamente las ofertas presentadas por personas físicas o jurídicas, españolas o extranjeras, que estén capacitadas para la realización del objeto del contrato. No se considerarán válidas aquellas ofertas en que se demuestre que existe vinculación entre los diferentes ofertantes. En la justificación deberá dejarse constancia de las invitaciones cursadas, de las ofertas recibidas y de las razones para su aceptación o rechazo.
+
+> Se añade por el art. único.9 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+## Artículo 15. Anticipos de pago.
+
+1\. El pago del importe de la subvención concedida se efectuará con carácter anticipado a su justificación sin necesidad de constitución de fianza o garantía, de conformidad con lo previsto en el artículo 42.1 y en relación con el artículo 42.2.d) del Reglamento de la Ley 38/2003, de 17 de noviembre, para aquellas entidades que cumplan los siguientes requisitos:
+
+a) Hayan sido beneficiarias de estas ayudas al menos en tres convocatorias inmediatamente anteriores,
+
+b) No hayan cometido infracciones tipificadas en la Ley 38/2003, de 17 de noviembre, en ninguna de las tres convocatorias inmediatamente anteriores,
+
+c) Se encuentren al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, de acuerdo con lo establecido en los artículos 18 y 19 del Reglamento de la Ley 38/2003, de 17 de noviembre,
+
+d) No sean deudoras por resolución de procedencia de reintegro de subvenciones,
+
+e) Hayan, en su caso, realizado en virtud del artículo 42.2 de la Ley 38/2003, de 17 de noviembre, el reintegro por propia iniciativa de la cuantía de subvención percibida de forma anticipada no destinada a los fines para los que se concedió, y de las cuantías correspondientes a las penalizaciones que en su caso se hayan aplicado en virtud del artículo 18 del presente real decreto, y comunicadas por el órgano instructor.
+
+2\. Las entidades que reúnan los requisitos a que se refiere el apartado anterior deberán presentar una solicitud de anticipo de pago.
+
+La presentación de la solicitud conllevará la autorización de la solicitante para que el órgano gestor pueda comprobar de forma directa el cumplimiento del requisito previsto en el apartado 1, párrafo c). No obstante, la solicitante podrá denegar este consentimiento, debiendo aportar entonces las entidades los certificados correspondientes salvo que no hayan transcurrido más de seis meses de su emisión en caso de haberlos aportado en un momento precedente del procedimiento.
+
+La solicitud se presentará ante el órgano instructor a partir del día siguiente al de la publicación de la resolución de concesión de las ayudas y en el plazo de un mes, por medios electrónicos. El órgano competente para instruir resolverá autorizando o denegando el pago anticipado, y lo notificará por medios electrónicos, en el plazo máximo de un mes desde la entrada en el registro de la Administración competente. En caso de no haberse resuelto y notificado en plazo, se entenderá autorizado por silencio administrativo.
+
+Una vez autorizado el pago anticipado, se ordenará el pago material, que se efectuará mediante transferencia bancaria a la cuenta que la entidad beneficiaria comunique.
+
+3\. Aquellas entidades beneficiarias que no cumplan lo establecido en el apartado 1, podrán solicitar anticipos de pago de hasta la totalidad del importe de la subvención asignada, por cada anualidad, una vez sea ésta concedida, y previa aportación por el beneficiario de una garantía con plazo hasta la cancelación del mismo por el Departamento ministerial, por importe igual al 110 por cien de la cuantía anticipada. Asimismo, se podrán subvencionar los gastos derivados de las garantías, con el límite de dos por cien del importe del anticipo concedido.
+
+Recibido el resguardo del depósito de la garantía, y una vez reconocida la obligación, se ordenará el pago, que se efectuará mediante transferencia bancaria a la cuenta que la entidad beneficiaria comunique.
+
+La cancelación de la garantía o, en su caso, su ejecución se llevará a cabo una vez comprobada y aceptada la justificación de cada anualidad y, en todo caso, antes del 31 de marzo del ejercicio siguiente.
+
+> Se modifica por el art. único.10 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.10 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica el último párrafo por el art. único.10 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+## Artículo 16. Justificación de los gastos, cuantía de la ayuda y pagos.
+
+1\. La acreditación de la realización del Programa formativo se efectuará según lo dispuesto en el artículo 30.2 de la Ley 38/2003, de 17 de noviembre, mediante la modalidad de «módulos», según el artículo 76 del Reglamento de la Ley 38/2003, de 17 de noviembre y el artículo 78 del Reglamento de la Ley General de Subvenciones, a través de la aplicación electrónica que se haya puesto a su disposición, deberá contener la siguiente documentación:
+
+a) Una memoria de actuación final del Programa Formativo determinante del pago que cumpla las condiciones impuestas en la concesión de la subvención, con indicación de las actividades realizadas y los resultados obtenidos por entidad beneficiaria, y que incluya:
+
+1.º Certificación expedida por persona responsable de la entidad u organización que presenta la solicitud de ayuda, sobre el grado de ejecución del Programa de formación aprobado y, en su caso reformulado, en términos presupuestarios y en términos de asistentes previstos y número de actividades previstas.
+
+2.º Relación de las actividades formativas ejecutadas en el marco del Programa formativo aprobado, donde se indique por cada acción formativa el título, las horas lectivas, el número de asistentes admitidos que hayan obtenido el diploma de aprovechamiento, y la ayuda que corresponda a cada acción formativa resultante de aplicar los baremos de coste unitarios expresados por hora y por asistentes, fijados en Convocatoria.
+
+b) Relación de asistentes, que serán las personas beneficiarias finales de las actividades formativas, que hayan sido admitidos y que hayan obtenido el diploma de aprovechamiento, con sus datos personales (nombre, apellido, sexo, fecha de nacimiento, domicilio, NIF, correo electrónico y teléfono).
+
+c) Memoria final de cada actividad formativa, firmada por quien ejerza la coordinación y por el representante de la Entidad Beneficiaria en la que figuren:
+
+1.º Copia de la comunicación preceptiva de inicio de la actividad a que se hace referencia en el artículo 19.2.
+
+2.º Los datos generales de la actividad (titulo, horas lectivas, fecha de celebración, horario), y un programa-calendario detallado, así como una relación del personal docente y los *curriculums vitae* de los mismos, en los que consten sus datos personales (nombre, apellido, NIF, correo electrónico y teléfono).
+
+3.º Declaración responsable de que no se han obtenido otras subvenciones, ayudas, ingresos o recursos que financien las actividades formativas recogidas por el Programa o en caso contrario, detalle de otras subvenciones, ayudas, ingresos o recursos que hayan financiado la actividad subvencionada con indicación del importe y su procedencia.
+
+4.º Certificado de la entidad con una relación del alumnado admitido que haya obtenido el diploma de aprovechamiento, con sus datos personales (nombre, apellido, sexo, fecha de nacimiento, domicilio, NIF, correo electrónico y teléfono).
+
+5.º Los partes de asistencia a clase firmados por los participantes, en el caso de cursos presenciales, las conexiones a la plataforma online, en el caso de los cursos en aula virtual o mixtos y cuantas pruebas se establezcan por convocatoria que permitan determinar la fehaciente celebración de la actividad formativa. Fotografías del cartel informativo situado en el lugar de realización de la actividad, de las personas asistentes en el lugar de celebración de la actividad, y de los materiales divulgativos y didácticos utilizados y entregados al alumnado.
+
+6.º En su caso, póliza del seguro suscrito para la actividad.
+
+2\. No obstante lo previsto en el apartado 1, las correspondientes convocatorias podrán establecer que la justificación de la subvención se realice bajo la modalidad de cuenta justificativa de acuerdo con lo previsto en el artículo 72 del Reglamento de la Ley 38/2003 de 17 de noviembre, en cuyo caso, además de la Memoria de actuación a que se refiere el apartado 2 del presente artículo, la cuenta justificativa vendrá acompañada de una Memoria económica con el contenido definido en el artículo 72.2 o en su caso, establecida en la convocatoria correspondiente. Los gastos subvencionables serán los recogidos en el artículo 12 del presente real decreto y los límites de la cuantía a percibir por tipo de actividad y gasto subvencionable se establecerán en cada convocatoria.
+
+3\. Si el órgano instructor apreciara la existencia de defectos subsanables en la justificación presentada por la entidad beneficiaria, lo pondrá en su conocimiento concediéndole un plazo de diez días para su corrección. La falta de su presentación en dicho plazo dará lugar a la pérdida del derecho a la subvención concedida y en su caso al reintegro de los importes de ayuda percibidos de forma anticipada.
+
+4\. El órgano instructor, a la luz de la justificación presentada y de los controles realizados durante la fase de ejecución del programa, determinará el importe de ayuda verificada y que será el sumatorio de los importes resultantes de multiplicar, para cada acción formativa recogida en el Programa aprobado cuya admisibilidad haya sido verificada, el módulo económico establecido en la convocatoria, por el número de horas lectivas y por el número de participantes que haya participado efectivamente en dichas actividades.
+
+5\. Se entenderán por alumnado que han participado efectivamente en las actividades formativas aquéllos que:
+
+a) Hayan confirmado la participación en la actividad formativa por el sistema que el Ministerio de Agricultura, Pesca y Alimentación determine.
+
+b) Hayan obtenido el certificado de asistencia y aprovechamiento, emitido por la Entidad beneficiaria, de acuerdo con lo indicado a continuación, o en su caso, en las condiciones que la convocatoria precise.
+
+c) Hayan asistido al menos al 85 % de las horas lectivas de la actividad formativa. A tal efecto, se tendrán en cuenta los partes de asistencia a clase en el caso de cursos presenciales, y las conexiones a la plataforma online, en el caso de los cursos en aula virtual.
+
+d) Hayan cumplimentado el cuestionario de evaluación electrónico del curso, que, en su caso, haya puesto a disposición del alumnado el Ministerio de Ministerio de Agricultura Pesca y Alimentación a tal efecto.
+
+Se aceptarán aquellos participantes que excedan del número de los previstos por acción formativa, siempre que cumplan con los párrafos anteriores y que no hayan sido anulados por incumplimiento del resto de las condiciones de convocatoria.
+
+6\. En todo momento del procedimiento, se podrá exigir la acreditación efectiva o realizar las comprobaciones necesarias que demuestren la realidad de los datos contenidos en las declaraciones responsables recogidas en la solicitud y justificación del gasto.
+
+7\. Las entidades beneficiarias que no hayan recibido la subvención anticipada en virtud del artículo 15, presentarán junto a la documentación justificativa contemplada en el apartado 1, una solicitud de pago según los modelos disponibles en la sede electrónica asociada del Departamento.
+
+8\. Si se comprobara que la justificación no fuera adecuada, se procederá a la minoración del importe inicialmente concedido por resolución, de acuerdo con la graduación de incumplimientos establecida en el artículo 18. En su caso, procederá acordar el inicio del procedimiento de reintegro de la cuantía de la ayuda anticipada.
+
+9\. La entidad beneficiaria deberá conservar las facturas originales y los documentos de seguimiento y justificación de la realización del programa en tanto puedan ser objeto de las actuaciones de comprobación y control por la Administración.
+
+10\. El órgano gestor podrá elaborar, con finalidad aclaratoria, unas instrucciones de justificación que contendrán el detalle pormenorizado de los requisitos y el procedimiento de justificación que se publicará en el portal de internet del Departamento.
+
+> Se modifica por el art. único.11 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica el punto 1º del apartado 2.a) por la disposición final 1.2 del Real Decreto 662/2023, de 18 de julio. [Ref. BOE-A-2023-16646](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16646)
+
+> Se modifica por el art. único.11 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifican las letras a) y b) del apartado 2 y el apartado 4 por el art. 3.7 a 10 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 17. Incompatibilidad con otras ayudas.
+
+El importe de las subvenciones reguladas en las presentes bases no podrá ser de tal cuantía que en concurrencia con subvenciones o ayudas de otras Administraciones públicas, entes públicos o privados nacionales, de la Unión Europea o de organismos internacionales, supere el coste de la actividad desarrollada.
+
+Las ayudas concedidas de acuerdo con las presentes bases serán incompatibles con otras concedidas por el Ministerio de Agricultura, Pesca y Alimentación para el mismo objetivo de formación de los profesionales del sector.
+
+## Artículo 18. Incumplimientos, penalizaciones y reintegro de las cantidades percibidas.
+
+1\. Si el beneficiario incumpliera los plazos o condiciones señalados por esta normativa, con independencia de otras responsabilidades en que hubiera podido incurrir, perderá el derecho a la subvención concedida por resolución, con la obligación de reintegrar las cantidades ya percibidas, incrementadas con el interés de demora del dinero.
+
+2\. Asimismo, perderá el derecho a la subvención cuando, ejecutadas las actividades programas, el importe total de las mismas, cuya admisibilidad haya sido verificada (importe verificado), no supere el 60 por ciento de la cuantía de ayuda concedida por resolución en aplicación del artículo 13 del presente real decreto.
+
+No obstante, no será de aplicación el apartado anterior cuando la inejecución presupuestaria haya sido causada por un no haber alcanzado el número previsto de participantes por actividad por causas ajenas a la entidad, se hayan ejecutado al menos el 85 por ciento del número de las actividades previstas y no se haya producido una reducción de la puntuación obtenida según el anexo III en más de 10 puntos.
+
+En el caso de que la entidad beneficiaria haya percibido el pago anticipado en virtud del artículo 15 de las presentes bases, se requerirá el reintegro de la subvención.
+
+3\. El importe total de las actividades ejecutadas cuya admisibilidad haya sido verificada (importe verificado), se ajustará como sigue:
+
+a) Si el importe verificado supera el 85 % de la cuantía de ayuda concedida por resolución en aplicación del artículo 13 la ayuda concedida se minorará en las cuantías no admisibles.
+
+b) Si el importe verificado no alcanza al menos el 85 % de la cuantía de ayuda concedida por resolución en aplicación del artículo 13, la ayuda a percibir por la Entidad será el Importe verificado minorado en la cuantía resultante de la diferencia entre el 85 % de la ayuda concedida por resolución y el mayor entre el importe verificado y el importe correspondiente al 60 % de la ayuda concedida.
+
+No obstante, no se aplicarán penalizaciones cuando el beneficiario pueda demostrar a satisfacción de la autoridad competente que no es responsable de la no ejecución del Programa formativo aprobado o cuando la autoridad competente adquiera de otro modo la convicción de que el beneficiario no es responsable de ello.
+
+4\. Cuando ejecutadas las actividades programadas, la puntuación inicialmente otorgada al programa formativo según el anexo III se modifique, se ajustará la ayuda a percibir a que hace referencia los apartados a) y b) del apartado anterior, de la siguiente forma:
+
+a) Cuando se desvíe de la puntuación inicial en más de 10 puntos, se procederá a una reducción adicional de la ayuda a percibir en un 20 por cien.
+
+b) Cuando se desvíe en más de 20 puntos y se procederá a la reducción de la ayuda a percibir en un 50 por cien.
+
+c) Cuando se incumplan los requisitos básicos expuestos en el artículo 4 apartados 2 y 4, se perderá el derecho a la subvención.
+
+5\. Si se detectaren importes no admisibles se aplicará una penalización, equivalente al importe no admisible, sin perjuicio de las sanciones que pudieran corresponder.
+
+No obstante, no se aplicará penalización cuando la entidad beneficiaria pueda demostrar a satisfacción de la autoridad competente que no es responsable de la inclusión del importe no admisible o cuando la autoridad competente adquiera de otro modo la convicción de que la entidad beneficiaria no es responsable de ello.
+
+6\. El incumplimiento de la obligación de justificación anual de la subvención, en los términos establecidos en las presentes bases, la justificación insuficiente de la misma o cualquiera de los casos contemplados en el artículo 37.1 de la Ley 38/2003, de 17 de noviembre, llevará aparejado que la Entidad pueda quedar excluida de la Convocatoria siguiente, sin perjuicio de que se inicie el procedimiento sancionador por incumplimiento en materia de subvenciones y el reintegro de las cantidades percibidas con el interés de demora correspondiente.
+
+7\. En el caso de que la entidad beneficiaria haya percibido el pago anticipado en virtud del artículo 15, se requerirá el reintegro de la parte de la ayuda percibida anticipadamente correspondiente a las penalizaciones aplicadas en virtud del presente artículo.
+
+8\. Sin perjuicio de lo anterior, será de aplicación el título IV de la Ley 38/2003, de 17 de noviembre, sobre infracciones y sanciones administrativas en materia de subvenciones.
+
+> Se modifica por el art. único.12 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.12 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se suprime el apartado 2 por el art. 3.11 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 19. Seguimiento y control.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Desarrollo Rural, Innovación y Política Forestal de la Secretaría General de Agricultura y Alimentación y de los servicios de la Administración Periférica del Estado, establecerá los mecanismos de control precisos para asegurar el conocimiento y cumplimiento de la finalidad para la que las subvenciones son concedidas.
+
+2\. Con el fin de posibilitar la realización de controles por la Administración General del Estado, las organizaciones y entidades gestoras de los programas de formación deberán comunicar por cualquier medio electrónico que acredite su recepción, con una antelación mínima de diez días naturales al inicio de la actividad formativa, a la Delegación del Gobierno correspondiente y al órgano instructor, el título de la actividad formativa, localidad, provincia, dirección del local de impartición de las clases o habilitación para el acceso al aula virtual o plataforma de teleformación, fechas, horarios lectivos, identificación del profesorado y de quienes ejerzan la coordinación y número de alumnado previsto.
+
+3\. La falta no justificada de comunicación del inicio de una actividad formativa en el plazo señalado en el párrafo anterior implicará que la misma sea considerada como no realizada, a los efectos del pago de la subvención que pudiera corresponderle.
+
+4\. Las actuaciones de control afectarán a todas las actividades recogidas en los programas formativos y comprenderán tanto controles administrativos como inspecciones sobre el terreno. Los controles sobre el terreno se aplicarán a una determinada muestra. En las acciones en modalidad de aula virtual la visita consistirá en el acceso telemático a dicha aula. En las acciones en modalidad mixta la visita de inspección podrá realizarse a la parte presencial, al aula virtual o a ambas.
+
+5\. En las acciones en modalidad presencial o en la parte presencial de las acciones en modalidad mixta, el inspector levantará un acta de la visita, de la cual entregará copia al representante de la entidad y reflejará en la misma las observaciones o alegaciones de dicho representante.
+
+En esos casos la entidad beneficiaria deberá mantener en el lugar donde se desarrolle la acción formativa, durante toda la duración de la misma, un ejemplar del material didáctico entregado al alumnado y la hoja de control de asistencia que corresponda al día o sesión en cuestión, además del documento de publicidad de la acción formativa. Se entenderá por materiales didácticos aquellos elementos utilizados por el personal docente para facilitar y conducir el aprendizaje del alumnado como son libros, carteles, mapas, fotos, láminas, videos o software.
+
+Las entidades beneficiarias estarán obligadas a colaborar en dichos controles, proporcionado los datos requeridos y facilitando el acceso a su sede y a los locales e instalaciones donde se desarrollen las acciones.
+
+6\. En las acciones en modalidad de aula virtual o en la parte no presencial de acciones en modalidad mixta, el inspector levantará un acta de visita y remitirá copia al representante de la entidad. A efectos de esta visita la entidad beneficiaria proporcionará a la Administración en el momento de comunicar e inicio de la actividad a que hace referencia el apartado 2 del presente artículo, la clave de acceso que posibilite a los inspectores la conexión durante el tiempo de celebración de la acción, garantizando en todo momento el acceso del inspector a la lista de asistentes.
+
+La Administración podrá solicitar el acceso a la grabación de la acción formativa a efectos de su control, durante los siete días posteriores a su finalización.
+
+> Se modifican los apartados 2, 5 y 6 por el art. único.13 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se añaden los apartados 4, 5 y 6 por el art. único.13 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifica el apartado 2 por el art. único.3 del Real Decreto 282/2021, de 20 de abril. [Ref. BOE-A-2021-7688](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-7688)
+
+> Téngase en cuenta, respecto a la aplicación a las subvenciones concedidas, la disposición transitoria única del citado Real Decreto.
+
+> Se modifica el apartado 2 por el art. 3.12 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## Artículo 20. Normativa aplicable.
+
+En todo lo no previsto en esta norma será de aplicación la Ley 38/2003 de 17 de noviembre, y su Reglamento de aplicación, la Ley 39/2015, de 1 de octubre, y la Ley 40/2015, de 1 de octubre.
+
+## Disposición adicional única. Gastos subvencionables.
+
+1\. Cuando sea de aplicación el apartado 3 del artículo 16 del presente real decreto, serán subvencionables los gastos siguientes:
+
+a) Gastos de profesorado, técnico o experto, propio o externo y de desplazamiento y manutención del mismo.
+
+b) Gastos de dirección y coordinación, si estuviesen justificados por la actividad.
+
+c) Gastos de material didáctico fungible y material entregado a los asistentes.
+
+d) Gastos generales de promoción y comunicación, alquiler de medios o de locales.
+
+e) Gastos de manutención y desplazamiento
+
+f) Costes derivados de la visita y demostración en la explotación donde se realicen las prácticas.
+
+g) Costes directos sobre a cobertura del seguro a los asistentes de la actividad, relacionada con las características de la misma, cuando su contratación este obligada por normativa.
+
+h) El Impuesto sobre el Valor Añadido (IVA), cuando no sea recuperable por la entidad beneficiaria.
+
+i) En los gastos de personal propio se podrán incluir las cuotas a la Seguridad Social.
+
+j) Gastos de guardería para descendientes menores de 8 años, de las personas asistentes a las actividades formativas.
+
+k) Gastos de creación, mantenimiento de plataformas de formación en aula-virtual.
+
+l) Gastos para la retransmisión de la actividad formativa a través de internet y en tiempo real "streaming".
+
+2\. Con el fin de respetar el principio de moderación de costes, los gastos de profesorado, técnico o experto, propio o externo; los gastos de dirección y coordinación, de organización y administración, de material didáctico, de dietas y transporte, de promoción y comunicación y alquiler de medios, así como de guardería, únicamente se subvencionarán hasta los límites que se establezcan en la respectiva convocatoria.
+
+3\. En ningún caso se considerarán gastos subvencionables los siguientes gastos:
+
+a) IVA recuperable de la entidad beneficiaria.
+
+b) Otros impuestos indirectos, así como cualquier tributo, gravamen, tasa, recargo, interés o sanción.
+
+c) Intereses deudores.
+
+d) Los trabajos realizados que corresponden a trabajos de investigación.
+
+e) Adquisición de mobiliario, equipos, vehículos, infraestructuras, bienes inmuebles y terrenos.
+
+f) La formación a los técnicos de las entidades beneficiarias o de sus entes territoriales o adheridos.
+
+g) Los realizados en comunidades con régimen de financiación foral.
+
+h) Los correspondientes a las actividades formativas dirigidas a alumnos que participen en el sistema educativo general (Educación Secundaria Obligatoria, Bachillerato, Formación Profesional o formación universitaria), o en acciones de formación ocupacional (Escuelas taller, etc.), ni aquéllas en las que participen como alumnos trabajadores de las distintas administraciones públicas.
+
+> Se añade por el art. único.14 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+## Disposición transitoria única. Régimen aplicable a las ayudas concedidas antes del 1 de enero de 2025.
+
+A las ayudas que hubieran sido concedidas, de conformidad con el presente real decreto antes del 1 de enero de 2025, se les aplicará el Reglamento (UE) n.º 1408/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis en el sector agrícola, o el Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis, según corresponda.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 1039/2025, de 19 de noviembre. [Ref. BOE-A-2025-23421](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23421)
+
+> Se renumera y se modifica por el art. único.14 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Su anterior denominación era disposición transitoria primera.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga la Orden AAA/746/2016, de 4 de mayo, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas a programas plurirregionales de formación dirigidos a los profesionales del medio rural.
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final segunda. Convocatoria de las ayudas.
+
+El Ministro de Agricultura, Pesca y Alimentación, o bien el órgano en quien delegue, convocará las subvenciones establecidas en estas bases mediante su publicación en la Base de Datos Nacional de Subvenciones (BDNS), http://www.infosubvenciones.es/bdnstrans/es/index, y un extracto de la misma en el «Boletín Oficial del Estado».
+
+## Disposición final tercera. Facultad de desarrollo reglamentario y modificación.
+
+Se autoriza al Ministro de Agricultura, Pesca y Alimentación a dictar cuantas disposiciones sean necesarias para el desarrollo reglamentario y ejecución del real decreto, así como para la modificación de sus anexos y de los plazos y criterios de selección contenidos en esta norma a fin de mantener su congruencia con el Derecho de la Unión Europea y la legislación interna.
+
+> Se modifica por el art. 3.14 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+> La anterior disposición final tercera se renumera como cuarta.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se renumera por el art. 3.14 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+> Su anterior numeración era disposición final tercera.
+
+Dado en Madrid, el 17 de mayo de 2019.
+
+FELIPE R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+LUIS PLANAS PUCHADES
+
+## ANEXO I — Cantidad máxima de subvención por tipo de actividad formativa
+
+A. Tipo de actividad.
+
+– Cursos de formación.
+
+– Visitas técnicas.
+
+– Jornadas de información y orientación.
+
+B. Cantidad máxima de subvención según el tipo de actividad.
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Tipo de actividad</th>
+<th>Duración</th>
+<th>
+<p>Cantidad máxima subvención</p>
+<p>–</p>
+<p>Euros</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Curso presencial.</td>
+<td>Curso breve.</td>
+<td>Entre 12 y 39 horas.</td>
+<td>Hasta 4.500</td>
+</tr>
+<tr>
+<td>Curso medio.</td>
+<td>Entre 40 h y 100 horas.</td>
+<td>Hasta 9.000</td>
+</tr>
+<tr>
+<td>Curso largo.</td>
+<td>De más de 100 horas.</td>
+<td>Hasta 12.000</td>
+</tr>
+</tbody>
+</table>
+
+Cuando los cursos se realicen en la modalidad de aula virtual, se aplicará un coeficiente del 0,8 a la cantidad máxima de subvención.
+
+Cuando los cursos comprendan una vista técnica se aplicará un coeficiente del 1,2 a la cantidad máxima de subvención.
+
+> Se modifica por el art. único.15 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Redactado el cuadro de la letra B conforme a la corrección de errores publicada en BOE núm. 144, de 17 de junio de 2023. [Ref. BOE-A-2023-14428](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14428)
+
+> Se modifica el título y primeros párrafos por el art. 3.15 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## ANEXO II — Actividades en modalidad teleformación
+
+**(Suprimido)**
+
+> Se suprime por el art. único.16 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifica el título y primeros párrafos por el art. 3.16 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## ANEXO III — Criterios de valoración para cada anualidad
+
+|  | Criterios de valoración | Asignación de puntos |
+|---|---|---|
+| 1 | Grado de ejecución presupuestaria del Programa de la convocatoria anterior:<br>Máximo 10 puntos. | No beneficiario en convocatoria anterior: 10 puntos.<br>Ejecución desde el 85 % al 100 %: 10 puntos.<br>Ejecución desde el 70 hasta el 85 %: 5 puntos. |
+| 2 | Grado de cumplimiento del alumnado destinatario de la formación del programa de la convocatoria anterior.<br>Máximo 10 puntos. | No beneficiario en convocatoria anterior: 5 puntos.<br>Grado de cumplimiento desde el 90 % al 100 %: 10 puntos.<br>Grado de cumplimento desde 70 al 90 %: 5 puntos. |
+| 3 | Desarrollo de actividades presenciales en provincias cuya densidad de población sea inferior a la media nacional.<br>Máximo 20 puntos. | Programa que recoja actividades en 15 o más provincias con población por debajo de la media nacional: 20 puntos.<br>Programa que recoja actividades en más de 10 y menos de 15 provincias. con población por debajo de la media nacional: 15 puntos.<br>Programa que recoja actividades en más de 5 y menos de 10 provincias. con población por debajo de la media nacional: 10 puntos. |
+| 4 | Distribución geográfica de las actividades presenciales a desarrollar por comunidades autónomas.<br>Máximo 20 puntos. | 12 o más comunidades autónomas: 20 puntos.<br>Entre 5 y 12 comunidades autónomas: 15 puntos.<br>Menos de 5 comunidades autónomas: 10 puntos. |
+| 5 | N.ª de actividades con más de 15 participantes por curso.<br>10 puntos. | Menos del 20 % de las actividades- 5 puntos.<br>Más del 20 % y menos del 40 % de las actividades programadas: 10 puntos.<br>El 40 % o más de las actividades programadas totales tienen más de 15 participantes por actividad cada una: 15 puntos. |
+| 6 | Actividades impartidas en modalidad de aula virtual o mixtas.<br>20 puntos. | Para aquellas entidades que programen más de un 20 % del total de actividades, con carácter mixto o aula virtual. |
+| 7 | Actividades de divulgación sobre temática especifica.<br>Máximo 10 puntos. | Que más del 15 % del tiempo de las actividades de programa se dediquen a las temáticas establecidas como prioritarias por convocatoria. |
+
+Puntuación máxima: 100 puntos.
+
+Puntuación mínima para ser elegible: 50 puntos.
+
+En caso de que se publique la convocatoria en el segundo semestre la puntuación mínima para ser elegible será de: 30 puntos.
+
+> Se modifica por el art. único.16 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se modifica por el art. único.17 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)
+
+> Se modifica por el art. 3.17 del Real Decreto 810/2020, de 8 de septiembre. [Ref. BOE-A-2020-10367](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-10367)
+
+## ANEXO IV — Penalizaciones
+
+Ac. Ayuda concedida: Ayuda concedida por resolución tras aprobación del programa plurirregional de la entidad beneficiaria.
+
+Iv. Importe verificado: Importe resultante una vez realizados los controles Administrativos y sobre el terreno, del conjunto de las actividades formativas.
+
+| Circunstancia | Penalización aplicada |
+|---|---|
+| Importe verificado < 60 % Ac.<br>N.º de actividades ejecutas < 80 % actividades programas o se reduce la puntuación inicial en 10 puntos o más. | Iv |
+| Importe verificado < 60 % Ac.<br>N.º de actividades ejecutas ≥ 80 % actividades programas o Se reduce la puntuación inicial en menos de 10 puntos. | 85 % Ac – 60 % Ac |
+| 60 % Ac ≤ Importe verificado < 85 %Ac. | 85 % Ac-Iv |
+| 85 % Ac≤ Importe verificado ≤100 % Ac. | 0 |
+| Importe verificado < 60 % Ac. | Iv |
+| Actividades formativas ejecutadas en menos de 3 CC.AA. | Iv |
+| Actividades formativas ejecutadas en menos de 8 provincias. | Iv |
+| Más del 20 % de las actividades ejecutadas se realizan en una misma provincia. | Iv |
+| Asistencia de jóvenes < 15 % participantes. | Iv |
+| Asistencia de mujeres < 15 % participantes. | Iv |
+
+|  | Penalización adicional aplicada |
+|---|---|
+| Reducción de la puntuación inicial en 10 puntos o más. | 20 % Ac |
+| Existencia de importes no admisibles | Importes no admisibles |
+
+> Se modifica por el art. único.17 del Real Decreto 71/2025, de 4 de febrero. [Ref. BOE-A-2025-2040](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2040)
+
+> Se añade por el art. único.18 del Real Decreto 206/2023, de 28 de marzo. [Ref. BOE-A-2023-7940](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7940)

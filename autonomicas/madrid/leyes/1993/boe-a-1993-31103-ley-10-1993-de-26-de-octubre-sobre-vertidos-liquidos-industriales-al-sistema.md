@@ -757,263 +757,263 @@ b) Las instalaciones que, superando un caudal de abastecimiento y autoabastecimi
 
 ## ANEXO 4 — Métodos analíticos establecidos para el análisis de los vertidos
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Parámetros.</p>
+<p>Parámetros.</p>
 </td>
 <td>
-<p class="cabeza_tabla">Método.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1. Temperatura.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Termometría.</p>
+<p>Método.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2. pH.</p>
+<p>1. Temperatura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Electrometría.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3. Conductividad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Electrometría.</p>
+<p>Termometría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">4. Sólidos en suspensión.</p>
+<p>2. pH.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gravimetría previa filtración sobre microfiltro de fibra de vidrio Millipore AP/40 o equivalente.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">5. Aceite y grasas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Separación y gravimetría o espectrofotometría de absorción infrarroja.</p>
+<p>Electrometría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">6. DBO<sub>5</sub> .</p>
+<p>3. Conductividad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Incubación, cinco días a 20 ºC.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">7. DQO.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reflujo con dicromato potásico.</p>
+<p>Electrometría.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">8. Aluminio.</p>
+<p>4. Sólidos en suspensión.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">9. Arsénico.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
+<p>Gravimetría previa filtración sobre microfiltro de fibra de vidrio Millipore AP/40 o equivalente.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10. Bario.</p>
+<p>5. Aceite y grasas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">11. Boro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
+<p>Separación y gravimetría o espectrofotometría de absorción infrarroja.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">12. Cadmio.</p>
+<p>6. DBO<sub>5</sub> .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">13. Cianuros.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción.</p>
+<p>Incubación, cinco días a 20 ºC.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">14. Cobre.</p>
+<p>7. DQO.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">15. Cromo.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
+<p>Reflujo con dicromato potásico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">16. Estaño.</p>
+<p>8. Aluminio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">17. Fenoles.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Destilación y espectrofotometría de absorción, método amino-4-antipirina.</p>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">18. Fluoruros.</p>
+<p>9. Arsénico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Electrodo selectivo o Espectrofotometría de absorción.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">19. Hierro.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">20. Manganeso.</p>
+<p>10. Bario.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">21. Mercurio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
+<p>Absorción atómica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">22. Níquel.</p>
+<p>11. Boro.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">23. Plata.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">24. Plomo.</p>
+<p>12. Cadmio.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">25. Selenio.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Absorción atómica.</p>
+<p>Absorción atómica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">26. Sulfuro.</p>
+<p>13. Cianuros.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Espectrofotometría de absorción.</p>
+<p>Espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14. Cobre.</p>
+</td>
+<td>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15. Cromo.</p>
+</td>
+<td>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16. Estaño.</p>
+</td>
+<td>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17. Fenoles.</p>
+</td>
+<td>
+<p>Destilación y espectrofotometría de absorción, método amino-4-antipirina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18. Fluoruros.</p>
+</td>
+<td>
+<p>Electrodo selectivo o Espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19. Hierro.</p>
+</td>
+<td>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20. Manganeso.</p>
+</td>
+<td>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21. Mercurio.</p>
+</td>
+<td>
+<p>Absorción atómica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22. Níquel.</p>
+</td>
+<td>
+<p>Absorción atómica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23. Plata.</p>
+</td>
+<td>
+<p>Absorción atómica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24. Plomo.</p>
+</td>
+<td>
+<p>Absorción atómica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25. Selenio.</p>
+</td>
+<td>
+<p>Absorción atómica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26. Sulfuro.</p>
+</td>
+<td>
+<p>Espectrofotometría de absorción.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">27. Toxicidad.</p>
+<p>27. Toxicidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bioensayo de luminiscencia.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Ensayo de inhibición del crecimiento de algas.</p>
+<p>Bioensayo de luminiscencia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ensayo de toxicidad aguda en Daphnia.</p>
+<p>Ensayo de inhibición del crecimiento de algas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Test de la OCDE 209. Inhibición de la respiración de lodos activos.</p>
+<p>Ensayo de toxicidad aguda en Daphnia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ensayo de toxicidad aguda en rotíferos.</p>
+<p>Test de la OCDE 209. Inhibición de la respiración de lodos activos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ensayo de toxicidad aguda en tyamnocephlus.</p>
+<p>Ensayo de toxicidad aguda en rotíferos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">28. Zinc.</p>
+<p>Ensayo de toxicidad aguda en tyamnocephlus.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28. Zinc.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Absorción atómica o espectrofotometría de absorción.</p>
+<p>Absorción atómica o espectrofotometría de absorción.</p>
 </td>
 </tr>
 </tbody>

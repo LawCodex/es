@@ -1,0 +1,129 @@
+---
+title: "Orden SND/271/2020, de 19 de marzo, por la que se establecen instrucciones sobre gestión de residuos en la situación de crisis sanitaria ocasionada por el COVID-19"
+identifier: "BOE-A-2020-3973"
+eli: "https://www.boe.es/eli/es/o/2020/03/19/snd271"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad"
+date: 2020-03-19
+published: 2020-03-22
+in_force_from: 2020-03-22
+last_amended: 2020-05-27
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 79"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2020-3973"
+retrieved: 2026-10-11
+---
+
+# Orden SND/271/2020, de 19 de marzo, por la que se establecen instrucciones sobre gestión de residuos en la situación de crisis sanitaria ocasionada por el COVID-19
+
+Con motivo de la situación de emergencia de salud pública provocada por el COVID-19, el artículo 6 del Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma, establece que cada administración conservará las competencias que le otorga la legislación vigente en la gestión ordinaria de sus servicios para adoptar las medidas que estime necesarias en el marco de las órdenes directas de la autoridad competente a los efectos del estado de alarma.
+
+En ese contexto, para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, resulta imprescindible dictar instrucciones sobre la gestión de residuos domésticos, tanto para su manejo domiciliario en hogares con pacientes, como para su gestión posterior, así como sobre la gestión de los residuos procedentes de hospitales, ambulancias, centros de salud, laboratorios, y establecimientos similares en contacto con COVID-19.
+
+Por su parte, el artículo 7.1 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, establece que las autoridades competentes adoptarán las medidas necesarias para asegurar que la gestión de los residuos se realice sin poner en peligro la salud humana y sin dañar al medio ambiente.
+
+En su virtud, resuelvo:
+
+## Primero. Objeto.
+
+Esta orden establece las instrucciones sobre gestión de residuos procedentes de domicilios, así como de los residuos procedentes de hospitales, ambulancias, centros de salud, laboratorios, y establecimientos similares en contacto con COVID-19, durante la crisis sanitaria ocasionada por el COVID-19.
+
+Asimismo, recoge en su anexo las recomendaciones destinadas al manejo domiciliario de los residuos en hogares con positivos o en cuarentena por COVID-19, así como al manejo domiciliario de los residuos en hogares sin positivos o cuarentena.
+
+## Segundo. Instrucciones de gestión de residuos.
+
+Los residuos procedentes de hogares, hospitales, ambulancias, centros de salud, laboratorios, y establecimientos similares en contacto con COVID-19, se gestionarán conforme a lo que se señala en las siguientes instrucciones:
+
+1\. En hogares con positivo o en cuarentena por COVID-19, las bolsas de fracción resto generadas, adecuadamente cerradas siguiendo las recomendaciones del apartado 1 del anexo, se depositarán exclusivamente en el contenedor de fracción resto o en cualquier otro sistema de recogida de fracción resto establecido en la entidad local.
+
+En los sistemas de recogida húmedo-seco, las bolsas se depositarán en la fracción que indique la entidad local y dicha bolsa recibirá el tratamiento indicado en el apartado segundo.4.
+
+Queda terminantemente prohibido depositar tales bolsas en los contenedores de recogida separada (orgánica, envases, papel, vidrio o textil) o su abandono en el entorno o en la vía pública.
+
+2\. La gestión de los residuos procedentes de hogares sin positivo o en cuarentena por COVID-19, continuará realizándose del modo habitual conforme a la normativa ordinaria de gestión de residuos, teniendo en cuenta las recomendaciones del apartado 2 del anexo.
+
+3\. Se podrán establecer recogidas diferenciada de las bolsas procedentes de centros/lugares donde se dé un elevado nivel de afectados por COVID-19 (residencias, hoteles hospitalizados, etc.) mientras dure la crisis sanitaria, dado el elevado nivel de generación de residuos asociados. Estas bolsas se identificarán externamente (por ejemplo, mediante cinta aislante o similar) y se depositarán conforme a lo que establezcan las autoridades responsables de la recogida de residuos. Estas bolsas se gestionarán del modo indicado en el apartado segundo.4 siguiente.
+
+4\. La gestión de la fracción resto recogida conforme al apartado segundo.1 se realizará de la siguiente manera:
+
+a) Respecto de la fracción resto recogida:
+
+1.º No se procederá en ningún caso a la apertura manual de las bolsas de fracción resto en instalaciones de recogida.
+
+2.º Las autoridades competentes de las comunidades autónomas podrán resolver destinarla a incineración, preferiblemente, o a vertedero sin tratamiento previo en tanto lo estimen conveniente, pero no más allá de la fecha en la que la totalidad de la unidad territorial a la que la instalación presta servicio supere la fase 3 del Plan para la transición hacia una nueva normalidad.
+
+3.º En caso de que se lleven a cabo tratamientos previos a su incineración o depósito en vertedero, podrán realizarse tanto de forma automática como manual, siempre que se adopten todas las medidas de seguridad necesarias.
+
+A estos efectos, y en caso de que sea necesario, las instalaciones industriales de fabricación de cemento autorizadas para coincinerar residuos deberán proceder a la incineración de la fracción resto a requerimiento de las autoridades competentes.
+
+b) Las autoridades competentes podrán acordar que los materiales recuperados queden almacenados durante al menos setenta y dos horas.
+
+c) Se desarrollarán protocolos específicos para la protección de los trabajadores y la desinfección de equipos y vehículos tanto para la recogida de residuos como para su gestión en las plantas que los reciban, o bien se revisarán los protocolos ya existentes con la misma finalidad, y se dotará de los equipos de protección individual (EPI) necesarios a los trabajadores.
+
+5\. La gestión de los residuos en contacto con COVID-19 procedentes de hospitales, ambulancias, centros de salud, laboratorios, o de establecimientos similares, así como de aquellos derivados de la desinfección de instalaciones, se realizará del siguiente modo:
+
+Los residuos en contacto con COVID-19 como guantes, mascarillas, batas, etc., se considerarán como residuos infecciosos y se gestionarán como tales, según lo dispuesto para los mismos en la regulación autonómica sobre residuos sanitarios.
+
+Se deberá maximizar el llenado de los contenedores disponibles en estos centros para cada uno de los tipos de residuos generados, evitando entregarlos a los gestores autorizados sin optimizar su capacidad, de forma que se logre así una gestión lo más eficiente posible.
+
+Las autoridades competentes podrán requerir el trabajo coordinado de las empresas de gestión de estos residuos para cubrir las necesidades de estos centros, así como la puesta a disposición de naves o terrenos de terceros para el almacenamiento de contenedores cuando los gestores encuentren dificultades de gestión debido a la acumulación de los mismos. Dichos almacenamientos deberán cumplir los mínimos que las autoridades competentes establezcan.
+
+En caso de que fuera necesario, las instalaciones industriales de fabricación de cemento autorizadas para coincinerar residuos o las instalaciones de incineración de residuos municipales deberán proceder a la incineración de estos residuos a requerimiento de las autoridades competentes.
+
+6\. La recogida y gestión de residuos de competencia municipal y de los mencionados en el apartado segundo.5 se considera servicio esencial. Las administraciones competentes deberán garantizar frecuencias de recogida suficientes, al objeto de evitar el acumulo de residuos fuera de sus contenedores, así como el tratamiento posterior de los residuos.
+
+> Se modifica el apartado 4 por el art. 1 de la Orden SND/445/2020, de 26 de mayo. [Ref. BOE-A-2020-5323](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5323)
+
+> Se modifican los apartados 4 y 5 por el art. 1.1 de la Orden SND/440/2020, de 23 de mayo. [Ref. BOE-A-2020-5265](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5265)
+
+## Tercero. EPIs asociados a la gestión de los residuos de competencia municipal y los regulados en el apartado segundo.5.
+
+Al objeto de que puedan llevarse a cabo los servicios esenciales de recogida y tratamiento de los residuos de competencia municipal y los regulados en el apartado segundo.5, las empresas que presten dichos servicios dotarán a los trabajadores de los equipos de protección individual (EPI) necesarios.
+
+> Se modifica por el art. 1.2 de la Orden SND/440/2020, de 23 de mayo. [Ref. BOE-A-2020-5265](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5265)
+
+## Tercero bis. Gestión de residuos sin tratamiento previo.
+
+En los casos en los que en una comunidad autónoma los residuos de la fracción resto se hayan venido destinando a incineración o a vertedero sin tratamiento previo al amparo de lo previsto en esta orden, se podrá continuar gestionando dichos residuos de este modo hasta la fecha en la que la totalidad de la unidad territorial a la que la instalación presta servicio supere la fase 3 del Plan para la transición hacia una nueva normalidad, salvo que las autoridades competentes de las comunidades autónomas establezcan un plazo máximo inferior.
+
+> Se añade por el art. 1.3 de la Orden SND/440/2020, de 23 de mayo. [Ref. BOE-A-2020-5265](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5265)
+
+## Cuarto. Disposiciones o actos contrarios a esta orden.
+
+Quedan sin efecto las disposiciones, instrucciones o actos adoptados por los órganos competentes que sean contrarios a lo previsto en esta orden.
+
+## Quinto. Efectos.
+
+Esta orden producirá efectos el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+## Sexto. Régimen de recursos.
+
+Contra la presente orden, que pone fin a la vía administrativa, se podrá interponer recurso contencioso-administrativo en el plazo de dos meses a partir del día siguiente al de su publicación ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, de conformidad con lo dispuesto en el artículo 11 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+Madrid, 19 de marzo de 2020.–El Ministro de Sanidad, Salvador Illa Roca.
+
+## ANEXO — Recomendaciones destinadas al manejo domiciliario de los residuos en hogares con positivos o en cuarentena por COVID-19, así como al manejo domiciliario de los residuos en hogares sin positivos o cuarentena
+
+1\. El manejo domiciliario de los residuos en hogares con positivos o en cuarentena por COVID-19, se recomienda realizarlo conforme a lo siguiente:
+
+Los residuos del paciente, incluido el material desechable utilizado por la persona enferma (guantes, pañuelos, mascarillas), se han de eliminar en una bolsa de plástico (bolsa 1) en un cubo de basura dispuesto en la habitación, preferiblemente con tapa y pedal de apertura, sin realizar ninguna separación para el reciclaje.
+
+La bolsa de plástico (bolsa 1) debe cerrarse adecuadamente e introducirse en una segunda bolsa de basura (bolsa 2), al lado de la salida de la habitación, donde además se depositarán los guantes y mascarilla utilizados por el cuidador, y se cerrará adecuadamente antes de salir de la habitación.
+
+La bolsa 2, con los residuos anteriores, se depositará con el resto de los residuos domésticos en la bolsa de basura (bolsa 3) correspondiente al cubo de fracción resto.
+
+Inmediatamente después se realizará una completa higiene de manos, con agua y jabón, al menos 40-60 segundos.
+
+La bolsa 3 cerrada adecuadamente se depositará exclusivamente en el contenedor de fracción resto (o en cualquier otro sistema de recogida de fracción resto establecido en la entidad local).
+
+En poblaciones con sistemas de separación húmedo-seco o similar, la bolsa 2 se deberá depositar en la fracción que indique la entidad local.
+
+2\. El manejo domiciliario de los residuos en hogares sin positivos o cuarentena, se recomienda realizarlo del siguiente modo:
+
+La separación de los residuos se realizará como viene haciéndose habitualmente, tratando de maximizar dicha separación al objeto de reducir la fracción resto generada. Las fracciones separadas solo se depositarán en los contenedores correspondientes.
+
+Los guantes de látex o nitrilo empleados para otros usos no deben depositarse en el contenedor de envases ligeros (amarillo), sino en el de resto.

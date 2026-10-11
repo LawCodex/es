@@ -246,95 +246,86 @@ Incentivo al empleo
 
 ## ANEXO II — Conceptos modelo 190/184
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col width="10%">
-<col>
-<col width="8%">
-<col width="8%">
-<col width="8%">
-<col width="12%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">HHPP</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">AEAT</th>
-<th class="cabeza_tabla">H. Foral Araba</th>
-<th class="cabeza_tabla">H. Foral Bizkaia</th>
-<th class="cabeza_tabla">H. Foral Gipuzkoa</th>
-<th class="cabeza_tabla">H. Foral Navarra</th>
+<th>HHPP</th>
+<th> </th>
+<th>AEAT</th>
+<th>H. Foral Araba</th>
+<th>H. Foral Bizkaia</th>
+<th>H. Foral Gipuzkoa</th>
+<th>H. Foral Navarra</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Rendimientos de trabajo.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">Imputaciones de los modelos 190 (Claves A, B, C, E y F) y 345 Planes de pensiones y Subvenciones que se consideran rendimientos de trabajo dinerarias y en especie.</td>
-<td class="cuerpo_tabla_izq" colspan="3">CLAVES: A+B+E.</td>
-<td class="cuerpo_tabla_izq">CLAVES A+B+C+E.</td>
+<td>Rendimientos de trabajo.</td>
+<td>Modelo 190.</td>
+<td>Imputaciones de los modelos 190 (Claves A, B, C, E y F) y 345 Planes de pensiones y Subvenciones que se consideran rendimientos de trabajo dinerarias y en especie.</td>
+<td colspan="3">CLAVES: A+B+E.</td>
+<td>CLAVES A+B+C+E.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos deducibles de trabajo.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">Cotizaciones a la Seguridad Social o a mutualidades generales obligatorias de funcionarios, detracciones por derechos pasivos y cotizaciones a los colegios de huérfanos (Campo de gastos deducibles de las Claves A, B, C, E, L05, L10 Y L27).</td>
-<td class="cuerpo_tabla_izq" colspan="3">CLAVES: A, B, C, E, L05 y L27 del campo Gastos deducibles.</td>
-<td class="cuerpo_tabla_izq">CLAVES: A, B, C, E y l05 del campo Gastos deducibles.</td>
+<td>Gastos deducibles de trabajo.</td>
+<td>Modelo 190.</td>
+<td>Cotizaciones a la Seguridad Social o a mutualidades generales obligatorias de funcionarios, detracciones por derechos pasivos y cotizaciones a los colegios de huérfanos (Campo de gastos deducibles de las Claves A, B, C, E, L05, L10 Y L27).</td>
+<td colspan="3">CLAVES: A, B, C, E, L05 y L27 del campo Gastos deducibles.</td>
+<td>CLAVES: A, B, C, E y l05 del campo Gastos deducibles.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rendimientos de actividades económicas - Profesionales.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">Modelo 190. Clave G. Subclaves 01 a 08. Dinerarias y en especie.</td>
-<td class="cuerpo_tabla_izq" colspan="3">CLAVES:F02, G01, G02, G03, I01, I02.</td>
-<td class="cuerpo_tabla_izq">CLAVES:F02, G01, G02, G03, I01, I02.</td>
+<td>Rendimientos de actividades económicas - Profesionales.</td>
+<td>Modelo 190.</td>
+<td>Modelo 190. Clave G. Subclaves 01 a 08. Dinerarias y en especie.</td>
+<td colspan="3">CLAVES:F02, G01, G02, G03, I01, I02.</td>
+<td>CLAVES:F02, G01, G02, G03, I01, I02.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rendimientos de actividades económicas. Otros.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">Modelo 190. Clave I y J. Dinerarias y en especie.</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Rendimientos de actividades económicas. Otros.</td>
+<td>Modelo 190.</td>
+<td>Modelo 190. Clave I y J. Dinerarias y en especie.</td>
+<td colspan="3"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rendimientos de actividades económicas agrícola, ganaderas, forestales y pesqueras.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">Modelo 190. Clave H. Subclaves 01, 02, 03. Dinerarias y en especie.</td>
-<td class="cuerpo_tabla_izq" colspan="3">CLAVE H0I, H02, H03.</td>
-<td class="cuerpo_tabla_izq">CLAVE H01, H02, H03.</td>
+<td>Rendimientos de actividades económicas agrícola, ganaderas, forestales y pesqueras.</td>
+<td>Modelo 190.</td>
+<td>Modelo 190. Clave H. Subclaves 01, 02, 03. Dinerarias y en especie.</td>
+<td colspan="3">CLAVE H0I, H02, H03.</td>
+<td>CLAVE H01, H02, H03.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Rendimientos de actividades económicas empresariales.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">Modelo 190. Clave H. Subclave 04. Dinerarias y en especie.</td>
-<td class="cuerpo_tabla_izq" colspan="3">CLAVE H04.</td>
-<td class="cuerpo_tabla_izq">CLAVE H04.</td>
+<td>Rendimientos de actividades económicas empresariales.</td>
+<td>Modelo 190.</td>
+<td>Modelo 190. Clave H. Subclave 04. Dinerarias y en especie.</td>
+<td colspan="3">CLAVE H04.</td>
+<td>CLAVE H04.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestaciones públicas por maternidad o paternidad exentas de IRPF.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">CLAVE L Subclave 27.</td>
-<td class="cuerpo_tabla_izq" colspan="3">CLAVE L. Subclave 27.</td>
-<td class="cuerpo_tabla_izq">CLAVE B. Subclaves 90, 91 y 92.</td>
+<td>Prestaciones públicas por maternidad o paternidad exentas de IRPF.</td>
+<td>Modelo 190.</td>
+<td>CLAVE L Subclave 27.</td>
+<td colspan="3">CLAVE L. Subclave 27.</td>
+<td>CLAVE B. Subclaves 90, 91 y 92.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prestaciones públicas por cuidado de menores afectados por cáncer u otra enfermedad grave y Corresponsabilidad en el cuidado del lactante.</td>
-<td class="cuerpo_tabla_izq">Modelo 190.</td>
-<td class="cuerpo_tabla_izq">CLAVE L. Subclave 20.</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Prestaciones públicas por cuidado de menores afectados por cáncer u otra enfermedad grave y Corresponsabilidad en el cuidado del lactante.</td>
+<td>Modelo 190.</td>
+<td>CLAVE L. Subclave 20.</td>
+<td colspan="3"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Socios/partícipes de entidades en atribución de rentas.</td>
-<td class="cuerpo_tabla_izq">Modelo 184.</td>
-<td class="cuerpo_tabla_izq">CLAVE D.</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">D. Tipo de registro de socio/a, heredero/a, comunero/a y participe.</p>
-<p class="cuerpo_tabla_izq">D. Rendimientos de actividades económicas.</p>
+<td>Socios/partícipes de entidades en atribución de rentas.</td>
+<td>Modelo 184.</td>
+<td>CLAVE D.</td>
+<td colspan="3">
+<p>D. Tipo de registro de socio/a, heredero/a, comunero/a y participe.</p>
+<p>D. Rendimientos de actividades económicas.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tipo de registro de socio/a, heredero/a, comunero/a y participe.</p>
-<p class="cuerpo_tabla_izq">Clave D - Rendimientos de actividades empresariales y profesionales.</p>
+<td>
+<p>Tipo de registro de socio/a, heredero/a, comunero/a y participe.</p>
+<p>Clave D - Rendimientos de actividades empresariales y profesionales.</p>
 </td>
 </tr>
 </tbody>

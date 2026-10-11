@@ -148,14 +148,6 @@ b) Se adoptarán las medidas oportunas para garantizar la correcta gestión de l
 
 No obstante, la autoridad competente podrá eximir del cumplimiento total o parcial del apartado 4.a) para las explotaciones ganaderas equinas de pequeña capacidad, o centros de concentración de équidos que tengan carácter temporal, salvo, en este último caso, las paradas.
 
-> Téngase en cuenta que esta actualización del apartado 4, establecida por la disposición final 5.1 del Real Decreto 346/2025, de 22 de abril, [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160), entra en vigor el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "4. Las explotaciones del ámbito de aplicación de este real decreto dispondrán de un Plan sanitario integral en los términos del artículo 1 y 6 y la disposición transitoria primera apartado 3 del Real Decreto 364/2023, de 16 de mayo, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación y al Plan sanitario integral de las explotaciones ganaderas, y por el que se modifican varias normas de ordenación ganaderas.
-
-> Tal y como establece el Reglamento (UE) 2016/429, del Parlamento Europeo y del Consejo, de 9 de marzo de 2016, las explotaciones deberán estar sometidas a un plan de visitas zoosanitarias. Dichas visitas sanitarias serán realizadas por el veterinario de explotación y su frecuencia será proporcional al nivel de riesgo del establecimiento, que se determinará por la autoridad competente basándose en los criterios incluidos en el anexo III de dicho real decreto. El contenido y la frecuencia de las visitas serán los establecidos en su artículo 7, e incluirá una evaluación de los requisitos de bioseguridad y otros aspectos zoosanitarios, como el uso racional de los antimicrobianos."
-
 5\. Condiciones para garantizar el bienestar animal. Sin perjuicio de lo previsto en la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales en su explotación, transporte y sacrificio, deberán cumplirse los siguientes requisitos:
 
 a) Las explotaciones, dispondrán de instalaciones o sistemas apropiados que permitan, en la medida en que sea necesario y posible, la protección contra las inclemencias del tiempo y los depredadores.
@@ -181,26 +173,6 @@ f) Los animales deberán recibir una alimentación sana, que sea adecuada a su e
 2\. Las comunidades autónomas inscribirán en el registro las explotaciones de acuerdo a lo establecido en el Real Decreto 479/2004, de 26 de marzo, con arreglo a la clasificaciones previstas en el anexo I y harán constar los datos establecidos en el anexo II del Real Decreto 479/2004, de 26 de marzo salvo los apartados B.11 (clasificación según la forma de cría) y B.15 (capacidad máxima) de acuerdo con lo dispuesto en el apartado B de dicho anexo.
 
 En el caso de las declaraciones responsables a que se refiere el artículo 4.1, se inscribirá a las explotaciones en un plazo no superior a un mes desde la recepción de dicha declaración responsable debidamente cumplimentada en todos sus aspectos.
-
-> Téngase en cuenta que la derogación del apartado 3 establecida por la disposición derogatoria única.l) del Real Decreto 787/2023, de 17 de octubre, [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499), entra en vigor el 2 de enero de 2024, según determina su disposición final 8.
-
-> Redacción anterior:
-
-> "3. Los titulares de las explotaciones equinas, salvo centros de concentración, mataderos y todas aquellas que no alojen o alberguen animales de forma permanente, además de cumplir con las obligaciones previstas en el artículo 4 del Real Decreto 479/2004, de 26 de marzo, deberán suministrar a la autoridad competente, antes del 1 de marzo de cada año, el censo de animales mantenidos en su explotación, a 31 de diciembre del año anterior, de acuerdo a las siguientes categorías de animales:
-
-> Número de animales con menos de 6 meses.
-
-> Número de animales mayores de 6 meses y menores de 12 meses.
-
-> Número de animales mayores de 12 meses y menores de 36 meses.
-
-> Número de animales mayores de 36 meses.
-
-> Número de sementales.
-
-> Número de hembras de vientre.
-
-> Número de no reproductores."
 
 > Se deroga el apartado 3, con efectos de 2 de enero de 2024, por la disposición derogatoria única.l) del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
 
@@ -233,12 +205,6 @@ b) Sean inmediatamente accesibles para la autoridad competente, a petición de �
 El titular de explotación de las explotaciones velará porque la visita zoosanitaria se realice de acuerdo con los artículos 4 y 5 del Real Decreto 346/2025, de 22 de abril.
 
 El titular de la explotación puede disponer voluntariamente de un profesional veterinario de explotación de acuerdo con lo establecido en los artículos 7 y 8 del Real Decreto 346/2025, de 22 de abril.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por la disposición final 5.2 del Real Decreto 346/2025, de 22 de abril, [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160), entra en vigor el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "3. Quien tenga la condición de titular de la explotación designará una persona que ejerza de veterinario de explotación, conforme al artículo 3 y la disposición transitoria primera apartado 2 del Real Decreto 364/2023, de 16 de mayo, que tendrá las funciones y obligaciones recogidas en su artículo 4, y será el encargado de asesorar e informar al titular de la explotación sobre las obligaciones y requisitos del presente real decreto en materia de bioseguridad, higiene, sanidad y bienestar animal y uso responsable de antimicrobianos."
 
 > Se modifica el apartado 3, con efectos desde el 1 de junio de 2025, por la disposición final 5.2 del Real Decreto 346/2025, de 22 de abril. [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160)
 
@@ -397,12 +363,6 @@ Las explotaciones equinas, se clasificarán y registrarán según los siguientes
 2.2.10 Pastos: aquellas explotaciones que albergan Équidos de forma permanente u ocasional para el aprovechamiento mediante pastoreo de las producciones vegetales naturales o sembradas del terreno, y declaradas como tal por la autoridad competente.
 
 2.2.11 Explotaciones silvestres o semisilvestres de équidos: explotaciones donde se alojen poblaciones definidas de équidos que vivan en condiciones silvestres o semisilvestres y que estén localizadas en determinadas áreas, incluidos espacios naturales protegidos, espacios protegidos u otro tipo de áreas naturales, incluyendo zonas de montaña donde se crían en condiciones de libertad aquellos équidos, siempre y cuando no abandonen dichas áreas.
-
-> Téngase en cuenta que esta última actualización del apartado 2.2.11 establecida por la disposición final 4 del Real Decreto 787/2023, de 17 de octubre, [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499), entra en vigor el 2 de enero de 2024, según determina su disposición final 8.
-
-> Redacción anterior:
-
-> "2.2.11 Explotaciones (poblaciones o áreas) de caballos silvestres o semisilvestres: aquellas determinadas de acuerdo con el artículo 11 del Real Decreto 1515/2009, de 2 de octubre."
 
 2.2.12 Centros de acogida o recogida de équidos abandonados.
 

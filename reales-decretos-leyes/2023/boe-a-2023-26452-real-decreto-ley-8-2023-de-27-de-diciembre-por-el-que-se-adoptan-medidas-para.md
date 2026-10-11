@@ -2179,90 +2179,84 @@ No obstante, la cuantía de la asignación económica será en cómputo anual de
 
 2024
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Integrantes del hogar</th>
-<th class="cabeza_tabla" rowspan="2">Intervalo de ingresos</th>
-<th class="cabeza_tabla" rowspan="2">Asignación integra anual</th>
+<th colspan="2">Integrantes del hogar</th>
+<th rowspan="2">Intervalo de ingresos</th>
+<th rowspan="2">Asignación integra anual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Personas ≥ 14 años</p>
-<p class="cabeza_tabla">(M)</p>
+<th>
+<p>Personas ≥ 14 años</p>
+<p>(M)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Personas &lt; 14 años</p>
-<p class="cabeza_tabla">(N)</p>
+<th>
+<p>Personas &lt; 14 años</p>
+<p>(N)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">5.530 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>1</td>
+<td>5.530 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">6.805 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>2</td>
+<td>6.805 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">8.080 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>1</td>
+<td>3</td>
+<td>8.080 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">7.655 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>1</td>
+<td>7.655 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">8.930 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>2</td>
+<td>8.930 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">10.206 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>2</td>
+<td>3</td>
+<td>10.206 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">9.782 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>1</td>
+<td>9.782 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">11.057 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>2</td>
+<td>11.057 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">12.331 o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>3</td>
+<td>3</td>
+<td>12.331 o menos.</td>
+<td>637,92 x H</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_izq">4.253 + [(4.253 x 0,5 x (M-1)) + (4.253 x 0,3 x N)] o menos.</td>
-<td class="cuerpo_tabla_centro">637,92 x H</td>
+<td>M</td>
+<td>N</td>
+<td>4.253 + [(4.253 x 0,5 x (M-1)) + (4.253 x 0,3 x N)] o menos.</td>
+<td>637,92 x H</td>
 </tr>
 </tbody>
 </table>
@@ -3128,163 +3122,148 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
 Demarcación hidrográfica del Guadiana:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="65%">
-<col width="25%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Medida del plan hidrológico relacionada con la actuación</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Presupuesto indicativo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Denominación</th>
+<th>Medida del plan hidrológico relacionada con la actuación</th>
+<th>
+<p>Presupuesto indicativo</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Mejora de los abastecimientos dependientes del embalse de la Cabezuela.</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">3.000.000</td>
+<td>Mejora de los abastecimientos dependientes del embalse de la Cabezuela.</td>
+<td>No prevista.</td>
+<td>3.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Total.</td>
-<td class="cuerpo_tabla_centro">3.000.000</td>
+<td colspan="2"> Total.</td>
+<td>3.000.000</td>
 </tr>
 </tbody>
 </table>
 
 Demarcación hidrográfica del Guadalquivir:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="65%">
-<col width="25%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Medida del plan hidrológico relacionada con la actuación</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Presupuesto indicativo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Denominación</th>
+<th>Medida del plan hidrológico relacionada con la actuación</th>
+<th>
+<p>Presupuesto indicativo</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Mejora del tratamiento de potabilización del agua en los sistemas de abastecimiento de Sevilla y otros por el empeoramiento de la calidad de los recursos almacenados debido a las bajas reservas por la sequía:</p>
-<p class="cuerpo_tabla_izq">– Adecuación y puesta en marcha de la preozonización en la ETAP del Carambolo (EMASESA).</p>
-<p class="cuerpo_tabla_izq">– Instalación preozonización en la ETAP de Chimeneas (Consorcio de Aguas del Huesna).</p>
-<p class="cuerpo_tabla_izq">– Mejora del tratamiento de los efluentes en la ETAP de Salteras (ALJARAFESA).</p>
-<p class="cuerpo_tabla_izq">– Instalación de tratamiento de ozonización en la ETAP del Consorcio de Aguas del Plan Écija.</p>
+<td>
+<p>Mejora del tratamiento de potabilización del agua en los sistemas de abastecimiento de Sevilla y otros por el empeoramiento de la calidad de los recursos almacenados debido a las bajas reservas por la sequía:</p>
+<p>– Adecuación y puesta en marcha de la preozonización en la ETAP del Carambolo (EMASESA).</p>
+<p>– Instalación preozonización en la ETAP de Chimeneas (Consorcio de Aguas del Huesna).</p>
+<p>– Mejora del tratamiento de los efluentes en la ETAP de Salteras (ALJARAFESA).</p>
+<p>– Instalación de tratamiento de ozonización en la ETAP del Consorcio de Aguas del Plan Écija.</p>
 </td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">11.100.000</p>
-<p class="cuerpo_tabla_centro">(3.700.000)</p>
-<p class="cuerpo_tabla_centro">(2.600.000)</p>
-<p class="cuerpo_tabla_centro">(2.000.000)</p>
-<p class="cuerpo_tabla_centro">(2.800.000)</p>
+<td>No prevista.</td>
+<td>
+<p>11.100.000</p>
+<p>(3.700.000)</p>
+<p>(2.600.000)</p>
+<p>(2.000.000)</p>
+<p>(2.800.000)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Limpieza de urgencia del área de captación de agua de la zona regable de Genil-Cabra. TM de Puente Genil (Córdoba).</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">1.000.000</td>
+<td>Limpieza de urgencia del área de captación de agua de la zona regable de Genil-Cabra. TM de Puente Genil (Córdoba).</td>
+<td>No prevista.</td>
+<td>1.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Suministro de bombas de emergencia e implantación de tratamiento de ozonización para abastecimiento del sistema Quiebrajano (Jaén).</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">1.650.000</td>
+<td>Suministro de bombas de emergencia e implantación de tratamiento de ozonización para abastecimiento del sistema Quiebrajano (Jaén).</td>
+<td>No prevista.</td>
+<td>1.650.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Monitorización de la calidad del agua embalsada, control de la población de peces y eliminación preventiva en 33 embalses destinados al abastecimiento de la población.</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">750.000</td>
+<td>Monitorización de la calidad del agua embalsada, control de la población de peces y eliminación preventiva en 33 embalses destinados al abastecimiento de la población.</td>
+<td>No prevista.</td>
+<td>750.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de órganos de desagüe de fondo para el aprovechamiento de las reservas de agua en las presas de Hornachuelos y La Bolera, y de los desagües reguladores en la presa de Puente Nuevo.</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">1.200.000</td>
+<td>Adecuación de órganos de desagüe de fondo para el aprovechamiento de las reservas de agua en las presas de Hornachuelos y La Bolera, y de los desagües reguladores en la presa de Puente Nuevo.</td>
+<td>No prevista.</td>
+<td>1.200.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reorganización de la batería de sondeos para el abastecimiento de agua a Matalascañas para reducir la presión sobre las lagunas del ámbito de Doñana. TM de Almonte (Huelva).</td>
-<td class="cuerpo_tabla_izq">ES050_3_Guadalquivir5483.</td>
-<td class="cuerpo_tabla_centro">2.500.000</td>
+<td>Reorganización de la batería de sondeos para el abastecimiento de agua a Matalascañas para reducir la presión sobre las lagunas del ámbito de Doñana. TM de Almonte (Huelva).</td>
+<td>ES050_3_Guadalquivir5483.</td>
+<td>2.500.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Adecuación de los órganos de desagüe de presas para modular el régimen de caudales medioambientales en las presas de titularidad estatal del Guadalquivir.</td>
-<td class="cuerpo_tabla_izq">ES050_3_Guadalquivir5415.</td>
-<td class="cuerpo_tabla_centro">5.400.000</td>
+<td>Adecuación de los órganos de desagüe de presas para modular el régimen de caudales medioambientales en las presas de titularidad estatal del Guadalquivir.</td>
+<td>ES050_3_Guadalquivir5415.</td>
+<td>5.400.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Total.</td>
-<td class="cuerpo_tabla_centro">23.600.000</td>
+<td colspan="2"> Total.</td>
+<td>23.600.000</td>
 </tr>
 </tbody>
 </table>
 
 Demarcación hidrográfica del Segura:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="65%">
-<col width="25%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Medida del plan hidrológico relacionada con la actuación</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Presupuesto indicativo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<th>Denominación</th>
+<th>Medida del plan hidrológico relacionada con la actuación</th>
+<th>
+<p>Presupuesto indicativo</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Acondicionamiento y mejora de las tomas de derivación de los canales del postrasvase y sus elementos de medida, y de nueva sensorización de los puntos de toma y vertido al canal del Campo de Cartagena entre los PK 24+000 y 64+000 (Murcia, Alicante y Almería).</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">2.700.000</td>
+<td>Acondicionamiento y mejora de las tomas de derivación de los canales del postrasvase y sus elementos de medida, y de nueva sensorización de los puntos de toma y vertido al canal del Campo de Cartagena entre los PK 24+000 y 64+000 (Murcia, Alicante y Almería).</td>
+<td>No prevista.</td>
+<td>2.700.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proyecto de refuerzo, estabilización y reducción de las pérdidas del Canal de Crevillente.</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">2.800.000</td>
+<td>Proyecto de refuerzo, estabilización y reducción de las pérdidas del Canal de Crevillente.</td>
+<td>No prevista.</td>
+<td>2.800.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sustitución de la lámina de EPDM de la balsa de Fuente Álamo por hormigón.</td>
-<td class="cuerpo_tabla_izq">No prevista.</td>
-<td class="cuerpo_tabla_centro">2.073.456</td>
+<td>Sustitución de la lámina de EPDM de la balsa de Fuente Álamo por hormigón.</td>
+<td>No prevista.</td>
+<td>2.073.456</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Reducción de las fugas de la toma de entrega de la presa de La Pedrera al canal del Campo de Cartagena.</td>
-<td class="cuerpo_tabla_izq">ES070_3_1844.</td>
-<td class="cuerpo_tabla_centro">1.094.324</td>
+<td>Reducción de las fugas de la toma de entrega de la presa de La Pedrera al canal del Campo de Cartagena.</td>
+<td>ES070_3_1844.</td>
+<td>1.094.324</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Obras de reparación y acondicionamiento del túnel de Los Briones en el canal de Crevillente del postrasvase Tajo-Segura. TM de Fortuna (Murcia).</td>
-<td class="cuerpo_tabla_izq">ES070_3_1930.</td>
-<td class="cuerpo_tabla_centro">651.706</td>
+<td>Obras de reparación y acondicionamiento del túnel de Los Briones en el canal de Crevillente del postrasvase Tajo-Segura. TM de Fortuna (Murcia).</td>
+<td>ES070_3_1930.</td>
+<td>651.706</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proyecto para garantizar el suministro del volumen de agua embalsado por debajo del nivel de la toma de explotación en situación de sequía prolongada mediante la adecuación del desagüe de fondo de la presa de El Cenajo. TM de Hellín (Albacete) y Moratalla (Murcia).</td>
-<td class="cuerpo_tabla_izq">ES070_3_1878.</td>
-<td class="cuerpo_tabla_centro">7.300.000</td>
+<td>Proyecto para garantizar el suministro del volumen de agua embalsado por debajo del nivel de la toma de explotación en situación de sequía prolongada mediante la adecuación del desagüe de fondo de la presa de El Cenajo. TM de Hellín (Albacete) y Moratalla (Murcia).</td>
+<td>ES070_3_1878.</td>
+<td>7.300.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Total.</td>
-<td class="cuerpo_tabla_centro">16.619.486</td>
+<td colspan="2"> Total.</td>
+<td>16.619.486</td>
 </tr>
 </tbody>
 </table>
@@ -3320,138 +3299,132 @@ Demarcación hidrográfica del Júcar:
 
 *Cuadro de cuantías mínimas de las pensiones de la modalidad contributiva para el año 2024*
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="3">Titulares</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="3">Titulares</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge: Unidad económica unipersonal</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Sin cónyuge: Unidad económica unipersonal</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge no a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge no a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Jubilación</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma">11.552,80</td>
-<td class="cuerpo_tabla_coma">10.966,20</td>
+<td>Titular con sesenta y cinco años.</td>
+<td>14.466,20</td>
+<td>11.552,80</td>
+<td>10.966,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma">10.808,00</td>
-<td class="cuerpo_tabla_coma">10.215,80</td>
+<td>Titular menor de sesenta y cinco años.</td>
+<td>14.466,20</td>
+<td>10.808,00</td>
+<td>10.215,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años procedente de gran invalidez.</td>
-<td class="cuerpo_tabla_coma">21.698,60</td>
-<td class="cuerpo_tabla_coma">17.329,20</td>
-<td class="cuerpo_tabla_coma">16.448,60</td>
+<td>Titular con sesenta y cinco años procedente de gran invalidez.</td>
+<td>21.698,60</td>
+<td>17.329,20</td>
+<td>16.448,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Incapacidad Permanente</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gran invalidez.</td>
-<td class="cuerpo_tabla_coma">21.698,60</td>
-<td class="cuerpo_tabla_coma">17.329,20</td>
-<td class="cuerpo_tabla_coma">16.448,60</td>
+<td>Gran invalidez.</td>
+<td>21.698,60</td>
+<td>17.329,20</td>
+<td>16.448,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Absoluta.</td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma">11.552,80</td>
-<td class="cuerpo_tabla_coma">10.966,20</td>
+<td>Absoluta.</td>
+<td>14.466,20</td>
+<td>11.552,80</td>
+<td>10.966,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma">11.552,80</td>
-<td class="cuerpo_tabla_coma">10.966,20</td>
+<td>Total: Titular con sesenta y cinco años.</td>
+<td>14.466,20</td>
+<td>11.552,80</td>
+<td>10.966,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Titular con edad entre sesenta y sesenta y cuatro años.</td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma">10.808,00</td>
-<td class="cuerpo_tabla_coma">10.215,80</td>
+<td>Total: Titular con edad entre sesenta y sesenta y cuatro años.</td>
+<td>14.466,20</td>
+<td>10.808,00</td>
+<td>10.215,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Total: Derivada de enfermedad común menor de sesenta años.</td>
-<td class="cuerpo_tabla_coma">8.516,20</td>
-<td class="cuerpo_tabla_coma">8.516,20</td>
-<td class="cuerpo_tabla_coma">8.443,40</td>
+<td>Total: Derivada de enfermedad común menor de sesenta años.</td>
+<td>8.516,20</td>
+<td>8.516,20</td>
+<td>8.443,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años.</td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma">11.552,80</td>
-<td class="cuerpo_tabla_coma">10.966,20</td>
+<td>Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años.</td>
+<td>14.466,20</td>
+<td>11.552,80</td>
+<td>10.966,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Viudedad</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con cargas familiares.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">14.466,20</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con cargas familiares.</td>
+<td> </td>
+<td>14.466,20</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65 por 100.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">11.552,80</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con sesenta y cinco años o con discapacidad en grado igual o superior al 65 por 100.</td>
+<td> </td>
+<td>11.552,80</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">10.808,00</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con edad entre sesenta y sesenta y cuatro años.</td>
+<td> </td>
+<td>10.808,00</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Titular con menos de sesenta años.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma">8.752,80</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>Titular con menos de sesenta años.</td>
+<td> </td>
+<td>8.752,80</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -3484,50 +3457,44 @@ Límite de ingresos para el reconocimiento de cuantías mínimas de pensión:
 
 Durante 2024 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, en los importes siguientes:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de pensión</th>
-<th class="cabeza_tabla" colspan="3">Importe</th>
+<th rowspan="2">Clase de pensión</th>
+<th colspan="3">Importe</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sin cónyuge: unidad económica unipersonal</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Sin cónyuge: unidad económica unipersonal</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Con cónyuge no a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros/año</p>
+<th>
+<p>Con cónyuge no a cargo</p>
+<p>–</p>
+<p>Euros/año</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión de jubilación o retiro.</td>
-<td class="cuerpo_tabla_centro">14.466,20</td>
-<td class="cuerpo_tabla_centro">11.552,80</td>
-<td class="cuerpo_tabla_centro">10.966,20</td>
+<td>Pensión de jubilación o retiro.</td>
+<td>14.466,20</td>
+<td>11.552,80</td>
+<td>10.966,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión de viudedad.</td>
-<td class="cuerpo_tabla_centro" colspan="3">11.552,80</td>
+<td>Pensión de viudedad.</td>
+<td colspan="3">11.552,80</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</td>
-<td class="cuerpo_tabla_centro" colspan="3">11.261,60/n</td>
+<td>Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</td>
+<td colspan="3">11.261,60/n</td>
 </tr>
 </tbody>
 </table>

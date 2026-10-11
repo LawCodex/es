@@ -1378,12 +1378,6 @@ d) Cuando suponga el incumplimiento de las condiciones impuestas a las actuacion
 
 3\. Los aprovechamientos de los recursos forestales, los servicios y las actividades previstos en un instrumento de ordenación o de gestión aprobado por la Administración forestal no necesitan de autorización para su ejecución, por lo que será suficiente una declaración responsable previa a su inicio, con arreglo a lo dispuesto por el artículo 81.3.
 
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por la disposición final 10.3 de la Ley 5/2017, de 19 de octubre, [Ref. BOE-A-2017-12949](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12949), tendrá efectos desde el 26 de abril de 2018 en lo relativo a los aprovechamientos madereros de carácter comercial, según determina su disposición final 16.
-
-> Redacción anterior:
-
-> "3. Los aprovechamientos de los recursos forestales, los servicios o las actividades contemplados en un instrumento de ordenación o gestión aprobado por la Administración forestal no necesitan de autorización para su ejecución, bastando una notificación previa, con arreglo al artículo 81.3".
-
 4\. La Administración forestal podrá efectuar las inspecciones, controles y reconocimientos que estime convenientes, tanto durante la realización del aprovechamiento o del suministro del servicio como una vez finalizado el mismo.
 
 > Se modifica el apartado 3 por la disposición final 10.3 de la Ley 5/2017, de 19 de octubre. [Ref. BOE-A-2017-12949](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12949)
@@ -1737,12 +1731,6 @@ La Administración forestal impulsará y creará las mesas sectoriales que estim
 2\. Los operadores inscritos en sistemas que incluyan la verificación de conformidad de un tercero independiente de la gestión forestal sostenible, tales como los procesos de certificación forestal y cadena de custodia, o aquellos inscritos en el Registro de Empresas del Sector Forestal, se entenderá que disponen de un sistema de due diligence para la evaluación y minimización de riesgo de entrada en los mercados de madera y productos de madera procedentes de talas ilegales.
 
 3\. A tal fin, la Administración forestal mantendrá un sistema de supervisión basado en el control y seguimiento del origen de los aprovechamientos madereros que se realicen en Galicia, mediante la información suministrada por las autorizaciones y las declaraciones responsables previstas en los artículos 92 y 92 bis. Asimismo, mediante el Registro de Empresas del Sector Forestal, la Administración forestal podrá realizar los controles oficiales pertinentes a las empresas de aprovechamiento y comercialización de la madera y de los productos de la madera, evaluando los riesgos y proponiendo acciones correctivas cuando fuese necesario.
-
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por la disposición final 10.8 de la Ley 5/2017, de 19 de octubre, [Ref. BOE-A-2017-12949](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12949), tendrá efectos desde el 26 de abril de 2018 en lo relativo a los aprovechamientos madereros de carácter comercial, según determina su disposición final 16.
-
-> Redacción anterior:
-
-> "3. A tal fin, la Administración forestal mantendrá un sistema de supervisión basado en el control y seguimiento del origen de los aprovechamientos madereros que se realicen en Galicia, mediante la información suministrada por las comunicaciones y autorizaciones dispuestas en los artículos 92, 93 y 94 de la presente ley. Asimismo, mediante el Registro de Empresas del Sector Forestal, la Administración forestal podrá realizar los controles oficiales pertinentes a las empresas de aprovechamiento y comercialización de la madera y productos de la madera, evaluando los riesgos y proponiendo acciones correctivas cuando fuese necesario.".
 
 4\. La Xunta de Galicia, mediante campañas de divulgación, fomentará el consumo responsable de los productos forestales.
 
@@ -2941,8 +2929,6 @@ Las autorizaciones otorgadas al amparo de esta ley se entenderán concedidas, en
 ##### Disposición adicional sexta. Convenios con las asociaciones del sector forestal.
 
 Al objeto de alcanzar una completa racionalización administrativa en la tramitación de las solicitudes de aprovechamientos forestales, se formalizarán convenios tanto con las asociaciones de profesionales del sector como con las de personas propietarias forestales, a fin de lograr una mayor agilidad en la consecución de las autorizaciones y que se aminoren lo máximo posible las cargas, tanto las administrativas como las de carácter económico.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 10.10 de la Ley 5/2017, de 19 de octubre, [Ref. BOE-A-2017-12949](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12949), tendrá efectos desde el 26 de abril de 2018 en lo relativo a los aprovechamientos madereros de carácter comercial, según determina su disposición final 16.
 
 > Se añade por la disposición final 10.10 de la Ley 5/2017, de 19 de octubre. [Ref. BOE-A-2017-12949](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12949)
 

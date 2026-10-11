@@ -2739,62 +2739,52 @@ Constituye el hecho imponible la evaluación del programa de garantía de calida
 
 El importe de la cuota (en euros) es:
 
-<table class="tabla">
-<colgroup>
-<col width="70%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Tipo de centro</th>
+<th rowspan="2"> </th>
+<th colspan="2">Tipo de centro</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Hospitales</th>
-<th class="cabeza_tabla">Otros centros</th>
+<th>Hospitales</th>
+<th>Otros centros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Unidades asistenciales de medicina nuclear (U.87).</td>
-<td class="cuerpo_tabla_coma">143,84</td>
-<td class="cuerpo_tabla_coma">86,34</td>
+<td>Unidades asistenciales de medicina nuclear (U.87).</td>
+<td>143,84</td>
+<td>86,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Unidades asistenciales de radioterapia (U.86).</td>
-<td class="cuerpo_tabla_coma">143,84</td>
-<td class="cuerpo_tabla_coma">86,34</td>
+<td>Unidades asistenciales de radioterapia (U.86).</td>
+<td>143,84</td>
+<td>86,34</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Unidades asistenciales de radiodiagnóstico (U.88).</td>
-<td class="cuerpo_tabla_coma">143,84</td>
-<td class="cuerpo_tabla_coma">86,34</td>
+<td>Unidades asistenciales de radiodiagnóstico (U.88).</td>
+<td>143,84</td>
+<td>86,34</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="70%">
-<col width="15%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="2">Tipo de unidad</th>
+<th rowspan="2"> </th>
+<th colspan="2">Tipo de unidad</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Compleja</th>
-<th class="cabeza_tabla">Simple</th>
+<th>Compleja</th>
+<th>Simple</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Unidades que cuenten con equipos de rayos x, pero sin oferta asistencial de radiodiagnóstico.</td>
-<td class="cuerpo_tabla_coma">86,34</td>
-<td class="cuerpo_tabla_coma">57,56</td>
+<td>Unidades que cuenten con equipos de rayos x, pero sin oferta asistencial de radiodiagnóstico.</td>
+<td>86,34</td>
+<td>57,56</td>
 </tr>
 </tbody>
 </table>
@@ -3099,37 +3089,31 @@ Los sujetos pasivos sustitutos designados en este precepto quedarán solidariame
 
 5.1 Por cada pasajero o pasajera (euros):
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="3">Categoría de pasaje</th>
+<th> </th>
+<th colspan="3">Categoría de pasaje</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Clase de tráfico</th>
-<th class="cabeza_tabla">Bloque III</th>
-<th class="cabeza_tabla">Bloque II</th>
-<th class="cabeza_tabla">Bloque I</th>
+<th>Clase de tráfico</th>
+<th>Bloque III</th>
+<th>Bloque II</th>
+<th>Bloque I</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Bahía o local.</td>
-<td class="cuerpo_tabla_coma">0,032343</td>
-<td class="cuerpo_tabla_coma">0,064685</td>
-<td class="cuerpo_tabla_coma">0,064685</td>
+<td>Bahía o local.</td>
+<td>0,032343</td>
+<td>0,064685</td>
+<td>0,064685</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cabotaje europeo o exterior.</td>
-<td class="cuerpo_tabla_coma">1,629112</td>
-<td class="cuerpo_tabla_coma">4,187584</td>
-<td class="cuerpo_tabla_coma">7,784752</td>
+<td>Cabotaje europeo o exterior.</td>
+<td>1,629112</td>
+<td>4,187584</td>
+<td>7,784752</td>
 </tr>
 </tbody>
 </table>
@@ -4518,36 +4502,30 @@ Los sujetos pasivos sustitutos designados en este precepto quedaran solidariamen
 
 5.1 Por cada pasajero o pasajera (euros):
 
-<table class="tabla">
-<colgroup>
-<col width="49%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Clase de tráfico</th>
-<th class="cabeza_tabla" colspan="3">Categoría de pasaje</th>
+<th rowspan="2">Clase de tráfico</th>
+<th colspan="3">Categoría de pasaje</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Bloque III</th>
-<th class="cabeza_tabla">Bloque II</th>
-<th class="cabeza_tabla">Bloque I</th>
+<th>Bloque III</th>
+<th>Bloque II</th>
+<th>Bloque I</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">BAHÍA O LOCAL.</td>
-<td class="cuerpo_tabla_centro">0,032352</td>
-<td class="cuerpo_tabla_centro">0,064704</td>
-<td class="cuerpo_tabla_centro">0,064704</td>
+<td>BAHÍA O LOCAL.</td>
+<td>0,032352</td>
+<td>0,064704</td>
+<td>0,064704</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CABOTAJE EUROPEO O EXTERIOR.</td>
-<td class="cuerpo_tabla_centro">1,629589</td>
-<td class="cuerpo_tabla_centro">4,188810</td>
-<td class="cuerpo_tabla_centro">7,787030</td>
+<td>CABOTAJE EUROPEO O EXTERIOR.</td>
+<td>1,629589</td>
+<td>4,188810</td>
+<td>7,787030</td>
 </tr>
 </tbody>
 </table>
@@ -4582,2890 +4560,2881 @@ Vitoria-Gasteiz, 31 de marzo de 2025.–El Lehendakari, Imanol Pradales Gil.
 
 ## ANEXO — Tarifa de la tasa por prestación de servicios del laboratorio de control de calidad de la edificación
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">Materiales</th>
-<th class="cabeza_tabla">Muestra</th>
-<th class="cabeza_tabla">Normas</th>
-<th class="cabeza_tabla">Euros</th>
+<th> </th>
+<th> </th>
+<th colspan="2">Materiales</th>
+<th>Muestra</th>
+<th>Normas</th>
+<th>Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_coma">1</td>
-<td class="cuerpo_tabla_centro"> (_A) </td>
-<td class="cuerpo_tabla_izq" colspan="4">AGLOMERANTES, ADITIVOS Y ADHESIVOS.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1</td>
+<td> (_A) </td>
+<td colspan="4">AGLOMERANTES, ADITIVOS Y ADHESIVOS.</td>
+<td> </td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_centro"> (_AC) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CEMENTOS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<tr>
+<td>2</td>
+<td> (_AC) </td>
+<td colspan="2">CEMENTOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_centro"> (_AC01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Toma de muestra de cemento.</td>
-<td class="cuerpo_tabla_centro">16 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1967:2008</td>
-<td class="cuerpo_tabla_coma">17,11</td>
+<tr>
+<td>3</td>
+<td> (_AC01) </td>
+<td colspan="2">Toma de muestra de cemento.</td>
+<td>16 kg</td>
+<td>UNE-EN 1967:2008</td>
+<td>17,11</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_centro"> (_AC02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de resistencias mecánicas. Una edad.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16 cm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-1:2005</td>
-<td class="cuerpo_tabla_coma">89,54</td>
+<tr>
+<td>4</td>
+<td> (_AC02) </td>
+<td colspan="2">Determinación de resistencias mecánicas. Una edad.</td>
+<td>3 probetas de 4x4x16 cm</td>
+<td>UNE-EN 196-1:2005</td>
+<td>89,54</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">5</td>
-<td class="cuerpo_tabla_centro"> (_AC03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Finura de molido.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-6:2010</td>
-<td class="cuerpo_tabla_coma">60,10</td>
+<tr>
+<td>5</td>
+<td> (_AC03) </td>
+<td colspan="2">Finura de molido.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-6:2010</td>
+<td>60,10</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">6</td>
-<td class="cuerpo_tabla_centro"> (_AC04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Humedad.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE 80220:2000</td>
-<td class="cuerpo_tabla_coma">17,11</td>
+<tr>
+<td>6</td>
+<td> (_AC04) </td>
+<td colspan="2">Humedad.</td>
+<td>8 kg</td>
+<td>UNE 80220:2000</td>
+<td>17,11</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">7</td>
-<td class="cuerpo_tabla_centro"> (_AC05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Tiempo de fraguado.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-3:2005; UNE-EN 196-3:2005/A1:2009</td>
-<td class="cuerpo_tabla_coma">85,96</td>
+<tr>
+<td>7</td>
+<td> (_AC05) </td>
+<td colspan="2">Tiempo de fraguado.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-3:2005; UNE-EN 196-3:2005/A1:2009</td>
+<td>85,96</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_centro"> (_AC06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Estabilidad de volumen (Le Chatelier).</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-3:2005; UNE-EN 196-3:2005/A1:2009</td>
-<td class="cuerpo_tabla_coma">72,51</td>
+<tr>
+<td>8</td>
+<td> (_AC06) </td>
+<td colspan="2">Estabilidad de volumen (Le Chatelier).</td>
+<td>8 kg</td>
+<td>UNE-EN 196-3:2005; UNE-EN 196-3:2005/A1:2009</td>
+<td>72,51</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">9</td>
-<td class="cuerpo_tabla_centro"> (_AC07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Pérdida por calcinación.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-2:1996</td>
-<td class="cuerpo_tabla_coma">67,90</td>
+<tr>
+<td>9</td>
+<td> (_AC07) </td>
+<td colspan="2">Pérdida por calcinación.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-2:1996</td>
+<td>67,90</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_centro"> (_AC08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de sulfatos Método gravimétrico.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-2:2006</td>
-<td class="cuerpo_tabla_coma">146,33</td>
+<tr>
+<td>10</td>
+<td> (_AC08) </td>
+<td colspan="2">Determinación de sulfatos Método gravimétrico.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-2:2006</td>
+<td>146,33</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">11</td>
-<td class="cuerpo_tabla_centro"> (_AC09) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de residuo insoluble en ácido clorhídrico, en carbonato sódico o en hidróxido de potasio.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-2:2006</td>
-<td class="cuerpo_tabla_coma">54,96</td>
+<tr>
+<td>11</td>
+<td> (_AC09) </td>
+<td colspan="2">Determinación de residuo insoluble en ácido clorhídrico, en carbonato sódico o en hidróxido de potasio.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-2:2006</td>
+<td>54,96</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_centro"> (_AC10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de cloruros Método volumétrico de Volhard.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-2:2006</td>
-<td class="cuerpo_tabla_coma">52,74</td>
+<tr>
+<td>12</td>
+<td> (_AC10) </td>
+<td colspan="2">Determinación de cloruros Método volumétrico de Volhard.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-2:2006</td>
+<td>52,74</td>
 </tr>
-<tr>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_centro"> (_AC11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de sulfuros.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 196-2:2006</td>
-<td class="cuerpo_tabla_coma">86,06</td>
+<tr>
+<td>13</td>
+<td> (_AC11) </td>
+<td colspan="2">Determinación de sulfuros.</td>
+<td>8 kg</td>
+<td>UNE-EN 196-2:2006</td>
+<td>86,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_centro"> (_AL) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CALES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>14</td>
+<td> (_AL) </td>
+<td colspan="2">CALES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_centro"> (_AL01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Estabilidad de volumen.</td>
-<td class="cuerpo_tabla_centro">5 kg</td>
-<td class="cuerpo_tabla_izq">UNE 7204:1962</td>
-<td class="cuerpo_tabla_coma">88,30</td>
+<td>15</td>
+<td> (_AL01) </td>
+<td colspan="2">Estabilidad de volumen.</td>
+<td>5 kg</td>
+<td>UNE 7204:1962</td>
+<td>88,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_centro"> (_AL02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Tiempos de fraguado.</td>
-<td class="cuerpo_tabla_centro">5 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 459-2:2002</td>
-<td class="cuerpo_tabla_coma">85,96</td>
+<td>16</td>
+<td> (_AL02) </td>
+<td colspan="2">Tiempos de fraguado.</td>
+<td>5 kg</td>
+<td>UNE-EN 459-2:2002</td>
+<td>85,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_centro"> (_AL03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Análisis químico (Sulfatos, sulfuros, cloruros, calcinación, residuos insolubles).</td>
-<td class="cuerpo_tabla_centro">5 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 459-2:2002 </td>
-<td class="cuerpo_tabla_coma">219,05</td>
+<td>17</td>
+<td> (_AL03) </td>
+<td colspan="2">Análisis químico (Sulfatos, sulfuros, cloruros, calcinación, residuos insolubles).</td>
+<td>5 kg</td>
+<td>UNE-EN 459-2:2002 </td>
+<td>219,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">18</td>
-<td class="cuerpo_tabla_centro"> (_AL04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Finura de molido.</td>
-<td class="cuerpo_tabla_centro">5 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 459-2:2002 </td>
-<td class="cuerpo_tabla_coma">73,56</td>
+<td>18</td>
+<td> (_AL04) </td>
+<td colspan="2">Finura de molido.</td>
+<td>5 kg</td>
+<td>UNE-EN 459-2:2002 </td>
+<td>73,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_centro"> (_AL05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la humedad.</td>
-<td class="cuerpo_tabla_centro">5 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 459-2:2002 </td>
-<td class="cuerpo_tabla_coma">21,50</td>
+<td>19</td>
+<td> (_AL05) </td>
+<td colspan="2">Determinación de la humedad.</td>
+<td>5 kg</td>
+<td>UNE-EN 459-2:2002 </td>
+<td>21,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_centro"> (_AW) </td>
-<td class="cuerpo_tabla_izq" colspan="4">AGUAS PARA HORMIGONES Y MORTEROS.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>20</td>
+<td> (_AW) </td>
+<td colspan="4">AGUAS PARA HORMIGONES Y MORTEROS.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">21</td>
-<td class="cuerpo_tabla_centro"> (_AW01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Toma de muestra de agua.</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 83951:2008</td>
-<td class="cuerpo_tabla_coma">49,56</td>
+<td>21</td>
+<td> (_AW01) </td>
+<td colspan="2">Toma de muestra de agua.</td>
+<td>5 litros</td>
+<td>UNE 83951:2008</td>
+<td>49,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">22</td>
-<td class="cuerpo_tabla_centro"> (_AW02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Exponente de hidrógeno (pH).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 83952:2008</td>
-<td class="cuerpo_tabla_coma">30,63</td>
+<td>22</td>
+<td> (_AW02) </td>
+<td colspan="2">Exponente de hidrógeno (pH).</td>
+<td>5 litros</td>
+<td>UNE 83952:2008</td>
+<td>30,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_centro"> (_AW03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Sustancias solubles (cuantitativo).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 83957:2008</td>
-<td class="cuerpo_tabla_coma">34,19</td>
+<td>23</td>
+<td> (_AW03) </td>
+<td colspan="2">Sustancias solubles (cuantitativo).</td>
+<td>5 litros</td>
+<td>UNE 83957:2008</td>
+<td>34,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">24</td>
-<td class="cuerpo_tabla_centro"> (_AW04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Sulfatos en SO<sub>4</sub><sup>=</sup> (cuantitativo).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 83956:2008</td>
-<td class="cuerpo_tabla_coma">124,35</td>
+<td>24</td>
+<td> (_AW04) </td>
+<td colspan="2">Sulfatos en SO<sub>4</sub><sup>=</sup> (cuantitativo).</td>
+<td>5 litros</td>
+<td>UNE 83956:2008</td>
+<td>124,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_centro"> (_AW05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Ion cloro, en Cl¯ (cuantitativo).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 7178:1960 </td>
-<td class="cuerpo_tabla_coma">35,77</td>
+<td>25</td>
+<td> (_AW05) </td>
+<td colspan="2">Ion cloro, en Cl¯ (cuantitativo).</td>
+<td>5 litros</td>
+<td>UNE 7178:1960 </td>
+<td>35,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">26</td>
-<td class="cuerpo_tabla_centro"> (_AW06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Hidratos de carbono (cualitativo).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 7132:1958 </td>
-<td class="cuerpo_tabla_coma">26,88</td>
+<td>26</td>
+<td> (_AW06) </td>
+<td colspan="2">Hidratos de carbono (cualitativo).</td>
+<td>5 litros</td>
+<td>UNE 7132:1958 </td>
+<td>26,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_centro"> (_AW07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aceites y grasas (cualitativo).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 7235:1971 </td>
-<td class="cuerpo_tabla_coma">25,43</td>
+<td>27</td>
+<td> (_AW07) </td>
+<td colspan="2">Aceites y grasas (cualitativo).</td>
+<td>5 litros</td>
+<td>UNE 7235:1971 </td>
+<td>25,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">28</td>
-<td class="cuerpo_tabla_centro"> (_AW08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aceites y grasas (cuantitativo).</td>
-<td class="cuerpo_tabla_centro">5 litros</td>
-<td class="cuerpo_tabla_izq">UNE 7235:1971 </td>
-<td class="cuerpo_tabla_coma">56,95</td>
+<td>28</td>
+<td> (_AW08) </td>
+<td colspan="2">Aceites y grasas (cuantitativo).</td>
+<td>5 litros</td>
+<td>UNE 7235:1971 </td>
+<td>56,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">29</td>
-<td class="cuerpo_tabla_centro"> (_AY) </td>
-<td class="cuerpo_tabla_izq" colspan="2">YESOS Y ESCAYOLAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>29</td>
+<td> (_AY) </td>
+<td colspan="2">YESOS Y ESCAYOLAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">30</td>
-<td class="cuerpo_tabla_centro"> (_AY01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Toma de muestras y fabricación de 3 probetas de 4x4x16cm.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">37,13</td>
+<td>30</td>
+<td> (_AY01) </td>
+<td colspan="2">Toma de muestras y fabricación de 3 probetas de 4x4x16cm.</td>
+<td>8 kg</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>37,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">31</td>
-<td class="cuerpo_tabla_centro"> (_AY02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Agua combinada.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE 102032:1999 </td>
-<td class="cuerpo_tabla_coma">47,88</td>
+<td>31</td>
+<td> (_AY02) </td>
+<td colspan="2">Agua combinada.</td>
+<td>8 kg</td>
+<td>UNE 102032:1999 </td>
+<td>47,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">32</td>
-<td class="cuerpo_tabla_centro"> (_AY03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Índice de pureza.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE 102032:1999 </td>
-<td class="cuerpo_tabla_coma">197,10</td>
+<td>32</td>
+<td> (_AY03) </td>
+<td colspan="2">Índice de pureza.</td>
+<td>8 kg</td>
+<td>UNE 102032:1999 </td>
+<td>197,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">33</td>
-<td class="cuerpo_tabla_centro"> (_AY04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de pH.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE 102032:1999 </td>
-<td class="cuerpo_tabla_coma">41,79</td>
+<td>33</td>
+<td> (_AY04) </td>
+<td colspan="2">Determinación de pH.</td>
+<td>8 kg</td>
+<td>UNE 102032:1999 </td>
+<td>41,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">34</td>
-<td class="cuerpo_tabla_centro"> (_AY05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Finura de molido.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">47,75</td>
+<td>34</td>
+<td> (_AY05) </td>
+<td colspan="2">Finura de molido.</td>
+<td>8 kg</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>47,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">35</td>
-<td class="cuerpo_tabla_centro"> (_AY06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16 cm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">61,44</td>
+<td>35</td>
+<td> (_AY06) </td>
+<td colspan="2">Resistencia a la flexión.</td>
+<td>3 probetas de 4x4x16 cm</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>61,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_centro"> (_AY07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Tiempos de fraguado.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">85,96</td>
+<td>36</td>
+<td> (_AY07) </td>
+<td colspan="2">Tiempos de fraguado.</td>
+<td>8 kg</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>85,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">37</td>
-<td class="cuerpo_tabla_centro"> (_AY08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Relación agua / yeso correspondiente al amasado a saturación. Método de la mesa de sacudidas.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">83,41</td>
+<td>37</td>
+<td> (_AY08) </td>
+<td colspan="2">Relación agua / yeso correspondiente al amasado a saturación. Método de la mesa de sacudidas.</td>
+<td>8 kg</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>83,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">38</td>
-<td class="cuerpo_tabla_centro"> (_AY09) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Trióxido de azufre (SO3).</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE 102032:1999 </td>
-<td class="cuerpo_tabla_coma">149,25</td>
+<td>38</td>
+<td> (_AY09) </td>
+<td colspan="2">Trióxido de azufre (SO3).</td>
+<td>8 kg</td>
+<td>UNE 102032:1999 </td>
+<td>149,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">39</td>
-<td class="cuerpo_tabla_centro"> (_AY10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la adherencia al soporte en laboratorio.</td>
-<td class="cuerpo_tabla_centro">10 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-1:2009, UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">118,15</td>
+<td>39</td>
+<td> (_AY10) </td>
+<td colspan="2">Determinación de la adherencia al soporte en laboratorio.</td>
+<td>10 determinaciones</td>
+<td>UNE-EN 13279-1:2009, UNE-EN 13279-2:2006</td>
+<td>118,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">40</td>
-<td class="cuerpo_tabla_centro"> (_AY11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la adherencia al soporte 'in situ' (probetas taladradas por el peticionario).</td>
-<td class="cuerpo_tabla_centro">10 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-1:2009, UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">273,71</td>
+<td>40</td>
+<td> (_AY11) </td>
+<td colspan="2">Determinación de la adherencia al soporte 'in situ' (probetas taladradas por el peticionario).</td>
+<td>10 determinaciones</td>
+<td>UNE-EN 13279-1:2009, UNE-EN 13279-2:2006</td>
+<td>273,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">41</td>
-<td class="cuerpo_tabla_centro"> (_AY12) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dureza.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16cm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">100,10</td>
+<td>41</td>
+<td> (_AY12) </td>
+<td colspan="2">Dureza.</td>
+<td>3 probetas de 4x4x16cm</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>100,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">42</td>
-<td class="cuerpo_tabla_centro"> (_AY13) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dureza Shore C.</td>
-<td class="cuerpo_tabla_centro">10 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE 102031:1999 (ANULADA)</td>
-<td class="cuerpo_tabla_coma">49,07</td>
+<td>42</td>
+<td> (_AY13) </td>
+<td colspan="2">Dureza Shore C.</td>
+<td>10 determinaciones</td>
+<td>UNE 102031:1999 (ANULADA)</td>
+<td>49,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">43</td>
-<td class="cuerpo_tabla_centro"> (_AY14) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la compresión.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16cm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">78,47</td>
+<td>43</td>
+<td> (_AY14) </td>
+<td colspan="2">Resistencia a la compresión.</td>
+<td>3 probetas de 4x4x16cm</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>78,47</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">44</td>
-<td class="cuerpo_tabla_centro"> (_AY15) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">8 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13279-2:2006</td>
-<td class="cuerpo_tabla_coma">59,81</td>
+<td>44</td>
+<td> (_AY15) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>8 kg</td>
+<td>UNE-EN 13279-2:2006</td>
+<td>59,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">45</td>
-<td class="cuerpo_tabla_centro"> (_AY16) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Preparación de probetas para determinar la adherencia «in situ».</td>
-<td class="cuerpo_tabla_centro">12 testigos</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">237,15</td>
+<td>45</td>
+<td> (_AY16) </td>
+<td colspan="2">Preparación de probetas para determinar la adherencia «in situ».</td>
+<td>12 testigos</td>
+<td>Instrucciones del Laboratorio</td>
+<td>237,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">46</td>
-<td class="cuerpo_tabla_centro"> (_C) </td>
-<td class="cuerpo_tabla_izq" colspan="2">MATERIALES CERÁMICOS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>46</td>
+<td> (_C) </td>
+<td colspan="2">MATERIALES CERÁMICOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">47</td>
-<td class="cuerpo_tabla_centro"> (_CA) </td>
-<td class="cuerpo_tabla_izq" colspan="2">BALDOSAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>47</td>
+<td> (_CA) </td>
+<td colspan="2">BALDOSAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">48</td>
-<td class="cuerpo_tabla_centro"> (_CA01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales: longitud, anchura y grosor.</td>
-<td class="cuerpo_tabla_centro">10 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-2:1998; UNE-EN ISO 10545-2:1998 ERRATUM</td>
-<td class="cuerpo_tabla_coma">83,44</td>
+<td>48</td>
+<td> (_CA01) </td>
+<td colspan="2">Características dimensionales: longitud, anchura y grosor.</td>
+<td>10 baldosas</td>
+<td>UNE-EN ISO 10545-2:1998; UNE-EN ISO 10545-2:1998 ERRATUM</td>
+<td>83,44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">49</td>
-<td class="cuerpo_tabla_centro"> (_CA02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales: rectitud de los lados, ortogonalidad, curvatura y alabeo.</td>
-<td class="cuerpo_tabla_centro">10 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-2:1998; UNE-EN ISO 10545-2:1998 ERRATUM </td>
-<td class="cuerpo_tabla_coma">106,31</td>
+<td>49</td>
+<td> (_CA02) </td>
+<td colspan="2">Características dimensionales: rectitud de los lados, ortogonalidad, curvatura y alabeo.</td>
+<td>10 baldosas</td>
+<td>UNE-EN ISO 10545-2:1998; UNE-EN ISO 10545-2:1998 ERRATUM </td>
+<td>106,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_centro"> (_CA03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto superficial.</td>
-<td class="cuerpo_tabla_centro">30 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-2 1998; UNE-EN ISO 10545-2:1998 ERRATUM</td>
-<td class="cuerpo_tabla_coma">27,72</td>
+<td>50</td>
+<td> (_CA03) </td>
+<td colspan="2">Aspecto superficial.</td>
+<td>30 baldosas</td>
+<td>UNE-EN ISO 10545-2 1998; UNE-EN ISO 10545-2:1998 ERRATUM</td>
+<td>27,72</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">51</td>
-<td class="cuerpo_tabla_centro"> (_CA04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua.</td>
-<td class="cuerpo_tabla_centro">10 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-3:1997 </td>
-<td class="cuerpo_tabla_coma">70,51</td>
+<td>51</td>
+<td> (_CA04) </td>
+<td colspan="2">Absorción de agua.</td>
+<td>10 baldosas</td>
+<td>UNE-EN ISO 10545-3:1997 </td>
+<td>70,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">52</td>
-<td class="cuerpo_tabla_centro"> (_CA05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión.</td>
-<td class="cuerpo_tabla_centro">10 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-4:1998 </td>
-<td class="cuerpo_tabla_coma">142,02</td>
+<td>52</td>
+<td> (_CA05) </td>
+<td colspan="2">Resistencia a la flexión.</td>
+<td>10 baldosas</td>
+<td>UNE-EN ISO 10545-4:1998 </td>
+<td>142,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">53</td>
-<td class="cuerpo_tabla_centro"> (_CA06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la abrasión profunda Baldosas no esmaltadas.</td>
-<td class="cuerpo_tabla_centro">5 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO10545-6:1998 </td>
-<td class="cuerpo_tabla_coma">135,24</td>
+<td>53</td>
+<td> (_CA06) </td>
+<td colspan="2">Resistencia a la abrasión profunda Baldosas no esmaltadas.</td>
+<td>5 probetas</td>
+<td>UNE-EN ISO10545-6:1998 </td>
+<td>135,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">54</td>
-<td class="cuerpo_tabla_centro"> (_CA07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la abrasión superficial Baldosas esmaltadas.</td>
-<td class="cuerpo_tabla_centro">19 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO10545-7:1999 </td>
-<td class="cuerpo_tabla_coma">198,97</td>
+<td>54</td>
+<td> (_CA07) </td>
+<td colspan="2">Resistencia a la abrasión superficial Baldosas esmaltadas.</td>
+<td>19 probetas</td>
+<td>UNE-EN ISO10545-7:1999 </td>
+<td>198,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">55</td>
-<td class="cuerpo_tabla_centro"> (_CA08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dilatación térmica lineal. Probeta mecanizada por el peticionario.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-8:1997, UNE-EN ISO 10545-8:1997 ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">75,02</td>
+<td>55</td>
+<td> (_CA08) </td>
+<td colspan="2">Dilatación térmica lineal. Probeta mecanizada por el peticionario.</td>
+<td>2 probetas</td>
+<td>UNE-EN ISO 10545-8:1997, UNE-EN ISO 10545-8:1997 ERRATUM:2008</td>
+<td>75,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">56</td>
-<td class="cuerpo_tabla_centro"> (_CA09) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dilatación térmica lineal. Probeta mecanizada por el laboratorio.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-8:1997, UNE-EN ISO 10545-8:1997 ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">137,38</td>
+<td>56</td>
+<td> (_CA09) </td>
+<td colspan="2">Dilatación térmica lineal. Probeta mecanizada por el laboratorio.</td>
+<td>2 probetas</td>
+<td>UNE-EN ISO 10545-8:1997, UNE-EN ISO 10545-8:1997 ERRATUM:2008</td>
+<td>137,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">57</td>
-<td class="cuerpo_tabla_centro"> (_CA10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al choque térmico.</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-9:1997 </td>
-<td class="cuerpo_tabla_coma">135,24</td>
+<td>57</td>
+<td> (_CA10) </td>
+<td colspan="2">Resistencia al choque térmico.</td>
+<td>5 baldosas</td>
+<td>UNE-EN ISO 10545-9:1997 </td>
+<td>135,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">58</td>
-<td class="cuerpo_tabla_centro"> (_CA11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al cuarteo. Baldosas esmaltadas.</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-11:1997 </td>
-<td class="cuerpo_tabla_coma">108,14</td>
+<td>58</td>
+<td> (_CA11) </td>
+<td colspan="2">Resistencia al cuarteo. Baldosas esmaltadas.</td>
+<td>5 baldosas</td>
+<td>UNE-EN ISO 10545-11:1997 </td>
+<td>108,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">59</td>
-<td class="cuerpo_tabla_centro"> (_CA12) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la helada.</td>
-<td class="cuerpo_tabla_centro">10 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO10545-12:1997 </td>
-<td class="cuerpo_tabla_coma">261,18</td>
+<td>59</td>
+<td> (_CA12) </td>
+<td colspan="2">Resistencia a la helada.</td>
+<td>10 baldosas</td>
+<td>UNE-EN ISO10545-12:1997 </td>
+<td>261,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">60</td>
-<td class="cuerpo_tabla_centro"> (_CA13) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la dilatación por humedad.</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-10:1997 </td>
-<td class="cuerpo_tabla_coma">204,18</td>
+<td>60</td>
+<td> (_CA13) </td>
+<td colspan="2">Determinación de la dilatación por humedad.</td>
+<td>5 baldosas</td>
+<td>UNE-EN ISO 10545-10:1997 </td>
+<td>204,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">61</td>
-<td class="cuerpo_tabla_centro"> (_CA14) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia química baldosas esmaltadas (precio por cada agente químico).</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-13:1998</td>
-<td class="cuerpo_tabla_coma">37,81</td>
+<td>61</td>
+<td> (_CA14) </td>
+<td colspan="2">Resistencia química baldosas esmaltadas (precio por cada agente químico).</td>
+<td>5 baldosas</td>
+<td>UNE-EN ISO 10545-13:1998</td>
+<td>37,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_centro"> (_CA15) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia química baldosas no esmaltadas (precio por cada agente químico).</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-13:1998</td>
-<td class="cuerpo_tabla_coma">48,82</td>
+<td>62</td>
+<td> (_CA15) </td>
+<td colspan="2">Resistencia química baldosas no esmaltadas (precio por cada agente químico).</td>
+<td>5 baldosas</td>
+<td>UNE-EN ISO 10545-13:1998</td>
+<td>48,82</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">63</td>
-<td class="cuerpo_tabla_centro"> (_CA16) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la resistencia a las manchas (precio por cada agente de mancha).</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-14:1998 </td>
-<td class="cuerpo_tabla_coma">37,81</td>
+<td>63</td>
+<td> (_CA16) </td>
+<td colspan="2">Determinación de la resistencia a las manchas (precio por cada agente de mancha).</td>
+<td>5 baldosas</td>
+<td>UNE-EN ISO 10545-14:1998 </td>
+<td>37,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_centro"> (_CA17) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dureza al rayado de la superficie según Mohs.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE 67101:1985 UNE 67101-1:1992 </td>
-<td class="cuerpo_tabla_coma">35,32</td>
+<td>64</td>
+<td> (_CA17) </td>
+<td colspan="2">Dureza al rayado de la superficie según Mohs.</td>
+<td>3 baldosas</td>
+<td>UNE 67101:1985 UNE 67101-1:1992 </td>
+<td>35,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">65</td>
-<td class="cuerpo_tabla_centro"> (_CA18) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la adherencia inicial al soporte en laboratorio (probetas preparadas por el peticionario).</td>
-<td class="cuerpo_tabla_centro">10 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1015-12:2000; UNE-EN 12004:2008; PNT-M-01</td>
-<td class="cuerpo_tabla_coma">115,85</td>
+<td>65</td>
+<td> (_CA18) </td>
+<td colspan="2">Determinación de la adherencia inicial al soporte en laboratorio (probetas preparadas por el peticionario).</td>
+<td>10 determinaciones</td>
+<td>UNE-EN 1015-12:2000; UNE-EN 12004:2008; PNT-M-01</td>
+<td>115,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">66</td>
-<td class="cuerpo_tabla_centro"> (_CA19) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Preparación de probetas para adherencia en laboratorio. Corte de discos.</td>
-<td class="cuerpo_tabla_centro">15 a 20 discos Ø 50mm</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">116,24</td>
+<td>66</td>
+<td> (_CA19) </td>
+<td colspan="2">Preparación de probetas para adherencia en laboratorio. Corte de discos.</td>
+<td>15 a 20 discos Ø 50mm</td>
+<td>Instrucciones del Laboratorio</td>
+<td>116,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_centro"> (_CA20) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la adherencia inicial al soporte «in situ». (probetas preparadas por el peticionario).</td>
-<td class="cuerpo_tabla_centro">10 determinaciones</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">273,71</td>
+<td>67</td>
+<td> (_CA20) </td>
+<td colspan="2">Determinación de la adherencia inicial al soporte «in situ». (probetas preparadas por el peticionario).</td>
+<td>10 determinaciones</td>
+<td>Instrucciones del Laboratorio</td>
+<td>273,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">68</td>
-<td class="cuerpo_tabla_centro"> (_CA21) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Preparación de probetas para adherencia «in situ». Corte en paramentos horizontales y verticales.</td>
-<td class="cuerpo_tabla_centro">12 testigos de Ø 50mm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1015-12:2000; UNE-EN 12004:2008; PNT-M-01</td>
-<td class="cuerpo_tabla_coma">232,49</td>
+<td>68</td>
+<td> (_CA21) </td>
+<td colspan="2">Preparación de probetas para adherencia «in situ». Corte en paramentos horizontales y verticales.</td>
+<td>12 testigos de Ø 50mm</td>
+<td>UNE-EN 1015-12:2000; UNE-EN 12004:2008; PNT-M-01</td>
+<td>232,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">69</td>
-<td class="cuerpo_tabla_centro"> (_CA22) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento / resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>69</td>
+<td> (_CA22) </td>
+<td colspan="2">Resistencia al deslizamiento / resbalamiento en laboratorio.</td>
+<td>8 baldosas</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">70</td>
-<td class="cuerpo_tabla_centro"> (_CA23) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento / resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>70</td>
+<td> (_CA23) </td>
+<td colspan="2">Resistencia al deslizamiento / resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">71</td>
-<td class="cuerpo_tabla_centro"> (_CB) </td>
-<td class="cuerpo_tabla_izq" colspan="4">BLOQUES CERÁMICOS DE ARCILLA COCIDA.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>71</td>
+<td> (_CB) </td>
+<td colspan="4">BLOQUES CERÁMICOS DE ARCILLA COCIDA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">72</td>
-<td class="cuerpo_tabla_centro"> (_CB01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto, defectos, características geométricas y de forma, planeidad.</td>
-<td class="cuerpo_tabla_centro">10 piezas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE 136010:2000</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>72</td>
+<td> (_CB01) </td>
+<td colspan="2">Aspecto, defectos, características geométricas y de forma, planeidad.</td>
+<td>10 piezas</td>
+<td>UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE 136010:2000</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">73</td>
-<td class="cuerpo_tabla_centro"> (_CB02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a compresión.</td>
-<td class="cuerpo_tabla_centro">10 piezas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 772-1:2002</td>
-<td class="cuerpo_tabla_coma">215,38</td>
+<td>73</td>
+<td> (_CB02) </td>
+<td colspan="2">Resistencia a compresión.</td>
+<td>10 piezas</td>
+<td>UNE-EN 772-1:2002</td>
+<td>215,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">74</td>
-<td class="cuerpo_tabla_centro"> (_CB03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">10 piezas</td>
-<td class="cuerpo_tabla_izq">UNE 136010:2000; UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006; UNE-EN 772:13:2001</td>
-<td class="cuerpo_tabla_coma">54,35</td>
+<td>74</td>
+<td> (_CB03) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>10 piezas</td>
+<td>UNE 136010:2000; UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006; UNE-EN 772:13:2001</td>
+<td>54,35</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">75</td>
-<td class="cuerpo_tabla_centro"> (_CB04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Heladicidad (25 ciclos).</td>
-<td class="cuerpo_tabla_centro">6 piezas</td>
-<td class="cuerpo_tabla_izq">UNE 67048:1988 </td>
-<td class="cuerpo_tabla_coma">221,50</td>
+<td>75</td>
+<td> (_CB04) </td>
+<td colspan="2">Heladicidad (25 ciclos).</td>
+<td>6 piezas</td>
+<td>UNE 67048:1988 </td>
+<td>221,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_centro"> (_CB05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Eflorescencia.</td>
-<td class="cuerpo_tabla_centro">6 piezas</td>
-<td class="cuerpo_tabla_izq">UNE 67047:1988 </td>
-<td class="cuerpo_tabla_coma">69,03</td>
+<td>76</td>
+<td> (_CB05) </td>
+<td colspan="2">Eflorescencia.</td>
+<td>6 piezas</td>
+<td>UNE 67047:1988 </td>
+<td>69,03</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_centro"> (_CB06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de inclusiones calcáreas.</td>
-<td class="cuerpo_tabla_centro">6 piezas</td>
-<td class="cuerpo_tabla_izq">UNE 67039:1993 EX </td>
-<td class="cuerpo_tabla_coma">121,02</td>
+<td>77</td>
+<td> (_CB06) </td>
+<td colspan="2">Determinación de inclusiones calcáreas.</td>
+<td>6 piezas</td>
+<td>UNE 67039:1993 EX </td>
+<td>121,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_centro"> (_CB07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Expansión por humedad.</td>
-<td class="cuerpo_tabla_centro">6 piezas</td>
-<td class="cuerpo_tabla_izq">UNE 67036:1999 </td>
-<td class="cuerpo_tabla_coma">291,02</td>
+<td>78</td>
+<td> (_CB07) </td>
+<td colspan="2">Expansión por humedad.</td>
+<td>6 piezas</td>
+<td>UNE 67036:1999 </td>
+<td>291,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">79</td>
-<td class="cuerpo_tabla_centro"> (_CB08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de probetas para expansión por humedad.</td>
-<td class="cuerpo_tabla_centro">6 piezas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">56,32</td>
+<td>79</td>
+<td> (_CB08) </td>
+<td colspan="2">Mecanizado de probetas para expansión por humedad.</td>
+<td>6 piezas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>56,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_centro"> (_CB09) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad absoluta de la arcilla aligerada y superficie de perforaciones.</td>
-<td class="cuerpo_tabla_centro">10 piezas</td>
-<td class="cuerpo_tabla_izq">UNE 136010:2000 Y UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE-EN 772-3:1999 Y UNE-EN 772-13:2001</td>
-<td class="cuerpo_tabla_coma">72,29</td>
+<td>80</td>
+<td> (_CB09) </td>
+<td colspan="2">Densidad absoluta de la arcilla aligerada y superficie de perforaciones.</td>
+<td>10 piezas</td>
+<td>UNE 136010:2000 Y UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE-EN 772-3:1999 Y UNE-EN 772-13:2001</td>
+<td>72,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">81</td>
-<td class="cuerpo_tabla_centro"> (_CL) </td>
-<td class="cuerpo_tabla_izq" colspan="4">PIEZAS DE ARCILLA COCIDA (ALTA DENSIDAD, BAJA DENSIDAD, GRAN FORMATO, TABLEROS CERÁMICOS).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>81</td>
+<td> (_CL) </td>
+<td colspan="4">PIEZAS DE ARCILLA COCIDA (ALTA DENSIDAD, BAJA DENSIDAD, GRAN FORMATO, TABLEROS CERÁMICOS).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">82</td>
-<td class="cuerpo_tabla_centro"> (_CL01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales y de forma. Porcentaje de huecos. Planeidad de las caras.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 772-16:2001; UNE-EN 772-16:2001/A1:2006; UNE-EN 772-16:2001/A2:206; UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006; UNE-EN 772-20:2001; UNE-EN 772-20:2001/A1:2006; UNE-EN 772-3:1999</td>
-<td class="cuerpo_tabla_coma">169,00</td>
+<td>82</td>
+<td> (_CL01) </td>
+<td colspan="2">Características dimensionales y de forma. Porcentaje de huecos. Planeidad de las caras.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 772-16:2001; UNE-EN 772-16:2001/A1:2006; UNE-EN 772-16:2001/A2:206; UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006; UNE-EN 772-20:2001; UNE-EN 772-20:2001/A1:2006; UNE-EN 772-3:1999</td>
+<td>169,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">83</td>
-<td class="cuerpo_tabla_centro"> (_CL02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Volumen de mayor hueco.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 772-9:1999 y UNE-EN 772-9:1999/A1:2008</td>
-<td class="cuerpo_tabla_coma">78,98</td>
+<td>83</td>
+<td> (_CL02) </td>
+<td colspan="2">Volumen de mayor hueco.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 772-9:1999 y UNE-EN 772-9:1999/A1:2008</td>
+<td>78,98</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">84</td>
-<td class="cuerpo_tabla_centro"> (_CL03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE 67027:1984 y UNE-EN 771-1:2003 Anexo C; UNE-EN 771-1:2003/A1:2006</td>
-<td class="cuerpo_tabla_coma">55,59</td>
+<td>84</td>
+<td> (_CL03) </td>
+<td colspan="2">Absorción de agua.</td>
+<td>10 ladrillos</td>
+<td>UNE 67027:1984 y UNE-EN 771-1:2003 Anexo C; UNE-EN 771-1:2003/A1:2006</td>
+<td>55,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">85</td>
-<td class="cuerpo_tabla_centro"> (_CL04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Succión de agua.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 772-11:2001; UNE-EN 772-11:2001/A1:2006</td>
-<td class="cuerpo_tabla_coma">87,57</td>
+<td>85</td>
+<td> (_CL04) </td>
+<td colspan="2">Succión de agua.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 772-11:2001; UNE-EN 772-11:2001/A1:2006</td>
+<td>87,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">86</td>
-<td class="cuerpo_tabla_centro"> (_CL05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Eflorescencias.</td>
-<td class="cuerpo_tabla_centro">6 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE 67029:1995 EX</td>
-<td class="cuerpo_tabla_coma">59,81</td>
+<td>86</td>
+<td> (_CL05) </td>
+<td colspan="2">Eflorescencias.</td>
+<td>6 ladrillos</td>
+<td>UNE 67029:1995 EX</td>
+<td>59,81</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">87</td>
-<td class="cuerpo_tabla_centro"> (_CL06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Eflorescencias en fábrica de ladrillo a 7 y 30 días.</td>
-<td class="cuerpo_tabla_centro">18 ladrillos</td>
-<td class="cuerpo_tabla_izq">Procedimiento PCL 12</td>
-<td class="cuerpo_tabla_coma">167,90</td>
+<td>87</td>
+<td> (_CL06) </td>
+<td colspan="2">Eflorescencias en fábrica de ladrillo a 7 y 30 días.</td>
+<td>18 ladrillos</td>
+<td>Procedimiento PCL 12</td>
+<td>167,90</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">88</td>
-<td class="cuerpo_tabla_centro"> (_CL07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Heladicidad (25 ciclos).</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE 67028:1997 EX; UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006</td>
-<td class="cuerpo_tabla_coma">221,50</td>
+<td>88</td>
+<td> (_CL07) </td>
+<td colspan="2">Heladicidad (25 ciclos).</td>
+<td>10 ladrillos</td>
+<td>UNE 67028:1997 EX; UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006</td>
+<td>221,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">89</td>
-<td class="cuerpo_tabla_centro"> (_CL08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Masa.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006; ANEXO D RP 34.01</td>
-<td class="cuerpo_tabla_coma">23,88</td>
+<td>89</td>
+<td> (_CL08) </td>
+<td colspan="2">Masa.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006; ANEXO D RP 34.01</td>
+<td>23,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">90</td>
-<td class="cuerpo_tabla_centro"> (_CL09) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE-EN 772-13:2001</td>
-<td class="cuerpo_tabla_coma">53,29</td>
+<td>90</td>
+<td> (_CL09) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE-EN 772-13:2001</td>
+<td>53,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">91</td>
-<td class="cuerpo_tabla_centro"> (_CL10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad absoluta.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE-EN 772-13:2001</td>
-<td class="cuerpo_tabla_coma">73,74</td>
+<td>91</td>
+<td> (_CL10) </td>
+<td colspan="2">Densidad absoluta.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 y UNE-EN 772-13:2001</td>
+<td>73,74</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">92</td>
-<td class="cuerpo_tabla_centro"> (_CL11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a compresión.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 772-1:2002</td>
-<td class="cuerpo_tabla_coma">174,23</td>
+<td>92</td>
+<td> (_CL11) </td>
+<td colspan="2">Resistencia a compresión.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 772-1:2002</td>
+<td>174,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">93</td>
-<td class="cuerpo_tabla_centro"> (_CL12) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Comprobación de color superficial.</td>
-<td class="cuerpo_tabla_centro">10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 Procedimiento Laboratorio</td>
-<td class="cuerpo_tabla_coma">48,88</td>
+<td>93</td>
+<td> (_CL12) </td>
+<td colspan="2">Comprobación de color superficial.</td>
+<td>10 ladrillos</td>
+<td>UNE-EN 771-1:2003; UNE-EN 771-1:2003/A1:2006 Procedimiento Laboratorio</td>
+<td>48,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">94</td>
-<td class="cuerpo_tabla_centro"> (_CL13) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de inclusiones calcáreas.</td>
-<td class="cuerpo_tabla_centro">6 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE 67039:1993 EX</td>
-<td class="cuerpo_tabla_coma">121,02</td>
+<td>94</td>
+<td> (_CL13) </td>
+<td colspan="2">Determinación de inclusiones calcáreas.</td>
+<td>6 ladrillos</td>
+<td>UNE 67039:1993 EX</td>
+<td>121,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">95</td>
-<td class="cuerpo_tabla_centro"> (_CL14) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Expansión por humedad.</td>
-<td class="cuerpo_tabla_centro">6 ladrillos/10 ladrillos</td>
-<td class="cuerpo_tabla_izq">UNE 67036:1999 y UNE-EN 772-19:2001</td>
-<td class="cuerpo_tabla_coma">291,02</td>
+<td>95</td>
+<td> (_CL14) </td>
+<td colspan="2">Expansión por humedad.</td>
+<td>6 ladrillos/10 ladrillos</td>
+<td>UNE 67036:1999 y UNE-EN 772-19:2001</td>
+<td>291,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">96</td>
-<td class="cuerpo_tabla_centro"> (_CL15) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de probetas para expansión por humedad.</td>
-<td class="cuerpo_tabla_centro">6/10 ladrillos</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">56,32</td>
+<td>96</td>
+<td> (_CL15) </td>
+<td colspan="2">Mecanizado de probetas para expansión por humedad.</td>
+<td>6/10 ladrillos</td>
+<td>Instrucciones del Laboratorio</td>
+<td>56,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">97</td>
-<td class="cuerpo_tabla_centro"> (_CL16) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dilatación térmica lineal. Probetas mecanizadas por el laboratorio.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 10545-8:1997</td>
-<td class="cuerpo_tabla_coma">137,38</td>
+<td>97</td>
+<td> (_CL16) </td>
+<td colspan="2">Dilatación térmica lineal. Probetas mecanizadas por el laboratorio.</td>
+<td>2 probetas</td>
+<td>UNE-EN ISO 10545-8:1997</td>
+<td>137,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">98</td>
-<td class="cuerpo_tabla_centro"> (_CL17) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq"> UNE 67042:1988 </td>
-<td class="cuerpo_tabla_coma">105,95</td>
+<td>98</td>
+<td> (_CL17) </td>
+<td colspan="2">Resistencia a flexión.</td>
+<td>2 probetas</td>
+<td> UNE 67042:1988 </td>
+<td>105,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">99</td>
-<td class="cuerpo_tabla_centro"> (_CO) </td>
-<td class="cuerpo_tabla_izq" colspan="4">BOVEDILLAS CERÁMICAS DE ARCILLA COCIDA.</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>99</td>
+<td> (_CO) </td>
+<td colspan="4">BOVEDILLAS CERÁMICAS DE ARCILLA COCIDA.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">100</td>
-<td class="cuerpo_tabla_centro"> (_CO01) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Aspecto y características geométricas.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas.</td>
-<td class="cuerpo_tabla_izq"> UNE 67020:1999 y UNE-EN 15037-3:2010 </td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>100</td>
+<td> (_CO01) </td>
+<td colspan="2"> Aspecto y características geométricas.</td>
+<td>6 bovedillas.</td>
+<td> UNE 67020:1999 y UNE-EN 15037-3:2010 </td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">101</td>
-<td class="cuerpo_tabla_centro"> (_CO02) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Resistencia a flexión.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas.</td>
-<td class="cuerpo_tabla_izq"> UNE 67037:1999 </td>
-<td class="cuerpo_tabla_coma">108,08</td>
+<td>101</td>
+<td> (_CO02) </td>
+<td colspan="2"> Resistencia a flexión.</td>
+<td>6 bovedillas.</td>
+<td> UNE 67037:1999 </td>
+<td>108,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">102</td>
-<td class="cuerpo_tabla_centro"> (_CO03) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Resistencia a compresión de bovedillas resistentes.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas.</td>
-<td class="cuerpo_tabla_izq"> UNE 67038:1986 </td>
-<td class="cuerpo_tabla_coma">215,38</td>
+<td>102</td>
+<td> (_CO03) </td>
+<td colspan="2"> Resistencia a compresión de bovedillas resistentes.</td>
+<td>6 bovedillas.</td>
+<td> UNE 67038:1986 </td>
+<td>215,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">103</td>
-<td class="cuerpo_tabla_centro"> (_CO04) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Determinación de inclusiones calcáreas.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas.</td>
-<td class="cuerpo_tabla_izq">UNE 67039:1993 EX</td>
-<td class="cuerpo_tabla_coma">121,02</td>
+<td>103</td>
+<td> (_CO04) </td>
+<td colspan="2"> Determinación de inclusiones calcáreas.</td>
+<td>6 bovedillas.</td>
+<td>UNE 67039:1993 EX</td>
+<td>121,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">104</td>
-<td class="cuerpo_tabla_centro"> (_CO05) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Expansión por humedad.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas.</td>
-<td class="cuerpo_tabla_izq"> UNE 67036:1999 </td>
-<td class="cuerpo_tabla_coma">291,02</td>
+<td>104</td>
+<td> (_CO05) </td>
+<td colspan="2"> Expansión por humedad.</td>
+<td>6 bovedillas.</td>
+<td> UNE 67036:1999 </td>
+<td>291,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">105</td>
-<td class="cuerpo_tabla_centro"> (_CO06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de probetas para expansión por humedad.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas.</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">56,32</td>
+<td>105</td>
+<td> (_CO06) </td>
+<td colspan="2">Mecanizado de probetas para expansión por humedad.</td>
+<td>6 bovedillas.</td>
+<td>Instrucciones del Laboratorio</td>
+<td>56,32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_centro"> (_CT) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> TEJAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>106</td>
+<td> (_CT) </td>
+<td colspan="2"> TEJAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_centro"> (_CT01) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Características geométricas y defectos estructurales.</td>
-<td class="cuerpo_tabla_centro">10 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1304:2006 y UNE-EN 1024:1997</td>
-<td class="cuerpo_tabla_coma">141,27</td>
+<td>107</td>
+<td> (_CT01) </td>
+<td colspan="2"> Características geométricas y defectos estructurales.</td>
+<td>10 tejas</td>
+<td>UNE-EN 1304:2006 y UNE-EN 1024:1997</td>
+<td>141,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">108</td>
-<td class="cuerpo_tabla_centro"> (_CT02) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Permeabilidad al agua.</td>
-<td class="cuerpo_tabla_centro">10 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 539-1:2007 Método 1 ó Método 2</td>
-<td class="cuerpo_tabla_coma">171,50</td>
+<td>108</td>
+<td> (_CT02) </td>
+<td colspan="2"> Permeabilidad al agua.</td>
+<td>10 tejas</td>
+<td>UNE-EN 539-1:2007 Método 1 ó Método 2</td>
+<td>171,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">109</td>
-<td class="cuerpo_tabla_centro"> (_CT03) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Heladicidad (hasta 50 ciclos).</td>
-<td class="cuerpo_tabla_centro">13 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 539-2:2007 Método E o método C</td>
-<td class="cuerpo_tabla_coma">221,50</td>
+<td>109</td>
+<td> (_CT03) </td>
+<td colspan="2"> Heladicidad (hasta 50 ciclos).</td>
+<td>13 tejas</td>
+<td>UNE-EN 539-2:2007 Método E o método C</td>
+<td>221,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_centro"> (_CT04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Heladicidad (más de 50 ciclos).</td>
-<td class="cuerpo_tabla_centro">13 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 539-2:2007 Método E</td>
-<td class="cuerpo_tabla_coma">271,43</td>
+<td>110</td>
+<td> (_CT04) </td>
+<td colspan="2">Heladicidad (más de 50 ciclos).</td>
+<td>13 tejas</td>
+<td>UNE-EN 539-2:2007 Método E</td>
+<td>271,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">111</td>
-<td class="cuerpo_tabla_centro"> (_CT05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión.</td>
-<td class="cuerpo_tabla_centro">10 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 538:1995</td>
-<td class="cuerpo_tabla_coma">142,02</td>
+<td>111</td>
+<td> (_CT05) </td>
+<td colspan="2">Resistencia a flexión.</td>
+<td>10 tejas</td>
+<td>UNE-EN 538:1995</td>
+<td>142,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">112</td>
-<td class="cuerpo_tabla_centro"> (_CT06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Inclusiones calcáreas.</td>
-<td class="cuerpo_tabla_centro">6 tejas</td>
-<td class="cuerpo_tabla_izq">UNE 67039:1993 EX</td>
-<td class="cuerpo_tabla_coma">121,02</td>
+<td>112</td>
+<td> (_CT06) </td>
+<td colspan="2">Inclusiones calcáreas.</td>
+<td>6 tejas</td>
+<td>UNE 67039:1993 EX</td>
+<td>121,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_centro"> (_D) </td>
-<td class="cuerpo_tabla_izq" colspan="2">MADERAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>113</td>
+<td> (_D) </td>
+<td colspan="2">MADERAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">114</td>
-<td class="cuerpo_tabla_centro"> (_D1) </td>
-<td class="cuerpo_tabla_izq" colspan="3">TABLEROS DERIVADOS DE LA MADERA.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>114</td>
+<td> (_D1) </td>
+<td colspan="3">TABLEROS DERIVADOS DE LA MADERA.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">115</td>
-<td class="cuerpo_tabla_centro"> (_D101) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad.</td>
-<td class="cuerpo_tabla_centro">6 unidades</td>
-<td class="cuerpo_tabla_izq">UNE-EN 323:1994 </td>
-<td class="cuerpo_tabla_coma">45,16</td>
+<td>115</td>
+<td> (_D101) </td>
+<td colspan="2">Densidad.</td>
+<td>6 unidades</td>
+<td>UNE-EN 323:1994 </td>
+<td>45,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">116</td>
-<td class="cuerpo_tabla_centro"> (_D102) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación del contenido de humedad.</td>
-<td class="cuerpo_tabla_centro">4 unidades</td>
-<td class="cuerpo_tabla_izq">UNE-EN 322:1994 </td>
-<td class="cuerpo_tabla_coma">49,62</td>
+<td>116</td>
+<td> (_D102) </td>
+<td colspan="2">Determinación del contenido de humedad.</td>
+<td>4 unidades</td>
+<td>UNE-EN 322:1994 </td>
+<td>49,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">117</td>
-<td class="cuerpo_tabla_centro"> (_D103) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión y módulo de elasticidad en flexión.</td>
-<td class="cuerpo_tabla_centro">6 unidades</td>
-<td class="cuerpo_tabla_izq">UNE-EN 310:1994 </td>
-<td class="cuerpo_tabla_coma">90,30</td>
+<td>117</td>
+<td> (_D103) </td>
+<td colspan="2">Resistencia a flexión y módulo de elasticidad en flexión.</td>
+<td>6 unidades</td>
+<td>UNE-EN 310:1994 </td>
+<td>90,30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">118</td>
-<td class="cuerpo_tabla_centro"> (_D104) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la hinchazón en espesor después de la inmersión en agua.</td>
-<td class="cuerpo_tabla_centro">8 unidades</td>
-<td class="cuerpo_tabla_izq">UNE-EN 317:1994 </td>
-<td class="cuerpo_tabla_coma">81,26</td>
+<td>118</td>
+<td> (_D104) </td>
+<td colspan="2">Determinación de la hinchazón en espesor después de la inmersión en agua.</td>
+<td>8 unidades</td>
+<td>UNE-EN 317:1994 </td>
+<td>81,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">119</td>
-<td class="cuerpo_tabla_centro"> (_D105) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de las variaciones dimensionales originadas por los cambios de la humedad relativa.</td>
-<td class="cuerpo_tabla_centro">4 unidades</td>
-<td class="cuerpo_tabla_izq">UNE-EN 318:2002 </td>
-<td class="cuerpo_tabla_coma">162,54</td>
+<td>119</td>
+<td> (_D105) </td>
+<td colspan="2">Determinación de las variaciones dimensionales originadas por los cambios de la humedad relativa.</td>
+<td>4 unidades</td>
+<td>UNE-EN 318:2002 </td>
+<td>162,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_centro"> (_D2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">PARQUES Y LAMPARQUES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>120</td>
+<td> (_D2) </td>
+<td colspan="2">PARQUES Y LAMPARQUES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">121</td>
-<td class="cuerpo_tabla_centro"> (_D201) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones.</td>
-<td class="cuerpo_tabla_centro">3 tablillas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13647:2003 (Ensayo); UNE-EN 13227:2003 (Lamparqué macizo); UNE-EN 13488:2003 (Parqué mosaico); UNE-EN 13226:2003 (Parqué macizo con ranuras y/o lengüetas) </td>
-<td class="cuerpo_tabla_coma">44,77</td>
+<td>121</td>
+<td> (_D201) </td>
+<td colspan="2">Dimensiones.</td>
+<td>3 tablillas</td>
+<td>UNE-EN 13647:2003 (Ensayo); UNE-EN 13227:2003 (Lamparqué macizo); UNE-EN 13488:2003 (Parqué mosaico); UNE-EN 13226:2003 (Parqué macizo con ranuras y/o lengüetas) </td>
+<td>44,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_centro"> (_D202) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación por aspecto.</td>
-<td class="cuerpo_tabla_centro">20 tablillas de lamparqué / 6 dameros de parqué</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13227:2003 (Lamparqué macizo); UNE-EN 13488:2003 (Parqué mosaico); UNE-EN 13226:2003 (Parqué macizo con ranuras y/o lengüetas) </td>
-<td class="cuerpo_tabla_coma">112,04</td>
+<td>122</td>
+<td> (_D202) </td>
+<td colspan="2">Clasificación por aspecto.</td>
+<td>20 tablillas de lamparqué / 6 dameros de parqué</td>
+<td>UNE-EN 13227:2003 (Lamparqué macizo); UNE-EN 13488:2003 (Parqué mosaico); UNE-EN 13226:2003 (Parqué macizo con ranuras y/o lengüetas) </td>
+<td>112,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_centro"> (_D203) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación del contenido de humedad Método secado en estufa.</td>
-<td class="cuerpo_tabla_centro">6 tablillas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13183-1:2002 </td>
-<td class="cuerpo_tabla_coma">49,62</td>
+<td>123</td>
+<td> (_D203) </td>
+<td colspan="2">Determinación del contenido de humedad Método secado en estufa.</td>
+<td>6 tablillas</td>
+<td>UNE-EN 13183-1:2002 </td>
+<td>49,62</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">124</td>
-<td class="cuerpo_tabla_centro"> (_D204) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación «in situ» del contenido de humedad.</td>
-<td class="cuerpo_tabla_centro">6 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13183-2:2002; UNE-EN 13183-2:2003 ERRATUM; UNE-EN 13183-2/RC:2004</td>
-<td class="cuerpo_tabla_coma">149,25</td>
+<td>124</td>
+<td> (_D204) </td>
+<td colspan="2">Determinación «in situ» del contenido de humedad.</td>
+<td>6 determinaciones</td>
+<td>UNE-EN 13183-2:2002; UNE-EN 13183-2:2003 ERRATUM; UNE-EN 13183-2/RC:2004</td>
+<td>149,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_centro"> (_D205) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Estabilidad dimensional.</td>
-<td class="cuerpo_tabla_centro">10 piezas</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1910:2000 </td>
-<td class="cuerpo_tabla_coma">162,54</td>
+<td>125</td>
+<td> (_D205) </td>
+<td colspan="2">Estabilidad dimensional.</td>
+<td>10 piezas</td>
+<td> UNE-EN 1910:2000 </td>
+<td>162,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_centro"> (_D206) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dureza.</td>
-<td class="cuerpo_tabla_centro">50 piezas para tablillas de hasta 200 mm y 25 piezas para tablillas de más de 200 mm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1534:2011</td>
-<td class="cuerpo_tabla_coma">186,54</td>
+<td>126</td>
+<td> (_D206) </td>
+<td colspan="2">Dureza.</td>
+<td>50 piezas para tablillas de hasta 200 mm y 25 piezas para tablillas de más de 200 mm</td>
+<td>UNE-EN 1534:2011</td>
+<td>186,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">127</td>
-<td class="cuerpo_tabla_centro"> (_I) </td>
-<td class="cuerpo_tabla_izq" colspan="2">MATERIALES AISLANTES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>127</td>
+<td> (_I) </td>
+<td colspan="2">MATERIALES AISLANTES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">128</td>
-<td class="cuerpo_tabla_centro"> (_IA) </td>
-<td class="cuerpo_tabla_izq" colspan="2">AISLANTES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>128</td>
+<td> (_IA) </td>
+<td colspan="2">AISLANTES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">129</td>
-<td class="cuerpo_tabla_centro"> (_IAA) </td>
-<td class="cuerpo_tabla_izq" colspan="2">ARCILLA EXPANDIDA.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>129</td>
+<td> (_IAA) </td>
+<td colspan="2">ARCILLA EXPANDIDA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">130</td>
-<td class="cuerpo_tabla_centro"> (_IAA1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad y determinación de la altura de succión de agua.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 14063-1:2006; UNE-EN 14063-1:2006/AC:2008; UNE-EN 1097-3:1999; UNE-EN 1097-3:2001/A1:2006; UNE-EN 1097-10:2004</td>
-<td class="cuerpo_tabla_coma">63,93</td>
+<td>130</td>
+<td> (_IAA1) </td>
+<td colspan="2">Densidad y determinación de la altura de succión de agua.</td>
+<td>1 muestra</td>
+<td>UNE-EN 14063-1:2006; UNE-EN 14063-1:2006/AC:2008; UNE-EN 1097-3:1999; UNE-EN 1097-3:2001/A1:2006; UNE-EN 1097-10:2004</td>
+<td>63,93</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">131</td>
-<td class="cuerpo_tabla_centro"> (_IAA2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas de 60x60 cm.</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>131</td>
+<td> (_IAA2) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas de 60x60 cm.</td>
+<td>UNE-EN 12667:2002</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">132</td>
-<td class="cuerpo_tabla_centro"> (_IAC) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CORCHO EXPANDIDO (ICB).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>132</td>
+<td> (_IAC) </td>
+<td colspan="2">CORCHO EXPANDIDO (ICB).</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">133</td>
-<td class="cuerpo_tabla_centro"> (_IAC1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002; UNE-EN 13170</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>133</td>
+<td> (_IAC1) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002; UNE-EN 13170</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">134</td>
-<td class="cuerpo_tabla_centro"> (_IAE) </td>
-<td class="cuerpo_tabla_izq" colspan="3">ESPUMA ELASTOMÉRICA (FEF).</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>134</td>
+<td> (_IAE) </td>
+<td colspan="3">ESPUMA ELASTOMÉRICA (FEF).</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">135</td>
-<td class="cuerpo_tabla_centro"> (_IAE1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">3 probetas</td>
-<td class="cuerpo_tabla_izq">UNE 92106:1984; UNE 92106/151:1991UNE-EN ISO 845:2010; UNE-EN 14304:2010</td>
-<td class="cuerpo_tabla_coma">56,61</td>
+<td>135</td>
+<td> (_IAE1) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>3 probetas</td>
+<td>UNE 92106:1984; UNE 92106/151:1991UNE-EN ISO 845:2010; UNE-EN 14304:2010</td>
+<td>56,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">136</td>
-<td class="cuerpo_tabla_centro"> (_IAE2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>136</td>
+<td> (_IAE2) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">137</td>
-<td class="cuerpo_tabla_centro">(_IAF)</td>
-<td class="cuerpo_tabla_izq" colspan="2">VIDRIO CELULAR (CG).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>137</td>
+<td>(_IAF)</td>
+<td colspan="2">VIDRIO CELULAR (CG).</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">138</td>
-<td class="cuerpo_tabla_centro"> (_IAF1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002; UNE-EN 14305:2010</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>138</td>
+<td> (_IAF1) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002; UNE-EN 14305:2010</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">139</td>
-<td class="cuerpo_tabla_centro"> (_IAL) </td>
-<td class="cuerpo_tabla_izq" colspan="2">ESPUMAS DE POLIURETANO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>139</td>
+<td> (_IAL) </td>
+<td colspan="2">ESPUMAS DE POLIURETANO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">140</td>
-<td class="cuerpo_tabla_centro"> (_IAL1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente por pesada hidrostática.</td>
-<td class="cuerpo_tabla_centro">1 probeta &gt; 20x30 cm</td>
-<td class="cuerpo_tabla_izq">UNE 92120-2:1998</td>
-<td class="cuerpo_tabla_coma">29,12</td>
+<td>140</td>
+<td> (_IAL1) </td>
+<td colspan="2">Densidad aparente por pesada hidrostática.</td>
+<td>1 probeta &gt; 20x30 cm</td>
+<td>UNE 92120-2:1998</td>
+<td>29,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">141</td>
-<td class="cuerpo_tabla_centro"> (_IAL2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>141</td>
+<td> (_IAL2) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">142</td>
-<td class="cuerpo_tabla_centro"> (_IAL3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Preparación de probetas para conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">3 probetas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>142</td>
+<td> (_IAL3) </td>
+<td colspan="2">Preparación de probetas para conductividad térmica.</td>
+<td>3 probetas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">143</td>
-<td class="cuerpo_tabla_centro"> (_IAL4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Comportamiento a compresión.</td>
-<td class="cuerpo_tabla_centro">5 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 826:1996</td>
-<td class="cuerpo_tabla_coma">122,67</td>
+<td>143</td>
+<td> (_IAL4) </td>
+<td colspan="2">Comportamiento a compresión.</td>
+<td>5 probetas</td>
+<td>UNE-EN 826:1996</td>
+<td>122,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">144</td>
-<td class="cuerpo_tabla_centro"> (_IAL5) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">5 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1602:1997, UNE-EN ISO 845:2010 </td>
-<td class="cuerpo_tabla_coma">56,61</td>
+<td>144</td>
+<td> (_IAL5) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>5 probetas</td>
+<td>UNE-EN 1602:1997, UNE-EN ISO 845:2010 </td>
+<td>56,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">145</td>
-<td class="cuerpo_tabla_centro"> (_IAL6) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Espesor medido «in situ» (Precio 10 determinaciones).</td>
-<td class="cuerpo_tabla_centro">10 determinaciones por cada 50 m²</td>
-<td class="cuerpo_tabla_izq">UNE 92120-2:1998</td>
-<td class="cuerpo_tabla_coma">15,67</td>
+<td>145</td>
+<td> (_IAL6) </td>
+<td colspan="2">Espesor medido «in situ» (Precio 10 determinaciones).</td>
+<td>10 determinaciones por cada 50 m²</td>
+<td>UNE 92120-2:1998</td>
+<td>15,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">146</td>
-<td class="cuerpo_tabla_centro"> (_IAP) </td>
-<td class="cuerpo_tabla_izq" colspan="3">POLIESTIRENO EXPANDIDO (EPS).</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>146</td>
+<td> (_IAP) </td>
+<td colspan="3">POLIESTIRENO EXPANDIDO (EPS).</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">147</td>
-<td class="cuerpo_tabla_centro"> (_IAP1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 822:1995, UNE-EN 823:1995, UNE-EN 824:1995, UNE-EN 825:1995, UNE-EN 13163:2009</td>
-<td class="cuerpo_tabla_coma">81,65</td>
+<td>147</td>
+<td> (_IAP1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>2 paneles</td>
+<td>UNE-EN 822:1995, UNE-EN 823:1995, UNE-EN 824:1995, UNE-EN 825:1995, UNE-EN 13163:2009</td>
+<td>81,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">148</td>
-<td class="cuerpo_tabla_centro"> (_IAP2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1602:1997</td>
-<td class="cuerpo_tabla_coma">56,61</td>
+<td>148</td>
+<td> (_IAP2) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>2 paneles</td>
+<td>UNE-EN 1602:1997</td>
+<td>56,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">149</td>
-<td class="cuerpo_tabla_centro"> (_IAP3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>149</td>
+<td> (_IAP3) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">150</td>
-<td class="cuerpo_tabla_centro"> (_IAP4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Comportamiento a compresión.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 826:1996</td>
-<td class="cuerpo_tabla_coma">122,67</td>
+<td>150</td>
+<td> (_IAP4) </td>
+<td colspan="2">Comportamiento a compresión.</td>
+<td>2 paneles</td>
+<td>UNE-EN 826:1996</td>
+<td>122,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_centro"> (_IAR) </td>
-<td class="cuerpo_tabla_izq" colspan="2">LANA MINERAL (MW).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>151</td>
+<td> (_IAR) </td>
+<td colspan="2">LANA MINERAL (MW).</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">152</td>
-<td class="cuerpo_tabla_centro"> (_IAR1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13162:2009; UNE-EN 822:1995, UNE-EN 823:1995, UNE-EN 824:1995, UNE-EN 825:1995</td>
-<td class="cuerpo_tabla_coma">81,65</td>
+<td>152</td>
+<td> (_IAR1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>2 paneles</td>
+<td>UNE-EN 13162:2009; UNE-EN 822:1995, UNE-EN 823:1995, UNE-EN 824:1995, UNE-EN 825:1995</td>
+<td>81,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">153</td>
-<td class="cuerpo_tabla_centro"> (_IAR2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1602:1997, UNE-EN ISO 845:2010 </td>
-<td class="cuerpo_tabla_coma">56,61</td>
+<td>153</td>
+<td> (_IAR2) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>2 paneles</td>
+<td>UNE-EN 1602:1997, UNE-EN ISO 845:2010 </td>
+<td>56,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">154</td>
-<td class="cuerpo_tabla_centro"> (_IAR3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 12667:2002</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>154</td>
+<td> (_IAR3) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td> UNE-EN 12667:2002</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_centro"> (_IAT) </td>
-<td class="cuerpo_tabla_izq" colspan="3">POLIESTIRENO EXTRUIDO (XPS).</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>155</td>
+<td> (_IAT) </td>
+<td colspan="3">POLIESTIRENO EXTRUIDO (XPS).</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">156</td>
-<td class="cuerpo_tabla_centro"> (_IAT1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13164:2009; UNE-EN 822:1995, UNE-EN 823:1995, UNE-EN 824:1995, UNE-EN 825:1995</td>
-<td class="cuerpo_tabla_coma">81,65</td>
+<td>156</td>
+<td> (_IAT1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>2 paneles</td>
+<td>UNE-EN 13164:2009; UNE-EN 822:1995, UNE-EN 823:1995, UNE-EN 824:1995, UNE-EN 825:1995</td>
+<td>81,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">157</td>
-<td class="cuerpo_tabla_centro"> (_IAT2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente.</td>
-<td class="cuerpo_tabla_centro">3 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13164/2009 UNE-EN 1602:1997</td>
-<td class="cuerpo_tabla_coma">56,61</td>
+<td>157</td>
+<td> (_IAT2) </td>
+<td colspan="2">Densidad aparente.</td>
+<td>3 probetas</td>
+<td>UNE-EN 13164/2009 UNE-EN 1602:1997</td>
+<td>56,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">158</td>
-<td class="cuerpo_tabla_centro"> (_IAT3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002</td>
-<td class="cuerpo_tabla_coma">269,88</td>
+<td>158</td>
+<td> (_IAT3) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002</td>
+<td>269,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">159</td>
-<td class="cuerpo_tabla_centro"> (_IAT4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Comportamiento a compresión.</td>
-<td class="cuerpo_tabla_centro">2 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 826:1996</td>
-<td class="cuerpo_tabla_coma">122,67</td>
+<td>159</td>
+<td> (_IAT4) </td>
+<td colspan="2">Comportamiento a compresión.</td>
+<td>2 paneles</td>
+<td>UNE-EN 826:1996</td>
+<td>122,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">160</td>
-<td class="cuerpo_tabla_centro"> (_K) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CARPINTERIAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>160</td>
+<td> (_K) </td>
+<td colspan="2">CARPINTERIAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">161</td>
-<td class="cuerpo_tabla_centro"> (_KL) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CARPINTERÍA DE ALUMINIO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>161</td>
+<td> (_KL) </td>
+<td colspan="2">CARPINTERÍA DE ALUMINIO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">162</td>
-<td class="cuerpo_tabla_centro"> (_KL01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Permeabilidad al aire, estanqueidad al agua y resistencia al viento.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1026:2000; UNE-EN 12207:2000; UNE-EN 1027:2000; UNE-EN 12208:2000; UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN12210:2000/AC:2010</td>
-<td class="cuerpo_tabla_coma">560,04</td>
+<td>162</td>
+<td> (_KL01) </td>
+<td colspan="2">Permeabilidad al aire, estanqueidad al agua y resistencia al viento.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1026:2000; UNE-EN 12207:2000; UNE-EN 1027:2000; UNE-EN 12208:2000; UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN12210:2000/AC:2010</td>
+<td>560,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">163</td>
-<td class="cuerpo_tabla_centro"> (_KL02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Permeabilidad al aire.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1026:2000; UNE-EN 12207:2000 </td>
-<td class="cuerpo_tabla_coma">157,73</td>
+<td>163</td>
+<td> (_KL02) </td>
+<td colspan="2">Permeabilidad al aire.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1026:2000; UNE-EN 12207:2000 </td>
+<td>157,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">164</td>
-<td class="cuerpo_tabla_centro"> (_KL03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Estanqueidad al agua bajo presión estática.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1027:2000; UNE-EN 12208:2000 </td>
-<td class="cuerpo_tabla_coma">157,73</td>
+<td>164</td>
+<td> (_KL03) </td>
+<td colspan="2">Estanqueidad al agua bajo presión estática.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1027:2000; UNE-EN 12208:2000 </td>
+<td>157,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">165</td>
-<td class="cuerpo_tabla_centro"> (_KL04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al viento.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN 12210/AC:2002 </td>
-<td class="cuerpo_tabla_coma">244,60</td>
+<td>165</td>
+<td> (_KL04) </td>
+<td colspan="2">Resistencia al viento.</td>
+<td>1 ventana</td>
+<td>UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN 12210/AC:2002 </td>
+<td>244,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">166</td>
-<td class="cuerpo_tabla_centro"> (_KL05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Espesor del lacado.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 2808:2007</td>
-<td class="cuerpo_tabla_coma">97,00</td>
+<td>166</td>
+<td> (_KL05) </td>
+<td colspan="2">Espesor del lacado.</td>
+<td>1 ventana</td>
+<td>UNE-EN ISO 2808:2007</td>
+<td>97,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">167</td>
-<td class="cuerpo_tabla_centro"> (_KL06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Espesor del anodizado.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 2360:2004</td>
-<td class="cuerpo_tabla_coma">97,00</td>
+<td>167</td>
+<td> (_KL06) </td>
+<td colspan="2">Espesor del anodizado.</td>
+<td>1 ventana</td>
+<td>UNE-EN ISO 2360:2004</td>
+<td>97,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">168</td>
-<td class="cuerpo_tabla_centro"> (_KM) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CARPINTERÍA DE MADERA.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>168</td>
+<td> (_KM) </td>
+<td colspan="2">CARPINTERÍA DE MADERA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_centro"> (_KM01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Permeabilidad al aire, estanqueidad al agua y resistencia al viento.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1026:2000; UNE-EN 12207:2000; UNE-EN 1027:2000; UNE-EN 12208:2000; UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN12210:2000/AC:2010</td>
-<td class="cuerpo_tabla_coma">560,04</td>
+<td>169</td>
+<td> (_KM01) </td>
+<td colspan="2">Permeabilidad al aire, estanqueidad al agua y resistencia al viento.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1026:2000; UNE-EN 12207:2000; UNE-EN 1027:2000; UNE-EN 12208:2000; UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN12210:2000/AC:2010</td>
+<td>560,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">170</td>
-<td class="cuerpo_tabla_centro"> (_KM02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Permeabilidad al aire.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1026:2000/UNE-EN 12207:2000 </td>
-<td class="cuerpo_tabla_coma">157,73</td>
+<td>170</td>
+<td> (_KM02) </td>
+<td colspan="2">Permeabilidad al aire.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1026:2000/UNE-EN 12207:2000 </td>
+<td>157,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">171</td>
-<td class="cuerpo_tabla_centro"> (_KM03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Estanqueidad al agua bajo presión estática.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1027:2000/UNE-EN 12208:2000 </td>
-<td class="cuerpo_tabla_coma">157,73</td>
+<td>171</td>
+<td> (_KM03) </td>
+<td colspan="2">Estanqueidad al agua bajo presión estática.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1027:2000/UNE-EN 12208:2000 </td>
+<td>157,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">172</td>
-<td class="cuerpo_tabla_centro"> (_KM04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al viento.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12211:2000 UNE-EN 12210:2000 UNE-EN 12210/AC:2002 </td>
-<td class="cuerpo_tabla_coma">244,60</td>
+<td>172</td>
+<td> (_KM04) </td>
+<td colspan="2">Resistencia al viento.</td>
+<td>1 ventana</td>
+<td>UNE-EN 12211:2000 UNE-EN 12210:2000 UNE-EN 12210/AC:2002 </td>
+<td>244,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">173</td>
-<td class="cuerpo_tabla_centro"> (_KM05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Humedad. Método no destructivo.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13183-2:2002; UNE-EN 13183-2:2003 ERRATUM; UNE-EN 13183-2/AC:2004 </td>
-<td class="cuerpo_tabla_coma">76,36</td>
+<td>173</td>
+<td> (_KM05) </td>
+<td colspan="2">Humedad. Método no destructivo.</td>
+<td>1 ventana</td>
+<td>UNE-EN 13183-2:2002; UNE-EN 13183-2:2003 ERRATUM; UNE-EN 13183-2/AC:2004 </td>
+<td>76,36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">174</td>
-<td class="cuerpo_tabla_centro"> (_KP) </td>
-<td class="cuerpo_tabla_izq" colspan="2">CARPINTERÍA DE PLÁSTICO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>174</td>
+<td> (_KP) </td>
+<td colspan="2">CARPINTERÍA DE PLÁSTICO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">175</td>
-<td class="cuerpo_tabla_centro"> (_KP01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Permeabilidad al aire, estanqueidad al agua y resistencia al viento.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1026:2000; UNE-EN 12207:2000; UNE-EN 1027:2000; UNE-EN 12208:2000; UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN12210:2000/AC:2010</td>
-<td class="cuerpo_tabla_coma">560,04</td>
+<td>175</td>
+<td> (_KP01) </td>
+<td colspan="2">Permeabilidad al aire, estanqueidad al agua y resistencia al viento.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1026:2000; UNE-EN 12207:2000; UNE-EN 1027:2000; UNE-EN 12208:2000; UNE-EN 12211:2000; UNE-EN 12210:2000; UNE-EN12210:2000/AC:2010</td>
+<td>560,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">176</td>
-<td class="cuerpo_tabla_centro"> (_KP02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Permeabilidad al aire.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1026:2000/UNE-EN 12207:2000 </td>
-<td class="cuerpo_tabla_coma">157,73</td>
+<td>176</td>
+<td> (_KP02) </td>
+<td colspan="2">Permeabilidad al aire.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1026:2000/UNE-EN 12207:2000 </td>
+<td>157,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_centro"> (_KP03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Estanqueidad al agua bajo presión estática.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1027:2000/UNE-EN 12208:2000 </td>
-<td class="cuerpo_tabla_coma">157,73</td>
+<td>177</td>
+<td> (_KP03) </td>
+<td colspan="2">Estanqueidad al agua bajo presión estática.</td>
+<td>1 ventana</td>
+<td>UNE-EN 1027:2000/UNE-EN 12208:2000 </td>
+<td>157,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">178</td>
-<td class="cuerpo_tabla_centro"> (_KP04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al viento.</td>
-<td class="cuerpo_tabla_centro">1 ventana</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12211:2000 UNE-EN 12210:2000 UNE-EN 12210/AC:2002 </td>
-<td class="cuerpo_tabla_coma">244,60</td>
+<td>178</td>
+<td> (_KP04) </td>
+<td colspan="2">Resistencia al viento.</td>
+<td>1 ventana</td>
+<td>UNE-EN 12211:2000 UNE-EN 12210:2000 UNE-EN 12210/AC:2002 </td>
+<td>244,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">179</td>
-<td class="cuerpo_tabla_centro"> (_O) </td>
-<td class="cuerpo_tabla_izq" colspan="3">ÁRIDOS Y PIEDRAS NATURALES.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>179</td>
+<td> (_O) </td>
+<td colspan="3">ÁRIDOS Y PIEDRAS NATURALES.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">180</td>
-<td class="cuerpo_tabla_centro"> (_OA) </td>
-<td class="cuerpo_tabla_izq" colspan="3">ÁRIDOS PARA HORMIGONES Y MORTEROS.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>180</td>
+<td> (_OA) </td>
+<td colspan="3">ÁRIDOS PARA HORMIGONES Y MORTEROS.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">181</td>
-<td class="cuerpo_tabla_centro"> (_OA01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Análisis granulométrico.</td>
-<td class="cuerpo_tabla_centro">16 kg.</td>
-<td class="cuerpo_tabla_izq">UNE-EN 933-1:1998 </td>
-<td class="cuerpo_tabla_coma">63,29</td>
+<td>181</td>
+<td> (_OA01) </td>
+<td colspan="2">Análisis granulométrico.</td>
+<td>16 kg.</td>
+<td>UNE-EN 933-1:1998 </td>
+<td>63,29</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_centro"> (_OA02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Equivalente de arena. Árido fino.</td>
-<td class="cuerpo_tabla_centro">2 kg.</td>
-<td class="cuerpo_tabla_izq">UNE-EN 933-8:2000 </td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>182</td>
+<td> (_OA02) </td>
+<td colspan="2">Equivalente de arena. Árido fino.</td>
+<td>2 kg.</td>
+<td>UNE-EN 933-8:2000 </td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">183</td>
-<td class="cuerpo_tabla_centro"> (_OA03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Ensayo de azul de metileno. Árido fino.</td>
-<td class="cuerpo_tabla_centro">2 kg.</td>
-<td class="cuerpo_tabla_izq">UNE-EN 933-9:2010</td>
-<td class="cuerpo_tabla_coma">119,00</td>
+<td>183</td>
+<td> (_OA03) </td>
+<td colspan="2">Ensayo de azul de metileno. Árido fino.</td>
+<td>2 kg.</td>
+<td>UNE-EN 933-9:2010</td>
+<td>119,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">184</td>
-<td class="cuerpo_tabla_centro"> (_OA04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua y peso específico.</td>
-<td class="cuerpo_tabla_centro">1 kg de árido fino / 2 kg de árido grueso</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1097-6:2001</td>
-<td class="cuerpo_tabla_coma">88,23</td>
+<td>184</td>
+<td> (_OA04) </td>
+<td colspan="2">Absorción de agua y peso específico.</td>
+<td>1 kg de árido fino / 2 kg de árido grueso</td>
+<td>UNE-EN 1097-6:2001</td>
+<td>88,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">185</td>
-<td class="cuerpo_tabla_centro"> (_ON)</td>
-<td class="cuerpo_tabla_izq" colspan="2">PIEDRAS NATURALES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>185</td>
+<td> (_ON)</td>
+<td colspan="2">PIEDRAS NATURALES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">186</td>
-<td class="cuerpo_tabla_centro"> (_ON01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1341:2002 Anexo A; UNE-EN 1341:2002 ERRATUM:2004, UNE-EN 1341:2004 ERRATUM, UNE-EN 1342:2003 Anexo A; UNE-EN 1342:2003 ERRATUM:2003; UNE-EN 1343:2003 Anexo A; UNE-EN 1343:2003 ERRATUM:2003 y UNE-EN 1373:2003</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>186</td>
+<td> (_ON01) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>6 probetas</td>
+<td>UNE-EN 1341:2002 Anexo A; UNE-EN 1341:2002 ERRATUM:2004, UNE-EN 1341:2004 ERRATUM, UNE-EN 1342:2003 Anexo A; UNE-EN 1342:2003 ERRATUM:2003; UNE-EN 1343:2003 Anexo A; UNE-EN 1343:2003 ERRATUM:2003 y UNE-EN 1373:2003</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">187</td>
-<td class="cuerpo_tabla_centro"> (_ON02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Apariencia visual.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12058:2005, UNE-EN 12057:2005, UNE-EN 1469:2005</td>
-<td class="cuerpo_tabla_coma">35,41</td>
+<td>187</td>
+<td> (_ON02) </td>
+<td colspan="2">Apariencia visual.</td>
+<td>6 probetas</td>
+<td>UNE-EN 12058:2005, UNE-EN 12057:2005, UNE-EN 1469:2005</td>
+<td>35,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">188</td>
-<td class="cuerpo_tabla_centro"> (_ON03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua por capilaridad.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1925:1999</td>
-<td class="cuerpo_tabla_coma">73,65</td>
+<td>188</td>
+<td> (_ON03) </td>
+<td colspan="2">Absorción de agua por capilaridad.</td>
+<td>6 probetas</td>
+<td>UNE-EN 1925:1999</td>
+<td>73,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">189</td>
-<td class="cuerpo_tabla_centro"> (_ON04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua a presión atmosférica.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13755:2008</td>
-<td class="cuerpo_tabla_coma">54,51</td>
+<td>189</td>
+<td> (_ON04) </td>
+<td colspan="2">Absorción de agua a presión atmosférica.</td>
+<td>6 probetas</td>
+<td>UNE-EN 13755:2008</td>
+<td>54,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">190</td>
-<td class="cuerpo_tabla_centro"> (_ON05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión.</td>
-<td class="cuerpo_tabla_centro">10 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12372:2007, UNE-EN 13161:2008</td>
-<td class="cuerpo_tabla_coma">111,55</td>
+<td>190</td>
+<td> (_ON05) </td>
+<td colspan="2">Resistencia a la flexión.</td>
+<td>10 probetas</td>
+<td>UNE-EN 12372:2007, UNE-EN 13161:2008</td>
+<td>111,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">191</td>
-<td class="cuerpo_tabla_centro"> (_ON06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la compresión uniaxial.</td>
-<td class="cuerpo_tabla_centro">10 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1926:2007</td>
-<td class="cuerpo_tabla_coma">211,08</td>
+<td>191</td>
+<td> (_ON06) </td>
+<td colspan="2">Resistencia a la compresión uniaxial.</td>
+<td>10 probetas</td>
+<td>UNE-EN 1926:2007</td>
+<td>211,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">192</td>
-<td class="cuerpo_tabla_centro"> (_ON07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al hielo/deshielo (incluye un ensayo resistente antes y después).</td>
-<td class="cuerpo_tabla_centro">21 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12371:2011</td>
-<td class="cuerpo_tabla_coma">401,60</td>
+<td>192</td>
+<td> (_ON07) </td>
+<td colspan="2">Resistencia al hielo/deshielo (incluye un ensayo resistente antes y después).</td>
+<td>21 probetas</td>
+<td>UNE-EN 12371:2011</td>
+<td>401,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">193</td>
-<td class="cuerpo_tabla_centro"> (_ON08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la abrasión.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 14157:2005, UNE-EN 1341:2002 Anexo C; UNE-EN 1341:2002 ERRATUM:2004; UNE-EN 1342:2003 Anexo B; UNE-EN 1342:2003 ERRATUM:2003</td>
-<td class="cuerpo_tabla_coma">110,95</td>
+<td>193</td>
+<td> (_ON08) </td>
+<td colspan="2">Resistencia a la abrasión.</td>
+<td>6 probetas</td>
+<td>UNE-EN 14157:2005, UNE-EN 1341:2002 Anexo C; UNE-EN 1341:2002 ERRATUM:2004; UNE-EN 1342:2003 Anexo B; UNE-EN 1342:2003 ERRATUM:2003</td>
+<td>110,95</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">194</td>
-<td class="cuerpo_tabla_centro"> (_ON09) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Porosidad abierta y densidad aparente.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1936:2007</td>
-<td class="cuerpo_tabla_coma">85,60</td>
+<td>194</td>
+<td> (_ON09) </td>
+<td colspan="2">Porosidad abierta y densidad aparente.</td>
+<td>6 probetas</td>
+<td>UNE-EN 1936:2007</td>
+<td>85,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">195</td>
-<td class="cuerpo_tabla_centro"> (_ON10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al choque térmico.</td>
-<td class="cuerpo_tabla_centro">7 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 14066:2003</td>
-<td class="cuerpo_tabla_coma">181,45</td>
+<td>195</td>
+<td> (_ON10) </td>
+<td colspan="2">Resistencia al choque térmico.</td>
+<td>7 probetas</td>
+<td>UNE-EN 14066:2003</td>
+<td>181,45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">196</td>
-<td class="cuerpo_tabla_centro"> (_ON11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de energía de rotura.</td>
-<td class="cuerpo_tabla_centro">6 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 14158:2004</td>
-<td class="cuerpo_tabla_coma">36,18</td>
+<td>196</td>
+<td> (_ON11) </td>
+<td colspan="2">Determinación de energía de rotura.</td>
+<td>6 probetas</td>
+<td>UNE-EN 14158:2004</td>
+<td>36,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">197</td>
-<td class="cuerpo_tabla_centro"> (_ON12) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">5/10/8 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1341:2002; UNE-EN 1341:2002 ERRATUM:2004; UNE-EN 1342:2002; UNE-EN 14231:2004; UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>197</td>
+<td> (_ON12) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>5/10/8 probetas</td>
+<td>UNE-EN 1341:2002; UNE-EN 1341:2002 ERRATUM:2004; UNE-EN 1342:2002; UNE-EN 14231:2004; UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">198</td>
-<td class="cuerpo_tabla_centro"> (_ON13) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1341:2002; UNE-EN 1341:2002 ERRATUM:2004; UNE-EN 1342:2002; UNE-EN 14231:2004; UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>198</td>
+<td> (_ON13) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-EN 1341:2002; UNE-EN 1341:2002 ERRATUM:2004; UNE-EN 1342:2002; UNE-EN 14231:2004; UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">199</td>
-<td class="cuerpo_tabla_centro"> (_P) </td>
-<td class="cuerpo_tabla_izq" colspan="2">PINTURAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>199</td>
+<td> (_P) </td>
+<td colspan="2">PINTURAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">200</td>
-<td class="cuerpo_tabla_centro"> (_P001) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Espesor de película. Método no destructivo.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 2808:2007 </td>
-<td class="cuerpo_tabla_coma">97,00</td>
+<td>200</td>
+<td> (_P001) </td>
+<td colspan="2">Espesor de película. Método no destructivo.</td>
+<td>1 muestra</td>
+<td>UNE-EN ISO 2808:2007 </td>
+<td>97,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">201</td>
-<td class="cuerpo_tabla_centro"> (_P002) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Espesor de película. Método destructivo (corte en cuña).</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 2808:2007</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>201</td>
+<td> (_P002) </td>
+<td colspan="2">Espesor de película. Método destructivo (corte en cuña).</td>
+<td>1 muestra</td>
+<td>UNE-EN ISO 2808:2007</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">202</td>
-<td class="cuerpo_tabla_centro"> (_P003) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Espesor de galvanizado.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 2178-1996</td>
-<td class="cuerpo_tabla_coma">97,00</td>
+<td>202</td>
+<td> (_P003) </td>
+<td colspan="2">Espesor de galvanizado.</td>
+<td>1 muestra</td>
+<td>UNE-EN ISO 2178-1996</td>
+<td>97,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">203</td>
-<td class="cuerpo_tabla_centro"> (_P004) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Adherencia de galvanizado.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 8492:2006</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>203</td>
+<td> (_P004) </td>
+<td colspan="2">Adherencia de galvanizado.</td>
+<td>1 muestra</td>
+<td>UNE-EN ISO 8492:2006</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">204</td>
-<td class="cuerpo_tabla_centro"> (_R) </td>
-<td class="cuerpo_tabla_izq" colspan="3">PREFABRICADOS DE CEMENTO Y YESO.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>204</td>
+<td> (_R) </td>
+<td colspan="3">PREFABRICADOS DE CEMENTO Y YESO.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">205</td>
-<td class="cuerpo_tabla_centro"> (_RB) </td>
-<td class="cuerpo_tabla_izq" colspan="2">BLOQUES DE HORMIGÓN.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>205</td>
+<td> (_RB) </td>
+<td colspan="2">BLOQUES DE HORMIGÓN.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">206</td>
-<td class="cuerpo_tabla_centro"> (_RB01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones y tolerancias.</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008 Y UNE-EN 772-16:2001; UNE-EN 772-16:2001/A1:2006; UNE-EN 772-16:2001/A2:206</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>206</td>
+<td> (_RB01) </td>
+<td colspan="2">Dimensiones y tolerancias.</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008 Y UNE-EN 772-16:2001; UNE-EN 772-16:2001/A1:2006; UNE-EN 772-16:2001/A2:206</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">207</td>
-<td class="cuerpo_tabla_centro">(_RB02)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Planeidad de caras y desviación.</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-20:2001; UNE-EN 772-20:2001/A1:2006</td>
-<td class="cuerpo_tabla_coma">50,04</td>
+<td>207</td>
+<td>(_RB02)</td>
+<td colspan="2">Planeidad de caras y desviación.</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-20:2001; UNE-EN 772-20:2001/A1:2006</td>
+<td>50,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">208</td>
-<td class="cuerpo_tabla_centro"> (_RB03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Porcentaje de superficie de huecos (por impresión sobre papel).</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-2:1999, UNE-EN 772-2:1999/A1:2005</td>
-<td class="cuerpo_tabla_coma">97,85</td>
+<td>208</td>
+<td> (_RB03) </td>
+<td colspan="2">Porcentaje de superficie de huecos (por impresión sobre papel).</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-2:1999, UNE-EN 772-2:1999/A1:2005</td>
+<td>97,85</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">209</td>
-<td class="cuerpo_tabla_centro"> (_RB04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua.</td>
-<td class="cuerpo_tabla_centro">3 bloques</td>
-<td class="cuerpo_tabla_izq"> UNE 41170:1989 EX </td>
-<td class="cuerpo_tabla_coma">74,24</td>
+<td>209</td>
+<td> (_RB04) </td>
+<td colspan="2">Absorción de agua.</td>
+<td>3 bloques</td>
+<td> UNE 41170:1989 EX </td>
+<td>74,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">210</td>
-<td class="cuerpo_tabla_centro"> (_RB05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua por capilaridad/ succión.</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN772-11:2001, UNEN-EN 772-11:2001/A1:2006</td>
-<td class="cuerpo_tabla_coma">87,57</td>
+<td>210</td>
+<td> (_RB05) </td>
+<td colspan="2">Absorción de agua por capilaridad/ succión.</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN772-11:2001, UNEN-EN 772-11:2001/A1:2006</td>
+<td>87,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">211</td>
-<td class="cuerpo_tabla_centro"> (_RB06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad aparente seca.</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008,UNE-EN 772-13:2001</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>211</td>
+<td> (_RB06) </td>
+<td colspan="2">Densidad aparente seca.</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008,UNE-EN 772-13:2001</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">212</td>
-<td class="cuerpo_tabla_centro"> (_RB07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad absoluta seca ( se añadirá tasa de porcentaje de superficie de huecos).</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-13:2001, UNE-EN 772-2:1999, UNE-EN 772-2:1999/A1:2005</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>212</td>
+<td> (_RB07) </td>
+<td colspan="2">Densidad absoluta seca ( se añadirá tasa de porcentaje de superficie de huecos).</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-13:2001, UNE-EN 772-2:1999, UNE-EN 772-2:1999/A1:2005</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">213</td>
-<td class="cuerpo_tabla_centro"> (_RB08) </td>
-<td class="cuerpo_tabla_izq" colspan="2"> Resistencia a la compresión.</td>
-<td class="cuerpo_tabla_centro">6 bloques</td>
-<td class="cuerpo_tabla_izq">UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-1:2002</td>
-<td class="cuerpo_tabla_coma">215,38</td>
+<td>213</td>
+<td> (_RB08) </td>
+<td colspan="2"> Resistencia a la compresión.</td>
+<td>6 bloques</td>
+<td>UNE-EN 771-3:2004, UNE-EN771-3:2004/A1:2005,UNE127771-3:2008, UNE-EN 772-1:2002</td>
+<td>215,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">214</td>
-<td class="cuerpo_tabla_centro"> (_RC) </td>
-<td class="cuerpo_tabla_izq" colspan="3">PLACAS DE ESCAYOLA PARA TECHOS.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>214</td>
+<td> (_RC) </td>
+<td colspan="3">PLACAS DE ESCAYOLA PARA TECHOS.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">215</td>
-<td class="cuerpo_tabla_centro"> (_RC01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones, planeidad y aspecto.</td>
-<td class="cuerpo_tabla_centro">6 placas</td>
-<td class="cuerpo_tabla_izq">UNE 102021:1983; UNE 102021:1984 ERRATUM; UNE 102022:1983; UNE 102033:2001; UNE 102024:1983 </td>
-<td class="cuerpo_tabla_coma">67,71</td>
+<td>215</td>
+<td> (_RC01) </td>
+<td colspan="2">Dimensiones, planeidad y aspecto.</td>
+<td>6 placas</td>
+<td>UNE 102021:1983; UNE 102021:1984 ERRATUM; UNE 102022:1983; UNE 102033:2001; UNE 102024:1983 </td>
+<td>67,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">216</td>
-<td class="cuerpo_tabla_centro"> (_RC02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Masa unitaria.</td>
-<td class="cuerpo_tabla_centro">6 placas</td>
-<td class="cuerpo_tabla_izq">UNE 102021:1983; UNE 102021:1984 ERRATUM; UNE 102022:1983; UNE 102033:2001; UNE 102024:1983 </td>
-<td class="cuerpo_tabla_coma">46,97</td>
+<td>216</td>
+<td> (_RC02) </td>
+<td colspan="2">Masa unitaria.</td>
+<td>6 placas</td>
+<td>UNE 102021:1983; UNE 102021:1984 ERRATUM; UNE 102022:1983; UNE 102033:2001; UNE 102024:1983 </td>
+<td>46,97</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">217</td>
-<td class="cuerpo_tabla_centro"> (_RC03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Humedad.</td>
-<td class="cuerpo_tabla_centro">6 placas</td>
-<td class="cuerpo_tabla_izq">UNE 102021:1983; UNE 102021:1984 ERRATUM; UNE 102022:1983; UNE 102033:2001; UNE 102024:1983 </td>
-<td class="cuerpo_tabla_coma">27,17</td>
+<td>217</td>
+<td> (_RC03) </td>
+<td colspan="2">Humedad.</td>
+<td>6 placas</td>
+<td>UNE 102021:1983; UNE 102021:1984 ERRATUM; UNE 102022:1983; UNE 102033:2001; UNE 102024:1983 </td>
+<td>27,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">218</td>
-<td class="cuerpo_tabla_centro"> (_RC04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">pH.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2001 </td>
-<td class="cuerpo_tabla_coma">35,38</td>
+<td>218</td>
+<td> (_RC04) </td>
+<td colspan="2">pH.</td>
+<td>3 placas</td>
+<td>UNE-EN 12859:2001 </td>
+<td>35,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">219</td>
-<td class="cuerpo_tabla_centro"> (_RC05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 14246:2007</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>219</td>
+<td> (_RC05) </td>
+<td colspan="2">Resistencia a flexión.</td>
+<td>3 placas</td>
+<td>UNE-EN 14246:2007</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">220</td>
-<td class="cuerpo_tabla_centro"> (_RC06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Conductividad térmica.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12664:2002</td>
-<td class="cuerpo_tabla_coma">386,73</td>
+<td>220</td>
+<td> (_RC06) </td>
+<td colspan="2">Conductividad térmica.</td>
+<td>3 placas</td>
+<td>UNE-EN 12664:2002</td>
+<td>386,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">221</td>
-<td class="cuerpo_tabla_centro"> (_RD) </td>
-<td class="cuerpo_tabla_izq" colspan="2">BALDOSAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>221</td>
+<td> (_RD) </td>
+<td colspan="2">BALDOSAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">222</td>
-<td class="cuerpo_tabla_centro"> (_RDA) </td>
-<td class="cuerpo_tabla_izq" colspan="3">BALDOSAS TERRAZO USO INTERIOR.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>222</td>
+<td> (_RDA) </td>
+<td colspan="3">BALDOSAS TERRAZO USO INTERIOR.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">223</td>
-<td class="cuerpo_tabla_centro"> (_RDA1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>223</td>
+<td> (_RDA1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>8 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">224</td>
-<td class="cuerpo_tabla_centro"> (_RDA2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto visual.</td>
-<td class="cuerpo_tabla_centro">12 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>224</td>
+<td> (_RDA2) </td>
+<td colspan="2">Aspecto visual.</td>
+<td>12 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">225</td>
-<td class="cuerpo_tabla_centro"> (_RDA3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua por capilaridad a través de la cara vista.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">73,65</td>
+<td>225</td>
+<td> (_RDA3) </td>
+<td colspan="2">Absorción de agua por capilaridad a través de la cara vista.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>73,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">226</td>
-<td class="cuerpo_tabla_centro"> (_RDA4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción total de agua.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">123,69</td>
+<td>226</td>
+<td> (_RDA4) </td>
+<td colspan="2">Absorción total de agua.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>123,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">227</td>
-<td class="cuerpo_tabla_centro"> (_RDA5) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al impacto.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE 127748-1:2006 Anexo C; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>227</td>
+<td> (_RDA5) </td>
+<td colspan="2">Resistencia al impacto.</td>
+<td>3 baldosas</td>
+<td>UNE 127748-1:2006 Anexo C; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_centro"> (_RDA6) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión y carga de rotura.</td>
-<td class="cuerpo_tabla_centro">4 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">111,55</td>
+<td>228</td>
+<td> (_RDA6) </td>
+<td colspan="2">Resistencia a la flexión y carga de rotura.</td>
+<td>4 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>111,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">229</td>
-<td class="cuerpo_tabla_centro"> (_RDA7) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al desgaste por abrasión. Método de ensayo de disco ancho.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">113,17</td>
+<td>229</td>
+<td> (_RDA7) </td>
+<td colspan="2">Resistencia al desgaste por abrasión. Método de ensayo de disco ancho.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>113,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_centro"> (_RDA8) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>230</td>
+<td> (_RDA8) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>5 baldosas</td>
+<td>UNE-EN 13748-1:2005; UNE-EN 13748-1:2005:ERRATUM:2005; UNE 127748-1:2006; UNE 127748-1:2006:ERRATUM:2008</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">231</td>
-<td class="cuerpo_tabla_centro"> (_RDA9) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>231</td>
+<td> (_RDA9) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">232</td>
-<td class="cuerpo_tabla_centro">(_RDA10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>232</td>
+<td>(_RDA10) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>8 baldosas</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">233</td>
-<td class="cuerpo_tabla_centro">(_RDA11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Corte.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>233</td>
+<td>(_RDA11) </td>
+<td colspan="2">Mecanizado de las probetas. Corte.</td>
+<td>3 baldosas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">234</td>
-<td class="cuerpo_tabla_centro">(_RDA12) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Pulido.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">99,49</td>
+<td>234</td>
+<td>(_RDA12) </td>
+<td colspan="2">Mecanizado de las probetas. Pulido.</td>
+<td>3 baldosas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>99,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">235</td>
-<td class="cuerpo_tabla_centro"> (_RDB) </td>
-<td class="cuerpo_tabla_izq" colspan="3">BALDOSAS TERRAZO USO EXTERIOR.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>235</td>
+<td> (_RDB) </td>
+<td colspan="3">BALDOSAS TERRAZO USO EXTERIOR.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">236</td>
-<td class="cuerpo_tabla_centro"> (_RDB1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005; UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>236</td>
+<td> (_RDB1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>8 baldosas</td>
+<td>UNE-EN 13748-2:2005; UNE 127748-2:2006</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">237</td>
-<td class="cuerpo_tabla_centro"> (_RDB2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto visual.</td>
-<td class="cuerpo_tabla_centro">12 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005; UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>237</td>
+<td> (_RDB2) </td>
+<td colspan="2">Aspecto visual.</td>
+<td>12 baldosas</td>
+<td>UNE-EN 13748-2:2005; UNE 127748-2:2006</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">238</td>
-<td class="cuerpo_tabla_centro"> (_RDB3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción de agua por capilaridad a través de la cara vista.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005; UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">73,65</td>
+<td>238</td>
+<td> (_RDB3) </td>
+<td colspan="2">Absorción de agua por capilaridad a través de la cara vista.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 13748-2:2005; UNE 127748-2:2006</td>
+<td>73,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">239</td>
-<td class="cuerpo_tabla_centro"> (_RDB4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005, apto. 5-8; UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">123,69</td>
+<td>239</td>
+<td> (_RDB4) </td>
+<td colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 13748-2:2005, apto. 5-8; UNE 127748-2:2006</td>
+<td>123,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">240</td>
-<td class="cuerpo_tabla_centro"> (_RDB5) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al impacto.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE 127748-2:2006. Anexo C</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>240</td>
+<td> (_RDB5) </td>
+<td colspan="2">Resistencia al impacto.</td>
+<td>3 baldosas</td>
+<td>UNE 127748-2:2006. Anexo C</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">241</td>
-<td class="cuerpo_tabla_centro"> (_RDB6) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión y carga de rotura.</td>
-<td class="cuerpo_tabla_centro">4 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005, UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">111,55</td>
+<td>241</td>
+<td> (_RDB6) </td>
+<td colspan="2">Resistencia a la flexión y carga de rotura.</td>
+<td>4 baldosas</td>
+<td>UNE-EN 13748-2:2005, UNE 127748-2:2006</td>
+<td>111,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_centro"> (_RDB7) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al desgaste por abrasión. Método de ensayo de disco ancho.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005, UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">113,17</td>
+<td>242</td>
+<td> (_RDB7) </td>
+<td colspan="2">Resistencia al desgaste por abrasión. Método de ensayo de disco ancho.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 13748-2:2005, UNE 127748-2:2006</td>
+<td>113,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">243</td>
-<td class="cuerpo_tabla_centro"> (_RDB8) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en Laboratorio.</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 13748-2:2005; UNE-EN 13748-2:2005:ERRATUM:2005; UNE 127748-2:2006</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>243</td>
+<td> (_RDB8) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en Laboratorio.</td>
+<td>5 baldosas</td>
+<td>UNE-EN 13748-2:2005; UNE-EN 13748-2:2005:ERRATUM:2005; UNE 127748-2:2006</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">244</td>
-<td class="cuerpo_tabla_centro"> (_RDB9) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamientoo «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>244</td>
+<td> (_RDB9) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamientoo «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">245</td>
-<td class="cuerpo_tabla_centro"> (_RDB10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>245</td>
+<td> (_RDB10) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>8 baldosas</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_centro"> (_RDB11) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Corte.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>246</td>
+<td> (_RDB11) </td>
+<td colspan="2">Mecanizado de las probetas. Corte.</td>
+<td>3 baldosas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">247</td>
-<td class="cuerpo_tabla_centro"> (_RDB12) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Pulido.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">99,49</td>
+<td>247</td>
+<td> (_RDB12) </td>
+<td colspan="2">Mecanizado de las probetas. Pulido.</td>
+<td>3 baldosas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>99,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">248</td>
-<td class="cuerpo_tabla_centro"> (_RDC) </td>
-<td class="cuerpo_tabla_izq" colspan="2">BALDOSAS DE HORMIGON.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>248</td>
+<td> (_RDC) </td>
+<td colspan="2">BALDOSAS DE HORMIGON.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_centro"> (_ RDC1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1339:2004 Anexo C; UNE-EN 1339:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>249</td>
+<td> (_ RDC1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>8 baldosas</td>
+<td>UNE-EN 1339:2004 Anexo C; UNE-EN 1339:2004/AC:2006</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_centro"> (_RDC2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto visual.</td>
-<td class="cuerpo_tabla_centro">10 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1339:2004 Anexo J; UNE-EN 1339:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>250</td>
+<td> (_RDC2) </td>
+<td colspan="2">Aspecto visual.</td>
+<td>10 baldosas</td>
+<td>UNE-EN 1339:2004 Anexo J; UNE-EN 1339:2004/AC:2006</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">251</td>
-<td class="cuerpo_tabla_centro"> (_RDC3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
-<td class="cuerpo_tabla_centro">3 baldosas.</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1339:2004 Anexo E; UNE-EN 1339:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">123,68</td>
+<td>251</td>
+<td> (_RDC3) </td>
+<td colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
+<td>3 baldosas.</td>
+<td>UNE-EN 1339:2004 Anexo E; UNE-EN 1339:2004/AC:2006</td>
+<td>123,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">252</td>
-<td class="cuerpo_tabla_centro"> (_RDC4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión y carga de rotura.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1339:2004 Anexo F; UNE-EN 1339:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">111,55</td>
+<td>252</td>
+<td> (_RDC4) </td>
+<td colspan="2">Resistencia a la flexión y carga de rotura.</td>
+<td>8 baldosas</td>
+<td>UNE-EN 1339:2004 Anexo F; UNE-EN 1339:2004/AC:2006</td>
+<td>111,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">253</td>
-<td class="cuerpo_tabla_centro"> (_RDC5) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al desgaste por abrasión. Método de ensayo de disco ancho.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1339:2004 Anexo G; UNE-EN 1339:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">113,17</td>
+<td>253</td>
+<td> (_RDC5) </td>
+<td colspan="2">Resistencia al desgaste por abrasión. Método de ensayo de disco ancho.</td>
+<td>3 baldosas</td>
+<td>UNE-EN 1339:2004 Anexo G; UNE-EN 1339:2004/AC:2006</td>
+<td>113,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">254</td>
-<td class="cuerpo_tabla_centro"> (_RDC6) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">5 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1339:2004 Anexo I; UNE-EN 1339:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>254</td>
+<td> (_RDC6) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>5 baldosas</td>
+<td>UNE-EN 1339:2004 Anexo I; UNE-EN 1339:2004/AC:2006</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">255</td>
-<td class="cuerpo_tabla_centro"> (_RDC7) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>255</td>
+<td> (_RDC7) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">256</td>
-<td class="cuerpo_tabla_centro"> (_RDC8) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 baldosas</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>256</td>
+<td> (_RDC8) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>8 baldosas</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">257</td>
-<td class="cuerpo_tabla_centro"> (_RDC9) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Corte.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>257</td>
+<td> (_RDC9) </td>
+<td colspan="2">Mecanizado de las probetas. Corte.</td>
+<td>3 baldosas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">258</td>
-<td class="cuerpo_tabla_centro">(_RDC10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Pulido.</td>
-<td class="cuerpo_tabla_centro">3 baldosas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">99,49</td>
+<td>258</td>
+<td>(_RDC10) </td>
+<td colspan="2">Mecanizado de las probetas. Pulido.</td>
+<td>3 baldosas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>99,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">259</td>
-<td class="cuerpo_tabla_centro">(_RDQ)</td>
-<td class="cuerpo_tabla_izq" colspan="2">ADOQUINES DE HORMIGON.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>259</td>
+<td>(_RDQ)</td>
+<td colspan="2">ADOQUINES DE HORMIGON.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">260</td>
-<td class="cuerpo_tabla_centro"> (_RDQ1) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">8 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1338:2004 Anexo C; UNE-EN 1338:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>260</td>
+<td> (_RDQ1) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>8 adoquines</td>
+<td>UNE-EN 1338:2004 Anexo C; UNE-EN 1338:2004/AC:2006</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">261</td>
-<td class="cuerpo_tabla_centro"> (_RDQ2) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto visual.</td>
-<td class="cuerpo_tabla_centro">10 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1338:2004 Anexo J; UNE-EN 1338:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>261</td>
+<td> (_RDQ2) </td>
+<td colspan="2">Aspecto visual.</td>
+<td>10 adoquines</td>
+<td>UNE-EN 1338:2004 Anexo J; UNE-EN 1338:2004/AC:2006</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">262</td>
-<td class="cuerpo_tabla_centro"> (_RDQ3) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al desgaste por abrasión (método del disco ancho).</td>
-<td class="cuerpo_tabla_centro">3 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1338:2004 Anexo G; UNE-EN 1338:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">113,17</td>
+<td>262</td>
+<td> (_RDQ3) </td>
+<td colspan="2">Resistencia al desgaste por abrasión (método del disco ancho).</td>
+<td>3 adoquines</td>
+<td>UNE-EN 1338:2004 Anexo G; UNE-EN 1338:2004/AC:2006</td>
+<td>113,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">263</td>
-<td class="cuerpo_tabla_centro"> (_RDQ4) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión y carga de rotura.</td>
-<td class="cuerpo_tabla_centro">8 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1338:2004 Anexo F; UNE-EN 1338:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">111,55</td>
+<td>263</td>
+<td> (_RDQ4) </td>
+<td colspan="2">Resistencia a la flexión y carga de rotura.</td>
+<td>8 adoquines</td>
+<td>UNE-EN 1338:2004 Anexo F; UNE-EN 1338:2004/AC:2006</td>
+<td>111,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">264</td>
-<td class="cuerpo_tabla_centro"> (_RDQ5) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
-<td class="cuerpo_tabla_centro">3 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1338:2004 Anexo E; UNE-EN 1338:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">123,69</td>
+<td>264</td>
+<td> (_RDQ5) </td>
+<td colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
+<td>3 adoquines</td>
+<td>UNE-EN 1338:2004 Anexo E; UNE-EN 1338:2004/AC:2006</td>
+<td>123,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">265</td>
-<td class="cuerpo_tabla_centro"> (_RDQ6) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">5 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1338:2004 Anexo I; UNE-EN 1338:2004/AC:2006</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>265</td>
+<td> (_RDQ6) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>5 adoquines</td>
+<td>UNE-EN 1338:2004 Anexo I; UNE-EN 1338:2004/AC:2006</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">266</td>
-<td class="cuerpo_tabla_centro"> (_RDQ7) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>266</td>
+<td> (_RDQ7) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">267</td>
-<td class="cuerpo_tabla_centro"> (_RDQ8) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 adoquines</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>267</td>
+<td> (_RDQ8) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>8 adoquines</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">268</td>
-<td class="cuerpo_tabla_centro"> (_RDQ9) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Corte.</td>
-<td class="cuerpo_tabla_centro">3 adoquines</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>268</td>
+<td> (_RDQ9) </td>
+<td colspan="2">Mecanizado de las probetas. Corte.</td>
+<td>3 adoquines</td>
+<td>Instrucciones del Laboratorio</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">269</td>
-<td class="cuerpo_tabla_centro">(_RDQ10) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Mecanizado de las probetas. Pulido.</td>
-<td class="cuerpo_tabla_centro">3 adoquines</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">99,49</td>
+<td>269</td>
+<td>(_RDQ10) </td>
+<td colspan="2">Mecanizado de las probetas. Pulido.</td>
+<td>3 adoquines</td>
+<td>Instrucciones del Laboratorio</td>
+<td>99,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_centro"> (_RO) </td>
-<td class="cuerpo_tabla_izq" colspan="2">BOVEDILLAS DE HORMIGON.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>270</td>
+<td> (_RO) </td>
+<td colspan="2">BOVEDILLAS DE HORMIGON.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">271</td>
-<td class="cuerpo_tabla_centro"> (_RO01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características geométricas.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 15037-2:2009; UNE-EN 15037-2:2009+A1:2011; UNE-EN 15037-2:2009+A1:2011 ERRATUM:2011</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>271</td>
+<td> (_RO01) </td>
+<td colspan="2">Características geométricas.</td>
+<td>6 bovedillas</td>
+<td>UNE-EN 15037-2:2009; UNE-EN 15037-2:2009+A1:2011; UNE-EN 15037-2:2009+A1:2011 ERRATUM:2011</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">272</td>
-<td class="cuerpo_tabla_centro"> (_RO02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión en vano.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas</td>
-<td class="cuerpo_tabla_izq">UNE 67037:1999; Art. 36 EHE-08; UNE-EN 15037-2:2009; UNE-EN 15037-2:2009+A1:2011; UNE-EN 15037-2:2009+A1:2011 ERRATUM:2011;</td>
-<td class="cuerpo_tabla_coma">108,08</td>
+<td>272</td>
+<td> (_RO02) </td>
+<td colspan="2">Resistencia a flexión en vano.</td>
+<td>6 bovedillas</td>
+<td>UNE 67037:1999; Art. 36 EHE-08; UNE-EN 15037-2:2009; UNE-EN 15037-2:2009+A1:2011; UNE-EN 15037-2:2009+A1:2011 ERRATUM:2011;</td>
+<td>108,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">273</td>
-<td class="cuerpo_tabla_centro"> (_RO03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la compresión de bovedillas resistentes.</td>
-<td class="cuerpo_tabla_centro">6 bovedillas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 15037-2:2009; UNE-EN 15037-2:2009+A1:2011; UNE-EN 15037-2:2009+A1:2011 ERRATUM:2011</td>
-<td class="cuerpo_tabla_coma">215,38</td>
+<td>273</td>
+<td> (_RO03) </td>
+<td colspan="2">Resistencia a la compresión de bovedillas resistentes.</td>
+<td>6 bovedillas</td>
+<td>UNE-EN 15037-2:2009; UNE-EN 15037-2:2009+A1:2011; UNE-EN 15037-2:2009+A1:2011 ERRATUM:2011</td>
+<td>215,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">274</td>
-<td class="cuerpo_tabla_centro"> (_RP) </td>
-<td class="cuerpo_tabla_izq" colspan="2">PLACAS DE YESO LAMINADO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>274</td>
+<td> (_RP) </td>
+<td colspan="2">PLACAS DE YESO LAMINADO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_centro"> (_RP01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>275</td>
+<td> (_RP01) </td>
+<td colspan="2">Dimensiones.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">276</td>
-<td class="cuerpo_tabla_centro"> (_RP02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación de la designación.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">37,68</td>
+<td>276</td>
+<td> (_RP02) </td>
+<td colspan="2">Identificación de la designación.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>37,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">277</td>
-<td class="cuerpo_tabla_centro"> (_RP03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad, para placas tipo D.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">76,57</td>
+<td>277</td>
+<td> (_RP03) </td>
+<td colspan="2">Densidad, para placas tipo D.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>76,57</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">278</td>
-<td class="cuerpo_tabla_centro"> (_RP04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>278</td>
+<td> (_RP04) </td>
+<td colspan="2">Resistencia a flexión.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">279</td>
-<td class="cuerpo_tabla_centro"> (_RP05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Capacidad de absorción de agua superficial.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>279</td>
+<td> (_RP05) </td>
+<td colspan="2">Capacidad de absorción de agua superficial.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">280</td>
-<td class="cuerpo_tabla_centro"> (_RP06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Capacidad de absorción de agua total.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">49,56</td>
+<td>280</td>
+<td> (_RP06) </td>
+<td colspan="2">Capacidad de absorción de agua total.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>49,56</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">281</td>
-<td class="cuerpo_tabla_centro"> (_RP07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la dureza superficial.</td>
-<td class="cuerpo_tabla_centro">3 placas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 520:2005 +A1:2010</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>281</td>
+<td> (_RP07) </td>
+<td colspan="2">Determinación de la dureza superficial.</td>
+<td>3 placas</td>
+<td>UNE-EN 520:2005 +A1:2010</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">282</td>
-<td class="cuerpo_tabla_centro"> (_RP08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Corte de probetas para los ensayos.</td>
-<td class="cuerpo_tabla_centro">6 placas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">59,78</td>
+<td>282</td>
+<td> (_RP08) </td>
+<td colspan="2">Corte de probetas para los ensayos.</td>
+<td>6 placas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>59,78</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">283</td>
-<td class="cuerpo_tabla_centro"> (_RQ) </td>
-<td class="cuerpo_tabla_izq" colspan="2">PANELES DE YESO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>283</td>
+<td> (_RQ) </td>
+<td colspan="2">PANELES DE YESO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">284</td>
-<td class="cuerpo_tabla_centro"> (_RQ01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto, dimensiones y planitud.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">72,25</td>
+<td>284</td>
+<td> (_RQ01) </td>
+<td colspan="2">Aspecto, dimensiones y planitud.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>72,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">285</td>
-<td class="cuerpo_tabla_centro"> (_RQ02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Masa por unidad de superficie.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">47,02</td>
+<td>285</td>
+<td> (_RQ02) </td>
+<td colspan="2">Masa por unidad de superficie.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>47,02</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">286</td>
-<td class="cuerpo_tabla_centro"> (_RQ03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Humedad.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">45,88</td>
+<td>286</td>
+<td> (_RQ03) </td>
+<td colspan="2">Humedad.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>45,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">287</td>
-<td class="cuerpo_tabla_centro"> (_RQ04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">75,07</td>
+<td>287</td>
+<td> (_RQ04) </td>
+<td colspan="2">Resistencia a la flexión.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>75,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">288</td>
-<td class="cuerpo_tabla_centro"> (_RQ05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">pH.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">40,16</td>
+<td>288</td>
+<td> (_RQ05) </td>
+<td colspan="2">pH.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>40,16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">289</td>
-<td class="cuerpo_tabla_centro"> (_RQ06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Capacidad de absorción de agua (paneles hidrofugados).</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>289</td>
+<td> (_RQ06) </td>
+<td colspan="2">Capacidad de absorción de agua (paneles hidrofugados).</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">290</td>
-<td class="cuerpo_tabla_centro"> (_RQ07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Densidad.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">75,07</td>
+<td>290</td>
+<td> (_RQ07) </td>
+<td colspan="2">Densidad.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>75,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">291</td>
-<td class="cuerpo_tabla_centro"> (_RQ08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dureza superficial.</td>
-<td class="cuerpo_tabla_centro">3 paneles</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12859:2009</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>291</td>
+<td> (_RQ08) </td>
+<td colspan="2">Dureza superficial.</td>
+<td>3 paneles</td>
+<td>UNE-EN 12859:2009</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_centro"> (_RT) </td>
-<td class="cuerpo_tabla_izq" colspan="3">TEJAS Y ACCESORIOS DE HORMIGÓN.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>292</td>
+<td> (_RT) </td>
+<td colspan="3">TEJAS Y ACCESORIOS DE HORMIGÓN.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">293</td>
-<td class="cuerpo_tabla_centro"> (_ RT01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Longitud de cuelgue y perpendicularidad, anchura efectiva y planeidad.</td>
-<td class="cuerpo_tabla_centro">3 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
-<td class="cuerpo_tabla_coma">141,27</td>
+<td>293</td>
+<td> (_ RT01) </td>
+<td colspan="2">Longitud de cuelgue y perpendicularidad, anchura efectiva y planeidad.</td>
+<td>3 tejas</td>
+<td>UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
+<td>141,27</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">294</td>
-<td class="cuerpo_tabla_centro"> (_RT02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Masa.</td>
-<td class="cuerpo_tabla_centro">3 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
-<td class="cuerpo_tabla_coma">23,88</td>
+<td>294</td>
+<td> (_RT02) </td>
+<td colspan="2">Masa.</td>
+<td>3 tejas</td>
+<td>UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
+<td>23,88</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">295</td>
-<td class="cuerpo_tabla_centro"> (_RT03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Impermeabilidad.</td>
-<td class="cuerpo_tabla_centro">3 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
-<td class="cuerpo_tabla_coma">84,06</td>
+<td>295</td>
+<td> (_RT03) </td>
+<td colspan="2">Impermeabilidad.</td>
+<td>3 tejas</td>
+<td>UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
+<td>84,06</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">296</td>
-<td class="cuerpo_tabla_centro"> (_RT04) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Heladicidad (25 ciclos).</td>
-<td class="cuerpo_tabla_centro">3 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
-<td class="cuerpo_tabla_coma">315,38</td>
+<td>296</td>
+<td> (_RT04) </td>
+<td colspan="2">Heladicidad (25 ciclos).</td>
+<td>3 tejas</td>
+<td>UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
+<td>315,38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">297</td>
-<td class="cuerpo_tabla_centro"> (_RT05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a flexión transversal.</td>
-<td class="cuerpo_tabla_centro">3 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
-<td class="cuerpo_tabla_coma">139,24</td>
+<td>297</td>
+<td> (_RT05) </td>
+<td colspan="2">Resistencia a flexión transversal.</td>
+<td>3 tejas</td>
+<td>UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
+<td>139,24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">298</td>
-<td class="cuerpo_tabla_centro"> (_RT06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Autosoporte por el tacón.</td>
-<td class="cuerpo_tabla_centro">3 tejas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
-<td class="cuerpo_tabla_coma">22,37</td>
+<td>298</td>
+<td> (_RT06) </td>
+<td colspan="2">Autosoporte por el tacón.</td>
+<td>3 tejas</td>
+<td>UNE-EN 490:2005; UNE-EN 490:2005/A1:2007; UNE-EN 491:2005; UNE-EN 491:2005+AC:2005</td>
+<td>22,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">299</td>
-<td class="cuerpo_tabla_centro"> (_RW) </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
+<td>299</td>
+<td> (_RW) </td>
+<td> </td>
+<td colspan="4"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_centro"> (_RW01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">8 bordillos</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1340:2004 Anexo C; UNE 127340:2006</td>
-<td class="cuerpo_tabla_coma">102,08</td>
+<td>300</td>
+<td> (_RW01) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>8 bordillos</td>
+<td> UNE-EN 1340:2004 Anexo C; UNE 127340:2006</td>
+<td>102,08</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">301</td>
-<td class="cuerpo_tabla_centro"> (_RW02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Aspecto visual.</td>
-<td class="cuerpo_tabla_centro">8 bordillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1340:2004 Anexo J; UNE 127340:2006</td>
-<td class="cuerpo_tabla_coma">36,12</td>
+<td>301</td>
+<td> (_RW02) </td>
+<td colspan="2">Aspecto visual.</td>
+<td>8 bordillos</td>
+<td>UNE-EN 1340:2004 Anexo J; UNE 127340:2006</td>
+<td>36,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">302</td>
-<td class="cuerpo_tabla_centro"> (_RW03) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
-<td class="cuerpo_tabla_centro">3 bordillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1340:2004 Anexo E; UNE 127340:2006</td>
-<td class="cuerpo_tabla_coma">123,69</td>
+<td>302</td>
+<td> (_RW03) </td>
+<td colspan="2">Absorción total de agua y resistencia climática para clase 2.</td>
+<td>3 bordillos</td>
+<td>UNE-EN 1340:2004 Anexo E; UNE 127340:2006</td>
+<td>123,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">303</td>
-<td class="cuerpo_tabla_centro"> (_RW04)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia a la flexión y carga de rotura.</td>
-<td class="cuerpo_tabla_centro">8 bordillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1340:2004 Anexo F; UNE 127340:2006</td>
-<td class="cuerpo_tabla_coma">109,37</td>
+<td>303</td>
+<td> (_RW04)</td>
+<td colspan="2">Resistencia a la flexión y carga de rotura.</td>
+<td>8 bordillos</td>
+<td>UNE-EN 1340:2004 Anexo F; UNE 127340:2006</td>
+<td>109,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">304</td>
-<td class="cuerpo_tabla_centro"> (_RW05) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al desgaste por abrasión (método del disco ancho).</td>
-<td class="cuerpo_tabla_centro">3 bordillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1340:2004 Anexo G; UNE 127340:2006</td>
-<td class="cuerpo_tabla_coma">113,17</td>
+<td>304</td>
+<td> (_RW05) </td>
+<td colspan="2">Resistencia al desgaste por abrasión (método del disco ancho).</td>
+<td>3 bordillos</td>
+<td>UNE-EN 1340:2004 Anexo G; UNE 127340:2006</td>
+<td>113,17</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">305</td>
-<td class="cuerpo_tabla_centro"> (_RW06) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">5 bordillos</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1340:2004 Anexo I; UNE 127340:2006</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>305</td>
+<td> (_RW06) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>5 bordillos</td>
+<td>UNE-EN 1340:2004 Anexo I; UNE 127340:2006</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">306</td>
-<td class="cuerpo_tabla_centro"> (_RW07) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>306</td>
+<td> (_RW07) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">307</td>
-<td class="cuerpo_tabla_centro"> (_RW08) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 bordillos</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>307</td>
+<td> (_RW08) </td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento en laboratorio.</td>
+<td>8 bordillos</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">308</td>
-<td class="cuerpo_tabla_centro"> (_RW09)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Mecanizado de las probetas. Corte.</td>
-<td class="cuerpo_tabla_centro">3 bordillos</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>308</td>
+<td> (_RW09)</td>
+<td colspan="2"> Mecanizado de las probetas. Corte.</td>
+<td>3 bordillos</td>
+<td>Instrucciones del Laboratorio</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">309</td>
-<td class="cuerpo_tabla_centro"> (_RW10)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Mecanizado de las probetas. Pulido.</td>
-<td class="cuerpo_tabla_centro">3 bordillos</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">99,49</td>
+<td>309</td>
+<td> (_RW10)</td>
+<td colspan="2"> Mecanizado de las probetas. Pulido.</td>
+<td>3 bordillos</td>
+<td>Instrucciones del Laboratorio</td>
+<td>99,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">310</td>
-<td class="cuerpo_tabla_centro"> (_T)</td>
-<td class="cuerpo_tabla_izq" colspan="3">TUBERIAS PARA INSTALACIONES.</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>310</td>
+<td> (_T)</td>
+<td colspan="3">TUBERIAS PARA INSTALACIONES.</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">311</td>
-<td class="cuerpo_tabla_centro"> (_TA)</td>
-<td class="cuerpo_tabla_izq" colspan="2">ACERO GALVANIZADO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>311</td>
+<td> (_TA)</td>
+<td colspan="2">ACERO GALVANIZADO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">312</td>
-<td class="cuerpo_tabla_centro"> (_TA01)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 10255:2005+A1:2008; UNE19048:1985; UNE 19052:1985</td>
-<td class="cuerpo_tabla_coma">40,42</td>
+<td>312</td>
+<td> (_TA01)</td>
+<td colspan="2">Identificación.</td>
+<td>1 muestra</td>
+<td>UNE-EN 10255:2005+A1:2008; UNE19048:1985; UNE 19052:1985</td>
+<td>40,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">313</td>
-<td class="cuerpo_tabla_centro"> (_TA02)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones y tolerancias.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 10255:2005+A1:2008; UNE19048:1985; UNE 19052:1985</td>
-<td class="cuerpo_tabla_coma">65,41</td>
+<td>313</td>
+<td> (_TA02)</td>
+<td colspan="2">Dimensiones y tolerancias.</td>
+<td>1 muestra</td>
+<td>UNE-EN 10255:2005+A1:2008; UNE19048:1985; UNE 19052:1985</td>
+<td>65,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">314</td>
-<td class="cuerpo_tabla_centro"> (_TA03)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Adherencia de galvanizado.</td>
-<td class="cuerpo_tabla_centro">1 tubo</td>
-<td class="cuerpo_tabla_izq">UNE-EN ISO 8492:2006</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>314</td>
+<td> (_TA03)</td>
+<td colspan="2">Adherencia de galvanizado.</td>
+<td>1 tubo</td>
+<td>UNE-EN ISO 8492:2006</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">315</td>
-<td class="cuerpo_tabla_centro"> (_TC)</td>
-<td class="cuerpo_tabla_izq" colspan="2">COBRE.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>315</td>
+<td> (_TC)</td>
+<td colspan="2">COBRE.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">316</td>
-<td class="cuerpo_tabla_centro"> (_TC01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1057:2007+A1:2010; UNE-EN 12449:2000; UNE-EN 12449:2002 ERRATUM</td>
-<td class="cuerpo_tabla_coma">40,42</td>
+<td>316</td>
+<td> (_TC01) </td>
+<td colspan="2">Identificación.</td>
+<td>1 muestra</td>
+<td>UNE-EN 1057:2007+A1:2010; UNE-EN 12449:2000; UNE-EN 12449:2002 ERRATUM</td>
+<td>40,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">317</td>
-<td class="cuerpo_tabla_centro"> (_TC02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1057:2007+A1:2010; UNE-EN 12449:2000; UNE-EN 12449:2002 ERRATUM</td>
-<td class="cuerpo_tabla_coma">65,41</td>
+<td>317</td>
+<td> (_TC02) </td>
+<td colspan="2">Dimensiones.</td>
+<td>1 muestra</td>
+<td>UNE-EN 1057:2007+A1:2010; UNE-EN 12449:2000; UNE-EN 12449:2002 ERRATUM</td>
+<td>65,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">318</td>
-<td class="cuerpo_tabla_centro"> (_TH) </td>
-<td class="cuerpo_tabla_izq" colspan="2">TUBOS HORMIGON.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>318</td>
+<td> (_TH) </td>
+<td colspan="2">TUBOS HORMIGON.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">319</td>
-<td class="cuerpo_tabla_centro"> (_TH01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1916:2008</td>
-<td class="cuerpo_tabla_coma">40,42</td>
+<td>319</td>
+<td> (_TH01) </td>
+<td colspan="2">Identificación.</td>
+<td>1 muestra</td>
+<td>UNE-EN 1916:2008</td>
+<td>40,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">320</td>
-<td class="cuerpo_tabla_centro"> (_TH02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">1 muestra</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1916:2008</td>
-<td class="cuerpo_tabla_coma">65,41</td>
+<td>320</td>
+<td> (_TH02) </td>
+<td colspan="2">Características dimensionales.</td>
+<td>1 muestra</td>
+<td>UNE-EN 1916:2008</td>
+<td>65,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">321</td>
-<td class="cuerpo_tabla_centro"> (_TO) </td>
-<td class="cuerpo_tabla_izq" colspan="2">PVC.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>321</td>
+<td> (_TO) </td>
+<td colspan="2">PVC.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">322</td>
-<td class="cuerpo_tabla_centro"> (_TO01) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Tubos o accesorios. Identificación.</td>
-<td class="cuerpo_tabla_centro">2 piezas</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1329-1:1999; UNE-EN 1329-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">40,42</td>
+<td>322</td>
+<td> (_TO01) </td>
+<td colspan="2">Tubos o accesorios. Identificación.</td>
+<td>2 piezas</td>
+<td> UNE-EN 1329-1:1999; UNE-EN 1329-1:2001 ERRATUM</td>
+<td>40,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">323</td>
-<td class="cuerpo_tabla_centro"> (_TO02) </td>
-<td class="cuerpo_tabla_izq" colspan="2">Tubos o accesorios. Características dimensionales.</td>
-<td class="cuerpo_tabla_centro">2 piezas</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1329-1:1999; UNE-EN 1329-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">65,41</td>
+<td>323</td>
+<td> (_TO02) </td>
+<td colspan="2">Tubos o accesorios. Características dimensionales.</td>
+<td>2 piezas</td>
+<td> UNE-EN 1329-1:1999; UNE-EN 1329-1:2001 ERRATUM</td>
+<td>65,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">324</td>
-<td class="cuerpo_tabla_centro"> (_TP) </td>
-<td class="cuerpo_tabla_izq" colspan="2">TUBOS POLIPROPILENO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>324</td>
+<td> (_TP) </td>
+<td colspan="2">TUBOS POLIPROPILENO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">325</td>
-<td class="cuerpo_tabla_centro">(_TP01)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tubos. Identificación de marcado.</td>
-<td class="cuerpo_tabla_centro">2 tubos</td>
-<td class="cuerpo_tabla_izq">UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">40,42</td>
+<td>325</td>
+<td>(_TP01)</td>
+<td colspan="2">Tubos. Identificación de marcado.</td>
+<td>2 tubos</td>
+<td>UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
+<td>40,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">326</td>
-<td class="cuerpo_tabla_centro">(_TP02)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tubos. Características geométricas, diámetro exterior, espesor de pared.</td>
-<td class="cuerpo_tabla_centro">2 tubos</td>
-<td class="cuerpo_tabla_izq">UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">65,41</td>
+<td>326</td>
+<td>(_TP02)</td>
+<td colspan="2">Tubos. Características geométricas, diámetro exterior, espesor de pared.</td>
+<td>2 tubos</td>
+<td>UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
+<td>65,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">327</td>
-<td class="cuerpo_tabla_centro">(_TP03)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tubos. Aspecto y color.</td>
-<td class="cuerpo_tabla_centro">2 tubos</td>
-<td class="cuerpo_tabla_izq">UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>327</td>
+<td>(_TP03)</td>
+<td colspan="2">Tubos. Aspecto y color.</td>
+<td>2 tubos</td>
+<td>UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">328</td>
-<td class="cuerpo_tabla_centro">(_TP04)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Accesorios. Identificación de marcado.</td>
-<td class="cuerpo_tabla_centro">2 unidades</td>
-<td class="cuerpo_tabla_izq">UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">40,42</td>
+<td>328</td>
+<td>(_TP04)</td>
+<td colspan="2">Accesorios. Identificación de marcado.</td>
+<td>2 unidades</td>
+<td>UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
+<td>40,42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">329</td>
-<td class="cuerpo_tabla_centro">(_TP05)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Accesorios. Características geométricas.</td>
-<td class="cuerpo_tabla_centro">2 unidades</td>
-<td class="cuerpo_tabla_izq">UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">65,41</td>
+<td>329</td>
+<td>(_TP05)</td>
+<td colspan="2">Accesorios. Características geométricas.</td>
+<td>2 unidades</td>
+<td>UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
+<td>65,41</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">330</td>
-<td class="cuerpo_tabla_centro">(_TP06)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Accesorios. Aspecto y color.</td>
-<td class="cuerpo_tabla_centro">2 unidades</td>
-<td class="cuerpo_tabla_izq">UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>330</td>
+<td>(_TP06)</td>
+<td colspan="2">Accesorios. Aspecto y color.</td>
+<td>2 unidades</td>
+<td>UNE -EN 1451-1:1999; UNE-EN 1451-1:2001 ERRATUM</td>
+<td>51,07</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">331</td>
-<td class="cuerpo_tabla_centro"> (A)</td>
-<td class="cuerpo_tabla_izq" colspan="2">AUXILIARES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>331</td>
+<td> (A)</td>
+<td colspan="2">AUXILIARES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">332</td>
-<td class="cuerpo_tabla_centro"> (AH)</td>
-<td class="cuerpo_tabla_izq" colspan="2">HORMIGONES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>332</td>
+<td> (AH)</td>
+<td colspan="2">HORMIGONES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">333</td>
-<td class="cuerpo_tabla_centro"> (AH001)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Muestreo de hormigón fresco incluyendo medida del asiento de cono, fabricación de 3 probetas cilíndricas de 15 x 30 cm, curado, refrentado y rotura a compresión a la edad de 28 días.</td>
-<td class="cuerpo_tabla_centro">3 probetas</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 12390-1:2001, UNE-EN 12390-2:2001, UNE-EN 12390-3:2009, UNE-EN 12350-2:2009</td>
-<td class="cuerpo_tabla_coma">94,23</td>
+<td>333</td>
+<td> (AH001)</td>
+<td colspan="2">Muestreo de hormigón fresco incluyendo medida del asiento de cono, fabricación de 3 probetas cilíndricas de 15 x 30 cm, curado, refrentado y rotura a compresión a la edad de 28 días.</td>
+<td>3 probetas</td>
+<td> UNE-EN 12390-1:2001, UNE-EN 12390-2:2001, UNE-EN 12390-3:2009, UNE-EN 12350-2:2009</td>
+<td>94,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">334</td>
-<td class="cuerpo_tabla_centro"> (AH002)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Probeta adicional.</td>
-<td class="cuerpo_tabla_centro">1 probeta</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 12390-1:2001, UNE-EN 12390-2:2001, UNE-EN 12390-3:2009, UNE-EN 12350-2:2009</td>
-<td class="cuerpo_tabla_coma">31,43</td>
+<td>334</td>
+<td> (AH002)</td>
+<td colspan="2">Probeta adicional.</td>
+<td>1 probeta</td>
+<td> UNE-EN 12390-1:2001, UNE-EN 12390-2:2001, UNE-EN 12390-3:2009, UNE-EN 12350-2:2009</td>
+<td>31,43</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">335</td>
-<td class="cuerpo_tabla_centro"> (AH003)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Medida de la consistencia del hormigón fresco (Cono de Abrams).</td>
-<td class="cuerpo_tabla_centro">20 litros</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 12350-2:2009</td>
-<td class="cuerpo_tabla_coma">33,96</td>
+<td>335</td>
+<td> (AH003)</td>
+<td colspan="2">Medida de la consistencia del hormigón fresco (Cono de Abrams).</td>
+<td>20 litros</td>
+<td> UNE-EN 12350-2:2009</td>
+<td>33,96</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">336</td>
-<td class="cuerpo_tabla_centro"> (AH004)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento / resbalamiento en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>336</td>
+<td> (AH004)</td>
+<td colspan="2">Resistencia al deslizamiento / resbalamiento en laboratorio.</td>
+<td>8 probetas</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">337</td>
-<td class="cuerpo_tabla_centro"> (AH005)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento / resbalamiento «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>337</td>
+<td> (AH005)</td>
+<td colspan="2">Resistencia al deslizamiento / resbalamiento «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">338</td>
-<td class="cuerpo_tabla_centro"> (AM)</td>
-<td class="cuerpo_tabla_izq" colspan="2">MORTEROS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>338</td>
+<td> (AM)</td>
+<td colspan="2">MORTEROS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">339</td>
-<td class="cuerpo_tabla_centro"> (AM001)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Toma de muestras de mortero fresco en obra.</td>
-<td class="cuerpo_tabla_centro">15 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1015-2:1999; UNE-EN 1015-2:1999/A1:2007</td>
-<td class="cuerpo_tabla_coma">72,25</td>
+<td>339</td>
+<td> (AM001)</td>
+<td colspan="2">Toma de muestras de mortero fresco en obra.</td>
+<td>15 kg</td>
+<td>UNE-EN 1015-2:1999; UNE-EN 1015-2:1999/A1:2007</td>
+<td>72,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">340</td>
-<td class="cuerpo_tabla_centro"> (AM002)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la consistencia. Mesa de sacudidas.</td>
-<td class="cuerpo_tabla_centro">15 kg</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1015-3:1999; UNE-EN 1015-3:1999/A1:2005; UNE-EN 1015-3:1999/A2:2007</td>
-<td class="cuerpo_tabla_coma">72,25</td>
+<td>340</td>
+<td> (AM002)</td>
+<td colspan="2">Determinación de la consistencia. Mesa de sacudidas.</td>
+<td>15 kg</td>
+<td>UNE-EN 1015-3:1999; UNE-EN 1015-3:1999/A1:2005; UNE-EN 1015-3:1999/A2:2007</td>
+<td>72,25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">341</td>
-<td class="cuerpo_tabla_centro"> (AM003)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Morteros aditivados. Determinación de la consistencia. Mesa de sacudidas.</td>
-<td class="cuerpo_tabla_centro">15 kg</td>
-<td class="cuerpo_tabla_izq"> UNE 83258:2005</td>
-<td class="cuerpo_tabla_coma">144,51</td>
+<td>341</td>
+<td> (AM003)</td>
+<td colspan="2"> Morteros aditivados. Determinación de la consistencia. Mesa de sacudidas.</td>
+<td>15 kg</td>
+<td> UNE 83258:2005</td>
+<td>144,51</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">342</td>
-<td class="cuerpo_tabla_centro"> (AM004)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Determinación de la densidad aparente.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16 cm</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1015-10:2000</td>
-<td class="cuerpo_tabla_coma">61,67</td>
+<td>342</td>
+<td> (AM004)</td>
+<td colspan="2"> Determinación de la densidad aparente.</td>
+<td>3 probetas de 4x4x16 cm</td>
+<td> UNE-EN 1015-10:2000</td>
+<td>61,67</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">343</td>
-<td class="cuerpo_tabla_centro"> (AM005)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Resistencia a compresión y flexión (1 edad).</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16 cm</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1015-11:2000</td>
-<td class="cuerpo_tabla_coma">89,54</td>
+<td>343</td>
+<td> (AM005)</td>
+<td colspan="2"> Resistencia a compresión y flexión (1 edad).</td>
+<td>3 probetas de 4x4x16 cm</td>
+<td> UNE-EN 1015-11:2000</td>
+<td>89,54</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">344</td>
-<td class="cuerpo_tabla_centro"> (AM006)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tallado de probetas de mortero endurecido para compresión y flexión (por probeta tallada).</td>
-<td class="cuerpo_tabla_centro">1 probeta</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1015-11:2000</td>
-<td class="cuerpo_tabla_coma">28,18</td>
+<td>344</td>
+<td> (AM006)</td>
+<td colspan="2">Tallado de probetas de mortero endurecido para compresión y flexión (por probeta tallada).</td>
+<td>1 probeta</td>
+<td>UNE-EN 1015-11:2000</td>
+<td>28,18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">345</td>
-<td class="cuerpo_tabla_centro"> (AM007)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Determinación de la adherencia en laboratorio (probetas preparadas por el peticionario).</td>
-<td class="cuerpo_tabla_centro">10 determinaciones</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1015-12:2000</td>
-<td class="cuerpo_tabla_coma">118,15</td>
+<td>345</td>
+<td> (AM007)</td>
+<td colspan="2"> Determinación de la adherencia en laboratorio (probetas preparadas por el peticionario).</td>
+<td>10 determinaciones</td>
+<td> UNE-EN 1015-12:2000</td>
+<td>118,15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">346</td>
-<td class="cuerpo_tabla_centro"> (AM008)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Determinación de la adherencia «in situ» (probetas taladradas por el peticionario).</td>
-<td class="cuerpo_tabla_centro">12 probetas</td>
-<td class="cuerpo_tabla_izq"> UNE-EN 1015-12:2000; PNT-M-04</td>
-<td class="cuerpo_tabla_coma">273,71</td>
+<td>346</td>
+<td> (AM008)</td>
+<td colspan="2"> Determinación de la adherencia «in situ» (probetas taladradas por el peticionario).</td>
+<td>12 probetas</td>
+<td> UNE-EN 1015-12:2000; PNT-M-04</td>
+<td>273,71</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">347</td>
-<td class="cuerpo_tabla_centro"> (AM009)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Preparación de probetas para adherencia «in situ».</td>
-<td class="cuerpo_tabla_centro">12 probetas</td>
-<td class="cuerpo_tabla_izq">Instrucciones del Laboratorio</td>
-<td class="cuerpo_tabla_coma">232,49</td>
+<td>347</td>
+<td> (AM009)</td>
+<td colspan="2">Preparación de probetas para adherencia «in situ».</td>
+<td>12 probetas</td>
+<td>Instrucciones del Laboratorio</td>
+<td>232,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">348</td>
-<td class="cuerpo_tabla_centro"> (AM010)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Absorción de agua por capilaridad.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16 cm</td>
-<td class="cuerpo_tabla_izq">UNE-EN 1015-18:2003 </td>
-<td class="cuerpo_tabla_coma">78,61</td>
+<td>348</td>
+<td> (AM010)</td>
+<td colspan="2"> Absorción de agua por capilaridad.</td>
+<td>3 probetas de 4x4x16 cm</td>
+<td>UNE-EN 1015-18:2003 </td>
+<td>78,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">349</td>
-<td class="cuerpo_tabla_centro"> (AM011)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación del contenido de humedad en solera de mortero. Método de secado en estufa.</td>
-<td class="cuerpo_tabla_centro">2 muestras</td>
-<td class="cuerpo_tabla_izq">UNE-EN 56810:2010; UNE-EN 56810:2010 ERRATUM</td>
-<td class="cuerpo_tabla_coma">47,69</td>
+<td>349</td>
+<td> (AM011)</td>
+<td colspan="2">Determinación del contenido de humedad en solera de mortero. Método de secado en estufa.</td>
+<td>2 muestras</td>
+<td>UNE-EN 56810:2010; UNE-EN 56810:2010 ERRATUM</td>
+<td>47,69</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">350</td>
-<td class="cuerpo_tabla_centro"> (AM012)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación del contenido de humedad en solera de mortero de cemento. Método del carburo en laboratorio.</td>
-<td class="cuerpo_tabla_centro">4 determinaciones de 2 muestras</td>
-<td class="cuerpo_tabla_izq">UNE-EN 56810:2010; UNE-EN 56810:2010 ERRATUM</td>
-<td class="cuerpo_tabla_coma">81,31</td>
+<td>350</td>
+<td> (AM012)</td>
+<td colspan="2">Determinación del contenido de humedad en solera de mortero de cemento. Método del carburo en laboratorio.</td>
+<td>4 determinaciones de 2 muestras</td>
+<td>UNE-EN 56810:2010; UNE-EN 56810:2010 ERRATUM</td>
+<td>81,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">351</td>
-<td class="cuerpo_tabla_centro"> (AM013)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación del contenido de humedad en solera de mortero de cemento. Método del carburo en obra.</td>
-<td class="cuerpo_tabla_centro">4 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-EN 56810:2010; UNE-EN 56810:2010 ERRATUM</td>
-<td class="cuerpo_tabla_coma">179,73</td>
+<td>351</td>
+<td> (AM013)</td>
+<td colspan="2">Determinación del contenido de humedad en solera de mortero de cemento. Método del carburo en obra.</td>
+<td>4 determinaciones</td>
+<td>UNE-EN 56810:2010; UNE-EN 56810:2010 ERRATUM</td>
+<td>179,73</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_centro"> (AM014)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la capacidad de eflorecer de los morteros para albañilería endurecidos.</td>
-<td class="cuerpo_tabla_centro">3 probetas de 4x4x16 cm</td>
-<td class="cuerpo_tabla_izq">UNE 83830 EX:2010</td>
-<td class="cuerpo_tabla_coma">83,68</td>
+<td>352</td>
+<td> (AM014)</td>
+<td colspan="2">Determinación de la capacidad de eflorecer de los morteros para albañilería endurecidos.</td>
+<td>3 probetas de 4x4x16 cm</td>
+<td>UNE 83830 EX:2010</td>
+<td>83,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">353</td>
-<td class="cuerpo_tabla_centro"> ($)</td>
-<td class="cuerpo_tabla_izq" colspan="2">VARIOS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>353</td>
+<td> ($)</td>
+<td colspan="2">VARIOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">354</td>
-<td class="cuerpo_tabla_centro"> ($0001)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspección de Laboratorio con declaración responsable. Primera Área.</td>
-<td class="cuerpo_tabla_centro">Área</td>
-<td class="cuerpo_tabla_izq">Real Decreto 410/2010</td>
-<td class="cuerpo_tabla_coma">503,14</td>
+<td>354</td>
+<td> ($0001)</td>
+<td colspan="2">Inspección de Laboratorio con declaración responsable. Primera Área.</td>
+<td>Área</td>
+<td>Real Decreto 410/2010</td>
+<td>503,14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">355</td>
-<td class="cuerpo_tabla_centro"> ($0002)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspección Área adicional.</td>
-<td class="cuerpo_tabla_centro">Área</td>
-<td class="cuerpo_tabla_izq">Real Decreto 410/2010</td>
-<td class="cuerpo_tabla_coma">251,59</td>
+<td>355</td>
+<td> ($0002)</td>
+<td colspan="2">Inspección Área adicional.</td>
+<td>Área</td>
+<td>Real Decreto 410/2010</td>
+<td>251,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">356</td>
-<td class="cuerpo_tabla_centro"> ($0003)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Inspección de seguimiento por Laboratorio.</td>
-<td class="cuerpo_tabla_centro">Laboratorio</td>
-<td class="cuerpo_tabla_izq">Real Decreto 410/2010</td>
-<td class="cuerpo_tabla_coma">293,49</td>
+<td>356</td>
+<td> ($0003)</td>
+<td colspan="2">Inspección de seguimiento por Laboratorio.</td>
+<td>Laboratorio</td>
+<td>Real Decreto 410/2010</td>
+<td>293,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">357</td>
-<td class="cuerpo_tabla_centro"> ($0004)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Determinación de la conductividad térmica (materiales con λ&gt;0,050Wmk).</td>
-<td class="cuerpo_tabla_centro">2 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-EN 12667:2002; UNE-EN 12664:2002</td>
-<td class="cuerpo_tabla_coma">394,23</td>
+<td>357</td>
+<td> ($0004)</td>
+<td colspan="2">Determinación de la conductividad térmica (materiales con λ&gt;0,050Wmk).</td>
+<td>2 probetas</td>
+<td>UNE-EN 12667:2002; UNE-EN 12664:2002</td>
+<td>394,23</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">358</td>
-<td class="cuerpo_tabla_centro"> ($0005)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento de los pavimentos pulidos y sin pulir en laboratorio.</td>
-<td class="cuerpo_tabla_centro">8 probetas</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">150,13</td>
+<td>358</td>
+<td> ($0005)</td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento de los pavimentos pulidos y sin pulir en laboratorio.</td>
+<td>8 probetas</td>
+<td>UNE-ENV 12633:2003</td>
+<td>150,13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">359</td>
-<td class="cuerpo_tabla_centro"> ($0006)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Resistencia al deslizamiento/resbalamiento de los pavimentos pulidos y sin pulir «in situ».</td>
-<td class="cuerpo_tabla_centro">8 determinaciones</td>
-<td class="cuerpo_tabla_izq">UNE-ENV 12633:2003</td>
-<td class="cuerpo_tabla_coma">400,37</td>
+<td>359</td>
+<td> ($0006)</td>
+<td colspan="2">Resistencia al deslizamiento/resbalamiento de los pavimentos pulidos y sin pulir «in situ».</td>
+<td>8 determinaciones</td>
+<td>UNE-ENV 12633:2003</td>
+<td>400,37</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">360</td>
-<td class="cuerpo_tabla_centro"> ($0007)</td>
-<td class="cuerpo_tabla_izq" colspan="2">Toma, recogida y transporte de muestras de materiales.</td>
-<td class="cuerpo_tabla_centro">Por cada km de distancia a la obra</td>
-<td class="cuerpo_tabla_izq">Instrucciones del laboratorio</td>
-<td class="cuerpo_tabla_coma">1,75</td>
+<td>360</td>
+<td> ($0007)</td>
+<td colspan="2">Toma, recogida y transporte de muestras de materiales.</td>
+<td>Por cada km de distancia a la obra</td>
+<td>Instrucciones del laboratorio</td>
+<td>1,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">361</td>
-<td class="cuerpo_tabla_centro"> ($0008)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> Cualquier otro trabajo o ensayo realizado a solicitud de una persona, no contenido en los epígrafes anteriores.</td>
-<td class="cuerpo_tabla_centro">Por cada hora o fracción</td>
-<td class="cuerpo_tabla_izq">Normas a determinar por la solicitante</td>
-<td class="cuerpo_tabla_coma">51,07</td>
+<td>361</td>
+<td> ($0008)</td>
+<td colspan="2"> Cualquier otro trabajo o ensayo realizado a solicitud de una persona, no contenido en los epígrafes anteriores.</td>
+<td>Por cada hora o fracción</td>
+<td>Normas a determinar por la solicitante</td>
+<td>51,07</td>
 </tr>
 </tbody>
 </table>

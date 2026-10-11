@@ -644,14 +644,6 @@ b) El derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas, 
 
 De conformidad con lo previsto en el Estatuto de Autonomía, el Presupuesto de la Junta de Andalucía constituye la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la Junta de Andalucía, sus agencias administrativas y de régimen especial, sus instituciones, consorcios y agencias públicas empresariales que conforme a sus Estatutos sean de las previstas en el artículo 68.1.b) de la Ley 9/2007, de 22 de octubre, y de los derechos que prevean liquidar durante el correspondiente ejercicio, así como las estimaciones de gastos e ingresos a realizar por el resto de las agencias públicas empresariales, por las sociedades mercantiles del sector público andaluz, por las fundaciones y las demás entidades previstas en el artículo 5.3 de la presente Ley, y por la dotación para operaciones financieras de fondos regulados en el artículo 5.5.
 
-> Téngase en cuenta que esta actualización establecida por la disposición final 1.6 de la Ley 3/2019, de 22 de julio. [Ref. BOE-A-2019-12122](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12122), entra en vigor el 1 de enero de 2020, según determina su disposición final 21:
-
-> Redacción anterior:
-
-> "**Artículo 31. Concepto de Presupuesto de la Junta de Andalucía.**
-
-> De conformidad con lo previsto en el Estatuto de Autonomía, el Presupuesto de la Junta de Andalucía constituye la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la Junta de Andalucía, sus agencias administrativas y de régimen especial y sus instituciones, y de los derechos que prevean liquidar durante el correspondiente ejercicio, así como las estimaciones de gastos e ingresos a realizar por las agencias públicas empresariales, por las sociedades mercantiles del sector público andaluz, por los consorcios, fundaciones y las demás entidades previstas en el artículo 5.1 de la presente ley, y por la dotación para operaciones financieras de los fondos regulados en el artículo 5.3."
-
 > Se modifica por la disposición final 1.6 de la Ley 3/2019, de 22 de julio. [Ref. BOE-A-2019-12122](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12122)
 
 > Esta modificación entra en vigor el 1 de enero de 2020, según determina la disposición final 21 de la citada ley.

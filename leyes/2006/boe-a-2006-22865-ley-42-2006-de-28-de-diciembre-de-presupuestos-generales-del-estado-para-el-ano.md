@@ -286,390 +286,390 @@ Uno. Para la ejecución de los programas integrados en los estados de gastos de 
 
 Dos. En los estados de ingresos de los Entes a que se refiere el aparado anterior, se recogen las estimaciones de los derechos económicos que se prevé liquidar durante el ejercicio presupuestario. La distribución de su importe consolidado, expresado en miles de euros, se recoge a continuación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Entes</p>
+<p>Entes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Capítulos económicos</p>
+<p>Capítulos económicos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Capítulos I a VII Ingresos no financieros</p>
+<p>Capítulos I a VII Ingresos no financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Capítulo VIII Activos financieros</p>
+<p>Capítulo VIII Activos financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total ingresos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">146.065.369,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">997.989,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">147.063.359,25</p>
+<p>Total ingresos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33.272.434,90</p>
+<p>146.065.369,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.431.466,70</p>
+<p>997.989,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.703.901,60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100.147.981,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">632.157,86</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100.780.139,17</p>
+<p>147.063.359,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agencias estatales</p>
+<p>Organismos autónomos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,02</p>
+<p>33.272.434,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>2.431.466,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">132,02</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110.436,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">72.561,57</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">182.998,46</p>
+<p>35.703.901,60</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">279.596.354,56</p>
+<p>100.147.981,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.134.175,94</p>
+<p>632.157,86</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">283.730.530,50</p>
+<p>100.780.139,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agencias estatales</p>
+</td>
+<td>
+<p>132,02</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>132,02</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismos del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>110.436,89</p>
+</td>
+<td>
+<p>72.561,57</p>
+</td>
+<td>
+<p>182.998,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>279.596.354,56</p>
+</td>
+<td>
+<p>4.134.175,94</p>
+</td>
+<td>
+<p>283.730.530,50</p>
 </td>
 </tr>
 </table>
 
 Tres. Para las transferencias internas entre los Entes a que se refiere el apartado Uno de este artículo, se aprueban créditos por importe de 16.954.642,42 miles de euros con el siguiente desglose por Entes:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Transferencias según destino</p>
+<p>Transferencias según destino</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Transferencias según origen</p>
+<p>Transferencias según origen</p>
 </td>
 <td>
-<p class="cabeza_tabla">Estado</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cabeza_tabla">Organismos Autónomos</p>
+<p>Organismos Autónomos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Seguridad Social</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cabeza_tabla">Agencias Estatales</p>
+<p>Agencias Estatales</p>
 </td>
 <td>
-<p class="cabeza_tabla">Organismos del Articulo 1.e) de la presente Ley</p>
+<p>Organismos del Articulo 1.e) de la presente Ley</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.928.172,64</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.033.575,29</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.769,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.682.785,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12.649.843,23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">319.790,93</p>
+<p>4.928.172,64</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">134.242,27</p>
+<p>6.033.575,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>4.769,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>1.682.785,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>12.649.843,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">454.033,20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">161.939,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.688.826,36</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.850.765,99</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agencias estatales</p>
+<p>Organismos autónomos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>319.790,93</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>134.242,27</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos del art. 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>454.033,20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">481.730,56</p>
+<p>161.939,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.062.954,91</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9.722.401,65</p>
+<p>3.688.826,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.769,33</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.682.785,97</p>
+<p>-</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.954.642,42</p>
+<p>3.850.765,99</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agencias estatales</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismos del art. 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>481.730,56</p>
+</td>
+<td>
+<p>5.062.954,91</p>
+</td>
+<td>
+<p>9.722.401,65</p>
+</td>
+<td>
+<p>4.769,33</p>
+</td>
+<td>
+<p>1.682.785,97</p>
+</td>
+<td>
+<p>16.954.642,42</p>
 </td>
 </tr>
 </table>
 
 Cuatro. Los créditos incluidos en los programas y transferencias entre subsectores de los estados de gastos aprobados en este artículo, se distribuyen orgánica y económicamente, expresados en miles de euros, según se indica a continuación:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Entes</p>
+<p>Entes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Capítulos económicos</p>
+<p>Capítulos económicos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Capítulos I a VII Gastos no financieros</p>
+<p>Capítulos I a VII Gastos no financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Capítulo VIII Activos financieros</p>
+<p>Capítulo VIII Activos financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total gastos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">142.927.390,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12.112.071,70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">155.039.461,70</p>
+<p>Total gastos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40.236.669,31</p>
+<p>142.927.390,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">573.767,88</p>
+<p>12.112.071,70</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40.810.437,19</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102.118.514,39</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8.306.709,66</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110.425.224,05</p>
+<p>155.039.461,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Agencias estatales</p>
+<p>Organismos autónomos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.901,35</p>
+<p>40.236.669,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">-</p>
+<p>573.767,88</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.901,35</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.864.056,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.727,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.865.784,43</p>
+<p>40.810.437,19</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">287.151.531,94</p>
+<p>102.118.514,39</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.994.276,78</p>
+<p>8.306.709,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">308.145.808,72</p>
+<p>110.425.224,05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agencias estatales</p>
+</td>
+<td>
+<p>4.901,35</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>4.901,35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismos del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>1.864.056,89</p>
+</td>
+<td>
+<p>1.727,54</p>
+</td>
+<td>
+<p>1.865.784,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>287.151.531,94</p>
+</td>
+<td>
+<p>20.994.276,78</p>
+</td>
+<td>
+<p>308.145.808,72</p>
 </td>
 </tr>
 </table>
@@ -1253,166 +1253,166 @@ En el ámbito de la docencia universitaria, la cuantía del complemento de desti
 
 D) El complemento específico que, en su caso, esté asignado al puesto que se desempeñe, cuya cuantía, sin perjuicio de lo previsto en el artículo 23.Uno.a), experimentará con carácter general un incremento del 2 por 100 respecto de la aprobada para el ejercicio de 2006. Adicionalmente, en aplicación de lo dispuesto en el artículo 21.Cuatro, primer párrafo, de la presente Ley, los complementos específicos anuales resultantes de la operación anterior, experimentarán los incrementos lineales que se recogen en la siguiente tabla:
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="4">
-<p class="cabeza_tabla">Complemento Específico del Puesto (en €)</p>
+<p>Complemento Específico del Puesto (en €)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incremento a aplicar (en €)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Desde</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">17.909,76</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">629,35</p>
+<p>Incremento a aplicar (en €)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Desde</p>
+<p>Desde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12.273,72</p>
+<p>17.909,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17.909,75</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">503,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Desde</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8.858,04</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hasta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12.273,71</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">402,79</p>
+<p>629,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Desde</p>
+<p>Desde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.658,56</p>
+<p>12.273,72</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta</p>
+<p>Hasta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8.858,03</p>
+<p>17.909,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">322,23</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Desde</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.645,32</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hasta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.658,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">290,01</p>
+<p>503,48</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Desde</p>
+<p>Desde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.223,80</p>
+<p>8.858,04</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta</p>
+<p>Hasta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.645,31</p>
+<p>12.273,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">261,01</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Desde</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.635,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Hasta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.223,79</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">234,91</p>
+<p>402,79</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Desde</p>
+<p>Desde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.903,32</p>
+<p>6.658,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta</p>
+<p>Hasta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.635,43</p>
+<p>8.858,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">211,42</p>
+<p>322,23</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Desde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>4.645,32</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta</p>
+<p>Hasta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.903,31</p>
+<p>6.658,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">190,28</p>
+<p>290,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desde</p>
+</td>
+<td>
+<p>3.223,80</p>
+</td>
+<td>
+<p>Hasta</p>
+</td>
+<td>
+<p>4.645,31</p>
+</td>
+<td>
+<p>261,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desde</p>
+</td>
+<td>
+<p>2.635,44</p>
+</td>
+<td>
+<p>Hasta</p>
+</td>
+<td>
+<p>3.223,79</p>
+</td>
+<td>
+<p>234,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desde</p>
+</td>
+<td>
+<p>1.903,32</p>
+</td>
+<td>
+<p>Hasta</p>
+</td>
+<td>
+<p>2.635,43</p>
+</td>
+<td>
+<p>211,42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Hasta</p>
+</td>
+<td>
+<p>1.903,31</p>
+</td>
+<td>
+<p>190,28</p>
 </td>
 </tr>
 </table>
@@ -1567,305 +1567,305 @@ Las restantes retribuciones complementarias, variables y especiales de estos fun
 
 3\. c) El complemento general de puesto para los puestos adscritos a los funcionarios de los Cuerpos al servicio de la Administración de Justicia, a que se refiere el apartado Uno.1.c) de este mismo artículo queda establecido para el año 2007 en las cuantías siguientes, referidas a 12 mensualidades:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo</p>
+<p>Subtipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Euros</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p class="cuerpo_tabla_izq">Gestión Procesal y Administrativa y Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>Gestión Procesal y Administrativa y Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.016,52</p>
+<p>4.016,52</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.797,24</p>
+<p>4.797,24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.698,16</p>
+<p>3.698,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.478,88</p>
+<p>4.478,88</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.538,92</p>
+<p>3.538,92</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">B</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.319,64</p>
+<p>4.319,64</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p>IV</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C</p>
+<p>C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.379,68</p>
+<p>3.379,68</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">D</p>
+<p>D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.539,16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="7">
-<p class="cuerpo_tabla_izq">Tramitación Procesal y Administrativa y Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">I</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.486,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.266,72</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">II</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.167,64</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.948,36</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">III</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.008,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.789,12</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">IV</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.849,16</p>
+<p>3.539,16</p>
 </td>
 </tr>
 <tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Auxilio Judicial.</p>
+<p>Tramitación Procesal y Administrativa y Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.737,92</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.518,76</p>
+<p>3.486,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.419,68</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.200,40</p>
+<p>4.266,72</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">III</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">A</p>
+<p>A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.260,44</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.041,16</p>
+<p>3.167,64</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">IV</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">C</p>
+<p>B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.101,08</p>
+<p>3.948,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>3.008,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.789,12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>2.849,16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7">
+<p>Auxilio Judicial.</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>2.737,92</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.518,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>2.419,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.200,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>2.260,44</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>3.041,16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>2.101,08</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Médicos Forenses y Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
+<p>Médicos Forenses y Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">I</p>
+<p>I</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.972,24</p>
+<p>18.972,24</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.727,44</p>
+<p>18.727,44</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18.482,64</p>
+<p>18.482,64</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Escala a extinguir de Gestión Procesal y Administrativa, procedentes del Cuerpo de Secretarios de Juzgados de municipio de mas de 7.000 habitantes.</p>
+<p>Escala a extinguir de Gestión Procesal y Administrativa, procedentes del Cuerpo de Secretarios de Juzgados de municipio de mas de 7.000 habitantes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.129,04</p>
+<p>5.129,04</p>
 </td>
 </tr>
 </table>
@@ -2317,21 +2317,21 @@ Dos. En aquellos supuestos en que un mismo titular perciba dos o más pensiones 
 
 El referido límite (L) se obtendrá mediante la aplicación de la siguiente fórmula:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_der">L =</p>
+<p>L =</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P</p>
+<p>P</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">x 31.880,80 euros anuales.</p>
+<p>x 31.880,80 euros anuales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">T</p>
+<p>T</p>
 </td>
 </tr>
 </table>
@@ -2390,84 +2390,84 @@ Este reintegro podrá practicarse con cargo a las sucesivas mensualidades de pen
 
 Tres. Durante el 2007 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, en los importes siguientes:
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Importe</p>
+<p>Importe</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Con cónyuge a cargo</p>
+<p>Con cónyuge a cargo</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Sin cónyuge a cargo</p>
+<p>Sin cónyuge a cargo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Pensión de jubilación o retiro.</p>
+<p>Pensión de jubilación o retiro.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">602,52 euros/mes</p>
+<p>602,52 euros/mes</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">490,33 euros/mes</p>
+<p>490,33 euros/mes</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">8.435,28 euros/año</p>
+<p>8.435,28 euros/año</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">6.864,62 euros/año</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Pensión de viudedad.</p>
-</td>
-<td colspan="4">
-<p class="cuerpo_tabla_centro">490,33 euros/mes</p>
+<p>6.864,62 euros/año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Pensión de viudedad.</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_centro">6.864,62 euros/año</p>
+<p>490,33 euros/mes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="4">
+<p>6.864,62 euros/año</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</p>
+<p>Pensión familiar distinta de la de viudedad, siendo N el número de beneficiarios de la pensión o pensiones.</p>
 </td>
 <td rowspan="2"> </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">490,33 euros/mes</p>
-</td>
-<td rowspan="2"> </td>
-</tr>
-<tr>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">N</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2"> </td>
-<td colspan="2">
-<p class="cuerpo_tabla_centro">6.864,62 euros/año</p>
+<p>490,33 euros/mes</p>
 </td>
 <td rowspan="2"> </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">N</p>
+<p>N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2"> </td>
+<td colspan="2">
+<p>6.864,62 euros/año</p>
+</td>
+<td rowspan="2"> </td>
+</tr>
+<tr>
+<td colspan="2">
+<p>N</p>
 </td>
 </tr>
 </tbody>
@@ -2505,288 +2505,288 @@ Cuatro. A los efectos previstos en el apartado Uno de este artículo, los pensio
 
 Cinco. Durante el año 2007, las cuantías mínimas de las pensiones del Sistema de la Seguridad Social, en su modalidad contributiva, quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en las cuantías siguientes:
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
+<p>Con cónyuge</p>
+<p>a cargo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Jubilación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Sin cónyuge</p>
+<p>a cargo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Jubilación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8.435,28</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.864,62</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.883,26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.396,32</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Incapacidad Permanente</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.435,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Gran invalidez con incremento del 50 por ciento</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12.652,92</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.297,00</p>
+<p>6.864,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Absoluta</p>
+<p>Titular menor de sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8.435,28</p>
+<p>7.883,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.864,62</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8.435,28</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.864,62</p>
+<p>6.396,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total: «Cualificada» con edad entre sesenta y sesenta y cuatro años</p>
+<p>Incapacidad Permanente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.883,26</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.396,32</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Gran invalidez con incremento del 50 por ciento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8.435,28</p>
+<p>12.652,92</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.864,62</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Viudedad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>10.297,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años, cargas familiares o discapacidad en grado igual o superior al 65%</p>
+<p>Absoluta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.435,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6.864,62</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6.396,32</p>
+<p>6.864,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con menos de sesenta años</p>
+<p>Total: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.435,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.104,26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Orfandad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>6.864,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
+<p>Total: «Cualificada» con edad entre sesenta y sesenta y cuatro años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7.883,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.075,36</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">En la orfandad absoluta el mínimo se incrementará en 5.104,26 euros/año distribuidos, en su caso, entre los beneficiarios.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>6.396,32</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por beneficiario discapacitado menor de 18 años con una discapacidad en grado igual o superior al 65 por ciento</p>
+<p>Parcial del régimen de accidentes de trabajo:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.348,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">En favor de familiares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>8.435,28</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.075,36</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Si no existe viudo ni huérfano pensionistas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>6.864,62</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">- Un solo beneficiario, con 65 años</p>
+<p>Viudedad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5.342,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">- Un solo beneficiario menor de 65 años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5.030,06</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">- Varios beneficiarios: El mínimo asignado a cada uno de ellos se incrementará en el importe que resulte de prorratear 3.028,90 euros/año entre el número de beneficiarios.</p>
+<p>Titular con sesenta y cinco años, cargas familiares o discapacidad en grado igual o superior al 65%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>6.864,62</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con edad entre sesenta y sesenta y cuatro años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>6.396,32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con menos de sesenta años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5.104,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Orfandad</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.075,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En la orfandad absoluta el mínimo se incrementará en 5.104,26 euros/año distribuidos, en su caso, entre los beneficiarios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario discapacitado menor de 18 años con una discapacidad en grado igual o superior al 65 por ciento</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.348,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En favor de familiares</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.075,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Si no existe viudo ni huérfano pensionistas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- Un solo beneficiario, con 65 años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5.342,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- Un solo beneficiario menor de 65 años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5.030,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- Varios beneficiarios: El mínimo asignado a cada uno de ellos se incrementará en el importe que resulte de prorratear 3.028,90 euros/año entre el número de beneficiarios.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
 </td>
 </tr>
 </tbody>
@@ -3345,171 +3345,171 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4525</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1111</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5186</p>
+<p>0,4525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1112</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4746</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1113</p>
+<p>1111</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,5186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1114</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4414</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1115</p>
+<p>1112</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,4746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1116</p>
+<p>1113</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1115</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1116</p>
 </td>
 </tr>
 </table>
@@ -3520,171 +3520,171 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4525</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1121</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5186</p>
+<p>0,4525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1122</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4746</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1123</p>
+<p>1121</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,5186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1124</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4414</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1125</p>
+<p>1122</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,4746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1126</p>
+<p>1123</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1124</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1125</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1126</p>
 </td>
 </tr>
 </table>
@@ -3695,171 +3695,171 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4525</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1131</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5186</p>
+<p>0,4525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1132</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4746</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1133</p>
+<p>1131</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,5186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1134</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4414</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1135</p>
+<p>1132</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,4746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1136</p>
+<p>1133</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1134</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,65</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1135</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1136</p>
 </td>
 </tr>
 </table>
@@ -3870,171 +3870,171 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4525</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1141</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5186</p>
+<p>0,4525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1142</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4746</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1143</p>
+<p>1141</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,5186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1144</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4414</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1145</p>
+<p>1142</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,4746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1146</p>
+<p>1143</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1144</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,65</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1145</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1146</p>
 </td>
 </tr>
 </table>
@@ -4045,171 +4045,171 @@ En estos casos la superficie a considerar es la que figura en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4525</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1151</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5186</p>
+<p>0,4525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1152</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4746</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1153</p>
+<p>1151</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,5186</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1154</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,4414</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1155</p>
+<p>1152</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4414</p>
+<p>0,4746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1156</p>
+<p>1153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1154</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>1,65</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1155</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>0,4414</p>
+</td>
+<td>
+<p>1156</p>
 </td>
 </tr>
 </table>
@@ -4220,171 +4220,171 @@ En estos casos la superficie a considerar es la que figure en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1434</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1161</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1434</p>
+<p>0,1434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1162</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1434</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1163</p>
+<p>1161</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1434</p>
+<p>0,1434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1164</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1434</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1165</p>
+<p>1162</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1434</p>
+<p>0,1434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1166</p>
+<p>1163</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1434</p>
+</td>
+<td>
+<p>1164</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1434</p>
+</td>
+<td>
+<p>1165</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1434</p>
+</td>
+<td>
+<p>1166</p>
 </td>
 </tr>
 </table>
@@ -4395,171 +4395,171 @@ En estos casos la superficie a considerar es la que figure en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1434</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1171</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1434</p>
+<p>0,1434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1172</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1434</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1173</p>
+<p>1171</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1434</p>
+<p>0,1434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1174</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1434</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1175</p>
+<p>1172</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1434</p>
+<p>0,1434</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1176</p>
+<p>1173</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1434</p>
+</td>
+<td>
+<p>1174</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1434</p>
+</td>
+<td>
+<p>1175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1434</p>
+</td>
+<td>
+<p>1176</p>
 </td>
 </tr>
 </table>
@@ -4572,102 +4572,102 @@ En redes de ámbito nacional se aplicará el valor de superficie correspondiente
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz o 25 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">F &lt; 50 MHz UN-34</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18,757</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1181</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50 &lt; f &lt; 174 MHz</p>
+<p>F &lt; 50 MHz UN-34</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3310</p>
+<p>18,757</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1182</p>
+<p>1181</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF nota UN-24</p>
+<p>50 &lt; f &lt; 174 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3310</p>
+<p>0,3310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1183</p>
+<p>1182</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNAF nota UN-24</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,3310</p>
+</td>
+<td>
+<p>1183</p>
 </td>
 </tr>
 </table>
@@ -4680,148 +4680,148 @@ Para redes de mayor distancia de cobertura se aplicará la modalidad correspondi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (10, 12,5, 25 ó 200 kHz) en los casos que sea de aplicación por el número de frecuencias utilizadas. Si en virtud de las características técnicas de la emisión no es aplicable ninguna canalización entre las indicadas se tomará el ancho de banda de la denominación de la emisión o, en su defecto, se aplicará la totalidad de la correspondiente banda de frecuencias destinada en el CNAF para estas aplicaciones.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 50 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18,757</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1191</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50-174 MHz</p>
+<p>f &lt; 50 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,8</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,757</p>
+<p>18,757</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1192</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">406-470 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18,757</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1193</p>
+<p>1191</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">862-870 MHz .</p>
+<p>50-174 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,757</p>
+<p>18,757</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1194</p>
+<p>1192</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 1.000 MHz</p>
+<p>406-470 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,757</p>
+<p>18,757</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1195</p>
+<p>1193</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>862-870 MHz .</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>18,757</p>
+</td>
+<td>
+<p>1194</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 1.000 MHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>18,757</p>
+</td>
+<td>
+<p>1195</p>
 </td>
 </tr>
 </table>
@@ -4832,171 +4832,171 @@ El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el val
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,440 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1211</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,440 10<sup>-3</sup></p>
+<p>8,440 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1212</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,440 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1213</p>
+<p>1211</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,440 10<sup>-3</sup></p>
+<p>8,440 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1214</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,440 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1215</p>
+<p>1212</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,440 10<sup>-3</sup></p>
+<p>8,440 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1216</p>
+<p>1213</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,7</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>8,440 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1214</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz.</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>8,440 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1215</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>8,440 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1216</p>
 </td>
 </tr>
 </table>
@@ -5007,171 +5007,171 @@ En estos casos la superficie a considerar es la correspondiente a todo el territ
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, otro) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 100 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,019 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1221</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">100-200 MHz</p>
+<p>f &lt; 100 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,6</p>
+<p>1,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,019 10<sup>-3</sup></p>
+<p>9,019 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1222</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">200-400 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,019 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1223</p>
+<p>1221</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">400-1.000 MHz</p>
+<p>100-200 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,019 10<sup>-3</sup></p>
+<p>9,019 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1224</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,375</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,019 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1225</p>
+<p>1222</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 3.000 MHz</p>
+<p>200-400 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,375</p>
+<p>1,375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,019 10<sup>-3</sup></p>
+<p>9,019 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1226</p>
+<p>1223</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>400-1.000 MHz</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9,019 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1224</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.000-3.000 MHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9,019 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1225</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 3.000 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,375</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9,019 10<sup>-3</sup></p>
+</td>
+<td>
+<p>1226</p>
 </td>
 </tr>
 </table>
@@ -5186,56 +5186,56 @@ La superficie a considerar es la correspondiente a todo el territorio nacional.
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (25 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF notas UN: 40, 41</p>
+<p>CNAF notas UN: 40, 41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,437 10<sup>-2</sup></p>
+<p>1,437 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1311</p>
+<p>1311</p>
 </td>
 </tr>
 </table>
@@ -5246,56 +5246,56 @@ La superficie a considerar es la correspondiente a todo el territorio nacional.
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (200 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF notas UN: 41, 43, 44</p>
+<p>CNAF notas UN: 41, 43, 44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,406 10<sup>-2</sup></p>
+<p>3,406 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1321</p>
+<p>1321</p>
 </td>
 </tr>
 </table>
@@ -5306,56 +5306,56 @@ La superficie a considerar es la correspondiente a todo el territorio nacional.
 
 El ancho de banda (kHz) a tener en cuenta es el resultado de multiplicar el valor de la canalización (200 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF nota UN: 48</p>
+<p>CNAF nota UN: 48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,066 10<sup>-2</sup></p>
+<p>3,066 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1331</p>
+<p>1331</p>
 </td>
 </tr>
 </table>
@@ -5368,56 +5368,56 @@ Este servicio ha quedado suprimido.
 
 La superficie a considerar es la correspondiente a todo el territorio nacional. El ancho de banda (kHz) a tener en cuenta, es el resultante de multiplicar el valor de la canalización (5.000 kHz) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF nota UN: 48 .</p>
+<p>CNAF nota UN: 48 .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,087 10<sup>-2</sup></p>
+<p>4,087 10<sup>-2</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1351</p>
+<p>1351</p>
 </td>
 </tr>
 </table>
@@ -5428,56 +5428,56 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda a tener en cuenta será el ancho de banda total asignado expresado en kHz.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF nota UN: 40 .</p>
+<p>CNAF nota UN: 40 .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,02703</p>
+<p>0,02703</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1361</p>
+<p>1361</p>
 </td>
 </tr>
 </table>
@@ -5490,79 +5490,79 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 30 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1102</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1411</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30-300 MHz</p>
+<p>f &lt; 30 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,9352</p>
+<p>0,1102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1412</p>
+<p>1411</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30-300 MHz</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,9352</p>
+</td>
+<td>
+<p>1412</p>
 </td>
 </tr>
 </table>
@@ -5575,79 +5575,79 @@ En estos casos, la superficie a considerar es la que figure en la correspondient
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización (12,5 kHz, 25 kHz, etc.) por el número de frecuencias utilizadas.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 30 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1102</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1511</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">30-300 MHz</p>
+<p>f &lt; 30 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1102</p>
+<p>0,1102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1512</p>
+<p>1511</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30-300 MHz</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1102</p>
+</td>
+<td>
+<p>1512</p>
 </td>
 </tr>
 </table>
@@ -5660,191 +5660,191 @@ El ancho de banda para cada frecuencia será la anchura de banda reservada al si
 
 1.6.1 Servicio de comunicaciones móviles por satélite.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las frecuencias previstas en el CNAF</p>
+<p>En las frecuencias previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,75 10<sup>-4</sup></p>
+<p>18,75 10<sup>-4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1611</p>
+<p>1611</p>
 </td>
 </tr>
 </table>
 
 1.6.2 Servicio móvil aeronáutico por satélite.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Banda 10-15 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,832 10<sup>-5</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1621</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Banda 1500-1700 MHz</p>
+<p>Banda 10-15 GHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,548 10<sup>-5</sup></p>
+<p>0,832 10<sup>-5</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1622</p>
+<p>1621</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Banda 1500-1700 MHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>7,548 10<sup>-5</sup></p>
+</td>
+<td>
+<p>1622</p>
 </td>
 </tr>
 </table>
 
 1.6.3 Servicio móvil marítimo por satélite.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Banda 1500-1700 MHz</p>
+<p>Banda 1500-1700 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,358 10<sup>-4</sup></p>
+<p>2,358 10<sup>-4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1631</p>
+<p>1631</p>
 </td>
 </tr>
 </table>
@@ -5863,171 +5863,171 @@ Para cada frecuencia utilizada se tomará su valor nominal con independencia de 
 
 La superficie a considerar es la que resulte de multiplicar la suma de las longitudes de todos los vanos por una anchura de un kilómetro. El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización utilizada o, en su defecto, se tomará el ancho de banda, según la denominación de la emisión, por el número de frecuencias usadas en cada dirección del radioenlace.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,6003</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2111</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,45</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6003</p>
+<p>0,6003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2112</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5630</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2113</p>
+<p>2111</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5065</p>
+<p>0,6003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2114</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5065</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2115</p>
+<p>2112</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4690</p>
+<p>0,5630</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2116</p>
+<p>2113</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,5065</p>
+</td>
+<td>
+<p>2114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,5065</p>
+</td>
+<td>
+<p>2115</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,4690</p>
+</td>
+<td>
+<p>2116</p>
 </td>
 </tr>
 </table>
@@ -6038,171 +6038,171 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización utilizada, o, en su defecto, se tomará el ancho de banda, según la denominación de la emisión, por el número de frecuencias usadas en cada dirección del radioenlace.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,6003</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2121</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,55</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,45</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6003</p>
+<p>0,6003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2122</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5630</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2123</p>
+<p>2121</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5065</p>
+<p>0,6003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2124</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,5065</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2125</p>
+<p>2122</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4690</p>
+<p>0,5630</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2126</p>
+<p>2123</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,5065</p>
+</td>
+<td>
+<p>2124</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,5065</p>
+</td>
+<td>
+<p>2125</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,4690</p>
+</td>
+<td>
+<p>2126</p>
 </td>
 </tr>
 </table>
@@ -6221,171 +6221,171 @@ La superficie a considerar es la que resulte de multiplicar la suma de las longi
 
 El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el valor de la canalización utilizada o, en su defecto, se tomará el ancho de banda, según la denominación de la emisión, por el número de frecuencias usadas en cada dirección del radioenlace.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1666</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2151</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,7</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1666</p>
+<p>0,1666</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2152</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1562</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2153</p>
+<p>2151</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1405</p>
+<p>0,1666</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2154</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1405</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2155</p>
+<p>2152</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1301</p>
+<p>0,1562</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2156</p>
+<p>2153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,1405</p>
+</td>
+<td>
+<p>2154</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,1405</p>
+</td>
+<td>
+<p>2155</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,1301</p>
+</td>
+<td>
+<p>2156</p>
 </td>
 </tr>
 </table>
@@ -6394,171 +6394,171 @@ El ancho de banda (kHz) a tener en cuenta es el resultante de multiplicar el val
 
 En estos casos, a efectos de calcular la correspondiente tasa, se considerará el ancho de banda reservado, expresado en kHz, sobre la superficie correspondiente a todo el territorio nacional, con total independencia de la reutilización efectuada de toda o parte de la banda asignada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,2680 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2161</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2680 10<sup>-3</sup></p>
+<p>2,2680 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2162</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,2680 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2163</p>
+<p>2161</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2680 10<sup>-3</sup></p>
+<p>2,2680 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2164</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,2680 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2165</p>
+<p>2162</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2680 10<sup>-3</sup></p>
+<p>2,2680 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2166</p>
+<p>2163</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>2,2680 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2164</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>2,2680 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2165</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2,2680 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2166</p>
 </td>
 </tr>
 </table>
@@ -6569,102 +6569,102 @@ Para el servicio fijo punto a punto de alta densidad, en frecuencias no coordina
 
 El ancho de banda (expresado en kHz) a tener en cuenta para cada canal autorizado es el correspondiente a la canalización utilizada en el enlace (50 MHz, 100 MHz, otro). En su defecto se tomará el ancho de banda de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CNAF: Nota UN-126 .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,106</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2171</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64-66 GHz</p>
+<p>CNAF: Nota UN-126 .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,12</p>
+<p>1,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,05</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,106</p>
+<p>0,106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2172</p>
+<p>2171</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 66 GHz</p>
+<p>64-66 GHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,12</p>
+<p>1,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,106</p>
+<p>0,106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2173</p>
+<p>2172</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 66 GHz</p>
+</td>
+<td>
+<p>1,12</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0,106</p>
+</td>
+<td>
+<p>2173</p>
 </td>
 </tr>
 </table>
@@ -6681,174 +6681,174 @@ La superficie a considerar es la zona de servicio indicada en la correspondiente
 
 El ancho de banda (kHz) a tener en cuenta se obtendrá las características de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de modalidad</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">C1</p>
-</td>
-<td>
-<p class="cabeza_tabla">C2</p>
-</td>
-<td>
-<p class="cabeza_tabla">C3</p>
-</td>
-<td>
-<p class="cabeza_tabla">C4</p>
-</td>
-<td>
-<p class="cabeza_tabla">C5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,3</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>C5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1875</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2211</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,35</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1593</p>
+<p>0,1875</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2212</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2213</p>
+<p>2211</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1406</p>
+<p>0,1593</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2214</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1406</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2215</p>
+<p>2212</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0937</p>
+<p>0,0937</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2216</p>
+<p>2213</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,1406</p>
+</td>
+<td>
+<p>2214</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,1406</p>
+</td>
+<td>
+<p>2215</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0937</p>
+</td>
+<td>
+<p>2216</p>
 </td>
 </tr>
 </table>
@@ -6863,171 +6863,171 @@ Este epígrafe es exclusivamente aplicable a los títulos que se mencionan en el
 
 La superficie a considerar es la zona de servicio indicada en la correspondiente reserva de dominio público radioeléctrico, con la excepción indicada en 2.2.4. El ancho de banda (kHz) a tener en cuenta se obtendrá de las características de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0522</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2231</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,35</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0443</p>
+<p>0,0522</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2232</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0261</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2233</p>
+<p>2231</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0390</p>
+<p>0,0443</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2234</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,0390</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2235</p>
+<p>2232</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0261</p>
+<p>0,0261</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2236</p>
+<p>2233</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>0,0390</p>
+</td>
+<td>
+<p>2234</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>0,0390</p>
+</td>
+<td>
+<p>2235</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,0261</p>
+</td>
+<td>
+<p>2236</p>
 </td>
 </tr>
 </table>
@@ -7036,171 +7036,171 @@ La superficie a considerar es la zona de servicio indicada en la correspondiente
 
 En estos casos, a efectos de calcular la correspondiente tasa, se considerará el ancho de banda reservado, expresado en kHz, sobre la superficie correspondiente a todo el territorio nacional, con total independencia de la reutilización efectuada de toda o parte de la banda asignada.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 1.000 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,403 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2241</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.000-3.000 MHz .</p>
+<p>f &lt; 1.000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,35</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,403 10<sup>-3</sup></p>
+<p>2,403 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2242</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.000-10.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,403 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2243</p>
+<p>2241</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">10-24 GHz</p>
+<p>1.000-3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,2</p>
+<p>1,35</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,403 10<sup>-3</sup></p>
+<p>2,403 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2244</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24-39,5 GHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,403 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2245</p>
+<p>2242</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">39,5-105 GHz</p>
+<p>3.000-10.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,403 10<sup>-3</sup></p>
+<p>2,403 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2246</p>
+<p>2243</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10-24 GHz</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1,15</p>
+</td>
+<td>
+<p>2,403 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2244</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24-39,5 GHz</p>
+</td>
+<td>
+<p>1,1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>2,403 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2245</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39,5-105 GHz</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2,403 10<sup>-3</sup></p>
+</td>
+<td>
+<p>2246</p>
 </td>
 </tr>
 </table>
@@ -7215,102 +7215,102 @@ El ancho de banda para cada frecuencia será la anchura de banda de la denominac
 
 En los enlaces punto a punto tanto para el enlace ascendente como para el enlace descendente se considerará una superficie de 31.416 kilómetros cuadrados, en esta categoría se consideran incluidos los enlaces de contribución de radiodifusión punto a punto. En los enlaces de contribución punto a multipunto se considerará una superficie de 31.416 kilómetros cuadrados, para el enlace ascendente y para el enlace descendente se considerará el área de la zona de servicio que, en general, corresponderá con la superficie de todo el territorio nacional, estableciéndose una superficie mínima de 100.000 kilómetros cuadrados.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 3.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,875 10<sup>-4</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2311</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3000-30000 MHz</p>
+<p>f &lt; 3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,15</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,15</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,875 10<sup>-4</sup></p>
+<p>1,875 10<sup>-4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2312</p>
+<p>2311</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 30 GHz</p>
+<p>3000-30000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,0</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,0</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,875 10<sup>-4</sup></p>
+<p>1,875 10<sup>-4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2314</p>
+<p>2312</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 30 GHz</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td>
+<p>1,875 10<sup>-4</sup></p>
+</td>
+<td>
+<p>2314</p>
 </td>
 </tr>
 </table>
@@ -7323,102 +7323,102 @@ Para los enlaces de conexión (enlace ascendente) del servicio de radiodifusión
 
 Se considerará la superficie de la zona de servicio, estableciéndose una superficie mínima de 10.000 kilómetros cuadrados. En el caso de los enlaces SNG se considerará una superficie de 20.000 kilómetros cuadrados. En todos los casos anteriores, la superficie se tomará tanto en transmisión como en recepción y todo ello independientemente del número de estaciones transmisoras y receptoras.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">f &lt; 3.000 MHz .</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,5 10<sup>-4</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2331</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3000-30000 MHz</p>
+<p>f &lt; 3.000 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,25</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,20</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,5 10<sup>-4</sup></p>
+<p>5,5 10<sup>-4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2332</p>
+<p>2331</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">&gt; 30 GHz</p>
+<p>3000-30000 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,0</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,0</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,20</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,5 10<sup>-4</sup></p>
+<p>5,5 10<sup>-4</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2334</p>
+<p>2332</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 30 GHz</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td>
+<p>5,5 10<sup>-4</sup></p>
+</td>
+<td>
+<p>2334</p>
 </td>
 </tr>
 </table>
@@ -7463,79 +7463,79 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 9 kHz en los sistemas de modulación con doble banda lateral y de 4,5 kHz en los sistemas de modulación con banda lateral única.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">148,5 a 283,5 kHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">625,637 k</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3111</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">526,5 a 1.606,5 kHz .</p>
+<p>148,5 a 283,5 kHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,5</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">625,637 k</p>
+<p>625,637 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3112</p>
+<p>3111</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>526,5 a 1.606,5 kHz .</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>625,637 k</p>
+</td>
+<td>
+<p>3112</p>
 </td>
 </tr>
 </table>
@@ -7546,56 +7546,56 @@ En el caso de la radiodifusión sonora de onda corta se considerará que la supe
 
 La anchura de banda B será de 9 kHz en los sistemas de modulación con doble banda lateral y de 4,5 kHz en los sistemas de modulación con banda lateral única.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3 a 30 MHz según CNAF .</p>
+<p>3 a 30 MHz según CNAF .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">312,816 k</p>
+<p>312,816 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3121</p>
+<p>3121</p>
 </td>
 </tr>
 </table>
@@ -7606,56 +7606,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 180 kHz en los sistemas monofónicos, de 256 kHz en los sistemas estereofónicos y 300 kHz en los sistemas con subportadoras suplementarias.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">87,5 a 108 MHz</p>
+<p>87,5 a 108 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12,56 k</p>
+<p>12,56 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3131</p>
+<p>3131</p>
 </td>
 </tr>
 </table>
@@ -7666,56 +7666,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 180 kHz en los sistemas monofónicos, de 256 kHz en los sistemas estereofónicos y de 300 kHz en los sistemas con subportadoras suplementarias.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">87,5 a 108 MHz .</p>
+<p>87,5 a 108 MHz .</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12,56 k</p>
+<p>12,56 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3141</p>
+<p>3141</p>
 </td>
 </tr>
 </table>
@@ -7726,79 +7726,79 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 1.536 kHz en los sistemas con norma UNE ETS 300 401.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">195 a 223 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,361 k</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3151</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.452 a 1.492 MHz</p>
+<p>195 a 223 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,361 k</p>
+<p>0,361 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3152</p>
+<p>3151</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.452 a 1.492 MHz</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,361 k</p>
+</td>
+<td>
+<p>3152</p>
 </td>
 </tr>
 </table>
@@ -7809,79 +7809,79 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 1.536 kHz en los sistemas con norma UNE ETS 300 401.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">195 a 223 MHz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,361 k</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3161</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.452 a 1.492 MHz .</p>
+<p>195 a 223 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,361 k</p>
+<p>0,361 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3162</p>
+<p>3161</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.452 a 1.492 MHz .</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,361 k</p>
+</td>
+<td>
+<p>3162</p>
 </td>
 </tr>
 </table>
@@ -7894,56 +7894,56 @@ Se distinguen las siguientes modalidades, a efectos de calcular la tasa por rese
 
 La superficie S, expresada en kilómetros cuadrados, será la correspondiente a la zona de servicio. La anchura de banda B será de 8.000 kHz en los sistemas con la norma G/PAL.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 830 MHz</p>
+<p>470 a 830 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,54 k</p>
+<p>0,54 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3212</p>
+<p>3212</p>
 </td>
 </tr>
 </table>
@@ -7954,56 +7954,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 8.000 kHz en los sistemas con la norma G/PAL.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 830 MHz</p>
+<p>470 a 830 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,54 k</p>
+<p>0,54 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3222</p>
+<p>3222</p>
 </td>
 </tr>
 </table>
@@ -8014,56 +8014,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 8.000 kHz en los sistemas con la norma UNE ETS 300 744.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 862 MHz</p>
+<p>470 a 862 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,108 k</p>
+<p>0,108 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3231</p>
+<p>3231</p>
 </td>
 </tr>
 </table>
@@ -8074,56 +8074,56 @@ La superficie S, expresada en kilómetros cuadrados, será la correspondiente a 
 
 La anchura de banda B será de 8.000 kHz en los sistemas con la norma UNE ETS 300 744.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">470 a 862 MHz</p>
+<p>470 a 862 MHz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>1,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,108 k</p>
+<p>0,108 k</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3241</p>
+<p>3241</p>
 </td>
 </tr>
 </table>
@@ -8140,56 +8140,56 @@ Este servicio se presta en las bandas de frecuencia por debajo de 195 MHz destin
 
 La anchura de banda computable para el cálculo de la tasa es la correspondiente al canal utilizado (300 kHz, 400 kHz, otro).
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,771</p>
+<p>0,771</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3311</p>
+<p>3311</p>
 </td>
 </tr>
 </table>
@@ -8200,102 +8200,102 @@ Este servicio se presta en las bandas de frecuencia destinadas al mismo según e
 
 En estos casos la superficie a considerar es la que resulte de multiplicar la suma de las longitudes de todos los vanos por una anchura de un kilómetro, estableciéndose una superficie mínima de 10 kilómetros cuadrados. La anchura de banda computable para el cálculo de la tasa es la correspondiente al canal utilizado (300 kHz, 400 kHz, otro).
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">CNAF: Nota UN-111</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3321</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF: Notas UN-47</p>
+<p>CNAF: Nota UN-111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,15</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,10</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,90</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,5</p>
+<p>5,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3322</p>
+<p>3321</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CNAF: Notas UN-88</p>
+<p>CNAF: Notas UN-47</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,05</p>
+<p>1,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,75</p>
+<p>1,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1,60</p>
+<p>1,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,5</p>
+<p>5,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3323</p>
+<p>3322</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNAF: Notas UN-88</p>
+</td>
+<td>
+<p>1,05</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>1,60</p>
+</td>
+<td>
+<p>5,5</p>
+</td>
+<td>
+<p>3323</p>
 </td>
 </tr>
 </table>
@@ -8306,56 +8306,56 @@ Este servicio se presta en las bandas de frecuencia por encima de 2000 MHz desti
 
 En estos casos, se establece una superficie mínima de 10 kilómetros cuadrados, independientemente del número de equipos funcionando en la misma frecuencia para su uso en todo el territorio nacional. La anchura de banda computable para el cálculo de la tasa es la correspondiente al canal utilizado.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Bandas de frecuencias</p>
+<p>Bandas de frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,25</p>
+<p>1,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6899</p>
+<p>0,6899</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3331</p>
+<p>3331</p>
 </td>
 </tr>
 </table>
@@ -8370,56 +8370,56 @@ La superficie a considerar en este servicio será la del círculo que tiene como
 
 El ancho de banda se obtiene directamente de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0392</p>
+<p>0,0392</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4111</p>
+<p>4111</p>
 </td>
 </tr>
 </table>
@@ -8430,56 +8430,56 @@ La superficie a considerar en este servicio será la del círculo que tiene como
 
 El ancho de banda se obtiene directamente de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0579</p>
+<p>0,0579</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4211</p>
+<p>4211</p>
 </td>
 </tr>
 </table>
@@ -8490,56 +8490,56 @@ La superficie a considerar en este servicio será la del círculo que tiene como
 
 El ancho de banda se obtiene directamente de la denominación de la emisión.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0,0297</p>
+<p>0,0297</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4311</p>
+<p>4311</p>
 </td>
 </tr>
 </table>
@@ -8550,79 +8550,79 @@ La superficie a considerar en estos servicios será la correspondiente a la zona
 
 El ancho de banda, tanto en transmisión como en recepción, será el exigido por el sistema solicitado en cada caso.
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Frecuencias</p>
+<p>Frecuencias</p>
 </td>
 <td colspan="5">
-<p class="cabeza_tabla">Coeficientes</p>
+<p>Coeficientes</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código de modalidad</p>
+<p>Código de modalidad</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">C1</p>
+<p>C1</p>
 </td>
 <td>
-<p class="cabeza_tabla">C2</p>
+<p>C2</p>
 </td>
 <td>
-<p class="cabeza_tabla">C3</p>
+<p>C3</p>
 </td>
 <td>
-<p class="cabeza_tabla">C4</p>
+<p>C4</p>
 </td>
 <td>
-<p class="cabeza_tabla">C5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,752 10<sup>-3</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4411</p>
+<p>C5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En las bandas previstas en el CNAF</p>
+<p>En las bandas previstas en el CNAF</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9 10<sup>-4</sup></p>
+<p>3,752 10<sup>-3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4412</p>
+<p>4411</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En las bandas previstas en el CNAF</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1,9 10<sup>-4</sup></p>
+</td>
+<td>
+<p>4412</p>
 </td>
 </tr>
 </table>
@@ -8706,66 +8706,66 @@ Tarifa C.4. Concesiones administrativas de mostradores de facturación.
 
 C.4.1 Para las concesiones que se contraten por períodos anuales las cuantías a aplicar serán las siguientes:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Aeropuerto</p>
+<p>Aeropuerto</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Euros/mes/mostrador</p>
+<p>Euros/mes/mostrador</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con transportador báscula</p>
+<p>Con transportador báscula</p>
 </td>
 <td>
-<p class="cabeza_tabla">Con cinta posterior sin transportador báscula</p>
+<p>Con cinta posterior sin transportador báscula</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cinta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Grupo A-B</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.161,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">332,81</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29,70</p>
+<p>Sin cinta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo C</p>
+<p>Grupo A-B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">989,60</p>
+<p>1.161,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">187,13</p>
+<p>332,81</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16,59</p>
+<p>29,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo D</p>
+<p>Grupo C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">989,60</p>
+<p>989,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">123,89</p>
+<p>187,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,00</p>
+<p>16,59</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo D</p>
+</td>
+<td>
+<p>989,60</p>
+</td>
+<td>
+<p>123,89</p>
+</td>
+<td>
+<p>11,00</p>
 </td>
 </tr>
 </table>
@@ -8800,118 +8800,118 @@ Las cuantías a aplicar por cada servicio de pasarela u ocupación de la platafo
 
 Aeropuerto de Madrid Barajas:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Hora tipo</p>
+<p>Hora tipo</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">€/hora o fracción</p>
+<p>€/hora o fracción</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">€/cuarto de hora o fracción adicional</p>
+<p>€/cuarto de hora o fracción adicional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Hasta 3 horas</p>
+<p>Hasta 3 horas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Más de 3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Normal</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">112,78</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">34,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">51,45</p>
+<p>Más de 3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reducida</p>
+<p>Normal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46,50</p>
+<p>112,78</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,00</p>
+<p>34,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,00</p>
+<p>51,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reducida</p>
+</td>
+<td>
+<p>46,50</p>
+</td>
+<td>
+<p>14,00</p>
+</td>
+<td>
+<p>14,00</p>
 </td>
 </tr>
 </table>
 
 Resto de aeropuertos:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Hora tipo</p>
+<p>Hora tipo</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">€/hora o fracción</p>
+<p>€/hora o fracción</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">€/cuarto de hora o fracción adicional</p>
+<p>€/cuarto de hora o fracción adicional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Hasta 3 horas</p>
+<p>Hasta 3 horas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Más de 3 horas</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Normal</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">102,24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30,66</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">46,00</p>
+<p>Más de 3 horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Punta</p>
+<p>Normal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">130,09</p>
+<p>102,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40,00</p>
+<p>30,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60,00</p>
+<p>46,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reducida</p>
+<p>Punta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46,50</p>
+<p>130,09</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,00</p>
+<p>40,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14,00</p>
+<p>60,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reducida</p>
+</td>
+<td>
+<p>46,50</p>
+</td>
+<td>
+<p>14,00</p>
+</td>
+<td>
+<p>14,00</p>
 </td>
 </tr>
 </table>

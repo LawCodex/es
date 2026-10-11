@@ -826,14 +826,6 @@ Las actuaciones que deban someterse a autorización ambiental unificada, así co
 
 Las actuaciones que deban someterse a licencia ambiental, así como sus modificaciones sustanciales, de acuerdo con lo establecido en los artículos 89 y 94 de la Ley para la Gestión Ambiental de Andalucía, y que se encuentren incluidos en el anexo I de la presente ley. El informe de evaluación de impacto en la salud se incluirá en la licencia ambiental que se otorgue.
 
-> Téngase en cuenta que esta actualización de la letra c) del apartado 1, establecida por la disposición final 5.1 de la Ley 2/2026, de 12 de marzo, [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), produce efectos desde el 20 de junio de 2026, según establece su disposición final 7.
-
-> Redacción anterior:
-
-> "c) Aquellas actividades y obras, públicas y privadas, y sus proyectos, que deban someterse a los instrumentos de prevención y control ambiental establecidos en los párrafos a) del artículo 16.1 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental. Asimismo, se someterán a evaluación de impacto en salud aquellas actividades y obras, públicas y privadas, y sus proyectos, que deban someterse a los instrumentos de prevención y control ambiental establecidos en los párrafos b) y d) del artículo 16.1 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, y que se encuentren incluidos en el Anexo I de la presente Ley.
-
-> En estos supuestos, la resolución de los instrumentos señalados anteriormente contendrá el informe de evaluación de impacto en la salud."
-
 d) Aquellas otras actividades y obras, no contempladas en el párrafo anterior, que se determinen mediante decreto del Consejo de Gobierno, sobre la base de la evidencia de su previsible impacto en la salud de las personas.
 
 2\. En el informe de impacto en la salud de las actividades y obras a que se refieren los párrafos c) y d) del apartado anterior, se podrá establecer la necesidad de delimitar una zona de seguridad para la protección de la salud con limitaciones de uso para las actividades humanas que específicamente se determinen.
@@ -891,20 +883,6 @@ De no emitirse en el plazo señalado, este informe se entenderá favorable y se 
 4\. En los supuestos contemplados en el artículo 56.1.d), el procedimiento para la tramitación de la valoración y del informe de evaluación de impacto en la salud se desarrollará reglamentariamente, teniendo en cuenta los criterios de garantía, de seguridad jurídica, de eficacia y de simplificación administrativa, atendiendo a la naturaleza de cada actividad.
 
 5\. Se regulará reglamentariamente un trámite de consultas previas al que voluntariamente podrán acogerse las personas o entidades interesadas. En este trámite la Consejería competente en materia de salud informará sobre la procedencia o no de someter la actuación a evaluación del impacto en la salud, así como sobre el alcance de la valoración del impacto en la salud, cuando deba presentarse.
-
-> Téngase en cuenta que esta actualización, establecida por la disposición final 5.2 de la Ley 2/2026, de 12 de marzo, [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "1. En los supuestos contemplados en el artículo 56.1.a), el organismo o entidad promotora del plan o programa solicitará a la Consejería competente en materia de salud el informe de evaluación de impacto en salud, previa presentación de la correspondiente valoración del impacto en salud.
-
-> 2\. En los supuestos contemplados en el artículo 56.1.b), el promotor solicitará a la Consejería competente en materia de salud el informe de evaluación de impacto en salud, adjuntando la valoración del impacto en salud en los términos y con los procedimientos establecidos en el artículo 40 de la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental.
-
-> 3\. En los supuestos contemplados en el artículo 56.1.c), cuando las actividades estén sometidas a autorización ambiental integrada o unificada, la evaluación de impacto en salud se efectuará de conformidad con lo dispuesto en los artículos 24 y 31 de la Ley 7/2007, de 9 de julio. Cuando se trate de actuaciones que estén sujetas a calificación ambiental, el informe de evaluación de impacto en la salud se exigirá en el procedimiento de concesión de la licencia municipal. A tal efecto, junto con la solicitud de la correspondiente licencia, los titulares o promotores de las actuaciones presentarán una valoración de impacto en la salud. Los ayuntamientos darán traslado de dicha valoración a la Consejería competente en materia de salud para la emisión del correspondiente informe de evaluación de impacto en salud.
-
-> 4\. En los supuestos contemplados en el artículo 56.1.d), el procedimiento para la tramitación de la valoración y del informe de evaluación de impacto en salud se desarrollará reglamentariamente, teniendo en cuenta los criterios de garantía, de seguridad jurídica, de eficacia y de simplificación administrativa, atendiendo a la naturaleza de cada actividad.
-
-> 5\. Se regulará reglamentariamente un trámite de consultas previas al que voluntariamente podrán acogerse las personas o entidades interesadas. En este trámite la Consejería competente en materia de salud informará sobre la procedencia o no de someter la actuación a evaluación del impacto en la salud, así como sobre el alcance de la valoración del impacto en la salud, cuando deba presentarse."
 
 > Se modifica, con efectos de 20 de junio de 2026, por la disposición final 5.2 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 
@@ -1962,307 +1940,110 @@ b) Instalaciones de incineración de residuos no peligrosos definidos en el art�
 
 Parte II. Actividades extraídas del anexo I de la Ley para la Gestión Ambiental de Andalucía.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categoría</th>
-<th class="cabeza_tabla">Subcategoría</th>
-<th class="cabeza_tabla">Actuaciones</th>
-<th class="cabeza_tabla">Instrumento</th>
+<th>Categoría</th>
+<th>Subcategoría</th>
+<th>Actuaciones</th>
+<th>Instrumento</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Industria Siderúrgica y del Mineral</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">4</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
-<p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-<p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-<p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+<td colspan="2">4</td>
+<td>
+<p>Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
+<p>1.ª Que esté situada fuera de polígonos industriales.</p>
+<p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+<p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">5</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
-<p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-<p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-<p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+<td colspan="2">5</td>
+<td>
+<p>Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
+<p>1.ª Que esté situada fuera de polígonos industriales.</p>
+<p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+<p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">6</td>
-<td class="cuerpo_tabla_centro">6.1</td>
-<td class="cuerpo_tabla_izq">Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td rowspan="3">6</td>
+<td>6.1</td>
+<td>Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.2</td>
-<td class="cuerpo_tabla_izq">Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>6.2</td>
+<td>Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.3</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
-<p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-<p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-<p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+<td>6.3</td>
+<td>
+<p>Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
+<p>1.ª Que esté situada fuera de polígonos industriales.</p>
+<p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+<p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">7</td>
-<td class="cuerpo_tabla_izq">Instalaciones de fabricación de aglomerados asfálticos.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td colspan="2">7</td>
+<td>Instalaciones de fabricación de aglomerados asfálticos.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Industrias de Productos Alimenticios</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">20</td>
-<td class="cuerpo_tabla_izq">Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td colspan="2">20</td>
+<td>Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">22</td>
-<td class="cuerpo_tabla_izq">Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td colspan="2">22</td>
+<td>Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">23</td>
-<td class="cuerpo_tabla_centro">23.1</td>
-<td class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td rowspan="2">23</td>
+<td>23.1</td>
+<td>Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23.2</td>
-<td class="cuerpo_tabla_izq">Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>23.2</td>
+<td>Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Otros Proyectos</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">68</td>
-<td class="cuerpo_tabla_izq">Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td colspan="2">68</td>
+<td>Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">75</td>
-<td class="cuerpo_tabla_izq">Crematorios.</td>
-<td class="cuerpo_tabla_centro">LA.</td>
+<td colspan="2">75</td>
+<td>Crematorios.</td>
+<td>LA.</td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que esta actualización de la Parte II, establecida por la disposición final 5.3 de la Ley 2/2026, de 12 de marzo, [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "Parte II. Actividades extraídas del Anexo I Ley de Gestión Integrada de la Calidad Ambiental.
-
-> <table class="tabla" data-omitir-repetir-tfoot="true">
-> <colgroup>
-> <col width="15%">
-> <col width="15%">
-> <col width="55%">
-> <col width="15%">
-> </colgroup>
-> <thead>
-> <tr>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Subcategoría</th>
-> <th class="cabeza_tabla">Actuaciones</th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Instrumento</p>
-> <p class="cabeza_tabla">(*)</p>
-> </th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td class="cuerpo_tabla_centro" colspan="3">
-> <p class="cuerpo_tabla_izq">Industria siderúrgica y del mineral:</p>
-> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">9</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">10</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">11</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones para la fabricación de vidrio, incluida la fibra de vidrio, cuando no estén sometidas a AAI.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA (Anexo II)</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">12</td>
-> <td class="cuerpo_tabla_centro">12.4</td>
-> <td class="cuerpo_tabla_izq">Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12.5</td>
-> <td class="cuerpo_tabla_izq">Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">12.6</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">13</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones de fabricación de aglomerados asfálticos.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro" colspan="3">
-> <p class="cuerpo_tabla_izq">Actuaciones de infraestructuras:</p>
-> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">19</td>
-> <td class="cuerpo_tabla_centro">19.1</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Proyectos ferroviarios:</p>
-> <p class="cuerpo_tabla_izq">Construcción de estaciones de transbordo intermodal de viajeros y de terminales intermodales de mercancías que se ubiquen en suelo urbano.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA (Anexo II)</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">19.2</td>
-> <td class="cuerpo_tabla_izq">Construcción de tranvías, metros aéreos y subterráneos, líneas suspendidas o líneas similares, que tengan una longitud inferior a 10 km.</td>
-> <td class="cuerpo_tabla_centro">CA (Anexo II)</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro" colspan="3">
-> <p class="cuerpo_tabla_izq">Industrias de productos alimenticios:</p>
-> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">30</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones para el sacrificio, despiece o descuartizamiento de animales, con capacidad de producción de canales inferior o igual a 50 toneladas por día.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA (Anexo II)</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">32</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">34</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">35</td>
-> <td class="cuerpo_tabla_centro">35.1</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación, el refinado o la transformación de grasas y aceites vegetales y animales, cuando no estén sometidas a AAI, y no se den de manera simultánea todas las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA (Anexo II)</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">35.6</td>
-> <td class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">35.7</td>
-> <td class="cuerpo_tabla_izq">Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro" colspan="3">
-> <p class="cuerpo_tabla_izq">Otros proyectos:</p>
-> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">102</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_centro">110</td>
-> <td class="cuerpo_tabla_centro" colspan="2">
-> <p class="cuerpo_tabla_izq">Crematorios.</p>
-> </td>
-> <td class="cuerpo_tabla_centro">CA</td>
-> </tr>
-> </tbody>
-> <tfoot>
-> <tr>
-> <td colspan="4">
-> <p class="cita">(*) Nota:</p>
-> <p class="cita">CA: La actuación está sometida a Calificación Ambiental.</p>
-> <p class="cita">CA (Anexo II): La actuación está sometida a Calificación Ambiental y además está en el Anexo II de la Ley 21/2013 de Evaluación Ambiental. Por lo que en caso de que no proceda realizar informe EIS, será necesario hacer informe de efectos en salud cuando así se solicite por parte del órgano competente.</p>
-> </td>
-> </tr>
-> </tfoot>
-> </table>
 
 > Se modifica la Parte II, con efectos de 20 de junio de 2026, por la disposición final 5.3 de la Ley 2/2026, de 12 de marzo. [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558)
 

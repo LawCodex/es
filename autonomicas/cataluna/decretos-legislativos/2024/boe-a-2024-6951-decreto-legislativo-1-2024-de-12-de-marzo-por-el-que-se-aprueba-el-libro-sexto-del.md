@@ -1062,12 +1062,6 @@ Las reducciones que establecen las subsecciones de primera a sexta se aplican ta
 
 2\. Los importes máximos que fija el apartado 1 se aplican tanto en el caso de una única donación como en el caso de donaciones sucesivas o simultáneas, que a tal efecto son acumulables, tanto si son exclusivamente dinerarias como si combinan donación de vivienda o terreno y donación de dinero, y tanto si provienen del mismo ascendiente como si provienen de diferentes ascendientes. En las donaciones de dinero, la reducción solo puede aplicarse, con los límites mencionados, a las que se han hecho dentro de los seis meses anteriores a la adquisición de la vivienda o terreno, de acuerdo con lo establecido por la letra d del artículo 632-21.1.
 
-> Téngase en cuenta que esta modificación del apartado 2, establecida por el art. 4.1 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
-> Redacción anterior:
-
-> "2. Los importes máximos que fija el apartado 1 se aplican tanto en caso de una única donación como en caso de donaciones sucesivas o simultáneas, que a tal efecto son acumulables, tanto si son exclusivamente dinerarias como si combinan donación de vivienda o terreno y donación de dinero, y tanto si provienen del mismo ascendente como si provienen de diferentes ascendientes. En las donaciones de dinero, la reducción solo puede aplicarse, con los límites mencionados, a las que se han hecho dentro de los tres meses anteriores a la adquisición de la vivienda o terreno, de acuerdo con lo establecido por la letra d) del artículo 632-21.1."
-
 > Se modifica el apartado 2 por el art. 4.1 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -1090,12 +1084,6 @@ c) La suma de las bases imponibles general y del ahorro de la última declaraci�
 
 d) En caso de donaciones de dinero, el donatario debe adquirir la vivienda en el plazo de seis meses, a contar de la fecha de la donación o, si hay donaciones sucesivas, a contar de la fecha de la primera donación.
 
-> Téngase en cuenta que esta modificación de la letra d) del apartado 1, establecida por el art. 4.2 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
-> Redacción anterior:
-
-> "d) En caso de donaciones de dinero, el donatario debe adquirir la vivienda en el plazo de tres meses, a contar desde la fecha de la donación o, si hay donaciones sucesivas, a contar desde la fecha de la primera donación."
-
 2\. A efectos de la aplicación de la reducción establecida en esta subsección:
 
 a) Se considera vivienda habitual tanto la vivienda como un trastero y hasta dos plazas de aparcamiento que hayan sido adquiridos simultáneamente en unidad de acto o estén situados en el mismo edificio o complejo urbanístico, y siempre que, en ambos casos, en el momento de la transmisión se encuentren a disposición del donante, sin haber sido cedidos a terceras personas.
@@ -1111,8 +1099,6 @@ e) Se considera adquisición de la primera vivienda habitual la adquisición en 
 3\. Esta reducción se entiende concedida con carácter provisional y está condicionada al cumplimiento de los requisitos temporales establecidos en las letras b), c) y d)del apartado 2.
 
 4\. En caso de incumplimiento de los requisitos a que está condicionada la aplicación de esta reducción, el sujeto pasivo debe presentar e ingresar, en el plazo de un mes, a contar des del día siguiente al de la fecha en que se produjo el incumplimiento, la autoliquidación correspondiente por la parte del impuesto que haya dejado de ingresar como consecuencia de la reducción aplicada, junto con los intereses de demora que se hayan devengado.
-
-> Téngase en cuenta que el apartado 4, añadido por el art. 4.3 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se modifica la letra d) del apartado 1 y se añade el apartado 4 por el art. 4.2 y 3 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1176,8 +1162,6 @@ Si una vez efectuada la donación resulta que es excesiva, en términos cuantita
 
 ###### Subsección undécima. Reducción por donación de una vivienda que debe constituir la vivienda habitual o por donación de dinero destinado a la adquisición de esta vivienda habitual a favor de víctimas de violencia machista
 
-> Téngase en cuenta que esta subsección, añadida por el art. 4.4 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
 > Se añade por el art. 4.4 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -1187,8 +1171,6 @@ Si una vez efectuada la donación resulta que es excesiva, en términos cuantita
 1\. En las donaciones a ascendientes, descendentes y colaterales de segundo grado, que tengan la condición de víctimas de violencia machista de acuerdo con la Ley 5/2008, de 24 de abril, del derecho de las mujeres a erradicar la violencia machista, de una vivienda que tiene que constituir su vivienda habitual o de dinero destinado a la adquisición de esta vivienda habitual, se puede aplicar una reducción del 95 % del valor de la vivienda o el importe donado, con una reducción máxima de 100.000 euros, límite que se fija en 200.000 euros para las donatarias que tengan un grado de discapacidad igual o superior al 65 % o con algún hijo o hija menor a cargo. También se aplica la reducción en el caso que la donación sea de un terreno o de dinero para adquirirlo para que, en ambos casos, la descendiente construya su primera vivienda habitual.
 
 2\. Los importes máximos que fija el apartado 1 se aplican tanto en el caso de una única donación como en el caso de donaciones sucesivas o simultáneas que, a tal efecto, son acumulables, tanto si son exclusivamente dinerarias como si combinan donación de vivienda o terreno y donación de dinero, y tanto si provienen del mismo ascendiente como si provienen de diferentes ascendientes. En las donaciones de dinero, la reducción solo se puede aplicar, con los límites mencionados, a las que se han hecho dentro de los seis meses anteriores a la adquisición de la vivienda o terreno, de acuerdo con lo establecido por la letra d del apartado 1 del artículo 632-21.
-
-> Téngase en cuenta que este artículo, añadido por el art. 4.4 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 4.4 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1219,8 +1201,6 @@ e) En el caso de donaciones de dinero, la donataria debe adquirir la vivienda en
 3\. Esta reducción se entiende concedida con carácter provisional y queda condicionada al cumplimiento de los requisitos temporales establecidos en el apartado 2 de este artículo.
 
 4\. En el caso de incumplimiento de los requisitos a que está condicionada la aplicación de esta reducción, el sujeto pasivo debe presentar e ingresar, en el plazo de un mes, a contar des del día siguiente al de la fecha en que se produjo el incumplimiento, la autoliquidación correspondiente por la parte del impuesto que haya dejado de ingresar como consecuencia de la reducción aplicada, junto con los intereses de demora que se hayan devengado.
-
-> Téngase en cuenta que este artículo, añadido por el art. 4.4 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 4.4 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1366,48 +1346,42 @@ La tarifa establecida por el apartado 1 no es aplicable a los negocios jurídico
 
 La cuota tributaria por el impuesto sobre sucesiones y donaciones se obtiene aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco señalado en el artículo 631-2:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="49%">
-<col width="17%">
-<col width="17%">
-<col width="17%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Patrimonio preexistente (euros)</th>
-<th class="cabeza_tabla" colspan="3">Grupos de parentesco</th>
+<th rowspan="2">Patrimonio preexistente (euros)</th>
+<th colspan="3">Grupos de parentesco</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">I y II</th>
-<th class="cabeza_tabla">III</th>
-<th class="cabeza_tabla">IV</th>
+<th>I y II</th>
+<th>III</th>
+<th>IV</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">De 0 a 500.000.</td>
-<td class="cuerpo_tabla_coma">1,0000</td>
-<td class="cuerpo_tabla_coma">1,5882</td>
-<td class="cuerpo_tabla_coma">2,0000</td>
+<td>De 0 a 500.000.</td>
+<td>1,0000</td>
+<td>1,5882</td>
+<td>2,0000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 500.000,01 a 2.000.000,00.</td>
-<td class="cuerpo_tabla_coma">1,1000</td>
-<td class="cuerpo_tabla_coma">1,5882</td>
-<td class="cuerpo_tabla_coma">2,0000</td>
+<td>De 500.000,01 a 2.000.000,00.</td>
+<td>1,1000</td>
+<td>1,5882</td>
+<td>2,0000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">De 2.000.000,01 a 4.000.000,00.</td>
-<td class="cuerpo_tabla_coma">1,1500</td>
-<td class="cuerpo_tabla_coma">1,5882</td>
-<td class="cuerpo_tabla_coma">2,0000</td>
+<td>De 2.000.000,01 a 4.000.000,00.</td>
+<td>1,1500</td>
+<td>1,5882</td>
+<td>2,0000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Más de 4.000.000,00.</td>
-<td class="cuerpo_tabla_coma">1,2000</td>
-<td class="cuerpo_tabla_coma">1,5882</td>
-<td class="cuerpo_tabla_coma">2,0000</td>
+<td>Más de 4.000.000,00.</td>
+<td>1,2000</td>
+<td>1,5882</td>
+<td>2,0000</td>
 </tr>
 </tbody>
 </table>
@@ -1419,8 +1393,6 @@ La cuota tributaria por el impuesto sobre sucesiones y donaciones se obtiene apl
 1 bis. Los descendientes y los ascendientes consanguíneos pueden aplicar una bonificación del 99 % de la cuota tributaria del impuesto sobre sucesiones en las adquisiciones por causa de muerte, de una causante víctima de violencia machista, que haya muerto como consecuencia de actos derivados de esta violencia, incluidas las cantidades derivadas de seguros de vida que se acumulan a la porción hereditaria.
 
 La condición de víctima de violencia machista se acredita por alguno de los medios de prueba establecidos en la Ley 5/2008, de 24 de abril, del derecho de las mujeres a erradicar la violencia machista.
-
-> Téngase en cuenta que este apartado 1 bis, añadido por el art. 4.5 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 2\. El resto de contribuyentes de los grupos I y II pueden aplicar la bonificación en el porcentaje medio ponderado que resulte de la aplicación para cada tramo de base imponible de los siguientes porcentajes:
 
@@ -1561,23 +1533,6 @@ b) Cuando en la transmisión del edificio concurran conjuntamente las circunstan
 
 A tal efecto, para considerar que las viviendas constituyen la vivienda habitual del contribuyente y familiares, respectivamente, hace falta que entren a residir allí de manera efectiva y permanente en el plazo de doce meses, a contar a partir de la fecha de la transmisión, y que residan en ella durante un periodo continuado de tres años. Se entiende que la vivienda tuvo también este carácter cuando, a pesar de no haber transcurrido el plazo de tres años, concurran circunstancias que necesariamente exijan el cambio de vivienda, como la celebración de matrimonio, separación matrimonial, constitución de pareja estable, extinción de pareja estable, traslado laboral, obtención de primer empleo o de empleo más ventajoso u otras de análogas.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 5.1 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
-> Redacción anterior:
-
-> "Los tipos de gravamen del impuesto sobre transmisiones patrimoniales onerosas son los siguientes:
-
-> a) La transmisión de inmuebles y la constitución y la cesión de derechos reales que recaigan sobre bienes inmuebles, a excepción de los derechos reales de garantía, tributa al tipo medio que resulta de aplicar la siguiente tarifa establecida en función del valor del inmueble:
-
-> | Valor total del inmueble Desde (euros) | Cuota íntegra<br>(euros) | Resto valor<br>Hasta (euros) | Tipo aplicable (%) |
-> |---|---|---|---|
-> | 0,00 | 0,00 | 1.000.000,00 | 10 |
-> | 1.000.000,00 | 100.000,00 | En adelante | 11 |
-
-> b) La transmisión de viviendas con protección oficial, así como la constitución y la cesión de derechos reales que recaigan sobre ellas, salvo los derechos reales de garantía, tributa al tipo del 7 %.
-
-> c) La transmisión de bienes muebles, así como la constitución y la cesión de derechos reales que recaigan sobre ellos, salvo los derechos reales de garantía, tributa al tipo del 5 %."
-
 > Se modifica por el art. 5.1 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -1660,12 +1615,6 @@ g) Asimismo, el concepto de unidad familiar es el que define la normativa aplica
 
 1\. El tipo aplicable a la transmisión de un inmueble que deba constituir la vivienda habitual del sujeto pasivo es del 5 %, si en la fecha de devengo del impuesto este tiene treinta y cinco años o menos, siempre que la suma de las bases imponibles general y del ahorro, menos el mínimo personal y familiar, en su última declaración del impuesto sobre la renta de las personas físicas no exceda los 36.000 euros.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 5.2 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
-> Redacción anterior:
-
-> "1. El tipo aplicable a la transmisión de un inmueble que deba constituir la vivienda habitual del sujeto pasivo es del 5 %, si en la fecha de devengo del impuesto este tiene treinta y dos años o menos, siempre que la suma de las bases imponibles general y del ahorro, menos el mínimo personal y familiar, en su última declaración del impuesto sobre la renta de las personas físicas no exceda de los 36.000 euros."
-
 2\. A efectos de la aplicación de este tipo:
 
 a) Se considera vivienda habitual tanto la vivienda como un trastero y hasta dos plazas de aparcamiento que hayan sido adquiridos simultáneamente en unidad de acto o estén situados en el mismo edificio o complejo urbanístico, y siempre que, en ambos casos, en el momento de la adquisición se encuentren a disposición del transmitente, sin haber sido cedidos a terceras personas.
@@ -1705,8 +1654,6 @@ f) Se considera vivienda habitual la vivienda en la que la contribuyente resida 
 g) Si la vivienda ha sido habitada de manera efectiva y permanente por la contribuyente en el plazo de doce meses, a contar a partir de la fecha de adquisición o de finalización de las obras, el plazo de tres años al que se refiere la letra e se computa desde esta última fecha.
 
 3\. Este tipo de gravamen tiene carácter provisional y queda condicionado al cumplimiento de los requisitos temporales establecidos en las letras c), d), e) y f) del apartado 2.
-
-> Téngase en cuenta que este artículo, añadido por el art. 5.3 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 5.3 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1764,8 +1711,6 @@ A los efectos de estas bonificaciones, se considera vivienda habitual la que se 
 
 5\. Al efecto de esta bonificación, se consideran obras de arte y antigüedades las definidas en el régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección regulado en la Ley del impuesto sobre el valor añadido.
 
-> Téngase en cuenta que este artículo, añadido por el art. 5.4 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
 > Se añade por el art. 5.4 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -1773,8 +1718,6 @@ A los efectos de estas bonificaciones, se considera vivienda habitual la que se 
 **Artículo 641-12. Régimen de bonificación de las cooperativas de vivienda sin ánimo de lucro.**
 
 Se establece una bonificación del 100 % en la cuota del impuesto en la modalidad de transmisiones patrimoniales onerosas para las cooperativas de vivienda que cumplan los requisitos del artículo 144 de la Ley 12/2015, del 9 de julio, de cooperativas, para ser consideradas entidades sin ánimo de lucro.
-
-> Téngase en cuenta que este artículo, añadido por el art. 5.5 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 5.5 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1789,8 +1732,6 @@ Se establece una bonificación del 100 % en la cuota del impuesto en la modalida
 El incumplimiento de los requisitos anteriores comporta que el sujeto pasivo debe presentar, dentro del plazo reglamentario de presentación, a contar desde la fecha del incumplimiento, una autoliquidación complementaria sin la aplicación de esta bonificación y con deducción de la cuota ingresada, con aplicación de los intereses de demora correspondientes.
 
 3\. El cómputo del plazo de prescripción empieza a contar una vez transcurrido el plazo de tres años de bonificación provisional.
-
-> Téngase en cuenta que este artículo, añadido por el art. 5.6 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 5.6 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1811,8 +1752,6 @@ Para la aplicación de esta bonificación hay que cumplir los siguientes requisi
 – Que la empresa o negocio profesional incremente su plantilla global de trabajadores en el ejercicio en que adquiere el inmueble respecto al año anterior y mantenga esta plantilla al menos tres años.
 
 2\. El incumplimiento de los requisitos anteriores comporta que el sujeto pasivo deba presentar, dentro del plazo reglamentario de presentación, a contar desde la fecha del incumplimiento, una autoliquidación complementaria sin la aplicación de esta bonificación y con deducción de la cuota ingresada, con aplicación de los intereses de demora correspondientes.
-
-> Téngase en cuenta que este artículo, añadido por el art. 5.7 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 5.7 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -1855,12 +1794,6 @@ Al efecto de esta bonificación, se considera explotación agraria la definida c
 Los documentos notariales a que se refiere el artículo 31.2 del texto refundido de la Ley del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre, tributan según los tipos de gravamen siguientes:
 
 a) El 3,5 %, en el caso de documentos en que se haya renunciado a la exención en el IVA, de acuerdo con lo que dispone el artículo 20.2 de la Ley 37/1992, de 28 de diciembre, del impuesto sobre el valor añadido.
-
-> Téngase en cuenta que esta actualización de la letra a), establecida por el art. 5.8 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
-> Redacción anterior:
-
-> "a) El 2,5 %, en el caso de documentos en que se haya renunciado a la exención en el IVA de acuerdo con lo que dispone el artículo 20.2 de la Ley 37/1992, de 28 de diciembre, del impuesto sobre el valor añadido."
 
 b) El 2 %, en el caso de documentos que formalicen préstamos o créditos hipotecarios en que resulta sujeto pasivo el prestador.
 
@@ -1908,8 +1841,6 @@ Puede disfrutar de una bonificación del 100 % de la cuota gradual de la modalid
 
 Para la aplicación de esta bonificación se debe estar a lo que establecen los apartados 2 y 3 del artículo 641-5.
 
-> Téngase en cuenta que este artículo, añadido por el art. 5.9 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
 > Se añade por el art. 5.9 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -1922,8 +1853,6 @@ El incumplimiento de los requisitos previstos en el artículo 641-13 comporta qu
 
 2\. También puede disfrutar de la bonificación mencionada la escritura pública de formalización del préstamo hipotecario concedido para la adquisición de los inmuebles mencionados.
 
-> Téngase en cuenta que este artículo, añadido por el art. 5.10 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
 > Se añade por el art. 5.10 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -1933,8 +1862,6 @@ El incumplimiento de los requisitos previstos en el artículo 641-13 comporta qu
 1\. Puede disfrutar de una bonificación del 50 % de la cuota gradual, documento notarial, de la modalidad de actos jurídicos documentados la escritura pública que documenta la transmisión de inmuebles, sean viviendas, locales o naves industriales, que tengan que constituir su sede social o uno de sus centros de trabajo de empresas o negocios, siempre que se cumplan los requisitos establecidos en el apartado 1 del artículo 641-14 y la transmisión no haya sido objeto de renuncia a la exención en el IVA.
 
 2\. El incumplimiento de los requisitos previstos en el apartado 1 del artículo 641-14 comporta que el sujeto pasivo deba presentar, dentro del plazo reglamentario de presentación desde la fecha del incumplimiento, una autoliquidación complementaria sin la aplicación de esta bonificación y con deducción de la cuota ingresada, con aplicación de los intereses de demora correspondientes.
-
-> Téngase en cuenta que este artículo, añadido por el art. 5.11 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
 
 > Se añade por el art. 5.11 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
@@ -2363,8 +2290,6 @@ Los tipos de gravamen expresados en euros por tonelada métrica, aplicables a ca
 
 2\. Esta bonificación se aplica a las escrituras públicas a las que hace referencia el apartado 1 que se otorguen hasta el 31 de diciembre de 2027.
 
-> Téngase en cuenta que esta disposición, añadida por el art. 5.12 del Decreto-ley 5/2025, de 25 de marzo, [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270), entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
-
 > Se añade por el art. 5.12 del Decreto-ley 5/2025, de 25 de marzo. [Ref. BOE-A-2025-10270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-10270)
 
 > Esta modificación entra en vigor el 27 de junio de 2025, según establece su disposición final 2.2.
@@ -2373,327 +2298,318 @@ Los tipos de gravamen expresados en euros por tonelada métrica, aplicables a ca
 
 Los tipos de gravamen para los años 2026-2031, expresados en euros por tonelada métrica, aplicables a cada uno de los hechos imponibles, son los siguientes:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" colspan="6">Euros/Tonelada métrica</th>
+<th rowspan="2"> </th>
+<th colspan="6">Euros/Tonelada métrica</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">2026</th>
-<th class="cabeza_tabla">2027</th>
-<th class="cabeza_tabla">2028</th>
-<th class="cabeza_tabla">2029</th>
-<th class="cabeza_tabla">2030</th>
-<th class="cabeza_tabla">A partir de 2031</th>
+<th>2026</th>
+<th>2027</th>
+<th>2028</th>
+<th>2029</th>
+<th>2030</th>
+<th>A partir de 2031</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">A) Deposición en depósitos de residuos no peligrosos</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>A) Deposición en depósitos de residuos no peligrosos</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Deposición no peligrosos residuos municipales.</td>
-<td class="cuerpo_tabla_coma">75,00</td>
-<td class="cuerpo_tabla_coma">80,00</td>
-<td class="cuerpo_tabla_coma">85,00</td>
-<td class="cuerpo_tabla_coma">90,00</td>
-<td class="cuerpo_tabla_coma">95,00</td>
-<td class="cuerpo_tabla_coma">100,00</td>
+<td>1. Deposición no peligrosos residuos municipales.</td>
+<td>75,00</td>
+<td>80,00</td>
+<td>85,00</td>
+<td>90,00</td>
+<td>95,00</td>
+<td>100,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Deposición no peligrosos rechazo residuos municipales.</td>
-<td class="cuerpo_tabla_coma">56,25</td>
-<td class="cuerpo_tabla_coma">60,00</td>
-<td class="cuerpo_tabla_coma">63,75</td>
-<td class="cuerpo_tabla_coma">67,50</td>
-<td class="cuerpo_tabla_coma">71,25</td>
-<td class="cuerpo_tabla_coma">75,00</td>
+<td>2. Deposición no peligrosos rechazo residuos municipales.</td>
+<td>56,25</td>
+<td>60,00</td>
+<td>63,75</td>
+<td>67,50</td>
+<td>71,25</td>
+<td>75,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Deposición residuos no peligrosos no incluidos en 1. i 2. y eximidos de tratamiento previo de acuerdo con artículo 7.2 RD646/20.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3. Deposición residuos no peligrosos no incluidos en 1. i 2. y eximidos de tratamiento previo de acuerdo con artículo 7.2 RD646/20.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Carácter general.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>1. Carácter general.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Residuos con un componente de residuo inerte superior al 75%.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2. Residuos con un componente de residuo inerte superior al 75%.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">a) Parte de residuo inerte.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>a) Parte de residuo inerte.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Resto.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>b) Resto.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Deposición residuos no peligrosos diferentes de los anteriores.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4. Deposición residuos no peligrosos diferentes de los anteriores.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Carácter general.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>1. Carácter general.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Residuos con un componente de residuo inerte superior al 75.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>2. Residuos con un componente de residuo inerte superior al 75.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">a) Parte de residuo inerte.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>a) Parte de residuo inerte.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">b) Resto.</td>
-<td class="cuerpo_tabla_coma">25,00</td>
-<td class="cuerpo_tabla_coma">30,00</td>
-<td class="cuerpo_tabla_coma">35,00</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>b) Resto.</td>
+<td>25,00</td>
+<td>30,00</td>
+<td>35,00</td>
+<td>40,00</td>
+<td>45,00</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B) Deposición en depósitos de residuos peligrosos</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>B) Deposición en depósitos de residuos peligrosos</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Deposición residuos peligrosos eximidos de tratamiento previo de acuerdo con artículo 7.2. RD 646/20.</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
+<td>1. Deposición residuos peligrosos eximidos de tratamiento previo de acuerdo con artículo 7.2. RD 646/20.</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Deposición residuos peligrosos diferente del anterior.</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
-<td class="cuerpo_tabla_coma">10,00</td>
+<td>2. Deposición residuos peligrosos diferente del anterior.</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
+<td>10,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C) Deposición en depósitos de residuos inertes</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>C) Deposición en depósitos de residuos inertes</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Deposición residuos inertes eximidos de tratamiento previo de acuerdo con artículo 7.2. RD 646/20.</td>
-<td class="cuerpo_tabla_coma">3,50</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">4,00</td>
-<td class="cuerpo_tabla_coma">4,25</td>
-<td class="cuerpo_tabla_coma">4,50</td>
-<td class="cuerpo_tabla_coma">5,00</td>
+<td>1. Deposición residuos inertes eximidos de tratamiento previo de acuerdo con artículo 7.2. RD 646/20.</td>
+<td>3,50</td>
+<td>3,75</td>
+<td>4,00</td>
+<td>4,25</td>
+<td>4,50</td>
+<td>5,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Deposición residuos inertes diferentes del anterior.</td>
-<td class="cuerpo_tabla_coma">3,50</td>
-<td class="cuerpo_tabla_coma">3,75</td>
-<td class="cuerpo_tabla_coma">4,00</td>
-<td class="cuerpo_tabla_coma">4,25</td>
-<td class="cuerpo_tabla_coma">4,50</td>
-<td class="cuerpo_tabla_coma">5,00</td>
+<td>2. Deposición residuos inertes diferentes del anterior.</td>
+<td>3,50</td>
+<td>3,75</td>
+<td>4,00</td>
+<td>4,25</td>
+<td>4,50</td>
+<td>5,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D) Incineración instalaciones residuos municipales operaciones eliminación código D10</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>D) Incineración instalaciones residuos municipales operaciones eliminación código D10</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Incineración residuos código D10 residuos municipales.</td>
-<td class="cuerpo_tabla_coma">75,00</td>
-<td class="cuerpo_tabla_coma">80,00</td>
-<td class="cuerpo_tabla_coma">85,00</td>
-<td class="cuerpo_tabla_coma">90,00</td>
-<td class="cuerpo_tabla_coma">95,00</td>
-<td class="cuerpo_tabla_coma">100,00</td>
+<td>1. Incineración residuos código D10 residuos municipales.</td>
+<td>75,00</td>
+<td>80,00</td>
+<td>85,00</td>
+<td>90,00</td>
+<td>95,00</td>
+<td>100,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Incineración residuos código D10 rechazo municipales.</td>
-<td class="cuerpo_tabla_coma">56,25</td>
-<td class="cuerpo_tabla_coma">60,00</td>
-<td class="cuerpo_tabla_coma">63,75</td>
-<td class="cuerpo_tabla_coma">67,50</td>
-<td class="cuerpo_tabla_coma">71,25</td>
-<td class="cuerpo_tabla_coma">75,00</td>
+<td>2. Incineración residuos código D10 rechazo municipales.</td>
+<td>56,25</td>
+<td>60,00</td>
+<td>63,75</td>
+<td>67,50</td>
+<td>71,25</td>
+<td>75,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Incineración residuos código D10 diferentes de los apartados 1. i 2.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>3. Incineración residuos código D10 diferentes de los apartados 1. i 2.</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">E) Incineración instalaciones residuos municipales operaciones valorización código R01</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>E) Incineración instalaciones residuos municipales operaciones valorización código R01</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Incineración residuos código R01 residuos municipales.</td>
-<td class="cuerpo_tabla_coma">37,50</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">42,50</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">47,50</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>1. Incineración residuos código R01 residuos municipales.</td>
+<td>37,50</td>
+<td>40,00</td>
+<td>42,50</td>
+<td>45,00</td>
+<td>47,50</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Incineración residuos código R01 rechazo municipales.</td>
-<td class="cuerpo_tabla_coma">18,75</td>
-<td class="cuerpo_tabla_coma">20,00</td>
-<td class="cuerpo_tabla_coma">21,25</td>
-<td class="cuerpo_tabla_coma">22,50</td>
-<td class="cuerpo_tabla_coma">23,75</td>
-<td class="cuerpo_tabla_coma">25,00</td>
+<td>2. Incineración residuos código R01 rechazo municipales.</td>
+<td>18,75</td>
+<td>20,00</td>
+<td>21,25</td>
+<td>22,50</td>
+<td>23,75</td>
+<td>25,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Incineración residuos código R01 diferentes de los apartados 1. i 2.</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
-<td class="cuerpo_tabla_coma">15,00</td>
+<td>3. Incineración residuos código R01 diferentes de los apartados 1. i 2.</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">F) Otras instalaciones de incineración de residuos</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>F) Otras instalaciones de incineración de residuos</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Incineración residuos municipales.</td>
-<td class="cuerpo_tabla_coma">37,50</td>
-<td class="cuerpo_tabla_coma">40,00</td>
-<td class="cuerpo_tabla_coma">42,50</td>
-<td class="cuerpo_tabla_coma">45,00</td>
-<td class="cuerpo_tabla_coma">47,50</td>
-<td class="cuerpo_tabla_coma">50,00</td>
+<td>1. Incineración residuos municipales.</td>
+<td>37,50</td>
+<td>40,00</td>
+<td>42,50</td>
+<td>45,00</td>
+<td>47,50</td>
+<td>50,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Incineración residuos rechazo municipales.</td>
-<td class="cuerpo_tabla_coma">18,75</td>
-<td class="cuerpo_tabla_coma">20,00</td>
-<td class="cuerpo_tabla_coma">21,25</td>
-<td class="cuerpo_tabla_coma">22,50</td>
-<td class="cuerpo_tabla_coma">23,75</td>
-<td class="cuerpo_tabla_coma">25,00</td>
+<td>2. Incineración residuos rechazo municipales.</td>
+<td>18,75</td>
+<td>20,00</td>
+<td>21,25</td>
+<td>22,50</td>
+<td>23,75</td>
+<td>25,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Incineración residuos no incluidos en apartados 1. i 2. anteriores y que no han sido sometidos a operaciones R02, R03, R04, R05, R06, R07, R08, R09, R12, D08, D09, D13 y D14 de acuerdo con anexo II y III de esta Ley.</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
+<td>3. Incineración residuos no incluidos en apartados 1. i 2. anteriores y que no han sido sometidos a operaciones R02, R03, R04, R05, R06, R07, R08, R09, R12, D08, D09, D13 y D14 de acuerdo con anexo II y III de esta Ley.</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Incineración otros residuos no incluidos en los apartados anteriores.</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
-<td class="cuerpo_tabla_coma">5,00</td>
+<td>4. Incineración otros residuos no incluidos en los apartados anteriores.</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
+<td>5,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">G) Coincineración de residuos en instalaciones de coincineración de residuos</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
-<td class="cuerpo_tabla_coma">0,00</td>
+<td>G) Coincineración de residuos en instalaciones de coincineración de residuos</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
+<td>0,00</td>
 </tr>
 </tbody>
 </table>

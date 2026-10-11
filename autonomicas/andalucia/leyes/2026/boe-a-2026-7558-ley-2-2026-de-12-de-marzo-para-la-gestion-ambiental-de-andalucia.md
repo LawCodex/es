@@ -3705,113 +3705,107 @@ Tres. Se modifica la «Parte II: Actividades extraídas del anexo I de la Ley pa
 
 > «Parte II. Actividades extraídas del anexo I de la Ley para la Gestión Ambiental de Andalucía.
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Categoría</th>
-> <th class="cabeza_tabla">Subcategoría</th>
-> <th class="cabeza_tabla">Actuaciones</th>
-> <th class="cabeza_tabla">Instrumento</th>
+> <th>Categoría</th>
+> <th>Subcategoría</th>
+> <th>Actuaciones</th>
+> <th>Instrumento</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="4">
+> <td colspan="4">
 > <em>Industria Siderúrgica y del Mineral</em>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">4</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+> <td colspan="2">4</td>
+> <td>
+> <p>Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
+> <p>1.ª Que esté situada fuera de polígonos industriales.</p>
+> <p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+> <p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 > </td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">5</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+> <td colspan="2">5</td>
+> <td>
+> <p>Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
+> <p>1.ª Que esté situada fuera de polígonos industriales.</p>
+> <p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+> <p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 > </td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="3">6</td>
-> <td class="cuerpo_tabla_centro">6.1</td>
-> <td class="cuerpo_tabla_izq">Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td rowspan="3">6</td>
+> <td>6.1</td>
+> <td>Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">6.2</td>
-> <td class="cuerpo_tabla_izq">Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td>6.2</td>
+> <td>Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">6.3</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
-> <p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-> <p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-> <p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+> <td>6.3</td>
+> <td>
+> <p>Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
+> <p>1.ª Que esté situada fuera de polígonos industriales.</p>
+> <p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+> <p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 > </td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">7</td>
-> <td class="cuerpo_tabla_izq">Instalaciones de fabricación de aglomerados asfálticos.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td colspan="2">7</td>
+> <td>Instalaciones de fabricación de aglomerados asfálticos.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="4">
+> <td colspan="4">
 > <em>Industrias de Productos Alimenticios</em>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">20</td>
-> <td class="cuerpo_tabla_izq">Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td colspan="2">20</td>
+> <td>Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">22</td>
-> <td class="cuerpo_tabla_izq">Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td colspan="2">22</td>
+> <td>Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" rowspan="2">23</td>
-> <td class="cuerpo_tabla_centro">23.1</td>
-> <td class="cuerpo_tabla_izq">Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td rowspan="2">23</td>
+> <td>23.1</td>
+> <td>Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">23.2</td>
-> <td class="cuerpo_tabla_izq">Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td>23.2</td>
+> <td>Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="4">
+> <td colspan="4">
 > <em>Otros Proyectos</em>
 > </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">68</td>
-> <td class="cuerpo_tabla_izq">Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</td>
-> <td class="cuerpo_tabla_centro">LA</td>
+> <td colspan="2">68</td>
+> <td>Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</td>
+> <td>LA</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro" colspan="2">75</td>
-> <td class="cuerpo_tabla_izq">Crematorios.</td>
-> <td class="cuerpo_tabla_centro">LA.»</td>
+> <td colspan="2">75</td>
+> <td>Crematorios.</td>
+> <td>LA.»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -4342,595 +4336,588 @@ DR-EA: declaración responsable de los efectos ambientales.
 
 AAI: autorización ambiental integrada.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Categoría</th>
-<th class="cabeza_tabla">Subcategoría</th>
-<th class="cabeza_tabla" colspan="2">Actuaciones</th>
-<th class="cabeza_tabla">Instrumento</th>
+<th>Categoría</th>
+<th>Subcategoría</th>
+<th colspan="2">Actuaciones</th>
+<th>Instrumento</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">
+<td colspan="5">
 <em>Industria Energética</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones industriales de combustión con una potencia térmica nominal inferior a 50 MW, que no estén sometidas a evaluación de impacto ambiental.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>1</td>
+<td>1.1</td>
+<td colspan="2">Instalaciones industriales de combustión con una potencia térmica nominal inferior a 50 MW, que no estén sometidas a evaluación de impacto ambiental.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">1.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones industriales de gasificación y licuefacción de otros combustibles –excluido el carbón y las pizarras bituminosas– cuando la instalación tenga una potencia térmica nominal inferior a 20 MW.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td> </td>
+<td>1.2</td>
+<td colspan="2">Instalaciones industriales de gasificación y licuefacción de otros combustibles –excluido el carbón y las pizarras bituminosas– cuando la instalación tenga una potencia térmica nominal inferior a 20 MW.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para la producción de energía eléctrica a partir de energía solar, no instaladas sobre cubiertas o tejados de edificios, que ocupen una superficie menor a 5 ha siempre que no cumplan los criterios generales 1 o 2 del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>2</td>
+<td colspan="3">Instalaciones para la producción de energía eléctrica a partir de energía solar, no instaladas sobre cubiertas o tejados de edificios, que ocupen una superficie menor a 5 ha siempre que no cumplan los criterios generales 1 o 2 del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq" colspan="3">Construcción de líneas eléctricas salvo que discurran íntegramente en subterráneo por suelo urbano, así como sus subestaciones asociadas, en los siguientes casos:</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>3</td>
+<td colspan="3">Construcción de líneas eléctricas salvo que discurran íntegramente en subterráneo por suelo urbano, así como sus subestaciones asociadas, en los siguientes casos:</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_centro">Tensión (T)</td>
-<td class="cuerpo_tabla_centro">Longitud (L)</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>Tensión (T)</td>
+<td>Longitud (L)</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.1</td>
-<td class="cuerpo_tabla_izq">T≥ 15 kV</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Aérea:</p>
-<p class="cuerpo_tabla_izq">1 km&lt; L ≤ 3 km (cuando no aplican criterios*).</p>
+<td> </td>
+<td>3.1</td>
+<td>T≥ 15 kV</td>
+<td>
+<p>Aérea:</p>
+<p>1 km&lt; L ≤ 3 km (cuando no aplican criterios*).</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.2</td>
-<td class="cuerpo_tabla_izq">T&lt; 15 kV</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Aérea:</p>
-<p class="cuerpo_tabla_izq">L &gt; 1 km (cuando no aplican criterios*).</p>
+<td> </td>
+<td>3.2</td>
+<td>T&lt; 15 kV</td>
+<td>
+<p>Aérea:</p>
+<p>L &gt; 1 km (cuando no aplican criterios*).</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3.3</td>
-<td class="cuerpo_tabla_izq">T&lt; 15 kV</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Subterránea:</p>
-<p class="cuerpo_tabla_izq">L &gt; 3 km (cuando no aplican criterios* y discurre por suelo no urbanizable).</p>
+<td> </td>
+<td>3.3</td>
+<td>T&lt; 15 kV</td>
+<td>
+<p>Subterránea:</p>
+<p>L &gt; 3 km (cuando no aplican criterios* y discurre por suelo no urbanizable).</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">* Criterios por los que un proyecto debe someterse a evaluación de impacto ambiental en actuaciones de construcción de líneas eléctricas:</p>
-<p class="cuerpo_tabla_izq">Cuando cumplan los criterios generales 1 o 2 del anexo III de la Ley 21/2013, de 9 de diciembre, o no incluyan las medidas preventivas establecidas en el Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente en subterráneo por suelo urbanizado.</p>
-<p class="cuerpo_tabla_izq">** Nota: En lo referente a la clasificación del suelo, se estará a lo establecido en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía.</p>
+<td> </td>
+<td> </td>
+<td colspan="2">
+<p>* Criterios por los que un proyecto debe someterse a evaluación de impacto ambiental en actuaciones de construcción de líneas eléctricas:</p>
+<p>Cuando cumplan los criterios generales 1 o 2 del anexo III de la Ley 21/2013, de 9 de diciembre, o no incluyan las medidas preventivas establecidas en el Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente en subterráneo por suelo urbanizado.</p>
+<p>** Nota: En lo referente a la clasificación del suelo, se estará a lo establecido en la Ley 7/2021, de 1 de diciembre, de impulso para la sostenibilidad del territorio de Andalucía.</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">
+<td colspan="5">
 <em>Industria Siderúrgica y del Mineral</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
-<p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-<p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-<p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+<td>4</td>
+<td colspan="3">
+<p>Instalaciones dedicadas a la fabricación de hormigón o clasificación de áridos, cuando se dé alguna de las circunstancias siguientes:</p>
+<p>1.ª Que esté situada fuera de polígonos industriales.</p>
+<p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+<p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
-<p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-<p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-<p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+<td>5</td>
+<td colspan="3">
+<p>Instalaciones de tratamiento térmico de sustancias minerales para la obtención de productos (como yeso, perlita expandida o similares) para la construcción y otros usos, cuando se dé alguna de las circunstancias siguientes:</p>
+<p>1.ª Que esté situada fuera de polígonos industriales.</p>
+<p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+<p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">6.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>6</td>
+<td>6.1</td>
+<td colspan="2">Instalaciones para la producción de cal, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td> </td>
+<td>6.2</td>
+<td colspan="2">Instalaciones para la producción de óxido de magnesio en hornos, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.3</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
-<p class="cuerpo_tabla_izq">1.ª Que esté situada fuera de polígonos industriales.</p>
-<p class="cuerpo_tabla_izq">2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
-<p class="cuerpo_tabla_izq">3.ª Que ocupe una superficie superior a 1 ha.</p>
+<td> </td>
+<td>6.3</td>
+<td colspan="2">
+<p>Instalaciones de trituración, aserrado, tallado y pulido de la piedra, con potencia instalada superior a 50 CV, siempre que se dé alguna de las circunstancias siguientes:</p>
+<p>1.ª Que esté situada fuera de polígonos industriales.</p>
+<p>2.ª Que se encuentre a menos de 500 m de una zona residencial.</p>
+<p>3.ª Que ocupe una superficie superior a 1 ha.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6.4</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones de trituración, aserrado, tallado y pulido de la piedra no incluidas en la subcategoría anterior.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td> </td>
+<td>6.4</td>
+<td colspan="2">Instalaciones de trituración, aserrado, tallado y pulido de la piedra no incluidas en la subcategoría anterior.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones de fabricación de aglomerados asfálticos.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>7</td>
+<td colspan="3">Instalaciones de fabricación de aglomerados asfálticos.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para la formulación y el envasado de materiales minerales, entendiendo como formulación la mezcla de materiales sin transformación química de los mismos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>8</td>
+<td colspan="3">Instalaciones para la formulación y el envasado de materiales minerales, entendiendo como formulación la mezcla de materiales sin transformación química de los mismos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">
+<td colspan="5">
 <em>Industria Química, Petroquímica, Textil y Papelera</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para la formulación y el envasado de productos cosméticos, farmacéuticos, fertilizantes, pinturas, barnices y detergentes, entendiendo como formulación la mezcla de materiales sin transformación química de los mismos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>9</td>
+<td colspan="3">Instalaciones para la formulación y el envasado de productos cosméticos, farmacéuticos, fertilizantes, pinturas, barnices y detergentes, entendiendo como formulación la mezcla de materiales sin transformación química de los mismos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq" colspan="3">Tuberías para el transporte de productos químicos, no incluidas en el anexo I de la Ley 21/2013, de 9 de diciembre. Se exceptúan las tuberías internas de las instalaciones industriales.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>10</td>
+<td colspan="3">Tuberías para el transporte de productos químicos, no incluidas en el anexo I de la Ley 21/2013, de 9 de diciembre. Se exceptúan las tuberías internas de las instalaciones industriales.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_centro">11.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones industriales destinadas a la fabricación de uno o más de los siguientes tableros derivados de la madera: tableros de virutas de madera orientadas, tableros aglomerados o tableros de cartón comprimido, con una capacidad de producción inferior o igual a 600 metros cúbicos diarios.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>11</td>
+<td>11.1</td>
+<td colspan="2">Instalaciones industriales destinadas a la fabricación de uno o más de los siguientes tableros derivados de la madera: tableros de virutas de madera orientadas, tableros aglomerados o tableros de cartón comprimido, con una capacidad de producción inferior o igual a 600 metros cúbicos diarios.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">11.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción inferior o igual a 75 metros cúbicos diarios, distinta de tratamientos para combatir la albura exclusivamente.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td> </td>
+<td>11.2</td>
+<td colspan="2">Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción inferior o igual a 75 metros cúbicos diarios, distinta de tratamientos para combatir la albura exclusivamente.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">
+<td colspan="5">
 <em>Actuaciones de Infraestructuras</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Infraestructuras de transporte marítimo y fluvial:</p>
-<p class="cuerpo_tabla_izq">Muelles para carga y descarga conectados a tierra y puertos exteriores (incluidos muelles para transbordadores), que admitan barcos de arqueo inferior o igual a 1.350 t, y aquellos que independientemente del arqueo, se ubiquen en Zona I de acuerdo con la Delimitación de los Espacios y Usos Portuarios regulados en el artículo 69.2.a) del texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, y no cumplan los criterios generales 1, 2 o 4 a) del anexo III de la Ley 21/2013, de 9 de diciembre.</p>
+<td>12</td>
+<td colspan="3">
+<p>Infraestructuras de transporte marítimo y fluvial:</p>
+<p>Muelles para carga y descarga conectados a tierra y puertos exteriores (incluidos muelles para transbordadores), que admitan barcos de arqueo inferior o igual a 1.350 t, y aquellos que independientemente del arqueo, se ubiquen en Zona I de acuerdo con la Delimitación de los Espacios y Usos Portuarios regulados en el artículo 69.2.a) del texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, y no cumplan los criterios generales 1, 2 o 4 a) del anexo III de la Ley 21/2013, de 9 de diciembre.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">13.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Obras costeras destinadas a combatir la erosión y obras marítimas que no puedan alterar la costa, por ejemplo, por la construcción de diques, malecones, espigones y otras obras de defensa contra el mar, en la zona de servicio de los puertos, en el caso de que no se cumpla ninguno de los criterios generales 1, 2 o 4 a) del anexo III de la Ley 21/2013, de 9 de diciembre, y no puedan generar alteraciones en la costa por afección a la dinámica litoral.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>13</td>
+<td>13.1</td>
+<td colspan="2">Obras costeras destinadas a combatir la erosión y obras marítimas que no puedan alterar la costa, por ejemplo, por la construcción de diques, malecones, espigones y otras obras de defensa contra el mar, en la zona de servicio de los puertos, en el caso de que no se cumpla ninguno de los criterios generales 1, 2 o 4 a) del anexo III de la Ley 21/2013, de 9 de diciembre, y no puedan generar alteraciones en la costa por afección a la dinámica litoral.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">13.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Reconstrucción y mantenimiento de las obras costeras destinadas a combatir la erosión y de las obras marítimas que puedan alterar la costa, por ejemplo, por la reconstrucción de diques, malecones, espigones y otras obras de defensa contra el mar, en el caso de que no se cumpla ninguno de los criterios generales 1, 2 o 4 a) del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td> </td>
+<td>13.2</td>
+<td colspan="2">Reconstrucción y mantenimiento de las obras costeras destinadas a combatir la erosión y de las obras marítimas que puedan alterar la costa, por ejemplo, por la reconstrucción de diques, malecones, espigones y otras obras de defensa contra el mar, en el caso de que no se cumpla ninguno de los criterios generales 1, 2 o 4 a) del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq" colspan="3">Áreas de transporte de mercancías.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>14</td>
+<td colspan="3">Áreas de transporte de mercancías.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Caminos rurales (*) de nuevo trazado que transcurran por terrenos con una pendiente (**) superior al 40 % a lo largo del 20 % o más de su trazado y superen los 100 m de longitud, así como los caminos rurales forestales de servicio (***) con una longitud superior a 1000 m.</p>
-<p class="cuerpo_tabla_izq">(*) Se entenderá por camino rural, los caminos agrícolas, los forestales de servicio y los de servicio a los poblados que discurran por suelo rústico, cuyas condiciones de pendiente, radio de curvatura y firme lo hagan apto para el tránsito de cualquier tipo de vehículos durante todo el año, para cuya ejecución sea necesario aporte de material o técnicas de mejora de calzada o estabilización, para cuya construcción puedan ser necesarias obras de fábrica en pasos o cunetas y que al menos posea 3 m de firme.</p>
-<p class="cuerpo_tabla_izq">(**) Se entenderá por pendiente, la media de la línea de máxima pendiente en una franja de 100 m, en planta, que incluya la rasante del camino. (***) Se entenderá por camino rural de servicio aquel camino rural que discurre por terreno forestal.</p>
+<td>15</td>
+<td colspan="3">
+<p>Caminos rurales (*) de nuevo trazado que transcurran por terrenos con una pendiente (**) superior al 40 % a lo largo del 20 % o más de su trazado y superen los 100 m de longitud, así como los caminos rurales forestales de servicio (***) con una longitud superior a 1000 m.</p>
+<p>(*) Se entenderá por camino rural, los caminos agrícolas, los forestales de servicio y los de servicio a los poblados que discurran por suelo rústico, cuyas condiciones de pendiente, radio de curvatura y firme lo hagan apto para el tránsito de cualquier tipo de vehículos durante todo el año, para cuya ejecución sea necesario aporte de material o técnicas de mejora de calzada o estabilización, para cuya construcción puedan ser necesarias obras de fábrica en pasos o cunetas y que al menos posea 3 m de firme.</p>
+<p>(**) Se entenderá por pendiente, la media de la línea de máxima pendiente en una franja de 100 m, en planta, que incluya la rasante del camino. (***) Se entenderá por camino rural de servicio aquel camino rural que discurre por terreno forestal.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq" colspan="3">Caminos rurales de nuevo trazado no incluidos en la categoría anterior.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>16</td>
+<td colspan="3">Caminos rurales de nuevo trazado no incluidos en la categoría anterior.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Actuaciones de Gestión del Agua</em>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq" colspan="3">Plantas de tratamiento de aguas residuales cuya capacidad sea inferior a 10.000 habitantes equivalentes, cuando no cumplan los criterios generales 1, 2 o 4 a) y c) del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>17</td>
+<td colspan="3">Plantas de tratamiento de aguas residuales cuya capacidad sea inferior a 10.000 habitantes equivalentes, cuando no cumplan los criterios generales 1, 2 o 4 a) y c) del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq" colspan="3">Estaciones de tratamiento para potabilización de aguas.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>18</td>
+<td colspan="3">Estaciones de tratamiento para potabilización de aguas.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Industrias de Productos Alimenticios</em>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">19.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones para tratamiento y transformación, excluido el envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos, cuando no estén sometidas a AAI, ni se encuentren en el anexo II de la Ley 21/2013, de 9 de diciembre, y presenten una superficie total construida mayor a 300 m², a partir de:</p>
-<p class="cuerpo_tabla_izq">i. Materia prima animal (que no sea exclusivamente la leche).</p>
-<p class="cuerpo_tabla_izq">ii. Materia prima vegetal.</p>
-<p class="cuerpo_tabla_izq">iii. Solo materias primas animales y vegetales, tanto en productos combinados como por separado.</p>
+<td>19</td>
+<td>19.1</td>
+<td colspan="2">
+<p>Instalaciones para tratamiento y transformación, excluido el envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos, cuando no estén sometidas a AAI, ni se encuentren en el anexo II de la Ley 21/2013, de 9 de diciembre, y presenten una superficie total construida mayor a 300 m², a partir de:</p>
+<p>i. Materia prima animal (que no sea exclusivamente la leche).</p>
+<p>ii. Materia prima vegetal.</p>
+<p>iii. Solo materias primas animales y vegetales, tanto en productos combinados como por separado.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">19.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Instalaciones para tratamiento y transformación, excluido el envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos, cuando no estén sometidas a AAI, ni se encuentren en el anexo II de la Ley 21/2013, de 9 de diciembre, y presenten una superficie total construida menor o igual a 300 m², a partir de:</p>
-<p class="cuerpo_tabla_izq">i. Materia prima animal (que no sea exclusivamente la leche).</p>
-<p class="cuerpo_tabla_izq">ii. Materia prima vegetal.</p>
-<p class="cuerpo_tabla_izq">iii. Solo materias primas animales y vegetales, tanto en productos combinados como por separado.</p>
+<td> </td>
+<td>19.2</td>
+<td colspan="2">
+<p>Instalaciones para tratamiento y transformación, excluido el envasado, de las siguientes materias primas, tratadas o no previamente, destinadas a la fabricación de productos alimenticios o piensos, cuando no estén sometidas a AAI, ni se encuentren en el anexo II de la Ley 21/2013, de 9 de diciembre, y presenten una superficie total construida menor o igual a 300 m², a partir de:</p>
+<p>i. Materia prima animal (que no sea exclusivamente la leche).</p>
+<p>ii. Materia prima vegetal.</p>
+<p>iii. Solo materias primas animales y vegetales, tanto en productos combinados como por separado.</p>
 </td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>20</td>
+<td colspan="3">Instalaciones para el aprovechamiento o la eliminación de subproductos o desechos de animales no destinados al consumo humano cuando no estén sometidas a AAI y no estén incluidas ni en el anexo I ni en el anexo II de la Ley 21/2013, de 9 de diciembre.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Instalaciones destinadas a la cría intensiva de aves de corral, de cerdos y de otros animales en explotaciones ganaderas reguladas por el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas; y que no se destinen a autoconsumo. Estas instalaciones no superarán la siguiente capacidad:</p>
-<p class="cuerpo_tabla_izq">a) 40.000 plazas si se trata de gallinas ponedoras o del número equivalente en excreta de nitrógeno para otras orientaciones productivas de aves de corral.</p>
-<p class="cuerpo_tabla_izq">b) 55.000 plazas para pollos.</p>
-<p class="cuerpo_tabla_izq">c) 2.000 plazas para cerdos de cebo.</p>
-<p class="cuerpo_tabla_izq">d) 750 plazas para cerdas reproductoras.</p>
-<p class="cuerpo_tabla_izq">e) 2.000 plazas para ganado ovino o caprino.</p>
-<p class="cuerpo_tabla_izq">f) 300 plazas para ganado vacuno de leche.</p>
-<p class="cuerpo_tabla_izq">g) 600 plazas para vacuno de cebo.</p>
-<p class="cuerpo_tabla_izq">h) 20.000 plazas para conejos.</p>
-<p class="cuerpo_tabla_izq">i) Cualquier capacidad para especies no autóctonas.</p>
+<td>21</td>
+<td colspan="3">
+<p>Instalaciones destinadas a la cría intensiva de aves de corral, de cerdos y de otros animales en explotaciones ganaderas reguladas por el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas; y que no se destinen a autoconsumo. Estas instalaciones no superarán la siguiente capacidad:</p>
+<p>a) 40.000 plazas si se trata de gallinas ponedoras o del número equivalente en excreta de nitrógeno para otras orientaciones productivas de aves de corral.</p>
+<p>b) 55.000 plazas para pollos.</p>
+<p>c) 2.000 plazas para cerdos de cebo.</p>
+<p>d) 750 plazas para cerdas reproductoras.</p>
+<p>e) 2.000 plazas para ganado ovino o caprino.</p>
+<p>f) 300 plazas para ganado vacuno de leche.</p>
+<p>g) 600 plazas para vacuno de cebo.</p>
+<p>h) 20.000 plazas para conejos.</p>
+<p>i) Cualquier capacidad para especies no autóctonas.</p>
 </td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>22</td>
+<td colspan="3">Instalaciones para la fabricación y elaboración de productos derivados de la aceituna, excepto el aceite, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_centro">23.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>23</td>
+<td>23.1</td>
+<td colspan="2">Instalaciones industriales para la fabricación de jarabes y refrescos, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">23.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td> </td>
+<td>23.2</td>
+<td colspan="2">Instalaciones industriales para la destilación de vinos y alcoholes, cuando no estén sometidas a AAI.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq" colspan="3">Fabricación de vinos y licores.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>24</td>
+<td colspan="3">Fabricación de vinos y licores.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq" colspan="3">Centrales hortofrutícolas.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>25</td>
+<td colspan="3">Centrales hortofrutícolas.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq" colspan="3">Emplazamientos para alimentación de animales con productos de retirada y excedentes agrícolas.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>26</td>
+<td colspan="3">Emplazamientos para alimentación de animales con productos de retirada y excedentes agrícolas.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para limpieza y lavado de aceituna, así como los puestos de compra de aceituna al por mayor.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>27</td>
+<td colspan="3">Instalaciones para limpieza y lavado de aceituna, así como los puestos de compra de aceituna al por mayor.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones de almacenamiento temporal de orujos u orujos húmedos, mediante depósito en campas a cielo abierto y cuya finalidad única sea su secado al sol.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>28</td>
+<td colspan="3">Instalaciones de almacenamiento temporal de orujos u orujos húmedos, mediante depósito en campas a cielo abierto y cuya finalidad única sea su secado al sol.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="4">
+<td colspan="4">
 <em>Otros Proyectos</em>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para tratamiento de superficie de materiales, de objetos o productos, con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos menor o igual de 150 kg de disolvente por hora o menor o igual de 200 toneladas por año, y de más de 300 m² de superficie construida total.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>29</td>
+<td colspan="3">Instalaciones para tratamiento de superficie de materiales, de objetos o productos, con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos menor o igual de 150 kg de disolvente por hora o menor o igual de 200 toneladas por año, y de más de 300 m² de superficie construida total.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para tratamiento de superficie de materiales, de objetos o productos, con utilización de disolventes orgánicos en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos menor o igual de 150 kg de disolvente por hora o menor o igual de 200 toneladas por año, y superficie construida menor o igual de 300 m².</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>30</td>
+<td colspan="3">Instalaciones para tratamiento de superficie de materiales, de objetos o productos, con utilización de disolventes orgánicos en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, enlacarlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos menor o igual de 150 kg de disolvente por hora o menor o igual de 200 toneladas por año, y superficie construida menor o igual de 300 m².</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de actividades deportivas y establecimientos de espectáculos deportivos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>31</td>
+<td colspan="3">Establecimientos de actividades deportivas y establecimientos de espectáculos deportivos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq" colspan="3">Proyectos para recuperación de tierras al mar, siempre que supongan una superficie inferior o igual a 5 ha, en la zona de servicio de los puertos, cuando no se cumpla ninguno de los criterios 1, 2 o 4.a) del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>32</td>
+<td colspan="3">Proyectos para recuperación de tierras al mar, siempre que supongan una superficie inferior o igual a 5 ha, en la zona de servicio de los puertos, cuando no se cumpla ninguno de los criterios 1, 2 o 4.a) del anexo III de la Ley 21/2013, de 9 de diciembre.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_izq" colspan="3">Construcción de salinas.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>33</td>
+<td colspan="3">Construcción de salinas.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_izq" colspan="3">Campos de golf.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>34</td>
+<td colspan="3">Campos de golf.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para la fabricación de aglomerado de corcho.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>35</td>
+<td colspan="3">Instalaciones para la fabricación de aglomerado de corcho.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para el trabajo de metales; embutido y corte, calderería en general y construcción de estructuras metálicas.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>36</td>
+<td colspan="3">Instalaciones para el trabajo de metales; embutido y corte, calderería en general y construcción de estructuras metálicas.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq" colspan="3">Industrias de transformación de la madera y fabricación de muebles.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>37</td>
+<td colspan="3">Industrias de transformación de la madera y fabricación de muebles.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_izq" colspan="3">Parques acuáticos y análogos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>38</td>
+<td colspan="3">Parques acuáticos y análogos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_izq" colspan="3">Construcción o implantación de establecimientos comerciales, de carácter individual, ya sean mayoristas o minoristas, de acuerdo con la normativa autonómica vigente en materia de comercio, incluyendo los comercios de cualquier clase de productos de alimentación y bebidas en régimen de autoservicio o mixto en supermercado.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>39</td>
+<td colspan="3">Construcción o implantación de establecimientos comerciales, de carácter individual, ya sean mayoristas o minoristas, de acuerdo con la normativa autonómica vigente en materia de comercio, incluyendo los comercios de cualquier clase de productos de alimentación y bebidas en régimen de autoservicio o mixto en supermercado.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq" colspan="3">Doma de animales y picaderos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>40</td>
+<td colspan="3">Doma de animales y picaderos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq" colspan="3">Tinte, limpieza en seco, lavado y planchado.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>41</td>
+<td colspan="3">Tinte, limpieza en seco, lavado y planchado.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq" colspan="3">Imprentas y artes gráficas. Talleres de edición de prensa.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>42</td>
+<td colspan="3">Imprentas y artes gráficas. Talleres de edición de prensa.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacenes de plaguicidas.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>43</td>
+<td colspan="3">Almacenes de plaguicidas.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacenamiento y/o venta de artículos de droguería o perfumería.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>44</td>
+<td colspan="3">Almacenamiento y/o venta de artículos de droguería o perfumería.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq" colspan="3">Alojamientos turísticos, que no se encuentren en el anexo I ni II de la Ley 21/2013, de 9 de diciembre, y construcciones asociadas, excepto los apartamentos y las viviendas de uso turístico.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>45</td>
+<td colspan="3">Alojamientos turísticos, que no se encuentren en el anexo I ni II de la Ley 21/2013, de 9 de diciembre, y construcciones asociadas, excepto los apartamentos y las viviendas de uso turístico.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq" colspan="3">Restaurantes, cafeterías, pubs y bares.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>46</td>
+<td colspan="3">Restaurantes, cafeterías, pubs y bares.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de esparcimiento, establecimientos de esparcimiento para menores y salones de celebraciones.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>47</td>
+<td colspan="3">Establecimientos de esparcimiento, establecimientos de esparcimiento para menores y salones de celebraciones.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de juego y centros de ocio y diversión.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>48</td>
+<td colspan="3">Establecimientos de juego y centros de ocio y diversión.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq" colspan="3">Cines, teatros y auditorios.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>49</td>
+<td colspan="3">Cines, teatros y auditorios.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq" colspan="3">Academias de baile y danza.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>50</td>
+<td colspan="3">Academias de baile y danza.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de género de punto y textiles, con la excepción de las labores artesanales.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>51</td>
+<td colspan="3">Talleres de género de punto y textiles, con la excepción de las labores artesanales.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq" colspan="3">Estudios de rodaje y grabación de películas y de televisión.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>52</td>
+<td colspan="3">Estudios de rodaje y grabación de películas y de televisión.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq" colspan="3">Carnicerías. Almacén o venta de carnes.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>53</td>
+<td colspan="3">Carnicerías. Almacén o venta de carnes.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq" colspan="3">Pescaderías. Almacén o venta de pescado.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>54</td>
+<td colspan="3">Pescaderías. Almacén o venta de pescado.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq" colspan="3">Panaderías u obradores de confitería y pastelería.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>55</td>
+<td colspan="3">Panaderías u obradores de confitería y pastelería.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacenes o venta de congelados.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>56</td>
+<td colspan="3">Almacenes o venta de congelados.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacenes o ventas de frutas o verduras.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>57</td>
+<td colspan="3">Almacenes o ventas de frutas o verduras.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq" colspan="3">Freidurías, asadores, hamburgueserías y cocederos. Elaboración de comidas preparadas y para llevar.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>58</td>
+<td colspan="3">Freidurías, asadores, hamburgueserías y cocederos. Elaboración de comidas preparadas y para llevar.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacén y/o venta de abonos y piensos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>59</td>
+<td colspan="3">Almacén y/o venta de abonos y piensos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de carpintería metálica y cerrajería.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>60</td>
+<td colspan="3">Talleres de carpintería metálica y cerrajería.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de reparación de vehículos a motor y de maquinaria en general, siempre que la superficie construida total sea superior a 250 m<sup>2</sup>.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>61</td>
+<td colspan="3">Talleres de reparación de vehículos a motor y de maquinaria en general, siempre que la superficie construida total sea superior a 250 m<sup>2</sup>.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de reparación de vehículos a motor y de maquinaria en general, no incluidos en la categoría anterior.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>62</td>
+<td colspan="3">Talleres de reparación de vehículos a motor y de maquinaria en general, no incluidos en la categoría anterior.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">63</td>
-<td class="cuerpo_tabla_izq" colspan="3">Lavado de vehículos a motor.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>63</td>
+<td colspan="3">Lavado de vehículos a motor.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">64</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de reparaciones eléctricas.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>64</td>
+<td colspan="3">Talleres de reparaciones eléctricas.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">65</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de carpintería de madera.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>65</td>
+<td colspan="3">Talleres de carpintería de madera.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">66</td>
-<td class="cuerpo_tabla_izq" colspan="3">Almacenes y/o venta de productos farmacéuticos al por mayor.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>66</td>
+<td colspan="3">Almacenes y/o venta de productos farmacéuticos al por mayor.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">67</td>
-<td class="cuerpo_tabla_izq" colspan="3">Talleres de orfebrería.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>67</td>
+<td colspan="3">Talleres de orfebrería.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">68</td>
-<td class="cuerpo_tabla_izq" colspan="3">Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>68</td>
+<td colspan="3">Estaciones de servicio dedicadas a la venta de gasolina y otros combustibles.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">69</td>
-<td class="cuerpo_tabla_izq" colspan="3">Centros para fomento y cuidado de animales de compañía: comprende los centros que tienen por objeto la producción, explotación, tratamiento, alojamiento temporal y/o permanente de animales de compañía, incluyendo los criaderos, las residencias, los centros para el tratamiento higiénico, las escuelas de adiestramiento, las pajarerías y otros centros para el fomento y cuidado de animales de compañía.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>69</td>
+<td colspan="3">Centros para fomento y cuidado de animales de compañía: comprende los centros que tienen por objeto la producción, explotación, tratamiento, alojamiento temporal y/o permanente de animales de compañía, incluyendo los criaderos, las residencias, los centros para el tratamiento higiénico, las escuelas de adiestramiento, las pajarerías y otros centros para el fomento y cuidado de animales de compañía.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de venta de animales.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>70</td>
+<td colspan="3">Establecimientos de venta de animales.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">71</td>
-<td class="cuerpo_tabla_izq" colspan="3">Actividades de fabricación o almacenamiento de productos inflamables o explosivos no incluidas en otro instrumento, producción a escala no industrial.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>71</td>
+<td colspan="3">Actividades de fabricación o almacenamiento de productos inflamables o explosivos no incluidas en otro instrumento, producción a escala no industrial.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">72</td>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Instalación de las estaciones o infraestructuras radioeléctricas y recursos asociados, así como la instalación de redes públicas de comunicaciones electrónicas fijas, cuando se dé alguna de las condiciones siguientes:</p>
-<p class="cuerpo_tabla_izq">1.º Que se ubiquen en edificaciones del patrimonio histórico-artístico con la categoría de bien de interés cultural declarada por las autoridades competentes.</p>
-<p class="cuerpo_tabla_izq">2.º Que ocupen una superficie construida total mayor de 300 m², computándose a tal efecto toda la superficie incluida dentro del vallado de la estación o instalación radioeléctrica.</p>
-<p class="cuerpo_tabla_izq">3.º Que tenga impacto en Espacios Naturales Protegidos (incluidos los recogidos en la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección), Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre.</p>
-<p class="cuerpo_tabla_izq">4.º Que tengan impacto en el uso privativo y ocupación de los bienes de dominio público.</p>
+<td>72</td>
+<td colspan="3">
+<p>Instalación de las estaciones o infraestructuras radioeléctricas y recursos asociados, así como la instalación de redes públicas de comunicaciones electrónicas fijas, cuando se dé alguna de las condiciones siguientes:</p>
+<p>1.º Que se ubiquen en edificaciones del patrimonio histórico-artístico con la categoría de bien de interés cultural declarada por las autoridades competentes.</p>
+<p>2.º Que ocupen una superficie construida total mayor de 300 m², computándose a tal efecto toda la superficie incluida dentro del vallado de la estación o instalación radioeléctrica.</p>
+<p>3.º Que tenga impacto en Espacios Naturales Protegidos (incluidos los recogidos en la Ley 2/1989, de 18 de julio, por la que se aprueba el inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección), Red Natura 2000 y Áreas protegidas por instrumentos internacionales, según la regulación de la Ley 42/2007, de 13 de diciembre.</p>
+<p>4.º Que tengan impacto en el uso privativo y ocupación de los bienes de dominio público.</p>
 </td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">73</td>
-<td class="cuerpo_tabla_izq" colspan="3">Establecimientos de actividades zoológicas.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>73</td>
+<td colspan="3">Establecimientos de actividades zoológicas.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">74</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para vermicultura o vermicompostaje. Lombricultura.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>74</td>
+<td colspan="3">Instalaciones para vermicultura o vermicompostaje. Lombricultura.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">75</td>
-<td class="cuerpo_tabla_izq" colspan="3">Crematorios.</td>
-<td class="cuerpo_tabla_centro">LA</td>
+<td>75</td>
+<td colspan="3">Crematorios.</td>
+<td>LA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">76</td>
-<td class="cuerpo_tabla_izq" colspan="3">Centros residenciales de personas mayores, de personas con discapacidad y de menores o asimilables a estos.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>76</td>
+<td colspan="3">Centros residenciales de personas mayores, de personas con discapacidad y de menores o asimilables a estos.</td>
+<td>DR-EA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_izq" colspan="3">Instalaciones para el compostaje agrario de residuos biodegradables, procedentes de actividades agrarias, realizado en la propia explotación agraria y destinados al autoconsumo.</td>
-<td class="cuerpo_tabla_centro">DR-EA</td>
+<td>77</td>
+<td colspan="3">Instalaciones para el compostaje agrario de residuos biodegradables, procedentes de actividades agrarias, realizado en la propia explotación agraria y destinados al autoconsumo.</td>
+<td>DR-EA</td>
 </tr>
 </tbody>
 </table>

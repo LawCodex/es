@@ -1,0 +1,221 @@
+---
+title: "Orden SSI/889/2017, de 15 de septiembre, por la que se crean los Premios \"Plan Nacional de Resistencia a los Antibióticos\" y se establecen las bases reguladoras para la concesión de los mismos"
+identifier: "BOE-A-2017-10776"
+eli: "https://www.boe.es/eli/es/o/2017/09/15/ssi889"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad, Servicios Sociales e Igualdad"
+date: 2017-09-15
+published: 2017-09-21
+in_force_from: 2017-09-22
+last_amended: 2024-04-16
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 228"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-10776"
+retrieved: 2026-10-11
+---
+
+# Orden SSI/889/2017, de 15 de septiembre, por la que se crean los Premios "Plan Nacional de Resistencia a los Antibióticos" y se establecen las bases reguladoras para la concesión de los mismos
+
+Los antibióticos son medicamentos indispensables para el tratamiento de la mayoría de las infecciones provocadas por bacterias, tanto en el hombre como en los animales. El desarrollo de resistencias a los antibióticos, que los convierte en ineficaces, y la escasez de tratamientos alternativos, son dos de los mayores problemas de salud pública y sanidad animal que es necesario afrontar en la actualidad.
+
+El uso inadecuado y el abuso en el consumo de los antibióticos están detrás del aumento de las resistencias bacterianas a los antibióticos y, por consiguiente, de la pérdida de la eficacia de estos medicamentos para tratar las infecciones.
+
+El «Plan Nacional de Resistencia a los Antibióticos» fue aprobado en el año 2014 por el Consejo Interterritorial del Sistema Nacional de Salud y por la Conferencia Intersectorial de Agricultura. Con este plan se da cumplimiento a la Comunicación de la Comisión Europea, de 17 de noviembre de 2011, por la que se solicita a los Estados miembros un Plan de Acción sobre Resistencias Antimicrobianas, así como a las Conclusiones del Consejo de la Unión Europea, de 29 de mayo de 2012, sobre el impacto de las resistencias antimicrobianas y cómo se debe abordar conjuntamente desde la salud humana y veterinaria.
+
+El objetivo del citado plan nacional es desarrollar una serie de líneas estratégicas y acciones para reducir el riesgo de selección y diseminación de resistencias a los antibióticos, reduciendo sus consecuencias sobre la salud del hombre y de los animales y preservando los antibióticos disponibles.
+
+De conformidad con estos fines, el Ministerio de Sanidad, Servicios Sociales e Igualdad quiere, con la creación de los Premios «Plan Nacional de Resistencia a los Antibióticos», reconocer y dar visibilidad a aquellas iniciativas consideradas ejemplares y que han contribuido de forma sobresaliente a la consecución de los objetivos propuestos en el «Plan Nacional de Resistencia a los Antibióticos», promoviendo la cooperación entre las Administraciones y los actores sociales y económicos implicados.
+
+La competencia del Estado para dictar esta orden se justifica en el artículo 149.1.16ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación general de la sanidad.
+
+Esta orden se dicta de conformidad con la Ley 38/2003, de 17 de noviembre, General de Subvenciones y con su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio.
+
+La presente orden ha sido informada previamente por la Abogacía del Estado en el Departamento y la Intervención Delegada de la Intervención General de la Administración del Estado en la Agencia Española de Medicamentos y Productos Sanitarios.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Función Pública, dispongo:
+
+## Artículo 1. Creación de los Premios.
+
+Se crean los siguientes Premios con el objeto de galardonar a las personas físicas o jurídicas que se hayan distinguido en la promoción o en la ejecución de actividades que se enmarquen en alguna de las líneas estratégicas del «Plan Nacional de Resistencia a los Antibióticos» (PRAN), publicadas en la web de la Agencia Española de Medicamentos y Productos Sanitarios:
+
+a) Premio "PRAN a la mejor iniciativa en vigilancia y control del consumo de antibióticos y de sus resistencias en el ámbito de la salud humana".
+
+b) Premio "PRAN a la mejor iniciativa en vigilancia y control del consumo de antibióticos y de sus resistencias en el ámbito de la sanidad animal".
+
+c) Premio "PRAN a la mejor iniciativa de investigación de la resistencia a los antibióticos".
+
+d) Premio "PRAN a la mejor publicación científica sobre resistencia a los antibióticos".
+
+e) Premio "PRAN a la mejor iniciativa de formación e información a los profesionales sanitarios sobre la resistencia a los antibióticos».
+
+f) Premio "PRAN a la mejor iniciativa de comunicación y sensibilización de la población sobre la resistencia a los antibióticos".
+
+g) Premio "PRAN a la mejor iniciativa para la prevención de infecciones en salud humana: seguridad del paciente".
+
+h) Premio "PRAN a la mejor iniciativa para la prevención de infecciones en sanidad animal".
+
+i) Premio "PRAN a la mejor iniciativa frente a la resistencia a los antibióticos en el ámbito del medioambiente".
+
+> Se modifica por el art. único.1 de la Orden PCM/739/2021, de 5 de julio. [Ref. BOE-A-2021-11664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11664)
+
+## Artículo 2. Finalidad de los Premios.
+
+1\. El Premio "PRAN a la mejor iniciativa en vigilancia y control del consumo de antibióticos y de sus resistencias en el ámbito de la salud humana" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad de establecer sistemas de vigilancia del consumo de antibióticos y de las resistencias a estos, de interrelacionar unos con otros, así como por la difusión de programas de promoción de uso prudente de los antibióticos en el ámbito de la salud humana.
+
+2\. El Premio "PRAN a la mejor iniciativa en vigilancia y control del consumo de antibióticos y de sus resistencias en el ámbito de la sanidad animal" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad de establecer sistemas de vigilancia del consumo de antibióticos y de las resistencias a estos, de interrelacionar unos con otros, así como por la difusión de programas de promoción de uso prudente de los antibióticos en el ámbito de la sanidad animal.
+
+3\. El Premio "PRAN a la mejor iniciativa de investigación de la resistencia a los antibióticos" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad para fomentar la innovación, investigación y desarrollo de nuevas herramientas para luchar contra las resistencias a estos.
+
+4\. El Premio "PRAN a la mejor publicación científica sobre resistencia a los antibióticos" tiene como finalidad galardonar a aquella publicación que pueda tener un amplio impacto en el conocimiento de las resistencias a estos y pueda ser un referente para el trabajo científico en este campo.
+
+5\. El Premio "PRAN a la mejor iniciativa de formación e información a los profesionales sanitarios sobre la resistencia a los antibióticos" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad para lograr un progreso adecuado de los objetivos incluidos en el PRAN a través de la formación e información de los profesionales sanitarios.
+
+6\. El Premio "PRAN a la mejor iniciativa de comunicación y sensibilización de la población sobre la resistencia a los antibióticos" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad para trasladar a la población información adecuada sobre los antibióticos que les ayude a identificar y, en su caso, corregir tanto ideas erróneas sobre éstos como posibles conductas de mala utilización.
+
+7\. El Premio "PRAN a la mejor iniciativa para la prevención de infecciones en salud humana: seguridad del paciente" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad para aplicar los programas orientados a la prevención y control de las Infecciones Asociadas a la Asistencia Sanitaria (IRAS) en línea con las recomendaciones del PRAN y, en particular, de la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud.
+
+8\. El Premio "PRAN a la mejor iniciativa para la prevención de infecciones en sanidad animal" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad para aplicar las medidas orientadas a la prevención y el control de las infecciones en granja y/o clínicas veterinarias, en línea con las recomendaciones del PRAN.
+
+9\. El Premio "PRAN a la mejor iniciativa frente a la resistencia a los antibióticos en el ámbito del medioambiente" tiene como finalidad galardonar a aquella persona cuya iniciativa se haya distinguido por su capacidad para mejorar el conocimiento sobre la presencia y el papel de los determinantes de resistencias en la difusión y transmisión de las resistencias en el medioambiente.
+
+> Se modifica por el art. único.2 de la Orden PCM/739/2021, de 5 de julio. [Ref. BOE-A-2021-11664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11664)
+
+## Artículo 3. Contenido y financiación de los Premios.
+
+1\. En cada una de las modalidades establecidas en el artículo 1, el Premio consistirá en un diploma de reconocimiento y una dotación económica mínima de tres mil euros, pudiendo ésta ser ampliada en función del crédito presupuestario disponible de la Agencia Española de Medicamentos y Productos Sanitarios, determinándose la cuantía total máxima en la correspondiente convocatoria.
+
+2\. La concesión de los Premios deberá ser atendida con cargo a los créditos de la Agencia Española de Medicamentos y Productos Sanitarios, que tienen carácter limitativo.
+
+3\. El abono se efectuará mediante un pago único por transferencia bancaria a la cuenta que determine la persona beneficiaria.
+
+4\. No podrá realizarse el pago en tanto el beneficiario no se halle al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden PCI/1157/2018, de 31 de octubre. [Ref. BOE-A-2018-15048](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15048)
+
+## Artículo 4. Requisitos de los beneficiarios.
+
+1\. Podrá ser beneficiario de los Premios cualquier persona física o jurídica que haya realizado alguna actividad que se enmarque en alguna de las líneas estratégicas del "Plan Nacional de Resistencia a los Antibióticos", con posterioridad al 11 de junio de 2014, si bien en las correspondientes convocatorias se podrá limitar temporalmente las actividades que pueden sustentar las candidaturas.
+
+2\. No podrán obtener la condición de beneficiario las personas inhabilitadas o incursas en prohibición para la obtención de ayudas o subvenciones públicas de acuerdo con lo previsto, en el artículo 13, apartados 2 y 3, de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden PCI/1157/2018, de 31 de octubre. [Ref. BOE-A-2018-15048](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15048)
+
+## Artículo 5. Procedimiento de concesión.
+
+1\. La concesión de los Premios se realizará, en régimen de concurrencia competitiva, conforme a los principios de publicidad, transparencia, objetividad e igualdad.
+
+2\. El procedimiento se iniciará de oficio mediante convocatoria pública, adoptada por resolución de la persona titular de la Dirección de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+## Artículo 6. Plazo y forma de presentación de las solicitudes.
+
+1\. El plazo de presentación de las solicitudes será el que se establezca en la correspondiente convocatoria, sin que pueda ser inferior a un mes.
+
+2\. Los candidatos que, reuniendo los requisitos señalados en el artículo 4 deseen concurrir a los Premios, deberán rellenar sus solicitudes en el modelo de formulario que figurará como anexo en la correspondiente convocatoria, y que también se encontrará disponible en la página web de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+3\. Las personas físicas podrán presentar sus solicitudes electrónicamente o en papel según lo dispuesto en el artículo 14.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Las personas jurídicas deberán presentar sus solicitudes electrónicamente, según se desprende de lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre.
+
+Cuando la solicitud se presente en papel por persona física, la instancia podrá presentarse en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, y, en particular, en la oficina de asistencia en materia de registro de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+En el caso de que la solicitud se presente electrónicamente por persona física o persona jurídica, ésta podrá presentarse en cualquiera de los lugares previstos en el artículo 16.4 a) de la Ley 39/2015, de 1 de octubre, y, en particular, a través de la sede electrónica de la Agencia Española de Medicamentos y Productos Sanitarios https://sede.aemps.gob.es, de acuerdo con los medios de firma establecidos en el artículo 10.2 a).
+
+4\. La solicitud irá acompañada de la documentación que se determine en la correspondiente convocatoria que, en todo caso, incluirá la memoria justificativa del proyecto y la acreditación de los requisitos necesarios para solicitar el Premio.
+
+5\. Los solicitantes de los Premios sólo podrán presentar una solicitud a una única modalidad. En consecuencia, un mismo solicitante no podrá presentar varias solicitudes para la misma o para distintas modalidades de Premios.
+
+6\. Aquellas iniciativas que hayan sustentado la concesión de uno de estos Premios en anteriores convocatorias no podrán ser presentadas de nuevo para solicitar cualquiera de sus modalidades.
+
+7\. Cuando las solicitudes sean incompletas o no se acompañen los documentos exigidos, se requerirá al interesado para que, en el plazo de diez días hábiles, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá dictarse en los términos establecidos en el artículo 21 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica el apartado 5 por el art. único.3 de la Orden PCI/1157/2018, de 31 de octubre. [Ref. BOE-A-2018-15048](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15048)
+
+## Artículo 7. Órganos competentes para la ordenación, instrucción y resolución del procedimiento de concesión.
+
+1\. El órgano competente para la ordenación e instrucción del procedimiento es la Secretaría General de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+2\. El órgano competente para dictar la resolución del procedimiento de concesión de los Premios es la persona titular de la Dirección de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+## Artículo 8. Comisión de Valoración.
+
+1\. Para la evaluación de las solicitudes y la propuesta de concesión, se constituirá una Comisión de Valoración, que tendrá la siguiente composición:
+
+a) Tres representantes de la Agencia Española de Medicamentos y Productos Sanitarios: la persona titular de la Jefatura de Unidad de Apoyo a Dirección, la persona titular de la Jefatura del Departamento de Medicamentos de Uso Humano y la persona titular de la Jefatura del Departamento de Medicamentos Veterinarios.
+
+b) Los tres representantes de las comunidades autónomas que forman parte del Consejo Rector de la Agencia Española de Medicamentos y Productos Sanitarios previo acuerdo de las mismas en el seno del Consejo Rector.
+
+c) Tres representantes de la Dirección General de Salud Pública y Equidad en Salud del Ministerio de Sanidad, que serán designados por la persona titular de esa Dirección General.
+
+d) Tres representantes del Ministerio de Agricultura, Pesca y Alimentación, que serán designados por la persona titular de la Dirección General de Sanidad de la Producción Agroalimentaria y Bienestar Animal.
+
+e) Dos expertos de la Agencia Española de Medicamentos y Productos Sanitarios pertenecientes al Grupo Coordinador Técnico del Plan Nacional de Resistencia a los Antibióticos, designados por la persona titular de la Dirección de la Agencia.
+
+f) Tres representantes de la Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico, que serán designados por la persona titular de esa Dirección General.
+
+El Presidente de la Comisión de Valoración será la persona titular de la Jefatura de Unidad de Apoyo a Dirección y el Secretario de la Comisión la persona titular de la Jefatura del Departamento de Medicamentos Veterinarios.
+
+2\. Los miembros de la Comisión de Valoración no podrán aspirar a ninguno de los premios.
+
+3\. El funcionamiento de la Comisión de Valoración se ajustará al régimen de los órganos colegiados regulado en la sección 3.ª, capítulo II, título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+4\. Una vez evaluadas las solicitudes, la Comisión de Valoración emitirá un informe-propuesta relativo a las mismas, en el que se concretará el resultado de la evaluación efectuada, debiendo expresarse el solicitante para quien se propone la concesión de cada uno de los premios. Este informe-propuesta de concesión será remitido al órgano instructor, que será competente para formular la oportuna propuesta de resolución motivada, elevándola a la persona titular de la Dirección de la Agencia Española de Medicamentos y Productos Sanitarios como órgano competente para su adjudicación.
+
+5\. Si a juicio de la Comisión de Valoración ninguna candidatura reuniera los méritos suficientes, el premio será declarado desierto.
+
+> Se modifica por el art. único de la Orden PJC/336/2024, de 14 de abril. [Ref. BOE-A-2024-7546](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7546)
+
+> Se modifica el apartado 1 por el art. único.4 de la Orden PCI/1157/2018, de 31 de octubre. [Ref. BOE-A-2018-15048](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15048)
+
+## Artículo 9. Criterios objetivos de otorgamiento de los premios.
+
+Las solicitudes serán valoradas de acuerdo con los criterios objetivos que se detallan a continuación, pudiendo obtenerse una puntuación máxima de 100 puntos:
+
+a) La metodología del proyecto y resultados (máximo 35 puntos).
+
+b) La continuidad del proyecto prevista en los próximos años (máximo 25 puntos).
+
+c) Las sinergias establecidas entre los diferentes sectores participantes (máximo 20 puntos).
+
+d) El planteamiento innovador y original (máximo 20 puntos).
+
+## Artículo 10. Resolución.
+
+1\. La concesión de los Premios se realizará por resolución de la persona titular de la Dirección de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+2\. El plazo máximo para resolver y notificar la resolución de los Premios es de seis meses desde la publicación de la correspondiente convocatoria o, de ser posterior, desde la fecha de efectos de dicha convocatoria.
+
+3\. Transcurrido el plazo máximo sin que se haya notificado la resolución, las personas interesadas podrán entender desestimadas por silencio administrativo sus solicitudes.
+
+## Artículo 11. Compatibilidades.
+
+1\. Los Premios PRAN serán compatibles con otras subvenciones, ayudas, ingresos o recursos otorgados para la misma finalidad, procedentes de cualesquiera administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales, a excepción de aquellos otorgados por la Agencia Española de Medicamentos y Productos Sanitarios con la misma finalidad.
+
+2\. Los solicitantes deberán comunicar al órgano concedente la obtención de otras subvenciones, ayudas, ingresos o recursos que financien la actividad que aspira a los Premios PRAN. Esta comunicación deberá efectuarse tan pronto como se conozca la obtención de los mismos.
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden PCI/1157/2018, de 31 de octubre. [Ref. BOE-A-2018-15048](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15048)
+
+## Artículo 12. Reintegro de los Premios.
+
+Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente, en los supuestos contemplados en el artículo 37 de la Ley 38/2003, de 17 de noviembre y en su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio.
+
+## Artículo 13. Régimen jurídico.
+
+En todo lo no previsto en esta orden será de aplicación lo dispuesto en la Ley 38/2003, de 17 de noviembre, y su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio.
+
+## Disposición adicional única. Ausencia de incremento del gasto público.
+
+El importe de los gastos derivados, en su caso, de la promoción, organización y concesión de los Premios será con cargo al presupuesto de gastos de la Agencia estatal «Agencia Española de Medicamentos y Productos Sanitarios», sin que en ningún caso suponga incremento presupuestario.
+
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo del artículo 149.1.16.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación general de la sanidad.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 15 de septiembre de 2017.–La Ministra de Sanidad, Servicios Sociales e Igualdad, Dolors Montserrat Montserrat.

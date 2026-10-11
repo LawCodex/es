@@ -122,266 +122,251 @@ Madrid, 2 de julio de 2015.–El Ministro de Industria, Energía y Turismo, Jos�
 
 1\. Instalaciones del subgrupo a.1.1 y a.1.2 del artículo 2 del Real Decreto 661/2007, de 25 de mayo
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-<col class="row_column_5">
-<col class="row_column_6">
-<col class="row_column_2">
-<col class="row_column_7">
-<col class="row_column_7">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_12">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Clasificación de las tarifas según el Real Decreto 661/2007</p>
+<p>Clasificación de las tarifas según el Real Decreto 661/2007</p>
 </td>
 <td> </td>
 <td colspan="8">
-<p class="cabeza_tabla">Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
+<p>Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
 </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Modificación sustancial</p>
+<p>Modificación sustancial</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código Instalación Tipo</p>
+<p>Código Instalación Tipo</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_14">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1997</p>
+<p>1997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01518</p>
+<p>IT-01518</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01519</p>
+<p>IT-01519</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2006</p>
+<p>2006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01523</p>
+<p>IT-01523</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.2</p>
+<p>a.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gasóleo / GLP</p>
+<p>Gasóleo / GLP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 &lt; P ≤ 10 MW</p>
+<p>1 &lt; P ≤ 10 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.2</p>
+<p>a.1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gasóleo / GLP</p>
+<p>Gasóleo / GLP</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 &lt; P ≤ 10 MW</p>
+<p>1 &lt; P ≤ 10 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2001</p>
+<p>2001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01524</p>
+<p>IT-01524</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 &lt; P ≤ 10 MW</p>
+<p>1 &lt; P ≤ 10 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 &lt; P ≤ 10 MW</p>
+<p>1 &lt; P ≤ 10 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Modificación sustancial</p>
+<p>Modificación sustancial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2006</p>
+<p>2006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01525</p>
+<p>IT-01525</p>
 </td>
 </tr>
 </tbody>
@@ -389,188 +374,173 @@ Madrid, 2 de julio de 2015.–El Ministro de Industria, Energía y Turismo, Jos�
 
 2\. Instalaciones del grupo a.2 del artículo 2 del Real Decreto 661/2007, de 25 de mayo.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-<col class="row_column_5">
-<col class="row_column_17">
-<col class="row_column_18">
-<col class="row_column_4">
-<col class="row_column_4">
-<col class="row_column_8">
-<col class="row_column_9">
-<col class="row_column_10">
-<col class="row_column_11">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_12">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Clasificación de las tarifas según el Real Decreto 661/2007</p>
+<p>Clasificación de las tarifas según el Real Decreto 661/2007</p>
 </td>
 <td> </td>
 <td colspan="8">
-<p class="cabeza_tabla">Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
+<p>Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
 </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Modificación sustancial</p>
+<p>Modificación sustancial</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código Instalación Tipo</p>
+<p>Código Instalación Tipo</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.2</p>
+<p>a.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Energías residuales</p>
+<p>Energías residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.2</p>
+<p>a.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Energías residuales</p>
+<p>Energías residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1997</p>
+<p>1997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01520</p>
+<p>IT-01520</p>
 </td>
 </tr>
-<tr class="row_column_19">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.2</p>
+<p>a.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Energías residuales</p>
+<p>Energías residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.2</p>
+<p>a.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Energías residuales</p>
+<p>Energías residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1998</p>
+<p>1998</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01521</p>
+<p>IT-01521</p>
 </td>
 </tr>
-<tr class="row_column_16">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.2</p>
+<p>a.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Energías residuales</p>
+<p>Energías residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">a.2</p>
+<p>a.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Energías residuales</p>
+<p>Energías residuales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">10 &lt; P ≤ 25 MW</p>
+<p>10 &lt; P ≤ 25 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2001</p>
+<p>2001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01522</p>
+<p>IT-01522</p>
 </td>
 </tr>
 </tbody>
@@ -578,103 +548,89 @@ Madrid, 2 de julio de 2015.–El Ministro de Industria, Energía y Turismo, Jos�
 
 3\. Instalaciones de la categoría b) del artículo 2 del Real Decreto 661/2007, de 25 de mayo
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_20">
-<col class="row_column_21">
-<col class="row_column_22">
-<col class="row_column_23">
-<col class="row_column_24">
-<col class="row_column_17">
-<col class="row_column_20">
-<col class="row_column_7">
-<col class="row_column_25">
-<col class="row_column_10">
-<col class="row_column_26">
-<col class="row_column_27">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_12">
+<tr>
 <td colspan="4">
-<p class="cabeza_tabla">Clasificación de las tarifas según el Real Decreto 661/2007</p>
+<p>Clasificación de las tarifas según el Real Decreto 661/2007</p>
 </td>
 <td> </td>
 <td colspan="7">
-<p class="cabeza_tabla">Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
+<p>Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
 </td>
 </tr>
-<tr class="row_column_13">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de Potencia</p>
+<p>Rango de Potencia</p>
 </td>
 <td> </td>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código Instalación Tipo</p>
+<p>Código Instalación Tipo</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_12">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 100 kW</p>
+<p>≤ 100 kW</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">5kW &lt; P ≤ 100kW</p>
+<p>5kW &lt; P ≤ 100kW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S2E</p>
+<p>S2E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2002</p>
+<p>2002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00590</p>
+<p>IT-00590</p>
 </td>
 </tr>
 </tbody>
@@ -682,463 +638,449 @@ Madrid, 2 de julio de 2015.–El Ministro de Industria, Energía y Turismo, Jos�
 
 4\. Instalaciones del subgrupo b.1.1 del Real Decreto 1578/2008
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_20">
-<col class="row_column_21">
-<col class="row_column_28">
-<col class="row_column_23">
-<col class="row_column_24">
-<col class="row_column_17">
-<col class="row_column_20">
-<col class="row_column_7">
-<col class="row_column_29">
-<col class="row_column_22">
-<col class="row_column_26">
-<col class="row_column_30">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_31">
+<tr>
 <td colspan="4">
-<p class="cuerpo_tabla_centro">Clasificación de las tarifas según el Real Decreto 1578/2008</p>
+<p>Clasificación de las tarifas según el Real Decreto 1578/2008</p>
 </td>
 <td> </td>
 <td colspan="7">
-<p class="cuerpo_tabla_centro">Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
+<p>Clasificación de las instalaciones tipo según el Real Decreto 413/2014</p>
 </td>
 </tr>
-<tr class="row_column_32">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Tipo</p>
+<p>Tipo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Convocatoria</p>
+<p>Convocatoria</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Zona Climática</p>
+<p>Zona Climática</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Código Instalación Tipo</p>
+<p>Código Instalación Tipo</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1C 2011</p>
+<p>1C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S2E</p>
+<p>S2E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z5</p>
+<p>Z5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2012</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00579</p>
+<p>IT-00579</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I.2</p>
+<p>I.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3C 2010</p>
+<p>3C 2010</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P ≤ 1MW</p>
+<p>P ≤ 1MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z5</p>
+<p>Z5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2012</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00580</p>
+<p>IT-00580</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I.2</p>
+<p>I.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1C 2011</p>
+<p>1C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P ≤ 1MW</p>
+<p>P ≤ 1MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z3</p>
+<p>Z3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00581</p>
+<p>IT-00581</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4C 2011</p>
+<p>4C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">FIJ</p>
+<p>FIJ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z3</p>
+<p>Z3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00582</p>
+<p>IT-00582</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4C 2011</p>
+<p>4C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">FIJ</p>
+<p>FIJ</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z5</p>
+<p>Z5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2012</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00583</p>
+<p>IT-00583</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1C 2009</p>
+<p>1C 2009</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S1E</p>
+<p>S1E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z3</p>
+<p>Z3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">≤ 2009</p>
+<p>≤ 2009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00584</p>
+<p>IT-00584</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4C 2011</p>
+<p>4C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S1E</p>
+<p>S1E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z4</p>
+<p>Z4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2012</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00585</p>
+<p>IT-00585</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1C 2010</p>
+<p>1C 2010</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S2E</p>
+<p>S2E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z5</p>
+<p>Z5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2011</p>
+<p>2011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00586</p>
+<p>IT-00586</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4C 2010</p>
+<p>4C 2010</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S2E</p>
+<p>S2E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z5</p>
+<p>Z5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2012</p>
+<p>2012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00587</p>
+<p>IT-00587</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">II</p>
+<p>II</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4C 2011</p>
+<p>4C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">S2E</p>
+<p>S2E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z2</p>
+<p>Z2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00588</p>
+<p>IT-00588</p>
 </td>
 </tr>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">I.2</p>
+<p>I.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2C 2011</p>
+<p>2C 2011</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1</p>
+<p>b.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">P ≤ 1MW</p>
+<p>P ≤ 1MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Z4</p>
+<p>Z4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2013</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-00589</p>
+<p>IT-00589</p>
 </td>
 </tr>
 </tbody>
@@ -1146,198 +1088,187 @@ Madrid, 2 de julio de 2015.–El Ministro de Industria, Energía y Turismo, Jos�
 
 5\. Correspondencia subgrupo a.1.1 y a.1.2 con el subgrupo a.1.3. del Real Decreto 413/2014, de 6 de junio.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_34">
-<col class="row_column_35">
-<col class="row_column_36">
-<col class="row_column_37">
-<col class="row_column_8">
-<col class="row_column_38">
-<col class="row_column_25">
-<col class="row_column_39">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_12">
+<tr>
 <td colspan="8">
-<p class="cabeza_tabla">Identificación instalación antes de la reclasificación al subgrupo a.1.3</p>
+<p>Identificación instalación antes de la reclasificación al subgrupo a.1.3</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Código Instalación Tipo subgrupo a.1.3</p>
+<p>Código Instalación Tipo subgrupo a.1.3</p>
 </td>
 </tr>
-<tr class="row_column_40">
+<tr>
 <td>
-<p class="cabeza_tabla">Grupo</p>
+<p>Grupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subgrupo</p>
+<p>Subgrupo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Combustible</p>
+<p>Combustible</p>
 </td>
 <td>
-<p class="cabeza_tabla">Rango de potencia</p>
+<p>Rango de potencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Subtipo de tecnología</p>
+<p>Subtipo de tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Modificación Sustancial</p>
+<p>Modificación Sustancial</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de autorización de explotación definitiva</p>
+<p>Año de autorización de explotación definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código instalación tipo</p>
+<p>Código instalación tipo</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1997</p>
+<p>1997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01518</p>
+<p>IT-01518</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-02072</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">a.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Motor</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2013</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-01519</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-02073</p>
+<p>IT-02072</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">P ≤ 0,5 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2006</p>
+<p>2013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01523</p>
+<p>IT-01519</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-02074</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">a.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">a.1.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gasóleo / GLP</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 &lt; P ≤ 10 MW</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-01524</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-02075</p>
+<p>IT-02073</p>
 </td>
 </tr>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">a.1</p>
+<p>a.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">a.1.1</p>
+<p>a.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gas Natural</p>
+<p>Gas Natural</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 &lt; P ≤ 10 MW</p>
+<p>P ≤ 0,5 MW</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motor</p>
+<p>Motor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Modificación sustancial</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2006</p>
+<p>2006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-01525</p>
+<p>IT-01523</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-02076</p>
+<p>IT-02074</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a.1</p>
+</td>
+<td>
+<p>a.1.2</p>
+</td>
+<td>
+<p>Gasóleo / GLP</p>
+</td>
+<td>
+<p>1 &lt; P ≤ 10 MW</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2001</p>
+</td>
+<td>
+<p>IT-01524</p>
+</td>
+<td>
+<p>IT-02075</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a.1</p>
+</td>
+<td>
+<p>a.1.1</p>
+</td>
+<td>
+<p>Gas Natural</p>
+</td>
+<td>
+<p>1 &lt; P ≤ 10 MW</p>
+</td>
+<td>
+<p>Motor</p>
+</td>
+<td>
+<p>Modificación sustancial</p>
+</td>
+<td>
+<p>2006</p>
+</td>
+<td>
+<p>IT-01525</p>
+</td>
+<td>
+<p>IT-02076</p>
 </td>
 </tr>
 </tbody>
@@ -1389,1080 +1320,1080 @@ Madrid, 2 de julio de 2015.–El Ministro de Industria, Energía y Turismo, Jos�
 
 <table>
 <thead>
-<tr class="row_column_49">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Código de Identificación</p>
+<p>Código de Identificación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Vida Útil Regulatoria (años)</p>
+<p>Vida Útil Regulatoria (años)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Coeficiente de ajuste C1,a</p>
+<p>Coeficiente de ajuste C1,a</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Retribución a la Inversión Rinv 2014-2016 (€/MW)</p>
+<p>Retribución a la Inversión Rinv 2014-2016 (€/MW)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Retribución a la Operación Ro (€/MWh) 2014</p>
+<p>Retribución a la Operación Ro (€/MWh) 2014</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Retribución a la Operación Ro (*) (€/MWh) 2015</p>
+<p>Retribución a la Operación Ro (*) (€/MWh) 2015</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Retribución a la Operación Ro (*) (€/MWh) 2016</p>
+<p>Retribución a la Operación Ro (*) (€/MWh) 2016</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Horas de funcionamiento máximo<br> para la percepción de Ro (h) </p>
+<p>Horas de funcionamiento máximo<br> para la percepción de Ro (h) </p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Nº Horas equivalentes de funcionamiento<br> mínimo Nh Anual 2014-2016 (h)</p>
+<p>Nº Horas equivalentes de funcionamiento<br> mínimo Nh Anual 2014-2016 (h)</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla vertical">Umbral de funcionamiento Uf Anual 2014-2016 (h)</p>
+<p>Umbral de funcionamiento Uf Anual 2014-2016 (h)</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Porcentajes aplicables a Nh y Uf anuales,</p>
-<p class="cabeza_tabla">para el cálculo del n.º de horas equivalentes</p>
-<p class="cabeza_tabla">de funcionamiento mínimo y del umbral de funcionamiento</p>
-<p class="cabeza_tabla">de los periodos de 3, 6 y 9 meses (%)</p>
+<p>Porcentajes aplicables a Nh y Uf anuales,</p>
+<p>para el cálculo del n.º de horas equivalentes</p>
+<p>de funcionamiento mínimo y del umbral de funcionamiento</p>
+<p>de los periodos de 3, 6 y 9 meses (%)</p>
 </td>
 </tr>
-<tr class="row_column_45">
+<tr>
 <td>
-<p class="cabeza_tabla">3 meses</p>
+<p>3 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">6 meses</p>
+<p>6 meses</p>
 </td>
 <td>
-<p class="cabeza_tabla">9 meses</p>
+<p>9 meses</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00579</p>
+<p>IT-00579</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">365.796</p>
+<p>365.796</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,547</p>
+<p>13,547</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,750</p>
+<p>12,750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,314</p>
+<p>13,314</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.124</p>
+<p>2.124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.274</p>
+<p>1.274</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">743</p>
+<p>743</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-00580</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">345.152</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,648</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,839</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,391</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.648</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">989</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">577</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00581</p>
+<p>IT-00580</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">328.087</p>
+<p>345.152</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,869</p>
+<p>14,648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,056</p>
+<p>13,839</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,604</p>
+<p>14,391</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.648</p>
+<p>1.648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">989</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">577</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-00582</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">135.970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,094</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,237</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,741</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.648</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">989</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">577</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00583</p>
+<p>IT-00581</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.328</p>
+<p>328.087</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,654</p>
+<p>13,869</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,795</p>
+<p>13,056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,296</p>
+<p>13,604</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.648</p>
+<p>1.648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">989</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">577</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-00584</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">398.697</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,035</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,247</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,820</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.102</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.261</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">736</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00585</p>
+<p>IT-00582</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">151.649</p>
+<p>135.970</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,188</p>
+<p>5,094</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,356</p>
+<p>4,237</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,884</p>
+<p>4,741</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.102</p>
+<p>1.648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.261</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">736</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-00586</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">393.310</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,522</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,730</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,299</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.124</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.274</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">743</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00587</p>
+<p>IT-00583</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">376.085</p>
+<p>126.328</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,912</p>
+<p>4,654</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,117</p>
+<p>3,795</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,683</p>
+<p>4,296</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.124</p>
+<p>1.648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.274</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">743</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-00588</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">170.499</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,627</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,795</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,324</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.124</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.274</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">743</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-00589</p>
+<p>IT-00584</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">239.666</p>
+<p>398.697</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,830</p>
+<p>15,035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,997</p>
+<p>14,247</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,525</p>
+<p>14,820</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.648</p>
+<p>2.102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">989</p>
+<p>1.261</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">577</p>
+<p>736</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-00590</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">769.224</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,845</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,909</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,331</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.124</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.274</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">743</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01518</p>
+<p>IT-00585</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165.782</p>
+<p>151.649</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">89,557</p>
+<p>6,188</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>5,356</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>5,884</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>2.102</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.100</p>
+<p>1.261</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">640</p>
+<p>736</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-01519</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">161.604</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">78,017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">640</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01520</p>
+<p>IT-00586</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>393.310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>14,522</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>13,730</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>14,299</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>2.124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.260</p>
+<p>1.274</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">680</p>
+<p>743</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-01521</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.260</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">680</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01522</p>
+<p>IT-00587</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>376.085</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>13,912</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>13,117</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>13,683</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>2.124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.260</p>
+<p>1.274</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">680</p>
+<p>743</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-01523</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">123.503</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80,664</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">640</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-01524</p>
+<p>IT-00588</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.786</p>
+<p>170.499</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">133,123</p>
+<p>6,627</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>5,795</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>6,324</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>2.124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.760</p>
+<p>1.274</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>743</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-01525</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">56,937</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.760</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">840</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02072</p>
+<p>IT-00589</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">165.782</p>
+<p>239.666</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>9,830</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>8,997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>9,525</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>1.648</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.100</p>
+<p>989</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">640</p>
+<p>577</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-02073</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">161.604</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">640</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_15">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02074</p>
+<p>IT-00590</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">123.503</p>
+<p>769.224</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>14,845</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>13,909</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>14,331</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>2.124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.100</p>
+<p>1.274</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">640</p>
+<p>743</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>10%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
-</td>
-</tr>
-<tr class="row_column_15">
-<td>
-<p class="cuerpo_tabla_centro">IT-02075</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.786</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.760</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">840</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>30%</p>
 </td>
 </tr>
-<tr class="row_column_33">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">IT-02076</p>
+<p>IT-01518</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>165.782</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,000</p>
+<p>89,557</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>(no aplica)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">(no aplica)</p>
+<p>(no aplica)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.760</p>
+<p>2.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">840</p>
+<p>640</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15%</p>
+<p>15%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30%</p>
+<p>30%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45%</p>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01519</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,0000</p>
+</td>
+<td>
+<p>161.604</p>
+</td>
+<td>
+<p>78,017</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.100</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01520</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.260</p>
+</td>
+<td>
+<p>680</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01521</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.260</p>
+</td>
+<td>
+<p>680</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01522</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.260</p>
+</td>
+<td>
+<p>680</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01523</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,0000</p>
+</td>
+<td>
+<p>123.503</p>
+</td>
+<td>
+<p>80,664</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.100</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01524</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,0000</p>
+</td>
+<td>
+<p>2.786</p>
+</td>
+<td>
+<p>133,123</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.760</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-01525</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>56,937</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.760</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-02072</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,0000</p>
+</td>
+<td>
+<p>165.782</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.100</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-02073</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>161.604</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.100</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-02074</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,0000</p>
+</td>
+<td>
+<p>123.503</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.100</p>
+</td>
+<td>
+<p>640</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-02075</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1,0000</p>
+</td>
+<td>
+<p>2.786</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.760</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IT-02076</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,000</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>(no aplica)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2.760</p>
+</td>
+<td>
+<p>840</p>
+</td>
+<td>
+<p>15%</p>
+</td>
+<td>
+<p>30%</p>
+</td>
+<td>
+<p>45%</p>
 </td>
 </tr>
 </tbody>

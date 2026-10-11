@@ -459,83 +459,83 @@ El incumplimiento de los requisitos exigidos llevará consigo el pago del impues
 
 2\. Si la Comunidad Autónoma no hubiese aprobado el coeficiente o la cuantía de los tramos a que se refiere el apartado anterior o si aquélla no hubiese asumido competencias normativas en materia de Impuesto sobre Sucesiones y Donaciones, o no resultase aplicable a los sujetos pasivos la normativa propia de la Comunidad, se aplicará el que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Patrimonio preexistente</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Euros</p>
+<p>Patrimonio preexistente</p>
+<p>–</p>
+<p>Euros</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Grupos del artículo 20</p>
+<p>Grupos del artículo 20</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">I y II</p>
+<p>I y II</p>
 </th>
 <th>
-<p class="cabeza_tabla">III</p>
+<p>III</p>
 </th>
 <th>
-<p class="cabeza_tabla">IV</p>
+<p>IV</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 0 a 402.678,11.............................................</p>
+<p>De 0 a 402.678,11.............................................</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5882</p>
+<p>1,5882</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,0000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De más de 402.678,11 a 2.007.380,43........</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,6676</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,1000</p>
+<p>2,0000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De más de 2.007.380,43 a 4.020.770,98.....</p>
+<p>De más de 402.678,11 a 2.007.380,43........</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,1000</p>
+<p>1,0500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,7471</p>
+<p>1,6676</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2000</p>
+<p>2,1000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Más de 4.020.770,98........................................</p>
+<p>De más de 2.007.380,43 a 4.020.770,98.....</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,2000</p>
+<p>1,1000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9059</p>
+<p>1,7471</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,4000</p>
+<p>2,2000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 4.020.770,98........................................</p>
+</td>
+<td>
+<p>1,2000</p>
+</td>
+<td>
+<p>1,9059</p>
+</td>
+<td>
+<p>2,4000</p>
 </td>
 </tr>
 </tbody>

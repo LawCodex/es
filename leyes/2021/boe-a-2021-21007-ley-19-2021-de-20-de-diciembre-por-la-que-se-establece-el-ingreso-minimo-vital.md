@@ -614,22 +614,6 @@ Asimismo, en la unidad de convivencia que debe recibir la pensión por alimentos
 
 5.º El subsidio no contributivo por desempleo, cuando a la fecha de solicitud de la prestación se hubiera extinguido.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 4.5 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 22 de noviembe de 2024, según determina su disposición final 14.3.
-
-> Redacción anterior:
-
-> "f) Se exceptuarán del cómputo de rentas:
-
-> 1.º Las rentas exentas a las que se refieren los párrafos b), c), d), i), j), n), q), r), s), t), x) e y) del artículo 7 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
-
-> 2.º Ayudas para el estudio y las ayudas de vivienda, tanto por alquiler como para adquisición.
-
-> 3.º Se considera renta exenta para la persona obligada al abono, la pensión compensatoria que deba ser satisfecha de conformidad con lo previsto en el artículo 97 del Código Civil, siempre que se haya producido el pago de la misma.
-
-> 4.º Se considera renta exenta para la persona obligada al abono, la pensión de alimentos en favor de los hijos que deba ser satisfecha de conformidad con lo previsto en artículo 93 del Código Civil, siempre que se haya producido el pago de la misma.
-
-> Asimismo, en la unidad de convivencia que debe recibir la pensión por alimentos será renta exenta cuando no se hubiera producido el abono por la persona obligada al pago."
-
 2\. Para el cómputo de ingresos se tendrán en cuenta los obtenidos por los beneficiarios durante el ejercicio anterior a la solicitud. El importe de la prestación será revisado cada año teniendo en cuenta la información de los ingresos del ejercicio anterior. Para determinar en qué ejercicio se han obtenido los ingresos se adoptará el criterio fiscal.
 
 3\. Para la determinación de los rendimientos mensuales de las personas que forman la unidad de convivencia se computa el conjunto de rendimientos o ingresos de todos los miembros, de acuerdo con lo establecido en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
@@ -1269,8 +1253,6 @@ Los efectos económicos se producirán el día primero del mes siguiente al de l
 La persona titular del ingreso mínimo vital será, en todo caso, la beneficiaria del subsidio por desempleo extinguido y se abonará en la misma cuenta bancaria en la que se ingresaba el mencionado subsidio.
 
 6\. Las comunicaciones e intercambio de datos entre la entidad gestora del subsidio por desempleo y la entidad gestora del ingreso mínimo vital se llevarán a cabo mediante el oportuno sistema de intercambio de información que incluirá la habilitación de un sistema telemático al servicio de esta última entidad gestora que permita la consulta de los datos y documentos suscritos por las personas interesadas, así como los que obren en poder de la entidad gestora del subsidio por desempleo, que sean necesarios para la verificación de la acreditación de los requisitos establecidos en la presente Ley para el acceso y mantenimiento de la prestación económica de ingreso mínimo vital.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 4.8 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 22 de noviembre de 2024, según determina su disposición final 14.3.
 
 > Se añade por la disposición final 4.8 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 

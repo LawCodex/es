@@ -1542,267 +1542,259 @@ Ocho. Se sustituye el anexo III bis, con el siguiente contenido:
 
 > «Especificaciones de los gasóleos para uso agrícola, ferroviario, marítimo y máquinas móviles no de carretera (clase B) y de calefacción (clase C)
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2">Características</th>
-> <th class="cabeza_tabla" rowspan="2">Unidades de Medida</th>
-> <th class="cabeza_tabla" rowspan="2">
-> <p class="cabeza_tabla">Gasóleo</p>
-> <p class="cabeza_tabla">Clase B</p>
+> <th rowspan="2">Características</th>
+> <th rowspan="2">Unidades de Medida</th>
+> <th rowspan="2">
+> <p>Gasóleo</p>
+> <p>Clase B</p>
 > </th>
-> <th class="cabeza_tabla" rowspan="2">Gasóleo Calefacción Clase C</th>
-> <th class="cabeza_tabla" colspan="2">Métodos de ensayo</th>
+> <th rowspan="2">Gasóleo Calefacción Clase C</th>
+> <th colspan="2">Métodos de ensayo</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Normas</p>
-> <p class="cabeza_tabla">UNE- ISO-CEN (2)</p>
+> <th>
+> <p>Normas</p>
+> <p>UNE- ISO-CEN (2)</p>
 > </th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Normas</p>
-> <p class="cabeza_tabla">ASTM (2)</p>
+> <th>
+> <p>Normas</p>
+> <p>ASTM (2)</p>
 > </th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq">Densidad a 15° (máx/mín)</td>
-> <td class="cuerpo_tabla_centro">kg/m<sup>3</sup></td>
-> <td class="cuerpo_tabla_centro">880/820</td>
-> <td class="cuerpo_tabla_centro">900/--</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">EN ISO 3675</p>
-> <p class="cuerpo_tabla_izq">EN ISO 12185</p>
+> <td>Densidad a 15° (máx/mín)</td>
+> <td>kg/m<sup>3</sup></td>
+> <td>880/820</td>
+> <td>900/--</td>
+> <td>
+> <p>EN ISO 3675</p>
+> <p>EN ISO 12185</p>
 > </td>
-> <td class="cuerpo_tabla_izq">D 4052</td>
+> <td>D 4052</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Color</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">Rojo</td>
-> <td class="cuerpo_tabla_centro">Azul</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">D 1500</td>
+> <td>Color</td>
+> <td> </td>
+> <td>Rojo</td>
+> <td>Azul</td>
+> <td> </td>
+> <td>D 1500</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Azufre, máx (1)</td>
-> <td class="cuerpo_tabla_centro">mg/kg</td>
-> <td class="cuerpo_tabla_centro">1000 (1)</td>
-> <td class="cuerpo_tabla_centro">1000 (1)</td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">EN ISO 8754</p>
-> <p class="cuerpo_tabla_izq">EN ISO 14596</p>
-> <p class="cuerpo_tabla_izq">EN 24260</p>
+> <td>Azufre, máx (1)</td>
+> <td>mg/kg</td>
+> <td>1000 (1)</td>
+> <td>1000 (1)</td>
+> <td>
+> <p>EN ISO 8754</p>
+> <p>EN ISO 14596</p>
+> <p>EN 24260</p>
 > </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Índice de cetano, mín.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">46</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN ISO 4264</td>
-> <td class="cuerpo_tabla_izq">D 4737</td>
+> <td>Índice de cetano, mín.</td>
+> <td> </td>
+> <td>46</td>
+> <td> </td>
+> <td>EN ISO 4264</td>
+> <td>D 4737</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Número de cetano, mín.</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">49</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">
-> <p class="cuerpo_tabla_izq">ISO 5165</p>
-> <p class="cuerpo_tabla_izq">EN 15195 (3)</p>
+> <td>Número de cetano, mín.</td>
+> <td> </td>
+> <td>49</td>
+> <td> </td>
+> <td>
+> <p>ISO 5165</p>
+> <p>EN 15195 (3)</p>
 > </td>
-> <td class="cuerpo_tabla_izq">D 613</td>
+> <td>D 613</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Destilación:</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN ISO 3405</td>
-> <td class="cuerpo_tabla_izq">D 86</td>
+> <td>Destilación:</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>EN ISO 3405</td>
+> <td>D 86</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">65% recogido, mín</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro">250</td>
-> <td class="cuerpo_tabla_centro">250</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>65% recogido, mín</td>
+> <td>°C</td>
+> <td>250</td>
+> <td>250</td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">80% recogido, máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">390</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>80% recogido, máx</td>
+> <td>°C</td>
+> <td> </td>
+> <td>390</td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">85% recogido, máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro">350</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>85% recogido, máx</td>
+> <td>°C</td>
+> <td>350</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">95% recogido, máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro">370</td>
-> <td class="cuerpo_tabla_centro">Anotar</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>95% recogido, máx</td>
+> <td>°C</td>
+> <td>370</td>
+> <td>Anotar</td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Viscosidad cinemática a 40 °C mín/máx</td>
-> <td class="cuerpo_tabla_centro">mm<sup>2</sup>/s</td>
-> <td class="cuerpo_tabla_centro">2,0/4,5</td>
-> <td class="cuerpo_tabla_centro">--/7,0</td>
-> <td class="cuerpo_tabla_izq">EN ISO 3104</td>
-> <td class="cuerpo_tabla_izq">D 445</td>
+> <td>Viscosidad cinemática a 40 °C mín/máx</td>
+> <td>mm<sup>2</sup>/s</td>
+> <td>2,0/4,5</td>
+> <td>--/7,0</td>
+> <td>EN ISO 3104</td>
+> <td>D 445</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Punto de inflamación, mín</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro">60</td>
-> <td class="cuerpo_tabla_centro">60</td>
-> <td class="cuerpo_tabla_izq">EN ISO 2719</td>
-> <td class="cuerpo_tabla_izq">D 93</td>
+> <td>Punto de inflamación, mín</td>
+> <td>°C</td>
+> <td>60</td>
+> <td>60</td>
+> <td>EN ISO 2719</td>
+> <td>D 93</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Punto de obstrucción filtro frío:</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN 116</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Punto de obstrucción filtro frío:</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>EN 116</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Invierno (1 octubre-31 marzo), máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro">-10</td>
-> <td class="cuerpo_tabla_centro">-6</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Invierno (1 octubre-31 marzo), máx</td>
+> <td>°C</td>
+> <td>-10</td>
+> <td>-6</td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Verano (1 abril-30 septiembre), máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro">0</td>
-> <td class="cuerpo_tabla_centro">-6</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Verano (1 abril-30 septiembre), máx</td>
+> <td>°C</td>
+> <td>0</td>
+> <td>-6</td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Punto de enturbiamento</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN 23015</td>
-> <td class="cuerpo_tabla_izq">D 2500</td>
+> <td>Punto de enturbiamento</td>
+> <td> </td>
+> <td> </td>
+> <td> </td>
+> <td>EN 23015</td>
+> <td>D 2500</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Invierno (1 octubre-31 marzo), máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">D 5772</td>
+> <td>Invierno (1 octubre-31 marzo), máx</td>
+> <td>°C</td>
+> <td> </td>
+> <td>4</td>
+> <td> </td>
+> <td>D 5772</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Verano (1 abril-30 septiembre), máx</td>
-> <td class="cuerpo_tabla_centro">°C</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Verano (1 abril-30 septiembre), máx</td>
+> <td>°C</td>
+> <td> </td>
+> <td>4</td>
+> <td> </td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Residuo carbonoso (sobre 10% v/v final destilación), máx</td>
-> <td class="cuerpo_tabla_centro">% m/m</td>
-> <td class="cuerpo_tabla_centro">0,30</td>
-> <td class="cuerpo_tabla_centro">0,35</td>
-> <td class="cuerpo_tabla_izq">EN ISO 10370</td>
-> <td class="cuerpo_tabla_izq">D 4530</td>
+> <td>Residuo carbonoso (sobre 10% v/v final destilación), máx</td>
+> <td>% m/m</td>
+> <td>0,30</td>
+> <td>0,35</td>
+> <td>EN ISO 10370</td>
+> <td>D 4530</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenido en agua y sedimentos, máx</td>
-> <td class="cuerpo_tabla_centro">% v/v</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">0,1</td>
-> <td class="cuerpo_tabla_izq">UNE 51083</td>
-> <td class="cuerpo_tabla_izq">D 2709</td>
+> <td>Contenido en agua y sedimentos, máx</td>
+> <td>% v/v</td>
+> <td> </td>
+> <td>0,1</td>
+> <td>UNE 51083</td>
+> <td>D 2709</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenido en agua, máx</td>
-> <td class="cuerpo_tabla_centro">mg/kg</td>
-> <td class="cuerpo_tabla_centro">200</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN ISO 12937</td>
-> <td class="cuerpo_tabla_izq">D 1744</td>
+> <td>Contenido en agua, máx</td>
+> <td>mg/kg</td>
+> <td>200</td>
+> <td> </td>
+> <td>EN ISO 12937</td>
+> <td>D 1744</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contaminación total (partículas sólidas), máx</td>
-> <td class="cuerpo_tabla_centro">mg/kg</td>
-> <td class="cuerpo_tabla_centro">24</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN 12662</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Contaminación total (partículas sólidas), máx</td>
+> <td>mg/kg</td>
+> <td>24</td>
+> <td> </td>
+> <td>EN 12662</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenido de cenizas, máx</td>
-> <td class="cuerpo_tabla_centro">% m/m</td>
-> <td class="cuerpo_tabla_centro">0,01</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN ISO 6245</td>
-> <td class="cuerpo_tabla_izq">D 482</td>
+> <td>Contenido de cenizas, máx</td>
+> <td>% m/m</td>
+> <td>0,01</td>
+> <td> </td>
+> <td>EN ISO 6245</td>
+> <td>D 482</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Corrosión lámina de cobre (3 horas a 50°C), máx.</td>
-> <td class="cuerpo_tabla_centro">Escala</td>
-> <td class="cuerpo_tabla_centro">Clase 1</td>
-> <td class="cuerpo_tabla_centro">Clase 2</td>
-> <td class="cuerpo_tabla_izq">EN ISO 2160</td>
-> <td class="cuerpo_tabla_izq">D 130</td>
+> <td>Corrosión lámina de cobre (3 horas a 50°C), máx.</td>
+> <td>Escala</td>
+> <td>Clase 1</td>
+> <td>Clase 2</td>
+> <td>EN ISO 2160</td>
+> <td>D 130</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Contenido en FAME (4,5), máx.</td>
-> <td class="cuerpo_tabla_centro">% v/v</td>
-> <td class="cuerpo_tabla_centro">7</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN 14078</td>
-> <td class="cuerpo_tabla_izq"> </td>
+> <td>Contenido en FAME (4,5), máx.</td>
+> <td>% v/v</td>
+> <td>7</td>
+> <td> </td>
+> <td>EN 14078</td>
+> <td> </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Transparencia y brillo</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_centro">Cumple</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq"> </td>
-> <td class="cuerpo_tabla_izq">D 4176</td>
+> <td>Transparencia y brillo</td>
+> <td> </td>
+> <td>Cumple</td>
+> <td> </td>
+> <td> </td>
+> <td>D 4176</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Estabilidad a la oxidación, máx</td>
-> <td class="cuerpo_tabla_centro">g/m<sup>3</sup></td>
-> <td class="cuerpo_tabla_centro">25</td>
-> <td class="cuerpo_tabla_centro"> </td>
-> <td class="cuerpo_tabla_izq">EN ISO 12205</td>
-> <td class="cuerpo_tabla_izq">D 2274</td>
+> <td>Estabilidad a la oxidación, máx</td>
+> <td>g/m<sup>3</sup></td>
+> <td>25</td>
+> <td> </td>
+> <td>EN ISO 12205</td>
+> <td>D 2274</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Aditivos y agentes trazadores</td>
-> <td class="cuerpo_tabla_izq" colspan="5">Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</td>
+> <td>Aditivos y agentes trazadores</td>
+> <td colspan="5">Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.</td>
 > </tr>
 > </tbody>
 > </table>
@@ -1965,87 +1957,83 @@ f) cultivos intermedios, como los cultivos intercalados y los cultivos de cobert
 
 De conformidad con lo establecido en el artículo 4.3, se detalla a continuación la intensidad de emisiones GEI de los combustibles fósiles a lo largo de su ciclo de vida que deberán ser tenidas en cuenta para el anexo III:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Combustible fósiles y electricidad</th>
-<th class="cabeza_tabla">Intensidad de emisiones GEI por MJ (gCO2eq/MJ)</th>
+<th>Combustible fósiles y electricidad</th>
+<th>Intensidad de emisiones GEI por MJ (gCO2eq/MJ)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Comparador fósil de referencia para electricidad.</td>
-<td class="cuerpo_tabla_coma">183</td>
+<td>Comparador fósil de referencia para electricidad.</td>
+<td>183</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comparador fósil de referencia.</td>
-<td class="cuerpo_tabla_coma">94</td>
+<td>Comparador fósil de referencia.</td>
+<td>94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Diésel Marino.</td>
-<td class="cuerpo_tabla_coma">95,1</td>
+<td>Diésel Marino.</td>
+<td>95,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Electricidad no renovable con fines de transporte.</td>
-<td class="cuerpo_tabla_coma">94</td>
+<td>Electricidad no renovable con fines de transporte.</td>
+<td>94</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Electricidad renovable con fines de transporte.</td>
-<td class="cuerpo_tabla_coma">-89*</td>
+<td>Electricidad renovable con fines de transporte.</td>
+<td>-89*</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuelóleo ligero (LFO).</td>
-<td class="cuerpo_tabla_coma">91,4</td>
+<td>Fuelóleo ligero (LFO).</td>
+<td>91,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuelóleo pesado marítimo (HFO).</td>
-<td class="cuerpo_tabla_coma">91,77</td>
+<td>Fuelóleo pesado marítimo (HFO).</td>
+<td>91,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fuelóleo uso marítimo.</td>
-<td class="cuerpo_tabla_coma">90,8</td>
+<td>Fuelóleo uso marítimo.</td>
+<td>90,8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gas Licuado de Petróleo.</td>
-<td class="cuerpo_tabla_coma">73,6</td>
+<td>Gas Licuado de Petróleo.</td>
+<td>73,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gas natural.</td>
-<td class="cuerpo_tabla_coma">69,3</td>
+<td>Gas natural.</td>
+<td>69,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Marino.</td>
-<td class="cuerpo_tabla_coma">95,1</td>
+<td>Gasóleo Marino.</td>
+<td>95,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo.</td>
-<td class="cuerpo_tabla_coma">95,1</td>
+<td>Gasóleo.</td>
+<td>95,1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina.</td>
-<td class="cuerpo_tabla_coma">93,3</td>
+<td>Gasolina.</td>
+<td>93,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidrógeno producido a partir de gas natural.</td>
-<td class="cuerpo_tabla_coma">104,3</td>
+<td>Hidrógeno producido a partir de gas natural.</td>
+<td>104,3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol.</td>
-<td class="cuerpo_tabla_coma">100,4</td>
+<td>Metanol.</td>
+<td>100,4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Queroseno.</td>
-<td class="cuerpo_tabla_coma">89,1</td>
+<td>Queroseno.</td>
+<td>89,1</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">* Para la electricidad renovable, se multiplicará la cantidad de electricidad renovable suministrada a todos los modos de transporte por el ahorro de emisiones GEI para electricidad fijado en 183 gCO2eq/MJ. Por tanto, las emisiones GEI asociadas a la electricidad renovable serán de -89gCO2eq/MJ hasta el 31 de diciembre de 2030 y serán de 0gCO2eq/MJ a partir del 1 de enero de 2031.</p>
+<p>* Para la electricidad renovable, se multiplicará la cantidad de electricidad renovable suministrada a todos los modos de transporte por el ahorro de emisiones GEI para electricidad fijado en 183 gCO2eq/MJ. Por tanto, las emisiones GEI asociadas a la electricidad renovable serán de -89gCO2eq/MJ hasta el 31 de diciembre de 2030 y serán de 0gCO2eq/MJ a partir del 1 de enero de 2031.</p>
 </td>
 </tr>
 </tfoot>
@@ -2283,183 +2271,174 @@ b) En el denominador se incluirá la cantidad de energía procedente de la gasol
 
 ## ANEXO IV — Diseño del subobjetivo de combustibles renovables de origen no biológico (CRONB) en transporte por carretera
 
-<table class="table.tabla_ancha" height="548" width="1905">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Año</th>
-<th class="cabeza_tabla">Subobjetivo CRONBs en transporte por carretera</th>
-<th class="cabeza_tabla">Sujeto obligado</th>
-<th class="cabeza_tabla">Senda de flexibilidad</th>
-<th class="cabeza_tabla">Subobjetivo CRONBs deduciendo senda de flexibilidad</th>
-<th class="cabeza_tabla">Subobjetivo de biocarburantes avanzados, biogás y CRONBs en transporte por carretera</th>
-<th class="cabeza_tabla">Combustibles permitidos para cumplir con la senda de flexibilidad</th>
+<th>Año</th>
+<th>Subobjetivo CRONBs en transporte por carretera</th>
+<th>Sujeto obligado</th>
+<th>Senda de flexibilidad</th>
+<th>Subobjetivo CRONBs deduciendo senda de flexibilidad</th>
+<th>Subobjetivo de biocarburantes avanzados, biogás y CRONBs en transporte por carretera</th>
+<th>Combustibles permitidos para cumplir con la senda de flexibilidad</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">2027</td>
-<td class="cuerpo_tabla_coma">0,2%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">0,2%</td>
-<td class="cuerpo_tabla_centro">4,2%</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>2027</td>
+<td>0,2%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>0,2%</td>
+<td>4,2%</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2028</td>
-<td class="cuerpo_tabla_coma" rowspan="2">0,7%</td>
-<td class="cuerpo_tabla_izq">Operadores petrolíferos con capacidad de refino.</td>
-<td class="cuerpo_tabla_centro">0,2%</td>
-<td class="cuerpo_tabla_coma">0,5%</td>
-<td class="cuerpo_tabla_centro">4,5+0,2%+0,5%=5,2%</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Biocarburantes y biogás avanzados y combustibles hipocarbónicos electrolíticos obtenidos a partir de electricidad renovable.</td>
+<td rowspan="2">2028</td>
+<td rowspan="2">0,7%</td>
+<td>Operadores petrolíferos con capacidad de refino.</td>
+<td>0,2%</td>
+<td>0,5%</td>
+<td>4,5+0,2%+0,5%=5,2%</td>
+<td rowspan="2">Biocarburantes y biogás avanzados y combustibles hipocarbónicos electrolíticos obtenidos a partir de electricidad renovable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
-<td class="cuerpo_tabla_centro">0,4%</td>
-<td class="cuerpo_tabla_coma">0,3%</td>
-<td class="cuerpo_tabla_centro">4,5%+0,4%+0,3%= 5,2%</td>
+<td>Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
+<td>0,4%</td>
+<td>0,3%</td>
+<td>4,5%+0,4%+0,3%= 5,2%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2029</td>
-<td class="cuerpo_tabla_coma" rowspan="2">1,5%</td>
-<td class="cuerpo_tabla_izq">Operadores petrolíferos con capacidad de refino.</td>
-<td class="cuerpo_tabla_centro">0,9%</td>
-<td class="cuerpo_tabla_coma">0,6%</td>
-<td class="cuerpo_tabla_centro">5%+0,9%+0,6%=6,5%</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Biocarburantes y biogás avanzados y combustibles hipocarbónicos electrolíticos obtenidos a partir de electricidad renovable.</td>
+<td rowspan="2">2029</td>
+<td rowspan="2">1,5%</td>
+<td>Operadores petrolíferos con capacidad de refino.</td>
+<td>0,9%</td>
+<td>0,6%</td>
+<td>5%+0,9%+0,6%=6,5%</td>
+<td rowspan="2">Biocarburantes y biogás avanzados y combustibles hipocarbónicos electrolíticos obtenidos a partir de electricidad renovable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
-<td class="cuerpo_tabla_centro">1%</td>
-<td class="cuerpo_tabla_coma">0,5%</td>
-<td class="cuerpo_tabla_centro">5%+1%+0,5%=6,5%</td>
+<td>Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
+<td>1%</td>
+<td>0,5%</td>
+<td>5%+1%+0,5%=6,5%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2030</td>
-<td class="cuerpo_tabla_coma" rowspan="2">2,5%</td>
-<td class="cuerpo_tabla_izq">Operadores petrolíferos con capacidad de refino.</td>
-<td class="cuerpo_tabla_centro">1,00%</td>
-<td class="cuerpo_tabla_coma">1,5%</td>
-<td class="cuerpo_tabla_centro">5,5%+1%+1,5%=8%</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Biocarburantes y biogás avanzados y combustibles hipocarbónicos electrolíticos obtenidos a partir de electricidad renovable.</td>
+<td rowspan="2">2030</td>
+<td rowspan="2">2,5%</td>
+<td>Operadores petrolíferos con capacidad de refino.</td>
+<td>1,00%</td>
+<td>1,5%</td>
+<td>5,5%+1%+1,5%=8%</td>
+<td rowspan="2">Biocarburantes y biogás avanzados y combustibles hipocarbónicos electrolíticos obtenidos a partir de electricidad renovable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
-<td class="cuerpo_tabla_centro">1,5%</td>
-<td class="cuerpo_tabla_coma">1%</td>
-<td class="cuerpo_tabla_centro">5,5%+1,5%+1%=8%</td>
+<td>Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
+<td>1,5%</td>
+<td>1%</td>
+<td>5,5%+1,5%+1%=8%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2031</td>
-<td class="cuerpo_tabla_coma" rowspan="2">3%</td>
-<td class="cuerpo_tabla_izq">Operadores petrolíferos con capacidad de refino.</td>
-<td class="cuerpo_tabla_centro">0,9%</td>
-<td class="cuerpo_tabla_coma">2,10%</td>
-<td class="cuerpo_tabla_centro">6%+0,9%+2,10%=9%</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Biocarburantes y biogás avanzados.</td>
+<td rowspan="2">2031</td>
+<td rowspan="2">3%</td>
+<td>Operadores petrolíferos con capacidad de refino.</td>
+<td>0,9%</td>
+<td>2,10%</td>
+<td>6%+0,9%+2,10%=9%</td>
+<td rowspan="2">Biocarburantes y biogás avanzados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
-<td class="cuerpo_tabla_centro">1%</td>
-<td class="cuerpo_tabla_coma">2%</td>
-<td class="cuerpo_tabla_centro">6%+1%+2%=9%</td>
+<td>Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
+<td>1%</td>
+<td>2%</td>
+<td>6%+1%+2%=9%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2032</td>
-<td class="cuerpo_tabla_coma" rowspan="2">3,5%</td>
-<td class="cuerpo_tabla_izq">Operadores petrolíferos con capacidad de refino.</td>
-<td class="cuerpo_tabla_centro">0,2%</td>
-<td class="cuerpo_tabla_coma">3,3%</td>
-<td class="cuerpo_tabla_centro">6,5%+0,2%+3,3%=10%</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Biocarburantes y biogás avanzados.</td>
+<td rowspan="2">2032</td>
+<td rowspan="2">3,5%</td>
+<td>Operadores petrolíferos con capacidad de refino.</td>
+<td>0,2%</td>
+<td>3,3%</td>
+<td>6,5%+0,2%+3,3%=10%</td>
+<td rowspan="2">Biocarburantes y biogás avanzados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
-<td class="cuerpo_tabla_centro">0,4%</td>
-<td class="cuerpo_tabla_coma">3,1%</td>
-<td class="cuerpo_tabla_centro">6,5%+0,4%+3,1%=10%</td>
+<td>Proveedores combustible sin capacidad de refino incluidos en el art. 20.</td>
+<td>0,4%</td>
+<td>3,1%</td>
+<td>6,5%+0,4%+3,1%=10%</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2033</td>
-<td class="cuerpo_tabla_coma">4%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">4%</td>
-<td class="cuerpo_tabla_centro">7%+4%=11%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2033</td>
+<td>4%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>4%</td>
+<td>7%+4%=11%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2034</td>
-<td class="cuerpo_tabla_coma">5%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">5%</td>
-<td class="cuerpo_tabla_centro">7,5%+5%=12,5%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2034</td>
+<td>5%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>5%</td>
+<td>7,5%+5%=12,5%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2035</td>
-<td class="cuerpo_tabla_coma">6%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">6%</td>
-<td class="cuerpo_tabla_centro">8%+6%=14%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2035</td>
+<td>6%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>6%</td>
+<td>8%+6%=14%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2036</td>
-<td class="cuerpo_tabla_coma">7%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">7%</td>
-<td class="cuerpo_tabla_centro">8,5%+7%=15,5%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2036</td>
+<td>7%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>7%</td>
+<td>8,5%+7%=15,5%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2037</td>
-<td class="cuerpo_tabla_coma">8%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">8%</td>
-<td class="cuerpo_tabla_centro">9%+8%=17%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2037</td>
+<td>8%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>8%</td>
+<td>9%+8%=17%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2038</td>
-<td class="cuerpo_tabla_coma">9%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">9%</td>
-<td class="cuerpo_tabla_centro">9,5%+9%=18,5%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2038</td>
+<td>9%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>9%</td>
+<td>9,5%+9%=18,5%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2039</td>
-<td class="cuerpo_tabla_coma">10%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">10%</td>
-<td class="cuerpo_tabla_centro">10%+10%=20%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2039</td>
+<td>10%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>10%</td>
+<td>10%+10%=20%</td>
+<td>–. </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2040</td>
-<td class="cuerpo_tabla_coma">11%</td>
-<td class="cuerpo_tabla_izq">Sujetos obligados del artículo 20.</td>
-<td class="cuerpo_tabla_centro">0%</td>
-<td class="cuerpo_tabla_coma">11%</td>
-<td class="cuerpo_tabla_centro">11%+11%=22%</td>
-<td class="cuerpo_tabla_izq">–. </td>
+<td>2040</td>
+<td>11%</td>
+<td>Sujetos obligados del artículo 20.</td>
+<td>0%</td>
+<td>11%</td>
+<td>11%+11%=22%</td>
+<td>–. </td>
 </tr>
 </tbody>
 </table>

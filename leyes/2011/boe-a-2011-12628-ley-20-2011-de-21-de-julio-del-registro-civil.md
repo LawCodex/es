@@ -178,22 +178,6 @@ Tienen acceso al Registro Civil los hechos y actos que se refieren a la identida
 
 16.º La defunción.
 
-> Téngase en cuenta que esta última actualización de los puntos 10 a 16 establecida por el art. 6.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "10.º La modificación judicial de la capacidad de las personas, así como la que derive de la declaración de concurso de las personas físicas.
-
-> 11.º La tutela, la curatela y demás representaciones legales y sus modificaciones.
-
-> 12.º Los actos relativos a la constitución y régimen del patrimonio protegido de las personas con discapacidad.
-
-> 13.º La autotutela y los apoderamientos preventivos.
-
-> 14.º Las declaraciones de ausencia y fallecimiento.
-
-> 15.º La defunción."
-
 > Se modifican los puntos 10 a 15 y se añade un 16, con efectos desde el 3 de septiembre de 2021, por el art. 6.1 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 5. Registro individual.
@@ -265,12 +249,6 @@ g) El derecho a utilizar ante el Registro Civil cualquiera de las lenguas oficia
 h) El derecho a la igualdad de género y al pleno reconocimiento del principio de igualdad, en todas sus manifestaciones, en materia de Derecho del Registro Civil.
 
 i) El derecho a promover la inscripción de determinados hechos y actos dirigidos a la protección de los menores, las personas mayores y otras personas respecto de las cuales la inscripción registral supone una particular garantía de sus derechos.
-
-> Téngase en cuenta que esta última actualización de la letra i) establecida por el art. 6.2 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "i) El derecho a promover la inscripción de determinados hechos y actos dirigidos a la protección de los menores, personas con capacidad modificada judicialmente, personas con discapacidad y personas mayores."
 
 j) El derecho a promover la rectificación o modificación de los asientos registrales en los casos legal o reglamentariamente previstos.
 
@@ -866,46 +844,6 @@ Si la celebración del matrimonio hubiera sido realizada ante autoridad o person
 
 11\. Si los contrayentes hubieran manifestado su propósito de contraer matrimonio en el extranjero, con arreglo a la forma establecida por la ley del lugar de celebración o en forma religiosa y se exigiera la presentación de un certificado de capacidad matrimonial, lo expedirá el letrado o letrada de la Administración de Justicia, notario o notaria, encargado o encargada del Registro Civil o personal funcionario consular o diplomático del lugar del domicilio de cualquiera de los contrayentes, previo expediente instruido o acta que contenga el juicio del autorizante acreditativo de la capacidad matrimonial de los contrayentes.
 
-> Téngase en cuenta que esta última actualización, establecida por la disposición final 18.1 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "**Artículo 58. Procedimiento de autorización matrimonial.**
-
-> 1\. El matrimonio en forma civil se celebrará ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, Secretario judicial, Notario, o funcionario diplomático o consular Encargado del Registro Civil.
-
-> 2\. La celebración del matrimonio requerirá la previa tramitación o instrucción de un acta o expediente a instancia de los contrayentes para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa, o cualquier otro obstáculo, de acuerdo con lo previsto en el Código Civil. La tramitación del acta competerá al Notario del lugar del domicilio de cualquiera de los contrayentes. La instrucción del expediente corresponderá al Secretario judicial o Encargado del Registro Civil del domicilio de uno de los contrayentes.
-
-> 3\. El procedimiento finalizará con una resolución en la que se autorice o deniegue la celebración del matrimonio. La denegación deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento en el que se funda la denegación.
-
-> 4\. Contra esta resolución cabe recurso ante el Encargado del Registro Civil, cuya resolución se someterá al régimen de recursos ante la Dirección General de los Registros y del Notariado previsto por esta Ley.
-
-> 5\. El Letrado de la Administración de Justicia, Notario o Encargado del Registro Civil oirá a ambos contrayentes reservadamente y por separado para cerciorarse de su capacidad y de la inexistencia de cualquier impedimento. Asimismo, se podrán solicitar los informes y practicar las diligencias pertinentes, sean o no propuestas por los requirentes, para acreditar el estado, capacidad o domicilio de los contrayentes o cualesquiera otros extremos necesarios para apreciar la validez de su consentimiento y la veracidad del matrimonio.
-
-> El Letrado de la Administración de Justicia, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente, cuando sea necesario, podrá recabar de las Administraciones o entidades de iniciativa social de promoción y protección de los derechos de las personas con discapacidad, la provisión de apoyos humanos, técnicos y materiales que faciliten la emisión, interpretación y recepción del consentimiento del o los contrayentes. Solo en el caso excepcional de que alguno de los contrayentes presentare una condición de salud que, de modo evidente, categórico y sustancial, pueda impedirle prestar el consentimiento matrimonial pese a las medidas de apoyo, se recabará dictamen médico sobre su aptitud para prestar el consentimiento.
-
-> De la realización de todas estas actuaciones se dejará constancia en el acta o expediente, archivándose junto con los documentos previos a la inscripción de matrimonio.
-
-> Pasado un año desde la publicación de los anuncios o de las diligencias sustitutorias sin que se haya contraído el matrimonio, no podrá celebrarse este sin nueva publicación o diligencias.
-
-> 6\. Realizadas las anteriores diligencias, el Secretario judicial, Notario o Encargado del Registro Civil que haya intervenido finalizará el acta o dictará resolución haciendo constar la concurrencia o no en los contrayentes de los requisitos necesarios para contraer matrimonio, así como la determinación del régimen económico matrimonial que resulte aplicable y, en su caso, la vecindad civil de los contrayentes, entregando copia a éstos. La actuación o resolución deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento que concurra.
-
-> 7\. Si el juicio del Secretario judicial, Notario o Encargado del Registro Civil fuera desfavorable se procederá al cierre del acta o expediente y los interesados podrán recurrir ante la Dirección General de los Registros y del Notariado, sometiéndose al régimen de recursos previsto por esta Ley.
-
-> 8\. Resuelto favorablemente el expediente por el Secretario judicial, el matrimonio se podrá celebrar ante el mismo u otro Secretario judicial, Juez de Paz, Alcalde o Concejal en quien éste delegue, a elección de los contrayentes. Si se hubiere tramitado por el Encargado del Registro Civil, el matrimonio deberá celebrarse ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, que designen los contrayentes. Finalmente, si fuera el Notario quien hubiera extendido el acta matrimonial, los contrayentes podrán otorgar el consentimiento, a su elección, ante el mismo Notario u otro distinto del que hubiera tramitado el acta previa, el Juez de Paz, Alcalde o Concejal en quien éste delegue. La prestación del consentimiento deberá realizarse en la forma prevista en el Código Civil.
-
-> El matrimonio celebrado ante Juez de Paz, Alcalde o Concejal en quien este delegue o ante el Secretario judicial se hará constar en acta; el que se celebre ante Notario constará en escritura pública. En ambos casos deberá ser firmada, además de por aquel ante el que se celebra, por los contrayentes y dos testigos.
-
-> Extendida el acta o autorizada la escritura pública, se entregará a cada uno de los contrayentes copia acreditativa de la celebración del matrimonio y se remitirá por el autorizante, en el mismo día y por medios telemáticos, testimonio o copia autorizada electrónica del documento al Registro Civil para su inscripción, previa calificación del Encargado del Registro Civil.
-
-> 9\. La celebración del matrimonio fuera de España corresponderá al funcionario consular o diplomático Encargado del Registro Civil en el extranjero. Si uno o los dos contrayentes residieran en el extranjero, la tramitación del expediente previo podrá corresponder al funcionario diplomático o consular Encargado del registro civil competente en la demarcación consular donde residan. El matrimonio así tramitado podrá celebrarse ante el mismo funcionario u otro distinto, o ante el Juez de Paz, Alcalde o Concejal en quien éste delegue, a elección de los contrayentes.
-
-> 10\. Cuando el matrimonio se hubiere celebrado sin haberse tramitado el correspondiente expediente o acta previa, si éste fuera necesario, el Secretario judicial, Notario, o el funcionario Encargado del Registro Civil que lo haya celebrado, antes de realizar las actuaciones que procedan para su inscripción, deberá comprobar si concurren los requisitos legales para su validez, mediante la tramitación del acta o expediente al que se refiere este artículo.
-
-> Si la celebración del matrimonio hubiera sido realizada ante autoridad o persona competente distinta de las indicadas en el párrafo anterior, el acta de aquélla se remitirá al Encargado del Registro Civil del lugar de celebración para que proceda a la comprobación de los requisitos de validez, mediante el expediente correspondiente. Efectuada esa comprobación, el Encargado del Registro Civil procederá a su inscripción.
-
-> 12 [sic]. Si los contrayentes hubieran manifestado su propósito de contraer matrimonio en el extranjero, con arreglo a la forma establecida por la ley del lugar de celebración o en forma religiosa y se exigiera la presentación de un certificado de capacidad matrimonial, lo expedirá el Secretario judicial, Notario, Encargado del Registro Civil o funcionario consular o diplomático del lugar del domicilio de cualquiera de los contrayentes, previo expediente instruido o acta que contenga el juicio del autorizante acreditativo de la capacidad matrimonial de los contrayentes."
-
 > Se modifica, con efectos de 3 de abril de 2025, por la disposición final 18.1 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Se modifica la rúbrica y el apartado 3 por el art. único.12 de la Ley 6/2021, de 28 de abril. [Ref. BOE-A-2021-6945](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6945)
@@ -1036,8 +974,6 @@ Las circunstancias mencionadas en el segundo inciso del párrafo anterior no ser
 
 3\. Cuando el fallecimiento hubiere ocurrido con posterioridad a los seis primeros meses de gestación, antes del nacimiento, y siempre que el recién nacido hubiera fallecido antes de recibir el alta médica, después del parto, el certificado médico deberá ser firmado, al menos, por dos facultativos, quienes afirmarán, bajo su responsabilidad que, del parto y, en su caso, de las pruebas realizadas con el material genético de la madre y el hijo, no se desprenden dudas razonables sobre la relación materno filial; haciéndose constar en la inscripción, o en el archivo a que se refiere la disposición adicional cuarta en su caso, la realización de dichas pruebas y el centro sanitario que inicialmente conserve la información relacionada con las mismas, sin perjuicio del traslado de esta información a los archivos definitivos de la Administración correspondiente cuando proceda.
 
-> Téngase en cuenta que el apartado 3, añadido por el art. 2.8 de la Ley 19/2015, de 13 de julio. [Ref. BOE-A-2015-7851](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7851)., entra en vigor el 15 de octubre de 2015. El resto del artículo entrará en vigor el 30 de abril de 2021, según establece la disposición final 10 de presente ley.
-
 > Se añade el apartado 3, con efectos de 15 de octubre de 2015, por el art. 2.8 de la Ley 19/2015, de 13 de julio. [Ref. BOE-A-2015-7851](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7851).
 
 > Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 2.
@@ -1092,12 +1028,6 @@ Son inscribibles las resoluciones judiciales que afecten a la titularidad, al ej
 
 2\. También se inscribirá la extinción, privación, suspensión y recuperación de la patria potestad.
 
-> Téngase en cuenta que esta última actualización del apartado 2 establecida por el art. 6.4 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "2. También se inscribirá la extinción, privación, suspensión, prórroga y rehabilitación de la patria potestad."
-
 3\. En idénticos términos se inscribirá todo lo relativo a las figuras similares o asimilables a la patria potestad, que sean de Derecho civil propio de las Comunidades Autónomas.
 
 > Se modifica el apartado 2, con efectos desde el 3 de septiembre de 2021, por el art. 6.4 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
@@ -1116,18 +1046,6 @@ Asimismo, se inscribirá cualquier otra resolución judicial sobre las medidas d
 
 Las resoluciones a que se refiere el artículo anterior solo serán oponibles frente a terceros cuando se hayan practicado las oportunas inscripciones.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 6.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 73. Inscripción de tutela, curatela y sus modificaciones.**
-
-> 1\. Se inscribirán en el registro individual de la persona con capacidad modificada judicialmente las resoluciones judiciales en las que se nombre tutor o curador.
-
-> Asimismo, tendrán acceso al Registro Civil las medidas judiciales sobre guarda o administración y sobre vigilancia o control de dichos cargos tutelares.
-
-> 2\. Dichas resoluciones solo serán oponibles frente a terceros cuando se hayan practicado las oportunas inscripciones."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 6.6 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 74. Inscripción de determinadas representaciones legales.
@@ -1142,14 +1060,6 @@ Las resoluciones a que se refiere el artículo anterior solo serán oponibles fr
 
 Se inscribirá en el registro individual del menor en situación de desamparo la sujeción a la tutela por la entidad pública a la que, en el respectivo territorio, esté encomendada la protección de los menores por la legislación que resulte aplicable.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 6.7 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 75. Inscripción de tutela automática o administrativa.**
-
-> Se inscribirá en el registro individual del menor o de la persona con capacidad modificada judicialmente en situación de desamparo, la sujeción a la tutela por la entidad pública a la que, en el respectivo territorio, esté encomendada la protección de los menores o de las personas con capacidad modificada judicialmente en los términos previstos por la legislación que resulte aplicable."
-
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 6.7 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
 ##### Artículo 76. Inscripción de actos relativos al patrimonio protegido de las personas con discapacidad.
@@ -1159,14 +1069,6 @@ Es inscribible en el registro individual de la persona con discapacidad el docum
 ##### Artículo 77. Inscripción de medidas de apoyo voluntarias.
 
 Es inscribible en el registro individual del interesado el documento público que contenga las medidas de apoyo previstas por una persona respecto de sí misma o de sus bienes.
-
-> Téngase en cuenta que esta última actualización establecida por el art. 6.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 77. Inscripción de autotutela y apoderamientos preventivos.**
-
-> Es inscribible en el registro individual del interesado el documento público de constitución de autotutela y el apoderamiento preventivo previstos en la legislación civil."
 
 > Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 6.8 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233)
 
@@ -1244,22 +1146,6 @@ e) Las causas de privación o suspensión de la patria potestad.
 
 f) El matrimonio secreto.
 
-> Téngase en cuenta que esta última actualización del apartado 1 establecida por el art. 6.9 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. A los efectos de la presente Ley, se considerarán datos especialmente protegidos:
-
-> a) La filiación adoptiva y la desconocida.
-
-> b) Los cambios de apellido autorizados por ser víctima de violencia de género o su descendiente, así como otros cambios de identidad legalmente autorizados.
-
-> c) La rectificación del sexo.
-
-> d) Las causas de privación o suspensión de la patria potestad.
-
-> e) El matrimonio secreto."
-
 2\. Estarán sometidos al mismo régimen de protección los documentos archivados por contener los extremos citados en el apartado anterior o que estén incorporados a expedientes que tengan carácter reservado.
 
 3\. Los asientos que contengan información relativa a los datos relacionados en el apartado anterior serán efectuados del modo que reglamentariamente se determine con el fin de que, salvo el propio inscrito, solo se pueda acceder a ellos con la autorización expresada en el artículo siguiente.
@@ -1269,12 +1155,6 @@ f) El matrimonio secreto.
 ##### Artículo 84. Acceso a los asientos que contengan datos especialmente protegidos.
 
 Sólo el inscrito o sus representantes legales, quien ejerza el apoyo y que esté expresamente autorizado, el apoderado preventivo general o el curador en el caso de una persona con discapacidad podrán acceder o autorizar a terceras personas la publicidad de los asientos que contengan datos especialmente protegidos en los términos que reglamentariamente se establezcan. Las Administraciones Públicas y los funcionarios públicos podrán acceder a los datos especialmente protegidos del apartado 1.b) del artículo 83 cuando en el ejercicio de sus funciones deban verificar la existencia o el contenido de medidas de apoyo.
-
-> Téngase en cuenta que esta última actualización del párrafo primero establecida por el art. 6.10 de la Ley 8/2021, de 2 de junio. [Ref. BOE-A-2021-9233](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233), entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Sólo el inscrito o sus representantes legales podrán acceder o autorizar a terceras personas la publicidad de los asientos que contengan datos especialmente protegidos en los términos que reglamentariamente se establezcan."
 
 Si el inscrito ha fallecido, la autorización para acceder a los datos especialmente protegidos sólo podrá efectuarla el Juez de Primera Instancia del domicilio del solicitante, siempre que justifique interés legítimo y razón fundada para pedirlo.
 
@@ -1669,12 +1549,6 @@ En todo lo no previsto en relación con la tramitación administrativa de los pr
 1\. Las referencias que se encuentren en cualquier norma referidas a Jueces o Magistrados encargados del Registro Civil se entenderán hechas al Encargado del Registro Civil, de conformidad con lo previsto en esta Ley.
 
 2\. Las referencias que se encuentren en cualquier norma al juez, jueza, Alcalde, Alcaldesa o personal funcionario que haga sus veces competentes para autorizar el matrimonio civil, deben entenderse referidas al notario o notaria, encargado o encargada del Registro Civil o personal funcionario diplomático o consular encargado del Registro Civil, para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa; y al Alcalde, Alcaldesa, Concejal o Concejala en quien éste delegue, encargado o encargada del Registro Civil, notario o notaria, o personal funcionario diplomático o consular encargado del Registro Civil, para la celebración ante ellos del matrimonio en forma civil.
-
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 18.2 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "2. Las referencias que se encuentren en cualquier norma al juez, alcalde o funcionario que haga sus veces competentes para autorizar el matrimonio civil, deben entenderse referidas al notario, Encargado del Registro Civil o funcionario diplomático o consular encargado del Registro Civil, para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa; y al juez de paz, alcalde o concejal en quien éste delegue, Encargado del Registro Civil, notario, o funcionario diplomático o consular encargado del Registro Civil, para la celebración ante ellos del matrimonio en forma civil."
 
 > Se modifica el apartado 2, con efectos de 3 de abril de 2025, por la disposición final 18.2 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 

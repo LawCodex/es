@@ -1,0 +1,872 @@
+---
+title: "Real Decreto 625/1985, de 2 de abril, por el que se desarrolla la Ley 31/1984, de 2 de agosto, de Protección por Desempleo"
+identifier: "BOE-A-1985-8124"
+eli: "https://www.boe.es/eli/es/rd/1985/04/02/625"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Seguridad Social"
+date: 1985-04-02
+published: 1985-05-07
+in_force_from: 1985-05-27
+last_amended: 2024-05-22
+consolidated: 2025-12-26
+gazette: "Boletín Oficial del Estado núm. 109"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-8124"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 625/1985, de 2 de abril, por el que se desarrolla la Ley 31/1984, de 2 de agosto, de Protección por Desempleo
+
+Incluye la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+La Ley 31/1984, de 2 de agosto, de Protección por Desempleo, por la que se modifica el título II de la Ley 51/1980, de 8 de octubre, Básica de Empleo, viene a suponer una profunda revisión del sistema de protección de la contingencia de desempleo, asegurando una cobertura de la misma más acorde con la realidad social en la que ha de operar el sistema protector correspondiente. Dicha modificación hace necesario que se dicte la norma reglamentaria que venga a sustituir al Real Decreto 920/1981, de 24 de abril, cuya vigencia permite sólo parcialmente que la reforma introducida por la Ley 31/1984 entre plenamente en vigor.
+
+En este sentido, se estima conveniente que el citado desarrollo reglamentario, que se lleva a cabo por la presente disposición, se limite estrictamente a aquellos aspectos cuyo desarrollo la Ley encomendó al Gobierno, evitando la repetición innecesaria de preceptos legales, puesto que si la misma no fuera literal sólo vendría a dificultar la interpretación de la auténtica voluntad del legislador y, en definitiva, a redundar en perjuicio de los principios de legalidad y seguridad jurídica.
+
+En su virtud, habida cuenta de la autorización conferida al Gobierno por la disposición final primera de la Ley 31/1984, de 2 de agosto, a propuesta del Ministro de Trabajo y Seguridad Social, oído el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 2 de abril de 1985,
+
+D I S P O N G O :
+
+## CAPÍTULO I — Nivel contributivo
+
+### Art. 1. Acreditación de la situación legal de desempleo.
+
+La situación legal de desempleo se acreditará de la siguiente forma:
+
+Uno. Cuando se extinga la relación laboral:
+
+a) **(Derogado)**
+
+b) **(Derogado)**
+
+c) **(Derogado)**
+
+d) **(Derogado)**
+
+e) **(Derogado)**
+
+f)**(Derogado)**
+
+g) Por resolución de la autoridad laboral autorizando el traslado del trabajador y certificación del empresario de que aquél ha optado por la extinción del contrato.
+
+h) Por certificación del empresario de haber sido aceptada por los representantes legales de los trabajadores la modificación sustancial de las condiciones de trabajo prevista en las letras a), b) y c) del número 2 del artículo 41 del Estatuto de los Trabajadores y de que el trabajador afectado ha optado por la extinción del contrato. Cuando no exista acuerdo con los representantes legales de los trabajadores se acompañará resolución de la autoridad laboral.
+
+i) Por resolución judicial definitiva declarando extinguida la relación laboral por alguna de las causas previstas en el artículo 50 del Estatuto de los Trabajadores.
+
+j) Por presentación de la copia del contrato de trabajo o comunicación del cese, cuando no fuese obligatorio el contrato por escrito, en los casos de expiración del tiempo convenido o realización de la obra o servicio objeto del contrato.
+
+k) Por comunicación escrita del empresario resolviendo el contrato durante el período de prueba.
+
+l) Por comunicación del empresario extinguiendo el contrato de trabajo cuando el trabajador haya sido declarado incapaz permanente total para su profesión habitual. En caso de desaparición de la Empresa, bastará la resolución de la Entidad Gestora de la Seguridad Social reconociendo tal incapacidad.
+
+Dos. Cuando se extinga la relación administrativa, por certificación de la Administración Pública correspondiente acreditando tal extremo.
+
+Tres. **(Derogado)**
+
+Cuatro. **(Derogado)**
+
+Cinco. Cuando los trabajadores fijos discontinuos dejen de prestar servicios por haber finalizado o haberse interrumpido la actividad intermitente o de temporada de la Empresa, mediante la presentación de la copia del contrato o de cualquier otro documento que acredite el carácter de la relación laboral y comunicación escrita del empresario acreditando las causas justificativas de la citada finalización o interrupción. En el supuesto de suspensión de la actividad por causas económicas, tecnológicas o por fuerza mayor, se estará a lo previsto en el número 3.
+
+Seis. En los supuestos en los que la situación legal de desempleo se acredite por comunicación, notificación escrita o certificación del empresario, de la Administración empleadora o de la cooperativa, la causa y fecha de efectos de la situación legal de desempleo deberá figurar en el certificado de empresa considerándose documento válido para su acreditación.
+
+> Se deroga el apartado 1.a), 3 y 4 por la disposición derogatoria única.3 del Real Decreto 1483/2012, de 29 de octubre. [Ref. BOE-A-2012-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13419).
+
+> Se modifican los apartados 1.a), 3 y 4 por la disposición final 2 del Real Decreto 801/2011, de 10 de junio. [Ref. BOE-A-2011-10286](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10286).
+
+> Se añade el apartado 6 por el art. único.1 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+> Se derogan los apartados 1.b) a f) por la disposición derogatoria única.c) de la Ley 45/2002, de 12 de diciembre. [Ref. BOE-A-2002-24244](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24244)
+
+> Se derogan los apartados 1.c) a e) por la disposición derogatoria única.c) del Real Decreto-Ley 5/2002, de 24 de mayo. [Ref. BOE-A-2002-10097](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-10097)
+
+> Téngase en cuenta que el Real Decreto-Ley 5/2002, de 24 de mayo ha sido declarado inconstitucional y nulo por Sentencia del TC 68/2007 , de 28 de marzo. [Ref. BOE-T-2007-8660](https://www.boe.es/buscar/doc.php?id=BOE-T-2007-8660)
+
+> Se modifican los apartados 1.a), 3 y 4 por la disposición adicional única.1 a 3 del Real Decreto 43/1996, de 19 de enero. [Ref. BOE-A-1996-3690](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-3690)
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 2. Situaciones asimiladas al alta.
+
+1\. Se considerarán situaciones asimiladas al alta, a efectos de la prestación por desempleo, las siguientes:
+
+a) La excedencia forzosa por elección para un cargo público o sindical.
+
+b) El cumplimiento del servicio militar o la prestación social sustitutoria.
+
+c) El traslado o desplazamiento temporal por la Empresa fuera del territorio nacional.
+
+d) El retorno de los trabajadores emigrantes.
+
+e) La situación de invalidez provisional.
+
+f) La liberación por cumplimiento de condena o libertad condicional.
+
+2\. Asimismo se considerará situación asimilada al alta la de los trabajadores fijos discontinuos que no sean llamados al reiniciarse la actividad correspondiente.
+
+> Redactado el apartado 1 f) conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 3. Duración de la prestación.
+
+1\. La duración de la prestación por desempleo estará en función de los períodos de ocupación cotizada en los cuatro años anteriores a la situación legal de desempleo, o al momento en que cesó la obligación de cotizar, con arreglo a la siguiente escala:
+
+| Períodos de cotización | Períodos<br> de prestación<br> –<br> Días |
+|---|---|
+| Desde 180 hasta 359 días | 90 |
+| Desde 360 hasta 539 días | 180 |
+| Desde 540 hasta 719 días | 270 |
+| Desde 720 hasta 899 días | 360 |
+| Desde 900 hasta 1.079 días | 450 |
+| Desde 1.080 hasta 1.259 días | 540 |
+| Desde 1.260 hasta 1.439 días | 630 |
+| 1.440 días | 720 |
+
+En el caso de desempleo parcial, el número de días de prestación será el señalado en la escala anterior en función del período de ocupación cotizada, independientemente de la reducción de la jornada.
+
+2\. Cuando al trabajador se le reconozca una prestación de desempleo y opte, de acuerdo con lo establecido en el número 4 del artículo 8.º de la Ley 31/1984, por la prestación anterior, las cotizaciones que generaron aquella prestación por la que no hubiera optado no podrán computarse para el reconocimiento de un derecho posterior.
+
+3\. A efectos de determinación del período de ocupación cotizada a que se refiere el número 1, se computarán las cotizaciones efectuadas desde el nacimiento del último derecho, incluyéndose las que deban realizarse por salarios dejados de percibir como consecuencia de despido nulo y por salarios de tramitación, excluyéndose, en todo caso, las cotizaciones por pagas extraordinarias. Para determinar el período mínimo de cotización de ciento ochenta días, se asimilarán a cotizaciones efectivamente realizadas el tiempo de cierre patronal o de huelga legales.
+
+4\. Cuando las cotizaciones acreditadas correspondan a trabajos a tiempo parcial realizados al amparo del artículo 12 del texto refundido de la Ley del Estatuto de los Trabajadores, se computará el período durante el que el trabajador haya permanecido en alta con independencia de que se hayan trabajado todos los días laborables o solo parte de los mismos, y ello, cualquiera que haya sido la duración de la jornada.
+
+Se excluyen de dicho cómputo los períodos de inactividad productiva a los que se refiere el artículo 267.1.d) del texto refundido de la Ley General de la Seguridad Social.
+
+5\. El período de cuatro años a que se refiere el punto 1 de este artículo se retrotraerá por el tiempo equivalente al que el trabajador hubiera permanecido en alguna de las situaciones asimiladas al alta señaladas en el número 1 del artículo 2, excepto en el caso de los emigrantes retornados y de los penados liberados cuando acrediten, respectivamente, cotizaciones en el extranjero computables en virtud de convenio legalmente suscrito o por trabajos realizados en prisión que impliquen cotización a la Seguridad Social.
+
+> Se modifica el apartado 4 por el art. único del Real Decreto 950/2018, de 27 de julio. [Ref. BOE-A-2018-10652](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10652)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 4. Cuantía de la prestación.
+
+1\. La base reguladora de la prestación por desempleo se calculará dividiendo por 180 la suma de las cotizaciones por la contingencia de desempleo correspondientes a los últimos 180 días cotizados precedentes al día en que se haya producido la situación legal de desempleo o al del que cesó la obligación de cotizar. Para el cálculo de la base reguladora no se computarán las cotizaciones correspondientes al tiempo de abono de la prestación que efectúe la entidad gestora o, en su caso, la empresa, ni la retribución por horas extraordinarias.
+
+Cuando exista descubierto de cotización durante alguno de los días computables a efectos de determinar la base reguladora, ésta se completará estimando la que hubiera correspondido de haberse cotizado.
+
+2\. La cuantía de la prestación se determinará aplicando a la base reguladora los siguientes porcentajes: el 70 por ciento durante los ciento ochenta primeros días y el 60 por ciento a partir del día 181.
+
+3\. A efectos de calcular las cuantías máxima y mínima de la prestación por desempleo de nivel contributivo, se entenderá que se tienen hijos a cargo, cuando éstos sean menores de veintiséis años o mayores con una incapacidad en grado igual o superior al treinta y tres por ciento, carezcan de rentas de cualquier naturaleza iguales o superiores al salario mínimo interprofesional excluida la parte proporcional de las pagas extraordinarias, y convivan con el beneficiario.
+
+La carencia de rentas se presumirá en el caso de no realización de trabajo por cuenta propia, o por cuenta ajena cuya retribución sea igual o superior a la cuantía indicada en el párrafo anterior, sin perjuicio de que en dichos supuestos la entidad gestora pueda solicitar la acreditación de inexistencia de otras fuentes de ingresos.
+
+No será necesaria la convivencia cuando el beneficiario declare que tiene obligación de alimentos en virtud de convenio o resolución judicial o que sostiene económicamente al hijo, y cuando lo requiera la entidad gestora el beneficiario deberá aportar la documentación acreditativa que corresponda.
+
+Durante la percepción de la prestación por desempleo, la cuantía máxima o mínima de la misma se adaptará al incremento o disminución de los hijos a cargo.
+
+4\. **(Derogado)**
+
+> Se deroga el apartado 4 por la disposición derogatoria única.2.f) de la Ley 28/2011, de 22 de septiembre. [Ref. BOE-A-2011-15038](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15038).
+
+> Se modifica por el art. único.2 del Real Decreto 200/2006 de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 5. Nacimiento del derecho.
+
+1\. El derecho a la prestación por desempleo nacerá el día siguiente al de la situación legal de desempleo, siempre que se solicite en el plazo de quince días, a contar desde la misma.
+
+2\. En los casos de despido procedente, el derecho nacerá el día siguiente al de finalización del período de espera de tres meses, contados desde la fecha de la sentencia judicial, siempre que el trabajador se haya inscrito como demandante de empleo en el plazo de quince días, contados a partir de la notificación de la sentencia, y la solicitud se formule en los quince días siguientes a la fecha de finalización del período de espera.
+
+3\. La duración de la prestación se reducirá en tantos días como medien entre la fecha en que hubiera tenido lugar el nacimiento del derecho de haberse efectuado la inscripción y la solicitud en tiempo y forma y aquellas en que efectivamente se hubieran realizado, salvo casos de fuerza mayor.
+
+### Art. 6. Suspensión y extinción del derecho.
+
+1\. La suspensión de la prestación en los casos previstos en el artículo 10 de la Ley 31/1984 implicará la interrupción de la obligación de cotizar, además de la del abono de la prestación.
+
+2\. La colocación que se ofrezca al trabajador, a efectos de lo previsto en el número 3 del artículo 10 de la citada Ley, se entenderá adecuada cuando, cumpliendo lo establecido en el mismo, no implique un salario inferior al fijado por la normativa sectorial para la respectiva actividad.
+
+3\. El derecho a la prestación o al subsidio por desempleo quedará suspendido en los supuestos de traslado de residencia al extranjero en los que el beneficiario declare que es para la búsqueda o realización de trabajo, perfeccionamiento profesional, o cooperación internacional, por un período continuado inferior a doce meses, sin perjuicio de la aplicación de lo previsto sobre la exportación de las prestaciones en los Convenios o Normas comunitarias. En otro caso, el traslado de residencia al extranjero incumpliendo alguno de los requisitos anteriores supondrá la extinción del derecho.
+
+No tendrá consideración de traslado de residencia la salida al extranjero por tiempo no superior a 15 días naturales por una sola vez cada año, sin perjuicio del cumplimiento de las obligaciones establecidas en el artículo 231.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+4\. En los supuestos previstos en las letras a) y b) del número 1 del artícuo 10 y en las letras b) y c) del artículo 11 de la Ley 31/1984, el Instituto Nacional de Empleo, antes de suspender o extinguir la prestación, dará audiencia al interesado para que en el plazo de diez días formule por escrito las alegaciones que convengan a su derecho. Transcurrido dicho plazo, se dictará resolución.
+
+5\. Al trabajador fijo de carácter discontinuo que sea llamado para reiniciar su actividad se le suspenderá o extinguirá el derecho a la prestación según que la duración del trabajo sea inferior o igual o superior, respectivamente, a seis meses. La falta injustificada de presentación del trabajador cuando sea llamado al reinicio de la actividad será causa de extinción de la prestación por desempleo.
+
+El empresario deberá remitir a la correspondiente Oficina de Empleo relación nominal de los trabajadores fijos discontinuos que sean llamados al trabajo, con indicación de las fechas de reincorporación.
+
+> Se modifica el apartado 3 por el art. único.3 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+### Art. 6 bis. Consideración del trabajo a efectos de la suspensión y extinción del derecho.
+
+1\. A efectos de la suspensión o de la extinción del derecho establecida en el artículo 212.1.d) y en el artículo 213.1.d) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, respectivamente, se considerará trabajo toda actividad que genere o pueda generar retribución o ingresos económicos, por cuenta ajena o propia, que sea incompatible con la prestación o con el subsidio por desempleo.
+
+2\. Cuando no sea posible determinar el número de días a los que se extiende la actividad desarrollada por cuenta propia sin obligación de alta y baja en el régimen correspondiente de la Seguridad Social, se estará a los declarados y acreditados documentalmente por el trabajador, salvo que el número de días no pueda ser acreditado en cuyo caso se estará al que resulte de dividir las percepciones íntegras derivadas de la actividad entre el importe de la base máxima de cotización al Régimen Especial de Trabajadores Autónomos.
+
+3\. En los casos a los que se refiere el apartado anterior, se considerará que el trabajador ha cumplido con la obligación de solicitar la baja, establecida en el artículo 231.1.e) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, cuando la comunicación se produzca en los 15 días siguientes a la percepción de los ingresos obtenidos con la actividad, procediéndose a regularizar la prestación desde la fecha de inicio de la actividad, o, si no puede acreditar esa fecha de inicio, desde la fecha de percepción de los ingresos.
+
+> Se añade por el art. único.4 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+## CAPÍTULO II — Nivel asistencial
+
+### Art. 7. Requisitos de acceso al subsidio.
+
+1\. Para determinar el requisito de carencia de rentas, o, en su caso de responsabilidades familiares, a que se refiere el artículo 215 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, se aplicarán las reglas siguientes:
+
+a) Las rentas se computarán por su rendimiento íntegro o bruto. El rendimiento que procede de actividades empresariales, profesionales, agrícolas, ganaderas o artísticas, se computarán por la diferencia entre los ingresos y los gastos necesarios para su obtención. Las ganancias patrimoniales se computarán por la diferencia entre las ganancias y las pérdidas patrimoniales.
+
+b) Las rentas se imputarán a su titular cualquiera que sea el régimen económico matrimonial aplicable, pero las rentas derivadas de la explotación de un bien de uno de los cónyuges, si el régimen económico matrimonial es el de gananciales, se imputarán por mitad a cada cónyuge.
+
+c) Para establecer la cuantía mensual de las rentas:
+
+1.º Si las rentas se perciben con periodicidad mensual, se computarán las que corresponden al mes completo anterior al del hecho causante del subsidio, siempre que se mantengan en el mes correspondiente al hecho causante, o al de su solicitud, o durante la percepción de aquél.
+
+Si las rentas se perciben con periodicidad superior a la mensual, se computarán a prorrata mensual sobre el período al que correspondan.
+
+2.º Si las rentas se obtienen en un pago único, se computarán las obtenidas en el mes anterior al hecho causante del subsidio, o al de su solicitud, computados de fecha a fecha, o durante su percepción, prorrateando su importe entre 12 meses.
+
+En el mes o meses siguientes a la fecha de obtención de esas rentas se computará, o bien su rendimiento mensual efectivo, conforme a lo establecido en el número 1.º o, en otro caso, su ren-dimiento mensual presunto conforme a lo establecido en el número 3.º
+
+Lo previsto en este apartado se aplicará: a las indemnizaciones por extinción del contrato abonadas en un pago único por el importe que supere la indemnización legal, a los rendimientos derivados de la enajenación de valores mobiliarios o de bienes inmuebles, salvo que se trate de la vivienda habitual, al rescate de planes de pensiones y al resto de ganancias patrimoniales o rendimientos irregulares.
+
+3.º Si se dispone de bienes de patrimonio, fondos de inversión mobiliaria o inmobiliaria, fondos o planes de jubilación, o cualquier otra modalidad de inversión de capital, excepto la vivienda habitual y los planes de pensiones, que tenga diferida su sujeción al impuesto de la renta de las personas físicas, siempre que no se haya computado su rendimiento mensual efectivo se computará el rendimiento mensual presunto que resulte de aplicar el 50 por ciento del tipo de interés legal del dinero vigente sobre el valor del bien, fondo o plan, prorrateado entre 12 meses.
+
+2\. No tendrá derecho al subsidio quien se encuentre en la situación prevista en el artículo 215.1.1.a) y b) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislati-vo 1/1994, de 20 de junio, cuando se le hubiera extinguido la prestación de desempleo por imposición de sanción.
+
+Si durante la percepción de la prestación se le hubiere suspendido el derecho en el supuesto previsto en el artículo 212.1.a) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y el período de suspensión excediera del que resta para agotar la prestación, no podrá solicitar el subsidio hasta transcurrido un mes a partir de que se cumpla totalmente el período de suspensión.
+
+3\. **(Derogado)**.
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 5/2013, de 15 de marzo. [Ref. BOE-A-2013-2874](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2874).
+
+> Se modifica por el art. único.5 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+> Se declara la nulidad del apartado 3 por Sentencia del TC 78/1990, de 26 de abril. [Ref. BOE-T-1990-12129](https://www.boe.es/buscar/doc.php?id=BOE-T-1990-12129)
+
+### Art. 8. Duración y cuantía del subsidio.
+
+1\. A efectos de cómputo de los períodos de duración del subsidio y, en su caso, de cotización, los meses se considerarán integrados por treinta días naturales.
+
+2\. Las prórrogas del subsidio por desempleo se producirán siempre que concurran las mismas circunstancias que motivaron la concesión inicial.
+
+3\. La duración del subsidio, en el caso de trabajadores fijos discontinuos con responsabilidades familiares, que hayan agotado la prestación contributiva, será equivalente al número de meses cotizados en el año inmediatamente anterior al momento de solicitar el subsidio. En este supuesto, no será de aplicación la disminución prevista en la duración del subsidio en la letra c) del número 3 del artículo decimocuarto de la Ley 31/1984.
+
+4\. La cuantía del subsidio será del 75 por 100 del salario mínimo interprofesional vigente en cada momento que corresponda al trabajador, excluida la parte proporcional de las pagas extraordinarias.
+
+### Art. 9. Nacimiento del derecho.
+
+1\. El plazo de espera de un mes para tener derecho al subsidio, se contará desde el día siguiente al del agotamiento de la prestación por desempleo o de la inscripción, en su caso, como demandante de empleo.
+
+2\. En el supuesto de despido procedente, el período de espera necesario para la solicitud del subsidio será de tres meses a partir de la sentencia.
+
+3\. La falta de inscripción o de solicitud en los plazos correspondientes supondrá la reducción de la duración del subsidio en tantos días como medien entre la fecha en que hubiera tenido lugar el nacimiento del derecho de haberse efectuado la inscripción y la solicitud en tiempo y forma y aquella en que efectivamente se hubieran realizado.
+
+### Art. 10. Prórrogas de la duración del subsidio y declaraciones de rentas de los beneficiarios del subsidio para mayores de 52 años.
+
+1\. El solicitante de la prórroga de la duración del subsidio deberá indicar en la solicitud que, o bien concurren las mismas circunstancias que motivaron el acceso inicial al derecho o a la anterior prórroga de su duración, o bien que esas circunstancias han variado y sólo en este segundo caso deberá hacer nueva declaración de las rentas y, en su caso, de las responsabilidades familiares y, en todo caso, cuando lo requiera la entidad gestora, se deberá aportar la documentación acreditativa que corresponda.
+
+2\. El beneficiario del subsidio previsto en el artículo 215.1.3 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, para los mayores de 52 años, deberá indicar en la declaración de sus rentas a que se refiere el artículo 219.5 de dicha ley, o bien que sus rentas son las mismas que en la declaración anterior, o bien que han variado y sólo en este segundo caso deberá hacer nueva declaración de sus rentas y, en todo caso, cuando lo requiera la entidad gestora, se deberá aportar la documentación acreditativa que corresponda.
+
+3\. La entidad gestora establecerá un procedimiento específico que permita que las solicitudes de prórrogas y las declaraciones de rentas se puedan presentar dirigiéndolas a dicha entidad gestora por correo, o por medios electrónicos, informáticos o telemáticos.
+
+> Se modifica por el art. único.6 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+> El apartado 3 entra en vigor el 3 de septiembre de 2006, según establece la disposición final 2.
+
+## CAPÍTULO III — Normas específicas para determinados grupos de trabajadores
+
+### Art. 11. Derecho a la prestación y subsidio por desempleo de los emigrantes retornados.
+
+1\. Para acreditar la situación legal de desempleo, los emigrantes retornados deberán aportar certificación del Instituto Español de Emigración en la que conste la fecha del retorno, el tiempo trabajado en el país extranjero, el período de ocupación cotizada, en su caso, así como que no tienen derecho a prestaciones por desempleo en dicho país.
+
+2\. La duración de la prestación por desempleo se determinará en función de los períodos de ocupación cotizada correspondientes a los cuatro años anteriores a la salida de España del trabajador, en caso de no haber cotizado por la contingencia de desempleo desde aquel momento, o a contar desde la extinción de la relación laboral en el extranjero, si existieren cotizaciones computables en virtud de convenio legalmente suscrito.
+
+3\. La solicitud de la prestación por desempleo del nivel contributivo deberá formularse en el plazo de los quince días siguientes a la fecha de retorno. El plazo de subsanación de deficiencias o aportación de documentación a que se refiere el número 1 del artículo 25 de este Real Decreto será de cuarenta y cinco días.
+
+4\. A los efectos de causar derecho al subsidio por desempleo por la situación protegida en la letra b) del número 1 del artículo 13 de la Ley 31/1984, se considerarán trabajadores retornados los que hubieran trabajado como mínimo seis meses en el extranjero desde su última salida de España.
+
+### Art. 12. Derecho a la prestación y subsidio por desempleo de los liberados de prisión.
+
+1\. Los trabajadores liberados de prisión por cumplimiento de condena o libertad condicional deberán acreditar la situación legal de desempleo mediante certificación del Director del Establecimiento Penitenciario, en la que consten las fechas de ingreso en prisión y excarcelación, así como el período de ocupación cotizada, en su caso, durante la permanencia en la situación de privación de libertad.
+
+2\. La duración de la prestación por desempleo se determinará en función de los períodos de ocupación cotizada correspondientes a los cuatro años inmediatamente anteriores a la situación legal de desempleo. Cuando no hubiesen realizado actividades que impliquen cotizaciones a la Seguridad Social o cuando dicha actividad fuese inferior a cuatro años se tendrán en cuenta las cotizaciones efectuadas en los cuatro años anteriores al ingreso en prisión hasta completar el período a que se refiere el número 1 del artículo 8.º de la Ley 31/1984.
+
+3\. La solicitud de la prestación por desempleo de nivel contributivo deberá formularse en el plazo de los quince días siguientes a la excarcelación.
+
+4\. Los trabajadores liberados de prisión por libertad condicional o cumplimiento de condena superior a seis meses que no tengan derecho a la prestación por desempleo de nivel contributivo, podrán solicitar el subsidio de desempleo a que se refiere la letra d) del número 1 del artículo 13 de la Ley 31/1984.
+
+## CAPÍTULO IV — Normas comunes
+
+### Art. 13. Reanudación del derecho.
+
+1\. Cuando se hubiese suspendido el derecho a la prestación o subsidio por desempleo por alguna de las causas previstas en las letras c), d) y e) del número 1 del artículo 10 de la Ley 31/1984, se reanudará la prestación o el subsidio, previa solicitud del interesado, siempre que acredite que ha finalizado la causa de suspensión.
+
+2\. En los supuestos de suspensión previstos en las letras a) y b) del número 1 del citado artículo 10, el Instituto Nacional de Empleo procederá a la reanudación de oficio del derecho suspendido, si el trabajador permaneciese inscrito como demandante en la Oficina de Empleo.
+
+3\. La reanudación supondrá el derecho a percibir la prestación o subsidio por desempleo por el período que restase y con las bases y tipos que correspondiesen en el momento de la suspensión. En caso de sanción, el derecho se reanudará con el tipo que corresponda teniendo en cuenta el tiempo transcurrido desde el nacimiento del derecho.
+
+4\. La entidad gestora podrá admitir la solicitud agrupada de reanudación de las prestaciones y subsidios a los trabajadores fijos discontinuos y a los que tengan reducida su jornada ordinaria de trabajo o suspendida su relación laboral en virtud de expediente de regulación de empleo, cuando dentro del mes tengan diversos períodos de actividad o inactividad, así como a los que habitualmente trabajen para una misma empresa o en un mismo sector de actividad con sucesivos contratos temporales dentro del mes.
+
+La solicitud agrupada permite la reanudación de las prestaciones por las situaciones legales de desempleo producidas en un mes, y vendrá acompañada por un Certificado de Empresa acreditativo de los días trabajados y/o retribuidos en el mes anterior a la última situación legal de desempleo, computado de fecha a fecha, así como de que los ceses en la actividad o en los contratos temporales son causa de situación legal de desempleo.
+
+En el caso de reanudación del subsidio, la solicitud agrupada incluirá la declaración del trabajador de que, o bien concurren las mismas circunstancias que motivaron el acceso inicial al derecho o a la anterior reanudación, o bien que esas circunstancias han variado y sólo en este segundo caso deberá hacer nueva declaración de las rentas y, en su caso, de las responsabilidades familiares y, en todo caso, cuando lo requiera la entidad gestora, se deberá aportar la documentación acreditativa que corresponda.
+
+La solicitud agrupada de reanudación supone tener cumplido el requisito de la inscripción como demandante de empleo, deberá presentarse por el interesado dentro del plazo de los 15 días siguientes al de la última situación legal de desempleo y surtirá efectos para todos los períodos de inactividad cuyos ceses constituyan situación legal de desempleo y estén comprendidos en el mes anterior a la fecha de la última situación legal de desempleo.
+
+5\. La entidad gestora también podrá admitir para los trabajadores fijos discontinuos y los que tengan reducida su jornada ordinaria de trabajo o suspendida su relación laboral en virtud de lo establecido en el artículo 47 del Estatuto de los Trabajadores, cuando dentro del mes tengan diversos períodos de actividad e inactividad, así como para los que habitualmente trabajen para una misma empresa con sucesivos contratos temporales dentro del mes, que la solicitud inicial, formulada en el plazo de los 15 días siguientes a la situación legal de desempleo, surta efectos de solicitud de reanudación por los períodos de inactividad, en cuyo caso, la empresa deberá comunicar a la entidad gestora cada mes la información indicada en el apartado anterior.
+
+> Se modifica el apartado 5 por la disposición final 2.2 del Real Decreto 1483/2012, de 29 de octubre. [Ref. BOE-A-2012-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13419).
+
+> Se añaden los apartados 4 y 5 por el art. único.7 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+### Art. 14. Reconocimiento de un nuevo derecho.
+
+Cuando se haya extinguido el derecho a la prestación o subsidio por desempleo, el trabajador podrá obtener de nuevo el reconocimiento del derecho si vuelve a encontrarse en situación legal de desempleo y reúne los requisitos exigidos al respecto.
+
+### Art. 15. Compatibilidades e incompatibilidades.
+
+1\. La compatibilidad e incompatibilidad de la prestación y el subsidio por desempleo se establece en los siguientes casos:
+
+a) La prestación y el subsidio por desempleo serán compatibles:
+
+1.º Con el trabajo retribuido por cuenta ajena a tiempo parcial.
+
+2.º Con la indemnización que proceda por extinción del contrato de trabajo.
+
+3.º Con la pensión de jubilación parcial, conforme a lo previsto en el artículo 14.1.b) del Real Decreto 1131/2002, de 31 de octubre, por el que se regula la Seguridad Social de los trabajadores contratados a tiempo parcial, así como la jubilación parcial y con las pensiones o las prestaciones de carácter económico de la Seguridad Social que hubieran sido compatibles con el trabajo que originó la prestación o el subsidio por desempleo.
+
+4.º Con las becas y ayudas que se obtengan por asistencia a acciones de formación ocupacional o para realizar prácticas en entidades públicas o privadas que formen parte del plan de estudios y se produzcan en el marco de colaboración entre dichas entidades y el centro docente de que se trate.
+
+5.º Con la realización de trabajos de colaboración social.
+
+6.º Con las prestaciones de la Seguridad Social por hijo a cargo.
+
+7.º Con el ejercicio por elección o designación de cargos públicos o sindicales retribuidos que supongan dedicación parcial.
+
+b) La prestación y el subsidio por desempleo serán incompatibles:
+
+1.º Con el trabajo retribuido por cuenta ajena a tiempo completo, en régimen laboral o administrativo, o con situaciones asimiladas, que supongan la inclusión en cualquier régimen del sistema de la Seguridad Social aunque no esté previsto cotizar por la contingencia de desempleo, salvo cuando esté establecida la compatibilidad en algún programa de fomento de empleo.
+
+2.º Con el trabajo por cuenta propia, con independencia del número de horas que se dediquen a la actividad y de los resultados económicos obtenidos, aunque su realización no implique la inclusión obligatoria en alguno de los regímenes de Seguridad Social.
+
+3.º Con actividades de investigación o cooperación retribuidas, que supongan dedicación exclusiva.
+
+4.º Con el ejercicio por elección o designación de cargos públicos o sindicales o altos cargos de la Administración, retribuidos, que supongan dedicación exclusiva.
+
+5.º Con las pensiones o prestaciones de carácter económico de la Seguridad Social, tanto de nivel contributivo como no contributivo, salvo que estén incluidas en los números 3.º y 6.º del apartado a).
+
+6.º Con la activación de la reserva retribuida, a la que se refiere el Real Decreto 1691/2003, de 12 de diciembre, por el que se aprueba el Reglamento de acceso y régimen de los reservistas voluntarios.
+
+7.º Con cualquier otra situación que implique el derecho a percepciones económicas de carácter público como sustitutivas de las retribuciones dejadas de percibir por el cese en la actividad, manteniéndose un vínculo administrativo o laboral.
+
+c) La compatibilidad a la que se refieren los números 1.º, 2.º, 3.º, 4.º y 7.º del apartado a), se entenderá sin perjuicio de su cómputo como renta a efectos del subsidio por desempleo en los términos indicados en el artículo 215.3.2 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+d) La compatibilidad a la que se refieren los números 1.º y 7.º del apartado a) se entenderá sin perjuicio del descuento a que se refiere el artículo 221.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y los apartados siguientes de este artículo.
+
+e) La incompatibilidad con el trabajo a que se refiere el número 1.º del apartado b), se entenderá referida tanto al trabajo efectivo como a los períodos de vacaciones y de descanso retribuido.
+
+2\. Cuando un trabajador esté percibiendo prestación o subsidio por desempleo como consecuencia de la pérdida de un trabajo a tiempo completo o parcial y obtenga una colocación a tiempo parcial, se le deducirá del importe de la prestación o subsidio la parte proporcional al tiempo trabajado.
+
+3\. Cuando un trabajador realice un trabajo a tiempo completo y otro a tiempo parcial, si pierde el trabajo a tiempo parcial, no podrá percibir prestación o subsidio por desempleo; si pierde el trabajo a tiempo completo percibirá prestación o subsidio por desempleo, deduciéndose de la cuantía correspondiente la parte proporcional al tiempo trabajado.
+
+4\. Cuando el trabajador realice dos trabajos a tiempo parcial y pierda uno de ellos, tendrá derecho a percibir la prestación o subsidio por desempleo que le corresponda, sin deducción alguna. La obtención de un nuevo trabajo a tiempo parcial será incompatible con la prestación o subsidio que se le hubiera reconocido.
+
+5\. En el caso de compatibilidad de la prestación o subsidio por desempleo y trabajo a tiempo parcial, la reducción de la cuantía de dicha prestación o subsidio no alterará su duración computada en días naturales.
+
+> Se prorroga hasta el 30 de septiembre el periodo en el que no será de aplicación lo señalado en el presente artículo a los trabajadores contratados al amparo del Real Decreto-ley 13/2020, de 7 de abril, según establece el art. 1 del Real Decreto-ley 19/2020, de 26 de mayo. [Ref. BOE-A-2020-5315](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5315)
+
+> Téngase en cuenta que, en el período comprendido desde el 9 de abril hasta el 30 de junio de 2020, no será de aplicación lo señalado en el presente artículo a los trabajadores contratados al amparo de lo señalado en el Real Decreto-ley 13/2020, de 7 de abril, según establece su disposición adicional 2. [Ref. BOE-A-2020-4332](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4332)
+
+> Se modifica el apartado 1 por el art. único.8 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+### Art. 16. Invalidez y desempleo.
+
+1\. Cuando el trabajador esté percibiendo la prestación o subsidio por desempleo y pase a ser pensionista de invalidez, podrá optar entre seguir percibiendo aquéllos hasta su agotamiento o la pensión que le corresponda por invalidez.
+
+2\. Cuando el trabajador pierda su trabajo como consecuencia de haber sido declarado inválido permanente total, podrá optar, si reúne los requisitos para causar prestación por desempleo, entre percibir la prestación por desempleo que le corresponda hasta su agotamiento o la pensión de invalidez.
+
+3\. Se entenderá que el trabajador ha optado por la pensión de invalidez cuando la haya sustituido por una indemnización a tanto alzado.
+
+4\. Cuando un inválido permanente total pierda o se le suspenda un trabajo compatible con su situación de pensionista por invalidez, tendrá derecho a percibir la prestación o subsidio por desempleo que le corresponda además de la pensión de invalidez.
+
+### Art. 17. Desempleo e incapacidad laboral transitoria.
+
+1\. Cuando el trabajador esté percibiendo prestación por desempleo total o parcial y pase a la situación de incapacidad laboral transitoria, la prestación por esta última contingencia será reconocida por la Entidad gestora correspondiente y abonada por delegación, en la cuantía que corresponda, por el Instituto Nacional de Empleo.
+
+2\. El período de percepción de la prestación por desempleo total o parcial no se ampliará por la circunstancia de que el trabajador pase a la situación de incapacidad laboral transitoria.
+
+3\. Cuando finalice la duración de la prestación por desempleo encontrándose el trabajador en situación de incapacidad laboral transitoria y tenga derecho al subsidio por desempleo, el plazo de espera de un mes para el nacimiento del derecho se contará a partir del día siguiente al de la extinción de la prestación de incapacidad laboral transitoria.
+
+### Art. 18. Responsabilidades familiares.
+
+1\. Se entenderá por responsabilidades familiares, a los efectos previstos en los artículos 10 y 13 de la Ley 31/1984, tener a cargo al menos al cónyuge o a un familiar por consanguinidad o afinidad hasta el segundo grado inclusive que convivan con el trabajador cuando la renta mensual del conjunto de la unidad familiar dividida por el número de miembros que la componen no supere el salario mínimo interprofesional.
+
+2\. A los mismos efectos del número anterior, habrán de concurrir las responsabilidades familiares en el momento del correspondiente hecho causante, excepto en el supuesto de hijos que nazcan dentro de los trescientos días siguientes.
+
+3\. No será necesaria la convivencia cuando exista obligación de alimentos en virtud de convenio o resolución judicial. En caso de cónyuge e hijos, se presumirá la convivencia, salvo prueba en contrario, cuando éstos tengan reconocida la condición de beneficiarios de asistencia sanitaria de la Seguridad Social.
+
+4\. Cuando las cargas familiares hayan sido tenidas en cuenta para reconocer el subsidio a uno de los miembros de la unidad familiar, no podrá ser alegada dicha circunstancia para el reconocimiento del derecho a otro miembro de la misma.
+
+### Art. 19. Cotización.
+
+1\. Estarán obligados a cotizar por desempleo todas las Empresas y trabajadores incluidos en el Régimen General y los Regímenes especiales de la Seguridad Social que protegen dicha contingencia. La base de cotización por desempleo será la misma que la prevista para accidentes de trabajo y enfermedades profesionales.
+
+2\. Durante la percepción de la prestación por desempleo, la base por la que deberá cotizarse a la Seguridad Social en los casos de desempleo parcial o trabajo a tiempo parcial se reducirá en proporción a la disminución de la jornada o de la cuantía de la prestación, respectivamente.
+
+3\. En los supuestos de suspensión temporal o reducción de la jornada, a efectos de la cotización por accidente de trabajo y enfermedad profesional, se aplicarán los porcentajes del epígrafe correspondiente a los trabajadores en período de baja, cualquiera que fuese la categoría profesional y la actividad del trabajador.
+
+4\. Las cotizaciones a la Seguridad Social en el supuesto de que el beneficiario de prestaciones por desempleo, total o parcial, pase a la situación de incapacidad laboral transitoria se efectuarán, en la proporción correspondiente, por quienes las abonasen durante la situación de desempleo. En el caso de que la prestación de incapacidad laboral transitoria sustituya a la de desempleo total por extinción de la relación laboral, la cotización a la Seguridad Social se efectuará según lo previsto en el número 3 del artículo 12 de la Ley 31/1984.
+
+5\. Cuando el trabajador sea beneficiario del subsidio por desempleo o de la prestación de asistencia sanitaria, las cotizaciones a la Seguridad Social que el Instituto Nacional de Empleo tenga que efectuar, se determinarán aplicando a la cuota que corresponda al tope mínimo de cotización vigente en cada momento, los coeficientes que, por las correspondientes contingencias, establezca el Ministerio de Trabajo y Seguridad Social.
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 20. Impugnación de actos administrativos.
+
+Las resoluciones del Instituto Nacional de Empleo reconociendo, denegando, suspendiendo o extinguiendo la prestación o subsidio por desempleo serán recurribles ante el orden jurisdiccional social, previa reclamación ante dicho Instituto en la forma prevista en los artículos 58 y siguientes del Real Decreto Legislativo 1568/1980, de 13 de junio.
+
+## CAPÍTULO V — Tramitación y pago de las prestaciones por desempleo
+
+### Art. 21. Normas generales de tramitación de la prestación por desempleo.
+
+1\. Los trabajadores deberán solicitar la prestación de desempleo en la Oficina de Empleo correspondiente, en el plazo de quince días contados a partir del siguiente a aquel en que se haya producido la situación legal de desempleo.
+
+2\. Cuando la situación legal de desempleo se produzca como consecuencia de despido procedente, los trabajadores deberán solicitar la prestación en el plazo de quince días contados a partir de la finalización del período de espera.
+
+3\. Cuando la extinción del contrato se produzca por causas objetivas o por muerte, jubilación o incapacidad del empresario, el plazo de quince días se contará desde el día siguiente a la fecha de cese que conste en la comunicación escrita del empresario o, en su caso, de su representante o herederos, si no se hubiera reclamado contra la decisión extintiva, o desde la notificación de la resolución judicial en caso contrario.
+
+4\. Cuando el contrato se hubiera extinguido por las causas previstas en el artículo 40 y en las letras a), b) y c) del número 2 del artículo 41 del Estatuto de los Trabajadores, los quince días de la solicitud se contarán a partir del cese en el trabajo.
+
+5\. A la solicitud habrán de acompañar certificado de Empresa y copia del documento acreditativo de la situación legal de desempleo en los términos previstos en los artículos 1.º, 11 y 12 de este Real Decreto, salvo en caso de fuerza mayor, en el que será suficiente cualquier medio de prueba admitido en Derecho. El Instituto Nacional de Empleo podrá exigir la aportación de copia de los documentos oficiales de cotización y salarios que estime necesarios.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 22. Normas específicas de tramitación de la prestación por desempleo aplicables a los procedimientos de despido colectivo, de suspensión de contratos de trabajo y de reducción de jornada.
+
+1\. Sin perjuicio de las comunicaciones que la autoridad laboral ha de efectuar a la Entidad Gestora de las prestaciones por desempleo conforme a lo dispuesto en los artículos 51.2 del Estatuto de los Trabajadores y 267.3 del texto refundido de la Ley General de la Seguridad Social, la empresa deberá comunicar a dicha Entidad Gestora, a través de los medios electrónicos establecidos en las disposiciones de aplicación y desarrollo, y con carácter previo a su efectividad, las medidas de despido colectivo adoptadas conforme al artículo 51 del texto refundido de la Ley del Estatuto de los Trabajadores, así como las medidas de suspensión de contratos o de reducción de jornada adoptadas de acuerdo con el artículo 47 del texto refundido de la Ley del Estatuto de los Trabajadores.
+
+El contenido de dicha comunicación deberá incluir la siguiente información, que podrá ser completada de acuerdo con lo que establezcan las citadas disposiciones de desarrollo:
+
+a) El ámbito territorial de los despidos colectivos, suspensiones de contratos o reducciones de jornada.
+
+b) El nombre o razón social de la empresa, número de identificación fiscal, código de cuenta de cotización a la Seguridad Social y domicilio del centro o centros de trabajo afectados.
+
+c) La relación nominal de las personas trabajadoras afectadas y su número de identificación fiscal.
+
+d) En los supuestos de aplicación de medidas de suspensión de contratos o de reducción de jornada, la comunicación especificará el período dentro del cual se va a llevar a cabo la aplicación de la suspensión del contrato o la reducción de jornada, y dentro dicho periodo, los días concretos en que cada una de las personas trabajadoras va a quedar afectada por la medida de suspensión de contratos o reducción de jornada adoptada y, en este último caso, el horario de trabajo afectado por la reducción, así como el tipo de medida y el porcentaje máximo de reducción de jornada o el número máximo de días de suspensión de contrato que se pretenda aplicar respecto de cada una de las personas trabajadoras incluidas en la relación nominal anterior. Cuando se produzcan variaciones en los datos inicialmente contenidos en la comunicación sobre la aplicación de las referidas medidas de suspensión de contratos o reducción de jornada, la empresa deberá comunicar dichas variaciones con carácter previo a que se produzcan.
+
+Asimismo, la empresa acompañará a la comunicación el acuerdo empresarial remitido a la autoridad laboral. Este documento se remitirá igualmente a través de medios electrónicos.
+
+e) El acta final del periodo de consultas remitida a la autoridad laboral.
+
+2\. En los supuestos de despido colectivo, suspensión de contratos o reducción de jornada por causa de fuerza mayor de los artículos 51.7 y 47.5 y 6 del texto refundido de la Ley del Estatuto de los Trabajadores, en la resolución de la autoridad laboral que declare constatada su existencia figurarán, entre otros, los siguientes datos:
+
+a) Nombre o razón social de la empresa, código de cuenta de cotización a la Seguridad Social y domicilio del centro o centros de trabajo.
+
+b) Relación nominal de las personas trabajadoras afectadas y su número de identificación fiscal.
+
+c) Causa y carácter de la situación legal de desempleo de las personas trabajadoras, consignando si el desempleo es total o parcial y, en el primer caso, si es temporal o definitivo. Si fuese temporal, se consignará el período dentro del cual se va a llevar a cabo la aplicación de la suspensión del contrato o la reducción de jornada, así como el tipo de medida y el porcentaje máximo de reducción de jornada o el número máximo de días de suspensión de contrato que se pretenda aplicar respecto de cada una de las personas trabajadoras incluidas en la relación nominal anterior.
+
+3\. Con independencia de lo establecido en los apartados anteriores, a efectos del pago de las prestaciones por desempleo en los supuestos de suspensión del contrato de trabajo o reducción de la jornada del artículo 47 del texto refundido de la Ley del Estatuto de los Trabajadores, la empresa deberá comunicar mensualmente a la entidad gestora de las prestaciones por desempleo los periodos de actividad e inactividad de todas las personas afectadas por la suspensión o la reducción de jornada.
+
+El plazo máximo para efectuar la comunicación será el mes natural siguiente al mes al que se refieren los periodos de inactividad.
+
+En el caso de los días trabajados en reducción de jornada, las horas trabajadas se convertirán en días completos equivalentes de actividad. Para ello se dividirá el número total de horas trabajadas en el mes entre el número de horas que constituyesen la jornada habitual de la persona trabajadora con carácter previo a la aplicación de la reducción de jornada.
+
+4\. En los supuestos de suspensión de contratos o de reducción de jornada del artículo 47 del texto refundido de la Ley del Estatuto de los Trabajadores o por resolución judicial adoptada en el seno de un procedimiento concursal, cuando el periodo de suspensión o los días de inactividad equivalente afecten exclusivamente a determinados días laborables del mes, a efectos del pago y consumo de las prestaciones por desempleo, dichos días laborables se multiplicarán por el coeficiente 1,25 a fin de computar la parte proporcional del descanso semanal, salvo que la suspensión afecte a cinco o seis días laborables consecutivos, en cuyo caso se abonarán y consumirán siete días de prestación por desempleo. El coeficiente se aplicará sobre el total de los días laborables del mes en los que no se haya prestado servicio a causa de la medida de suspensión, incluido el día 31.
+
+En ningún caso la suma de los días a percibir por el trabajador en concepto de salarios y de prestaciones por desempleo podrá superar treinta y un días al mes.
+
+Cuando el periodo de suspensión suponga la pérdida efectiva de ocupación todos los días laborables del mes, a efectos de pago y consumo de la prestación se abonarán treinta días, con independencia de los días naturales del mes.
+
+> Se modifica por la disposición final 1 del Real Decreto 608/2023, de 11 de julio. [Ref. BOE-A-2023-16158](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16158)
+
+> Se modifica por la disposición final 2.1 del Real Decreto 1483/2012, de 29 de octubre. [Ref. BOE-A-2012-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13419).
+
+> Se añade el apartado 6 por la disposición final 3 del Real Decreto 1300/2009, de 31 de julio. [Ref. BOE-A-2009-13664](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13664)
+
+### Art. 23. Normas de tramitación del subsidio por desempleo.
+
+1\. Los trabajadores que hayan agotado la prestación por desempleo presentarán la solicitud del subsidio en el plazo de los quince días siguientes a la finalización del período de espera correspondiente.
+
+2\. Los trabajadores que tengan derecho al subsidio en los supuestos de las letras b), c), d) y e) del número 1 del artículo 13 de la Ley 31/1984 deberán inscribirse como demandantes de empleo en el plazo de treinta días a contar desde el hecho causante y solicitar dicho subsidio en el plazo de los quince días siguientes a la finalización del período de espera.
+
+3\. A la solicitud habrá de acompañarse:
+
+a) Documentación acreditativa de carecer de rentas de cualquier naturaleza superiores al salario mínimo interprofesional, en todos los supuestos protegidos en el artículo 13 de la Ley 31/1984.
+
+b) Documentación acreditativa de tener responsabilidades familiares en los términos del artículo 18 de este Real Decreto en los supuestos protegidos por las letras a) y c) del número 1 del mencionado artículo 13.
+
+c) Documentación acreditativa de la situación legal de desempleo en la forma prevista en los artículos 1.º, 11 y 12 de este Real Decreto, según se trate de los supuestos contemplados en las letras c), b) y d), respectivamente, del referido número 1 del artículo 13 de la Ley 31/1984. En la situación protegida en la letra e) de dicho número y artículo habrá de acompañarse la resolución de la Entidad Gestora por la que se revisa el grado de la invalidez.
+
+4\. En los supuestos a que se refiere el número 2 del artículo 13 de la Ley 31/1984, el trabajador solicitará el subsidio por desempleo en el plazo de los quince días siguientes a la finalización del período de espera de un mes, si accediera directamente o, en su caso, desde el cumplimiento de los cincuenta y cinco años.
+
+A la solicitud habrá de acompañar necesariamente certificación de la Entidad Gestora de la pensión de jubilación, acreditativa de que reúne todos los requisitos, salvo la edad, para acceder, en su caso, a dicha pensión y la edad y la modalidad de jubilación a la que hubiere lugar.
+
+### Art. 24. Presentación de solicitudes y otra documentación.
+
+1\. Las solicitudes de las prestaciones o subsidios por desempleo, de alta inicial, reanudación o prórroga, se formularán por el solicitante en los modelos normalizados establecidos al efecto por la entidad gestora.
+
+2\. Los modelos de solicitud estarán a disposición de los trabajadores en las dependencias administrativas y a través de los medios telemáticos de la entidad gestora.
+
+3\. Las solicitudes se podrán formalizar y presentar, a elección del trabajador:
+
+a) En las dependencias administrativas citadas,
+
+b) En los registros de otras Administraciones, incluidos los de las entidades locales con las que exista convenio, o
+
+c) Dirigiendo a la entidad gestora los documentos o datos correspondientes por correo o por medios o procedimientos electrónicos, informáticos o telemáticos, de acuerdo con lo dispuesto en los artículos 38.4 y 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en sus normas de desarrollo, así como en las condiciones que establezca la entidad gestora.
+
+4\. Lo indicado sobre la presentación de las solicitudes se aplicará a las reclamaciones, alegaciones, declaraciones, o comunicaciones de baja u otras del interesado, y a los certificados de empresa.
+
+> Se modifica por el art. único.9 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+> El apartado 3.c) entra en vigor el 3 de septiembre de 2006, según establece la disposición final 2.
+
+### Art. 25. Normas de tramitación comunes a las distintas prestaciones o subsidios por desempleo.
+
+1\. Cuando la solicitud se presente sin aportar total o parcialmente la documentación a que se refieren los artículos 21 a 24 de este Real Decreto, el Instituto Nacional de Empleo requerirá al solicitante para que, en el plazo de quince días subsane la falta o presente los documentos preceptivos, con apercibimiento de que, si así no lo hiciese, se archivará la solicitud, sin perjuicio de que el interesado inste nueva solicitud posteriormente si su derecho no hubiera prescrito.
+
+2\. En los supuestos de ejercicio del derecho de opción del número 4 del artículo 8.º de la Ley 31/1984 el trabajador deberá, en el plazo de los diez días siguientes a la notificación de la resolución aprobatoria de la prestación de que se trate, pronunciarse expresamente y de forma escrita por la prestación que más convenga a su interés. En otro caso, se entenderá ejercitada la opción por la prestación reconocida y notificada.
+
+### Art. 26. Pago de las prestaciones.
+
+1\. El abono de la prestación o subsidio por desempleo se realizará por mensualidades de treinta días, dentro del mes inmediato siguiente al que corresponda el devengo. En todo caso, el derecho al percibo de cada mensualidad caducará al año de su respectivo vencimiento.
+
+2\. El pago de la prestación y subsidio por desempleo se realizará mediante el abono en la cuenta de la entidad financiera colaboradora indicada por el solicitante o perceptor, de la que sea titular, salvo en los casos, debidamente justificados, en los que la entidad gestora permita el pago en efectivo por la entidad financiera.
+
+La realización del pago no conllevará gasto ni para la entidad gestora ni para el perceptor.
+
+3\. En el supuesto de que no se disponga de algunos datos para el cálculo de la prestación por desempleo, se reconocerá ésta por la duración o cuantía mínimas, abonándose la prestación en concepto de anticipo mientras subsista esta circunstancia.
+
+4\. El pago de la prestación o subsidio por desempleo total se efectuará por el Instituto Nacional de Empleo y el de la prestación por desempleo parcial se efectuará por la Empresa por delegación del Instituto Nacional de Empleo, excepto cuando éste asuma el pago directo o así lo determine la autoridad laboral, cuando la situación económica de la Empresa lo aconseje.
+
+5\. En los casos de pago delegado, las Empresas se reintegrarán de las prestaciones que correspondan al Instituto Nacional de Empleo descontándolas del importe de las liquidaciones que han de efectuar para el ingreso de las cuotas de Seguridad Social correspondiente al mismo período.
+
+6\. En el caso de que se produzca un pago indebido al trabajador, motivado por su colocación conocida tras la elaboración de la nómina de prestaciones, y por un importe que no supere los 10 días de derecho, la entidad gestora podrá, sin más trámite, dictar resolución comprensiva de la exigencia de su reintegro, y de la compensación o descuento de su importe de la sucesiva percepción de las prestaciones o subsidios por desempleo, de no producirse dicho reintegro. La resolución será recurrible en la forma establecida en el artículo 233 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+> Se modifica el apartado 2 y se añade el apartado 6 por el art. único.10 y .11 del Real Decreto 200/2006, de 17 de febrero. [Ref. BOE-A-2006-3767](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3767)
+
+## CAPÍTULO VI — Obligaciones y sanciones de empresarios y trabajadores
+
+### Art. 27. Obligaciones de los empresarios.
+
+Los empresarios y, en su caso, las Administraciones Públicas estarán obligados a facilitar a los trabajadores, en el plazo de diez días, a contar desde el siguiente a su situación legal de desempleo, el certificado de Empresa conforme al modelo que se acompaña como anexo y, en su caso, las comunicaciones escritas y certificaciones a que se refiere el artículo 1.º de este Real Decreto.
+
+### Art. 28. Obligaciones de los trabajadores.
+
+1\. Los trabajadores están obligados a presentar en la correspondiente Oficina de Empleo, en el plazo de quince días, contados a partir del día siguiente al de la situación legal de desempleo o al del cumplimiento del período de espera, en su caso, la documentación precisa para el nacimiento o reanudación del derecho a la prestación o subsidio por desempleo.
+
+2\. Cuando se produzca una causa de suspensión o extinción del derecho a la prestación o subsidio por desempleo, el trabajador estará obligado a entregar en la correspondiente Oficina de Empleo la documentación acreditativa de dicha causa. Cuando la causa de suspensión correspondiese a la realización de trabajos incompatibles con este derecho, tal circunstancia deberá comunicarse con carácter previo al inicio de la prestación de servicios.
+
+3\. Los trabajadores están obligados a presentar la documentación acreditativa de la situación de incapacidad laboral transitoria en la correspondiente Oficina de Empleo.
+
+> Se modifica el apartado 2 por la disposición final 3 de la Ley 1/2014, de 28 de febrero. [Ref. BOE-A-2014-2219](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2219).
+
+> Se modifica el apartado 2 por la disposición final 3 del Real Decreto-ley 11/2013, de 2 de agosto. [Ref. BOE-A-2013-8556](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8556).
+
+### Art. 29. Sanciones a los empresarios.
+
+1\. Las sanciones respecto de las infracciones cometidas por los empresarios se graduarán en atención a la entidad de la infracción, malicia o falsedad del empresario, número de los trabajadores afectados, cifra de negocios de la Empresa y reincidencia.
+
+2\. Las infracciones leves, en su grado mínimo, se sancionarán con multa de 5.000 a 10.000 pesetas; en su grado medio, de 10.001 a 15.000 pesetas, y en su grado máximo, de 15.001 a 25.000 pesetas.
+
+3\. Las infracciones graves, en su grado mínimo, se sancionarán con multa de 25.001 a 35.000 pesetas; en su grado medio, de 35.001 a 50.000 pesetas, y en su grado máximo, de 50.001 a 100.000 pesetas.
+
+4\. Las infracciones muy graves, en su grado mínimo, se sancionarán con multa de 100.001 a 200.000 pesetas; en su grado medio, de 200.001 a 300.000 pesetas, y en su grado máximo, de 300.001 a 500.000 pesetas.
+
+5\. La reincidencia en la infracción, entendiéndose por tal la comisión de una análoga a la que ha motivado la sanción anterior dentro de los trescientos sesenta y cinco días naturales siguientes a la notificación de ésta, dará lugar a que se dupliquen en su cuantía las multas previstas en los preceptos sancionadores que sean de aplicación, siempre que no supere la cuantía máxima de la multa correspondiente a la infracción, en cuyo caso se aplicará esta última.
+
+6\. Se entenderá que el empresario incurre en una infracción por cada uno de los trabajadores afectados cuando sean varios.
+
+7\. Los empresarios que hayan sido sancionados por la comisión de infracciones graves o muy graves perderán automáticamente las bonificaciones u otros beneficios derivados de la aplicación de programas de empleo y quedarán excluidos del acceso a los mismos hasta que transcurran seis o doce meses desde la imposición de la sanción por infracción grave o muy grave, respectivamente.
+
+> Redactado el apartado 7 conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 1985. [Ref. BOE-A-1985-10282](https://www.boe.es/buscar/doc.php?id=BOE-A-1985-10282)
+
+### Art. 30. Sanciones a los trabajadores.
+
+Serán excluidos del derecho a percibir prestación o subsidio por desempleo, por un período de seis meses, los trabajadores que cometan la infracción prevista en la letra a) del número 3 del artículo 28 de la Ley 31/1984, y por un período de doce meses, los que cometan las señaladas en las letras b) y c) del mismo número y artículo.
+
+## CAPÍTULO VII — Responsabilidades de empresarios y trabajadores
+
+### Art. 31. Responsabilidad empresarial.
+
+El empresario será responsable del pago de la prestación por desempleo cuando los trabajadores no estuviesen en alta en la Seguridad Social al sobrevenir la situación protegida, sin perjuicio del abono que de la misma efectúe la Entidad gestora. El alta de pleno derecho no eximirá de responsabilidad al empresario.
+
+En cuanto a los efectos del descubierto absoluto o diferencias de cotización, se estará a lo dispuesto con carácter general en materia de responsabilidad empresarial respecto de las prestaciones de la Seguridad Social.
+
+### Art. 32. Procedimiento para la exigencia de responsabilidad empresarial.
+
+1\. Cuando se solicite la prestación por desempleo y se compruebe que el interesado no figura dado de alta en la Seguridad Social, el Instituto Nacional de Empleo procederá de acuerdo con las siguientes reglas:
+
+a) Pondrá el hecho en conocimiento de la Inspección de Trabajo y Seguridad Social a efectos de que informe sobre la efectiva prestación de servicios por el trabajador en la Empresa de que se trate.
+
+b) Recibido el informe de la Inspección, que deberá emitirlo en el plazo de diez días, emplazará al empresario o empresarios presuntamente responsables para que, en el mismo plazo, comparezcan en el procedimiento a efectos de alegar lo que estimen oportuno.
+
+c) Transcurrido dicho plazo, si existiera responsabilidad, se dictará resolución señalando la cuantía de la prestación y el alcance de la responsabilidad del empresario o de los empresarios, debiendo hacer efectivo el importe de la prestación en el plazo de treinta días, contados desde la notificación de la resolución. Si no se reintegrara la deuda en dicho plazo se aplicará lo establecido en el artículo 84 y siguientes del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, así como lo establecido en el artículo 39 y siguientes de dicho Reglamento cuando el deudor sea una entidad pública.
+
+> Téngase en cuenta que esta modificación de la letra c) establecida por la disposición final 4 del Real Decreto-ley 16/2014, de 19 de diciembre. [Ref. BOE-A-2014-13249](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13249). producirá efectos en la fecha de suscripción del concierto entre el Servicio Público de Empleo Estatal y la Tesorería General de la Seguridad Social que regule la colaboración en materia de recaudación en vía de apremio de las prestaciones indebidamente percibidas por los trabajadores y aquellas otras de cuyo pago sean responsables las empresas.
+
+2\. El empresario responsable podrá interponer recurso de alzada, en el plazo de quince días, ante el Director general del Instituto Nacional de Empleo, cuya resolución agotará la vía administrativa.
+
+> Se modifica la letra c) del apartado 1 por la disposición final 4.1 del Real Decreto-ley 16/2014, de 19 de diciembre. [Ref. BOE-A-2014-13249](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13249).
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 15, de 17 de enero de 2015.
+
+> Téngase en cuenta, para la producción de efectos de esta modificación, lo dispuesto en la disposición final 7.
+
+### Art. 33. Procedimiento para el reintegro de prestaciones indebidamente percibidas.
+
+1\. Cuando el trabajador perciba indebidamente prestación o subsidio por desempleo, el Servicio Público de Empleo Estatal procederá de acuerdo con las siguientes reglas:
+
+a) Acordará el inicio del procedimiento de reintegro informando al interesado de su derecho a formular alegaciones en el plazo de diez días.
+
+b) Transcurrido dicho plazo, y valoradas las alegaciones si se hubiesen formulado, dictará resolución declarando la existencia o inexistencia de percepción indebida de las prestaciones y, en su caso, la cuantía del cobro indebido.
+
+El plazo máximo para resolver el procedimiento y notificar la resolución será de seis meses.
+
+2\. El trabajador dispondrá de un plazo de treinta días, a partir de la notificación de la resolución, para reintegrar la cuantía de la prestación o subsidio indebidamente percibidos. Transcurrido dicho plazo, sin que haya sido obtenido el reintegro de la deuda, en los casos en los que no se pueda aplicar la compensación o descuento según contempla el artículo 34, o bien cuando, procediendo dicha compensación o descuento, no hubiera sido posible cancelar la deuda en su totalidad, se aplicará lo establecido en el artículo 84 y siguientes del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+3\. En los supuestos previstos en los párrafos a), c) y e) del artículo 23.1 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, el Servicio Público de Empleo Estatal, previa valoración de las circunstancias concurrentes, podrá exigir al empresario/s responsable/s el reintegro de la deuda, conforme al procedimiento regulado en los apartados anteriores.
+
+Cuando la empresa deba de responder de la devolución de las cantidades indebidamente percibidas por la persona trabajadora, en cuanto responsable solidaria o directa, de conformidad con lo dispuesto en los arts. 23.2 y 43.3 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, se seguirá el procedimiento previsto en los apartados anteriores.
+
+3.bis. En aplicación de los principios de economía y eficacia administrativa, podrá no iniciarse el procedimiento de reintegro previsto en este artículo cuando el importe de una deuda sea inferior a la cantidad que determine el Ministerio de Trabajo y Economía Social como insuficiente para la cobertura del coste que su exacción y recaudación represente, y si tal circunstancia sobreviniese con posterioridad a su inicio, se pondrá fin al procedimiento en los términos y condiciones que aquél establezca, con los efectos previstos en el artículo 116.2 del texto refundido de la Ley General de la Seguridad Social.
+
+4\. Contra la resolución de la Dirección Provincial del Servicio Público de Empleo Estatal que exija el reintegro de las cantidades indebidamente percibidas, el trabajador o el empresario, en su caso, podrán interponer, en el plazo de treinta días contados a partir del día siguiente al de la notificación, reclamación previa en los términos establecidos en el artículo 71 de la Ley reguladora de la jurisdicción social.
+
+> Se añade el apartado 3.bis por la disposición final 7.1 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
+
+> Se deja sin efecto el apartado 3 bis por Resolución de 10 de enero de 2024, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2024-664](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-664)
+
+> Se añade el apartado 3 bis por la disposición final 2.1 del Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2023-25759](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25759)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 3, de 3 de enero de 2024. [Ref. BOE-A-2024-135](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-135)
+
+> Se modifica por la disposición final 8.1 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
+
+> Se modifica el apartado 2 por la disposición final 4.2 del Real Decreto-ley 16/2014, de 19 de diciembre. [Ref. BOE-A-2014-13249](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13249)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 15, de 17 de enero de 2015. [Ref. BOE-A-2015-383](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-383)
+
+> Téngase en cuenta, para la producción de efectos de esta modificación, lo dispuesto en la disposición final 7.
+
+### Art. 33 bis. Fraccionamiento del pago de las deudas derivadas de la percepción indebida de prestaciones por desempleo.
+
+1\. La entidad gestora podrá conceder fraccionamiento para el pago de deudas de protección por desempleo, a solicitud de los sujetos responsables del pago, cuando la situación económico-financiera y demás circunstancias concurrentes, discrecionalmente apreciadas por el órgano competente para resolver, les impida efectuar el ingreso de sus débitos. Si la solicitud de fraccionamiento se presentara una vez transcurrido el plazo de treinta días, se aplicará al principal, el recargo por ingreso fuera de plazo previsto en el artículo 30 del texto refundido de la Ley General de la Seguridad Social.
+
+2\. La duración total del fraccionamiento no podrá exceder de cinco años.
+
+No obstante, cuando concurran causas de carácter extraordinario debidamente acreditadas, se podrá conceder otro período superior, dictándose la correspondiente resolución.
+
+3\. La concesión del fraccionamiento, siempre y cuando se cumplan las condiciones establecidas en este artículo y en la resolución que lo conceda, dará lugar, en relación con la deuda fraccionada, a la suspensión del procedimiento recaudatorio.
+
+4\. La concesión de fraccionamiento dará lugar al devengo de interés, que será exigible desde su concesión hasta la fecha de pago, conforme al tipo de interés de demora que se encuentre vigente en cada momento durante el período de duración del fraccionamiento.
+
+El interés que corresponda será aplicable sobre el principal de la deuda y, en su caso, sobre el correspondiente recargo.
+
+5\. La solicitud de fraccionamiento contendrá necesariamente los datos precisos para la identificación del deudor y de la deuda, con expresión de los motivos que la originan, del plazo y vencimientos que se solicitan y del lugar o medio elegido a efectos de notificaciones. Contendrá también, en su caso, el ofrecimiento de garantías por el titular de los derechos que vayan a asegurar el cumplimiento, con justificación de su suficiencia.
+
+6\. El Servicio Público de Empleo Estatal podrá recabar del solicitante cuanta documentación considere necesaria para acreditar la situación económico-financiera y demás circunstancias que hubieran sido alegadas en la solicitud y, en general, cuantos informes y actuaciones estime convenientes para adoptar la resolución.
+
+7\. Si la solicitud de fraccionamiento no reuniese los requisitos exigidos o no se aportasen con ella los documentos establecidos, o se apreciasen en ella defectos u omisiones, se requerirá al solicitante para que subsane la falta o acompañe los documentos preceptivos en el plazo de diez días, con indicación de que en caso contrario se dictará resolución teniéndole por desistido de su solicitud.
+
+8\. El cumplimiento del fraccionamiento deberá asegurarse mediante garantía suficiente para cubrir el importe principal de la deuda y recargos para deudas superiores a 150.000 euros.
+
+9\. La resolución por la que se resuelva la solicitud de fraccionamiento deberá ser dictada en el plazo máximo de tres meses, contados a partir de la fecha de entrada en el registro del órgano competente para su tramitación. Transcurrido dicho plazo sin que haya recaído resolución expresa, podrá entenderse desestimada la solicitud. En dicha resolución deberá indicarse la cuantía total y el período de la deuda aplazada, la duración y vencimientos del fraccionamiento, así como los plazos para la constitución de las garantías y cumplimiento de las demás condiciones que se establezcan, extremos que, en atención a las circunstancias concurrentes, podrán diferir de los solicitados.
+
+10\. En caso de denegación de la solicitud, la resolución dará un nuevo plazo de ingreso de quince días hábiles desde la notificación de la resolución.
+
+11\. Dará lugar a la denegación de la solicitud de fraccionamiento la concurrencia de alguna de las siguientes circunstancias:
+
+a) Que el solicitante haya incurrido en reiterados incumplimientos de fraccionamiento anteriormente concedidos.
+
+b) Que, al momento de la solicitud, hubiera sido expedida la providencia de apremio.
+
+12\. En caso de incumplimiento de cualquiera de las condiciones o pagos del fraccionamiento se aplicará, sin más trámite, lo establecido en el artículo 84 y siguientes del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+> Se añade por la disposición final 7.2 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
+
+> Se deja sin efecto por Resolución de 10 de enero de 2024, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2024-664](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-664)
+
+> Se añade por la disposición final 2.2 del Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2023-25759](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25759)
+
+### Art. 34. Compensación de prestaciones por desempleo.
+
+1\. La entidad gestora efectuará las correspondientes compensaciones o descuentos de las cantidades indebidamente percibidas por los trabajadores en las prestaciones por desempleo que sean de su competencia.
+
+2\. A los efectos de la aplicación de lo establecido en el apartado anterior, cuando el solicitante de prestaciones por desempleo tuviera deudas pendientes con la entidad gestora, se iniciará la compensación de la deuda con cargo al nuevo derecho hasta que el beneficiario haya reintegrado las cantidades pendientes o le sea concedido el fraccionamiento del pago de la deuda.
+
+Cuando iniciado el procedimiento de reintegro regulado en el artículo 33 bis y, antes de dictarse resolución, el interesado solicitase una nueva prestación, y siempre que el importe del primer pago de la prestación derivada del reconocimiento del nuevo derecho fuera superior al de la deuda, podrá compensarse la cantidad adeudada y percibir la diferencia a su favor si el beneficiario manifiesta su conformidad.
+
+3\. En aquellos casos en los que por la entidad gestora se revisase la duración o cuantía de las prestaciones por desempleo, o los periodos de percepción, por cualquier causa, únicamente se iniciará el procedimiento de reintegro por el exceso de cuantía resultante de la regularización entre las cantidades efectivamente percibidas y las que se hubiesen debido percibir.
+
+> Se modifica por la disposición final 7.3 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
+
+> Se deja sin efecto la modificación por Resolución de 10 de enero de 2024, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2024-664](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-664)
+
+> Se modifica por la disposición final 2.3 del Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2023-25759](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25759)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 3, de 3 de enero de 2024. [Ref. BOE-A-2024-135](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-135)
+
+> Se modifica por la disposición final 8.2 del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
+
+### Art. 34 bis. Compensaciones parciales de las prestaciones por desempleo.
+
+1\. Sin perjuicio de lo establecido en el artículo 34.2, la entidad gestora podrá conceder, a solicitud del trabajador, la compensación parcial mensual de su deuda con cargo al nuevo derecho reconocido, cuando la situación económico-financiera y demás circunstancias concurrentes, discrecionalmente apreciadas por el órgano competente para resolver, así lo aconseje.
+
+2\. Con carácter general, la cantidad a compensar mensualmente será la equivalente al cociente que resulte de dividir el importe total de la deuda entre el número de meses de duración del derecho reconocido.
+
+En el caso de que, con anterioridad a la fecha del agotamiento del derecho reconocido y con el que se está compensando la deuda, concurriera cualquier causa de suspensión del mismo, el trabajador dispondrá del plazo de quince días hábiles para cancelar la deuda pendiente, o en su caso, solicitar su fraccionamiento.
+
+Transcurrido dicho plazo, sin que se haya reintegrado la deuda ni solicitado su fraccionamiento, se aplicará lo establecido en el artículo 84 y siguientes del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+3\. A la solicitud de compensación parcial le resultan de aplicación las normas de tramitación previstas en el artículo 33 bis. 5, 6, y 7 de este real decreto.
+
+4\. En general, se denegará la compensación parcial cuando no se acredite el requisito de carencia de rentas o, en su caso, el de responsabilidades familiares conforme a lo establecido en el artículo 275.1 y 2 de la Ley General de la Seguridad Social.
+
+Se denegará, en todo caso, cuando la Tesorería General de la Seguridad Social haya expedido la providencia de apremio.
+
+5\. En los supuestos en los que el trabajador que se oponga a la compensación total de su deuda, no solicite, en base a sus circunstancias económicas y personales, la compensación parcial de la misma, prevista en los apartados anteriores, será de aplicación lo establecido en el artículo 84 y siguientes del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+No obstante, si el trabajador acredita que el importe total de las rentas de cualquier naturaleza, tanto propias como, en su caso, del resto de miembros de la unidad familiar, incluyendo el importe bruto de la prestación por desempleo de la que sea titular, es inferior a la cuantía mensual de las pensiones de jubilación e invalidez en la modalidad no contributiva, podrá proponer ante la entidad gestora el plan de compensación y de futuros pagos que estime viable, pudiendo ésta ampliar el plazo máximo de cinco años en el tiempo que fuera necesario para su cancelación.
+
+6\. Se excluyen del procedimiento de compensación parcial las prestaciones por incapacidad temporal que sean abonadas por la entidad gestora en aplicación de lo previsto en el artículo 283.2 del texto refundido de la Ley General de la Seguridad Social.
+
+> Se añade por la disposición final 7.4 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 139, de 8 de junio de 2024. [Ref. BOE-A-2024-11614](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-11614)
+
+> Se deja sin efecto por Resolución de 10 de enero de 2024, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2024-664](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-664)
+
+> Se añade por la disposición final 2.4 del Real Decreto-ley 7/2023, de 19 de diciembre. [Ref. BOE-A-2023-25759](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25759)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 3, de 3 de enero de 2024. [Ref. BOE-A-2024-135](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-135)
+
+### Art. 35. Vía de apremio.
+
+Los procedimientos en vía de apremio que se deriven de lo dispuesto en los artículos 32 y 33 de este Real Decreto y en las normas que se dicten para su aplicación y desarrollo se sustanciarán de acuerdo con las disposiciones que regulen la recaudación en vía ejecutiva de la Seguridad Social.
+
+### Disposición transitoria primera.
+
+1\. Los trabajadores que estuviesen percibiendo prestaciones por desempleo o complementarias a la fecha de la entrada en vigor de la Ley 31/1984 tendrán derecho a la ampliación de la duración de las mismas, de acuerdo con las siguientes normas:
+
+a) Los beneficiarios de prestaciones por desempleo, siempre que se compruebe que tienen cotización suficiente según la escala del número 1 del artículo 8.º de la citada Ley.
+
+b) Los beneficiarios de prestaciones complementarias, de nueve a dieciocho meses.
+
+2\. Los trabajadores que hubiesen agotado la prestación por desempleo o las complementarias entre el 1 de enero de 1984 y la entrada en vigor de la Ley 31/1984 tendrán derecho, previa solicitud, a la ampliación de la duración de las mismas, de conformidad con las normas del número anterior, siempre que permanezcan inscritos como demandantes de empleo desde el momento del agotamiento.
+
+3\. Los trabajadores que hubiesen agotado la prestación por desempleo a partir del 1 de enero de 1984 y tengan derecho a su ampliación de acuerdo con lo previsto en la letra a) del número 1, pero estuvieran percibiendo prestaciones complementarias a la entrada en vigor de la Ley 31/1984, deberán solicitar dicha ampliación. El reconocimiento de tal ampliación suspenderá el derecho a las prestaciones complementarias, que se reanudarán al agotamiento de aquélla hasta alcanzar la duración máxima prevista en la Ley 31/1984.
+
+4\. Los trabajadores a los que, con posterioridad al 1 de enero de 1984, se les hubiesen suspendido las prestaciones por desempleo o complementarias tendrán derecho, si reanudaran aquéllas después de la entrada en vigor de la Ley 31/1984, a la ampliación de acuerdo con las normas de los números 1 y 3 de esta disposición transitoria.
+
+5\. Los trabajadores a los que se hubiese extinguido la prestación por desempleo como consecuencia de colocación efectuada con posterioridad al 1 de enero de 1984 y ejercitaran el derecho de opción previsto en el número 3 del artículo 14 del Real Decreto 920/1981, de 24 de abril, tendrán derecho a la ampliación de la duración de la prestación, de acuerdo con la letra a) del número 1 de la presente disposición transitoria.
+
+### Disposición transitoria segunda.
+
+1\. Los trabajadores que hubieren agotado con anterioridad a la entrada en vigor de la Ley 31/1984 el subsidio de desempleo causado al amparo de la Ley General de la Seguridad Social, por el máximo de la duración de la concesión inicial y las prórrogas, sin haber sido beneficiarios de la prestación complementaria desde la fecha de agotamiento de aquél, tendrán derecho al subsidio previsto en la citada Ley 31/1984 siempre que figuren inscritos sin interrupción como demandantes de empleo desde el 1 de noviembre de 1983 hasta el momento de la solicitud y acrediten carecer de rentas de cualquier naturaleza superiores al salario mínimo interprofesional y tener responsabilidades familiares en ambas fechas.
+
+2\. Los trabajadores que tengan cumplidos cincuenta y cinco años a la fecha de la entrada en vigor de la Ley 31/1984 y hubieren agotado por transcurso de la duración reconocida prestaciones por desempleo causadas, respectivamente, con arreglo a la Ley General de la Seguridad Social o a la Ley Básica de Empleo, tendrán derecho al subsidio previsto en la citada Ley 31/1984 siempre que acrediten los requisitos necesarios y figuren inscritos, sin interrupción, como demandantes de empleo desde el 1 de noviembre de 1983 hasta el momento de la solicitud.
+
+### Disposición transitoria tercera.
+
+1\. Los trabajadores que hayan agotado antes del 1 de enero de 1984 las prestaciones complementarias reguladas por la Ley Básica de Empleo o por el Real Decreto 2345/1981, de 4 de septiembre, tendrán derecho, previa solicitud, a la percepción del subsidio por desempleo por un período máximo de nueve meses, siempre que figuren inscritos como demandantes de empleo desde el 1 de noviembre de 1983 y que acrediten, en su caso, carecer de rentas de cualquier naturaleza superiores al salario mínimo interprofesional y tener responsabilidades familiares en el momento de la solicitud.
+
+2\. Los trabajadores que hubiesen agotado la prestación por desempleo reconocida de acuerdo con la Ley General de la Seguridad Social o la Ley Básica de Empleo, o las prestaciones complementarias, pero no tuvieren derecho al reconocimiento o ampliación del subsidio y figuren inscritos, sin interrupción, como demandantes de empleo desde el 1 de noviembre de 1983, podrán solicitar la prestación de asistencia sanitaria, si no se le hubiere reconocido el derecho con anterioridad, siempre que reúnan los requisitos del artículo 16 de la Ley 31/1984.
+
+### Disposición transitoria cuarta.
+
+A los efectos de las disposiciones transitorias anteriores, no se considerará interrumpida la inscripción como demandante de empleo cuando los trabajadores hubieran aceptado un trabajo de duración inferior a seis meses.
+
+### Disposición transitoria quinta.
+
+En los supuestos de las disposiciones transitorias primera, números 2 y 3; segunda, números 1 y 2, y tercera, número 1, el derecho a la ampliación de la duración que corresponda o al subsidio nacerá a partir del día siguiente al de la solicitud, siempre que ésta se formule en el plazo de tres meses a contar desde la entrada en vigor de este Real Decreto, estándose en caso de solicitud fuera de plazo a lo dispuesto con carácter general.
+
+### Disposición transitoria sexta.
+
+Hasta tanto se regule la relación laboral de carácter especial de los estibadores portuarios, a dichos trabajadores se les seguirán reconociendo las prestaciones por desempleo en los términos previstos en la Orden de 16 de junio de 1981.
+
+### Disposición transitoria séptima.
+
+Las prestaciones por desempleo correspondientes a los trabajadores para los que, con anterioridad a la entrada en vigor de la Ley 31/1984, se haya establecido la aplicación de sucesivas situaciones legales de desempleo para acceder a la jubilación anticipada, continuarán rigiéndose por lo dispuesto en la legislación vigente en aquella fecha.
+
+### Disposición adicional primera.
+
+Se entenderá que tiene lugar la situación protegida por la letra a) del número 1 del artículo 13 de la Ley 31/1984 cuando se produzca, además del agotamiento de la prestación de nivel contributivo de dicha Ley, el del subsidio por desempleo de la Ley General de la Seguridad Social o el de la prestación por desempleo de la Ley Básica de Empleo.
+
+### Disposición adicional segunda.
+
+La prestación o subsidio por desempleo de los trabajadores por cuenta ajena, de carácter fijo, incluidos en el Régimen Especial Agrario de la Seguridad Social, se regirán por lo establecido en el Real Decreto 1469/1981, de 19 de junio, en todo lo que no se oponga a lo establecido en la Ley 31/1984, de 2 de agosto, y en el presente Real Decreto.
+
+### Disposición adicional tercera.
+
+El Instituto Social de la Marina, hasta tanto no se disponga lo contrario, continuará realizando la gestión de las prestaciones por desempleo correspondientes a los trabajadores incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+
+### Disposición adicional cuarta.
+
+1\. El Instituto Nacional de la Seguridad Social y la Tesorería General de la Seguridad Social facilitarán al Instituto Nacional de Empleo los datos y las conexiones informáticas precisas para la gestión de las prestaciones por desempleo, en los términos y forma que se acuerden por los citados Organismos.
+
+2\. En tanto no se disponga lo contrario por el Ministerio de Trabajo y Seguridad Social, el pago de las prestaciones por desempleo se efectuará a través de los circuitos financieros que habilite la Tesorería General de la Seguridad Social.
+
+3\. La Tesorería General de la Seguridad Social recaudará las cuotas de desempleo mientras se ingresen conjuntamente con las de Seguridad Social y comunicará los datos contables correspondientes al Instituto Nacional de Empleo con periodicidad mensual.
+
+4\. La Tesorería General de la Seguridad Social y el Instituto Nacional de Empleo mantendrán cuentas de relación contable comprensivas de todas sus operaciones recíprocas derivadas de la recaudación de cuotas y pago de las prestaciones por desempleo, que se conciliarán mensualmente.
+
+5\. Mediante convenio entre el Instituto Nacional de Empleo y la Tesorería General de la Seguridad Social se regulará el régimen de provisión de fondos para atender al pago de prestaciones por desempleo y de las contraprestaciones a que haya lugar por la gestión que realice la Tesorería General, en especial en materia de reintegro ejecutivo de prestaciones indebidas o por responsabilidad empresarial.
+
+### Disposición adicional quinta.
+
+Por el Ministerio de Economía y Hacienda se habilitarán los créditos necesarios para dar cumplimiento a lo establecido en el capítulo II del título IV de la Ley 31/1984 y para que el Instituto Nacional de Empleo pueda hacer efectivas las previsiones de las disposiciones transitorias primera, segunda y tercera de dicha Ley.
+
+### Disposición final primera.
+
+Se autoriza al Ministro de Trabajo y Seguridad Social para dictar las normas de aplicación y desarrollo de este Real Decreto.
+
+### Disposición final segunda.
+
+El presente Real Decreto será de aplicación a las situaciones legales de desempleo producidas desde la entrada en vigor de la Ley 31/1984 en todo aquello que resulte más favorable al beneficiario de las prestaciones.
+
+### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en el presente Real Decreto, y expresamente:
+
+Real Decreto 920/1981, de 24 de abril, por el que se aprueba el Reglamento de Prestaciones por Desempleo.
+
+Orden de 6 de octubre de 1981 por la que se regula el procedimiento a seguir en caso de extinción de la relación laboral por muerte, jubilación e incapacidad del empresario en relación con las prestaciones de desempleo.
+
+Orden de 13 de enero de 1982 por la que se determina el concepto de responsabilidades familiares a efectos de las prestaciones complementarias por desempleo.
+
+Dado en Palma de Mallorca a 2 de abril de 1985.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Seguridad Social,
+
+JOAQUÍN ALMUNIA AMANN
+
+## [ANEXO]
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1985/109/08124_001.png)
+
+**Reverso**
+
+1\. Normativa referente al certificado.
+
+La entrega de este certificado por la Empresa es obligatoria según el artículo 25 de la Ley 31/1984, de 2 de agosto, de protección por desempleo.
+
+El certificado de Empresa es un documento fundamental en el reconocimiento del derecho a la prestación por desempleo y sirve, básicamente, para determinar la cuantía de la misma.
+
+Si durante los últimos ciento ochenta días el solicitante hubiese trabajado en varias Empresas, aportará tantos certificados como Empresas en las que haya trabajado.
+
+El empresario será el responsable del pago de las prestaciones por desempleo cuando los trabajadores no estuviesen en alta en la Seguridad Social al sobrevenir la situación protegida.
+
+El falseamiento de alguno de los datos de este certificado de Empresa dará lugar a la sanción correspondiente según se establece en el artículo 29, 4, de la Ley.
+
+2\. Instrucciones de cumplimentación.
+
+(1) Indicar si el tipo de contrato es indefinido, por obra, eventual, temporal, fijo-discontinuo, administrativo, etc.
+
+(2) Por extinción del contrato durante el período de prueba, finalización del contrato, despido (procedente, improcedente o causa objetiva), expediente de regulación de empleo, etc.
+
+(3) Indicar los meses precedentes a la situación legal de desempleo.
+
+(4) Indicar el número de días cotizados en cada mes tal como aparece reflejado en el modelo TC-2 de cotización a la Seguridad Social.
+
+(5) Indicar la base de cotización mensual tal como aparece reflejado en el modelo TC-2 (columna 6) de cotización a la Seguridad Social.
+
+(6) Indicar la base de cotización mensual tal como aparece reflejado en el modelo TC-2 (columna 7) de cotización a la Seguridad Social.
+
+(7) Indicar cualquier otra circunstancia especial referida a cotización.

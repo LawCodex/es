@@ -3316,22 +3316,22 @@ La producción de estiércol en las explotaciones ganaderas de las Illes Balears
 
 Tabla 1. Equivalencias entre tipo de ganado, unidades de ganado mayor (UGM) y producción de estiércol sólido, purines y nitrógeno
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
+<th>
 <em>Tipo de ganado y fase productiva</em>
 </th>
-<th class="cabeza_tabla">
+<th>
 <em>UGM</em>
 </th>
-<th class="cabeza_tabla">
+<th>
 <em>N (kg) / plaza y año</em>
 </th>
-<th class="cabeza_tabla">
+<th>
 <em>Purines (m<sup>3</sup>) / plaza y año</em>
 </th>
-<th class="cabeza_tabla">
+<th>
 <em>Estiércol sólido: t por plaza y año</em>
 </th>
 </tr>
@@ -3339,536 +3339,536 @@ Tabla 1. Equivalencias entre tipo de ganado, unidades de ganado mayor (UGM) y pr
 <tbody>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_izq"> Vacuno:</p>
+<p> Vacuno:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reproductores</p>
+<p>Reproductores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60</p>
+<p>60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,5</p>
+<p>11,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Novilla</p>
+<p>Novilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,7</p>
+<p>0,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,4</p>
+<p>7,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12</p>
+<p>12</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Añojo</p>
+<p>Añojo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>0,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
+<p>36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,5</p>
+<p>5,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Ternero</p>
+<p>Ternero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3</p>
+<p>0,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,7</p>
+<p>2,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,7</p>
-</td>
-</tr>
-<tr>
-<td colspan="5">
-<p class="cuerpo_tabla_izq"> Porcino:</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cerda con lechones de hasta 6 kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cerda con lechones de hasta 20 kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Reposición</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Lechones de 6 a 20 kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,41</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cerdos de 20 a 50 kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cerdos de 50 a 100 kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cerdos de 20 a 100 kg</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Verraco</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,4</p>
+<p>0,7</p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_izq"> Aves:</p>
+<p> Porcino:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gallinas</p>
+<p>Cerda con lechones de hasta 6 kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,009</p>
+<p>0,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,04</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recría de gallinas</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004</p>
+<p>5,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,0073</p>
+<p>5,4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reproductoras</p>
+<p>Cerda con lechones de hasta 20 kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01</p>
+<p>0,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
-</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,044</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recría de reproductoras</p>
+<p>18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,006</p>
+<p>6,12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,011</p>
+<p>6,4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Pollos de cebo</p>
+<p>Reposición</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004</p>
+<p>0,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,01</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Pavo</p>
+<p>8,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004</p>
+<p>2,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,01</p>
+<p>2,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Patos reproductores</p>
+<p>Lechones de 6 a 20 kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,008</p>
+<p>0,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,035</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Patos embuchados</p>
+<p>1,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,008</p>
+<p>0,41</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,035</p>
+<p>0,6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Patos de cebo</p>
+<p>Cerdos de 20 a 50 kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004</p>
+<p>0,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,018</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Avestruces adultos</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">0,73</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Avestruces de cebo</p>
+<p>Cerdos de 50 a 100 kg</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,022</p>
+<p>0,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,3</p>
+<p>8,4</p>
 </td>
-<td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4</p>
+<p>2,5</p>
+</td>
+<td>
+<p>2,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cerdos de 20 a 100 kg</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>7,2</p>
+</td>
+<td>
+<p>2,15</p>
+</td>
+<td>
+<p>2,4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Verraco</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>6,12</p>
+</td>
+<td>
+<p>6,4</p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_izq"> Conejos:</p>
+<p> Aves:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Conejos reproductores</p>
+<p>Gallinas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,01</p>
+<p>0,009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>0,5</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0007</p>
+<p>0,04</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Conejos de cebo</p>
+<p>Recría de gallinas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,004</p>
+<p>0,004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
+<p>0,2</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0003</p>
+<p>0,0073</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reproductoras</p>
+</td>
+<td>
+<p>0,01</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+<td> </td>
+<td>
+<p>0,044</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recría de reproductoras</p>
+</td>
+<td>
+<p>0,006</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td> </td>
+<td>
+<p>0,011</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pollos de cebo</p>
+</td>
+<td>
+<p>0,004</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td> </td>
+<td>
+<p>0,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pavo</p>
+</td>
+<td>
+<p>0,004</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td> </td>
+<td>
+<p>0,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Patos reproductores</p>
+</td>
+<td>
+<p>0,008</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td> </td>
+<td>
+<p>0,035</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Patos embuchados</p>
+</td>
+<td>
+<p>0,008</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td> </td>
+<td>
+<p>0,035</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Patos de cebo</p>
+</td>
+<td>
+<p>0,004</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td> </td>
+<td>
+<p>0,018</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Avestruces adultos</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td> </td>
+<td>
+<p>0,73</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Avestruces de cebo</p>
+</td>
+<td>
+<p>0,022</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+<td> </td>
+<td>
+<p>0,4</p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_izq"> Equinos:</p>
+<p> Conejos:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reproductores</p>
+<p>Conejos reproductores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,9</p>
+<p>0,01</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">54</p>
+<p>0,6</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">9,4</p>
+<p>0,0007</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reposición</p>
+<p>Conejos de cebo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>0,004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">36</p>
-</td>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_centro">6,3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Potras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18</p>
+<p>0,2</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">3,2</p>
+<p>0,0003</p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_izq"> Ovino y caprino:</p>
+<p> Equinos:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reproductores</p>
+<p>Reproductores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,15</p>
+<p>0,9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>54</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,9</p>
+<p>9,4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Reposición</p>
+<p>Reposición</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1</p>
+<p>0,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6</p>
+<p>36</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>6,3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Corderos</p>
+<p>Potras</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,05</p>
+<p>0,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3</p>
+<p>18</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3</p>
+<p>3,2</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p> Ovino y caprino:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Corderos lechales y cabritos</p>
+<p>Reproductores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,02</p>
+<p>0,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,2</p>
+<p>9</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_centro">0,12</p>
+<p>0,9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reposición</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td> </td>
+<td>
+<p>0,6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Corderos</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td> </td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Corderos lechales y cabritos</p>
+</td>
+<td>
+<p>0,02</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td> </td>
+<td>
+<p>0,12</p>
 </td>
 </tr>
 </tbody>

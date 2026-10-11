@@ -116,8 +116,6 @@ Se recomienda que el jefe de panel, con carácter previo a su designación, haya
 
 4\. Salvo excepciones debidamente justificadas y previa aprobación por la Mesa de jefes de panel, para que un panel de cata sea considerado apto deberá haber calificado adecuadamente al menos el setenta por ciento del total de muestras consensuadas en los ensayos de aptitud en los que haya participado, y como mínimo tres quintas partes de las muestras analizadas en cada uno de los ensayos de aptitud a los que se refiere el artículo 6.
 
-> Téngase en cuenta que lo dispuesto en el apartado 4, añadido por el art. único.4 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980), será exigible a partir del 1 de enero de 2022, según establece su disposición transitoria única.
-
 > Se añade el apartado 4 por el art. único.4 del Real Decreto 83/2021, de 9 de febrero. [Ref. BOE-A-2021-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2980)
 
 > Téngase en cuenta que lo dispuesto en el apartado 4 será exigible a partir del 1 de enero de 2022, según establece la disposición transitoria única del citado Real Decreto.

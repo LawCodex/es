@@ -3152,45 +3152,40 @@ b) la máxima limitación exigible de separación entre una industria que produz
 
 La instalación de transmisores radioeléctricos en las proximidades de la estación se realizará con las siguientes limitaciones:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="15%">
-<col width="35%">
-<col width="40%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Gama de frecuencias</th>
-<th class="cabeza_tabla">Potencia radiada aparente del transmisor en dirección a la instalación a proteger<br> –<br> Kilovatios</th>
-<th class="cabeza_tabla">Máxima limitación exigible de separación entre instalaciones a proteger y antena del transmisor<br> –<br> Kilómetros</th>
+<th>Gama de frecuencias</th>
+<th>Potencia radiada aparente del transmisor en dirección a la instalación a proteger<br> –<br> Kilovatios</th>
+<th>Máxima limitación exigible de separación entre instalaciones a proteger y antena del transmisor<br> –<br> Kilómetros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">f ≤ 30 MHz</td>
-<td class="cuerpo_tabla_centro">0,01 &lt; P ≤ 1</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td rowspan="3">f ≤ 30 MHz</td>
+<td>0,01 &lt; P ≤ 1</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1 &lt; P ≤ 10</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>1 &lt; P ≤ 10</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P &gt; 10</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>P &gt; 10</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">f &gt; 30 MHz</td>
-<td class="cuerpo_tabla_centro">0,01 &lt; P ≤ 1</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td rowspan="3">f &gt; 30 MHz</td>
+<td>0,01 &lt; P ≤ 1</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1 &lt; P ≤ 10</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>1 &lt; P ≤ 10</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">P &gt; 10</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>P &gt; 10</td>
+<td>5</td>
 </tr>
 </tbody>
 </table>
@@ -3199,295 +3194,289 @@ La instalación de transmisores radioeléctricos en las proximidades de la estac
 
 a) las estaciones dedicadas a la observación radioastronómica, estas limitaciones serán las siguientes:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="4">Niveles máximos admisibles de densidad espectral de flujo de potencia en las estaciones de observación de Radioastronomía<sup> (1)(2)</sup></th>
+<th colspan="4">Niveles máximos admisibles de densidad espectral de flujo de potencia en las estaciones de observación de Radioastronomía<sup> (1)(2)</sup></th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Frecuencia central (MHz)</th>
-<th class="cabeza_tabla">Anchura de banda de canal (kHz)</th>
-<th class="cabeza_tabla">Densidad espectral de flujo de potencia (dB(W/(m2 · Hz)))</th>
-<th class="cabeza_tabla">Observaciones radioastronómicas</th>
+<th>Frecuencia central (MHz)</th>
+<th>Anchura de banda de canal (kHz)</th>
+<th>Densidad espectral de flujo de potencia (dB(W/(m2 · Hz)))</th>
+<th>Observaciones radioastronómicas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_coma">13,385</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_centro">-248</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>13,385</td>
+<td>50</td>
+<td>-248</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">25,61</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_centro">-249</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>25,61</td>
+<td>120</td>
+<td>-249</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">73,8</td>
-<td class="cuerpo_tabla_coma">1600</td>
-<td class="cuerpo_tabla_centro">-258</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>73,8</td>
+<td>1600</td>
+<td>-258</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">151,525</td>
-<td class="cuerpo_tabla_coma">2950</td>
-<td class="cuerpo_tabla_centro">-259</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>151,525</td>
+<td>2950</td>
+<td>-259</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">325,3</td>
-<td class="cuerpo_tabla_coma">6600</td>
-<td class="cuerpo_tabla_centro">-258</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>325,3</td>
+<td>6600</td>
+<td>-258</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">327</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_centro">-244</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>327</td>
+<td>10</td>
+<td>-244</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">408,05</td>
-<td class="cuerpo_tabla_coma">3900</td>
-<td class="cuerpo_tabla_centro">-255</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>408,05</td>
+<td>3900</td>
+<td>-255</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">611</td>
-<td class="cuerpo_tabla_coma">6000</td>
-<td class="cuerpo_tabla_centro">-253</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>611</td>
+<td>6000</td>
+<td>-253</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">1413,5</td>
-<td class="cuerpo_tabla_coma">27000</td>
-<td class="cuerpo_tabla_centro">-255</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>1413,5</td>
+<td>27000</td>
+<td>-255</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">1420</td>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_centro">-239</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>1420</td>
+<td>20</td>
+<td>-239</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">1612</td>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_centro">-238</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>1612</td>
+<td>20</td>
+<td>-238</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">1665</td>
-<td class="cuerpo_tabla_coma">20</td>
-<td class="cuerpo_tabla_centro">-237</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>1665</td>
+<td>20</td>
+<td>-237</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">1665</td>
-<td class="cuerpo_tabla_coma">10000</td>
-<td class="cuerpo_tabla_centro">-251</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>1665</td>
+<td>10000</td>
+<td>-251</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">2695</td>
-<td class="cuerpo_tabla_coma">10000</td>
-<td class="cuerpo_tabla_centro">-247</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>2695</td>
+<td>10000</td>
+<td>-247</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">4830</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_centro">-230</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>4830</td>
+<td>50</td>
+<td>-230</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">4995</td>
-<td class="cuerpo_tabla_coma">10000</td>
-<td class="cuerpo_tabla_centro">-241</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>4995</td>
+<td>10000</td>
+<td>-241</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">10650</td>
-<td class="cuerpo_tabla_coma">100000</td>
-<td class="cuerpo_tabla_centro">-240</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>10650</td>
+<td>100000</td>
+<td>-240</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">14488</td>
-<td class="cuerpo_tabla_coma">150</td>
-<td class="cuerpo_tabla_centro">-221</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>14488</td>
+<td>150</td>
+<td>-221</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">15375</td>
-<td class="cuerpo_tabla_coma">50000</td>
-<td class="cuerpo_tabla_centro">-233</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>15375</td>
+<td>50000</td>
+<td>-233</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">22200</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_centro">-216</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>22200</td>
+<td>250</td>
+<td>-216</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">22355</td>
-<td class="cuerpo_tabla_coma">290000</td>
-<td class="cuerpo_tabla_centro">-231</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>22355</td>
+<td>290000</td>
+<td>-231</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">23700</td>
-<td class="cuerpo_tabla_coma">250</td>
-<td class="cuerpo_tabla_centro">-215</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>23700</td>
+<td>250</td>
+<td>-215</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">23800</td>
-<td class="cuerpo_tabla_coma">400000</td>
-<td class="cuerpo_tabla_centro">-233</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>23800</td>
+<td>400000</td>
+<td>-233</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">31550</td>
-<td class="cuerpo_tabla_coma">500000</td>
-<td class="cuerpo_tabla_centro">-228</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>31550</td>
+<td>500000</td>
+<td>-228</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">43000</td>
-<td class="cuerpo_tabla_coma">500</td>
-<td class="cuerpo_tabla_centro">-210</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>43000</td>
+<td>500</td>
+<td>-210</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">43000</td>
-<td class="cuerpo_tabla_coma">1000000</td>
-<td class="cuerpo_tabla_centro">-227</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>43000</td>
+<td>1000000</td>
+<td>-227</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">48000</td>
-<td class="cuerpo_tabla_coma">500</td>
-<td class="cuerpo_tabla_centro">-209</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>48000</td>
+<td>500</td>
+<td>-209</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">76750</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-229</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>76750</td>
+<td>8000000</td>
+<td>-229</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">82500</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-228</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>82500</td>
+<td>8000000</td>
+<td>-228</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">88600</td>
-<td class="cuerpo_tabla_coma">1000</td>
-<td class="cuerpo_tabla_centro">-208</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>88600</td>
+<td>1000</td>
+<td>-208</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">89000</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-228</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>89000</td>
+<td>8000000</td>
+<td>-228</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">105050</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-223</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>105050</td>
+<td>8000000</td>
+<td>-223</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">132000</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-223</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>132000</td>
+<td>8000000</td>
+<td>-223</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">147250</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-223</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>147250</td>
+<td>8000000</td>
+<td>-223</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">150000</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-223</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>150000</td>
+<td>8000000</td>
+<td>-223</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">150000</td>
-<td class="cuerpo_tabla_coma">1000</td>
-<td class="cuerpo_tabla_centro">-204</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>150000</td>
+<td>1000</td>
+<td>-204</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">165500</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-222</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>165500</td>
+<td>8000000</td>
+<td>-222</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">183500</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-220</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>183500</td>
+<td>8000000</td>
+<td>-220</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">215750</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-218</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>215750</td>
+<td>8000000</td>
+<td>-218</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">220000</td>
-<td class="cuerpo_tabla_coma">1000</td>
-<td class="cuerpo_tabla_centro">-199</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>220000</td>
+<td>1000</td>
+<td>-199</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">224000</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-218</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>224000</td>
+<td>8000000</td>
+<td>-218</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">244500</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-217</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>244500</td>
+<td>8000000</td>
+<td>-217</td>
+<td>Continuo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">265000</td>
-<td class="cuerpo_tabla_coma">1000</td>
-<td class="cuerpo_tabla_centro">-197</td>
-<td class="cuerpo_tabla_izq">Rayas espectrales.</td>
+<td>265000</td>
+<td>1000</td>
+<td>-197</td>
+<td>Rayas espectrales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">270000</td>
-<td class="cuerpo_tabla_coma">8000000</td>
-<td class="cuerpo_tabla_centro">-216</td>
-<td class="cuerpo_tabla_izq">Continuo.</td>
+<td>270000</td>
+<td>8000000</td>
+<td>-216</td>
+<td>Continuo.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1) </sup>Los valores anteriores corresponden a una ganancia supuesta de la antena receptora de radioastronomía de 0 dBi.</p>
-<p class="cita"><sup>(2) </sup>Para sistemas interferentes con condiciones de propagación variables en el tiempo los niveles dados no podrán ser excedidos en la medida en que la pérdida de datos supere el 2 %.</p>
+<p><sup>(1) </sup>Los valores anteriores corresponden a una ganancia supuesta de la antena receptora de radioastronomía de 0 dBi.</p>
+<p><sup>(2) </sup>Para sistemas interferentes con condiciones de propagación variables en el tiempo los niveles dados no podrán ser excedidos en la medida en que la pérdida de datos supere el 2 %.</p>
 </td>
 </tr>
 </tfoot>
@@ -3907,126 +3896,120 @@ El procedimiento para su exacción se establecerá por real decreto. El importe 
 
 Con carácter general, el valor de cada número del Plan nacional de numeración para la fijación de la tasa por numeración, incluyendo a estos efectos los números empleados exclusivamente para la prestación de servicios de mensajes sobre redes telefónicas, será de 0,041 euros. A este valor se le aplicarán los coeficientes que se especifican en la siguiente tabla, para los rangos y servicios que se indican:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Coeficiente</th>
-<th class="cabeza_tabla">Servicio</th>
-<th class="cabeza_tabla">Rango (NXYA)</th>
-<th class="cabeza_tabla">Longitud (cifras)</th>
+<th>Coeficiente</th>
+<th>Servicio</th>
+<th>Rango (NXYA)</th>
+<th>Longitud (cifras)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Servicios de interés social.</td>
-<td class="cuerpo_tabla_centro">0XY, 112, 10YA</td>
-<td class="cuerpo_tabla_centro">3 y 4</td>
+<td>0</td>
+<td>Servicios de interés social.</td>
+<td>0XY, 112, 10YA</td>
+<td>3 y 4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Servicios armonizados europeos de valor social.</td>
-<td class="cuerpo_tabla_centro">116 A (A = 0 y 1)</td>
-<td class="cuerpo_tabla_centro">6</td>
+<td>0</td>
+<td>Servicios armonizados europeos de valor social.</td>
+<td>116 A (A = 0 y 1)</td>
+<td>6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">0</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Uso interno en el ámbito de cada operador.</td>
-<td class="cuerpo_tabla_centro">12YA (YA= 00 - 19)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">Indefinida</td>
+<td rowspan="2">0</td>
+<td rowspan="2">Uso interno en el ámbito de cada operador.</td>
+<td>12YA (YA= 00 - 19)</td>
+<td rowspan="2">Indefinida</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22YA</td>
+<td>22YA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">2</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Mensajes sobre redes telefónicas.</td>
-<td class="cuerpo_tabla_centro">2XYA (X ≠ 2)</td>
-<td class="cuerpo_tabla_centro" rowspan="4">5 y 6</td>
+<td rowspan="4">2</td>
+<td rowspan="4">Mensajes sobre redes telefónicas.</td>
+<td>2XYA (X ≠ 2)</td>
+<td rowspan="4">5 y 6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3XYA</td>
+<td>3XYA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">79YA</td>
+<td>79YA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">99YA</td>
+<td>99YA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Numeración corta y prefijos.</td>
-<td class="cuerpo_tabla_centro">1XYA (X≠1)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4, 5 y 6</td>
+<td rowspan="2">3</td>
+<td rowspan="2">Numeración corta y prefijos.</td>
+<td>1XYA (X≠1)</td>
+<td rowspan="2">4, 5 y 6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50YA</td>
+<td>50YA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Numeración geográfica.</td>
-<td class="cuerpo_tabla_centro">9XYA (X≠0)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td rowspan="2">1</td>
+<td rowspan="2">Numeración geográfica.</td>
+<td>9XYA (X≠0)</td>
+<td rowspan="2">9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8XYA (X≠0)</td>
+<td>8XYA (X≠0)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Numeración móvil.</td>
-<td class="cuerpo_tabla_centro">6XYA</td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td rowspan="2">1</td>
+<td rowspan="2">Numeración móvil.</td>
+<td>6XYA</td>
+<td rowspan="2">9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7XYA (X=1, 2, 3, 4)</td>
+<td>7XYA (X=1, 2, 3, 4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Numeración nómada no geográfica.</td>
-<td class="cuerpo_tabla_centro">5XYA (X=1)</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>1</td>
+<td>Numeración nómada no geográfica.</td>
+<td>5XYA (X=1)</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Numeración de acceso a internet.</td>
-<td class="cuerpo_tabla_centro">908A</td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td rowspan="2">1</td>
+<td rowspan="2">Numeración de acceso a internet.</td>
+<td>908A</td>
+<td rowspan="2">9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">909A</td>
+<td>909A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Tarifas especiales.</td>
-<td class="cuerpo_tabla_centro">80YA (Y=0, 3, 6, 7)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
+<td rowspan="2">10</td>
+<td rowspan="2">Tarifas especiales.</td>
+<td>80YA (Y=0, 3, 6, 7)</td>
+<td rowspan="2">9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">90YA (Y=0, 1, 2, 5, 7)</td>
+<td>90YA (Y=0, 1, 2, 5, 7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Numeración personal.</td>
-<td class="cuerpo_tabla_centro">70YA</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>10</td>
+<td>Numeración personal.</td>
+<td>70YA</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Consulta telefónica sobre números de abonado.</td>
-<td class="cuerpo_tabla_centro">118 A (A= 1 - 9)</td>
-<td class="cuerpo_tabla_centro">5</td>
+<td>30</td>
+<td>Consulta telefónica sobre números de abonado.</td>
+<td>118 A (A= 1 - 9)</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Comunicaciones máquina a máquina.</td>
-<td class="cuerpo_tabla_centro">590 A</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>2</td>
+<td>Comunicaciones máquina a máquina.</td>
+<td>590 A</td>
+<td>13</td>
 </tr>
 </tbody>
 <tfoot>

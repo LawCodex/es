@@ -149,92 +149,86 @@ No está permitida en ningún supuesto la circulación de vehículos o conjuntos
 
 7.1 Los vehículos o conjuntos de vehículos de mercancías que superen los 7.500 kg de MMA o MMC no pueden circular en la N-230 del PK 116 y todo el tramo catalán hasta el PK 187 en Bausen, frontera francesa, y tampoco en la C-28 del PK 23 Vielha e Mijaran al PK 34 Salardú:
 
-<table class="tabla">
-<colgroup>
-<col width="23%">
-<col width="40%">
-<col width="25%">
-<col width="12%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Horario</th>
-<th class="cabeza_tabla">Sentido</th>
+<th> </th>
+<th>Día</th>
+<th>Horario</th>
+<th>Sentido</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Reyes.</td>
-<td class="cuerpo_tabla_izq">Martes 6/01.</td>
-<td class="cuerpo_tabla_izq">De 13 a 20 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Reyes.</td>
+<td>Martes 6/01.</td>
+<td>De 13 a 20 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">De enero a marzo.</td>
-<td class="cuerpo_tabla_izq">Viernes.</td>
-<td class="cuerpo_tabla_izq">De 17 a 24 horas.</td>
-<td class="cuerpo_tabla_izq">Francia.</td>
+<td rowspan="2">De enero a marzo.</td>
+<td>Viernes.</td>
+<td>De 17 a 24 horas.</td>
+<td>Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_izq">De 13 a 20 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Domingos.</td>
+<td>De 13 a 20 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Semana Santa.</td>
-<td class="cuerpo_tabla_izq">Jueves Santo 2/04.</td>
-<td class="cuerpo_tabla_izq">De 17 a 24 horas.</td>
-<td class="cuerpo_tabla_izq">Francia.</td>
+<td rowspan="3">Semana Santa.</td>
+<td>Jueves Santo 2/04.</td>
+<td>De 17 a 24 horas.</td>
+<td>Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viernes Santo 3/04.</td>
-<td class="cuerpo_tabla_izq">De 8 a 13 horas.</td>
-<td class="cuerpo_tabla_izq">Francia.</td>
+<td>Viernes Santo 3/04.</td>
+<td>De 8 a 13 horas.</td>
+<td>Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes de Pascua 6/04.</td>
-<td class="cuerpo_tabla_izq">De 13 a 20 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Lunes de Pascua 6/04.</td>
+<td>De 13 a 20 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Julio y agosto.</td>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_izq">De 17 a 22 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Julio y agosto.</td>
+<td>Domingos.</td>
+<td>De 17 a 22 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">El Pilar.</td>
-<td class="cuerpo_tabla_izq">Viernes 9/10.</td>
-<td class="cuerpo_tabla_izq">De 17 a 24 horas.</td>
-<td class="cuerpo_tabla_izq">Francia.</td>
+<td rowspan="2">El Pilar.</td>
+<td>Viernes 9/10.</td>
+<td>De 17 a 24 horas.</td>
+<td>Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes 12/10.</td>
-<td class="cuerpo_tabla_izq">De 13 a 20 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Lunes 12/10.</td>
+<td>De 13 a 20 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Diciembre.</td>
-<td class="cuerpo_tabla_izq">Viernes, entre el 4/12 y el 18/12.</td>
-<td class="cuerpo_tabla_izq">De 17 a 24 horas.</td>
-<td class="cuerpo_tabla_izq">Francia.</td>
+<td rowspan="4">Diciembre.</td>
+<td>Viernes, entre el 4/12 y el 18/12.</td>
+<td>De 17 a 24 horas.</td>
+<td>Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_izq">De 13 a 20 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Domingos.</td>
+<td>De 13 a 20 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Martes 8/12.</td>
-<td class="cuerpo_tabla_izq">De 13 a 20 horas.</td>
-<td class="cuerpo_tabla_izq">Lleida.</td>
+<td>Martes 8/12.</td>
+<td>De 13 a 20 horas.</td>
+<td>Lleida.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueves 24/12 y 31/12.</td>
-<td class="cuerpo_tabla_izq">De 17 a 24 horas.</td>
-<td class="cuerpo_tabla_izq">Francia.</td>
+<td>Jueves 24/12 y 31/12.</td>
+<td>De 17 a 24 horas.</td>
+<td>Francia.</td>
 </tr>
 </tbody>
 </table>
@@ -355,114 +349,109 @@ La Policía de la Generalitat-Mossos d’Esquadra, junto con la Subdirección Ge
 
 Estas limitaciones se aplican en los siguientes casos, de forma análoga, con los horarios indicados en el párrafo anterior:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="30%">
-<col width="30%">
-<col width="10%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Horario</th>
+<th> </th>
+<th>Día</th>
+<th>Horario</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Reyes.</td>
-<td class="cuerpo_tabla_izq">Martes 6/01.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Reyes.</td>
+<td>Martes 6/01.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Semana Santa.</td>
-<td class="cuerpo_tabla_izq">Jueves Santo 2/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Semana Santa.</td>
+<td>Jueves Santo 2/04.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viernes Santo 3/04.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Viernes Santo 3/04.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes de Pascua 6/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Lunes de Pascua 6/04.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">1 de Mayo.</td>
-<td class="cuerpo_tabla_izq">Jueves 30/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">1 de Mayo.</td>
+<td>Jueves 30/04.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viernes 1/05.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Viernes 1/05.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 3/05.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Domingo 3/05.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Segunda Pascua.</td>
-<td class="cuerpo_tabla_izq">Viernes 22/05.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Segunda Pascua.</td>
+<td>Viernes 22/05.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 23/05.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Sábado 23/05.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes 25/05.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Lunes 25/05.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">San Juan.</td>
-<td class="cuerpo_tabla_izq">Martes 23/06.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="2">San Juan.</td>
+<td>Martes 23/06.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Miércoles 24/06.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Miércoles 24/06.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">La Diada.</td>
-<td class="cuerpo_tabla_izq">Jueves 10/09.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">La Diada.</td>
+<td>Jueves 10/09.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viernes 11/09.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Viernes 11/09.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 13/09.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Domingo 13/09.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">La Inmaculada Concepción.</td>
-<td class="cuerpo_tabla_izq">Viernes 4/12.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="5">La Inmaculada Concepción.</td>
+<td>Viernes 4/12.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 5/12.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Sábado 5/12.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 6/12.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Domingo 6/12.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes 7/12.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Lunes 7/12.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Martes 8/12.</td>
-<td class="cuerpo_tabla_centro">D</td>
+<td>Martes 8/12.</td>
+<td>D</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">M: Restricciones de las 10 a las 14 horas.</p>
-<p class="cita">T: Restricciones de las 17 a las 22 horas.</p>
-<p class="cita">D: Restricciones de las 10 a las 22 horas.</p>
+<p>M: Restricciones de las 10 a las 14 horas.</p>
+<p>T: Restricciones de las 17 a las 22 horas.</p>
+<p>D: Restricciones de las 10 a las 22 horas.</p>
 </td>
 </tr>
 </tfoot>
@@ -478,998 +467,964 @@ En ambas calzadas, fuera del carril adicional, los vehículos pesados y los auto
 
 Se definen las siguientes redes con las siguientes restricciones:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Red</th>
-<th class="cabeza_tabla">Vía</th>
-<th class="cabeza_tabla">PK inicial</th>
-<th class="cabeza_tabla">Lugar</th>
-<th class="cabeza_tabla">PK final</th>
-<th class="cabeza_tabla">Lugar</th>
-<th class="cabeza_tabla">Zona</th>
+<th>Red</th>
+<th>Vía</th>
+<th>PK inicial</th>
+<th>Lugar</th>
+<th>PK final</th>
+<th>Lugar</th>
+<th>Zona</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Red internacional.</td>
-<td class="cuerpo_tabla_centro">AP-7</td>
-<td class="cuerpo_tabla_coma">84,5</td>
-<td class="cuerpo_tabla_izq">Maçanet.</td>
-<td class="cuerpo_tabla_coma">281</td>
-<td class="cuerpo_tabla_izq">L’Hospitalet de l’Infant.</td>
-<td class="cuerpo_tabla_izq">BCN, GIR, TGN.</td>
+<td rowspan="4">Red internacional.</td>
+<td>AP-7</td>
+<td>84,5</td>
+<td>Maçanet.</td>
+<td>281</td>
+<td>L’Hospitalet de l’Infant.</td>
+<td>BCN, GIR, TGN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">520</td>
-<td class="cuerpo_tabla_izq">Cervera.</td>
-<td class="cuerpo_tabla_coma">585</td>
-<td class="cuerpo_tabla_izq">Martorell.</td>
-<td class="cuerpo_tabla_izq">BCN, LLE.</td>
+<td>A-2</td>
+<td>520</td>
+<td>Cervera.</td>
+<td>585</td>
+<td>Martorell.</td>
+<td>BCN, LLE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-2</td>
-<td class="cuerpo_tabla_coma">228,8</td>
-<td class="cuerpo_tabla_izq">La Bisbal del Penedès.</td>
-<td class="cuerpo_tabla_coma">232</td>
-<td class="cuerpo_tabla_izq">Enlace AP-7.</td>
-<td class="cuerpo_tabla_izq">TGN.</td>
+<td>AP-2</td>
+<td>228,8</td>
+<td>La Bisbal del Penedès.</td>
+<td>232</td>
+<td>Enlace AP-7.</td>
+<td>TGN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-7</td>
-<td class="cuerpo_tabla_coma">1129,5</td>
-<td class="cuerpo_tabla_izq">L’Hospitalet de l’Infant.</td>
-<td class="cuerpo_tabla_coma">1171,5</td>
-<td class="cuerpo_tabla_izq">Altafulla.</td>
-<td class="cuerpo_tabla_izq">TGN.</td>
+<td>A-7</td>
+<td>1129,5</td>
+<td>L’Hospitalet de l’Infant.</td>
+<td>1171,5</td>
+<td>Altafulla.</td>
+<td>TGN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">Red de accesos a Barcelona.</td>
-<td class="cuerpo_tabla_centro">C-31</td>
-<td class="cuerpo_tabla_coma">135</td>
-<td class="cuerpo_tabla_izq">El Vendrell.</td>
-<td class="cuerpo_tabla_coma">176</td>
-<td class="cuerpo_tabla_izq">Garraf.</td>
-<td class="cuerpo_tabla_izq">BCN, TGN.</td>
+<td rowspan="10">Red de accesos a Barcelona.</td>
+<td>C-31</td>
+<td>135</td>
+<td>El Vendrell.</td>
+<td>176</td>
+<td>Garraf.</td>
+<td>BCN, TGN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-32</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">El Vendrell.</td>
-<td class="cuerpo_tabla_coma">63</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_izq">BCN, TGN.</td>
+<td>C-32</td>
+<td>0</td>
+<td>El Vendrell.</td>
+<td>63</td>
+<td>Barcelona.</td>
+<td>BCN, TGN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B-23</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">El Papiol.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>B-23</td>
+<td>0</td>
+<td>Barcelona.</td>
+<td>15</td>
+<td>El Papiol.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-32</td>
-<td class="cuerpo_tabla_coma">85</td>
-<td class="cuerpo_tabla_izq">Montgat.</td>
-<td class="cuerpo_tabla_coma">131</td>
-<td class="cuerpo_tabla_izq">Palafolls.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>C-32</td>
+<td>85</td>
+<td>Montgat.</td>
+<td>131</td>
+<td>Palafolls.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">585</td>
-<td class="cuerpo_tabla_izq">Martorell.</td>
-<td class="cuerpo_tabla_coma">609</td>
-<td class="cuerpo_tabla_izq">Cornellà de Llobregat.</td>
-<td class="cuerpo_tabla_izq">BCN, LLE.</td>
+<td>A-2</td>
+<td>585</td>
+<td>Martorell.</td>
+<td>609</td>
+<td>Cornellà de Llobregat.</td>
+<td>BCN, LLE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-58</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_izq">Enlace AP-7.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>C-58</td>
+<td>0</td>
+<td>Barcelona.</td>
+<td>8</td>
+<td>Enlace AP-7.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B-24</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_izq">Cervelló.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_izq">Pallejà.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>B-24</td>
+<td>3</td>
+<td>Cervelló.</td>
+<td>10</td>
+<td>Pallejà.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-33</td>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma">90</td>
-<td class="cuerpo_tabla_izq">Enlace AP-7.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>C-33</td>
+<td>76</td>
+<td>Barcelona.</td>
+<td>90</td>
+<td>Enlace AP-7.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-16</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Barcelona.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Enlace AP-7.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>C-16</td>
+<td>0</td>
+<td>Barcelona.</td>
+<td>13</td>
+<td>Enlace AP-7.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-II</td>
-<td class="cuerpo_tabla_coma">630</td>
-<td class="cuerpo_tabla_izq">Montgat.</td>
-<td class="cuerpo_tabla_coma">682,2</td>
-<td class="cuerpo_tabla_izq">Rotonda Can Bartolí.</td>
-<td class="cuerpo_tabla_izq">BCN.</td>
+<td>N-II</td>
+<td>630</td>
+<td>Montgat.</td>
+<td>682,2</td>
+<td>Rotonda Can Bartolí.</td>
+<td>BCN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Red de accesos Costa Brava.</td>
-<td class="cuerpo_tabla_centro">C-63</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Lloret de Mar.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Vidreres.</td>
-<td class="cuerpo_tabla_izq">GIR.</td>
+<td rowspan="4">Red de accesos Costa Brava.</td>
+<td>C-63</td>
+<td>0</td>
+<td>Lloret de Mar.</td>
+<td>13</td>
+<td>Vidreres.</td>
+<td>GIR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">GI-681</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Llagostera.</td>
-<td class="cuerpo_tabla_coma">16</td>
-<td class="cuerpo_tabla_izq">Tossa de Mar.</td>
-<td class="cuerpo_tabla_izq">GIR.</td>
+<td>GI-681</td>
+<td>0</td>
+<td>Llagostera.</td>
+<td>16</td>
+<td>Tossa de Mar.</td>
+<td>GIR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">GI-682</td>
-<td class="cuerpo_tabla_coma">3</td>
-<td class="cuerpo_tabla_izq">Límite Barcelona.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Lloret de Mar.</td>
-<td class="cuerpo_tabla_izq">GIR.</td>
+<td>GI-682</td>
+<td>3</td>
+<td>Límite Barcelona.</td>
+<td>13</td>
+<td>Lloret de Mar.</td>
+<td>GIR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-35</td>
-<td class="cuerpo_tabla_coma">73,4</td>
-<td class="cuerpo_tabla_izq">Enlace GI-512.</td>
-<td class="cuerpo_tabla_coma">83,1</td>
-<td class="cuerpo_tabla_izq">Maçanet de la Selva/enlace AP-7.</td>
-<td class="cuerpo_tabla_izq">GIR.</td>
+<td>C-35</td>
+<td>73,4</td>
+<td>Enlace GI-512.</td>
+<td>83,1</td>
+<td>Maçanet de la Selva/enlace AP-7.</td>
+<td>GIR.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Red de accesos Pirineos.</td>
-<td class="cuerpo_tabla_centro">N-145</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">La Seu d’Urgell.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_izq">Límite Andorra.</td>
-<td class="cuerpo_tabla_izq">LLE.</td>
+<td rowspan="3">Red de accesos Pirineos.</td>
+<td>N-145</td>
+<td>0</td>
+<td>La Seu d’Urgell.</td>
+<td>10</td>
+<td>Límite Andorra.</td>
+<td>LLE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C-14</td>
-<td class="cuerpo_tabla_coma">116</td>
-<td class="cuerpo_tabla_izq">Ponts.</td>
-<td class="cuerpo_tabla_coma">178</td>
-<td class="cuerpo_tabla_izq">Adrall.</td>
-<td class="cuerpo_tabla_izq">LLE.</td>
+<td>C-14</td>
+<td>116</td>
+<td>Ponts.</td>
+<td>178</td>
+<td>Adrall.</td>
+<td>LLE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-260</td>
-<td class="cuerpo_tabla_coma">193</td>
-<td class="cuerpo_tabla_izq">Bellver de Cerdanya.</td>
-<td class="cuerpo_tabla_coma">234</td>
-<td class="cuerpo_tabla_izq">Adrall.</td>
-<td class="cuerpo_tabla_izq">LLE</td>
+<td>N-260</td>
+<td>193</td>
+<td>Bellver de Cerdanya.</td>
+<td>234</td>
+<td>Adrall.</td>
+<td>LLE</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_girada_condensada" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla">Red</th>
-<th class="cabeza_tabla" colspan="4">Red internacional</th>
-<th class="cabeza_tabla" colspan="9">Red de accesos a Barcelona</th>
-<th class="cabeza_tabla" colspan="4">Red de accesos Costa Brava</th>
-<th class="cabeza_tabla" colspan="3">Red de accesos Pirineos</th>
-<th class="cabeza_tabla"> </th>
+<th rowspan="2"> </th>
+<th>Red</th>
+<th colspan="4">Red internacional</th>
+<th colspan="9">Red de accesos a Barcelona</th>
+<th colspan="4">Red de accesos Costa Brava</th>
+<th colspan="3">Red de accesos Pirineos</th>
+<th> </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Vía</th>
-<th class="cabeza_tabla">AP-7</th>
-<th class="cabeza_tabla">A-2</th>
-<th class="cabeza_tabla">AP-2</th>
-<th class="cabeza_tabla">A-7</th>
-<th class="cabeza_tabla">C-31</th>
-<th class="cabeza_tabla">C-32</th>
-<th class="cabeza_tabla">B-23</th>
-<th class="cabeza_tabla">A-2</th>
-<th class="cabeza_tabla">C-58</th>
-<th class="cabeza_tabla">B-24</th>
-<th class="cabeza_tabla">C-33</th>
-<th class="cabeza_tabla">C-16</th>
-<th class="cabeza_tabla">N-II</th>
-<th class="cabeza_tabla">C-35</th>
-<th class="cabeza_tabla">C-63</th>
-<th class="cabeza_tabla">GI-681</th>
-<th class="cabeza_tabla">GI-682</th>
-<th class="cabeza_tabla">N-145</th>
-<th class="cabeza_tabla">C-14</th>
-<th class="cabeza_tabla">N-260</th>
-<th class="cabeza_tabla">C-35*</th>
+<th>Vía</th>
+<th>AP-7</th>
+<th>A-2</th>
+<th>AP-2</th>
+<th>A-7</th>
+<th>C-31</th>
+<th>C-32</th>
+<th>B-23</th>
+<th>A-2</th>
+<th>C-58</th>
+<th>B-24</th>
+<th>C-33</th>
+<th>C-16</th>
+<th>N-II</th>
+<th>C-35</th>
+<th>C-63</th>
+<th>GI-681</th>
+<th>GI-682</th>
+<th>N-145</th>
+<th>C-14</th>
+<th>N-260</th>
+<th>C-35*</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">Semana Santa.</td>
-<td class="cuerpo_tabla_izq">Jueves Santo 2/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T (L)</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="4">Semana Santa.</td>
+<td>Jueves Santo 2/04.</td>
+<td>T</td>
+<td>T (L)</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viernes Santo 3/04.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M (L)</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Viernes Santo 3/04.</td>
+<td>M</td>
+<td>M (L)</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo de Pascua 5/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T (B)</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Domingo de Pascua 5/04.</td>
+<td>T</td>
+<td>T (B)</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes de Pascua 6/04.</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">D</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Lunes de Pascua 6/04.</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de Mayo.</td>
-<td class="cuerpo_tabla_izq">Domingo 3/05.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1 de Mayo.</td>
+<td>Domingo 3/05.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Moto GP.</td>
-<td class="cuerpo_tabla_izq">Viernes 15/05.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6 a 20 h</td>
+<td rowspan="3">Moto GP.</td>
+<td>Viernes 15/05.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6 a 20 h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 16/05.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6 a 20 h</td>
+<td>Sábado 16/05.</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6 a 20 h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 17/05.</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6 a 20 h</td>
+<td>Domingo 17/05.</td>
+<td>***</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6 a 20 h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Segunda Pascua.</td>
-<td class="cuerpo_tabla_izq">Lunes 25/05.</td>
-<td class="cuerpo_tabla_centro">T (B)**</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Segunda Pascua.</td>
+<td>Lunes 25/05.</td>
+<td>T (B)**</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Fórmula 1.</td>
-<td class="cuerpo_tabla_izq">Viernes 12/06.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6 a 20 h</td>
+<td rowspan="3">Fórmula 1.</td>
+<td>Viernes 12/06.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6 a 20 h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 13/06.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6 a 20 h</td>
+<td>Sábado 13/06.</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6 a 20 h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 14/06.</td>
-<td class="cuerpo_tabla_centro">***</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6 a 20 h</td>
+<td>Domingo 14/06.</td>
+<td>***</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>6 a 20 h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">San Juan.</td>
-<td class="cuerpo_tabla_izq">Martes 23/06.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>San Juan.</td>
+<td>Martes 23/06.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Verano.</td>
-<td class="cuerpo_tabla_izq">Domingos y festivos del 21/06 al 13/09.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">T</p>
-<p class="cuerpo_tabla_centro">****</p>
+<td>Verano.</td>
+<td>Domingos y festivos del 21/06 al 13/09.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>T</p>
+<p>****</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">T</p>
-<p class="cuerpo_tabla_centro">****</p>
+<td>
+<p>T</p>
+<p>****</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">T</p>
-<p class="cuerpo_tabla_centro">****</p>
+<td>
+<p>T</p>
+<p>****</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">T</p>
-<p class="cuerpo_tabla_centro">****</p>
+<td>
+<p>T</p>
+<p>****</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eclipse.</td>
-<td class="cuerpo_tabla_izq">Miércoles 12/08*****.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Eclipse.</td>
+<td>Miércoles 12/08*****.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La Diada.</td>
-<td class="cuerpo_tabla_izq">Domingo 13/09.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>La Diada.</td>
+<td>Domingo 13/09.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">La Mercè.</td>
-<td class="cuerpo_tabla_izq">Miércoles 23/09.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">La Mercè.</td>
+<td>Miércoles 23/09.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Jueves 24/09.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Jueves 24/09.</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 27/09.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Domingo 27/09.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">El Pilar.</td>
-<td class="cuerpo_tabla_izq">Viernes 9/10.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">El Pilar.</td>
+<td>Viernes 9/10.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 10/10.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Sábado 10/10.</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes 12/10.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Lunes 12/10.</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">La Inmaculada Concepción.</td>
-<td class="cuerpo_tabla_izq">Viernes 4/12.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T (L)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">La Inmaculada Concepción.</td>
+<td>Viernes 4/12.</td>
+<td>T</td>
+<td>T (L)</td>
+<td> </td>
+<td> </td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 5/12.</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M (L)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Sábado 5/12.</td>
+<td>M</td>
+<td>M (L)</td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Martes 8/12.</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T (B)</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Martes 8/12.</td>
+<td>T</td>
+<td>T (B)</td>
+<td> </td>
+<td> </td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Invierno.</td>
-<td class="cuerpo_tabla_izq">Sábados del 3/01 al 28/03 y del 28/11 al 26/12.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="2">Invierno.</td>
+<td>Sábados del 3/01 al 28/03 y del 28/11 al 26/12.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td>M</td>
+<td>M</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos y festivos del 4/01 al 29/03 y del 6/12 al 27/12.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Domingos y festivos del 4/01 al 29/03 y del 6/12 al 27/12.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>T</td>
+<td>T</td>
+<td>T</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Anual.</td>
-<td class="cuerpo_tabla_izq">Sábados.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">M</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="2">Anual.</td>
+<td>Sábados.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>M</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">T</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Domingos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>T</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="23">
-<p class="cita">Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas.</p>
-<p class="cita">Sentidos: B, hacia Barcelona; L, hacia Lérida;</p>
-<p class="cita">* C-35 del PK 28 al PK 32 dos sentidos;</p>
-<p class="cita">** del PK 84,5 al PK 210;</p>
-<p class="cita">*** AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 horas;</p>
-<p class="cita">**** Restricciones D, para conjuntos euromodulares;</p>
-<p class="cita">***** Del PK 265 al PK 344.</p>
+<p>Restricciones: M de 10 a 14 horas, T de 17 a 22 horas y D de 10 a 22 horas.</p>
+<p>Sentidos: B, hacia Barcelona; L, hacia Lérida;</p>
+<p>* C-35 del PK 28 al PK 32 dos sentidos;</p>
+<p>** del PK 84,5 al PK 210;</p>
+<p>*** AP-7 del PK 84 al PK 149 dos sentidos de 9 a 17 horas;</p>
+<p>**** Restricciones D, para conjuntos euromodulares;</p>
+<p>***** Del PK 265 al PK 344.</p>
 </td>
 </tr>
 </tfoot>
@@ -1719,101 +1674,96 @@ c) Maella, Mazaleón, Valdeltormo, Calaceite, Valjunquera, Torre del Compte, La 
 
 Además de las autopistas, autovías, vías desdobladas y vías preferentes que tienen una restricción anual en los términos establecidos en el apartado 10, se añaden por demarcaciones las vías que se especifican a continuación en los horarios comprendidos en el siguiente cuadro:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Horario</th>
+<th> </th>
+<th>Día</th>
+<th>Horario</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Semana Santa.</td>
-<td class="cuerpo_tabla_izq">Jueves Santo 2/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="5">Semana Santa.</td>
+<td>Jueves Santo 2/04.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Viernes Santo 3/04.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Viernes Santo 3/04.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábado 4/04 (solo Girona).</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Sábado 4/04 (solo Girona).</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingo 5/04.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Domingo 5/04.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Lunes de Pascua 6/04.</td>
-<td class="cuerpo_tabla_centro">D</td>
+<td>Lunes de Pascua 6/04.</td>
+<td>D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Junio.</td>
-<td class="cuerpo_tabla_izq">Viernes.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Junio.</td>
+<td>Viernes.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábados.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Sábados.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_centro">T(*)</td>
+<td>Domingos.</td>
+<td>T(*)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Julio.</td>
-<td class="cuerpo_tabla_izq">Viernes.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Julio.</td>
+<td>Viernes.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábados.</td>
-<td class="cuerpo_tabla_centro">D</td>
+<td>Sábados.</td>
+<td>D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_centro">D</td>
+<td>Domingos.</td>
+<td>D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Agosto.</td>
-<td class="cuerpo_tabla_izq">Viernes.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Agosto.</td>
+<td>Viernes.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábados.</td>
-<td class="cuerpo_tabla_centro">D</td>
+<td>Sábados.</td>
+<td>D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_centro">D</td>
+<td>Domingos.</td>
+<td>D</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Septiembre.</td>
-<td class="cuerpo_tabla_izq">Viernes.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Septiembre.</td>
+<td>Viernes.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sábados.</td>
-<td class="cuerpo_tabla_centro">M</td>
+<td>Sábados.</td>
+<td>M</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Domingos.</td>
-<td class="cuerpo_tabla_centro">T(*)</td>
+<td>Domingos.</td>
+<td>T(*)</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">M: Restricciones de las 10 a las 14 horas.</p>
-<p class="cita">T: Restricciones de las 17 a las 22 horas.</p>
-<p class="cita">D: Restricciones de las 10 a las 22 horas.</p>
-<p class="cita">(*) Para las vías de Girona comprendidas en este anexo E, horario D.</p>
+<p>M: Restricciones de las 10 a las 14 horas.</p>
+<p>T: Restricciones de las 17 a las 22 horas.</p>
+<p>D: Restricciones de las 10 a las 22 horas.</p>
+<p>(*) Para las vías de Girona comprendidas en este anexo E, horario D.</p>
 </td>
 </tr>
 </tfoot>

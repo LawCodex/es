@@ -1892,12 +1892,6 @@ Se habilita al Gobierno para que apruebe las normas oportunas para facilitar la 
 
 **(Derogada)**
 
-> Téngase en cuenta que esta disposición se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.f) del Real Decreto-ley 1/2023, de 10 de enero, [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625), según establece su disposición final 13.
-
-> Redacción anterior:
-
-> "Se establece una reducción del 30% de la cuota empresarial a la Seguridad Social por contingencias comunes en la cotización relativa al personal investigador contratado bajo la modalidad de contrato predoctoral establecida en el artículo 21 de esta ley, que quedará acogido al Régimen General de la Seguridad Social."
-
 > Se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.f) del Real Decreto-ley 1/2023, de 10 de enero. [Ref. BOE-A-2023-625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-625)
 
 ###### Disposición adicional decimonovena. Compensación económica por obras de carácter intelectual.

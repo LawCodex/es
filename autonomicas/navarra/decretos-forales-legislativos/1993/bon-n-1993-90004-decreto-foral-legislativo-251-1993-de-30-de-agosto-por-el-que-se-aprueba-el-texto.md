@@ -725,20 +725,6 @@ Asimismo, los restantes técnicos de Hacienda adscritos al Departamento de Econo
 
 Las cantidades que se perciban en concepto de complemento de productividad durante un determinado período de tiempo no generarán derechos adquiridos ni surtirán efectos respecto a las valoraciones o apreciaciones correspondientes a períodos sucesivos.
 
-> Téngase en cuenta que esta última actualización del apartado 4, establecida por el art. único de la Ley Foral 13/2024, de 30 de septiembre, [Ref. BOE-A-2024-21594](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21594), entra en vigor el 1 de enero de 2025, según determina su disposición final.
-
-> Redacción anterior:
-
-> "4. Los funcionarios adscritos al Servicio de Inspección Tributaria del Departamento de Economía y Hacienda que realicen efectivamente funciones inspectoras podrán percibir un complemento de productividad que retribuirá el especial rendimiento, la actuación extraordinaria y el interés o iniciativa con que los mencionados funcionarios desempeñen su cometido.
-
-> La cuantía de dicho complemento no podrá exceder del 55 por 100 del sueldo inicial del correspondiente nivel.
-
-> La apreciación de las circunstancias a que se refiere el apartado anterior deberá realizarse en función de elementos objetivos relacionados directamente con la función inspectora y vinculados a la consecución de los objetivos y resultados que se establezcan por el Consejero de Economía y Hacienda.
-
-> Asimismo, los restantes Técnicos de Hacienda adscritos al Departamento de Economía y Hacienda podrán percibir este complemento de productividad, que no podrá exceder del 15 por 100 del sueldo inicial del correspondiente nivel, y que estará vinculado a la consecución de los objetivos y resultados que se establezcan por el Consejero del citado Departamento.
-
-> Las cantidades que se perciban en concepto de complemento de productividad durante un determinado período de tiempo no generarán derechos adquiridos ni surtirán efectos respecto a las valoraciones o apreciaciones correspondientes a períodos sucesivos."
-
 5\. Los funcionarios de las Administraciones Públicas de Navarra pertenecientes a los niveles C, D y E podrán percibir un complemento, cuya cuantía será fijada por las Administraciones Públicas al aprobar sus respectivas plantillas orgánicas, sin que, en ningún caso, pueda exceder el 15 por 100 del sueldo inicial del correspondiente nivel.
 
 6\. De acuerdo con lo establecido en el presente Estatuto y en sus disposiciones reglamentarias, los funcionarios podrán percibir, además, las siguientes retribuciones:
@@ -2092,14 +2078,6 @@ Asimismo, se mantendrá el derecho a esta reducción de jornada hasta que la per
 10\. En ningún caso un mismo menor podrá dar derecho a más de una licencia de las reguladas en este artículo.
 
 11\. La concesión de esta licencia en la Administración de la Comunidad Foral de Navarra y sus organismos autónomos se efectuará previo informe emitido por la Dirección General de Función Pública tras la verificación del cumplimiento de los requisitos fijados para el disfrute de la misma.
-
-> Téngase en cuenta que esta modificación, establecida por el art. único de la Ley Foral 15/2024, de 14 de octubre. [Ref. BOE-A-2024-23181](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-23181), entra en vigor el 1 de enero de 2025, según determina su disposición final.
-
-> Redacción anterior:
-
-> "**Disposición adicional vigésima cuarta. Modificación del porcentaje máximo de reducción de jornada en la licencia retribuida por cuidado de hijo menor de edad afectado por cáncer u otra enfermedad grave.**
-
-> El personal funcionario tendrá derecho a una reducción de la jornada de trabajo de la mitad de su duración, sin reducción de las retribuciones, para el cuidado del hijo o hija menor de edad afectado por cáncer o por otra enfermedad grave que requiera la necesidad de su cuidado directo, continuo y permanente, durante el tratamiento continuado de la enfermedad, haya precisado o no de hospitalización previa. Excepcionalmente, la reducción de jornada podrá alcanzar un porcentaje de hasta el 99,99 por ciento, cuando se acredite debidamente su necesidad para el cumplimiento de la finalidad de la licencia."
 
 > Se modifica por el art. único de la Ley Foral 15/2024, de 14 de octubre. [Ref. BOE-A-2024-23181](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-23181)
 

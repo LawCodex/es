@@ -123,115 +123,115 @@ Las jornadas, encuentros y cualquier otra actividad de estas características qu
 
 2\. Con carácter general, las actividades formativas se ajustarán, en cuanto a duración y número de participantes, a lo que a continuación se establece:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Tipo de actividad</p>
+<p>Tipo de actividad</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Participantes</p>
+<p>Participantes</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Horas</p>
+<p>Horas</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo</p>
+<p>Máximo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </td>
 <td>
-<p class="cabeza_tabla">Máximo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Curso (presencial)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100</p>
+<p>Máximo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Curso (en red/mixto)</p>
+<p>Curso (presencial)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Seminario</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50</p>
+<p>100</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grupo de trabajo</p>
+<p>Curso (en red/mixto)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60</p>
+<p>150</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Congreso</p>
+<p>Seminario</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40</p>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grupo de trabajo</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Congreso</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>40</p>
 </td>
 </tr>
 </table>

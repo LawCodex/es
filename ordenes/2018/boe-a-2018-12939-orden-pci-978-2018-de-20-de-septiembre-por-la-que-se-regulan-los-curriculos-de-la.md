@@ -788,349 +788,319 @@ A continuación, se relacionan, por cursos y módulos, las materias de enseñanz
 
 Curso: 1.º
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación militar</p>
+<p>Formación militar</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Semanas/Horas</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Semanas/Horas</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Instrucción y Adiestramiento de carácter general.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2 semanas</td>
-<td class="cuerpo_tabla_izq">Fase de acogida, Orientación y adaptación a la vida militar.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="4">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td rowspan="2">Instrucción y Adiestramiento de carácter general.</td>
+<td> </td>
+<td>2 semanas</td>
+<td>Fase de acogida, Orientación y adaptación a la vida militar.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">7 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento I.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td>7 semanas</td>
+<td>Instrucción y adiestramiento I.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física I.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Formación física.</td>
+<td> </td>
+<td>3 semanas</td>
+<td>Formación física I.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Orden cerrado.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">0,5 semanas</td>
-<td class="cuerpo_tabla_izq">Orden cerrado I.</td>
-<td class="cuerpo_tabla_centro"> </td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="5">FORMACIÓN MILITAR GENERAL.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">FORMACIÓN BÁSICA.</td>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Formación militar básica I.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Orden cerrado.</td>
+<td> </td>
+<td>0,5 semanas</td>
+<td>Orden cerrado I.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1,5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Formación militar básica II.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="5">FORMACIÓN MILITAR GENERAL.</td>
+<td rowspan="2">FORMACIÓN BÁSICA.</td>
+<td>1,5</td>
+<td> </td>
+<td>Formación militar básica I.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">FORMACIÓN MILITAR.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Formación militar I.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1,5</td>
+<td> </td>
+<td>Formación militar básica II.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Formación militar II.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">FORMACIÓN MILITAR.</td>
+<td>2</td>
+<td> </td>
+<td>Formación militar I.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2,5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Formación militar III.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2,5</td>
+<td> </td>
+<td>Formación militar II.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro">10<sup>1</sup></td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td>2,5</td>
+<td> </td>
+<td>Formación militar III.</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="2"> TOTALES.</td>
+<td>10<sup>1</sup></td>
+<td>12,5</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">(1) La carga de trabajo correspondiente al módulo «Formación Militar General» está repartida en diferentes asignaturas que se imparten en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo. Por tanto, el total de 10 ECTS especificados en este módulo no computan en la carga de trabajo total del curso 1.º.</p>
+<p>(1) La carga de trabajo correspondiente al módulo «Formación Militar General» está repartida en diferentes asignaturas que se imparten en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo. Por tanto, el total de 10 ECTS especificados en este módulo no computan en la carga de trabajo total del curso 1.º.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+<p>Formación en Grado en Ciencias de la Seguridad Pública</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción<sup>(2)</sup></th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Breve descripción<sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
-<td class="cuerpo_tabla_izq">Psicología.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Psicología.</td>
-<td class="cuerpo_tabla_izq">Cambio y Liderazgo. Modelos y teorías del Liderazgo. Reales Ordenanzas de las FAS. Procesos psicosociales. Normas de Comportamiento. Protocolo y comportamiento social. Autoliderazgo. Inteligencia emocional.</td>
+<td>TÉCNICAS DE MANDO.</td>
+<td>Psicología.</td>
+<td>6</td>
+<td>Psicología.</td>
+<td>Cambio y Liderazgo. Modelos y teorías del Liderazgo. Reales Ordenanzas de las FAS. Procesos psicosociales. Normas de Comportamiento. Protocolo y comportamiento social. Autoliderazgo. Inteligencia emocional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA.</td>
-<td class="cuerpo_tabla_izq">Tecnología aplicada a la Defensa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Defensa I.</td>
-<td class="cuerpo_tabla_izq">"Tecnología energética y de materiales Sistemas individuales y colectivos de uso en el ET. Municiones y explosivos. Helicópteros y Drones. Medios de Transmisión y ópticos.".</td>
+<td rowspan="2">PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA.</td>
+<td>Tecnología aplicada a la Defensa.</td>
+<td>6</td>
+<td>Tecnologías aplicadas a la Defensa I.</td>
+<td>"Tecnología energética y de materiales Sistemas individuales y colectivos de uso en el ET. Municiones y explosivos. Helicópteros y Drones. Medios de Transmisión y ópticos.".</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa I.</td>
-<td class="cuerpo_tabla_izq">Conceptos básicos de topografía y NBQ. Doctrina, Entorno operativo, Fundamentos de Táctica.</td>
+<td>Procedimientos aplicados a la Defensa.</td>
+<td>6</td>
+<td>Procedimientos aplicados a la Defensa I.</td>
+<td>Conceptos básicos de topografía y NBQ. Doctrina, Entorno operativo, Fundamentos de Táctica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CIENTÍFICO- TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_izq">Matemáticas.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Matemáticas I.</td>
-<td class="cuerpo_tabla_izq">Cálculo diferencial. Cálculo integral.</td>
+<td rowspan="3">CIENTÍFICO- TECNOLÓGICO.</td>
+<td>Matemáticas.</td>
+<td>6</td>
+<td>Matemáticas I.</td>
+<td>Cálculo diferencial. Cálculo integral.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Física.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Fundamentos de mecánica.</td>
-<td class="cuerpo_tabla_izq">Estática, cinemática y dinámica y sólido rígido.</td>
+<td>Física.</td>
+<td>6</td>
+<td>Fundamentos de mecánica.</td>
+<td>Estática, cinemática y dinámica y sólido rígido.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Informática.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Informática.</td>
-<td class="cuerpo_tabla_izq">Nociones de Estructura de computadores, nociones de software, programación básica.</td>
+<td>Informática.</td>
+<td>6</td>
+<td>Informática.</td>
+<td>Nociones de Estructura de computadores, nociones de software, programación básica.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Ciencias Sociales.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Historia.</td>
-<td class="cuerpo_tabla_izq">Historia de las Fuerzas Armadas en el contexto de la evolución de la sociedad, la Defensa y la acción exterior de la España contemporánea. Historia de la Guardia Civil.</td>
+<td rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td rowspan="2">Ciencias Sociales.</td>
+<td>6</td>
+<td>Historia.</td>
+<td>Historia de las Fuerzas Armadas en el contexto de la evolución de la sociedad, la Defensa y la acción exterior de la España contemporánea. Historia de la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Economía.</td>
-<td class="cuerpo_tabla_izq">Introducción a la economía (conceptos básicos: familias, empresas y sector público), Presupuesto y gasto público (PGE y defensa), Gestión económica y financiera en el entorno de la Defensa, Toma de decisiones.</td>
+<td>6</td>
+<td>Economía.</td>
+<td>Introducción a la economía (conceptos básicos: familias, empresas y sector público), Presupuesto y gasto público (PGE y defensa), Gestión económica y financiera en el entorno de la Defensa, Toma de decisiones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciencias Jurídicas.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho I.</td>
-<td class="cuerpo_tabla_izq">Teoría General del Derecho. Derecho Constitucional. Derecho Administrativo General (Principios Generales, Procedimiento Administrativo, Nociones sobre Régimen Disciplinario Militar). Introducción al Derecho Penal.</td>
+<td>Ciencias Jurídicas.</td>
+<td>6</td>
+<td>Derecho I.</td>
+<td>Teoría General del Derecho. Derecho Constitucional. Derecho Administrativo General (Principios Generales, Procedimiento Administrativo, Nociones sobre Régimen Disciplinario Militar). Introducción al Derecho Penal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
-<td class="cuerpo_tabla_izq">Habilidades comunicativas que capaciten para describir y narrar usando el inglés. Descriptores correspondientes a los niveles B1/B2 del CEFR (Marco Común Europeo de Referencia) y niveles SLP 2 del STANAG 6001. Conocimiento y uso de la terminología especifica militar especifica de la formación militar recibida en primer curso.</td>
+<td>FORMACIÓN EN LENGUA INGLESA.</td>
+<td>Lengua Inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa I.</td>
+<td>Habilidades comunicativas que capaciten para describir y narrar usando el inglés. Descriptores correspondientes a los niveles B1/B2 del CEFR (Marco Común Europeo de Referencia) y niveles SLP 2 del STANAG 6001. Conocimiento y uso de la terminología especifica militar especifica de la formación militar recibida en primer curso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2"> TOTALES.</td>
+<td>60</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 Curso: 2.º
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación militar</p>
+<p>Formación militar</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo</p>
+<th>
+<p>Módulo</p>
 </th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Semanas/Horas</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Semanas/Horas</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento de carácter general.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro">6 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento II.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td>Instrucción y adiestramiento de carácter general.</td>
+<td> </td>
+<td>6 semanas</td>
+<td>Instrucción y adiestramiento II.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro">3 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física II.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Formación física.</td>
+<td> </td>
+<td>3 semanas</td>
+<td>Formación física II.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Orden cerrado.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro">0,5 semanas</td>
-<td class="cuerpo_tabla_izq">Orden cerrado II.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Orden cerrado.</td>
+<td> </td>
+<td>0,5 semanas</td>
+<td>Orden cerrado II.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_coma"> </td>
-<td class="cuerpo_tabla_centro">9,5</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> TOTALES.</td>
+<td> </td>
+<td>9,5</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+<p>Formación en Grado en Ciencias de la Seguridad Pública</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción<sup>(2)</sup></th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Breve descripción<sup>(2)</sup></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">TÉCNICAS DE MANDO.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Liderazgo.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Liderazgo I.</td>
-<td class="cuerpo_tabla_izq">Gestión de equipos. Mediación y negociación. Delegación. Gestión del Tiempo.</td>
+<td rowspan="3">TÉCNICAS DE MANDO.</td>
+<td rowspan="2">Liderazgo.</td>
+<td>6</td>
+<td>Liderazgo I.</td>
+<td>Gestión de equipos. Mediación y negociación. Delegación. Gestión del Tiempo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Liderazgo II.</td>
-<td class="cuerpo_tabla_izq">Comunicación oral y escrita, comunicación organizacional, comunicación pública, comunicación digital. Técnicas pedagógicas. Orientación y tutoría. Metodología de la investigación.</td>
+<td>6</td>
+<td>Liderazgo II.</td>
+<td>Comunicación oral y escrita, comunicación organizacional, comunicación pública, comunicación digital. Técnicas pedagógicas. Orientación y tutoría. Metodología de la investigación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Preparación psicofísica.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Preparación psicofísica.</td>
-<td class="cuerpo_tabla_izq">Preparación psicofísica, Actividad física y salud, Entrenamiento físico y rendimiento, Condición física.</td>
+<td>Preparación psicofísica.</td>
+<td>6</td>
+<td>Preparación psicofísica.</td>
+<td>Preparación psicofísica, Actividad física y salud, Entrenamiento físico y rendimiento, Condición física.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA.</td>
-<td class="cuerpo_tabla_izq">Tecnología aplicada a la Defensa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Defensa II.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Tecnología Eléctrica y electrónica.</p>
-<p class="cuerpo_tabla_izq">Requerimientos energéticos sostenibles de instalaciones.</p>
+<td rowspan="2">PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA.</td>
+<td>Tecnología aplicada a la Defensa.</td>
+<td>6</td>
+<td>Tecnologías aplicadas a la Defensa II.</td>
+<td>
+<p>Tecnología Eléctrica y electrónica.</p>
+<p>Requerimientos energéticos sostenibles de instalaciones.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Defensa II.</td>
-<td class="cuerpo_tabla_izq">Capacidades de Unidades orgánicas, Acciones Tácticas, Planeamiento de las operaciones.</td>
+<td>Procedimientos aplicados a la Defensa.</td>
+<td>6</td>
+<td>Procedimientos aplicados a la Defensa II.</td>
+<td>Capacidades de Unidades orgánicas, Acciones Tácticas, Planeamiento de las operaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">CIENTÍFICO- TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_izq">Matemáticas.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Matemáticas II.</td>
-<td class="cuerpo_tabla_izq">Álgebra lineal.</td>
+<td rowspan="4">CIENTÍFICO- TECNOLÓGICO.</td>
+<td>Matemáticas.</td>
+<td>6</td>
+<td>Matemáticas II.</td>
+<td>Álgebra lineal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digitalización.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnología.</td>
-<td class="cuerpo_tabla_izq">Tecnología de sensores y sistemas de procesamiento de la información sensorial (GPS, GNSS, visión artificial) Sistemas de Información Geográfica y Teledetección.</td>
+<td>Digitalización.</td>
+<td>6</td>
+<td>Tecnología.</td>
+<td>Tecnología de sensores y sistemas de procesamiento de la información sensorial (GPS, GNSS, visión artificial) Sistemas de Información Geográfica y Teledetección.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estadística.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Estadística.</td>
-<td class="cuerpo_tabla_izq">Estadística descriptiva. Espacios de probabilidad. Variables y vectores aleatorios. Inferencia estadística.</td>
+<td>Estadística.</td>
+<td>6</td>
+<td>Estadística.</td>
+<td>Estadística descriptiva. Espacios de probabilidad. Variables y vectores aleatorios. Inferencia estadística.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciencias jurídicas.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho II.</td>
-<td class="cuerpo_tabla_izq">Derecho Penal Militar, Derecho Internacional de los Conflictos Armados.</td>
+<td>Ciencias jurídicas.</td>
+<td>6</td>
+<td>Derecho II.</td>
+<td>Derecho Penal Militar, Derecho Internacional de los Conflictos Armados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
-<td class="cuerpo_tabla_izq">Habilidades comunicativas que capaciten para opinar y argumentar. Descriptores correspondientes a los niveles B1/B2 del CEFR y niveles SLP 2 del STANAG 6001.</td>
+<td>FORMACIÓN EN LENGUA INGLESA.</td>
+<td>Lengua Inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa II.</td>
+<td>Habilidades comunicativas que capaciten para opinar y argumentar. Descriptores correspondientes a los niveles B1/B2 del CEFR y niveles SLP 2 del STANAG 6001.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> TOTALES.</td>
+<td>60</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
@@ -1139,482 +1109,437 @@ Curso: 2.º
 
 Curso: 3.º
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación militar</p>
+<p>Formación militar</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Semanas</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Semanas</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">9 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento III.</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden Cerrado.</td>
+<td rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td>Instrucción y adiestramiento.</td>
+<td> </td>
+<td>9 semanas</td>
+<td>Instrucción y adiestramiento III.</td>
+<td>Ejercicios y prácticas integradas. Orden Cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física III.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación física.</td>
+<td> </td>
+<td>3 semanas</td>
+<td>Formación física III.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> TOTALES.</td>
+<td> </td>
+<td>12</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+<p>Formación en Grado en Ciencias de la Seguridad Pública</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
-<td class="cuerpo_tabla_izq">Liderazgo.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Liderazgo III.</td>
-<td class="cuerpo_tabla_izq">Habilidades directivas. Organización, Planificación, Motivación, Mando, Control. Destrezas comunicativas para el liderazgo: comunicación interpersonal, organizacional y corporativa; oratoria y relaciones con los medios, comunicación de crisis y técnicas pedagógicas.</td>
+<td>TÉCNICAS DE MANDO.</td>
+<td>Liderazgo.</td>
+<td>3</td>
+<td>Liderazgo III.</td>
+<td>Habilidades directivas. Organización, Planificación, Motivación, Mando, Control. Destrezas comunicativas para el liderazgo: comunicación interpersonal, organizacional y corporativa; oratoria y relaciones con los medios, comunicación de crisis y técnicas pedagógicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">TÉCNICO- PROFESIONAL.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Procedimientos aplicados a la seguridad pública.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Seguridad Ciudadana I.</td>
-<td class="cuerpo_tabla_izq">Derechos y libertades fundamentales, policía de seguridad, potestades generales y especiales, régimen sancionador de la seguridad.</td>
+<td rowspan="3">TÉCNICO- PROFESIONAL.</td>
+<td rowspan="2">Procedimientos aplicados a la seguridad pública.</td>
+<td>6</td>
+<td>Seguridad Ciudadana I.</td>
+<td>Derechos y libertades fundamentales, policía de seguridad, potestades generales y especiales, régimen sancionador de la seguridad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Sistemas de Gestión y Documentación en la Guardia Civil.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Sistemas de información aplicables en la gestión profesional.</p>
-<p class="cuerpo_tabla_izq">Aplicación en la Guardia Civil. Sistemas SIGO, NERHU, ALFIL, INVES.</p>
+<td>6</td>
+<td>Sistemas de Gestión y Documentación en la Guardia Civil.</td>
+<td>
+<p>Sistemas de información aplicables en la gestión profesional.</p>
+<p>Aplicación en la Guardia Civil. Sistemas SIGO, NERHU, ALFIL, INVES.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recursos Humanos.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH I.</td>
-<td class="cuerpo_tabla_izq">Régimen de Personal. Régimen de derechos y deberes. Igualdad.</td>
+<td>Recursos Humanos.</td>
+<td>6</td>
+<td>Estatuto de la Guardia Civil y Gestión de los RRHH I.</td>
+<td>Régimen de Personal. Régimen de derechos y deberes. Igualdad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIENCIAS HUMANÍSTICAS.</td>
-<td class="cuerpo_tabla_izq">Humanidades.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Historia de la Guardia Civil y Deontología Profesional.</td>
-<td class="cuerpo_tabla_izq">Historia de la Guardia Civil. Código de conducta. Principios básicos de actuación.</td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="5">CIENTÍFICO TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_izq">Criminalística.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Ciencias Forenses.</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas. Sistemas de investigación. Muestras biológicas. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense.</td>
+<td>CIENCIAS HUMANÍSTICAS.</td>
+<td>Humanidades.</td>
+<td>3</td>
+<td>Historia de la Guardia Civil y Deontología Profesional.</td>
+<td>Historia de la Guardia Civil. Código de conducta. Principios básicos de actuación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estadística.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Análisis Estadístico del Delito.</td>
-<td class="cuerpo_tabla_izq">Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología.</td>
+<td rowspan="5">CIENTÍFICO TECNOLÓGICO.</td>
+<td>Criminalística.</td>
+<td>6</td>
+<td>Ciencias Forenses.</td>
+<td>Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas. Sistemas de investigación. Muestras biológicas. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad I.</td>
-<td class="cuerpo_tabla_izq">Gestión de la seguridad Física. Planes de Seguridad de infraestructuras.</td>
+<td>Estadística.</td>
+<td>3</td>
+<td>Análisis Estadístico del Delito.</td>
+<td>Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digitalización.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Digitalización I.</td>
-<td class="cuerpo_tabla_izq">Introducción a la Transformación Digital, Introducción a los Sistemas de Información, Modelos de da tos. Definición, manipulación y recuperación en BD: Introducción a SQL.</td>
+<td>Tecnologías aplicadas a la Seguridad.</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la Seguridad I.</td>
+<td>Gestión de la seguridad Física. Planes de Seguridad de infraestructuras.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Telecomunicaciones.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Teoría de las Telecomunicaciones aplicada a la Seguridad.</td>
-<td class="cuerpo_tabla_izq">Fundamentos de los sistemas de comunicaciones. Técnicas y sistemas de transmisión. Teoría de la comunicación. Radiocomunicación. Radiación, propagación y procesado de señales. Redes de comunicaciones (red celular, tetra, tetrapol, GSM, UMTS, móviles terrenas y satelitales).</td>
+<td>Digitalización.</td>
+<td>3</td>
+<td>Digitalización I.</td>
+<td>Introducción a la Transformación Digital, Introducción a los Sistemas de Información, Modelos de da tos. Definición, manipulación y recuperación en BD: Introducción a SQL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Ciencias Jurídicas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
-<td class="cuerpo_tabla_izq">Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Fundamentos básicos de Derecho Civil. Casos prácticos y análisis jurisprudencial.</td>
+<td>Telecomunicaciones.</td>
+<td>3</td>
+<td>Teoría de las Telecomunicaciones aplicada a la Seguridad.</td>
+<td>Fundamentos de los sistemas de comunicaciones. Técnicas y sistemas de transmisión. Teoría de la comunicación. Radiocomunicación. Radiación, propagación y procesado de señales. Redes de comunicaciones (red celular, tetra, tetrapol, GSM, UMTS, móviles terrenas y satelitales).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
-<td class="cuerpo_tabla_izq">Análisis jurídico de las tipologías delictivas. Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos de los funcionarios y contra la colectividad. Casos prácticos y análisis jurisprudencial.</td>
+<td rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td rowspan="3">Ciencias Jurídicas.</td>
+<td>3</td>
+<td>Derecho Penal I.</td>
+<td>Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Fundamentos básicos de Derecho Civil. Casos prácticos y análisis jurisprudencial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Instituciones y Regímenes Internacionales.</td>
-<td class="cuerpo_tabla_izq">El Derecho internacional. Las Organizaciones internacionales. La Unión Europea. España en las organizaciones internacionales. Las competencias de los Estados sobre las personas. Régimen de los espacios bajo jurisdicción estatal. Régimen de los espacios internacionales y patrimonio de la humanidad. La protección internacional del medio ambiente. Principios y reglas de derecho internacional económico.</td>
+<td>6</td>
+<td>Derecho Penal II.</td>
+<td>Análisis jurídico de las tipologías delictivas. Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos de los funcionarios y contra la colectividad. Casos prácticos y análisis jurisprudencial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
-<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+<td>3</td>
+<td>Instituciones y Regímenes Internacionales.</td>
+<td>El Derecho internacional. Las Organizaciones internacionales. La Unión Europea. España en las organizaciones internacionales. Las competencias de los Estados sobre las personas. Régimen de los espacios bajo jurisdicción estatal. Régimen de los espacios internacionales y patrimonio de la humanidad. La protección internacional del medio ambiente. Principios y reglas de derecho internacional económico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td>FORMACIÓN EN LENGUA INGLESA.</td>
+<td>Lengua Inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa III.</td>
+<td>Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+</tr>
+<tr>
+<td colspan="2"> TOTALES.</td>
+<td>60</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
 Curso: 4.º
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación militar</p>
+<p>Formación militar</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Semanas</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Semanas</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">9 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento IV.</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+<td rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td>Instrucción y adiestramiento.</td>
+<td> </td>
+<td>9 semanas</td>
+<td>Instrucción y adiestramiento IV.</td>
+<td>Ejercicios y prácticas integradas. Orden cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física IV.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación física.</td>
+<td> </td>
+<td>3 semanas</td>
+<td>Formación física IV.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> TOTALES.</td>
+<td> </td>
+<td>12</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación en Grado en Ciencias de la Seguridad Pública</p>
+<p>Formación en Grado en Ciencias de la Seguridad Pública</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">CIENTÍFICO TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad II.</td>
-<td class="cuerpo_tabla_izq">Introducción a la ciberseguridad. Mecanismos y protocolos criptográficos. Autenticación. Control de accesos. Seguridad en redes. Seguridad en el s oftware. Vulnerabilidades. Malware. Regulación en privacidad y ciberseguridad.</td>
+<td rowspan="2">CIENTÍFICO TECNOLÓGICO.</td>
+<td>Tecnologías aplicadas a la Seguridad.</td>
+<td>6</td>
+<td>Tecnologías aplicadas a la Seguridad II.</td>
+<td>Introducción a la ciberseguridad. Mecanismos y protocolos criptográficos. Autenticación. Control de accesos. Seguridad en redes. Seguridad en el s oftware. Vulnerabilidades. Malware. Regulación en privacidad y ciberseguridad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digitalización.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Digitalización II.</td>
-<td class="cuerpo_tabla_izq">Introducción a la inteligencia artificial y Bigdata, Aprendizaje automático (Aprendizaje supervisado, No supervisado), Clasificación, Regresión y Clustering. Series temporales.</td>
+<td>Digitalización.</td>
+<td>3</td>
+<td>Digitalización II.</td>
+<td>Introducción a la inteligencia artificial y Bigdata, Aprendizaje automático (Aprendizaje supervisado, No supervisado), Clasificación, Regresión y Clustering. Series temporales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">TÉCNICO- PROFESIONAL.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Procedimientos aplicados a la seguridad pública.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Seguridad Ciudadana II.</td>
-<td class="cuerpo_tabla_izq">Seguridad vial. Armas y Explosivos. Actuación operativa. Prevención delincuencia.</td>
+<td rowspan="6">TÉCNICO- PROFESIONAL.</td>
+<td rowspan="3">Procedimientos aplicados a la seguridad pública.</td>
+<td>6</td>
+<td>Seguridad Ciudadana II.</td>
+<td>Seguridad vial. Armas y Explosivos. Actuación operativa. Prevención delincuencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Fiscal y Fronteras.</td>
-<td class="cuerpo_tabla_izq">Sistema fiscal europeo y español. Organismos intervinientes. Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Sistema de fronteras en la Unión Europea. Schengen. Inmigración irregular.</td>
+<td>3</td>
+<td>Fiscal y Fronteras.</td>
+<td>Sistema fiscal europeo y español. Organismos intervinientes. Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Sistema de fronteras en la Unión Europea. Schengen. Inmigración irregular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Especialidades en la Guardia Civil.</td>
-<td class="cuerpo_tabla_izq">La especialización de las funciones policiales en el ámbito nacional e internacional y su aplicación en la Guardia Civil.</td>
+<td>3</td>
+<td>Especialidades en la Guardia Civil.</td>
+<td>La especialización de las funciones policiales en el ámbito nacional e internacional y su aplicación en la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Recursos Humanos.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH II.</td>
-<td class="cuerpo_tabla_izq">Régimen de Personal: Régimen profesional y derecho disciplinario.</td>
+<td rowspan="2">Recursos Humanos.</td>
+<td>6</td>
+<td>Estatuto de la Guardia Civil y Gestión de los RRHH II.</td>
+<td>Régimen de Personal: Régimen profesional y derecho disciplinario.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH III.</td>
-<td class="cuerpo_tabla_izq">Prevención de Riesgos Laborales. Calidad. Conciliación.</td>
+<td>3</td>
+<td>Estatuto de la Guardia Civil y Gestión de los RRHH III.</td>
+<td>Prevención de Riesgos Laborales. Calidad. Conciliación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recursos materiales y financieros.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Gestión de recursos materiales y financieros en la Guardia Civil.</td>
-<td class="cuerpo_tabla_izq">Modalidades de gestión de recursos materiales y financieros. Tendencias e innovación y su aplicación en la Guardia Civil.</td>
+<td>Recursos materiales y financieros.</td>
+<td>6</td>
+<td>Gestión de recursos materiales y financieros en la Guardia Civil.</td>
+<td>Modalidades de gestión de recursos materiales y financieros. Tendencias e innovación y su aplicación en la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TRABAJO FIN DE GRADO.</td>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
-<td class="cuerpo_tabla_izq">Desarrollo y defensa pública de un Trabajo Fin de Grado sobre materias de seguridad pública de nivel nacional e internacional aplicando metodología académica de acuerdo a las Directrices del Trabajo Fin de Grado aprobadas anualmente en la Comisión de Investigación CUGC-UC3M.</td>
+<td>TRABAJO FIN DE GRADO.</td>
+<td>Trabajo Fin de Grado.</td>
+<td>6</td>
+<td>Trabajo Fin de Grado.</td>
+<td>Desarrollo y defensa pública de un Trabajo Fin de Grado sobre materias de seguridad pública de nivel nacional e internacional aplicando metodología académica de acuerdo a las Directrices del Trabajo Fin de Grado aprobadas anualmente en la Comisión de Investigación CUGC-UC3M.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Ciencias jurídicas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo.</td>
-<td class="cuerpo_tabla_izq">El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos administrativos. Control de la actuación administrativa. El reglamento. La autotutela administrativa. El interés general. La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas.</td>
+<td rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td rowspan="2">Ciencias jurídicas.</td>
+<td>3</td>
+<td>Derecho Administrativo.</td>
+<td>El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos administrativos. Control de la actuación administrativa. El reglamento. La autotutela administrativa. El interés general. La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
-<td class="cuerpo_tabla_izq">Ordenamiento procesal español. Sistema judicial español. Procesos penales ordinarios y especiales. Presupuestos y objeto del proceso penal.</td>
+<td>6</td>
+<td>Derecho Procesal Penal.</td>
+<td>Ordenamiento procesal español. Sistema judicial español. Procesos penales ordinarios y especiales. Presupuestos y objeto del proceso penal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Administración pública de la seguridad.</td>
-<td class="cuerpo_tabla_izq">Organización constitucional y territorial del Estado. Organización del Ministerio del Interior, Secretaría de Estado de Seguridad y Guardia Civil. Organización de las Fuerzas Armadas.</td>
+<td>Organización y Geopolítica.</td>
+<td>3</td>
+<td>Administración pública de la seguridad.</td>
+<td>Organización constitucional y territorial del Estado. Organización del Ministerio del Interior, Secretaría de Estado de Seguridad y Guardia Civil. Organización de las Fuerzas Armadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa IV.</td>
-<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+<td>FORMACIÓN EN LENGUA INGLESA.</td>
+<td>Lengua Inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa IV.</td>
+<td>Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td colspan="2"> TOTALES.</td>
+<td>60</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 Curso: 5.º
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación militar</p>
+<p>Formación militar</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Semanas</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Semanas</th>
+<th>Asignatura</th>
+<th>Breve descripción</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
-<td class="cuerpo_tabla_izq">Instrucción y Adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">9 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento V.</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+<td rowspan="2">INSTRUCCIÓN Y ADIESTRAMIENTO.</td>
+<td>Instrucción y Adiestramiento.</td>
+<td> </td>
+<td>9 semanas</td>
+<td>Instrucción y adiestramiento V.</td>
+<td>Ejercicios y prácticas integradas. Orden cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación Física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">3 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física V.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación Física.</td>
+<td> </td>
+<td>3 semanas</td>
+<td>Formación física V.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> TOTALES.</td>
+<td> </td>
+<td>12</td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Formación de Cuerpo de Seguridad</p>
+<p>Formación de Cuerpo de Seguridad</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Breve descripción.</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Breve descripción.</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
-<td class="cuerpo_tabla_izq">Liderazgo.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Técnicas de Mando.</td>
-<td class="cuerpo_tabla_izq">Técnicas avanzadas de mando y resolución de conflictos.</td>
+<td>TÉCNICAS DE MANDO.</td>
+<td>Liderazgo.</td>
+<td>3</td>
+<td>Técnicas de Mando.</td>
+<td>Técnicas avanzadas de mando y resolución de conflictos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">
-<p class="cuerpo_tabla_izq">TÉCNICO-PROFESIONAL.</p>
+<td rowspan="9">
+<p>TÉCNICO-PROFESIONAL.</p>
 </td>
-<td class="cuerpo_tabla_izq">Procedimientos aplicados a la seguridad pública.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Dirección de Unidades de la Guardia Civil.</td>
-<td class="cuerpo_tabla_izq">Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección de los distintos tipos de servicios.</td>
+<td>Procedimientos aplicados a la seguridad pública.</td>
+<td>6</td>
+<td>Dirección de Unidades de la Guardia Civil.</td>
+<td>Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección de los distintos tipos de servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Procedimientos Operativos.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Inteligencia Policial.</td>
-<td class="cuerpo_tabla_izq">Aplicación de la inteligencia a la acción policial. Ciclo de Inteligencia Metodología, técnicas y procedimientos Materias clasificadas.</td>
+<td rowspan="6">Procedimientos Operativos.</td>
+<td>3</td>
+<td>Inteligencia Policial.</td>
+<td>Aplicación de la inteligencia a la acción policial. Ciclo de Inteligencia Metodología, técnicas y procedimientos Materias clasificadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Amenazas.</td>
-<td class="cuerpo_tabla_izq">Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC.</td>
+<td>6</td>
+<td>Amenazas.</td>
+<td>Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Cooperación Policial.</td>
-<td class="cuerpo_tabla_izq">Instrumentos de cooperación policial y judicial de la Unión Europea. Otros ámbitos de cooperación policial. Participación de la Guardia Civil en esta materia.</td>
+<td>6</td>
+<td>Cooperación Policial.</td>
+<td>Instrumentos de cooperación policial y judicial de la Unión Europea. Otros ámbitos de cooperación policial. Participación de la Guardia Civil en esta materia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
-<td class="cuerpo_tabla_izq">Policía Judicial. Incluye los cursos de Medicina Legal y de Policía Judicial.</td>
+<td>6</td>
+<td>Policía Judicial I.</td>
+<td>Policía Judicial. Incluye los cursos de Medicina Legal y de Policía Judicial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
-<td class="cuerpo_tabla_izq">Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
+<td>6</td>
+<td>Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
+<td>Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Sistema de Seguridad Nacional y Gestión de Crisis.</td>
-<td class="cuerpo_tabla_izq">Defensa y seguridad nacional. Gestión de crisis nacional e internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
+<td>3</td>
+<td>Sistema de Seguridad Nacional y Gestión de Crisis.</td>
+<td>Defensa y seguridad nacional. Gestión de crisis nacional e internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prácticas externas.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Prácticas Externas.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Prácticas externas.</td>
+<td>4</td>
+<td>Prácticas Externas.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Trabajo Fin de Estudios.</td>
+<td>6</td>
+<td>Trabajo Fin de Estudios.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Geopolítica.</td>
-<td class="cuerpo_tabla_izq">Actualidad nacional e internacional (Mundo Actual). Orígenes, evolución y características del orden mundial actual. Análisis de regiones geopolíticas.</td>
+<td rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td>Organización y Geopolítica.</td>
+<td>5</td>
+<td>Geopolítica.</td>
+<td>Actualidad nacional e internacional (Mundo Actual). Orígenes, evolución y características del orden mundial actual. Análisis de regiones geopolíticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Psicología.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Psicología Criminal.</td>
-<td class="cuerpo_tabla_izq">Psicología criminal. Patrones y procesos delictivos.</td>
+<td rowspan="2">Psicología.</td>
+<td>3</td>
+<td>Psicología Criminal.</td>
+<td>Psicología criminal. Patrones y procesos delictivos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Psicología Social y de las Organizaciones.</td>
-<td class="cuerpo_tabla_izq">Psicología social y de las organizaciones.</td>
+<td>3</td>
+<td>Psicología Social y de las Organizaciones.</td>
+<td>Psicología social y de las organizaciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> TOTALES.</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_der"> </td>
+<td colspan="2"> TOTALES.</td>
+<td>60</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1625,329 +1550,329 @@ Curso: 5.º
 
 A continuación se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo de los alumnos que hubieran ingresado por promoción profesional, mediante la modalidad de cambio de escala:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="6">Curso: 1º</th>
+<th colspan="6">Curso: 1º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+<th colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">SEMANAS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>SEMANAS</th>
+<th>ASIGNATURA</th>
+<th>BREVE DESCRIPCIÓN</th>
 </tr>
 </thead>
 <tbody>
 <tr> </tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="16">Formación de Cuerpo de Seguridad.</td>
-<td class="cuerpo_tabla_izq">Estadística.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Análisis estadístico del delito.</td>
-<td class="cuerpo_tabla_izq">Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología.</td>
+<tr>
+<td rowspan="16">Formación de Cuerpo de Seguridad.</td>
+<td>Estadística.</td>
+<td>6</td>
+<td> </td>
+<td>Análisis estadístico del delito.</td>
+<td>Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">Ciencias Sociales y Jurídicas.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad.</td>
-<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad en la Constitución Española de 1978. Las garantías de los derechos fundamentales. Suspensión de derechos. Análisis de ciertos derechos fundamentales con particular proyección sobre el orden público: Igualdad; Derechos de la esfera personal; Derechos de libertad personal y movilidad; Libertades públicas de reunión y asociación; Derechos de ámbito laboral.</td>
+<td rowspan="7">Ciencias Sociales y Jurídicas.</td>
+<td>6</td>
+<td> </td>
+<td>Derechos fundamentales y seguridad.</td>
+<td>Derechos fundamentales y seguridad en la Constitución Española de 1978. Las garantías de los derechos fundamentales. Suspensión de derechos. Análisis de ciertos derechos fundamentales con particular proyección sobre el orden público: Igualdad; Derechos de la esfera personal; Derechos de libertad personal y movilidad; Libertades públicas de reunión y asociación; Derechos de ámbito laboral.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
-<td class="cuerpo_tabla_izq">Introducción al Derecho Penal. Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Casos prácticos y análisis jurisprudencial. Prácticas.</td>
+<td>6</td>
+<td> </td>
+<td>Derecho Penal I.</td>
+<td>Introducción al Derecho Penal. Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Casos prácticos y análisis jurisprudencial. Prácticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
-<td class="cuerpo_tabla_izq">Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos contra la colectividad y de los funcionarios. Nuevas formas de delincuencia. Casos prácticos y análisis jurisprudencial. Prácticas.</td>
+<td>6</td>
+<td> </td>
+<td>Derecho Penal II.</td>
+<td>Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos contra la colectividad y de los funcionarios. Nuevas formas de delincuencia. Casos prácticos y análisis jurisprudencial. Prácticas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo I.</td>
-<td class="cuerpo_tabla_izq">El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos Administrativos. Control de la actuación administrativa Pública. El principio de legalidad en la actuación de las Administraciones Públicas. El reglamento. La autotutela administrativa. Aproximación al interés general y su composición con los derechos e intereses de los particulares.</td>
+<td>3</td>
+<td> </td>
+<td>Derecho Administrativo I.</td>
+<td>El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos Administrativos. Control de la actuación administrativa Pública. El principio de legalidad en la actuación de las Administraciones Públicas. El reglamento. La autotutela administrativa. Aproximación al interés general y su composición con los derechos e intereses de los particulares.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo II.</td>
-<td class="cuerpo_tabla_izq">La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas.</td>
+<td>3</td>
+<td> </td>
+<td>Derecho Administrativo II.</td>
+<td>La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Cooperación policial internacional.</td>
-<td class="cuerpo_tabla_izq">La sociedad internacional y su ordenamiento jurídico. Aplicación del derecho internacional. El derecho de los conflictos armados y las organizaciones internacionales. Cooperación de interés policial a nivel internacional. Instrumento de cooperación policial internacional. Instituciones internacionales y cooperación en la Unión Europea.</td>
+<td>6</td>
+<td> </td>
+<td>Cooperación policial internacional.</td>
+<td>La sociedad internacional y su ordenamiento jurídico. Aplicación del derecho internacional. El derecho de los conflictos armados y las organizaciones internacionales. Cooperación de interés policial a nivel internacional. Instrumento de cooperación policial internacional. Instituciones internacionales y cooperación en la Unión Europea.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Deontología profesional.</td>
-<td class="cuerpo_tabla_izq">Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil.</td>
+<td>2</td>
+<td> </td>
+<td>Deontología profesional.</td>
+<td>Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">Técnica Profesional e Investigación.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
-<td class="cuerpo_tabla_izq">La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial.</td>
+<td rowspan="7">Técnica Profesional e Investigación.</td>
+<td>2</td>
+<td> </td>
+<td>Policía Judicial I.</td>
+<td>La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación I.</td>
-<td class="cuerpo_tabla_izq">Iniciación en los sistemas informáticos de gestión de la Guardia Civil.</td>
+<td>3</td>
+<td> </td>
+<td>Sistemas de gestión y documentación I.</td>
+<td>Iniciación en los sistemas informáticos de gestión de la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la GC I.</td>
-<td class="cuerpo_tabla_izq">Prevención de delincuencia. Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. Control de masas.</td>
+<td>3</td>
+<td> </td>
+<td>Dirección y gestión de Unidades de la GC I.</td>
+<td>Prevención de delincuencia. Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. Control de masas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
-<td class="cuerpo_tabla_izq">Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras UE. Schengen. Inmigración irregular.</td>
+<td>3</td>
+<td> </td>
+<td>Fiscal, fronteras e inmigración.</td>
+<td>Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras UE. Schengen. Inmigración irregular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
-<td class="cuerpo_tabla_izq">Concepto de seguridad y estrategia. Desafíos, riesgos y amenazas que pueden afectar a la estabilidad, en el ámbito de las organizaciones de seguridad y defensa. Estrategias de seguridad de países y organizaciones. Líneas de acción. Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC.</td>
+<td>6</td>
+<td> </td>
+<td>Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
+<td>Concepto de seguridad y estrategia. Desafíos, riesgos y amenazas que pueden afectar a la estabilidad, en el ámbito de las organizaciones de seguridad y defensa. Estrategias de seguridad de países y organizaciones. Líneas de acción. Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Ciencias forenses I.</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas: Sistemas de investigación, muestras biológicas.</td>
+<td>3</td>
+<td> </td>
+<td>Ciencias forenses I.</td>
+<td>Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas: Sistemas de investigación, muestras biológicas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación I.</td>
-<td class="cuerpo_tabla_izq">Necesidades de captura de datos en el entorno de la seguridad. Sistemas de captura de imágenes estáticas, dinámicas y otros dispositivos. Aplicaciones en el ámbito de la seguridad.</td>
+<td>3</td>
+<td> </td>
+<td>Tecnologías aplicadas a la investigación I.</td>
+<td>Necesidades de captura de datos en el entorno de la seguridad. Sistemas de captura de imágenes estáticas, dinámicas y otros dispositivos. Aplicaciones en el ámbito de la seguridad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Informática.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Gestión de Seguridad Pública de la Información.</td>
-<td class="cuerpo_tabla_izq">La Organización y su sistema de información. Normalización, homologación, evaluación, certificación y acreditación. Marco legal. Organismos internacionales y nacionales. El Plan integral de seguridad de los sistemas de información. Clasificación de la información.</td>
+<td>Seguridad Informática.</td>
+<td>6</td>
+<td> </td>
+<td>Gestión de Seguridad Pública de la Información.</td>
+<td>La Organización y su sistema de información. Normalización, homologación, evaluación, certificación y acreditación. Marco legal. Organismos internacionales y nacionales. El Plan integral de seguridad de los sistemas de información. Clasificación de la información.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación en Lengua Inglesa.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
-<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
+<td>Formación en Lengua Inglesa.</td>
+<td>Lengua Inglesa.</td>
+<td>4</td>
+<td> </td>
+<td>Lengua Inglesa I.</td>
+<td>Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Instrucción y Adiestramiento.</td>
-<td class="cuerpo_tabla_izq">Instrucción y Adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6,5 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento I.</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden Cerrado.</td>
+<td rowspan="2">Instrucción y Adiestramiento.</td>
+<td>Instrucción y Adiestramiento.</td>
+<td> </td>
+<td>6,5 semanas</td>
+<td>Instrucción y adiestramiento I.</td>
+<td>Ejercicios y prácticas integradas. Orden Cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación Física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2,5 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física I.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación Física.</td>
+<td> </td>
+<td>2,5 semanas</td>
+<td>Formación física I.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong> Totales.</strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>71</strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>9</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="6">Curso: 2º</th>
+<th colspan="6">Curso: 2º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+<th colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">SEMANAS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>SEMANAS</th>
+<th>ASIGNATURA</th>
+<th>BREVE DESCRIPCIÓN</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="16">
+<td rowspan="16">
 <strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">Ciencias sociales y jurídicas.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
-<td class="cuerpo_tabla_izq">Aproximación al proceso penal: fines y características. La jurisdicción y competencia en materia penal. Las partes en el proceso penal. El objeto del proceso penal. La instrucción. Las medidas cautelares y de protección. La fase intermedia. El juicio oral. Finalización del juicio y cosa juzgada. Los recursos. La rescisión de sentencias firmes. Los diferentes procesos de enjuiciamiento. La ejecución penal.</td>
+<td rowspan="3">Ciencias sociales y jurídicas.</td>
+<td>6</td>
+<td> </td>
+<td>Derecho Procesal Penal.</td>
+<td>Aproximación al proceso penal: fines y características. La jurisdicción y competencia en materia penal. Las partes en el proceso penal. El objeto del proceso penal. La instrucción. Las medidas cautelares y de protección. La fase intermedia. El juicio oral. Finalización del juicio y cosa juzgada. Los recursos. La rescisión de sentencias firmes. Los diferentes procesos de enjuiciamiento. La ejecución penal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
-<td class="cuerpo_tabla_izq">Concepto de seguridad ciudadana y Orden público. Sistema organizativo; distribución de competencias. Principios básicos de la actuación policial. Instituciones fundamentales del Derecho de la Seguridad y el Orden Público. La intimidad personal y el derecho a la protección de datos; video vigilancia. Seguridad privada.</td>
+<td>3</td>
+<td> </td>
+<td>Derecho Administrativo de la Seguridad.</td>
+<td>Concepto de seguridad ciudadana y Orden público. Sistema organizativo; distribución de competencias. Principios básicos de la actuación policial. Instituciones fundamentales del Derecho de la Seguridad y el Orden Público. La intimidad personal y el derecho a la protección de datos; video vigilancia. Seguridad privada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
-<td class="cuerpo_tabla_izq">El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y de conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de Negociación y manejo de reuniones.</td>
+<td>6</td>
+<td> </td>
+<td>Dirección y liderazgo.</td>
+<td>El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y de conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de Negociación y manejo de reuniones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
-<td class="cuerpo_tabla_izq">Función Pública. Régimen de personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil.</td>
+<td rowspan="10">Técnica profesional e investigación.</td>
+<td>3</td>
+<td> </td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td>Función Pública. Régimen de personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
-<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas sobre régimen disciplinario. Normativa penal y procesal militar.</td>
+<td>3</td>
+<td> </td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td>Estudio y prácticas avanzadas sobre régimen disciplinario. Normativa penal y procesal militar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación II.</td>
-<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación.</td>
+<td>2</td>
+<td> </td>
+<td>Sistemas de gestión y documentación II.</td>
+<td>Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil II.</td>
+<td>4</td>
+<td> </td>
+<td>Dirección y gestión de Unidades de la Guardia Civil II.</td>
 <td>
-<p class="cuerpo_tabla_izq">El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo.</p>
-<p class="cuerpo_tabla_izq">Planificación y dirección del servicio. Sistemas de gestión de calidad. Aplicación a las Fuerzas y Cuerpos de Seguridad. Certificación.</p>
+<p>El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo.</p>
+<p>Planificación y dirección del servicio. Sistemas de gestión de calidad. Aplicación a las Fuerzas y Cuerpos de Seguridad. Certificación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Inteligencia policial.</td>
-<td class="cuerpo_tabla_izq">Aplicación de la inteligencia a la acción policial. Ciclo de inteligencia metodología, técnicas y procedimientos. Materias clasificadas.</td>
+<td>3</td>
+<td> </td>
+<td>Inteligencia policial.</td>
+<td>Aplicación de la inteligencia a la acción policial. Ciclo de inteligencia metodología, técnicas y procedimientos. Materias clasificadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Ciencias forenses II.</td>
+<td>6</td>
+<td> </td>
+<td>Ciencias forenses II.</td>
 <td>
-<p class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y Procedimientos basados en sistemas de calidad. Inteligencia científica.</p>
-<p class="cuerpo_tabla_izq">Pericias. Acústica forense.</p>
+<p>Tecnologías aplicadas a la obtención de datos y vestigios. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y Procedimientos basados en sistemas de calidad. Inteligencia científica.</p>
+<p>Pericias. Acústica forense.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
-<td class="cuerpo_tabla_izq">Curso de Policía Judicial. Curso de Medicina Legal.</td>
+<td>4</td>
+<td> </td>
+<td>Policía Judicial II.</td>
+<td>Curso de Policía Judicial. Curso de Medicina Legal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
-<td class="cuerpo_tabla_izq">Práctica de diligencias policiales.</td>
+<td>3</td>
+<td> </td>
+<td>Policía Judicial III.</td>
+<td>Práctica de diligencias policiales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
-<td class="cuerpo_tabla_izq">Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo Relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos.</td>
+<td>3</td>
+<td> </td>
+<td>Tecnologías aplicadas a la investigación II.</td>
+<td>Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo Relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
-<td class="cuerpo_tabla_izq">Defensa y seguridad nacional. Resolución de conflictos y situaciones de emergencia. Estados de emergencia, alarma, excepción y sitio. Gestión de crisis nacional e internacional. Misiones civiles y militares de las Fuerzas y Cuerpos de Seguridad en el ámbito internacional. La Guardia civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
+<td>3</td>
+<td> </td>
+<td>Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td>Defensa y seguridad nacional. Resolución de conflictos y situaciones de emergencia. Estados de emergencia, alarma, excepción y sitio. Gestión de crisis nacional e internacional. Misiones civiles y militares de las Fuerzas y Cuerpos de Seguridad en el ámbito internacional. La Guardia civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad informática.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
-<td class="cuerpo_tabla_izq">Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP.</td>
+<td>Seguridad informática.</td>
+<td>6</td>
+<td> </td>
+<td>Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
+<td>Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Seguridad física.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Gestión de la seguridad física.</td>
-<td class="cuerpo_tabla_izq">Identificación de amenazas potenciales para las personas. Vulnerabilidades. Elementos de seguridad físicos. Dispositivos electrónicos para la seguridad física. Planificación de instalaciones de seguridad en infraestructuras. Integración de sistemas de protección física. Planes de seguridad física. Centralización sistemas de control y vigilancia. Diagnóstico de protección física.</td>
+<td rowspan="2">Seguridad física.</td>
+<td>3</td>
+<td> </td>
+<td>Gestión de la seguridad física.</td>
+<td>Identificación de amenazas potenciales para las personas. Vulnerabilidades. Elementos de seguridad físicos. Dispositivos electrónicos para la seguridad física. Planificación de instalaciones de seguridad en infraestructuras. Integración de sistemas de protección física. Planes de seguridad física. Centralización sistemas de control y vigilancia. Diagnóstico de protección física.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Tecnologías para seguridad física.</td>
-<td class="cuerpo_tabla_izq">Tecnologías de protección integral para personas e infraestructuras. Análisis de protecciones personales destinadas a la seguridad. Principios básicos del comportamiento dinámico de los materiales destinados a las protecciones. Conceptos básicos de balística y explosión así como las principales metodologías y protocolos de ensayo y fabricación de dichas protecciones personales. Protecciones de vehículos e infraestructuras. Tecnologías electrónicas y de comunicación (sistemas de detección, sistemas de control de accesos, vigilancia, comunicación y transmisión).</td>
+<td>6</td>
+<td> </td>
+<td>Tecnologías para seguridad física.</td>
+<td>Tecnologías de protección integral para personas e infraestructuras. Análisis de protecciones personales destinadas a la seguridad. Principios básicos del comportamiento dinámico de los materiales destinados a las protecciones. Conceptos básicos de balística y explosión así como las principales metodologías y protocolos de ensayo y fabricación de dichas protecciones personales. Protecciones de vehículos e infraestructuras. Tecnologías electrónicas y de comunicación (sistemas de detección, sistemas de control de accesos, vigilancia, comunicación y transmisión).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>FORMACIÓN EN LENGUA INGLESA</strong>
 </td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
-<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial).</td>
+<td>Lengua Inglesa.</td>
+<td>6</td>
+<td> </td>
+<td>Lengua Inglesa II.</td>
+<td>Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
+<td rowspan="2">
 <strong>INSTRUCCIÓN Y ADIESTRAMIENTO </strong>
 </td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6,5 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento II</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+<td>Instrucción y adiestramiento.</td>
+<td> </td>
+<td>6,5 semanas</td>
+<td>Instrucción y adiestramiento II</td>
+<td>Ejercicios y prácticas integradas. Orden cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2,5 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física II.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación física.</td>
+<td> </td>
+<td>2,5 semanas</td>
+<td>Formación física II.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der" colspan="2">
+<td colspan="2">
 <strong>TOTALES </strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>69 </strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>9 </strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
@@ -1958,285 +1883,285 @@ A continuación se relacionan, por cursos y módulos, las materias de enseñanza
 
 A continuación se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo de los alumnos que hubieran ingresado por promoción profesional, mediante la modalidad de promoción interna:
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="6">Curso: 1º</th>
+<th colspan="6">Curso: 1º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+<th colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">SEMANAS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>SEMANAS</th>
+<th>ASIGNATURA</th>
+<th>BREVE DESCRIPCIÓN</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">Formación de Cuerpo de Seguridad.</td>
-<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
-<td class="cuerpo_tabla_izq">Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras Unión Europea. Schengen. Inmigración irregular.</td>
+<td rowspan="5">Formación de Cuerpo de Seguridad.</td>
+<td rowspan="4">Técnica profesional e investigación.</td>
+<td>3</td>
+<td> </td>
+<td>Fiscal, fronteras e inmigración.</td>
+<td>Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras Unión Europea. Schengen. Inmigración irregular.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Inteligencia Policial.</td>
-<td class="cuerpo_tabla_izq">Aplicación de la inteligencia a la acción policial. Ciclo de inteligencia metodología, técnicas y procedimientos. Materias clasificadas.</td>
+<td>3</td>
+<td> </td>
+<td>Inteligencia Policial.</td>
+<td>Aplicación de la inteligencia a la acción policial. Ciclo de inteligencia metodología, técnicas y procedimientos. Materias clasificadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación.</td>
-<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación.</td>
+<td>2</td>
+<td> </td>
+<td>Sistemas de gestión y documentación.</td>
+<td>Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
-<td class="cuerpo_tabla_izq">La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial.</td>
+<td>2</td>
+<td> </td>
+<td>Policía Judicial I.</td>
+<td>La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Deontología profesional.</td>
-<td class="cuerpo_tabla_izq">Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil.</td>
+<td>Ciencias Sociales y Jurídicas.</td>
+<td>2</td>
+<td> </td>
+<td>Deontología profesional.</td>
+<td>Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación en Lengua Inglesa.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
-<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B1 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B1 y STANAG 6001 nivel funcional.</td>
+<td>Formación en Lengua Inglesa.</td>
+<td>Lengua Inglesa.</td>
+<td>2</td>
+<td> </td>
+<td>Lengua Inglesa I.</td>
+<td>Contenidos específicos adecuados al nivel B1 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B1 y STANAG 6001 nivel funcional.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Instrucción y Adiestramiento.</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6,5 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento I.</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+<td rowspan="2">Instrucción y Adiestramiento.</td>
+<td>Instrucción y adiestramiento.</td>
+<td> </td>
+<td>6,5 semanas</td>
+<td>Instrucción y adiestramiento I.</td>
+<td>Ejercicios y prácticas integradas. Orden cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2,5 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física I.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación física.</td>
+<td> </td>
+<td>2,5 semanas</td>
+<td>Formación física I.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
+<td colspan="2">
 <strong> Totales.</strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>14</strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>9</strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="6">Curso: 2º</th>
+<th colspan="6">Curso: 2º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
+<th colspan="6">FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">SEMANAS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>SEMANAS</th>
+<th>ASIGNATURA</th>
+<th>BREVE DESCRIPCIÓN</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">
+<td rowspan="4">
 <strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil.</td>
+<td rowspan="4">Técnica profesional e investigación.</td>
+<td>4</td>
+<td> </td>
+<td>Dirección y gestión de Unidades de la Guardia Civil.</td>
 <td>
-<p class="cuerpo_tabla_izq">El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección del servicio. Sistemas de gestión de calidad. Aplicación a las Fuerzas y Cuerpos de Seguridad.</p>
-<p class="cuerpo_tabla_izq">Certificación.</p>
+<p>El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección del servicio. Sistemas de gestión de calidad. Aplicación a las Fuerzas y Cuerpos de Seguridad.</p>
+<p>Certificación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
-<td class="cuerpo_tabla_izq">Curso de Policía Judicial. Curso de Medicina Legal.</td>
+<td>4</td>
+<td> </td>
+<td>Policía Judicial II.</td>
+<td>Curso de Policía Judicial. Curso de Medicina Legal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
-<td class="cuerpo_tabla_izq">Práctica de diligencias policiales.</td>
+<td>3</td>
+<td> </td>
+<td>Policía Judicial III.</td>
+<td>Práctica de diligencias policiales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
-<td class="cuerpo_tabla_izq">Estudio y prácticas avanzadas sobre Régimen disciplinario. Normativa penal y procesal militar.</td>
+<td>3</td>
+<td> </td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td>Estudio y prácticas avanzadas sobre Régimen disciplinario. Normativa penal y procesal militar.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
+<td rowspan="2">
 <strong>INSTRUCCIÓN Y ADIESTRAMIENTO </strong>
 </td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">6,5 semanas</td>
-<td class="cuerpo_tabla_izq">Instrucción y adiestramiento II.</td>
-<td class="cuerpo_tabla_izq">Ejercicios y prácticas integradas. Orden cerrado.</td>
+<td>Instrucción y adiestramiento.</td>
+<td> </td>
+<td>6,5 semanas</td>
+<td>Instrucción y adiestramiento II.</td>
+<td>Ejercicios y prácticas integradas. Orden cerrado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación física.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">2,5 semanas</td>
-<td class="cuerpo_tabla_izq">Formación física II.</td>
-<td class="cuerpo_tabla_izq">Formación física. Defensa personal policial.</td>
+<td>Formación física.</td>
+<td> </td>
+<td>2,5 semanas</td>
+<td>Formación física II.</td>
+<td>Formación física. Defensa personal policial.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der" colspan="2">
+<td colspan="2">
 <strong>TOTALES </strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>14 </strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>9 </strong>
 </td>
-<td class="cuerpo_tabla_izq" colspan="2"> </td>
+<td colspan="2"> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">GRADO EN GESTIÓN DE SEGURIDAD PÚBLICA</th>
+<th colspan="5">GRADO EN GESTIÓN DE SEGURIDAD PÚBLICA</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">BREVE DESCRIPCIÓN</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>ASIGNATURA</th>
+<th>BREVE DESCRIPCIÓN</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
+<td rowspan="2">
 <strong>FUNDAMENTOS JURÍDICOS </strong>
 </td>
-<td class="cuerpo_tabla_izq">Derecho Penal y Procesal Penal.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
-<td class="cuerpo_tabla_izq">Aproximación al proceso penal: fines y características. La jurisdicción y competencia en materia penal. Las partes en el proceso penal. El objeto del proceso penal. La instrucción. Las medidas cautelares y de protección. La fase intermedia. El juicio oral. Finalización del juicio y cosa juzgada. Los recursos. La rescisión de sentencias firmes. Los diferentes procesos de enjuiciamiento. La ejecución penal.</td>
+<td>Derecho Penal y Procesal Penal.</td>
+<td>6</td>
+<td>Derecho Procesal Penal.</td>
+<td>Aproximación al proceso penal: fines y características. La jurisdicción y competencia en materia penal. Las partes en el proceso penal. El objeto del proceso penal. La instrucción. Las medidas cautelares y de protección. La fase intermedia. El juicio oral. Finalización del juicio y cosa juzgada. Los recursos. La rescisión de sentencias firmes. Los diferentes procesos de enjuiciamiento. La ejecución penal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
-<td class="cuerpo_tabla_izq">Concepto de Seguridad ciudadana y orden público. Sistema organizativo; distribución de competencias. Principios básicos de la actuación policial. Instituciones fundamentales del Derecho de la Seguridad y el Orden Público. La intimidad personal y el derecho a la protección de datos; video vigilancia. Seguridad privada.</td>
+<td>Derecho de la Seguridad.</td>
+<td>3</td>
+<td>Derecho Administrativo de la Seguridad.</td>
+<td>Concepto de Seguridad ciudadana y orden público. Sistema organizativo; distribución de competencias. Principios básicos de la actuación policial. Instituciones fundamentales del Derecho de la Seguridad y el Orden Público. La intimidad personal y el derecho a la protección de datos; video vigilancia. Seguridad privada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">
+<td rowspan="4">
 <strong>ORGANIZACIÓN Y PREVENCIÓN </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Servicios de seguridad.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
-<td class="cuerpo_tabla_izq">Función pública. Régimen de Personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil.</td>
+<td rowspan="2">Servicios de seguridad.</td>
+<td>3</td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td>Función pública. Régimen de Personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
-<td class="cuerpo_tabla_izq">El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y de conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de negociación y manejo de reuniones.</td>
+<td>6</td>
+<td>Dirección y liderazgo.</td>
+<td>El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y de conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de negociación y manejo de reuniones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Prevención y metodología de actuación policial.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Gestión de la seguridad física.</td>
+<td rowspan="2">Prevención y metodología de actuación policial.</td>
+<td>3</td>
+<td>Gestión de la seguridad física.</td>
 <td>
-<p class="cuerpo_tabla_izq">Identificación de amenazas potenciales para las personas. Vulnerabilidades. Elementos de seguridad físicos. Dispositivos electrónicos para la seguridad física. Planificación de instalaciones de seguridad en infraestructuras. Integración de sistemas de protección física. Planes de seguridad física.</p>
-<p class="cuerpo_tabla_izq">Centralización sistemas de control y vigilancia. Diagnóstico de protección física.</p>
+<p>Identificación de amenazas potenciales para las personas. Vulnerabilidades. Elementos de seguridad físicos. Dispositivos electrónicos para la seguridad física. Planificación de instalaciones de seguridad en infraestructuras. Integración de sistemas de protección física. Planes de seguridad física.</p>
+<p>Centralización sistemas de control y vigilancia. Diagnóstico de protección física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
-<td class="cuerpo_tabla_izq">Defensa y seguridad nacional. Resolución de conflictos y situaciones de emergencia. Estados de emergencia, alarma, excepción y sitio. Gestión de crisis nacional e internacional. Misiones civiles y militares de las Fuerzas y Cuerpos de Seguridad en el ámbito internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
+<td>3</td>
+<td>Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td>Defensa y seguridad nacional. Resolución de conflictos y situaciones de emergencia. Estados de emergencia, alarma, excepción y sitio. Gestión de crisis nacional e internacional. Misiones civiles y militares de las Fuerzas y Cuerpos de Seguridad en el ámbito internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">
+<td rowspan="4">
 <strong>INVESTIGACIÓN Y TECNOLOGÍA</strong>
 </td>
-<td class="cuerpo_tabla_izq">Investigación y Ciencias Forenses.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Ciencias Forenses II.</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la obtención de datos y vestigios. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y Procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense.</td>
+<td>Investigación y Ciencias Forenses.</td>
+<td>6</td>
+<td>Ciencias Forenses II.</td>
+<td>Tecnologías aplicadas a la obtención de datos y vestigios. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y Procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Tecnologías aplicadas a la investigación.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
-<td class="cuerpo_tabla_izq">Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo Relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos.</td>
+<td rowspan="3">Tecnologías aplicadas a la investigación.</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la investigación II.</td>
+<td>Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo Relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías para la seguridad física.</td>
-<td class="cuerpo_tabla_izq">Tecnologías de protección integral para personas e infraestructuras. Análisis de protecciones personales destinadas a la seguridad. Principios básicos del comportamiento dinámico de los materiales destinados a las protecciones. Conceptos básicos de balística y explosión así como las principales metodologías y protocolos de ensayo y fabricación de dichas protecciones personales. Protecciones de vehículos e infraestructuras. Tecnologías electrónicas y de comunicación (sistemas de detección, sistemas de control de accesos, vigilancia, comunicación y transmisión).</td>
+<td>6</td>
+<td>Tecnologías para la seguridad física.</td>
+<td>Tecnologías de protección integral para personas e infraestructuras. Análisis de protecciones personales destinadas a la seguridad. Principios básicos del comportamiento dinámico de los materiales destinados a las protecciones. Conceptos básicos de balística y explosión así como las principales metodologías y protocolos de ensayo y fabricación de dichas protecciones personales. Protecciones de vehículos e infraestructuras. Tecnologías electrónicas y de comunicación (sistemas de detección, sistemas de control de accesos, vigilancia, comunicación y transmisión).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Vulnerabilidades amenazas y protocolos de seguridad informáticos.</td>
-<td class="cuerpo_tabla_izq">Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP.</td>
+<td>6</td>
+<td>Vulnerabilidades amenazas y protocolos de seguridad informáticos.</td>
+<td>Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>TRABAJO FIN DE GRADO </strong>
 </td>
-<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
-<td class="cuerpo_tabla_izq">Trabajo original a presentar y defender ante un tribunal universitario, consistente en un proyecto integral del ámbito de la seguridad, de naturaleza profesional, en el que se sinteticen las competencias adquiridas en las enseñanzas, o en un trabajo de carácter innovador de desarrollo de una idea, un prototipo, o el modelo de un equipo o sistema, en alguno de los ámbitos de competencia de la seguridad.</td>
+<td>Trabajo fin de Grado.</td>
+<td>12</td>
+<td>Trabajo fin de Grado.</td>
+<td>Trabajo original a presentar y defender ante un tribunal universitario, consistente en un proyecto integral del ámbito de la seguridad, de naturaleza profesional, en el que se sinteticen las competencias adquiridas en las enseñanzas, o en un trabajo de carácter innovador de desarrollo de una idea, un prototipo, o el modelo de un equipo o sistema, en alguno de los ámbitos de competencia de la seguridad.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>INTRODUCTORIO </strong>
 </td>
-<td class="cuerpo_tabla_izq">Idiomas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
-<td class="cuerpo_tabla_izq">Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial).</td>
+<td>Idiomas.</td>
+<td>3</td>
+<td>Lengua Inglesa III.</td>
+<td>Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_der" colspan="2">
+<td colspan="2">
 <strong>TOTALES </strong>
 </td>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>60 </strong>
 </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2251,806 +2176,785 @@ a) Acceso por ingreso directo sin titulación universitaria previa:
 
 El carácter total (T) o parcial (P) de las asignaturas impartidas en los cursos 1.º y 2.º será el establecido para las correspondientes asignaturas contenidas en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">Curso: 3.º</p>
+<p>Curso: 3.º</p>
 </caption>
-<colgroup>
-<col width="27%">
-<col width="27%">
-<col width="10%">
-<col width="28%">
-<col width="8%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Carácter</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Carácter</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
-<td class="cuerpo_tabla_izq">Liderazgo.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Liderazgo III.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>TÉCNICAS DE MANDO.</td>
+<td>Liderazgo.</td>
+<td>3</td>
+<td>Liderazgo III.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="5">CIENTÍFICO-TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_izq">Criminalística.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Ciencias Forenses.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="5">CIENTÍFICO-TECNOLÓGICO.</td>
+<td>Criminalística.</td>
+<td>6</td>
+<td>Ciencias Forenses.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estadística.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Análisis Estadístico del Delito.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Estadística.</td>
+<td>3</td>
+<td>Análisis Estadístico del Delito.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Tecnologías aplicadas a la Seguridad.</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la Seguridad I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digitalización.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Digitalización I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Digitalización.</td>
+<td>3</td>
+<td>Digitalización I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Telecomunicaciones.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Teoría de las Telecomunicaciones aplicada a la Seguridad.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Telecomunicaciones.</td>
+<td>3</td>
+<td>Teoría de las Telecomunicaciones aplicada a la Seguridad.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Ciencias jurídicas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="2">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td rowspan="2">Ciencias jurídicas.</td>
+<td>3</td>
+<td>Derecho Penal I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>6</td>
+<td>Derecho Penal II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">TÉCNICO-PROFESIONAL.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Procedimientos aplicados a la Seguridad Pública.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Seguridad Ciudadana I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="3">TÉCNICO-PROFESIONAL.</td>
+<td rowspan="2">Procedimientos aplicados a la Seguridad Pública.</td>
+<td>6</td>
+<td>Seguridad Ciudadana I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Sistemas de Gestión y Documentación en la Guardia Civil.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Sistemas de Gestión y Documentación en la Guardia Civil.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recursos humanos.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Recursos humanos.</td>
+<td>6</td>
+<td>Estatuto de la Guardia Civil y Gestión de los RRHH I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIENCIAS HUMANÍSTICAS.</td>
-<td class="cuerpo_tabla_izq">Humanidades.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Historia de la Guardia Civil y Deontología Profesional.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>CIENCIAS HUMANÍSTICAS.</td>
+<td>Humanidades.</td>
+<td>3</td>
+<td>Historia de la Guardia Civil y Deontología Profesional.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
-<td class="cuerpo_tabla_izq">Lengua inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>FORMACIÓN EN LENGUA INGLESA.</td>
+<td>Lengua inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa III.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">Curso: 4.º</p>
+<p>Curso: 4.º</p>
 </caption>
-<colgroup>
-<col width="27%">
-<col width="27%">
-<col width="10%">
-<col width="28%">
-<col width="8%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Carácter</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Carácter</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">CIENTÍFICO-TECNOLÓGICO.</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la Seguridad II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="2">CIENTÍFICO-TECNOLÓGICO.</td>
+<td>Tecnologías aplicadas a la Seguridad.</td>
+<td>6</td>
+<td>Tecnologías aplicadas a la Seguridad II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Digitalización.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Digitalización II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Digitalización.</td>
+<td>3</td>
+<td>Digitalización II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="4">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Ciencias jurídicas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="4">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td rowspan="3">Ciencias jurídicas.</td>
+<td>3</td>
+<td>Derecho Administrativo.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>6</td>
+<td>Derecho Procesal Penal.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Instituciones y Regímenes Internacionales.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Instituciones y Regímenes Internacionales.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Administración pública de la Seguridad.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Organización y Geopolítica.</td>
+<td>3</td>
+<td>Administración pública de la Seguridad.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">TÉCNICO-PROFESIONAL.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Procedimientos aplicados a la Seguridad Pública.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Seguridad Ciudadana II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="6">TÉCNICO-PROFESIONAL.</td>
+<td rowspan="3">Procedimientos aplicados a la Seguridad Pública.</td>
+<td>6</td>
+<td>Seguridad Ciudadana II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Fiscal y Fronteras.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Fiscal y Fronteras.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Especialidades en la Guardia Civil.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Especialidades en la Guardia Civil.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Recursos humanos.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Recursos humanos.</td>
+<td>6</td>
+<td>Estatuto de la Guardia Civil y Gestión de los RRHH II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de la Guardia Civil y Gestión de los RRHH III.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Estatuto de la Guardia Civil y Gestión de los RRHH III.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recursos materiales y financieros.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Gestión de recursos materiales y financieros en la Guardia Civil.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Recursos materiales y financieros.</td>
+<td>6</td>
+<td>Gestión de recursos materiales y financieros en la Guardia Civil.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TRABAJO FIN DE GRADO.</td>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Grado.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>TRABAJO FIN DE GRADO.</td>
+<td>Trabajo Fin de Grado.</td>
+<td>6</td>
+<td>Trabajo Fin de Grado.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FORMACIÓN EN LENGUA INGLESA.</td>
-<td class="cuerpo_tabla_izq">Lengua inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa IV.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>FORMACIÓN EN LENGUA INGLESA.</td>
+<td>Lengua inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa IV.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_cursiva">Curso: 5.º</p>
+<p>Curso: 5.º</p>
 </caption>
-<colgroup>
-<col width="27%">
-<col width="27%">
-<col width="10%">
-<col width="28%">
-<col width="8%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo</th>
-<th class="cabeza_tabla">Materia</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">Asignatura</th>
-<th class="cabeza_tabla">Carácter</th>
+<th>Módulo</th>
+<th>Materia</th>
+<th>ECTS</th>
+<th>Asignatura</th>
+<th>Carácter</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">TÉCNICAS DE MANDO.</td>
-<td class="cuerpo_tabla_izq">Liderazgo.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Técnicas de Mando.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>TÉCNICAS DE MANDO.</td>
+<td>Liderazgo.</td>
+<td>3</td>
+<td>Técnicas de Mando.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
-<td class="cuerpo_tabla_izq">Organización y Geopolítica.</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Geopolítica.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="3">CIENCIAS SOCIALES Y JURÍDICAS.</td>
+<td>Organización y Geopolítica.</td>
+<td>5</td>
+<td>Geopolítica.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Psicología.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Psicología Criminal.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Psicología.</td>
+<td>3</td>
+<td>Psicología Criminal.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Psicología social y de las Organizaciones.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Psicología social y de las Organizaciones.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="9">TÉCNICO-PROFESIONAL.</td>
-<td class="cuerpo_tabla_izq">Procedimientos aplicados a la Seguridad Pública.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Dirección de Unidades de la Guardia Civil.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="9">TÉCNICO-PROFESIONAL.</td>
+<td>Procedimientos aplicados a la Seguridad Pública.</td>
+<td>6</td>
+<td>Dirección de Unidades de la Guardia Civil.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Procedimientos Operativos.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Inteligencia Policial.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="6">Procedimientos Operativos.</td>
+<td>3</td>
+<td>Inteligencia Policial.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Amenazas.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Amenazas.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Cooperación Policial.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Cooperación Policial.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Policía Judicial I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Sistema de Seguridad Nacional y Gestión de Crisis.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Sistema de Seguridad Nacional y Gestión de Crisis.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Prácticas Externas.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Prácticas Externas.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Prácticas Externas.</td>
+<td>4</td>
+<td>Prácticas Externas.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Trabajo Fin de Estudios.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Trabajo Fin de Estudios.</td>
+<td>6</td>
+<td>Trabajo Fin de Estudios.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
 
 b) Acceso por promoción profesional en la modalidad de cambio de escala.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Curso: 1º</th>
+<th colspan="5">Curso: 1º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">CARÁCTER</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>ASIGNATURA</th>
+<th>CARÁCTER</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="16">Formación de Cuerpo de Seguridad.</td>
-<td class="cuerpo_tabla_izq">Humanidades.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="16">Formación de Cuerpo de Seguridad.</td>
+<td>Humanidades.</td>
+<td>6</td>
+<td>Derechos fundamentales y seguridad.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estadística.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Análisis estadístico del delito.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Estadística.</td>
+<td>6</td>
+<td>Análisis estadístico del delito.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Ciencias jurídicas y sociales.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="6">Ciencias jurídicas y sociales.</td>
+<td>6</td>
+<td>Derecho Penal I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Derecho Penal II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>3</td>
+<td>Derecho Administrativo I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>3</td>
+<td>Derecho Administrativo II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Cooperación policial internacional.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Cooperación policial internacional.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Deontología profesional.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>2</td>
+<td>Deontología profesional.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="7">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="7">Técnica profesional e investigación.</td>
+<td>2</td>
+<td>Policía Judicial I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Sistemas de gestión y documentación I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Dirección y gestión de Unidades de la Guardia Civil I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Fiscal, fronteras e inmigración.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Ciencias forenses I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Ciencias forenses I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la investigación I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad Informática.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Gestión de seguridad pública de la información.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Seguridad Informática.</td>
+<td>6</td>
+<td>Gestión de seguridad pública de la información.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Formación en Lengua Inglesa.</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Formación en Lengua Inglesa.</td>
+<td>Lengua Inglesa.</td>
+<td>4</td>
+<td>Lengua Inglesa I.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Curso: 2º</th>
+<th colspan="5">Curso: 2º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">CARÁCTER</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>ASIGNATURA</th>
+<th>CARÁCTER</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="16">
+<td rowspan="16">
 <strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="3">Ciencias jurídicas y sociales.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="3">Ciencias jurídicas y sociales.</td>
+<td>6</td>
+<td>Derecho Procesal Penal.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Derecho Administrativo de la Seguridad.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Dirección y liderazgo.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
-<td class="cuerpo_tabla_centro">p</td>
+<td rowspan="10">Técnica profesional e investigación.</td>
+<td>3</td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td>p</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>2</td>
+<td>Sistemas de gestión y documentación II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>4</td>
+<td>Dirección y gestión de Unidades de la Guardia Civil II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Inteligencia policial.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Inteligencia policial.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Ciencias Forenses II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Ciencias Forenses II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>4</td>
+<td>Policía Judicial II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Policía Judicial III.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la investigación II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Seguridad informática.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Seguridad informática.</td>
+<td>6</td>
+<td>Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Seguridad física.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Gestión de la seguridad física</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Seguridad física.</td>
+<td>3</td>
+<td>Gestión de la seguridad física</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías para la seguridad física.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Tecnologías para la seguridad física.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>FORMACIÓN EN LENGUA INGLESA </strong>
 </td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Lengua Inglesa.</td>
+<td>6</td>
+<td>Lengua Inglesa II.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
 
 c) Acceso por promoción profesional en la modalidad de promoción interna.
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Curso: 1º</th>
+<th colspan="5">Curso: 1º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">CARÁCTER</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>ASIGNATURA</th>
+<th>CARÁCTER</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">
+<td rowspan="5">
 <strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Sistemas de gestión y documentación.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="4">Técnica profesional e investigación.</td>
+<td>2</td>
+<td>Sistemas de gestión y documentación.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Fiscal, fronteras e inmigración.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Fiscal, fronteras e inmigración.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Inteligencia policial.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Inteligencia policial.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Policía Judicial I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>2</td>
+<td>Policía Judicial I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciencias Sociales y Jurídicas</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Deóntología profesional</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>Ciencias Sociales y Jurídicas</td>
+<td>2</td>
+<td>Deóntología profesional</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>FORMACIÓN EN LENGUA INGLESA </strong>
 </td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Lengua Inglesa.</td>
+<td>2</td>
+<td>Lengua Inglesa I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">
+<td rowspan="5">
 <strong>FUNDAMENTOS JURÍDICOS </strong>
 </td>
-<td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derechos fundamentales y seguridad.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Derecho de la Seguridad.</td>
+<td>6</td>
+<td>Derechos fundamentales y seguridad.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Derecho Penal y Procesal Penal.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Penal I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="2">Derecho Penal y Procesal Penal.</td>
+<td>6</td>
+<td>Derecho Penal I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Penal II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>6</td>
+<td>Derecho Penal II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Derecho Administrativo.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="2">Derecho Administrativo.</td>
+<td>3</td>
+<td>Derecho Administrativo I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>3</td>
+<td>Derecho Administrativo II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
+<td rowspan="2">
 <strong>ORGANIZACIÓN Y PREVENCIÓN</strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Prevención y metodología de actuación policial.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Cooperación policial internacional.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Prevención y metodología de actuación policial.</td>
+<td>6</td>
+<td>Cooperación policial internacional.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Riesgos y amenazas globales a la seguridad nacional e internacional.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">
+<td rowspan="5">
 <strong>INVESTIGACIÓN Y TECNOLOGÍA</strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Investigación y Ciencias Forenses.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Ciencias forenses I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Investigación y Ciencias Forenses.</td>
+<td>3</td>
+<td>Ciencias forenses I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Técnicas de expresión oral, escrita y documentación digital.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Técnicas de expresión oral, escrita y documentación digital.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Tecnologías aplicadas a la investigación.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación I.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Tecnologías aplicadas a la investigación.</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la investigación I.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Gestión de seguridad pública de la información.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>6</td>
+<td>Gestión de seguridad pública de la información.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Análisis estadístico del delito.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td>6</td>
+<td>Análisis estadístico del delito.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>INTRODUCTORIO</strong>
 </td>
-<td class="cuerpo_tabla_izq">Idiomas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Idiomas.</td>
+<td>3</td>
+<td>Lengua Inglesa II.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Curso: 2º</th>
+<th colspan="5">Curso: 2º</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">MÓDULO</th>
-<th class="cabeza_tabla">MATERIA</th>
-<th class="cabeza_tabla">ECTS</th>
-<th class="cabeza_tabla">ASIGNATURA</th>
-<th class="cabeza_tabla">CARÁCTER</th>
+<th>MÓDULO</th>
+<th>MATERIA</th>
+<th>ECTS</th>
+<th>ASIGNATURA</th>
+<th>CARÁCTER</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">
+<td rowspan="4">
 <strong>FORMACIÓN DE CUERPO DE SEGURIDAD </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="4">Técnica profesional e investigación.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Dirección y gestión de Unidades de la Guardia Civil.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="4">Técnica profesional e investigación.</td>
+<td>4</td>
+<td>Dirección y gestión de Unidades de la Guardia Civil.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Policía Judicial II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>4</td>
+<td>Policía Judicial II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Policía Judicial III.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Policía Judicial III.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
+<td rowspan="2">
 <strong>FUNDAMENTOS JURÍDICOS </strong>
 </td>
-<td class="cuerpo_tabla_izq">Derecho Penal y Procesal Penal.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Derecho Procesal Penal.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Derecho Penal y Procesal Penal.</td>
+<td>6</td>
+<td>Derecho Procesal Penal.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Derecho de la Seguridad.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Derecho Administrativo de la Seguridad.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Derecho de la Seguridad.</td>
+<td>3</td>
+<td>Derecho Administrativo de la Seguridad.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">
+<td rowspan="4">
 <strong>ORGANIZACIÓN Y PREVENCIÓN </strong>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Servicios de seguridad.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Servicios de seguridad.</td>
+<td>3</td>
+<td>Estatuto de Fuerzas y Cuerpos de Seguridad I.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Dirección y liderazgo.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Dirección y liderazgo.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Prevención y metodología de actuación policial.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Gestión de la seguridad física.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td rowspan="2">Prevención y metodología de actuación policial.</td>
+<td>3</td>
+<td>Gestión de la seguridad física.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Situaciones de emergencia en el ámbito de la seguridad.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>3</td>
+<td>Situaciones de emergencia en el ámbito de la seguridad.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">
+<td rowspan="4">
 <strong>INVESTIGACIÓN Y TECNOLOGÍA </strong>
 </td>
-<td class="cuerpo_tabla_izq">Investigación y Ciencias Forenses.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Ciencias Forenses II.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Investigación y Ciencias Forenses.</td>
+<td>6</td>
+<td>Ciencias Forenses II.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Tecnologías aplicadas a la investigación.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Tecnologías aplicadas a la investigación II.</td>
-<td class="cuerpo_tabla_centro">T</td>
+<td rowspan="3">Tecnologías aplicadas a la investigación.</td>
+<td>3</td>
+<td>Tecnologías aplicadas a la investigación II.</td>
+<td>T</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Vulnerabilidades, amenazas y protocolos de seguridad informática.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Tecnologías para la seguridad física.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>6</td>
+<td>Tecnologías para la seguridad física.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>TRABAJO FIN DE GRADO </strong>
 </td>
-<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Trabajo fin de Grado.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Trabajo fin de Grado.</td>
+<td>12</td>
+<td>Trabajo fin de Grado.</td>
+<td>P</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <strong>INTRODUCTORIO </strong>
 </td>
-<td class="cuerpo_tabla_izq">Idiomas.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Lengua Inglesa III.</td>
-<td class="cuerpo_tabla_centro">P</td>
+<td>Idiomas.</td>
+<td>3</td>
+<td>Lengua Inglesa III.</td>
+<td>P</td>
 </tr>
 </tbody>
 </table>
@@ -3063,298 +2967,289 @@ c) Acceso por promoción profesional en la modalidad de promoción interna.
 
 1\. Las pruebas físicas y marcas que los alumnos deberán superar para progresar en los distintos cursos de la enseñanza de formación, en la forma de ingreso por acceso directo sin titulación universitaria previa son las siguientes:
 
-<table class="tabla">
-<colgroup>
-<col class="row_column_35">
-<col class="row_column_36">
-<col class="row_column_36">
-<col class="row_column_36">
-<col class="row_column_36">
-<col class="row_column_36">
-<col class="row_column_36">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Prueba</p>
+<tr>
+<th>
+<p>Prueba</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sexo</p>
+<th>
+<p>Sexo</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Curso 1.º</p>
+<th>
+<p>Curso 1.º</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Curso 2.º</p>
+<th>
+<p>Curso 2.º</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Curso 3.º</p>
+<th>
+<p>Curso 3.º</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Curso 4.º</p>
+<th>
+<p>Curso 4.º</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Curso 5.º</p>
+<th>
+<p>Curso 5.º</p>
 </th>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Potencia tren inferior (1).</p>
+<p>Potencia tren inferior (1).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">44</p>
+<p>44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">46</p>
+<p>46</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">48</p>
+<p>48</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38</p>
+<p>38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42</p>
+<p>42</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Potencia tren superior (2).</p>
+<p>Potencia tren superior (2).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">22</p>
+<p>22</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">19</p>
+<p>19</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Velocidad (3).</p>
+<p>Velocidad (3).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,9’’</p>
+<p>7,9’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,8’’</p>
+<p>7,8’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,6’’</p>
+<p>7,6’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,6’’</p>
+<p>7,6’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,6’’</p>
+<p>7,6’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,7’’</p>
+<p>8,7’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,6’’</p>
+<p>8,6’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,4’’</p>
+<p>8,4’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,4’’</p>
+<p>8,4’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,4’’</p>
+<p>8,4’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Resistencia (4).</p>
+<p>Resistencia (4).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3’50’’</p>
+<p>3’50’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3’45’’</p>
+<p>3’45’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3’35’’</p>
+<p>3’35’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3’35’’</p>
+<p>3’35’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3’35’’</p>
+<p>3’35’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4’20’’</p>
+<p>4’20’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4’15’’</p>
+<p>4’15’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4’05’’</p>
+<p>4’05’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4’05’’</p>
+<p>4’05’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4’05’’</p>
+<p>4’05’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Soltura acuática (5).</p>
+<p>Soltura acuática (5).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">59’’</p>
+<p>59’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">58’’</p>
+<p>58’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55’’</p>
+<p>55’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55’’</p>
+<p>55’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55’’</p>
+<p>55’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’07’’</p>
+<p>1’07’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’06’’</p>
+<p>1’06’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’03’’</p>
+<p>1’03’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’03’’</p>
+<p>1’03’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’03’’</p>
+<p>1’03’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Complementaria de resistencia (6).</p>
+<p>Complementaria de resistencia (6).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">34’</p>
+<p>34’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">33’</p>
+<p>33’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31’</p>
+<p>31’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31’</p>
+<p>31’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31’</p>
+<p>31’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">38’</p>
+<p>38’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">37’</p>
+<p>37’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35’</p>
+<p>35’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35’</p>
+<p>35’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">35’</p>
+<p>35’</p>
 </td>
 </tr>
 </tbody>
@@ -3364,212 +3259,203 @@ Las pruebas físicas y marcas correspondientes a los cursos 1.º y 2.º, se regi
 
 2\. En lo que se refiere a las pruebas físicas y marcas en la forma de ingreso por promoción profesional, en las modalidades de promoción interna y de cambio de escala, los alumnos para progresar en cada uno de los distintos cursos de la enseñanza de formación deberán superar las siguientes:
 
-<table class="tabla">
-<colgroup>
-<col class="row_column_35">
-<col class="row_column_37">
-<col class="row_column_38">
-<col class="row_column_38">
-<col class="row_column_38">
-<col class="row_column_38">
-<col class="row_column_38">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_39">
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Prueba</p>
+<tr>
+<th>
+<p>Prueba</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Sexo</p>
+<th>
+<p>Sexo</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Menor de 35 años</p>
+<th>
+<p>Menor de 35 años</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Igual o mayor de 35 y menor de 40 años</p>
+<th>
+<p>Igual o mayor de 35 y menor de 40 años</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Igual o mayor de 40 y menor de 45 años</p>
+<th>
+<p>Igual o mayor de 40 y menor de 45 años</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Igual o mayor de 45 y menor de 50 años</p>
+<th>
+<p>Igual o mayor de 45 y menor de 50 años</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Igual o mayor de 50 años</p>
+<th>
+<p>Igual o mayor de 50 años</p>
 </th>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Potencia tren superior (2).</p>
+<p>Potencia tren superior (2).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">16</p>
+<p>16</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13</p>
+<p>13</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11</p>
+<p>11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9</p>
+<p>9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7</p>
+<p>7</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Soltura acuática (5).</p>
+<p>Soltura acuática (5).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’10’’</p>
+<p>1’10’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’11’’</p>
+<p>1’11’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’13’’</p>
+<p>1’13’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’17’’</p>
+<p>1’17’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’20’’</p>
+<p>1’20’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’21’’</p>
+<p>1’21’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’23’’</p>
+<p>1’23’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’28’’</p>
+<p>1’28’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’29’’</p>
+<p>1’29’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1’31’’</p>
+<p>1’31’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Velocidad (7).</p>
+<p>Velocidad (7).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,1’’</p>
+<p>10,1’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,4’’</p>
+<p>10,4’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,9’’</p>
+<p>10,9’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,3’’</p>
+<p>11,3’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,6’’</p>
+<p>11,6’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,1’’</p>
+<p>11,1’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11,4’’</p>
+<p>11,4’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12,4’’</p>
+<p>12,4’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12,7’’</p>
+<p>12,7’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13,3’’</p>
+<p>13,3’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Resistencia (8).</p>
+<p>Resistencia (8).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">H</p>
+<p>H</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10’23’’</p>
+<p>10’23’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10’48’’</p>
+<p>10’48’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11’38’’</p>
+<p>11’38’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11’56’’</p>
+<p>11’56’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12’21’’</p>
+<p>12’21’’</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">M</p>
+<p>M</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12’24’’</p>
+<p>12’24’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12’46’’</p>
+<p>12’46’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14’08’’</p>
+<p>14’08’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">14’45’’</p>
+<p>14’45’’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15’07’’</p>
+<p>15’07’’</p>
 </td>
 </tr>
 </tbody>

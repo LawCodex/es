@@ -1942,14 +1942,6 @@ Las normas de esta sección han de aplicarse únicamente a las adquisiciones por
 
 Los pactos sucesorios regulados en el título II de la Ley de sucesión voluntaria paccionada o contractual de las Illes Balears tendrán el carácter de título sucesorio a efectos del artículo 11.b) del Reglamento del impuesto sobre sucesiones y donaciones y, en consecuencia, disfrutarán de todos los beneficios fiscales inherentes a las adquisiciones sucesorias en la medida en que sean aplicables.
 
-> Téngase en cuenta, que este artículo, modificado por la disposición adicional 1.1 de la Ley 8/2022, de 11 de noviembre. [Ref. BOE-A-2022-20278](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-20278), entra en vigor el 17 de enero de 2023 según determina su disposición final 3.
-
-> Redacción anterior:
-
-> Artículo 57. Donación universal y definición.
-
-> La donación universal y la definición a que se refieren los artículos 8 a 13, 50, 51 y 73 de la Compilación de Derecho Civil de las Illes Balears, aprobada por el Decreto Legislativo 79/1990, de 6 de septiembre, tendrán el carácter de título sucesorio a los efectos del artículo 11 b del Reglamento del Impuesto sobre Sucesiones y Donaciones, y, en consecuencia, gozarán de todos los beneficios fiscales inherentes a las adquisiciones sucesorias en la medida que le sean aplicables.
-
 > Se modifica, con efectos desde el 17 de enero de 2023, por la disposición adicional 1.1 de la Ley 8/2022, de 11 de noviembre. [Ref. BOE-A-2022-20278](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-20278)
 
 ###### Artículo 58. Asignación o distribución de bienes determinados y fiducia sucesoria.
@@ -1959,14 +1951,6 @@ A las asignaciones o distribuciones de bienes determinados realizadas por el tes
 ###### Artículo 59. Pactos sucesorios aplicables en las islas de Eivissa y Formentera.
 
 Los pactos sucesorios regulados en el título III de la Ley de sucesión voluntaria paccionada o contractual de las Illes Balears tendrán el carácter de título sucesorio a efectos del artículo 11.b) del Reglamento del impuesto sobre sucesiones y donaciones y, en consecuencia, disfrutarán de los beneficios fiscales inherentes a las adquisiciones sucesorias en la medida en que sean aplicables.
-
-> Téngase en cuenta, que este artículo, modificado por la disposición adicional 1.2 de la Ley 8/2022, de 11 de noviembre. [Ref. BOE-A-2022-20278](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-20278), entra en vigor el 17 de enero de 2023 según determina su disposición final 3.
-
-> Redacción anterior:
-
-> Artículo 59. Otros pactos sucesorios.
-
-> Los pactos sucesorios regulados en los artículos 72 a 77 de la Compilación de Derecho Civil de las Illes Balears tendrán el carácter de título sucesorio a los efectos del artículo 11 b del Reglamento del Impuesto sobre Sucesiones y Donaciones, y, en consecuencia, gozarán de los beneficios fiscales inherentes a las adquisiciones sucesorias en cuanto les sean aplicables.
 
 > Se modifica, con efectos desde el 17 de enero de 2023, por la disposición adicional 1.2 de la Ley 8/2022, de 11 de noviembre. [Ref. BOE-A-2022-20278](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-20278)
 

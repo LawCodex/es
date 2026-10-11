@@ -156,8 +156,6 @@ A efectos del presente real decreto, se entenderá por:
 
 28\. Modo de emergencia del mercado interior: modo de emergencia del mercado interior tal como se define en el artículo 3, número 3, del Reglamento (UE) 2024/2747 del Parlamento Europeo y del Consejo, de 9 de octubre de 2024.
 
-> Téngase en cuenta que los apartados 27 y 28, añadidos por el art. 6.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entran en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añaden los apartados 27 y 28 por el art. 6.1 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 3. Comercialización y puesta en servicio.
@@ -568,8 +566,6 @@ A los incumplimientos de lo dispuesto en el presente real decreto les será de a
 
 ## CAPÍTULO VII — Procedimientos de emergencia
 
-> Téngase en cuenta que este capítulo, añadido por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 35. Aplicación de los procedimientos de emergencia.
@@ -584,8 +580,6 @@ A los incumplimientos de lo dispuesto en el presente real decreto les será de a
 
 5\. La aplicación de los artículos 37 y 38, así como la del apartado 4 del presente artículo deberá ajustarse a lo dispuesto en los actos de ejecución que la Comisión adopte en virtud del apartado 4 del artículo 38 bis de la Directiva 2014/34/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014. Las autoridades competentes tomarán las disposiciones pertinentes para dar cumplimiento a las medidas de aplicación establecidas en dichos actos.
 
-> Téngase en cuenta que este artículo, añadido por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 36. Priorización de la evaluación de la conformidad de los productos designados como bienes pertinentes para crisis.
@@ -597,8 +591,6 @@ A los incumplimientos de lo dispuesto en el presente real decreto les será de a
 3\. La priorización de las solicitudes de evaluación de la conformidad de los productos con arreglo al apartado 2 no dará lugar a costes adicionales desproporcionados para los fabricantes que hayan presentado dichas solicitudes.
 
 4\. Los organismos notificados harán esfuerzos razonables por aumentar sus capacidades en materia de ensayo para los productos a que se refiere el apartado 1 en relación con las cuales hayan sido notificados.
-
-> Téngase en cuenta que este artículo, añadido por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
@@ -672,8 +664,6 @@ Las comunidades autónomas informarán inmediatamente de dichas medidas a la Com
 
 12\. Las autorizaciones concedidas de acuerdo con el apartado 1 o el reconocimiento de las autorizaciones concedidas en otros Estados miembros de acuerdo con el apartado 5 no afectará a la aplicación de los procedimientos de evaluación de la conformidad pertinentes establecidos en el artículo 14.
 
-> Téngase en cuenta que este artículo, añadido por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
-
 > Se añade por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
 ### Artículo 38. Presunción de conformidad basada en normas y especificaciones comunes de los productos que hayan sido designados como bienes pertinentes para crisis.
@@ -683,8 +673,6 @@ Las comunidades autónomas informarán inmediatamente de dichas medidas a la Com
 2\. Cuando el órgano competente de una comunidad autónoma considere que una norma o especificación común contemplada en el apartado 1 del artículo 38 quinquies de la Directiva 2014/34/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, no satisface plenamente los requisitos esenciales de salud y seguridad establecidos en el anexo II de este real decreto, lo comunicará al órgano competente del Ministerio de Industria y Turismo enviando una explicación detallada.
 
 El órgano competente del Ministerio de Industria y Turismo informará de ello a la Comisión.
-
-> Téngase en cuenta que este artículo, añadido por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 
@@ -711,8 +699,6 @@ En el plazo máximo de cinco días hábiles desde la remisión de la solicitud a
 6\. Cuando la solicitud indicada en el apartado anterior requiera asistencia específica de una autoridad de vigilancia del mercado concreta, las solicitudes serán remitidas directamente a dicha comunidad autónoma informando de ello al Estado miembro solicitante.
 
 7\. Las solicitudes de asistencia entre las autoridades de vigilancia del mercado, así como el resto de comunicaciones a las que se refiere el presente artículo se realizarán por medios electrónicos.
-
-> Téngase en cuenta que este artículo, añadido por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023), entra en vigor el 30 de mayo de 2026, según establece su disposición final 4.
 
 > Se añade por el art. 6.2 del Real Decreto 302/2026, de 8 de abril. [Ref. BOE-A-2026-8023](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023)
 

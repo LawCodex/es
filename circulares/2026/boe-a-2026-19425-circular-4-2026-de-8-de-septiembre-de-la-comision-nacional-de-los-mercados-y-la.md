@@ -2089,53 +2089,48 @@ De Transporte Secundario (CCOM<sub>TS</sub>) 0,50.
 
 4) Instalaciones estandarizadas de una planta de gas natural licuado.
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Valores Unitarios de Coste O&amp;M</th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">VUOMF<sub>IS</sub></p>
-<p class="cabeza_tabla">(€/unidad)</p>
+<th>Valores Unitarios de Coste O&amp;M</th>
+<th>
+<p>VUOMF<sub>IS</sub></p>
+<p>(€/unidad)</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">VUOMV<sub>IS</sub></p>
-<p class="cabeza_tabla">(€/unidad capacidad)</p>
+<th>
+<p>VUOMV<sub>IS</sub></p>
+<p>(€/unidad capacidad)</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Tanque de GNL.</td>
-<td class="cuerpo_tabla_centro">2.458.019,98 €/Tanque</td>
-<td class="cuerpo_tabla_centro">20,192054€/ m<sup>3</sup> GNL</td>
+<td>Tanque de GNL.</td>
+<td>2.458.019,98 €/Tanque</td>
+<td>20,192054€/ m<sup>3</sup> GNL</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vaporización.</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">2,296453 €/(m<sup>3</sup>/h)</td>
+<td>Vaporización.</td>
+<td>–</td>
+<td>2,296453 €/(m<sup>3</sup>/h)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cargadero de GNL en Cisterna.</td>
-<td class="cuerpo_tabla_centro">189.095,17 €/Cargadero</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Cargadero de GNL en Cisterna.</td>
+<td>189.095,17 €/Cargadero</td>
+<td>–</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EC del boil-off para emisión directa a Red de T&amp;D.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Según VU de EC equivalente de transporte</td>
+<td>EC del boil-off para emisión directa a Red de T&amp;D.</td>
+<td colspan="2">Según VU de EC equivalente de transporte</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Sistema de medida gas emitido a la Red de T&amp;D.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Según VU de ERM/EM equivalente de transporte</td>
+<td>Sistema de medida gas emitido a la Red de T&amp;D.</td>
+<td colspan="2">Según VU de ERM/EM equivalente de transporte</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos de gestión y resto de instalaciones de la planta de GNL.</td>
-<td class="cuerpo_tabla_centro">1.866.125,89 €/Planta</td>
-<td class="cuerpo_tabla_centro">–</td>
+<td>Gastos de gestión y resto de instalaciones de la planta de GNL.</td>
+<td>1.866.125,89 €/Planta</td>
+<td>–</td>
 </tr>
 </tbody>
 </table>
@@ -2280,294 +2275,280 @@ Descriptivo de CUAR:
 
 Fecha de Puesta en Servicio:
 
-<table class="tabla_girada_condensada" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">En Euros</th>
-<th class="cabeza_tabla" colspan="3">Año 1</th>
-<th class="cabeza_tabla" colspan="3">Año n</th>
-<th class="cabeza_tabla" colspan="3">Total</th>
-<th class="cabeza_tabla" rowspan="2">Importe total declarado</th>
-<th class="cabeza_tabla" rowspan="2">Total Provisión contable de facturas pendientes de recibir/ Otras provisiones y Estimaciones</th>
+<th rowspan="2">En Euros</th>
+<th colspan="3">Año 1</th>
+<th colspan="3">Año n</th>
+<th colspan="3">Total</th>
+<th rowspan="2">Importe total declarado</th>
+<th rowspan="2">Total Provisión contable de facturas pendientes de recibir/ Otras provisiones y Estimaciones</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Costes externos activados</th>
-<th class="cabeza_tabla">Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
-<th class="cabeza_tabla">Otros costes internos Activados</th>
-<th class="cabeza_tabla">Costes externos activados</th>
-<th class="cabeza_tabla">Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
-<th class="cabeza_tabla">Otros costes internos Activados</th>
-<th class="cabeza_tabla">Costes externos activados</th>
-<th class="cabeza_tabla">Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
-<th class="cabeza_tabla">Otros costes internos Activados</th>
+<th>Costes externos activados</th>
+<th>Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
+<th>Otros costes internos Activados</th>
+<th>Costes externos activados</th>
+<th>Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
+<th>Otros costes internos Activados</th>
+<th>Costes externos activados</th>
+<th>Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
+<th>Otros costes internos Activados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de Proyecto, Ingeniería, Supervisión e Inspecciones.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gestión de Proyecto, Ingeniería, Supervisión e Inspecciones.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Permisos, licencias, tasas y seguros.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Permisos, licencias, tasas y seguros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Terrenos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Terrenos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Edificios (incluye su construcción y materiales).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Edificios (incluye su construcción y materiales).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Construcción, obra civil, montaje y puesta en servicio (incluye mano de obra).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Construcción, obra civil, montaje y puesta en servicio (incluye mano de obra).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Materiales y Equipos.</td>
-<td class="cuerpo_tabla_centro" colspan="11"> </td>
+<td>Materiales y Equipos.</td>
+<td colspan="11"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Listado específico por tipo de instalación (ver detalle en el anexo II de las Tablas de la Circular 1/2015 de la CNMC)).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Listado específico por tipo de instalación (ver detalle en el anexo II de las Tablas de la Circular 1/2015 de la CNMC)).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros costes necesarios (Medioambientales, etc.).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Otros costes necesarios (Medioambientales, etc.).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valor de Piezas Adquiridas, de acuerdo con el PGC, con objeto de mantener un nivel de repuestos de seguridad del CUAR. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Valor de Piezas Adquiridas, de acuerdo con el PGC, con objeto de mantener un nivel de repuestos de seguridad del CUAR. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del importe de los desembolsos necesarios para realizar la inspección general del CUAR, porque se amortiza a diferente ritmo que el CUAR. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del importe de los desembolsos necesarios para realizar la inspección general del CUAR, porque se amortiza a diferente ritmo que el CUAR. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del importe de los costes relacionados con grandes reparaciones del CUAR, porque se amortiza a diferente ritmo que el CUAR. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del importe de los costes relacionados con grandes reparaciones del CUAR, porque se amortiza a diferente ritmo que el CUAR. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del coste de desmantelamiento o retiro del activo. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del coste de desmantelamiento o retiro del activo. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del coste de rehabilitación del lugar donde se ubica. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del coste de rehabilitación del lugar donde se ubica. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, de provisiones por responsabilidades derivadas de los beneficios de expropiación forzosa, de ocupación temporal de bienes y derechos o de servidumbres de paso, u otro tipo de responsabilidades. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, de provisiones por responsabilidades derivadas de los beneficios de expropiación forzosa, de ocupación temporal de bienes y derechos o de servidumbres de paso, u otro tipo de responsabilidades. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del coste de otras obligaciones asociadas al activo que den lugar al registro de una provisión. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del coste de otras obligaciones asociadas al activo que den lugar al registro de una provisión. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Gastos No Financieros.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Total Gastos No Financieros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos financieros activados (financiación específica).</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gastos financieros activados (financiación específica).</td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos financieros activados (financiación genérica).</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gastos financieros activados (financiación genérica).</td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Gastos Financieros Activados.</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Total Gastos Financieros Activados.</td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">  Total.</td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>  Total.</td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td colspan="3"> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="12">
-<p class="cita">(1) Valor que no forma parte del valor auditado que computa a efectos de cálculo del valor de inversión reconocido.</p>
+<p>(1) Valor que no forma parte del valor auditado que computa a efectos de cálculo del valor de inversión reconocido.</p>
 </td>
 </tr>
 </tfoot>
@@ -2581,263 +2562,251 @@ Descriptivo de CUAR:
 
 Fecha de Puesta en Servicio:
 
-<table class="tabla_girada" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">En Euros</th>
-<th class="cabeza_tabla" colspan="2">Costes externos activados</th>
-<th class="cabeza_tabla" rowspan="2">Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
-<th class="cabeza_tabla" rowspan="2">Otros costes internos Activados</th>
-<th class="cabeza_tabla" rowspan="2">Importe total declarado</th>
-<th class="cabeza_tabla" colspan="3">Provisión contable de facturas pendientes de recibir/ Otras provisiones y Estimaciones</th>
-<th class="cabeza_tabla" rowspan="2">Total Provisión contable de facturas pendientes de recibir/ Otras provisiones y Estimaciones</th>
+<th rowspan="2">En Euros</th>
+<th colspan="2">Costes externos activados</th>
+<th rowspan="2">Trabajos Realizados por la Empresa para su Inmovilizado activados (TREI)</th>
+<th rowspan="2">Otros costes internos Activados</th>
+<th rowspan="2">Importe total declarado</th>
+<th colspan="3">Provisión contable de facturas pendientes de recibir/ Otras provisiones y Estimaciones</th>
+<th rowspan="2">Total Provisión contable de facturas pendientes de recibir/ Otras provisiones y Estimaciones</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Operaciones Con Partes Vinculadas</th>
-<th class="cabeza_tabla">Operaciones Con Partes <span class="no_partir">NO-Vincu</span>ladas</th>
-<th class="cabeza_tabla">Operaciones Con Partes Vinculadas</th>
-<th class="cabeza_tabla">Operaciones Con Partes <span class="no_partir">NO-Vinculadas</span></th>
-<th class="cabeza_tabla">Otros costes internos Activados</th>
+<th>Operaciones Con Partes Vinculadas</th>
+<th>Operaciones Con Partes <span>NO-Vincu</span>ladas</th>
+<th>Operaciones Con Partes Vinculadas</th>
+<th>Operaciones Con Partes <span>NO-Vinculadas</span></th>
+<th>Otros costes internos Activados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Gestión de Proyecto, Ingeniería, Supervisión e Inspecciones.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gestión de Proyecto, Ingeniería, Supervisión e Inspecciones.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Permisos, licencias, tasas y seguros.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Permisos, licencias, tasas y seguros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Terrenos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Terrenos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Edificios (incluye su construcción y materiales).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Edificios (incluye su construcción y materiales).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Construcción, obra civil, montaje y puesta en servicio (incluye mano de obra).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Construcción, obra civil, montaje y puesta en servicio (incluye mano de obra).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Materiales y Equipos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Materiales y Equipos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Listado específico por tipo de instalación (ver detalle en el anexo II Tablas de la Circular 1/2015 de la CNMC).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Listado específico por tipo de instalación (ver detalle en el anexo II Tablas de la Circular 1/2015 de la CNMC).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros costes necesarios (Medioambientales, etc.).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Otros costes necesarios (Medioambientales, etc.).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valor de Piezas Adquiridas, de acuerdo con el PGC, con objeto de mantener un nivel de repuestos de seguridad del CUAR. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Valor de Piezas Adquiridas, de acuerdo con el PGC, con objeto de mantener un nivel de repuestos de seguridad del CUAR. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del importe de los desembolsos necesarios para realizar la inspección general del CUAR porque se amortiza a diferente ritmo que el CUAR. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del importe de los desembolsos necesarios para realizar la inspección general del CUAR porque se amortiza a diferente ritmo que el CUAR. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del importe de los costes relacionados con grandes reparaciones del CUAR porque se amortiza a diferente ritmo que el CUAR. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del importe de los costes relacionados con grandes reparaciones del CUAR porque se amortiza a diferente ritmo que el CUAR. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del coste de desmantelamiento o retiro del activo. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del coste de desmantelamiento o retiro del activo. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del coste de rehabilitación del lugar donde se ubica. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del coste de rehabilitación del lugar donde se ubica. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, de provisiones por responsabilidades derivadas de los beneficios de expropiación forzosa, de ocupación temporal de bienes y derechos o de servidumbres de paso, u otro tipo de responsabilidades. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, de provisiones por responsabilidades derivadas de los beneficios de expropiación forzosa, de ocupación temporal de bienes y derechos o de servidumbres de paso, u otro tipo de responsabilidades. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Estimación inicial, de acuerdo con el PGC, del coste de otras obligaciones asociadas al activo que den lugar al registro de una provisión. (1).</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Estimación inicial, de acuerdo con el PGC, del coste de otras obligaciones asociadas al activo que den lugar al registro de una provisión. (1).</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Gastos No Financieros.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Total Gastos No Financieros.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos financieros activados (financiación específica).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gastos financieros activados (financiación específica).</td>
+<td colspan="4"> </td>
+<td> </td>
+<td colspan="3"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gastos financieros activados (financiación genérica).</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gastos financieros activados (financiación genérica).</td>
+<td colspan="4"> </td>
+<td> </td>
+<td colspan="3"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Total Gastos Financieros Activados.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Total Gastos Financieros Activados.</td>
+<td colspan="4"> </td>
+<td> </td>
+<td colspan="3"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">  Total anual.</td>
-<td class="cuerpo_tabla_centro" colspan="4"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" colspan="3"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>  Total anual.</td>
+<td colspan="4"> </td>
+<td> </td>
+<td colspan="3"> </td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="10">
-<p class="cita">(1) Valor que no forma parte del valor auditado que computa a efectos de cálculo del valor de inversión reconocido.</p>
+<p>(1) Valor que no forma parte del valor auditado que computa a efectos de cálculo del valor de inversión reconocido.</p>
 </td>
 </tr>
 </tfoot>
@@ -2871,104 +2840,96 @@ Descriptivo de CUAR:
 
 Fecha de Puesta en Servicio:
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">En Euros</th>
-<th class="cabeza_tabla" colspan="2">Operaciones Con Partes Vinculadas</th>
-<th class="cabeza_tabla" colspan="2">
-<p class="cabeza_tabla">Operaciones Con Partes</p>
-<p class="cabeza_tabla">NO Vinculadas</p>
+<th rowspan="2">En Euros</th>
+<th colspan="2">Operaciones Con Partes Vinculadas</th>
+<th colspan="2">
+<p>Operaciones Con Partes</p>
+<p>NO Vinculadas</p>
 </th>
-<th class="cabeza_tabla" rowspan="2">Total</th>
+<th rowspan="2">Total</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Importes percibidos</th>
-<th class="cabeza_tabla">Importes pendientes de recibir</th>
-<th class="cabeza_tabla">Importes percibidos</th>
-<th class="cabeza_tabla">Importes pendientes de recibir</th>
+<th>Importes percibidos</th>
+<th>Importes pendientes de recibir</th>
+<th>Importes percibidos</th>
+<th>Importes pendientes de recibir</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Derechos de cobro/Importes percibidos por subvenciones.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Derechos de cobro/Importes percibidos por subvenciones.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Unión Europea.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Unión Europea.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Estatales.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Estatales.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> CCAA.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> CCAA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> Otras.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> Otras.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valor razonable de las instalaciones cedidas o financiadas por terceros o cualquier otra cesión de derecho de uso sobre bienes a título gratuito asociada a la instalación.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Valor razonable de las instalaciones cedidas o financiadas por terceros o cualquier otra cesión de derecho de uso sobre bienes a título gratuito asociada a la instalación.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importes percibidos por venta de materiales y equipos.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Importes percibidos por venta de materiales y equipos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importes percibidos por seguros asociados a la instalación.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Importes percibidos por seguros asociados a la instalación.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Importes percibidos por otras medidas de efecto equivalente.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Importes percibidos por otras medidas de efecto equivalente.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -2981,83 +2942,69 @@ Además de los datos identificativos del proveedor (nombre y CIF), se deberá fa
 
 Cuadro A.2 Proveedores
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Código Proveedor</th>
-<th class="cabeza_tabla" rowspan="2">Parte vinculada</th>
-<th class="cabeza_tabla" rowspan="2">Proveedor extranjero</th>
-<th class="cabeza_tabla" rowspan="2">Razón Social</th>
-<th class="cabeza_tabla" rowspan="2">CIF-NIF</th>
-<th class="cabeza_tabla" rowspan="2">Tipo de suministro</th>
-<th class="cabeza_tabla" colspan="2">Importe inversión</th>
-<th class="cabeza_tabla" rowspan="2">Importe Total Proveedor</th>
-<th class="cabeza_tabla" colspan="2">Valor del Margen Aplicado Partes Vinculadas en importe</th>
-<th class="cabeza_tabla" rowspan="2">% sobre Importe Total</th>
+<th rowspan="2">Código Proveedor</th>
+<th rowspan="2">Parte vinculada</th>
+<th rowspan="2">Proveedor extranjero</th>
+<th rowspan="2">Razón Social</th>
+<th rowspan="2">CIF-NIF</th>
+<th rowspan="2">Tipo de suministro</th>
+<th colspan="2">Importe inversión</th>
+<th rowspan="2">Importe Total Proveedor</th>
+<th colspan="2">Valor del Margen Aplicado Partes Vinculadas en importe</th>
+<th rowspan="2">% sobre Importe Total</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Facturado</th>
-<th class="cabeza_tabla">Provisionado</th>
-<th class="cabeza_tabla">Facturado</th>
-<th class="cabeza_tabla">Provisionado</th>
+<th>Facturado</th>
+<th>Provisionado</th>
+<th>Facturado</th>
+<th>Provisionado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -3221,83 +3168,78 @@ Descripción de campos:
 
 Empresa contratante:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="14%">
-<col width="80%">
-<col width="6%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Forma de contratación.</td>
-<td class="cuerpo_tabla_izq">Nombre del auditor firmante del informe y/o de la sociedad de auditoría.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">Forma de contratación.</td>
+<td>Nombre del auditor firmante del informe y/o de la sociedad de auditoría.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NIF auditor de cuentas o CIF sociedad de auditoría.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>NIF auditor de cuentas o CIF sociedad de auditoría.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Indique fecha aaaa-mm-dd (fecha de la firma de la aceptación del encargo).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Indique fecha aaaa-mm-dd (fecha de la firma de la aceptación del encargo).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de inicio.</td>
-<td class="cuerpo_tabla_izq">Indique fecha aaaa-mm-dd de inicio de los trabajos.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Fecha de inicio.</td>
+<td>Indique fecha aaaa-mm-dd de inicio de los trabajos.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha de fin.</td>
-<td class="cuerpo_tabla_izq">Indique fecha aaaa-mm-dd de fin de los trabajos (fecha de emisión del informe de revisión independiente).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Fecha de fin.</td>
+<td>Indique fecha aaaa-mm-dd de fin de los trabajos (fecha de emisión del informe de revisión independiente).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Procedimiento.</td>
-<td class="cuerpo_tabla_izq">Descripción proceso de contratación/adjudicación del encargo de revisión al auditor.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Procedimiento.</td>
+<td>Descripción proceso de contratación/adjudicación del encargo de revisión al auditor.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Honorarios.</td>
-<td class="cuerpo_tabla_izq">Honorarios devengados por la realización del encargo.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Honorarios.</td>
+<td>Honorarios devengados por la realización del encargo.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="6">Recursos empleados.</td>
-<td class="cuerpo_tabla_izq">N.º de horas de auditor firmante del informe.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="6">Recursos empleados.</td>
+<td>N.º de horas de auditor firmante del informe.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de horas de gerente.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N.º de horas de gerente.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de horas de colaborador senior (personal con más de 5 años de experiencia en auditoría de cuentas excluidas las horas de gerente y socio).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N.º de horas de colaborador senior (personal con más de 5 años de experiencia en auditoría de cuentas excluidas las horas de gerente y socio).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de horas de colaborador junior (personal con menos de 5 años de experiencia en auditoría de cuentas excluidas las horas de gerente y socio).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>N.º de horas de colaborador junior (personal con menos de 5 años de experiencia en auditoría de cuentas excluidas las horas de gerente y socio).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nombre y apellidos del auditor firmante del informe.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Nombre y apellidos del auditor firmante del informe.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DNI del auditor firmante del informe de revisión independiente.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>DNI del auditor firmante del informe de revisión independiente.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Experto auditor.</td>
-<td class="cuerpo_tabla_izq">Nombre del experto del auditor.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="3">Experto auditor.</td>
+<td>Nombre del experto del auditor.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIF del experto (sociedad) o NIF del experto (persona física).</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>CIF del experto (sociedad) o NIF del experto (persona física).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trabajo realizado por el experto.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Trabajo realizado por el experto.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -3327,195 +3269,188 @@ Cuando se realicen pruebas selectivas, la base estadística de cada uno de los i
 
 Se considerará que se produce un error en un elemento seleccionado cuando se produzca una incorrección material, incumplimiento o una limitación al alcance en cualquiera de las comprobaciones establecidas para cada una de las pruebas.
 
-<table class="tabla_girada_condensada">
-<colgroup>
-<col width="8%">
-<col width="14%">
-<col width="56%">
-<col width="10%">
-<col width="12%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Código prueba</th>
-<th class="cabeza_tabla" colspan="2">Descripción de la prueba</th>
-<th class="cabeza_tabla">AF</th>
-<th class="cabeza_tabla">Técnica de comprobación</th>
+<th>Código prueba</th>
+<th colspan="2">Descripción de la prueba</th>
+<th>AF</th>
+<th>Técnica de comprobación</th>
 </tr>
 </thead>
 <tbody>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_centro" rowspan="18">
-<p class="cuerpo_tabla_centro">A-A1.1</p>
-<p class="cuerpo_tabla_centro">A-A1.2</p>
+<tr>
+<td rowspan="18">
+<p>A-A1.1</p>
+<p>A-A1.2</p>
 </td>
-<td class="cuerpo_tabla_izq">Población.</td>
-<td class="cuerpo_tabla_izq">Unidades monetarias del conjunto de partidas declaradas en los cuadros «A.1.1-Costes con desglose por año de desarrollo» y «A.1.2-Costes con desglose por operaciones realizadas con partes vinculadas» del anexo A.</td>
-<td class="cuerpo_tabla_centro" rowspan="18">
-<p class="cuerpo_tabla_centro">P&amp;D</p>
-<p class="cuerpo_tabla_centro">V&amp;E</p>
-<p class="cuerpo_tabla_centro">T</p>
-<p class="cuerpo_tabla_centro">R</p>
-<p class="cuerpo_tabla_centro">A</p>
-<p class="cuerpo_tabla_centro">C</p>
+<td>Población.</td>
+<td>Unidades monetarias del conjunto de partidas declaradas en los cuadros «A.1.1-Costes con desglose por año de desarrollo» y «A.1.2-Costes con desglose por operaciones realizadas con partes vinculadas» del anexo A.</td>
+<td rowspan="18">
+<p>P&amp;D</p>
+<p>V&amp;E</p>
+<p>T</p>
+<p>R</p>
+<p>A</p>
+<p>C</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="18">Indagación. Inspección registros contables y documentación soporte.</td>
+<td rowspan="18">Indagación. Inspección registros contables y documentación soporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo de revisión.</td>
-<td class="cuerpo_tabla_izq">Muestreo estadístico (en este caso, se recomienda muestreo por unidad monetaria MUM) o por combinación de muestreo de elementos específicos (significativos y/o excepcionales) y muestreo estadístico.</td>
+<td>Tipo de revisión.</td>
+<td>Muestreo estadístico (en este caso, se recomienda muestreo por unidad monetaria MUM) o por combinación de muestreo de elementos específicos (significativos y/o excepcionales) y muestreo estadístico.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Unidad de muestreo.</td>
-<td class="cuerpo_tabla_izq">Unidades monetarias declaradas en cada fila en caso MUM o total Cuadro para otros tipos de muestreo.</td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="15">Comprobaciones.</td>
-<td class="cuerpo_tabla_izq">Para los costes localizados en las filas seleccionadas se deberán comprobar los siguientes aspectos:</td>
+<td>Unidad de muestreo.</td>
+<td>Unidades monetarias declaradas en cada fila en caso MUM o total Cuadro para otros tipos de muestreo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Se correspondan con el activo regulado CUAR desarrollado. Indagación e inspección registros y documentación soporte.</td>
+<td rowspan="15">Comprobaciones.</td>
+<td>Para los costes localizados en las filas seleccionadas se deberán comprobar los siguientes aspectos:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">2. Se correspondan con la naturaleza del concepto de coste recogido en los cuadros. Para el caso particular de filas correspondientes a partidas recogidas en la Circular 1/2015 de la CNMC se comprobará que sean conformes a los conceptos de costes previstos en el anexo II de Tablas para el tipo de activo declarado y a las definiciones correspondientes apdo.3 anexo IV de dicha Circular. Indagación e inspección documentación soporte. En concreto, para el concepto de coste «Materiales y equipos», inspección de la documentación soporte tanto de la compra como de su recepción (factura y/o contrato y albarán de entrada) y comprobar que se corresponden efectivamente con el tipo de material y equipo declarado.</p>
-<p class="cuerpo_tabla_izq">Asimismo, para las partidas correspondientes a los conceptos de coste recogidos en el anexo II Tablas de la Circular 1/2015, se comprobará que no se incluyan estimaciones de costes futuros(por desmantelamiento o retiro, rehabilitación del lugar, por responsabilidades, etc.), costes posteriores a la puesta en condiciones de funcionamiento de los activos regulados, importe de piezas de recambio, estimaciones de costes por reparaciones generales o inspecciones periódicas, y que estos últimos costes se hubieran declarado correctamente en las partidas identificadas con (1) en los cuadros A.1.1 y A.1.2 del anexo A.</p>
-</td>
+<td>1. Se correspondan con el activo regulado CUAR desarrollado. Indagación e inspección registros y documentación soporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Cuando se trate de costes directos, se correspondan con el CUAR para el que se declaran (conforme definición apdo.3 anexo IV de la Circular 1/2015 de la CNMC).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">4. En los que proceda, que dichos conceptos de coste se hayan localizado conforme a las reglas de localización del apdo. 4.7.4. Anexo IV de la Circular 1/2015 de la CNMC.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">5. Se encuentren registrados en las cuentas contables. Inspección registros contables.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">6. Que el importe de los costes directos coincida con la información que figura en los registros contables y esté debidamente justificado por documentación soporte (ej. facturas de compra, documentos notariales, facturas de trabajos subcontratados a terceros, por servicios recibidos, justificantes de pago de los anticipos a cuenta realizados en el ejercicio, etc.).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">7. Que las políticas, criterios, procedimientos y bases de cálculo aplicadas para el cálculo y reparto de los costes indirectos (TREIs) sean adecuadas.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">8. En concreto, para el concepto de coste «Gastos financieros activados» (GFA), indagar el cálculo de los intereses financieros activados hasta la puesta en condiciones de funcionamiento de los activos. Cuando correspondan con un coste de desmantelamiento de activos regulados, inspeccionar registros contables y justificantes de pago de los importes satisfechos por dicho concepto de desmantelamiento.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">9. Cuando correspondan al tipo de coste CC-48 conforme a las definiciones del apdo.3 anexo IV de la Circular 1/2015 de la CNMC, por compras de gas talón, colchón o mínimo de llenado. Inspección documentación soporte de la compra.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">10. Cuando correspondan al tipo de coste CC-48 conforme a las definiciones del apdo.3 anexo IV de la Circular 1/2015 de la CNMC por compras de activo regulado en curso o al tipo de coste CC-47, no se hubieran localizado en el CUAR (conforme reglas de localización apto. 4.7.4 anexo IV y apdo. 6.1 anexo IV).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">11. Cuando tengan origen en una operación con parte vinculada, estuviera identificado de manera separada en las columnas específicas del «CUADRO A.1.2-Costes con desglose por operaciones realizadas con partes vinculadas y no vinculadas» y que el concepto de coste declarado sea coherente con el tipo de operación realizada.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">12. Cuando correspondan a una instalación cedida y financiada total o parcialmente por terceros o cualquier otra cesión de derecho de uso sobre bienes a título gratuito asociada a la instalación, estuvieran identificados en el «CUADRO A.1.3-Ingresos con desglose por año de desarrollo» y en el «CUADRO A.1.4-Ingresos con desglose por operaciones realizadas con partes vinculadas y no vinculadas» correspondiente a dicha instalación.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">13. Cuando se correspondan con estimaciones de costes futuros, se deberá revisar el soporte documental que sirva de base al registro contable de la provisión.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">14. Cuando se correspondan con estimaciones de costes de las inspecciones generales o las grandes reparaciones periódicas del CUAR, se deberán revisar que las políticas, criterios, procedimientos, bases de cálculo y el soporte documental utilizados sean adecuados.</td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_centro" rowspan="14">
-<p class="cuerpo_tabla_centro">A-A1.3</p>
-<p class="cuerpo_tabla_centro">A-A1.4</p>
-</td>
-<td class="cuerpo_tabla_izq">Población.</td>
-<td class="cuerpo_tabla_izq">Unidades monetarias del conjunto de filas declaradas en los cuadros «A.1.3-Ingresos con desglose por año de desarrollo» y «A.1.4-Ingresos con desglose por operaciones realizadas con partes vinculadas y no vinculadas del anexo A».</td>
-<td class="cuerpo_tabla_centro" rowspan="14">
-<p class="cuerpo_tabla_centro">P&amp;D</p>
-<p class="cuerpo_tabla_centro">V&amp;E</p>
-<p class="cuerpo_tabla_centro">T</p>
-</td>
-<td class="cuerpo_tabla_izq" rowspan="14">Indagación. Inspección registros contables y documentación soporte.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Tipo de revisión.</td>
-<td class="cuerpo_tabla_izq">Examen 100 %.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Unidad de muestreo.</td>
-<td class="cuerpo_tabla_izq">Unidades monetarias declaradas en cada fila.</td>
-</tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq" rowspan="11">Comprobaciones.</td>
-<td class="cuerpo_tabla_izq">Para los importes localizados en cada una de las filas se deberán comprobar los siguientes aspectos:</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">1. Se correspondan con el activo regulado CUAR desarrollado. Indagación e inspección de registros y documentación soporte.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">2. Cuando se correspondan con los tipos de ingresos conforme definiciones apdo.3 anexo IV de la Circular 1/2015 de la CNMC, se comprobará que:</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">a) No tengan la consideración de ingresos no localizables, conforme al apdo. 4.7.4 del anexo IV de la Circular 1/2015 de la CNMC.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">b) Se correspondan con la naturaleza del tipo de ingreso declarado.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">c) Se hayan localizado en el CUAR que les corresponda atendiendo a los criterios del apdo. 4.7.2 anexo IV y a las reglas de localización del apdo. 4.7.4 anexo IV de la Circular 1/2015 de la CNMC.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">3. Cuando no se correspondan con los tipos de ingresos conforme definiciones apdo.3 anexo IV de la Circular 1/2015 de la CNMC, se comprobará que se hubieran declarado en los bloques F9-SI1, F9-SI2, F9-SI3 y F9-SI4 de las declaraciones presentadas por la empresa titular de la instalación en cumplimiento de la Circular 1/2015 durante los ejercicios de construcción de la instalación hasta la fecha de emisión del informe de revisión independiente.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">4. Se encuentren registrados contablemente. Inspección registros contables.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">5. Su valor monetario coincida con la información que figura en los registros contables y en la documentación soporte correspondiente (extractos bancarios, documento de concesión de la subvención de capital, contrato de cesión, etc.)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">6. Cuando tengan origen en una operación con parte vinculada, estuviera identificado de manera separada en las columnas específicas del «CUADRO A.1.4-Ingresos con desglose por operaciones realizadas con partes vinculadas y no vinculadas» y que el tipo de ingreso declarado sea coherente con el tipo de operación realizada.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">7. Cuando se trate de una subvención, se comprobará que se hubiera identificado de manera individualizada en un documento separado, indicándose quien concede la subvención, el importe subvencionado, así como las condiciones principales y plazos para su percepción. Además, se revisará la documentación soporte justificativa aportada por la empresa junto con dicho documento separado.</p>
-<p class="cuerpo_tabla_izq">8. Cuando haya importes pendientes de recibir de subvenciones de capital, verificar la información declarada a través de la información que figura en sus registros contables y en documentación soporte.</p>
-<p class="cuerpo_tabla_izq">9. Cuando se trate de instalaciones cedidas y/o financiadas total o parcialmente por terceros declaradas. Verificar la información declarada a través de la información que figura en sus registros contables y en documentación soporte.</p>
+<td>
+<p>2. Se correspondan con la naturaleza del concepto de coste recogido en los cuadros. Para el caso particular de filas correspondientes a partidas recogidas en la Circular 1/2015 de la CNMC se comprobará que sean conformes a los conceptos de costes previstos en el anexo II de Tablas para el tipo de activo declarado y a las definiciones correspondientes apdo.3 anexo IV de dicha Circular. Indagación e inspección documentación soporte. En concreto, para el concepto de coste «Materiales y equipos», inspección de la documentación soporte tanto de la compra como de su recepción (factura y/o contrato y albarán de entrada) y comprobar que se corresponden efectivamente con el tipo de material y equipo declarado.</p>
+<p>Asimismo, para las partidas correspondientes a los conceptos de coste recogidos en el anexo II Tablas de la Circular 1/2015, se comprobará que no se incluyan estimaciones de costes futuros(por desmantelamiento o retiro, rehabilitación del lugar, por responsabilidades, etc.), costes posteriores a la puesta en condiciones de funcionamiento de los activos regulados, importe de piezas de recambio, estimaciones de costes por reparaciones generales o inspecciones periódicas, y que estos últimos costes se hubieran declarado correctamente en las partidas identificadas con (1) en los cuadros A.1.1 y A.1.2 del anexo A.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">A-A2</td>
-<td class="cuerpo_tabla_izq">Población.</td>
-<td class="cuerpo_tabla_izq">Unidades monetarias del conjunto de filas declaradas en el cuadro A-2 Proveedores del anexo A.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>3. Cuando se trate de costes directos, se correspondan con el CUAR para el que se declaran (conforme definición apdo.3 anexo IV de la Circular 1/2015 de la CNMC).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo de revisión.</td>
-<td class="cuerpo_tabla_izq">Examen 100 %.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>4. En los que proceda, que dichos conceptos de coste se hayan localizado conforme a las reglas de localización del apdo. 4.7.4. Anexo IV de la Circular 1/2015 de la CNMC.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Unidad de muestreo.</td>
-<td class="cuerpo_tabla_izq">Unidades monetarias declaradas en cada fila.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>5. Se encuentren registrados en las cuentas contables. Inspección registros contables.</td>
 </tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq">Comprobaciones.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Se deberán realizar las siguientes comprobaciones de carácter general:</p>
-<p class="cuerpo_tabla_izq">1. Que el 100 % del total de los costes externos activados procedentes de operaciones con partes vinculadas, asociadas al desarrollo de la instalación, se hubiera desglosado por partes vinculadas identificadas con su propio código de proveedor (coincidente con el asignado por la empresa en las declaraciones presentadas en cumplimiento de la Circular 1/2015, SICORE).</p>
-<p class="cuerpo_tabla_izq">2. Que el 75 % del total de los costes externos activados procedentes de operaciones con terceros que no sean partes vinculadas, asociadas al desarrollo de la instalación, se hubiera desglosado por proveedor identificado con su propio código (coincidente con el asignado por la empresa en las declaraciones presentadas en cumplimiento de la Circular 1/2015, SICORE).</p>
-<p class="cuerpo_tabla_izq">Se comprobará que los costes externos activados con partes vinculadas y no vinculadas se obtienen de la Columna de «Total Costes Externos Activados» del «CUADRO A.1-Costes con desglose por año de desarrollo», excluyendo del total el importe de las partidas identificadas con (1) y los Gastos financieros activados (GFA).</p>
-<p class="cuerpo_tabla_izq">3. Para los importes localizados en cada una de las filas (código proveedor), se realizarán las siguientes comprobaciones:</p>
-<p class="cuerpo_tabla_izq">a) Se comprobará que los importes declarados para cada proveedor/parte vinculada coincidan con los registros contables.</p>
-<p class="cuerpo_tabla_izq">b) Mediante el examen de las facturas y contratos que dan soporte a los importes declarados para cada proveedor/parte vinculada, se comprobará que los importes coinciden y que el concepto de la factura/contrato se corresponde con el desarrollo de la instalación.</p>
-<p class="cuerpo_tabla_izq">c) Mediante el examen de los contratos entre partes vinculadas u otra documentación soporte, se comprobará que los importes declarados como márgenes intragrupo se corresponden con el estipulado en el contrato u otra documentación soporte.</p>
-<p class="cuerpo_tabla_izq">d) Se comprobarán las provisiones por el importe de las facturas pendientes de recibir incluidas en el cuadro A-2 Proveedores, así como el importe del margen intragrupo incluido en la provisión.</p>
+<tr>
+<td>6. Que el importe de los costes directos coincida con la información que figura en los registros contables y esté debidamente justificado por documentación soporte (ej. facturas de compra, documentos notariales, facturas de trabajos subcontratados a terceros, por servicios recibidos, justificantes de pago de los anticipos a cuenta realizados en el ejercicio, etc.).</td>
+</tr>
+<tr>
+<td>7. Que las políticas, criterios, procedimientos y bases de cálculo aplicadas para el cálculo y reparto de los costes indirectos (TREIs) sean adecuadas.</td>
+</tr>
+<tr>
+<td>8. En concreto, para el concepto de coste «Gastos financieros activados» (GFA), indagar el cálculo de los intereses financieros activados hasta la puesta en condiciones de funcionamiento de los activos. Cuando correspondan con un coste de desmantelamiento de activos regulados, inspeccionar registros contables y justificantes de pago de los importes satisfechos por dicho concepto de desmantelamiento.</td>
+</tr>
+<tr>
+<td>9. Cuando correspondan al tipo de coste CC-48 conforme a las definiciones del apdo.3 anexo IV de la Circular 1/2015 de la CNMC, por compras de gas talón, colchón o mínimo de llenado. Inspección documentación soporte de la compra.</td>
+</tr>
+<tr>
+<td>10. Cuando correspondan al tipo de coste CC-48 conforme a las definiciones del apdo.3 anexo IV de la Circular 1/2015 de la CNMC por compras de activo regulado en curso o al tipo de coste CC-47, no se hubieran localizado en el CUAR (conforme reglas de localización apto. 4.7.4 anexo IV y apdo. 6.1 anexo IV).</td>
+</tr>
+<tr>
+<td>11. Cuando tengan origen en una operación con parte vinculada, estuviera identificado de manera separada en las columnas específicas del «CUADRO A.1.2-Costes con desglose por operaciones realizadas con partes vinculadas y no vinculadas» y que el concepto de coste declarado sea coherente con el tipo de operación realizada.</td>
+</tr>
+<tr>
+<td>12. Cuando correspondan a una instalación cedida y financiada total o parcialmente por terceros o cualquier otra cesión de derecho de uso sobre bienes a título gratuito asociada a la instalación, estuvieran identificados en el «CUADRO A.1.3-Ingresos con desglose por año de desarrollo» y en el «CUADRO A.1.4-Ingresos con desglose por operaciones realizadas con partes vinculadas y no vinculadas» correspondiente a dicha instalación.</td>
+</tr>
+<tr>
+<td>13. Cuando se correspondan con estimaciones de costes futuros, se deberá revisar el soporte documental que sirva de base al registro contable de la provisión.</td>
+</tr>
+<tr>
+<td>14. Cuando se correspondan con estimaciones de costes de las inspecciones generales o las grandes reparaciones periódicas del CUAR, se deberán revisar que las políticas, criterios, procedimientos, bases de cálculo y el soporte documental utilizados sean adecuados.</td>
+</tr>
+<tr>
+<td rowspan="14">
+<p>A-A1.3</p>
+<p>A-A1.4</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">P&amp;D</p>
-<p class="cuerpo_tabla_centro">V&amp;E</p>
-<p class="cuerpo_tabla_centro">T</p>
+<td>Población.</td>
+<td>Unidades monetarias del conjunto de filas declaradas en los cuadros «A.1.3-Ingresos con desglose por año de desarrollo» y «A.1.4-Ingresos con desglose por operaciones realizadas con partes vinculadas y no vinculadas del anexo A».</td>
+<td rowspan="14">
+<p>P&amp;D</p>
+<p>V&amp;E</p>
+<p>T</p>
 </td>
-<td class="cuerpo_tabla_izq">Indagación. Inspección registros contables y documentación soporte</td>
+<td rowspan="14">Indagación. Inspección registros contables y documentación soporte.</td>
+</tr>
+<tr>
+<td>Tipo de revisión.</td>
+<td>Examen 100 %.</td>
+</tr>
+<tr>
+<td>Unidad de muestreo.</td>
+<td>Unidades monetarias declaradas en cada fila.</td>
+</tr>
+<tr>
+<td rowspan="11">Comprobaciones.</td>
+<td>Para los importes localizados en cada una de las filas se deberán comprobar los siguientes aspectos:</td>
+</tr>
+<tr>
+<td>1. Se correspondan con el activo regulado CUAR desarrollado. Indagación e inspección de registros y documentación soporte.</td>
+</tr>
+<tr>
+<td>2. Cuando se correspondan con los tipos de ingresos conforme definiciones apdo.3 anexo IV de la Circular 1/2015 de la CNMC, se comprobará que:</td>
+</tr>
+<tr>
+<td>a) No tengan la consideración de ingresos no localizables, conforme al apdo. 4.7.4 del anexo IV de la Circular 1/2015 de la CNMC.</td>
+</tr>
+<tr>
+<td>b) Se correspondan con la naturaleza del tipo de ingreso declarado.</td>
+</tr>
+<tr>
+<td>c) Se hayan localizado en el CUAR que les corresponda atendiendo a los criterios del apdo. 4.7.2 anexo IV y a las reglas de localización del apdo. 4.7.4 anexo IV de la Circular 1/2015 de la CNMC.</td>
+</tr>
+<tr>
+<td>3. Cuando no se correspondan con los tipos de ingresos conforme definiciones apdo.3 anexo IV de la Circular 1/2015 de la CNMC, se comprobará que se hubieran declarado en los bloques F9-SI1, F9-SI2, F9-SI3 y F9-SI4 de las declaraciones presentadas por la empresa titular de la instalación en cumplimiento de la Circular 1/2015 durante los ejercicios de construcción de la instalación hasta la fecha de emisión del informe de revisión independiente.</td>
+</tr>
+<tr>
+<td>4. Se encuentren registrados contablemente. Inspección registros contables.</td>
+</tr>
+<tr>
+<td>5. Su valor monetario coincida con la información que figura en los registros contables y en la documentación soporte correspondiente (extractos bancarios, documento de concesión de la subvención de capital, contrato de cesión, etc.)</td>
+</tr>
+<tr>
+<td>6. Cuando tengan origen en una operación con parte vinculada, estuviera identificado de manera separada en las columnas específicas del «CUADRO A.1.4-Ingresos con desglose por operaciones realizadas con partes vinculadas y no vinculadas» y que el tipo de ingreso declarado sea coherente con el tipo de operación realizada.</td>
+</tr>
+<tr>
+<td>
+<p>7. Cuando se trate de una subvención, se comprobará que se hubiera identificado de manera individualizada en un documento separado, indicándose quien concede la subvención, el importe subvencionado, así como las condiciones principales y plazos para su percepción. Además, se revisará la documentación soporte justificativa aportada por la empresa junto con dicho documento separado.</p>
+<p>8. Cuando haya importes pendientes de recibir de subvenciones de capital, verificar la información declarada a través de la información que figura en sus registros contables y en documentación soporte.</p>
+<p>9. Cuando se trate de instalaciones cedidas y/o financiadas total o parcialmente por terceros declaradas. Verificar la información declarada a través de la información que figura en sus registros contables y en documentación soporte.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">A-A2</td>
+<td>Población.</td>
+<td>Unidades monetarias del conjunto de filas declaradas en el cuadro A-2 Proveedores del anexo A.</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Tipo de revisión.</td>
+<td>Examen 100 %.</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Unidad de muestreo.</td>
+<td>Unidades monetarias declaradas en cada fila.</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Comprobaciones.</td>
+<td>
+<p>Se deberán realizar las siguientes comprobaciones de carácter general:</p>
+<p>1. Que el 100 % del total de los costes externos activados procedentes de operaciones con partes vinculadas, asociadas al desarrollo de la instalación, se hubiera desglosado por partes vinculadas identificadas con su propio código de proveedor (coincidente con el asignado por la empresa en las declaraciones presentadas en cumplimiento de la Circular 1/2015, SICORE).</p>
+<p>2. Que el 75 % del total de los costes externos activados procedentes de operaciones con terceros que no sean partes vinculadas, asociadas al desarrollo de la instalación, se hubiera desglosado por proveedor identificado con su propio código (coincidente con el asignado por la empresa en las declaraciones presentadas en cumplimiento de la Circular 1/2015, SICORE).</p>
+<p>Se comprobará que los costes externos activados con partes vinculadas y no vinculadas se obtienen de la Columna de «Total Costes Externos Activados» del «CUADRO A.1-Costes con desglose por año de desarrollo», excluyendo del total el importe de las partidas identificadas con (1) y los Gastos financieros activados (GFA).</p>
+<p>3. Para los importes localizados en cada una de las filas (código proveedor), se realizarán las siguientes comprobaciones:</p>
+<p>a) Se comprobará que los importes declarados para cada proveedor/parte vinculada coincidan con los registros contables.</p>
+<p>b) Mediante el examen de las facturas y contratos que dan soporte a los importes declarados para cada proveedor/parte vinculada, se comprobará que los importes coinciden y que el concepto de la factura/contrato se corresponde con el desarrollo de la instalación.</p>
+<p>c) Mediante el examen de los contratos entre partes vinculadas u otra documentación soporte, se comprobará que los importes declarados como márgenes intragrupo se corresponden con el estipulado en el contrato u otra documentación soporte.</p>
+<p>d) Se comprobarán las provisiones por el importe de las facturas pendientes de recibir incluidas en el cuadro A-2 Proveedores, así como el importe del margen intragrupo incluido en la provisión.</p>
+</td>
+<td>
+<p>P&amp;D</p>
+<p>V&amp;E</p>
+<p>T</p>
+</td>
+<td>Indagación. Inspección registros contables y documentación soporte</td>
 </tr>
 </tbody>
 </table>

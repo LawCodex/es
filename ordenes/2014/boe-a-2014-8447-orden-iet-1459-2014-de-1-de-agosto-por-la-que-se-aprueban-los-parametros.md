@@ -460,3211 +460,3211 @@ José Manuel Soria López.
 
 1\. A continuación se recogen, para la primera subasta, las instalaciones tipo de referencia con su codificación y para cada una de ellas se establecen los valores de los parámetros retributivos en función del año de autorización de explotación definitiva:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema eléctrico / Isla</p>
+<p>Subsistema eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva</p>
+<p>Año de Autorización de Explotación Definitiva</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida Útil Regulatoria (años)</p>
+<p>Vida Útil Regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la inversión inicial (*) (€/MW)</p>
+<p>Valor estándar de la inversión inicial (*) (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de explotación (€/MWh)</p>
+<p>Costes de explotación (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (**) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (**) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (**) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (**) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Inversión Rinv 2014-2016 (€/MW)</p>
+<p>Retribución a la Inversión Rinv 2014-2016 (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td colspan="11">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Mallorca.</p>
+<p>Mallorca.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0001</p>
+<p>ITR-0001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.245.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.600</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27,96</p>
+<p>27,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.300</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">780</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.280</p>
+<p>80.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.245.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28,05</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">780</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80.101</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.245.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.600</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,08</p>
+<p>28,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.300</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">780</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.207</p>
+<p>80.101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.245.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.600</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,45</p>
+<p>28,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.300</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">780</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.381</p>
+<p>80.207</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Menorca.</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0002</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.245.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">780</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80.280</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.245.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.600</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,05</p>
+<p>28,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.300</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">780</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">80.101</p>
+<p>80.381</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.245.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">780</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80.207</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.245.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">28,45</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">780</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">80.381</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Ibiza.</p>
+<p>Menorca.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0003</p>
+<p>ITR-0002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,97</p>
+<p>27,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.202</p>
+<p>80.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.455.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">114.089</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,13</p>
+<p>28,05</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.218</p>
+<p>80.101</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,50</p>
+<p>28,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.406</p>
+<p>80.207</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Formentera.</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0004</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.455.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">114.202</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.245.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,08</p>
+<p>28,45</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>780</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.089</p>
+<p>80.381</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.455.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">114.218</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.455.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">114.406</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Ceuta.</p>
+<p>Ibiza.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0005</p>
+<p>ITR-0003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.455.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.900</p>
+<p>2.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27,18</p>
+<p>30,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450</p>
+<p>1.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">870</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93.626</p>
+<p>114.202</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,76</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.455.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.900</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">27,27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.450</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">870</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">93.397</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,76</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.455.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.900</p>
+<p>2.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27,29</p>
+<p>31,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450</p>
+<p>1.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">870</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93.485</p>
+<p>114.089</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,76</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.455.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.900</p>
+<p>2.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">27,64</p>
+<p>31,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450</p>
+<p>1.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">870</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">93.650</p>
+<p>114.218</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,76</p>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>31,50</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>660</p>
+</td>
+<td>
+<p>114.406</p>
+</td>
+<td>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Melilla.</p>
+<p>Formentera.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0006</p>
+<p>ITR-0004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.455.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,97</p>
+<p>30,97</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.202</p>
+<p>114.202</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,18</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.455.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">114.089</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,18</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.455.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,13</p>
+<p>31,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.218</p>
+<p>114.089</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,18</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.455.000</p>
+<p>1.455.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.200</p>
+<p>2.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,50</p>
+<p>31,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.100</p>
+<p>1.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">660</p>
+<p>660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">114.406</p>
+<p>114.218</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,18</p>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>31,50</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>660</p>
+</td>
+<td>
+<p>114.406</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Ceuta.</p>
+</td>
+<td rowspan="4">
+<p>ITR-0005</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.900</p>
+</td>
+<td>
+<p>27,18</p>
+</td>
+<td>
+<p>1.450</p>
+</td>
+<td>
+<p>870</p>
+</td>
+<td>
+<p>93.626</p>
+</td>
+<td>
+<p>7,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.900</p>
+</td>
+<td>
+<p>27,27</p>
+</td>
+<td>
+<p>1.450</p>
+</td>
+<td>
+<p>870</p>
+</td>
+<td>
+<p>93.397</p>
+</td>
+<td>
+<p>7,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.900</p>
+</td>
+<td>
+<p>27,29</p>
+</td>
+<td>
+<p>1.450</p>
+</td>
+<td>
+<p>870</p>
+</td>
+<td>
+<p>93.485</p>
+</td>
+<td>
+<p>7,76</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.900</p>
+</td>
+<td>
+<p>27,64</p>
+</td>
+<td>
+<p>1.450</p>
+</td>
+<td>
+<p>870</p>
+</td>
+<td>
+<p>93.650</p>
+</td>
+<td>
+<p>7,76</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Melilla.</p>
+</td>
+<td rowspan="4">
+<p>ITR-0006</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>30,97</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>660</p>
+</td>
+<td>
+<p>114.202</p>
+</td>
+<td>
+<p>7,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>31,08</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>660</p>
+</td>
+<td>
+<p>114.089</p>
+</td>
+<td>
+<p>7,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>31,13</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>660</p>
+</td>
+<td>
+<p>114.218</p>
+</td>
+<td>
+<p>7,18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.455.000</p>
+</td>
+<td>
+<p>2.200</p>
+</td>
+<td>
+<p>31,50</p>
+</td>
+<td>
+<p>1.100</p>
+</td>
+<td>
+<p>660</p>
+</td>
+<td>
+<p>114.406</p>
+</td>
+<td>
+<p>7,18</p>
 </td>
 </tr>
 <tr>
 <td colspan="11">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones fotovoltaicas de tipo I</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Mallorca.</p>
+<p>Mallorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0007</p>
+<p>ITR-0007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">552.578</p>
+<p>552.578</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,33</p>
+<p>41,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36.613</p>
+<p>36.613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">546.352</p>
+<p>546.352</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,52</p>
+<p>41,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36.169</p>
+<p>36.169</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">545.652</p>
+<p>545.652</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,89</p>
+<p>41,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36.391</p>
+<p>36.391</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Menorca.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0008</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">552.578</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">546.352</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,52</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.169</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">545.652</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,89</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.391</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Ibiza.</p>
+<p>Menorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0009</p>
+<p>ITR-0008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.556.558</p>
+<p>552.578</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45,54</p>
+<p>41,33</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">127.191</p>
+<p>36.613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.400.903</p>
+<p>546.352</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45,10</p>
+<p>41,52</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">113.254</p>
+<p>36.169</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.330.857</p>
+<p>545.652</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">45,18</p>
+<p>41,89</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107.167</p>
+<p>36.391</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Formentera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0010</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.556.558</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">127.191</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.903</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">113.254</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.330.857</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">45,18</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">107.167</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Ibiza.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0011</p>
+<p>ITR-0009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.556.558</p>
+<p>1.556.558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,91</p>
+<p>45,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.334</p>
+<p>127.191</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.400.903</p>
+<p>1.400.903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,54</p>
+<p>45,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.341</p>
+<p>113.254</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.330.857</p>
+<p>1.330.857</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,65</p>
+<p>45,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.294</p>
+<p>107.167</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0012</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.556.558</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122.334</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.903</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">108.341</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.330.857</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102.294</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Formentera.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0013</p>
+<p>ITR-0010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.556.558</p>
+<p>1.556.558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,91</p>
+<p>45,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.334</p>
+<p>127.191</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.400.903</p>
+<p>1.400.903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,54</p>
+<p>45,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.341</p>
+<p>113.254</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.330.857</p>
+<p>1.330.857</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,65</p>
+<p>45,18</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.294</p>
+<p>107.167</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.556.558</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122.334</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.903</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">108.341</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.330.857</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102.294</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Gran Canaria.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0015</p>
+<p>ITR-0011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.556.558</p>
+<p>1.556.558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,91</p>
+<p>42,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.334</p>
+<p>122.334</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.400.903</p>
+<p>1.400.903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,54</p>
+<p>42,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.341</p>
+<p>108.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.330.857</p>
+<p>1.330.857</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,65</p>
+<p>42,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.294</p>
+<p>102.294</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.556.558</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122.334</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.903</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,54</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">108.341</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,43</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.330.857</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102.294</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,43</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Tenerife.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0017</p>
+<p>ITR-0012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.556.558</p>
+<p>1.556.558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,91</p>
+<p>42,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122.334</p>
+<p>122.334</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,98</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.400.903</p>
+<p>1.400.903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,54</p>
+<p>42,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">108.341</p>
+<p>108.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,98</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.330.857</p>
+<p>1.330.857</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,65</p>
+<p>42,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">102.294</p>
+<p>102.294</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">8,98</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Ceuta.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.556.558</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">44,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">125.058</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.903</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">111.088</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.330.857</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,94</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">105.020</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Melilla.</p>
+<p>Lanzarote.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0019</p>
+<p>ITR-0013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.556.558</p>
+<p>1.556.558</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.617</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">44,25</p>
+<p>42,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">970</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">566</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.058</p>
+<p>122.334</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.400.903</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">111.088</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.330.857</p>
+<p>1.400.903</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.617</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43,94</p>
+<p>42,54</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">970</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">566</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">105.020</p>
+<p>108.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,65</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>102.294</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Fuerteventura.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0014</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.556.558</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,91</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>122.334</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.400.903</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,54</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>108.341</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,65</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>102.294</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Palma.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0015</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.556.558</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,91</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>122.334</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.400.903</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,54</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>108.341</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,65</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>102.294</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Gomera.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0016</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.556.558</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,91</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>122.334</p>
+</td>
+<td>
+<p>6,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.400.903</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,54</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>108.341</p>
+</td>
+<td>
+<p>6,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,65</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>102.294</p>
+</td>
+<td>
+<p>6,43</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>El Hierro.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0017</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.556.558</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,91</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>122.334</p>
+</td>
+<td>
+<p>8,98</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.400.903</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,54</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>108.341</p>
+</td>
+<td>
+<p>8,98</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>42,65</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>102.294</p>
+</td>
+<td>
+<p>8,98</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Ceuta.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0018</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.556.558</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>44,25</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>125.058</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.400.903</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>43,84</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>111.088</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>43,94</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>105.020</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Melilla.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0019</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.556.558</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>44,25</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>125.058</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.400.903</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>43,84</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>111.088</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.330.857</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>43,94</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>105.020</p>
+</td>
+<td>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td colspan="11">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones fotovoltaicas de tipo II</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Mallorca.</p>
+<p>Mallorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0020</p>
+<p>ITR-0020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">562.763</p>
+<p>562.763</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40,61</p>
+<p>40,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36.372</p>
+<p>36.372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">558.926</p>
+<p>558.926</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40,80</p>
+<p>40,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36.148</p>
+<p>36.148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">554.066</p>
+<p>554.066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,15</p>
+<p>41,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35.997</p>
+<p>35.997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Menorca.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0021</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">562.763</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40,61</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.372</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">558.926</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">36.148</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">554.066</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">35.997</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Ibiza.</p>
+<p>Menorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0022</p>
+<p>ITR-0021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.279.006</p>
+<p>562.763</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43,63</p>
+<p>40,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">101.226</p>
+<p>36.372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.215.056</p>
+<p>558.926</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43,56</p>
+<p>40,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.523</p>
+<p>36.148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.154.303</p>
+<p>554.066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.506</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">43,68</p>
+<p>41,15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">904</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">527</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.277</p>
+<p>35.997</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Formentera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0023</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.279.006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">101.226</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.215.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,56</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">95.523</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.154.303</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.506</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">43,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">904</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">527</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90.277</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Ibiza.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0024</p>
+<p>ITR-0022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.279.006</p>
+<p>1.279.006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,14</p>
+<p>43,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.850</p>
+<p>101.226</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,34</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.215.056</p>
+<p>1.215.056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,10</p>
+<p>43,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.156</p>
+<p>95.523</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,34</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.154.303</p>
+<p>1.154.303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,24</p>
+<p>43,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84.954</p>
+<p>90.277</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,34</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0025</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.279.006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">95.850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.215.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90.156</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.154.303</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">84.954</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,00</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Formentera.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0026</p>
+<p>ITR-0023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.279.006</p>
+<p>1.279.006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,14</p>
+<p>43,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.850</p>
+<p>101.226</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,06</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.215.056</p>
+<p>1.215.056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,10</p>
+<p>43,56</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.156</p>
+<p>95.523</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,06</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.154.303</p>
+<p>1.154.303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,24</p>
+<p>43,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>904</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>527</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84.954</p>
+<p>90.277</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,06</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0027</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.279.006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">95.850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,06</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.215.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90.156</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,06</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.154.303</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">84.954</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,06</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Gran Canaria.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0028</p>
+<p>ITR-0024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.279.006</p>
+<p>1.279.006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,14</p>
+<p>41,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.850</p>
+<p>95.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,53</p>
+<p>5,34</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.215.056</p>
+<p>1.215.056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,10</p>
+<p>41,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.156</p>
+<p>90.156</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,53</p>
+<p>5,34</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.154.303</p>
+<p>1.154.303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,24</p>
+<p>41,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84.954</p>
+<p>84.954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,53</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0029</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.279.006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">95.850</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,14</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.215.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">90.156</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,14</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.154.303</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.750</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">41,24</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.050</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">613</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">84.954</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7,14</p>
+<p>5,34</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Tenerife.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0030</p>
+<p>ITR-0025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.279.006</p>
+<p>1.279.006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,14</p>
+<p>41,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.850</p>
+<p>95.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,69</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.215.056</p>
+<p>1.215.056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,10</p>
+<p>41,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">90.156</p>
+<p>90.156</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,69</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.154.303</p>
+<p>1.154.303</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.750</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">41,24</p>
+<p>41,24</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.050</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">613</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84.954</p>
+<p>84.954</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,69</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Ceuta.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0031</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.279.006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,41</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">98.835</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,85</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.215.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">93.135</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,85</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.154.303</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">87.910</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,85</p>
+<p>0,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Melilla.</p>
+<p>Lanzarote.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0032</p>
+<p>ITR-0026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.279.006</p>
+<p>1.279.006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.617</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,41</p>
+<p>41,14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">970</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">566</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.835</p>
+<p>95.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,45</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.215.056</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.617</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">42,35</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">970</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">566</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">93.135</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,45</p>
+<p>6,06</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30</p>
+<p>30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.154.303</p>
+<p>1.215.056</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.617</p>
+<p>1.750</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">42,48</p>
+<p>41,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">970</p>
+<p>1.050</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">566</p>
+<p>613</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.910</p>
+<p>90.156</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,45</p>
+<p>6,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,24</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>84.954</p>
+</td>
+<td>
+<p>6,06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Fuerteventura.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0027</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.279.006</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,14</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>95.850</p>
+</td>
+<td>
+<p>6,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.215.056</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,10</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>90.156</p>
+</td>
+<td>
+<p>6,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,24</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>84.954</p>
+</td>
+<td>
+<p>6,06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Palma.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0028</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.279.006</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,14</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>95.850</p>
+</td>
+<td>
+<p>5,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.215.056</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,10</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>90.156</p>
+</td>
+<td>
+<p>5,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,24</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>84.954</p>
+</td>
+<td>
+<p>5,53</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Gomera.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0029</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.279.006</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,14</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>95.850</p>
+</td>
+<td>
+<p>7,14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.215.056</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,10</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>90.156</p>
+</td>
+<td>
+<p>7,14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,24</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>84.954</p>
+</td>
+<td>
+<p>7,14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>El Hierro.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0030</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.279.006</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,14</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>95.850</p>
+</td>
+<td>
+<p>9,69</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.215.056</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,10</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>90.156</p>
+</td>
+<td>
+<p>9,69</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.750</p>
+</td>
+<td>
+<p>41,24</p>
+</td>
+<td>
+<p>1.050</p>
+</td>
+<td>
+<p>613</p>
+</td>
+<td>
+<p>84.954</p>
+</td>
+<td>
+<p>9,69</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Ceuta.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0031</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.279.006</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>42,41</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>98.835</p>
+</td>
+<td>
+<p>5,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.215.056</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>42,35</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>93.135</p>
+</td>
+<td>
+<p>5,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>42,48</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>87.910</p>
+</td>
+<td>
+<p>5,85</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Melilla.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0032</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.279.006</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>42,41</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>98.835</p>
+</td>
+<td>
+<p>6,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.215.056</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>42,35</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>93.135</p>
+</td>
+<td>
+<p>6,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1.154.303</p>
+</td>
+<td>
+<p>1.617</p>
+</td>
+<td>
+<p>42,48</p>
+</td>
+<td>
+<p>970</p>
+</td>
+<td>
+<p>566</p>
+</td>
+<td>
+<p>87.910</p>
+</td>
+<td>
+<p>6,45</p>
 </td>
 </tr>
 </table>
@@ -3767,1357 +3767,1357 @@ Red: Porcentaje de reducción del valor estándar de la inversión inicial de la
 
 m<sub>ITR,a</sub>: Coeficiente aplicable a la retribución a la inversión correspondiente al año ‘a’ de la instalación tipo de referencia, para calcular la retribución a la inversión de la instalación tipo con año de autorización de explotación definitiva ‘a’:
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema eléctrico / Isla</p>
+<p>Subsistema eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva «a»</p>
+<p>Año de Autorización de Explotación Definitiva «a»</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo</p>
+<p>Código de Identificación de la Instalación Tipo</p>
 </td>
 <td>
-<p class="cabeza_tabla">m<sub>ITR,a</sub></p>
+<p>m<sub>ITR,a</sub></p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Mallorca.</p>
+<p>Mallorca.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0001</p>
+<p>ITR-0001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03001</p>
+<p>IT-03001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.347</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03002</p>
+<p>IT-03002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.347</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03003</p>
+<p>IT-03003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.347</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03004</p>
+<p>IT-03004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">131.347</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Menorca.</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0002</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03005</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">131.347</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03006</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">131.347</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03007</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">131.347</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03008</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">131.347</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Ibiza.</p>
+<p>Menorca.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0003</p>
+<p>ITR-0002</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03009</p>
+<p>IT-03005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03010</p>
+<p>IT-03006</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03011</p>
+<p>IT-03007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03012</p>
+<p>IT-03008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4">
-<p class="cuerpo_tabla_izq">Formentera.</p>
-</td>
-<td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0004</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03013</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.502</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.502</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.502</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>131.347</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Ceuta.</p>
+<p>Ibiza.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0005</p>
+<p>ITR-0003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03017</p>
+<p>IT-03009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>153.502</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03019</p>
+<p>IT-03010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>153.502</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03020</p>
+<p>IT-03011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>IT-03012</p>
+</td>
+<td>
+<p>153.502</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Melilla.</p>
+<p>Formentera.</p>
 </td>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">ITR-0006</p>
+<p>ITR-0004</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03021</p>
+<p>IT-03013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03022</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>153.502</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03023</p>
+<p>IT-03014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>153.502</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03024</p>
+<p>IT-03015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">153.502</p>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>IT-03016</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Ceuta.</p>
+</td>
+<td rowspan="4">
+<p>ITR-0005</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03017</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03018</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03019</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>IT-03020</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Melilla.</p>
+</td>
+<td rowspan="4">
+<p>ITR-0006</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03021</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03022</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03023</p>
+</td>
+<td>
+<p>153.502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>IT-03024</p>
+</td>
+<td>
+<p>153.502</p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones fotovoltaicas de tipo I</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Mallorca.</p>
+<p>Mallorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0007</p>
+<p>ITR-0007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03025</p>
+<p>IT-03025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50.112</p>
+<p>50.112</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03026</p>
+<p>IT-03026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49.496</p>
+<p>49.496</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03027</p>
+<p>IT-03027</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49.377</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Menorca.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0008</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03028</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50.112</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03029</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">49.496</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03030</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">49.377</p>
+<p>49.377</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Ibiza.</p>
+<p>Menorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0009</p>
+<p>ITR-0008</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03031</p>
+<p>IT-03028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139.643</p>
+<p>50.112</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03032</p>
+<p>IT-03029</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">125.752</p>
+<p>49.496</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03033</p>
+<p>IT-03030</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.395</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Formentera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0010</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03034</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">139.643</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03035</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">125.752</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03036</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">119.395</p>
+<p>49.377</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Ibiza.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0011</p>
+<p>ITR-0009</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03037</p>
+<p>IT-03031</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.857</p>
+<p>139.643</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03038</p>
+<p>IT-03032</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.771</p>
+<p>125.752</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03039</p>
+<p>IT-03033</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.432</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0012</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03040</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140.857</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03041</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">126.771</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03042</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120.432</p>
+<p>119.395</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Formentera.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0013</p>
+<p>ITR-0010</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03043</p>
+<p>IT-03034</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.857</p>
+<p>139.643</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03044</p>
+<p>IT-03035</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.771</p>
+<p>125.752</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03045</p>
+<p>IT-03036</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.432</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03046</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140.857</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03047</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">126.771</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03048</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120.432</p>
+<p>119.395</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Gran Canaria.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0015</p>
+<p>ITR-0011</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03049</p>
+<p>IT-03037</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.857</p>
+<p>140.857</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03050</p>
+<p>IT-03038</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.771</p>
+<p>126.771</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03051</p>
+<p>IT-03039</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.432</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03052</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140.857</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03053</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">126.771</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03054</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">120.432</p>
+<p>120.432</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Tenerife.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0017</p>
+<p>ITR-0012</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03055</p>
+<p>IT-03040</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.857</p>
+<p>140.857</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03056</p>
+<p>IT-03041</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">126.771</p>
+<p>126.771</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03057</p>
+<p>IT-03042</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.432</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Ceuta.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03058</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140.313</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03059</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">126.282</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03060</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">119.967</p>
+<p>120.432</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Melilla.</p>
+<p>Lanzarote.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0019</p>
+<p>ITR-0013</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03061</p>
+<p>IT-03043</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140.313</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03062</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">126.282</p>
+<p>140.857</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03063</p>
+<p>IT-03044</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119.967</p>
+<p>126.771</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03045</p>
+</td>
+<td>
+<p>120.432</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Fuerteventura.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0014</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03046</p>
+</td>
+<td>
+<p>140.857</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03047</p>
+</td>
+<td>
+<p>126.771</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03048</p>
+</td>
+<td>
+<p>120.432</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Palma.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0015</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03049</p>
+</td>
+<td>
+<p>140.857</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03050</p>
+</td>
+<td>
+<p>126.771</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03051</p>
+</td>
+<td>
+<p>120.432</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Gomera.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0016</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03052</p>
+</td>
+<td>
+<p>140.857</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03053</p>
+</td>
+<td>
+<p>126.771</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03054</p>
+</td>
+<td>
+<p>120.432</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>El Hierro.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0017</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03055</p>
+</td>
+<td>
+<p>140.857</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03056</p>
+</td>
+<td>
+<p>126.771</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03057</p>
+</td>
+<td>
+<p>120.432</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Ceuta.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0018</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03058</p>
+</td>
+<td>
+<p>140.313</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03059</p>
+</td>
+<td>
+<p>126.282</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03060</p>
+</td>
+<td>
+<p>119.967</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Melilla.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0019</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03061</p>
+</td>
+<td>
+<p>140.313</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03062</p>
+</td>
+<td>
+<p>126.282</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03063</p>
+</td>
+<td>
+<p>119.967</p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones fotovoltaicas de tipo II</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Mallorca.</p>
+<p>Mallorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0020</p>
+<p>ITR-0020</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03064</p>
+<p>IT-03064</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">51.131</p>
+<p>51.131</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03065</p>
+<p>IT-03065</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50.737</p>
+<p>50.737</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03066</p>
+<p>IT-03066</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50.247</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Menorca.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0021</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03067</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">51.131</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03068</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50.737</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03069</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">50.247</p>
+<p>50.247</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Ibiza.</p>
+<p>Menorca.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0022</p>
+<p>ITR-0021</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03070</p>
+<p>IT-03067</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.453</p>
+<p>51.131</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03071</p>
+<p>IT-03068</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">109.649</p>
+<p>50.737</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03072</p>
+<p>IT-03069</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.062</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Formentera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0023</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03073</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">115.453</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03074</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">109.649</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03075</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.062</p>
+<p>50.247</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Ibiza.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0024</p>
+<p>ITR-0022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03076</p>
+<p>IT-03070</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.193</p>
+<p>115.453</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03077</p>
+<p>IT-03071</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.297</p>
+<p>109.649</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03078</p>
+<p>IT-03072</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.782</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0025</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03079</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">116.193</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03080</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110.297</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03081</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.782</p>
+<p>104.062</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Formentera.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0026</p>
+<p>ITR-0023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03082</p>
+<p>IT-03073</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.193</p>
+<p>115.453</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03083</p>
+<p>IT-03074</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.297</p>
+<p>109.649</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03084</p>
+<p>IT-03075</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.782</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0027</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03085</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">116.193</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03086</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110.297</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03087</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.782</p>
+<p>104.062</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Gran Canaria.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0028</p>
+<p>ITR-0024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03088</p>
+<p>IT-03076</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.193</p>
+<p>116.193</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03089</p>
+<p>IT-03077</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.297</p>
+<p>110.297</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03090</p>
+<p>IT-03078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.782</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0029</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03091</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">116.193</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03092</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110.297</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03093</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.782</p>
+<p>104.782</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Tenerife.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0030</p>
+<p>ITR-0025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03094</p>
+<p>IT-03079</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">116.193</p>
+<p>116.193</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03095</p>
+<p>IT-03080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110.297</p>
+<p>110.297</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03096</p>
+<p>IT-03081</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.782</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_izq">Ceuta.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0031</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2014</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03097</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">115.867</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03098</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">109.986</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03099</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.456</p>
+<p>104.782</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Melilla.</p>
+<p>Lanzarote.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0032</p>
+<p>ITR-0026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2014</p>
+<p>2014</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03100</p>
+<p>IT-03082</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">115.867</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2015</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03101</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">109.986</p>
+<p>116.193</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03102</p>
+<p>IT-03083</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104.456</p>
+<p>110.297</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03084</p>
+</td>
+<td>
+<p>104.782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Fuerteventura.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0027</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03085</p>
+</td>
+<td>
+<p>116.193</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03086</p>
+</td>
+<td>
+<p>110.297</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03087</p>
+</td>
+<td>
+<p>104.782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Palma.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0028</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03088</p>
+</td>
+<td>
+<p>116.193</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03089</p>
+</td>
+<td>
+<p>110.297</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03090</p>
+</td>
+<td>
+<p>104.782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>La Gomera.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0029</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03091</p>
+</td>
+<td>
+<p>116.193</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03092</p>
+</td>
+<td>
+<p>110.297</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03093</p>
+</td>
+<td>
+<p>104.782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>El Hierro.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0030</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03094</p>
+</td>
+<td>
+<p>116.193</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03095</p>
+</td>
+<td>
+<p>110.297</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03096</p>
+</td>
+<td>
+<p>104.782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Ceuta.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0031</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03097</p>
+</td>
+<td>
+<p>115.867</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03098</p>
+</td>
+<td>
+<p>109.986</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03099</p>
+</td>
+<td>
+<p>104.456</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Melilla.</p>
+</td>
+<td rowspan="3">
+<p>ITR-0032</p>
+</td>
+<td>
+<p>2014</p>
+</td>
+<td>
+<p>IT-03100</p>
+</td>
+<td>
+<p>115.867</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>IT-03101</p>
+</td>
+<td>
+<p>109.986</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>IT-03102</p>
+</td>
+<td>
+<p>104.456</p>
 </td>
 </tr>
 </table>
@@ -5130,269 +5130,269 @@ En ningún caso el valor de la Retribución a la inversión será negativo, si d
 
 1.1. Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva en 2014 o anterior, de aplicación en el primer semiperiodo regulatorio, son los siguientes:
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema eléctrico / Isla</p>
+<p>Subsistema eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida Útil Regulatoria (años)</p>
+<p>Vida Útil Regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la inversión inicial (€/MW)</p>
+<p>Valor estándar de la inversión inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de explotación (€/MWh)</p>
+<p>Costes de explotación (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Inversión Rinv 2014-2016 (€/MW)</p>
+<p>Retribución a la Inversión Rinv 2014-2016 (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Gran Canaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03103</p>
+<p>IT-03103</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,50</p>
+<p>29,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.205</p>
+<p>94.205</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03104</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">31,08</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">103.028</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Tenerife.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03105</p>
+<p>IT-03104</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,25</p>
+<p>31,08</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.622</p>
+<p>103.028</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03106</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">28,61</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88.326</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Lanzarote.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03107</p>
+<p>IT-03105</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,93</p>
+<p>30,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.521</p>
+<p>98.622</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03108</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,84</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55.184</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Fuerteventura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03109</p>
+<p>IT-03106</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,52</p>
+<p>28,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.954</p>
+<p>88.326</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma.</p>
+</td>
+<td>
+<p>IT-03107</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>27,93</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>87.521</p>
+</td>
+<td>
+<p>7,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera.</p>
+</td>
+<td>
+<p>IT-03108</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>24,84</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>55.184</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro.</p>
+</td>
+<td>
+<p>IT-03109</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>28,52</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>91.954</p>
+</td>
+<td>
+<p>11,47</p>
 </td>
 </tr>
 </tbody>
@@ -5402,269 +5402,269 @@ En ningún caso el valor de la Retribución a la inversión será negativo, si d
 
 1.2 Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva 2015, de aplicación en el primer semiperiodo regulatorio, con los siguientes:
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema eléctrico / Isla</p>
+<p>Subsistema eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida Útil Regulatoria (años)</p>
+<p>Vida Útil Regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la inversión inicial (€/MW)</p>
+<p>Valor estándar de la inversión inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de explotación (€/MWh)</p>
+<p>Costes de explotación (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Inversión Rinv 2015-2016 (€/MW)</p>
+<p>Retribución a la Inversión Rinv 2015-2016 (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Gran Canaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03110</p>
+<p>IT-03110</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,61</p>
+<p>29,61</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.049</p>
+<p>94.049</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03111</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">31,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102.922</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Tenerife.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03112</p>
+<p>IT-03111</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,36</p>
+<p>31,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.491</p>
+<p>102.922</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03113</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">28,71</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88.137</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Lanzarote.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03114</p>
+<p>IT-03112</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,03</p>
+<p>30,36</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.299</p>
+<p>98.491</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03115</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,92</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">54.778</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Fuerteventura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03116</p>
+<p>IT-03113</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,62</p>
+<p>28,71</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.757</p>
+<p>88.137</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma.</p>
+</td>
+<td>
+<p>IT-03114</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>28,03</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>87.299</p>
+</td>
+<td>
+<p>7,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera.</p>
+</td>
+<td>
+<p>IT-03115</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>24,92</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>54.778</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro.</p>
+</td>
+<td>
+<p>IT-03116</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>28,62</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>91.757</p>
+</td>
+<td>
+<p>11,47</p>
 </td>
 </tr>
 </tbody>
@@ -5674,269 +5674,269 @@ En ningún caso el valor de la Retribución a la inversión será negativo, si d
 
 1.3 Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva 2016, de aplicación en el primer semiperiodo regulatorio, con los siguientes:
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Subsistema eléctrico / Isla</p>
+<p>Subsistema eléctrico / Isla</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Vida Útil Regulatoria (años)</p>
+<p>Vida Útil Regulatoria (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Valor estándar de la inversión inicial (€/MW)</p>
+<p>Valor estándar de la inversión inicial (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Costes de explotación (€/MWh)</p>
+<p>Costes de explotación (€/MWh)</p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Retribución a la Inversión Rinv 2016 (€/MW)</p>
+<p>Retribución a la Inversión Rinv 2016 (€/MW)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por reducción de costes de generación Iinv (€/MWh)</p>
 </td>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria.</p>
+<p>Gran Canaria.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03117</p>
+<p>IT-03117</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">29,66</p>
+<p>29,66</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.224</p>
+<p>94.224</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03118</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">31,26</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">103.115</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote.</p>
+<p>Tenerife.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03119</p>
+<p>IT-03118</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,42</p>
+<p>31,26</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.675</p>
+<p>103.115</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03120</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">28,76</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88.301</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma.</p>
+<p>Lanzarote.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03121</p>
+<p>IT-03119</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,06</p>
+<p>30,42</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.451</p>
+<p>98.675</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,48</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03122</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">24,93</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">54.866</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro.</p>
+<p>Fuerteventura.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03123</p>
+<p>IT-03120</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">28,66</p>
+<p>28,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">91.917</p>
+<p>88.301</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma.</p>
+</td>
+<td>
+<p>IT-03121</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>28,06</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>87.451</p>
+</td>
+<td>
+<p>7,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera.</p>
+</td>
+<td>
+<p>IT-03122</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>24,93</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>54.866</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro.</p>
+</td>
+<td>
+<p>IT-03123</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>28,66</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>91.917</p>
+</td>
+<td>
+<p>11,47</p>
 </td>
 </tr>
 </tbody>
@@ -5946,270 +5946,270 @@ En ningún caso el valor de la Retribución a la inversión será negativo, si d
 
 1.4. Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva en 2017, sin perjuicio de las potenciales revisiones de aplicación al finalizar el primer semiperiodo regulatorio, son los siguientes:
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Subsistema</p>
-<p class="cabeza_tabla">eléctrico / Isla</p>
+<p>Subsistema</p>
+<p>eléctrico / Isla</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Valor estándar de la Inversión inicial (€/MW)</p>
+<p>Valor estándar de la Inversión inicial (€/MW)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Costes de Explotación (€/MWh)</p>
+<p>Costes de Explotación (€/MWh)</p>
 </th>
 <th>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Retribución a la inversión Rinv (€/MW)</p>
+<p>Retribución a la inversión Rinv (€/MW)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
 </th>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria</p>
+<p>Gran Canaria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03124</p>
+<p>IT-03124</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,03</p>
+<p>30,03</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94.470</p>
+<p>94.470</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03125</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,65</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">103.372</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote</p>
+<p>Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03126</p>
+<p>IT-03125</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,80</p>
+<p>31,65</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">98.921</p>
+<p>103.372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03127</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29,13</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88.536</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma</p>
+<p>Lanzarote</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03128</p>
+<p>IT-03126</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,43</p>
+<p>30,80</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87.665</p>
+<p>98.921</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03129</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,27</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55.024</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro</p>
+<p>Fuerteventura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03130</p>
+<p>IT-03127</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29,03</p>
+<p>29,13</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92.116</p>
+<p>88.536</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47»</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma</p>
+</td>
+<td>
+<p>IT-03128</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>28,43</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>87.665</p>
+</td>
+<td>
+<p>7,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera</p>
+</td>
+<td>
+<p>IT-03129</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>25,27</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>55.024</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro</p>
+</td>
+<td>
+<p>IT-03130</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>29,03</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>92.116</p>
+</td>
+<td>
+<p>11,47»</p>
 </td>
 </tr>
 </tbody>
@@ -6221,270 +6221,270 @@ Nota: Estos parámetros retributivos tienen carácter orientativo, han sido calc
 
 1.5 Los valores de los parámetros retributivos de las instalaciones tipo con año de autorización de explotación definitiva en 2018, sin perjuicio de las potenciales revisiones de aplicación al finalizar del primer semiperiodo regulatorio, son los siguientes:
 
-<table border="0" class="tabla_ancha" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Subsistema</p>
-<p class="cabeza_tabla">eléctrico / Isla</p>
+<p>Subsistema</p>
+<p>eléctrico / Isla</p>
 </th>
 <th>
-<p class="cabeza_tabla">Código de Identificación</p>
+<p>Código de Identificación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Vida útil regulatoria (años)</p>
+<p>Vida útil regulatoria (años)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Valor estándar de la Inversión inicial (€/MW)</p>
+<p>Valor estándar de la Inversión inicial (€/MW)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número de horas equivalentes de funcionamiento (h)</p>
+<p>Número de horas equivalentes de funcionamiento (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Costes de Explotación (€/MWh)</p>
+<p>Costes de Explotación (€/MWh)</p>
 </th>
 <th>
-<p class="cabeza_tabla">N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
+<p>N.º Horas equivalentes de funcionamiento mínimo Nh (*) Anual (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Umbral de funcionamiento Uf (*) Anual (h)</p>
+<p>Umbral de funcionamiento Uf (*) Anual (h)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Retribución a la inversión Rinv (€/MW)</p>
+<p>Retribución a la inversión Rinv (€/MW)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
+<p>Incentivo a la inversión por la reducción de costes de generación Iinv (€/MWh)</p>
 </th>
 </tr>
 <tr>
 <td colspan="10">
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Instalaciones eólicas</em>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran Canaria</p>
+<p>Gran Canaria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03131</p>
+<p>IT-03131</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.000</p>
+<p>3.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30,29</p>
+<p>30,29</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500</p>
+<p>1.500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">900</p>
+<p>900</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95.277</p>
+<p>95.277</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,94</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tenerife</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03132</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.700</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">31,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">810</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104.134</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,15</p>
+<p>6,94</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Lanzarote</p>
+<p>Tenerife</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03133</p>
+<p>IT-03132</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.850</p>
+<p>2.700</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">31,06</p>
+<p>31,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.425</p>
+<p>1.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">855</p>
+<p>810</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99.705</p>
+<p>104.134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Fuerteventura</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03134</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.402.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3.200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">29,37</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.600</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">960</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">89.372</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,89</p>
+<p>6,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">La Palma</p>
+<p>Lanzarote</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03135</p>
+<p>IT-03133</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.400</p>
+<p>2.850</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28,67</p>
+<p>31,06</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.700</p>
+<p>1.425</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.020</p>
+<p>855</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">88.531</p>
+<p>99.705</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,47</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Gomera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-03136</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.250</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.350</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">56.055</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,90</p>
+<p>7,47</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">El Hierro</p>
+<p>Fuerteventura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-03137</p>
+<p>IT-03134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.450.000</p>
+<p>1.402.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.250</p>
+<p>3.200</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">29,27</p>
+<p>29,37</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.625</p>
+<p>1.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">975</p>
+<p>960</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">92.960</p>
+<p>89.372</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,47</p>
+<p>7,89</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Palma</p>
+</td>
+<td>
+<p>IT-03135</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.400</p>
+</td>
+<td>
+<p>28,67</p>
+</td>
+<td>
+<p>1.700</p>
+</td>
+<td>
+<p>1.020</p>
+</td>
+<td>
+<p>88.531</p>
+</td>
+<td>
+<p>7,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Gomera</p>
+</td>
+<td>
+<p>IT-03136</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>4.500</p>
+</td>
+<td>
+<p>25,48</p>
+</td>
+<td>
+<p>2.250</p>
+</td>
+<td>
+<p>1.350</p>
+</td>
+<td>
+<p>56.055</p>
+</td>
+<td>
+<p>9,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Hierro</p>
+</td>
+<td>
+<p>IT-03137</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>1.450.000</p>
+</td>
+<td>
+<p>3.250</p>
+</td>
+<td>
+<p>29,27</p>
+</td>
+<td>
+<p>1.625</p>
+</td>
+<td>
+<p>975</p>
+</td>
+<td>
+<p>92.960</p>
+</td>
+<td>
+<p>11,47</p>
 </td>
 </tr>
 </tbody>

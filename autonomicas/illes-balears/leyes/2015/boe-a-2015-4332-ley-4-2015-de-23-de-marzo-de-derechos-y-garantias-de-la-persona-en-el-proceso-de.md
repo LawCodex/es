@@ -282,16 +282,6 @@ u) Valores vitales: conjunto de valores y creencias de una persona que dan senti
 
 3\. Las personas menores de edad emancipadas o con dieciséis años cumplidos, no incapaces ni incapacitadas, prestarán por sí mismas el consentimiento, si bien se tiene que informar a sus padres y madres o representantes legales, y su opinión será tenida en cuenta para la toma de la decisión final correspondiente, de conformidad con lo que dispone el artículo 9.4 de la Ley 41/2002. Asimismo, las personas menores de edad emancipadas o con dieciséis años cumplidos tienen derecho a revocar el consentimiento informado y a rechazar la intervención que les propongan los profesionales sanitarios, en los términos que prevé el artículo 8 de esta ley.
 
-> Téngase en cuenta que la modificación de los apartados 1 y 3 establecida por la disposición final 7 de la Ley 9/2019, de 19 de febrero. [Ref. BOE-A-2019-5578](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5578) entra en vigor el 28 de mayo de 2019, según determina la disposición final 9 de la citada ley:
-
-> Redacción anterior:
-
-> "1. Todo paciente menor de edad tiene derecho a recibir información sobre su enfermedad e intervenciones sanitarias propuestas, de forma adaptada a su capacidad de comprensión. También tiene derecho a que su opinión sea escuchada, siempre que tenga doce años cumplidos, de conformidad con lo que dispone el artículo 9.3.c) de la Ley 41/2002, de 14 de noviembre.
-
-> 3\. Las personas menores emancipadas o con dieciséis años cumplidos, no incapaces ni incapacitados, prestarán por sí mismas el consentimiento, si bien sus padres o representantes legales serán informados y su opinión será tenida en cuenta para la toma de la decisión final correspondiente, de conformidad con lo que dispone el artículo 9.3.c) de la Ley 41/2002, de 14 de noviembre.
-
-> Asimismo, las personas menores emancipadas o con dieciséis años cumplidos tendrán derecho a revocar el consentimiento informado y a rechazar la intervención que les sea propuesta por los profesionales sanitarios, en los términos que prevé el artículo 8 de esta ley."
-
 4\. En cualquier caso, el proceso de atención a las personas menores de edad respetará las necesidades especiales de estas y se ajustará a lo que establece la normativa vigente.
 
 > Se modifican los apartados 1 y 3 por la disposición final 7 de la Ley 9/2019, de 19 de febrero. [Ref. BOE-A-2019-5578](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5578)

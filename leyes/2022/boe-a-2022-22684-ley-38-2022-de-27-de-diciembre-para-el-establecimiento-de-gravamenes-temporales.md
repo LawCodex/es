@@ -244,8 +244,6 @@ Corresponde a la Comisión Nacional de los Mercados y la Competencia, sin perjui
 
 12\. En el último trimestre de 2024 el Gobierno realizará un estudio de los resultados del gravamen, y evaluará su mantenimiento con carácter permanente. Para ello, a la vista de las consideraciones que efectúa el Banco Central Europeo en su dictamen de 2 de noviembre de 2022, se considerará la situación del sector bancario, la evolución de los tipos de interés y las comisiones, y el efecto acumulativo del gravamen junto con el Impuesto sobre Sociedades. Con carácter previo, en el último trimestre de 2023, el Gobierno elaborará un informe provisional correspondiente al primer ejercicio de aplicación del gravamen.
 
-> Se prorroga a 2024 la aplicación del gravamen previsto en este artículo de conformidad con la disposición adicional 5.1 del Real Decreto-ley 8/2023, de 27 de diciembre. [Ref. BOE-A-2023-26452](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26452)
-
 ## Artículo 3. Impuesto Temporal de Solidaridad de las Grandes Fortunas.
 
 > Se prorroga la aplicación del impuesto regulado en este artículo, en tanto no se produzca la revisión de la tributación patrimonial en el contexto de la reforma del sistema de financiación autonómica, de conformidad con la disposición adicional 5.2 del Real Decreto-ley 8/2023, de 27 de diciembre. [Ref. BOE-A-2023-26452](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26452)

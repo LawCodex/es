@@ -759,40 +759,33 @@ Estas cantidades se actualizarán anualmente en el porcentaje que se determine e
 
 El personal que realice guardias de presencia física o localizada percibirá, en función del nivel, las retribuciones establecidas a continuación:
 
-<table class="tabla">
-<colgroup>
-<col width="24%">
-<col width="19%">
-<col width="19%">
-<col width="19%">
-<col width="19%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="5">Precio guardia actual</th>
+<th colspan="5">Precio guardia actual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Nivel A</th>
-<th class="cabeza_tabla">Nivel B</th>
-<th class="cabeza_tabla">Nivel C</th>
-<th class="cabeza_tabla">Niveles D y E</th>
+<th> </th>
+<th>Nivel A</th>
+<th>Nivel B</th>
+<th>Nivel C</th>
+<th>Niveles D y E</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Presencia física.</td>
-<td class="cuerpo_tabla_coma">30,29</td>
-<td class="cuerpo_tabla_coma">18,18</td>
-<td class="cuerpo_tabla_coma">14,53</td>
-<td class="cuerpo_tabla_coma">11,61</td>
+<td>Presencia física.</td>
+<td>30,29</td>
+<td>18,18</td>
+<td>14,53</td>
+<td>11,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Localizada.</td>
-<td class="cuerpo_tabla_coma">15,16</td>
-<td class="cuerpo_tabla_coma">9,086</td>
-<td class="cuerpo_tabla_coma">7,24</td>
-<td class="cuerpo_tabla_coma">5,81</td>
+<td>Localizada.</td>
+<td>15,16</td>
+<td>9,086</td>
+<td>7,24</td>
+<td>5,81</td>
 </tr>
 </tbody>
 </table>

@@ -270,8 +270,6 @@ b) Cigala *(Nephrops norvegicus)* se fija en 25 mm de longitud cefalotorácica (
 
 3\. Las especies indicadas en el apartado 2 del presente artículo estarán sujetas a la regulación de la obligación de desembarque y sus excepciones, conforme a lo dispuesto en el artículo 15 del Reglamento (UE) No 1380/2013, del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la Política Pesquera Común, y su normativa europea y nacional de desarrollo.
 
-> Téngase en cuenta que los apartados 2 y 3, añadidos por el art. único.2 de la Orden APA/312/2025, de 31 de marzo, [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576), entran en vigor el 1 de junio de 2025, según determina su disposición final única.
-
 > Se añade por el art. único.2 de la Orden APA/312/2025, de 31 de marzo. [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576)
 
 > Téngase en cuenta que los apartados 2 y 3 entran en vigor el 1 de junio de 2025, según establece su disposición final única.
@@ -295,8 +293,6 @@ En ambos casos, será de aplicación lo dispuesto en el artículo 16 del Real De
 La certificación será realizada por la Administración tras la medición por parte de los inspectores de pesca, que harán una comprobación in situ. Si el aparejo cumple con los requisitos técnicos, se marcará con al menos 4 precintos el copo y desde la Administración se hará entrega de un certificado donde conste la fecha de la actuación. Esta certificación tendrá una validez de un año. Una vez con el certificado expedido, los servicios de inspección pesquera podrán verificar la disposición de los precintos, pero no será necesario realizar una segunda medición.
 
 Los buques que ya tengan instaladas las redes preceptivas también podrán solicitar la certificación, con el mismo periodo de validez.
-
-> Téngase en cuenta que los apartados 1 y 2, añadidos por el art. único.3 de la Orden APA/312/2025, de 31 de marzo, [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576), entran en vigor el 1 de junio de 2025, según determina su disposición final única.
 
 > Se añade por el art. único.3 de la Orden APA/312/2025, de 31 de marzo. [Ref. BOE-A-2025-6576](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6576)
 
@@ -432,164 +428,159 @@ Madrid, 18 de mayo de 2020.–El Ministro de Agricultura, Pesca y Alimentación,
 
 A) Arrastre de fondo para pesquería costera mixta: Merluza europea (*Merluccius merluccius*), gamba blanca (*Parapenaeus longirostris*), cigala (*Nephrops norvegicus*), salmonete de fango (*Mullus barbatus*)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">Segmento de eslora</p>
+<p>Segmento de eslora</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año</p>
+<p>Año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Días de pesca</p>
+<p>Días de pesca</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">&lt; 12 m</p>
+<p>&lt; 12 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3.014</p>
+<p>3.014</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.471</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2.049</p>
+<p>2.471</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2.511,3</p>
+<p>2.049</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>2.511,3</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 12 m y &lt; 18 m</p>
+<p>≥ 12 m y &lt; 18 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">28.035,5</p>
+<p>28.035,5</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26.522</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">26.389</p>
+<p>26.522</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">26.982,2</p>
+<p>26.389</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>26.982,2</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 18 m y &lt; 24 m</p>
+<p>≥ 18 m y &lt; 24 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">52.069</p>
+<p>52.069</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">50.772,5</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">51.417</p>
+<p>50.772,5</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">51.419,5</p>
+<p>51.417</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>51.419,5</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 24 m</p>
+<p>≥ 24 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18.309</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">18.298</p>
+<p>18.309</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">17.529</p>
+<p>18.298</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18.045,3</p>
+<p>17.529</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>18.045,3</p>
 </td>
 </tr>
 </tbody>
@@ -597,164 +588,159 @@ A) Arrastre de fondo para pesquería costera mixta: Merluza europea (*Merluccius
 
 B) Arrastre de fondo para pesquería de profundidad: Gamba roja del Mediterráneo (*Aristeus antennatus*) y langostino moruno (*Aristaeomorpha foliacea*)
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_4">
+<tr>
 <td>
-<p class="cabeza_tabla">Segmento de eslora</p>
+<p>Segmento de eslora</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año</p>
+<p>Año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Días de pesca</p>
+<p>Días de pesca</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_5">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">&lt; 12 m</p>
+<p>&lt; 12 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>0</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 12 m y &lt; 18 m</p>
+<p>≥ 12 m y &lt; 18 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.300,5</p>
+<p>1.300,5</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.312</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.185</p>
+<p>1.312</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.265,8</p>
+<p>1.185</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>1.265,8</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 18 m y &lt; 24 m</p>
+<p>≥ 18 m y &lt; 24 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13.116</p>
+<p>13.116</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2016</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">11.924,5</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2017</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">11.031</p>
+<p>11.924,5</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">12.023,8</p>
+<p>11.031</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>12.023,8</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_centro">≥ 24 m</p>
+<p>≥ 24 m</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2015</p>
+<p>2015</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.853</p>
-</td>
-</tr>
-<tr class="row_column_5">
-<td>
-<p class="cuerpo_tabla_centro">2016</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9.712</p>
+<p>10.853</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2016</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9.655</p>
+<p>9.712</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">Media</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.073,3</p>
+<p>9.655</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Media</p>
+</td>
+<td>
+<p>10.073,3</p>
 </td>
 </tr>
 </tbody>
@@ -784,100 +770,96 @@ El polígono formado por la unión de las siguientes coordenadas geográficas qu
 
 C) Subzona Geográfica 7 (GSA7). El polígono formado por la unión de las siguientes coordenadas geográficas quedará cerrado para pesca con artes de arrastre, artes de anzuelo y enmalles los meses indicados a continuación.
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_8">
-<col class="row_column_9">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Subárea GSA7</p>
+<p>Subárea GSA7</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td colspan="2">
-<p class="cabeza_tabla">Noviembre-abril</p>
+<p>Noviembre-abril</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_10">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–42°40’N</p>
+<p>–42°40’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4°20’N</p>
+<p>4°20’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–42°40’N</p>
+<p>–42°40’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5°00’E</p>
+<p>5°00’E</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–43°10’N</p>
+<p>–43°10’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">5°00’E</p>
+<p>5°00’E</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–43°10’N</p>
+<p>–43°10’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4°50’E</p>
+<p>4°50’E</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–43°03’N</p>
+<p>–43°03’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4°45’E</p>
+<p>4°45’E</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–43°03’N</p>
+<p>–43°03’N</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">4°20’E</p>
+<p>4°20’E</p>
 </td>
 </tr>
 </tbody>
@@ -897,752 +879,700 @@ Los polígonos formados por la unión de las siguientes coordenadas geográficas
 
 Los polígonos formados por la unión de las siguientes coordenadas geográficas en las subáreas de Castellón, Valencia y Alicante, “Zona de exclusión Sant Carles de la Ràpita” y “Bol de Tossa” quedarán cerrados para la pesca con artes de arrastre en los meses indicados a continuación. Adicionalmente, la subárea de Alicante también queda cerrada a la pesca con palangre de fondo.
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Subárea Cataluña</th>
-<th class="cabeza_tabla" colspan="2">Subárea Castellón</th>
-<th class="cabeza_tabla" colspan="2">Subárea Valencia</th>
-<th class="cabeza_tabla" colspan="2">Subárea Alicante</th>
+<th colspan="2">Subárea Cataluña</th>
+<th colspan="2">Subárea Castellón</th>
+<th colspan="2">Subárea Valencia</th>
+<th colspan="2">Subárea Alicante</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">1 mayo - 30 junio</th>
-<th class="cabeza_tabla" colspan="2">1 mayo - 30 septiembre</th>
-<th class="cabeza_tabla" colspan="2">1 mayo - 30 septiembre</th>
-<th class="cabeza_tabla" colspan="2">1 junio - 31 agosto</th>
+<th colspan="2">1 mayo - 30 junio</th>
+<th colspan="2">1 mayo - 30 septiembre</th>
+<th colspan="2">1 mayo - 30 septiembre</th>
+<th colspan="2">1 junio - 31 agosto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 23,208' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 06,000' N</td>
-<td class="cuerpo_tabla_izq" colspan="2" rowspan="6">El espacio delimitado por la franja entre 150 y 210 metros de profundidad dentro de las siguientes coordenadas:</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">37° 43,408´ N</td>
+<td rowspan="2">1</td>
+<td>40° 23,208' N</td>
+<td rowspan="2">1</td>
+<td>40° 06,000' N</td>
+<td colspan="2" rowspan="6">El espacio delimitado por la franja entre 150 y 210 metros de profundidad dentro de las siguientes coordenadas:</td>
+<td rowspan="2">1</td>
+<td>37° 43,408´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 12,078' E</td>
-<td class="cuerpo_tabla_centro">01° 09,000' E</td>
-<td class="cuerpo_tabla_centro">00° 29,639´ W</td>
+<td>01° 12,078' E</td>
+<td>01° 09,000' E</td>
+<td>00° 29,639´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 34,032' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 10,500' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">37° 52,872´ N</td>
+<td rowspan="2">2</td>
+<td>40° 34,032' N</td>
+<td rowspan="2">2</td>
+<td>40° 10,500' N</td>
+<td rowspan="2">2</td>
+<td>37° 52,872´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 15,306' E</td>
-<td class="cuerpo_tabla_centro">01° 06,500' E</td>
-<td class="cuerpo_tabla_centro">00° 25,607´ W</td>
+<td>01° 15,306' E</td>
+<td>01° 06,500' E</td>
+<td>00° 25,607´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 57,336' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 03,500' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">38° 02,320´ N</td>
+<td rowspan="2">3</td>
+<td>40° 57,336' N</td>
+<td rowspan="2">3</td>
+<td>40° 03,500' N</td>
+<td rowspan="2">3</td>
+<td>38° 02,320´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 16,788' E</td>
-<td class="cuerpo_tabla_centro">00° 58,000' E</td>
-<td class="cuerpo_tabla_centro">00° 20,816´ W</td>
+<td>01° 16,788' E</td>
+<td>00° 58,000' E</td>
+<td>00° 20,816´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 53,862' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">39° 41,835' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">39° 41.4174' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">38° 04,607´ N</td>
+<td rowspan="2">4</td>
+<td>40° 53,862' N</td>
+<td rowspan="2">4</td>
+<td>39° 41,835' N</td>
+<td rowspan="2">1</td>
+<td>39° 41.4174' N</td>
+<td rowspan="2">4</td>
+<td>38° 04,607´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 21,420' E</td>
-<td class="cuerpo_tabla_centro">00° 35,894' E</td>
-<td class="cuerpo_tabla_centro">00° 38.0550' E</td>
-<td class="cuerpo_tabla_centro">00° 18,104´ W</td>
+<td>01° 21,420' E</td>
+<td>00° 35,894' E</td>
+<td>00° 38.0550' E</td>
+<td>00° 18,104´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 48,822' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">39° 41,034' N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">39° 41.3136' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">38° 14,243´ N</td>
+<td rowspan="2">5</td>
+<td>40° 48,822' N</td>
+<td rowspan="2">5</td>
+<td>39° 41,034' N</td>
+<td>2</td>
+<td>39° 41.3136' N</td>
+<td rowspan="2">5</td>
+<td>38° 14,243´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 21,834' E</td>
-<td class="cuerpo_tabla_centro">00° 40,070' E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 38.6034' E</td>
-<td class="cuerpo_tabla_centro">00° 05,810´ W</td>
+<td>01° 21,834' E</td>
+<td>00° 40,070' E</td>
+<td> </td>
+<td>00° 38.6034' E</td>
+<td>00° 05,810´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">40° 41,388' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">39° 55,500' N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">38° 53.0580' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">38° 14,671´ N</td>
+<td rowspan="2">6</td>
+<td>40° 41,388' N</td>
+<td rowspan="2">6</td>
+<td>39° 55,500' N</td>
+<td>3</td>
+<td>38° 53.0580' N</td>
+<td rowspan="2">6</td>
+<td>38° 14,671´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 22,494' E</td>
-<td class="cuerpo_tabla_centro">00° 53,500' E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 20.2440' E</td>
-<td class="cuerpo_tabla_centro">00° 00,205´ W</td>
+<td>01° 22,494' E</td>
+<td>00° 53,500' E</td>
+<td> </td>
+<td>00° 20.2440' E</td>
+<td>00° 00,205´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">40° 32,544' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">40° 06,000' N</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">38° 52.9980' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">38° 21,792´ N</td>
+<td rowspan="2">7</td>
+<td>40° 32,544' N</td>
+<td rowspan="2">7</td>
+<td>40° 06,000' N</td>
+<td>4</td>
+<td>38° 52.9980' N</td>
+<td rowspan="2">7</td>
+<td>38° 21,792´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 21,489' E</td>
-<td class="cuerpo_tabla_centro">01° 09,000' E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 25.5540' E</td>
-<td class="cuerpo_tabla_centro">00° 10,734´ E</td>
+<td>01° 21,489' E</td>
+<td>01° 09,000' E</td>
+<td> </td>
+<td>00° 25.5540' E</td>
+<td>00° 10,734´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">40° 25,440' N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">38° 22,435´ N</td>
+<td rowspan="2">8</td>
+<td>40° 25,440' N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">8</td>
+<td>38° 22,435´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 18,030' E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 16,248´ E</td>
+<td>01° 18,030' E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 16,248´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
-<td class="cuerpo_tabla_centro">40° 22,878' N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
-<td class="cuerpo_tabla_centro">38° 29,119´ N</td>
+<td rowspan="2">9</td>
+<td>40° 22,878' N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">9</td>
+<td>38° 29,119´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 18,114' E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 18,689´ E</td>
+<td>01° 18,114' E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 18,689´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">38° 32,032´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">10</td>
+<td>38° 32,032´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 21,582´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 21,582´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">11</td>
-<td class="cuerpo_tabla_centro">38° 38,276´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">11</td>
+<td>38° 38,276´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 23,028´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 23,028´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_centro">38° 45,218´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">12</td>
+<td>38° 45,218´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 21,672´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 21,672´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">13</td>
-<td class="cuerpo_tabla_centro">38° 53,184´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">13</td>
+<td>38° 53,184´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 16,036´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 16,036´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">14</td>
-<td class="cuerpo_tabla_centro">38° 53,022´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">14</td>
+<td>38° 53,022´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 22,469´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 22,469´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">15</td>
-<td class="cuerpo_tabla_centro">38° 45,544´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">15</td>
+<td>38° 45,544´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 25,791´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 25,791´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">16</td>
-<td class="cuerpo_tabla_centro">38° 39,622´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">16</td>
+<td>38° 39,622´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 29,537´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 29,537´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">17</td>
-<td class="cuerpo_tabla_centro">38° 29,261´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">17</td>
+<td>38° 29,261´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 25,288´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 25,288´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">18</td>
-<td class="cuerpo_tabla_centro">38° 21,367´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">18</td>
+<td>38° 21,367´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 17,966´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 17,966´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">19</td>
-<td class="cuerpo_tabla_centro">38° 16,097´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">19</td>
+<td>38° 16,097´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 08,835´ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 08,835´ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">20</td>
-<td class="cuerpo_tabla_centro">38° 07,893´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2"> </td>
+<td> </td>
+<td rowspan="2">20</td>
+<td>38° 07,893´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 08,431´ W</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 08,431´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">21</td>
-<td class="cuerpo_tabla_centro">37° 59,380´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">21</td>
+<td>37° 59,380´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 20,183´ W</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 20,183´ W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">22</td>
-<td class="cuerpo_tabla_centro">37° 42,121´ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">22</td>
+<td>37° 42,121´ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 26,634´ W</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>00° 26,634´ W</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col>
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Área de Interés Pesquero Roses-Palamós</th>
-<th class="cabeza_tabla" colspan="2">Área de Interés Pesquero para la Merluza de Roses</th>
-<th class="cabeza_tabla" colspan="2">Área de Repoblación Blanes-Palamós</th>
-<th class="cabeza_tabla" colspan="3">Núcleo Mars D'Enterra</th>
+<th colspan="2">Área de Interés Pesquero Roses-Palamós</th>
+<th colspan="2">Área de Interés Pesquero para la Merluza de Roses</th>
+<th colspan="2">Área de Repoblación Blanes-Palamós</th>
+<th colspan="3">Núcleo Mars D'Enterra</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
-<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
-<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
-<th class="cabeza_tabla" colspan="3">1 enero - 31 diciembre</th>
+<th colspan="2">1 enero - 31 diciembre</th>
+<th colspan="2">1 enero - 31 diciembre</th>
+<th colspan="2">1 enero - 31 diciembre</th>
+<th colspan="3">1 enero - 31 diciembre</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41°58,800’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">42°11,000’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 35,338’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 49’909 N</td>
+<td rowspan="2">1</td>
+<td>41°58,800’ N</td>
+<td rowspan="2">1</td>
+<td>42°11,000’ N</td>
+<td rowspan="2">1</td>
+<td>41° 35,338’ N</td>
+<td rowspan="2">1</td>
+<td>41° 49’909 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03°31,500’ E</td>
-<td class="cuerpo_tabla_centro">03°25,000’ E</td>
-<td class="cuerpo_tabla_centro">03° 17,513’ E</td>
-<td class="cuerpo_tabla_centro">03° 10’923 E</td>
+<td>03°31,500’ E</td>
+<td>03°25,000’ E</td>
+<td>03° 17,513’ E</td>
+<td>03° 10’923 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41°59,000’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">42°11,000’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 34,661 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 49’939 N</td>
+<td rowspan="2">2</td>
+<td>41°59,000’ N</td>
+<td rowspan="2">2</td>
+<td>42°11,000’ N</td>
+<td rowspan="2">2</td>
+<td>41° 34,661 N</td>
+<td rowspan="2">2</td>
+<td>41° 49’939 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03°30,350’ E</td>
-<td class="cuerpo_tabla_centro">03°26,500’ E</td>
-<td class="cuerpo_tabla_centro">03° 16,980’ E</td>
-<td class="cuerpo_tabla_centro">03° 11’873 E</td>
+<td>03°30,350’ E</td>
+<td>03°26,500’ E</td>
+<td>03° 16,980’ E</td>
+<td>03° 11’873 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">42°01,880’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">42°09,000’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 33,633’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 48’836 N</td>
+<td rowspan="2">3</td>
+<td>42°01,880’ N</td>
+<td rowspan="2">3</td>
+<td>42°09,000’ N</td>
+<td rowspan="2">3</td>
+<td>41° 33,633’ N</td>
+<td rowspan="2">3</td>
+<td>41° 48’836 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03°31,650’ E</td>
-<td class="cuerpo_tabla_centro">03°27,000’ E</td>
-<td class="cuerpo_tabla_centro">03° 14,628’ E</td>
-<td class="cuerpo_tabla_centro">03° 12’062 E</td>
+<td>03°31,650’ E</td>
+<td>03°27,000’ E</td>
+<td>03° 14,628’ E</td>
+<td>03° 12’062 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">42°01,600’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">42°07,000’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 32,729’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 46’282 N</td>
+<td rowspan="2">4</td>
+<td>42°01,600’ N</td>
+<td rowspan="2">4</td>
+<td>42°07,000’ N</td>
+<td rowspan="2">4</td>
+<td>41° 32,729’ N</td>
+<td rowspan="2">4</td>
+<td>41° 46’282 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03°32,800’ E</td>
-<td class="cuerpo_tabla_centro">03°27,000’ E</td>
-<td class="cuerpo_tabla_centro">03° 12,163’ E</td>
-<td class="cuerpo_tabla_centro">03° 10’667 E</td>
+<td>03°32,800’ E</td>
+<td>03°27,000’ E</td>
+<td>03° 12,163’ E</td>
+<td>03° 10’667 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">42°04,500’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 31,980’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 46’184 N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2">5</td>
+<td>42°04,500’ N</td>
+<td rowspan="2">5</td>
+<td>41° 31,980’ N</td>
+<td rowspan="2">5</td>
+<td>41° 46’184 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03°27,000’ E</td>
-<td class="cuerpo_tabla_centro">03° 08,302’ E</td>
-<td class="cuerpo_tabla_centro">03° 09’944 E</td>
+<td> </td>
+<td> </td>
+<td>03°27,000’ E</td>
+<td>03° 08,302’ E</td>
+<td>03° 09’944 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">42°04,500’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">41° 32,440’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">41° 49’909 N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>42°04,500’ N</td>
+<td rowspan="2">6</td>
+<td>41° 32,440’ N</td>
+<td rowspan="2">6</td>
+<td>41° 49’909 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03°23,500’ E</td>
-<td class="cuerpo_tabla_centro">03° 07,380’ E</td>
-<td class="cuerpo_tabla_centro">03° 10’914 E</td>
+<td> </td>
+<td> </td>
+<td>03°23,500’ E</td>
+<td>03° 07,380’ E</td>
+<td>03° 10’914 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">42°07,000’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">41° 33,870’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">7</td>
+<td>42°07,000’ N</td>
+<td rowspan="2">7</td>
+<td>41° 33,870’ N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03°23,500’ E</td>
-<td class="cuerpo_tabla_centro">03° 10,102' E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>03°23,500’ E</td>
+<td>03° 10,102' E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">42°09,500’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">41° 35,087’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">8</td>
+<td>42°09,500’ N</td>
+<td rowspan="2">8</td>
+<td>41° 35,087’ N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03°24,000’ E</td>
-<td class="cuerpo_tabla_centro">03° 13,829’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>03°24,000’ E</td>
+<td>03° 13,829’ E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
-<td class="cuerpo_tabla_centro">41° 35,427’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">9</td>
+<td>41° 35,427’ N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03° 15,634’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>03° 15,634’ E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">41° 35,773’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">10</td>
+<td>41° 35,773’ N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03°16,834’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>03°16,834’ E</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Bol de Terra al Vapor de Palamós</th>
-<th class="cabeza_tabla" colspan="2">Zona de Exclusión Sant Carles de La Ràpita</th>
-<th class="cabeza_tabla" colspan="2">Bol de Tossa</th>
+<th colspan="2">Bol de Terra al Vapor de Palamós</th>
+<th colspan="2">Zona de Exclusión Sant Carles de La Ràpita</th>
+<th colspan="2">Bol de Tossa</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
-<th class="cabeza_tabla" colspan="2">Enero - diciembre</th>
-<th class="cabeza_tabla" colspan="2">1 enero - 31 diciembre</th>
+<th colspan="2">1 enero - 31 diciembre</th>
+<th colspan="2">Enero - diciembre</th>
+<th colspan="2">1 enero - 31 diciembre</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 45,501´N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 32,830’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 40,408' N</td>
+<td rowspan="2">1</td>
+<td>41° 45,501´N</td>
+<td rowspan="2">1</td>
+<td>40° 32,830’ N</td>
+<td rowspan="2">1</td>
+<td>41° 40,408' N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 23,280' E</td>
-<td class="cuerpo_tabla_centro">00° 44,990’ E</td>
-<td class="cuerpo_tabla_centro">02° 48,177' E</td>
+<td>03° 23,280' E</td>
+<td>00° 44,990’ E</td>
+<td>02° 48,177' E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 44,197' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 36,540’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 40,216' N</td>
+<td rowspan="2">2</td>
+<td>41° 44,197' N</td>
+<td rowspan="2">2</td>
+<td>40° 36,540’ N</td>
+<td rowspan="2">2</td>
+<td>41° 40,216' N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 22,423' E</td>
-<td class="cuerpo_tabla_centro">00° 48,290’ E</td>
-<td class="cuerpo_tabla_centro">02° 50,933' E</td>
+<td>03° 22,423' E</td>
+<td>00° 48,290’ E</td>
+<td>02° 50,933' E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 42,874' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 35,950’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 40,216' N</td>
+<td rowspan="2">3</td>
+<td>41° 42,874' N</td>
+<td rowspan="2">3</td>
+<td>40° 35,950’ N</td>
+<td rowspan="2">3</td>
+<td>41° 40,216' N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 21,422' E</td>
-<td class="cuerpo_tabla_centro">00° 50,470’ E</td>
-<td class="cuerpo_tabla_centro">02° 53,090' E</td>
+<td>03° 21,422' E</td>
+<td>00° 50,470’ E</td>
+<td>02° 53,090' E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 39,552' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 34,770’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 40,528' N</td>
+<td rowspan="2">4</td>
+<td>41° 39,552' N</td>
+<td rowspan="2">4</td>
+<td>40° 34,770’ N</td>
+<td rowspan="2">4</td>
+<td>41° 40,528' N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 19,100' E</td>
-<td class="cuerpo_tabla_centro">00° 48,970’ E</td>
-<td class="cuerpo_tabla_centro">02° 55,737' E</td>
+<td>03° 19,100' E</td>
+<td>00° 48,970’ E</td>
+<td>02° 55,737' E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 39,085´N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 32,830’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41º 41,473´N</td>
+<td rowspan="2">5</td>
+<td>41° 39,085´N</td>
+<td rowspan="2">5</td>
+<td>40° 32,830’ N</td>
+<td rowspan="2">5</td>
+<td>41º 41,473´N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 20,306´E</td>
-<td class="cuerpo_tabla_centro">00° 44,990’ E</td>
-<td class="cuerpo_tabla_centro">02º 57,472´E</td>
+<td>03° 20,306´E</td>
+<td>00° 44,990’ E</td>
+<td>02º 57,472´E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">41° 42,416´N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">41º 43,555´N</td>
+<td rowspan="2">6</td>
+<td>41° 42,416´N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>41º 43,555´N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 22,618´E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">02º 56,763´E</td>
+<td>03° 22,618´E</td>
+<td> </td>
+<td> </td>
+<td>02º 56,763´E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">41° 44,131´N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="2">7</td>
+<td>41° 44,131´N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 23,798´E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>03° 23,798´E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -1651,63 +1581,57 @@ F) Subzona Geográfica 1 (GSA1):
 
 Los polígonos formados por la unión de las siguientes coordenadas geográficas que quedarán cerrados para la pesca con artes de arrastre, durante los meses indicados a continuación:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Cierre cigala y gamba blanca</th>
-<th class="cabeza_tabla" colspan="2">Cierre gamba roja</th>
+<th colspan="2">Cierre cigala y gamba blanca</th>
+<th colspan="2">Cierre gamba roja</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">Del 1 al 30 de abril</th>
-<th class="cabeza_tabla" colspan="2">1 de enero-31 de diciembre</th>
+<th colspan="2">Del 1 al 30 de abril</th>
+<th colspan="2">1 de enero-31 de diciembre</th>
 </tr>
 </thead>
-<colgroup>
-<col width="6%">
-<col width="30%">
-<col width="6%">
-<col width="30%">
-</colgroup>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">36° 39′6000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">36° 28′8000 N</td>
+<td rowspan="2">1</td>
+<td>36° 39′6000 N</td>
+<td rowspan="2">1</td>
+<td>36° 28′8000 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 46′2000 W</td>
-<td class="cuerpo_tabla_centro">02° 56′4000 W</td>
+<td>03° 46′2000 W</td>
+<td>02° 56′4000 W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">36° 42′0000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">36° 31′8000 N</td>
+<td rowspan="2">2</td>
+<td>36° 42′0000 N</td>
+<td rowspan="2">2</td>
+<td>36° 31′8000 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 46′2000 W</td>
-<td class="cuerpo_tabla_centro">02° 56′4000 W</td>
+<td>03° 46′2000 W</td>
+<td>02° 56′4000 W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">36° 40′2000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">36° 34′2000 N</td>
+<td rowspan="2">3</td>
+<td>36° 40′2000 N</td>
+<td rowspan="2">3</td>
+<td>36° 34′2000 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 42′0000 W</td>
-<td class="cuerpo_tabla_centro">02° 44′4000 W</td>
+<td>03° 42′0000 W</td>
+<td>02° 44′4000 W</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">36° 37′8000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">36° 31′2000 N</td>
+<td rowspan="2">4</td>
+<td>36° 37′8000 N</td>
+<td rowspan="2">4</td>
+<td>36° 31′2000 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 42′0000 W</td>
-<td class="cuerpo_tabla_centro">02° 44′4000 W</td>
+<td>03° 42′0000 W</td>
+<td>02° 44′4000 W</td>
 </tr>
 </tbody>
 </table>
@@ -1716,214 +1640,182 @@ G) Subzona Geográfica 5 (GSA5):
 
 Los polígonos formados por la unión de las siguientes coordenadas geográficas que quedarán cerrados para la pesca con artes de arrastre, durante los meses indicados a continuación:
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Zona 1 Norte Menorca</th>
-<th class="cabeza_tabla" colspan="2">Zona 2 Este Menorca</th>
-<th class="cabeza_tabla" colspan="2">Zona Noroeste Mallorca</th>
+<th colspan="2">Zona 1 Norte Menorca</th>
+<th colspan="2">Zona 2 Este Menorca</th>
+<th colspan="2">Zona Noroeste Mallorca</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">1 de septiembre - 31 de marzo</th>
-<th class="cabeza_tabla" colspan="2">1 de abril - 31 agosto</th>
-<th class="cabeza_tabla" colspan="2">1 de abril - 31 de agosto</th>
+<th colspan="2">1 de septiembre - 31 de marzo</th>
+<th colspan="2">1 de abril - 31 agosto</th>
+<th colspan="2">1 de abril - 31 de agosto</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 17,6047 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">39° 59,7847 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 01,2237 N</td>
+<td rowspan="2">1</td>
+<td>40° 17,6047 N</td>
+<td rowspan="2">1</td>
+<td>39° 59,7847 N</td>
+<td rowspan="2">1</td>
+<td>40° 01,2237 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">04° 01,9724 E</td>
-<td class="cuerpo_tabla_centro">04° 16,2002 E</td>
-<td class="cuerpo_tabla_centro">03° 01,7287 E</td>
+<td>04° 01,9724 E</td>
+<td>04° 16,2002 E</td>
+<td>03° 01,7287 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 12,3231 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 01,5966 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 05,8287 N</td>
+<td rowspan="2">2</td>
+<td>40° 12,3231 N</td>
+<td rowspan="2">2</td>
+<td>40° 01,5966 N</td>
+<td rowspan="2">2</td>
+<td>40° 05,8287 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">04° 12,0738 E</td>
-<td class="cuerpo_tabla_centro">04° 19,2485 E</td>
-<td class="cuerpo_tabla_centro">03° 11,5679 E</td>
+<td>04° 12,0738 E</td>
+<td>04° 19,2485 E</td>
+<td>03° 11,5679 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 01,5046 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">39° 51,1276 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">39° 57,7501 N</td>
+<td rowspan="2">3</td>
+<td>40° 01,5046 N</td>
+<td rowspan="2">3</td>
+<td>39° 51,1276 N</td>
+<td rowspan="2">3</td>
+<td>39° 57,7501 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">04° 11,8837 E</td>
-<td class="cuerpo_tabla_centro">04° 25,2056 E</td>
-<td class="cuerpo_tabla_centro">03° 12,8339 E</td>
+<td>04° 11,8837 E</td>
+<td>04° 25,2056 E</td>
+<td>03° 12,8339 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 03,9036 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">39° 44,5223 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">39° 56,2629 N</td>
+<td rowspan="2">4</td>
+<td>40° 03,9036 N</td>
+<td rowspan="2">4</td>
+<td>39° 44,5223 N</td>
+<td rowspan="2">4</td>
+<td>39° 56,2629 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">04° 01,7650 E</td>
-<td class="cuerpo_tabla_centro">04° 20,9734 E</td>
-<td class="cuerpo_tabla_centro">03° 02,5178 E</td>
+<td>04° 01,7650 E</td>
+<td>04° 20,9734 E</td>
+<td>03° 02,5178 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">39° 48,4125 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">5</td>
+<td>39° 48,4125 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">4° 05,7284 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>4° 05,7284 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">39° 50,6200 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>39° 50,6200 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">04° 00,000 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>04° 00,000 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">39° 54,6800 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">7</td>
+<td>39° 54,6800 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">04° 02,6000 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>04° 02,6000 E</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
-<colgroup>
-<col>
-</colgroup>
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Zona Norte Ibiza</th>
-<th class="cabeza_tabla" colspan="2">Zona Sureste Formentera</th>
+<th colspan="2">Zona Norte Ibiza</th>
+<th colspan="2">Zona Sureste Formentera</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" colspan="2">1 de septiembre - 31 de marzo</th>
-<th class="cabeza_tabla" colspan="2">1 de septiembre - 31 de marzo</th>
+<th colspan="2">1 de septiembre - 31 de marzo</th>
+<th colspan="2">1 de septiembre - 31 de marzo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">39° 22,7734 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">38° 39,1302 N</td>
+<td rowspan="2">1</td>
+<td>39° 22,7734 N</td>
+<td rowspan="2">1</td>
+<td>38° 39,1302 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 28,9552 E</td>
-<td class="cuerpo_tabla_centro">01° 31,2269 E</td>
+<td>01° 28,9552 E</td>
+<td>01° 31,2269 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">39° 25,1300 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">38° 41,2826 N</td>
+<td rowspan="2">2</td>
+<td>39° 25,1300 N</td>
+<td rowspan="2">2</td>
+<td>38° 41,2826 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 59,3293 E</td>
-<td class="cuerpo_tabla_centro">01°34,1100 E</td>
+<td>01° 59,3293 E</td>
+<td>01°34,1100 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">39° 04,9022 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">38° 49,5858 N</td>
+<td rowspan="2">3</td>
+<td>39° 04,9022 N</td>
+<td rowspan="2">3</td>
+<td>38° 49,5858 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 36,6815 E</td>
-<td class="cuerpo_tabla_centro">01° 53,8463 E</td>
+<td>01° 36,6815 E</td>
+<td>01° 53,8463 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">39° 06,6333 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">38° 29,1182 N</td>
+<td rowspan="2">4</td>
+<td>39° 06,6333 N</td>
+<td rowspan="2">4</td>
+<td>38° 29,1182 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 29,3024 E</td>
-<td class="cuerpo_tabla_centro">01° 53,7108 E</td>
+<td>01° 29,3024 E</td>
+<td>01° 53,7108 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">38° 20,8063 N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2">5</td>
+<td>38° 20,8063 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 22,8464 E</td>
+<td> </td>
+<td> </td>
+<td>01° 22,8464 E</td>
 </tr>
 </tbody>
 </table>
@@ -1936,759 +1828,719 @@ No obstante lo dispuesto en el párrafo anterior, en el área “Roca dels Feliu
 
 2\. El polígono formado por la unión de las coordenadas geográficas mostradas a continuación en el área “Veda permanente de Castellón”, quedará cerrado de forma permanente para la pesca con artes de arrastre.
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Área “Cigala de Palamós”</th>
-<th class="cabeza_tabla" colspan="2">Zona “Bol de Les Bruixes de Blanes”</th>
-<th class="cabeza_tabla" colspan="2">Área “Cigala de Barcelona”</th>
-<th class="cabeza_tabla" colspan="2">Área “Merluza de Barcelona”</th>
+<th colspan="2">Área “Cigala de Palamós”</th>
+<th colspan="2">Zona “Bol de Les Bruixes de Blanes”</th>
+<th colspan="2">Área “Cigala de Barcelona”</th>
+<th colspan="2">Área “Merluza de Barcelona”</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 enero-31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 43’ 7940 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 35’ 1700 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 16’ 3080 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 13’ 8170 N</td>
+<td rowspan="2">1</td>
+<td>41° 43’ 7940 N</td>
+<td rowspan="2">1</td>
+<td>41° 35’ 1700 N</td>
+<td rowspan="2">1</td>
+<td>41° 16’ 3080 N</td>
+<td rowspan="2">1</td>
+<td>41° 13’ 8170 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 28’ 0000 E</td>
-<td class="cuerpo_tabla_centro">03° 08’ 4500 E</td>
-<td class="cuerpo_tabla_centro">02° 23’ 6700 E</td>
-<td class="cuerpo_tabla_centro">02° 08’ 6270 E</td>
+<td>03° 28’ 0000 E</td>
+<td>03° 08’ 4500 E</td>
+<td>02° 23’ 6700 E</td>
+<td>02° 08’ 6270 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 43’ 5170 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 36’ 0500 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 18’ 2500 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 12’ 8170 N</td>
+<td rowspan="2">2</td>
+<td>41° 43’ 5170 N</td>
+<td rowspan="2">2</td>
+<td>41° 36’ 0500 N</td>
+<td rowspan="2">2</td>
+<td>41° 18’ 2500 N</td>
+<td rowspan="2">2</td>
+<td>41° 12’ 8170 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 28’ 7640 E</td>
-<td class="cuerpo_tabla_centro">03° 09’ 6500 E</td>
-<td class="cuerpo_tabla_centro">02° 29’ 4100 E</td>
-<td class="cuerpo_tabla_centro">02° 09’ 5360 E</td>
+<td>03° 28’ 7640 E</td>
+<td>03° 09’ 6500 E</td>
+<td>02° 29’ 4100 E</td>
+<td>02° 09’ 5360 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 40’ 7080 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 37’ 4800 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 16’ 0800 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 09’ 5620 N</td>
+<td rowspan="2">3</td>
+<td>41° 40’ 7080 N</td>
+<td rowspan="2">3</td>
+<td>41° 37’ 4800 N</td>
+<td rowspan="2">3</td>
+<td>41° 16’ 0800 N</td>
+<td rowspan="2">3</td>
+<td>41° 09’ 5620 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 27’ 2530 E</td>
-<td class="cuerpo_tabla_centro">03° 11’ 9300 E</td>
-<td class="cuerpo_tabla_centro">02° 30’ 0000 E</td>
-<td class="cuerpo_tabla_centro">02° 03’ 6560 E</td>
+<td>03° 27’ 2530 E</td>
+<td>03° 11’ 9300 E</td>
+<td>02° 30’ 0000 E</td>
+<td>02° 03’ 6560 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 40’ 9250 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 37’ 0500 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 15’ 6720 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 10’ 1130 N</td>
+<td rowspan="2">4</td>
+<td>41° 40’ 9250 N</td>
+<td rowspan="2">4</td>
+<td>41° 37’ 0500 N</td>
+<td rowspan="2">4</td>
+<td>41° 15’ 6720 N</td>
+<td rowspan="2">4</td>
+<td>41° 10’ 1130 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 26’ 5180 E</td>
-<td class="cuerpo_tabla_centro">03° 12’ 8200 E</td>
-<td class="cuerpo_tabla_centro">02° 27’ 3180 E</td>
-<td class="cuerpo_tabla_centro">02° 03’ 0680 E</td>
+<td>03° 26’ 5180 E</td>
+<td>03° 12’ 8200 E</td>
+<td>02° 27’ 3180 E</td>
+<td>02° 03’ 0680 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 43’ 7940 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 35’ 6700 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 16’ 3080 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 13’ 8170 N</td>
+<td rowspan="2">5</td>
+<td>41° 43’ 7940 N</td>
+<td rowspan="2">5</td>
+<td>41° 35’ 6700 N</td>
+<td rowspan="2">5</td>
+<td>41° 16’ 3080 N</td>
+<td rowspan="2">5</td>
+<td>41° 13’ 8170 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">03° 28’ 0000 E</td>
-<td class="cuerpo_tabla_centro">03° 10’ 3600 E</td>
-<td class="cuerpo_tabla_centro">02° 23’ 6700 E</td>
-<td class="cuerpo_tabla_centro">02° 08’ 6270 E</td>
+<td>03° 28’ 0000 E</td>
+<td>03° 10’ 3600 E</td>
+<td>02° 23’ 6700 E</td>
+<td>02° 08’ 6270 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">41° 35’ 1700 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>41° 35’ 1700 N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">03° 08’ 4500 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>03° 08’ 4500 E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Área “Merluza de Vilanova”</th>
-<th class="cabeza_tabla" colspan="2">Área “Cigala de Vilanova”</th>
-<th class="cabeza_tabla" colspan="2">Zona “Merluza de Arenys”</th>
-<th class="cabeza_tabla" colspan="2">Área “Bol del Port de Barcelona”</th>
+<th colspan="2">Área “Merluza de Vilanova”</th>
+<th colspan="2">Área “Cigala de Vilanova”</th>
+<th colspan="2">Zona “Merluza de Arenys”</th>
+<th colspan="2">Área “Bol del Port de Barcelona”</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
+<td colspan="2">1 de enero-31 de diciembre</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 09’ 6400 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 05’ 7820 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 27’ 4000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 21’ 3749 N</td>
+<td rowspan="2">1</td>
+<td>41° 09’ 6400 N</td>
+<td rowspan="2">1</td>
+<td>41° 05’ 7820 N</td>
+<td rowspan="2">1</td>
+<td>41° 27’ 4000 N</td>
+<td rowspan="2">1</td>
+<td>41° 21’ 3749 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">02° 02’ 1400 E</td>
-<td class="cuerpo_tabla_centro">01° 54’ 1890 E</td>
-<td class="cuerpo_tabla_centro">02° 39’ 2900 E</td>
-<td class="cuerpo_tabla_centro">02° 12’ 7972 E</td>
+<td>02° 02’ 1400 E</td>
+<td>01° 54’ 1890 E</td>
+<td>02° 39’ 2900 E</td>
+<td>02° 12’ 7972 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 08’ 679' N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 03’ 5550 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 31’ 0200 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 21’ 3131 N</td>
+<td rowspan="2">2</td>
+<td>41° 08’ 679' N</td>
+<td rowspan="2">2</td>
+<td>41° 03’ 5550 N</td>
+<td rowspan="2">2</td>
+<td>41° 31’ 0200 N</td>
+<td rowspan="2">2</td>
+<td>41° 21’ 3131 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">02° 02’ 1970 E</td>
-<td class="cuerpo_tabla_centro">01° 55’ 0990 E</td>
-<td class="cuerpo_tabla_centro">02° 45’ 2700 E</td>
-<td class="cuerpo_tabla_centro">02° 14’ 7061 E</td>
+<td>02° 02’ 1970 E</td>
+<td>01° 55’ 0990 E</td>
+<td>02° 45’ 2700 E</td>
+<td>02° 14’ 7061 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 06’ 6960 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 03’ 3900 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 32’ 9400 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 15’ 3090 N</td>
+<td rowspan="2">3</td>
+<td>41° 06’ 6960 N</td>
+<td rowspan="2">3</td>
+<td>41° 03’ 3900 N</td>
+<td rowspan="2">3</td>
+<td>41° 32’ 9400 N</td>
+<td rowspan="2">3</td>
+<td>41° 15’ 3090 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 58’ 0050 E</td>
-<td class="cuerpo_tabla_centro">01° 54’ 2040 E</td>
-<td class="cuerpo_tabla_centro">02° 46’ 7500 E</td>
-<td class="cuerpo_tabla_centro">02° 11’ 4102 E</td>
+<td>01° 58’ 0050 E</td>
+<td>01° 54’ 2040 E</td>
+<td>02° 46’ 7500 E</td>
+<td>02° 11’ 4102 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 07’ 5660 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 05’ 7820 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 32’ 6000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 16’ 7954 N</td>
+<td rowspan="2">4</td>
+<td>41° 07’ 5660 N</td>
+<td rowspan="2">4</td>
+<td>41° 05’ 7820 N</td>
+<td rowspan="2">4</td>
+<td>41° 32’ 6000 N</td>
+<td rowspan="2">4</td>
+<td>41° 16’ 7954 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 58’ 3300 E</td>
-<td class="cuerpo_tabla_centro">01° 54’ 1890 E</td>
-<td class="cuerpo_tabla_centro">02° 47’ 6500 E</td>
-<td class="cuerpo_tabla_centro">02° 08’ 8971 E</td>
+<td>01° 58’ 3300 E</td>
+<td>01° 54’ 1890 E</td>
+<td>02° 47’ 6500 E</td>
+<td>02° 08’ 8971 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 09’ 6400 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 30’ 3000 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 21’ 3749 N</td>
+<td rowspan="2">5</td>
+<td>41° 09’ 6400 N</td>
+<td> </td>
+<td> </td>
+<td rowspan="2">5</td>
+<td>41° 30’ 3000 N</td>
+<td rowspan="2">5</td>
+<td>41° 21’ 3749 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">02° 02’ 1400 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">02° 46’ 4500 E</td>
-<td class="cuerpo_tabla_centro">02° 12’ 7972 E</td>
+<td>02° 02’ 1400 E</td>
+<td> </td>
+<td> </td>
+<td>02° 46’ 4500 E</td>
+<td>02° 12’ 7972 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">41° 26’ 3700 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>41° 26’ 3700 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">02° 40’ 1800 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>02° 40’ 1800 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">41° 27’ 4000 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">7</td>
+<td>41° 27’ 4000 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">02° 39’ 2900 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>02° 39’ 2900 E</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Área “Tarragona”</th>
-<th class="cabeza_tabla" colspan="2">Zona “Cambrils”</th>
-<th class="cabeza_tabla" colspan="2">Zona “L'Ametlla”</th>
-<th class="cabeza_tabla" colspan="2">Área “Barques La Rápita”</th>
+<th colspan="2">Área “Tarragona”</th>
+<th colspan="2">Zona “Cambrils”</th>
+<th colspan="2">Zona “L'Ametlla”</th>
+<th colspan="2">Área “Barques La Rápita”</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
+<td colspan="2">1 de enero - 31 de diciembre</td>
+<td colspan="2">1 de enero - 31 de diciembre</td>
+<td colspan="2">1 de enero - 31 de diciembre</td>
+<td colspan="2">1 de enero - 31 de diciembre</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">41° 03’ 4790 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 46’ 3200 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 36’ 5620 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 27’ 9620 N</td>
+<td rowspan="2">1</td>
+<td>41° 03’ 4790 N</td>
+<td rowspan="2">1</td>
+<td>40° 46’ 3200 N</td>
+<td rowspan="2">1</td>
+<td>40° 36’ 5620 N</td>
+<td rowspan="2">1</td>
+<td>40° 27’ 9620 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 29’ 4680 E</td>
-<td class="cuerpo_tabla_centro">01° 21’ 0290 E</td>
-<td class="cuerpo_tabla_centro">01° 19’ 9470 E</td>
-<td class="cuerpo_tabla_centro">00° 48’ 5070 E</td>
+<td>01° 29’ 4680 E</td>
+<td>01° 21’ 0290 E</td>
+<td>01° 19’ 9470 E</td>
+<td>00° 48’ 5070 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">41° 02’ 2660 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 45’ 6800 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 33’ 7820 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 28’ 2900 N</td>
+<td rowspan="2">2</td>
+<td>41° 02’ 2660 N</td>
+<td rowspan="2">2</td>
+<td>40° 45’ 6800 N</td>
+<td rowspan="2">2</td>
+<td>40° 33’ 7820 N</td>
+<td rowspan="2">2</td>
+<td>40° 28’ 2900 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 30’ 1340 E</td>
-<td class="cuerpo_tabla_centro">01° 21’ 4800 E</td>
-<td class="cuerpo_tabla_centro">01° 20’ 1140 E</td>
-<td class="cuerpo_tabla_centro">00° 52’ 2100 E</td>
+<td>01° 30’ 1340 E</td>
+<td>01° 21’ 4800 E</td>
+<td>01° 20’ 1140 E</td>
+<td>00° 52’ 2100 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">41° 04’ 3010 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 41’ 4930 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 31’ 2300 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 26’ 3240 N</td>
+<td rowspan="2">3</td>
+<td>41° 04’ 3010 N</td>
+<td rowspan="2">3</td>
+<td>40° 41’ 4930 N</td>
+<td rowspan="2">3</td>
+<td>40° 31’ 2300 N</td>
+<td rowspan="2">3</td>
+<td>40° 26’ 3240 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 39’ 8520 E</td>
-<td class="cuerpo_tabla_centro">01° 21’ 7260 E</td>
-<td class="cuerpo_tabla_centro">01° 18’ 6860 E</td>
-<td class="cuerpo_tabla_centro">00° 53’ 9580 E</td>
+<td>01° 39’ 8520 E</td>
+<td>01° 21’ 7260 E</td>
+<td>01° 18’ 6860 E</td>
+<td>00° 53’ 9580 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">41° 05’ 2260 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 39’ 0550 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 30’ 6520 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 25’ 7600 N</td>
+<td rowspan="2">4</td>
+<td>41° 05’ 2260 N</td>
+<td rowspan="2">4</td>
+<td>40° 39’ 0550 N</td>
+<td rowspan="2">4</td>
+<td>40° 30’ 6520 N</td>
+<td rowspan="2">4</td>
+<td>40° 25’ 7600 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 39’ 7770 E</td>
-<td class="cuerpo_tabla_centro">01° 21’ 6700 E</td>
-<td class="cuerpo_tabla_centro">01° 17’ 2650' E</td>
-<td class="cuerpo_tabla_centro">00° 50’ 4310 E</td>
+<td>01° 39’ 7770 E</td>
+<td>01° 21’ 6700 E</td>
+<td>01° 17’ 2650' E</td>
+<td>00° 50’ 4310 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">41° 03’ 4790 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 37’ 4500 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 28’ 6660 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 27’ 9620 N</td>
+<td rowspan="2">5</td>
+<td>41° 03’ 4790 N</td>
+<td rowspan="2">5</td>
+<td>40° 37’ 4500 N</td>
+<td rowspan="2">5</td>
+<td>40° 28’ 6660 N</td>
+<td rowspan="2">5</td>
+<td>40° 27’ 9620 N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 29’ 4680 E</td>
-<td class="cuerpo_tabla_centro">01° 21’ 9900 E</td>
-<td class="cuerpo_tabla_centro">01° 16’ 3880 E</td>
-<td class="cuerpo_tabla_centro">00° 48’ 5070 E</td>
+<td>01° 29’ 4680 E</td>
+<td>01° 21’ 9900 E</td>
+<td>01° 16’ 3880 E</td>
+<td>00° 48’ 5070 E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">40° 37’ 4800 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">40° 27’ 7840 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>40° 37’ 4800 N</td>
+<td rowspan="2">6</td>
+<td>40° 27’ 7840 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 20’ 9700 E</td>
-<td class="cuerpo_tabla_centro">01° 18’ 1200 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>01° 20’ 9700 E</td>
+<td>01° 18’ 1200 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">40° 44’ 3290 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">40° 29’ 3040 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">7</td>
+<td>40° 44’ 3290 N</td>
+<td rowspan="2">7</td>
+<td>40° 29’ 3040 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 19’ 7800 E</td>
-<td class="cuerpo_tabla_centro">01° 18’ 2400 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>01° 19’ 7800 E</td>
+<td>01° 18’ 2400 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">40° 46’ 1960 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">40° 30’ 4170 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">8</td>
+<td>40° 46’ 1960 N</td>
+<td rowspan="2">8</td>
+<td>40° 30’ 4170 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 20’ 4120 E</td>
-<td class="cuerpo_tabla_centro">01° 18’ 5730 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>01° 20’ 4120 E</td>
+<td>01° 18’ 5730 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
-<td class="cuerpo_tabla_centro">40° 31’ 1190 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">9</td>
+<td>40° 31’ 1190 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 20’ 3030 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>01° 20’ 3030 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">40° 33’ 7610 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">10</td>
+<td>40° 33’ 7610 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 21’ 4170 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>01° 21’ 4170 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">11</td>
-<td class="cuerpo_tabla_centro">40° 36’ 6060 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">11</td>
+<td>40° 36’ 6060 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 21’ 2650 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>01° 21’ 2650 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_centro">40° 36’ 5620 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">12</td>
+<td>40° 36’ 5620 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 19’ 9470 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>01° 19’ 9470 E</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-<col width="5%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Área “Fora La Rápita”</th>
-<th class="cabeza_tabla" colspan="2">Veda Permanente de Castellón</th>
-<th class="cabeza_tabla" colspan="2">Área “Les Moletes”</th>
-<th class="cabeza_tabla" colspan="2">Roca dels Feliu</th>
+<th colspan="2">Área “Fora La Rápita”</th>
+<th colspan="2">Veda Permanente de Castellón</th>
+<th colspan="2">Área “Les Moletes”</th>
+<th colspan="2">Roca dels Feliu</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 enero- 31 diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 de enero - 31 de diciembre</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 enero- 31 diciembre</td>
+<td colspan="2">1 de enero - 31 de diciembre</td>
+<td colspan="2">1 enero- 31 diciembre</td>
+<td colspan="2">1 de enero - 31 de diciembre</td>
+<td colspan="2">1 enero- 31 diciembre</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">40° 12’ 1040 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">39° 48, 215’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">39° 31’ 0500 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">1</td>
-<td class="cuerpo_tabla_centro">38° 41, 750’ N</td>
+<td rowspan="2">1</td>
+<td>40° 12’ 1040 N</td>
+<td rowspan="2">1</td>
+<td>39° 48, 215’ N</td>
+<td rowspan="2">1</td>
+<td>39° 31’ 0500 N</td>
+<td rowspan="2">1</td>
+<td>38° 41, 750’ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 11’ 4220 E</td>
-<td class="cuerpo_tabla_centro">00° 49, 813’ E</td>
-<td class="cuerpo_tabla_centro">00° 11’ 4550 E</td>
-<td class="cuerpo_tabla_centro">00° 16, 000’ E</td>
+<td>01° 11’ 4220 E</td>
+<td>00° 49, 813’ E</td>
+<td>00° 11’ 4550 E</td>
+<td>00° 16, 000’ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">40° 12’ 6080 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">39° 51, 017’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">39° 31’ 4680 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">2</td>
-<td class="cuerpo_tabla_centro">38° 43, 400’ N</td>
+<td rowspan="2">2</td>
+<td>40° 12’ 6080 N</td>
+<td rowspan="2">2</td>
+<td>39° 51, 017’ N</td>
+<td rowspan="2">2</td>
+<td>39° 31’ 4680 N</td>
+<td rowspan="2">2</td>
+<td>38° 43, 400’ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 10’ 0250 E</td>
-<td class="cuerpo_tabla_centro">00° 52, 900’ E</td>
-<td class="cuerpo_tabla_centro">00° 12’ 3210 E</td>
-<td class="cuerpo_tabla_centro">00° 21, 000’ E</td>
+<td>01° 10’ 0250 E</td>
+<td>00° 52, 900’ E</td>
+<td>00° 12’ 3210 E</td>
+<td>00° 21, 000’ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">40° 19’ 3280 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">39° 55, 910’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">39° 31’ 2060 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3</td>
-<td class="cuerpo_tabla_centro">38° 44’ 800’ N</td>
+<td rowspan="2">3</td>
+<td>40° 19’ 3280 N</td>
+<td rowspan="2">3</td>
+<td>39° 55, 910’ N</td>
+<td rowspan="2">3</td>
+<td>39° 31’ 2060 N</td>
+<td rowspan="2">3</td>
+<td>38° 44’ 800’ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 14’ 6360 E</td>
-<td class="cuerpo_tabla_centro">00° 58, 223’ E</td>
-<td class="cuerpo_tabla_centro">00° 12’ 6810 E</td>
-<td class="cuerpo_tabla_centro">00° 22, 200’ E</td>
+<td>01° 14’ 6360 E</td>
+<td>00° 58, 223’ E</td>
+<td>00° 12’ 6810 E</td>
+<td>00° 22, 200’ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">40° 18’ 9470 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">39° 57, 670’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">39° 30’ 9520 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">4</td>
-<td class="cuerpo_tabla_centro">38° 47, 400’ N</td>
+<td rowspan="2">4</td>
+<td>40° 18’ 9470 N</td>
+<td rowspan="2">4</td>
+<td>39° 57, 670’ N</td>
+<td rowspan="2">4</td>
+<td>39° 30’ 9520 N</td>
+<td rowspan="2">4</td>
+<td>38° 47, 400’ N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 15’ 8130 E</td>
-<td class="cuerpo_tabla_centro">01° 00, 057’ E</td>
-<td class="cuerpo_tabla_centro">00° 12’ 8870 E</td>
-<td class="cuerpo_tabla_centro">00° 17, 250’ E</td>
+<td>01° 15’ 8130 E</td>
+<td>01° 00, 057’ E</td>
+<td>00° 12’ 8870 E</td>
+<td>00° 17, 250’ E</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 12’ 1040 N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">40° 04, 912’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">5</td>
-<td class="cuerpo_tabla_centro">39° 30’ 5190 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td rowspan="2">5</td>
+<td>40° 12’ 1040 N</td>
+<td rowspan="2">5</td>
+<td>40° 04, 912’ N</td>
+<td rowspan="2">5</td>
+<td>39° 30’ 5190 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">01° 11’ 4220 E</td>
-<td class="cuerpo_tabla_centro">01° 05, 352’ E</td>
-<td class="cuerpo_tabla_centro">00° 12’ 3130 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>01° 11’ 4220 E</td>
+<td>01° 05, 352’ E</td>
+<td>00° 12’ 3130 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">40° 10, 248’ N</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">39° 30’ 7450 N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">6</td>
+<td>40° 10, 248’ N</td>
+<td rowspan="2">6</td>
+<td>39° 30’ 7450 N</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 10, 320’ E</td>
-<td class="cuerpo_tabla_centro">00° 12’ 0100 E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>01° 10, 320’ E</td>
+<td>00° 12’ 0100 E</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro">40° 12, 519’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">7</td>
+<td>40° 12, 519’ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 06, 833’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>01° 06, 833’ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro">40° 08, 097’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">8</td>
+<td>40° 08, 097’ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">01° 03, 581’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>01° 03, 581’ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">9</td>
-<td class="cuerpo_tabla_centro">39° 58, 841’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">9</td>
+<td>39° 58, 841’ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 57, 411’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>00° 57, 411’ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">39° 58, 143’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">10</td>
+<td>39° 58, 143’ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 56, 693’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>00° 56, 693’ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">11</td>
-<td class="cuerpo_tabla_centro">39° 52, 025’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">11</td>
+<td>39° 52, 025’ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 51, 088’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>00° 51, 088’ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_centro">39° 49, 545’ N</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td rowspan="2">12</td>
+<td>39° 49, 545’ N</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro">00° 48, 175’ E</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td> </td>
+<td> </td>
+<td>00° 48, 175’ E</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -920,205 +920,200 @@ Madrid, 15 de julio de 2024.–La Vicepresidenta Tercera del Gobierno y Ministra
 
 1\. El contenido energético, en toneladas equivalentes de petróleo (tep), que podrá certificarse para cada tipo de combustible se calculará aplicando los contenidos energéticos que se indican en la tabla siguiente, a los volúmenes que determine la entidad de certificación.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col width="17%">
-<col width="12%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Combustible</th>
-<th class="cabeza_tabla">Contenido energético por volumen (tep/m3)</th>
-<th class="cabeza_tabla">Densidad (kg/l)</th>
+<th>Combustible</th>
+<th>Contenido energético por volumen (tep/m3)</th>
+<th>Densidad (kg/l)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Combustibles a partir de biomasa y/u operaciones de transformación de biomasa</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biopropano.</td>
-<td class="cuerpo_tabla_centro">0,5732</td>
-<td class="cuerpo_tabla_centro">0,5217</td>
+<td>Biopropano.</td>
+<td>0,5732</td>
+<td>0,5217</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite vegetal puro (aceite obtenido a partir de plantas oleaginosas mediante presión, extracción o procedimientos comparables, crudo o refinado, pero sin modificación química).</td>
-<td class="cuerpo_tabla_centro">0,8121</td>
-<td class="cuerpo_tabla_centro">0,9189</td>
+<td>Aceite vegetal puro (aceite obtenido a partir de plantas oleaginosas mediante presión, extracción o procedimientos comparables, crudo o refinado, pero sin modificación química).</td>
+<td>0,8121</td>
+<td>0,9189</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel - éster etílico de ácidos grasos (éster etílico producido a partir de un aceite procedente de biomasa).</td>
-<td class="cuerpo_tabla_centro">0,8121</td>
-<td class="cuerpo_tabla_centro">0,8947</td>
+<td>Biodiésel - éster etílico de ácidos grasos (éster etílico producido a partir de un aceite procedente de biomasa).</td>
+<td>0,8121</td>
+<td>0,8947</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Biodiésel - éster metílico de ácidos grasos (éster metílico producido a partir de un aceite procedente de biomasa).</td>
-<td class="cuerpo_tabla_centro">0,7882</td>
-<td class="cuerpo_tabla_centro">0,8919</td>
+<td>Biodiésel - éster metílico de ácidos grasos (éster metílico producido a partir de un aceite procedente de biomasa).</td>
+<td>0,7882</td>
+<td>0,8919</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución del gasóleo.</td>
-<td class="cuerpo_tabla_centro">0,8121</td>
-<td class="cuerpo_tabla_centro">0,7727</td>
+<td>Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución del gasóleo.</td>
+<td>0,8121</td>
+<td>0,7727</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución de la gasolina.</td>
-<td class="cuerpo_tabla_centro">0,7165</td>
-<td class="cuerpo_tabla_centro">0,6667</td>
+<td>Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución de la gasolina.</td>
+<td>0,7165</td>
+<td>0,6667</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución del queroseno de aviación.</td>
-<td class="cuerpo_tabla_centro">0,8121</td>
-<td class="cuerpo_tabla_centro">0,7727</td>
+<td>Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución del queroseno de aviación.</td>
+<td>0,8121</td>
+<td>0,7727</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución del gas licuado de petróleo.</td>
-<td class="cuerpo_tabla_centro">0,5732</td>
-<td class="cuerpo_tabla_centro">0,5217</td>
+<td>Aceite hidrotratado procedente de biomasa (tratado termoquímicamente con hidrógeno), utilizado en sustitución del gas licuado de petróleo.</td>
+<td>0,5732</td>
+<td>0,5217</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución del gasóleo.</td>
-<td class="cuerpo_tabla_centro">0,8598</td>
-<td class="cuerpo_tabla_centro">0,8372</td>
+<td>Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución del gasóleo.</td>
+<td>0,8598</td>
+<td>0,8372</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución de la gasolina.</td>
-<td class="cuerpo_tabla_centro">0,7643</td>
-<td class="cuerpo_tabla_centro">0,7273</td>
+<td>Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución de la gasolina.</td>
+<td>0,7643</td>
+<td>0,7273</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución del queroseno de aviación.</td>
-<td class="cuerpo_tabla_centro">0,7882</td>
-<td class="cuerpo_tabla_centro">0,7674</td>
+<td>Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución del queroseno de aviación.</td>
+<td>0,7882</td>
+<td>0,7674</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución del gas licuado de petróleo.</td>
-<td class="cuerpo_tabla_centro">0,5493</td>
-<td class="cuerpo_tabla_centro">0,5000</td>
+<td>Aceite procedente de biomasa o de biomasa pirolizada coprocesado (procesado en una refinería simultáneamente con combustibles fósiles), utilizado en sustitución del gas licuado de petróleo.</td>
+<td>0,5493</td>
+<td>0,5000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Combustibles renovables que pueden producirse a partir de varias fuentes renovables, incluida la biomasa</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Metanol procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro">0,3822</td>
-<td class="cuerpo_tabla_centro">0,8000</td>
+<td>Metanol procedente de fuentes renovables.</td>
+<td>0,3822</td>
+<td>0,8000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Etanol procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro">0,5016</td>
-<td class="cuerpo_tabla_centro">0,7778</td>
+<td>Etanol procedente de fuentes renovables.</td>
+<td>0,5016</td>
+<td>0,7778</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Propanol procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro">0,5971</td>
-<td class="cuerpo_tabla_centro">0,8065</td>
+<td>Propanol procedente de fuentes renovables.</td>
+<td>0,5971</td>
+<td>0,8065</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Butanol procedente de fuentes renovables.</td>
-<td class="cuerpo_tabla_centro">0,6449</td>
-<td class="cuerpo_tabla_centro">0,8182</td>
+<td>Butanol procedente de fuentes renovables.</td>
+<td>0,6449</td>
+<td>0,8182</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos, utilizados en sustitución del gasóleo).</td>
-<td class="cuerpo_tabla_centro">0,8121</td>
-<td class="cuerpo_tabla_centro">0,7727</td>
+<td>Gasóleo Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos, utilizados en sustitución del gasóleo).</td>
+<td>0,8121</td>
+<td>0,7727</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos producidos a partir de biomasa, utilizados en sustitución de la gasolina).</td>
-<td class="cuerpo_tabla_centro">0,7882</td>
-<td class="cuerpo_tabla_centro">0,7500</td>
+<td>Gasolina Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos producidos a partir de biomasa, utilizados en sustitución de la gasolina).</td>
+<td>0,7882</td>
+<td>0,7500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Queroseno de aviación Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos producidos a partir de biomasa, utilizados en sustitución del queroseno de aviación).</td>
-<td class="cuerpo_tabla_centro">0,7882</td>
-<td class="cuerpo_tabla_centro">0,7500</td>
+<td>Queroseno de aviación Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos producidos a partir de biomasa, utilizados en sustitución del queroseno de aviación).</td>
+<td>0,7882</td>
+<td>0,7500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gas licuado de petróleo Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos, utilizados en sustitución del gas licuado de petróleo).</td>
-<td class="cuerpo_tabla_centro">0,5732</td>
-<td class="cuerpo_tabla_centro">0,5217</td>
+<td>Gas licuado de petróleo Fischer-Tropsch (hidrocarburo sintético o mezcla de hidrocarburos sintéticos, utilizados en sustitución del gas licuado de petróleo).</td>
+<td>0,5732</td>
+<td>0,5217</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DME (dimetil-éter).</td>
-<td class="cuerpo_tabla_centro">0,4538</td>
-<td class="cuerpo_tabla_centro">0,6786</td>
+<td>DME (dimetil-éter).</td>
+<td>0,4538</td>
+<td>0,6786</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ETBE (etil-terc-butil-éter producido a partir del etanol).</td>
-<td class="cuerpo_tabla_centro">0,6449 (del cual el 37 % procedente de fuentes renovables)</td>
-<td class="cuerpo_tabla_centro">0,7500</td>
+<td>ETBE (etil-terc-butil-éter producido a partir del etanol).</td>
+<td>0,6449 (del cual el 37 % procedente de fuentes renovables)</td>
+<td>0,7500</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MTBE (metil-terc-butil-éter producido a partir del metanol.</td>
-<td class="cuerpo_tabla_centro">0,6210 (del cual el 22 % procedente de fuentes renovables)</td>
-<td class="cuerpo_tabla_centro">0,7429</td>
+<td>MTBE (metil-terc-butil-éter producido a partir del metanol.</td>
+<td>0,6210 (del cual el 22 % procedente de fuentes renovables)</td>
+<td>0,7429</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TAEE (terc-amil-etil-éter, producido a partir del etanol).</td>
-<td class="cuerpo_tabla_centro">0,6927 (del cual el 29 % procedente de fuentes renovables)</td>
-<td class="cuerpo_tabla_centro">0,7632</td>
+<td>TAEE (terc-amil-etil-éter, producido a partir del etanol).</td>
+<td>0,6927 (del cual el 29 % procedente de fuentes renovables)</td>
+<td>0,7632</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TAME (terc-amil-metil-éter, producido a partir del metanol).</td>
-<td class="cuerpo_tabla_centro">0,6688 (del cual el 18 % procedente de fuentes renovables)</td>
-<td class="cuerpo_tabla_centro">0,7778</td>
+<td>TAME (terc-amil-metil-éter, producido a partir del metanol).</td>
+<td>0,6688 (del cual el 18 % procedente de fuentes renovables)</td>
+<td>0,7778</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">THxEE (terc-hexil-etil-éter, producido a partir del etanol).</td>
-<td class="cuerpo_tabla_centro">0,7165 (del cual el 25 % procedente de fuentes renovables)</td>
-<td class="cuerpo_tabla_centro">0,7895</td>
+<td>THxEE (terc-hexil-etil-éter, producido a partir del etanol).</td>
+<td>0,7165 (del cual el 25 % procedente de fuentes renovables)</td>
+<td>0,7895</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">THxME (terc-hexil-metil-éter, producido a partir del metanol).</td>
-<td class="cuerpo_tabla_centro">0,7165 (del cual el 14 % procedente de fuentes renovables)</td>
-<td class="cuerpo_tabla_centro">0,7895</td>
+<td>THxME (terc-hexil-metil-éter, producido a partir del metanol).</td>
+<td>0,7165 (del cual el 14 % procedente de fuentes renovables)</td>
+<td>0,7895</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">
+<td colspan="3">
 <em>Combustibles fósiles</em>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasóleo.</td>
-<td class="cuerpo_tabla_centro">0,8598</td>
-<td class="cuerpo_tabla_centro">0,8372</td>
+<td>Gasóleo.</td>
+<td>0,8598</td>
+<td>0,8372</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gasolina.</td>
-<td class="cuerpo_tabla_centro">0,7643</td>
-<td class="cuerpo_tabla_centro">0,7442</td>
+<td>Gasolina.</td>
+<td>0,7643</td>
+<td>0,7442</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Queroseno de aviación.</td>
-<td class="cuerpo_tabla_centro">0,8120</td>
-<td class="cuerpo_tabla_centro">0,7906</td>
+<td>Queroseno de aviación.</td>
+<td>0,8120</td>
+<td>0,7906</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gas Natural Comprimido.</td>
-<td class="cuerpo_tabla_centro">53.6 MJ/kg</td>
-<td class="cuerpo_tabla_centro">9 MJ/L,</td>
+<td>Gas Natural Comprimido.</td>
+<td>53.6 MJ/kg</td>
+<td>9 MJ/L,</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Gases Licuados del Petróleo.</td>
-<td class="cuerpo_tabla_centro">47.3 MJ/kg</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Gases Licuados del Petróleo.</td>
+<td>47.3 MJ/kg</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Hidrógeno procedente de fuentes no renovables.</td>
-<td class="cuerpo_tabla_centro">120 MJ/kg</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Hidrógeno procedente de fuentes no renovables.</td>
+<td>120 MJ/kg</td>
+<td> </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">Nota: Se considera que una tonelada equivalente de petróleo son 41,868 gigajulios y 11,630 MWh.</p>
+<p>Nota: Se considera que una tonelada equivalente de petróleo son 41,868 gigajulios y 11,630 MWh.</p>
 </td>
 </tr>
 </tfoot>
@@ -1500,800 +1495,760 @@ l) Las plantas de producción de biogás, así como de combustibles renovables d
 
 ## ANEXO III — Listado de materias primas
 
-<table class="tabla_girada" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Tabla 1. Materias primas de cómputo simple limitadas según lo establecido en la Orden TED/1342/2022, de 23 de diciembre, por la que se establece el límite de biocarburantes producidos a partir de cultivos alimentarios y forrajeros a efectos del objetivo de venta o consumo de biocarburantes y biogás con fines de transporte</em>
 </p>
 </caption>
-<colgroup>
-<col width="11%">
-<col width="25%">
-<col width="7%">
-<col width="25%">
-<col width="7%">
-<col width="8%">
-<col width="10%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Descripción <sup>(1)</sup></th>
-<th class="cabeza_tabla">Uso del suelo</th>
-<th class="cabeza_tabla">GEI</th>
-<th class="cabeza_tabla">Factor</th>
-<th class="cabeza_tabla">Avanzado <sup>(2)</sup></th>
-<th class="cabeza_tabla">Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
-<th class="cabeza_tabla">Tipo de certificado</th>
+<th>Denominación</th>
+<th>Descripción <sup>(1)</sup></th>
+<th>Uso del suelo</th>
+<th>GEI</th>
+<th>Factor</th>
+<th>Avanzado <sup>(2)</sup></th>
+<th>Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
+<th>Tipo de certificado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">A. CANOLA</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de las semillas de canola.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>A. CANOLA</td>
+<td>Aceite extraído de las semillas de canola.</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. COLZA</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de las semillas de colza (rapeseed).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>A. COLZA</td>
+<td>Aceite extraído de las semillas de colza (rapeseed).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. GIRASOL</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de las semillas de girasol (sunflower).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>A. GIRASOL</td>
+<td>Aceite extraído de las semillas de girasol (sunflower).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. HUESO PALMA</td>
-<td class="cuerpo_tabla_izq">Aceite extraído del hueso o cáscara de la semilla del fruto de la palma (palm kernel shells).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTCI</td>
+<td>A. HUESO PALMA</td>
+<td>Aceite extraído del hueso o cáscara de la semilla del fruto de la palma (palm kernel shells).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTCI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. OLIVA</td>
-<td class="cuerpo_tabla_izq">Aceite extraído directamente de la aceituna.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>A. OLIVA</td>
+<td>Aceite extraído directamente de la aceituna.</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. ORUJO</td>
-<td class="cuerpo_tabla_izq">Aceite extraído del alperujo (restos - agua, piel, hueso, restos grasos – que quedan tras molturar la aceituna).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>A. ORUJO</td>
+<td>Aceite extraído del alperujo (restos - agua, piel, hueso, restos grasos – que quedan tras molturar la aceituna).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. PALMA</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de la pulpa del fruto de la palma (palm).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTCI</td>
+<td>A. PALMA</td>
+<td>Aceite extraído de la pulpa del fruto de la palma (palm).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTCI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A. SOJA</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de las habas de la soja (soybean).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>A. SOJA</td>
+<td>Aceite extraído de las habas de la soja (soybean).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CAÑA AZÚCAR</td>
-<td class="cuerpo_tabla_izq">Azúcar extraído de la caña de azúcar (sugar cane).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>CAÑA AZÚCAR</td>
+<td>Azúcar extraído de la caña de azúcar (sugar cane).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CEBADA</td>
-<td class="cuerpo_tabla_izq">Granos de cebada. No incluye la paja de este cereal (barley).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>CEBADA</td>
+<td>Granos de cebada. No incluye la paja de este cereal (barley).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CENTENO</td>
-<td class="cuerpo_tabla_izq">Granos de centeno. No incluye la paja de este cereal (rye).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>CENTENO</td>
+<td>Granos de centeno. No incluye la paja de este cereal (rye).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FFBs</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de los racimos de palma (oil palm fresh fruit bunches).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTCI</td>
+<td>FFBs</td>
+<td>Aceite extraído de los racimos de palma (oil palm fresh fruit bunches).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTCI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MAÍZ</td>
-<td class="cuerpo_tabla_izq">Grano de maíz o aceite extraído del mismo (corn/ maize). No incluye las mazorcas de maíz una vez extraídos los granos.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>MAÍZ</td>
+<td>Grano de maíz o aceite extraído del mismo (corn/ maize). No incluye las mazorcas de maíz una vez extraídos los granos.</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MANTECA DE KARITÉ</td>
-<td class="cuerpo_tabla_izq">Grasa vegetal extraída del hueso del fruto del karité (sea butter).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>MANTECA DE KARITÉ</td>
+<td>Grasa vegetal extraída del hueso del fruto del karité (sea butter).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PFAD</td>
-<td class="cuerpo_tabla_izq">Palm Fatty Acid Distillate, destilado de ácido graso de la palma.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTCI</td>
+<td>PFAD</td>
+<td>Palm Fatty Acid Distillate, destilado de ácido graso de la palma.</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTCI</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">REMOLACHA</td>
-<td class="cuerpo_tabla_izq">Raíces o tubérculos de la remolacha azucarera (sugar beet).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>REMOLACHA</td>
+<td>Raíces o tubérculos de la remolacha azucarera (sugar beet).</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TRIGO</td>
-<td class="cuerpo_tabla_izq">Grano de trigo (wheat). No incluye la paja de este cereal.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>TRIGO</td>
+<td>Grano de trigo (wheat). No incluye la paja de este cereal.</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TRITICALE</td>
-<td class="cuerpo_tabla_izq">Granos de triticale. No incluye la paja de este cereal.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">CTC</td>
+<td>TRITICALE</td>
+<td>Granos de triticale. No incluye la paja de este cereal.</td>
+<td>SI/NO/ND</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>1</td>
+<td>NO</td>
+<td>SI</td>
+<td>CTC</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="8">
-<p class="cita">(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
-<p class="cita">(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
-<p class="cita">(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
+<p>(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_girada" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Tabla 2. Materias primas de cómputo simple no limitadas</em>
 </p>
 </caption>
-<colgroup>
-<col width="11%">
-<col width="25%">
-<col width="7%">
-<col width="25%">
-<col width="7%">
-<col width="8%">
-<col width="10%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Descripción <sup>(1)</sup></th>
-<th class="cabeza_tabla">Uso del suelo</th>
-<th class="cabeza_tabla">GEI</th>
-<th class="cabeza_tabla">Factor</th>
-<th class="cabeza_tabla">Avanzado <sup>(2)</sup></th>
-<th class="cabeza_tabla">Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
-<th class="cabeza_tabla">Tipo de certificado</th>
+<th>Denominación</th>
+<th>Descripción <sup>(1)</sup></th>
+<th>Uso del suelo</th>
+<th>GEI</th>
+<th>Factor</th>
+<th>Avanzado <sup>(2)</sup></th>
+<th>Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
+<th>Tipo de certificado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">D.R.</td>
-<td class="cuerpo_tabla_izq">Residuos no incluidos en otras categorías concretas de las tablas 1, 2 y 4.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTD</td>
+<td>D.R.</td>
+<td>Residuos no incluidos en otras categorías concretas de las tablas 1, 2 y 4.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>1</td>
+<td>NO</td>
+<td>NO</td>
+<td>CTD</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRASA ANIMAL CAT.3</td>
-<td class="cuerpo_tabla_izq">Grasas animales de categoría 3 conforme al Reglamento (CE)1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 (animal fat/ tallow - category 3 -).</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena. Sólo se puede usar un valor real (nunca un valor por defecto) según nota a pie 1 de la parte A del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTD</td>
+<td>GRASA ANIMAL CAT.3</td>
+<td>Grasas animales de categoría 3 conforme al Reglamento (CE)1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 (animal fat/ tallow - category 3 -).</td>
+<td>No aplica.</td>
+<td>ND/Valor de toda la cadena. Sólo se puede usar un valor real (nunca un valor por defecto) según nota a pie 1 de la parte A del anexo I del RD 376/2022.</td>
+<td>1</td>
+<td>NO</td>
+<td>NO</td>
+<td>CTD</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESIDUOS ACUÍCOLAS O PESQUEROS</td>
-<td class="cuerpo_tabla_izq">Se refiere a aquellos residuos directamente generados por la acuicultura y la pesca, sin incluir los procedentes de industrias conexas o de la transformación.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTD</td>
+<td>RESIDUOS ACUÍCOLAS O PESQUEROS</td>
+<td>Se refiere a aquellos residuos directamente generados por la acuicultura y la pesca, sin incluir los procedentes de industrias conexas o de la transformación.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>1</td>
+<td>NO</td>
+<td>NO</td>
+<td>CTD</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="8">
-<p class="cita">(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
-<p class="cita">(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
-<p class="cita">(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
+<p>(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_girada" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Tabla 3. Materias primas de doble cómputo, conforme a parte A del anexo I del Real Decreto 376/ 2022, de 17 de mayo</em>
 </p>
 </caption>
-<colgroup>
-<col width="11%">
-<col width="25%">
-<col width="7%">
-<col width="25%">
-<col width="7%">
-<col width="8%">
-<col width="10%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Descripción <sup>(1)</sup></th>
-<th class="cabeza_tabla">Uso del suelo</th>
-<th class="cabeza_tabla">GEI</th>
-<th class="cabeza_tabla">Factor</th>
-<th class="cabeza_tabla">Avanzado <sup>(2)</sup></th>
-<th class="cabeza_tabla">Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
-<th class="cabeza_tabla">Tipo de certificado</th>
+<th>Denominación</th>
+<th>Descripción <sup>(1)</sup></th>
+<th>Uso del suelo</th>
+<th>GEI</th>
+<th>Factor</th>
+<th>Avanzado <sup>(2)</sup></th>
+<th>Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
+<th>Tipo de certificado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">A. ÁCIDO DE PLUMA DE AVE</td>
-<td class="cuerpo_tabla_izq">Aceites ácidos obtenidos de la grasa de plumas de ave resultantes de un proceso industrial, con la consideración de residuo, no apto para su uso en la cadena alimentaria humana o animal (poultry feather acid oil), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>A. ÁCIDO DE PLUMA DE AVE</td>
+<td>Aceites ácidos obtenidos de la grasa de plumas de ave resultantes de un proceso industrial, con la consideración de residuo, no apto para su uso en la cadena alimentaria humana o animal (poultry feather acid oil), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALGAS</td>
-<td class="cuerpo_tabla_izq">Algas cultivadas en estanques terrestres o fotobiorreactores, conforme parte A, letra a), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">ND/Valor de toda la cadena.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ALGAS</td>
+<td>Algas cultivadas en estanques terrestres o fotobiorreactores, conforme parte A, letra a), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>ND/Valor de toda la cadena.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALQUITRÁN DE ACEITE DE RESINA</td>
-<td class="cuerpo_tabla_izq">Residuo derivado de la destilación del aceite crudo de resina generado en el proceso productivo de fabricación de pasta de papel, principalmente a partir de coníferas, según comunicado 2010/C 160/02 de la Comisión Europea, (tall oil pitch), conforme parte A, letra h), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ALQUITRÁN DE ACEITE DE RESINA</td>
+<td>Residuo derivado de la destilación del aceite crudo de resina generado en el proceso productivo de fabricación de pasta de papel, principalmente a partir de coníferas, según comunicado 2010/C 160/02 de la Comisión Europea, (tall oil pitch), conforme parte A, letra h), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B.G.</td>
-<td class="cuerpo_tabla_izq">Aceites o grasas recogidos mediante separadores o trampas colocadas en desagües, con la consideración de residuo, no aptos para su uso en la cadena alimentaria humana o animal (brown grease), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>B.G.</td>
+<td>Aceites o grasas recogidos mediante separadores o trampas colocadas en desagües, con la consideración de residuo, no aptos para su uso en la cadena alimentaria humana o animal (brown grease), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BAGAZO AGRÍCOLA</td>
-<td class="cuerpo_tabla_izq">Residuo de materia agrícola una vez extraído el jugo (bagasse), conforme parte A, letra j), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>BAGAZO AGRÍCOLA</td>
+<td>Residuo de materia agrícola una vez extraído el jugo (bagasse), conforme parte A, letra j), del anexo I del RD 376/2022.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BAGAZO INDUSTRIAL</td>
-<td class="cuerpo_tabla_izq">Residuo procedente de la industria una vez extraído el jugo (bagasse), conforme parte A, letra j), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>BAGAZO INDUSTRIAL</td>
+<td>Residuo procedente de la industria una vez extraído el jugo (bagasse), conforme parte A, letra j), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÁSCARAS DE FRUTOS SECOS AGRÍCOLAS</td>
-<td class="cuerpo_tabla_izq">Envolturas de frutos secos procedentes de la agricultura (nut shells), conforme parte A, letra l), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>CÁSCARAS DE FRUTOS SECOS AGRÍCOLAS</td>
+<td>Envolturas de frutos secos procedentes de la agricultura (nut shells), conforme parte A, letra l), del anexo I del RD 376/2022.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÁSCARAS DE FRUTOS SECOS INDUSTRIALES</td>
-<td class="cuerpo_tabla_izq">Envolturas de frutos secos procedentes de la industria (nut shells), conforme parte A, letra l), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>CÁSCARAS DE FRUTOS SECOS INDUSTRIALES</td>
+<td>Envolturas de frutos secos procedentes de la industria (nut shells), conforme parte A, letra l), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">EFB</td>
-<td class="cuerpo_tabla_izq">Aceite extraído de los racimos de palma una vez vaciados de sus frutos, procedente de la industria (empty palm fruit bunches), conforme parte A, letra g), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>EFB</td>
+<td>Aceite extraído de los racimos de palma una vez vaciados de sus frutos, procedente de la industria (empty palm fruit bunches), conforme parte A, letra g), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENVOLTURAS AGRÍCOLAS</td>
-<td class="cuerpo_tabla_izq">Peladuras (mondas, hollejos y cáscaras) de los vegetales procedentes de la agricultura (husks), conforme parte A, letra m), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ENVOLTURAS AGRÍCOLAS</td>
+<td>Peladuras (mondas, hollejos y cáscaras) de los vegetales procedentes de la agricultura (husks), conforme parte A, letra m), del anexo I del RD 376/2022.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENVOLTURAS INDUSTRIALES</td>
-<td class="cuerpo_tabla_izq">Peladuras (mondas, hollejos y cáscaras) de los vegetales procedentes de la industria (husks), conforme parte A, letra m), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ENVOLTURAS INDUSTRIALES</td>
+<td>Peladuras (mondas, hollejos y cáscaras) de los vegetales procedentes de la industria (husks), conforme parte A, letra m), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ESTIERCOL ANIMAL</td>
-<td class="cuerpo_tabla_izq">Residuo ganadero compuesto fundamentalmente por excrementos de animales (manure), conforme parte A, letra f), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ESTIERCOL ANIMAL</td>
+<td>Residuo ganadero compuesto fundamentalmente por excrementos de animales (manure), conforme parte A, letra f), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ETANOL DE EXTRACCIÓN DE PLANTAS MEDICINALES</td>
-<td class="cuerpo_tabla_izq">Bioetanol contaminado utilizado en la extracción de ingredientes de plantas medicinales que no pueden usarse para alimentos, piensos o fines farmacéuticos posteriores y que de otro modo se eliminarían conforme parte A, letra f), del anexo I del RD 376/2022</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ETANOL DE EXTRACCIÓN DE PLANTAS MEDICINALES</td>
+<td>Bioetanol contaminado utilizado en la extracción de ingredientes de plantas medicinales que no pueden usarse para alimentos, piensos o fines farmacéuticos posteriores y que de otro modo se eliminarían conforme parte A, letra f), del anexo I del RD 376/2022</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FFA (UCO)</td>
-<td class="cuerpo_tabla_izq">Ácidos grasos libres procedentes de UCO y resultantes de un proceso un proceso de tratamiento de residuos, con la consideración de residuo, no aptos para su uso en la cadena alimentaria humana o animal (free fatty acids from UCO), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>FFA (UCO)</td>
+<td>Ácidos grasos libres procedentes de UCO y resultantes de un proceso un proceso de tratamiento de residuos, con la consideración de residuo, no aptos para su uso en la cadena alimentaria humana o animal (free fatty acids from UCO), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRASAS PROCEDENTES DE LA LIMPIEZA DE TANQUES EN TRANSPORTE MARÍTIMO</td>
-<td class="cuerpo_tabla_izq">Aguas residuales generadas durante la limpieza de los tanques de los buques después del transporte y descarga de petróleo de origen biogénico, por ejemplo, aceites vegetales conforme parte A, letra d), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>GRASAS PROCEDENTES DE LA LIMPIEZA DE TANQUES EN TRANSPORTE MARÍTIMO</td>
+<td>Aguas residuales generadas durante la limpieza de los tanques de los buques después del transporte y descarga de petróleo de origen biogénico, por ejemplo, aceites vegetales conforme parte A, letra d), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GLICEROL EN BRUTO</td>
-<td class="cuerpo_tabla_izq">Glicerol, residuo de diversos procesos productivos (crude glycerine), conforme parte A, letra i), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>GLICEROL EN BRUTO</td>
+<td>Glicerol, residuo de diversos procesos productivos (crude glycerine), conforme parte A, letra i), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OTRAS MATERIAS CELULÓSICAS NO ALIMENTARIAS AGRÍCOLAS</td>
-<td class="cuerpo_tabla_izq">Materias procedentes de la agricultura que se componen principalmente de celulosa y hemicelulosa y cuyo contenido de lignina es inferior al de los materiales lignocelulósicos, que no estén incluidas específicamente en otros apartados de este anexo. Se incluyen los tallos y los cultivos de hierbas energéticos con bajo contenido de almidón (como el ballico, el pasto varilla, el pasto elefante, la caña común, los cultivos de cobertura antes y después de los cultivos principales, etc.).</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>OTRAS MATERIAS CELULÓSICAS NO ALIMENTARIAS AGRÍCOLAS</td>
+<td>Materias procedentes de la agricultura que se componen principalmente de celulosa y hemicelulosa y cuyo contenido de lignina es inferior al de los materiales lignocelulósicos, que no estén incluidas específicamente en otros apartados de este anexo. Se incluyen los tallos y los cultivos de hierbas energéticos con bajo contenido de almidón (como el ballico, el pasto varilla, el pasto elefante, la caña común, los cultivos de cobertura antes y después de los cultivos principales, etc.).</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OTRAS MATERIAS CELULÓSICAS NO ALIMENTARIAS INDUSTRIALES</td>
-<td class="cuerpo_tabla_izq">Materias procedentes de la industria que se componen principalmente de celulosa y hemicelulosa y cuyo contenido de lignina es inferior al de los materiales lignocelulósicos, que no estén incluidas específicamente en otros apartados de este anexo. Se incluyen los tallos, los cultivos de hierbas energéticos con bajo contenido de almidón (como el ballico, el pasto varilla, el pasto elefante, la caña común, los cultivos de cobertura antes y después de los cultivos principales, etc.), los residuos industriales (incluidos los procedentes de cultivos para alimentos y piensos una vez extraídos los aceites vegetales, los azúcares, los almidones y las proteínas) y la materia procedente de residuos orgánicos.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>OTRAS MATERIAS CELULÓSICAS NO ALIMENTARIAS INDUSTRIALES</td>
+<td>Materias procedentes de la industria que se componen principalmente de celulosa y hemicelulosa y cuyo contenido de lignina es inferior al de los materiales lignocelulósicos, que no estén incluidas específicamente en otros apartados de este anexo. Se incluyen los tallos, los cultivos de hierbas energéticos con bajo contenido de almidón (como el ballico, el pasto varilla, el pasto elefante, la caña común, los cultivos de cobertura antes y después de los cultivos principales, etc.), los residuos industriales (incluidos los procedentes de cultivos para alimentos y piensos una vez extraídos los aceites vegetales, los azúcares, los almidones y las proteínas) y la materia procedente de residuos orgánicos.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OTRAS MATERIAS LIGNOCELULÓSICAS DE SILVICULTURA Y AGRÍCOLAS</td>
-<td class="cuerpo_tabla_izq">Materias procedentes de la agricultura y la silvicultura compuestas de lignina, celulosa y hemicelulosa, como la biomasa procedente de los bosques y los cultivos energéticos leñosos, a excepción de las trozas de aserrío y las trozas para chapa.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>OTRAS MATERIAS LIGNOCELULÓSICAS DE SILVICULTURA Y AGRÍCOLAS</td>
+<td>Materias procedentes de la agricultura y la silvicultura compuestas de lignina, celulosa y hemicelulosa, como la biomasa procedente de los bosques y los cultivos energéticos leñosos, a excepción de las trozas de aserrío y las trozas para chapa.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OTRAS MATERIAS LIGNOCELULÓSICAS INDUSTRIALES</td>
-<td class="cuerpo_tabla_izq">Materias procedentes de la industria compuestas de lignina, celulosa y hemicelulosa, como los residuos de las industrias de base forestal.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>OTRAS MATERIAS LIGNOCELULÓSICAS INDUSTRIALES</td>
+<td>Materias procedentes de la industria compuestas de lignina, celulosa y hemicelulosa, como los residuos de las industrias de base forestal.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LÍAS DE VINO</td>
-<td class="cuerpo_tabla_izq">Residuo depositado en los recipientes que contienen mosto de uva o vino durante su almacenamiento o después de un tratamiento, incluida la filtración y el centrifugado (wine lees), conforme parte A, letra k), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>LÍAS DE VINO</td>
+<td>Residuo depositado en los recipientes que contienen mosto de uva o vino durante su almacenamiento o después de un tratamiento, incluida la filtración y el centrifugado (wine lees), conforme parte A, letra k), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LODOS DE DEPURACIÓN</td>
-<td class="cuerpo_tabla_izq">Mezcla de agua y sólidos resultante del proceso de tratamiento de aguas residuales (sewage sludge), conforme parte A, letra f), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>LODOS DE DEPURACIÓN</td>
+<td>Mezcla de agua y sólidos resultante del proceso de tratamiento de aguas residuales (sewage sludge), conforme parte A, letra f), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ORUJOS DE UVA</td>
-<td class="cuerpo_tabla_izq">Residuo resultante del prensado de la uva fresca (grape marcs), conforme parte A, letra k), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>ORUJOS DE UVA</td>
+<td>Residuo resultante del prensado de la uva fresca (grape marcs), conforme parte A, letra k), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAJA AGRÍCOLA</td>
-<td class="cuerpo_tabla_izq">Cañas de trigo, cebada, centeno, triticale y otras gramíneas, una vez secadas y separadas de los granos, generadas por la agricultura (straw), conforme parte A, letra e), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>PAJA AGRÍCOLA</td>
+<td>Cañas de trigo, cebada, centeno, triticale y otras gramíneas, una vez secadas y separadas de los granos, generadas por la agricultura (straw), conforme parte A, letra e), del anexo I del RD 376/2022.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAJA INDUSTRIAL</td>
-<td class="cuerpo_tabla_izq">Cañas de trigo, cebada, centeno, triticale y otras gramíneas, una vez secadas y separadas de los granos, generadas por la industria (straw), conforme parte A, letra e), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>PAJA INDUSTRIAL</td>
+<td>Cañas de trigo, cebada, centeno, triticale y otras gramíneas, una vez secadas y separadas de los granos, generadas por la industria (straw), conforme parte A, letra e), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PASTAS JABONOSAS CONTAMINADAS CON AZUFRE</td>
-<td class="cuerpo_tabla_izq">Aceites ácidos extraídos de las pastas jabonosas, teniendo estas la consideración de residuo y de no ser aptas para su uso en la cadena alimentaria humana o animal por estar contaminadas con azufre a consecuencia del uso de ácido sulfúrico en un proceso industrial (soapstock acid oil contaminated with sulphur), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>PASTAS JABONOSAS CONTAMINADAS CON AZUFRE</td>
+<td>Aceites ácidos extraídos de las pastas jabonosas, teniendo estas la consideración de residuo y de no ser aptas para su uso en la cadena alimentaria humana o animal por estar contaminadas con azufre a consecuencia del uso de ácido sulfúrico en un proceso industrial (soapstock acid oil contaminated with sulphur), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">POME</td>
-<td class="cuerpo_tabla_izq">Efluentes de molinos de aceite de palma (palm oil mill effluent). Aceites extraídos de las aguas residuales y de los lodos generados en los molinos de palma. Incluye también los aceites extraídos de los efluentes del proceso de esterilización de los racimos de palma que se realiza en los molinos. Conforme parte A, letra g), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>POME</td>
+<td>Efluentes de molinos de aceite de palma (palm oil mill effluent). Aceites extraídos de las aguas residuales y de los lodos generados en los molinos de palma. Incluye también los aceites extraídos de los efluentes del proceso de esterilización de los racimos de palma que se realiza en los molinos. Conforme parte A, letra g), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R. MAZORCA AGRÍCOLAS</td>
-<td class="cuerpo_tabla_izq">Residuos de mazorca limpios de grano de maíz generados por la agricultura (corn/ maize cobs), conforme parte A, letra n), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>R. MAZORCA AGRÍCOLAS</td>
+<td>Residuos de mazorca limpios de grano de maíz generados por la agricultura (corn/ maize cobs), conforme parte A, letra n), del anexo I del RD 376/2022.</td>
+<td>SI/NO/ND</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">R. MAZORCA INDUSTRIALES</td>
-<td class="cuerpo_tabla_izq">Residuos de mazorca limpios de grano de maíz generados por la industria (corn/ maize cobs), conforme parte A, letra n), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>R. MAZORCA INDUSTRIALES</td>
+<td>Residuos de mazorca limpios de grano de maíz generados por la industria (corn/ maize cobs), conforme parte A, letra n), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESIDUO ALIMENTICIO DE HOGARES</td>
-<td class="cuerpo_tabla_izq">Residuos alimenticios y de cocina biodegradables procedentes de hogares, oficinas, restaurantes, mayoristas, comedores, servicios de restauración colectiva y establecimientos de consumo al por menor, sujetos a la recogida separada, no aptos para su uso en la cadena alimentaria humana o animal, excluidos los aceites de cocina usados y las grasas animales (food waste, unsuitable for human and/or animal consumption), conforme parte A, letra c), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESIDUO ALIMENTICIO DE HOGARES</td>
+<td>Residuos alimenticios y de cocina biodegradables procedentes de hogares, oficinas, restaurantes, mayoristas, comedores, servicios de restauración colectiva y establecimientos de consumo al por menor, sujetos a la recogida separada, no aptos para su uso en la cadena alimentaria humana o animal, excluidos los aceites de cocina usados y las grasas animales (food waste, unsuitable for human and/or animal consumption), conforme parte A, letra c), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESIDUO ALIMENTICIO INDUSTRIAL</td>
-<td class="cuerpo_tabla_izq">Residuos alimenticios y de cocina biodegradables procedentes de industrias, no aptos para su uso en la cadena alimentaria humana o animal, excluidos los aceites de cocina usados y las grasas animales (food waste, unsuitable for human and/or animal consumption), conforme parte A, letra d), del anexo I del RD 376/2022, incluido el licor de prensado procedente de residuos de la elaboración de zumos cítricos.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESIDUO ALIMENTICIO INDUSTRIAL</td>
+<td>Residuos alimenticios y de cocina biodegradables procedentes de industrias, no aptos para su uso en la cadena alimentaria humana o animal, excluidos los aceites de cocina usados y las grasas animales (food waste, unsuitable for human and/or animal consumption), conforme parte A, letra d), del anexo I del RD 376/2022, incluido el licor de prensado procedente de residuos de la elaboración de zumos cítricos.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESIDUO DEL PROCESAMIENTO DE ALCOHOL</td>
-<td class="cuerpo_tabla_izq">Residuos industriales procedentes del procesamiento del alcohol, tales como la fermentación o destilación, no aptos para su uso en la cadena alimentaria humana o animal, conforme parte A, letra d) del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESIDUO DEL PROCESAMIENTO DE ALCOHOL</td>
+<td>Residuos industriales procedentes del procesamiento del alcohol, tales como la fermentación o destilación, no aptos para su uso en la cadena alimentaria humana o animal, conforme parte A, letra d) del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESIDUO DE PARQUES Y JARDINES</td>
-<td class="cuerpo_tabla_izq">Residuos biodegradables vegetales procedentes de hogares, jardines, parques y del sector servicios, sujetos a la recogida separada, no aptos para su uso en la cadena alimentaria humana o animal, conforme parte A, letra c), del anexo I del RD 376/2022, siempre que sean tratados por digestión anaerobia para la producción de biogás para su uso en el transporte y de digerido para su reciclaje en el suelo.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESIDUO DE PARQUES Y JARDINES</td>
+<td>Residuos biodegradables vegetales procedentes de hogares, jardines, parques y del sector servicios, sujetos a la recogida separada, no aptos para su uso en la cadena alimentaria humana o animal, conforme parte A, letra c), del anexo I del RD 376/2022, siempre que sean tratados por digestión anaerobia para la producción de biogás para su uso en el transporte y de digerido para su reciclaje en el suelo.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESIDUOS MUNICIPALES</td>
-<td class="cuerpo_tabla_izq">Fracción de biomasa de residuos municipales mezclados, excluida la biomasa que pueda contener los residuos municipales objeto de recogida separada (organic municipal solid waste, MSW), conforme parte A, letra b), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESIDUOS MUNICIPALES</td>
+<td>Fracción de biomasa de residuos municipales mezclados, excluida la biomasa que pueda contener los residuos municipales objeto de recogida separada (organic municipal solid waste, MSW), conforme parte A, letra b), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESTOS FORESTALES DE SILVICULTURA</td>
-<td class="cuerpo_tabla_izq">Fracción de biomasa de residuos de la silvicultura, es decir cortezas, ramas, aclareos precomerciales, hojas, agujas, copas de árboles, serrín y virutas (forestry residues), conforme parte A, letra o), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">SI/NO/ND.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESTOS FORESTALES DE SILVICULTURA</td>
+<td>Fracción de biomasa de residuos de la silvicultura, es decir cortezas, ramas, aclareos precomerciales, hojas, agujas, copas de árboles, serrín y virutas (forestry residues), conforme parte A, letra o), del anexo I del RD 376/2022.</td>
+<td>SI/NO/ND.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RESTOS FORESTALES INDUSTRIALES</td>
-<td class="cuerpo_tabla_izq">Fracción de biomasa de residuos de las industrias forestales, es decir cortezas, ramas, aclareos precomerciales, hojas, agujas, copas de árboles, serrín, virutas, lejía negra, lejía marrón, lodos de fibra, lignina y aceite de resina (forestry processing residues), conforme parte A, letra o), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>RESTOS FORESTALES INDUSTRIALES</td>
+<td>Fracción de biomasa de residuos de las industrias forestales, es decir cortezas, ramas, aclareos precomerciales, hojas, agujas, copas de árboles, serrín, virutas, lejía negra, lejía marrón, lodos de fibra, lignina y aceite de resina (forestry processing residues), conforme parte A, letra o), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">S.B.E.</td>
-<td class="cuerpo_tabla_izq">Aceites provenientes de las tierras de blanqueo o filtrado gastadas de un proceso industrial, teniendo estas la consideración de residuo y de no ser aptas para su uso en la cadena alimentaria humana o animal (spent bleaching earth), conforme parte A, letra d), del anexo I del RD 376/2022, incluyendo el destilado de ácido graso de S.B.E.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>S.B.E.</td>
+<td>Aceites provenientes de las tierras de blanqueo o filtrado gastadas de un proceso industrial, teniendo estas la consideración de residuo y de no ser aptas para su uso en la cadena alimentaria humana o animal (spent bleaching earth), conforme parte A, letra d), del anexo I del RD 376/2022, incluyendo el destilado de ácido graso de S.B.E.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">S.B.R.</td>
-<td class="cuerpo_tabla_izq">Residuos del procesamiento industrial de la remolacha azucarera (sugar beet residues), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">SI</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTA</td>
+<td>S.B.R.</td>
+<td>Residuos del procesamiento industrial de la remolacha azucarera (sugar beet residues), conforme parte A, letra d), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</td>
+<td>2</td>
+<td>SI</td>
+<td>NO</td>
+<td>CTA</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="8">
-<p class="cita">(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
-<p class="cita">(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
-<p class="cita">(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
+<p>(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_girada" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Tabla 4. Materias primas de doble cómputo, conforme a parte B del anexo I del Real Decreto 376/ 2022, de 17 de mayo</em>
 </p>
 </caption>
-<colgroup>
-<col width="11%">
-<col width="25%">
-<col width="7%">
-<col width="25%">
-<col width="7%">
-<col width="8%">
-<col width="10%">
-<col width="7%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Descripción <sup>(1)</sup></th>
-<th class="cabeza_tabla">Uso del suelo</th>
-<th class="cabeza_tabla">GEI</th>
-<th class="cabeza_tabla">Factor</th>
-<th class="cabeza_tabla">Avanzado <sup>(2)</sup></th>
-<th class="cabeza_tabla">Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
-<th class="cabeza_tabla">Tipo de certificado</th>
+<th>Denominación</th>
+<th>Descripción <sup>(1)</sup></th>
+<th>Uso del suelo</th>
+<th>GEI</th>
+<th>Factor</th>
+<th>Avanzado <sup>(2)</sup></th>
+<th>Cultivos alimentarios y forrajeros <sup>(3)</sup></th>
+<th>Tipo de certificado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">GRASA ANIMAL CAT.1</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Grasas animales de categoría 1 conforme al Reglamento (CE)1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 (animal fat/ tallow - category 1 -).</p>
-<p class="cuerpo_tabla_izq">Conforme parte B, letra b), del anexo I del RD 376/2022.</p>
+<td>GRASA ANIMAL CAT.1</td>
+<td>
+<p>Grasas animales de categoría 1 conforme al Reglamento (CE)1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 (animal fat/ tallow - category 1 -).</p>
+<p>Conforme parte B, letra b), del anexo I del RD 376/2022.</p>
 </td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</p>
-<p class="cuerpo_tabla_izq">Se puede usar un valor por defecto o un valor real según nota a pie 1 de la parte A del anexo I del RD 376/2022.</p>
+<td>No aplica.</td>
+<td>
+<p>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</p>
+<p>Se puede usar un valor por defecto o un valor real según nota a pie 1 de la parte A del anexo I del RD 376/2022.</p>
 </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTB</td>
+<td>2</td>
+<td>NO</td>
+<td>NO</td>
+<td>CTB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRASA ANIMAL CAT.2</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Grasas animales de categoría 2 conforme al Reglamento (CE)1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 (animal fat/ tallow - category 2 -).</p>
-<p class="cuerpo_tabla_izq">Conforme parte B, letra b), del anexo I del RD 376/2022.</p>
+<td>GRASA ANIMAL CAT.2</td>
+<td>
+<p>Grasas animales de categoría 2 conforme al Reglamento (CE)1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 (animal fat/ tallow - category 2 -).</p>
+<p>Conforme parte B, letra b), del anexo I del RD 376/2022.</p>
 </td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</p>
-<p class="cuerpo_tabla_izq">Se puede usar un valor por defecto o un valor real según nota a pie 1 de la parte A del anexo I del RD 376/2022.</p>
+<td>No aplica.</td>
+<td>
+<p>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</p>
+<p>Se puede usar un valor por defecto o un valor real según nota a pie 1 de la parte A del anexo I del RD 376/2022.</p>
 </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTB</td>
+<td>2</td>
+<td>NO</td>
+<td>NO</td>
+<td>CTB</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UCO</td>
-<td class="cuerpo_tabla_izq">Aceite de cocina usado (used cooking oil). Conforme parte B, letra a), del anexo I del RD 376/2022.</td>
-<td class="cuerpo_tabla_izq">No aplica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</p>
-<p class="cuerpo_tabla_izq">Se puede utilizar un valor por defecto o un valor real.</p>
+<td>UCO</td>
+<td>Aceite de cocina usado (used cooking oil). Conforme parte B, letra a), del anexo I del RD 376/2022.</td>
+<td>No aplica.</td>
+<td>
+<p>Materiales sin emisiones de GEI en el ciclo vital hasta su recogida.</p>
+<p>Se puede utilizar un valor por defecto o un valor real.</p>
 </td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">NO</td>
-<td class="cuerpo_tabla_centro">CTB</td>
+<td>2</td>
+<td>NO</td>
+<td>NO</td>
+<td>CTB</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="8">
-<p class="cita">(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
-<p class="cita">(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
-<p class="cita">(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(1) Que una materia prima no se catalogue como residuo no excluye la aplicación de la Ley 7/2022, de 8 de abril, en su caso.</p>
+<p>(2) En virtud de lo previsto en el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre.</p>
+<p>(3) En virtud de lo previsto en el artículo 2.3 y 2.3 bis del Real Decreto 1085/2015, de 4 de diciembre.</p>
 </td>
 </tr>
 </tfoot>

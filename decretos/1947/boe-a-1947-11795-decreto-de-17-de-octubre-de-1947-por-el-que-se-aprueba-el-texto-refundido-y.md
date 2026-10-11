@@ -514,498 +514,498 @@ Las que actualmente se hallan señaladas para los destinos de Aduanas sujetos a 
 
 FIANZAS DE LOS EMPLEADOS DE ADUANAS
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Provincia</p>
+<p>Provincia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Destinos</p>
+<p>Destinos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Cantidad en efectivo <br>— <br>Pesetas</p>
+<p>Cantidad en efectivo <br>— <br>Pesetas</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Alicante</p>
+<p>Alicante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la Aduana en Alicante</p>
+<p>Alcaide de la Aduana en Alicante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.000</p>
+<p>7.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la Aduana de Alicante</p>
+<p>Recaudador de la Aduana de Alicante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Almería</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Almería</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Almería</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Badajoz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Badajoz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>3.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Baleares</p>
+<p>Almería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Palma de Mallorca</p>
+<p>Alcaide de la de Almería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Mahón</p>
+<p>Recaudador de la de Almería</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Barcelona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Barcelona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Barcelona</p>
+<p>Badajoz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.500</p>
+<p>Alcaide de la de Badajoz</p>
+</td>
+<td>
+<p>2.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Cáceres</p>
+<p>Baleares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Valencia de Alcántara</p>
+<p>Alcaide de la de Palma de Mallorca</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Valencia de Alcántara</p>
+<p>Alcaide de la de Mahón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>5.000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Barcelona</p>
+</td>
+<td>
+<p>Alcaide de la de Barcelona</p>
+</td>
+<td>
+<p>15.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recaudador de la de Barcelona</p>
+</td>
+<td>
+<p>2.500</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Cáceres</p>
+</td>
+<td>
+<p>Alcaide de la de Valencia de Alcántara</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recaudador de la de Valencia de Alcántara</p>
+</td>
+<td>
+<p>3.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5">
-<p class="cuerpo_tabla_izq">Cádiz</p>
+<p>Cádiz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Cádiz</p>
+<p>Alcaide de la de Cádiz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Cádiz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Guarda-Almacén del Depósito Comercial</p>
+<p>Recaudador de la de Cádiz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Algeciras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>6.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Algeciras</p>
+<p>Guarda-Almacén del Depósito Comercial</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>10.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alcaide de la de Algeciras</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recaudador de la de Algeciras</p>
+</td>
+<td>
+<p>3.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">La Coruña</p>
+<p>La Coruña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de La Coruña</p>
+<p>Alcaide de la de La Coruña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recaudador de la de La Coruña</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>2.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de El Ferrol del Caudillo</p>
+<p>Recaudador de la de La Coruña</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>3.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alcaide de la de El Ferrol del Caudillo</p>
+</td>
+<td>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Gerona</p>
+<p>Gerona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Port-Bou</p>
+<p>Recaudador de la de Port-Bou</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.000</p>
+<p>15.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Port-Bou</p>
+<p>Alcaide de la de Port-Bou</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6">
-<p class="cuerpo_tabla_izq">Guipúzcoa</p>
+<p>Guipúzcoa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de San Sebastián</p>
+<p>Alcaide de la de San Sebastián</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.500</p>
+<p>2.500</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de San Sebastián</p>
+<p>Recaudador de la de San Sebastián</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Irún</p>
+<p>Alcaide de la de Irún</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.000</p>
+<p>10.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Irún</p>
+<p>Recaudador de la de Irún</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25.000</p>
+<p>25.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Auxiliar de la Caja de la de Irún</p>
+<p>Auxiliar de la Caja de la de Irún</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>2.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Pasajes</p>
+<p>Recaudador de la de Pasajes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Huelva</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Huelva</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recaudador de las de Huelva</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Huesca</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Canfranc</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Lugo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Ribadeo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Málaga</p>
+<p>Huelva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Málaga</p>
+<p>Alcaide de la de Huelva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Málaga</p>
+<p>Recaudador de las de Huelva</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.500</p>
+<p>5.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Huesca</p>
+</td>
+<td>
+<p>Alcaide de la de Canfranc</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lugo</p>
+</td>
+<td>
+<p>Alcaide de la de Ribadeo</p>
+</td>
+<td>
+<p>1.000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Málaga</p>
+</td>
+<td>
+<p>Alcaide de la de Málaga</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recaudador de la de Málaga</p>
+</td>
+<td>
+<p>2.500</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Murcia</p>
+<p>Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Cartagena</p>
+<p>Recaudador de la de Cartagena</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Cartagena</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Aguilas</p>
+<p>Alcaide de la de Cartagena</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>5.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alcaide de la de Aguilas</p>
+</td>
+<td>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Oviedo</p>
+<p>Oviedo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Gijón</p>
+<p>Alcaide de la de Gijón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Gijón</p>
+<p>Recaudador de la de Gijón</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.000</p>
+<p>1.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Pontevedra</p>
+<p>Pontevedra</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Vigo</p>
+<p>Recaudador de la de Vigo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.500</p>
+<p>2.500</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Vigo</p>
+<p>Alcaide de la de Vigo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>2.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Villagarcía</p>
+<p>Recaudador de la de Villagarcía</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
+<p>2.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Villagarcía</p>
+<p>Alcaide de la de Villagarcía</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Santander</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Santander</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Santander</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.000</p>
+<p>2.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Sevilla</p>
+<p>Santander</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Sevilla</p>
+<p>Alcaide de la de Santander</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>15.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Sevilla</p>
+<p>Recaudador de la de Santander</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p class="cuerpo_tabla_izq">Tarragona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Tarragona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Tarragona</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.000</p>
+<p>3.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Valencia</p>
+<p>Sevilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Valencia</p>
+<p>Alcaide de la de Sevilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Valencia</p>
+<p>Recaudador de la de Sevilla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.000</p>
+<p>5.000</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Vizcaya</p>
+<p>Tarragona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alcaide de la de Bilbao</p>
+<p>Alcaide de la de Tarragona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15.000</p>
+<p>3.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Recaudador de la de Bilbao</p>
+<p>Recaudador de la de Tarragona</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.500</p>
+<p>5.000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Valencia</p>
+</td>
+<td>
+<p>Alcaide de la de Valencia</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recaudador de la de Valencia</p>
+</td>
+<td>
+<p>7.000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vizcaya</p>
+</td>
+<td>
+<p>Alcaide de la de Bilbao</p>
+</td>
+<td>
+<p>15.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recaudador de la de Bilbao</p>
+</td>
+<td>
+<p>2.500</p>
 </td>
 </tr>
 </table>
@@ -13365,180 +13365,180 @@ El Ministro de Hacienda dictará las disposiciones reglamentarias y adoptará la
 
 (1) La Dirección General de Aduanas, en acuerdo de 22 de junio de 1944, dispone que la tarifa del Impuesto de Transportes que corresponde aplicar al embarque de pasajeros en los puertos de la Península y Baleares con destino a Canarias, o viceversa, es la señalada en la navegación de cabotaje para el tráfico que se realiza entre puertos de la Zona Norte y la de Levante, en la tarifa de pasajeros anexa al texto refundido de la Ley de Transportes.
 
-<table class="tabla">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">CLASE DE NAVEGACIÓN</p>
+<p>CLASE DE NAVEGACIÓN</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">LUJO</p>
+<p>LUJO</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">CLASE DEL PASAJE</p>
+<p>CLASE DEL PASAJE</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Primera</p>
+<p>Primera</p>
 </th>
 <th>
-<p class="cabeza_tabla">Segunda</p>
+<p>Segunda</p>
 </th>
 <th>
-<p class="cabeza_tabla">Tercera</p>
+<p>Tercera</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="centro_cursiva">Cabotaje:</p>
+<p>Cabotaje:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entre los puertos de las Zonas Norte, Sur o Levante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,00</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre las Zonas Norte y Sur y entre ésta y la de Levante, o viceversa</p>
+<p>Entre los puertos de las Zonas Norte, Sur o Levante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">9,00</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7,00</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entre la Zona Norte y Levante, o viceversa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">16,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">14,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">8,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="centro_cursiva">Gran cabotaje:</p>
+<p>Entre las Zonas Norte y Sur y entre ésta y la de Levante, o viceversa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>9,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>7,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Con destino o procedencia del Mediterráneo o costa de África hasta Cabo Blanco</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">20,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">15,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">9,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">5,00</p>
+<p>2,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Con destino o procedencia de los demás puertos europeos</p>
+<p>Entre la Zona Norte y Levante, o viceversa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,00</p>
+<p>16,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">18,00</p>
+<p>14,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,00</p>
+<p>8,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="centro_cursiva">Altura:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>4,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Procedencia o destino a los puertos de esta navegación</p>
+<p>Gran cabotaje:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">55,00</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40,00</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25,00</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10,00</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Con destino o procedencia del Mediterráneo o costa de África hasta Cabo Blanco</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Con destino o procedencia de los demás puertos europeos</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+<td>
+<p>18,00</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Altura:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Procedencia o destino a los puertos de esta navegación</p>
+</td>
+<td>
+<p>55,00</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+<td>
+<p>10,00</p>
 </td>
 </tr>
 </table>
@@ -13547,873 +13547,873 @@ Nota 1.ª—Las clases intermedias, denominadas preferentes, satisfarán el impu
 
 Nota 2.ª—La zona Norte comprende los puertos de las provincias de Guipúzcoa a Pontevedra, ambas inclusive; la zona Sur, los de Huelva a Almería, y la de Levante, los de Murcia a Gerona.
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">PARTIDA</p>
+<p>PARTIDA</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">CABOTAJE</p>
+<p>CABOTAJE</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">GRAN CABOTAJE</p>
+<p>GRAN CABOTAJE</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">ALTURA</p>
+<p>ALTURA</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Desembarque</p>
+<p>Desembarque</p>
 </th>
 <th>
-<p class="cabeza_tabla">Embarque</p>
+<p>Embarque</p>
 </th>
 <th>
-<p class="cabeza_tabla">Desembarque</p>
+<p>Desembarque</p>
 </th>
 <th>
-<p class="cabeza_tabla">Embarque</p>
+<p>Embarque</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Materiales térreos de construcción</p>
+<p>1. Materiales térreos de construcción</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2. Carbones minerales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3. Carbones vegetales y leñas</p>
+<p>2. Carbones minerales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,60</p>
+<p>0,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4. Petróleos brutos, benzol y gasolina</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,50</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">5. Fosfatos naturales, cal</p>
+<p>3. Carbones vegetales y leñas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>0,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">6. Minerales, escorias y piritas de hierro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,75</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,90</p>
+<p>1,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">7. Minerales de manganeso</p>
+<p>4. Petróleos brutos, benzol y gasolina</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>7,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">8. Piritas ferrocobrizas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>10,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">9. Minerales de cobre</p>
+<p>5. Fosfatos naturales, cal</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">10. Minerales de plomo y antimonio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">11. Cobre en torales y barras</p>
+<p>6. Minerales, escorias y piritas de hierro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,00</p>
+<p>0,75</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">12.	Cáscara cobriza</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,00</p>
+<p>1,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">13.	Plomo en galápagos y mata cobriza</p>
+<p>7. Minerales de manganeso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">14.	Las demas menas metálicas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">15.	Hierro y acero en materiales inutilizados</p>
+<p>8. Piritas ferrocobrizas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
+<p>2,25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">16.	Lingotes de hierro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,90</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">17.	Barras-carriles de hierro o acero</p>
+<p>9. Minerales de cobre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,90</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">18.	Sal común</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,50</p>
+<p>7,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">19.	Abonos minerales y orgánicos</p>
+<p>10. Minerales de plomo y antimonio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>7,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">20.	Manufacturas y desperdicios de corcho</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,90</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>9,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">21.	Vinos y bebidas alcohólicas de producción nacional</p>
+<p>11. Cobre en torales y barras</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">Libre</p>
+<p>10,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">Libre</p>
+<p>75,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">Libre</p>
+<p>75,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">Libre</p>
+<p>75,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">Libre</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">22.	Aceites de oliva con marca nacional en envases de vidrio u hojalata</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Libre</p>
+<p>75,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">23.	Vinos y aceites de oliva no comprendidos en las dos partidas anteriores</p>
+<p>12.	Cáscara cobriza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,00</p>
+<p>5,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,00</p>
+<p>75,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>45,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14,00</p>
+<p>75,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">24.	Frutas frescas o secas y hortalizas y legumbres frescas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>45,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">25.	Cereales</p>
+<p>13.	Plomo en galápagos y mata cobriza</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>9,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
+<p>15,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>9,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">26.	Arroz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,50</p>
+<p>18,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">27.	Madera en rollos y pasta de madera para fabricar papel</p>
+<p>14.	Las demas menas metálicas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>7,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,25</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,75</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">28.	Forrajes y semillas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>9,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">29.	Garbanzos y legumbres secas</p>
+<p>15.	Hierro y acero en materiales inutilizados</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>7,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">18,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">30.	Coloniales (azúcar, café, cacao, canela y té)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18,00</p>
+<p>12,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">31.	Conservas de todas clases</p>
+<p>16.	Lingotes de hierro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,00</p>
+<p>9,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>9,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">32.	Ganados y animales vivos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">15,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>1,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">33.	Buques conducidos a remolque, los inutilizados y restos de buques náufragos</p>
+<p>17.	Barras-carriles de hierro o acero</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>8,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
+<p>60,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
+<p>1,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
+<p>75,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">34.	Maquinaria agrícola</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>1,90</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">35.	Automóviles completos o desarmados y chasis con motor</p>
+<p>18.	Sal común</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,00</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,25</p>
+<p>0,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,00</p>
+<p>6,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">36.	Envases vacíos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Libre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Libre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Libre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Libre</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">Libre</p>
+<p>0,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">37.	Metálico</p>
+<p>19.	Abonos minerales y orgánicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150,00</p>
+<p>4,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">300,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Las demás mercancías no expresadas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_der"> </p>
+<p>4,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">38.	Primeras materias</p>
+<p>20.	Manufacturas y desperdicios de corcho</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,50</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>15,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6,00</p>
+<p>1,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4,50</p>
+<p>18,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">39.	Substancias alimenticias</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">20,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,00</p>
+<p>2,25</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">40.	Artículos fabricados</p>
+<p>21.	Vinos y bebidas alcohólicas de producción nacional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,00</p>
+<p>Libre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">60,00</p>
+<p>Libre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,25</p>
+<p>Libre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,00</p>
+<p>Libre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>Libre</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">41.	Papel continuo para periódicos y revistas</p>
+<p>22.	Aceites de oliva con marca nacional en envases de vidrio u hojalata</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,00</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>12,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,25</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,00</p>
+<p>14,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,00</p>
+<p>Libre</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23.	Vinos y aceites de oliva no comprendidos en las dos partidas anteriores</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+<td>
+<p>14,00</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24.	Frutas frescas o secas y hortalizas y legumbres frescas</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+<td>
+<p>14,00</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25.	Cereales</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.	Arroz</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+<td>
+<p>2,50</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+<td>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>27.	Madera en rollos y pasta de madera para fabricar papel</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+<td>
+<p>2,25</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+<td>
+<p>2,25</p>
+</td>
+<td>
+<p>3,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28.	Forrajes y semillas</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>29.	Garbanzos y legumbres secas</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>4,50</p>
+</td>
+<td>
+<p>18,00</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30.	Coloniales (azúcar, café, cacao, canela y té)</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+<td>
+<p>75,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>75,00</p>
+</td>
+<td>
+<p>18,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>31.	Conservas de todas clases</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>32.	Ganados y animales vivos</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+<td>
+<p>21,00</p>
+</td>
+<td>
+<p>30,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>33.	Buques conducidos a remolque, los inutilizados y restos de buques náufragos</p>
+</td>
+<td>
+<p>2,00</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34.	Maquinaria agrícola</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+<td>
+<p>9,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>35.	Automóviles completos o desarmados y chasis con motor</p>
+</td>
+<td>
+<p>8,00</p>
+</td>
+<td>
+<p>150,00</p>
+</td>
+<td>
+<p>11,25</p>
+</td>
+<td>
+<p>150,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36.	Envases vacíos</p>
+</td>
+<td>
+<p>Libre</p>
+</td>
+<td>
+<p>Libre</p>
+</td>
+<td>
+<p>Libre</p>
+</td>
+<td>
+<p>Libre</p>
+</td>
+<td>
+<p>Libre</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>37.	Metálico</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+<td>
+<p>150,00</p>
+</td>
+<td>
+<p>300,00</p>
+</td>
+<td>
+<p>150,00</p>
+</td>
+<td>
+<p>300,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Las demás mercancías no expresadas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>38.	Primeras materias</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+<td>
+<p>4,50</p>
+</td>
+<td>
+<p>6,00</p>
+</td>
+<td>
+<p>4,50</p>
+</td>
+<td>
+<p>7,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>39.	Substancias alimenticias</p>
+</td>
+<td>
+<p>8,00</p>
+</td>
+<td>
+<p>20,00</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+<td>
+<p>25,00</p>
+</td>
+<td>
+<p>12,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40.	Artículos fabricados</p>
+</td>
+<td>
+<p>10,00</p>
+</td>
+<td>
+<p>60,00</p>
+</td>
+<td>
+<p>11,25</p>
+</td>
+<td>
+<p>75,00</p>
+</td>
+<td>
+<p>15,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>41.	Papel continuo para periódicos y revistas</p>
+</td>
+<td>
+<p>8,00</p>
+</td>
+<td>
+<p>30,00</p>
+</td>
+<td>
+<p>11,25</p>
+</td>
+<td>
+<p>36,00</p>
+</td>
+<td>
+<p>15,00</p>
 </td>
 </tr>
 </table>

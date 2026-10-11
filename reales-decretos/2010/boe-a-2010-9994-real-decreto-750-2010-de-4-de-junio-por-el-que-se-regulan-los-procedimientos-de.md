@@ -1633,321 +1633,321 @@ Según lo establecido en la parte V del apéndice 2.
 
 **PARTE I**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (6) (*) (H)</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (6) (*) (H)</th>
 <th rowspan="2">
-<p class="cabeza_tabla">Serie Corta</p>
-<p class="cabeza_tabla">Nacional</p>
+<p>Serie Corta</p>
+<p>Nacional</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Aplicaciones particulares</p>
-<p class="cabeza_tabla">Según Art. 5</p>
+<p>Aplicaciones particulares</p>
+<p>Según Art. 5</p>
 </th>
-<th class="cabeza_tabla" colspan="2">Homologaciones Individuales</th>
+<th colspan="2">Homologaciones Individuales</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Completos</th>
-<th class="cabeza_tabla">Completados</th>
+<th>Completos</th>
+<th>Completados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">Ensayos relativos al medio ambiente</td>
-<td class="cuerpo_tabla_centro">A (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">A (5)</td>
+<td>A1</td>
+<td>Ensayos relativos al medio ambiente</td>
+<td>A (5)</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>A (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima,</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td rowspan="2">A2</td>
+<td>Velocidad máxima,</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia y Par máximos</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A (5)</td>
+<td>Potencia y Par máximos</td>
+<td>A</td>
+<td>C (5)</td>
+<td>C (5)</td>
+<td>A (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A3</td>
+<td>Nivel sonoro</td>
+<td>A</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">Avisadores Acústicos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B1</td>
+<td>Avisadores Acústicos</td>
+<td>X (2) A (4)</td>
+<td>B (4) (7)</td>
+<td>B (4) (7)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">Frenado</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B2</td>
+<td>Frenado</td>
+<td>A</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B3</td>
-<td class="cuerpo_tabla_izq">Seguridad eléctrica</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B3</td>
+<td>Seguridad eléctrica</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B4</td>
-<td class="cuerpo_tabla_izq">Declaración ensayos de durabilidad de los sistemas de seguridad, piezas y equipos</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
+<td>B4</td>
+<td>Declaración ensayos de durabilidad de los sistemas de seguridad, piezas y equipos</td>
+<td>A</td>
+<td>C (5)</td>
+<td>B (5)</td>
+<td>C (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B5</td>
-<td class="cuerpo_tabla_izq">Estructuras de protección delanteras y traseras</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
+<td>B5</td>
+<td>Estructuras de protección delanteras y traseras</td>
+<td>A</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>B (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B6</td>
-<td class="cuerpo_tabla_izq">Cristales, limpiaparabrisas, lavaparabrisas, dispositivos antihelio y anti vaho</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B6</td>
+<td>Cristales, limpiaparabrisas, lavaparabrisas, dispositivos antihelio y anti vaho</td>
+<td>X (2) A (4)</td>
+<td>B (4) (7)</td>
+<td>B (4) (7)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B7</td>
-<td class="cuerpo_tabla_izq">Identificación de mandos</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B7</td>
+<td>Identificación de mandos</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B8</td>
-<td class="cuerpo_tabla_izq">Instalación dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B8</td>
+<td>Instalación dispositivos de alumbrado</td>
+<td>X (2) A (4)</td>
+<td>B (4) (7)</td>
+<td>B (4) (7)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B9</td>
-<td class="cuerpo_tabla_izq">Visibilidad trasera</td>
-<td class="cuerpo_tabla_centro">A (4) (7)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">A (4) (7)</td>
+<td>B9</td>
+<td>Visibilidad trasera</td>
+<td>A (4) (7)</td>
+<td>B (4) (7)</td>
+<td>B (4) (7)</td>
+<td>A (4) (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B10</td>
-<td class="cuerpo_tabla_izq">Estructura de protección en caso de vuelco</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
+<td>B10</td>
+<td>Estructura de protección en caso de vuelco</td>
+<td>A</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>B (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B11</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad y sus anclajes</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B11</td>
+<td>Cinturones de seguridad y sus anclajes</td>
+<td>X (2) A (4)</td>
+<td>B (4)</td>
+<td>B (4) (7)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B12</td>
-<td class="cuerpo_tabla_izq">Plazas de asiento (sillines)</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>B12</td>
+<td>Plazas de asiento (sillines)</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B13</td>
-<td class="cuerpo_tabla_izq">Maniobrabilidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>B13</td>
+<td>Maniobrabilidad</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B14</td>
-<td class="cuerpo_tabla_izq">Instalación de neumáticos</td>
-<td class="cuerpo_tabla_centro">A (4) (7)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">A (4) (7)</td>
+<td>B14</td>
+<td>Instalación de neumáticos</td>
+<td>A (4) (7)</td>
+<td>B (4)</td>
+<td>B (4) (7)</td>
+<td>A (4) (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B15</td>
-<td class="cuerpo_tabla_izq">Placa relativa a la limitación de la velocidad máxima</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>B15</td>
+<td>Placa relativa a la limitación de la velocidad máxima</td>
+<td>A</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B16</td>
-<td class="cuerpo_tabla_izq">Protección de los ocupantes del vehículo, incluido el acondicionamiento interior, los reposacabezas y las puertas del vehículo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>B16</td>
+<td>Protección de los ocupantes del vehículo, incluido el acondicionamiento interior, los reposacabezas y las puertas del vehículo</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B17</td>
-<td class="cuerpo_tabla_izq">Potencia nominal o neta continua máxima y/o limitación de la velocidad del vehículo por construcción</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>B17</td>
+<td>Potencia nominal o neta continua máxima y/o limitación de la velocidad del vehículo por construcción</td>
+<td>C</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B18</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>B18</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">Medidas contra la manipulación</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C1</td>
+<td>Medidas contra la manipulación</td>
+<td>C</td>
+<td>C (5)</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C4</td>
-<td class="cuerpo_tabla_izq">Dispositivos de acoplamiento y de fijación</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (2)</td>
-<td class="cuerpo_tabla_centro">B (4) (2)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>C4</td>
+<td>Dispositivos de acoplamiento y de fijación</td>
+<td>X (2) A (4)</td>
+<td>B (4) (2)</td>
+<td>B (4) (2)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C5</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">A (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">A (5)</td>
+<td>C5</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>A (5)</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>A (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C6</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética (CEM)</td>
-<td class="cuerpo_tabla_centro">A (3)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A (3)</td>
+<td>C6</td>
+<td>Compatibilidad electromagnética (CEM)</td>
+<td>A (3)</td>
+<td>B</td>
+<td>B</td>
+<td>A (3)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C7</td>
-<td class="cuerpo_tabla_izq">Salientes exteriores</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C7</td>
+<td>Salientes exteriores</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C8</td>
-<td class="cuerpo_tabla_izq">Almacenamiento de combustible</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B (4) (7)</td>
+<td>C8</td>
+<td>Almacenamiento de combustible</td>
+<td>B (4) (7)</td>
+<td>B</td>
+<td>B</td>
+<td>B (4) (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C9</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>C9</td>
+<td>Plataformas de carga</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C10</td>
-<td class="cuerpo_tabla_izq">Masas y Dimensiones</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C10</td>
+<td>Masas y Dimensiones</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C11</td>
-<td class="cuerpo_tabla_izq">Sistemas de diagnóstico a bordo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">N.A.</td>
-<td class="cuerpo_tabla_centro">N.A.</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>C11</td>
+<td>Sistemas de diagnóstico a bordo</td>
+<td>A</td>
+<td>N.A.</td>
+<td>N.A.</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C12</td>
-<td class="cuerpo_tabla_izq">Dispositivos de retención para pasajeros y apoyapiés</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">N.A.</td>
+<td>C12</td>
+<td>Dispositivos de retención para pasajeros y apoyapiés</td>
+<td>A</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>N.A.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C13</td>
-<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">B (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C13</td>
+<td>Emplazamiento de la placa de matrícula</td>
+<td>A</td>
+<td>B (5)</td>
+<td>B (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C14</td>
-<td class="cuerpo_tabla_izq">Información relativa a la reparación y el mantenimiento</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">N.A.</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>C14</td>
+<td>Información relativa a la reparación y el mantenimiento</td>
+<td>C</td>
+<td>C</td>
+<td>N.A.</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C15</td>
-<td class="cuerpo_tabla_izq">Caballete de apoyo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C15</td>
+<td>Caballete de apoyo</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_izq">Inscripciones Reglamentarias</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>-</td>
+<td>Inscripciones Reglamentarias</td>
+<td>A</td>
+<td>C (5)</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>-</td>
+<td>Indicador de velocidad</td>
+<td>A</td>
+<td>B</td>
+<td>B</td>
+<td>A</td>
 </tr>
 </tbody>
 </table>
@@ -2592,318 +2592,318 @@ B. Categoría N2 y N3 incompleto/completo/completado
 
 En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Ficha Reducida Vehículos de categoría N2 y N3</th>
+<th colspan="2">Ficha Reducida Vehículos de categoría N2 y N3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+<td colspan="2">Marca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo / variante / versión</td>
+<td colspan="2">Tipo / variante / versión</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de</p>
-<p class="cuerpo_tabla_izq">Características)</p>
+<p>En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de</p>
+<p>Características)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial</td>
+<td colspan="2">Denominación comercial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Categoría del vehículo</td>
+<td colspan="2">Categoría del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante del vehículo de base:</td>
+<td colspan="2">Nombre y dirección del fabricante del vehículo de base:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
+<td colspan="2">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante</td>
+<td colspan="2">Emplazamiento de la placa del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Parte fija VIN</td>
+<td colspan="2">Parte fija VIN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del vehículo</td>
+<td colspan="2">Emplazamiento del número de identificación del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículo de base:</td>
+<td colspan="2">Vehículo de base:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de homologación (incluyendo la extensión correspondiente):</td>
+<td colspan="2">Número de homologación (incluyendo la extensión correspondiente):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha:</td>
+<td colspan="2">Fecha:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículo completo/completado</td>
+<td colspan="2">Vehículo completo/completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de homologación (incluyendo la extensión correspondiente)</td>
+<td colspan="2">Número de homologación (incluyendo la extensión correspondiente)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha</td>
+<td colspan="2">Fecha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+<td colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">N.º de ejes y ruedas</td>
+<td colspan="2">N.º de ejes y ruedas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y emplazamiento de ejes con ruedas gemelas</td>
+<td colspan="2">Número y emplazamiento de ejes con ruedas gemelas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Descripción de los ejes. Tipo y capacidad</td>
+<td colspan="2">Descripción de los ejes. Tipo y capacidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y localización de los ejes de dirección:</td>
+<td colspan="2">Número y localización de los ejes de dirección:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ejes motrices (n.º, localización e interconexión):</td>
+<td colspan="2">Ejes motrices (n.º, localización e interconexión):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MASAS Y DIMENSIONES</td>
+<td>MASAS Y DIMENSIONES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia entre ejes consecutivos 1.º, 2.º, 3.º,...</td>
+<td>Distancia entre ejes consecutivos 1.º, 2.º, 3.º,...</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Avance 5.ª rueda (máximo y mínimo en caso de 5.ª rueda ajustable)</td>
+<td>Avance 5.ª rueda (máximo y mínimo en caso de 5.ª rueda ajustable)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vía de cada eje 1.º / 2.º / 3.º /…</td>
+<td>Vía de cada eje 1.º / 2.º / 3.º /…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud</td>
+<td>Longitud</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud máxima admisible del vehículo completado</td>
+<td>Longitud máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anchura</td>
+<td>Anchura</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anchura máxima admisible del vehículo completado</td>
+<td>Anchura máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura (en orden de marcha)</td>
+<td>Altura (en orden de marcha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Voladizo trasero</td>
+<td>Voladizo trasero</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Voladizo trasero máximo autorizado para el vehículo completado</td>
+<td>Voladizo trasero máximo autorizado para el vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa del bastidor desnudo (sin cabina, líquido de refrigeración, lubricantes, combustible, rueda de repuesto ni conductor)</td>
+<td>Masa del bastidor desnudo (sin cabina, líquido de refrigeración, lubricantes, combustible, rueda de repuesto ni conductor)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa del vehículo en orden de marcha</td>
+<td>Masa del vehículo en orden de marcha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa mínima admisible del vehículo completado</td>
+<td>Masa mínima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible (MMTA)</td>
+<td>Masa máxima en carga técnicamente admisible (MMTA)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distribución de esta masa entre los ejes 1.º/2.º/3.º/punto de enganche si hay remolque…</td>
+<td>Distribución de esta masa entre los ejes 1.º/2.º/3.º/punto de enganche si hay remolque…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible en cada eje 1.º/2.º/3.º/…</td>
+<td>Masa máxima en carga técnicamente admisible en cada eje 1.º/2.º/3.º/…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima técnicamente admisible del conjunto (MMTC):</td>
+<td>Masa máxima técnicamente admisible del conjunto (MMTC):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
+<td>Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación en cada eje 1.º/2.º/3.º/</td>
+<td>Masa máxima en carga admisible prevista para matriculación/circulación en cada eje 1.º/2.º/3.º/</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC)</td>
+<td colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de:</td>
+<td colspan="2">Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Remolque con barra de tracción:</td>
+<td colspan="2">Remolque con barra de tracción:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Semirremolque:</td>
+<td colspan="2">Semirremolque:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Remolque de eje central:</td>
+<td colspan="2">Remolque de eje central:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima del remolque sin frenos:</td>
+<td colspan="2">Masa máxima del remolque sin frenos:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor</td>
+<td colspan="2">Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">UNIDAD MOTRIZ</td>
+<td colspan="2">UNIDAD MOTRIZ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fabricante o Marca del motor</td>
+<td colspan="2">Fabricante o Marca del motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Código asignado por el fabricante del motor (en caso de vehículos pesados, si procede incluir marcado, identificación de combustible)</td>
+<td colspan="2">Código asignado por el fabricante del motor (en caso de vehículos pesados, si procede incluir marcado, identificación de combustible)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Motor de Combustión Interna</td>
+<td colspan="2">Motor de Combustión Interna</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Principio de funcionamiento</td>
+<td colspan="2">Principio de funcionamiento</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y disposición de los cilindros</td>
+<td colspan="2">Número y disposición de los cilindros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cilindrada</td>
+<td colspan="2">Cilindrada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo de combustible o fuente de energía</td>
+<td colspan="2">Tipo de combustible o fuente de energía</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potencia neta máxima (kW) a (min-1)</td>
+<td colspan="2">Potencia neta máxima (kW) a (min-1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Motor Eléctrico puro (si/no)</td>
+<td colspan="2">Motor Eléctrico puro (si/no)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potencia máxima por hora (kW)</td>
+<td colspan="2">Potencia máxima por hora (kW)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Motor Híbrido (si/no)</td>
+<td colspan="2">Motor Híbrido (si/no)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo</td>
+<td colspan="2">Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">TRANSMISIÓN</td>
+<td colspan="2">TRANSMISIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo (Mecánica/Hidráulica/eléctrica/etc.)</td>
+<td colspan="2">Tipo (Mecánica/Hidráulica/eléctrica/etc.)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Caja de cambios (tipo)</td>
+<td colspan="2">Caja de cambios (tipo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">N.º de relaciones</td>
+<td colspan="2">N.º de relaciones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">SUSPENSIÓN</td>
+<td colspan="2">SUSPENSIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Breve descripción del tipo de suspensión delantera y trasera</td>
+<td colspan="2">Breve descripción del tipo de suspensión delantera y trasera</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Neumáticos y ruedas (características principales)</td>
+<td colspan="2">Neumáticos y ruedas (características principales)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">DIRECCIÓN</td>
+<td colspan="2">DIRECCIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dirección, método de asistencia.</td>
+<td colspan="2">Dirección, método de asistencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">FRENADO</td>
+<td colspan="2">FRENADO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Breve descripción del dispositivo de frenado</td>
+<td colspan="2">Breve descripción del dispositivo de frenado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">ABS: Sí/No</td>
+<td colspan="2">ABS: Sí/No</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Presión en el conducto de alimentación del dispositivo de frenado del remolque: …bar</td>
+<td colspan="2">Presión en el conducto de alimentación del dispositivo de frenado del remolque: …bar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca de homologación CE del dispositivo de acoplamiento, en su caso</td>
+<td colspan="2">Marca de homologación CE del dispositivo de acoplamiento, en su caso</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipos o clases de dispositivos de acoplamiento que pueden instalarse</td>
+<td colspan="2">Tipos o clases de dispositivos de acoplamiento que pueden instalarse</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Valores característicos: D / V / S / U</td>
+<td colspan="2">Valores característicos: D / V / S / U</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">CARROCERÍA</td>
+<td colspan="2">CARROCERÍA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
+<td colspan="2">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Retrovisores. Tipo</td>
+<td colspan="2">Retrovisores. Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivos de visión indirecta distintos de los retrovisores</td>
+<td colspan="2">Dispositivos de visión indirecta distintos de los retrovisores</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Sistemas de Protección Delantera: Si/No. Detalles pormenorizados de los dispositivos</td>
+<td colspan="2">Sistemas de Protección Delantera: Si/No. Detalles pormenorizados de los dispositivos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y disposición de las puertas</td>
+<td colspan="2">Número y disposición de las puertas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de plazas de asiento (incluido el conductor)</td>
+<td colspan="2">Número de plazas de asiento (incluido el conductor)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+<td colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivos obligatorios (Número)</td>
+<td colspan="2">Dispositivos obligatorios (Número)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivos facultativos (Número)</td>
+<td colspan="2">Dispositivos facultativos (Número)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">VARIOS</td>
+<td colspan="2">VARIOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Velocidad máxima</td>
+<td colspan="2">Velocidad máxima</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nivel de ruido parado: dB(A) a min<sup>-1</sup></td>
+<td colspan="2">Nivel de ruido parado: dB(A) a min<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nivel de emisiones: Euro…</td>
+<td colspan="2">Nivel de emisiones: Euro…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potencia Fiscal (CVF)</td>
+<td colspan="2">Potencia Fiscal (CVF)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Capacidad depósito/s de combustible (sólo N2 y N3)</td>
+<td colspan="2">Capacidad depósito/s de combustible (sólo N2 y N3)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Capacidad depósito auxiliar/es de combustible (sólo N2 y N3)</td>
+<td colspan="2">Capacidad depósito auxiliar/es de combustible (sólo N2 y N3)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Máxima capacidad del momento de la grúa</td>
+<td colspan="2">Máxima capacidad del momento de la grúa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Protección trasera. N.º de homologación</td>
+<td colspan="2">Protección trasera. N.º de homologación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tacógrafo digital. Si/no</td>
+<td colspan="2">Tacógrafo digital. Si/no</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Observaciones</td>
+<td colspan="2">Observaciones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Opciones incluidas en la homologación de tipo</td>
+<td colspan="2">Opciones incluidas en la homologación de tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Firma autorizada según el RFFR</td>
+<td colspan="2">Firma autorizada según el RFFR</td>
 </tr>
 </tbody>
 </table>
@@ -2914,335 +2914,335 @@ C. Categoría M2 y M3 incompleto/completo/completado
 
 En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ficha Reducida Vehículos de categoría M2 y M3</th>
+<th>Ficha Reducida Vehículos de categoría M2 y M3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Marca</td>
+<td>Marca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo / variante / versión</td>
+<td>Tipo / variante / versión</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de Características)</p>
+<p>En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de Características)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Denominación comercial</td>
+<td>Denominación comercial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Categoría del vehículo</td>
+<td>Categoría del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nombre y dirección del fabricante del vehículo de base:</td>
+<td>Nombre y dirección del fabricante del vehículo de base:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
+<td>Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emplazamiento de la placa del fabricante</td>
+<td>Emplazamiento de la placa del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Parte fija VIN</td>
+<td>Parte fija VIN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Emplazamiento del número de identificación del vehículo</td>
+<td>Emplazamiento del número de identificación del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de base:</td>
+<td>Vehículo de base:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de homologación (incluyendo la extensión correspondiente)</td>
+<td>Número de homologación (incluyendo la extensión correspondiente)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha:</td>
+<td>Fecha:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo completo/completado</td>
+<td>Vehículo completo/completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de homologación (incluyendo la extensión correspondiente)</td>
+<td>Número de homologación (incluyendo la extensión correspondiente)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fecha</td>
+<td>Fecha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+<td>CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de ejes y ruedas</td>
+<td>N.º de ejes y ruedas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número y emplazamiento de ejes con ruedas gemelas</td>
+<td>Número y emplazamiento de ejes con ruedas gemelas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Descripción de los ejes. Tipo y capacidad</td>
+<td>Descripción de los ejes. Tipo y capacidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número y localización de los ejes de dirección:</td>
+<td>Número y localización de los ejes de dirección:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ejes motrices (n.º, localización e interconexión):</td>
+<td>Ejes motrices (n.º, localización e interconexión):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">MASAS Y DIMENSIONES</td>
+<td colspan="2">MASAS Y DIMENSIONES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Distancia entre ejes consecutivos 1.º, 2.º, 3.º...</td>
+<td colspan="2">Distancia entre ejes consecutivos 1.º, 2.º, 3.º...</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Avance 5.ª rueda (máximo y mínimo en caso de 5.ª rueda ajustable)</td>
+<td colspan="2">Avance 5.ª rueda (máximo y mínimo en caso de 5.ª rueda ajustable)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vía de cada eje 1.º / 2.º / 3.º /…</td>
+<td colspan="2">Vía de cada eje 1.º / 2.º / 3.º /…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Longitud</td>
+<td colspan="2">Longitud</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Longitud máxima admisible del vehículo completado</td>
+<td colspan="2">Longitud máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Anchura</td>
+<td colspan="2">Anchura</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Anchura máxima admisible del vehículo completado</td>
+<td colspan="2">Anchura máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura (en orden de marcha)</td>
+<td colspan="2">Altura (en orden de marcha)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura máxima admisible del vehículo completado</td>
+<td colspan="2">Altura máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Voladizo trasero</td>
+<td colspan="2">Voladizo trasero</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Voladizo trasero máximo autorizado para el vehículo completado</td>
+<td colspan="2">Voladizo trasero máximo autorizado para el vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa del bastidor desnudo (sin cabina, líquido de refrigeración, lubricantes, combustible, rueda de repuesto ni conductor)</td>
+<td colspan="2">Masa del bastidor desnudo (sin cabina, líquido de refrigeración, lubricantes, combustible, rueda de repuesto ni conductor)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa del vehículo en orden de marcha</td>
+<td colspan="2">Masa del vehículo en orden de marcha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa mínima admisible del vehículo completado</td>
+<td colspan="2">Masa mínima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga técnicamente admisible (MMTA)</td>
+<td colspan="2">Masa máxima en carga técnicamente admisible (MMTA)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Distribución de esta masa entre los ejes 1.º/2.º/3.º/punto de enganche si hay remolque…</td>
+<td colspan="2">Distribución de esta masa entre los ejes 1.º/2.º/3.º/punto de enganche si hay remolque…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga técnicamente admisible en cada eje 1.º/2.º/3.º/…</td>
+<td colspan="2">Masa máxima en carga técnicamente admisible en cada eje 1.º/2.º/3.º/…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima técnicamente admisible del conjunto (MMTC):</td>
+<td colspan="2">Masa máxima técnicamente admisible del conjunto (MMTC):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
+<td colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación en cada eje 1.º/2.º/3.º/</td>
+<td colspan="2">Masa máxima en carga admisible prevista para matriculación/circulación en cada eje 1.º/2.º/3.º/</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC)</td>
+<td>Masa máxima en carga admisible prevista para matriculación/circulación del conjunto (MMAC)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de:</td>
+<td>Masa máxima remolcable técnicamente admisible del vehículo de motor, en caso de:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remolque con barra de tracción:</td>
+<td>Remolque con barra de tracción:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Semirremolque:</td>
+<td>Semirremolque:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remolque de eje central:</td>
+<td>Remolque de eje central:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima del remolque sin frenos:</td>
+<td>Masa máxima del remolque sin frenos:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor</td>
+<td>Carga vertical estática/masa máxima técnicamente admisible en el punto de acoplamiento del vehículo motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">UNIDAD MOTRIZ</td>
+<td>UNIDAD MOTRIZ</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fabricante o marca del motor</td>
+<td>Fabricante o marca del motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Código asignado por el fabricante del motor (en caso de vehículos pesados, si procede incluir marcado, identificación de combustible)</td>
+<td>Código asignado por el fabricante del motor (en caso de vehículos pesados, si procede incluir marcado, identificación de combustible)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motor de Combustión Interna</td>
+<td>Motor de Combustión Interna</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Principio de funcionamiento</td>
+<td>Principio de funcionamiento</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número y disposición de los cilindros</td>
+<td>Número y disposición de los cilindros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cilindrada</td>
+<td>Cilindrada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo de combustible o fuente de energía</td>
+<td>Tipo de combustible o fuente de energía</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia neta máxima (kW) a (min-1)</td>
+<td>Potencia neta máxima (kW) a (min-1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motor Eléctrico puro (si/no)</td>
+<td>Motor Eléctrico puro (si/no)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia máxima por hora (kW)</td>
+<td>Potencia máxima por hora (kW)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motor Híbrido (si/no)</td>
+<td>Motor Híbrido (si/no)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo</td>
+<td>Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TRANSMISIÓN</td>
+<td>TRANSMISIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo (Mecánica/Hidráulica/eléctrica/etc.)</td>
+<td>Tipo (Mecánica/Hidráulica/eléctrica/etc.)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Caja de cambios (tipo)</td>
+<td>Caja de cambios (tipo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º de relaciones</td>
+<td>N.º de relaciones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SUSPENSIÓN</td>
+<td>SUSPENSIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Breve descripción del tipo de suspensión delantera y trasera</td>
+<td>Breve descripción del tipo de suspensión delantera y trasera</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Neumáticos y ruedas (características principales)</td>
+<td>Neumáticos y ruedas (características principales)</td>
 </tr>
 <tr>
 <td>DIRECCIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dirección, método de asistencia.</td>
+<td>Dirección, método de asistencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FRENADO</td>
+<td>FRENADO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Breve descripción del dispositivo de frenado</td>
+<td>Breve descripción del dispositivo de frenado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ABS: Sí/No</td>
+<td>ABS: Sí/No</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presión en el conducto de alimentación del dispositivo de frenado del remolque: …bar</td>
+<td>Presión en el conducto de alimentación del dispositivo de frenado del remolque: …bar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marca de homologación CE del dispositivo de acoplamiento, en su caso</td>
+<td>Marca de homologación CE del dispositivo de acoplamiento, en su caso</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipos o clases de dispositivos de acoplamiento que pueden instalarse</td>
+<td>Tipos o clases de dispositivos de acoplamiento que pueden instalarse</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valores característicos: D / V / S / U</td>
+<td>Valores característicos: D / V / S / U</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CARROCERÍA</td>
+<td>CARROCERÍA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Presión en el conducto de admisión para el sistema de frenado del remolque: …bar</td>
+<td>Presión en el conducto de admisión para el sistema de frenado del remolque: …bar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
+<td>Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Clase</td>
+<td>Clase</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipo de bastidor en los que puede instalarse la carrocería homologada CE (fabricante(s) y tipos de vehículo):</td>
+<td>Tipo de bastidor en los que puede instalarse la carrocería homologada CE (fabricante(s) y tipos de vehículo):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número y disposición de las puertas</td>
+<td>Número y disposición de las puertas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Volumen de bodega</td>
+<td>Volumen de bodega</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de pasajeros sentados (incluido el conductor). 1er piso y 2.º piso.</td>
+<td>Número de pasajeros sentados (incluido el conductor). 1er piso y 2.º piso.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número máximo de pasajeros de pie</td>
+<td>Número máximo de pasajeros de pie</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de espacios previstos para personas de movilidad reducida en silla de ruedas</td>
+<td>Número de espacios previstos para personas de movilidad reducida en silla de ruedas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Número de asientos exclusivos de tripulación</td>
+<td>Número de asientos exclusivos de tripulación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Retrovisores. Tipo</td>
+<td>Retrovisores. Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivos de visión indirecta distintos de los retrovisores</td>
+<td>Dispositivos de visión indirecta distintos de los retrovisores</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Marca de homologación CE del dispositivo de enganche, en su caso</td>
+<td>Marca de homologación CE del dispositivo de enganche, en su caso</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tipos o clases de dispositivos de enganche que pueden instalarse</td>
+<td>Tipos o clases de dispositivos de enganche que pueden instalarse</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Valores característicos: D / V / S / U</td>
+<td>Valores característicos: D / V / S / U</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+<td>DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivos obligatorios (Número)</td>
+<td>Dispositivos obligatorios (Número)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dispositivos facultativos (Número)</td>
+<td>Dispositivos facultativos (Número)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VARIOS</td>
+<td>VARIOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Velocidad máxima (si procede)</td>
+<td>Velocidad máxima (si procede)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nivel de ruido parado: dB(A) a min<sup>-1</sup></td>
+<td>Nivel de ruido parado: dB(A) a min<sup>-1</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Nivel de emisiones: Euro…</td>
+<td>Nivel de emisiones: Euro…</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia Fiscal (CVF)</td>
+<td>Potencia Fiscal (CVF)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tacógrafo digital (si procede). Si/no</td>
+<td>Tacógrafo digital (si procede). Si/no</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Observaciones</td>
+<td>Observaciones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Opciones incluidas en la homologación de tipo</td>
+<td>Opciones incluidas en la homologación de tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Firma autorizada según el RFFR</td>
+<td>Firma autorizada según el RFFR</td>
 </tr>
 </tbody>
 </table>
@@ -3297,931 +3297,924 @@ Según lo establecido en la parte V del apéndice 3.
 
 (Vehículos de categorías M1, M2, M3, N1, N2 y N3)
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_negrita">Parte I</p>
+<p>Parte I</p>
 </caption>
-<colgroup>
-<col width="5%">
-<col width="62%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (8) (*) (H)</th>
-<th class="cabeza_tabla" rowspan="2">Serie Corta Nacional</th>
-<th class="cabeza_tabla" colspan="2">Homologación Individual</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (8) (*) (H)</th>
+<th rowspan="2">Serie Corta Nacional</th>
+<th colspan="2">Homologación Individual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Completo</th>
-<th class="cabeza_tabla">Completados</th>
+<th>Completo</th>
+<th>Completados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">A. Requisitos relativos a los sistemas de retención, los ensayos de colisión, la integridad del sistema de combustible y la seguridad eléctrica de alta tensión</td>
+<td colspan="5">A. Requisitos relativos a los sistemas de retención, los ensayos de colisión, la integridad del sistema de combustible y la seguridad eléctrica de alta tensión</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A1</td>
-<td class="cuerpo_tabla_izq">Acondicionamiento interior.</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>A1</td>
+<td>Acondicionamiento interior.</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A2</td>
-<td class="cuerpo_tabla_izq">Asientos y apoyacabezas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A2</td>
+<td>Asientos y apoyacabezas.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A3</td>
-<td class="cuerpo_tabla_izq">Asientos de autobús.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A3</td>
+<td>Asientos de autobús.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A4</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A4</td>
+<td>Anclajes de los cinturones de seguridad.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A5</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad y sistemas de retención.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A5</td>
+<td>Cinturones de seguridad y sistemas de retención.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A6</td>
-<td class="cuerpo_tabla_izq">Sistemas de alerta de olvido del cinturón de seguridad.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A6</td>
+<td>Sistemas de alerta de olvido del cinturón de seguridad.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A7</td>
-<td class="cuerpo_tabla_izq">Sistemas de separación.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>A7</td>
+<td>Sistemas de separación.</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A8</td>
-<td class="cuerpo_tabla_izq">Anclajes de retención infantil.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A8</td>
+<td>Anclajes de retención infantil.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A9</td>
-<td class="cuerpo_tabla_izq">Sistemas de retención infantil.</td>
-<td class="cuerpo_tabla_centro">X (9)</td>
-<td class="cuerpo_tabla_centro">X (9)</td>
-<td class="cuerpo_tabla_centro">X (9)</td>
+<td>A9</td>
+<td>Sistemas de retención infantil.</td>
+<td>X (9)</td>
+<td>X (9)</td>
+<td>X (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A10</td>
-<td class="cuerpo_tabla_izq">Sistemas reforzados de retención infantil.</td>
-<td class="cuerpo_tabla_centro">X (9)</td>
-<td class="cuerpo_tabla_centro">X (9)</td>
-<td class="cuerpo_tabla_centro">X (9)</td>
+<td>A10</td>
+<td>Sistemas reforzados de retención infantil.</td>
+<td>X (9)</td>
+<td>X (9)</td>
+<td>X (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A11</td>
-<td class="cuerpo_tabla_izq">Protección delantera contra el empotramiento.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A11</td>
+<td>Protección delantera contra el empotramiento.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A12</td>
-<td class="cuerpo_tabla_izq">Protección trasera contra el empotramiento.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) B (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A12</td>
+<td>Protección trasera contra el empotramiento.</td>
+<td>X (2) A (4)</td>
+<td>X (2) B (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A13</td>
-<td class="cuerpo_tabla_izq">Protección lateral.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A13</td>
+<td>Protección lateral.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A14</td>
-<td class="cuerpo_tabla_izq">Seguridad del depósito de combustible Reglamento.</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>A14</td>
+<td>Seguridad del depósito de combustible Reglamento.</td>
+<td>B (4) (6)</td>
+<td>B</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A15</td>
-<td class="cuerpo_tabla_izq">Seguridad del gas licuado de petróleo.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A15</td>
+<td>Seguridad del gas licuado de petróleo.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A16</td>
-<td class="cuerpo_tabla_izq">Seguridad del gas natural comprimido y licuado.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A16</td>
+<td>Seguridad del gas natural comprimido y licuado.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A17</td>
-<td class="cuerpo_tabla_izq">Seguridad del hidrógeno.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A17</td>
+<td>Seguridad del hidrógeno.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A18</td>
-<td class="cuerpo_tabla_izq">Calificación del material del sistema de hidrógeno.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A18</td>
+<td>Calificación del material del sistema de hidrógeno.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A19</td>
-<td class="cuerpo_tabla_izq">Seguridad eléctrica en uso.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A19</td>
+<td>Seguridad eléctrica en uso.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A20</td>
-<td class="cuerpo_tabla_izq">Colisión frontal con solapamiento parcial.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A20</td>
+<td>Colisión frontal con solapamiento parcial.</td>
+<td>A</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A21</td>
-<td class="cuerpo_tabla_izq">Colisión frontal con solapamiento total.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A21</td>
+<td>Colisión frontal con solapamiento total.</td>
+<td>A</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A22</td>
-<td class="cuerpo_tabla_izq">Comportamiento del mecanismo de dirección en caso de colisión.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A22</td>
+<td>Comportamiento del mecanismo de dirección en caso de colisión.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A23</td>
-<td class="cuerpo_tabla_izq">Airbags de recambio.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>A23</td>
+<td>Airbags de recambio.</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A24</td>
-<td class="cuerpo_tabla_izq">Colisión en la cabina.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A24</td>
+<td>Colisión en la cabina.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A25</td>
-<td class="cuerpo_tabla_izq">Colisión lateral.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A25</td>
+<td>Colisión lateral.</td>
+<td>A</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A26</td>
-<td class="cuerpo_tabla_izq">Colisión lateral con un poste.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A26</td>
+<td>Colisión lateral con un poste.</td>
+<td>A</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A27</td>
-<td class="cuerpo_tabla_izq">Colisión trasera.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C (5)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>A27</td>
+<td>Colisión trasera.</td>
+<td>A</td>
+<td>C (5)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A28</td>
-<td class="cuerpo_tabla_izq">Sistema eCall.</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NA</td>
+<td>A28</td>
+<td>Sistema eCall.</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">B. Requisitos relativos a los usuarios vulnerables de la vía pública, la visión y la visibilidad</td>
+<td colspan="5">B. Requisitos relativos a los usuarios vulnerables de la vía pública, la visión y la visibilidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B1</td>
-<td class="cuerpo_tabla_izq">Protección de piernas y cabeza de peatones.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2) (5)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>B1</td>
+<td>Protección de piernas y cabeza de peatones.</td>
+<td>X (2)</td>
+<td>X (2) (5)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B2</td>
-<td class="cuerpo_tabla_izq">Ampliación de la zona de impacto en la cabeza.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2) (5)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>B2</td>
+<td>Ampliación de la zona de impacto en la cabeza.</td>
+<td>X (2)</td>
+<td>X (2) (5)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B3</td>
-<td class="cuerpo_tabla_izq">Sistema de protección delantera.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2) (5)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>B3</td>
+<td>Sistema de protección delantera.</td>
+<td>X (2)</td>
+<td>X (2) (5)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B4</td>
-<td class="cuerpo_tabla_izq">Frenado de emergencia avanzado para peatones y ciclistas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (9)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B4</td>
+<td>Frenado de emergencia avanzado para peatones y ciclistas.</td>
+<td>A</td>
+<td>B (9)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B5</td>
-<td class="cuerpo_tabla_izq">Advertencia de colisión con peatones y ciclistas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (9)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B5</td>
+<td>Advertencia de colisión con peatones y ciclistas.</td>
+<td>A</td>
+<td>B (9)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B6</td>
-<td class="cuerpo_tabla_izq">Sistema de información sobre ángulos muertos.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (9)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B6</td>
+<td>Sistema de información sobre ángulos muertos.</td>
+<td>A</td>
+<td>B (9)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B7</td>
-<td class="cuerpo_tabla_izq">Detector de marcha atrás.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B (9)</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B7</td>
+<td>Detector de marcha atrás.</td>
+<td>A</td>
+<td>B (9)</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B8</td>
-<td class="cuerpo_tabla_izq">Campo de visión delantera.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B8</td>
+<td>Campo de visión delantera.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B9</td>
-<td class="cuerpo_tabla_izq">Campo de visión directa de los vehículos pesados.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NA</td>
+<td>B9</td>
+<td>Campo de visión directa de los vehículos pesados.</td>
+<td>A</td>
+<td>NA</td>
+<td>NA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B10</td>
-<td class="cuerpo_tabla_izq">Acristalamiento de seguridad.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B10</td>
+<td>Acristalamiento de seguridad.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B11</td>
-<td class="cuerpo_tabla_izq">Deshielo y desempañado.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B11</td>
+<td>Deshielo y desempañado.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B12</td>
-<td class="cuerpo_tabla_izq">Lavaparabrisas y limpiaparabrisas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B12</td>
+<td>Lavaparabrisas y limpiaparabrisas.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B13</td>
-<td class="cuerpo_tabla_izq">Dispositivos de visión indirecta.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B13</td>
+<td>Dispositivos de visión indirecta.</td>
+<td>X (2) A (4)</td>
+<td>B</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B14</td>
-<td class="cuerpo_tabla_izq">Sistemas de aviso acústico de vehículos.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>B14</td>
+<td>Sistemas de aviso acústico de vehículos.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">C. Requisitos relativos al chasis, el frenado, los neumáticos y la dirección del vehículo</td>
+<td colspan="5">C. Requisitos relativos al chasis, el frenado, los neumáticos y la dirección del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C1</td>
+<td>Mecanismo de dirección.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C2</td>
-<td class="cuerpo_tabla_izq">Sistema de advertencia de abandono del carril.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C2</td>
+<td>Sistema de advertencia de abandono del carril.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C3</td>
-<td class="cuerpo_tabla_izq">Sistema de emergencia de mantenimiento de carril (ELKS).</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C3</td>
+<td>Sistema de emergencia de mantenimiento de carril (ELKS).</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C4</td>
-<td class="cuerpo_tabla_izq">Frenado.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C4</td>
+<td>Frenado.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C5</td>
-<td class="cuerpo_tabla_izq">Piezas de frenado de repuesto.</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
+<td>C5</td>
+<td>Piezas de frenado de repuesto.</td>
+<td>X(2)</td>
+<td>X(2)</td>
+<td>X(2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C6</td>
-<td class="cuerpo_tabla_izq">Asistencia de frenado (BAS).</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C6</td>
+<td>Asistencia de frenado (BAS).</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C7</td>
-<td class="cuerpo_tabla_izq">Control de estabilidad (–).</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C7</td>
+<td>Control de estabilidad (–).</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C8</td>
-<td class="cuerpo_tabla_izq">Sistema avanzado de frenado de emergencia de vehículos pesados.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C8</td>
+<td>Sistema avanzado de frenado de emergencia de vehículos pesados.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C9</td>
-<td class="cuerpo_tabla_izq">Sistema avanzado de frenado de emergencia de vehículos ligeros.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C9</td>
+<td>Sistema avanzado de frenado de emergencia de vehículos ligeros.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C10</td>
-<td class="cuerpo_tabla_izq">Seguridad de los neumáticos y eficacia medioambiental.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>C10</td>
+<td>Seguridad de los neumáticos y eficacia medioambiental.</td>
+<td>X (2)</td>
+<td>B (4) (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C11</td>
-<td class="cuerpo_tabla_izq">Ruedas de repuesto y sistemas de neumáticos autoportantes.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>C11</td>
+<td>Ruedas de repuesto y sistemas de neumáticos autoportantes.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C12</td>
-<td class="cuerpo_tabla_izq">Neumáticos recauchutados.</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
+<td>C12</td>
+<td>Neumáticos recauchutados.</td>
+<td>X(2)</td>
+<td>X(2)</td>
+<td>X(2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C13</td>
-<td class="cuerpo_tabla_izq">Control de la presión de los neumáticos en vehículos ligeros.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C13</td>
+<td>Control de la presión de los neumáticos en vehículos ligeros.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C14</td>
-<td class="cuerpo_tabla_izq">Control de la presión de los neumáticos en vehículos pesados.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C14</td>
+<td>Control de la presión de los neumáticos en vehículos pesados.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C15</td>
-<td class="cuerpo_tabla_izq">Instalación de los neumáticos.</td>
-<td class="cuerpo_tabla_centro">A (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">A (4)</td>
+<td>C15</td>
+<td>Instalación de los neumáticos.</td>
+<td>A (4)</td>
+<td>B (4)</td>
+<td>A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C16</td>
-<td class="cuerpo_tabla_izq">Ruedas de repuesto.</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
-<td class="cuerpo_tabla_centro">X(2)</td>
+<td>C16</td>
+<td>Ruedas de repuesto.</td>
+<td>X(2)</td>
+<td>X(2)</td>
+<td>X(2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">D. Requisitos relativos a los instrumentos de a bordo, el sistema eléctrico, las luces del vehículo y la protección frente al uso no autorizado, incluidos ciberataques</td>
+<td colspan="5">D. Requisitos relativos a los instrumentos de a bordo, el sistema eléctrico, las luces del vehículo y la protección frente al uso no autorizado, incluidos ciberataques</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D1</td>
-<td class="cuerpo_tabla_izq">Señales acústicas.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>D1</td>
+<td>Señales acústicas.</td>
+<td>X (2) A (4)</td>
+<td>B</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D2</td>
-<td class="cuerpo_tabla_izq">Interferencias de radio (compatibilidad electromagnética).</td>
-<td class="cuerpo_tabla_centro">A (6) (3)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">A (6) (3)</td>
+<td>D2</td>
+<td>Interferencias de radio (compatibilidad electromagnética).</td>
+<td>A (6) (3)</td>
+<td>B (6)</td>
+<td>A (6) (3)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D3</td>
-<td class="cuerpo_tabla_izq">Protección frente a uso no autorizado, inmovilizador y sistemas de alarma.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D3</td>
+<td>Protección frente a uso no autorizado, inmovilizador y sistemas de alarma.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D4</td>
-<td class="cuerpo_tabla_izq">Protección del vehículo frente a ciberataques.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D4</td>
+<td>Protección del vehículo frente a ciberataques.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D5</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D5</td>
+<td>Indicador de velocidad.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D6</td>
-<td class="cuerpo_tabla_izq">Cuentakilómetros.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D6</td>
+<td>Cuentakilómetros.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D7</td>
-<td class="cuerpo_tabla_izq">Dispositivos de limitación de velocidad.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D7</td>
+<td>Dispositivos de limitación de velocidad.</td>
+<td>X</td>
+<td>B</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D8</td>
-<td class="cuerpo_tabla_izq">Asistente de velocidad inteligente.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D8</td>
+<td>Asistente de velocidad inteligente.</td>
+<td>X</td>
+<td>B</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D9</td>
-<td class="cuerpo_tabla_izq">Identificación de los mandos, testigos e indicadores.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D9</td>
+<td>Identificación de los mandos, testigos e indicadores.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D10</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D10</td>
+<td>Sistemas de calefacción.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de señalización luminosa.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D11</td>
+<td>Dispositivos de señalización luminosa.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D12</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado de carretera.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D12</td>
+<td>Dispositivos de alumbrado de carretera.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D13</td>
-<td class="cuerpo_tabla_izq">Dispositivos catadióptricos.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D13</td>
+<td>Dispositivos catadióptricos.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D14</td>
-<td class="cuerpo_tabla_izq">Fuentes luminosas.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D14</td>
+<td>Fuentes luminosas.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D15</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de señalización luminosa, de alumbrado de carretera y catadióptricos.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4)(6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>D15</td>
+<td>Instalación de dispositivos de señalización luminosa, de alumbrado de carretera y catadióptricos.</td>
+<td>X (2) A (4)</td>
+<td>B (4)(6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D16</td>
-<td class="cuerpo_tabla_izq">Señal de frenado de emergencia.</td>
-<td class="cuerpo_tabla_centro">X</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">X</td>
+<td>D16</td>
+<td>Señal de frenado de emergencia.</td>
+<td>X</td>
+<td>B</td>
+<td>X</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D17</td>
-<td class="cuerpo_tabla_izq">Dispositivos de limpieza de faros.</td>
-<td class="cuerpo_tabla_centro">X (2) (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) (4)</td>
+<td>D17</td>
+<td>Dispositivos de limpieza de faros.</td>
+<td>X (2) (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D18</td>
-<td class="cuerpo_tabla_izq">Indicadores de cambio de velocidades.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D18</td>
+<td>Indicadores de cambio de velocidades.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">E. Requisitos relativos a la conducta del conductor y la conducta del sistema</td>
+<td colspan="5">E. Requisitos relativos a la conducta del conductor y la conducta del sistema</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E1</td>
-<td class="cuerpo_tabla_izq">Interfaz para la instalación de alcoholímetros antiarranque.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>E1</td>
+<td>Interfaz para la instalación de alcoholímetros antiarranque.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E2</td>
-<td class="cuerpo_tabla_izq">Sistema de advertencia de somnolencia y pérdida de atención del conductor.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>E2</td>
+<td>Sistema de advertencia de somnolencia y pérdida de atención del conductor.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E3</td>
-<td class="cuerpo_tabla_izq">Sistema avanzado de advertencia de distracciones del conductor.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>E3</td>
+<td>Sistema avanzado de advertencia de distracciones del conductor.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E4</td>
-<td class="cuerpo_tabla_izq">Sistema de monitorización de la disponibilidad del conductor.</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
-<td class="cuerpo_tabla_centro">B (10)</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
+<td>E4</td>
+<td>Sistema de monitorización de la disponibilidad del conductor.</td>
+<td>A (10)</td>
+<td>B (10)</td>
+<td>A (10)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E5</td>
-<td class="cuerpo_tabla_izq">Registrador de datos de incidencias (EDR).</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>E5</td>
+<td>Registrador de datos de incidencias (EDR).</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E6</td>
-<td class="cuerpo_tabla_izq">Sistemas de sustitución del control del conductor.</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
-<td class="cuerpo_tabla_centro">B (10)</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
+<td>E6</td>
+<td>Sistemas de sustitución del control del conductor.</td>
+<td>A (10)</td>
+<td>B (10)</td>
+<td>A (10)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E7</td>
-<td class="cuerpo_tabla_izq">Sistemas que proporcionan al vehículo información sobre el estado del vehículo y la zona circundante.</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
-<td class="cuerpo_tabla_centro">B (10)</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
+<td>E7</td>
+<td>Sistemas que proporcionan al vehículo información sobre el estado del vehículo y la zona circundante.</td>
+<td>A (10)</td>
+<td>B (10)</td>
+<td>A (10)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E8</td>
-<td class="cuerpo_tabla_izq">Pelotón de vehículos.</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">B (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>E8</td>
+<td>Pelotón de vehículos.</td>
+<td>A (9)</td>
+<td>B (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">E9</td>
-<td class="cuerpo_tabla_izq">Sistemas para proporcionar información relativa a la seguridad a otros usuarios de la vía.</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
-<td class="cuerpo_tabla_centro">B (10)</td>
-<td class="cuerpo_tabla_centro">A (10)</td>
+<td>E9</td>
+<td>Sistemas para proporcionar información relativa a la seguridad a otros usuarios de la vía.</td>
+<td>A (10)</td>
+<td>B (10)</td>
+<td>A (10)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">F. Requisitos relativos a la estructura general y las características generales del vehículo</td>
+<td colspan="5">F. Requisitos relativos a la estructura general y las características generales del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F1</td>
-<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F1</td>
+<td>Emplazamiento de la placa de matrícula.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F2</td>
-<td class="cuerpo_tabla_izq">Desplazamiento en marcha atrás.</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>F2</td>
+<td>Desplazamiento en marcha atrás.</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F3</td>
-<td class="cuerpo_tabla_izq">Cerraduras y bisagras de las puertas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F3</td>
+<td>Cerraduras y bisagras de las puertas.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F4</td>
-<td class="cuerpo_tabla_izq">Escalones, asideros y estribos.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F4</td>
+<td>Escalones, asideros y estribos.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F5</td>
-<td class="cuerpo_tabla_izq">Salientes exteriores.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F5</td>
+<td>Salientes exteriores.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F6</td>
-<td class="cuerpo_tabla_izq">Salientes exteriores de cabinas de vehículos comerciales.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F6</td>
+<td>Salientes exteriores de cabinas de vehículos comerciales.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F7</td>
-<td class="cuerpo_tabla_izq">Placa reglamentaria y número de bastidor.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F7</td>
+<td>Placa reglamentaria y número de bastidor.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F8</td>
-<td class="cuerpo_tabla_izq">Dispositivos de remolque.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F8</td>
+<td>Dispositivos de remolque.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F9</td>
-<td class="cuerpo_tabla_izq">Guardabarros.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F9</td>
+<td>Guardabarros.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F10</td>
-<td class="cuerpo_tabla_izq">Sistemas antiproyección.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>F10</td>
+<td>Sistemas antiproyección.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F11</td>
-<td class="cuerpo_tabla_izq">Masas y dimensiones.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B.</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F11</td>
+<td>Masas y dimensiones.</td>
+<td>A</td>
+<td>B.</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F12</td>
-<td class="cuerpo_tabla_izq">Dispositivos mecánicos de acoplamiento.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>F12</td>
+<td>Dispositivos mecánicos de acoplamiento.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F13</td>
-<td class="cuerpo_tabla_izq">Vehículos destinados al transporte de mercancías peligrosas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F13</td>
+<td>Vehículos destinados al transporte de mercancías peligrosas.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F14</td>
-<td class="cuerpo_tabla_izq">Estructura general de los autobuses.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F14</td>
+<td>Estructura general de los autobuses.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F15</td>
-<td class="cuerpo_tabla_izq">Resistencia de la superestructura de los autobuses.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F15</td>
+<td>Resistencia de la superestructura de los autobuses.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F16</td>
-<td class="cuerpo_tabla_izq">Inflamabilidad en los autobuses.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>F16</td>
+<td>Inflamabilidad en los autobuses.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">G. Requisistos relativos a la eficacia medioambiental y emisiones</td>
+<td colspan="5">G. Requisistos relativos a la eficacia medioambiental y emisiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G1</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G1</td>
+<td>Nivel sonoro.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2</td>
-<td class="cuerpo_tabla_izq">Emisiones del tubo de escape del vehículo en el laboratorio.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G2</td>
+<td>Emisiones del tubo de escape del vehículo en el laboratorio.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G2a</td>
-<td class="cuerpo_tabla_izq">Determinación de las emisiones específicas de CO2 y del consumo de combustible del vehículo y dispositivo de monitorización a bordo del consumo de combustible o de energía eléctrica.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G2a</td>
+<td>Determinación de las emisiones específicas de CO2 y del consumo de combustible del vehículo y dispositivo de monitorización a bordo del consumo de combustible o de energía eléctrica.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3</td>
-<td class="cuerpo_tabla_izq">Emisiones del tubo de escape del motor en el laboratorio.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G3</td>
+<td>Emisiones del tubo de escape del motor en el laboratorio.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3a</td>
-<td class="cuerpo_tabla_izq">Determinación de las emisiones específicas de CO2 y del consumo de combustible del vehículo.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G3a</td>
+<td>Determinación de las emisiones específicas de CO2 y del consumo de combustible del vehículo.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G4</td>
-<td class="cuerpo_tabla_izq">Emisiones del tubo de escape en carretera.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G4</td>
+<td>Emisiones del tubo de escape en carretera.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G5</td>
-<td class="cuerpo_tabla_izq">Durabilidad de las emisiones del tubo de escape.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G5</td>
+<td>Durabilidad de las emisiones del tubo de escape.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G6</td>
-<td class="cuerpo_tabla_izq">Emisiones del cárter.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G6</td>
+<td>Emisiones del cárter.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G7</td>
-<td class="cuerpo_tabla_izq">Emisiones de evaporación.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G7</td>
+<td>Emisiones de evaporación.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G8</td>
-<td class="cuerpo_tabla_izq">Emisiones del tubo de escape a baja temperatura en el laboratorio.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G8</td>
+<td>Emisiones del tubo de escape a baja temperatura en el laboratorio.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G9</td>
-<td class="cuerpo_tabla_izq">Diagnóstico a bordo.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G9</td>
+<td>Diagnóstico a bordo.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G10</td>
-<td class="cuerpo_tabla_izq">Ausencia de dispositivo de desactivación.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G10</td>
+<td>Ausencia de dispositivo de desactivación.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G11</td>
-<td class="cuerpo_tabla_izq">Estrategias auxiliares sobre emisiones.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G11</td>
+<td>Estrategias auxiliares sobre emisiones.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G12</td>
-<td class="cuerpo_tabla_izq">Protección contra la manipulación.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G12</td>
+<td>Protección contra la manipulación.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G13</td>
-<td class="cuerpo_tabla_izq">Aptitud para el reciclado.</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NA</td>
-<td class="cuerpo_tabla_centro">NA</td>
+<td>G13</td>
+<td>Aptitud para el reciclado.</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G14</td>
-<td class="cuerpo_tabla_izq">Sistemas de aire acondicionado.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G14</td>
+<td>Sistemas de aire acondicionado.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G16</td>
-<td class="cuerpo_tabla_izq">Determinación de la potencia.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G16</td>
+<td>Determinación de la potencia.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G17</td>
-<td class="cuerpo_tabla_izq">Funcionamiento de sistemas que usan reactivo y sistemas de control de contaminación.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G17</td>
+<td>Funcionamiento de sistemas que usan reactivo y sistemas de control de contaminación.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G18</td>
-<td class="cuerpo_tabla_izq">Monitorización a bordo, visualización a bordo de datos medioambientales y pasaporte medioambiental.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G18</td>
+<td>Monitorización a bordo, visualización a bordo de datos medioambientales y pasaporte medioambiental.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">H. Requisistos relativos al acceso a la información relativa al vehículo y actualizaciones de software</td>
+<td colspan="5">H. Requisistos relativos al acceso a la información relativa al vehículo y actualizaciones de software</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H1</td>
-<td class="cuerpo_tabla_izq">Acceso a la información sobre el sistema DAB del vehículo y a la información sobre la reparación y el mantenimiento del vehículo.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>H1</td>
+<td>Acceso a la información sobre el sistema DAB del vehículo y a la información sobre la reparación y el mantenimiento del vehículo.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H2</td>
-<td class="cuerpo_tabla_izq">Actualizaciones de software.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>H2</td>
+<td>Actualizaciones de software.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">Leyenda:</p>
-<p class="cita">X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.</p>
-<p class="cita">A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.</p>
-<p class="cita">B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.</p>
-<p class="cita">C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.</p>
-<p class="cita">H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.</p>
-<p class="cita">N/A: Este acto normativo no es aplicable (ningún requisito).</p>
-<p class="cita">RGV: Reglamento general de vehículos.</p>
-<p class="cita">(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los anexos I y II del Real Decreto 2028/1986.</p>
-<p class="cita">(1) Subconjunto electrónico.</p>
-<p class="cita">(2) Componente, UTI (Unidad técnica independiente).</p>
-<p class="cita">(3) Vehículo.</p>
-<p class="cita">(4) Prescripciones de instalación.</p>
-<p class="cita">(5) En el caso de vehículos singulares, la autoridad de homologación podrá eximir de alguno de los requisitos de los actos reglamentarios exigidos a condición de que el fabricante justifique la inaplicabilidad de dicho requisito en su caso concreto. Un servicio técnico deberá certificar dicha inaplicabilidad.</p>
-<p class="cita">(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.</p>
-<p class="cita">(7) No aplicable.</p>
-<p class="cita">(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia. Las simplificaciones y consideraciones específicas aceptadas en una categoría o subcategoría de vehículo para la homologación de serie corta europea, homologación individual europea y homologación europea de vehículo especial, serán también aceptadas en la serie corta nacional y en la homologación individual nacional.</p>
-<p class="cita">(9) Si está instalado.</p>
-<p class="cita">(10) El cumplimiento es obligatorio en el caso de los vehículos automatizados.</p>
+<p>Leyenda:</p>
+<p>X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.</p>
+<p>A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.</p>
+<p>B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.</p>
+<p>C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.</p>
+<p>H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.</p>
+<p>N/A: Este acto normativo no es aplicable (ningún requisito).</p>
+<p>RGV: Reglamento general de vehículos.</p>
+<p>(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los anexos I y II del Real Decreto 2028/1986.</p>
+<p>(1) Subconjunto electrónico.</p>
+<p>(2) Componente, UTI (Unidad técnica independiente).</p>
+<p>(3) Vehículo.</p>
+<p>(4) Prescripciones de instalación.</p>
+<p>(5) En el caso de vehículos singulares, la autoridad de homologación podrá eximir de alguno de los requisitos de los actos reglamentarios exigidos a condición de que el fabricante justifique la inaplicabilidad de dicho requisito en su caso concreto. Un servicio técnico deberá certificar dicha inaplicabilidad.</p>
+<p>(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.</p>
+<p>(7) No aplicable.</p>
+<p>(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia. Las simplificaciones y consideraciones específicas aceptadas en una categoría o subcategoría de vehículo para la homologación de serie corta europea, homologación individual europea y homologación europea de vehículo especial, serán también aceptadas en la serie corta nacional y en la homologación individual nacional.</p>
+<p>(9) Si está instalado.</p>
+<p>(10) El cumplimiento es obligatorio en el caso de los vehículos automatizados.</p>
 </td>
 </tr>
 </tfoot>
@@ -4536,213 +4529,213 @@ Categoría O incompleto/completo/completado
 
 En el caso de vehículos completados, se cumplimentarán todos los epígrafes, incluidos los correspondientes al vehículo de la fase anterior, mencionando la correspondencia entre ambas fases, si no se completan los datos técnicos del vehículo de base, se acompañará la Ficha Reducida del vehículo de base.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Ficha Reducida. Vehículos de categoría O</th>
+<th colspan="2">Ficha Reducida. Vehículos de categoría O</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+<td colspan="2">Marca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo / variante / versión</td>
+<td colspan="2">Tipo / variante / versión</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de</p>
-<p class="cuerpo_tabla_izq">Características)</p>
+<p>En caso de homologación de vehículo completado se indicará: Tipo/Variante/Versión del vehículo de base (igual que en Ficha de</p>
+<p>Características)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial</td>
+<td colspan="2">Denominación comercial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Categoría del vehículo</td>
+<td colspan="2">Categoría del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante del vehículo de base:</td>
+<td colspan="2">Nombre y dirección del fabricante del vehículo de base:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
+<td colspan="2">Nombre y dirección del fabricante de la última fase de fabricación del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante</td>
+<td colspan="2">Emplazamiento de la placa del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Parte fija VIN</td>
+<td colspan="2">Parte fija VIN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del vehículo</td>
+<td colspan="2">Emplazamiento del número de identificación del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículo de base:</td>
+<td colspan="2">Vehículo de base:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de homologación CE:</td>
+<td colspan="2">Número de homologación CE:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha:</td>
+<td colspan="2">Fecha:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículo completo/completado</td>
+<td colspan="2">Vehículo completo/completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Números de homologación</td>
+<td colspan="2">Números de homologación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Fecha</td>
+<td colspan="2">Fecha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+<td colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">N.º de ejes y ruedas</td>
+<td colspan="2">N.º de ejes y ruedas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MASAS Y DIMENSIONES</td>
+<td>MASAS Y DIMENSIONES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia entre ejes</td>
+<td>Distancia entre ejes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vía del eje 1.º / 2.º / 3.º</td>
+<td>Vía del eje 1.º / 2.º / 3.º</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud</td>
+<td>Longitud</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud máxima admisible del vehículo completado</td>
+<td>Longitud máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia entre el centro del dispositivo de enganche y el borde trasero del vehículo:</td>
+<td>Distancia entre el centro del dispositivo de enganche y el borde trasero del vehículo:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud de la zona de carga: …</td>
+<td>Longitud de la zona de carga: …</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anchura</td>
+<td>Anchura</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anchura máxima admisible del vehículo completado</td>
+<td>Anchura máxima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura</td>
+<td>Altura</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura del centro de gravedad (c.d.g.)</td>
+<td>Altura del centro de gravedad (c.d.g.)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura máxima admisible del c.d.g. del vehículo completado</td>
+<td>Altura máxima admisible del c.d.g. del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura mínima admisible del c.d.g. del vehículo completado</td>
+<td>Altura mínima admisible del c.d.g. del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superficie del suelo cubierta por el vehículo (sólo O2, O3 y O4):...... m²</td>
+<td>Superficie del suelo cubierta por el vehículo (sólo O2, O3 y O4):...... m²</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Voladizo trasero</td>
+<td>Voladizo trasero</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa del vehículo con carrocería en orden de marcha</td>
+<td>Masa del vehículo con carrocería en orden de marcha</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa del bastidor desnudo:...... kg</td>
+<td>Masa del bastidor desnudo:...... kg</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa mínima admisible del vehículo completado</td>
+<td>Masa mínima admisible del vehículo completado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distribución de esta masa entre los ejes</td>
+<td>Distribución de esta masa entre los ejes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible (MMTA)</td>
+<td>Masa máxima en carga técnicamente admisible (MMTA)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
+<td>Masa máxima en carga admisible prevista para matriculación/circulación (MMA)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distribución de esta masa entre los ejes y, en el caso de un semirremolque o de un remolque de eje central, masa sobre el punto de acoplamiento: 1.... kg 2.... kg 3....kg punto de acoplamiento:... kg</td>
+<td>Distribución de esta masa entre los ejes y, en el caso de un semirremolque o de un remolque de eje central, masa sobre el punto de acoplamiento: 1.... kg 2.... kg 3....kg punto de acoplamiento:... kg</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa técnicamente admisible en cada eje o grupo de ejes: 1....... kg 2....... kg 3....... kg, y, en caso de un semirremolque o un remolque de eje central, masa sobre el punto de acoplamiento:...... kg</td>
+<td>Masa técnicamente admisible en cada eje o grupo de ejes: 1....... kg 2....... kg 3....... kg, y, en caso de un semirremolque o un remolque de eje central, masa sobre el punto de acoplamiento:...... kg</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Posición del eje o ejes retráctiles o cargables:</td>
+<td>Posición del eje o ejes retráctiles o cargables:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En caso de los dispositivos de acoplamiento de las clases B, D, E y H: masa máxima del vehículo tractor (T) o de la combinación de vehículos (si T &lt; 32 000 kg):...... kg</td>
+<td>En caso de los dispositivos de acoplamiento de las clases B, D, E y H: masa máxima del vehículo tractor (T) o de la combinación de vehículos (si T &lt; 32 000 kg):...... kg</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">SUSPENSIÓN</td>
+<td colspan="2">SUSPENSIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Neumáticos y ruedas (características principales)</td>
+<td colspan="2">Neumáticos y ruedas (características principales)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Eje o ejes equipados de suspensión neumática o sistema equivalente: sí/no (1)</td>
+<td colspan="2">Eje o ejes equipados de suspensión neumática o sistema equivalente: sí/no (1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">DIRECCIÓN</td>
+<td colspan="2">DIRECCIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dirección, método de asistencia</td>
+<td colspan="2">Dirección, método de asistencia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">FRENADO</td>
+<td colspan="2">FRENADO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Breve descripción del dispositivo de frenado</td>
+<td colspan="2">Breve descripción del dispositivo de frenado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">CARROCERÍA</td>
+<td colspan="2">CARROCERÍA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
+<td colspan="2">Tipo de carrocería (según Directiva o Reglamento de la Unión Europea vigente en la materia)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Capacidad del depósito (sólo vehículos cisterna):...... m³</td>
+<td colspan="2">Capacidad del depósito (sólo vehículos cisterna):...... m³</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+<td colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivos luminosos obligatorios (Número, color y marca de homologación)</td>
+<td colspan="2">Dispositivos luminosos obligatorios (Número, color y marca de homologación)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivos luminosos facultativos (Número, color y marca de homologación)</td>
+<td colspan="2">Dispositivos luminosos facultativos (Número, color y marca de homologación)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">VARIOS</td>
+<td colspan="2">VARIOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca de homologación del dispositivo de enganche</td>
+<td colspan="2">Marca de homologación del dispositivo de enganche</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipos o clases de dispositivos de enganche que pueden instalarse:</td>
+<td colspan="2">Tipos o clases de dispositivos de enganche que pueden instalarse:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Valores característicos (1): D…… / V…… / S…… / U……</td>
+<td colspan="2">Valores característicos (1): D…… / V…… / S…… / U……</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Homologación de tipo CE de acuerdo con los requisitos de diseño referentes al transporte de mercancías peligrosas: sí (clase: …) / no (1)</td>
+<td colspan="2">Homologación de tipo CE de acuerdo con los requisitos de diseño referentes al transporte de mercancías peligrosas: sí (clase: …) / no (1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Homologación de tipo CE de acuerdo con los requisitos de diseño referentes al transporte de determinados animales: sí (clase: …) / no (1)</td>
+<td colspan="2">Homologación de tipo CE de acuerdo con los requisitos de diseño referentes al transporte de determinados animales: sí (clase: …) / no (1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Observaciones</td>
+<td colspan="2">Observaciones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Opciones incluidas en la homologación de tipo</td>
+<td colspan="2">Opciones incluidas en la homologación de tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Excepciones</td>
+<td colspan="2">Excepciones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Firma autorizada según el RFFR</td>
+<td colspan="2">Firma autorizada según el RFFR</td>
 </tr>
 </tbody>
 </table>
@@ -4797,268 +4790,261 @@ Según lo establecido en la parte V del apéndice 3.
 
 (Vehículos de categoría O)
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_negrita">Parte I</p>
+<p>Parte I</p>
 </caption>
-<colgroup>
-<col width="5%">
-<col width="62%">
-<col width="11%">
-<col width="11%">
-<col width="11%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (8) (*) (H)</th>
-<th class="cabeza_tabla" rowspan="2">Serie Corta Nacional</th>
-<th class="cabeza_tabla" colspan="2">Homologación Individual</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (8) (*) (H)</th>
+<th rowspan="2">Serie Corta Nacional</th>
+<th colspan="2">Homologación Individual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Completo</th>
-<th class="cabeza_tabla">Completados</th>
+<th>Completo</th>
+<th>Completados</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">A. Requisitos relativos a los sistemas de retención, los ensayos de colisión, la integridad del sistema de combustible y la seguridad eléctrica de alta tensión</td>
+<td colspan="5">A. Requisitos relativos a los sistemas de retención, los ensayos de colisión, la integridad del sistema de combustible y la seguridad eléctrica de alta tensión</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A12</td>
-<td class="cuerpo_tabla_izq">Protección trasera contra el empotramiento.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) B (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A12</td>
+<td>Protección trasera contra el empotramiento.</td>
+<td>X (2) A (4)</td>
+<td>X (2) B (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A13</td>
-<td class="cuerpo_tabla_izq">Protección lateral.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>A13</td>
+<td>Protección lateral.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A14</td>
-<td class="cuerpo_tabla_izq">Seguridad del depósito de combustible Reglamento.</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>A14</td>
+<td>Seguridad del depósito de combustible Reglamento.</td>
+<td>B (4) (6)</td>
+<td>B</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">B. Requisitos relativos a los usuarios vulnerables de la vía pública, la visión y la visibilidad</td>
+<td colspan="5">B. Requisitos relativos a los usuarios vulnerables de la vía pública, la visión y la visibilidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B10</td>
-<td class="cuerpo_tabla_izq">Acristalamiento de seguridad.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>B10</td>
+<td>Acristalamiento de seguridad.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">C. Requisitos relativos al chasis, el frenado, los neumáticos y la dirección del vehículo</td>
+<td colspan="5">C. Requisitos relativos al chasis, el frenado, los neumáticos y la dirección del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C1</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C1</td>
+<td>Mecanismo de dirección.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C4</td>
-<td class="cuerpo_tabla_izq">Frenado.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C4</td>
+<td>Frenado.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C5</td>
-<td class="cuerpo_tabla_izq">Piezas de frenado de repuesto.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>C5</td>
+<td>Piezas de frenado de repuesto.</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C7</td>
-<td class="cuerpo_tabla_izq">Control de estabilidad (–).</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C7</td>
+<td>Control de estabilidad (–).</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C10</td>
-<td class="cuerpo_tabla_izq">Seguridad de los neumáticos y eficacia medioambiental.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>C10</td>
+<td>Seguridad de los neumáticos y eficacia medioambiental.</td>
+<td>X (2)</td>
+<td>B (4) (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C12</td>
-<td class="cuerpo_tabla_izq">Neumáticos recauchutados.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>C12</td>
+<td>Neumáticos recauchutados.</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C14</td>
-<td class="cuerpo_tabla_izq">Control de la presión de los neumáticos en vehículos pesados.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>C14</td>
+<td>Control de la presión de los neumáticos en vehículos pesados.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C15</td>
-<td class="cuerpo_tabla_izq">Instalación de los neumáticos.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>C15</td>
+<td>Instalación de los neumáticos.</td>
+<td>X (2)</td>
+<td>A (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C16</td>
-<td class="cuerpo_tabla_izq">Ruedas de repuesto.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>C16</td>
+<td>Ruedas de repuesto.</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">D. Requisitos relativos a los instrumentos de a bordo, el sistema eléctrico, las luces del vehículo y la protección frente al uso no autorizado, incluidos ciberataques</td>
+<td colspan="5">D. Requisitos relativos a los instrumentos de a bordo, el sistema eléctrico, las luces del vehículo y la protección frente al uso no autorizado, incluidos ciberataques</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D2</td>
-<td class="cuerpo_tabla_izq">Interferencias de radio (compatibilidad electromagnética).</td>
-<td class="cuerpo_tabla_centro">A (3)(6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">A (3)(6)</td>
+<td>D2</td>
+<td>Interferencias de radio (compatibilidad electromagnética).</td>
+<td>A (3)(6)</td>
+<td>B (6)</td>
+<td>A (3)(6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D10</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>D10</td>
+<td>Sistemas de calefacción.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de señalización luminosa.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D11</td>
+<td>Dispositivos de señalización luminosa.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D13</td>
-<td class="cuerpo_tabla_izq">Dispositivos catadióptricos.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D13</td>
+<td>Dispositivos catadióptricos.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D14</td>
-<td class="cuerpo_tabla_izq">Fuentes luminosas.</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>D14</td>
+<td>Fuentes luminosas.</td>
+<td>X (2)</td>
+<td>B (6)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">D15</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de señalización luminosa, de alumbrado de carretera y catadióptricos.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4)(6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>D15</td>
+<td>Instalación de dispositivos de señalización luminosa, de alumbrado de carretera y catadióptricos.</td>
+<td>X (2) A (4)</td>
+<td>B (4)(6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">F. Requisitos relativos a la estructura general y las características generales del vehículo</td>
+<td colspan="5">F. Requisitos relativos a la estructura general y las características generales del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F1</td>
-<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F1</td>
+<td>Emplazamiento de la placa de matrícula.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F7</td>
-<td class="cuerpo_tabla_izq">Placa reglamentaria y número de bastidor.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F7</td>
+<td>Placa reglamentaria y número de bastidor.</td>
+<td>A</td>
+<td>C</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F10</td>
-<td class="cuerpo_tabla_izq">Sistemas antiproyección.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) B (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>F10</td>
+<td>Sistemas antiproyección.</td>
+<td>X (2) A (4)</td>
+<td>X (2) B (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F11</td>
-<td class="cuerpo_tabla_izq">Masas y dimensiones.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F11</td>
+<td>Masas y dimensiones.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F12</td>
-<td class="cuerpo_tabla_izq">Dispositivos mecánicos de acoplamiento.</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>F12</td>
+<td>Dispositivos mecánicos de acoplamiento.</td>
+<td>X (2) A (4)</td>
+<td>B (4) (6)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">F13</td>
-<td class="cuerpo_tabla_izq">Vehículos destinados al transporte de mercancías peligrosas.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>F13</td>
+<td>Vehículos destinados al transporte de mercancías peligrosas.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">G. Requisistos relativos a la eficacia medioambiental y emisiones</td>
+<td colspan="5">G. Requisistos relativos a la eficacia medioambiental y emisiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">G3b</td>
-<td class="cuerpo_tabla_izq">Determinación del rendimiento específico en materia de eficiencia energética del remolque.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>G3b</td>
+<td>Determinación del rendimiento específico en materia de eficiencia energética del remolque.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="5">H. Requisistos relativos al acceso a la información relativa al vehículo y actualizaciones de software</td>
+<td colspan="5">H. Requisistos relativos al acceso a la información relativa al vehículo y actualizaciones de software</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H1</td>
-<td class="cuerpo_tabla_izq">Acceso a la información sobre el sistema DAB del vehículo y a la información sobre la reparación y el mantenimiento del vehículo.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>H1</td>
+<td>Acceso a la información sobre el sistema DAB del vehículo y a la información sobre la reparación y el mantenimiento del vehículo.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">H2</td>
-<td class="cuerpo_tabla_izq">Actualizaciones de software.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>H2</td>
+<td>Actualizaciones de software.</td>
+<td>A</td>
+<td>B</td>
+<td>A</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">Leyenda:</p>
-<p class="cita">X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo CE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.</p>
-<p class="cita">A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.</p>
-<p class="cita">B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.</p>
-<p class="cita">C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.</p>
-<p class="cita">H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.</p>
-<p class="cita">N/A: Este acto normativo no es aplicable (ningún requisito).</p>
-<p class="cita">RGV: Reglamento general de vehículos.</p>
-<p class="cita">(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los anexos I y II del Real Decreto 2028/1986.</p>
-<p class="cita">(1) Subconjunto electrónico.</p>
-<p class="cita">(2) Componente, UTI (Unidad técnica independiente).</p>
-<p class="cita">(3) Vehículo.</p>
-<p class="cita">(4) Prescripciones de instalación.</p>
-<p class="cita">(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.</p>
-<p class="cita">(7) No aplicable.</p>
-<p class="cita">(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia. Las simplificaciones y consideraciones específicas aceptadas en una categoría o subcategoría de vehículo para la homologación de serie corta europea, homologación individual europea y homologación europea de vehículo especial serán también aceptadas en la serie corta nacional y en la homologación individual nacional.</p>
-<p class="cita">(9) Si está instalado.</p>
+<p>Leyenda:</p>
+<p>X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo CE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.</p>
+<p>A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.</p>
+<p>B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.</p>
+<p>C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.</p>
+<p>H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.</p>
+<p>N/A: Este acto normativo no es aplicable (ningún requisito).</p>
+<p>RGV: Reglamento general de vehículos.</p>
+<p>(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los anexos I y II del Real Decreto 2028/1986.</p>
+<p>(1) Subconjunto electrónico.</p>
+<p>(2) Componente, UTI (Unidad técnica independiente).</p>
+<p>(3) Vehículo.</p>
+<p>(4) Prescripciones de instalación.</p>
+<p>(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.</p>
+<p>(7) No aplicable.</p>
+<p>(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia. Las simplificaciones y consideraciones específicas aceptadas en una categoría o subcategoría de vehículo para la homologación de serie corta europea, homologación individual europea y homologación europea de vehículo especial serán también aceptadas en la serie corta nacional y en la homologación individual nacional.</p>
+<p>(9) Si está instalado.</p>
 </td>
 </tr>
 </tfoot>
@@ -5617,438 +5603,434 @@ En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las 
 
 **Modelo de Ficha Reducida**
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Ficha reducida. Vehículos de categoría T y C</th>
+<th colspan="2">Ficha reducida. Vehículos de categoría T y C</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">GENERALIDADES</td>
+<td colspan="2">GENERALIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de homologación</td>
+<td colspan="2">Número de homologación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+<td colspan="2">Marca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación</td>
+<td colspan="2">Identificación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo</td>
+<td colspan="2">Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Variantes</td>
+<td colspan="2">Variantes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Versiones</td>
+<td colspan="2">Versiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial (marca y modelo)</td>
+<td colspan="2">Denominación comercial (marca y modelo)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Categoría y subcategoría</td>
+<td colspan="2">Categoría y subcategoría</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante</td>
+<td colspan="2">Nombre y dirección del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación (1): Agrícola / Obras / Servicios</td>
+<td colspan="2">Clasificación (1): Agrícola / Obras / Servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del representante del fabricante</td>
+<td colspan="2">Nombre y dirección del representante del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias</td>
+<td colspan="2">Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante</td>
+<td colspan="2">Emplazamiento de la placa del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del tractor</td>
+<td colspan="2">Emplazamiento del número de identificación del tractor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa identificativa de la estructura de protección</td>
+<td colspan="2">Emplazamiento de la placa identificativa de la estructura de protección</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
+<td colspan="2">CONSTITUCIÓN GENERAL DEL VEHÍCULO</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de ejes y ruedas</td>
+<td colspan="2">Número de ejes y ruedas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ejes con ruedas gemelas (número, localización)</td>
+<td colspan="2">Ejes con ruedas gemelas (número, localización)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ejes con frenos (número y localización)</td>
+<td colspan="2">Ejes con frenos (número y localización)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ejes motores (número, localización, interconexión)</td>
+<td colspan="2">Ejes motores (número, localización, interconexión)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Puesto de conducción reversible: sí / no (1)</td>
+<td colspan="2">Puesto de conducción reversible: sí / no (1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Configuración del tren de rodaje (en su caso): conjunto de trenes de orugas delantero / conjunto de trenes de orugas trasero / conjunto de trenes de orugas delantero y trasero / tren de oruga continua a cada lado del vehículo</td>
+<td colspan="2">Configuración del tren de rodaje (en su caso): conjunto de trenes de orugas delantero / conjunto de trenes de orugas trasero / conjunto de trenes de orugas delantero y trasero / tren de oruga continua a cada lado del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y emplazamiento del conjunto de trenes de orugas motor</td>
+<td colspan="2">Número y emplazamiento del conjunto de trenes de orugas motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y emplazamiento del conjunto de trenes de orugas con frenos</td>
+<td colspan="2">Número y emplazamiento del conjunto de trenes de orugas con frenos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">DIMENSIONES Y MASAS (en mm. y en kg.)</td>
+<td colspan="2">DIMENSIONES Y MASAS (en mm. y en kg.)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Distancia entre ejes</td>
+<td colspan="2">Distancia entre ejes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vía máxima y mínima:</td>
+<td colspan="2">Vía máxima y mínima:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Longitud</td>
+<td colspan="2">Longitud</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Anchura</td>
+<td colspan="2">Anchura</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura</td>
+<td colspan="2">Altura</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Voladizo trasero</td>
+<td colspan="2">Voladizo trasero</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Masa del tractor en vacío en orden de marcha</p>
-<p class="cuerpo_tabla_izq">– máxima:</p>
-<p class="cuerpo_tabla_izq">– mínima:</p>
+<p>Masa del tractor en vacío en orden de marcha</p>
+<p>– máxima:</p>
+<p>– mínima:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masas de lastre (peso total, materiales y número de piezas)</td>
+<td colspan="2">Masas de lastre (peso total, materiales y número de piezas)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Distribución de esta masa entre los ejes</td>
+<td colspan="2">Distribución de esta masa entre los ejes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masas máximas técnicamente admisibles declaradas por el fabricante</td>
+<td colspan="2">Masas máximas técnicamente admisibles declaradas por el fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masas máximas técnicamente admisibles por eje: Eje 1…… kg; Eje 2…… kg</td>
+<td colspan="2">Masas máximas técnicamente admisibles por eje: Eje 1…… kg; Eje 2…… kg</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima en carga del tractor en función de los tipos de neumáticos previstos</td>
+<td colspan="2">Masa máxima en carga del tractor en función de los tipos de neumáticos previstos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Reparto de esta masa entre los ejes</td>
+<td colspan="2">Reparto de esta masa entre los ejes</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Masa(s) y neumático(s):</p>
-<p class="imagen">
-<img class="no_escalar" height="1492" src="/datos/imagenes/disp/2018/280/15796_6173505_image5.png" width="1696">
+<p>Masa(s) y neumático(s):</p>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173505_image5.png">
 </p>
-<p class="cuerpo_tabla_izq">Masas y tren de rodaje:</p>
-<p class="imagen">
-<img class="no_escalar" height="836" src="/datos/imagenes/disp/2018/280/15796_6173505_image6.png" width="1680">
+<p>Masas y tren de rodaje:</p>
+<p>
+<img src="https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173505_image6.png">
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Masa remolcable técnicamente admisible de vehículos de la categoría T o correspondiente a cada configuración de chasis/frenado del vehículo de la categoría R o S:</p>
-<p class="cuerpo_tabla_izq">Barra de tracción:</p>
-<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">Barra de tracción rígida:</p>
-<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">Eje central:</p>
-<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>Masa remolcable técnicamente admisible de vehículos de la categoría T o correspondiente a cada configuración de chasis/frenado del vehículo de la categoría R o S:</p>
+<p>Barra de tracción:</p>
+<p>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>Barra de tracción rígida:</p>
+<p>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>Eje central:</p>
+<p>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Masa total técnicamente admisible del conjunto tractor-vehículo remolcado (según las diferentes configuraciones de chasis/frenado del vehículo remolcado).</p>
-<p class="cuerpo_tabla_izq">Barra de tracción:</p>
-<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">Barra de tracción rígida:</p>
-<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">Eje central:</p>
-<p class="cuerpo_tabla_izq">– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
-<p class="cuerpo_tabla_izq">– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>Masa total técnicamente admisible del conjunto tractor-vehículo remolcado (según las diferentes configuraciones de chasis/frenado del vehículo remolcado).</p>
+<p>Barra de tracción:</p>
+<p>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>Barra de tracción rígida:</p>
+<p>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>Eje central:</p>
+<p>– R o S sin frenos que puede arrastrar de... hasta... (kg) de masa en carga</p>
+<p>– R o S con frenos mecánicos de inercia que puede arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos hidráulicos que pueda arrastrar de... hasta... (kg) de masa en carga.</p>
+<p>– R o S con frenos neumáticos que puede arrastrar de... hasta... (kg) de masa en carga.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Masa máxima del remolque / maquinaria intercambiable remolcada que se puede enganchar</td>
+<td colspan="2">Masa máxima del remolque / maquinaria intercambiable remolcada que se puede enganchar</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Situación del punto de enganche:</td>
+<td colspan="2">Situación del punto de enganche:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura desde el suelo:</td>
+<td colspan="2">Altura desde el suelo:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura máxima:</td>
+<td colspan="2">Altura máxima:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura mínima:</td>
+<td colspan="2">Altura mínima:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Distancia respecto al plano vertical que pasa por el centro del eje trasero</td>
+<td colspan="2">Distancia respecto al plano vertical que pasa por el centro del eje trasero</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Carga vertical estática / masa máxima técnicamente admisible en el punto de enganche del tractor</td>
+<td colspan="2">Carga vertical estática / masa máxima técnicamente admisible en el punto de enganche del tractor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">MOTOR</td>
+<td colspan="2">MOTOR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca:</td>
+<td colspan="2">Marca:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Medios de identificación del tipo, en caso de que esté indicado en el motor o motores, y método de colocación:</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Principio de funcionamiento:</p>
-<p class="cuerpo_tabla_izq">– encendido por chispa / encendido por compresión (1)</p>
-<p class="cuerpo_tabla_izq">– inyección directa / inyección indirecta (1)</p>
-<p class="cuerpo_tabla_izq">– ciclo en dos tiempos / cuatro tiempos (1)</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Combustible: gasóleo / gasolina / gas licuado de petróleo / otros (1)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Parte 2 – Tipo de motor</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo de motor instalado por el fabricante: ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número de homologación CE: ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Número y disposición de los cilindros: ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Cilindrada: ... cm<sup>3</sup></td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potencia nominal asignada del motor: ......... kW a ...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potencia neta máxima del motor: ......... kW a ...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable).</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potencia fiscal (CVF)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">TRANSMISIÓN</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Caja de cambios:</p>
-<p class="cuerpo_tabla_izq">Número de relaciones:</p>
-<p class="cuerpo_tabla_izq">– delanteras:</p>
-<p class="cuerpo_tabla_izq">– traseras:</p>
-<p class="cuerpo_tabla_izq">– Relación final de transmisión:</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Velocidad máxima de fábrica del vehículo calculada: ......... km/h</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Velocidad máxima medida: ......... km/h</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">DIRECCIÓN</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Categoría del dispositivo de dirección: dirección manual / asistida / servo (1)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">FRENADO (Breve descripción del sistema de frenado)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivo de frenado de servicio (descripción)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Freno de socorro (descripción, si existe)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Freno de estacionamiento (descripción)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Sistema de frenado electrónico: sí / no / opcional</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Sobrepresión de alimentación (1 conducción): ... kPa</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Sobrepresión de alimentación (2 conducciones): ... kPa</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">PUESTO DEL CONDUCTOR Y DISPOSITIVOS DE PROTECCIÓN CONTRA EL VUELCO (ROPS)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">ROPS: obligatorio / opcional / estándar</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">ROPS mediante Bastidor(es):</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Presencia: sí / no (1)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca y modelo</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marcado de homologación: ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">ROPS mediante Cabina(s):</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Presencia: sí / no (1)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca y modelo</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marcado de homologación: ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">ROPS mediante Arco(s):</p>
-<p class="cuerpo_tabla_izq">– delante / detrás (1)</p>
-<p class="cuerpo_tabla_izq">– abatible / no abatible (1)</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca y modelo</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marcado de homologación: ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Descripción (situación, fijación, etc.): ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Configuración de las plazas de asiento: asiento/sillín</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ubicación y disposición de los asientos de los pasajeros</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Asiento para acompañante (número): ...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Plataforma de carga:</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dimensiones: Longitud…. mm; Anchura…. mm; Altura…. mm.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Carga técnicamente admisible: ... kg</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículo equipado con estructuras de protección contra la caída de objetos (FOPS): sí / no (1)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículo equipado con protección contra la penetración de objetos (OPS): sí / no (1)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Dispositivos obligatorios/facultativos</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">VARIOS</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Acoplamientos mecánicos entre tractores y vehículos remolcados:</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo(s) de acoplamiento:...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marca(s):...</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" colspan="2">Marcado(s) o número(s) de homologación:...</td>
+<td colspan="2">Medios de identificación del tipo, en caso de que esté indicado en el motor o motores, y método de colocación:</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Carga horizontal máxima / valor D... (kg)</p>
-<p class="cuerpo_tabla_izq">Carga vertical (eventual) máxima de... (kg)</p>
-<p class="cuerpo_tabla_izq">Masa remolcable … (t)</p>
+<p>Principio de funcionamiento:</p>
+<p>– encendido por chispa / encendido por compresión (1)</p>
+<p>– inyección directa / inyección indirecta (1)</p>
+<p>– ciclo en dos tiempos / cuatro tiempos (1)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Ubicación del punto de acoplamiento</td>
+<td colspan="2">Combustible: gasóleo / gasolina / gas licuado de petróleo / otros (1)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura sobre el suelo. Mínima…. mm; Máxima…. mm.</td>
+<td colspan="2">Parte 2 – Tipo de motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Distancia respecto al plano vertical que pasa por el centro del eje trasero. Mínima…. mm; Máxima…. mm.</td>
+<td colspan="2">Tipo de motor instalado por el fabricante: ...</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Levantamiento hidráulico, enganche de tres puntos: sí / no (1). Montado en la parte delantera / montado en la parte trasera / montado en la parte delantera y en la parte trasera / inexistente</td>
+<td colspan="2">Número de homologación CE: ...</td>
+</tr>
+<tr>
+<td colspan="2">Número y disposición de los cilindros: ...</td>
+</tr>
+<tr>
+<td colspan="2">Cilindrada: ... cm<sup>3</sup></td>
+</tr>
+<tr>
+<td colspan="2">Potencia nominal asignada del motor: ......... kW a ...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable).</td>
+</tr>
+<tr>
+<td colspan="2">Potencia neta máxima del motor: ......... kW a ...... min<sup>-1</sup> con ajuste de serie (de acuerdo con la normativa aplicable).</td>
+</tr>
+<tr>
+<td colspan="2">Potencia fiscal (CVF)</td>
+</tr>
+<tr>
+<td colspan="2">TRANSMISIÓN</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Nivel sonoro exterior</p>
-<p class="cuerpo_tabla_izq">Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
-<p class="cuerpo_tabla_izq">– parado:......... dB (A)</p>
-<p class="cuerpo_tabla_izq">– en marcha:......... dB (A)</p>
-<p class="cuerpo_tabla_izq">– velocidad del motor:......... min<sup>-1</sup></p>
+<p>Caja de cambios:</p>
+<p>Número de relaciones:</p>
+<p>– delanteras:</p>
+<p>– traseras:</p>
+<p>– Relación final de transmisión:</p>
 </td>
 </tr>
 <tr>
+<td colspan="2">Velocidad máxima de fábrica del vehículo calculada: ......... km/h</td>
+</tr>
+<tr>
+<td colspan="2">Velocidad máxima medida: ......... km/h</td>
+</tr>
+<tr>
+<td colspan="2">DIRECCIÓN</td>
+</tr>
+<tr>
+<td colspan="2">Categoría del dispositivo de dirección: dirección manual / asistida / servo (1)</td>
+</tr>
+<tr>
+<td colspan="2">FRENADO (Breve descripción del sistema de frenado)</td>
+</tr>
+<tr>
+<td colspan="2">Dispositivo de frenado de servicio (descripción)</td>
+</tr>
+<tr>
+<td colspan="2">Freno de socorro (descripción, si existe)</td>
+</tr>
+<tr>
+<td colspan="2">Freno de estacionamiento (descripción)</td>
+</tr>
+<tr>
+<td colspan="2">Sistema de frenado electrónico: sí / no / opcional</td>
+</tr>
+<tr>
+<td colspan="2">Sobrepresión de alimentación (1 conducción): ... kPa</td>
+</tr>
+<tr>
+<td colspan="2">Sobrepresión de alimentación (2 conducciones): ... kPa</td>
+</tr>
+<tr>
+<td colspan="2">PUESTO DEL CONDUCTOR Y DISPOSITIVOS DE PROTECCIÓN CONTRA EL VUELCO (ROPS)</td>
+</tr>
+<tr>
+<td colspan="2">ROPS: obligatorio / opcional / estándar</td>
+</tr>
+<tr>
+<td colspan="2">ROPS mediante Bastidor(es):</td>
+</tr>
+<tr>
+<td colspan="2">Presencia: sí / no (1)</td>
+</tr>
+<tr>
+<td colspan="2">Marca y modelo</td>
+</tr>
+<tr>
+<td colspan="2">Marcado de homologación: ...</td>
+</tr>
+<tr>
+<td colspan="2">ROPS mediante Cabina(s):</td>
+</tr>
+<tr>
+<td colspan="2">Presencia: sí / no (1)</td>
+</tr>
+<tr>
+<td colspan="2">Marca y modelo</td>
+</tr>
+<tr>
+<td colspan="2">Marcado de homologación: ...</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Nivel sonoro percibido por el conductor</p>
-<p class="cuerpo_tabla_izq">Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
-<p class="cuerpo_tabla_izq">– exposición del conductor al nivel de ruido:......... dB (A)</p>
+<p>ROPS mediante Arco(s):</p>
+<p>– delante / detrás (1)</p>
+<p>– abatible / no abatible (1)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">Marca y modelo</td>
+</tr>
+<tr>
+<td colspan="2">Marcado de homologación: ...</td>
+</tr>
+<tr>
+<td colspan="2">Descripción (situación, fijación, etc.): ...</td>
+</tr>
+<tr>
+<td colspan="2">Configuración de las plazas de asiento: asiento/sillín</td>
+</tr>
+<tr>
+<td colspan="2">Ubicación y disposición de los asientos de los pasajeros</td>
+</tr>
+<tr>
+<td colspan="2">Asiento para acompañante (número): ...</td>
+</tr>
+<tr>
+<td colspan="2">Plataforma de carga:</td>
+</tr>
+<tr>
+<td colspan="2">Dimensiones: Longitud…. mm; Anchura…. mm; Altura…. mm.</td>
+</tr>
+<tr>
+<td colspan="2">Carga técnicamente admisible: ... kg</td>
+</tr>
+<tr>
+<td colspan="2">Vehículo equipado con estructuras de protección contra la caída de objetos (FOPS): sí / no (1)</td>
+</tr>
+<tr>
+<td colspan="2">Vehículo equipado con protección contra la penetración de objetos (OPS): sí / no (1)</td>
+</tr>
+<tr>
+<td colspan="2">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</td>
+</tr>
+<tr>
+<td colspan="2">Dispositivos obligatorios/facultativos</td>
+</tr>
+<tr>
+<td colspan="2">VARIOS</td>
+</tr>
+<tr>
+<td colspan="2">Acoplamientos mecánicos entre tractores y vehículos remolcados:</td>
+</tr>
+<tr>
+<td colspan="2">Tipo(s) de acoplamiento:...</td>
+</tr>
+<tr>
+<td colspan="2">Marca(s):...</td>
+</tr>
+<tr>
+<td colspan="2">Marcado(s) o número(s) de homologación:...</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Carga horizontal máxima / valor D... (kg)</p>
+<p>Carga vertical (eventual) máxima de... (kg)</p>
+<p>Masa remolcable … (t)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">Ubicación del punto de acoplamiento</td>
+</tr>
+<tr>
+<td colspan="2">Altura sobre el suelo. Mínima…. mm; Máxima…. mm.</td>
+</tr>
+<tr>
+<td colspan="2">Distancia respecto al plano vertical que pasa por el centro del eje trasero. Mínima…. mm; Máxima…. mm.</td>
+</tr>
+<tr>
+<td colspan="2">Levantamiento hidráulico, enganche de tres puntos: sí / no (1). Montado en la parte delantera / montado en la parte trasera / montado en la parte delantera y en la parte trasera / inexistente</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Nivel sonoro exterior</p>
+<p>Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+<p>– parado:......... dB (A)</p>
+<p>– en marcha:......... dB (A)</p>
+<p>– velocidad del motor:......... min<sup>-1</sup></p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Gases de escape</p>
-<p class="cuerpo_tabla_izq">Medido con arreglo a número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+<p>Nivel sonoro percibido por el conductor</p>
+<p>Medido con arreglo al número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+<p>– exposición del conductor al nivel de ruido:......... dB (A)</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" td="">
-<p class="cuerpo_tabla_izq">Ciclo NRSC/ESC/WHSC</p>
-<p class="cuerpo_tabla_izq">CO2.........</p>
-<p class="cuerpo_tabla_izq">Ciclo NRTC/ETC/WHTC</p>
-<p class="cuerpo_tabla_izq">CO2.........</p>
+<td colspan="2">
+<p>Gases de escape</p>
+<p>Medido con arreglo a número del acto reglamentario de base y de su última modificación aplicable a la homologación UE. Si se trata de un acto reglamentario con dos o más fases de aplicación, indíquese también la fase:.........</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Ciclo NRSC/ESC/WHSC</p>
+<p>CO2.........</p>
+<p>Ciclo NRTC/ETC/WHTC</p>
+<p>CO2.........</p>
 </td>
 </tr>
 </tbody>
@@ -6150,378 +6132,378 @@ Según lo establecido en la parte V del apéndice 2.
 
 **Homologación nacional de tipo de vehículos de las categorías T4.1 y T4.2 (subcategorías a y b)**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
-<th class="cabeza_tabla" colspan="2">Homologación Nacional de Tipo (Aplicaciones Particulares)</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (*) (H)</th>
+<th colspan="2">Homologación Nacional de Tipo (Aplicaciones Particulares)</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">T4.1</th>
-<th class="cabeza_tabla">T4.2</th>
+<th>T4.1</th>
+<th>T4.2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>2</td>
+<td>Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>4</td>
+<td>Mecanismo de dirección para tractores rápidos</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A (b) A</p>
+<p>(a) N/A (b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A (b) A</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A (b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A (b) N/A</p>
+<p>(a) N/A (b) A</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">B</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cristales</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Masas de lastre</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Depósito de combustible</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Sistemas anti proyección</td>
+<td>5</td>
+<td>Mecanismo de dirección</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A (b) X (2) A (4)</p>
+<p>(a) A (b) N/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A (b) X (2) A (4)</p>
+<p>(a) A (b) N/A</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Marcha atrás</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>6</td>
+<td>Indicador de velocidad</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>7</td>
+<td>Campo de visión y limpiaparabrisas</td>
+<td>A</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_izq">ROPS</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>8</td>
+<td>Cristales</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>9</td>
+<td>Retrovisores</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_izq">ROPS, montados delante (tractores de vía estrecha)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
+<td>10</td>
+<td>Sistemas de información al conductor</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_izq">ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>13</td>
+<td>Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Asiento del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>15</td>
+<td>Compatibilidad electromagnética</td>
+<td>A (1)(3)(6)</td>
+<td>A (1)(3)(6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>16</td>
+<td>Aparato productor de señales acústicas</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>17</td>
+<td>Sistemas de calefacción</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Protección de los elementos motores</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Sistema de escape</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>23</td>
+<td>Masas de lastre</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>25</td>
+<td>Depósito de combustible</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>28</td>
+<td>Plataformas de carga</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>29</td>
+<td>Riesgos debidos a los dispositivos de remolque</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Materiales y productos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq">Baterías</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>31</td>
+<td>Sistemas anti proyección</td>
+<td>
+<p>(a) N/A (b) X (2) A (4)</p>
+</td>
+<td>
+<p>(a) N/A (b) X (2) A (4)</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Salida de emergencia</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>32</td>
+<td>Marcha atrás</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>35</td>
+<td>ROPS</td>
+<td>N/A</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>37</td>
+<td>ROPS Pruebas estáticas</td>
+<td>N/A</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>38</td>
+<td>ROPS, montados delante (tractores de vía estrecha)</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>39</td>
+<td>ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>40</td>
+<td>FOPS, estructuras de protección contra la caída de objetos</td>
+<td>A (9)</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Asientos de pasajeros</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Exposición del conductor al nivel de ruido</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Asiento del conductor</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Campo de maniobra y acceso al puesto del conductor</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Tomas de fuerza</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Protección de los elementos motores</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Anclajes de los cinturones de seguridad</td>
+<td>A (9)</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Cinturones de seguridad</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>49</td>
+<td>OPS, estructuras contra la penetración de objetos</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Sistema de escape</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Materiales y productos</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Baterías</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Salida de emergencia</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Sistema de ventilación y filtrado de la cabina</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>60</td>
+<td>Índice de combustión del material de la cabina</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>61</td>
+<td>Emisiones contaminantes</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Nivel sonoro (externo)</td>
+<td>A</td>
+<td>A</td>
 </tr>
 </tbody>
 </table>
@@ -6530,661 +6512,661 @@ Según lo establecido en la parte V del apéndice 2.
 
 **Serie corta nacional de vehículos de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b)**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
-<th class="cabeza_tabla" colspan="6">Serie Corta Nacional</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (*) (H)</th>
+<th colspan="6">Serie Corta Nacional</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">T1</th>
-<th class="cabeza_tabla">T2</th>
-<th class="cabeza_tabla">T3</th>
-<th class="cabeza_tabla">T4.1</th>
-<th class="cabeza_tabla">T4.2</th>
-<th class="cabeza_tabla">T4.3</th>
+<th>T1</th>
+<th>T2</th>
+<th>T3</th>
+<th>T4.1</th>
+<th>T4.2</th>
+<th>T4.3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>2</td>
+<td>Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>4</td>
+<td>Mecanismo de dirección para tractores rápidos</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cristales</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-<td class="cuerpo_tabla_centro">A (1)(3)(6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">18</td>
+<td>5</td>
+<td>Mecanismo de dirección</td>
 <td>
-<p class="cuerpo_tabla_izq">Dispositivos de la protección contra utilización no autorizada </p>
-</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Masas de lastre</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Depósito de combustible</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) X (2) A (4)</p>
+<p>(a) A</p>
+<p>(b) N/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) X (2)</p>
-<p class="cuerpo_tabla_centro">A (4)</p>
+<p>(a) A</p>
+<p>(b) N/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) X (2) A (4)</p>
+<p>(a) A</p>
+<p>(b) N/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) X (2)</p>
-<p class="cuerpo_tabla_centro">A (4)</p>
+<p>(a) A</p>
+<p>(b) N/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) X (2) A (4)</p>
+<p>(a) A</p>
+<p>(b) N/A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) X (2)</p>
-<p class="cuerpo_tabla_centro">A (4)</p>
+<p>(a) A</p>
+<p>(b) N/A</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Marcha atrás</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>6</td>
+<td>Indicador de velocidad</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>7</td>
+<td>Campo de visión y limpiaparabrisas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_izq">ROPS</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>8</td>
+<td>Cristales</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>9</td>
+<td>Retrovisores</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_izq">ROPS, montados delante (tractores de vía estrecha)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>10</td>
+<td>Sistemas de información al conductor</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_izq">ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>13</td>
+<td>Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Asiento del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>15</td>
+<td>Compatibilidad electromagnética</td>
+<td>A (1)(3)(6)</td>
+<td>A (1)(3)(6)</td>
+<td>A (1)(3)(6)</td>
+<td>A (1)(3)(6)</td>
+<td>A (1)(3)(6)</td>
+<td>A (1)(3)(6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>16</td>
+<td>Aparato productor de señales acústicas</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>17</td>
+<td>Sistemas de calefacción</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>18</td>
+<td>
+<p>Dispositivos de la protección contra utilización no autorizada </p>
+</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Sistema de escape</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>23</td>
+<td>Masas de lastre</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>25</td>
+<td>Depósito de combustible</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>28</td>
+<td>Plataformas de carga</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>29</td>
+<td>Riesgos debidos a los dispositivos de remolque</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Materiales y productos</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq">Baterías</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>31</td>
+<td>Sistemas antiproyección</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) X (2) A (4)</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) X (2)</p>
+<p>A (4)</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) X (2) A (4)</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) X (2)</p>
+<p>A (4)</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) X (2) A (4)</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) X (2)</p>
+<p>A (4)</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Salida de emergencia</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>32</td>
+<td>Marcha atrás</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>35</td>
+<td>ROPS</td>
+<td>A (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>37</td>
+<td>ROPS Pruebas estáticas</td>
+<td>A (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>38</td>
+<td>ROPS, montados delante (tractores de vía estrecha)</td>
+<td>N/A</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>39</td>
+<td>ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
+<td>N/A</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>40</td>
+<td>FOPS, estructuras de protección contra la caída de objetos</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Asientos de pasajeros</td>
+<td>A</td>
+<td>N/A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Exposición del conductor al nivel de ruido</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Asiento del conductor</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Campo de maniobra y acceso al puesto del conductor</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Tomas de fuerza</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Protección de los elementos motores,</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Anclajes de los cinturones de seguridad</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Cinturones de seguridad</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>49</td>
+<td>OPS, estructuras contra la penetración de objetos</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Sistema de escape</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Materiales y productos</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Baterías</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Salida de emergencia</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Sistema de ventilación y filtrado de la cabina</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>60</td>
+<td>Índice de combustión del material de la cabina</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>61</td>
+<td>Emisiones contaminantes</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Nivel sonoro (externo)</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 </tbody>
 </table>
@@ -7193,684 +7175,684 @@ Según lo establecido en la parte V del apéndice 2.
 
 **Homologación individual de vehículos de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b)**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
-<th class="cabeza_tabla" colspan="6">Homologación individual</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (*) (H)</th>
+<th colspan="6">Homologación individual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">T1</th>
-<th class="cabeza_tabla">T2</th>
-<th class="cabeza_tabla">T3</th>
-<th class="cabeza_tabla">T4.1</th>
-<th class="cabeza_tabla">T4.2</th>
-<th class="cabeza_tabla">T4.3</th>
+<th>T1</th>
+<th>T2</th>
+<th>T3</th>
+<th>T4.1</th>
+<th>T4.2</th>
+<th>T4.3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>2</td>
+<td>Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>4</td>
+<td>Mecanismo de dirección para tractores rápidos</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>5</td>
+<td>Mecanismo de dirección</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>6</td>
+<td>Indicador de velocidad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cristales</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
+<td>7</td>
+<td>Campo de visión y limpiaparabrisas</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
+<td>8</td>
+<td>Cristales</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>9</td>
+<td>Retrovisores</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
+<td>10</td>
+<td>Sistemas de información al conductor</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>13</td>
+<td>Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>15</td>
+<td>Compatibilidad electromagnética</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>16</td>
+<td>Aparato productor de señales acústicas</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Sistemas de calefacción</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">N.º</p>
+<p>N.º</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">Acto Reglamentario (*) (H)</td>
-<td class="cuerpo_tabla_centro" colspan="6">Homologación individual</td>
+<td rowspan="2">Acto Reglamentario (*) (H)</td>
+<td colspan="6">Homologación individual</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">T1</td>
-<td class="cuerpo_tabla_centro">T2</td>
-<td class="cuerpo_tabla_centro">T3</td>
-<td class="cuerpo_tabla_centro">T4.1</td>
-<td class="cuerpo_tabla_centro">T4.2</td>
-<td class="cuerpo_tabla_centro">T4.3</td>
+<td>T1</td>
+<td>T2</td>
+<td>T3</td>
+<td>T4.1</td>
+<td>T4.2</td>
+<td>T4.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Masas de lastre</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>23</td>
+<td>Masas de lastre</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Depósito de combustible</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>25</td>
+<td>Depósito de combustible</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>28</td>
+<td>Plataformas de carga</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>29</td>
+<td>Riesgos debidos a los dispositivos de remolque</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
+<td>31</td>
+<td>Sistemas antiproyección</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+<p>(a) N/A</p>
+<p>(b) B (4) (6)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+<p>(a) N/A</p>
+<p>(b) B (4) (6)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+<p>(a) N/A</p>
+<p>(b) B (4) (6)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+<p>(a) N/A</p>
+<p>(b) B (4) (6)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B (4) (6)</p>
+<p>(a) N/A</p>
+<p>(b) B (4) (6)</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) B (4) (6)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Marcha atrás</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>32</td>
+<td>Marcha atrás</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_izq">ROPS</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>35</td>
+<td>ROPS</td>
+<td>C (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>37</td>
+<td>ROPS Pruebas estáticas</td>
+<td>C (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">38</td>
-<td class="cuerpo_tabla_izq">ROPS, montados delante (tractores de vía estrecha)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>38</td>
+<td>ROPS, montados delante (tractores de vía estrecha)</td>
+<td>N/A</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">39</td>
-<td class="cuerpo_tabla_izq">ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>39</td>
+<td>ROPS, montado en la parte trasera (tractores de vía estrecha)</td>
+<td>N/A</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>40</td>
+<td>FOPS, estructuras de protección contra la caída de objetos</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>41</td>
+<td>Asientos de pasajeros</td>
+<td>C</td>
+<td>N/A</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>42</td>
+<td>Exposición del conductor al nivel de ruido</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Asiento del conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>43</td>
+<td>Asiento del conductor</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N.º</td>
-<td class="cuerpo_tabla_izq" rowspan="2">Acto Reglamentario (*) (H)</td>
-<td class="cuerpo_tabla_centro" colspan="6">Homologación individual</td>
+<td rowspan="2">N.º</td>
+<td rowspan="2">Acto Reglamentario (*) (H)</td>
+<td colspan="6">Homologación individual</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">T1</td>
-<td class="cuerpo_tabla_centro">T2</td>
-<td class="cuerpo_tabla_centro">T3</td>
-<td class="cuerpo_tabla_centro">T4.1</td>
-<td class="cuerpo_tabla_centro">T4.2</td>
-<td class="cuerpo_tabla_centro">T4.3</td>
+<td>T1</td>
+<td>T2</td>
+<td>T3</td>
+<td>T4.1</td>
+<td>T4.2</td>
+<td>T4.3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>44</td>
+<td>Campo de maniobra y acceso al puesto del conductor</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>45</td>
+<td>Tomas de fuerza</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>46</td>
+<td>Protección de los elementos motores,</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>47</td>
+<td>Anclajes de los cinturones de seguridad</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>48</td>
+<td>Cinturones de seguridad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>49</td>
+<td>OPS, estructuras contra la penetración de objetos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Sistema de escape</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>50</td>
+<td>Sistema de escape</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>52</td>
+<td>Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Materiales y productos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>56</td>
+<td>Materiales y productos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq">Baterías</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>57</td>
+<td>Baterías</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Salida de emergencia</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>58</td>
+<td>Salida de emergencia</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>59</td>
+<td>Sistema de ventilación y filtrado de la cabina</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>60</td>
+<td>Índice de combustión del material de la cabina</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>61</td>
+<td>Emisiones contaminantes</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>62</td>
+<td>Nivel sonoro (externo)</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 </tbody>
 </table>
@@ -7922,608 +7904,608 @@ RGV: Reglamento general de vehículos
 
 **Homologación nacional de tipo de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
-<th class="cabeza_tabla" colspan="6">Homologación Nacional de Tipo</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (*) (H)</th>
+<th colspan="6">Homologación Nacional de Tipo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">C1</th>
-<th class="cabeza_tabla">C2</th>
-<th class="cabeza_tabla">C3</th>
-<th class="cabeza_tabla">C4.1</th>
-<th class="cabeza_tabla">C4.2</th>
-<th class="cabeza_tabla">C4.3</th>
+<th>C1</th>
+<th>C2</th>
+<th>C3</th>
+<th>C4.1</th>
+<th>C4.2</th>
+<th>C4.3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>2</td>
+<td>Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>4</td>
+<td>Mecanismo de dirección para tractores rápidos</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>5</td>
+<td>Mecanismo de dirección</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>6</td>
+<td>Indicador de velocidad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cristales</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>7</td>
+<td>Campo de visión y limpiaparabrisas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>8</td>
+<td>Cristales</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
-<td class="cuerpo_tabla_centro">Opcional</td>
-<td class="cuerpo_tabla_centro">Opcional</td>
-<td class="cuerpo_tabla_centro">Opcional</td>
-<td class="cuerpo_tabla_centro">Opcional</td>
-<td class="cuerpo_tabla_centro">Opcional</td>
-<td class="cuerpo_tabla_centro">Opcional</td>
+<td>9</td>
+<td>Retrovisores</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>10</td>
+<td>Sistemas de información al conductor</td>
+<td>Opcional</td>
+<td>Opcional</td>
+<td>Opcional</td>
+<td>Opcional</td>
+<td>Opcional</td>
+<td>Opcional</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>13</td>
+<td>Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>15</td>
+<td>Compatibilidad electromagnética</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>16</td>
+<td>Aparato productor de señales acústicas</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>17</td>
+<td>Sistemas de calefacción</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Masas de lastre</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>23</td>
+<td>Masas de lastre</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Depósito de combustible</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>25</td>
+<td>Depósito de combustible</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>28</td>
+<td>Plataformas de carga</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Marcha atrás</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>29</td>
+<td>Riesgos debidos a los dispositivos de remolque</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_izq">Orugas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>32</td>
+<td>Marcha atrás</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>33</td>
+<td>Orugas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_izq">ROPS (tractores de orugas)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>36</td>
+<td>ROPS (tractores de orugas)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>37</td>
+<td>ROPS Pruebas estáticas</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>40</td>
+<td>FOPS, estructuras de protección contra la caída de objetos</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>41</td>
+<td>Asientos de pasajeros</td>
+<td>A</td>
+<td>N/A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Asiento del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>42</td>
+<td>Exposición del conductor al nivel de ruido</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>43</td>
+<td>Asiento del conductor</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>44</td>
+<td>Campo de maniobra y acceso al puesto del conductor</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>45</td>
+<td>Tomas de fuerza</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>46</td>
+<td>Protección de los elementos motores,</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>47</td>
+<td>Anclajes de los cinturones de seguridad</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>48</td>
+<td>Cinturones de seguridad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Sistema de escape</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>49</td>
+<td>OPS, estructuras contra la penetración de objetos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>50</td>
+<td>Sistema de escape</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>52</td>
+<td>Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Materiales y productos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq">Baterías</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>56</td>
+<td>Materiales y productos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Salida de emergencia</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>57</td>
+<td>Baterías</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>58</td>
+<td>Salida de emergencia</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>59</td>
+<td>Sistema de ventilación y filtrado de la cabina</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>60</td>
+<td>Índice de combustión del material de la cabina</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>61</td>
+<td>Emisiones contaminantes</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Nivel sonoro (externo)</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 </tbody>
 </table>
@@ -8532,608 +8514,608 @@ RGV: Reglamento general de vehículos
 
 **Serie corta nacional de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
-<th class="cabeza_tabla" colspan="6">Serie Corta Nacional</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (*) (H)</th>
+<th colspan="6">Serie Corta Nacional</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">C1</th>
-<th class="cabeza_tabla">C2</th>
-<th class="cabeza_tabla">C3</th>
-<th class="cabeza_tabla">C4.1</th>
-<th class="cabeza_tabla">C4.2</th>
-<th class="cabeza_tabla">C4.3</th>
+<th>C1</th>
+<th>C2</th>
+<th>C3</th>
+<th>C4.1</th>
+<th>C4.2</th>
+<th>C4.3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>2</td>
+<td>Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>4</td>
+<td>Mecanismo de dirección para tractores rápidos</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) A</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) A</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
+<p>(a) N/A</p>
+<p>(b) A</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>5</td>
+<td>Mecanismo de dirección</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) A</p>
+<p>(b) N/A</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>6</td>
+<td>Indicador de velocidad</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cristales</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>7</td>
+<td>Campo de visión y limpiaparabrisas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>8</td>
+<td>Cristales</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>9</td>
+<td>Retrovisores</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>10</td>
+<td>Sistemas de información al conductor</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>13</td>
+<td>Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
-<td class="cuerpo_tabla_centro">A (1) (3) (6)</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>15</td>
+<td>Compatibilidad electromagnética</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
+<td>A (1) (3) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
-<td class="cuerpo_tabla_centro">B (8)</td>
+<td>16</td>
+<td>Aparato productor de señales acústicas</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>17</td>
+<td>Sistemas de calefacción</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
+<td>B (8)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Masas de lastre</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>23</td>
+<td>Masas de lastre</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Depósito de combustible</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>25</td>
+<td>Depósito de combustible</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>28</td>
+<td>Plataformas de carga</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Marcha atrás</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>29</td>
+<td>Riesgos debidos a los dispositivos de remolque</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_izq">Orugas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>32</td>
+<td>Marcha atrás</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
-<td class="cuerpo_tabla_centro">X (2) A (4)</td>
+<td>33</td>
+<td>Orugas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_izq">ROPS (tractores de orugas)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
+<td>X (2) A (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>36</td>
+<td>ROPS (tractores de orugas)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>37</td>
+<td>ROPS Pruebas estáticas</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>40</td>
+<td>FOPS, estructuras de protección contra la caída de objetos</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>41</td>
+<td>Asientos de pasajeros</td>
+<td>A</td>
+<td>N/A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Asiento del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>42</td>
+<td>Exposición del conductor al nivel de ruido</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>43</td>
+<td>Asiento del conductor</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>44</td>
+<td>Campo de maniobra y acceso al puesto del conductor</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>45</td>
+<td>Tomas de fuerza</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>46</td>
+<td>Protección de los elementos motores,</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>47</td>
+<td>Anclajes de los cinturones de seguridad</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
-<td class="cuerpo_tabla_centro">A (9)</td>
+<td>48</td>
+<td>Cinturones de seguridad</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Sistema de escape</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>49</td>
+<td>OPS, estructuras contra la penetración de objetos</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
+<td>A (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>50</td>
+<td>Sistema de escape</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>52</td>
+<td>Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Materiales y productos</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq">Baterías</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>56</td>
+<td>Materiales y productos</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Salida de emergencia</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>57</td>
+<td>Baterías</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>58</td>
+<td>Salida de emergencia</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>59</td>
+<td>Sistema de ventilación y filtrado de la cabina</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>60</td>
+<td>Índice de combustión del material de la cabina</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>61</td>
+<td>Emisiones contaminantes</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Nivel sonoro (externo)</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 </tbody>
 </table>
@@ -9142,613 +9124,613 @@ RGV: Reglamento general de vehículos
 
 **Homologación individual de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Acto Reglamentario (*) (H)</th>
-<th class="cabeza_tabla" colspan="6">Homologación Individual</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Acto Reglamentario (*) (H)</th>
+<th colspan="6">Homologación Individual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">C1</th>
-<th class="cabeza_tabla">C2</th>
-<th class="cabeza_tabla">C3</th>
-<th class="cabeza_tabla">C4.1</th>
-<th class="cabeza_tabla">C4.2</th>
-<th class="cabeza_tabla">C4.3</th>
+<th>C1</th>
+<th>C2</th>
+<th>C3</th>
+<th>C4.1</th>
+<th>C4.2</th>
+<th>C4.3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>2</td>
+<td>Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección para tractores rápidos</td>
+<td>4</td>
+<td>Mecanismo de dirección para tractores rápidos</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) B</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Mecanismo de dirección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) B</p>
-<p class="cuerpo_tabla_centro">(b) N/A</p>
+<p>(a) N/A</p>
+<p>(b) B</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_izq">Indicador de velocidad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Campo de visión y limpiaparabrisas</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_izq">Cristales</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
+<td>5</td>
+<td>Mecanismo de dirección</td>
 <td>
-<p class="cuerpo_tabla_izq">(a) N/A</p>
-<p class="cuerpo_tabla_izq">(b) B (4)</p>
+<p>(a) B</p>
+<p>(b) N/A</p>
 </td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-<td class="cuerpo_tabla_centro">B (4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_izq">Sistemas de información al conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-<td class="cuerpo_tabla_centro">B (6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">13</td>
 <td>
-<p class="cuerpo_tabla_izq">Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</p>
+<p>(a) B</p>
+<p>(b) N/A</p>
 </td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
+<td>
+<p>(a) B</p>
+<p>(b) N/A</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>6</td>
+<td>Indicador de velocidad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq">Compatibilidad electromagnética</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
-<td class="cuerpo_tabla_centro">B (1) (6)</td>
+<td>7</td>
+<td>Campo de visión y limpiaparabrisas</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_izq">Aparato productor de señales acústicas</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>8</td>
+<td>Cristales</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">17</td>
-<td class="cuerpo_tabla_izq">Sistemas de calefacción</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>9</td>
+<td>Retrovisores</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) B (4)</p>
+</td>
+<td>B (4)</td>
+<td>B (4)</td>
+<td>B (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>10</td>
+<td>Sistemas de información al conductor</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
+<td>B (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>13</td>
+<td>
+<p>Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo</p>
+</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">23</td>
-<td class="cuerpo_tabla_izq">Masas de lastre</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>15</td>
+<td>Compatibilidad electromagnética</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
+<td>B (1) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>16</td>
+<td>Aparato productor de señales acústicas</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">25</td>
-<td class="cuerpo_tabla_izq">Depósito de combustible</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>17</td>
+<td>Sistemas de calefacción</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">28</td>
-<td class="cuerpo_tabla_izq">Plataformas de carga</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">29</td>
-<td class="cuerpo_tabla_izq">Riesgos debidos a los dispositivos de remolque</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
-<td class="cuerpo_tabla_izq">Marcha atrás</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">33</td>
-<td class="cuerpo_tabla_izq">Orugas</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
-<td class="cuerpo_tabla_centro">B (4) (6)</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_izq">ROPS (tractores de orugas)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>23</td>
+<td>Masas de lastre</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">37</td>
-<td class="cuerpo_tabla_izq">ROPS Pruebas estáticas</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_izq">FOPS, estructuras de protección contra la caída de objetos</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>25</td>
+<td>Depósito de combustible</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_izq">Asientos de pasajeros</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">N/A</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>28</td>
+<td>Plataformas de carga</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">42</td>
-<td class="cuerpo_tabla_izq">Exposición del conductor al nivel de ruido</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>29</td>
+<td>Riesgos debidos a los dispositivos de remolque</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">43</td>
-<td class="cuerpo_tabla_izq">Asiento del conductor</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>32</td>
+<td>Marcha atrás</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_izq">Campo de maniobra y acceso al puesto del conductor</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>33</td>
+<td>Orugas</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_izq">Tomas de fuerza</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
+<td>B (4) (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">46</td>
-<td class="cuerpo_tabla_izq">Protección de los elementos motores,</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>36</td>
+<td>ROPS (tractores de orugas)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">47</td>
-<td class="cuerpo_tabla_izq">Anclajes de los cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
-<td class="cuerpo_tabla_centro">C (9)</td>
+<td>37</td>
+<td>ROPS Pruebas estáticas</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_izq">Cinturones de seguridad</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>40</td>
+<td>FOPS, estructuras de protección contra la caída de objetos</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">49</td>
-<td class="cuerpo_tabla_izq">OPS, estructuras contra la penetración de objetos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>41</td>
+<td>Asientos de pasajeros</td>
+<td>C</td>
+<td>N/A</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_izq">Sistema de escape</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>42</td>
+<td>Exposición del conductor al nivel de ruido</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>43</td>
+<td>Asiento del conductor</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">52</td>
-<td class="cuerpo_tabla_izq">Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>44</td>
+<td>Campo de maniobra y acceso al puesto del conductor</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>45</td>
+<td>Tomas de fuerza</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>46</td>
+<td>Protección de los elementos motores,</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>47</td>
+<td>Anclajes de los cinturones de seguridad</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
+<td>C (9)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">56</td>
-<td class="cuerpo_tabla_izq">Materiales y productos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>48</td>
+<td>Cinturones de seguridad</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">57</td>
-<td class="cuerpo_tabla_izq">Baterías</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>49</td>
+<td>OPS, estructuras contra la penetración de objetos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">58</td>
-<td class="cuerpo_tabla_izq">Salida de emergencia</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>50</td>
+<td>Sistema de escape</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">59</td>
-<td class="cuerpo_tabla_izq">Sistema de ventilación y filtrado de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_izq">Índice de combustión del material de la cabina</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>52</td>
+<td>Controles, incluyendo en particular dispositivos de emergencia y parada automática</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">61</td>
-<td class="cuerpo_tabla_izq">Emisiones contaminantes</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_izq">Nivel sonoro (externo)</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Materiales y productos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Baterías</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Salida de emergencia</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Sistema de ventilación y filtrado de la cabina</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>60</td>
+<td>Índice de combustión del material de la cabina</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>61</td>
+<td>Emisiones contaminantes</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Nivel sonoro (externo)</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 </tbody>
 </table>
@@ -10936,520 +10918,520 @@ Según lo establecido en este apéndice.
 
 **Ficha de características**
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Epígrafe</th>
-<th class="cabeza_tabla" colspan="2">Ficha de características. Tractocarros</th>
+<th>Epígrafe</th>
+<th colspan="2">Ficha de características. Tractocarros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">0</td>
-<td class="cuerpo_tabla_izq" colspan="2">GENERALIDADES</td>
+<td>0</td>
+<td colspan="2">GENERALIDADES</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Marca</td>
+<td>0.1</td>
+<td colspan="2">Marca</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación</td>
+<td>0.2</td>
+<td colspan="2">Identificación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.2.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Tipo</td>
+<td>0.2.1</td>
+<td colspan="2">Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.2.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Variantes</td>
+<td>0.2.2</td>
+<td colspan="2">Variantes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.2.3</td>
-<td class="cuerpo_tabla_izq" colspan="2">Versiones</td>
+<td>0.2.3</td>
+<td colspan="2">Versiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.2.4</td>
-<td class="cuerpo_tabla_izq" colspan="2">Denominación comercial</td>
+<td>0.2.4</td>
+<td colspan="2">Denominación comercial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.3</td>
-<td class="cuerpo_tabla_izq" colspan="2">Clasificación (1): Agrícola / Obras / Servicios</td>
+<td>0.3</td>
+<td colspan="2">Clasificación (1): Agrícola / Obras / Servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.4</td>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del fabricante</td>
+<td>0.4</td>
+<td colspan="2">Nombre y dirección del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.5</td>
-<td class="cuerpo_tabla_izq" colspan="2">Nombre y dirección del representante del fabricante</td>
+<td>0.5</td>
+<td colspan="2">Nombre y dirección del representante del fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.6</td>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias</td>
+<td>0.6</td>
+<td colspan="2">Emplazamiento y modo de colocación de las placas e inscripciones reglamentarias</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.6.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento de la placa del fabricante (2)</td>
+<td>0.6.1</td>
+<td colspan="2">Emplazamiento de la placa del fabricante (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.6.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento del número de identificación del vehículo (3)</td>
+<td>0.6.2</td>
+<td colspan="2">Emplazamiento del número de identificación del vehículo (3)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">0.7</td>
-<td class="cuerpo_tabla_izq" colspan="2">La numeración en la serie del modelo para identificación del vehículo empieza en el número</td>
+<td>0.7</td>
+<td colspan="2">La numeración en la serie del modelo para identificación del vehículo empieza en el número</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1</td>
+<td>1</td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">CONSTITUCIÓN GENERAL</p>
-<p class="cuerpo_tabla_izq">(Adjuntar fotografías, ¾ delantera y ¾ trasera, así como un esquema acotado del conjunto del mismo)</p>
+<p>CONSTITUCIÓN GENERAL</p>
+<p>(Adjuntar fotografías, ¾ delantera y ¾ trasera, así como un esquema acotado del conjunto del mismo)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Número de ejes y ruedas</td>
+<td>1.1</td>
+<td colspan="2">Número de ejes y ruedas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Ruedas motrices</td>
+<td>1.2</td>
+<td colspan="2">Ruedas motrices</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3</td>
-<td class="cuerpo_tabla_izq" colspan="2">Emplazamiento y disposición del motor</td>
+<td>1.3</td>
+<td colspan="2">Emplazamiento y disposición del motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2</td>
-<td class="cuerpo_tabla_izq" colspan="2">DIMENSIONES Y MASAS (mm. y kg.)</td>
+<td>2</td>
+<td colspan="2">DIMENSIONES Y MASAS (mm. y kg.)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1</td>
-<td class="cuerpo_tabla_izq" colspan="2">Distancia entre ejes</td>
+<td>2.1</td>
+<td colspan="2">Distancia entre ejes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2</td>
-<td class="cuerpo_tabla_izq" colspan="2">Ancho de vía en cada eje</td>
+<td>2.2</td>
+<td colspan="2">Ancho de vía en cada eje</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3</td>
-<td class="cuerpo_tabla_izq">Dimensiones del vehículo</td>
+<td>2.3</td>
+<td>Dimensiones del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.1</td>
-<td class="cuerpo_tabla_izq">Longitudes</td>
+<td>2.3.1</td>
+<td>Longitudes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.1.1</td>
-<td class="cuerpo_tabla_izq">Longitud total</td>
+<td>2.3.1.1</td>
+<td>Longitud total</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.2</td>
-<td class="cuerpo_tabla_izq">Anchuras</td>
+<td>2.3.2</td>
+<td>Anchuras</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.2.1</td>
-<td class="cuerpo_tabla_izq">Anchura total de cabina / carrocería</td>
+<td>2.3.2.1</td>
+<td>Anchura total de cabina / carrocería</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.3</td>
-<td class="cuerpo_tabla_izq">Altura en vacío</td>
+<td>2.3.3</td>
+<td>Altura en vacío</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.3.1</td>
-<td class="cuerpo_tabla_izq">Altura total del vehículo</td>
+<td>2.3.3.1</td>
+<td>Altura total del vehículo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.3.2</td>
-<td class="cuerpo_tabla_izq">Distancia mínima al suelo</td>
+<td>2.3.3.2</td>
+<td>Distancia mínima al suelo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.3.3.3</td>
-<td class="cuerpo_tabla_izq">Ángulos de entrada y salida</td>
+<td>2.3.3.3</td>
+<td>Ángulos de entrada y salida</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.4</td>
-<td class="cuerpo_tabla_izq">Tara (4)</td>
+<td>2.4</td>
+<td>Tara (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.5</td>
-<td class="cuerpo_tabla_izq">Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor de estima en 75 kg.) (4)</td>
+<td>2.5</td>
+<td>Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor de estima en 75 kg.) (4)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.5.1</td>
-<td class="cuerpo_tabla_izq">Reparto de esta masa entre los ejes</td>
+<td>2.5.1</td>
+<td>Reparto de esta masa entre los ejes</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.6</td>
-<td class="cuerpo_tabla_izq">Masas máximas técnicamente admisibles declaradas por el fabricante</td>
+<td>2.6</td>
+<td>Masas máximas técnicamente admisibles declaradas por el fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.6.1</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga técnicamente admisible declarada por el fabricante</td>
+<td>2.6.1</td>
+<td>Masa máxima en carga técnicamente admisible declarada por el fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.6.2</td>
-<td class="cuerpo_tabla_izq">Masa en el primer eje</td>
+<td>2.6.2</td>
+<td>Masa en el primer eje</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.6.3</td>
-<td class="cuerpo_tabla_izq">Masa en el segundo eje</td>
+<td>2.6.3</td>
+<td>Masa en el segundo eje</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.7</td>
-<td class="cuerpo_tabla_izq">Masa máxima remolcable.</td>
+<td>2.7</td>
+<td>Masa máxima remolcable.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.7.1</td>
-<td class="cuerpo_tabla_izq">Remolque sin frenos</td>
+<td>2.7.1</td>
+<td>Remolque sin frenos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.7.2</td>
-<td class="cuerpo_tabla_izq">Remolque con frenos</td>
+<td>2.7.2</td>
+<td>Remolque con frenos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.8</td>
-<td class="cuerpo_tabla_izq">Masa Máxima Autorizada (M.M.A.)</td>
+<td>2.8</td>
+<td>Masa Máxima Autorizada (M.M.A.)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3</td>
-<td class="cuerpo_tabla_izq">MOTOR</td>
+<td>3</td>
+<td>MOTOR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1</td>
-<td class="cuerpo_tabla_izq">Marca y fabricante</td>
+<td>3.1</td>
+<td>Marca y fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2</td>
-<td class="cuerpo_tabla_izq">Modelo</td>
+<td>3.2</td>
+<td>Modelo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.3</td>
-<td class="cuerpo_tabla_izq">Tipo y ciclo</td>
+<td>3.3</td>
+<td>Tipo y ciclo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.4</td>
-<td class="cuerpo_tabla_izq">Número y disposición de los cilindros</td>
+<td>3.4</td>
+<td>Número y disposición de los cilindros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.5</td>
-<td class="cuerpo_tabla_izq">Diámetro, carrera y cilindrada</td>
+<td>3.5</td>
+<td>Diámetro, carrera y cilindrada</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.6</td>
-<td class="cuerpo_tabla_izq">Potencia nominal del motor:......... kW a:......... min<sup>-1</sup> con ajuste de serie</td>
+<td>3.6</td>
+<td>Potencia nominal del motor:......... kW a:......... min<sup>-1</sup> con ajuste de serie</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.6.1</td>
-<td class="cuerpo_tabla_izq">Número de homologación de contaminantes del motor (Fase de emisiones)</td>
+<td>3.6.1</td>
+<td>Número de homologación de contaminantes del motor (Fase de emisiones)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.6.2</td>
-<td class="cuerpo_tabla_izq">Potencia fiscal (CVF)</td>
+<td>3.6.2</td>
+<td>Potencia fiscal (CVF)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.7</td>
-<td class="cuerpo_tabla_izq">Carburante o combustible normalmente utilizado</td>
+<td>3.7</td>
+<td>Carburante o combustible normalmente utilizado</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.8</td>
-<td class="cuerpo_tabla_izq">Situación y capacidad del depósito de combustible</td>
+<td>3.8</td>
+<td>Situación y capacidad del depósito de combustible</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.9</td>
-<td class="cuerpo_tabla_izq">Alimentación del motor</td>
+<td>3.9</td>
+<td>Alimentación del motor</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.10</td>
-<td class="cuerpo_tabla_izq">Instalación eléctrica a …. v.</td>
+<td>3.10</td>
+<td>Instalación eléctrica a …. v.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.10.1</td>
-<td class="cuerpo_tabla_izq">… baterías de … v.</td>
+<td>3.10.1</td>
+<td>… baterías de … v.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.10.2</td>
-<td class="cuerpo_tabla_izq">Alternador</td>
+<td>3.10.2</td>
+<td>Alternador</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.11</td>
-<td class="cuerpo_tabla_izq">Refrigeración</td>
+<td>3.11</td>
+<td>Refrigeración</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.12</td>
-<td class="cuerpo_tabla_izq">Silenciador</td>
+<td>3.12</td>
+<td>Silenciador</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4</td>
+<td>4</td>
 <td>
-<p class="cuerpo_tabla_izq">TRANSMISIÓN</p>
-<p class="cuerpo_tabla_izq">(adjuntar esquema de la transmisión de todas las variantes previstas)</p>
+<p>TRANSMISIÓN</p>
+<p>(adjuntar esquema de la transmisión de todas las variantes previstas)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1</td>
-<td class="cuerpo_tabla_izq">Tipo de transmisión</td>
+<td>4.1</td>
+<td>Tipo de transmisión</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2</td>
-<td class="cuerpo_tabla_izq">Embrague:</td>
+<td>4.2</td>
+<td>Embrague:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2.1</td>
-<td class="cuerpo_tabla_izq">Tipo:</td>
+<td>4.2.1</td>
+<td>Tipo:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3</td>
-<td class="cuerpo_tabla_izq">Caja de cambio</td>
+<td>4.3</td>
+<td>Caja de cambio</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3.1</td>
-<td class="cuerpo_tabla_izq">Marca y modelo:</td>
+<td>4.3.1</td>
+<td>Marca y modelo:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3.2</td>
-<td class="cuerpo_tabla_izq">Tipo de caja y mando:</td>
+<td>4.3.2</td>
+<td>Tipo de caja y mando:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.3.3</td>
-<td class="cuerpo_tabla_izq">Marchas:</td>
+<td>4.3.3</td>
+<td>Marchas:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.4</td>
+<td>4.4</td>
 <td>
-<p class="cuerpo_tabla_izq">Grupo diferencial</p>
-<p class="cuerpo_tabla_izq">Relación del par cónico:</p>
-<p class="cuerpo_tabla_izq">Bloqueo del diferencial:</p>
+<p>Grupo diferencial</p>
+<p>Relación del par cónico:</p>
+<p>Bloqueo del diferencial:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.5</td>
-<td class="cuerpo_tabla_izq">Desmultiplicación de la transmisión</td>
+<td>4.5</td>
+<td>Desmultiplicación de la transmisión</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.6</td>
-<td class="cuerpo_tabla_izq">Velocidad del vehículo en km/h, correspondiente al régimen nominal del motor, con los neumáticos definidos en el apartado 5.1</td>
+<td>4.6</td>
+<td>Velocidad del vehículo en km/h, correspondiente al régimen nominal del motor, con los neumáticos definidos en el apartado 5.1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.7</td>
-<td class="cuerpo_tabla_izq">Velocidad teórica máxima:</td>
+<td>4.7</td>
+<td>Velocidad teórica máxima:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5</td>
-<td class="cuerpo_tabla_izq">ÓRGANOS DE SUSPENSIÓN</td>
+<td>5</td>
+<td>ÓRGANOS DE SUSPENSIÓN</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1</td>
-<td class="cuerpo_tabla_izq">Neumáticos (serie y opcionales)</td>
+<td>5.1</td>
+<td>Neumáticos (serie y opcionales)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.1</td>
-<td class="cuerpo_tabla_izq">Dimensiones</td>
+<td>5.1.1</td>
+<td>Dimensiones</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.2</td>
-<td class="cuerpo_tabla_izq">Índice de capacidad de carga mínima</td>
+<td>5.1.2</td>
+<td>Índice de capacidad de carga mínima</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1.3</td>
-<td class="cuerpo_tabla_izq">Índice mínimo de velocidad</td>
+<td>5.1.3</td>
+<td>Índice mínimo de velocidad</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2</td>
-<td class="cuerpo_tabla_izq">Tipo de suspensión (si existe) para cada eje o rueda (adjuntar esquema)</td>
+<td>5.2</td>
+<td>Tipo de suspensión (si existe) para cada eje o rueda (adjuntar esquema)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6</td>
+<td>6</td>
 <td>
-<p class="cuerpo_tabla_izq">DIRECCIÓN</p>
-<p class="cuerpo_tabla_izq">(Adjuntar esquema)</p>
+<p>DIRECCIÓN</p>
+<p>(Adjuntar esquema)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1</td>
-<td class="cuerpo_tabla_izq">Dirección</td>
+<td>6.1</td>
+<td>Dirección</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1.1</td>
-<td class="cuerpo_tabla_izq">Tipo</td>
+<td>6.1.1</td>
+<td>Tipo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1.2</td>
-<td class="cuerpo_tabla_izq">Diámetro del volante:</td>
+<td>6.1.2</td>
+<td>Diámetro del volante:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1.3</td>
-<td class="cuerpo_tabla_izq">Mecanismo, Tipo:</td>
+<td>6.1.3</td>
+<td>Mecanismo, Tipo:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1.4</td>
-<td class="cuerpo_tabla_izq">Número de vueltas del volante / ángulo de giro máximo de rueda</td>
+<td>6.1.4</td>
+<td>Número de vueltas del volante / ángulo de giro máximo de rueda</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2</td>
-<td class="cuerpo_tabla_izq">Radio mínimo del espacio de giro (5)</td>
+<td>6.2</td>
+<td>Radio mínimo del espacio de giro (5)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2.1</td>
-<td class="cuerpo_tabla_izq">A la derecha:</td>
+<td>6.2.1</td>
+<td>A la derecha:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2.2</td>
-<td class="cuerpo_tabla_izq">A la izquierda:</td>
+<td>6.2.2</td>
+<td>A la izquierda:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7</td>
+<td>7</td>
 <td>
-<p class="cuerpo_tabla_izq">FRENADO</p>
-<p class="cuerpo_tabla_izq">(Adjuntar esquema del cinematismo y de los principales elementos frenantes: tambor, zapatas, discos, etc.)</p>
+<p>FRENADO</p>
+<p>(Adjuntar esquema del cinematismo y de los principales elementos frenantes: tambor, zapatas, discos, etc.)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1</td>
-<td class="cuerpo_tabla_izq">Freno de servicio (8)</td>
+<td>7.1</td>
+<td>Freno de servicio (8)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1.1</td>
-<td class="cuerpo_tabla_izq">Tipo de actuación y circuito</td>
+<td>7.1.1</td>
+<td>Tipo de actuación y circuito</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1.2</td>
-<td class="cuerpo_tabla_izq">Calculo de los frenos de servicio</td>
+<td>7.1.2</td>
+<td>Calculo de los frenos de servicio</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1.3</td>
-<td class="cuerpo_tabla_izq">Superficie de frenado: cm<sup>2</sup></td>
+<td>7.1.3</td>
+<td>Superficie de frenado: cm<sup>2</sup></td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.2</td>
-<td class="cuerpo_tabla_izq">Freno de socorro</td>
+<td>7.2</td>
+<td>Freno de socorro</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.3</td>
-<td class="cuerpo_tabla_izq">Freno de estacionamiento</td>
+<td>7.3</td>
+<td>Freno de estacionamiento</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.4</td>
-<td class="cuerpo_tabla_izq">Dispositivo para el frenado de remolque</td>
+<td>7.4</td>
+<td>Dispositivo para el frenado de remolque</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.4.1</td>
-<td class="cuerpo_tabla_izq">Descripción y características</td>
+<td>7.4.1</td>
+<td>Descripción y características</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.5</td>
-<td class="cuerpo_tabla_izq">Fuentes de energía, si existe (características)</td>
+<td>7.5</td>
+<td>Fuentes de energía, si existe (características)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8</td>
-<td class="cuerpo_tabla_izq">PUESTO DEL CONDUCTOR</td>
+<td>8</td>
+<td>PUESTO DEL CONDUCTOR</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8.1</td>
-<td class="cuerpo_tabla_izq">Descripción general</td>
+<td>8.1</td>
+<td>Descripción general</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8.2</td>
-<td class="cuerpo_tabla_izq">Retrovisores</td>
+<td>8.2</td>
+<td>Retrovisores</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8.3</td>
-<td class="cuerpo_tabla_izq">N.º de asientos</td>
+<td>8.3</td>
+<td>N.º de asientos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8.4</td>
-<td class="cuerpo_tabla_izq">Instrumentación</td>
+<td>8.4</td>
+<td>Instrumentación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8.5</td>
-<td class="cuerpo_tabla_izq">Mandos</td>
+<td>8.5</td>
+<td>Mandos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9</td>
-<td class="cuerpo_tabla_izq">CABINA</td>
+<td>9</td>
+<td>CABINA</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.1</td>
-<td class="cuerpo_tabla_izq">Tipo y modelo</td>
+<td>9.1</td>
+<td>Tipo y modelo</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.2</td>
-<td class="cuerpo_tabla_izq">Puertas: número</td>
+<td>9.2</td>
+<td>Puertas: número</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.3</td>
-<td class="cuerpo_tabla_izq">Campo de visión directa</td>
+<td>9.3</td>
+<td>Campo de visión directa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.4</td>
-<td class="cuerpo_tabla_izq">Parabrisas y otros vidrios</td>
+<td>9.4</td>
+<td>Parabrisas y otros vidrios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.5</td>
-<td class="cuerpo_tabla_izq">Limpiaparabrisas: n.º de escobillas</td>
+<td>9.5</td>
+<td>Limpiaparabrisas: n.º de escobillas</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.6</td>
-<td class="cuerpo_tabla_izq">Lavaparabrisas: n.º de surtidores</td>
+<td>9.6</td>
+<td>Lavaparabrisas: n.º de surtidores</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10</td>
+<td>10</td>
 <td>
-<p class="cuerpo_tabla_izq">DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</p>
-<p class="cuerpo_tabla_izq">(Adjuntar esquema exterior de la máquina con el emplazamiento acotado de su instalación)</p>
+<p>DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA</p>
+<p>(Adjuntar esquema exterior de la máquina con el emplazamiento acotado de su instalación)</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10.1</td>
-<td class="cuerpo_tabla_izq">Dispositivos obligatorios (Número, color y número de homologación)</td>
+<td>10.1</td>
+<td>Dispositivos obligatorios (Número, color y número de homologación)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10.2</td>
-<td class="cuerpo_tabla_izq">Dispositivos facultativos (Número, color y número de homologación)</td>
+<td>10.2</td>
+<td>Dispositivos facultativos (Número, color y número de homologación)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11</td>
-<td class="cuerpo_tabla_izq">VARIOS</td>
+<td>11</td>
+<td>VARIOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.1</td>
-<td class="cuerpo_tabla_izq">Avisadores acústicos</td>
+<td>11.1</td>
+<td>Avisadores acústicos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2</td>
-<td class="cuerpo_tabla_izq">Dispositivo de enganche del remolque (6)</td>
+<td>11.2</td>
+<td>Dispositivo de enganche del remolque (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2.1</td>
-<td class="cuerpo_tabla_izq">Boca de enganche</td>
+<td>11.2.1</td>
+<td>Boca de enganche</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2.1.1</td>
-<td class="cuerpo_tabla_izq">Medidas principales</td>
+<td>11.2.1.1</td>
+<td>Medidas principales</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2.1.2</td>
-<td class="cuerpo_tabla_izq">Material</td>
+<td>11.2.1.2</td>
+<td>Material</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2.2</td>
-<td class="cuerpo_tabla_izq">Cargas máximas técnicamente admisibles declaradas por el fabricante</td>
+<td>11.2.2</td>
+<td>Cargas máximas técnicamente admisibles declaradas por el fabricante</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2.2.1</td>
-<td class="cuerpo_tabla_izq">Carga vertical</td>
+<td>11.2.2.1</td>
+<td>Carga vertical</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2.2.2</td>
-<td class="cuerpo_tabla_izq">Carga horizontal</td>
+<td>11.2.2.2</td>
+<td>Carga horizontal</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.3</td>
-<td class="cuerpo_tabla_izq">Toma de corriente para alimentación de los dispositivos de alumbrado, señalización luminosa y servicio del remolque (7)</td>
+<td>11.3</td>
+<td>Toma de corriente para alimentación de los dispositivos de alumbrado, señalización luminosa y servicio del remolque (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.4</td>
-<td class="cuerpo_tabla_izq">Emplazamiento de la placa de matrícula trasera</td>
+<td>11.4</td>
+<td>Emplazamiento de la placa de matrícula trasera</td>
 </tr>
 </tbody>
 </table>
@@ -12055,408 +12037,408 @@ Homologación Nacional de Tipo
 
 (Remolques especiales)
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
-<th class="cabeza_tabla" colspan="4">Homologación Nacional de Tipo</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Asunto (*) (H)</th>
+<th colspan="4">Homologación Nacional de Tipo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">R1</th>
-<th class="cabeza_tabla">R2</th>
-<th class="cabeza_tabla">R3</th>
-<th class="cabeza_tabla">R4</th>
+<th>R1</th>
+<th>R2</th>
+<th>R3</th>
+<th>R4</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">A (7)</td>
-<td class="cuerpo_tabla_centro">A (7)</td>
-<td class="cuerpo_tabla_centro">A (7)</td>
-<td class="cuerpo_tabla_centro">A (7)</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>A (7)</td>
+<td>A (7)</td>
+<td>A (7)</td>
+<td>A (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">Estructuras de protección trasera</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>26</td>
+<td>Estructuras de protección trasera</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">Protección lateral</td>
+<td>27</td>
+<td>Protección lateral</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>A (6)</td>
+<td>A (6)</td>
+<td>A (6)</td>
+<td>A (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>31</td>
+<td>Sistemas antiproyección</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>A (2)(4)(6)(7)</td>
+<td>A (2)(4)(6)(7)</td>
+<td>A (2)(4)(6)(7)</td>
+<td>A (2)(4)(6)(7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 </tbody>
 </table>
 
 Homologación Individual
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
-<th class="cabeza_tabla" colspan="4">Homologación Individual</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Asunto (*) (H)</th>
+<th colspan="4">Homologación Individual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">R1</th>
-<th class="cabeza_tabla">R2</th>
-<th class="cabeza_tabla">R3</th>
-<th class="cabeza_tabla">R4</th>
+<th>R1</th>
+<th>R2</th>
+<th>R3</th>
+<th>R4</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>11</td>
+<td>Instalación de dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización n o autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización n o autorizada</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">B (7)</td>
-<td class="cuerpo_tabla_centro">B (7)</td>
-<td class="cuerpo_tabla_centro">B (7)</td>
-<td class="cuerpo_tabla_centro">B (7)</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>B (7)</td>
+<td>B (7)</td>
+<td>B (7)</td>
+<td>B (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_izq">Estructuras de protección trasera</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>26</td>
+<td>Estructuras de protección trasera</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_izq">Protección lateral</td>
+<td>27</td>
+<td>Protección lateral</td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">31</td>
-<td class="cuerpo_tabla_izq">Sistemas antiproyección</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">(a) N/A</p>
-<p class="cuerpo_tabla_centro">(b) C</p>
+<p>(a) N/A</p>
+<p>(b) C</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34c</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6) (7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6) (7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6) (7)</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>A (6)</td>
+<td>A (6)</td>
+<td>A (6)</td>
+<td>A (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>31</td>
+<td>Sistemas antiproyección</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
+<td>
+<p>(a) N/A</p>
+<p>(b) C</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>34c</td>
+<td>Enganches mecánicos</td>
+<td>A (2)(4)(6)(7)</td>
+<td>A (2)(4)(6) (7)</td>
+<td>A (2)(4)(6) (7)</td>
+<td>A (2)(4)(6) (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
+<td>C</td>
 </tr>
 </tbody>
 </table>
@@ -12869,240 +12851,240 @@ Homologación Nacional de Tipo
 
 (Máquinas remolcadas)
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">N.º</th>
-<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
-<th class="cabeza_tabla" colspan="2">Homologación Nacional de Tipo</th>
+<th rowspan="2">N.º</th>
+<th rowspan="2">Asunto (*) (H)</th>
+<th colspan="2">Homologación Nacional de Tipo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">S1</th>
-<th class="cabeza_tabla">S2</th>
+<th>S1</th>
+<th>S2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">A (7)</td>
-<td class="cuerpo_tabla_centro">A (7)</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>A (7)</td>
+<td>A (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">A</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>A</td>
+<td>A</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>A (6)</td>
+<td>A (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
-<td class="cuerpo_tabla_centro">A (2)(4)(6)(7)</td>
+<td>34</td>
+<td>Enganches mecánicos</td>
+<td>A (2)(4)(6)(7)</td>
+<td>A (2)(4)(6)(7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
 </tr>
 </tbody>
 </table>
 
 Homologación Individual
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2"> </th>
-<th class="cabeza_tabla" rowspan="2">Asunto (*) (H)</th>
-<th class="cabeza_tabla" colspan="2">Homologación individual</th>
+<th rowspan="2"> </th>
+<th rowspan="2">Asunto (*) (H)</th>
+<th colspan="2">Homologación individual</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">S1</th>
-<th class="cabeza_tabla">S2</th>
+<th>S1</th>
+<th>S2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Integridad de la estructura del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>1</td>
+<td>Integridad de la estructura del vehículo</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>3</td>
+<td>Dispositivos de frenado y acoplamiento de los frenos con remolques</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">11</td>
-<td class="cuerpo_tabla_izq">Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
-<td class="cuerpo_tabla_centro">X (2)</td>
+<td>11</td>
+<td>Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz</td>
+<td>X (2)</td>
+<td>X (2)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_izq">Instalación de dispositivos de alumbrado</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>12</td>
+<td>Instalación de dispositivos de alumbrado</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_izq">Exterior del vehículo y sus accesorios</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>14</td>
+<td>Exterior del vehículo y sus accesorios</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_izq">Dispositivos de protección contra la utilización no autorizada</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>18</td>
+<td>Dispositivos de protección contra la utilización no autorizada</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_izq">Placa de matrícula</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>19</td>
+<td>Placa de matrícula</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Placa y marcado reglamentarios</td>
-<td class="cuerpo_tabla_centro">B (7)</td>
-<td class="cuerpo_tabla_centro">B (7)</td>
+<td>20</td>
+<td>Placa y marcado reglamentarios</td>
+<td>B (7)</td>
+<td>B (7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">21</td>
-<td class="cuerpo_tabla_izq">Dimensiones y masa remolcable</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>21</td>
+<td>Dimensiones y masa remolcable</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_izq">Masa máxima en carga</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>22</td>
+<td>Masa máxima en carga</td>
+<td>B</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_izq">Seguridad de los sistemas eléctricos</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>24</td>
+<td>Seguridad de los sistemas eléctricos</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq">Neumáticos</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
-<td class="cuerpo_tabla_centro">A (6)</td>
+<td>30</td>
+<td>Neumáticos</td>
+<td>A (6)</td>
+<td>A (6)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">34</td>
-<td class="cuerpo_tabla_izq">Enganches mecánicos</td>
-<td class="cuerpo_tabla_centro">B (2)(4)(6)(7)</td>
-<td class="cuerpo_tabla_centro">B (2)(4)(6)(7)</td>
+<td>34</td>
+<td>Enganches mecánicos</td>
+<td>B (2)(4)(6)(7)</td>
+<td>B (2)(4)(6)(7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">51</td>
-<td class="cuerpo_tabla_izq">Manual de utilización</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>51</td>
+<td>Manual de utilización</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">53</td>
-<td class="cuerpo_tabla_izq">Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>53</td>
+<td>Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">54</td>
-<td class="cuerpo_tabla_izq">Resguardos y dispositivos de protección</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>54</td>
+<td>Resguardos y dispositivos de protección</td>
+<td>C</td>
+<td>C</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_izq">Información, señales de advertencia y marcas</td>
-<td class="cuerpo_tabla_centro">C</td>
-<td class="cuerpo_tabla_centro">C</td>
+<td>55</td>
+<td>Información, señales de advertencia y marcas</td>
+<td>C</td>
+<td>C</td>
 </tr>
 </tbody>
 </table>
@@ -13259,88 +13241,88 @@ Todas las tarjetas estarán impresas y fondeadas en tinta azul, con sus correspo
 
 1.2 Campo de aplicación y organismos de emisión.
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Tipo de Certificado</th>
-<th class="cabeza_tabla">Categorías de vehículos</th>
+<th>Tipo de Certificado</th>
+<th>Categorías de vehículos</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">EXTENDIDA POR LOS ÓRGANOS COMPETENTES DE LA ADMINISTRACIÓN PARA VEHÍCULOS COMPLETOS O COMPLETADOS</td>
+<td colspan="2">EXTENDIDA POR LOS ÓRGANOS COMPETENTES DE LA ADMINISTRACIÓN PARA VEHÍCULOS COMPLETOS O COMPLETADOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A</td>
-<td class="cuerpo_tabla_izq">Vehículos completos / completados de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L.</td>
+<td>A</td>
+<td>Vehículos completos / completados de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AT</td>
-<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obras y servicios completos ‒ completados distintos de los remolques o máquinas remolcadas agrícolas o de obras y servicios</td>
+<td>AT</td>
+<td>Vehículos agrícolas y de obras y servicios completos ‒ completados distintos de los remolques o máquinas remolcadas agrícolas o de obras y servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AR</td>
-<td class="cuerpo_tabla_izq">Remolques agrícolas o de obras y servicios/máquinas remolcadas agrícolas o de obras y servicios</td>
+<td>AR</td>
+<td>Remolques agrícolas o de obras y servicios/máquinas remolcadas agrícolas o de obras y servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AL</td>
-<td class="cuerpo_tabla_izq">Vehículos completados de categoría L</td>
+<td>AL</td>
+<td>Vehículos completados de categoría L</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">EXTENDIDAS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS DE TIPOS COMPLETOS</td>
+<td colspan="2">EXTENDIDAS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS DE TIPOS COMPLETOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">B</td>
-<td class="cuerpo_tabla_izq">Vehículos completos de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L</td>
+<td>B</td>
+<td>Vehículos completos de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BT</td>
-<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obras y servicios completos distintos de los remolques o máquinas remolcadas agrícolas o de obras y servicios</td>
+<td>BT</td>
+<td>Vehículos agrícolas y de obras y servicios completos distintos de los remolques o máquinas remolcadas agrícolas o de obras y servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BL</td>
-<td class="cuerpo_tabla_izq">Vehículos completos de categoría L</td>
+<td>BL</td>
+<td>Vehículos completos de categoría L</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">EXTENDIDOS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS HOMOLOGADOS DE TIPOS INCOMPLETOS</td>
+<td colspan="2">EXTENDIDOS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS HOMOLOGADOS DE TIPOS INCOMPLETOS</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">C</td>
-<td class="cuerpo_tabla_izq">Vehículos incompletos de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L</td>
+<td>C</td>
+<td>Vehículos incompletos de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CT</td>
-<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obra y servicios incompletos distintos de los remolques o máquinas agrícolas o de obras y servicios</td>
+<td>CT</td>
+<td>Vehículos agrícolas y de obra y servicios incompletos distintos de los remolques o máquinas agrícolas o de obras y servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CR</td>
-<td class="cuerpo_tabla_izq">Remolques incompletos agrícolas o de obras y servicios</td>
+<td>CR</td>
+<td>Remolques incompletos agrícolas o de obras y servicios</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CL</td>
-<td class="cuerpo_tabla_izq">Vehículos incompletos de categoría L</td>
+<td>CL</td>
+<td>Vehículos incompletos de categoría L</td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">EXTENDIDAS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS HOMOLOGADOS DE TIPO COMPLETADOS</p>
-<p class="cuerpo_tabla_izq">Dentro de la definición de completados se incluye la última fase de la homologación individual solicitada por un fabricante, a condición que dispongan de todos los actos reglamentarios para dicha homologación y cumpla con los requisitos de conformidad de la producción de dichos actos reglamentarios.</p>
+<p>EXTENDIDAS POR LOS FABRICANTES DE VEHÍCULOS, EXCLUSIVAMENTE PARA VEHÍCULOS HOMOLOGADOS DE TIPO COMPLETADOS</p>
+<p>Dentro de la definición de completados se incluye la última fase de la homologación individual solicitada por un fabricante, a condición que dispongan de todos los actos reglamentarios para dicha homologación y cumpla con los requisitos de conformidad de la producción de dichos actos reglamentarios.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">D</td>
-<td class="cuerpo_tabla_izq">Vehículos completados de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L.</td>
+<td>D</td>
+<td>Vehículos completados de las categorías M, N y O distintos de los agrícolas, de obras y servicios y los de categoría L.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DT</td>
-<td class="cuerpo_tabla_izq">Vehículos agrícolas y de obras y servicios completados distintos de los remolques o máquinas agrícolas o de obras y servicios.</td>
+<td>DT</td>
+<td>Vehículos agrícolas y de obras y servicios completados distintos de los remolques o máquinas agrícolas o de obras y servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DR</td>
-<td class="cuerpo_tabla_izq">Remolques completados agrícolas o de obras y servicios.</td>
+<td>DR</td>
+<td>Remolques completados agrícolas o de obras y servicios.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DL</td>
-<td class="cuerpo_tabla_izq">Vehículos completados de categoría L.</td>
+<td>DL</td>
+<td>Vehículos completados de categoría L.</td>
 </tr>
 </tbody>
 </table>

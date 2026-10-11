@@ -1168,243 +1168,238 @@ Son sujetos pasivos de la tasa las personas físicas o jurídicas, así como las
 
 La tasa se exigirá de acuerdo con la siguiente tarifa:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Sanidad animal</td>
-<td class="cuerpo_tabla_centro">Euro/muestra o determinación</td>
+<td colspan="2">Sanidad animal</td>
+<td>Euro/muestra o determinación</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">Técnicas serológicas.</td>
-<td class="cuerpo_tabla_izq">Rosa de Bengala.</td>
-<td class="cuerpo_tabla_coma">1,10</td>
+<td rowspan="3">Técnicas serológicas.</td>
+<td>Rosa de Bengala.</td>
+<td>1,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Fijación del complemento.</td>
-<td class="cuerpo_tabla_coma">1,60</td>
+<td>Fijación del complemento.</td>
+<td>1,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Elisa.</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>Elisa.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Técnicas microbiológicas.</td>
-<td class="cuerpo_tabla_izq">Aislamiento de Salmonella.</td>
-<td class="cuerpo_tabla_coma">30</td>
+<td rowspan="2">Técnicas microbiológicas.</td>
+<td>Aislamiento de Salmonella.</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otras.</td>
-<td class="cuerpo_tabla_coma">21</td>
+<td>Otras.</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Técnicas moleculares.</td>
-<td class="cuerpo_tabla_izq">PCR en tiempo real.</td>
-<td class="cuerpo_tabla_coma">13</td>
+<td>Técnicas moleculares.</td>
+<td>PCR en tiempo real.</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="10">Pruebas apícolas.</td>
-<td class="cuerpo_tabla_izq">Determinación de Nosema sp. por microscopía.</td>
-<td class="cuerpo_tabla_coma">3,79</td>
+<td rowspan="10">Pruebas apícolas.</td>
+<td>Determinación de Nosema sp. por microscopía.</td>
+<td>3,79</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Análisis microbiológico de Loque Americana.</td>
-<td class="cuerpo_tabla_coma">4,92</td>
+<td>Análisis microbiológico de Loque Americana.</td>
+<td>4,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Análisis microbiológico de Ascosferosis.</td>
-<td class="cuerpo_tabla_coma">4,92</td>
+<td>Análisis microbiológico de Ascosferosis.</td>
+<td>4,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Análisis microbiológico de Loque Europea.</td>
-<td class="cuerpo_tabla_coma">4,92</td>
+<td>Análisis microbiológico de Loque Europea.</td>
+<td>4,92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación de Varroa.</td>
-<td class="cuerpo_tabla_coma">2,05</td>
+<td>Determinación de Varroa.</td>
+<td>2,05</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación de un virus por Q-PCR.</td>
-<td class="cuerpo_tabla_coma">19,49</td>
+<td>Determinación de un virus por Q-PCR.</td>
+<td>19,49</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación extra de virus por Q-PCR.</td>
-<td class="cuerpo_tabla_coma">7,68</td>
+<td>Determinación extra de virus por Q-PCR.</td>
+<td>7,68</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación de Acarapis por PCR.</td>
-<td class="cuerpo_tabla_coma">13,31</td>
+<td>Determinación de Acarapis por PCR.</td>
+<td>13,31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación de Nosema apis y Nosema ceranae por PCR.</td>
-<td class="cuerpo_tabla_coma">13,83</td>
+<td>Determinación de Nosema apis y Nosema ceranae por PCR.</td>
+<td>13,83</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Determinación de varios patógenos por PCR adicional.</td>
-<td class="cuerpo_tabla_coma">8,19</td>
+<td>Determinación de varios patógenos por PCR adicional.</td>
+<td>8,19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Sanidad vegetal</td>
-<td class="cuerpo_tabla_centro">Euros/muestra</td>
+<td colspan="2">Sanidad vegetal</td>
+<td>Euros/muestra</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Detección mediante aislamiento selectivo en placa.</td>
-<td class="cuerpo_tabla_coma">20</td>
+<td colspan="2">Detección mediante aislamiento selectivo en placa.</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Identificación microscópica.</td>
-<td class="cuerpo_tabla_coma">36</td>
+<td colspan="2">Identificación microscópica.</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Elisa.</td>
-<td class="cuerpo_tabla_coma">14</td>
+<td colspan="2">Elisa.</td>
+<td>14</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">PCR convencional.</td>
-<td class="cuerpo_tabla_coma">31</td>
+<td colspan="2">PCR convencional.</td>
+<td>31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">PCR en tiempo real.</td>
-<td class="cuerpo_tabla_coma">24</td>
+<td colspan="2">PCR en tiempo real.</td>
+<td>24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ensayos sobre semillas</td>
-<td class="cuerpo_tabla_centro">Euros/muestra</td>
+<td colspan="2">Ensayos sobre semillas</td>
+<td>Euros/muestra</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Germinación.</td>
-<td class="cuerpo_tabla_coma">45</td>
+<td colspan="2">Germinación.</td>
+<td>45</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Pureza.</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td colspan="2">Pureza.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Conteo.</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td colspan="2">Conteo.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Técnicas físico-químicas</td>
-<td class="cuerpo_tabla_centro">Euros/muestra</td>
+<td colspan="2">Técnicas físico-químicas</td>
+<td>Euros/muestra</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Técnicas no instrumentales:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td colspan="2"> Técnicas no instrumentales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Extracción con embudo decantación.</td>
-<td class="cuerpo_tabla_coma">11</td>
+<td colspan="2">Extracción con embudo decantación.</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Extracción Soxhlet.</td>
-<td class="cuerpo_tabla_coma">11</td>
+<td colspan="2">Extracción Soxhlet.</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Extracción sólido-líquido.</td>
-<td class="cuerpo_tabla_coma">11</td>
+<td colspan="2">Extracción sólido-líquido.</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mineralización.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td colspan="2">Mineralización.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Gravimetría.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td colspan="2">Gravimetría.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Volumetría.</td>
-<td class="cuerpo_tabla_coma">11</td>
+<td colspan="2">Volumetría.</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Análisis por medición directa (con instrumental sencillo o cálculos aritméticos).</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td colspan="2">Análisis por medición directa (con instrumental sencillo o cálculos aritméticos).</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Técnicas instrumentales:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td colspan="2"> Técnicas instrumentales:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Refractometría.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td colspan="2">Refractometría.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Potenciometría.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td colspan="2">Potenciometría.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Conductimetría.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td colspan="2">Conductimetría.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Microscopia.</td>
-<td class="cuerpo_tabla_coma">36</td>
+<td colspan="2">Microscopia.</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Espectrofotometría UV/Vis.</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td colspan="2">Espectrofotometría UV/Vis.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Espectrofotometría infrarrojo.</td>
-<td class="cuerpo_tabla_coma">15</td>
+<td colspan="2">Espectrofotometría infrarrojo.</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">ICP-MS.</td>
-<td class="cuerpo_tabla_coma">111</td>
+<td colspan="2">ICP-MS.</td>
+<td>111</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">ICP-AES.</td>
-<td class="cuerpo_tabla_coma">102</td>
+<td colspan="2">ICP-AES.</td>
+<td>102</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">GC-MSMS.</td>
-<td class="cuerpo_tabla_coma">111</td>
+<td colspan="2">GC-MSMS.</td>
+<td>111</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">GC-Otro detector.</td>
-<td class="cuerpo_tabla_coma">92</td>
+<td colspan="2">GC-Otro detector.</td>
+<td>92</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">LC-MSMS.</td>
-<td class="cuerpo_tabla_coma">121</td>
+<td colspan="2">LC-MSMS.</td>
+<td>121</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">LC-Otro detector.</td>
-<td class="cuerpo_tabla_coma">101</td>
+<td colspan="2">LC-Otro detector.</td>
+<td>101</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Mercurio por espectrometría de AA con vapor frio.</td>
-<td class="cuerpo_tabla_coma">30</td>
+<td colspan="2">Mercurio por espectrometría de AA con vapor frio.</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Determinaciones completas</td>
-<td class="cuerpo_tabla_centro">Euros/muestra</td>
+<td colspan="2">Determinaciones completas</td>
+<td>Euros/muestra</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Suelos.</td>
-<td class="cuerpo_tabla_izq">Textura, pH, conductividad, humedad, carbonatos totales, caliza activa, nitrógeno total, fosforo, materia orgánica, potasio, relación C/N.</td>
-<td class="cuerpo_tabla_coma">156</td>
+<td>Suelos.</td>
+<td>Textura, pH, conductividad, humedad, carbonatos totales, caliza activa, nitrógeno total, fosforo, materia orgánica, potasio, relación C/N.</td>
+<td>156</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Residuo plaguicidas.</td>
-<td class="cuerpo_tabla_coma">184</td>
+<td colspan="2">Residuo plaguicidas.</td>
+<td>184</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Aceites.</td>
-<td class="cuerpo_tabla_izq">Características calidad (Acidez, ind. Peróxidos, K232, K270, Delta-K, esteres etílicos).</td>
-<td class="cuerpo_tabla_coma">100</td>
+<td rowspan="2">Aceites.</td>
+<td>Características calidad (Acidez, ind. Peróxidos, K232, K270, Delta-K, esteres etílicos).</td>
+<td>100</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Características pureza (Composición ácidos grasos, suma isómeros transoleicos y translinoleicos, estigmastadienos, diferencia ECN 42, composición esteroles, esteroles totales, eritrodiol + uvaol, ceras).</td>
-<td class="cuerpo_tabla_coma">368</td>
+<td>Características pureza (Composición ácidos grasos, suma isómeros transoleicos y translinoleicos, estigmastadienos, diferencia ECN 42, composición esteroles, esteroles totales, eritrodiol + uvaol, ceras).</td>
+<td>368</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cereales.</td>
-<td class="cuerpo_tabla_izq">Humedad, proteína, peso hectolitro, peso 1.000 granos, índice de caída y alveograma.</td>
-<td class="cuerpo_tabla_coma">44</td>
+<td>Cereales.</td>
+<td>Humedad, proteína, peso hectolitro, peso 1.000 granos, índice de caída y alveograma.</td>
+<td>44</td>
 </tr>
 </tbody>
 </table>
@@ -2771,391 +2766,391 @@ e) Grupo V: Locales de inspección de caza y de reses de lidia; otros locales.
 
 Tarifa 1. Por tramitación de la primera inscripción de empresas o establecimientos alimentarios en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Censo Regional de Establecimientos de Alimentación, incluyendo la primera inspección e informe de evaluación:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local en m<sup>2</sup></p>
+<p>Superficie del local en m<sup>2</sup></p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º de trabajadores</p>
+<p>N.º de trabajadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo I</p>
+<p>Grupo I</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo II</p>
+<p>Grupo II</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo III</p>
+<p>Grupo III</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo IV</p>
+<p>Grupo IV</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 15</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Uno</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">36,44</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49,91</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">154,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,21</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Menos de 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 ó 3</p>
+<p>Uno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47,23</p>
+<p>36,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">67,38</p>
+<p>49,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119,76</p>
+<p>84,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224,55</p>
+<p>154,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">57,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">84,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">154,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">294,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 15 a 30</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 3</p>
+<p>2 ó 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">67,96</p>
+<p>47,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">94,85</p>
+<p>67,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">164,69</p>
+<p>119,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">304,38</p>
+<p>224,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4 ó 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">78,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">112,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">199,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">373,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">35,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 5</p>
+<p>Más de 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">89,48</p>
+<p>57,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">129,76</p>
+<p>84,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">234,55</p>
+<p>154,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">444,1</p>
+<p>294,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">35,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 31 a 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">311,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 15 a 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 6 a 10</p>
+<p>Hasta 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,48</p>
+<p>67,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,76</p>
+<p>94,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244,55</p>
+<p>164,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">454,11</p>
+<p>304,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">157,22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">279,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">523,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>35,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 101 a 200</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
+<p>4 ó 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120,21</p>
+<p>78,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167,22</p>
+<p>112,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">289,48</p>
+<p>199,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">533,96</p>
+<p>373,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">De 8 a 15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">130,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">184,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">324,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">603,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,21</p>
+<p>35,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 15</p>
+<p>Más de 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,57</p>
+<p>89,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,14</p>
+<p>129,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">359,33</p>
+<p>234,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">673,67</p>
+<p>444,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Más de 200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">137,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">191,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">331,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">610,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>35,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 31 a 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 8 a 20</p>
+<p>Hasta 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">148,7</p>
+<p>88,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">209,14</p>
+<p>122,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">366,33</p>
+<p>209,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">680,67</p>
+<p>311,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 20</p>
+<p>De 6 a 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">159,44</p>
+<p>99,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">226,63</p>
+<p>139,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">401,25</p>
+<p>244,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">750,55</p>
+<p>454,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 10</p>
+</td>
+<td>
+<p>110,21</p>
+</td>
+<td>
+<p>157,22</p>
+</td>
+<td>
+<p>279,48</p>
+</td>
+<td>
+<p>523,96</p>
+</td>
+<td>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 101 a 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>120,21</p>
+</td>
+<td>
+<p>167,22</p>
+</td>
+<td>
+<p>289,48</p>
+</td>
+<td>
+<p>533,96</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 15</p>
+</td>
+<td>
+<p>130,97</p>
+</td>
+<td>
+<p>184,69</p>
+</td>
+<td>
+<p>324,38</p>
+</td>
+<td>
+<p>603,8</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 15</p>
+</td>
+<td>
+<p>140,57</p>
+</td>
+<td>
+<p>202,14</p>
+</td>
+<td>
+<p>359,33</p>
+</td>
+<td>
+<p>673,67</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>137,97</p>
+</td>
+<td>
+<p>191,69</p>
+</td>
+<td>
+<p>331,38</p>
+</td>
+<td>
+<p>610,8</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 20</p>
+</td>
+<td>
+<p>148,7</p>
+</td>
+<td>
+<p>209,14</p>
+</td>
+<td>
+<p>366,33</p>
+</td>
+<td>
+<p>680,67</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 20</p>
+</td>
+<td>
+<p>159,44</p>
+</td>
+<td>
+<p>226,63</p>
+</td>
+<td>
+<p>401,25</p>
+</td>
+<td>
+<p>750,55</p>
+</td>
+<td>
+<p>62,21</p>
 </td>
 </tr>
 </tbody>
@@ -3163,391 +3158,391 @@ Tarifa 1. Por tramitación de la primera inscripción de empresas o establecimie
 
 Tarifa 2. Por cada modificación de la inscripción registral de empresas o establecimientos alimentarios en el Registro General Sanitario de Empresas Alimentarias y Alimentos y en el Censo Regional de Establecimientos de Alimentación, incluyendo la inspección e informe de evaluación:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Superficie del local en m<sup>2</sup></p>
+<p>Superficie del local en m<sup>2</sup></p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">N.º de trabajadores</p>
+<p>N.º de trabajadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo I</p>
+<p>Grupo I</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo II</p>
+<p>Grupo II</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo III</p>
+<p>Grupo III</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo IV</p>
+<p>Grupo IV</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo V</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-<td>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo V</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Menos de 15</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Uno</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">27,44</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,91</p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">145,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16,21</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Menos de 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 ó 3</p>
+<p>Uno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">38,23</p>
+<p>27,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">58,38</p>
+<p>40,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">110,76</p>
+<p>75,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">215,55</p>
+<p>145,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">48,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">145,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">285,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16,21</p>
+<p>16,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 15 a 30</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 3</p>
+<p>2 ó 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">57,96</p>
+<p>38,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">84,85</p>
+<p>58,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">154,69</p>
+<p>110,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">294,38</p>
+<p>215,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4 ó 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">68,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">102,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">189,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">363,02</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">25,21</p>
+<p>16,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 5</p>
+<p>Más de 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">79,48</p>
+<p>48,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">119,76</p>
+<p>75,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">224,55</p>
+<p>145,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">434,1</p>
+<p>285,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 31 a 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">88,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">311,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>16,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 15 a 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 6 a 10</p>
+<p>Hasta 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">99,48</p>
+<p>57,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,76</p>
+<p>84,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244,55</p>
+<p>154,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">454,11</p>
+<p>294,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">45,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Más de 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">157,22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">279,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">523,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">45,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">De 101 a 200</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
+<p>4 ó 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120,21</p>
+<p>68,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">167,22</p>
+<p>102,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">289,48</p>
+<p>189,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">533,96</p>
+<p>363,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">De 8 a 15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">130,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">184,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">324,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">603,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">55,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 15</p>
+<p>Más de 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140,57</p>
+<p>79,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,14</p>
+<p>119,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">359,33</p>
+<p>224,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">673,67</p>
+<p>434,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">55,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Más de 200</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">137,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">191,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">331,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">610,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>25,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>De 31 a 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">De 8 a 20</p>
+<p>Hasta 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">141,7</p>
+<p>88,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">202,14</p>
+<p>122,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">359,33</p>
+<p>209,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">673,67</p>
+<p>311,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Más de 20</p>
+<p>De 6 a 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">152,44</p>
+<p>99,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">219,63</p>
+<p>139,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">394,25</p>
+<p>244,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">743,55</p>
+<p>454,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">62,21</p>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 10</p>
+</td>
+<td>
+<p>110,21</p>
+</td>
+<td>
+<p>157,22</p>
+</td>
+<td>
+<p>279,48</p>
+</td>
+<td>
+<p>523,96</p>
+</td>
+<td>
+<p>45,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 101 a 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>120,21</p>
+</td>
+<td>
+<p>167,22</p>
+</td>
+<td>
+<p>289,48</p>
+</td>
+<td>
+<p>533,96</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 15</p>
+</td>
+<td>
+<p>130,97</p>
+</td>
+<td>
+<p>184,69</p>
+</td>
+<td>
+<p>324,38</p>
+</td>
+<td>
+<p>603,8</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 15</p>
+</td>
+<td>
+<p>140,57</p>
+</td>
+<td>
+<p>202,14</p>
+</td>
+<td>
+<p>359,33</p>
+</td>
+<td>
+<p>673,67</p>
+</td>
+<td>
+<p>55,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>137,97</p>
+</td>
+<td>
+<p>191,69</p>
+</td>
+<td>
+<p>331,38</p>
+</td>
+<td>
+<p>610,8</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>De 8 a 20</p>
+</td>
+<td>
+<p>141,7</p>
+</td>
+<td>
+<p>202,14</p>
+</td>
+<td>
+<p>359,33</p>
+</td>
+<td>
+<p>673,67</p>
+</td>
+<td>
+<p>62,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Más de 20</p>
+</td>
+<td>
+<p>152,44</p>
+</td>
+<td>
+<p>219,63</p>
+</td>
+<td>
+<p>394,25</p>
+</td>
+<td>
+<p>743,55</p>
+</td>
+<td>
+<p>62,21</p>
 </td>
 </tr>
 </tbody>
@@ -3609,354 +3604,354 @@ e) Grupo V: Locales de inspección de caza; Locales de inspección de reses de l
 
 2\. Las tarifas exigibles a los grupos de actividades relacionados en el punto anterior serán las siguientes:
 
-<table class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Superficie del local en m<sup>2</sup></p>
+<p>Superficie del local en m<sup>2</sup></p>
 </td>
 <td>
-<p class="cabeza_tabla">N.º de trabajadores</p>
+<p>N.º de trabajadores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo I </p>
-<p class="cabeza_tabla">– </p>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo I </p>
+<p>– </p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo II </p>
-<p class="cabeza_tabla">– </p>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo II </p>
+<p>– </p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo III </p>
-<p class="cabeza_tabla">– </p>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo III </p>
+<p>– </p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo IV </p>
-<p class="cabeza_tabla">– </p>
-<p class="cabeza_tabla">Euros</p>
+<p>Grupo IV </p>
+<p>– </p>
+<p>Euros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo V </p>
-<p class="cabeza_tabla">– </p>
-<p class="cabeza_tabla">Euros</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">Menos de 15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Uno</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21,44</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">34,91</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">69,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">139,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">2 ó 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">32,23</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">52,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104,76</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Más de 3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">42,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">69,85</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">139,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">279,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>Grupo V </p>
+<p>– </p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">De 15 a 30</p>
+<p>Menos de 15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 3</p>
+<p>Uno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">42,96</p>
+<p>21,44</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">69,85</p>
+<p>34,91</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,69</p>
+<p>69,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">279,38</p>
+<p>139,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">4 ó 5</p>
+<p>2 ó 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">53,68</p>
+<p>32,23</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">87,31</p>
+<p>52,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174,63</p>
+<p>104,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">348,02</p>
+<p>209,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Más de 5</p>
+<p>Más de 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64,48</p>
+<p>42,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">104,76</p>
+<p>69,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">209,55</p>
+<p>139,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">419,10</p>
+<p>279,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">De 31 a 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Hasta 5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">53,68</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">87,31</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">174,63</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">276,10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 6 a 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">64,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">104,76</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">209,55</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">419,11</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Más de 10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">75,21</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">122,22</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">244,48</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">488,96</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">De 101 a 200</p>
+<p>De 15 a 30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
+<p>Hasta 3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">75,21</p>
+<p>42,96</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122,22</p>
+<p>69,85</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">244,48</p>
+<p>139,69</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">488,96</p>
+<p>279,38</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 8 a 15</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">85,97</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">139,69</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">279,38</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">558,80</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Más de 15</p>
+<p>4 ó 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95,57</p>
+<p>53,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">157,14</p>
+<p>87,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">314,33</p>
+<p>174,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">628,67</p>
+<p>348,02</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 5</p>
+</td>
+<td>
+<p>64,48</p>
+</td>
+<td>
+<p>104,76</p>
+</td>
+<td>
+<p>209,55</p>
+</td>
+<td>
+<p>419,10</p>
+</td>
+<td>
+<p>10,21</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Más de 200</p>
+<p>De 31 a 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Hasta 7</p>
+<p>Hasta 5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">85,97</p>
+<p>53,68</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">139,69</p>
+<p>87,31</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">279,38</p>
+<p>174,63</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">558,80</p>
+<p>276,10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">De 8 a 20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">96,70</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">157,14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">314,33</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">628,67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Más de 20</p>
+<p>De 6 a 10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">107,44</p>
+<p>64,48</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">174,63</p>
+<p>104,76</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">349,25</p>
+<p>209,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">698,55</p>
+<p>419,11</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10,21</p>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 10</p>
+</td>
+<td>
+<p>75,21</p>
+</td>
+<td>
+<p>122,22</p>
+</td>
+<td>
+<p>244,48</p>
+</td>
+<td>
+<p>488,96</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>De 101 a 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>75,21</p>
+</td>
+<td>
+<p>122,22</p>
+</td>
+<td>
+<p>244,48</p>
+</td>
+<td>
+<p>488,96</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 8 a 15</p>
+</td>
+<td>
+<p>85,97</p>
+</td>
+<td>
+<p>139,69</p>
+</td>
+<td>
+<p>279,38</p>
+</td>
+<td>
+<p>558,80</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 15</p>
+</td>
+<td>
+<p>95,57</p>
+</td>
+<td>
+<p>157,14</p>
+</td>
+<td>
+<p>314,33</p>
+</td>
+<td>
+<p>628,67</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Más de 200</p>
+</td>
+<td>
+<p>Hasta 7</p>
+</td>
+<td>
+<p>85,97</p>
+</td>
+<td>
+<p>139,69</p>
+</td>
+<td>
+<p>279,38</p>
+</td>
+<td>
+<p>558,80</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 8 a 20</p>
+</td>
+<td>
+<p>96,70</p>
+</td>
+<td>
+<p>157,14</p>
+</td>
+<td>
+<p>314,33</p>
+</td>
+<td>
+<p>628,67</p>
+</td>
+<td>
+<p>10,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 20</p>
+</td>
+<td>
+<p>107,44</p>
+</td>
+<td>
+<p>174,63</p>
+</td>
+<td>
+<p>349,25</p>
+</td>
+<td>
+<p>698,55</p>
+</td>
+<td>
+<p>10,21</p>
 </td>
 </tr>
 </tbody>

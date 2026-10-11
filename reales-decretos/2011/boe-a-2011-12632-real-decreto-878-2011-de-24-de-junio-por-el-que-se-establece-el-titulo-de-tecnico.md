@@ -4142,38 +4142,34 @@ Espacios: ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Pista polideportiva<br>44 m×22 m. |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Espacio formativo</p>
+<th>
+<p>Espacio formativo</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Piscina de 25 m.×1,80 m de profundidad.</p>
+<td>
+<p>Piscina de 25 m.×1,80 m de profundidad.</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-SSSS-201: Escuela de salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-202: Preparación física del socorrista.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-205: Espacios acuáticos y materiales.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</p>
+<td rowspan="2">
+<p>MED-SSSS-201: Escuela de salvamento y socorrismo.</p>
+<p>MED-SSSS-202: Preparación física del socorrista.</p>
+<p>MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</p>
+<p>MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</p>
+<p>MED-SSSS-205: Espacios acuáticos y materiales.</p>
+<p>MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Entorno natural: playas marítimas y fluviales, ríos, lagos y embalses.</p>
+<td>
+<p>Entorno natural: playas marítimas y fluviales, ríos, lagos y embalses.</p>
 </td>
 </tr>
 </tbody>
@@ -4250,103 +4246,98 @@ Un par de aletas por alumno.
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">Ciclo inicial</td>
+<td colspan="3">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C101.Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">Ciclo final</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td colspan="3">Ciclo final</td>
+</tr>
+<tr>
+<td>MED-C201. Bases del aprendizaje deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C202. Bases del entrenamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204.Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C204.Organización y legislación deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C205. Deporte y género.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -4358,174 +4349,164 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">Ciclo inicial</td>
+<td colspan="3">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS102: Instalaciones acuáticas y materiales.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS102: Instalaciones acuáticas y materiales.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS103: Metodología del salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS103: Metodología del salvamento y socorrismo.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS106: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS106: Formación práctica.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">Ciclo final</td>
+<td colspan="3">Ciclo final</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-201: Escuela de salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-201: Escuela de salvamento y socorrismo.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-202: Preparación física del socorrista.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-202: Preparación física del socorrista.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-205: Espacios acuáticos y materiales.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-205: Espacios acuáticos y materiales.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesor de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -4549,160 +4530,152 @@ La Federación Española de Salvamento y Socorrismo emitirá la correspondiente 
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque común: ciclo inicial y final</p>
+<p>Módulos del bloque común: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo comunes de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo comunes de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101: Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C101: Bases del comportamiento deportivo.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C102: Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Medicina.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Enfermería.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Fisioterapia.</p>
+<td>MED-C102: Primeros auxilios.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Medicina.</p>
+<p>Diplomado o Graduado en Enfermería.</p>
+<p>Diplomado o Graduado en Fisioterapia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104: Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C104: Organización deportiva.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+<td colspan="2">Ciclo final</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201: Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C201: Bases del aprendizaje deportivo.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C202: Bases del entrenamiento deportivo.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204: Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado en Derecho.</p>
+<td>MED-C204: Organización y legislación deportiva.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado en Derecho.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque específico: ciclo inicial y final</p>
+<p>Módulos del bloque específico: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo específico de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS102: Instalaciones acuáticas y materiales.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS102: Instalaciones acuáticas y materiales.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS103: Metodología del salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS103: Metodología del salvamento y socorrismo.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS105: Seguridad e intervención en Instalaciones Acuáticas.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS106: Formación Práctica.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS106: Formación Práctica.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+<td colspan="2">Ciclo final</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-201: Escuela de salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-201: Escuela de salvamento y socorrismo.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-202: Preparación física del socorrista.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-202: Preparación física del socorrista.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-205: Espacios acuáticos y materiales.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-205: Espacios acuáticos y materiales.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-SSSS-207: Formación Práctica.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
+<td>MED-SSSS-207: Formación Práctica.</td>
+<td>Técnico Deportivo Superior en Salvamento y Socorrismo.</td>
 </tr>
 </tbody>
 </table>
@@ -4766,48 +4739,44 @@ La experiencia laboral se acreditará mediante la certificación de la empresa d
 
 ## ANEXO XIII — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos de enseñanza deportiva</th>
-<th class="cabeza_tabla">Experiencia docente</th>
+<th>Módulos de enseñanza deportiva</th>
+<th>Experiencia docente</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-SSS102: Instalaciones acuáticas y materiales.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS103: Metodología del salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS105: Seguridad e intervención en instalaciones acuáticas.</p>
+<td>
+<p>MED-SSS102: Instalaciones acuáticas y materiales.</p>
+<p>MED-SSSS103: Metodología del salvamento y socorrismo.</p>
+<p>MED-SSSS104: Organización de eventos de iniciación en salvamento y socorrismo.</p>
+<p>MED-SSSS105: Seguridad e intervención en instalaciones acuáticas.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con los módulos de enseñanza deportiva acreditables, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como Profesor en materias relacionadas con los módulos de enseñanza deportiva acreditables, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
+<td colspan="2">Ciclo final</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-SSSS-201: Escuela de salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-202: Preparación física del socorrista.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-203: Perfeccionamiento técnico en de salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-205: Espacios acuáticos y materiales.</p>
-<p class="cuerpo_tabla_izq">MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</p>
+<td>
+<p>MED-SSSS-201: Escuela de salvamento y socorrismo.</p>
+<p>MED-SSSS-202: Preparación física del socorrista.</p>
+<p>MED-SSSS-203: Perfeccionamiento técnico en de salvamento y socorrismo.</p>
+<p>MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo.</p>
+<p>MED-SSSS-205: Espacios acuáticos y materiales.</p>
+<p>MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con los módulos de enseñanza deportiva acreditables, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como Profesor en materias relacionadas con los módulos de enseñanza deportiva acreditables, realizadas de acuerdo a lo establecido en la disposición transitoria primera del R.D. 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del R.D. 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de las horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 </tbody>

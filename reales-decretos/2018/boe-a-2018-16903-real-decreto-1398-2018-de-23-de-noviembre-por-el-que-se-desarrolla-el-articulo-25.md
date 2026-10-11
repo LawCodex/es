@@ -68,18 +68,6 @@ a) Se publiquen bajo la responsabilidad y control de una editorial y estén edit
 
 b) Tengan al menos 24 páginas por ejemplar en soporte papel, o extensión similar en formato digital.
 
-> Téngase en cuenta que la redacción de este artículo estabecida por la disposición final 1.1 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941), entra en vigor el 1 de julio de 2023, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> **"Artículo 2. Publicaciones asimiladas a libro.**
-
-> A los efectos del artículo 25.1 del texto refundido de la Ley de Propiedad Intelectual y de este real decreto, se entenderán asimiladas a los libros las publicaciones, tanto en soporte papel como en formato digital, de contenido cultural, científico o técnico siempre y cuando:
-
-> a) Estén editadas en serie continua con un mismo título a intervalos regulares o irregulares, de forma que los ejemplares de la serie lleven una numeración consecutiva o estén fechados, con periodicidad mínima mensual y máxima semestral.
-
-> b) Tengan al menos 48 páginas por ejemplar en soporte papel, o extensión similar en formato digital."
-
 > Se modifica, con efectos de 1 de julio de 2023, por la disposición final 1.1 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941)
 
 ### Artículo 3. Otras definiciones.
@@ -126,12 +114,6 @@ i) Sujetos acreedores: según el artículo 25.2 del texto refundido de la Ley de
 
 j) Sujetos deudores: según el artículo 25.3 del texto refundido de la Ley de Propiedad Intelectual, los fabricantes en España, en tanto actúen como distribuidores comerciales, así como los adquirentes fuera del territorio español, para su distribución comercial o utilización dentro de éste, de equipos, aparatos y soportes materiales.
 
-> Téngase en cuenta que la redacción de esta letra j) estabecida por la disposición final 1.2 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941), entra en vigor el 1 de julio de 2023, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "j) Sujetos deudores: según el artículo 25.4 del texto refundido de la Ley de Propiedad Intelectual, los fabricantes en España, en tanto actúen como distribuidores comerciales, así como los adquirentes fuera del territorio español, para su distribución comercial o utilización dentro de éste, de equipos, aparatos y soportes materiales."
-
 > Se modifica la letra j), con efectos de 1 de julio de 2023, por la disposición final 1.2 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941)
 
 ### Artículo 4. Distribución de la compensación en cada modalidad de reproducción según la categoría del acreedor.
@@ -143,18 +125,6 @@ a) En la modalidad de fonogramas y demás soportes sonoros, el 45 por ciento par
 b) En la modalidad de videogramas y demás soportes visuales o audiovisuales, un tercio para los autores, un tercio para los artistas intérpretes o ejecutantes y un tercio para los productores.
 
 c) En la modalidad de libros y publicaciones asimiladas, el 55 por ciento para los autores y el 45 por ciento para los editores.
-
-> Téngase en cuenta que la redacción del apartado 1 estabecida por la disposición final 1.3 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941), entra en vigor el 1 de julio de 2023, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. La distribución de la compensación en cada modalidad de reproducción según la categoría del sujeto acreedor, se realizará de la siguiente manera:
-
-> a) **(Anulada)**
-
-> b) En la modalidad de videogramas y demás soportes visuales o audiovisuales, un tercio para los autores, un tercio para los artistas intérpretes o ejecutantes y un tercio para los productores.
-
-> c) En la modalidad de libros y publicaciones asimiladas, el 55 por ciento para los autores y el 45 por ciento para los editores."
 
 2\. Conforme a los porcentajes de distribución previstos en el apartado anterior, las entidades de gestión concurrentes en la gestión de derechos de una misma categoría de acreedores de una misma modalidad de reproducción, determinarán de mutuo acuerdo los porcentajes o sistema de reparto correspondientes a cada una de ellas.
 
@@ -210,8 +180,6 @@ b) Respecto de las unidades adquiridas por ellos en territorio español, de deud
 
 4\. En los casos en los que, en un mismo periodo trimestral concurran en una misma persona física o jurídica las condiciones de sujeto deudor y de distribuidor, la mencionada persona deberá realizar y presentar a la persona jurídica las respectivas relaciones trimestrales de unidades de equipos, aparatos y soportes materiales previsto en los apartados 1 y 2, que serán independientes y no podrán ser objeto de compensación o neteo entre sí y que, por tanto, darán lugar a las respectivas obligaciones de pago o devolución y a la emisión de las respectivas facturas que procedan conforme a lo establecido en los artículos 7 y 8.
 
-> Téngase en cuenta que la redacción del apartado 4 añadida por la disposición final 1.4 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941), entra en vigor el 1 de julio de 2023, según determina su disposición final 3.
-
 > Se añade el apartado 4, con efectos de 1 de julio de 2023, por la disposición final 1.4 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941)
 
 ### Artículo 7. Pago de la compensación.
@@ -227,12 +195,6 @@ b) Respecto de las unidades adquiridas por ellos en territorio español, de deud
 ### Artículo 8. Devolución de la compensación.
 
 1\. Cuando tras realizar las comprobaciones necesarias de las relaciones trimestrales de unidades recibidas, las entidades de gestión constaten la existencia de una obligación de devolución del importe de la compensación previamente percibido de manera efectiva, deberán solicitar la emisión de la correspondiente factura al sujeto deudor o al distribuidor.
-
-> Téngase en cuenta que la redacción del apartado 1 estabecida por la disposición final 1.5 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941), entra en vigor el 1 de julio de 2023, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "1. Cuando, tras realizar las comprobaciones necesarias de las relaciones trimestrales de unidades recibidas, las entidades de gestión constaten la existencia de una obligación de devolución del importe de la compensación, deberán solicitar la emisión de la correspondiente factura al sujeto deudor o al distribuidor."
 
 2\. El pago de la devolución se efectuará por las entidades de gestión en el plazo de un mes desde la recepción de la factura del sujeto deudor o del distribuidor, salvo que no se haya acreditado el haber satisfecho previamente la compensación o se aprecie error en la factura. En este último caso, el cómputo del plazo comenzará desde la recepción de la factura corregida.
 
@@ -331,12 +293,6 @@ e) En el caso de que el solicitante emplee trabajadores por cuenta ajena a cuya 
 3\. La persona jurídica dispondrá de un plazo de un mes desde la recepción de la solicitud para realizar las comprobaciones necesarias para acreditar la existencia o inexistencia del derecho al reembolso y comunicar su decisión al solicitante.
 
 4\. Si se acredita la existencia del derecho al reembolso, que solo será procedente cuando la compensación haya sido previamente percibida de manera efectiva por la entidad de gestión correspondiente, la persona jurídica, cuando lo comunique al solicitante, le requerirá la emisión de la correspondiente factura para proceder a su pago.
-
-> Téngase en cuenta que la redacción del apartado 4 estabecida por la disposición final 1.6 del Real Decreto 209/2023, de 28 de marzo. [Ref. BOE-A-2023-7941](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7941), entra en vigor el 1 de julio de 2023, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "4. Si se acredita la existencia del derecho al reembolso, la persona jurídica, cuando lo comunique al solicitante, le requerirá la emisión de la correspondiente factura para proceder a su pago."
 
 5\. La persona jurídica sólo podrá denegar el reembolso de la compensación en los siguientes supuestos:
 

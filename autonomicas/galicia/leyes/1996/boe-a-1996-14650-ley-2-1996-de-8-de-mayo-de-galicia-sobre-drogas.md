@@ -178,33 +178,11 @@ Las Administraciones públicas de Galicia, en el marco de sus respectivas compet
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre, [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386), entra en vigor el 7 de marzo de 2026.
-
-> Redacción anterior:
-
-> "1. La publicidad de bebidas alcohólicas y tabaco no podrá dirigirse específicamente a menores de edad, utilizar la imagen de menores o de mujeres gestantes ni asociar su consumo a prácticas deportivas, educativas o sanitarias.
-
-> 2\. Tampoco podrá vincularse el consumo de bebidas alcohólicas y tabaco al éxito social, al rendimiento físico o a la conducción de vehículos ni atribuirle carácter terapéutico, estimulante o sedante, o bien ofrecer la abstinencia o sobriedad como una imagen negativa de la persona."
-
 > Se deroga, con efectos de 7 de marzo de 2026, por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre. [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386)
 
 ##### Artículo 12. Limitaciones a la promoción y la publicidad.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre, [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386), entra en vigor el 7 de marzo de 2026.
-
-> Redacción anterior:
-
-> "1. La promoción de bebidas alcohólicas en el marco de ferias, exposiciones, muestras o similares se llevará a cabo en espacios diferenciados o separados, no permitiéndose el acceso a menores de dieciocho años no acompañados de personas mayores de edad. En todo caso, se prohibirá la promoción de bebidas alcohólicas a través de concursos o actividades de consumo incontrolado.
-
-> 2\. Queda prohibida toda forma de publicidad de tabaco por los centros emisores de radio y televisión ubicados en Galicia.
-
-> 3\. Queda prohibida toda forma de publicidad de bebidas alcohólicas por los centros emisores de radio y televisión ubicados en Galicia, entre las ocho y las veintidós horas.
-
-> 4\. En los periódicos, revistas y demás publicaciones que se editen en la Comunidad Autónoma no podrá hacerse publicidad del tabaco y bebidas alcohólicas en primera página, en las destinadas a deportes y pasatiempos y en aquellas secciones que, por su contenido, estén orientadas preferentemente a menores de dieciocho años.
-
-> 5\. La Administración autonómica promoverá la formalización de acuerdos de autocontrol y autolimitación de la publicidad de bebidas alcohólicas y tabaco con empresas fabricantes y distribuidoras de dichas bebidas, así como con anunciantes, agencias, empresas y medios de publicidad, a fin de restringir, para todo lo que la presente Ley no reglamente, la actividad publicitaria de las sustancias referidas."
 
 > Se deroga, con efectos de 7 de marzo de 2026, por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre. [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386)
 
@@ -216,34 +194,6 @@ Las Administraciones públicas de Galicia, en el marco de sus respectivas compet
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre, [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386), entra en vigor el 7 de marzo de 2026.
-
-> Redacción anterior:
-
-> "1. No se permitirá la venta o suministro de tabaco a menores de dieciocho años. Igualmente, no se permitirá la venta o suministro de bebidas alcohólicas a menores de dieciséis años, y en el caso de bebidas alcohólicas de más de 18 grados centesimales a los menores de dieciocho años. Asimismo, queda prohibida la venta o suministro de alcohol a los profesionales de diversos sectores como conductores de medios de transporte público o personal sanitario que, estando de servicio o en disposición de prestarlo, si realizasen su actividad bajo la influencia de bebidas alcohólicas pudieran causar daños contra la vida e integridad física de las personas.
-
-> 2\. No se podrá vender o suministrar bebidas alcohólicas o tabaco en:
-
-> a) Locales y centros preferentemente destinados a menores de dieciocho años.
-
-> b) Centros culturales.
-
-> c) Centros educativos que imparten educación primaria y educación secundaria u otras enseñanzas de nivel equivalente.
-
-> d) Instalaciones deportivas.
-
-> e) Centros sanitarios.
-
-> 3\. No se permitirá el suministro o venta de bebidas con una graduación alcohólica de más de 18 grados en:
-
-> a) Centros de educación superior y universitaria.
-
-> b) Dependencias de las Administraciones públicas de Galicia.
-
-> c) Áreas de servicio y descanso de las autopistas, autovías, vías rápidas y similares.
-
-> 4\. La venta o suministro de alcohol y tabaco por medio de máquinas automáticas sólo podrá realizarse en lugares cerrados, debiendo constar en la superficie frontal de la máquina, en donde no pueda retirarse, la prohibición de su uso por menores de dieciocho años."
-
 > Se deroga, con efectos de 7 de marzo de 2026, por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre. [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386)
 
 #### Sección 3.ª Desarrollo reglamentario
@@ -254,23 +204,11 @@ Las Administraciones públicas de Galicia, en el marco de sus respectivas compet
 
 **(Derogado)**
 
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre, [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386), entra en vigor el 7 de marzo de 2026.
-
-> Redacción anterior:
-
-> "Las disposiciones del presente capítulo relativas a publicidad, suministro y venta de tabaco y bebidas alcohólicas deberán adaptarse en cada momento a su legislación básica, y podrá reglamentarse, al igual que los lugares de consumo de tabaco y bebidas alcohólicas, en orden a la protección de la salud y seguridad de las personas teniendo en cuenta a los sujetos destinatarios, la no inducción directa o indirecta a su consumo indiscriminado y en atención a los ámbitos educativo, sanitario y deportivo."
-
 > Se deroga, con efectos de 7 de marzo de 2026, por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre. [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386)
 
 ##### Artículo 15. Señalización de prohibiciones.
 
 **(Derogado)**
-
-> Téngase en cuenta que la derogación de este artículo, establecida por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre, [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386), entra en vigor el 7 de marzo de 2026.
-
-> Redacción anterior:
-
-> "La señalización formal o externa de las prohibiciones que en materia de alcohol y tabaco se establezcan en esta Ley se regulará por norma reglamentaria."
 
 > Se deroga, con efectos de 7 de marzo de 2026, por la disposición derogatoria única.1.a) de la Ley 6/2025, de 23 de diciembre. [Ref. BOE-A-2026-3386](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3386)
 

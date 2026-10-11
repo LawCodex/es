@@ -446,93 +446,88 @@ k) Solicitar, dentro de cada año natural, desde el año siguiente al año de co
 
 2\. Las cuantías de la renta social garantizada según la estructura de las unidades de convivencia es la siguiente:
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Unidad de convivencia</th>
-<th class="cabeza_tabla">2022</th>
-<th class="cabeza_tabla">2022</th>
+<th rowspan="2">Unidad de convivencia</th>
+<th>2022</th>
+<th>2022</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Importe anual</th>
-<th class="cabeza_tabla">Importe mensual</th>
+<th>Importe anual</th>
+<th>Importe mensual</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Un adulto solo.</td>
-<td class="cuerpo_tabla_coma">5.899,60</td>
-<td class="cuerpo_tabla_coma">491,63</td>
+<td>Un adulto solo.</td>
+<td>5.899,60</td>
+<td>491,63</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un adulto y un menor.</td>
-<td class="cuerpo_tabla_coma">8.967,39</td>
-<td class="cuerpo_tabla_coma">747,28</td>
+<td>Un adulto y un menor.</td>
+<td>8.967,39</td>
+<td>747,28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un adulto y dos menores.</td>
-<td class="cuerpo_tabla_coma">10.737,27</td>
-<td class="cuerpo_tabla_coma">894,77</td>
+<td>Un adulto y dos menores.</td>
+<td>10.737,27</td>
+<td>894,77</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Un adulto y tres menores o más.</td>
-<td class="cuerpo_tabla_coma">12.507,15</td>
-<td class="cuerpo_tabla_coma">1.042,26</td>
+<td>Un adulto y tres menores o más.</td>
+<td>12.507,15</td>
+<td>1.042,26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos adultos.</td>
-<td class="cuerpo_tabla_coma">7.669,48</td>
-<td class="cuerpo_tabla_coma">639,12</td>
+<td>Dos adultos.</td>
+<td>7.669,48</td>
+<td>639,12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos adultos y un menor.</td>
-<td class="cuerpo_tabla_coma">9.439,36</td>
-<td class="cuerpo_tabla_coma">786,61</td>
+<td>Dos adultos y un menor.</td>
+<td>9.439,36</td>
+<td>786,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos adultos y dos menores.</td>
-<td class="cuerpo_tabla_coma">11.209,24</td>
-<td class="cuerpo_tabla_coma">934,10</td>
+<td>Dos adultos y dos menores.</td>
+<td>11.209,24</td>
+<td>934,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Dos adultos y tres menores o más.</td>
-<td class="cuerpo_tabla_coma">12.979,12</td>
-<td class="cuerpo_tabla_coma">1.081,59</td>
+<td>Dos adultos y tres menores o más.</td>
+<td>12.979,12</td>
+<td>1.081,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tres adultos.</td>
-<td class="cuerpo_tabla_coma">9.439,36</td>
-<td class="cuerpo_tabla_coma">786,61</td>
+<td>Tres adultos.</td>
+<td>9.439,36</td>
+<td>786,61</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tres adultos y un menor.</td>
-<td class="cuerpo_tabla_coma">11.209,24</td>
-<td class="cuerpo_tabla_coma">934,10</td>
+<td>Tres adultos y un menor.</td>
+<td>11.209,24</td>
+<td>934,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tres adultos y dos menores o más.</td>
-<td class="cuerpo_tabla_coma">12.979,12</td>
-<td class="cuerpo_tabla_coma">1.081,59</td>
+<td>Tres adultos y dos menores o más.</td>
+<td>12.979,12</td>
+<td>1.081,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuatro adultos.</td>
-<td class="cuerpo_tabla_coma">11.209,24</td>
-<td class="cuerpo_tabla_coma">934,10</td>
+<td>Cuatro adultos.</td>
+<td>11.209,24</td>
+<td>934,10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuatro adultos y un menor.</td>
-<td class="cuerpo_tabla_coma">12.979,12</td>
-<td class="cuerpo_tabla_coma">1.081,59</td>
+<td>Cuatro adultos y un menor.</td>
+<td>12.979,12</td>
+<td>1.081,59</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros.</td>
-<td class="cuerpo_tabla_coma">12.979,12</td>
-<td class="cuerpo_tabla_coma">1.081,59</td>
+<td>Otros.</td>
+<td>12.979,12</td>
+<td>1.081,59</td>
 </tr>
 </tbody>
 </table>
@@ -1487,528 +1482,521 @@ Palma, 27 de febrero de 2023.–La Presidenta, Francesca Lluch Armengol i Socias
 
 ## ANEXO — Estructura de información del fichero único de datos personales de todas las prestaciones sociales de carácter económico
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre del campo</th>
-<th class="cabeza_tabla">Tipo</th>
-<th class="cabeza_tabla">Long.</th>
-<th class="cabeza_tabla">Obligatorio</th>
-<th class="cabeza_tabla">Comentarios</th>
+<th>Nombre del campo</th>
+<th>Tipo</th>
+<th>Long.</th>
+<th>Obligatorio</th>
+<th>Comentarios</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1. DATOS DEL ENVÍO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1. DATOS DEL ENVÍO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 REGISTRO DE CABECERA.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.1 REGISTRO DE CABECERA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENTIDAD GESTORA.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>ENTIDAD GESTORA.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NIF DEL ORGANISMO QUE ENVÍA LOS DATOS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>NIF DEL ORGANISMO QUE ENVÍA LOS DATOS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NOMBRE DEL ORGANISMO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>NOMBRE DEL ORGANISMO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FECHA IDENTIFICATIVA DE ENVÍO.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FECHA IDENTIFICATIVA DE ENVÍO.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2 DATOS DE PRESTACIONES.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.2 DATOS DE PRESTACIONES.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENTIDAD GESTORA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>ENTIDAD GESTORA.</td>
+<td>N</td>
+<td>3</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DIRECCIÓN GENERAL.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DIRECCIÓN GENERAL.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TIPO DE LA PRESTACIÓN.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TIPO DE LA PRESTACIÓN.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CONCEPTO DE LA PRESTACIÓN.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>CONCEPTO DE LA PRESTACIÓN.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">IMPORTE DE LA PRESTACIÓN.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">En céntimos de euro.</td>
+<td>IMPORTE DE LA PRESTACIÓN.</td>
+<td>N</td>
+<td>7</td>
+<td>Obligatorio.</td>
+<td>En céntimos de euro.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FECHA SOLICITUD.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FECHA SOLICITUD.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AÑO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>AÑO.</td>
+<td>N</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MES.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>MES.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DÍA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DÍA.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FECHA RESOLUCIÓN.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FECHA RESOLUCIÓN.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AÑO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>AÑO.</td>
+<td>N</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MES.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>MES.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DÍA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DÍA.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FECHA EFECTOS ECONÓMICOS.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FECHA EFECTOS ECONÓMICOS.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AÑO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>AÑO.</td>
+<td>N</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MES.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>MES.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DÍA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DÍA.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ESTADO DE LA SOLICITUD.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">No admitida, denegada, archivada, concedida, en tramitación,...</td>
+<td>ESTADO DE LA SOLICITUD.</td>
+<td>N</td>
+<td>1</td>
+<td>Obligatorio.</td>
+<td>No admitida, denegada, archivada, concedida, en tramitación,...</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FECHA DE FINALIZACIÓN.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FECHA DE FINALIZACIÓN.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AÑO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>AÑO.</td>
+<td>N</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MES.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>MES.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DÍA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DÍA.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MOTIVO FINALIZACIÓN.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Haber agotado el período máximo de prestación, integración mercado laboral, percepción de otras prestaciones, otras causas.</td>
+<td>MOTIVO FINALIZACIÓN.</td>
+<td>N</td>
+<td>1</td>
+<td>Obligatorio.</td>
+<td>Haber agotado el período máximo de prestación, integración mercado laboral, percepción de otras prestaciones, otras causas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NÚMERO DE BENEFICIARIOS DE LA PRESTACIÓN.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>NÚMERO DE BENEFICIARIOS DE LA PRESTACIÓN.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PARENTESCO.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>PARENTESCO.</td>
+<td>A</td>
+<td>20</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3 DATOS DE LAS PERSONAS PERCEPTORAS.</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>1.3 DATOS DE LAS PERSONAS PERCEPTORAS.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DOCUMENTO IDENTIFICATIVO.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DOCUMENTO IDENTIFICATIVO.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TIPO DE DOCUMENTO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>TIPO DE DOCUMENTO.</td>
+<td>N</td>
+<td>1</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º DE DOCUMENTO.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>N.º DE DOCUMENTO.</td>
+<td>A</td>
+<td>9</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NOMBRE Y APELLIDOS.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>NOMBRE Y APELLIDOS.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APELLIDO 1.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>APELLIDO 1.</td>
+<td>A</td>
+<td>20</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APELLIDO 2.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>APELLIDO 2.</td>
+<td>A</td>
+<td>20</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NOMBRE.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>NOMBRE.</td>
+<td>A</td>
+<td>15</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DIRECCIÓN.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DIRECCIÓN.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ISLA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>ISLA.</td>
+<td>N</td>
+<td>1</td>
+<td> </td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MUNICIPIO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>MUNICIPIO.</td>
+<td>N</td>
+<td>5</td>
+<td> </td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CALLE.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>CALLE.</td>
+<td>A</td>
+<td>30</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>N.º.</td>
+<td>N</td>
+<td>3</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CP.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>CP.</td>
+<td>N</td>
+<td>5</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DIRECCIÓN DE NOTIFICACIÓN.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DIRECCIÓN DE NOTIFICACIÓN.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ISLA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>ISLA.</td>
+<td>N</td>
+<td>1</td>
+<td> </td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MUNICIPIO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>MUNICIPIO.</td>
+<td>N</td>
+<td>5</td>
+<td>Según tablas normalizadas.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CALLE.</td>
-<td class="cuerpo_tabla_centro">A</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>CALLE.</td>
+<td>A</td>
+<td>30</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">N.º.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>N.º.</td>
+<td>N</td>
+<td>3</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CP.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>CP.</td>
+<td>N</td>
+<td>5</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">FECHA DE NACIMIENTO.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>FECHA DE NACIMIENTO.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AÑO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>AÑO.</td>
+<td>N</td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MES.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>MES.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DÍA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DÍA.</td>
+<td>N</td>
+<td>2</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEXO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>SEXO.</td>
+<td>N</td>
+<td>1</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ESTADO CIVIL.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>ESTADO CIVIL.</td>
+<td>N</td>
+<td>1</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAÍS DE NACIMIENTO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>PAÍS DE NACIMIENTO.</td>
+<td>N</td>
+<td>3</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PAÍS DE NACIONALIDAD.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>PAÍS DE NACIONALIDAD.</td>
+<td>N</td>
+<td>3</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">DISCAPACIDAD.</td>
-<td class="cuerpo_tabla_centro">G</td>
-<td class="cuerpo_tabla_centro">0</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>DISCAPACIDAD.</td>
+<td>G</td>
+<td>0</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SITUACIÓN DE DISCAPACIDAD.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Sí/No.</td>
+<td>SITUACIÓN DE DISCAPACIDAD.</td>
+<td>N</td>
+<td>1</td>
+<td> </td>
+<td>Sí/No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRADO DE DISCAPACIDAD.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>GRADO DE DISCAPACIDAD.</td>
+<td>N</td>
+<td>3</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NIVEL DE ESTUDIOS.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>NIVEL DE ESTUDIOS.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SITUACIÓN LABORAL.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Activo con empleo/ Activo sin empleo/ No activo.</td>
+<td>SITUACIÓN LABORAL.</td>
+<td>N</td>
+<td>1</td>
+<td>Obligatorio.</td>
+<td>Activo con empleo/ Activo sin empleo/ No activo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TIPO ALOJAMIENTO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>TIPO ALOJAMIENTO.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">RÉGIMEN DE TENENCIA ALOJAMIENTO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>RÉGIMEN DE TENENCIA ALOJAMIENTO.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TIPO DE UNIDAD DE CONVIVENCIA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Según tablas normalizadas.</td>
+<td>TIPO DE UNIDAD DE CONVIVENCIA.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td>Según tablas normalizadas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NÚMERO DE MIEMBROS DE LA UNIDAD DE CONVIVENCIA.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>NÚMERO DE MIEMBROS DE LA UNIDAD DE CONVIVENCIA.</td>
+<td>N</td>
+<td>2</td>
+<td>Obligatorio.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AGOTADO EL SUBSIDIO DE DESEMPLEO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq">Obligatorio.</td>
-<td class="cuerpo_tabla_izq">Sí/No.</td>
+<td>AGOTADO EL SUBSIDIO DE DESEMPLEO.</td>
+<td>N</td>
+<td>1</td>
+<td>Obligatorio.</td>
+<td>Sí/No.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VÍCTIMA DE VIOLENCIA DE GÉNERO.</td>
-<td class="cuerpo_tabla_centro">N</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Sí/No.</td>
+<td>VÍCTIMA DE VIOLENCIA DE GÉNERO.</td>
+<td>N</td>
+<td>1</td>
+<td> </td>
+<td>Sí/No.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">G= Grupo</p>
-<p class="cita">N= Numérico</p>
-<p class="cita">A= Alfanumérico</p>
+<p>G= Grupo</p>
+<p>N= Numérico</p>
+<p>A= Alfanumérico</p>
 </td>
 </tr>
 </tfoot>

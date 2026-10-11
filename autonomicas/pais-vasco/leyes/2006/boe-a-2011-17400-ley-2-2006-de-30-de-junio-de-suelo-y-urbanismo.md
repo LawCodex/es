@@ -3280,8 +3280,6 @@ c) La concesión correspondiente cuando el acto pretendido suponga la ocupación
 
 8\. Cuando el acto autorizado por la licencia urbanística suponga la ocupación o utilización de dominio público portuario, la extinción de la concesión llevará consigo la extinción de la licencia urbanística a la que da soporte el título demanial.
 
-> Téngase en cuenta que el apartado 8 añadido por la disposición final 2 de la Ley 2/2018, de 28 de junio. [Ref. BOE-A-2018-11064](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11064), entra en vigor el 5 de octubre de 2018, según establece su disposición final 4.
-
 > Se añade el apartado 8, con efectos de 5 de octubre de 2018, por la disposición final 2 de la Ley 2/2018, de 28 de junio. [Ref. BOE-A-2018-11064](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11064)
 
 > Se modifica el apartado 2.a) por el art. 123 de la Ley 7/2012, de 23 de abril. [Ref. BOE-A-2012-6368](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-6368).

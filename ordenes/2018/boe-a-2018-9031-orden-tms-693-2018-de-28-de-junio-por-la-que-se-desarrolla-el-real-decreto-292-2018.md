@@ -1,0 +1,113 @@
+---
+title: "Orden TMS/693/2018, de 28 de junio, por la que se desarrolla el Real Decreto 292/2018, de 18 de mayo, por el que se regula el procedimiento de acceso y el régimen de prestación de la formación profesional marítima y sanitaria del Instituto Social de la Marina"
+identifier: "BOE-A-2018-9031"
+eli: "https://www.boe.es/eli/es/o/2018/06/28/tms693"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo, Migraciones y Seguridad Social"
+date: 2018-06-28
+published: 2018-06-30
+in_force_from: 2018-07-01
+last_amended: 2024-08-24
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 158"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-9031"
+retrieved: 2026-10-11
+---
+
+# Orden TMS/693/2018, de 28 de junio, por la que se desarrolla el Real Decreto 292/2018, de 18 de mayo, por el que se regula el procedimiento de acceso y el régimen de prestación de la formación profesional marítima y sanitaria del Instituto Social de la Marina
+
+Entre las funciones y competencias que la Ley 47/2015, de 21 de octubre, reguladora de la protección social de las personas trabajadoras del sector marítimo-pesquero, atribuye al Instituto Social de la Marina, se encuentra la formación profesional de los trabajadores del mar.
+
+En relación con esta materia, tanto la Organización Internacional del Trabajo como la Unión Europea han mostrado, a través de recomendaciones, convenios y directivas, su preocupación y han resaltado la importancia que la formación profesional de los trabajadores del mar reviste, toda vez que constituye un medio evidente para su perfeccionamiento profesional y humano.
+
+Concretamente, la Recomendación número 137 de la Organización Internacional del Trabajo, de 1970, que regula la formación profesional de la gente del mar, invita a aquellos países en los que haya o se piense crear una industria marítima a que, al planificar la política nacional de enseñanza y formación, cuiden de que se dé un lugar adecuado en el sistema nacional de medios de formación a la capacitación del citado colectivo del mar a fin de alcanzar los objetivos que la propia recomendación contiene.
+
+Señala además el citado texto la conveniencia de que los programas de formación de todas las instituciones públicas y privadas dedicadas a la formación de la gente del mar deberían coordinarse y desarrollarse en cada país con arreglo a normas de rango nacional.
+
+La citada recomendación ha sido desarrollada en el Estado español por el Instituto Social de la Marina, en virtud de las competencias que tiene atribuidas, por el Real Decreto 292/2018, de 18 de mayo, por el que se regula el procedimiento de acceso y el régimen de prestación de la formación profesional marítima y sanitaria del Instituto Social de la Marina.
+
+Esta Orden ministerial tiene por objeto el desarrollo reglamentario del citado real decreto en determinados aspectos, tales como la emisión de diplomas, solicitudes y gastos por desplazamiento, alojamiento y manutención de alumnos.
+
+Esta Orden ministerial se ajusta a los principios de buena regulación exigidos para el ejercicio de la potestad reglamentaria por el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; al de seguridad jurídica, al establecer ciertos requisitos que deben contemplar los diplomas que expida el Instituto Social de la Marina en relación a su reconocimiento oficial, tanto nacional como internacionalmente; al de transparencia, sometiendo el texto de la norma al trámite de información pública y audiencia directa de las organizaciones representativas del sector y de los agentes sociales; a los principios de necesidad, eficacia y eficiencia, incorporando a dicho texto diversos preceptos encaminados a hacer efectivo el real decreto que desarrolla y, finalmente, al principio de proporcionalidad, ya que equipara los importes de los gastos por desplazamiento, alojamiento y manutención de los alumnos a las cuantías que perciben por dichos conceptos los funcionarios del grupo 3.º
+
+En su proceso de tramitación, de conformidad con lo previsto en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, esta orden se ha sometido al trámite de audiencia e información pública, mediante su publicación en el portal web del Ministerio de Trabajo, Migraciones y Seguridad Social y a la consulta directa a los agentes sociales.
+
+Esta orden se dicta en virtud de las facultades atribuidas a la Ministra de Trabajo, Migraciones y Seguridad Social por la disposición final segunda del Real Decreto 292/2018, de 18 de mayo, y de acuerdo con la competencia exclusiva en materia laboral que el artículo 149.1.7.ª de la Constitución Española atribuye al Estado, sin perjuicio de su ejecución por los órganos de las comunidades autónomas.
+
+En su virtud, a propuesta del Instituto Social de la Marina, dispongo:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+Esta orden tiene por objeto el desarrollo reglamentario del Real Decreto 292/2018, de 18 de mayo, por el que se regula el procedimiento de acceso y el régimen de prestación de la formación profesional marítima y sanitaria del Instituto Social de la Marina, en relación con la emisión de diplomas, las solicitudes para acceder a la formación y el reembolso de los gastos por desplazamiento, alojamiento y manutención de alumnos.
+
+Esta orden será de aplicación a las acciones formativas impartidas por el Instituto Social de la Marina que se desarrollen con medios propios, contratados o a través de cualquier otro medio previsto en la legislación vigente.
+
+> Se modifica por el art. único.1 de la Orden ISM/890/2024, de 20 de agosto. [Ref. BOE-A-2024-17282](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17282)
+
+## Artículo 2. Diplomas.
+
+En los diplomas expedidos por el Instituto Social de la Marina, conforme a lo previsto en el artículo 8 del Real Decreto 292/2018, de 18 de mayo, figurará en su anverso la firma de los instructores y del director provincial o del director del centro nacional de formación marítima, según corresponda y en su reverso el temario del curso y las horas de duración de cada tema o práctica.
+
+Cuando se trate de cursos para los que su impartición requiera la previa homologación de la Dirección General de la Marina Mercante, deberá hacerse expresa mención en el diploma expedido de la resolución mediante la cual el centro se encuentra homologado para la impartición de este tipo de curso.
+
+## Artículo 3. Solicitudes.
+
+1\. Las personas interesadas podrán presentar las solicitudes de formación previstas en el artículo 9 del Real Decreto 292/2018, de 18 de mayo, para cursos concretos, con fechas y lugar de celebración fijados previamente por el Instituto Social de la Marina, utilizando el modelo oficial establecido que estará disponible en las direcciones provinciales y locales del Instituto Social de la Marina, en el portal de internet de la Seguridad Social y en la Sede Electrónica de la Secretaría de Estado de la Seguridad Social y Pensiones.
+
+2\. Las direcciones provinciales del Instituto Social de la Marina informarán a las personas interesadas en los cursos sobre el objeto, las personas destinatarias, contenidos de los mismos, niveles formativos que permitan obtener, perfil de alumno y conocimientos previos que resulten recomendables para acceder a aquellos, con el fin de que las personas solicitantes puedan formar criterio en orden a la elección del curso o cursos a demandar.
+
+> Se modifica por el art. único.2 de la Orden ISM/890/2024, de 20 de agosto. [Ref. BOE-A-2024-17282](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-17282)
+
+## Artículo 4. Gastos por desplazamiento, alojamiento y manutención.
+
+1\. Los gastos de desplazamiento susceptibles de reembolso por el Instituto Social de la Marina, previstos en los apartados 3 y 4 del artículo 27 del Real Decreto 292/2018, de 18 de mayo, serán abonados siempre y cuando los desplazamientos hayan sido efectivamente realizados y acreditados y siempre que el desplazamiento se lleve a cabo en transporte colectivo y en clase turista, debiendo acreditarse ambos extremos, y sin que la cantidad a abonar pueda exceder del tope máximo de:
+
+a) 300,00 euros (trescientos euros) si el desplazamiento tiene lugar dentro de la península (incluyéndose Ceuta a estos efectos).
+
+b) 375,00 euros (trescientos setenta y cinco euros) si el desplazamiento se produce desde o a Melilla o Illes Balears.
+
+c) 480,00 euros (cuatrocientos ochenta euros) cuando el desplazamiento se produce desde o a las islas Canarias.
+
+2\. Respecto a los gastos de manutención previstos en los apartados 3 y 5 del artículo 27 del Real Decreto 292/2018, de 18 de mayo, se establecen los siguientes términos y cuantías:
+
+a) Cuando tengan derecho a desplazamiento y manutención, 14,10 euros por cada día completo de asistencia al curso, excluido el día de su finalización.
+
+Sólo se abonará manutención el día de finalización del curso si la misma se produce después de las 14:00 horas.
+
+b) Cuando tengan derecho a desplazamiento, manutención y alojamiento, 28,21 euros por cada día completo de asistencia al curso, excluido el día de su finalización.
+
+Se abonará manutención el día de finalización del curso, por un importe de 14,10 euros, si la misma se produce después de las 14:00 horas.
+
+En caso de que el alumno justifique la imposibilidad de efectuar el viaje de vuelta a su domicilio el día de finalización del curso se le abonarán 28,21 euros.
+
+Excepcionalmente, a los alumnos que tengan derecho a alojamiento y se vean obligados a pernoctar el día anterior al inicio del curso se les abonará 14,10 euros por ese día.
+
+3\. Los importes de los gastos de alojamiento susceptibles de reembolso por el Instituto Social de la Marina, previstos en los apartados 3 y 5 del artículo 27 del Real Decreto 292/2018, de 18 de mayo, serán los siguientes:
+
+a) Con carácter general se abonarán los efectivamente realizados y acreditados hasta un límite máximo de 48,92 euros por día.
+
+b) Excepcionalmente, siempre que lo autorice la dirección provincial del Instituto Social de la Marina, se podrán abonar los gastos de alojamiento correspondientes al día de la finalización del curso siempre que el alumno justifique y acredite que no puede hacer el viaje de vuelta dicho día.
+
+4\. Para el cálculo de las distancias entre las localidades de residencia y de ubicación del centro de formación, se utilizará el Mapa Oficial de Carreteras publicado por el Ministerio de Fomento.
+
+5\. Los importes correspondientes a los gastos de desplazamiento, alojamiento y manutención se actualizarán anualmente de acuerdo con la variación que el Gobierno determine para el Indicador Público de Renta de Efectos Múltiples (IPREM).
+
+6\. En aquellos cursos en los que el alojamiento y/o manutención se presten directamente por el Instituto Social de la Marina, los alumnos no podrán optar por otra alternativa, por lo que no procederá el abono de gastos por dichos conceptos.
+
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1.7.ª de la Constitución Española, que establece como competencia exclusiva del Estado la legislación laboral, sin perjuicio de su ejecución por los órganos de las comunidades autónomas.
+
+## Disposición final segunda. Desarrollo normativo.
+
+Se faculta al titular de la Dirección del Instituto Social de la Marina para dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de lo previsto en esta orden.
+
+## Disposición final tercera. Entrada en vigor.
+
+La presente orden entrará en vigor el día 1 de julio de 2018.
+
+Madrid, 28 de junio de 2018.–La Ministra de Trabajo, Migraciones y Seguridad Social, Magdalena Valerio Cordero.

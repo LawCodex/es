@@ -271,147 +271,142 @@ h) Los presupuestos de los fondos a que se refiere el artículo 5.5 del texto re
 
 1\. Para la ejecución de los programas integrados en los estados de gastos mencionados en los párrafos a), b), c), d) y e) del artículo 1 se aprueban créditos por importe de cincuenta y un mil quinientos noventa y siete millones novecientos cuarenta y cuatro mil setecientos cuarenta y seis euros (51.597.944.746 euros). La agrupación por funciones de los créditos de estos programas es la siguiente:
 
-<table class="tabla">
-<colgroup>
-<col width="5%">
-<col width="70%">
-<col width="25%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Funciones</th>
-<th class="cabeza_tabla">Euros</th>
+<th colspan="2">Funciones</th>
+<th>Euros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">0.1</td>
-<td class="cuerpo_tabla_izq">Deuda Pública.</td>
-<td class="cuerpo_tabla_coma">4.415.861.223</td>
+<td>0.1</td>
+<td>Deuda Pública.</td>
+<td>4.415.861.223</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.1</td>
-<td class="cuerpo_tabla_izq">Alta Dirección de la Junta de Andalucía.</td>
-<td class="cuerpo_tabla_coma">181.101.748</td>
+<td>1.1</td>
+<td>Alta Dirección de la Junta de Andalucía.</td>
+<td>181.101.748</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.2</td>
-<td class="cuerpo_tabla_izq">Administración General.</td>
-<td class="cuerpo_tabla_coma">1.450.223.812</td>
+<td>1.2</td>
+<td>Administración General.</td>
+<td>1.450.223.812</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">1.4</td>
-<td class="cuerpo_tabla_izq">Justicia.</td>
-<td class="cuerpo_tabla_coma">751.463.157</td>
+<td>1.4</td>
+<td>Justicia.</td>
+<td>751.463.157</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">2.2</td>
-<td class="cuerpo_tabla_izq">Seguridad y Protección Civil.</td>
-<td class="cuerpo_tabla_coma">83.337.796</td>
+<td>2.2</td>
+<td>Seguridad y Protección Civil.</td>
+<td>83.337.796</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.1</td>
-<td class="cuerpo_tabla_izq">Seguridad y Protección Social.</td>
-<td class="cuerpo_tabla_coma">3.743.682.948</td>
+<td>3.1</td>
+<td>Seguridad y Protección Social.</td>
+<td>3.743.682.948</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">3.2</td>
-<td class="cuerpo_tabla_izq">Promoción Social.</td>
-<td class="cuerpo_tabla_coma">1.131.334.574</td>
+<td>3.2</td>
+<td>Promoción Social.</td>
+<td>1.131.334.574</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.1</td>
-<td class="cuerpo_tabla_izq">Sanidad.</td>
-<td class="cuerpo_tabla_coma">15.989.267.896</td>
+<td>4.1</td>
+<td>Sanidad.</td>
+<td>15.989.267.896</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.2</td>
-<td class="cuerpo_tabla_izq">Educación.</td>
-<td class="cuerpo_tabla_coma">10.619.344.810</td>
+<td>4.2</td>
+<td>Educación.</td>
+<td>10.619.344.810</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.3</td>
-<td class="cuerpo_tabla_izq">Vivienda y Urbanismo.</td>
-<td class="cuerpo_tabla_coma">763.303.177</td>
+<td>4.3</td>
+<td>Vivienda y Urbanismo.</td>
+<td>763.303.177</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.4</td>
-<td class="cuerpo_tabla_izq">Bienestar Comunitario.</td>
-<td class="cuerpo_tabla_coma">751.777.562</td>
+<td>4.4</td>
+<td>Bienestar Comunitario.</td>
+<td>751.777.562</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.5</td>
-<td class="cuerpo_tabla_izq">Cultura.</td>
-<td class="cuerpo_tabla_coma">251.013.435</td>
+<td>4.5</td>
+<td>Cultura.</td>
+<td>251.013.435</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">4.6</td>
-<td class="cuerpo_tabla_izq">Deporte.</td>
-<td class="cuerpo_tabla_coma">65.991.464</td>
+<td>4.6</td>
+<td>Deporte.</td>
+<td>65.991.464</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.1</td>
-<td class="cuerpo_tabla_izq">Infraestructuras Básicas y Transportes.</td>
-<td class="cuerpo_tabla_coma">1.875.109.420</td>
+<td>5.1</td>
+<td>Infraestructuras Básicas y Transportes.</td>
+<td>1.875.109.420</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.2</td>
-<td class="cuerpo_tabla_izq">Comunicaciones.</td>
-<td class="cuerpo_tabla_coma">216.183.406</td>
+<td>5.2</td>
+<td>Comunicaciones.</td>
+<td>216.183.406</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">5.4</td>
-<td class="cuerpo_tabla_izq">Investigación, Innovación y Sociedad del Conocimiento.</td>
-<td class="cuerpo_tabla_coma">398.621.992</td>
+<td>5.4</td>
+<td>Investigación, Innovación y Sociedad del Conocimiento.</td>
+<td>398.621.992</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.1</td>
-<td class="cuerpo_tabla_izq">Regulación Económica.</td>
-<td class="cuerpo_tabla_coma">465.635.589</td>
+<td>6.1</td>
+<td>Regulación Económica.</td>
+<td>465.635.589</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">6.3</td>
-<td class="cuerpo_tabla_izq">Regulación Financiera.</td>
-<td class="cuerpo_tabla_coma">438.150.000</td>
+<td>6.3</td>
+<td>Regulación Financiera.</td>
+<td>438.150.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.1</td>
-<td class="cuerpo_tabla_izq">Agricultura, Ganadería y Pesca.</td>
-<td class="cuerpo_tabla_coma">2.631.855.022</td>
+<td>7.1</td>
+<td>Agricultura, Ganadería y Pesca.</td>
+<td>2.631.855.022</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.2</td>
-<td class="cuerpo_tabla_izq">Fomento Empresarial.</td>
-<td class="cuerpo_tabla_coma">358.215.329</td>
+<td>7.2</td>
+<td>Fomento Empresarial.</td>
+<td>358.215.329</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.3</td>
-<td class="cuerpo_tabla_izq">Industria, Energía y Minas.</td>
-<td class="cuerpo_tabla_coma">622.486.098</td>
+<td>7.3</td>
+<td>Industria, Energía y Minas.</td>
+<td>622.486.098</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.5</td>
-<td class="cuerpo_tabla_izq">Turismo.</td>
-<td class="cuerpo_tabla_coma">160.831.101</td>
+<td>7.5</td>
+<td>Turismo.</td>
+<td>160.831.101</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">7.6</td>
-<td class="cuerpo_tabla_izq">Comercio.</td>
-<td class="cuerpo_tabla_coma">22.826.703</td>
+<td>7.6</td>
+<td>Comercio.</td>
+<td>22.826.703</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.1</td>
-<td class="cuerpo_tabla_izq">Relaciones con las Corporaciones Locales.</td>
-<td class="cuerpo_tabla_coma">4.184.851.111</td>
+<td>8.1</td>
+<td>Relaciones con las Corporaciones Locales.</td>
+<td>4.184.851.111</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">8.2</td>
-<td class="cuerpo_tabla_izq">Relaciones con la Unión Europea y Ayudas al Desarrollo.</td>
-<td class="cuerpo_tabla_coma">25.475.373</td>
+<td>8.2</td>
+<td>Relaciones con la Unión Europea y Ayudas al Desarrollo.</td>
+<td>25.475.373</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2"> Total.</td>
-<td class="cuerpo_tabla_coma">51.597.944.746</td>
+<td colspan="2"> Total.</td>
+<td>51.597.944.746</td>
 </tr>
 </tbody>
 </table>
@@ -2351,51 +2346,46 @@ Tres. Se modifica el artículo 231, relativo a la cuota tributaria de la tasa po
 
 > 1\. Por expedición de licencias de caza en Andalucía:
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="2"> </th>
-> <th class="cabeza_tabla">Importe</th>
+> <th colspan="2"> </th>
+> <th>Importe</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="6">Licencias básicas.</td>
-> <td class="cuerpo_tabla_izq">Sin arma.</td>
-> <td class="cuerpo_tabla_izq">10,18 €/año.</td>
+> <td rowspan="6">Licencias básicas.</td>
+> <td>Sin arma.</td>
+> <td>10,18 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Con armas de fuego-Menor solo.</td>
-> <td class="cuerpo_tabla_izq">17,98 €/año.</td>
+> <td>Con armas de fuego-Menor solo.</td>
+> <td>17,98 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Con armas de fuego-Mayor y menor.</td>
-> <td class="cuerpo_tabla_izq">28,29 €/año.</td>
+> <td>Con armas de fuego-Mayor y menor.</td>
+> <td>28,29 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Reclamo de perdiz-Menor solo.</td>
-> <td class="cuerpo_tabla_izq">56,82 €/año.</td>
+> <td>Reclamo de perdiz-Menor solo.</td>
+> <td>56,82 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Reclamo de perdiz-Mayor y menor.</td>
-> <td class="cuerpo_tabla_izq">62,41 €/año.</td>
+> <td>Reclamo de perdiz-Mayor y menor.</td>
+> <td>62,41 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Cetrería.</td>
-> <td class="cuerpo_tabla_izq">45,45 €/año.</td>
+> <td>Cetrería.</td>
+> <td>45,45 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Licencia de rehala.</td>
-> <td class="cuerpo_tabla_izq">45,45 €/año.</td>
+> <td colspan="2">Licencia de rehala.</td>
+> <td>45,45 €/año.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">Licencia de caza temporal.</td>
-> <td class="cuerpo_tabla_izq">28,29 €/por periodo autorizado.</td>
+> <td colspan="2">Licencia de caza temporal.</td>
+> <td>28,29 €/por periodo autorizado.</td>
 > </tr>
 > </tbody>
 > </table>

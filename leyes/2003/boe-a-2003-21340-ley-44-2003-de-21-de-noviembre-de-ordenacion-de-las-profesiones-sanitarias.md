@@ -350,12 +350,6 @@ Corresponde al Gobierno, a propuesta conjunta de los Ministerios de Educación, 
 
 1\. Los títulos de especialista en Ciencias de la Salud serán expedidos por el Ministerio de Sanidad.
 
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por la disposición final 14.1 de la Ley Orgánica 8/2021, de 4 de junio. [Ref. BOE-A-2021-9347](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9347), produce efectos a partir del 1 de enero de 2002, según dispone su disposición final 25.
-
-> Redacción anterior:
-
-> "1. Los títulos de especialista en Ciencias de la Salud serán expedidos por el Ministerio de Educación, Cultura y Deporte."
-
 2\. La obtención del título de especialista requiere:
 
 a) Estar en posesión del título de Licenciado o Diplomado Universitario que, en cada caso, se exija.
@@ -943,8 +937,6 @@ En tanto se constituyen los órganos colegiados a que se refieren los artículos
 ###### Disposición transitoria séptima. Expedición de títulos de especialista en Ciencias de la Salud.
 
 Los procedimientos de expedición de títulos iniciados con anterioridad al 1 de enero de 2022 y aún en curso, seguirán siendo tramitados por el Ministerio de Universidades y, por tanto, los títulos serán expedidos por este último.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 14.2 de la Ley Orgánica 8/2021, de 4 de junio. [Ref. BOE-A-2021-9347](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9347), produce efectos a partir del 1 de enero de 2002, según dispone su disposición final 25.
 
 > Se añade, con efectos desde el 1 de enero de 2022, por la disposición final 14.2 de la Ley Orgánica 8/2021, de 4 de junio. [Ref. BOE-A-2021-9347](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9347)
 

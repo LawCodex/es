@@ -1202,22 +1202,6 @@ Las citaciones o comunicaciones efectuadas por medios electrónicos se entender�
 
 4\. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, no facilitar a la entidad gestora de dichas prestaciones la información necesaria para garantizar la recepción de sus notificaciones y comunicaciones. Las citaciones o comunicaciones efectuadas por medios electrónicos se entenderán validas a efectos de notificaciones siempre que los trabajadores hayan expresado previamente su consentimiento o esté obligados a recibirlas por una norma con rango de Ley.
 
-> Téngase en cuenta que la modificación de los apartados 3.c) y 4, establecida por la disposición final 2.2 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
-
-> Redacción anterior:
-
-> "3.c) No cumplir las exigencias del compromiso de actividad, salvo causa justificada, siempre que la conducta no esté tipificada como otra infracción leve o grave en los artículos 24 ó 25 de esta Ley.
-
-> A los efectos previstos en esta Ley, se entenderá por compromiso de actividad el que reúna los requisitos establecidos en el apartado 2 del artículo 231 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio."
-
-> "4. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, los siguientes incumplimientos ante la entidad gestora de dichas prestaciones:
-
-> a) No facilitar la información necesaria para garantizar la recepción de sus notificaciones y comunicaciones.
-
-> Las citaciones o comunicaciones efectuadas por medios electrónicos se entenderán validas a efectos de notificaciones siempre que los trabajadores hayan expresado previamente su consentimiento.
-
-> b) No cumplir el requisito, exigido para la conservación de la percepción de la prestación, de estar inscrito como demandante de empleo en los términos establecidos en los artículos 209.1 y 215.4 del texto refundido de la Ley General de la Seguridad Social, salvo causa justificada."
-
 > Se modifican los apartados 3.c) y 4 por la disposición final 2.2 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
 > Esta modificación entra en vigor el 1 de noviembre de 2024, según establece la disposición final 14.2 del citado Real Decreto-ley.
@@ -1261,20 +1245,6 @@ a) Rechazar una oferta de empleo adecuada, ya sea ofrecida por los servicios pú
 b) Negarse a participar en acciones, programas o actividades señalados en el itinerario o plan personalizado para la mejora de la empleabilidad y el acceso al mercado de trabajo, salvo causa justificada, ofrecidos por los servicios públicos de empleo o entidades colaboradoras.
 
 A los efectos previstos en esta ley, se entenderá por colocación adecuada la que reúna los requisitos establecidos en el artículo 3.g) de la Ley 3/2023, de 28 de febrero.
-
-> Téngase en cuenta que la modificación de los apartados 3 y 4, establecida por la disposición final 2.3 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
-
-> Redacción anterior:
-
-> "3. No comunicar, salvo causa justificada, las bajas en las prestaciones en el momento en que se produzcan situaciones determinantes de la suspensión o extinción del derecho, o cuando se dejen de reunir los requisitos para el derecho a su percepción cuando por cualquiera de dichas causas se haya percibido indebidamente la prestación, siempre que la conducta no esté tipificada como infracción leve en el artículo 24.4.b) de esta ley.
-
-> 4\. En el caso de solicitantes o beneficiarios de prestaciones por desempleo de nivel contributivo o asistencial, o de trabajadores por cuenta propia solicitantes o beneficiarios de la prestación por cese de actividad:
-
-> a) Rechazar una oferta de empleo adecuada, ya sea ofrecida por los servicios públicos de empleo o por las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos, salvo causa justificada.
-
-> b) Negarse a participar en los trabajos de colaboración social, programas de empleo, incluidos los de inserción profesional, o en acciones de promoción, formación o reconversión profesional, salvo causa justificada, ofrecidos por los servicios públicos de empleo o en las acciones de orientación e información profesional ofrecidas por las agencias de colocación cuando desarrollen actividades en el ámbito de la colaboración con aquéllos.
-
-> A los efectos previstos en esta ley, se entenderá por colocación adecuada la que reúna los requisitos establecidos en el artículo 3.g) de la Ley 3/2023, de 28 de febrero, de Empleo."
 
 > Se modifican los apartados 3 y 4 por la disposición final 2.3 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235)
 
@@ -1883,32 +1853,6 @@ Igualmente, se les podrá excluir del derecho a percibir cualquier prestación e
 d) No obstante las sanciones anteriores, en el supuesto de que la trasgresión de las obligaciones afecte al cumplimiento y conservación de los requisitos que dan derecho a la prestación, podrá la entidad gestora suspender cautelarmente la misma hasta que la resolución administrativa sea definitiva.
 
 e) A estos efectos tendrán la consideración de beneficiarios de prestaciones por desempleo los trabajadores desempleados durante el plazo de quince días hábiles de solicitud de las prórrogas del subsidio por desempleo establecida en el artículo 276.2 de la Ley General de la Seguridad Social, así como durante la suspensión cautelar o definitiva de la prestación o subsidio por desempleo como consecuencia de un procedimiento sancionador o de lo establecido en el artículo 271.1.h) de dicha Ley.
-
-> Téngase en cuenta que la modificación del apartado 1.b) y e), establecida por la disposición final 2.5 del Real Decreto-ley 2/2024, de 21 de mayo. [Ref. BOE-A-2024-10235](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10235), entra en vigor el 1 de noviembre de 2024, según determina su disposición final 14.2.
-
-> Redacción anterior:
-
-> "b) Las graves tipificadas en el artículo 25 con pérdida de la prestación o pensión durante un período de tres meses, salvo las de sus números 2 y 3, respectivamente, en las prestaciones por incapacidad temporal y en las prestaciones y subsidios por desempleo, así como en la prestación por cese de actividad de los trabajadores autónomos, en las que la sanción será de extinción de la prestación.
-
-> En el caso de las prestaciones por desempleo de nivel contributivo o asistencial las infracciones graves tipificadas en el apartado 4 del artículo 25 se sancionarán conforme a la siguiente escala:
-
-> 1\. Infracción. Pérdida de 3 meses de prestaciones.
-
-> 2\. Infracción. Pérdida de 6 meses de prestaciones.
-
-> 3\. Infracción. Extinción de prestaciones.
-
-> En el caso de la prestación por cese de actividad de los trabajadores autónomos, la infracción grave tipificada en el artículo 25.4 b) se sancionará conforme a la siguiente escala:
-
-> 1\. Infracción. Pérdida de 1 mes y 15 días de prestación.
-
-> 2\. Infracción. Pérdida de 3 meses de prestación.
-
-> 3\. Infracción. Extinción de la prestación.
-
-> Se aplicarán estas escalas a partir de la primera infracción y cuando entre la comisión de una infracción grave y la anterior no hayan transcurrido más de los 365 días que establece el artículo 41.1 de esta Ley, con independencia del tipo de infracción."
-
-> "e) A estos efectos tendrán la consideración de beneficiarios de prestaciones por desempleo los trabajadores desempleados durante el plazo de solicitud de las prórrogas del subsidio por desempleo establecida en el artículo 219.4 de la Ley General de la Seguridad Social, así como durante la suspensión cautelar o definitiva de la prestación o subsidio por desempleo como consecuencia de un procedimiento sancionador o de lo establecido en el artículo 212.3. de dicha Ley."
 
 2\. En el caso de trabajadores por cuenta propia o ajena, y demandantes de empleo no solicitantes ni beneficiarios de prestaciones por desempleo, o de la prestación por cese de actividad del trabajador autónomo, las infracciones se sancionarán:
 

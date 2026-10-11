@@ -501,530 +501,530 @@ La tasa contemplada en esta letra c) no se aplicará durante las tres primeras c
 
 d) Por la inspección fitosanitaria a que se refiere el artículo 10.2 para la importación de vegetales, productos vegetales y objetos conexos, procedentes de terceros países, cualquiera que sea su destino aduanero, y cuya inspección sea obligatoria para la introducción en territorio español, se establecen las siguientes tasas:
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Elementos</p>
+<p>Elementos</p>
 </th>
 <th>
-<p class="cabeza_tabla">Cantidad</p>
+<p>Cantidad</p>
 </th>
 <th>
-<p class="cabeza_tabla">Precio</p>
-<p class="cabeza_tabla">(en euros)</p>
+<p>Precio</p>
+<p>(en euros)</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">a) Controles documentales.</p>
+<p>a) Controles documentales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>Por envío</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">b) Controles de identidad.</p>
+<p>b) Controles de identidad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta las dimensiones de un cargamento de camión, de vagón de ferrocarril o de un contenedor de volumen comparable.</p>
+<p>– Hasta las dimensiones de un cargamento de camión, de vagón de ferrocarril o de un contenedor de volumen comparable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">– De mayores dimensiones</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">c) Controles fitosanitarios, con arreglo a las especies siguientes:</p>
-</td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Esquejes, plantas de semilleros (excepto material de reproducción forestal), plantones de fresas u hortalizas.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por envío</p>
-</td>
-<td> </td>
-</tr>
-<tr>
-<td rowspan="3"> </td>
-<td>
-<p class="cuerpo_tabla_izq">– Hasta 10.000 unidades</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 1.000 unidades adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Arbustos, árboles (excepto los árboles de Navidad cortados), otras plantas leñosas de vivero incluido el material de reproducción forestal (excepto las semillas).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Por envío</p>
-</td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">– Hasta 1.000 unidades</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17,5</p>
+<p>7</p>
 </td>
 </tr>
 <tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Por cada 100 unidades adicionales</p>
+<p>– De mayores dimensiones</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,44</p>
+<p>14</p>
 </td>
 </tr>
 <tr>
+<td>
+<p>c) Controles fitosanitarios, con arreglo a las especies siguientes:</p>
+</td>
 <td> </td>
-<td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">140</p>
-</td>
+<td> </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Bulbos, cormos rizomas, tubérculos destinados a la plantación (excepto los de las patatas).</p>
+<p>– Esquejes, plantas de semilleros (excepto material de reproducción forestal), plantones de fresas u hortalizas.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 200 Kg de peso</p>
+<p>– Hasta 10.000 unidades</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 10 Kg adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,16</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 1.000 unidades adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>0,7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Semillas, cultivos tisulares.</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Arbustos, árboles (excepto los árboles de Navidad cortados), otras plantas leñosas de vivero incluido el material de reproducción forestal (excepto las semillas).</p>
+</td>
+<td>
+<p>Por envío</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>– Hasta 1.000 unidades</p>
+</td>
+<td>
+<p>17,5</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>– Por cada 100 unidades adicionales</p>
+</td>
+<td>
+<p>0,44</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>– Precio máximo</p>
+</td>
+<td>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Bulbos, cormos rizomas, tubérculos destinados a la plantación (excepto los de las patatas).</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 100 Kg de peso</p>
+<p>– Hasta 200 Kg de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 10 Kg adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,175</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 10 Kg adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>0,16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Otros vegetales destinados a su siembra no mencionados en otras casillas de este cuadro.</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Semillas, cultivos tisulares.</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 5.000 unidades</p>
+<p>– Hasta 100 Kg de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 100 unidades adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,18</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 10 Kg adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>0,175</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Flores cortadas.</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Otros vegetales destinados a su siembra no mencionados en otras casillas de este cuadro.</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 20.000 unidades</p>
+<p>– Hasta 5.000 unidades</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 1.000 unidades adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,14</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– precio máximo</p>
+<p>– Por cada 100 unidades adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>0,18</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Ramas con flores, partes de coníferas (excepto los árboles de Navidad cortados).</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Flores cortadas.</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 100 Kg. de peso</p>
+<p>– Hasta 20.000 unidades</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 100 Kg. adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 1.000 unidades adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>0,14</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Árboles Navidad cortados.</p>
+<p>– precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Ramas con flores, partes de coníferas (excepto los árboles de Navidad cortados).</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 1.000 unidades</p>
+<p>– Hasta 100 Kg. de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 100 unidades adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 100 Kg. adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>1,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Hojas de vegetales como las hierbas aromáticas, las especias y las hortalizas de hoja.</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Árboles Navidad cortados.</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 100 Kg. de peso</p>
+<p>– Hasta 1.000 unidades</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 10 Kg. adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,75</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 100 unidades adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>1,75</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Frutas y hortalizas (excepto las de hoja).</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Hojas de vegetales como las hierbas aromáticas, las especias y las hortalizas de hoja.</p>
+</td>
+<td>
+<p>Por envío</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="3"> </td>
+<td>
+<p>– Hasta 100 Kg. de peso</p>
+</td>
+<td>
+<p>17,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Por cada 10 Kg. adicionales</p>
+</td>
+<td>
+<p>1,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Precio máximo</p>
+</td>
+<td>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Frutas y hortalizas (excepto las de hoja).</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="2"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 25.000 Kg. de peso</p>
+<p>– Hasta 25.000 Kg. de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 1.000 Kg. adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Tubérculos de patatas.</p>
+<p>– Por cada 1.000 Kg. adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por lote</p>
+<p>0,7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Tubérculos de patatas.</p>
+</td>
+<td>
+<p>Por lote</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="2"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 25.000 Kg. de peso</p>
+<p>– Hasta 25.000 Kg. de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">52,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 25.000 Kg. adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">52,5</p>
+<p>52,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Madera (excepto las cortezas).</p>
+<p>– Por cada 25.000 Kg. adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>52,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Madera (excepto las cortezas).</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="2"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 100 m3 de volumen</p>
+<p>– Hasta 100 m3 de volumen</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada m3 adicional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,175</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Tierra y medio de cultivo, cortezas.</p>
+<p>– Por cada m3 adicional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>0,175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Tierra y medio de cultivo, cortezas.</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td rowspan="3"> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 25.000 Kg. de peso</p>
+<p>– Hasta 25.000 Kg. de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 1.000 Kg. adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 1.000 Kg. adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">140</p>
+<p>0,7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Cereales.</p>
+<p>– Precio máximo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Cereales.</p>
+</td>
+<td>
+<p>Por envío</p>
 </td>
 <td> </td>
 </tr>
 <tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Hasta 25.000 Kg. de peso</p>
+<p>– Hasta 25.000 Kg. de peso</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td>
-<p class="cuerpo_tabla_izq">– Por cada 1.000 Kg. adicionales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,7</p>
+<p>17,5</p>
 </td>
 </tr>
 <tr>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">– Precio máximo</p>
+<p>– Por cada 1.000 Kg. adicionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">700</p>
+<p>0,7</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>– Precio máximo</p>
+</td>
+<td>
+<p>700</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">– Otros vegetales o productos vegetales no mencionados en otras casillas de este cuadro</p>
+<p>– Otros vegetales o productos vegetales no mencionados en otras casillas de este cuadro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Por envío</p>
+<p>Por envío</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">17,5</p>
+<p>17,5</p>
 </td>
 </tr>
 </tbody>

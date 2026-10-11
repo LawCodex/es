@@ -6042,8 +6042,6 @@ Para el inicio de las obras será suficiente con la presentación por el interes
 
 [...]».
 
-> Téngase en cuenta que esta última actualización, por la que se añade la presente disposición, por el art. 141 de la Ley 7/2023, de 26 de diciembre. [Ref. BOE-A-2024-2666](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2666), entra en vigor el 1 de julio de 2024, según establece la disposición final tercera de la presente norma en la redacción dada por la citada Ley.
-
 > Se añade, con efectos de 1 de julio de 2024, por el art. 141 de la Ley 7/2023, de 26 de diciembre. [Ref. BOE-A-2024-2666](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2666)
 
 **Disposición adicional duodécima.**
@@ -7083,126 +7081,120 @@ El plan general estructural contendrá una ficha resumen para cada uno de los se
 | ORDENANZAS GENERALES Y PARTICULARES |  |
 | (15) |  |
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Ficha de gestión: Sectores</th>
-<th class="cabeza_tabla" colspan="3">Nombre del sector (1)</th>
+<th>Ficha de gestión: Sectores</th>
+<th colspan="3">Nombre del sector (1)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">CLASIFICACIÓN Y CALIFICACIÓN</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">ZONA DE ORDENACIÓN</td>
-<td class="cuerpo_tabla_izq" colspan="3">(2)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">USO DOMINANTE</td>
-<td class="cuerpo_tabla_izq" colspan="3">(3)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">USOS COMPATIBLES</td>
-<td class="cuerpo_tabla_izq" colspan="3">(4)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">USOS INCOMPATIBLES</td>
-<td class="cuerpo_tabla_izq" colspan="3">(5)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">CRITERIOS DE APROVECHAMIENTO TIPO Y ÁREA DE REPARTO</td>
-<td class="cuerpo_tabla_izq" colspan="3">(6)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">PLANO DE DELIMITACIÓN DEL SECTOR</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">(7)</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">PARÁMETROS URBANÍSTICOS (8)</td>
-<td class="cuerpo_tabla_izq" colspan="3"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUPERFICIE DEL SECTOR (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">IEB (m² techo/m² suelo)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. RED PRIMARIA INSCRITA (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">IER (m² techo/m² suelo)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. INSCRITA COMUNICACIONES (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">IET (m² techo/m² suelo)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. INSCRITA ZONAS VERDES (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">IEI (m² techo/m² suelo)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. INSCRITA EQUIPAMIENTOS (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">EDIFICABILIDAD RESIDENCIAL TOTAL (m² techo)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. RED PRIMARIA ADSCRITA (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">EDIFICABILIDAD VIVIENDAS VPP (m² techo)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. ADSCRITA COMUNICACIONES (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">PORCENTAJE DE RESERVA DE VPP (%)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. ADSCRITA ZONAS VERDES (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">N.º DE VIVIENDAS TOTAL</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. ADSCRITA EQUIPAMIENTOS (m² suelo)</td>
-<td class="cuerpo_tabla_izq" colspan="3">N.º DE HABITANTES ESTIMADOS</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. RED PRIMARIA</td>
-<td class="cuerpo_tabla_izq" colspan="3">N.º DE VIVIENDAS POR HECTÁREA</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">AFECTA A SU DESTINO (m²)</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">SUP. COMPUTABLE DEL SECTOR (m² suelo)</td>
-<td colspan="6"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">CONDICIONES DE ORDENACIÓN</td>
-<td colspan="6"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">(9)</td>
+<td>CLASIFICACIÓN Y CALIFICACIÓN</td>
 <td colspan="3"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CONDICIONES DE GESTIÓN (10)</td>
+<td>ZONA DE ORDENACIÓN</td>
+<td colspan="3">(2)</td>
+</tr>
+<tr>
+<td>USO DOMINANTE</td>
+<td colspan="3">(3)</td>
+</tr>
+<tr>
+<td>USOS COMPATIBLES</td>
+<td colspan="3">(4)</td>
+</tr>
+<tr>
+<td>USOS INCOMPATIBLES</td>
+<td colspan="3">(5)</td>
+</tr>
+<tr>
+<td>CRITERIOS DE APROVECHAMIENTO TIPO Y ÁREA DE REPARTO</td>
+<td colspan="3">(6)</td>
+</tr>
+<tr>
+<td>PLANO DE DELIMITACIÓN DEL SECTOR</td>
 <td colspan="3"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Figura de planeamiento:</td>
+<td>(7)</td>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td>PARÁMETROS URBANÍSTICOS (8)</td>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td>SUPERFICIE DEL SECTOR (m² suelo)</td>
+<td colspan="3">IEB (m² techo/m² suelo)</td>
+</tr>
+<tr>
+<td>SUP. RED PRIMARIA INSCRITA (m² suelo)</td>
+<td colspan="3">IER (m² techo/m² suelo)</td>
+</tr>
+<tr>
+<td>SUP. INSCRITA COMUNICACIONES (m² suelo)</td>
+<td colspan="3">IET (m² techo/m² suelo)</td>
+</tr>
+<tr>
+<td>SUP. INSCRITA ZONAS VERDES (m² suelo)</td>
+<td colspan="3">IEI (m² techo/m² suelo)</td>
+</tr>
+<tr>
+<td>SUP. INSCRITA EQUIPAMIENTOS (m² suelo)</td>
+<td colspan="3">EDIFICABILIDAD RESIDENCIAL TOTAL (m² techo)</td>
+</tr>
+<tr>
+<td>SUP. RED PRIMARIA ADSCRITA (m² suelo)</td>
+<td colspan="3">EDIFICABILIDAD VIVIENDAS VPP (m² techo)</td>
+</tr>
+<tr>
+<td>SUP. ADSCRITA COMUNICACIONES (m² suelo)</td>
+<td colspan="3">PORCENTAJE DE RESERVA DE VPP (%)</td>
+</tr>
+<tr>
+<td>SUP. ADSCRITA ZONAS VERDES (m² suelo)</td>
+<td colspan="3">N.º DE VIVIENDAS TOTAL</td>
+</tr>
+<tr>
+<td>SUP. ADSCRITA EQUIPAMIENTOS (m² suelo)</td>
+<td colspan="3">N.º DE HABITANTES ESTIMADOS</td>
+</tr>
+<tr>
+<td>SUP. RED PRIMARIA</td>
+<td colspan="3">N.º DE VIVIENDAS POR HECTÁREA</td>
+</tr>
+<tr>
+<td>AFECTA A SU DESTINO (m²)</td>
+</tr>
+<tr>
+<td>SUP. COMPUTABLE DEL SECTOR (m² suelo)</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td>CONDICIONES DE ORDENACIÓN</td>
+<td colspan="6"> </td>
+</tr>
+<tr>
+<td>(9)</td>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td>CONDICIONES DE GESTIÓN (10)</td>
+<td colspan="3"> </td>
+</tr>
+<tr>
+<td>Figura de planeamiento:</td>
 <td colspan="2">Gestión:</td>
 <td>Directa/Indirecta</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CONDICIONES DE EJECUCIÓN</td>
+<td>CONDICIONES DE EJECUCIÓN</td>
 <td colspan="3"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">(11)</td>
+<td>(11)</td>
 <td colspan="3"> </td>
 </tr>
 </tbody>

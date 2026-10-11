@@ -806,11 +806,7 @@ En concreto, para el conjunto «oficinas + otros locales (salas juntas/áreas si
 
 ## ANEXO III — Criterios de valoración
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="85%">
-<col width="15%">
-</colgroup>
+<table>
 <thead>
 <tr>
 <th>Criterios de valoración ayudas a inversiones en transformación, comercialización y/o desarrollo de productos agroalimentarios</th>
@@ -819,260 +815,260 @@ En concreto, para el conjunto «oficinas + otros locales (salas juntas/áreas si
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Características del solicitante<sup> </sup>(máximo 38 puntos)</em>
 <sup>1</sup>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1. Priorización respecto al proyecto de integración de la EAP<sup>2</sup> (máximo 3 puntos. No acumulativos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>1. Priorización respecto al proyecto de integración de la EAP<sup>2</sup> (máximo 3 puntos. No acumulativos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.1 EAP con un incremento de, al menos, el 1 % de socios cooperativistas de base.</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>1.1 EAP con un incremento de, al menos, el 1 % de socios cooperativistas de base.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.2 EAP con un incremento de, al menos, el 2 % en el número de socios de base.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>1.2 EAP con un incremento de, al menos, el 2 % en el número de socios de base.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1.3 EAP con un incremento de, al menos, el 5 % en el número de socios de base.</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>1.3 EAP con un incremento de, al menos, el 5 % en el número de socios de base.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2. Empleo dentro de la EAP (máximo 4 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>2. Empleo dentro de la EAP (máximo 4 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.1 EAP con empleo destinado a mujeres superior al 25 %.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>2.1 EAP con empleo destinado a mujeres superior al 25 %.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.2 EAP con empleo de mujeres y hombres jóvenes menores de 41 años con un porcentaje superior al 25 %.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>2.2 EAP con empleo de mujeres y hombres jóvenes menores de 41 años con un porcentaje superior al 25 %.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3. Implantación supraautonómica de la EAP (máximo 4 puntos. No acumulativos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>3. Implantación supraautonómica de la EAP (máximo 4 puntos. No acumulativos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.1 EAP con ámbito de implantación (socios) superior al de dos comunidades autónomas o a cinco provincias (de al menos dos comunidades autónomas).</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>3.1 EAP con ámbito de implantación (socios) superior al de dos comunidades autónomas o a cinco provincias (de al menos dos comunidades autónomas).</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">3.2 EAP con ámbito de implantación (socios) superior al de tres comunidades autónomas.</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>3.2 EAP con ámbito de implantación (socios) superior al de tres comunidades autónomas.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4. Composición del consejo rector (máximo 8 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>4. Composición del consejo rector (máximo 8 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.1 EAP con, al menos, un 30 % de mujeres en el Consejo Rector o en el Consejo de Administración.</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>4.1 EAP con, al menos, un 30 % de mujeres en el Consejo Rector o en el Consejo de Administración.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4.2 EAP con, al menos, un 10 % de mujeres y hombres menores de 41 años en el Consejo Rector o en el Consejo de Administración.</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>4.2 EAP con, al menos, un 10 % de mujeres y hombres menores de 41 años en el Consejo Rector o en el Consejo de Administración.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5. Grado de concentración de la oferta/abastecimiento de socios y entidades de base (máximo 7 puntos. No acumulativos).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>5. Grado de concentración de la oferta/abastecimiento de socios y entidades de base (máximo 7 puntos. No acumulativos).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.1 EAP con obligación de entrega/abastecimiento del 100 %<sup>3</sup>.</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>5.1 EAP con obligación de entrega/abastecimiento del 100 %<sup>3</sup>.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.2 EAP con obligación de entrega/abastecimiento igual o superior al 75 % y menor del 100 %<sup>3</sup>.</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>5.2 EAP con obligación de entrega/abastecimiento igual o superior al 75 % y menor del 100 %<sup>3</sup>.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5.3 EAP con obligación de entrega/abastecimiento igual o superior al 60 % y menor del 75 %<sup>3</sup>.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>5.3 EAP con obligación de entrega/abastecimiento igual o superior al 60 % y menor del 75 %<sup>3</sup>.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6. Porcentaje de operaciones con socios (máximo 7 puntos. No acumulativos).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>6. Porcentaje de operaciones con socios (máximo 7 puntos. No acumulativos).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.1 EAP con un volumen de operaciones con socios superior o igual al 90 %, teniendo en cuenta la media de los dos últimos ejercicios financieros cerrados.</td>
-<td class="cuerpo_tabla_coma">7</td>
+<td>6.1 EAP con un volumen de operaciones con socios superior o igual al 90 %, teniendo en cuenta la media de los dos últimos ejercicios financieros cerrados.</td>
+<td>7</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.2 EAP con un volumen de operaciones con socios superior o igual al 80 % y menor al 90 %, teniendo en cuenta la media de los dos últimos ejercicios financieros cerrados.</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>6.2 EAP con un volumen de operaciones con socios superior o igual al 80 % y menor al 90 %, teniendo en cuenta la media de los dos últimos ejercicios financieros cerrados.</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6.3 EAP con un volumen de operaciones con socios superior o igual al 70 % y menor al 80 %, teniendo en cuenta la media de los dos últimos ejercicios financieros cerrados.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>6.3 EAP con un volumen de operaciones con socios superior o igual al 70 % y menor al 80 %, teniendo en cuenta la media de los dos últimos ejercicios financieros cerrados.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7. Priorización respecto a la capacidad económica de la entidad (máximo 4 puntos. No acumulativos)<sup>4</sup>:</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>7. Priorización respecto a la capacidad económica de la entidad (máximo 4 puntos. No acumulativos)<sup>4</sup>:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.1 Entidad con una calificación de Buena/Satisfactoria (BBB/BB).</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>7.1 Entidad con una calificación de Buena/Satisfactoria (BBB/BB).</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">7.2 Entidad con una calificación de Excelente (A o superior).</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>7.2 Entidad con una calificación de Excelente (A o superior).</td>
+<td>4</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">8. Priorización de la no renuncia a ayudas. La entidad no ha renunciado en las 3 últimas convocatorias a ningún proyecto de inversión de la submedida 4.2 del PNDR o de la intervención 6842.2 del PEPAC, una vez concedida la ayuda.</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>8. Priorización de la no renuncia a ayudas. La entidad no ha renunciado en las 3 últimas convocatorias a ningún proyecto de inversión de la submedida 4.2 del PNDR o de la intervención 6842.2 del PEPAC, una vez concedida la ayuda.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
+<td>
 <em>Características del proyecto (máximo 108 puntos)</em>
 </td>
-<td class="cuerpo_tabla_coma"> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9. Priorización respecto a la ubicación de la futura inversión<sup>5</sup> (máximo 3 puntos).</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>9. Priorización respecto a la ubicación de la futura inversión<sup>5</sup> (máximo 3 puntos).</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.1 Inversiones que tengan lugar en zonas rurales<sup>5</sup>.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>9.1 Inversiones que tengan lugar en zonas rurales<sup>5</sup>.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">9.2 Inversiones que tengan lugar en zonas que se encuentren cubiertas por Marcos de Actuación o Planes específicos<sup>5</sup>.</td>
-<td class="cuerpo_tabla_coma">1</td>
+<td>9.2 Inversiones que tengan lugar en zonas que se encuentren cubiertas por Marcos de Actuación o Planes específicos<sup>5</sup>.</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">10. Priorización respecto a la creación y mantenimiento<sup>6</sup> de empleo en la entidad.</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>10. Priorización respecto a la creación y mantenimiento<sup>6</sup> de empleo en la entidad.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11. Priorización respecto a igualdad de género y promoción de jóvenes (máximo 4 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>11. Priorización respecto a igualdad de género y promoción de jóvenes (máximo 4 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.1 Inversión vinculada a la creación y mantenimiento de empleo destinado a mujeres en al menos un 50 % en los empleos creados.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>11.1 Inversión vinculada a la creación y mantenimiento de empleo destinado a mujeres en al menos un 50 % en los empleos creados.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">11.2 Inversión vinculada a la creación y mantenimiento de empleo de mujeres y hombres jóvenes menores de 41 años en al menos un 50 % de los empleos creados.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>11.2 Inversión vinculada a la creación y mantenimiento de empleo de mujeres y hombres jóvenes menores de 41 años en al menos un 50 % de los empleos creados.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12. Priorización respecto a la transformación industrial y valor añadido (máximo 25 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>12. Priorización respecto a la transformación industrial y valor añadido (máximo 25 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12.1 Inversión que se destina a una mayor transformación industrial (nuevo producto<sup>7</sup>) a la existente en la entidad en el momento de presentación de la solicitud.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>12.1 Inversión que se destina a una mayor transformación industrial (nuevo producto<sup>7</sup>) a la existente en la entidad en el momento de presentación de la solicitud.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12.2 Inversión que se destina a la obtención de nuevas presentaciones o formatos que permitan el acceso a nuevos mercados objetivo<sup>8</sup>.</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>12.2 Inversión que se destina a la obtención de nuevas presentaciones o formatos que permitan el acceso a nuevos mercados objetivo<sup>8</sup>.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">12.3 Inversión que conlleva una integración vertical, de forma que representa un paso más en la cadena alimentaria para el conjunto de la EAP o incluye todos los pasos hasta el cierre completo de la misma al incorporar uno de los tres eslabones de la cadena (producción-transformación-comercialización) que antes no tenía lugar para un determinado producto.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>12.3 Inversión que conlleva una integración vertical, de forma que representa un paso más en la cadena alimentaria para el conjunto de la EAP o incluye todos los pasos hasta el cierre completo de la misma al incorporar uno de los tres eslabones de la cadena (producción-transformación-comercialización) que antes no tenía lugar para un determinado producto.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13. Priorización del potencial de concentración de la oferta del producto (máximo 10 puntos. No acumulativos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>13. Priorización del potencial de concentración de la oferta del producto (máximo 10 puntos. No acumulativos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13.1 Inversión que conlleva un incremento previsto de, al menos, el 5 % de la cantidad de producto (en kg o litros) que comercializa/transforma la EAP, como consecuencia de la inversión.</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>13.1 Inversión que conlleva un incremento previsto de, al menos, el 5 % de la cantidad de producto (en kg o litros) que comercializa/transforma la EAP, como consecuencia de la inversión.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">13.2 Inversión que conlleva un incremento de, al menos, el 10 % de la cantidad de producto (en kg o litros) que comercializa/transforma la EAP, como consecuencia de la inversión.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>13.2 Inversión que conlleva un incremento de, al menos, el 10 % de la cantidad de producto (en kg o litros) que comercializa/transforma la EAP, como consecuencia de la inversión.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14. Priorización de la orientación hacia la internacionalización (puntuación máxima 9 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>14. Priorización de la orientación hacia la internacionalización (puntuación máxima 9 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14.1 Inversión que conlleva, al menos, un volumen del 10 % destinado al comercio exterior en mercados distintos del nacional.</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>14.1 Inversión que conlleva, al menos, un volumen del 10 % destinado al comercio exterior en mercados distintos del nacional.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14.2 Inversión que conlleva, al menos, un volumen del 10 % destinado al comercio exterior en países fuera de la UE.</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>14.2 Inversión que conlleva, al menos, un volumen del 10 % destinado al comercio exterior en países fuera de la UE.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14.3 Inversión orientada a la apertura de nuevos mercados internacionales en los que no opera la EAP en la actualidad<sup>9</sup>.</td>
-<td class="cuerpo_tabla_coma">3</td>
+<td>14.3 Inversión orientada a la apertura de nuevos mercados internacionales en los que no opera la EAP en la actualidad<sup>9</sup>.</td>
+<td>3</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15. Priorización de requisitos de calidad y cumplimiento de criterios medioambientales (máximo 8 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>15. Priorización de requisitos de calidad y cumplimiento de criterios medioambientales (máximo 8 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15.1 Inversión que lleva aparejada la puesta en marcha de algún tipo de certificación en aseguramiento de la calidad, basado en estándares internacionalmente reconocidos.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>15.1 Inversión que lleva aparejada la puesta en marcha de algún tipo de certificación en aseguramiento de la calidad, basado en estándares internacionalmente reconocidos.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15.2 Inversión que lleva aparejada la puesta en marcha de algún tipo de certificación relacionada con criterios medioambientales, basados en estándares internacionalmente reconocidos.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>15.2 Inversión que lleva aparejada la puesta en marcha de algún tipo de certificación relacionada con criterios medioambientales, basados en estándares internacionalmente reconocidos.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15.3 Inversión que se orienta, en todo o en parte, a la producción bajo una figura de calidad diferenciada reconocida (DOP, IGP, ETG).</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>15.3 Inversión que se orienta, en todo o en parte, a la producción bajo una figura de calidad diferenciada reconocida (DOP, IGP, ETG).</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">15.4 Inversión que se orienta, en todo o en parte, a la producción ecológica.</td>
-<td class="cuerpo_tabla_coma">2</td>
+<td>15.4 Inversión que se orienta, en todo o en parte, a la producción ecológica.</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16. Priorización del incremento de la sostenibilidad, eficiencia energética, uso de energías renovables, reducción y valorización de residuos y desperdicio alimentario (máximo 35 puntos):</td>
-<td class="cuerpo_tabla_coma"> </td>
+<td>16. Priorización del incremento de la sostenibilidad, eficiencia energética, uso de energías renovables, reducción y valorización de residuos y desperdicio alimentario (máximo 35 puntos):</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16.1 Inversión en la que se destina, al menos, el 15 % del presupuesto del proyecto a la mejora de la eficiencia energética y/o a la reducción del consumo hídrico<sup>10</sup>.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>16.1 Inversión en la que se destina, al menos, el 15 % del presupuesto del proyecto a la mejora de la eficiencia energética y/o a la reducción del consumo hídrico<sup>10</sup>.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16.2 Inversión en la que se destina, al menos, el 15 % del presupuesto del proyecto a la valorización, tratamiento y/o gestión de residuos y/o efluentes líquidos.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>16.2 Inversión en la que se destina, al menos, el 15 % del presupuesto del proyecto a la valorización, tratamiento y/o gestión de residuos y/o efluentes líquidos.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16.3 Inversión en la que se destina, al menos, el 10 % del presupuesto del proyecto a la utilización de energía renovable (biomasa, eólica, solar, geotérmica…), para los procesos de transformación, electricidad o climatización y exclusivamente destinada al autoconsumo en las instalaciones.</td>
-<td class="cuerpo_tabla_coma">10</td>
+<td>16.3 Inversión en la que se destina, al menos, el 10 % del presupuesto del proyecto a la utilización de energía renovable (biomasa, eólica, solar, geotérmica…), para los procesos de transformación, electricidad o climatización y exclusivamente destinada al autoconsumo en las instalaciones.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">16.4 Inversión en la que se destina, al menos, el 10 % del presupuesto del proyecto a la reducción del desperdicio alimentario.</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>16.4 Inversión en la que se destina, al menos, el 10 % del presupuesto del proyecto a la reducción del desperdicio alimentario.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">17. Priorización de la utilización de las Mejores Técnicas disponibles. La inversión contempla las Mejores Técnicas Disponibles (MTD) propias de su sector de actividad, que permitan conseguir mejores niveles productivos con menor consumo de recursos<sup>11</sup>.</td>
-<td class="cuerpo_tabla_coma">5</td>
+<td>17. Priorización de la utilización de las Mejores Técnicas disponibles. La inversión contempla las Mejores Técnicas Disponibles (MTD) propias de su sector de actividad, que permitan conseguir mejores niveles productivos con menor consumo de recursos<sup>11</sup>.</td>
+<td>5</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18. Inversión que se orienta a la transformación digital de la industria (industria conectada)<sup>12</sup>.</td>
-<td class="cuerpo_tabla_coma">4</td>
+<td>18. Inversión que se orienta a la transformación digital de la industria (industria conectada)<sup>12</sup>.</td>
+<td>4</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita"><sup>1</sup> En el caso de entidades mercantiles, los criterios relacionados con la EAP se aplicarán a la entidad con mayor participación accionarial, en caso de misma participación por parte de dos entidades, se aplicarán los criterios de la entidad que indique el solicitante.</p>
-<p class="cita"><sup>2</sup> Para su valoración se considerará la evolución del número de socios de acuerdo con la documentación aportada en las últimas dos comunicaciones anuales realizadas por la EAP de acuerdo con lo establecido en el artículo 6 del Real Decreto 550/2014, de 27 de junio. En el caso de entidades reconocidas en el último año, para optar a estos puntos, se deberá facilitar dicha información para el ejercicio anterior al de su reconocimiento.</p>
-<p class="cita"><sup>3</sup> Se tendrá en cuenta el porcentaje de entrega del producto objeto del proyecto, en el caso de aplicar a varios productos, el más favorable.</p>
-<p class="cita"><sup>4</sup> Calificación tomada de acuerdo con la Comunicación de la Comisión relativa a la revisión del método de fijación de los tipos de referencia y de actualización (2008/C 14/02)</p>
-<p class="cita"><sup>5</sup> De acuerdo con lo establecido en el punto 4.7.2 del Plan Estratégico de la PAC de España.</p>
-<p class="cita"><sup>6</sup> Vinculado a la durabilidad de la inversión. Para la evaluación favorable del cumplimiento deberá justificarse que la plantilla de las instalaciones se incrementa tras la inversión, debido a la misma.</p>
-<p class="cita"><sup>7</sup> Un producto que no se produce en la actualidad en la EAP.</p>
-<p class="cita"><sup>8</sup> Se considerarán nuevos mercados objetivos los nuevos segmentos de la comercialización, o nichos comerciales en los que aún no está presente la entidad.</p>
-<p class="cita"><sup>9</sup> Busca la exportación a un nuevo país en el que no opera en la actualidad la entidad.</p>
-<p class="cita"><sup>10</sup> Deberá aportarse un certificado emitido por un experto independiente que lo acredite.</p>
-<p class="cita"><sup>11</sup> Para acreditarlo, en la memoria que acompañe a la solicitud de ayuda, se justificará expresamente y de forma razonada en qué medida las inversiones contemplan la aplicación de la MTD, así como los documentos BREF de referencia. Solamente podrán optar a este criterio aquellas actividades industriales o agroindustriales relacionadas con la inversión, incluidas en dichos documentos.</p>
-<p class="cita"><sup>12</sup> Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos de implantación de la industria conectada:</p>
-<p class="cita">1. Apertura y compartición de datos.</p>
-<p class="cita">2. Análisis de datos, generación de valor y sistemas de soporte a la decisión (<em>IoT, big data, IA</em>, gemelos digitales de líneas y sistemas de producción, sistemas de trazabilidad (<em>blockchain</em>) y «aseguramiento» digitales para cadenas de suministro, realidad virtual y realidad integrada, ciberseguridad, etc.).</p>
-<p class="cita">3. Soluciones digitales aplicadas a:</p>
-<p class="cita">– Procesos productivos y gestión (medida y monitorización, automatización, gestión energética, mejora de la sostenibilidad, etc.).</p>
-<p class="cita">– Comercialización.</p>
-<p class="cita">– Soluciones de negocio interempresa.</p>
+<p><sup>1</sup> En el caso de entidades mercantiles, los criterios relacionados con la EAP se aplicarán a la entidad con mayor participación accionarial, en caso de misma participación por parte de dos entidades, se aplicarán los criterios de la entidad que indique el solicitante.</p>
+<p><sup>2</sup> Para su valoración se considerará la evolución del número de socios de acuerdo con la documentación aportada en las últimas dos comunicaciones anuales realizadas por la EAP de acuerdo con lo establecido en el artículo 6 del Real Decreto 550/2014, de 27 de junio. En el caso de entidades reconocidas en el último año, para optar a estos puntos, se deberá facilitar dicha información para el ejercicio anterior al de su reconocimiento.</p>
+<p><sup>3</sup> Se tendrá en cuenta el porcentaje de entrega del producto objeto del proyecto, en el caso de aplicar a varios productos, el más favorable.</p>
+<p><sup>4</sup> Calificación tomada de acuerdo con la Comunicación de la Comisión relativa a la revisión del método de fijación de los tipos de referencia y de actualización (2008/C 14/02)</p>
+<p><sup>5</sup> De acuerdo con lo establecido en el punto 4.7.2 del Plan Estratégico de la PAC de España.</p>
+<p><sup>6</sup> Vinculado a la durabilidad de la inversión. Para la evaluación favorable del cumplimiento deberá justificarse que la plantilla de las instalaciones se incrementa tras la inversión, debido a la misma.</p>
+<p><sup>7</sup> Un producto que no se produce en la actualidad en la EAP.</p>
+<p><sup>8</sup> Se considerarán nuevos mercados objetivos los nuevos segmentos de la comercialización, o nichos comerciales en los que aún no está presente la entidad.</p>
+<p><sup>9</sup> Busca la exportación a un nuevo país en el que no opera en la actualidad la entidad.</p>
+<p><sup>10</sup> Deberá aportarse un certificado emitido por un experto independiente que lo acredite.</p>
+<p><sup>11</sup> Para acreditarlo, en la memoria que acompañe a la solicitud de ayuda, se justificará expresamente y de forma razonada en qué medida las inversiones contemplan la aplicación de la MTD, así como los documentos BREF de referencia. Solamente podrán optar a este criterio aquellas actividades industriales o agroindustriales relacionadas con la inversión, incluidas en dichos documentos.</p>
+<p><sup>12</sup> Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos de implantación de la industria conectada:</p>
+<p>1. Apertura y compartición de datos.</p>
+<p>2. Análisis de datos, generación de valor y sistemas de soporte a la decisión (<em>IoT, big data, IA</em>, gemelos digitales de líneas y sistemas de producción, sistemas de trazabilidad (<em>blockchain</em>) y «aseguramiento» digitales para cadenas de suministro, realidad virtual y realidad integrada, ciberseguridad, etc.).</p>
+<p>3. Soluciones digitales aplicadas a:</p>
+<p>– Procesos productivos y gestión (medida y monitorización, automatización, gestión energética, mejora de la sostenibilidad, etc.).</p>
+<p>– Comercialización.</p>
+<p>– Soluciones de negocio interempresa.</p>
 </td>
 </tr>
 </tfoot>

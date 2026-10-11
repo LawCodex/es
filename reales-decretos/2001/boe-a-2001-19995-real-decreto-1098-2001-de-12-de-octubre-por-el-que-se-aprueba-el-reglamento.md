@@ -654,320 +654,320 @@ En la que S es el total de puntos obtenidos por la empresa considerando su propi
 
 7\. El valor del término correspondiente al índice de tecnicidad (T) que debe ser considerado en la fórmula del artículo 30 es el dado por el siguiente cuadro de correlaciones en el que se establecen cuatro escalas diferentes según cual sea la cuantía del importe anual medio de la obra ejecutada en el último quinquenio (V).
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">V = &lt;900.000</p>
+<p>V = &lt;900.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9</p>
+<p>1,9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,7</p>
+<p>3,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,6</p>
+<p>4,6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">t</p>
+<p>t</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>=&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9</p>
+<p>1,9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,7</p>
+<p>3,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,6</p>
+<p>4,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">900.000 &lt;4.500.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">t</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">4.500.000 &lt;15.000.000</p>
+<p>900.000 &lt;4.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p>2,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>3,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">t</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>4,2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>t</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,4</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>=&lt;</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+<td>
+<p>3,4</p>
+</td>
+<td>
+<p>4,2</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">V=&gt;15.000.000</p>
+<p>4.500.000 &lt;15.000.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>2,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">t</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>3,4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>t</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,4</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,6</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>=&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T=</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1</p>
+<p>2,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3</p>
+<p>3,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>V=&gt;15.000.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>&gt;</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>t</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>=&lt;</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>T=</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>0,5</p>
 </td>
 </tr>
 </tbody>
@@ -1011,131 +1011,131 @@ y Siendo V, el importe anual medio de obra ejecutada en el último quinquenio.
 
 El término de la experiencia constructiva general de la empresa (E) que debe ser considerado en la fórmula del artículo 30 será el mayor que corresponda considerando, bien sus años de antigüedad en el trabajo de la construcción, bien el importe total de obra ejecutada en el último quinquenio, con arreglo al siguiente cuadro:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Años de</p>
-<p class="cuerpo_tabla_izq">experiencia</p>
+<p>Años de</p>
+<p>experiencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>=&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Importe de obra ejecutada</p>
-<p class="cuerpo_tabla_izq">en el último quinquenio</p>
+<p>Importe de obra ejecutada</p>
+<p>en el último quinquenio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.500.000</p>
+<p>1.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.500.000</p>
+<p>4.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">7.500.000</p>
+<p>7.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10.500.000</p>
+<p>10.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">13.500.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.500.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4.500.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">7.500.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10.500.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">13.500.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>13.500.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">E</p>
+<p>=&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">=</p>
+<p>1.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>4.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
+<p>7.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4</p>
+<p>10.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>13.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>=</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+<td>
+<p>1</p>
 </td>
 </tr>
 </table>
@@ -1475,319 +1475,319 @@ En la que «S» es el total de puntos obtenidos por la empresa, considerando su 
 
 5\. El valor del término correspondiente al índice de tecnicidad (T), que debe ser considerado en la fórmula del artículo 40, es el dado por el siguiente cuadro de correlaciones, en el que se establecen cuatro escalas diferentes, según cuál sea la cuantía del importe anual medio de los trabajos de servicios ejecutados en el último trienio (V):
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">V = &lt;90.000</p>
+<p>V = &lt;90.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9</p>
+<p>1,9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,7</p>
+<p>3,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,6</p>
+<p>4,6</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">t</p>
+<p>t</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>=&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9</p>
+<p>1,9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,7</p>
+<p>3,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,6</p>
+<p>4,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">90.000 &lt;V=450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">&gt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">t</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">450.000 &lt;V=&lt;1.500.000</p>
+<p>90.000 &lt;V=450.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p>1,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p>2,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>3,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">t</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>4,2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>t</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,4</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>=&lt;</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+<td>
+<p>3,4</p>
+</td>
+<td>
+<p>4,2</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">V &gt; 1.500.000</p>
+<p>450.000 &lt;V=&lt;1.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">&gt;</p>
+<p>&gt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,4</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p>2,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">t</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>3,4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">=&lt;</p>
+<p>t</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,4</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,8</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,6</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>=&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">T=</p>
+<p>1,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0</p>
+<p>1,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,1</p>
+<p>2,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,3</p>
+<p>3,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>V &gt; 1.500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,5</p>
+<p>&gt;</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>t</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>=&lt;</p>
+</td>
+<td>
+<p>1,0</p>
+</td>
+<td>
+<p>1,4</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>T=</p>
+</td>
+<td>
+<p>0,0</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>0,5</p>
 </td>
 </tr>
 </table>
@@ -1829,118 +1829,118 @@ V, el importe anual medio de los trabajos de servicios totales ejecutados en el 
 
 El término de la experiencia en contratos de servicios de la empresa (E), que debe ser considerado en la fórmula del artículo 40, será el mayor que corresponda, considerando, bien sus años de antigüedad en la actividad, bien el importe total de los trabajos de servicios ejecutados en el último trienio, con arreglo al siguiente cuadro:
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Años de &gt;</p>
-<p class="cuerpo_tabla_centro">experiencia =&lt;</p>
+<p>Años de &gt;</p>
+<p>experiencia =&lt;</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">10</p>
+<p>10</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">15</p>
+<p>15</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20</p>
+<p>20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Importe de trabajos de servicios &gt;</p>
-<p class="cuerpo_tabla_centro">ejecutados =&lt;</p>
-<p class="cuerpo_tabla_centro">en el ultimo trienios</p>
+<p>Importe de trabajos de servicios &gt;</p>
+<p>ejecutados =&lt;</p>
+<p>en el ultimo trienios</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">150.000</p>
+<p>150.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">450.000</p>
+<p>450.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">750.000</p>
+<p>750.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.050.000</p>
+<p>1.050.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1.350.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">150.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">450.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">750.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.050.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1.350.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>1.350.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">E=</p>
+<p>150.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,0</p>
+<p>450.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,2</p>
+<p>750.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,4</p>
+<p>1.050.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,6</p>
+<p>1.350.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,8</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E=</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>0,0</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+<td>
+<p>1</p>
 </td>
 </tr>
 </tbody>
@@ -4303,3677 +4303,3677 @@ o) En Noruega: «Foretaksregisteret».
 
 ## ANEXO II — Correspondencia entre subgrupos de clasificación y códigos CPV de los contratos de servicios
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo L</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo L-1</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79500000-9</p>
+<p>79500000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de ayuda en las funciones de oficina.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79521000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de fotocopia.</p>
+<p>Servicios de ayuda en las funciones de oficina.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79550000-4</p>
+<p>79521000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mecanografía, tratamiento de textos y autoedición.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79551000-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mecanografía.</p>
+<p>Servicios de fotocopia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79560000-7</p>
+<p>79550000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de archivo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79570000-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de recopilación de listas de direcciones y servicios de envío por correo.</p>
+<p>Servicios de mecanografía, tratamiento de textos y autoedición.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79571000-7</p>
+<p>79551000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de envío por correo.</p>
+<p>Servicios de mecanografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79560000-7</p>
+</td>
+<td>
+<p>Servicios de archivo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79570000-0</p>
+</td>
+<td>
+<p>Servicios de recopilación de listas de direcciones y servicios de envío por correo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79571000-7</p>
+</td>
+<td>
+<p>Servicios de envío por correo.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo L-3</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79311210-2</p>
+<p>79311210-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de encuesta telefónica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">72313000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de recogida de datos.</p>
+<p>Servicios de encuesta telefónica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79320000-3</p>
+<p>72313000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de encuestas de opinión pública.</p>
+<p>Servicios de recogida de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79342310-9</p>
+<p>79320000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de encuesta a clientes.</p>
+<p>Servicios de encuestas de opinión pública.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79342310-9</p>
+</td>
+<td>
+<p>Servicios de encuesta a clientes.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo L-5</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79950000-8</p>
+<p>79950000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de organización de exposiciones, ferias y congresos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79952000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de eventos.</p>
+<p>Servicios de organización de exposiciones, ferias y congresos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79956000-0</p>
+<p>79952000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de organización de ferias y exposiciones.</p>
+<p>Servicios de eventos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79956000-0</p>
+</td>
+<td>
+<p>Servicios de organización de ferias y exposiciones.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo L-6</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">98341120-2</p>
+<p>98341120-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de portería.</p>
+<p>Servicios de portería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">98341130-5</p>
+<p>98341130-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de conserjería.</p>
+<p>Servicios de conserjería.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo M</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo M-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90670000-4</p>
+<p>90670000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de desinfección y exterminio en áreas urbanas o rurales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90920000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de higienización de instalaciones.</p>
+<p>Servicios de desinfección y exterminio en áreas urbanas o rurales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90921000-9</p>
+<p>90920000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de desinfección y exterminio.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90922000-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de control de plagas.</p>
+<p>Servicios de higienización de instalaciones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90923000-3</p>
+<p>90921000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de desratización.</p>
+<p>Servicios de desinfección y exterminio.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90924000-0</p>
+<p>90922000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de fumigación.</p>
+<p>Servicios de control de plagas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90923000-3</p>
+</td>
+<td>
+<p>Servicios de desratización.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90924000-0</p>
+</td>
+<td>
+<p>Servicios de fumigación.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo M-2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79710000-4</p>
+<p>79710000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de seguridad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79713000-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de guardias de seguridad.</p>
+<p>Servicios de seguridad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79714000-2</p>
+<p>79713000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de vigilancia.</p>
+<p>Servicios de guardias de seguridad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">98341140-8</p>
+<p>79714000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de vigilancia de inmuebles.</p>
+<p>Servicios de vigilancia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>98341140-8</p>
+</td>
+<td>
+<p>Servicios de vigilancia de inmuebles.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo M-4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79520000-5</p>
+<p>79520000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reprografía.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79800000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de impresión y servicios conexos.</p>
+<p>Servicios de reprografía.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79810000-5</p>
+<p>79800000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de impresión.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79811000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de impresión digital.</p>
+<p>Servicios de impresión y servicios conexos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79812000-9</p>
+<p>79810000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de impresión de billetes de banco.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79820000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios relacionados con la impresión.</p>
+<p>Servicios de impresión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79821000-5</p>
+<p>79811000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de acabado de impresiones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79821100-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de lectura de pruebas.</p>
+<p>Servicios de impresión digital.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79822000-2</p>
+<p>79812000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de composición.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79822100-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de estereotipia.</p>
+<p>Servicios de impresión de billetes de banco.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79822200-4</p>
+<p>79820000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de fotograbado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79822300-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de tipografía.</p>
+<p>Servicios relacionados con la impresión.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79822400-6</p>
+<p>79821000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de litografía.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79822500-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de diseño gráfico.</p>
+<p>Servicios de acabado de impresiones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79823000-9</p>
+<p>79821100-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de impresión y entrega.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79824000-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de impresión y distribución.</p>
+<p>Servicios de lectura de pruebas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79971000-1</p>
+<p>79822000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de encuadernación y acabado de libros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79971100-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de acabado de libros.</p>
+<p>Servicios de composición.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79971200-3</p>
+<p>79822100-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de encuadernación de libros.</p>
+<p>Servicios de estereotipia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822200-4</p>
+</td>
+<td>
+<p>Servicios de fotograbado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822300-5</p>
+</td>
+<td>
+<p>Servicios de tipografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822400-6</p>
+</td>
+<td>
+<p>Servicios de litografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822500-7</p>
+</td>
+<td>
+<p>Servicios de diseño gráfico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79823000-9</p>
+</td>
+<td>
+<p>Servicios de impresión y entrega.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79824000-6</p>
+</td>
+<td>
+<p>Servicios de impresión y distribución.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79971000-1</p>
+</td>
+<td>
+<p>Servicios de encuadernación y acabado de libros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79971100-2</p>
+</td>
+<td>
+<p>Servicios de acabado de libros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79971200-3</p>
+</td>
+<td>
+<p>Servicios de encuadernación de libros.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo M-5</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79995000-5</p>
+<p>79995000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de bibliotecas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79995100-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de archivado.</p>
+<p>Servicios de gestión de bibliotecas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79995200-7</p>
+<p>79995100-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de catalogación.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">92510000-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de bibliotecas y archivos.</p>
+<p>Servicios de archivado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">92511000-6</p>
+<p>79995200-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de bibliotecas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">92512000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de archivos.</p>
+<p>Servicios de catalogación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">92521000-9</p>
+<p>92510000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de museos.</p>
+<p>Servicios de bibliotecas y archivos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">92521100-0</p>
+<p>92511000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de exposición en museos.</p>
+<p>Servicios de bibliotecas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92512000-3</p>
+</td>
+<td>
+<p>Servicios de archivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92521000-9</p>
+</td>
+<td>
+<p>Servicios de museos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92521100-0</p>
+</td>
+<td>
+<p>Servicios de exposición en museos.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo M-6</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55100000-1</p>
+<p>55100000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de hostelería.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">55110000-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de alojamiento hotelero.</p>
+<p>Servicios de hostelería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55130000-0</p>
+<p>55110000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Otros servicios hoteleros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">55240000-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de centros de vacaciones y hogares de vacaciones.</p>
+<p>Servicios de alojamiento hotelero.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55241000-1</p>
+<p>55130000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de centros de vacaciones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">55242000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de hogares de vacaciones.</p>
+<p>Otros servicios hoteleros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55243000-5</p>
+<p>55240000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de colonias de vacaciones para niños.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">55270000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios prestados por establecimientos de alojamiento que ofrecen cama y desayuno.</p>
+<p>Servicios de centros de vacaciones y hogares de vacaciones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55321000-6</p>
+<p>55241000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de preparación de comidas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">55322000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de elaboración de comidas.</p>
+<p>Servicios de centros de vacaciones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55330000-2</p>
+<p>55242000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de cafetería.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">55510000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de cantina.</p>
+<p>Servicios de hogares de vacaciones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">55523100-3</p>
+<p>55243000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de comidas para escuelas.</p>
+<p>Servicios de colonias de vacaciones para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55270000-3</p>
+</td>
+<td>
+<p>Servicios prestados por establecimientos de alojamiento que ofrecen cama y desayuno.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55321000-6</p>
+</td>
+<td>
+<p>Servicios de preparación de comidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55322000-3</p>
+</td>
+<td>
+<p>Servicios de elaboración de comidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55330000-2</p>
+</td>
+<td>
+<p>Servicios de cafetería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55510000-8</p>
+</td>
+<td>
+<p>Servicios de cantina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55523100-3</p>
+</td>
+<td>
+<p>Servicios de comidas para escuelas.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo O</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo O-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261200-6</p>
+<p>45261200-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de recubrimiento y pintura de cubiertas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261210-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de recubrimiento.</p>
+<p>Trabajos de recubrimiento y pintura de cubiertas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261211-6</p>
+<p>45261210-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colocación de tejas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261212-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Empizarrado de tejados.</p>
+<p>Trabajos de recubrimiento.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261214-7</p>
+<p>45261211-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Revestimiento de cubiertas con tela asfáltica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261220-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de pintura y demás trabajos de recubrimiento de cubiertas.</p>
+<p>Colocación de tejas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261221-9</p>
+<p>45261212-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de pintura de cubiertas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261222-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Recubrimiento de cubiertas con cemento.</p>
+<p>Empizarrado de tejados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261300-7</p>
+<p>45261214-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colocación de vierteaguas y canalones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261310-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Colocación de vierteaguas.</p>
+<p>Revestimiento de cubiertas con tela asfáltica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261320-3</p>
+<p>45261220-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colocación de canalones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261400-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de revestimiento.</p>
+<p>Trabajos de pintura y demás trabajos de recubrimiento de cubiertas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261410-1</p>
+<p>45261221-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de aislamiento para tejados.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261420-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de impermeabilización.</p>
+<p>Trabajos de pintura de cubiertas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261900-3</p>
+<p>45261222-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación y mantenimiento de tejados.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45261910-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reparación de tejados.</p>
+<p>Recubrimiento de cubiertas con cemento.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45261920-9</p>
+<p>45261300-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de tejados.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45262213-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Procedimiento de rozas en los paramentos.</p>
+<p>Colocación de vierteaguas y canalones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45262320-0</p>
+<p>45261310-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de enrasado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45262321-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de enrasado de suelos.</p>
+<p>Colocación de vierteaguas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45262330-3</p>
+<p>45261320-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de reparación de hormigón.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45262500-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de mampostería y albañilería.</p>
+<p>Colocación de canalones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45262512-3</p>
+<p>45261400-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos con piedra tallada.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45262520-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de albañilería.</p>
+<p>Trabajos de revestimiento.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45262521-9</p>
+<p>45261410-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obras de revestimiento con ladrillos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">45262522-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de mampostería.</p>
+<p>Trabajos de aislamiento para tejados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">45262650-2</p>
+<p>45261420-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trabajos de revestimiento de fachadas.</p>
+<p>Trabajos de impermeabilización.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90690000-0</p>
+<p>45261900-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de pintadas.</p>
+<p>Reparación y mantenimiento de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261910-6</p>
+</td>
+<td>
+<p>Reparación de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261920-9</p>
+</td>
+<td>
+<p>Mantenimiento de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262213-7</p>
+</td>
+<td>
+<p>Procedimiento de rozas en los paramentos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262320-0</p>
+</td>
+<td>
+<p>Trabajos de enrasado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262321-7</p>
+</td>
+<td>
+<p>Trabajos de enrasado de suelos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262330-3</p>
+</td>
+<td>
+<p>Trabajos de reparación de hormigón.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262500-6</p>
+</td>
+<td>
+<p>Trabajos de mampostería y albañilería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262512-3</p>
+</td>
+<td>
+<p>Trabajos con piedra tallada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262520-2</p>
+</td>
+<td>
+<p>Trabajos de albañilería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262521-9</p>
+</td>
+<td>
+<p>Obras de revestimiento con ladrillos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262522-6</p>
+</td>
+<td>
+<p>Trabajos de mampostería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262650-2</p>
+</td>
+<td>
+<p>Trabajos de revestimiento de fachadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90690000-0</p>
+</td>
+<td>
+<p>Servicios de limpieza de pintadas.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo O-2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50225000-8</p>
+<p>50225000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de vías férreas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50230000-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación, mantenimiento y servicios asociados relacionados con carreteras y otros equipos.</p>
+<p>Servicios de mantenimiento de vías férreas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90620000-9</p>
+<p>50230000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza y eliminación de nieve.</p>
+<p>Servicios de reparación, mantenimiento y servicios asociados relacionados con carreteras y otros equipos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90630000-2</p>
+<p>90620000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza y eliminación de hielo.</p>
+<p>Servicios de limpieza y eliminación de nieve.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90630000-2</p>
+</td>
+<td>
+<p>Servicios de limpieza y eliminación de hielo.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo O-3</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50514100-2</p>
+<p>50514100-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de cisternas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50514200-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de depósitos.</p>
+<p>Servicios de reparación y mantenimiento de cisternas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">65110000-7</p>
+<p>50514200-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Distribución de agua.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">65130000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Explotación del suministro de agua.</p>
+<p>Servicios de reparación y mantenimiento de depósitos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90400000-1</p>
+<p>65110000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de alcantarillado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90913000-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de tanques y depósitos.</p>
+<p>Distribución de agua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90913100-1</p>
+<p>65130000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de tanques.</p>
+<p>Explotación del suministro de agua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90913200-2</p>
+<p>90400000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de depósitos.</p>
+<p>Servicios de alcantarillado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90913000-0</p>
+</td>
+<td>
+<p>Servicios de limpieza de tanques y depósitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90913100-1</p>
+</td>
+<td>
+<p>Servicios de limpieza de tanques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90913200-2</p>
+</td>
+<td>
+<p>Servicios de limpieza de depósitos.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo O-4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">65120000-0</p>
+<p>65120000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explotación de una planta depuradora de agua.</p>
+<p>Explotación de una planta depuradora de agua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90481000-2</p>
+<p>90481000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Explotación de una planta de tratamiento de aguas residuales.</p>
+<p>Explotación de una planta de tratamiento de aguas residuales.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo O-6</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77211500-7</p>
+<p>77211500-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de árboles.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77230000-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios relacionados con la silvicultura.</p>
+<p>Servicios de mantenimiento de árboles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77231000-8</p>
+<p>77230000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión forestal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77231100-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de recursos forestales.</p>
+<p>Servicios relacionados con la silvicultura.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77231200-0</p>
+<p>77231000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de control de plagas forestales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77231300-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de administración forestal.</p>
+<p>Servicios de gestión forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77231400-2</p>
+<p>77231100-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de inventario forestal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77231500-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de seguimiento o evaluación forestal.</p>
+<p>Servicios de gestión de recursos forestales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77231600-4</p>
+<p>77231200-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de repoblación forestal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77231700-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de extensión forestal.</p>
+<p>Servicios de control de plagas forestales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77231800-6</p>
+<p>77231300-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de viveros forestales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77231900-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de planificación forestal sectorial.</p>
+<p>Servicios de administración forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77310000-6</p>
+<p>77231400-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de plantación y mantenimiento de zonas verdes.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77311000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de jardines y parques.</p>
+<p>Servicios de inventario forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77312000-0</p>
+<p>77231500-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de desbrozo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77312100-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de eliminación de malezas.</p>
+<p>Servicios de seguimiento o evaluación forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77313000-7</p>
+<p>77231600-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de parques.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77314000-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de terrenos.</p>
+<p>Servicios de repoblación forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77314100-5</p>
+<p>77231700-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de encespedado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77315000-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trabajos de siembra.</p>
+<p>Servicios de extensión forestal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77320000-9</p>
+<p>77231800-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de campos deportivos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77340000-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Poda de árboles y setos.</p>
+<p>Servicios de gestión de viveros forestales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">77341000-2</p>
+<p>77231900-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Poda de árboles.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">77342000-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Poda de setos.</p>
+<p>Servicios de planificación forestal sectorial.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">92531000-2</p>
+<p>77310000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de jardines botánicos.</p>
+<p>Servicios de plantación y mantenimiento de zonas verdes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77311000-3</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de jardines y parques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77312000-0</p>
+</td>
+<td>
+<p>Servicios de desbrozo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77312100-1</p>
+</td>
+<td>
+<p>Servicios de eliminación de malezas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77313000-7</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de parques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77314000-4</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de terrenos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77314100-5</p>
+</td>
+<td>
+<p>Servicios de encespedado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77315000-1</p>
+</td>
+<td>
+<p>Trabajos de siembra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77320000-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de campos deportivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77340000-5</p>
+</td>
+<td>
+<p>Poda de árboles y setos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77341000-2</p>
+</td>
+<td>
+<p>Poda de árboles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77342000-9</p>
+</td>
+<td>
+<p>Poda de setos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92531000-2</p>
+</td>
+<td>
+<p>Servicios de jardines botánicos.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo P</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo P-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50232000-0</p>
+<p>50232000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de instalaciones de alumbrado público y semáforos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50232100-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de alumbrado público de calles.</p>
+<p>Servicios de mantenimiento de instalaciones de alumbrado público y semáforos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50232110-4</p>
+<p>50232100-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Puesta a punto de instalaciones de iluminación pública.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50232200-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de señales de tráfico.</p>
+<p>Servicios de mantenimiento de alumbrado público de calles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50411300-2</p>
+<p>50232110-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de contadores de electricidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50411500-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos industriales de cronomedición.</p>
+<p>Puesta a punto de instalaciones de iluminación pública.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50532000-3</p>
+<p>50232200-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de maquinaria eléctrica, aparatos y equipo asociado.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50532100-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de motores eléctricos.</p>
+<p>Servicios de mantenimiento de señales de tráfico.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50532200-5</p>
+<p>50411300-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de transformadores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50532300-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de generadores.</p>
+<p>Servicios de reparación y mantenimiento de contadores de electricidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50532400-7</p>
+<p>50411500-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos de distribución eléctrica.</p>
+<p>Servicios de reparación y mantenimiento de equipos industriales de cronomedición.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50711000-2</p>
+<p>50532000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos eléctricos de edificios.</p>
+<p>Servicios de reparación y mantenimiento de maquinaria eléctrica, aparatos y equipo asociado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532100-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de motores eléctricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532200-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de transformadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532300-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de generadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532400-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de distribución eléctrica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50711000-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos eléctricos de edificios.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo P-2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50411100-0</p>
+<p>50411100-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de contadores de agua.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50411200-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de contadores de gas.</p>
+<p>Servicios de reparación y mantenimiento de contadores de agua.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50510000-3</p>
+<p>50411200-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de bombas, válvulas, grifos y contenedores de metal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50511000-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de bombas.</p>
+<p>Servicios de reparación y mantenimiento de contadores de gas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50511100-1</p>
+<p>50510000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de bombas para líquidos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50511200-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de bombas de gas.</p>
+<p>Servicios de reparación y mantenimiento de bombas, válvulas, grifos y contenedores de metal.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50512000-7</p>
+<p>50511000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de válvulas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50513000-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de grifos.</p>
+<p>Servicios de reparación y mantenimiento de bombas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50514000-1</p>
+<p>50511100-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de contenedores metálicos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50514100-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de cisternas.</p>
+<p>Servicios de reparación y mantenimiento de bombas para líquidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50514200-3</p>
+<p>50511200-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de depósitos.</p>
+<p>Servicios de reparación y mantenimiento de bombas de gas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50514300-4</p>
+<p>50512000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación del revestimiento de los tubos de encamisado.</p>
+<p>Servicios de reparación y mantenimiento de válvulas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50513000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grifos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514000-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de contenedores metálicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514100-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de cisternas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514200-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de depósitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514300-4</p>
+</td>
+<td>
+<p>Servicios de reparación del revestimiento de los tubos de encamisado.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo P-3</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50720000-8</p>
+<p>50720000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de calefacción central.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50721000-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Puesta a punto de instalaciones de calefacción.</p>
+<p>Servicios de reparación y mantenimiento de calefacción central.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50730000-1</p>
+<p>50721000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de grupos refrigeradores.</p>
+<p>Puesta a punto de instalaciones de calefacción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50730000-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grupos refrigeradores.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo P-5</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50413100-4</p>
+<p>50413100-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos detectores de gas.</p>
+<p>Servicios de reparación y mantenimiento de equipos detectores de gas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50413200-5</p>
+<p>50413200-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de instalaciones contra incendios.</p>
+<p>Servicios de reparación y mantenimiento de instalaciones contra incendios.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo P-7</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50740000-4</p>
+<p>50740000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de escaleras mecánicas.</p>
+<p>Servicios de reparación y mantenimiento de escaleras mecánicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50750000-7</p>
+<p>50750000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de ascensores.</p>
+<p>Servicios de mantenimiento de ascensores.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo Q</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo Q-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50531000-6</p>
+<p>50531000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de maquinaria no eléctrica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50531100-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de calderas.</p>
+<p>Servicios de reparación y mantenimiento de maquinaria no eléctrica.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50531200-8</p>
+<p>50531100-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de aparatos de gas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50531300-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de compresores.</p>
+<p>Servicios de reparación y mantenimiento de calderas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50531400-0</p>
+<p>50531200-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de grúas.</p>
+<p>Servicios de mantenimiento de aparatos de gas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50531500-1</p>
+<p>50531300-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de grúas derrick.</p>
+<p>Servicios de reparación y mantenimiento de compresores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531400-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grúas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531500-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grúas derrick.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo Q-2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50100000-6</p>
+<p>50100000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación, mantenimiento y servicios asociados de vehículos y equipo conexo.</p>
+<p>Servicios de reparación, mantenimiento y servicios asociados de vehículos y equipo conexo.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50110000-9</p>
+<p>50110000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de vehículos de motor y equipo asociado.</p>
+<p>Servicios de reparación y mantenimiento de vehículos de motor y equipo asociado.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50111000-6</p>
+<p>50111000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de administración, reparación y mantenimiento de parque de vehículos.</p>
+<p>Servicios de administración, reparación y mantenimiento de parque de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50111100-7</p>
+<p>50111100-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de parque de vehículos.</p>
+<p>Servicios de gestión de parque de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50111110-0</p>
+<p>50111110-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de soporte de parque de vehículos.</p>
+<p>Servicios de soporte de parque de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112000-3</p>
+<p>50112000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de automóviles.</p>
+<p>Servicios de reparación y mantenimiento de automóviles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112100-4</p>
+<p>50112100-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de automóviles.</p>
+<p>Servicios de reparación de automóviles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112110-7</p>
+<p>50112110-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de carrocerías de vehículos.</p>
+<p>Servicios de reparación de carrocerías de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112111-4</p>
+<p>50112111-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de chapistería.</p>
+<p>Servicios de chapistería.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112120-0</p>
+<p>50112120-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reemplazo de parabrisas.</p>
+<p>Servicios de reemplazo de parabrisas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112200-5</p>
+<p>50112200-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de automóviles.</p>
+<p>Servicios de mantenimiento de automóviles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50112300-6</p>
+<p>50112300-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de lavado de automóviles y similares.</p>
+<p>Servicios de lavado de automóviles y similares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50113000-0</p>
+<p>50113000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de autobuses.</p>
+<p>Servicios de reparación y mantenimiento de autobuses.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50113100-1</p>
+<p>50113100-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de autobuses.</p>
+<p>Servicios de reparación de autobuses.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50113200-2</p>
+<p>50113200-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de autobuses.</p>
+<p>Servicios de mantenimiento de autobuses.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50114000-7</p>
+<p>50114000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de camiones.</p>
+<p>Servicios de reparación y mantenimiento de camiones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50114100-8</p>
+<p>50114100-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de camiones.</p>
+<p>Servicios de reparación de camiones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50114200-9</p>
+<p>50114200-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de camiones.</p>
+<p>Servicios de mantenimiento de camiones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50115000-4</p>
+<p>50115000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de motocicletas.</p>
+<p>Servicios de reparación y mantenimiento de motocicletas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50115100-5</p>
+<p>50115100-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de motocicletas.</p>
+<p>Servicios de reparación de motocicletas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50115200-6</p>
+<p>50115200-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de motocicletas.</p>
+<p>Servicios de mantenimiento de motocicletas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116000-1</p>
+<p>50116000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento y reparación relacionados con partes específicas de vehículos.</p>
+<p>Servicios de mantenimiento y reparación relacionados con partes específicas de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116100-2</p>
+<p>50116100-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de sistemas eléctricos.</p>
+<p>Servicios de reparación de sistemas eléctricos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116200-3</p>
+<p>50116200-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de frenos y partes de frenos de vehículos.</p>
+<p>Servicios de reparación y mantenimiento de frenos y partes de frenos de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116300-4</p>
+<p>50116300-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de cajas de cambio de vehículos.</p>
+<p>Servicios de reparación y mantenimiento de cajas de cambio de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116400-5</p>
+<p>50116400-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de transmisiones de vehículos.</p>
+<p>Servicios de reparación y mantenimiento de transmisiones de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116500-6</p>
+<p>50116500-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de neumáticos, incluidos el ajuste y el equilibrado de ruedas.</p>
+<p>Servicios de reparación de neumáticos, incluidos el ajuste y el equilibrado de ruedas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116510-9</p>
+<p>50116510-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de recauchutado de neumáticos.</p>
+<p>Servicios de recauchutado de neumáticos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50116600-7</p>
+<p>50116600-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de motores de arranque.</p>
+<p>Servicios de reparación y mantenimiento de motores de arranque.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50117000-8</p>
+<p>50117000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de transformación y reacondicionamiento de vehículos.</p>
+<p>Servicios de transformación y reacondicionamiento de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50117100-9</p>
+<p>50117100-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de transformación de vehículos.</p>
+<p>Servicios de transformación de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50117200-0</p>
+<p>50117200-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de transformación de ambulancias.</p>
+<p>Servicios de transformación de ambulancias.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50117300-1</p>
+<p>50117300-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de vehículos.</p>
+<p>Servicios de reacondicionamiento de vehículos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50118100-6</p>
+<p>50118100-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de averías y recuperación de automóviles.</p>
+<p>Servicios de reparación de averías y recuperación de automóviles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50118200-7</p>
+<p>50118200-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de averías y recuperación de vehículos comerciales.</p>
+<p>Servicios de reparación de averías y recuperación de vehículos comerciales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50118300-8</p>
+<p>50118300-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de averías y recuperación de autobuses.</p>
+<p>Servicios de reparación de averías y recuperación de autobuses.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50118400-9</p>
+<p>50118400-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de averías y recuperación de vehículos de motor.</p>
+<p>Servicios de reparación de averías y recuperación de vehículos de motor.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50118500-0</p>
+<p>50118500-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de averías y recuperación de motocicletas.</p>
+<p>Servicios de reparación de averías y recuperación de motocicletas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50210000-0</p>
+<p>50210000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento y servicios asociados relacionados con aeronaves y otros equipos.</p>
+<p>Servicios de reparación y mantenimiento y servicios asociados relacionados con aeronaves y otros equipos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211000-7</p>
+<p>50211000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de aeronaves.</p>
+<p>Servicios de reparación y mantenimiento de aeronaves.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211100-8</p>
+<p>50211100-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de aeronaves.</p>
+<p>Servicios de mantenimiento de aeronaves.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211200-9</p>
+<p>50211200-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de aeronaves.</p>
+<p>Servicios de reparación de aeronaves.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211210-2</p>
+<p>50211210-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de motores de aviación.</p>
+<p>Servicios de reparación y mantenimiento de motores de aviación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211211-9</p>
+<p>50211211-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de motores de aviación.</p>
+<p>Servicios de mantenimiento de motores de aviación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211212-6</p>
+<p>50211212-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de motores de aviación.</p>
+<p>Servicios de reparación de motores de aviación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211300-0</p>
+<p>50211300-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de aeronaves.</p>
+<p>Servicios de reacondicionamiento de aeronaves.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50211310-3</p>
+<p>50211310-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de motores de aviación.</p>
+<p>Servicios de reacondicionamiento de motores de aviación.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50212000-4</p>
+<p>50212000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de helicópteros.</p>
+<p>Servicios de reparación y mantenimiento de helicópteros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50221000-0</p>
+<p>50221000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de locomotoras.</p>
+<p>Servicios de reparación y mantenimiento de locomotoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50221100-1</p>
+<p>50221100-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de cajas de cambio de locomotoras.</p>
+<p>Servicios de reparación y mantenimiento de cajas de cambio de locomotoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50221200-2</p>
+<p>50221200-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de sistemas de transmisión de locomotoras.</p>
+<p>Servicios de reparación y mantenimiento de sistemas de transmisión de locomotoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50221300-3</p>
+<p>50221300-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de ejes de locomotoras.</p>
+<p>Servicios de reparación y mantenimiento de ejes de locomotoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50221400-4</p>
+<p>50221400-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de frenos y partes de frenos de locomotoras.</p>
+<p>Servicios de reparación y mantenimiento de frenos y partes de frenos de locomotoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50222000-7</p>
+<p>50222000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de material móvil.</p>
+<p>Servicios de reparación y mantenimiento de material móvil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50222100-8</p>
+<p>50222100-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de amortiguadores.</p>
+<p>Servicios de reparación y mantenimiento de amortiguadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50223000-4</p>
+<p>50223000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de locomotoras.</p>
+<p>Servicios de reacondicionamiento de locomotoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50224000-1</p>
+<p>50224000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de material móvil.</p>
+<p>Servicios de reacondicionamiento de material móvil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50224100-2</p>
+<p>50224100-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de asientos de material móvil.</p>
+<p>Servicios de reacondicionamiento de asientos de material móvil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50224200-3</p>
+<p>50224200-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de coches de pasajeros.</p>
+<p>Servicios de reacondicionamiento de coches de pasajeros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50241000-6</p>
+<p>50241000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de buques.</p>
+<p>Servicios de reparación y mantenimiento de buques.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50241100-7</p>
+<p>50241100-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de barcos.</p>
+<p>Servicios de reparación de barcos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50241200-8</p>
+<p>50241200-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de transbordadores.</p>
+<p>Servicios de reparación de transbordadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50242000-3</p>
+<p>50242000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de transformación de buques.</p>
+<p>Servicios de transformación de buques.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50244000-7</p>
+<p>50244000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reacondicionamiento de buques o barcos.</p>
+<p>Servicios de reacondicionamiento de buques o barcos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50245000-4</p>
+<p>50245000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de modernización de buques.</p>
+<p>Servicios de modernización de buques.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo R</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo R-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60120000-5</p>
+<p>60120000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de taxi.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">60130000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios especiales de transporte de pasajeros por carretera.</p>
+<p>Servicios de taxi.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60140000-1</p>
+<p>60130000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte no regular de pasajeros.</p>
+<p>Servicios especiales de transporte de pasajeros por carretera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60140000-1</p>
+</td>
+<td>
+<p>Transporte no regular de pasajeros.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo R-2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">85143000-3</p>
+<p>85143000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de ambulancia.</p>
+<p>Servicios de ambulancia.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo R-5</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90511000-2</p>
+<p>90511000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de recogida de desperdicios.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90511100-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de recogida de desperdicios sólidos urbanos.</p>
+<p>Servicios de recogida de desperdicios.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90511200-4</p>
+<p>90511100-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de recogida de desperdicios domésticos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90511300-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de recogida de basuras.</p>
+<p>Servicios de recogida de desperdicios sólidos urbanos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90511400-6</p>
+<p>90511200-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de recogida de papel.</p>
+<p>Servicios de recogida de desperdicios domésticos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90512000-9</p>
+<p>90511300-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de transporte de desperdicios.</p>
+<p>Servicios de recogida de basuras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90511400-6</p>
+</td>
+<td>
+<p>Servicios de recogida de papel.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90512000-9</p>
+</td>
+<td>
+<p>Servicios de transporte de desperdicios.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo R-6</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60441000-1</p>
+<p>60441000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de pulverización aérea.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">60442000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de extinción aérea de incendios forestales.</p>
+<p>Servicios de pulverización aérea.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60443000-5</p>
+<p>60442000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de rescate aéreo.</p>
+<p>Servicios de extinción aérea de incendios forestales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60443000-5</p>
+</td>
+<td>
+<p>Servicios de rescate aéreo.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo R-9</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">60160000-7</p>
+<p>60160000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Transporte de correspondencia por carretera.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">60220000-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Transporte de correspondencia por ferrocarril.</p>
+<p>Transporte de correspondencia por carretera.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64100000-7</p>
+<p>60220000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios postales y de correo rápido.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64110000-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios postales.</p>
+<p>Transporte de correspondencia por ferrocarril.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64111000-7</p>
+<p>64100000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios postales relacionados con periódicos y revistas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64112000-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios postales relacionados con cartas.</p>
+<p>Servicios postales y de correo rápido.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64113000-1</p>
+<p>64110000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios postales relacionados con paquetes.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64114000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de ventanilla de correos.</p>
+<p>Servicios postales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64115000-5</p>
+<p>64111000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Alquiler de apartados de correos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64116000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de lista de correos.</p>
+<p>Servicios postales relacionados con periódicos y revistas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64120000-3</p>
+<p>64112000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de correo rápido.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64121000-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios multimodales de correo.</p>
+<p>Servicios postales relacionados con cartas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64121100-1</p>
+<p>64113000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de distribución postal.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64121200-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de distribución de paquetes.</p>
+<p>Servicios postales relacionados con paquetes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64122000-7</p>
+<p>64114000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de correo interno.</p>
+<p>Servicios de ventanilla de correos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64115000-5</p>
+</td>
+<td>
+<p>Alquiler de apartados de correos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64116000-2</p>
+</td>
+<td>
+<p>Servicios de lista de correos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64120000-3</p>
+</td>
+<td>
+<p>Servicios de correo rápido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64121000-0</p>
+</td>
+<td>
+<p>Servicios multimodales de correo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64121100-1</p>
+</td>
+<td>
+<p>Servicios de distribución postal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64121200-2</p>
+</td>
+<td>
+<p>Servicios de distribución de paquetes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64122000-7</p>
+</td>
+<td>
+<p>Servicios de correo interno.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo T</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo T-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79341000-6</p>
+<p>79341000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de publicidad.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79341100-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de consultoría en publicidad.</p>
+<p>Servicios de publicidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79341200-8</p>
+<p>79341100-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión publicitaria.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79341400-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de campañas de publicidad.</p>
+<p>Servicios de consultoría en publicidad.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79341500-1</p>
+<p>79341200-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de publicidad aérea.</p>
+<p>Servicios de gestión publicitaria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341400-0</p>
+</td>
+<td>
+<p>Servicios de campañas de publicidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341500-1</p>
+</td>
+<td>
+<p>Servicios de publicidad aérea.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo T-5</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79530000-8</p>
+<p>79530000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de traducción.</p>
+<p>Servicios de traducción.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79540000-1</p>
+<p>79540000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de interpretación.</p>
+<p>Servicios de interpretación.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo U</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo U-1</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90610000-6</p>
+<p>90610000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza y barrido de calles.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90611000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de calles.</p>
+<p>Servicios de limpieza y barrido de calles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90612000-0</p>
+<p>90611000-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de barrido de calles.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90640000-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza y vaciado de sumideros.</p>
+<p>Servicios de limpieza de calles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90641000-2</p>
+<p>90612000-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de sumideros.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90642000-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de vaciado de sumideros.</p>
+<p>Servicios de barrido de calles.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90680000-7</p>
+<p>90640000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de playas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90911000-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de viviendas, edificios y ventanas.</p>
+<p>Servicios de limpieza y vaciado de sumideros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90911100-7</p>
+<p>90641000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de viviendas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90911200-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de edificios.</p>
+<p>Servicios de limpieza de sumideros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90911300-9</p>
+<p>90642000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de ventanas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">90914000-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de aparcamientos.</p>
+<p>Servicios de vaciado de sumideros.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90919200-4</p>
+<p>90680000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de oficinas.</p>
+<p>Servicios de limpieza de playas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">90919300-5</p>
+<p>90911000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de limpieza de escuelas.</p>
+<p>Servicios de limpieza de viviendas, edificios y ventanas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911100-7</p>
+</td>
+<td>
+<p>Servicios de limpieza de viviendas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911200-8</p>
+</td>
+<td>
+<p>Servicios de limpieza de edificios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911300-9</p>
+</td>
+<td>
+<p>Servicios de limpieza de ventanas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90914000-7</p>
+</td>
+<td>
+<p>Servicios de limpieza de aparcamientos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90919200-4</p>
+</td>
+<td>
+<p>Servicios de limpieza de oficinas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90919300-5</p>
+</td>
+<td>
+<p>Servicios de limpieza de escuelas.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo U-4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63500000-4</p>
+<p>63500000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de agencia de viajes, operadores turísticos y asistencia al turista.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">63510000-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de agencias de viajes y servicios similares.</p>
+<p>Servicios de agencia de viajes, operadores turísticos y asistencia al turista.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63511000-4</p>
+<p>63510000-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Organización de viajes combinados.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">63512000-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de venta de billetes y de viajes combinados.</p>
+<p>Servicios de agencias de viajes y servicios similares.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63515000-2</p>
+<p>63511000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de viajes.</p>
+<p>Organización de viajes combinados.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">63516000-9</p>
+<p>63512000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de viajes.</p>
+<p>Servicios de venta de billetes y de viajes combinados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63515000-2</p>
+</td>
+<td>
+<p>Servicios de viajes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63516000-9</p>
+</td>
+<td>
+<p>Servicios de gestión de viajes.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo U-8</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79510000-2</p>
+<p>79510000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de contestación de llamadas telefónicas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">79511000-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de operador telefónico.</p>
+<p>Servicios de contestación de llamadas telefónicas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">79512000-6</p>
+<p>79511000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Centro de llamadas.</p>
+<p>Servicios de operador telefónico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79512000-6</p>
+</td>
+<td>
+<p>Centro de llamadas.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Grupo V</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo V-3</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312000-5</p>
+<p>50312000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de equipo informático.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312100-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de ordenadores «mainframe».</p>
+<p>Mantenimiento y reparación de equipo informático.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312110-9</p>
+<p>50312100-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de ordenadores «mainframe».</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312120-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reparación de ordenadores «mainframe».</p>
+<p>Mantenimiento y reparación de ordenadores «mainframe».</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312200-7</p>
+<p>50312110-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de miniordenadores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312210-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento de miniordenadores.</p>
+<p>Mantenimiento de ordenadores «mainframe».</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312220-3</p>
+<p>50312120-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación de miniordenadores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312300-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de equipos de redes de datos.</p>
+<p>Reparación de ordenadores «mainframe».</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312310-1</p>
+<p>50312200-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de equipos de redes de datos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312320-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reparación de equipos de redes de datos.</p>
+<p>Mantenimiento y reparación de miniordenadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312400-9</p>
+<p>50312210-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de microordenadores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312410-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento de microordenadores.</p>
+<p>Mantenimiento de miniordenadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312420-5</p>
+<p>50312220-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Reparación de microordenadores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312600-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de equipo de tecnología de la información.</p>
+<p>Reparación de miniordenadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50312610-4</p>
+<p>50312300-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de equipo de tecnología de la información.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50312620-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reparación de equipo de tecnología de la información.</p>
+<p>Mantenimiento y reparación de equipos de redes de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50314000-9</p>
+<p>50312310-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de máquinas telecopiadoras.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50315000-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de contestadores telefónicos.</p>
+<p>Mantenimiento de equipos de redes de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50320000-4</p>
+<p>50312320-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de ordenadores personales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50321000-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación de ordenadores personales.</p>
+<p>Reparación de equipos de redes de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50322000-8</p>
+<p>50312400-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de ordenadores personales.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50323000-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mantenimiento y reparación de periféricos informáticos.</p>
+<p>Mantenimiento y reparación de microordenadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50323100-6</p>
+<p>50312410-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mantenimiento de periféricos informáticos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50323200-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reparación de periféricos informáticos.</p>
+<p>Mantenimiento de microordenadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50324100-3</p>
+<p>50312420-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de sistemas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50324200-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento preventivo.</p>
+<p>Reparación de microordenadores.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50330000-7</p>
+<p>50312600-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de equipo de telecomunicación.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50331000-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de líneas de telecomunicación.</p>
+<p>Mantenimiento y reparación de equipo de tecnología de la información.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50332000-1</p>
+<p>50312610-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de infraestructura de telecomunicaciones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50333000-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de equipo de radiocomunicaciones.</p>
+<p>Mantenimiento de equipo de tecnología de la información.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50333100-9</p>
+<p>50312620-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de radiotransmisores.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50333200-0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Reparación y mantenimiento de aparatos de radiotelefonía.</p>
+<p>Reparación de equipo de tecnología de la información.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50334000-5</p>
+<p>50314000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos de telefonía por hilo y telegrafía por hilo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50334100-6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos de telefonía por hilo.</p>
+<p>Servicios de reparación y mantenimiento de máquinas telecopiadoras.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50334110-9</p>
+<p>50315000-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de redes telefónicas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50334120-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de actualización de equipos de conmutación telefónica.</p>
+<p>Servicios de reparación y mantenimiento de contestadores telefónicos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50334130-5</p>
+<p>50320000-4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de aparatos de conmutación telefónica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50334140-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de aparatos telefónicos.</p>
+<p>Servicios de reparación y mantenimiento de ordenadores personales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50334200-7</p>
+<p>50321000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos de telegrafía por hilo.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">50334300-8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de reparación y mantenimiento de equipos de télex por hilo.</p>
+<p>Servicios de reparación de ordenadores personales.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">50334400-9</p>
+<p>50322000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mantenimiento de sistemas de comunicaciones.</p>
+<p>Servicios de mantenimiento de ordenadores personales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50323000-5</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de periféricos informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50323100-6</p>
+</td>
+<td>
+<p>Mantenimiento de periféricos informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50323200-7</p>
+</td>
+<td>
+<p>Reparación de periféricos informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50324100-3</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de sistemas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50324200-4</p>
+</td>
+<td>
+<p>Servicios de mantenimiento preventivo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50330000-7</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de equipo de telecomunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50331000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de líneas de telecomunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50332000-1</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de infraestructura de telecomunicaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50333000-8</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de equipo de radiocomunicaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50333100-9</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de radiotransmisores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50333200-0</p>
+</td>
+<td>
+<p>Reparación y mantenimiento de aparatos de radiotelefonía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334000-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de telefonía por hilo y telegrafía por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334100-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de telefonía por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334110-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de redes telefónicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334120-2</p>
+</td>
+<td>
+<p>Servicios de actualización de equipos de conmutación telefónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334130-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de aparatos de conmutación telefónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334140-8</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de aparatos telefónicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334200-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de telegrafía por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334300-8</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de télex por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334400-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de sistemas de comunicaciones.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo V-4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64200000-8</p>
+<p>64200000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de telecomunicaciones.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64210000-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios telefónicos y de transmisión de datos.</p>
+<p>Servicios de telecomunicaciones.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64211000-8</p>
+<p>64210000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de teléfonos públicos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64211100-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de telefonía local.</p>
+<p>Servicios telefónicos y de transmisión de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64211200-0</p>
+<p>64211000-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de telefonía de larga distancia.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64212000-5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de telefonía móvil.</p>
+<p>Servicios de teléfonos públicos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64212100-6</p>
+<p>64211100-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios del Servicio de Mensajes Cortos (SMS).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64212200-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios del Servicio de Mensajería Multimedia (EMS).</p>
+<p>Servicios de telefonía local.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64212300-8</p>
+<p>64211200-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios del Servicio de Mensajes Multimedia (MMS).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64212400-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios del Protocolo de Acceso Inalámbrico (WAP).</p>
+<p>Servicios de telefonía de larga distancia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64212500-0</p>
+<p>64212000-5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios del Servicio General de Radio por Paquetes (GPRS).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64212600-1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de Datos Ampliados para la Evolución de GSM (EDGE).</p>
+<p>Servicios de telefonía móvil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64212700-2</p>
+<p>64212100-6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios del Sistema Universal de Telefonía Móvil (UMTS).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64212800-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de proveedor de telefonía de pago.</p>
+<p>Servicios del Servicio de Mensajes Cortos (SMS).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64213000-2</p>
+<p>64212200-7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de redes telefónicas comerciales compartidas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64214000-9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de redes telefónicas comerciales especializadas.</p>
+<p>Servicios del Servicio de Mensajería Multimedia (EMS).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64214100-0</p>
+<p>64212300-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de alquiler de circuitos por satélite.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64214400-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Alquiler de líneas terrestres de comunicación.</p>
+<p>Servicios del Servicio de Mensajes Multimedia (MMS).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64215000-6</p>
+<p>64212400-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios telefónicos «IP».</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64216000-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de mensajería y de información electrónicas.</p>
+<p>Servicios del Protocolo de Acceso Inalámbrico (WAP).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64216100-4</p>
+<p>64212500-0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de mensajería electrónica.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64216110-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de intercambio electrónico de datos.</p>
+<p>Servicios del Servicio General de Radio por Paquetes (GPRS).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64216120-0</p>
+<p>64212600-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de correo electrónico.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">64216130-3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de télex.</p>
+<p>Servicios de Datos Ampliados para la Evolución de GSM (EDGE).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">64216140-6</p>
+<p>64212700-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de telegrafía.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">72318000-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de transmisión de datos.</p>
+<p>Servicios del Sistema Universal de Telefonía Móvil (UMTS).</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72400000-4</p>
+<p>64212800-3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de Internet.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">72410000-7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de proveedor.</p>
+<p>Servicios de proveedor de telefonía de pago.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72411000-4</p>
+<p>64213000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedor de servicios de Internet (PSI).</p>
+<p>Servicios de redes telefónicas comerciales compartidas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72412000-1</p>
+<p>64214000-9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Proveedor de servicios de correo electrónico.</p>
+<p>Servicios de redes telefónicas comerciales especializadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64214100-0</p>
+</td>
+<td>
+<p>Servicios de alquiler de circuitos por satélite.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64214400-3</p>
+</td>
+<td>
+<p>Alquiler de líneas terrestres de comunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64215000-6</p>
+</td>
+<td>
+<p>Servicios telefónicos «IP».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216000-3</p>
+</td>
+<td>
+<p>Servicios de mensajería y de información electrónicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216100-4</p>
+</td>
+<td>
+<p>Servicios de mensajería electrónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216110-7</p>
+</td>
+<td>
+<p>Servicios de intercambio electrónico de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216120-0</p>
+</td>
+<td>
+<p>Servicios de correo electrónico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216130-3</p>
+</td>
+<td>
+<p>Servicios de télex.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216140-6</p>
+</td>
+<td>
+<p>Servicios de telegrafía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72318000-7</p>
+</td>
+<td>
+<p>Servicios de transmisión de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72400000-4</p>
+</td>
+<td>
+<p>Servicios de Internet.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72410000-7</p>
+</td>
+<td>
+<p>Servicios de proveedor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72411000-4</p>
+</td>
+<td>
+<p>Proveedor de servicios de Internet (PSI).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72412000-1</p>
+</td>
+<td>
+<p>Proveedor de servicios de correo electrónico.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Subgrupo V-5</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>CPV</strong>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">
+<p>
 <strong>Denominación.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72315200-8</p>
+<p>72315200-8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de redes de datos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">72415000-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de hospedaje de operación de sitios web www.</p>
+<p>Servicios de gestión de redes de datos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72514000-1</p>
+<p>72415000-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de instalaciones informáticas.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">72514100-2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de explotación de instalaciones que entrañan el manejo de ordenadores.</p>
+<p>Servicios de hospedaje de operación de sitios web www.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72514200-3</p>
+<p>72514000-1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de instalaciones para el desarrollo de sistemas informáticos.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">72514300-4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Servicios de gestión de instalaciones para el mantenimiento de sistemas informáticos.</p>
+<p>Servicios de gestión de instalaciones informáticas.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">72910000-2</p>
+<p>72514100-2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Servicios de copia de seguridad.</p>
+<p>Servicios de explotación de instalaciones que entrañan el manejo de ordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72514200-3</p>
+</td>
+<td>
+<p>Servicios de gestión de instalaciones para el desarrollo de sistemas informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72514300-4</p>
+</td>
+<td>
+<p>Servicios de gestión de instalaciones para el mantenimiento de sistemas informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72910000-2</p>
+</td>
+<td>
+<p>Servicios de copia de seguridad.</p>
 </td>
 </tr>
 </tbody>
@@ -8041,21 +8041,21 @@ El presente aval estará en vigor hasta que *(indicación del órgano de contrat
 
 (firma de los apoderados)
 
-<table class="tabla">
+<table>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">BASTANTEO DE PODERES POR LA ASESORÍA JURÍDICA DE LA C.G.D. O ABOGACÍA DEL ESTADO</p>
+<p>BASTANTEO DE PODERES POR LA ASESORÍA JURÍDICA DE LA C.G.D. O ABOGACÍA DEL ESTADO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Provincia</p>
+<p>Provincia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Fecha</p>
+<p>Fecha</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Número o código</p>
+<p>Número o código</p>
 </td>
 </tr>
 </table>
@@ -8082,22 +8082,22 @@ Firma:
 
 Asegurador
 
-<table class="tabla" border="0">
+<table>
 <tbody>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">BASTANTEO DE PODERES POR LA ASESORÍA JURÍDICA DE LA C.G.D. O ABOGACÍA DEL ESTADO</p>
+<p>BASTANTEO DE PODERES POR LA ASESORÍA JURÍDICA DE LA C.G.D. O ABOGACÍA DEL ESTADO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Provincia</p>
+<p>Provincia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Fecha</p>
+<p>Fecha</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Número o código</p>
+<p>Número o código</p>
 </td>
 </tr>
 </tbody>

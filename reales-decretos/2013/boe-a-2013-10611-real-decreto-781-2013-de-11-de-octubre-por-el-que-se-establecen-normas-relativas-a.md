@@ -64,28 +64,6 @@ Como alternativa a estos nombres de producto, en el anexo III se incluye una lis
 
 7\. En el caso del néctar de frutas, el etiquetado deberá incluir la indicación del contenido mínimo de zumo de frutas, de puré de frutas o de mezcla de estos ingredientes, mediante los términos “contenido de fruta: mínimo… %”. Esta mención deberá figurar en el mismo campo visual que la denominación de venta.
 
-> Téngase en cuenta que esta actualización del art. 2, establecida por el art. 3.1 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "Sin perjuicio de los requisitos de etiquetado, presentación y publicidad, establecidos para los productos alimenticios, a los productos definidos en el Anexo I.A, les serán de aplicación las condiciones siguientes:
-
-> 1\. Las denominaciones que fija el Anexo I.A se reservarán a los productos que figuran en él y, sin perjuicio de lo dispuesto en el párrafo siguiente, deberán utilizarse para designarlos comercialmente.
-
-> Como alternativa a estos nombres de producto, en el Anexo III se incluye una lista de denominaciones particulares que podrán utilizarse en la lengua y en las condiciones especificadas en el citado anexo III.
-
-> 2\. Cuando el producto proceda de una sola especie de fruta, la palabra «fruta» se sustituirá por el nombre de la misma.
-
-> 3\. En el caso de los productos elaborados a partir de dos o más frutas, excepto cuando se utilice zumo de limón, de lima, o de ambos, en las condiciones estipuladas en el anexo I.B.2, la denominación se compondrá de una lista de las frutas utilizadas, en orden decreciente según el volumen de los zumos o purés de frutas incluidos, tal como se indique en la lista de ingredientes. No obstante, en el caso de los productos elaborados a partir de tres o más frutas, la indicación de las frutas empleadas podrá sustituirse por la mención «varias frutas» o una indicación similar, o por el número de frutas utilizadas.
-
-> 4\. La reconstitución de los productos definidos en el anexo I.A en su estado original por medio de las sustancias estrictamente necesarias para esta operación no supone la obligación de mencionar en el etiquetado la lista de los ingredientes utilizados con tal fin.
-
-> Deberá indicarse en el etiquetado la incorporación al zumo de frutas de una cantidad añadida de pulpa o de células conforme se definen en el anexo II.
-
-> 5\. En el caso de mezclas de zumo de fruta y de zumo de fruta a partir de concentrado, y en el caso de néctar de frutas obtenido total o parcialmente a partir de uno o más productos concentrados, el etiquetado deberá incluir la indicación «a partir de concentrado(s)» o «parcialmente a partir de concentrado(s)», según proceda. Esta indicación deberá figurar junto a la denominación de venta, en caracteres claramente visibles y que destaquen del fondo con nitidez.
-
-> 6\. En el caso del néctar de frutas, el etiquetado deberá incluir la indicación del contenido mínimo de zumo de frutas, de puré de frutas o de mezcla de estos ingredientes, mediante los términos «contenido de fruta: mínimo … %». Esta mención deberá figurar en el mismo campo visual que la denominación de venta."
-
 > Se modifica, con efectos de 14 de junio de 2026, por el art. 3.1 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
 
 ## Artículo 3. Etiquetado de los zumos de frutas concentrados no destinados al consumidor final.
@@ -101,12 +79,6 @@ c) En un documento que lo acompañe.
 ## Artículo 4. Materias primas, ingredientes, tratamientos y sustancias autorizados.
 
 Únicamente podrán utilizarse para la fabricación de los productos definidos en el anexo I.A los tratamientos y sustancias enumerados en el anexo I.B y las materias primas que sean conformes al anexo II. Además, los néctares de frutas se ajustarán a lo dispuesto en el anexo IV.
-
-> Téngase en cuenta que esta actualización del art. 4, establecida por el art. 3.2 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "Sin perjuicio de lo dispuesto en el Reglamento (CE) Nº 1333/2008, de 16 de diciembre, en la fabricación de los productos definidos en el anexo I.A, sólo podrán utilizarse los tratamientos y sustancias enumerados en el anexo I.B y las materias primas que sean conformes al anexo II. Además, los néctares de frutas se ajustarán a lo dispuesto en el anexo IV."
 
 > Se modifica, con efectos de 14 de junio de 2026, por el art. 3.2 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
 
@@ -196,12 +168,6 @@ El zumo de frutas con contenido reducido de azúcares a partir de concentrado po
 
 9\. Zumo de frutas concentrado con contenido reducido de azúcares: el producto obtenido a partir de zumo de frutas concentrado, tal como se define en el punto 3, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, y que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de este producto, o el producto obtenido a partir de zumo de frutas con contenido reducido de azúcares, tal como se define en el punto 7, por eliminación física de una parte determinada del agua que lo constituye. Cuando el producto esté destinado al consumo directo, la eliminación de agua será de al menos un 50 %.
 
-> Téngase en cuenta que la actualización del primer párrafo del apartado 2 y los nuevos apartados 7, 8 y 9, establecidos por el art. 3.3 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "2. Zumo de frutas a partir de concentrado: el producto obtenido al reconstituir zumo de frutas concentrado definido en el punto 3 con agua potable que cumpla los criterios establecidos en el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano."
-
 > Se modifica el párrafo primero del apartado 2 y se añaden los apartados 7, 8 y 9, con efectos de 14 de junio de 2026, por el art. 3.3 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
 
 ## ANEXO I.B — Ingredientes, tratamientos y sustancias autorizados
@@ -251,34 +217,6 @@ b) Los procedimientos físicos habituales, incluida la extracción (difusión) d
 c) Para los zumos de uva en los que se haya efectuado la sulfitación de las uvas mediante dióxido de azufre, se permite la desulfitación por procedimientos físicos, siempre que la cantidad total de SO<sub>2</sub> presente en el producto acabado no supere los 10 mg/l.
 
 d) Únicamente a los zumos de frutas con contenido reducido de azúcares, los zumos de frutas con contenido reducido de azúcares a partir de concentrado y los zumos de frutas concentrados con contenido reducido de azúcares: procedimientos para reducir la cantidad de azúcares naturalmente presentes, en la medida en que mantengan todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede a partir de, a saber, la filtración por membrana y la fermentación con levadura.
-
-> Téngase en cuenta que la actualización del apartado 2 y la nueva letra d) del apartado 3, establecidos por el art. 3.4 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "2. Ingredientes autorizados.
-
-> A los productos contemplados en el anexo I.A, sólo se les podrán añadir los siguientes ingredientes:
-
-> a) Vitaminas y minerales autorizados por el Reglamento (CE) Nº 1925/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, sobre la adición de vitaminas, minerales y otras sustancias determinadas a los alimentos.
-
-> b) Aditivos alimentarios autorizados por el Reglamento (CE) Nº 1333/2008, de 16 de diciembre.
-
-> Y, además:
-
-> a) A los zumos de frutas, los zumos de frutas a partir de concentrado y los zumos de frutas concentrados: los aromas, las pulpas y las células restituidos.
-
-> b) Al zumo de uva: sales de ácidos tartáricos restituidas.
-
-> c) A los néctares de fruta: aromas, pulpas y células restituidos; azúcares y/o miel en una cantidad no superior al 20 % en peso respecto al peso total de los productos acabados, y/o edulcorantes.
-
-> Solamente podrá declararse que no se han añadido azúcares a un néctar de frutas, así como efectuarse cualquier otra declaración que pueda tener el mismo significado para el consumidor, si no se ha añadido al producto ningún monosacárido ni disacárido, ni ningún alimento utilizado por sus propiedades edulcorantes, incluidos los edulcorantes definidos en el Reglamento (CE) Nº 1333/2008, de 16 de diciembre. Si los azúcares están naturalmente presentes en los néctares de frutas, en el etiquetado deberá figurar asimismo la siguiente indicación: «contiene azúcares naturalmente presentes».
-
-> d) A los productos contemplados punto 1, punto 2.a), punto 3, punto 5, segundo párrafo, y punto 8 del Anexo III: azúcares y/o miel.
-
-> e) A los productos definidos en el anexo I.A, puntos 1 a 6, con el fin de corregir el sabor ácido: zumo de limón y/o de zumo de lima y/o de zumo concentrado de limón y/o de zumo concentrado de lima, en una cantidad no superior a 3 gramos por litro de zumo, expresada en ácido cítrico anhidro.
-
-> f) Al zumo de tomate y al zumo de tomate a partir de concentrado: sal, especias y hierbas aromáticas."
 
 > Se modifica el apartado 2 y se añade la letra d) al apartado 3, con efectos de 14 de junio de 2026, por el art. 3.4 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
 
@@ -348,34 +286,6 @@ j) “smiltsērkšķu sula ar cukuru” o “astelpaju mahl suhkruga” o “sł
 
 a) “agua de coco”, para el producto que se extrae directamente del coco sin exprimir la pulpa, como sinónimo de zumo de coco.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 3.5 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "Denominaciones particulares de determinados productos enumerados en el anexo I
-
-> 1\. «Vruchtendrank», para el néctar de frutas;
-
-> 2\. «Süßmost». La denominación «Süßmost» solo se podrá emplear juntamente con las denominaciones de venta «Fruchtsaft» o «Fruchtnektar» para:
-
-> a) El néctar de frutas obtenido exclusivamente a base de zumos de frutas, de zumos de frutas concentrados o de una mezcla de estos dos productos, no consumibles en estado natural en razón de su elevada acidez natural,
-
-> b) El zumo de fruta obtenido a partir de manzanas o de peras, cuando proceda con adición de manzanas, pero sin azúcares añadidos;
-
-> 3\. «Succo e polpa» o «sumo e polpa», para el néctar de frutas obtenido exclusivamente a partir de puré de frutas y/o de puré de frutas concentrado;
-
-> 4\. «Æblemost», para el zumo de manzana sin adición de azúcar;
-
-> 5\. «Sur … saft», completado mediante la indicación, en lengua danesa, de la fruta empleada, para el zumo sin adición de azúcares obtenido a partir de grosellas negras, cerezas, grosellas rojas, grosellas blancas, frambuesas, fresas o granos de saúco,
-
-> «Sød … saft» o «sødet … saft», completado mediante la indicación, en lengua danesa, de la fruta empleada, para el zumo de esta misma fruta, con adición de más de 200 gramos de azúcar por litro;
-
-> 6\. «Äpplemust», para el zumo de manzana sin adición de azúcar;
-
-> 7\. «Mosto», sinónimo de zumo de uva;
-
-> 8\. «Smiltsērkšķu sula ar cukuru» o «astelpaju mahl suhkruga» o «słodzony sok z rokitnika», para zumos obtenidos a partir de «seabuckthorn» con un máximo de 140 gramos de azúcar añadida por litro."
-
 > Se modifica, con efectos de 14 de junio de 2026, por el art. 3.5 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
 
 ## ANEXO IV — Disposiciones particulares aplicables a los néctares de frutas
@@ -431,260 +341,251 @@ a) “agua de coco”, para el producto que se extrae directamente del coco sin 
 | Tomates | 50 |
 | Otras frutas que pertenezcan a esta categoría | 50 |
 
-> Téngase en cuenta que la actualización de la antepenúltima fila del epígrafe I, relativa a los «membrillos», establecida por el art. 3.6 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> | "Membrillos | 50" |
-> |---|---|
-
 > Se modifica la antepenúltima fila del epígrafe I, relativa a los «membrillos», con efectos de 14 de junio de 2026, por el art. 3.6 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)
 
 ## ANEXO V — Niveles mínimos de grados Brix para el zumo de frutas reconstituido y el puré de frutas reconstituido
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Nombre común de la fruta</p>
+<p>Nombre común de la fruta</p>
 </td>
 <td>
-<p class="cabeza_tabla">Nombre botánico</p>
+<p>Nombre botánico</p>
 </td>
 <td>
-<p class="cabeza_tabla">Niveles mínimos de grados Brix</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Manzana (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Malus domestica </em>Borkh.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,2</p>
+<p>Niveles mínimos de grados Brix</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Albaricoque (**)</p>
+<p>Manzana (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Prunus armeniaca </em>L.</p>
+<p><em>Malus domestica </em>Borkh.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Plátano (**)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Musa x paradisiaca </em>L. (con exclusión de los plátanos hortaliza).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">21,0</p>
+<p>11,2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Grosella negra (*)</p>
+<p>Albaricoque (**)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Ribes nigrum </em>L.</p>
+<p><em>Prunus armeniaca </em>L.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Coco (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Cocos nucifera</em> L.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,5</p>
+<p>11,2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Uva (*)</p>
+<p>Plátano (**)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Vitis vinifera </em>L. o sus híbridos</p>
-<p class="cuerpo_tabla_izq"><em>Vitis labrusca </em>L. o sus híbridos.</p>
+<p><em>Musa x paradisiaca </em>L. (con exclusión de los plátanos hortaliza).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">15,9</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Pomelo (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Citrus x paradisi </em>Macfad.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,0</p>
+<p>21,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Guayaba (**)</p>
+<p>Grosella negra (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Psidium guajava </em>L.</p>
+<p><em>Ribes nigrum </em>L.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Limón (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Citrus limon </em>(L.) Burm. f.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8,0</p>
+<p>11,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mango (**)</p>
+<p>Coco (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Mangifera indica </em>L.</p>
+<p><em>Cocos nucifera</em> L.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Naranja (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Citrus sinensis </em>(L.) Osbeck.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,2</p>
+<p>4,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fruto de la pasión (*)</p>
+<p>Uva (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Passiflora edulis </em>Sims.</p>
+<p><em>Vitis vinifera </em>L. o sus híbridos</p>
+<p><em>Vitis labrusca </em>L. o sus híbridos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Melocotón (**)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Prunus persica </em>(L.) Batsch var. persica.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,0</p>
+<p>15,9</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Pera (**)</p>
+<p>Pomelo (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Pyrus communis </em>L.</p>
+<p><em>Citrus x paradisi </em>Macfad.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,9</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Piña (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Ananas comosus </em>(L.) Merr.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,8</p>
+<p>10,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Frambuesa (*)</p>
+<p>Guayaba (**)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Rubus idaeus </em>L.</p>
+<p><em>Psidium guajava </em>L.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cereza agria (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Prunus cerasus </em>L.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13,5</p>
+<p>8,5</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Fresa (*)</p>
+<p>Limón (*)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Fragaria x ananassa </em>Duch.</p>
+<p><em>Citrus limon </em>(L.) Burm. f.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tomate (*)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq"><em>Lycopersicon esculentum </em>Mill.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,0</p>
+<p>8,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mandarina (*)</p>
+<p>Mango (**)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq"><em>Citrus reticulata </em>Blanco.</p>
+<p><em>Mangifera indica </em>L.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11,2</p>
+<p>13,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Naranja (*)</p>
+</td>
+<td>
+<p><em>Citrus sinensis </em>(L.) Osbeck.</p>
+</td>
+<td>
+<p>11,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fruto de la pasión (*)</p>
+</td>
+<td>
+<p><em>Passiflora edulis </em>Sims.</p>
+</td>
+<td>
+<p>12,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Melocotón (**)</p>
+</td>
+<td>
+<p><em>Prunus persica </em>(L.) Batsch var. persica.</p>
+</td>
+<td>
+<p>10,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pera (**)</p>
+</td>
+<td>
+<p><em>Pyrus communis </em>L.</p>
+</td>
+<td>
+<p>11,9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Piña (*)</p>
+</td>
+<td>
+<p><em>Ananas comosus </em>(L.) Merr.</p>
+</td>
+<td>
+<p>12,8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frambuesa (*)</p>
+</td>
+<td>
+<p><em>Rubus idaeus </em>L.</p>
+</td>
+<td>
+<p>7,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cereza agria (*)</p>
+</td>
+<td>
+<p><em>Prunus cerasus </em>L.</p>
+</td>
+<td>
+<p>13,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fresa (*)</p>
+</td>
+<td>
+<p><em>Fragaria x ananassa </em>Duch.</p>
+</td>
+<td>
+<p>7,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tomate (*)</p>
+</td>
+<td>
+<p><em>Lycopersicon esculentum </em>Mill.</p>
+</td>
+<td>
+<p>5,0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mandarina (*)</p>
+</td>
+<td>
+<p><em>Citrus reticulata </em>Blanco.</p>
+</td>
+<td>
+<p>11,2</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">En el caso de los productos marcados con un asterisco (*), producidos como zumos, se determinará una densidad relativa mínima en relación con el agua a 20/20 °C.</p>
-<p class="cuerpo_tabla_izq">En el caso de los productos marcados con dos asteriscos (**), producidos como purés, solamente se determinará un valor mínimo Brix sin corregir (sin corrección de la acidez).</p>
+<p>En el caso de los productos marcados con un asterisco (*), producidos como zumos, se determinará una densidad relativa mínima en relación con el agua a 20/20 °C.</p>
+<p>En el caso de los productos marcados con dos asteriscos (**), producidos como purés, solamente se determinará un valor mínimo Brix sin corregir (sin corrección de la acidez).</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-> Téngase en cuenta que la fila correspondiente a «Coco», añadida por el art. 3.7 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
 
 > Se añade la fila correspondiente al «Coco», con efectos de 14 de junio de 2026, por el art. 3.7 del Real Decreto 1026/2025, de 12 de noviembre. [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947)

@@ -66,280 +66,271 @@ El éxito de la línea de avales otorgada al amparo del Real Decreto-ley 8/2020,
 
 Las condiciones aplicables y requisitos para cumplir son los siguientes:
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="20%">
-<col width="80%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Definiciones y finalidad</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Definición de pyme</strong>
 </td>
-<td class="cuerpo_tabla_izq">Se considerarán pymes aquellas empresas que reúnan esta condición de acuerdo con el artículo 2 del anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado.</td>
+<td>Se considerarán pymes aquellas empresas que reúnan esta condición de acuerdo con el artículo 2 del anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Definición de entidad financiera supervisada elegible</strong>
 </td>
-<td class="cuerpo_tabla_izq">A los efectos de este Acuerdo, las entidades financieras supervisadas elegibles son las entidades de crédito, establecimientos financieros de crédito, entidades de dinero electrónico y entidades de pago que ya tuviesen formalizado con el ICO el contrato marco de la línea de avales habilitada por el Real Decreto-ley 8/2020, de 17 de marzo y estuviese efectivamente operativa desde el 15 de mayo de 2020 conforme al Acuerdo de Consejo de Ministros de 10 de abril de 2020. Estas entidades podrán formalizar un nuevo contrato marco con el ICO con las condiciones y finalidades establecidas en este Acuerdo de Consejo de Ministros</td>
+<td>A los efectos de este Acuerdo, las entidades financieras supervisadas elegibles son las entidades de crédito, establecimientos financieros de crédito, entidades de dinero electrónico y entidades de pago que ya tuviesen formalizado con el ICO el contrato marco de la línea de avales habilitada por el Real Decreto-ley 8/2020, de 17 de marzo y estuviese efectivamente operativa desde el 15 de mayo de 2020 conforme al Acuerdo de Consejo de Ministros de 10 de abril de 2020. Estas entidades podrán formalizar un nuevo contrato marco con el ICO con las condiciones y finalidades establecidas en este Acuerdo de Consejo de Ministros</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Finalidad</strong>
 </td>
-<td class="cuerpo_tabla_izq">Cubrir la parte correspondiente de los nuevos préstamos y otras modalidades de financiación concedidos por entidades financieras supervisadas elegibles a empresas y autónomos con la finalidad principal de atender las necesidades de liquidez derivadas de los gastos corrientes de la empresa (entre otros, pagos de salarios, facturas, necesidad de circulante, vencimientos de obligaciones financieras o tributarias) y de la realización de nuevas inversiones.</td>
+<td>Cubrir la parte correspondiente de los nuevos préstamos y otras modalidades de financiación concedidos por entidades financieras supervisadas elegibles a empresas y autónomos con la finalidad principal de atender las necesidades de liquidez derivadas de los gastos corrientes de la empresa (entre otros, pagos de salarios, facturas, necesidad de circulante, vencimientos de obligaciones financieras o tributarias) y de la realización de nuevas inversiones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Importes de la línea y de los subtramos</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Importe total del primer tramo de la línea de avales</strong>
 </td>
-<td class="cuerpo_tabla_izq">Hasta 8.000 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital.</td>
+<td>Hasta 8.000 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Importes por subtramos de la línea de avales</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Se crean dos subtramos, con los siguientes importes y categorías:</p>
-<p class="cuerpo_tabla_izq">– Hasta 5.000 millones de euros para autónomos y pymes.</p>
-<p class="cuerpo_tabla_izq">– Hasta 3.000 millones de euros para empresas que no reúnan la condición de pyme.</p>
+<td>
+<p>Se crean dos subtramos, con los siguientes importes y categorías:</p>
+<p>– Hasta 5.000 millones de euros para autónomos y pymes.</p>
+<p>– Hasta 3.000 millones de euros para empresas que no reúnan la condición de pyme.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Préstamos elegibles y análisis de riesgos</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Características de los préstamos elegibles</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Préstamos y otras operaciones otorgados a empresas y autónomos que tengan domicilio social en España y se hayan visto afectados por los efectos económicos del COVID-19, siempre que:</p>
-<p class="cuerpo_tabla_izq">– Los nuevos préstamos y operaciones hayan sido formalizados con posterioridad a la publicación de este Acuerdo de Consejo de Ministros en el «Boletín Oficial del Estado».</p>
-<p class="cuerpo_tabla_izq">– Los acreditados no figuren en situación de morosidad en la consulta a los ficheros de la Central de Información de Riesgos del Banco de España (CIRBE) a 31 de diciembre de 2019.</p>
-<p class="cuerpo_tabla_izq">– Los acreditados no estén sujetos a un procedimiento concursal a fecha de 17 de marzo de 2020, bien por haber presentado solicitud de declaración de concurso, o por darse las circunstancias a que se refiere el artículo 2.4 de la Real Decreto Legislativo 1/2020, de 5 de mayo, por el que se aprueba el texto refundido de la Ley Concursal.</p>
+<td>
+<p>Préstamos y otras operaciones otorgados a empresas y autónomos que tengan domicilio social en España y se hayan visto afectados por los efectos económicos del COVID-19, siempre que:</p>
+<p>– Los nuevos préstamos y operaciones hayan sido formalizados con posterioridad a la publicación de este Acuerdo de Consejo de Ministros en el «Boletín Oficial del Estado».</p>
+<p>– Los acreditados no figuren en situación de morosidad en la consulta a los ficheros de la Central de Información de Riesgos del Banco de España (CIRBE) a 31 de diciembre de 2019.</p>
+<p>– Los acreditados no estén sujetos a un procedimiento concursal a fecha de 17 de marzo de 2020, bien por haber presentado solicitud de declaración de concurso, o por darse las circunstancias a que se refiere el artículo 2.4 de la Real Decreto Legislativo 1/2020, de 5 de mayo, por el que se aprueba el texto refundido de la Ley Concursal.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Inversiones y conceptos elegibles</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">La financiación obtenida deberá emplearse exclusivamente para algunos de los siguientes conceptos:</p>
-<p class="cuerpo_tabla_izq">– Inversión nueva dentro del territorio nacional, incluyendo gastos vinculados a la inversión que sean justificados por la empresa. La inversión deberá hacerse efectiva en el plazo de veinticuatro meses desde la formalización del préstamo.</p>
-<p class="cuerpo_tabla_izq">– Gasto corriente y de capital asociado o destinado, entre otros, a la adquisición, alquiler o leasing para la ampliación, adaptación o renovación de capacidades productivas y de servicios o para el reinicio de la actividad, incluidos la creación y mantenimiento de empleo, equipos, o instalaciones, suministros de materiales y bienes y servicios relacionados y gastos en I+D+i, entre otros.</p>
-<p class="cuerpo_tabla_izq">– Necesidades de financiación derivadas, entre otros, de pagos de salarios, facturas o vencimientos de obligaciones financieras o tributarias.</p>
-<p class="cuerpo_tabla_izq">– No son finalidades de esta línea de avales, las refinanciaciones, restructuraciones, renegociaciones, o las renovaciones de préstamos vivos ni las cancelaciones o amortizaciones anticipadas ni la aplicación de fondos para financiar a deudores comerciales o no comerciales.</p>
+<td>
+<p>La financiación obtenida deberá emplearse exclusivamente para algunos de los siguientes conceptos:</p>
+<p>– Inversión nueva dentro del territorio nacional, incluyendo gastos vinculados a la inversión que sean justificados por la empresa. La inversión deberá hacerse efectiva en el plazo de veinticuatro meses desde la formalización del préstamo.</p>
+<p>– Gasto corriente y de capital asociado o destinado, entre otros, a la adquisición, alquiler o leasing para la ampliación, adaptación o renovación de capacidades productivas y de servicios o para el reinicio de la actividad, incluidos la creación y mantenimiento de empleo, equipos, o instalaciones, suministros de materiales y bienes y servicios relacionados y gastos en I+D+i, entre otros.</p>
+<p>– Necesidades de financiación derivadas, entre otros, de pagos de salarios, facturas o vencimientos de obligaciones financieras o tributarias.</p>
+<p>– No son finalidades de esta línea de avales, las refinanciaciones, restructuraciones, renegociaciones, o las renovaciones de préstamos vivos ni las cancelaciones o amortizaciones anticipadas ni la aplicación de fondos para financiar a deudores comerciales o no comerciales.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Importe máximo por cliente</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Hasta un máximo de 1,5 millones de euros, con un plazo no superior a ocho años, en una o varias operaciones de préstamo a autónomos y empresas, se aplicarán las disposiciones específicas del Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis.</p>
-<p class="cuerpo_tabla_izq">Este límite será máximo y deberá acumularse el principal de las nuevas operaciones junto con el resto de financiación obtenida en la Línea de Avales ICO-COVID del Real Decreto-ley 8/2020, de 17 de marzo. En caso de sobrepasarse este límite, la operación deberá sujetarse en su totalidad a la normativa de Ayudas de Estado de la Comisión Europea.</p>
-<p class="cuerpo_tabla_izq">– Cuando el total de los préstamos a avalar, teniendo en cuenta también la línea de avales aprobada al amparo del Real Decreto-ley 8/2020, de 17 de marzo, supere los 1,5 millones de euros, el importe nominal a avalar no podrá superar el mayor de:</p>
-<p class="cuerpo_tabla_izq">• El doble de los costes salariales anuales del cliente, tomando como referencia los costes del ejercicio 2019.</p>
-<p class="cuerpo_tabla_izq">• El 25 % de la facturación del cliente en el año 2019.</p>
-<p class="cuerpo_tabla_izq">• Con la justificación adecuada y sobre la base de una auto certificación por parte del cliente de sus necesidades de liquidez, la cantidad de financiación podrá superar los criterios anteriores para cubrir las necesidades de liquidez de los próximos dieciocho meses en caso de autónomos y pymes y de doce meses en el resto de las empresas que no tengan la consideración de pyme, posteriores al momento de concesión de la financiación.</p>
+<td>
+<p>– Hasta un máximo de 1,5 millones de euros, con un plazo no superior a ocho años, en una o varias operaciones de préstamo a autónomos y empresas, se aplicarán las disposiciones específicas del Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis.</p>
+<p>Este límite será máximo y deberá acumularse el principal de las nuevas operaciones junto con el resto de financiación obtenida en la Línea de Avales ICO-COVID del Real Decreto-ley 8/2020, de 17 de marzo. En caso de sobrepasarse este límite, la operación deberá sujetarse en su totalidad a la normativa de Ayudas de Estado de la Comisión Europea.</p>
+<p>– Cuando el total de los préstamos a avalar, teniendo en cuenta también la línea de avales aprobada al amparo del Real Decreto-ley 8/2020, de 17 de marzo, supere los 1,5 millones de euros, el importe nominal a avalar no podrá superar el mayor de:</p>
+<p>• El doble de los costes salariales anuales del cliente, tomando como referencia los costes del ejercicio 2019.</p>
+<p>• El 25 % de la facturación del cliente en el año 2019.</p>
+<p>• Con la justificación adecuada y sobre la base de una auto certificación por parte del cliente de sus necesidades de liquidez, la cantidad de financiación podrá superar los criterios anteriores para cubrir las necesidades de liquidez de los próximos dieciocho meses en caso de autónomos y pymes y de doce meses en el resto de las empresas que no tengan la consideración de pyme, posteriores al momento de concesión de la financiación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Análisis del perfil de riesgos y condiciones de elegibilidad de la operación</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Se avalarán las operaciones de hasta 50 millones de euros que hayan sido aprobadas por la entidad conforme a sus políticas de riesgos, sin perjuicio de comprobaciones posteriores sobre sus condiciones de elegibilidad.</p>
-<p class="cuerpo_tabla_izq">– Se avalarán las operaciones por encima de 50 millones de euros una vez que el ICO haya analizado el cumplimiento de las condiciones de elegibilidad de manera complementaria al análisis de la entidad financiera.</p>
-<p class="cuerpo_tabla_izq">– Los nuevos préstamos formalizados conforme a esta Línea a efectos de elegibilidad, límites y comprobación serán acumulables con otras operaciones que ya cuenten con el Aval del Estado conforme al Real Decreto-ley 8/2020, de 17 de marzo.</p>
+<td>
+<p>– Se avalarán las operaciones de hasta 50 millones de euros que hayan sido aprobadas por la entidad conforme a sus políticas de riesgos, sin perjuicio de comprobaciones posteriores sobre sus condiciones de elegibilidad.</p>
+<p>– Se avalarán las operaciones por encima de 50 millones de euros una vez que el ICO haya analizado el cumplimiento de las condiciones de elegibilidad de manera complementaria al análisis de la entidad financiera.</p>
+<p>– Los nuevos préstamos formalizados conforme a esta Línea a efectos de elegibilidad, límites y comprobación serán acumulables con otras operaciones que ya cuenten con el Aval del Estado conforme al Real Decreto-ley 8/2020, de 17 de marzo.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Fuentes de financiación de las operaciones</strong>
 </td>
-<td class="cuerpo_tabla_izq">Este esquema de avales será otorgado a los préstamos y otras modalidades de financiación a las empresas y autónomos concedidos por las entidades financieras con independencia de su fuente de financiación. No obstante, si la operación de préstamo contase con la financiación de ICO, el esquema previsto en este Acuerdo será aplicable a la participación de ICO en las mismas condiciones.</td>
+<td>Este esquema de avales será otorgado a los préstamos y otras modalidades de financiación a las empresas y autónomos concedidos por las entidades financieras con independencia de su fuente de financiación. No obstante, si la operación de préstamo contase con la financiación de ICO, el esquema previsto en este Acuerdo será aplicable a la participación de ICO en las mismas condiciones.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Porcentajes máximos, remuneración, plazos de formalización y de vencimiento máximo del aval</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Porcentajes máximos de aval</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– En el caso de pymes y autónomos el aval ascenderá como máximo al 80 % de la operación.</p>
-<p class="cuerpo_tabla_izq">– En empresas que no reúnan la condición de pyme el aval cubrirá como máximo el 70 % de la operación.</p>
+<td>
+<p>– En el caso de pymes y autónomos el aval ascenderá como máximo al 80 % de la operación.</p>
+<p>– En empresas que no reúnan la condición de pyme el aval cubrirá como máximo el 70 % de la operación.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Remuneración del aval</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– La remuneración de los avales concedidos a préstamos hasta 1,5 millones de euros y que se sujeten al Reglamento (UE) n. ° 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis, será de 20 puntos básicos sobre el saldo del importe total avalado.</p>
-<p class="cuerpo_tabla_izq">– En aquellos casos no sujetos al Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis, la remuneración de los avales será la contenida en la siguiente tabla, y se aplicará durante toda la vida del aval sobre el saldo del importe avalado:</p>
-<table class="tabla">
-<colgroup>
-<col width="40%">
-<col width="18%">
-<col width="22%">
-</colgroup>
+<td>
+<p>– La remuneración de los avales concedidos a préstamos hasta 1,5 millones de euros y que se sujeten al Reglamento (UE) n. ° 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis, será de 20 puntos básicos sobre el saldo del importe total avalado.</p>
+<p>– En aquellos casos no sujetos al Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis, la remuneración de los avales será la contenida en la siguiente tabla, y se aplicará durante toda la vida del aval sobre el saldo del importe avalado:</p>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Pymes cobertura hasta 80 %</th>
-<th class="cabeza_tabla">Grandes empresas cobertura hasta 70 %</th>
+<th> </th>
+<th>Pymes cobertura hasta 80 %</th>
+<th>Grandes empresas cobertura hasta 70 %</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Avales con vencimiento hasta 1 año</td>
-<td class="cuerpo_tabla_centro">20 pb</td>
-<td class="cuerpo_tabla_centro">30 pb</td>
+<td>20 pb</td>
+<td>30 pb</td>
 </tr>
 <tr>
 <td>Avales con vencimiento superior a 1 año y hasta 3 años</td>
-<td class="cuerpo_tabla_centro">30 pb</td>
-<td class="cuerpo_tabla_centro">60 pb</td>
+<td>30 pb</td>
+<td>60 pb</td>
 </tr>
 <tr>
 <td>Avales con vencimiento superior a 3 años y hasta 5 años</td>
-<td class="cuerpo_tabla_centro">80 pb</td>
-<td class="cuerpo_tabla_centro">120 pb</td>
+<td>80 pb</td>
+<td>120 pb</td>
 </tr>
 <tr>
 <td>Avales con vencimiento superior a 5 años y hasta 6 años</td>
-<td class="cuerpo_tabla_centro">80 pb</td>
-<td class="cuerpo_tabla_centro">125 pb</td>
+<td>80 pb</td>
+<td>125 pb</td>
 </tr>
 <tr>
 <td>Avales con vencimiento superior a 6 años y hasta 7 años</td>
-<td class="cuerpo_tabla_centro">169 pb</td>
-<td class="cuerpo_tabla_centro">260 pb</td>
+<td>169 pb</td>
+<td>260 pb</td>
 </tr>
 <tr>
 <td>Avales con vencimiento superior a 7 años y hasta 8 años</td>
-<td class="cuerpo_tabla_centro">188 pb</td>
-<td class="cuerpo_tabla_centro">285 pb</td>
+<td>188 pb</td>
+<td>285 pb</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Plazo de solicitud de los avales</strong>
 </td>
-<td class="cuerpo_tabla_izq">Los avales podrán solicitarse hasta el 1 de diciembre de 2020.</td>
+<td>Los avales podrán solicitarse hasta el 1 de diciembre de 2020.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Plazo de vencimiento máximo del aval</strong>
 </td>
-<td class="cuerpo_tabla_izq">El plazo del aval emitido coincidirá con el plazo de la operación hasta un máximo de 8 años.</td>
+<td>El plazo del aval emitido coincidirá con el plazo de la operación hasta un máximo de 8 años.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Derechos y obligaciones de las entidades financieras</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Derechos y obligaciones de las entidades financieras</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– La entidad financiera decidirá sobre la concesión de la correspondiente financiación al cliente de acuerdo con sus procedimientos internos y políticas de concesión y riesgos.</p>
-<p class="cuerpo_tabla_izq">– Las entidades financieras aplicarán los mejores usos y prácticas bancarias en beneficio de los clientes y no podrán comercializar otros productos con ocasión de la concesión de préstamos cubiertos por este aval público ni condicionar su concesión a la contratación por parte del cliente de cualesquiera otros productos de la entidad.</p>
-<p class="cuerpo_tabla_izq">– Los costes de los nuevos préstamos que se beneficien de estos avales se mantendrán en línea con los costes cargados antes del inicio de la crisis del COVID-19, teniendo en cuenta la garantía pública del aval y coste de cobertura y por lo tanto, en general, deberán ser inferiores a los costes de los préstamos y otras operaciones para la misma tipología de cliente que no cuenten con el aval. El cumplimiento de esta condición será supervisado por el ICO.</p>
-<p class="cuerpo_tabla_izq">– Las entidades no podrán cargar ningún coste financiero o gasto sobre los importes no dispuestos por el cliente.</p>
-<p class="cuerpo_tabla_izq">– Las entidades financieras se comprometen a mantener al menos hasta 30 de diciembre de 2020 los límites de las líneas de circulante concedidas a todos los clientes y en particular, a aquellos clientes cuyos préstamos resulten avalados.</p>
-<p class="cuerpo_tabla_izq">– Las entidades financieras señalarán en sus sistemas de contabilidad y de gestión del riesgo estas operaciones, con el fin de facilitar su trazabilidad. Posteriormente, incorporarán esta señalización en su declaración a la Central de Información de Riesgos, siguiendo a tal efecto las instrucciones del Banco de España.</p>
+<td>
+<p>– La entidad financiera decidirá sobre la concesión de la correspondiente financiación al cliente de acuerdo con sus procedimientos internos y políticas de concesión y riesgos.</p>
+<p>– Las entidades financieras aplicarán los mejores usos y prácticas bancarias en beneficio de los clientes y no podrán comercializar otros productos con ocasión de la concesión de préstamos cubiertos por este aval público ni condicionar su concesión a la contratación por parte del cliente de cualesquiera otros productos de la entidad.</p>
+<p>– Los costes de los nuevos préstamos que se beneficien de estos avales se mantendrán en línea con los costes cargados antes del inicio de la crisis del COVID-19, teniendo en cuenta la garantía pública del aval y coste de cobertura y por lo tanto, en general, deberán ser inferiores a los costes de los préstamos y otras operaciones para la misma tipología de cliente que no cuenten con el aval. El cumplimiento de esta condición será supervisado por el ICO.</p>
+<p>– Las entidades no podrán cargar ningún coste financiero o gasto sobre los importes no dispuestos por el cliente.</p>
+<p>– Las entidades financieras se comprometen a mantener al menos hasta 30 de diciembre de 2020 los límites de las líneas de circulante concedidas a todos los clientes y en particular, a aquellos clientes cuyos préstamos resulten avalados.</p>
+<p>– Las entidades financieras señalarán en sus sistemas de contabilidad y de gestión del riesgo estas operaciones, con el fin de facilitar su trazabilidad. Posteriormente, incorporarán esta señalización en su declaración a la Central de Información de Riesgos, siguiendo a tal efecto las instrucciones del Banco de España.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Relaciones financieras entre ICO, las entidades financieras y el Ministerio de Asuntos Económicos y Transformación Digital</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Relaciones de ICO con las entidades financieras</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">El ICO abonará a las entidades financieras los importes correspondientes a los avales ejecutados.</p>
-<p class="cuerpo_tabla_izq">La gestión administrativa del aval entre el ICO y la entidad financiera, y las recuperaciones en caso de ejecución de la misma, se llevará a cabo conforme al procedimiento que se establecerá por el ICO en el contrato marco de avales con las entidades.</p>
+<td>
+<p>El ICO abonará a las entidades financieras los importes correspondientes a los avales ejecutados.</p>
+<p>La gestión administrativa del aval entre el ICO y la entidad financiera, y las recuperaciones en caso de ejecución de la misma, se llevará a cabo conforme al procedimiento que se establecerá por el ICO en el contrato marco de avales con las entidades.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Comisiones ICO de gestión y administración</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Comisión de gestión y administración: 0,05 % flat, calculada sobre volumen de cartera avalada.</p>
+<td>
+<p>Comisión de gestión y administración: 0,05 % flat, calculada sobre volumen de cartera avalada.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Abono de remuneración de aval y comisión de gestión y administración y recuperaciones</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Las entidades financieras abonarán al ICO los importes derivados de la remuneración del aval y el porcentaje, en pari passu, de las recuperaciones equivalente al riesgo avalado que, en su caso, realicen de los importes impagados. El ICO a su vez transferirá estos importes al Fondo de Provisión aprobado por Real Decreto ley 12/1995.</p>
-<p class="cuerpo_tabla_izq">El ICO cargará en el Fondo de Provisión los importes correspondientes a la comisión de gestión y administración en el ejercicio en que se devenguen las mismas.</p>
-<p class="cuerpo_tabla_izq">Si con posterioridad a 2030, tras el abono por el Ministerio de la última certificación enviada por ICO, se produjeran recuperaciones, el ICO ingresará en el Tesoro, en el mes de enero del ejercicio siguiente los importes que haya recibido de las entidades financieras en el año inmediatamente anterior correspondientes a operaciones impagadas para las que el Ministerio haya abonado previamente el aval.</p>
+<td>
+<p>Las entidades financieras abonarán al ICO los importes derivados de la remuneración del aval y el porcentaje, en pari passu, de las recuperaciones equivalente al riesgo avalado que, en su caso, realicen de los importes impagados. El ICO a su vez transferirá estos importes al Fondo de Provisión aprobado por Real Decreto ley 12/1995.</p>
+<p>El ICO cargará en el Fondo de Provisión los importes correspondientes a la comisión de gestión y administración en el ejercicio en que se devenguen las mismas.</p>
+<p>Si con posterioridad a 2030, tras el abono por el Ministerio de la última certificación enviada por ICO, se produjeran recuperaciones, el ICO ingresará en el Tesoro, en el mes de enero del ejercicio siguiente los importes que haya recibido de las entidades financieras en el año inmediatamente anterior correspondientes a operaciones impagadas para las que el Ministerio haya abonado previamente el aval.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Reposición del Fondo de Provisión Real Decreto-ley 12/1995</strong>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente o siempre que sea necesario para mantener el saldo positivo, los importes que hayan sido cargados al Fondo de Provisión aprobado por el Real Decreto-ley 12/1995 en ejecución de los avales y los gastos y costes de gestión y administración del aval. El procedimiento de reposición será similar a lo previsto en otros Convenios recientes con las adaptaciones a lo previsto en el Real Decreto-ley de referencia y en este Acuerdo y las referencias se entenderán hechas al Ministerio de referencia del aval.</p>
-<p class="cuerpo_tabla_izq">En el primer trimestre de cada uno de los ejercicios se podrán revisar los importes comprometidos para «coste de administración», previa certificación por el ICO del coste de las operaciones avaladas.</p>
+<td>
+<p>El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente o siempre que sea necesario para mantener el saldo positivo, los importes que hayan sido cargados al Fondo de Provisión aprobado por el Real Decreto-ley 12/1995 en ejecución de los avales y los gastos y costes de gestión y administración del aval. El procedimiento de reposición será similar a lo previsto en otros Convenios recientes con las adaptaciones a lo previsto en el Real Decreto-ley de referencia y en este Acuerdo y las referencias se entenderán hechas al Ministerio de referencia del aval.</p>
+<p>En el primer trimestre de cada uno de los ejercicios se podrán revisar los importes comprometidos para «coste de administración», previa certificación por el ICO del coste de las operaciones avaladas.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Seguimiento de la línea y habilitaciones</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Seguimiento de la línea</strong>
 </td>
-<td class="cuerpo_tabla_izq">El ICO informará con carácter quincenal al Ministerio de Asuntos Económicos y Transformación Digital de la utilización de la línea de avales.</td>
+<td>El ICO informará con carácter quincenal al Ministerio de Asuntos Económicos y Transformación Digital de la utilización de la línea de avales.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Otros trámites</strong>
 </td>
-<td class="cuerpo_tabla_izq">No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
+<td>No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">
+<td colspan="2">
 <strong>Ayudas de Estado</strong>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <strong>Ayudas de Estado</strong>
 </td>
-<td class="cuerpo_tabla_izq">La línea está sujeta a la normativa sobre Ayudas de Estado de la Unión Europea.</td>
+<td>La línea está sujeta a la normativa sobre Ayudas de Estado de la Unión Europea.</td>
 </tr>
 </tbody>
 </table>

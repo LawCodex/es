@@ -1062,132 +1062,126 @@ Para verificar esta condición se realiza el ensayo con la secuencia de operacio
 
 Tabla 1. Definición de cargas. Valores en % sobre la potencia nominal del generador a ensayar
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_5">
-<col class="row_column_6">
-<col class="row_column_6">
-<col class="row_column_6">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cabeza_tabla">Régimen de conexión</p>
+<p>Régimen de conexión</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fase R</p>
+<p>Fase R</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fase S</p>
+<p>Fase S</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fase T</p>
+<p>Fase T</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Monofásico.</p>
+<p>Monofásico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90÷100%</p>
+<p>90÷100%</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">10÷20%</p>
+<p>10÷20%</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>0</p>
 </td>
 <td> </td>
 <td> </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td rowspan="7">
-<p class="cuerpo_tabla_izq">Trifásico.</p>
+<p>Trifásico.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90÷100%</p>
+<p>90÷100%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90÷100%</p>
+<p>90÷100%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">90÷100%</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">10÷20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10÷20%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">10÷20%</p>
+<p>90÷100%</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>10÷20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>10÷20%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">90÷100%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
+<p>10÷20%</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
+<p>0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">30÷40%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
+<p>0</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">0</p>
+<p>90÷100%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
+<p>60÷70%</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">60÷70%</p>
+<p>60÷70%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60÷70%</p>
+</td>
+<td>
+<p>60÷70%</p>
+</td>
+<td>
+<p>60÷70%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30÷40%</p>
+</td>
+<td>
+<p>60÷70%</p>
+</td>
+<td>
+<p>60÷70%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>60÷70%</p>
+</td>
+<td>
+<p>60÷70%</p>
 </td>
 </tr>
 </tbody>

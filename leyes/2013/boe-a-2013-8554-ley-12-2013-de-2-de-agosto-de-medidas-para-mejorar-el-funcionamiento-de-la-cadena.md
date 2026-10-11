@@ -278,12 +278,6 @@ El contenido de las relaciones reguladas por la presente Ley, así como la aplic
 
 No obstante, en el caso de que un socio entregue la producción a una cooperativa, o a otra entidad asociativa, será necesaria la formalización por escrito de un contrato alimentario individualizado, con los mismos elementos mínimos recogidos en el artículo 9, salvo que los estatutos o acuerdos de la cooperativa o de la entidad asociativa establezcan, antes de que se realice la entrega, el procedimiento de determinación del valor del producto entregado por sus socios y el calendario de liquidación y éstos sean conocidos por los socios. A tal efecto, deberá existir una comunicación fehaciente a los interesados, que será incluida en el acuerdo y será aprobado por el órgano de gobierno correspondiente.
 
-> Téngase en cuenta que las obligaciones derivadas de lo dispuesto en el apartado 1, modificado por el art. único.6 de la Ley 16/2021, de 14 de diciembre. [Ref. BOE-A-2021-20630](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20630), entran en vigor el 16 de junio de 2022 según establece su disposición final 8.3.
-
-> Redacción anterior:
-
-> "1. Los contratos alimentarios deberán formalizarse por escrito. Dicha formalización deberá realizarse antes del inicio de las prestaciones que tengan su origen en los mismos."
-
 2\. En ningún caso, el requisito de forma exigido lo es de existencia y validez del contrato.
 
 3\. No obstante, en las relaciones entre operadores de la cadena alimentaria cuando el pago del precio se realice al contado contra la entrega de los productos alimenticios, no será necesario suscribir un contrato alimentario, teniendo las partes la obligación de identificarse como operadores y documentar dichas relaciones comerciales mediante la expedición de la correspondiente factura con los requisitos establecidos en el Real Decreto 1619/2012, de 30 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.

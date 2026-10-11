@@ -728,132 +728,124 @@ Se recoge a continuación el contenido y estructura de los campos de los mensaje
 | COMUNICACIÓN DE PAGOS POR EL DESTINATARIO - Mensaje de alta | ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:ResponseCode: PAYMENT |
 |---|---|
 
-<table class="tabla_girada">
-<colgroup>
-<col width="5%">
-<col width="9%">
-<col width="16%">
-<col width="29%">
-<col width="10%">
-<col width="31%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nivel</th>
-<th class="cabeza_tabla">Cardinalidad</th>
-<th class="cabeza_tabla">Término de negocio (BT)</th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Tipo semántico de dato</th>
-<th class="cabeza_tabla">Ruta UBL</th>
+<th>Nivel</th>
+<th>Cardinalidad</th>
+<th>Término de negocio (BT)</th>
+<th>Descripción</th>
+<th>Tipo semántico de dato</th>
+<th>Ruta UBL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha de efecto</td>
-<td class="cuerpo_tabla_izq">Fecha de expedición del pago o situación del pago.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:EffectiveDate</td>
+<td>+</td>
+<td>1..1</td>
+<td>Fecha de efecto</td>
+<td>Fecha de expedición del pago o situación del pago.</td>
+<td>Fecha</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:EffectiveDate</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha de vencimiento del plazo de pago</td>
-<td class="cuerpo_tabla_izq">Fecha de vencimiento del plazo de pago, calculada de acuerdo con lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=DueDate</p>
+<td>+</td>
+<td>1..1</td>
+<td>Fecha de vencimiento del plazo de pago</td>
+<td>Fecha de vencimiento del plazo de pago, calculada de acuerdo con lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación.</td>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=DueDate</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de recepción de las mercancías o de los servicios prestados</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Campos opcionales, a informar si, de acuerdo con el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, esta información resulta relevante.</p>
-<p class="cuerpo_tabla_izq">Si no se informan, de acuerdo con lo dispuesto en la D.A. 7.ª del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se entenderá como fecha de inicio del plazo de pago la fecha de expedición de la factura.</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de recepción de las mercancías o de los servicios prestados</td>
+<td rowspan="2">
+<p>Campos opcionales, a informar si, de acuerdo con el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, esta información resulta relevante.</p>
+<p>Si no se informan, de acuerdo con lo dispuesto en la D.A. 7.ª del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se entenderá como fecha de inicio del plazo de pago la fecha de expedición de la factura.</p>
 </td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse cac:Response//cac:Status/cac:Condition/cbc:AttributeID=ShipmentDate</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de recepción de la factura</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ReceptionDate</p>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse cac:Response//cac:Status/cac:Condition/cbc:AttributeID=ShipmentDate</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Factura rectificada</td>
-<td class="cuerpo_tabla_izq">Factura que ha sido previamente rectificada (y la confirmación no necesariamente será por el importe de la factura original)</td>
-<td class="cuerpo_tabla_centro">Indicador</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:StatusReason=CorrectedInvoice</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Factura rectificativa</td>
-<td class="cuerpo_tabla_izq">Factura sin pago asociado (factura rectificativa negativa)</td>
-<td class="cuerpo_tabla_centro">Indicador</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:StatusReason=NegativeAmountInvoice</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">+</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de recepción de la factura</td>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ReceptionDate</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">1..1</p>
+</tr>
+<tr>
+<td>+</td>
+<td>0..1</td>
+<td>Factura rectificada</td>
+<td>Factura que ha sido previamente rectificada (y la confirmación no necesariamente será por el importe de la factura original)</td>
+<td>Indicador</td>
+<td>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:StatusReason=CorrectedInvoice</td>
+</tr>
+<tr>
+<td>+</td>
+<td>0..1</td>
+<td>Factura rectificativa</td>
+<td>Factura sin pago asociado (factura rectificativa negativa)</td>
+<td>Indicador</td>
+<td>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:StatusReason=NegativeAmountInvoice</td>
+</tr>
+<tr>
+<td>
+<p>+</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FACTURA INFORMADA</p>
+<td>
+<p>1..1</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Datos de la factura sobre la que se informa el pago</p>
+<td>
+<p>FACTURA INFORMADA</p>
 </td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>
+<p>Datos de la factura sobre la que se informa el pago</p>
+</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Número de factura (ID)</td>
-<td class="cuerpo_tabla_izq">Serie y número que identifican la factura informada.</td>
-<td class="cuerpo_tabla_centro">Texto</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:ID</td>
+<td>++</td>
+<td>1..1</td>
+<td>Número de factura (ID)</td>
+<td>Serie y número que identifican la factura informada.</td>
+<td>Texto</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:ID</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha de expedición de la factura.</td>
-<td class="cuerpo_tabla_izq">Fecha de expedición de la factura informada.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:IssueDate</td>
+<td>++</td>
+<td>1..1</td>
+<td>Fecha de expedición de la factura.</td>
+<td>Fecha de expedición de la factura informada.</td>
+<td>Fecha</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:IssueDate</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">NIF emisor</td>
-<td class="cuerpo_tabla_izq">Número de identificación fiscal (NIF) del vendedor en la factura informada.</td>
-<td class="cuerpo_tabla_centro">Identificador</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyTaxScheme/cbc:CompanyID</td>
+<td>++</td>
+<td>1..1</td>
+<td>NIF emisor</td>
+<td>Número de identificación fiscal (NIF) del vendedor en la factura informada.</td>
+<td>Identificador</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyTaxScheme/cbc:CompanyID</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Nombre / Razón social emisor</td>
-<td class="cuerpo_tabla_izq">Nombre o razón social del vendedor en la factura informada.</td>
-<td class="cuerpo_tabla_centro">Texto</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyLegalEntity/cbc:RegistrationName</td>
+<td>++</td>
+<td>1..1</td>
+<td>Nombre / Razón social emisor</td>
+<td>Nombre o razón social del vendedor en la factura informada.</td>
+<td>Texto</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyLegalEntity/cbc:RegistrationName</td>
 </tr>
 </tbody>
 </table>
@@ -902,124 +894,116 @@ Se recoge a continuación el contenido y estructura de los campos de los mensaje
 | COMUNICACIÓN DE COBRO POR EL EMISOR - Mensaje de alta | ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:ResponseCode: SETTLEMENT |
 |---|---|
 
-<table class="tabla_girada">
-<colgroup>
-<col width="5%">
-<col width="9%">
-<col width="16%">
-<col width="29%">
-<col width="10%">
-<col width="31%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nivel</th>
-<th class="cabeza_tabla">Cardinalidad</th>
-<th class="cabeza_tabla">Término de negocio (BT)</th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Tipo semántico de dato</th>
-<th class="cabeza_tabla">Ruta UBL</th>
+<th>Nivel</th>
+<th>Cardinalidad</th>
+<th>Término de negocio (BT)</th>
+<th>Descripción</th>
+<th>Tipo semántico de dato</th>
+<th>Ruta UBL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha del cobro</td>
-<td class="cuerpo_tabla_izq">Fecha de cobro por el emisor.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:EffectiveDate</td>
+<td>+</td>
+<td>1..1</td>
+<td>Fecha del cobro</td>
+<td>Fecha de cobro por el emisor.</td>
+<td>Fecha</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:EffectiveDate</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de vencimiento del pago</td>
-<td class="cuerpo_tabla_izq">Fecha de vencimiento del pago, calculada de acuerdo con lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=DueDate</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de vencimiento del pago</td>
+<td>Fecha de vencimiento del pago, calculada de acuerdo con lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación.</td>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=DueDate</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Mecanismo de financiación</td>
-<td class="cuerpo_tabla_izq">Indicador de si el cobro se ha producido a través de un mecanismo de financiación concertado por el emisor.</td>
-<td class="cuerpo_tabla_centro">Indicador</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:Response/cac:Status/cac:Condition/cbc:AttributeID=FinancingArrangement</td>
+<td>+</td>
+<td>0..1</td>
+<td>Mecanismo de financiación</td>
+<td>Indicador de si el cobro se ha producido a través de un mecanismo de financiación concertado por el emisor.</td>
+<td>Indicador</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:Response/cac:Status/cac:Condition/cbc:AttributeID=FinancingArrangement</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de recepción de las mercancías o de los servicios prestados</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Campos opcionales, a informar si, de acuerdo con el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, esta información resulta relevante.</p>
-<p class="cuerpo_tabla_izq">Si no se informan, de acuerdo con lo dispuesto en la D.A. 7.ª del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se entenderá como fecha de inicio del plazo de pago la fecha de expedición de la factura.</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de recepción de las mercancías o de los servicios prestados</td>
+<td rowspan="2">
+<p>Campos opcionales, a informar si, de acuerdo con el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, esta información resulta relevante.</p>
+<p>Si no se informan, de acuerdo con lo dispuesto en la D.A. 7.ª del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se entenderá como fecha de inicio del plazo de pago la fecha de expedición de la factura.</p>
 </td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ShipmentDate</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de recepción de la factura</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ReceptionDate</p>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ShipmentDate</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">+</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de recepción de la factura</td>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ReceptionDate</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">1..1</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">FACTURA INFORMADA</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Datos de la factura sobre la que se informa el pago</p>
-</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_izq"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Número de factura (ID)</td>
-<td class="cuerpo_tabla_izq">Serie y número que identifican la factura informada.</td>
-<td class="cuerpo_tabla_centro">Texto</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:ID</td>
+<td>
+<p>+</p>
+</td>
+<td>
+<p>1..1</p>
+</td>
+<td>
+<p>FACTURA INFORMADA</p>
+</td>
+<td>
+<p>Datos de la factura sobre la que se informa el pago</p>
+</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha de emisión factura</td>
-<td class="cuerpo_tabla_izq">Fecha de expedición de la factura informada.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:IssueDate</td>
+<td>++</td>
+<td>1..1</td>
+<td>Número de factura (ID)</td>
+<td>Serie y número que identifican la factura informada.</td>
+<td>Texto</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:ID</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">NIF emisor</td>
-<td class="cuerpo_tabla_izq">Número de identificación fiscal (NIF) del vendedor en la factura informada.</td>
-<td class="cuerpo_tabla_centro">Identificador</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyTaxScheme/cbc:CompanyID</td>
+<td>++</td>
+<td>1..1</td>
+<td>Fecha de emisión factura</td>
+<td>Fecha de expedición de la factura informada.</td>
+<td>Fecha</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:IssueDate</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Nombre / Razón social emisor</td>
-<td class="cuerpo_tabla_izq">Nombre o razón social del vendedor en la factura informada.</td>
-<td class="cuerpo_tabla_centro">Texto</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyLegalEntity/cbc:RegistrationName</td>
+<td>++</td>
+<td>1..1</td>
+<td>NIF emisor</td>
+<td>Número de identificación fiscal (NIF) del vendedor en la factura informada.</td>
+<td>Identificador</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyTaxScheme/cbc:CompanyID</td>
+</tr>
+<tr>
+<td>++</td>
+<td>1..1</td>
+<td>Nombre / Razón social emisor</td>
+<td>Nombre o razón social del vendedor en la factura informada.</td>
+<td>Texto</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyLegalEntity/cbc:RegistrationName</td>
 </tr>
 </tbody>
 </table>
@@ -1041,105 +1025,97 @@ Se recoge a continuación el contenido y estructura de los campos de los mensaje
 | COMUNICACIÓN DE IMPAGO POR EL EMISOR - Mensaje de alta | ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:ResponseCode: DEFAULT |
 |---|---|
 
-<table class="tabla_girada">
-<colgroup>
-<col width="5%">
-<col width="9%">
-<col width="16%">
-<col width="29%">
-<col width="10%">
-<col width="31%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nivel</th>
-<th class="cabeza_tabla">Cardinalidad</th>
-<th class="cabeza_tabla">Término de negocio (BT)</th>
-<th class="cabeza_tabla">Descripción</th>
-<th class="cabeza_tabla">Tipo semántico de dato</th>
-<th class="cabeza_tabla">Ruta UBL</th>
+<th>Nivel</th>
+<th>Cardinalidad</th>
+<th>Término de negocio (BT)</th>
+<th>Descripción</th>
+<th>Tipo semántico de dato</th>
+<th>Ruta UBL</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha de vencimiento del pago</td>
-<td class="cuerpo_tabla_izq">Fecha de vencimiento del pago, calculada de acuerdo con lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:EffectiveDate</td>
+<td>+</td>
+<td>1..1</td>
+<td>Fecha de vencimiento del pago</td>
+<td>Fecha de vencimiento del pago, calculada de acuerdo con lo dispuesto en el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales o en la normativa específica que resulte de aplicación.</td>
+<td>Fecha</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:Response/cbc:EffectiveDate</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de recepción de las mercancías o de los servicios prestados</td>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">Campos opcionales, a informar si, de acuerdo con el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, esta información resulta relevante.</p>
-<p class="cuerpo_tabla_izq">Si no se informan, de acuerdo con lo dispuesto en la D.A. 7.ª del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se entenderá como fecha de inicio del plazo de pago la fecha de expedición de la factura.</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de recepción de las mercancías o de los servicios prestados</td>
+<td rowspan="2">
+<p>Campos opcionales, a informar si, de acuerdo con el artículo 4 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, esta información resulta relevante.</p>
+<p>Si no se informan, de acuerdo con lo dispuesto en la D.A. 7.ª del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, se entenderá como fecha de inicio del plazo de pago la fecha de expedición de la factura.</p>
 </td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ShipmentDate</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro">+</td>
-<td class="cuerpo_tabla_centro">0..1</td>
-<td class="cuerpo_tabla_izq">Fecha de recepción de la factura</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
-<p class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ReceptionDate</p>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ShipmentDate</p>
 </td>
 </tr>
 <tr>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">+</p>
+<td>+</td>
+<td>0..1</td>
+<td>Fecha de recepción de la factura</td>
+<td>Fecha</td>
+<td>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cbc:ReferenceDate</p>
+<p>ApplicationResponse/cac:DocumentResponse/ cac:Response/cac:Status/cac:Condition/cbc:AttributeID=ReceptionDate</p>
 </td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">1..1</p>
-</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">FACTURA INFORMADA</p>
-</td>
-<td class="sombra">
-<p class="cuerpo_tabla_centro">Datos de la factura sobre la que se informa el pago</p>
-</td>
-<td class="sombra"> </td>
-<td class="sombra"> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Número de factura (ID)</td>
-<td class="cuerpo_tabla_izq">Serie y número que identifican la factura informada.</td>
-<td class="cuerpo_tabla_centro">Texto</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:ID</td>
+<td>
+<p>+</p>
+</td>
+<td>
+<p>1..1</p>
+</td>
+<td>
+<p>FACTURA INFORMADA</p>
+</td>
+<td>
+<p>Datos de la factura sobre la que se informa el pago</p>
+</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Fecha de emisión factura</td>
-<td class="cuerpo_tabla_izq">Fecha de expedición de la factura informada.</td>
-<td class="cuerpo_tabla_centro">Fecha</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:IssueDate</td>
+<td>++</td>
+<td>1..1</td>
+<td>Número de factura (ID)</td>
+<td>Serie y número que identifican la factura informada.</td>
+<td>Texto</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:ID</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">NIF emisor</td>
-<td class="cuerpo_tabla_izq">Número de identificación fiscal (NIF) del vendedor en la factura informada.</td>
-<td class="cuerpo_tabla_centro">Identificador</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyTaxScheme/cbc:CompanyID</td>
+<td>++</td>
+<td>1..1</td>
+<td>Fecha de emisión factura</td>
+<td>Fecha de expedición de la factura informada.</td>
+<td>Fecha</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cbc:IssueDate</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">++</td>
-<td class="cuerpo_tabla_centro">1..1</td>
-<td class="cuerpo_tabla_izq">Nombre / Razón social emisor</td>
-<td class="cuerpo_tabla_izq">Nombre o razón social del vendedor en la factura informada.</td>
-<td class="cuerpo_tabla_centro">Texto</td>
-<td class="cuerpo_tabla_izq">ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyLegalEntity/cbc:RegistrationName</td>
+<td>++</td>
+<td>1..1</td>
+<td>NIF emisor</td>
+<td>Número de identificación fiscal (NIF) del vendedor en la factura informada.</td>
+<td>Identificador</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyTaxScheme/cbc:CompanyID</td>
+</tr>
+<tr>
+<td>++</td>
+<td>1..1</td>
+<td>Nombre / Razón social emisor</td>
+<td>Nombre o razón social del vendedor en la factura informada.</td>
+<td>Texto</td>
+<td>ApplicationResponse/cac:DocumentResponse/cac:DocumentReference/cac:IssuerParty/cac:PartyLegalEntity/cbc:RegistrationName</td>
 </tr>
 </tbody>
 </table>

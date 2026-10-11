@@ -2910,124 +2910,120 @@ b) Una en cada provincia para el personal funcionario docente no universitario.
 
 2\. Para el personal al servicio de las instituciones sanitarias del Servicio de Salud de Castilla-La Mancha se constituyen las siguientes unidades electorales:
 
-<table class="tabla_b_sica">
-<colgroup>
-<col class="row_column_19">
-<col class="row_column_20">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_11">
+<tr>
 <td>
-<p class="cabeza_tabla">Unidad Electoral</p>
+<p>Unidad Electoral</p>
 </td>
 <td>
-<p class="cabeza_tabla">Centros incluidos</p>
+<p>Centros incluidos</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_21">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Unidad 1.</p>
+<p>Unidad 1.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Albacete.</p>
+<p>Gerencia de Atención Integrada de Albacete.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Almansa.</p>
+<p>Gerencia de Atención Integrada de Almansa.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Hellín.</p>
+<p>Gerencia de Atención Integrada de Hellín.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Villarrobledo.</p>
+<p>Gerencia de Atención Integrada de Villarrobledo.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Unidad 2.</p>
+<p>Unidad 2.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Ciudad Real.</p>
+<p>Gerencia de Atención Integrada de Ciudad Real.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Valdepeñas.</p>
+<p>Gerencia de Atención Integrada de Valdepeñas.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Unidad 3.</p>
+<p>Unidad 3.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Tomelloso.</p>
+<p>Gerencia de Atención Integrada de Tomelloso.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Alcázar de San Juan.</p>
+<p>Gerencia de Atención Integrada de Alcázar de San Juan.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Manzanares.</p>
+<p>Gerencia de Atención Integrada de Manzanares.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad 4.</p>
+<p>Unidad 4.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Puertollano.</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Unidad 5.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Cuenca.</p>
+<p>Gerencia de Atención Integrada de Puertollano.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad 6.</p>
+<p>Unidad 5.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Guadalajara.</p>
+<p>Gerencia de Atención Integrada de Cuenca.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
+<td>
+<p>Unidad 6.</p>
+</td>
+<td>
+<p>Gerencia de Atención Integrada de Guadalajara.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Unidad 7.</p>
+<p>Unidad 7.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Primaria de Toledo.</p>
-</td>
-</tr>
-<tr class="row_column_18">
-<td>
-<p class="cuerpo_tabla_izq">Complejo Hospitalario de Toledo.</p>
+<p>Gerencia de Atención Primaria de Toledo.</p>
 </td>
 </tr>
-<tr class="row_column_18">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Hospital Nacional de Parapléjicos.</p>
+<p>Complejo Hospitalario de Toledo.</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Unidad 8.</p>
+<p>Hospital Nacional de Parapléjicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unidad 8.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Gerencia de Atención Integrada de Talavera Reina.</p>
+<p>Gerencia de Atención Integrada de Talavera Reina.</p>
 </td>
 </tr>
 </tbody>

@@ -148,26 +148,26 @@ Los precios unitarios de aplicación a partir de la entrada en vigor de la prese
 
 La cuantía de los costes con destinos específicos que, de acuerdo con el capítulo II del Real Decreto 2017/1997, de 26 de diciembre, deben satisfacer los consumidores directos en mercado y comercializadores por los contratos de acceso a las redes, se establecen a partir de la entrada en vigor de la presente orden en los porcentajes siguientes:
 
-<table class="tabla">
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">% sobre peaje de acceso</th>
+<th> </th>
+<th>% sobre peaje de acceso</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Tasa de la Comisión Nacional de los Mercados y la Competencia (Actividades Sector eléctrico)</td>
-<td class="cuerpo_tabla_centro" rowspan="2">0,15</td>
+<td rowspan="2">Tasa de la Comisión Nacional de los Mercados y la Competencia (Actividades Sector eléctrico)</td>
+<td rowspan="2">0,15</td>
 </tr>
 <tr></tr>
 <tr>
-<td class="cuerpo_tabla_izq">2.ª Parte del ciclo de combustible nuclear</td>
-<td class="cuerpo_tabla_centro">0,001</td>
+<td>2.ª Parte del ciclo de combustible nuclear</td>
+<td>0,001</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Recargo para recuperar el déficit de ingresos en la liquidación de las actividades reguladas generado entre el 1 de enero de 2005 y el 31 de diciembre de 2005</td>
-<td class="cuerpo_tabla_centro">2,039</td>
+<td>Recargo para recuperar el déficit de ingresos en la liquidación de las actividades reguladas generado entre el 1 de enero de 2005 y el 31 de diciembre de 2005</td>
+<td>2,039</td>
 </tr>
 </tbody>
 </table>

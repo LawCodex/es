@@ -1174,8 +1174,6 @@ Valores límites específicos para sustancias químicas utilizadas en juguetes d
 | Fenol | 108-95-2 | 5 mg/l (límite de migración) en materiales poliméricos, con arreglo a los métodos definidos en las normas<br>EN 71-10:2005 y EN 71-11:2005.<br>10 mg/kg (límite de contenido) como conservante, con arreglo a los métodos definidos en las normas<br>EN 71-10:2005 y EN 71-11:2005. |
 | Formaldehído | 50-00-0 | 1,5 mg/l (límite de migración) en materiales poliméricos en juguetes.<br>0,1 ml/m<sup>3</sup> (límite de emisión) en materiales de madera ligada con resina para la fabricación de juguetes.<br>30 mg/kg (límite de contenido) en materiales textiles en juguetes.<br>30 mg/kg (límite de contenido) en materiales de cuero en juguetes.<br>30 mg/kg (límite de contenido) en materiales de papel en juguetes.<br>10 mg/kg (límite de contenido) en materiales de base acuosa en juguetes. |
 
-> Téngase en cuenta que la sustancia "Anilina" añadida al apéndice C por el art. único de la Orden PCM/1048/2022, de 1 de noviembre. [Ref. BOE-A-2022-18041](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-18041), entra en vigor el 4 diciembre de 2002, según establece su disposición final segunda.
-
 > Se modifica el apéndice A por el art. único de la Orden PJC/903/2026, de 26 de agosto. [Ref. BOE-A-2026-18261](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-18261)
 
 > Se añade la sustancia "Anilina" al apéndice C por el art. único de la Orden PCM/1048/2022, de 1 de noviembre. [Ref. BOE-A-2022-18041](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-18041)

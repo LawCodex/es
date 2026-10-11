@@ -270,156 +270,150 @@ SORAYA SÁENZ DE SANTAMARÍA ANTÓN
 
 1\. Límites máximos de defectos en función de las categorías comerciales para las presentaciones enteras, deshuesadas y rellenas contempladas en el artículo 6, apartados 1, 2 y 3.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Defectos</p>
+<p>Defectos</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Tolerancias máximas en % de frutos</p>
+<p>Tolerancias máximas en % de frutos</p>
 </td>
 </tr>
-<tr class="row_column_6">
+<tr>
 <td>
-<p class="cabeza_tabla">Extra</p>
+<p>Extra</p>
 </td>
 <td>
-<p class="cabeza_tabla">Primera</p>
+<p>Primera</p>
 </td>
 <td>
-<p class="cabeza_tabla">Segunda</p>
-<p class="cabeza_tabla">o estándar</p>
+<p>Segunda</p>
+<p>o estándar</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">1. Frutos excesivamente blandos, arrugados o fibrosos.</p>
+<p>1. Frutos excesivamente blandos, arrugados o fibrosos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6</p>
+<p>6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
-</td>
-</tr>
-<tr class="row_column_8">
-<td>
-<p class="cuerpo_tabla_izq">2. Defectos de la epidermis afectando a la pulpa.</p>
-<p class="cuerpo_tabla_izq">Daños por insectos, hongos, manchas que penetran en el interior del fruto. &gt; 9 mm<sup>2.</sup></p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17</p>
+<p>11</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">3. Defectos de la epidermis sin afectar a la pulpa.</p>
-<p class="cuerpo_tabla_izq">Manchas superficiales, coloración anormal. &gt; 9 mm<sup>2.</sup></p>
+<p>2. Defectos de la epidermis afectando a la pulpa.</p>
+<p>Daños por insectos, hongos, manchas que penetran en el interior del fruto. &gt; 9 mm<sup>2.</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">4. Pedúnculos.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6</p>
+<p>17</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">5. Frutos rotos.</p>
+<p>3. Defectos de la epidermis sin afectar a la pulpa.</p>
+<p>Manchas superficiales, coloración anormal. &gt; 9 mm<sup>2.</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3</p>
+<p>5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
-</td>
-</tr>
-<tr class="row_column_10">
-<td>
-<p class="cuerpo_tabla_izq">6. Vacías o con relleno incompleto (1).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14</p>
+<p>–</p>
 </td>
 </tr>
-<tr class="row_column_10">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">7. Huesos y fragmentos de hueso (2).</p>
+<p>4. Pedúnculos.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,5</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2</p>
-</td>
-</tr>
-<tr class="row_column_7">
-<td>
-<p class="cuerpo_tabla_izq">Suma total de defectos (3).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">22</p>
+<p>6</p>
 </td>
 </tr>
-<tr class="row_column_7">
+<tr>
+<td>
+<p>5. Frutos rotos.</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Vacías o con relleno incompleto (1).</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Huesos y fragmentos de hueso (2).</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suma total de defectos (3).</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>22</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Materias extrañas inocuas.</p>
+<p>Materias extrañas inocuas.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_der">1 unidad por Kg o fracción</p>
+<p>1 unidad por Kg o fracción</p>
 </td>
 </tr>
 </tbody>

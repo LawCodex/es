@@ -987,51 +987,51 @@ Tes = Kes x T
 
 Siendo:
 
-<table class="tabla">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Parámetro</p>
+<p>Parámetro</p>
 </td>
 <td>
-<p class="cabeza_tabla">Coeficiente</p>
+<p>Coeficiente</p>
 </td>
 <td>
-<p class="cabeza_tabla">Distancia a la costa</p>
+<p>Distancia a la costa</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Kes.</p>
+<p>Kes.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 500 m.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">0,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Entre 501 y 800 m.</p>
+<p>Hasta 500 m.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">0,3</p>
+<p>0,6</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Entre 801 y 1.200 m.</p>
+<p>Entre 501 y 800 m.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">0,15</p>
+<p>0,3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Más de 1.200 m.</p>
+<p>Entre 801 y 1.200 m.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>Más de 1.200 m.</p>
 </td>
 </tr>
 </table>

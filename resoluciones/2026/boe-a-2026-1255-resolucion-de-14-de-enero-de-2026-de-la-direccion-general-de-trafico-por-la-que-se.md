@@ -994,613 +994,550 @@ Quedan exceptuadas de las restricciones anteriores, las carreteras de las Ciudad
 
 a) Restricciones en periodos genéricos
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los viernes comprendidos entre enero y marzo, y entre el 4 y 18 de diciembre</p>
+<p>Todos los viernes comprendidos entre enero y marzo, y entre el 4 y 18 de diciembre</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">17,00-24,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Frontera Francia.</td>
+<td rowspan="3">N-230</td>
+<td>64,1</td>
+<td>Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td rowspan="3">17,00-24,00</td>
+<td rowspan="3">Frontera Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td>149,2</td>
+<td>Aneto.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(Excepto los desplazamientos con destino: la residencia habitual del conductor, lugar domiciliación del vehículo o base empresa).</p>
+<p>(Excepto los desplazamientos con destino: la residencia habitual del conductor, lugar domiciliación del vehículo o base empresa).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los sábados de los meses de junio, julio y agosto</p>
+<p>Todos los sábados de los meses de junio, julio y agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_centro">10,00-14,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>10,00-14,00</td>
+<td>Ayamonte</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">10,00-13,00</td>
-<td class="cuerpo_tabla_izq">Cádiz</td>
+<td>AP-4</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>10,00-13,00</td>
+<td>Cádiz</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">10,00-13,00</td>
-<td class="cuerpo_tabla_izq">Cádiz</td>
+<td>N-4</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>10,00-13,00</td>
+<td>Cádiz</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los sábados, domingos y festivos (*) de los meses de julio y agosto</p>
+<p>Todos los sábados, domingos y festivos (*) de los meses de julio y agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-483</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Bollullos Par Cd.–enlace A-49.</td>
-<td class="cuerpo_tabla_coma">41,33</td>
-<td class="cuerpo_tabla_izq">Matalascañas.</td>
-<td class="cuerpo_tabla_centro">11,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-483</td>
+<td>0</td>
+<td>Bollullos Par Cd.–enlace A-49.</td>
+<td>41,33</td>
+<td>Matalascañas.</td>
+<td>11,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-497</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Huelva.</td>
-<td class="cuerpo_tabla_coma">17,05</td>
-<td class="cuerpo_tabla_izq">Punta Umbría.</td>
-<td class="cuerpo_tabla_centro">11,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-497</td>
+<td>0</td>
+<td>Huelva.</td>
+<td>17,05</td>
+<td>Punta Umbría.</td>
+<td>11,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5056</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Lepe.</td>
-<td class="cuerpo_tabla_coma">4,8</td>
-<td class="cuerpo_tabla_izq">La Antilla.</td>
-<td class="cuerpo_tabla_centro">11,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5056</td>
+<td>0</td>
+<td>Lepe.</td>
+<td>4,8</td>
+<td>La Antilla.</td>
+<td>11,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5076</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Lepe (N-431).</td>
-<td class="cuerpo_tabla_coma">5,4</td>
-<td class="cuerpo_tabla_izq">La Antilla (A-5056).</td>
-<td class="cuerpo_tabla_centro">11,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5076</td>
+<td>0</td>
+<td>Lepe (N-431).</td>
+<td>5,4</td>
+<td>La Antilla (A-5056).</td>
+<td>11,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-370</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Los Gallardos.</td>
-<td class="cuerpo_tabla_coma">12,16</td>
-<td class="cuerpo_tabla_izq">Garrucha.</td>
-<td class="cuerpo_tabla_centro">11,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-370</td>
+<td>0</td>
+<td>Los Gallardos.</td>
+<td>12,16</td>
+<td>Garrucha.</td>
+<td>11,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">11,00-14,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>11,00-14,00</td>
+<td>Santander.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-22,00</td>
+<td>Bilbao.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
+<p>(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los domingos comprendidos entre enero y marzo, y entre el 6 y 27 de diciembre</p>
+<p>Todos los domingos comprendidos entre enero y marzo, y entre el 6 y 27 de diciembre</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">13,00-20,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Benabarre.</td>
+<td rowspan="3">N-230</td>
+<td>149,2</td>
+<td>Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td rowspan="3">13,00-20,00</td>
+<td rowspan="3">Benabarre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td>64,1</td>
+<td>Benabarre.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los domingos del mes de junio</p>
+<p>Todos los domingos del mes de junio</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">76,9</td>
-<td class="cuerpo_tabla_izq">San Juan del Puerto.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>A-49</td>
+<td>76,9</td>
+<td>San Juan del Puerto.</td>
+<td>0</td>
+<td>Camas.</td>
+<td>15,00-24,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>AP-4</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>16,00-20,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>N-4</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>16,00-20,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-45</td>
-<td class="cuerpo_tabla_coma">142</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma">115</td>
-<td class="cuerpo_tabla_izq">Alto Las Pedrizas.</td>
-<td class="cuerpo_tabla_centro">17,00-24,00</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
+<td>A-45</td>
+<td>142</td>
+<td>Málaga.</td>
+<td>115</td>
+<td>Alto Las Pedrizas.</td>
+<td>17,00-24,00</td>
+<td>Córdoba.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los domingos y festivos (*) de los meses de julio y agosto</p>
+<p>Todos los domingos y festivos (*) de los meses de julio y agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>AP-4</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>16,00-20,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>N-4</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>16,00-20,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">17,00-22,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Benabarre.</td>
+<td rowspan="3">N-230</td>
+<td>149,2</td>
+<td>Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td rowspan="3">17,00-22,00</td>
+<td rowspan="3">Benabarre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td>64,1</td>
+<td>Benabarre.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
+<p>(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los domingos y festivos (*) comprendidos entre el 28 de junio y el 6 de septiembre</p>
+<p>Todos los domingos y festivos (*) comprendidos entre el 28 de junio y el 6 de septiembre</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_izq">Mirabueno.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>107</td>
+<td>Mirabueno.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">75</td>
-<td class="cuerpo_tabla_izq">Maqueda.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">21,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>75</td>
+<td>Maqueda.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>21,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas (enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">21,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>21,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-45</td>
-<td class="cuerpo_tabla_coma">142</td>
-<td class="cuerpo_tabla_izq">Málaga.</td>
-<td class="cuerpo_tabla_coma">115</td>
-<td class="cuerpo_tabla_izq">Alto Las Pedrizas.</td>
-<td class="cuerpo_tabla_centro">17,00-24,00</td>
-<td class="cuerpo_tabla_izq">Córdoba.</td>
+<td>A-45</td>
+<td>142</td>
+<td>Málaga.</td>
+<td>115</td>
+<td>Alto Las Pedrizas.</td>
+<td>17,00-24,00</td>
+<td>Córdoba.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Bollullos Par del Condado.</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>50</td>
+<td>Bollullos Par del Condado.</td>
+<td>15,00-24,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">76,9</td>
-<td class="cuerpo_tabla_izq">San Juan del Puerto.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>A-49</td>
+<td>76,9</td>
+<td>San Juan del Puerto.</td>
+<td>0</td>
+<td>Camas.</td>
+<td>15,00-24,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-630</td>
-<td class="cuerpo_tabla_coma">782</td>
-<td class="cuerpo_tabla_izq">El Garrobo.</td>
-<td class="cuerpo_tabla_coma">810</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_centro">10,00-14,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-630</td>
+<td>782</td>
+<td>El Garrobo.</td>
+<td>810</td>
+<td>Camas.</td>
+<td>10,00-14,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
+<p>(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
 </td>
 </tr>
 </tfoot>
@@ -1608,6414 +1545,5955 @@ a) Restricciones en periodos genéricos
 
 b) Restricciones por fechas
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Miércoles 18 de marzo (San José)</p>
+<p>Miércoles 18 de marzo (San José)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>17,00-21,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 27 y domingo 29 de marzo (Semana Santa)</p>
+<p>Viernes 27 y domingo 29 de marzo (Semana Santa)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Miércoles 1 de abril (Semana Santa)</p>
+<p>Miércoles 1 de abril (Semana Santa)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>16,00-22,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>13,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>120</td>
+<td>Madridejos.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>13,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlaceAP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlaceAP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-7</td>
-<td class="cuerpo_tabla_coma">556</td>
-<td class="cuerpo_tabla_izq">Santomera.</td>
-<td class="cuerpo_tabla_coma">575</td>
-<td class="cuerpo_tabla_izq">Torres de Cotillas.</td>
-<td class="cuerpo_tabla_centro">14,00-21,00</td>
-<td class="cuerpo_tabla_izq">Almería.</td>
+<td>A-7</td>
+<td>556</td>
+<td>Santomera.</td>
+<td>575</td>
+<td>Torres de Cotillas.</td>
+<td>14,00-21,00</td>
+<td>Almería.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MU-32</td>
-<td class="cuerpo_tabla_coma">17</td>
-<td class="cuerpo_tabla_izq">Archena.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_centro">14,00-21,00</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
+<td>MU-32</td>
+<td>17</td>
+<td>Archena.</td>
+<td>0</td>
+<td>Murcia.</td>
+<td>14,00-21,00</td>
+<td>Murcia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MU-33</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Pto. Cadena-Murcia.</td>
-<td class="cuerpo_tabla_centro">14,00-21,00</td>
-<td class="cuerpo_tabla_izq">Cartagena.</td>
+<td>MU-33</td>
+<td>0</td>
+<td>Murcia.</td>
+<td>13</td>
+<td>Pto. Cadena-Murcia.</td>
+<td>14,00-21,00</td>
+<td>Cartagena.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>17,00-21,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">77,2</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>AP-1</td>
+<td>77,2</td>
+<td>Miranda de Ebro.</td>
+<td>0</td>
+<td>Burgos.</td>
+<td>17,00-21,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1/N-1</td>
-<td class="cuerpo_tabla_coma">321</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_coma">236</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-1/N-1</td>
+<td>321</td>
+<td>Miranda de Ebro.</td>
+<td>236</td>
+<td>Burgos.</td>
+<td>17,00-21,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1/N-1</td>
-<td class="cuerpo_tabla_coma">336</td>
-<td class="cuerpo_tabla_izq">Treviño-Límite con Álava.</td>
-<td class="cuerpo_tabla_coma">329</td>
-<td class="cuerpo_tabla_izq">Treviño-Límite con Álava.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-1/N-1</td>
+<td>336</td>
+<td>Treviño-Límite con Álava.</td>
+<td>329</td>
+<td>Treviño-Límite con Álava.</td>
+<td>17,00-21,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>16,00-23,00</td>
+<td>Frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Jueves 2 de abril (Semana Santa)</p>
+<p>Jueves 2 de abril (Semana Santa)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>07,00-15,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>07,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>120</td>
+<td>Madridejos.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>07,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlaceAP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlaceAP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">77,2</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>AP-1</td>
+<td>77,2</td>
+<td>Miranda de Ebro.</td>
+<td>0</td>
+<td>Burgos.</td>
+<td>10,00-15,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1/N-1</td>
-<td class="cuerpo_tabla_coma">321</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_coma">236</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-1/N-1</td>
+<td>321</td>
+<td>Miranda de Ebro.</td>
+<td>236</td>
+<td>Burgos.</td>
+<td>10,00-15,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1/N-1</td>
-<td class="cuerpo_tabla_coma">336</td>
-<td class="cuerpo_tabla_izq">Treviño-Límite con Álava.</td>
-<td class="cuerpo_tabla_coma">329</td>
-<td class="cuerpo_tabla_izq">Treviño-Límite con Álava.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-1/N-1</td>
+<td>336</td>
+<td>Treviño-Límite con Álava.</td>
+<td>329</td>
+<td>Treviño-Límite con Álava.</td>
+<td>10,00-15,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">08,00-14,00</td>
-<td class="cuerpo_tabla_izq">Frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>08,00-14,00</td>
+<td>Frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>10,00-15,00</td>
+<td>Santander.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>10,00-15,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">17,00-24,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Frontera Francia.</td>
+<td rowspan="3">N-230</td>
+<td>64,1</td>
+<td>Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td rowspan="3">17,00-24,00</td>
+<td rowspan="3">Frontera Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td>149,2</td>
+<td>Aneto.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 3 de abril (Semana Santa)</p>
+<p>Viernes 3 de abril (Semana Santa)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">08,00-13,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Frontera Francia.</td>
+<td rowspan="3">N-230</td>
+<td>64,1</td>
+<td>Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td rowspan="3">08,00-13,00</td>
+<td rowspan="3">Frontera Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td>149,2</td>
+<td>Aneto.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 5 de abril (Semana Santa)</p>
+<p>Domingo 5 de abril (Semana Santa)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_izq">Mirabueno.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>107</td>
+<td>Mirabueno.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">13,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>13,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_centro">13,00-23,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>13,00-23,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">13,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>13,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>13,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">269</td>
-<td class="cuerpo_tabla_izq">Benavente (A-66/A-52).</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>269</td>
+<td>Benavente (A-66/A-52).</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas (enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>13,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">13,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>13,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">13,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>13,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-6).</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>155</td>
+<td>Tordesillas (enlace A-6).</td>
+<td>125</td>
+<td>Valladolid.</td>
+<td>16,00-23,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_centro">11,00-24,00</td>
-<td class="cuerpo_tabla_izq">Atalaya Cañavate.</td>
+<td>A-31</td>
+<td>80</td>
+<td>Albacete.</td>
+<td>0</td>
+<td>Atalaya del Cañavate.</td>
+<td>11,00-24,00</td>
+<td>Atalaya Cañavate.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_centro">14,00-22,00</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
+<td>A-31</td>
+<td>0</td>
+<td>Atalaya del Cañavate.</td>
+<td>80</td>
+<td>Albacete.</td>
+<td>14,00-22,00</td>
+<td>Albacete.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-36</td>
-<td class="cuerpo_tabla_coma">147</td>
-<td class="cuerpo_tabla_izq">La Roda.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">11,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
+<td>AP-36</td>
+<td>147</td>
+<td>La Roda.</td>
+<td>0</td>
+<td>Ocaña.</td>
+<td>11,00-24,00</td>
+<td>Ocaña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-301</td>
-<td class="cuerpo_tabla_coma">210</td>
-<td class="cuerpo_tabla_izq">La Roda.</td>
-<td class="cuerpo_tabla_coma">61</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">11,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
+<td>N-301</td>
+<td>210</td>
+<td>La Roda.</td>
+<td>61</td>
+<td>Ocaña.</td>
+<td>11,00-24,00</td>
+<td>Ocaña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">11,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>11,00-24,00</td>
+<td>Salida Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">323</td>
-<td class="cuerpo_tabla_izq">Andújar.</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Madrid.</td>
+<td>A-4</td>
+<td>323</td>
+<td>Andújar.</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>09,00-22,00</td>
+<td>Sentido Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Sevilla.</td>
+<td>A-4</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>300</td>
+<td>Bailén.</td>
+<td>09,00-22,00</td>
+<td>Sentido Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-44</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Bailén.</td>
+<td>A-44</td>
+<td>36</td>
+<td>Jaén.</td>
+<td>0</td>
+<td>Bailén.</td>
+<td>09,00-22,00</td>
+<td>Sentido Bailén.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Bollullos Par del Condado.</td>
-<td class="cuerpo_tabla_centro">12,00-21,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>50</td>
+<td>Bollullos Par del Condado.</td>
+<td>12,00-21,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">76,9</td>
-<td class="cuerpo_tabla_izq">San Juan del Puerto.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_centro">12,00-21,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>A-49</td>
+<td>76,9</td>
+<td>San Juan del Puerto.</td>
+<td>0</td>
+<td>Camas.</td>
+<td>12,00-21,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">10,00-13,00</p>
-<p class="cuerpo_tabla_centro">16,00-20,00</p>
+<td>AP-4</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>
+<p>10,00-13,00</p>
+<p>16,00-20,00</p>
 </td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">10,00-13,00</p>
-<p class="cuerpo_tabla_centro">16,00-20,00</p>
+<td>N-4</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>
+<p>10,00-13,00</p>
+<p>16,00-20,00</p>
 </td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>Sevilla.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Lunes 6 de abril (Semana Santa)</p>
+<p>Lunes 6 de abril (Semana Santa)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma">77,2</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">10,00-22,00</td>
-<td class="cuerpo_tabla_izq">Irún.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos.</td>
+<td>77,2</td>
+<td>Miranda de Ebro.</td>
+<td>10,00-22,00</td>
+<td>Irún.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1/N-1</td>
-<td class="cuerpo_tabla_coma">157,5</td>
-<td class="cuerpo_tabla_izq">Aranda de Duero.</td>
-<td class="cuerpo_tabla_coma">321,45</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">10,00-22,00</td>
-<td class="cuerpo_tabla_izq">Irún.</td>
+<td>A-1/N-1</td>
+<td>157,5</td>
+<td>Aranda de Duero.</td>
+<td>321,45</td>
+<td>Miranda de Ebro.</td>
+<td>10,00-22,00</td>
+<td>Irún.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1/N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Treviño- Límite con Álava.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño, Límite con Álava.</td>
-<td class="cuerpo_tabla_centro">10,00-22,00</td>
-<td class="cuerpo_tabla_izq">Irún.</td>
+<td>A-1/N-1</td>
+<td>329,4</td>
+<td>Treviño- Límite con Álava.</td>
+<td>336,2</td>
+<td>Treviño, Límite con Álava.</td>
+<td>10,00-22,00</td>
+<td>Irún.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_coma">7,6</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">10,00-24,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>155</td>
+<td>Tordesillas.</td>
+<td>7,6</td>
+<td>Burgos.</td>
+<td>10,00-24,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">BU-30</td>
-<td class="cuerpo_tabla_coma">12</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">10,00-22,00</td>
-<td class="cuerpo_tabla_izq">Irún.</td>
+<td>BU-30</td>
+<td>12</td>
+<td>Burgos.</td>
+<td>0</td>
+<td>Burgos.</td>
+<td>10,00-22,00</td>
+<td>Irún.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-231</td>
-<td class="cuerpo_tabla_coma">107,3</td>
-<td class="cuerpo_tabla_izq">Osorno (enlace A-67/ N-120).</td>
-<td class="cuerpo_tabla_coma">157,1</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">10,00-22,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-231</td>
+<td>107,3</td>
+<td>Osorno (enlace A-67/ N-120).</td>
+<td>157,1</td>
+<td>Burgos.</td>
+<td>10,00-22,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-120</td>
-<td class="cuerpo_tabla_coma">174,6</td>
-<td class="cuerpo_tabla_izq">Osorno (enlace A-67/ A-231).</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
-<td class="cuerpo_tabla_centro">10,00-22,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>N-120</td>
+<td>174,6</td>
+<td>Osorno (enlace A-67/ A-231).</td>
+<td>120</td>
+<td>Burgos.</td>
+<td>10,00-22,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>13,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_centro">11,00-15,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>15</td>
+<td>Madrid (enlace M-50).</td>
+<td>11,00-15,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_centro">11,00-15,00</td>
-<td class="cuerpo_tabla_izq">Atalaya Cañavate.</td>
+<td>A-31</td>
+<td>80</td>
+<td>Albacete.</td>
+<td>0</td>
+<td>Atalaya del Cañavate.</td>
+<td>11,00-15,00</td>
+<td>Atalaya Cañavate.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-7</td>
-<td class="cuerpo_tabla_coma">582</td>
-<td class="cuerpo_tabla_izq">Alcantarilla.</td>
-<td class="cuerpo_tabla_coma">566</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_centro">08,00-21,00</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
+<td>A-7</td>
+<td>582</td>
+<td>Alcantarilla.</td>
+<td>566</td>
+<td>Murcia.</td>
+<td>08,00-21,00</td>
+<td>Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-30</td>
-<td class="cuerpo_tabla_coma">158,5</td>
-<td class="cuerpo_tabla_izq">Murcia/RM-19.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Pto. Cadena-Murcia.</td>
-<td class="cuerpo_tabla_centro">08,00-21,00</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
+<td>A-30</td>
+<td>158,5</td>
+<td>Murcia/RM-19.</td>
+<td>151</td>
+<td>Pto. Cadena-Murcia.</td>
+<td>08,00-21,00</td>
+<td>Albacete.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MU-33</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Murcia.</td>
-<td class="cuerpo_tabla_centro">08,00-21,00</td>
-<td class="cuerpo_tabla_izq">Alicante.</td>
+<td>MU-33</td>
+<td>13</td>
+<td>Murcia.</td>
+<td>0</td>
+<td>Murcia.</td>
+<td>08,00-21,00</td>
+<td>Alicante.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">75</td>
-<td class="cuerpo_tabla_izq">Maqueda.</td>
-<td class="cuerpo_tabla_coma">16,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_centro">11,00-15,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>75</td>
+<td>Maqueda.</td>
+<td>16,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>11,00-15,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_centro">11,00-17,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>11,00-17,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">323</td>
-<td class="cuerpo_tabla_izq">Andújar.</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_centro">09,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sentido Madrid.</td>
+<td>A-4</td>
+<td>323</td>
+<td>Andújar.</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>09,00-20,00</td>
+<td>Sentido Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sentido Sevilla.</td>
+<td>A-4</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>300</td>
+<td>Bailén.</td>
+<td>09,00-20,00</td>
+<td>Sentido Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-44</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sentido Bailén.</td>
+<td>A-44</td>
+<td>36</td>
+<td>Jaén.</td>
+<td>0</td>
+<td>Bailén.</td>
+<td>09,00-20,00</td>
+<td>Sentido Bailén.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Z-40</td>
-<td class="cuerpo_tabla_coma">28</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_coma">32</td>
-<td class="cuerpo_tabla_izq">Zaragoza.</td>
-<td class="cuerpo_tabla_centro">14,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sentido creciente (A-2).</td>
+<td>Z-40</td>
+<td>28</td>
+<td>Zaragoza.</td>
+<td>32</td>
+<td>Zaragoza.</td>
+<td>14,00-20,00</td>
+<td>Sentido creciente (A-2).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">13,00-20,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Benabarre.</td>
+<td rowspan="3">N-230</td>
+<td>149,2</td>
+<td>Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td rowspan="3">13,00-20,00</td>
+<td rowspan="3">Benabarre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td>64,1</td>
+<td>Benabarre.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 24 de abril (Romería Virgen de la Cabeza)</p>
+<p>Viernes 24 de abril (Romería Virgen de la Cabeza)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6178/CR-500</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Sant. Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_coma">34,306</td>
-<td class="cuerpo_tabla_izq">Minas Diógenes (Ciudad Real).</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-6178/CR-500</td>
+<td>0</td>
+<td>Sant. Ntra. Sra. Cabeza.</td>
+<td>34,306</td>
+<td>Minas Diógenes (Ciudad Real).</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6177</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Andújar (Jaén).</td>
-<td class="cuerpo_tabla_coma">32,370</td>
-<td class="cuerpo_tabla_izq">Santuario de Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-6177</td>
+<td>0</td>
+<td>Andújar (Jaén).</td>
+<td>32,370</td>
+<td>Santuario de Ntra. Sra. Cabeza.</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 25, domingo 26 de abril (Romería Virgen de la Cabeza/Campeonato motociclismo Jerez)</p>
+<p>Sábado 25, domingo 26 de abril (Romería Virgen de la Cabeza/Campeonato motociclismo Jerez)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6178/CR-500</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santuario Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_coma">34,306</td>
-<td class="cuerpo_tabla_izq">Minas Diógenes (Ciudad Real).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-6178/CR-500</td>
+<td>0</td>
+<td>Santuario Ntra. Sra. Cabeza.</td>
+<td>34,306</td>
+<td>Minas Diógenes (Ciudad Real).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6177</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Andújar (Jaén).</td>
-<td class="cuerpo_tabla_coma">32,370</td>
-<td class="cuerpo_tabla_izq">Santuario de Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-6177</td>
+<td>0</td>
+<td>Andújar (Jaén).</td>
+<td>32,370</td>
+<td>Santuario de Ntra. Sra. Cabeza.</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-382</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Enlace con AP-4.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Jédula.</td>
-<td class="cuerpo_tabla_centro">08,00-18,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-382</td>
+<td>0</td>
+<td>Enlace con AP-4.</td>
+<td>15</td>
+<td>Jédula.</td>
+<td>08,00-18,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Lunes 27 de abril (Romería Virgen de la Cabeza)</p>
+<p>Lunes 27 de abril (Romería Virgen de la Cabeza)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6178/CR-500</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santuario Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_coma">34,306</td>
-<td class="cuerpo_tabla_izq">Minas Diógenes (Ciudad Real).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-6178/CR-500</td>
+<td>0</td>
+<td>Santuario Ntra. Sra. Cabeza.</td>
+<td>34,306</td>
+<td>Minas Diógenes (Ciudad Real).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6177</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Andújar (Jaén).</td>
-<td class="cuerpo_tabla_coma">32,370</td>
-<td class="cuerpo_tabla_izq">Santuario de Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-6177</td>
+<td>0</td>
+<td>Andújar (Jaén).</td>
+<td>32,370</td>
+<td>Santuario de Ntra. Sra. Cabeza.</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Jueves 30 de abril (festividad 1.º de Mayo)</p>
+<p>Jueves 30 de abril (festividad 1.º de Mayo)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>16,00-22,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>13,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>13,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>13,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">Frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>Frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">17,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>17,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 1 de mayo (festividad 1.º de Mayo)</p>
+<p>Viernes 1 de mayo (festividad 1.º de Mayo)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>08,00-15,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>08,00-15,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>07,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>07,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">07,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>07,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>10,00-15,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 3 de mayo (festividad 1.º de Mayo)</p>
+<p>Domingo 3 de mayo (festividad 1.º de Mayo)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_izq">Mirabueno.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>107</td>
+<td>Mirabueno.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">184</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo (Ávila).</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
+<td>A-6</td>
+<td>184</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>123</td>
+<td>Arévalo (Ávila).</td>
+<td>16,00-23,00</td>
+<td>Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-6).</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>155</td>
+<td>Tordesillas (enlace A-6).</td>
+<td>125</td>
+<td>Valladolid.</td>
+<td>16,00-23,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas (enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>13,00-22,00</td>
+<td>Salida Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">323</td>
-<td class="cuerpo_tabla_izq">Andújar.</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Madrid.</td>
+<td>A-4</td>
+<td>323</td>
+<td>Andújar.</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>09,00-22,00</td>
+<td>Sentido Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Sevilla.</td>
+<td>A-4</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>300</td>
+<td>Bailén.</td>
+<td>09,00-22,00</td>
+<td>Sentido Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-44</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Bailén.</td>
+<td>A-44</td>
+<td>36</td>
+<td>Jaén.</td>
+<td>0</td>
+<td>Bailén.</td>
+<td>09,00-22,00</td>
+<td>Sentido Bailén.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">76,9</td>
-<td class="cuerpo_tabla_izq">San Juan del Puerto.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>A-49</td>
+<td>76,9</td>
+<td>San Juan del Puerto.</td>
+<td>0</td>
+<td>Camas.</td>
+<td>15,00-24,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>AP-4</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>16,00-20,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>N-4</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>16,00-20,00</td>
+<td>Sevilla.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 17 de mayo (festividad zona Centro)</p>
+<p>Domingo 17 de mayo (festividad zona Centro)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Del miércoles 20 al martes 26 de mayo (Romería El Rocío –zona Andalucía Suroeste–)</p>
+<p>Del miércoles 20 al martes 26 de mayo (Romería El Rocío –zona Andalucía Suroeste–)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-483</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_izq">Almonte Sur (A-474).</td>
-<td class="cuerpo_tabla_coma">27</td>
-<td class="cuerpo_tabla_izq">Almonte (El Rocío).</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-483</td>
+<td>14</td>
+<td>Almonte Sur (A-474).</td>
+<td>27</td>
+<td>Almonte (El Rocío).</td>
+<td>09,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Jueves 4 de junio (festividad Corpus-zona Andalucía)</p>
+<p>Jueves 4 de junio (festividad Corpus-zona Andalucía)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_centro">10,00-14,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>10,00-14,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">10,00-13,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>AP-4</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>10,00-13,00</td>
+<td>Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">10,00-13,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>N-4</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>10,00-13,00</td>
+<td>Cádiz.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 20 de junio (Pruebas Ciclodeportivas Quebrantahuesos-Treparriscos)</p>
+<p>Sábado 20 de junio (Pruebas Ciclodeportivas Quebrantahuesos-Treparriscos)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">N-330</td>
-<td class="cuerpo_tabla_coma">622,3</td>
-<td class="cuerpo_tabla_izq">Sabiñánigo.</td>
-<td class="cuerpo_tabla_coma">675,2</td>
-<td class="cuerpo_tabla_izq">Frontera Francia.</td>
-<td class="cuerpo_tabla_centro">06,00-21,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-330</td>
+<td>622,3</td>
+<td>Sabiñánigo.</td>
+<td>675,2</td>
+<td>Frontera Francia.</td>
+<td>06,00-21,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-23</td>
-<td class="cuerpo_tabla_coma">403,3</td>
-<td class="cuerpo_tabla_izq">Sabiñánigo.</td>
-<td class="cuerpo_tabla_coma">424</td>
-<td class="cuerpo_tabla_izq">Jaca.</td>
-<td class="cuerpo_tabla_centro">06,00-21,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-23</td>
+<td>403,3</td>
+<td>Sabiñánigo.</td>
+<td>424</td>
+<td>Jaca.</td>
+<td>06,00-21,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-260</td>
-<td class="cuerpo_tabla_coma">464</td>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">487,1</td>
-<td class="cuerpo_tabla_izq">Sabiñánigo.</td>
-<td class="cuerpo_tabla_centro">06,00-21,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-260</td>
+<td>464</td>
+<td>Fiscal.</td>
+<td>487,1</td>
+<td>Sabiñánigo.</td>
+<td>06,00-21,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-260A</td>
-<td class="cuerpo_tabla_coma">464</td>
-<td class="cuerpo_tabla_izq">Fiscal.</td>
-<td class="cuerpo_tabla_coma">517,8</td>
-<td class="cuerpo_tabla_izq">Sabiñánigo.</td>
-<td class="cuerpo_tabla_centro">06,00-21,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-260A</td>
+<td>464</td>
+<td>Fiscal.</td>
+<td>517,8</td>
+<td>Sabiñánigo.</td>
+<td>06,00-21,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-136</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Biescas.</td>
-<td class="cuerpo_tabla_coma">27,1</td>
-<td class="cuerpo_tabla_izq">frontera Francia.</td>
-<td class="cuerpo_tabla_centro">06,00-21,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-136</td>
+<td>0</td>
+<td>Biescas.</td>
+<td>27,1</td>
+<td>frontera Francia.</td>
+<td>06,00-21,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 26 de junio (festividad País Vasco)</p>
+<p>Viernes 26 de junio (festividad País Vasco)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 27 de junio (festividad País Vasco)</p>
+<p>Sábado 27 de junio (festividad País Vasco)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">11,00 -14,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>11,00 -14,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 24 de julio (festividad de Santiago)</p>
+<p>Viernes 24 de julio (festividad de Santiago)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th> </th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">Duración</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>Duración</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-54</td>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_izq">Arzúa.</td>
-<td class="cuerpo_tabla_coma">93</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-54</td>
+<td>67</td>
+<td>Arzúa.</td>
+<td>93</td>
+<td>Santiago.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SC-11</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santiago (acceso AP-9).</td>
-<td class="cuerpo_tabla_coma">2,1</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>SC-11</td>
+<td>0</td>
+<td>Santiago (acceso AP-9).</td>
+<td>2,1</td>
+<td>Santiago.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-547</td>
-<td class="cuerpo_tabla_coma">48</td>
-<td class="cuerpo_tabla_izq">Melide.</td>
-<td class="cuerpo_tabla_coma">68</td>
-<td class="cuerpo_tabla_izq">Arzúa.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-547</td>
+<td>48</td>
+<td>Melide.</td>
+<td>68</td>
+<td>Arzúa.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SC-20</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Circunvalación Santiago.</td>
-<td class="cuerpo_tabla_coma">10,5</td>
-<td class="cuerpo_tabla_izq">Milladoiro.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>SC-20</td>
+<td>0</td>
+<td>Circunvalación Santiago.</td>
+<td>10,5</td>
+<td>Milladoiro.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-841</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Pontevea.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>AC-841</td>
+<td>0</td>
+<td>Santiago.</td>
+<td>15</td>
+<td>Pontevea.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-543</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_izq">Brión.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>AC-543</td>
+<td>0</td>
+<td>Santiago.</td>
+<td>14</td>
+<td>Brión.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 25 de julio (festividad de Santiago/Festival Monegros Desert)</p>
+<p>Sábado 25 de julio (festividad de Santiago/Festival Monegros Desert)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-54</td>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_izq">Arzúa.</td>
-<td class="cuerpo_tabla_coma">93</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-54</td>
+<td>67</td>
+<td>Arzúa.</td>
+<td>93</td>
+<td>Santiago.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SC-11</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santiago (acceso AP-9).</td>
-<td class="cuerpo_tabla_coma">2,1</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>SC-11</td>
+<td>0</td>
+<td>Santiago (acceso AP-9).</td>
+<td>2,1</td>
+<td>Santiago.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-547</td>
-<td class="cuerpo_tabla_coma">48</td>
-<td class="cuerpo_tabla_izq">Melide.</td>
-<td class="cuerpo_tabla_coma">68</td>
-<td class="cuerpo_tabla_izq">Arzúa.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-547</td>
+<td>48</td>
+<td>Melide.</td>
+<td>68</td>
+<td>Arzúa.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SC-20</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Circunvalación Santiago.</td>
-<td class="cuerpo_tabla_coma">10,5</td>
-<td class="cuerpo_tabla_izq">Milladoiro.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>SC-20</td>
+<td>0</td>
+<td>Circunvalación Santiago.</td>
+<td>10,5</td>
+<td>Milladoiro.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-841</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Pontevea.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>AC-841</td>
+<td>0</td>
+<td>Santiago.</td>
+<td>15</td>
+<td>Pontevea.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-543</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Santiago.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_izq">Brión.</td>
-<td class="cuerpo_tabla_centro">14,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>AC-543</td>
+<td>0</td>
+<td>Santiago.</td>
+<td>14</td>
+<td>Brión.</td>
+<td>14,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-2</td>
-<td class="cuerpo_tabla_coma">394,5</td>
-<td class="cuerpo_tabla_izq">Peñalba.</td>
-<td class="cuerpo_tabla_coma">431</td>
-<td class="cuerpo_tabla_izq">Fraga.</td>
-<td class="cuerpo_tabla_centro">08,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-2</td>
+<td>394,5</td>
+<td>Peñalba.</td>
+<td>431</td>
+<td>Fraga.</td>
+<td>08,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 26 de julio (Festival Monegros Desert)</p>
+<p>Domingo 26 de julio (Festival Monegros Desert)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">N-2</td>
-<td class="cuerpo_tabla_coma">394,5</td>
-<td class="cuerpo_tabla_izq">Peñalba.</td>
-<td class="cuerpo_tabla_coma">431</td>
-<td class="cuerpo_tabla_izq">Fraga.</td>
-<td class="cuerpo_tabla_centro">00,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-2</td>
+<td>394,5</td>
+<td>Peñalba.</td>
+<td>431</td>
+<td>Fraga.</td>
+<td>00,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Jueves 30 de julio (1.º de agosto)</p>
+<p>Jueves 30 de julio (1.º de agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 31 de julio (1.º de agosto)</p>
+<p>Viernes 31 de julio (1.º de agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dos Barrios.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dos Barrios.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos(enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos(enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-22,00</td>
-<td class="cuerpo_tabla_izq">Frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-22,00</td>
+<td>Frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>16,00-20,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>AP-4</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>16,00-20,00</td>
+<td>Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>N-4</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>16,00-20,00</td>
+<td>Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">15,00-21,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>15,00-21,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 1 de agosto (1.º de agosto)</p>
+<p>Sábado 1 de agosto (1.º de agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>09,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>09,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>09,00-15,00</td>
+<td>Frontera Portugal.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 2 de agosto (1.º de agosto)</p>
+<p>Domingo 2 de agosto (1.º de agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava- Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava- Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 8 de agosto (descenso del Sella-zona Asturias)</p>
+<p>Sábado 8 de agosto (descenso del Sella-zona Asturias)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">N-634</td>
-<td class="cuerpo_tabla_coma">327</td>
-<td class="cuerpo_tabla_izq">Llovio (Ribadesella).</td>
-<td class="cuerpo_tabla_coma">382</td>
-<td class="cuerpo_tabla_izq">Lieres (Pola de Siero).</td>
-<td class="cuerpo_tabla_centro">07,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-634</td>
+<td>327</td>
+<td>Llovio (Ribadesella).</td>
+<td>382</td>
+<td>Lieres (Pola de Siero).</td>
+<td>07,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-625</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Cangas de Onís.</td>
-<td class="cuerpo_tabla_coma">162</td>
-<td class="cuerpo_tabla_izq">Arriondas.</td>
-<td class="cuerpo_tabla_centro">07,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-625</td>
+<td>155</td>
+<td>Cangas de Onís.</td>
+<td>162</td>
+<td>Arriondas.</td>
+<td>07,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 14 de agosto (festividad 15 de Agosto)</p>
+<p>Viernes 14 de agosto (festividad 15 de Agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6 /AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6 /AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>13,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>13,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>13,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">13,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>13,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-22,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-22,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>16,00-20,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>AP-4</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>16,00-20,00</td>
+<td>Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>N-4</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>16,00-20,00</td>
+<td>Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">17,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>17,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 15 de agosto (festividad 15 de Agosto)</p>
+<p>Sábado 15 de agosto (festividad 15 de Agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>09,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>09,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>09,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">09,00-15,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>09,00-15,00</td>
+<td>frontera Portugal.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 16 de agosto (festividad 15 de Agosto)</p>
+<p>Domingo 16 de agosto (festividad 15 de Agosto)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_izq">Mirabueno.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>107</td>
+<td>Mirabueno.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>18,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>18,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-6).</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>155</td>
+<td>Tordesillas (enlace A-6).</td>
+<td>125</td>
+<td>Valladolid.</td>
+<td>16,00-23,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">184</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>184</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>16,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas(enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas(enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">18,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>18,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>13,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida de Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>13,00-22,00</td>
+<td>Salida de Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_centro">10,00-17,00</td>
-<td class="cuerpo_tabla_izq">Atalaya Cañavate.</td>
+<td>A-31</td>
+<td>80</td>
+<td>Albacete.</td>
+<td>0</td>
+<td>Atalaya del Cañavate.</td>
+<td>10,00-17,00</td>
+<td>Atalaya Cañavate.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_centro">10,00-17,00</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
+<td>A-31</td>
+<td>0</td>
+<td>Atalaya del Cañavate.</td>
+<td>80</td>
+<td>Albacete.</td>
+<td>10,00-17,00</td>
+<td>Albacete.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-36</td>
-<td class="cuerpo_tabla_coma">147</td>
-<td class="cuerpo_tabla_izq">La Roda.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">10,00-17,00</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
+<td>AP-36</td>
+<td>147</td>
+<td>La Roda.</td>
+<td>0</td>
+<td>Ocaña.</td>
+<td>10,00-17,00</td>
+<td>Ocaña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava- Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava- Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 23 de agosto (Retorno del verano)</p>
+<p>Domingo 23 de agosto (Retorno del verano)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava- Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava- Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 28 de agosto (Retorno del verano)</p>
+<p>Viernes 28 de agosto (Retorno del verano)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>16,00-20,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>AP-4</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>16,00-20,00</td>
+<td>Cádiz.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-4</td>
-<td class="cuerpo_tabla_coma">573</td>
-<td class="cuerpo_tabla_izq">Los Palacios y Villafranca.</td>
-<td class="cuerpo_tabla_coma">627</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">16,00-20,00</td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>N-4</td>
+<td>573</td>
+<td>Los Palacios y Villafranca.</td>
+<td>627</td>
+<td>Jerez de la Frontera.</td>
+<td>16,00-20,00</td>
+<td>Cádiz.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 29 de agosto (Gran Premio Aragón MotoGP)</p>
+<p>Sábado 29 de agosto (Gran Premio Aragón MotoGP)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">N-211</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Calanda.</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_izq">Caspe.</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-211</td>
+<td>228</td>
+<td>Calanda.</td>
+<td>270</td>
+<td>Caspe.</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-232</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_izq">Valdealgorfa.</td>
-<td class="cuerpo_tabla_coma">166</td>
-<td class="cuerpo_tabla_izq">Híjar.</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-232</td>
+<td>120</td>
+<td>Valdealgorfa.</td>
+<td>166</td>
+<td>Híjar.</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2404</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección TE-V-7033).</td>
-<td class="cuerpo_tabla_coma">2,9</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Int. N-232).</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-2404</td>
+<td>0</td>
+<td>Alcañiz (Intersección TE-V-7033).</td>
+<td>2,9</td>
+<td>Alcañiz (Int. N-232).</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-35</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección N-232).</td>
-<td class="cuerpo_tabla_coma">8,6</td>
-<td class="cuerpo_tabla_izq">Valmuel (Intersección TE-V-7032).</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-35</td>
+<td>0</td>
+<td>Alcañiz (Intersección N-232).</td>
+<td>8,6</td>
+<td>Valmuel (Intersección TE-V-7032).</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-36</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección TE-V-7032).</td>
-<td class="cuerpo_tabla_coma">3,3</td>
-<td class="cuerpo_tabla_izq">Valmuel (Int. TE-35).</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-36</td>
+<td>0</td>
+<td>Alcañiz (Intersección TE-V-7032).</td>
+<td>3,3</td>
+<td>Valmuel (Int. TE-35).</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-V-1336</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Híjar.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-V-1336</td>
+<td>0</td>
+<td>Híjar.</td>
+<td>14</td>
+<td>Alcañiz.</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-V-7032</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Int. TE-35).</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-V-7032</td>
+<td>0</td>
+<td>Alcañiz.</td>
+<td>10</td>
+<td>Alcañiz (Int. TE-35).</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-V-7033</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_coma">6,3</td>
-<td class="cuerpo_tabla_izq">Puigmoreno (Intersección TE-35).</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-V-7033</td>
+<td>2</td>
+<td>Alcañiz.</td>
+<td>6,3</td>
+<td>Puigmoreno (Intersección TE-35).</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CHE-0904</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección N-232).</td>
-<td class="cuerpo_tabla_coma">5,6</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Int. N-232).</td>
-<td class="cuerpo_tabla_centro">10,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CHE-0904</td>
+<td>0</td>
+<td>Alcañiz (Intersección N-232).</td>
+<td>5,6</td>
+<td>Alcañiz (Int. N-232).</td>
+<td>10,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 30 de agosto (Retorno del verano/Gran Premio Aragón MotoGP)</p>
+<p>Domingo 30 de agosto (Retorno del verano/Gran Premio Aragón MotoGP)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava- Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava- Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">80</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_centro">10,00-14,00</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
+<td>A-31</td>
+<td>80</td>
+<td>Albacete.</td>
+<td>0</td>
+<td>Atalaya del Cañavate.</td>
+<td>10,00-14,00</td>
+<td>Atalaya del Cañavate.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-211</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Calanda.</td>
-<td class="cuerpo_tabla_coma">270</td>
-<td class="cuerpo_tabla_izq">Caspe.</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-211</td>
+<td>228</td>
+<td>Calanda.</td>
+<td>270</td>
+<td>Caspe.</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-232</td>
-<td class="cuerpo_tabla_coma">120</td>
-<td class="cuerpo_tabla_izq">Valdealgorfa.</td>
-<td class="cuerpo_tabla_coma">166</td>
-<td class="cuerpo_tabla_izq">Híjar.</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-232</td>
+<td>120</td>
+<td>Valdealgorfa.</td>
+<td>166</td>
+<td>Híjar.</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2404</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección TE-V-7033).</td>
-<td class="cuerpo_tabla_coma">2,9</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Int. N-232).</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-2404</td>
+<td>0</td>
+<td>Alcañiz (Intersección TE-V-7033).</td>
+<td>2,9</td>
+<td>Alcañiz (Int. N-232).</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-35</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección N-232).</td>
-<td class="cuerpo_tabla_coma">8,6</td>
-<td class="cuerpo_tabla_izq">Valmuel (Intersección TE-V-7032).</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-35</td>
+<td>0</td>
+<td>Alcañiz (Intersección N-232).</td>
+<td>8,6</td>
+<td>Valmuel (Intersección TE-V-7032).</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-36</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección TE-V-7032).</td>
-<td class="cuerpo_tabla_coma">3,3</td>
-<td class="cuerpo_tabla_izq">Valmuel (Int. TE-35).</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-36</td>
+<td>0</td>
+<td>Alcañiz (Intersección TE-V-7032).</td>
+<td>3,3</td>
+<td>Valmuel (Int. TE-35).</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-V-1336</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Híjar.</td>
-<td class="cuerpo_tabla_coma">14</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-V-1336</td>
+<td>0</td>
+<td>Híjar.</td>
+<td>14</td>
+<td>Alcañiz.</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-V-7032</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_coma">10</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Int. TE-35).</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-V-7032</td>
+<td>0</td>
+<td>Alcañiz.</td>
+<td>10</td>
+<td>Alcañiz (Int. TE-35).</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TE-V-7033</td>
-<td class="cuerpo_tabla_coma">2</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_coma">6,3</td>
-<td class="cuerpo_tabla_izq">Puigmoreno (Intersección TE-35).</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>TE-V-7033</td>
+<td>2</td>
+<td>Alcañiz.</td>
+<td>6,3</td>
+<td>Puigmoreno (Intersección TE-35).</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CHE-0904</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Intersección N-232).</td>
-<td class="cuerpo_tabla_coma">5,6</td>
-<td class="cuerpo_tabla_izq">Alcañiz (Int. N-232).</td>
-<td class="cuerpo_tabla_centro">08,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CHE-0904</td>
+<td>0</td>
+<td>Alcañiz (Intersección N-232).</td>
+<td>5,6</td>
+<td>Alcañiz (Int. N-232).</td>
+<td>08,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Lunes 31 de agosto (Retorno del verano)</p>
+<p>Lunes 31 de agosto (Retorno del verano)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Jueves 8 de octubre (festividad de El Pilar)</p>
+<p>Jueves 8 de octubre (festividad de El Pilar)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">15,00-21,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>15,00-21,00</td>
+<td>Salida Valencia.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 9 de octubre (festividad de El Pilar)</p>
+<p>Viernes 9 de octubre (festividad de El Pilar)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>16,00-22,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">13,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>13,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">17,00-24,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Frontera Francia.</td>
+<td rowspan="3">N-230</td>
+<td>64,1</td>
+<td>Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td rowspan="3">17,00-24,00</td>
+<td rowspan="3">Frontera Francia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td>149,2</td>
+<td>Aneto.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 10 de octubre (festividad de El Pilar)</p>
+<p>Sábado 10 de octubre (festividad de El Pilar)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>08,00-15,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>08,00-13,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>08,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>08,00-15,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>10,00-15,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Lunes 12 de octubre (festividad de El Pilar)</p>
+<p>Lunes 12 de octubre (festividad de El Pilar)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">102</td>
-<td class="cuerpo_tabla_izq">Almadrones.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>102</td>
+<td>Almadrones.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">184</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo (Ávila).</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Sentido Madrid.</td>
+<td>A-6</td>
+<td>184</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>123</td>
+<td>Arévalo (Ávila).</td>
+<td>16,00-23,00</td>
+<td>Sentido Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas (enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_centro">15:00-23:00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>125</td>
+<td>Valladolid.</td>
+<td>15:00-23:00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava-Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava-Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">09,00-21,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>09,00-21,00</td>
+<td>Salida Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">13,00-21,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>13,00-21,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">13,00-20,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Benabarre.</td>
+<td rowspan="3">N-230</td>
+<td>149,2</td>
+<td>Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td rowspan="3">13,00-20,00</td>
+<td rowspan="3">Benabarre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td>64,1</td>
+<td>Benabarre.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 30 de octubre (festividad 1.º noviembre)</p>
+<p>Viernes 30 de octubre (festividad 1.º noviembre)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>16,00-22,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">15,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>15,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 31 de octubre (festividad 1.º noviembre)</p>
+<p>Sábado 31 de octubre (festividad 1.º noviembre)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>08,00-15,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>08,00-13,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>08,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>08,00-15,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">11,00-14,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>11,00-14,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 1 de noviembre (festividad 1.º noviembre)</p>
+<p>Domingo 1 de noviembre (festividad 1.º noviembre)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Lunes 2 de noviembre (festividad 1.º noviembre)</p>
+<p>Lunes 2 de noviembre (festividad 1.º noviembre)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_izq">Mirabueno.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>107</td>
+<td>Mirabueno.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">184</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo (Ávila).</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>184</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>123</td>
+<td>Arévalo (Ávila).</td>
+<td>16,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas (enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-6).</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>155</td>
+<td>Tordesillas (enlace A-6).</td>
+<td>125</td>
+<td>Valladolid.</td>
+<td>16,00-23,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava-Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava-Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">15,00-21,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>15,00-21,00</td>
+<td>Salida Valencia.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 27 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)</p>
+<p>Viernes 27 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">CV-50</td>
-<td class="cuerpo_tabla_coma">72,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">17,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-50</td>
+<td>72,5</td>
+<td>Cheste.</td>
+<td>76</td>
+<td>Cheste.</td>
+<td>17,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-378</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">4,9</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">17,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-378</td>
+<td>0,5</td>
+<td>Cheste.</td>
+<td>4,9</td>
+<td>Cheste.</td>
+<td>17,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-383</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">11,6</td>
-<td class="cuerpo_tabla_izq">Loriguilla.</td>
-<td class="cuerpo_tabla_centro">07,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-383</td>
+<td>0,0</td>
+<td>Cheste.</td>
+<td>11,6</td>
+<td>Loriguilla.</td>
+<td>07,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-386</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Chiva.</td>
-<td class="cuerpo_tabla_coma">0,930</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">06:00-20:00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-386</td>
+<td>0,0</td>
+<td>Chiva.</td>
+<td>0,930</td>
+<td>Cheste.</td>
+<td>06:00-20:00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-3845</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">3,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">07,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-3845</td>
+<td>0,0</td>
+<td>Cheste.</td>
+<td>3,5</td>
+<td>Cheste.</td>
+<td>07,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 28 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)</p>
+<p>Sábado 28 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">319</td>
-<td class="cuerpo_tabla_izq">Buñol.</td>
-<td class="cuerpo_tabla_centro">07,00-14,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>319</td>
+<td>Buñol.</td>
+<td>07,00-14,00</td>
+<td>Salida Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">14,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>14,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-50</td>
-<td class="cuerpo_tabla_coma">72,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">00,00-06,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-50</td>
+<td>72,5</td>
+<td>Cheste.</td>
+<td>76</td>
+<td>Cheste.</td>
+<td>00,00-06,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-50</td>
-<td class="cuerpo_tabla_coma">72,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">17,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-50</td>
+<td>72,5</td>
+<td>Cheste.</td>
+<td>76</td>
+<td>Cheste.</td>
+<td>17,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-378</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">4,9</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">06,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-378</td>
+<td>0,5</td>
+<td>Cheste.</td>
+<td>4,9</td>
+<td>Cheste.</td>
+<td>06,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-383</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">11,6</td>
-<td class="cuerpo_tabla_izq">Loriguilla.</td>
-<td class="cuerpo_tabla_centro">00,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-383</td>
+<td>0,0</td>
+<td>Cheste.</td>
+<td>11,6</td>
+<td>Loriguilla.</td>
+<td>00,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-386</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Chiva.</td>
-<td class="cuerpo_tabla_coma">0,930</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">06:00-20:00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-386</td>
+<td>0,0</td>
+<td>Chiva.</td>
+<td>0,930</td>
+<td>Cheste.</td>
+<td>06:00-20:00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-3845</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">3,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">07,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-3845</td>
+<td>0,0</td>
+<td>Cheste.</td>
+<td>3,5</td>
+<td>Cheste.</td>
+<td>07,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 29 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)</p>
+<p>Domingo 29 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">319</td>
-<td class="cuerpo_tabla_izq">Buñol.</td>
-<td class="cuerpo_tabla_centro">07,00-18,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>319</td>
+<td>Buñol.</td>
+<td>07,00-18,00</td>
+<td>Salida Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">14,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>14,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-50</td>
-<td class="cuerpo_tabla_coma">72,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">76</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">00,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-50</td>
+<td>72,5</td>
+<td>Cheste.</td>
+<td>76</td>
+<td>Cheste.</td>
+<td>00,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-378</td>
-<td class="cuerpo_tabla_coma">0,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">4,9</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">06,00-18,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-378</td>
+<td>0,5</td>
+<td>Cheste.</td>
+<td>4,9</td>
+<td>Cheste.</td>
+<td>06,00-18,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-383</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">11,6</td>
-<td class="cuerpo_tabla_izq">Loriguilla.</td>
-<td class="cuerpo_tabla_centro">00,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-383</td>
+<td>0,0</td>
+<td>Cheste.</td>
+<td>11,6</td>
+<td>Loriguilla.</td>
+<td>00,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-386</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Chiva.</td>
-<td class="cuerpo_tabla_coma">0,930</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">06:00-20:00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-386</td>
+<td>0,0</td>
+<td>Chiva.</td>
+<td>0,930</td>
+<td>Cheste.</td>
+<td>06:00-20:00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-3845</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">3,5</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">07,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>CV-3845</td>
+<td>0,0</td>
+<td>Cheste.</td>
+<td>3,5</td>
+<td>Cheste.</td>
+<td>07,00-20,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 4 de diciembre (festividad Constitución e Inmaculada)</p>
+<p>Viernes 4 de diciembre (festividad Constitución e Inmaculada)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>16,00-22,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-22,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>16,00-22,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">15,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>15,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">15,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>15,00-22,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>17,00-21,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 5 de diciembre (festividad Constitución e Inmaculada)</p>
+<p>Sábado 5 de diciembre (festividad Constitución e Inmaculada)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_coma">11,65</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-6/AP-6</td>
+<td>11,65</td>
+<td>Madrid (enlace M-40).</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6/A-6</td>
-<td class="cuerpo_tabla_coma">61,3</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_coma">182</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">A Coruña.</td>
+<td>AP-6/A-6</td>
+<td>61,3</td>
+<td>San Rafael.</td>
+<td>182</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>08,00-15,00</td>
+<td>A Coruña.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Venturada.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-1</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>50</td>
+<td>Venturada.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">18,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-45).</td>
-<td class="cuerpo_tabla_coma">38,7</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-2</td>
+<td>18,3</td>
+<td>Madrid (enlace M-45).</td>
+<td>38,7</td>
+<td>Meco.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_coma">17,1</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">37,5</td>
-<td class="cuerpo_tabla_izq">Meco.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-2</td>
+<td>17,1</td>
+<td>Madrid (enlace M-50).</td>
+<td>37,5</td>
+<td>Meco.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">13</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>13</td>
+<td>Madrid (enlace M-50).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_coma">7,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">29,4</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-3</td>
+<td>7,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>29,4</td>
+<td>Arganda.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">17,3</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">62</td>
-<td class="cuerpo_tabla_izq">Ocaña.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-4</td>
+<td>17,3</td>
+<td>Madrid (enlace M-50).</td>
+<td>62</td>
+<td>Ocaña.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">52,5</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-4</td>
+<td>0</td>
+<td>Madrid (enlace M-50).</td>
+<td>52,5</td>
+<td>Dosbarrios.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">106</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>106</td>
+<td>Talavera de la Reina.</td>
+<td>08,00-15,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_coma">15</td>
-<td class="cuerpo_tabla_izq">Arroyomolinos (enlace AP-41).</td>
-<td class="cuerpo_tabla_coma">30,5</td>
-<td class="cuerpo_tabla_izq">Navalcarnero.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>R-5</td>
+<td>15</td>
+<td>Arroyomolinos (enlace AP-41).</td>
+<td>30,5</td>
+<td>Navalcarnero.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_coma">62,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>N-6</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>62,5</td>
+<td>San Rafael.</td>
+<td>08,00-15,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">4</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">San Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_centro">08,00-13,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>M-501</td>
+<td>4</td>
+<td>Madrid (enlace M-50).</td>
+<td>59,5</td>
+<td>San Martín de Valdeiglesias.</td>
+<td>08,00-13,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">113</td>
-<td class="cuerpo_tabla_izq">Cabezón de Pisuerga.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">08,00-15,00</td>
-<td class="cuerpo_tabla_izq">frontera Portugal.</td>
+<td>A-62</td>
+<td>113</td>
+<td>Cabezón de Pisuerga.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>08,00-15,00</td>
+<td>frontera Portugal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_centro">11,00-14,00</td>
-<td class="cuerpo_tabla_izq">Santander.</td>
+<td>A-8</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>11,00-14,00</td>
+<td>Santander.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingo 6 de diciembre (festividad Constitución e Inmaculada)</p>
+<p>Domingo 6 de diciembre (festividad Constitución e Inmaculada)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Martes 8 de diciembre (festividad Constitución e Inmaculada)</p>
+<p>Martes 8 de diciembre (festividad Constitución e Inmaculada)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">118,3</td>
-<td class="cuerpo_tabla_izq">Boceguillas.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-1</td>
+<td>118,3</td>
+<td>Boceguillas.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_coma">107</td>
-<td class="cuerpo_tabla_izq">Mirabueno.</td>
-<td class="cuerpo_tabla_coma">10,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-2</td>
+<td>107</td>
+<td>Mirabueno.</td>
+<td>10,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">177</td>
-<td class="cuerpo_tabla_izq">Atalaya del Cañavate.</td>
-<td class="cuerpo_tabla_coma">6,9</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-3</td>
+<td>177</td>
+<td>Atalaya del Cañavate.</td>
+<td>6,9</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">25</td>
-<td class="cuerpo_tabla_izq">Arganda (salida 25).</td>
-<td class="cuerpo_tabla_coma">80,4</td>
-<td class="cuerpo_tabla_izq">Tarancón.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-3</td>
+<td>25</td>
+<td>Arganda (salida 25).</td>
+<td>80,4</td>
+<td>Tarancón.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">122</td>
-<td class="cuerpo_tabla_izq">Madridejos.</td>
-<td class="cuerpo_tabla_coma">6,7</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-4</td>
+<td>122</td>
+<td>Madridejos.</td>
+<td>6,7</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_coma">11,8</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-5</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>11,8</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">15,6</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">126</td>
-<td class="cuerpo_tabla_izq">Talavera de la Reina.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Salida Madrid.</td>
+<td>A-5</td>
+<td>15,6</td>
+<td>Madrid (enlace M-50).</td>
+<td>126</td>
+<td>Talavera de la Reina.</td>
+<td>16,00-24,00</td>
+<td>Salida Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">184</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-62).</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>184</td>
+<td>Tordesillas (enlace A-62).</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>16,00-23,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">123</td>
-<td class="cuerpo_tabla_izq">Arévalo.</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>123</td>
+<td>Arévalo.</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">60,5</td>
-<td class="cuerpo_tabla_izq">San Rafael.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>60,5</td>
+<td>San Rafael.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">22,3</td>
-<td class="cuerpo_tabla_izq">Las Rozas (enlace M-50).</td>
-<td class="cuerpo_tabla_coma">6,8</td>
-<td class="cuerpo_tabla_izq">Madrid.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>A-6</td>
+<td>22,3</td>
+<td>Las Rozas (enlace M-50).</td>
+<td>6,8</td>
+<td>Madrid.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-6</td>
-<td class="cuerpo_tabla_coma">110</td>
-<td class="cuerpo_tabla_izq">Adanero.</td>
-<td class="cuerpo_tabla_coma">42,5</td>
-<td class="cuerpo_tabla_izq">Collado Villalba.</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-6</td>
+<td>110</td>
+<td>Adanero.</td>
+<td>42,5</td>
+<td>Collado Villalba.</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-51</td>
-<td class="cuerpo_tabla_coma">104,8</td>
-<td class="cuerpo_tabla_izq">Ávila.</td>
-<td class="cuerpo_tabla_coma">81,8</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-51</td>
+<td>104,8</td>
+<td>Ávila.</td>
+<td>81,8</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_coma">88,55</td>
-<td class="cuerpo_tabla_izq">Segovia.</td>
-<td class="cuerpo_tabla_coma">61,50</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>AP-61</td>
+<td>88,55</td>
+<td>Segovia.</td>
+<td>61,50</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-110</td>
-<td class="cuerpo_tabla_coma">246</td>
-<td class="cuerpo_tabla_izq">Berrocalejo Aragona.</td>
-<td class="cuerpo_tabla_coma">228</td>
-<td class="cuerpo_tabla_izq">Villacastín (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-110</td>
+<td>246</td>
+<td>Berrocalejo Aragona.</td>
+<td>228</td>
+<td>Villacastín (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-603</td>
-<td class="cuerpo_tabla_coma">74,9</td>
-<td class="cuerpo_tabla_izq">Otero de Herreros.</td>
-<td class="cuerpo_tabla_coma">64</td>
-<td class="cuerpo_tabla_izq">San Rafael (enlace AP-6).</td>
-<td class="cuerpo_tabla_centro">16,00-24,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>N-603</td>
+<td>74,9</td>
+<td>Otero de Herreros.</td>
+<td>64</td>
+<td>San Rafael (enlace AP-6).</td>
+<td>16,00-24,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-501</td>
-<td class="cuerpo_tabla_coma">59,5</td>
-<td class="cuerpo_tabla_izq">S. Martín de Valdeiglesias.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Madrid (enlace M-40).</td>
-<td class="cuerpo_tabla_centro">16,00-22,00</td>
-<td class="cuerpo_tabla_izq">Entrada Madrid.</td>
+<td>M-501</td>
+<td>59,5</td>
+<td>S. Martín de Valdeiglesias.</td>
+<td>0</td>
+<td>Madrid (enlace M-40).</td>
+<td>16,00-22,00</td>
+<td>Entrada Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">155</td>
-<td class="cuerpo_tabla_izq">Tordesillas (enlace A-6).</td>
-<td class="cuerpo_tabla_coma">125</td>
-<td class="cuerpo_tabla_izq">Valladolid.</td>
-<td class="cuerpo_tabla_centro">16,00-23,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>A-62</td>
+<td>155</td>
+<td>Tordesillas (enlace A-6).</td>
+<td>125</td>
+<td>Valladolid.</td>
+<td>16,00-23,00</td>
+<td>Burgos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_coma">292</td>
-<td class="cuerpo_tabla_izq">Requena.</td>
-<td class="cuerpo_tabla_centro">13,00-21,00</td>
-<td class="cuerpo_tabla_izq">Salida Valencia.</td>
+<td>A-3</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>292</td>
+<td>Requena.</td>
+<td>13,00-21,00</td>
+<td>Salida Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">275</td>
-<td class="cuerpo_tabla_izq">Utiel.</td>
-<td class="cuerpo_tabla_coma">352</td>
-<td class="cuerpo_tabla_izq">Valencia.</td>
-<td class="cuerpo_tabla_centro">17,00-21,00</td>
-<td class="cuerpo_tabla_izq">Entrada Valencia.</td>
+<td>A-3</td>
+<td>275</td>
+<td>Utiel.</td>
+<td>352</td>
+<td>Valencia.</td>
+<td>17,00-21,00</td>
+<td>Entrada Valencia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">323</td>
-<td class="cuerpo_tabla_izq">Andújar.</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Madrid.</td>
+<td>A-4</td>
+<td>323</td>
+<td>Andújar.</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>09,00-22,00</td>
+<td>Sentido Madrid.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">230</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
-<td class="cuerpo_tabla_coma">300</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Sevilla.</td>
+<td>A-4</td>
+<td>230</td>
+<td>Almuradiel.</td>
+<td>300</td>
+<td>Bailén.</td>
+<td>09,00-22,00</td>
+<td>Sentido Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-44</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_izq">Jaén.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_centro">09,00-22,00</td>
-<td class="cuerpo_tabla_izq">Sentido Bailén.</td>
+<td>A-44</td>
+<td>36</td>
+<td>Jaén.</td>
+<td>0</td>
+<td>Bailén.</td>
+<td>09,00-22,00</td>
+<td>Sentido Bailén.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>A-1</td>
+<td>242</td>
+<td>Burgos-Castañares.</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Burgos-Castañares.</td>
-<td class="cuerpo_tabla_coma">77</td>
-<td class="cuerpo_tabla_izq">Miranda de Ebro.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>AP-1</td>
+<td>0</td>
+<td>Burgos-Castañares.</td>
+<td>77</td>
+<td>Miranda de Ebro.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">249</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">321, 45</td>
-<td class="cuerpo_tabla_izq">Límite provincias Burgos-Álava.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>249</td>
+<td>Rubena.</td>
+<td>321, 45</td>
+<td>Límite provincias Burgos-Álava.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-1</td>
-<td class="cuerpo_tabla_coma">329,4</td>
-<td class="cuerpo_tabla_izq">Límite provincias Álava-Burgos.</td>
-<td class="cuerpo_tabla_coma">336,2</td>
-<td class="cuerpo_tabla_izq">Treviño.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Vitoria.</td>
+<td>N-1</td>
+<td>329,4</td>
+<td>Límite provincias Álava-Burgos.</td>
+<td>336,2</td>
+<td>Treviño.</td>
+<td>16,00-21,00</td>
+<td>Vitoria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-631</td>
-<td class="cuerpo_tabla_coma">0,0</td>
-<td class="cuerpo_tabla_izq">S. Cebrián de Castro (N-630).</td>
-<td class="cuerpo_tabla_coma">57,0</td>
-<td class="cuerpo_tabla_izq">Rionegro del Puente (N-525).</td>
-<td class="cuerpo_tabla_centro">07,00-24,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>N-631</td>
+<td>0,0</td>
+<td>S. Cebrián de Castro (N-630).</td>
+<td>57,0</td>
+<td>Rionegro del Puente (N-525).</td>
+<td>07,00-24,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_coma">169</td>
-<td class="cuerpo_tabla_izq">Laredo.</td>
-<td class="cuerpo_tabla_coma">139,2</td>
-<td class="cuerpo_tabla_izq">Castro-Urdiales.</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Bilbao.</td>
+<td>A-8</td>
+<td>169</td>
+<td>Laredo.</td>
+<td>139,2</td>
+<td>Castro-Urdiales.</td>
+<td>16,00-21,00</td>
+<td>Bilbao.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto.</td>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">13,00-20,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Benabarre.</td>
+<td rowspan="3">N-230</td>
+<td>149,2</td>
+<td>Aneto.</td>
+<td>133,6</td>
+<td>Ginaste.</td>
+<td rowspan="3">13,00-20,00</td>
+<td rowspan="3">Benabarre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa.</td>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira.</td>
+<td>120,9</td>
+<td>Bonansa.</td>
+<td>119,5</td>
+<td>Buira.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns.</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre.</td>
+<td>116,1</td>
+<td>Santoréns.</td>
+<td>64,1</td>
+<td>Benabarre.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Jueves 24 y 31 de diciembre</p>
+<p>Jueves 24 y 31 de diciembre</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-230</td>
-<td class="cuerpo_tabla_coma">64,1</td>
-<td class="cuerpo_tabla_izq">Benabarre</td>
-<td class="cuerpo_tabla_coma">116,1</td>
-<td class="cuerpo_tabla_izq">Santoréns</td>
-<td class="cuerpo_tabla_centro" rowspan="3">17,00-24,00</td>
-<td class="cuerpo_tabla_izq" rowspan="3">Frontera Francia</td>
+<td rowspan="3">N-230</td>
+<td>64,1</td>
+<td>Benabarre</td>
+<td>116,1</td>
+<td>Santoréns</td>
+<td rowspan="3">17,00-24,00</td>
+<td rowspan="3">Frontera Francia</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">119,5</td>
-<td class="cuerpo_tabla_izq">Buira</td>
-<td class="cuerpo_tabla_coma">120,9</td>
-<td class="cuerpo_tabla_izq">Bonansa</td>
+<td>119,5</td>
+<td>Buira</td>
+<td>120,9</td>
+<td>Bonansa</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_coma">133,6</td>
-<td class="cuerpo_tabla_izq">Ginaste</td>
-<td class="cuerpo_tabla_coma">149,2</td>
-<td class="cuerpo_tabla_izq">Aneto</td>
+<td>133,6</td>
+<td>Ginaste</td>
+<td>149,2</td>
+<td>Aneto</td>
 </tr>
 </tbody>
 </table>
@@ -8026,39 +7504,35 @@ b) Restricciones por fechas
 
 a) Materias totalmente exentas de las prohibiciones establecidas en los puntos B.2.1 y B.2.2 del texto dispositivo de esta resolución, de modo permanente y sin necesidad de ser solicitada, tanto al propio transporte de la mercancía peligrosa de que se trate, como en lo relativo al idéntico itinerario utilizado en la ida y vuelta del mencionado transporte).
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="80%">
-<col width="20%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Mercancías</th>
-<th class="cabeza_tabla">Condiciones del transporte</th>
+<th>Mercancías</th>
+<th>Condiciones del transporte</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"> – Gases licuados de uso doméstico, embotellado o en cisterna, bien para su transporte a puntos de distribución o para reparto a consumidores.</td>
-<td class="cuerpo_tabla_izq">Las previstas en el ADR para cada producto.</td>
+<td> – Gases licuados de uso doméstico, embotellado o en cisterna, bien para su transporte a puntos de distribución o para reparto a consumidores.</td>
+<td>Las previstas en el ADR para cada producto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">– Materias destinadas al aprovisionamiento de estaciones de servicio, incluidas los combustibles destinados a centros de consumo propio para el aprovisionamiento de vehículos de transporte por carretera.</p>
-<p class="cuerpo_tabla_izq">– Combustibles con destino a puertos, aeropuertos y bases estacionales de aeronaves de lucha contra incendios (*) con la finalidad de abastecer buques y aeronaves.</p>
-<p class="cuerpo_tabla_izq">– Combustibles para abastecimiento al transporte ferroviario y gasóleos de calefacción para uso doméstico.</p>
+<td>
+<p>– Materias destinadas al aprovisionamiento de estaciones de servicio, incluidas los combustibles destinados a centros de consumo propio para el aprovisionamiento de vehículos de transporte por carretera.</p>
+<p>– Combustibles con destino a puertos, aeropuertos y bases estacionales de aeronaves de lucha contra incendios (*) con la finalidad de abastecer buques y aeronaves.</p>
+<p>– Combustibles para abastecimiento al transporte ferroviario y gasóleos de calefacción para uso doméstico.</p>
 </td>
-<td class="cuerpo_tabla_izq">Las previstas en el ADR para cada producto.</td>
+<td>Las previstas en el ADR para cada producto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">-Gases necesarios para el funcionamiento de centros sanitarios, y gases transportados a particulares para asistencia sanitaria domiciliaria, así como su suministro a almacenes cuando se acredite que se transportan a estos destinos.</td>
-<td class="cuerpo_tabla_izq">Las previstas en el ADR para cada producto.</td>
+<td>-Gases necesarios para el funcionamiento de centros sanitarios, y gases transportados a particulares para asistencia sanitaria domiciliaria, así como su suministro a almacenes cuando se acredite que se transportan a estos destinos.</td>
+<td>Las previstas en el ADR para cada producto.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(*) El Ministerio para la Transición Ecológica y el Reto Demográfico, y las Comunidades Autónomas comunicarán al Organismo Autónomo Jefatura Central de Tráfico con la suficiente antelación, la ubicación, accesos y periodo de funcionamiento de las bases estacionales de aeronaves para la lucha contra incendios.</p>
+<p>(*) El Ministerio para la Transición Ecológica y el Reto Demográfico, y las Comunidades Autónomas comunicarán al Organismo Autónomo Jefatura Central de Tráfico con la suficiente antelación, la ubicación, accesos y periodo de funcionamiento de las bases estacionales de aeronaves para la lucha contra incendios.</p>
 </td>
 </tr>
 </tfoot>
@@ -8076,1355 +7550,1349 @@ b) Materias que pueden ser eximidas mediante autorización especial de la prohib
 
 ## ANEXO IV — Red de itinerarios para mercancías peligrosas (RIMP)
 
-<table class="tabla_ancha">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Comunidad Autónoma</th>
-<th class="cabeza_tabla">Carretera</th>
-<th class="cabeza_tabla">Itinerario</th>
-<th class="cabeza_tabla">Provincia</th>
+<th>Comunidad Autónoma</th>
+<th>Carretera</th>
+<th>Itinerario</th>
+<th>Provincia</th>
 </tr>
 </thead>
 <tbody>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_centro" rowspan="47">ANDALUCÍA</td>
-<td class="cuerpo_tabla_centro" rowspan="4">A-4</td>
-<td class="cuerpo_tabla_izq" rowspan="3">DOSBARRIOS-SEVILLA (SE-30)-DOS HERMANAS (AP-4).</td>
-<td class="cuerpo_tabla_izq">JAÉN.</td>
+<tr>
+<td rowspan="47">ANDALUCÍA</td>
+<td rowspan="4">A-4</td>
+<td rowspan="3">DOSBARRIOS-SEVILLA (SE-30)-DOS HERMANAS (AP-4).</td>
+<td>JAÉN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÓRDOBA.</td>
+<td>CÓRDOBA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PTO. REAL-S. FERNANDO (TRES CAMINOS pk.12 CA-33).</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>PTO. REAL-S. FERNANDO (TRES CAMINOS pk.12 CA-33).</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">A-7</td>
-<td class="cuerpo_tabla_izq">ALGECIRAS-GUADIARO.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td rowspan="4">A-7</td>
+<td>ALGECIRAS-GUADIARO.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="3">TORREMOLINOS-MURCIA-MONFORTE.</td>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td rowspan="3">TORREMOLINOS-MURCIA-MONFORTE.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
+<td>GRANADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALMERÍA.</td>
+<td>ALMERÍA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-32</td>
-<td class="cuerpo_tabla_izq">BAILÉN (A-44)-VILLANUEVA DEL ARZOBISPO (N-322).</td>
-<td class="cuerpo_tabla_izq">JAÉN.</td>
+<td>A-32</td>
+<td>BAILÉN (A-44)-VILLANUEVA DEL ARZOBISPO (N-322).</td>
+<td>JAÉN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-44</td>
-<td class="cuerpo_tabla_izq" rowspan="2">BAILÉN-VÉLEZ BENAUDALLA (A-7).</td>
-<td class="cuerpo_tabla_izq">JAÉN.</td>
+<td rowspan="2">A-44</td>
+<td rowspan="2">BAILÉN-VÉLEZ BENAUDALLA (A-7).</td>
+<td>JAÉN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
+<td>GRANADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-45</td>
-<td class="cuerpo_tabla_izq" rowspan="2">CÓRDOBA (A-4)-ALTO PEDRIZAS (AP-46).</td>
-<td class="cuerpo_tabla_izq">CÓRDOBA.</td>
+<td rowspan="2">A-45</td>
+<td rowspan="2">CÓRDOBA (A-4)-ALTO PEDRIZAS (AP-46).</td>
+<td>CÓRDOBA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-48</td>
-<td class="cuerpo_tabla_izq">SAN FERNANDO-VEJER.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>A-48</td>
+<td>SAN FERNANDO-VEJER.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-49</td>
-<td class="cuerpo_tabla_izq" rowspan="2">SEVILLA-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td rowspan="2">A-49</td>
+<td rowspan="2">SEVILLA-FRONTERA PORTUGAL.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUELVA.</td>
+<td>HUELVA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-66</td>
-<td class="cuerpo_tabla_izq" rowspan="2">VIRGEN DEL CAMINO (AP-66)-SEVILLA (SE-30).</td>
-<td class="cuerpo_tabla_izq">HUELVA.</td>
+<td rowspan="2">A-66</td>
+<td rowspan="2">VIRGEN DEL CAMINO (AP-66)-SEVILLA (SE-30).</td>
+<td>HUELVA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">A-92</td>
-<td class="cuerpo_tabla_izq" rowspan="4">SEVILLA-ALMERÍA.</td>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td rowspan="4">A-92</td>
+<td rowspan="4">SEVILLA-ALMERÍA.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
+<td>GRANADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALMERIA.</td>
+<td>ALMERIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-92M</td>
-<td class="cuerpo_tabla_izq">ENTRE A-92 Y A-45.</td>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td>A-92M</td>
+<td>ENTRE A-92 Y A-45.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-92-N/A-91</td>
-<td class="cuerpo_tabla_izq" rowspan="2">GUADIX-PTO. LUMBRERAS.</td>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
+<td rowspan="2">A-92-N/A-91</td>
+<td rowspan="2">GUADIX-PTO. LUMBRERAS.</td>
+<td>GRANADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALMERÍA.</td>
+<td>ALMERÍA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-316</td>
-<td class="cuerpo_tabla_izq">ÚBEDA-MARTOS.</td>
-<td class="cuerpo_tabla_izq">JAÉN.</td>
+<td>A-316</td>
+<td>ÚBEDA-MARTOS.</td>
+<td>JAÉN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-334</td>
-<td class="cuerpo_tabla_izq">FINES-BALLABONA (A-7).</td>
-<td class="cuerpo_tabla_izq">ALMERÍA.</td>
+<td>A-334</td>
+<td>FINES-BALLABONA (A-7).</td>
+<td>ALMERÍA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-381</td>
-<td class="cuerpo_tabla_izq">JEREZ F. (AP-4)-ALGECIRAS.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>A-381</td>
+<td>JEREZ F. (AP-4)-ALGECIRAS.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-382/A-384</td>
-<td class="cuerpo_tabla_izq" rowspan="2">JEREZ F. (AP-4)-ANTEQUERA.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td rowspan="2">A-382/A-384</td>
+<td rowspan="2">JEREZ F. (AP-4)-ANTEQUERA.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8028</td>
-<td class="cuerpo_tabla_izq">SE-30-ENLACE A-92.</td>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td>A-8028</td>
+<td>SE-30-ENLACE A-92.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AP-4</td>
-<td class="cuerpo_tabla_izq" rowspan="2">DOS HERMANAS (A-4)-PTO. REAL (CA-35).</td>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td rowspan="2">AP-4</td>
+<td rowspan="2">DOS HERMANAS (A-4)-PTO. REAL (CA-35).</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">AP-7</td>
-<td class="cuerpo_tabla_izq">CREVILLENTE-VERA (A-7).</td>
-<td class="cuerpo_tabla_izq">ALMERÍA.</td>
+<td rowspan="3">AP-7</td>
+<td>CREVILLENTE-VERA (A-7).</td>
+<td>ALMERÍA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">GUADIARO-TORREMOLINOS.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td rowspan="2">GUADIARO-TORREMOLINOS.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-46</td>
-<td class="cuerpo_tabla_izq">A-45 (ALTO PEDRIZAS)-MÁLAGA.</td>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
+<td>AP-46</td>
+<td>A-45 (ALTO PEDRIZAS)-MÁLAGA.</td>
+<td>MÁLAGA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CA-33</td>
-<td class="cuerpo_tabla_izq">CÁDIZ-SAN FERNANDO.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>CA-33</td>
+<td>CÁDIZ-SAN FERNANDO.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CA-35</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN CÁDIZ.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>CA-35</td>
+<td>CIRCUNVALACIÓN CÁDIZ.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">GR-16</td>
-<td class="cuerpo_tabla_izq">A-7-PUERTO MOTRIL (ACCESO ESTE).</td>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
+<td>GR-16</td>
+<td>A-7-PUERTO MOTRIL (ACCESO ESTE).</td>
+<td>GRANADA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-340</td>
-<td class="cuerpo_tabla_izq">VEJER-ALGECIRAS.</td>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
+<td>N-340</td>
+<td>VEJER-ALGECIRAS.</td>
+<td>CÁDIZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-420</td>
-<td class="cuerpo_tabla_izq">MONTORO-PUERTOLLANO.</td>
-<td class="cuerpo_tabla_izq">CÓRDOBA.</td>
+<td>N-420</td>
+<td>MONTORO-PUERTOLLANO.</td>
+<td>CÓRDOBA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-432</td>
-<td class="cuerpo_tabla_izq">BADAJOZ-CÓRDOBA.</td>
-<td class="cuerpo_tabla_izq">CÓRDOBA.</td>
+<td>N-432</td>
+<td>BADAJOZ-CÓRDOBA.</td>
+<td>CÓRDOBA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N-433</td>
-<td class="cuerpo_tabla_izq" rowspan="2">EL GARROBO (ENLACE A-66)-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td rowspan="2">N-433</td>
+<td rowspan="2">EL GARROBO (ENLACE A-66)-FRONTERA PORTUGAL.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUELVA.</td>
+<td>HUELVA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-435</td>
-<td class="cuerpo_tabla_izq">HUELVA-N-432 (LA ALBUERA).</td>
-<td class="cuerpo_tabla_izq">HUELVA.</td>
+<td>N-435</td>
+<td>HUELVA-N-432 (LA ALBUERA).</td>
+<td>HUELVA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SE-30/SE-31/SE-40</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN SEVILLA.</td>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
+<td>SE-30/SE-31/SE-40</td>
+<td>CIRCUNVALACIÓN SEVILLA.</td>
+<td>SEVILLA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="15">ARAGÓN</td>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_izq">TARACENA-ESTERAS MEDINACELI-STA M.ª HUERTA-ZARAGOZA.</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td rowspan="15">ARAGÓN</td>
+<td>A-2</td>
+<td>TARACENA-ESTERAS MEDINACELI-STA M.ª HUERTA-ZARAGOZA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-22</td>
-<td class="cuerpo_tabla_izq">L.P. LLEIDA-HUÉSCA.</td>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
+<td>A-22</td>
+<td>L.P. LLEIDA-HUÉSCA.</td>
+<td>HUESCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A-23</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SAGUNTO-LANAVE (N-330).</td>
-<td class="cuerpo_tabla_izq">TERUEL.</td>
+<td rowspan="3">A-23</td>
+<td rowspan="3">SAGUNTO-LANAVE (N-330).</td>
+<td>TERUEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
+<td>HUESCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AP-2</td>
-<td class="cuerpo_tabla_izq" rowspan="2">ZARAGOZA-L.P. LLEIDA.</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td rowspan="2">AP-2</td>
+<td rowspan="2">ZARAGOZA-L.P. LLEIDA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
+<td>HUESCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-68</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA-L.P. NAVARRA/L.P. NAVARRA-L.P. ÁLAVA.</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td>AP-68</td>
+<td>ZARAGOZA-L.P. NAVARRA/L.P. NAVARRA-L.P. ÁLAVA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N-234</td>
-<td class="cuerpo_tabla_izq" rowspan="2">CALAMOCHA-SORIA.</td>
-<td class="cuerpo_tabla_izq">TERUEL.</td>
+<td rowspan="2">N-234</td>
+<td rowspan="2">CALAMOCHA-SORIA.</td>
+<td>TERUEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N-240/A-21</td>
-<td class="cuerpo_tabla_izq" rowspan="2">JACA-L.P. NAVARRA.</td>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
+<td rowspan="2">N-240/A-21</td>
+<td rowspan="2">JACA-L.P. NAVARRA.</td>
+<td>HUESCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-330/A-23</td>
-<td class="cuerpo_tabla_izq">LANAVE (N-330)-FRONTERA FRANCIA.</td>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
+<td>N-330/A-23</td>
+<td>LANAVE (N-330)-FRONTERA FRANCIA.</td>
+<td>HUESCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-420</td>
-<td class="cuerpo_tabla_izq">A-3 (LA ALMARCHA)-CUENCA-N-330-TERUEL.</td>
-<td class="cuerpo_tabla_izq">TERUEL.</td>
+<td>N-420</td>
+<td>A-3 (LA ALMARCHA)-CUENCA-N-330-TERUEL.</td>
+<td>TERUEL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">Z-40</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN ZARAGOZA.</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+<td>Z-40</td>
+<td>CIRCUNVALACIÓN ZARAGOZA.</td>
+<td>ZARAGOZA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="6">ASTURIAS</td>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_izq">L.P. VIZCAYA-BAAMONDE (A-6).</td>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
+<td rowspan="6">ASTURIAS</td>
+<td>A-8</td>
+<td>L.P. VIZCAYA-BAAMONDE (A-6).</td>
+<td>ASTURIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-64</td>
-<td class="cuerpo_tabla_izq">VILLAVICIOSA-OVIEDO.</td>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
+<td>A-64</td>
+<td>VILLAVICIOSA-OVIEDO.</td>
+<td>ASTURIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-66</td>
-<td class="cuerpo_tabla_izq">SERÍN (A-8)-CAMPOMANES.</td>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
+<td>A-66</td>
+<td>SERÍN (A-8)-CAMPOMANES.</td>
+<td>ASTURIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-66</td>
-<td class="cuerpo_tabla_izq">CAMPOMANES-LEÓN (N-120).</td>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
+<td>AP-66</td>
+<td>CAMPOMANES-LEÓN (N-120).</td>
+<td>ASTURIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">GJ-81/GJ-10</td>
-<td class="cuerpo_tabla_izq">DESDE A-8 HASTA LA GJ-10 POR LLOREDA Y LLOREDA EL EMPALME.</td>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
+<td>GJ-81/GJ-10</td>
+<td>DESDE A-8 HASTA LA GJ-10 POR LLOREDA Y LLOREDA EL EMPALME.</td>
+<td>ASTURIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AS-118/GI-1</td>
-<td class="cuerpo_tabla_izq">ACCESO AL PUERTO DE EL MUSEL DESDE GJ-10 POR ABOÑO.</td>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
+<td>AS-118/GI-1</td>
+<td>ACCESO AL PUERTO DE EL MUSEL DESDE GJ-10 POR ABOÑO.</td>
+<td>ASTURIAS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">CANTABRIA</td>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_izq">L.P. VIZCAYA-BAAMONDE (A-6).</td>
-<td class="cuerpo_tabla_izq">CANTABRIA.</td>
+<td rowspan="3">CANTABRIA</td>
+<td>A-8</td>
+<td>L.P. VIZCAYA-BAAMONDE (A-6).</td>
+<td>CANTABRIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-67</td>
-<td class="cuerpo_tabla_izq">S-30 (SANTANDER)-VTA. BAÑOS.</td>
-<td class="cuerpo_tabla_izq">CANTABRIA.</td>
+<td>A-67</td>
+<td>S-30 (SANTANDER)-VTA. BAÑOS.</td>
+<td>CANTABRIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">S-30/S-10</td>
-<td class="cuerpo_tabla_izq">A-67 (SANTANDER)-A-8.</td>
-<td class="cuerpo_tabla_izq">CANTABRIA.</td>
+<td>S-30/S-10</td>
+<td>A-67 (SANTANDER)-A-8.</td>
+<td>CANTABRIA.</td>
 </tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_centro" rowspan="48">CASTILLA-LA MANCHA</td>
-<td class="cuerpo_tabla_centro" rowspan="2">A-2</td>
-<td class="cuerpo_tabla_izq">MADRID (M-45)-TARACENA (*).</td>
-<td class="cuerpo_tabla_izq">GUADALAJARA.</td>
+<tr>
+<td rowspan="48">CASTILLA-LA MANCHA</td>
+<td rowspan="2">A-2</td>
+<td>MADRID (M-45)-TARACENA (*).</td>
+<td>GUADALAJARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TARACENA-ESTERAS MEDINACELI-STA M.ª HUERTA-ZARAGOZA.</td>
-<td class="cuerpo_tabla_izq">GUADALAJARA.</td>
+<td>TARACENA-ESTERAS MEDINACELI-STA M.ª HUERTA-ZARAGOZA.</td>
+<td>GUADALAJARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_izq">ARGANDA-VALENCIA.</td>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>A-3</td>
+<td>ARGANDA-VALENCIA.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A-4</td>
-<td class="cuerpo_tabla_izq">MADRID (M-50)-DOSBARRIOS (*).</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="3">A-4</td>
+<td>MADRID (M-50)-DOSBARRIOS (*).</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">DOSBARRIOS-SEVILLA (SE-30)-DOS HERMANAS (AP-4).</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="2">DOSBARRIOS-SEVILLA (SE-30)-DOS HERMANAS (AP-4).</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_izq">NAVALCARNERO-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>A-5</td>
+<td>NAVALCARNERO-FRONTERA PORTUGAL.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-30</td>
-<td class="cuerpo_tabla_izq">ALBACETE-Pk.137 (ENLACE A-7).</td>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>A-30</td>
+<td>ALBACETE-Pk.137 (ENLACE A-7).</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-31</td>
-<td class="cuerpo_tabla_izq" rowspan="2">ATALAYA CAÑAVATE-ALICANTE.</td>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td rowspan="2">A-31</td>
+<td rowspan="2">ATALAYA CAÑAVATE-ALICANTE.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-33</td>
-<td class="cuerpo_tabla_izq">BLANCA (A-30)-YECLA-A-35.</td>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>A-33</td>
+<td>BLANCA (A-30)-YECLA-A-35.</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-35</td>
-<td class="cuerpo_tabla_izq">ALMANSA-XÁTIVA.</td>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>A-35</td>
+<td>ALMANSA-XÁTIVA.</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A-40</td>
-<td class="cuerpo_tabla_izq">MOCEJÓN (AP-41)-MAQUEDA.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="3">A-40</td>
+<td>MOCEJÓN (AP-41)-MAQUEDA.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">OCAÑA (R-4)-CUENCA.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="2">OCAÑA (R-4)-CUENCA.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-41</td>
-<td class="cuerpo_tabla_izq">PUERTOLLANO-CIUDAD REAL.</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>A-41</td>
+<td>PUERTOLLANO-CIUDAD REAL.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-43</td>
-<td class="cuerpo_tabla_izq" rowspan="2">CIUDAD REAL-MANZANARES-ATALAYA CAÑAVATE.</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td rowspan="2">A-43</td>
+<td rowspan="2">CIUDAD REAL-MANZANARES-ATALAYA CAÑAVATE.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">AP-36</td>
-<td class="cuerpo_tabla_izq" rowspan="3">OCAÑA-LA RODA.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="3">AP-36</td>
+<td rowspan="3">OCAÑA-LA RODA.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-41</td>
-<td class="cuerpo_tabla_izq">MADRID (R-5)-MOCEJÓN (A-40).</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>AP-41</td>
+<td>MADRID (R-5)-MOCEJÓN (A-40).</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-40</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN TOLEDO.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>CM-40</td>
+<td>CIRCUNVALACIÓN TOLEDO.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-41</td>
-<td class="cuerpo_tabla_izq">VALMOJADO (A-5)-YUNCOS (AP-41).</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>CM-41</td>
+<td>VALMOJADO (A-5)-YUNCOS (AP-41).</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">CM-42</td>
-<td class="cuerpo_tabla_izq" rowspan="2">TOLEDO (A-42)-TOMELLOSO.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="2">CM-42</td>
+<td rowspan="2">TOLEDO (A-42)-TOMELLOSO.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-45</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL (A-41)-ALMAGRO (CM-412).</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CM-45</td>
+<td>CIUDAD REAL (A-41)-ALMAGRO (CM-412).</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-211</td>
-<td class="cuerpo_tabla_izq">MINGLANILLA-ALMODÓVAR.</td>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>CM-211</td>
+<td>MINGLANILLA-ALMODÓVAR.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-220</td>
-<td class="cuerpo_tabla_izq">ALMODÓVAR PINAR-CUENCA.</td>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>CM-220</td>
+<td>ALMODÓVAR PINAR-CUENCA.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-413</td>
-<td class="cuerpo_tabla_izq">ARGAMASILLA CTV.-CM-4111.</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CM-413</td>
+<td>ARGAMASILLA CTV.-CM-4111.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-420</td>
-<td class="cuerpo_tabla_izq">A-43 (DAIMIEL)-A-4 (PTO. LÁPICE).</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CM-420</td>
+<td>A-43 (DAIMIEL)-A-4 (PTO. LÁPICE).</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">
-<p class="cuerpo_tabla_centro">CM-4017/</p>
-<p class="cuerpo_tabla_centro">N-401</p>
+<td rowspan="2">
+<p>CM-4017/</p>
+<p>N-401</p>
 </td>
-<td class="cuerpo_tabla_izq" rowspan="2">MORA (CM-42)-LOS YÉBENES (N-401)-CIUDAD REAL.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td rowspan="2">MORA (CM-42)-LOS YÉBENES (N-401)-CIUDAD REAL.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-4111</td>
-<td class="cuerpo_tabla_izq">CM-413-ALMURADIEL (A-4).</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CM-4111</td>
+<td>CM-413-ALMURADIEL (A-4).</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CM-4134</td>
-<td class="cuerpo_tabla_izq">PUERTOLLANO-ENLACE N-420.</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>CM-4134</td>
+<td>PUERTOLLANO-ENLACE N-420.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">N-320</td>
-<td class="cuerpo_tabla_izq" rowspan="2">CUENCA-GUADALAJARA.</td>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td rowspan="2">N-320</td>
+<td rowspan="2">CUENCA-GUADALAJARA.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GUADALAJARA.</td>
+<td>GUADALAJARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-322/A-32</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN ALBACETE.</td>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>N-322/A-32</td>
+<td>CIRCUNVALACIÓN ALBACETE.</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-330</td>
-<td class="cuerpo_tabla_izq">ALMANSA-REQUENA (A-3).</td>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
+<td>N-330</td>
+<td>ALMANSA-REQUENA (A-3).</td>
+<td>ALBACETE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-400</td>
-<td class="cuerpo_tabla_izq">TOLEDO-ONTÍGOLA (A-4).</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>N-400</td>
+<td>TOLEDO-ONTÍGOLA (A-4).</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-403</td>
-<td class="cuerpo_tabla_izq">MAQUEDA-ÁVILA.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>N-403</td>
+<td>MAQUEDA-ÁVILA.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-420</td>
-<td class="cuerpo_tabla_izq">MONTORO-PUERTOLLANO.</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>N-420</td>
+<td>MONTORO-PUERTOLLANO.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-420</td>
-<td class="cuerpo_tabla_izq">A-3 (LA ALMARCHA)-CUENCA-N-330-TERUEL.</td>
-<td class="cuerpo_tabla_izq">CUENCA.</td>
+<td>N-420</td>
+<td>A-3 (LA ALMARCHA)-CUENCA-N-330-TERUEL.</td>
+<td>CUENCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-430</td>
-<td class="cuerpo_tabla_izq">A-5 (MÉRIDA)-CIUDAD REAL.</td>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+<td>N-430</td>
+<td>A-5 (MÉRIDA)-CIUDAD REAL.</td>
+<td>CIUDAD REAL.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_izq">MADRID-TARACENA.</td>
-<td class="cuerpo_tabla_izq">GUADALAJARA.</td>
+<td>R-2</td>
+<td>MADRID-TARACENA.</td>
+<td>GUADALAJARA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_izq">MADRID-OCAÑA.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>R-4</td>
+<td>MADRID-OCAÑA.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TO-21</td>
-<td class="cuerpo_tabla_izq">ENLACE A-40-ENLACE CM-40.</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>TO-21</td>
+<td>ENLACE A-40-ENLACE CM-40.</td>
+<td>TOLEDO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">TO-22/A-42</td>
-<td class="cuerpo_tabla_izq">MOCEJÓN (AP-41)-TOLEDO (CM-42).</td>
-<td class="cuerpo_tabla_izq">TOLEDO.</td>
+<td>TO-22/A-42</td>
+<td>MOCEJÓN (AP-41)-TOLEDO (CM-42).</td>
+<td>TOLEDO.</td>
 </tr>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_centro" rowspan="58">CASTILLA Y LEÓN</td>
-<td class="cuerpo_tabla_centro" rowspan="3">A-1</td>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID (M-50)-BURGOS.</td>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<tr>
+<td rowspan="58">CASTILLA Y LEÓN</td>
+<td rowspan="3">A-1</td>
+<td rowspan="2">MADRID (M-50)-BURGOS.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MIRANDA EBRO-L.P. ÁLAVA.</td>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>MIRANDA EBRO-L.P. ÁLAVA.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2</td>
-<td class="cuerpo_tabla_izq">TARACENA-ESTERAS MEDINACELI-STA M.ª HUERTA-ZARAGOZA.</td>
-<td class="cuerpo_tabla_izq">SORIA.</td>
+<td>A-2</td>
+<td>TARACENA-ESTERAS MEDINACELI-STA M.ª HUERTA-ZARAGOZA.</td>
+<td>SORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">A-6/AP-6</td>
-<td class="cuerpo_tabla_izq" rowspan="5">MADRID-A CORUÑA.</td>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<td rowspan="5">A-6/AP-6</td>
+<td rowspan="5">MADRID-A CORUÑA.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ÁVILA.</td>
+<td>ÁVILA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZAMORA.</td>
+<td>ZAMORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A-11</td>
-<td class="cuerpo_tabla_izq">TUDELA DE DUERO-VALLADOLID.</td>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td rowspan="3">A-11</td>
+<td>TUDELA DE DUERO-VALLADOLID.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">TORDESILLAS-ZAMORA.</td>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td rowspan="2">TORDESILLAS-ZAMORA.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZAMORA.</td>
+<td>ZAMORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-15/SO-20</td>
-<td class="cuerpo_tabla_izq">MEDINACELI (A-2)-SORIA.</td>
-<td class="cuerpo_tabla_izq">SORIA.</td>
+<td>A-15/SO-20</td>
+<td>MEDINACELI (A-2)-SORIA.</td>
+<td>SORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-50</td>
-<td class="cuerpo_tabla_izq" rowspan="2">ÁVILA (AV-20)-SALAMANCA.</td>
-<td class="cuerpo_tabla_izq">ÁVILA.</td>
+<td rowspan="2">A-50</td>
+<td rowspan="2">ÁVILA (AV-20)-SALAMANCA.</td>
+<td>ÁVILA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SALAMANCA.</td>
+<td>SALAMANCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-52</td>
-<td class="cuerpo_tabla_izq">BENAVENTE-O PORRIÑO.</td>
-<td class="cuerpo_tabla_izq">ZAMORA.</td>
+<td>A-52</td>
+<td>BENAVENTE-O PORRIÑO.</td>
+<td>ZAMORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">A-62</td>
-<td class="cuerpo_tabla_izq" rowspan="5">BURGOS-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td rowspan="5">A-62</td>
+<td rowspan="5">BURGOS-FRONTERA PORTUGAL.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PALENCIA.</td>
+<td>PALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZAMORA.</td>
+<td>ZAMORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SALAMANCA.</td>
+<td>SALAMANCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-65</td>
-<td class="cuerpo_tabla_izq">PALENCIA-ENLACE N-610.</td>
-<td class="cuerpo_tabla_izq">PALENCIA.</td>
+<td>A-65</td>
+<td>PALENCIA-ENLACE N-610.</td>
+<td>PALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A-66</td>
-<td class="cuerpo_tabla_izq" rowspan="3">VIRGEN DEL CAMINO (AP-66)-SEVILLA (SE-30).</td>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td rowspan="3">A-66</td>
+<td rowspan="3">VIRGEN DEL CAMINO (AP-66)-SEVILLA (SE-30).</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ZAMORA.</td>
+<td>ZAMORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SALAMANCA.</td>
+<td>SALAMANCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-67</td>
-<td class="cuerpo_tabla_izq">S-30 (SANTANDER)-VTA. BAÑOS.</td>
-<td class="cuerpo_tabla_izq">PALENCIA.</td>
+<td>A-67</td>
+<td>S-30 (SANTANDER)-VTA. BAÑOS.</td>
+<td>PALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-73</td>
-<td class="cuerpo_tabla_izq">BURGOS-QUINTANAORTUÑO.</td>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>A-73</td>
+<td>BURGOS-QUINTANAORTUÑO.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">A-231</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ONZONILLA (A-66)-BURGOS.</td>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td rowspan="3">A-231</td>
+<td rowspan="3">ONZONILLA (A-66)-BURGOS.</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PALENCIA.</td>
+<td>PALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-601</td>
-<td class="cuerpo_tabla_izq" rowspan="2">VALLADOLID-SEGOVIA.</td>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td rowspan="2">A-601</td>
+<td rowspan="2">VALLADOLID-SEGOVIA.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-610</td>
-<td class="cuerpo_tabla_izq">PALENCIA-MAGAZ (A-62).</td>
-<td class="cuerpo_tabla_izq">PALENCIA.</td>
+<td>A-610</td>
+<td>PALENCIA-MAGAZ (A-62).</td>
+<td>PALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_izq">BURGOS-MIRANDA DE EBRO.</td>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>AP-1</td>
+<td>BURGOS-MIRANDA DE EBRO.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AP-51</td>
-<td class="cuerpo_tabla_izq" rowspan="2">ÁVILA-A-6 (VILLACASTÍN).</td>
-<td class="cuerpo_tabla_izq">ÁVILA.</td>
+<td rowspan="2">AP-51</td>
+<td rowspan="2">ÁVILA-A-6 (VILLACASTÍN).</td>
+<td>ÁVILA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-61</td>
-<td class="cuerpo_tabla_izq">AP-6 (SAN RAFAEL)-SEGOVIA.</td>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<td>AP-61</td>
+<td>AP-6 (SAN RAFAEL)-SEGOVIA.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-66</td>
-<td class="cuerpo_tabla_izq">CAMPOMANES-LEÓN (N-120).</td>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td>AP-66</td>
+<td>CAMPOMANES-LEÓN (N-120).</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-68</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA-L.P. NAVARRA/L.P. NAVARRA-L.P. ÁLAVA.</td>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>AP-68</td>
+<td>ZARAGOZA-L.P. NAVARRA/L.P. NAVARRA-L.P. ÁLAVA.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-71</td>
-<td class="cuerpo_tabla_izq">LEÓN-ASTORGA.</td>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td>AP-71</td>
+<td>LEÓN-ASTORGA.</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AV-20</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN ÁVILA.</td>
-<td class="cuerpo_tabla_izq">ÁVILA.</td>
+<td>AV-20</td>
+<td>CIRCUNVALACIÓN ÁVILA.</td>
+<td>ÁVILA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">BU-30</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN BURGOS.</td>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>BU-30</td>
+<td>CIRCUNVALACIÓN BURGOS.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CL-615</td>
-<td class="cuerpo_tabla_izq">ENLACE A-65/CL-613/CL-615 (PALENCIA)-CARRIÓN.</td>
-<td class="cuerpo_tabla_izq">PALENCIA.</td>
+<td>CL-615</td>
+<td>ENLACE A-65/CL-613/CL-615 (PALENCIA)-CARRIÓN.</td>
+<td>PALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">LE-30/A-60</td>
-<td class="cuerpo_tabla_izq">VIRGEN DEL CAMINO (A-66)-SANTAS MARTAS (A-231).</td>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td>LE-30/A-60</td>
+<td>VIRGEN DEL CAMINO (A-66)-SANTAS MARTAS (A-231).</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-111</td>
-<td class="cuerpo_tabla_izq">SORIA-AP-68 (LOGROÑO).</td>
-<td class="cuerpo_tabla_izq">SORIA.</td>
+<td>N-111</td>
+<td>SORIA-AP-68 (LOGROÑO).</td>
+<td>SORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-120/OU-11</td>
-<td class="cuerpo_tabla_izq">PONFERRADA-OURENSE (A-52).</td>
-<td class="cuerpo_tabla_izq">LEÓN.</td>
+<td>N-120/OU-11</td>
+<td>PONFERRADA-OURENSE (A-52).</td>
+<td>LEÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-122/A-11</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SORIA-TUDELA DE DUERO.</td>
-<td class="cuerpo_tabla_izq">SORIA.</td>
+<td rowspan="3">N-122/A-11</td>
+<td rowspan="3">SORIA-TUDELA DE DUERO.</td>
+<td>SORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BURGOS.</td>
+<td>BURGOS.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-122</td>
-<td class="cuerpo_tabla_izq">ZAMORA-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">ZAMORA.</td>
+<td>N-122</td>
+<td>ZAMORA-FRONTERA PORTUGAL.</td>
+<td>ZAMORA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-234</td>
-<td class="cuerpo_tabla_izq">CALAMOCHA-SORIA.</td>
-<td class="cuerpo_tabla_izq">SORIA.</td>
+<td>N-234</td>
+<td>CALAMOCHA-SORIA.</td>
+<td>SORIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-403</td>
-<td class="cuerpo_tabla_izq">MAQUEDA-ÁVILA.</td>
-<td class="cuerpo_tabla_izq">ÁVILA.</td>
+<td>N-403</td>
+<td>MAQUEDA-ÁVILA.</td>
+<td>ÁVILA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">N-601/VA-12</td>
-<td class="cuerpo_tabla_izq" rowspan="3">ADANERO-VALLADOLID.</td>
-<td class="cuerpo_tabla_izq">ÁVILA.</td>
+<td rowspan="3">N-601/VA-12</td>
+<td rowspan="3">ADANERO-VALLADOLID.</td>
+<td>ÁVILA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SA-20</td>
-<td class="cuerpo_tabla_izq">RONDA SUR SALAMANCA.</td>
-<td class="cuerpo_tabla_izq">SALAMANCA.</td>
+<td>SA-20</td>
+<td>RONDA SUR SALAMANCA.</td>
+<td>SALAMANCA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SG-20</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN SEGOVIA.</td>
-<td class="cuerpo_tabla_izq">SEGOVIA.</td>
+<td>SG-20</td>
+<td>CIRCUNVALACIÓN SEGOVIA.</td>
+<td>SEGOVIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">VA-30</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN VALLADOLID.</td>
-<td class="cuerpo_tabla_izq">VALLADOLID.</td>
+<td>VA-30</td>
+<td>CIRCUNVALACIÓN VALLADOLID.</td>
+<td>VALLADOLID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="29">COMUNIDAD VALENCIANA</td>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_izq">ARGANDA-VALENCIA.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td rowspan="29">COMUNIDAD VALENCIANA</td>
+<td>A-3</td>
+<td>ARGANDA-VALENCIA.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="5">A-7</td>
-<td class="cuerpo_tabla_izq">TORREMOLINOS-MURCIA-MONFORTE.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td rowspan="5">A-7</td>
+<td>TORREMOLINOS-MURCIA-MONFORTE.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">A-77 (ENLACE AP-7)-VALENCIA.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td rowspan="2">A-77 (ENLACE AP-7)-VALENCIA.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">SAGUNTO (AP-7)-NULES.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td rowspan="2">SAGUNTO (AP-7)-NULES.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+<td>CASTELLÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-23</td>
-<td class="cuerpo_tabla_izq" rowspan="2">SAGUNTO-LANAVE (N-330).</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td rowspan="2">A-23</td>
+<td rowspan="2">SAGUNTO-LANAVE (N-330).</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+<td>CASTELLÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_izq">ATALAYA CAÑAVATE-ALICANTE.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td>A-31</td>
+<td>ATALAYA CAÑAVATE-ALICANTE.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-33</td>
-<td class="cuerpo_tabla_izq" rowspan="2">BLANCA (A-30)-YECLA-A-35.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td rowspan="2">A-33</td>
+<td rowspan="2">BLANCA (A-30)-YECLA-A-35.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-35</td>
-<td class="cuerpo_tabla_izq">ALMANSA-XÁTIVA.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>A-35</td>
+<td>ALMANSA-XÁTIVA.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-38</td>
-<td class="cuerpo_tabla_izq">SOLLANA (AP-7)-FAVARA (AP-7).</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>A-38</td>
+<td>SOLLANA (AP-7)-FAVARA (AP-7).</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-70</td>
-<td class="cuerpo_tabla_izq">ENLACE A-77-ENLACE A-7.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td>A-70</td>
+<td>ENLACE A-77-ENLACE A-7.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-77</td>
-<td class="cuerpo_tabla_izq">ENLACE AP-7-ENLACE A-70.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td>A-77</td>
+<td>ENLACE AP-7-ENLACE A-70.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">AP-7</td>
-<td class="cuerpo_tabla_izq" rowspan="3">L.P. TARRAGONA-MONFORTE.</td>
-<td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+<td rowspan="4">AP-7</td>
+<td rowspan="3">L.P. TARRAGONA-MONFORTE.</td>
+<td>CASTELLÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CREVILLENTE-VERA (A-7).</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td>CREVILLENTE-VERA (A-7).</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CS-22/N-340</td>
-<td class="cuerpo_tabla_izq">PTO.GRAO (CASTELLÓN)-ENLACE N-340/AP-7.</td>
-<td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+<td>CS-22/N-340</td>
+<td>PTO.GRAO (CASTELLÓN)-ENLACE N-340/AP-7.</td>
+<td>CASTELLÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-10</td>
-<td class="cuerpo_tabla_izq">NULES-BENLLOCH (CV-13).</td>
-<td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+<td>CV-10</td>
+<td>NULES-BENLLOCH (CV-13).</td>
+<td>CASTELLÓN.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CV-35</td>
-<td class="cuerpo_tabla_izq">VALENCIA (A-7)-LOSA OBISPO.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>CV-35</td>
+<td>VALENCIA (A-7)-LOSA OBISPO.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-330</td>
-<td class="cuerpo_tabla_izq">ALMANSA-REQUENA (A-3).</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>N-330</td>
+<td>ALMANSA-REQUENA (A-3).</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-338</td>
-<td class="cuerpo_tabla_izq">ACCESO AEROPUERTO ALICANTE-ELCHE.</td>
-<td class="cuerpo_tabla_izq">ALICANTE.</td>
+<td>N-338</td>
+<td>ACCESO AEROPUERTO ALICANTE-ELCHE.</td>
+<td>ALICANTE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-420</td>
-<td class="cuerpo_tabla_izq">A-3 (LA ALMARCHA)-CUENCA-N-330-TERUEL.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>N-420</td>
+<td>A-3 (LA ALMARCHA)-CUENCA-N-330-TERUEL.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V-21</td>
-<td class="cuerpo_tabla_izq">PUZOL-VALENCIA.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>V-21</td>
+<td>PUZOL-VALENCIA.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V-23</td>
-<td class="cuerpo_tabla_izq">ENLACE A-7-PTO. SAGUNTO.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>V-23</td>
+<td>ENLACE A-7-PTO. SAGUNTO.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V-30</td>
-<td class="cuerpo_tabla_izq">PUERTO VALENCIA-A-7.</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>V-30</td>
+<td>PUERTO VALENCIA-A-7.</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">V-31</td>
-<td class="cuerpo_tabla_izq">ENLACE V-30 (VALENCIA)-A-7 (SILLA).</td>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
+<td>V-31</td>
+<td>ENLACE V-30 (VALENCIA)-A-7 (SILLA).</td>
+<td>VALENCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="11">EXTREMADURA</td>
-<td class="cuerpo_tabla_centro" rowspan="2">A-5</td>
-<td class="cuerpo_tabla_izq" rowspan="2">NAVALCARNERO-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td rowspan="11">EXTREMADURA</td>
+<td rowspan="2">A-5</td>
+<td rowspan="2">NAVALCARNERO-FRONTERA PORTUGAL.</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BADAJOZ.</td>
+<td>BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-58</td>
-<td class="cuerpo_tabla_izq">TRUJILLO-CÁCERES.</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td>A-58</td>
+<td>TRUJILLO-CÁCERES.</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-66</td>
-<td class="cuerpo_tabla_izq" rowspan="2">VIRGEN DEL CAMINO (AP-66)-SEVILLA (SE-30).</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td rowspan="2">A-66</td>
+<td rowspan="2">VIRGEN DEL CAMINO (AP-66)-SEVILLA (SE-30).</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BADAJOZ.</td>
+<td>BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">EX-A1</td>
-<td class="cuerpo_tabla_izq">A-5 (NAVALMORAL)-MORALEJA.</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td>EX-A1</td>
+<td>A-5 (NAVALMORAL)-MORALEJA.</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">EX-A2</td>
-<td class="cuerpo_tabla_izq" rowspan="2">MIAJADAS-RUECAS (N-430).</td>
-<td class="cuerpo_tabla_izq">CÁCERES.</td>
+<td rowspan="2">EX-A2</td>
+<td rowspan="2">MIAJADAS-RUECAS (N-430).</td>
+<td>CÁCERES.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">BADAJOZ.</td>
+<td>BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-430</td>
-<td class="cuerpo_tabla_izq">A-5 (MÉRIDA)-CIUDAD REAL.</td>
-<td class="cuerpo_tabla_izq">BADAJOZ.</td>
+<td>N-430</td>
+<td>A-5 (MÉRIDA)-CIUDAD REAL.</td>
+<td>BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-432</td>
-<td class="cuerpo_tabla_izq">BADAJOZ-CÓRDOBA.</td>
-<td class="cuerpo_tabla_izq">BADAJOZ.</td>
+<td>N-432</td>
+<td>BADAJOZ-CÓRDOBA.</td>
+<td>BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-435</td>
-<td class="cuerpo_tabla_izq">HUELVA-N-432 (LA ALBUERA).</td>
-<td class="cuerpo_tabla_izq">BADAJOZ.</td>
+<td>N-435</td>
+<td>HUELVA-N-432 (LA ALBUERA).</td>
+<td>BADAJOZ.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="38">GALICIA</td>
-<td class="cuerpo_tabla_centro" rowspan="2">A-6/AP-6</td>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID-A CORUÑA.</td>
-<td class="cuerpo_tabla_izq">LUGO.</td>
+<td rowspan="38">GALICIA</td>
+<td rowspan="2">A-6/AP-6</td>
+<td rowspan="2">MADRID-A CORUÑA.</td>
+<td>LUGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-8</td>
-<td class="cuerpo_tabla_izq">L.P. VIZCAYA-BAAMONDE (A-6).</td>
-<td class="cuerpo_tabla_izq">LUGO.</td>
+<td>A-8</td>
+<td>L.P. VIZCAYA-BAAMONDE (A-6).</td>
+<td>LUGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-52</td>
-<td class="cuerpo_tabla_izq" rowspan="2">BENAVENTE-O PORRIÑO.</td>
-<td class="cuerpo_tabla_izq">OURENSE.</td>
+<td rowspan="2">A-52</td>
+<td rowspan="2">BENAVENTE-O PORRIÑO.</td>
+<td>OURENSE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">A-54</td>
-<td class="cuerpo_tabla_izq" rowspan="2">NADELA (A-6)-MELIDE.</td>
-<td class="cuerpo_tabla_izq">LUGO.</td>
+<td rowspan="2">A-54</td>
+<td rowspan="2">NADELA (A-6)-MELIDE.</td>
+<td>LUGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-54/SC-21</td>
-<td class="cuerpo_tabla_izq">SANTIAGO-AEROP. LAVACOLLA-ARZÚA.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>A-54/SC-21</td>
+<td>SANTIAGO-AEROP. LAVACOLLA-ARZÚA.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-55</td>
-<td class="cuerpo_tabla_izq">VIGO-TUI.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>A-55</td>
+<td>VIGO-TUI.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-75</td>
-<td class="cuerpo_tabla_izq">VERIN (A-52)-FRONTERA PORTUGAL.</td>
-<td class="cuerpo_tabla_izq">OURENSE.</td>
+<td>A-75</td>
+<td>VERIN (A-52)-FRONTERA PORTUGAL.</td>
+<td>OURENSE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-10</td>
-<td class="cuerpo_tabla_izq">PUERTO A CORUÑA-AC-11.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AC-10</td>
+<td>PUERTO A CORUÑA-AC-11.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-11</td>
-<td class="cuerpo_tabla_izq">A CORUÑA-AP-9/AC-12.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AC-11</td>
+<td>A CORUÑA-AP-9/AC-12.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-12</td>
-<td class="cuerpo_tabla_izq">A CORUÑA (AC-10)-S. PEDRO DE NÓS-OLEIROS (N-6).</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AC-12</td>
+<td>A CORUÑA (AC-10)-S. PEDRO DE NÓS-OLEIROS (N-6).</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-14</td>
-<td class="cuerpo_tabla_izq">A CORUÑA-LEDOÑO (A-6).</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AC-14</td>
+<td>A CORUÑA-LEDOÑO (A-6).</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AC-15</td>
-<td class="cuerpo_tabla_izq">AG-55-PTO. EXTERIOR A CORUÑA.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AC-15</td>
+<td>AG-55-PTO. EXTERIOR A CORUÑA.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-11</td>
-<td class="cuerpo_tabla_izq">PADRÓN (AP-9)-RIBEIRA.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AG-11</td>
+<td>PADRÓN (AP-9)-RIBEIRA.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-31</td>
-<td class="cuerpo_tabla_izq">A-52-CELANOVA.</td>
-<td class="cuerpo_tabla_izq">OURENSE.</td>
+<td>AG-31</td>
+<td>A-52-CELANOVA.</td>
+<td>OURENSE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-41</td>
-<td class="cuerpo_tabla_izq">CURRO (AP-9)-SANXENXO.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>AG-41</td>
+<td>CURRO (AP-9)-SANXENXO.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-46/VG-4.5</td>
-<td class="cuerpo_tabla_izq">PUENTE RANDE (AP-9)-CANGAS.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>AG-46/VG-4.5</td>
+<td>PUENTE RANDE (AP-9)-CANGAS.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-51</td>
-<td class="cuerpo_tabla_izq">A-52-PLISAN.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>AG-51</td>
+<td>A-52-PLISAN.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-55</td>
-<td class="cuerpo_tabla_izq">A CORUÑA-BAIO (STA. IRENE).</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AG-55</td>
+<td>A CORUÑA-BAIO (STA. IRENE).</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-56</td>
-<td class="cuerpo_tabla_izq">SANTIAGO (AP-9)-BRION.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AG-56</td>
+<td>SANTIAGO (AP-9)-BRION.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AG-59</td>
-<td class="cuerpo_tabla_izq">SANTIAGO (AP-53)-A RAMALLOSA.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>AG-59</td>
+<td>SANTIAGO (AP-53)-A RAMALLOSA.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">AP-9F/AP-9</td>
-<td class="cuerpo_tabla_izq" rowspan="2">FERROL-A CORUÑA-TUI.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td rowspan="2">AP-9F/AP-9</td>
+<td rowspan="2">FERROL-A CORUÑA-TUI.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-9V</td>
-<td class="cuerpo_tabla_izq">TEIS-VIGO.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>AP-9V</td>
+<td>TEIS-VIGO.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="3">AP-53/AG-53</td>
-<td class="cuerpo_tabla_izq" rowspan="3">SANTIAGO-DOZÓN-TOÉN (A-52).</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td rowspan="3">AP-53/AG-53</td>
+<td rowspan="3">SANTIAGO-DOZÓN-TOÉN (A-52).</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">OURENSE.</td>
+<td>OURENSE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">FE-12/AG-64</td>
-<td class="cuerpo_tabla_izq" rowspan="2">FERROL-VILALBA (A-8).</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td rowspan="2">FE-12/AG-64</td>
+<td rowspan="2">FERROL-VILALBA (A-8).</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LUGO.</td>
+<td>LUGO.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">FE-15</td>
-<td class="cuerpo_tabla_izq">ACCESO NORTE PTO. FERROL.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>FE-15</td>
+<td>ACCESO NORTE PTO. FERROL.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-120/OU-11</td>
-<td class="cuerpo_tabla_izq">PONFERRADA-OURENSE (A-52).</td>
-<td class="cuerpo_tabla_izq">OURENSE.</td>
+<td>N-120/OU-11</td>
+<td>PONFERRADA-OURENSE (A-52).</td>
+<td>OURENSE.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-550</td>
-<td class="cuerpo_tabla_izq">REDONDELA-A-52.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>N-550</td>
+<td>REDONDELA-A-52.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-552</td>
-<td class="cuerpo_tabla_izq">REDONDELA-VIGO.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>N-552</td>
+<td>REDONDELA-VIGO.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">PO-11/PO-10</td>
-<td class="cuerpo_tabla_izq">MARÍN-AP-9-PONTEVEDRA (FFCC).</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>PO-11/PO-10</td>
+<td>MARÍN-AP-9-PONTEVEDRA (FFCC).</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">SC-20</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN SANTIAGO.</td>
-<td class="cuerpo_tabla_izq">A CORUÑA.</td>
+<td>SC-20</td>
+<td>CIRCUNVALACIÓN SANTIAGO.</td>
+<td>A CORUÑA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">VG-20/AG-57</td>
-<td class="cuerpo_tabla_izq">VIGO-BAIONA-AP-9.</td>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+<td>VG-20/AG-57</td>
+<td>VIGO-BAIONA-AP-9.</td>
+<td>PONTEVEDRA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="18">MADRID</td>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_izq">MADRID (M-50)-BURGOS.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td rowspan="18">MADRID</td>
+<td>A-1</td>
+<td>MADRID (M-50)-BURGOS.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-2 (*)</td>
-<td class="cuerpo_tabla_izq">MADRID (M-45)-TARACENA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>A-2 (*)</td>
+<td>MADRID (M-45)-TARACENA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3 (*)</td>
-<td class="cuerpo_tabla_izq">MADRID (M-50)-ARGANDA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>A-3 (*)</td>
+<td>MADRID (M-50)-ARGANDA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_izq">ARGANDA-VALENCIA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>A-3</td>
+<td>ARGANDA-VALENCIA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4 (*)</td>
-<td class="cuerpo_tabla_izq">MADRID (M-50)-DOSBARRIOS.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>A-4 (*)</td>
+<td>MADRID (M-50)-DOSBARRIOS.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5 (*)</td>
-<td class="cuerpo_tabla_izq">MADRID (M-50)-NAVALCARNERO.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>A-5 (*)</td>
+<td>MADRID (M-50)-NAVALCARNERO.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6/AP-6</td>
-<td class="cuerpo_tabla_izq">MADRID-A CORUÑA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>A-6/AP-6</td>
+<td>MADRID-A CORUÑA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-41</td>
-<td class="cuerpo_tabla_izq">MADRID (R-5)-MOCEJÓN (A-40).</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>AP-41</td>
+<td>MADRID (R-5)-MOCEJÓN (A-40).</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="2">M-40</td>
-<td class="cuerpo_tabla_izq">ENTRE pk.29 Y pk.46 (17 km. DEL ARCO OESTE).</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td rowspan="2">M-40</td>
+<td>ENTRE pk.29 Y pk.46 (17 km. DEL ARCO OESTE).</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ENTRE pk.57 Y pk.3 (6 km. DEL ARCO NORTE).</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>ENTRE pk.57 Y pk.3 (6 km. DEL ARCO NORTE).</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-45/M-50</td>
-<td class="cuerpo_tabla_izq">CIRCUNVALACIÓN MADRID.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>M-45/M-50</td>
+<td>CIRCUNVALACIÓN MADRID.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">M-607</td>
-<td class="cuerpo_tabla_izq">M-40 (ARCO NORTE)-COLMENAR VIEJO.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>M-607</td>
+<td>M-40 (ARCO NORTE)-COLMENAR VIEJO.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-400</td>
-<td class="cuerpo_tabla_izq">TOLEDO-ONTÍGOLA (A-4).</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>N-400</td>
+<td>TOLEDO-ONTÍGOLA (A-4).</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-403</td>
-<td class="cuerpo_tabla_izq">MAQUEDA-ÁVILA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>N-403</td>
+<td>MAQUEDA-ÁVILA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-2</td>
-<td class="cuerpo_tabla_izq">MADRID-TARACENA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>R-2</td>
+<td>MADRID-TARACENA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-3</td>
-<td class="cuerpo_tabla_izq">MADRID-ARGANDA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>R-3</td>
+<td>MADRID-ARGANDA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-4</td>
-<td class="cuerpo_tabla_izq">MADRID-OCAÑA.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>R-4</td>
+<td>MADRID-OCAÑA.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">R-5</td>
-<td class="cuerpo_tabla_izq">MADRID-NAVALCARNERO.</td>
-<td class="cuerpo_tabla_izq">MADRID.</td>
+<td>R-5</td>
+<td>MADRID-NAVALCARNERO.</td>
+<td>MADRID.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="14">MURCIA</td>
-<td class="cuerpo_tabla_centro">A-7</td>
-<td class="cuerpo_tabla_izq">TORREMOLINOS-MURCIA-MONFORTE.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td rowspan="14">MURCIA</td>
+<td>A-7</td>
+<td>TORREMOLINOS-MURCIA-MONFORTE.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-30</td>
-<td class="cuerpo_tabla_izq">ALBACETE-CARTAGENA.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>A-30</td>
+<td>ALBACETE-CARTAGENA.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-33</td>
-<td class="cuerpo_tabla_izq">BLANCA (A-30)-YECLA-A-35.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>A-33</td>
+<td>BLANCA (A-30)-YECLA-A-35.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-92-N/A-91</td>
-<td class="cuerpo_tabla_izq">GUADIX-PTO. LUMBRERAS.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>A-92-N/A-91</td>
+<td>GUADIX-PTO. LUMBRERAS.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-7</td>
-<td class="cuerpo_tabla_izq">CREVILLENTE-VERA (A-7).</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>AP-7</td>
+<td>CREVILLENTE-VERA (A-7).</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">CT-32/CT-33/CT-34</td>
-<td class="cuerpo_tabla_izq">A-30-AP-7/CARTAGENA/ESCOMBRERAS.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>CT-32/CT-33/CT-34</td>
+<td>A-30-AP-7/CARTAGENA/ESCOMBRERAS.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MU-30</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ALCANTARILLA (ENLACE A-30) –.EL PALMAR (ENLACE MU-33).</p>
+<td>MU-30</td>
+<td>
+<p>ALCANTARILLA (ENLACE A-30) –.EL PALMAR (ENLACE MU-33).</p>
 </td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">MU-32</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MURCIA (ENLACE A-7)-ARCHENA.(ENLACE A-30).</p>
+<td>MU-32</td>
+<td>
+<p>MURCIA (ENLACE A-7)-ARCHENA.(ENLACE A-30).</p>
 </td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RM-2</td>
-<td class="cuerpo_tabla_izq">AUTOVÍA A-7-CAMPO DE CARTAGENA.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>RM-2</td>
+<td>AUTOVÍA A-7-CAMPO DE CARTAGENA.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RM-3</td>
-<td class="cuerpo_tabla_izq">AUTOVÍA A-7-MAZARRÓN.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>RM-3</td>
+<td>AUTOVÍA A-7-MAZARRÓN.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RM-11</td>
-<td class="cuerpo_tabla_izq">LORCA (A-7)-AGUILAS (AP-7).</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>RM-11</td>
+<td>LORCA (A-7)-AGUILAS (AP-7).</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RM-15</td>
-<td class="cuerpo_tabla_izq">CARAVACA CRUZ-ENLACE A-7.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>RM-15</td>
+<td>CARAVACA CRUZ-ENLACE A-7.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RM-19</td>
-<td class="cuerpo_tabla_izq">PTO. CADENA (A-30)-S.JAVIER (AP-7).</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>RM-19</td>
+<td>PTO. CADENA (A-30)-S.JAVIER (AP-7).</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">RM-23</td>
-<td class="cuerpo_tabla_izq">ENLACE RM-2-RM-3.</td>
-<td class="cuerpo_tabla_izq">MURCIA.</td>
+<td>RM-23</td>
+<td>ENLACE RM-2-RM-3.</td>
+<td>MURCIA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" rowspan="4">LA RIOJA</td>
-<td class="cuerpo_tabla_centro">A-12</td>
-<td class="cuerpo_tabla_izq">LOGROÑO (LO-20)-STO. DOMINGO CALZADA.</td>
-<td class="cuerpo_tabla_izq">LA RIOJA.</td>
+<td rowspan="4">LA RIOJA</td>
+<td>A-12</td>
+<td>LOGROÑO (LO-20)-STO. DOMINGO CALZADA.</td>
+<td>LA RIOJA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-12/LO-20</td>
-<td class="cuerpo_tabla_izq">L.P. NAVARRA-LO-20-RECAJO (AP-68).</td>
-<td class="cuerpo_tabla_izq">LA RIOJA.</td>
+<td>A-12/LO-20</td>
+<td>L.P. NAVARRA-LO-20-RECAJO (AP-68).</td>
+<td>LA RIOJA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-68</td>
-<td class="cuerpo_tabla_izq">ZARAGOZA-L.P. NAVARRA/L.P. NAVARRA-L.P. ÁLAVA.</td>
-<td class="cuerpo_tabla_izq">LA RIOJA.</td>
+<td>AP-68</td>
+<td>ZARAGOZA-L.P. NAVARRA/L.P. NAVARRA-L.P. ÁLAVA.</td>
+<td>LA RIOJA.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-111</td>
-<td class="cuerpo_tabla_izq">SORIA-AP-68 (LOGROÑO).</td>
-<td class="cuerpo_tabla_izq">LA RIOJA.</td>
+<td>N-111</td>
+<td>SORIA-AP-68 (LOGROÑO).</td>
+<td>LA RIOJA.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita">(*) Solamente se podrá circular entre las 23:00 y 6:00 horas del día siguiente.</p>
+<p>(*) Solamente se podrá circular entre las 23:00 y 6:00 horas del día siguiente.</p>
 </td>
 </tr>
 </tfoot>
@@ -9502,197 +8970,190 @@ B) Vehículos que precisan autorización complementaria de circulación (apartad
 
 – En acceso a ciudades los días laborables, excepto grúas de elevación de más de 5 ejes:
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Provincia</th>
-<th class="cabeza_tabla">Carretera</th>
-<th class="cabeza_tabla">Puntos kilométricos</th>
-<th class="cabeza_tabla">Sentido</th>
-<th class="cabeza_tabla">Horario restringido</th>
+<th>Provincia</th>
+<th>Carretera</th>
+<th>Puntos kilométricos</th>
+<th>Sentido</th>
+<th>Horario restringido</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
-<td class="cuerpo_tabla_izq">GR-30.</td>
-<td class="cuerpo_tabla_izq">0 AL 26,824.</td>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">07:00 a 23:00 horas.</td>
+<td>GRANADA.</td>
+<td>GR-30.</td>
+<td>0 AL 26,824.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>07:00 a 23:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-1.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 11,8 AL 50.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-1.</td>
+<td rowspan="2">PK. 11,8 AL 50.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-2.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 10,8 AL 38.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-2.</td>
+<td rowspan="2">PK. 10,8 AL 38.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-3.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 7 AL 40.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-3.</td>
+<td rowspan="2">PK. 7 AL 40.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-4.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 6,7 AL 30.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-4.</td>
+<td rowspan="2">PK. 6,7 AL 30.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-42.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 6,2 AL 27,5.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-42.</td>
+<td rowspan="2">PK. 6,2 AL 27,5.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-5.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 11,2 AL 35.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-5.</td>
+<td rowspan="2">PK. 11,2 AL 35.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">A-6.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 6,8 AL 39,5.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">A-6.</td>
+<td rowspan="2">PK. 6,8 AL 39,5.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-607.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 9,2 AL 39,4.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-607.</td>
+<td rowspan="2">PK. 9,2 AL 39,4.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-40.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 0 AL 61,3.</td>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-40.</td>
+<td rowspan="2">PK. 0 AL 61,3.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-45.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 0 AL 31.</td>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-45.</td>
+<td rowspan="2">PK. 0 AL 31.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-50.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 0 AL 84,5.</td>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-50.</td>
+<td rowspan="2">PK. 0 AL 84,5.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-501.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 0 AL 21,7.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-501.</td>
+<td rowspan="2">PK. 0 AL 21,7.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-505.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 0 AL 29,5.</td>
-<td class="cuerpo_tabla_izq">DECRECIENTE.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-505.</td>
+<td rowspan="2">PK. 0 AL 29,5.</td>
+<td>DECRECIENTE.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CRECIENTE.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>CRECIENTE.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MADRID(*).</td>
-<td class="cuerpo_tabla_izq" rowspan="2">M-506.</td>
-<td class="cuerpo_tabla_izq" rowspan="2">PK. 0 AL 53.</td>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">07:00 a 09:00 horas.</td>
+<td rowspan="2">MADRID(*).</td>
+<td rowspan="2">M-506.</td>
+<td rowspan="2">PK. 0 AL 53.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>07:00 a 09:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">18:00 a 21:00 horas.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>18:00 a 21:00 horas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SORIA.</td>
-<td class="cuerpo_tabla_izq">N-234.</td>
-<td class="cuerpo_tabla_izq">PK 352,8 AL 361.</td>
-<td class="cuerpo_tabla_izq">AMBOS SENTIDOS.</td>
-<td class="cuerpo_tabla_izq">DE 08:00 A 23:00 h. (días 30 mayo, 6 y 25 junio).</td>
+<td>SORIA.</td>
+<td>N-234.</td>
+<td>PK 352,8 AL 361.</td>
+<td>AMBOS SENTIDOS.</td>
+<td>DE 08:00 A 23:00 h. (días 30 mayo, 6 y 25 junio).</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="5">
-<p class="cita">(*) Excepto en el mes de agosto.</p>
+<p>(*) Excepto en el mes de agosto.</p>
 </td>
 </tr>
 </tfoot>
@@ -9702,338 +9163,275 @@ B) Vehículos que precisan autorización complementaria de circulación (apartad
 
 Conforme al apartado D.3.1 del texto dispositivo de esta resolución, se establecen los siguientes tramos con prohibición de adelantamiento a determinados vehículos.
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Lunes 6 de abril</p>
+<p>Lunes 6 de abril</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">101</td>
-<td class="cuerpo_tabla_izq">Cubillas de Santa Marta.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-62</td>
+<td>101</td>
+<td>Cubillas de Santa Marta.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los viernes de los meses de julio y agosto</p>
+<p>Todos los viernes de los meses de julio y agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">101</td>
-<td class="cuerpo_tabla_izq">Cubillas de Santa Marta.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">Frontera Portugal.</td>
+<td>A-62</td>
+<td>101</td>
+<td>Cubillas de Santa Marta.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>Frontera Portugal.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los sábados de los meses de junio, julio y agosto</p>
+<p>Todos los sábados de los meses de junio, julio y agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Camas.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">09,00-11,00</p>
-<p class="cuerpo_tabla_centro">14,00-20,00</p>
+<td>A-49</td>
+<td>0</td>
+<td>Camas.</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>
+<p>09,00-11,00</p>
+<p>14,00-20,00</p>
 </td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Huévar del Aljarafe.</td>
-<td class="cuerpo_tabla_coma">50</td>
-<td class="cuerpo_tabla_izq">Bollullos Par del Condado.</td>
-<td class="cuerpo_tabla_centro">09,00-20,00</td>
-<td class="cuerpo_tabla_izq">Ayamonte.</td>
+<td>A-49</td>
+<td>23</td>
+<td>Huévar del Aljarafe.</td>
+<td>50</td>
+<td>Bollullos Par del Condado.</td>
+<td>09,00-20,00</td>
+<td>Ayamonte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">09,00-11,00</p>
-<p class="cuerpo_tabla_centro">13,00-20,00</p>
+<td>AP-4</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>
+<p>09,00-11,00</p>
+<p>13,00-20,00</p>
 </td>
-<td class="cuerpo_tabla_izq">Cádiz.</td>
+<td>Cádiz.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los domingos y festivos (*) de los meses de junio, julio y agosto</p>
+<p>Todos los domingos y festivos (*) de los meses de junio, julio y agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4</td>
-<td class="cuerpo_tabla_coma">78</td>
-<td class="cuerpo_tabla_izq">Jerez de la Frontera.</td>
-<td class="cuerpo_tabla_coma">13,5</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_centro">10,00-18,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>AP-4</td>
+<td>78</td>
+<td>Jerez de la Frontera.</td>
+<td>13,5</td>
+<td>Dos Hermanas.</td>
+<td>10,00-18,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">76,9</td>
-<td class="cuerpo_tabla_izq">San Juan del Puerto.</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
-<td class="cuerpo_tabla_centro">10,00-15,00</td>
-<td class="cuerpo_tabla_izq">Sevilla.</td>
+<td>A-49</td>
+<td>76,9</td>
+<td>San Juan del Puerto.</td>
+<td>0</td>
+<td>Sevilla.</td>
+<td>10,00-15,00</td>
+<td>Sevilla.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-62</td>
-<td class="cuerpo_tabla_coma">101</td>
-<td class="cuerpo_tabla_izq">Cubillas de Santa Marta.</td>
-<td class="cuerpo_tabla_coma">151</td>
-<td class="cuerpo_tabla_izq">Tordesillas.</td>
-<td class="cuerpo_tabla_centro">15,00-23,00</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos.</td>
+<td>A-62</td>
+<td>101</td>
+<td>Cubillas de Santa Marta.</td>
+<td>151</td>
+<td>Tordesillas.</td>
+<td>15,00-23,00</td>
+<td>Ambos sentidos.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
+<p>(*) Festivos de ámbito Nacional o de Comunidad Autónoma afectada por la restricción.</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Domingos: 5, 12, 19, 26 de julio y 9, 30 de agosto</p>
+<p>Domingos: 5, 12, 19, 26 de julio y 9, 30 de agosto</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_izq">Ameyugo (Pancorbo).</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Armiñon.</td>
+<td>AP-1</td>
+<td>8</td>
+<td>Rubena.</td>
+<td>67</td>
+<td>Ameyugo (Pancorbo).</td>
+<td>16,00-21,00</td>
+<td>Armiñon.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Viernes 14 y domingo 16 de agosto, viernes 30 de octubre, domingo 1 de noviembre y martes 8 de diciembre</p>
+<p>Viernes 14 y domingo 16 de agosto, viernes 30 de octubre, domingo 1 de noviembre y martes 8 de diciembre</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_izq">Ameyugo (Pancorbo).</td>
-<td class="cuerpo_tabla_centro">16,00-21,00</td>
-<td class="cuerpo_tabla_izq">Armiñón.</td>
+<td>AP-1</td>
+<td>8</td>
+<td>Rubena.</td>
+<td>67</td>
+<td>Ameyugo (Pancorbo).</td>
+<td>16,00-21,00</td>
+<td>Armiñón.</td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Sábado 31 de octubre</p>
+<p>Sábado 31 de octubre</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Duración</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Duración</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">AP-1</td>
-<td class="cuerpo_tabla_coma">67</td>
-<td class="cuerpo_tabla_izq">Ameyugo (Pancorbo).</td>
-<td class="cuerpo_tabla_coma">8</td>
-<td class="cuerpo_tabla_izq">Rubena.</td>
-<td class="cuerpo_tabla_centro">09,00-14,00</td>
-<td class="cuerpo_tabla_izq">Burgos.</td>
+<td>AP-1</td>
+<td>67</td>
+<td>Ameyugo (Pancorbo).</td>
+<td>8</td>
+<td>Rubena.</td>
+<td>09,00-14,00</td>
+<td>Burgos.</td>
 </tr>
 </tbody>
 </table>
@@ -10042,135 +9440,128 @@ Conforme al apartado D.3.1 del texto dispositivo de esta resolución, se estable
 
 Conforme al apartado D.3.2 del texto dispositivo de esta resolución, se establecen las carreteras y tramos en las que se podrá habilitar carriles en sentido contrario al habitual.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Carreteras y tramos susceptibles de instalación de carril en sentido contrario al habitual</p>
+<p>Carreteras y tramos susceptibles de instalación de carril en sentido contrario al habitual</p>
 </caption>
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">A-1</td>
-<td class="cuerpo_tabla_coma">74</td>
-<td class="cuerpo_tabla_izq">Buitrago del Lozoya.</td>
-<td class="cuerpo_tabla_coma">23</td>
-<td class="cuerpo_tabla_izq">Alcobendas.</td>
+<td>A-1</td>
+<td>74</td>
+<td>Buitrago del Lozoya.</td>
+<td>23</td>
+<td>Alcobendas.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">35</td>
-<td class="cuerpo_tabla_izq">Arganda.</td>
-<td class="cuerpo_tabla_coma">104</td>
-<td class="cuerpo_tabla_izq">Saelices.</td>
+<td>A-3</td>
+<td>35</td>
+<td>Arganda.</td>
+<td>104</td>
+<td>Saelices.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">339,85</td>
-<td class="cuerpo_tabla_izq">Riba-Roja del Turia.</td>
-<td class="cuerpo_tabla_coma">332,6</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
+<td>A-3</td>
+<td>339,85</td>
+<td>Riba-Roja del Turia.</td>
+<td>332,6</td>
+<td>Cheste.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-3</td>
-<td class="cuerpo_tabla_coma">332,6</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_coma">339,85</td>
-<td class="cuerpo_tabla_izq">Riba-Roja del Turia.</td>
+<td>A-3</td>
+<td>332,6</td>
+<td>Cheste.</td>
+<td>339,85</td>
+<td>Riba-Roja del Turia.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-31</td>
-<td class="cuerpo_tabla_coma">80,9</td>
-<td class="cuerpo_tabla_izq">Albacete.</td>
-<td class="cuerpo_tabla_coma">31,2</td>
-<td class="cuerpo_tabla_izq">La Roda.</td>
+<td>A-31</td>
+<td>80,9</td>
+<td>Albacete.</td>
+<td>31,2</td>
+<td>La Roda.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-36</td>
-<td class="cuerpo_tabla_coma">146,3</td>
-<td class="cuerpo_tabla_izq">La Roda.</td>
-<td class="cuerpo_tabla_coma">122,1</td>
-<td class="cuerpo_tabla_izq">San Clemente.</td>
+<td>AP-36</td>
+<td>146,3</td>
+<td>La Roda.</td>
+<td>122,1</td>
+<td>San Clemente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">AP-4/A-4</td>
-<td class="cuerpo_tabla_coma">48,10</td>
-<td class="cuerpo_tabla_izq">Las Cabezas de San Juan (AP-4).</td>
-<td class="cuerpo_tabla_coma">547,3</td>
-<td class="cuerpo_tabla_izq">Sevilla (A-4).</td>
+<td>AP-4/A-4</td>
+<td>48,10</td>
+<td>Las Cabezas de San Juan (AP-4).</td>
+<td>547,3</td>
+<td>Sevilla (A-4).</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">67,8</td>
-<td class="cuerpo_tabla_izq">Dosbarrios.</td>
-<td class="cuerpo_tabla_coma">95</td>
-<td class="cuerpo_tabla_izq">Tembleque.</td>
+<td>A-4</td>
+<td>67,8</td>
+<td>Dosbarrios.</td>
+<td>95</td>
+<td>Tembleque.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">242</td>
-<td class="cuerpo_tabla_izq">Venta de Cárdenas.</td>
-<td class="cuerpo_tabla_coma">232,9</td>
-<td class="cuerpo_tabla_izq">Almuradiel.</td>
+<td>A-4</td>
+<td>242</td>
+<td>Venta de Cárdenas.</td>
+<td>232,9</td>
+<td>Almuradiel.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-4</td>
-<td class="cuerpo_tabla_coma">292,5</td>
-<td class="cuerpo_tabla_izq">Bailén.</td>
-<td class="cuerpo_tabla_coma">264,2</td>
-<td class="cuerpo_tabla_izq">Navas de Tolosa.</td>
+<td>A-4</td>
+<td>292,5</td>
+<td>Bailén.</td>
+<td>264,2</td>
+<td>Navas de Tolosa.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-44</td>
-<td class="cuerpo_tabla_coma">182,5</td>
-<td class="cuerpo_tabla_izq">Motril.</td>
-<td class="cuerpo_tabla_coma">168,4</td>
-<td class="cuerpo_tabla_izq">Izbor.</td>
+<td>A-44</td>
+<td>182,5</td>
+<td>Motril.</td>
+<td>168,4</td>
+<td>Izbor.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-44</td>
-<td class="cuerpo_tabla_coma">158,5</td>
-<td class="cuerpo_tabla_izq">Dúrcal.</td>
-<td class="cuerpo_tabla_coma">143,5</td>
-<td class="cuerpo_tabla_izq">Granada.</td>
+<td>A-44</td>
+<td>158,5</td>
+<td>Dúrcal.</td>
+<td>143,5</td>
+<td>Granada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-49</td>
-<td class="cuerpo_tabla_coma">18,9</td>
-<td class="cuerpo_tabla_izq">Sanlúcar la Mayor.</td>
-<td class="cuerpo_tabla_coma">47</td>
-<td class="cuerpo_tabla_izq">Bollullos Par Condado.</td>
+<td>A-49</td>
+<td>18,9</td>
+<td>Sanlúcar la Mayor.</td>
+<td>47</td>
+<td>Bollullos Par Condado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-5</td>
-<td class="cuerpo_tabla_coma">107,1</td>
-<td class="cuerpo_tabla_izq">Talavera.</td>
-<td class="cuerpo_tabla_coma">36</td>
-<td class="cuerpo_tabla_izq">Valmojado.</td>
+<td>A-5</td>
+<td>107,1</td>
+<td>Talavera.</td>
+<td>36</td>
+<td>Valmojado.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A-6</td>
-<td class="cuerpo_tabla_coma">34,3</td>
-<td class="cuerpo_tabla_izq">Villalba.</td>
-<td class="cuerpo_tabla_coma">19</td>
-<td class="cuerpo_tabla_izq">Las Rozas.</td>
+<td>A-6</td>
+<td>34,3</td>
+<td>Villalba.</td>
+<td>19</td>
+<td>Las Rozas.</td>
 </tr>
 </tbody>
 </table>
@@ -10279,76 +9670,67 @@ B. Suspensión de obras que afecten a la plataforma de circulación.
 
 ## ANEXO VII — Restricciones temporales a la circulación para la mejora de la seguridad vial y en tramos con elevada siniestralidad (apartado D.2.1 de la resolución)
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Todos los DÍAS del año (de 00:00 a 24:00 horas)</p>
+<p>Todos los DÍAS del año (de 00:00 a 24:00 horas)</p>
 </caption>
-<colgroup>
-<col width="10%">
-<col width="8%">
-<col width="23%">
-<col width="8%">
-<col width="21%">
-<col width="10%">
-<col width="20%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Vehículos afectados</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Vehículos afectados</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">N-340</td>
-<td class="cuerpo_tabla_coma">957</td>
-<td class="cuerpo_tabla_izq">Salida 278 de la A-7 (Nules).</td>
-<td class="cuerpo_tabla_coma">997</td>
-<td class="cuerpo_tabla_izq">Salida 997 a la AP-7 (Oropesa).</td>
-<td class="cuerpo_tabla_centro">MMA &gt; 7.5 t</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos</td>
+<td>N-340</td>
+<td>957</td>
+<td>Salida 278 de la A-7 (Nules).</td>
+<td>997</td>
+<td>Salida 997 a la AP-7 (Oropesa).</td>
+<td>MMA &gt; 7.5 t</td>
+<td>Ambos sentidos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-340</td>
-<td class="cuerpo_tabla_coma">1012,2</td>
-<td class="cuerpo_tabla_izq">Torreblanca.</td>
-<td class="cuerpo_tabla_coma">1058,44</td>
-<td class="cuerpo_tabla_izq">Limite Castellón-Tarragona.</td>
-<td class="cuerpo_tabla_centro">4 o más ejes</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos</td>
+<td>N-340</td>
+<td>1012,2</td>
+<td>Torreblanca.</td>
+<td>1058,44</td>
+<td>Limite Castellón-Tarragona.</td>
+<td>4 o más ejes</td>
+<td>Ambos sentidos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-124(*)</td>
-<td class="cuerpo_tabla_coma">45,99</td>
-<td class="cuerpo_tabla_izq">Límite Álava-La Rioja (Briñas).</td>
-<td class="cuerpo_tabla_coma">39</td>
-<td class="cuerpo_tabla_izq">Gimileo.</td>
-<td class="cuerpo_tabla_centro">4 o más ejes</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos</td>
+<td>N-124(*)</td>
+<td>45,99</td>
+<td>Límite Álava-La Rioja (Briñas).</td>
+<td>39</td>
+<td>Gimileo.</td>
+<td>4 o más ejes</td>
+<td>Ambos sentidos</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">N-232</td>
-<td class="cuerpo_tabla_coma">446,71</td>
-<td class="cuerpo_tabla_izq">Gimileo.</td>
-<td class="cuerpo_tabla_coma">330,875</td>
-<td class="cuerpo_tabla_izq">Límite Navarra-La Rioja (Alfaro).</td>
-<td class="cuerpo_tabla_centro">4 o más ejes</td>
-<td class="cuerpo_tabla_izq">Ambos sentidos</td>
+<td>N-232</td>
+<td>446,71</td>
+<td>Gimileo.</td>
+<td>330,875</td>
+<td>Límite Navarra-La Rioja (Alfaro).</td>
+<td>4 o más ejes</td>
+<td>Ambos sentidos</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="7">
-<p class="cita">(*) Excepto los vehículos cuyo origen o destino sea la localidad de Haro.</p>
+<p>(*) Excepto los vehículos cuyo origen o destino sea la localidad de Haro.</p>
 </td>
 </tr>
 </tfoot>
@@ -10356,356 +9738,348 @@ B. Suspensión de obras que afecten a la plataforma de circulación.
 
 ## ANEXO VIII — Carreteras con medidas excepcionales de circulación por elevada concentración de vehículos en determinados lugares de especial protección, acontecimientos deportivos y otros eventos (apartado D.1.2 de la resolución)
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Provincia</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">Carretera</th>
-<th class="cabeza_tabla">Puntos kilométricos</th>
-<th class="cabeza_tabla">Motivo</th>
-<th class="cabeza_tabla">Días/periodo</th>
+<th>Provincia</th>
+<th>Población</th>
+<th>Carretera</th>
+<th>Puntos kilométricos</th>
+<th>Motivo</th>
+<th>Días/periodo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MADRID.</td>
-<td class="cuerpo_tabla_izq">Patones.</td>
-<td class="cuerpo_tabla_centro">M-912</td>
-<td class="cuerpo_tabla_centro">0,350-2,160</td>
-<td class="cuerpo_tabla_izq">Cortado acceso a Patones de Arriba.</td>
-<td class="cuerpo_tabla_izq">Sábados, domingos y festivos del año.</td>
+<td>MADRID.</td>
+<td>Patones.</td>
+<td>M-912</td>
+<td>0,350-2,160</td>
+<td>Cortado acceso a Patones de Arriba.</td>
+<td>Sábados, domingos y festivos del año.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">GRANADA.</td>
-<td class="cuerpo_tabla_izq">Granada-Monachil.</td>
-<td class="cuerpo_tabla_centro">A-395 y ramales R-1 y R-2</td>
-<td class="cuerpo_tabla_centro">7,800–36,600</td>
-<td class="cuerpo_tabla_izq">Cortes y regulaciones en los accesos a Sierra Nevada.</td>
-<td class="cuerpo_tabla_izq">Temporada de esquí hasta domingo 5 de abril.</td>
+<td>GRANADA.</td>
+<td>Granada-Monachil.</td>
+<td>A-395 y ramales R-1 y R-2</td>
+<td>7,800–36,600</td>
+<td>Cortes y regulaciones en los accesos a Sierra Nevada.</td>
+<td>Temporada de esquí hasta domingo 5 de abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
-<td class="cuerpo_tabla_izq">Jerez.</td>
-<td class="cuerpo_tabla_centro">A-382</td>
-<td class="cuerpo_tabla_centro">0-11</td>
-<td class="cuerpo_tabla_izq">Gran Premio Motociclismo Jerez.</td>
-<td class="cuerpo_tabla_izq">24-26 abril.</td>
+<td>CÁDIZ.</td>
+<td>Jerez.</td>
+<td>A-382</td>
+<td>0-11</td>
+<td>Gran Premio Motociclismo Jerez.</td>
+<td>24-26 abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
-<td class="cuerpo_tabla_izq">Minas Diógenes.</td>
-<td class="cuerpo_tabla_centro">CR-500</td>
-<td class="cuerpo_tabla_centro">0-34,306</td>
-<td class="cuerpo_tabla_izq">Romería Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_izq">24-27 abril.</td>
+<td>CIUDAD REAL.</td>
+<td>Minas Diógenes.</td>
+<td>CR-500</td>
+<td>0-34,306</td>
+<td>Romería Ntra. Sra. Cabeza.</td>
+<td>24-27 abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">JAÉN.</td>
-<td class="cuerpo_tabla_izq">Andújar.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-6177</p>
-<p class="cuerpo_tabla_centro">A-6178</p>
+<td>JAÉN.</td>
+<td>Andújar.</td>
+<td>
+<p>A-6177</p>
+<p>A-6178</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">0-32,370</p>
-<p class="cuerpo_tabla_centro">0-27,390</p>
+<td>
+<p>0-32,370</p>
+<p>0-27,390</p>
 </td>
-<td class="cuerpo_tabla_izq">Romería Ntra. Sra. Cabeza.</td>
-<td class="cuerpo_tabla_izq">24-27 abril.</td>
+<td>Romería Ntra. Sra. Cabeza.</td>
+<td>24-27 abril.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SORIA.</td>
-<td class="cuerpo_tabla_izq">Soria.</td>
-<td class="cuerpo_tabla_centro">N-234</td>
-<td class="cuerpo_tabla_centro">352,800-361</td>
-<td class="cuerpo_tabla_izq">Fiestas de San Juan.</td>
-<td class="cuerpo_tabla_izq">30 mayo, 6, 14 y 25 junio.</td>
+<td>SORIA.</td>
+<td>Soria.</td>
+<td>N-234</td>
+<td>352,800-361</td>
+<td>Fiestas de San Juan.</td>
+<td>30 mayo, 6, 14 y 25 junio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUELVA.</td>
-<td class="cuerpo_tabla_izq">Almonte.</td>
-<td class="cuerpo_tabla_centro">A-483</td>
-<td class="cuerpo_tabla_centro">14-27</td>
-<td class="cuerpo_tabla_izq">Romería El Rocío.</td>
-<td class="cuerpo_tabla_izq">22-25 mayo.</td>
+<td>HUELVA.</td>
+<td>Almonte.</td>
+<td>A-483</td>
+<td>14-27</td>
+<td>Romería El Rocío.</td>
+<td>22-25 mayo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
-<td class="cuerpo_tabla_izq">Sabiñánigo.</td>
-<td class="cuerpo_tabla_centro">N-330a, A-23, N-260, A-136 y HU-611</td>
-<td class="cuerpo_tabla_centro">Sabiñánigo-Frontera Francia por Candanchú</td>
-<td class="cuerpo_tabla_izq">Marcha Ciclo turística. Quebrantahuesos y Treparriscos.</td>
-<td class="cuerpo_tabla_izq">20 junio.</td>
+<td>HUESCA.</td>
+<td>Sabiñánigo.</td>
+<td>N-330a, A-23, N-260, A-136 y HU-611</td>
+<td>Sabiñánigo-Frontera Francia por Candanchú</td>
+<td>Marcha Ciclo turística. Quebrantahuesos y Treparriscos.</td>
+<td>20 junio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">CÁDIZ.</td>
-<td class="cuerpo_tabla_izq">Algeciras Tarifa.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-7</p>
-<p class="cuerpo_tabla_centro">N-340</p>
+<td>CÁDIZ.</td>
+<td>Algeciras Tarifa.</td>
+<td>
+<p>A-7</p>
+<p>N-340</p>
 </td>
-<td class="cuerpo_tabla_centro">1122-1112 83-85</td>
-<td class="cuerpo_tabla_izq">Operación Paso del Estrecho.</td>
-<td class="cuerpo_tabla_izq">24 julio-2 agosto.</td>
+<td>1122-1112 83-85</td>
+<td>Operación Paso del Estrecho.</td>
+<td>24 julio-2 agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">HUESCA.</td>
-<td class="cuerpo_tabla_izq">Bujaraloz-Fraga.</td>
-<td class="cuerpo_tabla_centro">N-2 y salidas 67 y 114 de AP-2</td>
-<td class="cuerpo_tabla_centro">394,5-431,0 (ambos sentidos)</td>
-<td class="cuerpo_tabla_izq">Festival Monegros Desert, restricción a los vehículos &gt;3500 kg.</td>
-<td class="cuerpo_tabla_izq">08:00 horas del sábado 25, hasta 20:00 horas del domingo 26 julio.</td>
+<td>HUESCA.</td>
+<td>Bujaraloz-Fraga.</td>
+<td>N-2 y salidas 67 y 114 de AP-2</td>
+<td>394,5-431,0 (ambos sentidos)</td>
+<td>Festival Monegros Desert, restricción a los vehículos &gt;3500 kg.</td>
+<td>08:00 horas del sábado 25, hasta 20:00 horas del domingo 26 julio.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MÁLAGA.</td>
-<td class="cuerpo_tabla_izq">Vélez-Málaga.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-7</p>
-<p class="cuerpo_tabla_centro">A-356</p>
+<td>MÁLAGA.</td>
+<td>Vélez-Málaga.</td>
+<td>
+<p>A-7</p>
+<p>A-356</p>
 </td>
-<td class="cuerpo_tabla_centro">948-960,148,6-44,5</td>
-<td class="cuerpo_tabla_izq">Festival Musical Dreambeach.</td>
-<td class="cuerpo_tabla_izq">31 de julio y 1 de agosto.</td>
+<td>948-960,148,6-44,5</td>
+<td>Festival Musical Dreambeach.</td>
+<td>31 de julio y 1 de agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
-<td class="cuerpo_tabla_izq">Ribadesella-Arriondas.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">N-634</p>
-<p class="cuerpo_tabla_centro">N-625</p>
+<td>ASTURIAS.</td>
+<td>Ribadesella-Arriondas.</td>
+<td>
+<p>N-634</p>
+<p>N-625</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">325-345</p>
-<p class="cuerpo_tabla_centro">155-162</p>
+<td>
+<p>325-345</p>
+<p>155-162</p>
 </td>
-<td class="cuerpo_tabla_izq">Descenso del río Sella.</td>
-<td class="cuerpo_tabla_izq">8 agosto.</td>
+<td>Descenso del río Sella.</td>
+<td>8 agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Comunidades Autónomas de: Aragón, Asturias, Illes Balears, Cantabria, Castilla-La Mancha, Castilla y León, Galicia, Madrid, La Rioja y Valenciana.</td>
-<td class="cuerpo_tabla_izq">Todas las poblaciones de las comunidades autónomas especificadas.</td>
-<td class="cuerpo_tabla_centro">Todas las carreteras de las comunidades autónomas especificadas.</td>
-<td class="cuerpo_tabla_centro">La totalidad de los puntos kilométricos de las carreteras especificadas.</td>
-<td class="cuerpo_tabla_izq">Plan especial de seguridad vial por eclipse solar total.</td>
-<td class="cuerpo_tabla_izq">12 de agosto.</td>
+<td>Comunidades Autónomas de: Aragón, Asturias, Illes Balears, Cantabria, Castilla-La Mancha, Castilla y León, Galicia, Madrid, La Rioja y Valenciana.</td>
+<td>Todas las poblaciones de las comunidades autónomas especificadas.</td>
+<td>Todas las carreteras de las comunidades autónomas especificadas.</td>
+<td>La totalidad de los puntos kilométricos de las carreteras especificadas.</td>
+<td>Plan especial de seguridad vial por eclipse solar total.</td>
+<td>12 de agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
-<td class="cuerpo_tabla_izq">Silleda.</td>
-<td class="cuerpo_tabla_centro">N-525</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">309,5-309,8</p>
-<p class="cuerpo_tabla_centro">Restricción camiones&gt;7500 kg</p>
+<td>PONTEVEDRA.</td>
+<td>Silleda.</td>
+<td>N-525</td>
+<td>
+<p>309,5-309,8</p>
+<p>Restricción camiones&gt;7500 kg</p>
 </td>
-<td class="cuerpo_tabla_izq">Festividad en Silleda.</td>
-<td class="cuerpo_tabla_izq">21, 22 23 y 24 de agosto.</td>
+<td>Festividad en Silleda.</td>
+<td>21, 22 23 y 24 de agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TERUEL.</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">N-211</p>
-<p class="cuerpo_tabla_centro">N-232</p>
+<td>TERUEL.</td>
+<td>Alcañiz.</td>
+<td>
+<p>N-211</p>
+<p>N-232</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">228-270</p>
-<p class="cuerpo_tabla_centro">120-166</p>
+<td>
+<p>228-270</p>
+<p>120-166</p>
 </td>
-<td class="cuerpo_tabla_izq">Gran Premio Aragón Motociclismo.</td>
-<td class="cuerpo_tabla_izq">28-30 agosto.</td>
+<td>Gran Premio Aragón Motociclismo.</td>
+<td>28-30 agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">TERUEL.</td>
-<td class="cuerpo_tabla_izq">Alcañiz.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">TE-V-1336, TE-V-7033, TE-V-7032, CHE-0904 TE-35 y A-2404</p>
+<td>TERUEL.</td>
+<td>Alcañiz.</td>
+<td>
+<p>TE-V-1336, TE-V-7033, TE-V-7032, CHE-0904 TE-35 y A-2404</p>
 </td>
-<td class="cuerpo_tabla_centro">Accesos circuito Alcañiz</td>
-<td class="cuerpo_tabla_izq">Gran Premio Aragón Motociclismo.</td>
-<td class="cuerpo_tabla_izq">28-30 agosto.</td>
+<td>Accesos circuito Alcañiz</td>
+<td>Gran Premio Aragón Motociclismo.</td>
+<td>28-30 agosto.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALBACETE.</td>
-<td class="cuerpo_tabla_izq">Alcaraz.</td>
-<td class="cuerpo_tabla_centro">N-322</td>
-<td class="cuerpo_tabla_centro">275,800-279,800</td>
-<td class="cuerpo_tabla_izq">Romería Virgen de Cortes.</td>
-<td class="cuerpo_tabla_izq">26 agosto y 8 septiembre.</td>
+<td>ALBACETE.</td>
+<td>Alcaraz.</td>
+<td>N-322</td>
+<td>275,800-279,800</td>
+<td>Romería Virgen de Cortes.</td>
+<td>26 agosto y 8 septiembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LAS PALMAS.</td>
-<td class="cuerpo_tabla_izq">Teror.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">GC-21</p>
-<p class="cuerpo_tabla_centro">GC-43</p>
+<td>LAS PALMAS.</td>
+<td>Teror.</td>
+<td>
+<p>GC-21</p>
+<p>GC-43</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">1,200-13</p>
-<p class="cuerpo_tabla_centro">0-10,950</p>
+<td>
+<p>1,200-13</p>
+<p>0-10,950</p>
 </td>
-<td class="cuerpo_tabla_izq">Romería de Nuestra Señora del Pino.</td>
-<td class="cuerpo_tabla_izq">7 y 8 septiembre.</td>
+<td>Romería de Nuestra Señora del Pino.</td>
+<td>7 y 8 septiembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
-<td class="cuerpo_tabla_izq">Utrera.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-362</p>
-<p class="cuerpo_tabla_centro">A-8100</p>
+<td>SEVILLA.</td>
+<td>Utrera.</td>
+<td>
+<p>A-362</p>
+<p>A-8100</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">0-9,860</p>
-<p class="cuerpo_tabla_centro">25-37,100</p>
+<td>
+<p>0-9,860</p>
+<p>25-37,100</p>
 </td>
-<td class="cuerpo_tabla_izq">Romería Virgen Consolación.</td>
-<td class="cuerpo_tabla_izq">7 y 8 septiembre.</td>
+<td>Romería Virgen Consolación.</td>
+<td>7 y 8 septiembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ALMERÍA.</td>
-<td class="cuerpo_tabla_izq">El Ejido Dalías.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-358</p>
-<p class="cuerpo_tabla_centro">A-358</p>
-<p class="cuerpo_tabla_centro">AL-4302</p>
-<p class="cuerpo_tabla_centro">AL-3303</p>
+<td>ALMERÍA.</td>
+<td>El Ejido Dalías.</td>
+<td>
+<p>A-358</p>
+<p>A-358</p>
+<p>AL-4302</p>
+<p>AL-3303</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">3-8,000</p>
-<p class="cuerpo_tabla_centro">11-15,620</p>
-<p class="cuerpo_tabla_centro">0-4,440</p>
-<p class="cuerpo_tabla_centro">0-6,500</p>
+<td>
+<p>3-8,000</p>
+<p>11-15,620</p>
+<p>0-4,440</p>
+<p>0-6,500</p>
 </td>
-<td class="cuerpo_tabla_izq">Romería Cristo de Dalías.</td>
-<td class="cuerpo_tabla_izq">16-20 septiembre.</td>
+<td>Romería Cristo de Dalías.</td>
+<td>16-20 septiembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
-<td class="cuerpo_tabla_izq">Dos Hermanas.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-8032</p>
-<p class="cuerpo_tabla_centro">N-4</p>
+<td>SEVILLA.</td>
+<td>Dos Hermanas.</td>
+<td>
+<p>A-8032</p>
+<p>N-4</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">0-5,680</p>
-<p class="cuerpo_tabla_centro">548</p>
+<td>
+<p>0-5,680</p>
+<p>548</p>
 </td>
-<td class="cuerpo_tabla_izq">Romería Virgen de Valme.</td>
-<td class="cuerpo_tabla_izq">18 octubre.</td>
+<td>Romería Virgen de Valme.</td>
+<td>18 octubre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SEVILLA.</td>
-<td class="cuerpo_tabla_izq">Bollullos de la Mitación.</td>
-<td class="cuerpo_tabla_centro">A-474</td>
-<td class="cuerpo_tabla_centro">0-9</td>
-<td class="cuerpo_tabla_izq">Romería Ntra. Sra. de Cuatrovitas.</td>
-<td class="cuerpo_tabla_izq">25 octubre.</td>
+<td>SEVILLA.</td>
+<td>Bollullos de la Mitación.</td>
+<td>A-474</td>
+<td>0-9</td>
+<td>Romería Ntra. Sra. de Cuatrovitas.</td>
+<td>25 octubre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">A-3</p>
-<p class="cuerpo_tabla_centro">CV-50</p>
+<td>VALENCIA.</td>
+<td>Cheste.</td>
+<td>
+<p>A-3</p>
+<p>CV-50</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">327-342</p>
-<p class="cuerpo_tabla_centro">72,500-76</p>
+<td>
+<p>327-342</p>
+<p>72,500-76</p>
 </td>
-<td class="cuerpo_tabla_izq">Gran Premio Comunitat Valenciana Motociclismo Cheste.</td>
-<td class="cuerpo_tabla_izq">27–29 noviembre.</td>
+<td>Gran Premio Comunitat Valenciana Motociclismo Cheste.</td>
+<td>27–29 noviembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">VALENCIA.</td>
-<td class="cuerpo_tabla_izq">Cheste.</td>
-<td class="cuerpo_tabla_centro">CV-383, CV-374, CV-378 y CV-3845</td>
-<td class="cuerpo_tabla_centro">Accesos circuito Cheste</td>
-<td class="cuerpo_tabla_izq">Gran Premio Comunitat Valenciana Motociclismo Cheste.</td>
-<td class="cuerpo_tabla_izq">27–29 noviembre.</td>
+<td>VALENCIA.</td>
+<td>Cheste.</td>
+<td>CV-383, CV-374, CV-378 y CV-3845</td>
+<td>Accesos circuito Cheste</td>
+<td>Gran Premio Comunitat Valenciana Motociclismo Cheste.</td>
+<td>27–29 noviembre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ILLES BALEARS.</td>
-<td class="cuerpo_tabla_izq">Pollença.</td>
-<td class="cuerpo_tabla_centro">Ma-2210</td>
-<td class="cuerpo_tabla_centro">2-8,700</td>
-<td class="cuerpo_tabla_izq">(1).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">15 de mayo-18 de octubre:</p>
-<p class="cuerpo_tabla_izq">de 10:00 h. a como máximo las 22:00 h.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">ILLES BALEARS.</td>
-<td class="cuerpo_tabla_izq">Pollença.</td>
-<td class="cuerpo_tabla_centro">Ma-2210</td>
-<td class="cuerpo_tabla_centro">8,700-19,600</td>
-<td class="cuerpo_tabla_izq">(2).</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">15 de mayo-18 de octubre:</p>
-<p class="cuerpo_tabla_izq">de 10:00 h. a como máximo las 22:00 h.</p>
+<td>ILLES BALEARS.</td>
+<td>Pollença.</td>
+<td>Ma-2210</td>
+<td>2-8,700</td>
+<td>(1).</td>
+<td>
+<p>15 de mayo-18 de octubre:</p>
+<p>de 10:00 h. a como máximo las 22:00 h.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ASTURIAS.</td>
-<td class="cuerpo_tabla_izq">Covadonga.</td>
-<td class="cuerpo_tabla_centro">CO-04</td>
-<td class="cuerpo_tabla_centro">0-12,500</td>
-<td class="cuerpo_tabla_izq">Restricciones accesos Lagos Covadonga (excepto: ciclistas, vehículos autorizados, pruebas deportivas y otras actividades debidamente autorizadas). Sólo permitido acceso autobuses Euro IV o superior.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Fechas:</p>
-<p class="cuerpo_tabla_izq">– Marzo:</p>
-<p class="cuerpo_tabla_izq">● 28 a 31 de marzo.</p>
-<p class="cuerpo_tabla_izq">– Abril:</p>
-<p class="cuerpo_tabla_izq">● 1 al 12 de abril.</p>
-<p class="cuerpo_tabla_izq">● 18 y 19 de abril.</p>
-<p class="cuerpo_tabla_izq">● 25 al 30 de abril.</p>
-<p class="cuerpo_tabla_izq">– Mayo:</p>
-<p class="cuerpo_tabla_izq">● 1 de mayo.</p>
-<p class="cuerpo_tabla_izq">● Fines de semana de mayo.</p>
-<p class="cuerpo_tabla_izq">– De Junio a Octubre:</p>
-<p class="cuerpo_tabla_izq">● 1 junio al 18 octubre (excepto: 6/VI, la tarde del 24/VII, 25/VII y 8/IX).</p>
-<p class="cuerpo_tabla_izq">● 24, 25 y 31 de octubre.</p>
-<p class="cuerpo_tabla_izq">– Noviembre:</p>
-<p class="cuerpo_tabla_izq">● 1 y 2 de noviembre.</p>
-<p class="cuerpo_tabla_izq">– Diciembre:</p>
-<p class="cuerpo_tabla_izq">● 1 al 8 de diciembre.</p>
-<p class="cuerpo_tabla_izq">Horarios.</p>
-<p class="cuerpo_tabla_izq">● En las fechas señaladas el.</p>
-<p class="cuerpo_tabla_izq">horario de restricción es de.</p>
-<p class="cuerpo_tabla_izq">00:00 a 24:00.</p>
-<p class="cuerpo_tabla_izq">● En las fechas en que no exista restricción, el acceso estará permitido hasta completar la capacidad de los aparcamientos disponibles, momento en que se cerrará temporalmente el paso.</p>
+<td>ILLES BALEARS.</td>
+<td>Pollença.</td>
+<td>Ma-2210</td>
+<td>8,700-19,600</td>
+<td>(2).</td>
+<td>
+<p>15 de mayo-18 de octubre:</p>
+<p>de 10:00 h. a como máximo las 22:00 h.</p>
+</td>
+</tr>
+<tr>
+<td>ASTURIAS.</td>
+<td>Covadonga.</td>
+<td>CO-04</td>
+<td>0-12,500</td>
+<td>Restricciones accesos Lagos Covadonga (excepto: ciclistas, vehículos autorizados, pruebas deportivas y otras actividades debidamente autorizadas). Sólo permitido acceso autobuses Euro IV o superior.</td>
+<td>
+<p>Fechas:</p>
+<p>– Marzo:</p>
+<p>● 28 a 31 de marzo.</p>
+<p>– Abril:</p>
+<p>● 1 al 12 de abril.</p>
+<p>● 18 y 19 de abril.</p>
+<p>● 25 al 30 de abril.</p>
+<p>– Mayo:</p>
+<p>● 1 de mayo.</p>
+<p>● Fines de semana de mayo.</p>
+<p>– De Junio a Octubre:</p>
+<p>● 1 junio al 18 octubre (excepto: 6/VI, la tarde del 24/VII, 25/VII y 8/IX).</p>
+<p>● 24, 25 y 31 de octubre.</p>
+<p>– Noviembre:</p>
+<p>● 1 y 2 de noviembre.</p>
+<p>– Diciembre:</p>
+<p>● 1 al 8 de diciembre.</p>
+<p>Horarios.</p>
+<p>● En las fechas señaladas el.</p>
+<p>horario de restricción es de.</p>
+<p>00:00 a 24:00.</p>
+<p>● En las fechas en que no exista restricción, el acceso estará permitido hasta completar la capacidad de los aparcamientos disponibles, momento en que se cerrará temporalmente el paso.</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="6">
-<p class="cita">(1) Restricciones de paso y prohibición de parada y estacionamiento salvo las zonas habilitadas en el tramo indicado con las excepciones siguientes:</p>
-<p class="cita">– Vehículos autorizados siempre expresamente con carácter previo y con una antelación mínima de tres días hábiles.</p>
-<p class="cita">– Vehículos que transporten personas con movilidad reducida que tengan derecho a utilizar la señal V-15 en su vehículo.</p>
-<p class="cita">– Residentes o visitantes de residentes en el tramo de aplicación de la medida.</p>
-<p class="cita">– Transporte público gestionado por el Govern Balear, servicios, salvamento, sanitarios, protección civil, emergencias y cuerpos de seguridad, autocares de transporte discrecional y bicicletas.</p>
-<p class="cita">– Aquellos vehículos que dispongan de autorización previa para circular por algún tramo de la carretera Ma-2210 comprendido entre los puntos kilométricos 8,7-19,6.</p>
-<p class="cita">– Taxis y VTC que tengan en el permiso de circulación respectivamente el servicio A-04 o el Servicio A-02 y matrícula trasera azul.</p>
-<p class="cita">Las autorizaciones para acceder al tramo restringido serán solicitadas, previo al acceso y con una antelación mínima de tres días hábiles respecto al día que se quiera acceder.</p>
-<p class="cita">Estas autorizaciones se concederán por la Jefatura Provincial de Tráfico de les Illes Balears.</p>
-<p class="cita">Cuando el parking disponga de plazas se permitirá el acceso de vehículos levantando la barrera hasta completar el aforo.</p>
-<p class="cita">Se dispondrá de acceso al tramo en BUS LANZADERA del Govern Balear durante el horario de aplicación de la medida.</p>
-<p class="cita">(2) Restricciones acceso a cabo de Formentor excepto vehículos autorizados expresamente de forma previa como:</p>
-<p class="cita">– Residentes en el tramo de la restricción y bicicletas.</p>
-<p class="cita">– Transporte público gestionado por el Govern Balear.</p>
-<p class="cita">– Servicios, salvamento, sanitarios, protección civil, emergencias y cuerpos de seguridad.</p>
-<p class="cita">– Vehículos que transporten personas con movilidad reducida que tengan derecho a utilizar la señal V-15 y con un máximo de 3 autorizaciones V-15 simultáneas en el mismo día y/o mismo horario.</p>
-<p class="cita">Las autorizaciones para acceder al tramo restringido serán solicitadas, previo al acceso y con una antelación mínima de tres días hábiles respecto al día que se quiera acceder.</p>
-<p class="cita">Se dispondrá de acceso al tramo en BUS LANZADERA del Govern Balear durante el horario de aplicación de la medida.</p>
+<p>(1) Restricciones de paso y prohibición de parada y estacionamiento salvo las zonas habilitadas en el tramo indicado con las excepciones siguientes:</p>
+<p>– Vehículos autorizados siempre expresamente con carácter previo y con una antelación mínima de tres días hábiles.</p>
+<p>– Vehículos que transporten personas con movilidad reducida que tengan derecho a utilizar la señal V-15 en su vehículo.</p>
+<p>– Residentes o visitantes de residentes en el tramo de aplicación de la medida.</p>
+<p>– Transporte público gestionado por el Govern Balear, servicios, salvamento, sanitarios, protección civil, emergencias y cuerpos de seguridad, autocares de transporte discrecional y bicicletas.</p>
+<p>– Aquellos vehículos que dispongan de autorización previa para circular por algún tramo de la carretera Ma-2210 comprendido entre los puntos kilométricos 8,7-19,6.</p>
+<p>– Taxis y VTC que tengan en el permiso de circulación respectivamente el servicio A-04 o el Servicio A-02 y matrícula trasera azul.</p>
+<p>Las autorizaciones para acceder al tramo restringido serán solicitadas, previo al acceso y con una antelación mínima de tres días hábiles respecto al día que se quiera acceder.</p>
+<p>Estas autorizaciones se concederán por la Jefatura Provincial de Tráfico de les Illes Balears.</p>
+<p>Cuando el parking disponga de plazas se permitirá el acceso de vehículos levantando la barrera hasta completar el aforo.</p>
+<p>Se dispondrá de acceso al tramo en BUS LANZADERA del Govern Balear durante el horario de aplicación de la medida.</p>
+<p>(2) Restricciones acceso a cabo de Formentor excepto vehículos autorizados expresamente de forma previa como:</p>
+<p>– Residentes en el tramo de la restricción y bicicletas.</p>
+<p>– Transporte público gestionado por el Govern Balear.</p>
+<p>– Servicios, salvamento, sanitarios, protección civil, emergencias y cuerpos de seguridad.</p>
+<p>– Vehículos que transporten personas con movilidad reducida que tengan derecho a utilizar la señal V-15 y con un máximo de 3 autorizaciones V-15 simultáneas en el mismo día y/o mismo horario.</p>
+<p>Las autorizaciones para acceder al tramo restringido serán solicitadas, previo al acceso y con una antelación mínima de tres días hábiles respecto al día que se quiera acceder.</p>
+<p>Se dispondrá de acceso al tramo en BUS LANZADERA del Govern Balear durante el horario de aplicación de la medida.</p>
 </td>
 </tr>
 </tfoot>

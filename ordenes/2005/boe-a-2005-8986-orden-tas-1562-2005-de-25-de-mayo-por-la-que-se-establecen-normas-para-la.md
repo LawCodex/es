@@ -1,0 +1,907 @@
+---
+title: "Orden TAS/1562/2005, de 25 de mayo, por la que se establecen normas para la aplicación y desarrollo del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio"
+identifier: "BOE-A-2005-8986"
+eli: "https://www.boe.es/eli/es/o/2005/05/25/tas1562"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2005-05-25
+published: 2005-06-01
+in_force_from: 2005-06-02
+last_amended: 2013-03-28
+consolidated: 2025-12-22
+gazette: "Boletín Oficial del Estado núm. 130"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-8986"
+retrieved: 2026-10-11
+---
+
+# Orden TAS/1562/2005, de 25 de mayo, por la que se establecen normas para la aplicación y desarrollo del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio
+
+Mediante el Real Decreto 1415/2004, de 11 de junio, ha sido aprobado el nuevo Reglamento General de Recaudación de la Seguridad Social, cuya disposición final segunda faculta genéricamente al Ministro de Trabajo y Asuntos Sociales para dictar, en el ámbito de sus competencias, las disposiciones necesarias para la aplicación y desarrollo del mismo, lo que se corresponde también con las previsiones del artículo 5.2.b) de la Ley General de la Seguridad Social, que faculta también al titular de ese Departamento para el ejercicio de la potestad reglamentaria en tal ámbito no comprendida en el apartado anterior de ese precepto, relativo a la aprobación por el Gobierno de los Reglamentos Generales para la aplicación de dicha Ley.
+
+A su vez y al margen de tal habilitación genérica, diversos preceptos del nuevo Reglamento General facultan también específicamente al Ministro de Trabajo y Asuntos Sociales para establecer las correspondientes normas de aplicación y desarrollo en relación con las materias concretas a que aquéllos se refieren.
+
+Así ocurre, entre otros, con el artículo 2.2 del Reglamento, respecto a la reserva, reparto y posible extensión del ejercicio de competencias de los órganos de la Tesorería General de la Seguridad Social en el desempeño de la gestión recaudatoria; su artículo 4.1, en materia de autorizaciones para actuar como colaborador en la gestión recaudatoria de la Seguridad Social; sus artículos 6.5 y 11.4, los cuales, de conformidad con lo previsto en el artículo 94.2 de la Ley General de la Seguridad Social, prevén la posibilidad de no iniciar el procedimiento recaudatorio o de poner fin al mismo en vía ejecutiva cuando el importe de las deudas con la Seguridad Social sea inferior a la cantidad que determine el Ministro de Trabajo y Asuntos Sociales como insuficiente para la cobertura del coste de su exacción y recaudación; su artículo 11.4, sobre la determinación del cálculo y liquidación de intereses de demora por deudas con la Seguridad Social; su artículo 19.1, en relación con el ingreso separado de las fracciones de cuotas de la Seguridad Social correspondientes a las aportaciones de los trabajadores y, en fin, su disposición adicional quinta, relativa a la percepción de la contraprestación a cargo de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social por los servicios de gestión administrativa que les presten terceros, en función de la incorporación de estos últimos al Sistema de Remisión Electrónica de Datos (RED).
+
+Asimismo, la disposición derogatoria única del citado Real Decreto 1415/2004, de 11 de junio, aprobatorio del nuevo Reglamento General de Recaudación de la Seguridad Social, deroga también expresamente la Orden de 26 de mayo de 1999, de desarrollo del anterior Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, de 6 de octubre de 1995, a excepción de los preceptos de la misma que seguidamente enumera, los cuales se mantendrán en vigor hasta que se dicten las correspondientes normas de desarrollo del nuevo Reglamento General en la materia.
+
+En razón a cuanto se ha expuesto, resulta ahora necesario dictar la correspondiente Orden Ministerial en virtud de la cual se establezcan las pertinentes normas para la aplicación y desarrollo del nuevo Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, completándose, a este nivel normativo, la regulación reglamentaria de la gestión recaudatoria de la Seguridad Social a fin de garantizar la máxima eficacia de la misma, evitándose así las lagunas que en el ordenamiento jurídico sobre la materia provocaría la falta de este desarrollo normativo.
+
+En su virtud y en uso de las atribuciones conferidas al efecto tanto por el artículo 5.2.b) de la Ley General de la Seguridad Social como por la disposición final segunda y demás preceptos antes mencionados del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, y por la disposición derogatoria única de este último, y con la aprobación previa del Ministro de Administraciones Públicas, he tenido a bien disponer:
+
+## Sección primera. Reserva y determinación de los órganos competentes en materia de gestión recaudatoria de la seguridad social
+
+#### Artículo 1. Determinación de funciones para la celebración de conciertos de gestión recaudatoria.
+
+Corresponde al Director General de la Tesorería General de la Seguridad Social la celebración de conciertos sobre gestión recaudatoria de la Seguridad Social entre dicha Tesorería General y una Administración Pública o entre aquélla y las asociaciones profesionales, cualquiera que sea el ámbito de los mismos, previa autorización del Ministro de Trabajo y Asuntos Sociales o autoridad en quien delegue, así como la celebración de cualquier tipo de concierto entre la Tesorería General y entidades particulares, en este caso previa autorización del Consejo de Ministros.
+
+#### Artículo 2. Funciones de gestión recaudatoria reservadas a los órganos centrales de la Tesorería General.
+
+1\. Se reserva a la Dirección General de la Tesorería General de la Seguridad Social la autorización de medios de pago de las deudas con la Seguridad Social distintos de los relacionados en el artículo 21 del Reglamento General de Recaudación de la Seguridad Social, así como la autorización del uso simultáneo de varios medios para el pago de una misma deuda y la celebración de conciertos facultativos de reaseguro de exceso de pérdidas y otras formas de reaseguros complementarios con las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+2\. Se reserva a los órganos centrales de la Tesorería General de la Seguridad Social, con el alcance que se determina en el apartado 2.1 de este artículo, la gestión recaudatoria de las deudas cuyo objeto esté constituido por los siguientes recursos del Sistema, entre los especificados en el artículo 1 del Reglamento General de Recaudación de la Seguridad Social:
+
+a) Las aportaciones para el sostenimiento de los Servicios Comunes y Sociales de la Seguridad Social y de contribución a los demás gastos generales y a la satisfacción de las exigencias de la solidaridad nacional, a efectuar por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social.
+
+b) El porcentaje de las cuotas de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social correspondientes a las contingencias de incapacidad permanente y de muerte y supervivencia por reaseguro obligatorio y, en su caso, como consecuencia del concierto facultativo de reaseguro de exceso de pérdidas.
+
+c) El importe de las derramas a satisfacer por las citadas Mutuas por déficit en la liquidación de los convenios de reaseguro de exceso de pérdidas.
+
+d) El importe de los capitales coste de pensiones y demás prestaciones periódicas que deban ingresar las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social declaradas responsables de aquéllas.
+
+e) El 80 por 100 del exceso de excedentes, a que se refiere el artículo 73 de la Ley General de la Seguridad Social y que deben ingresar las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales conforme a lo establecido en el artículo 1 de la Orden de 2 de junio de 1980, así como el exceso de excedentes derivado de la gestión por las mismas de la prestación de incapacidad temporal por contingencias comunes y que deben ingresar en aplicación del artículo 73.3 del Reglamento aprobado por el Real Decreto 1993/1995, de 7 de diciembre.
+
+f) Los reintegros de los préstamos que tengan el carácter de inversión social.
+
+g) Los premios de cobranza por la gestión centralizada de la recaudación de cuotas para organismos y entidades ajenos al Sistema de la Seguridad Social.
+
+h) Las aportaciones por ayudas equivalentes a jubilaciones anticipadas o previas a jubilaciones ordinarias.
+
+i) Las aportaciones derivadas de la integración, en la Administración de la Seguridad Social, de colectivos protegidos por Entidades de Previsión Social sustitutorias de las prestaciones otorgadas por los Regímenes del Sistema de la Seguridad Social.
+
+j) Los importes de los recargos e intereses que procedan sobre los conceptos a que se refieren los apartados precedentes.
+
+2.1 La gestión recaudatoria reservada a los órganos centrales de la Tesorería General de la Seguridad Social respecto de los recursos de la misma determinados en las letras precedentes de este apartado comprende las funciones de reclamación de las deudas correspondientes y, en su caso, el aplazamiento de las mismas, su compensación, la devolución de ingresos indebidos, así como la expedición de certificaciones acreditativas de su pago y la admisión de la consignación en los casos a que se refieren los artículos 20 y 46.2 del Reglamento General de Recaudación de la Seguridad Social.
+
+2.2 Las funciones recaudatorias reservadas en este artículo a los órganos centrales de la Tesorería General de la Seguridad Social corresponden a cada uno de ellos conforme a la distribución de las competencias que les asignan el Real Decreto 1314/1984, de 20 de junio, por el que se regula la estructura y competencias de la Tesorería General de la Seguridad Social, el Reglamento General de Recaudación de la Seguridad Social y demás normas de organización de la misma.
+
+2.3 En el supuesto de que respecto de la gestión recaudatoria de las deudas a que se refiere el presente artículo haya de iniciarse el procedimiento de apremio, el órgano central de la Tesorería General de la Seguridad Social remitirá las actuaciones pertinentes a la Dirección Provincial de la misma en la que tenga su domicilio el deudor, determinándose éste conforme a lo establecido en el artículo 16 del Reglamento General de Recaudación de la Seguridad Social.
+
+3\. Se reservan a la Subdirección General de Ordenación de Pagos y Gestión del Fondo de Reserva las funciones relativas al Registro de Colaboradores en los Ingresos y Pagos del Sistema de la Seguridad Social, a que se refiere el artículo 19 del Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto.
+
+4\. Se reservan a los órganos centrales de la Tesorería General de la Seguridad Social que se determinan en los artículos 3 y 4 de esta Orden las funciones que en ellos se especifican.
+
+#### Artículo 3. Determinación de los órganos competentes en materia de deducción.
+
+En los procedimientos de deducción de deudas que las administraciones públicas, organismos autónomos, entidades públicas empresariales y demás entidades de derecho público tengan con la Seguridad Social, serán competentes:
+
+1\. El titular de la Subdirección General de Afiliación y Procedimientos Especiales de la Tesorería General de la Seguridad Social, para el ejercicio de las siguientes funciones:
+
+a) La comunicación a la administración o entidad pública deudora del inicio del procedimiento de deducción, con el respectivo trámite de audiencia, así como la resolución por la que se acuerde la improcedencia de las actuaciones practicadas en dicho procedimiento, respecto de los recursos del sistema de la Seguridad Social que sean objeto de gestión recaudatoria reservada a los órganos centrales de la Tesorería General de la Seguridad Social en el artículo 2 de esta orden, así como respecto de los demás recursos objeto de gestión recaudatoria de la Tesorería General de la Seguridad Social, sin perjuicio de lo dispuesto en el apartado 2 de este artículo.
+
+b) La emisión de la resolución por la que se acuerde la retención y deducción a favor de la Seguridad Social a que se refieren los artículos 39 y 41 del Reglamento general de recaudación de la Seguridad Social.
+
+c) La notificación del acuerdo de retención al ordenador de pagos competente.
+
+d) La notificación de la aplicación y extinción de la deuda a la administración o entidad pública deudora cuando el procedimiento recaudatorio se haya iniciado y seguido en los servicios centrales de la Tesorería General de la Seguridad Social.
+
+2\. Los titulares de los órganos o unidades con competencia en materia de recaudación en período voluntario que determine el director provincial de la Tesorería General de la Seguridad Social, para el ejercicio de las siguientes funciones:
+
+a) La comunicación a la administración o entidad pública deudora del inicio del procedimiento de deducción, con el respectivo trámite de audiencia, así como la resolución que acuerde la improcedencia de las actuaciones practicadas, de resultar acreditada la inexistencia de deuda en el referido trámite, en los casos en que el procedimiento recaudatorio se haya iniciado y deba continuarse por la respectiva dirección provincial.
+
+b) La expedición de las providencias de apremio que inicien la vía ejecutiva, en los supuestos en que proceda dicha expedición.
+
+> Se modifica por el art. único.1 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 4. Determinación de los órganos competentes en materia de recaudación en vía de apremio.
+
+1\. Sin perjuicio de las funciones que tiene atribuidas en el artículo 1 de la Orden de 29 de marzo de 2000, sobre establecimiento, reorganización y funciones de las unidades de recaudación ejecutiva de la Seguridad Social, la Unidad de Recaudación Ejecutiva de ámbito estatal, con sede en Madrid y con jurisdicción sobre todo el territorio español, llevará de forma centralizada la tramitación de la gestión recaudatoria respecto a las empresas que, por razón de su número de trabajadores u otras circunstancias concurrentes, se determinen por el Director General de la Tesorería General de la Seguridad Social, así como de las demás funciones que le encomiende el titular de la Subdirección General de Afiliación y Procedimientos Especiales, de conformidad con lo previsto en el artículo 5.a) del Real Decreto 1314/1984, de 20 de junio.
+
+A los efectos indicados, la Unidad de Recaudación Ejecutiva de ámbito estatal podrá encomendar las actuaciones ejecutivas que considere oportunas a las demás unidades de recaudación ejecutiva.
+
+2\. Las Unidades de Recaudación Ejecutiva, cuyo ámbito territorial de actuación determinará el Director General de la Tesorería General de la Seguridad Social, llevarán a cabo las actuaciones tendentes al aseguramiento de la ejecución forzosa o a la regularización del pago por el sujeto responsable con sujeción a lo dispuesto en el Reglamento General de Recaudación de la Seguridad Social, en esta Orden y demás disposiciones complementarias, así como las demás funciones recaudatorias en vía ejecutiva que se atribuyen a la Tesorería General de la Seguridad Social en dicho Reglamento y en sus disposiciones de aplicación y desarrollo y que no estén asignadas expresamente a otros órganos de la misma, sin perjuicio de las demás funciones que el Director General de la Tesorería pueda atribuirles.
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden TIN/2777/2010, de 29 de diciembre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 5. Instrucciones adicionales en materia de competencia.
+
+1\. El Director General de la Tesorería General de la Seguridad Social, cuando por la especialidad y complejidad de las funciones recaudatorias, el ámbito geográfico de su ejercicio o en relación con determinados sujetos responsables así lo requieran, podrá autorizar la gestión centralizada de determinadas funciones recaudatorias en la Subdirección General competente, Dirección Provincial, Administración de la Seguridad Social o Unidad de Recaudación Ejecutiva que el mismo designe y en los términos y condiciones que establezca.
+
+2\. Lo dispuesto en los artículos de esta Sección se entiende sin perjuicio de que los órganos de la Tesorería General de la Seguridad Social puedan delegar su competencia o su firma o avocar el conocimiento y resolución de las materias a que aquéllos se refieren, en los términos establecidos en los artículos 13 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Sección segunda. Colaboración en la gestión recaudatoria
+
+#### Artículo 6. Oficinas recaudadoras autorizadas.
+
+1\. Quedan autorizadas para actuar como oficinas recaudadoras en el ámbito de la Seguridad Social cualesquiera de las entidades financieras determinadas en el apartado 1 del artículo 3 del Reglamento General de Recaudación de la Seguridad Social.
+
+2\. Para que cualquier otra entidad, órgano o agente pueda actuar como oficina recaudadora en el ámbito de la Seguridad Social, se requerirá autorización expresa del Secretario de Estado de la Seguridad Social.
+
+Para valorar adecuadamente las solicitudes de autorización formuladas, los solicitantes acompañarán memoria justificativa de la posibilidad de recoger por medios técnicos la información de las operaciones que hayan de realizar como colaboradores, así como aquellos datos acreditativos de su solvencia y de su posible contribución al servicio de colaboración en la recaudación en el ámbito de la Seguridad Social.
+
+3\. La Secretaría de Estado de la Seguridad Social podrá aceptar la solicitud de colaboración y determinar la forma y condiciones específicas de la prestación de servicios así como limitar o denegar las autorizaciones en función también de los medios electrónicos, informáticos y telemáticos del solicitante respecto del suministro de datos y de la información necesarios para la gestión recaudatoria de los recursos del Sistema de la Seguridad Social efectuada por la Tesorería General. Si la resolución fuere denegatoria, la misma deberá ser motivada.
+
+## Sección tercera. Deudas de inferior cuantía
+
+#### Artículo 7. Deudas de importe mínimo recaudable y susceptibles de anulación y baja en contabilidad.
+
+La cuantía que, conforme al artículo 94.2 de la Ley General de la Seguridad Social y a los artículos 6.5 y 11.4 del Reglamento General de Recaudación de la Seguridad Social, se estima como insuficiente para la cobertura del coste de la exacción y recaudación de las deudas con la Seguridad Social y conceptos de recaudación conjunta con las mismas y que permite, en su caso, acordar su anulación y baja en contabilidad, se fija en el 3 por 100 del indicador público de renta de efectos múltiples (IPREM) mensual, vigente en el momento de la respectiva liquidación, salvo en los casos de responsabilidad por sucesión «mortis causa», en los que el indicado límite se fija en el 20 por 100 del IPREM mensual a efectos de iniciación del oportuno expediente de derivación de responsabilidad por causa de muerte.
+
+#### Artículo 8. Liquidaciones de cuotas efectuadas por la Tesorería General de la Seguridad Social en los documentos de cotización emitidos por la misma.
+
+Podrán no ser emitidas ni notificadas a los responsables del pago de cuotas de la Seguridad Social y podrá no iniciarse el procedimiento recaudatorio respecto de las liquidaciones de cuotas efectuadas por la Tesorería General de la Seguridad Social en los documentos de cotización expedidos por la misma y correspondientes a los Regímenes de la Seguridad Social en que esté determinada reglamentariamente tal emisión de documentos de cotización por dicha Tesorería General, cuando el importe resultante a ingresar no exceda de la cuantía fijada en el artículo anterior.
+
+#### Artículo 9. Liquidaciones de cuotas efectuadas por la Tesorería General de la Seguridad Social rectificando en cuantía superior las previas autoliquidaciones de los sujetos responsables del cumplimiento de la obligación de cotizar.
+
+Podrán no ser emitidas ni notificadas y podrá no iniciarse el procedimiento recaudatorio de las liquidaciones de cuotas realizadas por la Tesorería General de la Seguridad Social que modifiquen, por un mayor importe, las previas autoliquidaciones presentadas por los sujetos responsables del cumplimiento de la obligación de cotizar, cuando la cantidad a ingresar por la respectiva liquidación no sea superior a la cantidad fijada en el artículo 7.
+
+Asimismo, en los supuestos de liquidaciones de cuotas por la Tesorería General, con saldo deudor para el sujeto responsable y que rectifiquen previas autoliquidaciones de esas cuotas con saldo acreedor o que no conlleven ingreso alguno al efecto, no se exigirá el importe a ingresar fijado en la correspondiente liquidación siempre que no sea superior a dicha cuantía, sin perjuicio de la notificación de la liquidación de la Tesorería General al sujeto responsable.
+
+#### Artículo 10. Liquidaciones de cuotas en reclamaciones administrativas de deuda.
+
+En los supuestos en que, por falta de ingreso de las cuotas debidas dentro del plazo reglamentario, la liquidación de las mismas deba efectuarse a través de acta de liquidación o de reclamación de deuda, expedidas respectivamente por la Inspección de Trabajo y Seguridad Social y por la Tesorería General de la Seguridad Social, podrá no emitirse ni notificarse la reclamación de deuda o acta de liquidación y no iniciarse el procedimiento recaudatorio del importe que debería incluirse en las mismas cuando no exceda de la cantidad fijada en el artículo 7.
+
+#### Artículo 11. Reintegros de prestaciones de la Seguridad Social indebidamente percibidas no recaudables.
+
+1\. Las Entidades Gestoras de la Seguridad Social y de los conceptos de recaudación conjunta con las cuotas de la misma, así como las Entidades Colaboradoras, no remitirán a la Tesorería General de la Seguridad Social para su reclamación las resoluciones definitivas en vía administrativa en las que se declare la procedencia de reintegros de prestaciones cuya cuantía no exceda del importe fijado en el artículo 7 referido al IPREM mensual vigente en el momento de la declaración, salvo que por acumulación de deudas del mismo deudor se superase dicho importe.
+
+2\. La Tesorería General de la Seguridad Social no iniciará el procedimiento recaudatorio del importe a ingresar correspondiente al reintegro de prestaciones indebidamente percibidas, cuya procedencia haya sido declarada mediante resolución definitiva en vía administrativa por las Entidades Gestoras de la Seguridad Social u Organismos gestores competentes conforme a lo previsto en las disposiciones que regulan esta materia, cuando dicho importe no sea superior al importe fijado en el artículo 7 del IPREM mensual vigente en el momento del reintegro. Ello es aplicable, asimismo, en los casos de reintegros de prestaciones indebidamente percibidas que sean declarados procedentes en virtud de resolución judicial, salvo que en la misma se establezca otra cosa.
+
+#### Artículo 12. Finalización del procedimiento recaudatorio.
+
+1\. En aquellos casos en que, tras la aplicación del importe de las devoluciones de ingresos indebidos, pagos parciales de la deuda o cualquier otra causa que produzca idéntico efecto, la cuantía de la deuda resultante no exceda del importe del IPREM mensual fijado en el artículo 7, podrá ponerse fin al procedimiento recaudatorio en período voluntario o en vía ejecutiva sin exigir del sujeto responsable el pago de la cantidad pendiente y podrán ser anulados y dados de baja en contabilidad por la Tesorería General de la Seguridad Social los créditos correspondientes.
+
+2\. Cuando la deuda se encuentre en vía de apremio o se haya iniciado el procedimiento para su deducción frente a administraciones o entidades públicas, para la anulación y baja en contabilidad del crédito de la Tesorería General será necesario que la cuantía de la deuda a extinguir, a que se refiere el apartado anterior, sea la resultante de la suma del principal, recargo, intereses y costas del procedimiento, incorporada a cada expediente de apremio o de deducción en su conjunto y no a cada uno de los documentos o títulos que lo integren.
+
+Las unidades de recaudación ejecutiva y las direcciones provinciales de la Tesorería General de la Seguridad Social que resulten competentes formalizarán, respectivamente, la finalización de los procedimientos de apremio y de deducción mediante data, de carácter no rehabilitable, del título o títulos de los expedientes afectados, lo que motivará su baja en contabilidad.
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 13. Acumulación de deudas no superiores al 3 por 100 y, en su caso, al 20 por 100 del IPREM mensual y su recaudación voluntaria.
+
+No obstante lo dispuesto en los artículos precedentes de esta Sección, la Tesorería General de la Seguridad Social podrá acordar la acumulación de las deudas que no excedan del importe del IPREM mensual fijado en el artículo 7 al objeto de superar dicha cantidad, o la de tales deudas con otras de importe superior, siempre que todas ellas correspondan al mismo deudor, así como respecto de las que considere conveniente su liquidación, notificación y recaudación o se solicite su pago por los obligados a su cumplimiento.
+
+## Sección cuarta. Aval genérico y efectos del aplazamiento
+
+### Subsección 1.ª Aval genérico como garantía de deudas con la Seguridad Social
+
+#### Artículo 14. Delimitación.
+
+1\. A efectos de lo dispuesto en el artículo 29 del Reglamento General de Recaudación de la Seguridad Social, se entenderá por aval genérico aquel que, reuniendo los requisitos establecidos en el citado Reglamento General y en esta Orden, se presente como garantía para responder del pago de todas y cada una de las deudas presentes y futuras del sujeto responsable con la Tesorería General de la Seguridad Social.
+
+2\. Para que el aval genérico surta los efectos que se indican en el artículo 16 de la presente Orden deberá reunir los siguientes requisitos:
+
+1.º Habrá de ser solidario y formalizarse por entidades financieras de depósito o de crédito inscritas en el registro de bancos y banqueros o de cooperativas de crédito legalmente autorizadas.
+
+2.º Recogerá de forma expresa la renuncia a los beneficios de excusión y división.
+
+3.º Habrá de estar inscrito en el Registro Especial de Avales.
+
+4.º Establecerá expresamente su validez hasta que la Tesorería General de la Seguridad Social autorice su cancelación.
+
+#### Artículo 15. Procedimiento para la constitución y cancelación del aval genérico.
+
+1\. Las solicitudes de constitución de aval genérico se presentarán o remitirán a la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la misma que corresponda al código de cuenta de cotización principal del sujeto responsable, acompañando el aval correspondiente.
+
+Comprobado por la referida Dirección Provincial o Administración que el aval genérico reúne los requisitos establecidos en el artículo anterior, aceptará el mismo comunicándolo al sujeto responsable y tomando razón de su constitución en la base de datos correspondiente al objeto de permitir la expedición de certificaciones de estar al corriente. Si el aval presentado no reuniera los requisitos necesarios para darle validez se devolverá al sujeto responsable con indicación de las causas del rechazo.
+
+2\. Las solicitudes de cancelación del aval genérico se presentarán o remitirán a la misma Dirección Provincial o Administración de la Tesorería General de la Seguridad Social en la que quedó constituido, la cual procederá a autorizar su cancelación una vez comprobada la inexistencia de deuda a cargo del sujeto responsable.
+
+En caso de existir deuda pendiente a cargo del sujeto responsable, no se autorizará su cancelación y se procederá a la ejecución del aval genérico por el importe debido, conforme al procedimiento ejecutivo establecido.
+
+#### Artículo 16. Efectos del aval genérico.
+
+1\. La constitución del aval genérico determinará para el sujeto responsable la consideración de estar al corriente respecto de sus obligaciones de pago con la Seguridad Social, siempre que el importe avalado garantice suficientemente la deuda que pudiera producirse.
+
+Si tal deuda superase el importe del aval genérico constituido, en las certificaciones constará como importe de la deuda pendiente la diferencia entre la cuantía de ésta y el importe del referido aval.
+
+2\. En ningún caso la constitución del aval genérico suspenderá el procedimiento recaudatorio iniciado y no impedirá que se inicie frente al sujeto responsable que lo hubiera presentado, ejecutándose aquél si la deuda no fuera satisfecha antes de la finalización del plazo de ingreso fijado en la respectiva providencia de apremio.
+
+### Subsección 2.ª Efectos de la concesión del aplazamiento de deudas con la Seguridad Social
+
+#### Artículo 17. Consecuencias del aplazamiento e incidencias posteriores a su concesión.
+
+1\. Las empresas y demás sujetos responsables que tengan concedido aplazamiento para el pago de sus deudas con la Seguridad Social, en tanto no se produzca el incumplimiento a que se refiere el artículo 36 del Reglamento general de recaudación de la Seguridad Social, se considerarán al corriente de sus obligaciones con la Seguridad Social tanto a los efectos indicados en el artículo 31.3 de dicho reglamento como para el reconocimiento de prestaciones, conforme a lo previsto en el artículo 124.2 de la Ley General de la Seguridad Social, y las cuotas aplazadas serán computables para la cobertura del período previo de cotización exigido y, en su caso, para la determinación de la cuantía de aquéllas, siempre que el aplazamiento hubiere sido concedido con anterioridad al hecho causante de la prestación.
+
+La concesión de un nuevo aplazamiento para el pago de deudas que ya hubiesen sido objeto de otro anterior incumplido sólo producirá efectos respecto a las prestaciones de la Seguridad Social causadas con posterioridad a dicha concesión.
+
+2\. La concesión de un aplazamiento para el pago de las deudas con la Seguridad Social no impedirá que durante su vigencia puedan modificarse, a solicitud del beneficiario, las condiciones de amortización inicialmente establecidas, con sujeción a lo dispuesto en cuanto a su duración por el artículo 31.2 del Reglamento general de recaudación de la Seguridad Social.
+
+3\. Se podrá pedir el aplazamiento de deudas generadas con posterioridad al que se estuviera disfrutando, siempre que la solicitud se formule dentro del plazo reglamentario de ingreso de aquéllas. El nuevo aplazamiento, cuya tramitación y resolución se regirán por lo dispuesto en el Reglamento general de recaudación de la Seguridad Social, deberá incluir la totalidad de las deudas aplazables en el momento de la solicitud, de conformidad con el artículo 32.3 del citado reglamento.
+
+De resolver favorablemente la solicitud del nuevo aplazamiento, la Tesorería General de la Seguridad Social podrá unificar, de oficio o a petición del interesado, los plazos de amortización coincidentes de los aplazamientos concedidos.
+
+En el caso de que la solicitud del nuevo aplazamiento sea denegada, habiéndose agotado el plazo reglamentario de ingreso de la deuda, no se entenderá incumplido el aplazamiento del que se viniese disfrutando siempre que el ingreso de la citada deuda se realice dentro de los cinco días siguientes a la fecha de notificación de la resolución denegatoria.
+
+> Se añade el párrafo último al apartado 3 por el art. único.3 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+> Se modifica por el art. único.2 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 17 bis. Domiciliación del pago de aplazamientos.
+
+1\. Los beneficiarios de aplazamientos para el pago de deudas con la Seguridad Social deberán ingresar el importe de los correspondientes vencimientos mediante domiciliación bancaria en cuenta corriente o libreta de ahorro abierta en una entidad financiera autorizada para actuar como oficina recaudadora de la Seguridad Social, en los términos y condiciones establecidos en este artículo.
+
+No obstante lo dispuesto en el párrafo anterior, el pago de las cuotas inaplazables y del tercio de la deuda a que se refieren, respectivamente, los artículos 32.1 y 33.4.b) del Reglamento general de recaudación de la Seguridad Social, se realizará en la cuenta restringida de la unidad de recaudación ejecutiva que corresponda, mediante ingreso en efectivo, cheque o transferencia bancaria.
+
+2\. Durante la vigencia del aplazamiento, se podrá solicitar la modificación de la cuenta de domiciliación de pago. Dicha modificación surtirá efectos en función de la fecha de la presentación o de transmisión de la solicitud:
+
+a) Las solicitudes presentadas o transmitidas entre los días 1 y 10 de cada mes, tendrán efectos en ese mismo mes.
+
+b) Las solicitudes presentadas o transmitidas entre los días 11 y último de cada mes, surtirán efectos el mes siguiente.
+
+3\. Cuando se pretenda amortizar anticipadamente, de forma total o parcial, la deuda pendiente aplazada, el sujeto responsable deberá comunicarlo previamente a la Tesorería General de la Seguridad Social, al objeto de que ésta realice un nuevo cálculo del importe a ingresar, con los siguientes efectos:
+
+a) Las comunicaciones efectuadas entre los días 1 y 10 de cada mes, surtirán efectos en dicha mensualidad.
+
+b) Las comunicaciones efectuadas entre los días 11 y último de cada mes, surtirán efectos en la siguiente mensualidad.
+
+4\. La Tesorería General de la Seguridad Social comunicará mensualmente a las entidades colaboradoras el importe de los vencimientos que hayan de ser cargados en las cuentas correspondientes. Tales entidades, por las domiciliaciones de vencimientos que hayan sido autorizadas, abonarán con fecha valor del último día hábil de cada mes la totalidad del importe de dichos vencimientos, ingresándolos en la cuenta única de la Tesorería General de la Seguridad Social. Asimismo, habrán de remitir al obligado al pago el documento justificante del ingreso efectuado.
+
+El adeudo se efectuará en todo caso por el importe íntegro del vencimiento, sin que puedan realizarse cargos por importes parciales.
+
+> Se añade por el art. único.4 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+## Sección quinta. Cálculo y liquidación de intereses de demora
+
+#### Artículo 18. Deudas objeto de interés de demora.
+
+1\. El interés de demora regulado en los artículos 28 de la Ley General de Seguridad Social y 11 del Reglamento General de Recaudación de la Seguridad Social será de aplicación a todas las deudas con la Seguridad Social, constituidas por el importe de las cuotas y otros recursos objeto de gestión recaudatoria, así como por el de los recargos derivados de la falta de ingreso dentro de plazo reglamentario de tales cuotas y demás recursos.
+
+2\. El importe del interés de demora devengado y exigible se considerará deuda de Seguridad Social a efectos del pago y ejecución forzosa sobre el patrimonio del deudor, pero en ningún caso a efectos de la generación de nuevos intereses.
+
+#### Artículo 19. Devengo de intereses de demora.
+
+1\. La falta de pago en plazo reglamentario de los recursos objeto de la gestión recaudatoria de la Seguridad Social determinará el devengo de intereses de demora desde las siguientes fechas:
+
+a) El devengo de intereses sobre el principal de la deuda se iniciará el día siguiente al del vencimiento del respectivo plazo reglamentario de ingreso.
+
+b) El devengo de intereses sobre el recargo aplicable a dicho principal se iniciará el día siguiente al de finalización del plazo de los quince días naturales siguientes a la notificación de la providencia de apremio o a la comunicación del inicio del procedimiento de deducción.
+
+2\. El devengo de los intereses de demora, calculados en la forma y momento previstos en los artículos 21 y 22 de esta Orden, no se interrumpirá en los supuestos de suspensión del procedimiento recaudatorio por interposición de impugnación administrativa, por decisión judicial en el proceso contencioso-administrativo o por cualquier otra circunstancia.
+
+3\. Los intereses devengados conforme a lo señalado en los apartados anteriores, junto con el principal de la deuda, el recargo y las costas pendientes de pago, constituyen la totalidad del débito de Seguridad Social hasta el cumplimiento de la obligación de su pago, a efectos de determinar el alcance de la ejecución forzosa sobre el patrimonio del apremiado.
+
+#### Artículo 20. Exigibilidad de los intereses devengados.
+
+1\. Los intereses de demora serán exigibles, cuando no se haya abonado la deuda que los hubiese generado, una vez transcurridos quince días naturales desde la fecha de notificación de la providencia de apremio o de la comunicación del inicio del procedimiento de deducción.
+
+2\. Cuando no se hubiese abonado el importe de la deuda en el plazo fijado en las resoluciones desestimatorias de los recursos administrativos formulados contra las reclamaciones de deuda o actas de liquidación, si la ejecución de dichas resoluciones fuese suspendida en los trámites del recurso contencioso-administrativo que contra ellas se hubiese interpuesto, los intereses de demora serán exigibles a partir de la fecha en que se dicte resolución judicial desestimatoria de este último recurso.
+
+#### Artículo 21. Forma de cálculo del interés de demora.
+
+1\. El importe sobre el que se aplicará el tipo de interés de demora fijado en los artículos 28.3 de la Ley General de la Seguridad Social y 11.3 del Reglamento General de Recaudación de la Seguridad Social, vendrá constituido por el del principal de la deuda y por el del recargo aplicable, sin incluir en ningún caso el interés de demora devengado con anterioridad.
+
+2\. La determinación del importe de los intereses de demora devengados se efectuará mediante la aplicación de interés simple, con arreglo a la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2005/130/08986_001.png)
+
+Siendo:
+
+*Id*: Importe del interés de demora.
+
+*P*: Importe del principal de la deuda.
+
+*R*: Importe del recargo aplicable.
+
+*t*<sub>m + 1</sub> = *t*<sub>n + 1</sub>: Fecha correspondiente al último día del mes anterior a la liquidación de intereses de demora.
+
+tp<sup>p</sup><sub>0</sub>: Fecha inicial de devengo de intereses del principal.
+
+tr<sup>r</sup><sub>0</sub>: Fecha inicial de devengo de intereses del recargo.
+
+i<sup>p</sup><sub>j</sub>: Tipo de interés legal en tanto por ciento aplicable a partir de la fecha t<sup>p</sup><sub>j</sub>, para j = 0, 1, 2, ... <sub>m</sub>, correspondiente a la j-ésima variación de tipos de interés en el intervalo (t<sub>0'</sub>t<sub>m + 1</sub>).
+
+i<sup>r</sup><sub>k</sub>: Tipo de interés legal en tanto por ciento aplicable a partir de la fecha t<sup>r</sup><sub>k</sub>, para k = 0, 1, 2, ... <sub>n</sub>, correspondiente a la k-ésima variación de tipos de interés en el intervalo (t<sub>0'</sub>t<sub>n + 1</sub>).
+
+3\. El cálculo de los intereses devengados se podrá efectuar por meses naturales vencidos, sin considerar las fracciones inferiores, correspondientes a los días transcurridos del mes en que se efectúe el pago o se aplique el ingreso.
+
+#### Artículo 22. Momento del cálculo y liquidación.
+
+El cálculo y liquidación de los intereses de demora exigibles podrá realizarse:
+
+a) En el momento mismo del pago de la deuda apremiada, cuando éste sea realizado en las condiciones y con los requisitos establecidos en la providencia de apremio.
+
+A estos efectos, se entenderá que el pago se ha efectuado conforme a tales requisitos cuando el ingreso del importe adeudado se realice, por cualquiera de los medios de pago admitidos, en la cuenta restringida de la Unidad de Recaudación Ejecutiva competente para la tramitación del procedimiento de apremio, con todos los datos que permitan la completa identificación del apremiado y del débito objeto del ingreso.
+
+b) En el momento de la aplicación del ingreso no realizado en las condiciones a que se refiere la letra anterior o del líquido obtenido de la ejecución forzosa de bienes del apremiado o derivado del procedimiento de deducción.
+
+En este caso el ingreso se imputará al importe pendiente de los títulos vigentes en el momento de la aplicación y los intereses exigibles serán los que se hubiesen devengado hasta dicho momento.
+
+c) En cualquier momento en que la tramitación del procedimiento de apremio lo requiera.
+
+Esta circunstancia puede darse por iniciativa del propio sujeto responsable o de otra persona con interés legítimo en el procedimiento de apremio o por iniciativa de la Administración de la Seguridad Social en la tramitación del proceso recaudatorio.
+
+#### Artículo 23. Interés de demora en los mandamientos y notificaciones.
+
+1\. En la providencia de apremio o comunicación del inicio del procedimiento de deducción bastará con indicar la cuantía de la deuda por principal y recargo, advirtiendo al deudor de la exigibilidad de intereses de demora en caso de falta de pago de la deuda, indicando el cómputo de tiempo de su devengo, sin que sea necesaria la cuantificación expresa del importe de tales intereses.
+
+2\. En las notificaciones tanto de diligencias como de mandamientos de embargo contra los bienes y derechos del apremiado habrá de figurar el importe de los débitos exigibles, en concepto de principal, recargo aplicable, costas e intereses de demora devengados hasta el momento de su emisión.
+
+3\. En caso de embargo de dinero en cuentas abiertas en entidades de crédito, ahorro o financiación, el mandamiento de embargo, tanto si es objeto de presentación física como si es remitido por medios telemáticos, podrá incluir la totalidad de los intereses de demora exigibles hasta la fecha prevista para el ingreso de los importes retenidos, advirtiéndose al deudor en la notificación del embargo de esta circunstancia.
+
+Igualmente, en el procedimiento de deducción que se siga contra entidades públicas podrá incluirse, en el acuerdo de retención, el importe de los intereses de demora exigibles hasta la fecha prevista para la aplicación de la retención.
+
+## Sección Sexta. Formas y medios de pago
+
+#### Artículo 24. Consignación de las deudas con la Seguridad Social.
+
+1\. En los casos en que proceda la consignación del importe de la deuda conforme a lo previsto en los artículos 20 y 46.2 del Reglamento General de Recaudación de la Seguridad Social, la misma se efectuará mediante ingreso en la Caja General de Depósitos o en entidad financiera, a disposición de la Tesorería General de la Seguridad Social y en la cuenta que ésta determine.
+
+2\. El resguardo de la consignación o, en su caso, el documento justificativo de la misma quedará bajo custodia del órgano que hubiera dictado el acto al que aquélla se refiera, el cual expedirá el oportuno justificante de su entrega al que hubiera efectuado la consignación.
+
+#### Artículo 25. Pago mediante cheque.
+
+Cuando el pago de las deudas con la Seguridad Social se efectúe mediante cheque en los términos regulados en el artículo 22 del Reglamento General de Recaudación de la Seguridad Social, los cheques extendidos a favor de la Tesorería General de la Seguridad Social podrán ser hechos efectivos no sólo por los órganos centrales sino también por los órganos competentes de las Direcciones Provinciales de dicho Servicio Común, incluidas las Administraciones de las mismas y, en su caso, las Unidades de Recaudación Ejecutiva de la Seguridad Social.
+
+## Sección Séptima. Revisión de los Actos de Gestión Recaudatoria
+
+#### Artículo 26. Revisión de oficio y rectificación de errores.
+
+1\. De conformidad con lo dispuesto en el artículo 47 del Reglamento general de recaudación de la Seguridad Social, en tanto no haya transcurrido el plazo de prescripción, los órganos de la Tesorería General de la Seguridad Social podrán adoptar de oficio las medidas necesarias para la adecuación de sus actos recaudatorios a las normas establecidas o revocar en cualquier momento sus actos de gravamen o desfavorables mediante su revisión de oficio, sin perjuicio de que los interesados puedan promover su iniciación por el órgano competente de la Tesorería General de la Seguridad Social.
+
+a) Es competente para tramitar la revisión de oficio de los actos de gestión recaudatoria, tanto en período voluntario como en vía ejecutiva, el mismo órgano que los hubiera dictado.
+
+Dicho órgano dará audiencia al interesado, advirtiéndole que podrá formular alegaciones y aportar los documentos y justificantes que estime pertinentes en el plazo de quince días.
+
+Asimismo, el órgano de la Tesorería General de la Seguridad Social que tramite el expediente de revisión de oficio podrá acordar la prueba y solicitar los informes que considere pertinentes.
+
+b) El órgano competente para tramitar el procedimiento de revisión formulará propuesta al órgano competente para resolver.
+
+Es órgano competente para dictar la resolución que proceda el inmediato superior jerárquico del autor del acto.
+
+Las resoluciones serán motivadas, con sucinta referencia de hechos y fundamentos de derecho, fijarán los efectos de la revisión y se notificarán a los interesados conforme a lo establecido en los artículos 58 y 59 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Cuando se declare la revocación de determinadas actuaciones del procedimiento recaudatorio, se dispondrá la conservación de las no afectadas por la misma.
+
+2\. La Tesorería General de la Seguridad Social podrá rectificar en cualquier momento del procedimiento recaudatorio los errores materiales o de hecho y los aritméticos de sus actos, siempre que no hubiera transcurrido el plazo de prescripción.
+
+a) Son errores de este carácter que pueden dar lugar a su rectificación los errores en el código de cuenta de cotización, número de inscripción o número de afiliación a la Seguridad Social o período de liquidación que consta en los documentos de ingreso, los errores de hecho que resulten de los propios documentos del expediente, así como cualquier otro error material o de hecho y aritmético para cuya apreciación no se requiera aplicar criterios de interpretación o valoración de las normas jurídicas aplicables, que se observe de forma manifiesta y evidente teniendo en cuenta únicamente los datos de la reclamación administrativa o del acto administrativo de que se trate o bien del expediente, que afecte a elementos accidentales del acto sin proyectarse sobre su contenido fundamental y en el que, después de corregido el error, el acto conserve sus efectos sin implicar una revocación del mismo.
+
+b) Cuando el procedimiento de rectificación de errores se hubiere iniciado de oficio y la rectificación se realice en beneficio de los interesados se podrá notificar directamente a éstos la decisión que se adopte.
+
+Cuando el procedimiento se hubiere iniciado a instancia del interesado, el órgano que hubiere dictado el acto o, en otro caso, su superior jerárquico podrá resolver directamente lo que proceda, cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos, alegaciones o pruebas que los presentados por el interesado. En otro caso, deberá notificarse a éste la propuesta de resolución para que el mismo alegue lo que a su derecho convenga en el plazo de quince días.
+
+> Se modifica el párrafo primero del apartado 1 por el art. único.3 de la Orden TAS/3512/2007 de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+## Sección octava. Normas particulares sobre recaudación en período voluntario
+
+### Subsección 1.ª Normas sobre forma y lugar del pago de cuotas
+
+> Se modifica por el art. único.5 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 27. Forma del pago de cuotas.
+
+1\. De conformidad con lo previsto en los artículos 58 y 59 del Reglamento general de recaudación de la Seguridad Social, los documentos de cotización deberán ser cumplimentados o, en su caso, sus datos habrán de ser suministrados por los sujetos responsables del pago de las liquidaciones de cuotas correspondientes, a través de los medios y sistemas y con las formalidades que establezca la Tesorería General de la Seguridad Social.
+
+Cuando los datos para determinar la cotización hayan de transmitirse por medios electrónicos, dicha transmisión deberá realizarse en las condiciones y con los efectos establecidos en la Orden de 3 de abril de 1995, sobre uso de tales medios en relación con la inscripción de empresas, afiliación, altas y bajas de trabajadores, cotización y recaudación en el ámbito de la Seguridad Social, o norma que la sustituya, así como en sus disposiciones de aplicación y desarrollo.
+
+2\. La Tesorería General de la Seguridad Social emitirá los documentos electrónicos de cotización correspondientes a las liquidaciones de cuotas relativas a las empresas y otros sujetos responsables encuadrados en regímenes de la Seguridad Social y pertenecientes a colectivos incorporados voluntaria u obligatoriamente al Sistema de Remisión Electrónica de Datos (Sistema RED) que hagan uso efectivo de éste, y los pondrá a disposición de los sujetos autorizados a través de dicho sistema, siempre que las posibilidades técnicas así lo permitan y no hubiesen optado por la domiciliación en cuenta como modalidad de pago.
+
+3\. La Tesorería General de la Seguridad Social emitirá los documentos electrónicos de cotización correspondientes a las liquidaciones de cuotas de los Regímenes Especiales de los Trabajadores por Cuenta Propia o Autónomos y de Empleados de Hogar; de los trabajadores por cuenta propia incluidos en el Régimen Especial de los Trabajadores del Mar; de los trabajadores incluidos en el Régimen Especial Agrario de la Seguridad Social, respecto de los periodos de inactividad agraria por los que resulten responsables del ingreso de las cuotas, y de los convenios especiales con la Seguridad Social, y los pondrá a disposición de los sujetos responsables de su ingreso en las direcciones provinciales de la Tesorería General de la Seguridad Social y administraciones de la Seguridad Social o en los demás lugares que determine el Director General de dicho servicio común de la Seguridad Social, siempre que no hubiesen optado por la domiciliación en cuenta como modalidad de pago.
+
+Cuando se produzcan incrementos en las cuotas, en relación con las figuradas en los documentos de cotización emitidos y puestos a disposición por la Tesorería General de la Seguridad Social, los sujetos responsables ingresarán en la oficina recaudadora las cantidades liquidadas en dichos documentos sin modificación alguna hasta tanto se emitan y se pongan a su disposición los nuevos documentos de cotización con las diferencias que se hubieran producido. Dicha liquidación complementaria deberá ser satisfecha por el sujeto responsable dentro del mes siguiente al de la recepción de tales documentos, salvo que en éstos se fije otro plazo de ingreso.
+
+4\. Si los sujetos responsables a que se refieren los apartados 2 y 3 optasen por pagar las cuotas por el sistema de domiciliación en cuenta, las entidades financieras autorizadas para actuar como entidades colaboradoras pondrán a su disposición el documento justificativo del pago realizado.
+
+5\. Lo establecido en los apartados anteriores no liberará a los sujetos responsables del pago de las cuotas del deber de cumplir su obligación de cotizar dentro del plazo reglamentario, incurriendo, en otro caso, en el recargo, intereses e infracciones que procedan.
+
+> Se modifica por el art. único.5 de la Orden TIN/2777/2010, de 29 de octubre.[Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+> Se modifica el apartado 1.b) por el art. único.4 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 28. Obligación de incorporación al Sistema RED e incidencia del uso de medios electrónicos en la adquisición y mantenimiento de beneficios en la cotización.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden ESS/484/2013, de 26 de marzo. [Ref. BOE-A-2013-3362](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3362).
+
+> Se modifica por el art. único.5 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 29. Lugar del pago de cuotas.
+
+1\. El ingreso de las cuotas en los plazos reglamentarios establecidos se efectuará mediante la presentación en la oficina recaudadora autorizada del documento o documentos de cotización, sin perjuicio de las particularidades previstas para su ingreso mediante los sistemas de domiciliación en cuenta y pago por documento electrónico de cotización.
+
+2\. Los sujetos responsables del cumplimiento de la obligación de cotizar que, no estando obligados a ello, no se hayan incorporado al Sistema RED, requerirán autorización expresa de la dirección provincial de la Tesorería General de la Seguridad Social o de la administración de la Seguridad Social para efectuar dentro de plazo reglamentario los ingresos de las liquidaciones de cuotas a que se refiere el apartado 1.c), en su ordinales 2.º, 3.º y 4.º, del artículo 56 del Reglamento general de recaudación de la Seguridad Social, previa comprobación de que concurre el supuesto de que se trate.
+
+3\. Las entidades colaboradoras en la gestión recaudatoria de la Seguridad Social no podrán admitir el ingreso de cuotas en forma distinta a las previstas en esta orden, o sin los requisitos o formalidades establecidos por la Tesorería General de la Seguridad Social, salvo autorización previa de ésta.
+
+> Se modifica por el art. único.5 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 30. Domiciliación del pago de cuotas en las oficinas recaudadoras.
+
+1\. Los sujetos responsables del cumplimiento de la obligación de cotizar podrán domiciliar el pago de sus cuotas en cualquiera de las entidades financieras autorizadas para actuar como oficinas recaudadoras, conforme al procedimiento establecido al efecto por la Tesorería General de la Seguridad Social para el régimen de que se trate.
+
+La autorización a las entidades financieras para actuar como órgano colaborador en la gestión recaudatoria estará condicionada a la prestación por éstas de dicho servicio.
+
+a) Las empresas, agrupaciones de empresas y demás sujetos responsables del cumplimiento de la obligación de cotizar que, de forma voluntaria u obligatoria, estén incorporados de manera efectiva al Sistema RED podrán solicitar la domiciliación del pago de las cuotas cuando ello esté previsto por la Tesorería General de la Seguridad Social.
+
+Dichas solicitudes deberán formularse en los plazos, términos y condiciones que determine la Tesorería General de la Seguridad Social, con indicación, en todo caso, de la entidad financiera y del código de cuenta de cliente en que se desea cargar el importe de la liquidación correspondiente.
+
+La Tesorería General de la Seguridad Social efectuará la liquidación de cuotas cuya domiciliación se haya solicitado y transmitirá información del importe a ingresar a través del Sistema RED al respectivo autorizado.
+
+De no optarse por la domiciliación, el ingreso de las cuotas deberá realizarse obligatoriamente mediante el correspondiente documento electrónico generado y puesto a disposición del interesado por la Tesorería General de la Seguridad Social, salvo en los casos en que ésta no pueda proceder a la generación de dicho documento, siendo de aplicación, en tal caso, lo previsto en el artículo 27.5.
+
+b) Los sujetos responsables del cumplimiento de la obligación de cotizar incluidos en los Regímenes Especiales de los Trabajadores por Cuenta Propia o Autónomos, de Empleados de Hogar, de los Trabajadores del Mar, en el caso de trabajadores por cuenta propia, y en el Régimen Especial Agrario, respecto de los periodos de inactividad en los que los trabajadores resultan responsables del ingreso de las cuotas, así como en los supuestos de suscripción de convenio especial con la Seguridad Social y, en su caso, en otros que determine la Tesorería General de la Seguridad Social, podrán domiciliar el pago de las cuotas conforme a lo previsto en este artículo, en los términos y con los efectos siguientes:
+
+1.º La domiciliación del pago de cuotas, cuya solicitud podrá dirigirse a la Tesorería General de la Seguridad Social o a las entidades financieras autorizadas, será válida hasta que se comunique la baja en dicho sistema de pago, no requiriéndose una nueva solicitud para cada período de liquidación.
+
+2.º La Tesorería General de la Seguridad Social facilitará un justificante de la solicitud presentada en el que se indicará la fecha de efectos de la domiciliación y el mes en el que se realizará el primer adeudo en cuenta, salvo que dicha solicitud se hubiese presentado ante la entidad financiera, en cuyo caso surtirá efectos a partir del mes siguiente al de su presentación. Los ulteriores cambios en la domiciliación tendrán idénticos efectos.
+
+3.º Las solicitudes de baja en la domiciliación surtirán efectos desde la fecha en ellas señalada, que en ningún caso podrá ser anterior al mes siguiente al de su presentación.
+
+Cuando los sujetos responsables a que se refiere este párrafo b) no opten por la domiciliación, deberán ingresar las cuotas mediante el correspondiente documento electrónico de pago puesto a su disposición por la Tesorería General de la Seguridad Social, en los términos señalados en el artículo 27.
+
+2\. La Tesorería General de la Seguridad Social comunicará mensualmente a las entidades financieras el importe de las cotizaciones a efectuar por los sujetos responsables del cumplimiento de la obligación de cotizar que tengan domiciliado en aquéllas el pago de las cuotas, con el fin de que quede ingresado su importe dentro del plazo reglamentario establecido.
+
+3\. Las entidades financieras abonarán, por las domiciliaciones de cuotas que hayan sido autorizadas y con fecha valor del último día hábil de cada mes, la totalidad del importe de las cuotas devengadas correspondientes, ingresándolas en la cuenta única de la Tesorería General en la forma y con los efectos reglamentariamente establecidos. Asimismo, habrán de remitir al sujeto responsable el documento justificante del pago realizado.
+
+4\. Cuando por error imputable a una entidad financiera el ingreso no se hubiera realizado en plazo reglamentario, los perjuicios causados se compensarán conforme a lo previsto en la autorización de colaboración y, en su caso, consistirán en el pago, con cargo a la entidad financiera, del interés legal desde la fecha en que el importe de la deuda debió ponerse a disposición de la Tesorería General de la Seguridad Social hasta que dicho ingreso sea realmente disponible por la misma.
+
+> Se modifica por el art. único.5 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 31. Documento electrónico de pago.
+
+1\. En los supuestos previstos en los apartados 2 y 3 del artículo 27, la Tesorería General de la Seguridad Social emitirá documentos electrónicos de cotización para el pago de las cuotas. Dichos documentos serán los únicos válidos para efectuar su ingreso en las entidades financieras, bien mediante su presentación directa en éstas, bien a través de los canales de pago que dichas entidades tengan habilitados, tales como cajeros, banca telefónica o electrónica u otros similares.
+
+Los ingresos realizados por medio de esos canales de pago en sábados, domingos o festivos se entenderán realizados en días hábiles, a efectos de lo establecido en el artículo 8.b) del Reglamento general de recaudación de la Seguridad Social.
+
+2\. Los sujetos responsables del ingreso de las cuotas de la Seguridad Social a que se refieren los apartados 2 y 3 del artículo 27, que no opten por la domiciliación en cuenta como forma de pago de las cuotas correspondientes a cada período, sólo podrán efectuar dicho ingreso mediante el documento electrónico de cotización emitido y puesto a su disposición por la Tesorería General de la Seguridad Social en la forma prevista en dicho artículo, salvo en los casos en que ésta no pueda proceder al cálculo de la correspondiente liquidación por causas no imputables al sujeto obligado.
+
+> Se modifica por el art. único.5 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+### Subsección 2.ª Relaciones de las entidades financieras con la Tesorería y sujetos obligados y de la Tesorería General con las Mutuas y las Entidades Gestoras de los conceptos de recaudación conjunta
+
+#### Artículo 32. Actuación de las entidades financieras en relación con las empresas y demás responsables.
+
+1\. Las entidades financieras autorizadas para actuar como oficinas recaudadoras, en el momento de la presentación de los documentos de cotización y pago, efectuarán las siguientes comprobaciones:
+
+a) Que en el documento o los documentos de cotización y pago figuran todos los datos de identificación del empresario o sujeto responsable del pago, incluido, en su caso, el código de cuenta de cotización asignado al mismo por la Tesorería General de la Seguridad Social.
+
+b) Que se presenta el número de ejemplares requerido de los modelos aprobados por la Tesorería General de la Seguridad Social.
+
+c) Que el importe ingresado se corresponde con el que figura en el documento de cotización y pago.
+
+2\. En el momento del ingreso de las deudas con la Seguridad Social, las entidades financieras devolverán a los empresarios o sujetos responsables que lo hubieran realizado un ejemplar del documento o documentos de cotización y pago presentados o, en su caso, un justificante del ingreso realizado.
+
+3\. En el supuesto de que el ingreso de las deudas con la Seguridad Social se realice mediante los sistemas de domiciliación en cuenta o pago por documento electrónico de cotización, no procederá realizar las actuaciones indicadas en los apartados anteriores sino las previstas para dichos sistemas de pago, debiendo las entidades financieras entregar a los empresarios o sujetos responsables, en todo caso, el correspondiente justificante del ingreso realizado.
+
+> Se modifica el apartado 3 por el art. único.6 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 33. Relación de las entidades financieras con la Tesorería General de la Seguridad Social.
+
+1\. En el ámbito provincial, las relaciones entre las entidades financieras autorizadas para actuar como oficinas recaudadoras y la Tesorería General de la Seguridad Social se mantendrán a través de la oficina principal que aquéllas tengan en cada provincia, a cuyo efecto dicha oficina recibirá de las restantes sucursales o agencias la documentación que haya sido presentada en las mismas.
+
+Cuando alguna entidad financiera autorizada no dispusiere de oficina o dependencia en la provincia, al remitir la documentación recaudatoria, si no lo hubiere efectuado con anterioridad, deberá indicar la oficina de relación con la Tesorería General de la Seguridad Social en dicha provincia.
+
+2\. En todo caso, las entidades financieras deberán remitir la documentación recaudatoria al centro o unidad que determine la Tesorería General de la Seguridad Social a efectos del tratamiento y control centralizado de los datos recaudatorios. En estos supuestos, las relaciones con cada entidad financiera se mantendrán exclusivamente a través de la oficina principal que a tales efectos se designe por la misma.
+
+#### Artículo 34. Forma y plazos de remisión de la documentación recaudatoria a la Tesorería General de la Seguridad Social.
+
+1\. Las oficinas principales de las entidades financieras autorizadas, remitirán al centro o unidad determinado por la Tesorería General de la Seguridad Social o, en su caso, a las respectivas Direcciones Provinciales, toda la información y documentación recaudatoria presentada por las empresas y sujetos responsables durante el mes anterior, en los plazos indicados en el Reglamento General de la Gestión Financiera de la Seguridad Social y demás normas complementarias, y abonarán el importe de los ingresos en la cuenta única centralizada de la Tesorería General de la Seguridad Social en los términos indicados en el citado Reglamento General.
+
+La información y documentación a que se refiere el párrafo anterior deberá ir acompañada de la siguiente documentación complementaria:
+
+a) Relación de operaciones por importes líquidos.
+
+b) Relación de operaciones por importes íntegros.
+
+Ambas relaciones irán destinadas a la Tesorería General de la Seguridad Social e incluirán, sin solución de continuidad, las liquidaciones figuradas en los boletines de cotización a la Seguridad Social. Dichas relaciones se realizarán conforme a las instrucciones dadas por la Tesorería General de la Seguridad Social a las entidades financieras, utilizándose cuando así se indique por la misma, soportes informáticos.
+
+c) Resumen de las relaciones de operaciones por importes líquidos.
+
+d) Resumen de las relaciones de operaciones por importes íntegros.
+
+De ambos resúmenes, con destino a la Tesorería General de la Seguridad Social, se cumplimentarán los ejemplares indicados por la Tesorería General de la Seguridad Social.
+
+e) Estado mensual de recaudación.
+
+En este documento sobre la situación mensual de la recaudación deberá consignarse el importe total de los ingresos formalizados en el mes de que se trate.
+
+El importe total formalizado deberá coincidir necesariamente con la suma de los importes de las liquidaciones figurados en los documentos de cotización amparados por las relaciones de operaciones antes indicadas.
+
+2\. Las entidades financieras autorizadas para actuar como oficinas recaudadoras deberán ajustar su actuación a las normas contenidas en los Reglamentos Generales de Recaudación y de la Gestión Financiera de la Seguridad Social, en sus respectivas Órdenes de desarrollo y en las resoluciones e instrucciones de carácter general dictadas al efecto por la Dirección General de la Tesorería General de la Seguridad Social.
+
+#### Artículo 35. Relaciones de la Tesorería General con las Mutuas y Entidades Gestoras de los conceptos de recaudación conjunta con las cuotas de la Seguridad Social.
+
+1\. Con cargo a las cuotas recaudadas y dentro del proceso recaudatorio, la Tesorería General de la Seguridad Social hará efectivas a cada una de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social las cuotas que respectivamente le correspondan, previas las deducciones que procedan por obligaciones que aquéllas deban satisfacer dentro del Sistema de la Seguridad Social y una vez efectuadas, en su caso, las rectificaciones pertinentes por errores en anteriores operaciones o diferencias entre las estimaciones de recaudación y retenciones cautelares realizadas y las liquidaciones definitivas.
+
+2 Asimismo, la Tesorería General de la Seguridad Social retendrá el importe a que asciendan los conceptos de recaudación conjunta con las cuotas de la Seguridad Social para su liquidación e ingreso en favor de las Entidades Gestoras de estos conceptos, previas las deducciones que procedan.
+
+3\. A efectos de lo dispuesto en los números precedentes, los órganos Centrales de la Tesorería General de la Seguridad Social y las Direcciones Provinciales de la misma podrán efectuar los traspasos interinstitucionales de las cuotas recaudadas, por errores de aplicación, que resulten procedentes, debiendo comunicarse aquéllos a las Entidades afectadas.
+
+### Subsección 3.ª Supuestos especiales de liquidación y pago de cuotas
+
+> Se modifica por el art. único.7 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 36. Presentación de documentos de cotización en plazo reglamentario sin ingreso de cuotas.
+
+El empresario que prevea la imposibilidad de ingresar dentro de plazo reglamentario la totalidad de las cuotas debidas a la Seguridad Social tendrá, en todo caso, la obligación de presentar los documentos de cotización en dicho plazo.
+
+En tales supuestos, la presentación de documentos de cotización en plazo reglamentario tendrá los siguientes efectos:
+
+1\. Respecto a la compensación de prestaciones abonadas en régimen de pago delegado:
+
+En aquellos regímenes del sistema de la Seguridad Social en que esté prevista la colaboración obligatoria de las empresas en la gestión de la Seguridad Social, los empresarios o sujetos responsables podrán compensar las cantidades abonadas como consecuencia de dicha colaboración con el importe de las cuotas devengadas en idéntico período, al que se refieran los documentos de cotización.
+
+En estos documentos se harán constar el importe de las prestaciones correspondientes a cada contingencia que haya sido satisfecho y el importe de la liquidación de cuotas, extinguiéndose ambos en la cantidad concurrente y figurando en las liquidaciones la deuda con la Seguridad Social resultante, sobre la que se aplicará el recargo correspondiente en función del momento en que se efectúe su ingreso.
+
+No obstante, el importe de las prestaciones a las que tengan derecho los representantes de comercio, los artistas y los profesionales taurinos no podrá ser compensado en los documentos de cotización, aunque concurran los requisitos y condiciones establecidos en el artículo 60 del Reglamento general de recaudación de la Seguridad Social y en esta orden, al satisfacerse tales prestaciones directamente a los beneficiarios por la entidad gestora o colaboradora de la Seguridad Social responsable de ellas, conforme a lo dispuesto en el artículo 14 de la Orden de 20 de julio de 1987, por la que se desarrolla el Real Decreto 2621/1986, de 24 de diciembre, sobre integración de regímenes especiales, en materia de campo de aplicación, inscripción de empresas, afiliación, altas y bajas, cotización y recaudación.
+
+Fuera de este supuesto, los sujetos responsables no podrán realizar ninguna otra compensación de sus créditos con sus deudas por cuotas en los documentos de cotización presentados sin ingreso, sin perjuicio de su derecho a la satisfacción de tales créditos en la forma que proceda.
+
+La Dirección General de la Tesorería General de la Seguridad Social podrá autorizar la compensación del importe de la prestaciones abonadas en régimen de pago delegado que no hubiera podido efectuarse en los documentos de cotización presentados en plazo reglamentario, en documentos de cotización correspondientes a los períodos de cotización que señale dicha Tesorería General siempre que se ingresen en plazo reglamentario y que se remita, con carácter previo, una resolución definitiva de la entidad gestora de la Seguridad Social reconociendo el derecho al resarcimiento.
+
+Asimismo, la Dirección General de la Tesorería General de la Seguridad Social, a la vista de las circunstancias concurrentes en la empresa o sujeto responsable y previa petición de éstos, podrá autorizar con carácter general e indefinido la compensación de las prestaciones abonadas en régimen de pago delegado en documentos de cotización que se presenten en plazo reglamentario y se refieran a periodos distintos de aquellos a los que correspondan. Las autorizaciones concedidas no supondrán en ningún caso una alteración del procedimiento previsto en cada momento para el reconocimiento de las citadas prestaciones, en especial de los plazos establecidos para la presentación de la documentación que sea preceptiva a efectos de tal reconocimiento. En todo caso, estas autorizaciones y sus revocaciones se pondrán en conocimiento de la entidad gestora o colaboradora afectada por ellas, a través del procedimiento que se establezca.
+
+2\. Respecto a la deducción por beneficios en la cotización a la Seguridad Social:
+
+Los empresarios y demás sujetos responsables que, de conformidad con lo establecido en las normas vigentes, puedan aplicarse deducciones en las cuotas a la Seguridad Social por reducciones, bonificaciones o cualesquiera otros beneficios en la cotización, de conformidad con lo establecido en el artículo 77.Dos de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, perderán los beneficios correspondientes al mes de que se trate si no ingresan en plazo reglamentario las cuotas de la Seguridad Social y por conceptos de recaudación conjunta relativas a los trabajadores a que tales beneficios se refieran, no pudiendo deducir su importe en los documentos de cotización presentados en dicho plazo, salvo cuando hubieran solicitado dentro de éste el aplazamiento de las cuotas a que se refiera la liquidación y se hubiese concedido tal aplazamiento.
+
+No obstante, cuando la deducción no hubiese podido practicarse en los documentos de cotización presentados y pagados en plazo reglamentario, los empresarios y demás sujetos responsables podrán solicitar a la Tesorería General de la Seguridad Social la devolución de su importe previa resolución de la entidad gestora correspondiente reconociendo el derecho a los beneficios en la cotización, salvo cuando éstos se concedan automáticamente en virtud de las disposiciones que resulten aplicables.
+
+3\. Respecto a los recargos sobre las cuotas de la Seguridad Social:
+
+Si se presentaran los documentos de cotización en plazo reglamentario pero no se ingresaran dentro de él las cuotas correspondientes, se devengarán los recargos previstos en el artículo 10.1.a) del Reglamento general de recaudación de la Seguridad Social.
+
+> Se modifica por el art. único.7 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+> Se modifica el párrafo segundo del apartado 1.b) de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 36.bis. Aplicación indebida de compensaciones y deducciones.
+
+Si en los documentos de cotización presentados dentro del plazo reglamentario se hubieran aplicado indebidamente deducciones o compensaciones que no sean debidas a errores materiales o de cálculo y que no hayan sido objeto de reclamación administrativa conforme al artículo 62.1.c) del Reglamento general de recaudación de la Seguridad Social, pero que, tratándose de deducciones, resulten improcedentes según los datos obrantes en la Tesorería General de la Seguridad Social o, en el caso de compensaciones, resulten declaradas improcedentes por la entidad u órgano al que corresponda el reconocimiento, la denegación y el control de las prestaciones compensadas en dichos documentos, la Tesorería General de la Seguridad Social recaudará el importe de tales compensaciones o deducciones indebidas mediante la correspondiente reclamación de deuda efectuada en los términos establecidos en los artículos 62 y siguientes del citado Reglamento general.
+
+En el supuesto regulado en el artículo 31.1.d) de la Ley General de la Seguridad Social, relativo a la aplicación indebida de las bonificaciones en la cotización previstas para la financiación de las acciones formativas del subsistema de formación profesional para el empleo, los importes indebidamente deducidos se reclamarán mediante acta de liquidación extendida por la Inspección de Trabajo y Seguridad Social y elevada a definitiva por la Tesorería General de la Seguridad Social.
+
+> Se añade por el art. único.7 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 37. Presentación de documentos de cotización en plazo reglamentario con ingreso de la aportación de los trabajadores.
+
+De acuerdo con lo establecido en el artículo 19.1 del Reglamento general de recaudación de la Seguridad Social, el empresario que prevea la imposibilidad de ingresar dentro de plazo reglamentario la totalidad de las cuotas debidas a la Seguridad Social podrá efectuar exclusivamente, en dicho plazo, el ingreso separado de las fracciones de cuotas correspondientes a las aportaciones de sus trabajadores, conforme al procedimiento que establezca la Tesorería General de la Seguridad Social.
+
+Fuera del supuesto previsto en el párrafo anterior y sin perjuicio de lo dispuesto en materia de aplazamientos, el ingreso separado de la aportación del trabajador no podrá tener consideración de pago de dicha fracción de la cuota.
+
+> Se modifica por el art. único. 7 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Artículo 38. Presentación de documentos de cotización con saldo acreedor.
+
+1\. Los empresarios y demás sujetos responsables cuyas liquidaciones de cuotas a la Seguridad Social arrojen un saldo acreedor por haber compensado prestaciones en régimen de pago delegado o por haber efectuado deducciones que tuvieran concedidas y no hubiesen perdido, estarán obligados a presentar los documentos de cotización en la dirección provincial de la Tesorería General de la Seguridad Social o administración de la Seguridad Social que corresponda, o bien a través del Sistema RED, en el caso de sujetos incorporados a dicho sistema de forma obligatoria o voluntaria, indicando la entidad financiera y el código de cuenta de cliente en que se desea que se realice el abono.
+
+2\. Si la liquidación acreedora fuera considerada provisionalmente procedente por la Tesorería General de la Seguridad Social y el empresario o sujeto responsable se hallara al corriente en el pago de sus cuotas, se autorizará la devolución del saldo por el que aquél resulte acreedor, abonándose mediante transferencia bancaria.
+
+No obstante, cuando el empresario o sujeto responsable se hallase al corriente en el pago de sus deudas por tener concedido aplazamiento o moratoria para su ingreso, el importe de la liquidación acreedora se aplicará a la deuda pendiente de amortización.
+
+Si la liquidación resultara procedente pero el empresario o sujeto responsable no se hallara al corriente en el pago de sus cuotas, el importe de la liquidación acreedora se aplicará al descubierto o descubiertos existentes, comenzando por el más antiguo de entre los que se encuentren pendientes y con aplicación, en su caso, de lo dispuesto en el artículo 52 del Reglamento general de recaudación de la Seguridad Social.
+
+Si la liquidación acreedora efectuada por el empresario o sujeto responsable, que la Tesorería General de la Seguridad Social hubiera considerado provisionalmente procedente, fuera declarada después improcedente por resolución firme de la entidad gestora de las prestaciones compensadas o a la que corresponda el reconocimiento o el control definitivo de las deducciones efectuadas en los documentos de cotización, una vez comunicada dicha resolución definitiva a la dirección provincial de la Tesorería General de la Seguridad Social o administración de la Seguridad Social, ésta procederá a su reclamación mediante la correspondiente reclamación de deuda, conforme a lo establecido en el artículo 62.1.c) del Reglamento general de recaudación de la Seguridad Social.
+
+3\. Si la liquidación acreedora efectuada por el empresario o sujeto responsable fuese considerada provisionalmente improcedente por la Tesorería General de la Seguridad Social, pero continuase arrojando saldo acreedor, se pondrá este hecho en conocimiento del sujeto responsable procediéndose en la forma indicada en el apartado anterior, según corresponda.
+
+Sin embargo, si la liquidación acreedora considerada provisionalmente improcedente no constituyera finalmente saldo acreedor, el sujeto responsable deberá ingresar el débito resultante, ya sea sin recargo o incrementándolo con el que proceda.
+
+En este caso, el posible derecho al resarcimiento de las cantidades abonadas por el sujeto obligado como consecuencia de su colaboración obligatoria con la Seguridad Social y al de las bonificaciones y reducciones que la dirección provincial de la Tesorería General o administración de la Seguridad Social considere provisionalmente aplicadas de forma improcedente en los documentos de cotización, podrá ejercitarse ante la entidad gestora o colaboradora que corresponda.
+
+4\. Las actuaciones de comprobación de la Tesorería General de la Seguridad Social a que se refieren los apartados precedentes no implicarán la conformidad de ésta respecto de los datos declarados y aplicados por el sujeto responsable en las liquidaciones contenidas en los documentos de cotización.
+
+Asimismo, las referidas actuaciones tendrán el carácter de liquidaciones provisionales, sujetas a revisión si se estimara la impugnación formulada al respecto o, en su caso, como consecuencia de la resolución definitiva de la entidad gestora competente que afecte y modifique tales liquidaciones de la dirección provincial o administración de la Tesorería General de la Seguridad Social.
+
+> Se modifica por el art. único.7 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+> Se suprime el párrafo segundo del apartado 1 por el art. único.6 de la Orden TAS/3512/2007, de 26 noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+### Subsección 4.ª Normas sobre recaudación de recursos distintos a cuotas
+
+> Se añade por el art. único.7 de la Orden de TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 39. Reclamación de capitales coste y de otras prestaciones.
+
+1\. La reclamación por la Tesorería General de la Seguridad Social del importe de capitales coste de pensiones y rentas ciertas temporales, así como de recargos por falta de medidas de seguridad e higiene sobre pensiones, expresará el importe íntegro de la participación en la responsabilidad económica o el importe íntegro del capital coste correspondiente, más el recargo del cinco por ciento por falta de aseguramiento que, en su caso, proceda y los intereses de capitalización devengados desde la fecha de efectos económicos de la prestación reconocida hasta aquella en la que se efectúe la reclamación de deuda. La mutua o empresa declarada responsable adicionará los intereses de capitalización que se devenguen desde el día siguiente al de la expedición de la reclamación hasta el día de ingreso.
+
+Si el sujeto responsable hubiera hecho efectiva la indemnización a los ascendientes a que se refiere el artículo 177.2 del texto refundido de la Ley General de la Seguridad Social, los intereses de capitalización se calcularán sobre la diferencia existente entre el importe íntegro de la renta cierta temporal resultante y el figurado en el justificante acreditativo del pago de dicha indemnización.
+
+Los intereses de capitalización devengados desde la fecha de efectos de la prestación hasta el día en que se expida la reclamación de deuda figurarán en ésta por su importe total y, para los que se devenguen desde el día siguiente a dicha expedición hasta el del pago, su importe diario será adicionado por el sujeto responsable, obteniéndose así el importe del valor actual del capital coste objeto de ingreso, sin perjuicio de la ulterior comprobación de la liquidación, con la consiguiente reclamación o devolución, en su caso, por la Tesorería General de la Seguridad Social.
+
+2\. En el caso de prestaciones no capitalizables y de recargos sobre ellas, la reclamación de deuda se efectuará por el importe a que asciendan las prestaciones de cuantía fija o periódica no vitalicia y de tanto alzado a cargo de la entidad o empresa declarada responsable de su pago, así como por el del recargo que proceda sobre tales prestaciones por falta de medidas de seguridad e higiene en el trabajo.
+
+> Se modifica por el art. único.7 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+## Sección novena. Normas particulares sobre recaudación en vía ejecutiva
+
+> Se modifica por el art. único.8 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 40. Embargo de depósitos a la vista.
+
+1\. En el embargo de dinero en depósitos a la vista en entidades de crédito, ahorro o financiación, la diligencia de embargo deberá identificar, al menos, una cuenta o depósito existente en alguna de las oficinas de la entidad pero se extenderá, sin necesidad de identificación expresa, a todos los posibles saldos de los que el sujeto responsable sea titular en la misma hasta el importe de la deuda pendiente en vía de apremio.
+
+2\. Cuando la diligencia de embargo se presente ante una oficina distinta de aquella que tenga a su cargo la gestión o depósito del bien o derecho embargado, la entidad de depósito procederá inmediatamente a la retención del importe embargado si existiese saldo en cualquier cuenta abierta en la misma y, si ello no fuese posible, en el plazo más breve que permitan sus sistemas de información y contabilidad, que en ningún caso podrá superar el límite de cinco días desde la fecha de presentación de la diligencia.
+
+> Se reenumera por el art. único.9 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+> Su anterior numeración era art. 39.
+
+#### Artículo 41. Datas de títulos ejecutivos cargados a las unidades de recaudación ejecutiva.
+
+1\. Procederá la data de los títulos ejecutivos cargados a las unidades de recaudación ejecutiva, en las condiciones que establezca el Director General de la Tesorería General de la Seguridad Social, cuando estén afectados por nulidad, prescripción, transacciones, arbitrajes, declaración de concurso, calificaciones de créditos incobrables, tercerías y cualquier otra circunstancia o situación que impida la continuación del procedimiento de apremio.
+
+2\. Las deudas de vencimiento posterior a la calificación como incobrable de un crédito de un mismo sujeto responsable se datarán por referencia a dicha calificación
+
+> Se añade por el art. único.9 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+> Su anterior numeración era art. 40.
+
+#### Artículo 42. Anulación de adjudicaciones de bienes embargados.
+
+En el supuesto de que la adjudicación de bienes embargados en el procedimiento recaudatorio en vía de apremio resulte posteriormente anulada, serán objeto de devolución, de forma conjunta, el precio de la adjudicación ingresado por el adquirente, el interés legal que proceda sobre dicho precio y el importe de los gastos notariales y registrales que hubiera originado la transmisión de la propiedad de los bienes adjudicados, previa acreditación de tales gastos por el interesado.
+
+> Se añade por el art. único.10 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+## Sección décima. Devolución de ingresos indebidos y reembolso del coste de garantías.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+### Subsección 1.ª Devolución de ingresos indebidos. Objeto y procedimiento
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779)
+
+#### Artículo 43. Objeto de la devolución de ingresos indebidos.
+
+1\. Los sujetos responsables del pago de cualquiera de los recursos que son objeto de gestión recaudatoria por la Tesorería General de la Seguridad Social tendrán derecho a la devolución total o parcial de las cantidades que hubiesen ingresado indebidamente, por error de hecho o de derecho, con ocasión del pago de dichas deudas y, en particular, en los casos de duplicidad en el pago de una misma deuda; de pagos relativos a períodos posteriores a la fecha de efectos de la baja; de pago de una cantidad superior al importe de las liquidaciones efectuadas por órgano competente o al de las autoliquidaciones realizadas por dichos sujetos responsables, incluidas aquellas en las que no se hubieran practicado deducciones por los beneficios en la cotización que pudieran proceder; de ingreso después de prescribir el derecho a efectuar la oportuna liquidación, así como de cualquier otro error material o aritmético cometido en las liquidaciones o en cualquier acto de gestión recaudatoria.
+
+El derecho a la devolución y los conceptos que integran la cantidad a devolver estarán sujetos a las condiciones establecidas en los artículos 23.1 de la Ley General de la Seguridad Social y 44.1, 3 y 4 del Reglamento general de recaudación de la Seguridad Social.
+
+2\. Asimismo, tendrán la condición de ingresos indebidos aquellos que resulten o se declaren objeto de devolución en virtud de resolución judicial firme, en los términos señalados por los artículos 23.3 de la Ley General de la Seguridad Social y 44.2 del Reglamento general de recaudación de la Seguridad Social.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 44. Procedimiento para la devolución de ingresos indebidos.
+
+El procedimiento de devolución de ingresos indebidos por parte de la Tesorería General de la Seguridad Social tendrá como objeto el reconocimiento del derecho a su devolución y consiguiente pago material de lo indebidamente ingresado, tramitándose con arreglo a las disposiciones generales contenidas en el título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con las particularidades establecidas en los artículos siguientes.
+
+Cuando la procedencia de la devolución de un ingreso por indebido haya sido reconocida en una resolución judicial o administrativa ajena al procedimiento antes indicado, la Tesorería General de la Seguridad Social se limitará a proceder a su ejecución, en los términos señalados en el artículo 47.2.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 45. Peculiaridades en la iniciación del procedimiento.
+
+1\. El procedimiento para el reconocimiento por la Tesorería General de la Seguridad Social de la procedencia de la devolución de un ingreso por indebido podrá iniciarse de oficio o a instancia de quien haya realizado dicho ingreso o de cualquier interesado al que las normas reconozcan tal derecho.
+
+La solicitud de devolución por los responsables del pago a que se refiere el artículo 12 del Reglamento general de recaudación de la Seguridad Social que hubieran realizado el ingreso indebido se formulará en nombre propio y, en su caso, en el de los trabajadores afectados. Éstos podrán interesar del empresario que formule dicha solicitud respecto de la parte de la cotización correspondiente a sus aportaciones o presentarla directamente cuando se acredite que aquél se ha negado a hacerlo o hubiese desaparecido.
+
+2\. Cuando el procedimiento se inicie a instancia de interesado, la solicitud deberá dirigirse al órgano central, dirección provincial o administración de la Tesorería General de la Seguridad Social que tramitó el procedimiento recaudatorio en el que se efectuó el ingreso cuya devolución se solicita por indebido.
+
+Dicha solicitud podrá presentarse en cualquiera de los lugares previstos por el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, así como a través del Sistema RED, de encontrarse los interesados incorporados a él.
+
+Además de los datos señalados en el artículo 70.1 de la citada ley, la solicitud contendrá los que a continuación se indican e irá acompañada de los documentos siguientes:
+
+a) Razón social o denominación completa, si el interesado no es persona física, número o código de identificación fiscal y, si procedieran, código de cuenta de cotización o número de afiliación a la Seguridad Social, régimen de encuadramiento y entidad aseguradora de los riesgos profesionales y de la incapacidad temporal derivada de contingencias comunes.
+
+b) Declaración expresa del medio elegido por el que haya de realizarse la devolución, pudiendo optar entre la transferencia bancaria, indicando el número de código de cuenta y los datos identificativos de la entidad de crédito, o el cheque nominativo.
+
+c) Justificación del ingreso indebido. A la solicitud se adjuntarán los documentos que demuestren el derecho a la devolución y la realización del ingreso indebido, así como cuantos elementos de prueba se consideren oportunos a tal efecto.
+
+Los justificantes del ingreso realizado podrán sustituirse por la mención exacta de sus datos identificativos.
+
+Cuando se solicite la devolución de cuotas, deberán presentarse documentos de cotización adicionales en los que figuren únicamente las modificaciones por decrementos respecto de los presentados con errores de hecho o de derecho.
+
+3\. El procedimiento de devolución se iniciará de oficio por la Tesorería General de la Seguridad Social en los siguientes supuestos:
+
+a) Cuando se haya reconocido la procedencia o derecho a la devolución en la resolución de un recurso administrativo, en una resolución judicial o en cualquier acuerdo o resolución de la Tesorería General o de la entidad gestora o colaboradora correspondiente que suponga la revisión o anulación del acto administrativo que haya dado lugar a un ingreso indebido, en todo o en parte, en la Tesorería General de la Seguridad Social.
+
+b) Cuando se haya acordado, en los términos establecidos, la anulación de una sanción pecuniaria por infracción de normas de Seguridad Social o de cualquier deuda con ella, cuyo importe ya hubiera sido ingresado.
+
+c) Cuando la Tesorería General de la Seguridad Social tenga constancia del carácter indebido de un ingreso por duplicidad en el pago de una misma deuda, por pago de una cantidad superior al importe debido o por pago de deudas prescritas.
+
+d) En general, cuando la Tesorería General de la Seguridad Social advierta cualquier error material, aritmético o de hecho en la liquidación o en cualquier acto de gestión recaudatoria de los recursos de la Seguridad Social, siempre que no haya prescrito el derecho a la devolución.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 46. Peculiaridades en la instrucción y resolución del procedimiento.
+
+1\. Si el titular del derecho a la devolución de un ingreso indebido resultase a su vez deudor de la Seguridad Social, el órgano de la Tesorería General de la Seguridad Social que instruya el procedimiento le comunicará tal extremo, con detalle de la deuda y de la situación en que se encuentra, y propuesta, en su caso, de la deuda a la que se imputará el ingreso indebido conforme a lo establecido en el artículo 44.1 del Reglamento general de recaudación de la Seguridad Social, para que en el plazo de 10 días efectúe las alegaciones o presente los documentos y justificaciones que estime pertinentes. Se exceptuarán de la citada comunicación las deudas garantizadas mediante aval genérico así como las impugnadas cuyo importe haya sido consignado o garantizado con aval, con suspensión del procedimiento recaudatorio.
+
+Dicha comunicación surtirá los efectos de notificación de la deuda en los supuestos en que ésta no hubiera sido notificada con anterioridad.
+
+Transcurrido el plazo antes indicado, la Tesorería General de la Seguridad Social aplicará, en su caso, el importe del ingreso indebido a la deuda existente.
+
+2\. La deducción e imputación del crédito por la devolución de ingresos indebidos no podrán afectar a la parte de cuota correspondiente a la aportación de los trabajadores, cuando ésta les haya sido descontada en virtud de las normas que regulan en el sistema de la Seguridad Social la retención e ingreso de tales aportaciones por parte de los empresarios, salvo que se acredite que tal descuento no se ha efectuado en el momento de hacer efectivas sus retribuciones, quedando dichos empresarios obligados a ingresar la totalidad de las cuotas a su exclusivo cargo.
+
+3\. El órgano de la Tesorería General de la Seguridad Social competente para resolver el procedimiento dictará resolución motivada en la que, de reconocer la procedencia total o parcial de la devolución de una cantidad indebidamente ingresada, se indicará el importe a que asciende, distinguiendo sus distintos conceptos, así como, en su caso, la compensación o deducción practicada y la imputación procedente por otras deudas con la Seguridad Social, y la retención cautelar total o parcial que se hubiera adoptado.
+
+La resolución será notificada a todos los interesados en el procedimiento en los términos previstos en los artículos 58 y siguientes de la Ley 30/1992, de 26 de noviembre, y, en el caso de que proceda la devolución de la parte de cuota correspondiente a la aportación de los trabajadores, advertirá de la obligación del empresario de reintegrar a aquéllos de la parte que a cada uno le corresponda en la cantidad objeto de la devolución.
+
+Asimismo, cuando por la causa, antecedentes y demás circunstancias de la petición, se dedujera con claridad que las cuotas indebidamente ingresadas y que pudieran ser objeto de devolución han servido para el cálculo de prestaciones, la Tesorería General de la Seguridad Social comunicará dicho extremo a la entidad gestora a los efectos oportunos.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 47. Ejecución de la devolución.
+
+1\. El órgano de la Tesorería General de la Seguridad Social que dicte la resolución reconociendo la procedencia de la devolución propondrá su ejecución inmediata mediante la expedición de la orden o mandamiento de pago por el importe que corresponda, efectuándose su pago material en los términos y condiciones establecidos en materia de pagos en el ámbito de la Seguridad Social.
+
+2\. Cuando el derecho a la devolución haya sido reconocido en una resolución judicial o administrativa firme ajena al procedimiento a que se refieren los artículos anteriores, se procederá a su inmediata ejecución en los términos que resulten de dicha resolución, sin perjuicio de la aplicación de las normas que correspondan en materia de pagos y de intervención formal y material de éstos.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+### Subsección 2.ª Reembolso del coste de garantías.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 48. Alcance del reembolso.
+
+Cuando por resolución administrativa o sentencia firmes se declare la improcedencia de deudas con la Seguridad Social, la Tesorería General de la Seguridad Social procederá a reembolsar los costes necesarios para la formalización, mantenimiento y cancelación de las garantías que se hubieran aportado para suspender el procedimiento de recaudación de aquéllas así como, en su caso, a abonar el interés legal de las cantidades depositadas o consignadas con la misma finalidad, en los términos y con el alcance previstos en los artículos 23.2 de la Ley General de la Seguridad Social y 30 del Reglamento general de recaudación de la Seguridad Social, así como en los artículos siguientes de esta orden.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 49. Determinación del coste de las garantías prestadas.
+
+1\. Las garantías cuyo coste es objeto de reembolso serán las establecidas en el artículo 28 del Reglamento general de recaudación de la Seguridad Social, siempre que hayan sido prestadas de conformidad con la normativa vigente y aceptadas para la suspensión de la ejecución de deudas con la Seguridad Social.
+
+2\. El coste de tales garantías estará integrado por las siguientes partidas:
+
+a) En el caso de avales solidarios formalizados por entidades financieras y de seguros de caución de entidades aseguradoras, su coste comprenderá las cantidades efectivamente satisfechas a tales entidades en concepto de primas, comisiones y gastos de formalización, mantenimiento y cancelación del aval o seguro, devengados hasta los 30 días siguientes a la notificación al interesado de la resolución o sentencia que declare la improcedencia de la deuda.
+
+En el supuesto de que la Tesorería General de la Seguridad Social, por causa imputable a ella, no hubiera devuelto la garantía en el plazo anteriormente indicado, dicho plazo se ampliará hasta la fecha en que se produzca esa devolución.
+
+b) En el caso de hipotecas mobiliarias e inmobiliarias y de prendas con o sin desplazamiento de la posesión, su coste incluirá las cantidades satisfechas por los siguientes conceptos:
+
+1.º Gastos derivados de la intervención de un fedatario público.
+
+2.º Gastos registrales.
+
+3.º Tributos derivados directamente de la constitución de la garantía y, en su caso, de su cancelación.
+
+4.º Gastos derivados de la tasación o valoración de los bienes ofrecidos en garantía, realizada por perito con titulación suficiente. En cualquier caso, tales gastos no podrán exceder de los valores y precios medios del mercado.
+
+c) En el caso de otros avales, fianzas personales o cualquier otra garantía que haya sido admitida por la Tesorería General de la Seguridad Social o por los órganos judiciales, su coste se limitará a los gastos en que se hubiera incurrido de manera directa para su formalización, mantenimiento y cancelación, devengados hasta los 30 días siguientes a la notificación al interesado de la resolución o sentencia que declare la improcedencia de la deuda.
+
+En el caso de que la Tesorería General de la Seguridad Social, por causa imputable a ella, no hubiera devuelto la garantía en el plazo antes indicado, éste se ampliará hasta la fecha en que se produzca la devolución.
+
+El importe de los conceptos incluidos en el coste de las distintas garantías, reseñados en los párrafos anteriores, habrá de ser previa y debidamente acreditado por el interesado para que la Tesorería General de la Seguridad Social proceda a su reembolso.
+
+3\. En el supuesto de abono del interés legal correspondiente a cantidades depositadas o consignadas en efectivo a que se refiere el artículo 30 del Reglamento general de recaudación de la Seguridad Social, dicho interés se devengará hasta los 30 días siguientes a la notificación al interesado de la resolución o sentencia que declare la improcedencia de la deuda, salvo cuando la Tesorería General de la Seguridad Social, por causa imputable a ella, no hubiera devuelto el importe del depósito o de la consignación dentro del citado plazo, en cuyo caso éste se ampliará hasta la fecha en que se produzca la devolución.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 50. Procedimiento para el reembolso.
+
+El procedimiento para el reembolso del coste de garantías por parte de la Tesorería General de la Seguridad Social se ajustará al previsto para la devolución de ingresos indebidos en el Reglamento general de recaudación de la Seguridad Social y en la subsección anterior de esta orden.
+
+En particular, en la iniciación del procedimiento el interesado deberá aportar junto a la solicitud de reembolso una copia de la sentencia o resolución administrativa firme por la que se declare la improcedencia total o parcial de la deuda con la Seguridad Social garantizada, así como la acreditación del importe a que asciende el coste de las garantías cuyo reembolso se solicita e indicación del lugar y de la fecha efectiva de la consignación o depósito.
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+### Subsección 3.ª Aplicación presupuestaria de la devolución de ingresos indebidos y del reembolso del coste de garantías
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Artículo 51. Aplicación presupuestaria.
+
+1\. Los distintos conceptos constitutivos de las cantidades objeto de devolución como consecuencia de un ingreso indebido reconocido en vía administrativa o judicial, así como del coste de garantías objeto de reembolso, a que se refiere esta sección, se aplicarán con cargo al presupuesto de ingresos de la Tesorería General de la Seguridad Social, con las excepciones que se señalan en el apartado siguiente.
+
+2\. Cuando la devolución o reembolso del coste de las garantías se refiera a cuotas por contingencias cubiertas con una mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, a cuotas por conceptos de recaudación conjunta con las de Seguridad Social y a otros recursos ajenos al sistema, así como al reintegro de prestaciones por desempleo, su formalización tendrá carácter extrapresupuestario, aplicándose su importe con cargo a la cuenta de relación de la mutua, órgano u organismo que corresponda.
+
+> Se modifica por el art. único.8 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+> Se añade por el art. único.11 de la Orden TAS/3512/2007, de 26 de noviembre. [Ref. BOE-A-2007-20779](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20779).
+
+#### Disposición adicional primera. Procedimiento para la ampliación de la carencia y de la moratoria para el pago de deudas con la Seguridad Social de instituciones sanitarias.
+
+1\. Las instituciones sanitarias cuya titularidad ostenten las Administraciones Públicas o instituciones públicas o privadas sin ánimo de lucro, que se hallen acogidas a la moratoria para el pago de sus deudas con la Seguridad Social causadas hasta el 31 de diciembre de 1994, prevista en la disposición adicional trigésima de la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, podrán solicitar a la Tesorería General de la Seguridad Social la ampliación de la carencia y de la moratoria inicialmente concedidas, por el período que se fije en la norma legal que permita dicha ampliación y con sujeción a las siguientes condiciones:
+
+1.ª Presentar la solicitud de ampliación, junto con la documentación que ha de acompañarla, en la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la Seguridad Social que corresponda al código de cuenta de cotización del solicitante o en cualquiera de los otros registros y lugares señalados en el artículo 38.4 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+No obstante lo indicado en el párrafo anterior, si el solicitante tuviera autorizada la gestión centralizada de determinados trámites liquidatorios y recaudatorios deberá presentar su solicitud, en todo caso, en la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la Seguridad Social a la que corresponda dicha gestión centralizada.
+
+No se admitirán nuevas solicitudes de concesión inicial de la moratoria previstas en la disposición adicional trigésima de la citada Ley 41/1994, de 30 de diciembre.
+
+2.ª Acompañar una nueva propuesta para el pago de la deuda objeto de la moratoria, teniendo en cuenta, respecto de la solicitud de ampliación de la carencia, que el calendario de pagos que tuviese autorizado el solicitante se verá reducido en el mismo período de tiempo que el que sea objeto de ampliación, de concederse ésta, y que los plazos de amortización para el pago de la deuda que se fijen en la resolución de concesión habrán de ser anuales y por la misma cuantía en todos los ejercicios.
+
+El solicitante podrá indicar el mes en que desea ingresar cada plazo de amortización, correspondiendo hacerlo, en su defecto, en el mes de diciembre de cada año al que se extienda la moratoria.
+
+Cuando la solicitud esté referida a la ampliación de los períodos de carencia y de moratoria, la amortización de la deuda se realizará, asimismo, en pagos anuales de la misma cuantía a realizar en el mes elegido por el beneficiario y, en su defecto, en el mes de diciembre de cada ejercicio.
+
+3.ª Acreditar que se han ingresado en plazo reglamentario las cuotas de la Seguridad Social y conceptos de recaudación conjunta con las mismas devengados desde el 1 de enero de 1995, sin perjuicio de la concesión de aplazamientos para su pago solicitados dentro de dicho plazo. A tal efecto, el solicitante acompañará fotocopias compulsadas de los documentos de cotización correspondientes a los tres meses anteriores al de la solicitud de ampliación.
+
+2\. Las solicitudes de ampliación de la carencia y de la moratoria a que se refiere esta disposición adicional serán tramitadas y resueltas por los mismos órganos centrales y provinciales de la Tesorería General de la Seguridad Social que hubieren tramitado y resuelto las solicitudes anteriores, en el plazo máximo de seis meses, contados desde la fecha en que la solicitud haya tenido entrada en cualquiera de los registros del citado Servicio Común de la Seguridad Social. Transcurrido dicho plazo sin que haya recaído resolución expresa, la solicitud podrá entenderse desestimada.
+
+3\. Las resoluciones que concedan la ampliación de la carencia y de la moratoria determinarán la situación de estar al corriente durante las mismas a efectos de Seguridad Social respecto de las deudas objeto de aquéllas, en tanto se cumplan las condiciones para su efectividad establecidas en el apartado 2 de la disposición adicional trigésima de la Ley 41/1994, de 30 de diciembre.
+
+El incumplimiento de las citadas condiciones dará lugar a la resolución de la moratoria concedida y de los conciertos de asistencia sanitaria suscritos, en su caso, entre la institución sanitaria deudora y la respectiva Administración Pública Autonómica o Institucional, salvo que aquélla hubiera obtenido aplazamiento para el pago de cuotas devengadas desde el 1 de enero de 1995.
+
+4\. Cuando las solicitudes de ampliación de la carencia y de la moratoria fueran denegadas o el respectivo procedimiento hubiera finalizado por desistimiento del solicitante, regulado en los artículos 71.1 y 90 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, el ingreso de los plazos de amortización vencidos podrá efectuarse sin recargo en el mes siguiente al de la notificación de la resolución correspondiente.
+
+5\. El procedimiento regulado en la presente disposición adicional se aplicará sin perjuicio de las previsiones que, en su caso, puedan establecerse legalmente.
+
+#### Disposición adicional segunda. Incidencia de la incorporación al Sistema RED en la contraprestación de las Mutuas a los servicios de gestión administrativa por parte de terceros.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden TAS/3859/2007, de 27 de diciembre. [Ref. BOE-A-2007-22454](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22454).
+
+#### Disposición adicional tercera. Modificación del artículo 1 de la Orden TAS/77/2005, de 18 de enero.
+
+Queda sin efecto lo establecido en la norma Cuarta del apartado 2 del artículo 1 de la Orden TAS/77/2005, de 18 de enero, por la que se desarrollan las normas de cotización a la Seguridad Social, Desempleo, Fondo de Garantía Salarial y Formación Profesional, contenidas en la Ley 2/2004, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2005.
+
+#### Disposición adicional cuarta. Servicio de asistencia y orientación para la cumplimentación de las actuaciones de encuadramiento, cotización y recaudación por medios electrónicos.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden ESS/484/2013, de 26 de marzo. [Ref. BOE-A-2013-3362](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3362).
+
+> Se añade por el art. único.9 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Disposición adicional quinta. Plazos de incorporación efectiva y obligatoria al Sistema RED.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden ESS/484/2013, de 26 de marzo. [Ref. BOE-A-2013-3362](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3362).
+
+> Se añade por el art. único.9 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Disposición adicional sexta. Efectos de la domiciliación del pago de aplazamientos.
+
+La domiciliación prevista en el párrafo primero del artículo 17 bis.1 de esta orden será obligatoria para todos los aplazamientos que se concedan a partir del 1 de enero de 2011. Si llegada esa fecha no fuese posible el cumplimiento de la citada obligación por causas técnicas imputables a la Tesorería General de la Seguridad Social, ésta fijará por resolución los términos y condiciones en que dicho cumplimiento deberá llevarse a cabo.
+
+Asimismo, aquellos aplazamientos concedidos con anterioridad a la fecha indicada respecto a los que, con posterioridad a la misma, se produzcan los supuestos previstos en los apartados 2 y 3 del artículo 17 de esta orden, deberán abonarse mediante el sistema de domiciliación en cuenta.
+
+Los beneficiarios de aplazamientos concedidos con anterioridad a 1 de enero de 2011 con vencimientos pendientes de ingreso a dicha fecha, podrán optar por domiciliar tales vencimientos previa solicitud y en los términos establecidos en el artículo 17 bis de esta orden. Ejercitada la opción, la domiciliación en cuenta se mantendrá durante toda la vigencia del aplazamiento concedido.
+
+> Véase la Resolución de 12 de enero de 2011. [Ref. BOE-A-2011-739](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-739). que fija a partir de 1 de febrero de 2011, la obligación prevista en esta disposición adicional.
+
+> Se añade por el art. único.9 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Disposición adicional séptima. Imputación contable de los recursos del sistema de la Seguridad Social.
+
+La imputación contable de las operaciones derivadas de la gestión recaudatoria de los recursos del sistema de la Seguridad Social, tanto en período voluntario como ejecutivo, se realizará de conformidad con las normas contables y los criterios que, en su caso, se establezcan por la Intervención General de la Seguridad Social.
+
+> Se añade por el art. único.9 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Disposición transitoria primera. Ámbito de aplicación temporal.
+
+Las deudas con la Seguridad Social por recursos de la misma que tengan el carácter de ingresos de derecho público y que en la fecha de entrada en vigor de esta Orden se encuentren en las situaciones a que se refiere su Sección Tercera, podrán ser anuladas y dadas de baja en contabilidad, tanto si su gestión recaudatoria se halla en período voluntario como en vía de apremio.
+
+#### Disposición transitoria segunda. Vigencia de autorizaciones y conciertos de colaboración en la gestión recaudatoria.
+
+1\. Las autorizaciones y conciertos sobre colaboración en la gestión recaudatoria de los recursos del Sistema de la Seguridad Social y demás conceptos de recaudación conjunta vigentes a la entrada en vigor de la presente Orden conservarán su vigencia sin más requisito que su inscripción en el Registro Público que, a tales efectos, se lleva en la Tesorería General de la Seguridad Social, en tanto tales autorizaciones no sean suspendidas o revocadas conforme a las reglas establecidas en el artículo 4 del Reglamento General de Recaudación de la Seguridad Social o los conciertos no sean rescindidos conforme a las reglas que resulten aplicables.
+
+2\. Las empresas que vinieren ingresando las cuotas de la Seguridad Social a través de la asociación empresarial a que pertenezcan para que ésta las ingrese, a su vez, en la correspondiente entidad colaboradora y a nombre de la Tesorería General de la Seguridad Social dentro del segundo mes siguiente al de su devengo, podrán seguir efectuando, a través de la respectiva asociación profesional, el ingreso de las cuotas devengadas hasta la fecha que en cada caso determine el Director General de la Tesorería General de la Seguridad Social.
+
+#### Disposición transitoria tercera. Incumplimiento de aplazamientos de deudas anteriores al 1 de junio de 2004.
+
+En caso de incumplimiento de aplazamientos en los que, cualquiera que sea su fecha de concesión, se incluyan deudas por cuotas y conceptos de recaudación conjunta correspondientes a períodos anteriores al 1 de junio de 2004 o por recursos distintos a cuotas reclamados con anterioridad a esa fecha, el procedimiento de apremio a seguir, conforme a lo previsto en el artículo 36 del Reglamento General de Recaudación de la Seguridad Social, incluirá los intereses devengados pendientes de ingreso correspondientes a las citadas deudas.
+
+Las deudas generadas por tal concepto devengarán el interés correspondiente cuando fueren objeto de nuevo aplazamiento.
+
+Tales intereses no se exigirán respecto de la deuda aplazada relativa a cuotas y conceptos de recaudación conjunta devengados a partir de 1 de junio de 2004 o relativa a recursos distintos de cuotas cuyas reclamaciones se hubiesen emitido a partir de esa fecha, sin perjuicio de la exigencia de los intereses de demora que se hubiesen devengado desde el vencimiento de los respectivos plazos reglamentarios de ingreso, de acuerdo con lo dispuesto en el apartado 1 del citado artículo 36 del Reglamento General de Recaudación de la Seguridad Social.
+
+#### Disposición transitoria cuarta. Efectos retroactivos de la disposición adicional tercera.
+
+Lo establecido en la disposición adicional tercera de esta Orden, sobre modificación del artículo 1 de la Orden de 18 de enero de 2005, será aplicable a partir de 1 de enero de ese mismo año 2005.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Orden y, de modo expreso, las siguientes:
+
+1\. La disposición adicional séptima de la Orden de 22 de febrero de 1996, por la que se desarrolla el Reglamento General de Recaudación de los Recursos de la Seguridad Social aprobado por el Real Decreto 1637/1995, de 6 de octubre.
+
+2\. Los artículos 57.2, 59, 68, 69, 73, 78 y 84, las disposiciones adicionales segunda, séptima y octava y la disposición final primera de la Orden de 26 de mayo de 1999, por la que se desarrolla el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social antes citado.
+
+#### Disposición final primera. Habilitación específica.
+
+De acuerdo con lo previsto en el artículo 58.1 del Reglamento general de recaudación de la Seguridad Social, la Dirección General de la Tesorería General de la Seguridad Social podrá establecer y, en su caso, modificar los documentos de cotización y recaudación en periodo voluntario, dictar las demás instrucciones a que deben atenerse las entidades financieras y otros colaboradores en la gestión recaudatoria, los empresarios y demás sujetos responsables del cumplimiento de la obligación de cotizar y del pago de los demás recursos del sistema de la Seguridad Social, aprobar las claves de los diferentes contratos de trabajo a efectos de la gestión de la Seguridad Social, así como establecer y modificar tanto los documentos de reclamación administrativa de deudas con la Seguridad Social, a excepción de las actas expedidas por la Inspección de Trabajo y Seguridad Social, como los documentos relativos a los trámites del procedimiento recaudatorio en vía de apremio, debiendo ajustarse, en todo caso, a lo dispuesto en el citado Reglamento general y en esta orden respecto del trámite de gestión recaudatoria a que tales documentos se refieran.
+
+> Se modifica por el art. único.10 de la Orden TIN/2777/2010, de 29 de octubre. [Ref. BOE-A-2010-16552](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16552).
+
+#### Disposición final segunda. Habilitación general.
+
+Se faculta a la Dirección General de Ordenación de la Seguridad Social para resolver cuantas cuestiones de índole general puedan plantearse en aplicación de lo dispuesto en la presente Orden.
+
+#### Disposición final tercera. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 25 de mayo de 2005.
+
+CALDERA SÁNCHEZ-CAPITÁN
+
+Sr. Secretario de Estado de la Seguridad Social.

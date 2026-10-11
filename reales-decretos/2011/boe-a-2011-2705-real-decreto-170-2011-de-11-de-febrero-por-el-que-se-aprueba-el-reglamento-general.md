@@ -266,8 +266,6 @@ d) Sean notoriamente conocidas o estuvieron inscritas en una Lista de Variedades
 
 La custodia de las colecciones de referencia corresponde al Ministerio de Agricultura, Pesca y Alimentación. Cualquier uso del material vegetal de las colecciones de referencia deberá ser autorizado expresamente por este Ministerio, sin perjuicio de la autorización que también se requiera del titular del derecho de obtención, en su caso.
 
-> Téngase en cuenta que el último párrafo de este apartado 9, añadido por la disposición final 3 del Real Decreto 429/2020, de 3 de marzo [Ref. BOE-A-2020-4915](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4915), entra en vigor el 11 de junio de 2020 según establece su disposición final 9.
-
 10\. Comercialización:
 
 a) Se entiende por comercialización la venta, la tenencia con vistas a la venta, la oferta de venta y toda cesión, entrega o transmisión, con fines de explotación comercial, de semillas y plantas de vivero a terceros a título oneroso o no.
@@ -813,8 +811,6 @@ b) Y sobre siembras realizadas con sus componentes genealógicos.
 2\. Los informes a los que refiere el apartado anterior, serán remitidos al Ministerio de Medio Ambiente, y Medio Rural y Marino, en un plazo no superior a un mes, contado desde la conclusión del examen técnico, salvo causas especiales debidamente justificadas, en que dicho plazo podrá ampliarse a un máximo de seis meses.
 
 3\. Todos los centros que realizan ensayos de distinción, homogeneidad y estabilidad de las variedades objeto de una solicitud de inscripción en los registros de variedades de cualquier especie vegetal deberán estar acreditados por el Ministerio de Agricultura, Pesca y Alimentación. Para obtener la acreditación, los centros de ensayos deberán cumplir, al menos, las condiciones establecidas en la norma de calidad de la Oficina Comunitaria de Variedades Vegetales. Se establecerán auditorías que permitan comprobar el cumplimiento por los centros de ensayo de la citada norma de calidad.
-
-> Téngase en cuenta que el último párrafo de este apartado 3, añadido por la disposición final 3 del Real Decreto 429/2020, de 3 de marzo [Ref. BOE-A-2020-4915](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4915), entra en vigor el 11 de junio de 2020 según establece su disposición final 9.
 
 > Se añade el apartado 3 por la disposición final 3 del Real Decreto 429/2020, de 3 de marzo [Ref. BOE-A-2020-4915](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4915).
 
@@ -1436,45 +1432,6 @@ Especies que cumplen con las directrices de examen de la UPOV <sup>(2)</sup>:
 
 <sup>(2)</sup> El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
 
-> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.2 de la Orden APA/1141/2022, de 17 de noviembre. [Ref. BOE-A-2022-19561](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19561), entra en vigor el 1 de enero de 2023, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
-
-> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
-
-> Especies que cumplen con las directrices de examen de la UPOV<sup>(2)</sup>:
-
-> <table class="tabla">
-> <thead>
-> <tr>
-> <th class="cabeza_tabla">Nombre científico</th>
-> <th class="cabeza_tabla">Denominación común</th>
-> <th class="cabeza_tabla">Protocolo</th>
-> </tr>
-> </thead>
-> <colgroup>
-> <col width="30%">
-> <col width="45%">
-> <col width="25%">
-> </colgroup>
-> <tbody>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Beta vulgaris</em> L.</td>
-> <td class="cuerpo_tabla_izq">Remolacha forrajera.</td>
-> <td class="cuerpo_tabla_izq">TG/150/3 de 4.11.1994.</td>
-> </tr>
-> </tbody>
-> <tfoot>
-> <tr class="no_repetir">
-> <td colspan="3">
-> <p class="cita"><sup>(2)</sup> El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int)."</p>
-> </td>
-> </tr>
-> </tfoot>
-> </table>
-
 > Se modifica el apartado 6, con efectos de 1 de enero de 2023, por el art. único.2 de la Orden APA/1141/2022, de 17 de noviembre. [Ref. BOE-A-2022-19561](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19561)
 
 > Se modifica el apartado 6 por el art. 1.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. [Ref. BOE-A-2021-21286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21286)
@@ -1579,8 +1536,6 @@ Se considerará que el valor agronómico o de utilización de una variedad es sa
 
 La OEVV facilitará distintas condiciones de examen adaptadas a las necesidades específicas de la agricultura ecológica y, cuando se disponga de métodos reproducibles y a petición del solicitante, examinará en la medida en que se capacidad lo permita rasgos y características específicos.
 
-> Téngase en cuenta que esta actualización del apartado 5, que añade los últimos 6 párrafos, estalecida por el art. único.3 de la Orden APA/380/2023, de 4 de abril. [Ref. BOE-A-2023-9625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9625), entra en vigor el 1 de julio de 2023, según determina su disposición final 2.
-
 6\. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
 Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
@@ -1623,8 +1578,6 @@ Maíz: En el caso de las variedades pertenecientes a la especie maíz *(Zea mays
 | OCVV n.º 19. | Inflorescencia masculina: longitud del eje principal por encima de la rama lateral más baja. |
 | OCVV n.º 20. | Inflorescencia masculina: longitud del eje principal por encima de la rama lateral más alta. |
 | OCVV n.º 21. | Inflorescencia masculina: longitud de la rama lateral. |
-
-> Téngase en cuenta que esta actualización del apartado 6, que añade los últimos 5 párrafos, estalecida por el art. único.4 de la Orden APA/380/2023, de 4 de abril. [Ref. BOE-A-2023-9625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9625), entra en vigor el 1 de julio de 2023, según determina su disposición final 2.
 
 > Se modifican los apartados 5 y 6, con efectos de 1 de julio de 2023, por el art. único.1 y 2 de la Orden APA/380/2023, de 4 de abril. [Ref. BOE-A-2023-9625](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9625)
 
@@ -1776,209 +1729,157 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2026 hayan iniciado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos protocolos de examen o, en su caso, en los protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
+<p>Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre científico</th>
-<th class="cabeza_tabla">Denominación común</th>
-<th class="cabeza_tabla">Protocolo</th>
+<th>Nombre científico</th>
+<th>Denominación común</th>
+<th>Protocolo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Dactylis glomerata </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Dactilo.</td>
-<td class="cuerpo_tabla_izq">TP 31/1 de 25.3.2021.</td>
+<td><em>Dactylis glomerata </em>L<em>.</em></td>
+<td>Dactilo.</td>
+<td>TP 31/1 de 25.3.2021.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Festuca arundinacea Schreb.</em>
 </td>
-<td class="cuerpo_tabla_izq">Festuca alta.</td>
-<td class="cuerpo_tabla_izq">TP 39/1 de 1.10.2015.</td>
+<td>Festuca alta.</td>
+<td>TP 39/1 de 1.10.2015.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Festuca pratensis Huds.</em>
 </td>
-<td class="cuerpo_tabla_izq">Festuca pratense.</td>
-<td class="cuerpo_tabla_izq">TP 39/1 de 1.10.2015.</td>
+<td>Festuca pratense.</td>
+<td>TP 39/1 de 1.10.2015.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Festuca rubra </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Festuca roja.</td>
-<td class="cuerpo_tabla_izq">TP 67/1 de 23.6.2011.</td>
+<td><em>Festuca rubra </em>L<em>.</em></td>
+<td>Festuca roja.</td>
+<td>TP 67/1 de 23.6.2011.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Lolium × hybridum Hausskn.</em>
 </td>
-<td class="cuerpo_tabla_izq">Ray-grass híbrido.</td>
-<td class="cuerpo_tabla_izq">TP 4/2 de 19.3.2019.</td>
+<td>Ray-grass híbrido.</td>
+<td>TP 4/2 de 19.3.2019.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Lolium multiflorum Lam.</em>
 </td>
-<td class="cuerpo_tabla_izq">Ballico de Italia o Ray-grass italiano.</td>
-<td class="cuerpo_tabla_izq">TP 4/2 de 19.3.2019.</td>
+<td>Ballico de Italia o Ray-grass italiano.</td>
+<td>TP 4/2 de 19.3.2019.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Lolium perenne </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Ray-grass inglés.</td>
-<td class="cuerpo_tabla_izq">TP 4/2 de 19.3.2019.</td>
+<td><em>Lolium perenne </em>L<em>.</em></td>
+<td>Ray-grass inglés.</td>
+<td>TP 4/2 de 19.3.2019.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Medicago sativa </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Alfalfa; mielga.</td>
-<td class="cuerpo_tabla_izq">TP 6/1 de 22.12.2021.</td>
+<td><em>Medicago sativa </em>L<em>.</em></td>
+<td>Alfalfa; mielga.</td>
+<td>TP 6/1 de 22.12.2021.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Pisum sativum </em>L<em>. (partim)</em></td>
-<td class="cuerpo_tabla_izq">Guisante forrajero.</td>
-<td class="cuerpo_tabla_izq">TP 7/2 Rev.3 Corr. de 6.3.2020.</td>
+<td><em>Pisum sativum </em>L<em>. (partim)</em></td>
+<td>Guisante forrajero.</td>
+<td>TP 7/2 Rev.3 Corr. de 6.3.2020.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Poa pratensis </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Poa de los prados.</td>
-<td class="cuerpo_tabla_izq">TP 33/1 de 15.3.2017.</td>
+<td><em>Poa pratensis </em>L<em>.</em></td>
+<td>Poa de los prados.</td>
+<td>TP 33/1 de 15.3.2017.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Trifolium pratense </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Trébol violeta.</td>
-<td class="cuerpo_tabla_izq">TP 5/1 Rev. de 13.2.2025.</td>
+<td><em>Trifolium pratense </em>L<em>.</em></td>
+<td>Trébol violeta.</td>
+<td>TP 5/1 Rev. de 13.2.2025.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Vicia faba </em>L<em>. (partim)</em></td>
-<td class="cuerpo_tabla_izq">Haba común.</td>
-<td class="cuerpo_tabla_izq">TP 8/1 de 19.3.2019.</td>
+<td><em>Vicia faba </em>L<em>. (partim)</em></td>
+<td>Haba común.</td>
+<td>TP 8/1 de 19.3.2019.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Vicia sativa </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Veza común.</td>
-<td class="cuerpo_tabla_izq">TP 32/1 de 19.4.2016.</td>
+<td><em>Vicia sativa </em>L<em>.</em></td>
+<td>Veza común.</td>
+<td>TP 32/1 de 19.4.2016.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).</p>
+<p>(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).</p>
 </td>
 </tr>
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Especies que cumplen con las directrices de examen de la UPOV (2)</p>
+<p>Especies que cumplen con las directrices de examen de la UPOV (2)</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre científico</th>
-<th class="cabeza_tabla">Denominación común</th>
-<th class="cabeza_tabla">Protocolo</th>
+<th>Nombre científico</th>
+<th>Denominación común</th>
+<th>Protocolo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Agrostis capillaris </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Agróstide común.</td>
-<td class="cuerpo_tabla_izq">TG/30/6 de 12.10.1990.</td>
+<td><em>Agrostis capillaris </em>L<em>.</em></td>
+<td>Agróstide común.</td>
+<td>TG/30/6 de 12.10.1990.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Agrostis stolonifera </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Agróstide estolonífera.</td>
-<td class="cuerpo_tabla_izq">TG/30/6 de 12.10.1990.</td>
+<td><em>Agrostis stolonifera </em>L<em>.</em></td>
+<td>Agróstide estolonífera.</td>
+<td>TG/30/6 de 12.10.1990.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Lupinus albus </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Altramuz blanco.</td>
-<td class="cuerpo_tabla_izq">TG/66/4 de 31.3.2004.</td>
+<td><em>Lupinus albus </em>L<em>.</em></td>
+<td>Altramuz blanco.</td>
+<td>TG/66/4 de 31.3.2004.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Lupinus angustifolius </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Altramuz azul.</td>
-<td class="cuerpo_tabla_izq">TG/66/4 de 31.3.2004.</td>
+<td><em>Lupinus angustifolius </em>L<em>.</em></td>
+<td>Altramuz azul.</td>
+<td>TG/66/4 de 31.3.2004.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Lupinus luteus </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Altramuz amarillo.</td>
-<td class="cuerpo_tabla_izq">TG/66/4 de 31.3.2004.</td>
+<td><em>Lupinus luteus </em>L<em>.</em></td>
+<td>Altramuz amarillo.</td>
+<td>TG/66/4 de 31.3.2004.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Trifolium repens </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Trébol blanco.</td>
-<td class="cuerpo_tabla_izq">TG/38/7 de 9.4.2003.</td>
+<td><em>Trifolium repens </em>L<em>.</em></td>
+<td>Trébol blanco.</td>
+<td>TG/38/7 de 9.4.2003.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Trifolium subterraneum </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Trébol subterráneo.</td>
-<td class="cuerpo_tabla_izq">TG/170/3 de 4.4.2001.</td>
+<td><em>Trifolium subterraneum </em>L<em>.</em></td>
+<td>Trébol subterráneo.</td>
+<td>TG/170/3 de 4.4.2001.</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).</p>
+<p>(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).</p>
 </td>
 </tr>
 </tfoot>
 </table>
-
-> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.1 de la Orden APA/1331/2025, de 27 de octubre, [Ref. BOE-A-2025-23683](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23683), entra en vigor el 1 de enero de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
-
-> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
-
-> Especies que cumplen con los protocolos de examen de la OCVV <sup>(1)</sup>:
-
-> | Nombre científico | Denominación común | Protocolo |
-> |---|---|---|
-> | *Dactylis glomerata L.* | Dactilo. | TP 31/1 de 25.3.2021 |
-> | *Festuca arundinacea Schreb.* | Festuca alta. | TP 39/1 de 1.10.2015 |
-> | *Festuca pratensis Huds.* | Festuca pratense. | TP 39/1 de 1.10.2015 |
-> | *Festuca rubra L.* | Festuca roja. | TP 67/1 de 23.6.2011 |
-> | *Lolium × hybridum Hausskn.* | Ray-grass híbrido. | TP 4/2 de 19.3.2019 |
-> | *Lolium multiflorum Lam.* | Ballico de Italia o Ray-grass italiano. | TP 4/2 de 19.3.2019 |
-> | *Lolium perenne L.* | Ray-grass inglés. | TP 4/2 de 19.3.2019 |
-> | *Medicago sativa L.* | Alfalfa; Mielga. | TP 6/1 de 22.12.2021 |
-> | *Pisum sativum L. (partim)* | Guisante forrajero. | TP 7/2 rev.3 corr.de 16.3.2020 |
-> | *Poa pratensis L.* | Poa de los prados. | TP 33/1 de 15.3.2017 |
-> | *Trifolium pratense L.* | Trébol violeta. | TP 5/1 de 22.12.2021 |
-> | *Vicia faba L. (partim)* | Haba. | TP 8/1 de 19.3.2019 |
-> | *Vicia sativa L.* | Veza común. | TP 32/1 de 19.4.2016 |
-
-> <sup>(1)</sup> El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
-
-> Especies que cumplen con las directrices de examen de la UPOV <sup>(2)</sup>:
-
-> | Nombre científico | Denominación común | Protocolo |
-> |---|---|---|
-> | *Agrostis capillaris L.* | Agróstide común. | TG/30/6 de 12.10.1990 |
-> | *Agrostis stolonifera L.* | Agróstide estolonífera. | TG/30/6 de 12.10.1990 |
-> | *Lupinus albus L.* | Altramuz blanco. | TG/66/4 de 31.3.2004 |
-> | *Lupinus angustifolius L.* | Altramuz azul. | TG/66/4 de 31.3.2004 |
-> | *Lupinus luteus L.* | Altramuz amarillo. | TG/66/4 de 31.3.2004 |
-> | *Trifolium repens L.* | Trébol blanco. | TG/38/7 de 9.4.2003 |
-> | *Trifolium subterraneum L.* | Trébol subterráneo. | TG/170/3 de 4.4.2001 |
-
-> <sup>(2)</sup> El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int)."
 
 > Se modifica el apartado 6, con efectos de 1 de enero de 2026, por el art. único.1 de la Orden APA/1331/2025, de 27 de octubre. [Ref. BOE-A-2025-23683](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23683)
 
@@ -2156,54 +2057,49 @@ Las variedades de Cáñamo que superen el 0,2 por ciento de contenido en THC no 
 
 Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2026, hayan iniciado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos protocolos de examen o, en su caso, en los protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
+<table>
 <caption>
-<p class="centro_redonda">Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
+<p>Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre científico</th>
-<th class="cabeza_tabla">Denominación común</th>
-<th class="cabeza_tabla">Protocolo</th>
+<th>Nombre científico</th>
+<th>Denominación común</th>
+<th>Protocolo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Brassica napus </em>L<em>. (partim).</em></td>
-<td class="cuerpo_tabla_izq">Colza.</td>
-<td class="cuerpo_tabla_izq">TP 36/4 de 31.3.2025.</td>
+<td><em>Brassica napus </em>L<em>. (partim).</em></td>
+<td>Colza.</td>
+<td>TP 36/4 de 31.3.2025.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Cannabis sativa </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Cáñamo.</td>
-<td class="cuerpo_tabla_izq">TP 276/2 Rev. de 30.12.2022.</td>
+<td><em>Cannabis sativa </em>L<em>.</em></td>
+<td>Cáñamo.</td>
+<td>TP 276/2 Rev. de 30.12.2022.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
+<td>
 <em>Glycine max (L.) Merrill.</em>
 </td>
-<td class="cuerpo_tabla_izq">Habas de soja.</td>
-<td class="cuerpo_tabla_izq">TP 80/1 de 15.3.2017.</td>
+<td>Habas de soja.</td>
+<td>TP 80/1 de 15.3.2017.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Gossypium </em>spp<em>.</em></td>
-<td class="cuerpo_tabla_izq">Algodón.</td>
-<td class="cuerpo_tabla_izq">TP 88/2 de 11.12.2020.</td>
+<td><em>Gossypium </em>spp<em>.</em></td>
+<td>Algodón.</td>
+<td>TP 88/2 de 11.12.2020.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Helianthus annuus </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Girasol.</td>
-<td class="cuerpo_tabla_izq">TP 81/1 de 31.10.2002.</td>
+<td><em>Helianthus annuus </em>L<em>.</em></td>
+<td>Girasol.</td>
+<td>TP 81/1 de 31.10.2002.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Linum usitatissimum </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Lino.</td>
-<td class="cuerpo_tabla_izq">TP 57/2 de 19.3.2014.</td>
+<td><em>Linum usitatissimum </em>L<em>.</em></td>
+<td>Lino.</td>
+<td>TP 57/2 de 19.3.2014.</td>
 </tr>
 </tbody>
 <tfoot>
@@ -2213,140 +2109,37 @@ Aquellas variedades de las especies que se citan a continuación, que, con anter
 </tfoot>
 </table>
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_redonda">Especies que cumplen con las directrices de examen de la UPOV (2)</p>
+<p>Especies que cumplen con las directrices de examen de la UPOV (2)</p>
 </caption>
-<colgroup>
-<col width="34%">
-<col width="33%">
-<col width="33%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre científico</th>
-<th class="cabeza_tabla">Denominación común</th>
-<th class="cabeza_tabla">Protocolo</th>
+<th>Nombre científico</th>
+<th>Denominación común</th>
+<th>Protocolo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Carthamus tinctorius </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Cártamo</td>
-<td class="cuerpo_tabla_izq">TG/134/4 de 24.10.2023</td>
+<td><em>Carthamus tinctorius </em>L<em>.</em></td>
+<td>Cártamo</td>
+<td>TG/134/4 de 24.10.2023</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Papaver somniferum </em>L<em>.</em></td>
-<td class="cuerpo_tabla_izq">Adormidera</td>
-<td class="cuerpo_tabla_izq">TG/166/4 de 9.4.2014</td>
+<td><em>Papaver somniferum </em>L<em>.</em></td>
+<td>Adormidera</td>
+<td>TG/166/4 de 9.4.2014</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).</p>
+<p>(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).</p>
 </td>
 </tr>
 </tfoot>
 </table>
-
-> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.2 de la Orden APA/1331/2025, de 27 de octubre, [Ref. BOE-A-2025-23683](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23683), entra en vigor el 1 de enero de 2026, según determina su disposición final 2.
-
-> Redacción anterior:
-
-> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
-
-> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2025, hayan iniciado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos protocolos de examen o, en su caso, en los protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
-
-> <table class="tabla">
-> <caption>
-> <p class="centro_cursiva">Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
-> </caption>
-> <colgroup>
-> <col width="32%">
-> <col width="29%">
-> <col width="39%">
-> </colgroup>
-> <thead>
-> <tr>
-> <th class="cabeza_tabla">Nombre científico</th>
-> <th class="cabeza_tabla">Denominación común</th>
-> <th class="cabeza_tabla">Protocolo</th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Brassica napus</em> L. (partim).</td>
-> <td class="cuerpo_tabla_izq">Colza.</td>
-> <td class="cuerpo_tabla_izq">TP 36/3 de 21.4.2020</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Cannabis sativa</em> L.</td>
-> <td class="cuerpo_tabla_izq">Cáñamo.</td>
-> <td class="cuerpo_tabla_izq">TP 276/2 rev. de 30.12.2022</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Glycine max</em> (L.) Merrill.</td>
-> <td class="cuerpo_tabla_izq">Habas de soja.</td>
-> <td class="cuerpo_tabla_izq">TP 80/1 de 15.3.2017</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Gossypium</em> spp.</td>
-> <td class="cuerpo_tabla_izq">Algodón.</td>
-> <td class="cuerpo_tabla_izq">TP 88/2 de 11.12.2020</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Helianthus annuus</em> L.</td>
-> <td class="cuerpo_tabla_izq">Girasol.</td>
-> <td class="cuerpo_tabla_izq">TP 81/1 de 31.10.2002</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Linum usitatissimum</em> L.</td>
-> <td class="cuerpo_tabla_izq">Lino.</td>
-> <td class="cuerpo_tabla_izq">TP 57/2 de 19.3.2014</td>
-> </tr>
-> </tbody>
-> <tfoot>
-> <tr>
-> <td colspan="3">(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu)</td>
-> </tr>
-> </tfoot>
-> </table>
-
-> <table class="tabla">
-> <caption>
-> <p class="centro_cursiva">Especies que cumplen con las directrices de examen de la UPOV (2)</p>
-> </caption>
-> <colgroup>
-> <col width="32%">
-> <col width="29%">
-> <col width="39%">
-> </colgroup>
-> <thead>
-> <tr>
-> <th class="cabeza_tabla">Nombre científico</th>
-> <th class="cabeza_tabla">Denominación común</th>
-> <th class="cabeza_tabla">Protocolo</th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Carthamus tinctorius</em> L.</td>
-> <td class="cuerpo_tabla_izq">Cártamo.</td>
-> <td class="cuerpo_tabla_izq">TG/134/4 de 24.10.2023</td>
-> </tr>
-> <tr>
-> <td class="cuerpo_tabla_izq"><em>Papaver somniferum</em> L.</td>
-> <td class="cuerpo_tabla_izq">Adormidera.</td>
-> <td class="cuerpo_tabla_izq">TG/166/4 de 9.4.2014</td>
-> </tr>
-> </tbody>
-> <tfoot>
-> <tr>
-> <td colspan="3">(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int)."</td>
-> </tr>
-> </tfoot>
-> </table>
 
 > Se modifica el apartado 6, con efectos de 1 de enero de 2026, por el art. único.2 de la Orden APA/1331/2025, de 27 de octubre. [Ref. BOE-A-2025-23683](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-23683)
 
@@ -2428,27 +2221,22 @@ Profundidad de los ojos.
 
 Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2025, hayan iniciado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos protocolos de examen o, en su caso, en los protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-<table class="tabla">
+<table>
 <caption>
-<p class="centro_cursiva">Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
+<p>Especies que cumplen con los protocolos de examen de la OCVV (1)</p>
 </caption>
-<colgroup>
-<col width="32%">
-<col width="29%">
-<col width="39%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Nombre científico</th>
-<th class="cabeza_tabla">Denominación común</th>
-<th class="cabeza_tabla">Protocolo</th>
+<th>Nombre científico</th>
+<th>Denominación común</th>
+<th>Protocolo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq"><em>Solanum tuberosum</em> L.</td>
-<td class="cuerpo_tabla_izq">Patata.</td>
-<td class="cuerpo_tabla_izq">TP 23/4 de 28.11.2023</td>
+<td><em>Solanum tuberosum</em> L.</td>
+<td>Patata.</td>
+<td>TP 23/4 de 28.11.2023</td>
 </tr>
 </tbody>
 <tfoot>

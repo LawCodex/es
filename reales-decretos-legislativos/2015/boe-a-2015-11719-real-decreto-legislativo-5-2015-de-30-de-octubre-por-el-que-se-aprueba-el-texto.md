@@ -892,8 +892,6 @@ l) Por matrimonio o registro o constitución formalizada por documento público 
 
 m) Por el tiempo indispensable para la realización de los actos preparatorios de la donación de órganos o tejidos siempre que deban tener lugar dentro de la jornada de trabajo.
 
-> Téngase en cuenta que la letra m), añadida por el art. 3 de la Ley 6/2024, de 20 de diciembre [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025 según determina su disposición final 4.
-
 > Se añade la letra m) por el art. 3 de la Ley 6/2024, de 20 de diciembre [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
 
 > Téngase en cuenta que esta actualización entra en vigor el 3 de marzo de 2025, según determina la disposición final 4 de la citada Ley.

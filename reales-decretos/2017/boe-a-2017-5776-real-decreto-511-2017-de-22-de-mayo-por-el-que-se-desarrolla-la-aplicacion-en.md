@@ -1,0 +1,893 @@
+---
+title: "Real Decreto 511/2017, de 22 de mayo, por el que se desarrolla la aplicación en España de la normativa de la Unión Europea en relación con el programa escolar de consumo de frutas, hortalizas y leche"
+identifier: "BOE-A-2017-5776"
+eli: "https://www.boe.es/eli/es/rd/2017/05/22/511"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente"
+date: 2017-05-22
+published: 2017-05-25
+in_force_from: 2017-05-26
+last_amended: 2025-07-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 124"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5776"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 511/2017, de 22 de mayo, por el que se desarrolla la aplicación en España de la normativa de la Unión Europea en relación con el programa escolar de consumo de frutas, hortalizas y leche
+
+El Reglamento (UE) n.º 2016/791 del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, por el que se modifican los Reglamentos (UE) n.º 1308/2013 y (UE) n.º 1306/2013 en lo que atañe al régimen de ayudas para la distribución en los centros escolares de frutas y hortalizas, plátanos y leche, ha establecido un nuevo régimen para el programa de consumo de frutas y hortalizas y el programa de consumo de leche en las escuelas, dotándolo de un marco jurídico y financiero común, más adecuado y efectivo, con la finalidad de maximizar el impacto de la distribución y aumentar la eficacia de la gestión de los programas escolares.
+
+Junto con él, el Reglamento (UE) n.º 2016/795, del Parlamento Europeo y del Consejo, de 11 de abril de 2016, que modifica el Reglamento (UE) n.º 1370/2013 por el que se establecen medidas relativas a la fijación de ayudas y restituciones en relación a la organización común de mercados de los productos agrícolas, procede a adaptar las disposiciones sobre la ayuda para la distribución de frutas y hortalizas a los niños y la ayuda a la distribución de leche y de productos lácteos a este nuevo régimen de ayudas.
+
+En la actualidad sigue existiendo una tendencia a la baja en el consumo de frutas y hortalizas frescas y de leche de consumo, por ello los reglamentos establecen la necesidad de centrar la distribución de forma prioritaria en estos productos, aunque se permita, a decisión de los Estados miembros, distribuir productos transformados a base de frutas y hortalizas y otros productos lácteos sin adición de aromatizante, frutas, frutos secos o cacao, o los productos lácteos fermentados y bebidas a base de leche recogidos en el anexo V del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/01 y (CE) n.º 1234/2007. Asimismo, deben realizarse esfuerzos para garantizar la distribución de productos locales y regionales, y a las regiones menos desarrolladas y a las regiones ultraperiféricas.
+
+Los Reglamentos, además de recoger las condiciones generales relativas a la selección de los solicitantes, a las medidas educativas de acompañamiento y los costes subvencionables, establecen que, para poder participar en el régimen escolar, es condición necesaria que los Estados miembros establezcan su estrategia nacional o regional de carácter plurianual, así como la presentación de una solicitud de ayuda de la Unión Europea anualmente.
+
+El Real Decreto 487/2010, de 23 de abril, por el que se establecen las modalidades de aplicación de la ayuda al suministro de leche y productos lácteos a los alumnos de centros escolares, incorporó la reglamentación comunitaria posteriormente derogada por el Reglamento (CE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre.
+
+Sin perjuicio de la aplicabilidad directa de los Reglamentos de la Unión Europea, y dado que es preciso desarrollar algunos aspectos del Reglamento (UE) 2016/791, del Parlamento Europeo y del Consejo de 11 de mayo de 2016, del Reglamento (UE) 2016/795, del Consejo, de 11 de abril de 2016; del Reglamento de Ejecución (UE) 2017/39, de la Comisión, de 3 de noviembre de 2016, por el que se establecen las normas de desarrollo del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, en lo que atañe a la ayuda de la Unión para la distribución en los centros escolares de frutas y hortalizas, plátanos y leche, y del Reglamento Delegado (UE) 2017/40, de la Comisión, de 3 de noviembre de 2016, por el que se completa el Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, en lo relativo a la ayuda de la Unión para el suministro de frutas y hortalizas, plátanos y leche en los centros escolares y se modifica el Reglamento Delegado (UE) n.º 907/2014, de la Comisión, procede derogar el meritado Real Decreto 487/2010, de 23 de abril y substituirlo por uno nuevo, que establezca las normas de desarrollo en lo relativo a la ayuda para la distribución en los centros escolares tanto de frutas y hortalizas, como de leche y productos lácteos, a las medidas educativas de acompañamiento que apoyen dicha distribución de productos, así como las disposiciones relativas a los solicitantes, a la estrategia y a las solicitudes de ayuda de la Unión Europea que los Estados miembros deben presentar a la Comisión.
+
+Mediante el presente real decreto se unifica el tratamiento dado en el Reino de España al Plan escolar de consumo de leche y productos lácteos, substituyéndose por el presente real decreto el hasta ahora vigente Real Decreto 487/2010,, de 23 de abril, que se deroga, sin perjuicio de que la disposición transitoria establece su aplicación hasta el fin del plan en el presente curso escolar y al plan de consumo de frutas y hortalizas, que a diferencia del anterior no dio lugar a norma interna alguna de facilitación de la ejecución directa de los Reglamentos a él dedicados, por estimarse innecesario.
+
+De acuerdo con todo lo anterior, la finalidad del presente real decreto es aprobar la normativa que facilite la concesión de una ayuda financiada con cargo a los fondos de la Unión Europea. En todo lo no previsto en los Reglamentos citados y en este real decreto, la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se aplicará con carácter supletorio.
+
+La gestión de la financiación comunitaria se llevará a cabo de acuerdo con lo previsto en el Real Decreto 521/2006, de 28 de abril, por el que se establece el régimen de los organismos pagadores y de coordinación de los fondos europeos agrícolas.
+
+El régimen de ayudas previsto en el presente real decreto será de aplicación en todo el territorio nacional.
+
+El presente real decreto se dicta en aplicación de la normativa de la Unión Europea antes citada.
+
+En la elaboración de este real decreto se ha consultado a las comunidades autónomas, así como a las entidades más representativas de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente con la aprobación previa del Ministro de Hacienda y Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 19 de mayo de 2017,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto establecer las condiciones básicas de aplicación del régimen de ayudas para la distribución de frutas y hortalizas, frutas y hortalizas transformadas y productos del plátano, leche y productos lácteos a los niños en centros escolares, en el marco de un programa escolar de consumo de fruta y hortalizas y de leche, de conformidad con lo previsto en el Reglamento (UE) n.º 2016/791, del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, por el que se modifican los Reglamentos (UE) n.º 1308/2013 y (UE) n.º 1306/2013 en lo que atañe al régimen de ayudas para la distribución en los centros escolares de frutas y hortalizas, plátanos y, leche y en el Reglamento (UE) n.º 2016/795, del Consejo, de 11 de abril de 2016, por el que se modifica el Reglamento (UE) n.º 1370/2013, por el que se establecen medidas relativas a la fijación de determinadas ayudas y restituciones en relación a la organización común de mercados de los productos agrícolas, y los Reglamentos que los desarrollan y complementan, para mejorar la distribución de frutas y hortalizas, frutas y hortalizas transformadas y productos del plátano, leche y productos lácteos y los hábitos alimentarios de los niños en centros escolares.
+
+## Artículo 2. Definiciones.
+
+A efectos de la aplicación del presente real decreto, se entenderá por:
+
+a) Año escolar: Período comprendido del 1 de agosto al 31 de julio del año siguiente.
+
+b) Destinatarios: Los alumnos que asisten regularmente a un centro escolar administrado o reconocido por la autoridad competente en el ámbito educativo que pertenezca a una de las categorías siguientes: guarderías u otros centros de preescolar y escuelas primarias y secundarias, en particular, escuelas infantiles, colegios de Educación Primaria, colegios de Educación Infantil y Primaria, institutos de educación secundaria y centros de educación especial y otros centros docentes que determinen las Administraciones educativas.
+
+c) Grupo objetivo: Grupo de edad de los escolares objeto del programa escolar establecido en la Estrategia nacional
+
+d) Solicitante de ayuda a los efectos del derecho de la Unión Europea: las autoridades competentes que, conforme a la disposición adicional quinta de la Ley 38/2003, de 17 de noviembre, realicen a título gratuito el suministro de los productos, las medidas educativas y/o servicios relativos a los programas en los centros escolares, previa contratación pública o por encargo a medios propios personificados, de acuerdo con la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+Asimismo, en aquellas comunidades autónomas que así lo determinen, podrán ser solicitantes de la ayuda, además de a los efectos del derecho de la Unión Europea a efectos de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los centros escolares que cumplan los requisitos establecidos en los artículos 9 y 11.
+
+> Se modifica el párrafo segundo de la letra d) por el art. único.1 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica la letra d) por el art. único.1 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica la letra d), con efectos de 1 de julio de 2019, por el art. único.1 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 3. Estrategia.
+
+1\. De acuerdo al artículo 2 del Reglamento Delegado (UE) 2017/40, de la Comisión, de 3 de noviembre de 2016, por el que se completa el Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo en lo relativo a la ayuda de la Unión para el suministro de frutas y hortalizas, plátanos y leche en los centros escolares y se modifica el Reglamento Delegado (UE) n.º 907/2014, de la Comisión, el Ministerio de Agricultura, Pesca y Alimentación, en colaboración con el Ministerio de Educación y Formación Profesional y en coordinación con las comunidades autónomas, será el responsable de la elaboración de la Estrategia para la aplicación del programa escolar en todo el territorio nacional, que cubrirá un periodo de seis años. La Estrategia, que tendrá ámbito nacional, será aprobada y comunicada a la Comisión por la Dirección General de la Industria Alimentaria y estará disponible en el sitio web http://www.mapama.gob.es/es/alimentacion/temas/promocion-alimentaria/programa_escolar/.
+
+2\. A efectos de la elaboración y mantenimiento convenientemente actualizada de la Estrategia nacional, las comunidades autónomas prepararán una memoria conforme al modelo de intercambio de datos que se recoge en el anexo I y la remitirán, con carácter general, antes del 1 de marzo que preceda a cada curso escolar cubierto por la estrategia a la Dirección General de la Industria Alimentaria, con el fin de asegurar que la información a incorporar en la Estrategia nacional se ajusta a los reglamentos de la Unión Europea.
+
+3\. Cualquier modificación de la información recogida en la memoria mencionada en el apartado anterior deberá ser comunicada a la Dirección General de la Industria Alimentaria en el plazo máximo de veinte días desde que se produzca dicha modificación, a efectos de realizar las correspondientes modificaciones de la Estrategia nacional y de su comunicación a la Comisión.
+
+> Se modifica el apartado 2, con efectos de 1 de julio de 2019, y las referencias a los Ministerios del apartado 1 por el art. único.2 y la disposición adicional única del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 4. Productos.
+
+1\. El Ministerio de Agricultura, Pesca y Alimentación garantizará la pertinente participación de las autoridades nacionales encargadas de la salud y la nutrición en la elaboración de la lista de productos a distribuir. Podrán ser objeto de distribución en el programa escolar los siguientes grupos de productos:
+
+a) Los productos frescos del sector de frutas y hortalizas y del sector del plátano.
+
+b) Leche de consumo y sus versiones sin lactosa.
+
+2\. Con el fin de fomentar el consumo de productos específicos o para responder a las necesidades nutricionales particulares de los niños en su territorio también podrán ser objeto de distribución en el programa escolar:
+
+a) Los productos transformados a base de frutas y hortalizas.
+
+b) Queso, cuajada, yogur natural y otros productos lácteos fermentados o acidificados, sin adición de aromatizante, frutas, frutos secos o cacao.
+
+3\. La ayuda de la Unión Europea se destinará preferentemente a la distribución de los grupos de productos recogidos en el apartado 1. Será preceptiva la distribución de productos frescos del sector de frutas y hortalizas para poder suministrar los productos transformados a base de frutas y hortalizas. Así mismo, la distribución de leche de consumo será un requisito previo para el suministro de otros productos lácteos.
+
+4\. En ningún caso los productos indicados en los apartados 1 y 2 podrán contener edulcorantes, ni potenciadores artificiales del sabor E 620 a E650 añadidos y sólo podrán contener sal o grasas añadidas, en cantidades limitadas, previa autorización de la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición (AECOSAN). Para obtener dicha autorización las comunidades autónomas deberán presentar una solicitud motivada a la Dirección General de la Industria Alimentaria para su traslado a la AECOSAN.
+
+5\. Los límites máximos de sal y grasas añadidos autorizados por la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) estarán disponibles en el sitio web https://www.mapa.gob.es/es/alimentacion/temas/promocion-alimentaria/programa_escolar/normativa_de_aplicacion.aspx.
+
+6\. Los productos citados en el apartado 2 no podrán contener azúcares añadidos.
+
+7\. Los quesos podrán contener como máximo un 10 % de ingredientes no lácteos.
+
+> Se modifica el apartado 3 por el art. único.2 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifican los apartados 3, 5 y 7, con efectos de 1 de julio de 2019, y las referencias a los Ministerios del apartado 1 por el art. único.3 y la disposición adicional única del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 5. Ayuda de la Unión para el suministro y la distribución de productos.
+
+1\. La ayuda de la Unión Europea se podrá destinar a financiar el suministro y distribución, incluida la logística y reparto, de los productos subvencionables a los que se hace referencia en el artículo 4. Los productos no podrán ser objeto de distribución en el marco de las comidas escolares.
+
+Al seleccionar a los proveedores de bienes y servicios, las autoridades competentes garantizarán el cumplimiento de la legislación aplicable, especialmente las normas sobre contratación pública.
+
+2\. El valor máximo aplicable al producto en euros/Kg para el suministro y distribución, incluidos los costes de logística y reparto, será el establecido en el anexo II. No obstante, dada la gran dispersión geográfica de algunos centros escolares del territorio nacional, cuando las rutas de distribución supongan más de 350 kilómetros se podrá complementar el valor máximo aplicable al producto en euros/Kg para cubrir gastos extra de transporte tal y como se establece en el anexo II. Por el mismo motivo, en el caso del transporte marítimo de los alimentos a distribuir entre islas será aplicable un único suplemento de 0,1083 €/Kg, recogido en el anexo II.
+
+Los valores previstos en el anexo II, excepto los gastos extra de transporte, podrán incrementarse hasta un máximo del 30 % para productos avalados por regímenes de calidad reconocidos por la Unión Europea, establecidos en el Reglamento (UE) n.º 1151/2012, del Parlamento y del Consejo, de 21 de noviembre de 2012, sobre los regímenes de calidad de los productos agrícolas y alimenticios, y en el Reglamento (CE) n.º 834/2007 del Consejo, de 28 de junio de 2007, sobre producción y etiquetado de los productos ecológicos y por el que se deroga el Reglamento (CEE) n.º 2092/91, o de los regímenes de calidad a que se refiere el artículo 16.1, letras b) y c), del Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (Feader) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo.
+
+Para los productos distribuidos a los centros escolares de la Comunidad Autónoma de Extremadura, así como aquellas otras comunidades autónomas que en un futuro pudieren ser consideradas regiones menos desarrolladas de acuerdo al anexo I de la Decisión de Ejecución de la Comisión, de 18 de febrero de 2014, que establece la lista de regiones que pueden recibir financiación del Fondo Europeo de Desarrollo Regional y del Fondo Social Europeo, y de los Estados miembros que pueden recibir financiación del Fondo de Cohesión durante el período 2014-2020, el valor máximo aplicable al producto en euros/Kg contemplado en el anexo II podrá incrementarse hasta un 20 %.
+
+En el caso de la Comunidad Autónoma de Canarias, debido a su condición de región ultraperiférica, el valor máximo aplicable al producto en euros/Kg contemplado en el anexo II podrá incrementarse hasta un 25 %.
+
+Además, de acuerdo a lo establecido en el artículo 7, las comunidades autónomas podrán complementar el valor máximo aplicable al producto en euros/Kg con fondos propios.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica el apartado 2, con efectos de 1 de julio de 2019, por el art. único.4 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 6. Ayuda de la Unión para medidas educativas de acompañamiento y otros gastos conexos.
+
+1\. Las autoridades competentes velarán por el establecimiento de medidas educativas de acompañamiento para apoyar la distribución de frutas, hortalizas y leche en los centros escolares para los niños participantes. Las medidas educativas de acompañamiento también podrán implicar a familias, profesores y personal del centro educativo relacionado con el plan.
+
+Por tanto, serán financiables mediante ayuda de la Unión Europea las siguientes actividades:
+
+a) medidas educativas de acompañamiento, y
+
+b) costes de publicidad, de seguimiento y de evaluación del programa escolar.
+
+2\. Para ser subvencionables, las medidas educativas de acompañamiento deberán estarán directamente orientadas a la consecución de los objetivos generales del programa escolar, en concreto a:
+
+a) Aumentar, a corto y largo plazo, el consumo de los productos objeto del programa escolar y reconectar a los niños con la agricultura y la alimentación
+
+b) Promover hábitos y conductas saludables vinculadas al consumo de dichos productos en los alumnos de los centros escolares, así como a la promoción de otros hábitos saludables como la actividad física.
+
+Como objetivos complementarios, dichas medidas estarán orientadas a incrementar el conocimiento por parte de los alumnos abordando otros temas conexos como las cadenas alimentarias locales, la agricultura ecológica, la producción sostenible o la lucha contra el desperdicio de alimentos.
+
+3\. Las autoridades competentes de las comunidades autónomas en las que estén ubicados los centros en los que se vayan a desarrollar las medidas de acompañamiento, serán las encargadas de su diseño. En las medidas educativas de acompañamiento se asegurará la promoción de la alimentación y estilos de vida saludables según las recomendaciones de las instituciones sanitarias nacionales e internacionales.
+
+No obstante, el Ministerio de Agricultura, Pesca y Alimentación, en colaboración con el Ministerio de Educación y Formación Profesional, con la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) del Ministerio de Sanidad, Consumo y Bienestar Social y con las comunidades autónomas, así como los agentes que realicen el suministro y distribución de productos, podrán igualmente desarrollar medidas educativas de acompañamiento del programa escolar, incluida la producción de materiales y su puesta a disposición de los órganos competentes de las comunidades autónomas y los centros escolares. La AESAN revisará la adecuación de las medidas educativas de acompañamiento a la promoción de la alimentación y estilos de vida saludables previstas en este párrafo según las recomendaciones de las instituciones sanitarias nacionales e internacionales.
+
+Dichas medidas se diseñarán y desarrollarán sobre la base de las recomendaciones elaboradas por el Grupo nacional de expertos en medidas de acompañamiento, creado en virtud de las directrices de la Comisión Europea al respecto, que cuenta entre sus miembros con asesores vinculados con los sectores educativo y sanitario. Las recomendaciones del Grupo nacional de expertos son de acceso público en el sitio web https://www.mapa.gob.es/es/alimentacion/temas/promocion-alimentaria/programa_escolar/normativa_de_aplicacion.aspx.
+
+4\. De manera complementaria a los productos previstos en el artículo 4, las medidas educativas de acompañamiento podrán incluir la distribución para su degustación de otros productos agrícolas nacionales, como aceite de oliva, aceitunas de mesa deshuesada y miel. En este caso será preceptiva la participación de la AESAN en su elaboración.
+
+5\. La ayuda de la Unión Europea a las actividades recogidas en las letras a) y b) del apartado 1 estará limitada, respectivamente, al 15 % y al 10 % de la cantidad de asignada a cada comunidad autónoma por la Conferencia Sectorial de Agricultura y Desarrollo Rural, de acuerdo con lo previsto en el apartado 1 del anexo IV.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.5 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 7. Ayuda nacional.
+
+1\. De acuerdo con lo previsto en el artículo 217 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/01 y (CE) n.º 1234/2007, la ayuda de Unión Europea podrá ser completada con una ayuda nacional, que podrá ser financiada con fondos de los Presupuestos Generales del Estado de acuerdo a las disponibilidades presupuestarias, y en su caso, con fondos de las comunidades autónomas. Éstas podrán también determinar que existan aportaciones del sector privado a la financiación, incluidas las aportaciones en especie.
+
+2\. En el caso de que se destine ayuda proveniente de los presupuestos generales del Estado, se exceptuarán los territorios históricos de País Vasco y Navarra en virtud de sus respectivos conciertos.
+
+3\. Las comunidades autónomas que concedan una ayuda nacional podrán otorgarla según criterios establecidos por las mismas, siempre y cuando no sean contrarios a la Estrategia nacional comunicada a la Comisión Europea. Cualquier ayuda nacional o aportación del sector privado deberá ser descrita, cuantificada y comunicada a la Dirección General de la Industria Alimentaria en la memoria contemplada en el artículo 3.2.
+
+## Artículo 8. Solicitantes de ayuda para el suministro y la distribución de productos y/o la realización de las medidas de acompañamiento.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. único.5 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.6 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 9. Procedimiento para el suministro y la distribución de productos y la realización de las medidas de acompañamiento.
+
+1\. Las comunidades autónomas establecerán los periodos de suministro y calendarios de distribución, así como las disposiciones relativas a las categorías y las calidades de los productos que vayan a distribuirse en centros escolares de su ámbito territorial, y cualquier otro requisito respecto a los grupos objetivo y centros escolares, siempre que sean acordes a la Estrategia nacional.
+
+Las comunidades autónomas, igualmente, serán las competentes para establecer las disposiciones preceptivas para el desarrollo de las medidas de acompañamiento en su territorio.
+
+2\. Cuando el suministro y la distribución de productos, la realización de las medidas de acompañamiento o servicios relativos a los programas se lleve a cabo por las autoridades competentes de las comunidades autónomas, éste se instrumentará mediante procedimientos de contratación pública o mediante encargo a medios propios personificados. Las comunidades autónomas establecerán en los pliegos de licitación públicos y en las condiciones técnicas del encargo, respectivamente, la información a la que se refiere el apartado 1, incluyendo los compromisos equivalentes a los recogidos en el anexo III que sean de aplicación.
+
+En tales casos, las autoridades competentes llevarán a cabo la actividad directamente o a través del proveedor o proveedores que haya resultado adjudicatarios del contrato o del encargo.
+
+3\. Cuando las comunidades autónomas prevean la participación de los centros escolares como solicitantes de la ayuda, los requisitos a los que se hace referencia en el apartado anterior deberán estar establecidos en las bases reguladoras de la convocatoria de la ayuda.
+
+Los centros escolares deberán presentar, antes de la fecha fijada por el órgano competente, la solicitud de ayuda, que se acompañará de la documentación que establezca la comunidad autónoma y de un compromiso de acuerdo con el modelo establecido en el anexo III.
+
+La presentación se realizará, cuando se trate de personas jurídicas, de forma electrónica a través del correspondiente registro electrónico en aplicación de lo previsto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre. Cuando se trate de personas físicas, podrá hacerse a través de cualquiera de los registros y medios previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+Las comunidades autónomas serán las competentes para examinar y resolver las solicitudes de ayuda en la distribución de los productos y en la realización de las medidas de acompañamiento o servicios relativos a los programas en su territorio a las que se refieren los párrafos anteriores.
+
+Los centros escolares que la autoridad competente seleccione tras la tramitación del oportuno procedimiento administrativo tendrán la consideración de beneficiarios de la ayuda.
+
+4\. Las autoridades competentes establecerán los mecanismos de control pertinentes para evitar la doble financiación.
+
+> Se modifica por el art. único.6 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.7 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 10. Procedimiento para el pago.
+
+1\. Las solicitudes de pago se presentarán ante el órgano competente de la comunidad autónoma en la que se haya realizado la distribución, en un plazo máximo de tres meses, contados a partir del día siguiente al final del período de suministro que haya establecido cada comunidad autónoma de acuerdo al artículo 9.1.
+
+2\. Cuando el suministro y la distribución de productos, la realización de las medidas de acompañamiento o servicios relativos a los programas se lleven a cabo por las autoridades competentes de las comunidades autónomas mediante procedimientos de contratación pública o de encargos a medios propios, los adjudicatarios deberán cumplir con todos los requisitos establecidos en el contrato y presentar a la autoridad competente cuanta documentación esté indicada en el mismo.
+
+Una vez se hayan realizado efectivamente los trabajos indicados en el contrato y sean formalmente recibidos por la Administración, el órgano competente efectuará los correspondientes controles administrativos para verificar el cumplimiento de los términos del contrato. Posteriormente, se presentará al organismo pagador correspondiente la solicitud de pago asociada a dicho contrato.
+
+3\. Cuando los solicitantes de la ayuda sean los centros escolares, una vez efectuadas las entregas de productos, las medidas de acompañamiento o los servicios relativos a los programas correspondientes, deberán presentar una solicitud de pago ante la autoridad competente que deberá ajustarse a lo indicado en la solicitud de ayuda y que incluirá, como mínimo, la siguiente información:
+
+a) Las cantidades de producto distribuidas por grupos de producto.
+
+b) El nombre y la dirección del centro escolar en el que se ha distribuido el producto o el servicio.
+
+c) El número de niños matriculados al comienzo del curso escolar en el centro escolar.
+
+d) Las facturas y justificantes de pago, cuando se aplique esta forma de pago, y que deberán evidenciar la realidad del suministro realizado.
+
+e) Los documentos justificativos determinados por la autoridad competente cuando se aplique esta forma de pago, que deberán evidenciar la realidad del suministro realizado.
+
+4\. En el caso de los centros escolares, el pago de la ayuda podrá realizarse mediante:
+
+a) Justificantes presentados por los solicitantes.
+
+Se deberán tener en cuenta los valores máximos aplicables a cada producto establecidos en el anexo II, de manera que la ayuda concedida se basará en el menor de los dos importes, el presentado por los solicitantes o el importe máximo subvencionable.
+
+En este caso, la autoridad competente deberá garantizar que se cumple la moderación de costes, que se evaluará mediante, al menos, uno de los siguientes sistemas, o una combinación de los mismos:
+
+1.º Comparación de diferentes ofertas: con carácter general, el solicitante deberá aportar junto con la solicitud de ayuda un mínimo de tres ofertas de diferentes proveedores. Se deberá evaluar, al menos, la independencia de las ofertas, que los elementos de las ofertas sean comparables, así como la claridad y el detalle de la descripción de las mismas. La elección entre las ofertas presentadas se realizará conforme a criterios de eficacia y economía, debiendo justificarse expresamente la elección cuando ésta no recaiga en la propuesta económica más ventajosa, así como, en su caso, la inexistencia de suficientes proveedores.
+
+2.º Costes de referencia: la autoridad competente establece o utiliza una base de datos de precios de referencia. Esta base de datos deberá ser completa, estar suficientemente detallada, actualizarse periódicamente y garantizar que los precios reflejen los precios de mercado.
+
+3.º Comité de evaluación: si se establece un comité de evaluación o se lleva a cabo un estudio de mercado. Deberá tenerse en cuenta la experiencia de los miembros del comité en el área correspondiente. El trabajo del comité deberá documentarse correctamente.
+
+b) Baremos estándar de costes unitarios.
+
+El método de cálculo utilizado para su determinación deberá ser justo, equitativo y verificable, basado en:
+
+1.º Datos estadísticos u otra información objetiva; o
+
+2.º Datos históricos verificados de beneficiarios concretos; o
+
+3.º La aplicación de las prácticas habituales de contabilidad de costes de los distintos beneficiarios.
+
+5\. A efectos de este programa, se tendrán en cuenta las siguientes reducciones en relación al plazo de presentación de la solicitud de pago:
+
+a) Un 5 %, si el plazo se supera entre 1 y 30 días naturales.
+
+b) Un 10 %, si el plazo se supera entre 31 y 60 días naturales.
+
+c) Si se supera el plazo en más de 60 días naturales, la ayuda se reducirá además en un 1 % por cada día adicional, calculado sobre el saldo restante.
+
+6\. En todos los casos, independientemente del procedimiento, las autoridades competentes deberán emitir una resolución y realizar el pago en el plazo máximo de tres meses contados a partir del día de presentación de la solicitud de pago, a menos que tenga lugar alguno de los supuestos recogidos en el artículo 22 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.7 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.8 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 11. Financiación de las medidas de acompañamiento y otros gastos conexos.
+
+1\. El desarrollo de medidas educativas de acompañamiento, y las actividades de seguimiento, evaluación y/o publicidad podrán ser objeto de financiación de la Unión Europea en el marco del programa escolar.
+
+2\. Las comunidades autónomas y, en su caso, el Ministerio de Agricultura, Pesca y Alimentación, así como los proveedores de producto o cualquier otra empresa o entidad que autoricen las autoridades competentes en las comunidades autónomas podrán ser los solicitantes de ayuda para las actividades previstas en el apartado 1, que se desarrollen y que cumplan con los requisitos establecidos en la legislación de la Unión Europea.
+
+3\. Para la obtención de la financiación de la Unión Europea, las autoridades competentes, o en su caso el FEGA, si dichas acciones han sido objeto de contratación pública por parte del Ministerio de Agricultura, Pesca y Alimentación, deberán disponer de pruebas que demuestren la entrega de los materiales y servicios prestados junto con un recibo o prueba de pago o equivalente, así como pruebas documentales que contengan un desglose financiero por actividades y datos de los costes correspondientes.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.9 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 12. Costes subvencionables.
+
+1\. Podrán recibir ayudas los costes relacionados en el artículo 4.1 del Reglamento delegado (UE) 2017/40.
+
+2\. Los costes a los que hace referencia el artículo 4.1.f) del Reglamento delegado (UE) 2017/40, se consideran incluidos en los costes de la letra a) del artículo 4.1 de dicho reglamento delegado.
+
+3\. No podrán recibir ayuda de la Unión Europea los gastos previstos en el artículo 4.3 y 4.4 del Reglamento delegado (UE) 2017/40.
+
+## Artículo 13. Disposiciones financieras.
+
+1\. A fin de que el Ministerio de Agricultura, Pesca y Alimentación pueda presentar a las autoridades de la Unión Europea la solicitud de ayuda para el Reino de España establecida en el artículo 3 del Reglamento de ejecución (UE) 2017/39, las comunidades autónomas deberán remitir a la Dirección General de la Industria Alimentaria, a más tardar el 20 de diciembre del año anterior al inicio de cada curso escolar, información sobre los fondos de la Unión Europea necesarios para el desarrollo del programa escolar en su comunidad autónoma para el siguiente curso escolar, de acuerdo al modelo establecido en el anexo IV.
+
+2\. Asimismo, para dar cumplimiento al artículo 3.b.ii del Reglamento de ejecución (UE) 2017/39 y garantizar el máximo aprovechamiento de los fondos de la Unión Europea, las comunidades autónomas comunicarán a la Dirección General de la Industria Alimentaria, a más tardar el 20 de diciembre del año escolar en curso, de acuerdo al anexo IV las cantidades de ayuda que no vayan a ser utilizadas en dicho curso, para su reasignación.
+
+3\. Una vez conocidas las necesidades de fondos en el ámbito nacional, en caso de que sea necesaria la realización de transferencias de fondos entre los dos programas escolares según lo previsto en el artículo 23 bis.4 del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por encima del límite del 25 % marcado en dicho artículo, el Ministerio de Agricultura, Pesca y Alimentación, en particular la Dirección General de la Industria Alimentaria, ajustará las cantidades solicitadas por las comunidades autónomas a través del anexo IV, a los porcentajes reglamentariamente establecidos.
+
+4\. Los criterios para el reparto de los fondos, incluidos los resultantes de la aplicación de los apartados anteriores, así como para la reasignación de los mismos, serán acordados en el seno de la Conferencia Sectorial de Agricultura y Desarrollo Rural.
+
+El importe asignado a cada comunidad autónoma en Conferencia Sectorial para un curso escolar dado podrá tomarse como base para la estimación de los fondos disponibles en los cursos escolares sucesivos, con el objeto de facilitar la contratación plurianual del suministro de productos en el marco del programa, de las medidas educativas de acompañamiento o de las medidas de información, publicidad y evaluación, con sujeción a los límites establecidos por la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+
+En todo caso, el importe final de fondos europeos que recibirá cada comunidad autónoma para cada curso escolar será el establecido en la Conferencia Sectorial en la cual se determine el reparto de fondos para ese curso escolar.
+
+La realización de contratos plurianuales, o compromisos presupuestarios relacionados con los mismos, no generará ningún derecho a la recepción de fondos adicionales a los que correspondan según los criterios de reparto establecidos en la Conferencia Sectorial.
+
+Las necesidades adicionales de fondos que puedan resultar de la diferencia entre los fondos europeos asignados en Conferencia Sectorial para un curso escolar concreto, y los compromisos presupuestarios derivados de la contratación plurianual, serán sufragadas, en cualquier caso, a cargo de los presupuestos de la Comunidad Autónoma contratante.
+
+Asimismo, las comunidades autónomas deberán contemplar en los documentos de contratación correspondientes las disposiciones necesarias para hacer frente a las posibles desviaciones entre las estimaciones de fondos que hayan previsto para el período plurianual, y las cantidades finalmente asignadas en las correspondientes Conferencias Sectoriales para cada curso escolar.
+
+5\. Las ayudas reguladas en este real decreto se financiarán con cargo al Fondo Europeo Agrícola de Garantía.
+
+> Se modifica el apartado 4 por el art. único.2 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifican los apartados 1 a 4, con efectos de 1 de julio de 2019, por el art. único.10 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 14. Controles de las ayudas.
+
+1\. Las actuaciones de control se realizarán conforme a lo establecido en el presente real decreto y en el Real Decreto 1047/2022, de 27 de diciembre, por el que se regula el sistema de gestión y control de las intervenciones del Plan Estratégico y otras ayudas de la Política Agrícola Común, y en especial se aplicarán las disposiciones en materia de control fijadas en los artículos 9 y 10 del Reglamento de Ejecución (UE) 2017/39 de la Comisión, de 3 de noviembre de 2016.
+
+Los controles del suministro y distribución de productos se realizarán por las autoridades competentes de las comunidades autónomas en las que se haya efectuado la distribución, que establecerán mecanismos de cooperación y colaboración que garanticen el intercambio de información entre ellas.
+
+2\. A tal fin, el FEGA, en coordinación con las autoridades competentes de las comunidades autónomas, establecerá un Plan Nacional de Controles y el mecanismo para el intercambio de la información necesaria entre las autoridades competentes cuando proveedores y centros escolares se encuentren en diferentes comunidades autónomas.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica el apartado 1 por el art. único.8 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 15. Incumplimientos y sanciones.
+
+De acuerdo con lo establecido en los artículos 7 y 8 del Reglamento Delegado (UE) 2017/40 de la Comisión, de 3 de noviembre de 2016, en caso de se detecte un incumplimiento de las obligaciones, excepto las contempladas en los apartados 5 y 6 del artículo 59 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021:
+
+Se exigirá la devolución de las ayudas pagadas indebidamente, imponiéndose además una sanción administrativa igual a la diferencia entre la cantidad percibida y aquélla a la que tendría derecho.
+
+Sin perjuicio de lo anterior, la autoridad competente suspenderá la participación del solicitante, de forma temporal por un periodo de uno a doce meses, o la revocará, dependiendo de la gravedad de la infracción y de acuerdo con el principio de proporcionalidad. La suspensión o la revocación no se aplicarán si la infracción es de menor importancia.
+
+Si las razones de la revocación han sido subsanadas, la autoridad competente podrá restablecer la participación, tras un periodo mínimo de doce meses desde la fecha de subsanación.
+
+> Se modifica por el art. único.4 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica por el art. único.9 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 16. Publicidad sobre la distribución europea de frutas y hortalizas y leche en los centros escolares.
+
+1\. Los centros escolares que participen en el programa escolar deberán publicitar en las instalaciones escolares, en la entrada principal del centro, o en un lugar donde se pueda ver y leer claramente, mediante los carteles publicitarios que determinen las autoridades competentes, que dicho programa está subvencionado por la Unión Europea.
+
+2\. Los carteles publicitarios podrán ser elaborados o suministrados a los centros escolares por los solicitantes de ayuda, siempre bajo la supervisión de las comunidades autónomas. Dichos carteles o materiales deberán ajustarse a los requisitos mínimos establecidos en el anexo del Reglamento delegado (UE) 2017/40, de 3 de noviembre de 2016.
+
+3\. Las medidas de comunicación y publicidad, así como los materiales educativos que se utilicen en el desarrollo de las medidas de acompañamiento, mostrarán la bandera de la Unión Europea y la mención «Programa escolar», y a menos que el tamaño del material no lo permita, la ayuda financiera de la Unión Europea.
+
+4\. Las referencias a la contribución financiera de la Unión Europea tendrán al menos la misma visibilidad que las otras contribuciones de otras entidades públicas o privadas al programa escolar.
+
+5\. De acuerdo con el artículo 12.4 del Reglamento de Ejecución (UE) 2017/39, las comunidades autónomas podrán seguir utilizando, hasta agotar existencias, las reservas de carteles y demás herramientas de publicidad previamente editadas.
+
+## Artículo 17. Deber de colaboración y comunicación.
+
+Las autoridades competentes de las comunidades autónomas en las que estén ubicados los centros en los que se vaya a desarrollar el Programa, serán las encargadas de realizar un informe de evaluación de la aplicación en su territorio, correspondiente al período de ejecución que cubra los cinco primeros cursos escolares de la Estrategia nacional, que se presentará a más tardar el 1 de febrero del año de calendario siguiente al final de esos cinco años escolares. No obstante, el Ministerio de Agricultura, Pesca y Alimentación, en colaboración con el Ministerio de Educación, Formación Profesional y Deportes, y las comunidades autónomas, podrá realizar la evaluación del programa escolar en el conjunto del territorio nacional.
+
+En aplicación de los artículos 8 y 13 del Reglamento de Ejecución (UE) 2017/39 de la Comisión, de 3 de noviembre de 2016, y a efectos de comunicar los datos previstos del artículo 9 del Reglamento Delegado (UE) 2017/40 de la Comisión, de 3 de noviembre de 2016, por el que se completa el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, en lo relativo a la ayuda de la Unión para el suministro de frutas y hortalizas, plátanos y leche en los centros escolares y se modifica el Reglamento Delegado (UE) n.º 907/2014 de la Comisión, las comunidades autónomas remitirán a la Dirección General de Alimentación del Ministerio de Agricultura, Pesca y Alimentación, un informe anual de seguimiento del programa escolar, a más tardar el 20 de diciembre siguiente a la finalización del curso escolar objeto del informe. Para ello utilizarán el modelo remitido por la Dirección General de Alimentación, que estará basado en la información requerida en el Sistema de Información para el Control y Gestión del Mercado Agrícola de la Comisión Europea (ISAMM).
+
+En lo que respecta a la información sobre los controles sobre el terreno efectuados y las conclusiones correspondientes, indicados en el apartado 4 del mencionado artículo 9 del Reglamento Delegado (UE) 2017/40 de la Comisión, de 3 de noviembre de 2016, las comunidades autónomas deberán remitirla al Fondo Español de Garantía Agraria, a más tardar el 30 de septiembre del año de calendario siguiente a la finalización del curso escolar de que se trata, de acuerdo con los modelos puesto a disposición por la Comisión.
+
+> Se modifica por el art. único.5 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.11 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## Artículo 18. Delimitación de la ayuda.
+
+1\. La ayuda de la Unión Europea no podrá utilizarse para substituir la ayuda concedida a cualquier otro plan nacional de consumo de fruta en las escuelas en el que se suministren frutas y hortalizas, frutas y hortalizas transformadas, y plátanos, leche y productos lácteos, o a otros planes de distribución en las escuelas que incluyan tales productos.
+
+2\. Tampoco se financiarán con los fondos del programa escolar costes que hayan sido financiados en virtud de otro régimen de ayuda, programa, medida u operación de la Unión Europea.
+
+## Disposición adicional única. Normativa aplicable.
+
+En todo lo no previsto en este real decreto será de aplicación el capítulo II del título I de la parte II del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y sus normas de desarrollo y aplicación, así como la Ley 38/2003, de 17 de noviembre, y su Reglamento, aprobado mediante Real Decreto 887/2006, de 21 de julio, y la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+
+> Se modifica por el art. único.6 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica por el art. único.10 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+## Disposición transitoria. Planes escolares en funcionamiento con anterioridad al curso escolar 2017/2018.
+
+Las disposiciones del Real Decreto 487/2010, de 23 de abril, por el que se establecen las modalidades de aplicación de la ayuda al suministro de leche y productos lácteos a los alumnos en centros escolares, y de la sección I del capítulo II del título I de la parte II del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, en su redacción vigente antes de la entrada en vigor del Reglamento (UE) 2016/791, del Parlamento Europeo y del Consejo, de 11 de mayo de 2016, seguirán siendo de aplicación al plan de consumo de fruta y hortalizas en las escuelas y al plan de consumo de leche en las escuelas durante los cursos escolares anteriores al curso escolar 2017/2018 hasta que dichos planes finalicen.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 487/2010, de 23 de abril, por el que se establecen las modalidades de aplicación de la ayuda al suministro de leche y productos lácteos a los alumnos en centros escolares.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final segunda. Facultad de modificación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para modificar el contenido de los anexos del presente real decreto cuando dichas modificaciones sean exigidas como consecuencia de la normativa de la Unión Europea, y en el caso del anexo II, cuando la evolución del mercado lo haga necesario. Además, podrá modificar las fechas y plazos contenidos en la presente disposición cuando deriven de Derecho de la Unión Europea.
+
+> Se modifica por el art. único.7 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica la referencia al Ministerio por la disposición adicional única del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+## Disposición final tercera. Deber de información.
+
+El Ministerio de Agricultura, Pesca y Alimentación y las comunidades autónomas se proporcionarán, preferentemente por vía electrónica, la información necesaria para facilitar el seguimiento de las disposiciones contempladas en este real decreto.
+
+> Se modifica la referencia al Ministerio por la disposición adicional única del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 22 de mayo de 2017.
+
+FELIPE R.
+
+La Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente,
+
+ISABEL GARCÍA TEJERINA
+
+## ANEXO I — Memoria para la estrategia
+
+![1](https://www.boe.es/datos/imagenes/disp/2017/124/05776_9046.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2017/124/05776_9084.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2017/124/05776_9269.png)
+
+![4](https://www.boe.es/datos/imagenes/disp/2017/124/05776_10085.png)
+
+![5](https://www.boe.es/datos/imagenes/disp/2017/124/05776_9376.png)
+
+## ANEXO II — Valor máximo aplicable al producto en €/kg
+
+<table>
+<caption>
+<p>A) Frutas y hortalizas frescas</p>
+</caption>
+<thead>
+<tr>
+<th>Producto</th>
+<th>
+<p>Valor máximo aplicable al producto</p>
+<p>–</p>
+<p>Euros/kilogramo</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acelga.</td>
+<td>2,62</td>
+</tr>
+<tr>
+<td>Ajo.</td>
+<td>4,97</td>
+</tr>
+<tr>
+<td>Albaricoque.</td>
+<td>3,92</td>
+</tr>
+<tr>
+<td>Alcachofa.</td>
+<td>3,92</td>
+</tr>
+<tr>
+<td>Apio.</td>
+<td>2,74</td>
+</tr>
+<tr>
+<td>Berenjena.</td>
+<td>2,96</td>
+</tr>
+<tr>
+<td>Brócoli.</td>
+<td>3,89</td>
+</tr>
+<tr>
+<td>Calabacín.</td>
+<td>2,85</td>
+</tr>
+<tr>
+<td>Calabaza.</td>
+<td>2,88</td>
+</tr>
+<tr>
+<td>Caqui y persimón.</td>
+<td>3,26</td>
+</tr>
+<tr>
+<td>Cebolla.</td>
+<td>2,74</td>
+</tr>
+<tr>
+<td>Cereza.</td>
+<td>6,63</td>
+</tr>
+<tr>
+<td>Champiñón y seta.</td>
+<td>4,12</td>
+</tr>
+<tr>
+<td>Ciruela.</td>
+<td>3,47</td>
+</tr>
+<tr>
+<td>Coliflor.</td>
+<td>3,05</td>
+</tr>
+<tr>
+<td>Escarola y endivia.</td>
+<td>3,84</td>
+</tr>
+<tr>
+<td>Espárrago.</td>
+<td>8,38</td>
+</tr>
+<tr>
+<td>Espinaca.</td>
+<td>2,96</td>
+</tr>
+<tr>
+<td>Fresa/Fresón.</td>
+<td>5,22</td>
+</tr>
+<tr>
+<td>Frutas de cáscara (castaña, almendra, avellana…)*.</td>
+<td>13,96</td>
+</tr>
+<tr>
+<td>Frutas tropicales (aguacate, chirimoya, mango, papaya, piña…).</td>
+<td>4,70</td>
+</tr>
+<tr>
+<td>Frutos rojos (frambuesa, arándano, grosella…).</td>
+<td>11,83</td>
+</tr>
+<tr>
+<td>Granada.</td>
+<td>3,33</td>
+</tr>
+<tr>
+<td>Guisante.</td>
+<td>7,00</td>
+</tr>
+<tr>
+<td>Haba verde.</td>
+<td>3,70</td>
+</tr>
+<tr>
+<td>Higo y breva.</td>
+<td>5,01</td>
+</tr>
+<tr>
+<td>Judía verde.</td>
+<td>5,49</td>
+</tr>
+<tr>
+<td>Kiwi.</td>
+<td>5,10</td>
+</tr>
+<tr>
+<td>Lechuga.</td>
+<td>3,01</td>
+</tr>
+<tr>
+<td>Limón y lima.</td>
+<td>2,85</td>
+</tr>
+<tr>
+<td>Mandarina, clementina, satsuma e híbridos de pequeños cítricos.</td>
+<td>3,22</td>
+</tr>
+<tr>
+<td>Manzana.</td>
+<td>3,24</td>
+</tr>
+<tr>
+<td>Melocotón, nectarina, paraguayo, platerina.</td>
+<td>3,55</td>
+</tr>
+<tr>
+<td>Melón.</td>
+<td>3,14</td>
+</tr>
+<tr>
+<td>Nabo.</td>
+<td>2,73</td>
+</tr>
+<tr>
+<td>Naranja.</td>
+<td>2,90</td>
+</tr>
+<tr>
+<td>Níspero.</td>
+<td>4,40</td>
+</tr>
+<tr>
+<td>Pepino.</td>
+<td>2,98</td>
+</tr>
+<tr>
+<td>Pera.</td>
+<td>3,42</td>
+</tr>
+<tr>
+<td>Pimiento.</td>
+<td>3,76</td>
+</tr>
+<tr>
+<td>Plátano.</td>
+<td>2,87</td>
+</tr>
+<tr>
+<td>Pomelo.</td>
+<td>3,07</td>
+</tr>
+<tr>
+<td>Puerro.</td>
+<td>3,14</td>
+</tr>
+<tr>
+<td>Rábano.</td>
+<td>2,77</td>
+</tr>
+<tr>
+<td>Repollo/Col.</td>
+<td>2,70</td>
+</tr>
+<tr>
+<td>Sandía.</td>
+<td>2,78</td>
+</tr>
+<tr>
+<td>Tomate (1 de junio-31 octubre).</td>
+<td>3,11</td>
+</tr>
+<tr>
+<td>Tomate (1 de nov-31 de mayo).</td>
+<td>3,46</td>
+</tr>
+<tr>
+<td>Tomate cherry.</td>
+<td>5,43</td>
+</tr>
+<tr>
+<td>Uva.</td>
+<td>4,16</td>
+</tr>
+<tr>
+<td>Zanahoria.</td>
+<td>2,73</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p>* No está permitida la distribución de cacahuete.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+| Producto | Valor máximo aplicable al producto<br>–<br>Euros/kilogramo |
+|---|---|
+| Frutas IV gama. | 10,73 |
+| Verduras y hortalizas IV gama. | 12,23 |
+| Zumo de fruta refrigerado/exprimido. | 2,99 |
+| Zumo de fruta procedente de concentrado. | 2,26 |
+| Zumo de hortalizas. | 2,48 |
+| Sopas y cremas de hortalizas. | 3,04 |
+
+| Producto | Valor máximo aplicable al producto<br>–<br>Euros/litro o euros/kilogramo |
+|---|---|
+| Leche tratada térmicamente (pasterizada). | 1,80 |
+| Leche tratada térmicamente (las demás). | 1,71 |
+| Leche tratada térmicamente. Sin lactosa. | 1,77 |
+| Queso fresco. | 8,45 |
+| Otros quesos. | 11,30 |
+| Cuajada, yogur y otros productos lácteos fermentados o acidificados, sin adición de aromatizante, frutas, frutos secos o cacao. | 4,89 |
+
+| Trayecto total de la ruta de distribución | Ayuda complementaria para gastos de transporte<br>–<br>Euros/kilogramo |
+|---|---|
+| Más de 350 km, pero menos de 500 km. | 0,0857 |
+| Más de 500 km, pero menos de 750 km. | 0,1125 |
+| Más de 750 km. | 0,1279 |
+| Suplemento por transporte frigorífico. | 0,0100 |
+| Suplemento único por transporte marítimo. | 0,1279 |
+
+> Se sustituye por el art. único.8 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica, con efectos de 30 de septiembre de 2019, por el art. 3 del Real Decreto 452/2019, de 19 de julio. [Ref. BOE-A-2019-10757](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-10757)
+
+> Esta modificación será de aplicación a partir del curso escolar 2019/2020, según establece la disposición final 2 del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
+
+## ANEXO III — Contenido mínimo de los compromisos para los centros escolares que actúen como solicitantes de ayuda en el Programa Escolar
+
+Declaración perteneciente a (marcar lo que proceda)
+
+| Comunidad autónoma |  |
+|---|---|
+| Centro escolar |  |
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Nombre o razón social del solicitante</p>
+<p> </p>
+</td>
+<td>
+<p>NIF</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>Teléfono</td>
+<td colspan="2">Fax</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Domicilio social</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Localidad</p>
+<p> </p>
+</td>
+<td>
+<p>Provincia</p>
+<p> </p>
+</td>
+<td>
+<p>Código Postal</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Apellidos y nombre del representante</p>
+<p> </p>
+</td>
+<td colspan="2">
+<p>NIF</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>El representante actúa en calidad de (1):</p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+EXPONE QUE SE COMPROMETE A:
+
+1\. Garantizar que los productos financiados por la Unión Europea en virtud del Programa escolar estén disponibles para el consumo por los alumnos del centro de enseñanza para los que solicitarán la ayuda.
+
+2\. Utilizar las ayudas asignadas para medidas educativas de acompañamiento, y para seguimiento, evaluación y publicidad, de acuerdo con los objetivos del programa escolar, si procede.
+
+3\. Reintegrar toda ayuda abonada de forma indebida por las cantidades que corresponda, si se comprueba que los productos no se han distribuido al alumnado, o no pueden recibir ayuda de la Unión Europea.
+
+4\. Poner los documentos justificativos a disposición de las autoridades competentes, cuando éstas lo soliciten.
+
+5\. Permitir a la autoridad competente realizar todos los controles necesarios, como la comprobación de los registros y la inspección física.
+
+6\. Llevar un registro de los productos y cantidades vendidos o suministrados en el centro escolar.
+
+7\. Garantizar que la ayuda de la Unión se refleja en el precio al que se facilitan los productos a los centros escolares.
+
+8\. Respetar en todo caso los límites máximos de sal y grasa añadidos autorizados por la AESAN.
+
+9\. Reintegrar toda ayuda abonada de forma indebida para medidas educativas de acompañamiento, así como a las de seguimiento, evaluación y publicidad, si se comprueba que dichas medidas o actividades no se han aplicado de forma correcta.
+
+SOLICITA:
+
+La aprobación para participar en el Programa escolar y realizar la distribución de productos/servicios *(táchese lo que no proceda),* a los destinatarios correspondientes.
+
+En________________________ a _______ de____________________ de 20__
+
+EL (1) _________________________
+
+Fdo.: _____________________________
+
+(1) Presidente, director, gerente, etc.
+
+> Se modifica por el art. único.11 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+## ANEXO IV — Información sobre los fondos solicitados por las comunidades autónomas
+
+Curso escolar:
+
+Comunidad Autónoma:
+
+Solicitud inicial ☐ Modificación ☐
+
+<table>
+<thead>
+<tr>
+<th> </th>
+<th>Suministro de producto<sup>1</sup></th>
+<th>Medidas de acompañamiento<br>y gastos conexos<sup>2</sup></th>
+<th>Publicidad, seguimiento y evaluación<sup>3</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Subprograma de frutas y hortalizas.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Subprograma de leche y lácteos.</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="4">
+<p><sup>1 </sup>Incluidos los costes de adquisición, alquiler o arrendamiento financiero de equipos utilizados en el suministro y distribución de los productos.</p>
+<p><sup>2</sup> Máximo 15 % del total de la ayuda comunitaria asignada a la Comunidad Autónoma.</p>
+<p><sup>3</sup> Máximo 10 % del total de la ayuda comunitaria asignada a la Comunidad Autónoma.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se sustituye por el art. único.9 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+## ANEXO V — Informe anual de seguimiento del Programa Escolar
+
+**(Suprimido)**
+
+> Se suprime por el art. único.10 del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)
+
+> Se modifica el punto 4.1.a) por el art. único.12 del Real Decreto 110/2022, de 8 de febrero. [Ref. BOE-A-2022-3676](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3676)
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. [Ref. BOE-A-2019-3909](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3909)
+
+> Información relacionada
+
+> Téngase en cuenta que las referencias hechas a la Dirección General de la Industria Alimentaria deben entenderse referidas a la Dirección General de Alimentación, o al órgano que la sustituya en su caso, según establece la disposición adicional única del Real Decreto 682/2025, de 29 de julio. [Ref. BOE-A-2025-15745](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15745)

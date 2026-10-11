@@ -1184,8 +1184,6 @@ También podrán celebrarse contratos laborales de carácter temporal para la re
 
 4\. Excepcionalmente, cuando necesidades de los servicios lo requieran, se podrán realizar ofertas públicas adicionales de empleo.
 
-> Téngase en cuenta que, durante el año 1994 queda suspendida la vigencia de este artículo en lo relativo a la necesidad de que la oferta de empleo público contenga la totalidad de las plazas dotadas presupuestariamente que se hallen vacantes y a que la publicación de la oferta obligue a proceder a la convocatoria de las pruebas selectivas de acceso para las plazas vacantes comprometidas en la misma, según establece la disposición adicional 15.1 de la Ley 3/1993, de 27 de diciembre. [Ref. BOE-A-1994-1665](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-1665).
-
 > Se suspende la vigencia en lo relativo a la necesidad de que la oferta de empleo público contenga la totalidad de las plazas dotadas presupuestariamente que se hallen vacantes y a que la publicación de la oferta obligue a proceder a la convocatoria de las pruebas selectivas de acceso para las plazas vacantes comprometidas en la misma, según establece la la disposición adicional 15.1 de la Ley 3/1993, de 27 de diciembre. [Ref. BOE-A-1994-1665](https://www.boe.es/buscar/doc.php?id=BOE-A-1994-1665).
 
 ### CAPÍTULO II — De las convocatorias

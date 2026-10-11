@@ -1,0 +1,4008 @@
+---
+title: "Real Decreto 652/2017, de 23 de junio, por el que se establece el título de Técnico en actividades ecuestres y se fijan los aspectos básicos del currículo"
+identifier: "BOE-A-2017-7982"
+eli: "https://www.boe.es/eli/es/rd/2017/06/23/652"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2017-06-23
+published: 2017-07-08
+in_force_from: 2017-07-09
+last_amended: 2024-05-28
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 162"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2017-7982"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 652/2017, de 23 de junio, por el que se establece el título de Técnico en actividades ecuestres y se fijan los aspectos básicos del currículo
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece en el artículo 10.1 que la Administración General del Estado, de conformidad con lo dispuesto en el artículo 149.1.30.ª y 7.ª de la Constitución y previa consulta al Consejo General de la Formación Profesional, determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+
+El Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, define en su artículo 9 la estructura de los títulos de formación profesional, tomando como base el Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos de interés social.
+
+Por otra parte, este real decreto concreta en el artículo 7 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, de modo que cada título incorporará, al menos, una cualificación profesional completa, con el fin de lograr que los títulos de formación profesional respondan de forma efectiva a las necesidades demandadas por el sistema productivo y a los valores personales y sociales que permitan ejercer una ciudadanía democrática.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, establezca cada uno de los títulos que formarán el Catálogo de títulos de la formación profesional del sistema educativo, los aspectos básicos del currículo y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+
+A estos efectos, procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, la prospectiva del título en el sector o sectores, las enseñanzas del ciclo formativo, la correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención, y los parámetros básicos de contexto formativo (espacios y equipamientos mínimos, titulaciones y especialidades del profesorado y sus equivalencias a efectos de docencia), previa consulta a las Comunidades Autónomas, según lo previsto en el artículo 95 de la Ley Orgánica 2/2006, de 3 de mayo.
+
+Asimismo, en cada título se determinarán los accesos a otros estudios, las convalidaciones, exenciones y equivalencias y, cuando proceda, la información sobre los requisitos necesarios para el ejercicio profesional, según la legislación vigente.
+
+Así, este real decreto, conforme a lo previsto en el Real Decreto 1147/2011, de 29 de julio, establece y regula, en los aspectos y elementos básicos antes indicados, el título de formación profesional del sistema educativo de Técnico en actividades ecuestres.
+
+Se ha recurrido a una norma reglamentaria para establecer bases estatales conforme con el Tribunal Constitucional, que admite que «excepcionalmente» las bases puedan establecerse mediante normas reglamentarias en determinados supuestos, como ocurre en el presente caso, cuando «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988).
+
+En el proceso de elaboración de este real decreto han sido consultadas las Comunidades Autónomas y han emitido informe el Consejo General de la Formación Profesional, el Consejo Escolar del Estado y el Ministerio de la Presidencia y para las Administraciones Territoriales.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 23 de junio de 2017,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto el establecimiento del título de Técnico en actividades ecuestres, con carácter oficial y validez en todo el territorio nacional, así como de los correspondientes aspectos básicos del currículo.
+
+## CAPÍTULO II — Identificación del título, perfil profesional, entorno profesional y prospectiva del título en el sector o sectores
+
+### Artículo 2. Identificación del título.
+
+El título de Técnico en actividades ecuestres queda identificado por los siguientes elementos:
+
+Denominación: Actividades ecuestres.
+
+Nivel: Formación Profesional de Grado Medio.
+
+Duración: 2000 horas.
+
+Familia Profesional: Actividades Físicas y Deportivas y Agraria.
+
+Referente en la Clasificación Internacional Normalizada de la Educación: CINE-3 b.
+
+El título de Técnico se corresponde con un nivel 4A del Marco Español de Cualificaciones para el Aprendizaje Permanente.
+
+> Se añade un párrafo por el art. 2 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Artículo 3. Perfil profesional del título.
+
+El perfil profesional del título de Técnico en actividades ecuestres queda determinado por su competencia general, sus competencias profesionales, personales y sociales, y por la relación de cualificaciones y, en su caso, unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+
+### Artículo 4. Competencia general.
+
+La competencia general de este título consiste en manejar y cuidar el ganado equino en cada una de sus fases productivas, así como desarrollar actividades de guía por itinerarios ecuestres, con especial atención a la seguridad y bienestar animal, utilizando y manteniendo instalaciones, maquinaria y equipos y cumpliendo la normativa de bienestar animal, de prevención de riesgos laborales y de protección ambiental.
+
+### Artículo 5. Competencias profesionales, personales y sociales.
+
+Las competencias profesionales, personales y sociales de este título son las que se relacionan a continuación:
+
+a) Alimentar al ganado equino utilizando los productos y medios necesarios en cada etapa de su fase productiva o actividad desarrollada por el mismo.
+
+b) Realizar actividades auxiliares sanitarias y de primeros auxilios al ganado equino, siguiendo los protocolos establecidos.
+
+c) Efectuar el mantenimiento físico y la higiene del ganado equino, interpretando las instrucciones de trabajo.
+
+d) Realizar el amansamiento y preparación del ganado equino durante su recría, aplicando las técnicas y utilizando los medios establecidos.
+
+e) Manejar los reproductores en cada una de las fases del proceso reproductivo, siguiendo las instrucciones del personal especializado.
+
+f) Presentar el ganado equino en exhibiciones, subastas y concursos, analizando las técnicas de preparación y acondicionamiento.
+
+g) Montar y mantener instalaciones ganaderas equinas, analizando con criterio técnico las especificaciones definidas en los planos de instalación y manuales de mantenimiento.
+
+h) Realizar las operaciones básicas de herrado de equinos, utilizando los medios, materiales y herramientas necesarios.
+
+i) Montar a caballo, dominando las técnicas básicas de equitación.
+
+j) Realizar la doma básica de los potros, siguiendo las técnicas de manejo apropiadas en cada caso, con especial atención al bienestar de los animales.
+
+k) Embarcar, desembarcar y preparar para el transporte a los équidos, considerando las características del viaje y de los animales.
+
+l) Realizar la promoción y, en su caso, la venta de équidos, aplicando técnicas básicas de marketing.
+
+m) Diseñar y organizar itinerarios a caballo por terrenos variados, teniendo en cuenta objetivos de carácter lúdico-recreativos y de respeto al medioambiente.
+
+n) Guiar y dinamizar a personas por itinerarios a caballo y en actividades ecuestres, aplicando técnicas de animación y en condiciones de seguridad.
+
+ñ) Aplicar las técnicas básicas de primeros auxilios a jinetes, en caso de accidente o situación de emergencia, siguiendo el protocolo establecido.
+
+o) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en los procesos productivos, actualizando sus conocimientos, utilizando los recursos existentes para el aprendizaje a lo largo de la vida y las tecnologías de la información y la comunicación.
+
+p) Actuar con responsabilidad y autonomía en el ámbito de su competencia, organizando y desarrollando el trabajo asignado, cooperando o trabajando en equipo con otros profesionales en el entorno de trabajo.
+
+q) Resolver de forma responsable las incidencias relativas a su actividad, identificando las causas que las provocan, dentro del ámbito de su competencia y autonomía.
+
+r) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en el ámbito de su trabajo.
+
+s) Aplicar los protocolos y las medidas preventivas de riesgos laborales y protección ambiental durante el proceso productivo, para evitar daños en las personas y en el entorno laboral y ambiental.
+
+t) Aplicar procedimientos de calidad, de accesibilidad universal y de «diseño para todas las personas» en las actividades profesionales incluidas en los procesos de producción o prestación de servicios.
+
+u) Realizar la gestión básica para la creación y funcionamiento de una pequeña empresa y tener iniciativa en su actividad profesional.
+
+v) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+### Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+
+Cualificaciones profesionales:
+
+a) Doma básica del caballo AGA344_2 (Real Decreto 108/2008, de 1 de febrero, por el que se complementa el Catálogo nacional de cualificaciones profesionales, mediante el establecimiento de ocho cualificaciones profesionales de la Familia profesional agraria).
+
+UC1080_2: Dominar las técnicas básicas de monta a caballo.
+
+UC1122_2: Desbravar potros.
+
+UC1123_2: Domar potros a la cuerda.
+
+UC1124_2: Realizar la monta inicial de potros.
+
+b) Cuidados y manejo del caballo AGA226_2 (Real Decreto 665/2007, de 25 de mayo, por el que se establecen cinco nuevas cualificaciones profesionales en la Familia Profesional Agraria):
+
+UC0719_2: Alimentar y realizar el manejo general y los primeros auxilios al ganado equino.
+
+UC0720_2: Efectuar la higiene, cuidados y mantenimiento físico del ganado equino.
+
+UC0721_2: Realizar el manejo del ganado equino durante su reproducción y recría.
+
+UC0722_2: Preparar y acondicionar el ganado equino para su presentación en exhibiciones y concursos.
+
+c) Guía por itinerarios ecuestres en el medio natural AFD339_2 (Real Decreto 1521/2007, de 16 de noviembre, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de cuatro cualificaciones profesionales de la Familia Profesional Actividades Físicas y Deportivas):
+
+UC1079_2: Determinar y organizar itinerarios a caballo por terrenos variados.
+
+UC1080_2: Dominar las técnicas básicas de monta a caballo.
+
+UC0719_2: Alimentar y realizar el manejo general y los primeros auxilios al ganado equino.
+
+UC1081_2: Guiar y dinamizar a personas por itinerarios a caballo.
+
+d) Herrado para equinos AGA768_2 (Real Decreto 148/2022, de 22 de febrero, por el que se establecen, actualizan y suprimen determinadas cualificaciones profesionales de las familias profesionales Agraria, Artes Gráficas, Hostelería y Turismo, Industrias Alimentarias y Química, recogidas en el Catálogo Nacional de Cualificaciones Profesionales):
+
+UC1136_2: Realizar las operaciones de preparación y acabado del herrado de equinos.
+
+> Se modifica por el art. 3.26 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Artículo 7. Entorno profesional.
+
+1\. Las personas que obtienen este título ejercen su actividad en empresas públicas o privadas de cualquier tamaño, de forma autónoma o contratada. Este profesional desarrolla su actividad profesional tanto en empresas dedicadas a la producción, adiestramiento, doma, monta y exhibición de equinos como en el ámbito de actividades recreativas en la naturaleza y turismo activo o de aventura, en las áreas de programación, organización, desarrollo, seguimiento y evaluación de itinerarios a caballo por terrenos variados para todo tipo de usuarios.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+a) Trabajador de la cría de caballos.
+
+b) Empleado para el cuidado y manejo del ganado equino y sus instalaciones.
+
+c) Empleado para la doma de potros en explotaciones ganaderas equinas.
+
+d) Empleado para la doma de potros en centros de adiestramiento y entrenamiento de ganado equino.
+
+e) Empleado para la doma de potros en centros de pupilaje, descanso y recuperación de ganado equino.
+
+f) Empleado para la doma de potros en paradas de sementales, centros de selección y testaje y yeguadas.
+
+g) Empleado en empresas de servicio relacionadas con el sector equino.
+
+h) Auxiliar-herrador de ganado equino.
+
+i) Monitor en campamentos.
+
+j) Guía de itinerarios a caballo.
+
+k) Encargado de prevención y seguridad en rutas y eventos ecuestres.
+
+l) Diseñador de itinerarios ecuestres hasta media montaña.
+
+### Artículo 8. Prospectiva del título en el sector o sectores.
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) En estos momentos, los datos sobre la productividad del sector del caballo son más que dispersos, pero está comprobado que esta actividad ha movido grandes sumas de dinero a todos los niveles, incluyendo desde iniciativas turísticas hasta compra-venta de ejemplares.
+
+b) Además, la mejora y difusión de las razas equinas, a las que ha contribuido en gran medida la labor desempeñada por las asociaciones de ganaderos, ha supuesto un empuje a la economía del sector.
+
+c) Los problemas empiezan con el surgimiento de muchos nuevos ganaderos, que se han establecido sin un conocimiento previo de este mundo. La falta de diversificación en la producción y la apertura de nuevos mercados, que están provocando una saturación del mercado interior, en el que la cantidad prima sobre la calidad de los productos, los justifican.
+
+d) Por lo tanto, parece claro que para todas las fases del proceso y para las actividades que se requieren en cada una de ellas, hacen falta profesionales bien formados en el mundo del caballo. La demanda de los mismos viene dada por las explotaciones ganaderas y las instalaciones y centros ecuestres que deseen contar con el personal necesario bien cualificado en su actividad. Pero lo que está claro es que la demanda de estos profesionales se realizará siempre y cuando existan équidos en los que se puedan aplicar las competencias adquiridas.
+
+e) Parece ser que la mayor demanda de profesionales se encuentra en las explotaciones que se dedican a la fase final de la recría y en el cuidado y mantenimiento de équidos para actividades deportivas de ocio, aunque cada día la petición de actividades a caballo en la naturaleza es mayor, apareciendo un importante número de pequeñas y medianas empresas dedicadas al turismo ecuestre, aportando tanto guías como caballos.
+
+f) Finalmente puede afirmarse que en este nuevo entorno laboral se ha elevado el nivel de las competencias de sus técnicos, no sólo desde un punto de vista profesional, como en la cría de caballos, el desbrave, la doma, el herrado y todo lo relacionado con actividades ecuestres, ya sean de ocio, en la naturaleza o deportivas, sino también personal y social, en todo lo relacionado con el trabajo en equipo, resolución de conflictos, prevención de riesgos laborales, protección ambiental, bienestar animal y en definitiva con la calidad de sus tareas. Las tendencias de empleo apoyan la idea de la necesidad de un incremento de cualificación de este profesional.
+
+## CAPÍTULO III — Enseñanzas del ciclo formativo y parámetros básicos de contexto
+
+### Artículo 9. Objetivos generales.
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Identificar y utilizar los productos y los medios, relacionándolos con cada etapa de su fase productiva, para alimentar al ganado equino.
+
+b) Describir y aplicar los protocolos de actuación, justificando las técnicas, para realizar actividades auxiliares sanitarias y de primeros auxilios al ganado equino.
+
+c) Comprobar el estado óptimo de las instalaciones y realizar los cuidados cotidianos imprescindibles, interpretando los protocolos establecidos para mantener el estado físico y la higiene del ganado equino.
+
+d) Aplicar técnicas y rutinas básicas, identificando el comportamiento animal para realizar el amansamiento del ganado equino durante su recría.
+
+e) Interpretar las instrucciones del personal especializado, aplicándolas en cada fase del proceso reproductivo para manejar los reproductores.
+
+f) Analizar y aplicar las técnicas estéticas de preparación y acondicionamiento para el ganado equino, relacionándolas con las características del animal y del evento para presentarlo en exhibiciones, subastas y concursos.
+
+g) Interpretar planos de instalación y manuales de mantenimiento, analizando las especificaciones técnicas para montar y mantener instalaciones ganaderas y centros ecuestres para équidos.
+
+h) Identificar y utilizar los medios, materiales y herramientas, relacionándolos con su funcionalidad para realizar las operaciones básicas de herrado de equinos.
+
+i) Dominar las técnicas básicas de equitación, aplicándolas para montar a caballo con soltura.
+
+j) Especificar las técnicas de manejo de los animales, ejecutándolas con los medios y materiales necesarios para realizar la doma básica de los potros.
+
+k) Analizar los trayectos de viaje, así como los animales, describiendo sus características para preparar su transporte, embarcarlos y desembarcarlos.
+
+l) Especificar las técnicas de marketing, justificando su aplicación para realizar la promoción y, en su caso, la venta de équidos.
+
+m) Caracterizar el terreno y el tipo de usuario, relacionando sus respectivos rasgos específicos con los aspectos lúdico-recreativos y medioambientales, para diseñar y organizar itinerarios ecuestres por terrenos variados.
+
+n) Identificar y aplicar técnicas de animación, adecuándolas a las características de las personas y de los caballos para guiarlas, y dinamizarlas con seguridad en las actividades e itinerarios ecuestres.
+
+ñ) Describir y aplicar los protocolos de actuación, relacionando los síntomas con las maniobras y técnicas para aplicar primeros auxilios de base.
+
+o) Analizar y utilizar los recursos existentes para el aprendizaje a lo largo de la vida y las tecnologías de la información y la comunicación para aprender y actualizar sus conocimientos, reconociendo las posibilidades de mejora profesional y personal, para adaptarse a diferentes situaciones profesionales y laborales.
+
+p) Desarrollar trabajos en equipo y valorar su organización, participando con tolerancia y respeto, y tomar decisiones colectivas o individuales para actuar con responsabilidad y autonomía.
+
+q) Adoptar y valorar soluciones creativas ante problemas y contingencias que se presentan en el desarrollo de los procesos de trabajo, para resolver de forma responsable las incidencias de su actividad.
+
+r) Aplicar técnicas de comunicación, adaptándose a los contenidos que se van a transmitir, a su finalidad y a las características de los receptores, para asegurar la eficacia del proceso.
+
+s) Analizar los riesgos ambientales y laborales asociados a la actividad profesional, relacionándolos con las causas que los producen, a fin de fundamentar las medidas preventivas que se van a adoptar, y aplicar los protocolos correspondientes para evitar daños en uno mismo, en las demás personas, en el entorno y en el medio ambiente.
+
+t) Analizar y aplicar las técnicas necesarias para dar respuesta a la accesibilidad universal y al «diseño para todas las personas», así como sobre trato adecuado a las personas con discapacidad.
+
+u) Aplicar y analizar las técnicas necesarias para mejorar los procedimientos de calidad del trabajo en el proceso de aprendizaje y del sector productivo de referencia.
+
+v) Utilizar procedimientos relacionados con la cultura emprendedora, empresarial y de iniciativa profesional, para realizar la gestión básica de una pequeña empresa o emprender un trabajo.
+
+w) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+### Artículo 10. Módulos profesionales.
+
+1\. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:
+
+a) Quedan desarrollados en el anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+
+b) Son los que a continuación se relacionan:
+
+1319\. Alimentación, manejo general y primeros auxilios de équidos.
+
+1320\. Mantenimiento físico, cuidados e higiene equina.
+
+1321\. Reproducción, cría y recría de équidos.
+
+1322\. Herrado de équidos.
+
+1323\. Desbrave y doma a la cuerda de potros.
+
+1324\. Adiestramiento.
+
+1325\. Técnicas de equitación.
+
+1326\. Exhibiciones y concursos de ganado equino.
+
+1327\. Guía ecuestre.
+
+1328\. Atención a grupos.
+
+1329\. Organización de itinerarios.
+
+0020\. Primeros auxilios.
+
+0156\. Inglés Profesional (GM).
+
+1709\. Itinerario personal para la empleabilidad I.
+
+1710\. Itinerario personal para la empleabilidad II.
+
+1664\. Digitalización aplicada a los sectores productivos (GM).
+
+1708\. Sostenibilidad aplicada al sistema productivo.
+
+1713\. Proyecto intermodular
+
+Módulo profesional optativo.
+
+2\. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 del Real Decreto 659/2023, de 18 de julio.
+
+3\. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.
+
+4\. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.
+
+5\. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.
+
+> Se modifica por el art. 4.1 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Artículo 11. Espacios y equipamientos.
+
+1\. Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son los establecidos en el anexo II de este real decreto.
+
+2\. Los espacios dispondrán de la superficie necesaria y suficiente para desarrollar las actividades de enseñanza que se deriven de los resultados de aprendizaje de cada uno de los módulos profesionales que se imparten en cada uno de los espacios. Además, deberán cumplir las siguientes condiciones:
+
+a) La superficie se establecerá en función del número de personas que ocupen el espacio formativo y deberá permitir el desarrollo de las actividades de enseñanza-aprendizaje con la ergonomía y la movilidad requeridas dentro del mismo.
+
+b) Deberán cubrir la necesidad espacial de mobiliario, equipamiento e instrumentos auxiliares de trabajo.
+
+c) Deberán respetar los espacios o superficies de seguridad que exijan las máquinas y equipos en funcionamiento.
+
+d) Respetarán la normativa sobre prevención de riesgos laborales, la normativa sobre seguridad y salud en el puesto de trabajo y cuantas otras normas sean de aplicación.
+
+3\. Los espacios formativos establecidos podrán ser ocupados por diferentes grupos que cursen el mismo u otros ciclos formativos, o etapas educativas.
+
+4\. Los diversos espacios formativos identificados no deben diferenciarse necesariamente mediante cerramientos.
+
+5\. Los equipamientos que se incluyen en cada espacio han de ser los necesarios y suficientes para garantizar al alumnado la adquisición de los resultados de aprendizaje y la calidad de la enseñanza. Además, deberán cumplir las siguientes condiciones:
+
+a) El equipamiento (equipos, máquinas y otros) dispondrá de la instalación necesaria para su correcto funcionamiento, cumplirá con las normas de seguridad y prevención de riesgos y con cuantas otras sean de aplicación.
+
+b) La cantidad y características del equipamiento deberán estar en función del número de personas matriculadas y permitir la adquisición de los resultados de aprendizaje, teniendo en cuenta los criterios de evaluación y los contenidos que se incluyen en cada uno de los módulos profesionales que se impartan en los referidos espacios.
+
+6\. Las Administraciones competentes velarán para que los espacios y el equipamiento sean los adecuados en cantidad y características para el desarrollo de los procesos de enseñanza y aprendizaje que se derivan de los resultados de aprendizaje de los módulos correspondientes y garantizar así la calidad de estas enseñanzas.
+
+### Artículo 12. Profesorado.
+
+1\. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+5\. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.
+
+> Se modifica por el art. 5 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## CAPÍTULO IV — Accesos y vinculación a otros estudios, y correspondencia de módulos profesionales con las unidades de competencia
+
+### Artículo 13. Acceso a otros estudios.
+
+1\. El título de Técnico en actividades ecuestres permite el acceso a cualquier otro ciclo formativo de grado medio o de grado superior, según lo establecido en los artículos 44.2 y 41.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+2\. El título de Técnico en actividades ecuestres permitirá la obtención del título de Bachiller en la modalidad y opción que escoja el alumno, de acuerdo con lo dispuesto en el artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+### Artículo 14. Convalidaciones y exenciones.
+
+1\. Las convalidaciones entre módulos profesionales de títulos de formación profesional del sistema educativo, y los módulos profesionales del título que se establece en este real decreto son las que se indican en el anexo IV.
+
+2\. Quienes hubieran superado el módulo profesional de Formación y orientación laboral o el módulo profesional de Empresa e iniciativa emprendedora en cualquiera de los ciclos formativos correspondientes a los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, tendrán convalidados dichos módulos en cualquier otro ciclo formativo establecido al amparo de la misma ley.
+
+3\. Quienes hayan obtenido la acreditación de todas las unidades de competencia incluidas en el título, mediante el procedimiento establecido en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, podrán convalidar el módulo profesional de Formación y orientación laboral siempre que:
+
+a) Acrediten, al menos, un año de experiencia laboral.
+
+b) Estén en posesión de la acreditación de la formación establecida para el desempeño de las funciones de nivel básico de la actividad preventiva, expedida de acuerdo con lo dispuesto en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+
+4\. De acuerdo con lo establecido en el artículo 39 del Real Decreto 1147/2011, de 29 de julio, podrá determinarse la exención total o parcial del módulo profesional de Formación en centros de trabajo por su correspondencia con la experiencia laboral, siempre que se acredite una experiencia relacionada con este ciclo formativo en los términos previstos en dicho artículo.
+
+### Artículo 15. Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención.
+
+1\. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 del Real Decreto 659/2023, de 18 de julio.
+
+2\. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 del Real Decreto 659/2023, de 18 de julio.
+
+a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+
+b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el anexo IV de cada uno de los respectivos reales decretos y complementariamente el Real Decreto 1085/2020, de 9 de diciembre.
+
+3\. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 del Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
+
+4\. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
+
+5\. A los efectos previstos en el punto 4, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+
+6\. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá la codificación frente a la denominación.
+
+7\. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 del Real Decreto 659/2023, de 18 de julio.
+
+> Se modifica por el art. 6 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de esta titulación en el marco nacional y su equivalente en el europeo.
+
+### Disposición adicional segunda. Oferta a distancia del presente título.
+
+Los módulos profesionales que forman las enseñanzas de este ciclo formativo podrán ofertarse a distancia, siempre que se garantice que el alumnado pueda conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en este real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+
+La formación establecida en este real decreto en el módulo profesional de Formación y orientación laboral capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, de 17 de enero, siempre que tenga, al menos, 45 horas lectivas.
+
+### Disposición adicional cuarta. Regulación del ejercicio de la profesión.
+
+El título establecido en el presente real decreto no constituye una regulación del ejercicio de profesión regulada alguna.
+
+### Disposición adicional quinta. Accesibilidad universal en las enseñanzas de este título.
+
+1\. Las Administraciones educativas, en el ámbito de sus respectivas competencias, incluirán en el currículo de este ciclo formativo los elementos necesarios para garantizar que las personas que lo cursen desarrollen las competencias incluidas en el currículo en «diseño para todas las personas».
+
+2\. Asimismo, dichas Administraciones adoptarán las medidas que estimen necesarias para que este alumnado pueda acceder y cursar dicho ciclo formativo en las condiciones establecidas en la disposición final segunda del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+
+### Disposición adicional sexta. Titulaciones habilitantes a efectos de docencia.
+
+1\. A los efectos del artículo 12.2 de este real decreto, y de conformidad con lo dispuesto en el artículo 95.1 de la Ley Orgánica, 2/2006, de 3 de mayo, y en la disposición adicional décimo quinta de la Ley Orgánica 4/2007, de 12 de abril, por la que se modifica la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, las titulaciones recogidas en el anexo III B) del presente real decreto habilitarán a efectos de docencia para el ingreso en las distintas especialidades del profesorado.
+
+2\. A los efectos del artículo 12.6 de este real decreto, y de conformidad con la disposición adicional décimo quinta de la Ley Orgánica 4/2007, de 12 de abril, las titulaciones recogidas en el anexo III D) del presente real decreto habilitarán a efectos de docencia para los distintos módulos profesionales.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica, al amparo de las competencias que atribuye al Estado el artículo 149.1.1.ª y 30.ª de la Constitución. Se exceptúa del carácter de norma básica el artículo 13.2.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 23 de junio de 2017.
+
+FELIPE R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+ÍÑIGO MÉNDEZ DE VIGO Y MONTOJO
+
+## ANEXO I — Módulos profesionales
+
+**Módulo profesional: Alimentación, manejo general y primeros auxilios de équidos.**
+
+**Código: 1319.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza las labores de acopio y almacenamiento de alimentos para el ganado, identificando sus características y disponibilidad.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las materias primas y los subproductos utilizados en la alimentación de équidos.
+
+b) Se ha evaluado la disponibilidad y el coste de materias primas y subproductos para la alimentación de équidos.
+
+c) Se han almacenado y conservado las materias primas, los forrajes y los complementos.
+
+d) Se han tomado muestras de materias primas y subproductos.
+
+e) Se han revisado los silos y espacios de almacenamiento.
+
+f) Se ha evaluado la disponibilidad de pastos.
+
+g) Se ha manejado la maquinaria para almacenar los alimentos.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+2\. Prepara y distribuye las raciones de los équidos, según el protocolo establecido, relacionando las características particulares de los animales con el estado fisiológico y la fase de producción en que se encuentra.
+
+Criterios de evaluación:
+
+a) Se han calculado las cantidades de alimentos concentrados, forrajes y suplementos.
+
+b) Se han elaborado las raciones para cada animal o grupo de animales.
+
+c) Se han revisado los comederos y bebederos.
+
+d) Se ha revisado la red de distribución de agua.
+
+e) Se ha repartido el alimento concentrado y el forraje en los lugares indicados.
+
+f) Se ha manejado la maquinaria para preparar y distribuir el alimento.
+
+g) Se ha comprobado la accesibilidad de todos los animales al alimento.
+
+h) Se ha observado el comportamiento alimentario de cada animal.
+
+i) Se ha realizado el mantenimiento de primer nivel de la maquinaria.
+
+j) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+3\. Realiza el manejo general de los équidos, interpretando las normas de seguridad para evitar situaciones de riesgo.
+
+Criterios de evaluación:
+
+a) Se ha identificado y reconocido a cada équido de la explotación.
+
+b) Se ha estudiado el carácter y temperamento de cada uno de ellos.
+
+c) Se ha identificado la jerarquía de los animales.
+
+d) Se ha realizado el manejo y control de los équidos en sus traslados dentro de la explotación.
+
+e) Se han descrito las técnicas de sujeción, trabado e inmovilización de los équidos.
+
+f) Se han sujetado e inmovilizado los équidos.
+
+g) Se han agrupado los équidos, atendiendo a su compatibilidad según criterios de edad, sexo, raza y otros.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+4\. Realiza los traslados en grupo, el embarque, el desembarque y el transporte de équidos, describiendo las técnicas de manejo.
+
+Criterios de evaluación:
+
+a) Se han reagrupado los équidos dentro de las piaras.
+
+b) Se ha trasladado individualmente a los équidos que no pueden hacerlo en grupo.
+
+c) Se ha verificado el recorrido que van a realizar los équidos en grupo.
+
+d) Se ha revisado el medio de transporte y los materiales de acondicionamiento y protección del ganado.
+
+e) Se ha realizado la limpieza y desinfección de vehículos.
+
+f) Se han previsto los medios y el personal para el embarque, el desembarque y el transporte de équidos en condiciones de seguridad.
+
+g) Se han dispuesto los animales, dentro del medio de transporte, según sexo, edad, carácter y lugar de destino.
+
+h) Se han garantizado las necesidades básicas del ganado durante el viaje y las paradas oportunas a lo largo del mismo.
+
+i) Se ha aplicado la normativa ambiental, la de bienestar y sanidad animal y la de prevención de riesgos laborales.
+
+5\. Aplica los primeros auxilios a los équidos, según el protocolo establecido, relacionando las técnicas con las distintas patologías.
+
+Criterios de evaluación:
+
+a) Se ha valorado una posible situación de urgencia veterinaria.
+
+b) Se ha manejado a los animales en situaciones de urgencia.
+
+c) Se han limpiado y desinfectado las heridas que requieran actuación urgente.
+
+d) Se han detectado cólicos, infosuras y otras alteraciones fisiológicas comunes.
+
+e) Se ha acondicionado el alojamiento de los animales enfermos.
+
+f) Se han colocado las vendas u otros elementos.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar y sanidad animal y la de prevención de riesgos laborales.
+
+**Duración: 50 horas.**
+
+**Contenidos básicos:**
+
+Labores de acopio y almacenamiento de alimentos para el ganado:
+
+– Materias primas. Piensos. Forrajes. Subproductos. Composición. Valor nutritivo. Tipos de alimentos. Concentrados. Heno, paja ensilados. Otros alimentos. Aditivos, complementos y suplementos.
+
+– Disponibilidad de materias primas y subproductos. Precios.
+
+– Almacenamiento y conservación de materias primas, forrajes y complementos. Condiciones de almacenamiento. Revisión de las instalaciones de almacenamiento y conservación.
+
+– Toma de muestras de alimentos. Evaluación sanitaria de alimentos.
+
+– Disponibilidad de pastos. Pastoreo de équidos.
+
+– Maquinaria para el almacenamiento y el transporte de los alimentos. Manejo y revisión.
+
+– Normativa ambiental, de bienestar y sanidad animal y de prevención de riesgos laborales.
+
+Preparación y distribución de las raciones:
+
+– Cálculo básico de raciones. Interpretación de las etiquetas. Métodos.
+
+– Particularidades anatómicas y fisiológicas del aparato digestivo de los équidos. Elaboración de raciones alimenticias. Adecuación a la edad, actividad física y fase productiva. Suministro de agua.
+
+– Comederos y bebederos. Revisión. Ubicación de los alimentos según el tipo.
+
+– Red de distribución de agua.
+
+– Maquinaria e instalaciones para la distribución del alimento. Mantenimiento de primer nivel.
+
+– Accesibilidad a los alimentos.
+
+– Comportamiento durante la alimentación de los équidos.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Manejo general de équidos:
+
+– Razas de équidos. Capas y particularidades complementarias. Aptitudes.
+
+– Etología equina. Carácter y temperamento.
+
+– Comportamiento social: dominancia y jerarquías.
+
+– Agrupamiento de animales. Influencia en el comportamiento y manejo posterior.
+
+– Técnicas de sujeción, trabado e inmovilización. Técnicas de conducción y acompañamiento de équidos. Medios, equipos y utensilios empleados.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Traslado, embarque, desembarque y transporte de équidos:
+
+– Agrupamiento de animales para el traslado y transporte. Técnicas de agrupamiento y conducción.
+
+– Problemas en el traslado y transporte de animales.
+
+– Itinerarios y recorridos en el traslado y transporte de équidos. Planificación.
+
+– Medios de transporte de équidos. Revisión. Acondicionamiento de cajas. Medidas de protección del ganado. Limpieza y desinfección de vehículos.
+
+– Embarque y desembarque. Necesidades de personal. Medios para garantizar la seguridad. Técnicas para el embarque y el desembarque.
+
+– Disposición de los animales para el transporte. Dimensiones. Legislación.
+
+– Transporte de équidos. Legislación. Suministro de alimentos y agua durante el transporte. Tiempos de descanso.
+
+– Normativa ambiental, de bienestar y sanidad animal y de prevención de riesgos laborales.
+
+Aplicación de primeros auxilios a équidos:
+
+– Urgencias veterinarias.
+
+– Manejo de animales en situaciones de urgencia.
+
+– Heridas. Signos y síntomas. Limpieza y desinfección.
+
+– Detección de problemas comunes en los équidos: cólicos, laminitis o infosuras. Síntomas y lesiones. Relación con el sistema de manejo.
+
+– Aplicación de tratamientos veterinarios.
+
+– Cuidados y seguimiento del caballo enfermo. Alojamiento y cuarentena. Registros y documentación sanitaria.
+
+– Elementos y equipos para tratamientos veterinarios de urgencia.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de alimentación, manejo, transporte, traslado y primeros auxilios de équidos.
+
+La concreción de las funciones de alimentación, manejo, transporte, traslado y aplicación de primeros auxilios de équidos incluye aspectos como:
+
+– El acopio de materias primas.
+
+– La preparación y distribución de raciones para équidos.
+
+– El manejo de équidos.
+
+– El traslado de équidos.
+
+– El embarque, desembarque y transporte de équidos.
+
+– La aplicación de primeros auxilios en équidos.
+
+– El manejo de herramientas, equipos y maquinaria.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones equinas.
+
+– Centros ecuestres.
+
+– Clínicas veterinarias especializadas en équidos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), k), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias a), b), k), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Almacenamiento y conservación de materias primas, forrajes y complementos para la alimentación de équidos.
+
+– Preparación y distribución de las raciones para la alimentación de équidos.
+
+– Manejo de los équidos.
+
+– Traslado, embarque, desembarque y transporte de équidos.
+
+– Aplicación de primeros auxilios a los équidos.
+
+– Manejo de herramientas, equipos y maquinaria.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales, de bienestar animal y de seguridad e higiene.
+
+**Módulo profesional: Mantenimiento físico, cuidados e higiene equina.**
+
+**Código: 1320.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Controla el estado general de los animales, los equipos y las instalaciones, interpretando los protocolos de actuación y las rutinas de mantenimiento.
+
+Criterios de evaluación:
+
+a) Se han descrito los parámetros biométricos que se deben medir en los equinos.
+
+b) Se ha seleccionado la técnica de medición en función de la edad del animal.
+
+c) Se ha realizado la revisión diaria de los animales.
+
+d) Se han detectado problemas de movilidad y posibles alteraciones morfológicas o fisiológicas en los animales.
+
+e) Se han identificado los signos y síntomas de las enfermedades más frecuentes.
+
+f) Se han descrito otras alteraciones fisiológicas comunes de los equinos.
+
+g) Se han localizado las irregularidades en las instalaciones equinas.
+
+h) Se ha cumplimentado la documentación de registro y control.
+
+i) Se han revisado los equipos empleados para el manejo de los animales.
+
+j) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+2\. Realiza la limpieza e higiene del ganado equino, relacionando las técnicas con los materiales y productos utilizados.
+
+Criterios de evaluación:
+
+a) Se ha identificado el material de limpieza y saneamiento del animal.
+
+b) Se ha limpiado y desinfectado el material.
+
+c) Se han descrito las técnicas de limpieza e higiene del animal.
+
+d) Se han limpiado e higienizado zonas delicadas.
+
+e) Se ha peinado, trenzado y esquilado al animal.
+
+f) Se ha duchado y secado al animal.
+
+g) Se han seleccionado equipos y materiales en función de la labor que se va a realizar.
+
+h) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+3\. Realiza el mantenimiento físico elemental del ganado equino, relacionando las técnicas con el estado general del animal y la actividad que desarrolla.
+
+Criterios de evaluación:
+
+a) Se ha descrito la condición física general del ganado equino.
+
+b) Se ha estimado la condición física del individuo/ejemplar.
+
+c) Se han identificado anomalías que impiden la ejercitación del animal.
+
+d) Se ha determinado el ejercicio que va a realizar según el estado general del animal, el plan de entrenamiento y las condiciones meteorológicas.
+
+e) Se han verificado las condiciones de los espacios dedicados al ejercicio.
+
+f) Se han descrito las técnicas de ejercitación.
+
+g) Se han seleccionado, colocado y ajustado al animal los equipos para realizar el ejercicio.
+
+h) Se han utilizado y mantenido los equipos y la maquinaria en función de la labor que se va a realizar.
+
+i) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+4\. Realiza los cuidados del casco, analizando las técnicas y siguiendo las instrucciones.
+
+Criterios de evaluación:
+
+a) Se han levantado las extremidades del animal.
+
+b) Se han examinado las partes exteriores del casco.
+
+c) Se han reconocido alteraciones en las partes externas del casco.
+
+d) Se han explicado y aplicado los cuidados básicos del casco.
+
+e) Se han aplicado productos protectores del casco.
+
+f) Se han seleccionado, utilizado y mantenido herramientas y materiales en función de la labor que se va a realizar.
+
+g) Se ha aplicado la normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+5\. Recoge muestras y aplica tratamientos sanitarios básicos, interpretando los protocolos de actuación.
+
+Criterios de evaluación:
+
+a) Se han obtenido muestras biológicas del animal.
+
+b) Se han descrito los protocolos de actuación para la aplicación de los tratamientos sanitarios básicos.
+
+c) Se han interpretado prospectos de los productos veterinarios más usuales.
+
+d) Se han aplicado los tratamientos prescritos por el veterinario.
+
+e) Se han colocado bozales y mantas según indicación facultativa.
+
+f) Se ha realizado el seguimiento del animal enfermo.
+
+g) Se han cumplimentado fichas de control sanitario.
+
+h) Se han almacenado y conservado los medicamentos y las vacunas.
+
+i) Se han seleccionado, utilizado y mantenido equipos y materiales en función de la labor que se va a realizar.
+
+j) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+**Duración: 50 horas.**
+
+**Contenidos básicos:**
+
+Control del estado general de los animales, equipos e instalaciones:
+
+– Morfología general y etología del ganado equino. Exterior del ganado equino. Parámetros comunes de medición corporal en los equinos. Clasificación. Medidas estándar según la raza, sexo y edad del animal.
+
+– Mediciones. Técnicas. Equipos.
+
+– Rutinas de revisión de los animales.
+
+– Alteraciones morfológicas y fisiológicas. Problemas de aplomo y movilidad.
+
+– Signos y síntomas de las enfermedades más comunes.
+
+– Otras alteraciones. Traumas, lesiones, otras. Descripción.
+
+– Alojamientos e instalaciones equinas. Emplazamiento y dimensiones. Operaciones de montaje, desmontaje, acondicionamiento, mantenimiento y manejo de instalaciones y equipos.
+
+– Documentación de registro y control.
+
+– Equipo básico para el manejo de équidos. Técnicas de manejo. Adaptación de los equipos al animal.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Limpieza e higiene del ganado equino:
+
+– Materiales y equipos de limpieza e higiene.
+
+– Limpieza y desinfección de los equipos y materiales. Técnicas.
+
+– Limpieza e higiene del animal. Técnicas.
+
+– Cepillado, aseo y cuidados del pelo, crines y cola. Peinado, trenzado y esquilado.
+
+– Ducha: Técnicas. Secado: Técnicas.
+
+– Equipos y materiales. Selección.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Mantenimiento físico elemental del ganado equino:
+
+– Condiciones físicas generales del ganado equino.
+
+– Estimación de la condición física.
+
+– Anomalías que impiden la ejercitación.
+
+– Ejercicios y entrenamiento. Técnicas.
+
+– Espacios dedicados a la ejercitación y el entrenamiento. Tipos de instalaciones: usos.
+
+– Técnicas de ejercitación. Materiales y equipos empleados en la ejercitación y el entrenamiento.
+
+– Equipos para realizar el ejercicio. Selección. Técnicas de ajuste.
+
+– Equipos, herramientas y maquinaria. Uso. Mantenimiento.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Cuidados del casco:
+
+– Manipulación de las extremidades del animal. Técnicas de levantamiento y sujeción de manos y pies. Observación de la parte exterior del casco.
+
+– Alteraciones en las partes externa del casco. Enfermedades y accidentes. Identificación: Criterios.
+
+– Cuidados básicos del casco.
+
+– Productos de limpieza e higiene del casco. Aplicación.
+
+– Materiales y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Recogida de muestras y aplicación de tratamientos sanitarios básicos:
+
+– Muestras biológicas: Clasificación y tipos. Recogida de muestras.
+
+– Protocolos de actuación para la aplicación de los tratamientos sanitarios básicos.
+
+– Productos veterinarios básicos. Etiquetas y prospectos.
+
+– Aplicación de tratamientos veterinarios. Suministro de medicación por prescripción veterinaria.
+
+– Colocación de bozales, mantas y otros.
+
+– Cuidados y seguimiento del caballo enfermo. Alojamiento y cuarentena.
+
+– Registros de control sanitario básico.
+
+– Almacenamiento de productos veterinarios. Técnicas.
+
+– Equipos y materiales. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de mantenimiento físico, higiene y cuidados de équidos.
+
+La concreción de las funciones de mantenimiento físico, higiene y cuidados de équidos incluye aspectos como:
+
+– El mantenimiento físico básico del ganado equino.
+
+– La limpieza e higiene del ganado equino.
+
+– La revisión del estado general del ganado equino.
+
+– La revisión del estado del casco.
+
+– La recogida de muestras biológicas.
+
+– La aplicación de tratamientos sanitarios básicos.
+
+– El manejo de herramientas, equipos y maquinaria.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones equinas.
+
+– Centros ecuestres.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias b), c), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Mantenimiento físico elemental del ganado equino.
+
+– Limpieza e higiene del ganado equino.
+
+– Revisión del estado general del ganado equino.
+
+– Revisión del estado del casco.
+
+– Recogida de muestras biológicas.
+
+– Aplicación de tratamientos sanitarios básicos.
+
+– Manejo de herramientas, equipos y maquinaria.
+
+– Aplicación y cumplimiento de la normativa establecida en los planes de prevención de riesgos laborales y de sanidad y bienestar animal.
+
+**Módulo profesional: Reproducción, cría y recría de équidos.**
+
+**Código: 1321.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Colabora en el desarrollo del programa de reproducción de una explotación de équidos, interpretando el procedimiento establecido.
+
+Criterios de evaluación:
+
+a) Se han descrito las características anatómicas y fisiológicas del aparato reproductor de yeguas y sementales.
+
+b) Se han identificado las fases del ciclo reproductivo.
+
+c) Se han descrito los sistemas de manejo de la producción equina.
+
+d) Se ha interpretado el plan de reproducción de la explotación.
+
+e) Se han identificado los criterios de selección de los reproductores según la orientación productiva de la explotación.
+
+f) Se ha calculado el rendimiento reproductivo de la explotación.
+
+g) Se han caracterizado las instalaciones para la reproducción.
+
+h) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+2\. Realiza tareas de cubrición y colabora en la aplicación de métodos de reproducción asistida y en el seguimiento de la gestación, siguiendo las instrucciones y analizando las técnicas y los medios.
+
+Criterios de evaluación:
+
+a) Se han descrito los patrones del comportamiento reproductor de yeguas y sementales.
+
+b) Se ha detectado el celo en las yeguas, empleando diferentes métodos.
+
+c) Se han descrito los distintos métodos de cubrición.
+
+d) Se han manejado los reproductores durante el proceso de cubrición.
+
+e) Se han recogido semen y preparado dosis seminales.
+
+f) Se han descrito los métodos para el diagnóstico de gestación.
+
+g) Se han manejado las yeguas durante la gestación.
+
+h) Se ha cumplimentado la documentación de control de las cubriciones y la gestación.
+
+i) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+3\. Realiza tareas de asistencia al parto y al puerperio, interpretando el protocolo establecido.
+
+Criterios de evaluación:
+
+a) Se han acondicionado las instalaciones para el parto.
+
+b) Se han descrito las fases del parto e identificado sus síntomas.
+
+c) Se han trasladado y ubicado las yeguas a las instalaciones para el parto.
+
+d) Se han preparado las yeguas para el parto.
+
+e) Se ha explicado el protocolo de actuación en caso de parto normal y en partos distócicos.
+
+f) Se ha revisado el estado de los potros.
+
+g) Se han comprobado su estado y aplicado cuidados postparto a las yeguas.
+
+h) Se han aplicado cuidados al neonato y observado su comportamiento y estado general.
+
+i) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+4\. Maneja las rastras y yeguas durante la cría y el destete, relacionando los métodos, las técnicas y los medios con el estado general del potro y el plan productivo de la explotación.
+
+Criterios de evaluación:
+
+a) Se han incorporado las rastras y yeguas a la piara correspondiente.
+
+b) Se ha suministrado la alimentación específica a las yeguas en lactación.
+
+c) Se ha manejado y observado a los animales durante la lactancia natural.
+
+d) Se han preparado y suministrado lacto-reemplazantes.
+
+e) Se ha suministrado pienso y forraje a las rastras.
+
+f) Se han destetado las rastras en el momento óptimo y siguiendo las pautas establecidas.
+
+g) Se ha efectuado la aproximación progresiva a los potros.
+
+h) Se han descrito los tratamientos preventivos que deben recibir los potros y las yeguas en esta fase.
+
+i) Se han descrito los métodos de identificación animal y el procedimiento de inscripción en el registro de animales.
+
+j) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+5\. Controla la fase de recría, relacionando los métodos, las técnicas y los medios con las características individuales de cada potro y su destino en su fase adulta.
+
+Criterios de evaluación:
+
+a) Se han acondicionado y mantenido las instalaciones para la recría.
+
+b) Se han incorporado los potros a la recría.
+
+c) Se ha efectuado la primera selección de potros, siguiendo los criterios establecidos.
+
+d) Se ha efectuado el amansamiento y la revisión de los potros.
+
+e) Se ha cumplimentado la documentación de control de la fase de recría.
+
+f) Se ha aplicado la normativa ambiental, la de sanidad y bienestar animal y la de prevención de riesgos laborales.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Desarrollo del programa de reproducción:
+
+– Anatomía y fisiología del aparato reproductor de yeguas y sementales. Exploración del aparato reproductor.
+
+– Pubertad. Ciclo reproductivo: ciclo ovárico, cubrición, gestación, parto y puerperio. Estacionalidad de la reproducción.
+
+– Sistemas de manejo de la producción equina: extensivo, semintensivo, intensivo con aplicación de las técnicas de reproducción asistida.
+
+– Criterios de selección de reproductores. Adecuación a la orientación productiva y al plan de reproducción de la explotación.
+
+– Parámetros que determinan el rendimiento reproductivo de una explotación. Recogida de datos y cálculo.
+
+– Instalaciones para la reproducción.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Tareas de cubrición, aplicación de métodos de reproducción asistida y seguimiento de la gestación:
+
+– Patrones del comportamiento reproductor de yeguas y sementales. Alteraciones del comportamiento reproductor.
+
+– Detección del celo y determinación del momento óptimo de cubrición. Métodos. Informe y colaboración con el técnico veterinario. Cumplimentación de fichas de seguimiento y control.
+
+– Métodos de cubrición: monta natural en libertad, controlada o a mano e inseminación artificial. Adecuación al sistema de explotación y a la orientación productiva.
+
+– Manejo de los reproductores durante el proceso de cubrición. Preparación específica de yeguas y sementales. Preparación de los equipos y medios utilizados. Seguridad para operarios y animales.
+
+– Recogida de semen. Entrenamiento de sementales. Procesado y preparación de dosis seminales. Tipos. Preparación y uso de equipos y materiales. Seguridad para operarios y animales.
+
+– Diagnóstico de gestación. Protocolo de actuación y colaboración con el técnico veterinario.
+
+– Manejo de las yeguas gestantes: alimentación y otros cuidados específicos. Evitación de situaciones de estrés. Adecuación, revisión y mantenimiento de las instalaciones para la gestación.
+
+– Documentación de registro y control de las cubriciones y la gestación. Cumplimentación.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Realización de las tareas de asistencia al parto y puerperio:
+
+– Acondicionamiento de las parideras y otras instalaciones para el parto. Limpieza y desinfección.
+
+– Fases del parto. Alteraciones del comportamiento y otros síntomas de parto. Observación y cumplimentación de fichas de registro y control.
+
+– Traslado y ubicación de las yeguas a las instalaciones para el parto. Seguridad para operarios y animales. Periodo de adaptación.
+
+– Preparación de las yeguas para el parto: Lavado perineal, vendaje de la cola y otros.
+
+– Parto normal (eutócico) y parto distócico. Protocolo de actuación en cada caso. Preparación y uso de equipos y materiales para la asistencia al parto.
+
+– Reconocimiento del neonato. Cuidados postparto de las yeguas. Observación y exploración.
+
+– Aplicación de cuidados al neonato. Observación del comportamiento normal del potro. Periodicidad de las observaciones. Cuidados específicos de potros huérfanos.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Manejo de las rastras y yeguas durante la cría y destete:
+
+– Incorporación de yeguas y rastras a las piaras: preparación de las instalaciones. Traslado y manejo del periodo de adaptación. Seguridad para operarios y animales.
+
+– Alimentación de yeguas en lactación: valor nutritivo y composición de la ración. Consumo de agua. Suministro de agua y alimentos.
+
+– Lactancia natural: manejo de los animales en esta fase. Comportamiento de yeguas y rastras. Observación.
+
+– Lactancia artificial: casos en que debe realizarse. Medios y métodos empleados. Preparación y suministro de lacto-reemplazantes. Manejo de los potros y precauciones que deben observarse.
+
+– Suministro de piensos y forrajes: procedimiento y medios empleados. Precauciones que deben observarse.
+
+– Destete: Tipos, fases y pautas que se deben seguir. Momento óptimo. Manejo de las yeguas y los potros en esta fase. Influencia del destete en el desarrollo del potro.
+
+– Aproximación progresiva al potro: acercamiento, «manoseo», colocación de la cabezada, cabestreado y manejo del diestro. Medios y materiales empleados.
+
+– Tratamientos preventivos: desparasitación y profilaxis vacunal.
+
+– Identificación animal convencional y electrónica: técnicas y métodos de marcaje. Registro de animales.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+Control de la fase de recría:
+
+– Instalaciones para la recría. Cerramientos: especificaciones para potros. Acondicionamiento y mantenimiento de instalaciones.
+
+– Adaptación a las instalaciones de recría, a los nuevos hábitos y al resto de animales. Formación de piaras de recría. Manejo por piaras.
+
+– Primera selección de potros según su destino en fase adulta. Criterios que se deben considerar.
+
+– Amansamiento de los potros. Técnicas. Seguridad para animales y operarios. Adaptación al ritmo de trabajo de la explotación. Atado y revisión periódica.
+
+– Documentación de registro y control de la fase de recría. Cumplimentación.
+
+– Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de manejo de la reproducción y de las fases de cría y recría de équidos.
+
+La concreción de la función de organización y manejo de la reproducción y de las fases de cría y recría de équidos incluye aspectos como:
+
+– La organización de la reproducción según la orientación productiva de la explotación y el plan de reproducción establecido.
+
+– La realización de las tareas de control de las cubriciones y de seguimiento de las gestaciones.
+
+– La realización de tareas de asistencia al parto y al puerperio.
+
+– La realización del manejo de la fase de cría y del destete.
+
+– La realización del control de la fase de recría.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones de ganado equino.
+
+– Centros de selección y reproducción animal.
+
+– Empresas de servicio relacionadas con el sector equino.
+
+– Depósitos de sementales y yeguadas del Estado u otras Administraciones.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), d), e), g), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias a), d), e), g), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Características anatómicas y fisiológicas del aparato reproductor de yeguas y sementales.
+
+– Exploración del aparato reproductor.
+
+– Sistemas de manejo de producción equina.
+
+– Selección de reproductores.
+
+– Determinación de los parámetros que determinan el rendimiento reproductivo de la explotación.
+
+– Instalaciones para la reproducción.
+
+– Identificación de los parámetros del comportamiento reproductor y de las alteraciones del mismo.
+
+– Detección del celo y determinación del momento óptimo de cubrición.
+
+– Manejo de los reproductores durante la detección del celo y la cubrición.
+
+– Diagnóstico de gestación y manejo de las yeguas durante esta fase.
+
+– Protocolo de actuación durante el parto y puerperio.
+
+– Lactancia natural y artificial.
+
+– Aproximación progresiva a los potros.
+
+– Momento y pautas que se deben seguir para realizar el destete.
+
+– Identificación animal: convencional y electrónica.
+
+– Formación de piaras.
+
+– Alimentación de los potros de recría.
+
+– Amansamiento de potros.
+
+– Aplicación de tratamientos preventivos durante la reproducción, la cría y la recría.
+
+– Cumplimentación de la documentación de registro y control del proceso productivo.
+
+– Preparación y manejo de equipos, útiles y herramientas utilizados en el manejo de la reproducción, la cría y la recría de équidos.
+
+**Módulo profesional: Herrado de équidos.**
+
+**Código: 1322.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Colabora en la inspección del estado del casco, analizando el movimiento del animal.
+
+Criterios de evaluación:
+
+a) Se han descrito las partes externas del casco del équido.
+
+b) Se han detallado las partes internas del casco del équido.
+
+c) Se ha explicado el mecanismo funcional del casco.
+
+d) Se ha preparado al équido para su inspección.
+
+e) Se ha movido al animal para su inspección.
+
+f) Se han identificado posibles alteraciones y defectos del casco.
+
+g) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales en las tareas realizadas.
+
+2\. Selecciona, prepara y mantiene las herramientas, los materiales y los equipos de herrado, relacionándolas con el tipo de operación que va a realizar.
+
+Criterios de evaluación:
+
+a) Se ha recopilado información sobre las herramientas y los materiales de herrado.
+
+b) Se han detallado los tipos de herraduras y su composición.
+
+c) Se han descrito las partes de la herradura utilizada para un herrado normal.
+
+d) Se han identificado las partes y características de los tipos de clavos para el herraje de équidos.
+
+e) Se han descrito las herramientas de herrado.
+
+f) Se ha elegido el espacio de trabajo que reúna las condiciones necesarias para realizar las tareas de herrado.
+
+g) Se han colocado las herramientas, los materiales y los equipos en los lugares preferentes y accesibles al herrador.
+
+h) Se ha realizado el mantenimiento de las herramientas y los equipos.
+
+i) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales en las tareas realizadas.
+
+3\. Conduce al équido al lugar de herrado, describiendo su manejo según la etología del animal.
+
+Criterios de evaluación:
+
+a) Se ha realizado el acercamiento y control del équido en el lugar donde se localiza.
+
+b) Se ha evaluado el comportamiento del équido durante la aproximación, el manejo y la conducción del mismo.
+
+c) Se ha previsto el comportamiento del animal en las diferentes fases del herrado.
+
+d) Se ha amarrado y, en su caso, inmovilizado al équido de forma segura.
+
+e) Se han detallado las funciones del ayudante en los casos necesarios.
+
+f) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+4\. Realiza el desremachado, el levantado de la herradura y la limpieza de la suela y de la ranilla del casco de un équido, justificando las herramientas, los materiales y las técnicas empleadas.
+
+Criterios de evaluación:
+
+a) Se han sujetado las extremidades.
+
+b) Se han descrito las técnicas previas al cambio de herradura.
+
+c) Se ha limpiado el casco de elementos que dificulten y perjudiquen la acción de las herramientas sobre el mismo.
+
+d) Se ha procurado no dañar la muralla del casco en el desremachado.
+
+e) Se ha evitado dañar el casco y producir dolor al animal a la hora de levantar la herradura.
+
+f) Se ha devuelto la ranilla a sus dimensiones ideales.
+
+g) Se ha retirado del lugar de trabajo los restos de casco y materiales desechados.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales en las tareas realizadas.
+
+5\. Acondiciona el casco y prepara la herradura, según protocolo establecido, relacionando las técnicas con los procedimientos de actuación.
+
+Criterios de evaluación:
+
+a) Se han descrito los tipos y las formas de herrado.
+
+b) Se ha descrito la técnica normal de herrado.
+
+c) Se ha realizado el despalme y recorte del casco.
+
+d) Se ha realizado el aplomado del casco.
+
+e) Se ha seleccionado la herradura.
+
+f) Se ha adaptado la herradura a las características del casco.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+6\. Fija la herradura al casco, según protocolo establecido, analizando las técnicas y los procedimientos de aplicación.
+
+Criterios de evaluación:
+
+a) Se han acondicionado y embutido los clavos en las claveras de la herradura.
+
+b) Se han cortado las espigas de los clavos horizontalmente con la tenaza u otra herramienta.
+
+c) Se han realizado los nichos en el casco.
+
+d) Se ha doblado la lámina del clavo alojándola en el nicho correspondiente.
+
+e) Se ha golpeado y afianzado el remache con el martillo y la boca de la tenaza o el tas.
+
+f) Se ha repasado la superficie de la muralla con escofina y lima por debajo de los remaches.
+
+g) Se ha comprobado la movilidad general del animal tras el herrado.
+
+h) Se ha conducido al animal a su alojamiento.
+
+i) Se ha realizado la limpieza y el acondicionado del lugar de trabajo.
+
+j) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales en las tareas realizadas.
+
+**Duración: 85 horas.**
+
+**Contenidos básicos:**
+
+Inspección del estado del casco:
+
+– Descripción del casco de los équidos. Anatomía del casco. Histología. Crecimiento y renovación del casco.
+
+– Funciones del casco del équido.
+
+– Preparación del équido para su inspección. Colocación y uso de diferentes materiales y equipos para la conducción.
+
+– Conducción de caballos para la inspección.
+
+– Alteraciones y defectos del casco. Identificación.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Selección, preparación y mantenimiento de herramientas, materiales y equipos de herrado:
+
+– Información sobre herramientas y materiales de herrado.
+
+– Tipos de herraduras. Modelos. Composición. Características.
+
+– Partes de la herradura.
+
+– Clavos de herradura. Partes y características.
+
+– Herramientas de herrado. Ubicación y organización de herramientas, materiales y equipos.
+
+– Lugar de herrado. Selección.
+
+– Ubicación de herramientas, materiales y equipos.
+
+– Mantenimiento de herramientas y equipos.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Conducción del équido al lugar de herrado:
+
+– Acercamiento y control del équido: estabulado y en libertad.
+
+– Etología del équido en las operaciones de aproximación, manejo y conducción del mismo.
+
+– Comportamiento del animal durante el herrado.
+
+– Sujeción del équido en el lugar del herrado.
+
+– Funciones del ayudante. Criterios de asistencia.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Desremachado, levantado de la herradura y limpieza de la suela y de la ranilla del casco de un équido:
+
+– Sujeción de las extremidades del équido para el herrado.
+
+– Técnicas previas al herrado. Limpieza del casco. Desremachado.
+
+– Levantado de la herradura. Manejo del casco. Precauciones que se deben adoptar para no dañar el casco y evitar dolor al animal.
+
+– Acondicionamiento de la ranilla a sus dimensiones ideales.
+
+– Tratamiento y eliminación de los desechos y residuos generados en el proceso de herrado de équidos.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales en las tareas realizadas.
+
+Acondicionamiento del casco y preparación de la herradura:
+
+– Tipos y formas de herrado.
+
+– El herrado de cascos normales.
+
+– Despalme. Recorte del casco. Aplomado del casco.
+
+– Elección y adaptación de la herradura.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Fijación de la herradura al casco:
+
+– Embutido de los clavos.
+
+– Corte del sobrante del clavo.
+
+– Apertura de nichos y alojamiento de la lámina del clavo. Remachado. Afianzamiento del remache.
+
+– Escofinado de la muralla.
+
+– Comprobación de la movilidad del équido tras el herrado.
+
+– Conducción del équido al lugar de alojamiento.
+
+– Limpieza y acondicionado del lugar de trabajo.
+
+– Legislación ambiental, de bienestar animal y de prevención de riesgos laborales en las tareas realizadas.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de herrado.
+
+La concreción de la función de herrado incluye aspectos como:
+
+– Los trabajos de colaboración en la inspección del casco.
+
+– Las tareas de selección, preparación y mantenimiento de herramientas, materiales y equipos de herrado.
+
+– La conducción del équido al lugar del herrado.
+
+– El desremachado, levantado y limpieza de la suela y de la ranilla del casco del équido.
+
+– El acondicionado del casco y la preparación de la herradura.
+
+– El clavado de la herradura al casco.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones de ganado de équidos.
+
+– Empresas y entidades asociadas a eventos, espectáculos, demostraciones ecuestres, actividades recreativas, deportivas y terapéuticas (hipoterapia).
+
+– Centros de adiestramiento, doma y entrenamiento de ganado de équidos.
+
+– Depósitos de sementales y yeguadas públicas o privadas.
+
+– Centros de pupilaje, descanso y recuperación de ganado de équidos.
+
+– Empresas de servicio relacionadas con el sector de équidos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales h), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias h), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Descripción de las partes del casco de los équidos.
+
+– Identificación de posibles alteraciones y defectos del casco.
+
+– Identificación de las herramientas, los materiales y los equipos de herrado.
+
+– Trabajos de conducción del équido al lugar del herrado.
+
+– Trabajos de desremachado y levantado de la herradura.
+
+– Retirada de los restos del casco y del material desechado.
+
+– Selección y manejo de equipos, útiles y herramientas utilizados en los trabajos de herrado.
+
+– Limpieza y acondicionamiento del lugar del herrado.
+
+– Prevención de riesgos laborales en los trabajos de herrado de équidos.
+
+**Módulo profesional: Desbrave y doma a la cuerda de potros.**
+
+**Código: 1323.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza el apartado, acercamiento y reconocimiento de un potro de recría, interpretando los protocolos de actuación en cada caso.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado el potro que se encuentra en condiciones de ser desbravado.
+
+b) Se han descrito las instalaciones y los materiales que se utilizan para el apartado y amarre del potro.
+
+c) Se han aplicado los métodos para el apartado del animal en la iniciación al desbrave.
+
+d) Se han empleado las técnicas de acercamiento y amarre del potro.
+
+e) Se ha evaluado el carácter y nivel de amansamiento del animal.
+
+f) Se han revisado, limpiado y almacenado los materiales y equipos empleados.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales en las tareas realizadas.
+
+2\. Coloca y adapta los equipos de desbrave al potro, analizando sus características y utilidades.
+
+Criterios de evaluación:
+
+a) Se han identificado y revisado los equipos de desbrave para el animal.
+
+b) Se han elegido los lugares indicados para llevar a cabo la colocación de los equipos de desbrave al potro.
+
+c) Se ha preparado y dispuesto al animal para colocarle el equipo de desbrave.
+
+d) Se han identificado y empleado las técnicas de colocación y adaptación del equipo de desbrave al potro.
+
+e) Se ha detallado el funcionamiento y el uso de los medios mecánicos de movimiento de los animales.
+
+f) Se ha adaptado al animal a los medios mecánicos que se utilizan para moverlo.
+
+g) Se ha limpiado y almacenado el equipo de desbrave tras su colocación y adaptación.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales en las tareas realizadas.
+
+3\. Conduce el potro del diestro con los equipos para el desbrave colocados, relacionando las técnicas de manejo con su comportamiento.
+
+Criterios de evaluación:
+
+a) Se han identificado los lugares que se utilizan para pasear al potro.
+
+b) Se ha valorado la necesidad de un ayudante para mover al animal en condiciones de seguridad.
+
+c) Se ha movido el potro, valorando su obediencia y sometimiento a las órdenes que recibe.
+
+d) Se han descrito los signos que definen si el potro está preparado o no para iniciar su doma a la cuerda.
+
+e) Se ha aseado, revisado y ubicado al potro donde corresponde tras el trabajo.
+
+f) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales en los trabajos realizados.
+
+4\. Realiza la toma de contacto del potro con los medios de trabajo a la cuerda, interpretando los protocolos establecidos en cada caso.
+
+Criterios de evaluación:
+
+a) Se ha realizado la revisión y el acondicionamiento de las instalaciones que se utilizan para la doma a la cuerda.
+
+b) Se ha elegido y comprobado el equipo para realizar esta tarea.
+
+c) Se ha familiarizado al animal con las instalaciones antes de comenzar el trabajo.
+
+d) Se ha establecido un vínculo con el potro sobre el terreno a través de la voz.
+
+e) Se ha relajado al potro tras la finalización de la toma de contacto con las instalaciones.
+
+f) Se ha limpiado y almacenado el equipo de doma a la cuerda tras su utilización.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+5\. Inicia al potro en el trabajo a la cuerda con ayuda de un auxiliar, relacionando las técnicas de manejo con los objetivos que se desean lograr.
+
+Criterios de evaluación:
+
+a) Se han descrito las funciones del auxiliar en las fases donde intervenga.
+
+b) Se ha coordinado con el auxiliar el trabajo que se va a realizar.
+
+c) Se han practicado la inmovilidad, las salidas al paso y las paradas del animal al comienzo de la sesión de trabajo.
+
+d) Se han realizado trabajos al paso, trote y galope.
+
+e) Se han practicado periódicamente los cambios de sentido de la marcha durante la sesión de trabajo.
+
+f) Se han previsto y solucionado las posibles defensas y los vicios del potro durante el trabajo.
+
+g) Se han identificado síntomas de cansancio del potro.
+
+h) Se ha comprobado que el potro ha asimilado el trabajo.
+
+i) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+6\. Realiza el trabajo a la cuerda del potro sin ayuda de un auxiliar, relacionando los medios con los procedimientos y técnicas de adiestramiento.
+
+Criterios de evaluación:
+
+a) Se ha planificado la sesión de trabajo.
+
+b) Se ha comprobado y colocado en la pista el material necesario para la sesión de trabajo.
+
+c) Se ha valorado la necesidad de ayudas artificiales o equipos especiales.
+
+d) Se ha trabajado el potro a la cuerda sin ayuda.
+
+e) Se han aplicado cambios en la dinámica de trabajo por falta de concentración del potro.
+
+f) Se ha valorado el nivel de adiestramiento del animal durante la sesión de trabajo.
+
+g) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+**Duración: 130 horas.**
+
+**Contenidos básicos:**
+
+Apartado, acercamiento y reconocimiento de un potro de recría:
+
+– Características del potro sin desbravar. Condiciones que debe reunir un potro antes de ser desbravado.
+
+– Características de las instalaciones y los materiales para el apartado y amarre de los potros.
+
+– Métodos de apartado de los potros para el desbrave.
+
+– Técnicas de acercamiento a los potros. Técnicas de colocación de cabezadas a los potros. Técnicas de amarre de potros.
+
+– Etología del potro sin desbravar. Conducta habitual del potro durante su desbrave. Técnicas de corrección de vicios y desobediencias de los potros durante el desbrave.
+
+– Materiales y equipos. Limpieza. Almacenamiento.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Colocación y adaptación de los equipos de desbrave al potro:
+
+– Equipos para el desbrave de potros: características generales y modos de uso.
+
+– Espacios e instalaciones para la colocación de los equipos de desbrave.
+
+– Protocolo de manejo y ubicación de los potros previo a la colocación de los equipos de desbrave.
+
+– Métodos de colocación y adaptación de los equipos de desbrave a los potros.
+
+– Medios mecánicos de movimiento de animales. Uso y funcionamiento.
+
+– Protocolo de adiestramiento de los potros para la utilización de norias y caminadores automáticos durante su desbrave.
+
+– Equipos de desbrave de potros: limpieza y almacenamiento.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Conducción del potro del diestro para el desbrave:
+
+– Zonas para el paseo de los potros de desbrave: características y ubicación.
+
+– Situaciones que exigen ayuda para pasear al potro durante su desbrave. Misiones y modos de actuación del ayudante.
+
+– Técnicas de manejo para la conducción del diestro de los potros para el desbrave.
+
+– Pautas que definen el nivel de adiestramiento de un potro para el desbrave a la mano.
+
+– Técnicas de aseo y revisión de los potros tras el trabajo.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Toma de contacto del potro con los medios de trabajo a la cuerda:
+
+– Instalaciones para doma a la cuerda de potros: características generales y observaciones de seguridad.
+
+– Equipos para doma a la cuerda de potros: tipos y modos de uso.
+
+– Métodos de adaptación de los animales a las instalaciones de trabajo.
+
+– Comunicación con el potro: gestos y voces más comunes.
+
+– Técnicas para la relajación de los animales después del trabajo.
+
+– Equipos de doma a la cuerda de potros: limpieza y almacenamiento.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Iniciación del potro en el trabajo a la cuerda con ayuda de un auxiliar:
+
+– Misiones del auxiliar en el trabajo de doma a la cuerda.
+
+– Coordinación del auxiliar con el adiestrador.
+
+– Técnicas para adiestramiento de la inmovilidad, las salidas al paso y las paradas de los potros a la cuerda.
+
+– Técnicas de trabajo a la cuerda de los potros al paso, trote y galope. Transiciones entre aires.
+
+– Técnicas de realización de los cambios de sentido de la marcha en la sesión de trabajo a la cuerda.
+
+– Vicios y defensas de los potros durante el trabajo a la cuerda: identificación y técnicas de corrección.
+
+– Síntomas de cansancio de los potros.
+
+– Métodos de verificación del aprendizaje.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Trabajo a la cuerda del potro sin ayuda de un auxiliar:
+
+– Sesión de trabajo a la cuerda: planificación.
+
+– Distribución del material auxiliar en las pistas de trabajo.
+
+– Rendajes especiales para la doma a la cuerda: indicaciones y modos de uso.
+
+– Trabajo a la cuerda sin auxiliar.
+
+– Variaciones en la dinámica de trabajo por falta de concentración del potro.
+
+– Observación y valoración del nivel de doma a la cuerda de los potros: Pautas de control.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de desbrave y doma a la cuerda de équidos.
+
+La concreción de la función de desbrave y doma a la cuerda de équidos incluye aspectos como:
+
+– El apartado y acercamiento a los potros de recría para su desbrave.
+
+– El reconocimiento del estado de los potros previo al desbrave.
+
+– La colocación y adaptación de los equipos de desbrave a los potros.
+
+– La conducción o paseos a la mano de los potros con el equipo de desbrave.
+
+– El adiestramiento de los équidos para al uso de medios mecánicos de trabajo.
+
+– La toma de contacto de los potros con los medios de trabajo a la cuerda.
+
+– El trabajo de los potros a la cuerda con y sin la ayuda de un auxiliar.
+
+– El acondicionamiento y mantenimiento de instalaciones, maquinaria y equipos.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones de équidos.
+
+– Centros de adiestramiento, doma y entrenamiento de équidos.
+
+– Depósito de sementales y yeguadas del Estado.
+
+– Escuelas y clubes de equitación.
+
+– Centros de pupilaje, descanso y recuperación de ganado equino.
+
+La formación del módulo contribuye a alcanzar los objetivos generales d), j), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias d), j), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Selección y apartado de équidos aptos para el desbrave.
+
+– Identificación de los equipos de desbrave de équidos.
+
+– Acercamiento y amarre de los équidos para el desbrave.
+
+– Evaluación del carácter y nivel de amansamiento de los équidos durante su desbrave.
+
+– Colocación y adaptación de los equipos de desbrave a los équidos.
+
+– Empleo de medios mecánicos para el trabajo de los équidos.
+
+– Control y conducción a la mano de los équidos con los equipos de desbrave.
+
+– Planificación y coordinación de la sesión de trabajo a la cuerda con équidos.
+
+– Identificación de los equipos de doma a la cuerda de équidos.
+
+– Iniciación al trabajo a la cuerda de los équidos con ayuda de un auxiliar.
+
+– Trabajo a la cuerda de los équidos sin ayuda.
+
+– Previsión y corrección de vicios, defensas y desobediencias de los équidos durante su desbrave y doma a la cuerda.
+
+– Mejoras y adaptaciones de la dinámica de trabajo con los animales.
+
+– Evaluación del nivel de aprendizaje y adiestramiento de los animales tras el trabajo.
+
+– Manejo, limpieza y mantenimiento de equipos y maquinaria.
+
+– Acondicionamiento y mantenimiento de instalaciones.
+
+– Aplicación y cumplimiento de las normas de seguridad e higiene y de las establecidas en los planes de prevención de riesgos laborales y de bienestar animal.
+
+**Módulo profesional: Adiestramiento.**
+
+**Código: 1324.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza la toma de contacto con el potro parado, interpretando los procedimientos y las técnicas de actuación.
+
+Criterios de evaluación:
+
+a) Se ha acostumbrado al potro a tener la silla sobre el dorso.
+
+b) Se ha embridado al animal, acostumbrándolo a la embocadura.
+
+c) Se ha subido y bajado del potro parado, con ayuda, de forma suave y repetida sin llegar a sentarse sobre él.
+
+d) Se ha sentado sobre la silla.
+
+e) Se han cogido las riendas y buscado los estribos.
+
+f) Se ha valorado el estado del potro con el jinete montado.
+
+g) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+2\. Monta el potro a la cuerda, relacionando las técnicas de manejo con su comportamiento.
+
+Criterios de evaluación:
+
+a) Se ha montado al potro mientras éste es sujetado a la cuerda, dejando el control del animal al ayudante.
+
+b) Se han aplicado las técnicas básicas de monta de manera progresiva.
+
+c) Se ha controlado al potro de manera progresiva en las paradas y salidas al paso.
+
+d) Se ha iniciado la monta al trote con la ayuda del auxiliar.
+
+e) Se han practicado los cambios de dirección y sentido de la marcha.
+
+f) Se han practicado las transiciones entre aires.
+
+g) Se ha estimado la ejecución de los trabajos que debe realizar un potro a la cuerda con jinete.
+
+h) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+3\. Monta el potro suelto y perfecciona la doma básica, describiendo las técnicas que va a aplicar.
+
+Criterios de evaluación:
+
+a) Se han previsto los trabajos de monta según las condiciones del potro y el entorno.
+
+b) Se ha mantenido la posición establecida sobre el potro.
+
+c) Se ha trabajado al potro mediante transiciones, cambios de dirección y sentido.
+
+d) Se ha respondido con rapidez a las reacciones del potro montado durante su doma.
+
+e) Se han corregido las reacciones del potro.
+
+f) Se ha finalizado la monta con paseos que calmen al animal.
+
+g) Se ha valorado el nivel de doma básico que tiene que tener un potro antes de comenzar su adiestramiento, para cualquier modalidad o disciplina ecuestre.
+
+h) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+4\. Inicia al potro para el tiro, describiendo los instrumentos y el protocolo establecido.
+
+Criterios de evaluación:
+
+a) Se han identificado las guarniciones para el tiro.
+
+b) Se han caracterizado los elementos y materiales utilizados para el tiro.
+
+c) Se ha equipado al caballo con las guarniciones y equipos.
+
+d) Se han aplicado los sistemas de entrenamiento del trabajo pie a tierra.
+
+e) Se han utilizado y colocado los materiales y atalajes para iniciar al potro al tiro.
+
+f) Se han definido las situaciones de riesgo.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+5\. Adiestra al potro para el salto, relacionando las técnicas con los materiales y las instalaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado los tipos de materiales e instalaciones.
+
+b) Se ha colocado el material en el lugar de trabajo.
+
+c) Se ha descrito la progresión de los trabajos que se van a realizar.
+
+d) Se ha valorado la necesidad de personal auxiliar.
+
+e) Se ha ejecutado el trabajo según el protocolo establecido.
+
+f) Se han caracterizado las reacciones del caballo durante el adiestramiento.
+
+g) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Toma de contacto con el potro parado:
+
+– Ensillado de potros: Métodos y equipos. Técnicas de interacción con el potro pie a tierra. Métodos y equipos para personas con discapacidad y/o necesidades especiales.
+
+– Embridado. Tipos de cabezada y embocadura para la iniciación a la monta. Selección, preparación y adaptación.
+
+– Técnicas de subida y bajada al potro parado. Técnicas específicas para personas con discapacidad y/o necesidades especiales.
+
+– Posición de jinete y contacto con el caballo. Empleo de ayudas.
+
+– Riendas y estribos.
+
+– Comportamiento normal, vicios y desobediencias del potro montado.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Monta del potro a la cuerda:
+
+– Reacciones del potro. Aceptación de la embocadura.
+
+– Técnicas básicas de monta del potro a la cuerda.
+
+– Comportamiento del potro en paradas y salidas al paso. Empleo de ayudas. Actuación del auxiliar. Ayudas específicas para personas con discapacidad y/o necesidades especiales.
+
+– Técnicas y figuras de movimiento del potro: cambios de dirección.
+
+– Transiciones graduales entre aires en el adiestramiento de potros: paso, trote y galope. Ejecución, aplicación y respuesta correctas, corrección de errores en el potro.
+
+– Tiempos de trabajo. Control de esfuerzos, respiración, sudoración.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Monta del potro suelto:
+
+– Trabajos de monta. Observación del entorno: Ruidos, animales, otros caballos. Posibles situaciones: en grupo, solo, con madrina.
+
+– Subida a caballo: en el lugar de trabajo, en la cuadra. Técnicas de tranquilización del potro. Corrección de la postura. Posición del cuerpo, contacto con la boca. Las piernas: colocación y utilización.
+
+– Inicio del movimiento al paso. Parada. Inicio a las vueltas izquierdas. Inicio a las vueltas derechas.
+
+– Transición del paso al trote por derecho. Inicio de vueltas izquierdas al trote. Inicio de vueltas derechas al trote.
+
+– Transiciones del trote al galope, galope a la izquierda: Empleo de ayudas.
+
+– Reacción del potro a los tres aires. Empleo de ayudas. Comportamiento normal del potro y mal comportamiento. Reacción violenta: causa. Correcciones.
+
+– Vuelta a la calma. Trabajo correcto. Aceptación y aprendizaje.
+
+– Nivel de doma básico previa al adiestramiento: modalidad y disciplina ecuestre. Aspectos que se deben tener en cuenta en caballos destinados para actividades de hipoterapia.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Iniciación del potro al tiro:
+
+– Guarniciones de tiro. Tipos. Calesera: Húngara e inglesa.
+
+– Partes de las guarniciones del enganche.
+
+– Partes y utilidades de las guarniciones del caballo. Colocación.
+
+– Conducción del caballo con las guarniciones del diestro. Utilización de las riendas. Conducción del caballo sin ayudante con las riendas.
+
+– Colocación de pequeño arrastre con peso leve. Inicio de movimiento con ayudante. Sin ayudante.
+
+– Enganche del caballo al coche. Dificultades más comunes. Trabajo en pista. Riesgos y ventajas.
+
+– Trabajo en campo. Momento de desenganche y destaje.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Adiestramiento del potro para el salto:
+
+– Materiales e instalaciones para el salto. Tipos de salto. Artificiales: fijos y móviles. Partes de un obstáculo.
+
+– Colocación de salto en la pista. Trancos del caballo: medida (amplitud).
+
+– Secuencia del salto en libertad y montado: aproximación, batida, vuelo y recepción.
+
+– Utilización de barras de tranqueo para facilitar la aproximación. Fundamentos del aprendizaje del potro: tranquilidad, repetición, confianza y progresión. Salto de una barra en el suelo. Cruzada sin tranqueo.
+
+– El ayudante: sus misiones.
+
+– Progresión esperada. Corrección de defectos. Utilización de las barras para corregir defectos y en su caso aumentar la dificultad.
+
+– Reacción del caballo durante el adiestramiento para el salto.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de adiestramiento de caballos en las disciplinas ecuestres de doma y salto y en la iniciación al enganche o tiro ligero.
+
+La concreción de la función de adiestramiento incluye aspectos como:
+
+– La selección de ejemplares dentro de un grupo con fines deportivos en las modalidades de doma y salto.
+
+– La selección de ejemplares dentro de un grupo para enganche o tiro ligero.
+
+– La iniciación de los caballos a las figuras de las reprises de doma.
+
+– La iniciación y familiarización del caballo al salto.
+
+– La iniciación y familiarización del caballo al enganche.
+
+– La interpretación y ejecución de programas de adiestramiento y mejora del rendimiento.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Centros de alto rendimiento en doma y entrenamiento de ganado de équidos.
+
+– Depósitos de sementales.
+
+– Yeguadas públicas o privadas.
+
+– Escuelas de equitación.
+
+– Núcleos zoológicos.
+
+– Centros de adiestramiento, doma y entrenamiento de ganado equino.
+
+– Clubes deportivos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales i), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias i), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Descripción de la morfología del caballo deportivo.
+
+– Funcionamiento de los aparatos fisiológicos del caballo en la actividad deportiva.
+
+– Descripción de los principios fundamentales del entrenamiento.
+
+– Ejecución y práctica de las técnicas de monta en doma y salto.
+
+– Descripción y uso de los materiales y las instalaciones en el adiestramiento.
+
+– Descripción y selección de las interacciones terreno, las fases del adiestramiento y el trabajo.
+
+– Prevención de riesgos laborales en los trabajos de adiestramiento.
+
+**Módulo profesional: Técnicas de equitación.**
+
+**Código: 1325.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Selecciona, coloca y retira los equipos para la monta, interpretando su uso y analizando su funcionalidad.
+
+Criterios de evaluación:
+
+a) Se ha caracterizado el lugar, el equino y el equipo para la monta.
+
+b) Se han definido los elementos del equipo de monta y las funciones de los mismos.
+
+c) Se han colocado y retirado los elementos del equipo de monta.
+
+d) Se ha manejado el equino durante la colocación y adaptación del equipo.
+
+e) Se ha comprobado la posición y adaptación del equipo a la morfología del animal.
+
+f) Se han tomado las medidas para evitar rozaduras con el equipo.
+
+g) Se ha ajustado el equipo y se ha realizado el cinchado inicial.
+
+h) Se ha aplicado la normativa de bienestar animal y la de prevención de riesgos laborales en las tareas realizadas.
+
+2\. Prevé, en el proceso previo a la monta, las posibles reacciones del equino montado, valorando sus condiciones físicas, temperamento y aptitudes.
+
+Criterios de evaluación:
+
+a) Se ha estudiado la conducta del equino en el acercamiento, la puesta de la cabezada y el guiado del cabestro.
+
+b) Se han observado las reacciones del equino en el proceso de preparación para la monta.
+
+c) Se han estudiado las respuestas del equino en el proceso de conducción del diestro al lugar de trabajo y al moverlo a la cuerda.
+
+d) Se ha comprobado la aceptación y adaptación en movimiento del equipo de monta.
+
+e) Se ha aplicado la normativa ambiental, de bienestar animal y de prevención de riesgos laborales en las tareas realizadas.
+
+3\. Monta con seguridad y equilibrio a los tres aires, relacionando las técnicas con el tipo de animal, el terreno y la situación.
+
+Criterios de evaluación:
+
+a) Se ha diferenciado la secuencia de movimientos del caballo a los tres aires naturales.
+
+b) Se han descrito y aplicado las técnicas para subirse al equino, controlando al animal.
+
+c) Se ha definido la postura a caballo y se ha adquirido la misma con el equino parado y en movimiento.
+
+d) Se han descrito y se han aplicado las ayudas en equitación.
+
+e) Se han realizado transiciones entre aires, cambios de dirección, de ritmo, de marcha y paradas.
+
+f) Se han corregido desobediencias del caballo durante la monta.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+4\. Monta con seguridad y equilibrio en pasos de relativa dificultad, analizando las técnicas y los procedimientos de aplicación en cada situación.
+
+Criterios de evaluación
+
+a) Se han definido y aplicado combinaciones de ayudas y funciones avanzadas de las mismas.
+
+b) Se han aplicado técnicas de superación de obstáculos y franqueo de pequeños saltos.
+
+c) Se ha regulado la intensidad del trabajo físico del equino.
+
+d) Se ha valorado la conveniencia de echar pie a tierra.
+
+e) Se han aplicado las técnicas para echar pie a tierra.
+
+f) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+5\. Valora el caballo durante la monta, analizando sus reacciones.
+
+Criterios de evaluación:
+
+a) Se ha valorado el estado y la adecuación de los equipos y de los materiales utilizados en la actividad de monta.
+
+b) Se ha valorado la higiene y las condiciones de vida del caballo tras la monta.
+
+c) Se han registrado las reacciones del caballo montado y la progresión de las mismas.
+
+d) Se han estimado las respuestas a las ayudas del jinete o de la amazona y las desobediencias del caballo montado.
+
+e) Se ha rellenado una ficha de control sobre la valoración del caballo montado.
+
+f) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Selección, colocación y retirada de equipos para la monta:
+
+– Características de los lugares para la equitación. Características del caballo de silla. Equipo básico del jinete y equipo secundario (pantalones de montar, casco, botas y otros). Características y tipos. Tallas y ajuste. Equipo básico del equino y equipo adicional (montura, cabezada de montar, embocadura y otros). Tipos y características.
+
+– Uso del equipo de monta. Utilización de los distintos elementos del equipo. Funcionalidad del equipo del jinete. Funcionalidad del equipo del equino.
+
+– Ensillado y embridado. Puesta de otros elementos del equipo (protectores, vendas, martingalas y otros). Desensillado y desembridado. Retirada de otros elementos del equipo de monta. Ejecución técnica.
+
+– Manejo del equino durante la colocación del equipo de monta. Control del caballo y seguridad.
+
+– Adaptación del equipo al caballo. Tallas de los elementos del equipo. Revisión de la posición del equipo.
+
+– Prevención de rozaduras del equipo. Partes anatómicas que se deben tener en cuenta. Uso de protectores.
+
+– Ajuste del equipo del caballo. Cinchado inicial. Ajuste de los montantes, ahogadero y muserola. Tipos de muserola.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Previsión de las posibles reacciones del equino montado:
+
+– Temperamento y aptitud para la monta. Conducta del caballo en el proceso de preparación para la monta. Movilización del caballo y reajuste de cincha.
+
+– Preparación del equino: posibles reacciones en el acondicionamiento para la monta.
+
+– Guiado del diestro. Entrada en pista o lugar de trabajo. Movilización a la cuerda. Valoración física y reacciones del equino.
+
+– Aceptación del caballo de los elementos del equipo. Revisión para la monta de la adaptación del equipo al caballo. Cinchado final.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Monta con seguridad y equilibrio a los tres aires:
+
+– Aires en el caballo. Análisis del paso, trote y galope. Tipos de paso, trote y galope.
+
+– Revisión de aciones, de estribos y cinchas. Técnicas para subirse al caballo. Aplicación. Errores al montar. Sujeción de riendas. Estribar. Calzado de estribos.
+
+– Postura a caballo. Descripción posicional de los segmentos corporales del jinete. Aplicación de la postura con el equino en movimiento. Adaptación al equino en el paso, trote y galope. Utilización del trote levantado y sentado. Monta con y sin estribos.
+
+– Ayudas en equitación: naturales y artificiales. Funciones básicas y aplicación. Normas de utilización de las ayudas. Definición de conceptos básicos de equitación.
+
+– Ejecución técnica de las transiciones, cambios de dirección, de ritmo de marcha y paradas. Combinación de ayudas básicas.
+
+– Desobediencias del caballo montado. Métodos para controlar al caballo ante desobediencias. Correcciones técnicas.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Monta con seguridad y equilibrio en pasos de relativa dificultad:
+
+– Combinación de ayudas: aplicación técnica y funciones avanzadas. Acciones de piernas, asiento y riendas.
+
+– Descripción técnica de superación de obstáculos y franqueo de pequeños saltos. Superación de obstáculos, montado o del diestro. Pequeños saltos.
+
+– Regulación de la intensidad de trabajo. Fases de una sesión. Adaptación a la condición física del animal.
+
+– Técnicas para desmontar del caballo: echar pie a tierra. Desestribar. Errores al desmontar. Aplicación de las técnicas para desmontar del caballo. Corrección de errores al desmontar.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Valoración del caballo durante la monta:
+
+– Adecuación de los equipos de monta. Comprobación del estado del equipo de monta. Limpieza y cuidados del equipo de monta. Almacenamiento y protección.
+
+– Revisión del estado del caballo. Valoración de la higiene del caballo tras la monta. Estabulado o soltado del equino.
+
+– Registro de reacciones del caballo. Seguimiento de la evolución del animal.
+
+– Respuestas a las ayudas. Desobediencias del caballo montado.
+
+– Fichas de control. Valoración de la condición física del caballo. Valoración de la conducta de los equinos aplicada a la monta. Conductas anormales y vicios. Aptitud para la monta.
+
+– Previsión de las reacciones del caballo montado.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de montar a caballo.
+
+La concreción de la función de monta a caballo incluye aspectos como:
+
+– Las tareas de selección y colocación de equipos para la monta.
+
+– La previsión de las reacciones del equino durante la monta.
+
+– La aplicación de las técnicas de monta con seguridad y equilibrio a los tres aires.
+
+– La monta con seguridad y equilibrio en pasos de relativa dificultad.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones de ganado de équidos.
+
+– Empresas y entidades asociadas a eventos, espectáculos y demostraciones ecuestres.
+
+– Centros de adiestramiento, doma y entrenamiento de équidos. Depósitos de sementales y yeguadas públicas o privadas.
+
+– Centros de pupilaje, descanso y recuperación de équidos.
+
+– Empresas de servicio relacionadas con el sector de los équidos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales i), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias i), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Selección y colocación de equipos para la monta.
+
+– Uso de los equipos de jinete y equino.
+
+– Manejo del equino durante la preparación para la monta.
+
+– Técnicas de trabajo con el caballo con control y seguridad.
+
+– Valoración del equino para prever sus reacciones durante la monta.
+
+– Descripción de los tres aires naturales del caballo montado.
+
+– Técnicas de sujeción de riendas, para subirse al caballo y para echar pie a tierra.
+
+– Postura a caballo.
+
+– Ejecución técnica de las transiciones, cambios de dirección, de ritmo de marcha y paradas.
+
+– Técnicas de superación de obstáculos y franqueo de pequeños saltos.
+
+– Regulación de la intensidad de trabajo físico del caballo.
+
+– Anotaciones de las observaciones sobre la valoración del equino.
+
+– Retirada, limpieza, cuidados y almacenaje del equipo de monta.
+
+– Higiene del equino tras la monta y la revisión de su estado.
+
+**Módulo profesional: Exhibiciones y concursos de ganado equino.**
+
+**Código: 1326.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara y entrena al animal en los movimientos y posturas de exhibiciones y concursos, interpretando los reglamentos de los mismos.
+
+Criterios de evaluación:
+
+a) Se ha descrito la tipología de exhibiciones y concursos del ganado equino.
+
+b) Se han seleccionado los equipos y los espacios para las tareas de preparación y entrenamiento de los animales.
+
+c) Se han definido las cualidades que se deben destacar en los ejemplares.
+
+d) Se ha preparado y entrenado al animal para el tipo de trabajo que va a realizar.
+
+e) Se han realizado los ejercicios con la intensidad y duración proporcionales al nivel de preparación del animal y a la dificultad de los ejercicios.
+
+f) Se han detectado y corregido durante el trabajo defectos de movimientos y posturas en el animal.
+
+g) Se ha aplicado la normativa de bienestar animal y la de prevención de riesgos laborales.
+
+2\. Familiariza a los equinos con las instalaciones de exhibiciones y concursos, relacionando las características del animal y la naturaleza de la muestra con los medios, equipos y materiales.
+
+Criterios de evaluación:
+
+a) Se han identificado y revisado los documentos que deben acompañar a cada ejemplar.
+
+b) Se ha comprobado el estado y las condiciones de las instalaciones para el ganado.
+
+c) Se han descrito y aplicado las técnicas de aclimatación del ejemplar a las nuevas instalaciones y a las condiciones ambientales.
+
+d) Se ha ejercitado al animal en los espacios habilitados para ello.
+
+e) Se han seleccionado, revisado y preparado los equipos y materiales, en función del trabajo que se va a realizar con los animales.
+
+f) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+3\. Acondiciona estéticamente al animal, interpretando las normas y condiciones de la exhibición o concurso.
+
+Criterios de evaluación:
+
+a) Se han identificado las técnicas de acondicionamiento estético para el ganado equino.
+
+b) Se ha inspeccionado el estado del pelo y de los cabos, las crines y la cola del animal.
+
+c) Se ha lavado, secado y cepillado al ejemplar según los estándares de la raza y el reglamento del concurso.
+
+d) Se ha afeitado y esquilado al animal según los estándares de la raza y el reglamento del concurso.
+
+e) Se han entresacado y peinado la crin y la cola.
+
+f) Se han acondicionado los cascos para el evento.
+
+g) Se han colocado elementos de ornamentación al animal según los estándares de la raza y el reglamento del concurso.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+4\. Presenta al ganado equino en exhibiciones y concursos, interpretando las técnicas que se van a emplear.
+
+Criterios de evaluación:
+
+a) Se han descrito las técnicas utilizadas para los diferentes tipos de presentación.
+
+b) Se han identificado los roles del personal en el concurso.
+
+c) Se han descrito y utilizado los tipos de indumentaria que debe usar el presentador del animal.
+
+d) Se ha realizado el calentamiento de los animales previo a la exhibición o al concurso.
+
+e) Se ha manejado al ganado conforme a las normas del concurso.
+
+f) Se han interpretado las indicaciones de los jueces y organizadores del concurso.
+
+g) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+5\. Colabora en la comercialización de équidos, describiendo los protocolos de actuación.
+
+Criterios de evaluación:
+
+a) Se han descrito las peculiaridades de la comercialización de équidos.
+
+b) Se han caracterizado los canales de comercialización de équidos.
+
+c) Se han identificado los diferentes agentes de comercialización de équidos.
+
+d) Se ha recabado la información del équido que se va a comercializar.
+
+e) Se han seleccionado las técnicas de promoción y venta de équidos.
+
+f) Se han utilizado las nuevas tecnologías para la promoción y venta de équidos.
+
+g) Se han definido las distintas formas de realizar la compra-venta de équidos.
+
+h) Se han descrito las diferentes formas de pago.
+
+**Duración: 25 horas.**
+
+**Contenidos básicos:**
+
+Preparación y entrenamiento de movimientos y posturas en exhibiciones y concursos:
+
+– Exhibiciones y concursos. Fundamentos.
+
+– Adiestramiento y entrenamiento para exhibiciones y concursos. Equipos y espacios.
+
+– Cualidades para la preparación y entrenamiento. Descripción. Aptitud.
+
+– Trabajo con equinos. Técnicas de preparación y entrenamiento.
+
+– Ejercicios. Fases.
+
+– Defectos de movimiento y posturas. Detección y corrección.
+
+– Normativa de bienestar animal y de prevención de riesgos laborales.
+
+Familiarización de los equinos con las instalaciones de exhibiciones y concursos:
+
+– Documentos para la presentación a concursos y exhibiciones.
+
+– Características de las instalaciones. Condiciones ambientales que deben reunir las instalaciones.
+
+– Aclimatación del animal.
+
+– Trabajo en distintas instalaciones: ejercitación del animal.
+
+– Equipos y materiales. Selección.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Acondicionamiento estético:
+
+– Técnicas de acondicionamiento estético para el ganado equino.
+
+– Inspección del equino. Defectos.
+
+– Lavado, secado y cepillado. Productos.
+
+– Afeitado y esquilado del equino.
+
+– Entresacado y peinado de la crin y la cola.
+
+– Acondicionamiento del casco.
+
+– Elementos de ornamentación. Usos. Colocación.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Presentación del ganado equino en exhibiciones y concursos:
+
+– Técnicas de presentación. Tipos.
+
+– Roles del personal.
+
+– Indumentaria del presentador.
+
+– Ejercicios de calentamiento.
+
+– Manejo del ganado durante el concurso.
+
+– Indicaciones de jueces y organizadores.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Comercialización de équidos:
+
+– Peculiaridades de los équidos.
+
+– Canales de comercialización.
+
+– Agentes de comercialización.
+
+– Información del équido.
+
+– Técnicas de promoción y venta. Formas de pago.
+
+– Aplicación de las nuevas tecnologías en la promoción y venta.
+
+– Tipos de compra-venta.
+
+– Formas de pago.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de presentación de équidos a exhibiciones y de promoción y venta.
+
+La concreción de las funciones de presentación de équidos a exhibiciones y la promoción y venta incluye aspectos como:
+
+– Los trabajos de entrenamiento de equinos para las exhibiciones y concursos.
+
+– La familiarización de los equinos con las instalaciones de exhibiciones y concursos.
+
+– El acondicionado estético de equinos.
+
+– La presentación del ganado equino en exhibiciones y concursos.
+
+– La colaboración en la comercialización de equinos.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones de ganado de équidos.
+
+– Empresas y entidades asociadas a eventos, espectáculos, demostraciones ecuestres, actividades recreativas, deportivas y terapéuticas (hipoterapia).
+
+– Centros de adiestramiento, doma y entrenamiento de ganado de équidos.
+
+– Depósitos de sementales y yeguadas públicas o privadas.
+
+– Centros de pupilaje, descanso y recuperación de ganado de équidos.
+
+– Empresas de servicio relacionadas con el sector de équidos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales f), l), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias f), l), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Descripción de las exhibiciones y concursos del ganado equino.
+
+– Selección de equipos y espacios de preparación y entrenamiento para exhibiciones y concursos.
+
+– Preparación y entrenamiento del equino para exhibiciones y concursos.
+
+– Identificación de los documentos que deben acompañar a cada ejemplar en exhibiciones y concursos.
+
+– Trabajos de aclimatación del equino a las instalaciones.
+
+– Lavado, secado y cepillado del equino según el reglamento de los concursos.
+
+– Colocación de elementos de ornamentación en los equinos.
+
+– Selección y manejo de equipos, útiles y herramientas utilizados en los trabajos de preparación y presentación del equino en exhibiciones y concursos.
+
+– Modalidades habituales de presentación del ganado equino.
+
+– Manejo del ganado equino en la presentación.
+
+– Canales de comercialización de équidos.
+
+– Utilización de las tecnologías de la información y la comunicación en la promoción y venta de équidos.
+
+– Prevención de riesgos laborales en los trabajos de preparación y presentación de equinos en exhibiciones y concursos.
+
+**Módulo profesional: Guía ecuestre.**
+
+**Código: 1327.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Revisa, prepara y recoge los materiales, los caballos y los medios para la ruta, interpretando su uso y el procedimiento establecido.
+
+Criterios de evaluación:
+
+a) Se ha comprobado la disponibilidad y operatividad de los medios y materiales necesarios para la ruta.
+
+b) Se ha comprobado el estado y la aptitud de los caballos para la ruta y se les han prestado los cuidados básicos antes, durante y después de la etapa.
+
+c) Se han manejado los equinos en las operaciones de embarque, transporte y desembarque durante las rutas.
+
+d) Se han definido los elementos del equipo y los materiales para la ruta y las funciones de los mismos.
+
+e) Se han preparado los caballos, adaptando la colocación de los equipos para la etapa a las características de los participantes en la ruta.
+
+f) Se ha seguido el procedimiento de mantenimiento y almacenamiento de los materiales y equipos antes, durante y después de la ruta.
+
+g) Se ha revisado el material del grupo y el equipo de cada participante y se ha asegurado el avituallamiento para los participantes y los caballos durante la ruta.
+
+h) Se ha aplicado la normativa de bienestar animal y de prevención de riesgos laborales en las tareas de revisión y cuidado realizadas.
+
+2\. Verifica y adapta los itinerarios ecuestres, analizando las características de los participantes y las condiciones de realización de la actividad.
+
+Criterios de evaluación:
+
+a) Se han definido criterios para recopilar información sobre el nivel individual y colectivo del grupo y para identificar señales de fatiga o de posibles conductas de riesgo.
+
+b) Se han reconocido en el terreno los puntos de dificultad y la dosificación del esfuerzo y de los descansos, atendiendo a las distancias y a los desniveles por el que se realizará la ruta ecuestre.
+
+c) Se han preparado vías alternativas para los posibles pasos conflictivos de la ruta ecuestre.
+
+d) Se han reconocido los indicios naturales que pueden ser referente para la orientación y los accidentes geológicos y los ecosistemas que son de interés para la ruta ecuestre.
+
+e) Se han utilizado los instrumentos y mapas para orientarse en todo tipo de condiciones ambientales.
+
+f) Se han localizado los puntos de pernoctación y de evacuación.
+
+g) Se ha comprobado el protocolo de seguridad ante posibles situaciones de peligro.
+
+3\. Guía grupos por itinerarios ecuestres, relacionando las técnicas de progresión con el programa establecido y con las condiciones del medio.
+
+Criterios de evaluación:
+
+a) Se ha proporcionado información a los participantes sobre el itinerario, las características del caballo y el uso del equipo y del material para garantizar la seguridad.
+
+b) Se han descrito y demostrado las técnicas de equitación para una ruta ecuestre y se ha corregido la ejecución de las mismas a los participantes.
+
+c) Se ha adoptado una organización y situación en el grupo que permite el control del mismo y de las dificultades de los participantes antes y durante la actividad.
+
+d) Se han utilizado códigos de señales y aparatos de comunicación para transmitir durante la ruta información al grupo y, en su caso, a agentes externos.
+
+e) Se han realizado maniobras de apoyo a los participantes que presentan dificultades en la progresión por la ruta.
+
+f) Se han aplicado los protocolos de actuación en las incidencias producidas.
+
+g) Se han preparado el espacio para los caballos y las condiciones para las paradas y la pernoctación.
+
+h) Se ha aplicado la normativa ambiental, de bienestar animal y de prevención de riesgos laborales en las tareas realizadas.
+
+4\. Colabora en la organización de actividades ecuestres recreativas, interpretando el procedimiento establecido.
+
+Criterios de evaluación:
+
+a) Se han caracterizado los tipos de actividades recreativas de la empresa.
+
+b) Se han seleccionado los espacios, las instalaciones y los equipos para actividades ecuestres recreativas.
+
+c) Se han establecido criterios de asignación de animales a los distintos perfiles de participantes.
+
+d) Se ha comprobado previamente el comportamiento de animales, equipos, materiales, instalaciones y espacios.
+
+e) Se han descrito y demostrado las técnicas ecuestres que se van a utilizar en las actividades.
+
+f) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+5\. Realiza actividades ecuestres recreativas, según protocolo establecido, relacionando las características de los y las participantes con los procedimientos de actuación.
+
+Criterios de evaluación:
+
+a) Se han preparado los espacios, los animales y los materiales para las actividades ecuestres recreativas.
+
+b) Se ha informado a los y las participantes acerca de las normas que deben seguirse en las actividades ecuestres recreativas.
+
+c) Se ha instruido a los y las participantes en equitación con objetivo recreativo.
+
+d) Se ha colaborado en el desarrollo de juegos y gymkhanas a caballo, siguiendo el protocolo establecido.
+
+e) Se ha guiado del diestro a ponis durante los paseos infantiles a caballo.
+
+f) Se ha guiado en paseos a caballo y se ha colaborado en el enganche y paseo de participantes en coche de caballos.
+
+g) Se ha colaborado en las actividades ecuestres de ocio para personas con discapacidad, siguiendo el protocolo establecido.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+6\. Valora las actividades ecuestres recreativas y de conducción de grupos a caballo, analizando los datos recopilados.
+
+Criterios de evaluación:
+
+a) Se han recogido datos sobre la propia actuación y sobre las reacciones del grupo en la actividad.
+
+b) Se han registrado las incidencias en cuanto al ajuste de la actividad a los tiempos previstos.
+
+c) Se han registrado las conductas de los animales que no sean adecuadas para la actividad ecuestre en la que están implicados.
+
+d) Se han recogido incidencias que afectan a la seguridad durante el desarrollo de las actividades.
+
+e) Se ha valorado la adecuación de los equipos y de los materiales utilizados en la actividad ecuestre.
+
+f) Se ha rellenado la ficha de valoración de la actividad según el programa de la misma.
+
+g) Se han propuesto medidas correctoras de los desajustes detectados y se ha elaborado un informe sobre la actividad ecuestre realizada.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal y la de prevención de riesgos laborales.
+
+**Duración: 50 horas.**
+
+**Contenidos básicos:**
+
+Revisión, preparación y recogida de materiales, caballos y medios para la ruta:
+
+– Equipos y materiales para rutas ecuestres. Funciones de los elementos del equipo ecuestre:
+
+o Equipo y material ecuestre del caballo en ruta.
+
+o Equipo y material ecuestre del o de la jinete en ruta.
+
+o Equipo, avituallamiento y material ecuestre colectivo en ruta.
+
+o Equipos y materiales específicos para personas con discapacidad y/o necesidades especiales.
+
+– Mantenimiento, transporte y almacenaje de materiales y equipos:
+
+o Procedimientos de revisión de equipos y materiales, individuales y colectivos.
+
+o Mantenimiento básico y operativo. Registro de operaciones de mantenimiento.
+
+o Limpieza, cuidados, almacenaje y protección del equipo de ruta. Inventarios.
+
+o Retirada del equipo y del material a los caballos.
+
+o Transporte de materiales y equipos. Revisión del medio de transporte y colocación de los materiales y medios para su protección. Transporte de los alimentos.
+
+– Caballos para la ruta ecuestre. Estado físico-temperamental y aptitud del caballo para la ruta:
+
+o Procedimientos de revisión del estado del caballo. Detección de problemas de salud. Comprobación de signos de fatiga, heridas y mataduras, entre otros.
+
+o Preparación del caballo para la ruta. Adaptación del equipo y del material a los caballos y a los y las participantes. Criterios de seguridad.
+
+o Comportamiento del caballo en ruta.
+
+– Cuidados y transporte equinos antes, durante y después de la ruta:
+
+o Higiene y aplicación de primeros auxilios al caballo.
+
+o Reparaciones básicas de herraje.
+
+o Técnicas para embarque y desembarque; personal y medios. Colocación de los animales y permanencia en el vehículo. Necesidades básicas del caballo durante el viaje. Transporte de animales lesionados o enfermos durante la ruta. Normativa, requisitos y documentación.
+
+o Estabulación o suelta del caballo.
+
+– Alimentación e hidratación de las personas y de los caballos en una ruta ecuestre:
+
+o Avituallamiento durante la ruta.
+
+o Cálculo de cantidad de alimentos sólidos y líquidos para caballos en ruta.
+
+o Cálculo de cantidad de alimentos sólidos y líquidos para las personas participantes.
+
+o Alimentación e hidratación en ruta.
+
+– Personal, documentación y permisos para las rutas ecuestres.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Verificación y adaptación de itinerarios ecuestres:
+
+– Examen del terreno a caballo. Comprobación de características aportadas por la cartografía.
+
+– Variedad paisajística y de carga de trabajo. Localización y condiciones de los espacios para la realización de actividades lúdicas y de sensibilización sobre los valores naturales, culturales y recursos de la zona.
+
+– Verificación del tipo de terreno y de los puntos de dificultad. Notas de campo:
+
+o Condiciones del firme que afectan a la marcha del caballo.
+
+o Alternativas para pasos conflictivos de la ruta: Arboledas, cuestas pronunciadas, extensiones de agua y terrenos resbaladizos o escarpados, entre otros.
+
+– Verificación de condiciones del itinerario:
+
+o Duración. Distribución del esfuerzo y de las necesidades de avituallamiento.
+
+o Lugares y espacios. Puntos de reagrupamiento y descanso durante el recorrido. Zonas de evacuación del grupo a caballo.
+
+– Adaptación de la actividad programada al tipo de participantes:
+
+o Pruebas de nivel técnico previas a la actividad.
+
+o Supervisión del manejo básico del caballo realizado por los y las participantes.
+
+o Expectativas y necesidades de las personas del grupo.
+
+o Variantes en función de las capacidades, necesidades y motivaciones de los y las participantes.
+
+o Adaptación de las actividades a la participación de personas con discapacidad.
+
+– Señales de fatiga y posibles conductas de riesgo.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Guiado del grupo por itinerarios ecuestres:
+
+– Legislación vigente. Espacios protegidos.
+
+– Información a los y las participantes. Experimentación de fórmulas y situaciones. Tipo de lenguaje:
+
+o Información sobre la ruta ecuestre.
+
+o Información sobre el caballo de marcha. Características y costumbres de los caballos que se utilizan.
+
+o Normas de la actividad y de seguridad: utilización del equipo y del material, organización del avituallamiento, conductas respecto al medio ambiente en una ruta ecuestre.
+
+o Comunicación de errores de ejecución de la técnica ecuestre.
+
+– Técnicas de equitación y manejo del caballo en rutas ecuestres. Explicación, demostración y ayuda:
+
+o Puesta de la cabezada, guiado del cabestro y atado del caballo en ruta.
+
+o Montar y echar pie a tierra en ruta.
+
+o Postura a caballo en ruta. Ayudas en equitación en ruta.
+
+o Aplicación de maniobras de apoyo a los y las participantes en ruta. Aplicación de protocolos de actuación en pasos de relativa dificultad. Ayuda y apoyo individualizado en pasajes difíciles.
+
+o Técnicas específicas de ayuda para personas con discapacidad y/o necesidades especiales.
+
+– Organización del grupo y seguridad:
+
+o Situaciones comprometidas y formas de actuación: descontrol del caballo, caídas y otros.
+
+o Previsión de reacciones del grupo y sus componentes en la ruta ecuestre.
+
+o Situación respecto al grupo y control del mismo. Revisión del material del grupo y del equipo de cada usuario. Protocolo de solución de dificultades en ruta. Protocolo de situación de emergencia y primeros auxilios.
+
+– Códigos de señales para la conducción de un grupo a caballo. Transmisión de información en ruta. Aparatos de comunicación interna y externa.
+
+– Espacio para los caballos en paradas:
+
+o Preparación para la pernoctación.
+
+o Aseguramiento del caballo entre etapas: estabulado, cercado eléctrico y atado.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Colaboración en la organización de actividades ecuestres recreativas:
+
+– Actividades ecuestres. Tipos.
+
+– Actividades ecuestres recreativas. Tipos y características. Estudio de las ofertas de mercado y posibilidades de la empresa.
+
+– Espacios e instalaciones para actividades ecuestres recreativas. Equipos para actividades ecuestres recreativas.
+
+– Realización previa de las actividades a la real con participantes. Resolución de problemas detectados.
+
+– Criterios de asignación de los animales:
+
+o Características del equino para actividades ecuestres recreativas.
+
+o Características del equino para actividades de hipoterapia.
+
+o Binomio jinete-caballo compensado.
+
+– Técnicas ecuestres específicas:
+
+o Trabajo técnico con los y las participantes.
+
+o Transmisión de las técnicas de equitación.
+
+o Adaptación de las técnicas al nivel de los y las participantes.
+
+o Adaptación de las técnicas a personas con discapacidad o necesidades especiales.
+
+– Normativa ambiental, de bienestar animal y la de prevención de riesgos laborales.
+
+Realización de actividades ecuestres recreativas:
+
+– Supervisión de recursos implicados en actividades ecuestres recreativas:
+
+o Preparación de espacios.
+
+o Selección y preparación de animales en función de actividad y participantes.
+
+o Revisión de materiales para actividades.
+
+o Colocación del equipo y del material para las actividades ecuestres recreativas.
+
+– Información a los participantes. Contenidos y tipo de lenguaje. Adaptaciones para facilitar el proceso a personas con discapacidad:
+
+o Normativa de la empresa y de las actividades. Normas de seguridad.
+
+o Instrucciones al usuario en equitación de ocio. Ejercicios de asimilación técnica. Trabajo individualizado y en grupo.
+
+o Datos de interés.
+
+– Intervención en actividades:
+
+o Criterios de adaptación de las actividades ecuestres. Tipos de actividades ecuestres para personas con discapacidad: circuitos psicopedagógicos, juegos ecuestres adaptados y otras.
+
+o Juegos y gymkhanas a caballo. Estructura de las actividades. Individual o por equipos. Uso del material.
+
+o Paseos en pony. Guiado del diestro o de la mano. Colaborador lateral de seguridad. Paseo en grupo. Diferencias entre paseo y ruta montando a caballo.
+
+o Paseo a caballo. Guía personalizado o de grupo. Adecuación al nivel del grupo. Distribución y organización del grupo. Control del grupo.
+
+o Paseo en coche de caballos. Selección del equipo de enganche y colocación. Enganche. Conducción por carretera y medio natural.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+Valoración de las actividades ecuestres recreativas y de conducción de grupos a caballo:
+
+– Fichas de control de valoración de la actividad. Tipos. Procedimientos de toma de datos en el desarrollo de la actividad. Recopilación de información. Análisis de la actividad, del grupo y del técnico, entre otros, y valoración respecto al programa. Documentos de evaluación. Elaboración:
+
+o Registros acerca de los comportamientos del grupo.
+
+o Registros sobre las actuaciones del técnico o guía.
+
+o Registro de incidencias y ajuste a los tiempos previstos. Incidencias que afectan a la seguridad del desarrollo de las actividades. Estimación del grado de seguridad de la actividad.
+
+o Registro de datos relacionados con el caballo. Conductas inadecuadas de los animales en la actividad. Velocidad del caballo al paso, al trote y al galope. Adaptación entre animales y participantes.
+
+– Adecuación de los equipos y materiales utilizados en la actividad ecuestre. Valoración de la adaptación a los animales y a los y las participantes.
+
+– Elaboración de informes sobre la actividad. Propuestas de medidas correctoras.
+
+– Normativa ambiental, de bienestar animal y de prevención de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de guía de actividades ecuestres.
+
+La concreción de la función de guía de actividades ecuestres incluye aspectos como:
+
+– Las tareas de preparación de rutas ecuestres.
+
+– La adaptación de itinerarios ecuestres.
+
+– Los trabajos de guiado del grupo por rutas ecuestres.
+
+– La colaboración en la organización de actividades ecuestres recreativas.
+
+– La realización de actividades ecuestres recreativas.
+
+– Las tareas de valoración de las actividades realizadas.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Explotaciones de ganado de équidos.
+
+– Empresas y entidades asociadas a eventos, espectáculos, demostraciones ecuestres, actividades recreativas, deportivas y con personas con discapacidad.
+
+– Centros de adiestramiento, doma y entrenamiento de ganado de équidos.
+
+– Centros de pupilaje, descanso y recuperación de ganado de équidos.
+
+– Empresas de servicio relacionadas con el sector de équidos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), h), i), k), m), n), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias b), c), h), i), k), m), n), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Profundización en el estudio de todos los factores que participan en las actividades ecuestres recreativas (personas, recursos, entorno y normativa).
+
+– Experiencia práctica en la preparación, el manejo y el mantenimiento de todos los recursos necesarios para las actividades ecuestres (caballos, instalaciones, materiales y equipos) y en las distintas fases de las mismas.
+
+– Análisis del ajuste de la actividad y de los caballos a las características de las personas.
+
+– Adaptación de actividades ecuestres para personas con discapacidad.
+
+– Habilidades comunicativas en diferentes contextos.
+
+– Capacidad de adaptación en la conducción de grupos a caballo.
+
+– Trabajo en equipo.
+
+– Valoración de las actividades y de la autoevaluación.
+
+**Módulo profesional: Atención a grupos.**
+
+**Código: 1328.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Caracteriza la dinámica grupal, relacionándola con los aspectos psicológicos y sociológicos que la sustentan.
+
+Criterios de evaluación:
+
+a) Se han explicado los procesos básicos del desarrollo evolutivo de las personas.
+
+b) Se han caracterizado los procesos que influyen en la conformación social de la conducta y las actitudes.
+
+c) Se han descrito las características de las discapacidades y su repercusión en el desarrollo de actividades grupales recreativas.
+
+d) Se ha valorado la diversidad cultural y su implicación en contextos recreativos.
+
+e) Se han descrito las principales características diferenciales desde la perspectiva de género y su implicación en contextos recreativos.
+
+2\. Desarrolla estrategias y técnicas de dinamización grupal en función del contexto de intervención, adecuando el uso de las técnicas a sus fases.
+
+Criterios de evaluación:
+
+a) Se han clasificado los elementos que configuran la estructura grupal y las relaciones entre ellos.
+
+b) Se han investigado las diferentes fases de un grupo.
+
+c) Se han caracterizado los posibles roles tipo en los y las integrantes de un grupo.
+
+d) Se han determinado diferentes técnicas de grupo para cada una de las fases en las que se encuentra el grupo.
+
+e) Se ha valorado la importancia de la utilización de dinámicas de grupo para interactuar con sus integrantes.
+
+f) Se han desarrollado técnicas de dinámica de grupos, considerando los espacios y los medios necesarios.
+
+g) Se han desarrollado técnicas de dinámica de grupos para colectivos específicos, incorporando las adaptaciones y ayudas técnicas requeridas.
+
+h) Se ha justificado el papel del técnico como iniciador y dinamizador de procesos grupales.
+
+3\. Identifica técnicas de comunicación, analizando las características de los grupos y de las personas implicadas en el proceso.
+
+Criterios de evaluación:
+
+a) Se han analizado los elementos del proceso de comunicación grupal.
+
+b) Se han definido los estilos de comunicación que hacen más eficaz el proceso de comunicación en función del contexto.
+
+c) Se han seleccionado estrategias para superar barreras de comunicación grupal.
+
+d) Se han adaptado las técnicas de comunicación a contextos y grupos.
+
+e) Se han determinado las técnicas de comunicación adecuadas a la situación y atendiendo a la diversidad cultural y funcional, sobre todo en situaciones de discapacidad.
+
+f) Se han descrito las habilidades de comunicación necesarias para favorecer el proceso de comunicación.
+
+g) Se ha valorado la importancia de las habilidades sociales en el proceso de comunicación.
+
+4\. Implementa estrategias de gestión de conflictos grupales y solución de problemas, seleccionando técnicas en función del contexto de intervención.
+
+Criterios de evaluación:
+
+a) Se han analizado las fuentes del origen de los problemas y conflictos en el funcionamiento de los grupos.
+
+b) Se han desarrollado habilidades sociales de solución de problemas dentro del grupo.
+
+c) Se han desarrollado técnicas de gestión de conflictos de grupos dentro del grupo.
+
+d) Se han descrito las fases del proceso de toma de decisiones.
+
+e) Se ha valorado la importancia del respeto y la tolerancia en la gestión de conflictos y en la solución de problemas.
+
+5\. Evalúa los procesos de grupo, identificando los aspectos susceptibles de mejora.
+
+Criterios de evaluación:
+
+a) Se han aplicado técnicas de investigación social.
+
+b) Se han determinado las estrategias e instrumentos para el estudio de grupos.
+
+c) Se ha definido la evaluación de los procesos grupales.
+
+d) Se han descrito los indicadores de evaluación.
+
+e) Se han cumplimentado los registros en los soportes establecidos.
+
+f) Se han identificado las situaciones que necesiten mejorar.
+
+g) Se ha autoevaluado la situación personal y social de partida del técnico.
+
+**Duración: 40 horas.**
+
+**Contenidos básicos:**
+
+Caracterización de la dinámica grupal:
+
+– Rasgos básicos de psicología evolutiva.
+
+– Desarrollo personal y elementos básicos.
+
+– Discapacidad. Etiología, sintomatología, clasificación, indicaciones, precauciones y contraindicaciones.
+
+– Cultura y socialización. Educación intercultural.
+
+– Educación para la libertad, la igualdad, la paz, la ciudadanía y la cooperación. Coeducación.
+
+Desarrollo de estrategias y técnicas de dinamización grupal:
+
+– El grupo. Psicología del grupo. Persona y grupo. Grupo de pertenencia. Grupo de referencia.
+
+– Procesos y estructura de un grupo.
+
+– Fenómenos que afectan al grupo. La cohesión social.
+
+– Fases de desarrollo de un grupo.
+
+– El liderazgo: tipos.
+
+– Técnicas de dinámica de grupos como metodología de intervención.
+
+– Técnicas de dinámica de grupos para colectivos específicos.
+
+– Justificación del papel del técnico como iniciador y dinamizador de procesos grupales.
+
+Identificación de técnicas de comunicación:
+
+– El proceso de comunicación. Elementos en el proceso de comunicación.
+
+– Estilos de comunicación. Asertividad.
+
+– Dificultades y barreras de la comunicación.
+
+– Técnicas de comunicación.
+
+– Valoración de la importancia de la comunicación y de la interacción comunicativa en distintos contextos.
+
+– Transmisión de mensajes.
+
+– Valoración de la importancia de adecuar la comunicación al interlocutor o a la interlocutora y a una posible discapacidad.
+
+– Actitudes personales que facilitan o dificultan la comunicación.
+
+– Justificación de las habilidades sociales básicas de comunicación.
+
+Gestión de conflictos y resolución de problemas:
+
+– El conflicto en las relaciones interpersonales.
+
+– Las actitudes de los grupos ante los conflictos.
+
+– Técnicas para la gestión y resolución de conflictos.
+
+– El proceso de toma de decisiones.
+
+– Valoración de la importancia del respeto y de la tolerancia en la resolución de problemas y conflictos.
+
+Evaluación de los procesos de grupo:
+
+– Aplicación de técnicas de investigación social al trabajo con grupos.
+
+– Análisis de estrategias e instrumentos para el estudio de grupos.
+
+– Evaluación de la estructura y los procesos grupales.
+
+– Selección de indicadores.
+
+– Recogida de datos. Técnicas de elaboración y cumplimentación de registros.
+
+– Interpretación de datos.
+
+– Valoración de la autoevaluación como estrategia para la mejora de la competencia social.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de ejecución, coordinación/mediación y evaluación de los procesos de animación y dinamización de actividades culturales y de tiempo libre con grupos de personas.
+
+La concreción de la función de ejecución incluye aspectos como:
+
+– La recogida de información.
+
+– La organización de la propia actuación.
+
+– El establecimiento, en su caso, de ayudas técnicas para la comunicación.
+
+– La información y comunicación a participantes y profesionales con los que desarrolla su trabajo.
+
+La función de coordinación/mediación incluye aspectos como:
+
+– Gestión de conflictos.
+
+– Establecimiento de retroalimentación.
+
+La función de evaluación hace referencia a la implementación de los procedimientos diseñados para el control y seguimiento de la intervención.
+
+La formación del módulo contribuye a alcanzar los objetivos generales n), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias n), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo partirán de un enfoque procedimental del mismo, realizando simulaciones en el aula y fuera de ella, utilizando una metodología activa y motivadora que implique la participación del alumnado como agente activo de un proceso de enseñanza-aprendizaje y versarán sobre:
+
+– Animación de grupos.
+
+– Adecuación de las técnicas de grupo a los diferentes grupos con los que interviene.
+
+– Selección e implementación de estrategias que permitan el establecimiento de relaciones de comunicación e interpersonales adecuadas.
+
+– Gestión eficaz de los conflictos y la toma de decisiones.
+
+– Autoevaluación y reflexión crítica sobre las actitudes profesionales.
+
+– Respeto y atención a la diversidad.
+
+**Módulo profesional: Organización de itinerarios.**
+
+**Código: 1329.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Valora el contexto de intervención de las actividades guiadas en el medio natural, seleccionando la información relevante para el diseño de itinerarios.
+
+Criterios de evaluación:
+
+a) Se han establecido los procedimientos de búsqueda, procesamiento, organización y archivo de la información para la preparación del itinerario.
+
+b) Se han analizado las características geográficas, geológicas, socioeconómicas y biológicas del entorno sobre el que se va a diseñar el itinerario.
+
+c) Se ha revisado la normativa medioambiental aplicable a la planificación de itinerarios en el medio natural.
+
+d) Se han analizado los factores que condicionan la dificultad y la peligrosidad de los recorridos.
+
+e) Se han considerado los valores culturales y paisajísticos del entorno como elementos de interés de la actividad.
+
+f) Se han descrito los perfiles de los grupos de participantes en actividades recreativas en el medio natural.
+
+2\. Selecciona los elementos relevantes para el diseño de itinerarios, interpretando representaciones cartográficas.
+
+Criterios de evaluación:
+
+a) Se han interpretado los elementos y la simbología de un mapa topográfico.
+
+b) Se han explicado las características de los recorridos a partir de la representación cartográfica.
+
+c) Se han calculado desniveles y distancias longitudinales a partir de mapas de diferentes escalas.
+
+d) Se han detallado los códigos gráficos que indican los puntos o tramos del itinerario con mayor dificultad y peligrosidad.
+
+e) Se han calculado rumbos y azimut.
+
+f) Se han localizado posibles zonas de evacuación ante incidencias en recorridos de grupos por la zona.
+
+3\. Diseña itinerarios por el medio natural, relacionando la zona, los medios disponibles y el perfil del grupo con el servicio demandado.
+
+Criterios de evaluación:
+
+a) Se han determinado los puntos de inicio y de finalización del recorrido.
+
+b) Se han trazado la distancia, los desniveles y las dificultades del recorrido, adaptados a los perfiles de las personas participantes.
+
+c) Se han establecido los tiempos de ruta, de descanso y de actividades complementarias.
+
+d) Se han planteado rutas alternativas en los puntos conflictivos de la ruta prevista.
+
+e) Se han previsto actividades recreativas en función de la intensidad del recorrido y de los perfiles de los y las participantes.
+
+f) Se han utilizado las tecnologías de la información y la comunicación en el diseño de itinerarios.
+
+4\. Establece los recursos necesarios para la realización del itinerario, analizando el tipo de actividad y los intereses de los y las participantes.
+
+Criterios de evaluación:
+
+a) Se han establecido los procedimientos de obtención de permisos de acceso, circulación y pernoctación para la zona de la actividad.
+
+b) Se ha detallado la logística de la actividad, teniendo en cuenta la participación de personas con discapacidad.
+
+c) Se han previsto los espacios y los medios necesarios para el recorrido y para las actividades recreativas.
+
+d) Se ha elaborado un libro de ruta con el programa de la actividad, el perfil topográfico, los puntos referentes para la orientación y los significativos del itinerario.
+
+e) Se han calculado las provisiones para cubrir los requerimientos de hidratación y de alimentación del grupo.
+
+5\. Concreta protocolos de seguridad para los itinerarios en el medio natural, determinando las conductas y los recursos necesarios.
+
+Criterios de evaluación:
+
+a) Se han determinado las medidas específicas de seguridad en función del recorrido y del grupo.
+
+b) Se ha previsto el equipamiento de seguridad individual y colectivo en función de las condiciones del recorrido.
+
+c) Se ha establecido el procedimiento de actuación ante condiciones adversas en el itinerario.
+
+d) Se ha explicado el procedimiento de coordinación con los servicios de emergencia de la zona.
+
+e) Se ha concretado la actuación que ha de seguir cada participante y el grupo en situaciones de peligro.
+
+f) Se ha justificado el uso de los accidentes del terreno frente a fenómenos atmosféricos adversos.
+
+6\. Determina el proceso de seguimiento del recorrido, especificando el tipo de datos necesarios para incorporar mejoras al mismo.
+
+Criterios de evaluación:
+
+a) Se han seleccionado formas de registro de datos sobre las reacciones del grupo, del técnico y de su progresión en el itinerario y en las actividades.
+
+b) Se han diseñado instrumentos para recoger las incidencias en cuanto al ajuste de la ruta respecto al itinerario previsto.
+
+c) Se ha valorado la necesidad de recoger datos sobre la adecuación de los equipos y de los materiales utilizados en la actividad.
+
+d) Se han determinado los aspectos que pueden ser considerados incidencias que afectan a la seguridad de la actividad.
+
+e) Se ha confeccionado un modelo de informe basado en las fichas de valoración, en el programa y en las propuestas de mejora.
+
+f) Se ha valorado la aplicación de la normativa ambiental y de prevención de riesgos laborales en el diseño de itinerarios.
+
+**Duración: 60 horas.**
+
+**Contenidos básicos:**
+
+Valoración del contexto de intervención de las actividades guiadas en el medio natural:
+
+– Actividades por itinerarios en el medio natural. Tipos y características.
+
+– Búsqueda de información. Fuentes oficiales de datos cartográficos, legales y medioambientales.
+
+– Procedimientos y técnicas para el análisis, tratamiento, procesamiento y archivo de información.
+
+– Selección de puntos de interés para los itinerarios en el medio natural.
+
+– Criterios para localizar zonas potencialmente peligrosas. Indicadores de posibilidad de desprendimientos, aludes y crecidas, entre otros.
+
+– Participantes en las actividades guiadas por el medio natural. Características. Valoración de los intereses y expectativas de los perfiles de participantes. Aspectos que se deben tener en cuenta en personas con discapacidad o necesidades especiales.
+
+Selección de los elementos relevantes para el diseño de itinerarios:
+
+– Factores que condicionan los itinerarios por el medio natural.
+
+– Interpretación de mapas topográficos.
+
+– Características de las zonas, atendiendo a su representación topográfica.
+
+– Estudio de posibilidades de conexión con vías de comunicación principales.
+
+– Mapa y orientación:
+
+o Instrumentos básicos para la orientación.
+
+– Perfiles topográficos. Interpretación y diseño:
+
+o Cálculo de distancias.
+
+o Cálculo de pendientes.
+
+Diseño de itinerarios por el medio natural:
+
+– Diseño del itinerario:
+
+o Inicio y final del recorrido. Conexión con vías de comunicación.
+
+o Trayectoria del itinerario.
+
+o Distancias, tiempos y desniveles.
+
+o Puntos de dificultad.
+
+o Puntos de evacuación.
+
+o Puntos de interés paisajístico y medioambiental.
+
+o Puntos de reagrupamiento, de descanso y de actividades complementarias.
+
+– Características de los participantes y desarrollo del itinerario:
+
+o Pasos dificultosos. Rutas alternativas.
+
+o Necesidades de avituallamiento.
+
+o Dificultades asociadas a los tipos de discapacidad.
+
+– Actividades complementarias en los itinerarios:
+
+o Actividades lúdicas y de sensibilización sobre los valores naturales y culturales y sobre los recursos de la zona.
+
+– Acciones y medios para ayuda o apoyo de agentes externos.
+
+– Uso de las tecnologías de la información y la comunicación en el diseño de itinerarios.
+
+Recursos necesarios para las actividades guiadas en el medio natural:
+
+– Normativa sobre espacios naturales:
+
+o Limitaciones para el transporte. Transporte para personas con discapacidad.
+
+– Obtención de permisos de acceso, circulación y pernoctación. Normativa vigente y organismo expedidor.
+
+– Recursos materiales y humanos en las actividades guiadas en el medio natural:
+
+o Recursos para las actividades complementarias. Adaptaciones para la participación de personas con discapacidad.
+
+o Materiales y medios para la protección del medio natural.
+
+– Información adaptada a participantes. Diseño del libro de ruta y selección de fichas y cuadernos de campo.
+
+– Provisiones para hidratación y alimentación del grupo. Tipo, cantidad y formas de transporte del agua y de los alimentos.
+
+Protocolos de seguridad en itinerarios en el medio natural:
+
+– Medidas específicas de seguridad en función del recorrido y del grupo.
+
+– Equipamiento de seguridad individual y colectivo.
+
+– Condiciones de seguridad en el recorrido.
+
+– Actuación en situaciones de peligro. Acciones y técnicas para actuaciones en condiciones adversas. Valoración de la gravedad de la situación y de las personas o instancias a las que hay que informar.
+
+– Normas de comportamiento en cada tramo. Estudio de las contingencias en la actividad.
+
+– Protocolo de seguridad. Medidas para prevenir y resolver situaciones de peligro.
+
+– Protocolos de socorro/evacuación.
+
+– Sistemas de aviso y comunicación con participantes.
+
+– Aparatos de comunicación.
+
+Determinación del proceso de seguimiento del recorrido:
+
+– Técnicas e instrumentos para el seguimiento de la actividad. Observación sistemática. Planillas de recogida de datos:
+
+o Datos sobre las reacciones del grupo.
+
+o Datos relacionados con los tiempos programados.
+
+o Datos sobre el comportamiento de los equipos y de los materiales utilizados en la actividad.
+
+o Datos acerca de las incidencias que afectan a la seguridad durante el desarrollo de la actividad.
+
+– Datos sobre la aplicación de la normativa ambiental y la de prevención de riesgos laborales.
+
+– Técnicas de autoevaluación.
+
+– Informes. Fichas de valoración de la actividad. Medidas correctoras de los desajustes detectados. Propuestas de mejora de la actividad.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de determinación y organización de itinerarios en el medio natural.
+
+La concreción de la función de organización de itinerarios incluye aspectos como:
+
+– La adecuación de itinerarios a las figuras legales de protección ambiental y al tipo de participantes.
+
+– La determinación de recursos para las actividades guiadas en el medio natural.
+
+Las actividades profesionales asociadas a esta función se aplican en el sector de:
+
+– Turismo activo.
+
+La formación del módulo contribuye a alcanzar los objetivos generales m), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias m), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Descripción de las actividades guiadas en el medio natural.
+
+– Búsqueda y uso de información para la organización de itinerarios.
+
+– Uso de mapas topográficos y sistemas de orientación en el diseño de itinerarios.
+
+– Análisis de los participantes y adaptación de la actividad a sus características.
+
+– Valoración de la seguridad en la organización de la actividad.
+
+– Diseño de itinerarios.
+
+– Previsión de recursos para los itinerarios.
+
+– Conocimiento de la normativa y obtención de permisos para la realización de actividades en espacios naturales.
+
+– Conocimiento y aplicación de los protocolos de seguridad en itinerarios.
+
+– Valoración de la actividad realizada.
+
+**Módulo profesional: Primeros auxilios.**
+
+**Código: 0020.**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza la valoración inicial de la asistencia en una urgencia, describiendo riesgos, recursos disponibles y tipo de ayuda necesaria.
+
+Criterios de evaluación:
+
+a) Se ha asegurado la zona según el procedimiento oportuno.
+
+b) Se han identificado las técnicas de autoprotección en la manipulación de personas accidentadas.
+
+c) Se ha descrito el contenido mínimo de un botiquín de urgencias y las indicaciones de los productos y medicamentos.
+
+d) Se han establecido las prioridades de actuación en múltiples víctimas.
+
+e) Se han descrito los procedimientos para verificar la permeabilidad de las vías aéreas.
+
+f) Se han identificado las condiciones de funcionamiento adecuadas de la ventilación-oxigenación.
+
+g) Se han descrito y ejecutado los procedimientos de actuación en caso de hemorragias.
+
+h) Se han descrito procedimientos para comprobar el nivel de consciencia.
+
+i) Se han tomado las constantes vitales.
+
+j) Se ha identificado la secuencia de actuación según protocolo establecido por el ILCOR (Comité de Coordinación Internacional sobre la Resucitación).
+
+2\. Aplica técnicas de soporte vital básico, describiéndolas y relacionándolas con el objetivo a conseguir.
+
+Criterios de evaluación:
+
+a) Se han descrito los fundamentos de la resucitación cardio-pulmonar.
+
+b) Se han aplicado técnicas de apertura de la vía aérea.
+
+c) Se han aplicado técnicas de soporte ventilatorio y circulatorio.
+
+d) Se ha realizado desfibrilación externa semiautomática (DEA).
+
+e) Se han aplicado medidas post-reanimación.
+
+f) Se han indicado lesiones, patologías o traumatismos frecuentes.
+
+g) Se ha descrito la valoración primaria y secundaria de la persona accidentada.
+
+h) Se han aplicado primeros auxilios ante lesiones por agentes físicos, químicos y biológicos.
+
+i) Se han aplicado primeros auxilios ante patologías orgánicas de urgencia.
+
+j) Se han especificado casos o circunstancias en los que no se debe intervenir.
+
+3\. Aplica procedimientos de inmovilización y movilización de víctimas, seleccionando los medios materiales y las técnicas.
+
+Criterios de evaluación:
+
+a) Se han efectuado las maniobras necesarias para acceder a la víctima.
+
+b) Se han identificado los medios materiales de inmovilización y movilización.
+
+c) Se han caracterizado las medidas posturales ante una lesión.
+
+d) Se han descrito las repercusiones de una movilización y un traslado inadecuados.
+
+e) Se han confeccionado sistemas para la inmovilización y movilización de víctimas con materiales convencionales e inespecíficos o medios de fortuna.
+
+f) Se han aplicado normas y protocolos de seguridad y de autoprotección personal.
+
+4\. Aplica técnicas de apoyo psicológico y de autocontrol a la persona accidentada y sus acompañantes, describiendo y aplicando las estrategias de comunicación adecuadas.
+
+Criterios de evaluación:
+
+a) Se han descrito las estrategias básicas de comunicación con la persona accidentada y sus acompañantes.
+
+b) Se han detectado sus necesidades psicológicas.
+
+c) Se han aplicado técnicas básicas de soporte psicológico para mejorar su estado emocional.
+
+d) Se ha valorado la importancia de infundir confianza y optimismo durante toda la actuación.
+
+e) Se han identificado los factores que predisponen a la ansiedad en las situaciones de accidente, emergencia y duelo.
+
+f) Se han especificado las técnicas a emplear para controlar una situación de duelo, ansiedad y angustia o agresividad.
+
+g) Se han especificado las técnicas que deben ser empleadas para superar psicológicamente el fracaso en la prestación del auxilio.
+
+h) Se ha valorado la importancia de autocontrolarse ante situaciones de estrés.
+
+**Duración: 35 horas.**
+
+**Contenidos básicos:**
+
+Valoración inicial de la asistencia en urgencia:
+
+– Sistemas de emergencias.
+
+– Objetivos y límites de los primeros auxilios.
+
+– Marco legal, responsabilidad y ética profesional.
+
+– Tipos de accidentes y sus consecuencias.
+
+– Signos de compromiso vital en personas adultas, en la infancia y en lactantes.
+
+– Métodos y materiales de protección de la zona.
+
+– Medidas de autoprotección personal.
+
+– Botiquín de primeros auxilios.
+
+– Prioridades de actuación en múltiples víctimas. Métodos de triaje simple.
+
+– Signos y síntomas de urgencia.
+
+– Valoración del nivel de consciencia.
+
+– Toma de constantes vitales.
+
+– Protocolos de exploración.
+
+– Terminología médico-sanitaria en primeros auxilios.
+
+– Protocolo de transmisión de la información.
+
+Aplicación de técnicas de soporte vital:
+
+– Control de la permeabilidad de las vías aéreas.
+
+– Resucitación cardiopulmonar básica.
+
+– Desfibrilación externa semiautomática (DEA).
+
+– Valoración de la persona accidentada.
+
+– Atención inicial en lesiones por agentes físicos (traumatismos, calor o frío, electricidad y radiaciones).
+
+– Atención inicial en lesiones por agentes químicos y biológicos.
+
+– Atención inicial en patología orgánica de urgencia.
+
+– Actuación limitada al marco de sus competencias.
+
+Aplicación de procedimientos de inmovilización y movilización:
+
+– Evaluación de la necesidad de traslado.
+
+– Posiciones de seguridad y espera.
+
+– Técnicas de inmovilización.
+
+– Técnicas de movilización.
+
+– Confección de camillas y materiales de inmovilización.
+
+Aplicación de técnicas de apoyo psicológico y de autocontrol:
+
+– Estrategias básicas de comunicación.
+
+– Valoración del papel del primer interviniente.
+
+– Técnicas facilitadoras de la comunicación interpersonal.
+
+– Factores que predisponen a la ansiedad en situaciones de accidente o emergencia.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de prevención y seguridad.
+
+La concreción de la función de prevención y seguridad incluye aspectos como:
+
+– Aplicación de primeros auxilios.
+
+– Generación de entornos seguros.
+
+Los aprendizajes realizados en este módulo son de aplicación en los siguientes sectores:
+
+– Empresas y entidades asociadas a eventos, espectáculos, demostraciones ecuestres, actividades recreativas, deportivas y con personas con discapacidad.
+
+– Centros de adiestramiento, doma y entrenamiento de ganado de équidos.
+
+– Empresas de servicio relacionadas con el sector de équidos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales ñ), o), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias ñ), o), p), q), r), s), t) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo están relacionadas con:
+
+– La valoración inicial de personas accidentadas y la selección de las técnicas de primeros auxilios oportunas.
+
+– La correcta aplicación de las técnicas de primeros auxilios.
+
+– La correcta aplicación de las técnicas de soporte vital.
+
+– La aplicación de estrategias de comunicación adecuadas para el apoyo psicológico a las personas accidentadas y a sus acompañantes.
+
+**0156. Inglés Profesional (GM)**
+
+**1709. Itinerario personal para la empleabilidad I**
+
+**1710. Itinerario personal para la empleabilidad II**
+
+**1664. Digitalización aplicada a los sectores productivos (GM)**
+
+**1708. Sostenibilidad aplicada al sistema productivo**
+
+> Téngase en cuenta que el código, duración del currículo básico, resultados de aprendizaje y criterios de evaluación de los módulos profesionales 0156, 1709, 1710,1664 y 1708, figuran como anexos IX, V, VI y VIII del Real Decreto 659/2023, de 18 de julio, según establece el art. 7 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+**1713. Proyecto intermodular**
+
+## Currículo básico módulo de Proyecto intermodular de grado medio
+
+Módulo Profesional: Proyecto intermodular.
+
+Duración: 50 horas.
+
+Código: 1713.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
+
+Criterios de evaluación:
+
+a) Se han identificado las empresas tipo más representativas del sector.
+
+b) Se ha descrito la estructura organizativa de las empresas.
+
+c) Se han caracterizado los principales departamentos.
+
+d) Se han determinado las funciones de cada departamento.
+
+e) Se ha evaluado el volumen de negocio de acuerdo a las necesidades de los clientes.
+
+f) Se ha definido la estrategia para dar respuesta a las demandas.
+
+g) Se han valorado los recursos humanos y materiales necesarios.
+
+h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia aplicada.
+
+i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
+
+2\. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
+
+Criterios de evaluación:
+
+a) Se han identificado las necesidades.
+
+b) Se han planteado en grupo posibles soluciones.
+
+c) Se ha obtenido la información relativa a las soluciones planteadas.
+
+d) Se han identificado aspectos innovadores que puedan ser de aplicación.
+
+e) Se ha realizado el estudio de viabilidad técnica.
+
+f) Se han identificado las partes que componen el proyecto.
+
+g) Se han previsto los recursos materiales y humanos para realizarlo.
+
+h) Se ha realizado el presupuesto económico correspondiente.
+
+i) Se ha definido y elaborado la documentación para su diseño.
+
+j) Se han identificado los aspectos relacionados con la calidad del proyecto.
+
+k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
+
+3\. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
+
+Criterios de evaluación:
+
+a) Se han temporizado las secuencias de las actividades.
+
+b) Se han determinado los recursos y la logística de cada actividad.
+
+c) Se han identificado permisos y autorizaciones en caso de ser necesarios.
+
+d) Se han identificado las actividades que implican riesgos en su ejecución.
+
+e) Se ha tenido en cuenta el plan de prevención de riesgos y los medios y equipos necesarios.
+
+f) Se han asignado recursos materiales y humanos a cada actividad.
+
+g) Se han tenido en cuenta posibles imprevistos.
+
+h) Se han propuesto soluciones a los posibles imprevistos.
+
+i) Se ha elaborado la documentación necesaria.
+
+4\. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
+
+Criterios de evaluación:
+
+a) Se ha definido el procedimiento de seguimiento de las actividades.
+
+b) Se ha verificado la calidad de los resultados de las actividades.
+
+c) Se han identificado posibles desviaciones de la planificación y/o los resultados esperados.
+
+d) Se ha informado de las desviaciones en caso de ser necesario.
+
+e) Se han solucionado las desviaciones y se han documentado las intervenciones.
+
+f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
+
+5\. Transmite información con claridad, de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+a) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+b) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+c) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+> Se modifica por el art. 7 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## **ANEXO II** — **Espacios**
+
+Espacio formativo
+
+Aula polivalente.
+
+Laboratorio.
+
+Almacén.
+
+Guadarnés.
+
+(*) Cuadras corridas.
+
+(*) Boxes individuales.
+
+(*) Picadero cubierto.
+
+(*) Salas de exploración, de recela y cubriciones, de colecta de semen y de parto.
+
+(*) Pista de trabajo exterior.
+
+(*) Praderas.
+
+(*) Círculos para dar cuerda.
+
+(*) Caminador automático.
+
+(*) Zona de duchas, corraletas, cestiles y/o verderas.
+
+(*) Local para herrado de equinos.
+
+(*) Espacio singular no necesariamente ubicado en el centro de formación.
+
+## **ANEXO III** — Especialidades del profesorado con atribución con atribución docente en los módulos profesionales del ciclo formativo de Técnico en actividades ecuestres
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1319. Alimentación, manejo general y primeros auxilios de équidos.</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>1320. Mantenimiento físico, cuidados e higiene equina</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>1321. Reproducción, cría y recría de équidos.</td>
+<td>– Procesos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1322. Herrado de équidos.</td>
+<td>– Procesos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1323. Desbrave y doma a la cuerda de potros.</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>1324. Adiestramiento.</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>1325. Técnicas de equitación</td>
+<td>
+<p>– Procesos de Producción Agraria.</p>
+<p>– Educación Física.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1326. Exhibiciones y concursos de ganado equino.</td>
+<td>– Procesos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1327. Guía ecuestre.</td>
+<td>– Educación Física.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1328. Atención a grupos.</td>
+<td>
+<p>– Educación Física.</p>
+<p>– Intervención Socio comunitaria.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1329. Organización de itinerarios.</td>
+<td>– Educación Física.</td>
+<td>
+<p>– Catedráticos de enseñanza secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0020. Primeros auxilios.</td>
+<td>
+<p>– Procedimientos Sanitarios y Asistenciales.</p>
+<p>– Procedimientos de Diagnóstico Clínico y Ortoprotésico.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0156. Inglés profesional (GM).</td>
+<td>– Inglés</td>
+<td>
+<p>– Catedráticos de enseñanza secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">1713. Proyecto intermodular.</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Procesos de Producción Agraria.</p>
+<p>– Educación Física.</p>
+<p>– Intervención Socio comunitaria.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1709. Itinerario personal para la empleabilidad I.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1710. Itinerario personal para la empleabilidad II.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">1708. Sostenibilidad aplicada al sistema productivo.</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Educación Física.</p>
+<p>– Intervención Socio comunitaria.</p>
+<p>– Procesos de Producción Agraria.</p>
+<p>– Formación y Orientación Laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">1664. Digitalización aplicada a los sectores productivos (GM).</td>
+<td>– Operaciones y Equipos de Producción Agraria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Educación Física.</p>
+<p>– Intervención Socio comunitaria.</p>
+<p>– Procesos de Producción Agraria.</p>
+<p>– Formación y Orientación Laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprimen los anexos III A, III B, III C , III D y se añade el anexo III, con el contenido que figura como anexo XLIX del Real Decreto 499/2024, de 21 de mayo, según establece su art. 8.47. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## **ANEXO IV** — **Convalidaciones**
+
+a) Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la Ley Orgánica 1/1990 (LOGSE) y los establecidos en el título de Técnico en actividades ecuestres al amparo de la Ley Orgánica 2/2006
+
+| Formación aportada | Formación a convalidar |
+|---|---|
+| Módulos profesionales (Ciclo formativo al que pertenecen) | Módulos profesionales a convalidar |
+| Conducción de grupos a caballo y cuidados equinos básicos.<br>– Ciclo Formativo de Grado Medio de Conducción de Actividades Físico-deportivas en el Medio Natural. | 1327. Guía ecuestre.<br>1320. Mantenimiento físico, cuidados e higiene equina. |
+| Fundamentos biológicos, salud y primeros auxilios.<br>– Ciclo Formativo de Grado Medio de Conducción de Actividades Físico-deportivas en el Medio Natural. | 0020. Primeros auxilios. |
+| Dinámica de grupos.<br>– Ciclo Formativo de Grado Medio de Conducción de Actividades Físico-deportivas en el Medio Natural. | 1328. Atención a grupos. |
+| Cuidados básicos, doma y adiestramiento del caballo y otros animales.<br>– Ciclo Formativo de Grado Medio de Explotaciones Ganaderas.<br>(Actividades Agrarias) | 1319. Alimentación, manejo general y primeros auxilios de équidos.<br>1320. Mantenimiento físico, cuidados e higiene equina. |
+
+b) Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE) y los establecidos en el título de Técnico en actividades ecuestres
+
+| Formación aportada | Formación a convalidar |
+|---|---|
+| Módulos profesionales (Ciclo formativo al que pertenecen) | Módulos profesionales a convalidar |
+| 0017. Habilidades Sociales.<br>– Ciclo Formativo de Grado Superior de Acondicionamiento Físico.<br>– Ciclo Formativo de Grado Superior de Integración Social<br>(Servicios socioculturales y a la comunidad )<br>– Ciclo Formativo de Grado Superior de Mediación Comunicativa.<br>(Servicios socioculturales y a la comunidad)<br>– Ciclo Formativo de Grado Superior de Educación Infantil<br>(Servicios socioculturales ya la comunidad).<br>– Ciclo Formativo de Grado Superior de Promoción en Igualdad de Género. (Servicios socioculturales y a la comunidad).<br>– Ciclo Formativo de Grado Superior de Educación y Control Ambiental.<br>(Seguridad y Medioambiente). | 1328. Atención a grupos. |
+| 1124. Dinamización Grupal.<br>– Ciclo Formativo de Grado Superior de Enseñanza y Animación Sociodeportiva.<br>– Ciclo Formativo de Grado Superior de Animación Sociocultural y Turística.<br>(Servicios socioculturales y a la comunidad). | 1328. Atención a grupos. |
+| 0211. Destrezas sociales.<br>– Ciclo Formativo de Grado Medio de Atención a Personas en Situación de Dependencia.<br>(Servicios socioculturales y a la comunidad). | 1328. Atención a grupos. |
+| 1337. Socorrismo en el medio natural.<br>– Ciclo Formativo de Grado Medio de Guía en el Medio Natural y de Tiempo Libre. | 0020. Primeros Auxilios. |
+| 1136. Valoración de la condición física e intervención en accidentes.<br>– Ciclo Formativo de Grado Superior de Acondicionamiento Físico.<br>– Ciclo Formativo de Grado Superior de Enseñanza y Animación Sociodeportiva. | 0020. Primeros Auxilios. |
+
+## **ANEXO V A)** — Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC0719_2: Alimentar y realizar el manejo general y los primeros auxilios al ganado equino. | 1319. Alimentación, manejo general y primeros auxilios de équidos. |
+| UC0720_2: Efectuar la higiene, cuidados y mantenimiento físico del ganado equino. | 1320. Mantenimiento físico, cuidados e higiene equina. |
+| UC0721_2: Realizar el manejo del ganado equino durante su reproducción y recría. | 1321. Reproducción, cría y recría de équidos. |
+| UC1136_2: Realizar las operaciones de preparación y acabado del herrado de equinos. | 1322. Herrado de équidos. |
+| UC1122_2: Desbravar potros.<br>UC1123_2: Domar potros a la cuerda. | 1323. Desbrave y doma a la cuerda de potros. |
+| UC1124_2: Realizar la monta inicial de potros. | 1324. Adiestramiento. |
+| UC1080_2: Dominar las técnicas básicas de monta a caballo. | 1325. Técnicas de equitación. |
+| UC0722_2: Preparar y acondicionar el ganado equino para su presentación en exhibiciones y concursos. | 1326. Exhibiciones y concursos de ganado equino. |
+| UC1081_2: Guiar y dinamizar a personas por itinerarios a caballo. | 1327. Guía ecuestre.<br>1328. Atención a grupos. |
+| UC1079_2: Determinar y organizar itinerarios a caballo por terrenos variados. | 1329. Organización de itinerarios. |
+
+> Se modifica por el art. 3.26 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## **ANEXO V B)** — Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación
+
+| Módulos profesionales superados | Unidades de competencia acreditables |
+|---|---|
+| 1319. Alimentación, manejo general y primeros auxilios de équidos. | UC0719_2: Alimentar y realizar el manejo general y los primeros auxilios al ganado equino. |
+| 1320. Mantenimiento físico, cuidados e higiene equina. | UC0720_2: Efectuar la higiene, cuidados y mantenimiento físico del ganado equino. |
+| 1321. Reproducción, cría y recría de équidos. | UC0721_2: Realizar el manejo del ganado equino durante su reproducción y recría. |
+| 1322. Herrado de équidos. | UC1136_2: Realizar las operaciones de preparación y acabado del herrado de equinos. |
+| 1323. Desbrave y doma a la cuerda de potros. | UC1122_2: Desbravar potros.<br>UC1123_2: Domar potros a la cuerda. |
+| 1324. Adiestramiento. | UC1124_2: Realizar la monta inicial de potros. |
+| 1325. Técnicas de equitación. | UC1080_2: Dominar las técnicas básicas de monta a caballo. |
+| 1326. Exhibiciones y concursos de ganado equino. | UC0722_2: Preparar y acondicionar el ganado equino para su presentación en exhibiciones y concursos. |
+| 1327. Guía ecuestre.<br>1328. Atención a grupos. | UC1081_2: Guiar y dinamizar a personas por itinerarios a caballo. |
+| 1329. Organización de itinerarios. | UC1079_2: Determinar y organizar itinerarios a caballo por terrenos variados.» |
+
+> Se modifica por el art. 3.26 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+> Información relacionada
+
+> Téngase en cuenta que las referencias contenidas en el articulado a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad», y que se deja sin efecto cualquier referencia a titulaciones habilitantes a efectos de docencia que remita a los extintos anexos III B) y III D), según establecen las disposiciones adicionales 3 y 4 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)

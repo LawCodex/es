@@ -392,16 +392,6 @@ No se podrá realizar la sustitución total o parcial del bastidor o de la estru
 
 3\. Las caravanas y remolques ligeros estarán dotados de una tarjeta de inspección técnica, expedida de acuerdo con lo dispuesto en la reglamentación vigente que se recoge en el anexo I.
 
-> Téngase en cuenta que esta última actualización, por la que se suprimen los apartados 3 y 4 y se renumera el apartado 5 como 3, establecida por la disposición final 2.1 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194), entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "3. Los vehículos de motor no podrán remolcar a otro vehículo de motor, salvo en el caso de que éste se encuentre accidentado o averiado y no pueda ser arrastrado por otro específicamente destinado a ese fin, supuesto en que está permitido el arrastre hasta la localidad o lugar más próximo donde pueda quedar convenientemente inmovilizado y sin entorpecer la circulación, y siempre que no se circule por autopistas ni autovías.
-
-> 4\. En todo caso, las motocicletas y los vehículos de tres ruedas no podrán arrastrar remolque o semirremolque alguno.
-
-> 5\. Las caravanas y remolques ligeros estarán dotados de una tarjeta de inspección técnica, expedida de acuerdo con lo dispuesto en la reglamentación vigente que se recoge en el anexo I."
-
 > Se suprimen los apartados 3 y 4 y se renumera el apartado 5 como 3, con efectos de 1 de julio de 2021, por la disposición final 2.1 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194)
 
 **Artículo 10. Inspecciones técnicas de vehículos.**
@@ -1110,12 +1100,6 @@ Si el tranvía llevase dos luces de posición delanteras y dos traseras, serán 
 
 1\. Para poner en circulación vehículos de motor, así como remolques y semirremolques de masa máxima autorizada superior a 750 kilogramos, será preciso matricularlos y que lleven las placas de matrícula con los caracteres que se les asigne, del modo que se establece en el anexo XVIII. Esta obligación será exigida a los ciclomotores y ciclos de motor de acuerdo con lo que se determina en el artículo 28 del presente Reglamento.
 
-> Téngase en cuenta que la última actualización del apartado 1, establecida por el art. 2.4 del Real Decreto 970/2020, de 10 de noviembre, entra en vigor el 2 de enero de 2021, según determina su disposición final única. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969)
-
-> Redacción anterior:
-
-> "1. Para poner en circulación vehículos de motor, así como remolques y semirremolques de masa máxima autorizada superior a 750 kilogramos, será preciso matricularlos y que lleven las placas de matrícula con los caracteres que se les asigne, del modo que se establece en el anexo XVIII. Esta obligación será exigida a los ciclomotores de acuerdo con lo que se determina en el artículo 28 del presente Reglamento."
-
 2\. Previamente a su matriculación, los vehículos citados en el apartado anterior deben estar dotados del correspondiente certificado oficial que acredite sus características técnicas esenciales y su aptitud para circular por las vías públicas, que se expedirá:
 
 a) Por los órganos competentes de la Administración o entidades delegadas, si se trata de vehículos que corresponden a tipos homologados incompletos, no homologados, matriculados anteriormente en otro país, vehículos usados procedentes de subastas oficiales realizadas en España o vehículos nuevos adquiridos directamente en otro país y que posean un certificado de conformidad CE.
@@ -1164,14 +1148,6 @@ c) Cuando se pretenda legalizar en nuestro país la situación de un vehículo m
 
 La matriculación y expedición de la licencia de circulación de los ciclomotores y ciclos de motor se efectuará en la Jefatura de Tráfico del domicilio legal del propietario, del arrendatario con opción de compra o del arrendatario a largo plazo.
 
-> Téngase en cuenta que la última actualización del apartado 1, establecida por el art. 2.5 del Real Decreto 970/2020, de 10 de noviembre, entra en vigor el 2 de enero de 2021, según determina su disposición final única. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969)
-
-> Redacción anterior:
-
-> "1. La matriculación y expedición del permiso de circulación de los automóviles y de los vehículos especiales autopropulsados, cualquiera que sea su masa, así como de los remolques, semirremolques y máquinas remolcadas especiales cuya masa máxima autorizada exceda de 750 kilogramos, se solicitará por el propietario, el arrendatario con opción de compra o el arrendatario a largo plazo de la Jefatura de Tráfico de la provincia en que tenga su domicilio legal o en la que se vaya a residenciar el vehículo especial agrícola.
-
-> La matriculación y expedición de la licencia de circulación de los ciclomotores se efectuará en la Jefatura de Tráfico del domicilio legal del propietario, del arrendatario con opción de compra o del arrendatario a largo plazo."
-
 2\. La solicitud se formulará en el modelo oficial que a tales efectos proporcionará la Jefatura de Tráfico correspondiente o que se podrá descargar en la siguiente página web: www.dgt.es.
 
 A la solicitud se acompañarán los documentos que se indican en el anexo XIII, los cuales acreditan los requisitos técnicos del vehículo, el cumplimiento de las obligaciones tributarias, de la importación legal, en su caso, o de que cumple con los requisitos para obtener o que cuenta con el título habilitante para obtener o realizar alguna actividad de transporte o de arrendamiento sin conductor, así como aquellos otros documentos en que el interesado funde su derecho a la matriculación del vehículo y que acrediten su personalidad y domicilio.
@@ -1209,24 +1185,6 @@ El permiso de circulación y la licencia de circulación se ajustarán, en cuant
 2\. El titular de un vehículo que hubiera sufrido variación en cualquiera de los datos que consten en el Registro de Vehículos dispondrá de un plazo de 15 días desde que se produjera para comunicarla. En todo caso, se expedirá un nuevo permiso o licencia de circulación si la variación de datos comunicada afectase a los que deban ser consignados en dicho documento.
 
 3\. Los trámites previstos en los apartados anteriores se practicarán ante la sede electrónica de la Dirección General de Tráfico, o en su defecto, en cualquier Jefatura Provincial u Oficina Local de Tráfico en los términos establecidos en el anexo XIII.
-
-> Téngase en cuenta que esta última actualización establecida por la disposición final 4 del Real Decreto 920/2017, de 23 de octubre. [Ref. BOE-A-2017-12841](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12841) entra en vigor el 20 de mayo de 2018, según determina su disposición final 8.
-
-> Redacción anterior:
-
-> "Artículo 30. Duplicados y renovaciones del permiso o licencia de circulación.
-
-> 1\. Por deterioro, extravío o sustracción podrán expedirse duplicados del permiso o licencia de circulación, en los que constarán los mismos datos de los originales. La expedición del duplicado determinará por sí sola la nulidad del original.
-
-> Cuando se solicite el duplicado por extravío o sustracción del permiso o licencia de circulación y se hubiera igualmente perdido o sustraído la correspondiente tarjeta de inspección técnica o certificado de características, el vehículo deberá someterse a inspección por el órgano competente en materia de Industria, para proceder a la expedición de un duplicado de la tarjeta de inspección técnica o certificado de características. Este documento servirá de base para la expedición del duplicado del permiso o licencia de circulación, salvo que exista constancia de que el vehículo está al corriente de las inspecciones periódicas, supuesto en que no será precisa su presentación.
-
-> El titular de un permiso o licencia de circulación al que se le hubiera expedido duplicado por extravío o sustracción deberá devolver el original del mismo, cuando lo encuentre, para su archivo en la Jefatura de Tráfico que lo hubiere expedido.
-
-> 2\. Cualquier variación en el nombre, apellidos o domicilio del titular del permiso o licencia de circulación que no implique modificación de la titularidad registral del vehículo deberá ser comunicada dentro del plazo de quince días desde la fecha en que se produzca, para su renovación, a la Jefatura de Tráfico expedidora del mismo o a la de la provincia del nuevo domicilio de aquél, la cual notificará el cambio de domicilio a los correspondientes Ayuntamientos.
-
-> Asimismo, deberá renovarse el permiso o licencia de circulación en los casos de cambio de destino, así como cuando se modifiquen una o varias de las características del vehículo que constan en dicho documento.
-
-> 3\. Las solicitudes de duplicados y renovaciones del permiso o licencia de circulación deberán ir acompañadas de la documentación que se indica en el anexo XIII."
 
 > Se modifica, con efectos de 20 de mayo de 2018, por la disposición final 4 del Real Decreto 920/2017, de 23 de octubre. [Ref. BOE-A-2017-12841](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12841)
 
@@ -1639,28 +1597,6 @@ El número de placas de matrícula que debe llevar cada vehículo, así como su 
 3\. El nombre del fabricante o marca registrada aparecerá en el anverso de las placas de serie junto al centro del borde superior y dentro de un rectángulo horizontal de 5 milímetros de altura y 35 milímetros de ancho, en el mismo color que los caracteres impresos en la matrícula o en el bordón de la misma en el caso de placas embutidas.
 
 4\. Queda prohibido que en las placas de matrícula se coloquen, inscriban o pinten adornos, signos u otros caracteres distintos de los señalados en el anexo XVIII, incluida la publicidad en el interior de las mismas. Se autoriza la utilización de un apéndice distinto de la propia placa y situado en la parte inferior a la misma o de un marco ajeno a la propia placa, el cual podrá ir grabado en la parte inferior con publicidad, siempre y cuando su contorno no exceda de 26 milímetros al borde del exterior de la placa. Asimismo, se prohíbe que en las partes anterior y posterior de los vehículos se coloquen placas complementarias no autorizadas o se fijen o pinten marcas o distintivos que por su forma, color y caracteres dificulten la legibilidad o puedan inducir a confusión con los caracteres reglamentarios de las placas de matrícula.
-
-> Téngase en cuenta que esta modificación del artículo, efectuada por la disposición final 1.1 del Real Decreto 885/2020, de 6 de octubre, [Ref. BOE-A-2020-12767](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12767), entra en vigor el 2 de enero de 2021, según se establece en su disposición final 5.
-
-> Redacción anterior:
-
-> "Artículo 49. Homologación, caracteres, dimensiones y otros requisitos.
-
-> 1\. Las placas de matrícula deben corresponder a tipos homologados, conservar su poder retrorreflectante y ser visibles y legibles, de acuerdo con la reglamentación que se recoge en el anexo I.
-
-> En las placas de matrícula deben figurar los caracteres que se indican en el anexo XVIII.
-
-> Las dimensiones de las placas de matrícula, así como las de los caracteres a inscribir en ellas, y las separaciones entre caracteres y entre éstos y los bordes de las placas, y sus colores, serán los que se determinan en dicho anexo.
-
-> El número de placas de matrícula que debe llevar cada vehículo, así como su ubicación en el mismo, se ajustarán a lo dispuesto en el citado anexo.
-
-> 2\. El número de manipulador, asignado y registrado por la Jefatura de Tráfico que corresponda a la provincia de su domicilio, se troquelará en todas las placas en el centro del borde izquierdo de la placa sin cubrir ni pintar (bordón), en posición vertical, de acuerdo con lo especificado en el referido anexo.
-
-> 3\. Queda prohibido que en las placas de matrícula se coloquen, inscriban o pinten adornos, signos u otros caracteres distintos de los señalados en el anexo XVIII, incluida la publicidad en el interior de las mismas.
-
-> Se autoriza la utilización de un marco ajeno a la propia placa, el cual podrá ir grabado en la parte inferior con publicidad, siempre y cuando su contorno no exceda de 26 milímetros al borde del exterior de la placa.
-
-> Asimismo, se prohíbe que en las partes anterior y posterior de los vehículos se coloquen placas complementarias no autorizadas o se fijen o pinten marcas o distintivos que por su forma, color y caracteres dificulten la legibilidad o puedan inducir a confusión con los caracteres reglamentarios de las placas de matrícula."
 
 > Se modifica, con efectos de 2 de enero de 2021, por la disposición final 1.1 del Real Decreto 885/2020, de 6 de octubre. [Ref. BOE-A-2020-12767](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12767)
 
@@ -2177,12 +2113,6 @@ Caracteres segundo y tercero, constituidos por dos cifras:
 
 05\. Vehículo de auxilio en vías públicas: vehículo destinado primordialmente al rescate y transporte de vehículos accidentados o averiados. Sólo tendrán esta consideración aquellos vehículos cuya capacidad permita que simultáneamente se puedan transportar hasta un máximo de dos vehículos en plataforma, y otro mediante un dispositivo de arrastre, y cuenten con el correspondiente utillaje. Quedan fuera de esta definición los vehículos dedicados a labores de conservación y mantenimiento de la vía, así como los vehículos pertenecientes a Fuerzas y Cuerpos de Seguridad del Estado, de emergencia y de las Fuerzas Armadas.
 
-> Téngase en cuenta que esta última actualización del punto 05, establecida por la disposición final 2.2 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194), entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "05. Auxilio en carretera: vehículo destinado primordialmente al rescate y transporte de vehículos accidentados o averiados. Sólo tendrán esta consideración aquellos vehículos cuya capacidad permita que simultáneamente se puedan transportar hasta un máximo de dos vehículos en plataforma, y otro mediante un dispositivo de arrastre, y cuenten con el correspondiente utillaje."
-
 06\. Agrícola: vehículo destinado a realizar labores agrícolas.
 
 07\. Ambulancia: vehículo destinado a realizar transporte de personas enfermas o accidentadas.
@@ -2293,185 +2223,185 @@ Clase L: retrovisores exteriores principales con el campo de visión que se espe
 
 Para los vehículos de las categorías M y N, los campos de visión especificados en la reglamentación vigente se proveerán con el número mínimo de retrovisores obligatorios y con el número máximo de retrovisores opcionales que se indica en la tabla siguiente:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Categoría del vehículo</p>
+<p>Categoría del vehículo</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retrovisores interiores</p>
+<p>Retrovisores interiores</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Retrovisores exteriores</p>
+<p>Retrovisores exteriores</p>
 </th>
 </tr>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Retrovisores principales</p>
+<p>Retrovisores principales</p>
 </th>
 <th>
-<p class="cabeza_tabla">Retrovisor gran angular</p>
+<p>Retrovisor gran angular</p>
 </th>
 <th>
-<p class="cabeza_tabla">Retrovisor de proximidad</p>
+<p>Retrovisor de proximidad</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Clase I</p>
+<p>Clase I</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase II</p>
+<p>Clase II</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase III</p>
+<p>Clase III</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase IV</p>
+<p>Clase IV</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase V</p>
+<p>Clase V</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">M1</p>
+<p>M1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig. (1)</p>
+<p>1 oblig. (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional</p>
+<p>1 opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 izq. oblig. (1 dcha.opcional)</p>
+<p>1 izq. oblig. (1 dcha.opcional)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">M2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2 oblig. (1 a la izq. y 1 a la dcha.)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 opcional (2)</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">M3</p>
+<p>M2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 oblig. (1 a la izq. y 1 a la dcha.)</p>
+<p>2 oblig. (1 a la izq. y 1 a la dcha.)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional</p>
+<p>1 opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional (2)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">N1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig. (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 izq. oblig. (1 dcha.opcional)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>1 opcional (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">N2 ≤7,5 ton.</p>
+<p>M3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 oblig. (1 a la izq. y 1 a la dcha.)</p>
+<p>2 oblig. (1 a la izq. y 1 a la dcha.)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional (3)</p>
+<p>1 opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional (2)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">N2 &gt;7,5 ton.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2 oblig. (1 a la izq. y 1 a la dcha.)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig. (2)</p>
+<p>1 opcional (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">N3</p>
+<p>N1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 opcional</p>
+<p>1 oblig. (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2 oblig. (1 a la izq. y 1 a la dcha.)</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>1 izq. oblig. (1 dcha.opcional)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig. (2)</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N2 ≤7,5 ton.</p>
+</td>
+<td>
+<p>1 opcional</p>
+</td>
+<td>
+<p>2 oblig. (1 a la izq. y 1 a la dcha.)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1 opcional (3)</p>
+</td>
+<td>
+<p>1 opcional (2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N2 &gt;7,5 ton.</p>
+</td>
+<td>
+<p>1 opcional</p>
+</td>
+<td>
+<p>2 oblig. (1 a la izq. y 1 a la dcha.)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 oblig. (2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N3</p>
+</td>
+<td>
+<p>1 opcional</p>
+</td>
+<td>
+<p>2 oblig. (1 a la izq. y 1 a la dcha.)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 oblig. (2)</p>
 </td>
 </tr>
 </tbody>
@@ -2487,192 +2417,192 @@ Para los vehículos de las categorías M y N, los campos de visión especificado
 
 Para los vehículos mencionados, los campos de visión especificados en la reglamentación vigente se proveerán con el número mínimo de retrovisores obligatorios y con el número máximo de retrovisores opcionales que se indica en la tabla siguiente:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Categoría del vehículo</p>
+<p>Categoría del vehículo</p>
 </th>
 <th rowspan="3">
-<p class="cabeza_tabla">Observaciones</p>
+<p>Observaciones</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retrovisores interiores</p>
+<p>Retrovisores interiores</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Retrovisores exteriores</p>
+<p>Retrovisores exteriores</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Izquierdo</p>
+<p>Izquierdo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Derecho</p>
+<p>Derecho</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Clase I</p>
+<p>Clase I</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase L</p>
+<p>Clase L</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase L</p>
+<p>Clase L</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Ciclomotores de dos ruedas</p>
+<p>Ciclomotores de dos ruedas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Ciclomotores de tres ruedasy cuatriciclosligeros</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Si están equipados de carrocería que cubra total o parcialmente al conductor</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig. (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Ciclomotores de tres ruedas y cuatriciclosligeros</p>
+<p>Ciclomotores de tres ruedasy cuatriciclosligeros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Si NO están equipados de carrocería que cubra total o parcialmente al conductor</p>
+<p>Si están equipados de carrocería que cubra total o parcialmente al conductor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1 oblig. (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Motocicletas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Si la velocidad máxima es menor o igual de 100 Km/h</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Motocicletas</p>
+<p>Ciclomotores de tres ruedas y cuatriciclosligeros</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Si la velocidad máxima es mayor de 100 Km/h</p>
+<p>Si NO están equipados de carrocería que cubra total o parcialmente al conductor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Motocicletas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Si la velocidad máxima es menor o igual de 100 Km/h</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Motocicletas</p>
+<p>Motocicletas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Si la velocidad máxima es mayor de 100 Km/h</p>
+<p>Si la velocidad máxima es menor o igual de 100 Km/h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">Vehículos de tres ruedasy cuatriciclos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">Si están equipados de carrocería que cubra total o parcialmente al conductor</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig. (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Vehículos de tres ruedasy cuatriciclos</p>
+<p>Motocicletas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Si NO están equipados de carrocería que cubra total o parcialmente al conductor</p>
+<p>Si la velocidad máxima es mayor de 100 Km/h</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Motocicletas</p>
+</td>
+<td>
+<p>Si la velocidad máxima es menor o igual de 100 Km/h</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 optativo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Motocicletas</p>
+</td>
+<td>
+<p>Si la velocidad máxima es mayor de 100 Km/h</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vehículos de tres ruedasy cuatriciclos</p>
+</td>
+<td>
+<p>Si están equipados de carrocería que cubra total o parcialmente al conductor</p>
+</td>
+<td>
+<p>1 oblig. (1)</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 optativo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vehículos de tres ruedasy cuatriciclos</p>
+</td>
+<td>
+<p>Si NO están equipados de carrocería que cubra total o parcialmente al conductor</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 oblig.</p>
 </td>
 </tr>
 </tbody>
@@ -2684,148 +2614,148 @@ Para los vehículos mencionados, los campos de visión especificados en la regla
 
 Para los vehículos especiales, incluidos los agrícolas, los campos de visión especificados en la reglamentación vigente se proveerán con el número mínimo de retrovisores obligatorios y con el número máximo de retrovisores opcionales que se indica en la tabla siguiente:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="3">
-<p class="cabeza_tabla">Categoría del vehículo</p>
+<p>Categoría del vehículo</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Retrovisores interiores</p>
+<p>Retrovisores interiores</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Retrovisores exteriores</p>
+<p>Retrovisores exteriores</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Izquierdo</p>
+<p>Izquierdo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Derecho</p>
+<p>Derecho</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Clase I</p>
+<p>Clase I</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase II</p>
+<p>Clase II</p>
 </th>
 <th>
-<p class="cabeza_tabla">Clase II</p>
+<p>Clase II</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Tractor agrícola</p>
+<p>Tractor agrícola</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
+<p>1 optativo (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Motocultor</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig. (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Tractocarro</p>
+<p>Motocultor</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig. (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Maquinaria agrícola automotriz</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Portador</p>
+<p>Tractocarro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
+<p>1 optativo (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Tractor de obras o de servicios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Máquina automotriz de obras o de servicios</p>
+<p>Maquinaria agrícola automotriz</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
+<p>1 optativo (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Portador de obras o de servicios</p>
+<p>Portador</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo (2)</p>
+<p>1 optativo (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 oblig.</p>
+<p>1 oblig.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1 optativo</p>
+<p>1 optativo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tractor de obras o de servicios</p>
+</td>
+<td>
+<p>1 optativo (2)</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 optativo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Máquina automotriz de obras o de servicios</p>
+</td>
+<td>
+<p>1 optativo (2)</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 optativo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portador de obras o de servicios</p>
+</td>
+<td>
+<p>1 optativo (2)</p>
+</td>
+<td>
+<p>1 oblig.</p>
+</td>
+<td>
+<p>1 optativo</p>
 </td>
 </tr>
 </tbody>
@@ -2929,76 +2859,76 @@ El asiento asumirá parcialmente la función de retención cuando el dispositivo
 
 Requisitos mínimos a cumplir:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <td> </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">VEHÍCULO MIXTO ADAPTABLE (31)</p>
-<p class="cuerpo_tabla_izq">DERIVADO DE TURISMO (30)</p>
+<p>VEHÍCULO MIXTO ADAPTABLE (31)</p>
+<p>DERIVADO DE TURISMO (30)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">FURGÓN (24)</p>
-<p class="cuerpo_tabla_izq">FURGONETA (24)</p>
+<p>FURGÓN (24)</p>
+<p>FURGONETA (24)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Ensayos</p>
+<p>Ensayos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Amarres</p>
+<p>Amarres</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Con puntos de amarre</p>
+<p>Con puntos de amarre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Sin puntos de amarre</p>
+<p>Sin puntos de amarre</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Puntos de amarre opcionales</p>
+<p>Puntos de amarre opcionales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.1</p>
+<p>4.1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Preinstalación o anclajes para disp. de retención</p>
+<p>Preinstalación o anclajes para disp. de retención</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Opción FAB</p>
+<p>Opción FAB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Oblig. FAB</p>
+<p>Oblig. FAB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Oblig. FAB</p>
+<p>Oblig. FAB</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4.2</p>
+<p>4.2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">Dispositivos de Retención (Pared div.) parcial total</p>
+<p>Dispositivos de Retención (Pared div.) parcial total</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Opción FAB y Opción Usuario</p>
+<p>Opción FAB y Opción Usuario</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Opción FAB y Oblig.Usuario</p>
+<p>Opción FAB y Oblig.Usuario</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Opción FAB y Obligatorio Usuario</p>
+<p>Opción FAB y Obligatorio Usuario</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">parc. 4.3</p>
+<p>parc. 4.3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">tot. 4.4</p>
+<p>tot. 4.4</p>
 </td>
 </tr>
 </tbody>
@@ -3415,94 +3345,6 @@ Para las operaciones de transporte intermodal, la terminal de transporte adecuad
 
 1.28 Madera en rollo: es la carga constituida por los troncos de los árboles apeados, sin copa y desramados, así como las ramas obtenidas por corte, sin que pueda ser considerado como tales unidades más pequeñas como la corteza del árbol, astillas, serrín o similares a estos.
 
-> Téngase en cuenta que en esta última actualización, establecida por el art. único.2 de la Orden PJC/780/2025, de 21 de julio, [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231), lo relativo a las masas máximas por eje y masas máximas autorizadas, entra en vigor el 23 de octubre de 2025, excepto si se trata de vehículos cisterna (de acuerdo con su clasificación por criterios de utilización), que entra en vigor el 23 de enero de 2026, según determinada su disposición final 2.
-
-> Redacción anterior:
-
-> "**1. Definiciones**
-
-> A efectos de este Reglamento se entiende por:
-
-> 1.1 Tara: masa del vehículo, con su equipo fijo autorizado, sin personal de Servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios necesarios.
-
-> 1.2 Masa en orden de marcha: se considera como masa en orden de marcha el resultado de sumar a la tara la masa estándar del conductor de 75 kg y para los autobuses y autocares, la masa del acompañante de 75 kg si lo lleva.
-
-> 1.3 Masa en carga: la masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.
-
-> 1.4 Masa por eje: la que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.
-
-> 1.5 Dimensiones máximas autorizadas: las dimensiones máximas para la utilización de un vehículo establecidas en este anexo. Todas las dimensiones máximas autorizadas que se especifican en este anexo se medirán con arreglo al anexo I de la Directiva 70/156/CEE, sin tolerancia positiva.
-
-> 1.6 Masa máxima autorizada (MMA): la masa máxima para la utilización de un vehículo con carga en circulación por las vías públicas.
-
-> 1.7 Masa máxima técnicamente admisible: la masa máxima del vehículo basada en su construcción y especificada por el fabricante.
-
-> 1.8 Masa máxima autorizada por eje: la masa máxima de un eje o grupo de ejes con carga para utilización en circulación por las vías públicas.
-
-> 1.9 Masa máxima por eje técnicamente admisible: la masa máxima por eje basada en su construcción y especificada por el fabricante.
-
-> 1.10 Masa remolcable máxima autorizada: masa autorizada máxima de un remolque o semirremolque destinado a ser enganchado al vehículo de motor y hasta la cual puede matricularse o ponerse en servicio el vehículo. En el caso de un remolque de eje central o semirremolque, la masa remolcable máxima autorizada será la masa real máxima del remolque menos su carga real vertical sobre el punto de acoplamiento, es decir, la masa correspondiente a la carga soportada por los ejes del remolque.
-
-> 1.11 Masa remolcable máxima técnicamente admisible: la masa remolcable máxima basada en su construcción y especificada por el fabricante.
-
-> 1.12 Masa máxima técnicamente admisible del conjunto: suma de las masas del vehículo de motor cargado y del remolque arrastrado cargado, basadas en la construcción del vehículo de motor y especificadas por el fabricante.
-
-> 1.13 Masa máxima autorizada del conjunto: suma de las masas del vehículo de motor cargado y del remolque arrastrado cargado para su utilización por las vías públicas.
-
-> 1.14 Carga vertical máxima técnicamente admisible sobre el acoplamiento: carga máxima sobre el acoplamiento establecida en la concepción del vehículo motor y/o del acoplamiento y especificada por el fabricante.
-
-> 1.15 Carga indivisible: la carga que, para su transporte por carretera, no puede dividirse en dos o más cargas sin coste o riesgo innecesario de daños y que, debido a sus dimensiones o masa, no puede ser transportada por un vehículo de motor, remolque, tren de carretera o vehículo articulado que se ajuste en todos los sentidos a las disposiciones del presente Reglamento.
-
-> Se considera también carga indivisible la constituida por varios elementos de la misma naturaleza y destinados al mismo fin, con dimensiones idénticas o diferentes, de los que una o dos de las dimensiones del mayor elemento del conjunto exceden las dimensiones máximas establecidas en la respectiva reglamentación.
-
-> 1.16 Suspensión neumática: una suspensión se considera neumática si al menos el 75% del efecto elástico se debe a un dispositivo neumático.
-
-> 1.17 Suspensión equivalente o suspensión neumática reconocida: sistema de suspensión para eje(s) motor no dirigido(s) que cumple los requisitos establecidos en la reglamentación vigente recogida en el anexo I.
-
-> 1.18 Dispositivo de elevación del eje: dispositivo permanente montado en un vehículo con objeto de reducir o incrementar la carga sobre el(los) eje(s) según las condiciones de carga del vehículo:
-
-> 1\. bien levantando completamente las ruedas del suelol/bajándolas del suelo,
-
-> 2\. o bien sin levantar las ruedas del suelo (por ejemplo, en el caso de sistemas de suspensión neumática u otros sistemas),
-
-> con objeto de reducir el desgaste de los neumáticos cuando el vehículo no esté completamente cargado, o para facilitar el arranque (inicio de la marcha) sobre terreno resbaladizo a los vehículos de motor o conjuntos de vehículos, incrementando la carga sobre el eje motor.
-
-> 1.19 Eje retráctil: eje que pueda elevarse o bajarse mediante el dispositivo de elevación del eje, tal como se menciona en el número 1 del apartado 1.18.
-
-> 1.20 Eje descargable: eje sobre el cual puede variarse la carga sin que el eje esté levantado, mediante el dispositivo de elevación del eje, tal como se menciona en el número 2 del apartado 1.18.
-
-> 1.21 Grupo de ejes: los ejes que forman parte de un bogie. En el caso de dos ejes, el grupo se denominará tándem, y tándem triaxial en caso de tres ejes. Convencionalmente, se considerará que un solo eje es un grupo de un eje.
-
-> 1.22 Tonelada: masa correspondiente a 1.000 kg.
-
-> 1.23 Configuración euro-modular: Conjunto de vehículos con más de 6 líneas de ejes, cuyos módulos separadamente no superan los límites máximos de masas y dimensiones establecidos en este anexo para el tipo de vehículo que corresponda.
-
-> 1.24 Combustibles alternativos: los combustibles o fuentes de energía que sirven, al menos en parte, de sustituto a las fuentes de energía fósil para los transportes y que pueden contribuir a la descarbonización de estos últimos y a mejorar el comportamiento medioambiental del sector del transporte. Consisten en:
-
-> a) La electricidad consumida en todos los tipos de vehículos eléctricos,
-
-> b) el hidrógeno,
-
-> c) los biocarburantes, tal y como se definen en el artículo 2, punto 2, del Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo,
-
-> d) los combustibles sintéticos y parafínicos,
-
-> e) el gas natural, incluido el biometano, en forma gaseosa (gas natural comprimido-GNC) y en forma licuada (gas natural licuado-GNL),
-
-> f) el gas licuado del petróleo (GLP),
-
-> g) la energía mecánica procedente de almacenamiento a bordo/de fuentes a bordo, incluido el calor residual.
-
-> 1.25 Vehículo de combustible alternativo: un vehículo de motor alimentado total o parcialmente por un combustible alternativo y que ha sido debidamente homologado.
-
-> 1.26 Operación de transporte intermodal: Tendrán esta consideración:
-
-> a) las operaciones de transporte combinado definidas en el artículo 1 de la Orden de 30 de septiembre de 1993, por la que se establecen normas especiales para determinados transportes combinados de mercancías entre Estados miembros de la CEE, destinadas al transporte de uno o varios contenedores o cajas móviles, con una longitud máxima total de hasta 45 pies, o
-
-> b) Las operaciones de transporte destinadas al transporte de uno o varios contenedores o cajas móviles, con una longitud máxima total de hasta 45 pies, que recurran al transporte por la vía navegable o un recorrido marítimo, siempre que el tramo por carretera inicial o final no exceda de 150 km en el territorio de la Unión. Se podrá superar la distancia indicada de 150 km con objeto de alcanzar la terminal de transporte adecuada más cercana para el servicio previsto, en el caso de vehículos articulados de 5 o 6 ejes, formados por un vehículo motor de 2 ejes y con semirremolque de 3 ejes, o por un vehículo motor de 3 ejes y semirremolque de 2 o 3 ejes.
-
-> Para las operaciones de transporte intermodal, la terminal de transporte adecuada más cercana que preste un servicio podrá estar situada en un Estado miembro distinto del Estado miembro en el que el cargamento haya sido cargado o descargado."
-
 > Se modifica por el art. único.2 de la Orden PJC/780/2025, de 21 de julio. [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231)
 
 > Téngase en cuenta que la modificación relativa a las masas máximas por eje y masas máximas autorizadas entra en vigor el 23 de octubre de 2025, excepto si se trata de vehículos cisterna (de acuerdo con su clasificación por criterios de utilización), que entra en vigor el 23 de enero de 2026, según establece la disposición final 2 de la citada Orden.
@@ -3533,99 +3375,95 @@ Para las operaciones de transporte intermodal, la terminal de transporte adecuad
 
 Tabla 1. Masas por eje máximas permitidas
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="87%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Toneladas</th>
+<th> </th>
+<th>Toneladas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Eje simple:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Eje simple:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje motor.</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>Eje motor.</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje motor de los vehículos de la clase I (autobuses urbanos), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
-<td class="cuerpo_tabla_centro">13</td>
+<td>Eje motor de los vehículos de la clase I (autobuses urbanos), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
+<td>13</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje motor de los vehículos de las clases II y III (autobuses interurbanos), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
-<td class="cuerpo_tabla_centro">12,6</td>
+<td>Eje motor de los vehículos de las clases II y III (autobuses interurbanos), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
+<td>12,6</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje no motor.</td>
-<td class="cuerpo_tabla_centro">10</td>
+<td>Eje no motor.</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje tándem:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Eje tándem:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje tándem de los vehículos de motor:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Eje tándem de los vehículos de motor:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si la separación “d” de dos ejes es inferior a 1,00 metros (d &lt; 1,00 m).</td>
-<td class="cuerpo_tabla_centro">12</td>
+<td>Si la separación “d” de dos ejes es inferior a 1,00 metros (d &lt; 1,00 m).</td>
+<td>12</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 m ≤ d &lt; 1,30 m).</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 m ≤ d &lt; 1,30 m).</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m d &lt; 1,80 m).</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m d &lt; 1,80 m).</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En el caso anterior si el eje motor va equipado con neumáticos dobles y suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado con neumáticos dobles y la masa máxima de cada eje no excede de las 9,5 toneladas.</td>
-<td class="cuerpo_tabla_centro">19</td>
+<td>En el caso anterior si el eje motor va equipado con neumáticos dobles y suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado con neumáticos dobles y la masa máxima de cada eje no excede de las 9,5 toneladas.</td>
+<td>19</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Eje tándem de los remolques o semirremolques:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Eje tándem de los remolques o semirremolques:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si la separación “d” de los ejes es inferior a 1,00 metros (d &lt; 1,00 m).</td>
-<td class="cuerpo_tabla_centro">11</td>
+<td>Si la separación “d” de los ejes es inferior a 1,00 metros (d &lt; 1,00 m).</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 ≤ d &lt; 1,30 m).</td>
-<td class="cuerpo_tabla_centro">16</td>
+<td>Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 ≤ d &lt; 1,30 m).</td>
+<td>16</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m ≤ d &lt; 1,80 m) (1).</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m ≤ d &lt; 1,80 m) (1).</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si es igual o superior a 1,80 metros (1,80 m ≤ d).</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>Si es igual o superior a 1,80 metros (1,80 m ≤ d).</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Tándem triaxial de los remolques o semirremolques:</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>Tándem triaxial de los remolques o semirremolques:</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si la distancia es igual o inferior a 1,30 metros (d ≤ 1,30 m).</td>
-<td class="cuerpo_tabla_centro">21</td>
+<td>Si la distancia es igual o inferior a 1,30 metros (d ≤ 1,30 m).</td>
+<td>21</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Si la distancia es superior a 1,30 metros e inferior o igual a 1,40 metros (1,30 &lt; d ≤ 1,40 m).</td>
-<td class="cuerpo_tabla_centro">27</td>
+<td>Si la distancia es superior a 1,30 metros e inferior o igual a 1,40 metros (1,30 &lt; d ≤ 1,40 m).</td>
+<td>27</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) Salvo para semirremolques equipados con caja basculante reforzada para la utilización específica en construcción, obras o minería que será de 20 toneladas.</p>
+<p>(1) Salvo para semirremolques equipados con caja basculante reforzada para la utilización específica en construcción, obras o minería que será de 20 toneladas.</p>
 </td>
 </tr>
 </tfoot>
@@ -3633,403 +3471,130 @@ Tabla 1. Masas por eje máximas permitidas
 
 Tabla 2. Masas máximas autorizadas
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="87%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla">Toneladas</th>
+<th> </th>
+<th>Toneladas</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículos de motor:</td>
+<td colspan="2">Vehículos de motor:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes, excepto autobuses (1).</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Vehículo de motor de 2 ejes, excepto autobuses (1).</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses de dos ejes de la clase I (urbano), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
-<td class="cuerpo_tabla_centro">20</td>
+<td>Autobuses de dos ejes de la clase I (urbano), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
+<td>20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses de 2 ejes de las clases II y III (interurbano y largo recorrido), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
-<td class="cuerpo_tabla_centro">19,50</td>
+<td>Autobuses de 2 ejes de las clases II y III (interurbano y largo recorrido), según la clasificación del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta a sus características generales de construcción.</td>
+<td>19,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de tres ejes (1) y (3).</td>
-<td class="cuerpo_tabla_centro">25</td>
+<td>Vehículo de motor de tres ejes (1) y (3).</td>
+<td>25</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 3 ejes, cuando el eje motor vaya equipado con neumáticos dobles suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5 toneladas (1).</td>
-<td class="cuerpo_tabla_centro">26</td>
+<td>Vehículo de motor de 3 ejes, cuando el eje motor vaya equipado con neumáticos dobles suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5 toneladas (1).</td>
+<td>26</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses articulados de 3 ejes (1).</td>
-<td class="cuerpo_tabla_centro">28</td>
+<td>Autobuses articulados de 3 ejes (1).</td>
+<td>28</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo rígido de 4 ejes con dos direccionales, cuando el eje motor vaya equipado con neumáticos dobles y suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5 toneladas (1).</td>
-<td class="cuerpo_tabla_centro">32</td>
+<td>Vehículo rígido de 4 ejes con dos direccionales, cuando el eje motor vaya equipado con neumáticos dobles y suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5 toneladas (1).</td>
+<td>32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros vehículos rígidos de 4 ejes (4).</td>
-<td class="cuerpo_tabla_centro">31</td>
+<td>Otros vehículos rígidos de 4 ejes (4).</td>
+<td>31</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Remolques:</td>
+<td colspan="2">Remolques:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remolques de 2 ejes.</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>Remolques de 2 ejes.</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remolques de 3 ejes.</td>
-<td class="cuerpo_tabla_centro">24</td>
+<td>Remolques de 3 ejes.</td>
+<td>24</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículos articulados de 4 ejes (*):</td>
+<td colspan="2">Vehículos articulados de 4 ejes (*):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o superior a 1,30 metros y sea inferior a 1,80 metros (1) y (2).</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o superior a 1,30 metros y sea inferior a 1,80 metros (1) y (2).</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o superior a 1,80 metros (1).</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o superior a 1,80 metros (1).</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes, equipado en el eje motor con ruedas gemelas, suspensión neumática o reconocida como equivalente y por un semirremolque en el cual la distancia entre ejes sea superior a 1,80 metros, y se respeten la masa máxima autorizada del vehículo motor (18 toneladas) y la masa máxima autorizada de 1 eje tándem de semirremolque (20 toneladas) (1).</td>
-<td class="cuerpo_tabla_centro">38</td>
+<td>Vehículo de motor de 2 ejes, equipado en el eje motor con ruedas gemelas, suspensión neumática o reconocida como equivalente y por un semirremolque en el cual la distancia entre ejes sea superior a 1,80 metros, y se respeten la masa máxima autorizada del vehículo motor (18 toneladas) y la masa máxima autorizada de 1 eje tándem de semirremolque (20 toneladas) (1).</td>
+<td>38</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Otros vehículos articulados de 4 ejes compuestos por un tractor de 2 ejes y un semirremolque de otros 2 ejes (1).</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>Otros vehículos articulados de 4 ejes compuestos por un tractor de 2 ejes y un semirremolque de otros 2 ejes (1).</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Vehículos articulados de 5 o más ejes (*):</td>
+<td colspan="2">Vehículos articulados de 5 o más ejes (*):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor con 2 o más ejes y con semirremolque de 3 o más ejes (1) y (5).</td>
-<td class="cuerpo_tabla_centro">44</td>
+<td>Vehículo de motor con 2 o más ejes y con semirremolque de 3 o más ejes (1) y (5).</td>
+<td>44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor con 3 ejes y con semirremolque de 2 ejes (1) y (5).</td>
-<td class="cuerpo_tabla_centro">44</td>
+<td>Vehículo de motor con 3 ejes y con semirremolque de 2 ejes (1) y (5).</td>
+<td>44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Trenes de carretera de 4 ejes (*):</td>
+<td colspan="2">Trenes de carretera de 4 ejes (*):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes y remolque de 2 ejes (1) y (4).</td>
-<td class="cuerpo_tabla_centro">36</td>
+<td>Vehículo de motor de 2 ejes y remolque de 2 ejes (1) y (4).</td>
+<td>36</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Trenes de carretera de 5 o más ejes (*):</td>
+<td colspan="2">Trenes de carretera de 5 o más ejes (*):</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes con remolque de 3 ejes (1) y (5).</td>
-<td class="cuerpo_tabla_centro">42</td>
+<td>Vehículo de motor de 2 ejes con remolque de 3 ejes (1) y (5).</td>
+<td>42</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo de motor de 3 ejes con remolque de 2 o 3 ejes (1) y (5).</td>
-<td class="cuerpo_tabla_centro">44</td>
+<td>Vehículo de motor de 3 ejes con remolque de 2 o 3 ejes (1) y (5).</td>
+<td>44</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Configuración euro-modular:</td>
+<td colspan="2">Configuración euro-modular:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conjuntos euro-modulares.</td>
-<td class="cuerpo_tabla_centro">72</td>
+<td>Conjuntos euro-modulares.</td>
+<td>72</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) Los vehículos o combinaciones de vehículos propulsados por combustible alternativo o vehículos pesados de emisión cero, podrán incrementar su masa máxima autorizada en el peso adicional requerido por la tecnología de combustible alternativo o emisión cero hasta un máximo de 1 o 2 toneladas respectivamente.</p>
-<p class="cita">En el caso de vehículos destinados a servicios en entornos urbanos, sobre los incrementos ya considerados en el párrafo anterior para cada tipo de tecnología, se podrá superar hasta un máximo de 1 tonelada adicional, siempre que no se supere la masa máxima técnicamente admisible del vehículo y la masa por eje máximas permitidas.</p>
-<p class="cita">(2) Salvo cuando el semirremolque esté equipado con caja basculante reforzada para la utilización específica en construcción, obras o minería que será de 38 toneladas, siempre que la carga impuesta sobre el dispositivo de acoplamiento sea compatible con las masas máximas por eje establecidos en la tabla 1.</p>
-<p class="cita">(3) Cuando transporten madera en rollo en recorridos predeterminados entre provincias limítrofes o en distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima, la masa máxima autorizada será de 32 toneladas.</p>
-<p class="cita">(4) Cuando transporten madera en rollo, en recorridos predeterminados entre provincias limítrofes o en distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima la masa máxima autorizada será de 42 toneladas.</p>
-<p class="cita">(5) Cuando transporten madera en rollo, en recorridos predeterminados entre provincias limítrofes o en distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima la masa máxima autorizada será de 52 toneladas para los conjuntos de vehículos con cinco ejes y 57 toneladas para los conjuntos de vehículos de 6 o más ejes.</p>
-<p class="cita">(*) Los conjuntos de vehículos podrán incrementar su masa máxima autorizada de conjunto hasta un máximo de 2 toneladas para operaciones de transporte intermodal.</p>
+<p>(1) Los vehículos o combinaciones de vehículos propulsados por combustible alternativo o vehículos pesados de emisión cero, podrán incrementar su masa máxima autorizada en el peso adicional requerido por la tecnología de combustible alternativo o emisión cero hasta un máximo de 1 o 2 toneladas respectivamente.</p>
+<p>En el caso de vehículos destinados a servicios en entornos urbanos, sobre los incrementos ya considerados en el párrafo anterior para cada tipo de tecnología, se podrá superar hasta un máximo de 1 tonelada adicional, siempre que no se supere la masa máxima técnicamente admisible del vehículo y la masa por eje máximas permitidas.</p>
+<p>(2) Salvo cuando el semirremolque esté equipado con caja basculante reforzada para la utilización específica en construcción, obras o minería que será de 38 toneladas, siempre que la carga impuesta sobre el dispositivo de acoplamiento sea compatible con las masas máximas por eje establecidos en la tabla 1.</p>
+<p>(3) Cuando transporten madera en rollo en recorridos predeterminados entre provincias limítrofes o en distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima, la masa máxima autorizada será de 32 toneladas.</p>
+<p>(4) Cuando transporten madera en rollo, en recorridos predeterminados entre provincias limítrofes o en distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima la masa máxima autorizada será de 42 toneladas.</p>
+<p>(5) Cuando transporten madera en rollo, en recorridos predeterminados entre provincias limítrofes o en distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima la masa máxima autorizada será de 52 toneladas para los conjuntos de vehículos con cinco ejes y 57 toneladas para los conjuntos de vehículos de 6 o más ejes.</p>
+<p>(*) Los conjuntos de vehículos podrán incrementar su masa máxima autorizada de conjunto hasta un máximo de 2 toneladas para operaciones de transporte intermodal.</p>
 </td>
 </tr>
 </tfoot>
 </table>
-
-> Téngase en cuenta que en esta última actualización, establecida por el art. único.2 de la Orden PJC/780/2025, de 21 de julio, [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231), lo relativo a las masas máximas por eje y masas máximas autorizadas, entra en vigor el 23 de octubre de 2025, excepto si se trata de vehículos cisterna (de acuerdo con su clasificación por criterios de utilización), que entra en vigor el 23 de enero de 2026, según determinada su disposición final 2.
-
-> Redacción anterior:
-
-> "**2. Masas máximas permitidas**
-
-> 2.1 No se permite la circulación:
-
-> 2.1.1 De vehículos con ruedas neumáticas o de elasticidad similar que ejerzan sobre el pavimento una presión superior a 9 kilogramos por centímetro cuadrado de superficie bruta de apoyo. Se asimilan a estos vehículos los denominados «orugas» cuyas superficies de contacto con el suelo sean planas y no presenten salientes y los contemplados en el párrafo segundo del apartado 5.1 del artículo 12 de este Reglamento.
-
-> 2.1.2 De vehículos de tracción animal provistos de ruedas no neumáticas o de elasticidad similar, con masa en carga que sobrepase los 150 kilogramos por centímetro de ancho de banda de rodadura.
-
-> 2.1.3 De aquellos en que los neumáticos soporten cargas superiores a las que determinen sus normas de seguridad (en función de sus índices de carga y velocidad máxima del vehículo).
-
-> 2.1.4 De vehículos con masas por eje que excedan los límites indicados en la tabla 1 del presente anexo.
-
-> 2.1.5 De vehículos con masa máxima autorizada superior a los límites indicados en la tabla 2 del presente anexo.
-
-> 2.1.6 De los trenes de carretera en los que la distancia entre el eje posterior del vehículo motor y el delantero del remolque sea inferior a 3,00 metros.
-
-> 2.1.7 De vehículos o conjuntos de vehículos en los que la masa soportada por el eje motor o los ejes motores sea inferior al 25% de la masa total en carga del vehículo o conjunto de vehículos.
-
-> 2.1.8 De vehículos de motor de 4 ejes cuya masa máxima autorizada en toneladas sea superior a 5 veces la distancia en metros comprendido entre los centros de los ejes extremos del vehículo.
-
-> Tabla 1. Masas por eje máximas permitidas
-
-> |  | Toneladas |
-> |---|---|
-> | Eje simple: |  |
-> | Eje motor | 11,5 |
-> | Eje motor de los vehículos de la clase I (autobuses urbanos), según la clasificación de la Directiva 2001/85/CE, de 20 de noviembre | 13 |
-> | Eje motor de los vehículos de las clases II y III (autobuses interurbanos), según la clasificación de la Directiva 2001/85/CE de 20 de noviembre | 12,6 |
-> | Eje no motor | 10 |
-> | Eje tándem: |  |
-> | Eje tándem de los vehículos de motor: |  |
-> | Si la separación «d» de dos ejes es inferior a 1,00 metros (d < 1,00 m) | 11,5 |
-> | Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 m ≤ d < 1,30 m) | 16 |
-> | Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m d < 1,80 m) | 18 |
-> | En el caso anterior si el eje motor va equipado con neumáticos dobles y suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado con neumáticos dobles y la masa máxima de cada eje no excede de las 9,5 toneladas | 19 |
-> | Eje tándem de los remolques o semirremolques: |  |
-> | Si la separación «d» de los ejes es inferior a 1,00 metros (d < 1,00 m) | 11 |
-> | Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 ≤ d < 1,30 m) | 16 |
-> | Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m ≤ d < 1,80 m) (1) | 18 |
-> | Si es igual o superior a 1,80 metros (1,80 m ≤ d) | 20 |
-> | Tándem triaxial de los remolques o semirremolques: |  |
-> | Si la distancia es igual o inferior a 1,30 metros (d ≤ 1,30 m) | 21 |
-> | Si la distancia es superior a 1,30 metros e inferior o igual a 1,40 metros (1,30 < d ≤ 1,40 m) | 24 |
-
-> (1) Salvo para semirremolques equipados con caja basculante reforzada para la utilización específica en construcción, obras o minería que será de 20 toneladas.
-
-> Tabla 2. Masas máximas autorizadas
-
-> <table class="tabla" summary="Tabla de datos">
-> <thead>
-> <tr>
-> <th class="cabeza_tabla"> </th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Toneladas</p>
-> </th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">Vehículos de motor</p>
-> </td>
-> <td> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes, excepto autobuses (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">18</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses de dos ejes de la clase I (urbano), según la clasificación de la Directiva 2001/85/CE, de 20 de noviembre.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">20</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses de 2 ejes de las clases II y III (interurbano y largo recorrido), según la clasificación de la Directiva 2001/85/CE, de 20 de noviembre.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">19,50</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de tres ejes (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">25</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 3 ejes, cuando el eje motor vaya equipado con neumáticos dobles suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5 toneladas (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">26</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses articulados de 3 ejes (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">28</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo rígido de 4 ejes con dos direccionales, cuando el eje motor vaya equipado con neumáticos dobles y suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5 toneladas.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">32</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Otros vehículos rígidos de 4 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">31</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Remolques</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Remolques de 2 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">18</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Remolques de 3 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">24</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Vehículos articulados de 4 ejes</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o superior a 1,30 metros y sea inferior a 1,80 metros (2).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">36</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o superior a 1,80 metros.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">36</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes, equipado en el eje motor con ruedas gemelas, suspensión neumática o reconocida como equivalente y por un semirremolque en el cual la distancia entre ejes sea superior a 1,80 metros, y se respeten la masa máxima autorizada del vehículo motor (18 toneladas) y la masa máxima autorizada de 1 eje tándem de semirremolque (20 toneladas).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">38</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Otros vehículos articulados de 4 ejes compuestos por un tractor de 2 ejes y un semirremolque de otros 2 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">36</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Vehículos articulados de 5 o más ejes</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor con 2 ejes y con semirremolque de 3 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">40</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor con 3 ejes y con semirremolque de 2 o 3 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">40</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor con 3 ejes, con semirremolque de 2 o 3 ejes, que lleva, en operaciones de transporte intermodal, uno o varios contenedores o cajas móviles, de hasta una longitud máxima total de 45 pies.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">44</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor con 2 ejes, con semirremolque de 3 ejes, que lleva, en operaciones de transporte intermodal, uno o varios contenedores o cajas móviles, de hasta una longitud máxima total de 45 pies.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">42</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_centro">Trenes de carretera de 4 ejes</p>
-> </td>
-> <td> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes y remolque de 2 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">36</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Trenes de carretera de 5 o más ejes</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 2 ejes con remolque de 3 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">40</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículo de motor de 3 ejes con remolque de 2 o 3 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">40</p>
-> </td>
-> </tr>
-> </tbody>
-> </table>
-
-> (1) Los vehículos de combustible alternativo podrán incrementar su masa máxima autorizada en el peso adicional requerido por la tecnología de combustible alternativo hasta un máximo de 1 tonelada. En el caso de vehículos destinados a servicios en entornos urbanos se podrá superar en más de 1 tonelada siempre que no se supere la masa máxima técnicamente admisible del vehículo y la masa por eje máximas permitidas.
-
-> (2) Salvo cuando el semirremolque esté equipado con caja basculante reforzada para la utilización específica en construcción, obras o minería que será de 38 toneladas, siempre que la carga impuesta sobre el dispositivo de acoplamiento sea compatible con las masas máximas por eje establecidos en la tabla 1."
 
 > Se modifica por el art. único.2 de la Orden PJC/780/2025, de 21 de julio. [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231)
 
@@ -4051,126 +3616,122 @@ Tabla 2. Masas máximas autorizadas
 
 Tabla 3. Dimensiones máximas autorizadas
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="87%">
-<col width="13%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Longitud</th>
-<th class="cabeza_tabla">Metros</th>
+<th>Longitud</th>
+<th>Metros</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículos de motor excepto autobuses (1).</td>
-<td class="cuerpo_tabla_centro">12,00</td>
+<td>Vehículos de motor excepto autobuses (1).</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remolques (1).</td>
-<td class="cuerpo_tabla_centro">12,00</td>
+<td>Remolques (1).</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículos articulados excepto autobuses (1) (5).</td>
-<td class="cuerpo_tabla_centro">16,50</td>
+<td>Vehículos articulados excepto autobuses (1) (5).</td>
+<td>16,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia máxima entre el eje de pivote de enganche y la parte trasera del semirremolque (1).</td>
-<td class="cuerpo_tabla_centro">12,00</td>
+<td>Distancia máxima entre el eje de pivote de enganche y la parte trasera del semirremolque (1).</td>
+<td>12,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia máxima entre el eje de pivote de enganche y un punto cualquiera de parte delantera del semirremolque, horizontalmente.</td>
-<td class="cuerpo_tabla_centro">2,04</td>
+<td>Distancia máxima entre el eje de pivote de enganche y un punto cualquiera de parte delantera del semirremolque, horizontalmente.</td>
+<td>2,04</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Trenes de carretera (1) y (2).</td>
-<td class="cuerpo_tabla_centro">18,75</td>
+<td>Trenes de carretera (1) y (2).</td>
+<td>18,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del remolque del conjunto de vehículos, menos la distancia entre la parte trasera del vehículo motor y la parte delantera del remolque.</td>
-<td class="cuerpo_tabla_centro">15,65</td>
+<td>La distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del remolque del conjunto de vehículos, menos la distancia entre la parte trasera del vehículo motor y la parte delantera del remolque.</td>
+<td>15,65</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del remolque del conjunto de vehículos.</td>
-<td class="cuerpo_tabla_centro">16,40</td>
+<td>Distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del remolque del conjunto de vehículos.</td>
+<td>16,40</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses articulados.</td>
-<td class="cuerpo_tabla_centro">18,75</td>
+<td>Autobuses articulados.</td>
+<td>18,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses rígidos de 2 ejes.</td>
-<td class="cuerpo_tabla_centro">13,50</td>
+<td>Autobuses rígidos de 2 ejes.</td>
+<td>13,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses rígidos de más de 2 ejes.</td>
-<td class="cuerpo_tabla_centro">15,00</td>
+<td>Autobuses rígidos de más de 2 ejes.</td>
+<td>15,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses con remolque, incluido este.</td>
-<td class="cuerpo_tabla_centro">18,75</td>
+<td>Autobuses con remolque, incluido este.</td>
+<td>18,75</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">En el caso de autobuses equipados con accesorios desmontables, como los porta esquís, la longitud del vehículo, accesorios incluidos, no sobrepasará las máximas previstas en este apartado.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>En el caso de autobuses equipados con accesorios desmontables, como los porta esquís, la longitud del vehículo, accesorios incluidos, no sobrepasará las máximas previstas en este apartado.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Conjuntos euro-modulares.</td>
-<td class="cuerpo_tabla_centro">32</td>
+<td>Conjuntos euro-modulares.</td>
+<td>32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Anchura:</td>
+<td colspan="2">Anchura:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">La anchura máxima autorizada, como regla general.</td>
-<td class="cuerpo_tabla_centro">2,55</td>
+<td>La anchura máxima autorizada, como regla general.</td>
+<td>2,55</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Superestructuras de vehículos acondicionados (3).</td>
-<td class="cuerpo_tabla_centro">2,60</td>
+<td>Superestructuras de vehículos acondicionados (3).</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Autobuses especialmente acondicionados para el traslado de presos (4).</td>
-<td class="cuerpo_tabla_centro">2,60</td>
+<td>Autobuses especialmente acondicionados para el traslado de presos (4).</td>
+<td>2,60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura:</td>
+<td colspan="2">Altura:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura máxima de los vehículos incluida la carga, como norma general.</td>
-<td class="cuerpo_tabla_centro">4,00</td>
+<td>Altura máxima de los vehículos incluida la carga, como norma general.</td>
+<td>4,00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura máxima de los autobuses de la clase I (urbano).</td>
-<td class="cuerpo_tabla_centro">4,20</td>
+<td>Altura máxima de los autobuses de la clase I (urbano).</td>
+<td>4,20</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">Altura máxima de los siguientes vehículos, incluida la carga:</td>
+<td colspan="2">Altura máxima de los siguientes vehículos, incluida la carga:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Portavehículos: Camiones o conjuntos de vehículos, cuando estén especializados en el transporte de vehículos.</td>
-<td class="cuerpo_tabla_centro" rowspan="3">4,50</td>
+<td>Portavehículos: Camiones o conjuntos de vehículos, cuando estén especializados en el transporte de vehículos.</td>
+<td rowspan="3">4,50</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículos grúa: los destinados a la retirada de vehículos accidentados o averiados.</td>
+<td>Vehículos grúa: los destinados a la retirada de vehículos accidentados o averiados.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Camiones o vehículos articulados que transportan contenedores cerrados homologados para el transporte combinado, intermodal o para el transporte aéreo del tipo ULD.</p>
-<p class="cuerpo_tabla_izq">Camiones o vehículos articulados de altura variable que transporten animales vivos, pacas de paja y forrajes.</p>
-<p class="cuerpo_tabla_izq">Suministros de proveedores a industrias en recorridos predeterminados inferiores a 50 kilómetros.</p>
+<td>
+<p>Camiones o vehículos articulados que transportan contenedores cerrados homologados para el transporte combinado, intermodal o para el transporte aéreo del tipo ULD.</p>
+<p>Camiones o vehículos articulados de altura variable que transporten animales vivos, pacas de paja y forrajes.</p>
+<p>Suministros de proveedores a industrias en recorridos predeterminados inferiores a 50 kilómetros.</p>
 </td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="2">
-<p class="cita">(1) Los vehículos o conjuntos de vehículos que transporten contenedores o cajas móviles de 45 pies de longitud, con o sin carga, en una operación de transporte intermodal podrán rebasar en 15 cm la longitud o distancia máxima que les corresponda.</p>
-<p class="cita">(2) La longitud de los trenes de carretera especializados en el transporte de vehículos, circulando con carga, puede aumentarse hasta un total de 20,55 metros utilizando un voladizo o soporte de carga trasero autorizado para ello. El voladizo o soporte de carga trasero no podrá sobresalir en relación a la carga. La carga podrá sobresalir por detrás, sin exceder el total autorizado, siempre que el último eje del vehículo que se transporta descanse en la estructura del remolque. La carga no podrá sobresalir por delante del vehículo de tracción.</p>
-<p class="cita">(3) Un vehículo acondicionado es cualquier vehículo cuyas superestructuras fijas o móviles estén parcialmente equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el espesor de cada pared lateral, incluido el aislamiento, sea de 45 mm como mínimo.</p>
-<p class="cita">(4) Se entiende por vehículo tipo autobús, especialmente acondicionado para el traslado de presos, el constituido por un compartimento central para celdas separado del delantero (conducción y escolta) y trasero (escolta), así como por un pasillo central.</p>
-<p class="cita">(5) Los vehículos o conjuntos de vehículos que transporten barras metálicas, vigas, tubos o elementos longitudinales de similar forma, como conjunto de elementos indivisibles que solo superan como dimensión máxima permitida la longitud, podrán rebasar en 150 cm la longitud que les corresponda.</p>
+<p>(1) Los vehículos o conjuntos de vehículos que transporten contenedores o cajas móviles de 45 pies de longitud, con o sin carga, en una operación de transporte intermodal podrán rebasar en 15 cm la longitud o distancia máxima que les corresponda.</p>
+<p>(2) La longitud de los trenes de carretera especializados en el transporte de vehículos, circulando con carga, puede aumentarse hasta un total de 20,55 metros utilizando un voladizo o soporte de carga trasero autorizado para ello. El voladizo o soporte de carga trasero no podrá sobresalir en relación a la carga. La carga podrá sobresalir por detrás, sin exceder el total autorizado, siempre que el último eje del vehículo que se transporta descanse en la estructura del remolque. La carga no podrá sobresalir por delante del vehículo de tracción.</p>
+<p>(3) Un vehículo acondicionado es cualquier vehículo cuyas superestructuras fijas o móviles estén parcialmente equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el espesor de cada pared lateral, incluido el aislamiento, sea de 45 mm como mínimo.</p>
+<p>(4) Se entiende por vehículo tipo autobús, especialmente acondicionado para el traslado de presos, el constituido por un compartimento central para celdas separado del delantero (conducción y escolta) y trasero (escolta), así como por un pasillo central.</p>
+<p>(5) Los vehículos o conjuntos de vehículos que transporten barras metálicas, vigas, tubos o elementos longitudinales de similar forma, como conjunto de elementos indivisibles que solo superan como dimensión máxima permitida la longitud, podrán rebasar en 150 cm la longitud que les corresponda.</p>
 </td>
 </tr>
 </tfoot>
@@ -4209,246 +3770,6 @@ Para los vehículos de categoría N con ejes retráctiles o descargables en posi
 3.3.4 Para las restantes máquinas, su anchura de circulación será la de la máquina parada.
 
 3.3.5 Para los conjuntos de estos vehículos, su anchura de circulación será la mayor de todas las individuales después de ser determinadas como en los apartados 3.3.1, 3.3.2, 3.3.3 y/o 3.3.4.
-
-> Téngase en cuenta que en esta última actualización, establecida por el art. único.2 de la Orden PJC/780/2025, de 21 de julio, [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231), lo relativo a las masas máximas por eje y masas máximas autorizadas, entra en vigor el 23 de octubre de 2025, excepto si se trata de vehículos cisterna (de acuerdo con su clasificación por criterios de utilización), que entra en vigor el 23 de enero de 2026, según determinada su disposición final 2.
-
-> Redacción anterior:
-
-> "**3. Dimensiones máximas autorizadas a los vehículos para poder circular, incluida la carga**
-
-> 3.1 Las dimensiones máximas autorizadas a los vehículos para poder circular son las siguientes:
-
-> Tabla 3. Dimensiones máximas autorizadas
-
-> <table class="tabla" summary="Tabla de datos">
-> <thead>
-> <tr>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Longitud</p>
-> </th>
-> <th class="cabeza_tabla">
-> <p class="cabeza_tabla">Metros</p>
-> </th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículos de motor excepto autobuses (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">12,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Remolques (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">12,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículos articulados excepto autobuses (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">16,50</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Distancia máxima entre el eje de pivote de enganche y la parte trasera del semirremolque (1).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">12,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Distancia máxima entre el eje de pivote de enganche y un punto cualquiera de parte delantera del semirremolque, horizontalmente.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">2,04</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Trenes de carretera (1) y (2).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">18,75</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">La distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del remolque del conjunto de vehículos, menos la distancia entre la parte trasera del vehículo motor y la parte delantera del remolque.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">15,65</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Distancia máxima, media en paralelo al eje longitudinal del tren de carretera, entre los puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del remolque del conjunto de vehículos.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">16,40</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses articulados.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">18,75</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses rígidos de 2 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">13,50</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses rígidos de más de 2 ejes.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">15,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses con remolque, incluido este.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">18,75</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">En el caso de autobuses equipados con accesorios desmontables, como los porta esquís, la longitud del vehículo, accesorios incluidos, no sobrepasará las máximas previstas en este apartado.</p>
-> </td>
-> <td> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Anchura</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">La anchura máxima autorizada, como regla general.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">2,55</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Superestructuras de vehículos acondicionados (3).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">2,60</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Autobuses especialmente acondicionados para el traslado de presos (4).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">2,60</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Altura</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Altura máxima de los vehículos incluida la carga, como norma general.</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">4,00</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Altura máxima de los autobuses de la clase I (urbano).</p>
-> </td>
-> <td>
-> <p class="cuerpo_tabla_der">4,20</p>
-> </td>
-> </tr>
-> <tr>
-> <td colspan="2">
-> <p class="cuerpo_tabla_centro">Altura máxima de los siguientes vehículos, incluida la carga</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Portavehículos: Camiones (rígidos) y conjuntos de vehículos (trenes de carretera y vehículos articulados), cuando estén especializados en el transporte de vehículos.</p>
-> </td>
-> <td rowspan="3">
-> <p class="cuerpo_tabla_der">4,50</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículos grúa: los destinados a la retirada de vehículos accidentados o averiados.</p>
-> </td>
-> </tr>
-> <tr>
-> <td>
-> <p class="cuerpo_tabla_izq">Vehículos que transportan contenedores cerrados homologados para el transporte combinado o intermodal.</p>
-> </td>
-> </tr>
-> </tbody>
-> </table>
-
-> (1) Los vehículos o conjuntos de vehículos que transporten contenedores o cajas móviles de 45 pies de longitud, con o sin carga, en una operación de transporte intermodal podrán rebasar en 15 cm la longitud o distancia máxima que les corresponda.
-
-> (2) La longitud de los trenes de carretera especializados en el transporte de vehículos, circulando con carga, puede aumentarse hasta un total de 20,55 metros utilizando un voladizo o soporte de carga trasero autorizado para ello. El voladizo o soporte de carga trasero no podrá sobresalir en relación a la carga. La carga podrá sobresalir por detrás, sin exceder el total autorizado, siempre que el último eje del vehículo que se transporta descanse en la estructura del remolque. La carga no podrá sobresalir por delante del vehículo de tracción.
-
-> (3) Un vehículo acondicionado es cualquier vehículo cuyas superestructuras fijas o móviles estén parcialmente equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el espesor de cada pared lateral, incluido el aislamiento, sea de 45 mm como mínimo.
-
-> (4) Se entiende por vehículo tipo autobús, especialmente acondicionado para el traslado de presos, el constituido por un compartimento central para celdas separado del delantero (conducción y escolta) y trasero (escolta), así como por un pasillo central.
-
-> 3.2 Se deberá cumplir además que:
-
-> 3.2.1 La carga no debe comprometer la estabilidad del vehículo, pejudicar las obras y plantaciones de la vía o constituir obstáculo para su paso bajo los puentes, viaductos o instalaciones aéreas.
-
-> 3.2.2 Todo vehículo de motor y todo conjunto de vehículos deben ser capaces de describir por ambos lados una trayectoria circular completa de 360° dentro de un área definida por dos círculos concéntricos cuyos radios exterior e interior sean respectivamente de 12,50 metros y de 5,30 metros, sin que ninguno de los puntos extremos exteriores del vehículo se proyecten fuera de las circunferencias de los círculos.
-
-> 3.2.2 bis. Otros requisitos aplicables a los autobuses:
-
-> Cuando el vehículo esté parado, se determinará, trazando una recta en el suelo, un plano vertical tangente respecto del costado del vehículo orientado hacia el exterior del círculo. En el caso de un autobús articulado, las dos partes rígidas deberán alinearse con dicho plano.
-
-> Cuando, al maniobrar en línea recta, el autobús entre en la superficie circular descrita en el punto 3.2.2, ninguna parte del mismo rebasará en más de 0,60 m. dicho plano vertical.
-
-> 3.2.3 Requisitos adicionales para los vehículos de las categorías M2, M3 y N.
-
-> Cuando el vehículo avance hacia un lado u otro siguiendo el círculo de 12,5 metros de radio, ninguna parte del mismo rebasará dicho plano vertical en más de 0,8 metros, en el caso de un vehículo rígido, ni en más de 1,2 metros en el caso de un vehículo articulado de las categorias M2 o M3.
-
-> Para los vehículos dotados de un dispositivo de elevación de eje, este requisito será asimismo de aplicación con el(los) eje(s) en posición elevada
-
-> Para los vehículos de categoría N con ejes retráctiles o descargables en posición elevada, el valor de 0,8 metros deberá ser sustituido por el de 1,0 metros.
-
-> 3.3 La anchura de circulación de los vehículos especiales reseñados a continuación, que son las que regirán a todos los efectos en este Reglamento, se determinará como sigue:
-
-> 3.3.1 Para los tractores agrícolas, portadores, motocultores, tractocarros y sus remolques, su anchura de circulación será la del vehículo parado, incluida la carga en su caso.
-
-> 3.3.2 Para los útiles, aperos y otros equipos agrícolas montados, suspendidos o semisuspendidos en tractores o motocultores, su anchura de circulación será la del equipo parado, disminuida en la distancia en que la parte derecha sobresalga lateralmente de la cara más externa de las ruedas del mismo lado del vehículo que las porte o arrastre, con un máximo a descontar de 0,5 metros.
-
-> 3.3.3 Para las máquinas agrícolas, su anchura de circulación será la de la máquina parada, disminuida en 0,5 m., si bien esta disminución no será aplicable a aquellas máquinas que, disponiendo de elementos abatibles o desmontables, no los lleven recogidos o desmontados.
-
-> 3.3.4 Para las restantes máquinas, su anchura de circulación será la de la máquina parada.
-
-> 3.3.5 Para los conjuntos de estos vehículos, su anchura de circulación será la mayor de todas las individuales después de ser determinadas como en los apartados 3.3.1, 3.3.2, 3.3.3 y/o 3.3.4."
 
 > Se modifica por el art. único.2 de la Orden PJC/780/2025, de 21 de julio. [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231)
 
@@ -4546,119 +3867,119 @@ b) Las relaciones de masas que figuren en las tarjetas de compatibilidad de aque
 
 Tabla 4. Relaciones máximas autorizadas entre la masa en carga de los vehículos remolcados y la masa en vacío de los vehículos que los arrastren
 
-<table class="tabla_ancha" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th colspan="3" rowspan="4">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </th>
 <th colspan="8">
-<p class="cabeza_tabla">Clases y dispositivos de frenado de los vehículos remolcados</p>
+<p>Clases y dispositivos de frenado de los vehículos remolcados</p>
 </th>
 </tr>
 <tr>
 <th colspan="4">
-<p class="cabeza_tabla">De un eje</p>
+<p>De un eje</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">De dos ejes</p>
+<p>De dos ejes</p>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<p class="cabeza_tabla">Provistos de freno de servicio</p>
+<p>Provistos de freno de servicio</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Carentes de frenos de servicio</p>
+<p>Carentes de frenos de servicio</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Provistos de freno de servicio</p>
+<p>Provistos de freno de servicio</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Carentes de frenos de servicio</p>
+<p>Carentes de frenos de servicio</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Graduables semicontinuos (1)</p>
+<p>Graduables semicontinuos (1)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Independientes (2)</p>
+<p>Independientes (2)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Mecánicos de inercia</p>
+<p>Mecánicos de inercia</p>
 </th>
 <th>
-<p class="cabeza_tabla">Graduables semicontinuos (1)</p>
+<p>Graduables semicontinuos (1)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Independientes (2)</p>
+<p>Independientes (2)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Mecánicos de inercia</p>
+<p>Mecánicos de inercia</p>
 </th>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Clases y dispositivos de frenado de los vehículos arrastradores</p>
+<p>Clases y dispositivos de frenado de los vehículos arrastradores</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Provistos de frenos de servicio</p>
+<p>Provistos de frenos de servicio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Tractores, portadores y máquinas automotrices</p>
+<p>Tractores, portadores y máquinas automotrices</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,5</p>
+<p>4,5</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,5</p>
+<p>4,5</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Motocultores y máquinas equiparadas</p>
+<p>Motocultores y máquinas equiparadas</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td colspan="4">
-<p class="cuerpo_tabla_centro">Según tarjeta de compatibilidad en casode concederse</p>
+<p>Según tarjeta de compatibilidad en casode concederse</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Carentes de frenos de servicio</p>
+<p>Carentes de frenos de servicio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">Motocultores y máquinas equiparadas</p>
+<p>Motocultores y máquinas equiparadas</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">3</p>
+<p>3</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Incompatibles</p>
+<p>Incompatibles</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Según tarjeta de compatibilidad en caso de concederse</p>
+<p>Según tarjeta de compatibilidad en caso de concederse</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Incompatibles</p>
+<p>Incompatibles</p>
 </td>
 </tr>
 </tbody>
@@ -4677,16 +3998,6 @@ Su circulación quedará circunscrita a la red de itinerarios para la circulaci�
 Los itinerarios por donde podrán circular los conjuntos euro-modulares, teniendo en cuenta las restricciones dispuestas por el titular de la vía, serán publicados en el “Boletín Oficial del Estado”.
 
 En ningún caso, la carga que lleve un conjunto euro-modular podrá sobresalir de la proyección en planta de los vehículos que la porten, ni tampoco se podrán transportar mercancías peligrosas para cuyo traslado se requiera portar paneles de señalización de peligro reglamentario conforme al Acuerdo Europeo sobre Transporte de Mercancías Peligrosas por Carretera (ADR), debiendo siempre respetar las condiciones y limitaciones establecidas por este Acuerdo para su transporte.
-
-> Téngase en cuenta que en esta última actualización, establecida por el art. único.2 de la Orden PJC/780/2025, de 21 de julio, [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231), lo relativo a las masas máximas por eje y masas máximas autorizadas, entra en vigor el 23 de octubre de 2025, excepto si se trata de vehículos cisterna (de acuerdo con su clasificación por criterios de utilización), que entra en vigor el 23 de enero de 2026, según determinada su disposición final 2.
-
-> Redacción anterior:
-
-> "**6. Masa máxima autorizada y longitud máxima autorizada de los conjuntos de vehículos en configuración euro-modular.**
-
-> Se podrá autorizar por el órgano competente en materia de tráfico, previo informe vinculante del titular de vía, la circulación de conjuntos de vehículos en configuración euro-modular, con una masa máxima de hasta 60 toneladas y una longitud máxima de hasta 25,25 metros por un plazo determinado, en las condiciones que se fijen en la autorización. La carga no podrá sobresalir de la proyección en planta del vehículo. Siempre que sea posible, los itinerarios de estos transportes deberán transcurrir por autopistas y autovías.
-
-> No se podrá conceder la autorización a la que se refiere el párrafo anterior cuando se pretenda realizar transporte de mercancías peligrosas por carretera."
 
 > Se modifica por el art. único.2 de la Orden PJC/780/2025, de 21 de julio. [Ref. BOE-A-2025-15231](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231)
 
@@ -4762,371 +4073,371 @@ Las demás placas y señales retrorreflectantes que deban llevarse para cumplir 
 
 Los dispositivos de alumbrado y señalización óptica, junto con una indicación genérica del número, color y situación, para las distintas categorías de vehículos, aparecen recogidos en las siguientes tablas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Todo automóvil, con excepción de los reseñados en las tablas siguientes</p>
+<p>Todo automóvil, con excepción de los reseñados en las tablas siguientes</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (9)</p>
+<p>Situación (9)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante. En los bordes exteriores (1)</p>
+<p>Delante. En los bordes exteriores (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante. En los bordes exteriores (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de marcha atrás</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>Un número par (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (1)</p>
+<p>Delante. En los bordes exteriores (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par mayor de dos (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores y lateral (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
+<p>Luz de marcha atrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual n.° que los indicadores de dirección (1)</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual n.° que los indicadores de dirección (1)</p>
+<p>Detrás (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás. En los bordes exteriores (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Tercera luz de freno</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 (1)</p>
+<p>Un número par mayor de dos (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás. Sobreelevada (1)</p>
+<p>Bordes exteriores y lateral (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>Igual n.° que los indicadores de dirección (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante. En los bordes exteriores (1)</p>
+<p>Igual n.° que los indicadores de dirección (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás. En los bordes exteriores (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de estacionamiento</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 4 (2)</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO delante Rojo detrás AMARILLO AUTO lateral</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En los bordes exteriores (1)</p>
+<p>Detrás. En los bordes exteriores (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (3)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Si es una, a la izquierda o en el centro. Si son dos, en los bordes exteriores (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz antiniebla delantera</p>
+<p>Tercera luz de freno</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO o AMARILLO SELECTIVO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
+<p>Detrás. Sobreelevada (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de gálibo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 visibles por delante y 2 visibles por detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO delante ROJO detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lo más alto que permita el vehículo (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatoria (4)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos delanteros no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás. En los bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Mínimo 2, máximo en función de la longitud del vehículo (1)</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO (5)</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">En el lateral, uniformemente distribuidas</p>
+<p>Delante. En los bordes exteriores (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (6)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición lateral</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Mínimo 2, máximo en función de la longitud del vehículo (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO (5)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En el lateral uniformemente distribuidas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (7)</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alumbrado Interior del habitáculo</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Detrás. En los bordes exteriores (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (8)</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Dispositivos luminosos o reflectantes de señalización de apertura de puertas</p>
+<p>Luz de estacionamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2 ó 4 (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>BLANCO delante Rojo detrás AMARILLO AUTO lateral</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>En los bordes exteriores (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional (3)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Si es una, a la izquierda o en el centro. Si son dos, en los bordes exteriores (1)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla delantera</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>BLANCO o AMARILLO SELECTIVO</p>
+</td>
+<td>
+<p>Delante (1)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de gálibo</p>
+</td>
+<td>
+<p>2 visibles por delante y 2 visibles por detrás</p>
+</td>
+<td>
+<p>BLANCO delante ROJO detrás</p>
+</td>
+<td>
+<p>Lo más alto que permita el vehículo (1)</p>
+</td>
+<td>
+<p>Obligatoria (4)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos delanteros no triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante (1)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás. En los bordes exteriores</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>Mínimo 2, máximo en función de la longitud del vehículo (1)</p>
+</td>
+<td>
+<p>AMARILLO AUTO (5)</p>
+</td>
+<td>
+<p>En el lateral, uniformemente distribuidas</p>
+</td>
+<td>
+<p>Opcional (6)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición lateral</p>
+</td>
+<td>
+<p>Mínimo 2, máximo en función de la longitud del vehículo (1)</p>
+</td>
+<td>
+<p>AMARILLO AUTO (5)</p>
+</td>
+<td>
+<p>En el lateral uniformemente distribuidas</p>
+</td>
+<td>
+<p>Obligatorio (7)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alumbrado Interior del habitáculo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Opcional (8)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dispositivos luminosos o reflectantes de señalización de apertura de puertas</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -5150,235 +4461,235 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (9) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de los vehículos automóviles.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Motocicletas</p>
+<p>Motocicletas</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (3)</p>
+<p>Situación (3)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
+<p>Delante (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 delante y 2 detrás</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>Delante (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (2)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Igual número que los indicadores de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Igual que los indicadores de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>2 delante y 2 detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (1)</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>Igual número que los indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO O ÁMBAR</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
+<p>Igual que los indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detras (1)</p>
+<p>Detrás (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO o AMARILLA SELECTIVO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (1)</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 por cada lado</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO O ÁMBAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lateral</p>
+<p>Delante (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (1)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detras (1)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla delantera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>BLANCO o AMARILLA SELECTIVO</p>
+</td>
+<td>
+<p>Delante (1)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (1)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>1 ó 2 por cada lado</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Lateral</p>
+</td>
+<td>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -5390,235 +4701,235 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de vehículos de dos y tres ruedas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Motocicletas con sidecar</p>
+<p>Motocicletas con sidecar</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (6)</p>
+<p>Situación (6)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
+<p>Delante (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 delante y 2 detrás</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>Delante (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (5)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Igual número que los indicadores de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Igual que los indicadores de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 3 (2)</p>
+<p>2 delante y 2 detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (3)</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional (5)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 3 (2)</p>
+<p>Igual número que los indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO O ÁMBAR</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (3)</p>
+<p>Igual que los indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 ó 3 (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás (3)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>2 ó 3 (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (4)</p>
+<p>Detrás (3)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (1)</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 por cada lado</p>
+<p>2 ó 3 (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO O ÁMBAR</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lateral</p>
+<p>Delante (3)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>2 ó 3 (2)</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (3)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (4)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla delantera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante (1)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (1)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>1 ó 2 por cada lado</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Lateral</p>
+</td>
+<td>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -5636,252 +4947,252 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (6) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de vehículos de dos y tres ruedas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Vehículo de tres ruedas</p>
+<p>Vehículo de tres ruedas</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (6)</p>
+<p>Situación (6)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (2)</p>
+<p>Delante (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de marcha atrás</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Trasera</p>
+<p>Delante (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 por lado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional (5)</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
+<p>Luz de marcha atrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual número que indicadores de dirección</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual que indicadores de dirección</p>
+<p>Trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (5)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>2 por lado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO O ÁMBAR</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional (5)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
+<p>Igual número que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (2)</p>
+<p>Igual que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (3)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional (5)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz antiniebla delantera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO o AMARILLO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Detrás (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares (4)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 por lado</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Lateral</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición delantera</p>
+</td>
+<td>
+<p>1 ó 2 (1)</p>
+</td>
+<td>
+<p>BLANCO O ÁMBAR</p>
+</td>
+<td>
+<p>Delante (2)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>1 ó 2 (1)</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (2)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2 (3)</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla delantera</p>
+</td>
+<td>
+<p>1 ó 2 (1)</p>
+</td>
+<td>
+<p>BLANCO o AMARILLO</p>
+</td>
+<td>
+<p>Delante</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares (4)</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>1 ó 2 por lado</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Lateral</p>
+</td>
+<td>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -5899,286 +5210,286 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (6) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de vehículos de dos y tres ruedas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Remolques y semirremolques, con excepción de los agrícolas</p>
+<p>Remolques y semirremolques, con excepción de los agrícolas</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (5)</p>
+<p>Situación (5)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de marcha atrás</p>
+<p>Luz de marcha atrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual número que indicadores de dirección</p>
+<p>Un número par</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual que indicadores de dirección</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>Igual número que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>Igual que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante, en el exterior</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás en el exterior</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición lateral</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En función de su longitud</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Laterales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (2)</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de gálibo</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 delante 2 detrás</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO delante ROJO detrás</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás, en el exterior y arriba</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio (3)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadíóptricos traseros triangulares</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás, en el exterior</p>
+<p>Delante, en el exterior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás, en el exterior</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional (3)</p>
+<p>Obligatorio (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos delanteros no triangulares</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante, en el exterior</p>
+<p>Detrás en el exterior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En función de su longitud</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lateral</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Testigo A.B.S.</p>
+<p>Luz de posición lateral</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>En función de su longitud</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">VERDE</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(6)</p>
+<p>Laterales</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">(7)</p>
+<p>Obligatorio (2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de gálibo</p>
+</td>
+<td>
+<p>2 delante 2 detrás</p>
+</td>
+<td>
+<p>BLANCO delante ROJO detrás</p>
+</td>
+<td>
+<p>Detrás, en el exterior y arriba</p>
+</td>
+<td>
+<p>Obligatorio (3)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadíóptricos traseros triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás, en el exterior</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás, en el exterior</p>
+</td>
+<td>
+<p>Opcional (3)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos delanteros no triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante, en el exterior</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>En función de su longitud</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Lateral</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Testigo A.B.S.</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>VERDE</p>
+</td>
+<td>
+<p>(6)</p>
+</td>
+<td>
+<p>(7)</p>
 </td>
 </tr>
 </tbody>
@@ -6198,318 +5509,318 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (7) Transitoriamente se autorizará su instalación con carácter excepcional, en función de la compatibilidad con la cabeza tractora.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Tractor agrícola, de obras o de servicios, todo portador, tractocarro y máquina automotriz de servicios</p>
+<p>Tractor agrícola, de obras o de servicios, todo portador, tractocarro y máquina automotriz de servicios</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (3)</p>
+<p>Situación (3)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante, en los bordes exteriores</p>
+<p>Delante, en los bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante, en los bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de marcha atrás</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>2 ó 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Delante, en los bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par de luces</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
+<p>Luz de marcha atrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual número que indicadores de dirección</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual que indicadores de dirección</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (2)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>Un número par de luces</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante, bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>Igual número que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás, bordes cexteriores</p>
+<p>Igual que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de gálibo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 delante 2 detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO delante ROJO detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En la anchura y altura máxima posible</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional (1)</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Si es 1 a izda. Si son dos, en los laterales</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO o AMARILLO SELECTIVO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En función de la longitud del vehículo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">En el lateral</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alumbrado interior del habitáculo</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>2 ó 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante, bordes exteriores</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás, bordes cexteriores</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de gálibo</p>
+</td>
+<td>
+<p>2 delante 2 detrás</p>
+</td>
+<td>
+<p>BLANCO delante ROJO detrás</p>
+</td>
+<td>
+<p>En la anchura y altura máxima posible</p>
+</td>
+<td>
+<p>Opcional (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Si es 1 a izda. Si son dos, en los laterales</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla delantera</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>BLANCO o AMARILLO SELECTIVO</p>
+</td>
+<td>
+<p>Bordes exteriores</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>2 ó 4</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Bordes exteriores</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>En función de la longitud del vehículo</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>En el lateral</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alumbrado interior del habitáculo</p>
+</td>
+<td>
+<p>Sin especificar</p>
+</td>
+<td>
+<p>BLANCO</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de estacionamiento</p>
+<p>Luz de estacionamiento</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
+<p>2 ó 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO delante ROJO detrás</p>
+<p>BLANCO delante ROJO detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de trabajo</p>
+<p>Luz de trabajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>Sin especificar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>Sin especificar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -6521,31 +5832,31 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores agrícolas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="5">
-<p class="cabeza_tabla">Máquina automotriz agrícola o para obras</p>
+<p>Máquina automotriz agrícola o para obras</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situacion (3)</p>
+<p>Situacion (3)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Obigatorio o no</p>
+<p>Obigatorio o no</p>
 </th>
 </tr>
 <tr>
@@ -6554,330 +5865,330 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 <th> </th>
 <th> </th>
 <th>
-<p class="cabeza_tabla">Aptos para circular de noche</p>
+<p>Aptos para circular de noche</p>
 </th>
 <th>
-<p class="cabeza_tabla">No aptos para circular de noche</p>
+<p>No aptos para circular de noche</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante, en bordes exteriores</p>
+<p>Delante, en bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante, en bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de marcha atrás</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>2 ó 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Delante, en bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de direccion</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
+<p>Luz de marcha atrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual número que indicadores de dirección</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual que indicadores de dirección</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Parte trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Luces indicadoras de direccion</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>Un número par</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminarla</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO o AMARILLO SELECTIVO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>Igual número que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>Igual que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de gálibo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 delante 2 detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO delante ROJO detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes superiores del vehículo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>Parte trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO o AMARILLO SELECTIVO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>La necesaria para iluminarla</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Los necesarios (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Laterales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de trabajo</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>2 ó 4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO o AMARILLO SELECTIVO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alumbrado interior del habitáculo</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de gálibo</p>
+</td>
+<td>
+<p>2 delante 2 detrás</p>
+</td>
+<td>
+<p>BLANCO delante ROJO detrás</p>
+</td>
+<td>
+<p>Bordes superiores del vehículo</p>
+</td>
+<td>
+<p>Opcional (2)</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Bordes exteriores</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla delantera</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>BLANCO o AMARILLO SELECTIVO</p>
+</td>
+<td>
+<p>Bordes exteriores</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>2 ó 4</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>Los necesarios (2)</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Laterales</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de trabajo</p>
+</td>
+<td>
+<p>Sin especificar</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Sin especificar</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alumbrado interior del habitáculo</p>
+</td>
+<td>
+<p>Sin especificar</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+<td>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -6889,31 +6200,31 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 
 (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores agrícolas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="5">
-<p class="cabeza_tabla">Motocultor</p>
+<p>Motocultor</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (3)</p>
+<p>Situación (3)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
@@ -6922,170 +6233,170 @@ Los dispositivos de alumbrado y señalización óptica, junto con una indicació
 <th> </th>
 <th> </th>
 <th>
-<p class="cabeza_tabla">Aptos para circular de noche</p>
+<p>Aptos para circular de noche</p>
 </th>
 <th>
-<p class="cabeza_tabla">No aptos para circular de noche</p>
+<p>No aptos para circular de noche</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (2)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Señal de emergencia</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual número que indicadores de dirección</p>
+<p>Un número par</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Igual que indicadores de dirección</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio (2)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Señal de emergencia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>Igual número que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>Igual que indicadores de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (2)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 ó 4</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición delantera</p>
+</td>
+<td>
+<p>2 ó 4</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>2 ó 4</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Obligatorio</p>
 </td>
 </tr>
 </tbody>
@@ -7103,31 +6414,31 @@ La altura de las luces de cruce podrá ser superior a 1,20 metros siempre que en
 
 Las luces de gálibo podrán estar situadas en un plano inferior a las del alumbrado ordinario y siempre se colocarán en la parte más alta de la parte más ancha del vehículo. El alumbrado ordinario podrá suplir al de gálibo siempre que se cumpla la condición anterior y no está colocado a más de 250 milímetros de los bordes exteriores del vehículo.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="5">
-<p class="cabeza_tabla">Remolques agrícolas y máquinas de servicios remolcadas. Máquinas remolcadas, agrícolas o de obras</p>
+<p>Remolques agrícolas y máquinas de servicios remolcadas. Máquinas remolcadas, agrícolas o de obras</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (4)</p>
+<p>Situación (4)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
@@ -7136,268 +6447,268 @@ Las luces de gálibo podrán estar situadas en un plano inferior a las del alumb
 <th> </th>
 <th> </th>
 <th>
-<p class="cabeza_tabla">Aptos para circular de noche</p>
+<p>Aptos para circular de noche</p>
 </th>
 <th>
-<p class="cabeza_tabla">No aptos para circular de noche</p>
+<p>No aptos para circular de noche</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de marcha atrás</p>
+<p>Luz de marcha atrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Un número par de luces</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>Un número par de luces</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio (2)</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de gálibo</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 delante 2 detrás</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO delante ROJO detrás</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores y arriba</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio (3)</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional (3)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz antiniebla trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros triangulares</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos delanteros no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Los necesarios</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laterales</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz interior del habitáculo</p>
+<p>Luz de gálibo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>2 delante 2 detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO delante ROJO detrás</p>
+</td>
+<td>
+<p>Bordes exteriores y arriba</p>
+</td>
+<td>
+<p>Obligatorio (3)</p>
+</td>
+<td>
+<p>Opcional (3)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz antiniebla trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos delanteros no triangulares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>Los necesarios</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Laterales</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz interior del habitáculo</p>
+</td>
+<td>
+<p>Sin especificar</p>
+</td>
+<td>
+<p>BLANCO</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de trabajo</p>
+<p>Luz de trabajo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>Sin especificar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sin especificar</p>
+<p>Sin especificar</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
@@ -7411,218 +6722,218 @@ Las luces de gálibo podrán estar situadas en un plano inferior a las del alumb
 
 (4) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores agrícolas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Ciclomotor de dos ruedas</p>
+<p>Ciclomotor de dos ruedas</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (3)</p>
+<p>Situación (3)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 por lado</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">A ambos lados, delante y detrás</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa trasera</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>2 por lado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>A ambos lados, delante y detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio (1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos delanteros no triangulares</p>
+<p>Luz de la placa trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 por lado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lateral</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (1)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos en los pedales (2)</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 en cada pedal</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Delante</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos delanteros no triangulares</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>BLANCO</p>
+</td>
+<td>
+<p>Delante</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>1 ó 2 por lado</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Lateral</p>
+</td>
+<td>
+<p>Obligatorio (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos en los pedales (2)</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>2 en cada pedal</p>
+</td>
+<td>
+<p>Obligatorio</p>
 </td>
 </tr>
 </tbody>
@@ -7634,201 +6945,201 @@ Las luces de gálibo podrán estar situadas en un plano inferior a las del alumb
 
 (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de vehículos de dos y tres ruedas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Ciclomotor de tres ruedas o cuatriciclo ligero</p>
+<p>Ciclomotor de tres ruedas o cuatriciclo ligero</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación (7)</p>
+<p>Situación (7)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de cruce</p>
+<p>Luz de cruce</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante (2)</p>
+<p>Delante (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de carretera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luces indicadoras de dirección</p>
+<p>Luz de carretera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 por lado</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Bordes exteriores</p>
+<p>Delante (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio (3)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de frenado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio (6)</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Luces indicadoras de dirección</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>2 por lado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>AMARILLO AUTO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>Bordes exteriores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante (2)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio (3)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Luz de frenado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás (2)</p>
+<p>Detrás (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares (4)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio (6)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Laterales</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos en los pedales</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 en cada pedal</p>
+<p>Delante (2)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio (5)</p>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luz de posición trasera</p>
+</td>
+<td>
+<p>1 ó 2 (1)</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás (2)</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no triangulares (4)</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Laterales</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos en los pedales</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>2 en cada pedal</p>
+</td>
+<td>
+<p>Obligatorio (5)</p>
 </td>
 </tr>
 </tbody>
@@ -7848,327 +7159,327 @@ Las luces de gálibo podrán estar situadas en un plano inferior a las del alumb
 
 (7) La situación y altura de cada dispositvo se ajustará a los dispuesto en la reglamentación vigente de vehículos de dos y tres ruedas.
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Ciclos, para circular de noche</p>
+<p>Ciclos, para circular de noche</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación</p>
+<p>Situación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos laterales no triangulares</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Lateral</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos en los pedales</p>
+<p>Catadióptricos traseros no triangulares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2 en cada pedal</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos laterales no triangulares</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>Lateral</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos en los pedales</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>2 en cada pedal</p>
+</td>
+<td>
+<p>Obligatorio</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Bicicletas para circular de noche</p>
+<p>Bicicletas para circular de noche</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación</p>
+<p>Situación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posicion delantera</p>
+<p>Luz de posicion delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Delante</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">ROJO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Detrás</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no triangulares</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Catadióptricos en los pedales</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2 en cada pedal</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos en los radios de las ruedas</p>
+<p>Catadióptricos traseros no triangulares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">4</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">AMARILLO AUTO</p>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos en los pedales</p>
+</td>
+<td>
+<p>1 ó 2</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
+</td>
+<td>
+<p>2 en cada pedal</p>
+</td>
+<td>
+<p>Opcional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos en los radios de las ruedas</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>AMARILLO AUTO</p>
 </td>
 <td> </td>
 <td>
-<p class="cuerpo_tabla_izq">Opcional</p>
+<p>Opcional</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table border="0" class="tabla" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th>
-<p class="cabeza_tabla">Descripción:</p>
+<p>Descripción:</p>
 </th>
 <th colspan="4">
-<p class="cabeza_tabla">Vehículos de tracción animal, para circular de noche</p>
+<p>Vehículos de tracción animal, para circular de noche</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Tipo de luz</p>
+<p>Tipo de luz</p>
 </th>
 <th>
-<p class="cabeza_tabla">Número</p>
+<p>Número</p>
 </th>
 <th>
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </th>
 <th>
-<p class="cabeza_tabla">Situación</p>
+<p>Situación</p>
 </th>
 <th>
-<p class="cabeza_tabla">Obligatorio o no</p>
+<p>Obligatorio o no</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de la placa de matrícula trasera</p>
+<p>Luz de la placa de matrícula trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">La necesaria para iluminar la placa</p>
+<p>La necesaria para iluminar la placa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Luz de posición delantera</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1 ó 2 (1)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">BLANCO</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Delante</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Luz de posición trasera</p>
+<p>Luz de posición delantera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1 ó 2</p>
+<p>1 ó 2 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>BLANCO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Delante</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Catadióptricos traseros no trianguiares</p>
+<p>Luz de posición trasera</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>1 ó 2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">ROJO</p>
+<p>ROJO</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Detrás</p>
+<p>Detrás</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligatorio</p>
+<p>Obligatorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catadióptricos traseros no trianguiares</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>ROJO</p>
+</td>
+<td>
+<p>Detrás</p>
+</td>
+<td>
+<p>Obligatorio</p>
 </td>
 </tr>
 </tbody>
@@ -8234,112 +7545,112 @@ Las mediciones correspondientes se realizarán empleando el iluminante normaliza
 
 Nivel 2: Valores mínimos de coeficiente de retrorreflexión R´ en cd lx-1 m-2
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th colspan="2">
-<p class="cabeza_tabla">Angularidad</p>
+<p>Angularidad</p>
 </th>
 <th colspan="6">
-<p class="cabeza_tabla">Colores</p>
+<p>Colores</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Ángulo de divergencia α</p>
+<p>Ángulo de divergencia α</p>
 </th>
 <th>
-<p class="cabeza_tabla">Ángulo de incidencia<br>β<sub>1</sub>(β<sub>2</sub>=0)</p>
+<p>Ángulo de incidencia<br>β<sub>1</sub>(β<sub>2</sub>=0)</p>
 </th>
 <th>
-<p class="cabeza_tabla">Blanco</p>
+<p>Blanco</p>
 </th>
 <th>
-<p class="cabeza_tabla">Amarillo</p>
+<p>Amarillo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Rojo</p>
+<p>Rojo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Verde</p>
+<p>Verde</p>
 </th>
 <th>
-<p class="cabeza_tabla">Azul</p>
+<p>Azul</p>
 </th>
 <th>
-<p class="cabeza_tabla">Naranja</p>
+<p>Naranja</p>
 </th>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">0.33°</p>
+<p>0.33°</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5°</p>
+<p>5°</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">180</p>
+<p>180</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">122</p>
+<p>122</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21</p>
+<p>21</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">65</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">30°</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">67</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">40</p>
+<p>65</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">40°</p>
+<p>30°</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">95</p>
+<p>100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">64</p>
+<p>67</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">13</p>
+<p>14</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11</p>
+<p>12</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7</p>
+<p>8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20</p>
+<p>40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40°</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>20</p>
 </td>
 </tr>
 </tbody>
@@ -8349,272 +7660,272 @@ En aquellos casos en los que se trate de señales serigrafiadas con tintas trans
 
 Coordenadas cromáticas de los puntos de intersección en el diagrama de cromaticidad CIE, que determinan el área de color permitida para las láminas reflectantes
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Colores</p>
+<p>Colores</p>
 </th>
 <th colspan="5">
-<p class="cabeza_tabla">Coordenadas cromáticas</p>
+<p>Coordenadas cromáticas</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Factor de luminancia<br>mínimo β NIVEL 2</p>
+<p>Factor de luminancia<br>mínimo β NIVEL 2</p>
 </th>
 </tr>
 <tr>
 <th> </th>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Blanco</p>
+<p>Blanco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.350</p>
+<p>0.350</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.300</p>
+<p>0.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.285</p>
+<p>0.285</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.335</p>
+<p>0.335</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0,27</p>
+<p>0,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.360</p>
+<p>0.360</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.310</p>
+<p>0.310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.325</p>
+<p>0.325</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.375</p>
+<p>0.375</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Amarillo</p>
+<p>Amarillo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.545</p>
+<p>0.545</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.487</p>
+<p>0.487</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.427</p>
+<p>0.427</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.465</p>
+<p>0.465</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0.16</p>
+<p>0.16</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.454</p>
+<p>0.454</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.423</p>
+<p>0.423</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.483</p>
+<p>0.483</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.534</p>
+<p>0.534</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Rojo</p>
+<p>Rojo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.690</p>
+<p>0.690</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.595</p>
+<p>0.595</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.569</p>
+<p>0.569</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.655</p>
+<p>0.655</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0.03</p>
+<p>0.03</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.310</p>
+<p>0.310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.315</p>
+<p>0.315</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.341</p>
+<p>0.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.345</p>
+<p>0.345</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Verde</p>
+<p>Verde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.007</p>
+<p>0.007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.248</p>
+<p>0.248</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.177</p>
+<p>0.177</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.026</p>
+<p>0.026</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0.03</p>
+<p>0.03</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.703</p>
+<p>0.703</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.409</p>
+<p>0.409</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.362</p>
+<p>0.362</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.399</p>
+<p>0.399</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Azul</p>
+<p>Azul</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.078</p>
+<p>0.078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.150</p>
+<p>0.150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.210</p>
+<p>0.210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.137</p>
+<p>0.137</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0.01</p>
+<p>0.01</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.171</p>
+<p>0.171</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.220</p>
+<p>0.220</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.160</p>
+<p>0.160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.038</p>
+<p>0.038</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Naranja</p>
+<p>Naranja</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.610</p>
+<p>0.610</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.535</p>
+<p>0.535</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.506</p>
+<p>0.506</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.570</p>
+<p>0.570</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0.14</p>
+<p>0.14</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.390</p>
+<p>0.390</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.375</p>
+<p>0.375</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.404</p>
+<p>0.404</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.429</p>
+<p>0.429</p>
 </td>
 </tr>
 </tbody>
@@ -8638,66 +7949,66 @@ Las láminas fluorescentes rojas deberán cumplir los requisitos que siguen en l
 
 Coordenadas cromáticas de los puntos de intersección en el diagrama de cromaticidad CIE, que determinan el área de color permitida para las láminas fluorescentes rojas
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th colspan="5">
-<p class="cabeza_tabla">Coordenadas cromáticas</p>
+<p>Coordenadas cromáticas</p>
 </th>
 <th rowspan="2">
-<p class="cabeza_tabla">Factor de luminancia<br>mínimo β</p>
+<p>Factor de luminancia<br>mínimo β</p>
 </th>
 </tr>
 <tr>
 <th> </th>
 <th>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </th>
 <th>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </th>
 <th>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </th>
 <th>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">x</p>
+<p>x</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.690</p>
+<p>0.690</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.595</p>
+<p>0.595</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.569</p>
+<p>0.569</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.655</p>
+<p>0.655</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">0.3</p>
+<p>0.3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">y</p>
+<p>y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.310</p>
+<p>0.310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.315</p>
+<p>0.315</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.341</p>
+<p>0.341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0.345</p>
+<p>0.345</p>
 </td>
 </tr>
 </tbody>
@@ -8732,8 +8043,6 @@ La muestra, untada con una mezcla de aceite lubricante detergente y grafito, deb
 2\. La utilización de la señal V-1 no requerirá autorización administrativa alguna, ya se encuentre instalado como elemento supletorio adicional o como elemento constructivo.
 
 3\. La señal luminosa de vehículo prioritario V-1 estará constituida por un dispositivo luminoso, con una o varias luces, de color azul, homologadas conforme al Reglamento CEPE/ONU número 65.
-
-> Téngase en cuenta que, para la adaptación a esta modificación efectuada al apartado 3 por el art. único.2.a) de la Orden PCI/810/2018, de 27 de julio, [Ref. BOE-A-2018-10856](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10856), los titulares de los vehículos matriculados con anterioridad al 1 de agosto de 2018 dispondrán del plazo de dos años, según se indica en la disposición transitoria única.1 de la citada Orden.
 
 Este dispositivo se instalará en la parte delantera del plano superior del vehículo, por encima de la luz más alta, o a lo largo del perímetro de la zona más alta de la parte delantera y trasera del vehículo.
 
@@ -9596,8 +8905,6 @@ En el caso de que el vehículo no disponga de parabrisas, el distintivo se coloc
 
 3\. Las circunstancias señalizadas, los atributos, sus valores y la forma de interconexión con el punto de acceso nacional se definirán por Resolución del Director General de Tráfico.
 
-> Téngase en cuenta que la señal V.27, añadida por la disposición final 2.7 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194), entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
-
 > Se añade, con efectos de 1 de julio de 2021, por la disposición final 2.7 del Real Decreto 159/2021, de 16 de marzo. [Ref. BOE-A-2021-4194](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194)
 
 ## ANEXO XII — ACCESORIOS, REPUESTOS Y HERRAMIENTAS DE LOS VEHÍCULOS
@@ -9617,8 +8924,6 @@ c) Una rueda completa de repuesto o una rueda de uso temporal, con las herramien
 2\. Los autobuses, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada superior a 3.500 kg, y los conjuntos de vehículos no especiales, deberán llevar, además de la dotación que se establece en el apartado 1 a) y b), un equipo homologado de extinción de incendios, adecuado y en condiciones de uso.
 
 3\. Las motocicletas deberán llevar un chaleco reflectante de alta visibilidad que reúna los requisitos de los equipos de protección individual.
-
-> Téngase en cuenta que el apartado 3, añadido por la disposición final 2 del Real Decreto 518/2026, de 24 de junio, [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889), entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
 
 > Se añade el apartado 3, con efectos desde el 1 de octubre de 2026, por la disposición final 2 del Real Decreto 518/2026, de 24 de junio. [Ref. BOE-A-2026-13889](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889)
 
@@ -10512,8 +9817,6 @@ Sin perjuicio del color del fondo establecido para cada placa de matrícula en l
 
 En el caso mencionado en el párrafo anterior, se deberá garantizar el cumplimiento de las placas con las prescripciones de la norma ISO/IEC 30116:2016 “Information technology –Automatic identification and data capture techniques– Optical Character Recognition (OCR) quality testing”.
 
-> Téngase en cuenta que estos párrafos anteriores, añadidos por la disposición final 1.2 del Real Decreto 885/2020, de 6 de octubre, [Ref. BOE-A-2020-12767](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12767), entran en vigor el 2 de enero de 2021, según se establece en su disposición final 5.
-
 A) Matrícula ordinaria.
 
 a) Vehículos automóviles:
@@ -10543,12 +9846,6 @@ d) Ciclomotores y ciclos de motor:
 El fondo de las placas será retrorreflectante, de color amarillo. Los caracteres estampados en relieve irán pintados en color negro mate.
 
 En las placas de matrícula se inscribirán tres grupos de caracteres constituidos por la letra C, un número de cuatro cifras, que irá desde el 0000 al 9999, y tres letras, empezando por las letras BBB y terminando por las letras ZZZ, suprimiéndose las cinco vocales, con lo que se evitan palabras malsonantes o acrósticos especialmente significados, así como las letras Ñ y Q, por ser fácil su confusión con la letra N y el número 0, respectivamente, y las letras CH y LL, por incompatibilidad con el diseño de las placas de matrícula que no admitiría la consignación de cuatro caracteres en el último grupo.
-
-> Téngase en cuenta que la última actualización del epígrafe correspondiente al párrafo d) del apartado A), establecida por el art. 2.7 del Real Decreto 970/2020, de 10 de noviembre. [Ref. BOE-A-2020-13969](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969), entra en vigor el 2 de enero de 2021, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "d) Ciclomotores:"
 
 B) Matrícula especial.
 
@@ -10738,757 +10035,738 @@ Los restantes remolques, semirremolques, maquinaria agrícola remolcada y de obr
 
 ## Cuadro 1
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3">Tipo placa matrícula</th>
-<th class="cabeza_tabla" colspan="2">Medidas (mm)</th>
-<th class="cabeza_tabla" colspan="3">Caracteres (mm)</th>
-<th class="cabeza_tabla" rowspan="3">Separación entre caracteres (mm)</th>
-<th class="cabeza_tabla" rowspan="3">Espacio entre grupos de caracteres (mm)</th>
-<th class="cabeza_tabla" colspan="6">Separación a bordes (mm)</th>
-<th class="cabeza_tabla" colspan="2">Color</th>
-<th class="cabeza_tabla" rowspan="3">Tolerancia entre caracteres, grupo de caracteres y distancia a borde</th>
+<th rowspan="3">Tipo placa matrícula</th>
+<th colspan="2">Medidas (mm)</th>
+<th colspan="3">Caracteres (mm)</th>
+<th rowspan="3">Separación entre caracteres (mm)</th>
+<th rowspan="3">Espacio entre grupos de caracteres (mm)</th>
+<th colspan="6">Separación a bordes (mm)</th>
+<th colspan="2">Color</th>
+<th rowspan="3">Tolerancia entre caracteres, grupo de caracteres y distancia a borde</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Total</th>
-<th class="cabeza_tabla" rowspan="2">Superficie reflectante</th>
-<th class="cabeza_tabla" rowspan="2">Anchura</th>
-<th class="cabeza_tabla" rowspan="2">Altura</th>
-<th class="cabeza_tabla" rowspan="2">Grueso trazo</th>
-<th class="cabeza_tabla" rowspan="2">Horizontales</th>
-<th class="cabeza_tabla" rowspan="2">Entre líneas</th>
-<th class="cabeza_tabla" colspan="2">Verticales línea superior</th>
-<th class="cabeza_tabla" colspan="2">Verticales línea inferior</th>
-<th class="cabeza_tabla" rowspan="2">Fondo</th>
-<th class="cabeza_tabla" rowspan="2">Caracteres</th>
+<th rowspan="2">Total</th>
+<th rowspan="2">Superficie reflectante</th>
+<th rowspan="2">Anchura</th>
+<th rowspan="2">Altura</th>
+<th rowspan="2">Grueso trazo</th>
+<th rowspan="2">Horizontales</th>
+<th rowspan="2">Entre líneas</th>
+<th colspan="2">Verticales línea superior</th>
+<th colspan="2">Verticales línea inferior</th>
+<th rowspan="2">Fondo</th>
+<th rowspan="2">Caracteres</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Izq.</th>
-<th class="cabeza_tabla">Der.</th>
-<th class="cabeza_tabla">Izq.</th>
-<th class="cabeza_tabla">Der.</th>
+<th>Izq.</th>
+<th>Der.</th>
+<th>Izq.</th>
+<th>Der.</th>
 </tr>
 </thead>
 <tbody>
-<tr data-partir-fila="true">
-<td class="cuerpo_tabla_izq">Ordinaria larga (1).</td>
-<td class="cuerpo_tabla_centro">520 × 110</td>
-<td class="cuerpo_tabla_centro">510 × 100</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">41</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">62</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">B/A(7)</td>
-<td class="cuerpo_tabla_centro">N/B(7)</td>
-<td class="cuerpo_tabla_centro" rowspan="48">± 3 mm</td>
+<tr>
+<td>Ordinaria larga (1).</td>
+<td>520 × 110</td>
+<td>510 × 100</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>14</td>
+<td>41</td>
+<td>11,5</td>
+<td>–</td>
+<td>62</td>
+<td>22</td>
+<td>–</td>
+<td>–</td>
+<td>B/A(7)</td>
+<td>N/B(7)</td>
+<td rowspan="48">± 3 mm</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordinaria alta (1).</td>
-<td class="cuerpo_tabla_centro">340 × 220</td>
-<td class="cuerpo_tabla_centro">330 × 210</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">-</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro">40</td>
-<td class="cuerpo_tabla_centro">87,5</td>
-<td class="cuerpo_tabla_centro">87,5</td>
-<td class="cuerpo_tabla_centro">B/A(7)</td>
-<td class="cuerpo_tabla_centro">N/B(7)</td>
+<td>Ordinaria alta (1).</td>
+<td>340 × 220</td>
+<td>330 × 210</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>10</td>
+<td>-</td>
+<td>15</td>
+<td>26</td>
+<td>80</td>
+<td>40</td>
+<td>87,5</td>
+<td>87,5</td>
+<td>B/A(7)</td>
+<td>N/B(7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordinaria larga delantera (2).</td>
-<td class="cuerpo_tabla_centro">340 × 110</td>
-<td class="cuerpo_tabla_centro">330 × 100</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">24</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">B/A(7)</td>
-<td class="cuerpo_tabla_centro">N/B(7)</td>
+<td>Ordinaria larga delantera (2).</td>
+<td>340 × 110</td>
+<td>330 × 100</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>8</td>
+<td>24</td>
+<td>20</td>
+<td>–</td>
+<td>48</td>
+<td>8</td>
+<td>–</td>
+<td>–</td>
+<td>B/A(7)</td>
+<td>N/B(7)</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Motocicletas ordinaria (4).</td>
-<td class="cuerpo_tabla_centro">220 × 160</td>
-<td class="cuerpo_tabla_centro">210 × 150</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Motocicletas ordinaria (4).</td>
+<td>220 × 160</td>
+<td>210 × 150</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>10</td>
+<td>–</td>
+<td>10</td>
+<td>10</td>
+<td>50</td>
+<td>10</td>
+<td>50</td>
+<td>50</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Motocicletas corta (5).</td>
-<td class="cuerpo_tabla_centro" rowspan="2">132 x 96</td>
-<td class="cuerpo_tabla_centro" rowspan="2">122 × 86</td>
-<td class="cuerpo_tabla_centro" rowspan="2">13</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3,5</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">7</td>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_centro" rowspan="2">40</td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro" rowspan="2">31,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">31,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_centro" rowspan="2">N</td>
+<td rowspan="2">Motocicletas corta (5).</td>
+<td rowspan="2">132 x 96</td>
+<td rowspan="2">122 × 86</td>
+<td rowspan="2">13</td>
+<td rowspan="2">30</td>
+<td rowspan="2">3,5</td>
+<td>6</td>
+<td rowspan="2">–</td>
+<td rowspan="2">7</td>
+<td rowspan="2">12</td>
+<td rowspan="2">40</td>
+<td rowspan="2">8</td>
+<td rowspan="2">31,5</td>
+<td rowspan="2">31,5</td>
+<td rowspan="2">B</td>
+<td rowspan="2">N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordinaria larga con siglas de provincia (1) *.</td>
-<td class="cuerpo_tabla_centro">520 × 110</td>
-<td class="cuerpo_tabla_centro">510 × 100</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">48</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Ordinaria larga con siglas de provincia (1) *.</td>
+<td>520 × 110</td>
+<td>510 × 100</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>8</td>
+<td>27</td>
+<td>11,5</td>
+<td>–</td>
+<td>48</td>
+<td>8</td>
+<td>–</td>
+<td>–</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordinaria alta con siglas de provincia (1) (3) *.</td>
-<td class="cuerpo_tabla_centro">340 × 220</td>
-<td class="cuerpo_tabla_centro">330 × 210</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Ordinaria alta con siglas de provincia (1) (3) *.</td>
+<td>340 × 220</td>
+<td>330 × 210</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>10</td>
+<td>50</td>
+<td>15</td>
+<td>26</td>
+<td>60</td>
+<td>20</td>
+<td>60</td>
+<td>60</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ordinaria larga delantera con siglas de provincia (2) *.</td>
-<td class="cuerpo_tabla_centro">340 × 110</td>
-<td class="cuerpo_tabla_centro">330 × 100</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">44</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Ordinaria larga delantera con siglas de provincia (2) *.</td>
+<td>340 × 110</td>
+<td>330 × 100</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>20</td>
+<td>–</td>
+<td>44</td>
+<td>4</td>
+<td>–</td>
+<td>–</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Motocicletas ordinaria con siglas de provincia (3) (4) *.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">220 × 160</td>
-<td class="cuerpo_tabla_centro" rowspan="2">210 × 150</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">60</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro" rowspan="2">18</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">48</td>
-<td class="cuerpo_tabla_centro" rowspan="2">8</td>
-<td class="cuerpo_tabla_centro" rowspan="2">50</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_centro" rowspan="2">N</td>
+<td rowspan="2">Motocicletas ordinaria con siglas de provincia (3) (4) *.</td>
+<td rowspan="2">220 × 160</td>
+<td rowspan="2">210 × 150</td>
+<td rowspan="2">30</td>
+<td rowspan="2">60</td>
+<td rowspan="2">6</td>
+<td>8</td>
+<td rowspan="2">18</td>
+<td rowspan="2">10</td>
+<td rowspan="2">10</td>
+<td rowspan="2">48</td>
+<td rowspan="2">8</td>
+<td rowspan="2">50</td>
+<td rowspan="2">10</td>
+<td rowspan="2">B</td>
+<td rowspan="2">N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículos especiales larga.</td>
-<td class="cuerpo_tabla_centro">340 x110</td>
-<td class="cuerpo_tabla_centro">330 x 100</td>
-<td class="cuerpo_tabla_centro"> 30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">R</td>
+<td>Vehículos especiales larga.</td>
+<td>340 x110</td>
+<td>330 x 100</td>
+<td> 30</td>
+<td>60</td>
+<td>6</td>
+<td>8</td>
+<td>15</td>
+<td>20</td>
+<td>–</td>
+<td>10</td>
+<td>10</td>
+<td>–</td>
+<td>–</td>
+<td>B</td>
+<td>R</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Vehículos especiales alta.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">280 × 200</td>
-<td class="cuerpo_tabla_centro" rowspan="2">270 × 190</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">60</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">40</td>
-<td class="cuerpo_tabla_centro" rowspan="2">20</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">25</td>
-<td class="cuerpo_tabla_centro" rowspan="2">25</td>
-<td class="cuerpo_tabla_centro" rowspan="2">75</td>
-<td class="cuerpo_tabla_centro" rowspan="2">75</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_centro" rowspan="2">R</td>
+<td rowspan="2">Vehículos especiales alta.</td>
+<td rowspan="2">280 × 200</td>
+<td rowspan="2">270 × 190</td>
+<td rowspan="2">30</td>
+<td rowspan="2">60</td>
+<td rowspan="2">6</td>
+<td>10</td>
+<td rowspan="2">40</td>
+<td rowspan="2">20</td>
+<td rowspan="2">30</td>
+<td rowspan="2">25</td>
+<td rowspan="2">25</td>
+<td rowspan="2">75</td>
+<td rowspan="2">75</td>
+<td rowspan="2">B</td>
+<td rowspan="2">R</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">15</td>
+<td>15</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Remolques y semirremolques larga.</td>
-<td class="cuerpo_tabla_centro">520 × 110</td>
-<td class="cuerpo_tabla_centro">510 × 100</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Remolques y semirremolques larga.</td>
+<td>520 × 110</td>
+<td>510 × 100</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>12</td>
+<td>30</td>
+<td>11,5</td>
+<td>–</td>
+<td>15</td>
+<td>15</td>
+<td>–</td>
+<td>–</td>
+<td>R</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Remolques y semirremolques alta.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">340 × 220</td>
-<td class="cuerpo_tabla_centro" rowspan="2">330 × 210</td>
-<td class="cuerpo_tabla_centro" rowspan="2">45</td>
-<td class="cuerpo_tabla_centro" rowspan="2">77</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">9</td>
-<td class="cuerpo_tabla_centro" rowspan="2">40</td>
-<td class="cuerpo_tabla_centro" rowspan="2">15</td>
-<td class="cuerpo_tabla_centro" rowspan="2">26</td>
-<td class="cuerpo_tabla_centro" rowspan="2">19</td>
-<td class="cuerpo_tabla_centro" rowspan="2">19</td>
-<td class="cuerpo_tabla_centro" rowspan="2">87,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">87,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">R</td>
-<td class="cuerpo_tabla_centro" rowspan="2">N</td>
+<td rowspan="2">Remolques y semirremolques alta.</td>
+<td rowspan="2">340 × 220</td>
+<td rowspan="2">330 × 210</td>
+<td rowspan="2">45</td>
+<td rowspan="2">77</td>
+<td rowspan="2">10</td>
+<td>9</td>
+<td rowspan="2">40</td>
+<td rowspan="2">15</td>
+<td rowspan="2">26</td>
+<td rowspan="2">19</td>
+<td rowspan="2">19</td>
+<td rowspan="2">87,5</td>
+<td rowspan="2">87,5</td>
+<td rowspan="2">R</td>
+<td rowspan="2">N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">10</td>
+<td>10</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclomotores alta.</td>
-<td class="cuerpo_tabla_centro">100 × 168</td>
-<td class="cuerpo_tabla_centro">90 x 158</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">15,5</td>
-<td class="cuerpo_tabla_centro">15,5</td>
-<td class="cuerpo_tabla_centro">AM</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Ciclomotores alta.</td>
+<td>100 × 168</td>
+<td>90 x 158</td>
+<td>13</td>
+<td>30</td>
+<td>3,5</td>
+<td>10</td>
+<td>10</td>
+<td>22</td>
+<td>12</td>
+<td>27</td>
+<td>27</td>
+<td>15,5</td>
+<td>15,5</td>
+<td>AM</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Ciclomotores larga.</td>
-<td class="cuerpo_tabla_centro">140 x 120</td>
-<td class="cuerpo_tabla_centro">130 x 110</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">12,5</td>
-<td class="cuerpo_tabla_centro">35,5</td>
-<td class="cuerpo_tabla_centro">35,5</td>
-<td class="cuerpo_tabla_centro">AM</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Ciclomotores larga.</td>
+<td>140 x 120</td>
+<td>130 x 110</td>
+<td>13</td>
+<td>30</td>
+<td>3,5</td>
+<td>10</td>
+<td>10</td>
+<td>19</td>
+<td>12</td>
+<td>12,5</td>
+<td>12,5</td>
+<td>35,5</td>
+<td>35,5</td>
+<td>AM</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuatriclos ligeros (6).</td>
-<td class="cuerpo_tabla_centro">210 x 85</td>
-<td class="cuerpo_tabla_centro">200 × 75</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">22,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">14,5</td>
-<td class="cuerpo_tabla_centro">14,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">AM</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Cuatriclos ligeros (6).</td>
+<td>210 x 85</td>
+<td>200 × 75</td>
+<td>13</td>
+<td>30</td>
+<td>3,5</td>
+<td>7</td>
+<td>16</td>
+<td>22,5</td>
+<td>–</td>
+<td>14,5</td>
+<td>14,5</td>
+<td>–</td>
+<td>–</td>
+<td>AM</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Cuatriciclos ligeros larga.</td>
-<td class="cuerpo_tabla_centro">520 x 110</td>
-<td class="cuerpo_tabla_centro">510 x 100</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">AM</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Cuatriciclos ligeros larga.</td>
+<td>520 x 110</td>
+<td>510 x 100</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>12</td>
+<td>30</td>
+<td>11,5</td>
+<td>–</td>
+<td>15</td>
+<td>15</td>
+<td>–</td>
+<td>–</td>
+<td>AM</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo histórico ciclomotores.</td>
-<td class="cuerpo_tabla_centro">100 x 168</td>
-<td class="cuerpo_tabla_centro">90 x 158</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">15,5</td>
-<td class="cuerpo_tabla_centro">15,5</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Vehículo histórico ciclomotores.</td>
+<td>100 x 168</td>
+<td>90 x 158</td>
+<td>13</td>
+<td>30</td>
+<td>3,5</td>
+<td>10</td>
+<td>10</td>
+<td>22</td>
+<td>12</td>
+<td>27</td>
+<td>27</td>
+<td>15,5</td>
+<td>15,5</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Cuerpo Diplomático.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">520 × 110</td>
-<td class="cuerpo_tabla_centro" rowspan="2">510 × 100</td>
-<td class="cuerpo_tabla_centro" rowspan="2">45</td>
-<td class="cuerpo_tabla_centro" rowspan="2">77</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">14</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro" rowspan="2">11,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">R</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
+<td rowspan="2">Cuerpo Diplomático.</td>
+<td rowspan="2">520 × 110</td>
+<td rowspan="2">510 × 100</td>
+<td rowspan="2">45</td>
+<td rowspan="2">77</td>
+<td rowspan="2">10</td>
+<td rowspan="2">14</td>
+<td>80</td>
+<td rowspan="2">11,5</td>
+<td rowspan="2">–</td>
+<td rowspan="2">35</td>
+<td rowspan="2">35</td>
+<td rowspan="2">–</td>
+<td rowspan="2">–</td>
+<td rowspan="2">R</td>
+<td rowspan="2">B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
+<td>48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Organizaciones internacionales.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">520 × 110</td>
-<td class="cuerpo_tabla_centro" rowspan="2">510 × 100</td>
-<td class="cuerpo_tabla_centro" rowspan="2">45</td>
-<td class="cuerpo_tabla_centro" rowspan="2">77</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">14</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro" rowspan="2">11,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">AZ</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
+<td rowspan="2">Organizaciones internacionales.</td>
+<td rowspan="2">520 × 110</td>
+<td rowspan="2">510 × 100</td>
+<td rowspan="2">45</td>
+<td rowspan="2">77</td>
+<td rowspan="2">10</td>
+<td rowspan="2">14</td>
+<td>80</td>
+<td rowspan="2">11,5</td>
+<td rowspan="2">–</td>
+<td rowspan="2">35</td>
+<td rowspan="2">35</td>
+<td rowspan="2">–</td>
+<td rowspan="2">–</td>
+<td rowspan="2">AZ</td>
+<td rowspan="2">B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
+<td>48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Oficina consular.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">520 × 110</td>
-<td class="cuerpo_tabla_centro" rowspan="2">510 × 100</td>
-<td class="cuerpo_tabla_centro" rowspan="2">45</td>
-<td class="cuerpo_tabla_centro" rowspan="2">77</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">14</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro" rowspan="2">11,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">V</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
+<td rowspan="2">Oficina consular.</td>
+<td rowspan="2">520 × 110</td>
+<td rowspan="2">510 × 100</td>
+<td rowspan="2">45</td>
+<td rowspan="2">77</td>
+<td rowspan="2">10</td>
+<td rowspan="2">14</td>
+<td>80</td>
+<td rowspan="2">11,5</td>
+<td rowspan="2">–</td>
+<td rowspan="2">35</td>
+<td rowspan="2">35</td>
+<td rowspan="2">–</td>
+<td rowspan="2">–</td>
+<td rowspan="2">V</td>
+<td rowspan="2">B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
+<td>48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Personal técnico-administrativo.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">520 × 110</td>
-<td class="cuerpo_tabla_centro" rowspan="2">510 × 100</td>
-<td class="cuerpo_tabla_centro" rowspan="2">45</td>
-<td class="cuerpo_tabla_centro" rowspan="2">77</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">14</td>
-<td class="cuerpo_tabla_centro">80</td>
-<td class="cuerpo_tabla_centro" rowspan="2">11,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">35</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">AM</td>
-<td class="cuerpo_tabla_centro" rowspan="2">N</td>
+<td rowspan="2">Personal técnico-administrativo.</td>
+<td rowspan="2">520 × 110</td>
+<td rowspan="2">510 × 100</td>
+<td rowspan="2">45</td>
+<td rowspan="2">77</td>
+<td rowspan="2">10</td>
+<td rowspan="2">14</td>
+<td>80</td>
+<td rowspan="2">11,5</td>
+<td rowspan="2">–</td>
+<td rowspan="2">35</td>
+<td rowspan="2">35</td>
+<td rowspan="2">–</td>
+<td rowspan="2">–</td>
+<td rowspan="2">AM</td>
+<td rowspan="2">N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">48</td>
+<td>48</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Turística larga.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">520 × 110</td>
-<td class="cuerpo_tabla_centro" rowspan="2">510 × 100</td>
-<td class="cuerpo_tabla_centro" rowspan="2">45</td>
-<td class="cuerpo_tabla_centro" rowspan="2">77</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro" rowspan="2">11,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">40</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
-<td class="cuerpo_tabla_centro" rowspan="2">N</td>
+<td rowspan="2">Turística larga.</td>
+<td rowspan="2">520 × 110</td>
+<td rowspan="2">510 × 100</td>
+<td rowspan="2">45</td>
+<td rowspan="2">77</td>
+<td rowspan="2">10</td>
+<td rowspan="2">10</td>
+<td>20</td>
+<td rowspan="2">11,5</td>
+<td rowspan="2">–</td>
+<td rowspan="2">10</td>
+<td rowspan="2">40</td>
+<td rowspan="2">–</td>
+<td rowspan="2">–</td>
+<td rowspan="2">B</td>
+<td rowspan="2">N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">30</td>
+<td>30</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Turística alta.</td>
-<td class="cuerpo_tabla_centro">340 × 220</td>
-<td class="cuerpo_tabla_centro">330 × 210</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro">105</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Turística alta.</td>
+<td>340 × 220</td>
+<td>330 × 210</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>10</td>
+<td>20</td>
+<td>15</td>
+<td>26</td>
+<td>10</td>
+<td>45</td>
+<td>70</td>
+<td>105</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo histórico larga.</td>
-<td class="cuerpo_tabla_centro">520 × 110</td>
-<td class="cuerpo_tabla_centro">510 × 100</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">35</td>
-<td class="cuerpo_tabla_centro">11,5</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Vehículo histórico larga.</td>
+<td>520 × 110</td>
+<td>510 × 100</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>10</td>
+<td>35</td>
+<td>11,5</td>
+<td>–</td>
+<td>15</td>
+<td>15</td>
+<td>–</td>
+<td>–</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo histórico alta.</td>
-<td class="cuerpo_tabla_centro">340 × 220</td>
-<td class="cuerpo_tabla_centro">330 × 210</td>
-<td class="cuerpo_tabla_centro">45</td>
-<td class="cuerpo_tabla_centro">77</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">26</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">84,5</td>
-<td class="cuerpo_tabla_centro">84,5</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Vehículo histórico alta.</td>
+<td>340 × 220</td>
+<td>330 × 210</td>
+<td>45</td>
+<td>77</td>
+<td>10</td>
+<td>13</td>
+<td>36</td>
+<td>15</td>
+<td>26</td>
+<td>15</td>
+<td>15</td>
+<td>84,5</td>
+<td>84,5</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Vehículo histórico motocicletas.</td>
-<td class="cuerpo_tabla_centro">220 × 160</td>
-<td class="cuerpo_tabla_centro">210 × 150</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">14</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">B</td>
-<td class="cuerpo_tabla_centro">N</td>
+<td>Vehículo histórico motocicletas.</td>
+<td>220 × 160</td>
+<td>210 × 150</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>10</td>
+<td>14</td>
+<td>10</td>
+<td>10</td>
+<td>8</td>
+<td>8</td>
+<td>50</td>
+<td>50</td>
+<td>B</td>
+<td>N</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Temporal particular larga.</td>
-<td class="cuerpo_tabla_centro" rowspan="2">520 × 110</td>
-<td class="cuerpo_tabla_centro" rowspan="2">510 × 100</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">60</td>
-<td class="cuerpo_tabla_centro" rowspan="2">6</td>
-<td class="cuerpo_tabla_centro" rowspan="2">16</td>
-<td class="cuerpo_tabla_centro">70</td>
-<td class="cuerpo_tabla_centro" rowspan="2">20</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">–</td>
-<td class="cuerpo_tabla_centro" rowspan="2">V</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
+<td rowspan="2">Temporal particular larga.</td>
+<td rowspan="2">520 × 110</td>
+<td rowspan="2">510 × 100</td>
+<td rowspan="2">30</td>
+<td rowspan="2">60</td>
+<td rowspan="2">6</td>
+<td rowspan="2">16</td>
+<td>70</td>
+<td rowspan="2">20</td>
+<td rowspan="2">–</td>
+<td rowspan="2">30</td>
+<td rowspan="2">30</td>
+<td rowspan="2">–</td>
+<td rowspan="2">–</td>
+<td rowspan="2">V</td>
+<td rowspan="2">B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">60</td>
+<td>60</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporal particular alta.</td>
-<td class="cuerpo_tabla_centro">280 × 200</td>
-<td class="cuerpo_tabla_centro">270 × 190</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">36</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">18</td>
-<td class="cuerpo_tabla_centro">74</td>
-<td class="cuerpo_tabla_centro">74</td>
-<td class="cuerpo_tabla_centro">V</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>Temporal particular alta.</td>
+<td>280 × 200</td>
+<td>270 × 190</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>16</td>
+<td>36</td>
+<td>20</td>
+<td>30</td>
+<td>18</td>
+<td>18</td>
+<td>74</td>
+<td>74</td>
+<td>V</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporal particular ciclomotores.</td>
-<td class="cuerpo_tabla_centro">100 × 168</td>
-<td class="cuerpo_tabla_centro">90 × 158</td>
-<td class="cuerpo_tabla_centro">13</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">3,5</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">10</td>
-<td class="cuerpo_tabla_centro">22</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">27</td>
-<td class="cuerpo_tabla_centro">15,5</td>
-<td class="cuerpo_tabla_centro">15,5</td>
-<td class="cuerpo_tabla_centro">V</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>Temporal particular ciclomotores.</td>
+<td>100 × 168</td>
+<td>90 × 158</td>
+<td>13</td>
+<td>30</td>
+<td>3,5</td>
+<td>10</td>
+<td>10</td>
+<td>22</td>
+<td>12</td>
+<td>27</td>
+<td>27</td>
+<td>15,5</td>
+<td>15,5</td>
+<td>V</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporal empresas larga (vehículos no matriculados).</td>
-<td class="cuerpo_tabla_centro">520 × 110</td>
-<td class="cuerpo_tabla_centro">510 × 100</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">57,5</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>Temporal empresas larga (vehículos no matriculados).</td>
+<td>520 × 110</td>
+<td>510 × 100</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>16</td>
+<td>57,5</td>
+<td>20</td>
+<td>–</td>
+<td>20</td>
+<td>55</td>
+<td>–</td>
+<td>–</td>
+<td>R</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporal empresas larga (vehículos matriculados).</td>
-<td class="cuerpo_tabla_centro">520 × 110</td>
-<td class="cuerpo_tabla_centro">510 × 100</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">16</td>
-<td class="cuerpo_tabla_centro">57,5</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">55</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">–</td>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>Temporal empresas larga (vehículos matriculados).</td>
+<td>520 × 110</td>
+<td>510 × 100</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>16</td>
+<td>57,5</td>
+<td>20</td>
+<td>–</td>
+<td>20</td>
+<td>55</td>
+<td>–</td>
+<td>–</td>
+<td>R</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporal empresas alta (vehículos no matriculados).</td>
-<td class="cuerpo_tabla_centro">280 × 200</td>
-<td class="cuerpo_tabla_centro">270 × 190</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">60,5</td>
-<td class="cuerpo_tabla_centro">95,5</td>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>Temporal empresas alta (vehículos no matriculados).</td>
+<td>280 × 200</td>
+<td>270 × 190</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>12</td>
+<td>19</td>
+<td>20</td>
+<td>30</td>
+<td>15</td>
+<td>50</td>
+<td>60,5</td>
+<td>95,5</td>
+<td>R</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Temporal empresas alta (vehículos matriculados).</td>
-<td class="cuerpo_tabla_centro">280 × 200</td>
-<td class="cuerpo_tabla_centro">270 × 190</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">60</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro">19</td>
-<td class="cuerpo_tabla_centro">20</td>
-<td class="cuerpo_tabla_centro">30</td>
-<td class="cuerpo_tabla_centro">15</td>
-<td class="cuerpo_tabla_centro">50</td>
-<td class="cuerpo_tabla_centro">60,5</td>
-<td class="cuerpo_tabla_centro">95,5</td>
-<td class="cuerpo_tabla_centro">R</td>
-<td class="cuerpo_tabla_centro">B</td>
+<td>Temporal empresas alta (vehículos matriculados).</td>
+<td>280 × 200</td>
+<td>270 × 190</td>
+<td>30</td>
+<td>60</td>
+<td>6</td>
+<td>12</td>
+<td>19</td>
+<td>20</td>
+<td>30</td>
+<td>15</td>
+<td>50</td>
+<td>60,5</td>
+<td>95,5</td>
+<td>R</td>
+<td>B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Temporal empresas ciclomotores (vehículos no matriculados).</td>
-<td class="cuerpo_tabla_centro" rowspan="2">100 × 168</td>
-<td class="cuerpo_tabla_centro" rowspan="2">90 × 158</td>
-<td class="cuerpo_tabla_centro" rowspan="2">13</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_centro" rowspan="2">27</td>
-<td class="cuerpo_tabla_centro" rowspan="2">27</td>
-<td class="cuerpo_tabla_centro" rowspan="2">15,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">15,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">R</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
+<td rowspan="2">Temporal empresas ciclomotores (vehículos no matriculados).</td>
+<td rowspan="2">100 × 168</td>
+<td rowspan="2">90 × 158</td>
+<td rowspan="2">13</td>
+<td rowspan="2">30</td>
+<td rowspan="2">3,5</td>
+<td rowspan="2">10</td>
+<td rowspan="2">10</td>
+<td>12</td>
+<td rowspan="2">12</td>
+<td rowspan="2">27</td>
+<td rowspan="2">27</td>
+<td rowspan="2">15,5</td>
+<td rowspan="2">15,5</td>
+<td rowspan="2">R</td>
+<td rowspan="2">B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
+<td>32</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">Temporal empresas ciclomotores (vehículos matriculados).</td>
-<td class="cuerpo_tabla_centro" rowspan="2">100 × 168</td>
-<td class="cuerpo_tabla_centro" rowspan="2">90 × 158</td>
-<td class="cuerpo_tabla_centro" rowspan="2">13</td>
-<td class="cuerpo_tabla_centro" rowspan="2">30</td>
-<td class="cuerpo_tabla_centro" rowspan="2">3,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro" rowspan="2">10</td>
-<td class="cuerpo_tabla_centro">12</td>
-<td class="cuerpo_tabla_centro" rowspan="2">12</td>
-<td class="cuerpo_tabla_centro" rowspan="2">27</td>
-<td class="cuerpo_tabla_centro" rowspan="2">27</td>
-<td class="cuerpo_tabla_centro" rowspan="2">15,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">15,5</td>
-<td class="cuerpo_tabla_centro" rowspan="2">R</td>
-<td class="cuerpo_tabla_centro" rowspan="2">B</td>
+<td rowspan="2">Temporal empresas ciclomotores (vehículos matriculados).</td>
+<td rowspan="2">100 × 168</td>
+<td rowspan="2">90 × 158</td>
+<td rowspan="2">13</td>
+<td rowspan="2">30</td>
+<td rowspan="2">3,5</td>
+<td rowspan="2">10</td>
+<td rowspan="2">10</td>
+<td>12</td>
+<td rowspan="2">12</td>
+<td rowspan="2">27</td>
+<td rowspan="2">27</td>
+<td rowspan="2">15,5</td>
+<td rowspan="2">15,5</td>
+<td rowspan="2">R</td>
+<td rowspan="2">B</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">32</td>
+<td>32</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="17">
-<p class="cita">(1) Para automóviles, excepto motocicletas, vehículos de tres ruedas y cuatriciclos.</p>
-<p class="cita">(2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga y para vehículos de tres ruedas y cuatriciclos.</p>
-<p class="cita">(3) Cuando existan dos grupos de caracteres alfabéticos contiguos, y uno de ellos conste de un solo carácter, se procederá a repartir los espacios sobrantes entre ambos lados.</p>
-<p class="cita">(4) Esta placa se utilizará también para los vehículos de tres ruedas, cuatriciclos y vehículos de categoría M-1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga delantera.</p>
-<p class="cita">(5) Para motocicletas de dos ruedas de las especialidades de trial y enduro.</p>
-<p class="cita">(6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la placa de ciclomotores.</p>
-<p class="cita">(7) El fondo de las placas será de color blanco y los caracteres, de color negro mate, salvo las placas de matrícula traseras de los vehículos destinados al servicio de taxi y de alquiler con conductor de hasta nueve plazas, en que el fondo será de color azul y los caracteres, de color blanco mate.</p>
-<p class="cita">Cuando se indican dos cantidades en los apartados “Separación entre caracteres” y “Separación a bordes horizontales”, se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.</p>
-<p class="cita">Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres.</p>
-<p class="cita">* Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.</p>
+<p>(1) Para automóviles, excepto motocicletas, vehículos de tres ruedas y cuatriciclos.</p>
+<p>(2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga y para vehículos de tres ruedas y cuatriciclos.</p>
+<p>(3) Cuando existan dos grupos de caracteres alfabéticos contiguos, y uno de ellos conste de un solo carácter, se procederá a repartir los espacios sobrantes entre ambos lados.</p>
+<p>(4) Esta placa se utilizará también para los vehículos de tres ruedas, cuatriciclos y vehículos de categoría M-1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga delantera.</p>
+<p>(5) Para motocicletas de dos ruedas de las especialidades de trial y enduro.</p>
+<p>(6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la placa de ciclomotores.</p>
+<p>(7) El fondo de las placas será de color blanco y los caracteres, de color negro mate, salvo las placas de matrícula traseras de los vehículos destinados al servicio de taxi y de alquiler con conductor de hasta nueve plazas, en que el fondo será de color azul y los caracteres, de color blanco mate.</p>
+<p>Cuando se indican dos cantidades en los apartados “Separación entre caracteres” y “Separación a bordes horizontales”, se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.</p>
+<p>Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres.</p>
+<p>* Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.</p>
 </td>
 </tr>
 </tfoot>
@@ -11520,8 +10798,6 @@ Los restantes remolques, semirremolques, maquinaria agrícola remolcada y de obr
 
 ![6](https://www.boe.es/datos/imagenes/disp/2018/184/10856_5944.png)
 
-> Téngase en cuenta que, para la adaptación a esta última modificación efectuada por el art. único.3.a) de la Orden PCI/810/2018, de 27 de julio, [Ref. BOE-A-2018-10856](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10856), los titulares de los vehículos matriculados con anterioridad al 1 de agosto de 2018 dispondrán del plazo de un año, según se indica en la disposición transitoria única.2 de la citada Orden.
-
 ![Imagen: img/disp/2000/223/16805_024.png](https://www.boe.es/datos/imagenes/disp/2000/223/16805_024.png)
 
 ![Imagen: img/disp/2010/020/01011_011.png](https://www.boe.es/datos/imagenes/disp/2010/20/01011_011.png)
@@ -11552,328 +10828,328 @@ Los restantes remolques, semirremolques, maquinaria agrícola remolcada y de obr
 
 ## Especificaciones de las placas
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">TIPO</p>
-<p class="cabeza_tabla">PLACA</p>
-<p class="cabeza_tabla">MATRÍCULA</p>
+<p>TIPO</p>
+<p>PLACA</p>
+<p>MATRÍCULA</p>
 </td>
 <td>
-<p class="cabeza_tabla">CARACTERÍSTICAS</p>
-<p class="cabeza_tabla">ESPECIALES</p>
+<p>CARACTERÍSTICAS</p>
+<p>ESPECIALES</p>
 </td>
 <td>
-<p class="cabeza_tabla">TOLERANCIA</p>
-<p class="cabeza_tabla">EN LA</p>
-<p class="cabeza_tabla">HOMOLOGACIÓN</p>
+<p>TOLERANCIA</p>
+<p>EN LA</p>
+<p>HOMOLOGACIÓN</p>
 </td>
 <td>
-<p class="cabeza_tabla">TOLERANCIA</p>
-<p class="cabeza_tabla">EN LA</p>
-<p class="cabeza_tabla">FABRICACIÓN</p>
+<p>TOLERANCIA</p>
+<p>EN LA</p>
+<p>FABRICACIÓN</p>
 </td>
 <td>
-<p class="cabeza_tabla">REBORDE</p>
-<p class="cabeza_tabla">DE LA PLACA</p>
-<p class="cabeza_tabla">EN TODO</p>
-<p class="cabeza_tabla">SU CONTORNO</p>
+<p>REBORDE</p>
+<p>DE LA PLACA</p>
+<p>EN TODO</p>
+<p>SU CONTORNO</p>
 </td>
 <td>
-<p class="cabeza_tabla">RADIOS</p>
-<p class="cabeza_tabla">DE LA</p>
-<p class="cabeza_tabla">PLACA</p>
+<p>RADIOS</p>
+<p>DE LA</p>
+<p>PLACA</p>
 </td>
 <td>
-<p class="cabeza_tabla">CARACTERES</p>
+<p>CARACTERES</p>
 </td>
 <td>
-<p class="cabeza_tabla">NÚMERO</p>
-<p class="cabeza_tabla">DE</p>
-<p class="cabeza_tabla">MANIPULADOR</p>
+<p>NÚMERO</p>
+<p>DE</p>
+<p>MANIPULADOR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">ORDINARIA LARGA</p>
+<p>ORDINARIA LARGA</p>
 </td>
 <td rowspan="15">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">±0,5 mm en la placa y en los caracteres<br> Grueso del trazo ± 0,1 mm</p>
-<p class="cuerpo_tabla_izq"> </p>
+<p>±0,5 mm en la placa y en los caracteres<br> Grueso del trazo ± 0,1 mm</p>
+<p> </p>
 </td>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">1 mm en la placa y en los caracteres<br> ± 0,2 mm grueso del trazo</p>
+<p>1 mm en la placa y en los caracteres<br> ± 0,2 mm grueso del trazo</p>
 </td>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">Reborde plano sin cubrir ni pintar con una anchura de 5 mm en todo su contorno y una embutición<br> de 0,8 ± 0,1 mm</p>
+<p>Reborde plano sin cubrir ni pintar con una anchura de 5 mm en todo su contorno y una embutición<br> de 0,8 ± 0,1 mm</p>
 </td>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">INTERIOR: 6 mm ± 1 mm<br> EXTERIOR: 10 mm ± 1 mm</p>
+<p>INTERIOR: 6 mm ± 1 mm<br> EXTERIOR: 10 mm ± 1 mm</p>
 </td>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">Embutición en relieve con una altura<br> sobre el fondo<br> de 0,9 mm +0,3/–0,2</p>
+<p>Embutición en relieve con una altura<br> sobre el fondo<br> de 0,9 mm +0,3/–0,2</p>
 </td>
 <td rowspan="20">
-<p class="cuerpo_tabla_izq">Se troquelará en el borde izquierdo<br> de la placa dentro<br> del bordón,<br> en un rectángulo<br> de 35 x 5 mm</p>
+<p>Se troquelará en el borde izquierdo<br> de la placa dentro<br> del bordón,<br> en un rectángulo<br> de 35 x 5 mm</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">ORDINARIA ALTA</p>
+<p>ORDINARIA ALTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">ORDINARIA LARGA DELANTERA</p>
+<p>ORDINARIA LARGA DELANTERA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MOTOCICLETAS ORDINARIA</p>
+<p>MOTOCICLETAS ORDINARIA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MOTOCICLETA CORTA</p>
+<p>MOTOCICLETA CORTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VEHÍCULOS ESPECIALES LARGA</p>
+<p>VEHÍCULOS ESPECIALES LARGA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VEHÍCULOS ESPECIALES ALTA</p>
+<p>VEHÍCULOS ESPECIALES ALTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">REMOLQUES Y SEMI-REMOLQUES LARGA</p>
+<p>REMOLQUES Y SEMI-REMOLQUES LARGA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">REMOLQUES Y SEMI-REMOLQUES ALTA</p>
+<p>REMOLQUES Y SEMI-REMOLQUES ALTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CICLOMOTORES</p>
+<p>CICLOMOTORES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CUATRICICLOS LIGEROS</p>
+<p>CUATRICICLOS LIGEROS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">CUERPO DIPLOMÁTICO</p>
+<p>CUERPO DIPLOMÁTICO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">ORGANIZACIONES INTERNACIONALES</p>
+<p>ORGANIZACIONES INTERNACIONALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">OFICINA CONSULAR</p>
+<p>OFICINA CONSULAR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">PERSONAL TÉCNICO ADMINISTRATIVO</p>
+<p>PERSONAL TÉCNICO ADMINISTRATIVO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TURÍSTICA LARGA</p>
+<p>TURÍSTICA LARGA</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>A</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TURÍSTICA ALTA</p>
+<p>TURÍSTICA ALTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VEHÍCULO HISTÓRICO LARGA</p>
+<p>VEHÍCULO HISTÓRICO LARGA</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VEHÍCULO HISTÓRICO ALTA</p>
+<p>VEHÍCULO HISTÓRICO ALTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">VEHÍCULO HISTÓRICO MOTOCICLETAS</p>
+<p>VEHÍCULO HISTÓRICO MOTOCICLETAS</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table border="0" class="tabla_ancha">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">TIPO</p>
-<p class="cabeza_tabla">PLACA</p>
-<p class="cabeza_tabla">MATRÍCULA</p>
+<p>TIPO</p>
+<p>PLACA</p>
+<p>MATRÍCULA</p>
 </td>
 <td>
-<p class="cabeza_tabla">CARACTERÍSTICAS</p>
-<p class="cabeza_tabla">ESPECIALES</p>
+<p>CARACTERÍSTICAS</p>
+<p>ESPECIALES</p>
 </td>
 <td>
-<p class="cabeza_tabla">TOLERANCIA</p>
-<p class="cabeza_tabla">EN LA</p>
-<p class="cabeza_tabla">HOMOLOGACIÓN</p>
+<p>TOLERANCIA</p>
+<p>EN LA</p>
+<p>HOMOLOGACIÓN</p>
 </td>
 <td>
-<p class="cabeza_tabla">TOLERANCIA</p>
-<p class="cabeza_tabla">EN LA</p>
-<p class="cabeza_tabla">FABRICACIÓN</p>
+<p>TOLERANCIA</p>
+<p>EN LA</p>
+<p>FABRICACIÓN</p>
 </td>
 <td>
-<p class="cabeza_tabla">REBORDE</p>
-<p class="cabeza_tabla">DE LA PLACA</p>
-<p class="cabeza_tabla">EN TODO</p>
-<p class="cabeza_tabla">SU CONTORNO</p>
+<p>REBORDE</p>
+<p>DE LA PLACA</p>
+<p>EN TODO</p>
+<p>SU CONTORNO</p>
 </td>
 <td>
-<p class="cabeza_tabla">RADIOS</p>
-<p class="cabeza_tabla">DE LA</p>
-<p class="cabeza_tabla">PLACA</p>
+<p>RADIOS</p>
+<p>DE LA</p>
+<p>PLACA</p>
 </td>
 <td>
-<p class="cabeza_tabla">CARACTERES</p>
+<p>CARACTERES</p>
 </td>
 <td>
-<p class="cabeza_tabla">NÚMERO</p>
-<p class="cabeza_tabla">DE</p>
-<p class="cabeza_tabla">MANIPULADOR</p>
+<p>NÚMERO</p>
+<p>DE</p>
+<p>MANIPULADOR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL PARTICULAR LARGA</p>
+<p>TEMPORAL PARTICULAR LARGA</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">±0,5 mm en la placa y en los caracteres<br> Grueso del trazo ± 0,1 mm</p>
-<p class="cuerpo_tabla_izq"> </p>
+<p>±0,5 mm en la placa y en los caracteres<br> Grueso del trazo ± 0,1 mm</p>
+<p> </p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">1 mm en la placa y en los caracteres<br> ± 0,2 mm grueso del trazo</p>
+<p>1 mm en la placa y en los caracteres<br> ± 0,2 mm grueso del trazo</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">Reborde plano sin cubrir ni pintar con una anchura de 5 mm en todo su contorno y una embutición<br> de 0,8 ± 0,1 mm</p>
+<p>Reborde plano sin cubrir ni pintar con una anchura de 5 mm en todo su contorno y una embutición<br> de 0,8 ± 0,1 mm</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">INTERIOR: 6 mm ± 1 mm<br> EXTERIOR: 10 mm ± 1 mm</p>
+<p>INTERIOR: 6 mm ± 1 mm<br> EXTERIOR: 10 mm ± 1 mm</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">Embutición en relieve con una altura<br> sobre el fondo<br> de 0,9 mm +0,3/–0,2</p>
+<p>Embutición en relieve con una altura<br> sobre el fondo<br> de 0,9 mm +0,3/–0,2</p>
 </td>
 <td rowspan="9">
-<p class="cuerpo_tabla_izq">Se troquelará en el borde izquierdo<br> de la placa dentro<br> del bordón,<br> en un rectángulo<br> de 35 x 5 mm</p>
+<p>Se troquelará en el borde izquierdo<br> de la placa dentro<br> del bordón,<br> en un rectángulo<br> de 35 x 5 mm</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL PARTICULAR ALTA</p>
+<p>TEMPORAL PARTICULAR ALTA</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL PARTICULAR CICLOMOTORES</p>
+<p>TEMPORAL PARTICULAR CICLOMOTORES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL EMPRESAS LARGA VEHÍCULOS NO MATRICULADOS</p>
+<p>TEMPORAL EMPRESAS LARGA VEHÍCULOS NO MATRICULADOS</p>
 </td>
 <td rowspan="6">
-<p class="cuerpo_tabla_centro">
+<p>
 <strong>A</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL EMPRESAS LARGA VEHÍCULOS MATRICULADOS</p>
+<p>TEMPORAL EMPRESAS LARGA VEHÍCULOS MATRICULADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL EMPRESAS ALTA VEHÍCULOS NO MATRICULADOS</p>
+<p>TEMPORAL EMPRESAS ALTA VEHÍCULOS NO MATRICULADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL EMPRESAS ALTA VEHÍCULOS MATRICULADOS</p>
+<p>TEMPORAL EMPRESAS ALTA VEHÍCULOS MATRICULADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL EMPRESAS CICLOMOTORES VEHÍCULOS NO MATRICULADOS</p>
+<p>TEMPORAL EMPRESAS CICLOMOTORES VEHÍCULOS NO MATRICULADOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">TEMPORAL EMPRESAS CICLOMOTORES VEHÍCULOS MATRICULADOS</p>
+<p>TEMPORAL EMPRESAS CICLOMOTORES VEHÍCULOS MATRICULADOS</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table border="0" class="tabla_ancha" height="76" width="1141">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_izq">A</p>
+<p>A</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Bandas donde se consignan mes y año de caducidad</p>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Bandas donde se consignan mes y año de caducidad</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Matrícula turística</p>
-<p class="cuerpo_tabla_izq">Matrícula temporal empresa</p>
+<p>Matrícula turística</p>
+<p>Matrícula temporal empresa</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">30 mm</p>
+<p>30 mm</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">ANCHURA BANDA</p>
+<p>ANCHURA BANDA</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Los caracteres adhesivos serán de color blanco para las placas de matrícula turística y rojo para las placas temporales empresa y de dimensiones 15 x 8 x 2 mm</p>
+<p>Los caracteres adhesivos serán de color blanco para las placas de matrícula turística y rojo para las placas temporales empresa y de dimensiones 15 x 8 x 2 mm</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Matrícula temporal empresa ciclomotores</p>
+<p>Matrícula temporal empresa ciclomotores</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">20 mm</p>
+<p>20 mm</p>
 </td>
 </tr>
 </tbody>
@@ -11881,354 +11157,354 @@ Los restantes remolques, semirremolques, maquinaria agrícola remolcada y de obr
 
 #### Valores mínimos del coeficiente de retrorreflexión en las láminas y en el logo
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p class="cabeza_tabla">Color del producto</p>
+<p>Color del producto</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">Ángulo de observación</p>
+<p>Ángulo de observación</p>
 </td>
 <td rowspan="3">
-<p class="cabeza_tabla">H = 0°</p>
+<p>H = 0°</p>
 </td>
 <td colspan="4">
-<p class="cabeza_tabla">Ángulo de entrada</p>
+<p>Ángulo de entrada</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">V = 5°</p>
+<p>V = 5°</p>
 </td>
 <td>
-<p class="cabeza_tabla">V = 30°</p>
+<p>V = 30°</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">V = 40°</p>
+<p>V = 40°</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">V = 45°</p>
+<p>V = 45°</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">cd · lx<sup>-–1</sup> · m<sup>-–2</sup></p>
+<p>cd · lx<sup>-–1</sup> · m<sup>-–2</sup></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Blanco</p>
+<p>Blanco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0º 12’</p>
+<p>0º 12’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">70,00</p>
+<p>70,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">30,00</p>
+<p>30,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,00</p>
+<p>6,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">0º 20’</p>
+<p>0º 20’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">50,00</p>
+<p>50,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">25,00</p>
+<p>25,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,00</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1º 30’</p>
+<p>1º 30’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,00</p>
+<p>5,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">Rojo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0º 2’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">10,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">0º 33’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1º 30’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,60</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,20</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>1,00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Verde</p>
+<p>Rojo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0º 2’</p>
+<p>0º 2’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,00</p>
+<p>10,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>4,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>14,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">0º 33’</p>
+<p>0º 33’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,00</p>
+<p>7,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,30</p>
+<p>2,50</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,90</p>
+<p>1,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1º 30’</p>
+<p>1º 30’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,60</p>
+<p>0,60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,15</p>
+<p>0,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">0,08</p>
+<p>0,20</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">Azul</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">0º 12’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">0º 20’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,50</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1º 30’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">0,30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">Amarillo</p>
+<p>Verde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">0º 12’</p>
+<p>0º 2’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">40,00</p>
+<p>9,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16,00</p>
+<p>3,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7,00</p>
+<p>1,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">0º 20’</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">28,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5,00</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1º 30’</p>
+<p>0º 33’</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3,00</p>
+<p>7,00</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2,00</p>
+<p>2,30</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1,00</p>
+<p>0,90</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1º 30’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,60</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>0,08</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Azul</p>
+</td>
+<td>
+<p>0º 12’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0º 20’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1º 30’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,30</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Amarillo</p>
+</td>
+<td>
+<p>0º 12’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+<td>
+<p>16,00</p>
+</td>
+<td>
+<p>7,00</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0º 20’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>28,00</p>
+</td>
+<td>
+<p>11,00</p>
+</td>
+<td>
+<p>5,00</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1º 30’</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3,00</p>
+</td>
+<td>
+<p>2,00</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+<td>
+<p>–</p>
 </td>
 </tr>
 </tbody>
@@ -12236,226 +11512,226 @@ Los restantes remolques, semirremolques, maquinaria agrícola remolcada y de obr
 
 #### Coordenadas cromáticas
 
-<table border="0" class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Color</p>
+<p>Color</p>
 </td>
 <td>
-<p class="cabeza_tabla">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cabeza_tabla">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cabeza_tabla">3</p>
+<p>3</p>
 </td>
 <td>
-<p class="cabeza_tabla">4</p>
+<p>4</p>
 </td>
 <td>
-<p class="cabeza_tabla">Factor de luminancia</p>
+<p>Factor de luminancia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Blanco</p>
+<p>Blanco</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,355</p>
+<p>0,355</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,305</p>
+<p>0,305</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,285</p>
+<p>0,285</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,335</p>
+<p>0,335</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&gt; 0,35</p>
+<p>&gt; 0,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Y</p>
+<p>Y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,355</p>
+<p>0,355</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,305</p>
+<p>0,305</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,325</p>
+<p>0,325</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,375</p>
+<p>0,375</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Rojo</p>
+<p>Rojo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,690</p>
+<p>0,690</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,595</p>
+<p>0,595</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,569</p>
+<p>0,569</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,655</p>
+<p>0,655</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&gt; 0,05</p>
+<p>&gt; 0,05</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Y</p>
+<p>Y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,310</p>
+<p>0,310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,315</p>
+<p>0,315</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,341</p>
+<p>0,341</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,345</p>
+<p>0,345</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Verde</p>
+<p>Verde</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,007</p>
+<p>0,007</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,248</p>
+<p>0,248</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,177</p>
+<p>0,177</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,026</p>
+<p>0,026</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&gt; 0,04</p>
+<p>&gt; 0,04</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Y</p>
+<p>Y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,703</p>
+<p>0,703</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,409</p>
+<p>0,409</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,362</p>
+<p>0,362</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,399</p>
+<p>0,399</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Azul</p>
+<p>Azul</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,078</p>
+<p>0,078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,150</p>
+<p>0,150</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,210</p>
+<p>0,210</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,137</p>
+<p>0,137</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&gt; 0,01</p>
+<p>&gt; 0,01</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Y</p>
+<p>Y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,171</p>
+<p>0,171</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,220</p>
+<p>0,220</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,160</p>
+<p>0,160</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,038</p>
+<p>0,038</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">Amarillo</p>
+<p>Amarillo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,545</p>
+<p>0,545</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,487</p>
+<p>0,487</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,427</p>
+<p>0,427</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,465</p>
+<p>0,465</p>
 </td>
 <td rowspan="2">
-<p class="cuerpo_tabla_centro">&gt; 0,27</p>
+<p>&gt; 0,27</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">Y</p>
+<p>Y</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,454</p>
+<p>0,454</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,423</p>
+<p>0,423</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,483</p>
+<p>0,483</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,534</p>
+<p>0,534</p>
 </td>
 </tr>
 </tbody>
@@ -12898,49 +12174,44 @@ b) VMP para transporte de mercancías u otros servicios.
 
 Los VMP de transporte personal se caracterizarán con los datos recogidos en la siguiente tabla:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla"> </th>
-<th class="cabeza_tabla" colspan="2">VMP de transporte personal</th>
+<th> </th>
+<th colspan="2">VMP de transporte personal</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Velocidad máxima.</td>
-<td class="cuerpo_tabla_centro" colspan="2">Entre 6 y 25 km/h</td>
+<td>Velocidad máxima.</td>
+<td colspan="2">Entre 6 y 25 km/h</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Potencia nominal por vehículo.</td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Vehículos sin auto-equilibrado:</p>
-<p class="cuerpo_tabla_centro">≤ 1 000 W</p>
+<td>Potencia nominal por vehículo.</td>
+<td>
+<p>Vehículos sin auto-equilibrado:</p>
+<p>≤ 1 000 W</p>
 </td>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro">Vehículos con auto-equilibrado:</p>
-<p class="cuerpo_tabla_centro">≤ 2 500 W</p>
+<td>
+<p>Vehículos con auto-equilibrado:</p>
+<p>≤ 2 500 W</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Masa en orden de marcha.</td>
-<td class="cuerpo_tabla_centro" colspan="2">&lt; 50 kg</td>
+<td>Masa en orden de marcha.</td>
+<td colspan="2">&lt; 50 kg</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Longitud máxima.</td>
-<td class="cuerpo_tabla_centro" colspan="2">2 000 mm</td>
+<td>Longitud máxima.</td>
+<td colspan="2">2 000 mm</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Altura máxima.</td>
-<td class="cuerpo_tabla_centro" colspan="2">1 400 mm</td>
+<td>Altura máxima.</td>
+<td colspan="2">1 400 mm</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Anchura máxima.</td>
-<td class="cuerpo_tabla_centro" colspan="2">750 mm</td>
+<td>Anchura máxima.</td>
+<td colspan="2">750 mm</td>
 </tr>
 </tbody>
 </table>
@@ -13248,141 +12519,136 @@ XXXX: Código numérico de 4 dígitos correlativo por laboratorio.
 
 FICHA DE CARACTERÍSTICAS TÉCNICAS DE VMP (ANVERSO Y REVERSO)
 
-<table class="tabla" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col width="50%">
-<col>
-<col width="45%">
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="3">FICHA DE CARACTERÍSTICAS TÉCNICAS VMP</td>
+<td colspan="3">FICHA DE CARACTERÍSTICAS TÉCNICAS VMP</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_izq">Fabricante:</p>
-<p class="cuerpo_tabla_izq">Marca:</p>
-<p class="cuerpo_tabla_izq">Núm. de serie/bastidor:</p>
-<p class="cuerpo_tabla_izq"> </p>
+<td colspan="2">
+<p>Fabricante:</p>
+<p>Marca:</p>
+<p>Núm. de serie/bastidor:</p>
+<p> </p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Modelo:</p>
-<p class="cuerpo_tabla_izq">Nombre comercial del modelo:</p>
-<p class="cuerpo_tabla_izq">Versión:</p>
-<p class="cuerpo_tabla_izq">Número de certificación:</p>
-</td>
-</tr>
-<tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_izq">ESQUEMA Y DIMENSIONES.</p>
+<td>
+<p>Modelo:</p>
+<p>Nombre comercial del modelo:</p>
+<p>Versión:</p>
+<p>Número de certificación:</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro">[esquema del VMP con emplazamiento del marcaje del fabricante]</p>
-</td>
-<td class="cuerpo_tabla_centro" colspan="2">
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro"> </p>
-<p class="cuerpo_tabla_centro">[fotografía del VMP]</p>
+<td colspan="3">
+<p>ESQUEMA Y DIMENSIONES.</p>
 </td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_izq">Dimensiones.</p>
+<td>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>[esquema del VMP con emplazamiento del marcaje del fabricante]</p>
+</td>
+<td colspan="2">
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>[fotografía del VMP]</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − A.–Distancia entre ejes</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> − B.–Longitud total</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> − C.–Anchura total</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> − D.–Vía delantera</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> − E.–Vía Trasera</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> − Altura total</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq"> − Altura del manillar (en su caso)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
-</tr>
-<tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_izq">Masas.</p>
+<td colspan="3">
+<p>Dimensiones.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Masa en orden de marcha del vehículo (1)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − A.–Distancia entre ejes</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − M.M.T.A (2)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − B.–Longitud total</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − M.M.T.A Primer eje (2)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − C.–Anchura total</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − M.M.T.A Segundo eje (2)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − D.–Vía delantera</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Masa de la batería</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − E.–Vía Trasera</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="sombra" colspan="3">
-<p class="cuerpo_tabla_izq">Otras características.</p>
+<td> − Altura total</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td> − Altura del manillar (en su caso)</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Masas.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Numero de ejes y ruedas</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − Masa en orden de marcha del vehículo (1)</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Velocidad máxima (km/h)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − M.M.T.A (2)</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Potencia nominal (3)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − M.M.T.A Primer eje (2)</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Autoequilibrado</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − M.M.T.A Segundo eje (2)</td>
+<td colspan="2"> −</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> − Tipología (4)</td>
-<td class="cuerpo_tabla_izq" colspan="2"> −</td>
+<td> − Masa de la batería</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Otras características.</p>
+</td>
+</tr>
+<tr>
+<td> − Numero de ejes y ruedas</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td> − Velocidad máxima (km/h)</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td> − Potencia nominal (3)</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td> − Autoequilibrado</td>
+<td colspan="2"> −</td>
+</tr>
+<tr>
+<td> − Tipología (4)</td>
+<td colspan="2"> −</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="3">
-<p class="cita">(1) Masa en orden de marcha: masa del vehículo tal y como se define en el artículo 5 del Reglamento (UE) n.º 168/2013.</p>
-<p class="cita">(2) Masa Máxima Técnicamente Admisible (campo obligatorio).</p>
-<p class="cita">(3) Según el Reglamento n.º 85 de la Comisión Económica para Europa de las Naciones Unidas (UNECE).</p>
-<p class="cita">(4) Personal (P) / Mercancías o Servicios (M).</p>
+<p>(1) Masa en orden de marcha: masa del vehículo tal y como se define en el artículo 5 del Reglamento (UE) n.º 168/2013.</p>
+<p>(2) Masa Máxima Técnicamente Admisible (campo obligatorio).</p>
+<p>(3) Según el Reglamento n.º 85 de la Comisión Económica para Europa de las Naciones Unidas (UNECE).</p>
+<p>(4) Personal (P) / Mercancías o Servicios (M).</p>
 </td>
 </tr>
 </tfoot>

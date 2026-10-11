@@ -278,14 +278,6 @@ El Gobierno determinará reglamentariamente en el plazo de tres meses la definic
 
 Se entenderá por precio anterior el menor que hubiese sido aplicado sobre productos idénticos en los treinta días precedentes. A estos efectos no se tendrá en consideración el precio que hubiese podido ser aplicado, con la finalidad de reducir el desperdicio alimentario, sobre productos idénticos cuyas fechas de caducidad o consumo preferente estuviesen próximas a vencer.
 
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 85 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
-
-> Redacción anterior:
-
-> "1. Siempre que se oferten artículos con reducción de precio, deberá figurar con claridad, en cada uno de ellos, el precio anterior junto con el precio reducido, salvo en el supuesto de que se trate de artículos puestos a la venta por primera vez.
-
-> Se entenderá por precio anterior, el menor que hubiese sido aplicado sobre productos idénticos en los treinta días precedentes."
-
 2\. En ningún caso, la utilización de las actividades de promoción de ventas podrá condicionarse a la existencia de una reducción porcentual mínima o máxima.
 
 > Se modifica el apartado 1 por el art. 85 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)

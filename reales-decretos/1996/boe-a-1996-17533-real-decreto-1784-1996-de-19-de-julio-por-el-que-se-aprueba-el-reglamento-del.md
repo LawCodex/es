@@ -990,8 +990,6 @@ La inscripción comprenderá tanto los miembros titulares como, en su caso, los 
 
 Se asignará a las sociedades de capital y a las sucursales de sociedades de otros Estados miembros un identificador único europeo (EUID), que permita identificarlas inequívocamente en las comunicaciones entre los registros a través del sistema de interconexión de registros mercantiles. Dicho identificador único europeo se compone de prefijo del país (ES); código del Registro Mercantil seguido de un punto; identificador único de sociedad o sucursal y, en su caso, un dígito de verificación que permita evitar errores de identificación.
 
-> Téngase en cuenta que este artículo, añadido por el artículo único.1 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
-
 > Se añade por el artículo único.1 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
@@ -3200,12 +3198,6 @@ Los empresarios individuales, sociedades y entidades deberán hacer constar en t
 
 #### Sección 2.ª De la inscripción de los empresarios y sus actos
 
-> Téngase en cuenta que esta actualización de la rúbrica, establecida por el artículo único.2 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "Sección 2.ª De los empresarios extranjeros"
-
 > Se modifica la rúbrica por el artículo único.2 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
@@ -3219,8 +3211,6 @@ Los empresarios individuales, sociedades y entidades deberán hacer constar en t
 3\. La inscripción de las sucursales se regulará por lo previsto en este capítulo. No es de aplicación lo dispuesto en el artículo 302.3 del Reglamento del Registro Mercantil.
 
 4\. El Registrador Mercantil, una vez recibida toda la documentación requerida para la creación en línea de una sucursal procederá a su inscripción en el plazo máximo de diez días laborables. Si se excediera de dicho plazo, se notificará al solicitante los motivos del retraso.
-
-> Téngase en cuenta que este artículo, añadido por el artículo único.3 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
 
 > Se añade por el artículo único.3 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
@@ -3246,8 +3236,6 @@ f) Identidad de los representantes nombrados con carácter permanente para la su
 
 g) Todos aquellos otros documentos o indicaciones cuya inscripción establezcan las leyes.
 
-> Téngase en cuenta que este artículo, añadido por el artículo único.3 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
-
 > Se añade por el artículo único.3 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
@@ -3258,15 +3246,11 @@ El cierre en línea de la sucursal se regirá por el mismo procedimiento estable
 
 Se deberá aportar el acuerdo de cierre de la sucursal adoptado por el órgano competente de la sociedad.
 
-> Téngase en cuenta que este artículo, añadido por el artículo único.3 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
-
 > Se añade por el artículo único.3 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
 
 #### Sección 3.ª Información societaria europea y su acceso mediante la plataforma central europea y el Identificador Único Europeo (EUID)
-
-> Téngase en cuenta que esta sección, añadida por el artículo único.4 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
 
 > Se añade por el artículo único.4 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
@@ -3308,8 +3292,6 @@ k) El nombramiento y la identidad de los liquidadores, así como sus poderes res
 
 l) La inscripción de la escritura de extinción de la sociedad.
 
-> Téngase en cuenta que este artículo, añadido por el artículo único.4 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
-
 > Se añade por el artículo único.4 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
@@ -3340,8 +3322,6 @@ j) Las cuentas anuales y, en su caso, las cuentas consolidadas de la sociedad qu
 
 k) El cierre de la sucursal.
 
-> Téngase en cuenta que este artículo, añadido por el artículo único.4 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
-
 > Se añade por el artículo único.4 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
@@ -3360,15 +3340,11 @@ b) La información relativa a la apertura y clausura de procedimientos de liquid
 
 Cuando la información que se reciba sea la relativa a la apertura y clausura de procedimientos de liquidación e insolvencia y sobre extinción de sociedades matrices inscritas en otros Estados miembros con sucursales en España, en la publicidad que expidan sobre las referidas sucursales se hará mención obligatoria de los procedimientos de liquidación e insolvencia de sus respectivas matrices, así como sobre su extinción, indicando el Registro en que consten inscritos dichos actos y su fecha.
 
-> Téngase en cuenta que este artículo, añadido por el artículo único.4 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
-
 > Se añade por el artículo único.4 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
 > Esta modificación entra en vigor el 9 de mayo de 2024, según establece la disposición final 3 del citado Real Decreto.
 
 #### Sección 4.ª De los empresarios extranjeros
-
-> Téngase en cuenta que esta sección, añadida por el artículo único.5 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
 
 > Se añade por el artículo único.5 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 
@@ -3563,12 +3539,6 @@ Si el sancionado no estuviera inscrito, se procederá a la previa inscripción d
 5.º La disolución acordada de oficio de dichas entidades, el nombramiento y cese de liquidadores, así como la declaración de extinción de la entidad. En este último caso, el Registrador procederá a extender diligencia de cierre en la hoja de la entidad extinguida.
 
 2\. A efectos de lo dispuesto en esta sección, serán consideradas entidades financieras las entidades de crédito, los establecimientos financieros de crédito, las de seguro, las entidades gestoras de fondos de pensiones, los planes y fondos de pensiones y las que ejerzan en el ámbito del mercado de valores que se hallen inscritas en los correspondientes Registros especiales a cargo del Banco de España, de la Dirección General de Seguros y Fondos de Pensiones y de la Comisión Nacional del Mercado de Valores.
-
-> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 1 del Real Decreto 309/2020, de 11 de febrero. [Ref. BOE-A-2020-2613](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2613), entra en vigor el 1 de julio de 2020, según determina la disposición final 5 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "2. A efectos de lo dispuesto en esta sección, serán consideradas entidades financieras las entidades de crédito, las de seguro, las entidades gestoras de fondos de pensiones, los planes y fondos de pensiones y las que ejerzan en el ámbito del mercado de valores que se hallen inscritas en los correspondientes Registros especiales a cargo del Banco de España, de la Dirección General de Seguros y de la Comisión Nacional del Mercado de Valores."
 
 > Se modifica el apartado 2, con efectos de 1 de julio de 2020, por la disposición final 1 del Real Decreto 309/2020, de 11 de febrero. [Ref. BOE-A-2020-2613](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2613)
 
@@ -4757,8 +4727,6 @@ h) Información sobre cualquier sucursal de la sociedad en otro Estado miembro, 
 El Registro Mercantil facilitará igualmente de manera gratuita información sobre las indicaciones antes señaladas, bien de manera directa o bien redirigiendo al interesado a la plataforma central europea.
 
 3\. El intercambio de cualquier información a través del sistema de interconexión de Registros será gratuito para los Registros.
-
-> Téngase en cuenta que esta disposición, añadida por el artículo único.6 del Real Decreto 442/2023, de 13 de junio, [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043), entra en vigor el 9 de mayo de 2024, según establece su disposición final 3.
 
 > Se añade por el artículo único.6 del Real Decreto 442/2023, de 13 de junio. [Ref. BOE-A-2023-14043](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14043)
 

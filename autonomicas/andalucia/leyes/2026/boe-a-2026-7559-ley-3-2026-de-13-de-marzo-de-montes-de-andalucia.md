@@ -2043,54 +2043,49 @@ Dos. Se modifica el capítulo X, del título XII, que queda redactado como sigue
 
 > El importe de la cuota tributaria es:
 
-> <table class="tabla" data-omitir-repetir-tfoot="true">
-> <colgroup>
-> <col width="10%">
-> <col width="76%">
-> <col width="14%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="2"> </th>
-> <th class="cabeza_tabla">Euros</th>
+> <th colspan="2"> </th>
+> <th>Euros</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie igual o inferior a 10 hectáreas.</td>
-> <td class="cuerpo_tabla_coma">305,37</td>
+> <td>1</td>
+> <td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie igual o inferior a 10 hectáreas.</td>
+> <td>305,37</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 10 hectáreas e igual o inferior a 20 hectáreas.</td>
-> <td class="cuerpo_tabla_coma">839,78</td>
+> <td>2</td>
+> <td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 10 hectáreas e igual o inferior a 20 hectáreas.</td>
+> <td>839,78</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 20 hectáreas e igual o inferior a 30 hectáreas.</td>
-> <td class="cuerpo_tabla_coma">1.679,55</td>
+> <td>3</td>
+> <td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 20 hectáreas e igual o inferior a 30 hectáreas.</td>
+> <td>1.679,55</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">4</td>
-> <td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 30 hectáreas e igual o inferior a 50 hectáreas.</td>
-> <td class="cuerpo_tabla_coma">2.519,33</td>
+> <td>4</td>
+> <td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 30 hectáreas e igual o inferior a 50 hectáreas.</td>
+> <td>2.519,33</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">5</td>
-> <td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 50 hectáreas e igual o inferior a 80 hectáreas.</td>
-> <td class="cuerpo_tabla_coma">3.359,11</td>
+> <td>5</td>
+> <td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 50 hectáreas e igual o inferior a 80 hectáreas.</td>
+> <td>3.359,11</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">6</td>
-> <td class="cuerpo_tabla_izq">Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 80 hectáreas.</td>
-> <td class="cuerpo_tabla_coma">4.198,88</td>
+> <td>6</td>
+> <td>Cambios de uso de forestal a cualquier otro uso en terrenos de superficie mayor a 80 hectáreas.</td>
+> <td>4.198,88</td>
 > </tr>
 > </tbody>
 > <tfoot>
 > <tr>
 > <td colspan="3">
-> <p class="cita">(*) Importes actualizados a 2026.</p>
+> <p>(*) Importes actualizados a 2026.</p>
 > </td>
 > </tr>
 > </tfoot>

@@ -397,75 +397,75 @@ Se modifica el apartado 3 del artículo 75 del texto refundido de la legislació
 
 Sin embargo, y solamente en caso de que las entidades suministradoras cumplan la totalidad de las obligaciones que respecto a la Agencia Catalana del Agua les impone la normativa vigente, así como los requerimientos que se deriven, puede aplicarse, sobre el importe total a ingresar por cada autoliquidación, un porcentaje de bonificación determinado en función del número de abonados totales de cada entidad suministradora, de acuerdo con la tabla y la fórmula siguientes:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tramos para calcular</p>
-<p class="cabeza_tabla"> la bonificación</p>
+<p>Tramos para calcular</p>
+<p> la bonificación</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Escalado de porcentajes (%)</p>
+<p>Escalado de porcentajes (%)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Abonados desde</p>
+<p>Abonados desde</p>
 </td>
 <td>
-<p class="cabeza_tabla">Abonados hasta</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,00</p>
+<p>Abonados hasta</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">1.001</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">10.000</p>
+<p>1.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_der">10.001</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">100.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,50</p>
+<p>3,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_der">100.001</p>
+<p>1.001</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500.000</p>
+<p>10.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,20</p>
+<p>2,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.001</p>
+</td>
+<td>
+<p>100.000</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>100.001</p>
+</td>
+<td>
+<p>500.000</p>
+</td>
+<td>
+<p>0,20</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p class="cuerpo_tabla_centro">Más de 500.000</p>
+<p>Más de 500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,10</p>
+<p>0,10</p>
 </td>
 </tr>
 </tbody>
@@ -5845,89 +5845,89 @@ Eu: Euribor a 1 año. Valor considerado el último día del mes de junio.
 
 Con la finalidad de alcanzar una progresiva recuperación de costes del ciclo del agua y de incorporar la depreciación de los activos de la administración hidráulica de Cataluña en el coste de los servicios del ciclo del agua que presta, se establecen las vidas útiles y los coeficientes de amortización anuales que es preciso aplicar de acuerdo con las siguientes tipologías:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Tipología</p>
+<p>Tipología</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Vida útil máxima (años)</p>
+<p>Vida útil máxima (años)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Coeficiente de amortización anual</p>
-<p class="cabeza_tabla">Porcentaje anual</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Media % anual</p>
+<p>Coeficiente de amortización anual</p>
+<p>Porcentaje anual</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Saneamiento de aguas residuales urbanas (PSARU)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>Media % anual</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Post-tratamiento de lodos (Programa de lodos)</p>
+<p>Saneamiento de aguas residuales urbanas (PSARU)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Abastecimiento de agua potable (PSAAC)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,50</p>
+<p>4,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Embalses</p>
+<p>Post-tratamiento de lodos (Programa de lodos)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">40</p>
+<p>25</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,50</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Protección del dominio público hidráulico (DPH)</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">25</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>4,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Riegos</p>
+<p>Abastecimiento de agua potable (PSAAC)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">25</p>
+<p>40</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">4,00</p>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Embalses</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Protección del dominio público hidráulico (DPH)</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>4,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riegos</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>4,00</p>
 </td>
 </tr>
 </tbody>

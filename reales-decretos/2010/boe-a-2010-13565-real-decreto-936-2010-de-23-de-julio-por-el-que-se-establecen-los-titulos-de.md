@@ -5159,43 +5159,37 @@ Ciclo de Grado Superior en Vela con Aparejo Fijo
 | Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva del bloque común.<br>MED-VEVE306: Preparación física del regatista. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Espacio formativo</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th colspan="3">Espacio formativo</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Aula taller.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.</p>
-<p class="cuerpo_tabla_izq">MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.</p>
-<p class="cuerpo_tabla_izq">MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.</p>
+<td colspan="3">Aula taller.</td>
+<td rowspan="3">
+<p>MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</p>
+<p>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</p>
+<p>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</p>
+<p>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</p>
+<p>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</p>
+<p>MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.</p>
+<p>MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.</p>
+<p>MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+<td colspan="3">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Área navegación:</p>
-<p class="cuerpo_tabla_izq">• Zona de aguas de características similares a las utilizadas en regatas de alto rendimiento en vela.</p>
-<p class="cuerpo_tabla_izq">• Debe permitir la comunicación visual y el contacto verbal.</p>
-<p class="cuerpo_tabla_izq">• Debe permitir el montaje de los recorridos adecuados al alto rendimiento en vela.</p>
-<p class="cuerpo_tabla_izq">• En crucero la limitación del área viene delimitada por las atribuciones del título de Patrón de embarcaciones de recreo, así como la eslora del mismo.</p>
+<td colspan="3">
+<p>Área navegación:</p>
+<p>• Zona de aguas de características similares a las utilizadas en regatas de alto rendimiento en vela.</p>
+<p>• Debe permitir la comunicación visual y el contacto verbal.</p>
+<p>• Debe permitir el montaje de los recorridos adecuados al alto rendimiento en vela.</p>
+<p>• En crucero la limitación del área viene delimitada por las atribuciones del título de Patrón de embarcaciones de recreo, así como la eslora del mismo.</p>
 </td>
 </tr>
 </tbody>
@@ -5228,42 +5222,36 @@ Espacios: Ciclo de Grado Superior en Vela con Aparejo Libre
 | Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo superior. |
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | Módulos de enseñanza deportiva del bloque común.<br>MED-VEVE306 Preparación física del regatista. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Espacio formativo</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th colspan="3">Espacio formativo</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Aula taller.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.</p>
+<td colspan="3">Aula taller.</td>
+<td rowspan="3">
+<p>MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</p>
+<p>MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</p>
+<p>MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</p>
+<p>MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</p>
+<p>MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</p>
+<p>MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.</p>
+<p>MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.</p>
+<p>MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+<td colspan="3">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_izq">Área navegación:</p>
-<p class="cuerpo_tabla_izq">• Zona de aguas de características similares a las utilizadas en regatas de alto rendimiento en vela.</p>
-<p class="cuerpo_tabla_izq">• Debe permitir la comunicación visual y el contacto verbal.</p>
-<p class="cuerpo_tabla_izq">• Debe permitir el montaje de los recorridos adecuados al alto rendimiento en vela.</p>
+<td colspan="3">
+<p>Área navegación:</p>
+<p>• Zona de aguas de características similares a las utilizadas en regatas de alto rendimiento en vela.</p>
+<p>• Debe permitir la comunicación visual y el contacto verbal.</p>
+<p>• Debe permitir el montaje de los recorridos adecuados al alto rendimiento en vela.</p>
 </td>
 </tr>
 </tbody>
@@ -5300,234 +5288,229 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de grado superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de grado superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE301: Organización de competiciones de alto nivel y grandes eventos a vela con AF y AL.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE302: Seguridad de las instalaciones y las regatas de alto nivel de AF y AL.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE303: Organización y gestión del centro deportivo de vela con AF y AL.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE306: Preparación física del regatista.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEVE304: Análisis de situaciones tácticas en la competición de alto rendimiento con AF y AL.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEVE305: Medios audiovisuales y electrónicos a utilizar durante el entrenamiento y la competición de alto rendimiento con AF y AL.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEVE306: Preparación física del regatista.</td>
+<td>Especialidad de Educación Física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF310: Formación Práctica.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF307: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AF.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF311: Proyecto final.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF308: Planificación y programación del alto rendimiento en vela con AF.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF309: Puesta a punto del material de AF de alto rendimiento.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF310: Formación Práctica.</td>
+<td>Especialidad de Educación Física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF311: Proyecto final.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL315: Formación Práctica.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAL312: Dirección técnica durante el entrenamiento y la competición de alto rendimiento en vela con AL.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL316: Proyecto final.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAL313: Planificación y programación del alto rendimiento en vela con AL.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEAL314: Puesta a punto del material de AL de alto rendimiento.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEAL315: Formación Práctica.</td>
+<td>Especialidad de Educación Física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEAL316: Proyecto final.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

@@ -558,12 +558,6 @@ a) Necesidad de asistencia sanitaria.
 
 b) Incapacidad temporal, derivada bien de enfermedad común o profesional, bien de accidente común o en acto de servicio, o como consecuencia de él o por donación de órganos o tejidos para su trasplante.
 
-> Téngase en cuenta que esta actualización de la letra b), establecida por el art. 8.1 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "b) Incapacidad temporal, derivada bien de enfermedad común o profesional, bien de accidente común o en acto de servicio, o como consecuencia de él."
-
 c) Inutilidad para el servicio en los mismos supuestos anteriores.
 
 d) Cargas familiares.
@@ -579,12 +573,6 @@ Los asegurados o sus beneficiarios, cuando se encuentren en los supuestos de hec
 a) Asistencia sanitaria.
 
 b) Subsidio por incapacidad temporal y por riesgo durante el embarazo o por donación de órganos o tejidos para su trasplante, en el caso de funcionarios civiles.
-
-> Téngase en cuenta que esta actualización de la letra b), establecida por el art. 8.2 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "b) Subsidio por incapacidad temporal y por riesgo durante el embarazo, en el caso de funcionarios civiles."
 
 c) Prestaciones económicas y recuperadoras, en su caso, por inutilidad para el servicio y gran invalidez, e indemnizaciones por lesiones, mutilaciones o deformidades de carácter permanente no invalidante.
 
@@ -912,12 +900,6 @@ c) El suministro y renovación de toda clase de prótesis o aparatos ortopédico
 
 a) Las debidas a enfermedad común o profesional y a accidente común o en acto de servicio, o como consecuencia de él o por donación de órganos o tejidos para su trasplante.
 
-> Téngase en cuenta que esta actualización de la letra a) del apartado 1, establecida por el art. 8.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "a) Las debidas a enfermedad común o profesional y a accidente común o en acto de servicio, o como consecuencia de él."
-
 b) Los periodos de observación por enfermedad profesional, cuando se prescriba la baja en el servicio durante los mismos.
 
 c) Asimismo, se encontrarán en situación de incapacidad temporal las funcionarias y el personal estatutario del Centro Nacional de Inteligencia que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma.
@@ -939,12 +921,6 @@ Serán beneficiarios de la prestación económica por incapacidad temporal, regu
 #### Artículo 69. Situaciones de Incapacidad Temporal.
 
 1\. Los funcionarios civiles incorporados a este Régimen especial que, en conformidad con lo establecido en el artículo 69 de la Ley articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, así como el personal estatutario que, de acuerdo con el artículo 26.3 del Estatuto del personal del CNI, hayan obtenido licencias por enfermedad o accidente que impidan el normal desempeño de las funciones públicas o por donación de órganos o tejidos para su trasplante, se encontrarán en la situación de incapacidad temporal.
-
-> Téngase en cuenta que esta actualización del apartado 1, establecida por el art. 8.4 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. Los funcionarios civiles incorporados a este Régimen especial que, en conformidad con lo establecido en el artículo 69 de la Ley articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, así como el personal estatutario que, de acuerdo con el artículo 26.3 del Estatuto del personal del CNI, hayan obtenido licencias por enfermedad o accidente que impidan el normal desempeño de las funciones públicas, se encontrarán en la situación de incapacidad temporal."
 
 2\. También se encontrarán en dicha situación los citados funcionarios y el personal estatutario del CNI cuando hayan obtenido licencia a consecuencia de encontrarse en periodo de observación médica en caso de enfermedades profesionales.
 
@@ -996,8 +972,6 @@ c) Las indemnizaciones por razón del servicio a que se refiere el Real Decreto 
 
 3\. En la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, el subsidio por incapacidad temporal tendrá una cuantía igual al 100 por ciento de las retribuciones complementarias devengadas desde el tercer mes de licencia.
 
-> Téngase en cuenta que el apartado 3, añadido por el art. 8.5 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
 > Se añade el apartado 3 por el art. 8.5 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
 
 > Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
@@ -1009,12 +983,6 @@ c) Las indemnizaciones por razón del servicio a que se refiere el Real Decreto 
 2\. Durante los primeros tres meses los funcionarios civiles afectados percibirán los derechos económicos que les reconoce el artículo 69 de la Ley de Funcionarios Civiles del Estado, de 7 de febrero de 1964.
 
 3\. A partir del cuarto mes, percibirán las retribuciones básicas, la prestación por hijo a cargo, en su caso, y la prestación por incapacidad temporal a cargo del ISFAS a que se refiere el artículo anterior. La suma de las cantidades anteriores no podrá exceder del importe de las percepciones que el funcionario tuviera en el primer mes de licencia. En la situación de incapacidad temporal por donación de órganos o tejidos para su trasplante, el subsidio por incapacidad temporal tendrá una cuantía igual al 100 por ciento de las retribuciones complementarias devengadas desde el tercer mes de licencia.
-
-> Téngase en cuenta que esta actualización del apartado 3, establecida por el art. 8.6 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "3. A partir del cuarto mes, percibirán las retribuciones básicas, la prestación por hijo a cargo, en su caso, y la prestación por incapacidad temporal a cargo del ISFAS al que se refiere el artículo anterior. La suma de las cantidades anteriores no podrá exceder del importe de las percepciones que el funcionario tuviera en el primer mes de licencia."
 
 4\. El personal estatutario del CNI generará el derecho a la prestación por incapacidad temporal una vez transcurridos los plazos establecidos en su Estatuto de Personal, cuando tal circunstancia le suponga una disminución de sus retribuciones en relación al último puesto ocupado, exceptuándose el complemento de productividad. La suma de las cantidades percibidas no podrá exceder del importe de las retribuciones que el personal estatutario tuviera en el primer mes de licencia.
 

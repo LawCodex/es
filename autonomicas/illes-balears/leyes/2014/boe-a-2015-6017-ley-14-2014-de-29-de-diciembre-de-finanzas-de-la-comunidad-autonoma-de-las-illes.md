@@ -2214,8 +2214,6 @@ f) Cuentas anuales de los consorcios con presupuesto propio.
 
 En el plazo de tres meses desde la remisión de la cuenta general al Parlamento de las Illes Balears, el consejero competente en materia de hacienda y presupuestos ha de comparecer ante la Comisión de Hacienda y Presupuestos de la cámara para exponer el contenido esencial de esta cuenta general y, con ello, facilitar el correspondiente debate de la comisión.
 
-> Téngase en cuenta que el plazo, al que se refiere el apartado 4 para presentar la cuenta general, se amplía hasta el 30 de septiembre de 2020 según establece el art 4 del Decreto-ley 5/2020, de 27 de marzo. [Ref. BOE-A-2020-5022](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5022)
-
 5\. No formarán parte de la cuenta general las cuentas anuales del Parlamento de las Illes Balears, de la Sindicatura de Cuentas de las Illes Balears y de la Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears.
 
 > Se amplía, hasta el 30 de septiembre de 2020, el plazo al que se refiere el apartado 4 por el art 4 del Decreto-ley 5/2020, de 27 de marzo. [Ref. BOE-A-2020-5022](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5022)

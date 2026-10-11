@@ -75,120 +75,112 @@ Dos. Se introduce un nuevo apartado 3.2 en el anexo I con la siguiente redacció
 
 «3.2. Coeficientes m<sub>IT</sub>_<sub>j,a</sub> de las instalaciones tipo con autorización de explotación definitiva en los años 2017, 2018 y 2019 y códigos de las instalaciones tipo correspondientes al cupo de potencia establecido en el Real Decreto 650/2017, de 16 de junio, por el que se establece un cupo de 3.000 MW de potencia instalada, de nuevas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables en el sistema eléctrico peninsular, al que se podrá otorgar el régimen retributivo específico.
 
-<table class="ning_n_estilo_de_tabla">
-<colgroup>
-<col class="row_column_1">
-<col class="row_column_2">
-<col class="row_column_3">
-<col class="row_column_4">
-<col class="row_column_5">
-<col class="row_column_6">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_7">
+<tr>
 <td>
-<p class="cabeza_tabla">Tecnología</p>
+<p>Tecnología</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo de Referencia</p>
+<p>Código de Identificación de la Instalación Tipo de Referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Grupo / Subgrupo (Art. 2 Real Decreto 413/2014)</p>
+<p>Grupo / Subgrupo (Art. 2 Real Decreto 413/2014)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Año de Autorización de Explotación Definitiva «a»</p>
+<p>Año de Autorización de Explotación Definitiva «a»</p>
 </td>
 <td>
-<p class="cabeza_tabla">Código de Identificación de la Instalación Tipo convocada por el Real Decreto 650/2017, de 16 de junio.</p>
+<p>Código de Identificación de la Instalación Tipo convocada por el Real Decreto 650/2017, de 16 de junio.</p>
 </td>
 <td>
-<p class="cabeza_tabla">m<sub>ITR_j,a</sub></p>
+<p>m<sub>ITR_j,a</sub></p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_8">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Eólica.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0103</p>
+<p>Eólica.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.2</p>
+<p>ITR-0103</p>
+</td>
+<td rowspan="3">
+<p>b.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04022</p>
+<p>IT-04022</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2018</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04023</p>
+<p>IT-04023</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2019</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04024</p>
+<p>IT-04024</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_9">
+<tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">Fotovoltaica.</p>
-</td>
-<td rowspan="3">
-<p class="cuerpo_tabla_centro">ITR-0104</p>
+<p>Fotovoltaica.</p>
 </td>
 <td rowspan="3">
-<p class="cuerpo_tabla_centro">b.1.1</p>
+<p>ITR-0104</p>
+</td>
+<td rowspan="3">
+<p>b.1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2017</p>
+<p>2017</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04025</p>
+<p>IT-04025</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
-</td>
-</tr>
-<tr class="row_column_9">
-<td>
-<p class="cuerpo_tabla_centro">2018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">IT-04026</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
 </td>
 </tr>
-<tr class="row_column_8">
+<tr>
 <td>
-<p class="cuerpo_tabla_centro">2019</p>
+<p>2018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">IT-04027</p>
+<p>IT-04026</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">115.786</p>
+<p>115.786</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>IT-04027</p>
+</td>
+<td>
+<p>115.786</p>
 </td>
 </tr>
 </tbody>

@@ -1898,14 +1898,6 @@ La información estadística obtenida en aplicación de este apartado deberá po
 
 Igualmente, permitirá establecer un registro estadístico de las menores víctimas de violencia de género, que permita también la desagregación con indicador de discapacidad.
 
-> Téngase en cuenta que la atribución de competencias en materia de violencia sexual a los Juzgados de Violencia sobre la Mujer prevista en este artículo, actualizado por el art. 1.28 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entrará en vigor el 3 de octubre de 2025, según establece su disposición final 38.3.
-
-> Redacción anterior:
-
-> "**Artículo 89.**
-
-> La Ley de planta y demarcación puede establecer, como órganos distintos, en aquellos partidos en que fuere conveniente, los Juzgados de Primera Instancia y los Juzgados de Instrucción."
-
 > Se modifica por el art. 1.28 de la Ley Orgánica 1/2025, de 2 de enero. [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76)
 
 > Téngase en cuenta que la atribución de competencias en materia de violencia sexual a los Juzgados de Violencia sobre la Mujer, prevista en este artículo, entrará en vigor el 3 de octubre de 2025, según establece la disposición final 38.3 de la citada Ley Orgánica.

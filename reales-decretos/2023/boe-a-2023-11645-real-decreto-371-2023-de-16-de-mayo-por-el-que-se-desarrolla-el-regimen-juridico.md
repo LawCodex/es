@@ -90,26 +90,6 @@ a) Una cantidad a tanto alzado por cinco años de ese periodo, determinada de ac
 
 b) Un porcentaje adicional del 4 por ciento por cada uno de los años restantes, al que se aplicarán las previsiones establecidas en el artículo 210.2.a) del texto refundido de la Ley General de la Seguridad Social. En caso de acreditarse un semestre completo, se aplicará un porcentaje adicional del 2 por ciento.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 1.1 del Real Decreto 416/2026, de 27 de mayo, [Ref. BOE-A-2026-11474](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11474), entra en vigor el 28 de agosto de 2026, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "Las personas interesadas podrán optar por esta modalidad de pago del complemento cuando acrediten, al menos, dos años completos cotizados entre la fecha en que cumplieron la edad ordinaria de jubilación aplicable y la del hecho causante de la pensión de jubilación, siempre que al cumplir esa edad se hubiera reunido el periodo mínimo de cotización establecido en el artículo 205.1.b) del texto refundido de la Ley General de la Seguridad Social. En este caso, el complemento se fijará del siguiente modo:
-
-> 1\. Para el cómputo del período cotizado a considerar, se tomarán años completos, sin que se equipare a un año la fracción del mismo.
-
-> 2\. Cuando entre la fecha de cumplimiento de la edad ordinaria de jubilación aplicable y la del hecho causante de la pensión de jubilación se acredite un periodo de dos a diez años completos cotizados, el complemento consistirá en la suma de:
-
-> a) Un porcentaje adicional del 4 por ciento por cada año de la mitad de ese período, tomando el número entero inferior. Se aplicarán a este porcentaje las previsiones establecidas en el artículo 210.2.a) del texto refundido de la Ley General de la Seguridad Social.
-
-> b) Una cantidad a tanto alzado por el resto del periodo considerado, determinada de acuerdo con lo indicado en el artículo 210.2 b) del texto refundido de la Ley General de la Seguridad Social y en el artículo 2.1.b) de este real decreto.
-
-> 3\. Cuando entre la fecha de cumplimiento de la edad ordinaria de jubilación aplicable y la del hecho causante de la pensión se acredite un periodo de once o más años completos cotizados, el complemento consistirá en la suma de:
-
-> a) Una cantidad a tanto alzado por cinco años de ese período, determinada de acuerdo con lo indicado en el artículo 210.2 b) del texto refundido de la Ley General de la Seguridad social y en el artículo 2.1.b) de este real decreto.
-
-> b) Un porcentaje adicional del 4 por ciento por cada uno de los años restantes, al que se aplicarán las previsiones establecidas en el artículo 210.2.a) del texto refundido de la Ley General de la Seguridad Social."
-
 > Se modifica, con efectos desde el 28 de agosto de 2026, por la disposición final 1.1 del Real Decreto 416/2026, de 27 de mayo. [Ref. BOE-A-2026-11474](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11474)
 
 ## Artículo 4. Determinación del complemento en el supuesto de aplicación de normas internacionales.
@@ -134,25 +114,11 @@ En el supuesto de que la cuantía de la pensión teórica alcance el límite est
 
 **(Suprimido)**
 
-> Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 1.2 del Real Decreto 416/2026, de 27 de mayo, [Ref. BOE-A-2026-11474](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11474), entra en vigor el 28 de agosto de 2026, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "1. A efectos de aplicar la incompatibilidad prevista en el artículo 210.2 del texto refundido de la Ley General de la Seguridad Social entre la percepción del complemento económico regulado en este real decreto y el acceso al envejecimiento activo regulado en el artículo 214 del citado texto refundido de la Ley General de la Seguridad Social, se tendrán en cuenta las siguientes reglas:
-
-> a) Cuando se hubiese optado por percibir el complemento bajo la modalidad de porcentaje adicional a que se refiere el artículo 2.1.a) de este real decreto, su percibo quedará suspendido durante el tiempo en que se aplique el régimen de compatibilidad del trabajo con la pensión de jubilación previsto en el artículo 214 del texto refundido de la Ley General de la Seguridad Social.
-
-> b) Cuando se hubiese optado por percibir el complemento bajo la modalidad de cantidad a tanto alzado, a que se refiere el artículo 2.1.b), o bajo la fórmula prevista en el artículo 2.1.c), ambos de este real decreto, no será posible aplicar el régimen de compatibilidad del trabajo con la pensión de jubilación previsto en el artículo 214 del texto refundido de la Ley General de la Seguridad Social.
-
-> 2\. Lo establecido en este artículo únicamente será de aplicación a las pensiones de jubilación reconocidas de acuerdo con lo previsto en el artículo 210.2 del texto refundido de la Ley General de la Seguridad Social cuyo hecho causante sea posterior a 31 de diciembre de 2021."
-
 > Se suprime, con efectos desde el 28 de agosto de 2026, por la disposición final 1.2 del Real Decreto 416/2026, de 27 de mayo. [Ref. BOE-A-2026-11474](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11474)
 
 ## Disposición transitoria única. Régimen transitorio del régimen de incompatibilidad del complemento por demora con el acceso al envejecimiento activo.
 
 Se seguirá aplicando la incompatibilidad de la percepción del complemento por demora con el acceso al envejecimiento activo regulada en el artículo 210 del texto refundido de la Ley General de la Seguridad Social así como las reglas para la aplicación de dicha incompatibilidad previstas en el artículo 6 de este real decreto, conforme a lo establecido en la regulación contenida en dichos artículos vigentes a 31 de marzo de 2025, a las personas que en esa fecha estuvieran compatibilizando la pensión con un trabajo por cuenta ajena o propia conforme a dicho régimen, en tanto no se produzca la baja en el régimen de la Seguridad Social correspondiente por haber finalizado la citada relación laboral o actividad por cuenta propia.
-
-> Téngase en cuenta que esta disposición, añadida por la disposición final 1.3 del Real Decreto 416/2026, de 27 de mayo, [Ref. BOE-A-2026-11474](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11474), entra en vigor el 28 de agosto de 2026, según establece su disposición final 4.
 
 > Se añade, con efectos desde el 28 de agosto de 2026, por la disposición final 1.3 del Real Decreto 416/2026, de 27 de mayo. [Ref. BOE-A-2026-11474](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11474)
 

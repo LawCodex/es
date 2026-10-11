@@ -414,12 +414,6 @@ Será término inicial del cómputo de dichos intereses la fecha del abono por l
 
 No habrá lugar a la indemnización por mora del empresario cuando la falta de restitución debida por el empresario a los consumidores y usuarios esté fundada en una causa justificada o que no le fuere imputable. En la determinación de la indemnización por mora del empresario no será de aplicación lo dispuesto en el artículo 1108 del Código Civil, ni lo preceptuado en el artículo 576 de la Ley 1/2000, de 22 de enero, de Enjuiciamiento Civil.
 
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por la disposición final 16 de la Ley Orgánica 1/2025, de 2 de enero, [Ref. BOE-A-2025-76](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76), entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
-
-> Redacción anterior:
-
-> "1. Los legítimos intereses económicos y sociales de los consumidores y usuarios deberán ser respetados en los términos establecidos en esta norma, aplicándose, además, lo previsto en las normas civiles y mercantiles, en las regulaciones sectoriales de ámbito estatal, así como en la normativa comunitaria y autonómica que resulten de aplicación."
-
 2\. Sin perjuicio de lo dispuesto en los apartados siguientes, para la protección de los legítimos intereses económicos y sociales de los consumidores y usuarios, las prácticas comerciales de los empresarios dirigidas a ellos están sujetas a lo dispuesto en esta ley, en la Ley 3/1991, de 10 de enero, de Competencia Desleal, y en la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, no obstante la normativa sectorial que en cada caso resulte de aplicación. A estos efectos, se consideran prácticas comerciales de los empresarios con los consumidores y usuarios todo acto, omisión, conducta, manifestación o comunicación comercial, incluida la publicidad y la comercialización, directamente relacionada con la promoción, la venta o el suministro de bienes o servicios, incluidos los bienes inmuebles, así como los derechos y obligaciones, con independencia de que sea realizada antes, durante o después de una operación comercial.
 
 No tienen la consideración de prácticas comerciales las relaciones de naturaleza contractual, que se regirán conforme a lo previsto en el artículo 59.
@@ -533,8 +527,6 @@ En el supuesto de que una o varias reseñas no sean formuladas por un consumidor
 2\. Las personas que hubieran realizado de forma conjunta la infracción referida en el apartado anterior serán solidariamente responsables del resarcimiento de los daños y perjuicios ocasionados.
 
 3\. En ningún caso, la existencia de una práctica comercial desleal puede ser utilizada en contra de los intereses de los consumidores y usuarios.
-
-> Téngase en cuenta que este artículo, añadido por el art. 82.3 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
 
 > Se añade por el art. 82.3 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
@@ -1176,8 +1168,6 @@ Para considerar que una infracción de la normativa de consumo produce lesiones 
 
 5\. Con sujeción a lo establecido en el artículo 103 de la Ley 39/2015, de 1 de octubre, las autoridades competentes podrán imponer multas coercitivas, una vez efectuado requerimiento de ejecución de los actos y resoluciones administrativas destinadas al cumplimiento de lo establecido en el Reglamento (UE) 2017/2394. El requerimiento deberá advertir del plazo establecido para su cumplimiento, así como de la cuantía de la multa que pudiere ser impuesta en caso de incumplimiento. Para la determinación del plazo se estará a la naturaleza y extensión de la obligación, debiendo ser suficiente para su cumplimiento, no pudiendo exceder la cuantía de la multa de 3.000 euros o del 10% del importe de la obligación, si esta fuere cuantificable. Si la persona requerida no diere cumplimiento a lo ordenado en el plazo establecido, el órgano competente podrá reiterar las multas por períodos que sean suficientes para su cumplimiento, no pudiendo, en cualquier caso, otorgarse un plazo inferior al establecido en el primer requerimiento. Estas multas son independientes de las que puedan imponerse en concepto de sanción y compatibles con ellas.
 
-> Téngase en cuenta que este artículo, añadido por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
-
 > Se añade por el art. 82.4 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -1195,12 +1185,6 @@ A efectos de lo dispuesto en este capítulo, también se considera conducta cont
 A cualquier acción de cesación podrá acumularse siempre que se solicite la de nulidad y anulabilidad, la de incumplimiento de obligaciones, la de resolución o rescisión contractual y la de restitución de cantidades que se hubiesen cobrado en virtud de la realización de las conductas o estipulaciones o condiciones generales declaradas abusivas o no transparentes, así como la de indemnización de daños y perjuicios que hubiere causado la aplicación de tales cláusulas o prácticas. De dicha acción acumulada accesoria conocerá el mismo juzgado encargado de la acción principal, la de cesación por la vía prevista en la ley procesal.
 
 **(Último párrafo suprimido)**
-
-> Téngase en cuenta que se suprime el último párrafo, con efectos de 1 de enero de 2022, por el art. 16.1 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), según establece su disposición final octava.
-
-> Redacción anterior:
-
-> "Serán acumulables a cualquier acción de cesación interpuesta por asociaciones de consumidores y usuarios la de nulidad y anulabilidad, de incumplimiento de obligaciones, la de resolución o rescisión contractual y la de restitución de cantidades que se hubiesen cobrado en virtud de la realización de las conductas o estipulaciones o condiciones generales declaradas abusivas o no transparentes, así como la de indemnización de daños y perjuicios que hubiere causado la aplicación de tales cláusulas o prácticas."
 
 > Se suprime el último párrafo, con efectos de 1 de enero de 2022, por el art. 16.1 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -1284,8 +1268,6 @@ No obstante lo previsto en el párrafo anterior, la regulación sectorial podrá
 
 4\. El ámbito de aplicación de este Libro también abarcará los contratos en virtud de los cuales el empresario suministra o se compromete a suministrar contenidos o servicios digitales al consumidor o usuario y este facilita o se compromete a facilitar datos personales, salvo cuando los datos personales facilitados por el consumidor o usuario sean tratados exclusivamente por el empresario con el fin de suministrar los contenidos o servicios digitales objeto de un contrato de compraventa o de servicios o para permitir que el empresario cumpla los requisitos legales a los que está sujeto, y el empresario no trate esos datos para ningún otro fin.
 
-> Téngase en cuenta que el apartado 4, añadido por el art. 16.2 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
-
 > Se añade el apartado 4, con efectos de 1 de enero de 2022, por el art. 16.2 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se modifica el apartado 2 por el art. único.10 de la Ley 3/2014, de 27 de marzo. [Ref. BOE-A-2014-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3329).
@@ -1334,37 +1316,7 @@ r) “Subasta pública”: método de venta en el que el empresario ofrece biene
 
 2\. A los efectos de este libro, título I, capítulo I, artículos 66 bis y 66 ter, y de los títulos III y IV, se consideran “bienes” a las cosas muebles corporales. El agua, el gas y la electricidad se considerarán “bienes” cuando estén envasados para su comercialización en un volumen delimitado o en cantidades determinadas.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.3 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "1. A los efectos de este libro se entenderá por:
-
-> a) "contrato de venta": todo contrato en virtud del cual el empresario transmita o se comprometa a transmitir a un consumidor la propiedad de ciertos bienes y el consumidor pague o se comprometa a pagar su precio, incluido cualquier contrato cuyo objeto esté constituido a la vez por bienes y servicios.
-
-> b) "contrato de servicios": todo contrato, con excepción de un contrato de venta, en virtud del cual el empresario preste o se comprometa a prestar un servicio al consumidor y usuario y éste pague o se comprometa a pagar su precio.
-
-> c) "contrato complementario": un contrato por el cual el consumidor y usuario adquiera bienes o servicios sobre la base de otro contrato celebrado con un empresario, incluidos los contratos a distancia o celebrados fuera del establecimiento, y dichos bienes o servicios sean proporcionados por el empresario o un tercero sobre la base de un acuerdo entre dicho tercero y el empresario.
-
-> d) "establecimiento mercantil": toda instalación inmueble de venta al por menor en la que el empresario ejerce su actividad de forma permanente; o toda instalación móvil de venta al por menor en la que el empresario ejerce su actividad de forma habitual.
-
-> e) "bienes elaborados conforme a las especificaciones del consumidor y usuario": todo bien no prefabricado para cuya elaboración sea determinante una elección o decisión individual por parte del consumidor y usuario.
-
-> f) "soporte duradero": todo instrumento que permita al consumidor y usuario y al empresario almacenar información que se le haya dirigido personalmente de forma que en el futuro pueda consultarla durante un período de tiempo acorde con los fines de dicha información y que permita su fiel reproducción. Entre otros, tiene la consideración de soporte duradero, el papel, las memorias USB, los CD-ROM, los DVD, las tarjetas de memoria o los discos duros de ordenador, los correos electrónicos, así como los mensajes SMS.
-
-> g) "servicio financiero": todo servicio en el ámbito bancario, de crédito, de seguros, de pensión privada, de inversión o de pago.
-
-> h) "subasta pública": procedimiento de contratación transparente y competitivo en virtud del cual el empresario ofrece bienes o servicios a los consumidores y usuarios que asistan o puedan asistir a la subasta en persona, dirigido por un subastador y en el que el adjudicatario esté obligado a comprar los bienes o servicios.
-
-> i) "contenido digital": los datos producidos y suministrados en formato digital.
-
-> j) "garantía comercial": todo compromiso asumido por un empresario o un productor (el "garante") frente al consumidor y usuario, además de sus obligaciones legales con respecto a la garantía de conformidad, de reembolsar el precio pagado, sustituir o reparar el bien o prestar un servicio relacionado con él, en caso de que no se cumplan las especificaciones o cualquier otro elemento no relacionado con la conformidad del bien con el contrato, enunciados en el documento de garantía o en la publicidad correspondiente, disponible en el momento o antes de la celebración del contrato.
-
-> 2\. A los efectos de este libro, título I, capítulo I, artículos 66 bis y 66 ter y del título III, se consideran bienes a las cosas muebles corporales, excepto los vendidos por la autoridad correspondiente tras un embargo u otra medida similar. El agua, el gas y la electricidad se considerarán "bienes" cuando estén envasados para su comercialización en un volumen delimitado o en cantidades determinadas."
-
 3\. A los efectos del artículo 20 y de este libro, se considera «mercado en línea» un servicio que emplea programas (*software*), incluidos un sitio web, parte de un sitio web o una aplicación, operado por el empresario o por cuenta de éste, que permite a los consumidores o usuarios celebrar contratos a distancia con otros empresarios o consumidores, y se considera «proveedor de un mercado en línea» a todo empresario que pone a disposición de los consumidores o usuarios un mercado en línea. A los mismos efectos, se entiende por «clasificación», la preeminencia relativa atribuida a los bienes y servicios, en su presentación, organización o comunicación por parte del empresario, independientemente de los medios tecnológicos empleados para dicha presentación, organización o comunicación.
-
-> Téngase en cuenta que el apartado 3, añadido por el art. 82.5 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
 
 > Se añade el apartado 3 por el art. 82.5 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
@@ -1411,16 +1363,6 @@ k) El procedimiento para atender las reclamaciones de los consumidores y usuario
 4\. La información precontractual debe facilitarse al consumidor y usuario de forma gratuita y al menos en castellano y en su caso, a petición de cualquiera de las partes, deberá redactarse también en cualquiera de las otras lenguas oficiales en el lugar de celebración del contrato.
 
 5\. La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este artículo incumbirá al empresario.
-
-> Téngase en cuenta que esta última actualización de las letras e), i) y j) del apartado 2 y el nuevo apartado 5, establecidos por el art. 82.6 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
-
-> Redacción anterior:
-
-> "e) Además del recordatorio de la existencia de una garantía legal de conformidad para los bienes, la existencia y las condiciones de los servicios posventa y las garantías comerciales.
-
-> i) La funcionalidad de los contenidos digitales, incluidas las medidas técnicas de protección aplicables, como son, entre otras, la protección a través de la gestión de los derechos digitales o la codificación regional.
-
-> j) Toda interoperabilidad relevante del contenido digital con los aparatos y programas conocidos por el empresario o que quepa esperar razonablemente que conozca, como son, entre otros, el sistema operativo, la versión necesaria o determinados elementos de los soportes físicos."
 
 > Se añade el párrafo segundo al apartado 1 y se modifica el apartado 4 por el art. 1.8 de la Ley 4/2022, de 25 de febrero de 2022. [Ref. BOE-A-2022-3198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3198)
 
@@ -1540,22 +1482,6 @@ b) Las partes hayan acordado o así se desprenda claramente de las circunstancia
 
 6\. Este artículo no será aplicable a los contratos excluidos del ámbito del Título IV de este Libro que aparecen relacionados en el apartado 2 del artículo 114, a excepción de los señalados en su apartado a).
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.5 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 66 bis. Entrega de los bienes comprados mediante un contrato de venta.
-
-> 1\. Salvo que las partes acuerden otra cosa, el empresario entregará los bienes mediante la transmisión de su posesión material o control al consumidor y usuario, sin ninguna demora indebida y en un plazo máximo de 30 días naturales a partir de la celebración del contrato.
-
-> 2\. Si el empresario no cumple su obligación de entrega, el consumidor y usuario lo emplazará para que cumpla en un plazo adicional adecuado a las circunstancias. Si el empresario no hace entrega de los bienes en dicho plazo adicional, el consumidor y usuario tendrá derecho a resolver el contrato.
-
-> Lo dispuesto en este apartado no será aplicable cuando el empresario haya rechazado entregar los bienes o el plazo de entrega sea esencial a la vista de todas las circunstancias que concurran en su celebración o cuando el consumidor y usuario informe al empresario, antes de la celebración del contrato, de que es esencial la entrega antes de una fecha determinada o en una fecha determinada. En tales casos, si el empresario no cumple su obligación de entrega de los bienes en el plazo acordado con el consumidor y usuario, o en el plazo fijado en el apartado 1, el consumidor y usuario tendrá derecho a resolver el contrato de inmediato.
-
-> 3\. Cuando se haya resuelto el contrato, el empresario deberá proceder a reembolsar, sin ninguna demora indebida, todas las cantidades abonadas por el consumidor y usuario en virtud del mismo.
-
-> 4\. Corresponde al empresario la carga de la prueba sobre el cumplimiento de los plazos a que se refiere este artículo."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.5 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se modifica el apartado 3 por la disposición final 1 del Real Decreto-ley 9/2017, de 26 de mayo. [Ref. BOE-A-2017-5855](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5855)
@@ -1654,12 +1580,6 @@ El ejercicio del derecho de desistimiento no implicará gasto alguno para el con
 
 4\. **(Suprimido)**
 
-> Téngase en cuenta que el apartado 4 se suprime por el art. 16.6 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), con efectos de 1 de enero de 2022, según establece su disposición final octava.
-
-> Redacción anterior:
-
-> "4. En caso de que el usuario incumpla el compromiso de permanencia adquirido con la empresa, la penalización por baja, o cese prematuro de la relación contractual, será proporcional al número de días no efectivos del compromiso de permanencia acordado."
-
 > Se suprime el apartado 4, con efectos de 1 de enero de 2022, por el art. 16.6 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se añade el apartado 4 por el art. único.21 de la Ley 3/2014, de 27 de marzo. [Ref. BOE-A-2014-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3329).
@@ -1730,12 +1650,6 @@ a) Concreción, claridad y sencillez en la redacción, con posibilidad de compre
 
 b) Accesibilidad y legibilidad, de forma que permita al consumidor y usuario el conocimiento previo a la celebración del contrato sobre su existencia y contenido. En ningún caso se entenderá cumplido este requisito si el tamaño de la letra del contrato fuese inferior a los 2.5 milímetros, el espacio entre líneas fuese inferior a los 1.15 milímetros o el insuficiente contraste con el fondo hiciese dificultosa la lectura.
 
-> Téngase en cuenta que esta actualización de la letra b), establecida por el art. 1.10 de la Ley 4/2022, de 25 de febrero de 2022. [Ref. BOE-A-2022-3198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3198), entra en vigor el 1 de junio de 2022, según determina su disposición final séptima.
-
-> Redacción anterior:
-
-> "b) Accesibilidad y legibilidad, de forma que permita al consumidor y usuario el conocimiento previo a la celebración del contrato sobre su existencia y contenido. En ningún caso se entenderá cumplido este requisito si el tamaño de la letra del contrato fuese inferior al milímetro y medio o el insuficiente contraste con el fondo hiciese dificultosa la lectura."
-
 c) Buena fe y justo equilibrio entre los derechos y obligaciones de las partes, lo que en todo caso excluye la utilización de cláusulas abusivas.
 
 2\. Cuando se ejerciten acciones individuales, en caso de duda sobre el sentido de una cláusula prevalecerá la interpretación más favorable al consumidor.
@@ -1787,14 +1701,6 @@ f) contravengan las reglas sobre competencia y derecho aplicable.
 Las cláusulas abusivas serán nulas de pleno derecho y se tendrán por no puestas. A estos efectos, el Juez, previa audiencia de las partes, declarará la nulidad de las cláusulas abusivas incluidas en el contrato, el cual, no obstante, seguirá siendo obligatorio para las partes en los mismos términos, siempre que pueda subsistir sin dichas cláusulas.
 
 Las condiciones incorporadas de modo no transparente en los contratos en perjuicio de los consumidores serán nulas de pleno derecho.
-
-> Téngase en cuenta que esta última modificación, establecida por la disposición final 8 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814), entra en vigor el 16 de junio de 2019 según establece su disposición final 16:
-
-> Redacción anterior:
-
-> **"Artículo 83. Nulidad de las cláusulas abusivas y subsistencia del contrato.**
-
-> Las cláusulas abusivas serán nulas de pleno derecho y se tendrán por no puestas. A estos efectos, el Juez, previa audiencia de las partes, declarará la nulidad de las cláusulas abusivas incluidas en el contrato, el cual, no obstante, seguirá siendo obligatorio para las partes en los mismos términos, siempre que pueda subsistir sin dichas cláusulas."
 
 > Se añade el último párrafo por la disposición final 8 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814).
 
@@ -1994,8 +1900,6 @@ m) A los contratos celebrados con operadores de telecomunicaciones a través de 
 
 n) A los contratos de bienes vendidos por la autoridad judicial tras un embargo u otro procedimiento.
 
-> Téngase en cuenta que la letra n), añadida por el art. 82.7 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
 > Se añade la letra n) por el art. 82.7 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -2136,8 +2040,6 @@ f) Los métodos de resolución de conflictos y, en su caso, el papel desempeñad
 
 2\. La carga de la prueba en relación con el cumplimiento de los requisitos de información establecidos en este artículo incumbirá al empresario.
 
-> Téngase en cuenta que este artículo, añadido por el art. 82.9 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
 > Se añade por el art. 82.9 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -2170,18 +2072,6 @@ b) Cuando proceda, la confirmación del previo consentimiento expreso del consum
 
 10\. Este artículo se entenderá sin perjuicio de las disposiciones sobre la celebración de contratos y la realización de pedidos por vía electrónica establecidas en la Ley 34/2002, de 11 de julio.
 
-> Téngase en cuenta que esta última redacción de los apartados 2, 4 y 8, establecida por el art. 82.10 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "2. Si un contrato a distancia que ha de ser celebrado por medios electrónicos implica obligaciones de pago para el consumidor y usuario, el empresario pondrá en conocimiento de éste de una manera clara y destacada, y justo antes de que efectúe el pedido, la información establecida en el artículo 97.1.a), e), p) y q).
-
-> El empresario deberá velar por que el consumidor y usuario, al efectuar el pedido, confirme expresamente que es consciente de que éste implica una obligación de pago. Si la realización de un pedido se hace activando un botón o una función similar, el botón o la función similar deberán etiquetarse, de manera que sea fácilmente legible, únicamente con la expresión «pedido con obligación de pago» o una formulación análoga no ambigua que indique que la realización del pedido implica la obligación de pagar al empresario. En caso contrario, el consumidor y usuario no quedará obligado por el contrato o pedido.
-
-> 4\. Si el contrato se celebra a través de una técnica de comunicación a distancia en la que el espacio o el tiempo para facilitar la información son limitados, el empresario facilitará en ese soporte específico, antes de la celebración de dicho contrato, como mínimo la información precontractual sobre las características principales de los bienes o servicios, la identidad del empresario, el precio total, el derecho de desistimiento, la duración del contrato y, en el caso de contratos de duración indefinida, las condiciones de resolución, tal como se refiere en el artículo 97.1. a), b), e), i) y p). El empresario deberá facilitar al consumidor y usuario las demás informaciones que figuran en el artículo 97 de una manera apropiada con arreglo al apartado 1.
-
-> 8\. En caso de que un consumidor y usuario desee que la prestación de servicios o el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas– o de calefacción mediante sistemas urbanos dé comienzo durante el plazo de desistimiento previsto en el artículo 104, el empresario exigirá que el consumidor y usuario presente una solicitud expresa en tal sentido."
-
 > Se modifican los apartados 2, 4 y 8 por el art. 82.10 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -2195,12 +2085,6 @@ b) Cuando proceda, la confirmación del previo consentimiento expreso del consum
 2\. El empresario deberá facilitar al consumidor y usuario una copia del contrato firmado o la confirmación del mismo en papel o, si éste está de acuerdo, en un soporte duradero diferente, incluida, cuando proceda, la confirmación del previo consentimiento expreso del consumidor y usuario y del conocimiento por su parte de la pérdida del derecho de desistimiento a que se refiere el artículo 103.m).
 
 3\. En caso de que un consumidor o usuario desee que la prestación de servicios o el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos, dé comienzo durante el plazo de desistimiento previsto en el artículo 104, y el contrato imponga al consumidor o usuario una obligación de pago, el empresario le exigirá que presente en un soporte duradero una solicitud expresa solicitando el comienzo del contrato, así como una declaración de que, una vez que el empresario haya ejecutado íntegramente el contrato, habrá perdido su derecho de desistimiento.
-
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por el art. 82.11 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "3. En caso de que un consumidor y usuario desee que la prestación de servicios o el suministro de agua, gas, electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o calefacción mediante sistemas urbanos, dé comienzo durante el plazo de desistimiento previsto en el artículo 104, el empresario exigirá que el consumidor y usuario presente una solicitud expresa en tal sentido en un soporte duradero."
 
 4\. Corresponde al empresario probar el cumplimiento de las obligaciones a que este artículo se refiere. El empresario deberá adoptar las medidas adecuadas y eficaces que le permitan identificar inequívocamente al consumidor y usuario con el que celebra el contrato.
 
@@ -2240,12 +2124,6 @@ b) Cuando proceda, la confirmación del previo consentimiento expreso del consum
 
 En el caso de los contratos celebrados en el contexto de visitas no solicitadas efectuadas por el empresario en el domicilio del consumidor o usuario o de excursiones organizadas por el empresario con el objetivo o efecto de promocionar o vender bienes o servicios, el plazo de desistimiento se amplía a treinta días naturales.
 
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por el art. 82.12 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "1. Salvo las excepciones previstas en el artículo 103, el consumidor y usuario tendrá derecho a desistir del contrato durante un periodo de 14 días naturales sin indicar el motivo y sin incurrir en ningún coste distinto de los previstos en los artículos 107.2 y 108."
-
 2\. Serán nulas de pleno derecho las cláusulas que impongan al consumidor y usuario una penalización por el ejercicio de su derecho de desistimiento o la renuncia al mismo.
 
 > Se modifica el apartado 1 por el art. 82.12 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
@@ -2259,12 +2137,6 @@ En el caso de los contratos celebrados en el contexto de visitas no solicitadas 
 El derecho de desistimiento no será aplicable a los contratos que se refieran a:
 
 a) La prestación de servicios, una vez que el servicio haya sido completamente ejecutado, y si el contrato impone al consumidor o usuario una obligación de pago, cuando la ejecución haya comenzado, con previo consentimiento expreso del consumidor o usuario y con el conocimiento por su parte de que, una vez que el empresario haya ejecutado íntegramente el contrato, habrá perdido su derecho de desistimiento.
-
-> Téngase en cuenta que esta última actualización de la letra a), establecida por el art. 82.13 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "a) La prestación de servicios, una vez que el servicio haya sido completamente ejecutado, cuando la ejecución haya comenzado, con previo consentimiento expreso del consumidor y usuario y con el reconocimiento por su parte de que es consciente de que, una vez que el contrato haya sido completamente ejecutado por el empresario, habrá perdido su derecho de desistimiento."
 
 b) El suministro de bienes o la prestación de servicios cuyo precio dependa de fluctuaciones del mercado financiero que el empresario no pueda controlar y que puedan producirse durante el periodo de desistimiento.
 
@@ -2296,12 +2168,6 @@ m) El suministro de contenido digital que no se preste en un soporte material cu
 
 3.º El empresario haya proporcionado una confirmación con arreglo al artículo 98.7 o al artículo 99.2.
 
-> Téngase en cuenta que esta última actualización de la letra m), establecida por el art. 82.13 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "m) El suministro de contenido digital que no se preste en un soporte material cuando la ejecución haya comenzado con el previo consentimiento expreso del consumidor y usuario con el conocimiento por su parte de que en consecuencia pierde su derecho de desistimiento."
-
 > Se modifican las letras a) y m) por el art. 82.13 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -2324,24 +2190,6 @@ b) El día que el consumidor y usuario o un tercero por él indicado, distinto d
 
 c) En el caso de los contratos para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos o de contenido digital que no se preste en un soporte material, el día en que se celebre el contrato.
 
-> Téngase en cuenta que esta última actualización, establecida por el art. 82.14 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "Sin perjuicio de lo dispuesto en el artículo 105, el plazo de desistimiento concluirá a los 14 días naturales contados a partir de:
-
-> a) En el caso de los contratos de servicios, el día de la celebración del contrato.
-
-> b) En el caso de los contratos de venta, el día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material de los bienes solicitados, o bien:
-
-> 1.º En caso de entrega de múltiples bienes encargados por el consumidor y usuario en el mismo pedido y entregados por separado, el día que éste o un tercero por él indicado, distinto del transportista, adquiera la posesión material del último de los bienes.
-
-> 2.º En caso de entrega de un bien compuesto por múltiples componentes o piezas, el día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del último componente o pieza.
-
-> 3.º En caso de contratos para la entrega periódica de bienes durante un plazo determinado, el día que el consumidor y usuario o un tercero por él indicado, distinto del transportista, adquiera la posesión material del primero de esos bienes.
-
-> c) En el caso de los contratos para el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas–, o de calefacción mediante sistemas urbanos o de contenido digital que no se preste en un soporte material, el día en que se celebre el contrato."
-
 > Se modifica por el art. 82.14 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -2353,14 +2201,6 @@ c) En el caso de los contratos para el suministro de agua, gas o electricidad �
 1\. Si el empresario no ha facilitado al consumidor o usuario la información sobre el derecho de desistimiento, tal como se establece en el artículo 97.1.j), el periodo de desistimiento finalizará doce meses después de la fecha de expiración del periodo de desistimiento inicial, determinada de conformidad con el artículo 104.
 
 2\. Si el empresario ha facilitado al consumidor o usuario la información contemplada en el apartado anterior en el plazo de doce meses a partir de la fecha contemplada en el artículo 104, el plazo de desistimiento expirará a los catorce días naturales o, en su caso, a los treinta días naturales de la fecha en que el consumidor y usuario reciba la información.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. 82.15 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "1. Si el empresario no ha facilitado al consumidor y usuario la información sobre el derecho de desistimiento, tal como se establece en el artículo 97.1.i), el periodo de desistimiento finalizará doce meses después de la fecha de expiración del periodo de desistimiento inicial, determinada de conformidad con el artículo 104.
-
-> 2\. Si el empresario ha facilitado al consumidor y usuario la información contemplada en el apartado 1, en el plazo de doce meses a partir de la fecha contemplada en el artículo 104, el plazo de desistimiento expirará a los 14 días naturales de la fecha en que el consumidor y usuario reciba la información."
 
 > Se modifica por el art. 82.15 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
@@ -2412,8 +2252,6 @@ d) Haya sido generado conjuntamente por el consumidor o usuario y otras personas
 
 8\. El empresario podrá impedir al consumidor o usuario cualquier uso posterior a la fecha de desistimiento de los contenidos o servicios digitales, en particular haciendo que estos no sean accesibles para el consumidor o usuario o inhabilitándole la cuenta de usuario, sin perjuicio de lo dispuesto en el apartado 6.
 
-> Téngase en cuenta que los apartados 4 a 8, añadidos por el art. 82.16 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entran en vigor el 28 de mayo de 2022, excepto el apartado 5 que entra en vigor el 1 de enero de 2022 en lo referente a la resolución del contrato prevista en el apartado 5 del artículo 119 ter del presente texto refundido, según establece la disposición final 10.c) del citado Real Decreto-ley.
-
 > Se añaden los apartados 4 a 8 por el art. 82.16 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, excepto el apartado 5 que entra en vigor el 1 de enero de 2022 en lo referente a la resolución del contrato prevista en el apartado 5 del artículo 119 ter del presente texto refundido, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -2453,32 +2291,6 @@ b) El suministro, en su totalidad o en parte, de contenido digital que no se pre
 3.º El empresario no haya dado la confirmación con arreglo al artículo 98.7 o al artículo 99.2.
 
 6\. Con excepción de lo dispuesto en el artículo 107.2, y en este artículo, el consumidor y usuario no incurrirá en ninguna responsabilidad como consecuencia del ejercicio del derecho de desistimiento.
-
-> Téngase en cuenta que esta última actualización de los apartados 2 a 6, establecida por el art. 82.17 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "2. El consumidor y usuario sólo será responsable de la disminución de valor de los bienes resultante de una manipulación de los mismos distinta a la necesaria para establecer su naturaleza, sus características o su funcionamiento. En ningún caso será responsable de la disminución de valor de los bienes si el empresario no le ha informado de su derecho de desistimiento con arreglo al artículo 97.1.i).
-
-> 3\. Cuando un consumidor y usuario ejerza el derecho de desistimiento tras haber realizado una solicitud de conformidad con lo dispuesto en el artículo 98.8 o en el artículo 99.3, abonará al empresario un importe proporcional a la parte ya prestada del servicio en el momento en que haya informado al empresario del ejercicio del derecho de desistimiento, en relación con el objeto total del contrato. El importe proporcional que habrá de abonar al empresario se calculará sobre la base del precio total acordado en el contrato. En caso de que el precio total sea excesivo, el importe proporcional se calculará sobre la base del valor de mercado de la parte ya prestada del servicio.
-
-> 4\. El consumidor y usuario no asumirá ningún coste por:
-
-> a) La prestación de los servicios o el suministro de agua, gas o electricidad –cuando no estén envasados para la venta en un volumen delimitado o en cantidades determinadas– o de calefacción mediante sistemas urbanos, de forma total o parcial, durante el período de desistimiento, cuando:
-
-> 1.º El empresario no haya facilitado información con arreglo al artículo 97.1.i) o k); o bien
-
-> 2.º El consumidor y usuario no haya solicitado expresamente que la prestación del servicio se inicie durante el plazo de desistimiento con arreglo al artículo 98.8 y al artículo 99.3; o bien
-
-> b) El suministro, en su totalidad o en parte, de contenido digital que no se preste en un soporte material, cuando:
-
-> 1.º El consumidor y usuario no haya dado expresamente su consentimiento previo a la ejecución antes de que finalice el periodo de 14 días naturales contemplado en el artículo 102.
-
-> 2.º El consumidor y usuario no es consciente de que renuncia a su derecho de desistimiento al dar su consentimiento; o bien
-
-> 3.º El empresario no haya dado la confirmación con arreglo al artículo 98.7 o al artículo 99.2.
-
-> 5\. Con excepción de lo dispuesto en el artículo 107.2, y en este artículo, el consumidor y usuario no incurrirá en ninguna responsabilidad como consecuencia del ejercicio del derecho de desistimiento."
 
 > Se modifica el apartado 2, se renumeran los apartados 3 a 5 como 4 a 6, se añade un nuevo 3 y se modifica el 5 por el art. 82.17 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
@@ -2534,12 +2346,6 @@ Del cumplimiento de las obligaciones establecidas en este título responderán s
 
 #### CAPÍTULO I — Disposiciones generales sobre garantía
 
-> Téngase en cuenta que esta actualización del capítulo I, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Disposiciones generales sobre garantía de los productos de consumo"
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 114. Ámbito de aplicación.
@@ -2580,29 +2386,11 @@ En el caso a que se refiere la letra b), los consumidores o usuarios podrán acc
 
 3\. Los artículos 126 y 126 bis no se aplicarán cuando un paquete en el sentido del Código Europeo de las Comunicaciones Electrónicas, incluya elementos de un servicio de acceso a internet, tal como se define en el artículo 2.2) del Reglamento (UE) 2015/2120, o un servicio de comunicaciones interpersonales basado en numeración, según la definición del citado Código.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 114. Principios generales.
-
-> El vendedor está obligado a entregar al consumidor y usuario productos que sean conformes con el contrato, respondiendo frente a él de cualquier falta de conformidad que exista en el momento de la entrega del producto.
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 115. Conformidad de los bienes y de los contenidos o servicios digitales.
 
 Los bienes, los contenidos o servicios digitales que el empresario entregue o suministre al consumidor o usuario se considerarán conformes con el contrato cuando cumplan los requisitos subjetivos y objetivos establecidos que sean de aplicación siempre que, cuando corresponda, hayan sido instalados o integrados correctamente, todo ello sin perjuicio de los derechos de terceros a los que se refiere el segundo párrafo del artículo 117.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 115. Ámbito de aplicación.
-
-> 1\. Están incluidos en el ámbito de aplicación de este título los contratos de compraventa de productos y los contratos de suministro de productos que hayan de producirse o fabricarse.
-
-> 2\. Lo previsto en este título no será de aplicación a los productos adquiridos mediante venta judicial, al agua o al gas, cuando no estén envasados para la venta en volumen delimitado o cantidades determinadas, y a la electricidad. Tampoco será aplicable a los productos de segunda mano adquiridos en subasta administrativa a la que los consumidores y usuarios puedan asistir personalmente."
 
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2617,8 +2405,6 @@ b) Ser aptos para los fines específicos para los que el consumidor o usuario lo
 c) Ser entregados o suministrados junto con todos los accesorios, instrucciones, también en materia de instalación o integración, y asistencia al consumidor o usuario en caso de contenidos digitales según disponga el contrato.
 
 d) Ser suministrados con actualizaciones, en el caso de los bienes, o ser actualizados, en el caso de contenidos o servicios digitales, según se establezca en el contrato en ambos casos.
-
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
 
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2658,8 +2444,6 @@ b) El hecho de que el consumidor o usuario no instalase la actualización o no l
 
 6\. Salvo que las partes lo hayan acordado de otro modo, los contenidos o servicios digitales se suministrarán de conformidad con la versión más reciente disponible en el momento de la celebración del contrato.
 
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
-
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 115 quater. Instalación incorrecta de los bienes e integración incorrecta de los contenidos o servicios digitales.
@@ -2670,8 +2454,6 @@ a) La instalación o integración incorrecta haya sido realizada por el empresar
 
 b) En el contrato esté previsto que la instalación o la integración la realice el consumidor o usuario, haya sido realizada por éste y la instalación o la integración incorrecta se deba a deficiencias en las instrucciones de instalación o integración proporcionadas por el empresario o, en el caso de bienes con elementos digitales, proporcionadas por el empresario.
 
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
-
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 116. Incompatibilidad de acciones.
@@ -2680,37 +2462,9 @@ El ejercicio de las acciones que contempla este título será incompatible con e
 
 En todo caso, el consumidor o usuario tendrá derecho, de acuerdo con la legislación civil y mercantil, a ser indemnizado por los daños y perjuicios derivados de la falta de conformidad.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 116. Conformidad de los productos con el contrato.
-
-> 1\. Salvo prueba en contrario, se entenderá que los productos son conformes con el contrato siempre que cumplan todos los requisitos que se expresan a continuación, salvo que por las circunstancias del caso alguno de ellos no resulte aplicable:
-
-> a) Se ajusten a la descripción realizada por el vendedor y posean las cualidades del producto que el vendedor haya presentado al consumidor y usuario en forma de muestra o modelo.
-
-> b) Sean aptos para los usos a que ordinariamente se destinen los productos del mismo tipo.
-
-> c) Sean aptos para cualquier uso especial requerido por el consumidor y usuario cuando lo haya puesto en conocimiento del vendedor en el momento de celebración del contrato, siempre que éste haya admitido que el producto es apto para dicho uso.
-
-> d) Presenten la calidad y prestaciones habituales de un producto del mismo tipo que el consumidor y usuario pueda fundadamente esperar, habida cuenta de la naturaleza del producto y, en su caso, de las declaraciones públicas sobre las características concretas de los productos hechas por el vendedor, el productor o su representante, en particular en la publicidad o en el etiquetado. El vendedor no quedará obligado por tales declaraciones públicas si demuestra que desconocía y no cabía razonablemente esperar que conociera la declaración en cuestión, que dicha declaración había sido corregida en el momento de celebración del contrato o que dicha declaración no pudo influir en la decisión de comprar el producto.
-
-> 2\. La falta de conformidad que resulte de una incorrecta instalación del producto se equiparará a la falta de conformidad del producto cuando la instalación esté incluida en el contrato de compraventa o suministro regulados en el artículo 115.1 y haya sido realizada por el vendedor o bajo su responsabilidad, o por el consumidor y usuario cuando la instalación defectuosa se deba a un error en las instrucciones de instalación.
-
-> 3\. No habrá lugar a responsabilidad por faltas de conformidad que el consumidor y usuario conociera o no hubiera podido fundadamente ignorar en el momento de la celebración del contrato o que tengan su origen en materiales suministrados por el consumidor y usuario."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 #### CAPÍTULO II — Responsabilidad del empresario y derechos del consumidor y usuario
-
-> Téngase en cuenta que esta actualización del Capítulo II, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "CAPÍTULO II
-
-> Responsabilidad del vendedor y derechos del consumidor y usuario"
 
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2721,16 +2475,6 @@ En todo caso, el consumidor o usuario tendrá derecho, de acuerdo con la legisla
 El consumidor o usuario tendrá derecho a suspender el pago de cualquier parte pendiente del precio del bien o del contenido o servicio digital adquirido hasta que el empresario cumpla con las obligaciones establecidas en el presente título.
 
 2\. Cuando, a consecuencia de una vulneración de derechos de terceros, en particular de los derechos de propiedad intelectual, se impida o limite la utilización de los bienes o de los contenidos o servicios digitales, el consumidor o usuario podrá exigir igualmente, en el supuesto de su falta de conformidad, las medidas correctoras previstas en el apartado anterior, salvo que una ley establezca en esos casos la rescisión o nulidad del contrato.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 117. Incompatibilidad de acciones.
-
-> El ejercicio de las acciones que contempla este título será incompatible con el ejercicio de las acciones derivadas del saneamiento por vicios ocultos de la compraventa.
-
-> En todo caso, el consumidor y usuario tendrá derecho, de acuerdo con la legislación civil y mercantil, a ser indemnizado por los daños y perjuicios derivados de la falta de conformidad."
 
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2760,14 +2504,6 @@ c) Deberán realizarse sin mayores inconvenientes para el consumidor o usuario, 
 
 7\. El consumidor o usuario no será responsable de ningún pago por el uso normal de los bienes sustituidos durante el período previo a su sustitución.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 118. Responsabilidad del vendedor y derechos del consumidor y usuario.
-
-> El consumidor y usuario tiene derecho a la reparación del producto, a su sustitución, a la rebaja del precio o a la resolución del contrato, de acuerdo con lo previsto en este título."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 119. Régimen jurídico de la reducción del precio y resolución del contrato.
@@ -2786,18 +2522,6 @@ e) La falta de conformidad sea de tal gravedad que se justifique la reducción i
 
 f) El empresario haya declarado, o así se desprenda claramente de las circunstancias, que no pondrá los bienes o los contenidos o servicios digitales en conformidad en un plazo razonable o sin mayores inconvenientes para el consumidor o usuario.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 119. Reparación y sustitución del producto.
-
-> 1\. Si el producto no fuera conforme con el contrato, el consumidor y usuario podrá optar entre exigir la reparación o la sustitución del producto, salvo que una de estas dos opciones resulte objetivamente imposible o desproporcionada. Desde el momento en que el consumidor y usuario comunique al vendedor la opción elegida, ambas partes habrán de atenerse a ella. Esta decisión del consumidor y usuario se entiende sin perjuicio de lo dispuesto en el artículo siguiente para los supuestos en que la reparación o la sustitución no logren poner el producto en conformidad con el contrato.
-
-> 2\. Se considerará desproporcionada la forma de saneamiento que en comparación con la otra, imponga al vendedor costes que no sean razonables, teniendo en cuenta el valor que tendría el producto si no hubiera falta de conformidad, la relevancia de la falta de conformidad y si la forma de saneamiento alternativa se pudiese realizar sin inconvenientes mayores para el consumidor y usuario.
-
-> Para determinar si los costes no son razonables, los gastos correspondientes a una forma de saneamiento deben ser, además, considerablemente más elevados que los gastos correspondientes a la otra forma de saneamiento."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 119 bis. La reducción del precio.
@@ -2805,8 +2529,6 @@ f) El empresario haya declarado, o así se desprenda claramente de las circunsta
 1\. La reducción del precio será proporcional a la diferencia existente entre el valor que el bien o el contenido o servicio digital hubiera tenido en el momento de la entrega o suministro de haber sido conforme con el contrato y el valor que el bien o el contenido o servicio digital efectivamente entregado o suministrado tenga en el momento de dicha entrega o suministro.
 
 2\. Cuando el contrato estipule que los contenidos o servicios digitales se suministren durante un período de tiempo a cambio del pago de un precio, la reducción en precio se aplicará al período de tiempo durante el cual los contenidos o servicios digitales no hubiesen sido conformes.
-
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
 
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2850,8 +2572,6 @@ c) Al consumidor o usuario no se le podrá reclamar ningún pago por cualquier u
 
 7\. El ejercicio por el consumidor o usuario de su derecho a retirar su consentimiento u oponerse al tratamiento de datos personales permitirá que el empresario resuelva el contrato siempre y cuando el suministro de los contenidos o servicios digitales sea continuo o consista en una serie de actos individuales y se encuentre pendiente de ejecutar en todo o en parte. En ningún caso el ejercicio de estos derechos por el consumidor supondrá el pago de penalización alguna a su cargo.
 
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 119 quater. Plazos y modalidades de reembolso por parte del empresario en caso de reducción del precio o resolución del contrato.
@@ -2864,8 +2584,6 @@ No obstante lo anterior, en el caso de que se trate de la resolución de un cont
 
 3\. El empresario no podrá imponer al consumidor o usuario ningún cargo por el reembolso.
 
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 #### CAPÍTULO III — Ejercicio de derechos por el consumidor y usuario
@@ -2877,28 +2595,6 @@ No obstante lo anterior, en el caso de que se trate de la resolución de un cont
 En los bienes de segunda mano, el empresario y el consumidor o usuario podrán pactar un plazo menor al indicado en el párrafo anterior, que no podrá ser inferior a un año desde la entrega.
 
 2\. En el caso de contenidos o servicios digitales o de bienes con elementos digitales, cuando el contrato prevea el suministro continuo de contenidos o servicios digitales durante un período de tiempo determinado, el empresario será responsable de cualquier falta de conformidad de los contenidos o servicios digitales que se produzca o se manifieste dentro del plazo durante el cual deben suministrarse los contenidos o servicios digitales de acuerdo con el contrato. No obstante, si el contrato de compraventa de bienes con elementos digitales establece el suministro continuo de los contenidos o servicios digitales durante un período inferior a tres años, el plazo de responsabilidad será de tres años a partir del momento de la entrega.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 120. Régimen jurídico de la reparación o sustitución del producto.
-
-> La reparación y la sustitución se ajustarán a las siguientes reglas:
-
-> a) Serán gratuitas para el consumidor y usuario. Dicha gratuidad comprenderá los gastos necesarios realizados para subsanar la falta de conformidad de los productos con el contrato, especialmente los gastos de envío, así como los costes relacionados con la mano de obra y los materiales.
-
-> b) Deberán llevarse a cabo en un plazo razonable y sin mayores inconvenientes para el consumidor y usuario, habida cuenta de la naturaleza de los productos y de la finalidad que tuvieran para el consumidor y usuario.
-
-> c) La reparación suspende el cómputo de los plazos a que se refiere el artículo 123. El período de suspensión comenzará desde que el consumidor y usuario ponga el producto a disposición del vendedor y concluirá con la entrega al consumidor y usuario del producto ya reparado. Durante los seis meses posteriores a la entrega del producto reparado, el vendedor responderá de las faltas de conformidad que motivaron la reparación, presumiéndose que se trata de la misma falta de conformidad cuando se reproduzcan en el producto defectos del mismo origen que los inicialmente manifestados.
-
-> d) Si concluida la reparación y entregado el producto, éste sigue siendo no conforme con el contrato, el consumidor y usuario podrá exigir la sustitución del producto, salvo que esta opción resulte desproporcionada, la rebaja del precio o la resolución del contrato en los términos previstos en este capítulo.
-
-> e) La sustitución suspende los plazos a que se refiere el artículo 123 desde el ejercicio de la opción por el consumidor y usuario hasta la entrega del nuevo producto. Al producto sustituto le será de aplicación, en todo caso, el artículo 123.1, párrafo segundo.
-
-> f) Si la sustitución no lograra poner el producto en conformidad con el contrato, el consumidor y usuario podrá exigir la reparación del producto, salvo que esta opción resulte desproporcionada, la rebaja del precio o la resolución del contrato en los términos previstos en este capítulo.
-
-> g) El consumidor y usuario no podrá exigir la sustitución en el caso de productos no fungibles, ni tampoco cuando se trate de productos de segunda mano."
 
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -2916,14 +2612,6 @@ En los bienes de segunda mano, el empresario y el consumidor y usuario podrán p
 
 5\. Los apartados 3 y 4 del presente artículo no serán de aplicación a los bienes con elementos digitales.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 121. Rebaja del precio y resolución del contrato.
-
-> La rebaja del precio y la resolución del contrato procederán, a elección del consumidor y usuario, cuando éste no pudiera exigir la reparación o la sustitución y en los casos en que éstas no se hubieran llevado a cabo en plazo razonable o sin mayores inconvenientes para el consumidor y usuario. La resolución no procederá cuando la falta de conformidad sea de escasa importancia."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 122. Suspensión del cómputo de plazos.
@@ -2934,14 +2622,6 @@ En los bienes de segunda mano, el empresario y el consumidor y usuario podrán p
 
 3\. Durante el año posterior a la entrega del bien o el suministro del contenido o servicio digital ya conforme, el empresario responderá de las faltas de conformidad que motivaron la puesta en conformidad, presumiéndose que se trata de la misma falta de conformidad cuando se reproduzcan los defectos del mismo origen que los inicialmente manifestados.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 122. Criterios para la rebaja del precio.
-
-> La rebaja del precio será proporcional a la diferencia existente entre el valor que el producto hubiera tenido en el momento de la entrega de haber sido conforme con el contrato y el valor que el producto efectivamente entregado tenía en el momento de dicha entrega."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 ###### Artículo 123. Documentación justificativa.
@@ -2950,28 +2630,6 @@ En los bienes de segunda mano, el empresario y el consumidor y usuario podrán p
 
 2\. El empresario deberá entregar al consumidor o usuario que ejercite su derecho a poner el bien o el contenido o servicio digital en conformidad justificación documental sobre la puesta a disposición del bien o del contenido o servicio digital por parte del consumidor y usuario en la que conste la fecha de entrega y la falta de conformidad que origina el ejercicio del derecho, así como justificación documental de la entrega al consumidor o usuario del bien o del suministro del contenido o servicio digital ya conforme, en la que conste la fecha de esta entrega y la descripción de la medida correctora efectuada.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 123. Plazos.
-
-> 1\. El vendedor responde de las faltas de conformidad que se manifiesten en un plazo de dos años desde la entrega. En los productos de segunda mano, el vendedor y el consumidor y usuario podrán pactar un plazo menor, que no podrá ser inferior a un año desde la entrega.
-
-> Salvo prueba en contrario, se presumirá que las faltas de conformidad que se manifiesten en los seis meses posteriores a la entrega del producto, sea éste nuevo o de segunda mano, ya existían cuando la cosa se entregó, excepto cuando esta presunción sea incompatible con la naturaleza del producto o la índole de la falta de conformidad.
-
-> 2\. Salvo prueba en contrario, la entrega se entiende hecha en el día que figure en la factura o tique de compra, o en el albarán de entrega correspondiente si éste fuera posterior.
-
-> 3\. El vendedor está obligado a entregar al consumidor o usuario que ejercite su derecho a la reparación o sustitución, justificación documental de la entrega del producto, en la que conste la fecha de entrega y la falta de conformidad que origina el ejercicio del derecho.
-
-> Del mismo modo, junto con el producto reparado o sustituido, el vendedor entregará al consumidor o usuario justificación documental de la entrega en la que conste la fecha de ésta y, en su caso, la reparación efectuada.
-
-> 4\. La acción para reclamar el cumplimiento de lo previsto en el capítulo II de este título prescribirá a los tres años desde la entrega del producto.
-
-> 5\. El consumidor y usuario deberá informar al vendedor de la falta de conformidad en el plazo de dos meses desde que tuvo conocimiento de ella. El incumplimiento de dicho plazo no supondrá la pérdida del derecho al saneamiento que corresponda, siendo responsable el consumidor y usuario, no obstante, de los daños o perjuicios efectivamente ocasionados por el retraso en la comunicación.
-
-> Salvo prueba en contrario, se entenderá que la comunicación del consumidor y usuario ha tenido lugar dentro del plazo establecido."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se renumeran los apartados 3 y 4 como 4 y 5 y se añade un apartado 3 por el art. 3.7 de la Ley 29/2009, de 30 de diciembre. [Ref. BOE-A-2009-21162](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21162)
@@ -2979,18 +2637,6 @@ En los bienes de segunda mano, el empresario y el consumidor y usuario podrán p
 ###### Artículo 124. Prescripción de la acción.
 
 La acción para reclamar el cumplimiento de lo previsto en el capítulo II de este título prescribirá a los cinco años desde la manifestación de la falta de conformidad.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 124. Acción contra el productor.
-
-> Cuando al consumidor y usuario le resulte imposible o le suponga una carga excesiva dirigirse frente al vendedor por la falta de conformidad de los productos con el contrato podrá reclamar directamente al productor con el fin de obtener la sustitución o reparación del producto.
-
-> Con carácter general, y sin perjuicio de que la responsabilidad del productor cesara, a los efectos de este título, en los mismos plazos y condiciones que los establecidos para el vendedor, el productor responderá por la falta de conformidad cuando ésta se refiera al origen, identidad o idoneidad de los productos, de acuerdo con su naturaleza y finalidad y con las normas que los regulan.
-
-> Quien haya respondido frente al consumidor y usuario dispondrá del plazo de un año para repetir frente al responsable de la falta de conformidad. Dicho plazo se computa a partir del momento en que se completó el saneamiento."
 
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -3002,43 +2648,11 @@ Con carácter general, y sin perjuicio de que cese la responsabilidad del produc
 
 2\. Quien haya respondido frente al consumidor o usuario dispondrá del plazo de un año para repetir frente al responsable de la falta de conformidad. Dicho plazo se computará a partir del momento en que se ejecutó la medida correctora.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "Artículo 125. Garantía comercial adicional.
-
-> 1\. La garantía comercial deberá formalizarse, al menos en castellano, y, a petición del consumidor y usuario, por escrito o en cualquier otro soporte duradero y directamente disponible para el consumidor y usuario, que sea accesible a éste y acorde con la técnica de comunicación empleada.
-
-> 2\. La garantía expresará necesariamente:
-
-> a) El bien o servicio sobre el que recaiga la garantía.
-
-> b) El nombre y dirección del garante.
-
-> c) Que la garantía no afecta a los derechos legales del consumidor y usuario ante la falta de conformidad de los productos con el contrato.
-
-> d) Los derechos, adicionales a los legales, que se conceden al consumidor y usuario como titular de la garantía.
-
-> e) El plazo de duración de la garantía y su alcance territorial.
-
-> f) Las vías de reclamación de que dispone el consumidor y usuario.
-
-> 3\. La acción para reclamar el cumplimiento de lo dispuesto en la garantía comercial adicional prescribirá a los seis meses desde la finalización del plazo de garantía."
-
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Se deja sin contenido el apartado 1 y se renumeran los apartados 2, 3 y 4 como 1, 2 y 3 por el art. único.29 de la Ley 3/2014, de 27 de marzo. [Ref. BOE-A-2014-3329](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3329).
 
 #### CAPÍTULO IV — Modificación de los contenidos o servicios digitales
-
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
-
-> Redacción anterior:
-
-> "CAPÍTULO IV
-
-> Garantía comercial adicional, obligaciones de documentación y servicios posventa"
 
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -3054,14 +2668,6 @@ c) El consumidor o usuario es informado de forma clara y comprensible acerca de 
 
 d) En caso de que el consumidor o usuario tenga derecho a resolver el contrato de acuerdo con lo establecido en el artículo 126 bis, se informe al consumidor o usuario, con una antelación razonable y en un soporte duradero, de las características y el momento de la modificación y de su derecho a resolver el contrato, o sobre la posibilidad de mantener los contenidos o servicios digitales sin tal modificación con arreglo al apartado 4 de dicho artículo.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
-
-> Redacción anterior:
-
-> "Artículo 126. Productos de naturaleza duradera.
-
-> En los productos de naturaleza duradera deberá entregarse en todo caso al consumidor, formalizada por escrito o en cualquier soporte duradero aceptado por el consumidor y usuario, y con el contenido mínimo previsto en el artículo anterior, la garantía comercial, en la que constará expresamente los derechos que este título concede al consumidor y usuario ante la falta de conformidad con el contrato y que éstos son independientes y compatibles con la garantía comercial."
-
 > Se modifica por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Téngase en cuenta que esta modificación se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
@@ -3076,15 +2682,11 @@ d) En caso de que el consumidor o usuario tenga derecho a resolver el contrato d
 
 4\. Este artículo no será de aplicación si el empresario ha dado al consumidor y usuario la posibilidad de mantener, sin costes adicionales, los contenidos o servicios digitales sin la modificación y estos siguen siendo conformes.
 
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
-
 > Se añade por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
 > Téngase en cuenta que este artículo se aplicará solo a los contratos celebrados a partir del 1 de enero de 2022, según establece la disposición final octava.d) del citado Real Decreto-ley.
 
 #### CAPÍTULO V — Garantías comerciales y servicios posventa
-
-> Téngase en cuenta que este capítulo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según establece su disposición final octava.
 
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -3121,8 +2723,6 @@ El incumplimiento de este apartado no afectará al carácter vinculante de la ga
 2\. Queda prohibido incrementar los precios de los repuestos al aplicarlos en las reparaciones. La lista de precios de los repuestos deberá estar a disposición del público así como la del resto de servicios aparejados, debiéndose diferenciar en la factura los diferentes conceptos.
 
 3\. La acción o derecho de recuperación de los bienes entregados por el consumidor o usuario al empresario para su reparación prescribirá un año después del momento de la entrega. Reglamentariamente, se establecerán los datos que deberá hacer constar el empresario en el momento en que se le entrega un bien para su reparación y las formas en que podrá acreditarse la mencionada entrega.
-
-> Téngase en cuenta que este artículo, añadido por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872), entra en vigor el 1 de enero de 2022, según determina su disposición final octava.
 
 > Se añade, con efectos de 1 de enero de 2022, por el art. 16.7 del Real Decreto-ley 7/2021, de 27 de abril. [Ref. BOE-A-2021-6872](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6872)
 
@@ -3824,12 +3424,6 @@ c) En el supuesto de productos envasados, etiquetados y cerrados con cierre ínt
 
 Se autoriza al Gobierno a modificar las cuantías establecidas esta norma. Las cuantías de los artículos 49 y 148 se modificarán teniendo en cuenta la variación de los índices de precios al consumo y las previstas en el artículo 141 para adaptarlas a las revisiones periódicas de la normativa comunitaria.
 
-> Téngase en cuenta que esta última actualización, establecida por el art. 82.20 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
-
-> Redacción anterior:
-
-> "Se autoriza al Gobierno a modificar las cuantías establecidas esta norma. Las cuantías de los artículos 51 y 148 se modificarán teniendo en cuenta la variación de los índices de precios al consumo y las previstas en el artículo 141 para adaptarlas a las revisiones periódicas de la normativa comunitaria."
-
 > Se modifica por el art. 82.20 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 
 > Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
@@ -3837,12 +3431,6 @@ Se autoriza al Gobierno a modificar las cuantías establecidas esta norma. Las c
 ###### Disposición final segunda. Desarrollo reglamentario.
 
 Se faculta al Gobierno para dictar, en materia de su competencia, las disposiciones precisas para la aplicación de esta norma. En particular, el Gobierno determinará los productos de naturaleza duradera.
-
-> Téngase en cuenta que esta última actualización, establecida por el art. 82.21 del Real Decreto-ley 24/2021, de 2 de noviembre, [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), entra en vigor el 28 de mayo de 2022, según determina su disposición final 10.c).
-
-> Redacción anterior:
-
-> "Se faculta al Gobierno para dictar, en materia de su competencia, las disposiciones precisas para la aplicación de esta norma. En particular, el Gobierno determinará los productos de naturaleza duradera a que se refiere el artículo 126."
 
 > Se modifica por el art. 82.21 del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
 

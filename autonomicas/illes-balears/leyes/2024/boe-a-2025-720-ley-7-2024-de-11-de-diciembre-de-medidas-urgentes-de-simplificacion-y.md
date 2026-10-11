@@ -3436,90 +3436,86 @@ Se añaden dos nuevos párrafos al final de la letra b) del apartado 11 del anex
 
 > «La cuota tributaria de estas tasas se determinará de acuerdo con las siguientes tarifas:
 
-> <table class="tabla_ancha">
-> <colgroup>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Concepto</th>
-> <th class="cabeza_tabla">Euros</th>
+> <th>Concepto</th>
+> <th>Euros</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">A. Inscripción en registros oficiales.</td>
+> <td colspan="2">A. Inscripción en registros oficiales.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2"> A.1 Inscripción en el Registro oficial de productores y operadores de medios de defensa fitosanitarios.</td>
+> <td colspan="2"> A.1 Inscripción en el Registro oficial de productores y operadores de medios de defensa fitosanitarios.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.1.1 Inscripción.</td>
-> <td class="cuerpo_tabla_coma">39,64</td>
+> <td> A.1.1 Inscripción.</td>
+> <td>39,64</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.1.2 Renovación.</td>
-> <td class="cuerpo_tabla_coma">20,03</td>
+> <td> A.1.2 Renovación.</td>
+> <td>20,03</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.1.3 Expedición de registro de transacciones con productos fitosanitarios de uso profesional.</td>
-> <td class="cuerpo_tabla_coma">20,03</td>
+> <td> A.1.3 Expedición de registro de transacciones con productos fitosanitarios de uso profesional.</td>
+> <td>20,03</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2"> A.2. Inscripción en el Registro oficial de comerciantes e importadores de productos vegetales.</td>
+> <td colspan="2"> A.2. Inscripción en el Registro oficial de comerciantes e importadores de productos vegetales.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.2.1 Inscripción.</td>
-> <td class="cuerpo_tabla_coma">40,17</td>
+> <td> A.2.1 Inscripción.</td>
+> <td>40,17</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.2.2 Renovación.</td>
-> <td class="cuerpo_tabla_coma">20,03</td>
+> <td> A.2.2 Renovación.</td>
+> <td>20,03</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2"> A.3 Inscripción en el Registro de semillas y plantas de viveros.</td>
+> <td colspan="2"> A.3 Inscripción en el Registro de semillas y plantas de viveros.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.3.1 Inscripción.</td>
-> <td class="cuerpo_tabla_coma">35,19</td>
+> <td> A.3.1 Inscripción.</td>
+> <td>35,19</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.3.2 Renovación.</td>
-> <td class="cuerpo_tabla_coma"> 20,03 </td>
+> <td> A.3.2 Renovación.</td>
+> <td> 20,03 </td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2"> A.4 Inscripción en el Registro de maquinaria agrícola.</td>
+> <td colspan="2"> A.4 Inscripción en el Registro de maquinaria agrícola.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.4.1 Maquinaria nueva.</td>
-> <td class="cuerpo_tabla_coma">35,19</td>
+> <td> A.4.1 Maquinaria nueva.</td>
+> <td>35,19</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.4.2 Transferencia.</td>
-> <td class="cuerpo_tabla_coma">38,22</td>
+> <td> A.4.2 Transferencia.</td>
+> <td>38,22</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> A.4.3 Duplicados, certificados y bajas temporales.</td>
-> <td class="cuerpo_tabla_coma">25,17</td>
+> <td> A.4.3 Duplicados, certificados y bajas temporales.</td>
+> <td>25,17</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2">B. Inspección facultativa.</td>
+> <td colspan="2">B. Inspección facultativa.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq" colspan="2"> B.1 Emisión de informes y expedición de certificados.</td>
+> <td colspan="2"> B.1 Emisión de informes y expedición de certificados.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> B.1.1 Sin visita a la explotación.</td>
-> <td class="cuerpo_tabla_coma">25,17</td>
+> <td> B.1.1 Sin visita a la explotación.</td>
+> <td>25,17</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> B.2.2 Con visita a la explotación.</td>
-> <td class="cuerpo_tabla_coma">60,32</td>
+> <td> B.2.2 Con visita a la explotación.</td>
+> <td>60,32</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq"> B.2 Seguimiento de ensayos oficiales.</td>
-> <td class="cuerpo_tabla_coma">462,45»</td>
+> <td> B.2 Seguimiento de ensayos oficiales.</td>
+> <td>462,45»</td>
 > </tr>
 > </tbody>
 > </table>
@@ -5026,286 +5022,262 @@ El Consejo de Gobierno, mediante decreto, puede modificar las normas que contien
 
 1\. Se modifica la Matriz de ordenación del suelo rústico del anexo I de la Ley 6/1999, de 3 de abril, de las Directrices de Ordenación Territorial de las Illes Balears y de medidas tributarias, en la redacción de la disposición adicional decimoquinta de la Ley 10/2003, de 22 de diciembre, de medidas tributarias y administrativas, que queda redactada de la siguiente manera:
 
-> <table class="tabla">
-> <colgroup>
-> <col width="10%">
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="5">«Sector primario</th>
+> <th colspan="5">«Sector primario</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla" rowspan="2"> </th>
-> <th class="cabeza_tabla" rowspan="2">Actividades extensivas</th>
-> <th class="cabeza_tabla" rowspan="2">Actividades intensivas</th>
-> <th class="cabeza_tabla">Actividades complementarias</th>
-> <th class="cabeza_tabla"> </th>
+> <th rowspan="2"> </th>
+> <th rowspan="2">Actividades extensivas</th>
+> <th rowspan="2">Actividades intensivas</th>
+> <th>Actividades complementarias</th>
+> <th> </th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla">Transformación y venta directa de los productos de la propia explotación agraria</th>
-> <th class="cabeza_tabla">Resto de actividades complementarias</th>
+> <th>Transformación y venta directa de los productos de la propia explotación agraria</th>
+> <th>Resto de actividades complementarias</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">AANP</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
+> <td>AANP</td>
+> <td>1</td>
+> <td>2</td>
+> <td>2-3</td>
+> <td>2-3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ANEI</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>ANEI</td>
+> <td>1</td>
+> <td>2</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ARIP</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>ARIP</td>
+> <td>1</td>
+> <td>1</td>
+> <td>1</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APR</td>
-> <td class="cuerpo_tabla_centro">(1)</td>
-> <td class="cuerpo_tabla_centro">(1)</td>
-> <td class="cuerpo_tabla_centro">(1)</td>
-> <td class="cuerpo_tabla_centro">(1)</td>
+> <td>APR</td>
+> <td>(1)</td>
+> <td>(1)</td>
+> <td>(1)</td>
+> <td>(1)</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APT</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>APT</td>
+> <td>1</td>
+> <td>2</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AIA</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>AIA</td>
+> <td>1</td>
+> <td>1</td>
+> <td>1</td>
+> <td>1</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AT</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>AT</td>
+> <td>1</td>
+> <td>1</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SRG</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>SRG</td>
+> <td>1</td>
+> <td>1</td>
+> <td>1</td>
+> <td>1</td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla">
-> <colgroup>
-> <col width="10%">
-> <col width="30%">
-> <col width="30%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="3">Sector secundario</th>
+> <th colspan="3">Sector secundario</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla"> </th>
-> <th class="cabeza_tabla">Industria de transformación agraria</th>
-> <th class="cabeza_tabla">Industria general</th>
+> <th> </th>
+> <th>Industria de transformación agraria</th>
+> <th>Industria general</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">AANP</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>AANP</td>
+> <td>2-3</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ANEI</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>ANEI</td>
+> <td>2-3</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ARIP</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>ARIP</td>
+> <td>2</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APR</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>APR</td>
+> <td>2</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APT</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>APT</td>
+> <td>2</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AIA</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
+> <td>AIA</td>
+> <td>2</td>
+> <td>2-3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AT</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>AT</td>
+> <td>2</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SRG</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
+> <td>SRG</td>
+> <td>2</td>
+> <td>2-3</td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla">
-> <colgroup>
-> <col width="10%">
-> <col width="30%">
-> <col width="30%">
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="3">Equipamientos</th>
+> <th colspan="3">Equipamientos</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla"> </th>
-> <th class="cabeza_tabla">Sin construcción</th>
-> <th class="cabeza_tabla">Resto de equipamientos</th>
+> <th> </th>
+> <th>Sin construcción</th>
+> <th>Resto de equipamientos</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">AANP</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>AANP</td>
+> <td>2-3</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ANEI</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>ANEI</td>
+> <td>2</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ARIP</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>ARIP</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APR</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>APR</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APT</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
+> <td>APT</td>
+> <td>2</td>
+> <td>3</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AIA</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>AIA</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AT</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>AT</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SRG</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>SRG</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > </tbody>
 > </table>
 
-> <table class="tabla">
-> <colgroup>
-> <col width="10%">
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla" colspan="5">Otros</th>
+> <th colspan="5">Otros</th>
 > </tr>
 > <tr>
-> <th class="cabeza_tabla"> </th>
-> <th class="cabeza_tabla">Actividades extractivas</th>
-> <th class="cabeza_tabla">Infraestructuras</th>
-> <th class="cabeza_tabla">Vivienda unifamiliar aislada</th>
-> <th class="cabeza_tabla">Protección y educación ambiental</th>
+> <th> </th>
+> <th>Actividades extractivas</th>
+> <th>Infraestructuras</th>
+> <th>Vivienda unifamiliar aislada</th>
+> <th>Protección y educación ambiental</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">AANP</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>AANP</td>
+> <td>3</td>
+> <td>2-3</td>
+> <td>3</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ANEI</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>ANEI</td>
+> <td>2-3</td>
+> <td>2</td>
+> <td>2</td>
+> <td>1</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">ARIP</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>ARIP</td>
+> <td>2-3</td>
+> <td>2</td>
+> <td>2</td>
+> <td>1</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APR</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
+> <td>APR</td>
+> <td>2-3</td>
+> <td>2</td>
+> <td>2</td>
+> <td>2</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">APT</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>APT</td>
+> <td>2-3</td>
+> <td>2</td>
+> <td>3</td>
+> <td>1</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AIA</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>AIA</td>
+> <td>2-3</td>
+> <td>2</td>
+> <td>2</td>
+> <td>1</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">AT</td>
-> <td class="cuerpo_tabla_centro">3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>AT</td>
+> <td>3</td>
+> <td>2</td>
+> <td>2</td>
+> <td>1</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">SRG</td>
-> <td class="cuerpo_tabla_centro">2-3</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">2</td>
-> <td class="cuerpo_tabla_centro">1</td>
+> <td>SRG</td>
+> <td>2-3</td>
+> <td>2</td>
+> <td>2</td>
+> <td>1</td>
 > </tr>
 > </tbody>
 > </table>
@@ -5406,64 +5378,57 @@ Los artículos 19 y 20 del Decreto 48/2021, de 13 de diciembre, regulador del Re
 
 > Cada administración local clasificará el personal funcionario operativo de los servicios de prevención y extinción de incendios (SPEIS) de acuerdo con la estructura de subescalas, clases y categorías siguientes:
 
-> <table class="tabla">
-> <colgroup>
-> <col>
-> <col>
-> <col>
-> <col>
-> <col>
-> </colgroup>
+> <table>
 > <thead>
 > <tr>
-> <th class="cabeza_tabla">Subgrupo</th>
-> <th class="cabeza_tabla">Escala operativa</th>
-> <th class="cabeza_tabla">Subescala</th>
-> <th class="cabeza_tabla">Clase</th>
-> <th class="cabeza_tabla">Categoría</th>
+> <th>Subgrupo</th>
+> <th>Escala operativa</th>
+> <th>Subescala</th>
+> <th>Clase</th>
+> <th>Categoría</th>
 > </tr>
 > </thead>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_centro">A1</td>
-> <td class="cuerpo_tabla_izq">Superior.</td>
-> <td class="cuerpo_tabla_izq" rowspan="2">Técnica.</td>
-> <td class="cuerpo_tabla_izq">Técnica superior.</td>
-> <td class="cuerpo_tabla_izq">Oficial.</td>
+> <td>A1</td>
+> <td>Superior.</td>
+> <td rowspan="2">Técnica.</td>
+> <td>Técnica superior.</td>
+> <td>Oficial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">A2</td>
-> <td class="cuerpo_tabla_izq">Técnica.</td>
-> <td class="cuerpo_tabla_izq">Técnica media.</td>
-> <td class="cuerpo_tabla_izq">Oficial técnico.</td>
+> <td>A2</td>
+> <td>Técnica.</td>
+> <td>Técnica media.</td>
+> <td>Oficial técnico.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">C1</td>
-> <td class="cuerpo_tabla_izq" rowspan="2">Ejecutiva.</td>
-> <td class="cuerpo_tabla_izq" rowspan="5">Servicios especiales.</td>
-> <td class="cuerpo_tabla_izq">Extinción de incendios.</td>
-> <td class="cuerpo_tabla_izq">Suboficial.</td>
+> <td>C1</td>
+> <td rowspan="2">Ejecutiva.</td>
+> <td rowspan="5">Servicios especiales.</td>
+> <td>Extinción de incendios.</td>
+> <td>Suboficial.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">C1</td>
-> <td class="cuerpo_tabla_izq">Extinción de incendios.</td>
-> <td class="cuerpo_tabla_izq">Sargento.</td>
+> <td>C1</td>
+> <td>Extinción de incendios.</td>
+> <td>Sargento.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">C1</td>
-> <td class="cuerpo_tabla_izq" rowspan="3">Básica.</td>
-> <td class="cuerpo_tabla_izq">Extinción de incendios.</td>
-> <td class="cuerpo_tabla_izq">Cabo/Cabo especialista.</td>
+> <td>C1</td>
+> <td rowspan="3">Básica.</td>
+> <td>Extinción de incendios.</td>
+> <td>Cabo/Cabo especialista.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">C1</td>
-> <td class="cuerpo_tabla_izq">Extinción de incendios.</td>
-> <td class="cuerpo_tabla_izq">Bombero/Bombero especialista.</td>
+> <td>C1</td>
+> <td>Extinción de incendios.</td>
+> <td>Bombero/Bombero especialista.</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_centro">C1</td>
-> <td class="cuerpo_tabla_izq">Extinción de incendios.</td>
-> <td class="cuerpo_tabla_izq">Operador de Comunicaciones.»</td>
+> <td>C1</td>
+> <td>Extinción de incendios.</td>
+> <td>Operador de Comunicaciones.»</td>
 > </tr>
 > </tbody>
 > </table>

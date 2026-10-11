@@ -5652,42 +5652,36 @@ Espacios: Ciclo inicial
 | Aula polivalente. | 60 m<sup>2</sup> | 40 m<sup>2</sup> | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C101.Bases del comportamiento deportivo.<br>MED-C102. Primeros auxilios.<br>MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="3">Espacio formativo</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th colspan="3">Espacio formativo</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Aula taller.</td>
-<td class="cuerpo_tabla_izq" rowspan="6">
-<p class="cuerpo_tabla_izq">MED-VEVE102: Formación Técnica.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE104: Metodología de la vela e iniciación a la competición.</p>
+<td colspan="3">Aula taller.</td>
+<td rowspan="6">
+<p>MED-VEVE102: Formación Técnica.</p>
+<p>MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</p>
+<p>MED-VEVE104: Metodología de la vela e iniciación a la competición.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Zona de varada y de montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+<td colspan="3">Zona de varada y de montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Área de navegación:</td>
+<td colspan="3">Área de navegación:</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Zona de aguas protegidas y tranquilas, situada en: bahía, rías, zonas de costa o embalses, la zona debe estar limitada y marcada.</td>
+<td colspan="3">Zona de aguas protegidas y tranquilas, situada en: bahía, rías, zonas de costa o embalses, la zona debe estar limitada y marcada.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Debe permitir la comunicación visual y el contacto verbal.</td>
+<td colspan="3">Debe permitir la comunicación visual y el contacto verbal.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">Debe permitir el montaje de los recorridos adecuados a la iniciación en vela.</td>
+<td colspan="3">Debe permitir el montaje de los recorridos adecuados a la iniciación en vela.</td>
 </tr>
 </tbody>
 </table>
@@ -5723,38 +5717,34 @@ Espacios: Ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-VEVE204: Preparación física del regatista. |
 | Pista polideportiva.<br>44 × 22 mts |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Espacio de formación</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th>Espacio de formación</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Aula Taller.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">MED-VEVE202: Competiciones y eventos a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE203: Seguridad en la navegación a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE201: Escuela de vela.</p>
-<p class="cuerpo_tabla_izq">MED-EVEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</p>
-<p class="cuerpo_tabla_izq">MED-EVEAF207: Puesta a punto del material de AF.</p>
+<td>Aula Taller.</td>
+<td rowspan="3">
+<p>MED-VEVE202: Competiciones y eventos a vela.</p>
+<p>MED-VEVE203: Seguridad en la navegación a vela.</p>
+<p>MED-VEVE201: Escuela de vela.</p>
+<p>MED-EVEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</p>
+<p>MED-EVEAF207: Puesta a punto del material de AF.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+<td>Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ÁREA NAVEGACIÓN:</p>
-<p class="cuerpo_tabla_izq">Zona de aguas protegidas, situada en: bahía, rías, zonas de costa o embalses, la zona debe estar limitada y marcada.</p>
-<p class="cuerpo_tabla_izq">Debe permitir la comunicación visual y el contacto verbal.</p>
-<p class="cuerpo_tabla_izq">Debe permitir el montaje de los recorridos adecuados a la tecnificación en vela.</p>
-<p class="cuerpo_tabla_izq">En crucero la limitación del área viene delimitada por las atribuciones del titulo de Patrón de embarcaciones de recreo, así como la eslora del mismo.</p>
+<td>
+<p>ÁREA NAVEGACIÓN:</p>
+<p>Zona de aguas protegidas, situada en: bahía, rías, zonas de costa o embalses, la zona debe estar limitada y marcada.</p>
+<p>Debe permitir la comunicación visual y el contacto verbal.</p>
+<p>Debe permitir el montaje de los recorridos adecuados a la tecnificación en vela.</p>
+<p>En crucero la limitación del área viene delimitada por las atribuciones del titulo de Patrón de embarcaciones de recreo, así como la eslora del mismo.</p>
 </td>
 </tr>
 </tbody>
@@ -5791,38 +5781,34 @@ Espacios: Ciclo final
 | Gimnasio. | 120 m<sup>2</sup> | 90 m<sup>2</sup> | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad.<br>MED-VEVE204: Preparación física del regatista. |
 | Pista polideportiva 44 × 22 mts. |  |  | MED-C201: Bases del aprendizaje deportivo.<br>MED-C202: Bases del entrenamiento deportivo.<br>MED-C206: Iniciación deportiva para personas con discapacidad. |
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Espacio de formación</th>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
+<th>Espacio de formación</th>
+<th>Módulo de enseñanza deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Aula Taller.</td>
-<td class="cuerpo_tabla_izq" rowspan="3">
-<p class="cuerpo_tabla_izq">MED-VEVE201: Escuela de vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE202: Competiciones y eventos a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE203: Seguridad en la navegación a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE205: Vela adaptada.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL210: Puesta a punto del material de AL.</p>
+<td>Aula Taller.</td>
+<td rowspan="3">
+<p>MED-VEVE201: Escuela de vela.</p>
+<p>MED-VEVE202: Competiciones y eventos a vela.</p>
+<p>MED-VEVE203: Seguridad en la navegación a vela.</p>
+<p>MED-VEVE205: Vela adaptada.</p>
+<p>MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</p>
+<p>MED-VEAL210: Puesta a punto del material de AL.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
+<td>Zona de varada y montaje de embarcaciones al aire libre con acceso al área de navegación.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">ÁREA NAVEGACIÓN:</p>
-<p class="cuerpo_tabla_izq">• Zona de aguas protegidas, situada en: bahía, rías, zonas de costa o embalses, la zona debe estar limitada y marcada.</p>
-<p class="cuerpo_tabla_izq">• Debe permitir la comunicación visual y el contacto verbal.</p>
-<p class="cuerpo_tabla_izq">• Debe permitir el montaje de los recorridos adecuados a la tecnificación en vela.</p>
+<td>
+<p>ÁREA NAVEGACIÓN:</p>
+<p>• Zona de aguas protegidas, situada en: bahía, rías, zonas de costa o embalses, la zona debe estar limitada y marcada.</p>
+<p>• Debe permitir la comunicación visual y el contacto verbal.</p>
+<p>• Debe permitir el montaje de los recorridos adecuados a la tecnificación en vela.</p>
 </td>
 </tr>
 </tbody>
@@ -6133,111 +6119,106 @@ Equipamientos:
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo de enseñanza deportiva</th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Módulo de enseñanza deportiva</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td colspan="3">
+<p>
 <em>Ciclo inicial</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101: Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C101: Bases del comportamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102: Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102: Primeros auxilios.</td>
+<td>
+<p>Educación física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104: Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="3">
-<p class="cuerpo_tabla_centro">
+<td>MED-C104: Organización deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
 <em>Ciclo final</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201: Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C201: Bases del aprendizaje deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C202: Bases del entrenamiento deportivo.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204: Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C204: Organización y legislación deportiva.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -6249,253 +6230,243 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE102: Formación técnica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE102: Formación técnica.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE104: Metodología de la vela e iniciación a la competición.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE105: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEVE104: Metodología de la vela e iniciación a la competición.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEVE105: Formación práctica.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo final</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo final</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE201: Escuela de vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE201: Escuela de vela.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE202: Competiciones y eventos a vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE203: Seguridad en la navegación a vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEVE202: Competiciones y eventos a vela.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE204: Preparación física del regatista.</td>
-<td class="cuerpo_tabla_izq">Educación física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEVE205: Vela adaptada.</td>
-<td class="cuerpo_tabla_izq">Educación física con el titulo de Técnico Deportivo Superior en Vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEVE203: Seguridad en la navegación a vela.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEVE204: Preparación física del regatista.</td>
+<td>Educación física.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF207: Puesta a punto del material de AF.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEVE205: Vela adaptada.</td>
+<td>Educación física con el titulo de Técnico Deportivo Superior en Vela.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAF208: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td rowspan="2">MED-VEAF207: Puesta a punto del material de AF.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-VEAL210: Puesta a punto del material de AL.</td>
-<td class="cuerpo_tabla_izq">Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
-<td class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-VEAL211: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Especialidad de Educación Física con alguno de los siguientes títulos:</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td rowspan="2">MED-VEAF208: Formación práctica.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
-<td class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq"> </td>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">MED-VEAL210: Puesta a punto del material de AL.</td>
+<td>Especialidad de Educación Física con el título de Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>Catedráticos de Enseñanza Secundaria.</td>
+</tr>
+<tr>
+<td>Profesor especialista.</td>
+<td>Profesor especialista.</td>
+</tr>
+<tr>
+<td>MED-VEAL211: Formación práctica.</td>
+<td>
+<p>Especialidad de Educación Física con alguno de los siguientes títulos:</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>• Técnico Deportivo Superior en Vela con aparejo libre.</p>
+</td>
+<td>Catedráticos de Enseñanza Secundaria.</td>
+</tr>
+<tr>
+<td> </td>
+<td>Profesor especialista.</td>
+<td>Profesor especialista.</td>
 </tr>
 </tbody>
 </table>
@@ -6518,221 +6489,213 @@ La Real Federación Española de Vela emitirá la correspondiente certificación
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque común: Ciclo inicial y finales</p>
+<p>Módulos del bloque común: Ciclo inicial y finales</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos comunes de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulos comunes de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo inicial</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101:Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C101:Bases del comportamiento deportivo.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C102: Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Medicina.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Enfermería.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Fisioterapia.</p>
+<td>MED-C102: Primeros auxilios.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Medicina.</p>
+<p>Diplomado o Graduado en Enfermería.</p>
+<p>Diplomado o Graduado en Fisioterapia.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104:Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C104:Organización deportiva.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo final</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C201: Bases del aprendizaje deportivo.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C201: Bases del aprendizaje deportivo.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C202: Bases del entrenamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C202: Bases del entrenamiento deportivo.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
+<td>MED-C206: Iniciación deportiva para personas con discapacidad.</td>
+<td>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C204: Organización y legislación deportiva.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Derecho.</p>
+<td>MED-C204: Organización y legislación deportiva.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Derecho.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C205. Deporte y género.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<td>MED-C205. Deporte y género.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque específico: Ciclo inicial y finales</p>
+<p>Módulos del bloque específico: Ciclo inicial y finales</p>
 </caption>
-<colgroup>
-<col>
-<col>
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo específico de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo inicial</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE102: Formación Técnica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE102: Formación Técnica.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE104: Metodología de la vela e iniciación a la competición.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE104: Metodología de la vela e iniciación a la competición.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE105: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE105: Formación práctica.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclos finales de grado medio en vela con aparejo fijo y aparejo libre</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE201: Escuela de vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE201: Escuela de vela.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE202: Competiciones y eventos a vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE202: Competiciones y eventos a vela.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE203: Seguridad en la navegación a vela.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE203: Seguridad en la navegación a vela.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE204: Preparación física del regatista.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE204: Preparación física del regatista.</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEVE205: Vela adaptada.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEVE205: Vela adaptada.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EVEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>MED-EVEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</td>
+<td>Técnico Deportivo Superior en Vela con aparejo fijo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-EVEAF207: Puesta a punto del material de AF.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</td>
+<td>MED-EVEAF207: Puesta a punto del material de AF.</td>
+<td>Técnico Deportivo Superior en Vela con aparejo fijo.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEAF208: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEAF208: Formación práctica.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</td>
+<td>Técnico Deportivo Superior en Vela con aparejo libre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEAL210: Puesta a punto del material de AL.</td>
-<td class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</td>
+<td>MED-VEAL210: Puesta a punto del material de AL.</td>
+<td>Técnico Deportivo Superior en Vela con aparejo libre.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-VEAL211: Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo fijo.</p>
-<p class="cuerpo_tabla_izq">Técnico Deportivo Superior en Vela con aparejo libre.</p>
+<td>MED-VEAL211: Formación práctica.</td>
+<td>
+<p>Técnico Deportivo Superior en Vela con aparejo fijo.</p>
+<p>Técnico Deportivo Superior en Vela con aparejo libre.</p>
 </td>
 </tr>
 </tbody>
@@ -6805,72 +6768,68 @@ La experiencia laboral se acreditará mediante la certificación de la empresa d
 
 ## ANEXO XIV — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia docente
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos de enseñanza deportiva</th>
-<th class="cabeza_tabla">Experiencia docente</th>
+<th>Módulos de enseñanza deportiva</th>
+<th>Experiencia docente</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo inicial vela AF y AL</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-VEVE102: Formación Técnica.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE104: Metodología de la vela e iniciación a la competición.</p>
+<td>
+<p>MED-VEVE102: Formación Técnica.</p>
+<p>MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</p>
+<p>MED-VEVE104: Metodología de la vela e iniciación a la competición.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo final vela AF</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-VEVE201: Escuela de vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE203: Seguridad en la navegación a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</p>
-<p class="cuerpo_tabla_izq">MED-VEAF207: Puesta a punto del material de AF.</p>
+<td>
+<p>MED-VEVE201: Escuela de vela.</p>
+<p>MED-VEVE203: Seguridad en la navegación a vela.</p>
+<p>MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con AF.</p>
+<p>MED-VEAF207: Puesta a punto del material de AF.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo final vela AL</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-VEVE201: Escuela de vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE203: Seguridad en la navegación a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL210: Puesta a punto del material de AL.</p>
+<td>
+<p>MED-VEVE201: Escuela de vela.</p>
+<p>MED-VEVE203: Seguridad en la navegación a vela.</p>
+<p>MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL.</p>
+<p>MED-VEAL210: Puesta a punto del material de AL.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.</p>
-<p class="cuerpo_tabla_izq">La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
+<td>
+<p>Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre.</p>
+<p>La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.</p>
 </td>
 </tr>
 </tbody>
@@ -6880,70 +6839,66 @@ La experiencia docente se acreditará mediante certificado expedido por la Comun
 
 ## ANEXO XV — Correspondencia formativa de los módulos de enseñanza deportiva con la experiencia deportiva
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulos de enseñanza deportiva</th>
-<th class="cabeza_tabla">Experiencia deportiva</th>
+<th>Módulos de enseñanza deportiva</th>
+<th>Experiencia deportiva</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo inicial</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-VEVE102: Formación técnica.</p>
-<p class="cuerpo_tabla_izq">MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</p>
+<td>
+<p>MED-VEVE102: Formación técnica.</p>
+<p>MED-VEVE103: Seguridad de la navegación y conservación de los materiales.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Deportista de alto nivel.</p>
-<p class="cuerpo_tabla_izq">Deportista de alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">Clasificado entre los 5 primeros en alguno de los Campeonatos Territoriales o de España, Copas de España en la modalidad correspondiente.</p>
+<td>
+<p>Deportista de alto nivel.</p>
+<p>Deportista de alto rendimiento.</p>
+<p>Clasificado entre los 5 primeros en alguno de los Campeonatos Territoriales o de España, Copas de España en la modalidad correspondiente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo final de grado medio en vela con aparejo libre</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-VEVE202: Competiciones y eventos a vela.</p>
-<p class="cuerpo_tabla_izq">MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con A.F.</p>
-<p class="cuerpo_tabla_izq">MED-EVEAF207: Puesta a punto del material de AF.</p>
+<td>
+<p>MED-VEVE202: Competiciones y eventos a vela.</p>
+<p>MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con A.F.</p>
+<p>MED-EVEAF207: Puesta a punto del material de AF.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Deportista de alto nivel.</p>
-<p class="cuerpo_tabla_izq">Clasificado entre los 5 primeros en alguno de los campeonatos del mundo, de Europa o de España en la modalidad correspondiente.</p>
+<td>
+<p>Deportista de alto nivel.</p>
+<p>Clasificado entre los 5 primeros en alguno de los campeonatos del mundo, de Europa o de España en la modalidad correspondiente.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" colspan="2">
-<p class="cuerpo_tabla_centro">
+<td colspan="2">
+<p>
 <em>Ciclo final de grado medio en vela con aparejo libre</em>
 </p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-VEVE202: Competiciones y eventos a vela.</p>
-<p class="cuerpo_tabla_izq">MED-EVEAF209: Perfeccionamiento técnico-táctico de la vela con AL.</p>
-<p class="cuerpo_tabla_izq">MED-VEAL210: Puesta a punto del material de AL.</p>
+<td>
+<p>MED-VEVE202: Competiciones y eventos a vela.</p>
+<p>MED-EVEAF209: Perfeccionamiento técnico-táctico de la vela con AL.</p>
+<p>MED-VEAL210: Puesta a punto del material de AL.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Deportista de alto nivel.</p>
-<p class="cuerpo_tabla_izq">Clasificado entre los 5 primeros en alguno de los campeonatos del mundo, de Europa o de España en la modalidad correspondiente.</p>
+<td>
+<p>Deportista de alto nivel.</p>
+<p>Clasificado entre los 5 primeros en alguno de los campeonatos del mundo, de Europa o de España en la modalidad correspondiente.</p>
 </td>
 </tr>
 </tbody>

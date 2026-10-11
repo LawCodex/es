@@ -88,12 +88,6 @@ a) Se establece la obligación, por parte de las comunidades autónomas y ciudad
 
 b) **(Suprimida)**
 
-> Téngase en cuenta que la supresión de la letra b), establecida por la disposición final 7.1 del Real Decreto 346/2025, de 22 de abril, [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160), produce efectos el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "b) Se extiende la obligación de disponer de un Plan de bienestar animal exigible a las explotaciones porcinas y avícolas conforme a lo dispuesto en los artículos 6.1 del Real Decreto 306/2020, de 11 de febrero, por el que se establecen normas básicas de ordenación de las granjas porcinas intensivas, y 9.1 del Real Decreto 637/2021, de 27 de julio, por el que se establecen las normas básicas de ordenación de las granjas avícolas, al resto de explotaciones ganaderas."
-
 c) Se establece el Centro Nacional de Referencia de bienestar animal.
 
 d) Se modifican ocho reales decretos para adaptarlos a la normativa de la Unión Europea, en concreto:
@@ -115,20 +109,6 @@ d) Se modifican ocho reales decretos para adaptarlos a la normativa de la Unión
 ## Artículo 3. Plan de bienestar animal.
 
 **(Suprimido)**
-
-> Téngase en cuenta que la supresión de este artículo, establecida por la disposición final 7.2 del Real Decreto 346/2025, de 22 de abril, [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160), produce efectos el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "**Artículo 3. Plan de bienestar animal.**
-
-> 1\. Sin perjuicio de lo establecido por la normativa de ordenación sectorial, las explotaciones ganaderas de animales vertebrados, tanto terrestres como acuáticos, dispondrán de un Plan de bienestar animal si superan el tamaño mínimo previsto en el apartado 4.
-
-> 2\. El personal veterinario de explotación elaborará dicho plan, y será el encargado de asesorar e informar al titular de la explotación sobre las obligaciones y requisitos de la normativa vigente en materia de bienestar animal.
-
-> 3\. El titular de la explotación será el responsable de que se disponga de dicho plan, de que se mantenga actualizado de acuerdo con la normativa vigente y de que todas las personas trabajadoras que estén en contacto con los animales lo conozcan.
-
-> 4\. El tamaño mínimo de la explotación, así como los plazos previstos para el cumplimiento de lo establecido en el presente artículo en el caso de explotaciones de porcino intensivo y de aves de corral, será el establecido en los Reales Decretos 306/2020, de 11 de febrero, y 637/2021, de 27 de julio, respectivamente. Para el resto de explotaciones, el tamaño mínimo que determinará la obligación de disponer del Plan de bienestar animal se establece en el artículo 3.c) del Real Decreto 348/2000, de 10 de marzo, conforme a los plazos dispuestos en la disposición transitoria segunda de este real decreto."
 
 > Se suprime, con efectos desde el 1 de junio de 2025, por la disposición final 7.2 del Real Decreto 346/2025, de 22 de abril. [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160)
 

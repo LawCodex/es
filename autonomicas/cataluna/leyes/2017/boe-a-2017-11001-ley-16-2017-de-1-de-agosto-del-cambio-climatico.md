@@ -1152,8 +1152,6 @@ b) Los vehículos que devenguen una cuota líquida igual o inferior a la cuantí
 
 En el supuesto de la liquidación correspondiente al alta en el padrón, el sujeto pasivo puede optar por la domiciliación de su pago en el plazo de dos meses a contar desde la finalización del período de exposición del padrón provisional correspondiente a dicha liquidación, y esta domiciliación queda condicionada, también, al hecho de que el sujeto pasivo, en el período mencionado, opte, sin estar obligado a ello con carácter general, por recibir las notificaciones de la Agencia Tributaria de Cataluña por medios electrónicos, y mantenga esta opción hasta la fecha de notificación de aquella liquidación.
 
-> Tténgase en cuenta que se modifica el plazo voluntario para el año 2020, del 1 al 20 de abril del 2022, o el día hábil inmediatamente posterior, por el art. 2.2 del Decreto-ley 14/2020, de 28 de abril. [Ref. BOE-A-2020-5651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5651)
-
 > Se modifica el plazo voluntario para el año 2020, del 1 al 20 de abril del 2022, o el día hábil inmediatamente posterior, por el art. 2.2 del Decreto-ley 14/2020, de 28 de abril. [Ref. BOE-A-2020-5651](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5651)
 
 > Se añade por el art. 9 de la Ley 9/2019, de 23 de diciembre. [Ref. BOE-A-2020-442](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-442)

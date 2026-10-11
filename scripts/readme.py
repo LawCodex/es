@@ -122,8 +122,10 @@ in its latest consolidated version (all amendments applied, as published by the 
 
 ### Autonomous-community legislation (ámbito autonómico)
 
-The BOE consolidates the *laws* of the autonomous communities (leyes, leyes forales,
-decretos legislativos, decretos-leyes) that were also published in the BOE.
+The BOE also consolidates the *laws* of the autonomous communities (leyes, leyes forales,
+decretos legislativos, decretos-leyes, plus a few resoluciones), i.e. the regional legislation
+that is republished in the BOE. Identifiers of texts consolidated from a regional gazette use that
+gazette's prefix (e.g. `DOGC-f-…`, `BOJA-b-…`).
 
 | Directory | Community | Files | By rank |
 |---|---|---:|---|

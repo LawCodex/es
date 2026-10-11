@@ -114,18 +114,6 @@ Como código se utilizará el número de Registro de Envasadores de Vinos.
 
 4\. No obstante lo dispuesto en el apartado 2, cuando la dirección del embotellador, productor, importador o vendedor consista en o contenga una denominación de origen, será de aplicación lo contemplado en el artículo 46.6.a) del Reglamento Delegado (UE) 2019/33 de la Comisión, de 17 de octubre de 2018, cuando el producto en cuestión tenga derecho al uso de otra denominación de origen protegida y haya sido elaborado en dicha dirección.
 
-> Téngase en cuenta que esta actualización, establecida por la disposición final 1 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875), entra en vigor el 1 de mayo de 2026, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> " **Artículo 7. Supuestos de obligatoriedad en el uso de códigos en el etiquetado**.
-
-> 1\. Cuando el nombre del embotellador, productor, importador o vendedor conste de, o contenga una denominación de origen o indicación geográfica protegidas, dicho nombre se sustituirá por el código indicado en el artículo anterior.
-
-> 2\. Cuando la dirección del embotellador, productor, importador o vendedor conste de, o contenga una denominación de origen o indicación geográfica protegidas, dicha dirección se sustituirá por el código postal correspondiente.
-
-> 3\. No obstante lo dispuesto en los apartados anteriores, cuando el producto en cuestión tenga derecho al uso de tal denominación de origen o indicación geográfica protegidas, será de aplicación lo contemplado en el artículo 56.6.a) del Reglamento (CE) n.º 607/2009 de la Comisión, de 14 de julio de 2009."
-
 > Se modifica, con efectos desde el 1 de mayo de 2026, por la disposición final 1 del Real Decreto 189/2026, de 11 de marzo. [Ref. BOE-A-2026-5875](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5875)
 
 ### Artículo 8. Condicionantes para la utilización de códigos.
@@ -309,14 +297,6 @@ Albariño.
 «Maceración carbónica». Aplicable a los vinos en cuyo proceso de fermentación se ha seguido dicho método.
 
 «Pale dry». Aplicable a aquellos vinos de licor con denominación de origen protegida cuyo contenido en azúcares sea inferior a 50 g/l y que cumplan los requisitos establecidos en sus respectivos pliegos de condiciones.
-
-> Téngase en cuenta que esta modificación, establecida por el art. único del Real Decreto 252/2024, de 12 de marzo, [Ref. BOE-A-2024-7036](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7036), entra en vigor el 10 de octubre de 2024, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "«Dry». Aplicable a los vinos de licor con denominación de origen protegida, con un contenido en azucares no superior a 45 gr/l y que cumplan los requisitos establecidos en sus respectivos pliegos de condiciones.
-
-> «Pale dry». Aplicable a los vinos de licor con denominación de origen protegida con un contenido en azucares inferior a 45 gr/l y que cumplan los requisitos establecidos en sus respectivos pliegos de condiciones."
 
 «Pale Cream». Aplicable a los vinos de licor con denominación de origen protegida con un contenido en azucares inferior a 115 gr/l y que cumplan los requisitos establecidos en sus respectivos pliegos de condiciones.
 

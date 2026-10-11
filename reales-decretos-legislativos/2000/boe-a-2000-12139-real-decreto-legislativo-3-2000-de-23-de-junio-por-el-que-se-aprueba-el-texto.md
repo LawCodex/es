@@ -158,12 +158,6 @@ a) Alteración de la salud.
 
 b) Incapacidad temporal, derivada de enfermedad, cualquiera que fuese su causa, incluida la situación especial contemplada en el artículo 18, de accidente común o en acto de servicio, o como consecuencia de él.
 
-> Téngase en cuenta que esta actualización de la letra b), establecida por el art. 4.1 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "b) Incapacidad temporal, derivada de enfermedad, cualquiera que fuese su causa, de accidente común o en acto de servicio, o como consecuencia de él."
-
 c) Incapacidad permanente en los mismos supuestos anteriores.
 
 d) Cargas familiares.
@@ -179,12 +173,6 @@ d) Cargas familiares.
 a) Asistencia sanitaria.
 
 b) Subsidio por incapacidad temporal, incluida la situación especial contemplada en el artículo 18.
-
-> Téngase en cuenta que esta actualización de la letra b) del apartado 1, establecida por el art. 4.2 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "b) Subsidio por incapacidad temporal."
 
 c) Prestaciones recuperadoras por incapacidad permanente total, absoluta y gran invalidez y para la retribución del personal encargado de la asistencia del gran inválido.
 
@@ -252,14 +240,6 @@ La incapacidad laboral, en sus modalidades de temporal y permanente, consistirá
 
 Se considerará situación especial de incapacidad temporal aquella en la que se encuentre el personal comprendido en el artículo 2 de este texto refundido donante de órganos o tejidos para su trasplante. Esta situación comprenderá tanto los días discontinuos como ininterrumpidos, en los que el donante reciba asistencia sanitaria y esté impedido para el servicio o la práctica como consecuencia de la preparación médica de la cirugía, como los transcurridos desde el día del ingreso hospitalario para la realización de esta preparación hasta que sea dado de alta por curación.
 
-> Téngase en cuenta que esta actualización, establecida por el art. 4.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "**Artículo 18. Incapacidad laboral.**
-
-> La incapacidad laboral, en sus modalidades de temporal y permanente, consistirá en la falta o disminución de la integridad psicofísica del mutualista, con reflejo en la situación económico-profesional del funcionario."
-
 > Se modifica por el art. 4.3 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693)
 
 > Esta modificación entra en vigor el 3 de marzo de 2025, según establece la disposición final 4 de la citada Ley.
@@ -269,12 +249,6 @@ Se considerará situación especial de incapacidad temporal aquella en la que se
 1\. Los funcionarios en activo comprendidos en el ámbito de aplicación del presente texto refundido, que hayan obtenido licencias por enfermedad o accidente que impidan el normal desempeño de sus funciones, se considerarán en situación de incapacidad temporal.
 
 2\. Asimismo, se encontrará en situación de incapacidad temporal el personal funcionario en activo comprendido en el ámbito de aplicación del presente texto refundido que se encuentre en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma.
-
-> Téngase en cuenta que esta actualización, establecida por el art. 4.4 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "2. Asimismo, se encontrarán en situación de incapacidad temporal las funcionarias en activo comprendidas en el ámbito de aplicación del presente texto refundido que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a), párrafos segundo y tercero, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma."
 
 3\. La concesión de las licencias y el control de las mismas corresponderá a los órganos judiciales y administrativos competentes en materia de gestión de personal, con el asesoramiento facultativo que, en su caso, estimen oportuno.
 
@@ -311,8 +285,6 @@ La suma de las cantidades anteriores no podrá exceder del importe de las percep
 C) En la situación especial de incapacidad temporal por donación de órganos o tejidos para su trasplante, prevista en el artículo 18, el subsidio por incapacidad temporal a cargo de la Mutualidad General Judicial tendrá una cuantía igual al 100 por ciento de las retribuciones complementarias devengadas desde el séptimo mes de licencia.
 
 Durante los seis primeros meses las personas mutualistas tendrán derecho al percibo de la totalidad de las retribuciones previstas en las Leyes y Reglamentos aplicables según su respectiva Carrera, Cuerpo y Escala, a cargo de los órganos de personal correspondiente.
-
-> Téngase en cuenta que la letra C), añadida al apartado 1 por el art. 4.5 de la Ley 6/2024, de 20 de diciembre. [Ref. BOE-A-2024-26693](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26693), entra en vigor el 3 de marzo de 2025, según determina su disposición final 4.
 
 2\. Cuando la situación de incapacidad temporal se extinga por el transcurso del plazo máximo establecido, se procederá al examen de la misma en los términos y plazos establecidos en el Régimen General de la Seguridad Social al objeto de la correspondiente calificación del estado del funcionario como incapacitado con carácter permanente para las funciones propias de su Cuerpo o Escala y declaración de jubilación por incapacidad permanente para el servicio. En aquellos casos en que continúe la necesidad de tratamiento médico por no ser definitivas las reducciones anatómicas o funcionales del funcionario, y así se haya dictaminado en informe razonado sobre la capacidad o incapacidad del funcionario por el Equipo de Valoración de Incapacidades de la Dirección Provincial del Instituto Nacional de la Seguridad Social de la provincia en que tenga su domicilio aquél, o por la Unidad de Valoración que resulte procedente de acuerdo con el Cuerpo o Escala del funcionario, se podrá declarar, por el órgano a quien se refiere el apartado 2 del artículo 19 de esta Ley, su reposición en la situación de incapacidad temporal, con el carácter de especial y revisable en el plazo de seis meses. Esta declaración, en su caso, deberá recaer necesariamente dentro del plazo de tres meses subsiguiente al de la extinción de la situación de incapacidad temporal por el transcurso de su plazo máximo de duración, incluida su prórroga.
 

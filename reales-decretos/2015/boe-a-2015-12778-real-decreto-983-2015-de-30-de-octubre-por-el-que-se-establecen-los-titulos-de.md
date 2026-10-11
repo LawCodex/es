@@ -5325,59 +5325,54 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 
 Serán impartidas por quienes posean la especialidad o condición que a continuación se detalla:
 
-<table class="tabla" data-vertical-align="top">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo de grado superior</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo de grado superior</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-PIAB301 Planificación del alto rendimiento.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB302 Perfeccionamiento técnico en slalom.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB303 Preparación física en seco y en agua en slalom de alto nivel.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB304 Coordinación y gestión.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB305 Diseño de material e innovación.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB306 Proyecto final.</p>
-<p class="cuerpo_tabla_izq">MED-PIAB307 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-PIAB301 Planificación del alto rendimiento.</p>
+<p>MED-PIAB302 Perfeccionamiento técnico en slalom.</p>
+<p>MED-PIAB303 Preparación física en seco y en agua en slalom de alto nivel.</p>
+<p>MED-PIAB304 Coordinación y gestión.</p>
+<p>MED-PIAB305 Diseño de material e innovación.</p>
+<p>MED-PIAB306 Proyecto final.</p>
+<p>MED-PIAB307 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</td>
-<td class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</td>
+<td>Educación física con el título de Técnico Deportivo Superior en Piragüismo de Aguas Bravas.</td>
+<td>Profesores de Enseñanza Secundaria.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-PIAT308 Planificación del alto rendimiento en aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT309 Análisis de la técnica de paleo en aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT310 Entrenamiento de alto rendimiento en aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT311 Competiciones de alto nivel en aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT312 Escuela de piragüismo de aguas tranquilas.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT313 Proyecto final.</p>
-<p class="cuerpo_tabla_izq">MED-PIAT314 Formación práctica.</p>
+<td rowspan="2">
+<p>MED-PIAT308 Planificación del alto rendimiento en aguas tranquilas.</p>
+<p>MED-PIAT309 Análisis de la técnica de paleo en aguas tranquilas.</p>
+<p>MED-PIAT310 Entrenamiento de alto rendimiento en aguas tranquilas.</p>
+<p>MED-PIAT311 Competiciones de alto nivel en aguas tranquilas.</p>
+<p>MED-PIAT312 Escuela de piragüismo de aguas tranquilas.</p>
+<p>MED-PIAT313 Proyecto final.</p>
+<p>MED-PIAT314 Formación práctica.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación física con el título de Técnico Deportivo Superior en Piragüismo de Aguas Tranquilas.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Catedráticos de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">Profesores de Enseñanza Secundaria.</p>
+<td>Educación física con el título de Técnico Deportivo Superior en Piragüismo de Aguas Tranquilas.</td>
+<td>
+<p>Catedráticos de Enseñanza Secundaria.</p>
+<p>Profesores de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

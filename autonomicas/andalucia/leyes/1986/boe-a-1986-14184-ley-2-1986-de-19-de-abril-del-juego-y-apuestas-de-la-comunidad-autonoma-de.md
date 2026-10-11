@@ -404,8 +404,6 @@ Son infracciones muy graves:
 
 11\. Permitir el acceso a los locales o establecimientos de juego o apuestas, así como permitir su práctica a las personas que lo tengan prohibido en virtud de la presente Ley o por los Reglamentos que la desarrollen.
 
-> Téngase en cuenta que esta última actualización del apartado 11, por el art. único.8 del Decreto-ley 6/2019, de 17 de diciembre. [Ref. BOJA-b-2019-90590](https://www.boe.es/buscar/doc.php?id=BOJA-b-2019-90590), entrará en vigor el 27 de junio de 2020, según se establece en la disposición final única.a) de la mencionada norma.
-
 12\. Efectuar publicidad de los juegos y apuestas o de los salones de juego en los que estos se practiquen, o promociones de comercialización y venta mediante actividades análogas o juegos incluidos en el Catálogo de Juegos, salvo autorización previa.
 
 13\. El incumplimiento de los horarios de apertura y cierre establecidos, en cada caso, para los establecimientos de juego.
@@ -481,8 +479,6 @@ d) La retirada temporal o definitiva de los documentos profesionales de los auto
 4\. Sin perjuicio de las sanciones que en su caso proceda imponer, podrán adoptarse como medidas provisionales la suspensión temporal de las autorizaciones o la clausura preventiva de los establecimientos públicos de juego o de apuestas cuando el procedimiento sancionador haya sido iniciado por la presunta comisión de infracciones graves o muy graves previstas en esta Ley.
 
 No obstante lo anterior, el órgano competente para iniciar el procedimiento sancionador acordará la adopción de tales medidas en los casos en los que presuntamente se haya permitido el acceso a los locales o establecimientos de juego o apuestas, a personas menores de edad o a las personas que figuren en el Registro de Control e Interdicciones de Acceso a los Establecimientos dedicados a la práctica de los juegos y apuestas, en los términos establecidos en la correspondiente inscripción.
-
-> Téngase en cuenta que esta última actualización del párrafo 2 del apartado 4, por el art. único.11 del Decreto-ley 6/2019, de 17 de diciembre. [Ref. BOJA-b-2019-90590](https://www.boe.es/buscar/doc.php?id=BOJA-b-2019-90590), en cuanto a la medida provisional derivada de permitir el acceso a los locales o establecimientos de juego o apuestas a las personas que figuren en el Registro de Control e Interdicciones de Acceso a los Establecimientos, entrará en vigor el 27 de junio de 2020, según se establece en la disposición final única.b) de la mencionada norma.
 
 5\. Los elementos de juego quedarán afectos al pago de las sanciones que se impongan.
 

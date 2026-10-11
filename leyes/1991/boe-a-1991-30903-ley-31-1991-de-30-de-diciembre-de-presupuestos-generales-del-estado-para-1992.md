@@ -1209,230 +1209,230 @@ En todo caso, serán revisables periódicamente, a instancia del interesado o de
 
 Tres. Durante 1992 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en los importes siguientes:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<p>Con cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
 <th>
-<p class="cabeza_tabla">Sin cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<p>Sin cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Jubilación o retiro</p>
+<p>Jubilación o retiro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">742.280</p>
+<p>742.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Viudedad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">630.840</p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Otros familiares siendo N el número de beneficiarios de la pensión o pensiones</p>
+<p>Viudedad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840 / N</p>
+<p>630.840</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otros familiares siendo N el número de beneficiarios de la pensión o pensiones</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>630.840 / N</p>
 </td>
 </tr>
 </table>
 
 Cuatro. Durante 1992 las cuantías mínimas de las pensiones de la Mutualidad Nacional de Previsión de la Administración Local quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en los importes siguientes:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<p>Con cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
 <th>
-<p class="cabeza_tabla">Sin cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Pesetas/año</p>
+<p>Sin cónyuge</p>
+<p>a cargo</p>
+<p>–</p>
+<p>Pesetas/año</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Jubilación</p>
+<p>Jubilación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">742.280</p>
+<p>742.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Viudedad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Mayores de sesenta y cinco años o menores con hijos a cargo sin derecho propio a pensión de orfandad</p>
+<p>Viudedad:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Menores de sesenta y cinco años sin hijos a cargo o con hijos con derecho propio a pensión de orfandad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Entre sesenta y sesenta y cuatro años</p>
+<p>Mayores de sesenta y cinco años o menores con hijos a cargo sin derecho propio a pensión de orfandad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">550.550</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Menores de sesenta años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">420.000</p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">A favor de otros familiares:</p>
+<p>Menores de sesenta y cinco años sin hijos a cargo o con hijos con derecho propio a pensión de orfandad:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Mayores de sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">480.620</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Menores de sesenta y cinco años</p>
+<p>Entre sesenta y sesenta y cuatro años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">420.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Orfandad reconocida al amparo del Texto Refundido de la Ley de Clases Pasivas:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>550.550</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuando concurran con pensión de viudedad, por beneficiario</p>
+<p>Menores de sesenta años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">210.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Máximo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">420.000 / N</p>
+<p>420.000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Cuando no concurran con pensión de viudedad, siendo N el número de beneficiarios</p>
+<p>A favor de otros familiares:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">420.000 / N</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mayores de sesenta y cinco años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>480.620</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menores de sesenta y cinco años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>420.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Orfandad reconocida al amparo del Texto Refundido de la Ley de Clases Pasivas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cuando concurran con pensión de viudedad, por beneficiario</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>210.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>420.000 / N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cuando no concurran con pensión de viudedad, siendo N el número de beneficiarios</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>420.000 / N</p>
 </td>
 </tr>
 </table>
@@ -1451,276 +1451,276 @@ Tres. A los efectos previstos en el número uno del presente artículo, los pens
 
 Cuatro. Durante 1992 las cuantías mínimas de las pensiones del Sistema de la Seguridad Social en su modalidad contributiva, quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en las cuantías siguientes:
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Con cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
+<p>Con cónyuge</p>
+<p>a cargo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Sin cónyuge</p>
-<p class="cabeza_tabla">a cargo</p>
+<p>Sin cónyuge</p>
+<p>a cargo</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Jubilación</p>
+<p>Jubilación</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">742.280</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">630.840</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">649.530</p>
+<p>742.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">550.550</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Invalidez permanente</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Gran invalidez con incremento del 50 por 100</p>
+<p>Titular menor de sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.113.420</p>
+<p>649.530</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">946.260</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Absoluta</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">742.280</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">630.840</p>
+<p>550.550</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años</p>
+<p>Invalidez permanente</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">742.280</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Gran invalidez con incremento del 50 por 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">742.280</p>
+<p>1.113.420</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Viudedad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>946.260</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Absoluta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>742.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">630.840</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">550.550</p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con menos de sesenta años</p>
+<p>Total: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>742.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">420.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Orfandad</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
+<p>Parcial del régimen de accidentes de trabajo:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">186.400</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">En la orfandad absoluta el mínimo se incrementará en 420.000 pesetas, distribuidas, en su caso, entre los beneficiarios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En favor de familiares</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>742.280</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">186.480</p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Si no existe viuda ni huérfano pensionistas:</p>
+<p>Viudedad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Un solo beneficiario, con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">480.620</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Un solo beneficiario, menor de sesenta y cinco años</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">420.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Varios beneficiarios. El mínimo asignado a cada uno se incrementará en el importe que resulte de prorratear 233.520 pesetas entre el número de beneficiarios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>630.840</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Subsidio de invalidez provisional y larga enfermedad</p>
+<p>Titular con edad entre sesenta y sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">468.780</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">401.220</p>
+<p>550.550</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con menos de sesenta años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>420.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Orfandad</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>186.400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En la orfandad absoluta el mínimo se incrementará en 420.000 pesetas, distribuidas, en su caso, entre los beneficiarios</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En favor de familiares</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>186.480</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Si no existe viuda ni huérfano pensionistas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Un solo beneficiario, con sesenta y cinco años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>480.620</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Un solo beneficiario, menor de sesenta y cinco años</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>420.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Varios beneficiarios. El mínimo asignado a cada uno se incrementará en el importe que resulte de prorratear 233.520 pesetas entre el número de beneficiarios</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Subsidio de invalidez provisional y larga enfermedad</p>
+</td>
+<td>
+<p>468.780</p>
+</td>
+<td>
+<p>401.220</p>
 </td>
 </tr>
 </table>
@@ -2110,83 +2110,83 @@ Uno. El apartado 1 del artículo 22 de la Ley 29/1987, de 18 de diciembre, del I
 
 «1. La cuota tributaria por este impuesto se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20:
 
-<table class="tabla" border="0" summary="Tabla de datos">
+<table>
 <tbody>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Patrimonio preexistente</p>
-<p class="cabeza_tabla">–</p>
-<p class="cabeza_tabla">Millones de pesetas</p>
+<p>Patrimonio preexistente</p>
+<p>–</p>
+<p>Millones de pesetas</p>
 </th>
 <th colspan="3">
-<p class="cabeza_tabla">Grupos del artículo 20</p>
+<p>Grupos del artículo 20</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">I y II</p>
+<p>I y II</p>
 </th>
 <th>
-<p class="cabeza_tabla">III</p>
+<p>III</p>
 </th>
 <th>
-<p class="cabeza_tabla">IV</p>
+<p>IV</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 0 a 60</p>
+<p>De 0 a 60</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0000</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,5882</p>
+<p>1,5882</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,0000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 60 a 300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,6676</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,1000</p>
+<p>2,0000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 300 a 600</p>
+<p>De 60 a 300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,1000</p>
+<p>1,0500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,7471</p>
+<p>1,6676</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2000</p>
+<p>2,1000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De más de 600</p>
+<p>De 300 a 600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,2000</p>
+<p>1,1000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9059</p>
+<p>1,7471</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,4000</p>
+<p>2,2000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De más de 600</p>
+</td>
+<td>
+<p>1,2000</p>
+</td>
+<td>
+<p>1,9059</p>
+</td>
+<td>
+<p>2,4000</p>
 </td>
 </tr>
 </tbody>
@@ -2622,232 +2622,232 @@ Se modifica el cuadro de porcentajes anuales para determinar la base imponible d
 
 CUADRO DE PORCENTAJES ANUALES PARA DETERMINAR EL INCREMENTO DEL VALOR
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Período de uno hasta cinco años</p>
-<p class="cabeza_tabla">(porcentaje anual)</p>
+<p>Período de uno hasta cinco años</p>
+<p>(porcentaje anual)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Período de hasta diez años</p>
-<p class="cabeza_tabla">(porcentaje anual)</p>
+<p>Período de hasta diez años</p>
+<p>(porcentaje anual)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Máximo</p>
+<p>Máximo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Máximo</p>
+<p>Máximo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 50.000 habitantes</p>
+<p>Hasta 50.000 habitantes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,1</p>
+<p>3,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,4</p>
+<p>2,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,1</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 50.001 a 100.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,3</p>
+<p>2,1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 100.001 a 500.000</p>
+<p>De 50.001 a 100.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,4</p>
+<p>3,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,7</p>
+<p>2,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,2</p>
+<p>3,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 500.001 a 1.000.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,6</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,0</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,7</p>
+<p>2,3</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Más de 1.000.000</p>
+<p>De 100.001 a 500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,7</p>
+<p>3,4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,1</p>
+<p>2,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,5</p>
+<p>3,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,9</p>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 500.001 a 1.000.000</p>
+</td>
+<td>
+<p>3,6</p>
+</td>
+<td>
+<p>3,0</p>
+</td>
+<td>
+<p>3,4</p>
+</td>
+<td>
+<p>2,7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 1.000.000</p>
+</td>
+<td>
+<p>3,7</p>
+</td>
+<td>
+<p>3,1</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>2,9</p>
 </td>
 </tr>
 </table>
 
-<table class="tabla" summary="Tabla de datos">
+<table>
 <tr>
 <th rowspan="2">
-<p class="cabeza_tabla">Población de derecho</p>
+<p>Población de derecho</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Período de hasta quince años</p>
-<p class="cabeza_tabla">(porcentaje anual)</p>
+<p>Período de hasta quince años</p>
+<p>(porcentaje anual)</p>
 </th>
 <th colspan="2">
-<p class="cabeza_tabla">Período de hasta veinte años</p>
-<p class="cabeza_tabla">(porcentaje anual)</p>
+<p>Período de hasta veinte años</p>
+<p>(porcentaje anual)</p>
 </th>
 </tr>
 <tr>
 <th>
-<p class="cabeza_tabla">Máximo</p>
+<p>Máximo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Máximo</p>
+<p>Máximo</p>
 </th>
 <th>
-<p class="cabeza_tabla">Mínimo</p>
+<p>Mínimo</p>
 </th>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Hasta 50.000 habitantes</p>
+<p>Hasta 50.000 habitantes</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,7</p>
+<p>2,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,0</p>
+<p>2,0</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,7</p>
+<p>2,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 50.001 a 100.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,8</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,7</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,1</p>
+<p>2,0</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De 100.001 a 500.000</p>
+<p>De 50.001 a 100.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,9</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
+<p>2,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,8</p>
+<p>2,7</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 500.001 a 1.000.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">3,1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,9</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,3</p>
+<p>2,1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Más de 1.000.000</p>
+<p>De 100.001 a 500.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,2</p>
+<p>2,9</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,6</p>
+<p>2,2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,0</p>
+<p>2,8</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,4</p>
+<p>2,2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De 500.001 a 1.000.000</p>
+</td>
+<td>
+<p>3,1</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>2,9</p>
+</td>
+<td>
+<p>2,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 1.000.000</p>
+</td>
+<td>
+<p>3,2</p>
+</td>
+<td>
+<p>2,6</p>
+</td>
+<td>
+<p>3,0</p>
+</td>
+<td>
+<p>2,4</p>
 </td>
 </tr>
 </table>

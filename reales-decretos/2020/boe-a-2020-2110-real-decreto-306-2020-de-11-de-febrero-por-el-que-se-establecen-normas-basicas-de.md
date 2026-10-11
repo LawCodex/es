@@ -238,16 +238,6 @@ La capacidad máxima de una explotación de ganado porcino se establecerá por l
 
 El titular de la explotación puede disponer voluntariamente de un profesional veterinario de explotación de acuerdo con lo establecido en los artículos 7 y 8 del Real Decreto 346/2025, de 22 de abril.
 
-> Téngase en cuenta que esta actualización de los apartados 2 y 3, establecida por el art. 1.1 del Real Decreto 344/2025, de 22 de abril, [Ref. BOE-A-2025-8158](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8158), entra en vigor el 1 de junio de 2025, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "2. Quien tenga la condición de titular de la explotación designará una persona que ejerza de veterinario de explotación, que tendrá las funciones y obligaciones recogidas en el artículo 4 del Real Decreto 364/2023, de 16 de mayo, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación y al Plan sanitario integral de las explotaciones ganaderas, y por el que se modifican varias normas de ordenación ganaderas, y será el encargado de asesorar e informar al titular de la explotación sobre las obligaciones y requisitos del presente real decreto en materia de bioseguridad, higiene, sanidad y bienestar animal y uso responsable de antimicrobianos.
-
-> 3\. Las explotaciones del ámbito de aplicación de este real decreto dispondrán de un Plan sanitario integral en los términos del artículo 1 y 6 del Real Decreto 364/2023, de 16 de mayo.
-
-> Tal y como establece el Reglamento (UE) 2016/429, del Parlamento Europeo y del Consejo, de 9 de marzo de 2016, las explotaciones deberán estar sometidas a un plan de visitas zoosanitarias. Dichas visitas sanitarias serán realizadas quien ejerza de veterinario de explotación y su frecuencia será proporcional al nivel de riesgo del establecimiento, que se determinará por la autoridad competente basándose en los criterios incluidos en el anexo III del Real Decreto 364/2023, de 16 de mayo. El contenido y la frecuencia de las visitas serán los establecidos en el artículo 7 del citado real decreto, e incluirá una evaluación de los requisitos de bioseguridad y otros aspectos zoosanitarios, como el uso racional de los antimicrobianos, así como la verificación de estos aspectos incluidos en el Sistema Integral de Gestión de las Explotaciones de ganado porcino que establece el artículo 6 del presente real decreto."
-
 4\. El titular de la explotación se asegurará de que todas las personas que trabajan con ganado porcino en la explotación tengan una formación adecuada y suficiente, de acuerdo con los siguientes principios:
 
 a) Todas las personas que trabajan con ganado porcino deberán tener un mínimo de formación de 20 horas, sobre las materias y contenido mínimo que figura en el anexo III, en un plazo máximo de 6 meses contados desde la fecha de inicio de su trabajo en la explotación, sin perjuicio de lo que establece la normativa específica en materia de bienestar animal y tratamientos biocidas.
@@ -364,12 +354,6 @@ h) Deberán contar con asesoramiento veterinario.
 
 2\. **(Suprimido)**
 
-> Téngase en cuenta que el apartado 2 se suprime, por el art. 1.2 del Real Decreto 344/2025, de 22 de abril, [Ref. BOE-A-2025-8158](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8158), con efectos de 1 de junio de 2025, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "2. El veterinario de explotación elaborará aquellos apartados del Sistema Integral de Gestión de las Explotaciones de ganado porcino que correspondan al Plan sanitario integral de explotación ganadera, tal y como se describe en el artículo 4 del Real Decreto 364/2023, de 16 de mayo, y que incluirá aspectos relacionados con sanidad, higiene y bioseguridad, así como el Plan de bienestar animal y uso responsable de antimicrobianos."
-
 > Se suprime el apartado 2, con efectos de 1 de junio de 2025, por el art. 1.2 del Real Decreto 344/2025, de 22 de abril. [Ref. BOE-A-2025-8158](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8158)
 
 > Se modifica el apartado 2 por la disposición final 4.2 del Real Decreto 364/2023, de 16 de mayo. [Ref. BOE-A-2023-11639](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11639)
@@ -468,12 +452,6 @@ No obstante, y de acuerdo a lo dispuesto en la disposición final quinta, si a l
 
 1\. Para garantizar el cumplimiento de los requisitos para la reducción de emisiones establecidos en el artículo 10, se crea el Registro General de las Mejores Técnicas Disponibles en Explotaciones, adscrito a la Secretaría General de Agricultura y Alimentación, que será gestionado por la Dirección General de Producciones y Mercados Agrarios del Ministerio de Agricultura, Pesca y Alimentación, con el contenido previsto en el Real Decreto 988/2022, de 29 de noviembre, por el que se regula el Registro General de las Mejores Técnicas Disponibles en Explotaciones y el soporte para el cálculo, seguimiento y notificación de las emisiones en ganadería, y se modifican diversas normas en materia agraria.
 
-> Téngase en cuenta que esta última actualización del apartado 1, establecida por la disposición final 3 del Real Decreto 988/2022, de 29 de noviembre. [Ref. BOE-A-2022-19911](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19911), entra en vigor el 2 de enero de 2023, según determina su disposición final 6.
-
-> Redaccción anterior:
-
-> "1. Para garantizar el cumplimiento de los requisitos para la reducción de emisiones establecidos en el artículo 10, se crea, adscrito a la Secretaría General de Agricultura y Alimentación, el Registro General de Mejores Técnicas Disponibles en Explotaciones, que será gestionado por la Dirección General de Producciones y Mercados Agrarios del Ministerio de Agricultura, Pesca y Alimentación."
-
 2\. Este registro recopilará información, tanto en cada explotación como de forma agregada, relativa a las Mejores Técnicas Disponibles utilizadas en cada explotación para la reducción de emisiones, de acuerdo con lo establecido en el artículo 16.
 
 3\. Las autoridades competentes actualizarán la información del registro a través de la información recibida en las notificaciones efectuadas por los titulares de las explotaciones, de acuerdo con lo establecido en el artículo 16.
@@ -499,16 +477,6 @@ No obstante, y de acuerdo a lo dispuesto en la disposición final quinta, si a l
 ### Artículo 13. Identificación de los animales.
 
 **(Derogado)**
-
-> Téngase en cuenta que esta derogación establecida por la disposición derogatoria única.f) del Real Decreto 787/2023, de 17 de octubre, [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499), entra en vigor el 2 de enero de 2024, según determina su disposición final 8.
-
-> Redacción anterior:
-
-> "1. La identificación de los animales se llevará a cabo con arreglo a lo dispuesto en el Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de los animales de las especies bovina, porcina, ovina y caprina, así como lo establecido en el Real Decreto 360/2009, de 23 de marzo, por el que se establecen las bases del programa coordinado de lucha, control y erradicación de la enfermedad de Aujeszky.
-
-> 2\. Cuando los animales pasen por explotaciones intermedias, deberán ser remarcados con el número de esa explotación antes de su salida.
-
-> 3\. En animales de capas no blancas se utilizará la marca auricular siempre que los sistemas de tatuaje dificulten la identificación de los mismos."
 
 > Se deroga, con efectos de 2 de enero de 2024, por la disposición derogatoria única.f) del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
 
@@ -833,44 +801,6 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 
 6\. Cuando exista, Plan de bienestar animal, de acuerdo con los establecido en el artículo 3.c) del Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas.
 
-> Téngase en cuenta que esta actualización del anexo, establecida por el art. 1.3 del Real Decreto 344/2025, de 22 de abril, [Ref. BOE-A-2025-8158](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8158), entra en vigor el 1 de junio de 2025, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "1. Identificación de quien ejerza de veterinario de explotación y establecimiento de competencias y responsabilidades dentro de la explotación.
-
-> 2\. Plan sanitario integral de acuerdo con el artículo 6 del Real Decreto 364/2023, de 16 de mayo, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación y al Plan sanitario integral de las explotaciones ganaderas, y por el que se modifican varias normas de ordenación ganaderas.
-
-> 3\. Plan de mantenimiento de las instalaciones.
-
-> 4\. Plan de formación en materia de bienestar animal, medio ambiente, bioseguridad, sanidad, higiene y manejo de los animales, resistencia a los tratamientos incluidas las resistencias antimicrobianas y sus consecuencias.
-
-> 5\. Plan de gestión de residuos no sanitarios.
-
-> 6\. Plan de gestión ambiental y de lucha contra el cambio climático:
-
-> a) Medidas para la optimización del uso de agua y energía.
-
-> b) Medidas para el control de ruidos, partículas, polvo y olores.
-
-> c) Plan de producción y gestión de estiércol. Este plan incluirá, como mínimo, las siguientes cuestiones:
-
-> i. Sistema de recogida e instalaciones previstas para el almacenamiento de los estiércoles.
-
-> ii. Producción anual estimada de estiércoles.
-
-> iii. Descripción de la gestión prevista para los estiércoles, señalando la cuantía de los que se destinarán directamente a la valorización agronómica y las cuantías de los que se destinarán a un tratamiento autorizado.
-
-> iv. Superficie agrícola o forestal para la utilización de los estiércoles por el productor e identificación de las parcelas destinatarias, así como identificación de los operadores autorizados a los que se haya entregado el estiércol o, en su caso, las instalaciones de tratamiento autorizadas de destino de los estiércoles.
-
-> 7\. Plan de bienestar animal, con el siguiente contenido mínimo:
-
-> a) Descripción de las condiciones estructurales y ambientales de la explotación.
-
-> b) Evaluación de factores de riesgo para el bienestar de los animales incluyendo el riesgo de desastres naturales (tales como inundaciones, terremotos o incendios) de acuerdo con las características del lugar donde se encuentra la explotación.
-
-> c) Plan de acción con medidas a adoptar sobre los riesgos identificados."
-
 > Se modifica, con efectos de 1 de junio de 2025, por el art. 1.3 del Real Decreto 344/2025, de 22 de abril. [Ref. BOE-A-2025-8158](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8158)
 
 > Se modifica por la disposición final 4.4 del Real Decreto 364/2023, de 16 de mayo. [Ref. BOE-A-2023-11639](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11639)
@@ -894,65 +824,52 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 
 ## ANEXO VI — Movimientos entre explotaciones de ganado porcino
 
-<table class="tabla_ancha">
-<colgroup>
-<col class="row_column_15">
-<col class="row_column_16">
-<col class="row_column_8">
-<col class="row_column_17">
-<col class="row_column_18">
-<col class="row_column_18">
-<col class="row_column_19">
-<col class="row_column_11">
-<col class="row_column_12">
-<col class="row_column_17">
-<col class="row_column_8">
-</colgroup>
+<table>
 <thead>
-<tr class="row_column_5">
+<tr>
 <td rowspan="2"> </td>
 <td rowspan="2">
-<p class="cabeza_tabla">ORIGEN</p>
+<p>ORIGEN</p>
 </td>
 <td colspan="9">
-<p class="cabeza_tabla">DESTINO</p>
+<p>DESTINO</p>
 </td>
 </tr>
-<tr class="row_column_20">
+<tr>
 <td>
-<p class="cabeza_tabla">Selección</p>
+<p>Selección</p>
 </td>
 <td>
-<p class="cabeza_tabla">Multiplicación</p>
+<p>Multiplicación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Recría de reproductores</p>
+<p>Recría de reproductores</p>
 </td>
 <td>
-<p class="cabeza_tabla">Transición de reproductoras primíparas</p>
+<p>Transición de reproductoras primíparas</p>
 </td>
 <td>
-<p class="cabeza_tabla">CRSP<sup>2</sup></p>
+<p>CRSP<sup>2</sup></p>
 </td>
 <td>
-<p class="cabeza_tabla">Producción</p>
+<p>Producción</p>
 </td>
 <td>
-<p class="cabeza_tabla">Transición</p>
+<p>Transición</p>
 </td>
 <td>
-<p class="cabeza_tabla">Cebo, autoconsumo y reducidas</p>
+<p>Cebo, autoconsumo y reducidas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Matadero</p>
+<p>Matadero</p>
 </td>
 </tr>
 </thead>
 <tbody>
-<tr class="row_column_21">
+<tr>
 <td rowspan="2"></td>
 <td>
-<p class="cuerpo_tabla_izq">Autoconsumo.</p>
+<p>Autoconsumo.</p>
 </td>
 <td></td>
 <td></td>
@@ -963,12 +880,12 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Reducidas.</p>
+<p>Reducidas.</p>
 </td>
 <td></td>
 <td></td>
@@ -978,18 +895,18 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_14">
+<tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">Centros de concentración.</p>
+<p>Centros de concentración.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Tratantes u operadores comerciales.</p>
+<p>Tratantes u operadores comerciales.</p>
 </td>
 <td></td>
 <td></td>
@@ -998,18 +915,18 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Certamen Ganadero.</p>
+<p>Certamen Ganadero.</p>
 </td>
 <td></td>
 <td></td>
@@ -1017,228 +934,228 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">CARD<sup>1.</sup></p>
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Centro de testaje.</p>
+<p>CARD<sup>1.</sup></p>
 </td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_5">
+<tr>
+<td>
+<p>Centro de testaje.</p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+</tr>
+<tr>
 <td rowspan="8"></td>
 <td>
-<p class="cuerpo_tabla_izq">Selección.</p>
+<p>Selección.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">Multiplicación.</p>
-</td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Recría de reproductores.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>Multiplicación.</p>
 </td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-</tr>
-<tr class="row_column_14">
-<td>
-<p class="cuerpo_tabla_izq">Transición de reproductoras primíparas.</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">CRSP<sup>2.</sup></p>
+<p>Recría de reproductores.</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
 </td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-</tr>
-<tr class="row_column_21">
-<td>
-<p class="cuerpo_tabla_izq">Producción.</p>
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
+</td>
+<td></td>
+<td>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Transición.</p>
+<p>Transición de reproductoras primíparas.</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
 </td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>
+<p>X</p>
+</td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X<sup>3</sup></p>
+<p>X</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
-<tr class="row_column_21">
+<tr>
 <td>
-<p class="cuerpo_tabla_izq">Cebo.</p>
+<p>CRSP<sup>2.</sup></p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>X</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Producción.</p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Transición.</p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<p>X<sup>3</sup></p>
+</td>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>X</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cebo.</p>
 </td>
 <td></td>
 <td></td>
@@ -1248,10 +1165,10 @@ c) Plan de producción y gestión de estiércol. Este plan incluirá, como míni
 <td></td>
 <td></td>
 <td>
-<p class="cuerpo_tabla_centro">X<sup>3</sup></p>
+<p>X<sup>3</sup></p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">X</p>
+<p>X</p>
 </td>
 </tr>
 </tbody>

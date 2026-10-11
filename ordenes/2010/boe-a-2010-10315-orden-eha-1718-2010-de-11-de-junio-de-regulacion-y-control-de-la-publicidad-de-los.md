@@ -70,14 +70,6 @@ a) Cualquier entidad de crédito, establecimiento financiero de crédito, entida
 
 b) Cualquier prestamista inmobiliario, intermediario de crédito inmobiliario o representante designado definido en los artículos 4.2) y 4.5) de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario, español o extranjero que opere mediante sucursal, agente, o en régimen de libre prestación de servicios.
 
-> Téngase en cuenta que esta última actualización establecida por el art. 1.1 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301) entra en vigor el 16 de junio de 2019, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "**Artículo 3. Ámbito de aplicación.**
-
-> Queda sujeta al cumplimiento de las normas contenidas en la presente orden la actividad publicitaria realizada tanto por las entidades de crédito españolas como por las sucursales en España de entidades de crédito extranjeras, dirigida a clientes o potenciales clientes residentes en España, y que se refiera a productos y servicios bancarios, incluidos los servicios de pago, distintos de los instrumentos financieros y servicios de inversión contemplados en la Orden EHA/1717/2010, de 11 de junio, de regulación y control de la publicidad de servicios y productos de inversión."
-
 > Se modifica, con efectos de 16 de junio de 2019, por el art. 1.1 de la Orden ECE/482/2019, de 26 de abril. [Ref. BOE-A-2019-6301](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6301)
 
 ## Artículo 4. Normas, principios y criterios generales. Políticas de comunicación comercial.

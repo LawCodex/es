@@ -1026,34 +1026,6 @@ b) Junto a la solicitud deberá aportarse la siguiente documentación:
 
 c) El certificado se expedirá cuando se obtenga la puntuación mínima requerida, de acuerdo con el baremo que se establece en el anexo de esta orden.
 
-> Téngase en cuenta que la actualización de los apartados 2 y 3, establecida por el art. 2.18 de la Orden CLT/641/2025, de 17 de junio,[Ref. BOE-A-2025-12392](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12392), entra en vigor el 18 de septiembre de 2025, según determina su disposición final única.
-
-> Redacción anterior:
-
-> [...]
-
-> "2. En el supuesto de las inversiones a las que se refiere el artículo 36.1 de la Ley 27/2014, de 27 de noviembre, cuando se trate de la producción de una obra para la que no se solicite ayuda a la producción, el procedimiento de solicitud y los requisitos para la obtención del certificado serán los siguientes:
-
-> a) La solicitud del certificado cultural se efectuará junto con la del certificado de nacionalidad a través de la sede electrónica asociada del Ministerio de Cultura y Deporte, mediante el modelo normalizado disponible en la misma.
-
-> b) El certificado se expedirá cuando se cumplan los requisitos establecidos en el artículo 12.3 de esta orden.
-
-> 3\. En el supuesto de las inversiones a las que se refiere el artículo 36.2 de la Ley 27/2014, de 27 de noviembre, el procedimiento de solicitud y los requisitos para la obtención del certificado serán los siguientes:
-
-> a) La solicitud se efectuará a través de la sede electrónica asociada del Ministerio de Cultura y Deporte mediante el modelo normalizado, y junto a ella deberá aportarse la siguiente documentación:
-
-> 1.º Memoria explicativa que indique cuáles van a ser o han sido los trabajos realizados y que justifique su adecuación y correspondencia con los criterios indicados en la solicitud.
-
-> 2.º Ficha técnico-artística de la producción que vaya a ser o haya sido rodada en España.
-
-> 3.º Ficha detallada con el número de días, fechas y lugares de rodaje. Si se trata de servicios de animación, o efectos visuales, o postproducción, calendario tentativo de trabajo y lugares donde se realizan dichos trabajos.
-
-> 4.º Declaración responsable sobre la veracidad de los datos aportados en los documentos anteriores.
-
-> b) El certificado se expedirá cuando se obtenga la puntuación mínima requerida, de acuerdo con el baremo que se establece en el anexo de esta orden.
-
-> [...]"
-
 4\. En el ámbito de actuación del Instituto de la Cinematografía y de las Artes Audiovisuales la resolución por la que se expida o deniegue el certificado cultural pondrá fin a la vía administrativa y se notificará a la persona interesada en el plazo máximo de un mes desde su solicitud. Transcurrido este plazo sin notificar la resolución, la solicitud se entenderá estimada.
 
 5\. La persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales podrá revocar el certificado cultural expedido si se comprueba que finalmente no se cumplen los criterios que justificaron su otorgamiento bien sea en los procedimientos de obtención del certificado de nacionalidad o calificación de la producción, cuando dichos procedimientos deban realizarse, o, en otro caso, en el proceso de comprobación del cumplimiento de las obligaciones correspondientes que pueda llevarse a cabo.
@@ -1142,371 +1114,357 @@ Esta orden entrará en vigor el día siguiente al de su publicación en el «Bol
 
 ## ANEXO — Baremo para la acreditación del carácter cultural de la obra que se acoja al incentivo fiscal regulado en el artículo 36.2 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="80%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">I. Producciones de imagen real (puntuación mínima requerida: 15)</th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Puntuación máxima</p>
-<p class="cabeza_tabla">35</p>
+<th colspan="2">I. Producciones de imagen real (puntuación mínima requerida: 15)</th>
+<th colspan="3">
+<p>Puntuación máxima</p>
+<p>35</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">I. A</td>
+<td>I. A</td>
 <td colspan="3">Contenido Cultural.</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.1</td>
+<td>A.1</td>
 <td colspan="2">Al menos 5 escenas de la producción están ambientadas en España, en otro país del Consejo de Europa, en un país hispanohablante (entendiendo por tal, y en lo sucesivo, el país donde el español o el castellano es la lengua oficial) o en una localización fantástica, imaginaria o que no pueda ser determinada.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.2</td>
+<td>A.2</td>
 <td colspan="2">Al menos un personaje protagonista o principal es español o de otro país del Consejo de Europa, de un país hispanohablante o de una nacionalidad que no se puede determinar.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.3</td>
+<td>A.3</td>
 <td colspan="2">Al menos 2 localizaciones representativas y reconocibles como España, sirven como el escenario de una escena cada una.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.4</td>
+<td>A.4</td>
 <td colspan="2">La trama refleje el patrimonio artístico o cultural, la realidad social o un periodo histórico relevante, así como personajes o lugares míticos.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.5</td>
+<td>A.5</td>
 <td colspan="2">El argumento o la historia está inspirado o es una adaptación de una obra existente de ficción o de no-ficción (por ejemplo, un libro, cómic, película, programa de televisión, ópera, obra de teatro, videojuego).</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.6</td>
+<td>A.6</td>
 <td colspan="2">Diálogo original grabado principalmente en español o en alguna de las lenguas oficiales de España o de otros países del Espacio Económico Europeo.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.7</td>
+<td>A.7</td>
 <td colspan="2">Una versión final de la producción estará disponible doblada o subtitulada en español o en otra lengua oficial española.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.8</td>
+<td>A.8</td>
 <td colspan="2">Que se incluya en la obra lengua de signos españolas reconocidas en España como propias, realizada en España.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I. B</td>
+<td>I. B</td>
 <td colspan="3">Desarrollo de los trabajos de la producción:</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1</td>
+<td>B.1</td>
 <td colspan="2">Porcentaje del rodaje principal realizado en España por obra o por capítulo.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.1</td>
+<td>B.1.1</td>
 <td>Al menos el 50 %</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.2</td>
+<td>B.1.2</td>
 <td>Al menos el 33 %</td>
-<td class="cuerpo_tabla_centro">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>7</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.3</td>
+<td>B.1.3</td>
 <td>Al menos el 25 %</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.4</td>
+<td>B.1.4</td>
 <td>Al menos el 15 % o un mínimo de 2 semanas</td>
-<td class="cuerpo_tabla_centro">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.2</td>
+<td>B.2</td>
 <td colspan="2">Al menos el 50 % de los Efectos Visuales (VFX) o Efectos Especiales Prácticos (SFX) se realizan en España.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.3</td>
+<td>B.3</td>
 <td colspan="2">Al menos el 50 % del trabajo en grabación de música o postproducción de audio o postproducción de imagen se realiza en España.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.4</td>
+<td>B.4</td>
 <td colspan="2">Al menos el 50 % de las empresas proveedoras de elementos técnicos (cámara, iluminación, sonido, maquinistas) del rodaje en España son españolas.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">I. C</td>
+<td>I. C</td>
 <td colspan="3">Personal ciudadano o residente español o en otro país del Espacio Económico Europeo (cuando el puesto que se indica sea ocupado por varias personas, se obtendrá puntuación si al menos a una de ellas cumple el requisito).</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.1</td>
+<td>C.1</td>
 <td colspan="2">Director o directora.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.2</td>
+<td>C.2</td>
 <td colspan="2">Guionista.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.3</td>
+<td>C.3</td>
 <td colspan="2">Compositor o compositora.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.4</td>
+<td>C.4</td>
 <td colspan="2">Director o directora de fotografía.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.5</td>
+<td>C.5</td>
 <td colspan="2">Productor ejecutivo o productora ejecutiva.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.6</td>
+<td>C.6</td>
 <td colspan="2">Actor o actriz protagonista.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.7</td>
+<td>C.7</td>
 <td colspan="2">Al menos el 50 % del resto del personal artístico.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.8</td>
+<td>C.8</td>
 <td colspan="2">Jefe o jefa de equipo (diseñador/a de producción principal, diseñador/a de vestuario principal, montador/a principal, diseñador/a de sonido principal, supervisor/a principal de efectos visuales, supervisor/a principal de maquillaje y peluquería).</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.9</td>
+<td>C.9</td>
 <td colspan="2">Al menos el 50 % del personal técnico y de producción, en las escenas rodadas en España.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla_ancha">
-<colgroup>
-<col width="5%">
-<col width="80%">
-<col width="5%">
-<col width="5%">
-<col width="5%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">II. Producciones de imagen de animación y efectos visuales y postproducción (puntuación mínima requerida: 15)</th>
-<th class="cabeza_tabla" colspan="3">
-<p class="cabeza_tabla">Puntuación máxima</p>
-<p class="cabeza_tabla">35</p>
+<th colspan="2">II. Producciones de imagen de animación y efectos visuales y postproducción (puntuación mínima requerida: 15)</th>
+<th colspan="3">
+<p>Puntuación máxima</p>
+<p>35</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">II. A</td>
+<td>II. A</td>
 <td colspan="3">Contenido Cultural.</td>
-<td class="cuerpo_tabla_centro">18</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.1</td>
+<td>A.1</td>
 <td colspan="2">Al menos 5 escenas de la producción están ambientadas en España, en otro país del Consejo de Europa, en uno de los países hispanohablantes entendiendo por tal, y en lo sucesivo, el país donde el español o el castellano es la lengua oficial) o en una localización fantástica, imaginaria o que no pueda ser determinada.</td>
-<td class="cuerpo_tabla_centro">6</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.2</td>
+<td>A.2</td>
 <td colspan="2">Al menos un personaje principal es español o de otro país del Espacio Económico Europeo, de un país hispanohablante o de una nacionalidad que no se puede determinar.</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>3</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.3</td>
+<td>A.3</td>
 <td colspan="2">Al menos 2 localizaciones representativas y reconocibles como España, sirven como el escenario de una escena cada una.</td>
-<td class="cuerpo_tabla_centro">4.</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.4</td>
+<td>A.4</td>
 <td colspan="2">La trama refleje el patrimonio artístico o cultural, la realidad social o un periodo histórico relevante, así como personajes o lugares míticos.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.5</td>
+<td>A.5</td>
 <td colspan="2">Diálogo original grabado principalmente en español o en alguna de las lenguas oficiales de España o de otros países del Espacio Económico Europeo</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.6</td>
+<td>A.6</td>
 <td colspan="2">Una versión final de la producción estará disponible doblada o subtitulada en español o en otra lengua oficial española.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">A.7</td>
+<td>A.7</td>
 <td colspan="2">Que se incluya en la obra lengua de signos españolas reconocidas en España como propias, realizada en España.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II. B</td>
+<td>II. B</td>
 <td colspan="3">Desarrollo de los trabajos de la producción.</td>
-<td class="cuerpo_tabla_centro">9</td>
+<td>9</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1</td>
+<td>B.1</td>
 <td colspan="2">Porcentaje de gastos de diseño de personajes, fondos, pre-visualización y animación/efectos visuales realizados en España por obra o por capítulo.</td>
-<td class="cuerpo_tabla_centro">8</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.2</td>
+<td>B.1.2</td>
 <td>Al menos el 50 %</td>
-<td class="cuerpo_tabla_centro" colspan="1">8</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>8</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.3</td>
+<td>B.1.3</td>
 <td>Al menos el 33 %</td>
-<td class="cuerpo_tabla_centro" colspan="1">7</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>7</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.4</td>
+<td>B.1.4</td>
 <td>Al menos el 25 %</td>
-<td class="cuerpo_tabla_centro" colspan="1">6</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>6</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.5</td>
+<td>B.1.5</td>
 <td>Al menos el 15 %</td>
-<td class="cuerpo_tabla_centro" colspan="1">5</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>5</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.1.6</td>
+<td>B.1.6</td>
 <td>Al menos el 10 %</td>
-<td class="cuerpo_tabla_centro" colspan="1">4</td>
-<td class="cuerpo_tabla_centro"> </td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.2</td>
+<td>B.2</td>
 <td colspan="2">Al menos el 50 % del trabajo en grabación de música o postproducción de audio o postproducción de imagen se realiza en España, por obra o por capítulo.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">B.3</td>
+<td>B.3</td>
 <td colspan="2">La audiodescripción de la obra audiovisual se realiza en España</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">II. C</td>
+<td>II. C</td>
 <td colspan="3">Personal ciudadano o residente español o en otro país del Espacio Económico Europeo. (Cuando el puesto que se indica sea ocupado por varias personas, se obtendrá puntuación si al menos a una de ellas cumple el requisito).</td>
-<td class="cuerpo_tabla_centro">8</td>
+<td>8</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.1</td>
+<td>C.1</td>
 <td colspan="2">Director o directora.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.2</td>
+<td>C.2</td>
 <td colspan="2">Guionista.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.3</td>
+<td>C.3</td>
 <td colspan="2">Compositor o compositora.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.4</td>
+<td>C.4</td>
 <td colspan="2">Director o directora de animación/a; o supervisor o supervisora de efectos visuales; o supervisor o supervisora de postproducción; o montador o montadora de la obra audiovisual.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.5</td>
+<td>C.5</td>
 <td colspan="2">Productor ejecutivo o productora ejecutiva; o empresa responsable de todo o parte del servicio de producción.</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>1</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C.6</td>
+<td>C.6</td>
 <td colspan="2">Diseñador o diseñadora de personajes; o animador o animadora; o modelador o modeladora; o iluminador o iluminadora; o compositor o compositora de VFX; o artista Foley; o editor o editora de sonido; o mezclador o mezcladora de sonido.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C 7</td>
+<td>C 7</td>
 <td colspan="2">Jefe o jefa de equipo de modelado, o de layaut, o de lightning, o de FX, o de CFX, o de compositing, o de animación y sonido.</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>2</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">C 8</td>
+<td>C 8</td>
 <td colspan="2">Al menos el 50 % del personal técnico y de producción de las escenas realizadas en España.</td>
-<td class="cuerpo_tabla_centro">4</td>
-<td class="cuerpo_tabla_centro"> </td>
+<td>4</td>
+<td> </td>
 </tr>
 </tbody>
 </table>

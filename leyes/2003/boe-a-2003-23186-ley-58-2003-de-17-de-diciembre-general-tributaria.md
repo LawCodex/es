@@ -496,8 +496,6 @@ Lo dispuesto en este apartado no se aplicará al incumplimiento del plazo para r
 
 6\. El interés de demora será el interés legal del dinero vigente a lo largo del período en el que aquél resulte exigible, incrementado en un 25 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente.
 
-> Téngase en cuenta que el interés de demora a que se refiere el apartado 6 será el 4,0625 por ciento hasta el 31 de diciembre de 2023, según establece la disposición adicional 42.2 de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
-
 No obstante, en los supuestos de aplazamiento, fraccionamiento o suspensión de deudas garantizadas en su totalidad mediante aval solidario de entidad de crédito o sociedad de garantía recíproca o mediante certificado de seguro de caución, el interés de demora exigible será el interés legal.
 
 > El interés de demora a que se refiere el apartado 6 será el el 4,0625 por ciento hasta el 31 de diciembre de 2023, según establece la disposición adicional 42.2 de la Ley 31/2022, de 23 de diciembre. [Ref. BOE-A-2022-22128](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22128)
@@ -599,8 +597,6 @@ h) La obligación de entregar un certificado de las retenciones o ingresos a cue
 i) Las obligaciones de esta naturaleza que establezca la normativa aduanera.
 
 j) La obligación, por parte de los productores, comercializadores y usuarios, de que los sistemas y programas informáticos o electrónicos que soporten los procesos contables, de facturación o de gestión de quienes desarrollen actividades económicas, garanticen la integridad, conservación, accesibilidad, legibilidad, trazabilidad e inalterabilidad de los registros, sin interpolaciones, omisiones o alteraciones de las que no quede la debida anotación en los sistemas mismos. Reglamentariamente se podrán establecer especificaciones técnicas que deban reunir dichos sistemas y programas, así como la obligación de que los mismos estén debidamente certificados y utilicen formatos estándar para su legibilidad.
-
-> Téngase en cuenta que la letra j) del apartado 2, añadida por el art. 13.4 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473), entra en vigor el 11 de octubre de 2021, según establece la disposición final 7.a) de la citada Ley.
 
 3\. En desarrollo de lo dispuesto en este artículo, las disposiciones reglamentarias podrán regular las circunstancias relativas al cumplimiento de las obligaciones tributarias formales.
 
@@ -2236,12 +2232,6 @@ b) La comprobación y realización de las devoluciones previstas en la normativa
 
 c) El reconocimiento y comprobación de la procedencia de los beneficios e incentivos fiscales, así como de los regímenes tributarios especiales, mediante la tramitación del correspondiente procedimiento de gestión tributaria.
 
-> Téngase en cuenta que esta letra c) del apartado 1, modificada por la disposición final 2 del Real Decreto-ley 13/2022, de 26 de julio de 2022. [Ref. BOE-A-2022-12482](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482), entra en vigor el 1 de enero de 2023 según establece su disposición final 5.
-
-> Redacción anterior:
-
-> "c) El reconocimiento y comprobación de la procedencia de los beneficios fiscales de acuerdo con la normativa reguladora del correspondiente procedimiento."
-
 d) El control y los acuerdos de simplificación relativos a la obligación de facturar, en cuanto tengan trascendencia tributaria.
 
 e) La realización de actuaciones de control del cumplimiento de la obligación de presentar declaraciones tributarias y de otras obligaciones formales.
@@ -3352,16 +3342,6 @@ La Administración tributaria española nombrará, en todo caso, a un representa
 
 Dicho informe recogerá, en su caso, los hechos y circunstancias relevantes de la inspección conjunta, así como el régimen tributario aplicable a los mismos, en los que exista acuerdo entre los Estados intervinientes, que habrán de ser tenidos en cuenta en los procedimientos tributarios que puedan llevarse a cabo como consecuencia o en seguimiento de la inspección conjunta. Asimismo, podrá reflejar expresamente cualquier cuestión sobre la que no se haya podido alcanzar un acuerdo que podrá no ser tenida en cuenta en los citados procedimientos.
 
-> Téngase en cuenta que esta actualización, establecida por el art. único.9 de la Ley 13/2023, de 24 de mayo, [Ref. BOE-A-2023-12204](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12204), se aplicará a partir del 1 de enero de 2024, según establece su disposición final 8.a).
-
-> Redacción anterior:
-
-> "Artículo 177 quinquies. Presencia en las actuaciones de asistencia y en controles simultáneos.
-
-> 1\. En el desarrollo de las actuaciones de asistencia a otros Estados, podrán estar presentes funcionarios designados por el Estado requirente, previa autorización de la autoridad competente española o previo acuerdo entre los Estados.
-
-> 2\. Asimismo, los funcionarios designados por la autoridad competente española podrán desplazarse a otros Estados en el marco de peticiones de asistencia efectuadas por la Agencia Estatal de Administración Tributaria, o como consecuencia de controles simultáneos."
-
 > Se modifica por el art. único.9 de la Ley 13/2023, de 24 de mayo. [Ref. BOE-A-2023-12204](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12204)
 
 > Esta modificación se aplicará a partir del 1 de enero de 2024, según establece la disposición final 8.a) de la citada Ley.
@@ -4071,8 +4051,6 @@ La misma persona o entidad que haya sido sancionada conforme al apartado anterio
 4\. La infracción señalada en el apartado 1 anterior se sancionará con multa pecuniaria fija de 150.000 euros, por cada ejercicio económico en el que se hayan producido ventas y por cada tipo distinto de sistema o programa informático o electrónico que sea objeto de la infracción. No obstante, las infracciones de la letra f) del apartado 1 de este artículo se sancionarán con multa pecuniaria fija de 1.000 euros por cada sistema o programa comercializado en el que se produzca la falta del certificado.
 
 La infracción señalada en el apartado 2 anterior, se sancionará con multa pecuniaria fija de 50.000 euros por cada ejercicio, cuando se trate de la infracción por la tenencia de sistemas o programas informáticos o electrónicos que no estén debidamente certificados, teniendo que estarlo por disposición reglamentaria, o se hayan alterado o modificado los dispositivos certificados.
-
-> Téngase en cuenta que este artículo, añadida por el art. 13.21 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473), entra en vigor el 11 de octubre de 2021, según establece la disposición final 7.a) de la citada Ley.
 
 > Se añade por el art. 13.21 de la Ley 11/2021, de 9 de julio. [Ref. BOE-A-2021-11473](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11473)
 
@@ -5661,14 +5639,6 @@ Serán prestaciones patrimoniales de carácter público no tributario las demás
 En particular, se considerarán prestaciones patrimoniales de carácter público no tributarias aquellas que teniendo tal consideración se exijan por prestación de un servicio gestionado de forma directa mediante personificación privada o mediante gestión indirecta.
 
 En concreto, tendrán tal consideración aquellas exigidas por la explotación de obras o la prestación de servicios, en régimen de concesión o sociedades de economía mixta, entidades públicas empresariales, sociedades de capital íntegramente público y demás fórmulas de Derecho privado.
-
-> Téngase en cuenta que esta última actualización establecida por la disposición final 11 de la Ley 9/2017, de 8 de noviembre. [Ref. BOE-A-2017-12902](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902) entra en vigor el 9 de marzo de 2018, según determina su disposición final 16.
-
-> Redacción anterior:
-
-> "Disposición adicional primera. Exacciones parafiscales.
-
-> Las exacciones parafiscales participan de la naturaleza de los tributos rigiéndose por esta ley en defecto de normativa específica."
 
 > Se modifica, con efectos de 9 de marzo de 2018, por la disposición final 11 de la Ley 9/2017, de 8 de noviembre. [Ref. BOE-A-2017-12902](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902)
 

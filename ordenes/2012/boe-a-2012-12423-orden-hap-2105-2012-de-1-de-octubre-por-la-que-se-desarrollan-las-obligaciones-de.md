@@ -1,0 +1,699 @@
+---
+title: "Orden HAP/2105/2012, de 1 de octubre, por la que se desarrollan las obligaciones de suministro de información previstas en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera"
+identifier: "BOE-A-2012-12423"
+eli: "https://www.boe.es/eli/es/o/2012/10/01/hap2105"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2012-10-01
+published: 2012-10-05
+in_force_from: 2012-10-06
+last_amended: 2025-12-26
+consolidated: 2025-12-29
+gazette: "Boletín Oficial del Estado núm. 240"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-12423"
+retrieved: 2026-10-11
+---
+
+# Orden HAP/2105/2012, de 1 de octubre, por la que se desarrollan las obligaciones de suministro de información previstas en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera
+
+El principio de transparencia como base del funcionamiento de las Administraciones Públicas resulta clave para la rendición de cuentas y el control de la gestión pública, así como contribuye a generar confianza en correcto funcionamiento del sector público.
+
+La importancia de este principio llevó al legislador a establecer en el artículo 6 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, la obligación de las Administraciones Públicas de suministrar toda la información necesaria para el cumplimiento de las disposiciones de la citada Ley así como de las normas y acuerdos que se adopten en su desarrollo.
+
+Asimismo, las Administraciones Públicas se comprometen a garantizar no sólo la coherencia de las normas y procedimientos contables, sino también la integridad de los sistemas de recopilación y tratamiento de datos, asegurando de este modo que se mantiene la exactitud de la información suministrada y se permite la verificación de su situación financiera.
+
+Con esta Orden Ministerial se da un paso más en la aplicación del mencionado principio de transparencia por entender que éste es un instrumento indispensable que permitirá llevar a cabo un seguimiento más efectivo del cumplimiento de los objetivos de estabilidad presupuestaria, y del resto de obligaciones fiscales europeas, del conjunto de las Administraciones, con las que España está plenamente comprometida.
+
+Un desarrollo correcto de este principio favorece, no sólo una mejor coordinación y una adecuada remisión de información entre las diferentes Administraciones, sino que también, refuerza el compromiso de España de cumplir con las obligaciones europeas en materia de estabilidad presupuestaria, que son una prioridad absoluta, y con el resto de instituciones internacionales que han ido incrementando sus exigencias de transparencia a todas las Administraciones Públicas.
+
+Se trata de aumentar la transparencia concretando las obligaciones legales de información de las Administraciones territoriales y mejorar la calidad de la información al coordinarla, hacerla comparable y más fiable.
+
+A esta apuesta por mejorar la cantidad y calidad de información disponible hay que añadir la potenciación de la publicidad activa de una información más completa, centralizada, homogénea y de fácil acceso que contribuye a la rendición de cuentas y a un mejor control de la gestión pública.
+
+El interés por fortalecer el principio de transparencia no responde sólo a dar cumplimiento a una obligación prevista en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, sino también a mejorar la credibilidad y confianza en la economía española que cuenta con unas Administraciones Públicas transparentes y fiables.
+
+En efecto, contar con más información, de mejor calidad y accesible mitiga los problemas de información asimétrica y disipa incertidumbres sobre el funcionamiento de las Administraciones Públicas españolas, pues permite un seguimiento más riguroso de su situación económica y financiera.
+
+Todo ello, contribuirá a la generación de confianza en las Administraciones y facilitará la rendición de cuentas y exigencia de responsabilidades cuando corresponda.
+
+Por otra parte, la Ley Orgánica 2/2012 no sólo recoge el principio de transparencia como principio general en su artículo 6 sino que además lo concreta su instrumentación en su artículo 27 en el que autoriza al Ministerio de Hacienda y Administraciones Públicas a recabar de las Comunidades Autónomas y las Corporaciones Locales la información necesaria para garantizar el cumplimiento de las previsiones establecidas en la Ley, así como para atender cualquier otro requerimiento de información que exija la normativa europea. Todo ello, amparado en el principio de lealtad institucional que debe presidir las relaciones entre Administraciones, y que respalda las peticiones de información que, para el ejercicio de sus propias competencias, formule el Ministerio de Hacienda y Administraciones Públicas al resto de Administraciones.
+
+A tal efecto, esta Orden viene a establecer las especificaciones del contenido de la información que debe ser remitida, así como la frecuencia y la forma de suministro para cumplir así con eficacia con la instrumentación del principio de transparencia.
+
+En concreto, los dos primeros capítulos de esta Orden regulan con carácter general las obligaciones de remisión de información que las Administraciones territoriales tienen con la Administración General del Estado. Para ello, se detalla quienes son los sujetos obligados, el procedimiento, preferentemente electrónico, por el que debe remitirse la información y se regulan las obligaciones de información, tanto periódicas como no periódicas que resultan comunes a las Comunidades Autónomas y Corporaciones Locales.
+
+En este sentido, se ha desarrollado lo previsto en la disposición adicional tercera del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, estableciendo como obligación periódica de información, tanto para las Comunidades Autónomas como para las Corporaciones Locales, la remisión de información en materia de personal.
+
+Entre las obligaciones no periódicas de información, destacan las referidas a al seguimiento de los planes de ajuste en desarrollo de lo previsto en la disposición adicional primera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. En particular, se desarrolla el contenido mínimo de los informes de seguimiento de los planes de ajuste que las Corporaciones Locales deben remitir al Ministerio de Hacienda y Administraciones Públicas de conformidad con lo dispuesto en el artículo 10 del Real Decreto-ley 7/2012, de 9 de marzo, por el que se crea el Fondo para la financiación de los pagos a proveedores. Este seguimiento resulta prioritario para cumplir con los objetivos de consolidación fiscal.
+
+El capítulo III establece cuáles son las obligaciones de suministro de información de las Comunidades Autónomas. Para ello, se refiere a las que tienen un carácter periódico, especificando la información que debe remitirse con una frecuencia anual o mensual, según corresponda.
+
+El capítulo IV se refiere a las obligaciones de suministro de información de las Corporaciones Locales. En este sentido, también distingue entre las obligaciones periódicas de información que tienen una frecuencia anual y trimestral, según los casos, y las obligaciones no periódicas de suministro de información referida a operaciones de endeudamiento.
+
+El capítulo V, en desarrollo de lo dispuesto en el apartado 2 de la disposición final segunda de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, establece las obligaciones de publicación para conocimiento general por parte del Ministerio de Hacienda y Administraciones Públicas en relación a la información de las Administraciones territoriales, así como los plazos para su publicación. Asimismo, se recoge en este capítulo las consecuencias que la Ley Orgánica 2/2012 prevé en caso de incumplimiento de las obligaciones de remisión de información.
+
+Por otra parte, se recoge en la disposición adicional única una referencia a la aplicación de la Orden a las Comunidades Autónomas de Navarra y País Vasco.
+
+La disposición transitoria única regula las normas aplicables mientras no se desarrollen los sistemas electrónicos de comunicación necesarios, y las disposiciones finales establecen la habilitación para dictar las resoluciones y adoptar las medidas necesarias para el desarrollo y ejecución de la presente Orden, así como su inmediata entrada en vigor salvo alguna excepción. En este sentido, cabe destacar que esta Orden se dicta en desarrollo de la ya mencionada Ley Orgánica 2/2012, de 27 de abril, que se dictó en desarrollo del artículo 135 de la Constitución.
+
+Esta Orden se dicta en desarrollo de las habilitaciones otorgadas al Ministro de Hacienda y Administraciones Públicas en el artículo 27.4 y en la disposición final segunda de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, así como en la disposición final segunda del Real Decreto-ley 7/2012, de 9 de marzo, por el que se crea el Fondo para la financiación de los pagos a proveedores y en la disposición adicional tercera del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+En su virtud, previo informe del Consejo de Política Fiscal y Financiera de las Comunidades Autónomas y de la Comisión Nacional de la Administración Local y de acuerdo con el Consejo de Estado, dispongo:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+La presente Orden tiene por objeto determinar el procedimiento, contenido y frecuencia de remisión de la información económico-financiera a suministrar por los sujetos integrados en el ámbito de aplicación de esta Orden, así como definir la información objeto de publicación periódica para conocimiento general, los plazos para su publicación, y el modo en que debe publicarse.
+
+Todo ello en desarrollo y aplicación del principio de transparencia recogido en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y de conformidad con el resto de disposiciones nacionales y comunitarias relativas a requerimientos de información.
+
+#### Artículo 2. Ámbito subjetivo de aplicación.
+
+Están incluidos en el ámbito subjetivo de aplicación de esta Orden y, por tanto, sujetos a las obligaciones de suministro de información:
+
+1\. Las Comunidades Autónomas y Corporaciones Locales de acuerdo con la definición y delimitación del Sistema Europeo de Cuentas Nacionales y Regionales aprobado por el Reglamento (CE) 2223/96 del Consejo, de 25 de junio de 1996.
+
+2\. El resto de las entidades públicas empresariales, sociedades mercantiles y demás entes dependientes de las Comunidades Autónomas y Corporaciones Locales, no incluidas en el apartado anterior, quedarán sujetos a lo dispuesto en las normas de esta Orden que específicamente se refieran a las mismas.
+
+#### Artículo 3. Ámbito objetivo de aplicación.
+
+1\. Esta orden será de aplicación a las obligaciones de remisión de información, periódicas, no periódicas y a cualquier otra petición de información adicional que se formule por el Ministerio de Hacienda y Administraciones Públicas, en el ejercicio de sus propias competencias al resto de Administraciones, y, en particular, a las que deriven del cumplimiento de las obligaciones de suministro de información y transparencia establecidas en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera y en otras disposiciones nacionales y comunitarias en materia de transparencia, estabilidad presupuestaria y sostenibilidad financiera.
+
+2\. La presente Orden también será de aplicación a la publicación para conocimiento general que se haga de la mencionada información.
+
+## CAPÍTULO II — Disposiciones comunes para Comunidades Autónomas y Corporaciones Locales
+
+### Sección 1.ª Sujetos obligados y procedimiento
+
+#### Artículo 4. Sujetos obligados a la remisión y recepción de información.
+
+1\. La remisión de la información económico-financiera correspondiente a la totalidad de las unidades dependientes de cada Comunidad Autónoma o Corporación Local se centralizará a través de:
+
+a) En el caso de las Comunidades Autónomas, la intervención general o unidad equivalente que tenga competencias en materia de contabilidad.
+
+b) En las Corporaciones Locales, la intervención o unidad que ejerza sus funciones.
+
+2\. Corresponde al Ministerio de Hacienda y Administraciones Públicas la recepción y recopilación de la información prevista en esta Orden.
+
+3\. El Ministerio de Hacienda y Administraciones Públicas facilitará a las Comunidades Autónomas que, de acuerdo con sus respectivos Estatutos de Autonomía, ejerzan la tutela financiera, el acceso a la información que éste recabe, de conformidad con la presente Orden, en relación a las Corporaciones Locales de su territorio.
+
+4\. Las Corporaciones Locales de los territorios históricos del País Vasco y las corporaciones locales de la Comunidad Foral de Navarra podrán remitir la información económico-financiera de acuerdo con lo previsto en el apartado 1, o bien, a través de la intervención o unidad que ejerza sus funciones en las Diputaciones Forales del País Vasco o la Comunidad Foral de Navarra, según corresponda, quienes la remitirán al Ministerio de Hacienda y Administraciones Públicas de conformidad con los medios y procedimientos previstos en el artículo 5.
+
+> Se añade el apartado 4 por el art. único.1 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 5. Medios de remisión de la información.
+
+1\. A las obligaciones de remisión de información se les dará cumplimiento por medios electrónicos a través del sistema que el Ministerio de Hacienda y Administraciones Públicas habilite al efecto, y mediante firma electrónica avanzada basada en un certificado reconocido, de acuerdo con la Ley 59/2003, de 19 de diciembre, de firma electrónica, salvo en aquellos casos en los que el Ministerio de Hacienda y Administraciones Públicas considere que no es necesaria su utilización.
+
+2\. El envío y captura de la información prevista en esta Orden se realizará a través de modelos normalizados o sistemas de carga masiva de datos habilitados al efecto.
+
+La determinación de los formularios normalizados y de los formatos de ficheros de carga masiva de información se realizará de forma conjunta por la Secretaría de Estado de Presupuestos y Gastos y la Secretaría de Estado de Administraciones Públicas, y se informará al Consejo de Política Fiscal y Financiera.
+
+A estos efectos, el Ministerio de Hacienda y Administraciones Públicas habilitará los mecanismos necesarios para la remisión electrónica de los estados numéricos comprensivos de los presupuestos generales y de la Cuenta General o Cuentas Anuales.
+
+### Sección 2.ª Obligaciones periódicas
+
+#### Artículo 6. Información sobre los planes presupuestarios a medio plazo.
+
+1\. Antes del quince de marzo de cada año, de acuerdo con la información disponible sobre el objetivo de estabilidad presupuestaria y de deuda pública, se remitirán los planes presupuestarios a medio plazo en los que se enmarcará la elaboración de sus Presupuestos anuales.
+
+2\. Dichos planes presupuestarios a medio plazo deben incluir información, indicando su magnitud, sobre los pasivos contingentes, como son las garantías públicas y préstamos morosos, y, en la medida de lo posible, los pasivos contingentes relacionados con las catástrofes y el clima, que puedan incidir de manera significativa en los presupuestos públicos, así como la información necesaria para la elaboración de las previsiones presupuestarias a efectos de la planificación fiscal anual y plurianual a remitir a las instituciones europeas y la relativa a las políticas y medidas previstas para el periodo considerado que, a partir de la evolución tendencial, permitan la consecución de los objetivos presupuestarios.
+
+3\. Asimismo, los planes presupuestarios contendrán una evaluación de la manera en que las políticas y medidas previstas a medio plazo, incluidas las reformas e inversiones, puedan afectar a la sostenibilidad a medio y largo plazo de las finanzas públicas y a un crecimiento sostenible e integrador, desglosadas por partidas significativas de ingresos y gastos. En la medida de lo posible, la referida evaluación tendrá en cuenta los riesgos macrofiscales derivados de cambio climático y sus efectos medioambientales y distributivos. Adicionalmente, contendrán información acerca de los organismos y fondos que no formen parte de los presupuestos ordinarios, pero que formen parte del ámbito subjetivo del artículo 2.1, y de los importes correspondientes a la incidencia combinada de dichos organismos y fondos en la capacidad y necesidad de financiación calculada conforme a normas del sistema europeo de cuentas, y la deuda conforme a las normas del Protocolo de Déficit Excesivo.
+
+> Se modifica por el art. único.1 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)
+
+> Se modifica por el art. único.2 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 7. Información sobre personal.
+
+1\. Las Comunidades Autónomas y las Entidades Locales remitirán, una vez aprobados sus correspondientes presupuestos y estados financieros, información detallada sobre los gastos de personal, contenidos en los mismos con el desglose y alcance que se determina en el apartado 2 de este artículo.
+
+Asimismo, remitirán información sobre la ejecución de los gastos de personal durante el mencionado ejercicio, así como la ejecución definitiva de dicho presupuesto o estados financieros.
+
+2\. La estructura y contenido de la información se referirá a los siguientes apartados, ámbitos y partidas en el correspondiente ejercicio presupuestario:
+
+a) Órganos estatutarios, como pueden ser las asambleas legislativas, tribunales de cuentas o cualquier otro órgano de esta naturaleza y entes integrantes del Inventario de Entes del sector publico autonómico y local. Se recogerán por separado los datos referidos a los sectores sanitario, educativo universitario, educativo no universitario, de la Administración de justicia y policía autonómica y local.
+
+b) Retribuciones básicas, complementarias, acción social, aportaciones a planes de pensiones, cotizaciones al sistema de seguridad social a cargo del empleador e indemnizaciones.
+
+c) Efectivos por clases de personal, incluyendo altos cargos.
+
+d) Dotaciones o plantillas presupuestarias de personal, con el desglose orgánico expresado en el apartado a).
+
+3\. La información mencionada en el apartado 2 se referirá tanto al presupuesto inicial como al presupuesto ejecutado y se remitirá en los plazos previstos en los artículos 13 y siguientes.
+
+4\. Igualmente se remitirá información de los efectivos de personal, así como sobre sus retribuciones de acuerdo con el siguiente desglose y referido al mismo ámbito de entidades indicado en la letra a) del apartado 2, en los términos que se establezcan en las correspondientes instrucciones, de acuerdo con las siguientes reglas:
+
+a) Número de efectivos y clases de personal diferenciando: altos cargos o asimilados, funcionarios de carrera e interinos, personal estatutario fijo y temporal, personal eventual de confianza, personal laboral fijo y temporal incluyendo, en ambos casos, tanto el acogido a Convenio Colectivo, como al excluido del mismo, máximos responsables, personal directivo y otro tipo de personal que se determine en el modelo normalizado e instrucciones aprobadas al efecto.
+
+b) Todas las retribuciones, de manera individualizada, de los puestos de trabajo ocupados por el personal mencionados en el apartado a), diferenciando las retribuciones básicas y las complementarias asignadas al puesto de trabajo así como aportaciones a planes de pensiones o seguros colectivos y cualquier retribución de carácter extra salarial.
+
+Respecto a las retribuciones de carácter variable se remitirá para todos los colectivos citados, los módulos y el gasto anual de cada concepto incluyendo, en el caso de incentivos al rendimiento, los criterios existentes para su distribución y fijación de las cuantías individuales.
+
+c) Por tipo de personal citado en la letra a) el número de efectivos por modalidades de jornada.
+
+d) La siguiente información referida a los cargos electos de las entidades locales:
+
+1.º El número de cargos electos diferenciando: alcaldes, concejales, o asimilado, presidentes, diputados y consejeros de las diputaciones forales, diputaciones provinciales y cabildos y consejos insulares. o cargo asimilado.
+
+2.º Todas las retribuciones, cantidades percibidas por asistencia a los órganos colegiados o cualesquiera otra que hubiesen sido asignadas al cargo y no correspondan a la compensación de un gasto previo efectivamente realizado, de manera individualizada, percibidas por los cargos electos recogidos en el apartado 1.º anterior.
+
+La información mencionada en este apartado se referirá a 31 de diciembre y se remitirá anualmente antes del 30 de abril siguiente.
+
+5\. Si la Comunidad Autónoma o la Entidad local lo autoriza, el Ministerio de Hacienda y Administraciones Públicas podrá acceder a la información que conste en sus respectivos Registros de personal.
+
+> Se modifica el apartado 4 por el art. único.3 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+### Sección 3.ª Obligaciones no periódicas
+
+#### Artículo 8. Medidas para evitar el riesgo de incumplimiento.
+
+En el plazo de un mes desde la formulación de la advertencia por parte del Gobierno, de acuerdo con lo previsto en el artículo 19 de la Ley Orgánica 2/2012 de 27 de abril, la Comunidad Autónoma o la Corporación Local advertida comunicará al Ministerio de Hacienda y Administraciones Públicas las medidas concretas que se hayan adoptado o se vayan a adoptar, identificando su naturaleza, el plazo de entrada en vigor y el resultado esperado de su eficacia, para evitar el riesgo de incumplimiento del objetivo de estabilidad presupuestaria, del objetivo de deuda pública o de la regla de gasto, según proceda.
+
+#### Artículo 9. Plan económico-financiero y plan de reequilibrio.
+
+1\. Cuando se den las circunstancias previstas en la Ley Orgánica 2/2012, de 27 de abril, la Comunidad Autónoma presentará al Consejo de Política Fiscal y Financiera un plan económico-financiero o un plan de reequilibrio, según corresponda, de acuerdo con los principios, criterios y formato derivados de lo previsto en los artículos 21 y 22 de la mencionada Ley Orgánica.
+
+2\. Cuando se den las circunstancias previstas en la Ley Orgánica 2/2012 de 27 de abril, la Corporación Local aprobará un plan económico-financiero que, además de lo previsto en el artículo 21.2 de la mencionada Ley Orgánica, contendrá, al menos, la siguiente información:
+
+a) Las medidas correctoras aprobadas, cuantificadas y fundamentadas, señalando la fecha de su implementación. Estas medidas deberán ser coherentes con la variación interanual de sus previsiones presupuestarias respectivas.
+
+b) La estimación y justificación de los ajustes de contabilidad nacional y la coherencia con el límite de gasto no financiero, calculado en la forma que establece la regla del gasto.
+
+c) La evolución de la deuda, el cumplimiento del límite de deuda, las magnitudes de ahorro bruto y neto, la estimación de los saldos de tesorería, el exceso de financiación afectada y el remanente de tesorería para gastos generales.
+
+La Corporación Local, en el plazo de cinco días naturales desde la aprobación del plan económico-financiero por la propia Corporación Local o por el órgano que ejerza la tutela financiera, según proceda, lo remitirá al Ministerio de Hacienda y Administraciones Públicas para su aprobación y/o publicación en su portal web, según corresponda.
+
+La obligación de remisión de esta información a la Comisión Nacional de Administración Local se entenderá cumplida con el envío, dentro de los dos primeros meses de cada año, de la indicación de que los planes han sido publicados a través de la central de información económico-financiera de las Administraciones Públicas del Ministerio de Hacienda y Administraciones Públicas, el envío de un resumen de los planes recibidos en el ejercicio inmediato anterior en el Ministerio, así como un resumen de los planes de los que se haya obtenido información, distinguiendo: los aprobados por el mencionado Ministerio o por el órgano competente de la Comunidad Autónoma que ejerza la tutela financiera de las Entidades Locales, los planes desestimados y los que no necesitan aprobación de alguno de estos órganos.
+
+En los dos meses siguientes a la finalización de cada semestre del año, las Comunidades Autónomas que ejerzan la tutela financiera de sus Corporaciones Locales remitirán al Ministerio de Hacienda y Administraciones Públicas el resultado del seguimiento efectuado de los planes económicos-financieros.
+
+Las Comunidades Autónomas que ejercen competencias en materia de tutela financiera, con independencia de la publicación trimestral que realicen a través de sus respectivos portales web, remitirán al Ministerio de Hacienda y Administraciones Públicas, antes del día quince del primer mes siguiente a cada trimestre del año natural, una memoria comprensiva de la documentación, informes, actos, resoluciones y solicitudes presentados por las Corporaciones Locales en cumplimiento de aquellas competencias de tutela financiera, así como de las resoluciones adoptadas al respecto por la Comunidad Autónoma.
+
+3\. Las Comunidades Autónomas, antes del día quince de cada mes, y las Corporaciones Locales incluidas en el ámbito subjetivo de los artículos 111 y 135 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, sobre las que el Estado ejerza la tutela financiera, antes del día quince del primer mes de cada trimestre, remitirán al Ministerio competente en materia de hacienda la información necesaria para el seguimiento de las medidas previstas en los planes económicos-financieros y en los planes de reequilibrio, según corresponda. Las restantes Corporaciones Locales sobre las que el Estado ejerza la tutela financiera remitirán, con periodicidad anual, la información necesaria para dicho seguimiento, antes del día treinta y uno de enero del año siguiente al que corresponda.
+
+Para el caso de las Entidades Locales entre esta información estará: la ejecución de las medidas de ingresos y gastos previstas en el Plan y, en su caso, de las medidas adicionales adoptadas y el cumplimiento de las previsiones contenidas en el Plan para ese año y explicación de las desviaciones si las hubiera.
+
+Para el caso de las Comunidades Autónomas, entre esta información estará, al menos: la actualización para el ejercicio en curso del “Escenario de la evolución financiera de la Comunidad Autónoma” contenido en los planes, la liquidación del trimestre cerrado y la previsión de la liquidación de los trimestres pendientes del año, explicaciones que justifiquen los importes, una descripción para cada una de las medidas de ingresos y gastos incluidas en el plan, su impacto en el capítulo o capítulos presupuestarios afectados por la aplicación de la medida y la relación existente entre los ahorros o aumento de los ingresos conseguidos por las medidas y, en su caso, las posibles desviaciones entre las previsiones presupuestarias del plan y la ejecución realizada, tanto inter trimestralmente como en la proyección anual del trimestre o trimestres liquidados, indicando en este último supuesto medidas adicionales para compensar estas diferencias. Asimismo, remitirán información antes del día quince de cada mes sobre el calendario actualizado de medidas aprobadas y ya ejecutadas del plan, con especial referencia a las medidas aprobadas en el mes anterior.
+
+> Se modifica el apartado 3 por el art. único.2 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)
+
+> Se modifica el apartado 2 por el art. único.4 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 10. Plan de ajuste.
+
+1\. La Administración que cuente con un plan de ajuste acordado con el Ministerio de Hacienda y Administraciones Públicas, durante su vigencia, deberá remitir al mencionado Ministerio antes del día quince de cada mes, en el caso de la Comunidad Autónoma, y antes del día 30 del primer mes siguiente a la finalización de cada trimestre en el caso de la Corporación Local, información sobre, al menos, los siguientes extremos:
+
+a) Avales públicos otorgados y operaciones o líneas de crédito contratadas identificando la entidad, total del crédito disponible y el crédito dispuesto.
+
+b) Deuda comercial contraída clasificada por su antigüedad y su vencimiento. Igualmente, se incluirá información de los contratos suscritos con entidades de crédito para facilitar el pago a proveedores.
+
+c) Operaciones con derivados.
+
+d) Cualquier otro pasivo contingente.
+
+e) Análisis de las desviaciones producidas en el calendario de ejecución o en las medidas del plan de ajuste.
+
+2\. En el caso de que sea una Comunidad Autónoma la que cuente con un Plan de ajuste acordado, además de la información referida en el apartado anterior, deberá también remitir al Ministerio de Hacienda y Administraciones Públicas, antes del día quince de cada mes, información actualizada sobre la ejecución de su Plan de ajuste relativa, al menos, a los siguientes elementos:
+
+a) Informe de la intervención general de la Comunidad Autónoma sobre la ejecución del plan de ajuste.
+
+b) Ejecución presupuestaria mensual de los capítulos de gastos e ingresos.
+
+c) Adecuación a la realidad del plan de ajuste y valoración de las medidas en curso, así como el calendario actualizado de las medidas ya aprobadas y ejecutadas y las medidas pendientes, con especial mención de las medidas aprobadas en el mes anterior.
+
+d) Valoración de los riesgos a corto y medio plazo en relación con el cumplimiento de los objetivos que se pretenden con la aplicación del plan de ajuste. En particular, se analizarán las previsiones de liquidez y las necesidades de endeudamiento.
+
+e) Análisis de las desviaciones que se han producido en la ejecución del plan de ajuste.
+
+f) Recomendaciones, en su caso, de modificación del plan de ajuste con el objetivo de cumplir los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
+
+g) Información actualizada de su plan de tesorería y detalle de las operaciones de deuda viva, incluyendo las emisiones de deuda efectuadas en el mes anterior y la Tasa Interna de Rentabilidad.
+
+3\. Las Corporaciones Locales deberán remitir al Ministerio de Hacienda y Administraciones Públicas antes del día 31 de enero de cada año o antes del día 30 del primer mes siguiente a la finalización de cada trimestre, si se trata de Corporaciones Locales incluidas en el ámbito subjetivo de los artículos 111 y 135 del texto refundido de la Ley Reguladora de las Haciendas Locales, el informe sobre la ejecución del plan de ajuste, con el siguiente contenido mínimo:
+
+a) Resumen trimestral del estado de ejecución del presupuesto. Si se trata de Corporaciones Locales incluidas en el ámbito subjetivo de los artículos 111 y 135 del texto refundido de la Ley Reguladora de las Haciendas Locales también se incluirá información referida a la previsión de liquidación del ejercicio, considerando la ejecución trimestral acumulada.
+
+b) Ejecución de las medidas de ingresos y gastos previstas en el Plan y, en su caso, de las medidas adicionales adoptadas.
+
+c) Comparación de los detalles informativos anteriores con las previsiones contenidas en el Plan para ese año y explicación, en su caso, de las desviaciones.
+
+> Se modifica por el art. único.5 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 11. Obligaciones no periódicas de suministro de información referidas al Inventario de entes del sector publico autonómico y local.
+
+1\. En el plazo máximo de un mes a contar desde la creación, extinción o modificación institucional, estatutaria o financiera de la entidad, la intervención de la Corporación Local o la intervención general o unidad equivalente que tenga competencias en materia de contabilidad en la Comunidad Autónoma, según corresponda, comunicará al Ministerio de Hacienda y Administraciones Publicas el detalle que en cada caso sea necesario para el mantenimiento del Inventario de Entes Dependientes de las Comunidades Autónomas, de la Base de Datos General de Entidades Locales y del Inventario de Entes del Sector Público Local.
+
+2\. A estos efectos, la Base de Datos General de Entidades Locales está constituida por los datos relativos a la Entidad local y todos los organismos, entes, instituciones, consorcios y sociedades mercantiles vinculados, dependientes o en los que la Entidad local participe.
+
+Los sujetos integrantes del Inventario de Entes del Sector Público Local seguirán siendo los previstos en el Real Decreto 1463/2007, de 2 de noviembre, por el que se aprueba el reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales.
+
+3\. Se consideran integrantes del Inventario de Entes Dependientes de las Comunidades Autónomas las siguientes entidades en cada una de las Comunidades Autónomas:
+
+a) La Administración de la Comunidad Autónoma.
+
+b) Los organismos autónomos, entidades públicas empresariales, agencias y demás entes públicos vinculados o dependientes de la Administración autonómica.
+
+c) Las universidades.
+
+d) Las sociedades mercantiles, de acuerdo con lo previsto en el apartado 4.
+
+e) Los consorcios y las instituciones sin ánimo de lucro que estén controlados o financiados al menos al 50% por alguno de los sujetos enumerados en las letras anteriores.
+
+4\. Se considerarán incluidas en el Inventario de Entes dependientes de las Comunidades Autónomas las sociedades mercantiles en las que concurra alguna de las siguientes circunstancias:
+
+a) Que la participación, directa o indirecta, de la Comunidad Autónoma y demás entidades dependientes o vinculadas a la Comunidad Autónoma o participadas por ella en su capital social, sea, al menos, del 50%.
+
+b) Que cualquier órgano, organismo o sociedad mercantil integrantes o dependientes de la Comunidad Autónoma o participados por ella disponga de, al menos, la mitad de los derechos de voto de la sociedad, bien directamente, bien mediante acuerdos con otros socios de esta última.
+
+c) Que cualquier órgano, organismo o sociedad mercantil integrantes o dependientes de la Comunidad Autónoma o participados por ella tenga derecho a nombrar o a destituir al menos, a la mitad de los miembros de los órganos de gobierno de la sociedad, bien directamente, bien mediante acuerdos con otros socios de ésta última.
+
+d) Que el administrador único o al menos la mitad de los miembros del Consejo de Administración de la sociedad hayan sido designados en su calidad de miembros o consejeros por parte de la Comunidad Autónoma, organismo o sociedad mercantil dependientes de la Comunidad Autónoma o participados por ella.
+
+5\. El Inventario de Entes Dependientes de las Comunidades Autónomas incluirá también a las sociedades mercantiles u otros entes en los que participen los sujetos comprendidos en los apartados anteriores junto a otras Administraciones Públicas o entidades privadas, aun cuando la Comunidad Autónoma, individualmente considerada, no ostente una posición de dominio, directa o indirecta, sobre la sociedad o entidad participada, y siempre y cuando dicha entidad deba ser considerada pública debido a que esté controlada o financiada al menos en un 50% por el sector Administraciones Públicas en su conjunto y una única Administración Pública no ostente una mayoría del control o financiación de la entidad.
+
+En todo caso, se incluirán en el correspondiente Inventario de Entes Dependientes de las Comunidades Autónomas las entidades que se encuentren sectorizadas en el subsector Comunidades Autónomas reguladas en el artículo 2.
+
+Cada una de las Comunidades Autónomas que participe en los entes señalados deberá comunicarlo al Ministerio de Hacienda y Administraciones Públicas.
+
+6\. La información remitida deberá incluir, como mínimo:
+
+a) La denominación de la Comunidad Autónoma o la Corporación local, según corresponda, y de las entidades, organismos, entes, instituciones, consorcios y sociedades mercantiles vinculadas o dependientes de ella o en las que participe.
+
+b) Los códigos INE y NIF identificativos.
+
+c) El domicilio y código postal.
+
+d) El teléfono, fax y dirección de correo electrónico.
+
+e) Las fechas de alta, baja o modificación, en su caso.
+
+f) La finalidad institucional, estatutaria o societaria atribuida a cada sujeto.
+
+g) Las competencias y actividades que tengan encomendadas por su respectiva norma o acuerdo de creación.
+
+h) Los recursos que financian sus actividades.
+
+i) El régimen presupuestario y contable.
+
+j) En el supuesto de entidades de carácter asociativo, a todo lo anterior se añadirá su composición y, en su caso, el porcentaje de participación de cada entidad.
+
+En este sentido, deberán especificarse los derechos de voto, nombramiento o destitución que la Comunidad Autónoma o Entidad Local, según corresponda, o cualquiera de sus organismos o sociedades mercantiles integrantes, dependientes o participados, posean de forma directa o a través de otras sociedades participadas o dominadas por ellos.
+
+Para la determinación del porcentaje de participación, en aquellos supuestos en que participen u ostenten derechos de voto, nombramiento o destitución varios sujetos de los enumerados con anterioridad, se sumarán los porcentajes de participación y disposición de derechos de todos ellos.
+
+k) Cualesquiera otros datos de carácter jurídico, económico u organizativo que, pudieran resultar de interés para el análisis económico-financiero de los entes integrantes del Inventario. En particular, la Intervención General de la Administración del Estado podrá recabar de las Comunidades Autónomas y Corporaciones Locales cuanta información sea necesaria para realizar la clasificación de las entidades participadas o dependientes de las Comunidades Autónomas y Corporaciones Locales.
+
+Asimismo, podrá solicitarse información relativa a la participación de la Administración autonómica o Local, o del resto de sujetos enumerados en este artículo, en cualquier tipo de entidad, aun cuando se trate de participaciones minoritarias que no impliquen control público de la entidad.
+
+7\. La información incorporada al Inventario de Entes Dependientes de las Comunidades Autónomas y a la Base de Datos General de Entidades Locales y al Inventario de Entes del Sector Público Local se soportará documentalmente mediante la correspondiente disposición normativa, o en su caso, mediante el documento público o privado inscrito, en su caso, en el registro público correspondiente. Dichos documentos habrán de ser remitidos al Ministerio de Hacienda y Administraciones Públicas salvo que sea posible su obtención completa en el diario o boletín oficial en el que se publique.
+
+#### Artículo 11 bis. Información por incumplimiento del periodo medio de pago a proveedores.
+
+1\. Cuando el período medio de pago a proveedores de una Administración Pública, de acuerdo con los datos publicados, supere el plazo máximo previsto en la normativa sobre morosidad, la Administración deberá incluir, en la actualización de su plan de tesorería inmediatamente posterior a la mencionada publicación, como parte de dicho plan lo siguiente:
+
+a) El importe de los recursos que va a dedicar mensualmente al pago a proveedores para poder reducir su periodo medio de pago hasta el plazo máximo que fija la normativa sobre morosidad.
+
+b) El importe de las medidas a las que se compromete la Administración de reducción de gastos, incremento de ingresos u otras medidas de gestión de cobros y pagos, que le permita generar la tesorería necesaria para la reducción de su periodo medio de pago a proveedores hasta el plazo máximo que fija la normativa sobre morosidad.
+
+2\. Cuando se den las circunstancias previstas en el artículo 13.6 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, determinantes de la superación del plazo máximo de pago, la Comunidad Autónoma, sin perjuicio de la actualización de su plan de tesorería, deberá remitir con periodicidad trimestral información detallada de las medidas cuantificadas, y de su impacto, de tal forma que permitan la reducción de su periodo medio de pago a proveedores hasta el plazo máximo fijado en la normativa de morosidad.
+
+3\. Cuando el periodo medio de pago a los proveedores supere el plazo estipulado en el artículo 18.4 de la Ley Orgánica 2/2012, de 27 de abril durante el periodo previsto en dicho artículo, la Comunidad Autónoma, sin perjuicio de la actualización de su plan de tesorería, deberá remitir con periodicidad mensual información detallada del impacto de las medidas aplicadas que permitan la reducción de su periodo medio de pago a proveedores hasta el plazo máximo fijado en la normativa de morosidad.
+
+4\. En el caso de que se den los supuestos previstos en el artículo 20.5 de la Ley Orgánica 2/2012, de 27 de abril, adicionalmente a lo señalado en el apartado anterior y sin perjuicio de la actualización de su plan de tesorería, la Comunidad Autónoma deberá informar sobre las modificaciones presupuestarias y los acuerdos de no disponibilidad adoptados en los términos indicados en dicho artículo, en el plazo de 15 días desde su adopción.
+
+5\. Cuando se comunique a la Comunidad Autónoma que se ha producido un incumplimiento del plazo máximo de pago a proveedores que determina la aplicación del procedimiento de retención previsto en el artículo 20.6 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, dicha Comunidad habrá de remitir la información que se le solicite para poder cuantificar y determinar la parte de la deuda comercial que se va a pagar con cargo a sus recursos del Sistema de Financiación sujetos a liquidación, conforme a las disposiciones normativas vigentes.
+
+> Se añade por el art. único.6 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 12. Otros requerimientos de información.
+
+En todo caso, para cumplir con las obligaciones de información previstas en esta Orden, en particular las que deriven de requerimientos comunitarios, se podrá solicitar cualquier información adicional que resulte necesaria mediante petición singular o mediante modelo normalizado por el órgano competente del Ministerio de Hacienda y Administraciones Públicas.
+
+## CAPÍTULO III — Obligaciones de suministro de información en el ámbito de las Comunidades Autónomas
+
+#### Artículo 13. Obligaciones anuales de suministro de información.
+
+Con carácter anual se remitirá la siguiente información:
+
+1\. Antes del 31 de marzo, una previsión anual de endeudamiento, que contendrá la deuda viva a principio de ejercicio, conforme a las normas del Protocolo de Déficit Excesivo, las previsiones de operaciones de crédito, emisiones de deuda y amortizaciones del ejercicio desglosadas por entes del sector Administración pública y la situación prevista para cada uno de ellos a final de cada año.
+
+2\. Antes del 1 de agosto el límite de gasto no financiero de la Comunidad Autónoma para el ejercicio siguiente con una memoria descriptiva de los principales elementos considerados para la fijación de dicho límite, así como de su composición.
+
+3\. Antes del 15 de septiembre las líneas fundamentales de los Presupuestos para el ejercicio siguiente, conteniendo toda la información necesaria conforme a la normativa europea y al menos la siguiente información:
+
+a) Definición de las principales políticas que inspiran el presupuesto con indicación de las medidas de ingresos y gastos en las que se basan.
+
+b) Saldos presupuestarios y explicación de su adecuación al objetivo de estabilidad fijado. Toda la información complementaria que permita relacionar el saldo resultante de los ingresos y gastos del presupuesto con la capacidad y necesidad de financiación calculada conforme a normas del sistema europeo de cuentas.
+
+c) Información sobre los ingresos previstos en el proyecto de presupuestos, tanto en lo relativo a los recursos del sistema de financiación sujetos a entregas a cuenta y posterior liquidación como al resto de ingresos en sus principales rúbricas.
+
+d) Información sobre las dotaciones de gastos contenidas en el proyecto de presupuesto y sus evoluciones respecto al ejercicio precedente.
+
+e) Modificaciones significativas en los criterios de presupuestación que permitan una comparativa homogénea con el ejercicio precedente.
+
+f) Información sobre las diferencias existentes en los objetivos y previsiones, así como en las medidas o resto de variables consideradas para la elaboración de las líneas fundamentales de los Presupuestos del ejercicio siguiente, en relación a las utilizadas para la elaboración del marco presupuestario establecido en el artículo 6. En el caso de producirse tales diferencias, debe procederse a la remisión de la información actualizada relativa a dicho marco presupuestario.
+
+4\. En el plazo de quince días desde la presentación de los Proyectos de Presupuestos en las Asambleas de las Comunidades Autónomas, y en todo caso antes del 20 de noviembre, los Proyectos de Presupuestos iniciales o Estados financieros iniciales de los sujetos comprendidos en el ámbito de aplicación de esta Orden. Dichos proyectos deberán contener información detallada sobre los beneficios fiscales y su incidencia en los ingresos. A estos efectos, el Ministerio de Hacienda y Administraciones Públicas podrá habilitar los mecanismos necesarios para la remisión electrónica de la información a la que se refiere este apartado.
+
+5\. Antes de quince días desde la fecha de su remisión al Parlamento o Cámara de Cuentas, y en todo caso antes del 20 de noviembre, las Cuentas Anuales del ejercicio anterior de la Comunidad Autónoma. A estos efectos, el Ministerio de Hacienda y Administraciones Públicas podrá habilitar los mecanismos necesarios para la remisión electrónica de los estados numéricos comprensivos de la Cuenta General y Cuentas Anuales de todas las entidades previstas en el artículo 2. En la misma fecha se remitirán los datos de ejecución presupuestaria previstos en los apartados 1 y 2 del artículo 7.
+
+6\. Antes de quince días desde la publicación de la Ley de Presupuestos, y, en todo caso, antes del 31 de enero, el contenido completo de los Presupuestos Generales del ejercicio correspondiente, que integrará, al menos, los presupuestos y estados financieros iniciales de todos los sujetos y entidades comprendidos en el ámbito de aplicación de esta orden y la información relativa a personal recogida en los apartados 1 y 2 del artículo 7. A estos efectos, el Ministerio competente en materia de hacienda podrá habilitar los mecanismos necesarios para la remisión electrónica de los estados numéricos comprensivos del presupuesto.
+
+Si el 31 de enero no se hubieran aprobado los presupuestos autonómicos, deberá remitirse el Presupuesto General prorrogado con las modificaciones derivadas de las normas reguladoras de la prórroga, así como la respectiva información de personal a la que se hace referencia en los apartados 1 y 2 del artículo 7. En este caso, una vez aprobado el Presupuesto General o Estados financieros iniciales, se remitirán en los quince días siguientes a su publicación.
+
+Esta información se referirá a todos los sujetos comprendidos en el ámbito de aplicación de esta orden.
+
+En todo caso, se incluirá la información que permita relacionar el saldo resultante de los ingresos y gastos del presupuesto con la capacidad o necesidad de financiación, calculada conforme a las normas del Sistema Europeo de Cuentas, así como información acerca de los organismos y fondos que no formen parte de los presupuestos ordinarios, pero que estén incluidos en el ámbito subjetivo del artículo 2.1, y de los importes correspondientes a la incidencia combinada de dichos organismos y fondos en la capacidad y necesidad de financiación calculada conforme a normas del sistema europeo de cuentas, y la deuda conforme a las normas del Protocolo de Déficit Excesivo. Deberá contener también la información relativa a los pasivos contingentes que puedan incidir de manera significativa en los presupuestos públicos, incluidas las garantías públicas, los préstamos morosos indicando su magnitud, y, en la medida de lo posible, información sobre los pasivos contingentes relacionados con las catástrofes y el clima.
+
+7\. Antes del 30 de abril del año siguiente a aquel al que se refiere la información, el cuestionario de información contable normalizado de todas las unidades del artículo 2.1 que contendrá cuanta información sea necesaria para elaborar las cuentas conforme al Sistema Europeo de cuentas y para el seguimiento de la ejecución presupuestaria con el contenido y alcance fijado en el artículo 14. Deberá contener también la información relativa a los pasivos contingentes que puedan incidir de manera significativa en los presupuestos públicos, incluidas las garantías públicas, los préstamos morosos, indicando su magnitud, y, en la medida de lo posible, información sobre los pasivos contingentes relacionados con las catástrofes y el clima. Igualmente, deberá incluir información sobre la participación de las administraciones públicas en el capital de sociedades privadas y públicas en el caso de sumas económicamente importantes según lo establecido por Eurostat. Asimismo, se procederá a la actualización de la información remitida en el apartado 7 y 9 del referido artículo 14.
+
+> Se modifican los apartados 6 y 7 por el art. único.3 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)
+
+> Se modifica por el art. único.7 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 14. Obligaciones mensuales de suministro de información.
+
+Antes del día quince de cada mes la Comunidad Autónoma enviará un modelo de información con el alcance y contenido fijado por el Ministerio de Hacienda y Administraciones Públicas que, al menos, contendrá la siguiente información:
+
+1\. Ejecución del presupuesto en sus distintas fases, con indicación de las modificaciones presupuestarias tramitadas y/o las previstas tramitar en los dos meses siguientes.
+
+2\. Detalle de las obligaciones frente a terceros, vencidas, líquidas, exigibles, no imputadas al presupuesto.
+
+3\. Información que permita relacionar el saldo resultante de los ingresos y los gastos del presupuesto con la capacidad y necesidad de financiación calculada conforme a las normas del Sistema Europeo de Cuentas.
+
+4\. Información relativa al uso dado a las autorizaciones de operaciones de endeudamiento concedidas.
+
+5\. Las actualizaciones de su Plan de tesorería relativas al ejercicio corriente y detalle de operaciones de deuda viva que contendrá al menos información relativa a:
+
+a) Calendario y presupuesto de Tesorería que contenga sus cobros y pagos mensuales por rúbricas, distinguiendo los pagos incluidos en el cálculo del periodo medio de pago a proveedores. Asimismo se incluirá la previsión de su mínimo mensual de tesorería.
+
+b) Previsión mensual de ingresos.
+
+c) Saldo de deuda viva.
+
+d) Impacto de las medidas de ahorro y medidas de ingresos previstas y calendario previsto de impacto en presupuesto.
+
+e) Vencimientos mensuales de deuda a corto y largo plazo.
+
+f) Calendario y cuantías de necesidades de endeudamiento.
+
+g) Evolución del saldo de las obligaciones reconocidas pendientes de pago tanto del ejercicio corriente como de los años anteriores, distinguiendo el importe de las obligaciones pendiente de pago incluidas en el cálculo del periodo medio de pago a proveedores.
+
+h) Período medio de pago global a proveedores, calculado según el Real Decreto 635/2014, de 25 de julio, por el que se desarrolla la metodología de cálculo del periodo medio de pago a proveedores de las Administraciones Públicas y las condiciones y el procedimiento de retención de recursos de los regímenes de financiación, previstos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+i) Perfil de vencimientos de la deuda de los próximos diez años.
+
+j) Información, incluida la Tasa Interna de Rentabilidad, de las emisiones de deuda y resto de operaciones financieras realizadas en el mes anterior.
+
+k) Información sobre los pasivos contingentes, como son las garantías públicas otorgadas y préstamos morosos, que puedan incidir de manera significativa en los presupuestos.
+
+A partir de la finalización del mes de noviembre de cada ejercicio, la Comunidad Autónoma incluirá las actualizaciones de su Plan de Tesorería previstas para el ejercicio siguiente.
+
+6\. Los datos de ejecución previstos en los apartados 1 y 2 del artículo 7 relativos a las unidades integrantes del sector Administraciones Públicas de la contabilidad nacional así como el número de efectivos referidos al último día del mes anterior.
+
+Cuando la información prevista en este artículo se refiera al mes de diciembre el plazo para su envío será hasta el 31 de enero siguiente.
+
+7\. De acuerdo con lo previsto en el Real Decreto 635/2014, de 25 de julio, por el que se desarrolla la metodología de cálculo del periodo medio de pago a proveedores de las Administraciones Públicas y las condiciones y el procedimiento de retención de recursos de los regímenes de financiación, previstos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, la siguiente información relativa a su período medio de pago a proveedores referido al mes anterior:
+
+a) El período medio de pago global a proveedores mensual y su serie histórica.
+
+b) El período medio de pago mensual de cada entidad y su serie histórica.
+
+c) La ratio mensual de operaciones pagadas de cada entidad y su serie histórica.
+
+d) La ratio de operaciones pendientes de pago mensual de cada entidad y su serie histórica.
+
+8\. Información en materia de morosidad en el pago referida a las entidades integradas en el sector Administraciones Públicas. Entre esta información se incluirá, al menos, de acuerdo con la metodología de cálculo establecida para el periodo medio de pago a proveedores de las Administraciones Públicas, lo siguiente:
+
+a) Detalle del periodo medio de pago global a proveedores.
+
+b) Detalle del periodo medio de pago mensual y acumulado a proveedores, así como de las operaciones pagadas y pendientes de pago de cada entidad y del conjunto de la comunidad.
+
+c) Datos relativos a deuda no financiera, comercial y pagos mensuales, costes financieros derivados del tipo de interés legal de demora aplicable, las indemnizaciones por costes de cobro, así como otra información relevante en materia de morosidad comercial de las Administraciones Públicas.
+
+La información que sea objeto de actualización posterior en la serie histórica publicada por la Comunidad Autónoma requerirá del envío de los cuestionarios mensuales correspondientes a los datos modificados.
+
+9\. Información sobre el gasto farmacéutico y sanitario al que aluden los artículos ciento seis a ciento diez de la Ley 14/1986, de 25 de abril, General de Sanidad, referida al mes anterior que detalle: su gasto farmacéutico hospitalario, su gasto en productos farmacéuticos y sanitarios por receta médica u orden de dispensación y su gasto en productos sanitarios sin receta médica u orden de dispensación, así como datos relativos al gasto en inversiones reales en el ámbito sanitario, especialmente en relación con equipos de alta tecnología sanitaria de uso hospitalario, y otros datos significativos de gasto sanitario. Los datos relativos al mes de diciembre de cada ejercicio se remitirán antes del 31 de enero del ejercicio siguiente, siendo dicha información la base del cómputo del cumplimiento del límite establecido en el artículo ciento catorce de la Ley 14/1986, de 25 de abril.
+
+10\. Información sobre los costes fiscales en que se ha incurrido como consecuencia de catástrofes y perturbaciones relacionadas con el clima.
+
+> Se añaden los apartados 9 y 10 por el art. único.4 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)
+
+> Se modifica por el art. único.8 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+## CAPÍTULO IV — Obligaciones de suministro de información en el ámbito de las Corporaciones Locales
+
+#### Artículo 15. Obligaciones anuales de suministro de información.
+
+Con carácter anual se remitirá la siguiente información:
+
+1\. Antes del 15 de septiembre de cada año:
+
+Las líneas fundamentales de los Presupuestos para el ejercicio siguiente conteniendo toda la información necesaria conforme a la normativa europea y al menos la siguiente información:
+
+a) Definición de las principales políticas que inspiran el presupuesto con indicación de las medidas de ingresos y gastos en las que se basan.
+
+b) Saldos presupuestarios y explicación de su adecuación al objetivo de estabilidad fijado. Toda la información complementaria que permita relacionar el saldo resultante de los ingresos y gastos del presupuesto con la capacidad y necesidad de financiación calculada conforme a normas del sistema europeo de cuentas.
+
+c) Información sobre los ingresos previstos en el proyecto de presupuestos, tanto en lo relativo a los recursos del sistema de financiación sujetos a entregas a cuenta y posterior liquidación como al resto de ingresos en sus principales rúbricas.
+
+d) Información sobre las dotaciones de gastos contenidas en el proyecto de presupuesto y sus evoluciones respecto al ejercicio precedente.
+
+e) Modificaciones significativas en los criterios de presupuestación que permitan una comparativa homogénea con el ejercicio precedente.
+
+f) Información sobre las diferencias existentes en los objetivos y previsiones, así como en las medidas o resto de variables consideradas para la elaboración de las líneas fundamentales de los Presupuestos del ejercicio siguiente, en relación a las utilizadas para la elaboración del plan presupuestario a medio plazo establecido en el artículo 6. En el caso de producirse tales diferencias, debe procederse a la remisión de la información actualizada relativa a dicho plan presupuestario.
+
+g) El estado de previsión de movimiento y situación de la deuda.
+
+h) El informe de la intervención de evaluación del cumplimiento del objetivo de estabilidad y del límite de deuda.
+
+2\. Antes del 1 de noviembre de cada año, la información relativa al coste efectivo de los servicios que prestan, partiendo de los datos contenidos en la liquidación del presupuesto general y, en su caso, de las cuentas anuales aprobadas de las entidades vinculadas o dependientes, correspondientes al ejercicio inmediato anterior, de acuerdo lo previsto en la Orden por la que se establecen los criterios de cálculo del coste efectivo de los servicios prestados por las entidades locales.
+
+3\. Antes del 31 de enero de cada año:
+
+a) Los presupuestos aprobados y los estados financieros iniciales de todos los sujetos y entidades comprendidos en el ámbito de aplicación de esta orden, de las inversiones previstas realizar en ejercicio y en los tres siguientes, con su correspondiente propuesta de financiación y los estados de previsión de movimiento y situación de la deuda.
+
+Si a 31 de enero no se hubiera aprobado el Presupuesto, deberá remitirse el prorrogado con las modificaciones derivadas de las normas reguladoras de la prórroga, hasta la entrada en vigor del nuevo Presupuesto.
+
+b) La información que permita relacionar el saldo resultante de los ingresos y gastos del presupuesto con la capacidad o necesidad de financiación, calculada conforme a las normas del Sistema Europeo de Cuentas.
+
+c) El informe de la intervención de evaluación del cumplimiento del objetivo de estabilidad y del límite de la deuda.
+
+d) La información relativa a personal recogida en los apartados 1 y 2 del artículo 7.
+
+e) Información sobre los pasivos contingentes, como son las garantías públicas, los préstamos de dudoso cobro y los pasivos resultantes de la actividad de las entidades públicas, que puedan incidir de manera significativa en los presupuestos públicos, indicando su magnitud, y, en la medida de lo posible, información sobre los pasivos contingentes relacionados con las catástrofes y el clima; así como información de los organismos y fondos que no formen parte de los presupuestos ordinarios, pero que formen parte del ámbito subjetivo del artículo 2.1, y de los importes correspondientes a la incidencia combinada de dichos organismos y fondos en la capacidad y necesidad de financiación calculada conforme a normas del sistema europeo de cuentas, y la deuda conforme a las normas del Protocolo de Déficit Excesivo.
+
+f) Las Corporaciones Locales incluidas en el ámbito subjetivo de los artículos 111 y 135 del Real Decreto Legislativo 2/2004, de 5 de marzo, deberán remitir información detallada de los beneficios fiscales y su incidencia en los ingresos de cada entidad local.
+
+El resto de Corporaciones Locales remitirán esa información de acuerdo con lo previsto en sus respectivos presupuestos, en los términos establecidos por la citada Ley Reguladora de las Haciendas Locales.
+
+4\. Antes del 31 de marzo del año siguiente al ejercicio en que vayan referidas las liquidaciones:
+
+a) Los presupuestos liquidados y las cuentas anuales formuladas por los sujetos y entidades sometidos al Plan General de Contabilidad de Empresas o a sus adaptaciones sectoriales, con sus anexos y estados complementarios.
+
+b) Las obligaciones frente a terceros, vencidas, líquidas, exigibles no imputadas a presupuesto.
+
+c) La situación a 31 de diciembre del ejercicio anterior de la deuda viva, incluidos los cuadros de amortización.
+
+d) La información que permita relacionar el saldo resultante de los ingresos y gastos del Presupuesto con la capacidad o necesidad de financiación, calculada conforme a las normas del Sistema Europeo de Cuentas. Deberá contener también la información relativa a los pasivos contingentes que puedan incidir de manera significativa en los presupuestos públicos, incluidas las garantías públicas, los préstamos morosos indicando su magnitud, y, en la medida de lo posible, información sobre los pasivos contingentes relacionados con las catástrofes y el clima. Se deberá incluir información sobre los costes fiscales en que se ha incurrido como consecuencia de catástrofes y perturbaciones relacionadas con el clima. Igualmente, deberá recoger información sobre la participación de las administraciones públicas en el capital de sociedades privadas y públicas en el caso de sumas económicamente importantes según lo establecido por Eurostat.
+
+e) El informe de la intervención de evaluación del cumplimiento del objetivo de estabilidad, de la regla de gasto y del límite de la deuda.
+
+f) Información relativa a las inversiones financieramente sostenibles ejecutadas en aplicación de lo previsto en la disposición adicional decimosexta del Real Decreto Legislativo 2/2004, de 5 de marzo.
+
+5\. Con anterioridad a 31 de octubre del año siguiente al ejercicio al que vayan referidas las liquidaciones, se remitirá:
+
+a) Las cuentas anuales aprobadas por la junta general de accionistas u órgano competente, acompañadas, en su caso, del informe de auditoría, de todos los sujetos y entidades comprendidos en el ámbito de aplicación de esta Orden.
+
+b) La copia de la cuenta general así como los documentos adicionales precisos para obtener la siguiente información: liquidación del presupuesto completa, detalle de operaciones no presupuestarias, estado de la deuda, incluida la deuda aplazada en convenio con otras Administraciones Públicas y avales otorgados.
+
+c) La información relativa a personal recogida en los apartados 1 y 2 del artículo 7.
+
+> Se modifican los apartados 3 y 4 por el art. único.5 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)
+
+> Se modifica por el art. único.9 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 16. Obligaciones trimestrales de suministro de información.
+
+Antes del último día del mes siguiente a la finalización de cada trimestre del año se remitirá la siguiente información:
+
+1\. La actualización de los presupuestos en ejecución, incorporadas las modificaciones presupuestarias ya tramitadas y/o las previstas tramitar hasta final de año, y de las previsiones de ingresos y gastos de las entidades sujetas al Plan general de Contabilidad de Empresas o a sus adaptaciones sectoriales, y sus estados complementarios.
+
+2\. Las obligaciones frente a terceros, vencidas, líquidas, exigibles, no imputadas a presupuesto.
+
+3\. La información que permita relacionar el saldo resultante de los ingresos y gastos del presupuesto con la capacidad o necesidad de financiación, calculada conforme a las normas del Sistema Europeo de Cuentas.
+
+4\. La actualización del informe de la intervención del cumplimiento del objetivo de estabilidad y del límite de la deuda. Asimismo, la intervención realizará una valoración del cumplimiento de la regla de gasto al cierre del ejercicio.
+
+5\. Un resumen del estado de ejecución del presupuesto acumulado a final de cada trimestre, de los ingresos y gastos del presupuesto, y de sus estados complementarios, con indicación de los derechos recaudados del ejercicio corriente y de los ejercicios cerrados y las desviaciones respecto a las previsiones.
+
+Los estados de ejecución, para el mismo período, de los ingresos y gastos, para las entidades sujetas al Plan General de Contabilidad de Empresas o a sus adaptaciones sectoriales.
+
+6\. El informe trimestral, regulado en el artículo 4 de la Ley 15/2010, de 5 de julio, de modificación de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, en la que se incluirá, al menos, de acuerdo con la metodología establecida para el cálculo el periodo medio de pago a proveedores de las Administraciones Públicas, el detalle del periodo medio de pago global a proveedores y del periodo medio de pago mensual y acumulado a proveedores, así como de las operaciones pagadas y pendientes de pago de cada entidad y del conjunto de la Corporación Local.
+
+7\. Las actualizaciones de su Plan de tesorería y detalle de las operaciones de deuda viva que contendrá al menos información relativa a:
+
+a) Calendario y presupuesto de Tesorería que contenga sus cobros y pagos mensuales por rúbricas, distinguiendo los pagos incluidos en el cálculo del período medio de pago a proveedores e incluyendo la previsión de su mínimo mensual de tesorería.
+
+b) Previsión mensual de ingresos.
+
+c) Saldo de deuda viva.
+
+d) Impacto de las medidas de ahorro y medidas de ingresos previstas y calendario previsto de impacto en presupuesto.
+
+e) Vencimientos mensuales de deuda a corto y largo plazo.
+
+f) Calendario y cuantías de necesidades de endeudamiento.
+
+g) Evolución del saldo de las obligaciones reconocidas pendientes de pago tanto del ejercicio corriente como de los años anteriores, distinguiendo el importe de las obligaciones pendientes de pago incluidas en el cálculo del período medio de pago a proveedores.
+
+h) Perfil de vencimientos de la deuda de los próximos diez años.
+
+8\. De acuerdo con lo previsto en el Real Decreto 635/2014, de 25 de julio, por el que se desarrolla la metodología de cálculo del periodo medio de pago a proveedores de las Administraciones Públicas y las condiciones y el procedimiento de retención de recursos de los regímenes de financiación, previstos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, la siguiente información relativa a su período medio de pago a proveedores referido al trimestre anterior:
+
+a) El período medio de pago global a proveedores trimestral y su serie histórica.
+
+b) El período medio de pago trimestral de cada entidad y su serie histórica.
+
+c) La ratio trimestral de operaciones pagadas de cada entidad y su serie histórica.
+
+d) La ratio de operaciones pendientes de pago trimestral de cada entidad y su serie histórica.
+
+9\. Los datos de ejecución previstos en los apartados 1 y 2 del artículo 7 relativos a las unidades integrantes del sector Administraciones Públicas de la contabilidad nacional así como el número de efectivos referidos al último día del trimestre anterior.
+
+10*.*Del cumplimiento de la obligación de suministro de información a la que se refiere este precepto, y en lo que se refiere a los tres primeros trimestres da cada año, quedarían excluidas las Corporaciones Locales de población no superior a 5.000 habitantes, salvo la información mencionada en los apartados 7 y 8 anteriores.
+
+> Se modifica por el art. único.10 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 17. Obligaciones no periódicas de suministro de información referidas a operaciones de préstamo y emisiones de deuda.
+
+En el plazo máximo de un mes desde que se suscriba, cancele o modifique, una operación de préstamo, crédito o emisiones de deuda, en todas sus modalidades, los avales y garantías prestados en cualquier clase de crédito, las operaciones de arrendamiento financiero, así como cualesquiera otras que afecten a la posición financiera futura, concertadas por las Corporaciones Locales o sus entidades dependientes incluidas en el ámbito subjetivo de esta Orden, se comunicará al Ministerio de Hacienda y Administraciones Publicas las condiciones de la operación y su cuadro de amortización.
+
+## CAPÍTULO V — Publicidad de la información y consecuencias de los incumplimientos
+
+#### Artículo 18. Publicidad de la información para conocimiento general.
+
+1\. El Ministerio competente en materia de hacienda publicará periódicamente a través de la central de información económico-financiera de las Administraciones Públicas la siguiente información sobre cada Comunidad Autónoma:
+
+a) Información anual sobre los Proyectos de Presupuestos Generales de las Comunidades Autónomas que será publicada en el mes de diciembre del año anterior al que van referidos.
+
+b) Información anual sobre los Presupuestos Generales de las Comunidades Autónomas, con el siguiente alcance y plazos: en el primer trimestre del año, datos de avance y en el último trimestre del año, datos definitivos.
+
+c) Información anual sobre la liquidación definitiva de los presupuestos de las Comunidades Autónomas referida al penúltimo ejercicio anterior, antes del 31 de mayo.
+
+d) En el mes de abril se publicará información anual del subsector de las Comunidades Autónomas del año anterior en términos de contabilidad nacional, incluyendo el detalle de las principales rúbricas de ingresos y gastos. En el cuarto trimestre del año se actualizará la información anterior y, además, se publicará la clasificación funcional del gasto de las Comunidades Autónomas según la clasificación de las funciones de las administraciones públicas y el detalle de las rúbricas de impuestos percibidos por las Comunidades Autónomas.
+
+e) Los informes sobre el cumplimiento de los objetivos de estabilidad presupuestaria, de deuda pública y de la regla de gasto regulados en el artículo 17 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad, que se refieran a las Comunidades Autónomas, en las fechas mencionadas en el citado artículo de la ley orgánica.
+
+f) Información mensual del subsector de las Comunidades Autónomas en términos de contabilidad nacional, detallando las principales rúbricas de ingresos y gastos, dentro de los 45 días siguientes a la finalización del plazo para la remisión de la información mensual.
+
+g) Información mensual sobre la ejecución de los presupuestos de las Comunidades Autónomas, en el mes siguiente a la finalización del plazo para la remisión de la información mensual.
+
+h) Inventario de Entes dependientes de las Comunidades Autónomas.
+
+i) Informe anual sobre el impacto del sector público autonómico en la actividad económica-financiera, en el mes siguiente a la actualización del Inventario de Entes Dependientes de las Comunidades Autónomas.
+
+j) Información detallada anual sobre los beneficios fiscales y su incidencia en los ingresos.
+
+k) En el mes siguiente a la finalización del plazo para la remisión de los datos mensuales, el dato del periodo medio de pago a proveedores comunicado al Ministerio competente en materia de hacienda por las Comunidades Autónomas, así como el detalle de la información más relevante en materia de morosidad y deuda comercial. Todo ello, sin perjuicio de que la Comunidad Autónoma publique antes del día treinta de cada mes la información relativa al período medio de pago a proveedores referida al mes anterior.
+
+l) Información sobre los pasivos contingentes, como son las garantías públicas, los préstamos de dudoso cobro y los pasivos resultantes de la actividad de las entidades públicas, que puedan incidir de manera significativa en los presupuestos públicos. Se incluirá, en la medida de lo posible, información sobre los pasivos contingentes relacionados con las catástrofes y las perturbaciones climáticas, así como información sobre los costes fiscales en que se ha incurrido como consecuencia de catástrofes y perturbaciones relacionadas con el clima. Igualmente, deberá recoger información sobre la participación de las administraciones públicas en el capital de sociedades privadas y públicas en el caso de sumas económicamente importantes según lo establecido por Eurostat.
+
+m) Indicadores mensuales sobre gasto farmacéutico y sanitario en el mes siguiente a la finalización del plazo para la remisión de los datos mensuales, salvo los datos relativos al cierre del ejercicio, que se publicarán antes del 1 de abril.
+
+2\. El Ministerio competente en materia de hacienda publicará periódicamente a través de la central de información económico-financiera de las Administraciones Públicas la siguiente información sobre Corporaciones Locales:
+
+a) Información anual de Presupuestos Generales de las Corporaciones Locales y/o estados financieros iniciales con el siguiente alcance y plazos: en el segundo y tercer trimestre del año datos de avance y en el cuarto trimestre datos definitivos.
+
+b) Información anual de liquidación de los presupuestos del ejercicio anterior de las Corporaciones Locales y las cuentas anuales para las entidades sometidas al Plan General de Contabilidad de Empresas o a sus adaptaciones sectoriales con el siguiente alcance y plazos: en el segundo y tercer trimestre, los datos de avance de liquidación de presupuesto y cuentas formuladas, y en el cuarto trimestre los datos definitivos de liquidación de presupuesto y cuentas aprobadas.
+
+c) En el mes de abril de cada año se publicará información anual del subsector de las Corporaciones Locales del año anterior en términos de contabilidad nacional, con el detalle de las principales rúbricas de ingresos y gastos. En el cuarto trimestre se actualizará la información anterior y, además, se publicará la clasificación funcional del gasto de las Corporaciones Locales según la clasificación de las funciones de las administraciones públicas y el destalle de las rúbricas de impuestos percibidos por las Corporaciones Locales.
+
+d) Antes del 1 de diciembre de cada año se publicará información relativa al coste efectivo de los servicios públicos, con el contenido establecido en la orden por la que se establecen los criterios de cálculo del coste efectivo de los servicios prestados por las entidades locales.
+
+e) Los informes sobre el cumplimiento de los objetivos de estabilidad presupuestaria, de deuda pública y de la regla de gasto regulados en el artículo 17 de la Ley Orgánica 2/2012, de 27 de abril, que se refieran a las Corporaciones Locales, en las fechas mencionadas en el citado artículo de la ley orgánica.
+
+f) Información trimestral resumida de la ejecución acumulada a final de cada trimestre de los presupuestos de las Corporaciones Locales y de los ingresos y gastos para las entidades sujetas al Plan General de Contabilidad de Empresas o a sus adaptaciones sectoriales, en el segundo mes desde la finalización del plazo para la remisión de la información trimestral.
+
+g) En el primer semestre del año, el Informe sobre Deuda viva a 31 de diciembre del ejercicio anterior, según el Protocolo de Déficit Excesivo de las Entidades, a partir de la información remitida por el Banco de España.
+
+h) En el mes siguiente a la finalización del plazo para la remisión de los datos mensuales, el dato del periodo medio de pago a proveedores comunicado al Ministerio competente en materia de hacienda por las Corporaciones Locales incluidas en el ámbito subjetivo definido en los artículos 111 y 135 del Real Decreto Legislativo 2/2004, de 5 de marzo. Todo ello, sin perjuicio de que la Corporación Local publique antes del día treinta de cada mes la información relativa al período medio de pago a proveedores referida al mes anterior.
+
+La citada periodicidad será trimestral en cuanto al resto de Corporaciones Locales. La mencionada información se publicará dentro de los treinta días siguientes a la finalización del plazo para la remisión de la información mensual o trimestral, según proceda.
+
+i) Información trimestral del subsector de las Corporaciones Locales en términos de contabilidad nacional, detallando las principales rúbricas de ingresos y gastos, dentro del trimestre siguiente al que se refieran.
+
+j) Información de la Base de Datos de Entidades Locales e Inventario de Entes del Sector Público Local.
+
+k) Información sobre los pasivos contingentes, como son las garantías públicas, los préstamos de dudoso cobro y los pasivos resultantes de la actividad de las entidades públicas, que puedan incidir de manera significativa en los presupuestos de las Corporaciones Locales. Se incluirá, en la medida de lo posible, información sobre los pasivos contingentes relacionados con las catástrofes y las perturbaciones climáticas, así como información sobre los costes fiscales en que se ha incurrido como consecuencia de catástrofes y perturbaciones relacionadas con el clima. Igualmente, deberá recoger información sobre la participación de las administraciones públicas en el capital de sociedades privadas y públicas en el caso de sumas económicamente importantes según lo establecido por Eurostat.
+
+l) Información detallada anual sobre los beneficios fiscales y su incidencia en los ingresos de las entidades locales de conformidad con lo previsto en esta orden.
+
+3\. El Ministerio de Hacienda y Administraciones Públicas publicará, a través de la central de información económico-financiera, de las Administraciones Públicas la siguiente información para conocimiento general:
+
+a) Información de los planes de ajuste, el día siguiente al que hayan sido acordados con el Ministerio de Hacienda y Administraciones Públicas.
+
+b) La advertencia formulada por el Gobierno a una Comunidad Autónoma o una Corporación Local en caso de apreciar un incumplimiento del objetivo de estabilidad, del objetivo de deuda pública o de la regla de gasto, el día siguiente al de su formulación.
+
+c) Los Planes económico-financieros o de reequilibrio, según corresponda, el día siguiente al de su presentación en el Consejo de Política Fiscal y Financiera.
+
+d) El plan económico-financiero de la Corporación Local, en el plazo de cinco días naturales desde su recepción o su aprobación por el Ministerio de Hacienda y Administraciones Públicas, según corresponda.
+
+e) Los informes de seguimiento de los planes económico-financieros o de reequilibrio de las Comunidades Autónomas, según corresponda, serán publicados en el plazo máximo de quince días naturales a contar desde la publicación de los datos de ejecución presupuestaria autonómica.
+
+f) Los informes de seguimiento de los planes económico-financieros de las Corporaciones Locales, serán publicados en el plazo máximo de dos meses a contar desde la finalización del semestre al que se refiere.
+
+> Se modifican los apartados 1 y 2 por el art. único.6 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)
+
+> Se modifica por el art. único.11 de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Artículo 19. Incumplimiento de la obligación de remisión de información.
+
+Sin perjuicio de la posible responsabilidad personal que corresponda, el incumplimiento de las obligaciones de remisión de información recogidas en esta Orden, tanto en lo referido a los plazos establecidos, el correcto contenido e idoneidad de los datos requeridos o el modo de envío, dará lugar a un requerimiento de cumplimiento.
+
+El requerimiento de cumplimiento indicará el plazo, no superior a quince días naturales, para atender la obligación incumplida con apercibimiento de que transcurrido el mencionado plazo se procederá a dar publicidad al incumplimiento y a la adopción de las medidas automáticas de corrección previstas en el artículo 20 de la Ley Orgánica 2/2012, de 27 de abril, de conformidad con lo establecido en el artículo 27.6 de la mencionada Ley.
+
+#### Disposición adicional única. Comunidad Foral de Navarra y Comunidad Autónoma del País Vasco.
+
+La presente Orden será de aplicación a la Comunidad Foral de Navarra y a la Comunidad Autónoma del País Vasco de conformidad con lo dispuesto en la disposición final tercera de la Ley Orgánica 2/2012, de 27 de abril y sin perjuicio de que en el seno de la Comisión Mixta del Concierto y la Comisión Coordinadora, respectivamente, se puedan acordar especialidades derivadas del régimen foral.
+
+#### Disposición transitoria única. Obligaciones de suministro de información y medios de remisión.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Orden HAP/2082/2014, de 7 de noviembre. [Ref. BOE-A-2014-11557](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-11557).
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden.
+
+#### Disposición final primera. Habilitación competencial.
+
+Esta Orden se dicta en ejercicio de la habilitación competencial contenida en el artículo 27.4 y en la disposición final segunda de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, así como en la disposición final segunda del Real Decreto-ley 7/2012, de 9 de marzo, por el que se crea el Fondo para la financiación de los pagos a proveedores y en la disposición adicional tercera del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+#### Disposición final segunda. Aplicación y ejecución de la Orden.
+
+Se habilita a los titulares de la Secretaría de Estado de Presupuestos y Gastos y de la Secretaría General de Coordinación Autonómica y Local, en el ámbito de sus respectivas competencias, a adoptar las resoluciones y medidas necesarias para la aplicación y ejecución de lo dispuesto en esta Orden.
+
+#### Disposición final tercera. Modificación del Real Decreto 1463/2007, de 2 de noviembre, por el que se aprueba el reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales.
+
+De acuerdo con lo previsto en la disposición final tercera del Real Decreto 1463/2007, de 2 de noviembre, por el que se aprueba el reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales, se modifican los artículos 27,29, 30 y 31 del reglamento de desarrollo de la Ley 18/2001, de 12 de diciembre, de Estabilidad Presupuestaria, en su aplicación a las Entidades Locales, que quedan sin contenido.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». A partir de ese momento deberá remitirse la información que estará referida al ejercicio 2012 y siguientes.
+
+No obstante, los artículos 14 y 16 sobre obligaciones mensuales y trimestrales de suministro de información de las Comunidades Autónomas y las Corporaciones Locales entrarán en vigor el 1 de enero de 2013.
+
+Madrid, 1 de octubre de 2012.–El Ministro de Hacienda y Administraciones Públicas, Cristóbal Montoro Romero.
+
+> Información relacionada
+
+> Téngase en cuenta el cambio de referencias hechas a determinados órganos administrativos según establece la disposición final 2 de la Orden HAC/1518/2025, de 22 de diciembre. [Ref. BOE-A-2025-26606](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26606)

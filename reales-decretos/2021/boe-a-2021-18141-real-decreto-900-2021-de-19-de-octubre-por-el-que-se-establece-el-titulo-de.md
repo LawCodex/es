@@ -4848,60 +4848,55 @@ Gráfico 1. Distribución de las pruebas
 
 Serán impartidas por quienes posean la especialidad que a continuación se detalla:
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="34%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo inicial</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo inicial</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C101.Bases del comportamiento deportivo.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+<td>MED-C101.Bases del comportamiento deportivo.</td>
+<td>Educación Física.</td>
+<td>
+<p>●    Catedrático de Enseñanza Secundaria.</p>
+<p>●    Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">MED-C102. Primeros auxilios.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Educación Física.</p>
-<p class="cuerpo_tabla_izq">Procesos sanitarios.</p>
+<td rowspan="2">MED-C102. Primeros auxilios.</td>
+<td>
+<p>Educación Física.</p>
+<p>Procesos sanitarios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">Procedimientos sanitarios y asistenciales.</td>
-<td class="cuerpo_tabla_izq">● Profesores Técnicos de Formación Profesional.</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+<td>
+<p>●    Catedrático de Enseñanza Secundaria.</p>
+<p>●    Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-C104.Organización deportiva.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+<td>Procedimientos sanitarios y asistenciales.</td>
+<td>● Profesores Técnicos de Formación Profesional.</td>
+</tr>
+<tr>
+<td>MED-C105: Actividad físico-deportiva para personas con discapacidad.</td>
+<td>Educación Física.</td>
+<td>
+<p>●    Catedrático de Enseñanza Secundaria.</p>
+<p>●    Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>MED-C104.Organización deportiva.</td>
+<td>Educación Física.</td>
+<td>
+<p>●    Catedrático de Enseñanza Secundaria.</p>
+<p>●    Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -4927,49 +4922,44 @@ Serán impartidas por quienes posean la especialidad o condición que a continua
 |  | Profesor especialista. |  |
 | MED-BMBM105 Formación práctica. | Educación Física. | ● Catedrático de Enseñanza Secundaria.<br>● Profesor de Enseñanza Secundaria. |
 
-<table class="tabla_ancha" data-vertical-align="top">
-<colgroup>
-<col width="33%">
-<col width="33%">
-<col width="34%">
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo de enseñanza deportiva</p>
-<p class="cabeza_tabla">Ciclo final</p>
+<th>
+<p>Módulo de enseñanza deportiva</p>
+<p>Ciclo final</p>
 </th>
-<th class="cabeza_tabla">Especialidad</th>
-<th class="cabeza_tabla">Cuerpo</th>
+<th>Especialidad</th>
+<th>Cuerpo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq" rowspan="2">
-<p class="cuerpo_tabla_izq">MED-BMBM201 Formación técnico-táctica individual en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM202 El juego colectivo en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM204 Preparación física del balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM205 Fundamentos básicos del balonmano playa.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM206 Balonmano en silla de ruedas.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM207 Dirección deportiva en la etapa de tecnificación.</p>
+<td rowspan="2">
+<p>MED-BMBM201 Formación técnico-táctica individual en balonmano.</p>
+<p>MED-BMBM202 El juego colectivo en balonmano.</p>
+<p>MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.</p>
+<p>MED-BMBM204 Preparación física del balonmano.</p>
+<p>MED-BMBM205 Fundamentos básicos del balonmano playa.</p>
+<p>MED-BMBM206 Balonmano en silla de ruedas.</p>
+<p>MED-BMBM207 Dirección deportiva en la etapa de tecnificación.</p>
 </td>
-<td class="cuerpo_tabla_izq">Educación Física con el título de Técnico Deportivo Superior en Balonmano o con la homologación al título de Técnico Deportivo Superior en Balonmano.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+<td>Educación Física con el título de Técnico Deportivo Superior en Balonmano o con la homologación al título de Técnico Deportivo Superior en Balonmano.</td>
+<td>
+<p>●    Catedrático de Enseñanza Secundaria.</p>
+<p>●    Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">Profesor especialista.</td>
-<td class="cuerpo_tabla_izq"> </td>
+<td>Profesor especialista.</td>
+<td> </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-BMBM208 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">Educación Física.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Catedrático de Enseñanza Secundaria.</p>
-<p class="cuerpo_tabla_izq">●    Profesor de Enseñanza Secundaria.</p>
+<td>MED-BMBM208 Formación práctica.</td>
+<td>Educación Física.</td>
+<td>
+<p>●    Catedrático de Enseñanza Secundaria.</p>
+<p>●    Profesor de Enseñanza Secundaria.</p>
 </td>
 </tr>
 </tbody>
@@ -4995,181 +4985,173 @@ La Real Federación Española de Balonmano emitirá la correspondiente certifica
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque común: ciclo inicial y final</p>
+<p>Módulos del bloque común: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Módulo comunes de enseñanza deportiva</p>
+<th>
+<p>Módulo comunes de enseñanza deportiva</p>
 </th>
-<th class="cabeza_tabla">
-<p class="cabeza_tabla">Titulaciones</p>
+<th>
+<p>Titulaciones</p>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C101. Bases del comportamiento deportivo.</p>
+<p>MED-C101. Bases del comportamiento deportivo.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
-</td>
-</tr>
-<tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C102. Primeros auxilios.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Medicina.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Enfermería.</p>
-<p class="cuerpo_tabla_izq">Diplomado o Graduado en Fisioterapia.</p>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
+<p>MED-C102. Primeros auxilios.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Graduado en Educación Primaria mención de Educación Física.</p>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Medicina.</p>
+<p>Diplomado o Graduado en Enfermería.</p>
+<p>Diplomado o Graduado en Fisioterapia.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C104. Organización deportiva.</p>
+<p>MED-C105: Actividad físico-deportiva para personas con discapacidad.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
-</tr>
-<tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C201. Bases del aprendizaje deportivo.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Psicología.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Graduado en Educación Primaria mención de Educación Física.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C202. Bases del entrenamiento deportivo.</p>
+<p>MED-C104. Organización deportiva.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td>
+<p>MED-C201. Bases del aprendizaje deportivo.</p>
+</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Psicología.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C206: Iniciación deportiva para personas con discapacidad.</p>
+<p>MED-C202. Bases del entrenamiento deportivo.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C204. Organización y legislación deportiva.</p>
+<p>MED-C206: Iniciación deportiva para personas con discapacidad.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Derecho.</p>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">MED-C205. Deporte y género.</p>
+<p>MED-C204. Organización y legislación deportiva.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">Maestro especialista en Educación Física.</p>
-<p class="cuerpo_tabla_izq">Graduado en Educación Primaria mención de Educación Física.</p>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Licenciado o Graduado en Derecho.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MED-C205. Deporte y género.</p>
+</td>
+<td>
+<p>Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>Maestro especialista en Educación Física.</p>
+<p>Graduado en Educación Primaria mención de Educación Física.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table class="tabla" data-vertical-align="top">
+<table>
 <caption>
-<p class="centro_cursiva">Módulos del bloque específico: ciclo inicial y final</p>
+<p>Módulos del bloque específico: ciclo inicial y final</p>
 </caption>
-<colgroup>
-<col width="50%">
-<col width="50%">
-</colgroup>
 <thead>
 <tr>
-<th class="cabeza_tabla">Módulo específico de enseñanza deportiva</th>
-<th class="cabeza_tabla">Titulaciones</th>
+<th>Módulo específico de enseñanza deportiva</th>
+<th>Titulaciones</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo inicial</td>
+<td colspan="2">Ciclo inicial</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-BMBM102 Fundamentos básicos del juego.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM103 Enseñanza del balonmano en la iniciación.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM104 Organización de actividades y eventos de base.</p>
+<td>
+<p>MED-BMBM102 Fundamentos básicos del juego.</p>
+<p>MED-BMBM103 Enseñanza del balonmano en la iniciación.</p>
+<p>MED-BMBM104 Organización de actividades y eventos de base.</p>
 </td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano</p>
-<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
-</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">MED-BMBM105 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano.</p>
-<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+<td>
+<p>●    Técnico Deportivo Superior en Balonmano</p>
+<p>●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro" colspan="2">Ciclo final</td>
-</tr>
-<tr>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">MED-BMBM201 Formación técnico-táctica individual en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM202 El juego colectivo en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM204 Preparación física del balonmano.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM205 Fundamentos básicos del balonmano playa.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM206 Balonmano en silla de ruedas.</p>
-<p class="cuerpo_tabla_izq">MED-BMBM207 Dirección deportiva en la etapa de tecnificación.</p>
-</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano.</p>
-<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+<td>MED-BMBM105 Formación práctica.</td>
+<td>
+<p>●    Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>●    Técnico Deportivo Superior en Balonmano.</p>
+<p>●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
 </td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">MED-BMBM208 Formación práctica.</td>
-<td class="cuerpo_tabla_izq">
-<p class="cuerpo_tabla_izq">●    Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
-<p class="cuerpo_tabla_izq">●    Técnico Deportivo Superior en Balonmano.</p>
-<p class="cuerpo_tabla_izq">●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+<td colspan="2">Ciclo final</td>
+</tr>
+<tr>
+<td>
+<p>MED-BMBM201 Formación técnico-táctica individual en balonmano.</p>
+<p>MED-BMBM202 El juego colectivo en balonmano.</p>
+<p>MED-BMBM203 Metodología en la etapa de tecnificación en balonmano.</p>
+<p>MED-BMBM204 Preparación física del balonmano.</p>
+<p>MED-BMBM205 Fundamentos básicos del balonmano playa.</p>
+<p>MED-BMBM206 Balonmano en silla de ruedas.</p>
+<p>MED-BMBM207 Dirección deportiva en la etapa de tecnificación.</p>
+</td>
+<td>
+<p>●    Técnico Deportivo Superior en Balonmano.</p>
+<p>●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
+</td>
+</tr>
+<tr>
+<td>MED-BMBM208 Formación práctica.</td>
+<td>
+<p>●    Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte.</p>
+<p>●    Técnico Deportivo Superior en Balonmano.</p>
+<p>●    Homologación al título de Técnico Deportivo Superior en Balonmano.</p>
 </td>
 </tr>
 </tbody>

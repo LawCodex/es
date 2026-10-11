@@ -692,36 +692,6 @@ No se podrá contratar un seguro para caso de muerte sobre la cabeza de menores 
 
 **(Derogado).**
 
-> Téngase en cuenta que este artículo derogado por la la disposición derogatoria única.b) del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910), en la redacción dada a su disposición final 10, por la disposición final 6.4 del Real Decreto-ley 29/2021, de 21 de diciembre. [Ref. BOE-A-2021-21096](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21096), entra en vigor el 8 de julio de 2022.
-
-> Redacción anterior:
-
-> "Artículo 13. Cédulas territoriales.
-
-> Primero. Las entidades de crédito podrán emitir valores de renta fija con la denominación exclusiva de "Cédulas Territoriales", cuyo capital e intereses estarán especialmente garantizados por:
-
-> a) Los préstamos y créditos concedidos por el emisor al Estado, las Comunidades Autónomas, los Entes Locales, así como a los organismos autónomos y a las entidades públicas empresariales dependientes de los mismos.
-
-> b) Los préstamos y créditos concedidos por el emisor a administraciones centrales, administraciones regionales, autoridades locales, así como a organismos autónomos, entidades públicas empresariales y otras entidades de naturaleza análoga del Espacio Económico Europeo que no pertenezcan al Estado español, siempre que tales préstamos no estén vinculados a la financiación de contratos de exportación de bienes y servicios ni a la internacionalización de empresas.
-
-> Segundo. Las cédulas territoriales no deberán ser objeto de inscripción en el Registro Mercantil ni serán de aplicación las reglas contenidas en el capítulo X de la Ley de Sociedades Anónimas, texto refundido aprobado por Real Decreto legislativo 1564/1989, de 22 de diciembre, ni las previstas en la Ley 211/1964, de 24 de diciembre, sobre regulación de la emisión de obligaciones por sociedades que no hayan adoptado la forma de sociedades anónimas, asociaciones u otras personas jurídicas, y la constitución del sindicato de obligacionistas.
-
-> Tercero. El importe total de las cédulas emitidas por una entidad de crédito no podrá ser superior al 70 por ciento del importe de los préstamos y créditos no amortizados que tenga concedidos a las Administraciones públicas antes referidas.
-
-> No obstante, si sobrepasara dicho límite deberá recuperarlo en un plazo no superior a tres meses, aumentando su cartera de préstamos o créditos concedidos a las entidades públicas, adquiriendo sus propias cédulas en el mercado o mediante la amortización de cédulas por el importe necesario para restablecer el equilibrio, y, mientras tanto, deberá cubrir la diferencia mediante un depósito de efectivo o de fondos públicos en el Banco de España.
-
-> Cuarto. Los tenedores de cédulas tendrán derecho preferente sobre los derechos de crédito de la entidad emisora referidos en el apartado primero, para el cobro de los derechos derivados del título que ostenten sobre dichos valores, en los términos del artículo 1.922 del Código Civil.
-
-> Quinto. Las cédulas emitidas por una entidad de crédito, pendientes de amortización, tendrán el mismo trato que las cédulas hipotecarias, a los efectos de la Ley 13/1985, de 25 de mayo, de Coeficientes de Inversión, Recursos Propios y Obligaciones de Información de los Intermediarios Financieros y su normativa de desarrollo, así como de lo dispuesto en el párrafo b) del apartado 1 del artículo 4 de la Ley 46/1984, de 26 de diciembre, reguladora de las Instituciones de Inversión Colectiva.
-
-> Sexto. Las cédulas emitidas estarán representadas mediante anotaciones en cuenta y podrán ser admitidas a negociación en los mercados de valores, de conformidad con lo previsto en la Ley 24/1988, de 28 de julio, del Mercado de Valores, y adquiridas por las entidades.
-
-> Séptimo. En caso de concurso, los tenedores de cédulas territoriales gozarán del privilegio especial establecido en el número 1.º del apartado 1 del artículo 90 de la Ley Concursal.
-
-> Sin perjuicio de lo anterior, se atenderán durante el concurso, de acuerdo con lo previsto en el número 7.º del apartado 2 del artículo 84 de la Ley Concursal, y como créditos contra la masa, los pagos que correspondan por amortización de capital e intereses de las cédulas territoriales emitidas y pendientes de amortización en la fecha de solicitud del concurso hasta el importe de los ingresos percibidos por el concursado de los préstamos que respalden las cédulas.
-
-> Octavo. La entidad emisora de las cédulas territoriales llevará un registro contable especial de los préstamos y créditos que sirven de garantía a las emisiones de cédulas territoriales. Las cuentas anuales de la entidad emisora recogerán, en la forma que reglamentariamente se determine, los datos esenciales de dicho registro."
-
 > Se deroga, con efectos de 8 de julio de 2022, en la redacción dada a la disposición final 10 del Real Decreto-ley 24/2021, por la disposición final 6.4 del Real Decreto-ley 29/2021, de 21 de diciembre. [Ref. BOE-A-2021-21096](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21096)
 
 > Se deroga por la disposición derogatoria única.b) del Real Decreto-ley 24/2021, de 2 de noviembre. [Ref. BOE-A-2021-17910](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17910)
@@ -1826,12 +1796,6 @@ Tercero. No habrá lugar al derecho de oposición de los afectados al tratamient
 
 Primero. Tendrán la consideración de entidades declarantes, a los efectos de esta Ley, las siguientes: el Banco de España, las entidades de crédito españolas, las sucursales en España de las entidades de crédito extranjeras, las entidades de crédito que operen en régimen de libre prestación de servicios, el fondo de garantía de depósitos, las sociedades de garantía recíproca y de reafianzamiento, los establecimientos financieros de crédito, los prestamistas inmobiliarios y aquellas otras entidades que determine el Ministerio de Economía y Empresa, a propuesta del Banco de España.
 
-> Téngase en cuenta que esta última actualización del apartado primero, establecida por la disposición final 7.1 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814), entra en vigor el 16 de junio de 2019, según determina la disposición final 16 de la citada Ley.
-
-> Redacción anterior:
-
-> "Tendrán la consideración de entidades declarantes, a los efectos de esta Ley, las siguientes: el Banco de España, las entidades de crédito españolas, las sucursales en España de las entidades de crédito extranjeras, el fondo de garantía de depósitos, las sociedades de garantía recíproca y de reafianzamiento, los establecimientos financieros de crédito y aquellas otras entidades que determine el Ministerio de Economía y Competitividad a propuesta del Banco de España."
-
 Segundo. Las entidades declarantes estarán obligadas a proporcionar a la CIR los datos necesarios para identificar a las personas con quienes se mantengan, directa o indirectamente, riesgos de crédito, así como las características de dichas personas y riesgos, incluyendo, en particular, las que afecten al importe y la recuperabilidad de éstos. Esta obligación se extenderá a los riesgos mantenidos a través de entidades instrumentales integradas en los grupos consolidables de las entidades declarantes, y a aquellos que hayan sido cedidos a terceros conservando la entidad su administración.
 
 Entre los datos a los que se refiere el párrafo anterior se incluirán aquellos que reflejen una situación de incumplimiento, por la contraparte, de sus obligaciones frente a la entidad declarante, así como los que pongan de manifiesto una situación en la cual la entidad estuviera obligada a dotar una provisión específica en cobertura de riesgo de crédito, según lo previsto en las normas de contabilidad que le sean de aplicación.
@@ -1875,22 +1839,6 @@ Las entidades deberán informar por escrito a las personas en las que concurra e
 Las entidades conservarán los documentos justificativos de las solicitudes a que se refieren las letras b) y c) precedentes que hayan sido denegadas durante el plazo establecido con carácter general en el artículo 30 del Código de Comercio.
 
 El Banco de España podrá impedir temporalmente el acceso de una entidad declarante a los datos de la CIR cuando haya incumplido sus obligaciones de información con la calidad y exactitud necesarias a juicio del Banco de España.
-
-> Téngase en cuenta que esta última actualización del apartado segundo, establecida por la disposición final 7.2 de la Ley 5/2019, de 15 de marzo. [Ref. BOE-A-2019-3814](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814), entra en vigor el 16 de junio de 2019, según determina la disposición final 16 de la citada Ley.
-
-> Redacción anterior:
-
-> "Las entidades declarantes tendrán derecho a obtener informes sobre los riesgos de las personas físicas o jurídicas, incluidas las Administraciones públicas, registrados en la CIR, siempre que dichas personas cumplan alguna de las circunstancias siguientes:
-
-> a) Mantener con la entidad algún tipo de riesgo.
-
-> b) Haber solicitado a la entidad un préstamo o cualquier otra operación de riesgo.
-
-> c) Figurar como obligadas al pago o garantes en documentos cambiarios o de crédito cuya adquisición o negociación haya sido solicitada a la entidad.
-
-> Las entidades deberán informar por escrito a las personas en las que concurra el supuesto contemplado por el párrafo b) precedente del derecho de la entidad previsto en este apartado.
-
-> Las entidades conservarán los documentos justificativos de las solicitudes a que se refieren los párrafos b) y c) precedentes que hayan sido denegadas durante el plazo establecido con carácter general en el artículo 30 del Código de Comercio."
 
 Tercero. El Ministro de Economía y, con su habilitación expresa, el Banco de España determinarán el contenido, forma y periodicidad de los informes a que se refieren los apartados anteriores.
 

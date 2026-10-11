@@ -159,696 +159,690 @@ Demande de délivrance du «título de Bachiller» pour les élèves des section
 
 ## ANEXO II.B — Liceos franceses con secciones «Bachibac»
 
-<table class="tabla_ancha" data-omitir-repetir-tfoot="true">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla">Denominación</th>
-<th class="cabeza_tabla">Localidad</th>
-<th class="cabeza_tabla">Academia</th>
-<th class="cabeza_tabla">Código de centro</th>
+<th>Denominación</th>
+<th>Localidad</th>
+<th>Academia</th>
+<th>Código de centro</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ÉMILE ZOLA.</td>
-<td class="cuerpo_tabla_izq">AIX-EN-PROVENCE.</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE.</td>
-<td class="cuerpo_tabla_centro">60006763</td>
+<td>LYCÉE ÉMILE ZOLA.</td>
+<td>AIX-EN-PROVENCE.</td>
+<td>AIX-MARSEILLE.</td>
+<td>60006763</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE THÉODORE AUBANEL.</td>
-<td class="cuerpo_tabla_izq">AVIGNON.</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE.</td>
-<td class="cuerpo_tabla_centro">60006222</td>
+<td>LYCÉE THÉODORE AUBANEL.</td>
+<td>AVIGNON.</td>
+<td>AIX-MARSEILLE.</td>
+<td>60006222</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE POLYVALENT DE LA MÉDITERRANÉE.</td>
-<td class="cuerpo_tabla_izq">LA CIOTAT.</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE.</td>
-<td class="cuerpo_tabla_centro">60006234</td>
+<td>LYCÉE POLYVALENT DE LA MÉDITERRANÉE.</td>
+<td>LA CIOTAT.</td>
+<td>AIX-MARSEILLE.</td>
+<td>60006234</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ÉCOLE INTERNATIONALE PROVENCE-ALPES-COTE D’AZUR.</td>
-<td class="cuerpo_tabla_izq">MANOSQUE.</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE.</td>
-<td class="cuerpo_tabla_centro">60008413</td>
+<td>ÉCOLE INTERNATIONALE PROVENCE-ALPES-COTE D’AZUR.</td>
+<td>MANOSQUE.</td>
+<td>AIX-MARSEILLE.</td>
+<td>60008413</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE SAINT-CHARLES.</td>
-<td class="cuerpo_tabla_izq">MARSEILLE.</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE.</td>
-<td class="cuerpo_tabla_centro">60006210</td>
+<td>LYCÉE SAINT-CHARLES.</td>
+<td>MARSEILLE.</td>
+<td>AIX-MARSEILLE.</td>
+<td>60006210</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE SAINT-EXUPÉRY</td>
-<td class="cuerpo_tabla_izq">MARSEILLE</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE</td>
-<td class="cuerpo_tabla_centro">60009375</td>
+<td>LYCÉE SAINT-EXUPÉRY</td>
+<td>MARSEILLE</td>
+<td>AIX-MARSEILLE</td>
+<td>60009375</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN LURÇAT.</td>
-<td class="cuerpo_tabla_izq">MARTIGUES.</td>
-<td class="cuerpo_tabla_izq">AIX-MARSEILLE.</td>
-<td class="cuerpo_tabla_centro">60006246</td>
+<td>LYCÉE JEAN LURÇAT.</td>
+<td>MARTIGUES.</td>
+<td>AIX-MARSEILLE.</td>
+<td>60006246</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEANNE HACHETTE.</td>
-<td class="cuerpo_tabla_izq">BEAUVAIS.</td>
-<td class="cuerpo_tabla_izq">AMIENS.</td>
-<td class="cuerpo_tabla_centro">60008474</td>
+<td>LYCÉE JEANNE HACHETTE.</td>
+<td>BEAUVAIS.</td>
+<td>AMIENS.</td>
+<td>60008474</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE EUROPÉEN.</td>
-<td class="cuerpo_tabla_izq">VILLERS-COTTERÊTS.</td>
-<td class="cuerpo_tabla_izq">AMIENS.</td>
-<td class="cuerpo_tabla_centro">60006921</td>
+<td>LYCÉE EUROPÉEN.</td>
+<td>VILLERS-COTTERÊTS.</td>
+<td>AMIENS.</td>
+<td>60006921</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE GERMAINE TILLION.</td>
-<td class="cuerpo_tabla_izq">MONTBÉLIARD.</td>
-<td class="cuerpo_tabla_izq">BESANÇON.</td>
-<td class="cuerpo_tabla_centro">60008504</td>
+<td>LYCÉE GERMAINE TILLION.</td>
+<td>MONTBÉLIARD.</td>
+<td>BESANÇON.</td>
+<td>60008504</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE BERNARD PALISSY.</td>
-<td class="cuerpo_tabla_izq">AGEN.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60008425</td>
+<td>LYCÉE BERNARD PALISSY.</td>
+<td>AGEN.</td>
+<td>BORDEAUX.</td>
+<td>60008425</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE DE GRAND AIR.</td>
-<td class="cuerpo_tabla_izq">ARCACHON.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60006261</td>
+<td>LYCÉE DE GRAND AIR.</td>
+<td>ARCACHON.</td>
+<td>BORDEAUX.</td>
+<td>60006261</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE DE BORDA.</td>
-<td class="cuerpo_tabla_izq">DAX.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60008450</td>
+<td>LYCÉE DE BORDA.</td>
+<td>DAX.</td>
+<td>BORDEAUX.</td>
+<td>60008450</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MAX LINDER.</td>
-<td class="cuerpo_tabla_izq">LIBOURNE.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60009132</td>
+<td>LYCÉE MAX LINDER.</td>
+<td>LIBOURNE.</td>
+<td>BORDEAUX.</td>
+<td>60009132</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE SAINT-JOHN PERSE.</td>
-<td class="cuerpo_tabla_izq">PAU.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60008528</td>
+<td>LYCÉE SAINT-JOHN PERSE.</td>
+<td>PAU.</td>
+<td>BORDEAUX.</td>
+<td>60008528</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE BERTRAN-DE-BORN.</td>
-<td class="cuerpo_tabla_izq">PÉRIGUEUX.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60006271</td>
+<td>LYCÉE BERTRAN-DE-BORN.</td>
+<td>PÉRIGUEUX.</td>
+<td>BORDEAUX.</td>
+<td>60006271</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MAURICE RAVEL.</td>
-<td class="cuerpo_tabla_izq">SAINT-JEAN-DE-LUZ.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60006258</td>
+<td>LYCÉE MAURICE RAVEL.</td>
+<td>SAINT-JEAN-DE-LUZ.</td>
+<td>BORDEAUX.</td>
+<td>60006258</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE SAINT-THOMAS D’AQUIN.</td>
-<td class="cuerpo_tabla_izq">SAINT-JEAN-DE-LUZ.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60006283</td>
+<td>LYCÉE SAINT-THOMAS D’AQUIN.</td>
+<td>SAINT-JEAN-DE-LUZ.</td>
+<td>BORDEAUX.</td>
+<td>60006283</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE VICTOR LOUIS.</td>
-<td class="cuerpo_tabla_izq">TALENCE.</td>
-<td class="cuerpo_tabla_izq">BORDEAUX.</td>
-<td class="cuerpo_tabla_centro">60006295</td>
+<td>LYCÉE VICTOR LOUIS.</td>
+<td>TALENCE.</td>
+<td>BORDEAUX.</td>
+<td>60006295</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ÉMILE DUCLAUX.</td>
-<td class="cuerpo_tabla_izq">AURILLAC.</td>
-<td class="cuerpo_tabla_izq">CLERMONT-FERRAND.</td>
-<td class="cuerpo_tabla_centro">60008875</td>
+<td>LYCÉE ÉMILE DUCLAUX.</td>
+<td>AURILLAC.</td>
+<td>CLERMONT-FERRAND.</td>
+<td>60008875</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEANNE D'ARC<sup>(1)</sup>.</td>
-<td class="cuerpo_tabla_izq">CLERMONT-FERRAND.</td>
-<td class="cuerpo_tabla_izq">CLERMONT-FERRAND.</td>
-<td class="cuerpo_tabla_centro">60006301</td>
+<td>LYCÉE JEANNE D'ARC<sup>(1)</sup>.</td>
+<td>CLERMONT-FERRAND.</td>
+<td>CLERMONT-FERRAND.</td>
+<td>60006301</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ALBERT LONDRES.</td>
-<td class="cuerpo_tabla_izq">CUSSET.</td>
-<td class="cuerpo_tabla_izq">CLERMONT-FERRAND.</td>
-<td class="cuerpo_tabla_centro">60009144</td>
+<td>LYCÉE ALBERT LONDRES.</td>
+<td>CUSSET.</td>
+<td>CLERMONT-FERRAND.</td>
+<td>60009144</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MADAME DE STAËL.</td>
-<td class="cuerpo_tabla_izq">MONTLUÇON.</td>
-<td class="cuerpo_tabla_izq">CLERMONT-FERRAND.</td>
-<td class="cuerpo_tabla_centro">60008498</td>
+<td>LYCÉE MADAME DE STAËL.</td>
+<td>MONTLUÇON.</td>
+<td>CLERMONT-FERRAND.</td>
+<td>60008498</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE DELACROIX.</td>
-<td class="cuerpo_tabla_izq">MAISONS-ALFORT.</td>
-<td class="cuerpo_tabla_izq">CRÉTEIL.</td>
-<td class="cuerpo_tabla_centro">60006830</td>
+<td>LYCÉE DELACROIX.</td>
+<td>MAISONS-ALFORT.</td>
+<td>CRÉTEIL.</td>
+<td>60006830</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE HONORÉ DE BALZAC</td>
-<td class="cuerpo_tabla_izq">MITRY-MORY</td>
-<td class="cuerpo_tabla_izq">CRÉTEIL</td>
-<td class="cuerpo_tabla_centro">60009387</td>
+<td>LYCÉE HONORÉ DE BALZAC</td>
+<td>MITRY-MORY</td>
+<td>CRÉTEIL</td>
+<td>60009387</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCEE INTERNATIONAL DE L’EST PARISIEN.</td>
-<td class="cuerpo_tabla_izq">NOISY-LE-GRAND.</td>
-<td class="cuerpo_tabla_izq">CRÉTEIL.</td>
-<td class="cuerpo_tabla_centro">60008656</td>
+<td>LYCEE INTERNATIONAL DE L’EST PARISIEN.</td>
+<td>NOISY-LE-GRAND.</td>
+<td>CRÉTEIL.</td>
+<td>60008656</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JACQUES AMIOT.</td>
-<td class="cuerpo_tabla_izq">AUXERRE.</td>
-<td class="cuerpo_tabla_izq">DIJON.</td>
-<td class="cuerpo_tabla_centro">60009156</td>
+<td>LYCÉE JACQUES AMIOT.</td>
+<td>AUXERRE.</td>
+<td>DIJON.</td>
+<td>60009156</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PONTUS DE TYARD.</td>
-<td class="cuerpo_tabla_izq">CHALON-SUR-SAÔNE.</td>
-<td class="cuerpo_tabla_izq">DIJON.</td>
-<td class="cuerpo_tabla_centro">60006325</td>
+<td>LYCÉE PONTUS DE TYARD.</td>
+<td>CHALON-SUR-SAÔNE.</td>
+<td>DIJON.</td>
+<td>60006325</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE RÉGIONAL MONTCHAPET.</td>
-<td class="cuerpo_tabla_izq">DIJON.</td>
-<td class="cuerpo_tabla_izq">DIJON.</td>
-<td class="cuerpo_tabla_centro">60006337</td>
+<td>LYCÉE RÉGIONAL MONTCHAPET.</td>
+<td>DIJON.</td>
+<td>DIJON.</td>
+<td>60006337</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE POLYVALENT JEAN MONNET.</td>
-<td class="cuerpo_tabla_izq">ANNEMASSE.</td>
-<td class="cuerpo_tabla_izq">GRENOBLE.</td>
-<td class="cuerpo_tabla_centro">60008887</td>
+<td>LYCÉE POLYVALENT JEAN MONNET.</td>
+<td>ANNEMASSE.</td>
+<td>GRENOBLE.</td>
+<td>60008887</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CAMILLE VERNET.</td>
-<td class="cuerpo_tabla_izq">VALENCE.</td>
-<td class="cuerpo_tabla_izq">GRENOBLE.</td>
-<td class="cuerpo_tabla_centro">60008437</td>
+<td>LYCÉE CAMILLE VERNET.</td>
+<td>VALENCE.</td>
+<td>GRENOBLE.</td>
+<td>60008437</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE GERVILLE RÉACHE.</td>
-<td class="cuerpo_tabla_izq">BASSE-TERRE.</td>
-<td class="cuerpo_tabla_izq">GUADELOUPE.</td>
-<td class="cuerpo_tabla_centro">60006349</td>
+<td>LYCÉE GERVILLE RÉACHE.</td>
+<td>BASSE-TERRE.</td>
+<td>GUADELOUPE.</td>
+<td>60006349</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ROLAND GARROS.</td>
-<td class="cuerpo_tabla_izq">LE TAMPON.</td>
-<td class="cuerpo_tabla_izq">LA RÉUNION.</td>
-<td class="cuerpo_tabla_centro">60008516</td>
+<td>LYCÉE ROLAND GARROS.</td>
+<td>LE TAMPON.</td>
+<td>LA RÉUNION.</td>
+<td>60008516</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MAHATMA GANDHI.</td>
-<td class="cuerpo_tabla_izq">SAINT-ANDRÉ.</td>
-<td class="cuerpo_tabla_izq">LA RÉUNION.</td>
-<td class="cuerpo_tabla_centro">60006568</td>
+<td>LYCÉE MAHATMA GANDHI.</td>
+<td>SAINT-ANDRÉ.</td>
+<td>LA RÉUNION.</td>
+<td>60006568</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE GEORGES BRASSENS.</td>
-<td class="cuerpo_tabla_izq">SAINT-DENIS.</td>
-<td class="cuerpo_tabla_izq">LA RÉUNION.</td>
-<td class="cuerpo_tabla_centro"> 60008668</td>
+<td>LYCÉE GEORGES BRASSENS.</td>
+<td>SAINT-DENIS.</td>
+<td>LA RÉUNION.</td>
+<td> 60008668</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ÉVARISTE DE PARNY.</td>
-<td class="cuerpo_tabla_izq">SAINT-PAUL.</td>
-<td class="cuerpo_tabla_izq">LA RÉUNION.</td>
-<td class="cuerpo_tabla_centro">60006556</td>
+<td>LYCÉE ÉVARISTE DE PARNY.</td>
+<td>SAINT-PAUL.</td>
+<td>LA RÉUNION.</td>
+<td>60006556</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE LOUIS BLARINGHEM.</td>
-<td class="cuerpo_tabla_izq">BÉTHUNE.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_centro">60006386</td>
+<td>LYCÉE LOUIS BLARINGHEM.</td>
+<td>BÉTHUNE.</td>
+<td>LILLE.</td>
+<td>60006386</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JULES MOUSSERON.</td>
-<td class="cuerpo_tabla_izq">DENAIN.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_centro">60006787</td>
+<td>LYCÉE JULES MOUSSERON.</td>
+<td>DENAIN.</td>
+<td>LILLE.</td>
+<td>60006787</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MARGUERITE DE FLANDRE.</td>
-<td class="cuerpo_tabla_izq">GONDECOURT.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_centro">60006350</td>
+<td>LYCÉE MARGUERITE DE FLANDRE.</td>
+<td>GONDECOURT.</td>
+<td>LILLE.</td>
+<td>60006350</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE FERNAND DARCHICOURT.</td>
-<td class="cuerpo_tabla_izq">HÉNIN-BEAUMONT.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_centro">60006398</td>
+<td>LYCÉE FERNAND DARCHICOURT.</td>
+<td>HÉNIN-BEAUMONT.</td>
+<td>LILLE.</td>
+<td>60006398</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE INTERNATIONAL MONTEBELLO.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_centro">60006374</td>
+<td>LYCÉE INTERNATIONAL MONTEBELLO.</td>
+<td>LILLE.</td>
+<td>LILLE.</td>
+<td>60006374</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE LÉON GAMBETTA.</td>
-<td class="cuerpo_tabla_izq">TOURCOING.</td>
-<td class="cuerpo_tabla_izq">LILLE.</td>
-<td class="cuerpo_tabla_centro">60006362</td>
+<td>LYCÉE LÉON GAMBETTA.</td>
+<td>TOURCOING.</td>
+<td>LILLE.</td>
+<td>60006362</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE D’ARSONVAL.</td>
-<td class="cuerpo_tabla_izq">BRIVE-LA-GAILLARDE.</td>
-<td class="cuerpo_tabla_izq">LIMOGES.</td>
-<td class="cuerpo_tabla_centro">60008449</td>
+<td>LYCÉE D’ARSONVAL.</td>
+<td>BRIVE-LA-GAILLARDE.</td>
+<td>LIMOGES.</td>
+<td>60008449</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE GAY LUSSAC.</td>
-<td class="cuerpo_tabla_izq">LIMOGES.</td>
-<td class="cuerpo_tabla_izq">LIMOGES.</td>
-<td class="cuerpo_tabla_centro">60009193</td>
+<td>LYCÉE GAY LUSSAC.</td>
+<td>LIMOGES.</td>
+<td>LIMOGES.</td>
+<td>60009193</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCEE DE LA PLAINE DE L’AIN.</td>
-<td class="cuerpo_tabla_izq">AMBÉRIEU.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60008802</td>
+<td>LYCEE DE LA PLAINE DE L’AIN.</td>
+<td>AMBÉRIEU.</td>
+<td>LYON.</td>
+<td>60008802</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE AIGUERANDE.</td>
-<td class="cuerpo_tabla_izq">BELLEVILLE-EN-BEAUJOLAIS.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60008814</td>
+<td>LYCÉE AIGUERANDE.</td>
+<td>BELLEVILLE-EN-BEAUJOLAIS.</td>
+<td>LYON.</td>
+<td>60008814</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE EDGAR QUINET.</td>
-<td class="cuerpo_tabla_izq">BOURG-EN-BRESSE.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60006416</td>
+<td>LYCÉE EDGAR QUINET.</td>
+<td>BOURG-EN-BRESSE.</td>
+<td>LYON.</td>
+<td>60006416</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN PERRIN.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60006404</td>
+<td>LYCÉE JEAN PERRIN.</td>
+<td>LYON.</td>
+<td>LYON.</td>
+<td>60006404</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PARC CHABRIÈRES</td>
-<td class="cuerpo_tabla_izq">OULLINS-PIERRE-BÉNITE</td>
-<td class="cuerpo_tabla_izq">LYON</td>
-<td class="cuerpo_tabla_centro">60009399</td>
+<td>LYCÉE PARC CHABRIÈRES</td>
+<td>OULLINS-PIERRE-BÉNITE</td>
+<td>LYON</td>
+<td>60009399</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN PUY.</td>
-<td class="cuerpo_tabla_izq">ROANNE.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60009168</td>
+<td>LYCÉE JEAN PUY.</td>
+<td>ROANNE.</td>
+<td>LYON.</td>
+<td>60009168</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CLAUDE FAURIEL.</td>
-<td class="cuerpo_tabla_izq">SAINT-ÉTIENNE.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60006933</td>
+<td>LYCÉE CLAUDE FAURIEL.</td>
+<td>SAINT-ÉTIENNE.</td>
+<td>LYON.</td>
+<td>60006933</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CLAUDE BERNARD.</td>
-<td class="cuerpo_tabla_izq">VILLEFRANCHE-SUR-SAÔNE.</td>
-<td class="cuerpo_tabla_izq">LYON.</td>
-<td class="cuerpo_tabla_centro">60006842</td>
+<td>LYCÉE CLAUDE BERNARD.</td>
+<td>VILLEFRANCHE-SUR-SAÔNE.</td>
+<td>LYON.</td>
+<td>60006842</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE GERMAINE TILLION.</td>
-<td class="cuerpo_tabla_izq">CASTELNAUDARY.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60008681</td>
+<td>LYCÉE GERMAINE TILLION.</td>
+<td>CASTELNAUDARY.</td>
+<td>MONTPELLIER.</td>
+<td>60008681</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CHAPTAL.</td>
-<td class="cuerpo_tabla_izq">MENDE.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60008826</td>
+<td>LYCÉE CHAPTAL.</td>
+<td>MENDE.</td>
+<td>MONTPELLIER.</td>
+<td>60008826</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JULES GUESDE.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60006428</td>
+<td>LYCÉE JULES GUESDE.</td>
+<td>MONTPELLIER.</td>
+<td>MONTPELLIER.</td>
+<td>60006428</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ALBERT CAMUS.</td>
-<td class="cuerpo_tabla_izq">NÎMES.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60006431</td>
+<td>LYCÉE ALBERT CAMUS.</td>
+<td>NÎMES.</td>
+<td>MONTPELLIER.</td>
+<td>60006431</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">INSTITUT EMMANUEL D’ALZON.</td>
-<td class="cuerpo_tabla_izq">NÎMES.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60008899</td>
+<td>INSTITUT EMMANUEL D’ALZON.</td>
+<td>NÎMES.</td>
+<td>MONTPELLIER.</td>
+<td>60008899</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE FRANÇOIS ARAGO.</td>
-<td class="cuerpo_tabla_izq">PERPIGNAN.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60006441</td>
+<td>LYCÉE FRANÇOIS ARAGO.</td>
+<td>PERPIGNAN.</td>
+<td>MONTPELLIER.</td>
+<td>60006441</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN MOULIN.</td>
-<td class="cuerpo_tabla_izq">PÉZENAS.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60008905</td>
+<td>LYCÉE JEAN MOULIN.</td>
+<td>PÉZENAS.</td>
+<td>MONTPELLIER.</td>
+<td>60008905</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JACQUES PRÉVERT.</td>
-<td class="cuerpo_tabla_izq">SAINT-CHRISTOL-LÈS-ALÈS.</td>
-<td class="cuerpo_tabla_izq">MONTPELLIER.</td>
-<td class="cuerpo_tabla_centro">60006672</td>
+<td>LYCÉE JACQUES PRÉVERT.</td>
+<td>SAINT-CHRISTOL-LÈS-ALÈS.</td>
+<td>MONTPELLIER.</td>
+<td>60006672</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE INTERNATIONAL JEANNE D’ARC<sup>(2)</sup>.</td>
-<td class="cuerpo_tabla_izq">NANCY.</td>
-<td class="cuerpo_tabla_izq">NANCY-METZ.</td>
-<td class="cuerpo_tabla_centro">60006453</td>
+<td>LYCÉE INTERNATIONAL JEANNE D’ARC<sup>(2)</sup>.</td>
+<td>NANCY.</td>
+<td>NANCY-METZ.</td>
+<td>60006453</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE POLYVALENT CORMONTAIGNE.</td>
-<td class="cuerpo_tabla_izq">METZ.</td>
-<td class="cuerpo_tabla_izq">NANCY-METZ.</td>
-<td class="cuerpo_tabla_centro">60009171</td>
+<td>LYCÉE POLYVALENT CORMONTAIGNE.</td>
+<td>METZ.</td>
+<td>NANCY-METZ.</td>
+<td>60009171</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CHEVROLLIER.</td>
-<td class="cuerpo_tabla_izq">ANGERS.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006854</td>
+<td>LYCÉE CHEVROLLIER.</td>
+<td>ANGERS.</td>
+<td>NANTES.</td>
+<td>60006854</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PIERRE MENDÈS FRANCE.</td>
-<td class="cuerpo_tabla_izq">LA ROCHE-SUR-YON.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006477</td>
+<td>LYCÉE PIERRE MENDÈS FRANCE.</td>
+<td>LA ROCHE-SUR-YON.</td>
+<td>NANTES.</td>
+<td>60006477</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE AMBROISE PARÉ.</td>
-<td class="cuerpo_tabla_izq">LAVAL.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006799</td>
+<td>LYCÉE AMBROISE PARÉ.</td>
+<td>LAVAL.</td>
+<td>NANTES.</td>
+<td>60006799</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE BELLEVUE.</td>
-<td class="cuerpo_tabla_izq">LE MANS.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006465</td>
+<td>LYCÉE BELLEVUE.</td>
+<td>LE MANS.</td>
+<td>NANTES.</td>
+<td>60006465</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PRIVÉ NOTRE-DAME.</td>
-<td class="cuerpo_tabla_izq">LE MANS.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006881</td>
+<td>LYCÉE PRIVÉ NOTRE-DAME.</td>
+<td>LE MANS.</td>
+<td>NANTES.</td>
+<td>60006881</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE NELSON MANDELA.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006891</td>
+<td>LYCÉE NELSON MANDELA.</td>
+<td>NANTES.</td>
+<td>NANTES.</td>
+<td>60006891</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PRIVÉ BLANCHE DE CASTILLE.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_izq">NANTES.</td>
-<td class="cuerpo_tabla_centro">60006878</td>
+<td>LYCÉE PRIVÉ BLANCHE DE CASTILLE.</td>
+<td>NANTES.</td>
+<td>NANTES.</td>
+<td>60006878</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JACQUES AUDIBERTI.</td>
-<td class="cuerpo_tabla_izq">ANTIBES.</td>
-<td class="cuerpo_tabla_izq">NICE.</td>
-<td class="cuerpo_tabla_centro">60008838</td>
+<td>LYCÉE JACQUES AUDIBERTI.</td>
+<td>ANTIBES.</td>
+<td>NICE.</td>
+<td>60008838</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE AUGUSTE RENOIR.</td>
-<td class="cuerpo_tabla_izq">CAGNES-SUR-MER.</td>
-<td class="cuerpo_tabla_izq">NICE.</td>
-<td class="cuerpo_tabla_centro">60008693</td>
+<td>LYCÉE AUGUSTE RENOIR.</td>
+<td>CAGNES-SUR-MER.</td>
+<td>NICE.</td>
+<td>60008693</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN AICARD.</td>
-<td class="cuerpo_tabla_izq">HYÈRES.</td>
-<td class="cuerpo_tabla_izq">NICE.</td>
-<td class="cuerpo_tabla_centro">60008462</td>
+<td>LYCÉE JEAN AICARD.</td>
+<td>HYÈRES.</td>
+<td>NICE.</td>
+<td>60008462</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE BEAUSSIER.</td>
-<td class="cuerpo_tabla_izq">LA SEYNE-SUR-MER.</td>
-<td class="cuerpo_tabla_izq">NICE.</td>
-<td class="cuerpo_tabla_centro">60006490</td>
+<td>LYCÉE BEAUSSIER.</td>
+<td>LA SEYNE-SUR-MER.</td>
+<td>NICE.</td>
+<td>60006490</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ANTOINE DE SAINT EXUPÉRY.</td>
-<td class="cuerpo_tabla_izq">SAINT-RAPHAËL.</td>
-<td class="cuerpo_tabla_izq">NICE.</td>
-<td class="cuerpo_tabla_centro">60009201</td>
+<td>LYCÉE ANTOINE DE SAINT EXUPÉRY.</td>
+<td>SAINT-RAPHAËL.</td>
+<td>NICE.</td>
+<td>60009201</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CHARLES DE GAULLE.</td>
-<td class="cuerpo_tabla_izq">CAEN.</td>
-<td class="cuerpo_tabla_izq">NORMANDIE.</td>
-<td class="cuerpo_tabla_centro">60006775</td>
+<td>LYCÉE CHARLES DE GAULLE.</td>
+<td>CAEN.</td>
+<td>NORMANDIE.</td>
+<td>60006775</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE VAL DE SEINE.</td>
-<td class="cuerpo_tabla_izq">LE GRAND-QUEVILLY.</td>
-<td class="cuerpo_tabla_izq">NORMANDIE.</td>
-<td class="cuerpo_tabla_centro">60006829</td>
+<td>LYCÉE VAL DE SEINE.</td>
+<td>LE GRAND-QUEVILLY.</td>
+<td>NORMANDIE.</td>
+<td>60006829</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE AUGUSTIN THIERRY.</td>
-<td class="cuerpo_tabla_izq">BLOIS.</td>
-<td class="cuerpo_tabla_izq">ORLÉANS-TOURS.</td>
-<td class="cuerpo_tabla_centro">60006866</td>
+<td>LYCÉE AUGUSTIN THIERRY.</td>
+<td>BLOIS.</td>
+<td>ORLÉANS-TOURS.</td>
+<td>60006866</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN GIRAUDOUX.</td>
-<td class="cuerpo_tabla_izq">CHÂTEAUROUX.</td>
-<td class="cuerpo_tabla_izq">ORLÉANS-TOURS.</td>
-<td class="cuerpo_tabla_centro">60006817</td>
+<td>LYCÉE JEAN GIRAUDOUX.</td>
+<td>CHÂTEAUROUX.</td>
+<td>ORLÉANS-TOURS.</td>
+<td>60006817</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PAUL-LOUIS COURIER.</td>
-<td class="cuerpo_tabla_izq">TOURS.</td>
-<td class="cuerpo_tabla_izq">ORLÉANS-TOURS.</td>
-<td class="cuerpo_tabla_centro">60006805</td>
+<td>LYCÉE PAUL-LOUIS COURIER.</td>
+<td>TOURS.</td>
+<td>ORLÉANS-TOURS.</td>
+<td>60006805</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MONTAIGNE.</td>
-<td class="cuerpo_tabla_izq">PARIS.</td>
-<td class="cuerpo_tabla_izq">PARIS.</td>
-<td class="cuerpo_tabla_centro">60008711</td>
+<td>LYCÉE MONTAIGNE.</td>
+<td>PARIS.</td>
+<td>PARIS.</td>
+<td>60008711</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MOLIÈRE.</td>
-<td class="cuerpo_tabla_izq">PARIS 16ÈME AR.</td>
-<td class="cuerpo_tabla_izq">PARIS.</td>
-<td class="cuerpo_tabla_centro">60006519</td>
+<td>LYCÉE MOLIÈRE.</td>
+<td>PARIS 16ÈME AR.</td>
+<td>PARIS.</td>
+<td>60006519</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MAURICE RAVEL.</td>
-<td class="cuerpo_tabla_izq">PARIS 20ÈME AR.</td>
-<td class="cuerpo_tabla_izq">PARIS.</td>
-<td class="cuerpo_tabla_centro">60006507</td>
+<td>LYCÉE MAURICE RAVEL.</td>
+<td>PARIS 20ÈME AR.</td>
+<td>PARIS.</td>
+<td>60006507</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MARGUERITE DE VALOIS.</td>
-<td class="cuerpo_tabla_izq">ANGOULÊME.</td>
-<td class="cuerpo_tabla_izq">POITIERS.</td>
-<td class="cuerpo_tabla_centro">60008723</td>
+<td>LYCÉE MARGUERITE DE VALOIS.</td>
+<td>ANGOULÊME.</td>
+<td>POITIERS.</td>
+<td>60008723</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN DAUTET.</td>
-<td class="cuerpo_tabla_izq">LA ROCHELLE.</td>
-<td class="cuerpo_tabla_izq">POITIERS.</td>
-<td class="cuerpo_tabla_centro">60006520</td>
+<td>LYCÉE JEAN DAUTET.</td>
+<td>LA ROCHELLE.</td>
+<td>POITIERS.</td>
+<td>60006520</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE STÉPHANE HESSEL<sup>(3)</sup>.</td>
-<td class="cuerpo_tabla_izq">ÉPERNAY.</td>
-<td class="cuerpo_tabla_izq">REIMS.</td>
-<td class="cuerpo_tabla_centro">60006532</td>
+<td>LYCÉE STÉPHANE HESSEL<sup>(3)</sup>.</td>
+<td>ÉPERNAY.</td>
+<td>REIMS.</td>
+<td>60006532</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN-BAPTISTE COLBERT.</td>
-<td class="cuerpo_tabla_izq">LORIENT.</td>
-<td class="cuerpo_tabla_izq">RENNES.</td>
-<td class="cuerpo_tabla_centro">60008735</td>
+<td>LYCÉE JEAN-BAPTISTE COLBERT.</td>
+<td>LORIENT.</td>
+<td>RENNES.</td>
+<td>60008735</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE RENÉ DESCARTES.</td>
-<td class="cuerpo_tabla_izq">RENNES.</td>
-<td class="cuerpo_tabla_izq">RENNES.</td>
-<td class="cuerpo_tabla_centro">60006544</td>
+<td>LYCÉE RENÉ DESCARTES.</td>
+<td>RENNES.</td>
+<td>RENNES.</td>
+<td>60006544</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE RABELAIS.</td>
-<td class="cuerpo_tabla_izq">SAINT-BRIEUC.</td>
-<td class="cuerpo_tabla_izq">RENNES.</td>
-<td class="cuerpo_tabla_centro">60008747</td>
+<td>LYCÉE RABELAIS.</td>
+<td>SAINT-BRIEUC.</td>
+<td>RENNES.</td>
+<td>60008747</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE KLÉBER.</td>
-<td class="cuerpo_tabla_izq">STRASBOURG.</td>
-<td class="cuerpo_tabla_izq">STRASBOURG.</td>
-<td class="cuerpo_tabla_centro">60008486</td>
+<td>LYCÉE KLÉBER.</td>
+<td>STRASBOURG.</td>
+<td>STRASBOURG.</td>
+<td>60008486</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE LAPÉROUSE.</td>
-<td class="cuerpo_tabla_izq">ALBI.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006908</td>
+<td>LYCÉE LAPÉROUSE.</td>
+<td>ALBI.</td>
+<td>TOULOUSE.</td>
+<td>60006908</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE RENÉ BILLÈRES.</td>
-<td class="cuerpo_tabla_izq">ARGELÈS-GAZOST.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006611</td>
+<td>LYCÉE RENÉ BILLÈRES.</td>
+<td>ARGELÈS-GAZOST.</td>
+<td>TOULOUSE.</td>
+<td>60006611</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE EDMOND ROSTAND.</td>
-<td class="cuerpo_tabla_izq">BAGNÈRES-DE-LUCHON.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006581</td>
+<td>LYCÉE EDMOND ROSTAND.</td>
+<td>BAGNÈRES-DE-LUCHON.</td>
+<td>TOULOUSE.</td>
+<td>60006581</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CLÉMENT MAROT.</td>
-<td class="cuerpo_tabla_izq">CAHORS.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006945</td>
+<td>LYCÉE CLÉMENT MAROT.</td>
+<td>CAHORS.</td>
+<td>TOULOUSE.</td>
+<td>60006945</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE INTERNATIONAL VICTOR HUGO.</td>
-<td class="cuerpo_tabla_izq">COLOMIERS.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006571</td>
+<td>LYCÉE INTERNATIONAL VICTOR HUGO.</td>
+<td>COLOMIERS.</td>
+<td>TOULOUSE.</td>
+<td>60006571</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MARÉCHAL LANNES.</td>
-<td class="cuerpo_tabla_izq">LECTOURE.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006593</td>
+<td>LYCÉE MARÉCHAL LANNES.</td>
+<td>LECTOURE.</td>
+<td>TOULOUSE.</td>
+<td>60006593</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JULES MICHELET.</td>
-<td class="cuerpo_tabla_izq">MONTAUBAN.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006911</td>
+<td>LYCÉE JULES MICHELET.</td>
+<td>MONTAUBAN.</td>
+<td>TOULOUSE.</td>
+<td>60006911</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PIERRE D'ARAGON.</td>
-<td class="cuerpo_tabla_izq">MURET.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60008759</td>
+<td>LYCÉE PIERRE D'ARAGON.</td>
+<td>MURET.</td>
+<td>TOULOUSE.</td>
+<td>60008759</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PYRÈNE.</td>
-<td class="cuerpo_tabla_izq">PAMIERS.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006601</td>
+<td>LYCÉE PYRÈNE.</td>
+<td>PAMIERS.</td>
+<td>TOULOUSE.</td>
+<td>60006601</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN JAURÈS.</td>
-<td class="cuerpo_tabla_izq">SAINT-AFFRIQUE.</td>
-<td class="cuerpo_tabla_izq">TOULOUSE.</td>
-<td class="cuerpo_tabla_centro">60006957</td>
+<td>LYCÉE JEAN JAURÈS.</td>
+<td>SAINT-AFFRIQUE.</td>
+<td>TOULOUSE.</td>
+<td>60006957</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ALBERT CAMUS.</td>
-<td class="cuerpo_tabla_izq">BOIS-COLOMBES.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60006647</td>
+<td>LYCÉE ALBERT CAMUS.</td>
+<td>BOIS-COLOMBES.</td>
+<td>VERSAILLES.</td>
+<td>60006647</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE NIKOLA TESLA<sup>(4)</sup>.</td>
-<td class="cuerpo_tabla_izq">DOURDAN.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60006635</td>
+<td>LYCÉE NIKOLA TESLA<sup>(4)</sup>.</td>
+<td>DOURDAN.</td>
+<td>VERSAILLES.</td>
+<td>60006635</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE VAN GOGH.</td>
-<td class="cuerpo_tabla_izq">ERMONT.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60006659</td>
+<td>LYCÉE VAN GOGH.</td>
+<td>ERMONT.</td>
+<td>VERSAILLES.</td>
+<td>60006659</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE EMILIE DE BRETEUIL.</td>
-<td class="cuerpo_tabla_izq">MONTIGNY-LE-BRETONNEUX.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60006623</td>
+<td>LYCÉE EMILIE DE BRETEUIL.</td>
+<td>MONTIGNY-LE-BRETONNEUX.</td>
+<td>VERSAILLES.</td>
+<td>60006623</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">NOUVEAU LYCÉE DE PALAISEAU.</td>
-<td class="cuerpo_tabla_izq">PALAISEAU.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60009181</td>
+<td>NOUVEAU LYCÉE DE PALAISEAU.</td>
+<td>PALAISEAU.</td>
+<td>VERSAILLES.</td>
+<td>60009181</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE CAMILLE PISSARRO.</td>
-<td class="cuerpo_tabla_izq">PONTOISE.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60008841</td>
+<td>LYCÉE CAMILLE PISSARRO.</td>
+<td>PONTOISE.</td>
+<td>VERSAILLES.</td>
+<td>60008841</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE ÉVARISTE GALOIS.</td>
-<td class="cuerpo_tabla_izq">SARTROUVILLE.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60008851</td>
+<td>LYCÉE ÉVARISTE GALOIS.</td>
+<td>SARTROUVILLE.</td>
+<td>VERSAILLES.</td>
+<td>60008851</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE MARIE CURIE.</td>
-<td class="cuerpo_tabla_izq">SCEAUX.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60006660</td>
+<td>LYCÉE MARIE CURIE.</td>
+<td>SCEAUX.</td>
+<td>VERSAILLES.</td>
+<td>60006660</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE PAUL LANGEVIN.</td>
-<td class="cuerpo_tabla_izq">SURESNES.</td>
-<td class="cuerpo_tabla_izq">VERSAILLES.</td>
-<td class="cuerpo_tabla_centro">60008917</td>
+<td>LYCÉE PAUL LANGEVIN.</td>
+<td>SURESNES.</td>
+<td>VERSAILLES.</td>
+<td>60008917</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE JEAN MONNET.</td>
-<td class="cuerpo_tabla_izq">BRUXELLES.</td>
-<td class="cuerpo_tabla_izq">BELGIQUE.</td>
-<td class="cuerpo_tabla_centro">60009211</td>
+<td>LYCÉE JEAN MONNET.</td>
+<td>BRUXELLES.</td>
+<td>BELGIQUE.</td>
+<td>60009211</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ÉCOLE FRANÇAISE DE LA HAVANE.</td>
-<td class="cuerpo_tabla_izq">LA HAVANE.</td>
-<td class="cuerpo_tabla_izq">CUBA.</td>
-<td class="cuerpo_tabla_centro">60008929</td>
+<td>ÉCOLE FRANÇAISE DE LA HAVANE.</td>
+<td>LA HAVANE.</td>
+<td>CUBA.</td>
+<td>60008929</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">LYCÉE LOUIS MASSIGNON.</td>
-<td class="cuerpo_tabla_izq">BOUSKOURA.</td>
-<td class="cuerpo_tabla_izq">MAROC.</td>
-<td class="cuerpo_tabla_centro">60009223</td>
+<td>LYCÉE LOUIS MASSIGNON.</td>
+<td>BOUSKOURA.</td>
+<td>MAROC.</td>
+<td>60009223</td>
 </tr>
 </tbody>
 <tfoot>
 <tr>
 <td colspan="4">
-<p class="cita"><sup>(1)</sup> Antes LYCÉE INTERNATIONAL JEANNE D’ARC.</p>
-<p class="cita"><sup>(2)</sup> Antes LYCÉE JEANNE D’ARC.</p>
-<p class="cita"><sup>(3)</sup> Antes LYCÉE EUROPÉEN STÉPHANE HESSEL.</p>
-<p class="cita"><sup>(4)</sup> Antes LYCÉE FRANCISQUE SARCEY.</p>
+<p><sup>(1)</sup> Antes LYCÉE INTERNATIONAL JEANNE D’ARC.</p>
+<p><sup>(2)</sup> Antes LYCÉE JEANNE D’ARC.</p>
+<p><sup>(3)</sup> Antes LYCÉE EUROPÉEN STÉPHANE HESSEL.</p>
+<p><sup>(4)</sup> Antes LYCÉE FRANCISQUE SARCEY.</p>
 </td>
 </tr>
 </tfoot>

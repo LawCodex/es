@@ -256,12 +256,6 @@ e) La reutilización, en su caso, del agua residual depurada en los términos de
 
 a) La gestión del procedimiento de licencia ambiental, así como la vigilancia, control y ejercicio de la potestad sancionadora con respecto a las actividades sometidas a dicho instrumento y a la declaración responsable de los efectos ambientales.
 
-> Téngase en cuenta que esta actualización de la letra a), establecida por la disposición final 2.1 de la Ley 2/2026, de 12 de marzo, [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "a) La gestión del procedimiento de calificación ambiental, así como la vigilancia, control y ejercicio de la potestad sancionadora con respecto a las actividades sometidas a dicho instrumento."
-
 b) La programación, ejecución y control de medidas de mejora de la calidad del aire, que deberán cumplir con las determinaciones de los planes de nivel supramunicipal o autonómico, aprobados por la Junta de Andalucía.
 
 c) La declaración y delimitación de suelo contaminado, en los casos en que dicho suelo esté íntegramente comprendido dentro de su término municipal.
@@ -271,12 +265,6 @@ d) La aprobación de los planes de descontaminación y la declaración de suelo 
 e) La ordenación, ejecución y control de las áreas del territorio municipal que admitan flujos luminosos medios y elevados y el establecimiento de parámetros de luminosidad.
 
 f) La ordenación, planificación, programación y ejecución de actuaciones en materia de protección del medio ambiente contra ruidos y vibraciones y el ejercicio de la potestad sancionadora en relación con actividades no sometidas a autorización ambiental integrada, autorización ambiental unificada o autorización ambiental unificada simplificada.
-
-> Téngase en cuenta que esta actualización de la letra f), establecida por la disposición final 2.2 de la Ley 2/2026, de 12 de marzo, [Ref. BOE-A-2026-7558](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7558), entra en vigor el 20 de junio de 2026, según determina su disposición final 7.
-
-> Redacción anterior:
-
-> "f) La ordenación, planificación, programación y ejecución de actuaciones en materia de protección del medio ambiente contra ruidos y vibraciones y el ejercicio de la potestad sancionadora en relación con actividades no sometidas a autorización ambiental integrada o unificada."
 
 g) La programación de actuaciones en materia de información ambiental y de educación ambiental para la sostenibilidad.
 

@@ -204,12 +204,6 @@ En el caso previsto en el párrafo anterior, el modelo 240, «Comunicación de l
 
 3\. Los contribuyentes cuyo período de transición finalice el 31 de diciembre, distintos de los previstos en el apartado anterior, podrán utilizar como medio de pago de las deudas tributarias resultantes de la misma la domiciliación en los términos previstos en el artículo 19, si bien, la domiciliación bancaria a que se refiere dicho artículo podrá realizarse desde el día 1 de julio hasta el 20 de julio, ambos inclusive. En este caso, el plazo de domiciliación del modelo 242 que deba presentarse según lo previsto en el apartado anterior será del 1 al 22 de julio de 2026.
 
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por la disposición final 1 de la Orden HAC/529/2026, de 7 de mayo, [Ref. BOE-A-2026-11583](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11583), entra en vigor el 1 de julio de 2026 y será aplicable en la forma señalada en su disposición final 2.
-
-> Redacción anterior:
-
-> "3. Los contribuyentes cuyo período de transición finalice el 31 de diciembre, distintos de los previstos en el apartado anterior, podrán utilizar como medio de pago de las deudas tributarias resultantes de la misma la domiciliación en los términos previstos en el artículo 19, si bien, la domiciliación bancaria a que se refiere dicho artículo podrá realizarse desde el día 1 de julio hasta el 20 de julio, ambos inclusive. En este caso, el plazo de domiciliación del modelo 242 que deba presentarse según lo previsto en el apartado anterior será del 1 al 21 de julio de 2026."
-
 > Se modifica el apartado 3 por la disposición final 1 de la Orden HAC/529/2026, de 7 de mayo. [Ref. BOE-A-2026-11583](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11583)
 
 > Esta modificación entra en vigor el 1 de julio de 2026 y será aplicable en la forma señalada en la disposición final 2 de la citada Orden.

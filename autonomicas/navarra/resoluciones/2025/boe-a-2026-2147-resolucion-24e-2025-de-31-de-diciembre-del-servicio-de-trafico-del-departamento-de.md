@@ -174,133 +174,127 @@ Pamplona, 31 de diciembre de 2025.–El Director del Servicio de Tráfico, José
 
 ## ANEXO I — Restricciones para pruebas deportivas, marchas ciclistas y otros eventos
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Desde</th>
-<th class="cabeza_tabla" colspan="2">Hasta</th>
+<th colspan="2">Desde</th>
+<th colspan="2">Hasta</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Hora</th>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Hora</th>
+<th>Día</th>
+<th>Hora</th>
+<th>Día</th>
+<th>Hora</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">Todos los domingos y festivos.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">Todos los domingos y festivos.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>Todos los domingos y festivos.</td>
+<td>15:00</td>
+<td>Todos los domingos y festivos.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de enero.</td>
-<td class="cuerpo_tabla_centro">00:00</td>
-<td class="cuerpo_tabla_izq">1 de enero.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>1 de enero.</td>
+<td>00:00</td>
+<td>1 de enero.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">6 de marzo.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">8 de marzo.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>6 de marzo.</td>
+<td>15:00</td>
+<td>8 de marzo.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14 de marzo.</td>
-<td class="cuerpo_tabla_centro">00:00</td>
-<td class="cuerpo_tabla_izq">14 de marzo.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>14 de marzo.</td>
+<td>00:00</td>
+<td>14 de marzo.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de abril.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">6 de abril.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>1 de abril.</td>
+<td>15:00</td>
+<td>6 de abril.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">1 de julio.</td>
-<td class="cuerpo_tabla_centro">00:00</td>
-<td class="cuerpo_tabla_izq">1 de julio.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>1 de julio.</td>
+<td>00:00</td>
+<td>1 de julio.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">5 de julio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">14 de julio.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>5 de julio.</td>
+<td>15:00</td>
+<td>14 de julio.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">31 de julio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">1 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
+<td>31 de julio.</td>
+<td>15:00</td>
+<td>1 de agosto.</td>
+<td>15:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">14 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">16 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
+<td>14 de agosto.</td>
+<td>15:00</td>
+<td>16 de agosto.</td>
+<td>15:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">28 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">29 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
+<td>28 de agosto.</td>
+<td>15:00</td>
+<td>29 de agosto.</td>
+<td>15:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">31 de agosto.</td>
-<td class="cuerpo_tabla_centro">08:00</td>
-<td class="cuerpo_tabla_izq">1 de septiembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>31 de agosto.</td>
+<td>08:00</td>
+<td>1 de septiembre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">18 de octubre.</td>
-<td class="cuerpo_tabla_centro">00:00</td>
-<td class="cuerpo_tabla_izq">18 de octubre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>18 de octubre.</td>
+<td>00:00</td>
+<td>18 de octubre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 de noviembre.</td>
-<td class="cuerpo_tabla_centro">00:00</td>
-<td class="cuerpo_tabla_izq">2 de noviembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>2 de noviembre.</td>
+<td>00:00</td>
+<td>2 de noviembre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">28 de noviembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">29 de noviembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
+<td>28 de noviembre.</td>
+<td>15:00</td>
+<td>29 de noviembre.</td>
+<td>15:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">3 de diciembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>2 de diciembre.</td>
+<td>15:00</td>
+<td>3 de diciembre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">4 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">5 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
+<td>4 de diciembre.</td>
+<td>15:00</td>
+<td>5 de diciembre.</td>
+<td>15:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">24 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">25 de diciembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>24 de diciembre.</td>
+<td>15:00</td>
+<td>25 de diciembre.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">31 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">31 de diciembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>31 de diciembre.</td>
+<td>15:00</td>
+<td>31 de diciembre.</td>
+<td>24:00</td>
 </tr>
 </tbody>
 </table>
@@ -498,55 +492,49 @@ C. Transportes especiales que precisen servicio de escolta por parte de los cuer
 
 Con el objeto de garantizar la libre circulación y la fluidez del tráfico durante el año 2026 se solicita al Organismo titular de las carreteras la suspensión de obras que afecten a la plataforma de circulación en las siguientes fechas:
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" colspan="2">Desde</th>
-<th class="cabeza_tabla" colspan="2">Hasta</th>
+<th colspan="2">Desde</th>
+<th colspan="2">Hasta</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Hora</th>
-<th class="cabeza_tabla">Día</th>
-<th class="cabeza_tabla">Hora</th>
+<th>Día</th>
+<th>Hora</th>
+<th>Día</th>
+<th>Hora</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">1 de abril.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">6 de abril.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>1 de abril.</td>
+<td>15:00</td>
+<td>6 de abril.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">27 de junio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">1 de julio.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>27 de junio.</td>
+<td>15:00</td>
+<td>1 de julio.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">31 de julio.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">2 agosto.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>31 de julio.</td>
+<td>15:00</td>
+<td>2 agosto.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">29 de agosto.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">31 de agosto.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>29 de agosto.</td>
+<td>15:00</td>
+<td>31 de agosto.</td>
+<td>24:00</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">2 de diciembre.</td>
-<td class="cuerpo_tabla_centro">15:00</td>
-<td class="cuerpo_tabla_izq">8 de diciembre.</td>
-<td class="cuerpo_tabla_centro">24:00</td>
+<td>2 de diciembre.</td>
+<td>15:00</td>
+<td>8 de diciembre.</td>
+<td>24:00</td>
 </tr>
 </tbody>
 </table>
@@ -555,58 +543,49 @@ Con el objeto de garantizar la libre circulación y la fluidez del tráfico dura
 
 Todos los días del año (de 0:00 a 24:00 horas):
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Ctra.</th>
-<th class="cabeza_tabla" colspan="2">Inicio</th>
-<th class="cabeza_tabla" colspan="2">Final</th>
-<th class="cabeza_tabla" rowspan="2">Vehículos Limitados</th>
-<th class="cabeza_tabla" rowspan="2">Sentido</th>
+<th rowspan="2">Ctra.</th>
+<th colspan="2">Inicio</th>
+<th colspan="2">Final</th>
+<th rowspan="2">Vehículos Limitados</th>
+<th rowspan="2">Sentido</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
-<th class="cabeza_tabla">P.K.</th>
-<th class="cabeza_tabla">Población</th>
+<th>P.K.</th>
+<th>Población</th>
+<th>P.K.</th>
+<th>Población</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">NA-8607</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Pueyo.</td>
-<td class="cuerpo_tabla_coma">4,730</td>
-<td class="cuerpo_tabla_izq">Tafalla.</td>
-<td class="cuerpo_tabla_centro">MMA&gt;7,5 Tm.</td>
-<td class="cuerpo_tabla_izq">Ascendente.</td>
+<td>NA-8607</td>
+<td>0</td>
+<td>Pueyo.</td>
+<td>4,730</td>
+<td>Tafalla.</td>
+<td>MMA&gt;7,5 Tm.</td>
+<td>Ascendente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA-8607</td>
-<td class="cuerpo_tabla_coma">4,680</td>
-<td class="cuerpo_tabla_izq">Tafalla.</td>
-<td class="cuerpo_tabla_coma">6,510</td>
-<td class="cuerpo_tabla_izq">Tafalla.</td>
-<td class="cuerpo_tabla_centro">MMA&gt;7,5 Tm.</td>
-<td class="cuerpo_tabla_izq">Descendente.</td>
+<td>NA-8607</td>
+<td>4,680</td>
+<td>Tafalla.</td>
+<td>6,510</td>
+<td>Tafalla.</td>
+<td>MMA&gt;7,5 Tm.</td>
+<td>Descendente.</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">NA-8608</td>
-<td class="cuerpo_tabla_coma">0</td>
-<td class="cuerpo_tabla_izq">Tafalla.</td>
-<td class="cuerpo_tabla_coma">1,440</td>
-<td class="cuerpo_tabla_izq">Tafalla.</td>
-<td class="cuerpo_tabla_centro">MMA&gt;7,5 Tm.</td>
-<td class="cuerpo_tabla_izq">Descendente.</td>
+<td>NA-8608</td>
+<td>0</td>
+<td>Tafalla.</td>
+<td>1,440</td>
+<td>Tafalla.</td>
+<td>MMA&gt;7,5 Tm.</td>
+<td>Descendente.</td>
 </tr>
 </tbody>
 </table>

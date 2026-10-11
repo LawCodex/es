@@ -147,108 +147,108 @@ Dos. En los estados de ingresos de los entes referidos en el apartado anterior s
 
 (Miles de pesetas)
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Entes</p>
+<p>Entes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Capítulos económicos</p>
+<p>Capítulos económicos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Capítulos I a VII <br>Ingresos no financieros</p>
+<p>Capítulos I a VII <br>Ingresos no financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Capítulo VIII <br>Activos financieros</p>
+<p>Capítulo VIII <br>Activos financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total ingresos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13.722.392.468</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">64.439.300</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">13.786.831.768</p>
+<p>Total ingresos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos administrativos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.898.982.191</p>
+<p>13.722.392.468</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">46.289.005</p>
+<p>64.439.300</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.945.271.196</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos autónomos comerciales, industriales, financieros o análogos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.283.588.393</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">345.710</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.283.934.103</p>
+<p>13.786.831.768</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
+<p>Organismos autónomos administrativos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.353.540.084</p>
+<p>1.898.982.191</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.275.000</p>
+<p>46.289.005</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.360.815.084</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entes del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12.386.745</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.463.202</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">14.849.947</p>
+<p>1.945.271.196</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Organismos autónomos comerciales, industriales, financieros o análogos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.270.889.881</p>
+<p>1.283.588.393</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">120.812.217</p>
+<p>345.710</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">24.391.702.098</p>
+<p>1.283.934.103</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Seguridad Social</p>
+</td>
+<td>
+<p>7.353.540.084</p>
+</td>
+<td>
+<p>7.275.000</p>
+</td>
+<td>
+<p>7.360.815.084</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entes del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>12.386.745</p>
+</td>
+<td>
+<p>2.463.202</p>
+</td>
+<td>
+<p>14.849.947</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>24.270.889.881</p>
+</td>
+<td>
+<p>120.812.217</p>
+</td>
+<td>
+<p>24.391.702.098</p>
 </td>
 </tr>
 </table>
@@ -257,171 +257,171 @@ Tres. Para las transferencias internas entre los entes referidos en el apartado 
 
 (Miles de pesetas)
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Transferencias según origen</p>
+<p>Transferencias según origen</p>
 </td>
 <td colspan="6">
-<p class="cabeza_tabla">Transferencias según destino</p>
+<p>Transferencias según destino</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Estado</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cabeza_tabla">Organismos autónomos administrativos</p>
+<p>Organismos autónomos administrativos</p>
 </td>
 <td>
-<p class="cabeza_tabla">Organismos autónomos comerciales</p>
+<p>Organismos autónomos comerciales</p>
 </td>
 <td>
-<p class="cabeza_tabla">Seguridad Social</p>
+<p>Seguridad Social</p>
 </td>
 <td>
-<p class="cabeza_tabla">Entes del art. 1.e) de la presente Ley</p>
+<p>Entes del art. 1.e) de la presente Ley</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.009.549.872</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">247.879.297</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.087.620.367</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">138.944.393</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">4.483.993.929</p>
+<p>Total</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos administrativos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">20.712.483</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">150.000</p>
+<p>1.009.549.872</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.148</p>
+<p>247.879.297</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">396.746</p>
+<p>3.087.620.367</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>138.944.393</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">21.262.377</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos autónomos comerciales, industriales, financieros o análogos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">213.000.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.589.100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.927.236</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">33.415</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">219.549.751</p>
+<p>4.483.993.929</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
+<p>Organismos autónomos administrativos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">193.395.049</p>
+<p>20.712.483</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>150.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>3.148</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">205.989.000</p>
+<p>396.746</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">399.384.049</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entes del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">35.178</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">35.178</p>
+<p>21.262.377</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Organismos autónomos comerciales, industriales, financieros o análogos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">427.107.532</p>
+<p>213.000.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.013.288.972</p>
+<p>3.589.100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">250.809.681</p>
+<p>2.927.236</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.294.074.706</p>
+<p>33.415</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">138.944.393</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.124.225.284</p>
+<p>219.549.751</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Seguridad Social</p>
+</td>
+<td>
+<p>193.395.049</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>205.989.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>399.384.049</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entes del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35.178</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>35.178</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>427.107.532</p>
+</td>
+<td>
+<p>1.013.288.972</p>
+</td>
+<td>
+<p>250.809.681</p>
+</td>
+<td>
+<p>3.294.074.706</p>
+</td>
+<td>
+<p>138.944.393</p>
+</td>
+<td>
+<p>5.124.225.284</p>
 </td>
 </tr>
 </table>
@@ -430,108 +430,108 @@ Cuatro. Los créditos incluidos en los programas y transferencias entre subsecto
 
 (Miles de pesetas)
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Entes</p>
+<p>Entes</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Capítulos económicos</p>
+<p>Capítulos económicos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Capítulos I a VII <br>Gastos no financieros</p>
+<p>Capítulos I a VII <br>Gastos no financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Capítulo VIII <br>Activos financieros</p>
+<p>Capítulo VIII <br>Activos financieros</p>
 </td>
 <td>
-<p class="cabeza_tabla">Total gastos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Estado</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">17.326.706.134</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">825.354.116</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18.152.060.250</p>
+<p>Total gastos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Organismos autónomos administrativos</p>
+<p>Estado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.953.249.311</p>
+<p>17.326.706.134</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.371.898</p>
+<p>825.354.116</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.957.621.209</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Organismos autónomos comerciales, industriales, financieros o análogos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.531.171.018</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.331.171</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.532.502.189</p>
+<p>18.152.060.250</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Seguridad Social</p>
+<p>Organismos autónomos administrativos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.090.297.645</p>
+<p>2.953.249.311</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">8.876.685</p>
+<p>4.371.898</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">11.099.174.330</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Entes del artículo 1.e) de la presente Ley</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.501.340</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">58.500</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">153.559.840</p>
+<p>2.957.621.209</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Organismos autónomos comerciales, industriales, financieros o análogos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33.054.925.448</p>
+<p>1.531.171.018</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">839.992.370</p>
+<p>1.331.171</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">33.894.917.818</p>
+<p>1.532.502.189</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Seguridad Social</p>
+</td>
+<td>
+<p>11.090.297.645</p>
+</td>
+<td>
+<p>8.876.685</p>
+</td>
+<td>
+<p>11.099.174.330</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entes del artículo 1.e) de la presente Ley</p>
+</td>
+<td>
+<p>153.501.340</p>
+</td>
+<td>
+<p>58.500</p>
+</td>
+<td>
+<p>153.559.840</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>33.054.925.448</p>
+</td>
+<td>
+<p>839.992.370</p>
+</td>
+<td>
+<p>33.894.917.818</p>
 </td>
 </tr>
 </table>
@@ -1617,54 +1617,54 @@ En todo caso, serán revisables periódicamente, a instancia del interesado o de
 
 Tres. Durante 1995 las cuantías mínimas de las pensiones de Clases Pasivas quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en los importes siguientes:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con cónyuge a cargo <br>– <br>Pesetas/año</p>
+<p>Con cónyuge a cargo <br>– <br>Pesetas/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cónyuge a cargo <br>– <br>Pesetas/año</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Jubilación o retiro</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">843.080</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">716.520</p>
+<p>Sin cónyuge a cargo <br>– <br>Pesetas/año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Viudedad</p>
+<p>Jubilación o retiro</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>843.080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">716.520</p>
+<p>716.520</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Otros familiares, siendo N el número de beneficiarios de la pensión o pensiones</p>
+<p>Viudedad</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">716.520 / N</p>
+<p>716.520</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Otros familiares, siendo N el número de beneficiarios de la pensión o pensiones</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>716.520 / N</p>
 </td>
 </tr>
 </table>
@@ -1683,263 +1683,263 @@ Tres. A los efectos previstos en el número uno del presente artículo, los pens
 
 Cuatro. Durante 1995 las cuantías mínimas de las pensiones del Sistema de la Seguridad Social, en su modalidad contributiva, quedan fijadas, en cómputo anual, clase de pensión y requisitos concurrentes en el titular, en las cuantías siguientes:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Clase de pensión</p>
+<p>Clase de pensión</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Titulares</p>
+<p>Titulares</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">Con cónyuge a cargo <br>– <br>Pesetas/año</p>
+<p>Con cónyuge a cargo <br>– <br>Pesetas/año</p>
 </td>
 <td>
-<p class="cabeza_tabla">Sin cónyuge a cargo <br>– <br>Pesetas/año</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Jubilación:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Sin cónyuge a cargo <br>– <br>Pesetas/año</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Jubilación:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">843.080</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">716.520</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular menor de sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">737.800</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">625.380</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Invalidez permanente:</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>843.080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Gran invalidez con incremento del 50 por 100</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.264.620</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.074.780</p>
+<p>716.520</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Absoluta</p>
+<p>Titular menor de sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">843.080</p>
+<p>737.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">716.520</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Total: Titular con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">843.080</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">716.520</p>
+<p>625.380</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</p>
+<p>Invalidez permanente:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">843.080</p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">716.520</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Viudedad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con sesenta y cinco años</p>
+<p>Gran invalidez con incremento del 50 por 100</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>1.264.620</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">716.520</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Titular con edad entre sesenta y sesenta y cuatro años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">625.380</p>
+<p>1.074.780</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Titular con menos de sesenta años</p>
+<p>Absoluta</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>843.080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">477.050</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Orfandad:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>716.520</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
+<p>Total: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>843.080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">211.890</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">En la orfandad absoluta el mínimo se incrementará en 477.050 pesetas distribuidas, en su caso, entre los beneficiarios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>716.520</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">En favor de familiares:</p>
+<p>Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>843.080</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Por beneficiario</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">211.890</p>
+<p>716.520</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Si no existe viuda ni huérfano pensionistas:</p>
+<p>Viudedad:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Un solo beneficiario, con sesenta y cinco años</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">545.930</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Un solo beneficiario, menor de sesenta y cinco años</p>
+<p>Titular con sesenta y cinco años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">477.050</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Varios beneficiarios: El mínimo asignado a cada uno se incrementará en el importe que resulte de prorratear 265.160 pesetas entre el número de beneficiarios</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
+<p>716.520</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Subsidio de invalidez provisional y larga enfermedad</p>
+<p>Titular con edad entre sesenta y sesenta y cuatro años</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">532.500</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">455.760</p>
+<p>625.380</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Titular con menos de sesenta años</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>477.050</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Orfandad:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>211.890</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En la orfandad absoluta el mínimo se incrementará en 477.050 pesetas distribuidas, en su caso, entre los beneficiarios</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En favor de familiares:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Por beneficiario</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>211.890</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Si no existe viuda ni huérfano pensionistas:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Un solo beneficiario, con sesenta y cinco años</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>545.930</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Un solo beneficiario, menor de sesenta y cinco años</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>477.050</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Varios beneficiarios: El mínimo asignado a cada uno se incrementará en el importe que resulte de prorratear 265.160 pesetas entre el número de beneficiarios</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Subsidio de invalidez provisional y larga enfermedad</p>
+</td>
+<td>
+<p>532.500</p>
+</td>
+<td>
+<p>455.760</p>
 </td>
 </tr>
 </table>
@@ -2365,80 +2365,80 @@ Con efectos a partir del día 1 de enero de 1995, los apartados 1 y 3 del artíc
 
 «1. La cuota tributaria por este Impuesto se obtendrá aplicando a la cuota íntegra el coeficiente multiplicador que corresponda de los que se indican a continuación, establecidos en función del patrimonio preexistente del contribuyente y del grupo, según el grado de parentesco, señalado en el artículo 20:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Patrimonio preexistente <br>en millones de pesetas</p>
+<p>Patrimonio preexistente <br>en millones de pesetas</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Grupos del artículo 20</p>
+<p>Grupos del artículo 20</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">I y II</p>
+<p>I y II</p>
 </td>
 <td>
-<p class="cabeza_tabla">III</p>
+<p>III</p>
 </td>
 <td>
-<p class="cabeza_tabla">IV</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De 0 a 62</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,0000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,5882</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,0000</p>
+<p>IV</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De más de 62 a 310</p>
+<p>De 0 a 62</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,0500</p>
+<p>1,0000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,6676</p>
+<p>1,5882</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,1000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">De más de 310 a 621</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,1000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">1,7471</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">2,2000</p>
+<p>2,0000</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">De más de 621</p>
+<p>De más de 62 a 310</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,2000</p>
+<p>1,0500</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">1,9059</p>
+<p>1,6676</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">2,4000</p>
+<p>2,1000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De más de 310 a 621</p>
+</td>
+<td>
+<p>1,1000</p>
+</td>
+<td>
+<p>1,7471</p>
+</td>
+<td>
+<p>2,2000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>De más de 621</p>
+</td>
+<td>
+<p>1,2000</p>
+</td>
+<td>
+<p>1,9059</p>
+</td>
+<td>
+<p>2,4000</p>
 </td>
 </tr>
 </table>
@@ -4615,205 +4615,205 @@ Nota 2. «La referencia al préstamo del Instituto Nacional de Industria con el 
 
 ## ANEXO V — Características de la deuda de RTVE, que se propone para ser asumida por el Estado
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td>
-<p class="cabeza_tabla">Entidades</p>
+<p>Entidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fecha de operación</p>
+<p>Fecha de operación</p>
 </td>
 <td>
-<p class="cabeza_tabla">Fecha de vencimiento</p>
+<p>Fecha de vencimiento</p>
 </td>
 <td>
-<p class="cabeza_tabla">Importe <br>– <br>(Millones de pesetas)</p>
+<p>Importe <br>– <br>(Millones de pesetas)</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo de referencia</p>
+<p>Tipo de referencia</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo intereses <br>– <br>Porcentaje</p>
+<p>Tipo intereses <br>– <br>Porcentaje</p>
 </td>
 <td>
-<p class="cabeza_tabla">Períodos intereses</p>
+<p>Períodos intereses</p>
 </td>
 <td>
-<p class="cabeza_tabla">Otras contraprestaciones</p>
+<p>Otras contraprestaciones</p>
 </td>
 <td>
-<p class="cabeza_tabla">Clase deuda</p>
+<p>Clase deuda</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">B. Exterior.</p>
+<p>B. Exterior.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">17-12-1993</p>
+<p>17-12-1993</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">28-10-1996</p>
+<p>28-10-1996</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">16.400</p>
+<p>16.400</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">MIBOR + 0,20 %</p>
+<p>MIBOR + 0,20 %</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">–</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Variable.</p>
+<p>Variable.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Cuotas mensuales de amortización.</p>
+<p>Cuotas mensuales de amortización.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Crédito MIBOR.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Chemical Bank.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">17-12-1992</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">17-12-1996</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">15.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">12,5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Anuales.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Bonos al portador.</p>
+<p>Crédito MIBOR.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">ChemicalBank.</p>
+<p>Chemical Bank.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">17-08-1993</p>
+<p>17-12-1992</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">17-08-2003</p>
+<p>17-12-1996</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">12.900 (1)</p>
+<p>15.000</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">LIBOR+0,55</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5,1</p>
+<p>12,5</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anuales.</p>
+<p>Anuales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">SWAP YEN-fijo/ptas. Var. (LIBOR +0,55).</p>
+<p>–</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Colocación privada.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Varias (2).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">22-12-1993</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">22-12-1998</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">16.393</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">LIBOR+0,30</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Trimestral.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">–</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Crédito sindicado.</p>
+<p>Bonos al portador.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Varias (3).</p>
+<p>ChemicalBank.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20-10-1993</p>
+<p>17-08-1993</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">20-10-2008</p>
+<p>17-08-2003</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">30.000</p>
+<p>12.900 (1)</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>LIBOR+0,55</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">9,45</p>
+<p>5,1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Anuales.</p>
+<p>Anuales.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">–</p>
+<p>SWAP YEN-fijo/ptas. Var. (LIBOR +0,55).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Obligaciones.</p>
+<p>Colocación privada.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>Varias (2).</p>
+</td>
+<td>
+<p>22-12-1993</p>
+</td>
+<td>
+<p>22-12-1998</p>
+</td>
+<td>
+<p>16.393</p>
+</td>
+<td>
+<p>LIBOR+0,30</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Trimestral.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Crédito sindicado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Varias (3).</p>
+</td>
+<td>
+<p>20-10-1993</p>
+</td>
+<td>
+<p>20-10-2008</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>9,45</p>
+</td>
+<td>
+<p>Anuales.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Obligaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Total</p>
+<p>Total</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">90.693</p>
+<p>90.693</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 </table>
@@ -4918,222 +4918,222 @@ La cuantía del componente del módulo de «Otros Gastos» para las unidades con
 
 Conforme a lo dispuesto en el artículo 14 de esta Ley, el coste de personal funcionario docente y no docente y contratado docente tiene el siguiente detalle por Universidades, en miles de pesetas, sin incluir trienios, Seguridad Social ni las partidas que, en aplicación del Real Decreto 1558/1986, de 28 de febrero («Boletín Oficial del Estado» de 31 de julio), y disposiciones que lo desarrollan vengan a incorporar a su presupuesto las Universidades, procedentes de las Instituciones Sanitarias correspondientes, para financiar las retribuciones de las plazas vinculadas:
 
-<table class="tabla">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Universidades</p>
+<p>Universidades</p>
 </td>
 <td>
-<p class="cabeza_tabla">Personal docente</p>
+<p>Personal docente</p>
 </td>
 <td>
-<p class="cabeza_tabla">Personal no docente</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cabeza_tabla">Funcionario <br>y contratado</p>
-</td>
-<td>
-<p class="cabeza_tabla">Funcionario</p>
+<p>Personal no docente</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Alcalá de Henares</p>
+<p>Funcionario <br>y contratado</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">3.058.092</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">805.744</p>
+<p>Funcionario</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Islas Baleares</p>
+<p>Alcalá de Henares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.019.888</p>
+<p>3.058.092</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">385.230</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Extremadura</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.514.078</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">596.869</p>
+<p>805.744</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">León</p>
+<p>Islas Baleares</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">2.498.918</p>
+<p>2.019.888</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">500.860</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Madrid Complutense</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">18.397.418</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.587.074</p>
+<p>385.230</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Madrid Autónoma</p>
+<p>Extremadura</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">7.101.959</p>
+<p>3.514.078</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.138.452</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Madrid Politécnica</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11.462.166</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">2.329.572</p>
+<p>596.869</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Murcia</p>
+<p>León</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">5.716.139</p>
+<p>2.498.918</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">925.220</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Oviedo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">5.998.635</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.106.527</p>
+<p>500.860</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Salamanca</p>
+<p>Madrid Complutense</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.169.511</p>
+<p>18.397.418</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">988.849</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Cantabria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.060.502</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">614.813</p>
+<p>3.587.074</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Valladolid</p>
+<p>Madrid Autónoma</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">6.039.432</p>
+<p>7.101.959</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">939.320</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Zaragoza</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">7.129.581</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">1.295.646</p>
+<p>1.138.452</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">UNED</p>
+<p>Madrid Politécnica</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">4.071.966</p>
+<p>11.462.166</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.395.326</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">Castilla-La Mancha</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">3.251.223</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">708.062</p>
+<p>2.329.572</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Carlos III</p>
+<p>Murcia</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.844.533</p>
+<p>5.716.139</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">566.886</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">La Rioja</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">776.680</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">706.696</p>
+<p>925.220</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">Burgos</p>
+<p>Oviedo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">1.038.165</p>
+<p>5.998.635</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">161.467</p>
+<p>1.106.527</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Salamanca</p>
+</td>
+<td>
+<p>6.169.511</p>
+</td>
+<td>
+<p>988.849</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cantabria</p>
+</td>
+<td>
+<p>3.060.502</p>
+</td>
+<td>
+<p>614.813</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Valladolid</p>
+</td>
+<td>
+<p>6.039.432</p>
+</td>
+<td>
+<p>939.320</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zaragoza</p>
+</td>
+<td>
+<p>7.129.581</p>
+</td>
+<td>
+<p>1.295.646</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>UNED</p>
+</td>
+<td>
+<p>4.071.966</p>
+</td>
+<td>
+<p>1.395.326</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Castilla-La Mancha</p>
+</td>
+<td>
+<p>3.251.223</p>
+</td>
+<td>
+<p>708.062</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carlos III</p>
+</td>
+<td>
+<p>1.844.533</p>
+</td>
+<td>
+<p>566.886</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Rioja</p>
+</td>
+<td>
+<p>776.680</p>
+</td>
+<td>
+<p>706.696</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Burgos</p>
+</td>
+<td>
+<p>1.038.165</p>
+</td>
+<td>
+<p>161.467</p>
 </td>
 </tr>
 </table>
@@ -5146,129 +5146,129 @@ Sección 17. Ministerio de Obras Públicas, Transporte y Medio Ambiente.
 
 El límite de compromiso se fija a nivel de programa en el capítulo VI, con el siguiente detalle:
 
-<table class="tabla_ancha">
+<table>
 <tr>
 <td rowspan="2">
-<p class="cabeza_tabla">Programa</p>
+<p>Programa</p>
 </td>
 <td rowspan="2">
-<p class="cabeza_tabla">Denominación</p>
+<p>Denominación</p>
 </td>
 <td colspan="3">
-<p class="cabeza_tabla">Anualidades e importes</p>
+<p>Anualidades e importes</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cabeza_tabla">1996</p>
+<p>1996</p>
 </td>
 <td>
-<p class="cabeza_tabla">1997</p>
+<p>1997</p>
 </td>
 <td>
-<p class="cabeza_tabla">1998</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">513.D</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Creación de Infraestructuras de Carreteras</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">313.489.225</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">278.657.090</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">243.824.950</p>
+<p>1998</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">513.E</p>
+<p>513.D</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Conservación y Explotación de Carreteras</p>
+<p>Creación de Infraestructuras de Carreteras</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">63.748.800</p>
+<p>313.489.225</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">56.665.600</p>
+<p>278.657.090</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">49.582.400</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">512.A</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Gestión e Infraestructura de Recursos Hidráulicos</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">141.630.660</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">125.893.920</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">110.157.180</p>
+<p>243.824.950</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">513.A</p>
+<p>513.E</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infraestructura del Transporte Ferroviario</p>
+<p>Conservación y Explotación de Carreteras</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">61.650.000</p>
+<p>63.748.800</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">54.800.000</p>
+<p>56.665.600</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">47.950.000</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_centro">514.C</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Actuación en la Costa</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">16.875.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">11.250.000</p>
-</td>
-<td>
-<p class="cuerpo_tabla_der">9.735.000</p>
+<p>49.582.400</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">441.A</p>
+<p>512.A</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Infraestructura Urbana de Saneamiento y Calidad del Agua</p>
+<p>Gestión e Infraestructura de Recursos Hidráulicos</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">16.515.000</p>
+<p>141.630.660</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">14.680.000</p>
+<p>125.893.920</p>
 </td>
 <td>
-<p class="cuerpo_tabla_der">12.845.000</p>
+<p>110.157.180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>513.A</p>
+</td>
+<td>
+<p>Infraestructura del Transporte Ferroviario</p>
+</td>
+<td>
+<p>61.650.000</p>
+</td>
+<td>
+<p>54.800.000</p>
+</td>
+<td>
+<p>47.950.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>514.C</p>
+</td>
+<td>
+<p>Actuación en la Costa</p>
+</td>
+<td>
+<p>16.875.000</p>
+</td>
+<td>
+<p>11.250.000</p>
+</td>
+<td>
+<p>9.735.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>441.A</p>
+</td>
+<td>
+<p>Infraestructura Urbana de Saneamiento y Calidad del Agua</p>
+</td>
+<td>
+<p>16.515.000</p>
+</td>
+<td>
+<p>14.680.000</p>
+</td>
+<td>
+<p>12.845.000</p>
 </td>
 </tr>
 </table>

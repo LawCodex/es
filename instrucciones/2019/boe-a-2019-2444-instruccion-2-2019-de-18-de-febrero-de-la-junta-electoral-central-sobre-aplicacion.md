@@ -1,0 +1,71 @@
+---
+title: "Instrucción 2/2019, de 18 de febrero, de la Junta Electoral Central, sobre aplicación de las disposiciones legales en relación a los gastos electorales, las subvenciones para el envío directo de propaganda electoral y la contabilidad electoral, en caso de concurrencia de elecciones locales, autonómicas y al Parlamento Europeo"
+identifier: "BOE-A-2019-2444"
+eli: "https://www.boe.es/eli/es/ins/2019/02/18/2"
+type: instruction
+rank: "Instrucción"
+jurisdiction: es
+language: es
+department: "Junta Electoral Central"
+date: 2019-02-18
+published: 2019-02-22
+in_force_from: 2019-02-23
+last_amended: 2019-03-13
+consolidated: 2025-12-20
+gazette: "Boletín Oficial del Estado núm. 46"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2019-2444"
+retrieved: 2026-10-11
+---
+
+# Instrucción 2/2019, de 18 de febrero, de la Junta Electoral Central, sobre aplicación de las disposiciones legales en relación a los gastos electorales, las subvenciones para el envío directo de propaganda electoral y la contabilidad electoral, en caso de concurrencia de elecciones locales, autonómicas y al Parlamento Europeo
+
+El artículo 131.2 de la Ley Orgánica del Régimen Electoral General, establece que, en el supuesto de coincidencia de dos o más elecciones por sufragio universal directo, los partidos, federaciones, coaliciones y agrupaciones de electores concurrentes no podrán realizar gastos electorales suplementarios en cuantía superior en un 25 por 100 de los máximos permitidos para las elecciones a Cortes Generales.
+
+Por otra parte, disposiciones especiales de la Ley Orgánica del Régimen Electoral General y la legislación autonómica prevén una subvención por el envío personal y directo a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral.
+
+Las numerosas consultas formuladas en relación con las elecciones celebradas en 1999 dieron lugar a las Instrucciones de la Junta Electoral de Central de 15 de marzo y 27 de abril de 1999.
+
+Parece conveniente reunir estos criterios en una sola Instrucción, incluyendo otras resoluciones adoptadas con posterioridad.
+
+Por ello, en ejercicio de las facultades que le concede el artículo 19.1 c) y f) de la Ley Orgánica del Régimen Electoral General, la Junta Electoral Central, en su reunión de 18 de febrero de 2019, ha acordado aprobar la siguiente
+
+INSTRUCCIÓN
+
+## Primera. Límite de gastos electorales.
+
+1\. En caso de concurrencia de elecciones locales, autonómicas y al Parlamento Europeo, el límite de gastos electorales se determinará en la forma prevista en la presente Instrucción.
+
+2\. En el supuesto de agrupaciones de electores y de entidades políticas que concurran a uno solo de los procesos electorales a celebrar, el límite de los gastos electorales será el que proceda con arreglo a las normas especiales relativas a la clase de elección a la que concurran.
+
+3\. En el caso de entidades políticas concurrentes a varios procesos electorales, el límite de gastos será el resultante de sumar las siguientes cantidades, según los distintos ámbitos territoriales:
+
+1.ª Comunidades Autónomas en las que se celebren elecciones para la correspondiente Asamblea legislativa: la cifra mayor resultante de la aplicación del límite de gastos legalmente previsto para las elecciones locales, las del Parlamento Europeo o las de la correspondiente Asamblea Legislativa, incrementada dicha cifra en un 25 por 100 del límite legal de gastos establecido para las elecciones a Cortes Generales, en relación con el ámbito correspondiente.
+
+2.ª Comunidades Autónomas en las que no se celebren elecciones a las correspondientes Asambleas legislativas: la cifra mayor resultante de aplicar el límite de gastos legalmente previsto para las elecciones locales o para las del Parlamento Europeo, incrementada dicha cifra en un 25 por 100 del límite legal de gastos de las elecciones a Cortes Generales, en relación con el ámbito correspondiente.
+
+La aplicación de estos criterios requerirá la efectiva presentación de las candidaturas en el ámbito territorial de que se trate.
+
+4\. El límite legal previsto en el artículo 131.2 de la Ley Orgánica del Régimen Electoral General no resulta aplicable a las elecciones a las Juntas Generales de los Territorios Históricos del País Vasco por ser objeto de regulación separada y de fiscalización por órganos distintos, por lo que el límite legal de gastos será el establecido en su respectiva normativa legal.
+
+5\. En caso de concurrencia de procesos electorales, si un partido político se presenta en uno de ellos de forma independiente y en otro formando parte de una coalición, deben considerarse formaciones políticas distintas, por lo que no cabe aplicar a uno y otra el límite de gastos electorales previsto en el artículo 131.2 de la LOREG.
+
+Este criterio resulta aplicable al supuesto en que un partido se presente en coalición en un proceso electoral y con una coalición distinta en el otro, sin que tampoco resulte aplicable el citado límite. En estos supuestos deberá aplicarse el límite de gastos electorales establecidos para cada proceso electoral en las disposiciones especiales de la LOREG o en la legislación autonómica.
+
+## Segunda. Subvención por envío directo y personal de propaganda electoral.
+
+1\. En el caso de elecciones a Asambleas Legislativas de las Comunidades Autónomas, si la ley electoral autonómica prevé subvención por envío de propaganda electoral, habrá que estar a lo previsto en dicha legislación.
+
+2\. En caso de presentación de candidaturas tanto a las elecciones de Diputados del Parlamento Europeo como a las elecciones locales, teniendo en cuenta la diferente naturaleza de cada proceso electoral y las distintas listas de candidatos, las candidaturas podrán optar por hacer un único envío conjunto de propaganda electoral o realizar uno por cada proceso electoral, debiendo abonarse la subvención en ambos supuestos, siempre que se cumplan los requisitos de realización efectiva de la actividad y demás previstos en los artículos 193.3 y 227.3 de la LOREG.
+
+## Tercera. Contabilidad electoral.
+
+En caso de concurrencia de procesos electorales, la contabilidad electoral de las formaciones políticas deberá ajustarse a la Instrucción que apruebe el Tribunal de Cuentas en relación a los respectivos procesos electorales.
+
+> Se modifica por el apartado único de la Instrucción de 11 de marzo de 2019. [Ref. BOE-A-2019-3565](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3565)
+
+## Cuarta. Publicación en el «Boletín Oficial del Estado» y entrada en vigor.
+
+Dado el carácter general de esta Instrucción, se procederá a su publicación en el «Boletín Oficial del Estado», de conformidad con lo dispuesto en el artículo 18.6 de la Ley Orgánica del Régimen Electoral General, y será de aplicación a partir del día siguiente al de su publicación, sustituyendo y dejando sin efecto las Instrucciones de la Junta Electoral Central de 15 de marzo de 1999, sobre límite de gastos electorales en las elecciones a celebrar el 13 de junio de 1999, y de 27 de abril de 1999, sobre la subvención por envío directo y personal de documentación electorales en el caso de elecciones simultáneas.
+
+Palacio del Congreso de los Diputados, 18 de febrero de 2019.–El Presidente de la Junta Electoral Central, Segundo Menéndez Pérez.

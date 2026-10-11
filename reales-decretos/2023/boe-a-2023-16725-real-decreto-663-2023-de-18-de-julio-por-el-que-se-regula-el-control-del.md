@@ -858,37 +858,32 @@ Dos. El anexo I queda redactado como sigue:
 
 > «Valores de equivalencia para el cálculo de UGM
 
-> <table class="tabla">
-> <colgroup>
-> <col width="17%">
-> <col width="61%">
-> <col width="21%">
-> </colgroup>
+> <table>
 > <tbody>
 > <tr>
-> <td class="cuerpo_tabla_izq" rowspan="6">Bovinos</td>
-> <td class="cuerpo_tabla_izq">De menos de un año.</td>
-> <td class="cuerpo_tabla_coma">0,400</td>
+> <td rowspan="6">Bovinos</td>
+> <td>De menos de un año.</td>
+> <td>0,400</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">De un año a menos de dos años.</td>
-> <td class="cuerpo_tabla_coma">0,700</td>
+> <td>De un año a menos de dos años.</td>
+> <td>0,700</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Machos, de dos años o más.</td>
-> <td class="cuerpo_tabla_coma">1,000</td>
+> <td>Machos, de dos años o más.</td>
+> <td>1,000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Novillas, de dos años o más.</td>
-> <td class="cuerpo_tabla_coma">0,800</td>
+> <td>Novillas, de dos años o más.</td>
+> <td>0,800</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Vacas de aptitud láctea, de dos años o más.</td>
-> <td class="cuerpo_tabla_coma">1,000</td>
+> <td>Vacas de aptitud láctea, de dos años o más.</td>
+> <td>1,000</td>
 > </tr>
 > <tr>
-> <td class="cuerpo_tabla_izq">Otras vacas, de dos años o más.</td>
-> <td class="cuerpo_tabla_coma">0,800»</td>
+> <td>Otras vacas, de dos años o más.</td>
+> <td>0,800»</td>
 > </tr>
 > </tbody>
 > </table>

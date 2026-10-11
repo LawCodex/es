@@ -138,8 +138,6 @@ c) Sin perjuicio de los requisitos de composición de los apartados 1.1 y 1.2, e
 
 d) Reducción del contenido de lactosa de la leche mediante su conversión en glucosa y galactosa. Las modificaciones en la composición de la leche como resultado de este tratamiento únicamente estarán autorizadas si se indican en el envase del producto de forma claramente visible y legible y de manera indeleble. Dicha indicación se entiende sin perjuicio de la obligación de etiquetado nutricional establecida por el Reglamento (UE) n.<sup>o</sup> 1169/2011 de 25 de octubre de 2011 sobre la información alimentaria facilitada al consumidor y por el que se modifican los Reglamentos (CE) n.<sup>o</sup> 1924/2006 y (CE) n.<sup>o</sup> 1925/2006 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 87/250/CEE de la Comisión, la Directiva 90/496/CEE del Consejo, la Directiva 1999/10/CE de la Comisión, la Directiva 2000/13/CE del Parlamento Europeo y del Consejo, las Directivas 2002/67/CE, y 2008/5/CE de la Comisión, y el Reglamento (CE) n.<sup>o</sup> 608/2004 de la Comisión.
 
-> Téngase en cuenta que la letra d) del apartado 1, añadida por el art. 2 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
-
 2.2 Adiciones autorizadas y materias primas:
 
 a) Vitaminas y minerales con arreglo al Reglamento (CE) 1925/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, sobre la adición de vitaminas, minerales y otras sustancias determinadas a los alimentos.
@@ -161,8 +159,6 @@ La lactosa es un componente natural de la leche, normalmente obtenido del lactos
 c) Las enzimas alimentarias autorizadas con arreglo al Reglamento (CE) n.<sup>o</sup> 1332/2008 del Parlamento Europeo y del Consejo.
 
 d) Los aditivos alimentarios autorizados con arreglo al Reglamento (CE) n.<sup>o</sup> 1333/2008 del Parlamento Europeo y del Consejo.
-
-> Téngase en cuenta que las letras c) y d) del apartado 2, añadidas por el art. 2 del Real Decreto 1026/2025, de 12 de noviembre, [Ref. BOE-A-2025-22947](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22947), entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
 
 ### 3. Etiquetado.
 

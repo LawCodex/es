@@ -4200,44 +4200,36 @@ Programa: 142.A. «Tribunales de Justicia».
 
 (En miles de pesetas)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">Máximo de<br> compromisos<br> en el periodo</th>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">Máximo de<br> compromisos<br> en el periodo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1989</th>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
+<th>1989</th>
+<th>1990</th>
+<th>1991</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">86.13.003.9001</td>
-<td class="cuerpo_tabla_izq">Nueva construcción de edificios para sede de órganos judiciales unipersonales.</td>
-<td class="cuerpo_tabla_coma">4.152.000</td>
-<td class="cuerpo_tabla_coma">2.078.000</td>
-<td class="cuerpo_tabla_coma">1.000.000</td>
-<td class="cuerpo_tabla_coma">7.230.000</td>
+<td>86.13.003.9001</td>
+<td>Nueva construcción de edificios para sede de órganos judiciales unipersonales.</td>
+<td>4.152.000</td>
+<td>2.078.000</td>
+<td>1.000.000</td>
+<td>7.230.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">86.13.003.9002</td>
-<td class="cuerpo_tabla_izq">Nueva construcción de edificios para sede de órganos judiciales colegiados.</td>
-<td class="cuerpo_tabla_coma">345.000</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">‒</td>
-<td class="cuerpo_tabla_coma">345.000</td>
+<td>86.13.003.9002</td>
+<td>Nueva construcción de edificios para sede de órganos judiciales colegiados.</td>
+<td>345.000</td>
+<td>‒</td>
+<td>‒</td>
+<td>345.000</td>
 </tr>
 </tbody>
 </table>
@@ -4250,36 +4242,28 @@ Programa: 322.B. «Actuaciones en el mercado de trabajo».
 
 (En miles de pesetas)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">Máximo de<br> compromisos<br> en el periodo</th>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">Máximo de<br> compromisos<br> en el periodo</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1989</th>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
+<th>1989</th>
+<th>1990</th>
+<th>1991</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">88.19.101.9009</td>
-<td class="cuerpo_tabla_izq">Superproyecto. Equipamientos de sistemas informáticos y ofimáticos.</td>
-<td class="cuerpo_tabla_centro">1.530.200</td>
-<td class="cuerpo_tabla_centro">846.900</td>
-<td class="cuerpo_tabla_centro">31.400</td>
-<td class="cuerpo_tabla_centro">2.408.500</td>
+<td>88.19.101.9009</td>
+<td>Superproyecto. Equipamientos de sistemas informáticos y ofimáticos.</td>
+<td>1.530.200</td>
+<td>846.900</td>
+<td>31.400</td>
+<td>2.408.500</td>
 </tr>
 </tbody>
 </table>
@@ -4292,64 +4276,56 @@ Programa: 513.A. «Infraestructura del Transporte Ferroviario».
 
 (En miles de pesetas)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo</p>
-<p class="cabeza_tabla">de compromisos</p>
-<p class="cabeza_tabla">en el periodo</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo</p>
+<p>de compromisos</p>
+<p>en el periodo</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1989</th>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
+<th>1989</th>
+<th>1990</th>
+<th>1991</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">87.23.003.0405</td>
-<td class="cuerpo_tabla_izq">Nuevo acceso al Norte y Noroeste de España.</td>
-<td class="cuerpo_tabla_coma">3.000.000</td>
-<td class="cuerpo_tabla_coma">3.000.000</td>
-<td class="cuerpo_tabla_coma">3.000.000</td>
-<td class="cuerpo_tabla_coma">9.000.000</td>
+<td>87.23.003.0405</td>
+<td>Nuevo acceso al Norte y Noroeste de España.</td>
+<td>3.000.000</td>
+<td>3.000.000</td>
+<td>3.000.000</td>
+<td>9.000.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">87.23.003.0415</td>
-<td class="cuerpo_tabla_izq">Valencia-Tarragona: Alcanar-Tarragona (122 km).</td>
-<td class="cuerpo_tabla_coma">3.670.000</td>
-<td class="cuerpo_tabla_coma">3.670.000</td>
-<td class="cuerpo_tabla_coma">3.670.000</td>
-<td class="cuerpo_tabla_coma">11.010.000</td>
+<td>87.23.003.0415</td>
+<td>Valencia-Tarragona: Alcanar-Tarragona (122 km).</td>
+<td>3.670.000</td>
+<td>3.670.000</td>
+<td>3.670.000</td>
+<td>11.010.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">87.23.003.0420</td>
-<td class="cuerpo_tabla_izq">Madrid-Valencia. La Encina-Játiva (57 km).</td>
-<td class="cuerpo_tabla_coma">1.500.000</td>
-<td class="cuerpo_tabla_coma">1.500.000</td>
-<td class="cuerpo_tabla_coma">1.500.000</td>
-<td class="cuerpo_tabla_coma">4.500.000</td>
+<td>87.23.003.0420</td>
+<td>Madrid-Valencia. La Encina-Játiva (57 km).</td>
+<td>1.500.000</td>
+<td>1.500.000</td>
+<td>1.500.000</td>
+<td>4.500.000</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">87.23.003.0565</td>
-<td class="cuerpo_tabla_izq">Plan de supresión de pasos a nivel (96 pasos).</td>
-<td class="cuerpo_tabla_coma">1.500.000</td>
-<td class="cuerpo_tabla_coma">1.500.000</td>
-<td class="cuerpo_tabla_coma">1.500.000</td>
-<td class="cuerpo_tabla_coma">4.500.000</td>
+<td>87.23.003.0565</td>
+<td>Plan de supresión de pasos a nivel (96 pasos).</td>
+<td>1.500.000</td>
+<td>1.500.000</td>
+<td>1.500.000</td>
+<td>4.500.000</td>
 </tr>
 </tbody>
 </table>
@@ -4362,40 +4338,32 @@ Programa: 126.C. «Boletín Oficial del Estado».
 
 (En miles de pesetas)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo</p>
-<p class="cabeza_tabla">de compromisos</p>
-<p class="cabeza_tabla">en el periodo</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo</p>
+<p>de compromisos</p>
+<p>en el periodo</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1989</th>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
+<th>1989</th>
+<th>1990</th>
+<th>1991</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">88.25.201.0025</td>
-<td class="cuerpo_tabla_izq">Construcción de un edificio industrial para la instalación del diario oficial.</td>
-<td class="cuerpo_tabla_coma">600.000</td>
-<td class="cuerpo_tabla_centro">700.000</td>
-<td class="cuerpo_tabla_centro">300.000</td>
-<td class="cuerpo_tabla_centro">1.600.000</td>
+<td>88.25.201.0025</td>
+<td>Construcción de un edificio industrial para la instalación del diario oficial.</td>
+<td>600.000</td>
+<td>700.000</td>
+<td>300.000</td>
+<td>1.600.000</td>
 </tr>
 </tbody>
 </table>
@@ -4408,48 +4376,40 @@ Sección 17. Ministerio de Obras Públicas y Urbanismo.
 
 (En miles de pesetas)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="3">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo</p>
-<p class="cabeza_tabla">de compromisos</p>
-<p class="cabeza_tabla">en el periodo</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="3">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo</p>
+<p>de compromisos</p>
+<p>en el periodo</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1989</th>
-<th class="cabeza_tabla">1990</th>
-<th class="cabeza_tabla">1991</th>
+<th>1989</th>
+<th>1990</th>
+<th>1991</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">512.A</td>
-<td class="cuerpo_tabla_izq">Gestión e infraestructura de recursos hidráulicos.</td>
-<td class="cuerpo_tabla_coma">52.293.502</td>
-<td class="cuerpo_tabla_coma">54.104.132</td>
-<td class="cuerpo_tabla_coma">53.147.810</td>
-<td class="cuerpo_tabla_coma">159.545.444</td>
+<td>512.A</td>
+<td>Gestión e infraestructura de recursos hidráulicos.</td>
+<td>52.293.502</td>
+<td>54.104.132</td>
+<td>53.147.810</td>
+<td>159.545.444</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_centro">513.D</td>
-<td class="cuerpo_tabla_izq">Creación de infraestructura de carreteras.</td>
-<td class="cuerpo_tabla_coma">243.485.500</td>
-<td class="cuerpo_tabla_coma">290.352.600</td>
-<td class="cuerpo_tabla_coma">213.606.500</td>
-<td class="cuerpo_tabla_coma">747.444.600</td>
+<td>513.D</td>
+<td>Creación de infraestructura de carreteras.</td>
+<td>243.485.500</td>
+<td>290.352.600</td>
+<td>213.606.500</td>
+<td>747.444.600</td>
 </tr>
 </tbody>
 </table>
@@ -4462,37 +4422,30 @@ Programa: 541.A. Investigación Científica.
 
 (En miles de pesetas)
 
-<table class="tabla">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Número de proyecto</th>
-<th class="cabeza_tabla" rowspan="2">Denominación</th>
-<th class="cabeza_tabla" colspan="2">Anualidades e importes</th>
-<th class="cabeza_tabla" rowspan="2">
-<p class="cabeza_tabla">Máximo</p>
-<p class="cabeza_tabla">de compromisos</p>
-<p class="cabeza_tabla">en el periodo</p>
+<th rowspan="2">Número de proyecto</th>
+<th rowspan="2">Denominación</th>
+<th colspan="2">Anualidades e importes</th>
+<th rowspan="2">
+<p>Máximo</p>
+<p>de compromisos</p>
+<p>en el periodo</p>
 </th>
 </tr>
 <tr>
-<th class="cabeza_tabla">1989</th>
-<th class="cabeza_tabla">1990</th>
+<th>1989</th>
+<th>1990</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_centro">88.18.202.0001</td>
-<td class="cuerpo_tabla_izq">Construcción de un buque oceanográfico de carácter polar.</td>
-<td class="cuerpo_tabla_centro">4.441.600</td>
-<td class="cuerpo_tabla_centro">3.901.500</td>
-<td class="cuerpo_tabla_centro">8.343.100</td>
+<td>88.18.202.0001</td>
+<td>Construcción de un buque oceanográfico de carácter polar.</td>
+<td>4.441.600</td>
+<td>3.901.500</td>
+<td>8.343.100</td>
 </tr>
 </tbody>
 </table>

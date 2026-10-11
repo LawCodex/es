@@ -752,8 +752,6 @@ Para la redacción del Plan Director Sectorial Energético de las Illes Balears 
 
 4\. Reducir las emisiones de gases de efecto invernadero teniendo en cuenta una perspectiva climática transversal.
 
-> Téngase en cuenta que los apartados 3 y 4 añadidos por la disposición final 1 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579), entran en vigor el 2 de mayo de 2019.
-
 > Se añaden los apartados 3 y 4, con efectos de 2 de mayo de 2019, por la disposición final 1 de la Ley 10/2019, de 22 de febrero. [Ref. BOE-A-2019-5579](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5579)
 
 #### Artículo 72.
@@ -1548,168 +1546,153 @@ Palma, a 3 de abril de 1998.
 
 ## ANEXO I — Matriz de ordenación del suelo rústico
 
-<table class="tabla_girada">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+<table>
 <thead>
 <tr>
-<th class="cabeza_tabla" rowspan="3"> </th>
-<th class="cabeza_tabla" colspan="4">Sector primario</th>
-<th class="cabeza_tabla" colspan="2">Sector secundario</th>
-<th class="cabeza_tabla" colspan="2">Equipamientos</th>
-<th class="cabeza_tabla" colspan="4">Otros</th>
+<th rowspan="3"> </th>
+<th colspan="4">Sector primario</th>
+<th colspan="2">Sector secundario</th>
+<th colspan="2">Equipamientos</th>
+<th colspan="4">Otros</th>
 </tr>
 <tr>
-<th class="cabeza_tabla" rowspan="2">Actividades extensivas</th>
-<th class="cabeza_tabla" rowspan="2">Actividades intensivas</th>
-<th class="cabeza_tabla" colspan="2">Actividades complementarias</th>
-<th class="cabeza_tabla" rowspan="2">Industria transformación agraria</th>
-<th class="cabeza_tabla" rowspan="2">Industria general</th>
-<th class="cabeza_tabla" rowspan="2">Sin construcción</th>
-<th class="cabeza_tabla" rowspan="2">Resto de equipamientos</th>
-<th class="cabeza_tabla" rowspan="2">Actividades extractivas</th>
-<th class="cabeza_tabla" rowspan="2">Infraestructuras</th>
-<th class="cabeza_tabla" rowspan="2">Vivienda unifamiliar aislada</th>
-<th class="cabeza_tabla" rowspan="2">Protección y educación ambiental</th>
+<th rowspan="2">Actividades extensivas</th>
+<th rowspan="2">Actividades intensivas</th>
+<th colspan="2">Actividades complementarias</th>
+<th rowspan="2">Industria transformación agraria</th>
+<th rowspan="2">Industria general</th>
+<th rowspan="2">Sin construcción</th>
+<th rowspan="2">Resto de equipamientos</th>
+<th rowspan="2">Actividades extractivas</th>
+<th rowspan="2">Infraestructuras</th>
+<th rowspan="2">Vivienda unifamiliar aislada</th>
+<th rowspan="2">Protección y educación ambiental</th>
 </tr>
 <tr>
-<th class="cabeza_tabla">Transformación y venta directa de los productos de la propia explotación agraria</th>
-<th class="cabeza_tabla">Resto de actividades complementarias</th>
+<th>Transformación y venta directa de los productos de la propia explotación agraria</th>
+<th>Resto de actividades complementarias</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="cuerpo_tabla_izq">AANP</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>AANP</td>
+<td>1</td>
+<td>2</td>
+<td>2-3</td>
+<td>2-3</td>
+<td>2-3</td>
+<td>3</td>
+<td>2-3</td>
+<td>3</td>
+<td>3</td>
+<td>2-3</td>
+<td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ANEI</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>ANEI</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2-3</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>2-3</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">ARIP</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>ARIP</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td>2-3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APR</td>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">(1)</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
+<td>APR</td>
+<td>(1)</td>
+<td>(1)</td>
+<td>(1)</td>
+<td>(1)</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">APT</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>APT</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>2-3</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AIA</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>AIA</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">AT</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>AT</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 <tr>
-<td class="cuerpo_tabla_izq">SRG</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">1</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2-3</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">2</td>
-<td class="cuerpo_tabla_centro">1</td>
+<td>SRG</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td>2</td>
+<td>2-3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
 </tr>
 </tbody>
 </table>

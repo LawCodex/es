@@ -809,237 +809,237 @@ d) Sujetos pasivos: Serán sujetos pasivos de la tasa los titulares de las insta
 
 e) Tipos de gravamen y cuota: La cuota tributaria a ingresar será la resultante de multiplicar la base imponible por los tipos de gravamen siguientes para cada tipo de residuos.
 
-<table class="tabla_ancha" border="0">
+<table>
 <tbody>
 <tr>
 <td>
-<p class="cabeza_tabla">Tipo residuo</p>
+<p>Tipo residuo</p>
 </td>
 <td colspan="2">
-<p class="cabeza_tabla">Descripción</p>
+<p>Descripción</p>
 </td>
 <td>
-<p class="cabeza_tabla">Tipo gravamen <br>(€/unid)</p>
+<p>Tipo gravamen <br>(€/unid)</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="centro_cursiva">Sólidos.</p>
+<p>Sólidos.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S01.</p>
+<p>S01.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos sólidos compactables (bolsas de 25 litros).</p>
+<p>Residuos sólidos compactables (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104,74</p>
+<p>104,74</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S02.</p>
+<p>S02.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos no compactables (bolsas de 25 litros).</p>
+<p>Residuos no compactables (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104,74</p>
+<p>104,74</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S03.</p>
+<p>S03.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Cadáveres de animales. Residuos biológicos (bolsas de 25 litros).</p>
+<p>Cadáveres de animales. Residuos biológicos (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">270,76</p>
+<p>270,76</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S04.</p>
+<p>S04.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Agujas hipodérmicas en contenedores rígidos (bolsas de 25 litros).</p>
+<p>Agujas hipodérmicas en contenedores rígidos (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104,74</p>
+<p>104,74</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3">
-<p class="cuerpo_tabla_izq">S05.</p>
+<p>S05.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Sólidos especiales:</p>
+<p>Sólidos especiales:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S051.</p>
+<p>S051.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Residuos con Ir-192 como componente activo (bolsas de 25 litros).</p>
+<p>Residuos con Ir-192 como componente activo (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">104,74</p>
+<p>104,74</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">S052.</p>
+<p>S052.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Sales de Uranio o Torio (bolsas de 25 litros).</p>
+<p>Sales de Uranio o Torio (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">195,82</p>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<p class="centro_cursiva">Mixtos</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">M01.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos mixtos compuestos por líquidos orgánicos más viales (contenedores de 25 litros).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">225,51</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">M02.</p>
-</td>
-<td colspan="2">
-<p class="cuerpo_tabla_izq">Placas y similares con líquidos o geles (bolsas de 25 litros).</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">104,74</p>
+<p>195,82</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="centro_cursiva">Líquidos</p>
+<p>Mixtos</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">L01.</p>
+<p>M01.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos líquidos orgánicos (contenedores de 25 litros).</p>
+<p>Residuos mixtos compuestos por líquidos orgánicos más viales (contenedores de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">229,53</p>
+<p>225,51</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">L02.</p>
+<p>M02.</p>
 </td>
 <td colspan="2">
-<p class="cuerpo_tabla_izq">Residuos líquidos acuosos (contenedores de 25 litros).</p>
+<p>Placas y similares con líquidos o geles (bolsas de 25 litros).</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">195,20</p>
+<p>104,74</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p class="centro_cursiva">Fuentes</p>
+<p>Líquidos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L01.</p>
+</td>
+<td colspan="2">
+<p>Residuos líquidos orgánicos (contenedores de 25 litros).</p>
+</td>
+<td>
+<p>229,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L02.</p>
+</td>
+<td colspan="2">
+<p>Residuos líquidos acuosos (contenedores de 25 litros).</p>
+</td>
+<td>
+<p>195,20</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Fuentes</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">F01.</p>
+<p>F01.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada no supere los 20 litros:</p>
+<p>Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada no supere los 20 litros:</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F011.</p>
+<p>F011.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las fuentes F01 con elementos de semiperíodo inferior o igual al del Co-60.</p>
+<p>Las fuentes F01 con elementos de semiperíodo inferior o igual al del Co-60.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">310,07</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">F012.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Las fuentes F01 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137 incluido éste.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">310,07</p>
+<p>310,07</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F013.</p>
+<p>F012.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las fuentes F01 con elementos de semiperíodo superior al del Cs-137.</p>
+<p>Las fuentes F01 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137 incluido éste.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">310,07</p>
+<p>310,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F013.</p>
+</td>
+<td>
+<p>Las fuentes F01 con elementos de semiperíodo superior al del Cs-137.</p>
+</td>
+<td>
+<p>310,07</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4">
-<p class="cuerpo_tabla_izq">F02.</p>
+<p>F02.</p>
 </td>
 <td colspan="3">
-<p class="cuerpo_tabla_izq">Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada sea superior a 20 l. e inferior o igual a 80 l.</p>
+<p>Fuentes encapsuladas cuya actividad no sobrepase los límites establecidos por el ADR para bultos del Tipo A y el conjunto de la fuente con su contenedor de origen o con el equipo en que va instalada sea superior a 20 l. e inferior o igual a 80 l.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F021.</p>
+<p>F021.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las fuentes F02 con elementos de semiperíodo inferior o igual al del Co-60.</p>
+<p>Las fuentes F02 con elementos de semiperíodo inferior o igual al del Co-60.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">575,85</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">F022.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Las fuentes F02 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137, incluido éste.</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">575,85</p>
+<p>575,85</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">F023.</p>
+<p>F022.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Las fuentes F02 con elementos de semiperíodo superior al del Cs-137.</p>
+<p>Las fuentes F02 con elementos de semiperíodo comprendido entre el del Co-60 y el del Cs-137, incluido éste.</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">575,85</p>
+<p>575,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F023.</p>
+</td>
+<td>
+<p>Las fuentes F02 con elementos de semiperíodo superior al del Cs-137.</p>
+</td>
+<td>
+<p>575,85</p>
 </td>
 </tr>
 </tbody>

@@ -759,308 +759,308 @@ Seis. El artículo 80 queda redactado de la siguiente manera:
 
 La cuantía de la tasa se ajustará a las siguientes tarifas:
 
-<table class="tabla">
+<table>
 <tbody>
 <tr>
 <td colspan="2">
-<p class="cabeza_tabla">Tasas académicas: Escuelas oficiales de idiomas</p>
+<p>Tasas académicas: Escuelas oficiales de idiomas</p>
 </td>
 <td>
-<p class="cabeza_tabla">Euros</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula de curso hasta 70 horas lectivas en primera convocatoria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">35,50</p>
+<p>Euros</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Matrícula de curso hasta 70 horas lectivas en segunda convocatoria y sucesivas</p>
+<p>Matrícula de curso hasta 70 horas lectivas en primera convocatoria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">44,37</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.3</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Matrícula de curso a partir de 71 horas lectivas en primera convocatoria</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">70,00</p>
+<p>35,50</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.4</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Matrícula de curso a partir de 71 horas lectivas en segunda convocatoria y sucesivas</p>
+<p>Matrícula de curso hasta 70 horas lectivas en segunda convocatoria y sucesivas</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">87,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.5</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba de certificación</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">40,00</p>
+<p>44,37</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.6</p>
+<p>1.3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Traslado de matrícula viva o expediente</p>
+<p>Matrícula de curso a partir de 71 horas lectivas en primera convocatoria</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">5,49</p>
+<p>70,00</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>1.4</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>Matrícula de curso a partir de 71 horas lectivas en segunda convocatoria y sucesivas</p>
+</td>
+<td>
+<p>87,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Prueba de certificación</p>
+</td>
+<td>
+<p>40,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>Traslado de matrícula viva o expediente</p>
+</td>
+<td>
+<p>5,49</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <em>Enseñanzas Deportivas</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciclo inicial de grado medio:</p>
+<p>Ciclo inicial de grado medio:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">1.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.ª Matrícula por hora de módulo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,30</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1.2</p>
+<p>1.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2.ª Matrícula y sucesivas por hora de módulo</p>
+<p>1.ª Matrícula por hora de módulo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ciclo final de grado medio:</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>0,30</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2.1</p>
+<p>1.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">1.ª Matrícula por hora de módulo</p>
+<p>2.ª Matrícula y sucesivas por hora de módulo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,35</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2.2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">2.ª Matrícula y sucesivas por hora de módulo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,45</p>
+<p>0,40</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciclo de grado superior:</p>
+<p>Ciclo final de grado medio:</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">3.1</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">1.ª Matrícula por hora de módulo</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">0,45</p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3.2</p>
+<p>2.1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">2.ª Matrícula y sucesivas por hora de módulo</p>
+<p>1.ª Matrícula por hora de módulo</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">0,55</p>
+<p>0,35</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>2.2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>2.ª Matrícula y sucesivas por hora de módulo</p>
+</td>
+<td>
+<p>0,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Ciclo de grado superior:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1</p>
+</td>
+<td>
+<p>1.ª Matrícula por hora de módulo</p>
+</td>
+<td>
+<p>0,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2</p>
+</td>
+<td>
+<p>2.ª Matrícula y sucesivas por hora de módulo</p>
+</td>
+<td>
+<p>0,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <em>Pruebas para la obtención del título de Graduado en Educación Secundaria Obligatoria</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Pruebas para la obtención del título</p>
+<p>Pruebas para la obtención del título</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">39,86</p>
+<p>39,86</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>
 <em>Pruebas de acceso a ciclos formativos</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Ciclos formativos de grado medio</p>
+<p>Ciclos formativos de grado medio</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">6,33</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">2</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Ciclos formativos de grado superior</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">6,33</p>
+<p>6,33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">3</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Prueba específica de las enseñanzas profesionales de artes plásticas y diseño</p>
+<p>Ciclos formativos de grado superior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">3,17</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="cuerpo_tabla_izq">4</p>
-</td>
-<td>
-<p class="cuerpo_tabla_izq">Prueba específica de las enseñanzas deportivas</p>
-</td>
-<td>
-<p class="cuerpo_tabla_centro">12,68</p>
+<p>6,33</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p>3</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">
+<p>Prueba específica de las enseñanzas profesionales de artes plásticas y diseño</p>
+</td>
+<td>
+<p>3,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Prueba específica de las enseñanzas deportivas</p>
+</td>
+<td>
+<p>12,68</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>
 <em>Pruebas para la obtención de títulos</em>
 </p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro"> </p>
+<p> </p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">1</p>
+<p>1</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Título de Técnico</p>
+<p>Título de Técnico</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">52,80</p>
+<p>52,80</p>
 </td>
 </tr>
 <tr>
 <td>
-<p class="cuerpo_tabla_izq">2</p>
+<p>2</p>
 </td>
 <td>
-<p class="cuerpo_tabla_izq">Título de Técnico Superior</p>
+<p>Título de Técnico Superior</p>
 </td>
 <td>
-<p class="cuerpo_tabla_centro">52,80»</p>
+<p>52,80»</p>
 </td>
 </tr>
 </tbody>
